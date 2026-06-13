@@ -63,3 +63,21 @@ def save_merged(
     write_json(path, records)
     return records
 
+
+def save_fresh(
+    path: Path,
+    incoming: Iterable[dict[str, Any]],
+    *,
+    key: str,
+    date_key: str | None = "date",
+    limit: int = MAX_STORED_ITEMS,
+) -> list[dict[str, Any]]:
+    """Replace the store with only the freshly scraped records.
+
+    Old items are discarded so every run reflects exactly what was just
+    collected (deduplicated by key, newest first, capped at limit).
+    """
+    records = merge_records([], incoming, key=key, date_key=date_key, limit=limit)
+    write_json(path, records)
+    return records
+
