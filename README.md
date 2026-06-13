@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-13 20:58 UTC
+Last Updated: 2026-06-13 21:59 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -68,8 +68,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-13 | robotneu/visual_2_3_origin_and_hard | 0 | 0 | [link](https://huggingface.co/robotneu/visual_2_3_origin_and_hard) |
 | 2026-06-13 | SakikoTogawa/pi0_robotwin_lora-stack_blocks_three-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-stack_blocks_three-100-himaconpp_repo) |
 | 2026-06-13 | ShikangWang/trajvlav2_robotwin_200K | 0 | 0 | [link](https://huggingface.co/ShikangWang/trajvlav2_robotwin_200K) |
-| 2026-06-13 | RobJMal/dual-vla-libero_10_disabled | 0 | 0 | [link](https://huggingface.co/RobJMal/dual-vla-libero_10_disabled) |
-| 2026-06-13 | Vladbambu/Julia | 0 | 0 | [link](https://huggingface.co/Vladbambu/Julia) |
+| 2026-06-13 | RobJMal/dual-vla-spatial_frozen | 0 | 0 | [link](https://huggingface.co/RobJMal/dual-vla-spatial_frozen) |
+| 2026-06-13 | RobJMal/dual-vla-spatial_dynamic | 0 | 0 | [link](https://huggingface.co/RobJMal/dual-vla-spatial_dynamic) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -77,8 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1357 | Rust | 542.9 | [link](https://github.com/copper-project/copper-rs) |
 | alireza787b/mavsdk_drone_show | 296 | Python | 118.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | wadeKeith/Awesome-Embodied-AI | 215 | Python | 86.1 | [link](https://github.com/wadeKeith/Awesome-Embodied-AI) |
-| Developer-Y/cs-video-courses | 81785 |  | 32714.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61358 | Python | 24543.3 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 81786 |  | 32714.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61357 | Python | 24542.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15280 | C++ | 6112.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 13857 | C++ | 5542.9 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11240 | Python | 4496.1 | [link](https://github.com/kornia/kornia) |
@@ -94,10 +94,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-05 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlI3N21DSmpVdVhOSUFjcmE2ZlpkNlBTendxb0VjZ3hIMW4wUVlYZU9tdko5RFR5U3lFbkxmd256VmljWXpMc29zYzd5YXhWcU1ESEo2VXZQaFFPbHBjNEFDLTFXalRtVjdhbzUwQ1BUaW9rRlpONGRLMUpsbHY2R1ZtNFdrNnNZYTV1MlBZbG0xbmNtNW40T2xyUkpHekZOLXBYQVM1LU5hM055UVRWdzlvQQ?oc=5) |
 | 2026-06-04 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTGJaRThJZjRPZGVNaG1oUHF0b1ZOdF9Sd3NKTFB0cGI2MUctYU11UWl4UTVMc1dNZ1RxeEUzMWJJdUU0ZXF6Ui1FTDBfUnNCcjkzQVVuTXlodGJtbzdDREp4ZUNqLV9EZWNKR2hseGMtcW11enNSRU93?oc=5) |
 | 2026-06-04 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWUUwVE5OblREN2VYZUkzTGZBM1c1MGtCdVNUaHhoOWI1V0RKc001aEN2LVZZdVBaaGNTTTVGemxLU2o3UHlNR0tCZ3p6My1iSWQ0WlljVzU1N1JFN1lpNlZWMkZVOGhZN3RVcHRENG5DeXRNMFZjem1Bc093Q2tfSks5eVJuVjNhaDE1UDZiNGdWd05yTDU0TjJhZElJMVpxY1VLZmVWUWJRTFJf?oc=5) |
-| 2026-06-03 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidEFVX3lxTFBRS01xOHlzSUFmNGZVNDFOUFFUdUxJV3dOcTZIREZ0YnpaNlNBMnN5bFM1azJhS3hwa0x6X29RaUhqY0YyUEQxLVMwUjJrSzNSTE5PVmNMZU1YaF95dGRpTVMzclZCSHc5Z1FNTHNkT0E2WGJB?oc=5) |
 | 2026-06-02 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1hIR01SazNlYUFGV0xZaVpMZ3cxLXFWOFpMNUhBbWN3V2NVOFp2WGIyMGtqTzFqeVZkbGFINndKLU1HSDIwampSYVpQNFg5YmNNdjgyblBUZmd5TGdTb3U0U3hsNWhFRkZMYzZiTkJraUdRa1E0U3VjTUhrWDNlWtIBlAFBVV95cUxPWFRLd2hkNDhvT1ZlMFhtWl9ZSDNpM3R2WTcwalpPYndKM3JjOEwxVzdIcHktR3BpcDRkVVpCVWU3UnNkUTY4aTJ5Y0s1d1NNclpKSXVPa2I4SmI0M1JQOWw2QVJnSURCa3dfQi01YWluRU1PX2hvTFFQbVkwZ2pWU0dENUVBVWY5ZDFCUTB5TjdtWEgw?oc=5) |
 | 2026-06-02 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0d6RUp1dkdMampqR1hLclg5cmxLbmJFdWctd1ctYnN6YU9waVRtTTdPOUNTOGFXVGRuaXNQVHlVRl9CR1VoMFEzLXpVMWo5eGZSWjh1N2NqV3JsSTV1dmIwTlJPcVhCOVNlQVRCWFNBZG95UFppWkZHOTRVd0JuMmZXM3JzQ1NPaUV4VVcyQkNuaWR1UUU1R1h3RTRwVUxpUXBFQ1FzbXcyOVJVNDJn?oc=5) |
-| 2026-05-28 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3ZCVTZKY2JCa3g5aFF0SEg4VnVDbThCVmp0SXJQS2NCb2ZXSVdLYmI4RTZYTG5zMWl6Yk9qMklHRlhqOUptZG80RjJfSlhObmNDMXpIN0R2eE1iRUxmV1Z1cERsUnAtMVpNOHp6MURfbTg3azhQVFZORzRYTDh6YjZHRVA2OFhTclE4VlJZRGFtZmdnbFhJ?oc=5) |
+| 2026-05-27 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi4AFBVV95cUxORWxTY2d6OVhlREZuUUFRQ1dnY05ZMHdpX2RJZzRsazFFZk5jaFpsQVUwSW16b0x2ZDFBVVYzUjgtX2FGZXY2LUFNV3dOQVlqRlFUS0haVjlQbTB2WXpmdXM2QjdYYy1ybzBMaHkxcldncXdad0xPeWdjM3V4UmJfMUNmdFczYWNsSUlPbWREelNTOW0zelMzaFh2aFhaMkZpLVc4NTU1OGdQNU5UeTF0VE9rZHdsOXg1U0RRR3ZhcU1BamJtNlpBLVlNckxUekl6dnJFWVp0VVM0YkpueU80aA?oc=5) |
+| 2026-05-26 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdHltOEVSN0JQbEdsby05dklfanpyLVg4ZWJkS2kteHJrSFJYTW4zandKQzhOVzRheFk1SVpTRG91TlJwUHIxeVFPeU1Fb3RURVlrUU1XbXhscnVsaEZYbmxTTjBqZklCeGVoWHhHM1FkaGZtdWJXWGZTUEl3WHlZS3ROYlVkMXltUFB6dFhnUlpRQzB0RXBZWGpjVlNBTUxkUS1zSTZhSEdVZTdUcl9CbUd5aFA0QjBDMXEyMFVxTXd3OC15ZFZ6dVdZZzFyUURIQjlrcWxhcEd4NDJy?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -108,10 +108,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-12 | Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFE2N0VGYXZhRlpTb3dheHN4ZVRVaHRPZGJZaG5kbk5URzBlM0MtLUJOWlZ5UTBWZ3ZQT2RBUVprZ1owcWNoU2NuTEZ2UHpJbnhDajZrUW1RYlAtLUtpTnZFT2Z1YWV6X2V3YUJXTXdQcWEzQUgzT1NYRDNtSTRSVDJGYkVHelhKSDZmTmZSeEFBOUljY3Y5a09UeFBBbnVYd2ZFZXFVUngzUVUtdlhYYUxScUppZnl4ZnpEa2FUMEsxTjVlMFRkRnB1MA?oc=5) |
 | 2026-06-12 | Jeff Bezos’s Physical AI Startup Prometheus Raises $12B at $41B Valuation - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQmZNM2VRaDJ4eUYtdS1EOVpFUEdqMnYxNW9vRVdVeXFSeUhybFlUdGxsdTNRYW9VbG02a0tlQzBEUkgyVkljcTBiWGNqQUxWREdGQ21MY2hIQlRuZllLSFJ2MTd6UWhPaHlvRklWTHB6cFREX3JwT0FWYW5odmpZaW1sQVptcm1Jd2o3NGI3MG1BZkZJWWhYU1FpSVh2bjVUVFl4R0NlSXYxd1FJ?oc=5) |
 | 2026-06-12 | Here’s what Jeff Bezos’ new startup Prometheus will do - Ars Technica | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPeEVGelJPSnQ2N3FjNmdiVWRDTkVGd1RyZjBESGJLcUNsVUpYeGFDV004T2Z1eFBzN0xIam04M2JCRjh5VU4yUVJsS0FMcVNqMmR6anRhSjFoV3RORWJySG5vUnNyYXBTQ1pBX2U3enlmYV9JMW5iWDYwaTRxVU0zM0lSVVo5THZmc0tqaG4wRGZwUQ?oc=5) |
-| 2026-06-12 | Prometheus Raises $12 Billion at $41 Billion Valuation to Build Physical AI Systems - entARABI | physical ai startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFhkelVsS1BxNmJJQjhsNFFaU1RpWXNjWXhLY3BKa0JCX2NCMzhyalBKMkx6WWJXR0w2QkViY0VsNDZvX09OVjd0M2NpMGNzNVczbFdrVE5Wa1ZKZWFRWnBxZXVzV2NPcl9oX0lGeFlEaGhYbUFuT21vcktxVUFLVzM1NXVqejR3aFlnOVQ1dG0zMmlPYU5BQ19SU0h2SDNVSjIta1hHdWYtSDNLU19EV29qZXI?oc=5) |
 | 2026-06-12 | Germany’s NEURA Robotics raises up to €1.2 billion in Series C round to build Physical AI from Europe - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQkNQMUlHZVVsYXRQLWUyM01nTF9PNDZMZmYtMjI3a2FGLV9rRVVhWkVWQXZRdFc2eGJOQ21JeXViWWRuTGdXRVg2YXFhWXJDZE5XUmxDVDZBcC1COW55cVdsekpaQWp5QnJGdW1lMkFPQVQtbVIwbko3amN0LVM3TTRWcFVWaTBxeUNETmdQOVhzc1BfLVlfcThCVjRJNTl6LVRRZzlkNFdJX1diX1FvVzdkWWJpX3JITnk1a05LemhCYzhtZnZnU0NvMmpwc0JqaVpj?oc=5) |
-| 2026-06-12 | Prometheus raises $12B to build physical AI engineer - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOejdQVk1hMHBJZGFkMVJOVnJIOHplWThidHVLOUtYQ2g3VTgxd0FGdGh0RFBvZTItLWVXUGkyUEY2UjU4Z01pUkZZN3FqRjJJc0ZsaWJJa1dLNy1fWWpaVTBYSHVFVHhtLVdJMHQtN0Q2S2FaWmdGVE5TbmlyZDlMVnkxLTZfWktjOEY1TDhkdHV5MFlyRmw4ZQ?oc=5) |
 | 2026-06-11 | Xingyuanzhi Robot Raises ¥1 Billion in 10 Months for Embodied AI Brain Technology - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZTUZZX29mOEo1YVVaSEsta3oyc0xOZVc0T1RZdm5jM1c0SmxGLUpjQk9CaFY5SDMyMGRiR09WYVM2ME0zd2lOYWhfVFVsVGl4b0JodE9WNkdidDk4ZG4zZVAwVkRXeTMtX0dWTUQ2ODQ3TXBidl81ckRkYXc?oc=5) |
+| 2026-06-11 | Xpeng puts its founder in charge of the humanoid robot race - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxPOUVzVFdFa01jNUl3OTFiX1ZoTjlJbmpob3hEMjhHd1FCYlVYMTktdHR2T2NoSS1xempGTERQUWJySXBRTnFZS2NtaWQ5dmZXd2VpdGkwWHh2LUJNTjVpaVQxZEtwRnZ0SzJWaDkxSXpkaEhaTjdJTG1lTThZbkZhaG55RndFZ0ZybDFNU09JZGU?oc=5) |
+| 2026-06-11 | Humanoid robots move onto fast track - China Daily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZcFpNNFhZLWFkRHBTaE9jT3Y2X3NjNjI0aGlaWHhzWXQxSnkxMEdHdVd0Z3NzLThVd3N2NnQtcGEzRERuWHRiU3ZDRm5DN0VUVWpBU2lOSGpLN2kzaFpHb3JETWlkXzBYQXVDVmpEZDJRemFKZm15QXRoV3lUQQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
