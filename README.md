@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-13 03:04 UTC
+Last Updated: 2026-06-13 06:16 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -36,7 +36,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-12 | Award-Winning Researcher Trains Robots to Make Educated Guesses | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/researcher-trains-robots-to-guess) |
 | 2026-06-12 | Video Friday: Robotic Motion Discovery Reveals Unusual Behaviors | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-humanoid-loco-manipulation) |
 | 2026-06-12 | Gatik to bring autonomous freight to PepsiCo’s North American supply chain | Robotics Business Review | [link](https://www.therobotreport.com/gatik-brings-autonomous-freight-pepsico-north-american-supply-chain/) |
-| 2026-06-12 | AI in Warehousing: Akash Gupta’s vision for the future | Robotics Business Review | [link](https://www.therobotreport.com/ai-in-warehousing-akash-guptas-vision-for-the-future/) |
+| 2026-06-12 | AI in warehousing: Akash Gupta’s vision for the future | Robotics Business Review | [link](https://www.therobotreport.com/ai-in-warehousing-akash-guptas-vision-for-the-future/) |
 | 2026-06-12 | MassRobotics announces the winners of 2026 Robotics Medal and Rising Star awards | Robotics Business Review | [link](https://www.therobotreport.com/massrobotics-announces-winners-2026-robotics-medal-rising-star-awards/) |
 | 2026-06-12 | Robotics Summit panel explores the state of humanoid robot design | Robotics Business Review | [link](https://www.therobotreport.com/robotics-summit-panel-explores-state-humanoid-robot-design/) |
 | 2026-06-11 | Defining Autonomy for Wellness Robots in Senior Care | IEEE Spectrum Robotics | [link](https://content.knowledgehub.wiley.com/wellness-robots-and-the-path-to-full-autonomy-a-new-paradigm-in-ai-powered-senior-care/) |
@@ -68,8 +68,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-13 | ssuleiman/go1-joystick-policy-rocks-cortex-crouch-cloud-350m | 0 | 0 | [link](https://huggingface.co/ssuleiman/go1-joystick-policy-rocks-cortex-crouch-cloud-350m) |
 | 2026-06-13 | cbrian/policy_pi05_libero_task_crosswallpickcube_dataset_SC3_ctrl_cartesian | 0 | 0 | [link](https://huggingface.co/cbrian/policy_pi05_libero_task_crosswallpickcube_dataset_SC3_ctrl_cartesian) |
 | 2026-06-13 | ssuleiman/go1-joystick-policy-rocks-cortex-film-balanced-cloud-350m | 0 | 0 | [link](https://huggingface.co/ssuleiman/go1-joystick-policy-rocks-cortex-film-balanced-cloud-350m) |
-| 2026-06-12 | example/robot-policy-model | 2400 | 80 | [link](https://huggingface.co/example/robot-policy-model) |
-| 2026-06-12 | qualia-robotics/smolvla-openarm-cube-in-box-v2-1b2476e0 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/smolvla-openarm-cube-in-box-v2-1b2476e0) |
+| 2026-06-13 | ziyiweng/vla_239mergeset_4kpolicy | 0 | 0 | [link](https://huggingface.co/ziyiweng/vla_239mergeset_4kpolicy) |
+| 2026-06-13 | 3cda2225/record_test_3_act_policy | 0 | 0 | [link](https://huggingface.co/3cda2225/record_test_3_act_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -77,11 +77,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | wadeKeith/Awesome-Embodied-AI | 215 | Python | 86.1 | [link](https://github.com/wadeKeith/Awesome-Embodied-AI) |
 | commaai/openpilot | 61354 | Python | 24541.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15272 | C++ | 6108.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| dora-rs/dora | 3780 | Rust | 1512.1 | [link](https://github.com/dora-rs/dora) |
-| RLinf/RLinf | 3769 | Python | 1507.7 | [link](https://github.com/RLinf/RLinf) |
+| dora-rs/dora | 3781 | Rust | 1512.5 | [link](https://github.com/dora-rs/dora) |
+| RLinf/RLinf | 3771 | Python | 1508.5 | [link](https://github.com/RLinf/RLinf) |
 | StanfordVL/BEHAVIOR-1K | 1513 | Python | 605.3 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | LiangSu8899/FlashRT | 328 | C++ | 131.3 | [link](https://github.com/LiangSu8899/FlashRT) |
-| sou350121/VLA-Handbook | 287 | HTML | 114.9 | [link](https://github.com/sou350121/VLA-Handbook) |
+| sou350121/VLA-Handbook | 288 | HTML | 115.3 | [link](https://github.com/sou350121/VLA-Handbook) |
 | Tavish9/any4lerobot | 1065 | Python | 426.1 | [link](https://github.com/Tavish9/any4lerobot) |
 | copper-project/copper-rs | 1357 | Rust | 542.9 | [link](https://github.com/copper-project/copper-rs) |
 
