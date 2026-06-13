@@ -5,7 +5,7 @@ from __future__ import annotations
 from urllib.parse import quote_plus
 
 from intel_hub.config import DATA_DIR, PHYSICAL_AI_COMPANIES
-from intel_hub.storage import save_merged
+from intel_hub.storage import save_fresh
 
 from .rss import collect_feed
 
@@ -27,5 +27,5 @@ def collect() -> list[dict[str, object]]:
                     "title": item["title"],
                 }
             )
-    return save_merged(DATA_DIR / "funding.json", records, key="source")
+    return save_fresh(DATA_DIR / "funding.json", records, key="source")
 
