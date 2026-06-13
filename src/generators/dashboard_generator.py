@@ -89,14 +89,14 @@ def generate_dashboard() -> None:
   /* ═══════════════ BACKGROUND ═══════════════ */
   #bgCanvas {{
     position:fixed; inset:0; z-index:0; pointer-events:none;
-    width:100%; height:100%;
+    width:100%; height:100%; opacity:.55;
   }}
-  [data-theme="light"] #bgCanvas {{ opacity:.18; }}
+  [data-theme="light"] #bgCanvas {{ opacity:.1; }}
 
   .orb {{
     position:fixed; border-radius:50%;
     pointer-events:none; z-index:0;
-    filter:blur(90px); opacity:.22;
+    filter:blur(100px); opacity:.12;
     animation:floatOrb 22s ease-in-out infinite;
   }}
   .orb1 {{
@@ -112,9 +112,9 @@ def generate_dashboard() -> None:
   .orb3 {{
     width:360px; height:360px; top:45%; left:55%;
     background:radial-gradient(circle,#6366f1 0%,transparent 70%);
-    animation-duration:18s; opacity:.12;
+    animation-duration:18s; opacity:.07;
   }}
-  [data-theme="light"] .orb {{ opacity:.04; }}
+  [data-theme="light"] .orb {{ opacity:.03; }}
 
   @keyframes floatOrb {{
     0%,100% {{ transform:translate(0,0) scale(1); }}
@@ -472,11 +472,19 @@ def generate_dashboard() -> None:
   }}
 
   /* ═══════════════ ENTRY ANIMATIONS ═══════════════ */
-  @keyframes card3dIn {{
-    from {{ opacity:0; transform:perspective(800px) rotateX(-15deg) translateY(18px) scale(.97); }}
-    to   {{ opacity:1; transform:perspective(800px) rotateX(0deg) translateY(0) scale(1); }}
+  @keyframes cardIn {{
+    from {{ opacity:0; transform:translateY(10px); }}
+    to   {{ opacity:1; transform:translateY(0); }}
   }}
-  .fi {{ animation:card3dIn .35s cubic-bezier(.22,1,.36,1) both; }}
+  .fi {{ animation:cardIn .3s ease both; }}
+  .feed.grid-v .fi {{ transition:transform .2s ease, box-shadow .2s ease, border-color .2s ease; }}
+  .feed.grid-v .fi:hover {{ transform:translateY(-4px); box-shadow:var(--sh-md); border-color:var(--gb2); }}
+  .stat {{ transition:transform .2s ease, box-shadow .2s ease; }}
+  .stat:hover {{ transform:translateY(-3px); box-shadow:var(--sh-md); }}
+  @media (prefers-reduced-motion:reduce) {{
+    .fi,.orb {{ animation:none; }}
+    * {{ scroll-behavior:auto; }}
+  }}
   .fi:nth-child(2)  {{ animation-delay:35ms; }}
   .fi:nth-child(3)  {{ animation-delay:65ms; }}
   .fi:nth-child(4)  {{ animation-delay:90ms; }}
@@ -552,18 +560,40 @@ def generate_dashboard() -> None:
   @media (max-width:1100px) {{ .stats {{ grid-template-columns:repeat(2,1fr); }} }}
   @media (max-width:870px) {{
     .layout {{ grid-template-columns:1fr; }}
-    .sidebar {{ position:static; height:auto; max-height:290px; box-shadow:none; }}
-    .content {{ padding:14px 16px 36px; }}
+    .sidebar {{
+      position:sticky; top:0; height:auto; z-index:30;
+      flex-direction:column; border-right:none;
+      border-bottom:1px solid var(--gb2); box-shadow:0 2px 20px rgba(0,0,0,.35);
+    }}
+    .brand {{ padding:12px 16px; border-bottom:none; }}
+    .brand-sub {{ display:none; }}
+    .nav-scroll {{
+      flex:none; display:flex; gap:6px; padding:0 12px 12px;
+      overflow-x:auto; overflow-y:hidden;
+    }}
+    .nav-scroll::-webkit-scrollbar {{ height:0; }}
+    .nav-sec {{ display:none; }}
+    #navMain, #navTopics, #navAdv {{ display:flex; gap:6px; }}
+    .nav-btn {{
+      width:auto; white-space:nowrap; margin-bottom:0;
+      padding:7px 13px; border:1px solid var(--gb2); border-radius:999px;
+    }}
+    .nav-btn::before {{ display:none; }}
+    .nav-btn.active {{ box-shadow:none; }}
+    .sb-foot {{ display:none; }}
+    .content {{ padding:16px 16px 40px; }}
     .topbar {{ padding:0 16px; height:56px; }}
   }}
   @media (max-width:560px) {{
-    .stats {{ grid-template-columns:1fr 1fr; }}
+    .stats {{ grid-template-columns:1fr 1fr; gap:10px; }}
     .toolbar {{ flex-wrap:wrap; }}
     .srch-wrap {{ order:-1; flex-basis:100%; }}
-    .feed.grid-v {{ grid-template-columns:1fr; padding:10px; }}
-    .topbar {{ height:auto; padding:10px 14px; flex-wrap:wrap; gap:8px; }}
+    .feed.grid-v {{ grid-template-columns:1fr; padding:12px; }}
+    .topbar {{ height:auto; padding:12px 14px; flex-wrap:wrap; gap:8px; }}
     .upd-badge {{ display:none; }}
-    .pg-title {{ font-size:15px; }}
+    .pg-title {{ font-size:16px; }}
+    .stat {{ padding:14px 16px 12px; }}
+    .stat-num {{ font-size:24px; }}
   }}
   /* ═══════════════ ADVANCED ═══════════════ */
   .adv-wrap {{ padding:0 0 52px; }}
@@ -984,22 +1014,7 @@ function renderStats() {{
       </div>
     </div>`).join('');
 
-  /* stat tilt */
-  document.querySelectorAll('.stat').forEach(el=>{{
-    el.addEventListener('mousemove',e=>{{
-      const r=el.getBoundingClientRect();
-      const nx=(e.clientX-r.left-r.width/2)/(r.width/2);
-      const ny=(e.clientY-r.top-r.height/2)/(r.height/2);
-      el.style.transition='none';
-      el.style.transform=`perspective(500px) rotateX(${{ny*-6}}deg) rotateY(${{nx*6}}deg) translateZ(8px)`;
-      el.style.boxShadow=`${{nx*-15}}px ${{ny*-15}}px 30px rgba(0,0,0,.35), 0 0 0 1px var(--gb2)`;
-    }});
-    el.addEventListener('mouseleave',()=>{{
-      el.style.transition='transform .5s cubic-bezier(.23,1,.32,1),box-shadow .5s ease';
-      el.style.transform='';
-      el.style.boxShadow='';
-    }});
-  }});
+  /* stat hover handled by CSS lift */
 
   /* count-up */
   const doCount = state.ds!==lastDs;
@@ -1184,29 +1199,8 @@ themeBtn.addEventListener('click',()=>{{
   localStorage.setItem('hub-theme',n);
 }});
 
-/* ── 3D tilt on cards ── */
-function addTilts() {{
-  if (window.matchMedia('(pointer:coarse)').matches) return; /* skip on touch */
-  document.querySelectorAll('.feed.grid-v .fi').forEach(el=>{{
-    el.addEventListener('mousemove',e=>{{
-      const r=el.getBoundingClientRect();
-      const nx=(e.clientX-r.left-r.width/2)/(r.width/2);
-      const ny=(e.clientY-r.top-r.height/2)/(r.height/2);
-      const gx=((e.clientX-r.left)/r.width*100).toFixed(1);
-      const gy=((e.clientY-r.top)/r.height*100).toFixed(1);
-      el.style.transition='none';
-      el.style.transform=`perspective(700px) rotateX(${{(ny*-7).toFixed(2)}}deg) rotateY(${{(nx*7).toFixed(2)}}deg) translateZ(12px)`;
-      if (root.getAttribute('data-theme')==='dark') {{
-        el.style.background=`radial-gradient(circle at ${{gx}}% ${{gy}}%, rgba(129,140,248,.1) 0%, transparent 55%), var(--glass)`;
-        el.style.boxShadow=`${{(nx*-20).toFixed(0)}}px ${{(ny*-20).toFixed(0)}}px 40px rgba(0,0,0,.45), 0 0 20px rgba(129,140,248,.12)`;
-      }}
-    }});
-    el.addEventListener('mouseleave',()=>{{
-      el.style.transition='transform .6s cubic-bezier(.23,1,.32,1), box-shadow .6s ease, background .4s ease';
-      el.style.transform=''; el.style.boxShadow=''; el.style.background='';
-    }});
-  }});
-}}
+/* ── card hover handled by CSS lift ── */
+function addTilts() {{}}
 
 /* ══════════════════════════════════════════
    NEURAL NETWORK BACKGROUND ANIMATION
@@ -1218,7 +1212,7 @@ function addTilts() {{
   function resize(){{ W=canvas.width=window.innerWidth; H=canvas.height=window.innerHeight; }}
   window.addEventListener('resize',resize); resize();
 
-  const N=72, MAXD=160;
+  const N=40, MAXD=150;
   const PCOLORS=['rgba(124,58,237,','rgba(99,102,241,','rgba(129,140,248,','rgba(14,165,233,'];
   const nodes=Array.from({{length:N}},()=>{{
     const c=PCOLORS[Math.floor(Math.random()*PCOLORS.length)];
@@ -1264,7 +1258,7 @@ function addTilts() {{
       const dx=nodes[i].x-nodes[j].x, dy=nodes[i].y-nodes[j].y;
       const d=Math.sqrt(dx*dx+dy*dy);
       if(d<MAXD) {{
-        const a=(1-d/MAXD)*.22;
+        const a=(1-d/MAXD)*.14;
         ctx.beginPath();
         ctx.moveTo(nodes[i].x,nodes[i].y);
         ctx.lineTo(nodes[j].x,nodes[j].y);
@@ -2388,4 +2382,4 @@ render();
 </body>
 </html>
 """
-    (ROOT_DIR / "dashboard.html").write_text(html, encoding="utf-8")
+    (ROOT_DIR / "index.html").write_text(html, encoding="utf-8")
