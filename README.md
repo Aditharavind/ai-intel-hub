@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-13 13:15 UTC
+Last Updated: 2026-06-13 14:07 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -76,7 +76,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | wadeKeith/Awesome-Embodied-AI | 215 | Python | 86.1 | [link](https://github.com/wadeKeith/Awesome-Embodied-AI) |
 | commaai/openpilot | 61356 | Python | 24542.5 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15274 | C++ | 6109.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15275 | C++ | 6110.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | dora-rs/dora | 3781 | Rust | 1512.5 | [link](https://github.com/dora-rs/dora) |
 | RLinf/RLinf | 3779 | Python | 1511.7 | [link](https://github.com/RLinf/RLinf) |
 | StanfordVL/BEHAVIOR-1K | 1513 | Python | 605.3 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
