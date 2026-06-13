@@ -8,7 +8,7 @@ from urllib.parse import quote_plus
 import feedparser
 
 from intel_hub.config import DATA_DIR, MAX_ITEMS_PER_SOURCE, PAPER_KEYWORDS
-from intel_hub.storage import save_merged
+from intel_hub.storage import save_fresh
 
 logger = logging.getLogger(__name__)
 
@@ -38,5 +38,5 @@ def collect() -> list[dict[str, object]]:
         logger.warning("arXiv parse warning: %s", getattr(feed, "bozo_exception", "unknown"))
     records = [_paper_from_entry(entry) for entry in feed.entries]
     records = [record for record in records if record["title"] and record["pdf_url"]]
-    return save_merged(DATA_DIR / "papers.json", records, key="pdf_url", date_key="published")
+    return save_fresh(DATA_DIR / "papers.json", records, key="pdf_url", date_key="published")
 
