@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-13 06:53 UTC
+Last Updated: 2026-06-13 13:15 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -32,6 +32,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-13 | Visual Language Models Train Robots to Read Human Emotions | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/robot-emotions-visual-language-models) |
+| 2026-06-13 | Windows for robots: Edge AI expands usability | Robotics Business Review | [link](https://www.therobotreport.com/computers-software-windows-utility-robots/) |
 | 2026-06-12 | Example: Robotics deployment update | Example Robotics | [link](https://example.com/robotics-news) |
 | 2026-06-12 | Award-Winning Researcher Trains Robots to Make Educated Guesses | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/researcher-trains-robots-to-guess) |
 | 2026-06-12 | Video Friday: Robotic Motion Discovery Reveals Unusual Behaviors | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-humanoid-loco-manipulation) |
@@ -40,8 +42,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-12 | MassRobotics announces the winners of 2026 Robotics Medal and Rising Star awards | Robotics Business Review | [link](https://www.therobotreport.com/massrobotics-announces-winners-2026-robotics-medal-rising-star-awards/) |
 | 2026-06-12 | Robotics Summit panel explores the state of humanoid robot design | Robotics Business Review | [link](https://www.therobotreport.com/robotics-summit-panel-explores-state-humanoid-robot-design/) |
 | 2026-06-11 | Defining Autonomy for Wellness Robots in Senior Care | IEEE Spectrum Robotics | [link](https://content.knowledgehub.wiley.com/wellness-robots-and-the-path-to-full-autonomy-a-new-paradigm-in-ai-powered-senior-care/) |
-| 2026-06-11 | Hello Robot is recognized by World Economic Forum as a tech pioneer | Robotics Business Review | [link](https://www.therobotreport.com/hello-robot-is-recognized-by-world-economic-forum-as-a-tech-pioneer/) |
-| 2026-06-11 | Inside XRZero-G0, a new 2,000-hour open dataset for robotics research | Robotics Business Review | [link](https://www.therobotreport.com/inside-xrzero-g0-a-new-2000-hour-open-dataset-for-robotics-research/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -75,10 +75,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | wadeKeith/Awesome-Embodied-AI | 215 | Python | 86.1 | [link](https://github.com/wadeKeith/Awesome-Embodied-AI) |
-| commaai/openpilot | 61353 | Python | 24541.3 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15272 | C++ | 6108.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 61356 | Python | 24542.5 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15274 | C++ | 6109.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | dora-rs/dora | 3781 | Rust | 1512.5 | [link](https://github.com/dora-rs/dora) |
-| RLinf/RLinf | 3774 | Python | 1509.7 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 3779 | Python | 1511.7 | [link](https://github.com/RLinf/RLinf) |
 | StanfordVL/BEHAVIOR-1K | 1513 | Python | 605.3 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | LiangSu8899/FlashRT | 328 | C++ | 131.3 | [link](https://github.com/LiangSu8899/FlashRT) |
 | sou350121/VLA-Handbook | 288 | HTML | 115.3 | [link](https://github.com/sou350121/VLA-Handbook) |
@@ -93,7 +93,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-08 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxOak85anRnVU9GQ1R4QVVpZ1pnTHJoT2JvZDdUbFJkYl9PQTd1TkNwWWNTQ0xvY1FVSnp2X2NMemc3d2E2MGJwWEwzSXBjZmx1TklDYkxhby13WjV5SFhXZDVTSW9JYjhLVW1ka0FTS2Fmb08wR2tyT1dvRXNkSFp1LTRKZE9ocTl2MUlSRWd4Tld5Rkh0TlhVRkNxOHZ6N0plU0hMemFFYjAyei15WXdyZlZRWTk?oc=5) |
 | 2026-06-06 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiN3N1UVVaWFRFcjBodGtYV0xBQXM1bzRGT0tLeV9YcXk0RC1MakJadi1xbnJKNWRNZUw3NHYyclpnc0daMGVsR1pwaHNjQWEzdFQxUzRjYw?oc=5) |
 | 2026-06-05 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlI3N21DSmpVdVhOSUFjcmE2ZlpkNlBTendxb0VjZ3hIMW4wUVlYZU9tdko5RFR5U3lFbkxmd256VmljWXpMc29zYzd5YXhWcU1ESEo2VXZQaFFPbHBjNEFDLTFXalRtVjdhbzUwQ1BUaW9rRlpONGRLMUpsbHY2R1ZtNFdrNnNZYTV1MlBZbG0xbmNtNW40T2xyUkpHekZOLXBYQVM1LU5hM055UVRWdzlvQQ?oc=5) |
-| 2026-06-04 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTGJaRThJZjRPZGVNaG1oUHF0b1ZOdF9Sd3NKTFB0cGI2MUctYU11UWl4UTVMc1dNZ1RxeEUzMWJJdUU0ZXF6Ui1FTDBfUnNCcjkzQVVuTXlodGJtbzdDREp4ZUNqLV9EZWNKR2hseGMtcW11enNSRU93?oc=5) |
+| 2026-06-05 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTGJaRThJZjRPZGVNaG1oUHF0b1ZOdF9Sd3NKTFB0cGI2MUctYU11UWl4UTVMc1dNZ1RxeEUzMWJJdUU0ZXF6Ui1FTDBfUnNCcjkzQVVuTXlodGJtbzdDREp4ZUNqLV9EZWNKR2hseGMtcW11enNSRU93?oc=5) |
 | 2026-06-04 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWUUwVE5OblREN2VYZUkzTGZBM1c1MGtCdVNUaHhoOWI1V0RKc001aEN2LVZZdVBaaGNTTTVGemxLU2o3UHlNR0tCZ3p6My1iSWQ0WlljVzU1N1JFN1lpNlZWMkZVOGhZN3RVcHRENG5DeXRNMFZjem1Bc093Q2tfSks5eVJuVjNhaDE1UDZiNGdWd05yTDU0TjJhZElJMVpxY1VLZmVWUWJRTFJf?oc=5) |
 | 2026-06-03 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidEFVX3lxTFBRS01xOHlzSUFmNGZVNDFOUFFUdUxJV3dOcTZIREZ0YnpaNlNBMnN5bFM1azJhS3hwa0x6X29RaUhqY0YyUEQxLVMwUjJrSzNSTE5PVmNMZU1YaF95dGRpTVMzclZCSHc5Z1FNTHNkT0E2WGJB?oc=5) |
 | 2026-06-02 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1hIR01SazNlYUFGV0xZaVpMZ3cxLXFWOFpMNUhBbWN3V2NVOFp2WGIyMGtqTzFqeVZkbGFINndKLU1HSDIwampSYVpQNFg5YmNNdjgyblBUZmd5TGdTb3U0U3hsNWhFRkZMYzZiTkJraUdRa1E0U3VjTUhrWDNlWtIBlAFBVV95cUxPWFRLd2hkNDhvT1ZlMFhtWl9ZSDNpM3R2WTcwalpPYndKM3JjOEwxVzdIcHktR3BpcDRkVVpCVWU3UnNkUTY4aTJ5Y0s1d1NNclpKSXVPa2I4SmI0M1JQOWw2QVJnSURCa3dfQi01YWluRU1PX2hvTFFQbVkwZ2pWU0dENUVBVWY5ZDFCUTB5TjdtWEgw?oc=5) |

@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-13 06:53 UTC
+Generated: 2026-06-13 13:15 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-06-13 06:53 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81781 | 32712.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61353 | 24541.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 43972 | 17588.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 29739 | 11895.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15912 | 6364.9 | [link](https://github.com/zauberzeug/nicegui) |
+| Developer-Y/cs-video-courses | 81783 | 32713.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61356 | 24542.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 43973 | 17589.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 29741 | 11896.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15911 | 6364.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | example/robot-policy-model | 2400 | 736.1 | [link](https://huggingface.co/example/robot-policy-model) |
-| anikitakis/vla_so101_pick_n_place_full_expert | 271 | 81.4 | [link](https://huggingface.co/anikitakis/vla_so101_pick_n_place_full_expert) |
-| BrinqAI/functiongemma-270m-physical-ai | 92 | 27.7 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
-| fbarbosa1/smolvla_so101_embodied_v1 | 90 | 27.1 | [link](https://huggingface.co/fbarbosa1/smolvla_so101_embodied_v1) |
-| fbarbosa1/pi05_so101_embodied_v1 | 68 | 20.5 | [link](https://huggingface.co/fbarbosa1/pi05_so101_embodied_v1) |
+| anikitakis/vla_so101_pick_n_place_full_expert | 376 | 112.9 | [link](https://huggingface.co/anikitakis/vla_so101_pick_n_place_full_expert) |
+| IffYuan/Embodied-R1.5 | 63 | 19.0 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
+| SaFD-00/qwen2.5-vl-7b-ac-exp01-ratio73-world-model-stage1-lora-epoch3 | 36 | 10.9 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-7b-ac-exp01-ratio73-world-model-stage1-lora-epoch3) |
+| SaFD-00/qwen2.5-vl-7b-ac-exp01-ratio73-world-model-stage1-lora-epoch3-stage2-lora-epoch1 | 35 | 10.6 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-7b-ac-exp01-ratio73-world-model-stage1-lora-epoch3-stage2-lora-epoch1) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
