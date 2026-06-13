@@ -7,7 +7,7 @@ import logging
 from intel_hub.config import DATA_DIR, HUGGINGFACE_KEYWORDS, MAX_ITEMS_PER_SOURCE
 from intel_hub.http import create_session, get_json
 from intel_hub.scoring import trending_score
-from intel_hub.storage import save_merged
+from intel_hub.storage import save_fresh
 
 logger = logging.getLogger(__name__)
 
@@ -46,5 +46,5 @@ def collect() -> list[dict[str, object]]:
                     "score": trending_score(downloads_growth=downloads, mentions=likes, recent_activity=1),
                 }
             )
-    return save_merged(DATA_DIR / "huggingface_models.json", records, key="url")
+    return save_fresh(DATA_DIR / "huggingface_models.json", records, key="url")
 
