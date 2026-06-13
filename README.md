@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-13 21:59 UTC
+Last Updated: 2026-06-13 23:02 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -60,6 +60,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-13 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-06-13 | robotneu/common_understanding_hard | 0 | 0 | [link](https://huggingface.co/robotneu/common_understanding_hard) |
 | 2026-06-13 | robotneu/semantics_understanding_hard | 0 | 0 | [link](https://huggingface.co/robotneu/semantics_understanding_hard) |
 | 2026-06-13 | robotneu/visual_perception_hard | 0 | 0 | [link](https://huggingface.co/robotneu/visual_perception_hard) |
@@ -68,8 +69,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-13 | robotneu/visual_2_3_origin_and_hard | 0 | 0 | [link](https://huggingface.co/robotneu/visual_2_3_origin_and_hard) |
 | 2026-06-13 | SakikoTogawa/pi0_robotwin_lora-stack_blocks_three-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-stack_blocks_three-100-himaconpp_repo) |
 | 2026-06-13 | ShikangWang/trajvlav2_robotwin_200K | 0 | 0 | [link](https://huggingface.co/ShikangWang/trajvlav2_robotwin_200K) |
-| 2026-06-13 | RobJMal/dual-vla-spatial_frozen | 0 | 0 | [link](https://huggingface.co/RobJMal/dual-vla-spatial_frozen) |
-| 2026-06-13 | RobJMal/dual-vla-spatial_dynamic | 0 | 0 | [link](https://huggingface.co/RobJMal/dual-vla-spatial_dynamic) |
+| 2026-06-13 | Vladbambu/Julia | 0 | 0 | [link](https://huggingface.co/Vladbambu/Julia) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -77,13 +77,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1357 | Rust | 542.9 | [link](https://github.com/copper-project/copper-rs) |
 | alireza787b/mavsdk_drone_show | 296 | Python | 118.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | wadeKeith/Awesome-Embodied-AI | 215 | Python | 86.1 | [link](https://github.com/wadeKeith/Awesome-Embodied-AI) |
+| arpitg1304/forge | 137 | Python | 54.9 | [link](https://github.com/arpitg1304/forge) |
 | Developer-Y/cs-video-courses | 81786 |  | 32714.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 61357 | Python | 24542.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15280 | C++ | 6112.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 13857 | C++ | 5542.9 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11240 | Python | 4496.1 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7435 | Python | 2974.1 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3781 | Rust | 1512.5 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -91,8 +91,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-10 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWpObUJlemNNTkNYT010LWg1T0x1Yjh3c09WUjJSMzBSNXR6N3dKb2JEaW45OGN5b2M5VnRGOVliQjdGMnJqQU40R0JJLWpUbG5RbFpkWFNGWUFGQks3bFlmSGhKNEVFczh6a2MyUWE3dWVsNmY3NTh3QUF1RmhrU2s4Sl9FN05QbjRBSkxMTzhIa1RlZWFJZmZwcTY?oc=5) |
 | 2026-06-08 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxOak85anRnVU9GQ1R4QVVpZ1pnTHJoT2JvZDdUbFJkYl9PQTd1TkNwWWNTQ0xvY1FVSnp2X2NMemc3d2E2MGJwWEwzSXBjZmx1TklDYkxhby13WjV5SFhXZDVTSW9JYjhLVW1ka0FTS2Fmb08wR2tyT1dvRXNkSFp1LTRKZE9ocTl2MUlSRWd4Tld5Rkh0TlhVRkNxOHZ6N0plU0hMemFFYjAyei15WXdyZlZRWTk?oc=5) |
 | 2026-06-06 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiN3N1UVVaWFRFcjBodGtYV0xBQXM1bzRGT0tLeV9YcXk0RC1MakJadi1xbnJKNWRNZUw3NHYyclpnc0daMGVsR1pwaHNjQWEzdFQxUzRjYw?oc=5) |
+| 2026-06-05 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTGJaRThJZjRPZGVNaG1oUHF0b1ZOdF9Sd3NKTFB0cGI2MUctYU11UWl4UTVMc1dNZ1RxeEUzMWJJdUU0ZXF6Ui1FTDBfUnNCcjkzQVVuTXlodGJtbzdDREp4ZUNqLV9EZWNKR2hseGMtcW11enNSRU93?oc=5) |
 | 2026-06-05 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlI3N21DSmpVdVhOSUFjcmE2ZlpkNlBTendxb0VjZ3hIMW4wUVlYZU9tdko5RFR5U3lFbkxmd256VmljWXpMc29zYzd5YXhWcU1ESEo2VXZQaFFPbHBjNEFDLTFXalRtVjdhbzUwQ1BUaW9rRlpONGRLMUpsbHY2R1ZtNFdrNnNZYTV1MlBZbG0xbmNtNW40T2xyUkpHekZOLXBYQVM1LU5hM055UVRWdzlvQQ?oc=5) |
-| 2026-06-04 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTGJaRThJZjRPZGVNaG1oUHF0b1ZOdF9Sd3NKTFB0cGI2MUctYU11UWl4UTVMc1dNZ1RxeEUzMWJJdUU0ZXF6Ui1FTDBfUnNCcjkzQVVuTXlodGJtbzdDREp4ZUNqLV9EZWNKR2hseGMtcW11enNSRU93?oc=5) |
 | 2026-06-04 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWUUwVE5OblREN2VYZUkzTGZBM1c1MGtCdVNUaHhoOWI1V0RKc001aEN2LVZZdVBaaGNTTTVGemxLU2o3UHlNR0tCZ3p6My1iSWQ0WlljVzU1N1JFN1lpNlZWMkZVOGhZN3RVcHRENG5DeXRNMFZjem1Bc093Q2tfSks5eVJuVjNhaDE1UDZiNGdWd05yTDU0TjJhZElJMVpxY1VLZmVWUWJRTFJf?oc=5) |
 | 2026-06-02 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1hIR01SazNlYUFGV0xZaVpMZ3cxLXFWOFpMNUhBbWN3V2NVOFp2WGIyMGtqTzFqeVZkbGFINndKLU1HSDIwampSYVpQNFg5YmNNdjgyblBUZmd5TGdTb3U0U3hsNWhFRkZMYzZiTkJraUdRa1E0U3VjTUhrWDNlWtIBlAFBVV95cUxPWFRLd2hkNDhvT1ZlMFhtWl9ZSDNpM3R2WTcwalpPYndKM3JjOEwxVzdIcHktR3BpcDRkVVpCVWU3UnNkUTY4aTJ5Y0s1d1NNclpKSXVPa2I4SmI0M1JQOWw2QVJnSURCa3dfQi01YWluRU1PX2hvTFFQbVkwZ2pWU0dENUVBVWY5ZDFCUTB5TjdtWEgw?oc=5) |
 | 2026-06-02 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0d6RUp1dkdMampqR1hLclg5cmxLbmJFdWctd1ctYnN6YU9waVRtTTdPOUNTOGFXVGRuaXNQVHlVRl9CR1VoMFEzLXpVMWo5eGZSWjh1N2NqV3JsSTV1dmIwTlJPcVhCOVNlQVRCWFNBZG95UFppWkZHOTRVd0JuMmZXM3JzQ1NPaUV4VVcyQkNuaWR1UUU1R1h3RTRwVUxpUXBFQ1FzbXcyOVJVNDJn?oc=5) |
