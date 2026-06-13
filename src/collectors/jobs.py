@@ -6,7 +6,7 @@ import logging
 
 from intel_hub.config import DATA_DIR, JOB_COMPANIES, JOB_KEYWORDS
 from intel_hub.http import create_session, get_json
-from intel_hub.storage import save_merged
+from intel_hub.storage import save_fresh
 
 logger = logging.getLogger(__name__)
 
@@ -64,5 +64,5 @@ def collect() -> list[dict[str, str]]:
                 records.extend(_lever(session, company, boards["lever"]))
         except Exception:
             logger.exception("Failed to collect jobs for %s", company)
-    return save_merged(DATA_DIR / "jobs.json", records, key="url", date_key="posted")
+    return save_fresh(DATA_DIR / "jobs.json", records, key="url", date_key="posted")
 
