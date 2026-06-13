@@ -59,7 +59,7 @@ def generate_readme() -> None:
         _table(_load("jobs.json"), [("Posted", "posted"), ("Title", "title"), ("Company", "company"), ("Location", "location"), ("URL", "url")]),
         "## Automation",
         "",
-        "GitHub Actions runs `src/main.py` every 6 hours, refreshes JSON stores, regenerates this README, writes a weekly report, builds `dashboard.html`, and commits only when files changed.",
+        "GitHub Actions runs `src/main.py` every hour, replaces the JSON stores with freshly scraped data, regenerates this README, writes a weekly report, builds `index.html`, and commits only when files changed.",
         "",
     ]
     (ROOT_DIR / "README.md").write_text("\n".join(sections), encoding="utf-8")
