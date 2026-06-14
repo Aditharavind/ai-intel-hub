@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-14 07:11 UTC
+Last Updated: 2026-06-14 10:41 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -60,30 +60,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-14 | jialei02/lawam_robotwin_sft_release | 1 | 0 | [link](https://huggingface.co/jialei02/lawam_robotwin_sft_release) |
+| 2026-06-14 | JJJYmmm/robotcpp-pi0-libero-finetuned-v044 | 0 | 0 | [link](https://huggingface.co/JJJYmmm/robotcpp-pi0-libero-finetuned-v044) |
+| 2026-06-14 | robotneu/semantic_understanding_refactor_obj_2_3_hard_refactor | 0 | 0 | [link](https://huggingface.co/robotneu/semantic_understanding_refactor_obj_2_3_hard_refactor) |
 | 2026-06-14 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-06-14 | ISdept/wiltechs-vla-59k-desc | 0 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-59k-desc) |
 | 2026-06-14 | ISdept/wiltechs-vla-52k-rl-long-40it | 0 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-52k-rl-long-40it) |
+| 2026-06-14 | physicalairi/pi05_ur3e_pick_red_drop_blue | 59 | 0 | [link](https://huggingface.co/physicalairi/pi05_ur3e_pick_red_drop_blue) |
+| 2026-06-14 | physicalairi/act_ur3_realroom_stack_camera_sim_v1 | 0 | 0 | [link](https://huggingface.co/physicalairi/act_ur3_realroom_stack_camera_sim_v1) |
 | 2026-06-14 | txmedai/seldinger-neurocathsim-policy | 0 | 0 | [link](https://huggingface.co/txmedai/seldinger-neurocathsim-policy) |
 | 2026-06-14 | aShunSasaki/so101_pp_stationery_v2_pi05_retuned_policy | 0 | 0 | [link](https://huggingface.co/aShunSasaki/so101_pp_stationery_v2_pi05_retuned_policy) |
-| 2026-06-13 | robotneu/common_understanding_hard | 0 | 0 | [link](https://huggingface.co/robotneu/common_understanding_hard) |
-| 2026-06-13 | robotneu/semantics_understanding_hard | 0 | 0 | [link](https://huggingface.co/robotneu/semantics_understanding_hard) |
-| 2026-06-13 | robotneu/visual_perception_hard | 0 | 0 | [link](https://huggingface.co/robotneu/visual_perception_hard) |
-| 2026-06-13 | robotneu/action_reasoning_refactor_obj_2_3_hard_refactor | 0 | 0 | [link](https://huggingface.co/robotneu/action_reasoning_refactor_obj_2_3_hard_refactor) |
-| 2026-06-13 | robotic-vt-grasp-project/Single-Step-Grasp-Refinement | 0 | 0 | [link](https://huggingface.co/robotic-vt-grasp-project/Single-Step-Grasp-Refinement) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | wadeKeith/Awesome-Embodied-AI | 215 | Python | 86.1 | [link](https://github.com/wadeKeith/Awesome-Embodied-AI) |
 | arpitg1304/forge | 137 | Python | 54.9 | [link](https://github.com/arpitg1304/forge) |
-| ArduPilot/ardupilot | 15280 | C++ | 6112.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| awslabs/visual-asset-management-system | 127 | Python | 50.9 | [link](https://github.com/awslabs/visual-asset-management-system) |
+| commaai/openpilot | 61357 | Python | 24542.9 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15282 | C++ | 6112.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 13861 | C++ | 5544.5 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11239 | Python | 4495.7 | [link](https://github.com/kornia/kornia) |
-| isaac-sim/IsaacLab | 7438 | Python | 2975.3 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3782 | Rust | 1512.9 | [link](https://github.com/dora-rs/dora) |
-| mani-skill/ManiSkill | 2996 | Python | 1198.5 | [link](https://github.com/mani-skill/ManiSkill) |
-| sou350121/VLA-Handbook | 289 | HTML | 115.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| OpenHUTB/hutb | 503 | C++ | 201.3 | [link](https://github.com/OpenHUTB/hutb) |
-| DexForce/EmbodiChain | 178 | Python | 71.3 | [link](https://github.com/DexForce/EmbodiChain) |
+| isaac-sim/IsaacLab | 7439 | Python | 2975.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| dora-rs/dora | 3783 | Rust | 1513.3 | [link](https://github.com/dora-rs/dora) |
+| mani-skill/ManiSkill | 2997 | Python | 1198.9 | [link](https://github.com/mani-skill/ManiSkill) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -94,10 +94,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-05 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlI3N21DSmpVdVhOSUFjcmE2ZlpkNlBTendxb0VjZ3hIMW4wUVlYZU9tdko5RFR5U3lFbkxmd256VmljWXpMc29zYzd5YXhWcU1ESEo2VXZQaFFPbHBjNEFDLTFXalRtVjdhbzUwQ1BUaW9rRlpONGRLMUpsbHY2R1ZtNFdrNnNZYTV1MlBZbG0xbmNtNW40T2xyUkpHekZOLXBYQVM1LU5hM055UVRWdzlvQQ?oc=5) |
 | 2026-06-04 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTGJaRThJZjRPZGVNaG1oUHF0b1ZOdF9Sd3NKTFB0cGI2MUctYU11UWl4UTVMc1dNZ1RxeEUzMWJJdUU0ZXF6Ui1FTDBfUnNCcjkzQVVuTXlodGJtbzdDREp4ZUNqLV9EZWNKR2hseGMtcW11enNSRU93?oc=5) |
 | 2026-06-04 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWUUwVE5OblREN2VYZUkzTGZBM1c1MGtCdVNUaHhoOWI1V0RKc001aEN2LVZZdVBaaGNTTTVGemxLU2o3UHlNR0tCZ3p6My1iSWQ0WlljVzU1N1JFN1lpNlZWMkZVOGhZN3RVcHRENG5DeXRNMFZjem1Bc093Q2tfSks5eVJuVjNhaDE1UDZiNGdWd05yTDU0TjJhZElJMVpxY1VLZmVWUWJRTFJf?oc=5) |
-| 2026-06-02 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1hIR01SazNlYUFGV0xZaVpMZ3cxLXFWOFpMNUhBbWN3V2NVOFp2WGIyMGtqTzFqeVZkbGFINndKLU1HSDIwampSYVpQNFg5YmNNdjgyblBUZmd5TGdTb3U0U3hsNWhFRkZMYzZiTkJraUdRa1E0U3VjTUhrWDNlWtIBlAFBVV95cUxPWFRLd2hkNDhvT1ZlMFhtWl9ZSDNpM3R2WTcwalpPYndKM3JjOEwxVzdIcHktR3BpcDRkVVpCVWU3UnNkUTY4aTJ5Y0s1d1NNclpKSXVPa2I4SmI0M1JQOWw2QVJnSURCa3dfQi01YWluRU1PX2hvTFFQbVkwZ2pWU0dENUVBVWY5ZDFCUTB5TjdtWEgw?oc=5) |
 | 2026-06-02 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0d6RUp1dkdMampqR1hLclg5cmxLbmJFdWctd1ctYnN6YU9waVRtTTdPOUNTOGFXVGRuaXNQVHlVRl9CR1VoMFEzLXpVMWo5eGZSWjh1N2NqV3JsSTV1dmIwTlJPcVhCOVNlQVRCWFNBZG95UFppWkZHOTRVd0JuMmZXM3JzQ1NPaUV4VVcyQkNuaWR1UUU1R1h3RTRwVUxpUXBFQ1FzbXcyOVJVNDJn?oc=5) |
 | 2026-05-28 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3ZCVTZKY2JCa3g5aFF0SEg4VnVDbThCVmp0SXJQS2NCb2ZXSVdLYmI4RTZYTG5zMWl6Yk9qMklHRlhqOUptZG80RjJfSlhObmNDMXpIN0R2eE1iRUxmV1Z1cERsUnAtMVpNOHp6MURfbTg3azhQVFZORzRYTDh6YjZHRVA2OFhTclE4VlJZRGFtZmdnbFhJ?oc=5) |
 | 2026-05-27 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi4AFBVV95cUxORWxTY2d6OVhlREZuUUFRQ1dnY05ZMHdpX2RJZzRsazFFZk5jaFpsQVUwSW16b0x2ZDFBVVYzUjgtX2FGZXY2LUFNV3dOQVlqRlFUS0haVjlQbTB2WXpmdXM2QjdYYy1ybzBMaHkxcldncXdad0xPeWdjM3V4UmJfMUNmdFczYWNsSUlPbWREelNTOW0zelMzaFh2aFhaMkZpLVc4NTU1OGdQNU5UeTF0VE9rZHdsOXg1U0RRR3ZhcU1BamJtNlpBLVlNckxUekl6dnJFWVp0VVM0YkpueU80aA?oc=5) |
+| 2026-05-26 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdHltOEVSN0JQbEdsby05dklfanpyLVg4ZWJkS2kteHJrSFJYTW4zandKQzhOVzRheFk1SVpTRG91TlJwUHIxeVFPeU1Fb3RURVlrUU1XbXhscnVsaEZYbmxTTjBqZklCeGVoWHhHM1FkaGZtdWJXWGZTUEl3WHlZS3ROYlVkMXltUFB6dFhnUlpRQzB0RXBZWGpjVlNBTUxkUS1zSTZhSEdVZTdUcl9CbUd5aFA0QjBDMXEyMFVxTXd3OC15ZFZ6dVdZZzFyUURIQjlrcWxhcEd4NDJy?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

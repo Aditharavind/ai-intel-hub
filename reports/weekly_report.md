@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-14 07:11 UTC
+Generated: 2026-06-14 10:41 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-06-14 07:11 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81789 | 32715.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 81792 | 32716.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 61357 | 24542.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44042 | 17616.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 29750 | 11900.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| NaiboWang/EasySpider | 44055 | 17622.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 29752 | 11900.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15912 | 6364.9 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| mjf-su/PhysicalAI-reason-VLA-MetaAction-1e | 419 | 125.8 | [link](https://huggingface.co/mjf-su/PhysicalAI-reason-VLA-MetaAction-1e) |
-| mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 90 | 27.3 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
+| IffYuan/Embodied-R1.5 | 317 | 95.2 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
 | fbarbosa1/smolvla_so101_embodied_v1 | 90 | 27.1 | [link](https://huggingface.co/fbarbosa1/smolvla_so101_embodied_v1) |
-| BrinqAI/functiongemma-270m-physical-ai | 85 | 25.6 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
 | fbarbosa1/pi05_so101_embodied_v1 | 68 | 20.5 | [link](https://huggingface.co/fbarbosa1/pi05_so101_embodied_v1) |
+| physicalairi/molmoact2_ur3e_pick_red_drop_blue | 66 | 19.9 | [link](https://huggingface.co/physicalairi/molmoact2_ur3e_pick_red_drop_blue) |
+| physicalairi/pi05_ur3e_pick_red_drop_blue | 59 | 17.8 | [link](https://huggingface.co/physicalairi/pi05_ur3e_pick_red_drop_blue) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
