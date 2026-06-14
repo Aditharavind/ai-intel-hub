@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-14 19:02 UTC
+Generated: 2026-06-14 20:56 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-06-14 19:02 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81794 | 32717.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61369 | 24547.7 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 81793 | 32717.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61370 | 24548.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44062 | 17624.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 29757 | 11902.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15912 | 6364.9 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 15911 | 6364.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | IffYuan/Embodied-R1.5 | 317 | 95.2 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
 | fbarbosa1/smolvla_so101_embodied_v1 | 90 | 27.1 | [link](https://huggingface.co/fbarbosa1/smolvla_so101_embodied_v1) |
+| parth-1/metaguard-policy-agent-v1 | 79 | 23.8 | [link](https://huggingface.co/parth-1/metaguard-policy-agent-v1) |
 | fbarbosa1/pi05_so101_embodied_v1 | 68 | 20.5 | [link](https://huggingface.co/fbarbosa1/pi05_so101_embodied_v1) |
 | physicalairi/molmoact2_ur3e_pick_red_drop_blue | 66 | 19.9 | [link](https://huggingface.co/physicalairi/molmoact2_ur3e_pick_red_drop_blue) |
-| physicalairi/pi05_ur3e_pick_red_drop_blue | 59 | 17.8 | [link](https://huggingface.co/physicalairi/pi05_ur3e_pick_red_drop_blue) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

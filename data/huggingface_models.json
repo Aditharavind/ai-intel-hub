@@ -1,5 +1,14 @@
 [
   {
+    "model": "L7-Robotics/smolvla_conveyor_dynamic",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/L7-Robotics/smolvla_conveyor_dynamic",
+    "date": "2026-06-14",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "Muapi/complex-robot",
     "downloads": 0,
     "likes": 0,
@@ -52,6 +61,15 @@
     "date": "2026-06-14",
     "keyword": "robot",
     "score": 0.3
+  },
+  {
+    "model": "yuto-urushima/vla_jepa_my_task",
+    "downloads": 3,
+    "likes": 0,
+    "url": "https://huggingface.co/yuto-urushima/vla_jepa_my_task",
+    "date": "2026-06-14",
+    "keyword": "vla",
+    "score": 1.0
   },
   {
     "model": "mim-chess-vlas/pi05-fp-msk-config",
@@ -133,6 +151,15 @@
     "date": "2026-06-14",
     "keyword": "physical ai",
     "score": 0.1
+  },
+  {
+    "model": "parth-1/metaguard-policy-agent-v1",
+    "downloads": 79,
+    "likes": 0,
+    "url": "https://huggingface.co/parth-1/metaguard-policy-agent-v1",
+    "date": "2026-06-14",
+    "keyword": "policy",
+    "score": 23.8
   },
   {
     "model": "sooyeon1/pfsp_policy_llama8b_step_r128_ep2_1e-2",
@@ -243,15 +270,6 @@
     "score": 0.1
   },
   {
-    "model": "robotneu/visual_2_3_origin_and_hard",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/robotneu/visual_2_3_origin_and_hard",
-    "date": "2026-06-13",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "RobJMal/dual-vla-spatial_frozen",
     "downloads": 0,
     "likes": 0,
@@ -292,15 +310,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/RobJMal/dual-vla-libero_10_dynamic",
-    "date": "2026-06-13",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "RobJMal/dual-vla-libero_10_disabled",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobJMal/dual-vla-libero_10_disabled",
     "date": "2026-06-13",
     "keyword": "vla",
     "score": 0.1
@@ -376,15 +385,6 @@
     "date": "2026-06-13",
     "keyword": "policy",
     "score": 1.0
-  },
-  {
-    "model": "simonholmes001/my_policy_cube_complete",
-    "downloads": 1,
-    "likes": 0,
-    "url": "https://huggingface.co/simonholmes001/my_policy_cube_complete",
-    "date": "2026-06-13",
-    "keyword": "policy",
-    "score": 0.4
   },
   {
     "model": "physicalairi/pi05_ur3_stack_cube_camera_sim_v2_expert",
@@ -556,15 +556,6 @@
     "date": "2026-06-10",
     "keyword": "physical ai",
     "score": 1.0
-  },
-  {
-    "model": "qualia-robotics/act-oneepisode-49331b6b",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/act-oneepisode-49331b6b",
-    "date": "2026-06-10",
-    "keyword": "robotics",
-    "score": 3.7
   },
   {
     "model": "IffYuan/Embodied-R1.5-8B-SFT",
