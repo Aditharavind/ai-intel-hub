@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-14 15:02 UTC
+Last Updated: 2026-06-14 17:05 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -10,10 +10,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-12 | New OpenAI Academy courses for the next era of work | OpenAI | [link](https://openai.com/index/academy-courses-applying-ai-at-work) |
 | 2026-06-12 | How Preply combines AI and human tutors to personalize learning | OpenAI | [link](https://openai.com/index/preply) |
 | 2026-06-12 | olmo-eval: An evaluation workbench for the model development loop | Hugging Face | [link](https://huggingface.co/blog/allenai/olmo-eval) |
-| 2026-06-11 | OpenAI to acquire Ona | OpenAI | [link](https://openai.com/index/openai-to-acquire-ona) |
 | 2026-06-11 | Supporting Europe’s work in ensuring a trustworthy AI ecosystem | OpenAI | [link](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem) |
 | 2026-06-11 | How an astrophysicist uses Codex to help simulate black holes | OpenAI | [link](https://openai.com/index/using-codex-to-simulate-black-holes) |
 | 2026-06-11 | BBVA puts AI at the core of banking with OpenAI | OpenAI | [link](https://openai.com/index/bbva) |
+| 2026-06-11 | OpenAI to acquire Ona | OpenAI | [link](https://openai.com/index/openai-to-acquire-ona) |
 | 2026-06-11 | Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP | Hugging Face | [link](https://huggingface.co/blog/torch-mlp-fusion) |
 | 2026-06-10 | Access OpenAI models and Codex through your Oracle cloud commitment | OpenAI | [link](https://openai.com/index/openai-on-oracle-cloud) |
 | 2026-06-10 | PRC-linked influence operations are targeting AI debates in the US | OpenAI | [link](https://openai.com/index/prc-linked-influence-operations-ai-debates) |
@@ -65,11 +65,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-14 | JJJYmmm/robotcpp-pi0-libero-finetuned-v044 | 0 | 0 | [link](https://huggingface.co/JJJYmmm/robotcpp-pi0-libero-finetuned-v044) |
 | 2026-06-14 | robotneu/semantic_understanding_refactor_obj_2_3_hard_refactor | 0 | 0 | [link](https://huggingface.co/robotneu/semantic_understanding_refactor_obj_2_3_hard_refactor) |
 | 2026-06-14 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
+| 2026-06-14 | mim-chess-vlas/pi05-fp-msk-config | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/pi05-fp-msk-config) |
+| 2026-06-14 | Vladbambu/Julia | 0 | 0 | [link](https://huggingface.co/Vladbambu/Julia) |
 | 2026-06-14 | deksprime/vla-jepa-robocasa-human300-ri | 0 | 0 | [link](https://huggingface.co/deksprime/vla-jepa-robocasa-human300-ri) |
 | 2026-06-14 | kamada-riku/vla_jepa_so101_pick_toy_v6_fs | 0 | 0 | [link](https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v6_fs) |
 | 2026-06-14 | ISdept/wiltechs-vla-59k-desc | 0 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-59k-desc) |
-| 2026-06-14 | ISdept/wiltechs-vla-52k-rl-long-40it | 0 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-52k-rl-long-40it) |
-| 2026-06-14 | physicalairi/pi05_ur3e_pick_red_drop_blue | 59 | 0 | [link](https://huggingface.co/physicalairi/pi05_ur3e_pick_red_drop_blue) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -77,8 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | wadeKeith/Awesome-Embodied-AI | 215 | Python | 86.1 | [link](https://github.com/wadeKeith/Awesome-Embodied-AI) |
 | arpitg1304/forge | 137 | Python | 54.9 | [link](https://github.com/arpitg1304/forge) |
 | awslabs/visual-asset-management-system | 127 | Python | 50.9 | [link](https://github.com/awslabs/visual-asset-management-system) |
-| commaai/openpilot | 61361 | Python | 24544.5 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15283 | C++ | 6113.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 61365 | Python | 24546.1 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15284 | C++ | 6113.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 13862 | C++ | 5544.9 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11239 | Python | 4495.7 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7441 | Python | 2976.5 | [link](https://github.com/isaac-sim/IsaacLab) |
@@ -94,10 +94,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-05 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlI3N21DSmpVdVhOSUFjcmE2ZlpkNlBTendxb0VjZ3hIMW4wUVlYZU9tdko5RFR5U3lFbkxmd256VmljWXpMc29zYzd5YXhWcU1ESEo2VXZQaFFPbHBjNEFDLTFXalRtVjdhbzUwQ1BUaW9rRlpONGRLMUpsbHY2R1ZtNFdrNnNZYTV1MlBZbG0xbmNtNW40T2xyUkpHekZOLXBYQVM1LU5hM055UVRWdzlvQQ?oc=5) |
 | 2026-06-04 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTGJaRThJZjRPZGVNaG1oUHF0b1ZOdF9Sd3NKTFB0cGI2MUctYU11UWl4UTVMc1dNZ1RxeEUzMWJJdUU0ZXF6Ui1FTDBfUnNCcjkzQVVuTXlodGJtbzdDREp4ZUNqLV9EZWNKR2hseGMtcW11enNSRU93?oc=5) |
 | 2026-06-04 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWUUwVE5OblREN2VYZUkzTGZBM1c1MGtCdVNUaHhoOWI1V0RKc001aEN2LVZZdVBaaGNTTTVGemxLU2o3UHlNR0tCZ3p6My1iSWQ0WlljVzU1N1JFN1lpNlZWMkZVOGhZN3RVcHRENG5DeXRNMFZjem1Bc093Q2tfSks5eVJuVjNhaDE1UDZiNGdWd05yTDU0TjJhZElJMVpxY1VLZmVWUWJRTFJf?oc=5) |
+| 2026-06-02 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1hIR01SazNlYUFGV0xZaVpMZ3cxLXFWOFpMNUhBbWN3V2NVOFp2WGIyMGtqTzFqeVZkbGFINndKLU1HSDIwampSYVpQNFg5YmNNdjgyblBUZmd5TGdTb3U0U3hsNWhFRkZMYzZiTkJraUdRa1E0U3VjTUhrWDNlWtIBlAFBVV95cUxPWFRLd2hkNDhvT1ZlMFhtWl9ZSDNpM3R2WTcwalpPYndKM3JjOEwxVzdIcHktR3BpcDRkVVpCVWU3UnNkUTY4aTJ5Y0s1d1NNclpKSXVPa2I4SmI0M1JQOWw2QVJnSURCa3dfQi01YWluRU1PX2hvTFFQbVkwZ2pWU0dENUVBVWY5ZDFCUTB5TjdtWEgw?oc=5) |
 | 2026-06-02 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0d6RUp1dkdMampqR1hLclg5cmxLbmJFdWctd1ctYnN6YU9waVRtTTdPOUNTOGFXVGRuaXNQVHlVRl9CR1VoMFEzLXpVMWo5eGZSWjh1N2NqV3JsSTV1dmIwTlJPcVhCOVNlQVRCWFNBZG95UFppWkZHOTRVd0JuMmZXM3JzQ1NPaUV4VVcyQkNuaWR1UUU1R1h3RTRwVUxpUXBFQ1FzbXcyOVJVNDJn?oc=5) |
 | 2026-05-28 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3ZCVTZKY2JCa3g5aFF0SEg4VnVDbThCVmp0SXJQS2NCb2ZXSVdLYmI4RTZYTG5zMWl6Yk9qMklHRlhqOUptZG80RjJfSlhObmNDMXpIN0R2eE1iRUxmV1Z1cERsUnAtMVpNOHp6MURfbTg3azhQVFZORzRYTDh6YjZHRVA2OFhTclE4VlJZRGFtZmdnbFhJ?oc=5) |
 | 2026-05-27 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi4AFBVV95cUxORWxTY2d6OVhlREZuUUFRQ1dnY05ZMHdpX2RJZzRsazFFZk5jaFpsQVUwSW16b0x2ZDFBVVYzUjgtX2FGZXY2LUFNV3dOQVlqRlFUS0haVjlQbTB2WXpmdXM2QjdYYy1ybzBMaHkxcldncXdad0xPeWdjM3V4UmJfMUNmdFczYWNsSUlPbWREelNTOW0zelMzaFh2aFhaMkZpLVc4NTU1OGdQNU5UeTF0VE9rZHdsOXg1U0RRR3ZhcU1BamJtNlpBLVlNckxUekl6dnJFWVp0VVM0YkpueU80aA?oc=5) |
-| 2026-05-26 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdHltOEVSN0JQbEdsby05dklfanpyLVg4ZWJkS2kteHJrSFJYTW4zandKQzhOVzRheFk1SVpTRG91TlJwUHIxeVFPeU1Fb3RURVlrUU1XbXhscnVsaEZYbmxTTjBqZklCeGVoWHhHM1FkaGZtdWJXWGZTUEl3WHlZS3ROYlVkMXltUFB6dFhnUlpRQzB0RXBZWGpjVlNBTUxkUS1zSTZhSEdVZTdUcl9CbUd5aFA0QjBDMXEyMFVxTXd3OC15ZFZ6dVdZZzFyUURIQjlrcWxhcEd4NDJy?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
