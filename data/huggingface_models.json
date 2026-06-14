@@ -1,5 +1,14 @@
 [
   {
+    "model": "hcltech-robotics/cosmos3-h-surgical-simulator-alpha",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/hcltech-robotics/cosmos3-h-surgical-simulator-alpha",
+    "date": "2026-06-14",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "L7-Robotics/smolvla_conveyor_dynamic",
     "downloads": 0,
     "likes": 0,
@@ -61,6 +70,15 @@
     "date": "2026-06-14",
     "keyword": "robot",
     "score": 0.3
+  },
+  {
+    "model": "ISdept/wiltechs-vla-70k-desc",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ISdept/wiltechs-vla-70k-desc",
+    "date": "2026-06-14",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "yuto-urushima/vla_jepa_my_task",
@@ -153,15 +171,6 @@
     "score": 0.1
   },
   {
-    "model": "parth-1/metaguard-policy-agent-v1",
-    "downloads": 79,
-    "likes": 0,
-    "url": "https://huggingface.co/parth-1/metaguard-policy-agent-v1",
-    "date": "2026-06-14",
-    "keyword": "policy",
-    "score": 23.8
-  },
-  {
     "model": "sooyeon1/pfsp_policy_llama8b_step_r128_ep2_1e-2",
     "downloads": 0,
     "likes": 0,
@@ -169,6 +178,15 @@
     "date": "2026-06-14",
     "keyword": "policy",
     "score": 0.1
+  },
+  {
+    "model": "parth-1/metaguard-policy-agent-v1",
+    "downloads": 79,
+    "likes": 0,
+    "url": "https://huggingface.co/parth-1/metaguard-policy-agent-v1",
+    "date": "2026-06-14",
+    "keyword": "policy",
+    "score": 23.8
   },
   {
     "model": "aShunSasaki/so101_pp_stationery_v2_molmoact2_lora_retuned_policy_061301",
@@ -261,15 +279,6 @@
     "score": 0.1
   },
   {
-    "model": "robotic-vt-grasp-project/Single-Step-Grasp-Refinement",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/robotic-vt-grasp-project/Single-Step-Grasp-Refinement",
-    "date": "2026-06-13",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "RobJMal/dual-vla-spatial_frozen",
     "downloads": 0,
     "likes": 0,
@@ -301,15 +310,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/RobJMal/dual-vla-libero_10_frozen",
-    "date": "2026-06-13",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "RobJMal/dual-vla-libero_10_dynamic",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobJMal/dual-vla-libero_10_dynamic",
     "date": "2026-06-13",
     "keyword": "vla",
     "score": 0.1
@@ -529,15 +529,6 @@
     "date": "2026-06-11",
     "keyword": "robotics",
     "score": 6.1
-  },
-  {
-    "model": "qualia-robotics/act-openarm-cube-in-box-v1-87b18d97",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/act-openarm-cube-in-box-v1-87b18d97",
-    "date": "2026-06-11",
-    "keyword": "robotics",
-    "score": 2.8
   },
   {
     "model": "linhrumata/world-models",
