@@ -31,23 +31,23 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 61357,
+    "stars": 61358,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-06-14",
     "topic": "robotics",
-    "score": 24542.9
+    "score": 24543.3
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15282,
+    "stars": 15283,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-06-14",
     "topic": "robotics",
-    "score": 6112.9
+    "score": 6113.3
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -71,13 +71,23 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7439,
+    "stars": 7440,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-06-14",
     "topic": "robot-learning",
-    "score": 2975.7
+    "score": 2976.1
+  },
+  {
+    "repo": "RLinf/RLinf",
+    "stars": 3785,
+    "language": "Python",
+    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
+    "url": "https://github.com/RLinf/RLinf",
+    "date": "2026-06-14",
+    "topic": "embodied-ai",
+    "score": 1514.1
   },
   {
     "repo": "dora-rs/dora",
@@ -111,13 +121,13 @@
   },
   {
     "repo": "sou350121/VLA-Handbook",
-    "stars": 290,
+    "stars": 291,
     "language": "HTML",
     "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
     "url": "https://github.com/sou350121/VLA-Handbook",
     "date": "2026-06-14",
     "topic": "robot-learning",
-    "score": 116.1
+    "score": 116.5
   },
   {
     "repo": "baidu-baige/LoongForge",
@@ -198,16 +208,6 @@
     "date": "2026-06-13",
     "topic": "robotics",
     "score": 32716.9
-  },
-  {
-    "repo": "RLinf/RLinf",
-    "stars": 3783,
-    "language": "Python",
-    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
-    "url": "https://github.com/RLinf/RLinf",
-    "date": "2026-06-13",
-    "topic": "embodied-ai",
-    "score": 1513.3
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -321,13 +321,13 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13435,
+    "stars": 13436,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-06-12",
     "topic": "robotics",
-    "score": 5374.1
+    "score": 5374.5
   },
   {
     "repo": "rerun-io/rerun",
@@ -341,13 +341,13 @@
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3008,
+    "stars": 3009,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-06-12",
     "topic": "embodied-ai",
-    "score": 1203.3
+    "score": 1203.7
   },
   {
     "repo": "starVLA/starVLA",
@@ -361,13 +361,13 @@
   },
   {
     "repo": "dexmal/dexbotic",
-    "stars": 1213,
+    "stars": 1214,
     "language": "Python",
     "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
     "url": "https://github.com/dexmal/dexbotic",
     "date": "2026-06-12",
     "topic": "vla",
-    "score": 485.3
+    "score": 485.7
   },
   {
     "repo": "PathOn-AI/pathon_opensource",
@@ -391,13 +391,13 @@
   },
   {
     "repo": "nik-55/world-models",
-    "stars": 139,
+    "stars": 140,
     "language": "",
     "description": "A curated list of research and projects on world models",
     "url": "https://github.com/nik-55/world-models",
     "date": "2026-06-11",
     "topic": "physical-ai",
-    "score": 55.7
+    "score": 56.1
   },
   {
     "repo": "Robbyant/lingbot-vla",
@@ -801,13 +801,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44055,
+    "stars": 44059,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-05-22",
     "topic": "robotics",
-    "score": 17622.1
+    "score": 17623.7
   },
   {
     "repo": "HansZ8/RoboJuDo",

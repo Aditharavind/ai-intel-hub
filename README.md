@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-14 10:41 UTC
+Last Updated: 2026-06-14 12:30 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -68,8 +68,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-14 | ISdept/wiltechs-vla-52k-rl-long-40it | 0 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-52k-rl-long-40it) |
 | 2026-06-14 | physicalairi/pi05_ur3e_pick_red_drop_blue | 59 | 0 | [link](https://huggingface.co/physicalairi/pi05_ur3e_pick_red_drop_blue) |
 | 2026-06-14 | physicalairi/act_ur3_realroom_stack_camera_sim_v1 | 0 | 0 | [link](https://huggingface.co/physicalairi/act_ur3_realroom_stack_camera_sim_v1) |
+| 2026-06-14 | sooyeon1/pfsp_policy_llama8b_step_r128_ep2_1e-2 | 0 | 0 | [link](https://huggingface.co/sooyeon1/pfsp_policy_llama8b_step_r128_ep2_1e-2) |
 | 2026-06-14 | txmedai/seldinger-neurocathsim-policy | 0 | 0 | [link](https://huggingface.co/txmedai/seldinger-neurocathsim-policy) |
-| 2026-06-14 | aShunSasaki/so101_pp_stationery_v2_pi05_retuned_policy | 0 | 0 | [link](https://huggingface.co/aShunSasaki/so101_pp_stationery_v2_pi05_retuned_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -77,13 +77,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | wadeKeith/Awesome-Embodied-AI | 215 | Python | 86.1 | [link](https://github.com/wadeKeith/Awesome-Embodied-AI) |
 | arpitg1304/forge | 137 | Python | 54.9 | [link](https://github.com/arpitg1304/forge) |
 | awslabs/visual-asset-management-system | 127 | Python | 50.9 | [link](https://github.com/awslabs/visual-asset-management-system) |
-| commaai/openpilot | 61357 | Python | 24542.9 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15282 | C++ | 6112.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 61358 | Python | 24543.3 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15283 | C++ | 6113.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 13861 | C++ | 5544.5 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11239 | Python | 4495.7 | [link](https://github.com/kornia/kornia) |
-| isaac-sim/IsaacLab | 7439 | Python | 2975.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| isaac-sim/IsaacLab | 7440 | Python | 2976.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 3785 | Python | 1514.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3783 | Rust | 1513.3 | [link](https://github.com/dora-rs/dora) |
-| mani-skill/ManiSkill | 2997 | Python | 1198.9 | [link](https://github.com/mani-skill/ManiSkill) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -103,7 +103,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-06-13 | NVIDIA Corporation (NVDA) Partners with Nebius to Support AI Robotics Startup in Europe - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSEhhOWF3aGxNX2dkU2VSazdCWFVGTE9faXM3Q05QY0NLcGE2NnNoTGdJbFN5cVhPVHVucnZYazN6OW8zN2o2ZkZWMFVWVVc1YmRxVmdqVlVTMDhBT0xuYm9jNU9vRno1WDNTSU5wYjEtMFdvWHYzUml6ZGVqeG8zam1rYkJqX19MNFNYeVl6Z1NJcmU0WG1Yejd0T0RWUlRTSjhoLTVnNW9jLTZr?oc=5) |
-| 2026-06-13 | Prometheus AI Startup: Bezos Raises $12 Billion at a $41 Billion Valuation - Tech Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNYWFkTHUweXlYbGlDU25ES3JIVW5ST0xKc04zTDZ4V0MteTIzZjU2UHdNZktCWDdNX1laTWRHUjZFejM5Nm9Cb0J4bUtTc25mRk1UdVNCN042X2p4Sk1mNGNhTEtUTURFT3hXV0lmWVhOU21LQWh3MWdmNC1YRlBXaU9DMS11QXNZNUdJNDVEUTZWcTdWeS1JdXhQZ1FvYXhyMXNIVkRHUzZNQUlPNl82a0VJNlRyWEJWNVJGd0p3?oc=5) |
 | 2026-06-13 | AI Startup Alumni Huawei Reaches USD100 Million Valuation - VOI.id | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTE43ODBoREN5MEs1R0lwMURtTGZYQ3l1bmliRmg0dHFLV3E3eGlzdUpDWEwzN3RtalpyOXlZQm5UWWxLMGRKbjgzZlVvSdIBQkFVX3lxTE8yczZCT2hnUm84a0lpNHFxSm1iX1Q5M3dqc19KYUlrSlRSRkw4Mk51Ulo1T3B6RXpPZjFxU3EwOGVWUQ?oc=5) |
 | 2026-06-12 | Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFE2N0VGYXZhRlpTb3dheHN4ZVRVaHRPZGJZaG5kbk5URzBlM0MtLUJOWlZ5UTBWZ3ZQT2RBUVprZ1owcWNoU2NuTEZ2UHpJbnhDajZrUW1RYlAtLUtpTnZFT2Z1YWV6X2V3YUJXTXdQcWEzQUgzT1NYRDNtSTRSVDJGYkVHelhKSDZmTmZSeEFBOUljY3Y5a09UeFBBbnVYd2ZFZXFVUngzUVUtdlhYYUxScUppZnl4ZnpEa2FUMEsxTjVlMFRkRnB1MA?oc=5) |
 | 2026-06-12 | Jeff Bezos’s Physical AI Startup Prometheus Raises $12B at $41B Valuation - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQmZNM2VRaDJ4eUYtdS1EOVpFUEdqMnYxNW9vRVdVeXFSeUhybFlUdGxsdTNRYW9VbG02a0tlQzBEUkgyVkljcTBiWGNqQUxWREdGQ21MY2hIQlRuZllLSFJ2MTd6UWhPaHlvRklWTHB6cFREX3JwT0FWYW5odmpZaW1sQVptcm1Jd2o3NGI3MG1BZkZJWWhYU1FpSVh2bjVUVFl4R0NlSXYxd1FJ?oc=5) |
@@ -111,6 +110,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-12 | Germany’s NEURA Robotics raises up to €1.2 billion in Series C round to build Physical AI from Europe - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQkNQMUlHZVVsYXRQLWUyM01nTF9PNDZMZmYtMjI3a2FGLV9rRVVhWkVWQXZRdFc2eGJOQ21JeXViWWRuTGdXRVg2YXFhWXJDZE5XUmxDVDZBcC1COW55cVdsekpaQWp5QnJGdW1lMkFPQVQtbVIwbko3amN0LVM3TTRWcFVWaTBxeUNETmdQOVhzc1BfLVlfcThCVjRJNTl6LVRRZzlkNFdJX1diX1FvVzdkWWJpX3JITnk1a05LemhCYzhtZnZnU0NvMmpwc0JqaVpj?oc=5) |
 | 2026-06-12 | Prometheus raises $12B to build physical AI engineer - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOejdQVk1hMHBJZGFkMVJOVnJIOHplWThidHVLOUtYQ2g3VTgxd0FGdGh0RFBvZTItLWVXUGkyUEY2UjU4Z01pUkZZN3FqRjJJc0ZsaWJJa1dLNy1fWWpaVTBYSHVFVHhtLVdJMHQtN0Q2S2FaWmdGVE5TbmlyZDlMVnkxLTZfWktjOEY1TDhkdHV5MFlyRmw4ZQ?oc=5) |
 | 2026-06-12 | Prometheus Raises $12 Billion at $41 Billion Valuation to Build Physical AI Systems - entARABI | physical ai startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFhkelVsS1BxNmJJQjhsNFFaU1RpWXNjWXhLY3BKa0JCX2NCMzhyalBKMkx6WWJXR0w2QkViY0VsNDZvX09OVjd0M2NpMGNzNVczbFdrVE5Wa1ZKZWFRWnBxZXVzV2NPcl9oX0lGeFlEaGhYbUFuT21vcktxVUFLVzM1NXVqejR3aFlnOVQ1dG0zMmlPYU5BQ19SU0h2SDNVSjIta1hHdWYtSDNLU19EV29qZXI?oc=5) |
+| 2026-06-12 | Jeff Bezos Co-Founds $41B AI Startup Prometheus to Build 'Artificial General Engineers' - Android Headlines | physical ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxNaW1fcnM1RUFGSzFRVGRqdmtrLWV0MVVqZXNxN1JiV1FqUlhPZ0RlNW9FZHpqejBjRTRrbXRUbEhPQ3dBd1FBRVJVUUlZM1c2bDZkRVMwckhtR21rUklwRGVMYVp4M2oxQ0h6Q2h4eWV3WHJVaVNqSlFMS1E2YnZzVkVNckZhSG9Cd2Y4VjgtdGU3WE5YTWhLSTctVDBpQQ?oc=5) |
 | 2026-06-11 | Xpeng puts its founder in charge of the humanoid robot race - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxPOUVzVFdFa01jNUl3OTFiX1ZoTjlJbmpob3hEMjhHd1FCYlVYMTktdHR2T2NoSS1xempGTERQUWJySXBRTnFZS2NtaWQ5dmZXd2VpdGkwWHh2LUJNTjVpaVQxZEtwRnZ0SzJWaDkxSXpkaEhaTjdJTG1lTThZbkZhaG55RndFZ0ZybDFNU09JZGU?oc=5) |
 
 ## Jobs
