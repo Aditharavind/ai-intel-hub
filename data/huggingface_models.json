@@ -1,5 +1,14 @@
 [
   {
+    "model": "robotneu/visual_2_3_only_hard",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotneu/visual_2_3_only_hard",
+    "date": "2026-06-14",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "jialei02/lawam_robotwin_sft_release",
     "downloads": 1,
     "likes": 0,
@@ -34,6 +43,24 @@
     "date": "2026-06-14",
     "keyword": "robot",
     "score": 0.3
+  },
+  {
+    "model": "deksprime/vla-jepa-robocasa-human300-ri",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/deksprime/vla-jepa-robocasa-human300-ri",
+    "date": "2026-06-14",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "kamada-riku/vla_jepa_so101_pick_toy_v6_fs",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v6_fs",
+    "date": "2026-06-14",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "ISdept/wiltechs-vla-59k-desc",
@@ -90,15 +117,6 @@
     "score": 0.1
   },
   {
-    "model": "simonholmes001/my_policy_record-cube-50",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/simonholmes001/my_policy_record-cube-50",
-    "date": "2026-06-14",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "TachyQaQ/so101_act_policy",
     "downloads": 25,
     "likes": 0,
@@ -106,6 +124,15 @@
     "date": "2026-06-14",
     "keyword": "policy",
     "score": 7.6
+  },
+  {
+    "model": "simonholmes001/my_policy_record-cube-50",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/simonholmes001/my_policy_record-cube-50",
+    "date": "2026-06-14",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "aShunSasaki/so101_pp_stationery_v2_pi05_retuned_policy",
@@ -180,15 +207,6 @@
     "score": 0.1
   },
   {
-    "model": "ShikangWang/trajvlav2_robotwin_200K",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/ShikangWang/trajvlav2_robotwin_200K",
-    "date": "2026-06-13",
-    "keyword": "robot",
-    "score": 4.6
-  },
-  {
     "model": "Vladbambu/Julia",
     "downloads": 0,
     "likes": 0,
@@ -261,24 +279,6 @@
     "score": 1.0
   },
   {
-    "model": "physicalairi/vla_jepa_ur3e_pick_red_drop_blue",
-    "downloads": 51,
-    "likes": 0,
-    "url": "https://huggingface.co/physicalairi/vla_jepa_ur3e_pick_red_drop_blue",
-    "date": "2026-06-13",
-    "keyword": "physical ai",
-    "score": 15.4
-  },
-  {
-    "model": "RobJMal/dual-vla-dual_vla_frozen",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobJMal/dual-vla-dual_vla_frozen",
-    "date": "2026-06-13",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "EmbodiedCity/Worldscape-MoE",
     "downloads": 0,
     "likes": 0,
@@ -295,6 +295,15 @@
     "date": "2026-06-13",
     "keyword": "physical ai",
     "score": 1.0
+  },
+  {
+    "model": "physicalairi/vla_jepa_ur3e_pick_red_drop_blue",
+    "downloads": 51,
+    "likes": 0,
+    "url": "https://huggingface.co/physicalairi/vla_jepa_ur3e_pick_red_drop_blue",
+    "date": "2026-06-13",
+    "keyword": "physical ai",
+    "score": 15.4
   },
   {
     "model": "physicalairi/molmoact2_ur3e_pick_red_drop_blue",
