@@ -1,5 +1,14 @@
 [
   {
+    "model": "Muapi/complex-robot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Muapi/complex-robot",
+    "date": "2026-06-14",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "robotneu/visual_2_3_only_hard",
     "downloads": 0,
     "likes": 0,
@@ -135,6 +144,15 @@
     "score": 0.1
   },
   {
+    "model": "aShunSasaki/so101_pp_stationery_v2_molmoact2_lora_retuned_policy_061301",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/aShunSasaki/so101_pp_stationery_v2_molmoact2_lora_retuned_policy_061301",
+    "date": "2026-06-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "TachyQaQ/so101_act_policy",
     "downloads": 25,
     "likes": 0,
@@ -229,15 +247,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/robotneu/visual_2_3_origin_and_hard",
-    "date": "2026-06-13",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "SakikoTogawa/pi0_robotwin_lora-stack_blocks_three-100-himaconpp_repo",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-stack_blocks_three-100-himaconpp_repo",
     "date": "2026-06-13",
     "keyword": "robot",
     "score": 0.1
@@ -376,15 +385,6 @@
     "date": "2026-06-13",
     "keyword": "policy",
     "score": 0.4
-  },
-  {
-    "model": "JeffrinSam/Cosmos3-Nano-G1-BrainCo-PolicySFT",
-    "downloads": 14,
-    "likes": 0,
-    "url": "https://huggingface.co/JeffrinSam/Cosmos3-Nano-G1-BrainCo-PolicySFT",
-    "date": "2026-06-13",
-    "keyword": "policy",
-    "score": 4.3
   },
   {
     "model": "physicalairi/pi05_ur3_stack_cube_camera_sim_v2_expert",
