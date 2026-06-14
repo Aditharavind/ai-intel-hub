@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-14 22:01 UTC
+Generated: 2026-06-14 23:57 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -42,7 +42,7 @@ Generated: 2026-06-14 22:01 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-06-13 | NVIDIA Corporation (NVDA) Partners with Nebius to Support AI Robotics Startup in Europe - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSEhhOWF3aGxNX2dkU2VSazdCWFVGTE9faXM3Q05QY0NLcGE2NnNoTGdJbFN5cVhPVHVucnZYazN6OW8zN2o2ZkZWMFVWVVc1YmRxVmdqVlVTMDhBT0xuYm9jNU9vRno1WDNTSU5wYjEtMFdvWHYzUml6ZGVqeG8zam1rYkJqX19MNFNYeVl6Z1NJcmU0WG1Yejd0T0RWUlRTSjhoLTVnNW9jLTZr?oc=5) |
-| 2026-06-13 | AI Startup Alumni Huawei Reaches USD100 Million Valuation - VOI.id | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTE43ODBoREN5MEs1R0lwMURtTGZYQ3l1bmliRmg0dHFLV3E3eGlzdUpDWEwzN3RtalpyOXlZQm5UWWxLMGRKbjgzZlVvSdIBQkFVX3lxTE8yczZCT2hnUm84a0lpNHFxSm1iX1Q5M3dqc19KYUlrSlRSRkw4Mk51Ulo1T3B6RXpPZjFxU3EwOGVWUQ?oc=5) |
+| 2026-06-13 | AI Startup Alumni Huawei Reaches USD100 Million Valuation - VOI.id | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yczZCT2hnUm84a0lpNHFxSm1iX1Q5M3dqc19KYUlrSlRSRkw4Mk51Ulo1T3B6RXpPZjFxU3EwOGVWUdIBQkFVX3lxTE8yczZCT2hnUm84a0lpNHFxSm1iX1Q5M3dqc19KYUlrSlRSRkw4Mk51Ulo1T3B6RXpPZjFxU3EwOGVWUQ?oc=5) |
 | 2026-06-12 | Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFE2N0VGYXZhRlpTb3dheHN4ZVRVaHRPZGJZaG5kbk5URzBlM0MtLUJOWlZ5UTBWZ3ZQT2RBUVprZ1owcWNoU2NuTEZ2UHpJbnhDajZrUW1RYlAtLUtpTnZFT2Z1YWV6X2V3YUJXTXdQcWEzQUgzT1NYRDNtSTRSVDJGYkVHelhKSDZmTmZSeEFBOUljY3Y5a09UeFBBbnVYd2ZFZXFVUngzUVUtdlhYYUxScUppZnl4ZnpEa2FUMEsxTjVlMFRkRnB1MA?oc=5) |
 | 2026-06-12 | Jeff Bezos’s Physical AI Startup Prometheus Raises $12B at $41B Valuation - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQmZNM2VRaDJ4eUYtdS1EOVpFUEdqMnYxNW9vRVdVeXFSeUhybFlUdGxsdTNRYW9VbG02a0tlQzBEUkgyVkljcTBiWGNqQUxWREdGQ21MY2hIQlRuZllLSFJ2MTd6UWhPaHlvRklWTHB6cFREX3JwT0FWYW5odmpZaW1sQVptcm1Jd2o3NGI3MG1BZkZJWWhYU1FpSVh2bjVUVFl4R0NlSXYxd1FJ?oc=5) |
-| 2026-06-12 | Prometheus Raises $12 Billion at $41 Billion Valuation to Build Physical AI Systems - entARABI | physical ai startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFhkelVsS1BxNmJJQjhsNFFaU1RpWXNjWXhLY3BKa0JCX2NCMzhyalBKMkx6WWJXR0w2QkViY0VsNDZvX09OVjd0M2NpMGNzNVczbFdrVE5Wa1ZKZWFRWnBxZXVzV2NPcl9oX0lGeFlEaGhYbUFuT21vcktxVUFLVzM1NXVqejR3aFlnOVQ1dG0zMmlPYU5BQ19SU0h2SDNVSjIta1hHdWYtSDNLU19EV29qZXI?oc=5) |
+| 2026-06-12 | Here’s what Jeff Bezos’ new startup Prometheus will do - Ars Technica | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPeEVGelJPSnQ2N3FjNmdiVWRDTkVGd1RyZjBESGJLcUNsVUpYeGFDV004T2Z1eFBzN0xIam04M2JCRjh5VU4yUVJsS0FMcVNqMmR6anRhSjFoV3RORWJySG5vUnNyYXBTQ1pBX2U3enlmYV9JMW5iWDYwaTRxVU0zM0lSVVo5THZmc0tqaG4wRGZwUQ?oc=5) |
