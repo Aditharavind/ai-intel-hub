@@ -1,23 +1,23 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-14 23:57 UTC
+Generated: 2026-06-15 02:59 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-06-11 | Mana: Dexterous Manipulation of Articulated Tools | [link](https://arxiv.org/pdf/2606.13677v1) |
-| 2026-06-11 | Improving Robotic Generalist Policies via Flow Reversal Steering | [link](https://arxiv.org/pdf/2606.13675v1) |
-| 2026-06-11 | RepWAM: World Action Modeling with Representation Visual-Action Tokenizers | [link](https://arxiv.org/pdf/2606.13674v1) |
-| 2026-06-11 | $\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation | [link](https://arxiv.org/pdf/2606.13672v1) |
-| 2026-06-11 | Search for High-Frequency Gravitational Waves via Geomagnetic Conversion with Radio Telescopes | [link](https://arxiv.org/pdf/2606.13642v1) |
+| 2026-06-12 | Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control | [link](https://arxiv.org/pdf/2606.14699v1) |
+| 2026-06-12 | EgoGuide: Egocentric Guidance for Efficient Robot-Free Demonstration Collection and Learning | [link](https://arxiv.org/pdf/2606.14665v1) |
+| 2026-06-12 | Whole-Body Impedance Model Predictive Control for Safe Physical Human--Robot Interaction on Floating-Base Platforms | [link](https://arxiv.org/pdf/2606.14617v1) |
+| 2026-06-12 | Safe Reinforcement Learning of Autonomous Highway Driving: A Unified Framework for Safety and Efficiency | [link](https://arxiv.org/pdf/2606.14609v1) |
+| 2026-06-12 | Impedance MPC with Disturbance Estimation for Dexterous Hand Control | [link](https://arxiv.org/pdf/2606.14606v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81794 | 32717.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61370 | 24548.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44062 | 17624.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 29757 | 11902.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 81796 | 32718.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61371 | 24548.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44064 | 17625.7 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 29758 | 11903.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15911 | 6364.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
