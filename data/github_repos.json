@@ -91,13 +91,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 13882,
+    "stars": 13881,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-06-15",
     "topic": "robotics",
-    "score": 5552.9
+    "score": 5552.5
   },
   {
     "repo": "DLR-RM/stable-baselines3",
@@ -110,24 +110,34 @@
     "score": 5374.9
   },
   {
+    "repo": "kornia/kornia",
+    "stars": 11239,
+    "language": "Python",
+    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "url": "https://github.com/kornia/kornia",
+    "date": "2026-06-15",
+    "topic": "robotics",
+    "score": 4495.7
+  },
+  {
     "repo": "rerun-io/rerun",
-    "stars": 10951,
+    "stars": 10952,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-06-15",
     "topic": "robotics",
-    "score": 4380.5
+    "score": 4380.9
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7454,
+    "stars": 7456,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-06-15",
     "topic": "robot-learning",
-    "score": 2981.7
+    "score": 2982.5
   },
   {
     "repo": "RLinf/RLinf",
@@ -151,13 +161,13 @@
   },
   {
     "repo": "mani-skill/ManiSkill",
-    "stars": 3004,
+    "stars": 3005,
     "language": "Python",
     "description": "SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
     "url": "https://github.com/mani-skill/ManiSkill",
     "date": "2026-06-15",
     "topic": "robot-learning",
-    "score": 1201.7
+    "score": 1202.1
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -300,16 +310,6 @@
     "score": 55.7
   },
   {
-    "repo": "kornia/kornia",
-    "stars": 11239,
-    "language": "Python",
-    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-    "url": "https://github.com/kornia/kornia",
-    "date": "2026-06-14",
-    "topic": "robotics",
-    "score": 4495.7
-  },
-  {
     "repo": "alireza787b/mavsdk_drone_show",
     "stars": 296,
     "language": "Python",
@@ -381,13 +381,13 @@
   },
   {
     "repo": "starVLA/starVLA",
-    "stars": 2838,
+    "stars": 2839,
     "language": "Python",
     "description": "StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing",
     "url": "https://github.com/starVLA/starVLA",
     "date": "2026-06-12",
     "topic": "vla",
-    "score": 1135.3
+    "score": 1135.7
   },
   {
     "repo": "dexmal/dexbotic",
@@ -421,13 +421,13 @@
   },
   {
     "repo": "nik-55/world-models",
-    "stars": 142,
+    "stars": 143,
     "language": "",
     "description": "A curated list of research and projects on world models",
     "url": "https://github.com/nik-55/world-models",
     "date": "2026-06-11",
     "topic": "physical-ai",
-    "score": 56.9
+    "score": 57.3
   },
   {
     "repo": "Robbyant/lingbot-vla",
@@ -461,23 +461,23 @@
   },
   {
     "repo": "nv-tlabs/lyra",
-    "stars": 2093,
+    "stars": 2095,
     "language": "Python",
     "description": "Project Lyra: Open Generative 3D World Models",
     "url": "https://github.com/nv-tlabs/lyra",
     "date": "2026-06-11",
     "topic": "world-model",
-    "score": 837.3
+    "score": 838.1
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 1850,
+    "stars": 1853,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-06-11",
     "topic": "world-model",
-    "score": 740.1
+    "score": 741.3
   },
   {
     "repo": "botbotrobotics/BotBrain",
@@ -641,13 +641,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 1249,
+    "stars": 1250,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-05",
     "topic": "robot-learning",
-    "score": 499.7
+    "score": 500.1
   },
   {
     "repo": "RobotecAI/rai",
@@ -691,13 +691,13 @@
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
-    "stars": 1548,
+    "stars": 1549,
     "language": "",
     "description": "A curated list of awesome robot descriptions (URDF, MJCF)",
     "url": "https://github.com/robot-descriptions/awesome-robot-descriptions",
     "date": "2026-06-03",
     "topic": "humanoid",
-    "score": 619.3
+    "score": 619.7
   },
   {
     "repo": "LeCAR-Lab/BFM-Zero",
@@ -791,13 +791,13 @@
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2448,
+    "stars": 2449,
     "language": "Python",
     "description": "RoboTwin 2.0 Offical Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-05-23",
     "topic": "embodied-ai",
-    "score": 979.3
+    "score": 979.7
   },
   {
     "repo": "NaiboWang/EasySpider",

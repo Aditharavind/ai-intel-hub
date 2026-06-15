@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-15 19:35 UTC
+Last Updated: 2026-06-15 22:07 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -60,6 +60,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-15 | Jiahao-Wang/lingbot-va-robotwin-2task-to-8task-full-step10000 | 0 | 0 | [link](https://huggingface.co/Jiahao-Wang/lingbot-va-robotwin-2task-to-8task-full-step10000) |
 | 2026-06-15 | robotneu/action_reasoning_refactor_obj_2_3_hard_refactor | 0 | 0 | [link](https://huggingface.co/robotneu/action_reasoning_refactor_obj_2_3_hard_refactor) |
 | 2026-06-15 | luochen17/GPT_robotic | 0 | 0 | [link](https://huggingface.co/luochen17/GPT_robotic) |
 | 2026-06-15 | Muapi/high-tech-robotics | 0 | 0 | [link](https://huggingface.co/Muapi/high-tech-robotics) |
@@ -69,7 +70,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-15 | etri-robotai-platform-dev/act-pusht-smoke-v1 | 0 | 0 | [link](https://huggingface.co/etri-robotai-platform-dev/act-pusht-smoke-v1) |
 | 2026-06-15 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 1 | 3 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 | 2026-06-15 | Zeeeeen/robotwin_ae | 0 | 0 | [link](https://huggingface.co/Zeeeeen/robotwin_ae) |
-| 2026-06-15 | build-small-hackathon/fireboy-minicpm-v-4-6-vla | 0 | 0 | [link](https://huggingface.co/build-small-hackathon/fireboy-minicpm-v-4-6-vla) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -83,7 +83,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | AtsushiSakai/PythonRobotics | 29768 | Python | 11907.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15913 | Python | 6365.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15290 | C++ | 6116.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 13882 | C++ | 5552.9 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 13881 | C++ | 5552.5 | [link](https://github.com/google-deepmind/mujoco) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -103,6 +103,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-06-15 | Meet the 22 Investors to Know in Robotics and Physical AI - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTGJ2NDJMbnFkbkt3dDN0OU5heDVOemhWR3prRXlWVWRQT0hJdE1MTF9Za2lJUWVkai1fS0VHaDBGbGdxcVp5a1hiQ3hub29ra21IdkZmczhZRzNPeGxRRzRvM1BfTTZ6UXFoaGJMYVBrMmZyNk5fU3Q3U2ZIUEQwMC0ydjZqYU1LUUh6Sw?oc=5) |
+| 2026-06-15 | Interview: From language to motion— Japanese startup APTO builds the data backbone for physical AI - digitimes | vision language action startup | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5aDNzT21GeU1WYlZKT003OFd6dkxoR0drczQzZ2YtbGY3cXpMb3JQT3I5cndObk9VcVZlVFFWSF81OG1weVlnRlgzVFg1X2s1VmxLeXUxUThjU185U0lr?oc=5) |
 | 2026-06-15 | Bezos Bets $12 Billion That AI Can Out-Engineer the Engineers - Technology Org | physical ai startup | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxNQkQ2SDdVbnd1Z1hUVTVvcl9Xb0I3RWd0UWFkUnNvS3NZLVhrdVhXSklMNVB1dXR5VEJxY3UyWlhubFh3cnlBeGRER2hpbXUzWllpRmdERXh2Ujc4bVJ6cldzSHI1SUJWR3BMYVA4Qm5VNzdtd2N5SjQ4VzFpMm1xQ2V3TDY?oc=5) |
 | 2026-06-15 | What Is Physical AI and How Jeff Bezos’ Startup Prometheus Aims to “Hack” the System - quasa.io | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNWJTLVBNVXNtc3dIUG5mdzJYWUZQOGdwV25hRjJGMkczdUlxQ1B3WjdPQWRVWTlXN0Y0ZkJHZmpmVjN3RzNoZGV4dXIwVWM1V0pxQVNlc1dhdzRLUVhtMUNwM2JFMS11MDg4Q0JTQ1Y5cWJjeTF4NDZvSFpKUmNhQVExdlhFOXMxbFNibkpOb2lBaHdXaGVTRHVuc2N5QS1KZGRZWFZ0SQ?oc=5) |
 | 2026-06-15 | Jeff Bezos's $12B bet to replace engineers with AI - BetaNews | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1DRjR1OXJWeUs4dnpZak5EZXM5SnVWclUtS0RhU3lsR216d2F2MUtLeUplZVZQcVhDeU00a24yQ3BWbTdrSWdwdHVaQ2UzcG5EM2ljWGZVdDBOT1BzTElnY1dEdkdNaHk4T0ZsV2p3a1pYaDY1TzZN?oc=5) |
@@ -111,12 +112,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-12 | Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFE2N0VGYXZhRlpTb3dheHN4ZVRVaHRPZGJZaG5kbk5URzBlM0MtLUJOWlZ5UTBWZ3ZQT2RBUVprZ1owcWNoU2NuTEZ2UHpJbnhDajZrUW1RYlAtLUtpTnZFT2Z1YWV6X2V3YUJXTXdQcWEzQUgzT1NYRDNtSTRSVDJGYkVHelhKSDZmTmZSeEFBOUljY3Y5a09UeFBBbnVYd2ZFZXFVUngzUVUtdlhYYUxScUppZnl4ZnpEa2FUMEsxTjVlMFRkRnB1MA?oc=5) |
 | 2026-06-12 | Jeff Bezos’s Physical AI Startup Prometheus Raises $12B at $41B Valuation - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQmZNM2VRaDJ4eUYtdS1EOVpFUEdqMnYxNW9vRVdVeXFSeUhybFlUdGxsdTNRYW9VbG02a0tlQzBEUkgyVkljcTBiWGNqQUxWREdGQ21MY2hIQlRuZllLSFJ2MTd6UWhPaHlvRklWTHB6cFREX3JwT0FWYW5odmpZaW1sQVptcm1Jd2o3NGI3MG1BZkZJWWhYU1FpSVh2bjVUVFl4R0NlSXYxd1FJ?oc=5) |
 | 2026-06-12 | Here’s what Jeff Bezos’ new startup Prometheus will do - Ars Technica | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPeEVGelJPSnQ2N3FjNmdiVWRDTkVGd1RyZjBESGJLcUNsVUpYeGFDV004T2Z1eFBzN0xIam04M2JCRjh5VU4yUVJsS0FMcVNqMmR6anRhSjFoV3RORWJySG5vUnNyYXBTQ1pBX2U3enlmYV9JMW5iWDYwaTRxVU0zM0lSVVo5THZmc0tqaG4wRGZwUQ?oc=5) |
-| 2026-06-12 | Prometheus Raises $12 Billion at $41 Billion Valuation to Build Physical AI Systems - entARABI | physical ai startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFhkelVsS1BxNmJJQjhsNFFaU1RpWXNjWXhLY3BKa0JCX2NCMzhyalBKMkx6WWJXR0w2QkViY0VsNDZvX09OVjd0M2NpMGNzNVczbFdrVE5Wa1ZKZWFRWnBxZXVzV2NPcl9oX0lGeFlEaGhYbUFuT21vcktxVUFLVzM1NXVqejR3aFlnOVQ1dG0zMmlPYU5BQ19SU0h2SDNVSjIta1hHdWYtSDNLU19EV29qZXI?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-06-15 | Power Electronics Engineer, Charging | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4333397006) |
+| 2026-06-15 | Staff PLM Architect  | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6016569004) |
 | 2026-06-15 | UX/UI Designer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6017816004) |
 | 2026-06-12 | Mechanical Engineer, Battery | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4656559006) |
 | 2026-06-12 | Reinforcement Learning Engineer – Whole Body Control | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4671442006) |
@@ -125,7 +126,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-11 | Staff Hardware Test Engineer - Torso | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6002917004) |
 | 2026-06-10 | Electrical Engineer, Actuator Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4688381006) |
 | 2026-06-10 | Helix AI Engineer, Training Infrastructure | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4431092006) |
-| 2026-06-10 | Accountant III | Agility Robotics | Hybrid- Pittsburgh, PA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5986011004) |
 
 ## Automation
 

@@ -1,5 +1,14 @@
 [
   {
+    "model": "Jiahao-Wang/lingbot-va-robotwin-2task-to-8task-full-step10000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Jiahao-Wang/lingbot-va-robotwin-2task-to-8task-full-step10000",
+    "date": "2026-06-15",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "robotneu/action_reasoning_refactor_obj_2_3_hard_refactor",
     "downloads": 0,
     "likes": 0,
@@ -78,6 +87,15 @@
     "url": "https://huggingface.co/Zeeeeen/robotwin_ae",
     "date": "2026-06-15",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Vladbambu/Julia",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Vladbambu/Julia",
+    "date": "2026-06-15",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -180,6 +198,15 @@
     "score": 0.1
   },
   {
+    "model": "quan1328/so101_recordtest_torq_policy13",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/quan1328/so101_recordtest_torq_policy13",
+    "date": "2026-06-15",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "yhc2222/tsp_policy_llama8b_step_r64",
     "downloads": 19,
     "likes": 0,
@@ -187,6 +214,15 @@
     "date": "2026-06-15",
     "keyword": "policy",
     "score": 5.8
+  },
+  {
+    "model": "Gogul99/act_leisaac_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Gogul99/act_leisaac_policy",
+    "date": "2026-06-15",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "Janin-M/so101_meersalz_15_policy",
@@ -261,24 +297,6 @@
     "score": 0.1
   },
   {
-    "model": "debatanjac/supervised_cclr_g100K_policy_fixedlr_12resnets",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/debatanjac/supervised_cclr_g100K_policy_fixedlr_12resnets",
-    "date": "2026-06-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "debatanjac/supervised_cclr_g100K_policyvalue_fixedlr_12resnets",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/debatanjac/supervised_cclr_g100K_policyvalue_fixedlr_12resnets",
-    "date": "2026-06-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "hcltech-robotics/cosmos3-h-surgical-simulator-alpha",
     "downloads": 0,
     "likes": 1,
@@ -297,15 +315,6 @@
     "score": 1.3
   },
   {
-    "model": "robotneu/visual_2_3_only_hard",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/robotneu/visual_2_3_only_hard",
-    "date": "2026-06-14",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "mim-chess-vlas/pi05-no-msk-config",
     "downloads": 0,
     "likes": 0,
@@ -313,15 +322,6 @@
     "date": "2026-06-14",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "ISdept/wiltechs-vla-70k-desc",
-    "downloads": 14,
-    "likes": 0,
-    "url": "https://huggingface.co/ISdept/wiltechs-vla-70k-desc",
-    "date": "2026-06-14",
-    "keyword": "vla",
-    "score": 4.3
   },
   {
     "model": "IffYuan/Embodied-R1.5",
