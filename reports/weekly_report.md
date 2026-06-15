@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-15 09:00 UTC
+Generated: 2026-06-15 15:15 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-06-15 09:00 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81801 | 32720.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 81807 | 32722.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 61371 | 24548.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44068 | 17627.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 29764 | 11905.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15912 | 6364.9 | [link](https://github.com/zauberzeug/nicegui) |
+| NaiboWang/EasySpider | 44077 | 17630.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 29768 | 11907.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15913 | 6365.3 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | IffYuan/Embodied-R1.5 | 364 | 109.3 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
 | fbarbosa1/smolvla_so101_embodied_v1 | 90 | 27.1 | [link](https://huggingface.co/fbarbosa1/smolvla_so101_embodied_v1) |
+| BrinqAI/functiongemma-270m-physical-ai | 76 | 22.9 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
 | physicalairi/pi05_ur3e_pick_red_drop_blue | 72 | 21.7 | [link](https://huggingface.co/physicalairi/pi05_ur3e_pick_red_drop_blue) |
 | physicalairi/molmoact2_ur3e_pick_red_drop_blue | 68 | 20.5 | [link](https://huggingface.co/physicalairi/molmoact2_ur3e_pick_red_drop_blue) |
-| fbarbosa1/pi05_so101_embodied_v1 | 68 | 20.5 | [link](https://huggingface.co/fbarbosa1/pi05_so101_embodied_v1) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-06-15 09:00 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-06-15 | Meet the 22 Investors to Know in Robotics and Physical AI - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTGJ2NDJMbnFkbkt3dDN0OU5heDVOemhWR3prRXlWVWRQT0hJdE1MTF9Za2lJUWVkai1fS0VHaDBGbGdxcVp5a1hiQ3hub29ra21IdkZmczhZRzNPeGxRRzRvM1BfTTZ6UXFoaGJMYVBrMmZyNk5fU3Q3U2ZIUEQwMC0ydjZqYU1LUUh6Sw?oc=5) |
 | 2026-06-15 | Bezos Bets $12 Billion That AI Can Out-Engineer the Engineers - Technology Org | physical ai startup | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxNQkQ2SDdVbnd1Z1hUVTVvcl9Xb0I3RWd0UWFkUnNvS3NZLVhrdVhXSklMNVB1dXR5VEJxY3UyWlhubFh3cnlBeGRER2hpbXUzWllpRmdERXh2Ujc4bVJ6cldzSHI1SUJWR3BMYVA4Qm5VNzdtd2N5SjQ4VzFpMm1xQ2V3TDY?oc=5) |
 | 2026-06-15 | Jeff Bezos's $12B bet to replace engineers with AI - BetaNews | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1DRjR1OXJWeUs4dnpZak5EZXM5SnVWclUtS0RhU3lsR216d2F2MUtLeUplZVZQcVhDeU00a24yQ3BWbTdrSWdwdHVaQ2UzcG5EM2ljWGZVdDBOT1BzTElnY1dEdkdNaHk4T0ZsV2p3a1pYaDY1TzZN?oc=5) |
+| 2026-06-15 | Jeff Bezos's Prometheus raises $12bn to build an 'artificial general engineer' for the physical world - The Daily Star | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN1AwaGxCVGZqVFA3WHVNVkhmcFQzRExEY1R2eXVmME9hN3ZDNkNueC1hTlBDVGcyRS16NmlnR3JFeVNISXluUWQ1aG1TcFhQbjhLdWpIeFdCNFluT2dvRE9yY2x2OVpHRHdTUTFReFJkLWZKLV84TEpGSW9iRE56Q3lramd0UXNNMi1xMkVNT3BwX0JPQ1k3dUpma1Q2NlVqOFpuQ3hxWFhfODJnNTVzWW45R3ZXaVY5YTkzSnVLTVJ0NE12ejBmWTRNMnI3NGo3X0diMUhfZU9EMHU0LTZlSw?oc=5) |
 | 2026-06-13 | NVIDIA Corporation (NVDA) Partners with Nebius to Support AI Robotics Startup in Europe - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSEhhOWF3aGxNX2dkU2VSazdCWFVGTE9faXM3Q05QY0NLcGE2NnNoTGdJbFN5cVhPVHVucnZYazN6OW8zN2o2ZkZWMFVWVVc1YmRxVmdqVlVTMDhBT0xuYm9jNU9vRno1WDNTSU5wYjEtMFdvWHYzUml6ZGVqeG8zam1rYkJqX19MNFNYeVl6Z1NJcmU0WG1Yejd0T0RWUlRTSjhoLTVnNW9jLTZr?oc=5) |
-| 2026-06-13 | AI Startup Alumni Huawei Reaches USD100 Million Valuation - VOI.id | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yczZCT2hnUm84a0lpNHFxSm1iX1Q5M3dqc19KYUlrSlRSRkw4Mk51Ulo1T3B6RXpPZjFxU3EwOGVWUdIBQkFVX3lxTE8yczZCT2hnUm84a0lpNHFxSm1iX1Q5M3dqc19KYUlrSlRSRkw4Mk51Ulo1T3B6RXpPZjFxU3EwOGVWUQ?oc=5) |
-| 2026-06-12 | Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFE2N0VGYXZhRlpTb3dheHN4ZVRVaHRPZGJZaG5kbk5URzBlM0MtLUJOWlZ5UTBWZ3ZQT2RBUVprZ1owcWNoU2NuTEZ2UHpJbnhDajZrUW1RYlAtLUtpTnZFT2Z1YWV6X2V3YUJXTXdQcWEzQUgzT1NYRDNtSTRSVDJGYkVHelhKSDZmTmZSeEFBOUljY3Y5a09UeFBBbnVYd2ZFZXFVUngzUVUtdlhYYUxScUppZnl4ZnpEa2FUMEsxTjVlMFRkRnB1MA?oc=5) |
