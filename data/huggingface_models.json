@@ -1,5 +1,14 @@
 [
   {
+    "model": "robotneu/action_reasoning_refactor_obj_2_3_hard_refactor",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotneu/action_reasoning_refactor_obj_2_3_hard_refactor",
+    "date": "2026-06-15",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "luochen17/GPT_robotic",
     "downloads": 0,
     "likes": 0,
@@ -72,6 +81,24 @@
     "score": 0.1
   },
   {
+    "model": "build-small-hackathon/fireboy-minicpm-v-4-6-vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/build-small-hackathon/fireboy-minicpm-v-4-6-vla",
+    "date": "2026-06-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sanjuhs/fireboy-minicpm-v-4-6-vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sanjuhs/fireboy-minicpm-v-4-6-vla",
+    "date": "2026-06-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "Vladmun1337/multiclip-classifier-ro",
     "downloads": 0,
     "likes": 0,
@@ -135,24 +162,6 @@
     "score": 2.5
   },
   {
-    "model": "kfallah/qwen3-9b-pi-world-model-sft-v0.1-adapter",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kfallah/qwen3-9b-pi-world-model-sft-v0.1-adapter",
-    "date": "2026-06-15",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "kfallah/qwen3-9b-pi-world-model-sft-v0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kfallah/qwen3-9b-pi-world-model-sft-v0",
-    "date": "2026-06-15",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
     "model": "BrinqAI/functiongemma-270m-physical-ai",
     "downloads": 76,
     "likes": 0,
@@ -169,6 +178,15 @@
     "date": "2026-06-15",
     "keyword": "policy",
     "score": 0.1
+  },
+  {
+    "model": "yhc2222/tsp_policy_llama8b_step_r64",
+    "downloads": 19,
+    "likes": 0,
+    "url": "https://huggingface.co/yhc2222/tsp_policy_llama8b_step_r64",
+    "date": "2026-06-15",
+    "keyword": "policy",
+    "score": 5.8
   },
   {
     "model": "Janin-M/so101_meersalz_15_policy",
@@ -261,15 +279,6 @@
     "score": 0.1
   },
   {
-    "model": "yugoogio/pi050_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/yugoogio/pi050_policy",
-    "date": "2026-06-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "hcltech-robotics/cosmos3-h-surgical-simulator-alpha",
     "downloads": 0,
     "likes": 1,
@@ -297,15 +306,6 @@
     "score": 0.1
   },
   {
-    "model": "jialei02/lawam_robotwin_sft_release",
-    "downloads": 8,
-    "likes": 0,
-    "url": "https://huggingface.co/jialei02/lawam_robotwin_sft_release",
-    "date": "2026-06-14",
-    "keyword": "robot",
-    "score": 2.5
-  },
-  {
     "model": "mim-chess-vlas/pi05-no-msk-config",
     "downloads": 0,
     "likes": 0,
@@ -322,24 +322,6 @@
     "date": "2026-06-14",
     "keyword": "vla",
     "score": 4.3
-  },
-  {
-    "model": "yuto-urushima/vla_jepa_my_task",
-    "downloads": 66,
-    "likes": 0,
-    "url": "https://huggingface.co/yuto-urushima/vla_jepa_my_task",
-    "date": "2026-06-14",
-    "keyword": "vla",
-    "score": 19.9
-  },
-  {
-    "model": "mim-chess-vlas/pi05-fp-msk-config",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/pi05-fp-msk-config",
-    "date": "2026-06-14",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "IffYuan/Embodied-R1.5",
@@ -655,6 +637,15 @@
     "date": "2026-06-05",
     "keyword": "embodied",
     "score": 0.1
+  },
+  {
+    "model": "SaFD-00/qwen3-vl-8b-ac-exp02-world-model-stage1-lora-epoch3-stage2-lora-epoch3",
+    "downloads": 14,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen3-vl-8b-ac-exp02-world-model-stage1-lora-epoch3-stage2-lora-epoch3",
+    "date": "2026-06-02",
+    "keyword": "world model",
+    "score": 4.3
   },
   {
     "model": "fbarbosa1/pi05_so101_embodied_v1",

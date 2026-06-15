@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-15 15:15 UTC
+Generated: 2026-06-15 19:35 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,8 +14,8 @@ Generated: 2026-06-15 15:15 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81807 | 32722.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61371 | 24548.5 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 81808 | 32723.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61374 | 24549.7 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44077 | 17630.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 29768 | 11907.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15913 | 6365.3 | [link](https://github.com/zauberzeug/nicegui) |
@@ -43,6 +43,6 @@ Generated: 2026-06-15 15:15 UTC
 | --- | --- | --- | --- |
 | 2026-06-15 | Meet the 22 Investors to Know in Robotics and Physical AI - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTGJ2NDJMbnFkbkt3dDN0OU5heDVOemhWR3prRXlWVWRQT0hJdE1MTF9Za2lJUWVkai1fS0VHaDBGbGdxcVp5a1hiQ3hub29ra21IdkZmczhZRzNPeGxRRzRvM1BfTTZ6UXFoaGJMYVBrMmZyNk5fU3Q3U2ZIUEQwMC0ydjZqYU1LUUh6Sw?oc=5) |
 | 2026-06-15 | Bezos Bets $12 Billion That AI Can Out-Engineer the Engineers - Technology Org | physical ai startup | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxNQkQ2SDdVbnd1Z1hUVTVvcl9Xb0I3RWd0UWFkUnNvS3NZLVhrdVhXSklMNVB1dXR5VEJxY3UyWlhubFh3cnlBeGRER2hpbXUzWllpRmdERXh2Ujc4bVJ6cldzSHI1SUJWR3BMYVA4Qm5VNzdtd2N5SjQ4VzFpMm1xQ2V3TDY?oc=5) |
+| 2026-06-15 | What Is Physical AI and How Jeff Bezos’ Startup Prometheus Aims to “Hack” the System - quasa.io | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNWJTLVBNVXNtc3dIUG5mdzJYWUZQOGdwV25hRjJGMkczdUlxQ1B3WjdPQWRVWTlXN0Y0ZkJHZmpmVjN3RzNoZGV4dXIwVWM1V0pxQVNlc1dhdzRLUVhtMUNwM2JFMS11MDg4Q0JTQ1Y5cWJjeTF4NDZvSFpKUmNhQVExdlhFOXMxbFNibkpOb2lBaHdXaGVTRHVuc2N5QS1KZGRZWFZ0SQ?oc=5) |
 | 2026-06-15 | Jeff Bezos's $12B bet to replace engineers with AI - BetaNews | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1DRjR1OXJWeUs4dnpZak5EZXM5SnVWclUtS0RhU3lsR216d2F2MUtLeUplZVZQcVhDeU00a24yQ3BWbTdrSWdwdHVaQ2UzcG5EM2ljWGZVdDBOT1BzTElnY1dEdkdNaHk4T0ZsV2p3a1pYaDY1TzZN?oc=5) |
-| 2026-06-15 | Jeff Bezos's Prometheus raises $12bn to build an 'artificial general engineer' for the physical world - The Daily Star | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN1AwaGxCVGZqVFA3WHVNVkhmcFQzRExEY1R2eXVmME9hN3ZDNkNueC1hTlBDVGcyRS16NmlnR3JFeVNISXluUWQ1aG1TcFhQbjhLdWpIeFdCNFluT2dvRE9yY2x2OVpHRHdTUTFReFJkLWZKLV84TEpGSW9iRE56Q3lramd0UXNNMi1xMkVNT3BwX0JPQ1k3dUpma1Q2NlVqOFpuQ3hxWFhfODJnNTVzWW45R3ZXaVY5YTkzSnVLTVJ0NE12ejBmWTRNMnI3NGo3X0diMUhfZU9EMHU0LTZlSw?oc=5) |
 | 2026-06-13 | NVIDIA Corporation (NVDA) Partners with Nebius to Support AI Robotics Startup in Europe - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSEhhOWF3aGxNX2dkU2VSazdCWFVGTE9faXM3Q05QY0NLcGE2NnNoTGdJbFN5cVhPVHVucnZYazN6OW8zN2o2ZkZWMFVWVVc1YmRxVmdqVlVTMDhBT0xuYm9jNU9vRno1WDNTSU5wYjEtMFdvWHYzUml6ZGVqeG8zam1rYkJqX19MNFNYeVl6Z1NJcmU0WG1Yejd0T0RWUlRTSjhoLTVnNW9jLTZr?oc=5) |
