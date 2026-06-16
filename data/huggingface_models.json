@@ -1,5 +1,23 @@
 [
   {
+    "model": "txmedai/seldinger-neurocathsim-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/txmedai/seldinger-neurocathsim-policy",
+    "date": "2026-06-16",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "L7-Robotics/pi05_conveyor_dynamic",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/L7-Robotics/pi05_conveyor_dynamic",
+    "date": "2026-06-15",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "Jiahao-Wang/lingbot-va-robotwin-2task-to-8task-full-step10000",
     "downloads": 0,
     "likes": 0,
@@ -189,10 +207,28 @@
     "score": 22.9
   },
   {
-    "model": "txmedai/seldinger-neurocathsim-policy",
+    "model": "lambdavi/my_policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/txmedai/seldinger-neurocathsim-policy",
+    "url": "https://huggingface.co/lambdavi/my_policy",
+    "date": "2026-06-15",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Leberkaesweckle/First_real_black_case8_test_Long_250_episodes_policy_ACT",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Leberkaesweckle/First_real_black_case8_test_Long_250_episodes_policy_ACT",
+    "date": "2026-06-15",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "cbrian/policy_pi05_libero_task_crosswallpickcube_dataset_SC4_ctrl_cartesian",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/cbrian/policy_pi05_libero_task_crosswallpickcube_dataset_SC4_ctrl_cartesian",
     "date": "2026-06-15",
     "keyword": "policy",
     "score": 0.1
@@ -270,33 +306,6 @@
     "score": 10.5
   },
   {
-    "model": "usvz-ccu/act_policy_so101cube",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/usvz-ccu/act_policy_so101cube",
-    "date": "2026-06-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "sooyeon1/pfsp_policy_llama8b_step_r128_ep2_1e-5",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sooyeon1/pfsp_policy_llama8b_step_r128_ep2_1e-5",
-    "date": "2026-06-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Quackhead8/fly_pickup_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Quackhead8/fly_pickup_policy",
-    "date": "2026-06-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "hcltech-robotics/cosmos3-h-surgical-simulator-alpha",
     "downloads": 0,
     "likes": 1,
@@ -304,15 +313,6 @@
     "date": "2026-06-14",
     "keyword": "robotics",
     "score": 0.3
-  },
-  {
-    "model": "Muapi/complex-robot",
-    "downloads": 4,
-    "likes": 0,
-    "url": "https://huggingface.co/Muapi/complex-robot",
-    "date": "2026-06-14",
-    "keyword": "robot",
-    "score": 1.3
   },
   {
     "model": "mim-chess-vlas/pi05-no-msk-config",
@@ -502,15 +502,6 @@
     "date": "2026-06-11",
     "keyword": "physical ai",
     "score": 4.0
-  },
-  {
-    "model": "qualia-robotics/pi05-openarm-cube-in-box-v1-38dad9c1",
-    "downloads": 34,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/pi05-openarm-cube-in-box-v1-38dad9c1",
-    "date": "2026-06-11",
-    "keyword": "robotics",
-    "score": 10.3
   },
   {
     "model": "linhrumata/world-models",

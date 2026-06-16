@@ -1,5 +1,15 @@
 [
   {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7457,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-06-16",
+    "topic": "robot-learning",
+    "score": 2982.9
+  },
+  {
     "repo": "copper-project/copper-rs",
     "stars": 1358,
     "language": "Rust",
@@ -41,13 +51,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 81808,
+    "stars": 81810,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-06-15",
     "topic": "robotics",
-    "score": 32723.3
+    "score": 32724.1
   },
   {
     "repo": "commaai/openpilot",
@@ -61,13 +71,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 29768,
+    "stars": 29769,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-06-15",
     "topic": "robotics",
-    "score": 11907.3
+    "score": 11907.7
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -81,13 +91,13 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15290,
+    "stars": 15291,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-06-15",
     "topic": "robotics",
-    "score": 6116.1
+    "score": 6116.5
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -128,16 +138,6 @@
     "date": "2026-06-15",
     "topic": "robotics",
     "score": 4380.9
-  },
-  {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7456,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-06-15",
-    "topic": "robot-learning",
-    "score": 2982.5
   },
   {
     "repo": "RLinf/RLinf",
@@ -250,6 +250,16 @@
     "score": 481.3
   },
   {
+    "repo": "simchowitzlabpublic/nano-world-model",
+    "stars": 619,
+    "language": "Python",
+    "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science.",
+    "url": "https://github.com/simchowitzlabpublic/nano-world-model",
+    "date": "2026-06-15",
+    "topic": "world-model",
+    "score": 247.7
+  },
+  {
     "repo": "OpenHUTB/hutb",
     "stars": 504,
     "language": "C++",
@@ -321,13 +331,13 @@
   },
   {
     "repo": "leofan90/Awesome-World-Models",
-    "stars": 1789,
+    "stars": 1790,
     "language": "Python",
     "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
     "url": "https://github.com/leofan90/Awesome-World-Models",
     "date": "2026-06-13",
     "topic": "world-model",
-    "score": 715.7
+    "score": 716.1
   },
   {
     "repo": "shihao1895/MemoryVLA",
@@ -371,13 +381,13 @@
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3017,
+    "stars": 3018,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-06-12",
     "topic": "embodied-ai",
-    "score": 1206.9
+    "score": 1207.3
   },
   {
     "repo": "starVLA/starVLA",
@@ -461,13 +471,13 @@
   },
   {
     "repo": "nv-tlabs/lyra",
-    "stars": 2095,
+    "stars": 2096,
     "language": "Python",
     "description": "Project Lyra: Open Generative 3D World Models",
     "url": "https://github.com/nv-tlabs/lyra",
     "date": "2026-06-11",
     "topic": "world-model",
-    "score": 838.1
+    "score": 838.5
   },
   {
     "repo": "galilai-group/stable-worldmodel",
@@ -641,13 +651,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 1250,
+    "stars": 1252,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-05",
     "topic": "robot-learning",
-    "score": 500.1
+    "score": 500.9
   },
   {
     "repo": "RobotecAI/rai",
@@ -770,16 +780,6 @@
     "score": 456.1
   },
   {
-    "repo": "simchowitzlabpublic/nano-world-model",
-    "stars": 619,
-    "language": "Python",
-    "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science.",
-    "url": "https://github.com/simchowitzlabpublic/nano-world-model",
-    "date": "2026-05-27",
-    "topic": "world-model",
-    "score": 247.7
-  },
-  {
     "repo": "NVlabs/ProtoMotions",
     "stars": 1713,
     "language": "Python",
@@ -801,13 +801,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44077,
+    "stars": 44078,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-05-22",
     "topic": "robotics",
-    "score": 17630.9
+    "score": 17631.3
   },
   {
     "repo": "HansZ8/RoboJuDo",
