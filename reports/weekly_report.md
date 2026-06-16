@@ -1,33 +1,27 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-16 06:19 UTC
+Generated: 2026-06-16 11:59 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-06-15 | T-Rex: Tactile-Reactive Dexterous Manipulation | [link](https://arxiv.org/pdf/2606.17055v1) |
-| 2026-06-15 | Human Universal Grasping | [link](https://arxiv.org/pdf/2606.17054v1) |
-| 2026-06-15 | Geometric Action Model for Robot Policy Learning | [link](https://arxiv.org/pdf/2606.17046v1) |
-| 2026-06-15 | Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes | [link](https://arxiv.org/pdf/2606.17043v1) |
-| 2026-06-15 | R2RDreamer: 3D-aware Data Augmentation for Spatially-generalized 2D Manipulation Policies | [link](https://arxiv.org/pdf/2606.17040v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81812 | 32724.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 81815 | 32726.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 61375 | 24550.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44082 | 17632.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 29770 | 11908.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15913 | 6365.3 | [link](https://github.com/zauberzeug/nicegui) |
+| NaiboWang/EasySpider | 44091 | 17636.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 29772 | 11908.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15917 | 6366.9 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| IffYuan/Embodied-R1.5 | 364 | 109.3 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
-| fbarbosa1/smolvla_so101_embodied_v1 | 90 | 27.1 | [link](https://huggingface.co/fbarbosa1/smolvla_so101_embodied_v1) |
-| BrinqAI/functiongemma-270m-physical-ai | 76 | 22.9 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
-| physicalairi/pi05_ur3e_pick_red_drop_blue | 72 | 21.7 | [link](https://huggingface.co/physicalairi/pi05_ur3e_pick_red_drop_blue) |
-| physicalairi/molmoact2_ur3e_pick_red_drop_blue | 68 | 20.5 | [link](https://huggingface.co/physicalairi/molmoact2_ur3e_pick_red_drop_blue) |
+| IffYuan/Embodied-R1.5 | 440 | 132.1 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
+| fbarbosa1/smolvla_so101_embodied_v1 | 91 | 27.4 | [link](https://huggingface.co/fbarbosa1/smolvla_so101_embodied_v1) |
+| BrinqAI/functiongemma-270m-physical-ai | 81 | 24.4 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
+| tencent/Hy-Embodied-0.5-VLA-UMI | 71 | 22.2 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
+| physicalairi/pi05_ur3e_pick_red_drop_blue | 73 | 22.0 | [link](https://huggingface.co/physicalairi/pi05_ur3e_pick_red_drop_blue) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -36,7 +30,7 @@ Generated: 2026-06-16 06:19 UTC
 | 2026-06-10 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWpObUJlemNNTkNYT010LWg1T0x1Yjh3c09WUjJSMzBSNXR6N3dKb2JEaW45OGN5b2M5VnRGOVliQjdGMnJqQU40R0JJLWpUbG5RbFpkWFNGWUFGQks3bFlmSGhKNEVFczh6a2MyUWE3dWVsNmY3NTh3QUF1RmhrU2s4Sl9FN05QbjRBSkxMTzhIa1RlZWFJZmZwcTY?oc=5) |
 | 2026-06-08 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxOak85anRnVU9GQ1R4QVVpZ1pnTHJoT2JvZDdUbFJkYl9PQTd1TkNwWWNTQ0xvY1FVSnp2X2NMemc3d2E2MGJwWEwzSXBjZmx1TklDYkxhby13WjV5SFhXZDVTSW9JYjhLVW1ka0FTS2Fmb08wR2tyT1dvRXNkSFp1LTRKZE9ocTl2MUlSRWd4Tld5Rkh0TlhVRkNxOHZ6N0plU0hMemFFYjAyei15WXdyZlZRWTk?oc=5) |
 | 2026-06-06 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hLU04d3VwTUxreHA5bVNWS3B4dmZaMzRsdUFGZEJwYTNrTXJtZl8xZ2RpZTA1MWxzYkxndWpfZEI4bk1PbXZYR3hMcXhHNUpvLVZnaUlRUGFTa3FNSXBrS0hn?oc=5) |
-| 2026-06-04 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTGJaRThJZjRPZGVNaG1oUHF0b1ZOdF9Sd3NKTFB0cGI2MUctYU11UWl4UTVMc1dNZ1RxeEUzMWJJdUU0ZXF6Ui1FTDBfUnNCcjkzQVVuTXlodGJtbzdDREp4ZUNqLV9EZWNKR2hseGMtcW11enNSRU93?oc=5) |
+| 2026-06-05 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlI3N21DSmpVdVhOSUFjcmE2ZlpkNlBTendxb0VjZ3hIMW4wUVlYZU9tdko5RFR5U3lFbkxmd256VmljWXpMc29zYzd5YXhWcU1ESEo2VXZQaFFPbHBjNEFDLTFXalRtVjdhbzUwQ1BUaW9rRlpONGRLMUpsbHY2R1ZtNFdrNnNZYTV1MlBZbG0xbmNtNW40T2xyUkpHekZOLXBYQVM1LU5hM055UVRWdzlvQQ?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
