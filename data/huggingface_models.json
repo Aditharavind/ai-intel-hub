@@ -1,5 +1,41 @@
 [
   {
+    "model": "RobotisSW/pi05_task0047_100k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/pi05_task0047_100k",
+    "date": "2026-06-17",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/pi05_task0047_80k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/pi05_task0047_80k",
+    "date": "2026-06-17",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/pi05_task0047_60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/pi05_task0047_60k",
+    "date": "2026-06-17",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "puppet-robotics/golf-model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/golf-model",
+    "date": "2026-06-17",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "ZibinDong/fastwam_robotwin_uncond_3cam_384_model_only_bf16",
     "downloads": 0,
     "likes": 0,
@@ -72,42 +108,6 @@
     "score": 0.1
   },
   {
-    "model": "RobotisAI/gr00t-evButtonPush-260615-0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisAI/gr00t-evButtonPush-260615-0",
-    "date": "2026-06-17",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "tencent/Hy-Embodied-0.5-VLA-RoboTwin",
-    "downloads": 90,
-    "likes": 3,
-    "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin",
-    "date": "2026-06-17",
-    "keyword": "embodied",
-    "score": 27.7
-  },
-  {
-    "model": "RobotisSW/pi05_task0047_40k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/pi05_task0047_40k",
-    "date": "2026-06-17",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "zolkin/robot_rl",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/zolkin/robot_rl",
-    "date": "2026-06-17",
-    "keyword": "robot",
-    "score": 0.3
-  },
-  {
     "model": "witsense-ai/so101_vla_jepa_v3",
     "downloads": 0,
     "likes": 0,
@@ -178,6 +178,15 @@
     "date": "2026-06-17",
     "keyword": "embodied",
     "score": 29.1
+  },
+  {
+    "model": "tencent/Hy-Embodied-0.5-VLA-RoboTwin",
+    "downloads": 90,
+    "likes": 3,
+    "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin",
+    "date": "2026-06-17",
+    "keyword": "embodied",
+    "score": 27.7
   },
   {
     "model": "Vladbambu/Julia",
@@ -475,15 +484,6 @@
     "date": "2026-06-12",
     "keyword": "robotics",
     "score": 11.2
-  },
-  {
-    "model": "anvil-robotics/pi05-openarm-pick-and-place-ikea-red-block",
-    "downloads": 11,
-    "likes": 0,
-    "url": "https://huggingface.co/anvil-robotics/pi05-openarm-pick-and-place-ikea-red-block",
-    "date": "2026-06-12",
-    "keyword": "robotics",
-    "score": 3.4
   },
   {
     "model": "linhrumata/world-models-decoders",
