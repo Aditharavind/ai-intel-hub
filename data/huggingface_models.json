@@ -1,11 +1,128 @@
 [
   {
+    "model": "RobotisSW/pi05_task0047_40k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/pi05_task0047_40k",
+    "date": "2026-06-17",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "RobotisAI/gr00t-evButtonPush-260615-0",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/RobotisAI/gr00t-evButtonPush-260615-0",
-    "date": "2026-06-16",
+    "date": "2026-06-17",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "junbrro/rldx1_robotonly_openarmv3_bsz64_30000_vlmfreeze_step30000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/junbrro/rldx1_robotonly_openarmv3_bsz64_30000_vlmfreeze_step30000",
+    "date": "2026-06-17",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "zolkin/robot_rl",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/zolkin/robot_rl",
+    "date": "2026-06-17",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
+    "model": "arrow-hf/smolvla-robotwin-move-pillbottle-pad-50ep",
+    "downloads": 15,
+    "likes": 0,
+    "url": "https://huggingface.co/arrow-hf/smolvla-robotwin-move-pillbottle-pad-50ep",
+    "date": "2026-06-17",
+    "keyword": "robot",
+    "score": 4.6
+  },
+  {
+    "model": "robotneu/action_reasoning_refactor_obj_2_3_hard_refactor_local_data_compute_file",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotneu/action_reasoning_refactor_obj_2_3_hard_refactor_local_data_compute_file",
+    "date": "2026-06-17",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "jclinton1/vla_jepa_gem_stack_blocks_three_20260615_114905",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jclinton1/vla_jepa_gem_stack_blocks_three_20260615_114905",
+    "date": "2026-06-17",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "TingtingDu/vla-ablation-flip_norm065",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/TingtingDu/vla-ablation-flip_norm065",
+    "date": "2026-06-17",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "TingtingDu/vla-ablation-fmdecoder",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/TingtingDu/vla-ablation-fmdecoder",
+    "date": "2026-06-17",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "ISdept/wiltechs-vla-30k-cnn-enhanced",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ISdept/wiltechs-vla-30k-cnn-enhanced",
+    "date": "2026-06-17",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "skhatuya/on_policy_llama_3_1_8b_rubric_lora_outputs_r_32_ep_50",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/skhatuya/on_policy_llama_3_1_8b_rubric_lora_outputs_r_32_ep_50",
+    "date": "2026-06-17",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jqyy/act-test-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jqyy/act-test-policy",
+    "date": "2026-06-17",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "cbrian/policy_pi05_libero_dataset_MDWC2_ctrl_cartesian",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/cbrian/policy_pi05_libero_dataset_MDWC2_ctrl_cartesian",
+    "date": "2026-06-17",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Makolon0321/polaris_pi05_steerable_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Makolon0321/polaris_pi05_steerable_policy",
+    "date": "2026-06-17",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -61,42 +178,6 @@
     "date": "2026-06-16",
     "keyword": "robot",
     "score": 2.5
-  },
-  {
-    "model": "SJTU-DENG-Lab/wla_robotwin_same_emb_videos_cotrain_image_action",
-    "downloads": 5,
-    "likes": 0,
-    "url": "https://huggingface.co/SJTU-DENG-Lab/wla_robotwin_same_emb_videos_cotrain_image_action",
-    "date": "2026-06-16",
-    "keyword": "robot",
-    "score": 1.6
-  },
-  {
-    "model": "SJTU-DENG-Lab/wla_robotwin_all_image_action",
-    "downloads": 1,
-    "likes": 0,
-    "url": "https://huggingface.co/SJTU-DENG-Lab/wla_robotwin_all_image_action",
-    "date": "2026-06-16",
-    "keyword": "robot",
-    "score": 0.4
-  },
-  {
-    "model": "KIT-RoboInfo/robot_informatics_CHENWEIWEN_3252180023",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/KIT-RoboInfo/robot_informatics_CHENWEIWEN_3252180023",
-    "date": "2026-06-16",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "puneetsiet2005/robotai-v7-grpo",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/puneetsiet2005/robotai-v7-grpo",
-    "date": "2026-06-16",
-    "keyword": "robot",
-    "score": 0.1
   },
   {
     "model": "ISdept/wiltechs-vla-26k-cnn-enhanced",
@@ -166,42 +247,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/ISdept/wiltechs-vla-84k-desc",
-    "date": "2026-06-16",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sanjuhs/fireboy-minicpm-v-4-6-vla",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sanjuhs/fireboy-minicpm-v-4-6-vla",
-    "date": "2026-06-16",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "LA1512/X-VLA-libero-all-discriminator-adapters",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/LA1512/X-VLA-libero-all-discriminator-adapters",
-    "date": "2026-06-16",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "LA1512/X-VLA-libero-discriminator-adapters",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/LA1512/X-VLA-libero-discriminator-adapters",
-    "date": "2026-06-16",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "LA1512/X-VLA-libero-spatial-peft",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/LA1512/X-VLA-libero-spatial-peft",
     "date": "2026-06-16",
     "keyword": "vla",
     "score": 0.1
@@ -279,51 +324,6 @@
     "score": 0.1
   },
   {
-    "model": "balveersingh/act_policy_so101_teleop_vials",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/balveersingh/act_policy_so101_teleop_vials",
-    "date": "2026-06-16",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "debatanjac/supervised_cclr_g100K_policy_fixedlr_12resnets",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/debatanjac/supervised_cclr_g100K_policy_fixedlr_12resnets",
-    "date": "2026-06-16",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "txmedai/seldinger-neurocathsim-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/txmedai/seldinger-neurocathsim-policy",
-    "date": "2026-06-16",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "cbrian/policy_pi05_libero_dataset_MDWC4_ctrl_cartesian",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/cbrian/policy_pi05_libero_dataset_MDWC4_ctrl_cartesian",
-    "date": "2026-06-16",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "L7-Robotics/pi05_conveyor_dynamic",
-    "downloads": 1,
-    "likes": 0,
-    "url": "https://huggingface.co/L7-Robotics/pi05_conveyor_dynamic",
-    "date": "2026-06-15",
-    "keyword": "robotics",
-    "score": 0.4
-  },
-  {
     "model": "tencent/Hy-Embodied-0.5-VLA-RoboTwin",
     "downloads": 65,
     "likes": 3,
@@ -349,6 +349,15 @@
     "date": "2026-06-15",
     "keyword": "physical ai",
     "score": 24.4
+  },
+  {
+    "model": "L7-Robotics/pi05_conveyor_dynamic",
+    "downloads": 1,
+    "likes": 0,
+    "url": "https://huggingface.co/L7-Robotics/pi05_conveyor_dynamic",
+    "date": "2026-06-15",
+    "keyword": "robotics",
+    "score": 0.4
   },
   {
     "model": "Muapi/high-tech-robotics",
