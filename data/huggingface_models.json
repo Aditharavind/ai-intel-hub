@@ -1,5 +1,14 @@
 [
   {
+    "model": "RobotisAI/gr00t-evButtonPush-260615-0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisAI/gr00t-evButtonPush-260615-0",
+    "date": "2026-06-16",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "Oliver-Ma/real-robot-l1-cube-to-pot-adapter",
     "downloads": 0,
     "likes": 0,
@@ -90,6 +99,24 @@
     "score": 0.1
   },
   {
+    "model": "ISdept/wiltechs-vla-26k-cnn-enhanced",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ISdept/wiltechs-vla-26k-cnn-enhanced",
+    "date": "2026-06-16",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "ISdept/wiltechs-vla-24k-cnn-enhanced",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ISdept/wiltechs-vla-24k-cnn-enhanced",
+    "date": "2026-06-16",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "Vladbambu/Julia",
     "downloads": 0,
     "likes": 0,
@@ -175,24 +202,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/LA1512/X-VLA-libero-spatial-peft",
-    "date": "2026-06-16",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "LA1512/X-VLA-libero-goal-peft",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/LA1512/X-VLA-libero-goal-peft",
-    "date": "2026-06-16",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "LA1512/X-VLA-libero-long-peft",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/LA1512/X-VLA-libero-long-peft",
     "date": "2026-06-16",
     "keyword": "vla",
     "score": 0.1
@@ -315,15 +324,6 @@
     "score": 0.4
   },
   {
-    "model": "Jiahao-Wang/lingbot-va-robotwin-2task-to-8task-full-step10000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Jiahao-Wang/lingbot-va-robotwin-2task-to-8task-full-step10000",
-    "date": "2026-06-15",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "tencent/Hy-Embodied-0.5-VLA-RoboTwin",
     "downloads": 65,
     "likes": 3,
@@ -407,11 +407,11 @@
   {
     "model": "hcltech-robotics/cosmos3-h-surgical-simulator-alpha",
     "downloads": 2,
-    "likes": 1,
+    "likes": 2,
     "url": "https://huggingface.co/hcltech-robotics/cosmos3-h-surgical-simulator-alpha",
     "date": "2026-06-14",
     "keyword": "robotics",
-    "score": 0.9
+    "score": 1.1
   },
   {
     "model": "EmbodiedCity/Worldscape-MoE",
