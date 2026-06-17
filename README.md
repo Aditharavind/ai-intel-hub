@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-17 17:42 UTC
+Last Updated: 2026-06-17 19:53 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,15 +8,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-06-17 | A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry | OpenAI | [link](https://openai.com/index/ai-chemist-improves-reaction) |
+| 2026-06-17 | MolmoMotion: Language-guided 3D motion forecasting | Hugging Face | [link](https://huggingface.co/blog/allenai/molmomotion) |
+| 2026-06-17 | From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot | Hugging Face | [link](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware) |
+| 2026-06-17 | GLM-5.2: Built for Long-Horizon Tasks | Hugging Face | [link](https://huggingface.co/blog/zai-org/glm-52-blog) |
+| 2026-06-17 | Agentic Resource Discovery: Let agents search | Hugging Face | [link](https://huggingface.co/blog/agentic-resource-discovery-launch) |
 | 2026-06-16 | Predicting model behavior before release by simulating deployment | OpenAI | [link](https://openai.com/index/deployment-simulation) |
 | 2026-06-14 | Introducing the OpenAI Partner Network | OpenAI | [link](https://openai.com/index/introducing-openai-partner-network) |
 | 2026-06-12 | New OpenAI Academy courses for the next era of work | OpenAI | [link](https://openai.com/index/academy-courses-applying-ai-at-work) |
 | 2026-06-12 | How Preply combines AI and human tutors to personalize learning | OpenAI | [link](https://openai.com/index/preply) |
 | 2026-06-11 | OpenAI to acquire Ona | OpenAI | [link](https://openai.com/index/openai-to-acquire-ona) |
-| 2026-06-11 | BBVA puts AI at the core of banking with OpenAI | OpenAI | [link](https://openai.com/index/bbva) |
-| 2026-06-11 | How an astrophysicist uses Codex to help simulate black holes | OpenAI | [link](https://openai.com/index/using-codex-to-simulate-black-holes) |
-| 2026-06-11 | Supporting Europe’s work in ensuring a trustworthy AI ecosystem | OpenAI | [link](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem) |
-| 2026-06-10 | Access OpenAI models and Codex through your Oracle cloud commitment | OpenAI | [link](https://openai.com/index/openai-on-oracle-cloud) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -59,7 +59,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-16 | WEQA: Wearable hEalth Question Answering with Query-Adaptive Agentic Reasoning | [link](https://arxiv.org/pdf/2606.18147v1) |
 
 ## New Hugging Face Models
-_No items collected yet._
+| Date | Model | Downloads | Likes | URL |
+| --- | --- | --- | --- | --- |
+| 2026-06-17 | ZibinDong/fastwam_robotwin_uncond_3cam_384_model_only_bf16 | 0 | 0 | [link](https://huggingface.co/ZibinDong/fastwam_robotwin_uncond_3cam_384_model_only_bf16) |
+| 2026-06-17 | KIT-RoboInfo/RUKUMAN-robotic-class-3242290101 | 22 | 0 | [link](https://huggingface.co/KIT-RoboInfo/RUKUMAN-robotic-class-3242290101) |
+| 2026-06-17 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
+| 2026-06-17 | LuEduSoHu/robot_learning_tutorial_diffusion_0617_0248 | 0 | 0 | [link](https://huggingface.co/LuEduSoHu/robot_learning_tutorial_diffusion_0617_0248) |
+| 2026-06-17 | qualia-robotics/openarm-rl-best-policy | 0 | 0 | [link](https://huggingface.co/qualia-robotics/openarm-rl-best-policy) |
+| 2026-06-17 | x-square-robot/wall-oss-0.5 | 143 | 6 | [link](https://huggingface.co/x-square-robot/wall-oss-0.5) |
+| 2026-06-17 | RobotisAI/gr00t-evButtonPush-260617-1 | 0 | 0 | [link](https://huggingface.co/RobotisAI/gr00t-evButtonPush-260617-1) |
+| 2026-06-17 | RobotisAI/gr00t-evButtonPush-260617-0 | 0 | 0 | [link](https://huggingface.co/RobotisAI/gr00t-evButtonPush-260617-0) |
+| 2026-06-17 | RobotisAI/gr00t-evButtonPush-260615-0 | 0 | 0 | [link](https://huggingface.co/RobotisAI/gr00t-evButtonPush-260615-0) |
+| 2026-06-17 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 90 | 3 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -71,8 +82,8 @@ _No items collected yet._
 | alireza787b/mavsdk_drone_show | 297 | Python | 118.9 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | ros-claw/rosclaw | 133 | Python | 53.3 | [link](https://github.com/ros-claw/rosclaw) |
 | Developer-Y/cs-video-courses | 81837 |  | 32734.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61399 | Python | 24559.7 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15305 | C++ | 6122.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 61400 | Python | 24560.1 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15306 | C++ | 6122.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 13901 | C++ | 5560.5 | [link](https://github.com/google-deepmind/mujoco) |
 
 ## Startup Funding
@@ -106,6 +117,8 @@ _No items collected yet._
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-17 | Robotics Software Engineer II | Agility Robotics | Hybrid- Pittsburgh, PA or Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6008698004) |
+| 2026-06-17 | Staff NPI Manufacturing Engineer | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6033730004) |
 | 2026-06-16 | Accounts Payable Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4688193006) |
 | 2026-06-16 | Deployment Engineer - Commercial Site Team | Figure AI | Reno, NV | [link](https://job-boards.greenhouse.io/figureai/jobs/4674403006) |
 | 2026-06-16 | Field Service Technician - Commercial Site Team | Figure AI | Reno, NV | [link](https://job-boards.greenhouse.io/figureai/jobs/4681835006) |
@@ -114,8 +127,6 @@ _No items collected yet._
 | 2026-06-16 | Mechanical Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5986750004) |
 | 2026-06-15 | Power Electronics Engineer, Charging | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4333397006) |
 | 2026-06-15 | Staff PLM Architect  | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6016569004) |
-| 2026-06-15 | UX/UI Designer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6017816004) |
-| 2026-06-12 | Mechanical Engineer, Battery | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4656559006) |
 
 ## Automation
 
