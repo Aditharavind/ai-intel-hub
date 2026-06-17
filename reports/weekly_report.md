@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-17 14:21 UTC
+Generated: 2026-06-17 17:42 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,14 @@ Generated: 2026-06-17 14:21 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81835 | 32734.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61393 | 24557.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44106 | 17642.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 29786 | 11914.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 81837 | 32734.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61399 | 24559.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44107 | 17642.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 29785 | 11914.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15924 | 6369.7 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
-| Model | Downloads | Score | URL |
-| --- | --- | --- | --- |
-| IffYuan/Embodied-R1.5 | 462 | 138.7 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
-| x-square-robot/wall-oss-0.5 | 143 | 44.2 | [link](https://huggingface.co/x-square-robot/wall-oss-0.5) |
-| parth-1/metaguard-policy-agent-v1 | 129 | 38.8 | [link](https://huggingface.co/parth-1/metaguard-policy-agent-v1) |
-| BrinqAI/functiongemma-270m-physical-ai | 105 | 31.6 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
-| tencent/Hy-Embodied-0.5-VLA-UMI | 94 | 29.1 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
+_No items collected yet._
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
