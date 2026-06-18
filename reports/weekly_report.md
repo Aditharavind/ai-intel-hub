@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-18 11:41 UTC
+Generated: 2026-06-18 14:37 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,10 +14,10 @@ Generated: 2026-06-18 11:41 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81843 | 32737.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61419 | 24567.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44113 | 17645.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 29794 | 11917.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 81844 | 32737.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61427 | 24570.9 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44112 | 17644.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 29797 | 11918.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15926 | 6370.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
@@ -33,16 +33,16 @@ Generated: 2026-06-18 11:41 UTC
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
 | 2026-06-17 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTNocmJZR0hhYS1YMHdrZVB4SEluYjR6TW1QM1FkTDNYbmFyQ0dwZ1RBN3FoazRxdm84RVhjejdtS3FIREVWS2ZidHZYTktwOEpNOGhhOUxqZ0dZQWlRazhUaEhNZnZZVldILXBFOFlwUHBOVFUwblhnWWZZaGVVWTBoU2JVelluY0J2TWJsNA?oc=5) |
+| 2026-06-16 | Skild AI |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tYllveVV4SW03M0J5bVp5akswd1VfR2tyOGNhbUgxbU54LS1NT2Q1am5kRVVzcHJpSzd3QlMzblZVWmVFcVJyWk41ODU1ZEVoSXdoYWIydXVoS3RqaWRwRTJCZndRNnM?oc=5) |
 | 2026-06-15 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxNNXdiOEEyM3BaRVNvYzd0RTB5SWtDMGVvNm05ZXNKa1RFYjFXZkhobE5sR2Z5c3M4b3NoSHVBU1dod3B2bUR0OHc1V3NyX2J4bEdaTGxfQ09nNzB6Q2x5R2VqOHdLa1JhRXNyVUw4aFZVWmJULXBaR0NENWkzZG5ZbtIBlAFBVV95cUxPamlESzQ5UERkOVE1SlBhU29DNUo4Y21oYUlZbmhHNG53TklZWWJiMkVvQi1Fb2paWDVqUThUcDVHYW5lZi11bGcwX3p6SlczR1plamhJU21nT0FEYW9LRjhaREtqbWk2dlNUWGNUalN5Uzd6QXpxSVdVdnRCS2dEUDZXMGxiN0puVk9COTZiY09oTHo0?oc=5) |
 | 2026-06-10 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiN3N1UVVaWFRFcjBodGtYV0xBQXM1bzRGT0tLeV9YcXk0RC1MakJadi1xbnJKNWRNZUw3NHYyclpnc0daMGVsR1pwaHNjQWEzdFQxUzRjYw?oc=5) |
 | 2026-06-07 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxQR0M5VTZITkxKVFJsYjdhU0JiLWROVWNRSkZJaWFKMlU4b3dTZHZZTlFLaTlPUk1jdVVHcHRWbGE3aXFPWVR4RFFkLUxpc1VFbWpTUjVwMjRMSVAtQWpzMUhVS0xPSTlmeUFEc0ZtQ2pKZ0VBWlN5WDVnNDNRakc5dDQxejRSYUZJZmdzanY2a2NSTFBsQlBpTHJSRXhnZw?oc=5) |
-| 2026-06-06 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hLU04d3VwTUxreHA5bVNWS3B4dmZaMzRsdUFGZEJwYTNrTXJtZl8xZ2RpZTA1MWxzYkxndWpfZEI4bk1PbXZYR3hMcXhHNUpvLVZnaUlRUGFTa3FNSXBrS0hn?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-06-17 | Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it. - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDZGRzM0c0Q5WTg4MEIwREtvVTZCZzh0YTQ4SmpmZmE2V2pUZHVSQlEzVHNHQnRuSjNmU19TNU9ZYWxoVy13THRFeHN0OWRsVGM5ZUFDMk9feUVHel82MWtRdldBdFdmTm9lMjBiSDlldEVRT1ItalJRYVI0Vk9JamxxSWZaeUZfbEhrMTFLc1JWUUdyQkZZTUpnc3dWdU9seHpVQzc3RTFGSlBBSnRybVpzbldESGJsclJCckh1OFJlZDRQb181Rm9XdnJuTHcwWUY0?oc=5) |
 | 2026-06-17 | Amazon backs AI startup developing models to simulate the physical world - Crypto Briefing | physical ai startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZWhhdjVzODRNdjJwUTZFUTJPckNPRXBSdVo2LWs1TXh6WjU0Z3UwaXNOanRjTEl1dUJOUUFmX1pTd05JT0REV1NXVS1PZkYzMlZXYkZ2bjRObURUbnVXMEhuTi1wSXdhQ21UeQ?oc=5) |
+| 2026-06-17 | Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it. - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDZGRzM0c0Q5WTg4MEIwREtvVTZCZzh0YTQ4SmpmZmE2V2pUZHVSQlEzVHNHQnRuSjNmU19TNU9ZYWxoVy13THRFeHN0OWRsVGM5ZUFDMk9feUVHel82MWtRdldBdFdmTm9lMjBiSDlldEVRT1ItalJRYVI0Vk9JamxxSWZaeUZfbEhrMTFLc1JWUUdyQkZZTUpnc3dWdU9seHpVQzc3RTFGSlBBSnRybVpzbldESGJsclJCckh1OFJlZDRQb181Rm9XdnJuTHcwWUY0?oc=5) |
 | 2026-06-17 | The AI startups building beyond chatbots are choosing Amazon’s custom chips. Here's why. - About Amazon | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWHJIMkh5anltV1hIcVlqaU5NSlFaa0VZOUhjd2REN2NQUExac2Vmd3I1THBTamZ2WDFKX2xCVGtoeEdaSkZKR0xUVkZ6elpxY3FUX0JVWHhLT005QnBLZlAxRkVaZy02Wlp1NUp1NGlVLXlvZldJQWZnREY3QlVtUnF4ZV9OV1g3?oc=5) |
 | 2026-06-17 | Seeds | Embodied AI Robotics Startup Astrall Dynamics Gains Investment from SAIC and Others - Gasgoo | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX0lxY2dxZUFRV1JXcXZiTlhQSll2dUJQNjdIMkpUSlNKUEJCUHdtbGotNGJoQzJ2dlVvT3ppOHpwLUxvV1gtVkhoUHl0MGJOeGZyblQ3MlczM2Qtd0RybWNyTERzR1FTV3d4SFBHS3BlQXZ1eFhHVFNBWHplcE04SjRjSjdJblpueXhzaENidzVzVU5pS1VYdTQxNkFkVDV0TkZrRTFsWWNrVGlNTnV2Mk9heG5PYjc0bmdaYV96Q0FsYjJ0RTdfcXdBdmRTd3JIVlBOMnBhR25KbFV3WS1VOVRyeno?oc=5) |
 | 2026-06-17 | The next humanoid robot might not look human at all - The Verge | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQajB6WloxbzRYS0cxNjFBSE5VZlozemdEMkdvVjlaNjhyampxdURVZWhDMmlIVzFnQ253TWxpdXNCZ1R1cEMwVE10dUtzR0ZmVTFJOXhtN3JzWXo0Z2lIb09VZXUtb2hNMUtYS1hpbDY4dTNrd19yQ2doZzNXUFYzejM1YTJuTkdBQ2IzT3paNFZUQQ?oc=5) |
