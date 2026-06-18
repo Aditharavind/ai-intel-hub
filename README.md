@@ -1,22 +1,22 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-18 17:51 UTC
+Last Updated: 2026-06-18 20:03 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-18 | New usage analytics and updated spend controls for enterprises | OpenAI | [link](https://openai.com/index/chatgpt-enterprise-spend-controls) |
+| 2026-06-18 | Improving health intelligence in ChatGPT | OpenAI | [link](https://openai.com/index/improving-health-intelligence-in-chatgpt) |
 | 2026-06-18 | Using AI to help physicians diagnose rare genetic diseases affecting children | OpenAI | [link](https://openai.com/index/diagnose-rare-childhood-diseases) |
+| 2026-06-18 | MosaicLeaks: Can your research agent keep a secret? | Hugging Face | [link](https://huggingface.co/blog/ServiceNow/mosaicleaks) |
 | 2026-06-18 | Beyond LoRA: Can you beat the most popular fine-tuning technique? | Hugging Face | [link](https://huggingface.co/blog/peft-beyond-lora) |
 | 2026-06-18 | Is it agentic enough? Benchmarking open models on your own tooling | Hugging Face | [link](https://huggingface.co/blog/is-it-agentic-enough) |
 | 2026-06-17 | A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry | OpenAI | [link](https://openai.com/index/ai-chemist-improves-reaction) |
 | 2026-06-17 | Introducing LifeSciBench | OpenAI | [link](https://openai.com/index/introducing-life-sci-bench) |
 | 2026-06-17 | MolmoMotion: Language-guided 3D motion forecasting | Hugging Face | [link](https://huggingface.co/blog/allenai/molmomotion) |
 | 2026-06-17 | From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot | Hugging Face | [link](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware) |
-| 2026-06-17 | GLM-5.2: Built for Long-Horizon Tasks | Hugging Face | [link](https://huggingface.co/blog/zai-org/glm-52-blog) |
-| 2026-06-17 | Agentic Resource Discovery: Let agents search | Hugging Face | [link](https://huggingface.co/blog/agentic-resource-discovery-launch) |
-| 2026-06-16 | Predicting model behavior before release by simulating deployment | OpenAI | [link](https://openai.com/index/deployment-simulation) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -61,6 +61,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-18 | YinonDouchan/smolvla_mobile_robot_lift_v1 | 10 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_v1) |
 | 2026-06-18 | mario-d-robot/Qwen-Image-Edit-2511-Multiple-Angles-LoRA | 0 | 0 | [link](https://huggingface.co/mario-d-robot/Qwen-Image-Edit-2511-Multiple-Angles-LoRA) |
 | 2026-06-18 | mario-d-robot/Qwen-Edit-2509-Light-Migration | 0 | 0 | [link](https://huggingface.co/mario-d-robot/Qwen-Edit-2509-Light-Migration) |
 | 2026-06-18 | mario-d-robot/Qwen-Image-Edit-2511-Upscale2K | 0 | 0 | [link](https://huggingface.co/mario-d-robot/Qwen-Image-Edit-2511-Upscale2K) |
@@ -70,7 +71,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-18 | mario-d-robot/Qwen-Image-Edit-2511-Anime | 0 | 0 | [link](https://huggingface.co/mario-d-robot/Qwen-Image-Edit-2511-Anime) |
 | 2026-06-18 | mario-d-robot/Anything2Real | 0 | 0 | [link](https://huggingface.co/mario-d-robot/Anything2Real) |
 | 2026-06-18 | mario-d-robot/vllm-flash-attn3 | 0 | 0 | [link](https://huggingface.co/mario-d-robot/vllm-flash-attn3) |
-| 2026-06-18 | mario-d-robot/clip-ViT-B-32 | 0 | 0 | [link](https://huggingface.co/mario-d-robot/clip-ViT-B-32) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -78,27 +78,27 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1363 | Rust | 545.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 883 | Python | 353.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 444 | Shell | 177.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| Developer-Y/cs-video-courses | 81845 |  | 32738.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61431 | Python | 24572.5 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15314 | C++ | 6125.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 13911 | C++ | 5564.5 | [link](https://github.com/google-deepmind/mujoco) |
+| ros-claw/rosclaw | 137 | Python | 54.9 | [link](https://github.com/ros-claw/rosclaw) |
+| Developer-Y/cs-video-courses | 81847 |  | 32738.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61432 | Python | 24572.9 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15316 | C++ | 6126.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 13913 | C++ | 5565.3 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 10962 | Rust | 4384.9 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7476 | Python | 2990.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 3834 | Python | 1533.7 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-06-17 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTNocmJZR0hhYS1YMHdrZVB4SEluYjR6TW1QM1FkTDNYbmFyQ0dwZ1RBN3FoazRxdm84RVhjejdtS3FIREVWS2ZidHZYTktwOEpNOGhhOUxqZ0dZQWlRazhUaEhNZnZZVldILXBFOFlwUHBOVFUwblhnWWZZaGVVWTBoU2JVelluY0J2TWJsNA?oc=5) |
 | 2026-06-16 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tYllveVV4SW03M0J5bVp5akswd1VfR2tyOGNhbUgxbU54LS1NT2Q1am5kRVVzcHJpSzd3QlMzblZVWmVFcVJyWk41ODU1ZEVoSXdoYWIydXVoS3RqaWRwRTJCZndRNnM?oc=5) |
-| 2026-06-15 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxNNXdiOEEyM3BaRVNvYzd0RTB5SWtDMGVvNm05ZXNKa1RFYjFXZkhobE5sR2Z5c3M4b3NoSHVBU1dod3B2bUR0OHc1V3NyX2J4bEdaTGxfQ09nNzB6Q2x5R2VqOHdLa1JhRXNyVUw4aFZVWmJULXBaR0NENWkzZG5ZbtIBlAFBVV95cUxPamlESzQ5UERkOVE1SlBhU29DNUo4Y21oYUlZbmhHNG53TklZWWJiMkVvQi1Fb2paWDVqUThUcDVHYW5lZi11bGcwX3p6SlczR1plamhJU21nT0FEYW9LRjhaREtqbWk2dlNUWGNUalN5Uzd6QXpxSVdVdnRCS2dEUDZXMGxiN0puVk9COTZiY09oTHo0?oc=5) |
 | 2026-06-10 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiN3N1UVVaWFRFcjBodGtYV0xBQXM1bzRGT0tLeV9YcXk0RC1MakJadi1xbnJKNWRNZUw3NHYyclpnc0daMGVsR1pwaHNjQWEzdFQxUzRjYw?oc=5) |
 | 2026-06-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hLU04d3VwTUxreHA5bVNWS3B4dmZaMzRsdUFGZEJwYTNrTXJtZl8xZ2RpZTA1MWxzYkxndWpfZEI4bk1PbXZYR3hMcXhHNUpvLVZnaUlRUGFTa3FNSXBrS0hn?oc=5) |
 | 2026-06-04 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUktbnBaOVZBZTJOSU1GVkU4Zl9aQU96RE9FSHY3MGpfQ2xFem5aQmNSeXVpZ0FscmdVWHREei1rNUYtQnV1aUxJRFBzSGZ1MDEzMExnNkdaODZwbkJIVU5xaHZpYkx3N0lYVzhtcGRhdk1rZEM2NGlXQXVBb1Nlb05rckVUN0lUSlBPdlZLallSQUtqZi1SYVdHLWo5VTNDS1FEMEVtdHlBM0YxV19FZGhWYw?oc=5) |
 | 2026-06-04 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTGJaRThJZjRPZGVNaG1oUHF0b1ZOdF9Sd3NKTFB0cGI2MUctYU11UWl4UTVMc1dNZ1RxeEUzMWJJdUU0ZXF6Ui1FTDBfUnNCcjkzQVVuTXlodGJtbzdDREp4ZUNqLV9EZWNKR2hseGMtcW11enNSRU93?oc=5) |
+| 2026-06-04 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWUUwVE5OblREN2VYZUkzTGZBM1c1MGtCdVNUaHhoOWI1V0RKc001aEN2LVZZdVBaaGNTTTVGemxLU2o3UHlNR0tCZ3p6My1iSWQ0WlljVzU1N1JFN1lpNlZWMkZVOGhZN3RVcHRENG5DeXRNMFZjem1Bc093Q2tfSks5eVJuVjNhaDE1UDZiNGdWd05yTDU0TjJhZElJMVpxY1VLZmVWUWJRTFJf?oc=5) |
 | 2026-06-03 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidEFVX3lxTFBRS01xOHlzSUFmNGZVNDFOUFFUdUxJV3dOcTZIREZ0YnpaNlNBMnN5bFM1azJhS3hwa0x6X29RaUhqY0YyUEQxLVMwUjJrSzNSTE5PVmNMZU1YaF95dGRpTVMzclZCSHc5Z1FNTHNkT0E2WGJB?oc=5) |
+| 2026-06-02 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1hIR01SazNlYUFGV0xZaVpMZ3cxLXFWOFpMNUhBbWN3V2NVOFp2WGIyMGtqTzFqeVZkbGFINndKLU1HSDIwampSYVpQNFg5YmNNdjgyblBUZmd5TGdTb3U0U3hsNWhFRkZMYzZiTkJraUdRa1E0U3VjTUhrWDNlWtIBlAFBVV95cUxPWFRLd2hkNDhvT1ZlMFhtWl9ZSDNpM3R2WTcwalpPYndKM3JjOEwxVzdIcHktR3BpcDRkVVpCVWU3UnNkUTY4aTJ5Y0s1d1NNclpKSXVPa2I4SmI0M1JQOWw2QVJnSURCa3dfQi01YWluRU1PX2hvTFFQbVkwZ2pWU0dENUVBVWY5ZDFCUTB5TjdtWEgw?oc=5) |
 | 2026-06-02 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxQRlJiQzNlQ1RpUUxnendveE1rc21Ua3I1ZTh0OXdOZlRWRE92d2VVV2s0THQ4TGNhQzBWTU9lZllEeDRLOXZ5MVQ2ZUFxR0xkeE9fRDZGcmZ0MXloSVJBSTVrdmRQX0FKNjFQLW5PRTM4cktmU2JXelRvN0dBbVQ2M3kwekNrcTV6Q3YyaE15U3BZQ1FndWowRTFLVU9YRVpjUXg4WmVMOE9nNEYtX2JvbnUybXNrMWN3SWZaOVgxV1oxSTR1RkF2ZzdVLVR2M1E?oc=5) |
-| 2026-06-02 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmbmFhSERZcDA2NVNQcFBfUG9JODNGSDcwS2haQ0hDckdSNDc1Y1pvS2ZndmJfRHQ2MGVmSVpQNmFkdnN6UzRQalhsMVZZQ0JQWThn?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -118,6 +118,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-06-18 | Gear Machinist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4690458006) |
+| 2026-06-18 | Change and Configuration Control Manager | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5997213004) |
+| 2026-06-18 | Senior Product Marketing Manager | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6014580004) |
 | 2026-06-17 | Robotics Software Engineer II | Agility Robotics | Hybrid- Pittsburgh, PA or Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6008698004) |
 | 2026-06-17 | Senior Manufacturing Test Engineer | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5980081004) |
 | 2026-06-17 | Staff NPI Manufacturing Engineer | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6033730004) |
@@ -125,8 +127,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-16 | Deployment Engineer - Commercial Site Team | Figure AI | Reno, NV | [link](https://job-boards.greenhouse.io/figureai/jobs/4674403006) |
 | 2026-06-16 | Field Service Technician - Commercial Site Team | Figure AI | Reno, NV | [link](https://job-boards.greenhouse.io/figureai/jobs/4681835006) |
 | 2026-06-16 | Site Lead - Commercial Site Team | Figure AI | Reno, NV | [link](https://job-boards.greenhouse.io/figureai/jobs/4681836006) |
-| 2026-06-16 | Buyer II | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6034760004) |
-| 2026-06-16 | Mechanical Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5986750004) |
 
 ## Automation
 
