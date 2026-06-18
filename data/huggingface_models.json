@@ -1,5 +1,68 @@
 [
   {
+    "model": "KIT-RoboInfo/rukuman-robotic-class-3242290101-seq2seq",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/KIT-RoboInfo/rukuman-robotic-class-3242290101-seq2seq",
+    "date": "2026-06-18",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "robotneu/spatial_reasoning_refactor_obj_2_3_hard_refactor",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotneu/spatial_reasoning_refactor_obj_2_3_hard_refactor",
+    "date": "2026-06-18",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "KIT-RoboInfo/RUKUMAN-robotic-class-3242290101-kanjou",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/KIT-RoboInfo/RUKUMAN-robotic-class-3242290101-kanjou",
+    "date": "2026-06-18",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "KIT-RoboInfo/GeorgeSteinz-robotic-class-3242290082-20260618004837",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/KIT-RoboInfo/GeorgeSteinz-robotic-class-3242290082-20260618004837",
+    "date": "2026-06-18",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "EmotionSprout/embodied-cognition",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/EmotionSprout/embodied-cognition",
+    "date": "2026-06-18",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "yhc2222/tsp_policy_llama8b_step_r64",
+    "downloads": 50,
+    "likes": 0,
+    "url": "https://huggingface.co/yhc2222/tsp_policy_llama8b_step_r64",
+    "date": "2026-06-18",
+    "keyword": "policy",
+    "score": 15.1
+  },
+  {
+    "model": "RobotisAI/gr00t-evButtonPush-260617-2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisAI/gr00t-evButtonPush-260617-2",
+    "date": "2026-06-17",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "RobotisSW/pi05_task0047_100k",
     "downloads": 0,
     "likes": 0,
@@ -63,48 +126,12 @@
     "score": 0.1
   },
   {
-    "model": "LuEduSoHu/robot_learning_tutorial_diffusion_0617_0248",
+    "model": "ISdept/wiltechs-vla-50k-cnn-enhanced",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/LuEduSoHu/robot_learning_tutorial_diffusion_0617_0248",
+    "url": "https://huggingface.co/ISdept/wiltechs-vla-50k-cnn-enhanced",
     "date": "2026-06-17",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "qualia-robotics/openarm-rl-best-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/openarm-rl-best-policy",
-    "date": "2026-06-17",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "x-square-robot/wall-oss-0.5",
-    "downloads": 143,
-    "likes": 6,
-    "url": "https://huggingface.co/x-square-robot/wall-oss-0.5",
-    "date": "2026-06-17",
-    "keyword": "robot",
-    "score": 44.2
-  },
-  {
-    "model": "RobotisAI/gr00t-evButtonPush-260617-1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisAI/gr00t-evButtonPush-260617-1",
-    "date": "2026-06-17",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisAI/gr00t-evButtonPush-260617-0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisAI/gr00t-evButtonPush-260617-0",
-    "date": "2026-06-17",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -207,15 +234,6 @@
     "score": 0.1
   },
   {
-    "model": "TingtingDu/vla-ablation-flip_norm065",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/TingtingDu/vla-ablation-flip_norm065",
-    "date": "2026-06-17",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "balveersingh/act_policy_so101_teleop_vials",
     "downloads": 31,
     "likes": 0,
@@ -240,6 +258,15 @@
     "url": "https://huggingface.co/jogarulfop/policy_2026-06-17_shakeitup_aluboxvf_0_100kHz_nfft_4096",
     "date": "2026-06-17",
     "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "qualia-robotics/openarm-rl-best-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/qualia-robotics/openarm-rl-best-policy",
+    "date": "2026-06-17",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -304,15 +331,6 @@
     "date": "2026-06-17",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "MNUWL/act_policy_paperella",
-    "downloads": 31,
-    "likes": 0,
-    "url": "https://huggingface.co/MNUWL/act_policy_paperella",
-    "date": "2026-06-16",
-    "keyword": "policy",
-    "score": 9.4
   },
   {
     "model": "qualia-robotics/act-mini-chair-base-remove-be137b42",
@@ -556,15 +574,6 @@
     "date": "2026-06-09",
     "keyword": "embodied",
     "score": 4.0
-  },
-  {
-    "model": "EmotionSprout/embodied-cognition",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/EmotionSprout/embodied-cognition",
-    "date": "2026-06-09",
-    "keyword": "embodied",
-    "score": 0.1
   },
   {
     "model": "LordUky/world_model_vlm_quest_ckpts",
