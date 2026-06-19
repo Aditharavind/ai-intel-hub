@@ -14,6 +14,7 @@ def _dataset() -> dict[str, object]:
         "aiNews": read_json(DATA_DIR / "ai_news.json"),
         "physicalAiNews": read_json(DATA_DIR / "physical_ai_news.json"),
         "roboticsNews": read_json(DATA_DIR / "robotics_news.json"),
+        "embeddedNews": read_json(DATA_DIR / "embedded_news.json"),
         "papers": read_json(DATA_DIR / "papers.json"),
         "repos": read_json(DATA_DIR / "github_repos.json"),
         "models": read_json(DATA_DIR / "huggingface_models.json"),
@@ -54,7 +55,7 @@ def generate_dashboard() -> None:
     --sh-lg:0 16px 60px rgba(0,0,0,.6),0 4px 12px rgba(0,0,0,.4);
     --r:14px; --rsm:9px; --rxs:7px;
     --c-all:#818cf8; --c-aiNews:#38bdf8; --c-physicalAiNews:#a78bfa;
-    --c-roboticsNews:#fbbf24; --c-papers:#34d399; --c-repos:#60a5fa;
+    --c-roboticsNews:#fbbf24; --c-embeddedNews:#22d3ee; --c-papers:#34d399; --c-repos:#60a5fa;
     --c-models:#fb923c; --c-funding:#a3e635; --c-companies:#f472b6; --c-jobs:#2dd4bf;
     --c-vla:#818cf8; --c-wam:#a78bfa; --c-robotPolicy:#2dd4bf;
     --c-rlPolicy:#fbbf24; --c-simulation:#60a5fa;
@@ -70,7 +71,7 @@ def generate_dashboard() -> None:
     --acc:#6366f1; --acc2:#4f46e5; --acc3:#7c3aed;
     --apale:rgba(99,102,241,.08); --apale2:rgba(99,102,241,.16);
     --c-all:#6366f1; --c-aiNews:#0284c7; --c-physicalAiNews:#7c3aed;
-    --c-roboticsNews:#d97706; --c-papers:#059669; --c-repos:#2563eb;
+    --c-roboticsNews:#d97706; --c-embeddedNews:#0891b2; --c-papers:#059669; --c-repos:#2563eb;
     --c-models:#ea580c; --c-funding:#65a30d; --c-companies:#db2777; --c-jobs:#0d9488;
     --c-vla:#6366f1; --c-wam:#7c3aed; --c-robotPolicy:#0d9488;
     --c-rlPolicy:#d97706; --c-simulation:#2563eb;
@@ -197,6 +198,18 @@ def generate_dashboard() -> None:
     display:flex; flex-direction:column; gap:3px;
   }}
   .sb-foot strong {{ color:var(--t3); font-weight:600; }}
+  .sb-about {{
+    margin-top:12px; padding-top:10px; border-top:1px solid var(--gb);
+    display:flex; flex-direction:column; gap:2px;
+  }}
+  .sb-about-lbl {{
+    font-size:9px; font-weight:700; letter-spacing:.12em; text-transform:uppercase;
+    color:var(--sb-muted); margin-bottom:2px;
+  }}
+  .sb-about-by {{ font-size:11px; color:var(--sb-text); }}
+  .sb-about-by strong {{ color:var(--acc); font-weight:700; }}
+  .sb-about-mail {{ font-size:10.5px; color:var(--sb-muted); text-decoration:none; word-break:break-all; }}
+  .sb-about-mail:hover {{ color:var(--acc); text-decoration:underline; }}
   .refresh-bar {{
     margin-top:8px; height:2px; border-radius:1px;
     background:rgba(255,255,255,.06); overflow:hidden;
@@ -383,7 +396,7 @@ def generate_dashboard() -> None:
   }}
   .feed.grid-v .fi-stripe {{ display:none; }}
   .feed.grid-v .fi-body {{ display:flex; flex-direction:column; height:100%; }}
-  .feed.grid-v .fi-hdr {{ margin-bottom:10px; }}
+  .feed.grid-v .fi-hdr {{ margin-bottom:10px; display:flex; align-items:flex-start; justify-content:space-between; gap:8px; }}
 
   /* ═══════════════ FEED — LIST ═══════════════ */
   .feed.list-v .fi {{
@@ -415,6 +428,13 @@ def generate_dashboard() -> None:
     letter-spacing:.02em;
     box-shadow:0 2px 8px rgba(0,0,0,.3);
   }}
+  .star-btn {{
+    flex-shrink:0; background:none; border:none; cursor:pointer;
+    font-size:17px; line-height:1; padding:2px 3px; border-radius:6px;
+    color:var(--t3); transition:transform .12s, color .12s; margin-top:-2px;
+  }}
+  .star-btn:hover {{ color:#fbbf24; transform:scale(1.18); }}
+  .star-btn.on {{ color:#fbbf24; }}
   .i-title {{
     font-size:14.5px; font-weight:700; line-height:1.42;
     color:var(--text); display:block; transition:color .13s;
@@ -816,6 +836,11 @@ def generate_dashboard() -> None:
       <strong>⏱ {updated}</strong>
       <span id="nextUpd">Next refresh: calculating…</span>
       <div class="refresh-bar"><div class="refresh-prog" id="refProg" style="width:100%"></div></div>
+      <div class="sb-about">
+        <span class="sb-about-lbl">About</span>
+        <span class="sb-about-by">Made by <strong>Adith</strong></span>
+        <a class="sb-about-mail" href="mailto:aditharavind03@gmail.com">aditharavind03@gmail.com</a>
+      </div>
     </div>
   </aside>
 
@@ -887,17 +912,17 @@ const data = {data};
 
 /* ── constants ── */
 const SRC_COLOR = {{
-  all:'#818cf8',aiNews:'#38bdf8',physicalAiNews:'#a78bfa',
-  roboticsNews:'#fbbf24',papers:'#34d399',repos:'#60a5fa',
+  all:'#818cf8',starred:'#fbbf24',aiNews:'#38bdf8',physicalAiNews:'#a78bfa',
+  roboticsNews:'#fbbf24',embeddedNews:'#22d3ee',papers:'#34d399',repos:'#60a5fa',
   models:'#fb923c',funding:'#a3e635',companies:'#f472b6',jobs:'#2dd4bf',
 }};
 const SRC_ICON = {{
-  all:'⚡',aiNews:'📰',physicalAiNews:'🦾',roboticsNews:'🤖',
+  all:'⚡',starred:'⭐',aiNews:'📰',physicalAiNews:'🦾',roboticsNews:'🤖',embeddedNews:'🔌',
   papers:'📄',repos:'💻',models:'🧠',funding:'💰',companies:'🏢',jobs:'💼',
 }};
 const SRC_LABEL = {{
-  all:'All Intelligence',aiNews:'AI News',physicalAiNews:'Physical AI',
-  roboticsNews:'Robotics',papers:'Research Papers',repos:'GitHub Repos',
+  all:'All Intelligence',starred:'⭐ Starred',aiNews:'AI News',physicalAiNews:'Physical AI',
+  roboticsNews:'Robotics',embeddedNews:'Embedded & Chips',papers:'Research Papers',repos:'GitHub Repos',
   models:'HF Models',funding:'Funding',companies:'Companies',jobs:'Jobs',
 }};
 const TOPICS = {{
@@ -920,6 +945,16 @@ const scoreOf = x => Number(x.score||x.stars||x.downloads||0);
 const isSeed  = x => {{ const u=x.url||x.pdf_url||''; return u.includes('example.com')||(x.title||'').toLowerCase().startsWith('example'); }};
 const fmt = n => n>=1e6?(n/1e6).toFixed(1)+'M':n>=1000?(n/1000).toFixed(1)+'K':String(n);
 const truncWords=(t,n=100)=>{{if(!t)return'';const w=t.trim().split(/\s+/);return w.length<=n?t:w.slice(0,n).join(' ')+'…';}};
+
+/* ── stars (persist across data refreshes via localStorage, keyed by URL) ── */
+const keyOf = x => x.url||x.pdf_url||titleOf(x);
+let STARS = new Set(JSON.parse(localStorage.getItem('hub-stars')||'[]'));
+const isStarred = x => STARS.has(keyOf(x));
+function toggleStar(k) {{
+  if (STARS.has(k)) STARS.delete(k); else STARS.add(k);
+  localStorage.setItem('hub-stars', JSON.stringify([...STARS]));
+}}
+function starredRows() {{ return allRows().filter(isStarred); }}
 
 
 function hrefOf(x) {{
@@ -949,6 +984,7 @@ function allRows() {{
   return Object.entries(data).flatMap(([k,rows])=>rows.filter(x=>!isSeed(x)).map(x=>( {{...x,_k:k}} )));
 }}
 function rowsFor(ds) {{
+  if (ds==='starred') return starredRows();
   if (TOPICS[ds]) {{
     const t=TOPICS[ds];
     return (data.papers||[]).filter(x=>{{
@@ -980,7 +1016,7 @@ function renderNav() {{
       <span class="nav-cnt">${{n}}</span>
     </button>`;
   document.getElementById('navMain').innerHTML =
-    [['all',allRows().length],...Object.entries(data).map(([k,r])=>[k,r.length])]
+    [['all',allRows().length],['starred',starredRows().length],...Object.entries(data).map(([k,r])=>[k,r.length])]
       .map(([k,n])=>mk(k,SRC_LABEL[k]||k,SRC_ICON[k]||'•',n)).join('');
   document.getElementById('navTopics').innerHTML =
     Object.entries(TOPICS).map(([k,t])=>mk(k,t.label,t.icon,rowsFor(k).length)).join('');
@@ -1067,6 +1103,8 @@ function itemHtml(x) {{
   }}
 
   const scLbl=x._k==='repos'?'⭐ stars':x._k==='models'?'⬇️ dl':'score';
+  const sk=keyOf(x), starred=STARS.has(sk);
+  const starBtn=`<button class="star-btn${{starred?' on':''}}" data-star="${{esc(sk)}}" title="${{starred?'Remove from Starred':'Save to Starred'}}" aria-label="Star item">${{starred?'★':'☆'}}</button>`;
   const tags=`<div class="i-tags">
     ${{d?`<span class="tag t-d">📅 ${{esc(d)}}</span>`:''}}
     ${{s?`<span class="tag t-s">${{esc(s)}}</span>`:''}}
@@ -1078,6 +1116,7 @@ function itemHtml(x) {{
       <div class="fi-body">
         <div class="fi-hdr">
           <span class="i-cat" style="background:${{color}}">${{ico}} ${{esc(lbl)}}</span>
+          ${{starBtn}}
         </div>
         <a class="i-title" href="${{esc(u)}}" target="_blank" rel="noreferrer">${{esc(t)}}</a>
         ${{auHtml}}
@@ -1098,7 +1137,10 @@ function itemHtml(x) {{
             <span class="i-cat" style="background:${{color}};margin-bottom:5px">${{ico}} ${{esc(lbl)}}</span>
             <a class="i-title" href="${{esc(u)}}" target="_blank" rel="noreferrer">${{esc(t)}}</a>
           </div>
-          ${{sc?`<div class="i-score"><span class="sc-val">${{fmt(sc)}}</span><span class="sc-lbl">${{scLbl}}</span></div>`:''}}
+          <div style="display:flex;align-items:flex-start;gap:6px;flex-shrink:0">
+            ${{sc?`<div class="i-score"><span class="sc-val">${{fmt(sc)}}</span><span class="sc-lbl">${{scLbl}}</span></div>`:''}}
+            ${{starBtn}}
+          </div>
         </div>
         ${{auHtml}}
         ${{sum?`<div class="i-sum">${{esc(sum)}}</div>`:''}}
@@ -1181,6 +1223,13 @@ document.getElementById('dateRange').addEventListener('change',e=>{{ state.dr=e.
 document.getElementById('pageSize').addEventListener('change',e=>{{ state.size=Number(e.target.value); state.page=1; render(); }});
 document.getElementById('vGrid').addEventListener('click',()=>{{ state.view='grid'; state.page=1; syncVT(); render(); }});
 document.getElementById('vList').addEventListener('click',()=>{{ state.view='list'; state.page=1; syncVT(); render(); }});
+document.getElementById('feed').addEventListener('click',e=>{{
+  const b=e.target.closest('.star-btn');
+  if(!b) return;
+  e.preventDefault(); e.stopPropagation();
+  toggleStar(b.dataset.star);
+  render();
+}});
 function syncVT() {{
   document.getElementById('vGrid').classList.toggle('on',state.view==='grid');
   document.getElementById('vList').classList.toggle('on',state.view==='list');
@@ -1320,7 +1369,7 @@ function mktScore(k) {{
   const kws=MKTS[k].kw;
   const has=txt=>kws.some(w=>txt.includes(w));
   const papers   =(data.papers||[]).filter(x=>!isSeed(x)&&has((x.title+' '+(x.summary||'')).toLowerCase())).length;
-  const news     =[...(data.aiNews||[]),...(data.physicalAiNews||[]),...(data.roboticsNews||[])].filter(x=>!isSeed(x)&&has(JSON.stringify(x).toLowerCase())).length;
+  const news     =[...(data.aiNews||[]),...(data.physicalAiNews||[]),...(data.roboticsNews||[]),...(data.embeddedNews||[])].filter(x=>!isSeed(x)&&has(JSON.stringify(x).toLowerCase())).length;
   const funding  =(data.funding||[]).filter(x=>!isSeed(x)&&has(JSON.stringify(x).toLowerCase())).length;
   const jobs     =(data.jobs||[]).filter(x=>!isSeed(x)&&has(JSON.stringify(x).toLowerCase())).length;
   const repos    =(data.repos||[]).filter(x=>!isSeed(x)&&has(JSON.stringify(x).toLowerCase())).length;
