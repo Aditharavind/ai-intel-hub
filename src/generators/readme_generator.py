@@ -45,6 +45,8 @@ def generate_readme() -> None:
         _table(_load("physical_ai_news.json"), [("Date", "date"), ("Title", "title"), ("Source", "source"), ("URL", "url")]),
         "## Robotics News",
         _table(_load("robotics_news.json"), [("Date", "date"), ("Title", "title"), ("Source", "source"), ("URL", "url")]),
+        "## Embedded & Chips News",
+        _table(_load("embedded_news.json"), [("Date", "date"), ("Title", "title"), ("Source", "source"), ("URL", "url")]),
         "## New Research Papers",
         _table(_load("papers.json"), [("Published", "published"), ("Title", "title"), ("PDF", "pdf_url")]),
         "## New Hugging Face Models",
