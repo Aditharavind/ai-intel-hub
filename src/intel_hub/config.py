@@ -35,6 +35,15 @@ ROBOTICS_NEWS_FEEDS = {
     "NVIDIA Robotics": "https://blogs.nvidia.com/blog/category/robotics/feed/",
 }
 
+EMBEDDED_NEWS_FEEDS = {
+    "Hackaday": "https://hackaday.com/feed/",
+    "CNX Software": "https://www.cnx-software.com/feed/",
+    "Embedded.com": "https://www.embedded.com/feed/",
+    "Electronics Weekly": "https://www.electronicsweekly.com/feed/",
+    "Adafruit": "https://blog.adafruit.com/feed/",
+    "EE Journal": "https://www.eejournal.com/feed/",
+}
+
 PHYSICAL_AI_COMPANIES = [
     "Physical Intelligence",
     "Figure AI",
