@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-19 20:58 UTC
+Last Updated: 2026-06-19 22:01 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -92,13 +92,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | mosaico-labs/mosaico | 883 | Python | 353.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | RobotecAI/rai | 529 | Python | 211.7 | [link](https://github.com/RobotecAI/rai) |
 | awslabs/awsome-distributed-ai | 444 | Shell | 177.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| alireza787b/mavsdk_drone_show | 298 | Python | 119.3 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | arpitg1304/forge | 141 | Python | 56.5 | [link](https://github.com/arpitg1304/forge) |
-| commaai/openpilot | 61450 | Python | 24580.1 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15323 | C++ | 6129.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 61451 | Python | 24580.5 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15324 | C++ | 6129.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 13921 | C++ | 5568.5 | [link](https://github.com/google-deepmind/mujoco) |
 | DLR-RM/stable-baselines3 | 13457 | Python | 5382.9 | [link](https://github.com/DLR-RM/stable-baselines3) |
-| rerun-io/rerun | 10967 | Rust | 4386.9 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7486 | Python | 2994.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| kornia/kornia | 11239 | Python | 4495.7 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
