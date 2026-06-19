@@ -1,5 +1,14 @@
 [
   {
+    "model": "L7-Robotics/smolvla_so101_world_traj_ahead_pretrain_past",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_ahead_pretrain_past",
+    "date": "2026-06-19",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "leehe228/dynin-robotics-libero-all-60k",
     "downloads": 0,
     "likes": 0,
@@ -88,6 +97,15 @@
     "date": "2026-06-19",
     "keyword": "robot",
     "score": 0.1
+  },
+  {
+    "model": "anikitakis/vla_so101_pick_n_place_full_expert",
+    "downloads": 568,
+    "likes": 0,
+    "url": "https://huggingface.co/anikitakis/vla_so101_pick_n_place_full_expert",
+    "date": "2026-06-19",
+    "keyword": "vla",
+    "score": 170.5
   },
   {
     "model": "noah3756/ta_vla_force_frozen_vlm",
@@ -223,24 +241,6 @@
     "date": "2026-06-18",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "YinonDouchan/smolvla_mobile_robot_lift_v1",
-    "downloads": 41,
-    "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_v1",
-    "date": "2026-06-18",
-    "keyword": "robot",
-    "score": 12.4
-  },
-  {
-    "model": "anikitakis/vla_so101_pick_n_place_full_expert",
-    "downloads": 568,
-    "likes": 0,
-    "url": "https://huggingface.co/anikitakis/vla_so101_pick_n_place_full_expert",
-    "date": "2026-06-18",
-    "keyword": "vla",
-    "score": 170.5
   },
   {
     "model": "Vladbambu/Julia",
@@ -538,15 +538,6 @@
     "date": "2026-06-12",
     "keyword": "physical ai",
     "score": 4.0
-  },
-  {
-    "model": "qualia-robotics/pi05-openarm-cube-distractor-lang-v3-rel-e8568764",
-    "downloads": 35,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/pi05-openarm-cube-distractor-lang-v3-rel-e8568764",
-    "date": "2026-06-12",
-    "keyword": "robotics",
-    "score": 10.6
   },
   {
     "model": "linhrumata/world-models-decoders",

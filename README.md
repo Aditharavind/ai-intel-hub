@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-19 22:01 UTC
+Last Updated: 2026-06-19 23:56 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -47,13 +47,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-19 | Epson HX-20 Gets A Drive Upgrade | Hackaday | [link](https://hackaday.com/2026/06/19/epson-hx-20-gets-a-drive-upgrade/) |
 | 2026-06-19 | PCBs Straight from the Magazine | Hackaday | [link](https://hackaday.com/2026/06/19/pcbs-straight-from-the-magazine/) |
 | 2026-06-19 | Making An Ultra Minimal Cyberdeck | Hackaday | [link](https://hackaday.com/2026/06/19/making-an-ultra-minimal-cyberdeck/) |
 | 2026-06-19 | Hackaday Podcast Episode 374: Flippin’ Phones, Sexy Spraysers, and Frikkin’ Lasers | Hackaday | [link](https://hackaday.com/2026/06/19/hackaday-podcast-episode-374-flippin-phones-sexy-spraysers-and-frikkin-lasers/) |
 | 2026-06-19 | Creating Beautiful Light Shows With Soap | Hackaday | [link](https://hackaday.com/2026/06/19/creating-beautiful-light-shows-with-soap/) |
 | 2026-06-19 | This Week in Security: Arch AUR, Steam Marketplace, WordPress All Face Issues, Taco-Themed Coding, and Mythos Makes National News | Hackaday | [link](https://hackaday.com/2026/06/19/this-week-in-security-arch-aur-steam-marketplace-wordpress-all-face-issues-taco-themed-coding-and-mythos-makes-national-news/) |
 | 2026-06-19 | Come With Me if You Want to Weed: Autonomous Weedinator Robot back for 2026 | Hackaday | [link](https://hackaday.com/2026/06/19/come-with-me-if-you-want-to-weed-autonomous-weedinator-robot-back-for-2026/) |
-| 2026-06-19 | Running Modern Linux on a 68008 | Hackaday | [link](https://hackaday.com/2026/06/19/running-modern-linux-on-a-68008/) |
 | 2026-06-19 | Rotary Mouse puts a rotary wheel into a standard desktop mouse (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/06/19/rotary-mouse-puts-a-rotary-wheel-into-a-standard-desktop-mouse/) |
 | 2026-06-19 | Matter 1.6 specification adds NFC-based commissioning, thermostat suggestions, various core enhancements | CNX Software | [link](https://www.cnx-software.com/2026/06/19/matter-1-6-specification-adds-nfc-based-commissioning-thermostat-suggestions-various-core-enhancements/) |
 | 2026-06-19 | Qualcomm promises a major reset with upstream-first, Qualcomm Linux 2.0 for Dragonwing IoT platforms | CNX Software | [link](https://www.cnx-software.com/2026/06/19/qualcomm-promises-a-major-reset-with-upstream-first-qualcomm-linux-2-0-for-dragonwing-iot-platforms/) |
@@ -75,6 +75,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-19 | L7-Robotics/smolvla_so101_world_traj_ahead_pretrain_past | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_ahead_pretrain_past) |
 | 2026-06-19 | leehe228/dynin-robotics-libero-all-60k | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-all-60k) |
 | 2026-06-19 | OpenRAL/rskill-smolvla-robotwin | 0 | 0 | [link](https://huggingface.co/OpenRAL/rskill-smolvla-robotwin) |
 | 2026-06-19 | qualia-robotics/act-pusht-book-v2-0509a6f0 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/act-pusht-book-v2-0509a6f0) |
@@ -84,32 +85,31 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-19 | junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0_vid1 | 0 | 0 | [link](https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0_vid1) |
 | 2026-06-19 | junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.5_vid1 | 0 | 0 | [link](https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.5_vid1) |
 | 2026-06-19 | junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.8_vid1 | 0 | 0 | [link](https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.8_vid1) |
-| 2026-06-19 | junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.3_vid1 | 0 | 0 | [link](https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.3_vid1) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| Edgenesis/shifu | 1420 | Go | 568.1 | [link](https://github.com/Edgenesis/shifu) |
 | mosaico-labs/mosaico | 883 | Python | 353.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | RobotecAI/rai | 529 | Python | 211.7 | [link](https://github.com/RobotecAI/rai) |
-| awslabs/awsome-distributed-ai | 444 | Shell | 177.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| awslabs/awsome-distributed-ai | 445 | Shell | 178.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 298 | Python | 119.3 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | arpitg1304/forge | 141 | Python | 56.5 | [link](https://github.com/arpitg1304/forge) |
-| commaai/openpilot | 61451 | Python | 24580.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 61452 | Python | 24580.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15324 | C++ | 6129.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 13921 | C++ | 5568.5 | [link](https://github.com/google-deepmind/mujoco) |
 | DLR-RM/stable-baselines3 | 13457 | Python | 5382.9 | [link](https://github.com/DLR-RM/stable-baselines3) |
-| kornia/kornia | 11239 | Python | 4495.7 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2pwV01RYWVyaWtwQll2S1dnaDBMZFpiTDNvcExwSXFRTGk3VFpfV3lSWG1BU3pFYkFFQS13MU00TXA4QmN3NUdXLS1FX3hRS0d6c0Q3bnFKT2VNZXNfSnFLcS1sZlJOdUt1LTdRaHBXc216cVgyOEREYy1uVUdocA?oc=5) |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3aGtIckFCdktWR3hnZDAybV9YZXlKbVdIMmxvSDhBRW9MS01QWExMNWR2Qk1lc0VfcFNjSWtJeldycmx0b25zcERKcDNoOFBTai10U0tnTdIBV0FVX3lxTFB3aGtIckFCdktWR3hnZDAybV9YZXlKbVdIMmxvSDhBRW9MS01QWExMNWR2Qk1lc0VfcFNjSWtJeldycmx0b25zcERKcDNoOFBTai10U0tnTQ?oc=5) |
-| 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmEtTVhCcXBoTkY0NkFqdXJDYXh1UkFvLWxWM19YR0VnVUdJdjlhYkRRd0lnekhjRnFDaUU4UG01UTI1RXk2dm5tWHZ5UVBodmJJSW01R2hKb2Vsbl94Y0hQTUJYYXBpamlROGNlMnRQVGVNZ1Nwcm5tOHRwN1NxUGRlVjZuQk0zUmdRZGp2Mkx5QnFLT1BMSmFJOVEzV2M?oc=5) |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWFSVTF3OEdYcUhhZ1NlX3lfZ2M1UkZkNGd3ZVltUU0zaGVEekZFV1BQN2w4LWJaRF9tWmVNdHd4VjZUMEhZSWliMlp2cTVxWDNUQmlrT2NuYVliNkxmS1ptWWJwcDFJZmxTam1va3NZQWg3eFJYNFFnQkhwcm52SHpZVjBocU1uOElBS0hSTW9TNjNjTTA3OG5rVElsWURBWWc?oc=5) |
+| 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmEtTVhCcXBoTkY0NkFqdXJDYXh1UkFvLWxWM19YR0VnVUdJdjlhYkRRd0lnekhjRnFDaUU4UG01UTI1RXk2dm5tWHZ5UVBodmJJSW01R2hKb2Vsbl94Y0hQTUJYYXBpamlROGNlMnRQVGVNZ1Nwcm5tOHRwN1NxUGRlVjZuQk0zUmdRZGp2Mkx5QnFLT1BMSmFJOVEzV2M?oc=5) |
+| 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE9BZGI1SURVOVpxR1B2a3NhemNLN0x0Wjktc2tEN3ozV0IydERuSWNkS1NtQlhqQlJobUp2dXdrYVg2OC10TnNGOXNBYVB2QlhRSlBUT3ptanhpNzZxVFYwUzhVWnVJUUtYRXRWdE5OWEg?oc=5) |
 | 2026-06-17 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTNocmJZR0hhYS1YMHdrZVB4SEluYjR6TW1QM1FkTDNYbmFyQ0dwZ1RBN3FoazRxdm84RVhjejdtS3FIREVWS2ZidHZYTktwOEpNOGhhOUxqZ0dZQWlRazhUaEhNZnZZVldILXBFOFlwUHBOVFUwblhnWWZZaGVVWTBoU2JVelluY0J2TWJsNA?oc=5) |
 | 2026-06-16 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tYllveVV4SW03M0J5bVp5akswd1VfR2tyOGNhbUgxbU54LS1NT2Q1am5kRVVzcHJpSzd3QlMzblZVWmVFcVJyWk41ODU1ZEVoSXdoYWIydXVoS3RqaWRwRTJCZndRNnM?oc=5) |
-| 2026-06-15 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxNNXdiOEEyM3BaRVNvYzd0RTB5SWtDMGVvNm05ZXNKa1RFYjFXZkhobE5sR2Z5c3M4b3NoSHVBU1dod3B2bUR0OHc1V3NyX2J4bEdaTGxfQ09nNzB6Q2x5R2VqOHdLa1JhRXNyVUw4aFZVWmJULXBaR0NENWkzZG5ZbtIBlAFBVV95cUxPamlESzQ5UERkOVE1SlBhU29DNUo4Y21oYUlZbmhHNG53TklZWWJiMkVvQi1Fb2paWDVqUThUcDVHYW5lZi11bGcwX3p6SlczR1plamhJU21nT0FEYW9LRjhaREtqbWk2dlNUWGNUalN5Uzd6QXpxSVdVdnRCS2dEUDZXMGxiN0puVk9COTZiY09oTHo0?oc=5) |
 | 2026-06-10 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiN3N1UVVaWFRFcjBodGtYV0xBQXM1bzRGT0tLeV9YcXk0RC1MakJadi1xbnJKNWRNZUw3NHYyclpnc0daMGVsR1pwaHNjQWEzdFQxUzRjYw?oc=5) |
 | 2026-06-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hLU04d3VwTUxreHA5bVNWS3B4dmZaMzRsdUFGZEJwYTNrTXJtZl8xZ2RpZTA1MWxzYkxndWpfZEI4bk1PbXZYR3hMcXhHNUpvLVZnaUlRUGFTa3FNSXBrS0hn?oc=5) |
 | 2026-06-05 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlI3N21DSmpVdVhOSUFjcmE2ZlpkNlBTendxb0VjZ3hIMW4wUVlYZU9tdko5RFR5U3lFbkxmd256VmljWXpMc29zYzd5YXhWcU1ESEo2VXZQaFFPbHBjNEFDLTFXalRtVjdhbzUwQ1BUaW9rRlpONGRLMUpsbHY2R1ZtNFdrNnNZYTV1MlBZbG0xbmNtNW40T2xyUkpHekZOLXBYQVM1LU5hM055UVRWdzlvQQ?oc=5) |
