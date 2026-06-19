@@ -29,6 +29,7 @@ def collect() -> list[dict[str, str]]:
                     "company": "",
                     "category": query.replace('"', ""),
                     "date": item["date"],
+                    "url": f"https://www.google.com/search?q={quote_plus(item['title'])}",
                     "source": item["url"],
                     "title": item["title"],
                     "summary": item["summary"],
