@@ -23,6 +23,7 @@ def collect() -> list[dict[str, object]]:
                     "amount": "",
                     "investors": [],
                     "date": item["date"],
+                    "url": f"https://www.google.com/search?q={quote_plus(item['title'])}",
                     "source": item["url"],
                     "title": item["title"],
                 }
