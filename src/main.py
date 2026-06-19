@@ -5,7 +5,7 @@ from __future__ import annotations
 import logging
 from collections.abc import Callable
 
-from collectors import ai_news, arxiv, companies, funding, github_trending, huggingface_models, jobs, robotics_news
+from collectors import ai_news, arxiv, companies, embedded_news, funding, github_trending, huggingface_models, jobs, robotics_news
 from generators.dashboard_generator import generate_dashboard
 from generators.readme_generator import generate_readme, generate_weekly_report
 
@@ -29,6 +29,7 @@ def main() -> None:
         ("ai_news", ai_news.collect),
         ("robotics_news", robotics_news.collect_robotics_news),
         ("physical_ai_news", robotics_news.collect_physical_ai_news),
+        ("embedded_news", embedded_news.collect),
         ("papers", arxiv.collect),
         ("github_repos", github_trending.collect),
         ("huggingface_models", huggingface_models.collect),
@@ -41,7 +42,7 @@ def main() -> None:
     generate_readme()
     generate_weekly_report()
     generate_dashboard()
-    logger.info("Generated README.md, reports/weekly_report.md, and dashboard.html")
+    logger.info("Generated README.md, reports/weekly_report.md, and index.html")
 
 
 if __name__ == "__main__":
