@@ -1115,7 +1115,7 @@ function itemHtml(x) {{
   </div>`;
 
   if (state.view==='grid') {{
-    return `<article class="fi" style="--ic:${{color}}">
+    return `<article class="fi" style="--ic:${{color}}"${{u!=='#'?` data-href="${{esc(u)}}"`:''}}>
       <div class="fi-body">
         <div class="fi-hdr">
           <span class="i-cat" style="background:${{color}}">${{ico}} ${{esc(lbl)}}</span>
@@ -1131,7 +1131,7 @@ function itemHtml(x) {{
   }}
 
   /* list */
-  return `<article class="fi" style="--ic:${{color}}">
+  return `<article class="fi" style="--ic:${{color}}"${{u!=='#'?` data-href="${{esc(u)}}"`:''}}>
     <div class="fi-wrap">
       <div class="fi-stripe" style="background:${{color}};box-shadow:0 0 8px ${{color}}"></div>
       <div class="fi-body">
@@ -1228,10 +1228,15 @@ document.getElementById('vGrid').addEventListener('click',()=>{{ state.view='gri
 document.getElementById('vList').addEventListener('click',()=>{{ state.view='list'; state.page=1; syncVT(); render(); }});
 document.getElementById('feed').addEventListener('click',e=>{{
   const b=e.target.closest('.star-btn');
-  if(!b) return;
-  e.preventDefault(); e.stopPropagation();
-  toggleStar(b.dataset.star);
-  render();
+  if(b){{
+    e.preventDefault(); e.stopPropagation();
+    toggleStar(b.dataset.star);
+    render();
+    return;
+  }}
+  if(e.target.closest('a')) return;          // let real links open normally
+  const card=e.target.closest('.fi[data-href]');
+  if(card) window.open(card.dataset.href,'_blank','noreferrer');
 }});
 function syncVT() {{
   document.getElementById('vGrid').classList.toggle('on',state.view==='grid');
