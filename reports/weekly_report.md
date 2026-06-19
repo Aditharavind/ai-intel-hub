@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-19 11:10 UTC
+Generated: 2026-06-19 14:34 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,10 +15,10 @@ Generated: 2026-06-19 11:10 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 81854 | 32741.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61443 | 24577.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44119 | 17647.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 29802 | 11920.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15931 | 6372.5 | [link](https://github.com/zauberzeug/nicegui) |
+| commaai/openpilot | 61446 | 24578.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44121 | 17648.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 29809 | 11923.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15933 | 6373.3 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -32,11 +32,11 @@ Generated: 2026-06-19 11:10 UTC
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-06-19 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2pwV01RYWVyaWtwQll2S1dnaDBMZFpiTDNvcExwSXFRTGk3VFpfV3lSWG1BU3pFYkFFQS13MU00TXA4QmN3NUdXLS1FX3hRS0d6c0Q3bnFKT2VNZXNfSnFLcS1sZlJOdUt1LTdRaHBXc216cVgyOEREYy1uVUdocA?oc=5) |
+| 2026-06-19 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3aGtIckFCdktWR3hnZDAybV9YZXlKbVdIMmxvSDhBRW9MS01QWExMNWR2Qk1lc0VfcFNjSWtJeldycmx0b25zcERKcDNoOFBTai10U0tnTdIBV0FVX3lxTFB3aGtIckFCdktWR3hnZDAybV9YZXlKbVdIMmxvSDhBRW9MS01QWExMNWR2Qk1lc0VfcFNjSWtJeldycmx0b25zcERKcDNoOFBTai10U0tnTQ?oc=5) |
 | 2026-06-19 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmEtTVhCcXBoTkY0NkFqdXJDYXh1UkFvLWxWM19YR0VnVUdJdjlhYkRRd0lnekhjRnFDaUU4UG01UTI1RXk2dm5tWHZ5UVBodmJJSW01R2hKb2Vsbl94Y0hQTUJYYXBpamlROGNlMnRQVGVNZ1Nwcm5tOHRwN1NxUGRlVjZuQk0zUmdRZGp2Mkx5QnFLT1BMSmFJOVEzV2M?oc=5) |
 | 2026-06-19 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWFSVTF3OEdYcUhhZ1NlX3lfZ2M1UkZkNGd3ZVltUU0zaGVEekZFV1BQN2w4LWJaRF9tWmVNdHd4VjZUMEhZSWliMlp2cTVxWDNUQmlrT2NuYVliNkxmS1ptWWJwcDFJZmxTam1va3NZQWg3eFJYNFFnQkhwcm52SHpZVjBocU1uOElBS0hSTW9TNjNjTTA3OG5rVElsWURBWWc?oc=5) |
 | 2026-06-17 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTNocmJZR0hhYS1YMHdrZVB4SEluYjR6TW1QM1FkTDNYbmFyQ0dwZ1RBN3FoazRxdm84RVhjejdtS3FIREVWS2ZidHZYTktwOEpNOGhhOUxqZ0dZQWlRazhUaEhNZnZZVldILXBFOFlwUHBOVFUwblhnWWZZaGVVWTBoU2JVelluY0J2TWJsNA?oc=5) |
-| 2026-06-16 | Skild AI |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tYllveVV4SW03M0J5bVp5akswd1VfR2tyOGNhbUgxbU54LS1NT2Q1am5kRVVzcHJpSzd3QlMzblZVWmVFcVJyWk41ODU1ZEVoSXdoYWIydXVoS3RqaWRwRTJCZndRNnM?oc=5) |
-| 2026-06-15 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxNNXdiOEEyM3BaRVNvYzd0RTB5SWtDMGVvNm05ZXNKa1RFYjFXZkhobE5sR2Z5c3M4b3NoSHVBU1dod3B2bUR0OHc1V3NyX2J4bEdaTGxfQ09nNzB6Q2x5R2VqOHdLa1JhRXNyVUw4aFZVWmJULXBaR0NENWkzZG5ZbtIBlAFBVV95cUxPamlESzQ5UERkOVE1SlBhU29DNUo4Y21oYUlZbmhHNG53TklZWWJiMkVvQi1Fb2paWDVqUThUcDVHYW5lZi11bGcwX3p6SlczR1plamhJU21nT0FEYW9LRjhaREtqbWk2dlNUWGNUalN5Uzd6QXpxSVdVdnRCS2dEUDZXMGxiN0puVk9COTZiY09oTHo0?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |

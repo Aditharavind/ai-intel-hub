@@ -1,5 +1,32 @@
 [
   {
+    "model": "OpenRAL/rskill-smolvla-robotwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenRAL/rskill-smolvla-robotwin",
+    "date": "2026-06-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "L7-Robotics/smolvla_so101_world_traj_pretrain_past",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_pretrain_past",
+    "date": "2026-06-19",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "qualia-robotics/act-pusht-book-v2-0509a6f0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/qualia-robotics/act-pusht-book-v2-0509a6f0",
+    "date": "2026-06-19",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "kunhsiang/edu-robot-fbagent-checkpoints",
     "downloads": 0,
     "likes": 0,
@@ -63,6 +90,15 @@
     "score": 0.1
   },
   {
+    "model": "noah3756/ta_vla_force_frozen_vlm",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/noah3756/ta_vla_force_frozen_vlm",
+    "date": "2026-06-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "denkiwakame/Qwen3.5-0.8B-FFT-VLA0-rerun2",
     "downloads": 0,
     "likes": 0,
@@ -108,15 +144,6 @@
     "score": 0.1
   },
   {
-    "model": "Wayer2/policy-test",
-    "downloads": 8,
-    "likes": 0,
-    "url": "https://huggingface.co/Wayer2/policy-test",
-    "date": "2026-06-19",
-    "keyword": "policy",
-    "score": 2.5
-  },
-  {
     "model": "TachyQaQ/so101_act_policy",
     "downloads": 96,
     "likes": 0,
@@ -124,6 +151,15 @@
     "date": "2026-06-19",
     "keyword": "policy",
     "score": 28.9
+  },
+  {
+    "model": "Wayer2/policy-test",
+    "downloads": 8,
+    "likes": 0,
+    "url": "https://huggingface.co/Wayer2/policy-test",
+    "date": "2026-06-19",
+    "keyword": "policy",
+    "score": 2.5
   },
   {
     "model": "balveersingh/act_policy_so101_teleop_vials_50k",
@@ -160,33 +196,6 @@
     "date": "2026-06-18",
     "keyword": "robot",
     "score": 12.4
-  },
-  {
-    "model": "mario-d-robot/Qwen-Image-Edit-2511-Multiple-Angles-LoRA",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mario-d-robot/Qwen-Image-Edit-2511-Multiple-Angles-LoRA",
-    "date": "2026-06-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "mario-d-robot/Qwen-Edit-2509-Light-Migration",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mario-d-robot/Qwen-Edit-2509-Light-Migration",
-    "date": "2026-06-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "mario-d-robot/Qwen-Image-Edit-2511-Upscale2K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mario-d-robot/Qwen-Image-Edit-2511-Upscale2K",
-    "date": "2026-06-18",
-    "keyword": "robot",
-    "score": 0.1
   },
   {
     "model": "anikitakis/vla_so101_pick_n_place_full_expert",
@@ -241,15 +250,6 @@
     "date": "2026-06-18",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "vrfai/vla-adapter-libero-gguf",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/vrfai/vla-adapter-libero-gguf",
-    "date": "2026-06-18",
-    "keyword": "vla",
-    "score": 2.8
   },
   {
     "model": "EmotionSprout/embodied-cognition",
@@ -520,24 +520,6 @@
     "date": "2026-06-12",
     "keyword": "robotics",
     "score": 10.6
-  },
-  {
-    "model": "qualia-robotics/smolvla-openarm-cube-in-box-v2-1b2476e0",
-    "downloads": 34,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/smolvla-openarm-cube-in-box-v2-1b2476e0",
-    "date": "2026-06-12",
-    "keyword": "robotics",
-    "score": 10.3
-  },
-  {
-    "model": "Dl26/robotics-movement-object-affordance-v1",
-    "downloads": 0,
-    "likes": 3,
-    "url": "https://huggingface.co/Dl26/robotics-movement-object-affordance-v1",
-    "date": "2026-06-12",
-    "keyword": "robotics",
-    "score": 0.7
   },
   {
     "model": "linhrumata/world-models-decoders",

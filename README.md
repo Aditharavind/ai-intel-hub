@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-19 11:10 UTC
+Last Updated: 2026-06-19 14:34 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -33,6 +33,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-19 | What Amazon’s Astro Taught Me About Giving Robots a Soul | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/amazon-astro-robot-sound) |
+| 2026-06-19 | U.S. robotics industry saw double-digit growth in 2025, says IFR | Robotics Business Review | [link](https://www.therobotreport.com/u-s-robotics-industry-saw-double-digit-growth-in-2025-says-ifr/) |
+| 2026-06-19 | Elmo releases new motion controller and servo drives for industrial applications | Robotics Business Review | [link](https://www.therobotreport.com/elmo-releases-new-motion-controller-servo-drives-industrial-applications/) |
 | 2026-06-18 | RealSense unveils AI-native D585 Pro depth camera for robots | Robotics Business Review | [link](https://www.therobotreport.com/realsense-unveils-ai-native-d585-pro-depth-camera-for-robots/) |
 | 2026-06-18 | Kinova launches KIMA medical robotic arm | Robotics Business Review | [link](https://www.therobotreport.com/kinova-launches-kima-medical-robotic-arm/) |
 | 2026-06-18 | Microbot Medical to expand veteran access to robotic surgery with LIBERTY | Robotics Business Review | [link](https://www.therobotreport.com/microbot-medical-expands-veteran-access-robotic-surgery-liberty/) |
@@ -40,9 +43,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-17 | The Secret to Marathon-Winning Humanoid Robots | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/china-humanoid-robot-marathon) |
 | 2026-06-17 | Sanctuary AI validates physical AI performance at Tier 1 automotive supplier | Robotics Business Review | [link](https://www.therobotreport.com/sanctuary-ai-validates-physical-ai-performance-tier-1-automotive-supplier/) |
 | 2026-06-17 | Evaluating humanoids for surface finishing applications | Robotics Business Review | [link](https://www.therobotreport.com/evaluating-humanoids-for-surface-finishing-applications/) |
-| 2026-06-17 | Fennec Engineering earns T2 qualification for Advanced Safety Acceleration Platform | Robotics Business Review | [link](https://www.therobotreport.com/fennec-engineering-earns-t2-qualification-advanced-safety-acceleration-platform/) |
-| 2026-06-17 | Autonomique deploys semi-humanoid robots and AI at Canadian Tier 1 | Robotics Business Review | [link](https://www.therobotreport.com/autonomique-deploys-semi-humanoid-robots-canadian-tier-1/) |
-| 2026-06-16 | PSYONIC partners with ABB Robotics to apply human touch to robot dexterity | Robotics Business Review | [link](https://www.therobotreport.com/psyonic-abb-robotics-partner-apply-human-touch-data-robot-dexterity/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -61,6 +61,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-19 | OpenRAL/rskill-smolvla-robotwin | 0 | 0 | [link](https://huggingface.co/OpenRAL/rskill-smolvla-robotwin) |
+| 2026-06-19 | L7-Robotics/smolvla_so101_world_traj_pretrain_past | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_pretrain_past) |
+| 2026-06-19 | qualia-robotics/act-pusht-book-v2-0509a6f0 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/act-pusht-book-v2-0509a6f0) |
 | 2026-06-19 | kunhsiang/edu-robot-fbagent-checkpoints | 0 | 0 | [link](https://huggingface.co/kunhsiang/edu-robot-fbagent-checkpoints) |
 | 2026-06-19 | yuyangalin/ImageWAM-FLUX.2-4B-RoboTwin | 0 | 0 | [link](https://huggingface.co/yuyangalin/ImageWAM-FLUX.2-4B-RoboTwin) |
 | 2026-06-19 | robotneu/cs_wk_understanding_refactor_obj_2_3_hard_refactor | 0 | 0 | [link](https://huggingface.co/robotneu/cs_wk_understanding_refactor_obj_2_3_hard_refactor) |
@@ -68,9 +71,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-19 | junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.5_vid1 | 0 | 0 | [link](https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.5_vid1) |
 | 2026-06-19 | junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.8_vid1 | 0 | 0 | [link](https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.8_vid1) |
 | 2026-06-19 | junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.3_vid1 | 0 | 0 | [link](https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.3_vid1) |
-| 2026-06-19 | denkiwakame/Qwen3.5-0.8B-FFT-VLA0-rerun2 | 0 | 0 | [link](https://huggingface.co/denkiwakame/Qwen3.5-0.8B-FFT-VLA0-rerun2) |
-| 2026-06-19 | wzxbcml/so101-vla-model | 0 | 0 | [link](https://huggingface.co/wzxbcml/so101-vla-model) |
-| 2026-06-19 | quiet-storm/polar-bridge-vla | 0 | 0 | [link](https://huggingface.co/quiet-storm/polar-bridge-vla) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -79,16 +79,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | RobotecAI/rai | 529 | Python | 211.7 | [link](https://github.com/RobotecAI/rai) |
 | awslabs/awsome-distributed-ai | 444 | Shell | 177.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | arpitg1304/forge | 141 | Python | 56.5 | [link](https://github.com/arpitg1304/forge) |
-| ArduPilot/ardupilot | 15318 | C++ | 6127.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 13919 | C++ | 5567.7 | [link](https://github.com/google-deepmind/mujoco) |
-| DLR-RM/stable-baselines3 | 13454 | Python | 5381.7 | [link](https://github.com/DLR-RM/stable-baselines3) |
+| commaai/openpilot | 61446 | Python | 24578.5 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15320 | C++ | 6128.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 13920 | C++ | 5568.1 | [link](https://github.com/google-deepmind/mujoco) |
+| DLR-RM/stable-baselines3 | 13455 | Python | 5382.1 | [link](https://github.com/DLR-RM/stable-baselines3) |
 | rerun-io/rerun | 10967 | Rust | 4386.9 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7481 | Python | 2992.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3790 | Rust | 1516.1 | [link](https://github.com/dora-rs/dora) |
+| isaac-sim/IsaacLab | 7484 | Python | 2993.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2pwV01RYWVyaWtwQll2S1dnaDBMZFpiTDNvcExwSXFRTGk3VFpfV3lSWG1BU3pFYkFFQS13MU00TXA4QmN3NUdXLS1FX3hRS0d6c0Q3bnFKT2VNZXNfSnFLcS1sZlJOdUt1LTdRaHBXc216cVgyOEREYy1uVUdocA?oc=5) |
+| 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3aGtIckFCdktWR3hnZDAybV9YZXlKbVdIMmxvSDhBRW9MS01QWExMNWR2Qk1lc0VfcFNjSWtJeldycmx0b25zcERKcDNoOFBTai10U0tnTdIBV0FVX3lxTFB3aGtIckFCdktWR3hnZDAybV9YZXlKbVdIMmxvSDhBRW9MS01QWExMNWR2Qk1lc0VfcFNjSWtJeldycmx0b25zcERKcDNoOFBTai10U0tnTQ?oc=5) |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmEtTVhCcXBoTkY0NkFqdXJDYXh1UkFvLWxWM19YR0VnVUdJdjlhYkRRd0lnekhjRnFDaUU4UG01UTI1RXk2dm5tWHZ5UVBodmJJSW01R2hKb2Vsbl94Y0hQTUJYYXBpamlROGNlMnRQVGVNZ1Nwcm5tOHRwN1NxUGRlVjZuQk0zUmdRZGp2Mkx5QnFLT1BMSmFJOVEzV2M?oc=5) |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWFSVTF3OEdYcUhhZ1NlX3lfZ2M1UkZkNGd3ZVltUU0zaGVEekZFV1BQN2w4LWJaRF9tWmVNdHd4VjZUMEhZSWliMlp2cTVxWDNUQmlrT2NuYVliNkxmS1ptWWJwcDFJZmxTam1va3NZQWg3eFJYNFFnQkhwcm52SHpZVjBocU1uOElBS0hSTW9TNjNjTTA3OG5rVElsWURBWWc?oc=5) |
 | 2026-06-17 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTNocmJZR0hhYS1YMHdrZVB4SEluYjR6TW1QM1FkTDNYbmFyQ0dwZ1RBN3FoazRxdm84RVhjejdtS3FIREVWS2ZidHZYTktwOEpNOGhhOUxqZ0dZQWlRazhUaEhNZnZZVldILXBFOFlwUHBOVFUwblhnWWZZaGVVWTBoU2JVelluY0J2TWJsNA?oc=5) |
@@ -97,8 +99,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-10 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiN3N1UVVaWFRFcjBodGtYV0xBQXM1bzRGT0tLeV9YcXk0RC1MakJadi1xbnJKNWRNZUw3NHYyclpnc0daMGVsR1pwaHNjQWEzdFQxUzRjYw?oc=5) |
 | 2026-06-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hLU04d3VwTUxreHA5bVNWS3B4dmZaMzRsdUFGZEJwYTNrTXJtZl8xZ2RpZTA1MWxzYkxndWpfZEI4bk1PbXZYR3hMcXhHNUpvLVZnaUlRUGFTa3FNSXBrS0hn?oc=5) |
 | 2026-06-05 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlI3N21DSmpVdVhOSUFjcmE2ZlpkNlBTendxb0VjZ3hIMW4wUVlYZU9tdko5RFR5U3lFbkxmd256VmljWXpMc29zYzd5YXhWcU1ESEo2VXZQaFFPbHBjNEFDLTFXalRtVjdhbzUwQ1BUaW9rRlpONGRLMUpsbHY2R1ZtNFdrNnNZYTV1MlBZbG0xbmNtNW40T2xyUkpHekZOLXBYQVM1LU5hM055UVRWdzlvQQ?oc=5) |
-| 2026-06-04 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUktbnBaOVZBZTJOSU1GVkU4Zl9aQU96RE9FSHY3MGpfQ2xFem5aQmNSeXVpZ0FscmdVWHREei1rNUYtQnV1aUxJRFBzSGZ1MDEzMExnNkdaODZwbkJIVU5xaHZpYkx3N0lYVzhtcGRhdk1rZEM2NGlXQXVBb1Nlb05rckVUN0lUSlBPdlZLallSQUtqZi1SYVdHLWo5VTNDS1FEMEVtdHlBM0YxV19FZGhWYw?oc=5) |
-| 2026-06-04 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTGJaRThJZjRPZGVNaG1oUHF0b1ZOdF9Sd3NKTFB0cGI2MUctYU11UWl4UTVMc1dNZ1RxeEUzMWJJdUU0ZXF6Ui1FTDBfUnNCcjkzQVVuTXlodGJtbzdDREp4ZUNqLV9EZWNKR2hseGMtcW11enNSRU93?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
