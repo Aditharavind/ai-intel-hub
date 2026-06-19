@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-19 19:20 UTC
+Last Updated: 2026-06-19 20:58 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -47,13 +47,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-19 | PCBs Straight from the Magazine | Hackaday | [link](https://hackaday.com/2026/06/19/pcbs-straight-from-the-magazine/) |
 | 2026-06-19 | Making An Ultra Minimal Cyberdeck | Hackaday | [link](https://hackaday.com/2026/06/19/making-an-ultra-minimal-cyberdeck/) |
 | 2026-06-19 | Hackaday Podcast Episode 374: Flippin’ Phones, Sexy Spraysers, and Frikkin’ Lasers | Hackaday | [link](https://hackaday.com/2026/06/19/hackaday-podcast-episode-374-flippin-phones-sexy-spraysers-and-frikkin-lasers/) |
 | 2026-06-19 | Creating Beautiful Light Shows With Soap | Hackaday | [link](https://hackaday.com/2026/06/19/creating-beautiful-light-shows-with-soap/) |
 | 2026-06-19 | This Week in Security: Arch AUR, Steam Marketplace, WordPress All Face Issues, Taco-Themed Coding, and Mythos Makes National News | Hackaday | [link](https://hackaday.com/2026/06/19/this-week-in-security-arch-aur-steam-marketplace-wordpress-all-face-issues-taco-themed-coding-and-mythos-makes-national-news/) |
 | 2026-06-19 | Come With Me if You Want to Weed: Autonomous Weedinator Robot back for 2026 | Hackaday | [link](https://hackaday.com/2026/06/19/come-with-me-if-you-want-to-weed-autonomous-weedinator-robot-back-for-2026/) |
 | 2026-06-19 | Running Modern Linux on a 68008 | Hackaday | [link](https://hackaday.com/2026/06/19/running-modern-linux-on-a-68008/) |
-| 2026-06-19 | Running Windows NT On The Nintendo Gamecube | Hackaday | [link](https://hackaday.com/2026/06/18/running-windows-nt-on-the-nintendo-gamecube/) |
 | 2026-06-19 | Rotary Mouse puts a rotary wheel into a standard desktop mouse (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/06/19/rotary-mouse-puts-a-rotary-wheel-into-a-standard-desktop-mouse/) |
 | 2026-06-19 | Matter 1.6 specification adds NFC-based commissioning, thermostat suggestions, various core enhancements | CNX Software | [link](https://www.cnx-software.com/2026/06/19/matter-1-6-specification-adds-nfc-based-commissioning-thermostat-suggestions-various-core-enhancements/) |
 | 2026-06-19 | Qualcomm promises a major reset with upstream-first, Qualcomm Linux 2.0 for Dragonwing IoT platforms | CNX Software | [link](https://www.cnx-software.com/2026/06/19/qualcomm-promises-a-major-reset-with-upstream-first-qualcomm-linux-2-0-for-dragonwing-iot-platforms/) |
@@ -94,7 +94,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | awslabs/awsome-distributed-ai | 444 | Shell | 177.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | arpitg1304/forge | 141 | Python | 56.5 | [link](https://github.com/arpitg1304/forge) |
 | commaai/openpilot | 61450 | Python | 24580.1 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15322 | C++ | 6128.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15323 | C++ | 6129.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 13921 | C++ | 5568.5 | [link](https://github.com/google-deepmind/mujoco) |
 | DLR-RM/stable-baselines3 | 13457 | Python | 5382.9 | [link](https://github.com/DLR-RM/stable-baselines3) |
 | rerun-io/rerun | 10967 | Rust | 4386.9 | [link](https://github.com/rerun-io/rerun) |
@@ -124,9 +124,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-17 | The AI startups building beyond chatbots are choosing Amazon’s custom chips. Here's why. - About Amazon | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWHJIMkh5anltV1hIcVlqaU5NSlFaa0VZOUhjd2REN2NQUExac2Vmd3I1THBTamZ2WDFKX2xCVGtoeEdaSkZKR0xUVkZ6elpxY3FUX0JVWHhLT005QnBLZlAxRkVaZy02Wlp1NUp1NGlVLXlvZldJQWZnREY3QlVtUnF4ZV9OV1g3?oc=5) |
 | 2026-06-17 | Seeds | Embodied AI Robotics Startup Astrall Dynamics Gains Investment from SAIC and Others - Gasgoo | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZkpWdHZuUkx2QkJ4U2J1UlY1OExBakhOTXBPUXE3c3N2RFRNUFNocF9pcDBXYUpKbkVTZWJpeTM1MExJM2hVeDRBSDR1dkdpRzdXVDJDU1Mta2d0cGxXREVIVHVYb1JkTGVJMVgxUW5rcHctUnNTQ2c2WWRrOUU2RVFvNW42eEpCUWFIaEQxSXpiT0gwWmF0ZmxNR3A4Q1FRVldqZUxxR0R3N2JiLTNaWTFuWVJMY2p2UVV0cm8tWkVQU3VodVl2WWNhcjFRc1BreHo4eEpZUzZaNDdveE5pbkNVMXVsZw?oc=5) |
 | 2026-06-17 | The next humanoid robot might not look human at all - The Verge | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQajB6WloxbzRYS0cxNjFBSE5VZlozemdEMkdvVjlaNjhyampxdURVZWhDMmlIVzFnQ253TWxpdXNCZ1R1cEMwVE10dUtzR0ZmVTFJOXhtN3JzWXo0Z2lIb09VZXUtb2hNMUtYS1hpbDY4dTNrd19yQ2doZzNXUFYzejM1YTJuTkdBQ2IzT3paNFZUQQ?oc=5) |
-| 2026-06-16 | Pegasus Tech Ventures launches $60M fund for physical AI startups - The Robot Report | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdElnWkZoMUdwUE5Jdjl5elRKeHBqZkxqeU5pVDAxQTBRa3dXQkpsWmRXS1JBWWtFZjJ5cmJOSTBWdzRjdHpjdmltMGJ5c0dEQi1OTXJSOFBkQ3Q4WnNoTGkzY1BBSXJTUWZYT1JzUEVIb19BdXlHODdzVEtZeXFfSW9zRW4wcTl4Ykc1cjFTcWxocWZab0Q0?oc=5) |
 | 2026-06-16 | Galaxea AI Chief Says China Could Lead Robotics Models Within Three Years - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxQSjYyV08wSnI0X3ZTcHBzV3NRMGRtOTdVb3VuQmNnXzNqUjd3QUJuQnlNSGdQZUtlbVQ1cGxucUpIVjZFTjhYamVST3RKNHV1bllMcEljY1JmVzM0bTlEQ1V0X3ZHREtCTU5HT1l6NTV3OXE0dEFtWHJmNEtWYjgyX1M3T19JNkUzemlmNVpoN0RHWkhFNHVKa2JHdWpqUmFTSDF2Z0V1bG94QnhZVV9qZHNId2FUN1EwaU5hYWFzZmJqaDlIOWNR?oc=5) |
 | 2026-06-16 | French startup unveils non-humanoid robot as AI race moves to physical machines - France 24 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGpKdUM3ZDVlUHdDc2dkaEZjVnhkTmgzaGx4cEl2NVAwRURBMTFpbmJXMlBkZVA0VGdia0tsd1BYUlI2RTJsODNGa1lCVGxkeC1pQ3ZDWUZuWm95b0xxelpYS3JmQk5wVFpiOWpzM1BCaHhpU2NCN0RVTzJCby1iOXBUWGVIbk44LWU0Ul9lUjJNYzlNRkRDLVV4Z1lhemZXaDRJVEZQNzVwekNSTVNSd2lTYUYzdkhoVXVzTTdB?oc=5) |
+| 2026-06-16 | This AI robot startup thinks humanoids are overrated - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmdJVkNUMWtTUkFBbk9kM3FfRi00VnlHVGRjNkQ1ZFg1Q0VDUFlGa2lTd3RvdmtiVEptN2NwTktfellmUDdoQVR2Q1RYaVJVeFlsakQ3cEY2VlhUckNCNUd1bWk3c0NSTjNQTWZTZUUwR3hjZ1djTnR1dTZodGMxYWYzdGhlU2tHWDdrWg?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
