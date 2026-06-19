@@ -940,7 +940,7 @@ const esc = v => String(v??'').replace(/[&<>"']/g,c=>({{'&':'&amp;','<':'&lt;','
 const plain = v => {{ const d=document.createElement('div'); d.innerHTML=String(v??''); return d.textContent||''; }};
 const titleOf = x => x.title||x.repo||x.model||x.company||'Untitled';
 const dateOf  = x => x.date||x.published||x.posted||'';
-const srcOf   = x => x.source||x.company||x.language||x.topic||x.category||'';
+const srcOf   = x => {{ const s=x.source; if (s && !/^https?:\/\//.test(s)) return s; return x.company||x.language||x.topic||x.category||''; }};
 const scoreOf = x => Number(x.score||x.stars||x.downloads||0);
 const isSeed  = x => {{ const u=x.url||x.pdf_url||''; return u.includes('example.com')||(x.title||'').toLowerCase().startsWith('example'); }};
 const fmt = n => n>=1e6?(n/1e6).toFixed(1)+'M':n>=1000?(n/1000).toFixed(1)+'K':String(n);
@@ -962,7 +962,10 @@ function hrefOf(x) {{
     const m=x.pdf_url.match(/arxiv\.org\/(?:pdf|abs)\/([0-9]+\.[0-9]+)/);
     if (m) return 'https://arxiv.org/abs/'+m[1];
   }}
-  return x.url||x.pdf_url||'#';
+  if (x.url) return x.url;
+  if (x.pdf_url) return x.pdf_url;
+  if (x.source && /^https?:\/\//.test(x.source)) return x.source;
+  return '#';
 }}
 
 function cutoff(r) {{
