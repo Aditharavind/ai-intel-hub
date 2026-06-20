@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-20 02:02 UTC
+Last Updated: 2026-06-20 06:51 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -47,16 +47,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-20 | Making Old Computers Count To A Million | Hackaday | [link](https://hackaday.com/2026/06/19/making-old-computers-count-to-a-million/) |
 | 2026-06-20 | How LLMs can be Assisted to do Arithmetic Correctly | Hackaday | [link](https://hackaday.com/2026/06/19/how-llms-can-be-assisted-to-do-arithmetic-correctly/) |
+| 2026-06-20 | Pine64 Pinevoice – A $50 RISC-V Smart Speaker for Home Assistant based on Bouffalo Lab BL606P MCU | CNX Software | [link](https://www.cnx-software.com/2026/06/20/pine64-pinevoice-a-50-risc-v-smart-speaker-for-home-assistant-based-on-bouffalo-lab-bl606p-mcu/) |
 | 2026-06-19 | Epson HX-20 Gets A Drive Upgrade | Hackaday | [link](https://hackaday.com/2026/06/19/epson-hx-20-gets-a-drive-upgrade/) |
 | 2026-06-19 | PCBs Straight from the Magazine | Hackaday | [link](https://hackaday.com/2026/06/19/pcbs-straight-from-the-magazine/) |
 | 2026-06-19 | Making An Ultra Minimal Cyberdeck | Hackaday | [link](https://hackaday.com/2026/06/19/making-an-ultra-minimal-cyberdeck/) |
 | 2026-06-19 | Hackaday Podcast Episode 374: Flippin’ Phones, Sexy Spraysers, and Frikkin’ Lasers | Hackaday | [link](https://hackaday.com/2026/06/19/hackaday-podcast-episode-374-flippin-phones-sexy-spraysers-and-frikkin-lasers/) |
 | 2026-06-19 | Creating Beautiful Light Shows With Soap | Hackaday | [link](https://hackaday.com/2026/06/19/creating-beautiful-light-shows-with-soap/) |
-| 2026-06-19 | This Week in Security: Arch AUR, Steam Marketplace, WordPress All Face Issues, Taco-Themed Coding, and Mythos Makes National News | Hackaday | [link](https://hackaday.com/2026/06/19/this-week-in-security-arch-aur-steam-marketplace-wordpress-all-face-issues-taco-themed-coding-and-mythos-makes-national-news/) |
 | 2026-06-19 | Rotary Mouse puts a rotary wheel into a standard desktop mouse (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/06/19/rotary-mouse-puts-a-rotary-wheel-into-a-standard-desktop-mouse/) |
 | 2026-06-19 | Matter 1.6 specification adds NFC-based commissioning, thermostat suggestions, various core enhancements | CNX Software | [link](https://www.cnx-software.com/2026/06/19/matter-1-6-specification-adds-nfc-based-commissioning-thermostat-suggestions-various-core-enhancements/) |
-| 2026-06-19 | Qualcomm promises a major reset with upstream-first, Qualcomm Linux 2.0 for Dragonwing IoT platforms | CNX Software | [link](https://www.cnx-software.com/2026/06/19/qualcomm-promises-a-major-reset-with-upstream-first-qualcomm-linux-2-0-for-dragonwing-iot-platforms/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -75,38 +75,38 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-20 | L7-Robotics/smolvla_so101_world_traj_conveyor_static_base | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_conveyor_static_base) |
 | 2026-06-20 | robotneu/composite_ability_refactor_obj_2_3_hard_refactor | 0 | 0 | [link](https://huggingface.co/robotneu/composite_ability_refactor_obj_2_3_hard_refactor) |
+| 2026-06-20 | LuEduSoHu/robot_learning_tutorial_diffusion_0619_1723 | 0 | 0 | [link](https://huggingface.co/LuEduSoHu/robot_learning_tutorial_diffusion_0619_1723) |
+| 2026-06-20 | bhe1004/FIRe-VLA-GR00T-PegInsert-Real | 0 | 0 | [link](https://huggingface.co/bhe1004/FIRe-VLA-GR00T-PegInsert-Real) |
 | 2026-06-20 | kunhsiang/native-fb-vla-libero-10k-s1000 | 0 | 0 | [link](https://huggingface.co/kunhsiang/native-fb-vla-libero-10k-s1000) |
-| 2026-06-19 | L7-Robotics/smolvla_so101_world_traj_ahead_pretrain_past | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_ahead_pretrain_past) |
+| 2026-06-20 | LeoTKM/pickup_policy | 0 | 0 | [link](https://huggingface.co/LeoTKM/pickup_policy) |
 | 2026-06-19 | leehe228/dynin-robotics-libero-all-60k | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-all-60k) |
 | 2026-06-19 | OpenRAL/rskill-smolvla-robotwin | 0 | 0 | [link](https://huggingface.co/OpenRAL/rskill-smolvla-robotwin) |
 | 2026-06-19 | qualia-robotics/act-pusht-book-v2-0509a6f0 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/act-pusht-book-v2-0509a6f0) |
 | 2026-06-19 | kunhsiang/edu-robot-fbagent-checkpoints | 0 | 0 | [link](https://huggingface.co/kunhsiang/edu-robot-fbagent-checkpoints) |
-| 2026-06-19 | yuyangalin/ImageWAM-FLUX.2-4B-RoboTwin | 0 | 0 | [link](https://huggingface.co/yuyangalin/ImageWAM-FLUX.2-4B-RoboTwin) |
-| 2026-06-19 | robotneu/cs_wk_understanding_refactor_obj_2_3_hard_refactor | 0 | 0 | [link](https://huggingface.co/robotneu/cs_wk_understanding_refactor_obj_2_3_hard_refactor) |
-| 2026-06-19 | junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0_vid1 | 0 | 0 | [link](https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0_vid1) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 61452 | Python | 24580.9 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15324 | C++ | 6129.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| sou350121/VLA-Handbook | 307 | HTML | 122.9 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5212 | Python | 2084.9 | [link](https://github.com/vllm-project/vllm-omni) |
-| strands-labs/robots | 68 | Python | 27.3 | [link](https://github.com/strands-labs/robots) |
-| Edgenesis/shifu | 1420 | Go | 568.1 | [link](https://github.com/Edgenesis/shifu) |
-| mosaico-labs/mosaico | 883 | Python | 353.3 | [link](https://github.com/mosaico-labs/mosaico) |
-| RobotecAI/rai | 529 | Python | 211.7 | [link](https://github.com/RobotecAI/rai) |
 | awslabs/awsome-distributed-ai | 445 | Shell | 178.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 298 | Python | 119.3 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
+| commaai/openpilot | 61459 | Python | 24583.7 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15324 | C++ | 6129.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| isaac-sim/IsaacLab | 7487 | Python | 2994.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| dora-rs/dora | 3790 | Rust | 1516.1 | [link](https://github.com/dora-rs/dora) |
+| sou350121/VLA-Handbook | 307 | HTML | 122.9 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 5214 | Python | 2085.7 | [link](https://github.com/vllm-project/vllm-omni) |
+| DexForce/EmbodiChain | 181 | Python | 72.5 | [link](https://github.com/DexForce/EmbodiChain) |
+| strands-labs/robots | 68 | Python | 27.3 | [link](https://github.com/strands-labs/robots) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2pwV01RYWVyaWtwQll2S1dnaDBMZFpiTDNvcExwSXFRTGk3VFpfV3lSWG1BU3pFYkFFQS13MU00TXA4QmN3NUdXLS1FX3hRS0d6c0Q3bnFKT2VNZXNfSnFLcS1sZlJOdUt1LTdRaHBXc216cVgyOEREYy1uVUdocA?oc=5) |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3aGtIckFCdktWR3hnZDAybV9YZXlKbVdIMmxvSDhBRW9MS01QWExMNWR2Qk1lc0VfcFNjSWtJeldycmx0b25zcERKcDNoOFBTai10U0tnTdIBV0FVX3lxTFB3aGtIckFCdktWR3hnZDAybV9YZXlKbVdIMmxvSDhBRW9MS01QWExMNWR2Qk1lc0VfcFNjSWtJeldycmx0b25zcERKcDNoOFBTai10U0tnTQ?oc=5) |
-| 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWFSVTF3OEdYcUhhZ1NlX3lfZ2M1UkZkNGd3ZVltUU0zaGVEekZFV1BQN2w4LWJaRF9tWmVNdHd4VjZUMEhZSWliMlp2cTVxWDNUQmlrT2NuYVliNkxmS1ptWWJwcDFJZmxTam1va3NZQWg3eFJYNFFnQkhwcm52SHpZVjBocU1uOElBS0hSTW9TNjNjTTA3OG5rVElsWURBWWc?oc=5) |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmEtTVhCcXBoTkY0NkFqdXJDYXh1UkFvLWxWM19YR0VnVUdJdjlhYkRRd0lnekhjRnFDaUU4UG01UTI1RXk2dm5tWHZ5UVBodmJJSW01R2hKb2Vsbl94Y0hQTUJYYXBpamlROGNlMnRQVGVNZ1Nwcm5tOHRwN1NxUGRlVjZuQk0zUmdRZGp2Mkx5QnFLT1BMSmFJOVEzV2M?oc=5) |
+| 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWFSVTF3OEdYcUhhZ1NlX3lfZ2M1UkZkNGd3ZVltUU0zaGVEekZFV1BQN2w4LWJaRF9tWmVNdHd4VjZUMEhZSWliMlp2cTVxWDNUQmlrT2NuYVliNkxmS1ptWWJwcDFJZmxTam1va3NZQWg3eFJYNFFnQkhwcm52SHpZVjBocU1uOElBS0hSTW9TNjNjTTA3OG5rVElsWURBWWc?oc=5) |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE9BZGI1SURVOVpxR1B2a3NhemNLN0x0Wjktc2tEN3ozV0IydERuSWNkS1NtQlhqQlJobUp2dXdrYVg2OC10TnNGOXNBYVB2QlhRSlBUT3ptanhpNzZxVFYwUzhVWnVJUUtYRXRWdE5OWEg?oc=5) |
 | 2026-06-17 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTNocmJZR0hhYS1YMHdrZVB4SEluYjR6TW1QM1FkTDNYbmFyQ0dwZ1RBN3FoazRxdm84RVhjejdtS3FIREVWS2ZidHZYTktwOEpNOGhhOUxqZ0dZQWlRazhUaEhNZnZZVldILXBFOFlwUHBOVFUwblhnWWZZaGVVWTBoU2JVelluY0J2TWJsNA?oc=5) |
 | 2026-06-16 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tYllveVV4SW03M0J5bVp5akswd1VfR2tyOGNhbUgxbU54LS1NT2Q1am5kRVVzcHJpSzd3QlMzblZVWmVFcVJyWk41ODU1ZEVoSXdoYWIydXVoS3RqaWRwRTJCZndRNnM?oc=5) |
@@ -122,11 +122,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-17 | Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it. - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDZGRzM0c0Q5WTg4MEIwREtvVTZCZzh0YTQ4SmpmZmE2V2pUZHVSQlEzVHNHQnRuSjNmU19TNU9ZYWxoVy13THRFeHN0OWRsVGM5ZUFDMk9feUVHel82MWtRdldBdFdmTm9lMjBiSDlldEVRT1ItalJRYVI0Vk9JamxxSWZaeUZfbEhrMTFLc1JWUUdyQkZZTUpnc3dWdU9seHpVQzc3RTFGSlBBSnRybVpzbldESGJsclJCckh1OFJlZDRQb181Rm9XdnJuTHcwWUY0?oc=5) |
 | 2026-06-17 | Amazon backs AI startup developing models to simulate the physical world - Crypto Briefing | physical ai startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZWhhdjVzODRNdjJwUTZFUTJPckNPRXBSdVo2LWs1TXh6WjU0Z3UwaXNOanRjTEl1dUJOUUFmX1pTd05JT0REV1NXVS1PZkYzMlZXYkZ2bjRObURUbnVXMEhuTi1wSXdhQ21UeQ?oc=5) |
 | 2026-06-17 | The AI startups building beyond chatbots are choosing Amazon’s custom chips. Here's why. - About Amazon | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWHJIMkh5anltV1hIcVlqaU5NSlFaa0VZOUhjd2REN2NQUExac2Vmd3I1THBTamZ2WDFKX2xCVGtoeEdaSkZKR0xUVkZ6elpxY3FUX0JVWHhLT005QnBLZlAxRkVaZy02Wlp1NUp1NGlVLXlvZldJQWZnREY3QlVtUnF4ZV9OV1g3?oc=5) |
+| 2026-06-17 | Jeff Bezos-backed Prometheus raises $12 bn in a Series B to build physical AI software - Beinsure | physical ai startup | [link](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iZjJhbGJLejhlTk9JdWZIaHZrOGZhZktKWTVHOHJFVDgxZzhoM0MwQ0t4OUhZNEl6cElNVGp6bkRvTDBleDFjMWJiUEtzamtJZ2R3YnV6YkpLQWV3Unc?oc=5) |
 | 2026-06-17 | Seeds | Embodied AI Robotics Startup Astrall Dynamics Gains Investment from SAIC and Others - Gasgoo | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZkpWdHZuUkx2QkJ4U2J1UlY1OExBakhOTXBPUXE3c3N2RFRNUFNocF9pcDBXYUpKbkVTZWJpeTM1MExJM2hVeDRBSDR1dkdpRzdXVDJDU1Mta2d0cGxXREVIVHVYb1JkTGVJMVgxUW5rcHctUnNTQ2c2WWRrOUU2RVFvNW42eEpCUWFIaEQxSXpiT0gwWmF0ZmxNR3A4Q1FRVldqZUxxR0R3N2JiLTNaWTFuWVJMY2p2UVV0cm8tWkVQU3VodVl2WWNhcjFRc1BreHo4eEpZUzZaNDdveE5pbkNVMXVsZw?oc=5) |
 | 2026-06-17 | The next humanoid robot might not look human at all - The Verge | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQajB6WloxbzRYS0cxNjFBSE5VZlozemdEMkdvVjlaNjhyampxdURVZWhDMmlIVzFnQ253TWxpdXNCZ1R1cEMwVE10dUtzR0ZmVTFJOXhtN3JzWXo0Z2lIb09VZXUtb2hNMUtYS1hpbDY4dTNrd19yQ2doZzNXUFYzejM1YTJuTkdBQ2IzT3paNFZUQQ?oc=5) |
+| 2026-06-16 | Galaxea AI Chief Says China Could Lead Robotics Models Within Three Years - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxQSjYyV08wSnI0X3ZTcHBzV3NRMGRtOTdVb3VuQmNnXzNqUjd3QUJuQnlNSGdQZUtlbVQ1cGxucUpIVjZFTjhYamVST3RKNHV1bllMcEljY1JmVzM0bTlEQ1V0X3ZHREtCTU5HT1l6NTV3OXE0dEFtWHJmNEtWYjgyX1M3T19JNkUzemlmNVpoN0RHWkhFNHVKa2JHdWpqUmFTSDF2Z0V1bG94QnhZVV9qZHNId2FUN1EwaU5hYWFzZmJqaDlIOWNR?oc=5) |
 | 2026-06-16 | French startup unveils non-humanoid robot as AI race moves to physical machines - France 24 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGpKdUM3ZDVlUHdDc2dkaEZjVnhkTmgzaGx4cEl2NVAwRURBMTFpbmJXMlBkZVA0VGdia0tsd1BYUlI2RTJsODNGa1lCVGxkeC1pQ3ZDWUZuWm95b0xxelpYS3JmQk5wVFpiOWpzM1BCaHhpU2NCN0RVTzJCby1iOXBUWGVIbk44LWU0Ul9lUjJNYzlNRkRDLVV4Z1lhemZXaDRJVEZQNzVwekNSTVNSd2lTYUYzdkhoVXVzTTdB?oc=5) |
-| 2026-06-16 | This AI robot startup thinks humanoids are overrated - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmdJVkNUMWtTUkFBbk9kM3FfRi00VnlHVGRjNkQ1ZFg1Q0VDUFlGa2lTd3RvdmtiVEptN2NwTktfellmUDdoQVR2Q1RYaVJVeFlsakQ3cEY2VlhUckNCNUd1bWk3c0NSTjNQTWZTZUUwR3hjZ1djTnR1dTZodGMxYWYzdGhlU2tHWDdrWg?oc=5) |
-| 2026-06-15 | Meet the 22 Investors to Know in Robotics and Physical AI - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTGJ2NDJMbnFkbkt3dDN0OU5heDVOemhWR3prRXlWVWRQT0hJdE1MTF9Za2lJUWVkai1fS0VHaDBGbGdxcVp5a1hiQ3hub29ra21IdkZmczhZRzNPeGxRRzRvM1BfTTZ6UXFoaGJMYVBrMmZyNk5fU3Q3U2ZIUEQwMC0ydjZqYU1LUUh6Sw?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

@@ -1,11 +1,38 @@
 [
   {
+    "model": "L7-Robotics/smolvla_so101_world_traj_conveyor_static_base",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_conveyor_static_base",
+    "date": "2026-06-20",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "robotneu/composite_ability_refactor_obj_2_3_hard_refactor",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/robotneu/composite_ability_refactor_obj_2_3_hard_refactor",
     "date": "2026-06-20",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "LuEduSoHu/robot_learning_tutorial_diffusion_0619_1723",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/LuEduSoHu/robot_learning_tutorial_diffusion_0619_1723",
+    "date": "2026-06-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "bhe1004/FIRe-VLA-GR00T-PegInsert-Real",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bhe1004/FIRe-VLA-GR00T-PegInsert-Real",
+    "date": "2026-06-20",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -18,12 +45,12 @@
     "score": 0.1
   },
   {
-    "model": "L7-Robotics/smolvla_so101_world_traj_ahead_pretrain_past",
+    "model": "LeoTKM/pickup_policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_ahead_pretrain_past",
-    "date": "2026-06-19",
-    "keyword": "robotics",
+    "url": "https://huggingface.co/LeoTKM/pickup_policy",
+    "date": "2026-06-20",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -103,15 +130,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.8_vid1",
-    "date": "2026-06-19",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.3_vid1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.3_vid1",
     "date": "2026-06-19",
     "keyword": "robot",
     "score": 0.1
@@ -279,15 +297,6 @@
     "score": 0.1
   },
   {
-    "model": "etyacke/vla-foundry-agibot-g1-poc",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/etyacke/vla-foundry-agibot-g1-poc",
-    "date": "2026-06-18",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "EmotionSprout/embodied-cognition",
     "downloads": 0,
     "likes": 0,
@@ -349,15 +358,6 @@
     "date": "2026-06-18",
     "keyword": "policy",
     "score": 0.4
-  },
-  {
-    "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos0_policy0",
-    "downloads": 7,
-    "likes": 0,
-    "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos0_policy0",
-    "date": "2026-06-18",
-    "keyword": "policy",
-    "score": 2.2
   },
   {
     "model": "puppet-robotics/golf-model-eval",

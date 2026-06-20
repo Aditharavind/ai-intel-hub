@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-20 02:02 UTC
+Generated: 2026-06-20 06:51 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,10 +14,10 @@ Generated: 2026-06-20 02:02 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81861 | 32744.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61452 | 24580.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44121 | 17648.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 29816 | 11926.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 81862 | 32744.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61459 | 24583.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44122 | 17648.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 29819 | 11927.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15934 | 6373.7 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
@@ -34,8 +34,8 @@ Generated: 2026-06-20 02:02 UTC
 | --- | --- | --- | --- |
 | 2026-06-19 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2pwV01RYWVyaWtwQll2S1dnaDBMZFpiTDNvcExwSXFRTGk3VFpfV3lSWG1BU3pFYkFFQS13MU00TXA4QmN3NUdXLS1FX3hRS0d6c0Q3bnFKT2VNZXNfSnFLcS1sZlJOdUt1LTdRaHBXc216cVgyOEREYy1uVUdocA?oc=5) |
 | 2026-06-19 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3aGtIckFCdktWR3hnZDAybV9YZXlKbVdIMmxvSDhBRW9MS01QWExMNWR2Qk1lc0VfcFNjSWtJeldycmx0b25zcERKcDNoOFBTai10U0tnTdIBV0FVX3lxTFB3aGtIckFCdktWR3hnZDAybV9YZXlKbVdIMmxvSDhBRW9MS01QWExMNWR2Qk1lc0VfcFNjSWtJeldycmx0b25zcERKcDNoOFBTai10U0tnTQ?oc=5) |
-| 2026-06-19 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWFSVTF3OEdYcUhhZ1NlX3lfZ2M1UkZkNGd3ZVltUU0zaGVEekZFV1BQN2w4LWJaRF9tWmVNdHd4VjZUMEhZSWliMlp2cTVxWDNUQmlrT2NuYVliNkxmS1ptWWJwcDFJZmxTam1va3NZQWg3eFJYNFFnQkhwcm52SHpZVjBocU1uOElBS0hSTW9TNjNjTTA3OG5rVElsWURBWWc?oc=5) |
 | 2026-06-19 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmEtTVhCcXBoTkY0NkFqdXJDYXh1UkFvLWxWM19YR0VnVUdJdjlhYkRRd0lnekhjRnFDaUU4UG01UTI1RXk2dm5tWHZ5UVBodmJJSW01R2hKb2Vsbl94Y0hQTUJYYXBpamlROGNlMnRQVGVNZ1Nwcm5tOHRwN1NxUGRlVjZuQk0zUmdRZGp2Mkx5QnFLT1BMSmFJOVEzV2M?oc=5) |
+| 2026-06-19 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWFSVTF3OEdYcUhhZ1NlX3lfZ2M1UkZkNGd3ZVltUU0zaGVEekZFV1BQN2w4LWJaRF9tWmVNdHd4VjZUMEhZSWliMlp2cTVxWDNUQmlrT2NuYVliNkxmS1ptWWJwcDFJZmxTam1va3NZQWg3eFJYNFFnQkhwcm52SHpZVjBocU1uOElBS0hSTW9TNjNjTTA3OG5rVElsWURBWWc?oc=5) |
 | 2026-06-19 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE9BZGI1SURVOVpxR1B2a3NhemNLN0x0Wjktc2tEN3ozV0IydERuSWNkS1NtQlhqQlJobUp2dXdrYVg2OC10TnNGOXNBYVB2QlhRSlBUT3ptanhpNzZxVFYwUzhVWnVJUUtYRXRWdE5OWEg?oc=5) |
 
 ## Most Active Companies
