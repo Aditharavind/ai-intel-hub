@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-20 09:55 UTC
+Last Updated: 2026-06-20 11:48 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -47,6 +47,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-20 | The Repair Nightmare that are Smart Rings | Hackaday | [link](https://hackaday.com/2026/06/20/the-repair-nightmare-that-are-smart-rings/) |
 | 2026-06-20 | A General Purpose Pi Zero Device for IoT | Hackaday | [link](https://hackaday.com/2026/06/20/a-general-purpose-pi-zero-device-for-iot/) |
 | 2026-06-20 | Making Old Computers Count To A Million | Hackaday | [link](https://hackaday.com/2026/06/19/making-old-computers-count-to-a-million/) |
 | 2026-06-20 | How LLMs can be Assisted to do Arithmetic Correctly | Hackaday | [link](https://hackaday.com/2026/06/19/how-llms-can-be-assisted-to-do-arithmetic-correctly/) |
@@ -54,7 +55,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-19 | Epson HX-20 Gets A Drive Upgrade | Hackaday | [link](https://hackaday.com/2026/06/19/epson-hx-20-gets-a-drive-upgrade/) |
 | 2026-06-19 | PCBs Straight from the Magazine | Hackaday | [link](https://hackaday.com/2026/06/19/pcbs-straight-from-the-magazine/) |
 | 2026-06-19 | Making An Ultra Minimal Cyberdeck | Hackaday | [link](https://hackaday.com/2026/06/19/making-an-ultra-minimal-cyberdeck/) |
-| 2026-06-19 | Hackaday Podcast Episode 374: Flippin’ Phones, Sexy Spraysers, and Frikkin’ Lasers | Hackaday | [link](https://hackaday.com/2026/06/19/hackaday-podcast-episode-374-flippin-phones-sexy-spraysers-and-frikkin-lasers/) |
 | 2026-06-19 | Rotary Mouse puts a rotary wheel into a standard desktop mouse (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/06/19/rotary-mouse-puts-a-rotary-wheel-into-a-standard-desktop-mouse/) |
 | 2026-06-19 | Matter 1.6 specification adds NFC-based commissioning, thermostat suggestions, various core enhancements | CNX Software | [link](https://www.cnx-software.com/2026/06/19/matter-1-6-specification-adds-nfc-based-commissioning-thermostat-suggestions-various-core-enhancements/) |
 
@@ -91,14 +91,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | awslabs/awsome-distributed-ai | 445 | Shell | 178.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 298 | Python | 119.3 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 61467 | Python | 24586.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 61468 | Python | 24587.3 | [link](https://github.com/commaai/openpilot) |
+| zauberzeug/nicegui | 15934 | Python | 6373.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15325 | C++ | 6130.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 13923 | C++ | 5569.3 | [link](https://github.com/google-deepmind/mujoco) |
 | isaac-sim/IsaacLab | 7488 | Python | 2995.3 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3790 | Rust | 1516.1 | [link](https://github.com/dora-rs/dora) |
-| knightnemo/Awesome-World-Models | 3036 |  | 1214.5 | [link](https://github.com/knightnemo/Awesome-World-Models) |
+| knightnemo/Awesome-World-Models | 3037 |  | 1214.9 | [link](https://github.com/knightnemo/Awesome-World-Models) |
 | flashrt-project/FlashRT | 361 | C++ | 144.5 | [link](https://github.com/flashrt-project/FlashRT) |
-| sou350121/VLA-Handbook | 307 | HTML | 122.9 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5216 | Python | 2086.5 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -109,7 +109,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWFSVTF3OEdYcUhhZ1NlX3lfZ2M1UkZkNGd3ZVltUU0zaGVEekZFV1BQN2w4LWJaRF9tWmVNdHd4VjZUMEhZSWliMlp2cTVxWDNUQmlrT2NuYVliNkxmS1ptWWJwcDFJZmxTam1va3NZQWg3eFJYNFFnQkhwcm52SHpZVjBocU1uOElBS0hSTW9TNjNjTTA3OG5rVElsWURBWWc?oc=5) |
 | 2026-06-17 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTNocmJZR0hhYS1YMHdrZVB4SEluYjR6TW1QM1FkTDNYbmFyQ0dwZ1RBN3FoazRxdm84RVhjejdtS3FIREVWS2ZidHZYTktwOEpNOGhhOUxqZ0dZQWlRazhUaEhNZnZZVldILXBFOFlwUHBOVFUwblhnWWZZaGVVWTBoU2JVelluY0J2TWJsNA?oc=5) |
 | 2026-06-16 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tYllveVV4SW03M0J5bVp5akswd1VfR2tyOGNhbUgxbU54LS1NT2Q1am5kRVVzcHJpSzd3QlMzblZVWmVFcVJyWk41ODU1ZEVoSXdoYWIydXVoS3RqaWRwRTJCZndRNnM?oc=5) |
-| 2026-06-10 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiN3N1UVVaWFRFcjBodGtYV0xBQXM1bzRGT0tLeV9YcXk0RC1MakJadi1xbnJKNWRNZUw3NHYyclpnc0daMGVsR1pwaHNjQWEzdFQxUzRjYw?oc=5) |
+| 2026-06-10 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RWmRNLXNFMTJ0V0VFVEtoYnA5NTdMcXZaMS1ud2RRaUNIRk1BbFB4QnF6eGFoY0FUVEY2bm9QOTdleUtVbzc0eWRqR21IaE5xUXl0eW1MWQ?oc=5) |
 | 2026-06-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hLU04d3VwTUxreHA5bVNWS3B4dmZaMzRsdUFGZEJwYTNrTXJtZl8xZ2RpZTA1MWxzYkxndWpfZEI4bk1PbXZYR3hMcXhHNUpvLVZnaUlRUGFTa3FNSXBrS0hn?oc=5) |
 | 2026-06-05 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlI3N21DSmpVdVhOSUFjcmE2ZlpkNlBTendxb0VjZ3hIMW4wUVlYZU9tdko5RFR5U3lFbkxmd256VmljWXpMc29zYzd5YXhWcU1ESEo2VXZQaFFPbHBjNEFDLTFXalRtVjdhbzUwQ1BUaW9rRlpONGRLMUpsbHY2R1ZtNFdrNnNZYTV1MlBZbG0xbmNtNW40T2xyUkpHekZOLXBYQVM1LU5hM055UVRWdzlvQQ?oc=5) |
 | 2026-06-04 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUktbnBaOVZBZTJOSU1GVkU4Zl9aQU96RE9FSHY3MGpfQ2xFem5aQmNSeXVpZ0FscmdVWHREei1rNUYtQnV1aUxJRFBzSGZ1MDEzMExnNkdaODZwbkJIVU5xaHZpYkx3N0lYVzhtcGRhdk1rZEM2NGlXQXVBb1Nlb05rckVUN0lUSlBPdlZLallSQUtqZi1SYVdHLWo5VTNDS1FEMEVtdHlBM0YxV19FZGhWYw?oc=5) |
