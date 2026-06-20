@@ -1,5 +1,14 @@
 [
   {
+    "model": "L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_base",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_base",
+    "date": "2026-06-20",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "mario-d-robot/QIE-2511-Studio-DeLight",
     "downloads": 0,
     "likes": 0,
@@ -81,6 +90,24 @@
     "score": 0.1
   },
   {
+    "model": "kamada-riku/vla_jepa_so101_pick_toy_v6_3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v6_3",
+    "date": "2026-06-20",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vladusha/Gosha",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladusha/Gosha",
+    "date": "2026-06-20",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "anikitakis/vla_so101_pick_n_place_full_expert",
     "downloads": 617,
     "likes": 0,
@@ -144,19 +171,19 @@
     "score": 0.1
   },
   {
-    "model": "vbassagoda/sock_act_policy",
+    "model": "ohdoking/spoon_record_test_2_policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/vbassagoda/sock_act_policy",
+    "url": "https://huggingface.co/ohdoking/spoon_record_test_2_policy",
     "date": "2026-06-20",
     "keyword": "policy",
     "score": 0.1
   },
   {
-    "model": "ohdoking/spoon_record_test_2_policy",
+    "model": "vbassagoda/sock_act_policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/ohdoking/spoon_record_test_2_policy",
+    "url": "https://huggingface.co/vbassagoda/sock_act_policy",
     "date": "2026-06-20",
     "keyword": "policy",
     "score": 0.1
@@ -198,15 +225,6 @@
     "score": 0.1
   },
   {
-    "model": "qualia-robotics/act-pusht-book-v2-0509a6f0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/act-pusht-book-v2-0509a6f0",
-    "date": "2026-06-19",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "noah3756/ta_vla_force_frozen_vlm",
     "downloads": 0,
     "likes": 0,
@@ -241,24 +259,6 @@
     "date": "2026-06-19",
     "keyword": "vla",
     "score": 12.4
-  },
-  {
-    "model": "quiet-storm/univla-bridge-lam-stage2-vla50k-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/quiet-storm/univla-bridge-lam-stage2-vla50k-checkpoints",
-    "date": "2026-06-19",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Berni87/vlajepa_fold_tissue_v14",
-    "downloads": 29,
-    "likes": 0,
-    "url": "https://huggingface.co/Berni87/vlajepa_fold_tissue_v14",
-    "date": "2026-06-19",
-    "keyword": "vla",
-    "score": 8.8
   },
   {
     "model": "NU-World-Model-Embodied-AI/ActQuant-Pi05-LIBERO-3.5bpw",
@@ -331,6 +331,15 @@
     "date": "2026-06-19",
     "keyword": "policy",
     "score": 8.8
+  },
+  {
+    "model": "qualia-robotics/act-pusht-book-v2-0509a6f0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/qualia-robotics/act-pusht-book-v2-0509a6f0",
+    "date": "2026-06-19",
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "EmotionSprout/embodied-cognition",
@@ -448,15 +457,6 @@
     "date": "2026-06-15",
     "keyword": "robotics",
     "score": 2.5
-  },
-  {
-    "model": "qualia-robotics/act-makermods-openbooth-pick-cube-9d5c0f0c",
-    "downloads": 30,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/act-makermods-openbooth-pick-cube-9d5c0f0c",
-    "date": "2026-06-15",
-    "keyword": "robotics",
-    "score": 9.1
   },
   {
     "model": "IffYuan/Embodied-R1.5",
