@@ -1,5 +1,55 @@
 [
   {
+    "repo": "commaai/openpilot",
+    "stars": 61452,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-06-20",
+    "topic": "robotics",
+    "score": 24580.9
+  },
+  {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15324,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-06-20",
+    "topic": "robotics",
+    "score": 6129.7
+  },
+  {
+    "repo": "sou350121/VLA-Handbook",
+    "stars": 307,
+    "language": "HTML",
+    "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
+    "url": "https://github.com/sou350121/VLA-Handbook",
+    "date": "2026-06-20",
+    "topic": "robot-learning",
+    "score": 122.9
+  },
+  {
+    "repo": "vllm-project/vllm-omni",
+    "stars": 5212,
+    "language": "Python",
+    "description": "A framework for efficient model inference with omni-modality models",
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "date": "2026-06-20",
+    "topic": "world-model",
+    "score": 2084.9
+  },
+  {
+    "repo": "strands-labs/robots",
+    "stars": 68,
+    "language": "Python",
+    "description": "Control robots and physical hardware with natural language through Strands Agents.",
+    "url": "https://github.com/strands-labs/robots",
+    "date": "2026-06-20",
+    "topic": "lerobot",
+    "score": 27.3
+  },
+  {
     "repo": "Edgenesis/shifu",
     "stars": 1420,
     "language": "Go",
@@ -58,26 +108,6 @@
     "date": "2026-06-19",
     "topic": "lerobot",
     "score": 56.5
-  },
-  {
-    "repo": "commaai/openpilot",
-    "stars": 61452,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-06-19",
-    "topic": "robotics",
-    "score": 24580.9
-  },
-  {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15324,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-06-19",
-    "topic": "robotics",
-    "score": 6129.7
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -170,16 +200,6 @@
     "score": 132.9
   },
   {
-    "repo": "sou350121/VLA-Handbook",
-    "stars": 307,
-    "language": "HTML",
-    "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
-    "url": "https://github.com/sou350121/VLA-Handbook",
-    "date": "2026-06-19",
-    "topic": "robot-learning",
-    "score": 122.9
-  },
-  {
     "repo": "baidu-baige/LoongForge",
     "stars": 285,
     "language": "Python",
@@ -188,16 +208,6 @@
     "date": "2026-06-19",
     "topic": "vla",
     "score": 114.1
-  },
-  {
-    "repo": "vllm-project/vllm-omni",
-    "stars": 5211,
-    "language": "Python",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "url": "https://github.com/vllm-project/vllm-omni",
-    "date": "2026-06-19",
-    "topic": "world-model",
-    "score": 2084.5
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -230,16 +240,6 @@
     "score": 72.5
   },
   {
-    "repo": "strands-labs/robots",
-    "stars": 68,
-    "language": "Python",
-    "description": "Control robots and physical hardware with natural language through Strands Agents.",
-    "url": "https://github.com/strands-labs/robots",
-    "date": "2026-06-19",
-    "topic": "lerobot",
-    "score": 27.3
-  },
-  {
     "repo": "copper-project/copper-rs",
     "stars": 1363,
     "language": "Rust",
@@ -261,13 +261,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 81862,
+    "stars": 81861,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-06-18",
     "topic": "robotics",
-    "score": 32744.9
+    "score": 32744.5
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -301,13 +301,13 @@
   },
   {
     "repo": "leofan90/Awesome-World-Models",
-    "stars": 1807,
+    "stars": 1808,
     "language": "Python",
     "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
     "url": "https://github.com/leofan90/Awesome-World-Models",
     "date": "2026-06-18",
     "topic": "world-model",
-    "score": 722.9
+    "score": 723.3
   },
   {
     "repo": "starVLA/starVLA",
@@ -341,13 +341,13 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 1893,
+    "stars": 1894,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-06-18",
     "topic": "world-model",
-    "score": 757.3
+    "score": 757.7
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -491,13 +491,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 29815,
+    "stars": 29816,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-06-15",
     "topic": "robotics",
-    "score": 11926.1
+    "score": 11926.5
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -518,6 +518,16 @@
     "date": "2026-06-15",
     "topic": "embodied-ai",
     "score": 727.3
+  },
+  {
+    "repo": "ez945y/DAM",
+    "stars": 6,
+    "language": "Python",
+    "description": "",
+    "url": "https://github.com/ez945y/DAM",
+    "date": "2026-06-15",
+    "topic": "lerobot",
+    "score": 2.5
   },
   {
     "repo": "wadeKeith/Awesome-Embodied-AI",
@@ -601,13 +611,13 @@
   },
   {
     "repo": "Robbyant/lingbot-vla",
-    "stars": 1477,
+    "stars": 1478,
     "language": "Python",
     "description": "A Pragmatic VLA Foundation Model",
     "url": "https://github.com/Robbyant/lingbot-vla",
     "date": "2026-06-11",
     "topic": "vla",
-    "score": 590.9
+    "score": 591.3
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -721,13 +731,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 1391,
+    "stars": 1395,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-05",
     "topic": "robot-learning",
-    "score": 556.5
+    "score": 558.1
   },
   {
     "repo": "NVIDIA-Omniverse/ovrtx",
@@ -821,13 +831,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44122,
+    "stars": 44121,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-05-22",
     "topic": "robotics",
-    "score": 17648.9
+    "score": 17648.5
   },
   {
     "repo": "HansZ8/RoboJuDo",
@@ -848,15 +858,5 @@
     "date": "2026-05-22",
     "topic": "lerobot",
     "score": 8.1
-  },
-  {
-    "repo": "jackvial/lerobot-data-studio",
-    "stars": 55,
-    "language": "TypeScript",
-    "description": "LeRobot Data Studio - Unofficial LeRobot Dataset Editor",
-    "url": "https://github.com/jackvial/lerobot-data-studio",
-    "date": "2026-05-20",
-    "topic": "lerobot",
-    "score": 22.1
   }
 ]
