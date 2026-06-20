@@ -21,33 +21,33 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 61459,
+    "stars": 61467,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-06-20",
     "topic": "robotics",
-    "score": 24583.7
+    "score": 24586.9
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15324,
+    "stars": 15325,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-06-20",
     "topic": "robotics",
-    "score": 6129.7
+    "score": 6130.1
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7487,
+    "stars": 7488,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-06-20",
     "topic": "robot-learning",
-    "score": 2994.9
+    "score": 2995.3
   },
   {
     "repo": "dora-rs/dora",
@@ -58,6 +58,26 @@
     "date": "2026-06-20",
     "topic": "embodied-ai",
     "score": 1516.1
+  },
+  {
+    "repo": "knightnemo/Awesome-World-Models",
+    "stars": 3036,
+    "language": "",
+    "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
+    "url": "https://github.com/knightnemo/Awesome-World-Models",
+    "date": "2026-06-20",
+    "topic": "embodied-ai",
+    "score": 1214.5
+  },
+  {
+    "repo": "flashrt-project/FlashRT",
+    "stars": 361,
+    "language": "C++",
+    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
+    "url": "https://github.com/flashrt-project/FlashRT",
+    "date": "2026-06-20",
+    "topic": "vla",
+    "score": 144.5
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -71,13 +91,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5214,
+    "stars": 5216,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-06-20",
     "topic": "world-model",
-    "score": 2085.7
+    "score": 2086.5
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -141,13 +161,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 13921,
+    "stars": 13923,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-06-19",
     "topic": "robotics",
-    "score": 5568.5
+    "score": 5569.3
   },
   {
     "repo": "DLR-RM/stable-baselines3",
@@ -171,13 +191,13 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 10968,
+    "stars": 10967,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-06-19",
     "topic": "robotics",
-    "score": 4387.3
+    "score": 4386.9
   },
   {
     "repo": "StanfordVL/BEHAVIOR-1K",
@@ -188,16 +208,6 @@
     "date": "2026-06-19",
     "topic": "embodied-ai",
     "score": 611.7
-  },
-  {
-    "repo": "flashrt-project/FlashRT",
-    "stars": 361,
-    "language": "C++",
-    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
-    "url": "https://github.com/flashrt-project/FlashRT",
-    "date": "2026-06-19",
-    "topic": "vla",
-    "score": 144.5
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -261,13 +271,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 81862,
+    "stars": 81865,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-06-18",
     "topic": "robotics",
-    "score": 32744.9
+    "score": 32746.1
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -281,13 +291,13 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 3841,
+    "stars": 3843,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-06-18",
     "topic": "embodied-ai",
-    "score": 1536.5
+    "score": 1537.3
   },
   {
     "repo": "mani-skill/ManiSkill",
@@ -301,13 +311,13 @@
   },
   {
     "repo": "leofan90/Awesome-World-Models",
-    "stars": 1809,
+    "stars": 1810,
     "language": "Python",
     "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
     "url": "https://github.com/leofan90/Awesome-World-Models",
     "date": "2026-06-18",
     "topic": "world-model",
-    "score": 723.7
+    "score": 724.1
   },
   {
     "repo": "starVLA/starVLA",
@@ -491,13 +501,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 29819,
+    "stars": 29822,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-06-15",
     "topic": "robotics",
-    "score": 11927.7
+    "score": 11928.9
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -568,16 +578,6 @@
     "date": "2026-06-13",
     "topic": "lerobot",
     "score": 2.9
-  },
-  {
-    "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3035,
-    "language": "",
-    "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
-    "url": "https://github.com/knightnemo/Awesome-World-Models",
-    "date": "2026-06-12",
-    "topic": "embodied-ai",
-    "score": 1214.1
   },
   {
     "repo": "vikashplus/robohive",
@@ -731,23 +731,23 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 1408,
+    "stars": 1410,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-05",
     "topic": "robot-learning",
-    "score": 563.3
+    "score": 564.1
   },
   {
     "repo": "NVIDIA-Omniverse/ovrtx",
-    "stars": 160,
+    "stars": 161,
     "language": "Python",
     "description": "A C and Python library for physically accurate, real-time, sensor simulation and visualization using NVIDIA Omniverse RTX",
     "url": "https://github.com/NVIDIA-Omniverse/ovrtx",
     "date": "2026-06-04",
     "topic": "physical-ai",
-    "score": 64.1
+    "score": 64.5
   },
   {
     "repo": "OpenDriveLab/RISE",
@@ -801,13 +801,13 @@
   },
   {
     "repo": "Tencent-Hunyuan/HunyuanWorld-Mirror",
-    "stars": 1141,
+    "stars": 1140,
     "language": "Python",
     "description": "[ICML 2026] WorldMirror: Fast and Universal 3D reconstruction model for versatile tasks",
     "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror",
     "date": "2026-05-27",
     "topic": "world-model",
-    "score": 456.5
+    "score": 456.1
   },
   {
     "repo": "NVlabs/ProtoMotions",
@@ -831,13 +831,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44122,
+    "stars": 44123,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-05-22",
     "topic": "robotics",
-    "score": 17648.9
+    "score": 17649.3
   },
   {
     "repo": "HansZ8/RoboJuDo",
