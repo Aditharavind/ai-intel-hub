@@ -1,5 +1,41 @@
 [
   {
+    "model": "mario-d-robot/QIE-2511-Studio-DeLight",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mario-d-robot/QIE-2511-Studio-DeLight",
+    "date": "2026-06-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "mario-d-robot/QIE-2511-MP-AnyLight",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mario-d-robot/QIE-2511-MP-AnyLight",
+    "date": "2026-06-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "mario-d-robot/Qwen-Image-Edit-2511-Unblur-Upscale",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mario-d-robot/Qwen-Image-Edit-2511-Unblur-Upscale",
+    "date": "2026-06-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "mario-d-robot/Qwen-Image-Edit-Rapid-AIO-V19",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mario-d-robot/Qwen-Image-Edit-Rapid-AIO-V19",
+    "date": "2026-06-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "Dust-Robotics/act-tealight_wicking_rebotb601-v2",
     "downloads": 0,
     "likes": 0,
@@ -43,6 +79,15 @@
     "date": "2026-06-20",
     "keyword": "robot",
     "score": 0.1
+  },
+  {
+    "model": "anikitakis/vla_so101_pick_n_place_full_expert",
+    "downloads": 617,
+    "likes": 0,
+    "url": "https://huggingface.co/anikitakis/vla_so101_pick_n_place_full_expert",
+    "date": "2026-06-20",
+    "keyword": "vla",
+    "score": 185.2
   },
   {
     "model": "siyuhsu/vlajepa-libero-ckpt",
@@ -99,6 +144,24 @@
     "score": 0.1
   },
   {
+    "model": "vbassagoda/sock_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vbassagoda/sock_act_policy",
+    "date": "2026-06-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ohdoking/spoon_record_test_2_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ohdoking/spoon_record_test_2_policy",
+    "date": "2026-06-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "yuvalgot/towel_folding2006_diffusion_policy",
     "downloads": 0,
     "likes": 0,
@@ -142,51 +205,6 @@
     "date": "2026-06-19",
     "keyword": "robotics",
     "score": 0.1
-  },
-  {
-    "model": "kunhsiang/edu-robot-fbagent-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kunhsiang/edu-robot-fbagent-checkpoints",
-    "date": "2026-06-19",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "yuyangalin/ImageWAM-FLUX.2-4B-RoboTwin",
-    "downloads": 5,
-    "likes": 0,
-    "url": "https://huggingface.co/yuyangalin/ImageWAM-FLUX.2-4B-RoboTwin",
-    "date": "2026-06-19",
-    "keyword": "robot",
-    "score": 1.6
-  },
-  {
-    "model": "robotneu/cs_wk_understanding_refactor_obj_2_3_hard_refactor",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/robotneu/cs_wk_understanding_refactor_obj_2_3_hard_refactor",
-    "date": "2026-06-19",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0_vid1",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0_vid1",
-    "date": "2026-06-19",
-    "keyword": "robot",
-    "score": 4.9
-  },
-  {
-    "model": "anikitakis/vla_so101_pick_n_place_full_expert",
-    "downloads": 617,
-    "likes": 0,
-    "url": "https://huggingface.co/anikitakis/vla_so101_pick_n_place_full_expert",
-    "date": "2026-06-19",
-    "keyword": "vla",
-    "score": 185.2
   },
   {
     "model": "noah3756/ta_vla_force_frozen_vlm",
@@ -349,24 +367,6 @@
     "date": "2026-06-18",
     "keyword": "policy",
     "score": 7.9
-  },
-  {
-    "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos1_policy0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos1_policy0",
-    "date": "2026-06-18",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "shutingfan/act-hairclip-policy",
-    "downloads": 1,
-    "likes": 0,
-    "url": "https://huggingface.co/shutingfan/act-hairclip-policy",
-    "date": "2026-06-18",
-    "keyword": "policy",
-    "score": 0.4
   },
   {
     "model": "puppet-robotics/golf-model-eval",
