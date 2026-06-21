@@ -1,5 +1,23 @@
 [
   {
+    "model": "L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_v1",
+    "date": "2026-06-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "wzxbcml/so101-vla-model",
+    "downloads": 2,
+    "likes": 0,
+    "url": "https://huggingface.co/wzxbcml/so101-vla-model",
+    "date": "2026-06-21",
+    "keyword": "vla",
+    "score": 0.7
+  },
+  {
     "model": "zwan1003/pickplace_vla_model",
     "downloads": 0,
     "likes": 0,
@@ -7,6 +25,33 @@
     "date": "2026-06-21",
     "keyword": "vla",
     "score": 0.1
+  },
+  {
+    "model": "INCEPTIONwang/PolicyTrim",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/INCEPTIONwang/PolicyTrim",
+    "date": "2026-06-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Pekkapuuma/diffusion_policy_libero_extended_language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Pekkapuuma/diffusion_policy_libero_extended_language",
+    "date": "2026-06-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Wayer2/policy-test",
+    "downloads": 12,
+    "likes": 0,
+    "url": "https://huggingface.co/Wayer2/policy-test",
+    "date": "2026-06-21",
+    "keyword": "policy",
+    "score": 3.7
   },
   {
     "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos3_policy0",
@@ -261,15 +306,6 @@
     "score": 0.1
   },
   {
-    "model": "leehe228/dynin-robotics-libero-all-60k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/leehe228/dynin-robotics-libero-all-60k",
-    "date": "2026-06-19",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "noah3756/ta_vla_force_frozen_vlm",
     "downloads": 0,
     "likes": 0,
@@ -286,15 +322,6 @@
     "date": "2026-06-19",
     "keyword": "vla",
     "score": 2.2
-  },
-  {
-    "model": "wzxbcml/so101-vla-model",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/wzxbcml/so101-vla-model",
-    "date": "2026-06-19",
-    "keyword": "vla",
-    "score": 0.7
   },
   {
     "model": "NU-World-Model-Embodied-AI/ActQuant-Pi05-LIBERO-3.5bpw",
@@ -333,31 +360,13 @@
     "score": 0.1
   },
   {
-    "model": "TachyQaQ/so101_act_policy",
-    "downloads": 137,
+    "model": "leehe228/dynin-robotics-libero-all-60k",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/TachyQaQ/so101_act_policy",
+    "url": "https://huggingface.co/leehe228/dynin-robotics-libero-all-60k",
     "date": "2026-06-19",
-    "keyword": "policy",
-    "score": 41.2
-  },
-  {
-    "model": "Wayer2/policy-test",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/Wayer2/policy-test",
-    "date": "2026-06-19",
-    "keyword": "policy",
-    "score": 3.7
-  },
-  {
-    "model": "balveersingh/act_policy_so101_teleop_vials_50k",
-    "downloads": 44,
-    "likes": 0,
-    "url": "https://huggingface.co/balveersingh/act_policy_so101_teleop_vials_50k",
-    "date": "2026-06-19",
-    "keyword": "policy",
-    "score": 13.3
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "qualia-robotics/act-pusht-book-v2-0509a6f0",
@@ -439,15 +448,6 @@
     "date": "2026-06-15",
     "keyword": "physical ai",
     "score": 36.1
-  },
-  {
-    "model": "L7-Robotics/pi05_conveyor_dynamic",
-    "downloads": 28,
-    "likes": 0,
-    "url": "https://huggingface.co/L7-Robotics/pi05_conveyor_dynamic",
-    "date": "2026-06-15",
-    "keyword": "robotics",
-    "score": 8.5
   },
   {
     "model": "IffYuan/Embodied-R1.5",
