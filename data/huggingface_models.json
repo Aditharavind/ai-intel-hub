@@ -1,5 +1,68 @@
 [
   {
+    "model": "YinonDouchan/smolvla_mobile_robot_lift_dummy_task",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_dummy_task",
+    "date": "2026-06-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "robotneu/composite_ability_pfc_2_3_hard",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotneu/composite_ability_pfc_2_3_hard",
+    "date": "2026-06-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "robotneu/visual_perception_pfc_2_3_hard",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotneu/visual_perception_pfc_2_3_hard",
+    "date": "2026-06-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "robotneu/common_understanding_pfc_2_3_hard",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotneu/common_understanding_pfc_2_3_hard",
+    "date": "2026-06-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "robotneu/spatial_reasoning_pfc_2_3_hard",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotneu/spatial_reasoning_pfc_2_3_hard",
+    "date": "2026-06-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "robotneu/semantic_understanding_pfc_2_3_hard",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotneu/semantic_understanding_pfc_2_3_hard",
+    "date": "2026-06-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "robotneu/action_reasoning_pfc_2_3_hard",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotneu/action_reasoning_pfc_2_3_hard",
+    "date": "2026-06-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "Robotferret87/Qwen3.6-27B-Q4_K_M-GGUF",
     "downloads": 0,
     "likes": 0,
@@ -15,6 +78,15 @@
     "url": "https://huggingface.co/tejavadlamudi03/norma-robot-checkpoints",
     "date": "2026-06-21",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Angel-AV/angel-vlahov-sentiment-distilroberta",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Angel-AV/angel-vlahov-sentiment-distilroberta",
+    "date": "2026-06-21",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -63,6 +135,69 @@
     "score": 0.1
   },
   {
+    "model": "SaFD-00/qwen2.5-vl-7b-ac-exp03-world-model-stage1-lora-epoch3-stage2-lora-epoch3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-7b-ac-exp03-world-model-stage1-lora-epoch3-stage2-lora-epoch3",
+    "date": "2026-06-21",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "SaFD-00/qwen3-vl-8b-ac-exp03-world-model-stage1-lora-epoch3-stage2-lora-epoch3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen3-vl-8b-ac-exp03-world-model-stage1-lora-epoch3-stage2-lora-epoch3",
+    "date": "2026-06-21",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "INCEPTIONwang/PolicyTrim",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/INCEPTIONwang/PolicyTrim",
+    "date": "2026-06-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "gyeongwk/Math-On-policy-Reinforce-Baseline-Qwen3-1.7B-step-500",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gyeongwk/Math-On-policy-Reinforce-Baseline-Qwen3-1.7B-step-500",
+    "date": "2026-06-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-1800",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-1800",
+    "date": "2026-06-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "gyeongwk/Math-On-policy-PosNeg-Qwen3-1.7B-step-1800",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gyeongwk/Math-On-policy-PosNeg-Qwen3-1.7B-step-1800",
+    "date": "2026-06-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "gyeongwk/Math-On-policy-SFT-Qwen3-1.7B-step-1200",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gyeongwk/Math-On-policy-SFT-Qwen3-1.7B-step-1200",
+    "date": "2026-06-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "doganay-sirintuna/smolvla_policy_pickandplace_scotchtape",
     "downloads": 0,
     "likes": 0,
@@ -76,15 +211,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/thunderball05/my_policy_02",
-    "date": "2026-06-21",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "INCEPTIONwang/PolicyTrim",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/INCEPTIONwang/PolicyTrim",
     "date": "2026-06-21",
     "keyword": "policy",
     "score": 0.1
@@ -162,42 +288,6 @@
     "score": 0.1
   },
   {
-    "model": "mario-d-robot/Qwen-Image-Edit-Rapid-AIO-V19",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mario-d-robot/Qwen-Image-Edit-Rapid-AIO-V19",
-    "date": "2026-06-20",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Dust-Robotics/act-tealight_wicking_rebotb601-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Dust-Robotics/act-tealight_wicking_rebotb601-v2",
-    "date": "2026-06-20",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "robotneu/composite_ability_refactor_obj_2_3_hard_refactor",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/robotneu/composite_ability_refactor_obj_2_3_hard_refactor",
-    "date": "2026-06-20",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "LuEduSoHu/robot_learning_tutorial_diffusion_0619_1723",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/LuEduSoHu/robot_learning_tutorial_diffusion_0619_1723",
-    "date": "2026-06-20",
-    "keyword": "robot",
-    "score": 5.2
-  },
-  {
     "model": "kamada-riku/vla_jepa_so101_pick_toy_v6_3",
     "downloads": 0,
     "likes": 0,
@@ -252,85 +342,13 @@
     "score": 0.1
   },
   {
-    "model": "bhe1004/FIRe-VLA-GR00T-PegInsert-Real",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/bhe1004/FIRe-VLA-GR00T-PegInsert-Real",
-    "date": "2026-06-20",
-    "keyword": "vla",
-    "score": 4.0
-  },
-  {
-    "model": "SaFD-00/qwen3-vl-8b-ac-exp03-world-model-stage1-lora-epoch3-stage2-lora-epoch3",
+    "model": "Dust-Robotics/act-tealight_wicking_rebotb601-v2",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen3-vl-8b-ac-exp03-world-model-stage1-lora-epoch3-stage2-lora-epoch3",
+    "url": "https://huggingface.co/Dust-Robotics/act-tealight_wicking_rebotb601-v2",
     "date": "2026-06-20",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "andrii4k/act_bayonett_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/andrii4k/act_bayonett_policy",
-    "date": "2026-06-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ohdoking/spoon_record_test_2_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ohdoking/spoon_record_test_2_policy",
-    "date": "2026-06-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "vbassagoda/sock_act_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vbassagoda/sock_act_policy",
-    "date": "2026-06-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "yuvalgot/towel_folding2006_diffusion_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/yuvalgot/towel_folding2006_diffusion_policy",
-    "date": "2026-06-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "leehe228/dynin-robotics-libero-all-60k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/leehe228/dynin-robotics-libero-all-60k",
-    "date": "2026-06-19",
     "keyword": "robotics",
     "score": 0.1
-  },
-  {
-    "model": "OpenRAL/rskill-smolvla-robotwin",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenRAL/rskill-smolvla-robotwin",
-    "date": "2026-06-19",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "qualia-robotics/act-pusht-book-v2-0509a6f0",
-    "downloads": 33,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/act-pusht-book-v2-0509a6f0",
-    "date": "2026-06-19",
-    "keyword": "robotics",
-    "score": 10.0
   },
   {
     "model": "NU-World-Model-Embodied-AI/ActQuant-Pi05-LIBERO-3.5bpw",
@@ -358,6 +376,24 @@
     "date": "2026-06-19",
     "keyword": "embodied",
     "score": 4.0
+  },
+  {
+    "model": "leehe228/dynin-robotics-libero-all-60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/leehe228/dynin-robotics-libero-all-60k",
+    "date": "2026-06-19",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "qualia-robotics/act-pusht-book-v2-0509a6f0",
+    "downloads": 33,
+    "likes": 0,
+    "url": "https://huggingface.co/qualia-robotics/act-pusht-book-v2-0509a6f0",
+    "date": "2026-06-19",
+    "keyword": "robotics",
+    "score": 10.0
   },
   {
     "model": "EmotionSprout/embodied-cognition",
@@ -673,15 +709,6 @@
     "date": "2026-06-06",
     "keyword": "world model",
     "score": 10.9
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-7b-ac-exp01-ratio73-world-model-stage1-lora-epoch1",
-    "downloads": 29,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-7b-ac-exp01-ratio73-world-model-stage1-lora-epoch1",
-    "date": "2026-06-06",
-    "keyword": "world model",
-    "score": 8.8
   },
   {
     "model": "NU-World-Model-Embodied-AI/FlashWAM-RoboTwin",
