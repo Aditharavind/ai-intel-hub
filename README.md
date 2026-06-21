@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-21 10:57 UTC
+Last Updated: 2026-06-21 13:02 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -33,6 +33,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-21 | Güdel to show grinding beyond stationary robots with vertical, horizontal motion at Automate 2026 | Robotics Business Review | [link](https://www.therobotreport.com/gudel-to-showcase-grinding-beyond-stationary-robots-integrated-vertical-horizontal-motion-automate/) |
 | 2026-06-20 | Defense manufacturing readiness hinges on autonomous finishing, says GrayMatter Robotics | Robotics Business Review | [link](https://www.therobotreport.com/defense-manufacturing-readiness-hinges-autonomous-surface-prep-says-graymatter/) |
 | 2026-06-19 | What Amazon’s Astro Taught Me About Giving Robots a Soul | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/amazon-astro-robot-sound) |
 | 2026-06-19 | U.S. robotics industry saw double-digit growth in 2025, says IFR | Robotics Business Review | [link](https://www.therobotreport.com/u-s-robotics-industry-saw-double-digit-growth-in-2025-says-ifr/) |
@@ -42,21 +43,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-18 | Kinova launches KIMA medical robotic arm | Robotics Business Review | [link](https://www.therobotreport.com/kinova-launches-kima-medical-robotic-arm/) |
 | 2026-06-18 | Microbot Medical to expand veteran access to robotic surgery with LIBERTY | Robotics Business Review | [link](https://www.therobotreport.com/microbot-medical-expands-veteran-access-robotic-surgery-liberty/) |
 | 2026-06-18 | Richtech Robotics launches livestream for ADAM AI-powered humanoid | Robotics Business Review | [link](https://www.therobotreport.com/richtech-robotics-launches-livestream-adam-ai-powered-humanoid/) |
-| 2026-06-17 | The Secret to Marathon-Winning Humanoid Robots | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/china-humanoid-robot-marathon) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-21 | Blender 5.2: Coming Soon With Improved Simulations | Hackaday | [link](https://hackaday.com/2026/06/21/blender-5-2-coming-soon-with-improved-simulations/) |
 | 2026-06-21 | How to Bias a CRT After Installation | Hackaday | [link](https://hackaday.com/2026/06/21/how-to-bias-a-crt-after-installation/) |
 | 2026-06-21 | Bernoulli Disk Goes “Wii!” When Plugged Into WiiU | Hackaday | [link](https://hackaday.com/2026/06/20/bernoulli-disk-goes-wii-when-plugged-into-wiiu/) |
 | 2026-06-21 | Autopsy of a Freshly Cooked 10Gbit SFP+ Network Adapter | Hackaday | [link](https://hackaday.com/2026/06/20/autopsy-of-a-freshly-cooked-10gbit-sfp-network-adapter/) |
+| 2026-06-21 | SpacemiT K3 Pico-ITX RISC-V Chassis Kit Review – Part 2: What works, what doesn’t in Bianbu OS 4.0 | CNX Software | [link](https://www.cnx-software.com/2026/06/21/spacemit-k3-pico-itx-risc-v-chassis-kit-review-part-2-what-works-what-doesnt-in-bianbu-os-4-0/) |
 | 2026-06-21 | Adafruit New Products this Week | Adafruit | [link](https://blog.adafruit.com/2026/06/20/adafruit-new-products-this-week-2/) |
 | 2026-06-20 | Defeat Blood-Sucking Mosquitoes by Becoming the Bug Zapper | Hackaday | [link](https://hackaday.com/2026/06/20/defeat-blood-sucking-mosquitoes-by-becoming-the-bug-zapper/) |
 | 2026-06-20 | Seeing the World in Radio Waves with the QuadRF | Hackaday | [link](https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/) |
 | 2026-06-20 | Tricking a Bike Counter | Hackaday | [link](https://hackaday.com/2026/06/20/tricking-a-bike-counter/) |
-| 2026-06-20 | Home Automation: Simple vs Easy | Hackaday | [link](https://hackaday.com/2026/06/20/home-automation-simple-vs-easy/) |
 | 2026-06-20 | Pine64 Pinevoice – A $50 RISC-V Smart Speaker for Home Assistant based on Bouffalo Lab BL606P MCU | CNX Software | [link](https://www.cnx-software.com/2026/06/20/pine64-pinevoice-a-50-risc-v-smart-speaker-for-home-assistant-based-on-bouffalo-lab-bl606p-mcu/) |
-| 2026-06-19 | Rotary Mouse puts a rotary wheel into a standard desktop mouse (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/06/19/rotary-mouse-puts-a-rotary-wheel-into-a-standard-desktop-mouse/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-06-21 | Robotferret87/Qwen3.6-27B-Q4_K_M-GGUF | 0 | 0 | [link](https://huggingface.co/Robotferret87/Qwen3.6-27B-Q4_K_M-GGUF) |
 | 2026-06-21 | tejavadlamudi03/norma-robot-checkpoints | 0 | 0 | [link](https://huggingface.co/tejavadlamudi03/norma-robot-checkpoints) |
+| 2026-06-21 | EmpathicRobotics/vla-1.7b-pab-spline-adaptive | 0 | 0 | [link](https://huggingface.co/EmpathicRobotics/vla-1.7b-pab-spline-adaptive) |
 | 2026-06-21 | bottledsmoke/transformer-vla-checkpoints | 0 | 0 | [link](https://huggingface.co/bottledsmoke/transformer-vla-checkpoints) |
 | 2026-06-21 | EmpathicRobotics/tokenizer-vla-adaptive | 0 | 0 | [link](https://huggingface.co/EmpathicRobotics/tokenizer-vla-adaptive) |
 | 2026-06-21 | wzxbcml/so101-vla-model | 16 | 0 | [link](https://huggingface.co/wzxbcml/so101-vla-model) |
@@ -84,21 +85,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-21 | doganay-sirintuna/smolvla_policy_pickandplace_scotchtape | 0 | 0 | [link](https://huggingface.co/doganay-sirintuna/smolvla_policy_pickandplace_scotchtape) |
 | 2026-06-21 | thunderball05/my_policy_02 | 0 | 0 | [link](https://huggingface.co/thunderball05/my_policy_02) |
 | 2026-06-21 | INCEPTIONwang/PolicyTrim | 0 | 0 | [link](https://huggingface.co/INCEPTIONwang/PolicyTrim) |
-| 2026-06-21 | Pekkapuuma/diffusion_policy_libero_extended_language | 0 | 0 | [link](https://huggingface.co/Pekkapuuma/diffusion_policy_libero_extended_language) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | awslabs/awsome-distributed-ai | 446 | Shell | 178.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 298 | Python | 119.3 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| Developer-Y/cs-video-courses | 81881 |  | 32752.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61482 | Python | 24592.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 81880 |  | 32752.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61483 | Python | 24593.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15328 | C++ | 6131.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| kornia/kornia | 11239 | Python | 4495.7 | [link](https://github.com/kornia/kornia) |
+| kornia/kornia | 11241 | Python | 4496.5 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7496 | Python | 2998.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3790 | Rust | 1516.1 | [link](https://github.com/dora-rs/dora) |
 | mani-skill/ManiSkill | 3023 | Python | 1209.3 | [link](https://github.com/mani-skill/ManiSkill) |
-| flashrt-project/FlashRT | 361 | C++ | 144.5 | [link](https://github.com/flashrt-project/FlashRT) |
+| flashrt-project/FlashRT | 362 | C++ | 144.9 | [link](https://github.com/flashrt-project/FlashRT) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -108,11 +108,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmEtTVhCcXBoTkY0NkFqdXJDYXh1UkFvLWxWM19YR0VnVUdJdjlhYkRRd0lnekhjRnFDaUU4UG01UTI1RXk2dm5tWHZ5UVBodmJJSW01R2hKb2Vsbl94Y0hQTUJYYXBpamlROGNlMnRQVGVNZ1Nwcm5tOHRwN1NxUGRlVjZuQk0zUmdRZGp2Mkx5QnFLT1BMSmFJOVEzV2M?oc=5) |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWFSVTF3OEdYcUhhZ1NlX3lfZ2M1UkZkNGd3ZVltUU0zaGVEekZFV1BQN2w4LWJaRF9tWmVNdHd4VjZUMEhZSWliMlp2cTVxWDNUQmlrT2NuYVliNkxmS1ptWWJwcDFJZmxTam1va3NZQWg3eFJYNFFnQkhwcm52SHpZVjBocU1uOElBS0hSTW9TNjNjTTA3OG5rVElsWURBWWc?oc=5) |
 | 2026-06-16 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tYllveVV4SW03M0J5bVp5akswd1VfR2tyOGNhbUgxbU54LS1NT2Q1am5kRVVzcHJpSzd3QlMzblZVWmVFcVJyWk41ODU1ZEVoSXdoYWIydXVoS3RqaWRwRTJCZndRNnM?oc=5) |
+| 2026-06-10 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RWmRNLXNFMTJ0V0VFVEtoYnA5NTdMcXZaMS1ud2RRaUNIRk1BbFB4QnF6eGFoY0FUVEY2bm9QOTdleUtVbzc0eWRqR21IaE5xUXl0eW1MWQ?oc=5) |
 | 2026-06-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hLU04d3VwTUxreHA5bVNWS3B4dmZaMzRsdUFGZEJwYTNrTXJtZl8xZ2RpZTA1MWxzYkxndWpfZEI4bk1PbXZYR3hMcXhHNUpvLVZnaUlRUGFTa3FNSXBrS0hn?oc=5) |
 | 2026-06-05 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlI3N21DSmpVdVhOSUFjcmE2ZlpkNlBTendxb0VjZ3hIMW4wUVlYZU9tdko5RFR5U3lFbkxmd256VmljWXpMc29zYzd5YXhWcU1ESEo2VXZQaFFPbHBjNEFDLTFXalRtVjdhbzUwQ1BUaW9rRlpONGRLMUpsbHY2R1ZtNFdrNnNZYTV1MlBZbG0xbmNtNW40T2xyUkpHekZOLXBYQVM1LU5hM055UVRWdzlvQQ?oc=5) |
 | 2026-06-04 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUktbnBaOVZBZTJOSU1GVkU4Zl9aQU96RE9FSHY3MGpfQ2xFem5aQmNSeXVpZ0FscmdVWHREei1rNUYtQnV1aUxJRFBzSGZ1MDEzMExnNkdaODZwbkJIVU5xaHZpYkx3N0lYVzhtcGRhdk1rZEM2NGlXQXVBb1Nlb05rckVUN0lUSlBPdlZLallSQUtqZi1SYVdHLWo5VTNDS1FEMEVtdHlBM0YxV19FZGhWYw?oc=5) |
 | 2026-06-04 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWUUwVE5OblREN2VYZUkzTGZBM1c1MGtCdVNUaHhoOWI1V0RKc001aEN2LVZZdVBaaGNTTTVGemxLU2o3UHlNR0tCZ3p6My1iSWQ0WlljVzU1N1JFN1lpNlZWMkZVOGhZN3RVcHRENG5DeXRNMFZjem1Bc093Q2tfSks5eVJuVjNhaDE1UDZiNGdWd05yTDU0TjJhZElJMVpxY1VLZmVWUWJRTFJf?oc=5) |
-| 2026-06-03 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidEFVX3lxTFBRS01xOHlzSUFmNGZVNDFOUFFUdUxJV3dOcTZIREZ0YnpaNlNBMnN5bFM1azJhS3hwa0x6X29RaUhqY0YyUEQxLVMwUjJrSzNSTE5PVmNMZU1YaF95dGRpTVMzclZCSHc5Z1FNTHNkT0E2WGJB?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
