@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-21 07:21 UTC
+Generated: 2026-06-21 10:57 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,18 +14,18 @@ Generated: 2026-06-21 07:21 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81877 | 32750.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61480 | 24592.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44125 | 17650.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| Developer-Y/cs-video-courses | 81881 | 32752.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61482 | 24592.9 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44123 | 17649.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 29829 | 11931.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15934 | 6373.7 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| anikitakis/vla_so101_pick_n_place_full_expert | 617 | 185.2 | [link](https://huggingface.co/anikitakis/vla_so101_pick_n_place_full_expert) |
-| IffYuan/Embodied-R1.5 | 599 | 179.8 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
-| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 154 | 47.3 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
+| anikitakis/vla_so101_pick_n_place_full_expert | 776 | 232.9 | [link](https://huggingface.co/anikitakis/vla_so101_pick_n_place_full_expert) |
+| IffYuan/Embodied-R1.5 | 614 | 184.3 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
+| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 156 | 47.9 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 152 | 46.7 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
 | BrinqAI/functiongemma-270m-physical-ai | 120 | 36.1 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
 
