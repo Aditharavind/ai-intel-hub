@@ -1,5 +1,23 @@
 [
   {
+    "model": "mario-d-robot/qwen-image-edit-batch",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mario-d-robot/qwen-image-edit-batch",
+    "date": "2026-06-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Krishnav1234/neurocuda-robotics-perception-snn",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Krishnav1234/neurocuda-robotics-perception-snn",
+    "date": "2026-06-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "robotneu/visual_perception_pfc_2_3_hard",
     "downloads": 0,
     "likes": 0,
@@ -153,6 +171,33 @@
     "score": 0.1
   },
   {
+    "model": "Thgamods/ACT_Policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Thgamods/ACT_Policy",
+    "date": "2026-06-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos4_policy0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos4_policy0",
+    "date": "2026-06-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "andrii4k/smolvla_bayonett_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/andrii4k/smolvla_bayonett_policy",
+    "date": "2026-06-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "INCEPTIONwang/PolicyTrim",
     "downloads": 0,
     "likes": 0,
@@ -234,58 +279,13 @@
     "score": 5.2
   },
   {
-    "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos3_policy0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos3_policy0",
-    "date": "2026-06-21",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos2_policy0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos2_policy0",
-    "date": "2026-06-21",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "koolhere/deodorant_act_policy_v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/koolhere/deodorant_act_policy_v2",
-    "date": "2026-06-21",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "mario-d-robot/QIE-2511-Studio-DeLight",
     "downloads": 0,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/mario-d-robot/QIE-2511-Studio-DeLight",
     "date": "2026-06-20",
     "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "mario-d-robot/QIE-2511-MP-AnyLight",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mario-d-robot/QIE-2511-MP-AnyLight",
-    "date": "2026-06-20",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "mario-d-robot/Qwen-Image-Edit-2511-Unblur-Upscale",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mario-d-robot/Qwen-Image-Edit-2511-Unblur-Upscale",
-    "date": "2026-06-20",
-    "keyword": "robot",
-    "score": 0.1
+    "score": 0.3
   },
   {
     "model": "kamada-riku/vla_jepa_so101_pick_toy_v6_3",
@@ -529,15 +529,6 @@
     "date": "2026-06-14",
     "keyword": "physical ai",
     "score": 4.9
-  },
-  {
-    "model": "hcltech-robotics/cosmos3-h-surgical-simulator-alpha",
-    "downloads": 4,
-    "likes": 2,
-    "url": "https://huggingface.co/hcltech-robotics/cosmos3-h-surgical-simulator-alpha",
-    "date": "2026-06-14",
-    "keyword": "robotics",
-    "score": 1.7
   },
   {
     "model": "EmbodiedCity/Worldscape-MoE",

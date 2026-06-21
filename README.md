@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-21 19:08 UTC
+Last Updated: 2026-06-21 21:01 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -47,6 +47,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-21 | SmallRun.net Enters the Marketplace Market | Hackaday | [link](https://hackaday.com/2026/06/21/smallrun-net-enters-the-marketplace-market/) |
 | 2026-06-21 | When a Favicon Becomes the Entire Website | Hackaday | [link](https://hackaday.com/2026/06/21/when-a-favicon-becomes-the-entire-website/) |
 | 2026-06-21 | Hacking the Mi Band 10 Smart Band and its Bestechnic SoC | Hackaday | [link](https://hackaday.com/2026/06/21/hacking-the-mi-band-10-smart-band-and-its-bestechnic-soc/) |
 | 2026-06-21 | Blender 5.2: Coming Soon With Improved Simulations | Hackaday | [link](https://hackaday.com/2026/06/21/blender-5-2-coming-soon-with-improved-simulations/) |
@@ -54,9 +55,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-21 | Bernoulli Disk Goes “Wii!” When Plugged Into WiiU | Hackaday | [link](https://hackaday.com/2026/06/20/bernoulli-disk-goes-wii-when-plugged-into-wiiu/) |
 | 2026-06-21 | Autopsy of a Freshly Cooked 10Gbit SFP+ Network Adapter | Hackaday | [link](https://hackaday.com/2026/06/20/autopsy-of-a-freshly-cooked-10gbit-sfp-network-adapter/) |
 | 2026-06-21 | SpacemiT K3 Pico-ITX RISC-V Chassis Kit Review – Part 2: What works, what doesn’t in Bianbu OS 4.0 | CNX Software | [link](https://www.cnx-software.com/2026/06/21/spacemit-k3-pico-itx-risc-v-chassis-kit-review-part-2-what-works-what-doesnt-in-bianbu-os-4-0/) |
+| 2026-06-21 | Adafruit Weekly Editorial Round-Up: Dragon Kite Poi, USB Audio in TinyUSB & More! | Adafruit | [link](https://blog.adafruit.com/2026/06/21/adafruit-weekly-editorial-round-up-dragon-kite-poi-usb-audio-in-tinyusb-more/) |
 | 2026-06-21 | Adafruit New Products this Week | Adafruit | [link](https://blog.adafruit.com/2026/06/20/adafruit-new-products-this-week-2/) |
-| 2026-06-20 | Defeat Blood-Sucking Mosquitoes by Becoming the Bug Zapper | Hackaday | [link](https://hackaday.com/2026/06/20/defeat-blood-sucking-mosquitoes-by-becoming-the-bug-zapper/) |
-| 2026-06-20 | Pine64 Pinevoice – A $50 RISC-V Smart Speaker for Home Assistant based on Bouffalo Lab BL606P MCU | CNX Software | [link](https://www.cnx-software.com/2026/06/20/pine64-pinevoice-a-50-risc-v-smart-speaker-for-home-assistant-based-on-bouffalo-lab-bl606p-mcu/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -75,6 +75,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-21 | mario-d-robot/qwen-image-edit-batch | 0 | 0 | [link](https://huggingface.co/mario-d-robot/qwen-image-edit-batch) |
+| 2026-06-21 | Krishnav1234/neurocuda-robotics-perception-snn | 0 | 0 | [link](https://huggingface.co/Krishnav1234/neurocuda-robotics-perception-snn) |
 | 2026-06-21 | robotneu/visual_perception_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/visual_perception_pfc_2_3_hard) |
 | 2026-06-21 | robotneu/spatial_reasoning_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/spatial_reasoning_pfc_2_3_hard) |
 | 2026-06-21 | robotneu/semantic_understanding_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/semantic_understanding_pfc_2_3_hard) |
@@ -83,22 +85,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-21 | YinonDouchan/smolvla_mobile_robot_lift_dummy_task | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_dummy_task) |
 | 2026-06-21 | robotneu/composite_ability_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/composite_ability_pfc_2_3_hard) |
 | 2026-06-21 | Robotferret87/Qwen3.6-27B-Q4_K_M-GGUF | 0 | 0 | [link](https://huggingface.co/Robotferret87/Qwen3.6-27B-Q4_K_M-GGUF) |
-| 2026-06-21 | tejavadlamudi03/norma-robot-checkpoints | 0 | 0 | [link](https://huggingface.co/tejavadlamudi03/norma-robot-checkpoints) |
-| 2026-06-21 | Angel-AV/angel-vlahov-sentiment-distilroberta | 0 | 0 | [link](https://huggingface.co/Angel-AV/angel-vlahov-sentiment-distilroberta) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| copper-project/copper-rs | 1364 | Rust | 545.7 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 446 | Shell | 178.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 299 | Python | 119.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | Developer-Y/cs-video-courses | 81883 |  | 32753.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61484 | Python | 24593.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 61485 | Python | 24594.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15328 | C++ | 6131.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 13936 | C++ | 5574.5 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11242 | Python | 4496.9 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7496 | Python | 2998.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3791 | Rust | 1516.5 | [link](https://github.com/dora-rs/dora) |
-| mani-skill/ManiSkill | 3023 | Python | 1209.3 | [link](https://github.com/mani-skill/ManiSkill) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -108,11 +108,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmEtTVhCcXBoTkY0NkFqdXJDYXh1UkFvLWxWM19YR0VnVUdJdjlhYkRRd0lnekhjRnFDaUU4UG01UTI1RXk2dm5tWHZ5UVBodmJJSW01R2hKb2Vsbl94Y0hQTUJYYXBpamlROGNlMnRQVGVNZ1Nwcm5tOHRwN1NxUGRlVjZuQk0zUmdRZGp2Mkx5QnFLT1BMSmFJOVEzV2M?oc=5) |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWFSVTF3OEdYcUhhZ1NlX3lfZ2M1UkZkNGd3ZVltUU0zaGVEekZFV1BQN2w4LWJaRF9tWmVNdHd4VjZUMEhZSWliMlp2cTVxWDNUQmlrT2NuYVliNkxmS1ptWWJwcDFJZmxTam1va3NZQWg3eFJYNFFnQkhwcm52SHpZVjBocU1uOElBS0hSTW9TNjNjTTA3OG5rVElsWURBWWc?oc=5) |
 | 2026-06-16 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tYllveVV4SW03M0J5bVp5akswd1VfR2tyOGNhbUgxbU54LS1NT2Q1am5kRVVzcHJpSzd3QlMzblZVWmVFcVJyWk41ODU1ZEVoSXdoYWIydXVoS3RqaWRwRTJCZndRNnM?oc=5) |
+| 2026-06-10 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RWmRNLXNFMTJ0V0VFVEtoYnA5NTdMcXZaMS1ud2RRaUNIRk1BbFB4QnF6eGFoY0FUVEY2bm9QOTdleUtVbzc0eWRqR21IaE5xUXl0eW1MWQ?oc=5) |
 | 2026-06-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hLU04d3VwTUxreHA5bVNWS3B4dmZaMzRsdUFGZEJwYTNrTXJtZl8xZ2RpZTA1MWxzYkxndWpfZEI4bk1PbXZYR3hMcXhHNUpvLVZnaUlRUGFTa3FNSXBrS0hn?oc=5) |
 | 2026-06-06 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXaTdjZ0ZvRzBZaGdwX2plVlFjNXdvQkNpTVNsZU9OMGFjQzFkQVNYdWNsaTB4eXZWeFJuWXVBZ19wWlE0V2ZnMGNMXzN6dk1CcWN4TjF2VXF5NmQzNDRTVA?oc=5) |
-| 2026-06-05 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxNd2dXeElaXzcyN2s4cFRBNUJ3dlZvNmllQkJxb3ZwazFBTms4LXpnN1JWZnJfLUJSR2JQZDNWbmRiWVNfSXRlNTFyZ2hWUTZDUXhKd0hqcXFrdHdZQ0tFcHM0MFhMYms1bU1UY3FQMlc2bnFvZUxJb1lvaXFCdjVZTXBhLXUyRmVKd1N6Y2UtekdwM2dmZ3JDc0FfQi1hQTB4WHc1MmxiLWZpeHRJMEFDZkp6cFdfa1VvYTV4QkJyUmlab3E0?oc=5) |
 | 2026-06-05 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlI3N21DSmpVdVhOSUFjcmE2ZlpkNlBTendxb0VjZ3hIMW4wUVlYZU9tdko5RFR5U3lFbkxmd256VmljWXpMc29zYzd5YXhWcU1ESEo2VXZQaFFPbHBjNEFDLTFXalRtVjdhbzUwQ1BUaW9rRlpONGRLMUpsbHY2R1ZtNFdrNnNZYTV1MlBZbG0xbmNtNW40T2xyUkpHekZOLXBYQVM1LU5hM055UVRWdzlvQQ?oc=5) |
-| 2026-06-04 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWUUwVE5OblREN2VYZUkzTGZBM1c1MGtCdVNUaHhoOWI1V0RKc001aEN2LVZZdVBaaGNTTTVGemxLU2o3UHlNR0tCZ3p6My1iSWQ0WlljVzU1N1JFN1lpNlZWMkZVOGhZN3RVcHRENG5DeXRNMFZjem1Bc093Q2tfSks5eVJuVjNhaDE1UDZiNGdWd05yTDU0TjJhZElJMVpxY1VLZmVWUWJRTFJf?oc=5) |
+| 2026-06-04 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUktbnBaOVZBZTJOSU1GVkU4Zl9aQU96RE9FSHY3MGpfQ2xFem5aQmNSeXVpZ0FscmdVWHREei1rNUYtQnV1aUxJRFBzSGZ1MDEzMExnNkdaODZwbkJIVU5xaHZpYkx3N0lYVzhtcGRhdk1rZEM2NGlXQXVBb1Nlb05rckVUN0lUSlBPdlZLallSQUtqZi1SYVdHLWo5VTNDS1FEMEVtdHlBM0YxV19FZGhWYw?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

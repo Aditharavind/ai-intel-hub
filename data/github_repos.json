@@ -1,5 +1,15 @@
 [
   {
+    "repo": "copper-project/copper-rs",
+    "stars": 1364,
+    "language": "Rust",
+    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
+    "url": "https://github.com/copper-project/copper-rs",
+    "date": "2026-06-21",
+    "topic": "physical-ai",
+    "score": 545.7
+  },
+  {
     "repo": "awslabs/awsome-distributed-ai",
     "stars": 446,
     "language": "Shell",
@@ -31,13 +41,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 61484,
+    "stars": 61485,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-06-21",
     "topic": "robotics",
-    "score": 24593.7
+    "score": 24594.1
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -101,13 +111,13 @@
   },
   {
     "repo": "flashrt-project/FlashRT",
-    "stars": 362,
+    "stars": 363,
     "language": "C++",
     "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
     "url": "https://github.com/flashrt-project/FlashRT",
     "date": "2026-06-21",
     "topic": "vla",
-    "score": 144.9
+    "score": 145.3
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -131,13 +141,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5226,
+    "stars": 5227,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-06-21",
     "topic": "world-model",
-    "score": 2090.5
+    "score": 2090.9
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -180,24 +190,14 @@
     "score": 5.3
   },
   {
-    "repo": "copper-project/copper-rs",
-    "stars": 1364,
-    "language": "Rust",
-    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
-    "url": "https://github.com/copper-project/copper-rs",
-    "date": "2026-06-20",
-    "topic": "physical-ai",
-    "score": 545.7
-  },
-  {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 29833,
+    "stars": 29836,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-06-20",
     "topic": "robotics",
-    "score": 11933.3
+    "score": 11934.5
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -391,13 +391,13 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 1902,
+    "stars": 1903,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-06-18",
     "topic": "world-model",
-    "score": 760.9
+    "score": 761.3
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -451,13 +451,13 @@
   },
   {
     "repo": "thu-ml/Causal-Forcing",
-    "stars": 793,
+    "stars": 794,
     "language": "Python",
     "description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\" & Causal Forcing++",
     "url": "https://github.com/thu-ml/Causal-Forcing",
     "date": "2026-06-17",
     "topic": "world-model",
-    "score": 317.3
+    "score": 317.7
   },
   {
     "repo": "automatika-robotics/emos",
@@ -731,13 +731,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 1467,
+    "stars": 1472,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-05",
     "topic": "robot-learning",
-    "score": 586.9
+    "score": 588.9
   },
   {
     "repo": "NVIDIA-Omniverse/ovrtx",
