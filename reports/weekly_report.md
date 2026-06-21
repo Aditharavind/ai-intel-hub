@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-21 21:01 UTC
+Generated: 2026-06-21 22:56 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,10 +14,10 @@ Generated: 2026-06-21 21:01 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81883 | 32753.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61485 | 24594.1 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 81884 | 32753.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61488 | 24595.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44124 | 17649.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 29836 | 11934.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 29835 | 11934.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15937 | 6374.9 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
@@ -25,7 +25,7 @@ Generated: 2026-06-21 21:01 UTC
 | --- | --- | --- | --- |
 | anikitakis/vla_so101_pick_n_place_full_expert | 776 | 232.9 | [link](https://huggingface.co/anikitakis/vla_so101_pick_n_place_full_expert) |
 | IffYuan/Embodied-R1.5 | 614 | 184.3 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
-| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 156 | 47.9 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
+| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 156 | 48.1 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 152 | 46.7 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
 | BrinqAI/functiongemma-270m-physical-ai | 120 | 36.1 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
 

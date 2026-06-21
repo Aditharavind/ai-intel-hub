@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-21 21:01 UTC
+Last Updated: 2026-06-21 22:56 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -92,8 +92,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1364 | Rust | 545.7 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 446 | Shell | 178.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 299 | Python | 119.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| Developer-Y/cs-video-courses | 81883 |  | 32753.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61485 | Python | 24594.1 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 81884 |  | 32753.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61488 | Python | 24595.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15328 | C++ | 6131.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 13936 | C++ | 5574.5 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11242 | Python | 4496.9 | [link](https://github.com/kornia/kornia) |
@@ -109,10 +109,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWFSVTF3OEdYcUhhZ1NlX3lfZ2M1UkZkNGd3ZVltUU0zaGVEekZFV1BQN2w4LWJaRF9tWmVNdHd4VjZUMEhZSWliMlp2cTVxWDNUQmlrT2NuYVliNkxmS1ptWWJwcDFJZmxTam1va3NZQWg3eFJYNFFnQkhwcm52SHpZVjBocU1uOElBS0hSTW9TNjNjTTA3OG5rVElsWURBWWc?oc=5) |
 | 2026-06-16 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tYllveVV4SW03M0J5bVp5akswd1VfR2tyOGNhbUgxbU54LS1NT2Q1am5kRVVzcHJpSzd3QlMzblZVWmVFcVJyWk41ODU1ZEVoSXdoYWIydXVoS3RqaWRwRTJCZndRNnM?oc=5) |
 | 2026-06-10 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RWmRNLXNFMTJ0V0VFVEtoYnA5NTdMcXZaMS1ud2RRaUNIRk1BbFB4QnF6eGFoY0FUVEY2bm9QOTdleUtVbzc0eWRqR21IaE5xUXl0eW1MWQ?oc=5) |
+| 2026-06-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHpBTTkzZ1JCLWpJaDVxYnZFaXd5Q0xiSWJTc1FTUWdSX2xfVXREWG5jUjJCNzB0dHMwdHJRNWdJc1Fkb05yTDFoa0gwUHV4SUUyaHJGNDhRcmRKNVVhUGNiZ2l5RGxwbjJMV1lVckw1RFhrakozbDJiR1NUSEowdkk4dUZJTElVS0dCdzdqV0hWZnBmdmJSTDJtWHRJbTU5eXdBZEtEVjJNSlVTNm5CcXlwRQ?oc=5) |
 | 2026-06-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hLU04d3VwTUxreHA5bVNWS3B4dmZaMzRsdUFGZEJwYTNrTXJtZl8xZ2RpZTA1MWxzYkxndWpfZEI4bk1PbXZYR3hMcXhHNUpvLVZnaUlRUGFTa3FNSXBrS0hn?oc=5) |
 | 2026-06-06 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXaTdjZ0ZvRzBZaGdwX2plVlFjNXdvQkNpTVNsZU9OMGFjQzFkQVNYdWNsaTB4eXZWeFJuWXVBZ19wWlE0V2ZnMGNMXzN6dk1CcWN4TjF2VXF5NmQzNDRTVA?oc=5) |
 | 2026-06-05 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlI3N21DSmpVdVhOSUFjcmE2ZlpkNlBTendxb0VjZ3hIMW4wUVlYZU9tdko5RFR5U3lFbkxmd256VmljWXpMc29zYzd5YXhWcU1ESEo2VXZQaFFPbHBjNEFDLTFXalRtVjdhbzUwQ1BUaW9rRlpONGRLMUpsbHY2R1ZtNFdrNnNZYTV1MlBZbG0xbmNtNW40T2xyUkpHekZOLXBYQVM1LU5hM055UVRWdzlvQQ?oc=5) |
-| 2026-06-04 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUktbnBaOVZBZTJOSU1GVkU4Zl9aQU96RE9FSHY3MGpfQ2xFem5aQmNSeXVpZ0FscmdVWHREei1rNUYtQnV1aUxJRFBzSGZ1MDEzMExnNkdaODZwbkJIVU5xaHZpYkx3N0lYVzhtcGRhdk1rZEM2NGlXQXVBb1Nlb05rckVUN0lUSlBPdlZLallSQUtqZi1SYVdHLWo5VTNDS1FEMEVtdHlBM0YxV19FZGhWYw?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

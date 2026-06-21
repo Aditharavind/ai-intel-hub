@@ -99,6 +99,24 @@
     "score": 0.1
   },
   {
+    "model": "flashrt/flashrt-vla-video",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/flashrt/flashrt-vla-video",
+    "date": "2026-06-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "flashrt/flashrt-vla-residual-gates",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/flashrt/flashrt-vla-residual-gates",
+    "date": "2026-06-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "Angel-AV/angel-vlahov-sentiment-distilroberta",
     "downloads": 0,
     "likes": 0,
@@ -153,6 +171,15 @@
     "score": 0.1
   },
   {
+    "model": "flashrt/world-model-conv",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/flashrt/world-model-conv",
+    "date": "2026-06-21",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
     "model": "SaFD-00/qwen2.5-vl-7b-ac-exp03-world-model-stage1-lora-epoch3-stage2-lora-epoch3",
     "downloads": 0,
     "likes": 0,
@@ -168,6 +195,15 @@
     "url": "https://huggingface.co/SaFD-00/qwen3-vl-8b-ac-exp03-world-model-stage1-lora-epoch3-stage2-lora-epoch3",
     "date": "2026-06-21",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "abdulrahimmirani/pick_place_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/abdulrahimmirani/pick_place_policy",
+    "date": "2026-06-21",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -270,15 +306,6 @@
     "score": 0.1
   },
   {
-    "model": "Wayer2/policy-test",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/Wayer2/policy-test",
-    "date": "2026-06-21",
-    "keyword": "policy",
-    "score": 5.2
-  },
-  {
     "model": "mario-d-robot/QIE-2511-Studio-DeLight",
     "downloads": 0,
     "likes": 1,
@@ -319,24 +346,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/siyuhsu/vlajepa-libero-ckpt",
-    "date": "2026-06-20",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vlad345rty/VesselFit",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vlad345rty/VesselFit",
-    "date": "2026-06-20",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "bottledsmoke/mamba-vla-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/bottledsmoke/mamba-vla-checkpoints",
     "date": "2026-06-20",
     "keyword": "vla",
     "score": 0.1
@@ -425,11 +434,11 @@
   {
     "model": "tencent/Hy-Embodied-0.5-VLA-RoboTwin",
     "downloads": 156,
-    "likes": 5,
+    "likes": 6,
     "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin",
     "date": "2026-06-17",
     "keyword": "embodied",
-    "score": 47.9
+    "score": 48.1
   },
   {
     "model": "puppet-robotics/golf-model",
@@ -691,15 +700,6 @@
     "date": "2026-06-06",
     "keyword": "world model",
     "score": 7.6
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-7b-ac-exp01-ratio73-world-model-stage1-lora-epoch3-stage2-lora-epoch1",
-    "downloads": 36,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-7b-ac-exp01-ratio73-world-model-stage1-lora-epoch3-stage2-lora-epoch1",
-    "date": "2026-06-06",
-    "keyword": "world model",
-    "score": 10.9
   },
   {
     "model": "NU-World-Model-Embodied-AI/FlashWAM-RoboTwin",
