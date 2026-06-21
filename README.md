@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-20 23:56 UTC
+Last Updated: 2026-06-21 02:34 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -47,16 +47,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-21 | Autopsy of a Freshly Cooked 10Gbit SFP+ Network Adapter | Hackaday | [link](https://hackaday.com/2026/06/20/autopsy-of-a-freshly-cooked-10gbit-sfp-network-adapter/) |
+| 2026-06-21 | Adafruit New Products this Week | Adafruit | [link](https://blog.adafruit.com/2026/06/20/adafruit-new-products-this-week-2/) |
 | 2026-06-20 | Defeat Blood-Sucking Mosquitoes by Becoming the Bug Zapper | Hackaday | [link](https://hackaday.com/2026/06/20/defeat-blood-sucking-mosquitoes-by-becoming-the-bug-zapper/) |
 | 2026-06-20 | Seeing the World in Radio Waves with the QuadRF | Hackaday | [link](https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/) |
 | 2026-06-20 | Tricking a Bike Counter | Hackaday | [link](https://hackaday.com/2026/06/20/tricking-a-bike-counter/) |
 | 2026-06-20 | Home Automation: Simple vs Easy | Hackaday | [link](https://hackaday.com/2026/06/20/home-automation-simple-vs-easy/) |
 | 2026-06-20 | The Repair Nightmare that are Smart Rings | Hackaday | [link](https://hackaday.com/2026/06/20/the-repair-nightmare-that-are-smart-rings/) |
 | 2026-06-20 | A General Purpose Pi Zero Device for IoT | Hackaday | [link](https://hackaday.com/2026/06/20/a-general-purpose-pi-zero-device-for-iot/) |
-| 2026-06-20 | Making Old Computers Count To A Million | Hackaday | [link](https://hackaday.com/2026/06/19/making-old-computers-count-to-a-million/) |
 | 2026-06-20 | Pine64 Pinevoice – A $50 RISC-V Smart Speaker for Home Assistant based on Bouffalo Lab BL606P MCU | CNX Software | [link](https://www.cnx-software.com/2026/06/20/pine64-pinevoice-a-50-risc-v-smart-speaker-for-home-assistant-based-on-bouffalo-lab-bl606p-mcu/) |
 | 2026-06-19 | Rotary Mouse puts a rotary wheel into a standard desktop mouse (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/06/19/rotary-mouse-puts-a-rotary-wheel-into-a-standard-desktop-mouse/) |
-| 2026-06-19 | Matter 1.6 specification adds NFC-based commissioning, thermostat suggestions, various core enhancements | CNX Software | [link](https://www.cnx-software.com/2026/06/19/matter-1-6-specification-adds-nfc-based-commissioning-thermostat-suggestions-various-core-enhancements/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -75,30 +75,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-21 | zwan1003/pickplace_vla_model | 0 | 0 | [link](https://huggingface.co/zwan1003/pickplace_vla_model) |
+| 2026-06-21 | zbhuiyan2006/act_tic_tac_toe_rgb_pos3_policy0 | 0 | 0 | [link](https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos3_policy0) |
+| 2026-06-21 | zbhuiyan2006/act_tic_tac_toe_rgb_pos2_policy0 | 0 | 0 | [link](https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos2_policy0) |
+| 2026-06-21 | koolhere/deodorant_act_policy_v2 | 0 | 0 | [link](https://huggingface.co/koolhere/deodorant_act_policy_v2) |
 | 2026-06-20 | L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_base | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_base) |
 | 2026-06-20 | L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_base | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_base) |
 | 2026-06-20 | mario-d-robot/QIE-2511-Studio-DeLight | 0 | 0 | [link](https://huggingface.co/mario-d-robot/QIE-2511-Studio-DeLight) |
 | 2026-06-20 | mario-d-robot/QIE-2511-MP-AnyLight | 0 | 0 | [link](https://huggingface.co/mario-d-robot/QIE-2511-MP-AnyLight) |
 | 2026-06-20 | mario-d-robot/Qwen-Image-Edit-2511-Unblur-Upscale | 0 | 0 | [link](https://huggingface.co/mario-d-robot/Qwen-Image-Edit-2511-Unblur-Upscale) |
 | 2026-06-20 | mario-d-robot/Qwen-Image-Edit-Rapid-AIO-V19 | 0 | 0 | [link](https://huggingface.co/mario-d-robot/Qwen-Image-Edit-Rapid-AIO-V19) |
-| 2026-06-20 | Dust-Robotics/act-tealight_wicking_rebotb601-v2 | 0 | 0 | [link](https://huggingface.co/Dust-Robotics/act-tealight_wicking_rebotb601-v2) |
-| 2026-06-20 | L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_static_base | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_static_base) |
-| 2026-06-20 | L7-Robotics/smolvla_so101_world_traj_conveyor_static_base | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_conveyor_static_base) |
-| 2026-06-20 | robotneu/composite_ability_refactor_obj_2_3_hard_refactor | 0 | 0 | [link](https://huggingface.co/robotneu/composite_ability_refactor_obj_2_3_hard_refactor) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| awslabs/awsome-distributed-ai | 446 | Shell | 178.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| dora-rs/dora | 3790 | Rust | 1516.1 | [link](https://github.com/dora-rs/dora) |
+| sou350121/VLA-Handbook | 309 | HTML | 123.7 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 5219 | Python | 2087.7 | [link](https://github.com/vllm-project/vllm-omni) |
+| strands-labs/robots | 68 | Python | 27.3 | [link](https://github.com/strands-labs/robots) |
 | copper-project/copper-rs | 1364 | Rust | 545.7 | [link](https://github.com/copper-project/copper-rs) |
-| awslabs/awsome-distributed-ai | 445 | Shell | 178.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 298 | Python | 119.3 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | commaai/openpilot | 61475 | Python | 24590.1 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29827 | Python | 11930.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15935 | Python | 6374.1 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15326 | C++ | 6130.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 13926 | C++ | 5570.5 | [link](https://github.com/google-deepmind/mujoco) |
-| isaac-sim/IsaacLab | 7491 | Python | 2996.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3790 | Rust | 1516.1 | [link](https://github.com/dora-rs/dora) |
+| AtsushiSakai/PythonRobotics | 29828 | Python | 11931.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15934 | Python | 6373.7 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
