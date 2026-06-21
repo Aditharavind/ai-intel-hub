@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-21 15:42 UTC
+Last Updated: 2026-06-21 17:14 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -47,6 +47,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-21 | When a Favicon Becomes the Entire Website | Hackaday | [link](https://hackaday.com/2026/06/21/when-a-favicon-becomes-the-entire-website/) |
 | 2026-06-21 | Hacking the Mi Band 10 Smart Band and its Bestechnic SoC | Hackaday | [link](https://hackaday.com/2026/06/21/hacking-the-mi-band-10-smart-band-and-its-bestechnic-soc/) |
 | 2026-06-21 | Blender 5.2: Coming Soon With Improved Simulations | Hackaday | [link](https://hackaday.com/2026/06/21/blender-5-2-coming-soon-with-improved-simulations/) |
 | 2026-06-21 | How to Bias a CRT After Installation | Hackaday | [link](https://hackaday.com/2026/06/21/how-to-bias-a-crt-after-installation/) |
@@ -55,7 +56,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-21 | SpacemiT K3 Pico-ITX RISC-V Chassis Kit Review – Part 2: What works, what doesn’t in Bianbu OS 4.0 | CNX Software | [link](https://www.cnx-software.com/2026/06/21/spacemit-k3-pico-itx-risc-v-chassis-kit-review-part-2-what-works-what-doesnt-in-bianbu-os-4-0/) |
 | 2026-06-21 | Adafruit New Products this Week | Adafruit | [link](https://blog.adafruit.com/2026/06/20/adafruit-new-products-this-week-2/) |
 | 2026-06-20 | Defeat Blood-Sucking Mosquitoes by Becoming the Bug Zapper | Hackaday | [link](https://hackaday.com/2026/06/20/defeat-blood-sucking-mosquitoes-by-becoming-the-bug-zapper/) |
-| 2026-06-20 | Seeing the World in Radio Waves with the QuadRF | Hackaday | [link](https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/) |
 | 2026-06-20 | Pine64 Pinevoice – A $50 RISC-V Smart Speaker for Home Assistant based on Bouffalo Lab BL606P MCU | CNX Software | [link](https://www.cnx-software.com/2026/06/20/pine64-pinevoice-a-50-risc-v-smart-speaker-for-home-assistant-based-on-bouffalo-lab-bl606p-mcu/) |
 
 ## New Research Papers
@@ -75,13 +75,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-21 | robotneu/semantic_understanding_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/semantic_understanding_pfc_2_3_hard) |
+| 2026-06-21 | robotneu/common_understanding_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/common_understanding_pfc_2_3_hard) |
+| 2026-06-21 | robotneu/action_reasoning_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/action_reasoning_pfc_2_3_hard) |
 | 2026-06-21 | YinonDouchan/smolvla_mobile_robot_lift_dummy_task | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_dummy_task) |
 | 2026-06-21 | robotneu/composite_ability_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/composite_ability_pfc_2_3_hard) |
 | 2026-06-21 | robotneu/visual_perception_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/visual_perception_pfc_2_3_hard) |
-| 2026-06-21 | robotneu/common_understanding_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/common_understanding_pfc_2_3_hard) |
 | 2026-06-21 | robotneu/spatial_reasoning_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/spatial_reasoning_pfc_2_3_hard) |
-| 2026-06-21 | robotneu/semantic_understanding_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/semantic_understanding_pfc_2_3_hard) |
-| 2026-06-21 | robotneu/action_reasoning_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/action_reasoning_pfc_2_3_hard) |
 | 2026-06-21 | Robotferret87/Qwen3.6-27B-Q4_K_M-GGUF | 0 | 0 | [link](https://huggingface.co/Robotferret87/Qwen3.6-27B-Q4_K_M-GGUF) |
 | 2026-06-21 | tejavadlamudi03/norma-robot-checkpoints | 0 | 0 | [link](https://huggingface.co/tejavadlamudi03/norma-robot-checkpoints) |
 | 2026-06-21 | Angel-AV/angel-vlahov-sentiment-distilroberta | 0 | 0 | [link](https://huggingface.co/Angel-AV/angel-vlahov-sentiment-distilroberta) |
@@ -92,13 +92,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | awslabs/awsome-distributed-ai | 446 | Shell | 178.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 298 | Python | 119.3 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | Developer-Y/cs-video-courses | 81882 |  | 32752.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61483 | Python | 24593.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 61482 | Python | 24592.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15328 | C++ | 6131.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 13936 | C++ | 5574.5 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11241 | Python | 4496.5 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7496 | Python | 2998.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3790 | Rust | 1516.1 | [link](https://github.com/dora-rs/dora) |
+| dora-rs/dora | 3791 | Rust | 1516.5 | [link](https://github.com/dora-rs/dora) |
 | mani-skill/ManiSkill | 3023 | Python | 1209.3 | [link](https://github.com/mani-skill/ManiSkill) |
-| flashrt-project/FlashRT | 362 | C++ | 144.9 | [link](https://github.com/flashrt-project/FlashRT) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
