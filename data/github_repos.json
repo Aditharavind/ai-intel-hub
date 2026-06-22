@@ -31,23 +31,23 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 81884,
+    "stars": 81885,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-06-21",
     "topic": "robotics",
-    "score": 32753.7
+    "score": 32754.1
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 61488,
+    "stars": 61489,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-06-21",
     "topic": "robotics",
-    "score": 24595.3
+    "score": 24595.7
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -81,13 +81,23 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7496,
+    "stars": 7497,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-06-21",
     "topic": "robot-learning",
-    "score": 2998.5
+    "score": 2998.9
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "stars": 6745,
+    "language": "JavaScript",
+    "description": "A collection of agent skills for CAD, robotics and hardware design",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "date": "2026-06-21",
+    "topic": "robotics",
+    "score": 2698.1
   },
   {
     "repo": "dora-rs/dora",
@@ -98,6 +108,16 @@
     "date": "2026-06-21",
     "topic": "embodied-ai",
     "score": 1516.5
+  },
+  {
+    "repo": "knightnemo/Awesome-World-Models",
+    "stars": 3039,
+    "language": "",
+    "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
+    "url": "https://github.com/knightnemo/Awesome-World-Models",
+    "date": "2026-06-21",
+    "topic": "embodied-ai",
+    "score": 1215.7
   },
   {
     "repo": "mani-skill/ManiSkill",
@@ -181,13 +201,13 @@
   },
   {
     "repo": "strands-labs/robots",
-    "stars": 68,
+    "stars": 69,
     "language": "Python",
     "description": "Control robots and physical hardware with natural language through Strands Agents.",
     "url": "https://github.com/strands-labs/robots",
     "date": "2026-06-21",
     "topic": "lerobot",
-    "score": 27.3
+    "score": 27.7
   },
   {
     "repo": "Dream-Machines-Robotics/vr-teleop-kit",
@@ -218,16 +238,6 @@
     "date": "2026-06-20",
     "topic": "robotics",
     "score": 6374.9
-  },
-  {
-    "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3039,
-    "language": "",
-    "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
-    "url": "https://github.com/knightnemo/Awesome-World-Models",
-    "date": "2026-06-20",
-    "topic": "embodied-ai",
-    "score": 1215.7
   },
   {
     "repo": "YuZhaoshu/Efficient-VLAs-Survey",
@@ -308,6 +318,16 @@
     "date": "2026-06-19",
     "topic": "vla",
     "score": 114.5
+  },
+  {
+    "repo": "thanhndv212/figaroh-plus",
+    "stars": 41,
+    "language": "Python",
+    "description": "A system identification framework for robots.",
+    "url": "https://github.com/thanhndv212/figaroh-plus",
+    "date": "2026-06-19",
+    "topic": "humanoid",
+    "score": 16.5
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -391,13 +411,13 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 1903,
+    "stars": 1904,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-06-18",
     "topic": "world-model",
-    "score": 761.3
+    "score": 761.7
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -560,6 +580,16 @@
     "score": 727.3
   },
   {
+    "repo": "ez945y/DAM",
+    "stars": 6,
+    "language": "Python",
+    "description": "",
+    "url": "https://github.com/ez945y/DAM",
+    "date": "2026-06-15",
+    "topic": "lerobot",
+    "score": 2.5
+  },
+  {
     "repo": "wadeKeith/Awesome-Embodied-AI",
     "stars": 216,
     "language": "Python",
@@ -681,13 +711,13 @@
   },
   {
     "repo": "PKU-YuanGroup/Helios",
-    "stars": 1919,
+    "stars": 1920,
     "language": "Python",
     "description": "Helios: Real Real-Time Long Video Generation Model",
     "url": "https://github.com/PKU-YuanGroup/Helios",
     "date": "2026-06-10",
     "topic": "world-model",
-    "score": 767.7
+    "score": 768.1
   },
   {
     "repo": "Tencent-Hunyuan/HY-WorldPlay",
@@ -828,35 +858,5 @@
     "date": "2026-05-23",
     "topic": "embodied-ai",
     "score": 986.5
-  },
-  {
-    "repo": "NaiboWang/EasySpider",
-    "stars": 44124,
-    "language": "JavaScript",
-    "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
-    "url": "https://github.com/NaiboWang/EasySpider",
-    "date": "2026-05-22",
-    "topic": "robotics",
-    "score": 17649.7
-  },
-  {
-    "repo": "HansZ8/RoboJuDo",
-    "stars": 506,
-    "language": "Python",
-    "description": "A plug-and-play deploy framework for robots. Just deploy, just do.",
-    "url": "https://github.com/HansZ8/RoboJuDo",
-    "date": "2026-05-22",
-    "topic": "humanoid",
-    "score": 202.5
-  },
-  {
-    "repo": "legalaspro/robokin",
-    "stars": 20,
-    "language": "Python",
-    "description": "URDF-based forward and inverse kinematics helpers for robot arms — pluggable IK backends (Placo, PyRoki, RoboPlan), Viser 3D visualization, Rerun logging, and LeRobot/ROS 2 real-arm integration.",
-    "url": "https://github.com/legalaspro/robokin",
-    "date": "2026-05-22",
-    "topic": "lerobot",
-    "score": 8.1
   }
 ]
