@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-22 12:39 UTC
+Generated: 2026-06-22 17:22 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,10 +14,10 @@ Generated: 2026-06-22 12:39 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81895 | 32758.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61496 | 24598.5 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29842 | 11936.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15939 | 6375.7 | [link](https://github.com/zauberzeug/nicegui) |
+| Developer-Y/cs-video-courses | 81896 | 32758.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61499 | 24599.7 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29843 | 11937.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15940 | 6376.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15332 | 6132.9 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
@@ -41,8 +41,8 @@ Generated: 2026-06-22 12:39 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-06-22 | Delivery robot startup Robot.com is betting its next act on workplace humanoids - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ055UnFNc0FSb04zV3FQX25ROFZjMGwtaktnb2dKVElyV2hJZ0dheVRvd3M2S3BhOFlaTW5UcVA2T2t2Q1NSWTVUQThkZEdtT3BsVTBCYUE4RTBuU08tR3VHLVFiTXdJamYwaDU0SE1zS1VWZDk2SGhVWVNXUlhmaTdSbGJLVENuUklqM3pfR01kSXF3TUJlQnhlV3dZSktq?oc=5) |
+| 2026-06-22 | Seedcamp closes its largest fund yet at $320 million and bets the next decade on physical AI - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUpHRlU0YkMzUnZiUGV6UUF3M24yX1poazY1RUx3WFA5ZUtpTVdzdzNpLWJLSE9FMDljWllEdGF5SEZwMllOTUJwYjVNdjZnODRtMDZabWtfVFFsSl9pY1dsNkhSUW9mYm9aTkdUekZMZVdNTFdpQXBvZUFXa3NQelIxYWMtUUd5ZXpWLVZJVjlkeFJ6ckJqNDA1NEQ2UERGZUVSV2hjZ3p6WS1WaFhaS0c3ZWlJYko2bkgw?oc=5) |
 | 2026-06-22 | Automate 2026 Day-by-Day: Kawasaki 8-DOF Premiere, ABB Physical AI Launch, Humanoid Forum - Tech Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWmMtNGlPSm1COXZHTnVrelpVQS1nem5tWWVVRUJNYmJoYXpqTnplVHpJQ0FLeC10RnByMnF4WURjM0RGM2tYalUxZ1hJaDVQT0xiSTNyT1V5ZC02dG5tRHhDdzItc0hxeFViT0ZkU1BmNVdDWkJzc19xMjZRZ19lMXFGcVd2bnh5R193Qk9CSnhiSWk5cGZ3VFlDUE11QkpCdWJsTFdzNkxlSk9uNTMzNHl1bnJOZkdkUkg3VXczRExXcDMzUmotcnl4dTExMnlxZTlINw?oc=5) |
 | 2026-06-21 | Why it’s nearly impossible to build a robot without China - The Business Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2JPa2gzVHc1QjZ4TGVUM2NsTXB1WU9pdVpFMmI5Y3RmUy1Ya0tGRU9vVC1MU3pZZUwxV0d2ZC10amdVU3QzX0NPZUpkckJ2UGJrbzBEMndNUlUxb0dKRXRZeURoNnNaT0s3VGlHaWRxQkJoRnlfRk9ycFB2TEJZZFAzRUNZak5WMW9Lc2JSbmttaWFCblRYNzg5RlI3S1hMdGVBR3dmS2w?oc=5) |
 | 2026-06-20 | AI Startup Offers Free Cleaning to Train Robot Replacements - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGRsS0xNRGMyd0JDdGVYekZYblJmX1FyRjRRRGVpVFF1TkVoQWNFcVNfX2hvamU2N0lsdDdtMUVHVl9zcWtJZHlLOGxTWG9HSzJiZGY2SndqRk1BdTJLUGNHUFFlN0FoWk5SM2hURUptYUs5Y2U4STRRZFdGalBUX1dvWmZGbng2X0dib2pGRUlTZTNJZHdN?oc=5) |
-| 2026-06-20 | Inside General Intuition’s AI Startup Valuation Surge - AI CERTs | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODFjYWR6RzRURFIyZDlQVFM0c1V6anNrbXU0dm83ZUNuVXBMRzNRNHVBMlZzMnMxXzFzalMtY0ktSnh1RUg2cE5qdmU5RVJ5MDF5Ym1NTWxGd1dxTG5FM1ltTVpqTzQ0VHl0ekV5OS11RUdkSFJZdnBBRHVJNVUxLVhJNUl4ZDNz?oc=5) |
-| 2026-06-19 | Kerala Startup Building Humanoid Robots From Scratch - Electronics For You BUSINESS | vision language action startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0pNY1RtWlNfNEtXemNCbGNuUzQ4M0lXeThKZEFTY2U4aklBWHNRWjNYY1g0TTRLeXVHSGwyQzRyNjZnMF9tVlJCb2lhQ0NZZTI4WEI2c2xuREVpaHUtMEswRE9kVGJQVHdOUUFuNzRabDJndVhLN2xoR1B2SW02NWlCUlpuSWJVaDZpcVNzMWJEYTloWVNXU0N4ZEg?oc=5) |

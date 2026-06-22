@@ -1,5 +1,19 @@
 [
   {
+    "title": "Graphics Upgrade for Nintendo Entertainment System",
+    "source": "Hackaday",
+    "date": "2026-06-22",
+    "url": "https://hackaday.com/2026/06/22/graphics-upgrade-for-nintendo-entertainment-system/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/dual-ppu-main.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Modern video game consoles rarely have expansion ports, but in the 80s and 90s it was practically guaranteed. With the speed that hardware was advancing it made sense to build <a class=\"read-more\" href=\"https://hackaday.com/2026/06/22/graphics-upgrade-for-nintendo-entertainment-system/\">&#8230;read more</a>"
+  },
+  {
+    "title": "MSYS2 and the No-Fuss Way to Get More GNU Into Your Windows",
+    "source": "Hackaday",
+    "date": "2026-06-22",
+    "url": "https://hackaday.com/2026/06/22/msys2-and-the-no-fuss-way-to-get-more-gnu-into-your-windows/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/06/WindowsLinux.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As great and streamlined as the Windows desktop experience is, one area where it&#8217;s at best disappointing and at worst rage-inducing is when it comes to its command line interface <a class=\"read-more\" href=\"https://hackaday.com/2026/06/22/msys2-and-the-no-fuss-way-to-get-more-gnu-into-your-windows/\">&#8230;read more</a>"
+  },
+  {
     "title": "SDS-Remote Brings Power-User Features to Siglent Scope",
     "source": "Hackaday",
     "date": "2026-06-22",
@@ -28,6 +42,13 @@
     "summary": "<div><img alt=\"An AI-generated diagram of the coffee-making process is shown. A filter holds a basket of coffee grounds, which are contained in a paper filter. An ultrasonic transducer vibrates the basket.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/ultrasonic_coffee_maker.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are as almost as many kinds of coffee as there are of coffee drinkers, with each method for preparing the beverage appealing to a different kind of palate: moka <a class=\"read-more\" href=\"https://hackaday.com/2026/06/21/brewing-espresso-with-ultrasonic-assistance/\">&#8230;read more</a>"
   },
   {
+    "title": "Optocam Zero – A Raspberry Pi Zero 2 W -based DIY digital camera",
+    "source": "CNX Software",
+    "date": "2026-06-22",
+    "url": "https://www.cnx-software.com/2026/06/22/optocam-zero-a-raspberry-pi-zero-2-w-based-diy-digital-camera/",
+    "summary": "<div><img alt=\"Optocam Zero\" class=\"attachment-medium size-medium wp-post-image\" height=\"529\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Optocam-Zero-720x529.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Inspired by Kodak Charmera and similar toy cameras, the Optocam Zero is a Raspberry Pi Zero 2 W-based DIY digital camera made of off-the-shelf components and 3D-printed parts. It connects the Pi Zero 2 W SBC with a Raspberry Pi Camera Module 3, a 1.3-inch LCD, a 14500 Li-Ion battery holder, and other components. The camera supports autofocus, eight photo filters, USB-C charging, and lasts 70 to 80 minutes on a charge. Optocam Zero camera key features: Based on Raspberry Pi Zero 2 W SBC Display 1.3-inch LCD with 240 x 240 resolution 15–20 FPS camera preview on the screen. Screen dimming when inactive to preserve battery Camera features 2592 x 2592 JPEG image capture. GIF recording and playback support. Autofocus support 8 photo filters included. Misc Image transfer through custom hotspot interface. Fully 3D printed case parts 3D printable TPU protective sleeve and lanyard design is available. 22-second boot [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/22/optocam-zero-a-raspberry-pi-zero-2-w-based-diy-digital-camera/\">Optocam Zero &#8211; A Raspberry Pi Zero 2 W -based DIY digital camera</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "ST VL53L9CX direct Time-of-Flight 3D LiDAR supports 5cm to 9m range, 2.3K zones resolution",
     "source": "CNX Software",
     "date": "2026-06-22",
@@ -49,74 +70,67 @@
     "summary": "<div><img alt=\"μTFS lightweight, zero allocation file system\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/μTFS-lightweight-zero-allocation-file-system-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>CLI Systems has introduced UTFS (μTFS), a simple, lightweight embedded storage system designed for small MCUs. Unlike traditional file systems like FAT32 or EXT4, or even lighter options like LittleFS and SPIFFS used on boards like the ESP32, UTFS is much simpler. It does not use dynamic memory and avoids complex features like wear leveling, making it easier to use on low-resource devices. Designed for flat, byte-addressable memory like raw EEPROM, CPU flash pages, or external SPI/I²C flash, UTFS allows bare-metal firmware to store named data blobs (&#8220;files&#8221;) back-to-back. Each file is appended with a fixed 24-byte header containing metadata like identifiers, sizes, and application-defined signatures. UTFS specifications and features Footprint – Fixed 24-byte header per file; zero heap usage (no malloc) Format – TAR-inspired sequential layout; forward-compatible so files can be added later without breaking existing memory layouts Storage Agnostic – Requires porting only two functions to interface with [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/22/utfs-is-a-lightweight-zero-allocation-file-system-for-embedded-devices/\">UTFS is a lightweight, zero-allocation file system for embedded devices</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Nuclear Fusion  industry supply chain needs standardisation, regulation and funding",
-    "source": "Electronics Weekly",
+    "title": "Web browsers on various video game consoles",
+    "source": "Adafruit",
     "date": "2026-06-22",
-    "url": "https://www.electronicsweekly.com/news/business/fusion-industry-supply-chain-needs-dedication-standardisation-regulation-and-funding-2026-06/",
-    "summary": "<p>Supply chain spending by the nuclear fusion industry increased by 24% in 2025, according  to The Fusion Industry Supply Chain 2026 &#8211; the annual report from the Fusion Industry Association   ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/fusion-industry-supply-chain-needs-dedication-standardisation-regulation-and-funding-2026-06/\">Nuclear Fusion  industry supply chain needs standardisation, regulation and funding</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/06/22/web-browsers-on-various-video-game-consoles/",
+    "summary": "Video game consoles have a long history with web browsers. From the advent of the World Wide Web, consoles have been trying to get online. Browsers on video game consoles were initially very much an attempt to provide a cheap gateway to the web for a casual audience lacking technical expertise, though as time progressed [&#8230;]"
   },
   {
-    "title": "Leonardo delivers flight far-infrared detectors to ESA FORUM mission",
-    "source": "Electronics Weekly",
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
     "date": "2026-06-22",
-    "url": "https://www.electronicsweekly.com/uk-region/leonardo-delivers-flight-far-infrared-detectors-to-esa-forum-mission-2026-06/",
-    "summary": "<p>Leonardo in Southampton has delivered flight infrared detectors to the European Space Agency’s FORUM mission, the company announces. These will enable atmospheric scientists to measure the energy emitted by the ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/uk-region/leonardo-delivers-flight-far-infrared-detectors-to-esa-forum-mission-2026-06/\">Leonardo delivers flight far-infrared detectors to ESA FORUM mission</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/06/22/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-22/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
-    "title": "M31 collaborates with TSMC to continue design IP ecosystem",
-    "source": "Electronics Weekly",
+    "title": "How to Use Every Dremel Bit",
+    "source": "Adafruit",
     "date": "2026-06-22",
-    "url": "https://www.electronicsweekly.com/news/products/micros/m31-collaborates-with-tsmc-to-continue-design-ip-ecosystem-2026-06/",
-    "summary": "<p>Taiwanese silicon IP provider, M31 Technology (M31), has taken another step in its advanced-node interface IP introduction roadmap, with the tapeout of its eUSB2V2 interface IP on TSMC’s N2P process. ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/micros/m31-collaborates-with-tsmc-to-continue-design-ip-ecosystem-2026-06/\">M31 collaborates with TSMC to continue design IP ecosystem </a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/06/22/how-to-use-every-dremel-bit/",
+    "summary": "Ariel taught me the joys of a good collection. Seeing a collection in action? Wowie zowie! Cheers to Log&#8217;s Carving Club for sharing this gem on YouTube: What are the different Dremel bits and burrs for? How do you use different Dremel bits? Hopefully in this Dremel bit guide, I’ll answer those questions."
   },
   {
-    "title": "AmbaSat, NZIIC secure €250K funding for satellite hydrogen monitoring",
-    "source": "Electronics Weekly",
+    "title": "Plane Spotter — a Tactical ADS-B Desk Radar (ESP8266 + 1 Inch OLED)",
+    "source": "Adafruit",
     "date": "2026-06-22",
-    "url": "https://www.electronicsweekly.com/news/research-news/ambasat-nziic-secure-e250k-funding-for-satellite-hydrogen-monitoring-2026-06/",
-    "summary": "<p>The European Space Agency (ESA) has awarded AmbaSat and Teesside University a €250,000 contract for a 12-month feasibility study into a satellite-enabled hydrogen monitoring service, for industrial applications. Specifically, the ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/research-news/ambasat-nziic-secure-e250k-funding-for-satellite-hydrogen-monitoring-2026-06/\">AmbaSat, NZIIC secure €250K funding for satellite hydrogen monitoring</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/06/22/plane-spotter-a-tactical-ads-b-desk-radar-esp8266-1-inch-oled/",
+    "summary": "I live in an area with a lot of air traffic. Often my children ask me, or I find myself wondering, where the airplanes overhead are going, and from where they came. This project from Italian maker Danilo Cannas seems like a perfect fit for me to try out: A 3D-printed desk gadget that shows [&#8230;]"
   },
   {
-    "title": "US DoC accuses ASML of shipping EUV-compatible components to China",
-    "source": "Electronics Weekly",
+    "title": "NYPL’s Pride Month Books Recommendations for Kids",
+    "source": "Adafruit",
     "date": "2026-06-22",
-    "url": "https://www.electronicsweekly.com/news/business/us-accuses-asml-of-shipping-euv-compatible-components-to-china-2026-06/",
-    "summary": "<p>US commerce Secretary Howard Lutnick has told ASML that China has an EUV machine contrary to US export restrictions, reports Bloomberg. ASML says that none of its EUV machines are ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/us-accuses-asml-of-shipping-euv-compatible-components-to-china-2026-06/\">US DoC accuses ASML of shipping EUV-compatible components to China</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/06/22/nypls-pride-month-books-recommendations-for-kids/",
+    "summary": "&#160; Allison Ameduri shared NYPL Teen Reading Ambassadors&#8217; recommendations for kids ranging from 3 to 14 that &#8220;highlight LGBTQ+ voices and stories&#8221;: Featuring both nonfiction and fiction, these titles invite kids to learn about LGBTQ+ history, as well as LGTBQ+ experiences that all younger readers can relate to in their daily lives. Read more about [&#8230;]"
   },
   {
-    "title": "Architect Labs aims to transform AI chip design",
-    "source": "Electronics Weekly",
+    "title": "OnLogic Launches DNV Certified Computing Solutions for Global Maritime Operations",
+    "source": "EE Journal",
     "date": "2026-06-22",
-    "url": "https://www.electronicsweekly.com/news/business/architect-labs-aims-to-transform-ai-chipdesign-2026-06/",
-    "summary": "<p>Architect Labs, a Palo Alto startup, has raised $24 million to speed up custom AI chip design. &#8220;We are building the AI system that explores, designs and provably verifies chips ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/architect-labs-aims-to-transform-ai-chipdesign-2026-06/\">Architect Labs aims to transform AI chip design</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.eejournal.com/industry_news/onlogic-launches-dnv-certified-computing-solutions-for-global-maritime-operations/",
+    "summary": "Industrial computing and edge solution specialists, OnLogic (www.onlogic.com), have launched a new range of DNV certified industrial computing solutions designed to solve the global maritime industry’s most persistent technical challenges. As maritime operations undergo rapid digital transformation, they face the dual challenge of meeting strict international standards while enduring the harsh environmental conditions of the high &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/onlogic-launches-dnv-certified-computing-solutions-for-global-maritime-operations/\">Read More &#8594;<span class=\"screen-reader-text\"> \"OnLogic Launches DNV Certified Computing Solutions for Global Maritime Operations\"</span></a>"
   },
   {
-    "title": "Metrology and Inspection equipment market tops $18bn",
-    "source": "Electronics Weekly",
+    "title": "MacDermid Alpha Launches ATROX® CD 560-1: Zero PFAS Alternate Silver Filler Die Attach Paste Designed for Cost Stability and High-Speed Production",
+    "source": "EE Journal",
     "date": "2026-06-22",
-    "url": "https://www.electronicsweekly.com/news/business/metrology-and-inspection-equipment-market-tops-18bn-2026-06/",
-    "summary": "<p>The Metrology and Inspection equipment market exceeds $18 billion as AI, HBM, and advanced packaging drive demand for process control, says Yole Group. The market grew 15% in 2025 and ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/metrology-and-inspection-equipment-market-tops-18bn-2026-06/\">Metrology and Inspection equipment market tops $18bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.eejournal.com/industry_news/macdermid-alpha-launches-atrox-cd-560-1-zero-pfas-alternate-silver-filler-die-attach-paste-designed-for-cost-stability-and-high-speed-production/",
+    "summary": "With silver price volatility increasing and sustainability requirements accelerating across semiconductor assembly, MacDermid Alpha Electronics Solutions introduces ATROX® CD 560-1, a zero per- and polyfluoroalkyl substances (PFAS) alternate silver filler die attach paste designed for metal leadframe packages and high-speed automated dispensing in modern manufacturing environments. As silver prices continue to fluctuate sharply, semiconductor manufacturers face growing pressure on &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/macdermid-alpha-launches-atrox-cd-560-1-zero-pfas-alternate-silver-filler-die-attach-paste-designed-for-cost-stability-and-high-speed-production/\">Read More &#8594;<span class=\"screen-reader-text\"> \"MacDermid Alpha Launches ATROX® CD 560-1: Zero PFAS Alternate Silver Filler Die Attach Paste Designed for Cost Stability and High-Speed Production\"</span></a>"
   },
   {
-    "title": "Many approaches to optical interconnect",
-    "source": "Electronics Weekly",
+    "title": "Stony Brook University Researchers Look to Help Reverse Climate Change by Developing Computational Process Using Clean Electricity to Identify the Best CO2 Dissolving Liquid Solvents",
+    "source": "EE Journal",
     "date": "2026-06-22",
-    "url": "https://www.electronicsweekly.com/news/business/many-approaches-to-optical-interconnect-2026-06/",
-    "summary": "<p>The markets for co-packaged optics (CPO) and near-packaged optics (NPO) will expand significantly, from around $100 million in 2025 to over $39 billion by 2030, says TrendForce. As data transmission ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/many-approaches-to-optical-interconnect-2026-06/\">Many approaches to optical interconnect</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.eejournal.com/industry_news/stony-brook-university-researchers-look-to-help-reverse-climate-change-by-developing-computational-process-using-clean-electricity-to-identify-the-best-co2-dissolving-liquid-solvents/",
+    "summary": "Carbon dioxide (CO2) is a primary driver of climate change in the Earth’s atmosphere. At the State University of New York at Stony Brook (Stony Brook University), PhD researcher Kuldeepsinh Raj, along with Principal Investigator Professor Nav Nidhi Rajput from the Department of Materials Science and Chemical Engineering are using clean electricity to develop the &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/stony-brook-university-researchers-look-to-help-reverse-climate-change-by-developing-computational-process-using-clean-electricity-to-identify-the-best-co2-dissolving-liquid-solvents/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Stony Brook University Researchers Look to Help Reverse Climate Change by Developing Computational Process Using Clean Electricity to Identify the Best CO2 Dissolving Liquid Solvents\"</span></a>"
   },
   {
-    "title": "Imec pushes ferroelectric memory research towards AI integration",
-    "source": "Electronics Weekly",
+    "title": "SiLC Technologies Debuts Eyeonic Edge for High-Precision 4D  Inspection of Large Objects",
+    "source": "EE Journal",
     "date": "2026-06-22",
-    "url": "https://www.electronicsweekly.com/news/business/imec-pushes-ferroelectric-memory-research-towards-ai-integration-2026-06/",
-    "summary": "<p>Two advances in ferroelectric memory research by Imec push ferroelectric capacitors and ferroelectric field-effect transistors towards becoming enablers for  low-voltage operation and high-density integration. Ferroelectric memory is drawing increasing attention ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/imec-pushes-ferroelectric-memory-research-towards-ai-integration-2026-06/\">Imec pushes ferroelectric memory research towards AI integration</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Ed Concocts A Sovereign Wheeze",
-    "source": "Electronics Weekly",
-    "date": "2026-06-22",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-concocts-a-sovereign-wheeze-2026-06/",
-    "summary": "<p>Sovereignty is the most effective key to open national treasuries’ coffers, Ed confides to his diary, tell any government you can deliver a domestic sovereign capability in chip-making and they’ll ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-concocts-a-sovereign-wheeze-2026-06/\">Ed Concocts A Sovereign Wheeze</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.eejournal.com/industry_news/silc-technologies-debuts-eyeonic-edge-for-high-precision-4d-inspection-of-large-objects/",
+    "summary": "SiLC Technologies today announced the launch of Eyeonic® Edge, the newest addition to their laser scanner product lines. Edge is a 4D area scanner that extends the capabilities of the company’s award-winning Eyeonic Trace, the industry’s first laser line scanner to achieve 100-micron range precision at a distance of 5 meters away. While Trace is &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/silc-technologies-debuts-eyeonic-edge-for-high-precision-4d-inspection-of-large-objects/\">Read More &#8594;<span class=\"screen-reader-text\"> \"SiLC Technologies Debuts Eyeonic Edge for High-Precision 4D  Inspection of Large Objects\"</span></a>"
   },
   {
     "title": "Hackaday Links: June 21, 2026",
@@ -124,20 +138,6 @@
     "date": "2026-06-21",
     "url": "https://hackaday.com/2026/06/21/hackaday-links-june-21-2026/",
     "summary": "<div><img alt=\"Hackaday Links Column Banner\" class=\"attachment-large size-large wp-post-image\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Today marks the summer solstice, the longest day of the year and the start of astronomical summer in the Northern Hemisphere. This doesn&#8217;t really have much to do with hacking <a class=\"read-more\" href=\"https://hackaday.com/2026/06/21/hackaday-links-june-21-2026/\">&#8230;read more</a>"
-  },
-  {
-    "title": "SmallRun.net Enters the Marketplace Market",
-    "source": "Hackaday",
-    "date": "2026-06-21",
-    "url": "https://hackaday.com/2026/06/21/smallrun-net-enters-the-marketplace-market/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"458\" src=\"https://hackaday.com/wp-content/uploads/2026/06/SmallRun-market-feat.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>So you have a project that you love, and everyone else loves too. People start saying &#8220;you should sell this&#8221; but where? Well, there&#8217;s a new marketplace you might want <a class=\"read-more\" href=\"https://hackaday.com/2026/06/21/smallrun-net-enters-the-marketplace-market/\">&#8230;read more</a>"
-  },
-  {
-    "title": "When a Favicon Becomes the Entire Website",
-    "source": "Hackaday",
-    "date": "2026-06-21",
-    "url": "https://hackaday.com/2026/06/21/when-a-favicon-becomes-the-entire-website/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"314\" src=\"https://hackaday.com/wp-content/uploads/2026/06/Wikipedia_favicon_in_Firefox_on_KDE.png?w=522\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"522\" /></div>Putting hidden data in places where few expect it can be a fun hobby or even a professional career. In the case of [Tim Wehrle] it&#8217;s just the former. His <a class=\"read-more\" href=\"https://hackaday.com/2026/06/21/when-a-favicon-becomes-the-entire-website/\">&#8230;read more</a>"
   },
   {
     "title": "SpacemiT K3 Pico-ITX RISC-V Chassis Kit Review – Part 2: What works, what doesn’t in Bianbu OS 4.0",
@@ -238,41 +238,6 @@
     "summary": "A recent article in The New York Times reports on Michigan’s effort to pivot Detroit’s manufacturing legacy into the would-be fast growing U.S. drone industry. The piece follows Birdstop, a drone startup that moved into the former United Auto Workers training facility and examines how incentives, auto suppliers, and local investors are trying to make [&#8230;]"
   },
   {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-06-19",
-    "url": "https://blog.adafruit.com/2026/06/19/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-19-3/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
-  },
-  {
-    "title": "Broadway Celebrates Juneteenth #Juneteenth2026",
-    "source": "Adafruit",
-    "date": "2026-06-19",
-    "url": "https://blog.adafruit.com/2026/06/19/broadway-celebrates-juneteenth-juneteenth2026/",
-    "summary": "Checkout the sixth annual Broadway Celebrates Juneteenth event, this is a free outdoor concert happening Today, June 19, from 4:00 PM to 5:30 PM in Times Square! The Broadway Celebrates Juneteenth concert will feature soon to be announced cast members from: Aladdin; &#38; Juliet; Buena Vista Social Club; CATS: The Jellicle Ball; The Great Gatsby; [&#8230;]"
-  },
-  {
-    "title": "#Juneteenth2026 Events at NYPL",
-    "source": "Adafruit",
-    "date": "2026-06-19",
-    "url": "https://blog.adafruit.com/2026/06/19/juneteenth2026-events-at-nypl/",
-    "summary": "&#160; NYPL is always the first place we check when looking for high quality, incredibly thoughtful events. Explore upcoming NYPL events celebrating Juneteenth here. image via NYPL &#160;"
-  },
-  {
-    "title": "Juneteenth with NYC Parks #Juneteenth2026",
-    "source": "Adafruit",
-    "date": "2026-06-19",
-    "url": "https://blog.adafruit.com/2026/06/19/juneteenth-with-nyc-parks-juneteenth2026/",
-    "summary": "&#160; Juneteenth is recognized as a federal holiday commemorating the day in 1865 when federal troops arrived in Galveston, Texas to enforce the Emancipation Proclamation. The NYC Parks Department has activities event and more planned throughout the city. Year round you can visit Juneteenth Grove inside Brooklyn&#8217;s Cadman Plaza Park. &#160; Juneteenth Grove image via [&#8230;]"
-  },
-  {
-    "title": "Loki style cat helmet #3DPrinting #3DThursday",
-    "source": "Adafruit",
-    "date": "2026-06-19",
-    "url": "https://blog.adafruit.com/2026/06/18/loki-style-cat-helmet-3dprinting-3dthursday/",
-    "summary": "GenX3d77 shares: Here is my next addition to the cat helmet series. This version of the Loki helmet is a pretty natural fit for a cat download the files on: https://makerworld.com/en/models/2873592-loki-style-cat-helmet Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making solid objects from digital models. Recently, [&#8230;]"
-  },
-  {
     "title": "Innatera and CYRAN AI Expand Collaboration to Advance Neuromorphic Edge AI for Wearables and Intelligent Devices",
     "source": "EE Journal",
     "date": "2026-06-19",
@@ -350,20 +315,6 @@
     "summary": "This week, at the 2026 IEEE / JSAP symposium on VLSI Technology &#38; Circuits, imec, a world-leading research and innovation hub in advanced semiconductor technologies, presents two advances in ferroelectric memory research, targeting both ferroelectric capacitors and ferroelectric field-effect transistors as emerging candidates to enable low-voltage operation and high-density integration. Ferroelectric memory is drawing increasing &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/imec-achieves-breakthroughs-in-ferroelectric-memory-research-for-next-generation-memory-solutions-to-meet-ai-era-data-needs/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Imec achieves breakthroughs in ferroelectric memory research for next-generation memory solutions to meet AI-era data needs\"</span></a>"
   },
   {
-    "title": "Addressing the Disconnect Between AI Speed and Wet Lab Reality",
-    "source": "EE Journal",
-    "date": "2026-06-18",
-    "url": "https://www.eejournal.com/article/addressing-the-disconnect-between-ai-speed-and-wet-lab-reality/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/06/max-0493-image-for-home-page-labos-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />In some cases, AI can speed things up tremendously; in other cases, not so much. Take protein folding, for example. A highly simplistic view of the way things work is that human DNA contains roughly 20,000 protein-encoding genes, and the proteins encoded by these genes serve as the molecular machines that drive the chemistry of &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/addressing-the-disconnect-between-ai-speed-and-wet-lab-reality/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Addressing the Disconnect Between AI Speed and Wet Lab Reality\"</span></a>"
-  },
-  {
-    "title": "Zhihe A210 octa-core RISC-V SoC with 12 TOPS NPU powers SoM-based development board",
-    "source": "CNX Software",
-    "date": "2026-06-17",
-    "url": "https://www.cnx-software.com/2026/06/17/zhihe-a210-octa-core-risc-v-soc-with-12-tops-npu-powers-som-based-development-board/",
-    "summary": "<div><img alt=\"Zhihe A210 block diagram\" class=\"attachment-medium size-medium wp-post-image\" height=\"549\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Zhihe-A210-block-diagram-720x549.png\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Last year, we noted three upcoming high-performance RISC-V SoCs to watch out for: Zhihe A210, SpacemiT K3, and UltraRISC UR-DP1000. The K3 has already been launched, and I&#8217;ll work on the K3-Pico-ITX SBC/mini PC review this coming weekend, while the UR-DP1000 is (still?) expected on the Milk-V Titan motherboard. However, we did not have that many details about the Zhihe A210 so far. This has now changed since documentation has surfaced for the Zhihe A210 and a development kit (A210 SODIMM V2) based on a carrier board and a system-on-module itself powered by the octa-core RISC-V processor. Let&#8217;s have a look at both. Zhihe A210 octa-core RISC-V SoC Zhihe A210 specifications: CPU  &#8211; Octa-core RISC-V RV64GCV processor 4x 64-bit RISC-V C920 cores @ up to 2.3 GHz with 64 KB I Cache and 64 KB D Cache for each core, 1 MB L2 cache; note: 1.9 GHz is also shown [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/17/zhihe-a210-octa-core-risc-v-soc-with-12-tops-npu-powers-som-based-development-board/\">Zhihe A210 octa-core RISC-V SoC with 12 TOPS NPU powers SoM-based development board</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
     "title": "MIPI SWI3S: Simplifying Embedded Audio Complexity",
     "source": "Embedded.com",
     "date": "2026-06-17",
@@ -376,27 +327,6 @@
     "date": "2026-06-17",
     "url": "https://www.embedded.com/efinix-launches-titanium-edge-fpga-family/",
     "summary": "<p>Efinix has announced the Titanium Edge family of field-programmable gate arrays (FPGAs), a new product line developed specifically for edge artificial intelligence applications that require low power consumption, compact form factors, and high levels of reliability and security. Based on the company's Titanium architecture, the new devices are designed to address the increasing performance and [...]</p>\n<p>The post <a href=\"https://www.embedded.com/efinix-launches-titanium-edge-fpga-family/\">Efinix Launches Titanium Edge FPGA Family</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Mouser Electronics Highlights LoRa Resource Hub for Scalable, Low-Power IoT Design",
-    "source": "EE Journal",
-    "date": "2026-06-17",
-    "url": "https://www.eejournal.com/industry_news/mouser-electronics-highlights-lora-resource-hub-for-scalable-low-power-iot-design/",
-    "summary": "June 17, 2026 – Mouser Electronics, Inc., the industry&#8217;s leading New Product Introduction (NPI) distributor with the widest selection of semiconductors and electronic components™, highlights its comprehensive LoRa® resource center as global adoption of low-power, wide-area IoT networks accelerates. Engineers designing network infrastructure, industrial automation, and smart-sensing applications can access the latest technologies and design insights to shape next-generation wireless &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/mouser-electronics-highlights-lora-resource-hub-for-scalable-low-power-iot-design/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Mouser Electronics Highlights LoRa Resource Hub for Scalable, Low-Power IoT Design\"</span></a>"
-  },
-  {
-    "title": "Optimizing Your Design with Sona™ Wi-Fi 6/6E: – Ezurio and Mouser Electronics",
-    "source": "EE Journal",
-    "date": "2026-06-17",
-    "url": "https://www.eejournal.com/chalk_talks/optimizing-your-design-with-sona-wi-fi-6-6e-ezurio-and-mouser-electronics/",
-    "summary": "In this episode of Chalk Talk, Andy Ross from Ezurio and Amelia Dalton explore why a one-size-fits-all approach doesn&#8217;t work for Wi-Fi 6, the specific benefits of the IF573 and IF513 series Wi-Fi 6E Modules, and how to choose the right radio for your next design. Click here for more information about Ezurio Sona™ Wi-Fi® &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/chalk_talks/optimizing-your-design-with-sona-wi-fi-6-6e-ezurio-and-mouser-electronics/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Optimizing Your Design with Sona™ Wi-Fi 6/6E: – Ezurio and Mouser Electronics\"</span></a>"
-  },
-  {
-    "title": "Compact 240W GaN-based desktop adapters simplify integration into medical and industrial applications",
-    "source": "EE Journal",
-    "date": "2026-06-17",
-    "url": "https://www.eejournal.com/industry_news/compact-240w-gan-based-desktop-adapters-simplify-integration-into-medical-and-industrial-applications/",
-    "summary": "XP Power introduces the APM240 series of 240W external desktop AC-DC power supplies that simplify integration in medical, home healthcare, and industrial applications. The adapters are designed for engineers developing patient treatment, patient monitoring, and surgical robots, as well as industrial robotics and process control equipment. The series combines high power density, global compliance, and high energy &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/compact-240w-gan-based-desktop-adapters-simplify-integration-into-medical-and-industrial-applications/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Compact 240W GaN-based desktop adapters simplify integration into medical and industrial applications\"</span></a>"
   },
   {
     "title": "How to Build Simulink Models with Agentic AI",

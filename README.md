@@ -1,12 +1,15 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-22 12:39 UTC
+Last Updated: 2026-06-22 17:22 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-22 | Patch the Planet: a Daybreak initiative to support open source maintainers | OpenAI | [link](https://openai.com/index/patch-the-planet) |
+| 2026-06-22 | Daybreak: Tools for securing every organization in the world | OpenAI | [link](https://openai.com/index/daybreak-securing-the-world) |
+| 2026-06-22 | PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters | Hugging Face | [link](https://huggingface.co/blog/PaddlePaddle/pp-ocrv6) |
 | 2026-06-21 | Samsung Electronics brings ChatGPT and Codex to employees | OpenAI | [link](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment) |
 | 2026-06-18 | New usage analytics and updated spend controls for enterprises | OpenAI | [link](https://openai.com/index/chatgpt-enterprise-spend-controls) |
 | 2026-06-18 | Improving health intelligence in ChatGPT | OpenAI | [link](https://openai.com/index/improving-health-intelligence-in-chatgpt) |
@@ -14,9 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-18 | MosaicLeaks: Can your research agent keep a secret? | Hugging Face | [link](https://huggingface.co/blog/ServiceNow/mosaicleaks) |
 | 2026-06-18 | Beyond LoRA: Can you beat the most popular fine-tuning technique? | Hugging Face | [link](https://huggingface.co/blog/peft-beyond-lora) |
 | 2026-06-18 | Is it agentic enough? Benchmarking open models on your own tooling | Hugging Face | [link](https://huggingface.co/blog/is-it-agentic-enough) |
-| 2026-06-17 | A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry | OpenAI | [link](https://openai.com/index/ai-chemist-improves-reaction) |
-| 2026-06-17 | Introducing LifeSciBench | OpenAI | [link](https://openai.com/index/introducing-life-sci-bench) |
-| 2026-06-17 | MolmoMotion: Language-guided 3D motion forecasting | Hugging Face | [link](https://huggingface.co/blog/allenai/molmomotion) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -33,6 +33,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-22 | NVIDIA releases Halos, a full-stack safety system for robotics | Robotics Business Review | [link](https://www.therobotreport.com/nvidia-releases-halos-a-full-stack-safety-system-for-robotics/) |
+| 2026-06-22 | Cobot’s Proxie Gen 2 robot adds autotasking, mobile manipulation | Robotics Business Review | [link](https://www.therobotreport.com/cobots-proxie-gen-2-robot-adds-autotasking-mobile-manipulation/) |
 | 2026-06-21 | Güdel to show grinding beyond stationary robots with vertical, horizontal motion at Automate 2026 | Robotics Business Review | [link](https://www.therobotreport.com/gudel-to-showcase-grinding-beyond-stationary-robots-integrated-vertical-horizontal-motion-automate/) |
 | 2026-06-20 | Defense manufacturing readiness hinges on autonomous finishing, says GrayMatter Robotics | Robotics Business Review | [link](https://www.therobotreport.com/defense-manufacturing-readiness-hinges-autonomous-surface-prep-says-graymatter/) |
 | 2026-06-19 | What Amazon’s Astro Taught Me About Giving Robots a Soul | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/amazon-astro-robot-sound) |
@@ -41,22 +43,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-19 | Video Friday: Do Robots Even Need Legs? | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-agentic-ai-robot) |
 | 2026-06-18 | RealSense unveils AI-native D585 Pro depth camera for robots | Robotics Business Review | [link](https://www.therobotreport.com/realsense-unveils-ai-native-d585-pro-depth-camera-for-robots/) |
 | 2026-06-18 | Kinova launches KIMA medical robotic arm | Robotics Business Review | [link](https://www.therobotreport.com/kinova-launches-kima-medical-robotic-arm/) |
-| 2026-06-18 | Microbot Medical to expand veteran access to robotic surgery with LIBERTY | Robotics Business Review | [link](https://www.therobotreport.com/microbot-medical-expands-veteran-access-robotic-surgery-liberty/) |
-| 2026-06-18 | Richtech Robotics launches livestream for ADAM AI-powered humanoid | Robotics Business Review | [link](https://www.therobotreport.com/richtech-robotics-launches-livestream-adam-ai-powered-humanoid/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-22 | Graphics Upgrade for Nintendo Entertainment System | Hackaday | [link](https://hackaday.com/2026/06/22/graphics-upgrade-for-nintendo-entertainment-system/) |
+| 2026-06-22 | MSYS2 and the No-Fuss Way to Get More GNU Into Your Windows | Hackaday | [link](https://hackaday.com/2026/06/22/msys2-and-the-no-fuss-way-to-get-more-gnu-into-your-windows/) |
 | 2026-06-22 | SDS-Remote Brings Power-User Features to Siglent Scope | Hackaday | [link](https://hackaday.com/2026/06/22/sds-remote-brings-power-user-features-to-siglent-scope/) |
 | 2026-06-22 | “Telescope Rancher” is The Coolest Job You Didn’t Know Existed | Hackaday | [link](https://hackaday.com/2026/06/22/telescope-rancher-is-the-coolest-job-you-didnt-know-existed/) |
 | 2026-06-22 | Won’t Somebody Please Think Of Banning The British Children! | Hackaday | [link](https://hackaday.com/2026/06/21/wont-somebody-please-think-of-banning-the-british-children/) |
 | 2026-06-22 | Brewing Espresso with Ultrasonic Assistance | Hackaday | [link](https://hackaday.com/2026/06/21/brewing-espresso-with-ultrasonic-assistance/) |
+| 2026-06-22 | Optocam Zero – A Raspberry Pi Zero 2 W -based DIY digital camera | CNX Software | [link](https://www.cnx-software.com/2026/06/22/optocam-zero-a-raspberry-pi-zero-2-w-based-diy-digital-camera/) |
 | 2026-06-22 | ST VL53L9CX direct Time-of-Flight 3D LiDAR supports 5cm to 9m range, 2.3K zones resolution | CNX Software | [link](https://www.cnx-software.com/2026/06/22/st-vl53l9cx-direct-time-of-flight-3d-lidar-supports-5cm-to-9m-range-2-3k-zones-resolution/) |
 | 2026-06-22 | GEEKOM A7 2026 Edition Review – Part 2: AMD Ryzen 5 7545U Mini PC tested with Windows 11 Pro | CNX Software | [link](https://www.cnx-software.com/2026/06/22/geekom-a7-2026-edition-review-part-2-amd-ryzen-5-7545u-mini-pc-tested-with-windows-11-pro/) |
 | 2026-06-22 | UTFS is a lightweight, zero-allocation file system for embedded devices | CNX Software | [link](https://www.cnx-software.com/2026/06/22/utfs-is-a-lightweight-zero-allocation-file-system-for-embedded-devices/) |
-| 2026-06-22 | Nuclear Fusion  industry supply chain needs standardisation, regulation and funding | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/fusion-industry-supply-chain-needs-dedication-standardisation-regulation-and-funding-2026-06/) |
-| 2026-06-22 | Leonardo delivers flight far-infrared detectors to ESA FORUM mission | Electronics Weekly | [link](https://www.electronicsweekly.com/uk-region/leonardo-delivers-flight-far-infrared-detectors-to-esa-forum-mission-2026-06/) |
-| 2026-06-22 | M31 collaborates with TSMC to continue design IP ecosystem | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/micros/m31-collaborates-with-tsmc-to-continue-design-ip-ecosystem-2026-06/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -75,30 +75,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-22 | robotneu/composite_ability_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/composite_ability_pfc_2_3_hard) |
+| 2026-06-22 | RobotsMali/lau-soloni-114m-mse-k1 | 6 | 1 | [link](https://huggingface.co/RobotsMali/lau-soloni-114m-mse-k1) |
 | 2026-06-22 | etri-robotai-platform-dev/phase1-e2e-pusht-smoke-20260622-1729 | 0 | 0 | [link](https://huggingface.co/etri-robotai-platform-dev/phase1-e2e-pusht-smoke-20260622-1729) |
 | 2026-06-22 | AMD-PAVS-AI/Robotics_DevKit_models | 0 | 0 | [link](https://huggingface.co/AMD-PAVS-AI/Robotics_DevKit_models) |
 | 2026-06-22 | sjb-robotics/sjb-ai-mini | 0 | 0 | [link](https://huggingface.co/sjb-robotics/sjb-ai-mini) |
 | 2026-06-22 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 188 | 6 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
+| 2026-06-22 | InternRobotics/VLAC2-Qwen3VL-30B-A3B-Progress | 0 | 0 | [link](https://huggingface.co/InternRobotics/VLAC2-Qwen3VL-30B-A3B-Progress) |
+| 2026-06-22 | wzxbcml/so101-lingbot-vla-30epoch | 0 | 0 | [link](https://huggingface.co/wzxbcml/so101-lingbot-vla-30epoch) |
 | 2026-06-22 | kuimin/ta_vla_force_frozen_vlm | 0 | 0 | [link](https://huggingface.co/kuimin/ta_vla_force_frozen_vlm) |
 | 2026-06-22 | GT-111/memcode-vla | 0 | 0 | [link](https://huggingface.co/GT-111/memcode-vla) |
-| 2026-06-22 | KasLoot/lingbot-vla-v2 | 0 | 0 | [link](https://huggingface.co/KasLoot/lingbot-vla-v2) |
-| 2026-06-22 | deksprime/vla-jepa-robocasa-mg300-unfrozen-ri | 0 | 0 | [link](https://huggingface.co/deksprime/vla-jepa-robocasa-mg300-unfrozen-ri) |
-| 2026-06-22 | vladimirmodylevskii/act_so100_pickplace_v1 | 0 | 0 | [link](https://huggingface.co/vladimirmodylevskii/act_so100_pickplace_v1) |
-| 2026-06-22 | etyacke/vla-foundry-so101-poc | 0 | 0 | [link](https://huggingface.co/etyacke/vla-foundry-so101-poc) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | Edgenesis/shifu | 1421 | Go | 568.5 | [link](https://github.com/Edgenesis/shifu) |
-| copper-project/copper-rs | 1364 | Rust | 545.7 | [link](https://github.com/copper-project/copper-rs) |
+| copper-project/copper-rs | 1365 | Rust | 546.1 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 446 | Shell | 178.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 61496 | Python | 24598.5 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29842 | Python | 11936.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15939 | Python | 6375.7 | [link](https://github.com/zauberzeug/nicegui) |
+| alireza787b/mavsdk_drone_show | 299 | Python | 119.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
+| commaai/openpilot | 61499 | Python | 24599.7 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29843 | Python | 11937.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15940 | Python | 6376.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15332 | C++ | 6132.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 13945 | C++ | 5578.1 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11242 | Python | 4496.9 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 10972 | Rust | 4388.9 | [link](https://github.com/rerun-io/rerun) |
+| google-deepmind/mujoco | 13950 | C++ | 5580.1 | [link](https://github.com/google-deepmind/mujoco) |
+| kornia/kornia | 11243 | Python | 4497.3 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -117,6 +117,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-06-22 | Delivery robot startup Robot.com is betting its next act on workplace humanoids - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ055UnFNc0FSb04zV3FQX25ROFZjMGwtaktnb2dKVElyV2hJZ0dheVRvd3M2S3BhOFlaTW5UcVA2T2t2Q1NSWTVUQThkZEdtT3BsVTBCYUE4RTBuU08tR3VHLVFiTXdJamYwaDU0SE1zS1VWZDk2SGhVWVNXUlhmaTdSbGJLVENuUklqM3pfR01kSXF3TUJlQnhlV3dZSktq?oc=5) |
+| 2026-06-22 | Seedcamp closes its largest fund yet at $320 million and bets the next decade on physical AI - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUpHRlU0YkMzUnZiUGV6UUF3M24yX1poazY1RUx3WFA5ZUtpTVdzdzNpLWJLSE9FMDljWllEdGF5SEZwMllOTUJwYjVNdjZnODRtMDZabWtfVFFsSl9pY1dsNkhSUW9mYm9aTkdUekZMZVdNTFdpQXBvZUFXa3NQelIxYWMtUUd5ZXpWLVZJVjlkeFJ6ckJqNDA1NEQ2UERGZUVSV2hjZ3p6WS1WaFhaS0c3ZWlJYko2bkgw?oc=5) |
 | 2026-06-22 | Automate 2026 Day-by-Day: Kawasaki 8-DOF Premiere, ABB Physical AI Launch, Humanoid Forum - Tech Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWmMtNGlPSm1COXZHTnVrelpVQS1nem5tWWVVRUJNYmJoYXpqTnplVHpJQ0FLeC10RnByMnF4WURjM0RGM2tYalUxZ1hJaDVQT0xiSTNyT1V5ZC02dG5tRHhDdzItc0hxeFViT0ZkU1BmNVdDWkJzc19xMjZRZ19lMXFGcVd2bnh5R193Qk9CSnhiSWk5cGZ3VFlDUE11QkpCdWJsTFdzNkxlSk9uNTMzNHl1bnJOZkdkUkg3VXczRExXcDMzUmotcnl4dTExMnlxZTlINw?oc=5) |
 | 2026-06-21 | Why it’s nearly impossible to build a robot without China - The Business Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2JPa2gzVHc1QjZ4TGVUM2NsTXB1WU9pdVpFMmI5Y3RmUy1Ya0tGRU9vVC1MU3pZZUwxV0d2ZC10amdVU3QzX0NPZUpkckJ2UGJrbzBEMndNUlUxb0dKRXRZeURoNnNaT0s3VGlHaWRxQkJoRnlfRk9ycFB2TEJZZFAzRUNZak5WMW9Lc2JSbmttaWFCblRYNzg5RlI3S1hMdGVBR3dmS2w?oc=5) |
 | 2026-06-20 | AI Startup Offers Free Cleaning to Train Robot Replacements - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGRsS0xNRGMyd0JDdGVYekZYblJmX1FyRjRRRGVpVFF1TkVoQWNFcVNfX2hvamU2N0lsdDdtMUVHVl9zcWtJZHlLOGxTWG9HSzJiZGY2SndqRk1BdTJLUGNHUFFlN0FoWk5SM2hURUptYUs5Y2U4STRRZFdGalBUX1dvWmZGbng2X0dib2pGRUlTZTNJZHdN?oc=5) |
@@ -125,8 +127,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-17 | Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it. - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDZGRzM0c0Q5WTg4MEIwREtvVTZCZzh0YTQ4SmpmZmE2V2pUZHVSQlEzVHNHQnRuSjNmU19TNU9ZYWxoVy13THRFeHN0OWRsVGM5ZUFDMk9feUVHel82MWtRdldBdFdmTm9lMjBiSDlldEVRT1ItalJRYVI0Vk9JamxxSWZaeUZfbEhrMTFLc1JWUUdyQkZZTUpnc3dWdU9seHpVQzc3RTFGSlBBSnRybVpzbldESGJsclJCckh1OFJlZDRQb181Rm9XdnJuTHcwWUY0?oc=5) |
 | 2026-06-17 | The AI startups building beyond chatbots are choosing Amazon’s custom chips. Here's why. - About Amazon | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWHJIMkh5anltV1hIcVlqaU5NSlFaa0VZOUhjd2REN2NQUExac2Vmd3I1THBTamZ2WDFKX2xCVGtoeEdaSkZKR0xUVkZ6elpxY3FUX0JVWHhLT005QnBLZlAxRkVaZy02Wlp1NUp1NGlVLXlvZldJQWZnREY3QlVtUnF4ZV9OV1g3?oc=5) |
 | 2026-06-17 | Amazon backs AI startup developing models to simulate the physical world - Crypto Briefing | physical ai startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZWhhdjVzODRNdjJwUTZFUTJPckNPRXBSdVo2LWs1TXh6WjU0Z3UwaXNOanRjTEl1dUJOUUFmX1pTd05JT0REV1NXVS1PZkYzMlZXYkZ2bjRObURUbnVXMEhuTi1wSXdhQ21UeQ?oc=5) |
-| 2026-06-17 | Seeds | Embodied AI Robotics Startup Astrall Dynamics Gains Investment from SAIC and Others - Gasgoo | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZkpWdHZuUkx2QkJ4U2J1UlY1OExBakhOTXBPUXE3c3N2RFRNUFNocF9pcDBXYUpKbkVTZWJpeTM1MExJM2hVeDRBSDR1dkdpRzdXVDJDU1Mta2d0cGxXREVIVHVYb1JkTGVJMVgxUW5rcHctUnNTQ2c2WWRrOUU2RVFvNW42eEpCUWFIaEQxSXpiT0gwWmF0ZmxNR3A4Q1FRVldqZUxxR0R3N2JiLTNaWTFuWVJMY2p2UVV0cm8tWkVQU3VodVl2WWNhcjFRc1BreHo4eEpZUzZaNDdveE5pbkNVMXVsZw?oc=5) |
-| 2026-06-17 | The next humanoid robot might not look human at all - The Verge | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQajB6WloxbzRYS0cxNjFBSE5VZlozemdEMkdvVjlaNjhyampxdURVZWhDMmlIVzFnQ253TWxpdXNCZ1R1cEMwVE10dUtzR0ZmVTFJOXhtN3JzWXo0Z2lIb09VZXUtb2hNMUtYS1hpbDY4dTNrd19yQ2doZzNXUFYzejM1YTJuTkdBQ2IzT3paNFZUQQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

@@ -1,5 +1,23 @@
 [
   {
+    "model": "robotneu/composite_ability_pfc_2_3_hard",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotneu/composite_ability_pfc_2_3_hard",
+    "date": "2026-06-22",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotsMali/lau-soloni-114m-mse-k1",
+    "downloads": 6,
+    "likes": 1,
+    "url": "https://huggingface.co/RobotsMali/lau-soloni-114m-mse-k1",
+    "date": "2026-06-22",
+    "keyword": "robot",
+    "score": 2.1
+  },
+  {
     "model": "etri-robotai-platform-dev/phase1-e2e-pusht-smoke-20260622-1729",
     "downloads": 0,
     "likes": 0,
@@ -34,6 +52,24 @@
     "date": "2026-06-22",
     "keyword": "embodied",
     "score": 57.7
+  },
+  {
+    "model": "InternRobotics/VLAC2-Qwen3VL-30B-A3B-Progress",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/InternRobotics/VLAC2-Qwen3VL-30B-A3B-Progress",
+    "date": "2026-06-22",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "wzxbcml/so101-lingbot-vla-30epoch",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wzxbcml/so101-lingbot-vla-30epoch",
+    "date": "2026-06-22",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "kuimin/ta_vla_force_frozen_vlm",
@@ -153,6 +189,42 @@
     "score": 0.1
   },
   {
+    "model": "surira/pi05_20260618_redonyellow_2_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/surira/pi05_20260618_redonyellow_2_policy",
+    "date": "2026-06-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "surira/pi05_20260618_redonyellow_1_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/surira/pi05_20260618_redonyellow_1_policy",
+    "date": "2026-06-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-06-22_shakeitup__diff_duration_nfft_8192",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-06-22_shakeitup__diff_duration_nfft_8192",
+    "date": "2026-06-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "TachyQaQ/so101_act_policy_differentplace",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/TachyQaQ/so101_act_policy_differentplace",
+    "date": "2026-06-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "ZDRRRM/diffusion_policy",
     "downloads": 0,
     "likes": 0,
@@ -225,42 +297,6 @@
     "score": 16.0
   },
   {
-    "model": "ZDRRRM/act_policy",
-    "downloads": 1,
-    "likes": 0,
-    "url": "https://huggingface.co/ZDRRRM/act_policy",
-    "date": "2026-06-22",
-    "keyword": "policy",
-    "score": 0.4
-  },
-  {
-    "model": "gyeongwk/Math-On-policy-SFT-Qwen3-1.7B-step-1200",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/gyeongwk/Math-On-policy-SFT-Qwen3-1.7B-step-1200",
-    "date": "2026-06-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-600",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-600",
-    "date": "2026-06-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-1600",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-1600",
-    "date": "2026-06-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "mario-d-robot/qwen-image-edit-batch",
     "downloads": 0,
     "likes": 0,
@@ -315,24 +351,6 @@
     "score": 0.1
   },
   {
-    "model": "robotneu/action_reasoning_pfc_2_3_hard",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/robotneu/action_reasoning_pfc_2_3_hard",
-    "date": "2026-06-21",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "YinonDouchan/smolvla_mobile_robot_lift_dummy_task",
-    "downloads": 1,
-    "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_dummy_task",
-    "date": "2026-06-21",
-    "keyword": "robot",
-    "score": 0.4
-  },
-  {
     "model": "flashrt/flashrt-vla-video",
     "downloads": 0,
     "likes": 0,
@@ -349,24 +367,6 @@
     "date": "2026-06-21",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "Angel-AV/angel-vlahov-sentiment-distilroberta",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Angel-AV/angel-vlahov-sentiment-distilroberta",
-    "date": "2026-06-21",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "EmpathicRobotics/vla-1.7b-pab-spline-adaptive",
-    "downloads": 11,
-    "likes": 0,
-    "url": "https://huggingface.co/EmpathicRobotics/vla-1.7b-pab-spline-adaptive",
-    "date": "2026-06-21",
-    "keyword": "vla",
-    "score": 3.4
   },
   {
     "model": "flashrt/world-model-conv",
