@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-22 00:03 UTC
+Last Updated: 2026-06-22 06:15 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -47,51 +47,63 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-22 | Won’t Somebody Please Think Of Banning The British Children! | Hackaday | [link](https://hackaday.com/2026/06/21/wont-somebody-please-think-of-banning-the-british-children/) |
+| 2026-06-22 | Brewing Espresso with Ultrasonic Assistance | Hackaday | [link](https://hackaday.com/2026/06/21/brewing-espresso-with-ultrasonic-assistance/) |
+| 2026-06-22 | UTFS is a lightweight, zero-allocation file system for embedded devices | CNX Software | [link](https://www.cnx-software.com/2026/06/22/utfs-is-a-lightweight-zero-allocation-file-system-for-embedded-devices/) |
+| 2026-06-22 | Many approaches to optical interconnect | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/many-approaches-to-optical-interconnect-2026-06/) |
+| 2026-06-22 | Imec pushes ferroelectric memory research towards AI integration | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/imec-pushes-ferroelectric-memory-research-towards-ai-integration-2026-06/) |
+| 2026-06-22 | Ed Concocts A Sovereign Wheeze | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-concocts-a-sovereign-wheeze-2026-06/) |
 | 2026-06-21 | Hackaday Links: June 21, 2026 | Hackaday | [link](https://hackaday.com/2026/06/21/hackaday-links-june-21-2026/) |
 | 2026-06-21 | SmallRun.net Enters the Marketplace Market | Hackaday | [link](https://hackaday.com/2026/06/21/smallrun-net-enters-the-marketplace-market/) |
 | 2026-06-21 | When a Favicon Becomes the Entire Website | Hackaday | [link](https://hackaday.com/2026/06/21/when-a-favicon-becomes-the-entire-website/) |
 | 2026-06-21 | Hacking the Mi Band 10 Smart Band and its Bestechnic SoC | Hackaday | [link](https://hackaday.com/2026/06/21/hacking-the-mi-band-10-smart-band-and-its-bestechnic-soc/) |
-| 2026-06-21 | Blender 5.2: Coming Soon With Improved Simulations | Hackaday | [link](https://hackaday.com/2026/06/21/blender-5-2-coming-soon-with-improved-simulations/) |
-| 2026-06-21 | How to Bias a CRT After Installation | Hackaday | [link](https://hackaday.com/2026/06/21/how-to-bias-a-crt-after-installation/) |
-| 2026-06-21 | Bernoulli Disk Goes “Wii!” When Plugged Into WiiU | Hackaday | [link](https://hackaday.com/2026/06/20/bernoulli-disk-goes-wii-when-plugged-into-wiiu/) |
-| 2026-06-21 | SpacemiT K3 Pico-ITX RISC-V Chassis Kit Review – Part 2: What works, what doesn’t in Bianbu OS 4.0 | CNX Software | [link](https://www.cnx-software.com/2026/06/21/spacemit-k3-pico-itx-risc-v-chassis-kit-review-part-2-what-works-what-doesnt-in-bianbu-os-4-0/) |
-| 2026-06-21 | Sponsored Content: Siemens’ User2User – How AI forms the future of Europe’s EDA industry | Electronics Weekly | [link](https://www.electronicsweekly.com/news/design/eda-and-ip/sponsored-content-siemens-user2user-how-ai-forms-the-future-of-europes-eda-industry-2026-06/) |
-| 2026-06-21 | Siemens’ User2User – How AI forms the future of Europe’s EDA industry | Electronics Weekly | [link](https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/siemens-user2user-how-ai-forms-the-future-of-europes-eda-industry-2026-06/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-06-18 | MemoryWAM: Efficient World Action Modeling with Persistent Memory | [link](https://arxiv.org/pdf/2606.20562v1) |
+| 2026-06-18 | UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning | [link](https://arxiv.org/pdf/2606.20559v1) |
+| 2026-06-18 | Generating Robot Hands from Human Demonstrations | [link](https://arxiv.org/pdf/2606.20549v1) |
+| 2026-06-18 | The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups | [link](https://arxiv.org/pdf/2606.20547v1) |
+| 2026-06-18 | Current World Models Lack a Persistent State Core | [link](https://arxiv.org/pdf/2606.20545v1) |
+| 2026-06-18 | Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving | [link](https://arxiv.org/pdf/2606.20537v1) |
+| 2026-06-18 | SARLO-80: Worldwide Slant SAR Language Optic Dataset 80cm | [link](https://arxiv.org/pdf/2606.20523v1) |
+| 2026-06-18 | HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining | [link](https://arxiv.org/pdf/2606.20521v1) |
+| 2026-06-18 | Approximation and interactive design with exact 3D elastic curves | [link](https://arxiv.org/pdf/2606.20516v1) |
+| 2026-06-18 | CLUSTER: Derivative-free optimization of smooth functions with parameter-change costs | [link](https://arxiv.org/pdf/2606.20498v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-06-21 | mario-d-robot/qwen-image-edit-batch | 0 | 0 | [link](https://huggingface.co/mario-d-robot/qwen-image-edit-batch) |
-| 2026-06-21 | Krishnav1234/neurocuda-robotics-perception-snn | 0 | 0 | [link](https://huggingface.co/Krishnav1234/neurocuda-robotics-perception-snn) |
-| 2026-06-21 | robotneu/visual_perception_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/visual_perception_pfc_2_3_hard) |
-| 2026-06-21 | robotneu/spatial_reasoning_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/spatial_reasoning_pfc_2_3_hard) |
-| 2026-06-21 | robotneu/semantic_understanding_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/semantic_understanding_pfc_2_3_hard) |
-| 2026-06-21 | robotneu/common_understanding_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/common_understanding_pfc_2_3_hard) |
-| 2026-06-21 | robotneu/action_reasoning_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/action_reasoning_pfc_2_3_hard) |
-| 2026-06-21 | YinonDouchan/smolvla_mobile_robot_lift_dummy_task | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_dummy_task) |
-| 2026-06-21 | robotneu/composite_ability_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/composite_ability_pfc_2_3_hard) |
-| 2026-06-21 | Robotferret87/Qwen3.6-27B-Q4_K_M-GGUF | 0 | 0 | [link](https://huggingface.co/Robotferret87/Qwen3.6-27B-Q4_K_M-GGUF) |
+| 2026-06-22 | sjb-robotics/sjb-ai-mini | 0 | 0 | [link](https://huggingface.co/sjb-robotics/sjb-ai-mini) |
+| 2026-06-22 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 156 | 6 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
+| 2026-06-22 | vladimirmodylevskii/act_so100_pickplace_v1 | 0 | 0 | [link](https://huggingface.co/vladimirmodylevskii/act_so100_pickplace_v1) |
+| 2026-06-22 | etyacke/vla-foundry-so101-poc | 0 | 0 | [link](https://huggingface.co/etyacke/vla-foundry-so101-poc) |
+| 2026-06-22 | tencent/Hy-Embodied-0.5-VLA-UMI | 152 | 5 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
+| 2026-06-22 | kamada-riku/vla_jepa_so101_pick_toy_v6_4 | 0 | 0 | [link](https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v6_4) |
+| 2026-06-22 | Wayer2/policy-test | 17 | 0 | [link](https://huggingface.co/Wayer2/policy-test) |
+| 2026-06-22 | ZDRRRM/act_policy | 0 | 0 | [link](https://huggingface.co/ZDRRRM/act_policy) |
+| 2026-06-22 | gyeongwk/Math-On-policy-SFT-Qwen3-1.7B-step-1200 | 0 | 0 | [link](https://huggingface.co/gyeongwk/Math-On-policy-SFT-Qwen3-1.7B-step-1200) |
+| 2026-06-22 | gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-600 | 0 | 0 | [link](https://huggingface.co/gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-600) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| copper-project/copper-rs | 1364 | Rust | 545.7 | [link](https://github.com/copper-project/copper-rs) |
+| Edgenesis/shifu | 1421 | Go | 568.5 | [link](https://github.com/Edgenesis/shifu) |
 | awslabs/awsome-distributed-ai | 446 | Shell | 178.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| alireza787b/mavsdk_drone_show | 299 | Python | 119.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| Developer-Y/cs-video-courses | 81885 |  | 32754.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61489 | Python | 24595.7 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15328 | C++ | 6131.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 13936 | C++ | 5574.5 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11242 | Python | 4496.9 | [link](https://github.com/kornia/kornia) |
-| isaac-sim/IsaacLab | 7497 | Python | 2998.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| earthtojake/text-to-cad | 6745 | JavaScript | 2698.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| commaai/openpilot | 61493 | Python | 24597.3 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29837 | Python | 11934.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| ArduPilot/ardupilot | 15329 | C++ | 6131.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 13941 | C++ | 5576.5 | [link](https://github.com/google-deepmind/mujoco) |
+| rerun-io/rerun | 10969 | Rust | 4387.7 | [link](https://github.com/rerun-io/rerun) |
+| isaac-sim/IsaacLab | 7498 | Python | 2999.3 | [link](https://github.com/isaac-sim/IsaacLab) |
+| earthtojake/text-to-cad | 6765 | JavaScript | 2706.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| dora-rs/dora | 3792 | Rust | 1516.9 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-06-22 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxONDNfTUhVX2hYeV9LaFFLYVhhOXpVdF83Tl9sVGg0WVl3OVE5RkNDWmdYY3ZVU05mVTl0LTNBZ0pscENydlozdERiSzJGb2lZM0llZDJJNjRoMDZUdV9KekRldDlXYV8yRHV0WTZzQlBrSXdYREhxSGxBS3B4XzJoZXh2VkFJT2N6SlVtdXRjRTl2SFA1c1pHTGJfeWdvUVBZZGZlSDMzczB5UnJVYU95akV0M2gycTg?oc=5) |
 | 2026-06-20 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPeDNtZndSS0tqdEVEMGhvb2FJZm0yM1JqOXlHbGdaclFqUVFNUmh4aUJhMGo3MVlNazM5RmJfZk9HVThhelF1RFVVUXRnbFQ1cHgzZzRNaGFlbURhQ3dyQ1N3WS02el9UQmJobVcwRi1iTzZuQ3BNaWkwdnVnZmZfR1NUV0FjSnMtZHpxYlpWbWZqVzl3U0lVTlR1Mk03dTlWNkpYSEZpYTlhamZWeEtwTFM2bEhRUU5CVDQ5UHI1UWJhdjFySlFWaHNHUdIB0AFBVV95cUxQak5hQmt6a19ac1Q5TXdfVmpRMWVxOVZOSGNVY3o2d2NhcDhSeWZNbC1adGJxRnNDR3pWUUhpSHYwTHZLTEY0MElBekcweHNLQ3MzaW1VVHUyb0VqRTZGaWxPMVFTdV92R29STFpqQjIwRE0wN2QtTzNBLVBCdmlqSzdwWjJHY01XcjBiX3FqaHYxbVE2VnIwbEhib1ZaV3ZERTlURXlCY0xiR2Z4WE03a2ZXdlByQWxaSWJ1WDRNQWtBb0ZxQ0pXZl9lN3FjZHFU?oc=5) |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2pwV01RYWVyaWtwQll2S1dnaDBMZFpiTDNvcExwSXFRTGk3VFpfV3lSWG1BU3pFYkFFQS13MU00TXA4QmN3NUdXLS1FX3hRS0d6c0Q3bnFKT2VNZXNfSnFLcS1sZlJOdUt1LTdRaHBXc216cVgyOEREYy1uVUdocA?oc=5) |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmEtTVhCcXBoTkY0NkFqdXJDYXh1UkFvLWxWM19YR0VnVUdJdjlhYkRRd0lnekhjRnFDaUU4UG01UTI1RXk2dm5tWHZ5UVBodmJJSW01R2hKb2Vsbl94Y0hQTUJYYXBpamlROGNlMnRQVGVNZ1Nwcm5tOHRwN1NxUGRlVjZuQk0zUmdRZGp2Mkx5QnFLT1BMSmFJOVEzV2M?oc=5) |
@@ -101,21 +113,20 @@ _No items collected yet._
 | 2026-06-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hLU04d3VwTUxreHA5bVNWS3B4dmZaMzRsdUFGZEJwYTNrTXJtZl8xZ2RpZTA1MWxzYkxndWpfZEI4bk1PbXZYR3hMcXhHNUpvLVZnaUlRUGFTa3FNSXBrS0hn?oc=5) |
 | 2026-06-06 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXaTdjZ0ZvRzBZaGdwX2plVlFjNXdvQkNpTVNsZU9OMGFjQzFkQVNYdWNsaTB4eXZWeFJuWXVBZ19wWlE0V2ZnMGNMXzN6dk1CcWN4TjF2VXF5NmQzNDRTVA?oc=5) |
 | 2026-06-05 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlI3N21DSmpVdVhOSUFjcmE2ZlpkNlBTendxb0VjZ3hIMW4wUVlYZU9tdko5RFR5U3lFbkxmd256VmljWXpMc29zYzd5YXhWcU1ESEo2VXZQaFFPbHBjNEFDLTFXalRtVjdhbzUwQ1BUaW9rRlpONGRLMUpsbHY2R1ZtNFdrNnNZYTV1MlBZbG0xbmNtNW40T2xyUkpHekZOLXBYQVM1LU5hM055UVRWdzlvQQ?oc=5) |
-| 2026-06-04 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUktbnBaOVZBZTJOSU1GVkU4Zl9aQU96RE9FSHY3MGpfQ2xFem5aQmNSeXVpZ0FscmdVWHREei1rNUYtQnV1aUxJRFBzSGZ1MDEzMExnNkdaODZwbkJIVU5xaHZpYkx3N0lYVzhtcGRhdk1rZEM2NGlXQXVBb1Nlb05rckVUN0lUSlBPdlZLallSQUtqZi1SYVdHLWo5VTNDS1FEMEVtdHlBM0YxV19FZGhWYw?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-06-21 | Why it’s nearly impossible to build a robot without China - The Business Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2JPa2gzVHc1QjZ4TGVUM2NsTXB1WU9pdVpFMmI5Y3RmUy1Ya0tGRU9vVC1MU3pZZUwxV0d2ZC10amdVU3QzX0NPZUpkckJ2UGJrbzBEMndNUlUxb0dKRXRZeURoNnNaT0s3VGlHaWRxQkJoRnlfRk9ycFB2TEJZZFAzRUNZak5WMW9Lc2JSbmttaWFCblRYNzg5RlI3S1hMdGVBR3dmS2w?oc=5) |
 | 2026-06-20 | AI Startup Offers Free Cleaning to Train Robot Replacements - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGRsS0xNRGMyd0JDdGVYekZYblJmX1FyRjRRRGVpVFF1TkVoQWNFcVNfX2hvamU2N0lsdDdtMUVHVl9zcWtJZHlLOGxTWG9HSzJiZGY2SndqRk1BdTJLUGNHUFFlN0FoWk5SM2hURUptYUs5Y2U4STRRZFdGalBUX1dvWmZGbng2X0dib2pGRUlTZTNJZHdN?oc=5) |
+| 2026-06-20 | Inside General Intuition’s AI Startup Valuation Surge - AI CERTs | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODFjYWR6RzRURFIyZDlQVFM0c1V6anNrbXU0dm83ZUNuVXBMRzNRNHVBMlZzMnMxXzFzalMtY0ktSnh1RUg2cE5qdmU5RVJ5MDF5Ym1NTWxGd1dxTG5FM1ltTVpqTzQ0VHl0ekV5OS11RUdkSFJZdnBBRHVJNVUxLVhJNUl4ZDNz?oc=5) |
 | 2026-06-19 | Kerala Startup Building Humanoid Robots From Scratch - Electronics For You BUSINESS | vision language action startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0pNY1RtWlNfNEtXemNCbGNuUzQ4M0lXeThKZEFTY2U4aklBWHNRWjNYY1g0TTRLeXVHSGwyQzRyNjZnMF9tVlJCb2lhQ0NZZTI4WEI2c2xuREVpaHUtMEswRE9kVGJQVHdOUUFuNzRabDJndVhLN2xoR1B2SW02NWlCUlpuSWJVaDZpcVNzMWJEYTloWVNXU0N4ZEg?oc=5) |
+| 2026-06-18 | Game-clip AI startup General Intuition in talks to raise $300M at $2B valuation - SiliconANGLE | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkFacHVJZkpMbi11aEl6ZkRGRjMtQ1R4Vi1WZ2JaUzRYSUl2SGc1LTIxTTJPVS1La0Zta1AwMGpxeXJJeWZOLURCTV84bEtNTXJSOXYzZEpPSE9CdWY5YWkyX3FLR2FpbGp1bTA0YVlWSGJzcS1rVjhCaVUwenNabGxDLXhDYU1lWHVVajFrV0JNb0hDbFNVNEJsUmFTM1FkVC1qLWYxclA?oc=5) |
 | 2026-06-17 | Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it. - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDZGRzM0c0Q5WTg4MEIwREtvVTZCZzh0YTQ4SmpmZmE2V2pUZHVSQlEzVHNHQnRuSjNmU19TNU9ZYWxoVy13THRFeHN0OWRsVGM5ZUFDMk9feUVHel82MWtRdldBdFdmTm9lMjBiSDlldEVRT1ItalJRYVI0Vk9JamxxSWZaeUZfbEhrMTFLc1JWUUdyQkZZTUpnc3dWdU9seHpVQzc3RTFGSlBBSnRybVpzbldESGJsclJCckh1OFJlZDRQb181Rm9XdnJuTHcwWUY0?oc=5) |
-| 2026-06-17 | Amazon backs AI startup developing models to simulate the physical world - Crypto Briefing | physical ai startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZWhhdjVzODRNdjJwUTZFUTJPckNPRXBSdVo2LWs1TXh6WjU0Z3UwaXNOanRjTEl1dUJOUUFmX1pTd05JT0REV1NXVS1PZkYzMlZXYkZ2bjRObURUbnVXMEhuTi1wSXdhQ21UeQ?oc=5) |
 | 2026-06-17 | The AI startups building beyond chatbots are choosing Amazon’s custom chips. Here's why. - About Amazon | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWHJIMkh5anltV1hIcVlqaU5NSlFaa0VZOUhjd2REN2NQUExac2Vmd3I1THBTamZ2WDFKX2xCVGtoeEdaSkZKR0xUVkZ6elpxY3FUX0JVWHhLT005QnBLZlAxRkVaZy02Wlp1NUp1NGlVLXlvZldJQWZnREY3QlVtUnF4ZV9OV1g3?oc=5) |
+| 2026-06-17 | Amazon backs AI startup developing models to simulate the physical world - Crypto Briefing | physical ai startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZWhhdjVzODRNdjJwUTZFUTJPckNPRXBSdVo2LWs1TXh6WjU0Z3UwaXNOanRjTEl1dUJOUUFmX1pTd05JT0REV1NXVS1PZkYzMlZXYkZ2bjRObURUbnVXMEhuTi1wSXdhQ21UeQ?oc=5) |
+| 2026-06-17 | Seeds | Embodied AI Robotics Startup Astrall Dynamics Gains Investment from SAIC and Others - Gasgoo | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZkpWdHZuUkx2QkJ4U2J1UlY1OExBakhOTXBPUXE3c3N2RFRNUFNocF9pcDBXYUpKbkVTZWJpeTM1MExJM2hVeDRBSDR1dkdpRzdXVDJDU1Mta2d0cGxXREVIVHVYb1JkTGVJMVgxUW5rcHctUnNTQ2c2WWRrOUU2RVFvNW42eEpCUWFIaEQxSXpiT0gwWmF0ZmxNR3A4Q1FRVldqZUxxR0R3N2JiLTNaWTFuWVJMY2p2UVV0cm8tWkVQU3VodVl2WWNhcjFRc1BreHo4eEpZUzZaNDdveE5pbkNVMXVsZw?oc=5) |
 | 2026-06-17 | The next humanoid robot might not look human at all - The Verge | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQajB6WloxbzRYS0cxNjFBSE5VZlozemdEMkdvVjlaNjhyampxdURVZWhDMmlIVzFnQ253TWxpdXNCZ1R1cEMwVE10dUtzR0ZmVTFJOXhtN3JzWXo0Z2lIb09VZXUtb2hNMUtYS1hpbDY4dTNrd19yQ2doZzNXUFYzejM1YTJuTkdBQ2IzT3paNFZUQQ?oc=5) |
-| 2026-06-16 | Pegasus Tech Ventures launches $60M fund for physical AI startups - The Robot Report | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdElnWkZoMUdwUE5Jdjl5elRKeHBqZkxqeU5pVDAxQTBRa3dXQkpsWmRXS1JBWWtFZjJ5cmJOSTBWdzRjdHpjdmltMGJ5c0dEQi1OTXJSOFBkQ3Q4WnNoTGkzY1BBSXJTUWZYT1JzUEVIb19BdXlHODdzVEtZeXFfSW9zRW4wcTl4Ykc1cjFTcWxocWZab0Q0?oc=5) |
-| 2026-06-16 | French startup unveils non-humanoid robot as AI race moves to physical machines - France 24 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGpKdUM3ZDVlUHdDc2dkaEZjVnhkTmgzaGx4cEl2NVAwRURBMTFpbmJXMlBkZVA0VGdia0tsd1BYUlI2RTJsODNGa1lCVGxkeC1pQ3ZDWUZuWm95b0xxelpYS3JmQk5wVFpiOWpzM1BCaHhpU2NCN0RVTzJCby1iOXBUWGVIbk44LWU0Ul9lUjJNYzlNRkRDLVV4Z1lhemZXaDRJVEZQNzVwekNSTVNSd2lTYUYzdkhoVXVzTTdB?oc=5) |
-| 2026-06-16 | This AI robot startup thinks humanoids are overrated - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmdJVkNUMWtTUkFBbk9kM3FfRi00VnlHVGRjNkQ1ZFg1Q0VDUFlGa2lTd3RvdmtiVEptN2NwTktfellmUDdoQVR2Q1RYaVJVeFlsakQ3cEY2VlhUckNCNUd1bWk3c0NSTjNQTWZTZUUwR3hjZ1djTnR1dTZodGMxYWYzdGhlU2tHWDdrWg?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

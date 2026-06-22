@@ -1,5 +1,47 @@
 [
   {
+    "title": "Won’t Somebody Please Think Of Banning The British Children!",
+    "source": "Hackaday",
+    "date": "2026-06-22",
+    "url": "https://hackaday.com/2026/06/21/wont-somebody-please-think-of-banning-the-british-children/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/westminster-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The British government is in a headlong rush to ban under-16s from social media, and restrict the access of under-18s. And in typical form, the EFF is here with a <a class=\"read-more\" href=\"https://hackaday.com/2026/06/21/wont-somebody-please-think-of-banning-the-british-children/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Brewing Espresso with Ultrasonic Assistance",
+    "source": "Hackaday",
+    "date": "2026-06-22",
+    "url": "https://hackaday.com/2026/06/21/brewing-espresso-with-ultrasonic-assistance/",
+    "summary": "<div><img alt=\"An AI-generated diagram of the coffee-making process is shown. A filter holds a basket of coffee grounds, which are contained in a paper filter. An ultrasonic transducer vibrates the basket.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/ultrasonic_coffee_maker.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are as almost as many kinds of coffee as there are of coffee drinkers, with each method for preparing the beverage appealing to a different kind of palate: moka <a class=\"read-more\" href=\"https://hackaday.com/2026/06/21/brewing-espresso-with-ultrasonic-assistance/\">&#8230;read more</a>"
+  },
+  {
+    "title": "UTFS is a lightweight, zero-allocation file system for embedded devices",
+    "source": "CNX Software",
+    "date": "2026-06-22",
+    "url": "https://www.cnx-software.com/2026/06/22/utfs-is-a-lightweight-zero-allocation-file-system-for-embedded-devices/",
+    "summary": "<div><img alt=\"μTFS lightweight, zero allocation file system\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/μTFS-lightweight-zero-allocation-file-system-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>CLI Systems has introduced UTFS (μTFS), a simple, lightweight embedded storage system designed for small MCUs. Unlike traditional file systems like FAT32 or EXT4, or even lighter options like LittleFS and SPIFFS used on boards like the ESP32, UTFS is much simpler. It does not use dynamic memory and avoids complex features like wear leveling, making it easier to use on low-resource devices. Designed for flat, byte-addressable memory like raw EEPROM, CPU flash pages, or external SPI/I²C flash, UTFS allows bare-metal firmware to store named data blobs (&#8220;files&#8221;) back-to-back. Each file is appended with a fixed 24-byte header containing metadata like identifiers, sizes, and application-defined signatures. UTFS specifications and features Footprint – Fixed 24-byte header per file; zero heap usage (no malloc) Format – TAR-inspired sequential layout; forward-compatible so files can be added later without breaking existing memory layouts Storage Agnostic – Requires porting only two functions to interface with [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/22/utfs-is-a-lightweight-zero-allocation-file-system-for-embedded-devices/\">UTFS is a lightweight, zero-allocation file system for embedded devices</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Many approaches to optical interconnect",
+    "source": "Electronics Weekly",
+    "date": "2026-06-22",
+    "url": "https://www.electronicsweekly.com/news/business/many-approaches-to-optical-interconnect-2026-06/",
+    "summary": "<p>The markets for co-packaged optics (CPO) and near-packaged optics (NPO) will expand significantly, from around $100 million in 2025 to over $39 billion by 2030, says TrendForce. As data transmission ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/many-approaches-to-optical-interconnect-2026-06/\">Many approaches to optical interconnect</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Imec pushes ferroelectric memory research towards AI integration",
+    "source": "Electronics Weekly",
+    "date": "2026-06-22",
+    "url": "https://www.electronicsweekly.com/news/business/imec-pushes-ferroelectric-memory-research-towards-ai-integration-2026-06/",
+    "summary": "<p>Two advances in ferroelectric memory research by Imec push ferroelectric capacitors and ferroelectric field-effect transistors towards becoming enablers for  low-voltage operation and high-density integration. Ferroelectric memory is drawing increasing attention ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/imec-pushes-ferroelectric-memory-research-towards-ai-integration-2026-06/\">Imec pushes ferroelectric memory research towards AI integration</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Ed Concocts A Sovereign Wheeze",
+    "source": "Electronics Weekly",
+    "date": "2026-06-22",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-concocts-a-sovereign-wheeze-2026-06/",
+    "summary": "<p>Sovereignty is the most effective key to open national treasuries’ coffers, Ed confides to his diary, tell any government you can deliver a domestic sovereign capability in chip-making and they’ll ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-concocts-a-sovereign-wheeze-2026-06/\">Ed Concocts A Sovereign Wheeze</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Hackaday Links: June 21, 2026",
     "source": "Hackaday",
     "date": "2026-06-21",
@@ -33,20 +75,6 @@
     "date": "2026-06-21",
     "url": "https://hackaday.com/2026/06/21/blender-5-2-coming-soon-with-improved-simulations/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/blender-geometry-nodes.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Traditionally, one of the weak points in Blender has been simulations, with even professional users of the free and open source computer graphics suite off-loading such tasks to programs like <a class=\"read-more\" href=\"https://hackaday.com/2026/06/21/blender-5-2-coming-soon-with-improved-simulations/\">&#8230;read more</a>"
-  },
-  {
-    "title": "How to Bias a CRT After Installation",
-    "source": "Hackaday",
-    "date": "2026-06-21",
-    "url": "https://hackaday.com/2026/06/21/how-to-bias-a-crt-after-installation/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"514\" src=\"https://hackaday.com/wp-content/uploads/2026/06/crt_void_electronics_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>For most of us the abbreviation &#8220;CRT&#8221; brings to mind a monitor or TV. But at its core it&#8217;s about the special vacuum tube that makes the images appear. Regardless <a class=\"read-more\" href=\"https://hackaday.com/2026/06/21/how-to-bias-a-crt-after-installation/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Bernoulli Disk Goes “Wii!” When Plugged Into WiiU",
-    "source": "Hackaday",
-    "date": "2026-06-21",
-    "url": "https://hackaday.com/2026/06/20/bernoulli-disk-goes-wii-when-plugged-into-wiiu/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/BernoulliBoxWiiU.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Bernoulli disk was a wild piece of 1980s hardware. Take a big floppy. Spin the platter at 1500 RPM just a micron or so from a read head. The <a class=\"read-more\" href=\"https://hackaday.com/2026/06/20/bernoulli-disk-goes-wii-when-plugged-into-wiiu/\">&#8230;read more</a>"
   },
   {
     "title": "SpacemiT K3 Pico-ITX RISC-V Chassis Kit Review – Part 2: What works, what doesn’t in Bianbu OS 4.0",
@@ -159,27 +187,6 @@
     "date": "2026-06-19",
     "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-uk-japan-arm-game-spacex-ipo-2026-06/",
     "summary": "<p>The most read stories on the site cover UK and Japan technology agreements, SpaceX completing a successful IPO, and a scalable 300mm integration route for 2D-material based n and pFETs...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-uk-japan-arm-game-spacex-ipo-2026-06/\">Most Read &#8211; UK &amp; Japan, Arm game, SpaceX IPO</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "PhotonPath and Xiver hook up for Oxyn production",
-    "source": "Electronics Weekly",
-    "date": "2026-06-19",
-    "url": "https://www.electronicsweekly.com/news/business/photonpath-and-xiver-hook-up-for-oxyn-production-2026-06/",
-    "summary": "<p>PhotonPath, the Milan photonics specialist, and Xiver, the Eindhoven MEMS foundry, are collaborating to scale production of PhotonPath’s  Oxyn platform. The partnership enables the transition of Oxyn manufacturing to Xiver’s ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/photonpath-and-xiver-hook-up-for-oxyn-production-2026-06/\">PhotonPath and Xiver hook up for Oxyn production</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Siemens opens industrial software to startups",
-    "source": "Electronics Weekly",
-    "date": "2026-06-19",
-    "url": "https://www.electronicsweekly.com/news/business/siemens-opens-industrial-software-to-startups-2026-06/",
-    "summary": "<p>European startups can now access Siemens’ industrial software through three startup-specific software collections. Siemens has put together three startup-specific software collections to make industrial software more accessible for early-stage companies ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/siemens-opens-industrial-software-to-startups-2026-06/\">Siemens opens industrial software to startups</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Lithuanian femtosecond laser startup expands in Vilnius",
-    "source": "Electronics Weekly",
-    "date": "2026-06-19",
-    "url": "https://www.electronicsweekly.com/news/business/lithuanian-femtosecond-laser-startup-expands-in-vilnius-2026-06/",
-    "summary": "<p>Femtosecond laser startup LITILIT has begun developing a new large-scale femtosecond laser production facility in Vilnius, with a project value of approximately €6m. The company plans to complete the main ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/lithuanian-femtosecond-laser-startup-expands-in-vilnius-2026-06/\">Lithuanian femtosecond laser startup expands in Vilnius</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Reads for All Ages #Juneteenth2026",
@@ -390,13 +397,6 @@
     "date": "2026-06-17",
     "url": "https://www.eejournal.com/industry_news/compact-240w-gan-based-desktop-adapters-simplify-integration-into-medical-and-industrial-applications/",
     "summary": "XP Power introduces the APM240 series of 240W external desktop AC-DC power supplies that simplify integration in medical, home healthcare, and industrial applications. The adapters are designed for engineers developing patient treatment, patient monitoring, and surgical robots, as well as industrial robotics and process control equipment. The series combines high power density, global compliance, and high energy &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/compact-240w-gan-based-desktop-adapters-simplify-integration-into-medical-and-industrial-applications/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Compact 240W GaN-based desktop adapters simplify integration into medical and industrial applications\"</span></a>"
-  },
-  {
-    "title": "$4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor",
-    "source": "CNX Software",
-    "date": "2026-06-16",
-    "url": "https://www.cnx-software.com/2026/06/16/4000-amd-ryzen-ai-halo-developer-platform-features-126-tops-ryzen-ai-max-395-processor/",
-    "summary": "<div><img alt=\"AMD Ryzen AI Halo Developer Platform Ryzen AI Max+ 395\" class=\"attachment-medium size-medium wp-post-image\" height=\"414\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/AMD-Ryzen-AI-Halo-Developer-Platform-Ryzen-AI-Max-395-720x414.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Last month, AMD introduced the Ryzen AI Halo Developer Platform based on the Ryzen AI Max+ 395 processor, delivering up to 126 TOPS, and pre-orders are now available for $3,999.99 at MicroCenter (US only, in-store pickup). The computer ships with 128GB LPDDR5x memory and a 2TB NVMe SSD. It offers 10GbE and WiFi 7 networking, HDMI 2.1 and USB-C DisplayPort video output, and a few extra USB-C ports Ryzen AI Halo developer kit specifications: SoC &#8211; AMD Ryzen AI Max+ 395 CPU &#8211; 16 cores, 32 threads, “Zen 5” Architecture clocked up to 5.1 GHz GPU &#8211; AMD Radeon 8060S Integrated Graphics with 40 CUs, RDNA 3.5 architecture NPU &#8211; AMD XDNA™ 2 NPU TDP &#8211; 120W Process &#8211; TSMC 4nm FinFET Memory &#8211; 128GB LPDDR5x up to 8,000 MT/s speed, 256GB/s bandwidth Storage &#8211; 2TB M.2 SSD Video Output HDMI 2.1b DisplayPort via USB-C port Networking 10GbE RJ45 port [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/16/4000-amd-ryzen-ai-halo-developer-platform-features-126-tops-ryzen-ai-max-395-processor/\">$4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "How to Build Simulink Models with Agentic AI",

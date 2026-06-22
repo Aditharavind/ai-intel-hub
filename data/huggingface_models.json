@@ -1,5 +1,113 @@
 [
   {
+    "model": "sjb-robotics/sjb-ai-mini",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sjb-robotics/sjb-ai-mini",
+    "date": "2026-06-22",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "tencent/Hy-Embodied-0.5-VLA-RoboTwin",
+    "downloads": 156,
+    "likes": 6,
+    "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin",
+    "date": "2026-06-22",
+    "keyword": "embodied",
+    "score": 48.1
+  },
+  {
+    "model": "vladimirmodylevskii/act_so100_pickplace_v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladimirmodylevskii/act_so100_pickplace_v1",
+    "date": "2026-06-22",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "etyacke/vla-foundry-so101-poc",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/etyacke/vla-foundry-so101-poc",
+    "date": "2026-06-22",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "tencent/Hy-Embodied-0.5-VLA-UMI",
+    "downloads": 152,
+    "likes": 5,
+    "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI",
+    "date": "2026-06-22",
+    "keyword": "embodied",
+    "score": 46.7
+  },
+  {
+    "model": "kamada-riku/vla_jepa_so101_pick_toy_v6_4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v6_4",
+    "date": "2026-06-22",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Wayer2/policy-test",
+    "downloads": 17,
+    "likes": 0,
+    "url": "https://huggingface.co/Wayer2/policy-test",
+    "date": "2026-06-22",
+    "keyword": "policy",
+    "score": 5.2
+  },
+  {
+    "model": "ZDRRRM/act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ZDRRRM/act_policy",
+    "date": "2026-06-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "gyeongwk/Math-On-policy-SFT-Qwen3-1.7B-step-1200",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gyeongwk/Math-On-policy-SFT-Qwen3-1.7B-step-1200",
+    "date": "2026-06-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-600",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-600",
+    "date": "2026-06-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-1600",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-1600",
+    "date": "2026-06-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "gyeongwk/Math-On-policy-PosNeg-Qwen3-1.7B-step-600",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gyeongwk/Math-On-policy-PosNeg-Qwen3-1.7B-step-600",
+    "date": "2026-06-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "mario-d-robot/qwen-image-edit-batch",
     "downloads": 0,
     "likes": 0,
@@ -90,15 +198,6 @@
     "score": 0.1
   },
   {
-    "model": "tejavadlamudi03/norma-robot-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tejavadlamudi03/norma-robot-checkpoints",
-    "date": "2026-06-21",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "flashrt/flashrt-vla-video",
     "downloads": 0,
     "likes": 0,
@@ -160,15 +259,6 @@
     "date": "2026-06-21",
     "keyword": "vla",
     "score": 4.9
-  },
-  {
-    "model": "zwan1003/pickplace_vla_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/zwan1003/pickplace_vla_model",
-    "date": "2026-06-21",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "flashrt/world-model-conv",
@@ -252,105 +342,6 @@
     "score": 0.1
   },
   {
-    "model": "INCEPTIONwang/PolicyTrim",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/INCEPTIONwang/PolicyTrim",
-    "date": "2026-06-21",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "gyeongwk/Math-On-policy-Reinforce-Baseline-Qwen3-1.7B-step-500",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/gyeongwk/Math-On-policy-Reinforce-Baseline-Qwen3-1.7B-step-500",
-    "date": "2026-06-21",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-1800",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-1800",
-    "date": "2026-06-21",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "gyeongwk/Math-On-policy-PosNeg-Qwen3-1.7B-step-1800",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/gyeongwk/Math-On-policy-PosNeg-Qwen3-1.7B-step-1800",
-    "date": "2026-06-21",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "gyeongwk/Math-On-policy-SFT-Qwen3-1.7B-step-1200",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/gyeongwk/Math-On-policy-SFT-Qwen3-1.7B-step-1200",
-    "date": "2026-06-21",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "doganay-sirintuna/smolvla_policy_pickandplace_scotchtape",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/doganay-sirintuna/smolvla_policy_pickandplace_scotchtape",
-    "date": "2026-06-21",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "mario-d-robot/QIE-2511-Studio-DeLight",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/mario-d-robot/QIE-2511-Studio-DeLight",
-    "date": "2026-06-20",
-    "keyword": "robot",
-    "score": 0.3
-  },
-  {
-    "model": "kamada-riku/vla_jepa_so101_pick_toy_v6_3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v6_3",
-    "date": "2026-06-20",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vladusha/Gosha",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladusha/Gosha",
-    "date": "2026-06-20",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "anikitakis/vla_so101_pick_n_place_full_expert",
-    "downloads": 776,
-    "likes": 0,
-    "url": "https://huggingface.co/anikitakis/vla_so101_pick_n_place_full_expert",
-    "date": "2026-06-20",
-    "keyword": "vla",
-    "score": 232.9
-  },
-  {
-    "model": "siyuhsu/vlajepa-libero-ckpt",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/siyuhsu/vlajepa-libero-ckpt",
-    "date": "2026-06-20",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "Dust-Robotics/act-tealight_wicking_rebotb601-v2",
     "downloads": 0,
     "likes": 0,
@@ -423,24 +414,6 @@
     "score": 4.6
   },
   {
-    "model": "tencent/Hy-Embodied-0.5-VLA-UMI",
-    "downloads": 152,
-    "likes": 5,
-    "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI",
-    "date": "2026-06-17",
-    "keyword": "embodied",
-    "score": 46.7
-  },
-  {
-    "model": "tencent/Hy-Embodied-0.5-VLA-RoboTwin",
-    "downloads": 156,
-    "likes": 6,
-    "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin",
-    "date": "2026-06-17",
-    "keyword": "embodied",
-    "score": 48.1
-  },
-  {
     "model": "puppet-robotics/golf-model",
     "downloads": 14,
     "likes": 0,
@@ -502,15 +475,6 @@
     "date": "2026-06-15",
     "keyword": "robotics",
     "score": 9.1
-  },
-  {
-    "model": "AMD-PAVS-AI/Robotics_DevKit_models",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/AMD-PAVS-AI/Robotics_DevKit_models",
-    "date": "2026-06-15",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "IffYuan/Embodied-R1.5",
