@@ -1,5 +1,19 @@
 [
   {
+    "title": "Investigating Annealing as Fix for Poor CF Adhesion in 3D Prints",
+    "source": "Hackaday",
+    "date": "2026-06-22",
+    "url": "https://hackaday.com/2026/06/22/investigating-annealing-as-fix-for-poor-cf-adhesion-in-3d-prints/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"396\" src=\"https://hackaday.com/wp-content/uploads/2026/06/petg_vs_petg-cf_z-dimension_displacement_break_i_built_a_thing_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>After recently publishing a few videos covering research into the poor adhesion between chopped carbon fiber (CCF) and the thermoplastic filaments as used with FDM 3D printing, some of the <a class=\"read-more\" href=\"https://hackaday.com/2026/06/22/investigating-annealing-as-fix-for-poor-cf-adhesion-in-3d-prints/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Breaking Into a Prison Tablet",
+    "source": "Hackaday",
+    "date": "2026-06-22",
+    "url": "https://hackaday.com/2026/06/22/breaking-into-a-prison-tablet/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"558\" src=\"https://hackaday.com/wp-content/uploads/2026/06/prison_tablet_case_inside_hugh_jeffreys_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Usually the term &#8216;jailbreaking&#8217; isn&#8217;t meant to be taken quite that literally, but in the case of the US prison tablet that [Hugh Jeffreys] got sent, it&#8217;s really quite apt. <a class=\"read-more\" href=\"https://hackaday.com/2026/06/22/breaking-into-a-prison-tablet/\">&#8230;read more</a>"
+  },
+  {
     "title": "Graphics Upgrade for Nintendo Entertainment System",
     "source": "Hackaday",
     "date": "2026-06-22",
@@ -35,13 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/westminster-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The British government is in a headlong rush to ban under-16s from social media, and restrict the access of under-18s. And in typical form, the EFF is here with a <a class=\"read-more\" href=\"https://hackaday.com/2026/06/21/wont-somebody-please-think-of-banning-the-british-children/\">&#8230;read more</a>"
   },
   {
-    "title": "Brewing Espresso with Ultrasonic Assistance",
-    "source": "Hackaday",
-    "date": "2026-06-22",
-    "url": "https://hackaday.com/2026/06/21/brewing-espresso-with-ultrasonic-assistance/",
-    "summary": "<div><img alt=\"An AI-generated diagram of the coffee-making process is shown. A filter holds a basket of coffee grounds, which are contained in a paper filter. An ultrasonic transducer vibrates the basket.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/ultrasonic_coffee_maker.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are as almost as many kinds of coffee as there are of coffee drinkers, with each method for preparing the beverage appealing to a different kind of palate: moka <a class=\"read-more\" href=\"https://hackaday.com/2026/06/21/brewing-espresso-with-ultrasonic-assistance/\">&#8230;read more</a>"
-  },
-  {
     "title": "Optocam Zero – A Raspberry Pi Zero 2 W -based DIY digital camera",
     "source": "CNX Software",
     "date": "2026-06-22",
@@ -68,6 +75,90 @@
     "date": "2026-06-22",
     "url": "https://www.cnx-software.com/2026/06/22/utfs-is-a-lightweight-zero-allocation-file-system-for-embedded-devices/",
     "summary": "<div><img alt=\"μTFS lightweight, zero allocation file system\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/μTFS-lightweight-zero-allocation-file-system-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>CLI Systems has introduced UTFS (μTFS), a simple, lightweight embedded storage system designed for small MCUs. Unlike traditional file systems like FAT32 or EXT4, or even lighter options like LittleFS and SPIFFS used on boards like the ESP32, UTFS is much simpler. It does not use dynamic memory and avoids complex features like wear leveling, making it easier to use on low-resource devices. Designed for flat, byte-addressable memory like raw EEPROM, CPU flash pages, or external SPI/I²C flash, UTFS allows bare-metal firmware to store named data blobs (&#8220;files&#8221;) back-to-back. Each file is appended with a fixed 24-byte header containing metadata like identifiers, sizes, and application-defined signatures. UTFS specifications and features Footprint – Fixed 24-byte header per file; zero heap usage (no malloc) Format – TAR-inspired sequential layout; forward-compatible so files can be added later without breaking existing memory layouts Storage Agnostic – Requires porting only two functions to interface with [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/22/utfs-is-a-lightweight-zero-allocation-file-system-for-embedded-devices/\">UTFS is a lightweight, zero-allocation file system for embedded devices</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "SiLC Introduces Eyeonic Edge 4D Vision Sensor",
+    "source": "Embedded.com",
+    "date": "2026-06-22",
+    "url": "https://www.embedded.com/silc-introduces-eyeonic-edge-4d-vision-sensor/",
+    "summary": "<p>SiLC Technologies has expanded its machine vision portfolio with the introduction of Eyeonic Edge, a new 4D area scanner designed for high-precision inspection of large stationary objects. The system extends the capabilities of the company's Eyeonic Trace laser line scanner, which was developed for moving objects on conveyor systems, by delivering sub-millimeter measurement accuracy at [...]</p>\n<p>The post <a href=\"https://www.embedded.com/silc-introduces-eyeonic-edge-4d-vision-sensor/\">SiLC Introduces Eyeonic Edge 4D Vision Sensor</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Littelfuse TMR low-power switch sensor is omnipolar",
+    "source": "Electronics Weekly",
+    "date": "2026-06-22",
+    "url": "https://www.electronicsweekly.com/news/products/sensors-products/littelfuse-tmr-low-power-switch-sensor-is-omnipolar-2026-06/",
+    "summary": "<p>Littelfuse has released the TX00AS314TRA omnipolar TMR switch sensor. This is a magnetic sensor for fast response, high sensitivity, and ultra-low power operation in compact, battery-powered applications. The part enables ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/sensors-products/littelfuse-tmr-low-power-switch-sensor-is-omnipolar-2026-06/\">Littelfuse TMR low-power switch sensor is omnipolar</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Americans Lose Hope Of Income Growth",
+    "source": "Electronics Weekly",
+    "date": "2026-06-22",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/americans-lose-hope-of-income-growth-2026-06/",
+    "summary": "<p>The past few years of elevated inflation, high cost of living and stagnant real wages have sent American hopes for future (real) income growth near to all-time lows. According to ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/americans-lose-hope-of-income-growth-2026-06/\">Americans Lose Hope Of Income Growth</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Where AI Adds To Headcount",
+    "source": "Electronics Weekly",
+    "date": "2026-06-22",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/delusions/where-ai-adds-to-headcount-2026-06/",
+    "summary": "<p>The headcount of global companies most exposed to AI is actually rising faster than that of less exposed companies, according to PwC’s  Global AI Jobs Barometer. AI is often associated ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/delusions/where-ai-adds-to-headcount-2026-06/\">Where AI Adds To Headcount</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Dream Chip maps out its ISP upgrades",
+    "source": "Electronics Weekly",
+    "date": "2026-06-22",
+    "url": "https://www.electronicsweekly.com/news/dream-chip-maps-out-its-isp-upgrades-2026-06/",
+    "summary": "<p>German chip designer, Dream Chip has updated its X Series ISP (image signal processor) offering with the X4 series. The ISP-X418 is the latest in the X Series of real-time ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/dream-chip-maps-out-its-isp-upgrades-2026-06/\">Dream Chip maps out its ISP upgrades  </a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Leonardo delivers flight far-infrared detectors to ESA FORUM mission",
+    "source": "Electronics Weekly",
+    "date": "2026-06-22",
+    "url": "https://www.electronicsweekly.com/uk-region/leonardo-delivers-flight-far-infrared-detectors-to-esa-forum-mission-2026-06/",
+    "summary": "<p>Leonardo in Southampton has delivered flight infrared detectors to the European Space Agency’s FORUM mission, the company announces. These will enable atmospheric scientists to measure the energy emitted by the ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/uk-region/leonardo-delivers-flight-far-infrared-detectors-to-esa-forum-mission-2026-06/\">Leonardo delivers flight far-infrared detectors to ESA FORUM mission</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "M31 collaborates with TSMC to continue design IP ecosystem",
+    "source": "Electronics Weekly",
+    "date": "2026-06-22",
+    "url": "https://www.electronicsweekly.com/news/products/micros/m31-collaborates-with-tsmc-to-continue-design-ip-ecosystem-2026-06/",
+    "summary": "<p>Taiwanese silicon IP provider, M31 Technology (M31), has taken another step in its advanced-node interface IP introduction roadmap, with the tapeout of its eUSB2V2 interface IP on TSMC’s N2P process. ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/micros/m31-collaborates-with-tsmc-to-continue-design-ip-ecosystem-2026-06/\">M31 collaborates with TSMC to continue design IP ecosystem </a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "AmbaSat, NZIIC secure €250K funding for satellite hydrogen monitoring",
+    "source": "Electronics Weekly",
+    "date": "2026-06-22",
+    "url": "https://www.electronicsweekly.com/news/research-news/ambasat-nziic-secure-e250k-funding-for-satellite-hydrogen-monitoring-2026-06/",
+    "summary": "<p>The European Space Agency (ESA) has awarded AmbaSat and Teesside University a €250,000 contract for a 12-month feasibility study into a satellite-enabled hydrogen monitoring service, for industrial applications. Specifically, the ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/research-news/ambasat-nziic-secure-e250k-funding-for-satellite-hydrogen-monitoring-2026-06/\">AmbaSat, NZIIC secure €250K funding for satellite hydrogen monitoring</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "US DoC accuses ASML of shipping EUV-compatible components to China",
+    "source": "Electronics Weekly",
+    "date": "2026-06-22",
+    "url": "https://www.electronicsweekly.com/news/business/us-accuses-asml-of-shipping-euv-compatible-components-to-china-2026-06/",
+    "summary": "<p>US commerce secretary Howard Lutnick has told ASML that China has an EUV machine contrary to US export restrictions, reports Bloomberg. ASML says that none of its EUV machines are ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/us-accuses-asml-of-shipping-euv-compatible-components-to-china-2026-06/\">US DoC accuses ASML of shipping EUV-compatible components to China</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Architect Labs aims to transform AI chip design",
+    "source": "Electronics Weekly",
+    "date": "2026-06-22",
+    "url": "https://www.electronicsweekly.com/news/business/architect-labs-aims-to-transform-ai-chipdesign-2026-06/",
+    "summary": "<p>Architect Labs, a Palo Alto startup, has raised $24m to speed up custom AI chip design. &#8220;We are building the AI system that explores, designs and provably verifies chips for ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/architect-labs-aims-to-transform-ai-chipdesign-2026-06/\">Architect Labs aims to transform AI chip design</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Metrology and inspection equipment market tops $18bn",
+    "source": "Electronics Weekly",
+    "date": "2026-06-22",
+    "url": "https://www.electronicsweekly.com/news/business/metrology-and-inspection-equipment-market-tops-18bn-2026-06/",
+    "summary": "<p>The metrology and inspection equipment market exceeds $18bn as AI, HBM and advanced packaging drive demand for process control, says Yole Group. The market grew 15% in 2025 and accounts ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/metrology-and-inspection-equipment-market-tops-18bn-2026-06/\">Metrology and inspection equipment market tops $18bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Track Planes on Your Ceiling in Real Time #raspberrypi",
+    "source": "Adafruit",
+    "date": "2026-06-22",
+    "url": "https://blog.adafruit.com/2026/06/22/track-planes-on-your-ceiling-in-real-time-raspberrypi/",
+    "summary": "Cameron Paczek created this project to see what planes were flying overhead, while he is INSIDE. A simple project (if you have a $1500 projector) with a fun payoff. Let&#8217;s see a realtime planetarium next? Picked up by Raspberry Pi When maker Cameron Paczek moved into a new home directly beneath the take-off path of [&#8230;]"
   },
   {
     "title": "Web browsers on various video game consoles",
@@ -131,13 +222,6 @@
     "date": "2026-06-22",
     "url": "https://www.eejournal.com/industry_news/silc-technologies-debuts-eyeonic-edge-for-high-precision-4d-inspection-of-large-objects/",
     "summary": "SiLC Technologies today announced the launch of Eyeonic® Edge, the newest addition to their laser scanner product lines. Edge is a 4D area scanner that extends the capabilities of the company’s award-winning Eyeonic Trace, the industry’s first laser line scanner to achieve 100-micron range precision at a distance of 5 meters away. While Trace is &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/silc-technologies-debuts-eyeonic-edge-for-high-precision-4d-inspection-of-large-objects/\">Read More &#8594;<span class=\"screen-reader-text\"> \"SiLC Technologies Debuts Eyeonic Edge for High-Precision 4D  Inspection of Large Objects\"</span></a>"
-  },
-  {
-    "title": "Hackaday Links: June 21, 2026",
-    "source": "Hackaday",
-    "date": "2026-06-21",
-    "url": "https://hackaday.com/2026/06/21/hackaday-links-june-21-2026/",
-    "summary": "<div><img alt=\"Hackaday Links Column Banner\" class=\"attachment-large size-large wp-post-image\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Today marks the summer solstice, the longest day of the year and the start of astronomical summer in the Northern Hemisphere. This doesn&#8217;t really have much to do with hacking <a class=\"read-more\" href=\"https://hackaday.com/2026/06/21/hackaday-links-june-21-2026/\">&#8230;read more</a>"
   },
   {
     "title": "SpacemiT K3 Pico-ITX RISC-V Chassis Kit Review – Part 2: What works, what doesn’t in Bianbu OS 4.0",
@@ -229,13 +313,6 @@
     "date": "2026-06-19",
     "url": "https://blog.adafruit.com/2026/06/19/anacostia-community-museum-expanded-juneteenth-celebration-juneteenth2026/",
     "summary": "The Smithsonian&#8217;s Anacostia Community Museum will host its largest-ever Juneteenth Freedom Celebration today from 10 a.m. to 10 p.m. Via Smithsonian The Smithsonian’s Anacostia Community Museum will host its largest-ever Juneteenth Freedom Celebration Friday, June 19, anchored by a high-energy nighttime roller rink experience alongside live music and family activities. The free, full-day event, “Power [&#8230;]"
-  },
-  {
-    "title": "Drones in Detroit #makerbusiness",
-    "source": "Adafruit",
-    "date": "2026-06-19",
-    "url": "https://blog.adafruit.com/2026/06/19/drones-in-detroit-makerbusiness/",
-    "summary": "A recent article in The New York Times reports on Michigan’s effort to pivot Detroit’s manufacturing legacy into the would-be fast growing U.S. drone industry. The piece follows Birdstop, a drone startup that moved into the former United Auto Workers training facility and examines how incentives, auto suppliers, and local investors are trying to make [&#8230;]"
   },
   {
     "title": "Innatera and CYRAN AI Expand Collaboration to Advance Neuromorphic Edge AI for Wearables and Intelligent Devices",
@@ -348,12 +425,5 @@
     "date": "2026-06-15",
     "url": "https://www.embedded.com/esd-ebook-june-2026-building-blocks-of-robotics-design/",
     "summary": "<p>Physical AI, machine learning, and edge computing are some of the latest technologies that are reshaping robotics and autonomous system design, enabling these systems to interact more intelligently and be more adaptable. Beyond these emerging trends, embedded systems and components such as sensors, processors, motors and controllers, and real-time operating systems (RTOSes) are still the [...]</p>\n<p>The post <a href=\"https://www.embedded.com/esd-ebook-june-2026-building-blocks-of-robotics-design/\">ESD eBook June 2026: Building Blocks of Robotics Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Smart Robots: Can They Evolve into Real-Time Intelligent Systems?",
-    "source": "Embedded.com",
-    "date": "2026-06-15",
-    "url": "https://www.embedded.com/smart-robots-can-they-evolve-into-real-time-intelligent-systems/",
-    "summary": "<p>The common phrase \"smart robot\" has undergone nuanced shifts over the years. Take robot first: It derives from the Czech word robota, introduced in Karel Čapek's 1920 science‑fiction drama, \"R.U.R.\" It means \"compulsory labor,\" mirroring the concept of a machine as a docile substitute for human work, albeit not executing tasks autonomously, as the word [...]</p>\n<p>The post <a href=\"https://www.embedded.com/smart-robots-can-they-evolve-into-real-time-intelligent-systems/\">Smart Robots: Can They Evolve into Real-Time Intelligent Systems?</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
