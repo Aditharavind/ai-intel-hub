@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-22 06:15 UTC
+Last Updated: 2026-06-22 12:39 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -47,16 +47,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-22 | SDS-Remote Brings Power-User Features to Siglent Scope | Hackaday | [link](https://hackaday.com/2026/06/22/sds-remote-brings-power-user-features-to-siglent-scope/) |
+| 2026-06-22 | “Telescope Rancher” is The Coolest Job You Didn’t Know Existed | Hackaday | [link](https://hackaday.com/2026/06/22/telescope-rancher-is-the-coolest-job-you-didnt-know-existed/) |
 | 2026-06-22 | Won’t Somebody Please Think Of Banning The British Children! | Hackaday | [link](https://hackaday.com/2026/06/21/wont-somebody-please-think-of-banning-the-british-children/) |
 | 2026-06-22 | Brewing Espresso with Ultrasonic Assistance | Hackaday | [link](https://hackaday.com/2026/06/21/brewing-espresso-with-ultrasonic-assistance/) |
+| 2026-06-22 | ST VL53L9CX direct Time-of-Flight 3D LiDAR supports 5cm to 9m range, 2.3K zones resolution | CNX Software | [link](https://www.cnx-software.com/2026/06/22/st-vl53l9cx-direct-time-of-flight-3d-lidar-supports-5cm-to-9m-range-2-3k-zones-resolution/) |
+| 2026-06-22 | GEEKOM A7 2026 Edition Review – Part 2: AMD Ryzen 5 7545U Mini PC tested with Windows 11 Pro | CNX Software | [link](https://www.cnx-software.com/2026/06/22/geekom-a7-2026-edition-review-part-2-amd-ryzen-5-7545u-mini-pc-tested-with-windows-11-pro/) |
 | 2026-06-22 | UTFS is a lightweight, zero-allocation file system for embedded devices | CNX Software | [link](https://www.cnx-software.com/2026/06/22/utfs-is-a-lightweight-zero-allocation-file-system-for-embedded-devices/) |
-| 2026-06-22 | Many approaches to optical interconnect | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/many-approaches-to-optical-interconnect-2026-06/) |
-| 2026-06-22 | Imec pushes ferroelectric memory research towards AI integration | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/imec-pushes-ferroelectric-memory-research-towards-ai-integration-2026-06/) |
-| 2026-06-22 | Ed Concocts A Sovereign Wheeze | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-concocts-a-sovereign-wheeze-2026-06/) |
-| 2026-06-21 | Hackaday Links: June 21, 2026 | Hackaday | [link](https://hackaday.com/2026/06/21/hackaday-links-june-21-2026/) |
-| 2026-06-21 | SmallRun.net Enters the Marketplace Market | Hackaday | [link](https://hackaday.com/2026/06/21/smallrun-net-enters-the-marketplace-market/) |
-| 2026-06-21 | When a Favicon Becomes the Entire Website | Hackaday | [link](https://hackaday.com/2026/06/21/when-a-favicon-becomes-the-entire-website/) |
-| 2026-06-21 | Hacking the Mi Band 10 Smart Band and its Bestechnic SoC | Hackaday | [link](https://hackaday.com/2026/06/21/hacking-the-mi-band-10-smart-band-and-its-bestechnic-soc/) |
+| 2026-06-22 | Nuclear Fusion  industry supply chain needs standardisation, regulation and funding | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/fusion-industry-supply-chain-needs-dedication-standardisation-regulation-and-funding-2026-06/) |
+| 2026-06-22 | Leonardo delivers flight far-infrared detectors to ESA FORUM mission | Electronics Weekly | [link](https://www.electronicsweekly.com/uk-region/leonardo-delivers-flight-far-infrared-detectors-to-esa-forum-mission-2026-06/) |
+| 2026-06-22 | M31 collaborates with TSMC to continue design IP ecosystem | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/micros/m31-collaborates-with-tsmc-to-continue-design-ip-ecosystem-2026-06/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -75,34 +75,35 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-22 | etri-robotai-platform-dev/phase1-e2e-pusht-smoke-20260622-1729 | 0 | 0 | [link](https://huggingface.co/etri-robotai-platform-dev/phase1-e2e-pusht-smoke-20260622-1729) |
+| 2026-06-22 | AMD-PAVS-AI/Robotics_DevKit_models | 0 | 0 | [link](https://huggingface.co/AMD-PAVS-AI/Robotics_DevKit_models) |
 | 2026-06-22 | sjb-robotics/sjb-ai-mini | 0 | 0 | [link](https://huggingface.co/sjb-robotics/sjb-ai-mini) |
-| 2026-06-22 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 156 | 6 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
+| 2026-06-22 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 188 | 6 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
+| 2026-06-22 | kuimin/ta_vla_force_frozen_vlm | 0 | 0 | [link](https://huggingface.co/kuimin/ta_vla_force_frozen_vlm) |
+| 2026-06-22 | GT-111/memcode-vla | 0 | 0 | [link](https://huggingface.co/GT-111/memcode-vla) |
+| 2026-06-22 | KasLoot/lingbot-vla-v2 | 0 | 0 | [link](https://huggingface.co/KasLoot/lingbot-vla-v2) |
+| 2026-06-22 | deksprime/vla-jepa-robocasa-mg300-unfrozen-ri | 0 | 0 | [link](https://huggingface.co/deksprime/vla-jepa-robocasa-mg300-unfrozen-ri) |
 | 2026-06-22 | vladimirmodylevskii/act_so100_pickplace_v1 | 0 | 0 | [link](https://huggingface.co/vladimirmodylevskii/act_so100_pickplace_v1) |
 | 2026-06-22 | etyacke/vla-foundry-so101-poc | 0 | 0 | [link](https://huggingface.co/etyacke/vla-foundry-so101-poc) |
-| 2026-06-22 | tencent/Hy-Embodied-0.5-VLA-UMI | 152 | 5 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
-| 2026-06-22 | kamada-riku/vla_jepa_so101_pick_toy_v6_4 | 0 | 0 | [link](https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v6_4) |
-| 2026-06-22 | Wayer2/policy-test | 17 | 0 | [link](https://huggingface.co/Wayer2/policy-test) |
-| 2026-06-22 | ZDRRRM/act_policy | 0 | 0 | [link](https://huggingface.co/ZDRRRM/act_policy) |
-| 2026-06-22 | gyeongwk/Math-On-policy-SFT-Qwen3-1.7B-step-1200 | 0 | 0 | [link](https://huggingface.co/gyeongwk/Math-On-policy-SFT-Qwen3-1.7B-step-1200) |
-| 2026-06-22 | gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-600 | 0 | 0 | [link](https://huggingface.co/gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-600) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | Edgenesis/shifu | 1421 | Go | 568.5 | [link](https://github.com/Edgenesis/shifu) |
+| copper-project/copper-rs | 1364 | Rust | 545.7 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 446 | Shell | 178.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 61493 | Python | 24597.3 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29837 | Python | 11934.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| ArduPilot/ardupilot | 15329 | C++ | 6131.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 13941 | C++ | 5576.5 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 10969 | Rust | 4387.7 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7498 | Python | 2999.3 | [link](https://github.com/isaac-sim/IsaacLab) |
-| earthtojake/text-to-cad | 6765 | JavaScript | 2706.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| dora-rs/dora | 3792 | Rust | 1516.9 | [link](https://github.com/dora-rs/dora) |
+| commaai/openpilot | 61496 | Python | 24598.5 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29842 | Python | 11936.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15939 | Python | 6375.7 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15332 | C++ | 6132.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 13945 | C++ | 5578.1 | [link](https://github.com/google-deepmind/mujoco) |
+| kornia/kornia | 11242 | Python | 4496.9 | [link](https://github.com/kornia/kornia) |
+| rerun-io/rerun | 10972 | Rust | 4388.9 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-06-22 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFJoUFhNSkJSZWhIVVpZNmxfWlZKc3dkeEQ5NjMzMG9TZDBYS2RtRVYwTUI0cm93bHR0OEM5RXpYSS1WVjVsM2lQR093S25TMEdrSWFzTWNvRklZVmxLYWtYUmV5cVdJNm9aaGpzcHdJWDVOcS10cVo0QzRTTk5KYUp5X1M5M0tuLVd0QkRVRVQySnNMTmpPUE1vand2X0I0OWloMDJjN2hhNHdiTDR1bGt6Zw?oc=5) |
 | 2026-06-22 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxONDNfTUhVX2hYeV9LaFFLYVhhOXpVdF83Tl9sVGg0WVl3OVE5RkNDWmdYY3ZVU05mVTl0LTNBZ0pscENydlozdERiSzJGb2lZM0llZDJJNjRoMDZUdV9KekRldDlXYV8yRHV0WTZzQlBrSXdYREhxSGxBS3B4XzJoZXh2VkFJT2N6SlVtdXRjRTl2SFA1c1pHTGJfeWdvUVBZZGZlSDMzczB5UnJVYU95akV0M2gycTg?oc=5) |
 | 2026-06-20 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPeDNtZndSS0tqdEVEMGhvb2FJZm0yM1JqOXlHbGdaclFqUVFNUmh4aUJhMGo3MVlNazM5RmJfZk9HVThhelF1RFVVUXRnbFQ1cHgzZzRNaGFlbURhQ3dyQ1N3WS02el9UQmJobVcwRi1iTzZuQ3BNaWkwdnVnZmZfR1NUV0FjSnMtZHpxYlpWbWZqVzl3U0lVTlR1Mk03dTlWNkpYSEZpYTlhamZWeEtwTFM2bEhRUU5CVDQ5UHI1UWJhdjFySlFWaHNHUdIB0AFBVV95cUxQak5hQmt6a19ac1Q5TXdfVmpRMWVxOVZOSGNVY3o2d2NhcDhSeWZNbC1adGJxRnNDR3pWUUhpSHYwTHZLTEY0MElBekcweHNLQ3MzaW1VVHUyb0VqRTZGaWxPMVFTdV92R29STFpqQjIwRE0wN2QtTzNBLVBCdmlqSzdwWjJHY01XcjBiX3FqaHYxbVE2VnIwbEhib1ZaV3ZERTlURXlCY0xiR2Z4WE03a2ZXdlByQWxaSWJ1WDRNQWtBb0ZxQ0pXZl9lN3FjZHFU?oc=5) |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2pwV01RYWVyaWtwQll2S1dnaDBMZFpiTDNvcExwSXFRTGk3VFpfV3lSWG1BU3pFYkFFQS13MU00TXA4QmN3NUdXLS1FX3hRS0d6c0Q3bnFKT2VNZXNfSnFLcS1sZlJOdUt1LTdRaHBXc216cVgyOEREYy1uVUdocA?oc=5) |
@@ -112,16 +113,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-10 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RWmRNLXNFMTJ0V0VFVEtoYnA5NTdMcXZaMS1ud2RRaUNIRk1BbFB4QnF6eGFoY0FUVEY2bm9QOTdleUtVbzc0eWRqR21IaE5xUXl0eW1MWQ?oc=5) |
 | 2026-06-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hLU04d3VwTUxreHA5bVNWS3B4dmZaMzRsdUFGZEJwYTNrTXJtZl8xZ2RpZTA1MWxzYkxndWpfZEI4bk1PbXZYR3hMcXhHNUpvLVZnaUlRUGFTa3FNSXBrS0hn?oc=5) |
 | 2026-06-06 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXaTdjZ0ZvRzBZaGdwX2plVlFjNXdvQkNpTVNsZU9OMGFjQzFkQVNYdWNsaTB4eXZWeFJuWXVBZ19wWlE0V2ZnMGNMXzN6dk1CcWN4TjF2VXF5NmQzNDRTVA?oc=5) |
-| 2026-06-05 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlI3N21DSmpVdVhOSUFjcmE2ZlpkNlBTendxb0VjZ3hIMW4wUVlYZU9tdko5RFR5U3lFbkxmd256VmljWXpMc29zYzd5YXhWcU1ESEo2VXZQaFFPbHBjNEFDLTFXalRtVjdhbzUwQ1BUaW9rRlpONGRLMUpsbHY2R1ZtNFdrNnNZYTV1MlBZbG0xbmNtNW40T2xyUkpHekZOLXBYQVM1LU5hM055UVRWdzlvQQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-06-22 | Automate 2026 Day-by-Day: Kawasaki 8-DOF Premiere, ABB Physical AI Launch, Humanoid Forum - Tech Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWmMtNGlPSm1COXZHTnVrelpVQS1nem5tWWVVRUJNYmJoYXpqTnplVHpJQ0FLeC10RnByMnF4WURjM0RGM2tYalUxZ1hJaDVQT0xiSTNyT1V5ZC02dG5tRHhDdzItc0hxeFViT0ZkU1BmNVdDWkJzc19xMjZRZ19lMXFGcVd2bnh5R193Qk9CSnhiSWk5cGZ3VFlDUE11QkpCdWJsTFdzNkxlSk9uNTMzNHl1bnJOZkdkUkg3VXczRExXcDMzUmotcnl4dTExMnlxZTlINw?oc=5) |
 | 2026-06-21 | Why it’s nearly impossible to build a robot without China - The Business Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2JPa2gzVHc1QjZ4TGVUM2NsTXB1WU9pdVpFMmI5Y3RmUy1Ya0tGRU9vVC1MU3pZZUwxV0d2ZC10amdVU3QzX0NPZUpkckJ2UGJrbzBEMndNUlUxb0dKRXRZeURoNnNaT0s3VGlHaWRxQkJoRnlfRk9ycFB2TEJZZFAzRUNZak5WMW9Lc2JSbmttaWFCblRYNzg5RlI3S1hMdGVBR3dmS2w?oc=5) |
 | 2026-06-20 | AI Startup Offers Free Cleaning to Train Robot Replacements - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGRsS0xNRGMyd0JDdGVYekZYblJmX1FyRjRRRGVpVFF1TkVoQWNFcVNfX2hvamU2N0lsdDdtMUVHVl9zcWtJZHlLOGxTWG9HSzJiZGY2SndqRk1BdTJLUGNHUFFlN0FoWk5SM2hURUptYUs5Y2U4STRRZFdGalBUX1dvWmZGbng2X0dib2pGRUlTZTNJZHdN?oc=5) |
 | 2026-06-20 | Inside General Intuition’s AI Startup Valuation Surge - AI CERTs | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODFjYWR6RzRURFIyZDlQVFM0c1V6anNrbXU0dm83ZUNuVXBMRzNRNHVBMlZzMnMxXzFzalMtY0ktSnh1RUg2cE5qdmU5RVJ5MDF5Ym1NTWxGd1dxTG5FM1ltTVpqTzQ0VHl0ekV5OS11RUdkSFJZdnBBRHVJNVUxLVhJNUl4ZDNz?oc=5) |
 | 2026-06-19 | Kerala Startup Building Humanoid Robots From Scratch - Electronics For You BUSINESS | vision language action startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0pNY1RtWlNfNEtXemNCbGNuUzQ4M0lXeThKZEFTY2U4aklBWHNRWjNYY1g0TTRLeXVHSGwyQzRyNjZnMF9tVlJCb2lhQ0NZZTI4WEI2c2xuREVpaHUtMEswRE9kVGJQVHdOUUFuNzRabDJndVhLN2xoR1B2SW02NWlCUlpuSWJVaDZpcVNzMWJEYTloWVNXU0N4ZEg?oc=5) |
-| 2026-06-18 | Game-clip AI startup General Intuition in talks to raise $300M at $2B valuation - SiliconANGLE | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkFacHVJZkpMbi11aEl6ZkRGRjMtQ1R4Vi1WZ2JaUzRYSUl2SGc1LTIxTTJPVS1La0Zta1AwMGpxeXJJeWZOLURCTV84bEtNTXJSOXYzZEpPSE9CdWY5YWkyX3FLR2FpbGp1bTA0YVlWSGJzcS1rVjhCaVUwenNabGxDLXhDYU1lWHVVajFrV0JNb0hDbFNVNEJsUmFTM1FkVC1qLWYxclA?oc=5) |
 | 2026-06-17 | Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it. - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDZGRzM0c0Q5WTg4MEIwREtvVTZCZzh0YTQ4SmpmZmE2V2pUZHVSQlEzVHNHQnRuSjNmU19TNU9ZYWxoVy13THRFeHN0OWRsVGM5ZUFDMk9feUVHel82MWtRdldBdFdmTm9lMjBiSDlldEVRT1ItalJRYVI0Vk9JamxxSWZaeUZfbEhrMTFLc1JWUUdyQkZZTUpnc3dWdU9seHpVQzc3RTFGSlBBSnRybVpzbldESGJsclJCckh1OFJlZDRQb181Rm9XdnJuTHcwWUY0?oc=5) |
 | 2026-06-17 | The AI startups building beyond chatbots are choosing Amazon’s custom chips. Here's why. - About Amazon | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWHJIMkh5anltV1hIcVlqaU5NSlFaa0VZOUhjd2REN2NQUExac2Vmd3I1THBTamZ2WDFKX2xCVGtoeEdaSkZKR0xUVkZ6elpxY3FUX0JVWHhLT005QnBLZlAxRkVaZy02Wlp1NUp1NGlVLXlvZldJQWZnREY3QlVtUnF4ZV9OV1g3?oc=5) |
 | 2026-06-17 | Amazon backs AI startup developing models to simulate the physical world - Crypto Briefing | physical ai startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZWhhdjVzODRNdjJwUTZFUTJPckNPRXBSdVo2LWs1TXh6WjU0Z3UwaXNOanRjTEl1dUJOUUFmX1pTd05JT0REV1NXVS1PZkYzMlZXYkZ2bjRObURUbnVXMEhuTi1wSXdhQ21UeQ?oc=5) |
