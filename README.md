@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-22 20:28 UTC
+Last Updated: 2026-06-22 22:28 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -82,9 +82,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-22 | AMD-PAVS-AI/Robotics_DevKit_models | 0 | 0 | [link](https://huggingface.co/AMD-PAVS-AI/Robotics_DevKit_models) |
 | 2026-06-22 | sjb-robotics/sjb-ai-mini | 0 | 0 | [link](https://huggingface.co/sjb-robotics/sjb-ai-mini) |
 | 2026-06-22 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 188 | 6 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
-| 2026-06-22 | witsense-ai/so101_vla_jepa_v4_best | 0 | 0 | [link](https://huggingface.co/witsense-ai/so101_vla_jepa_v4_best) |
-| 2026-06-22 | witsense-ai/so101_vla_jepa_v3_best | 0 | 0 | [link](https://huggingface.co/witsense-ai/so101_vla_jepa_v3_best) |
-| 2026-06-22 | InternRobotics/VLAC2-Qwen3VL-30B-A3B-Progress | 0 | 0 | [link](https://huggingface.co/InternRobotics/VLAC2-Qwen3VL-30B-A3B-Progress) |
+| 2026-06-22 | anikitakis/vla_so101_pick_n_place_full_expert | 882 | 0 | [link](https://huggingface.co/anikitakis/vla_so101_pick_n_place_full_expert) |
+| 2026-06-22 | Vladmun1337/multiclip-classifier-ro | 185 | 0 | [link](https://huggingface.co/Vladmun1337/multiclip-classifier-ro) |
+| 2026-06-22 | VLat3/Taxi-v4 | 0 | 0 | [link](https://huggingface.co/VLat3/Taxi-v4) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -93,26 +93,26 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1365 | Rust | 546.1 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 446 | Shell | 178.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 299 | Python | 119.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 61502 | Python | 24600.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 61503 | Python | 24601.3 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 29845 | Python | 11938.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15942 | Python | 6376.9 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15332 | C++ | 6132.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| zauberzeug/nicegui | 15943 | Python | 6377.3 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15333 | C++ | 6133.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 13951 | C++ | 5580.5 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11243 | Python | 4497.3 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-06-22 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFJoUFhNSkJSZWhIVVpZNmxfWlZKc3dkeEQ5NjMzMG9TZDBYS2RtRVYwTUI0cm93bHR0OEM5RXpYSS1WVjVsM2lQR093S25TMEdrSWFzTWNvRklZVmxLYWtYUmV5cVdJNm9aaGpzcHdJWDVOcS10cVo0QzRTTk5KYUp5X1M5M0tuLVd0QkRVRVQySnNMTmpPUE1vand2X0I0OWloMDJjN2hhNHdiTDR1bGt6Zw?oc=5) |
 | 2026-06-22 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxONDNfTUhVX2hYeV9LaFFLYVhhOXpVdF83Tl9sVGg0WVl3OVE5RkNDWmdYY3ZVU05mVTl0LTNBZ0pscENydlozdERiSzJGb2lZM0llZDJJNjRoMDZUdV9KekRldDlXYV8yRHV0WTZzQlBrSXdYREhxSGxBS3B4XzJoZXh2VkFJT2N6SlVtdXRjRTl2SFA1c1pHTGJfeWdvUVBZZGZlSDMzczB5UnJVYU95akV0M2gycTg?oc=5) |
-| 2026-06-20 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPeDNtZndSS0tqdEVEMGhvb2FJZm0yM1JqOXlHbGdaclFqUVFNUmh4aUJhMGo3MVlNazM5RmJfZk9HVThhelF1RFVVUXRnbFQ1cHgzZzRNaGFlbURhQ3dyQ1N3WS02el9UQmJobVcwRi1iTzZuQ3BNaWkwdnVnZmZfR1NUV0FjSnMtZHpxYlpWbWZqVzl3U0lVTlR1Mk03dTlWNkpYSEZpYTlhamZWeEtwTFM2bEhRUU5CVDQ5UHI1UWJhdjFySlFWaHNHUdIB0AFBVV95cUxQak5hQmt6a19ac1Q5TXdfVmpRMWVxOVZOSGNVY3o2d2NhcDhSeWZNbC1adGJxRnNDR3pWUUhpSHYwTHZLTEY0MElBekcweHNLQ3MzaW1VVHUyb0VqRTZGaWxPMVFTdV92R29STFpqQjIwRE0wN2QtTzNBLVBCdmlqSzdwWjJHY01XcjBiX3FqaHYxbVE2VnIwbEhib1ZaV3ZERTlURXlCY0xiR2Z4WE03a2ZXdlByQWxaSWJ1WDRNQWtBb0ZxQ0pXZl9lN3FjZHFU?oc=5) |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2pwV01RYWVyaWtwQll2S1dnaDBMZFpiTDNvcExwSXFRTGk3VFpfV3lSWG1BU3pFYkFFQS13MU00TXA4QmN3NUdXLS1FX3hRS0d6c0Q3bnFKT2VNZXNfSnFLcS1sZlJOdUt1LTdRaHBXc216cVgyOEREYy1uVUdocA?oc=5) |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmEtTVhCcXBoTkY0NkFqdXJDYXh1UkFvLWxWM19YR0VnVUdJdjlhYkRRd0lnekhjRnFDaUU4UG01UTI1RXk2dm5tWHZ5UVBodmJJSW01R2hKb2Vsbl94Y0hQTUJYYXBpamlROGNlMnRQVGVNZ1Nwcm5tOHRwN1NxUGRlVjZuQk0zUmdRZGp2Mkx5QnFLT1BMSmFJOVEzV2M?oc=5) |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWFSVTF3OEdYcUhhZ1NlX3lfZ2M1UkZkNGd3ZVltUU0zaGVEekZFV1BQN2w4LWJaRF9tWmVNdHd4VjZUMEhZSWliMlp2cTVxWDNUQmlrT2NuYVliNkxmS1ptWWJwcDFJZmxTam1va3NZQWg3eFJYNFFnQkhwcm52SHpZVjBocU1uOElBS0hSTW9TNjNjTTA3OG5rVElsWURBWWc?oc=5) |
 | 2026-06-16 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tYllveVV4SW03M0J5bVp5akswd1VfR2tyOGNhbUgxbU54LS1NT2Q1am5kRVVzcHJpSzd3QlMzblZVWmVFcVJyWk41ODU1ZEVoSXdoYWIydXVoS3RqaWRwRTJCZndRNnM?oc=5) |
+| 2026-06-10 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RWmRNLXNFMTJ0V0VFVEtoYnA5NTdMcXZaMS1ud2RRaUNIRk1BbFB4QnF6eGFoY0FUVEY2bm9QOTdleUtVbzc0eWRqR21IaE5xUXl0eW1MWQ?oc=5) |
 | 2026-06-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hLU04d3VwTUxreHA5bVNWS3B4dmZaMzRsdUFGZEJwYTNrTXJtZl8xZ2RpZTA1MWxzYkxndWpfZEI4bk1PbXZYR3hMcXhHNUpvLVZnaUlRUGFTa3FNSXBrS0hn?oc=5) |
 | 2026-06-06 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXaTdjZ0ZvRzBZaGdwX2plVlFjNXdvQkNpTVNsZU9OMGFjQzFkQVNYdWNsaTB4eXZWeFJuWXVBZ19wWlE0V2ZnMGNMXzN6dk1CcWN4TjF2VXF5NmQzNDRTVA?oc=5) |
 | 2026-06-05 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlI3N21DSmpVdVhOSUFjcmE2ZlpkNlBTendxb0VjZ3hIMW4wUVlYZU9tdko5RFR5U3lFbkxmd256VmljWXpMc29zYzd5YXhWcU1ESEo2VXZQaFFPbHBjNEFDLTFXalRtVjdhbzUwQ1BUaW9rRlpONGRLMUpsbHY2R1ZtNFdrNnNZYTV1MlBZbG0xbmNtNW40T2xyUkpHekZOLXBYQVM1LU5hM055UVRWdzlvQQ?oc=5) |
-| 2026-06-04 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWUUwVE5OblREN2VYZUkzTGZBM1c1MGtCdVNUaHhoOWI1V0RKc001aEN2LVZZdVBaaGNTTTVGemxLU2o3UHlNR0tCZ3p6My1iSWQ0WlljVzU1N1JFN1lpNlZWMkZVOGhZN3RVcHRENG5DeXRNMFZjem1Bc093Q2tfSks5eVJuVjNhaDE1UDZiNGdWd05yTDU0TjJhZElJMVpxY1VLZmVWUWJRTFJf?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -122,11 +122,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-22 | Automate 2026 Day-by-Day: Kawasaki 8-DOF Premiere, ABB Physical AI Launch, Humanoid Forum - Tech Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWmMtNGlPSm1COXZHTnVrelpVQS1nem5tWWVVRUJNYmJoYXpqTnplVHpJQ0FLeC10RnByMnF4WURjM0RGM2tYalUxZ1hJaDVQT0xiSTNyT1V5ZC02dG5tRHhDdzItc0hxeFViT0ZkU1BmNVdDWkJzc19xMjZRZ19lMXFGcVd2bnh5R193Qk9CSnhiSWk5cGZ3VFlDUE11QkpCdWJsTFdzNkxlSk9uNTMzNHl1bnJOZkdkUkg3VXczRExXcDMzUmotcnl4dTExMnlxZTlINw?oc=5) |
 | 2026-06-21 | Why it’s nearly impossible to build a robot without China - The Business Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2JPa2gzVHc1QjZ4TGVUM2NsTXB1WU9pdVpFMmI5Y3RmUy1Ya0tGRU9vVC1MU3pZZUwxV0d2ZC10amdVU3QzX0NPZUpkckJ2UGJrbzBEMndNUlUxb0dKRXRZeURoNnNaT0s3VGlHaWRxQkJoRnlfRk9ycFB2TEJZZFAzRUNZak5WMW9Lc2JSbmttaWFCblRYNzg5RlI3S1hMdGVBR3dmS2w?oc=5) |
 | 2026-06-20 | AI Startup Offers Free Cleaning to Train Robot Replacements - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGRsS0xNRGMyd0JDdGVYekZYblJmX1FyRjRRRGVpVFF1TkVoQWNFcVNfX2hvamU2N0lsdDdtMUVHVl9zcWtJZHlLOGxTWG9HSzJiZGY2SndqRk1BdTJLUGNHUFFlN0FoWk5SM2hURUptYUs5Y2U4STRRZFdGalBUX1dvWmZGbng2X0dib2pGRUlTZTNJZHdN?oc=5) |
-| 2026-06-20 | Inside General Intuition’s AI Startup Valuation Surge - AI CERTs | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODFjYWR6RzRURFIyZDlQVFM0c1V6anNrbXU0dm83ZUNuVXBMRzNRNHVBMlZzMnMxXzFzalMtY0ktSnh1RUg2cE5qdmU5RVJ5MDF5Ym1NTWxGd1dxTG5FM1ltTVpqTzQ0VHl0ekV5OS11RUdkSFJZdnBBRHVJNVUxLVhJNUl4ZDNz?oc=5) |
 | 2026-06-19 | Kerala Startup Building Humanoid Robots From Scratch - Electronics For You BUSINESS | vision language action startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0pNY1RtWlNfNEtXemNCbGNuUzQ4M0lXeThKZEFTY2U4aklBWHNRWjNYY1g0TTRLeXVHSGwyQzRyNjZnMF9tVlJCb2lhQ0NZZTI4WEI2c2xuREVpaHUtMEswRE9kVGJQVHdOUUFuNzRabDJndVhLN2xoR1B2SW02NWlCUlpuSWJVaDZpcVNzMWJEYTloWVNXU0N4ZEg?oc=5) |
 | 2026-06-17 | Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it. - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDZGRzM0c0Q5WTg4MEIwREtvVTZCZzh0YTQ4SmpmZmE2V2pUZHVSQlEzVHNHQnRuSjNmU19TNU9ZYWxoVy13THRFeHN0OWRsVGM5ZUFDMk9feUVHel82MWtRdldBdFdmTm9lMjBiSDlldEVRT1ItalJRYVI0Vk9JamxxSWZaeUZfbEhrMTFLc1JWUUdyQkZZTUpnc3dWdU9seHpVQzc3RTFGSlBBSnRybVpzbldESGJsclJCckh1OFJlZDRQb181Rm9XdnJuTHcwWUY0?oc=5) |
 | 2026-06-17 | The AI startups building beyond chatbots are choosing Amazon’s custom chips. Here's why. - About Amazon | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWHJIMkh5anltV1hIcVlqaU5NSlFaa0VZOUhjd2REN2NQUExac2Vmd3I1THBTamZ2WDFKX2xCVGtoeEdaSkZKR0xUVkZ6elpxY3FUX0JVWHhLT005QnBLZlAxRkVaZy02Wlp1NUp1NGlVLXlvZldJQWZnREY3QlVtUnF4ZV9OV1g3?oc=5) |
 | 2026-06-17 | Amazon backs AI startup developing models to simulate the physical world - Crypto Briefing | physical ai startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZWhhdjVzODRNdjJwUTZFUTJPckNPRXBSdVo2LWs1TXh6WjU0Z3UwaXNOanRjTEl1dUJOUUFmX1pTd05JT0REV1NXVS1PZkYzMlZXYkZ2bjRObURUbnVXMEhuTi1wSXdhQ21UeQ?oc=5) |
+| 2026-06-17 | The next humanoid robot might not look human at all - The Verge | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQajB6WloxbzRYS0cxNjFBSE5VZlozemdEMkdvVjlaNjhyampxdURVZWhDMmlIVzFnQ253TWxpdXNCZ1R1cEMwVE10dUtzR0ZmVTFJOXhtN3JzWXo0Z2lIb09VZXUtb2hNMUtYS1hpbDY4dTNrd19yQ2doZzNXUFYzejM1YTJuTkdBQ2IzT3paNFZUQQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

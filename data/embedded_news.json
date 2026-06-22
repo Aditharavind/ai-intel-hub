@@ -77,6 +77,13 @@
     "summary": "<div><img alt=\"μTFS lightweight, zero allocation file system\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/μTFS-lightweight-zero-allocation-file-system-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>CLI Systems has introduced UTFS (μTFS), a simple, lightweight embedded storage system designed for small MCUs. Unlike traditional file systems like FAT32 or EXT4, or even lighter options like LittleFS and SPIFFS used on boards like the ESP32, UTFS is much simpler. It does not use dynamic memory and avoids complex features like wear leveling, making it easier to use on low-resource devices. Designed for flat, byte-addressable memory like raw EEPROM, CPU flash pages, or external SPI/I²C flash, UTFS allows bare-metal firmware to store named data blobs (&#8220;files&#8221;) back-to-back. Each file is appended with a fixed 24-byte header containing metadata like identifiers, sizes, and application-defined signatures. UTFS specifications and features Footprint – Fixed 24-byte header per file; zero heap usage (no malloc) Format – TAR-inspired sequential layout; forward-compatible so files can be added later without breaking existing memory layouts Storage Agnostic – Requires porting only two functions to interface with [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/22/utfs-is-a-lightweight-zero-allocation-file-system-for-embedded-devices/\">UTFS is a lightweight, zero-allocation file system for embedded devices</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Partnerships to Drive WBG Semiconductor Innovations",
+    "source": "Embedded.com",
+    "date": "2026-06-22",
+    "url": "https://www.embedded.com/partnerships-to-drive-wbg-semiconductor-innovations/",
+    "summary": "<p>At PCIM Europe, several companies announced partnerships to accelerate SiC and GaN power device innovation.</p>\n<p>The post <a href=\"https://www.embedded.com/partnerships-to-drive-wbg-semiconductor-innovations/\">Partnerships to Drive WBG Semiconductor Innovations</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
     "title": "SiLC Introduces Eyeonic Edge 4D Vision Sensor",
     "source": "Embedded.com",
     "date": "2026-06-22",
@@ -418,12 +425,5 @@
     "date": "2026-06-16",
     "url": "https://www.embedded.com/altera-introduces-agilex-9-direct-rf-series-soc-fpga/",
     "summary": "<p>Altera has announced the availability of engineering samples for its Agilex 9 Direct RF-Series SoC FPGA, a new addition to the company's Direct RF portfolio, designed for wideband radio-frequency applications in aerospace, defense and advanced communications systems. Introduced at IMS 2026, the device addresses increasing requirements for bandwidth, real-time processing, and system integration while helping [...]</p>\n<p>The post <a href=\"https://www.embedded.com/altera-introduces-agilex-9-direct-rf-series-soc-fpga/\">Altera Introduces Agilex 9 Direct RF-Series SoC FPGA</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "ESD eBook June 2026: Building Blocks of Robotics Design",
-    "source": "Embedded.com",
-    "date": "2026-06-15",
-    "url": "https://www.embedded.com/esd-ebook-june-2026-building-blocks-of-robotics-design/",
-    "summary": "<p>Physical AI, machine learning, and edge computing are some of the latest technologies that are reshaping robotics and autonomous system design, enabling these systems to interact more intelligently and be more adaptable. Beyond these emerging trends, embedded systems and components such as sensors, processors, motors and controllers, and real-time operating systems (RTOSes) are still the [...]</p>\n<p>The post <a href=\"https://www.embedded.com/esd-ebook-june-2026-building-blocks-of-robotics-design/\">ESD eBook June 2026: Building Blocks of Robotics Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]

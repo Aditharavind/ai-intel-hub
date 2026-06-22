@@ -63,6 +63,42 @@
     "score": 57.7
   },
   {
+    "model": "anikitakis/vla_so101_pick_n_place_full_expert",
+    "downloads": 882,
+    "likes": 0,
+    "url": "https://huggingface.co/anikitakis/vla_so101_pick_n_place_full_expert",
+    "date": "2026-06-22",
+    "keyword": "vla",
+    "score": 264.7
+  },
+  {
+    "model": "Vladmun1337/multiclip-classifier-ro",
+    "downloads": 185,
+    "likes": 0,
+    "url": "https://huggingface.co/Vladmun1337/multiclip-classifier-ro",
+    "date": "2026-06-22",
+    "keyword": "vla",
+    "score": 55.6
+  },
+  {
+    "model": "VLat3/Taxi-v4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VLat3/Taxi-v4",
+    "date": "2026-06-22",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "VLat3/q-FrozenLake-v1-4x4-noSlippery",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VLat3/q-FrozenLake-v1-4x4-noSlippery",
+    "date": "2026-06-22",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "witsense-ai/so101_vla_jepa_v4_best",
     "downloads": 0,
     "likes": 0,
@@ -135,33 +171,6 @@
     "score": 0.1
   },
   {
-    "model": "vladimirmodylevskii/act_so100_pickplace_v1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladimirmodylevskii/act_so100_pickplace_v1",
-    "date": "2026-06-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "etyacke/vla-foundry-so101-poc",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/etyacke/vla-foundry-so101-poc",
-    "date": "2026-06-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "tencent/Hy-Embodied-0.5-VLA-UMI",
-    "downloads": 181,
-    "likes": 5,
-    "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI",
-    "date": "2026-06-22",
-    "keyword": "embodied",
-    "score": 55.4
-  },
-  {
     "model": "burtenshaw/openenv-echo-world-model-liquidai-lfm2.5-350m-seed1",
     "downloads": 0,
     "likes": 0,
@@ -213,6 +222,24 @@
     "url": "https://huggingface.co/burtenshaw/openenv-echo-world-model-distilgpt2-seed1",
     "date": "2026-06-22",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "tencent/Hy-Embodied-0.5-VLA-UMI",
+    "downloads": 181,
+    "likes": 5,
+    "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI",
+    "date": "2026-06-22",
+    "keyword": "embodied",
+    "score": 55.4
+  },
+  {
+    "model": "surira/pi05_20260618_redonyellow_4_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/surira/pi05_20260618_redonyellow_4_policy",
+    "date": "2026-06-22",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -313,15 +340,6 @@
     "date": "2026-06-22",
     "keyword": "policy",
     "score": 15.7
-  },
-  {
-    "model": "purpleoak/50mL_tube_lift_policy_v2_2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/purpleoak/50mL_tube_lift_policy_v2_2",
-    "date": "2026-06-22",
-    "keyword": "policy",
-    "score": 0.1
   },
   {
     "model": "mario-d-robot/qwen-image-edit-batch",

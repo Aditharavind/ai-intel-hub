@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-22 20:28 UTC
+Generated: 2026-06-22 22:28 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,26 +14,26 @@ Generated: 2026-06-22 20:28 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81898 | 32759.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61502 | 24600.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 81899 | 32759.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61503 | 24601.3 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 29845 | 11938.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15942 | 6376.9 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15332 | 6132.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| zauberzeug/nicegui | 15943 | 6377.3 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15333 | 6133.3 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
+| anikitakis/vla_so101_pick_n_place_full_expert | 882 | 264.7 | [link](https://huggingface.co/anikitakis/vla_so101_pick_n_place_full_expert) |
 | IffYuan/Embodied-R1.5 | 614 | 184.3 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 188 | 57.7 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
+| Vladmun1337/multiclip-classifier-ro | 185 | 55.6 | [link](https://huggingface.co/Vladmun1337/multiclip-classifier-ro) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 181 | 55.4 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
-| BrinqAI/functiongemma-270m-physical-ai | 127 | 38.2 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
-| physicalairi/pi05_ur3e_pick_red_drop_blue | 100 | 30.1 | [link](https://huggingface.co/physicalairi/pi05_ur3e_pick_red_drop_blue) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-06-22 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFJoUFhNSkJSZWhIVVpZNmxfWlZKc3dkeEQ5NjMzMG9TZDBYS2RtRVYwTUI0cm93bHR0OEM5RXpYSS1WVjVsM2lQR093S25TMEdrSWFzTWNvRklZVmxLYWtYUmV5cVdJNm9aaGpzcHdJWDVOcS10cVo0QzRTTk5KYUp5X1M5M0tuLVd0QkRVRVQySnNMTmpPUE1vand2X0I0OWloMDJjN2hhNHdiTDR1bGt6Zw?oc=5) |
 | 2026-06-22 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxONDNfTUhVX2hYeV9LaFFLYVhhOXpVdF83Tl9sVGg0WVl3OVE5RkNDWmdYY3ZVU05mVTl0LTNBZ0pscENydlozdERiSzJGb2lZM0llZDJJNjRoMDZUdV9KekRldDlXYV8yRHV0WTZzQlBrSXdYREhxSGxBS3B4XzJoZXh2VkFJT2N6SlVtdXRjRTl2SFA1c1pHTGJfeWdvUVBZZGZlSDMzczB5UnJVYU95akV0M2gycTg?oc=5) |
-| 2026-06-20 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPeDNtZndSS0tqdEVEMGhvb2FJZm0yM1JqOXlHbGdaclFqUVFNUmh4aUJhMGo3MVlNazM5RmJfZk9HVThhelF1RFVVUXRnbFQ1cHgzZzRNaGFlbURhQ3dyQ1N3WS02el9UQmJobVcwRi1iTzZuQ3BNaWkwdnVnZmZfR1NUV0FjSnMtZHpxYlpWbWZqVzl3U0lVTlR1Mk03dTlWNkpYSEZpYTlhamZWeEtwTFM2bEhRUU5CVDQ5UHI1UWJhdjFySlFWaHNHUdIB0AFBVV95cUxQak5hQmt6a19ac1Q5TXdfVmpRMWVxOVZOSGNVY3o2d2NhcDhSeWZNbC1adGJxRnNDR3pWUUhpSHYwTHZLTEY0MElBekcweHNLQ3MzaW1VVHUyb0VqRTZGaWxPMVFTdV92R29STFpqQjIwRE0wN2QtTzNBLVBCdmlqSzdwWjJHY01XcjBiX3FqaHYxbVE2VnIwbEhib1ZaV3ZERTlURXlCY0xiR2Z4WE03a2ZXdlByQWxaSWJ1WDRNQWtBb0ZxQ0pXZl9lN3FjZHFU?oc=5) |
 | 2026-06-19 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2pwV01RYWVyaWtwQll2S1dnaDBMZFpiTDNvcExwSXFRTGk3VFpfV3lSWG1BU3pFYkFFQS13MU00TXA4QmN3NUdXLS1FX3hRS0d6c0Q3bnFKT2VNZXNfSnFLcS1sZlJOdUt1LTdRaHBXc216cVgyOEREYy1uVUdocA?oc=5) |
 | 2026-06-19 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmEtTVhCcXBoTkY0NkFqdXJDYXh1UkFvLWxWM19YR0VnVUdJdjlhYkRRd0lnekhjRnFDaUU4UG01UTI1RXk2dm5tWHZ5UVBodmJJSW01R2hKb2Vsbl94Y0hQTUJYYXBpamlROGNlMnRQVGVNZ1Nwcm5tOHRwN1NxUGRlVjZuQk0zUmdRZGp2Mkx5QnFLT1BMSmFJOVEzV2M?oc=5) |
 | 2026-06-19 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWFSVTF3OEdYcUhhZ1NlX3lfZ2M1UkZkNGd3ZVltUU0zaGVEekZFV1BQN2w4LWJaRF9tWmVNdHd4VjZUMEhZSWliMlp2cTVxWDNUQmlrT2NuYVliNkxmS1ptWWJwcDFJZmxTam1va3NZQWg3eFJYNFFnQkhwcm52SHpZVjBocU1uOElBS0hSTW9TNjNjTTA3OG5rVElsWURBWWc?oc=5) |
