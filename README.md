@@ -1,14 +1,14 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-23 02:34 UTC
+Last Updated: 2026-06-23 06:36 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
-| 2026-06-22 | Patch the Planet: a Daybreak initiative to support open source maintainers | OpenAI | [link](https://openai.com/index/patch-the-planet) |
 | 2026-06-22 | Daybreak: Tools for securing every organization in the world | OpenAI | [link](https://openai.com/index/daybreak-securing-the-world) |
+| 2026-06-22 | Patch the Planet: a Daybreak initiative to support open source maintainers | OpenAI | [link](https://openai.com/index/patch-the-planet) |
 | 2026-06-22 | Codex-maxxing for long-running work | OpenAI | [link](https://openai.com/index/codex-maxxing-long-running-work) |
 | 2026-06-22 | PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters | Hugging Face | [link](https://huggingface.co/blog/PaddlePaddle/pp-ocrv6) |
 | 2026-06-21 | Samsung Electronics brings ChatGPT and Codex to employees | OpenAI | [link](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment) |
@@ -47,58 +47,58 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-23 | Rickrolling the World Cup | Hackaday | [link](https://hackaday.com/2026/06/22/rickrolling-the-world-cup/) |
 | 2026-06-23 | Dynamic RAM from First Principles | Hackaday | [link](https://hackaday.com/2026/06/22/dynamic-ram-from-first-principles/) |
-| 2026-06-23 | Few European Transistors In ARINC Spec | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/arinc-spec-has-few-european-transistors-2026-06/) |
+| 2026-06-23 | Coin-cell powered Nordic nRF54L15 Tag prototyping platform supports Bluetooth Channel Sounding, Matter, Edge AI | CNX Software | [link](https://www.cnx-software.com/2026/06/23/nordic-nrf54l15-tag-prototyping-platform-supports-bluetooth-channel-sounding-matter-edge-ai/) |
+| 2026-06-23 | The Best GEEKOM Mini PCs to Buy During the Prime Day 2026 Sale (Sponsored) | CNX Software | [link](https://www.cnx-software.com/2026/06/23/the-best-geekom-mini-pcs-to-buy-during-the-prime-day-2026-sale/) |
 | 2026-06-22 | LightComposer – Reach Out and Touch Your Lighting | Hackaday | [link](https://hackaday.com/2026/06/22/lightcomposer-reach-out-and-touch-your-lighting/) |
 | 2026-06-22 | Investigating Annealing as Fix for Poor CF Adhesion in 3D Prints | Hackaday | [link](https://hackaday.com/2026/06/22/investigating-annealing-as-fix-for-poor-cf-adhesion-in-3d-prints/) |
 | 2026-06-22 | Breaking Into a Prison Tablet | Hackaday | [link](https://hackaday.com/2026/06/22/breaking-into-a-prison-tablet/) |
 | 2026-06-22 | Graphics Upgrade for Nintendo Entertainment System | Hackaday | [link](https://hackaday.com/2026/06/22/graphics-upgrade-for-nintendo-entertainment-system/) |
 | 2026-06-22 | MSYS2 and the No-Fuss Way to Get More GNU Into Your Windows | Hackaday | [link](https://hackaday.com/2026/06/22/msys2-and-the-no-fuss-way-to-get-more-gnu-into-your-windows/) |
-| 2026-06-22 | SDS-Remote Brings Power-User Features to Siglent Scope | Hackaday | [link](https://hackaday.com/2026/06/22/sds-remote-brings-power-user-features-to-siglent-scope/) |
-| 2026-06-22 | Optocam Zero – A Raspberry Pi Zero 2 W -based DIY digital camera | CNX Software | [link](https://www.cnx-software.com/2026/06/22/optocam-zero-a-raspberry-pi-zero-2-w-based-diy-digital-camera/) |
-| 2026-06-22 | ST VL53L9CX direct Time-of-Flight 3D LiDAR supports 5cm to 9m range, 2.3K zones resolution | CNX Software | [link](https://www.cnx-software.com/2026/06/22/st-vl53l9cx-direct-time-of-flight-3d-lidar-supports-5cm-to-9m-range-2-3k-zones-resolution/) |
+| 2026-06-22 | Optocam Zero – A Raspberry Pi Zero 2 W-based DIY digital camera | CNX Software | [link](https://www.cnx-software.com/2026/06/22/optocam-zero-a-raspberry-pi-zero-2-w-based-diy-digital-camera/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-06-21 | Radio spectral properties and aging of two tailed radio galaxies in a galaxy group at z=0.35 | [link](https://arxiv.org/pdf/2606.22595v1) |
-| 2026-06-21 | Training-free Task Classification for Multi-Task Model Merging | [link](https://arxiv.org/pdf/2606.22589v1) |
-| 2026-06-21 | SeFi-Image: A Text-to-Image Foundation Model with Semantic-First Diffusion | [link](https://arxiv.org/pdf/2606.22568v1) |
-| 2026-06-21 | PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models | [link](https://arxiv.org/pdf/2606.22540v1) |
-| 2026-06-21 | Imagine to Ensure Safety in Hierarchical Reinforcement Learning | [link](https://arxiv.org/pdf/2606.22509v1) |
-| 2026-06-21 | Line Drawings using LightBenders: Authoring and Illuminating | [link](https://arxiv.org/pdf/2606.22499v1) |
-| 2026-06-21 | PenduMorph: Development and Motion Analysis of Pendulum-Actuated Rolling Reconfigurable Spherical Robot with Magnetic-Coupling | [link](https://arxiv.org/pdf/2606.22491v1) |
-| 2026-06-21 | Human and AI collaboration for pulmonary nodule segmentation | [link](https://arxiv.org/pdf/2606.22486v1) |
-| 2026-06-21 | ARP: Enhancing Quantized Skill Abstractions via Visual Alignment and Iterative Refinement for Robotic Manipulation | [link](https://arxiv.org/pdf/2606.22480v1) |
-| 2026-06-21 | Scalable Multi-Task Data Generation via Reinforcement Learning for Language-Conditioned Bimanual Dexterous Manipulation | [link](https://arxiv.org/pdf/2606.22471v1) |
+| 2026-06-22 | AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection | [link](https://arxiv.org/pdf/2606.23689v1) |
+| 2026-06-22 | LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models | [link](https://arxiv.org/pdf/2606.23686v1) |
+| 2026-06-22 | LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation | [link](https://arxiv.org/pdf/2606.23685v1) |
+| 2026-06-22 | CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation | [link](https://arxiv.org/pdf/2606.23680v1) |
+| 2026-06-22 | IMAGIN-4D: Image-Guided Controllable Interaction Generation | [link](https://arxiv.org/pdf/2606.23675v1) |
+| 2026-06-22 | A Reduced Order Model for Emergent Mechanics in Woven Systems | [link](https://arxiv.org/pdf/2606.23658v1) |
+| 2026-06-22 | Flatness Preserves Instruction Following in Vision-Language-Action Models | [link](https://arxiv.org/pdf/2606.23641v1) |
+| 2026-06-22 | Learning Process Rewards via Success Visitation Matching for Efficient RL | [link](https://arxiv.org/pdf/2606.23640v1) |
+| 2026-06-22 | Pose Anything Anywhere:Model-free Object Poses from Arbitrary References | [link](https://arxiv.org/pdf/2606.23634v1) |
+| 2026-06-22 | Learning to See While Learning to Act: Diffusion Models for Active Perception in Robot Imitation | [link](https://arxiv.org/pdf/2606.23625v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-23 | etri-robotai-platform-dev/phase1-e2e-pusht-repeat-20260623-143934 | 0 | 0 | [link](https://huggingface.co/etri-robotai-platform-dev/phase1-e2e-pusht-repeat-20260623-143934) |
+| 2026-06-23 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 188 | 6 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
+| 2026-06-23 | openEuler/IB_Robot_ACT_dual_arm_banana_pick | 0 | 0 | [link](https://huggingface.co/openEuler/IB_Robot_ACT_dual_arm_banana_pick) |
+| 2026-06-23 | tencent/Hy-Embodied-0.5-VLA-UMI | 181 | 5 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
 | 2026-06-23 | kuimin/ta_vla_force_frozen_vlm | 0 | 0 | [link](https://huggingface.co/kuimin/ta_vla_force_frozen_vlm) |
+| 2026-06-23 | woh7539/omx_act_policy | 60 | 1 | [link](https://huggingface.co/woh7539/omx_act_policy) |
+| 2026-06-23 | 3cda2225/record_test_act2_policy | 0 | 0 | [link](https://huggingface.co/3cda2225/record_test_act2_policy) |
 | 2026-06-23 | hiskiv/cosmos-policy-lam | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam) |
 | 2026-06-23 | gyalpo/so101_act_pick_block_policy | 0 | 0 | [link](https://huggingface.co/gyalpo/so101_act_pick_block_policy) |
 | 2026-06-22 | Oliver-Ma/real-robot-l1-cube-to-pot-adapter | 0 | 0 | [link](https://huggingface.co/Oliver-Ma/real-robot-l1-cube-to-pot-adapter) |
-| 2026-06-22 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
-| 2026-06-22 | robotneu/composite_ability_pfc_2_3_hard | 0 | 0 | [link](https://huggingface.co/robotneu/composite_ability_pfc_2_3_hard) |
-| 2026-06-22 | RobotsMali/lau-soloni-114m-mse-k1 | 6 | 1 | [link](https://huggingface.co/RobotsMali/lau-soloni-114m-mse-k1) |
-| 2026-06-22 | etri-robotai-platform-dev/phase1-e2e-pusht-smoke-20260622-1729 | 0 | 0 | [link](https://huggingface.co/etri-robotai-platform-dev/phase1-e2e-pusht-smoke-20260622-1729) |
-| 2026-06-22 | AMD-PAVS-AI/Robotics_DevKit_models | 0 | 0 | [link](https://huggingface.co/AMD-PAVS-AI/Robotics_DevKit_models) |
-| 2026-06-22 | sjb-robotics/sjb-ai-mini | 0 | 0 | [link](https://huggingface.co/sjb-robotics/sjb-ai-mini) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | awslabs/awsome-distributed-ai | 446 | Shell | 178.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 299 | Python | 119.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 61507 | Python | 24602.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 81901 |  | 32760.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61510 | Python | 24604.1 | [link](https://github.com/commaai/openpilot) |
+| rerun-io/rerun | 10974 | Rust | 4389.7 | [link](https://github.com/rerun-io/rerun) |
+| isaac-sim/IsaacLab | 7507 | Python | 3002.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 3864 | Python | 1545.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3796 | Rust | 1518.5 | [link](https://github.com/dora-rs/dora) |
 | mani-skill/ManiSkill | 3028 | Python | 1211.3 | [link](https://github.com/mani-skill/ManiSkill) |
-| YuZhaoshu/Efficient-VLAs-Survey | 166 |  | 66.5 | [link](https://github.com/YuZhaoshu/Efficient-VLAs-Survey) |
-| vllm-project/vllm-omni | 5239 | Python | 2095.7 | [link](https://github.com/vllm-project/vllm-omni) |
-| DexForce/EmbodiChain | 182 | Python | 72.9 | [link](https://github.com/DexForce/EmbodiChain) |
-| strands-labs/robots | 71 | Python | 28.5 | [link](https://github.com/strands-labs/robots) |
-| Edgenesis/shifu | 1421 | Go | 568.5 | [link](https://github.com/Edgenesis/shifu) |
+| leofan90/Awesome-World-Models | 1827 | Python | 730.9 | [link](https://github.com/leofan90/Awesome-World-Models) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -109,10 +109,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2pwV01RYWVyaWtwQll2S1dnaDBMZFpiTDNvcExwSXFRTGk3VFpfV3lSWG1BU3pFYkFFQS13MU00TXA4QmN3NUdXLS1FX3hRS0d6c0Q3bnFKT2VNZXNfSnFLcS1sZlJOdUt1LTdRaHBXc216cVgyOEREYy1uVUdocA?oc=5) |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmEtTVhCcXBoTkY0NkFqdXJDYXh1UkFvLWxWM19YR0VnVUdJdjlhYkRRd0lnekhjRnFDaUU4UG01UTI1RXk2dm5tWHZ5UVBodmJJSW01R2hKb2Vsbl94Y0hQTUJYYXBpamlROGNlMnRQVGVNZ1Nwcm5tOHRwN1NxUGRlVjZuQk0zUmdRZGp2Mkx5QnFLT1BMSmFJOVEzV2M?oc=5) |
 | 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWFSVTF3OEdYcUhhZ1NlX3lfZ2M1UkZkNGd3ZVltUU0zaGVEekZFV1BQN2w4LWJaRF9tWmVNdHd4VjZUMEhZSWliMlp2cTVxWDNUQmlrT2NuYVliNkxmS1ptWWJwcDFJZmxTam1va3NZQWg3eFJYNFFnQkhwcm52SHpZVjBocU1uOElBS0hSTW9TNjNjTTA3OG5rVElsWURBWWc?oc=5) |
+| 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE9BZGI1SURVOVpxR1B2a3NhemNLN0x0Wjktc2tEN3ozV0IydERuSWNkS1NtQlhqQlJobUp2dXdrYVg2OC10TnNGOXNBYVB2QlhRSlBUT3ptanhpNzZxVFYwUzhVWnVJUUtYRXRWdE5OWEg?oc=5) |
 | 2026-06-16 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tYllveVV4SW03M0J5bVp5akswd1VfR2tyOGNhbUgxbU54LS1NT2Q1am5kRVVzcHJpSzd3QlMzblZVWmVFcVJyWk41ODU1ZEVoSXdoYWIydXVoS3RqaWRwRTJCZndRNnM?oc=5) |
 | 2026-06-10 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RWmRNLXNFMTJ0V0VFVEtoYnA5NTdMcXZaMS1ud2RRaUNIRk1BbFB4QnF6eGFoY0FUVEY2bm9QOTdleUtVbzc0eWRqR21IaE5xUXl0eW1MWQ?oc=5) |
 | 2026-06-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hLU04d3VwTUxreHA5bVNWS3B4dmZaMzRsdUFGZEJwYTNrTXJtZl8xZ2RpZTA1MWxzYkxndWpfZEI4bk1PbXZYR3hMcXhHNUpvLVZnaUlRUGFTa3FNSXBrS0hn?oc=5) |
-| 2026-06-06 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXaTdjZ0ZvRzBZaGdwX2plVlFjNXdvQkNpTVNsZU9OMGFjQzFkQVNYdWNsaTB4eXZWeFJuWXVBZ19wWlE0V2ZnMGNMXzN6dk1CcWN4TjF2VXF5NmQzNDRTVA?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

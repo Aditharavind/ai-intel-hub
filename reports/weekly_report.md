@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-23 02:34 UTC
+Generated: 2026-06-23 06:36 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-06-21 | Radio spectral properties and aging of two tailed radio galaxies in a galaxy group at z=0.35 | [link](https://arxiv.org/pdf/2606.22595v1) |
-| 2026-06-21 | Training-free Task Classification for Multi-Task Model Merging | [link](https://arxiv.org/pdf/2606.22589v1) |
-| 2026-06-21 | SeFi-Image: A Text-to-Image Foundation Model with Semantic-First Diffusion | [link](https://arxiv.org/pdf/2606.22568v1) |
-| 2026-06-21 | PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models | [link](https://arxiv.org/pdf/2606.22540v1) |
-| 2026-06-21 | Imagine to Ensure Safety in Hierarchical Reinforcement Learning | [link](https://arxiv.org/pdf/2606.22509v1) |
+| 2026-06-22 | AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection | [link](https://arxiv.org/pdf/2606.23689v1) |
+| 2026-06-22 | LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models | [link](https://arxiv.org/pdf/2606.23686v1) |
+| 2026-06-22 | LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation | [link](https://arxiv.org/pdf/2606.23685v1) |
+| 2026-06-22 | CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation | [link](https://arxiv.org/pdf/2606.23680v1) |
+| 2026-06-22 | IMAGIN-4D: Image-Guided Controllable Interaction Generation | [link](https://arxiv.org/pdf/2606.23675v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81900 | 32760.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61507 | 24602.9 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29846 | 11938.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 81901 | 32760.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61510 | 24604.1 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29847 | 11938.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15943 | 6377.3 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15333 | 6133.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15335 | 6134.1 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |

@@ -1,11 +1,65 @@
 [
   {
+    "model": "etri-robotai-platform-dev/phase1-e2e-pusht-repeat-20260623-143934",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/etri-robotai-platform-dev/phase1-e2e-pusht-repeat-20260623-143934",
+    "date": "2026-06-23",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "tencent/Hy-Embodied-0.5-VLA-RoboTwin",
+    "downloads": 188,
+    "likes": 6,
+    "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin",
+    "date": "2026-06-23",
+    "keyword": "embodied",
+    "score": 57.7
+  },
+  {
+    "model": "openEuler/IB_Robot_ACT_dual_arm_banana_pick",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/openEuler/IB_Robot_ACT_dual_arm_banana_pick",
+    "date": "2026-06-23",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "tencent/Hy-Embodied-0.5-VLA-UMI",
+    "downloads": 181,
+    "likes": 5,
+    "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI",
+    "date": "2026-06-23",
+    "keyword": "embodied",
+    "score": 55.4
+  },
+  {
     "model": "kuimin/ta_vla_force_frozen_vlm",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/kuimin/ta_vla_force_frozen_vlm",
     "date": "2026-06-23",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "woh7539/omx_act_policy",
+    "downloads": 60,
+    "likes": 1,
+    "url": "https://huggingface.co/woh7539/omx_act_policy",
+    "date": "2026-06-23",
+    "keyword": "policy",
+    "score": 18.3
+  },
+  {
+    "model": "3cda2225/record_test_act2_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/3cda2225/record_test_act2_policy",
+    "date": "2026-06-23",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -90,15 +144,6 @@
     "score": 0.1
   },
   {
-    "model": "tencent/Hy-Embodied-0.5-VLA-RoboTwin",
-    "downloads": 188,
-    "likes": 6,
-    "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin",
-    "date": "2026-06-22",
-    "keyword": "embodied",
-    "score": 57.7
-  },
-  {
     "model": "anikitakis/vla_so101_pick_n_place_full_expert",
     "downloads": 882,
     "likes": 0,
@@ -153,15 +198,6 @@
     "score": 0.1
   },
   {
-    "model": "InternRobotics/VLAC2-Qwen3VL-30B-A3B-Progress",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/InternRobotics/VLAC2-Qwen3VL-30B-A3B-Progress",
-    "date": "2026-06-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "wzxbcml/so101-lingbot-vla-30epoch",
     "downloads": 0,
     "likes": 0,
@@ -184,15 +220,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/KasLoot/lingbot-vla-v2",
-    "date": "2026-06-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "deksprime/vla-jepa-robocasa-mg300-unfrozen-ri",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/deksprime/vla-jepa-robocasa-mg300-unfrozen-ri",
     "date": "2026-06-22",
     "keyword": "vla",
     "score": 0.1
@@ -250,15 +277,6 @@
     "date": "2026-06-22",
     "keyword": "world model",
     "score": 0.1
-  },
-  {
-    "model": "tencent/Hy-Embodied-0.5-VLA-UMI",
-    "downloads": 181,
-    "likes": 5,
-    "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI",
-    "date": "2026-06-22",
-    "keyword": "embodied",
-    "score": 55.4
   },
   {
     "model": "surira/pi05_20260618_redonyellow_4_policy",
@@ -333,24 +351,6 @@
     "score": 0.1
   },
   {
-    "model": "jogarulfop/policy_2026-06-22_shakeitup__diff_duration_nfft_4096",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-06-22_shakeitup__diff_duration_nfft_4096",
-    "date": "2026-06-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jogarulfop/policy_2026-06-22_shakeitup__diff_duration_nfft_512",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-06-22_shakeitup__diff_duration_nfft_512",
-    "date": "2026-06-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "mario-d-robot/qwen-image-edit-batch",
     "downloads": 0,
     "likes": 0,
@@ -367,24 +367,6 @@
     "date": "2026-06-21",
     "keyword": "robotics",
     "score": 4.9
-  },
-  {
-    "model": "robotneu/visual_perception_pfc_2_3_hard",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/robotneu/visual_perception_pfc_2_3_hard",
-    "date": "2026-06-21",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "robotneu/spatial_reasoning_pfc_2_3_hard",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/robotneu/spatial_reasoning_pfc_2_3_hard",
-    "date": "2026-06-21",
-    "keyword": "robot",
-    "score": 0.1
   },
   {
     "model": "flashrt/world-model-conv",
