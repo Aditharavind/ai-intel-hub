@@ -1,5 +1,23 @@
 [
   {
+    "model": "uuuhjb/stage1_robotwin_1w75",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/uuuhjb/stage1_robotwin_1w75",
+    "date": "2026-06-23",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "robot-ai-team2-2026/dp-resize-224-300d_NI",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robot-ai-team2-2026/dp-resize-224-300d_NI",
+    "date": "2026-06-23",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "Robot2050/QChunker",
     "downloads": 0,
     "likes": 0,
@@ -90,15 +108,6 @@
     "score": 60.4
   },
   {
-    "model": "openEuler/IB_Robot_ACT_dual_arm_banana_pick",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/openEuler/IB_Robot_ACT_dual_arm_banana_pick",
-    "date": "2026-06-23",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "deksprime/vla-jepa-robocasa-mg300-v2-ri",
     "downloads": 0,
     "likes": 0,
@@ -112,15 +121,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v9_plate",
-    "date": "2026-06-23",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "ndimensions/vla_checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ndimensions/vla_checkpoints",
     "date": "2026-06-23",
     "keyword": "vla",
     "score": 0.1
@@ -186,6 +186,15 @@
     "url": "https://huggingface.co/kuimin/ta_vla_force_frozen_vlm",
     "date": "2026-06-23",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "surira/pi05_20260619_redonyellow_5_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/surira/pi05_20260619_redonyellow_5_policy",
+    "date": "2026-06-23",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -288,24 +297,6 @@
     "score": 0.1
   },
   {
-    "model": "Nuwan1998/my_openarm_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Nuwan1998/my_openarm_policy",
-    "date": "2026-06-23",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Oliver-Ma/real-robot-l1-cube-to-pot-adapter",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Oliver-Ma/real-robot-l1-cube-to-pot-adapter",
-    "date": "2026-06-22",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "anikitakis/vla_so101_pick_n_place_full_expert",
     "downloads": 904,
     "likes": 0,
@@ -313,6 +304,15 @@
     "date": "2026-06-22",
     "keyword": "vla",
     "score": 271.3
+  },
+  {
+    "model": "Vladmun1337/multiclip-classifier-ro",
+    "downloads": 200,
+    "likes": 0,
+    "url": "https://huggingface.co/Vladmun1337/multiclip-classifier-ro",
+    "date": "2026-06-22",
+    "keyword": "vla",
+    "score": 60.1
   },
   {
     "model": "burtenshaw/openenv-echo-world-model-liquidai-lfm2.5-350m-seed1",
