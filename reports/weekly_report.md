@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-23 06:36 UTC
+Generated: 2026-06-23 10:25 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-06-23 06:36 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81901 | 32760.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61510 | 24604.1 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29847 | 11938.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15943 | 6377.3 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15335 | 6134.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| Developer-Y/cs-video-courses | 81902 | 32760.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61515 | 24606.1 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29848 | 11939.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15944 | 6377.7 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15338 | 6135.3 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| anikitakis/vla_so101_pick_n_place_full_expert | 882 | 264.7 | [link](https://huggingface.co/anikitakis/vla_so101_pick_n_place_full_expert) |
+| anikitakis/vla_so101_pick_n_place_full_expert | 904 | 271.3 | [link](https://huggingface.co/anikitakis/vla_so101_pick_n_place_full_expert) |
 | IffYuan/Embodied-R1.5 | 614 | 184.3 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
-| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 188 | 57.7 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
-| Vladmun1337/multiclip-classifier-ro | 185 | 55.6 | [link](https://huggingface.co/Vladmun1337/multiclip-classifier-ro) |
-| tencent/Hy-Embodied-0.5-VLA-UMI | 181 | 55.4 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
+| parth-1/metaguard-policy-agent-v1 | 260 | 78.1 | [link](https://huggingface.co/parth-1/metaguard-policy-agent-v1) |
+| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 197 | 60.4 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
+| Vladmun1337/multiclip-classifier-ro | 200 | 60.1 | [link](https://huggingface.co/Vladmun1337/multiclip-classifier-ro) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-06-23 06:36 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-06-23 | Krafton bets $33 mn on AI chip startup in push into physical AI - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZVBuQ0VKbTdoaGw0UEhmLTZUTVdMS2xJQXR3NGYxYlB1MnpSUll0WE8xX0Qzb3NnRFM0X2RrMFA5TU4xTjI1ZWVTTFZoQnh4alZWWHVvOURROTlPRjBodDFqblduLWE5T3JManA5bFA?oc=5) |
+| 2026-06-23 | Krafton bets $33 mn on AI chip startup in physical AI push - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZVBuQ0VKbTdoaGw0UEhmLTZUTVdMS2xJQXR3NGYxYlB1MnpSUll0WE8xX0Qzb3NnRFM0X2RrMFA5TU4xTjI1ZWVTTFZoQnh4alZWWHVvOURROTlPRjBodDFqblduLWE5T3JManA5bFA?oc=5) |
+| 2026-06-23 | Qualcomm Backs 15 APAC Startups to Build the Future of Physical AI - BriefGlance | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnUyUXphSGhxeHI0VmtoZWpPbkZxbWdYUTdVRmVxemUwVlZSdUg4ci10bjdmc216MmxkLTdQY2lXRTVsaWFxcXd0emQwa1hCVk8xcmlQc0QtaEhpc1Y5bFBLRWNwTUJmUjZHa2FxbUJBVnZSWGI5SHhwb2tDVTdVY1BZY2pfYnJSTHBFM2NXc2FyamM4WUViTUxKYVdtaDJa?oc=5) |
+| 2026-06-23 | Qualcomm Announces 15 Startups Selected for Qualcomm AI Program for Innovators 2026 - APAC - TNGlobal | physical ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxQdjZ3WjZ2Q2E3RUpHQk92MnVJa093WDF0VFlhQTVCS3dITHYxZFpnVVQxMVVzQ2pTRG1pNU5EYlBuWDU1N3dnV1g2Wm5KVzVMQkgwcmJHZ1l4OTZlMF96MTNFeXNKY3UzeGJuMlFxTTNac0ZpZzF1dWRxOFJSdFotZFVsbEFyRkR0THNSTm8xa0tVTWR4X1ZPNjVaVjNSRTFKOU9rMzlLNnlzSEd6Q3dGcUVXTWJzOWdkVGpzYi1B?oc=5) |
 | 2026-06-22 | Delivery robot startup Robot.com is betting its next act on workplace humanoids - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ055UnFNc0FSb04zV3FQX25ROFZjMGwtaktnb2dKVElyV2hJZ0dheVRvd3M2S3BhOFlaTW5UcVA2T2t2Q1NSWTVUQThkZEdtT3BsVTBCYUE4RTBuU08tR3VHLVFiTXdJamYwaDU0SE1zS1VWZDk2SGhVWVNXUlhmaTdSbGJLVENuUklqM3pfR01kSXF3TUJlQnhlV3dZSktq?oc=5) |
 | 2026-06-22 | Seedcamp closes its largest fund yet at $320 million and bets the next decade on physical AI - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUpHRlU0YkMzUnZiUGV6UUF3M24yX1poazY1RUx3WFA5ZUtpTVdzdzNpLWJLSE9FMDljWllEdGF5SEZwMllOTUJwYjVNdjZnODRtMDZabWtfVFFsSl9pY1dsNkhSUW9mYm9aTkdUekZMZVdNTFdpQXBvZUFXa3NQelIxYWMtUUd5ZXpWLVZJVjlkeFJ6ckJqNDA1NEQ2UERGZUVSV2hjZ3p6WS1WaFhaS0c3ZWlJYko2bkgw?oc=5) |
-| 2026-06-22 | Automate 2026 Day-by-Day: Kawasaki 8-DOF Premiere, ABB Physical AI Launch, Humanoid Forum - Tech Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWmMtNGlPSm1COXZHTnVrelpVQS1nem5tWWVVRUJNYmJoYXpqTnplVHpJQ0FLeC10RnByMnF4WURjM0RGM2tYalUxZ1hJaDVQT0xiSTNyT1V5ZC02dG5tRHhDdzItc0hxeFViT0ZkU1BmNVdDWkJzc19xMjZRZ19lMXFGcVd2bnh5R193Qk9CSnhiSWk5cGZ3VFlDUE11QkpCdWJsTFdzNkxlSk9uNTMzNHl1bnJOZkdkUkg3VXczRExXcDMzUmotcnl4dTExMnlxZTlINw?oc=5) |
-| 2026-06-21 | Why it’s nearly impossible to build a robot without China - The Business Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2JPa2gzVHc1QjZ4TGVUM2NsTXB1WU9pdVpFMmI5Y3RmUy1Ya0tGRU9vVC1MU3pZZUwxV0d2ZC10amdVU3QzX0NPZUpkckJ2UGJrbzBEMndNUlUxb0dKRXRZeURoNnNaT0s3VGlHaWRxQkJoRnlfRk9ycFB2TEJZZFAzRUNZak5WMW9Lc2JSbmttaWFCblRYNzg5RlI3S1hMdGVBR3dmS2w?oc=5) |
