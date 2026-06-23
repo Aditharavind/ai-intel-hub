@@ -1,5 +1,12 @@
 [
   {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "source": "OpenAI",
+    "date": "2026-06-23",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
+  },
+  {
     "title": "How Omio is building the future of conversational travel",
     "source": "OpenAI",
     "date": "2026-06-23",
@@ -21,11 +28,11 @@
     "summary": ""
   },
   {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "source": "OpenAI",
-    "date": "2026-06-22",
-    "url": "https://openai.com/index/daybreak-securing-the-world",
-    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "source": "Hugging Face",
+    "date": "2026-06-23",
+    "url": "https://huggingface.co/blog/cross-origin-storage",
+    "summary": ""
   },
   {
     "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
@@ -33,6 +40,13 @@
     "date": "2026-06-22",
     "url": "https://openai.com/index/patch-the-planet",
     "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
+  },
+  {
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "source": "OpenAI",
+    "date": "2026-06-22",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
   },
   {
     "title": "Codex-maxxing for long-running work",
@@ -152,20 +166,6 @@
     "date": "2026-06-16",
     "url": "https://openai.com/index/deployment-simulation",
     "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
-  },
-  {
-    "title": "Introducing the OpenAI Partner Network",
-    "source": "OpenAI",
-    "date": "2026-06-14",
-    "url": "https://openai.com/index/introducing-openai-partner-network",
-    "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
-  },
-  {
-    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-    "source": "Hugging Face",
-    "date": "2026-06-11",
-    "url": "https://huggingface.co/blog/torch-mlp-fusion",
-    "summary": ""
   },
   {
     "title": "NVIDIA Rubin Platform, Open Models, Autonomous Driving: NVIDIA Presents Blueprint for the Future at CES",
