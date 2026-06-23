@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-23 20:59 UTC
+Last Updated: 2026-06-23 22:10 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -89,30 +89,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| copper-project/copper-rs | 1366 | Rust | 546.5 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 883 | Python | 353.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 446 | Shell | 178.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 299 | Python | 119.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | ROBOTIS-GIT/ai_worker | 150 | C++ | 60.1 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
 | Developer-Y/cs-video-courses | 81900 |  | 32760.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 61523 | Python | 24609.3 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 15944 | Python | 6377.7 | [link](https://github.com/zauberzeug/nicegui) |
-| google-deepmind/mujoco | 13960 | C++ | 5584.1 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 10978 | Rust | 4391.3 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7510 | Python | 3004.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| zauberzeug/nicegui | 15945 | Python | 6378.1 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15340 | C++ | 6136.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 13961 | C++ | 5584.5 | [link](https://github.com/google-deepmind/mujoco) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-06-23 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFJoUFhNSkJSZWhIVVpZNmxfWlZKc3dkeEQ5NjMzMG9TZDBYS2RtRVYwTUI0cm93bHR0OEM5RXpYSS1WVjVsM2lQR093S25TMEdrSWFzTWNvRklZVmxLYWtYUmV5cVdJNm9aaGpzcHdJWDVOcS10cVo0QzRTTk5KYUp5X1M5M0tuLVd0QkRVRVQySnNMTmpPUE1vand2X0I0OWloMDJjN2hhNHdiTDR1bGt6Zw?oc=5) |
+| 2026-06-22 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxONDNfTUhVX2hYeV9LaFFLYVhhOXpVdF83Tl9sVGg0WVl3OVE5RkNDWmdYY3ZVU05mVTl0LTNBZ0pscENydlozdERiSzJGb2lZM0llZDJJNjRoMDZUdV9KekRldDlXYV8yRHV0WTZzQlBrSXdYREhxSGxBS3B4XzJoZXh2VkFJT2N6SlVtdXRjRTl2SFA1c1pHTGJfeWdvUVBZZGZlSDMzczB5UnJVYU95akV0M2gycTg?oc=5) |
 | 2026-06-20 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPeDNtZndSS0tqdEVEMGhvb2FJZm0yM1JqOXlHbGdaclFqUVFNUmh4aUJhMGo3MVlNazM5RmJfZk9HVThhelF1RFVVUXRnbFQ1cHgzZzRNaGFlbURhQ3dyQ1N3WS02el9UQmJobVcwRi1iTzZuQ3BNaWkwdnVnZmZfR1NUV0FjSnMtZHpxYlpWbWZqVzl3U0lVTlR1Mk03dTlWNkpYSEZpYTlhamZWeEtwTFM2bEhRUU5CVDQ5UHI1UWJhdjFySlFWaHNHUdIB0AFBVV95cUxQak5hQmt6a19ac1Q5TXdfVmpRMWVxOVZOSGNVY3o2d2NhcDhSeWZNbC1adGJxRnNDR3pWUUhpSHYwTHZLTEY0MElBekcweHNLQ3MzaW1VVHUyb0VqRTZGaWxPMVFTdV92R29STFpqQjIwRE0wN2QtTzNBLVBCdmlqSzdwWjJHY01XcjBiX3FqaHYxbVE2VnIwbEhib1ZaV3ZERTlURXlCY0xiR2Z4WE03a2ZXdlByQWxaSWJ1WDRNQWtBb0ZxQ0pXZl9lN3FjZHFU?oc=5) |
+| 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2pwV01RYWVyaWtwQll2S1dnaDBMZFpiTDNvcExwSXFRTGk3VFpfV3lSWG1BU3pFYkFFQS13MU00TXA4QmN3NUdXLS1FX3hRS0d6c0Q3bnFKT2VNZXNfSnFLcS1sZlJOdUt1LTdRaHBXc216cVgyOEREYy1uVUdocA?oc=5) |
+| 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmEtTVhCcXBoTkY0NkFqdXJDYXh1UkFvLWxWM19YR0VnVUdJdjlhYkRRd0lnekhjRnFDaUU4UG01UTI1RXk2dm5tWHZ5UVBodmJJSW01R2hKb2Vsbl94Y0hQTUJYYXBpamlROGNlMnRQVGVNZ1Nwcm5tOHRwN1NxUGRlVjZuQk0zUmdRZGp2Mkx5QnFLT1BMSmFJOVEzV2M?oc=5) |
+| 2026-06-19 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWFSVTF3OEdYcUhhZ1NlX3lfZ2M1UkZkNGd3ZVltUU0zaGVEekZFV1BQN2w4LWJaRF9tWmVNdHd4VjZUMEhZSWliMlp2cTVxWDNUQmlrT2NuYVliNkxmS1ptWWJwcDFJZmxTam1va3NZQWg3eFJYNFFnQkhwcm52SHpZVjBocU1uOElBS0hSTW9TNjNjTTA3OG5rVElsWURBWWc?oc=5) |
 | 2026-06-10 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RWmRNLXNFMTJ0V0VFVEtoYnA5NTdMcXZaMS1ud2RRaUNIRk1BbFB4QnF6eGFoY0FUVEY2bm9QOTdleUtVbzc0eWRqR21IaE5xUXl0eW1MWQ?oc=5) |
-| 2026-06-06 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hLU04d3VwTUxreHA5bVNWS3B4dmZaMzRsdUFGZEJwYTNrTXJtZl8xZ2RpZTA1MWxzYkxndWpfZEI4bk1PbXZYR3hMcXhHNUpvLVZnaUlRUGFTa3FNSXBrS0hn?oc=5) |
+| 2026-06-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hLU04d3VwTUxreHA5bVNWS3B4dmZaMzRsdUFGZEJwYTNrTXJtZl8xZ2RpZTA1MWxzYkxndWpfZEI4bk1PbXZYR3hMcXhHNUpvLVZnaUlRUGFTa3FNSXBrS0hn?oc=5) |
 | 2026-06-06 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXaTdjZ0ZvRzBZaGdwX2plVlFjNXdvQkNpTVNsZU9OMGFjQzFkQVNYdWNsaTB4eXZWeFJuWXVBZ19wWlE0V2ZnMGNMXzN6dk1CcWN4TjF2VXF5NmQzNDRTVA?oc=5) |
 | 2026-06-04 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTGJaRThJZjRPZGVNaG1oUHF0b1ZOdF9Sd3NKTFB0cGI2MUctYU11UWl4UTVMc1dNZ1RxeEUzMWJJdUU0ZXF6Ui1FTDBfUnNCcjkzQVVuTXlodGJtbzdDREp4ZUNqLV9EZWNKR2hseGMtcW11enNSRU93?oc=5) |
-| 2026-06-04 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWUUwVE5OblREN2VYZUkzTGZBM1c1MGtCdVNUaHhoOWI1V0RKc001aEN2LVZZdVBaaGNTTTVGemxLU2o3UHlNR0tCZ3p6My1iSWQ0WlljVzU1N1JFN1lpNlZWMkZVOGhZN3RVcHRENG5DeXRNMFZjem1Bc093Q2tfSks5eVJuVjNhaDE1UDZiNGdWd05yTDU0TjJhZElJMVpxY1VLZmVWUWJRTFJf?oc=5) |
-| 2026-06-02 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxQRlJiQzNlQ1RpUUxnendveE1rc21Ua3I1ZTh0OXdOZlRWRE92d2VVV2s0THQ4TGNhQzBWTU9lZllEeDRLOXZ5MVQ2ZUFxR0xkeE9fRDZGcmZ0MXloSVJBSTVrdmRQX0FKNjFQLW5PRTM4cktmU2JXelRvN0dBbVQ2M3kwekNrcTV6Q3YyaE15U3BZQ1FndWowRTFLVU9YRVpjUXg4WmVMOE9nNEYtX2JvbnUybXNrMWN3SWZaOVgxV1oxSTR1RkF2ZzdVLVR2M1E?oc=5) |
-| 2026-06-02 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmbmFhSERZcDA2NVNQcFBfUG9JODNGSDcwS2haQ0hDckdSNDc1Y1pvS2ZndmJfRHQ2MGVmSVpQNmFkdnN6UzRQalhsMVZZQ0JQWThn?oc=5) |
-| 2026-06-02 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0d6RUp1dkdMampqR1hLclg5cmxLbmJFdWctd1ctYnN6YU9waVRtTTdPOUNTOGFXVGRuaXNQVHlVRl9CR1VoMFEzLXpVMWo5eGZSWjh1N2NqV3JsSTV1dmIwTlJPcVhCOVNlQVRCWFNBZG95UFppWkZHOTRVd0JuMmZXM3JzQ1NPaUV4VVcyQkNuaWR1UUU1R1h3RTRwVUxpUXBFQ1FzbXcyOVJVNDJn?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -121,16 +121,17 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-23 | Embodied AI Startup Kunlunxing Lands Multibillion Yuan Raise Within Three Months of Launch - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWRxSXBrV1BlVDZjTFdHbHQ4emg2QnVOV3hiQU9jcjMyU3pSeXFZXzRhUUs2S01nWWZuNDBIbEJUTXREWnNXLTVvYkQ4dzNnSDlQNmJOMVU5QXJpdndMNC1yLWRKbHhfQWlfQ0dNTDJ2eWdOY1NpcTBuMUdidi1DY3dLQ0taRU5TS2pIaHlYMlY2Q1FGTlJOSXM0dWFxLWxPUTEwbGZKd2pHVTRXWGVPbGhEeGk5TmRvSlJieWstNzcwX3J3V0pTS045b1JRMFFRRXQ5cWVHWjNyTzdEVkE?oc=5) |
 | 2026-06-22 | Delivery robot startup Robot.com is betting its next act on workplace humanoids - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ055UnFNc0FSb04zV3FQX25ROFZjMGwtaktnb2dKVElyV2hJZ0dheVRvd3M2S3BhOFlaTW5UcVA2T2t2Q1NSWTVUQThkZEdtT3BsVTBCYUE4RTBuU08tR3VHLVFiTXdJamYwaDU0SE1zS1VWZDk2SGhVWVNXUlhmaTdSbGJLVENuUklqM3pfR01kSXF3TUJlQnhlV3dZSktq?oc=5) |
 | 2026-06-22 | Seedcamp closes its largest fund yet at $320 million and bets the next decade on physical AI - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUpHRlU0YkMzUnZiUGV6UUF3M24yX1poazY1RUx3WFA5ZUtpTVdzdzNpLWJLSE9FMDljWllEdGF5SEZwMllOTUJwYjVNdjZnODRtMDZabWtfVFFsSl9pY1dsNkhSUW9mYm9aTkdUekZMZVdNTFdpQXBvZUFXa3NQelIxYWMtUUd5ZXpWLVZJVjlkeFJ6ckJqNDA1NEQ2UERGZUVSV2hjZ3p6WS1WaFhaS0c3ZWlJYko2bkgw?oc=5) |
-| 2026-06-22 | Qualcomm Backs 15 APAC Startups to Build the Future of Physical AI - BriefGlance | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnUyUXphSGhxeHI0VmtoZWpPbkZxbWdYUTdVRmVxemUwVlZSdUg4ci10bjdmc216MmxkLTdQY2lXRTVsaWFxcXd0emQwa1hCVk8xcmlQc0QtaEhpc1Y5bFBLRWNwTUJmUjZHa2FxbUJBVnZSWGI5SHhwb2tDVTdVY1BZY2pfYnJSTHBFM2NXc2FyamM4WUViTUxKYVdtaDJa?oc=5) |
 | 2026-06-22 | AI Startup Funding: Odyssey Scores $310M, Unicorn via Amazon - AI CERTs | embodied ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaWNOQ1BXY3Z6YlAxRVc0S2gyWDVpR2llNThFQUdQRjVKdjNJSkRnUlJNZDgyUDhZWUFjQmtTNG5UNXUzMTc2WjU3OXRBb2dTZl9zMG9rWWhHZWNHMUl0X2lPOWpDcFpWbUxFOGV1Ym9mSURtSE5qUjJmelZCLVp0cVpPbDNWY1pkOUphbFNfQQ?oc=5) |
 | 2026-06-21 | Why it’s nearly impossible to build a robot without China - The Business Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2JPa2gzVHc1QjZ4TGVUM2NsTXB1WU9pdVpFMmI5Y3RmUy1Ya0tGRU9vVC1MU3pZZUwxV0d2ZC10amdVU3QzX0NPZUpkckJ2UGJrbzBEMndNUlUxb0dKRXRZeURoNnNaT0s3VGlHaWRxQkJoRnlfRk9ycFB2TEJZZFAzRUNZak5WMW9Lc2JSbmttaWFCblRYNzg5RlI3S1hMdGVBR3dmS2w?oc=5) |
 | 2026-06-20 | AI Startup Offers Free Cleaning to Train Robot Replacements - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGRsS0xNRGMyd0JDdGVYekZYblJmX1FyRjRRRGVpVFF1TkVoQWNFcVNfX2hvamU2N0lsdDdtMUVHVl9zcWtJZHlLOGxTWG9HSzJiZGY2SndqRk1BdTJLUGNHUFFlN0FoWk5SM2hURUptYUs5Y2U4STRRZFdGalBUX1dvWmZGbng2X0dib2pGRUlTZTNJZHdN?oc=5) |
 | 2026-06-19 | Kerala Startup Building Humanoid Robots From Scratch - Electronics For You BUSINESS | vision language action startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0pNY1RtWlNfNEtXemNCbGNuUzQ4M0lXeThKZEFTY2U4aklBWHNRWjNYY1g0TTRLeXVHSGwyQzRyNjZnMF9tVlJCb2lhQ0NZZTI4WEI2c2xuREVpaHUtMEswRE9kVGJQVHdOUUFuNzRabDJndVhLN2xoR1B2SW02NWlCUlpuSWJVaDZpcVNzMWJEYTloWVNXU0N4ZEg?oc=5) |
 | 2026-06-18 | Game-clip AI startup General Intuition in talks to raise $300M at $2B valuation - SiliconANGLE | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkFacHVJZkpMbi11aEl6ZkRGRjMtQ1R4Vi1WZ2JaUzRYSUl2SGc1LTIxTTJPVS1La0Zta1AwMGpxeXJJeWZOLURCTV84bEtNTXJSOXYzZEpPSE9CdWY5YWkyX3FLR2FpbGp1bTA0YVlWSGJzcS1rVjhCaVUwenNabGxDLXhDYU1lWHVVajFrV0JNb0hDbFNVNEJsUmFTM1FkVC1qLWYxclA?oc=5) |
+| 2026-06-17 | Seeds | Embodied AI Robotics Startup Astrall Dynamics Gains Investment from SAIC and Others - Gasgoo | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX0lxY2dxZUFRV1JXcXZiTlhQSll2dUJQNjdIMkpUSlNKUEJCUHdtbGotNGJoQzJ2dlVvT3ppOHpwLUxvV1gtVkhoUHl0MGJOeGZyblQ3MlczM2Qtd0RybWNyTERzR1FTV3d4SFBHS3BlQXZ1eFhHVFNBWHplcE04SjRjSjdJblpueXhzaENidzVzVU5pS1VYdTQxNkFkVDV0TkZrRTFsWWNrVGlNTnV2Mk9heG5PYjc0bmdaYV96Q0FsYjJ0RTdfcXdBdmRTd3JIVlBOMnBhR25KbFV3WS1VOVRyeno?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-23 | Hardware Reliability Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4613067006) |
 | 2026-06-23 | Production Associate | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4453797006) |
 | 2026-06-23 | Validation Engineering Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4606072006) |
 | 2026-06-22 | Finance Manager | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4691166006) |
@@ -140,7 +141,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-21 | Security Engineer, Application Security | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4620050006) |
 | 2026-06-21 | Security Engineer, Vulnerability Management and Automation | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4690870006) |
 | 2026-06-21 | Software Engineer, Privacy & Data Governance | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4690871006) |
-| 2026-06-18 | Gear Machinist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4690458006) |
 
 ## Automation
 

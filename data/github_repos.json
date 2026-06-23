@@ -1,5 +1,15 @@
 [
   {
+    "repo": "copper-project/copper-rs",
+    "stars": 1366,
+    "language": "Rust",
+    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
+    "url": "https://github.com/copper-project/copper-rs",
+    "date": "2026-06-23",
+    "topic": "physical-ai",
+    "score": 546.5
+  },
+  {
     "repo": "mosaico-labs/mosaico",
     "stars": 883,
     "language": "Python",
@@ -61,23 +71,33 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 15944,
+    "stars": 15945,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-06-23",
     "topic": "robotics",
-    "score": 6377.7
+    "score": 6378.1
+  },
+  {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15340,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-06-23",
+    "topic": "robotics",
+    "score": 6136.1
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 13960,
+    "stars": 13961,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-06-23",
     "topic": "robotics",
-    "score": 5584.1
+    "score": 5584.5
   },
   {
     "repo": "rerun-io/rerun",
@@ -101,13 +121,13 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 3870,
+    "stars": 3871,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-06-23",
     "topic": "embodied-ai",
-    "score": 1548.1
+    "score": 1548.5
   },
   {
     "repo": "dora-rs/dora",
@@ -260,16 +280,6 @@
     "score": 568.5
   },
   {
-    "repo": "copper-project/copper-rs",
-    "stars": 1366,
-    "language": "Rust",
-    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
-    "url": "https://github.com/copper-project/copper-rs",
-    "date": "2026-06-22",
-    "topic": "physical-ai",
-    "score": 546.5
-  },
-  {
     "repo": "AtsushiSakai/PythonRobotics",
     "stars": 29855,
     "language": "Python",
@@ -278,16 +288,6 @@
     "date": "2026-06-22",
     "topic": "robotics",
     "score": 11942.1
-  },
-  {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15340,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-06-22",
-    "topic": "robotics",
-    "score": 6136.1
   },
   {
     "repo": "kornia/kornia",
@@ -301,13 +301,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 6846,
+    "stars": 6847,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-06-22",
     "topic": "robotics",
-    "score": 2738.5
+    "score": 2738.9
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -431,13 +431,13 @@
   },
   {
     "repo": "arpitg1304/forge",
-    "stars": 148,
+    "stars": 149,
     "language": "Python",
     "description": "Robotics Data Toolkit | Convert between robotics dataset formats (RLDS, LeRobot v2/v3, Zarr, HDF5, Rosbag). Inspect, visualize, and analyze datasets. Works with HuggingFace Hub. Built for OpenVLA, Octo, LeRobot, and Diffusion Policy workflows.",
     "url": "https://github.com/arpitg1304/forge",
     "date": "2026-06-19",
     "topic": "lerobot",
-    "score": 59.3
+    "score": 59.7
   },
   {
     "repo": "DLR-RM/stable-baselines3",
@@ -771,13 +771,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 1521,
+    "stars": 1524,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-05",
     "topic": "robot-learning",
-    "score": 608.5
+    "score": 609.7
   },
   {
     "repo": "NVIDIA-Omniverse/ovrtx",
