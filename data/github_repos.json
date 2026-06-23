@@ -1,5 +1,15 @@
 [
   {
+    "repo": "Edgenesis/shifu",
+    "stars": 1421,
+    "language": "Go",
+    "description": "Kubernetes-native IoT gateway",
+    "url": "https://github.com/Edgenesis/shifu",
+    "date": "2026-06-23",
+    "topic": "physical-ai",
+    "score": 568.5
+  },
+  {
     "repo": "copper-project/copper-rs",
     "stars": 1366,
     "language": "Rust",
@@ -31,13 +41,13 @@
   },
   {
     "repo": "alireza787b/mavsdk_drone_show",
-    "stars": 299,
+    "stars": 301,
     "language": "Python",
     "description": "Open-source MAVLink fleet operations for PX4: SITL, drone shows, search and rescue, cooperative autonomy, and field validation",
     "url": "https://github.com/alireza787b/mavsdk_drone_show",
     "date": "2026-06-23",
     "topic": "physical-ai",
-    "score": 119.7
+    "score": 120.5
   },
   {
     "repo": "ROBOTIS-GIT/ai_worker",
@@ -61,13 +71,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 61523,
+    "stars": 61525,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-06-23",
     "topic": "robotics",
-    "score": 24609.3
+    "score": 24610.1
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -81,23 +91,23 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15340,
+    "stars": 15341,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-06-23",
     "topic": "robotics",
-    "score": 6136.1
+    "score": 6136.5
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 13961,
+    "stars": 13962,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-06-23",
     "topic": "robotics",
-    "score": 5584.5
+    "score": 5584.9
   },
   {
     "repo": "rerun-io/rerun",
@@ -118,6 +128,16 @@
     "date": "2026-06-23",
     "topic": "robot-learning",
     "score": 3004.1
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "stars": 6849,
+    "language": "JavaScript",
+    "description": "A collection of agent skills for CAD, robotics and hardware design",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "date": "2026-06-23",
+    "topic": "robotics",
+    "score": 2739.7
   },
   {
     "repo": "RLinf/RLinf",
@@ -181,13 +201,13 @@
   },
   {
     "repo": "flashrt-project/FlashRT",
-    "stars": 369,
+    "stars": 370,
     "language": "C++",
     "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
     "url": "https://github.com/flashrt-project/FlashRT",
     "date": "2026-06-23",
     "topic": "vla",
-    "score": 147.7
+    "score": 148.1
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -260,6 +280,16 @@
     "score": 73.3
   },
   {
+    "repo": "Tavish9/any4lerobot",
+    "stars": 1071,
+    "language": "Python",
+    "description": "🎁 A collection of utilities for LeRobot.",
+    "url": "https://github.com/Tavish9/any4lerobot",
+    "date": "2026-06-23",
+    "topic": "lerobot",
+    "score": 428.5
+  },
+  {
     "repo": "strands-labs/robots",
     "stars": 71,
     "language": "Python",
@@ -268,16 +298,6 @@
     "date": "2026-06-23",
     "topic": "lerobot",
     "score": 28.5
-  },
-  {
-    "repo": "Edgenesis/shifu",
-    "stars": 1421,
-    "language": "Go",
-    "description": "Kubernetes-native IoT gateway",
-    "url": "https://github.com/Edgenesis/shifu",
-    "date": "2026-06-22",
-    "topic": "physical-ai",
-    "score": 568.5
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -300,24 +320,14 @@
     "score": 4498.1
   },
   {
-    "repo": "earthtojake/text-to-cad",
-    "stars": 6847,
-    "language": "JavaScript",
-    "description": "A collection of agent skills for CAD, robotics and hardware design",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "date": "2026-06-22",
-    "topic": "robotics",
-    "score": 2738.9
-  },
-  {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2365,
+    "stars": 2366,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-06-22",
     "topic": "embodied-ai",
-    "score": 946.1
+    "score": 946.5
   },
   {
     "repo": "starVLA/starVLA",
@@ -390,16 +400,6 @@
     "score": 151.7
   },
   {
-    "repo": "Tavish9/any4lerobot",
-    "stars": 1071,
-    "language": "Python",
-    "description": "🎁 A collection of utilities for LeRobot.",
-    "url": "https://github.com/Tavish9/any4lerobot",
-    "date": "2026-06-22",
-    "topic": "lerobot",
-    "score": 428.5
-  },
-  {
     "repo": "knightnemo/Awesome-World-Models",
     "stars": 3055,
     "language": "",
@@ -441,13 +441,13 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13472,
+    "stars": 13473,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-06-19",
     "topic": "robotics",
-    "score": 5388.9
+    "score": 5389.3
   },
   {
     "repo": "thanhndv212/figaroh-plus",
@@ -701,13 +701,13 @@
   },
   {
     "repo": "nasa-jpl/open-source-rover",
-    "stars": 9466,
+    "stars": 9467,
     "language": "Prolog",
     "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
     "url": "https://github.com/nasa-jpl/open-source-rover",
     "date": "2026-06-10",
     "topic": "robotics",
-    "score": 3786.5
+    "score": 3786.9
   },
   {
     "repo": "HCPLab-SYSU/Embodied_AI_Paper_List",
