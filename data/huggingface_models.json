@@ -1,14 +1,5 @@
 [
   {
-    "model": "lerobot/fastwam_robotwin_uncond_3cam_384",
-    "downloads": 20,
-    "likes": 1,
-    "url": "https://huggingface.co/lerobot/fastwam_robotwin_uncond_3cam_384",
-    "date": "2026-06-23",
-    "keyword": "robot",
-    "score": 6.3
-  },
-  {
     "model": "SereneC/AHA-WAM-RoboTwin2.0",
     "downloads": 0,
     "likes": 0,
@@ -25,6 +16,15 @@
     "date": "2026-06-23",
     "keyword": "robot",
     "score": 0.1
+  },
+  {
+    "model": "lerobot/fastwam_robotwin_uncond_3cam_384",
+    "downloads": 20,
+    "likes": 1,
+    "url": "https://huggingface.co/lerobot/fastwam_robotwin_uncond_3cam_384",
+    "date": "2026-06-23",
+    "keyword": "robot",
+    "score": 6.3
   },
   {
     "model": "Muapi/robot-ip-design-ip",
@@ -72,6 +72,33 @@
     "score": 0.1
   },
   {
+    "model": "vladmandic/Krea-2-Turbo-sdnq-hadamard-uint4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladmandic/Krea-2-Turbo-sdnq-hadamard-uint4",
+    "date": "2026-06-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vladmandic/Krea-2-Base-sdnq-hadamard-uint4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladmandic/Krea-2-Base-sdnq-hadamard-uint4",
+    "date": "2026-06-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "witsense-ai/so101_vla_jepa_probe_lr1e4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/witsense-ai/so101_vla_jepa_probe_lr1e4",
+    "date": "2026-06-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "bhe1004/FIRe-VLA-GR00T-GearMesh-Real",
     "downloads": 0,
     "likes": 0,
@@ -105,6 +132,60 @@
     "url": "https://huggingface.co/kuimin/ta_vla_force_frozen_vlm",
     "date": "2026-06-23",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "cbrian/policy_pi05_libero_dataset_MDWC5_ctrl_cartesian",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/cbrian/policy_pi05_libero_dataset_MDWC5_ctrl_cartesian",
+    "date": "2026-06-23",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "kb127/act195kl15_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kb127/act195kl15_policy",
+    "date": "2026-06-23",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-06-23_shakeitup_diff_duration_100kHz_nfft_8192",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-06-23_shakeitup_diff_duration_100kHz_nfft_8192",
+    "date": "2026-06-23",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-06-23_shakeitup_diff_duration_100kHz_nfft_4096",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-06-23_shakeitup_diff_duration_100kHz_nfft_4096",
+    "date": "2026-06-23",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Nuwan1998/my_openarm_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Nuwan1998/my_openarm_policy",
+    "date": "2026-06-23",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "surira/pi05_20260619_redonyellow_1_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/surira/pi05_20260619_redonyellow_1_policy",
+    "date": "2026-06-23",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -160,24 +241,6 @@
     "date": "2026-06-23",
     "keyword": "policy",
     "score": 3.7
-  },
-  {
-    "model": "hiskiv/cosmos-policy-lam",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hiskiv/cosmos-policy-lam",
-    "date": "2026-06-23",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "gyalpo/so101_act_pick_block_policy",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/gyalpo/so101_act_pick_block_policy",
-    "date": "2026-06-23",
-    "keyword": "policy",
-    "score": 0.7
   },
   {
     "model": "Oliver-Ma/real-robot-l1-cube-to-pot-adapter",
@@ -252,33 +315,6 @@
     "score": 0.1
   },
   {
-    "model": "witsense-ai/so101_vla_jepa_v4_best",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/witsense-ai/so101_vla_jepa_v4_best",
-    "date": "2026-06-22",
-    "keyword": "vla",
-    "score": 4.0
-  },
-  {
-    "model": "witsense-ai/so101_vla_jepa_v3_best",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/witsense-ai/so101_vla_jepa_v3_best",
-    "date": "2026-06-22",
-    "keyword": "vla",
-    "score": 0.7
-  },
-  {
-    "model": "wzxbcml/so101-lingbot-vla-30epoch",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/wzxbcml/so101-lingbot-vla-30epoch",
-    "date": "2026-06-22",
-    "keyword": "vla",
-    "score": 4.0
-  },
-  {
     "model": "burtenshaw/openenv-echo-world-model-liquidai-lfm2.5-350m-seed1",
     "downloads": 14,
     "likes": 0,
@@ -331,42 +367,6 @@
     "date": "2026-06-22",
     "keyword": "world model",
     "score": 4.6
-  },
-  {
-    "model": "surira/pi05_20260618_redonyellow_4_policy",
-    "downloads": 1,
-    "likes": 0,
-    "url": "https://huggingface.co/surira/pi05_20260618_redonyellow_4_policy",
-    "date": "2026-06-22",
-    "keyword": "policy",
-    "score": 0.4
-  },
-  {
-    "model": "devikaskumar/act_policy_with_val",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/devikaskumar/act_policy_with_val",
-    "date": "2026-06-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "surira/pi05_20260618_redonyellow_3_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/surira/pi05_20260618_redonyellow_3_policy",
-    "date": "2026-06-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "surira/pi05_20260618_redonyellow_2_policy",
-    "downloads": 26,
-    "likes": 0,
-    "url": "https://huggingface.co/surira/pi05_20260618_redonyellow_2_policy",
-    "date": "2026-06-22",
-    "keyword": "policy",
-    "score": 7.9
   },
   {
     "model": "AMD-PAVS-AI/Robotics_DevKit_models",
