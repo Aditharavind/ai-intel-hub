@@ -72,6 +72,33 @@
     "score": 0.1
   },
   {
+    "model": "deksprime/vla-jepa-robocasa-mg300-v2-ri",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/deksprime/vla-jepa-robocasa-mg300-v2-ri",
+    "date": "2026-06-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "kamada-riku/vla_jepa_so101_pick_toy_v9_plate",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v9_plate",
+    "date": "2026-06-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "ndimensions/vla_checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ndimensions/vla_checkpoints",
+    "date": "2026-06-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "vladmandic/Krea-2-Turbo-sdnq-hadamard-uint4",
     "downloads": 0,
     "likes": 0,
@@ -119,11 +146,11 @@
   {
     "model": "tencent/Hy-Embodied-0.5-VLA-UMI",
     "downloads": 187,
-    "likes": 5,
+    "likes": 7,
     "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI",
     "date": "2026-06-23",
     "keyword": "embodied",
-    "score": 57.2
+    "score": 57.6
   },
   {
     "model": "kuimin/ta_vla_force_frozen_vlm",
@@ -132,6 +159,51 @@
     "url": "https://huggingface.co/kuimin/ta_vla_force_frozen_vlm",
     "date": "2026-06-23",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "surira/pi05_20260619_redonyellow_3_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/surira/pi05_20260619_redonyellow_3_policy",
+    "date": "2026-06-23",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jeanjoube/my_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jeanjoube/my_policy",
+    "date": "2026-06-23",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-06-23_shakeitup_diff_duration_10kHz_nfft_512",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-06-23_shakeitup_diff_duration_10kHz_nfft_512",
+    "date": "2026-06-23",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "surira/pi05_20260619_redonyellow_2_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/surira/pi05_20260619_redonyellow_2_policy",
+    "date": "2026-06-23",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-06-23_shakeitup_diff_duration_100kHz_nfft_512",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-06-23_shakeitup_diff_duration_100kHz_nfft_512",
+    "date": "2026-06-23",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -198,51 +270,6 @@
     "score": 0.1
   },
   {
-    "model": "parth-1/metaguard-policy-agent-v1",
-    "downloads": 260,
-    "likes": 0,
-    "url": "https://huggingface.co/parth-1/metaguard-policy-agent-v1",
-    "date": "2026-06-23",
-    "keyword": "policy",
-    "score": 78.1
-  },
-  {
-    "model": "3cda2225/record-viewtest_act_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/3cda2225/record-viewtest_act_policy",
-    "date": "2026-06-23",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "devikaskumar/act_policy_with_best_val_loss",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/devikaskumar/act_policy_with_best_val_loss",
-    "date": "2026-06-23",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "woh7539/omx_act_policy",
-    "downloads": 60,
-    "likes": 1,
-    "url": "https://huggingface.co/woh7539/omx_act_policy",
-    "date": "2026-06-23",
-    "keyword": "policy",
-    "score": 18.3
-  },
-  {
-    "model": "3cda2225/record_test_act2_policy",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/3cda2225/record_test_act2_policy",
-    "date": "2026-06-23",
-    "keyword": "policy",
-    "score": 3.7
-  },
-  {
     "model": "Oliver-Ma/real-robot-l1-cube-to-pot-adapter",
     "downloads": 0,
     "likes": 0,
@@ -286,33 +313,6 @@
     "date": "2026-06-22",
     "keyword": "vla",
     "score": 271.3
-  },
-  {
-    "model": "Vladmun1337/multiclip-classifier-ro",
-    "downloads": 200,
-    "likes": 0,
-    "url": "https://huggingface.co/Vladmun1337/multiclip-classifier-ro",
-    "date": "2026-06-22",
-    "keyword": "vla",
-    "score": 60.1
-  },
-  {
-    "model": "VLat3/Taxi-v4",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/VLat3/Taxi-v4",
-    "date": "2026-06-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "VLat3/q-FrozenLake-v1-4x4-noSlippery",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/VLat3/q-FrozenLake-v1-4x4-noSlippery",
-    "date": "2026-06-22",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "burtenshaw/openenv-echo-world-model-liquidai-lfm2.5-350m-seed1",
