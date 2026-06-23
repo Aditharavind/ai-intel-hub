@@ -1,22 +1,22 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-22 23:57 UTC
+Generated: 2026-06-23 02:34 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-06-18 | MemoryWAM: Efficient World Action Modeling with Persistent Memory | [link](https://arxiv.org/pdf/2606.20562v1) |
-| 2026-06-18 | UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning | [link](https://arxiv.org/pdf/2606.20559v1) |
-| 2026-06-18 | Generating Robot Hands from Human Demonstrations | [link](https://arxiv.org/pdf/2606.20549v1) |
-| 2026-06-18 | The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups | [link](https://arxiv.org/pdf/2606.20547v1) |
-| 2026-06-18 | Current World Models Lack a Persistent State Core | [link](https://arxiv.org/pdf/2606.20545v1) |
+| 2026-06-21 | Radio spectral properties and aging of two tailed radio galaxies in a galaxy group at z=0.35 | [link](https://arxiv.org/pdf/2606.22595v1) |
+| 2026-06-21 | Training-free Task Classification for Multi-Task Model Merging | [link](https://arxiv.org/pdf/2606.22589v1) |
+| 2026-06-21 | SeFi-Image: A Text-to-Image Foundation Model with Semantic-First Diffusion | [link](https://arxiv.org/pdf/2606.22568v1) |
+| 2026-06-21 | PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models | [link](https://arxiv.org/pdf/2606.22540v1) |
+| 2026-06-21 | Imagine to Ensure Safety in Hierarchical Reinforcement Learning | [link](https://arxiv.org/pdf/2606.22509v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 81900 | 32760.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61504 | 24601.7 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29845 | 11938.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| commaai/openpilot | 61507 | 24602.9 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29846 | 11938.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15943 | 6377.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15333 | 6133.3 | [link](https://github.com/ArduPilot/ardupilot) |
 
@@ -41,8 +41,8 @@ Generated: 2026-06-22 23:57 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-06-23 | Krafton bets $33 mn on AI chip startup in push into physical AI - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZVBuQ0VKbTdoaGw0UEhmLTZUTVdMS2xJQXR3NGYxYlB1MnpSUll0WE8xX0Qzb3NnRFM0X2RrMFA5TU4xTjI1ZWVTTFZoQnh4alZWWHVvOURROTlPRjBodDFqblduLWE5T3JManA5bFA?oc=5) |
 | 2026-06-22 | Delivery robot startup Robot.com is betting its next act on workplace humanoids - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ055UnFNc0FSb04zV3FQX25ROFZjMGwtaktnb2dKVElyV2hJZ0dheVRvd3M2S3BhOFlaTW5UcVA2T2t2Q1NSWTVUQThkZEdtT3BsVTBCYUE4RTBuU08tR3VHLVFiTXdJamYwaDU0SE1zS1VWZDk2SGhVWVNXUlhmaTdSbGJLVENuUklqM3pfR01kSXF3TUJlQnhlV3dZSktq?oc=5) |
 | 2026-06-22 | Seedcamp closes its largest fund yet at $320 million and bets the next decade on physical AI - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUpHRlU0YkMzUnZiUGV6UUF3M24yX1poazY1RUx3WFA5ZUtpTVdzdzNpLWJLSE9FMDljWllEdGF5SEZwMllOTUJwYjVNdjZnODRtMDZabWtfVFFsSl9pY1dsNkhSUW9mYm9aTkdUekZMZVdNTFdpQXBvZUFXa3NQelIxYWMtUUd5ZXpWLVZJVjlkeFJ6ckJqNDA1NEQ2UERGZUVSV2hjZ3p6WS1WaFhaS0c3ZWlJYko2bkgw?oc=5) |
 | 2026-06-22 | Automate 2026 Day-by-Day: Kawasaki 8-DOF Premiere, ABB Physical AI Launch, Humanoid Forum - Tech Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWmMtNGlPSm1COXZHTnVrelpVQS1nem5tWWVVRUJNYmJoYXpqTnplVHpJQ0FLeC10RnByMnF4WURjM0RGM2tYalUxZ1hJaDVQT0xiSTNyT1V5ZC02dG5tRHhDdzItc0hxeFViT0ZkU1BmNVdDWkJzc19xMjZRZ19lMXFGcVd2bnh5R193Qk9CSnhiSWk5cGZ3VFlDUE11QkpCdWJsTFdzNkxlSk9uNTMzNHl1bnJOZkdkUkg3VXczRExXcDMzUmotcnl4dTExMnlxZTlINw?oc=5) |
 | 2026-06-21 | Why it’s nearly impossible to build a robot without China - The Business Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2JPa2gzVHc1QjZ4TGVUM2NsTXB1WU9pdVpFMmI5Y3RmUy1Ya0tGRU9vVC1MU3pZZUwxV0d2ZC10amdVU3QzX0NPZUpkckJ2UGJrbzBEMndNUlUxb0dKRXRZeURoNnNaT0s3VGlHaWRxQkJoRnlfRk9ycFB2TEJZZFAzRUNZak5WMW9Lc2JSbmttaWFCblRYNzg5RlI3S1hMdGVBR3dmS2w?oc=5) |
-| 2026-06-20 | AI Startup Offers Free Cleaning to Train Robot Replacements - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGRsS0xNRGMyd0JDdGVYekZYblJmX1FyRjRRRGVpVFF1TkVoQWNFcVNfX2hvamU2N0lsdDdtMUVHVl9zcWtJZHlLOGxTWG9HSzJiZGY2SndqRk1BdTJLUGNHUFFlN0FoWk5SM2hURUptYUs5Y2U4STRRZFdGalBUX1dvWmZGbng2X0dib2pGRUlTZTNJZHdN?oc=5) |
