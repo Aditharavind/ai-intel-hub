@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-23 23:45 UTC
+Last Updated: 2026-06-24 01:51 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -13,8 +13,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-23 | Build real agentic apps using CUGA: two dozen working examples on a lightweight harness | Hugging Face | [link](https://huggingface.co/blog/ibm-research/cuga-apps) |
 | 2026-06-23 | Shipping huggingface_hub every week with AI, open tools, and a human in the loop | Hugging Face | [link](https://huggingface.co/blog/huggingface-hub-release-ci) |
 | 2026-06-23 | Experimenting with the proposed Cross-Origin Storage API in Transformers.js | Hugging Face | [link](https://huggingface.co/blog/cross-origin-storage) |
-| 2026-06-22 | Patch the Planet: a Daybreak initiative to support open source maintainers | OpenAI | [link](https://openai.com/index/patch-the-planet) |
 | 2026-06-22 | Daybreak: Tools for securing every organization in the world | OpenAI | [link](https://openai.com/index/daybreak-securing-the-world) |
+| 2026-06-22 | Patch the Planet: a Daybreak initiative to support open source maintainers | OpenAI | [link](https://openai.com/index/patch-the-planet) |
 | 2026-06-22 | Codex-maxxing for long-running work | OpenAI | [link](https://openai.com/index/codex-maxxing-long-running-work) |
 | 2026-06-22 | PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters | Hugging Face | [link](https://huggingface.co/blog/PaddlePaddle/pp-ocrv6) |
 
@@ -33,6 +33,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-24 | Deep dive into ARM’s physical AI and robotics strategies with Drew Henry | Robotics Business Review | [link](https://www.therobotreport.com/deep-dive-into-arms-physical-ai-and-robotics-strategies-with-drew-henry/) |
 | 2026-06-23 | Why physical AI 2.0 needs a reality check | Robotics Business Review | [link](https://www.therobotreport.com/why-physical-ai-2-0-needs-reality-check/) |
 | 2026-06-23 | CreateMe partners with Avalo and Laguna Fabrics to bring resilience to apparel supply chains | Robotics Business Review | [link](https://www.therobotreport.com/createme-partners-with-avalo-and-laguna-fabrics-to-bring-resilience-to-apparel-supply-chains/) |
 | 2026-06-23 | Vention collaborates with FANUC and Universal Robots on software-defined automation | Robotics Business Review | [link](https://www.therobotreport.com/vention-collaborates-with-fanuc-universal-robots-software-defined-automation/) |
@@ -42,11 +43,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-22 | How Intrinsic eliminates manual robot coding | Robotics Business Review | [link](https://www.therobotreport.com/how-intrinsic-eliminates-manual-robot-coding/) |
 | 2026-06-22 | Bear Robotics acquires Kinisi Robotics to boost its physical AI capabilities | Robotics Business Review | [link](https://www.therobotreport.com/bear-robotics-acquires-kinisi-robotics-to-boost-its-physical-ai-capabilities/) |
 | 2026-06-22 | Eclipse Automation launches RealitySync simulation platform | Robotics Business Review | [link](https://www.therobotreport.com/eclipse-automation-launches-realitysync-simulation-platform/) |
-| 2026-06-22 | FORT and NVIDIA launch AI-driven Outside-In Safety blueprint | Robotics Business Review | [link](https://www.therobotreport.com/fort-and-nvidia-launch-ai-driven-outside-in-safety-blueprint/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-24 | Aliro is a vendor-agnostic standard for digital access control working over NFC, Bluetooth LE, or UWB | CNX Software | [link](https://www.cnx-software.com/2026/06/24/aliro-is-a-vendor-agnostic-standard-for-digital-access-control-working-over-nfc-bluetooth-le-or-uwb/) |
 | 2026-06-23 | A Commodore Boombox: The 1350 as You’ve Never Heard it Before | Hackaday | [link](https://hackaday.com/2026/06/23/a-commodore-boombox-the-1350-as-youve-never-heard-it-before/) |
 | 2026-06-23 | Reviving MSN Messenger’s i-Buddy USB Accessory | Hackaday | [link](https://hackaday.com/2026/06/23/reviving-msn-messengers-i-buddy-usb-accessory/) |
 | 2026-06-23 | A BIOS For Your ESP32-C6 | Hackaday | [link](https://hackaday.com/2026/06/23/a-bios-for-your-esp32-c6/) |
@@ -56,49 +57,48 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-23 | Long-Theorized GPS Weakness Exploited on Large Scale | Hackaday | [link](https://hackaday.com/2026/06/23/long-theorized-gps-weakness-exploited-on-large-scale/) |
 | 2026-06-23 | TerraMaster F4-425 Pro 4+3 Hybrid NAS gets Intel Core 3 N350 or Core i3-N305 octa-core CPU | CNX Software | [link](https://www.cnx-software.com/2026/06/23/terramaster-f4-425-pro-43-hybrid-nas-gets-intel-core-3-n350-or-core-i3-n305-octa-core-cpu/) |
 | 2026-06-23 | MYiR MAC-B5760 fanless Edge AI industrial PC features Rockchip RK3576 SoC, optional RK1828 LLM/VLM module | CNX Software | [link](https://www.cnx-software.com/2026/06/23/myir-mac-b5760-fanless-edge-ai-industrial-pc-offers-rockchip-rk3576-soc-optional-rk1828-llm-vlm-module/) |
-| 2026-06-23 | Coin-cell powered Nordic nRF54L15 Tag prototyping platform supports Bluetooth Channel Sounding, Matter, Edge AI | CNX Software | [link](https://www.cnx-software.com/2026/06/23/nordic-nrf54l15-tag-prototyping-platform-supports-bluetooth-channel-sounding-matter-edge-ai/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-06-22 | AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection | [link](https://arxiv.org/pdf/2606.23689v1) |
-| 2026-06-22 | LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models | [link](https://arxiv.org/pdf/2606.23686v1) |
-| 2026-06-22 | LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation | [link](https://arxiv.org/pdf/2606.23685v1) |
-| 2026-06-22 | CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation | [link](https://arxiv.org/pdf/2606.23680v1) |
-| 2026-06-22 | IMAGIN-4D: Image-Guided Controllable Interaction Generation | [link](https://arxiv.org/pdf/2606.23675v1) |
-| 2026-06-22 | A Reduced Order Model for Emergent Mechanics in Woven Systems | [link](https://arxiv.org/pdf/2606.23658v1) |
-| 2026-06-22 | Flatness Preserves Instruction Following in Vision-Language-Action Models | [link](https://arxiv.org/pdf/2606.23641v1) |
-| 2026-06-22 | Learning Process Rewards via Success Visitation Matching for Efficient RL | [link](https://arxiv.org/pdf/2606.23640v1) |
-| 2026-06-22 | Pose Anything Anywhere:Model-free Object Poses from Arbitrary References | [link](https://arxiv.org/pdf/2606.23634v1) |
-| 2026-06-22 | Learning to See While Learning to Act: Diffusion Models for Active Perception in Robot Imitation | [link](https://arxiv.org/pdf/2606.23625v1) |
+| 2026-06-23 | Beyond Monotonic Progress: Retry-Supervised Value Learning for Robot Imitation | [link](https://arxiv.org/pdf/2606.24633v1) |
+| 2026-06-23 | Parallel Dynamic Programming for Conic Linear Quadratic Control | [link](https://arxiv.org/pdf/2606.24632v1) |
+| 2026-06-23 | Optimization-based Safe Trajectory Planning for Autonomous Ground Vehicle in Multi-Floor Scenarios | [link](https://arxiv.org/pdf/2606.24631v1) |
+| 2026-06-23 | Human-Robot Shared Control for Humanized End-Effector Teleoperation | [link](https://arxiv.org/pdf/2606.24629v1) |
+| 2026-06-23 | ArtiTwinSplat: Interactable Digital Twin Reconstruction via Gaussian Splatting from RGB-D videos | [link](https://arxiv.org/pdf/2606.24628v1) |
+| 2026-06-23 | Qwen-AgentWorld: Language World Models for General Agents | [link](https://arxiv.org/pdf/2606.24597v1) |
+| 2026-06-23 | Jolia: Concept-Level Vision-Language Alignment for 3D CT Contrastive Learning | [link](https://arxiv.org/pdf/2606.24570v1) |
+| 2026-06-23 | Enabling Robust Cloth Manipulation via Inference-Time Simulator-in-the-Loop Refinement | [link](https://arxiv.org/pdf/2606.24552v1) |
+| 2026-06-23 | Explaining Failures of Cyber-Physical Systems with Actual Causality | [link](https://arxiv.org/pdf/2606.24546v1) |
+| 2026-06-23 | A Fair Evaluation of Graph Foundation Models for Node Property Prediction | [link](https://arxiv.org/pdf/2606.24509v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-24 | GT-111/memcode-finetuning-robotwin | 0 | 0 | [link](https://huggingface.co/GT-111/memcode-finetuning-robotwin) |
+| 2026-06-24 | SaFD-00/qwen2.5-vl-7b-ac-exp02-world-model-stage1-lora-epoch3-stage2-lora-epoch3 | 0 | 0 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-7b-ac-exp02-world-model-stage1-lora-epoch3-stage2-lora-epoch3) |
+| 2026-06-24 | SaFD-00/qwen2.5-vl-7b-ac-exp02-world-model-stage1-lora-epoch3 | 0 | 0 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-7b-ac-exp02-world-model-stage1-lora-epoch3) |
+| 2026-06-24 | SaFD-00/qwen3-vl-8b-ac-exp03-world-model-stage1-lora-epoch3 | 0 | 0 | [link](https://huggingface.co/SaFD-00/qwen3-vl-8b-ac-exp03-world-model-stage1-lora-epoch3) |
 | 2026-06-23 | uuuhjb/stage1_robotwin_1w75 | 0 | 0 | [link](https://huggingface.co/uuuhjb/stage1_robotwin_1w75) |
-| 2026-06-23 | robot-ai-team2-2026/dp-resize-224-300d_NI | 0 | 0 | [link](https://huggingface.co/robot-ai-team2-2026/dp-resize-224-300d_NI) |
 | 2026-06-23 | Robot2050/QChunker | 0 | 0 | [link](https://huggingface.co/Robot2050/QChunker) |
 | 2026-06-23 | Robot2050/QChunker-Ref | 0 | 0 | [link](https://huggingface.co/Robot2050/QChunker-Ref) |
 | 2026-06-23 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
 | 2026-06-23 | SereneC/AHA-WAM-RoboTwin2.0 | 0 | 0 | [link](https://huggingface.co/SereneC/AHA-WAM-RoboTwin2.0) |
 | 2026-06-23 | love-death-robot/RoMA-VL | 0 | 0 | [link](https://huggingface.co/love-death-robot/RoMA-VL) |
-| 2026-06-23 | lerobot/fastwam_robotwin_uncond_3cam_384 | 20 | 1 | [link](https://huggingface.co/lerobot/fastwam_robotwin_uncond_3cam_384) |
-| 2026-06-23 | Muapi/robot-ip-design-ip | 0 | 0 | [link](https://huggingface.co/Muapi/robot-ip-design-ip) |
-| 2026-06-23 | EdwinS9/qwen3-8b-sdft-robot-planner | 0 | 0 | [link](https://huggingface.co/EdwinS9/qwen3-8b-sdft-robot-planner) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| commaai/openpilot | 61525 | Python | 24610.1 | [link](https://github.com/commaai/openpilot) |
+| isaac-sim/IsaacLab | 7510 | Python | 3004.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| dora-rs/dora | 3801 | Rust | 1520.5 | [link](https://github.com/dora-rs/dora) |
+| sou350121/VLA-Handbook | 316 | HTML | 126.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 5251 | Python | 2100.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| strands-labs/robots | 71 | Python | 28.5 | [link](https://github.com/strands-labs/robots) |
 | Edgenesis/shifu | 1421 | Go | 568.5 | [link](https://github.com/Edgenesis/shifu) |
 | copper-project/copper-rs | 1366 | Rust | 546.5 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 883 | Python | 353.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 446 | Shell | 178.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| alireza787b/mavsdk_drone_show | 301 | Python | 120.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| ROBOTIS-GIT/ai_worker | 150 | C++ | 60.1 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| Developer-Y/cs-video-courses | 81900 |  | 32760.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61525 | Python | 24610.1 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 15945 | Python | 6378.1 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15341 | C++ | 6136.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -118,9 +118,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-06-23 | Krafton bets $33 mn on AI chip startup in physical AI push - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZVBuQ0VKbTdoaGw0UEhmLTZUTVdMS2xJQXR3NGYxYlB1MnpSUll0WE8xX0Qzb3NnRFM0X2RrMFA5TU4xTjI1ZWVTTFZoQnh4alZWWHVvOURROTlPRjBodDFqblduLWE5T3JManA5bFA?oc=5) |
-| 2026-06-23 | Embodied AI Startup Kunlunxing Lands Multibillion Yuan Raise Within Three Months of Launch - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWRxSXBrV1BlVDZjTFdHbHQ4emg2QnVOV3hiQU9jcjMyU3pSeXFZXzRhUUs2S01nWWZuNDBIbEJUTXREWnNXLTVvYkQ4dzNnSDlQNmJOMVU5QXJpdndMNC1yLWRKbHhfQWlfQ0dNTDJ2eWdOY1NpcTBuMUdidi1DY3dLQ0taRU5TS2pIaHlYMlY2Q1FGTlJOSXM0dWFxLWxPUTEwbGZKd2pHVTRXWGVPbGhEeGk5TmRvSlJieWstNzcwX3J3V0pTS045b1JRMFFRRXQ5cWVHWjNyTzdEVkE?oc=5) |
-| 2026-06-22 | Seedcamp closes its largest fund yet at $320 million and bets the next decade on physical AI - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUpHRlU0YkMzUnZiUGV6UUF3M24yX1poazY1RUx3WFA5ZUtpTVdzdzNpLWJLSE9FMDljWllEdGF5SEZwMllOTUJwYjVNdjZnODRtMDZabWtfVFFsSl9pY1dsNkhSUW9mYm9aTkdUekZMZVdNTFdpQXBvZUFXa3NQelIxYWMtUUd5ZXpWLVZJVjlkeFJ6ckJqNDA1NEQ2UERGZUVSV2hjZ3p6WS1WaFhaS0c3ZWlJYko2bkgw?oc=5) |
+| 2026-06-23 | Embodied AI Startup Kunlunxing Lands Multibillion Yuan Raise - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWRxSXBrV1BlVDZjTFdHbHQ4emg2QnVOV3hiQU9jcjMyU3pSeXFZXzRhUUs2S01nWWZuNDBIbEJUTXREWnNXLTVvYkQ4dzNnSDlQNmJOMVU5QXJpdndMNC1yLWRKbHhfQWlfQ0dNTDJ2eWdOY1NpcTBuMUdidi1DY3dLQ0taRU5TS2pIaHlYMlY2Q1FGTlJOSXM0dWFxLWxPUTEwbGZKd2pHVTRXWGVPbGhEeGk5TmRvSlJieWstNzcwX3J3V0pTS045b1JRMFFRRXQ5cWVHWjNyTzdEVkE?oc=5) |
 | 2026-06-22 | Delivery robot startup Robot.com is betting its next act on workplace humanoids - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ055UnFNc0FSb04zV3FQX25ROFZjMGwtaktnb2dKVElyV2hJZ0dheVRvd3M2S3BhOFlaTW5UcVA2T2t2Q1NSWTVUQThkZEdtT3BsVTBCYUE4RTBuU08tR3VHLVFiTXdJamYwaDU0SE1zS1VWZDk2SGhVWVNXUlhmaTdSbGJLVENuUklqM3pfR01kSXF3TUJlQnhlV3dZSktq?oc=5) |
+| 2026-06-22 | Seedcamp closes its largest fund yet at $320 million and bets the next decade on physical AI - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUpHRlU0YkMzUnZiUGV6UUF3M24yX1poazY1RUx3WFA5ZUtpTVdzdzNpLWJLSE9FMDljWllEdGF5SEZwMllOTUJwYjVNdjZnODRtMDZabWtfVFFsSl9pY1dsNkhSUW9mYm9aTkdUekZMZVdNTFdpQXBvZUFXa3NQelIxYWMtUUd5ZXpWLVZJVjlkeFJ6ckJqNDA1NEQ2UERGZUVSV2hjZ3p6WS1WaFhaS0c3ZWlJYko2bkgw?oc=5) |
 | 2026-06-22 | Qualcomm Backs 15 APAC Startups to Build the Future of Physical AI - BriefGlance | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnUyUXphSGhxeHI0VmtoZWpPbkZxbWdYUTdVRmVxemUwVlZSdUg4ci10bjdmc216MmxkLTdQY2lXRTVsaWFxcXd0emQwa1hCVk8xcmlQc0QtaEhpc1Y5bFBLRWNwTUJmUjZHa2FxbUJBVnZSWGI5SHhwb2tDVTdVY1BZY2pfYnJSTHBFM2NXc2FyamM4WUViTUxKYVdtaDJa?oc=5) |
 | 2026-06-22 | AI Startup Funding: Odyssey Scores $310M, Unicorn via Amazon - AI CERTs | embodied ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaWNOQ1BXY3Z6YlAxRVc0S2gyWDVpR2llNThFQUdQRjVKdjNJSkRnUlJNZDgyUDhZWUFjQmtTNG5UNXUzMTc2WjU3OXRBb2dTZl9zMG9rWWhHZWNHMUl0X2lPOWpDcFpWbUxFOGV1Ym9mSURtSE5qUjJmelZCLVp0cVpPbDNWY1pkOUphbFNfQQ?oc=5) |
 | 2026-06-21 | Why it’s nearly impossible to build a robot without China - The Business Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2JPa2gzVHc1QjZ4TGVUM2NsTXB1WU9pdVpFMmI5Y3RmUy1Ya0tGRU9vVC1MU3pZZUwxV0d2ZC10amdVU3QzX0NPZUpkckJ2UGJrbzBEMndNUlUxb0dKRXRZeURoNnNaT0s3VGlHaWRxQkJoRnlfRk9ycFB2TEJZZFAzRUNZak5WMW9Lc2JSbmttaWFCblRYNzg5RlI3S1hMdGVBR3dmS2w?oc=5) |
