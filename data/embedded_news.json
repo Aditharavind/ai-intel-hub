@@ -1,5 +1,19 @@
 [
   {
+    "title": "VFD Clock Runs on a Single AA",
+    "source": "Hackaday",
+    "date": "2026-06-24",
+    "url": "https://hackaday.com/2026/06/24/vfd-clock-runs-on-a-single-aa/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"625\" src=\"https://hackaday.com/wp-content/uploads/2026/06/FMS4FS4MQPQJKCG_8e8839-e1782274668769.webp?w=626\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"626\" /></div>There are lots of different ways to build a clock. [Sciter_] came into the possession of some old calculator parts, and decided to reuse them for just such a project. <a class=\"read-more\" href=\"https://hackaday.com/2026/06/24/vfd-clock-runs-on-a-single-aa/\">&#8230;read more</a>"
+  },
+  {
+    "title": "The Trains With Rubber Tires",
+    "source": "Hackaday",
+    "date": "2026-06-24",
+    "url": "https://hackaday.com/2026/06/24/the-trains-with-rubber-tires/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/06/TrainTires.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The train was one of the game-changing inventions that defined the Industrial Age. No more would humanity rely on tempestuous animals to haul goods and passengers great distances across the <a class=\"read-more\" href=\"https://hackaday.com/2026/06/24/the-trains-with-rubber-tires/\">&#8230;read more</a>"
+  },
+  {
     "title": "Raspberry Pi Locator Website to Shut Down in July",
     "source": "Hackaday",
     "date": "2026-06-24",
@@ -61,6 +75,13 @@
     "date": "2026-06-24",
     "url": "https://www.embedded.com/from-silicon-to-systems-reimagining-the-future-of-embedded-engineering/",
     "summary": "<p>For decades, progress in the electronics industry was measured primarily through advances in silicon. Faster processing, lower power consumption, greater integration, and shrinking form factors consistently pushed the industry forward and enabled entirely new categories of products and services. That model of innovation is no longer sufficient on its own. For all the technological progress [...]</p>\n<p>The post <a href=\"https://www.embedded.com/from-silicon-to-systems-reimagining-the-future-of-embedded-engineering/\">From Silicon to Systems: Reimagining the Future of Embedded Engineering</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Antenova launches Petrosa WiFi 6E/7 antenna",
+    "source": "Electronics Weekly",
+    "date": "2026-06-24",
+    "url": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/antenova-launches-petrosa-wifi-antenna-2026-06/",
+    "summary": "<p>Antenova is launching a new Wi-Fi antenna, the Petrosa (SR43W081) PIFA (Planar Inverted Antenna), which operates on a ground plane with no clearance requirements. Petrosa is compatible with WiFi 6E ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/antenova-launches-petrosa-wifi-antenna-2026-06/\">Antenova launches Petrosa WiFi 6E/7 antenna</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Terrestrial vs Space Debate For Datacentres",
@@ -126,11 +147,46 @@
     "summary": "<p>Next month ST will begin volume production of a compact direct Time-of-Flight 3D LiDAR all-in-one module which delivers AI-ready output data for low-compute edge AI systems on small MCUs and ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/898577-2026-06/\">Compact ToF 3D module has multiple uses</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Top Ten Fabless",
-    "source": "Electronics Weekly",
+    "title": "A practical analysis of the PlayStation architecture",
+    "source": "Adafruit",
     "date": "2026-06-24",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-fabless-6-2026-06/",
-    "summary": "<p>Thanks to Any Silicon for this one &#8211; the top ten fabless companies in Q1: Nvidia:  Broadcom:  Qualcomm:  AMD:  MediaTek: . Marvell:  Realtek:  OmniVision:  Novatek: Monolithic Power Systems (MPS)</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-fabless-6-2026-06/\">Top Ten Fabless</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/06/24/a-practical-analysis-of-the-playstation-architecture/",
+    "summary": "Rodrigo Copetti analyzes the PlayStation architecture: Sony knew that 3D hardware could get very messy to develop for. Thus, their debuting console will keep its design simple and practical… Although this may come at a cost! (The Playstation uses the) Sony CXD8530BQ, one of the two big chips this console houses. It’s what we would call a ‘System-on-Chip’ [&#8230;]"
+  },
+  {
+    "title": "CircuitPython 10.3.0-alpha.3 Released!",
+    "source": "Adafruit",
+    "date": "2026-06-24",
+    "url": "https://blog.adafruit.com/2026/06/24/circuitpython-10-3-0-alpha-3-released/",
+    "summary": "From the GitHub release page: This is CircuitPython 10.3.0-alpha.3, an alpha release for 10.3.0. Further features, changes, and bug fixes will be added before the final release of 10.3.0. Highlights of this release Add usb_audio.USBMicrophone and usb_audio.USBSpeaker, which provide audio source and sink USB devices. Add audiospeed.Resampler. Add audio_i2sin input audio stream; supported only on [&#8230;]"
+  },
+  {
+    "title": "Watching a Z80 from a Raspberry Pi RP2350",
+    "source": "Adafruit",
+    "date": "2026-06-24",
+    "url": "https://blog.adafruit.com/2026/06/24/watching-a-z80-from-a-raspberry-pi-rp2350/",
+    "summary": "Kevin was messing around with the Raspberry Pi Pico RP2350 and PIO and at some point wanted to see if it could be hooked up to a Z80. As a starter, I’ve been experimenting with seeing if I can get an RP2350 to see the Z80 address and data bus in any manner. Of particular [&#8230;]"
+  },
+  {
+    "title": "BASIC ruled the 1980s. Here’s why Python quietly became the new gateway to coding",
+    "source": "Adafruit",
+    "date": "2026-06-24",
+    "url": "https://blog.adafruit.com/2026/06/24/basic-ruled-the-1980s-heres-why-python-quietly-became-the-new-gateway-to-coding/",
+    "summary": "If you ever used a computer in the &#8217;70s, &#8217;80s, and &#8217;90s, your first foray into programming was most likely with BASIC. How-To Geek&#8217;s David Delony presents the reasons why Python has taken its place as the language of choice for people learning to program. Python is everywhere It&#8217;s easy to get started with There&#8217;s [&#8230;]"
+  },
+  {
+    "title": "BASIC09 programming language front-end developed for LLVM",
+    "source": "Adafruit",
+    "date": "2026-06-24",
+    "url": "https://blog.adafruit.com/2026/06/24/basic09-programming-language-front-end-developed-for-llvm/",
+    "summary": "The 46-year-old BASIC09 programming language has new compiler support with a front-end having been developed for the LLVM compiler stack. BASIC09 was developed in 1980 for the Motorola 6809 CPU running with the OS-9 operating system. With this LLVM compiler front-end, you can write BASIC09 code for modern software and hardware. Boisy Gene Pitre wrote [&#8230;]"
+  },
+  {
+    "title": "Teen Tech Lab: STEAM Challenge: Design Your Habitat with QPL",
+    "source": "Adafruit",
+    "date": "2026-06-24",
+    "url": "https://blog.adafruit.com/2026/06/24/teen-tech-lab-steam-challenge-design-your-habitat-with-qpl/",
+    "summary": "image via Queens Public Library &#160; This STEAM challenge is happening at 5 Queens Public Library locations on July 8! Teens and parents of teens can register here. 3-4pm in Flushing 3-4pm at Far Rockaway Teen Library 3-4pm in East Flushing 3-4pm in Cambria Heights 4-5pm at Central Library SciArt Exchange’s Design Your Habitat invites [&#8230;]"
   },
   {
     "title": "The Python on Microcontrollers Newsletter: subscribe for free",
@@ -187,20 +243,6 @@
     "date": "2026-06-23",
     "url": "https://hackaday.com/2026/06/23/a-commodore-boombox-the-1350-as-youve-never-heard-it-before/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/06/datasette_boombox_battery_box.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>No, this isn&#8217;t another product from [PeriFractic]&#8217;s revived company, though we hope he&#8217;s taking notes. This is, in fact, a hack on the beloved 1530 Datasette, using the tape mechanism <a class=\"read-more\" href=\"https://hackaday.com/2026/06/23/a-commodore-boombox-the-1350-as-youve-never-heard-it-before/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Reviving MSN Messenger’s i-Buddy USB Accessory",
-    "source": "Hackaday",
-    "date": "2026-06-23",
-    "url": "https://hackaday.com/2026/06/23/reviving-msn-messengers-i-buddy-usb-accessory/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"512\" src=\"https://hackaday.com/wp-content/uploads/2026/06/i-buddy_msn_rayly_retro_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Some of our esteemed readers were not yet out of diapers back in 2013 when Microsoft decided to put MSN Messenger out to pasture, but the memories that this instant <a class=\"read-more\" href=\"https://hackaday.com/2026/06/23/reviving-msn-messengers-i-buddy-usb-accessory/\">&#8230;read more</a>"
-  },
-  {
-    "title": "A BIOS For Your ESP32-C6",
-    "source": "Hackaday",
-    "date": "2026-06-23",
-    "url": "https://hackaday.com/2026/06/23/a-bios-for-your-esp32-c6/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/c6-bios-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>An old-style PC BIOS served the function of a bootloader in loading the operating system kernel, and of an API in providing a set of standard system calls through which <a class=\"read-more\" href=\"https://hackaday.com/2026/06/23/a-bios-for-your-esp32-c6/\">&#8230;read more</a>"
   },
   {
     "title": "TerraMaster F4-425 Pro 4+3 Hybrid NAS gets Intel Core 3 N350 or Core i3-N305 octa-core CPU",
@@ -271,48 +313,6 @@
     "date": "2026-06-23",
     "url": "https://blog.adafruit.com/2026/06/23/engineers-australia-engineeringintelligence-inwed1919-inwed26/",
     "summary": "Engineers Australia hosted a series of events creating opportunities for learning, connection and celebration. What you can expect from INWED 2026 Attendees can look forward to:  insightful discussions with leaders and engineers shaping innovation through Engineering Intelligence opportunities to build meaningful professional networks across disciplines and career stages exposure to real-world engineering challenges, solutions and [&#8230;]"
-  },
-  {
-    "title": "How I actually play video games with SMA: the tools I use every day",
-    "source": "Adafruit",
-    "date": "2026-06-23",
-    "url": "https://blog.adafruit.com/2026/06/23/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/",
-    "summary": "Andrei Cebotar is 37, lives in Moldova, and has Spinal Muscular Atrophy. My hands get tired fast — by the end of the day I often can’t feel them at all. I can press one mouse button. That’s mostly what I have to work with. And yet I play games, I write, I have conversations [&#8230;]"
-  },
-  {
-    "title": "AI can rewrite open source code, but can it rewrite the license, too?",
-    "source": "Adafruit",
-    "date": "2026-06-23",
-    "url": "https://blog.adafruit.com/2026/06/23/ai-can-rewrite-open-source-code-but-can-it-rewrite-the-license-too/",
-    "summary": "AI coding tools are raising new issues with how that “clean room” rewrite process plays out legally, ethically, and practically. Those issues came to the forefront last week with the release of a new version of chardet, a popular open source python library for automatically detecting character encoding. The repository was originally written by coder Mark [&#8230;]"
-  },
-  {
-    "title": "Snakie: a modern, cross-platform MicroPython editor",
-    "source": "Adafruit",
-    "date": "2026-06-23",
-    "url": "https://blog.adafruit.com/2026/06/23/snakie-a-modern-cross-platform-micropython-editor/",
-    "summary": "Snakie is a modern, cross-platform MicroPython editor by Kevin McAleer. Snakie is a clean, uncluttered IDE for writing MicroPython code and working with connected MicroPython devices. It is built on Electron so it runs on Windows, macOS and Linux, and updates easily. Download Grab the latest installer for your platform from the Releases page: 🪟 Windows (x64) [&#8230;]"
-  },
-  {
-    "title": "International Events Celebrating International Women in Engineering Day #EngineeringIntelligence @INWED1919  #INWED26",
-    "source": "Adafruit",
-    "date": "2026-06-23",
-    "url": "https://blog.adafruit.com/2026/06/23/international-events-celebrating-international-women-in-engineering-day-engineeringintelligence-inwed1919-inwed26/",
-    "summary": "image via WES &#160; Hey International friends, if you&#8217;re looking for a place to celebrate in person check out this map from WES to locate your closest INWED event"
-  },
-  {
-    "title": "A CircuitPython MCP server",
-    "source": "Adafruit",
-    "date": "2026-06-23",
-    "url": "https://blog.adafruit.com/2026/06/23/a-circuitpython-mcp-server/",
-    "summary": "CircuitPython MCP Server is a minimal MCP JSON-RPC server helpers for CircuitPython projects using adafruit_httpserver. This library lets a CircuitPython board run a real MCP server directly on the device. The host computer is only used for deployment, serial logs, and testing. Implemented HTTP endpoints: GET /: JSON status POST /mcp: MCP JSON-RPC over HTTP [&#8230;]"
-  },
-  {
-    "title": "Untold History of Women in STEM #EngineeringIntelligence @INWED1919  #INWED26",
-    "source": "Adafruit",
-    "date": "2026-06-23",
-    "url": "https://blog.adafruit.com/2026/06/23/untold-history-of-women-in-stem-engineeringintelligence-inwed1919-inwed26/",
-    "summary": "Found in the Obama White House Archives is a history of women pioneers in STEM, including some engineers, who changed the way our world is understood."
   },
   {
     "title": "Shaping the Edge AI Standard for IoT Compute – Synaptics and Mouser Electronics",
