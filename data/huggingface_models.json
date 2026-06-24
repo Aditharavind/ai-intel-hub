@@ -1,5 +1,14 @@
 [
   {
+    "model": "Robot2050/QChunker-Ref",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Robot2050/QChunker-Ref",
+    "date": "2026-06-24",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "LuEduSoHu/robot_learning_tutorial_diffusion_0623_0204",
     "downloads": 0,
     "likes": 0,
@@ -24,6 +33,15 @@
     "url": "https://huggingface.co/love-death-robot/SigMA",
     "date": "2026-06-24",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "GT-111/MemCode-VLA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/GT-111/MemCode-VLA",
+    "date": "2026-06-24",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -69,6 +87,33 @@
     "url": "https://huggingface.co/SaFD-00/qwen3-vl-8b-ac-exp03-world-model-stage1-lora-epoch3",
     "date": "2026-06-24",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "Chaenn/act_policy_tw_pick_stack_2cam_0624",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Chaenn/act_policy_tw_pick_stack_2cam_0624",
+    "date": "2026-06-24",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Chaenn/act_policy_ts_pick_stack_2cam_0624",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Chaenn/act_policy_ts_pick_stack_2cam_0624",
+    "date": "2026-06-24",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Chaenn/act_policy_ws_pick_stack_2cam_0624",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Chaenn/act_policy_ws_pick_stack_2cam_0624",
+    "date": "2026-06-24",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -153,15 +198,6 @@
     "score": 0.1
   },
   {
-    "model": "satgothyun/pmsp_policy_llama8b_step_r64_ep2",
-    "downloads": 18,
-    "likes": 0,
-    "url": "https://huggingface.co/satgothyun/pmsp_policy_llama8b_step_r64_ep2",
-    "date": "2026-06-24",
-    "keyword": "policy",
-    "score": 5.5
-  },
-  {
     "model": "uuuhjb/stage1_robotwin_1w75",
     "downloads": 5,
     "likes": 0,
@@ -178,15 +214,6 @@
     "date": "2026-06-23",
     "keyword": "robot",
     "score": 3.1
-  },
-  {
-    "model": "Robot2050/QChunker-Ref",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Robot2050/QChunker-Ref",
-    "date": "2026-06-23",
-    "keyword": "robot",
-    "score": 0.1
   },
   {
     "model": "YinonDouchan/mobile_robot_lift_env",
@@ -324,24 +351,6 @@
     "score": 0.1
   },
   {
-    "model": "surira/pi05_20260619_redonyellow_5_policy",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/surira/pi05_20260619_redonyellow_5_policy",
-    "date": "2026-06-23",
-    "keyword": "policy",
-    "score": 0.7
-  },
-  {
-    "model": "surira/pi05_20260619_redonyellow_4_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/surira/pi05_20260619_redonyellow_4_policy",
-    "date": "2026-06-23",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "anikitakis/vla_so101_pick_n_place_full_expert",
     "downloads": 955,
     "likes": 0,
@@ -358,15 +367,6 @@
     "date": "2026-06-22",
     "keyword": "vla",
     "score": 66.4
-  },
-  {
-    "model": "VLat3/Taxi-v4",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/VLat3/Taxi-v4",
-    "date": "2026-06-22",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "burtenshaw/openenv-echo-world-model-liquidai-lfm2.5-350m-seed1",
