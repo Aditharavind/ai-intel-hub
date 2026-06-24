@@ -40,16 +40,6 @@
     "score": 127.3
   },
   {
-    "repo": "ROBOTIS-GIT/ai_worker",
-    "stars": 150,
-    "language": "C++",
-    "description": "AI Worker: FFW (Freedom From Work)",
-    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
-    "date": "2026-06-24",
-    "topic": "humanoid",
-    "score": 60.1
-  },
-  {
     "repo": "Developer-Y/cs-video-courses",
     "stars": 81906,
     "language": "",
@@ -71,23 +61,23 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15348,
+    "stars": 15349,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-06-24",
     "topic": "robotics",
-    "score": 6139.3
+    "score": 6139.7
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 13973,
+    "stars": 13975,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-06-24",
     "topic": "robotics",
-    "score": 5589.3
+    "score": 5590.1
   },
   {
     "repo": "kornia/kornia",
@@ -121,23 +111,23 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 6876,
+    "stars": 6878,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-06-24",
     "topic": "robotics",
-    "score": 2750.5
+    "score": 2751.3
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 3883,
+    "stars": 3884,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-06-24",
     "topic": "embodied-ai",
-    "score": 1553.3
+    "score": 1553.7
   },
   {
     "repo": "dora-rs/dora",
@@ -211,13 +201,13 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 1926,
+    "stars": 1927,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-06-24",
     "topic": "world-model",
-    "score": 770.5
+    "score": 770.9
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -238,6 +228,16 @@
     "date": "2026-06-24",
     "topic": "humanoid",
     "score": 204.5
+  },
+  {
+    "repo": "ROBOTIS-GIT/ai_worker",
+    "stars": 150,
+    "language": "C++",
+    "description": "AI Worker: FFW (Freedom From Work)",
+    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
+    "date": "2026-06-24",
+    "topic": "humanoid",
+    "score": 60.1
   },
   {
     "repo": "vikashplus/robohive",
@@ -261,13 +261,13 @@
   },
   {
     "repo": "strands-labs/robots",
-    "stars": 72,
+    "stars": 73,
     "language": "Python",
     "description": "Control robots and physical hardware with natural language through Strands Agents.",
     "url": "https://github.com/strands-labs/robots",
     "date": "2026-06-24",
     "topic": "lerobot",
-    "score": 28.9
+    "score": 29.3
   },
   {
     "repo": "fiveages-sim/lerobot_ros2",
@@ -361,13 +361,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 29856,
+    "stars": 29857,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-06-22",
     "topic": "robotics",
-    "score": 11942.5
+    "score": 11942.9
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -381,13 +381,13 @@
   },
   {
     "repo": "starVLA/starVLA",
-    "stars": 2920,
+    "stars": 2921,
     "language": "Python",
     "description": "StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing",
     "url": "https://github.com/starVLA/starVLA",
     "date": "2026-06-22",
     "topic": "vla",
-    "score": 1168.1
+    "score": 1168.5
   },
   {
     "repo": "dexmal/dexbotic",
@@ -460,6 +460,16 @@
     "score": 212.9
   },
   {
+    "repo": "arpitg1304/forge",
+    "stars": 150,
+    "language": "Python",
+    "description": "Robotics Data Toolkit | Convert between robotics dataset formats (RLDS, LeRobot v2/v3, Zarr, HDF5, Rosbag). Inspect, visualize, and analyze datasets. Works with HuggingFace Hub. Built for OpenVLA, Octo, LeRobot, and Diffusion Policy workflows.",
+    "url": "https://github.com/arpitg1304/forge",
+    "date": "2026-06-19",
+    "topic": "lerobot",
+    "score": 60.1
+  },
+  {
     "repo": "DLR-RM/stable-baselines3",
     "stars": 13476,
     "language": "Python",
@@ -498,16 +508,6 @@
     "date": "2026-06-19",
     "topic": "robot-learning",
     "score": 595.3
-  },
-  {
-    "repo": "arpitg1304/forge",
-    "stars": 149,
-    "language": "Python",
-    "description": "Robotics Data Toolkit | Convert between robotics dataset formats (RLDS, LeRobot v2/v3, Zarr, HDF5, Rosbag). Inspect, visualize, and analyze datasets. Works with HuggingFace Hub. Built for OpenVLA, Octo, LeRobot, and Diffusion Policy workflows.",
-    "url": "https://github.com/arpitg1304/forge",
-    "date": "2026-06-19",
-    "topic": "lerobot",
-    "score": 59.7
   },
   {
     "repo": "cartesiancs/vessel",
@@ -561,13 +561,13 @@
   },
   {
     "repo": "botbotrobotics/BotBrain",
-    "stars": 225,
+    "stars": 226,
     "language": "TypeScript",
     "description": "Modular open-source brain for legged robots. Web UI for teleops, autonomous navigation, mapping & monitoring. 3D-printable hardware that runs on ROS2.",
     "url": "https://github.com/botbotrobotics/BotBrain",
     "date": "2026-06-16",
     "topic": "humanoid",
-    "score": 90.1
+    "score": 90.5
   },
   {
     "repo": "PathOn-AI/pathon_opensource",
@@ -701,13 +701,13 @@
   },
   {
     "repo": "nasa-jpl/open-source-rover",
-    "stars": 9469,
+    "stars": 9470,
     "language": "Prolog",
     "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
     "url": "https://github.com/nasa-jpl/open-source-rover",
     "date": "2026-06-10",
     "topic": "robotics",
-    "score": 3787.7
+    "score": 3788.1
   },
   {
     "repo": "HCPLab-SYSU/Embodied_AI_Paper_List",
@@ -771,13 +771,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 1551,
+    "stars": 1555,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-05",
     "topic": "robot-learning",
-    "score": 620.5
+    "score": 622.1
   },
   {
     "repo": "NVIDIA-Omniverse/ovrtx",
