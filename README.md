@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-24 05:55 UTC
+Last Updated: 2026-06-24 08:48 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -47,16 +47,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-24 | A T9 Keyboard For Your Smartphone | Hackaday | [link](https://hackaday.com/2026/06/24/a-t9-keyboard-for-your-smartphone/) |
 | 2026-06-24 | One Commodore, Five Displays | Hackaday | [link](https://hackaday.com/2026/06/23/one-commodore-five-displays/) |
 | 2026-06-24 | EVs Always Beat Combustion Emissions Performance | Hackaday | [link](https://hackaday.com/2026/06/23/evs-always-beat-combustion-emissions-performance/) |
+| 2026-06-24 | RP2350B bells&whistles development board features on-board RP2040 debugger, HDMI, and microSD card slot | CNX Software | [link](https://www.cnx-software.com/2026/06/24/rp2350b-bellswhistles-development-board-features-on-board-rp2040-debugger-hdmi-and-microsd-card-slot/) |
 | 2026-06-24 | Visualize radio signals with Raspberry Pi 5-based QuadRF 4×4 MIMO software-defined radio tile (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/06/24/visualize-radio-signals-with-raspberry-pi-5-based-quadrf-4x4-mimo-software-defined-radio-tile/) |
 | 2026-06-24 | Aliro is a vendor-agnostic standard for digital access control working over NFC, Bluetooth LE, or UWB | CNX Software | [link](https://www.cnx-software.com/2026/06/24/aliro-is-a-vendor-agnostic-standard-for-digital-access-control-working-over-nfc-bluetooth-le-or-uwb/) |
-| 2026-06-24 | Top Ten Fabless | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-fabless-6-2026-06/) |
-| 2026-06-23 | A Commodore Boombox: The 1350 as You’ve Never Heard it Before | Hackaday | [link](https://hackaday.com/2026/06/23/a-commodore-boombox-the-1350-as-youve-never-heard-it-before/) |
-| 2026-06-23 | Reviving MSN Messenger’s i-Buddy USB Accessory | Hackaday | [link](https://hackaday.com/2026/06/23/reviving-msn-messengers-i-buddy-usb-accessory/) |
-| 2026-06-23 | A BIOS For Your ESP32-C6 | Hackaday | [link](https://hackaday.com/2026/06/23/a-bios-for-your-esp32-c6/) |
-| 2026-06-23 | A Custom PCB for the Casio G-Shock | Hackaday | [link](https://hackaday.com/2026/06/23/a-custom-pcb-for-the-casio-g-shock/) |
-| 2026-06-23 | Linux Fu: Upcycling an Old Router | Hackaday | [link](https://hackaday.com/2026/06/23/linux-fu-upcycling-an-old-router/) |
+| 2026-06-24 | AlpSemi raises €17m | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/circuit-breakers-go-mainstream-2026-06/) |
+| 2026-06-24 | Arm’s AI Optimisation Challenge | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/arms-ai-optimisation-challenge-2026-06/) |
+| 2026-06-24 | Qualinx sampling GNSS receiver with OSNMA support | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/qualinx-sampling-gnss-receiver-with-osnma-support-2026-06/) |
+| 2026-06-24 | China supplying 23% of domestic semi equipment needs and rising | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/china-supplying-23-of-domestic-semi-equipment-needs-and-rising-2026-06/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -75,30 +75,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-24 | SereneC/AHA-WAM-RoboTwin2.0 | 0 | 0 | [link](https://huggingface.co/SereneC/AHA-WAM-RoboTwin2.0) |
 | 2026-06-24 | love-death-robot/SigMA | 0 | 0 | [link](https://huggingface.co/love-death-robot/SigMA) |
-| 2026-06-24 | GT-111/memcode-finetuning-robotwin | 0 | 0 | [link](https://huggingface.co/GT-111/memcode-finetuning-robotwin) |
 | 2026-06-24 | kamada-riku/vla_jepa_so101_pick_toy_v9_cup | 0 | 0 | [link](https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v9_cup) |
 | 2026-06-24 | linhrumata/world-models | 0 | 0 | [link](https://huggingface.co/linhrumata/world-models) |
 | 2026-06-24 | linhrumata/world-models-decoders | 0 | 0 | [link](https://huggingface.co/linhrumata/world-models-decoders) |
 | 2026-06-24 | SaFD-00/qwen2.5-vl-7b-ac-exp02-world-model-stage1-lora-epoch3-stage2-lora-epoch3 | 0 | 0 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-7b-ac-exp02-world-model-stage1-lora-epoch3-stage2-lora-epoch3) |
 | 2026-06-24 | SaFD-00/qwen2.5-vl-7b-ac-exp02-world-model-stage1-lora-epoch3 | 0 | 0 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-7b-ac-exp02-world-model-stage1-lora-epoch3) |
 | 2026-06-24 | SaFD-00/qwen3-vl-8b-ac-exp03-world-model-stage1-lora-epoch3 | 0 | 0 | [link](https://huggingface.co/SaFD-00/qwen3-vl-8b-ac-exp03-world-model-stage1-lora-epoch3) |
-| 2026-06-24 | satgothyun/pmsp_policy_llama8b_step_r64_ep2 | 18 | 0 | [link](https://huggingface.co/satgothyun/pmsp_policy_llama8b_step_r64_ep2) |
+| 2026-06-24 | Wayer2/policy-test | 66 | 0 | [link](https://huggingface.co/Wayer2/policy-test) |
 | 2026-06-24 | yhc2222/tsp_policy_llama8b_step_r64 | 88 | 0 | [link](https://huggingface.co/yhc2222/tsp_policy_llama8b_step_r64) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 61527 | Python | 24610.9 | [link](https://github.com/commaai/openpilot) |
-| isaac-sim/IsaacLab | 7514 | Python | 3005.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| earthtojake/text-to-cad | 6857 | JavaScript | 2742.9 | [link](https://github.com/earthtojake/text-to-cad) |
-| dora-rs/dora | 3801 | Rust | 1520.5 | [link](https://github.com/dora-rs/dora) |
-| mani-skill/ManiSkill | 3036 | Python | 1214.5 | [link](https://github.com/mani-skill/ManiSkill) |
-| StanfordVL/BEHAVIOR-1K | 1533 | Python | 613.3 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| luohongk/Embodied-AI-Daily | 340 | HTML | 136.1 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| sou350121/VLA-Handbook | 317 | HTML | 126.9 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5252 | Python | 2100.9 | [link](https://github.com/vllm-project/vllm-omni) |
-| inclusionAI/AWorld | 1203 | Python | 481.3 | [link](https://github.com/inclusionAI/AWorld) |
+| mosaico-labs/mosaico | 882 | Python | 352.9 | [link](https://github.com/mosaico-labs/mosaico) |
+| ROBOTIS-GIT/ai_worker | 150 | C++ | 60.1 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
+| commaai/openpilot | 61529 | Python | 24611.7 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15343 | C++ | 6137.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| isaac-sim/IsaacLab | 7515 | Python | 3006.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| earthtojake/text-to-cad | 6863 | JavaScript | 2745.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| RLinf/RLinf | 3880 | Python | 1552.1 | [link](https://github.com/RLinf/RLinf) |
+| dora-rs/dora | 3803 | Rust | 1521.3 | [link](https://github.com/dora-rs/dora) |
+| mani-skill/ManiSkill | 3037 | Python | 1214.9 | [link](https://github.com/mani-skill/ManiSkill) |
+| leofan90/Awesome-World-Models | 1828 | Python | 731.3 | [link](https://github.com/leofan90/Awesome-World-Models) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
