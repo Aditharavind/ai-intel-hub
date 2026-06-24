@@ -168,6 +168,20 @@
     "summary": "<p>Next month ST will begin volume production of a compact direct Time-of-Flight 3D LiDAR all-in-one module which delivers AI-ready output data for low-compute edge AI systems on small MCUs and ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/898577-2026-06/\">Compact ToF 3D module has multiple uses</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "JLink JTAG access on the Pinecil soldering iron",
+    "source": "Adafruit",
+    "date": "2026-06-24",
+    "url": "https://blog.adafruit.com/2026/06/24/jlink-jtag-access-on-the-pinecil-soldering-iron/",
+    "summary": "Daniel Mangum bought a Pinecil soldering iron and wrote about soldering the breakout board and accessing the UART. This latest work is on JLink JTAG access. I’ve been doing more work with the Pinecil as of late following the addition of upstream support for the Bouffalo Lab BL706 MCU in Zephyr. While accessing the UART is [&#8230;]"
+  },
+  {
+    "title": "The first open-source Linux driver for the ASUS ZenVision lid OLED",
+    "source": "Adafruit",
+    "date": "2026-06-24",
+    "url": "https://blog.adafruit.com/2026/06/24/the-first-open-source-linux-driver-for-the-asus-zenvision-lid-oled/",
+    "summary": "zenvision-linux is the first open-source Linux driver for the ASUS ZenVision lid OLED display. The the protocol was reverse-engineered from scratch using Ghidra on MyASUS. It is a userspace Linux driver for the ASUS ZenVision lid OLED — the 3.5&#8243;, 256×64 monochrome screen embedded in the lid of the ASUS Zenbook 14X OLED Space Edition (UX5401ZAS). ASUS [&#8230;]"
+  },
+  {
     "title": "Digital Analog Watch #WearableWednesday #RaspberryPi",
     "source": "Adafruit",
     "date": "2026-06-24",
@@ -236,20 +250,6 @@
     "date": "2026-06-24",
     "url": "https://blog.adafruit.com/2026/06/24/basic09-programming-language-front-end-developed-for-llvm/",
     "summary": "The 46-year-old BASIC09 programming language has new compiler support with a front-end having been developed for the LLVM compiler stack. BASIC09 was developed in 1980 for the Motorola 6809 CPU running with the OS-9 operating system. With this LLVM compiler front-end, you can write BASIC09 code for modern software and hardware. Boisy Gene Pitre wrote [&#8230;]"
-  },
-  {
-    "title": "Teen Tech Lab: STEAM Challenge: Design Your Habitat with QPL",
-    "source": "Adafruit",
-    "date": "2026-06-24",
-    "url": "https://blog.adafruit.com/2026/06/24/teen-tech-lab-steam-challenge-design-your-habitat-with-qpl/",
-    "summary": "image via Queens Public Library &#160; This STEAM challenge is happening at 5 Queens Public Library locations on July 8! Teens and parents of teens can register here. 3-4pm in Flushing 3-4pm at Far Rockaway Teen Library 3-4pm in East Flushing 3-4pm in Cambria Heights 4-5pm at Central Library SciArt Exchange’s Design Your Habitat invites [&#8230;]"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-06-24",
-    "url": "https://blog.adafruit.com/2026/06/24/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-24/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
     "title": "Analytical Components International (ACI) Expands HPLC Portfolio with Premium Check Valves for Liquid Chromatography Systems",

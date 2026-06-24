@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-24 20:26 UTC
+Last Updated: 2026-06-24 22:05 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -16,7 +16,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-23 | Build real agentic apps using CUGA: two dozen working examples on a lightweight harness | Hugging Face | [link](https://huggingface.co/blog/ibm-research/cuga-apps) |
 | 2026-06-23 | Shipping huggingface_hub every week with AI, open tools, and a human in the loop | Hugging Face | [link](https://huggingface.co/blog/huggingface-hub-release-ci) |
 | 2026-06-23 | Experimenting with the proposed Cross-Origin Storage API in Transformers.js | Hugging Face | [link](https://huggingface.co/blog/cross-origin-storage) |
-| 2026-06-22 | Patch the Planet: a Daybreak initiative to support open source maintainers | OpenAI | [link](https://openai.com/index/patch-the-planet) |
+| 2026-06-22 | Daybreak: Tools for securing every organization in the world | OpenAI | [link](https://openai.com/index/daybreak-securing-the-world) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -94,18 +94,40 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | mosaico-labs/mosaico | 882 | Python | 352.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 446 | Shell | 178.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | keon/awesome-physical-ai | 318 |  | 127.3 | [link](https://github.com/keon/awesome-physical-ai) |
-| Developer-Y/cs-video-courses | 81906 |  | 32762.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 81907 |  | 32762.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 61533 | Python | 24613.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15349 | C++ | 6139.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 13975 | C++ | 5590.1 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 13976 | C++ | 5590.5 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11247 | Python | 4498.9 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 10982 | Rust | 4392.9 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
-_No items collected yet._
+| Date | Company | Round | Amount | Source |
+| --- | --- | --- | --- | --- |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxNMS1yZUtReWMtWV9vdFFoVzhxNXVEanNJd1FKVVZJYmdCbEo3ZkxtZjdvVHkzU1lTZkJnaTVRNWY3UmplMHZvX05WQnJublhUelNDNmI5WEZ2M2JOTDNfUktIamJzM0szVHEyTkMxQm5UQmUycTRhSDdNRkljM0x0ZEFpb2xlZC1LaHBLd1Nhd0hRWWoxVElRbEtBS0gyQmRrWTJoSWhBSHkySmZTcEpLeFpEdzdpMW1HNFNQdHBiWVVVNDV2X2xTd1NIbw?oc=5) |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVJXcUtHUlZRTjNqYl9FRHRJdkFZUU5kSVF5V1NLekl1cDNyOEppY3JkLW5BNHVYZ182OVVnZ2l6R19qZ3JmOVlhR05TNDdOYWljdlJ0TklVTGxKQ2k4R2lINzY3NXMtaDZ4RXRMRWhRWnRuRldQVEh5Y2hMYktzWmx2X2RVdHdpSUFZa0l4SFphalhpaG1kM0tubjJveXV5akIwSTgwX1hwXzBQNGF4ZEpxcFpva2RUZHphWV82YVlyeHVuUlV1LUFvNEVyYkkz?oc=5) |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZFVkekpTTlg1NXNrSktPbzBuQUNMQ2VSanU3a3FXN25GaTBzTkV3OTN0cjBSaHBxSm1ScWJjRVlTSGVYbFZ3MFZWUGF6T2NDRFNfRVR3SW5vX0ZOYmtZSUg5cXBTeWZBMGJuQzNMamFrc2x4ZDFtS0dxeTgyamFabGhCaV9ERGNJWWVkMlZEdXZGSi05dWxaa2FBZzEyTFlKYkcwV0R1Z3JLdFBIZndLX21ldnlfVi1UWDdYMGVLdGNwbEdGQVM5akdQVFBYZ05j?oc=5) |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxPWWdpV0d3WFBxQ2hPcnQzQ2JVejEzUlhUMTBNN2I0X2JiUzZ6YXVSSG5nVlg2SDdMQXZlT1lSUTVSazRzbHpQQWVINjFOMnlyY2hzcDRyNzBWUmZBUk9uS0twOE9GT1B4Ti1OdndjYkZCWWNtaXhpclFfckZTWWJyYU5CUW4zVjZoVXFWS1NjVzFSTkVHYkdKNE5lQXRsdVNHMkNKLWNXYkk5OFF6R3I3aExsdl93SDN3cXFmVE54NTZlWGJ2REkyT3Vn?oc=5) |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdHd1cGduRkhiUS1POHdxQ3hjMHU3SVdSemhyX1lLcWkySVBpVGVwdzJUcHRWRG41b3VaY1B4YThqeUxLQ1pzV3JqVHB6bUJDZ3lRZlJJc2NIRUF1UTl6X3AxYVpxTDMwa2Q3SHhyN1hOTjVCYkVtWTczSGdVNnk1Q0NsVUhhUWt1ZUZpQXN1bFR4bnpsZDNQQ0U3NFMyVFZOU3g2Q19YbWhzVk5iZDU4cExzQ2J0SWIyenZ5bXI2dWthZGw0aU0zWnU2RS1lRlRYRUkzM1VvRnNqMmlJNmhjQkFoTGZQSFZfWmFyaQ?oc=5) |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMigwFBVV95cUxQdVh3RF91YUdPem1SYjBpenY0LWs0ckM0Uzk2RGR3TWc5a25PQnJ2SEdvbTFBaFFpYzJkSndONlk5cUhOYl9DRk93dEtJSktqci01UHZtT0VfVHY2WmdmU2J2WW9pQWJWcnBmenN4M0FGNnFURkFxZURWbm1DMnowcFVVTQ?oc=5) |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTE9JTEczcVYzeWFLVjQwTVozeG1EaXpQazd6cXdoRHlFdWVrN25Qdi1ZWjgxUUN0ekZ0TldmUnc0MHRSZTloRUdGYUl4NmRzSnAyZG1IYi1HVlRpWmFRTnlOb2ZtT1lJaUdDdl9LNmJVRTlDeXVzNTFMTWxscXU?oc=5) |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0Jja1hfTGJIa2dRTXNUZ2RxaGtScHJock1yNksxcTBmQjduMWROY0pmMnlSVEhlV2ozTjZIUWlYalRXb0lpSjF6QVRhQVQ2MVRqUDAtTFV5WU9qQXZ2WEJZY01wYzdtOEo1dXRvTUh0S09ZWXVHYU1XQ3QzNHJzNGxPQjZIOVF5MTNPU1VWNE1TSXg3a0E?oc=5) |
+| 2026-06-23 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFJoUFhNSkJSZWhIVVpZNmxfWlZKc3dkeEQ5NjMzMG9TZDBYS2RtRVYwTUI0cm93bHR0OEM5RXpYSS1WVjVsM2lQR093S25TMEdrSWFzTWNvRklZVmxLYWtYUmV5cVdJNm9aaGpzcHdJWDVOcS10cVo0QzRTTk5KYUp5X1M5M0tuLVd0QkRVRVQySnNMTmpPUE1vand2X0I0OWloMDJjN2hhNHdiTDR1bGt6Zw?oc=5) |
 
 ## New Companies
-_No items collected yet._
+| Date | Signal | Category | Source |
+| --- | --- | --- | --- |
+| 2026-06-24 | Physical AI Development Platforms - Trend Hunter | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aVnNjV3kxUWJJczNTME5FZ1hJYWNCNmM0LV9ndUIyLW1tbXIwVkgtSG9POE5XTEFZcFludmJqcFZxM203QWN1N210UmNNd1RKc1pXTXh6WXZOaHQ1SXV1TlhNaWw4ajTSAWdBVV95cUxPWlZzY1d5MVFiSXMzUzBORWdYSWFjQjZjNC1fZ3VCMi1tbW1yMFZILUhvTzhOV0xBWXBZbnZianBWcTNtN0FjdTdtdFJjTXdUSnNaV014ell2Tmh0NUl1dU5YTWlsOGo0?oc=5) |
+| 2026-06-24 | Nears Lab, a drone artificial intelligence (AI) company, announced its physical AI technology by tak.. - 매일경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aR1lEQVRnMG1KSzNLUzBtcmt4Y1VRcW1YRlNFb0JTMVMxdU9SVUtFWE4yajBZSUVib0VWaVFXRUgxU3NSeEVoYWFHNA?oc=5) |
+| 2026-06-24 | Agility Robotics is headed to Wall Street - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
+| 2026-06-24 | Suppliers eye $5 trillion humanoid robot market despite value-capture concerns - Automotive News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxObGVxNml3RWRkVUludndlcmQ5SWJ1WVNEM1BnS0g0TlA2SThIdkRlc1U5bGFaa0x3VW13MWs2djNTdzZUNTZfUG5ILUNaVjJGNFNuUGdWQ1RVdkxmUXJsOG5uY1ZhRHVmLWdCUl9nblF0Y1VWcFgtV21HZ2RTejBULVZtdUd0VXlpOElhMG1XVVVCYy1FYnVENUZqdVc?oc=5) |
+| 2026-06-23 | Krafton bets $33 mn on AI chip startup in physical AI push - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZVBuQ0VKbTdoaGw0UEhmLTZUTVdMS2xJQXR3NGYxYlB1MnpSUll0WE8xX0Qzb3NnRFM0X2RrMFA5TU4xTjI1ZWVTTFZoQnh4alZWWHVvOURROTlPRjBodDFqblduLWE5T3JManA5bFA?oc=5) |
+| 2026-06-23 | Embodied AI Startup Kunlunxing Lands Multibillion Yuan Raise - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWRxSXBrV1BlVDZjTFdHbHQ4emg2QnVOV3hiQU9jcjMyU3pSeXFZXzRhUUs2S01nWWZuNDBIbEJUTXREWnNXLTVvYkQ4dzNnSDlQNmJOMVU5QXJpdndMNC1yLWRKbHhfQWlfQ0dNTDJ2eWdOY1NpcTBuMUdidi1DY3dLQ0taRU5TS2pIaHlYMlY2Q1FGTlJOSXM0dWFxLWxPUTEwbGZKd2pHVTRXWGVPbGhEeGk5TmRvSlJieWstNzcwX3J3V0pTS045b1JRMFFRRXQ5cWVHWjNyTzdEVkE?oc=5) |
+| 2026-06-22 | Delivery robot startup Robot.com is betting its next act on workplace humanoids - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ055UnFNc0FSb04zV3FQX25ROFZjMGwtaktnb2dKVElyV2hJZ0dheVRvd3M2S3BhOFlaTW5UcVA2T2t2Q1NSWTVUQThkZEdtT3BsVTBCYUE4RTBuU08tR3VHLVFiTXdJamYwaDU0SE1zS1VWZDk2SGhVWVNXUlhmaTdSbGJLVENuUklqM3pfR01kSXF3TUJlQnhlV3dZSktq?oc=5) |
+| 2026-06-22 | Seedcamp closes its largest fund yet at $320 million and bets the next decade on physical AI - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUpHRlU0YkMzUnZiUGV6UUF3M24yX1poazY1RUx3WFA5ZUtpTVdzdzNpLWJLSE9FMDljWllEdGF5SEZwMllOTUJwYjVNdjZnODRtMDZabWtfVFFsSl9pY1dsNkhSUW9mYm9aTkdUekZMZVdNTFdpQXBvZUFXa3NQelIxYWMtUUd5ZXpWLVZJVjlkeFJ6ckJqNDA1NEQ2UERGZUVSV2hjZ3p6WS1WaFhaS0c3ZWlJYko2bkgw?oc=5) |
+| 2026-06-22 | AI Startup Funding: Odyssey Scores $310M, Unicorn via Amazon - AI CERTs | embodied ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaWNOQ1BXY3Z6YlAxRVc0S2gyWDVpR2llNThFQUdQRjVKdjNJSkRnUlJNZDgyUDhZWUFjQmtTNG5UNXUzMTc2WjU3OXRBb2dTZl9zMG9rWWhHZWNHMUl0X2lPOWpDcFpWbUxFOGV1Ym9mSURtSE5qUjJmelZCLVp0cVpPbDNWY1pkOUphbFNfQQ?oc=5) |
+| 2026-06-21 | Why it’s nearly impossible to build a robot without China - The Business Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2JPa2gzVHc1QjZ4TGVUM2NsTXB1WU9pdVpFMmI5Y3RmUy1Ya0tGRU9vVC1MU3pZZUwxV0d2ZC10amdVU3QzX0NPZUpkckJ2UGJrbzBEMndNUlUxb0dKRXRZeURoNnNaT0s3VGlHaWRxQkJoRnlfRk9ycFB2TEJZZFAzRUNZak5WMW9Lc2JSbmttaWFCblRYNzg5RlI3S1hMdGVBR3dmS2w?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
