@@ -1,11 +1,47 @@
 [
   {
+    "model": "love-death-robot/SigMA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/love-death-robot/SigMA",
+    "date": "2026-06-24",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "GT-111/memcode-finetuning-robotwin",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/GT-111/memcode-finetuning-robotwin",
     "date": "2026-06-24",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "kamada-riku/vla_jepa_so101_pick_toy_v9_cup",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v9_cup",
+    "date": "2026-06-24",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "linhrumata/world-models",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/linhrumata/world-models",
+    "date": "2026-06-24",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "linhrumata/world-models-decoders",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/linhrumata/world-models-decoders",
+    "date": "2026-06-24",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -34,6 +70,24 @@
     "date": "2026-06-24",
     "keyword": "world model",
     "score": 0.1
+  },
+  {
+    "model": "satgothyun/pmsp_policy_llama8b_step_r64_ep2",
+    "downloads": 18,
+    "likes": 0,
+    "url": "https://huggingface.co/satgothyun/pmsp_policy_llama8b_step_r64_ep2",
+    "date": "2026-06-24",
+    "keyword": "policy",
+    "score": 5.5
+  },
+  {
+    "model": "yhc2222/tsp_policy_llama8b_step_r64",
+    "downloads": 88,
+    "likes": 0,
+    "url": "https://huggingface.co/yhc2222/tsp_policy_llama8b_step_r64",
+    "date": "2026-06-24",
+    "keyword": "policy",
+    "score": 26.5
   },
   {
     "model": "uuuhjb/stage1_robotwin_1w75",
@@ -126,15 +180,6 @@
     "score": 0.1
   },
   {
-    "model": "tencent/Hy-Embodied-0.5-VLA-RoboTwin",
-    "downloads": 197,
-    "likes": 6,
-    "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin",
-    "date": "2026-06-23",
-    "keyword": "embodied",
-    "score": 60.4
-  },
-  {
     "model": "deksprime/vla-jepa-robocasa-mg300-v2-ri",
     "downloads": 0,
     "likes": 0,
@@ -205,6 +250,15 @@
     "date": "2026-06-23",
     "keyword": "embodied",
     "score": 57.6
+  },
+  {
+    "model": "tencent/Hy-Embodied-0.5-VLA-RoboTwin",
+    "downloads": 197,
+    "likes": 6,
+    "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin",
+    "date": "2026-06-23",
+    "keyword": "embodied",
+    "score": 60.4
   },
   {
     "model": "kuimin/ta_vla_force_frozen_vlm",
@@ -306,24 +360,6 @@
     "score": 0.1
   },
   {
-    "model": "kb127/act195kl15_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kb127/act195kl15_policy",
-    "date": "2026-06-23",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jogarulfop/policy_2026-06-23_shakeitup_diff_duration_100kHz_nfft_8192",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-06-23_shakeitup_diff_duration_100kHz_nfft_8192",
-    "date": "2026-06-23",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "anikitakis/vla_so101_pick_n_place_full_expert",
     "downloads": 904,
     "likes": 0,
@@ -331,15 +367,6 @@
     "date": "2026-06-22",
     "keyword": "vla",
     "score": 271.3
-  },
-  {
-    "model": "Vladmun1337/multiclip-classifier-ro",
-    "downloads": 200,
-    "likes": 0,
-    "url": "https://huggingface.co/Vladmun1337/multiclip-classifier-ro",
-    "date": "2026-06-22",
-    "keyword": "vla",
-    "score": 60.1
   },
   {
     "model": "burtenshaw/openenv-echo-world-model-liquidai-lfm2.5-350m-seed1",
@@ -421,24 +448,6 @@
     "date": "2026-06-21",
     "keyword": "world model",
     "score": 0.1
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-7b-ac-exp03-world-model-stage1-lora-epoch3-stage2-lora-epoch3",
-    "downloads": 26,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-7b-ac-exp03-world-model-stage1-lora-epoch3-stage2-lora-epoch3",
-    "date": "2026-06-21",
-    "keyword": "world model",
-    "score": 7.9
-  },
-  {
-    "model": "SaFD-00/qwen3-vl-8b-ac-exp03-world-model-stage1-lora-epoch3-stage2-lora-epoch3",
-    "downloads": 29,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen3-vl-8b-ac-exp03-world-model-stage1-lora-epoch3-stage2-lora-epoch3",
-    "date": "2026-06-21",
-    "keyword": "world model",
-    "score": 8.8
   },
   {
     "model": "Krishnav1234/neurocuda-robotics-perception-snn",

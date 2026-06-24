@@ -1,5 +1,136 @@
 [
   {
+    "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+    "authors": [
+      "Maggie Wang",
+      "Lars Osterberg",
+      "Stephen Tian",
+      "Ola Shorinwa",
+      "Jiajun Wu",
+      "Mac Schwager"
+    ],
+    "published": "2026-06-23",
+    "summary": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rendering VLAs steerable at the primitive-action level (e.g., \"move gripper to the bowl\", \"lift upward\", \"pour the bottle\"). InSight consists of two primary stages: (1) an automated segmentation pipeline that partitions demonstrations into labeled primitives via VLM plan decomposition and end-effector poses to enable VLA primitive steerability, and (2) a VLM-guided data flywheel that identifies missing primitives required to accomplish a novel task, autonomously attempts demonstrations of the missing primitives with VLM-proposed low-level control, and automatically labels, stores, and integrates successful demonstrations into the VLA training set. We evaluate InSight across simulation and real-world manipulation tasks, including block flipping, drawer closing, sweeping, twisting, and pouring, without any human demonstrations of these target skills. Once learned, these primitives can be composed to execute novel, long-horizon tasks without additional human demonstrations. Our findings demonstrate that primitive steerability provides a practical foundation for continual skill acquisition in VLA policies. Project website: https://insight-vla.github.io.",
+    "pdf_url": "https://arxiv.org/pdf/2606.24884v1"
+  },
+  {
+    "title": "World Models in Pieces: Structural Certification for General Agents",
+    "authors": [
+      "Yikai Lu",
+      "Yifei Wu",
+      "Xinyu Lu",
+      "Tongxin Li"
+    ],
+    "published": "2026-06-23",
+    "summary": "In the big-world regime, agents cannot be universally capable and their ability is inevitably specialized across a world model in pieces. Consequently, standard uniform guarantees fail to distinguish between the understanding of critical bottlenecks and irrelevant failures. We first formalize this limitation by proving that general agents are not universal, rendering standard worst-case analysis uninformative. To overcome this, we introduce structural certification, a transition-local framework that maps bounded goal-conditioned performance to entry-wise guarantees on the agent's internal world model. Our main contribution is constructive. We provide algorithms that filter specific transitions using deep compositional goals and prove that a general agent on these goals has a structural world model with a $\\mathcal{O}(1/n) + \\mathcal{O}(δ)$ error bound. Conversely, this bound is tight in the small-$δ$ regime, whose existence is explicitly guaranteed by our certification. These results enable the certifiable deployment of general agents by localizing the specific transitions where long-horizon planning is reliable.",
+    "pdf_url": "https://arxiv.org/pdf/2606.24842v1"
+  },
+  {
+    "title": "MANGO: Automated Multi-Agent Test Oracle Generation for Vision-Language-Action Models",
+    "authors": [
+      "Pablo Valle",
+      "Shaukat Ali",
+      "Aitor Arrieta",
+      "Lionel Briand"
+    ],
+    "published": "2026-06-23",
+    "summary": "Vision-Language-Action (VLA) models are emerging robotic control systems that integrate perception, language understanding, and action generation in a unified architecture. Existing testing approaches for VLA-enabled robots rely on manually constructed symbolic test oracles that determine task success from final environment states. These oracles are costly to construct, require domain expertise, and are often tightly coupled to specific tasks and environments, limiting scalability and reuse. Furthermore, they provide only end-state assessments of task outcomes, offering limited insight into intermediate behavior and fault localization. To address these limitations, we introduce MANGO, a multi-agent framework that automatically generates fine-grained oracles from natural-language descriptions of robotic tasks. MANGO first generates a reusable library of atomic tasks, then generates simulator-grounded oracle definitions for each atomic task, and finally produces executable fine-grained oracles by decomposing complex instructions into ordered sequences of atomic actions and corresponding oracles. The framework uses collaborative Generator, Assessor, and Judge agents that iteratively refine generated artifacts through structured feedback. We evaluate MANGO on the LIBERO_10 and RoboCasa Humanoid Tabletop benchmarks. Results show that MANGO generates executable, fine-grained oracles that detect a similar number of failures as symbolic oracles while accurately localizing them and providing richer diagnostic information. Through ablation studies, we further analyzed component contributions and the effect of initial task set, while preserving oracle quality. Overall, the results show the feasibility and effectiveness of test oracle generation for VLA-enabled robots testing.",
+    "pdf_url": "https://arxiv.org/pdf/2606.24815v1"
+  },
+  {
+    "title": "Vision-Language Model Reasoning for Contextual Semantic Mapping in Intralogistics",
+    "authors": [
+      "Marvin Rüdt",
+      "Hao Pang",
+      "Constantin Enke",
+      "Zäzilia Seibold",
+      "Kai Furmans"
+    ],
+    "published": "2026-06-23",
+    "summary": "Autonomous mobile robots operating in intralogistics environments rely on geometric maps for localization and navigation, but lack semantic understanding of objects and their contextual properties. We present a contextual semantic mapping pipeline that combines SLAM-based geometric mapping, SAM-based instance segmentation, instance clustering, and VLM multi-view reasoning to produce a contextual semantic map representation encoding geometric structure, object class, and object movability. By aggregating observations across multiple viewpoints and querying a VLM in a zero-shot, open-vocabulary setting, the pipeline infers contextual object properties--here demonstrated through movability--without requiring task-specific training or predefined object categories. We evaluate three VLMs under two prompting strategies and conduct a component-wise analysis of the pipeline. The proposed pipeline achieves 98.93 % mIoU for semantic classification and 89.17 % mAcc for object movability estimation. Component analysis identifies VLM reasoning as the primary bottleneck for contextual understanding and instance clustering as the main limitation for panoptic performance. The resulting semantic map supports context-aware filtering and robust navigation in dynamic intralogistics environments.",
+    "pdf_url": "https://arxiv.org/pdf/2606.24814v1"
+  },
+  {
+    "title": "Pocket-SLAM: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM",
+    "authors": [
+      "Leshu Li",
+      "Jie Peng",
+      "Yang Zhao"
+    ],
+    "published": "2026-06-23",
+    "summary": "3D Gaussian Splatting (3DGS) has garnered significant attention in Simultaneous Localization and Mapping (SLAM) due to its advances in capturing fine-grained geometry features and synthesizing novel views. For SLAM in large-scale scenes, such as autonomous driving, 3DGS-SLAM faces a critical limitation: memory consumption increases continuously over time as Gaussian points accumulate, leading to poor memory efficiency and limiting its applicability. In this work, we propose a rendering-area-aware pruning strategy that selectively removes Gaussians based on their contribution to the effective rendering area, rather than solely relying on Gaussian-level heuristics such as opacity or gradient magnitude. This perspective directly targets the sources of memory redundancy, effectively reducing the peak memory footprint of 3DGS-SLAM during runtime. Evaluations on the EuRoC and KITTI datasets demonstrate that our method consistently outperforms existing pruning approaches in large-scale outdoor scenes, achieving over 60% memory reduction and more than 2 times FPS improvement while preserving localization and mapping accuracy. These results highlight rendering-area-aware pruning as a promising direction for scaling 3DGS-SLAM to real-world autonomous driving scenarios. Our code is publicly available at https://github.com/UMN-ZhaoLab/Pocket-SLAM.git.",
+    "pdf_url": "https://arxiv.org/pdf/2606.24796v1"
+  },
+  {
+    "title": "Compact Object-Level Representations with Open-Vocabulary Understanding for Indoor Visual Relocalization",
+    "authors": [
+      "Zhaopeng Cui",
+      "Jiarui Hu",
+      "Jingbo Liu",
+      "Boming Zhao",
+      "Xiyue Guo",
+      "Boyin Feng",
+      "Haocheng Peng",
+      "Yujun Shen",
+      "Hujun Bao",
+      "Guofeng Zhang"
+    ],
+    "published": "2026-06-23",
+    "summary": "Indoor visual relocalization plays a critical role in emerging spatial and embodied AI applications. However, prior research was predominantly devoted to low-level vision schemes, struggling to perceive scene semantics and compositions, which limits both interpretability and applicability. In this paper, we explore the issue of how to organize rich object information in a scene, including semantics, layout, and geometry, into a structured map representation, thereby utilizing object units exclusively to drive the camera relocalization task. To this end, we propose OpenReLoc, a camera relocalization system designed to provide scene understanding and accurate pose estimation capabilities. Leveraging recent foundation models, we first introduce a multi-modal mechanism to integrate open-vocabulary semantic knowledge for effective 2D-3D object matching. Additionally, we design object-oriented reference frames as position priors, paired with a reference frame selection strategy based on the Distance-IoU (DIOU), enabling extension to scalable scenes. Moreover, to ensure stable and accurate pose optimization, we also propose a dual-path 2D Iterative Closest Pixel loss guided by object shape. Experimental results demonstrate that OpenReLoc achieves superior relocalization recall and accuracy across various datasets. Our source code will be released upon acceptance.",
+    "pdf_url": "https://arxiv.org/pdf/2606.24767v1"
+  },
+  {
+    "title": "World Value Models for Robotic Manipulation",
+    "authors": [
+      "Zhihao Wang",
+      "Jianxiong Li",
+      "Yu Cui",
+      "Yuan Gao",
+      "Xianyuan Zhan",
+      "Junzhi Yu",
+      "Xiao Ma"
+    ],
+    "published": "2026-06-23",
+    "summary": "Generalist value models play a pivotal role in scaling robotic policy learning from large-scale, mixed-quality data. Mathematically, accurate value estimation demands deep temporal understanding, requiring models to both ground the current belief using historical context and plan over future outcomes. However, most existing robotic value models are built on Vision-Language Model (VLM) backbones that are pretrained primarily on static or temporally sparse visual observations, lacking the requisite temporal modeling capabilities for value estimation. Unlike VLMs, world models naturally excel at temporal modeling and future planning, making them ideal foundations for learning generalizable value functions. Driven by this insight, we marry world models with value estimation to construct a new generalist robotic value model, World Value Model (WVM), that offers accurate task progressions to assess data quality. On standard benchmarks, WVM delivers state-of-the-art (SOTA) Value-Order Correlation (VOC) results. Complementing standard evaluation suites that contains only expert data, we further introduce Suboptimal-Value-Bench, a multi-embodiment benchmark consisting of 800 suboptimal trajectories with high-fidelity, human-labeled frame annotations. Our evaluations show that WVM maintains its SOTA performance on Suboptimal-Value-Bench, establishing its robustness in handling both expert and suboptimal data. When deployed for policy learning, WVM improves manipulation performance across various policy extraction approaches in both simulated and real-world deployment, providing robust guidance for learning from mixed-quality data.",
+    "pdf_url": "https://arxiv.org/pdf/2606.24742v1"
+  },
+  {
+    "title": "TACTFUL: Tactile-Driven Exploration For Object Localization and Identification in Confined Environments",
+    "authors": [
+      "Shivani Kamtikar",
+      "Chung Hee Kim",
+      "Camilla Tabasso",
+      "Tye Brady",
+      "Joshua Migdal",
+      "Taskin Padir"
+    ],
+    "published": "2026-06-23",
+    "summary": "Humans effortlessly locate and identify objects by touch alone, even without vision. In contrast, robotic systems rely heavily on vision and struggle with autonomous tactile exploration and object identification. We present TACTFUL, a vision-free tactile exploration framework that enables a multi-fingered robot to autonomously explore confined workspaces, discover objects through contact, and identify them via tactile reconstruction. Trained entirely on real hardware without simulation, our system learns a single policy that balances global workspace exploration with local surface refinement through a dynamic reward schedule. Our results demonstrate that tactile sensing, when paired with structured learning, can serve as an effective primary modality for object-level reasoning, achieving 77% success with 0.015 m average reconstruction error and outperforming baseline approaches on real-world objects.",
+    "pdf_url": "https://arxiv.org/pdf/2606.24712v1"
+  },
+  {
+    "title": "LaGO: Latent Action Guidance for Online Reinforcement Learning",
+    "authors": [
+      "Kuan-Yen Liu",
+      "Ren-Jyun Huang",
+      "Ti-Rong Wu"
+    ],
+    "published": "2026-06-23",
+    "summary": "Large language models (LLMs) have shown strong potential for planning and sequential decision-making, but prior work often relies on using them as direct controllers, which requires precise action generation and can be unreliable in practice. This paper proposes Latent Action Guidance for Online Reinforcement Learning (LaGO), a framework that uses a pretrained LLM as a latent action prior to softly guide online policy optimization, rather than treating the LLM as an explicit planner or controller. Experiments on both a discrete-control benchmark, CLEVR-Robot, and a continuous-control benchmark, Meta-World, demonstrate that LaGO consistently improves both reward and success rate over Vanilla PPO. In particular, LaGO increases the average success rate from 15.1% to 27.2% on CLEVR-Robot and from 2.7% to 15.2% on Meta-World. Our analysis further shows that stronger pretrained LLMs provide more effective guidance, suggesting that LLM knowledge can improve planning and online decision-making.",
+    "pdf_url": "https://arxiv.org/pdf/2606.24669v1"
+  },
+  {
+    "title": "Suboptimal and Reduced-Order MPC via Timescale Separation",
+    "authors": [
+      "Stefano Di Gregorio",
+      "Guido Carnevale",
+      "Giuseppe Notarstefano"
+    ],
+    "published": "2026-06-23",
+    "summary": "In this paper, we propose a generalized framework for the design and analysis of suboptimal and reduced-order nonlinear Model Predictive Control (MPC) architectures. The proposed framework manages real-time operation of MPC schemes by (i) computing the control action suboptimally, i.e., by running a generic optimal control algorithm for a finite number of iterations, and (ii) relying on a reduced-order model that neglects part of the plant dynamics (accounting for, e.g., unmodeled dynamics or a low-level compensator). To rigorously handle the interplay between optimization error and model mismatch, we treat the sampling time as a tunable design parameter. We analyze the resulting closed-loop system, comprising the full-order physical plant interconnected with the iterative optimization algorithm (treated as a dynamical system), by leveraging tools from timescale separation. We prove that operating at a sufficiently fast sampling rate ensures that the closed-loop system maintains recursive feasibility and achieves an exponentially stable equilibrium point. The effectiveness of the proposed framework is validated on an underactuated two-link robotic arm through virtual experiments in the high-fidelity MuJoCo physics engine.",
+    "pdf_url": "https://arxiv.org/pdf/2606.24641v1"
+  },
+  {
     "title": "Beyond Monotonic Progress: Retry-Supervised Value Learning for Robot Imitation",
     "authors": [
       "Xinyao Qin",
@@ -384,182 +515,5 @@
     "published": "2026-06-23",
     "summary": "Legged robots rely on accurate ground interaction awareness to traverse variable terrains, such as slippery surfaces. Existing slip detection methods often rely on kinematics and proprioception, which lack the sensitivity to detect early-stage slips that occur prior to catastrophic instability. Thus, this paper presents SlipSense, a novel framework for online force-based slip detection using a custom lightweight sensorized foot for quadrupeds to detect slip. The framework integrates a multimodal sensor design with a LSTM-based model to infer ground reaction forces and detect slip-indicative anomalies during locomotion. The proposed framework is deployed on a Unitree Go1 quadruped to demonstrate blind online slip detection over a slippery terrain. Our method detects early-stage slips down to an average displacement of 24.1 +/-6.4mm with an overall accuracy of 85.9%. This represents a 3.3-fold finer detection resolution and a 24% relative accuracy improvement over a standard kinematic baseline that uses foot velocity inferred through state estimation. The work in this paper serves as a foundation for force-aware gait adaptation in legged robotic locomotion, allowing future controllers to estimate terrain friction and adjust constraints, thus improving the overall stability of the system.",
     "pdf_url": "https://arxiv.org/pdf/2606.24350v1"
-  },
-  {
-    "title": "RoBoSR: Structured Scene Representations for Embodied Robotic Reasoning",
-    "authors": [
-      "Kewei Hu",
-      "Wanchan Yu",
-      "Fangwen Chen",
-      "Jing Jiajian",
-      "Zimeng Li",
-      "Ying Wei",
-      "Tianhao Liu",
-      "Michael Zhang",
-      "Hanwen Kang"
-    ],
-    "published": "2026-06-23",
-    "summary": "Despite rapid progress, embodied reasoning under real-world variability remains challenging. Existing approaches rely on demonstration-driven sequential biases, limiting flexibility in open-ended and long-horizon tasks that require structured reasoning over evolving states. We introduce RoBoSR, an intermediate structural representation that formulates manipulation as step-wise state transitions over semantically grounded, object-centric scene graphs. By modeling object states and their spatial relations at the perception-action interface, RoBoSR disentangles high-level task reasoning from raw inputs and enables structured reasoning over preconditions, effects, and goal states. This representation endows the agent with causal reasoning capability, enforcing subtask dependencies and supporting coherent long-horizon task planning. To learn such structure-aware reasoning, we construct Manip-Cognition-1.6M, an open-world dataset that jointly supervises scene understanding, instruction interpretation, and subtask planning across diverse tasks. Across several benchmarks and real-world demonstrations, our method consistently outperforms prompting-based methods and classical TAMP baselines in zero-shot generalization and long-horizon tasks. The results underscore structured intermediate representations as a critical inductive bias for scalable embodied reasoning.",
-    "pdf_url": "https://arxiv.org/pdf/2606.24338v1"
-  },
-  {
-    "title": "REDI-Match: Rotation-Equivariant Distillation for Efficient and Robust Dense Matching",
-    "authors": [
-      "Yinji Ge",
-      "Guixu Zheng",
-      "Wulong Guo",
-      "Qian Feng",
-      "Xu Wu",
-      "Kai Zhou",
-      "Xinyuan Liu",
-      "Fei Xing"
-    ],
-    "published": "2026-06-23",
-    "summary": "Vision Foundation Models (VFMs) have significantly advanced dense feature matching, yet severe in-plane rotation remains a critical challenge. Existing solutions face a fundamental dilemma: data-driven methods require inefficient parameter scaling to implicitly learn rotations, whereas strictly equivariant networks lack the semantic capacity of modern VFMs. Consequently, current frameworks typically freeze VFMs and shift the entire burden of rotation generalization to the downstream decoder. To break this architectural bottleneck, we propose REDI-Match, an efficient framework driven by a novel Rotation-Equivariant Distillation (REDI) paradigm. Instead of relying on rotation data augmentation to establish rotational correspondences, REDI distills the non-equivariant semantic representations of a VFM into a lightweight, strictly rotation-equivariant encoder, leveraging an equivariant geometric architecture to constrain robust high-dimensional semantics. To fully exploit these features, we equip the decoder with an entropy-driven spatial alignment module. By evaluating discrete rotation hypotheses, this mechanism explicitly locks onto the canonical coordinate system, eliminating global ambiguity before continuous refinement. Extensive experiments demonstrate that REDI-Match establishes a new state-of-the-art (SOTA) across multiple benchmarks. Notably, it achieves a 13.89% absolute pose accuracy improvement on the highly challenging SatAst dataset while operating 1.9x faster than the current SOTA (RoMa v2), enabling real-time inference (~41 FPS) on a single RTX 4090 GPU. Code: https://github.com/YinjiGe/REDI-Match.",
-    "pdf_url": "https://arxiv.org/pdf/2606.24330v1"
-  },
-  {
-    "title": "Training-free Cross-domain Few-shot Segmentation via Robust Semantic Representation and Matching",
-    "authors": [
-      "Sujun Sun",
-      "Mingwu Ren",
-      "Haofeng Zhang"
-    ],
-    "published": "2026-06-23",
-    "summary": "Cross-domain Few-shot Segmentation (CD-FSS) aims to transfer knowledge learned from source domain to distinct target domains, segmenting unseen target classes with only a few annotated samples. Although existing methods have made significant progress, they still rely on training or fine-tuning processes, which incur high computational costs and risk overfitting. We observe that when powerful and general-purpose vision foundation models are incorporated into these methods, their performance shows only marginal improvement or even degrades due to overfitting. To address this, we eliminate trainable parameters and propose a training-free framework to avoid both training overhead and overfitting. Built upon the self-supervised vision encoder DINOv3, our framework addresses cross-domain challenges through three core modules. First, the Semantic-aware Feature Re-fusion (SAFR) module identifies and re-fuses features that emphasize semantic patterns, generating representations with enhanced semantic discriminability. Additionally, the Adaptive Support Enhancement (ASE) module narrows semantic gaps between support and query through robust query information aggregation. Finally, the Hybrid Prototype Matching (HPM) module integrates matching results from diverse prototypes to adapt to varying semantic complexity across domains. Extensive experiments on four target domain datasets demonstrate that our method achieves state-of-the-art performance in CD-FSS without any training.",
-    "pdf_url": "https://arxiv.org/pdf/2606.24297v1"
-  },
-  {
-    "title": "Trimming the Long-Tail of Visual World Modeling Evaluation",
-    "authors": [
-      "Bingxuan Li",
-      "Yining Hong",
-      "Cheng Qian",
-      "Hyeonjeong Ha",
-      "Jiateng Liu",
-      "Zhenhailong Wang",
-      "Yue Guo",
-      "Yunzhu Li",
-      "Heng Ji"
-    ],
-    "published": "2026-06-23",
-    "summary": "Physical interactions follow a long-tailed distribution: a set of common and regular interactions dominates human experience and visual data, while a broad spectrum of rare and irregular interactions remains underrepresented. Although recent visual world models, including image and video generation models, achieve impressive realism on existing benchmarks, they primarily focus on simulating common physical interactions. This raises a central question: Do current visual world models internalize and generalize physical principles? In this work, we introduce Tailor-Bench, a benchmark that challenges world models to simulate irregular physical interactions. To enable systematic evaluation, we design three scenario modes that progressively challenge model reasoning: Regular scenarios reflect common tool-task pairs, Unconventional scenarios replace conventional tools with attribute-compatible substitutes to test affordance generalization, and Impossible scenarios introduce attribute-violating tools to probe constraint awareness. Additionally, we design two complementary settings under a unified evaluation protocol: predictive generation requires inferring outcomes without guidance, while descriptive generation specifies the target outcome for faithful realization. Our experimental results reveal a clear long-tail gap in physical world modeling: performance degrades from Regular to Unconventional and Impossible scenarios, indicating limited generalization beyond common interactions. Failure analysis further shows that models rely on superficial visual patterns: image models fail to realize correct state changes, while video models further suffer from temporal inconsistencies.",
-    "pdf_url": "https://arxiv.org/pdf/2606.24256v1"
-  },
-  {
-    "title": "TuringViT: Making SOTA Vision Transformers Accessible to All",
-    "authors": [
-      "Qiman Wu",
-      "Hanlin Chen",
-      "Lyujie Chen",
-      "Rui Xin",
-      "Jianlei Zheng",
-      "Mingyuan Wang",
-      "Jiahui Hu",
-      "Da Zhu",
-      "Yuecheng Ma",
-      "Yuhua Wei",
-      "Yizhao Wang",
-      "Hua Zhou",
-      "Yuheng Zhang",
-      "Anhua Liu",
-      "Shaman Tang",
-      "Yue He",
-      "Pengfei Diao",
-      "Shuang Su",
-      "Haotong Xin",
-      "Weichao Huang",
-      "Hang Zhang",
-      "Xianming Liu"
-    ],
-    "published": "2026-06-23",
-    "summary": "Modern VLMs and VLA systems commonly adopt off-the-shelf ViTs such as SigLIP2 as visual encoders, but diverse downstream requirements in latency, temporal modeling, and VLM integration often call for customized SOTA-level ViTs. Training such encoders remains beyond the reach of much of the community, as it requires massive image-text data, while standard softmax attention makes high-resolution or dynamic-resolution pretraining prohibitively costly and often forces low-resolution pretraining followed by post-hoc adaptation. TuringViT addresses these challenges with three key designs: Turing Linear Attention (TLA) for efficient sequence modeling, VISTA-Curation to construct supervision-rich image-video training data, and native dynamic-resolution pretraining that supports flexible inputs from the start and transfers seamlessly to downstream VLMs. As a result, TuringViT outperforms leading open-source ViT baselines with only 10% of the data, achieves stronger downstream VLM performance, and delivers substantially better latency scaling on high-resolution inputs. Our scaling-law analysis further shows that TuringViT continues to improve predictably with curated data scale, far from saturation. Its fast adaptation, hardware-friendly design, and efficient deployment have made it a unified visual foundation across XPeng's AI systems. More broadly, TuringViT provides a reproducible pipeline that dramatically lowers the cost for the community to train, customize, and deploy SOTA-level ViTs, moving toward making such Vision Transformers accessible to all.",
-    "pdf_url": "https://arxiv.org/pdf/2606.24253v1"
-  },
-  {
-    "title": "From Open Waters to Enclosed Cabins: ProteusVPR for Cross-Scene Visual Place Recognition in Maritime Perception and Cabin Inspection",
-    "authors": [
-      "Zexi Chena",
-      "Zitai Huang",
-      "Qiwen Gu",
-      "Zhiqi Li",
-      "Shengli Dong",
-      "Chenlei Wang",
-      "Junqiao Zhao",
-      "Hongdong Wang",
-      "Bing Han"
-    ],
-    "published": "2026-06-23",
-    "summary": "Autonomous robotic inspection in maritime environments presents unique challenges for Visual Place Recognition (VPR) due to cross-scene perceptual shifts. Robots navigating ship-borne environments must transition between visually distinct domains: open decks with sparse textures and severe illumination changes, and enclosed cabins with repetitive structures and high visual ambiguity. Existing VPR methods, designed primarily for urban or indoor scenes, fail to generalize reliably across these starkly different scenarios. To address this, we propose ProteusVPR, a two-stage retrieval-refinement framework. The first stage employs any standard VPR model for initial image retrieval. The second stage introduces a geometric-visual estimation network that fuses the retrieved image with two temporally preceding frames, incorporating geometric descriptors, a local affine coordinate system, and camera azimuth encoding to achieve precise localization. To support this task, we introduce the XHZ dataset, an 8K-panoramic ship-borne dataset collected from an operational vessel, featuring multi-floor cabin structures, deck transition zones, and strict query-database separation for rigorous evaluation. Extensive experiments on the XHZ dataset demonstrate that ProteusVPR consistently improves the localization accuracy across multiple VPR backbones, reducing mean localization error by over 60\\% on average and that ProteusVPR offers an effective and robust solution for precise visual localization in challenging, cross-scene maritime environments.",
-    "pdf_url": "https://arxiv.org/pdf/2606.24234v1"
-  },
-  {
-    "title": "FiCA: Feed-forward instant Gaussian Codec Avatars from a Single Portrait Image",
-    "authors": [
-      "Kim Youwang",
-      "Zhengyu Yang",
-      "Liuhao Ge",
-      "Yu Rong",
-      "Timur Bagautdinov",
-      "Su Zhaoen",
-      "Nir Sopher",
-      "Jovan Popović",
-      "Teng Deng",
-      "Tae-Hyun Oh",
-      "Chen Cao"
-    ],
-    "published": "2026-06-23",
-    "summary": "We introduce FiCA, a Feed-forward, instant Gaussian Codec Avatar generation pipeline that creates lifelike avatars from a single portrait image. Generating a photorealistic and drivable avatar from just a single image is significantly challenging due to the limited visual information available to accurately infer the 3D appearance and geometry of human heads. To address this, we develop a novel system that combines human-centric vision foundation models with a diffusion model. This system is designed to fully exploit partial visual observations to generate lifelike human avatars. Our proposed diffusion model learns a generative mapping from these partial observations to complete and authentic 3D mesh reconstruction. Additionally, we introduce a feed-forward mesh refinement network that enhances the fidelity and identity preservation of the generated avatars, eliminating the need for person-specific test-time optimization. By leveraging a universal prior model that decodes a generated mesh into a set of 3D Gaussians, we generate a photorealistic 3D Gaussian avatar, capable of being driven with novel expressions in real-time. Our experiments demonstrate that the avatars generated by our feed-forward approach faithfully represent diverse identities and surpass the visual quality of avatars produced by recent competing methods.",
-    "pdf_url": "https://arxiv.org/pdf/2606.24232v1"
-  },
-  {
-    "title": "MorVess: Morphology-Aware Pulmonary Vessel Segmentation Network",
-    "authors": [
-      "Fuyou Mao",
-      "Yifei Chen",
-      "Beining Wu",
-      "Lixin Lin",
-      "Jinnan Dai",
-      "Zhiling Li",
-      "Yilei Chen",
-      "Yaqi Wang",
-      "Hao Zhang",
-      "Yan Tang",
-      "Huiyu Zhou",
-      "Feiwei Qin"
-    ],
-    "published": "2026-06-23",
-    "summary": "Accurate pulmonary vessel segmentation remains challenging due to the sparse, tortuous, and multi-scale nature of vascular structures, where small branches are easily lost and topology integrity is difficult to preserve under voxel-wise supervision. Existing deep segmentation models primarily optimize binary masks, lacking explicit geometric constraints, thus struggling to recover continuous tubular morphology and fine vascular connectivity. In this study, we introduce MorVess, a morphology-aware segmentation framework that integrates differentiable geometric priors with large-scale foundation model adaptation to achieve fine-grained vascular parsing. MorVess jointly predicts vessel masks, distance maps, and thickness maps, providing explicit supervision for vascular boundaries, centerline consistency, and smooth diameter transitions. A lightweight 2.5D adapter bridges 3D spatial context and 2D SAM representations, while a global-local fusion block aggregates multi-level semantics and geometric cues for high-fidelity topology reconstruction. Across two challenging pulmonary CT benchmarks, MorVess delivers superior Dice, clDice, and HD95 scores, substantially improving small-vessel recovery and global connectivity. These results demonstrate that embedding geometric intelligence into pretrained vision models offers a principled and scalable pathway toward precise vessel analysis and clinically reliable structural quantification. Our source code is available at https://github.com/MaoFuyou/MorVess.",
-    "pdf_url": "https://arxiv.org/pdf/2606.24214v1"
-  },
-  {
-    "title": "Grounding Generative Policies in Physics: Optimization-Guided Diffusion for Robot Control",
-    "authors": [
-      "Sabrina Bodmer",
-      "René Zurbrügg",
-      "Tifanny Portela",
-      "Hao Ma",
-      "Alexandre Didier",
-      "Marco Hutter",
-      "Colin Jones",
-      "Melanie Zeilinger"
-    ],
-    "published": "2026-06-23",
-    "summary": "Diffusion models sample effectively from high-dimensional, multimodal distributions, but their outputs may violate deployment constraints. For task-space robot policies, generated grasps, waypoints, or trajectories can be distributionally valid yet infeasible, violating reachability, collision-avoidance, or closed-loop executability requirements. This embodiment gap limits zero-shot deployment across robots, even when the task-space behavior itself is transferable. We propose an inference-time optimization framework that couples the behavior generation to physical feasibility by formulating diffusion guidance as a constrained optimization problem. Our key insight is to replace the sampling perturbation in the backward process with an optimized correction, allowing hard constraints or soft penalties to be imposed during sampling without the need to retrain the diffusion model, while keeping samples close to the learned prior. We evaluate the method on dexterous grasp synthesis with reachability and collision-avoidance constraints, and dynamic manipulation with controller-level trackability constraints. Across settings and robot embodiments, optimization-guided denoising matches the feasibility of projection- and gradient-guidance baselines while better preserving grasp quality, and improving controller-level executability and task success, with task success improving by up to 20pp. on dexterous grasping and 23pp. on visuomotor manipulation over the best baseline.",
-    "pdf_url": "https://arxiv.org/pdf/2606.24208v1"
-  },
-  {
-    "title": "Importance of Intent-Sharing for V2X-based Maneuver Coordination",
-    "authors": [
-      "Rafael Molina-Masegosa",
-      "Sergei S. Avedisov",
-      "Miguel Sepulcre",
-      "Javier Gozalvez",
-      "Yashar Z. Farid",
-      "Onur Altintas"
-    ],
-    "published": "2026-06-23",
-    "summary": "This paper examines the critical role of intent-sharing in enabling effective maneuver coordination for connected and automated vehicles (CAVs). Successful maneuver coordinations require vehicles to accurately know other vehicles' driving intentions. Intent-sharing can be achieved by the remote vehicles directly communicating their plans with the ego vehicle, as opposed to the ego vehicle predicting the trajectory on the remote vehicles' behalf. In this paper, we investigate the potential of intent-sharing on maneuver coordination effectiveness by quantifying the percentage of successful coordinations. We analyze the potential of intent-sharing by comparing its effectiveness for coordinated lane changes in a highway scenario with the effectiveness of a trajectory prediction method based on current kinematic data. Our analysis demonstrates in two scenarios substantial improvements in maneuver coordination when CAVs have direct access to the nearby vehicles' driving intentions through intent sharing. These findings highlight the importance of including intent-sharing in the maneuver coordination protocol.",
-    "pdf_url": "https://arxiv.org/pdf/2606.24203v1"
   }
 ]
