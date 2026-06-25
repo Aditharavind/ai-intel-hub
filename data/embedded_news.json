@@ -1,5 +1,12 @@
 [
   {
+    "title": "A Look at a Gaggle of Transputer Boards",
+    "source": "Hackaday",
+    "date": "2026-06-25",
+    "url": "https://hackaday.com/2026/06/25/a-look-at-a-gaggle-of-transputer-boards/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"412\" src=\"https://hackaday.com/wp-content/uploads/2026/06/transputer_board_lance_harvie_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>A long time before Beowulf clusters wired up with commodity Ethernet hardware became a hobbyist thing and a running joke, the transputer took a swing at a very similar architecture. <a class=\"read-more\" href=\"https://hackaday.com/2026/06/25/a-look-at-a-gaggle-of-transputer-boards/\">&#8230;read more</a>"
+  },
+  {
     "title": "A More Convenient iButton Reader",
     "source": "Hackaday",
     "date": "2026-06-25",
@@ -14,6 +21,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"441\" src=\"https://hackaday.com/wp-content/uploads/2026/06/LineShine.avif?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There is a phenomenon where as you get older, your sense of scale becomes somewhat fixed in the earlier era that shaped you&#8211; things like expecting the Dollar Store to <a class=\"read-more\" href=\"https://hackaday.com/2026/06/24/lineshine-is-fastest-supercomputer-at-over-2-exaflops/\">&#8230;read more</a>"
   },
   {
+    "title": "Quectel FCM365X dual-band WiFi 6, BLE 5.4, 802.15.4 IoT module features NXP RW612 MCU, optional PSRAM",
+    "source": "CNX Software",
+    "date": "2026-06-25",
+    "url": "https://www.cnx-software.com/2026/06/25/quectel-fcm365x-dual-band-wifi-6-ble-5-4-802-15-4-iot-module-nxp-rw612-psram/",
+    "summary": "<div><img alt=\"NXP RW612 WiFi 6 BLE 5.4 802.15.4 Quectel IoT module\" class=\"attachment-medium size-medium wp-post-image\" height=\"500\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/NXP-RW612-WiFi-6-BLE-5.4-802.15.4-Quectel-IoT-module-720x500.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Quectel FCM365X is a short-range IoT module based on NXP RW612 wireless MCU with support for dual-band Wi-Fi 6, Bluetooth Low Energy (BLE) 5.4, and 802.15.4 (Zigbee and Thread) connectivity. The compact 25.5 x 18.0mm RW612 module features 8MB flash and optional PSRAM, and operates in the -40 °C to +85 °C temperature range for demanding Smart Home and industrial IoT (IIoT) applications. The FCM365X module exposes GPIO, SDIO, UART, USB, JTAG, I2C, I2S, ADC, LCD, and PWM interfaces through its LCC+LGA package. Quectel FCM365X specifications: SoC &#8211; NXP RW612 CPU Core &#8211; Arm Cortex-M33 core @ 260 MHz with Arm TrustZone-M Memory &#8211; On-chip 1.2 MB SRAM Wireless Dual-band Wi-Fi 6 Target wake time (TWT) support Integrated Wi-Fi PA/LNA, and T/R switch Tx power &#8211; Up to 19 dBm ±2 dB Rx sensitivity &#8211; Down to -96 dBm ±2 dB AP/STA modes Security &#8211; WPA-PSK/ WPA2-PSK/ WPA3-SAE/ AES-128 Bluetooth 5.4 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/25/quectel-fcm365x-dual-band-wifi-6-ble-5-4-802-15-4-iot-module-nxp-rw612-psram/\">Quectel FCM365X dual-band WiFi 6, BLE 5.4, 802.15.4 IoT module features NXP RW612 MCU, optional PSRAM</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support",
     "source": "CNX Software",
     "date": "2026-06-25",
@@ -21,46 +35,25 @@
     "summary": "<div><img alt=\"OpenC6 BIOS for ESP32 C6\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/OpenC6-BIOS-for-ESP32-C6-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>OpenC6 BIOS is an open-source project by Rompass that takes a different approach to MCU development. It adds a BIOS-like system to the ESP32-C6, so the system part and application code can run separately rather than being combined into a single firmware image. In traditional development, hardware setup, networking, and application code are combined into a single firmware image. But the OpenC6 BIOS operates differently: it runs as the base system on the ESP32-C6 and handles hardware initialization and system functions. Instead of flashing a full application each time, it can load small payload programs separately. These payloads can run from RAM or flash (XIP) and use system functions through a simple Application Binary Interface (ABI), without needing the full firmware. In some ways, it operates like AkiraOS, but with a BIOS-like interface. Key features of the OpenC6 BIOS architecture: Dynamic CPU scaling – Adjusts CPU frequency based on load [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/25/openc6-bios-project-brings-pc-like-firmware-to-esp32-c6-mcu-with-network-boot-and-ota-support/\">OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Hynix to list in New York to raise $29 billion",
-    "source": "Electronics Weekly",
+    "title": "Flexi Velociraptor Dinosaur – New Articulation Style #3DPrinting #3DThursday",
+    "source": "Adafruit",
     "date": "2026-06-25",
-    "url": "https://www.electronicsweekly.com/news/hynix-to-list-in-new-york-to-raise-29-billion-2026-06/",
-    "summary": "<p>SK Hynix is planning to raise $29 billion on the Nasdaq  through an ADR listing led by Bank of America, Citigroup, Goldman Sachs and JPMorgan Chase. It expects to start ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/hynix-to-list-in-new-york-to-raise-29-billion-2026-06/\">Hynix to list in New York to raise $29 billion</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/06/25/flexi-velociraptor-dinosaur-new-articulation-style-3dprinting-3dthursday/",
+    "summary": "JIMGA shares: A freshly designed velociraptor with a new articulation style — sits between realistic and animated. Multiple print profiles ranging from filament-saving to AMS-optimized. Includes an optional egg model for hiding surprise dinos. By Flexi JIMGA download the files on: https://makerworld.com/en/models/2789124-flexi-velociraptor-dinosaur Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has [&#8230;]"
   },
   {
-    "title": "Qualcomm buys Modular Technologies",
-    "source": "Electronics Weekly",
+    "title": "ESP32 WLED Modern Smart Lamp #3DPrinting #3DThursday",
+    "source": "Adafruit",
     "date": "2026-06-25",
-    "url": "https://www.electronicsweekly.com/news/business/qualcomm-buys-modular-2026-06/",
-    "summary": "<p>Qualcomm is to buy AI startup Modular in an all-stock deal valued ​at around $4 billion. Qualcomm is also said to be in talks to make an $8-10 billion acquisition ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qualcomm-buys-modular-2026-06/\">Qualcomm buys Modular Technologies</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/06/25/esp32-wled-modern-smart-lamp-3dprinting-3dthursday/",
+    "summary": "emadgaidi shares: A minimalist stylish smart lamp with a cylindrical ribbed lampshade that diffuses light beautifully. Powered by an ESP32 with WLED, integrated LED strip, and 5V phone adapter input. Print the shade in white or translucent PLA/PETG for optimal diffusion. By modemoo download the files on: https://makerworld.com/en/models/1175565-esp32-wled-modern-smart-lamp Every Thursday is #3dthursday here at Adafruit! [&#8230;]"
   },
   {
-    "title": "Japan’s car makers circle the wagons",
-    "source": "Electronics Weekly",
+    "title": "Solder Spool Holder with Guide – 2 Sizes #3DPrinting #3DThursday",
+    "source": "Adafruit",
     "date": "2026-06-25",
-    "url": "https://www.electronicsweekly.com/news/business/japans-car-makers-circle-the-wagons-2026-06/",
-    "summary": "<p>Nissan, Mitsubishi Motors and Honda have entered final talks about standardising ECUs and OSes for BEVs and hybrids, and sharing factories. reports the Nikkei, Standardising the ECU would let the ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/japans-car-makers-circle-the-wagons-2026-06/\">Japan’s car makers circle the wagons</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Micron sparkles",
-    "source": "Electronics Weekly",
-    "date": "2026-06-25",
-    "url": "https://www.electronicsweekly.com/news/business/micron-2026-06/",
-    "summary": "<p>&#62;Micron beat all expectations for the quarter to the end of May, with revenue of $41.46 billion versus $23.86 billion for the prior quarter and $9.30 billion for the same ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/micron-2026-06/\">Micron sparkles</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "QuantWare and Maybell hook up to stay cool",
-    "source": "Electronics Weekly",
-    "date": "2026-06-25",
-    "url": "https://www.electronicsweekly.com/news/business/quantware-and-maybell-to-stay-cool-2026-06/",
-    "summary": "<p>QuantWare, the quantum processor company which had a $178 million Series B, has hooked up with  Maybell Quantum to ensure Maybell’s ColdCloud cooling infrastructure is compatible with and commercially available ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/quantware-and-maybell-to-stay-cool-2026-06/\">QuantWare and Maybell hook up to stay cool</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "People Largely Unworried By AI-Generated News",
-    "source": "Electronics Weekly",
-    "date": "2026-06-25",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/898512-2026-06/",
-    "summary": "<p>25-44% percent of respondents to a survey by Statista Consumer Insights in 20 countries said they would want to know if the news they read was AI-generated. The least interest ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/898512-2026-06/\">People Largely Unworried By AI-Generated News</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/06/25/solder-spool-holder-with-guide-2-sizes-3dprinting-3dthursday/",
+    "summary": "br1acc shares: A simple solder spool holder with a snap-in center shaft that rotates freely. Two sizes — small fits up to 30mm spools (58min print), large fits up to 60mm spools (1h17m). 3 pre-defined locations for optional rubber feet. By br1acc download the files on: https://makerworld.com/en/models/642009-solder-spool-holder-with-guide-2-sizes Every Thursday is #3dthursday here at Adafruit! The [&#8230;]"
   },
   {
     "title": "From the mail bag…",
@@ -103,13 +96,6 @@
     "date": "2026-06-24",
     "url": "https://hackaday.com/2026/06/24/vfd-clock-runs-on-a-single-aa/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"625\" src=\"https://hackaday.com/wp-content/uploads/2026/06/FMS4FS4MQPQJKCG_8e8839-e1782274668769.webp?w=626\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"626\" /></div>There are lots of different ways to build a clock. [Sciter_] came into the possession of some old calculator parts, and decided to reuse them for just such a project. <a class=\"read-more\" href=\"https://hackaday.com/2026/06/24/vfd-clock-runs-on-a-single-aa/\">&#8230;read more</a>"
-  },
-  {
-    "title": "The Trains With Rubber Tires",
-    "source": "Hackaday",
-    "date": "2026-06-24",
-    "url": "https://hackaday.com/2026/06/24/the-trains-with-rubber-tires/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/06/TrainTires.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The train was one of the game-changing inventions that defined the Industrial Age. No more would humanity rely on tempestuous animals to haul goods and passengers great distances across the <a class=\"read-more\" href=\"https://hackaday.com/2026/06/24/the-trains-with-rubber-tires/\">&#8230;read more</a>"
   },
   {
     "title": "NeoEyes NE503 – A $1199 Edge AI Camera based on Hailo-15H 20 TOPS SoC",
@@ -161,34 +147,6 @@
     "summary": "<p>For decades, progress in the electronics industry was measured primarily through advances in silicon. Faster processing, lower power consumption, greater integration, and shrinking form factors consistently pushed the industry forward and enabled entirely new categories of products and services. That model of innovation is no longer sufficient on its own. For all the technological progress [...]</p>\n<p>The post <a href=\"https://www.embedded.com/from-silicon-to-systems-reimagining-the-future-of-embedded-engineering/\">From Silicon to Systems: Reimagining the Future of Embedded Engineering</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Antenova launches Petrosa WiFi 6E/7 antenna",
-    "source": "Electronics Weekly",
-    "date": "2026-06-24",
-    "url": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/antenova-launches-petrosa-wifi-antenna-2026-06/",
-    "summary": "<p>Antenova is launching a new Wi-Fi antenna, the Petrosa (SR43W081) PIFA (Planar Inverted Antenna), which operates on a ground plane with no clearance requirements. Petrosa is compatible with WiFi 6E ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/antenova-launches-petrosa-wifi-antenna-2026-06/\">Antenova launches Petrosa WiFi 6E/7 antenna</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Terrestrial vs Space Debate For Datacentres",
-    "source": "Electronics Weekly",
-    "date": "2026-06-24",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/terrestrial-vs-space-debate-for-datacentres-2026-06/",
-    "summary": "<p>Masa Son of Softbank is not so keen on Elon’s idea of putting datacentres in space, which is not surprising for someone intending to spend around  $150 billion on building ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/terrestrial-vs-space-debate-for-datacentres-2026-06/\">Terrestrial vs Space Debate For Datacentres</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Iridium 9604 module targets hybrid satellite, cellular IoT apps",
-    "source": "Electronics Weekly",
-    "date": "2026-06-24",
-    "url": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/iridium-9604-module-targets-hybrid-satellite-cellular-iot-apps-2026-06/",
-    "summary": "<p>Iridium is releasing its Iridium 9604 module and development kit for developers and OEMs building hybrid satellite, cellular, and GNSS-based IoT applications in remote or challenging environments. Built on the ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/iridium-9604-module-targets-hybrid-satellite-cellular-iot-apps-2026-06/\">Iridium 9604 module targets hybrid satellite, cellular IoT apps</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "EW BrightSparks 2025 profile: Jeremy Zolnai-Lucas, Imagination Technologies",
-    "source": "Electronics Weekly",
-    "date": "2026-06-24",
-    "url": "https://www.electronicsweekly.com/news/ew-brightsparks-2025-profile-jeremy-zolnai-lucas-imagination-technologies-2026-06/",
-    "summary": "<p>Now in its eighth year, the EW BrightSparks awards see Electronics Weekly celebrate some of the brightest and most talented young engineers in the UK today. In the next in ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/ew-brightsparks-2025-profile-jeremy-zolnai-lucas-imagination-technologies-2026-06/\">EW BrightSparks 2025 profile: Jeremy Zolnai-Lucas, Imagination Technologies</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "JLink JTAG access on the Pinecil soldering iron",
     "source": "Adafruit",
     "date": "2026-06-24",
@@ -236,27 +194,6 @@
     "date": "2026-06-24",
     "url": "https://blog.adafruit.com/2026/06/24/a-python-tool-to-quickly-prototype-adafruit-gfx-displays-in-python/",
     "summary": "pydafruit_gfx is a Python tool to quickly prototype Adafruit GFX displays in Python by hackster.io user mars91. I find it frustrating when building a display (with Arduino + hardware), you have to: flash the board, a cable can go bad, a wire pops loose, or the board can decides to brick itself. I end up [&#8230;]"
-  },
-  {
-    "title": "Don’t Trash Your Old Meta Portal: How to Turn It Into a Custom Smart Home Hub",
-    "source": "Adafruit",
-    "date": "2026-06-24",
-    "url": "https://blog.adafruit.com/2026/06/24/dont-trash-your-old-meta-portal-how-to-turn-it-into-a-custom-smart-home-hub/",
-    "summary": "Meta has unexpectedly breathed new life into its legacy Portal hardware by quietly unlocking ADB (Android Debug Bridge) developer access across the entire product lineup. In a recent video update posted by Meta CTO Andrew &#8220;Boz&#8221; Bosworth on his Facebook Profile, he showcased a custom smart home hub he &#8220;vibe coded&#8221; using modern AI tools. [&#8230;]"
-  },
-  {
-    "title": "A practical analysis of the PlayStation architecture",
-    "source": "Adafruit",
-    "date": "2026-06-24",
-    "url": "https://blog.adafruit.com/2026/06/24/a-practical-analysis-of-the-playstation-architecture/",
-    "summary": "Rodrigo Copetti analyzes the PlayStation architecture: Sony knew that 3D hardware could get very messy to develop for. Thus, their debuting console will keep its design simple and practical… Although this may come at a cost! (The Playstation uses the) Sony CXD8530BQ, one of the two big chips this console houses. It’s what we would call a ‘System-on-Chip’ [&#8230;]"
-  },
-  {
-    "title": "CircuitPython 10.3.0-alpha.3 Released!",
-    "source": "Adafruit",
-    "date": "2026-06-24",
-    "url": "https://blog.adafruit.com/2026/06/24/circuitpython-10-3-0-alpha-3-released/",
-    "summary": "From the GitHub release page: This is CircuitPython 10.3.0-alpha.3, an alpha release for 10.3.0. Further features, changes, and bug fixes will be added before the final release of 10.3.0. Highlights of this release Add usb_audio.USBMicrophone and usb_audio.USBSpeaker, which provide audio source and sink USB devices. Add audiospeed.Resampler. Add audio_i2sin input audio stream; supported only on [&#8230;]"
   },
   {
     "title": "Analytical Components International (ACI) Expands HPLC Portfolio with Premium Check Valves for Liquid Chromatography Systems",
@@ -376,13 +313,6 @@
     "date": "2026-06-22",
     "url": "https://www.cnx-software.com/2026/06/22/optocam-zero-a-raspberry-pi-zero-2-w-based-diy-digital-camera/",
     "summary": "<div><img alt=\"Optocam Zero\" class=\"attachment-medium size-medium wp-post-image\" height=\"529\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Optocam-Zero-720x529.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Inspired by Kodak Charmera and similar toy cameras, the Optocam Zero is a Raspberry Pi Zero 2 W-based DIY digital camera made of off-the-shelf components and 3D-printed parts. It connects the Pi Zero 2 W SBC with a Raspberry Pi Camera Module 3, a 1.3-inch LCD, a 14500 Li-Ion battery holder, and other components. The camera supports autofocus, eight photo filters, USB-C charging, and lasts 70 to 80 minutes on a charge. Optocam Zero camera key features: Based on Raspberry Pi Zero 2 W SBC Display 1.3-inch LCD with 240 x 240 resolution 15–20 FPS camera preview on the screen. Screen dimming when inactive to preserve battery Camera features 2592 x 2592 JPEG image capture. GIF recording and playback support. Autofocus support 8 photo filters included. Misc Image transfer through custom hotspot interface. Fully 3D printed case parts 3D printable TPU protective sleeve and lanyard design is available. 22-second boot [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/22/optocam-zero-a-raspberry-pi-zero-2-w-based-diy-digital-camera/\">Optocam Zero &#8211; A Raspberry Pi Zero 2 W-based DIY digital camera</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "ST VL53L9CX direct Time-of-Flight 3D LiDAR supports 5cm to 9m range, 2.3K zones resolution",
-    "source": "CNX Software",
-    "date": "2026-06-22",
-    "url": "https://www.cnx-software.com/2026/06/22/st-vl53l9cx-direct-time-of-flight-3d-lidar-supports-5cm-to-9m-range-2-3k-zones-resolution/",
-    "summary": "<div><img alt=\"ST VL53L9CX direct Time-of-Flight 3D LiDAR\" class=\"attachment-medium size-medium wp-post-image\" height=\"438\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/ST-VL53L9CX-direct-Time-of-Flight-3D-LiDAR-720x438.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>STMicroelectronics VL53L9CX, or VL53L9 for short, is the company&#8217;s first direct Time-of-Flight (dToF) 3D LiDAR all-in-one module. It offers a sensing range of  5 centimeters to 9 meters, a wide 72º field of view, a resolution of 2.3K zones, and up to 100 Hz frame rate. ST&#8217;s ToF sensors have gone a long way since we covered the VL53L0X sensor with a single zone and 2-meter range in 2017. Since then, the company has steadily improved its tiny ToF sensors with up to 64 zones and long range in recent sensors like the VL53L8CP. While the VL53L9CX is still tiny at 12.8 x 6.1 x 4.6 mm, it&#8217;s in a class of its own, acting like a mini 3D scanner with 2268 zones, and will be used for a range of applications in robotics, industrial automation, smart buildings, AR/VR, and healthcare. ST VL53L9CX 3D ToF camera module specifications: Multizone ranging [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/22/st-vl53l9cx-direct-time-of-flight-3d-lidar-supports-5cm-to-9m-range-2-3k-zones-resolution/\">ST VL53L9CX direct Time-of-Flight 3D LiDAR supports 5cm to 9m range, 2.3K zones resolution</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Partnerships to Drive WBG Semiconductor Innovations",

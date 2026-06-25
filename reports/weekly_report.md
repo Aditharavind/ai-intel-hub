@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-25 05:54 UTC
+Generated: 2026-06-25 08:43 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-06-25 05:54 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81905 | 32762.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61535 | 24614.1 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29856 | 11942.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15947 | 6378.9 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15350 | 6140.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| Developer-Y/cs-video-courses | 81906 | 32762.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61538 | 24615.3 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29857 | 11942.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15949 | 6379.7 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15351 | 6140.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| anikitakis/vla_so101_pick_n_place_full_expert | 955 | 286.6 | [link](https://huggingface.co/anikitakis/vla_so101_pick_n_place_full_expert) |
 | IffYuan/Embodied-R1.5 | 614 | 184.3 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 207 | 63.6 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 201 | 61.8 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
 | BrinqAI/functiongemma-270m-physical-ai | 142 | 42.7 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
+| physicalairi/pi05_ur3e_pick_red_drop_blue | 100 | 30.1 | [link](https://huggingface.co/physicalairi/pi05_ur3e_pick_red_drop_blue) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-06-25 05:54 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-06-25 | U.S. Startup Deploys Military Humanoid Robots to Ukraine War Zones - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVVpaX1JDYnZsM2hseHQxLUtXV1VjdEhrdGZoR0ozM0xObnh6ZjRKRVZWXzNSZ2phRE9CU3ptWFkzTzVvUFVkM19Qb084ZDYxbDF2SEswRnVuOTdsQlNmb0h3NHFaTjJKSUdiUFFjanpZT2ZFalhEWHpNXzZnZXA2a2FCY0FOS0lI?oc=5) |
 | 2026-06-24 | Physical AI Development Platforms - Trend Hunter | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aVnNjV3kxUWJJczNTME5FZ1hJYWNCNmM0LV9ndUIyLW1tbXIwVkgtSG9POE5XTEFZcFludmJqcFZxM203QWN1N210UmNNd1RKc1pXTXh6WXZOaHQ1SXV1TlhNaWw4ajTSAWdBVV95cUxPWlZzY1d5MVFiSXMzUzBORWdYSWFjQjZjNC1fZ3VCMi1tbW1yMFZILUhvTzhOV0xBWXBZbnZianBWcTNtN0FjdTdtdFJjTXdUSnNaV014ell2Tmh0NUl1dU5YTWlsOGo0?oc=5) |
 | 2026-06-24 | Limitless Labs Raises $20M to Expand Physical AI - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNS3ZJVFlfVVZHSk5vMW1mcmItY0ZLNDVqamtxOG12R3F0REdWS1FiaVJGU3pueXhveUV6eXlKNnRFQWdoTVlpSTVFczBDSUk2eHBsUEdjMzlaOWRoT0tfZnBRYUluUXUzeGdvak9MX2puOWVLSHhrd0lTd0MteFQ5X09rdUNaOFBZbC00aUR5bmdDeVE?oc=5) |
 | 2026-06-24 | Agility Robotics is headed to Wall Street - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
-| 2026-06-23 | Hyphen and Motoniq Partner to Bring Physical AI to Intelligent Food Automation - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFUwQ1JPcDZ1VF9aLVNCcnNPYlpaSU5kN3ZMOWZCalBYRE5sWGlyc2kxLU5OV2cyU1N4NWt1NmtPbWNEa19SaVozNVZ6UThHcGxpWC1UMjJ3UFhUWDlpUkl5QTdWOFFMWlk0VmFpZ0NJM2YtSEVxZzFyOU8tTFFmeml2SUwzdkJld25KTmFxMG5CY1lXN3JpTnpaa2txWVNMUGlzbzdpZWQweTVzMm83dUhhS0Z1UEhfSktWX1B6TnlwRURxeWpDbkUzOFZwNzhw?oc=5) |
-| 2026-06-23 | Krafton bets $33 mn on AI chip startup in physical AI push - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZVBuQ0VKbTdoaGw0UEhmLTZUTVdMS2xJQXR3NGYxYlB1MnpSUll0WE8xX0Qzb3NnRFM0X2RrMFA5TU4xTjI1ZWVTTFZoQnh4alZWWHVvOURROTlPRjBodDFqblduLWE5T3JManA5bFA?oc=5) |
+| 2026-06-24 | Suppliers eye $5 trillion humanoid robot market despite value-capture concerns - Automotive News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxObGVxNml3RWRkVUludndlcmQ5SWJ1WVNEM1BnS0g0TlA2SThIdkRlc1U5bGFaa0x3VW13MWs2djNTdzZUNTZfUG5ILUNaVjJGNFNuUGdWQ1RVdkxmUXJsOG5uY1ZhRHVmLWdCUl9nblF0Y1VWcFgtV21HZ2RTejBULVZtdUd0VXlpOElhMG1XVVVCYy1FYnVENUZqdVc?oc=5) |
