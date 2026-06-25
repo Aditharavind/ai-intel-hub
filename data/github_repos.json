@@ -21,43 +21,43 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 81913,
+    "stars": 81919,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-06-25",
     "topic": "robotics",
-    "score": 32765.3
+    "score": 32767.7
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 61556,
+    "stars": 61564,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-06-25",
     "topic": "robotics",
-    "score": 24622.5
+    "score": 24625.7
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15355,
+    "stars": 15356,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-06-25",
     "topic": "robotics",
-    "score": 6142.1
+    "score": 6142.5
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 13984,
+    "stars": 13987,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-06-25",
     "topic": "robotics",
-    "score": 5593.7
+    "score": 5594.9
   },
   {
     "repo": "rerun-io/rerun",
@@ -71,33 +71,33 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7531,
+    "stars": 7532,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-06-25",
     "topic": "robot-learning",
-    "score": 3012.5
+    "score": 3012.9
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 6922,
+    "stars": 6925,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-06-25",
     "topic": "robotics",
-    "score": 2768.9
+    "score": 2770.1
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 3899,
+    "stars": 3900,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-06-25",
     "topic": "embodied-ai",
-    "score": 1559.7
+    "score": 1560.1
   },
   {
     "repo": "dora-rs/dora",
@@ -131,13 +131,13 @@
   },
   {
     "repo": "starVLA/starVLA",
-    "stars": 2936,
+    "stars": 2937,
     "language": "Python",
     "description": "StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing",
     "url": "https://github.com/starVLA/starVLA",
     "date": "2026-06-25",
     "topic": "vla",
-    "score": 1174.5
+    "score": 1174.9
   },
   {
     "repo": "dexmal/dexbotic",
@@ -161,13 +161,13 @@
   },
   {
     "repo": "sou350121/VLA-Handbook",
-    "stars": 321,
+    "stars": 322,
     "language": "HTML",
     "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
     "url": "https://github.com/sou350121/VLA-Handbook",
     "date": "2026-06-25",
     "topic": "robot-learning",
-    "score": 128.5
+    "score": 128.9
   },
   {
     "repo": "vllm-project/vllm-omni",
@@ -181,13 +181,13 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 1941,
+    "stars": 1942,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-06-25",
     "topic": "world-model",
-    "score": 776.5
+    "score": 776.9
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -211,13 +211,13 @@
   },
   {
     "repo": "robocasa/robocasa",
-    "stars": 1490,
+    "stars": 1491,
     "language": "Python",
     "description": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
     "url": "https://github.com/robocasa/robocasa",
     "date": "2026-06-25",
     "topic": "robot-learning",
-    "score": 596.1
+    "score": 596.5
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",
@@ -248,6 +248,16 @@
     "date": "2026-06-25",
     "topic": "robot-learning",
     "score": 73.3
+  },
+  {
+    "repo": "roboninecom/SO-ARM100-101-Parallel-Gripper",
+    "stars": 134,
+    "language": "Python",
+    "description": "3D-printed parallel gripper compatible with Feetech STS3215 and Waveshare ST3215 servos. Ready-to-use solution for the SO-ARM 100/SO-ARM 101.",
+    "url": "https://github.com/roboninecom/SO-ARM100-101-Parallel-Gripper",
+    "date": "2026-06-25",
+    "topic": "lerobot",
+    "score": 53.7
   },
   {
     "repo": "strands-labs/robots",
@@ -281,13 +291,13 @@
   },
   {
     "repo": "keon/awesome-physical-ai",
-    "stars": 321,
+    "stars": 322,
     "language": "",
     "description": "A curated list of academic papers and resources on Physical AI — focusing on Vision-Language-Action (VLA) models, world models, embodied ai, and robotic foundation models.",
     "url": "https://github.com/keon/awesome-physical-ai",
     "date": "2026-06-24",
     "topic": "vla",
-    "score": 128.5
+    "score": 128.9
   },
   {
     "repo": "kornia/kornia",
@@ -411,13 +421,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 29859,
+    "stars": 29860,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-06-22",
     "topic": "robotics",
-    "score": 11943.7
+    "score": 11944.1
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -571,23 +581,23 @@
   },
   {
     "repo": "botbotrobotics/BotBrain",
-    "stars": 226,
+    "stars": 227,
     "language": "TypeScript",
     "description": "Modular open-source brain for legged robots. Web UI for teleops, autonomous navigation, mapping & monitoring. 3D-printable hardware that runs on ROS2.",
     "url": "https://github.com/botbotrobotics/BotBrain",
     "date": "2026-06-16",
     "topic": "humanoid",
-    "score": 90.5
+    "score": 90.9
   },
   {
     "repo": "PathOn-AI/pathon_opensource",
-    "stars": 119,
+    "stars": 120,
     "language": "Python",
     "description": "Collection of Materials on building and controlling real robots",
     "url": "https://github.com/PathOn-AI/pathon_opensource",
     "date": "2026-06-16",
     "topic": "lerobot",
-    "score": 47.7
+    "score": 48.1
   },
   {
     "repo": "aaronsu11/Dum-E",
@@ -651,13 +661,13 @@
   },
   {
     "repo": "nik-55/world-models",
-    "stars": 160,
+    "stars": 161,
     "language": "",
     "description": "A curated list of research and projects on world models",
     "url": "https://github.com/nik-55/world-models",
     "date": "2026-06-11",
     "topic": "physical-ai",
-    "score": 64.1
+    "score": 64.5
   },
   {
     "repo": "Robbyant/lingbot-vla",
@@ -761,23 +771,23 @@
   },
   {
     "repo": "ldt29/HAIC",
-    "stars": 48,
+    "stars": 49,
     "language": "Python",
     "description": "[RSS 2026] HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model",
     "url": "https://github.com/ldt29/HAIC",
     "date": "2026-06-10",
     "topic": "humanoid",
-    "score": 19.3
+    "score": 19.7
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 1574,
+    "stars": 1580,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-05",
     "topic": "robot-learning",
-    "score": 629.7
+    "score": 632.1
   },
   {
     "repo": "NVIDIA-Omniverse/ovrtx",
@@ -818,16 +828,6 @@
     "date": "2026-06-03",
     "topic": "humanoid",
     "score": 258.1
-  },
-  {
-    "repo": "roboninecom/SO-ARM100-101-Parallel-Gripper",
-    "stars": 134,
-    "language": "Python",
-    "description": "3D-printed parallel gripper compatible with Feetech STS3215 and Waveshare ST3215 servos. Ready-to-use solution for the SO-ARM 100/SO-ARM 101.",
-    "url": "https://github.com/roboninecom/SO-ARM100-101-Parallel-Gripper",
-    "date": "2026-06-01",
-    "topic": "lerobot",
-    "score": 53.7
   },
   {
     "repo": "Tencent-Hunyuan/HunyuanWorld-Mirror",
