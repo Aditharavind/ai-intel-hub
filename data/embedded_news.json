@@ -49,6 +49,27 @@
     "summary": "<div><img alt=\"OpenC6 BIOS for ESP32 C6\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/OpenC6-BIOS-for-ESP32-C6-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>OpenC6 BIOS is an open-source project by Rompass that takes a different approach to MCU development. It adds a BIOS-like system to the ESP32-C6, so the system part and application code can run separately rather than being combined into a single firmware image. In traditional development, hardware setup, networking, and application code are combined into a single firmware image. But the OpenC6 BIOS operates differently: it runs as the base system on the ESP32-C6 and handles hardware initialization and system functions. Instead of flashing a full application each time, it can load small payload programs separately. These payloads can run from RAM or flash (XIP) and use system functions through a simple Application Binary Interface (ABI), without needing the full firmware. In some ways, it operates like AkiraOS, but with a BIOS-like interface. Key features of the OpenC6 BIOS architecture: Dynamic CPU scaling – Adjusts CPU frequency based on load [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/25/openc6-bios-project-brings-pc-like-firmware-to-esp32-c6-mcu-with-network-boot-and-ota-support/\">OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Iridium Development Kit Accelerates Hybrid IoT Design",
+    "source": "Embedded.com",
+    "date": "2026-06-25",
+    "url": "https://www.embedded.com/iridium-development-kit-accelerates-hybrid-iot-design/",
+    "summary": "<p>Iridium Communications has announced the commercial availability of the Iridium 9604 module and the accompanying development kit, expanding its internet of things (IoT) portfolio with a hybrid connectivity solution that integrates satellite, cellular, and positioning technologies into a single compact platform. The new products are designed to simplify the development of globally connected IoT devices [...]</p>\n<p>The post <a href=\"https://www.embedded.com/iridium-development-kit-accelerates-hybrid-iot-design/\">Iridium Development Kit Accelerates Hybrid IoT Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
+    "source": "Electronics Weekly",
+    "date": "2026-06-25",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-06/",
+    "summary": "<p>Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-06/\">Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Viewpoint: power electronics drive EV advantages",
+    "source": "Electronics Weekly",
+    "date": "2026-06-25",
+    "url": "https://www.electronicsweekly.com/news/business/viewpoint-power-electronics-drive-ev-advantages-2026-06/",
+    "summary": "<p>Advances in power electronics are boosting efficiency in electric vehicle manufacturing, writes Chandana Patnaik. One of the most significant advances in green transport has come from power electronics. While battery ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/viewpoint-power-electronics-drive-ev-advantages-2026-06/\">Viewpoint: power electronics drive EV advantages</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "ElevationSpace raises $40m Series B for satellite re-entry",
     "source": "Electronics Weekly",
     "date": "2026-06-25",
@@ -63,18 +84,18 @@
     "summary": "<p>Sfera Labs is shipping its LTE expansion board &#8211; the M.2 LTE Module X2-Series Expansion Board (X2BW10XM2Z) &#8211; for deploying industrial edge servers in remote locations, on mobile assets, or ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/bus-systems-sbcs/lte-expansion-board-for-iiot-edge-server-2026-06/\">LTE expansion board for IIoT edge server</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Hynix to list in New York to raise $29 billion",
+    "title": "Hynix to list in New York to raise $29bn",
     "source": "Electronics Weekly",
     "date": "2026-06-25",
     "url": "https://www.electronicsweekly.com/news/hynix-to-list-in-new-york-to-raise-29-billion-2026-06/",
-    "summary": "<p>SK Hynix is planning to raise $29 billion on the Nasdaq through an ADR listing led by Bank of America, Citigroup, Goldman Sachs and JPMorgan Chase. It expects to start ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/hynix-to-list-in-new-york-to-raise-29-billion-2026-06/\">Hynix to list in New York to raise $29 billion</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>SK Hynix is planning to raise $29bn on the Nasdaq through an ADR listing led by Bank of America, Citigroup, Goldman Sachs and JPMorgan Chase. It expects to start trading ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/hynix-to-list-in-new-york-to-raise-29-billion-2026-06/\">Hynix to list in New York to raise $29bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Qualcomm buys Modular Technologies",
     "source": "Electronics Weekly",
     "date": "2026-06-25",
     "url": "https://www.electronicsweekly.com/news/business/qualcomm-buys-modular-2026-06/",
-    "summary": "<p>Qualcomm is to buy AI startup Modular in an all-stock deal valued ​at around $4 billion. Qualcomm is also said to be in talks to make an $8-10 billion acquisition ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qualcomm-buys-modular-2026-06/\">Qualcomm buys Modular Technologies</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Qualcomm is to buy AI startup Modular in an all-stock deal valued ​at around $4bn. Qualcomm is also said to be in talks to make an $8-10bn acquisition of AI ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qualcomm-buys-modular-2026-06/\">Qualcomm buys Modular Technologies</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Japan’s car makers circle the wagons",
@@ -95,7 +116,7 @@
     "source": "Electronics Weekly",
     "date": "2026-06-25",
     "url": "https://www.electronicsweekly.com/news/business/quantware-and-maybell-to-stay-cool-2026-06/",
-    "summary": "<p>QuantWare, the quantum processor company which had a $178 million Series B, has hooked up with  Maybell Quantum to ensure Maybell’s ColdCloud cooling infrastructure is compatible with and commercially available ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/quantware-and-maybell-to-stay-cool-2026-06/\">QuantWare and Maybell hook up to stay cool</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>QuantWare, the quantum processor company which had a $178m Series B, has hooked up with  Maybell Quantum to ensure Maybell’s ColdCloud cooling infrastructure is compatible with and commercially available for ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/quantware-and-maybell-to-stay-cool-2026-06/\">QuantWare and Maybell hook up to stay cool</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "People Largely Unworried By AI-Generated News",
@@ -103,6 +124,13 @@
     "date": "2026-06-25",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/898512-2026-06/",
     "summary": "<p>25-44% percent of respondents to a survey by Statista Consumer Insights in 20 countries said they would want to know if the news they read was AI-generated. The least interest ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/898512-2026-06/\">People Largely Unworried By AI-Generated News</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "A 3D-printed book turns its own G-code into raised lettering  #3dThursday",
+    "source": "Adafruit",
+    "date": "2026-06-25",
+    "url": "https://blog.adafruit.com/2026/06/25/a-3d-printed-book-turns-its-own-g-code-into-raised-lettering-3dthursday/",
+    "summary": "Developed by Studio Darius Ou with Benson Chong, Manual is a fully 3D-printed book that carries part of the machine code used to fabricate its own body. The object arrives with a strange directness. Its pages, binding, and raised marks are produced in one printing sequence, so the book comes off the print bed already formed. There [&#8230;]"
   },
   {
     "title": "BIG Spiral Lamp (WLED) #3DPrinting #3DThursday",
@@ -152,6 +180,27 @@
     "date": "2026-06-25",
     "url": "https://blog.adafruit.com/2026/06/24/chris-young-announces-his-retirement-after-14-years-and-55-show-and-tell-appearances/",
     "summary": "Chris Young announces his retirement after 14 years and 55+ Show and Tell appearances &#8211; thank you Chris (video)."
+  },
+  {
+    "title": "New HE-S SC relay series offers latest IEC 62955 compliance for next-generation single-phase EV charging systems",
+    "source": "EE Journal",
+    "date": "2026-06-25",
+    "url": "https://www.eejournal.com/industry_news/new-he-s-sc-relay-series-offers-latest-iec-62955-compliance-for-next-generation-single-phase-ev-charging-systems/",
+    "summary": "Panasonic Industry today announced its new compact HE-S SC 2a and HE-S SC 2a1b PCB relay series, specifically developed for single-phase EV charging systems and wallbox applications. The new relay series is already fully compliant with the upcoming European short-circuit test in the standard IEC 62955, which becomes mandatory in Q4 2028. The HE-S SC &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/new-he-s-sc-relay-series-offers-latest-iec-62955-compliance-for-next-generation-single-phase-ev-charging-systems/\">Read More &#8594;<span class=\"screen-reader-text\"> \"New HE-S SC relay series offers latest IEC 62955 compliance for next-generation single-phase EV charging systems\"</span></a>"
+  },
+  {
+    "title": "Impulse Embedded Supports Industrial Edge Projects with AAEON BOXER-6648-ARS Series",
+    "source": "EE Journal",
+    "date": "2026-06-25",
+    "url": "https://www.eejournal.com/industry_news/impulse-embedded-supports-industrial-edge-projects-with-aaeon-boxer-6648-ars-series/",
+    "summary": "Impulse Embedded Ltd, a leading UK provider of industrial computing solutions, is helping UK customers specify the AAEON BOXER-6648-ARS Series, a compact fanless embedded computer range powered by Intel Core Ultra Processors Series 2. The BOXER-6648-ARS Series is built for industrial edge computing, machine vision, automation, virtualisation and control applications. It combines high-performance processing with a &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/impulse-embedded-supports-industrial-edge-projects-with-aaeon-boxer-6648-ars-series/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Impulse Embedded Supports Industrial Edge Projects with AAEON BOXER-6648-ARS Series\"</span></a>"
+  },
+  {
+    "title": "Saelig Unveils Flagship Rigol DG70000 Series Arbitrary Waveform Generators for Next-Generation High-Frequency Testing",
+    "source": "EE Journal",
+    "date": "2026-06-25",
+    "url": "https://www.eejournal.com/industry_news/saelig-unveils-flagship-rigol-dg70000-series-arbitrary-waveform-generators-for-next-generation-high-frequency-testing/",
+    "summary": "The Rigol DG70000 Series from Saelig sets new industry standards for high-performance arbitrary waveform generators. With a remarkable 12GSa/s sampling rate and 5GHz analog bandwidth, the DG70000 series delivers the highest fidelity signals for even the most demanding applications. Saelig Company, Inc. has introduced the Rigol Technologies DG70000 Series Arbitrary Waveform Generators (AWGs), establishing a new performance &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/saelig-unveils-flagship-rigol-dg70000-series-arbitrary-waveform-generators-for-next-generation-high-frequency-testing/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Saelig Unveils Flagship Rigol DG70000 Series Arbitrary Waveform Generators for Next-Generation High-Frequency Testing\"</span></a>"
   },
   {
     "title": "Space Isn’t What It Used to Be: The Final Frontier Has Gone Commercial",
@@ -231,20 +280,6 @@
     "summary": "<p>For decades, progress in the electronics industry was measured primarily through advances in silicon. Faster processing, lower power consumption, greater integration, and shrinking form factors consistently pushed the industry forward and enabled entirely new categories of products and services. That model of innovation is no longer sufficient on its own. For all the technological progress [...]</p>\n<p>The post <a href=\"https://www.embedded.com/from-silicon-to-systems-reimagining-the-future-of-embedded-engineering/\">From Silicon to Systems: Reimagining the Future of Embedded Engineering</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Antenova launches Petrosa WiFi 6E/7 antenna",
-    "source": "Electronics Weekly",
-    "date": "2026-06-24",
-    "url": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/antenova-launches-petrosa-wifi-antenna-2026-06/",
-    "summary": "<p>Antenova is launching a new Wi-Fi antenna, the Petrosa (SR43W081) PIFA (Planar Inverted Antenna), which operates on a ground plane with no clearance requirements. Petrosa is compatible with WiFi 6E ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/antenova-launches-petrosa-wifi-antenna-2026-06/\">Antenova launches Petrosa WiFi 6E/7 antenna</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Terrestrial vs Space Debate For Datacentres",
-    "source": "Electronics Weekly",
-    "date": "2026-06-24",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/terrestrial-vs-space-debate-for-datacentres-2026-06/",
-    "summary": "<p>Masa Son of Softbank is not so keen on Elon’s idea of putting datacentres in space, which is not surprising for someone intending to spend around  $150 billion on building ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/terrestrial-vs-space-debate-for-datacentres-2026-06/\">Terrestrial vs Space Debate For Datacentres</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "JLink JTAG access on the Pinecil soldering iron",
     "source": "Adafruit",
     "date": "2026-06-24",
@@ -271,13 +306,6 @@
     "date": "2026-06-24",
     "url": "https://blog.adafruit.com/2026/06/24/digital-analog-watch-wearablewednesday-raspberrypi/",
     "summary": "Sahko is rethinking the wristwatch (again). This fun wearable uses an analog meter to create a digital time piece with no traditional screen or ticking hands. Built around a Raspberry Pi Pico and features USB-C Charging with a milled aluminum case. Full details via GitHub: It&#8217;s a watch. Technically. A Raspberry Pi Pico reads the [&#8230;]"
-  },
-  {
-    "title": "Projecting the aircraft passing overhead onto your ceiling, in real time",
-    "source": "Adafruit",
-    "date": "2026-06-24",
-    "url": "https://blog.adafruit.com/2026/06/24/projecting-the-aircraft-passing-overhead-onto-your-ceiling-in-real-time/",
-    "summary": "Skylight decodes ADS-B from a cheap RTL-SDR radio and renders the planes physically flying over you onto a ceiling-pointed projector. A jet you&#8217;d hear overhead glides across your ceiling at the same moment &#8211; labeled with its airline, type, and where it&#8217;s headed. Pure-black background so the projector&#8217;s rectangle disappears and only the aircraft (and [&#8230;]"
   },
   {
     "title": "Analytical Components International (ACI) Expands HPLC Portfolio with Premium Check Valves for Liquid Chromatography Systems",
@@ -364,27 +392,6 @@
     "summary": "In this episode of Chalk Talk, Nebu Philips from Synaptics and Amelia Dalton explore Synaptics&#8217; vision for Edge AI, discuss the Astra Machina evaluation platform, examine the Torq Edge AI ecosystem, and look at how partnerships with companies like Google are helping build the next generation of intelligent IoT devices. Click here for more information &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/chalk_talks/shaping-the-edge-ai-standard-for-iot-compute-synaptics-and-mouser/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Shaping the Edge AI Standard for IoT Compute – Synaptics and Mouser Electronics\"</span></a>"
   },
   {
-    "title": "Fish Fry Special Edition: 2026 International Women in Engineering Day",
-    "source": "EE Journal",
-    "date": "2026-06-23",
-    "url": "https://www.eejournal.com/fish_fry/fish-fry-special-edition-2026-international-women-in-engineering-day/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/06/AD-062326.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />Welcome to our third annual International Women in Engineering Day Fish Fry podcast! My special guests are Laura Mirkarimi from Adeia, Angelica Davila from Penguin Solutions, and Madison Ecklund from Texas Instruments. In this special episode of Fish Fry, we discuss their journeys into the world of high tech, examine how the EE landscape has &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/fish_fry/fish-fry-special-edition-2026-international-women-in-engineering-day/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Fish Fry Special Edition: 2026 International Women in Engineering Day\"</span></a>"
-  },
-  {
-    "title": "STMicroelectronics unveils new compact direct Time-of-Flight 3D LiDAR module bringing high-resolution spatial awareness to compact edge AI systems with industry-leading resolution and performance",
-    "source": "EE Journal",
-    "date": "2026-06-23",
-    "url": "https://www.eejournal.com/industry_news/stmicroelectronics-unveils-new-compact-direct-time-of-flight-3d-lidar-module-bringing-high-resolution-spatial-awareness-to-compact-edge-ai-systems-with-industry-leading-resolution-and-performance/",
-    "summary": "VL53L9 is the first direct Time-of-Flight (dToF) 3D LiDAR all-in-one module in ST’s portfolio, offering a resolution of 2.3K zones, wide field of view, on-chip processing, 100 frames per second, and sensing range from 5 centimeters to 9 meters. Designed to meet the evolving needs of customers and partners across diverse industries, including robotics, industrial automation, smart buildings, AR/VR, and &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/stmicroelectronics-unveils-new-compact-direct-time-of-flight-3d-lidar-module-bringing-high-resolution-spatial-awareness-to-compact-edge-ai-systems-with-industry-leading-resolution-and-performance/\">Read More &#8594;<span class=\"screen-reader-text\"> \"STMicroelectronics unveils new compact direct Time-of-Flight 3D LiDAR module bringing high-resolution spatial awareness to compact edge AI systems with industry-leading resolution and performance\"</span></a>"
-  },
-  {
-    "title": "Infineon launches cloud-based virtual platform powered by AWS to accelerate automotive microcontroller evaluation",
-    "source": "EE Journal",
-    "date": "2026-06-23",
-    "url": "https://www.eejournal.com/industry_news/infineon-launches-cloud-based-virtual-platform-powered-by-aws-to-accelerate-automotive-microcontroller-evaluation/",
-    "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) is collaborating with Amazon Web Services (AWS) to accelerate microcontroller (MCU) evaluation to shorten development cycles for automotive systems. As part of this collaboration, Infineon is launching a cloud-based platform for virtual evaluation of Infineon automotive MCUs, powered by AWS. The new platform removes dependency on physical &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/infineon-launches-cloud-based-virtual-platform-powered-by-aws-to-accelerate-automotive-microcontroller-evaluation/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Infineon launches cloud-based virtual platform powered by AWS to accelerate automotive microcontroller evaluation\"</span></a>"
-  },
-  {
     "title": "Partnerships to Drive WBG Semiconductor Innovations",
     "source": "Embedded.com",
     "date": "2026-06-22",
@@ -418,12 +425,5 @@
     "date": "2026-06-18",
     "url": "https://www.embedded.com/what-level-5-autonomy-could-mean-for-chip-design-engineers/",
     "summary": "<p>Cadence Design Systems Inc. introduced its Level 5 ChipStack AI Super Agent at Computex 2026. The company describes it as the industry's first fully autonomous virtual agentic AI design engineer for chip design. The release builds on the recent announcement of Level 4 autonomy in electronic design automation (EDA). Cadence said the rapid transition to [...]</p>\n<p>The post <a href=\"https://www.embedded.com/what-level-5-autonomy-could-mean-for-chip-design-engineers/\">What Level 5 Autonomy Could Mean for Chip Design Engineers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Synopsys Launches Multiphysics Fusion Solutions",
-    "source": "Embedded.com",
-    "date": "2026-06-18",
-    "url": "https://www.embedded.com/synopsys-launches-multiphysics-fusion-solutions/",
-    "summary": "<p>Synopsys Inc. has announced the availability of its first Multiphysics Fusion solutions, a new family of electronic design automation (EDA) tools that integrates multiphysics analysis directly into key semiconductor design workflows. The portfolio combines Synopsys' AI-enabled EDA technologies with signoff analysis technologies acquired through Ansys, addressing the growing design challenges associated with advanced process nodes, [...]</p>\n<p>The post <a href=\"https://www.embedded.com/synopsys-launches-multiphysics-fusion-solutions/\">Synopsys Launches Multiphysics Fusion Solutions</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]

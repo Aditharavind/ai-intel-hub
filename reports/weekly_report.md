@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-25 11:30 UTC
+Generated: 2026-06-25 13:54 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-06-25 11:30 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81909 | 32763.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61538 | 24615.3 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29858 | 11943.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 81907 | 32762.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61544 | 24617.7 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29859 | 11943.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15946 | 6378.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15352 | 6140.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15353 | 6141.3 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -43,6 +43,6 @@ Generated: 2026-06-25 11:30 UTC
 | --- | --- | --- | --- |
 | 2026-06-25 | Prometheus: Jeff Bezos’ AI for the Physical World - quasa.io | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE1tQ2RVaGE2Z0lVVTMzbHk3NlFBMVRRRm1pNTVobGdYdTdrUXJxalJRTmNmTHdyVDVaRF91YUN0TWtkUTluUjdRVlVibl83WTdISzhQemxBWHFNbVlpUW1aRTdjbmZDZWFzRmtKRndFWGxMb2UwMWdHUnlR?oc=5) |
 | 2026-06-25 | U.S. Startup Deploys Military Humanoid Robots to Ukraine War Zones - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVVpaX1JDYnZsM2hseHQxLUtXV1VjdEhrdGZoR0ozM0xObnh6ZjRKRVZWXzNSZ2phRE9CU3ptWFkzTzVvUFVkM19Qb084ZDYxbDF2SEswRnVuOTdsQlNmb0h3NHFaTjJKSUdiUFFjanpZT2ZFalhEWHpNXzZnZXA2a2FCY0FOS0lI?oc=5) |
-| 2026-06-25 | Delivery robot startup Robot.com is betting its next act on workplace humanoids - MSN | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxNMzdKMUdyZVdVRW9oemkwUURKUms2NHQ3bzNmbW9IeHI4djFIV1NQRkd4cG1lYUp2bW5MMGZabjJweGxYZUJTU0U5Ym9McUdyUUxJY2JNT0pHbEZxSXl4TUN5emVsdWtFd2pISmlKSE1fbGJYbzI3OFFSa1FCNDVKRHFKbkRHSzgxX2ROaEVXQm03VEppM0U3S3g1ano4TkFuTjN5WnF6UHU3UXNSb2FPcjB3UmZ4bVZnRWF6al9ELVdobzI5cmdYSXZDZjFyZw?oc=5) |
 | 2026-06-24 | Physical AI Development Platforms - Trend Hunter | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aVnNjV3kxUWJJczNTME5FZ1hJYWNCNmM0LV9ndUIyLW1tbXIwVkgtSG9POE5XTEFZcFludmJqcFZxM203QWN1N210UmNNd1RKc1pXTXh6WXZOaHQ1SXV1TlhNaWw4ajTSAWdBVV95cUxPWlZzY1d5MVFiSXMzUzBORWdYSWFjQjZjNC1fZ3VCMi1tbW1yMFZILUhvTzhOV0xBWXBZbnZianBWcTNtN0FjdTdtdFJjTXdUSnNaV014ell2Tmh0NUl1dU5YTWlsOGo0?oc=5) |
 | 2026-06-24 | Limitless Labs Raises $20M to Expand Physical AI - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNS3ZJVFlfVVZHSk5vMW1mcmItY0ZLNDVqamtxOG12R3F0REdWS1FiaVJGU3pueXhveUV6eXlKNnRFQWdoTVlpSTVFczBDSUk2eHBsUEdjMzlaOWRoT0tfZnBRYUluUXUzeGdvak9MX2puOWVLSHhrd0lTd0MteFQ5X09rdUNaOFBZbC00aUR5bmdDeVE?oc=5) |
+| 2026-06-24 | Agility Robotics is headed to Wall Street - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |

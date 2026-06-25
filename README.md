@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-25 11:30 UTC
+Last Updated: 2026-06-25 13:54 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -34,6 +34,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-25 | ARM Institute expands RoboticsCareer.org into physical AI | Robotics Business Review | [link](https://www.therobotreport.com/arm-institute-launches-physical-ai-focused-expansion-roboticscareer-org/) |
 | 2026-06-24 | Deep dive into Arm’s physical AI and robotics strategies with Drew Henry | Robotics Business Review | [link](https://www.therobotreport.com/deep-dive-into-arms-physical-ai-and-robotics-strategies-with-drew-henry/) |
 | 2026-06-24 | Humanoid maker Agility Robotics to go public through SPAC merger | Robotics Business Review | [link](https://www.therobotreport.com/humanoid-maker-agility-robotics-go-public-through-spac-merger/) |
 | 2026-06-24 | Mantis Robotics launches dual-arm, fenceless robot | Robotics Business Review | [link](https://www.therobotreport.com/mantis-robotics-launches-dual-arm-fenceless-robot/) |
@@ -43,7 +44,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-23 | CreateMe partners with Avalo and Laguna Fabrics to bring resilience to apparel supply chains | Robotics Business Review | [link](https://www.therobotreport.com/createme-partners-with-avalo-and-laguna-fabrics-to-bring-resilience-to-apparel-supply-chains/) |
 | 2026-06-23 | Vention collaborates with FANUC and Universal Robots on software-defined automation | Robotics Business Review | [link](https://www.therobotreport.com/vention-collaborates-with-fanuc-universal-robots-software-defined-automation/) |
 | 2026-06-23 | ExRobotics launches UL-certified inspection robot for hazardous environments | Robotics Business Review | [link](https://www.therobotreport.com/exrobotics-launches-ul-certified-inspection-robot-for-hazardous-environments/) |
-| 2026-06-22 | NVIDIA releases Halos, a full-stack safety system for robotics | Robotics Business Review | [link](https://www.therobotreport.com/nvidia-releases-halos-a-full-stack-safety-system-for-robotics/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -55,9 +55,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-25 | Louder ESP32 Mini board adds WiFi and Bluetooth to old speakers for SqueezeLite, Snapclient, or ESPHome support | CNX Software | [link](https://www.cnx-software.com/2026/06/25/louder-esp32-mini-board-adds-wifi-and-bluetooth-to-old-speakers-for-squeezelite-snapclient-or-esphome-support/) |
 | 2026-06-25 | Quectel FCM365X dual-band WiFi 6, BLE 5.4, 802.15.4 IoT module features NXP RW612 MCU, optional PSRAM | CNX Software | [link](https://www.cnx-software.com/2026/06/25/quectel-fcm365x-dual-band-wifi-6-ble-5-4-802-15-4-iot-module-nxp-rw612-psram/) |
 | 2026-06-25 | OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support | CNX Software | [link](https://www.cnx-software.com/2026/06/25/openc6-bios-project-brings-pc-like-firmware-to-esp32-c6-mcu-with-network-boot-and-ota-support/) |
-| 2026-06-25 | ElevationSpace raises $40m Series B for satellite re-entry | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/finance/elevationspace-raises-40m-series-b-for-satellite-re-entry-2026-06/) |
-| 2026-06-25 | LTE expansion board for IIoT edge server | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/bus-systems-sbcs/lte-expansion-board-for-iiot-edge-server-2026-06/) |
-| 2026-06-25 | Hynix to list in New York to raise $29 billion | Electronics Weekly | [link](https://www.electronicsweekly.com/news/hynix-to-list-in-new-york-to-raise-29-billion-2026-06/) |
+| 2026-06-25 | Iridium Development Kit Accelerates Hybrid IoT Design | Embedded.com | [link](https://www.embedded.com/iridium-development-kit-accelerates-hybrid-iot-design/) |
+| 2026-06-25 | Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-06/) |
+| 2026-06-25 | Viewpoint: power electronics drive EV advantages | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/viewpoint-power-electronics-drive-ev-advantages-2026-06/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,29 +77,29 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-06-25 | pollen-robotics/wake-word-detector | 0 | 0 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
+| 2026-06-25 | LohanTS/mon-dataset-robot | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-dataset-robot) |
+| 2026-06-25 | zaleni/6B-Robotwin | 0 | 0 | [link](https://huggingface.co/zaleni/6B-Robotwin) |
 | 2026-06-25 | uuuhjb/stage1_5w_robotwin | 0 | 0 | [link](https://huggingface.co/uuuhjb/stage1_5w_robotwin) |
 | 2026-06-25 | crislmfroes/vla-jepa-libero-10 | 0 | 0 | [link](https://huggingface.co/crislmfroes/vla-jepa-libero-10) |
 | 2026-06-25 | GT-111/MemCode-VLA | 0 | 0 | [link](https://huggingface.co/GT-111/MemCode-VLA) |
+| 2026-06-25 | dontKnow23456/WAM-Policy | 0 | 0 | [link](https://huggingface.co/dontKnow23456/WAM-Policy) |
+| 2026-06-25 | sebry4n/my_policy_dot | 0 | 0 | [link](https://huggingface.co/sebry4n/my_policy_dot) |
 | 2026-06-25 | quan1328/so101_recordtest_torq_policy13_chunk15 | 0 | 0 | [link](https://huggingface.co/quan1328/so101_recordtest_torq_policy13_chunk15) |
 | 2026-06-25 | woh7539/omx_act_policy | 85 | 1 | [link](https://huggingface.co/woh7539/omx_act_policy) |
-| 2026-06-25 | vasco281204/diffusion_pick_red_policyddim | 0 | 0 | [link](https://huggingface.co/vasco281204/diffusion_pick_red_policyddim) |
-| 2026-06-25 | sebry4n/my_policy_dot | 0 | 0 | [link](https://huggingface.co/sebry4n/my_policy_dot) |
-| 2026-06-25 | 3cda2225/record2-test2_act_policy | 0 | 0 | [link](https://huggingface.co/3cda2225/record2-test2_act_policy) |
-| 2026-06-25 | yhc2222/tsp_policy_llama8b_step_r64 | 93 | 0 | [link](https://huggingface.co/yhc2222/tsp_policy_llama8b_step_r64) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | mosaico-labs/mosaico | 883 | Python | 353.3 | [link](https://github.com/mosaico-labs/mosaico) |
-| commaai/openpilot | 61538 | Python | 24615.3 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15352 | C++ | 6140.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 13983 | C++ | 5593.3 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 10983 | Rust | 4393.3 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7530 | Python | 3012.1 | [link](https://github.com/isaac-sim/IsaacLab) |
-| earthtojake/text-to-cad | 6909 | JavaScript | 2763.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| RLinf/RLinf | 3898 | Python | 1559.3 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3805 | Rust | 1522.1 | [link](https://github.com/dora-rs/dora) |
-| leofan90/Awesome-World-Models | 1831 | Python | 732.5 | [link](https://github.com/leofan90/Awesome-World-Models) |
+| commaai/openpilot | 61544 | Python | 24617.7 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15353 | C++ | 6141.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 13984 | C++ | 5593.7 | [link](https://github.com/google-deepmind/mujoco) |
+| rerun-io/rerun | 10987 | Rust | 4394.9 | [link](https://github.com/rerun-io/rerun) |
+| isaac-sim/IsaacLab | 7531 | Python | 3012.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| earthtojake/text-to-cad | 6914 | JavaScript | 2765.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| RLinf/RLinf | 3899 | Python | 1559.7 | [link](https://github.com/RLinf/RLinf) |
+| dora-rs/dora | 3806 | Rust | 1522.5 | [link](https://github.com/dora-rs/dora) |
+| leofan90/Awesome-World-Models | 1832 | Python | 732.9 | [link](https://github.com/leofan90/Awesome-World-Models) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -113,21 +113,21 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxPWWdpV0d3WFBxQ2hPcnQzQ2JVejEzUlhUMTBNN2I0X2JiUzZ6YXVSSG5nVlg2SDdMQXZlT1lSUTVSazRzbHpQQWVINjFOMnlyY2hzcDRyNzBWUmZBUk9uS0twOE9GT1B4Ti1OdndjYkZCWWNtaXhpclFfckZTWWJyYU5CUW4zVjZoVXFWS1NjVzFSTkVHYkdKNE5lQXRsdVNHMkNKLWNXYkk5OFF6R3I3aExsdl93SDN3cXFmVE54NTZlWGJ2REkyT3Vn?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdHd1cGduRkhiUS1POHdxQ3hjMHU3SVdSemhyX1lLcWkySVBpVGVwdzJUcHRWRG41b3VaY1B4YThqeUxLQ1pzV3JqVHB6bUJDZ3lRZlJJc2NIRUF1UTl6X3AxYVpxTDMwa2Q3SHhyN1hOTjVCYkVtWTczSGdVNnk1Q0NsVUhhUWt1ZUZpQXN1bFR4bnpsZDNQQ0U3NFMyVFZOU3g2Q19YbWhzVk5iZDU4cExzQ2J0SWIyenZ5bXI2dWthZGw0aU0zWnU2RS1lRlRYRUkzM1VvRnNqMmlJNmhjQkFoTGZQSFZfWmFyaQ?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMigwFBVV95cUxQdVh3RF91YUdPem1SYjBpenY0LWs0ckM0Uzk2RGR3TWc5a25PQnJ2SEdvbTFBaFFpYzJkSndONlk5cUhOYl9DRk93dEtJSktqci01UHZtT0VfVHY2WmdmU2J2WW9pQWJWcnBmenN4M0FGNnFURkFxZURWbm1DMnowcFVVTQ?oc=5) |
-| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0Jja1hfTGJIa2dRTXNUZ2RxaGtScHJock1yNksxcTBmQjduMWROY0pmMnlSVEhlV2ozTjZIUWlYalRXb0lpSjF6QVRhQVQ2MVRqUDAtTFV5WU9qQXZ2WEJZY01wYzdtOEo1dXRvTUh0S09ZWXVHYU1XQ3QzNHJzNGxPQjZIOVF5MTNPU1VWNE1TSXg3a0E?oc=5) |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTE9JTEczcVYzeWFLVjQwTVozeG1EaXpQazd6cXdoRHlFdWVrN25Qdi1ZWjgxUUN0ekZ0TldmUnc0MHRSZTloRUdGYUl4NmRzSnAyZG1IYi1HVlRpWmFRTnlOb2ZtT1lJaUdDdl9LNmJVRTlDeXVzNTFMTWxscXU?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-06-25 | Prometheus: Jeff Bezos’ AI for the Physical World - quasa.io | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE1tQ2RVaGE2Z0lVVTMzbHk3NlFBMVRRRm1pNTVobGdYdTdrUXJxalJRTmNmTHdyVDVaRF91YUN0TWtkUTluUjdRVlVibl83WTdISzhQemxBWHFNbVlpUW1aRTdjbmZDZWFzRmtKRndFWGxMb2UwMWdHUnlR?oc=5) |
 | 2026-06-25 | U.S. Startup Deploys Military Humanoid Robots to Ukraine War Zones - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVVpaX1JDYnZsM2hseHQxLUtXV1VjdEhrdGZoR0ozM0xObnh6ZjRKRVZWXzNSZ2phRE9CU3ptWFkzTzVvUFVkM19Qb084ZDYxbDF2SEswRnVuOTdsQlNmb0h3NHFaTjJKSUdiUFFjanpZT2ZFalhEWHpNXzZnZXA2a2FCY0FOS0lI?oc=5) |
-| 2026-06-25 | Delivery robot startup Robot.com is betting its next act on workplace humanoids - MSN | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxNMzdKMUdyZVdVRW9oemkwUURKUms2NHQ3bzNmbW9IeHI4djFIV1NQRkd4cG1lYUp2bW5MMGZabjJweGxYZUJTU0U5Ym9McUdyUUxJY2JNT0pHbEZxSXl4TUN5emVsdWtFd2pISmlKSE1fbGJYbzI3OFFSa1FCNDVKRHFKbkRHSzgxX2ROaEVXQm03VEppM0U3S3g1ano4TkFuTjN5WnF6UHU3UXNSb2FPcjB3UmZ4bVZnRWF6al9ELVdobzI5cmdYSXZDZjFyZw?oc=5) |
 | 2026-06-24 | Physical AI Development Platforms - Trend Hunter | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aVnNjV3kxUWJJczNTME5FZ1hJYWNCNmM0LV9ndUIyLW1tbXIwVkgtSG9POE5XTEFZcFludmJqcFZxM203QWN1N210UmNNd1RKc1pXTXh6WXZOaHQ1SXV1TlhNaWw4ajTSAWdBVV95cUxPWlZzY1d5MVFiSXMzUzBORWdYSWFjQjZjNC1fZ3VCMi1tbW1yMFZILUhvTzhOV0xBWXBZbnZianBWcTNtN0FjdTdtdFJjTXdUSnNaV014ell2Tmh0NUl1dU5YTWlsOGo0?oc=5) |
 | 2026-06-24 | Limitless Labs Raises $20M to Expand Physical AI - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNS3ZJVFlfVVZHSk5vMW1mcmItY0ZLNDVqamtxOG12R3F0REdWS1FiaVJGU3pueXhveUV6eXlKNnRFQWdoTVlpSTVFczBDSUk2eHBsUEdjMzlaOWRoT0tfZnBRYUluUXUzeGdvak9MX2puOWVLSHhrd0lTd0MteFQ5X09rdUNaOFBZbC00aUR5bmdDeVE?oc=5) |
 | 2026-06-24 | Agility Robotics is headed to Wall Street - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
-| 2026-06-24 | Suppliers eye $5 trillion humanoid robot market despite value-capture concerns - Automotive News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxObGVxNml3RWRkVUludndlcmQ5SWJ1WVNEM1BnS0g0TlA2SThIdkRlc1U5bGFaa0x3VW13MWs2djNTdzZUNTZfUG5ILUNaVjJGNFNuUGdWQ1RVdkxmUXJsOG5uY1ZhRHVmLWdCUl9nblF0Y1VWcFgtV21HZ2RTejBULVZtdUd0VXlpOElhMG1XVVVCYy1FYnVENUZqdVc?oc=5) |
 | 2026-06-23 | Hyphen and Motoniq Partner to Bring Physical AI to Intelligent Food Automation - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFUwQ1JPcDZ1VF9aLVNCcnNPYlpaSU5kN3ZMOWZCalBYRE5sWGlyc2kxLU5OV2cyU1N4NWt1NmtPbWNEa19SaVozNVZ6UThHcGxpWC1UMjJ3UFhUWDlpUkl5QTdWOFFMWlk0VmFpZ0NJM2YtSEVxZzFyOU8tTFFmeml2SUwzdkJld25KTmFxMG5CY1lXN3JpTnpaa2txWVNMUGlzbzdpZWQweTVzMm83dUhhS0Z1UEhfSktWX1B6TnlwRURxeWpDbkUzOFZwNzhw?oc=5) |
 | 2026-06-23 | Krafton bets $33 mn on AI chip startup in physical AI push - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZVBuQ0VKbTdoaGw0UEhmLTZUTVdMS2xJQXR3NGYxYlB1MnpSUll0WE8xX0Qzb3NnRFM0X2RrMFA5TU4xTjI1ZWVTTFZoQnh4alZWWHVvOURROTlPRjBodDFqblduLWE5T3JManA5bFA?oc=5) |
 | 2026-06-23 | Embodied AI Startup Kunlunxing Lands Multibillion Yuan Raise - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWRxSXBrV1BlVDZjTFdHbHQ4emg2QnVOV3hiQU9jcjMyU3pSeXFZXzRhUUs2S01nWWZuNDBIbEJUTXREWnNXLTVvYkQ4dzNnSDlQNmJOMVU5QXJpdndMNC1yLWRKbHhfQWlfQ0dNTDJ2eWdOY1NpcTBuMUdidi1DY3dLQ0taRU5TS2pIaHlYMlY2Q1FGTlJOSXM0dWFxLWxPUTEwbGZKd2pHVTRXWGVPbGhEeGk5TmRvSlJieWstNzcwX3J3V0pTS045b1JRMFFRRXQ5cWVHWjNyTzdEVkE?oc=5) |
+| 2026-06-22 | Delivery robot startup Robot.com is betting its next act on workplace humanoids - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ055UnFNc0FSb04zV3FQX25ROFZjMGwtaktnb2dKVElyV2hJZ0dheVRvd3M2S3BhOFlaTW5UcVA2T2t2Q1NSWTVUQThkZEdtT3BsVTBCYUE4RTBuU08tR3VHLVFiTXdJamYwaDU0SE1zS1VWZDk2SGhVWVNXUlhmaTdSbGJLVENuUklqM3pfR01kSXF3TUJlQnhlV3dZSktq?oc=5) |
+| 2026-06-22 | Seedcamp closes its largest fund yet at $320 million and bets the next decade on physical AI - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUpHRlU0YkMzUnZiUGV6UUF3M24yX1poazY1RUx3WFA5ZUtpTVdzdzNpLWJLSE9FMDljWllEdGF5SEZwMllOTUJwYjVNdjZnODRtMDZabWtfVFFsSl9pY1dsNkhSUW9mYm9aTkdUekZMZVdNTFdpQXBvZUFXa3NQelIxYWMtUUd5ZXpWLVZJVjlkeFJ6ckJqNDA1NEQ2UERGZUVSV2hjZ3p6WS1WaFhaS0c3ZWlJYko2bkgw?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
