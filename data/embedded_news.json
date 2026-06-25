@@ -1,5 +1,12 @@
 [
   {
+    "title": "New Record Resurrects Long-Dead CD Graphics Format",
+    "source": "Hackaday",
+    "date": "2026-06-25",
+    "url": "https://hackaday.com/2026/06/25/new-record-resurrects-long-dead-cd-graphics-format/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/06/saturn-flat-shades-e1782278148764.avif?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Audio CDs were the ubiquitous audio format of the 1990s. Lesser known were the extensions to the format that packaged all kinds of interesting additional data into a musical release. <a class=\"read-more\" href=\"https://hackaday.com/2026/06/25/new-record-resurrects-long-dead-cd-graphics-format/\">&#8230;read more</a>"
+  },
+  {
     "title": "A Look at a Gaggle of Transputer Boards",
     "source": "Hackaday",
     "date": "2026-06-25",
@@ -21,6 +28,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"441\" src=\"https://hackaday.com/wp-content/uploads/2026/06/LineShine.avif?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There is a phenomenon where as you get older, your sense of scale becomes somewhat fixed in the earlier era that shaped you&#8211; things like expecting the Dollar Store to <a class=\"read-more\" href=\"https://hackaday.com/2026/06/24/lineshine-is-fastest-supercomputer-at-over-2-exaflops/\">&#8230;read more</a>"
   },
   {
+    "title": "Louder ESP32 Mini board adds WiFi and Bluetooth to old speakers for SqueezeLite, Snapclient, or ESPHome support",
+    "source": "CNX Software",
+    "date": "2026-06-25",
+    "url": "https://www.cnx-software.com/2026/06/25/louder-esp32-mini-board-adds-wifi-and-bluetooth-to-old-speakers-for-squeezelite-snapclient-or-esphome-support/",
+    "summary": "<div><img alt=\"Louder ESP32 Mini\" class=\"attachment-medium size-medium wp-post-image\" height=\"343\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Louder-ESP32-Mini-720x343.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Sonocotta&#8217;s Louder-ESP32-Mini is a compact version of the Louder ESP32 board that converts old speakers into WiFi (and Bluetooth) connected speakers for your Smart Home. The board aims to replace the speaker terminals on your old speakers, and comes in two sizes: 42x42mm for small speakers, and 52x52mm for larger models. It&#8217;s powered by an ESP32-S3 wireless SoC with 8MB PSRAM and equipped with a high-quality TAS5805M DAC with DSP features. Louder-ESP32-Mini specifications: Wireless Module &#8211; ESP32-S3-WROOM-N8R8 SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM, 8MB PSRAM Storage – 8MB flash Wireless – WiFi 4 and Bluetooth LE 5 Antenna – PCB antenna Audio DAC &#8211; Stereo TAS5805M I2S DAC with built-in DSP and D-Class amp DSP Features &#8211; EQ, FIR, DRC, AGL, etc&#8230; Speaker output via two WAGO connectors 4Ω, 1% THD+N 42&#215;42 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/25/louder-esp32-mini-board-adds-wifi-and-bluetooth-to-old-speakers-for-squeezelite-snapclient-or-esphome-support/\">Louder ESP32 Mini board adds WiFi and Bluetooth to old speakers for SqueezeLite, Snapclient, or ESPHome support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Quectel FCM365X dual-band WiFi 6, BLE 5.4, 802.15.4 IoT module features NXP RW612 MCU, optional PSRAM",
     "source": "CNX Software",
     "date": "2026-06-25",
@@ -33,6 +47,76 @@
     "date": "2026-06-25",
     "url": "https://www.cnx-software.com/2026/06/25/openc6-bios-project-brings-pc-like-firmware-to-esp32-c6-mcu-with-network-boot-and-ota-support/",
     "summary": "<div><img alt=\"OpenC6 BIOS for ESP32 C6\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/OpenC6-BIOS-for-ESP32-C6-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>OpenC6 BIOS is an open-source project by Rompass that takes a different approach to MCU development. It adds a BIOS-like system to the ESP32-C6, so the system part and application code can run separately rather than being combined into a single firmware image. In traditional development, hardware setup, networking, and application code are combined into a single firmware image. But the OpenC6 BIOS operates differently: it runs as the base system on the ESP32-C6 and handles hardware initialization and system functions. Instead of flashing a full application each time, it can load small payload programs separately. These payloads can run from RAM or flash (XIP) and use system functions through a simple Application Binary Interface (ABI), without needing the full firmware. In some ways, it operates like AkiraOS, but with a BIOS-like interface. Key features of the OpenC6 BIOS architecture: Dynamic CPU scaling – Adjusts CPU frequency based on load [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/25/openc6-bios-project-brings-pc-like-firmware-to-esp32-c6-mcu-with-network-boot-and-ota-support/\">OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "ElevationSpace raises $40m Series B for satellite re-entry",
+    "source": "Electronics Weekly",
+    "date": "2026-06-25",
+    "url": "https://www.electronicsweekly.com/news/business/finance/elevationspace-raises-40m-series-b-for-satellite-re-entry-2026-06/",
+    "summary": "<p>ElevationSpace has raised $40 million in a Series B funding round to develop its satellite re-entry system. A Japanese company specialising in space-to-Earth transportation, it will be developing two series ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/elevationspace-raises-40m-series-b-for-satellite-re-entry-2026-06/\">ElevationSpace raises $40m Series B for satellite re-entry</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "LTE expansion board for IIoT edge server",
+    "source": "Electronics Weekly",
+    "date": "2026-06-25",
+    "url": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/lte-expansion-board-for-iiot-edge-server-2026-06/",
+    "summary": "<p>Sfera Labs is shipping its LTE expansion board &#8211; the M.2 LTE Module X2-Series Expansion Board (X2BW10XM2Z) &#8211; for deploying industrial edge servers in remote locations, on mobile assets, or ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/bus-systems-sbcs/lte-expansion-board-for-iiot-edge-server-2026-06/\">LTE expansion board for IIoT edge server</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Hynix to list in New York to raise $29 billion",
+    "source": "Electronics Weekly",
+    "date": "2026-06-25",
+    "url": "https://www.electronicsweekly.com/news/hynix-to-list-in-new-york-to-raise-29-billion-2026-06/",
+    "summary": "<p>SK Hynix is planning to raise $29 billion on the Nasdaq through an ADR listing led by Bank of America, Citigroup, Goldman Sachs and JPMorgan Chase. It expects to start ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/hynix-to-list-in-new-york-to-raise-29-billion-2026-06/\">Hynix to list in New York to raise $29 billion</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Qualcomm buys Modular Technologies",
+    "source": "Electronics Weekly",
+    "date": "2026-06-25",
+    "url": "https://www.electronicsweekly.com/news/business/qualcomm-buys-modular-2026-06/",
+    "summary": "<p>Qualcomm is to buy AI startup Modular in an all-stock deal valued ​at around $4 billion. Qualcomm is also said to be in talks to make an $8-10 billion acquisition ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qualcomm-buys-modular-2026-06/\">Qualcomm buys Modular Technologies</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Japan’s car makers circle the wagons",
+    "source": "Electronics Weekly",
+    "date": "2026-06-25",
+    "url": "https://www.electronicsweekly.com/news/business/japans-car-makers-circle-the-wagons-2026-06/",
+    "summary": "<p>Nissan, Mitsubishi Motors and Honda have entered final talks about standardising ECUs and OSes for BEVs and hybrids, and sharing factories reports the Nikkei, Standardising the electronic control unit would ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/japans-car-makers-circle-the-wagons-2026-06/\">Japan’s car makers circle the wagons</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Micron sparkles",
+    "source": "Electronics Weekly",
+    "date": "2026-06-25",
+    "url": "https://www.electronicsweekly.com/news/business/micron-2026-06/",
+    "summary": "<p>Micron beat all expectations for the quarter to the end of May, with revenue of $41.46 billion versus $23.86 billion for the prior quarter and $9.30 billion for the same ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/micron-2026-06/\">Micron sparkles</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "QuantWare and Maybell hook up to stay cool",
+    "source": "Electronics Weekly",
+    "date": "2026-06-25",
+    "url": "https://www.electronicsweekly.com/news/business/quantware-and-maybell-to-stay-cool-2026-06/",
+    "summary": "<p>QuantWare, the quantum processor company which had a $178 million Series B, has hooked up with  Maybell Quantum to ensure Maybell’s ColdCloud cooling infrastructure is compatible with and commercially available ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/quantware-and-maybell-to-stay-cool-2026-06/\">QuantWare and Maybell hook up to stay cool</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "People Largely Unworried By AI-Generated News",
+    "source": "Electronics Weekly",
+    "date": "2026-06-25",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/898512-2026-06/",
+    "summary": "<p>25-44% percent of respondents to a survey by Statista Consumer Insights in 20 countries said they would want to know if the news they read was AI-generated. The least interest ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/898512-2026-06/\">People Largely Unworried By AI-Generated News</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "BIG Spiral Lamp (WLED) #3DPrinting #3DThursday",
+    "source": "Adafruit",
+    "date": "2026-06-25",
+    "url": "https://blog.adafruit.com/2026/06/25/big-spiral-lamp-wled-3dprinting-3dthursday/",
+    "summary": "Basti85 shares: A large spiral lamp with diffuser segments built for WLED on an ESP32-C3 (or ESP8266 D1 mini fallback). Print the body in Bambu PLA Basic and the diffusers in transparent PLA. Updated v2 includes the full WLED config workflow download the files on: https://makerworld.com/en/models/166549-big-spiral-lamp-v2-wled Every Thursday is #3dthursday here at Adafruit! The DIY [&#8230;]"
+  },
+  {
+    "title": "Pencil Soldering Iron Rugged Case – With Stand and Spool #3DPrinting #3DThursday",
+    "source": "Adafruit",
+    "date": "2026-06-25",
+    "url": "https://blog.adafruit.com/2026/06/25/pinecil-soldering-iron-rugged-case-with-stand-and-spool-3dprinting-3dthursday/",
+    "summary": "BlkWgn shares: A fully 3D-printable rugged case for the Pinecil soldering iron combining a tool box, hot-iron stand, and solder spool holder. Uses one 608 bearing, no screws required (printable pins), all in one package. By BlkWgn download the files on: https://makerworld.com/en/models/118986-pinecil-soldering-iron-rugged-case-w-stand-and-spo Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has [&#8230;]"
   },
   {
     "title": "Flexi Velociraptor Dinosaur – New Articulation Style #3DPrinting #3DThursday",
@@ -70,6 +154,13 @@
     "summary": "Chris Young announces his retirement after 14 years and 55+ Show and Tell appearances &#8211; thank you Chris (video)."
   },
   {
+    "title": "Space Isn’t What It Used to Be: The Final Frontier Has Gone Commercial",
+    "source": "EE Journal",
+    "date": "2026-06-25",
+    "url": "https://www.eejournal.com/article/space-isnt-what-it-used-to-be-the-final-frontier-has-gone-commercial/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/06/max-0495-image-for-home-page-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I was just chatting with Tim Morin, who is Senior Director of Marketing and Applications at Microchip Technology. Unlike many of my conversations with technology companies, Tim didn’t have a particular axe to grind. Instead, he took the time to bring me up to date with Microchip’s space strategy. As an aside, Tim has been &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/space-isnt-what-it-used-to-be-the-final-frontier-has-gone-commercial/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Space Isn&#8217;t What It Used to Be: The Final Frontier Has Gone Commercial\"</span></a>"
+  },
+  {
     "title": "All The Different Lasers, And How Well They Mark 3D Prints",
     "source": "Hackaday",
     "date": "2026-06-24",
@@ -89,13 +180,6 @@
     "date": "2026-06-24",
     "url": "https://hackaday.com/2026/06/24/floss-weekly-episode-872-im-not-satoshi/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>This week Jonathan chats with Tristan Sherliker about the Craig Wright case, Open Source and the law, and Tristan&#8217;s own Open Source project, BunTool. How did Open Source help win <a class=\"read-more\" href=\"https://hackaday.com/2026/06/24/floss-weekly-episode-872-im-not-satoshi/\">&#8230;read more</a>"
-  },
-  {
-    "title": "VFD Clock Runs on a Single AA",
-    "source": "Hackaday",
-    "date": "2026-06-24",
-    "url": "https://hackaday.com/2026/06/24/vfd-clock-runs-on-a-single-aa/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"625\" src=\"https://hackaday.com/wp-content/uploads/2026/06/FMS4FS4MQPQJKCG_8e8839-e1782274668769.webp?w=626\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"626\" /></div>There are lots of different ways to build a clock. [Sciter_] came into the possession of some old calculator parts, and decided to reuse them for just such a project. <a class=\"read-more\" href=\"https://hackaday.com/2026/06/24/vfd-clock-runs-on-a-single-aa/\">&#8230;read more</a>"
   },
   {
     "title": "NeoEyes NE503 – A $1199 Edge AI Camera based on Hailo-15H 20 TOPS SoC",
@@ -147,6 +231,20 @@
     "summary": "<p>For decades, progress in the electronics industry was measured primarily through advances in silicon. Faster processing, lower power consumption, greater integration, and shrinking form factors consistently pushed the industry forward and enabled entirely new categories of products and services. That model of innovation is no longer sufficient on its own. For all the technological progress [...]</p>\n<p>The post <a href=\"https://www.embedded.com/from-silicon-to-systems-reimagining-the-future-of-embedded-engineering/\">From Silicon to Systems: Reimagining the Future of Embedded Engineering</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
+    "title": "Antenova launches Petrosa WiFi 6E/7 antenna",
+    "source": "Electronics Weekly",
+    "date": "2026-06-24",
+    "url": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/antenova-launches-petrosa-wifi-antenna-2026-06/",
+    "summary": "<p>Antenova is launching a new Wi-Fi antenna, the Petrosa (SR43W081) PIFA (Planar Inverted Antenna), which operates on a ground plane with no clearance requirements. Petrosa is compatible with WiFi 6E ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/antenova-launches-petrosa-wifi-antenna-2026-06/\">Antenova launches Petrosa WiFi 6E/7 antenna</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Terrestrial vs Space Debate For Datacentres",
+    "source": "Electronics Weekly",
+    "date": "2026-06-24",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/terrestrial-vs-space-debate-for-datacentres-2026-06/",
+    "summary": "<p>Masa Son of Softbank is not so keen on Elon’s idea of putting datacentres in space, which is not surprising for someone intending to spend around  $150 billion on building ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/terrestrial-vs-space-debate-for-datacentres-2026-06/\">Terrestrial vs Space Debate For Datacentres</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "JLink JTAG access on the Pinecil soldering iron",
     "source": "Adafruit",
     "date": "2026-06-24",
@@ -180,20 +278,6 @@
     "date": "2026-06-24",
     "url": "https://blog.adafruit.com/2026/06/24/projecting-the-aircraft-passing-overhead-onto-your-ceiling-in-real-time/",
     "summary": "Skylight decodes ADS-B from a cheap RTL-SDR radio and renders the planes physically flying over you onto a ceiling-pointed projector. A jet you&#8217;d hear overhead glides across your ceiling at the same moment &#8211; labeled with its airline, type, and where it&#8217;s headed. Pure-black background so the projector&#8217;s rectangle disappears and only the aircraft (and [&#8230;]"
-  },
-  {
-    "title": "A TrueType font render support library for microcontrollers using the Arduino IDE",
-    "source": "Adafruit",
-    "date": "2026-06-24",
-    "url": "https://blog.adafruit.com/2026/06/24/a-truetype-font-render-support-library-for-microcontrollers-using-the-arduino-ide/",
-    "summary": "Open Font Render is a TTF font render support library for microcontrollers using the Arduino IDE by GitHub user takkaO. This library can render TTF font files on an SD card or TTF font files embedded in the program. This program is inspired by M5FontRender. Features Available for a variety of hardware using the Arduino [&#8230;]"
-  },
-  {
-    "title": "A Python tool to quickly prototype Adafruit GFX displays in Python",
-    "source": "Adafruit",
-    "date": "2026-06-24",
-    "url": "https://blog.adafruit.com/2026/06/24/a-python-tool-to-quickly-prototype-adafruit-gfx-displays-in-python/",
-    "summary": "pydafruit_gfx is a Python tool to quickly prototype Adafruit GFX displays in Python by hackster.io user mars91. I find it frustrating when building a display (with Arduino + hardware), you have to: flash the board, a cable can go bad, a wire pops loose, or the board can decides to brick itself. I end up [&#8230;]"
   },
   {
     "title": "Analytical Components International (ACI) Expands HPLC Portfolio with Premium Check Valves for Liquid Chromatography Systems",
@@ -299,20 +383,6 @@
     "date": "2026-06-23",
     "url": "https://www.eejournal.com/industry_news/infineon-launches-cloud-based-virtual-platform-powered-by-aws-to-accelerate-automotive-microcontroller-evaluation/",
     "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) is collaborating with Amazon Web Services (AWS) to accelerate microcontroller (MCU) evaluation to shorten development cycles for automotive systems. As part of this collaboration, Infineon is launching a cloud-based platform for virtual evaluation of Infineon automotive MCUs, powered by AWS. The new platform removes dependency on physical &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/infineon-launches-cloud-based-virtual-platform-powered-by-aws-to-accelerate-automotive-microcontroller-evaluation/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Infineon launches cloud-based virtual platform powered by AWS to accelerate automotive microcontroller evaluation\"</span></a>"
-  },
-  {
-    "title": "Eggtronic Introduces High-Efficiency 500W Microinverter Reference Platform with Renesas",
-    "source": "EE Journal",
-    "date": "2026-06-23",
-    "url": "https://www.eejournal.com/industry_news/eggtronic-introduces-high-efficiency-500w-microinverter-reference-platform-with-renesas/",
-    "summary": "Eggtronic, a semiconductor company innovating in high-performance IC controllers for power electronics, today announced the release of a jointly developed 500W solar microinverter reference platform with Renesas Electronics Corporation. The design combines Eggtronic’s EPIC™ mixed-signal controller technology with Renesas’ bidirectional Gallium Nitride (GaN) switch to demonstrate a high-efficiency architecture to support microinverter OEMs and system manufacturers in &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/eggtronic-introduces-high-efficiency-500w-microinverter-reference-platform-with-renesas/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Eggtronic Introduces High-Efficiency 500W Microinverter Reference Platform with Renesas\"</span></a>"
-  },
-  {
-    "title": "Optocam Zero – A Raspberry Pi Zero 2 W-based DIY digital camera",
-    "source": "CNX Software",
-    "date": "2026-06-22",
-    "url": "https://www.cnx-software.com/2026/06/22/optocam-zero-a-raspberry-pi-zero-2-w-based-diy-digital-camera/",
-    "summary": "<div><img alt=\"Optocam Zero\" class=\"attachment-medium size-medium wp-post-image\" height=\"529\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Optocam-Zero-720x529.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Inspired by Kodak Charmera and similar toy cameras, the Optocam Zero is a Raspberry Pi Zero 2 W-based DIY digital camera made of off-the-shelf components and 3D-printed parts. It connects the Pi Zero 2 W SBC with a Raspberry Pi Camera Module 3, a 1.3-inch LCD, a 14500 Li-Ion battery holder, and other components. The camera supports autofocus, eight photo filters, USB-C charging, and lasts 70 to 80 minutes on a charge. Optocam Zero camera key features: Based on Raspberry Pi Zero 2 W SBC Display 1.3-inch LCD with 240 x 240 resolution 15–20 FPS camera preview on the screen. Screen dimming when inactive to preserve battery Camera features 2592 x 2592 JPEG image capture. GIF recording and playback support. Autofocus support 8 photo filters included. Misc Image transfer through custom hotspot interface. Fully 3D printed case parts 3D printable TPU protective sleeve and lanyard design is available. 22-second boot [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/22/optocam-zero-a-raspberry-pi-zero-2-w-based-diy-digital-camera/\">Optocam Zero &#8211; A Raspberry Pi Zero 2 W-based DIY digital camera</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Partnerships to Drive WBG Semiconductor Innovations",
