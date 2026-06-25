@@ -1,22 +1,22 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-24 23:55 UTC
+Generated: 2026-06-25 01:55 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-06-23 | InSight: Self-Guided Skill Acquisition via Steerable VLAs | [link](https://arxiv.org/pdf/2606.24884v1) |
-| 2026-06-23 | World Models in Pieces: Structural Certification for General Agents | [link](https://arxiv.org/pdf/2606.24842v1) |
-| 2026-06-23 | MANGO: Automated Multi-Agent Test Oracle Generation for Vision-Language-Action Models | [link](https://arxiv.org/pdf/2606.24815v1) |
-| 2026-06-23 | Vision-Language Model Reasoning for Contextual Semantic Mapping in Intralogistics | [link](https://arxiv.org/pdf/2606.24814v1) |
-| 2026-06-23 | Pocket-SLAM: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM | [link](https://arxiv.org/pdf/2606.24796v1) |
+| 2026-06-24 | A 3D-Printable Dataset for Fair Testing and Comparisons of Tactile Sensors | [link](https://arxiv.org/pdf/2606.25886v1) |
+| 2026-06-24 | USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning | [link](https://arxiv.org/pdf/2606.25880v1) |
+| 2026-06-24 | TacVerse: A Multi-Sensor Dataset and Benchmark for Cross-Sensor Vision-Based Tactile Perception | [link](https://arxiv.org/pdf/2606.25877v1) |
+| 2026-06-24 | Molexar: A Unified Multimodal Molecular Foundation Model for Drug Design | [link](https://arxiv.org/pdf/2606.25865v1) |
+| 2026-06-24 | Beyond a Shadow of a Doubt: Close Proximity Geometry Reconstruction Using FMCW Radar Shadow Effects | [link](https://arxiv.org/pdf/2606.25829v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 81906 | 32762.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 61535 | 24614.1 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29858 | 11943.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 29857 | 11942.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15946 | 6378.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15349 | 6139.7 | [link](https://github.com/ArduPilot/ardupilot) |
 

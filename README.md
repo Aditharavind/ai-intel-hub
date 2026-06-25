@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-24 23:55 UTC
+Last Updated: 2026-06-25 01:55 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -48,6 +48,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-25 | People Largely Unworried By AI-Generated News | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/898512-2026-06/) |
+| 2026-06-25 | Chris Young announces his retirement after 14 years and 55+ Show and Tell appearances | Adafruit | [link](https://blog.adafruit.com/2026/06/24/chris-young-announces-his-retirement-after-14-years-and-55-show-and-tell-appearances/) |
 | 2026-06-24 | All The Different Lasers, And How Well They Mark 3D Prints | Hackaday | [link](https://hackaday.com/2026/06/24/all-the-different-lasers-and-how-well-they-mark-3d-prints/) |
 | 2026-06-24 | Laser Scanning A Cave With Homebrew Gear | Hackaday | [link](https://hackaday.com/2026/06/24/laser-scanning-a-cave-with-homebrew-gear/) |
 | 2026-06-24 | FLOSS Weekly Episode 872: I’m Not Satoshi | Hackaday | [link](https://hackaday.com/2026/06/24/floss-weekly-episode-872-im-not-satoshi/) |
@@ -56,27 +58,27 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-24 | Raspberry Pi Locator Website to Shut Down in July | Hackaday | [link](https://hackaday.com/2026/06/24/raspberry-pi-locator-website-to-shut-down-in-july/) |
 | 2026-06-24 | A T9 Keyboard For Your Smartphone | Hackaday | [link](https://hackaday.com/2026/06/24/a-t9-keyboard-for-your-smartphone/) |
 | 2026-06-24 | NeoEyes NE503 – A $1199 Edge AI Camera based on Hailo-15H 20 TOPS SoC | CNX Software | [link](https://www.cnx-software.com/2026/06/25/neoeyes-ne503-a-1199-edge-ai-camera-based-on-hailo-15h-20-tops-soc/) |
-| 2026-06-24 | Graperain GR1126MB development board features solder-on 3 TOPS Rockchip RV1126B AI Vision module | CNX Software | [link](https://www.cnx-software.com/2026/06/24/graperain-gr1126mb-development-board-features-solder-on-3-tops-rockchip-rv1126b-ai-vision-module/) |
-| 2026-06-24 | RP2350B bells&whistles development board features on-board RP2040 debugger, HDMI, and microSD card slot | CNX Software | [link](https://www.cnx-software.com/2026/06/24/rp2350b-bellswhistles-development-board-features-on-board-rp2040-debugger-hdmi-and-microsd-card-slot/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-06-23 | InSight: Self-Guided Skill Acquisition via Steerable VLAs | [link](https://arxiv.org/pdf/2606.24884v1) |
-| 2026-06-23 | World Models in Pieces: Structural Certification for General Agents | [link](https://arxiv.org/pdf/2606.24842v1) |
-| 2026-06-23 | MANGO: Automated Multi-Agent Test Oracle Generation for Vision-Language-Action Models | [link](https://arxiv.org/pdf/2606.24815v1) |
-| 2026-06-23 | Vision-Language Model Reasoning for Contextual Semantic Mapping in Intralogistics | [link](https://arxiv.org/pdf/2606.24814v1) |
-| 2026-06-23 | Pocket-SLAM: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM | [link](https://arxiv.org/pdf/2606.24796v1) |
-| 2026-06-23 | Compact Object-Level Representations with Open-Vocabulary Understanding for Indoor Visual Relocalization | [link](https://arxiv.org/pdf/2606.24767v1) |
-| 2026-06-23 | World Value Models for Robotic Manipulation | [link](https://arxiv.org/pdf/2606.24742v1) |
-| 2026-06-23 | TACTFUL: Tactile-Driven Exploration For Object Localization and Identification in Confined Environments | [link](https://arxiv.org/pdf/2606.24712v1) |
-| 2026-06-23 | LaGO: Latent Action Guidance for Online Reinforcement Learning | [link](https://arxiv.org/pdf/2606.24669v1) |
-| 2026-06-23 | Suboptimal and Reduced-Order MPC via Timescale Separation | [link](https://arxiv.org/pdf/2606.24641v1) |
+| 2026-06-24 | A 3D-Printable Dataset for Fair Testing and Comparisons of Tactile Sensors | [link](https://arxiv.org/pdf/2606.25886v1) |
+| 2026-06-24 | USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning | [link](https://arxiv.org/pdf/2606.25880v1) |
+| 2026-06-24 | TacVerse: A Multi-Sensor Dataset and Benchmark for Cross-Sensor Vision-Based Tactile Perception | [link](https://arxiv.org/pdf/2606.25877v1) |
+| 2026-06-24 | Molexar: A Unified Multimodal Molecular Foundation Model for Drug Design | [link](https://arxiv.org/pdf/2606.25865v1) |
+| 2026-06-24 | Beyond a Shadow of a Doubt: Close Proximity Geometry Reconstruction Using FMCW Radar Shadow Effects | [link](https://arxiv.org/pdf/2606.25829v1) |
+| 2026-06-24 | ROAD-VLA: Robust Online Adaptation via Self-Distillation for Vision-Language-Action Models | [link](https://arxiv.org/pdf/2606.25800v1) |
+| 2026-06-24 | MIL-LC: A Robust Magnetometer-Inertial-LiDAR Fusion Multimodal Localization Framework | [link](https://arxiv.org/pdf/2606.25796v1) |
+| 2026-06-24 | StairMaster: Learning to Conquer Risky Hollow Stairs for Agile Quadrupedal Robots | [link](https://arxiv.org/pdf/2606.25765v1) |
+| 2026-06-24 | Stage-Aware and Roughness-Constrained Diffusion Policy for Multi-Stage Robotic Polishing | [link](https://arxiv.org/pdf/2606.25754v1) |
+| 2026-06-24 | Black-Box Assisted Regression: Phase Transitions and Minimax Optimality | [link](https://arxiv.org/pdf/2606.25743v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-06-24 | robot-ai-team2-2026/dp-crop-window-300d_NI | 0 | 0 | [link](https://huggingface.co/robot-ai-team2-2026/dp-crop-window-300d_NI) |
+| 2026-06-25 | woh7539/omx_act_policy | 85 | 1 | [link](https://huggingface.co/woh7539/omx_act_policy) |
+| 2026-06-25 | pmin/my_policy | 0 | 0 | [link](https://huggingface.co/pmin/my_policy) |
+| 2026-06-24 | robot-ai-team2-2026/imagenet-dp-crop-window-300d_NI | 0 | 0 | [link](https://huggingface.co/robot-ai-team2-2026/imagenet-dp-crop-window-300d_NI) |
 | 2026-06-24 | L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup) |
 | 2026-06-24 | L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_speedup | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_speedup) |
 | 2026-06-24 | uuuhjb/stage1_robotwin_4w | 0 | 0 | [link](https://huggingface.co/uuuhjb/stage1_robotwin_4w) |
@@ -84,22 +86,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-24 | LuEduSoHu/robot_learning_tutorial_diffusion_0623_0204 | 0 | 0 | [link](https://huggingface.co/LuEduSoHu/robot_learning_tutorial_diffusion_0623_0204) |
 | 2026-06-24 | SereneC/AHA-WAM-RoboTwin2.0 | 0 | 0 | [link](https://huggingface.co/SereneC/AHA-WAM-RoboTwin2.0) |
 | 2026-06-24 | love-death-robot/SigMA | 0 | 0 | [link](https://huggingface.co/love-death-robot/SigMA) |
-| 2026-06-24 | PhoenixHu/vla-ad-evaluation-results-summary | 0 | 0 | [link](https://huggingface.co/PhoenixHu/vla-ad-evaluation-results-summary) |
-| 2026-06-24 | GT-111/MemCode-VLA | 0 | 0 | [link](https://huggingface.co/GT-111/MemCode-VLA) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| Edgenesis/shifu | 1421 | Go | 568.5 | [link](https://github.com/Edgenesis/shifu) |
-| copper-project/copper-rs | 1367 | Rust | 546.9 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 882 | Python | 352.9 | [link](https://github.com/mosaico-labs/mosaico) |
-| awslabs/awsome-distributed-ai | 447 | Shell | 178.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| keon/awesome-physical-ai | 318 |  | 127.3 | [link](https://github.com/keon/awesome-physical-ai) |
-| Developer-Y/cs-video-courses | 81906 |  | 32762.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 61535 | Python | 24614.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15349 | C++ | 6139.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 13976 | C++ | 5590.5 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11247 | Python | 4498.9 | [link](https://github.com/kornia/kornia) |
+| isaac-sim/IsaacLab | 7520 | Python | 3008.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| dora-rs/dora | 3803 | Rust | 1521.3 | [link](https://github.com/dora-rs/dora) |
+| sou350121/VLA-Handbook | 321 | HTML | 128.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 5261 | Python | 2104.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| OpenHUTB/hutb | 511 | C++ | 204.5 | [link](https://github.com/OpenHUTB/hutb) |
+| strands-labs/robots | 73 | Python | 29.3 | [link](https://github.com/strands-labs/robots) |
+| Edgenesis/shifu | 1421 | Go | 568.5 | [link](https://github.com/Edgenesis/shifu) |
+| copper-project/copper-rs | 1367 | Rust | 546.9 | [link](https://github.com/copper-project/copper-rs) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
