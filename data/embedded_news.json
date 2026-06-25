@@ -1,10 +1,73 @@
 [
   {
+    "title": "A More Convenient iButton Reader",
+    "source": "Hackaday",
+    "date": "2026-06-25",
+    "url": "https://hackaday.com/2026/06/24/a-more-convenient-ibutton-reader/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/bb610f27-c1fa-428e-b534-e588ac9e7a74_md-xl.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>iButtons are microchips housed in small, round, metal containers, and are similar to coin cell batteries in appearance. Among other things, they&#8217;re used for logging data in industrial contexts, particularly <a class=\"read-more\" href=\"https://hackaday.com/2026/06/24/a-more-convenient-ibutton-reader/\">&#8230;read more</a>"
+  },
+  {
+    "title": "LineShine Is Fastest Supercomputer at Over 2 Exaflops",
+    "source": "Hackaday",
+    "date": "2026-06-25",
+    "url": "https://hackaday.com/2026/06/24/lineshine-is-fastest-supercomputer-at-over-2-exaflops/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"441\" src=\"https://hackaday.com/wp-content/uploads/2026/06/LineShine.avif?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There is a phenomenon where as you get older, your sense of scale becomes somewhat fixed in the earlier era that shaped you&#8211; things like expecting the Dollar Store to <a class=\"read-more\" href=\"https://hackaday.com/2026/06/24/lineshine-is-fastest-supercomputer-at-over-2-exaflops/\">&#8230;read more</a>"
+  },
+  {
+    "title": "OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support",
+    "source": "CNX Software",
+    "date": "2026-06-25",
+    "url": "https://www.cnx-software.com/2026/06/25/openc6-bios-project-brings-pc-like-firmware-to-esp32-c6-mcu-with-network-boot-and-ota-support/",
+    "summary": "<div><img alt=\"OpenC6 BIOS for ESP32 C6\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/OpenC6-BIOS-for-ESP32-C6-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>OpenC6 BIOS is an open-source project by Rompass that takes a different approach to MCU development. It adds a BIOS-like system to the ESP32-C6, so the system part and application code can run separately rather than being combined into a single firmware image. In traditional development, hardware setup, networking, and application code are combined into a single firmware image. But the OpenC6 BIOS operates differently: it runs as the base system on the ESP32-C6 and handles hardware initialization and system functions. Instead of flashing a full application each time, it can load small payload programs separately. These payloads can run from RAM or flash (XIP) and use system functions through a simple Application Binary Interface (ABI), without needing the full firmware. In some ways, it operates like AkiraOS, but with a BIOS-like interface. Key features of the OpenC6 BIOS architecture: Dynamic CPU scaling – Adjusts CPU frequency based on load [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/25/openc6-bios-project-brings-pc-like-firmware-to-esp32-c6-mcu-with-network-boot-and-ota-support/\">OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Hynix to list in New York to raise $29 billion",
+    "source": "Electronics Weekly",
+    "date": "2026-06-25",
+    "url": "https://www.electronicsweekly.com/news/hynix-to-list-in-new-york-to-raise-29-billion-2026-06/",
+    "summary": "<p>SK Hynix is planning to raise $29 billion on the Nasdaq  through an ADR listing led by Bank of America, Citigroup, Goldman Sachs and JPMorgan Chase. It expects to start ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/hynix-to-list-in-new-york-to-raise-29-billion-2026-06/\">Hynix to list in New York to raise $29 billion</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Qualcomm buys Modular Technologies",
+    "source": "Electronics Weekly",
+    "date": "2026-06-25",
+    "url": "https://www.electronicsweekly.com/news/business/qualcomm-buys-modular-2026-06/",
+    "summary": "<p>Qualcomm is to buy AI startup Modular in an all-stock deal valued ​at around $4 billion. Qualcomm is also said to be in talks to make an $8-10 billion acquisition ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qualcomm-buys-modular-2026-06/\">Qualcomm buys Modular Technologies</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Japan’s car makers circle the wagons",
+    "source": "Electronics Weekly",
+    "date": "2026-06-25",
+    "url": "https://www.electronicsweekly.com/news/business/japans-car-makers-circle-the-wagons-2026-06/",
+    "summary": "<p>Nissan, Mitsubishi Motors and Honda have entered final talks about standardising ECUs and OSes for BEVs and hybrids, and sharing factories. reports the Nikkei, Standardising the ECU would let the ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/japans-car-makers-circle-the-wagons-2026-06/\">Japan’s car makers circle the wagons</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Micron sparkles",
+    "source": "Electronics Weekly",
+    "date": "2026-06-25",
+    "url": "https://www.electronicsweekly.com/news/business/micron-2026-06/",
+    "summary": "<p>&#62;Micron beat all expectations for the quarter to the end of May, with revenue of $41.46 billion versus $23.86 billion for the prior quarter and $9.30 billion for the same ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/micron-2026-06/\">Micron sparkles</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "QuantWare and Maybell hook up to stay cool",
+    "source": "Electronics Weekly",
+    "date": "2026-06-25",
+    "url": "https://www.electronicsweekly.com/news/business/quantware-and-maybell-to-stay-cool-2026-06/",
+    "summary": "<p>QuantWare, the quantum processor company which had a $178 million Series B, has hooked up with  Maybell Quantum to ensure Maybell’s ColdCloud cooling infrastructure is compatible with and commercially available ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/quantware-and-maybell-to-stay-cool-2026-06/\">QuantWare and Maybell hook up to stay cool</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "People Largely Unworried By AI-Generated News",
     "source": "Electronics Weekly",
     "date": "2026-06-25",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/898512-2026-06/",
     "summary": "<p>25-44% percent of respondents to a survey by Statista Consumer Insights in 20 countries said they would want to know if the news they read was AI-generated. The least interest ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/898512-2026-06/\">People Largely Unworried By AI-Generated News</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "From the mail bag…",
+    "source": "Adafruit",
+    "date": "2026-06-25",
+    "url": "https://blog.adafruit.com/2026/06/25/from-the-mail-bag-794/",
+    "summary": "From the mail bag! Heya Adafruit folks, Just wanted to drop a note of &#8220;thanks&#8221; and &#8220;.. oh hot damn.&#8221; I&#8217;m a software engineer and don&#8217;t usually find myself trying to wrangle the magic pixies too often, but I had an idea for something very dumb awhile ago, bought a bunch of random bits that [&#8230;]"
   },
   {
     "title": "Chris Young announces his retirement after 14 years and 55+ Show and Tell appearances",
@@ -47,20 +110,6 @@
     "date": "2026-06-24",
     "url": "https://hackaday.com/2026/06/24/the-trains-with-rubber-tires/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/06/TrainTires.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The train was one of the game-changing inventions that defined the Industrial Age. No more would humanity rely on tempestuous animals to haul goods and passengers great distances across the <a class=\"read-more\" href=\"https://hackaday.com/2026/06/24/the-trains-with-rubber-tires/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Raspberry Pi Locator Website to Shut Down in July",
-    "source": "Hackaday",
-    "date": "2026-06-24",
-    "url": "https://hackaday.com/2026/06/24/raspberry-pi-locator-website-to-shut-down-in-july/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2023/09/ch01-raspberrypi5-rp1.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As announced by [André] on Bluesky, next month the much loved Rpilocator.com website will cease displaying the stock status and pricing of Raspberry Pi computers from various online retailers. One <a class=\"read-more\" href=\"https://hackaday.com/2026/06/24/raspberry-pi-locator-website-to-shut-down-in-july/\">&#8230;read more</a>"
-  },
-  {
-    "title": "A T9 Keyboard For Your Smartphone",
-    "source": "Hackaday",
-    "date": "2026-06-24",
-    "url": "https://hackaday.com/2026/06/24/a-t9-keyboard-for-your-smartphone/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-144047-e1782276074714.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>These days, most of us are fortunate enough to use smartphones with decent touchscreen keyboard capabilities. However, once upon a time, if you wanted to type something on a phone, <a class=\"read-more\" href=\"https://hackaday.com/2026/06/24/a-t9-keyboard-for-your-smartphone/\">&#8230;read more</a>"
   },
   {
     "title": "NeoEyes NE503 – A $1199 Edge AI Camera based on Hailo-15H 20 TOPS SoC",
@@ -140,41 +189,6 @@
     "summary": "<p>Now in its eighth year, the EW BrightSparks awards see Electronics Weekly celebrate some of the brightest and most talented young engineers in the UK today. In the next in ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/ew-brightsparks-2025-profile-jeremy-zolnai-lucas-imagination-technologies-2026-06/\">EW BrightSparks 2025 profile: Jeremy Zolnai-Lucas, Imagination Technologies</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Get the Gadget Master newsletter!",
-    "source": "Electronics Weekly",
-    "date": "2026-06-24",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-06/",
-    "summary": "<p>Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox!</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-06/\">Get the Gadget Master newsletter!</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "AlpSemi raises €17m",
-    "source": "Electronics Weekly",
-    "date": "2026-06-24",
-    "url": "https://www.electronicsweekly.com/news/business/circuit-breakers-go-mainstream-2026-06/",
-    "summary": "<p>AlpSemi has completed a €17 million funding round led by Yotta Capital (France) with participation from SE Ventures (Global), Navitas Semiconductor (USA) and Cycle Group (Luxembourg). This financing supports the ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/circuit-breakers-go-mainstream-2026-06/\">AlpSemi raises €17m</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Arm’s AI Optimisation Challenge",
-    "source": "Electronics Weekly",
-    "date": "2026-06-24",
-    "url": "https://www.electronicsweekly.com/news/business/arms-ai-optimisation-challenge-2026-06/",
-    "summary": "<p>Arm’s AI Optimisation Challenge 2026 is inviting developers to compete for £8000 in prizes by building projects that show how AI can be optimised for Arm-powered platforms across three challenge ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/arms-ai-optimisation-challenge-2026-06/\">Arm’s AI Optimisation Challenge</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Qualinx sampling GNSS receiver with OSNMA support",
-    "source": "Electronics Weekly",
-    "date": "2026-06-24",
-    "url": "https://www.electronicsweekly.com/news/business/qualinx-sampling-gnss-receiver-with-osnma-support-2026-06/",
-    "summary": "<p>Qualinx of Delft, the edge connectivity specialist, is sampling  a GNSS receiver with full Galileo OSNMA (Open Service Navigation Message Authentication) support on its QLX3Gx Series ultra-low-power GNSS receiver. Developed ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qualinx-sampling-gnss-receiver-with-osnma-support-2026-06/\">Qualinx sampling GNSS receiver with OSNMA support</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "China supplying 23% of domestic semi equipment needs and rising",
-    "source": "Electronics Weekly",
-    "date": "2026-06-24",
-    "url": "https://www.electronicsweekly.com/news/business/china-supplying-23-of-domestic-semi-equipment-needs-and-rising-2026-06/",
-    "summary": "<p>China remains the world’s largest semiconductor equipment market, supported by AI demand, memory expansion, and continued fab investments. The synchronized expansion of memory leaders CXMT and YMTC is accelerating equipment ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/china-supplying-23-of-domestic-semi-equipment-needs-and-rising-2026-06/\">China supplying 23% of domestic semi equipment needs and rising</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "JLink JTAG access on the Pinecil soldering iron",
     "source": "Adafruit",
     "date": "2026-06-24",
@@ -243,13 +257,6 @@
     "date": "2026-06-24",
     "url": "https://blog.adafruit.com/2026/06/24/circuitpython-10-3-0-alpha-3-released/",
     "summary": "From the GitHub release page: This is CircuitPython 10.3.0-alpha.3, an alpha release for 10.3.0. Further features, changes, and bug fixes will be added before the final release of 10.3.0. Highlights of this release Add usb_audio.USBMicrophone and usb_audio.USBSpeaker, which provide audio source and sink USB devices. Add audiospeed.Resampler. Add audio_i2sin input audio stream; supported only on [&#8230;]"
-  },
-  {
-    "title": "Watching a Z80 from a Raspberry Pi RP2350",
-    "source": "Adafruit",
-    "date": "2026-06-24",
-    "url": "https://blog.adafruit.com/2026/06/24/watching-a-z80-from-a-raspberry-pi-rp2350/",
-    "summary": "Kevin was messing around with the Raspberry Pi Pico RP2350 and PIO and at some point wanted to see if it could be hooked up to a Z80. As a starter, I’ve been experimenting with seeing if I can get an RP2350 to see the Z80 address and data bus in any manner. Of particular [&#8230;]"
   },
   {
     "title": "Analytical Components International (ACI) Expands HPLC Portfolio with Premium Check Valves for Liquid Chromatography Systems",
@@ -376,13 +383,6 @@
     "date": "2026-06-22",
     "url": "https://www.cnx-software.com/2026/06/22/st-vl53l9cx-direct-time-of-flight-3d-lidar-supports-5cm-to-9m-range-2-3k-zones-resolution/",
     "summary": "<div><img alt=\"ST VL53L9CX direct Time-of-Flight 3D LiDAR\" class=\"attachment-medium size-medium wp-post-image\" height=\"438\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/ST-VL53L9CX-direct-Time-of-Flight-3D-LiDAR-720x438.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>STMicroelectronics VL53L9CX, or VL53L9 for short, is the company&#8217;s first direct Time-of-Flight (dToF) 3D LiDAR all-in-one module. It offers a sensing range of  5 centimeters to 9 meters, a wide 72º field of view, a resolution of 2.3K zones, and up to 100 Hz frame rate. ST&#8217;s ToF sensors have gone a long way since we covered the VL53L0X sensor with a single zone and 2-meter range in 2017. Since then, the company has steadily improved its tiny ToF sensors with up to 64 zones and long range in recent sensors like the VL53L8CP. While the VL53L9CX is still tiny at 12.8 x 6.1 x 4.6 mm, it&#8217;s in a class of its own, acting like a mini 3D scanner with 2268 zones, and will be used for a range of applications in robotics, industrial automation, smart buildings, AR/VR, and healthcare. ST VL53L9CX 3D ToF camera module specifications: Multizone ranging [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/22/st-vl53l9cx-direct-time-of-flight-3d-lidar-supports-5cm-to-9m-range-2-3k-zones-resolution/\">ST VL53L9CX direct Time-of-Flight 3D LiDAR supports 5cm to 9m range, 2.3K zones resolution</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "GEEKOM A7 2026 Edition Review – Part 2: AMD Ryzen 5 7545U Mini PC tested with Windows 11 Pro",
-    "source": "CNX Software",
-    "date": "2026-06-22",
-    "url": "https://www.cnx-software.com/2026/06/22/geekom-a7-2026-edition-review-part-2-amd-ryzen-5-7545u-mini-pc-tested-with-windows-11-pro/",
-    "summary": "<div><img alt=\"GEEKOM A7 2026 Edition Windows 11 Pro review\" class=\"attachment-medium size-medium wp-post-image\" height=\"484\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/GEEKOM-A7-2026-Edition-Windows-11-Proreview-720x484.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We have already checked out the GEEKOM A7 2026 Edition mini PC&#8217;s hardware with an unboxing and a teardown in the first part of the review, before quickly trying the pre-installed Windows 11 Pro. We&#8217;ve now had time to test the AMD Ryzen 5 7545U mini PC more thoroughly in Windows 11, and we&#8217;ll report our experience, including feature testing, benchmark results, 4K and 8K YouTube video playback, 2.5GbE and WiFi 6E network performance evaluation, and cooling performance, as well as fan noise and power consumption measurements. Software Overview and Feature Testing – GEEKOM A7 2026 Edition The System &#62; About window confirms we have an A7 computer equipped with a 3.2 GHz (base frequency) AMD Ryzen 5 7545U processor with Radeon 740M graphics, 16 GB of RAM, and 466 GB of storage preloaded with Windows 11 Pro 25H2. HWiNFO 64 provides additional details about the AMD Ryzen 5 7545U [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/22/geekom-a7-2026-edition-review-part-2-amd-ryzen-5-7545u-mini-pc-tested-with-windows-11-pro/\">GEEKOM A7 2026 Edition Review &#8211; Part 2: AMD Ryzen 5 7545U Mini PC tested with Windows 11 Pro</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Partnerships to Drive WBG Semiconductor Innovations",
