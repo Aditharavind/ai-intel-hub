@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-25 18:59 UTC
+Generated: 2026-06-25 20:54 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,9 +15,9 @@ Generated: 2026-06-25 18:59 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 81919 | 32767.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61564 | 24625.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 61579 | 24631.7 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 29860 | 11944.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15946 | 6378.5 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 15948 | 6379.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15356 | 6142.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
@@ -42,7 +42,7 @@ Generated: 2026-06-25 18:59 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-06-25 | World Models vs VLAs: The Rift Dividing Physical AI - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUhwcEJfU1dWVzBtdkdtUEIxS3RrMmstMndTSW1Qc0FTek1wc3ZKQU9KN0k1azlVNWRPQ090a3dES1huWDZFN1RtODJhS0EtWE5ZUHVHbnl3NVpMRFRtYWV6R1VhZmtzdjZxUUg2UjhZX3pLenB4UlpHZ2dMcHE0WHBOdDdYd3RwdGN6NHYtV1lIeFNJMElFY3ZVNmlmVVB2?oc=5) |
-| 2026-06-25 | Prometheus: Jeff Bezos’ AI for the Physical World - quasa.io | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE1tQ2RVaGE2Z0lVVTMzbHk3NlFBMVRRRm1pNTVobGdYdTdrUXJxalJRTmNmTHdyVDVaRF91YUN0TWtkUTluUjdRVlVibl83WTdISzhQemxBWHFNbVlpUW1aRTdjbmZDZWFzRmtKRndFWGxMb2UwMWdHUnlR?oc=5) |
 | 2026-06-24 | Physical AI Development Platforms - Trend Hunter | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aVnNjV3kxUWJJczNTME5FZ1hJYWNCNmM0LV9ndUIyLW1tbXIwVkgtSG9POE5XTEFZcFludmJqcFZxM203QWN1N210UmNNd1RKc1pXTXh6WXZOaHQ1SXV1TlhNaWw4ajTSAWdBVV95cUxPWlZzY1d5MVFiSXMzUzBORWdYSWFjQjZjNC1fZ3VCMi1tbW1yMFZILUhvTzhOV0xBWXBZbnZianBWcTNtN0FjdTdtdFJjTXdUSnNaV014ell2Tmh0NUl1dU5YTWlsOGo0?oc=5) |
 | 2026-06-24 | Agility Robotics is headed to Wall Street - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
-| 2026-06-23 | Hyphen and Motoniq Partner to Bring Physical AI to Intelligent Food Automation - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFUwQ1JPcDZ1VF9aLVNCcnNPYlpaSU5kN3ZMOWZCalBYRE5sWGlyc2kxLU5OV2cyU1N4NWt1NmtPbWNEa19SaVozNVZ6UThHcGxpWC1UMjJ3UFhUWDlpUkl5QTdWOFFMWlk0VmFpZ0NJM2YtSEVxZzFyOU8tTFFmeml2SUwzdkJld25KTmFxMG5CY1lXN3JpTnpaa2txWVNMUGlzbzdpZWQweTVzMm83dUhhS0Z1UEhfSktWX1B6TnlwRURxeWpDbkUzOFZwNzhw?oc=5) |
+| 2026-06-23 | Krafton bets $33 mn on AI chip startup in physical AI push - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZVBuQ0VKbTdoaGw0UEhmLTZUTVdMS2xJQXR3NGYxYlB1MnpSUll0WE8xX0Qzb3NnRFM0X2RrMFA5TU4xTjI1ZWVTTFZoQnh4alZWWHVvOURROTlPRjBodDFqblduLWE5T3JManA5bFA?oc=5) |
+| 2026-06-23 | Embodied AI Startup Kunlunxing Lands Multibillion Yuan Raise - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWRxSXBrV1BlVDZjTFdHbHQ4emg2QnVOV3hiQU9jcjMyU3pSeXFZXzRhUUs2S01nWWZuNDBIbEJUTXREWnNXLTVvYkQ4dzNnSDlQNmJOMVU5QXJpdndMNC1yLWRKbHhfQWlfQ0dNTDJ2eWdOY1NpcTBuMUdidi1DY3dLQ0taRU5TS2pIaHlYMlY2Q1FGTlJOSXM0dWFxLWxPUTEwbGZKd2pHVTRXWGVPbGhEeGk5TmRvSlJieWstNzcwX3J3V0pTS045b1JRMFFRRXQ5cWVHWjNyTzdEVkE?oc=5) |
