@@ -1,5 +1,19 @@
 [
   {
+    "title": "Increasing Local GPS Accuracy for a Small Robot",
+    "source": "Hackaday",
+    "date": "2026-06-25",
+    "url": "https://hackaday.com/2026/06/25/increasing-local-gps-accuracy-for-a-small-robot/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/rtk-gps-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Even though GPS makes it possible for us to easily navigate around the planet in almost any vehicle we&#8217;d like, whether that&#8217;s a passenger vehicle, airplane, or cargo ship, it&#8217;s <a class=\"read-more\" href=\"https://hackaday.com/2026/06/25/increasing-local-gps-accuracy-for-a-small-robot/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Flying Cell Towers Are A Thing",
+    "source": "Hackaday",
+    "date": "2026-06-25",
+    "url": "https://hackaday.com/2026/06/25/flying-cell-towers-are-a-thing/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/06/FlyingCell.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Typically, when you&#8217;re sitting on a plane on the tarmac, you switch your phone to flight mode while you&#8217;re sitting through yet another &#8220;quirky&#8221; (boring) safety video. You&#8217;ll watch some <a class=\"read-more\" href=\"https://hackaday.com/2026/06/25/flying-cell-towers-are-a-thing/\">&#8230;read more</a>"
+  },
+  {
     "title": "New Record Resurrects Long-Dead CD Graphics Format",
     "source": "Hackaday",
     "date": "2026-06-25",
@@ -28,6 +42,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"441\" src=\"https://hackaday.com/wp-content/uploads/2026/06/LineShine.avif?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There is a phenomenon where as you get older, your sense of scale becomes somewhat fixed in the earlier era that shaped you&#8211; things like expecting the Dollar Store to <a class=\"read-more\" href=\"https://hackaday.com/2026/06/24/lineshine-is-fastest-supercomputer-at-over-2-exaflops/\">&#8230;read more</a>"
   },
   {
+    "title": "Orange Pi 6 CIX CD8180 12-core Arm SBC gets 2.5GbE networking, smaller form factor, drops battery support",
+    "source": "CNX Software",
+    "date": "2026-06-25",
+    "url": "https://www.cnx-software.com/2026/06/25/orange-pi-6-cix-cd8180-12-core-arm-sbc-gets-2-5gbe-networking-smaller-form-factor-drops-battery-support/",
+    "summary": "<div><img alt=\"Orange Pi 6\" class=\"attachment-medium size-medium wp-post-image\" height=\"564\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Orange-Pi-6-720x564.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Orange Pi 6 is a compact single board computer (SBC) powered by CIX P1 (CD8180) 12-core Arm Cortex-A720/A520 SoC coupled with up to 32 GB 128-bit LPDDR5 memory. It shares many of the features of the Orange Pi 6 Plus board introduced last October, but comes in a smaller and lighter form factor (90 x 90mm vs 115 x 100mm), features two 2.5GbE ports instead of two 5GbE jacks, drops support for LiPo batteries, and is offered with lower RAM capacity options (8GB-24GB vs 16GB-64GB). Orange Pi 6 specifications: SoC – Cix P1 (Codename: CD8180) 12-core DynamIQ processor 4x Cortex‑A720 big cores @ up to 2.6 GHz 4x Cortex‑A720 medium cores @ up to 2.4 GHz 4x Cortex‑A520 LITTLE cores @ up to  1.8 GHz Cache – 12MB shared L3 cache GPU – Arm Immortalis G720 MC10 with hardware ray-tracing support, graphics APIs: Vulkan 1.3, OpenGL ES 3.2, OpenCL 3.0 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/25/orange-pi-6-cix-cd8180-12-core-arm-sbc-gets-2-5gbe-networking-smaller-form-factor-drops-battery-support/\">Orange Pi 6 CIX CD8180 12-core Arm SBC gets 2.5GbE networking, smaller form factor, drops battery support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Louder ESP32 Mini board adds WiFi and Bluetooth to old speakers for SqueezeLite, Snapclient, or ESPHome support",
     "source": "CNX Software",
     "date": "2026-06-25",
@@ -49,11 +70,32 @@
     "summary": "<div><img alt=\"OpenC6 BIOS for ESP32 C6\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/OpenC6-BIOS-for-ESP32-C6-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>OpenC6 BIOS is an open-source project by Rompass that takes a different approach to MCU development. It adds a BIOS-like system to the ESP32-C6, so the system part and application code can run separately rather than being combined into a single firmware image. In traditional development, hardware setup, networking, and application code are combined into a single firmware image. But the OpenC6 BIOS operates differently: it runs as the base system on the ESP32-C6 and handles hardware initialization and system functions. Instead of flashing a full application each time, it can load small payload programs separately. These payloads can run from RAM or flash (XIP) and use system functions through a simple Application Binary Interface (ABI), without needing the full firmware. In some ways, it operates like AkiraOS, but with a BIOS-like interface. Key features of the OpenC6 BIOS architecture: Dynamic CPU scaling – Adjusts CPU frequency based on load [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/25/openc6-bios-project-brings-pc-like-firmware-to-esp32-c6-mcu-with-network-boot-and-ota-support/\">OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "ST Unveils Secure Mobile Chip with PQC",
+    "source": "Embedded.com",
+    "date": "2026-06-25",
+    "url": "https://www.embedded.com/st-unveils-secure-mobile-chip-with-pqc/",
+    "summary": "<p>STMicroelectronics has launched the ST54M secure mobile chip with post-quantum cryptography (PQC) for smartphone and personal electronics devices. Designed to meet upcoming quantum-ready security requirements, the ST54M is an advanced single-die device with a hardware accelerator for PQC, together with NFC, secure element, and eSIM functionality. The ST54M supports multiple applications on one platform while helping [...]</p>\n<p>The post <a href=\"https://www.embedded.com/st-unveils-secure-mobile-chip-with-pqc/\">ST Unveils Secure Mobile Chip with PQC</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
     "title": "Iridium Development Kit Accelerates Hybrid IoT Design",
     "source": "Embedded.com",
     "date": "2026-06-25",
     "url": "https://www.embedded.com/iridium-development-kit-accelerates-hybrid-iot-design/",
     "summary": "<p>Iridium Communications has announced the commercial availability of the Iridium 9604 module and the accompanying development kit, expanding its internet of things (IoT) portfolio with a hybrid connectivity solution that integrates satellite, cellular, and positioning technologies into a single compact platform. The new products are designed to simplify the development of globally connected IoT devices [...]</p>\n<p>The post <a href=\"https://www.embedded.com/iridium-development-kit-accelerates-hybrid-iot-design/\">Iridium Development Kit Accelerates Hybrid IoT Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "LAPP’s ÖLFLEX ROBOT range for automated dynamic 3D movements",
+    "source": "Electronics Weekly",
+    "date": "2026-06-25",
+    "url": "https://www.electronicsweekly.com/news/products/connectors/lapps-olflex-robot-range-for-automated-dynamic-3d-movements-2026-06/",
+    "summary": "<p>LAPP, the industrial connectivity specialist, is introducing its ÖLFLEX ROBOT range, which is designed for dynamic 3D movements in automated environments. The flexible PVC cables are intended for demanding applications ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/connectors/lapps-olflex-robot-range-for-automated-dynamic-3d-movements-2026-06/\">LAPP&#8217;s ÖLFLEX ROBOT range for automated dynamic 3D movements</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Fable: The CEO Who Believed In Failing Quickly",
+    "source": "Electronics Weekly",
+    "date": "2026-06-25",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-ceo-who-believed-in-failing-quickly-2026-06/",
+    "summary": "<p>The was a CEO who believed in failing quickly. “With engineering, I view this year’s failure as next year’s opportunity to try it again,” he said, “failures are not something ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-ceo-who-believed-in-failing-quickly-2026-06/\">Fable: The CEO Who Believed In Failing Quickly</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
@@ -112,18 +154,46 @@
     "summary": "<p>Micron beat all expectations for the quarter to the end of May, with revenue of $41.46 billion versus $23.86 billion for the prior quarter and $9.30 billion for the same ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/micron-2026-06/\">Micron sparkles</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "QuantWare and Maybell hook up to stay cool",
-    "source": "Electronics Weekly",
+    "title": "UPDATED PRODUCT – Pulse Sensor Amped",
+    "source": "Adafruit",
     "date": "2026-06-25",
-    "url": "https://www.electronicsweekly.com/news/business/quantware-and-maybell-to-stay-cool-2026-06/",
-    "summary": "<p>QuantWare, the quantum processor company which had a $178m Series B, has hooked up with  Maybell Quantum to ensure Maybell’s ColdCloud cooling infrastructure is compatible with and commercially available for ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/quantware-and-maybell-to-stay-cool-2026-06/\">QuantWare and Maybell hook up to stay cool</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/06/25/updated-product-pulse-sensor-amped/",
+    "summary": "UPDATED PRODUCT &#8211; Pulse Sensor Amped __________________________________________________________________________________________________ Pulse Sensor Amped is a greatly improved version of the original Pulse Sensor, a plug-and-play heart-rate sensor for Arduino and Arduino compatibles. It can be used by students, artists, athletes, makers, and game &#38; mobile developers who want to easily incorporate live heart-rate data into their projects. Pulse [&#8230;]"
   },
   {
-    "title": "People Largely Unworried By AI-Generated News",
-    "source": "Electronics Weekly",
+    "title": "3D Hangouts –  GPS Compass, Lens Adapter and Balloon Boat",
+    "source": "Adafruit",
     "date": "2026-06-25",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/898512-2026-06/",
-    "summary": "<p>25-44% percent of respondents to a survey by Statista Consumer Insights in 20 countries said they would want to know if the news they read was AI-generated. The least interest ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/898512-2026-06/\">People Largely Unworried By AI-Generated News</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/06/25/3d-hangouts-gps-compass-lens-adapter-and-balloon-boat/",
+    "summary": "3D Hangouts – GPS Compass, Lens Adapter and Balloon Boat https://youtube.com/live/fRZz4VAFSuM?feature=share This week @adafruit we’re releasing the guide and video for the GPS compass. Starting a new project, a chiptune player using Feather RP2350 and TFT FeatherWing. This week’s timelapse features a toy boat powered by a balloon. Learn Guide https://learn.adafruit.com/minecraft-gps-compass Video https://youtu.be/8WSCJ9oADt4 Adafruit Feather [&#8230;]"
+  },
+  {
+    "title": "NEW PRODUCT – Adafruit ADS7128 8-Channel ADC and GPIO Expander – STEMMA QT / Qwiic",
+    "source": "Adafruit",
+    "date": "2026-06-25",
+    "url": "https://blog.adafruit.com/2026/06/25/new-product-adafruit-ads7128-8-channel-adc-and-gpio-expander-stemma-qt-qwiic/",
+    "summary": "NEW PRODUCT &#8211; Adafruit ADS7128 8-Channel ADC and GPIO Expander &#8211; STEMMA QT / Qwiic __________________________________________________________________________________________________ The Adafruit ADS7128 8-Channel ADC and GPIO Expander is a bit of a Platypus of the I2C expander world: hard to categorize as just an ADC or a GPIO expander since it combines the capabilities of both with great capabilites! Usually, [&#8230;]"
+  },
+  {
+    "title": "NEW PRODUCTS – Pimoroni Badgeware: Blinky Badge / Blinky Badge & STEM KIT",
+    "source": "Adafruit",
+    "date": "2026-06-25",
+    "url": "https://blog.adafruit.com/2026/06/25/new-products-pimoroni-badgeware-blinky-badge-blinky-badge-stem-kit/",
+    "summary": "NEW PRODUCTS &#8211; Pimoroni Badgeware: Blinky Badge / Blinky Badge &#38; STEM KIT __________________________________________________________________________________________________ Badgeware is Pimoroni&#8217;s smart interactive badge with bright white LED matrix display, powered by Raspberry Pi RP2350. This version is the Blinky 2350 &#8211; it&#8217;s an all-in-one badge wearable featuring a matrix of 872 individually adjustable white LEDs, built-in rechargeable battery and sturdy polycarbonate case. Hang it round your neck with [&#8230;]"
+  },
+  {
+    "title": "NEW PRODUCTS – Pimoroni Badgeware: Badger Badge / Badger Badge & STEM KIT",
+    "source": "Adafruit",
+    "date": "2026-06-25",
+    "url": "https://blog.adafruit.com/2026/06/25/new-products-pimoroni-badgeware-badger-badge-badger-badge-stem-kit/",
+    "summary": "NEW PRODUCTS &#8211; Pimoroni Badgeware: Badger Badge / Badger Badge &#38; STEM KIT __________________________________________________________________________________________________ Badgeware is Pimoroni&#8217;s smart interactive badge with four-level greyscale 2.7&#8243; E-Paper display, powered by Raspberry Pi RP2350. This version is the (classic) E-Paper Badger 2350 &#8211; it&#8217;s an all-in-one badge wearable with a fast updating 2.7&#8243; electronic paper screen, built-in rechargeable battery and sturdy polycarbonate case. Hang it round your neck with [&#8230;]"
+  },
+  {
+    "title": "NEW PRODUCTS – Pimoroni Badgeware: Tufty Badge / Tufty Badge & STEM KIT",
+    "source": "Adafruit",
+    "date": "2026-06-25",
+    "url": "https://blog.adafruit.com/2026/06/25/new-products-pimoroni-badgeware-tufty-badge-tufty-badge-stem-kit/",
+    "summary": "NEW PRODUCTS &#8211; Pimoroni Badgeware: Tufty Badge / Tufty Badge &#38; STEM KIT __________________________________________________________________________________________________ Badgeware is Pimoroni&#8217;s smart interactive badge with colour 2.8&#8243; TFT display, powered by Raspberry Pi RP2350. This version is the Tufty 2350 &#8211; it&#8217;s an all-in-one badge wearable with a vibrant 2.8&#8243; IPS LCD screen, built-in rechargeable battery and sturdy polycarbonate case. Hang [&#8230;]"
   },
   {
     "title": "A 3D-printed book turns its own G-code into raised lettering  #3dThursday",
@@ -168,18 +238,18 @@
     "summary": "br1acc shares: A simple solder spool holder with a snap-in center shaft that rotates freely. Two sizes — small fits up to 30mm spools (58min print), large fits up to 60mm spools (1h17m). 3 pre-defined locations for optional rubber feet. By br1acc download the files on: https://makerworld.com/en/models/642009-solder-spool-holder-with-guide-2-sizes Every Thursday is #3dthursday here at Adafruit! The [&#8230;]"
   },
   {
-    "title": "From the mail bag…",
-    "source": "Adafruit",
+    "title": "RANsemi and TechPhosis Enable 5G OCUDU for Integrated Small Cells",
+    "source": "EE Journal",
     "date": "2026-06-25",
-    "url": "https://blog.adafruit.com/2026/06/25/from-the-mail-bag-794/",
-    "summary": "From the mail bag! Heya Adafruit folks, Just wanted to drop a note of &#8220;thanks&#8221; and &#8220;.. oh hot damn.&#8221; I&#8217;m a software engineer and don&#8217;t usually find myself trying to wrangle the magic pixies too often, but I had an idea for something very dumb awhile ago, bought a bunch of random bits that [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/ransemi-and-techphosis-enable-5g-ocudu-for-integrated-small-cells/",
+    "summary": "RANsemi Limited, the British semiconductor innovator pioneering Open RAN baseband System-on-Chip (SoC) platforms for 5G networks, and TechPhosis Private Limited, one of India’s leading 5G CU/DU stack solution providers and Open RAN integration specialists, have integrated the Linux Foundation&#8217;s open source 5G OCUDU CU/DU software stack with the RANsemi RNS802 baseband PHY using the Small Cell Forum (SCF) FAPI &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/ransemi-and-techphosis-enable-5g-ocudu-for-integrated-small-cells/\">Read More &#8594;<span class=\"screen-reader-text\"> \"RANsemi and TechPhosis Enable 5G OCUDU for Integrated Small Cells\"</span></a>"
   },
   {
-    "title": "Chris Young announces his retirement after 14 years and 55+ Show and Tell appearances",
-    "source": "Adafruit",
+    "title": "Infineon CoolGaN™ technology enables new levels of efficiency and power density in BRC Solar’s Power Optimizer",
+    "source": "EE Journal",
     "date": "2026-06-25",
-    "url": "https://blog.adafruit.com/2026/06/24/chris-young-announces-his-retirement-after-14-years-and-55-show-and-tell-appearances/",
-    "summary": "Chris Young announces his retirement after 14 years and 55+ Show and Tell appearances &#8211; thank you Chris (video)."
+    "url": "https://www.eejournal.com/industry_news/infineon-coolgan-technology-enables-new-levels-of-efficiency-and-power-density-in-brc-solars-power-optimizer/",
+    "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) announces that BRC Solar GmbH has selected Infineon&#8217;s CoolGaN™ Transistor 100 V devices as the core switching technology for its Power Optimizer. The CoolGaN Transistor 100 V family delivers industry-leading switching performance and power-handling capability in a compact 3 mm x 5 mm package, enabling panel-level maximum &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/infineon-coolgan-technology-enables-new-levels-of-efficiency-and-power-density-in-brc-solars-power-optimizer/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Infineon CoolGaN™ technology enables new levels of efficiency and power density in BRC Solar&#8217;s Power Optimizer\"</span></a>"
   },
   {
     "title": "New HE-S SC relay series offers latest IEC 62955 compliance for next-generation single-phase EV charging systems",
@@ -215,20 +285,6 @@
     "date": "2026-06-24",
     "url": "https://hackaday.com/2026/06/24/all-the-different-lasers-and-how-well-they-mark-3d-prints/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/Is-This-Laser-the-3D-Printing-Solution-We-Needed_-15-37-screenshot-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Stefan] of CNC Kitchen has an informative video describing his experiences with trying to cleanly laser-mark 3D printed plastics using different methods, and it also happens to be a fantastic <a class=\"read-more\" href=\"https://hackaday.com/2026/06/24/all-the-different-lasers-and-how-well-they-mark-3d-prints/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Laser Scanning A Cave With Homebrew Gear",
-    "source": "Hackaday",
-    "date": "2026-06-24",
-    "url": "https://hackaday.com/2026/06/24/laser-scanning-a-cave-with-homebrew-gear/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/We-3D-Scanned-A-Cave-with-my-homemade-scanning-rig-8-57-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>How do you measure the inside of a cave? You could do a bunch of hard work with classic surveying gear&#8230; or you could just use a laser scanner. [9nl] <a class=\"read-more\" href=\"https://hackaday.com/2026/06/24/laser-scanning-a-cave-with-homebrew-gear/\">&#8230;read more</a>"
-  },
-  {
-    "title": "FLOSS Weekly Episode 872: I’m Not Satoshi",
-    "source": "Hackaday",
-    "date": "2026-06-24",
-    "url": "https://hackaday.com/2026/06/24/floss-weekly-episode-872-im-not-satoshi/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>This week Jonathan chats with Tristan Sherliker about the Craig Wright case, Open Source and the law, and Tristan&#8217;s own Open Source project, BunTool. How did Open Source help win <a class=\"read-more\" href=\"https://hackaday.com/2026/06/24/floss-weekly-episode-872-im-not-satoshi/\">&#8230;read more</a>"
   },
   {
     "title": "NeoEyes NE503 – A $1199 Edge AI Camera based on Hailo-15H 20 TOPS SoC",
@@ -280,34 +336,6 @@
     "summary": "<p>For decades, progress in the electronics industry was measured primarily through advances in silicon. Faster processing, lower power consumption, greater integration, and shrinking form factors consistently pushed the industry forward and enabled entirely new categories of products and services. That model of innovation is no longer sufficient on its own. For all the technological progress [...]</p>\n<p>The post <a href=\"https://www.embedded.com/from-silicon-to-systems-reimagining-the-future-of-embedded-engineering/\">From Silicon to Systems: Reimagining the Future of Embedded Engineering</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "JLink JTAG access on the Pinecil soldering iron",
-    "source": "Adafruit",
-    "date": "2026-06-24",
-    "url": "https://blog.adafruit.com/2026/06/24/jlink-jtag-access-on-the-pinecil-soldering-iron/",
-    "summary": "Daniel Mangum bought a Pinecil soldering iron and wrote about soldering the breakout board and accessing the UART. This latest work is on JLink JTAG access. I’ve been doing more work with the Pinecil as of late following the addition of upstream support for the Bouffalo Lab BL706 MCU in Zephyr. While accessing the UART is [&#8230;]"
-  },
-  {
-    "title": "The first open-source Linux driver for the ASUS ZenVision lid OLED",
-    "source": "Adafruit",
-    "date": "2026-06-24",
-    "url": "https://blog.adafruit.com/2026/06/24/the-first-open-source-linux-driver-for-the-asus-zenvision-lid-oled/",
-    "summary": "zenvision-linux is the first open-source Linux driver for the ASUS ZenVision lid OLED display. The the protocol was reverse-engineered from scratch using Ghidra on MyASUS. It is a userspace Linux driver for the ASUS ZenVision lid OLED — the 3.5&#8243;, 256×64 monochrome screen embedded in the lid of the ASUS Zenbook 14X OLED Space Edition (UX5401ZAS). ASUS [&#8230;]"
-  },
-  {
-    "title": "JP’s Product Pick of the Week 6/23/26 @adafruit @johnedgarpark #adafruit #newproductpick",
-    "source": "Adafruit",
-    "date": "2026-06-24",
-    "url": "https://blog.adafruit.com/2026/06/24/jps-product-pick-of-the-week-6-23-26-adafruit-johnedgarpark-adafruit-newproductpick/",
-    "summary": "If you missed this week’s livestream of John Park’s Product Pick of the Week, not to worry, here’s the video. This week’s pick is the Sparkle Motion Stick + Enclosure Kit! Watch the video to find out about the Sparkle Motion Stick + Enclosure Kit, how to use it, a live demo, and more. Want [&#8230;]"
-  },
-  {
-    "title": "Digital Analog Watch #WearableWednesday #RaspberryPi",
-    "source": "Adafruit",
-    "date": "2026-06-24",
-    "url": "https://blog.adafruit.com/2026/06/24/digital-analog-watch-wearablewednesday-raspberrypi/",
-    "summary": "Sahko is rethinking the wristwatch (again). This fun wearable uses an analog meter to create a digital time piece with no traditional screen or ticking hands. Built around a Raspberry Pi Pico and features USB-C Charging with a milled aluminum case. Full details via GitHub: It&#8217;s a watch. Technically. A Raspberry Pi Pico reads the [&#8230;]"
-  },
-  {
     "title": "Analytical Components International (ACI) Expands HPLC Portfolio with Premium Check Valves for Liquid Chromatography Systems",
     "source": "EE Journal",
     "date": "2026-06-24",
@@ -336,13 +364,6 @@
     "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) has started the production of the RASIC™ CTRX8188F, a next-generation 8Tx8Rx radar transceiver that positions Infineon at the forefront of the rapidly expanding automotive 4D and HD imaging radar market. The device is ready for production engineered to support edge processing in combination with AURIXTM TC45 and &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/infineon-rasic-ctrx8188f-enters-mass-production-as-automotive-industrys-first-8tx8rx-imaging-radar-mmic-accelerating-the-shift-to-centralized-radar-architectures/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Infineon RASIC™ CTRX8188F enters mass production as automotive industry&#8217;s first 8Tx8Rx imaging radar MMIC, accelerating the shift to centralized radar architectures\"</span></a>"
   },
   {
-    "title": "STMicroelectronics unveils world’s first ST54M secure mobile chip with post-quantum cryptography for next-generation connected services",
-    "source": "EE Journal",
-    "date": "2026-06-24",
-    "url": "https://www.eejournal.com/industry_news/stmicroelectronics-unveils-worlds-first-st54m-secure-mobile-chip-with-post-quantum-cryptography-for-next-generation-connected-services/",
-    "summary": "Advanced single-die solution with PQC (post-quantum cryptography) hardware accelerator Helps mobile device makers prepare for future security requirements while enabling rich consumer and ecosystem use cases Common Criteria 2022 EUCC and EMVCo certifications target July 2026 STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers across the spectrum of electronics applications, has introduced the ST54M, a secure &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/stmicroelectronics-unveils-worlds-first-st54m-secure-mobile-chip-with-post-quantum-cryptography-for-next-generation-connected-services/\">Read More &#8594;<span class=\"screen-reader-text\"> \"STMicroelectronics unveils world’s first ST54M secure mobile chip with post-quantum cryptography for next-generation connected services\"</span></a>"
-  },
-  {
     "title": "TerraMaster F4-425 Pro 4+3 Hybrid NAS gets Intel Core 3 N350 or Core i3-N305 octa-core CPU",
     "source": "CNX Software",
     "date": "2026-06-23",
@@ -364,13 +385,6 @@
     "summary": "<div><img alt=\"nRF54L15 Tag front side\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/nRF54L15-Tag-front-side-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Nordic Semiconductor has launched the nRF54L15 Tag, a tiny coin-cell-powered prototyping platform designed to accelerate the development of ultra-low-power wireless IoT devices, including asset trackers compatible with the Apple Find My and Google Find Hub ecosystems. Built around the company’s nRF54L15 wireless SoC, the 33 mm-diameter tag uses a 2.4 GHz radio and includes two on-board antennas to improve distance-measurement reliability with Bluetooth Channel Sounding. The platform also integrates a 6-axis IMU and an environmental sensor, which can be used in tracking, sensing, and basic edge processing applications. Nordic nRF54L15 Tag specifications: Wireless MCU – Nordic Semi nRF54L15 wireless SoC CPU Arm Cortex-M33 @ up to 128 MHz RISC-V coprocessor for “software-defined peripheral” Memory – 256 KB SRAM Storage – 1.5MB Non-volatile Memory (NVM) Wireless Bluetooth LE 6.0 (includes Channel Sounding) Thread, Zigbee (IEEE 802.15.4-2020) Matter Amazon Sidewalk Proprietary 2.4 GHz protocols with a new 4 Mbps mode NFC support Aliro (a [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/23/nordic-nrf54l15-tag-prototyping-platform-supports-bluetooth-channel-sounding-matter-edge-ai/\">Coin-cell powered Nordic nRF54L15 Tag prototyping platform supports Bluetooth Channel Sounding, Matter, Edge AI</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "The Best GEEKOM Mini PCs to Buy During the Prime Day 2026 Sale (Sponsored)",
-    "source": "CNX Software",
-    "date": "2026-06-23",
-    "url": "https://www.cnx-software.com/2026/06/23/the-best-geekom-mini-pcs-to-buy-during-the-prime-day-2026-sale/",
-    "summary": "<div><img alt=\"GEEKOM Mini PC Prime Day 2026 Sale\" class=\"attachment-medium size-medium wp-post-image\" height=\"540\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/GEEKOM-Mini-PC-Prime-Day-2026-Sale-720x540.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>GEEKOM has just launched its Prime Day 2026 sale with up to 30% off the entire GEEKOM mini PC lineup, from everyday computing solutions to high-performance mini PCs. We&#8217;ve selected three models that are especially worth a look at. GEEKOM A5 Pro The GEEKOM A5 Pro is a mid-range mini PC powered by an AMD Ryzen 5 7430U processor paired with 16GB of RAM and a 512 GB NVMe SSD.  It offers four display interfaces through two HDMI 2.0 video outputs and two  USB-C ports with DisplayPort Alt Mode, a 3.5mm headphone jack, 2.5GbE and WiFi 6 networking, a full-size SD card reader, and a range of USB 3.2/2.0 ports. We&#8217;ve previously reviewed the model with an AMD Ryzen 5 7530U CPU running Windows 11 Pro and Ubuntu 25.10 and found out it was especially a good choice for people wanting low-power consumption and minimal fan noise. It&#8217;s now sold [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/23/the-best-geekom-mini-pcs-to-buy-during-the-prime-day-2026-sale/\">The Best GEEKOM Mini PCs to Buy During the Prime Day 2026 Sale (Sponsored)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
     "title": "Mubina Toa: Engineering Is Both Rewarding and Fun",
     "source": "Embedded.com",
     "date": "2026-06-23",
@@ -383,13 +397,6 @@
     "date": "2026-06-23",
     "url": "https://www.embedded.com/cras-first-connected-products-deadline-is-in-less-than-100-days/",
     "summary": "<p>The connected device market is littered with products that manufacturers shipped years ago, full of unpatched software vulnerabilities that are putting customers at risk. These products include home routers, industrial controllers, infusion pumps, and even modules built into connected cars. Under the EU Cyber Resilience Act (CRA), manufacturers of these products are about to have [...]</p>\n<p>The post <a href=\"https://www.embedded.com/cras-first-connected-products-deadline-is-in-less-than-100-days/\">CRA’s First Connected-Products Deadline Is in Less Than 100 Days</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Shaping the Edge AI Standard for IoT Compute – Synaptics and Mouser Electronics",
-    "source": "EE Journal",
-    "date": "2026-06-23",
-    "url": "https://www.eejournal.com/chalk_talks/shaping-the-edge-ai-standard-for-iot-compute-synaptics-and-mouser/",
-    "summary": "In this episode of Chalk Talk, Nebu Philips from Synaptics and Amelia Dalton explore Synaptics&#8217; vision for Edge AI, discuss the Astra Machina evaluation platform, examine the Torq Edge AI ecosystem, and look at how partnerships with companies like Google are helping build the next generation of intelligent IoT devices. Click here for more information &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/chalk_talks/shaping-the-edge-ai-standard-for-iot-compute-synaptics-and-mouser/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Shaping the Edge AI Standard for IoT Compute – Synaptics and Mouser Electronics\"</span></a>"
   },
   {
     "title": "Partnerships to Drive WBG Semiconductor Innovations",
@@ -418,12 +425,5 @@
     "date": "2026-06-19",
     "url": "https://www.embedded.com/microchip-upgrades-its-synchronization-management-software/",
     "summary": "<p>Microchip Technology Inc. has introduced the TimePictra 12 platform, the latest generation of its synchronization management software designed to simplify the deployment and operation of precise timing architectures across critical infrastructure networks. The new release adds a redesigned graphical user interface (GUI), enhanced automation features, and support for emerging high-accuracy timing technologies, enabling operators to manage [...]</p>\n<p>The post <a href=\"https://www.embedded.com/microchip-upgrades-its-synchronization-management-software/\">Microchip Upgrades its Synchronization Management Software</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "What Level 5 Autonomy Could Mean for Chip Design Engineers",
-    "source": "Embedded.com",
-    "date": "2026-06-18",
-    "url": "https://www.embedded.com/what-level-5-autonomy-could-mean-for-chip-design-engineers/",
-    "summary": "<p>Cadence Design Systems Inc. introduced its Level 5 ChipStack AI Super Agent at Computex 2026. The company describes it as the industry's first fully autonomous virtual agentic AI design engineer for chip design. The release builds on the recent announcement of Level 4 autonomy in electronic design automation (EDA). Cadence said the rapid transition to [...]</p>\n<p>The post <a href=\"https://www.embedded.com/what-level-5-autonomy-could-mean-for-chip-design-engineers/\">What Level 5 Autonomy Could Mean for Chip Design Engineers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]

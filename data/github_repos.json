@@ -1,5 +1,15 @@
 [
   {
+    "repo": "copper-project/copper-rs",
+    "stars": 1368,
+    "language": "Rust",
+    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
+    "url": "https://github.com/copper-project/copper-rs",
+    "date": "2026-06-25",
+    "topic": "physical-ai",
+    "score": 547.3
+  },
+  {
     "repo": "mosaico-labs/mosaico",
     "stars": 883,
     "language": "Python",
@@ -10,24 +20,34 @@
     "score": 353.3
   },
   {
+    "repo": "Developer-Y/cs-video-courses",
+    "stars": 81913,
+    "language": "",
+    "description": "List of Computer Science courses with video lectures.",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "date": "2026-06-25",
+    "topic": "robotics",
+    "score": 32765.3
+  },
+  {
     "repo": "commaai/openpilot",
-    "stars": 61544,
+    "stars": 61556,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-06-25",
     "topic": "robotics",
-    "score": 24617.7
+    "score": 24622.5
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15353,
+    "stars": 15355,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-06-25",
     "topic": "robotics",
-    "score": 6141.3
+    "score": 6142.1
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -61,13 +81,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 6914,
+    "stars": 6922,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-06-25",
     "topic": "robotics",
-    "score": 2765.7
+    "score": 2768.9
   },
   {
     "repo": "RLinf/RLinf",
@@ -91,13 +111,13 @@
   },
   {
     "repo": "leofan90/Awesome-World-Models",
-    "stars": 1832,
+    "stars": 1833,
     "language": "Python",
     "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
     "url": "https://github.com/leofan90/Awesome-World-Models",
     "date": "2026-06-25",
     "topic": "world-model",
-    "score": 732.9
+    "score": 733.3
   },
   {
     "repo": "StanfordVL/BEHAVIOR-1K",
@@ -161,13 +181,13 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 1939,
+    "stars": 1941,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-06-25",
     "topic": "world-model",
-    "score": 775.7
+    "score": 776.5
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -191,13 +211,13 @@
   },
   {
     "repo": "robocasa/robocasa",
-    "stars": 1489,
+    "stars": 1490,
     "language": "Python",
     "description": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
     "url": "https://github.com/robocasa/robocasa",
     "date": "2026-06-25",
     "topic": "robot-learning",
-    "score": 595.7
+    "score": 596.1
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",
@@ -250,16 +270,6 @@
     "score": 568.5
   },
   {
-    "repo": "copper-project/copper-rs",
-    "stars": 1368,
-    "language": "Rust",
-    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
-    "url": "https://github.com/copper-project/copper-rs",
-    "date": "2026-06-24",
-    "topic": "physical-ai",
-    "score": 547.3
-  },
-  {
     "repo": "awslabs/awsome-distributed-ai",
     "stars": 448,
     "language": "Shell",
@@ -280,24 +290,14 @@
     "score": 128.5
   },
   {
-    "repo": "Developer-Y/cs-video-courses",
-    "stars": 81907,
-    "language": "",
-    "description": "List of Computer Science courses with video lectures.",
-    "url": "https://github.com/Developer-Y/cs-video-courses",
-    "date": "2026-06-24",
-    "topic": "robotics",
-    "score": 32762.9
-  },
-  {
     "repo": "kornia/kornia",
-    "stars": 11250,
+    "stars": 11251,
     "language": "Python",
     "description": "🐍 Geometric Computer Vision Library for Spatial AI",
     "url": "https://github.com/kornia/kornia",
     "date": "2026-06-24",
     "topic": "robotics",
-    "score": 4500.1
+    "score": 4500.5
   },
   {
     "repo": "mani-skill/ManiSkill",
@@ -391,13 +391,13 @@
   },
   {
     "repo": "automatika-robotics/emos",
-    "stars": 71,
+    "stars": 72,
     "language": "Go",
     "description": "EMOS - The Embodied OS",
     "url": "https://github.com/automatika-robotics/emos",
     "date": "2026-06-23",
     "topic": "humanoid",
-    "score": 28.5
+    "score": 28.9
   },
   {
     "repo": "Tavish9/any4lerobot",
@@ -421,13 +421,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2397,
+    "stars": 2398,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-06-22",
     "topic": "embodied-ai",
-    "score": 958.9
+    "score": 959.3
   },
   {
     "repo": "baidu-baige/LoongForge",
@@ -771,13 +771,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 1573,
+    "stars": 1574,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-05",
     "topic": "robot-learning",
-    "score": 629.3
+    "score": 629.7
   },
   {
     "repo": "NVIDIA-Omniverse/ovrtx",
