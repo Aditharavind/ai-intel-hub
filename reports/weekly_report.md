@@ -1,23 +1,17 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-25 22:13 UTC
+Generated: 2026-06-26 00:02 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-06-24 | Learning Action Priors for Cross-embodiment Robot Manipulation | [link](https://arxiv.org/pdf/2606.26095v1) |
-| 2026-06-24 | ForceBand: Learning Forceful Manipulation with sEMG | [link](https://arxiv.org/pdf/2606.26093v1) |
-| 2026-06-24 | The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems | [link](https://arxiv.org/pdf/2606.26057v1) |
-| 2026-06-24 | Deep Reinforcement Learning-Enhanced Event-Triggered Data-Driven Predictive Control for a 3D Cable-Driven Soft Robotic Arm | [link](https://arxiv.org/pdf/2606.26048v1) |
-| 2026-06-24 | Learning Robot Visual Navigation in Crowds via Intention-Aware Scene Representations | [link](https://arxiv.org/pdf/2606.26047v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81921 | 32768.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61582 | 24632.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 81927 | 32770.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61585 | 24634.1 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 29862 | 11944.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15948 | 6379.3 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 15949 | 6379.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15356 | 6142.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
@@ -32,9 +26,9 @@ Generated: 2026-06-25 22:13 UTC
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
-| 2026-06-25 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFJoUFhNSkJSZWhIVVpZNmxfWlZKc3dkeEQ5NjMzMG9TZDBYS2RtRVYwTUI0cm93bHR0OEM5RXpYSS1WVjVsM2lQR093S25TMEdrSWFzTWNvRklZVmxLYWtYUmV5cVdJNm9aaGpzcHdJWDVOcS10cVo0QzRTTk5KYUp5X1M5M0tuLVd0QkRVRVQySnNMTmpPUE1vand2X0I0OWloMDJjN2hhNHdiTDR1bGt6Zw?oc=5) |
 | 2026-06-25 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMiP0FVX3lxTE1JNnVnc1hYTE83LWRYVVlIS19ISjViM2tIWFNyLWhJRk03d0w2U05sWEhRS09oeU1iMGxFdFRQMA?oc=5) |
+| 2026-06-25 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGdybHdlOWFOTldsa00wVlY3a1NQOExZY1RKZGRJSlNHYnBYdVFrZ2NVSnBsS3FzaTgwaUtVNk9OaURuOTRodzhXa0FaUTcyQ2RZTVlyakdONWFnRkJBa2VGXy16aXAxYk1QMEd2X1RPNW0xTkxBSWxEMzNwWENBb1lza29Vd1FSLUp4MUpCNFVrWjdK?oc=5) |
 | 2026-06-25 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDhxMkc3MGdXb092MjZIbGVjQXFoSXp5OFZXYUR1T0xIcEtqdkdoYzQ3OC1vSnZRN0Z3M09PRXRiNnZGOXNJaUVBSWpIQ0d6YnZaR3g1bUdFN19fNU5LRUhuZEkwbGxGS1UzX2M5dTdyT3F5a3ZxMXhmUGllZXVEWXlnSGp5Q01yQ2ZUN0lYMTY5UVBBRXViZm9zbGd1bzF3TTFkeHA4RWxUZ0todWd0SmJNcmNKNTFVMVpScEVfejBPdko1?oc=5) |
 | 2026-06-24 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxNMS1yZUtReWMtWV9vdFFoVzhxNXVEanNJd1FKVVZJYmdCbEo3ZkxtZjdvVHkzU1lTZkJnaTVRNWY3UmplMHZvX05WQnJublhUelNDNmI5WEZ2M2JOTDNfUktIamJzM0szVHEyTkMxQm5UQmUycTRhSDdNRkljM0x0ZEFpb2xlZC1LaHBLd1Nhd0hRWWoxVElRbEtBS0gyQmRrWTJoSWhBSHkySmZTcEpLeFpEdzdpMW1HNFNQdHBiWVVVNDV2X2xTd1NIbw?oc=5) |
 

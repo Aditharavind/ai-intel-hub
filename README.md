@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-25 22:13 UTC
+Last Updated: 2026-06-26 00:02 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -48,30 +48,19 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-25 | Fixing a Warped Paperback Spine With Gentle Heating | Hackaday | [link](https://hackaday.com/2026/06/25/fixing-a-warped-paperback-spine-with-gentle-heating/) |
 | 2026-06-25 | Cheap 80s Keyboard Gets Modern Brain Upgrade | Hackaday | [link](https://hackaday.com/2026/06/25/cheap-80s-keyboard-gets-modern-brain-upgrade/) |
 | 2026-06-25 | CSS On The ESP32 | Hackaday | [link](https://hackaday.com/2026/06/25/css-on-the-esp32/) |
 | 2026-06-25 | Increasing Local GPS Accuracy for a Small Robot | Hackaday | [link](https://hackaday.com/2026/06/25/increasing-local-gps-accuracy-for-a-small-robot/) |
 | 2026-06-25 | Flying Cell Towers Are A Thing | Hackaday | [link](https://hackaday.com/2026/06/25/flying-cell-towers-are-a-thing/) |
 | 2026-06-25 | New Record Resurrects Long-Dead CD Graphics Format | Hackaday | [link](https://hackaday.com/2026/06/25/new-record-resurrects-long-dead-cd-graphics-format/) |
 | 2026-06-25 | A Look at a Gaggle of Transputer Boards | Hackaday | [link](https://hackaday.com/2026/06/25/a-look-at-a-gaggle-of-transputer-boards/) |
-| 2026-06-25 | A More Convenient iButton Reader | Hackaday | [link](https://hackaday.com/2026/06/24/a-more-convenient-ibutton-reader/) |
 | 2026-06-25 | Orange Pi 6 CIX CD8180 12-core Arm SBC gets 2.5GbE networking, smaller form factor, drops battery support | CNX Software | [link](https://www.cnx-software.com/2026/06/25/orange-pi-6-cix-cd8180-12-core-arm-sbc-gets-2-5gbe-networking-smaller-form-factor-drops-battery-support/) |
 | 2026-06-25 | Louder ESP32 Mini board adds WiFi and Bluetooth to old speakers for SqueezeLite, Snapclient, or ESPHome support | CNX Software | [link](https://www.cnx-software.com/2026/06/25/louder-esp32-mini-board-adds-wifi-and-bluetooth-to-old-speakers-for-squeezelite-snapclient-or-esphome-support/) |
 | 2026-06-25 | Quectel FCM365X dual-band WiFi 6, BLE 5.4, 802.15.4 IoT module features NXP RW612 MCU, optional PSRAM | CNX Software | [link](https://www.cnx-software.com/2026/06/25/quectel-fcm365x-dual-band-wifi-6-ble-5-4-802-15-4-iot-module-nxp-rw612-psram/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-06-24 | Learning Action Priors for Cross-embodiment Robot Manipulation | [link](https://arxiv.org/pdf/2606.26095v1) |
-| 2026-06-24 | ForceBand: Learning Forceful Manipulation with sEMG | [link](https://arxiv.org/pdf/2606.26093v1) |
-| 2026-06-24 | The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems | [link](https://arxiv.org/pdf/2606.26057v1) |
-| 2026-06-24 | Deep Reinforcement Learning-Enhanced Event-Triggered Data-Driven Predictive Control for a 3D Cable-Driven Soft Robotic Arm | [link](https://arxiv.org/pdf/2606.26048v1) |
-| 2026-06-24 | Learning Robot Visual Navigation in Crowds via Intention-Aware Scene Representations | [link](https://arxiv.org/pdf/2606.26047v1) |
-| 2026-06-24 | RoboAtlas: Contextual Active SLAM | [link](https://arxiv.org/pdf/2606.26046v1) |
-| 2026-06-24 | Jets and Outflows in Young Stellar Objects with the SKAO | [link](https://arxiv.org/pdf/2606.26044v1) |
-| 2026-06-24 | In-Context World Modeling for Robotic Control | [link](https://arxiv.org/pdf/2606.26025v1) |
-| 2026-06-24 | Privacy Vulnerabilities of Attention Layers in Tabular Foundation Models and Protection of High-Risk Queries | [link](https://arxiv.org/pdf/2606.26021v1) |
-| 2026-06-24 | G2DP: Diffusion Planning with Spatio-Temporal Grid Guidance | [link](https://arxiv.org/pdf/2606.26017v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
@@ -83,30 +72,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-25 | LohanTS/mon-dataset-robot | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-dataset-robot) |
 | 2026-06-25 | zaleni/6B-Robotwin | 0 | 0 | [link](https://huggingface.co/zaleni/6B-Robotwin) |
 | 2026-06-25 | uuuhjb/stage1_5w_robotwin | 0 | 0 | [link](https://huggingface.co/uuuhjb/stage1_5w_robotwin) |
-| 2026-06-25 | Vladbambu/Julia | 0 | 0 | [link](https://huggingface.co/Vladbambu/Julia) |
-| 2026-06-25 | crislmfroes/vla-jepa-libero-10 | 0 | 0 | [link](https://huggingface.co/crislmfroes/vla-jepa-libero-10) |
-| 2026-06-25 | GT-111/MemCode-VLA | 0 | 0 | [link](https://huggingface.co/GT-111/MemCode-VLA) |
+| 2026-06-25 | Cocoyawn32/vlanext-robolab-droid-eval | 0 | 0 | [link](https://huggingface.co/Cocoyawn32/vlanext-robolab-droid-eval) |
+| 2026-06-25 | Alexxz3/franka_pi05_vla_v13_20260625_v01 | 0 | 0 | [link](https://huggingface.co/Alexxz3/franka_pi05_vla_v13_20260625_v01) |
+| 2026-06-25 | VLat3/dqn-SpaceInvadersNoFrameskip | 0 | 0 | [link](https://huggingface.co/VLat3/dqn-SpaceInvadersNoFrameskip) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| Edgenesis/shifu | 1421 | Go | 568.5 | [link](https://github.com/Edgenesis/shifu) |
 | copper-project/copper-rs | 1368 | Rust | 547.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 883 | Python | 353.3 | [link](https://github.com/mosaico-labs/mosaico) |
-| Developer-Y/cs-video-courses | 81921 |  | 32768.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61582 | Python | 24632.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 81927 |  | 32770.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61585 | Python | 24634.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15356 | C++ | 6142.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 13987 | C++ | 5594.9 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 13988 | C++ | 5595.3 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 10987 | Rust | 4394.9 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7532 | Python | 3012.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| earthtojake/text-to-cad | 6928 | JavaScript | 2771.3 | [link](https://github.com/earthtojake/text-to-cad) |
-| RLinf/RLinf | 3900 | Python | 1560.1 | [link](https://github.com/RLinf/RLinf) |
+| earthtojake/text-to-cad | 6929 | JavaScript | 2771.7 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
-| 2026-06-25 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFJoUFhNSkJSZWhIVVpZNmxfWlZKc3dkeEQ5NjMzMG9TZDBYS2RtRVYwTUI0cm93bHR0OEM5RXpYSS1WVjVsM2lQR093S25TMEdrSWFzTWNvRklZVmxLYWtYUmV5cVdJNm9aaGpzcHdJWDVOcS10cVo0QzRTTk5KYUp5X1M5M0tuLVd0QkRVRVQySnNMTmpPUE1vand2X0I0OWloMDJjN2hhNHdiTDR1bGt6Zw?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiP0FVX3lxTE1JNnVnc1hYTE83LWRYVVlIS19ISjViM2tIWFNyLWhJRk03d0w2U05sWEhRS09oeU1iMGxFdFRQMA?oc=5) |
+| 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGdybHdlOWFOTldsa00wVlY3a1NQOExZY1RKZGRJSlNHYnBYdVFrZ2NVSnBsS3FzaTgwaUtVNk9OaURuOTRodzhXa0FaUTcyQ2RZTVlyakdONWFnRkJBa2VGXy16aXAxYk1QMEd2X1RPNW0xTkxBSWxEMzNwWENBb1lza29Vd1FSLUp4MUpCNFVrWjdK?oc=5) |
 | 2026-06-25 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDhxMkc3MGdXb092MjZIbGVjQXFoSXp5OFZXYUR1T0xIcEtqdkdoYzQ3OC1vSnZRN0Z3M09PRXRiNnZGOXNJaUVBSWpIQ0d6YnZaR3g1bUdFN19fNU5LRUhuZEkwbGxGS1UzX2M5dTdyT3F5a3ZxMXhmUGllZXVEWXlnSGp5Q01yQ2ZUN0lYMTY5UVBBRXViZm9zbGd1bzF3TTFkeHA4RWxUZ0todWd0SmJNcmNKNTFVMVpScEVfejBPdko1?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxNMS1yZUtReWMtWV9vdFFoVzhxNXVEanNJd1FKVVZJYmdCbEo3ZkxtZjdvVHkzU1lTZkJnaTVRNWY3UmplMHZvX05WQnJublhUelNDNmI5WEZ2M2JOTDNfUktIamJzM0szVHEyTkMxQm5UQmUycTRhSDdNRkljM0x0ZEFpb2xlZC1LaHBLd1Nhd0hRWWoxVElRbEtBS0gyQmRrWTJoSWhBSHkySmZTcEpLeFpEdzdpMW1HNFNQdHBiWVVVNDV2X2xTd1NIbw?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
@@ -133,6 +122,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-06-25 | Associate General Counsel, Hardware and Data | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4661633006) |
+| 2026-06-25 | Helix AI Engineer, Robot Learning | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4649851006) |
 | 2026-06-25 | Buyer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6101794004) |
 | 2026-06-24 | Deployment Engineer - Commercial Site Team | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4683846006) |
 | 2026-06-24 | Integration and Test - Mechanical Engineering Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4606074006) |
@@ -141,7 +131,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-24 | Staff AI Research Engineer | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6098736004) |
 | 2026-06-23 | Hardware Reliability Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4613067006) |
 | 2026-06-23 | Production Associate | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4453797006) |
-| 2026-06-23 | Validation Engineering Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4606072006) |
 
 ## Automation
 
