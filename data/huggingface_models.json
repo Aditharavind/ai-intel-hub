@@ -1,5 +1,41 @@
 [
   {
+    "model": "LohanTS/mon-model-robot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/LohanTS/mon-model-robot",
+    "date": "2026-06-26",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_speedup_v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_speedup_v2",
+    "date": "2026-06-26",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v2",
+    "date": "2026-06-26",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "qualia-robotics/pi05-openarm-cube-distractor-lang-v3-rel-june25-6a2b4c5d",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/qualia-robotics/pi05-openarm-cube-distractor-lang-v3-rel-june25-6a2b4c5d",
+    "date": "2026-06-26",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "uuuhjb/robotwin_7w",
     "downloads": 0,
     "likes": 0,
@@ -18,19 +54,19 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/pi05_LONG_TAIL_TRAIN_4-img-sim",
+    "model": "anhtld/vla",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/pi05_LONG_TAIL_TRAIN_4-img-sim",
+    "url": "https://huggingface.co/anhtld/vla",
     "date": "2026-06-26",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/pi05_LONG_TAIL_TRAIN_4-img-sam",
+    "model": "Alexxz3/franka_pi05_vla_v13_fullframe_vlm_r32_20k_20260626_v01",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/pi05_LONG_TAIL_TRAIN_4-img-sam",
+    "url": "https://huggingface.co/Alexxz3/franka_pi05_vla_v13_fullframe_vlm_r32_20k_20260626_v01",
     "date": "2026-06-26",
     "keyword": "vla",
     "score": 0.1
@@ -45,10 +81,19 @@
     "score": 0.1
   },
   {
-    "model": "anhtld/vla",
+    "model": "sam-guided-vlas/pi05_LONG_TAIL_TRAIN_4-img-sam",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/anhtld/vla",
+    "url": "https://huggingface.co/sam-guided-vlas/pi05_LONG_TAIL_TRAIN_4-img-sam",
+    "date": "2026-06-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/pi05_LONG_TAIL_TRAIN_4-img-sim",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/pi05_LONG_TAIL_TRAIN_4-img-sim",
     "date": "2026-06-26",
     "keyword": "vla",
     "score": 0.1
@@ -171,15 +216,6 @@
     "score": 0.1
   },
   {
-    "model": "uuuhjb/stage1_5w_robotwin",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/uuuhjb/stage1_5w_robotwin",
-    "date": "2026-06-25",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "VLat3/dqn-SpaceInvadersNoFrameskip",
     "downloads": 0,
     "likes": 0,
@@ -294,42 +330,6 @@
     "url": "https://huggingface.co/vasco281204/diffusion_pick_red_policyddim",
     "date": "2026-06-25",
     "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "uuuhjb/stage1_robotwin_4w",
-    "downloads": 1,
-    "likes": 0,
-    "url": "https://huggingface.co/uuuhjb/stage1_robotwin_4w",
-    "date": "2026-06-24",
-    "keyword": "robot",
-    "score": 0.4
-  },
-  {
-    "model": "Robot2050/QChunker-Ref",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/Robot2050/QChunker-Ref",
-    "date": "2026-06-24",
-    "keyword": "robot",
-    "score": 0.7
-  },
-  {
-    "model": "LuEduSoHu/robot_learning_tutorial_diffusion_0623_0204",
-    "downloads": 5,
-    "likes": 0,
-    "url": "https://huggingface.co/LuEduSoHu/robot_learning_tutorial_diffusion_0623_0204",
-    "date": "2026-06-24",
-    "keyword": "robot",
-    "score": 1.6
-  },
-  {
-    "model": "PhoenixHu/vla-ad-evaluation-results-summary",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/PhoenixHu/vla-ad-evaluation-results-summary",
-    "date": "2026-06-24",
-    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -558,24 +558,6 @@
     "score": 4.3
   },
   {
-    "model": "qualia-robotics/openarm-rl-best-policy",
-    "downloads": 44,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/openarm-rl-best-policy",
-    "date": "2026-06-17",
-    "keyword": "robotics",
-    "score": 13.3
-  },
-  {
-    "model": "qualia-robotics/act-mini-chair-base-remove-be137b42",
-    "downloads": 32,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/act-mini-chair-base-remove-be137b42",
-    "date": "2026-06-16",
-    "keyword": "robotics",
-    "score": 9.7
-  },
-  {
     "model": "BrinqAI/functiongemma-270m-physical-ai",
     "downloads": 142,
     "likes": 0,
@@ -583,15 +565,6 @@
     "date": "2026-06-15",
     "keyword": "physical ai",
     "score": 42.7
-  },
-  {
-    "model": "L7-Robotics/pi05_conveyor_dynamic",
-    "downloads": 28,
-    "likes": 0,
-    "url": "https://huggingface.co/L7-Robotics/pi05_conveyor_dynamic",
-    "date": "2026-06-15",
-    "keyword": "robotics",
-    "score": 8.5
   },
   {
     "model": "IffYuan/Embodied-R1.5",
