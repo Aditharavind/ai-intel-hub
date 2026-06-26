@@ -1,5 +1,14 @@
 [
   {
+    "model": "chandanreddy/qwen-no-robots-lora",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/chandanreddy/qwen-no-robots-lora",
+    "date": "2026-06-26",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "pollen-robotics/wake-word-detector",
     "downloads": 42,
     "likes": 0,
@@ -162,6 +171,15 @@
     "score": 0.1
   },
   {
+    "model": "shadow-cann/hispark-modelzoo-yolov8s-world",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/shadow-cann/hispark-modelzoo-yolov8s-world",
+    "date": "2026-06-26",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
     "model": "SaFD-00/qwen2.5-vl-7b-ac-exp03-world-model-stage1-lora-epoch3",
     "downloads": 11,
     "likes": 0,
@@ -169,6 +187,24 @@
     "date": "2026-06-26",
     "keyword": "world model",
     "score": 3.4
+  },
+  {
+    "model": "tanioklyce/act_so101_grab_red_cube_2_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tanioklyce/act_so101_grab_red_cube_2_policy",
+    "date": "2026-06-26",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "MakinoKF/pick-closest-nut-dataset_act-policy-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MakinoKF/pick-closest-nut-dataset_act-policy-v1",
+    "date": "2026-06-26",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "MakinoKF/touch-overlapped-nut-dataset_act-policy-v1",
@@ -223,15 +259,6 @@
     "date": "2026-06-25",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "robot-ai-team2-2026/dp_irl_imagenet_331d-NI",
-    "downloads": 30,
-    "likes": 0,
-    "url": "https://huggingface.co/robot-ai-team2-2026/dp_irl_imagenet_331d-NI",
-    "date": "2026-06-25",
-    "keyword": "robot",
-    "score": 9.1
   },
   {
     "model": "VLat3/dqn-SpaceInvadersNoFrameskip",
@@ -313,24 +340,6 @@
     "date": "2026-06-25",
     "keyword": "policy",
     "score": 6.7
-  },
-  {
-    "model": "sebry4n/my_policy_dot",
-    "downloads": 32,
-    "likes": 0,
-    "url": "https://huggingface.co/sebry4n/my_policy_dot",
-    "date": "2026-06-25",
-    "keyword": "policy",
-    "score": 9.7
-  },
-  {
-    "model": "quan1328/so101_recordtest_torq_policy13_chunk15",
-    "downloads": 31,
-    "likes": 0,
-    "url": "https://huggingface.co/quan1328/so101_recordtest_torq_policy13_chunk15",
-    "date": "2026-06-25",
-    "keyword": "policy",
-    "score": 9.4
   },
   {
     "model": "linhrumata/world-models",
@@ -439,15 +448,6 @@
     "date": "2026-06-22",
     "keyword": "world model",
     "score": 4.6
-  },
-  {
-    "model": "burtenshaw/openenv-echo-world-model-distilgpt2-seed1",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/burtenshaw/openenv-echo-world-model-distilgpt2-seed1",
-    "date": "2026-06-22",
-    "keyword": "world model",
-    "score": 4.9
   },
   {
     "model": "AMD-PAVS-AI/Robotics_DevKit_models",
