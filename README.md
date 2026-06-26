@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-26 21:59 UTC
+Last Updated: 2026-06-26 23:02 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-26 | Fixing an Elgato Cam Link’s USB Current Draw Issue | Hackaday | [link](https://hackaday.com/2026/06/26/fixing-an-elgato-cam-links-usb-current-draw-issue/) |
 | 2026-06-26 | A Custom Zigbee Touch Keypad | Hackaday | [link](https://hackaday.com/2026/06/26/a-custom-zigbee-touch-keypad/) |
 | 2026-06-26 | Reflective LCD Slabtop Terminal Runs Homebrewed Solar OS | Hackaday | [link](https://hackaday.com/2026/06/26/reflective-lcd-slabtop-terminal-runs-homebrewed-solar-os/) |
 | 2026-06-26 | Hackaday Podcast Episode 375: Rebuilding Tech on Our Terms and the Hero Nerd | Hackaday | [link](https://hackaday.com/2026/06/26/hackaday-podcast-episode-375-rebuilding-tech-on-our-terms-and-the-hero-nerd/) |
 | 2026-06-26 | A GUI Solution For ESP32 Web Development | Hackaday | [link](https://hackaday.com/2026/06/26/a-gui-solution-for-esp32-web-development/) |
 | 2026-06-26 | This Week in Security: Stealing Email with AI, AMD Nerfs Chips, the World Cup Nearly Rickrolled, and GPSD Bugs | Hackaday | [link](https://hackaday.com/2026/06/26/this-week-in-security-stealing-email-with-ai-amd-nerfs-chips-the-world-cup-nearly-hacked-and-gpsd-bugs/) |
 | 2026-06-26 | Alan Turing’s Remarkable, Nearly-Forgotten Voice Encryption Device | Hackaday | [link](https://hackaday.com/2026/06/26/alan-turings-remarkable-nearly-forgotten-voice-encryption-device/) |
-| 2026-06-26 | This Kid-Friendly Laptop Build is The Antidote to Age Verification | Hackaday | [link](https://hackaday.com/2026/06/26/this-kid-friendly-laptop-build-is-the-antidote-to-age-verification/) |
 | 2026-06-26 | Discounted 1.25 GHz Raspberry Pi 4 Model B shows up online | CNX Software | [link](https://www.cnx-software.com/2026/06/26/discounted-1-25-ghz-raspberry-pi-4-model-b/) |
 | 2026-06-26 | Makerfabs MaTouch ESP32-P4 10.1-inch HMI display features 4G LTE and Ethernet connectivity, a 2MP camera | CNX Software | [link](https://www.cnx-software.com/2026/06/26/makerfabs-matouch-esp32-p4-10-1-inch-hmi-display-features-4g-lte-and-ethernet-connectivity-a-2mp-camera/) |
 | 2026-06-26 | $449 CHUWI UniBook 14-inch laptop is powered by an Intel Core 3 304 Wildcat Lake processor | CNX Software | [link](https://www.cnx-software.com/2026/06/26/449-chuwi-unibook-14-inch-laptop-is-powered-by-an-intel-core-3-304-wildcat-lake-processor/) |
@@ -77,8 +77,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-06-26 | farguney/psn-robot-mind-flow-small | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-flow-small) |
 | 2026-06-26 | farguney/psn-robot-mind-small | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-small) |
+| 2026-06-26 | farguney/psn-robot-mind-vla | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-vla) |
+| 2026-06-26 | farguney/psn-robot-mind-flow-small | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-flow-small) |
 | 2026-06-26 | farguney/psn-robot-mind-real-small | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-real-small) |
 | 2026-06-26 | chandanreddy/qwen-no-robots-lora | 0 | 0 | [link](https://huggingface.co/chandanreddy/qwen-no-robots-lora) |
 | 2026-06-26 | pollen-robotics/wake-word-detector | 42 | 0 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-26 | aarvis/cotrain_base_future_latent_robot_polish_ah10 | 0 | 0 | [link](https://huggingface.co/aarvis/cotrain_base_future_latent_robot_polish_ah10) |
 | 2026-06-26 | aarvis/pi05_cotrain_base_human_sim_robot_ah5 | 0 | 0 | [link](https://huggingface.co/aarvis/pi05_cotrain_base_human_sim_robot_ah5) |
 | 2026-06-26 | LohanTS/mon-model-robot | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-model-robot) |
-| 2026-06-26 | L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_speedup_v2 | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_speedup_v2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -95,12 +95,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 884 | Python | 353.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 450 | Shell | 180.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 61754 | Python | 24701.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 61769 | Python | 24707.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15368 | C++ | 6147.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 13996 | C++ | 5598.5 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 10988 | Rust | 4395.3 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7534 | Python | 3013.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| earthtojake/text-to-cad | 6975 | JavaScript | 2790.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 6977 | JavaScript | 2790.9 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

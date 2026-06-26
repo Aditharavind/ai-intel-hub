@@ -1,18 +1,27 @@
 [
   {
-    "model": "farguney/psn-robot-mind-flow-small",
+    "model": "farguney/psn-robot-mind-small",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/farguney/psn-robot-mind-flow-small",
+    "url": "https://huggingface.co/farguney/psn-robot-mind-small",
     "date": "2026-06-26",
     "keyword": "robot",
     "score": 0.1
   },
   {
-    "model": "farguney/psn-robot-mind-small",
+    "model": "farguney/psn-robot-mind-vla",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/farguney/psn-robot-mind-small",
+    "url": "https://huggingface.co/farguney/psn-robot-mind-vla",
+    "date": "2026-06-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "farguney/psn-robot-mind-flow-small",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/farguney/psn-robot-mind-flow-small",
     "date": "2026-06-26",
     "keyword": "robot",
     "score": 0.1
@@ -99,12 +108,12 @@
     "score": 0.1
   },
   {
-    "model": "qualia-robotics/pi05-openarm-cube-distractor-lang-v3-rel-june25-6a2b4c5d",
+    "model": "Vladbambu/Julia",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/pi05-openarm-cube-distractor-lang-v3-rel-june25-6a2b4c5d",
+    "url": "https://huggingface.co/Vladbambu/Julia",
     "date": "2026-06-26",
-    "keyword": "robotics",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -198,24 +207,6 @@
     "score": 0.1
   },
   {
-    "model": "Alexxz3/franka_pi05_vla_v13_fullframe_10k_20260626_v02",
-    "downloads": 3,
-    "likes": 0,
-    "url": "https://huggingface.co/Alexxz3/franka_pi05_vla_v13_fullframe_10k_20260626_v02",
-    "date": "2026-06-26",
-    "keyword": "vla",
-    "score": 1.0
-  },
-  {
-    "model": "Alexxz3/franka_pi05_vla_v13_nocrop_20260626_v01",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Alexxz3/franka_pi05_vla_v13_nocrop_20260626_v01",
-    "date": "2026-06-26",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "shadow-cann/hispark-modelzoo-yolov8s-world",
     "downloads": 0,
     "likes": 0,
@@ -294,6 +285,15 @@
     "url": "https://huggingface.co/hiskiv/cosmos-policy-lam",
     "date": "2026-06-26",
     "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "qualia-robotics/pi05-openarm-cube-distractor-lang-v3-rel-june25-6a2b4c5d",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/qualia-robotics/pi05-openarm-cube-distractor-lang-v3-rel-june25-6a2b4c5d",
+    "date": "2026-06-26",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
