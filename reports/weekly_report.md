@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-26 20:24 UTC
+Generated: 2026-06-26 21:59 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-06-26 20:24 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81947 | 32778.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61738 | 24695.3 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 81951 | 32780.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61754 | 24701.7 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 29872 | 11948.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15954 | 6381.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15367 | 6146.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15368 | 6147.3 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -35,8 +35,8 @@ Generated: 2026-06-26 20:24 UTC
 | 2026-06-26 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUhnWGpNVDY2WXlERndBVU5LNC1IUWswZzFWM1M2TlNKcERxWFJCQVFiWk13RjFhdlRiMG1uYTlhZ19Rd3lBMXpQTUp1MW1qcC1lQml4blUxM1lKM1B0SGdjdmVDQ2dQT0VnczFDVDM2Ty1rNGFUUllOWnRRQzBBUGV0N042UlJIZU9KX2lmNGxYUDZuYXJVZDJ4bndGUUVCcEpLSQ?oc=5) |
 | 2026-06-26 | Unitree |  | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRVpIVUtkWWVzSS1uRFYwMlY4b1VKOGpLdWlaLWlUSWloMmh1dFRRSzZCT2FCMEpuMmxndUJ1WUZEenZZZkVYMHJsXzAwYzFNUWhmelpzVHFvUHlkemZzS3ctS2VuWmx1OWFleDRuOVJfVGxhbElEUnU5dzNMN2xEY3F2SG5ScG1DT0tNMUxMMm5JcVFpVUlBWWc4NmVxTHpFNkZSVzdzdnUxY0FvUm1rd0YxZWtvY1E3YTBSOGtDNWJvcFFDb0ZxRHowM3FZTFdOTFA1V2pSQ2o?oc=5) |
 | 2026-06-25 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFJoUFhNSkJSZWhIVVpZNmxfWlZKc3dkeEQ5NjMzMG9TZDBYS2RtRVYwTUI0cm93bHR0OEM5RXpYSS1WVjVsM2lQR093S25TMEdrSWFzTWNvRklZVmxLYWtYUmV5cVdJNm9aaGpzcHdJWDVOcS10cVo0QzRTTk5KYUp5X1M5M0tuLVd0QkRVRVQySnNMTmpPUE1vand2X0I0OWloMDJjN2hhNHdiTDR1bGt6Zw?oc=5) |
-| 2026-06-25 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMiP0FVX3lxTE1JNnVnc1hYTE83LWRYVVlIS19ISjViM2tIWFNyLWhJRk03d0w2U05sWEhRS09oeU1iMGxFdFRQMA?oc=5) |
+| 2026-06-25 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |

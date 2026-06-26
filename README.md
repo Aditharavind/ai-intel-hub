@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-26 20:24 UTC
+Last Updated: 2026-06-26 21:59 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,7 +77,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-26 | farguney/psn-robot-mind-flow-small | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-flow-small) |
 | 2026-06-26 | farguney/psn-robot-mind-small | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-small) |
+| 2026-06-26 | farguney/psn-robot-mind-real-small | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-real-small) |
 | 2026-06-26 | chandanreddy/qwen-no-robots-lora | 0 | 0 | [link](https://huggingface.co/chandanreddy/qwen-no-robots-lora) |
 | 2026-06-26 | pollen-robotics/wake-word-detector | 42 | 0 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
 | 2026-06-26 | Nico-robot/test-jobs-quickstop | 0 | 0 | [link](https://huggingface.co/Nico-robot/test-jobs-quickstop) |
@@ -85,8 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-26 | aarvis/pi05_cotrain_base_human_sim_robot_ah5 | 0 | 0 | [link](https://huggingface.co/aarvis/pi05_cotrain_base_human_sim_robot_ah5) |
 | 2026-06-26 | LohanTS/mon-model-robot | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-model-robot) |
 | 2026-06-26 | L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_speedup_v2 | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_speedup_v2) |
-| 2026-06-26 | L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v2 | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v2) |
-| 2026-06-26 | qualia-robotics/pi05-openarm-cube-distractor-lang-v3-rel-june25-6a2b4c5d | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-openarm-cube-distractor-lang-v3-rel-june25-6a2b4c5d) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -95,12 +95,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 884 | Python | 353.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 450 | Shell | 180.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 61738 | Python | 24695.3 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15367 | C++ | 6146.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 61754 | Python | 24701.7 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15368 | C++ | 6147.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 13996 | C++ | 5598.5 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 10988 | Rust | 4395.3 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7534 | Python | 3013.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| earthtojake/text-to-cad | 6972 | JavaScript | 2788.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 6975 | JavaScript | 2790.1 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -108,8 +108,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-26 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUhnWGpNVDY2WXlERndBVU5LNC1IUWswZzFWM1M2TlNKcERxWFJCQVFiWk13RjFhdlRiMG1uYTlhZ19Rd3lBMXpQTUp1MW1qcC1lQml4blUxM1lKM1B0SGdjdmVDQ2dQT0VnczFDVDM2Ty1rNGFUUllOWnRRQzBBUGV0N042UlJIZU9KX2lmNGxYUDZuYXJVZDJ4bndGUUVCcEpLSQ?oc=5) |
 | 2026-06-26 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRVpIVUtkWWVzSS1uRFYwMlY4b1VKOGpLdWlaLWlUSWloMmh1dFRRSzZCT2FCMEpuMmxndUJ1WUZEenZZZkVYMHJsXzAwYzFNUWhmelpzVHFvUHlkemZzS3ctS2VuWmx1OWFleDRuOVJfVGxhbElEUnU5dzNMN2xEY3F2SG5ScG1DT0tNMUxMMm5JcVFpVUlBWWc4NmVxTHpFNkZSVzdzdnUxY0FvUm1rd0YxZWtvY1E3YTBSOGtDNWJvcFFDb0ZxRHowM3FZTFdOTFA1V2pSQ2o?oc=5) |
 | 2026-06-25 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFJoUFhNSkJSZWhIVVpZNmxfWlZKc3dkeEQ5NjMzMG9TZDBYS2RtRVYwTUI0cm93bHR0OEM5RXpYSS1WVjVsM2lQR093S25TMEdrSWFzTWNvRklZVmxLYWtYUmV5cVdJNm9aaGpzcHdJWDVOcS10cVo0QzRTTk5KYUp5X1M5M0tuLVd0QkRVRVQySnNMTmpPUE1vand2X0I0OWloMDJjN2hhNHdiTDR1bGt6Zw?oc=5) |
-| 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiP0FVX3lxTE1JNnVnc1hYTE83LWRYVVlIS19ISjViM2tIWFNyLWhJRk03d0w2U05sWEhRS09oeU1iMGxFdFRQMA?oc=5) |
+| 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGdybHdlOWFOTldsa00wVlY3a1NQOExZY1RKZGRJSlNHYnBYdVFrZ2NVSnBsS3FzaTgwaUtVNk9OaURuOTRodzhXa0FaUTcyQ2RZTVlyakdONWFnRkJBa2VGXy16aXAxYk1QMEd2X1RPNW0xTkxBSWxEMzNwWENBb1lza29Vd1FSLUp4MUpCNFVrWjdK?oc=5) |
 | 2026-06-25 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDhxMkc3MGdXb092MjZIbGVjQXFoSXp5OFZXYUR1T0xIcEtqdkdoYzQ3OC1vSnZRN0Z3M09PRXRiNnZGOXNJaUVBSWpIQ0d6YnZaR3g1bUdFN19fNU5LRUhuZEkwbGxGS1UzX2M5dTdyT3F5a3ZxMXhmUGllZXVEWXlnSGp5Q01yQ2ZUN0lYMTY5UVBBRXViZm9zbGd1bzF3TTFkeHA4RWxUZ0todWd0SmJNcmNKNTFVMVpScEVfejBPdko1?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxNMS1yZUtReWMtWV9vdFFoVzhxNXVEanNJd1FKVVZJYmdCbEo3ZkxtZjdvVHkzU1lTZkJnaTVRNWY3UmplMHZvX05WQnJublhUelNDNmI5WEZ2M2JOTDNfUktIamJzM0szVHEyTkMxQm5UQmUycTRhSDdNRkljM0x0ZEFpb2xlZC1LaHBLd1Nhd0hRWWoxVElRbEtBS0gyQmRrWTJoSWhBSHkySmZTcEpLeFpEdzdpMW1HNFNQdHBiWVVVNDV2X2xTd1NIbw?oc=5) |
