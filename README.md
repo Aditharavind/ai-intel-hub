@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-26 08:29 UTC
+Last Updated: 2026-06-26 11:36 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -48,16 +48,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-26 | Alan Turing’s Remarkable, Nearly-Forgotten Voice Encryption Device | Hackaday | [link](https://hackaday.com/2026/06/26/alan-turings-remarkable-nearly-forgotten-voice-encryption-device/) |
 | 2026-06-26 | This Kid-Friendly Laptop Build is The Antidote to Age Verification | Hackaday | [link](https://hackaday.com/2026/06/26/this-kid-friendly-laptop-build-is-the-antidote-to-age-verification/) |
 | 2026-06-26 | Make That Smart TV into a Computer | Hackaday | [link](https://hackaday.com/2026/06/25/make-that-smart-tv-into-a-computer/) |
 | 2026-06-26 | Increasing Photon Upconversion Efficiency with Structural Exciton Localization | Hackaday | [link](https://hackaday.com/2026/06/25/increasing-photon-upconversion-efficiency-with-structural-exciton-localization/) |
+| 2026-06-26 | Discounted 1.25 GHz Raspberry Pi 4 Model B shows up online | CNX Software | [link](https://www.cnx-software.com/2026/06/26/discounted-1-25-ghz-raspberry-pi-4-model-b/) |
 | 2026-06-26 | Makerfabs MaTouch ESP32-P4 10.1-inch HMI display features 4G LTE and Ethernet connectivity, a 2MP camera | CNX Software | [link](https://www.cnx-software.com/2026/06/26/makerfabs-matouch-esp32-p4-10-1-inch-hmi-display-features-4g-lte-and-ethernet-connectivity-a-2mp-camera/) |
 | 2026-06-26 | $449 CHUWI UniBook 14-inch laptop is powered by an Intel Core 3 304 Wildcat Lake processor | CNX Software | [link](https://www.cnx-software.com/2026/06/26/449-chuwi-unibook-14-inch-laptop-is-powered-by-an-intel-core-3-304-wildcat-lake-processor/) |
 | 2026-06-26 | Firefly AIBOX-9075 Edge AI box features 200 TOPS Qualcomm IQ-9075 SoC, 36GB LPDDR5, industrial I/Os | CNX Software | [link](https://www.cnx-software.com/2026/06/26/firefly-aibox-9075-edge-ai-box-features-qualcomm-iq-9075-soc-with-200-tops-npu-36gb-lpddr5/) |
-| 2026-06-26 | Onsemi buys Synaptics | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/onsemi-buys-synaptics-2026-06/) |
-| 2026-06-26 | Agility to go public | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/898812-2026-06/) |
-| 2026-06-26 | IBM develops 0.7nm IC process | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/ibm-2026-06/) |
-| 2026-06-26 | China wins No.1 supercomputer slot | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/china-has-no-1-supercomputer-slot-2026-06/) |
+| 2026-06-26 | TDK HAL 13xy dual-output 3D Hall-effect switches for automotive | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/sensors-products/tdk-hal-13xy-dual-output-3d-hall-effect-switches-for-automotive-2026-06/) |
+| 2026-06-26 | DigiKey releases sequel in Sustainable Futures video series | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/distribution/digikey-releases-sequel-in-sustainable-futures-video-series-2026-06/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -76,6 +76,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-26 | aarvis/cotrain_base_future_latent_robot_polish_ah10 | 0 | 0 | [link](https://huggingface.co/aarvis/cotrain_base_future_latent_robot_polish_ah10) |
+| 2026-06-26 | aarvis/pi05_cotrain_base_human_sim_robot_ah5 | 0 | 0 | [link](https://huggingface.co/aarvis/pi05_cotrain_base_human_sim_robot_ah5) |
 | 2026-06-26 | LohanTS/mon-model-robot | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-model-robot) |
 | 2026-06-26 | L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_speedup_v2 | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_speedup_v2) |
 | 2026-06-26 | L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v2 | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v2) |
@@ -83,23 +85,21 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-26 | uuuhjb/robotwin_7w | 0 | 0 | [link](https://huggingface.co/uuuhjb/robotwin_7w) |
 | 2026-06-26 | paulprt/pi05-hsr-robotarium-100 | 0 | 0 | [link](https://huggingface.co/paulprt/pi05-hsr-robotarium-100) |
 | 2026-06-26 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
-| 2026-06-26 | Alexxz3/franka_pi05_vla_v13_fullframe_vlm_r32_20k_20260626_v01 | 0 | 0 | [link](https://huggingface.co/Alexxz3/franka_pi05_vla_v13_fullframe_vlm_r32_20k_20260626_v01) |
-| 2026-06-26 | sam-guided-vlas/pi05_LONG_TAIL_TRAIN_4-img | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/pi05_LONG_TAIL_TRAIN_4-img) |
-| 2026-06-26 | sam-guided-vlas/pi05_LONG_TAIL_TRAIN_4-img-sam | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/pi05_LONG_TAIL_TRAIN_4-img-sam) |
+| 2026-06-26 | GT-111/MemCode-VLA | 0 | 0 | [link](https://huggingface.co/GT-111/MemCode-VLA) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| Edgenesis/shifu | 1421 | Go | 568.5 | [link](https://github.com/Edgenesis/shifu) |
 | copper-project/copper-rs | 1368 | Rust | 547.3 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 450 | Shell | 180.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 61600 | Python | 24640.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 61613 | Python | 24645.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15362 | C++ | 6144.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 13991 | C++ | 5596.5 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 13992 | C++ | 5596.9 | [link](https://github.com/google-deepmind/mujoco) |
+| rerun-io/rerun | 10987 | Rust | 4394.9 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7534 | Python | 3013.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 3908 | Python | 1563.3 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 3909 | Python | 1563.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3807 | Rust | 1522.9 | [link](https://github.com/dora-rs/dora) |
-| Octoday-Hub/Embodied-AI | 1601 |  | 640.5 | [link](https://github.com/Octoday-Hub/Embodied-AI) |
-| flashrt-project/FlashRT | 380 | C++ | 152.1 | [link](https://github.com/flashrt-project/FlashRT) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,6 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-06-26 | Asteria Corporation and Pegasus Tech Ventures Launch $10M AI and Robotics Investment Fund - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEtKQndoc3RhbWVfeTdrTHJ2YTREVWVSeW92cFZZajVNblVlNlI0MXIyWFFDZDBLNU5iTkNsc0YzMkt1TERRQVVVSmZLb21PMFVlS19TaUhCVFRxWUcxMHBIbWFHZ21oXzhKTmZoQUpTVUtUQm9acFQzMk5pVmY1Y3d6NVhvMHhIRDFVR18tLWJ6VkhlUzViT3NYclRSaDl5aDlsZDg4N0VKVExfU0pmdG42TTROcDZqLUNQRlF6R0dNWUht?oc=5) |
+| 2026-06-26 | Robotics startup FieldAI has hit a $100 million milestone - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOS1IejdzVkdiZVVnaE95aWVYcXJnWS16RF9qdWlhdUtaRjh5VWo0aEJ2QVNNTmxLMGVsQU9Sd2Z1SkUwQ0JZZU02cTFiTVFHYjVvcExlUEk0WnRsOWxSYlFIVzBIMFRiUVF2cmtILXpoSXV6Tmhvd1BEWXBSR1pNS21pODBkaHNuNjliWHd5UWtaTVAxZmdsMzM2dzFaX3pTNmtNQ2tBZGxXUQ?oc=5) |
 | 2026-06-25 | ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push - CNBC | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTFBIbElaaWZlRDNuZ2hrSnU5cTVrcjduamt1SWRDb1VhUmt5c3lFa0dDWWJwVXBMeHFHTndiZ2s0UmZLblRERG04b3M2V3o3ZXVtZXE5SFlFUjZXcFU1Q3EteURPMXNadHhFSm01YlNHOVN4cnRfZFE3M1d1Y9IBgAFBVV95cUxNc3VMcElMaUdCdXFrV1ZURnJ4WVZHckdlVFd0TkdTNzZsUnFiV1Y4bEI1VW45OGVCMEI2b1g1XzY1NFA2RGN1aWg5Ry1QSUVvM090ZlcwRW5MZzdvM0JvMXJyWkZVUld5SU1GWlFlWjNNSXVockVVVmRMZVduUjBKVw?oc=5) |
 | 2026-06-25 | How a Chinese physical AI start-up’s new paradigm bypasses US road maps - South China Morning Post | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDJSQVM4eFZjOWpJdmdKc3Q4Y0NySDYydUJINzcyc0NUSzhDMVhSVEJHQm9DNUJVMzR3bjFZTjgydWktT2pHSnNlN1Z1a0Jva0hhenk3VDBhN19UMVlNMEpwTWo5ZzhpX25DOUxUbW9WY1NnWHNRZnY3aG1SME5HOXFHeVdoZ2MtbUE5ckxxNFJ6Zl9iVlp1Wk5EZDJxQW51Zlh2UTEydlZLdngtbXN4ZHg5TFY4TDQwamZFRGVkcG8xOG8zS2xvRlk0dVPSAcwBQVVfeXFMTTVFWDE2MV9yc0l5OXlPREpTbXEzU0tkOVFvMG5IRjZCQXU3ZF9jQ1pDNy1xdkhZZW8tZkdmcVUwWFJualR0eDIzV1kxeHBlSmkwZUl5NTJfR1d2Z3hxNUNxckpDdEFweGpNMFl5SndzeHFWS0I0WWJOa2NUT25PTTFxLU5nSFhheVkxZWFwTmpUc29iTVdXRzBOaUtnVGo5WVU1YWpvRWNobXdYVkRLNWtEZ25DV0UzMVd0SFB2dkNLVDBEc1JRWHdVVGlX?oc=5) |
 | 2026-06-25 | World Models vs VLAs: The Rift Dividing Physical AI - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUhwcEJfU1dWVzBtdkdtUEIxS3RrMmstMndTSW1Qc0FTek1wc3ZKQU9KN0k1azlVNWRPQ090a3dES1huWDZFN1RtODJhS0EtWE5ZUHVHbnl3NVpMRFRtYWV6R1VhZmtzdjZxUUg2UjhZX3pLenB4UlpHZ2dMcHE0WHBOdDdYd3RwdGN6NHYtV1lIeFNJMElFY3ZVNmlmVVB2?oc=5) |
@@ -127,7 +128,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-24 | Agility Robotics is headed to Wall Street - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
 | 2026-06-23 | Hyphen and Motoniq Partner to Bring Physical AI to Intelligent Food Automation - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFUwQ1JPcDZ1VF9aLVNCcnNPYlpaSU5kN3ZMOWZCalBYRE5sWGlyc2kxLU5OV2cyU1N4NWt1NmtPbWNEa19SaVozNVZ6UThHcGxpWC1UMjJ3UFhUWDlpUkl5QTdWOFFMWlk0VmFpZ0NJM2YtSEVxZzFyOU8tTFFmeml2SUwzdkJld25KTmFxMG5CY1lXN3JpTnpaa2txWVNMUGlzbzdpZWQweTVzMm83dUhhS0Z1UEhfSktWX1B6TnlwRURxeWpDbkUzOFZwNzhw?oc=5) |
 | 2026-06-23 | Krafton bets $33 mn on AI chip startup in physical AI push - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZVBuQ0VKbTdoaGw0UEhmLTZUTVdMS2xJQXR3NGYxYlB1MnpSUll0WE8xX0Qzb3NnRFM0X2RrMFA5TU4xTjI1ZWVTTFZoQnh4alZWWHVvOURROTlPRjBodDFqblduLWE5T3JManA5bFA?oc=5) |
-| 2026-06-23 | Embodied AI Startup Kunlunxing Lands Multibillion Yuan Raise - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWRxSXBrV1BlVDZjTFdHbHQ4emg2QnVOV3hiQU9jcjMyU3pSeXFZXzRhUUs2S01nWWZuNDBIbEJUTXREWnNXLTVvYkQ4dzNnSDlQNmJOMVU5QXJpdndMNC1yLWRKbHhfQWlfQ0dNTDJ2eWdOY1NpcTBuMUdidi1DY3dLQ0taRU5TS2pIaHlYMlY2Q1FGTlJOSXM0dWFxLWxPUTEwbGZKd2pHVTRXWGVPbGhEeGk5TmRvSlJieWstNzcwX3J3V0pTS045b1JRMFFRRXQ5cWVHWjNyTzdEVkE?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
