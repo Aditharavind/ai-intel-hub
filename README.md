@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-26 11:36 UTC
+Last Updated: 2026-06-26 13:53 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -56,8 +56,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-26 | Makerfabs MaTouch ESP32-P4 10.1-inch HMI display features 4G LTE and Ethernet connectivity, a 2MP camera | CNX Software | [link](https://www.cnx-software.com/2026/06/26/makerfabs-matouch-esp32-p4-10-1-inch-hmi-display-features-4g-lte-and-ethernet-connectivity-a-2mp-camera/) |
 | 2026-06-26 | $449 CHUWI UniBook 14-inch laptop is powered by an Intel Core 3 304 Wildcat Lake processor | CNX Software | [link](https://www.cnx-software.com/2026/06/26/449-chuwi-unibook-14-inch-laptop-is-powered-by-an-intel-core-3-304-wildcat-lake-processor/) |
 | 2026-06-26 | Firefly AIBOX-9075 Edge AI box features 200 TOPS Qualcomm IQ-9075 SoC, 36GB LPDDR5, industrial I/Os | CNX Software | [link](https://www.cnx-software.com/2026/06/26/firefly-aibox-9075-edge-ai-box-features-qualcomm-iq-9075-soc-with-200-tops-npu-36gb-lpddr5/) |
-| 2026-06-26 | TDK HAL 13xy dual-output 3D Hall-effect switches for automotive | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/sensors-products/tdk-hal-13xy-dual-output-3d-hall-effect-switches-for-automotive-2026-06/) |
-| 2026-06-26 | DigiKey releases sequel in Sustainable Futures video series | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/distribution/digikey-releases-sequel-in-sustainable-futures-video-series-2026-06/) |
+| 2026-06-26 | GigaDevice, Qt Group Collaborate on Embedded HMI Solutions | Embedded.com | [link](https://www.embedded.com/gigadevice-qt-group-collaborate-on-embedded-hmi-solutions/) |
+| 2026-06-26 | The Power of RAIN RFID: Building a Physical Intelligence Layer for AI and IoT | EE Journal | [link](https://www.eejournal.com/fish_fry/the-power-of-rain-rfid-building-a-physical-intelligence-layer-for-ai-and-iot/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -76,6 +76,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-26 | pollen-robotics/wake-word-detector | 42 | 0 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
+| 2026-06-26 | Nico-robot/test-jobs-quickstop | 0 | 0 | [link](https://huggingface.co/Nico-robot/test-jobs-quickstop) |
 | 2026-06-26 | aarvis/cotrain_base_future_latent_robot_polish_ah10 | 0 | 0 | [link](https://huggingface.co/aarvis/cotrain_base_future_latent_robot_polish_ah10) |
 | 2026-06-26 | aarvis/pi05_cotrain_base_human_sim_robot_ah5 | 0 | 0 | [link](https://huggingface.co/aarvis/pi05_cotrain_base_human_sim_robot_ah5) |
 | 2026-06-26 | LohanTS/mon-model-robot | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-model-robot) |
@@ -83,23 +85,21 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-26 | L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v2 | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v2) |
 | 2026-06-26 | qualia-robotics/pi05-openarm-cube-distractor-lang-v3-rel-june25-6a2b4c5d | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-openarm-cube-distractor-lang-v3-rel-june25-6a2b4c5d) |
 | 2026-06-26 | uuuhjb/robotwin_7w | 0 | 0 | [link](https://huggingface.co/uuuhjb/robotwin_7w) |
-| 2026-06-26 | paulprt/pi05-hsr-robotarium-100 | 0 | 0 | [link](https://huggingface.co/paulprt/pi05-hsr-robotarium-100) |
 | 2026-06-26 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
-| 2026-06-26 | GT-111/MemCode-VLA | 0 | 0 | [link](https://huggingface.co/GT-111/MemCode-VLA) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | Edgenesis/shifu | 1421 | Go | 568.5 | [link](https://github.com/Edgenesis/shifu) |
 | copper-project/copper-rs | 1368 | Rust | 547.3 | [link](https://github.com/copper-project/copper-rs) |
+| mosaico-labs/mosaico | 883 | Python | 353.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 450 | Shell | 180.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 61613 | Python | 24645.3 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15362 | C++ | 6144.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 13992 | C++ | 5596.9 | [link](https://github.com/google-deepmind/mujoco) |
+| commaai/openpilot | 61648 | Python | 24659.3 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15365 | C++ | 6146.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 13994 | C++ | 5597.7 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 10987 | Rust | 4394.9 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7534 | Python | 3013.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 3909 | Python | 1563.7 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3807 | Rust | 1522.9 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
