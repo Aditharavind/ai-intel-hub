@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-27 21:50 UTC
+Last Updated: 2026-06-27 22:48 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -92,15 +92,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 62050 | Python | 24820.1 | [link](https://github.com/commaai/openpilot) |
+| awslabs/awsome-distributed-ai | 450 | Shell | 180.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| commaai/openpilot | 62056 | Python | 24822.5 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 15958 | Python | 6383.3 | [link](https://github.com/zauberzeug/nicegui) |
 | isaac-sim/IsaacLab | 7538 | Python | 3015.3 | [link](https://github.com/isaac-sim/IsaacLab) |
-| earthtojake/text-to-cad | 7077 | JavaScript | 2830.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 7078 | JavaScript | 2831.3 | [link](https://github.com/earthtojake/text-to-cad) |
 | RLinf/RLinf | 3915 | Python | 1566.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3811 | Rust | 1524.5 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 2421 | Python | 968.5 | [link](https://github.com/datawhalechina/every-embodied) |
 | leofan90/Awesome-World-Models | 1841 | Python | 736.5 | [link](https://github.com/leofan90/Awesome-World-Models) |
-| StanfordVL/BEHAVIOR-1K | 1536 | Python | 614.5 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
