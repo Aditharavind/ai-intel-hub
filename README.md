@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-27 16:57 UTC
+Last Updated: 2026-06-27 17:55 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-27 | Requiem For Long Wave, As The BBC Goes Silent | Hackaday | [link](https://hackaday.com/2026/06/27/requiem-for-long-wave-as-the-bbc-goes-silent/) |
 | 2026-06-27 | Hacking Routers Like It’s 2008 | Hackaday | [link](https://hackaday.com/2026/06/27/hacking-routers-like-its-2008/) |
 | 2026-06-27 | A Quantum Magic 8-Ball | Hackaday | [link](https://hackaday.com/2026/06/27/a-quantum-magic-8-ball/) |
 | 2026-06-27 | Do Metal Roofs Turn a Bird House into an Oven? | Hackaday | [link](https://hackaday.com/2026/06/27/do-metal-roofs-turn-a-bird-house-into-an-oven/) |
 | 2026-06-27 | Watch YouTube on a Game Boy Color With a Special Cartridge | Hackaday | [link](https://hackaday.com/2026/06/26/watch-youtube-on-a-game-boy-color-with-a-special-cartridge/) |
 | 2026-06-27 | NVIDIA’s New AI Servers Run on Hotub Coolant and Don’t Need Evaporators | Hackaday | [link](https://hackaday.com/2026/06/26/nvidias-new-ai-servers-run-on-hotub-coolant-and-dont-need-evaporators/) |
 | 2026-06-27 | GEEKOM A7 2026 Edition Review – Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC | CNX Software | [link](https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/) |
+| 2026-06-27 | Spotify Music Display with a RGB LED Matrix | Adafruit | [link](https://blog.adafruit.com/2026/06/27/spotify-music-display-with-a-rgb-led-matrix/) |
 | 2026-06-26 | Fixing an Elgato Cam Link’s USB Current Draw Issue | Hackaday | [link](https://hackaday.com/2026/06/26/fixing-an-elgato-cam-links-usb-current-draw-issue/) |
-| 2026-06-26 | A Custom Zigbee Touch Keypad | Hackaday | [link](https://hackaday.com/2026/06/26/a-custom-zigbee-touch-keypad/) |
 | 2026-06-26 | Discounted 1.25 GHz Raspberry Pi 4 Model B shows up online | CNX Software | [link](https://www.cnx-software.com/2026/06/26/discounted-1-25-ghz-raspberry-pi-4-model-b/) |
-| 2026-06-26 | Makerfabs MaTouch ESP32-P4 10.1-inch HMI display features 4G LTE and Ethernet connectivity, a 2MP camera | CNX Software | [link](https://www.cnx-software.com/2026/06/26/makerfabs-matouch-esp32-p4-10-1-inch-hmi-display-features-4g-lte-and-ethernet-connectivity-a-2mp-camera/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -92,10 +92,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 61995 | Python | 24798.1 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 15957 | Python | 6382.9 | [link](https://github.com/zauberzeug/nicegui) |
+| commaai/openpilot | 62006 | Python | 24802.5 | [link](https://github.com/commaai/openpilot) |
+| zauberzeug/nicegui | 15958 | Python | 6383.3 | [link](https://github.com/zauberzeug/nicegui) |
 | isaac-sim/IsaacLab | 7538 | Python | 3015.3 | [link](https://github.com/isaac-sim/IsaacLab) |
-| earthtojake/text-to-cad | 7067 | JavaScript | 2826.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 7070 | JavaScript | 2828.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | RLinf/RLinf | 3915 | Python | 1566.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3810 | Rust | 1524.1 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 2421 | Python | 968.5 | [link](https://github.com/datawhalechina/every-embodied) |
@@ -109,12 +109,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiP0FVX3lxTE1JNnVnc1hYTE83LWRYVVlIS19ISjViM2tIWFNyLWhJRk03d0w2U05sWEhRS09oeU1iMGxFdFRQMA?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGdybHdlOWFOTldsa00wVlY3a1NQOExZY1RKZGRJSlNHYnBYdVFrZ2NVSnBsS3FzaTgwaUtVNk9OaURuOTRodzhXa0FaUTcyQ2RZTVlyakdONWFnRkJBa2VGXy16aXAxYk1QMEd2X1RPNW0xTkxBSWxEMzNwWENBb1lza29Vd1FSLUp4MUpCNFVrWjdK?oc=5) |
-| 2026-06-25 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDhxMkc3MGdXb092MjZIbGVjQXFoSXp5OFZXYUR1T0xIcEtqdkdoYzQ3OC1vSnZRN0Z3M09PRXRiNnZGOXNJaUVBSWpIQ0d6YnZaR3g1bUdFN19fNU5LRUhuZEkwbGxGS1UzX2M5dTdyT3F5a3ZxMXhmUGllZXVEWXlnSGp5Q01yQ2ZUN0lYMTY5UVBBRXViZm9zbGd1bzF3TTFkeHA4RWxUZ0todWd0SmJNcmNKNTFVMVpScEVfejBPdko1?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxNMS1yZUtReWMtWV9vdFFoVzhxNXVEanNJd1FKVVZJYmdCbEo3ZkxtZjdvVHkzU1lTZkJnaTVRNWY3UmplMHZvX05WQnJublhUelNDNmI5WEZ2M2JOTDNfUktIamJzM0szVHEyTkMxQm5UQmUycTRhSDdNRkljM0x0ZEFpb2xlZC1LaHBLd1Nhd0hRWWoxVElRbEtBS0gyQmRrWTJoSWhBSHkySmZTcEpLeFpEdzdpMW1HNFNQdHBiWVVVNDV2X2xTd1NIbw?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdHlhT29SZkRnd1pDNDNLVHdMMjhEZV8wdC1wbm9HVmd5b1pndFNIUVdjT2lGYVBoVnJDY1NMX2VlUTRJTmxaSjNLTDQ2LTlRTHZ5QlFGUzdWNWhCM19GZVladlgxcWxJU0xIekp0RW92SGwtYW5YbHZzZERtejdLcHBaQVd2Tm1UM0Jhd3RSRHg4NlUxSmVQS3gtOGQya1pXdUxKTXFhYkxYdG1K?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVJXcUtHUlZRTjNqYl9FRHRJdkFZUU5kSVF5V1NLekl1cDNyOEppY3JkLW5BNHVYZ182OVVnZ2l6R19qZ3JmOVlhR05TNDdOYWljdlJ0TklVTGxKQ2k4R2lINzY3NXMtaDZ4RXRMRWhRWnRuRldQVEh5Y2hMYktzWmx2X2RVdHdpSUFZa0l4SFphalhpaG1kM0tubjJveXV5akIwSTgwX1hwXzBQNGF4ZEpxcFpva2RUZHphWV82YVlyeHVuUlV1LUFvNEVyYkkz?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZFVkekpTTlg1NXNrSktPbzBuQUNMQ2VSanU3a3FXN25GaTBzTkV3OTN0cjBSaHBxSm1ScWJjRVlTSGVYbFZ3MFZWUGF6T2NDRFNfRVR3SW5vX0ZOYmtZSUg5cXBTeWZBMGJuQzNMamFrc2x4ZDFtS0dxeTgyamFabGhCaV9ERGNJWWVkMlZEdXZGSi05dWxaa2FBZzEyTFlKYkcwV0R1Z3JLdFBIZndLX21ldnlfVi1UWDdYMGVLdGNwbEdGQVM5akdQVFBYZ05j?oc=5) |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxPWWdpV0d3WFBxQ2hPcnQzQ2JVejEzUlhUMTBNN2I0X2JiUzZ6YXVSSG5nVlg2SDdMQXZlT1lSUTVSazRzbHpQQWVINjFOMnlyY2hzcDRyNzBWUmZBUk9uS0twOE9GT1B4Ti1OdndjYkZCWWNtaXhpclFfckZTWWJyYU5CUW4zVjZoVXFWS1NjVzFSTkVHYkdKNE5lQXRsdVNHMkNKLWNXYkk5OFF6R3I3aExsdl93SDN3cXFmVE54NTZlWGJ2REkyT3Vn?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
