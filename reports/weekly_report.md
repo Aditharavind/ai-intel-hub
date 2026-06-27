@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-27 12:03 UTC
+Generated: 2026-06-27 14:20 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-06-27 12:03 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81967 | 32786.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 61935 | 24774.1 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29876 | 11950.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15955 | 6382.1 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15369 | 6147.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| Developer-Y/cs-video-courses | 81969 | 32787.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 61962 | 24784.9 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29875 | 11950.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15956 | 6382.5 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15370 | 6148.1 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,8 +41,8 @@ Generated: 2026-06-27 12:03 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-06-27 | DEEPX and Sixfab Launch ‘DEEPX AI HAT’ to Drive Edge Physical AI on Raspberry Pi - Macau Business | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTm5IOXZQUlotZTRFejBXSWFaa0JWQV96TERlaFdBcUFXTzY0ckFLM1VFYUh5OXhaOTQxY3YxSmM0aFhMdG12Y0FrVmt0dkdHX3VZd3otMlFQRDA2c1F0U0pxeFhKazROcHZHeVYxd3pJTnQydlZRVjh2RjVMdjBkLWVwQUxTdU1FVGlBT1cyZ1AwNzEtcHVZZnAzV2F3RHpHUGRleF9XM2I?oc=5) |
 | 2026-06-26 | Robotics startup FieldAI has hit a $100 million milestone - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOS1IejdzVkdiZVVnaE95aWVYcXJnWS16RF9qdWlhdUtaRjh5VWo0aEJ2QVNNTmxLMGVsQU9Sd2Z1SkUwQ0JZZU02cTFiTVFHYjVvcExlUEk0WnRsOWxSYlFIVzBIMFRiUVF2cmtILXpoSXV6Tmhvd1BEWXBSR1pNS21pODBkaHNuNjliWHd5UWtaTVAxZmdsMzM2dzFaX3pTNmtNQ2tBZGxXUQ?oc=5) |
 | 2026-06-25 | How a Chinese physical AI start-up’s new paradigm bypasses US road maps - South China Morning Post | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDJSQVM4eFZjOWpJdmdKc3Q4Y0NySDYydUJINzcyc0NUSzhDMVhSVEJHQm9DNUJVMzR3bjFZTjgydWktT2pHSnNlN1Z1a0Jva0hhenk3VDBhN19UMVlNMEpwTWo5ZzhpX25DOUxUbW9WY1NnWHNRZnY3aG1SME5HOXFHeVdoZ2MtbUE5ckxxNFJ6Zl9iVlp1Wk5EZDJxQW51Zlh2UTEydlZLdngtbXN4ZHg5TFY4TDQwamZFRGVkcG8xOG8zS2xvRlk0dVPSAcwBQVVfeXFMTTVFWDE2MV9yc0l5OXlPREpTbXEzU0tkOVFvMG5IRjZCQXU3ZF9jQ1pDNy1xdkhZZW8tZkdmcVUwWFJualR0eDIzV1kxeHBlSmkwZUl5NTJfR1d2Z3hxNUNxckpDdEFweGpNMFl5SndzeHFWS0I0WWJOa2NUT25PTTFxLU5nSFhheVkxZWFwTmpUc29iTVdXRzBOaUtnVGo5WVU1YWpvRWNobXdYVkRLNWtEZ25DV0UzMVd0SFB2dkNLVDBEc1JRWHdVVGlX?oc=5) |
 | 2026-06-25 | World Models vs VLAs: The Rift Dividing Physical AI - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUhwcEJfU1dWVzBtdkdtUEIxS3RrMmstMndTSW1Qc0FTek1wc3ZKQU9KN0k1azlVNWRPQ090a3dES1huWDZFN1RtODJhS0EtWE5ZUHVHbnl3NVpMRFRtYWV6R1VhZmtzdjZxUUg2UjhZX3pLenB4UlpHZ2dMcHE0WHBOdDdYd3RwdGN6NHYtV1lIeFNJMElFY3ZVNmlmVVB2?oc=5) |
 | 2026-06-25 | Singapore Video Startup Founded By Tencent’s Former AI Head Bets Big On World Models - Forbes | physical ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbW9KN2cxZVU3MHhoOGdIeUVKa183M3VvMEFFWTdtR05HTTFrN3ZodF9qb1N0U25VZGFLZE5DaWVyM1ZLdGZPUHUtRWpDUk0xd2tJNU1iMUhfZjl2STRhb2NPdG9rQ0ZsMUxFN1lWWUJuV3hRb1FWOWZjdnoyVGRzcWk4eFlDSkh3MmZvUklpcWw3dmg5MXJtRnk1UFYwaGY1MUdEVVZrd1ZzQUtpSVRvMDZwRGhQam9JREJpeUZwem5kcmdwVG5uUU1OUmZMUDQ?oc=5) |
+| 2026-06-24 | Agility Robotics is headed to Wall Street - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |

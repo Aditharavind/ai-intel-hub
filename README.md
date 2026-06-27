@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-27 12:03 UTC
+Last Updated: 2026-06-27 14:20 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -21,6 +21,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Physical AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-27 | We know how to build smarter robots. Now, we need to learn smarter ways to test them | Robotics Business Review | [link](https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/) |
 | 2026-06-26 | Video Friday: Give Robots a Hand | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robot-grippers) |
 | 2026-06-24 | Humanoid maker Agility Robotics to go public through SPAC merger | Robotics Business Review | [link](https://www.therobotreport.com/humanoid-maker-agility-robotics-go-public-through-spac-merger/) |
 | 2026-06-17 | The Secret to Marathon-Winning Humanoid Robots | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/china-humanoid-robot-marathon) |
@@ -30,11 +31,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-05-22 | Video Friday: Atlas Versus a Fridge | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-humanoid-robot-learning) |
 | 2026-05-21 | Open-Source Software Is Starting to Help Robots Think | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/open-source-robot-ai-platforms) |
 | 2026-05-21 | The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces) |
-| 2026-05-20 | Will Robotics Have a ChatGPT Moment? | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/robotics-ai-breakthrough) |
 
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-27 | We know how to build smarter robots. Now, we need to learn smarter ways to test them | Robotics Business Review | [link](https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/) |
+| 2026-06-27 | How compact cobot integration enhances autonomous mobile robot applications | Robotics Business Review | [link](https://www.therobotreport.com/how-compact-cobot-integration-enhances-autonomous-mobile-robot-applications/) |
 | 2026-06-26 | Orbbec shows AI-powered vision systems at Automate 2026 | Robotics Business Review | [link](https://www.therobotreport.com/orbbec-shows-ai-powered-vision-systems-automate-2026/) |
 | 2026-06-26 | Video Friday: Give Robots a Hand | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robot-grippers) |
 | 2026-06-26 | General Intuition raises $320M to use video game data to train robots | Robotics Business Review | [link](https://www.therobotreport.com/general-intuition-raises-320m-uses-video-game-data-train-robots/) |
@@ -43,12 +45,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-25 | Robust.AI chooses Aptiv PULSE sensor for Gen 3 Carter mobile robot | Robotics Business Review | [link](https://www.therobotreport.com/robust-ai-chooses-aptiv-pulse-sensor-for-gen-3-carter-mobile-robot/) |
 | 2026-06-24 | Deep dive into Arm’s physical AI and robotics strategies with Drew Henry | Robotics Business Review | [link](https://www.therobotreport.com/deep-dive-into-arms-physical-ai-and-robotics-strategies-with-drew-henry/) |
 | 2026-06-24 | Humanoid maker Agility Robotics to go public through SPAC merger | Robotics Business Review | [link](https://www.therobotreport.com/humanoid-maker-agility-robotics-go-public-through-spac-merger/) |
-| 2026-06-24 | Mantis Robotics launches dual-arm, fenceless robot | Robotics Business Review | [link](https://www.therobotreport.com/mantis-robotics-launches-dual-arm-fenceless-robot/) |
-| 2026-06-24 | FAULHABER focuses on torque, noise, and power with new GPT gearheads | Robotics Business Review | [link](https://www.therobotreport.com/faulhaber-focuses-torque-noise-power-new-gpt-gearheads/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-27 | Hacking Routers Like It’s 2008 | Hackaday | [link](https://hackaday.com/2026/06/27/hacking-routers-like-its-2008/) |
 | 2026-06-27 | A Quantum Magic 8-Ball | Hackaday | [link](https://hackaday.com/2026/06/27/a-quantum-magic-8-ball/) |
 | 2026-06-27 | Do Metal Roofs Turn a Bird House into an Oven? | Hackaday | [link](https://hackaday.com/2026/06/27/do-metal-roofs-turn-a-bird-house-into-an-oven/) |
 | 2026-06-27 | Watch YouTube on a Game Boy Color With a Special Cartridge | Hackaday | [link](https://hackaday.com/2026/06/26/watch-youtube-on-a-game-boy-color-with-a-special-cartridge/) |
@@ -56,7 +57,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-27 | GEEKOM A7 2026 Edition Review – Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC | CNX Software | [link](https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/) |
 | 2026-06-26 | Fixing an Elgato Cam Link’s USB Current Draw Issue | Hackaday | [link](https://hackaday.com/2026/06/26/fixing-an-elgato-cam-links-usb-current-draw-issue/) |
 | 2026-06-26 | A Custom Zigbee Touch Keypad | Hackaday | [link](https://hackaday.com/2026/06/26/a-custom-zigbee-touch-keypad/) |
-| 2026-06-26 | Reflective LCD Slabtop Terminal Runs Homebrewed Solar OS | Hackaday | [link](https://hackaday.com/2026/06/26/reflective-lcd-slabtop-terminal-runs-homebrewed-solar-os/) |
 | 2026-06-26 | Discounted 1.25 GHz Raspberry Pi 4 Model B shows up online | CNX Software | [link](https://www.cnx-software.com/2026/06/26/discounted-1-25-ghz-raspberry-pi-4-model-b/) |
 | 2026-06-26 | Makerfabs MaTouch ESP32-P4 10.1-inch HMI display features 4G LTE and Ethernet connectivity, a 2MP camera | CNX Software | [link](https://www.cnx-software.com/2026/06/26/makerfabs-matouch-esp32-p4-10-1-inch-hmi-display-features-4g-lte-and-ethernet-connectivity-a-2mp-camera/) |
 
@@ -77,24 +77,24 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-27 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
 | 2026-06-27 | pollen-robotics/wake-word-detector | 66 | 0 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
 | 2026-06-27 | love-death-robot/SigMA | 0 | 0 | [link](https://huggingface.co/love-death-robot/SigMA) |
 | 2026-06-27 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
 | 2026-06-27 | Vlad39382/vlm-qwen2vl-lora-gqa-ru | 0 | 0 | [link](https://huggingface.co/Vlad39382/vlm-qwen2vl-lora-gqa-ru) |
 | 2026-06-27 | vlad-nikityuk/mt5-gec-en-ua-ru | 0 | 0 | [link](https://huggingface.co/vlad-nikityuk/mt5-gec-en-ua-ru) |
+| 2026-06-27 | TourEnduro/so101_act_policy | 0 | 0 | [link](https://huggingface.co/TourEnduro/so101_act_policy) |
 | 2026-06-27 | TachyQaQ/so101_diffusion_policy_differentplace | 0 | 0 | [link](https://huggingface.co/TachyQaQ/so101_diffusion_policy_differentplace) |
 | 2026-06-27 | woh7539/omx_act_policy | 306 | 1 | [link](https://huggingface.co/woh7539/omx_act_policy) |
 | 2026-06-26 | farguney/psn-robot-mind-vla | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-vla) |
-| 2026-06-26 | farguney/psn-robot-mind-small | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-small) |
-| 2026-06-26 | farguney/psn-robot-mind-flow-small | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-flow-small) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 61935 | Python | 24774.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 61962 | Python | 24784.9 | [link](https://github.com/commaai/openpilot) |
 | isaac-sim/IsaacLab | 7537 | Python | 3014.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| earthtojake/text-to-cad | 7032 | JavaScript | 2812.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 7048 | JavaScript | 2819.3 | [link](https://github.com/earthtojake/text-to-cad) |
 | RLinf/RLinf | 3914 | Python | 1565.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3810 | Rust | 1524.1 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 2420 | Python | 968.1 | [link](https://github.com/datawhalechina/every-embodied) |
@@ -119,7 +119,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-06-27 | DEEPX and Sixfab Launch ‘DEEPX AI HAT’ to Drive Edge Physical AI on Raspberry Pi - Macau Business | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTm5IOXZQUlotZTRFejBXSWFaa0JWQV96TERlaFdBcUFXTzY0ckFLM1VFYUh5OXhaOTQxY3YxSmM0aFhMdG12Y0FrVmt0dkdHX3VZd3otMlFQRDA2c1F0U0pxeFhKazROcHZHeVYxd3pJTnQydlZRVjh2RjVMdjBkLWVwQUxTdU1FVGlBT1cyZ1AwNzEtcHVZZnAzV2F3RHpHUGRleF9XM2I?oc=5) |
 | 2026-06-26 | Robotics startup FieldAI has hit a $100 million milestone - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOS1IejdzVkdiZVVnaE95aWVYcXJnWS16RF9qdWlhdUtaRjh5VWo0aEJ2QVNNTmxLMGVsQU9Sd2Z1SkUwQ0JZZU02cTFiTVFHYjVvcExlUEk0WnRsOWxSYlFIVzBIMFRiUVF2cmtILXpoSXV6Tmhvd1BEWXBSR1pNS21pODBkaHNuNjliWHd5UWtaTVAxZmdsMzM2dzFaX3pTNmtNQ2tBZGxXUQ?oc=5) |
 | 2026-06-25 | How a Chinese physical AI start-up’s new paradigm bypasses US road maps - South China Morning Post | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDJSQVM4eFZjOWpJdmdKc3Q4Y0NySDYydUJINzcyc0NUSzhDMVhSVEJHQm9DNUJVMzR3bjFZTjgydWktT2pHSnNlN1Z1a0Jva0hhenk3VDBhN19UMVlNMEpwTWo5ZzhpX25DOUxUbW9WY1NnWHNRZnY3aG1SME5HOXFHeVdoZ2MtbUE5ckxxNFJ6Zl9iVlp1Wk5EZDJxQW51Zlh2UTEydlZLdngtbXN4ZHg5TFY4TDQwamZFRGVkcG8xOG8zS2xvRlk0dVPSAcwBQVVfeXFMTTVFWDE2MV9yc0l5OXlPREpTbXEzU0tkOVFvMG5IRjZCQXU3ZF9jQ1pDNy1xdkhZZW8tZkdmcVUwWFJualR0eDIzV1kxeHBlSmkwZUl5NTJfR1d2Z3hxNUNxckpDdEFweGpNMFl5SndzeHFWS0I0WWJOa2NUT25PTTFxLU5nSFhheVkxZWFwTmpUc29iTVdXRzBOaUtnVGo5WVU1YWpvRWNobXdYVkRLNWtEZ25DV0UzMVd0SFB2dkNLVDBEc1JRWHdVVGlX?oc=5) |
 | 2026-06-25 | World Models vs VLAs: The Rift Dividing Physical AI - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUhwcEJfU1dWVzBtdkdtUEIxS3RrMmstMndTSW1Qc0FTek1wc3ZKQU9KN0k1azlVNWRPQ090a3dES1huWDZFN1RtODJhS0EtWE5ZUHVHbnl3NVpMRFRtYWV6R1VhZmtzdjZxUUg2UjhZX3pLenB4UlpHZ2dMcHE0WHBOdDdYd3RwdGN6NHYtV1lIeFNJMElFY3ZVNmlmVVB2?oc=5) |
@@ -129,6 +128,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-23 | Hyphen and Motoniq Partner to Bring Physical AI to Intelligent Food Automation - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFUwQ1JPcDZ1VF9aLVNCcnNPYlpaSU5kN3ZMOWZCalBYRE5sWGlyc2kxLU5OV2cyU1N4NWt1NmtPbWNEa19SaVozNVZ6UThHcGxpWC1UMjJ3UFhUWDlpUkl5QTdWOFFMWlk0VmFpZ0NJM2YtSEVxZzFyOU8tTFFmeml2SUwzdkJld25KTmFxMG5CY1lXN3JpTnpaa2txWVNMUGlzbzdpZWQweTVzMm83dUhhS0Z1UEhfSktWX1B6TnlwRURxeWpDbkUzOFZwNzhw?oc=5) |
 | 2026-06-23 | Krafton bets $33 mn on AI chip startup in physical AI push - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZVBuQ0VKbTdoaGw0UEhmLTZUTVdMS2xJQXR3NGYxYlB1MnpSUll0WE8xX0Qzb3NnRFM0X2RrMFA5TU4xTjI1ZWVTTFZoQnh4alZWWHVvOURROTlPRjBodDFqblduLWE5T3JManA5bFA?oc=5) |
 | 2026-06-23 | Physical AI Development Platforms - Trend Hunter | physical ai startup | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oOWlpUUhGN0hpNElSZTVmMFM5Q2JUcVM2Sng5LUx0U1RpTHpwaC00MnU1clVXWHhjUWRMcmRIQS1EQV9HNl9DeWMzSURFUVdfSW0wMVlWVlNVWjRCb3lnNjVR0gFnQVVfeXFMT1pWc2NXeTFRYklzM1MwTkVnWElhY0I2YzQtX2d1QjItbW1tcjBWSC1Ib084TldMQVlwWW52YmpwVnEzbTdBY3U3bXRSY013VEpzWldNeHpZdk5odDVJdXVOWE1pbDhqNA?oc=5) |
+| 2026-06-23 | Embodied AI Startup Kunlunxing Lands Multibillion Yuan Raise - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWRxSXBrV1BlVDZjTFdHbHQ4emg2QnVOV3hiQU9jcjMyU3pSeXFZXzRhUUs2S01nWWZuNDBIbEJUTXREWnNXLTVvYkQ4dzNnSDlQNmJOMVU5QXJpdndMNC1yLWRKbHhfQWlfQ0dNTDJ2eWdOY1NpcTBuMUdidi1DY3dLQ0taRU5TS2pIaHlYMlY2Q1FGTlJOSXM0dWFxLWxPUTEwbGZKd2pHVTRXWGVPbGhEeGk5TmRvSlJieWstNzcwX3J3V0pTS045b1JRMFFRRXQ5cWVHWjNyTzdEVkE?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
