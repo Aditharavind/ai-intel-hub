@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-27 10:50 UTC
+Last Updated: 2026-06-27 12:03 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-27 | A Quantum Magic 8-Ball | Hackaday | [link](https://hackaday.com/2026/06/27/a-quantum-magic-8-ball/) |
 | 2026-06-27 | Do Metal Roofs Turn a Bird House into an Oven? | Hackaday | [link](https://hackaday.com/2026/06/27/do-metal-roofs-turn-a-bird-house-into-an-oven/) |
 | 2026-06-27 | Watch YouTube on a Game Boy Color With a Special Cartridge | Hackaday | [link](https://hackaday.com/2026/06/26/watch-youtube-on-a-game-boy-color-with-a-special-cartridge/) |
 | 2026-06-27 | NVIDIA’s New AI Servers Run on Hotub Coolant and Don’t Need Evaporators | Hackaday | [link](https://hackaday.com/2026/06/26/nvidias-new-ai-servers-run-on-hotub-coolant-and-dont-need-evaporators/) |
@@ -56,7 +57,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-26 | Fixing an Elgato Cam Link’s USB Current Draw Issue | Hackaday | [link](https://hackaday.com/2026/06/26/fixing-an-elgato-cam-links-usb-current-draw-issue/) |
 | 2026-06-26 | A Custom Zigbee Touch Keypad | Hackaday | [link](https://hackaday.com/2026/06/26/a-custom-zigbee-touch-keypad/) |
 | 2026-06-26 | Reflective LCD Slabtop Terminal Runs Homebrewed Solar OS | Hackaday | [link](https://hackaday.com/2026/06/26/reflective-lcd-slabtop-terminal-runs-homebrewed-solar-os/) |
-| 2026-06-26 | Hackaday Podcast Episode 375: Rebuilding Tech on Our Terms and the Hero Nerd | Hackaday | [link](https://hackaday.com/2026/06/26/hackaday-podcast-episode-375-rebuilding-tech-on-our-terms-and-the-hero-nerd/) |
 | 2026-06-26 | Discounted 1.25 GHz Raspberry Pi 4 Model B shows up online | CNX Software | [link](https://www.cnx-software.com/2026/06/26/discounted-1-25-ghz-raspberry-pi-4-model-b/) |
 | 2026-06-26 | Makerfabs MaTouch ESP32-P4 10.1-inch HMI display features 4G LTE and Ethernet connectivity, a 2MP camera | CNX Software | [link](https://www.cnx-software.com/2026/06/26/makerfabs-matouch-esp32-p4-10-1-inch-hmi-display-features-4g-lte-and-ethernet-connectivity-a-2mp-camera/) |
 
@@ -92,15 +92,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 61920 | Python | 24768.1 | [link](https://github.com/commaai/openpilot) |
-| isaac-sim/IsaacLab | 7536 | Python | 3014.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| earthtojake/text-to-cad | 7026 | JavaScript | 2810.5 | [link](https://github.com/earthtojake/text-to-cad) |
-| RLinf/RLinf | 3913 | Python | 1565.3 | [link](https://github.com/RLinf/RLinf) |
+| commaai/openpilot | 61935 | Python | 24774.1 | [link](https://github.com/commaai/openpilot) |
+| isaac-sim/IsaacLab | 7537 | Python | 3014.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| earthtojake/text-to-cad | 7032 | JavaScript | 2812.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| RLinf/RLinf | 3914 | Python | 1565.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3810 | Rust | 1524.1 | [link](https://github.com/dora-rs/dora) |
+| datawhalechina/every-embodied | 2420 | Python | 968.1 | [link](https://github.com/datawhalechina/every-embodied) |
 | leofan90/Awesome-World-Models | 1840 | Python | 736.1 | [link](https://github.com/leofan90/Awesome-World-Models) |
 | StanfordVL/BEHAVIOR-1K | 1536 | Python | 614.5 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | worldbench/awesome-vla-for-ad | 428 | HTML | 171.3 | [link](https://github.com/worldbench/awesome-vla-for-ad) |
-| flashrt-project/FlashRT | 380 | C++ | 152.1 | [link](https://github.com/flashrt-project/FlashRT) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
