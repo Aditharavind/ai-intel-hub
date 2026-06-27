@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-27 20:06 UTC
+Last Updated: 2026-06-27 21:50 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -57,11 +57,22 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-27 | Watch YouTube on a Game Boy Color With a Special Cartridge | Hackaday | [link](https://hackaday.com/2026/06/26/watch-youtube-on-a-game-boy-color-with-a-special-cartridge/) |
 | 2026-06-27 | NVIDIA’s New AI Servers Run on Hotub Coolant and Don’t Need Evaporators | Hackaday | [link](https://hackaday.com/2026/06/26/nvidias-new-ai-servers-run-on-hotub-coolant-and-dont-need-evaporators/) |
 | 2026-06-27 | GEEKOM A7 2026 Edition Review – Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC | CNX Software | [link](https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/) |
+| 2026-06-27 | Continuously Monitor Blood Pressure without a Cuff #Wearables | Adafruit | [link](https://blog.adafruit.com/2026/06/27/continuously-monitor-blood-pressure-without-a-cuff-wearables/) |
 | 2026-06-27 | Spotify Music Display with a RGB LED Matrix | Adafruit | [link](https://blog.adafruit.com/2026/06/27/spotify-music-display-with-a-rgb-led-matrix/) |
-| 2026-06-26 | Discounted 1.25 GHz Raspberry Pi 4 Model B shows up online | CNX Software | [link](https://www.cnx-software.com/2026/06/26/discounted-1-25-ghz-raspberry-pi-4-model-b/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-06-25 | Scalable Behavior Cloning with Open Data, Training, and Evaluation | [link](https://arxiv.org/pdf/2606.27375v1) |
+| 2026-06-25 | World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays | [link](https://arxiv.org/pdf/2606.27374v1) |
+| 2026-06-25 | PhysiFormer: Learning to Simulate Mechanics in World Space | [link](https://arxiv.org/pdf/2606.27364v1) |
+| 2026-06-25 | RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection | [link](https://arxiv.org/pdf/2606.27355v1) |
+| 2026-06-25 | Continual Robot Policy Learning via Variational Neural Dynamics | [link](https://arxiv.org/pdf/2606.27353v1) |
+| 2026-06-25 | Bridging Performance and Generalization in Reinforcement Learning for Agile Flight | [link](https://arxiv.org/pdf/2606.27348v1) |
+| 2026-06-25 | VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity | [link](https://arxiv.org/pdf/2606.27344v1) |
+| 2026-06-25 | Hallucination in World Models is Predictable and Preventable | [link](https://arxiv.org/pdf/2606.27326v1) |
+| 2026-06-25 | Not All Actions Are Equal: Rethinking Conditioning for Dexterous World Model | [link](https://arxiv.org/pdf/2606.27325v1) |
+| 2026-06-25 | Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders | [link](https://arxiv.org/pdf/2606.27321v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
@@ -81,14 +92,14 @@ _No items collected yet._
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 62034 | Python | 24813.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 62050 | Python | 24820.1 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 15958 | Python | 6383.3 | [link](https://github.com/zauberzeug/nicegui) |
 | isaac-sim/IsaacLab | 7538 | Python | 3015.3 | [link](https://github.com/isaac-sim/IsaacLab) |
 | earthtojake/text-to-cad | 7077 | JavaScript | 2830.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | RLinf/RLinf | 3915 | Python | 1566.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3811 | Rust | 1524.5 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 2421 | Python | 968.5 | [link](https://github.com/datawhalechina/every-embodied) |
-| leofan90/Awesome-World-Models | 1840 | Python | 736.1 | [link](https://github.com/leofan90/Awesome-World-Models) |
+| leofan90/Awesome-World-Models | 1841 | Python | 736.5 | [link](https://github.com/leofan90/Awesome-World-Models) |
 | StanfordVL/BEHAVIOR-1K | 1536 | Python | 614.5 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 
 ## Startup Funding

@@ -1,18 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-27 20:06 UTC
+Generated: 2026-06-27 21:50 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-06-25 | Scalable Behavior Cloning with Open Data, Training, and Evaluation | [link](https://arxiv.org/pdf/2606.27375v1) |
+| 2026-06-25 | World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays | [link](https://arxiv.org/pdf/2606.27374v1) |
+| 2026-06-25 | PhysiFormer: Learning to Simulate Mechanics in World Space | [link](https://arxiv.org/pdf/2606.27364v1) |
+| 2026-06-25 | RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection | [link](https://arxiv.org/pdf/2606.27355v1) |
+| 2026-06-25 | Continual Robot Policy Learning via Variational Neural Dynamics | [link](https://arxiv.org/pdf/2606.27353v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81976 | 32790.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62034 | 24813.7 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29877 | 11950.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 81975 | 32790.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62050 | 24820.1 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29878 | 11951.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15958 | 6383.3 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15371 | 6148.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15372 | 6148.9 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
