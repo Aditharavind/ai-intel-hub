@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-27 22:48 UTC
+Last Updated: 2026-06-27 23:49 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-27 | Bringing Swift To The Apple II | Hackaday | [link](https://hackaday.com/2026/06/27/bringing-swift-to-the-apple-ii/) |
 | 2026-06-27 | Cramming a Mini-ITX Gaming PC into a 3D Printed Steam Machine Sized Case | Hackaday | [link](https://hackaday.com/2026/06/27/cramming-a-mini-itx-gaming-pc-into-a-3d-printed-steam-machine-sized-case/) |
 | 2026-06-27 | Requiem For Long Wave, As The BBC Goes Silent | Hackaday | [link](https://hackaday.com/2026/06/27/requiem-for-long-wave-as-the-bbc-goes-silent/) |
 | 2026-06-27 | Hacking Routers Like It’s 2008 | Hackaday | [link](https://hackaday.com/2026/06/27/hacking-routers-like-its-2008/) |
 | 2026-06-27 | A Quantum Magic 8-Ball | Hackaday | [link](https://hackaday.com/2026/06/27/a-quantum-magic-8-ball/) |
 | 2026-06-27 | Do Metal Roofs Turn a Bird House into an Oven? | Hackaday | [link](https://hackaday.com/2026/06/27/do-metal-roofs-turn-a-bird-house-into-an-oven/) |
 | 2026-06-27 | Watch YouTube on a Game Boy Color With a Special Cartridge | Hackaday | [link](https://hackaday.com/2026/06/26/watch-youtube-on-a-game-boy-color-with-a-special-cartridge/) |
-| 2026-06-27 | NVIDIA’s New AI Servers Run on Hotub Coolant and Don’t Need Evaporators | Hackaday | [link](https://hackaday.com/2026/06/26/nvidias-new-ai-servers-run-on-hotub-coolant-and-dont-need-evaporators/) |
 | 2026-06-27 | GEEKOM A7 2026 Edition Review – Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC | CNX Software | [link](https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/) |
 | 2026-06-27 | Continuously Monitor Blood Pressure without a Cuff #Wearables | Adafruit | [link](https://blog.adafruit.com/2026/06/27/continuously-monitor-blood-pressure-without-a-cuff-wearables/) |
 | 2026-06-27 | Spotify Music Display with a RGB LED Matrix | Adafruit | [link](https://blog.adafruit.com/2026/06/27/spotify-music-display-with-a-rgb-led-matrix/) |
@@ -83,20 +83,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-27 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
 | 2026-06-27 | Vlad39382/vlm-qwen2vl-lora-gqa-ru | 0 | 0 | [link](https://huggingface.co/Vlad39382/vlm-qwen2vl-lora-gqa-ru) |
 | 2026-06-27 | vlad-nikityuk/mt5-gec-en-ua-ru | 0 | 0 | [link](https://huggingface.co/vlad-nikityuk/mt5-gec-en-ua-ru) |
+| 2026-06-27 | thunderball05/my_policy_03 | 0 | 0 | [link](https://huggingface.co/thunderball05/my_policy_03) |
 | 2026-06-27 | TachyQaQ/so101_diffusion_policy_pushrubber_multistart | 0 | 0 | [link](https://huggingface.co/TachyQaQ/so101_diffusion_policy_pushrubber_multistart) |
 | 2026-06-27 | TourEnduro/so101_act_policy | 0 | 0 | [link](https://huggingface.co/TourEnduro/so101_act_policy) |
 | 2026-06-27 | TachyQaQ/so101_diffusion_policy_differentplace | 0 | 0 | [link](https://huggingface.co/TachyQaQ/so101_diffusion_policy_differentplace) |
-| 2026-06-27 | woh7539/omx_act_policy | 306 | 1 | [link](https://huggingface.co/woh7539/omx_act_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 450 | Shell | 180.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 62056 | Python | 24822.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 62063 | Python | 24825.3 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 15958 | Python | 6383.3 | [link](https://github.com/zauberzeug/nicegui) |
-| isaac-sim/IsaacLab | 7538 | Python | 3015.3 | [link](https://github.com/isaac-sim/IsaacLab) |
-| earthtojake/text-to-cad | 7078 | JavaScript | 2831.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| isaac-sim/IsaacLab | 7539 | Python | 3015.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| earthtojake/text-to-cad | 7079 | JavaScript | 2831.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | RLinf/RLinf | 3915 | Python | 1566.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3811 | Rust | 1524.5 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 2421 | Python | 968.5 | [link](https://github.com/datawhalechina/every-embodied) |
