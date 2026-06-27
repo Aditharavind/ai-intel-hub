@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-27 08:21 UTC
+Last Updated: 2026-06-27 10:50 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,36 +77,35 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-27 | pollen-robotics/wake-word-detector | 66 | 0 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
 | 2026-06-27 | love-death-robot/SigMA | 0 | 0 | [link](https://huggingface.co/love-death-robot/SigMA) |
 | 2026-06-27 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
+| 2026-06-27 | Vlad39382/vlm-qwen2vl-lora-gqa-ru | 0 | 0 | [link](https://huggingface.co/Vlad39382/vlm-qwen2vl-lora-gqa-ru) |
 | 2026-06-27 | vlad-nikityuk/mt5-gec-en-ua-ru | 0 | 0 | [link](https://huggingface.co/vlad-nikityuk/mt5-gec-en-ua-ru) |
 | 2026-06-27 | TachyQaQ/so101_diffusion_policy_differentplace | 0 | 0 | [link](https://huggingface.co/TachyQaQ/so101_diffusion_policy_differentplace) |
+| 2026-06-27 | woh7539/omx_act_policy | 306 | 1 | [link](https://huggingface.co/woh7539/omx_act_policy) |
 | 2026-06-26 | farguney/psn-robot-mind-vla | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-vla) |
 | 2026-06-26 | farguney/psn-robot-mind-small | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-small) |
 | 2026-06-26 | farguney/psn-robot-mind-flow-small | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-flow-small) |
-| 2026-06-26 | farguney/psn-robot-mind-real-small | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-real-small) |
-| 2026-06-26 | chandanreddy/qwen-no-robots-lora | 0 | 0 | [link](https://huggingface.co/chandanreddy/qwen-no-robots-lora) |
-| 2026-06-26 | pollen-robotics/wake-word-detector | 42 | 0 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 61887 | Python | 24754.9 | [link](https://github.com/commaai/openpilot) |
-| isaac-sim/IsaacLab | 7535 | Python | 3014.1 | [link](https://github.com/isaac-sim/IsaacLab) |
-| earthtojake/text-to-cad | 7008 | JavaScript | 2803.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| commaai/openpilot | 61920 | Python | 24768.1 | [link](https://github.com/commaai/openpilot) |
+| isaac-sim/IsaacLab | 7536 | Python | 3014.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| earthtojake/text-to-cad | 7026 | JavaScript | 2810.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | RLinf/RLinf | 3913 | Python | 1565.3 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3810 | Rust | 1524.1 | [link](https://github.com/dora-rs/dora) |
+| leofan90/Awesome-World-Models | 1840 | Python | 736.1 | [link](https://github.com/leofan90/Awesome-World-Models) |
 | StanfordVL/BEHAVIOR-1K | 1536 | Python | 614.5 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | worldbench/awesome-vla-for-ad | 428 | HTML | 171.3 | [link](https://github.com/worldbench/awesome-vla-for-ad) |
 | flashrt-project/FlashRT | 380 | C++ | 152.1 | [link](https://github.com/flashrt-project/FlashRT) |
-| sou350121/VLA-Handbook | 328 | HTML | 131.3 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-06-26 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUhnWGpNVDY2WXlERndBVU5LNC1IUWswZzFWM1M2TlNKcERxWFJCQVFiWk13RjFhdlRiMG1uYTlhZ19Rd3lBMXpQTUp1MW1qcC1lQml4blUxM1lKM1B0SGdjdmVDQ2dQT0VnczFDVDM2Ty1rNGFUUllOWnRRQzBBUGV0N042UlJIZU9KX2lmNGxYUDZuYXJVZDJ4bndGUUVCcEpLSQ?oc=5) |
-| 2026-06-26 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRVpIVUtkWWVzSS1uRFYwMlY4b1VKOGpLdWlaLWlUSWloMmh1dFRRSzZCT2FCMEpuMmxndUJ1WUZEenZZZkVYMHJsXzAwYzFNUWhmelpzVHFvUHlkemZzS3ctS2VuWmx1OWFleDRuOVJfVGxhbElEUnU5dzNMN2xEY3F2SG5ScG1DT0tNMUxMMm5JcVFpVUlBWWc4NmVxTHpFNkZSVzdzdnUxY0FvUm1rd0YxZWtvY1E3YTBSOGtDNWJvcFFDb0ZxRHowM3FZTFdOTFA1V2pSQ2o?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiP0FVX3lxTE1JNnVnc1hYTE83LWRYVVlIS19ISjViM2tIWFNyLWhJRk03d0w2U05sWEhRS09oeU1iMGxFdFRQMA?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGdybHdlOWFOTldsa00wVlY3a1NQOExZY1RKZGRJSlNHYnBYdVFrZ2NVSnBsS3FzaTgwaUtVNk9OaURuOTRodzhXa0FaUTcyQ2RZTVlyakdONWFnRkJBa2VGXy16aXAxYk1QMEd2X1RPNW0xTkxBSWxEMzNwWENBb1lza29Vd1FSLUp4MUpCNFVrWjdK?oc=5) |
@@ -115,10 +114,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdHlhT29SZkRnd1pDNDNLVHdMMjhEZV8wdC1wbm9HVmd5b1pndFNIUVdjT2lGYVBoVnJDY1NMX2VlUTRJTmxaSjNLTDQ2LTlRTHZ5QlFGUzdWNWhCM19GZVladlgxcWxJU0xIekp0RW92SGwtYW5YbHZzZERtejdLcHBaQVd2Tm1UM0Jhd3RSRHg4NlUxSmVQS3gtOGQya1pXdUxKTXFhYkxYdG1K?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVJXcUtHUlZRTjNqYl9FRHRJdkFZUU5kSVF5V1NLekl1cDNyOEppY3JkLW5BNHVYZ182OVVnZ2l6R19qZ3JmOVlhR05TNDdOYWljdlJ0TklVTGxKQ2k4R2lINzY3NXMtaDZ4RXRMRWhRWnRuRldQVEh5Y2hMYktzWmx2X2RVdHdpSUFZa0l4SFphalhpaG1kM0tubjJveXV5akIwSTgwX1hwXzBQNGF4ZEpxcFpva2RUZHphWV82YVlyeHVuUlV1LUFvNEVyYkkz?oc=5) |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZFVkekpTTlg1NXNrSktPbzBuQUNMQ2VSanU3a3FXN25GaTBzTkV3OTN0cjBSaHBxSm1ScWJjRVlTSGVYbFZ3MFZWUGF6T2NDRFNfRVR3SW5vX0ZOYmtZSUg5cXBTeWZBMGJuQzNMamFrc2x4ZDFtS0dxeTgyamFabGhCaV9ERGNJWWVkMlZEdXZGSi05dWxaa2FBZzEyTFlKYkcwV0R1Z3JLdFBIZndLX21ldnlfVi1UWDdYMGVLdGNwbEdGQVM5akdQVFBYZ05j?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-06-27 | DEEPX and Sixfab Launch ‘DEEPX AI HAT’ to Drive Edge Physical AI on Raspberry Pi - Macau Business | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTm5IOXZQUlotZTRFejBXSWFaa0JWQV96TERlaFdBcUFXTzY0ckFLM1VFYUh5OXhaOTQxY3YxSmM0aFhMdG12Y0FrVmt0dkdHX3VZd3otMlFQRDA2c1F0U0pxeFhKazROcHZHeVYxd3pJTnQydlZRVjh2RjVMdjBkLWVwQUxTdU1FVGlBT1cyZ1AwNzEtcHVZZnAzV2F3RHpHUGRleF9XM2I?oc=5) |
 | 2026-06-26 | Robotics startup FieldAI has hit a $100 million milestone - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOS1IejdzVkdiZVVnaE95aWVYcXJnWS16RF9qdWlhdUtaRjh5VWo0aEJ2QVNNTmxLMGVsQU9Sd2Z1SkUwQ0JZZU02cTFiTVFHYjVvcExlUEk0WnRsOWxSYlFIVzBIMFRiUVF2cmtILXpoSXV6Tmhvd1BEWXBSR1pNS21pODBkaHNuNjliWHd5UWtaTVAxZmdsMzM2dzFaX3pTNmtNQ2tBZGxXUQ?oc=5) |
 | 2026-06-25 | How a Chinese physical AI start-up’s new paradigm bypasses US road maps - South China Morning Post | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDJSQVM4eFZjOWpJdmdKc3Q4Y0NySDYydUJINzcyc0NUSzhDMVhSVEJHQm9DNUJVMzR3bjFZTjgydWktT2pHSnNlN1Z1a0Jva0hhenk3VDBhN19UMVlNMEpwTWo5ZzhpX25DOUxUbW9WY1NnWHNRZnY3aG1SME5HOXFHeVdoZ2MtbUE5ckxxNFJ6Zl9iVlp1Wk5EZDJxQW51Zlh2UTEydlZLdngtbXN4ZHg5TFY4TDQwamZFRGVkcG8xOG8zS2xvRlk0dVPSAcwBQVVfeXFMTTVFWDE2MV9yc0l5OXlPREpTbXEzU0tkOVFvMG5IRjZCQXU3ZF9jQ1pDNy1xdkhZZW8tZkdmcVUwWFJualR0eDIzV1kxeHBlSmkwZUl5NTJfR1d2Z3hxNUNxckpDdEFweGpNMFl5SndzeHFWS0I0WWJOa2NUT25PTTFxLU5nSFhheVkxZWFwTmpUc29iTVdXRzBOaUtnVGo5WVU1YWpvRWNobXdYVkRLNWtEZ25DV0UzMVd0SFB2dkNLVDBEc1JRWHdVVGlX?oc=5) |
 | 2026-06-25 | World Models vs VLAs: The Rift Dividing Physical AI - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUhwcEJfU1dWVzBtdkdtUEIxS3RrMmstMndTSW1Qc0FTek1wc3ZKQU9KN0k1azlVNWRPQ090a3dES1huWDZFN1RtODJhS0EtWE5ZUHVHbnl3NVpMRFRtYWV6R1VhZmtzdjZxUUg2UjhZX3pLenB4UlpHZ2dMcHE0WHBOdDdYd3RwdGN6NHYtV1lIeFNJMElFY3ZVNmlmVVB2?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-23 | Hyphen and Motoniq Partner to Bring Physical AI to Intelligent Food Automation - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFUwQ1JPcDZ1VF9aLVNCcnNPYlpaSU5kN3ZMOWZCalBYRE5sWGlyc2kxLU5OV2cyU1N4NWt1NmtPbWNEa19SaVozNVZ6UThHcGxpWC1UMjJ3UFhUWDlpUkl5QTdWOFFMWlk0VmFpZ0NJM2YtSEVxZzFyOU8tTFFmeml2SUwzdkJld25KTmFxMG5CY1lXN3JpTnpaa2txWVNMUGlzbzdpZWQweTVzMm83dUhhS0Z1UEhfSktWX1B6TnlwRURxeWpDbkUzOFZwNzhw?oc=5) |
 | 2026-06-23 | Krafton bets $33 mn on AI chip startup in physical AI push - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZVBuQ0VKbTdoaGw0UEhmLTZUTVdMS2xJQXR3NGYxYlB1MnpSUll0WE8xX0Qzb3NnRFM0X2RrMFA5TU4xTjI1ZWVTTFZoQnh4alZWWHVvOURROTlPRjBodDFqblduLWE5T3JManA5bFA?oc=5) |
 | 2026-06-23 | Physical AI Development Platforms - Trend Hunter | physical ai startup | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oOWlpUUhGN0hpNElSZTVmMFM5Q2JUcVM2Sng5LUx0U1RpTHpwaC00MnU1clVXWHhjUWRMcmRIQS1EQV9HNl9DeWMzSURFUVdfSW0wMVlWVlNVWjRCb3lnNjVR0gFnQVVfeXFMT1pWc2NXeTFRYklzM1MwTkVnWElhY0I2YzQtX2d1QjItbW1tcjBWSC1Ib084TldMQVlwWW52YmpwVnEzbTdBY3U3bXRSY013VEpzWldNeHpZdk5odDVJdXVOWE1pbDhqNA?oc=5) |
-| 2026-06-23 | Embodied AI Startup Kunlunxing Lands Multibillion Yuan Raise - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWRxSXBrV1BlVDZjTFdHbHQ4emg2QnVOV3hiQU9jcjMyU3pSeXFZXzRhUUs2S01nWWZuNDBIbEJUTXREWnNXLTVvYkQ4dzNnSDlQNmJOMVU5QXJpdndMNC1yLWRKbHhfQWlfQ0dNTDJ2eWdOY1NpcTBuMUdidi1DY3dLQ0taRU5TS2pIaHlYMlY2Q1FGTlJOSXM0dWFxLWxPUTEwbGZKd2pHVTRXWGVPbGhEeGk5TmRvSlJieWstNzcwX3J3V0pTS045b1JRMFFRRXQ5cWVHWjNyTzdEVkE?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
