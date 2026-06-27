@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-27 01:50 UTC
+Last Updated: 2026-06-27 05:42 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-27 | Watch YouTube on a Game Boy Color With a Special Cartridge | Hackaday | [link](https://hackaday.com/2026/06/26/watch-youtube-on-a-game-boy-color-with-a-special-cartridge/) |
+| 2026-06-27 | NVIDIA’s New AI Servers Run on Hotub Coolant and Don’t Need Evaporators | Hackaday | [link](https://hackaday.com/2026/06/26/nvidias-new-ai-servers-run-on-hotub-coolant-and-dont-need-evaporators/) |
 | 2026-06-26 | Fixing an Elgato Cam Link’s USB Current Draw Issue | Hackaday | [link](https://hackaday.com/2026/06/26/fixing-an-elgato-cam-links-usb-current-draw-issue/) |
 | 2026-06-26 | A Custom Zigbee Touch Keypad | Hackaday | [link](https://hackaday.com/2026/06/26/a-custom-zigbee-touch-keypad/) |
 | 2026-06-26 | Reflective LCD Slabtop Terminal Runs Homebrewed Solar OS | Hackaday | [link](https://hackaday.com/2026/06/26/reflective-lcd-slabtop-terminal-runs-homebrewed-solar-os/) |
 | 2026-06-26 | Hackaday Podcast Episode 375: Rebuilding Tech on Our Terms and the Hero Nerd | Hackaday | [link](https://hackaday.com/2026/06/26/hackaday-podcast-episode-375-rebuilding-tech-on-our-terms-and-the-hero-nerd/) |
 | 2026-06-26 | A GUI Solution For ESP32 Web Development | Hackaday | [link](https://hackaday.com/2026/06/26/a-gui-solution-for-esp32-web-development/) |
-| 2026-06-26 | This Week in Security: Stealing Email with AI, AMD Nerfs Chips, the World Cup Nearly Rickrolled, and GPSD Bugs | Hackaday | [link](https://hackaday.com/2026/06/26/this-week-in-security-stealing-email-with-ai-amd-nerfs-chips-the-world-cup-nearly-hacked-and-gpsd-bugs/) |
-| 2026-06-26 | Alan Turing’s Remarkable, Nearly-Forgotten Voice Encryption Device | Hackaday | [link](https://hackaday.com/2026/06/26/alan-turings-remarkable-nearly-forgotten-voice-encryption-device/) |
 | 2026-06-26 | Discounted 1.25 GHz Raspberry Pi 4 Model B shows up online | CNX Software | [link](https://www.cnx-software.com/2026/06/26/discounted-1-25-ghz-raspberry-pi-4-model-b/) |
 | 2026-06-26 | Makerfabs MaTouch ESP32-P4 10.1-inch HMI display features 4G LTE and Ethernet connectivity, a 2MP camera | CNX Software | [link](https://www.cnx-software.com/2026/06/26/makerfabs-matouch-esp32-p4-10-1-inch-hmi-display-features-4g-lte-and-ethernet-connectivity-a-2mp-camera/) |
 | 2026-06-26 | $449 CHUWI UniBook 14-inch laptop is powered by an Intel Core 3 304 Wildcat Lake processor | CNX Software | [link](https://www.cnx-software.com/2026/06/26/449-chuwi-unibook-14-inch-laptop-is-powered-by-an-intel-core-3-304-wildcat-lake-processor/) |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-27 | love-death-robot/SigMA | 0 | 0 | [link](https://huggingface.co/love-death-robot/SigMA) |
 | 2026-06-27 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
 | 2026-06-26 | farguney/psn-robot-mind-vla | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-vla) |
 | 2026-06-26 | farguney/psn-robot-mind-small | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-small) |
@@ -86,21 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-26 | pollen-robotics/wake-word-detector | 42 | 0 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
 | 2026-06-26 | Nico-robot/test-jobs-quickstop | 0 | 0 | [link](https://huggingface.co/Nico-robot/test-jobs-quickstop) |
 | 2026-06-26 | aarvis/cotrain_base_future_latent_robot_polish_ah10 | 0 | 0 | [link](https://huggingface.co/aarvis/cotrain_base_future_latent_robot_polish_ah10) |
-| 2026-06-26 | aarvis/pi05_cotrain_base_human_sim_robot_ah5 | 0 | 0 | [link](https://huggingface.co/aarvis/pi05_cotrain_base_human_sim_robot_ah5) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 61798 | Python | 24719.3 | [link](https://github.com/commaai/openpilot) |
-| isaac-sim/IsaacLab | 7534 | Python | 3013.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| earthtojake/text-to-cad | 6981 | JavaScript | 2792.5 | [link](https://github.com/earthtojake/text-to-cad) |
-| dora-rs/dora | 3810 | Rust | 1524.1 | [link](https://github.com/dora-rs/dora) |
-| vllm-project/vllm-omni | 5287 | Python | 2114.9 | [link](https://github.com/vllm-project/vllm-omni) |
-| thanhndv212/figaroh-plus | 41 | Python | 16.5 | [link](https://github.com/thanhndv212/figaroh-plus) |
-| robocasa/robocasa | 1493 | Python | 597.3 | [link](https://github.com/robocasa/robocasa) |
-| strands-labs/robots | 77 | Python | 30.9 | [link](https://github.com/strands-labs/robots) |
-| Edgenesis/shifu | 1421 | Go | 568.5 | [link](https://github.com/Edgenesis/shifu) |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
+| commaai/openpilot | 61849 | Python | 24739.7 | [link](https://github.com/commaai/openpilot) |
+| isaac-sim/IsaacLab | 7534 | Python | 3013.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| earthtojake/text-to-cad | 6993 | JavaScript | 2797.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| RLinf/RLinf | 3913 | Python | 1565.3 | [link](https://github.com/RLinf/RLinf) |
+| dora-rs/dora | 3810 | Rust | 1524.1 | [link](https://github.com/dora-rs/dora) |
+| StanfordVL/BEHAVIOR-1K | 1536 | Python | 614.5 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
+| sou350121/VLA-Handbook | 326 | HTML | 130.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 5288 | Python | 2115.3 | [link](https://github.com/vllm-project/vllm-omni) |
+| thanhndv212/figaroh-plus | 41 | Python | 16.5 | [link](https://github.com/thanhndv212/figaroh-plus) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -123,11 +123,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-25 | How a Chinese physical AI start-up’s new paradigm bypasses US road maps - South China Morning Post | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDJSQVM4eFZjOWpJdmdKc3Q4Y0NySDYydUJINzcyc0NUSzhDMVhSVEJHQm9DNUJVMzR3bjFZTjgydWktT2pHSnNlN1Z1a0Jva0hhenk3VDBhN19UMVlNMEpwTWo5ZzhpX25DOUxUbW9WY1NnWHNRZnY3aG1SME5HOXFHeVdoZ2MtbUE5ckxxNFJ6Zl9iVlp1Wk5EZDJxQW51Zlh2UTEydlZLdngtbXN4ZHg5TFY4TDQwamZFRGVkcG8xOG8zS2xvRlk0dVPSAcwBQVVfeXFMTTVFWDE2MV9yc0l5OXlPREpTbXEzU0tkOVFvMG5IRjZCQXU3ZF9jQ1pDNy1xdkhZZW8tZkdmcVUwWFJualR0eDIzV1kxeHBlSmkwZUl5NTJfR1d2Z3hxNUNxckpDdEFweGpNMFl5SndzeHFWS0I0WWJOa2NUT25PTTFxLU5nSFhheVkxZWFwTmpUc29iTVdXRzBOaUtnVGo5WVU1YWpvRWNobXdYVkRLNWtEZ25DV0UzMVd0SFB2dkNLVDBEc1JRWHdVVGlX?oc=5) |
 | 2026-06-25 | World Models vs VLAs: The Rift Dividing Physical AI - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUhwcEJfU1dWVzBtdkdtUEIxS3RrMmstMndTSW1Qc0FTek1wc3ZKQU9KN0k1azlVNWRPQ090a3dES1huWDZFN1RtODJhS0EtWE5ZUHVHbnl3NVpMRFRtYWV6R1VhZmtzdjZxUUg2UjhZX3pLenB4UlpHZ2dMcHE0WHBOdDdYd3RwdGN6NHYtV1lIeFNJMElFY3ZVNmlmVVB2?oc=5) |
 | 2026-06-25 | Singapore Video Startup Founded By Tencent’s Former AI Head Bets Big On World Models - Forbes | physical ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbW9KN2cxZVU3MHhoOGdIeUVKa183M3VvMEFFWTdtR05HTTFrN3ZodF9qb1N0U25VZGFLZE5DaWVyM1ZLdGZPUHUtRWpDUk0xd2tJNU1iMUhfZjl2STRhb2NPdG9rQ0ZsMUxFN1lWWUJuV3hRb1FWOWZjdnoyVGRzcWk4eFlDSkh3MmZvUklpcWw3dmg5MXJtRnk1UFYwaGY1MUdEVVZrd1ZzQUtpSVRvMDZwRGhQam9JREJpeUZwem5kcmdwVG5uUU1OUmZMUDQ?oc=5) |
-| 2026-06-25 | Disastrous EV startup pivots to $90K humanoid to stop the pain - New Atlas | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxNd2hXNEJiYS1zbUFMNWVkcVVTcGJWRHN2TkZ6UDd5MWVoZGpra0Mtb09kaTNwcGhGSlFhSXJBZmw3OF9QYXdKb19ScHZNdzVGOVg1VDA5Skp1ZHZ1bWdWTkFfSnFvSG9vQVJEOFlTbHN3b2x1UzZFY05lR1lhLVZIb29Cb2VHdw?oc=5) |
-| 2026-06-24 | Physical AI Development Platforms - Trend Hunter | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aVnNjV3kxUWJJczNTME5FZ1hJYWNCNmM0LV9ndUIyLW1tbXIwVkgtSG9POE5XTEFZcFludmJqcFZxM203QWN1N210UmNNd1RKc1pXTXh6WXZOaHQ1SXV1TlhNaWw4ajTSAWdBVV95cUxPWlZzY1d5MVFiSXMzUzBORWdYSWFjQjZjNC1fZ3VCMi1tbW1yMFZILUhvTzhOV0xBWXBZbnZianBWcTNtN0FjdTdtdFJjTXdUSnNaV014ell2Tmh0NUl1dU5YTWlsOGo0?oc=5) |
+| 2026-06-24 | Suppliers eye $5 trillion humanoid robot market despite value-capture concerns - Automotive News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxObGVxNml3RWRkVUludndlcmQ5SWJ1WVNEM1BnS0g0TlA2SThIdkRlc1U5bGFaa0x3VW13MWs2djNTdzZUNTZfUG5ILUNaVjJGNFNuUGdWQ1RVdkxmUXJsOG5uY1ZhRHVmLWdCUl9nblF0Y1VWcFgtV21HZ2RTejBULVZtdUd0VXlpOElhMG1XVVVCYy1FYnVENUZqdVc?oc=5) |
 | 2026-06-24 | Agility Robotics is headed to Wall Street - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
 | 2026-06-23 | Hyphen and Motoniq Partner to Bring Physical AI to Intelligent Food Automation - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFUwQ1JPcDZ1VF9aLVNCcnNPYlpaSU5kN3ZMOWZCalBYRE5sWGlyc2kxLU5OV2cyU1N4NWt1NmtPbWNEa19SaVozNVZ6UThHcGxpWC1UMjJ3UFhUWDlpUkl5QTdWOFFMWlk0VmFpZ0NJM2YtSEVxZzFyOU8tTFFmeml2SUwzdkJld25KTmFxMG5CY1lXN3JpTnpaa2txWVNMUGlzbzdpZWQweTVzMm83dUhhS0Z1UEhfSktWX1B6TnlwRURxeWpDbkUzOFZwNzhw?oc=5) |
 | 2026-06-23 | Krafton bets $33 mn on AI chip startup in physical AI push - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZVBuQ0VKbTdoaGw0UEhmLTZUTVdMS2xJQXR3NGYxYlB1MnpSUll0WE8xX0Qzb3NnRFM0X2RrMFA5TU4xTjI1ZWVTTFZoQnh4alZWWHVvOURROTlPRjBodDFqblduLWE5T3JManA5bFA?oc=5) |
+| 2026-06-23 | Physical AI Development Platforms - Trend Hunter | physical ai startup | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oOWlpUUhGN0hpNElSZTVmMFM5Q2JUcVM2Sng5LUx0U1RpTHpwaC00MnU1clVXWHhjUWRMcmRIQS1EQV9HNl9DeWMzSURFUVdfSW0wMVlWVlNVWjRCb3lnNjVR0gFnQVVfeXFMT1pWc2NXeTFRYklzM1MwTkVnWElhY0I2YzQtX2d1QjItbW1tcjBWSC1Ib084TldMQVlwWW52YmpwVnEzbTdBY3U3bXRSY013VEpzWldNeHpZdk5odDVJdXVOWE1pbDhqNA?oc=5) |
 | 2026-06-23 | Embodied AI Startup Kunlunxing Lands Multibillion Yuan Raise - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWRxSXBrV1BlVDZjTFdHbHQ4emg2QnVOV3hiQU9jcjMyU3pSeXFZXzRhUUs2S01nWWZuNDBIbEJUTXREWnNXLTVvYkQ4dzNnSDlQNmJOMVU5QXJpdndMNC1yLWRKbHhfQWlfQ0dNTDJ2eWdOY1NpcTBuMUdidi1DY3dLQ0taRU5TS2pIaHlYMlY2Q1FGTlJOSXM0dWFxLWxPUTEwbGZKd2pHVTRXWGVPbGhEeGk5TmRvSlJieWstNzcwX3J3V0pTS045b1JRMFFRRXQ5cWVHWjNyTzdEVkE?oc=5) |
 
 ## Jobs
