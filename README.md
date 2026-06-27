@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-27 14:20 UTC
+Last Updated: 2026-06-27 15:56 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -83,24 +83,24 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-27 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
 | 2026-06-27 | Vlad39382/vlm-qwen2vl-lora-gqa-ru | 0 | 0 | [link](https://huggingface.co/Vlad39382/vlm-qwen2vl-lora-gqa-ru) |
 | 2026-06-27 | vlad-nikityuk/mt5-gec-en-ua-ru | 0 | 0 | [link](https://huggingface.co/vlad-nikityuk/mt5-gec-en-ua-ru) |
+| 2026-06-27 | TachyQaQ/so101_diffusion_policy_pushrubber_multistart | 0 | 0 | [link](https://huggingface.co/TachyQaQ/so101_diffusion_policy_pushrubber_multistart) |
 | 2026-06-27 | TourEnduro/so101_act_policy | 0 | 0 | [link](https://huggingface.co/TourEnduro/so101_act_policy) |
 | 2026-06-27 | TachyQaQ/so101_diffusion_policy_differentplace | 0 | 0 | [link](https://huggingface.co/TachyQaQ/so101_diffusion_policy_differentplace) |
 | 2026-06-27 | woh7539/omx_act_policy | 306 | 1 | [link](https://huggingface.co/woh7539/omx_act_policy) |
-| 2026-06-26 | farguney/psn-robot-mind-vla | 0 | 0 | [link](https://huggingface.co/farguney/psn-robot-mind-vla) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 61962 | Python | 24784.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 61983 | Python | 24793.3 | [link](https://github.com/commaai/openpilot) |
+| zauberzeug/nicegui | 15957 | Python | 6382.9 | [link](https://github.com/zauberzeug/nicegui) |
 | isaac-sim/IsaacLab | 7537 | Python | 3014.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| earthtojake/text-to-cad | 7048 | JavaScript | 2819.3 | [link](https://github.com/earthtojake/text-to-cad) |
-| RLinf/RLinf | 3914 | Python | 1565.7 | [link](https://github.com/RLinf/RLinf) |
+| earthtojake/text-to-cad | 7064 | JavaScript | 2825.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| RLinf/RLinf | 3915 | Python | 1566.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3810 | Rust | 1524.1 | [link](https://github.com/dora-rs/dora) |
-| datawhalechina/every-embodied | 2420 | Python | 968.1 | [link](https://github.com/datawhalechina/every-embodied) |
+| datawhalechina/every-embodied | 2421 | Python | 968.5 | [link](https://github.com/datawhalechina/every-embodied) |
 | leofan90/Awesome-World-Models | 1840 | Python | 736.1 | [link](https://github.com/leofan90/Awesome-World-Models) |
 | StanfordVL/BEHAVIOR-1K | 1536 | Python | 614.5 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| worldbench/awesome-vla-for-ad | 428 | HTML | 171.3 | [link](https://github.com/worldbench/awesome-vla-for-ad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
