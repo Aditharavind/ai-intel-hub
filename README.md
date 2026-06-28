@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-28 16:54 UTC
+Last Updated: 2026-06-28 17:56 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-28 | RF Hacking A Ceiling Fan Via The Remote | Hackaday | [link](https://hackaday.com/2026/06/28/rf-hacking-a-ceiling-fan-via-the-remote/) |
+| 2026-06-28 | Teaching An AI To Play A Racing Game Via Screen Input | Hackaday | [link](https://hackaday.com/2026/06/28/teaching-an-ai-to-play-a-racing-game-via-screen-input/) |
 | 2026-06-28 | Accurate Split-Flap Display Can be 3D Printed | Hackaday | [link](https://hackaday.com/2026/06/28/accurate-split-flap-display-can-be-3d-printed/) |
 | 2026-06-28 | Hack Improves Cheap Speed Controllers | Hackaday | [link](https://hackaday.com/2026/06/28/hack-improves-cheap-speed-controllers/) |
 | 2026-06-28 | Make Your Own Loudspeaker From Scratch | Hackaday | [link](https://hackaday.com/2026/06/28/make-your-own-loudspeaker-from-scratch/) |
 | 2026-06-28 | World’s Biggest RC A380 is a Big Deal | Hackaday | [link](https://hackaday.com/2026/06/27/worlds-biggest-rc-a380-is-a-big-deal/) |
 | 2026-06-28 | A Standalone YouTube Streaming Rig | Hackaday | [link](https://hackaday.com/2026/06/27/a-standalone-youtube-streaming-rig/) |
 | 2026-06-28 | Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range | CNX Software | [link](https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/) |
+| 2026-06-28 | Rare Fruits of the World | Adafruit | [link](https://blog.adafruit.com/2026/06/28/rare-fruits-of-the-world/) |
 | 2026-06-28 | A remote web rig control system for the Albrecht AE-5900 radio  #HamSunday | Adafruit | [link](https://blog.adafruit.com/2026/06/28/a-remote-web-rig-control-system-for-the-albrecht-ae-5900-radio-hamsunday/) |
-| 2026-06-28 | Adafruit New Products 6/24/2026 | Adafruit | [link](https://blog.adafruit.com/2026/06/27/adafruit-new-products-6-24-2026/) |
-| 2026-06-27 | Bringing Swift To The Apple II | Hackaday | [link](https://hackaday.com/2026/06/27/bringing-swift-to-the-apple-ii/) |
-| 2026-06-27 | Cramming a Mini-ITX Gaming PC into a 3D Printed Steam Machine Sized Case | Hackaday | [link](https://hackaday.com/2026/06/27/cramming-a-mini-itx-gaming-pc-into-a-3d-printed-steam-machine-sized-case/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -86,16 +86,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-28 | cy0307/ropedia-d-world-model | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-d-world-model) |
 | 2026-06-28 | cy0307/ropedia-d-dreamerv3-world-model | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-d-dreamerv3-world-model) |
 | 2026-06-28 | cy0307/ropedia-ag-habitat-navigation | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-ag-habitat-navigation) |
-| 2026-06-28 | simassirut/act_policy_task1 | 0 | 0 | [link](https://huggingface.co/simassirut/act_policy_task1) |
+| 2026-06-28 | hk2k1/act_policy_data_09 | 0 | 0 | [link](https://huggingface.co/hk2k1/act_policy_data_09) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
-| Developer-Y/cs-video-courses | 81985 |  | 32794.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62281 | Python | 24912.5 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 81988 |  | 32795.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62298 | Python | 24919.3 | [link](https://github.com/commaai/openpilot) |
 | isaac-sim/IsaacLab | 7541 | Python | 3016.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 3921 | Python | 1568.5 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 3922 | Python | 1568.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3811 | Rust | 1524.5 | [link](https://github.com/dora-rs/dora) |
 | knightnemo/Awesome-World-Models | 3087 |  | 1234.9 | [link](https://github.com/knightnemo/Awesome-World-Models) |
 | datawhalechina/every-embodied | 2433 | Python | 973.3 | [link](https://github.com/datawhalechina/every-embodied) |

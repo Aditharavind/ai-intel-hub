@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-28 16:54 UTC
+Generated: 2026-06-28 17:56 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-06-28 16:54 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81985 | 32794.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62281 | 24912.5 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 81988 | 32795.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62298 | 24919.3 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 29883 | 11953.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15960 | 6384.1 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15376 | 6150.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15377 | 6150.9 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | IffYuan/Embodied-R1.5 | 637 | 191.2 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
-| woh7539/omx_act_policy | 337 | 101.4 | [link](https://huggingface.co/woh7539/omx_act_policy) |
 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 225 | 69.0 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 213 | 65.4 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
 | BrinqAI/functiongemma-270m-physical-ai | 197 | 59.2 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
+| pollen-robotics/wake-word-detector | 118 | 35.5 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

@@ -1,5 +1,19 @@
 [
   {
+    "title": "RF Hacking A Ceiling Fan Via The Remote",
+    "source": "Hackaday",
+    "date": "2026-06-28",
+    "url": "https://hackaday.com/2026/06/28/rf-hacking-a-ceiling-fan-via-the-remote/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/fanmote_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Sam Wilkinson] recently installed a Dreo CLF513S ceiling fan in his place &#8212; it&#8217;s cheap, well-sized, and blows air around as you&#8217;d expect it to. The only problem is that <a class=\"read-more\" href=\"https://hackaday.com/2026/06/28/rf-hacking-a-ceiling-fan-via-the-remote/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Teaching An AI To Play A Racing Game Via Screen Input",
+    "source": "Hackaday",
+    "date": "2026-06-28",
+    "url": "https://hackaday.com/2026/06/28/teaching-an-ai-to-play-a-racing-game-via-screen-input/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/Screenshot-2026-06-26-165729-1-e1782457160878.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you&#8217;re a fleshy human, you probably learn to play video games by looking at the screen and pressing the buttons, and maybe copying the way you&#8217;ve seen others play <a class=\"read-more\" href=\"https://hackaday.com/2026/06/28/teaching-an-ai-to-play-a-racing-game-via-screen-input/\">&#8230;read more</a>"
+  },
+  {
     "title": "Accurate Split-Flap Display Can be 3D Printed",
     "source": "Hackaday",
     "date": "2026-06-28",
@@ -42,6 +56,13 @@
     "summary": "<div><img alt=\"Arduino Modulino Hub Extender I2C modules\" class=\"attachment-medium size-medium wp-post-image\" height=\"381\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Arduino-Modulino-Hub-Extender-I2C-modules-720x381.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Arduino has just introduced three new Modulino modules: the Modulino Hub to support up to eight I2C devices (64 devices with 8 Hubs), the Modulino Extender to extend the I2C range to up to 30 meters, and the Modulino Motors to control two DC motors or a single stepper motor with precision. I&#8217;ll focus on the I2C modules in this post, as I find the Modulino Extender module particularly interesting, since I always considered I2C to be a short-range communication protocol, and never thought of using it for (relatively) long-range wired communication. Modulino Hub While the I2C protocol supports up to 127 devices in theory, address conflicts can become an issue in complex builds where multiple sensors or actuators share the same default address. The Modulino Hub aims to solve that, and multiple Hubs can be daisy-chained, each with its own address, to support up to 64 devices. Modulino Hub specifications: [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/\">Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Rare Fruits of the World",
+    "source": "Adafruit",
+    "date": "2026-06-28",
+    "url": "https://blog.adafruit.com/2026/06/28/rare-fruits-of-the-world/",
+    "summary": "Durian, one of the few from the list that I have tried. image via Wikipedia &#160; Adafruit isn&#8217;t the only rare fruit out there. Luis Morato of Atlas Obscura compiled this list of global fruits that aren&#8217;t as common in your grocery isles. Each entry links to a full article on the fruit: where it&#8217;s common, [&#8230;]"
+  },
+  {
     "title": "A remote web rig control system for the Albrecht AE-5900 radio  #HamSunday",
     "source": "Adafruit",
     "date": "2026-06-28",
@@ -54,20 +75,6 @@
     "date": "2026-06-28",
     "url": "https://blog.adafruit.com/2026/06/27/adafruit-new-products-6-24-2026/",
     "summary": "We&#8217;ve got the New nEw NEW for you right here This week we debuted 3 New Products. Visit www.adafruit.com/new for more info. Want to get new products info beamed straight into your inbox? New nEw NEWs From Adafruit is an email newsletter sent once a week to subscribers only. It features new products, special offers, [&#8230;]"
-  },
-  {
-    "title": "Bringing Swift To The Apple II",
-    "source": "Hackaday",
-    "date": "2026-06-27",
-    "url": "https://hackaday.com/2026/06/27/bringing-swift-to-the-apple-ii/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/a2p-front-e1782454881857.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Swift is a relatively modern program language, appearing in 2014 as a replacement for Objective-C. Since then, it&#8217;s become a popular solution for programming apps across Apple platforms. That led <a class=\"read-more\" href=\"https://hackaday.com/2026/06/27/bringing-swift-to-the-apple-ii/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Cramming a Mini-ITX Gaming PC into a 3D Printed Steam Machine Sized Case",
-    "source": "Hackaday",
-    "date": "2026-06-27",
-    "url": "https://hackaday.com/2026/06/27/cramming-a-mini-itx-gaming-pc-into-a-3d-printed-steam-machine-sized-case/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"399\" src=\"https://hackaday.com/wp-content/uploads/2026/06/sff_mini-itx_steam_machine_case_real_jacob_terkelsen.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The recently released Valve Steam Machine is somewhat awkward in that it uses a custom, non-standard PCB and non-standard power supply. This fact apparently has irked some people who decided <a class=\"read-more\" href=\"https://hackaday.com/2026/06/27/cramming-a-mini-itx-gaming-pc-into-a-3d-printed-steam-machine-sized-case/\">&#8230;read more</a>"
   },
   {
     "title": "GEEKOM A7 2026 Edition Review – Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC",
@@ -299,13 +306,6 @@
     "date": "2026-06-25",
     "url": "https://www.embedded.com/iridium-development-kit-accelerates-hybrid-iot-design/",
     "summary": "<p>Iridium Communications has announced the commercial availability of the Iridium 9604 module and the accompanying development kit, expanding its internet of things (IoT) portfolio with a hybrid connectivity solution that integrates satellite, cellular, and positioning technologies into a single compact platform. The new products are designed to simplify the development of globally connected IoT devices [...]</p>\n<p>The post <a href=\"https://www.embedded.com/iridium-development-kit-accelerates-hybrid-iot-design/\">Iridium Development Kit Accelerates Hybrid IoT Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "RobCo AE7P lazer tag system #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-06-25",
-    "url": "https://blog.adafruit.com/2026/06/25/robco-ae7p-lazer-tag-system-3dthursday-3dprinting/",
-    "summary": "A Fallout-Themed laser tag system shared by Splated on Printables: I wanted to recreate the professional-grade laser tag experience you find at commercial arcades. After a year of trial and error, I finally have a working prototype—completely themed in a Fallout style! I started with the amazing 3D model from ytec3d (https://ytec3d.com/laser-pistol/) but ended up [&#8230;]"
   },
   {
     "title": "RANsemi and TechPhosis Enable 5G OCUDU for Integrated Small Cells",
