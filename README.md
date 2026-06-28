@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-28 20:48 UTC
+Last Updated: 2026-06-28 21:50 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -83,18 +83,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-28 | YinonDouchan/smolvla_mobile_robot_lift_dummy_task | 57 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_dummy_task) |
 | 2026-06-28 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
 | 2026-06-28 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
+| 2026-06-28 | zwan1003/pickplace_vla_continued | 0 | 0 | [link](https://huggingface.co/zwan1003/pickplace_vla_continued) |
 | 2026-06-28 | kamada-riku/vla_jepa_so101_pick_toy_v9_1_plate | 0 | 0 | [link](https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v9_1_plate) |
 | 2026-06-28 | hirosan6595/vla-260629-v1 | 0 | 0 | [link](https://huggingface.co/hirosan6595/vla-260629-v1) |
 | 2026-06-28 | cy0307/ropedia-d-world-model | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-d-world-model) |
-| 2026-06-28 | cy0307/ropedia-d-dreamerv3-world-model | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-d-dreamerv3-world-model) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 450 | Shell | 180.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| Developer-Y/cs-video-courses | 81989 |  | 32795.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62334 | Python | 24933.7 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 81996 |  | 32798.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62339 | Python | 24935.7 | [link](https://github.com/commaai/openpilot) |
 | isaac-sim/IsaacLab | 7542 | Python | 3016.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 3922 | Python | 1568.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3811 | Rust | 1524.5 | [link](https://github.com/dora-rs/dora) |
