@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-28 21:50 UTC
+Last Updated: 2026-06-28 22:49 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -92,9 +92,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
-| awslabs/awsome-distributed-ai | 450 | Shell | 180.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| Developer-Y/cs-video-courses | 81996 |  | 32798.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62339 | Python | 24935.7 | [link](https://github.com/commaai/openpilot) |
+| awslabs/awsome-distributed-ai | 451 | Shell | 180.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| Developer-Y/cs-video-courses | 82012 |  | 32804.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62352 | Python | 24940.9 | [link](https://github.com/commaai/openpilot) |
 | isaac-sim/IsaacLab | 7542 | Python | 3016.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 3922 | Python | 1568.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3811 | Rust | 1524.5 | [link](https://github.com/dora-rs/dora) |
