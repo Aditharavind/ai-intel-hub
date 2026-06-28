@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-28 09:49 UTC
+Last Updated: 2026-06-28 11:29 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-28 | Hack Improves Cheap Speed Controllers | Hackaday | [link](https://hackaday.com/2026/06/28/hack-improves-cheap-speed-controllers/) |
 | 2026-06-28 | Make Your Own Loudspeaker From Scratch | Hackaday | [link](https://hackaday.com/2026/06/28/make-your-own-loudspeaker-from-scratch/) |
 | 2026-06-28 | World’s Biggest RC A380 is a Big Deal | Hackaday | [link](https://hackaday.com/2026/06/27/worlds-biggest-rc-a380-is-a-big-deal/) |
 | 2026-06-28 | A Standalone YouTube Streaming Rig | Hackaday | [link](https://hackaday.com/2026/06/27/a-standalone-youtube-streaming-rig/) |
@@ -57,7 +58,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-27 | Bringing Swift To The Apple II | Hackaday | [link](https://hackaday.com/2026/06/27/bringing-swift-to-the-apple-ii/) |
 | 2026-06-27 | Cramming a Mini-ITX Gaming PC into a 3D Printed Steam Machine Sized Case | Hackaday | [link](https://hackaday.com/2026/06/27/cramming-a-mini-itx-gaming-pc-into-a-3d-printed-steam-machine-sized-case/) |
 | 2026-06-27 | Requiem For Long Wave, As The BBC Goes Silent | Hackaday | [link](https://hackaday.com/2026/06/27/requiem-for-long-wave-as-the-bbc-goes-silent/) |
-| 2026-06-27 | Hacking Routers Like It’s 2008 | Hackaday | [link](https://hackaday.com/2026/06/27/hacking-routers-like-its-2008/) |
 | 2026-06-27 | GEEKOM A7 2026 Edition Review – Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC | CNX Software | [link](https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/) |
 
 ## New Research Papers
@@ -81,26 +81,26 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-28 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
 | 2026-06-28 | hirosan6595/vla-260629-v1 | 0 | 0 | [link](https://huggingface.co/hirosan6595/vla-260629-v1) |
 | 2026-06-28 | cy0307/ropedia-d-world-model | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-d-world-model) |
+| 2026-06-28 | cy0307/ropedia-d-dreamerv3-world-model | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-d-dreamerv3-world-model) |
+| 2026-06-28 | cy0307/ropedia-ag-habitat-navigation | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-ag-habitat-navigation) |
 | 2026-06-28 | ligaments-dev/autodata-policy-cs | 0 | 0 | [link](https://huggingface.co/ligaments-dev/autodata-policy-cs) |
 | 2026-06-28 | JulianRHuggingFace/cube_moving_policy | 0 | 0 | [link](https://huggingface.co/JulianRHuggingFace/cube_moving_policy) |
 | 2026-06-27 | pollen-robotics/wake-word-detector | 118 | 0 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
 | 2026-06-27 | love-death-robot/SigMA | 0 | 0 | [link](https://huggingface.co/love-death-robot/SigMA) |
-| 2026-06-27 | Vlad39382/vlm-qwen2vl-lora-gqa-ru | 0 | 0 | [link](https://huggingface.co/Vlad39382/vlm-qwen2vl-lora-gqa-ru) |
-| 2026-06-27 | vlad-nikityuk/mt5-gec-en-ua-ru | 0 | 0 | [link](https://huggingface.co/vlad-nikityuk/mt5-gec-en-ua-ru) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 81979 |  | 32791.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62168 | Python | 24867.3 | [link](https://github.com/commaai/openpilot) |
-| isaac-sim/IsaacLab | 7540 | Python | 3016.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
+| Developer-Y/cs-video-courses | 81981 |  | 32792.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62185 | Python | 24874.1 | [link](https://github.com/commaai/openpilot) |
+| isaac-sim/IsaacLab | 7541 | Python | 3016.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 3920 | Python | 1568.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3811 | Rust | 1524.5 | [link](https://github.com/dora-rs/dora) |
 | StanfordVL/BEHAVIOR-1K | 1536 | Python | 614.5 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | luohongk/Embodied-AI-Daily | 348 | HTML | 139.3 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 | sou350121/VLA-Handbook | 328 | HTML | 131.3 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5300 | Python | 2120.1 | [link](https://github.com/vllm-project/vllm-omni) |
-| NVlabs/ProtoMotions | 1733 | Python | 693.3 | [link](https://github.com/NVlabs/ProtoMotions) |
+| vllm-project/vllm-omni | 5301 | Python | 2120.5 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

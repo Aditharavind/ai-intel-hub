@@ -1,33 +1,43 @@
 [
   {
+    "repo": "copper-project/copper-rs",
+    "stars": 1371,
+    "language": "Rust",
+    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
+    "url": "https://github.com/copper-project/copper-rs",
+    "date": "2026-06-28",
+    "topic": "physical-ai",
+    "score": 548.5
+  },
+  {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 81979,
+    "stars": 81981,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-06-28",
     "topic": "robotics",
-    "score": 32791.7
+    "score": 32792.5
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 62168,
+    "stars": 62185,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-06-28",
     "topic": "robotics",
-    "score": 24867.3
+    "score": 24874.1
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7540,
+    "stars": 7541,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-06-28",
     "topic": "robot-learning",
-    "score": 3016.1
+    "score": 3016.5
   },
   {
     "repo": "RLinf/RLinf",
@@ -81,13 +91,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5300,
+    "stars": 5301,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-06-28",
     "topic": "world-model",
-    "score": 2120.1
+    "score": 2120.5
   },
   {
     "repo": "NVlabs/ProtoMotions",
@@ -98,16 +108,6 @@
     "date": "2026-06-28",
     "topic": "humanoid",
     "score": 693.3
-  },
-  {
-    "repo": "copper-project/copper-rs",
-    "stars": 1371,
-    "language": "Rust",
-    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
-    "url": "https://github.com/copper-project/copper-rs",
-    "date": "2026-06-27",
-    "topic": "physical-ai",
-    "score": 548.5
   },
   {
     "repo": "awslabs/awsome-distributed-ai",
@@ -131,23 +131,23 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 7101,
+    "stars": 7104,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-06-27",
     "topic": "robotics",
-    "score": 2840.5
+    "score": 2841.7
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2426,
+    "stars": 2427,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-06-27",
     "topic": "embodied-ai",
-    "score": 970.5
+    "score": 970.9
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -271,23 +271,23 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14008,
+    "stars": 14009,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-06-26",
     "topic": "robotics",
-    "score": 5603.3
+    "score": 5603.7
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 10993,
+    "stars": 10994,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-06-26",
     "topic": "robotics",
-    "score": 4397.3
+    "score": 4397.7
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
@@ -301,13 +301,13 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 1956,
+    "stars": 1957,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-06-26",
     "topic": "world-model",
-    "score": 782.5
+    "score": 782.9
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -421,13 +421,13 @@
   },
   {
     "repo": "keon/awesome-physical-ai",
-    "stars": 328,
+    "stars": 329,
     "language": "",
     "description": "A curated list of academic papers and resources on Physical AI — focusing on Vision-Language-Action (VLA) models, world models, embodied ai, and robotic foundation models.",
     "url": "https://github.com/keon/awesome-physical-ai",
     "date": "2026-06-24",
     "topic": "vla",
-    "score": 131.3
+    "score": 131.7
   },
   {
     "repo": "kornia/kornia",
@@ -441,13 +441,13 @@
   },
   {
     "repo": "mani-skill/ManiSkill",
-    "stars": 3046,
+    "stars": 3047,
     "language": "Python",
     "description": "SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
     "url": "https://github.com/mani-skill/ManiSkill",
     "date": "2026-06-24",
     "topic": "robot-learning",
-    "score": 1218.5
+    "score": 1218.9
   },
   {
     "repo": "vikashplus/robohive",
@@ -481,13 +481,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 29876,
+    "stars": 29877,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-06-22",
     "topic": "robotics",
-    "score": 11950.5
+    "score": 11950.9
   },
   {
     "repo": "baidu-baige/LoongForge",
@@ -571,13 +571,13 @@
   },
   {
     "repo": "thu-ml/Causal-Forcing",
-    "stars": 806,
+    "stars": 807,
     "language": "Python",
     "description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\" & Causal Forcing++",
     "url": "https://github.com/thu-ml/Causal-Forcing",
     "date": "2026-06-17",
     "topic": "world-model",
-    "score": 322.5
+    "score": 322.9
   },
   {
     "repo": "rsasaki0109/worldmodels_ros2",
@@ -651,13 +651,13 @@
   },
   {
     "repo": "simchowitzlabpublic/nano-world-model",
-    "stars": 643,
+    "stars": 644,
     "language": "Python",
     "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science.",
     "url": "https://github.com/simchowitzlabpublic/nano-world-model",
     "date": "2026-06-15",
     "topic": "world-model",
-    "score": 257.3
+    "score": 257.7
   },
   {
     "repo": "wadeKeith/Awesome-Embodied-AI",
@@ -811,13 +811,13 @@
   },
   {
     "repo": "NVIDIA-Omniverse/ovrtx",
-    "stars": 169,
+    "stars": 170,
     "language": "Python",
     "description": "A C and Python library for physically accurate, real-time, sensor simulation and visualization using NVIDIA Omniverse RTX",
     "url": "https://github.com/NVIDIA-Omniverse/ovrtx",
     "date": "2026-06-04",
     "topic": "physical-ai",
-    "score": 67.7
+    "score": 68.1
   },
   {
     "repo": "OpenDriveLab/RISE",
