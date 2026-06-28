@@ -1,5 +1,12 @@
 [
   {
+    "title": "Accurate Split-Flap Display Can be 3D Printed",
+    "source": "Hackaday",
+    "date": "2026-06-28",
+    "url": "https://hackaday.com/2026/06/28/accurate-split-flap-display-can-be-3d-printed/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/split-flap-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Split-flap displays are a great, low-power way to display text to a wide audience. Compared to other display technologies like LCDs they only use energy when the characters change, but <a class=\"read-more\" href=\"https://hackaday.com/2026/06/28/accurate-split-flap-display-can-be-3d-printed/\">&#8230;read more</a>"
+  },
+  {
     "title": "Hack Improves Cheap Speed Controllers",
     "source": "Hackaday",
     "date": "2026-06-28",
@@ -35,6 +42,13 @@
     "summary": "<div><img alt=\"Arduino Modulino Hub Extender I2C modules\" class=\"attachment-medium size-medium wp-post-image\" height=\"381\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Arduino-Modulino-Hub-Extender-I2C-modules-720x381.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Arduino has just introduced three new Modulino modules: the Modulino Hub to support up to eight I2C devices (64 devices with 8 Hubs), the Modulino Extender to extend the I2C range to up to 30 meters, and the Modulino Motors to control two DC motors or a single stepper motor with precision. I&#8217;ll focus on the I2C modules in this post, as I find the Modulino Extender module particularly interesting, since I always considered I2C to be a short-range communication protocol, and never thought of using it for (relatively) long-range wired communication. Modulino Hub While the I2C protocol supports up to 127 devices in theory, address conflicts can become an issue in complex builds where multiple sensors or actuators share the same default address. The Modulino Hub aims to solve that, and multiple Hubs can be daisy-chained, each with its own address, to support up to 64 devices. Modulino Hub specifications: [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/\">Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "A remote web rig control system for the Albrecht AE-5900 radio  #HamSunday",
+    "source": "Adafruit",
+    "date": "2026-06-28",
+    "url": "https://blog.adafruit.com/2026/06/28/a-remote-web-rig-control-system-for-the-albrecht-ae-5900-radio-hamsunday/",
+    "summary": "AE5900 Remote Control V2 is a Python project for a sophisticated LAN/web remote control for the Albrecht AE-5900 radio. While it&#8217;s not comparable to rigctl or hamlib, it works. Ultimately, the purpose is also to revive CB radio and make it more attractive. Flexible solutions provide better access. And that&#8217;s exactly what this project should [&#8230;]"
+  },
+  {
     "title": "Adafruit New Products 6/24/2026",
     "source": "Adafruit",
     "date": "2026-06-28",
@@ -54,13 +68,6 @@
     "date": "2026-06-27",
     "url": "https://hackaday.com/2026/06/27/cramming-a-mini-itx-gaming-pc-into-a-3d-printed-steam-machine-sized-case/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"399\" src=\"https://hackaday.com/wp-content/uploads/2026/06/sff_mini-itx_steam_machine_case_real_jacob_terkelsen.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The recently released Valve Steam Machine is somewhat awkward in that it uses a custom, non-standard PCB and non-standard power supply. This fact apparently has irked some people who decided <a class=\"read-more\" href=\"https://hackaday.com/2026/06/27/cramming-a-mini-itx-gaming-pc-into-a-3d-printed-steam-machine-sized-case/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Requiem For Long Wave, As The BBC Goes Silent",
-    "source": "Hackaday",
-    "date": "2026-06-27",
-    "url": "https://hackaday.com/2026/06/27/requiem-for-long-wave-as-the-bbc-goes-silent/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/bbc-long-wave-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Something happened this morning which will have been unnoticed by many, but which for a certain breed of radio enthusiast marks the end of an era. The BBC stopped broadcasting <a class=\"read-more\" href=\"https://hackaday.com/2026/06/27/requiem-for-long-wave-as-the-bbc-goes-silent/\">&#8230;read more</a>"
   },
   {
     "title": "GEEKOM A7 2026 Edition Review – Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC",
@@ -299,13 +306,6 @@
     "date": "2026-06-25",
     "url": "https://blog.adafruit.com/2026/06/25/robco-ae7p-lazer-tag-system-3dthursday-3dprinting/",
     "summary": "A Fallout-Themed laser tag system shared by Splated on Printables: I wanted to recreate the professional-grade laser tag experience you find at commercial arcades. After a year of trial and error, I finally have a working prototype—completely themed in a Fallout style! I started with the amazing 3D model from ytec3d (https://ytec3d.com/laser-pistol/) but ended up [&#8230;]"
-  },
-  {
-    "title": "Scifi Crate #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-06-25",
-    "url": "https://blog.adafruit.com/2026/06/25/scifi-crate-3dthursday-3dprinting/",
-    "summary": "Shared by Josh-3D on Maker World: A large multi-part 3D-printed sci-fi crate with a primitive latch/locking mechanism and stackable design. Printed in pieces that don&#8217;t feel like an arbitrary chop-up — assembled to look intentional. 2025-01-28 update removes the need for drilling screw holes. By Josh-3D Download the files and learn more Every Thursday is [&#8230;]"
   },
   {
     "title": "RANsemi and TechPhosis Enable 5G OCUDU for Integrated Small Cells",

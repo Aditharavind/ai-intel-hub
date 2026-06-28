@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-28 13:06 UTC
+Last Updated: 2026-06-28 15:08 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-28 | Accurate Split-Flap Display Can be 3D Printed | Hackaday | [link](https://hackaday.com/2026/06/28/accurate-split-flap-display-can-be-3d-printed/) |
 | 2026-06-28 | Hack Improves Cheap Speed Controllers | Hackaday | [link](https://hackaday.com/2026/06/28/hack-improves-cheap-speed-controllers/) |
 | 2026-06-28 | Make Your Own Loudspeaker From Scratch | Hackaday | [link](https://hackaday.com/2026/06/28/make-your-own-loudspeaker-from-scratch/) |
 | 2026-06-28 | World’s Biggest RC A380 is a Big Deal | Hackaday | [link](https://hackaday.com/2026/06/27/worlds-biggest-rc-a380-is-a-big-deal/) |
 | 2026-06-28 | A Standalone YouTube Streaming Rig | Hackaday | [link](https://hackaday.com/2026/06/27/a-standalone-youtube-streaming-rig/) |
 | 2026-06-28 | Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range | CNX Software | [link](https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/) |
+| 2026-06-28 | A remote web rig control system for the Albrecht AE-5900 radio  #HamSunday | Adafruit | [link](https://blog.adafruit.com/2026/06/28/a-remote-web-rig-control-system-for-the-albrecht-ae-5900-radio-hamsunday/) |
 | 2026-06-28 | Adafruit New Products 6/24/2026 | Adafruit | [link](https://blog.adafruit.com/2026/06/27/adafruit-new-products-6-24-2026/) |
 | 2026-06-27 | Bringing Swift To The Apple II | Hackaday | [link](https://hackaday.com/2026/06/27/bringing-swift-to-the-apple-ii/) |
 | 2026-06-27 | Cramming a Mini-ITX Gaming PC into a 3D Printed Steam Machine Sized Case | Hackaday | [link](https://hackaday.com/2026/06/27/cramming-a-mini-itx-gaming-pc-into-a-3d-printed-steam-machine-sized-case/) |
-| 2026-06-27 | Requiem For Long Wave, As The BBC Goes Silent | Hackaday | [link](https://hackaday.com/2026/06/27/requiem-for-long-wave-as-the-bbc-goes-silent/) |
-| 2026-06-27 | GEEKOM A7 2026 Edition Review – Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC | CNX Software | [link](https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-28 | YinonDouchan/smolvla_mobile_robot_lift_dummy_task | 57 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_dummy_task) |
 | 2026-06-28 | robotneu/pi05_zs_gen_hard_lora | 0 | 0 | [link](https://huggingface.co/robotneu/pi05_zs_gen_hard_lora) |
 | 2026-06-28 | robotneu/pi05_pfc23_hard_lora | 0 | 0 | [link](https://huggingface.co/robotneu/pi05_pfc23_hard_lora) |
 | 2026-06-28 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
@@ -85,20 +86,19 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-28 | cy0307/ropedia-d-world-model | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-d-world-model) |
 | 2026-06-28 | cy0307/ropedia-d-dreamerv3-world-model | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-d-dreamerv3-world-model) |
 | 2026-06-28 | cy0307/ropedia-ag-habitat-navigation | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-ag-habitat-navigation) |
-| 2026-06-28 | INCEPTIONwang/PolicyTrim | 0 | 0 | [link](https://huggingface.co/INCEPTIONwang/PolicyTrim) |
-| 2026-06-28 | ligaments-dev/autodata-policy-cs | 0 | 0 | [link](https://huggingface.co/ligaments-dev/autodata-policy-cs) |
+| 2026-06-28 | andrii4k/act_bayonett_policy | 53 | 0 | [link](https://huggingface.co/andrii4k/act_bayonett_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
-| Developer-Y/cs-video-courses | 81983 |  | 32793.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62212 | Python | 24884.9 | [link](https://github.com/commaai/openpilot) |
-| isaac-sim/IsaacLab | 7541 | Python | 3016.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| Developer-Y/cs-video-courses | 81984 |  | 32793.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62246 | Python | 24898.5 | [link](https://github.com/commaai/openpilot) |
+| isaac-sim/IsaacLab | 7540 | Python | 3016.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 3920 | Python | 1568.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3811 | Rust | 1524.5 | [link](https://github.com/dora-rs/dora) |
-| knightnemo/Awesome-World-Models | 3085 |  | 1234.1 | [link](https://github.com/knightnemo/Awesome-World-Models) |
-| datawhalechina/every-embodied | 2428 | Python | 971.3 | [link](https://github.com/datawhalechina/every-embodied) |
+| knightnemo/Awesome-World-Models | 3087 |  | 1234.9 | [link](https://github.com/knightnemo/Awesome-World-Models) |
+| datawhalechina/every-embodied | 2432 | Python | 972.9 | [link](https://github.com/datawhalechina/every-embodied) |
 | StanfordVL/BEHAVIOR-1K | 1536 | Python | 614.5 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | luohongk/Embodied-AI-Daily | 348 | HTML | 139.3 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 
@@ -112,8 +112,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-25 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDhxMkc3MGdXb092MjZIbGVjQXFoSXp5OFZXYUR1T0xIcEtqdkdoYzQ3OC1vSnZRN0Z3M09PRXRiNnZGOXNJaUVBSWpIQ0d6YnZaR3g1bUdFN19fNU5LRUhuZEkwbGxGS1UzX2M5dTdyT3F5a3ZxMXhmUGllZXVEWXlnSGp5Q01yQ2ZUN0lYMTY5UVBBRXViZm9zbGd1bzF3TTFkeHA4RWxUZ0todWd0SmJNcmNKNTFVMVpScEVfejBPdko1?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxNMS1yZUtReWMtWV9vdFFoVzhxNXVEanNJd1FKVVZJYmdCbEo3ZkxtZjdvVHkzU1lTZkJnaTVRNWY3UmplMHZvX05WQnJublhUelNDNmI5WEZ2M2JOTDNfUktIamJzM0szVHEyTkMxQm5UQmUycTRhSDdNRkljM0x0ZEFpb2xlZC1LaHBLd1Nhd0hRWWoxVElRbEtBS0gyQmRrWTJoSWhBSHkySmZTcEpLeFpEdzdpMW1HNFNQdHBiWVVVNDV2X2xTd1NIbw?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdHlhT29SZkRnd1pDNDNLVHdMMjhEZV8wdC1wbm9HVmd5b1pndFNIUVdjT2lGYVBoVnJDY1NMX2VlUTRJTmxaSjNLTDQ2LTlRTHZ5QlFGUzdWNWhCM19GZVladlgxcWxJU0xIekp0RW92SGwtYW5YbHZzZERtejdLcHBaQVd2Tm1UM0Jhd3RSRHg4NlUxSmVQS3gtOGQya1pXdUxKTXFhYkxYdG1K?oc=5) |
-| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVJXcUtHUlZRTjNqYl9FRHRJdkFZUU5kSVF5V1NLekl1cDNyOEppY3JkLW5BNHVYZ182OVVnZ2l6R19qZ3JmOVlhR05TNDdOYWljdlJ0TklVTGxKQ2k4R2lINzY3NXMtaDZ4RXRMRWhRWnRuRldQVEh5Y2hMYktzWmx2X2RVdHdpSUFZa0l4SFphalhpaG1kM0tubjJveXV5akIwSTgwX1hwXzBQNGF4ZEpxcFpva2RUZHphWV82YVlyeHVuUlV1LUFvNEVyYkkz?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVJXcUtHUlZRTjNqYl9FRHRJdkFZUU5kSVF5V1NLekl1cDNyOEppY3JkLW5BNHVYZ182OVVnZ2l6R19qZ3JmOVlhR05TNDdOYWljdlJ0TklVTGxKQ2k4R2lINzY3NXMtaDZ4RXRMRWhRWnRuRldQVEh5Y2hMYktzWmx2X2RVdHdpSUFZa0l4SFphalhpaG1kM0tubjJveXV5akIwSTgwX1hwXzBQNGF4ZEpxcFpva2RUZHphWV82YVlyeHVuUlV1LUFvNEVyYkkz?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZFVkekpTTlg1NXNrSktPbzBuQUNMQ2VSanU3a3FXN25GaTBzTkV3OTN0cjBSaHBxSm1ScWJjRVlTSGVYbFZ3MFZWUGF6T2NDRFNfRVR3SW5vX0ZOYmtZSUg5cXBTeWZBMGJuQzNMamFrc2x4ZDFtS0dxeTgyamFabGhCaV9ERGNJWWVkMlZEdXZGSi05dWxaa2FBZzEyTFlKYkcwV0R1Z3JLdFBIZndLX21ldnlfVi1UWDdYMGVLdGNwbEdGQVM5akdQVFBYZ05j?oc=5) |
 
 ## New Companies
