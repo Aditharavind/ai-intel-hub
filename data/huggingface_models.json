@@ -1,5 +1,14 @@
 [
   {
+    "model": "polarisai-robots/bin_transfer_so101_smolvla_v2",
+    "downloads": 18,
+    "likes": 0,
+    "url": "https://huggingface.co/polarisai-robots/bin_transfer_so101_smolvla_v2",
+    "date": "2026-06-28",
+    "keyword": "robot",
+    "score": 5.5
+  },
+  {
     "model": "robotneu/pi05_zs_gen_hard_lora",
     "downloads": 0,
     "likes": 0,
@@ -279,15 +288,6 @@
     "score": 10.6
   },
   {
-    "model": "L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_speedup_v2",
-    "downloads": 34,
-    "likes": 0,
-    "url": "https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_speedup_v2",
-    "date": "2026-06-26",
-    "keyword": "robotics",
-    "score": 10.3
-  },
-  {
     "model": "Vladbambu/Julia",
     "downloads": 0,
     "likes": 0,
@@ -366,6 +366,15 @@
     "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-7b-ac-exp03-world-model-stage1-lora-epoch3",
     "date": "2026-06-26",
     "keyword": "world model",
+    "score": 10.3
+  },
+  {
+    "model": "L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_speedup_v2",
+    "downloads": 34,
+    "likes": 0,
+    "url": "https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_speedup_v2",
+    "date": "2026-06-26",
+    "keyword": "robotics",
     "score": 10.3
   },
   {

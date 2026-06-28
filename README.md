@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-28 19:00 UTC
+Last Updated: 2026-06-28 20:48 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -57,8 +57,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-28 | World’s Biggest RC A380 is a Big Deal | Hackaday | [link](https://hackaday.com/2026/06/27/worlds-biggest-rc-a380-is-a-big-deal/) |
 | 2026-06-28 | A Standalone YouTube Streaming Rig | Hackaday | [link](https://hackaday.com/2026/06/27/a-standalone-youtube-streaming-rig/) |
 | 2026-06-28 | Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range | CNX Software | [link](https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/) |
-| 2026-06-28 | Rare Fruits of the World | Adafruit | [link](https://blog.adafruit.com/2026/06/28/rare-fruits-of-the-world/) |
-| 2026-06-28 | A remote web rig control system for the Albrecht AE-5900 radio  #HamSunday | Adafruit | [link](https://blog.adafruit.com/2026/06/28/a-remote-web-rig-control-system-for-the-albrecht-ae-5900-radio-hamsunday/) |
+| 2026-06-28 | Setting up a Hytale Dedicated Server on Linux | Adafruit | [link](https://blog.adafruit.com/2026/06/28/setting-up-a-hytale-dedicated-server-on-linux/) |
+| 2026-06-28 | Adafruit Weekly Editorial Round-Up: Chris Young’s Retirement, International Women in Engineering Day 2026, & more! | Adafruit | [link](https://blog.adafruit.com/2026/06/28/adafruit-weekly-editorial-round-up-chris-youngs-retirement-international-women-in-engineering-day-2026-more/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-28 | polarisai-robots/bin_transfer_so101_smolvla_v2 | 18 | 0 | [link](https://huggingface.co/polarisai-robots/bin_transfer_so101_smolvla_v2) |
 | 2026-06-28 | robotneu/pi05_zs_gen_hard_lora | 0 | 0 | [link](https://huggingface.co/robotneu/pi05_zs_gen_hard_lora) |
 | 2026-06-28 | robotneu/pi05_pfc23_hard_lora | 0 | 0 | [link](https://huggingface.co/robotneu/pi05_pfc23_hard_lora) |
 | 2026-06-28 | YinonDouchan/smolvla_mobile_robot_lift_dummy_task | 57 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_dummy_task) |
@@ -86,21 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-28 | hirosan6595/vla-260629-v1 | 0 | 0 | [link](https://huggingface.co/hirosan6595/vla-260629-v1) |
 | 2026-06-28 | cy0307/ropedia-d-world-model | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-d-world-model) |
 | 2026-06-28 | cy0307/ropedia-d-dreamerv3-world-model | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-d-dreamerv3-world-model) |
-| 2026-06-28 | cy0307/ropedia-ag-habitat-navigation | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-ag-habitat-navigation) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
+| awslabs/awsome-distributed-ai | 450 | Shell | 180.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | Developer-Y/cs-video-courses | 81989 |  | 32795.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62317 | Python | 24926.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 62334 | Python | 24933.7 | [link](https://github.com/commaai/openpilot) |
 | isaac-sim/IsaacLab | 7542 | Python | 3016.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 3922 | Python | 1568.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3811 | Rust | 1524.5 | [link](https://github.com/dora-rs/dora) |
-| knightnemo/Awesome-World-Models | 3087 |  | 1234.9 | [link](https://github.com/knightnemo/Awesome-World-Models) |
+| knightnemo/Awesome-World-Models | 3088 |  | 1235.3 | [link](https://github.com/knightnemo/Awesome-World-Models) |
 | datawhalechina/every-embodied | 2433 | Python | 973.3 | [link](https://github.com/datawhalechina/every-embodied) |
 | StanfordVL/BEHAVIOR-1K | 1536 | Python | 614.5 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| luohongk/Embodied-AI-Daily | 348 | HTML | 139.3 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

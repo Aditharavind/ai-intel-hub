@@ -56,6 +56,20 @@
     "summary": "<div><img alt=\"Arduino Modulino Hub Extender I2C modules\" class=\"attachment-medium size-medium wp-post-image\" height=\"381\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Arduino-Modulino-Hub-Extender-I2C-modules-720x381.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Arduino has just introduced three new Modulino modules: the Modulino Hub to support up to eight I2C devices (64 devices with 8 Hubs), the Modulino Extender to extend the I2C range to up to 30 meters, and the Modulino Motors to control two DC motors or a single stepper motor with precision. I&#8217;ll focus on the I2C modules in this post, as I find the Modulino Extender module particularly interesting, since I always considered I2C to be a short-range communication protocol, and never thought of using it for (relatively) long-range wired communication. Modulino Hub While the I2C protocol supports up to 127 devices in theory, address conflicts can become an issue in complex builds where multiple sensors or actuators share the same default address. The Modulino Hub aims to solve that, and multiple Hubs can be daisy-chained, each with its own address, to support up to 64 devices. Modulino Hub specifications: [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/\">Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Setting up a Hytale Dedicated Server on Linux",
+    "source": "Adafruit",
+    "date": "2026-06-28",
+    "url": "https://blog.adafruit.com/2026/06/28/setting-up-a-hytale-dedicated-server-on-linux/",
+    "summary": "PiMyLifeUp shares how to set up a Hytale dedicated server on Linux. Linux is one of the best operating systems for self-hosting a Hytale server, thanks to its having much lower overhead compared to Windows. This lower overhead enables you to dedicate more resources to running the game server. Hytale, if you haven’t heard of [&#8230;]"
+  },
+  {
+    "title": "Adafruit Weekly Editorial Round-Up: Chris Young’s Retirement, International Women in Engineering Day 2026, & more!",
+    "source": "Adafruit",
+    "date": "2026-06-28",
+    "url": "https://blog.adafruit.com/2026/06/28/adafruit-weekly-editorial-round-up-chris-youngs-retirement-international-women-in-engineering-day-2026-more/",
+    "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG International Women in Engineering [&#8230;]"
+  },
+  {
     "title": "Rare Fruits of the World",
     "source": "Adafruit",
     "date": "2026-06-28",
@@ -243,20 +257,6 @@
     "date": "2026-06-26",
     "url": "https://blog.adafruit.com/2026/06/26/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-26/",
     "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
-  },
-  {
-    "title": "What to Make to Bring Camping",
-    "source": "Adafruit",
-    "date": "2026-06-26",
-    "url": "https://blog.adafruit.com/2026/06/26/what-to-make-to-bring-camping/",
-    "summary": "Whether you&#8217;re in your living room, a backyard or National Park, camping there is definitely an opportunity to have a moment with a DIY build. Take a look at some of our picks for camp builds! LED Campfire Because it&#8217;s not camping without a fire Raspberry Pi Wearable Time Lapse Camera Did the hike happen [&#8230;]"
-  },
-  {
-    "title": "PBS Mini-Docs Celebrating Pride #Pride2026",
-    "source": "Adafruit",
-    "date": "2026-06-26",
-    "url": "https://blog.adafruit.com/2026/06/26/pbs-mini-docs-celebrating-pride-pride2026/",
-    "summary": "Learn more about Pride month and LGBTQIA+ icons and history with this PBS curated playlist. We&#8217;re celebrating Pride Month by exploring stories featuring lesbian, gay, transgender, queer, intersex, asexual, and nonbinary voices, plus others whose identities are not captured by the LGBTQIA acronym. Learn more."
   },
   {
     "title": "The Power of RAIN RFID: Building a Physical Intelligence Layer for AI and IoT",
