@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-28 02:00 UTC
+Last Updated: 2026-06-28 06:18 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-28 | World’s Biggest RC A380 is a Big Deal | Hackaday | [link](https://hackaday.com/2026/06/27/worlds-biggest-rc-a380-is-a-big-deal/) |
+| 2026-06-28 | A Standalone YouTube Streaming Rig | Hackaday | [link](https://hackaday.com/2026/06/27/a-standalone-youtube-streaming-rig/) |
+| 2026-06-28 | Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range | CNX Software | [link](https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/) |
 | 2026-06-28 | Adafruit New Products 6/24/2026 | Adafruit | [link](https://blog.adafruit.com/2026/06/27/adafruit-new-products-6-24-2026/) |
 | 2026-06-27 | Bringing Swift To The Apple II | Hackaday | [link](https://hackaday.com/2026/06/27/bringing-swift-to-the-apple-ii/) |
 | 2026-06-27 | Cramming a Mini-ITX Gaming PC into a 3D Printed Steam Machine Sized Case | Hackaday | [link](https://hackaday.com/2026/06/27/cramming-a-mini-itx-gaming-pc-into-a-3d-printed-steam-machine-sized-case/) |
 | 2026-06-27 | Requiem For Long Wave, As The BBC Goes Silent | Hackaday | [link](https://hackaday.com/2026/06/27/requiem-for-long-wave-as-the-bbc-goes-silent/) |
 | 2026-06-27 | Hacking Routers Like It’s 2008 | Hackaday | [link](https://hackaday.com/2026/06/27/hacking-routers-like-its-2008/) |
 | 2026-06-27 | A Quantum Magic 8-Ball | Hackaday | [link](https://hackaday.com/2026/06/27/a-quantum-magic-8-ball/) |
-| 2026-06-27 | Do Metal Roofs Turn a Bird House into an Oven? | Hackaday | [link](https://hackaday.com/2026/06/27/do-metal-roofs-turn-a-bird-house-into-an-oven/) |
-| 2026-06-27 | Watch YouTube on a Game Boy Color With a Special Cartridge | Hackaday | [link](https://hackaday.com/2026/06/26/watch-youtube-on-a-game-boy-color-with-a-special-cartridge/) |
 | 2026-06-27 | GEEKOM A7 2026 Edition Review – Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC | CNX Software | [link](https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/) |
-| 2026-06-27 | Continuously Monitor Blood Pressure without a Cuff #Wearables | Adafruit | [link](https://blog.adafruit.com/2026/06/27/continuously-monitor-blood-pressure-without-a-cuff-wearables/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -78,6 +78,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-06-28 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
+| 2026-06-28 | ligaments-dev/autodata-policy-cs | 0 | 0 | [link](https://huggingface.co/ligaments-dev/autodata-policy-cs) |
 | 2026-06-28 | JulianRHuggingFace/cube_moving_policy | 0 | 0 | [link](https://huggingface.co/JulianRHuggingFace/cube_moving_policy) |
 | 2026-06-27 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
 | 2026-06-27 | pollen-robotics/wake-word-detector | 66 | 0 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
@@ -86,21 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-27 | vlad-nikityuk/mt5-gec-en-ua-ru | 0 | 0 | [link](https://huggingface.co/vlad-nikityuk/mt5-gec-en-ua-ru) |
 | 2026-06-27 | thunderball05/my_policy_03 | 0 | 0 | [link](https://huggingface.co/thunderball05/my_policy_03) |
 | 2026-06-27 | TachyQaQ/so101_diffusion_policy_pushrubber_multistart | 0 | 0 | [link](https://huggingface.co/TachyQaQ/so101_diffusion_policy_pushrubber_multistart) |
-| 2026-06-27 | TourEnduro/so101_act_policy | 0 | 0 | [link](https://huggingface.co/TourEnduro/so101_act_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 62082 | Python | 24832.9 | [link](https://github.com/commaai/openpilot) |
-| isaac-sim/IsaacLab | 7539 | Python | 3015.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| Developer-Y/cs-video-courses | 81977 |  | 32790.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62127 | Python | 24850.9 | [link](https://github.com/commaai/openpilot) |
+| isaac-sim/IsaacLab | 7540 | Python | 3016.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3811 | Rust | 1524.5 | [link](https://github.com/dora-rs/dora) |
 | StanfordVL/BEHAVIOR-1K | 1536 | Python | 614.5 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
+| luohongk/Embodied-AI-Daily | 348 | HTML | 139.3 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 | sou350121/VLA-Handbook | 328 | HTML | 131.3 | [link](https://github.com/sou350121/VLA-Handbook) |
-| strands-labs/robots | 78 | Python | 31.3 | [link](https://github.com/strands-labs/robots) |
+| vllm-project/vllm-omni | 5299 | Python | 2119.7 | [link](https://github.com/vllm-project/vllm-omni) |
+| NVlabs/ProtoMotions | 1733 | Python | 693.3 | [link](https://github.com/NVlabs/ProtoMotions) |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
-| awslabs/awsome-distributed-ai | 450 | Shell | 180.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| zauberzeug/nicegui | 15959 | Python | 6383.7 | [link](https://github.com/zauberzeug/nicegui) |
-| earthtojake/text-to-cad | 7084 | JavaScript | 2833.7 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -120,13 +120,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-06-28 | Chinese Student Builds Humanoid Robot for $2,100 at Age 20, Now Leads Robotics Startup in China - CPG Click Petróleo e Gás | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaTdwRmxNY3pGZmc5d0Nza25zcDRjT2R3b095UFFieWh0aG02OHh0ODRVZ3RoYkRDRF9VZE5mUUxhOEp3SV8xYVplVjFsMUxibEpRRUlXTWZHSEZvN1BHZFlYa0pqNzZRY0dGaDBNZlZEMkh0YlNaaXZfeHlqcHNKTDlmRmlCTkY2dzl1eDR4dDBhdnZQTVlMMW5YZlFNMGdDMl9YSk13anNjdkw5ZEVFRkdFbmh4dU91czFxWFZkQUVNdkJ6OFZPaE1GT1I3TWx4a0E?oc=5) |
+| 2026-06-26 | Robotics startup FieldAI has hit a $100 million milestone - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOS1IejdzVkdiZVVnaE95aWVYcXJnWS16RF9qdWlhdUtaRjh5VWo0aEJ2QVNNTmxLMGVsQU9Sd2Z1SkUwQ0JZZU02cTFiTVFHYjVvcExlUEk0WnRsOWxSYlFIVzBIMFRiUVF2cmtILXpoSXV6Tmhvd1BEWXBSR1pNS21pODBkaHNuNjliWHd5UWtaTVAxZmdsMzM2dzFaX3pTNmtNQ2tBZGxXUQ?oc=5) |
 | 2026-06-25 | How a Chinese physical AI start-up’s new paradigm bypasses US road maps - South China Morning Post | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDJSQVM4eFZjOWpJdmdKc3Q4Y0NySDYydUJINzcyc0NUSzhDMVhSVEJHQm9DNUJVMzR3bjFZTjgydWktT2pHSnNlN1Z1a0Jva0hhenk3VDBhN19UMVlNMEpwTWo5ZzhpX25DOUxUbW9WY1NnWHNRZnY3aG1SME5HOXFHeVdoZ2MtbUE5ckxxNFJ6Zl9iVlp1Wk5EZDJxQW51Zlh2UTEydlZLdngtbXN4ZHg5TFY4TDQwamZFRGVkcG8xOG8zS2xvRlk0dVPSAcwBQVVfeXFMTTVFWDE2MV9yc0l5OXlPREpTbXEzU0tkOVFvMG5IRjZCQXU3ZF9jQ1pDNy1xdkhZZW8tZkdmcVUwWFJualR0eDIzV1kxeHBlSmkwZUl5NTJfR1d2Z3hxNUNxckpDdEFweGpNMFl5SndzeHFWS0I0WWJOa2NUT25PTTFxLU5nSFhheVkxZWFwTmpUc29iTVdXRzBOaUtnVGo5WVU1YWpvRWNobXdYVkRLNWtEZ25DV0UzMVd0SFB2dkNLVDBEc1JRWHdVVGlX?oc=5) |
 | 2026-06-25 | World Models vs VLAs: The Rift Dividing Physical AI - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUhwcEJfU1dWVzBtdkdtUEIxS3RrMmstMndTSW1Qc0FTek1wc3ZKQU9KN0k1azlVNWRPQ090a3dES1huWDZFN1RtODJhS0EtWE5ZUHVHbnl3NVpMRFRtYWV6R1VhZmtzdjZxUUg2UjhZX3pLenB4UlpHZ2dMcHE0WHBOdDdYd3RwdGN6NHYtV1lIeFNJMElFY3ZVNmlmVVB2?oc=5) |
 | 2026-06-25 | Singapore Video Startup Founded By Tencent’s Former AI Head Bets Big On World Models - Forbes | physical ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbW9KN2cxZVU3MHhoOGdIeUVKa183M3VvMEFFWTdtR05HTTFrN3ZodF9qb1N0U25VZGFLZE5DaWVyM1ZLdGZPUHUtRWpDUk0xd2tJNU1iMUhfZjl2STRhb2NPdG9rQ0ZsMUxFN1lWWUJuV3hRb1FWOWZjdnoyVGRzcWk4eFlDSkh3MmZvUklpcWw3dmg5MXJtRnk1UFYwaGY1MUdEVVZrd1ZzQUtpSVRvMDZwRGhQam9JREJpeUZwem5kcmdwVG5uUU1OUmZMUDQ?oc=5) |
-| 2026-06-25 | Watch This $5 Billion Startup Is Putting Humanoid Robots To Work - Bloomberg | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX3BJdGl2RTZHUURXQ2o5WXZCQzE2RG81dDcxbFJReFhVRTB5bnF0M0haSzF1YXBhU2hQU184ME9zLVhUczZEWFZQMk5rQ3A5QUQ5X1FVempDb19peVJnNUZUNUZSMWNaQTBvQlM5b0Q0NXY1NG9PaVlYN1dXckdJQzZlXzF6UWN4em1ZWjQzakVFZU8xbUo2NkhHcy1nNnp5WHB4U3otRHY2dw?oc=5) |
+| 2026-06-25 | Watch This $5 Billion Startup Is Putting Humanoid Robots To Work - Bloomberg.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX3BJdGl2RTZHUURXQ2o5WXZCQzE2RG81dDcxbFJReFhVRTB5bnF0M0haSzF1YXBhU2hQU184ME9zLVhUczZEWFZQMk5rQ3A5QUQ5X1FVempDb19peVJnNUZUNUZSMWNaQTBvQlM5b0Q0NXY1NG9PaVlYN1dXckdJQzZlXzF6UWN4em1ZWjQzakVFZU8xbUo2NkhHcy1nNnp5WHB4U3otRHY2dw?oc=5) |
 | 2026-06-25 | Disastrous EV startup pivots to $90K humanoid to stop the pain - New Atlas | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxNd2hXNEJiYS1zbUFMNWVkcVVTcGJWRHN2TkZ6UDd5MWVoZGpra0Mtb09kaTNwcGhGSlFhSXJBZmw3OF9QYXdKb19ScHZNdzVGOVg1VDA5Skp1ZHZ1bWdWTkFfSnFvSG9vQVJEOFlTbHN3b2x1UzZFY05lR1lhLVZIb29Cb2VHdw?oc=5) |
 | 2026-06-24 | Agility Robotics is headed to Wall Street - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
-| 2026-06-24 | Suppliers eye $5 trillion humanoid robot market despite value-capture concerns - Automotive News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxObGVxNml3RWRkVUludndlcmQ5SWJ1WVNEM1BnS0g0TlA2SThIdkRlc1U5bGFaa0x3VW13MWs2djNTdzZUNTZfUG5ILUNaVjJGNFNuUGdWQ1RVdkxmUXJsOG5uY1ZhRHVmLWdCUl9nblF0Y1VWcFgtV21HZ2RTejBULVZtdUd0VXlpOElhMG1XVVVCYy1FYnVENUZqdVc?oc=5) |
 | 2026-06-23 | Hyphen and Motoniq Partner to Bring Physical AI to Intelligent Food Automation - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFUwQ1JPcDZ1VF9aLVNCcnNPYlpaSU5kN3ZMOWZCalBYRE5sWGlyc2kxLU5OV2cyU1N4NWt1NmtPbWNEa19SaVozNVZ6UThHcGxpWC1UMjJ3UFhUWDlpUkl5QTdWOFFMWlk0VmFpZ0NJM2YtSEVxZzFyOU8tTFFmeml2SUwzdkJld25KTmFxMG5CY1lXN3JpTnpaa2txWVNMUGlzbzdpZWQweTVzMm83dUhhS0Z1UEhfSktWX1B6TnlwRURxeWpDbkUzOFZwNzhw?oc=5) |
 | 2026-06-23 | Krafton bets $33 mn on AI chip startup in physical AI push - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZVBuQ0VKbTdoaGw0UEhmLTZUTVdMS2xJQXR3NGYxYlB1MnpSUll0WE8xX0Qzb3NnRFM0X2RrMFA5TU4xTjI1ZWVTTFZoQnh4alZWWHVvOURROTlPRjBodDFqblduLWE5T3JManA5bFA?oc=5) |
 
