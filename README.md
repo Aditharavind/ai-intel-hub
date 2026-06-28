@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-28 22:49 UTC
+Last Updated: 2026-06-28 23:57 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-28 | Reachy Mini Desktop Robot Gets All-local, Conversational AI | Hackaday | [link](https://hackaday.com/2026/06/28/reachy-mini-desktop-robot-gets-all-local-conversational-ai/) |
 | 2026-06-28 | RF Hacking A Ceiling Fan Via The Remote | Hackaday | [link](https://hackaday.com/2026/06/28/rf-hacking-a-ceiling-fan-via-the-remote/) |
 | 2026-06-28 | Teaching An AI To Play A Racing Game Via Screen Input | Hackaday | [link](https://hackaday.com/2026/06/28/teaching-an-ai-to-play-a-racing-game-via-screen-input/) |
 | 2026-06-28 | Accurate Split-Flap Display Can be 3D Printed | Hackaday | [link](https://hackaday.com/2026/06/28/accurate-split-flap-display-can-be-3d-printed/) |
 | 2026-06-28 | Hack Improves Cheap Speed Controllers | Hackaday | [link](https://hackaday.com/2026/06/28/hack-improves-cheap-speed-controllers/) |
 | 2026-06-28 | Make Your Own Loudspeaker From Scratch | Hackaday | [link](https://hackaday.com/2026/06/28/make-your-own-loudspeaker-from-scratch/) |
 | 2026-06-28 | World’s Biggest RC A380 is a Big Deal | Hackaday | [link](https://hackaday.com/2026/06/27/worlds-biggest-rc-a380-is-a-big-deal/) |
-| 2026-06-28 | A Standalone YouTube Streaming Rig | Hackaday | [link](https://hackaday.com/2026/06/27/a-standalone-youtube-streaming-rig/) |
 | 2026-06-28 | Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range | CNX Software | [link](https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/) |
 | 2026-06-28 | Setting up a Hytale Dedicated Server on Linux | Adafruit | [link](https://blog.adafruit.com/2026/06/28/setting-up-a-hytale-dedicated-server-on-linux/) |
 | 2026-06-28 | Adafruit Weekly Editorial Round-Up: Chris Young’s Retirement, International Women in Engineering Day 2026, & more! | Adafruit | [link](https://blog.adafruit.com/2026/06/28/adafruit-weekly-editorial-round-up-chris-youngs-retirement-international-women-in-engineering-day-2026-more/) |
@@ -93,14 +93,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 451 | Shell | 180.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| Developer-Y/cs-video-courses | 82012 |  | 32804.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62352 | Python | 24940.9 | [link](https://github.com/commaai/openpilot) |
-| isaac-sim/IsaacLab | 7542 | Python | 3016.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| Developer-Y/cs-video-courses | 82019 |  | 32807.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62369 | Python | 24947.7 | [link](https://github.com/commaai/openpilot) |
+| isaac-sim/IsaacLab | 7543 | Python | 3017.3 | [link](https://github.com/isaac-sim/IsaacLab) |
+| earthtojake/text-to-cad | 7119 | JavaScript | 2847.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | RLinf/RLinf | 3922 | Python | 1568.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3811 | Rust | 1524.5 | [link](https://github.com/dora-rs/dora) |
 | knightnemo/Awesome-World-Models | 3088 |  | 1235.3 | [link](https://github.com/knightnemo/Awesome-World-Models) |
 | datawhalechina/every-embodied | 2433 | Python | 973.3 | [link](https://github.com/datawhalechina/every-embodied) |
-| StanfordVL/BEHAVIOR-1K | 1536 | Python | 614.5 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
