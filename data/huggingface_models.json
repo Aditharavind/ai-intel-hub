@@ -1,5 +1,23 @@
 [
   {
+    "model": "robotneu/pi05_zs_gen_hard_lora",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotneu/pi05_zs_gen_hard_lora",
+    "date": "2026-06-28",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "robotneu/pi05_pfc23_hard_lora",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotneu/pi05_pfc23_hard_lora",
+    "date": "2026-06-28",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "YinonDouchan/mobile_robot_lift_env",
     "downloads": 0,
     "likes": 0,
@@ -51,6 +69,15 @@
     "url": "https://huggingface.co/cy0307/ropedia-ag-habitat-navigation",
     "date": "2026-06-28",
     "keyword": "navigation",
+    "score": 0.1
+  },
+  {
+    "model": "INCEPTIONwang/PolicyTrim",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/INCEPTIONwang/PolicyTrim",
+    "date": "2026-06-28",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -216,24 +243,6 @@
     "score": 9.7
   },
   {
-    "model": "qualia-robotics/pi05-openarm-cube-distractor-lang-v3-rel-june25-6a2b4c5d",
-    "downloads": 35,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/pi05-openarm-cube-distractor-lang-v3-rel-june25-6a2b4c5d",
-    "date": "2026-06-26",
-    "keyword": "robotics",
-    "score": 10.6
-  },
-  {
-    "model": "uuuhjb/robotwin_7w",
-    "downloads": 7,
-    "likes": 0,
-    "url": "https://huggingface.co/uuuhjb/robotwin_7w",
-    "date": "2026-06-26",
-    "keyword": "robot",
-    "score": 2.2
-  },
-  {
     "model": "Vladbambu/Julia",
     "downloads": 0,
     "likes": 0,
@@ -360,13 +369,13 @@
     "score": 9.7
   },
   {
-    "model": "yhc2222/tsp_policy_llama8b_step_r64_checkpoint",
-    "downloads": 16,
+    "model": "qualia-robotics/pi05-openarm-cube-distractor-lang-v3-rel-june25-6a2b4c5d",
+    "downloads": 35,
     "likes": 0,
-    "url": "https://huggingface.co/yhc2222/tsp_policy_llama8b_step_r64_checkpoint",
+    "url": "https://huggingface.co/qualia-robotics/pi05-openarm-cube-distractor-lang-v3-rel-june25-6a2b4c5d",
     "date": "2026-06-26",
-    "keyword": "policy",
-    "score": 4.9
+    "keyword": "robotics",
+    "score": 10.6
   },
   {
     "model": "linhrumata/world-models",

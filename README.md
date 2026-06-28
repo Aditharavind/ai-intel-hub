@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-28 11:29 UTC
+Last Updated: 2026-06-28 13:06 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-28 | robotneu/pi05_zs_gen_hard_lora | 0 | 0 | [link](https://huggingface.co/robotneu/pi05_zs_gen_hard_lora) |
+| 2026-06-28 | robotneu/pi05_pfc23_hard_lora | 0 | 0 | [link](https://huggingface.co/robotneu/pi05_pfc23_hard_lora) |
 | 2026-06-28 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
 | 2026-06-28 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
 | 2026-06-28 | hirosan6595/vla-260629-v1 | 0 | 0 | [link](https://huggingface.co/hirosan6595/vla-260629-v1) |
 | 2026-06-28 | cy0307/ropedia-d-world-model | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-d-world-model) |
 | 2026-06-28 | cy0307/ropedia-d-dreamerv3-world-model | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-d-dreamerv3-world-model) |
 | 2026-06-28 | cy0307/ropedia-ag-habitat-navigation | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-ag-habitat-navigation) |
+| 2026-06-28 | INCEPTIONwang/PolicyTrim | 0 | 0 | [link](https://huggingface.co/INCEPTIONwang/PolicyTrim) |
 | 2026-06-28 | ligaments-dev/autodata-policy-cs | 0 | 0 | [link](https://huggingface.co/ligaments-dev/autodata-policy-cs) |
-| 2026-06-28 | JulianRHuggingFace/cube_moving_policy | 0 | 0 | [link](https://huggingface.co/JulianRHuggingFace/cube_moving_policy) |
-| 2026-06-27 | pollen-robotics/wake-word-detector | 118 | 0 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
-| 2026-06-27 | love-death-robot/SigMA | 0 | 0 | [link](https://huggingface.co/love-death-robot/SigMA) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
-| Developer-Y/cs-video-courses | 81981 |  | 32792.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62185 | Python | 24874.1 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 81983 |  | 32793.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62212 | Python | 24884.9 | [link](https://github.com/commaai/openpilot) |
 | isaac-sim/IsaacLab | 7541 | Python | 3016.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 3920 | Python | 1568.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3811 | Rust | 1524.5 | [link](https://github.com/dora-rs/dora) |
+| knightnemo/Awesome-World-Models | 3085 |  | 1234.1 | [link](https://github.com/knightnemo/Awesome-World-Models) |
+| datawhalechina/every-embodied | 2428 | Python | 971.3 | [link](https://github.com/datawhalechina/every-embodied) |
 | StanfordVL/BEHAVIOR-1K | 1536 | Python | 614.5 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | luohongk/Embodied-AI-Daily | 348 | HTML | 139.3 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| sou350121/VLA-Handbook | 328 | HTML | 131.3 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5301 | Python | 2120.5 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -112,8 +112,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-25 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDhxMkc3MGdXb092MjZIbGVjQXFoSXp5OFZXYUR1T0xIcEtqdkdoYzQ3OC1vSnZRN0Z3M09PRXRiNnZGOXNJaUVBSWpIQ0d6YnZaR3g1bUdFN19fNU5LRUhuZEkwbGxGS1UzX2M5dTdyT3F5a3ZxMXhmUGllZXVEWXlnSGp5Q01yQ2ZUN0lYMTY5UVBBRXViZm9zbGd1bzF3TTFkeHA4RWxUZ0todWd0SmJNcmNKNTFVMVpScEVfejBPdko1?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxNMS1yZUtReWMtWV9vdFFoVzhxNXVEanNJd1FKVVZJYmdCbEo3ZkxtZjdvVHkzU1lTZkJnaTVRNWY3UmplMHZvX05WQnJublhUelNDNmI5WEZ2M2JOTDNfUktIamJzM0szVHEyTkMxQm5UQmUycTRhSDdNRkljM0x0ZEFpb2xlZC1LaHBLd1Nhd0hRWWoxVElRbEtBS0gyQmRrWTJoSWhBSHkySmZTcEpLeFpEdzdpMW1HNFNQdHBiWVVVNDV2X2xTd1NIbw?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdHlhT29SZkRnd1pDNDNLVHdMMjhEZV8wdC1wbm9HVmd5b1pndFNIUVdjT2lGYVBoVnJDY1NMX2VlUTRJTmxaSjNLTDQ2LTlRTHZ5QlFGUzdWNWhCM19GZVladlgxcWxJU0xIekp0RW92SGwtYW5YbHZzZERtejdLcHBaQVd2Tm1UM0Jhd3RSRHg4NlUxSmVQS3gtOGQya1pXdUxKTXFhYkxYdG1K?oc=5) |
-| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVJXcUtHUlZRTjNqYl9FRHRJdkFZUU5kSVF5V1NLekl1cDNyOEppY3JkLW5BNHVYZ182OVVnZ2l6R19qZ3JmOVlhR05TNDdOYWljdlJ0TklVTGxKQ2k4R2lINzY3NXMtaDZ4RXRMRWhRWnRuRldQVEh5Y2hMYktzWmx2X2RVdHdpSUFZa0l4SFphalhpaG1kM0tubjJveXV5akIwSTgwX1hwXzBQNGF4ZEpxcFpva2RUZHphWV82YVlyeHVuUlV1LUFvNEVyYkkz?oc=5) |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZFVkekpTTlg1NXNrSktPbzBuQUNMQ2VSanU3a3FXN25GaTBzTkV3OTN0cjBSaHBxSm1ScWJjRVlTSGVYbFZ3MFZWUGF6T2NDRFNfRVR3SW5vX0ZOYmtZSUg5cXBTeWZBMGJuQzNMamFrc2x4ZDFtS0dxeTgyamFabGhCaV9ERGNJWWVkMlZEdXZGSi05dWxaa2FBZzEyTFlKYkcwV0R1Z3JLdFBIZndLX21ldnlfVi1UWDdYMGVLdGNwbEdGQVM5akdQVFBYZ05j?oc=5) |
 
 ## New Companies
