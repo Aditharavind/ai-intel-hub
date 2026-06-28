@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-28 15:08 UTC
+Last Updated: 2026-06-28 16:54 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,28 +77,28 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-06-28 | YinonDouchan/smolvla_mobile_robot_lift_dummy_task | 57 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_dummy_task) |
 | 2026-06-28 | robotneu/pi05_zs_gen_hard_lora | 0 | 0 | [link](https://huggingface.co/robotneu/pi05_zs_gen_hard_lora) |
 | 2026-06-28 | robotneu/pi05_pfc23_hard_lora | 0 | 0 | [link](https://huggingface.co/robotneu/pi05_pfc23_hard_lora) |
+| 2026-06-28 | YinonDouchan/smolvla_mobile_robot_lift_dummy_task | 57 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_dummy_task) |
 | 2026-06-28 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
 | 2026-06-28 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
 | 2026-06-28 | hirosan6595/vla-260629-v1 | 0 | 0 | [link](https://huggingface.co/hirosan6595/vla-260629-v1) |
 | 2026-06-28 | cy0307/ropedia-d-world-model | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-d-world-model) |
 | 2026-06-28 | cy0307/ropedia-d-dreamerv3-world-model | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-d-dreamerv3-world-model) |
 | 2026-06-28 | cy0307/ropedia-ag-habitat-navigation | 0 | 0 | [link](https://huggingface.co/cy0307/ropedia-ag-habitat-navigation) |
-| 2026-06-28 | andrii4k/act_bayonett_policy | 53 | 0 | [link](https://huggingface.co/andrii4k/act_bayonett_policy) |
+| 2026-06-28 | simassirut/act_policy_task1 | 0 | 0 | [link](https://huggingface.co/simassirut/act_policy_task1) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
-| Developer-Y/cs-video-courses | 81984 |  | 32793.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62246 | Python | 24898.5 | [link](https://github.com/commaai/openpilot) |
-| isaac-sim/IsaacLab | 7540 | Python | 3016.1 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 3920 | Python | 1568.1 | [link](https://github.com/RLinf/RLinf) |
+| Developer-Y/cs-video-courses | 81985 |  | 32794.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62281 | Python | 24912.5 | [link](https://github.com/commaai/openpilot) |
+| isaac-sim/IsaacLab | 7541 | Python | 3016.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 3921 | Python | 1568.5 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3811 | Rust | 1524.5 | [link](https://github.com/dora-rs/dora) |
 | knightnemo/Awesome-World-Models | 3087 |  | 1234.9 | [link](https://github.com/knightnemo/Awesome-World-Models) |
-| datawhalechina/every-embodied | 2432 | Python | 972.9 | [link](https://github.com/datawhalechina/every-embodied) |
+| datawhalechina/every-embodied | 2433 | Python | 973.3 | [link](https://github.com/datawhalechina/every-embodied) |
 | StanfordVL/BEHAVIOR-1K | 1536 | Python | 614.5 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | luohongk/Embodied-AI-Daily | 348 | HTML | 139.3 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 

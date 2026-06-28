@@ -1,14 +1,5 @@
 [
   {
-    "model": "YinonDouchan/smolvla_mobile_robot_lift_dummy_task",
-    "downloads": 57,
-    "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_dummy_task",
-    "date": "2026-06-28",
-    "keyword": "robot",
-    "score": 17.2
-  },
-  {
     "model": "robotneu/pi05_zs_gen_hard_lora",
     "downloads": 0,
     "likes": 0,
@@ -25,6 +16,15 @@
     "date": "2026-06-28",
     "keyword": "robot",
     "score": 0.1
+  },
+  {
+    "model": "YinonDouchan/smolvla_mobile_robot_lift_dummy_task",
+    "downloads": 57,
+    "likes": 0,
+    "url": "https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_dummy_task",
+    "date": "2026-06-28",
+    "keyword": "robot",
+    "score": 17.2
   },
   {
     "model": "YinonDouchan/mobile_robot_lift_env",
@@ -78,6 +78,24 @@
     "url": "https://huggingface.co/cy0307/ropedia-ag-habitat-navigation",
     "date": "2026-06-28",
     "keyword": "navigation",
+    "score": 0.1
+  },
+  {
+    "model": "simassirut/act_policy_task1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/simassirut/act_policy_task1",
+    "date": "2026-06-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "tanioklyce/smolvla_so101_grab_red_cube_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tanioklyce/smolvla_so101_grab_red_cube_policy",
+    "date": "2026-06-28",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -349,24 +367,6 @@
     "date": "2026-06-26",
     "keyword": "world model",
     "score": 10.3
-  },
-  {
-    "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos0_v2_policy0",
-    "downloads": 85,
-    "likes": 0,
-    "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos0_v2_policy0",
-    "date": "2026-06-26",
-    "keyword": "policy",
-    "score": 25.6
-  },
-  {
-    "model": "tanioklyce/act_so101_grab_red_cube_2_policy",
-    "downloads": 30,
-    "likes": 0,
-    "url": "https://huggingface.co/tanioklyce/act_so101_grab_red_cube_2_policy",
-    "date": "2026-06-26",
-    "keyword": "policy",
-    "score": 9.1
   },
   {
     "model": "L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v2",
