@@ -9,6 +9,24 @@
     "score": 52.3
   },
   {
+    "model": "jialei02/lawam_robotwin_sft_release",
+    "downloads": 16,
+    "likes": 0,
+    "url": "https://huggingface.co/jialei02/lawam_robotwin_sft_release",
+    "date": "2026-06-29",
+    "keyword": "robot",
+    "score": 4.9
+  },
+  {
+    "model": "Hiwonder-robot/Cube2Plate",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Hiwonder-robot/Cube2Plate",
+    "date": "2026-06-29",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "OpenWAM/RoboTwin_DualSystem_JointSelfAttention_ActionSeesVideo",
     "downloads": 0,
     "likes": 0,
@@ -40,6 +58,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/anhtld/vla",
+    "date": "2026-06-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "aryan1219/hopfield-vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/aryan1219/hopfield-vla",
     "date": "2026-06-29",
     "keyword": "vla",
     "score": 0.1
@@ -162,6 +189,33 @@
     "score": 0.1
   },
   {
+    "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos1_v2_policy0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos1_v2_policy0",
+    "date": "2026-06-29",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "pierreprecieuse/record-test_20260629_234149-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pierreprecieuse/record-test_20260629_234149-policy",
+    "date": "2026-06-29",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Chaenn/act_policy_2cam_ws_pick_place_0625_v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Chaenn/act_policy_2cam_ws_pick_place_0625_v2",
+    "date": "2026-06-29",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "JeffrinSam/Cosmos3-Nano-G1-BrainCo-PolicySFT",
     "downloads": 15,
     "likes": 0,
@@ -169,6 +223,15 @@
     "date": "2026-06-29",
     "keyword": "policy",
     "score": 4.6
+  },
+  {
+    "model": "MakinoKF/pick-closest-lined-nut-dataset_act-policy-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MakinoKF/pick-closest-lined-nut-dataset_act-policy-v1",
+    "date": "2026-06-29",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "Wayer2/policy-test",
@@ -211,15 +274,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/AmongTheCouch23/handicate-policy",
-    "date": "2026-06-29",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos1_v2_policy0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos1_v2_policy0",
     "date": "2026-06-29",
     "keyword": "policy",
     "score": 0.1
@@ -288,15 +342,6 @@
     "score": 0.1
   },
   {
-    "model": "kamada-riku/vla_jepa_so101_pick_toy_v9_1_plate",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v9_1_plate",
-    "date": "2026-06-28",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "cy0307/d-world-model",
     "downloads": 0,
     "likes": 0,
@@ -324,33 +369,6 @@
     "score": 0.1
   },
   {
-    "model": "hk2k1/act_policy_data_09",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hk2k1/act_policy_data_09",
-    "date": "2026-06-28",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "simassirut/act_policy_task1",
-    "downloads": 39,
-    "likes": 0,
-    "url": "https://huggingface.co/simassirut/act_policy_task1",
-    "date": "2026-06-28",
-    "keyword": "policy",
-    "score": 11.8
-  },
-  {
-    "model": "tanioklyce/smolvla_so101_grab_red_cube_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tanioklyce/smolvla_so101_grab_red_cube_policy",
-    "date": "2026-06-28",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "love-death-robot/SigMA",
     "downloads": 0,
     "likes": 0,
@@ -364,24 +382,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/chandanreddy/qwen-no-robots-lora",
-    "date": "2026-06-26",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Nico-robot/test-jobs-quickstop",
-    "downloads": 31,
-    "likes": 0,
-    "url": "https://huggingface.co/Nico-robot/test-jobs-quickstop",
-    "date": "2026-06-26",
-    "keyword": "robot",
-    "score": 9.4
-  },
-  {
-    "model": "aarvis/cotrain_base_future_latent_robot_polish_ah10",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/aarvis/cotrain_base_future_latent_robot_polish_ah10",
     "date": "2026-06-26",
     "keyword": "robot",
     "score": 0.1
