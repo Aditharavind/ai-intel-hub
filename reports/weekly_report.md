@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-29 16:30 UTC
+Generated: 2026-06-29 18:55 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,8 +14,8 @@ Generated: 2026-06-29 16:30 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82092 | 32836.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62696 | 25078.5 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82098 | 32839.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62720 | 25088.1 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 29889 | 11955.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15962 | 6384.9 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15383 | 6153.3 | [link](https://github.com/ArduPilot/ardupilot) |
@@ -44,5 +44,5 @@ Generated: 2026-06-29 16:30 UTC
 | 2026-06-29 | Domestic startup specializes in physical AI usable in real world - Korea.net | physical ai startup | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE9vX2tHbmhiV3ZOb05RNG5vOWpQbk1rUWpRNG0wRm1HLUU3c2RWTUxSdzROT2FHWUI3VXQwQ19URktGQWdQVEF4YTJ3VGt2WDlKNG9Ua2d2dTRZbGVpeWFUYTNtWFNGaXlOY1FxZjJLMA?oc=5) |
 | 2026-06-29 | Mecka AI acquires Docula as it builds the data layer for robotics - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHNqMzJTMjNScG9wZF9HR21KaGdMWXZHUDlqQnUyUENCbVcwcWxfckpPM1I3UjFoTllmUG1lZkRQVVNUd0IxMk96Q0JCUFIyNVpXOEZjRFBaMGpJWGc1MUhYaTZ0Mzd6cEtQS0FjbUp3SWZER1d4Zk0yaVI1NWxWUzdEczd1QVNlbWtobzlkNA?oc=5) |
 | 2026-06-29 | Mecka AI acquires Docula to process motion data - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNmQtdmtkS1NQZGhuRUtrblVqRVZUNk51NXdnWTE2dkFlVUVWWHpZazRxbmctU3RQNHFMenBuMjNVX0lMcFNkVTdCRWR4M2Nmb0JMQ1VoM2VXVlpRRVUzdmxJdUZGZlFWWTNIRG9meFY1TXF2X2txSnVtMHlvNi1jUUpxLXNMRVFRYjNfbWxINWFRLVU?oc=5) |
+| 2026-06-29 | Half of Domestic Physical AI Startups Are in the Robotics Sector - 아시아경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94cFJPYW4tQTBMcEh3a1V0TVZ1NmJEd0x1UGtQR0JRUG5JT3MyLTI1ak9fOVVfdkJSaXRZdkdBdEpBUzVrZzhBZUVMYklwN2k1SEF6TVJYM0FqZWNKMEc4M2NIcjY?oc=5) |
 | 2026-06-29 | Korea Startup Forum Launches Physical AI Council, Uniting 11 Robotics and Autonomous Driving Companies - BigGo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE44MG5Ja1NSTm1TUk9VWDB2bDctRzNMREVYQ0tZa1dsTlY1d1puN3VkXzQ2eTVZOVBaSVAzOUhkVmp5U2R5cVlKLXpPWEVSaHY3cms5Q2hGbHRGcFFYSXR6cFRLVUtPNm9fNzVWUERTeXlMWC1ESXc?oc=5) |
-| 2026-06-29 | Half of Domestic Physical AI Startups Are in the Robotics Sector - 아시아경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMidEFVX3lxTE5WX2owRkVxUTJ5bHJqMWxUTXNucGtBNGM4S19Ed3hYRTdLS3FIOXV0WWJ4Z0t0YmNhS3JFVFdOeVRBRWRGX0RWMkoxcVJYWE9nekV5LVBCUFhIX1JDS3FZaXEtM2U1RTJybkhWT2pSUk1acHRW?oc=5) |
