@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-29 20:45 UTC
+Last Updated: 2026-06-29 22:01 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-29 | DAVIAN-Robotics/3D_HAMSTER | 0 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/3D_HAMSTER) |
 | 2026-06-29 | pollen-robotics/wake-word-detector | 174 | 0 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
 | 2026-06-29 | jialei02/lawam_robotwin_sft_release | 16 | 0 | [link](https://huggingface.co/jialei02/lawam_robotwin_sft_release) |
 | 2026-06-29 | Hiwonder-robot/Cube2Plate | 0 | 0 | [link](https://huggingface.co/Hiwonder-robot/Cube2Plate) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-29 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
 | 2026-06-29 | sam-guided-vlas/results | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/results) |
 | 2026-06-29 | Vladbambu/Julia | 0 | 0 | [link](https://huggingface.co/Vladbambu/Julia) |
-| 2026-06-29 | aryan1219/hopfield-vla | 0 | 0 | [link](https://huggingface.co/aryan1219/hopfield-vla) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,7 +94,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1372 | Rust | 548.9 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 884 | Python | 353.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 451 | Shell | 180.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 62736 | Python | 25094.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 62744 | Python | 25097.7 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 29889 | Python | 11955.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15962 | Python | 6384.9 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15383 | C++ | 6153.3 | [link](https://github.com/ArduPilot/ardupilot) |
@@ -123,16 +123,17 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-29 | Mecka AI acquires Docula as it builds the data layer for robotics - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHNqMzJTMjNScG9wZF9HR21KaGdMWXZHUDlqQnUyUENCbVcwcWxfckpPM1I3UjFoTllmUG1lZkRQVVNUd0IxMk96Q0JCUFIyNVpXOEZjRFBaMGpJWGc1MUhYaTZ0Mzd6cEtQS0FjbUp3SWZER1d4Zk0yaVI1NWxWUzdEczd1QVNlbWtobzlkNA?oc=5) |
 | 2026-06-29 | Mecka AI acquires Docula to process motion data - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNmQtdmtkS1NQZGhuRUtrblVqRVZUNk51NXdnWTE2dkFlVUVWWHpZazRxbmctU3RQNHFMenBuMjNVX0lMcFNkVTdCRWR4M2Nmb0JMQ1VoM2VXVlpRRVUzdmxJdUZGZlFWWTNIRG9meFY1TXF2X2txSnVtMHlvNi1jUUpxLXNMRVFRYjNfbWxINWFRLVU?oc=5) |
 | 2026-06-29 | Korea Startup Forum Launches Physical AI Council, Uniting 11 Robotics and Autonomous Driving Companies - BigGo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE44MG5Ja1NSTm1TUk9VWDB2bDctRzNMREVYQ0tZa1dsTlY1d1puN3VkXzQ2eTVZOVBaSVAzOUhkVmp5U2R5cVlKLXpPWEVSaHY3cms5Q2hGbHRGcFFYSXR6cFRLVUtPNm9fNzVWUERTeXlMWC1ESXc?oc=5) |
-| 2026-06-29 | Half of Domestic Physical AI Startups Are in the Robotics Sector - 아시아경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMidEFVX3lxTE5WX2owRkVxUTJ5bHJqMWxUTXNucGtBNGM4S19Ed3hYRTdLS3FIOXV0WWJ4Z0t0YmNhS3JFVFdOeVRBRWRGX0RWMkoxcVJYWE9nekV5LVBCUFhIX1JDS3FZaXEtM2U1RTJybkhWT2pSUk1acHRW?oc=5) |
 | 2026-06-29 | Zhipingfang Hits $2.8B Valuation as Brain-Like AI Era Dawns, Greater Bay Area's First Embodied AI Unicorn - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTHZxOEMtT0tUNUtZWmJFYVB1QlZnQVJRZi1YWjFKSHJZMWp2OHB1YzZycW5iWllkR210bEx2cHBMVmUwN3E3Z2ZGQjR0UFNmVzh0eFhxdkQ5eTNzOG11TVo1elE5anZHZUIwdzF0dW9YeU80THc?oc=5) |
 | 2026-06-29 | Swiss Startup Flexion Robotics Introduces 'Long-Horizon' Autonomous Humanoid Robotics Platform - AI Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNanJ3ZGxkOGFYN0pFUmE1aHN4U1hKblJUSXpEUkFscEh0Q0F2cUIySWJidzIxT3pOU0VURWFRMXFzNFpZOXVLYmRLMGNtbGtnbnhDOXFHWFJvWFgwelBhZkh5LThwdFFxd3p5TDhjWUZXaXlzS2gxbTJpSWo2Nmt1WDRYajlHeVN0LXZUNDQwOS11UDhsOUFUdW9FQnM3ZTFnUENvN0RUSXBRZ1lUWGhxTnRaUF9YcEI3UkpzUmxaT3VzNVNVX1dBUHNn?oc=5) |
 | 2026-06-28 | Chinese Student Builds Humanoid Robot for $2,100 at Age 20, Now Leads Robotics Startup in China - CPG Click Petróleo e Gás | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaTdwRmxNY3pGZmc5d0Nza25zcDRjT2R3b095UFFieWh0aG02OHh0ODRVZ3RoYkRDRF9VZE5mUUxhOEp3SV8xYVplVjFsMUxibEpRRUlXTWZHSEZvN1BHZFlYa0pqNzZRY0dGaDBNZlZEMkh0YlNaaXZfeHlqcHNKTDlmRmlCTkY2dzl1eDR4dDBhdnZQTVlMMW5YZlFNMGdDMl9YSk13anNjdkw5ZEVFRkdFbmh4dU91czFxWFZkQUVNdkJ6OFZPaE1GT1I3TWx4a0E?oc=5) |
 | 2026-06-26 | Robotics startup FieldAI has hit a $100 million milestone - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOS1IejdzVkdiZVVnaE95aWVYcXJnWS16RF9qdWlhdUtaRjh5VWo0aEJ2QVNNTmxLMGVsQU9Sd2Z1SkUwQ0JZZU02cTFiTVFHYjVvcExlUEk0WnRsOWxSYlFIVzBIMFRiUVF2cmtILXpoSXV6Tmhvd1BEWXBSR1pNS21pODBkaHNuNjliWHd5UWtaTVAxZmdsMzM2dzFaX3pTNmtNQ2tBZGxXUQ?oc=5) |
 | 2026-06-25 | How a Chinese physical AI start-up’s new paradigm bypasses US road maps - South China Morning Post | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDJSQVM4eFZjOWpJdmdKc3Q4Y0NySDYydUJINzcyc0NUSzhDMVhSVEJHQm9DNUJVMzR3bjFZTjgydWktT2pHSnNlN1Z1a0Jva0hhenk3VDBhN19UMVlNMEpwTWo5ZzhpX25DOUxUbW9WY1NnWHNRZnY3aG1SME5HOXFHeVdoZ2MtbUE5ckxxNFJ6Zl9iVlp1Wk5EZDJxQW51Zlh2UTEydlZLdngtbXN4ZHg5TFY4TDQwamZFRGVkcG8xOG8zS2xvRlk0dVPSAcwBQVVfeXFMTTVFWDE2MV9yc0l5OXlPREpTbXEzU0tkOVFvMG5IRjZCQXU3ZF9jQ1pDNy1xdkhZZW8tZkdmcVUwWFJualR0eDIzV1kxeHBlSmkwZUl5NTJfR1d2Z3hxNUNxckpDdEFweGpNMFl5SndzeHFWS0I0WWJOa2NUT25PTTFxLU5nSFhheVkxZWFwTmpUc29iTVdXRzBOaUtnVGo5WVU1YWpvRWNobXdYVkRLNWtEZ25DV0UzMVd0SFB2dkNLVDBEc1JRWHdVVGlX?oc=5) |
+| 2026-06-25 | World Models vs VLAs: The Rift Dividing Physical AI - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUhwcEJfU1dWVzBtdkdtUEIxS3RrMmstMndTSW1Qc0FTek1wc3ZKQU9KN0k1azlVNWRPQ090a3dES1huWDZFN1RtODJhS0EtWE5ZUHVHbnl3NVpMRFRtYWV6R1VhZmtzdjZxUUg2UjhZX3pLenB4UlpHZ2dMcHE0WHBOdDdYd3RwdGN6NHYtV1lIeFNJMElFY3ZVNmlmVVB2?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-29 | Mechanical Design Drafter | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5833366004) |
 | 2026-06-29 | Senior Electrical Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6103178004) |
 | 2026-06-29 | Staff Supplier Quality Engineer  | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6101011004) |
 | 2026-06-26 | Deployment Logistics Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4666290006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-26 | Manager, Direct Procurement | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6101778004) |
 | 2026-06-26 | Senior Mechanical Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6008696004) |
 | 2026-06-25 | Associate General Counsel, Hardware and Data | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4661633006) |
-| 2026-06-25 | Helix AI Engineer, Robot Learning | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4649851006) |
 
 ## Automation
 
