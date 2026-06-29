@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-29 18:55 UTC
+Last Updated: 2026-06-29 20:45 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-29 | Piano Escapement Migrates to Drum Kit | Hackaday | [link](https://hackaday.com/2026/06/29/piano-escapement-migrates-to-drum-kit/) |
 | 2026-06-29 | 2026 Frikkin Lasers Challenge: Super-Simple Laser Precision for Your Stargazing | Hackaday | [link](https://hackaday.com/2026/06/29/2026-frikkin-lasers-challenge-super-simple-laser-precision-for-your-stargazing/) |
 | 2026-06-29 | Hackaday Europe 2026 – Building A Retro PC From Scratch | Hackaday | [link](https://hackaday.com/2026/06/29/hackaday-europe-2026-building-a-retro-pc-from-scratch/) |
 | 2026-06-29 | Mechanical TV, Without The Benefit Of New Parts | Hackaday | [link](https://hackaday.com/2026/06/29/mechanical-tv-without-the-benefit-of-new-parts/) |
 | 2026-06-29 | The Teenage Angst of 3D Printing: Solidoodle, Printrbot, and Bridges | Hackaday | [link](https://hackaday.com/2026/06/29/the-teenage-angst-of-3d-printing-solidoodle-printrbot-and-bridges/) |
 | 2026-06-29 | HamsterOS Crams Complete Graphical Desktop onto 1.44 MB Floppy | Hackaday | [link](https://hackaday.com/2026/06/29/hamsteros-crams-complete-graphical-desktop-onto-1-44-mb-floppy/) |
 | 2026-06-29 | It’s Linux, on a Sega Megadrive | Hackaday | [link](https://hackaday.com/2026/06/29/its-linux-on-a-sega-megadrive/) |
-| 2026-06-29 | Custom Hybrid Drivetrain Powers Boat | Hackaday | [link](https://hackaday.com/2026/06/28/custom-hybrid-drivetrain-powers-boat/) |
 | 2026-06-29 | Waveshare ESP32-C6-Zero-B  – A tiny ESP32-C6 USB-C board with 5V-36V wide supply voltage | CNX Software | [link](https://www.cnx-software.com/2026/06/29/waveshare-esp32-c6-zero-b-a-tiny-esp32-c6-usb-c-board-with-5v-36v-wide-supply-voltage/) |
 | 2026-06-29 | Simplia CONNECT RW612 6-in-1 M.2 2230 module offers WiFi 6, Bluetooth 5.4, 802.15.4, LTE-M, NB-IoT, and GNSS connectivity | CNX Software | [link](https://www.cnx-software.com/2026/06/29/simplia-connect-rw612-6-in-1-m-2-2230-module-offers-wifi-6-bluetooth-5-4-802-15-4-lte-m-nb-iot-and-gnss-connectivity/) |
 | 2026-06-29 | DEBIX T62P-01 Raspberry Pi-like industrial SBC features TI AM62P SoC, dual GbE with TSN, multi-domain UART | CNX Software | [link](https://www.cnx-software.com/2026/06/29/debix-t62p-01-raspberry-pi-like-industrial-sbc-features-ti-am62p-soc-dual-gbe-with-tsn-multi-domain-uart/) |
@@ -94,13 +94,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1372 | Rust | 548.9 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 884 | Python | 353.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 451 | Shell | 180.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 62720 | Python | 25088.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 62736 | Python | 25094.5 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29889 | Python | 11955.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15962 | Python | 6384.9 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15383 | C++ | 6153.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14021 | C++ | 5608.5 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14022 | C++ | 5608.9 | [link](https://github.com/google-deepmind/mujoco) |
+| kornia/kornia | 11253 | Python | 4501.3 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11018 | Rust | 4407.3 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7557 | Python | 3022.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| earthtojake/text-to-cad | 7231 | JavaScript | 2892.5 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -122,8 +122,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-29 | Domestic startup specializes in physical AI usable in real world - Korea.net | physical ai startup | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE9vX2tHbmhiV3ZOb05RNG5vOWpQbk1rUWpRNG0wRm1HLUU3c2RWTUxSdzROT2FHWUI3VXQwQ19URktGQWdQVEF4YTJ3VGt2WDlKNG9Ua2d2dTRZbGVpeWFUYTNtWFNGaXlOY1FxZjJLMA?oc=5) |
 | 2026-06-29 | Mecka AI acquires Docula as it builds the data layer for robotics - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHNqMzJTMjNScG9wZF9HR21KaGdMWXZHUDlqQnUyUENCbVcwcWxfckpPM1I3UjFoTllmUG1lZkRQVVNUd0IxMk96Q0JCUFIyNVpXOEZjRFBaMGpJWGc1MUhYaTZ0Mzd6cEtQS0FjbUp3SWZER1d4Zk0yaVI1NWxWUzdEczd1QVNlbWtobzlkNA?oc=5) |
 | 2026-06-29 | Mecka AI acquires Docula to process motion data - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNmQtdmtkS1NQZGhuRUtrblVqRVZUNk51NXdnWTE2dkFlVUVWWHpZazRxbmctU3RQNHFMenBuMjNVX0lMcFNkVTdCRWR4M2Nmb0JMQ1VoM2VXVlpRRVUzdmxJdUZGZlFWWTNIRG9meFY1TXF2X2txSnVtMHlvNi1jUUpxLXNMRVFRYjNfbWxINWFRLVU?oc=5) |
-| 2026-06-29 | Half of Domestic Physical AI Startups Are in the Robotics Sector - 아시아경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94cFJPYW4tQTBMcEh3a1V0TVZ1NmJEd0x1UGtQR0JRUG5JT3MyLTI1ak9fOVVfdkJSaXRZdkdBdEpBUzVrZzhBZUVMYklwN2k1SEF6TVJYM0FqZWNKMEc4M2NIcjY?oc=5) |
 | 2026-06-29 | Korea Startup Forum Launches Physical AI Council, Uniting 11 Robotics and Autonomous Driving Companies - BigGo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE44MG5Ja1NSTm1TUk9VWDB2bDctRzNMREVYQ0tZa1dsTlY1d1puN3VkXzQ2eTVZOVBaSVAzOUhkVmp5U2R5cVlKLXpPWEVSaHY3cms5Q2hGbHRGcFFYSXR6cFRLVUtPNm9fNzVWUERTeXlMWC1ESXc?oc=5) |
+| 2026-06-29 | Half of Domestic Physical AI Startups Are in the Robotics Sector - 아시아경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMidEFVX3lxTE5WX2owRkVxUTJ5bHJqMWxUTXNucGtBNGM4S19Ed3hYRTdLS3FIOXV0WWJ4Z0t0YmNhS3JFVFdOeVRBRWRGX0RWMkoxcVJYWE9nekV5LVBCUFhIX1JDS3FZaXEtM2U1RTJybkhWT2pSUk1acHRW?oc=5) |
 | 2026-06-29 | Zhipingfang Hits $2.8B Valuation as Brain-Like AI Era Dawns, Greater Bay Area's First Embodied AI Unicorn - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTHZxOEMtT0tUNUtZWmJFYVB1QlZnQVJRZi1YWjFKSHJZMWp2OHB1YzZycW5iWllkR210bEx2cHBMVmUwN3E3Z2ZGQjR0UFNmVzh0eFhxdkQ5eTNzOG11TVo1elE5anZHZUIwdzF0dW9YeU80THc?oc=5) |
 | 2026-06-29 | Swiss Startup Flexion Robotics Introduces 'Long-Horizon' Autonomous Humanoid Robotics Platform - AI Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNanJ3ZGxkOGFYN0pFUmE1aHN4U1hKblJUSXpEUkFscEh0Q0F2cUIySWJidzIxT3pOU0VURWFRMXFzNFpZOXVLYmRLMGNtbGtnbnhDOXFHWFJvWFgwelBhZkh5LThwdFFxd3p5TDhjWUZXaXlzS2gxbTJpSWo2Nmt1WDRYajlHeVN0LXZUNDQwOS11UDhsOUFUdW9FQnM3ZTFnUENvN0RUSXBRZ1lUWGhxTnRaUF9YcEI3UkpzUmxaT3VzNVNVX1dBUHNn?oc=5) |
 | 2026-06-28 | Chinese Student Builds Humanoid Robot for $2,100 at Age 20, Now Leads Robotics Startup in China - CPG Click Petróleo e Gás | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaTdwRmxNY3pGZmc5d0Nza25zcDRjT2R3b095UFFieWh0aG02OHh0ODRVZ3RoYkRDRF9VZE5mUUxhOEp3SV8xYVplVjFsMUxibEpRRUlXTWZHSEZvN1BHZFlYa0pqNzZRY0dGaDBNZlZEMkh0YlNaaXZfeHlqcHNKTDlmRmlCTkY2dzl1eDR4dDBhdnZQTVlMMW5YZlFNMGdDMl9YSk13anNjdkw5ZEVFRkdFbmh4dU91czFxWFZkQUVNdkJ6OFZPaE1GT1I3TWx4a0E?oc=5) |
@@ -134,6 +134,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-06-29 | Senior Electrical Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6103178004) |
+| 2026-06-29 | Staff Supplier Quality Engineer  | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6101011004) |
 | 2026-06-26 | Deployment Logistics Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4666290006) |
 | 2026-06-26 | Software Engineer, Manufacturing Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4692559006) |
 | 2026-06-26 | Sr/Staff Graphics Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4692556006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-26 | Senior Mechanical Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6008696004) |
 | 2026-06-25 | Associate General Counsel, Hardware and Data | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4661633006) |
 | 2026-06-25 | Helix AI Engineer, Robot Learning | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4649851006) |
-| 2026-06-25 | Buyer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6101794004) |
 
 ## Automation
 
