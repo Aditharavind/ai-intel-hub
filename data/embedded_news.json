@@ -1,5 +1,12 @@
 [
   {
+    "title": "Custom Hybrid Drivetrain Powers Boat",
+    "source": "Hackaday",
+    "date": "2026-06-29",
+    "url": "https://hackaday.com/2026/06/28/custom-hybrid-drivetrain-powers-boat/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/hybrid-boat-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Offloading acceleration and braking to an electric motor in a hybrid configuration allows the less efficient combustion engine run in a more narrow set of RPM and torque ranges. In <a class=\"read-more\" href=\"https://hackaday.com/2026/06/28/custom-hybrid-drivetrain-powers-boat/\">&#8230;read more</a>"
+  },
+  {
     "title": "Phone Stand Aims To Fight Addiction",
     "source": "Hackaday",
     "date": "2026-06-29",
@@ -7,11 +14,67 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/FCWDVQ2MQPMBKAG_14dc01.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Sometimes, it&#8217;s hard to stop picking up your phone every few minutes to check on notifications and scroll endlessly through the slop of the day. [PushpendraC2] has been working on <a class=\"read-more\" href=\"https://hackaday.com/2026/06/28/scrap-printer-motor-becomes-generator/\">&#8230;read more</a>"
   },
   {
+    "title": "Simplia CONNECT RW612 6-in-1 M.2 2230 module offers WiFi 6, Bluetooth 5.4, 802.15.4, LTE-M, NB-IoT, and GNSS connectivity",
+    "source": "CNX Software",
+    "date": "2026-06-29",
+    "url": "https://www.cnx-software.com/2026/06/29/simplia-connect-rw612-6-in-1-m-2-2230-module-offers-wifi-6-bluetooth-5-4-802-15-4-lte-m-nb-iot-and-gnss-connectivity/",
+    "summary": "<div><img alt=\"Simplia CONNECT RW612 6-in-1 M.2 wireless module\" class=\"attachment-medium size-medium wp-post-image\" height=\"583\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Simplia-CONNECT-RW612-6-in-1-m2-wireless-module-720x583.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Simplia CONNECT RW612 is a 6-in-1 M.2 2230 wireless module that offers dual-band WiFi 6, Bluetooth 5.4 LE, an 802.15.4 radio for Zigbee or Thread, LTE Cat-M, NB-IoT, and GNSS connectivity. It&#8217;s the first module I&#8217;ve seen that implements so many wireless standards into a tiny M.2 2230 module. It&#8217;s made possible by combining an NXP RW612 WiFi, BLE, and 802.15.4 module with an optional Quectel BC77 LTE-M, NB-IoT, and GNSS module. Simplia CONNECT RW612 specifications: Wireless modules Murata Type 2FR (LBESOZZ2FR) SoC – NXP RW612 CPU &#8211; Arm Cortex-M33 @ 260 MHz Memory &#8211; 1.2 MB SRAM Wireless Dual-band Wi-Fi 6 (802.11ax) 1&#215;1 SISO Bluetooth LE 5.4 802.15.4 radio for Thread and Zigbee Storage &#8211; 16MB or 32MB integrated flash memory via FlexSPI Security &#8211; NXP EdgeLock Package &#8211; 12.0 x 11.0 x 1.5 mm (BGA) Optional Quectel BG77 (BG77LA, similar to the BG770A minus 5G NTN support) LTE [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/29/simplia-connect-rw612-6-in-1-m-2-2230-module-offers-wifi-6-bluetooth-5-4-802-15-4-lte-m-nb-iot-and-gnss-connectivity/\">Simplia CONNECT RW612 6-in-1 M.2 2230 module offers WiFi 6, Bluetooth 5.4, 802.15.4, LTE-M, NB-IoT, and GNSS connectivity</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "DEBIX T62P-01 Raspberry Pi-like industrial SBC features TI AM62P SoC, dual GbE with TSN, multi-domain UART",
+    "source": "CNX Software",
+    "date": "2026-06-29",
+    "url": "https://www.cnx-software.com/2026/06/29/debix-t62p-01-raspberry-pi-like-industrial-sbc-features-ti-am62p-soc-dual-gbe-with-tsn-multi-domain-uart/",
+    "summary": "<div><img alt=\"DEBIX T62P-01 Texas Instruments AM62P SBC\" class=\"attachment-medium size-medium wp-post-image\" height=\"538\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/DEBIX-T62P-01-Texas-Instruments-AM62P-SBC-720x538.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Polyhex Technology has introduced the DEBIX T62P-01, a compact industrial SBC built around Texas Instruments Sitara AM62P quad Cortex-A53/dual Cortex-R5F SoC designed for industrial IoT (IIoT), robotics, Edge computing, and smart terminal/HMI applications. Measuring 88 × 59 mm, the board supports up to 8GB of LPDDR4 memory, optional eMMC storage up to 256GB, and a MicroSD card slot. It also features two GbE ports, including one supporting PoE via an external PD module, as well as Wi-Fi 6 and Bluetooth 5.4 connectivity. Security features include hardware secure boot with Root-of-Trust (RoT), an Arm TrustZone-based Trusted Execution Environment (TEE), and a Hardware Security Module (HSM) for cryptographic operations. DEBIX T62P-01 specifications: SoC – Texas Instruments AM62P (AM62P54CVMHIAMHR) Application CPU – Quad-core Arm Cortex-A53 up to 1.4 GHz Real-time cores 1x Arm Cortex-R5F up to 800MHz (integrated with MCU channel) 1x Arm Cortex-R5F up to 800MHz (for device management) GPU – Imagination [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/29/debix-t62p-01-raspberry-pi-like-industrial-sbc-features-ti-am62p-soc-dual-gbe-with-tsn-multi-domain-uart/\">DEBIX T62P-01 Raspberry Pi-like industrial SBC features TI AM62P SoC, dual GbE with TSN, multi-domain UART</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "DESLOC V150 Plus smart lock integrates a perovskite solar panel, supports 3D face recognition (Crowdfunding)",
     "source": "CNX Software",
     "date": "2026-06-29",
     "url": "https://www.cnx-software.com/2026/06/29/desloc-v150-plus-smart-lock-integrates-a-solar-panel-supports-3d-face-recognition/",
     "summary": "<div><img alt=\"DESLOC V150 Plus Low Light Self Charging Solar Smart Lock\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/DESLOC-V150-Plus-Low-Light-Self-Charging-Solar-Smart-Lock-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>DESLOC V150 Plus is a smart lock with an integrated perovskite solar panel, which can generate power under low-light conditions, eliminating or at least reducing the need for manual battery charging. The V150 Plus is a two-part system consisting of exterior and interior units connected via wires through the door. The exterior unit includes the perovskite solar panel, two cameras with a 3D facial recognition system, and an AI-assisted fingerprint sensor, while the interior unit houses a 10,000mAh removable battery, a Battery Management System (BMS), and a lock motor. The BMS manages battery charging and power distribution. The rechargeable battery is rated to provide up to 8 months of backup operation when solar charging is unavailable, which is a little longer than the Lockzo AL501 3-in-1 smart door lock we reviewed earlier. DESLOC V150 Plus specifications: SoC – TBD (most probably a chip from Nordic or Espressif) Connectivity &#8211; Wi-Fi and Bluetooth Access [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/29/desloc-v150-plus-smart-lock-integrates-a-solar-panel-supports-3d-face-recognition/\">DESLOC V150 Plus smart lock integrates a perovskite solar panel, supports 3D face recognition (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Korea plans to double memory output in five years",
+    "source": "Electronics Weekly",
+    "date": "2026-06-29",
+    "url": "https://www.electronicsweekly.com/news/business/korea-plans-to-double-memory-output-in-five-years-2026-06/",
+    "summary": "<p>South Korea&#8217;s Ministry of Trade, Industry and Energy has announced a public-private partnership initiative to invest $520 billion to construct memory fabs in the country’s southwestern region, reports Bloomberg. In ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/korea-plans-to-double-memory-output-in-five-years-2026-06/\">Korea plans to double memory output in five years</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Apple asks US government for permission to buy CXMT DRAM",
+    "source": "Electronics Weekly",
+    "date": "2026-06-29",
+    "url": "https://www.electronicsweekly.com/news/business/apple-asks-us-government-for-permission-to-buy-cxmt-dram-2026-06/",
+    "summary": "<p>Apple is asking the US government for permission to buy DRAM from ChangXin Memory Technologies (CXMT) of China which is on a Pentagon blacklist, reports the FT. Apple asked the ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/apple-asks-us-government-for-permission-to-buy-cxmt-dram-2026-06/\">Apple asks US government for permission to buy CXMT DRAM</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "WiFi6/BLE module supports multiple protocols",
+    "source": "Electronics Weekly",
+    "date": "2026-06-29",
+    "url": "https://www.electronicsweekly.com/news/business/wifi6-ble-module-supports-multiple-protocols-2026-06/",
+    "summary": "<p>Quectel Wireless of Belgrade has  launched a dual band Wi-Fi 6 and Bluetooth Low Energy (BLE) 5.4 module that is based on the NXP RW612 wireless MCU and supports multiple ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/wifi6-ble-module-supports-multiple-protocols-2026-06/\">WiFi6/BLE module supports multiple protocols</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Hall current sensor with a sigma-delta digital output",
+    "source": "Electronics Weekly",
+    "date": "2026-06-29",
+    "url": "https://www.electronicsweekly.com/news/business/hall-current-sensor-with-a-sigma-delta-digital-output-2026-06/",
+    "summary": "<p>Melexis is shipping a conventional-Hall current sensor featuring a sigma-delta digital output to improve signal integrity in electrically noisy environments. Supporting current sensing from 200 A to 2000 A, the ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/hall-current-sensor-with-a-sigma-delta-digital-output-2026-06/\">Hall current sensor with a sigma-delta digital output</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Infineon sampling AIROC UWB",
+    "source": "Electronics Weekly",
+    "date": "2026-06-29",
+    "url": "https://www.electronicsweekly.com/news/business/infineon-sampling-airoc-uwb-2026-06/",
+    "summary": "<p>Infineon is sampling its AIROC UWB TSL100, the company’s first-generation UWB product family. A sampling kit is available on request. As part of Infineon’s AIROC portfolio, the TSL100 features a ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-sampling-airoc-uwb-2026-06/\">Infineon sampling AIROC UWB</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Click board compares photo relays",
+    "source": "Electronics Weekly",
+    "date": "2026-06-29",
+    "url": "https://www.electronicsweekly.com/news/business/click-board-compares-photo-relays-2026-06/",
+    "summary": "<p>The MIKROE Opto 8 Click Board is a relay Click Board that enables engineers to conveniently place the two similar photorelays side-by-side, allowing them to directly compare in either direction, ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/click-board-compares-photo-relays-2026-06/\">Click board compares photo relays</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Ed Latches Onto The New Guy",
@@ -54,13 +117,6 @@
     "date": "2026-06-28",
     "url": "https://hackaday.com/2026/06/28/hack-improves-cheap-speed-controllers/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/Traktrike_6f56a0.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Tony Goacher] has worked with a lot of cheap brushless DC motor controllers built in China. They can be very cost-effective, but sometimes limited in performance or capability, particularly when <a class=\"read-more\" href=\"https://hackaday.com/2026/06/28/hack-improves-cheap-speed-controllers/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Make Your Own Loudspeaker From Scratch",
-    "source": "Hackaday",
-    "date": "2026-06-28",
-    "url": "https://hackaday.com/2026/06/28/make-your-own-loudspeaker-from-scratch/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/home-made-speaker-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>A loudspeaker is a vital component of every device that plays sound, but while its operation is simple, it&#8217;s a surprisingly difficult device to build. [Rvanderouderaa] has made an Instructables <a class=\"read-more\" href=\"https://hackaday.com/2026/06/28/make-your-own-loudspeaker-from-scratch/\">&#8230;read more</a>"
   },
   {
     "title": "Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range",
@@ -189,48 +245,6 @@
     "summary": "<p>There's a Viewpoint post on power electronics in EVs, the demise of the once-mighty Japanese car industry, and funding for a satellite re-entry system...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-ev-advantages-circling-wagons-satellite-re-entry-2026-06/\">What caught your eye? EV advantages, Circling wagons, Satellite re-entry</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Europe’s Three Decades Of Uncompetitiveness",
-    "source": "Electronics Weekly",
-    "date": "2026-06-26",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/europes-lack-of-competitiveness-2026-06/",
-    "summary": "<p>Europe’s lack of industrial competitiveness is a major problem. It has been a major problem for many years. At the 1994, European Microelectronics Forum in Munich organised by Future Horizons, ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/europes-lack-of-competitiveness-2026-06/\">Europe’s Three Decades Of Uncompetitiveness</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "TDK HAL 13xy dual-output 3D Hall-effect switches for automotive",
-    "source": "Electronics Weekly",
-    "date": "2026-06-26",
-    "url": "https://www.electronicsweekly.com/news/products/sensors-products/tdk-hal-13xy-dual-output-3d-hall-effect-switches-for-automotive-2026-06/",
-    "summary": "<p>TDK is launching a HAL 13xy dual-output 3D Hall-effect switch family, aimed at automotive applications requiring precise motor speed and direction sensing. Example uses cited by the company include seat-track ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/sensors-products/tdk-hal-13xy-dual-output-3d-hall-effect-switches-for-automotive-2026-06/\">TDK HAL 13xy dual-output 3D Hall-effect switches for automotive</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "DigiKey releases sequel in Sustainable Futures video series",
-    "source": "Electronics Weekly",
-    "date": "2026-06-26",
-    "url": "https://www.electronicsweekly.com/news/business/distribution/digikey-releases-sequel-in-sustainable-futures-video-series-2026-06/",
-    "summary": "<p>DigiKey is launching Series 2 of its video sequence on Sustainable Futures. It examines how advanced electronics are enabling cleaner energy, smarter systems and more sustainable design. For example, topics ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/distribution/digikey-releases-sequel-in-sustainable-futures-video-series-2026-06/\">DigiKey releases sequel in Sustainable Futures video series</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Most Read – Ferroelectric memory, AI chip design, ASML accusation",
-    "source": "Electronics Weekly",
-    "date": "2026-06-26",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-ferroelectric-memory-ai-chip-design-asml-accusation-2026-06/",
-    "summary": "<p>The most read stories on the site cover the size of the metrology and inspection equipment market, Architect Labs funding a custom AI chip design, and ferroelectric memory research.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-ferroelectric-memory-ai-chip-design-asml-accusation-2026-06/\">Most Read &#8211; Ferroelectric memory, AI chip design, ASML accusation</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Onsemi buys Synaptics",
-    "source": "Electronics Weekly",
-    "date": "2026-06-26",
-    "url": "https://www.electronicsweekly.com/news/business/onsemi-buys-synaptics-2026-06/",
-    "summary": "<p>Onsemi is to buy Synaptics in an all-stock deal valued at about $6.2 billion. Synaptics was founded in 1986 by two legendary pioneers of the semiconductor industry &#8211; Federico Faggin ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/onsemi-buys-synaptics-2026-06/\">Onsemi buys Synaptics</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Agility to go public",
-    "source": "Electronics Weekly",
-    "date": "2026-06-26",
-    "url": "https://www.electronicsweekly.com/news/business/898812-2026-06/",
-    "summary": "<p>Agility Robotics is to be the first humanoid robot developer to go public, reports the Wall Street Journal. The company will go public via a SPAC called Churchill Capital XI. ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/898812-2026-06/\">Agility to go public</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "MUNNY Glowing Friend with Bluetooth Control!",
     "source": "Adafruit",
     "date": "2026-06-26",
@@ -294,13 +308,6 @@
     "summary": "<div><img alt=\"NXP RW612 WiFi 6 BLE 5.4 802.15.4 Quectel IoT module\" class=\"attachment-medium size-medium wp-post-image\" height=\"500\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/NXP-RW612-WiFi-6-BLE-5.4-802.15.4-Quectel-IoT-module-720x500.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Quectel FCM365X is a short-range IoT module based on NXP RW612 wireless MCU with support for dual-band Wi-Fi 6, Bluetooth Low Energy (BLE) 5.4, and 802.15.4 (Zigbee and Thread) connectivity. The compact 25.5 x 18.0mm RW612 module features 8MB flash and optional PSRAM, and operates in the -40 °C to +85 °C temperature range for demanding Smart Home and industrial IoT (IIoT) applications. The FCM365X module exposes GPIO, SDIO, UART, USB, JTAG, I2C, I2S, ADC, LCD, and PWM interfaces through its LCC+LGA package. Quectel FCM365X specifications: SoC &#8211; NXP RW612 CPU Core &#8211; Arm Cortex-M33 core @ 260 MHz with Arm TrustZone-M Memory &#8211; On-chip 1.2 MB SRAM Wireless Dual-band Wi-Fi 6 Target wake time (TWT) support Integrated Wi-Fi PA/LNA, and T/R switch Tx power &#8211; Up to 19 dBm ±2 dB Rx sensitivity &#8211; Down to -96 dBm ±2 dB AP/STA modes Security &#8211; WPA-PSK/ WPA2-PSK/ WPA3-SAE/ AES-128 Bluetooth 5.4 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/25/quectel-fcm365x-dual-band-wifi-6-ble-5-4-802-15-4-iot-module-nxp-rw612-psram/\">Quectel FCM365X dual-band WiFi 6, BLE 5.4, 802.15.4 IoT module features NXP RW612 MCU, optional PSRAM</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support",
-    "source": "CNX Software",
-    "date": "2026-06-25",
-    "url": "https://www.cnx-software.com/2026/06/25/openc6-bios-project-brings-pc-like-firmware-to-esp32-c6-mcu-with-network-boot-and-ota-support/",
-    "summary": "<div><img alt=\"OpenC6 BIOS for ESP32 C6\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/OpenC6-BIOS-for-ESP32-C6-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>OpenC6 BIOS is an open-source project by Rompass that takes a different approach to MCU development. It adds a BIOS-like system to the ESP32-C6, so the system part and application code can run separately rather than being combined into a single firmware image. In traditional development, hardware setup, networking, and application code are combined into a single firmware image. But the OpenC6 BIOS operates differently: it runs as the base system on the ESP32-C6 and handles hardware initialization and system functions. Instead of flashing a full application each time, it can load small payload programs separately. These payloads can run from RAM or flash (XIP) and use system functions through a simple Application Binary Interface (ABI), without needing the full firmware. In some ways, it operates like AkiraOS, but with a BIOS-like interface. Key features of the OpenC6 BIOS architecture: Dynamic CPU scaling – Adjusts CPU frequency based on load [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/25/openc6-bios-project-brings-pc-like-firmware-to-esp32-c6-mcu-with-network-boot-and-ota-support/\">OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
     "title": "ST Unveils Secure Mobile Chip with PQC",
     "source": "Embedded.com",
     "date": "2026-06-25",
@@ -355,13 +362,6 @@
     "date": "2026-06-25",
     "url": "https://www.eejournal.com/article/space-isnt-what-it-used-to-be-the-final-frontier-has-gone-commercial/",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/06/max-0495-image-for-home-page-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I was just chatting with Tim Morin, who is Senior Director of Marketing and Applications at Microchip Technology. Unlike many of my conversations with technology companies, Tim didn’t have a particular axe to grind. Instead, he took the time to bring me up to date with Microchip’s space strategy. As an aside, Tim has been &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/space-isnt-what-it-used-to-be-the-final-frontier-has-gone-commercial/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Space Isn&#8217;t What It Used to Be: The Final Frontier Has Gone Commercial\"</span></a>"
-  },
-  {
-    "title": "NeoEyes NE503 – A $1199 Edge AI Camera based on Hailo-15H 20 TOPS SoC",
-    "source": "CNX Software",
-    "date": "2026-06-24",
-    "url": "https://www.cnx-software.com/2026/06/25/neoeyes-ne503-a-1199-edge-ai-camera-based-on-hailo-15h-20-tops-soc/",
-    "summary": "<div><img alt=\"Hailo-15L 4K AI camera\" class=\"attachment-medium size-medium wp-post-image\" height=\"427\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Hailo-15L-4K-AI-camera-720x427.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Camthink NeoEyes NE503 is a 4K Edge AI camera platform powered by the Hailo-15H quad-core Cortex-A53 SoC with a 20 TOPS AI accelerator, and paired with 8GB of LPDDR4 memory and a 64GB eMMC flash. The camera also features a Sony IMX678 4K sensor and an 8–32mm F1.6 AF auto-zoom lens for high-quality monitoring, low-light imaging, and long-range recognition. The camera directly handles high-resolution video input, local multi-model inference, containerized applications, and event-driven workflows on the device, without relying on the cloud or a local server. NeoEyes NE503 specifications: SoC &#8211; Hailo-15H CPU &#8211; Quad-core Arm Cortex-A53 @  1.3 GHz VPU &#8211; H.265/H.264 encoding ISP &#8211; Supports up to 12 MP resolution, 600 Mpixel/s pixel rate, HDR, and noise reduction AI performance &#8211; Up to 20 TOPS; &#60; 50 ms target inference latency System Memory &#8211; 8GB LPDDR4 @ 4266 MT/s; 8.5 GB/s single-channel bandwidth Storage 64 GB eMMC flash 8 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/25/neoeyes-ne503-a-1199-edge-ai-camera-based-on-hailo-15h-20-tops-soc/\">NeoEyes NE503 &#8211; A $1199 Edge AI Camera based on Hailo-15H 20 TOPS SoC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Eggtronic, Renesas Unveil GaN-Based Microinverter Reference Design",

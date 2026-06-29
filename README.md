@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-29 02:35 UTC
+Last Updated: 2026-06-29 07:18 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-29 | Custom Hybrid Drivetrain Powers Boat | Hackaday | [link](https://hackaday.com/2026/06/28/custom-hybrid-drivetrain-powers-boat/) |
 | 2026-06-29 | Phone Stand Aims To Fight Addiction | Hackaday | [link](https://hackaday.com/2026/06/28/scrap-printer-motor-becomes-generator/) |
+| 2026-06-29 | Simplia CONNECT RW612 6-in-1 M.2 2230 module offers WiFi 6, Bluetooth 5.4, 802.15.4, LTE-M, NB-IoT, and GNSS connectivity | CNX Software | [link](https://www.cnx-software.com/2026/06/29/simplia-connect-rw612-6-in-1-m-2-2230-module-offers-wifi-6-bluetooth-5-4-802-15-4-lte-m-nb-iot-and-gnss-connectivity/) |
+| 2026-06-29 | DEBIX T62P-01 Raspberry Pi-like industrial SBC features TI AM62P SoC, dual GbE with TSN, multi-domain UART | CNX Software | [link](https://www.cnx-software.com/2026/06/29/debix-t62p-01-raspberry-pi-like-industrial-sbc-features-ti-am62p-soc-dual-gbe-with-tsn-multi-domain-uart/) |
 | 2026-06-29 | DESLOC V150 Plus smart lock integrates a perovskite solar panel, supports 3D face recognition (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/06/29/desloc-v150-plus-smart-lock-integrates-a-solar-panel-supports-3d-face-recognition/) |
-| 2026-06-29 | Ed Latches Onto The New Guy | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-latches-onto-the-new-guy-2026-06/) |
-| 2026-06-28 | Reachy Mini Desktop Robot Gets All-local, Conversational AI | Hackaday | [link](https://hackaday.com/2026/06/28/reachy-mini-desktop-robot-gets-all-local-conversational-ai/) |
-| 2026-06-28 | RF Hacking A Ceiling Fan Via The Remote | Hackaday | [link](https://hackaday.com/2026/06/28/rf-hacking-a-ceiling-fan-via-the-remote/) |
-| 2026-06-28 | Teaching An AI To Play A Racing Game Via Screen Input | Hackaday | [link](https://hackaday.com/2026/06/28/teaching-an-ai-to-play-a-racing-game-via-screen-input/) |
-| 2026-06-28 | Accurate Split-Flap Display Can be 3D Printed | Hackaday | [link](https://hackaday.com/2026/06/28/accurate-split-flap-display-can-be-3d-printed/) |
-| 2026-06-28 | Hack Improves Cheap Speed Controllers | Hackaday | [link](https://hackaday.com/2026/06/28/hack-improves-cheap-speed-controllers/) |
-| 2026-06-28 | Make Your Own Loudspeaker From Scratch | Hackaday | [link](https://hackaday.com/2026/06/28/make-your-own-loudspeaker-from-scratch/) |
-| 2026-06-28 | Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range | CNX Software | [link](https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/) |
+| 2026-06-29 | Korea plans to double memory output in five years | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/korea-plans-to-double-memory-output-in-five-years-2026-06/) |
+| 2026-06-29 | Apple asks US government for permission to buy CXMT DRAM | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/apple-asks-us-government-for-permission-to-buy-cxmt-dram-2026-06/) |
+| 2026-06-29 | WiFi6/BLE module supports multiple protocols | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/wifi6-ble-module-supports-multiple-protocols-2026-06/) |
+| 2026-06-29 | Hall current sensor with a sigma-delta digital output | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/hall-current-sensor-with-a-sigma-delta-digital-output-2026-06/) |
+| 2026-06-29 | Infineon sampling AIROC UWB | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/infineon-sampling-airoc-uwb-2026-06/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -79,33 +79,34 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-06-29 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
 | 2026-06-29 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
+| 2026-06-29 | songlianye/PAC-VLA | 0 | 0 | [link](https://huggingface.co/songlianye/PAC-VLA) |
+| 2026-06-29 | siyuhsu/vla_arena_ctxdemo_alwaysdemo_step18000 | 0 | 0 | [link](https://huggingface.co/siyuhsu/vla_arena_ctxdemo_alwaysdemo_step18000) |
+| 2026-06-29 | GT-111/MemCode-VLA | 0 | 0 | [link](https://huggingface.co/GT-111/MemCode-VLA) |
 | 2026-06-29 | quiet-storm/polar-bridge-vla | 44 | 0 | [link](https://huggingface.co/quiet-storm/polar-bridge-vla) |
-| 2026-06-29 | hiskiv/cosmos-policy-lam | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam) |
-| 2026-06-29 | robododo/frozen_act_policy | 0 | 0 | [link](https://huggingface.co/robododo/frozen_act_policy) |
-| 2026-06-28 | polarisai-robots/bin_transfer_so101_smolvla_v2 | 18 | 0 | [link](https://huggingface.co/polarisai-robots/bin_transfer_so101_smolvla_v2) |
-| 2026-06-28 | robotneu/pi05_zs_gen_hard_lora | 0 | 0 | [link](https://huggingface.co/robotneu/pi05_zs_gen_hard_lora) |
-| 2026-06-28 | robotneu/pi05_pfc23_hard_lora | 0 | 0 | [link](https://huggingface.co/robotneu/pi05_pfc23_hard_lora) |
-| 2026-06-28 | YinonDouchan/smolvla_mobile_robot_lift_dummy_task | 57 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_dummy_task) |
-| 2026-06-28 | zwan1003/pickplace_vla_continued | 0 | 0 | [link](https://huggingface.co/zwan1003/pickplace_vla_continued) |
+| 2026-06-29 | GreenGenomicsLab/TARA-WorldModel-VICReg | 0 | 0 | [link](https://huggingface.co/GreenGenomicsLab/TARA-WorldModel-VICReg) |
+| 2026-06-29 | linhrumata/world-models | 0 | 0 | [link](https://huggingface.co/linhrumata/world-models) |
+| 2026-06-29 | AmongTheCouch23/handicate-policy | 0 | 0 | [link](https://huggingface.co/AmongTheCouch23/handicate-policy) |
+| 2026-06-29 | zbhuiyan2006/act_tic_tac_toe_rgb_pos1_v2_policy0 | 0 | 0 | [link](https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos1_v2_policy0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 62439 | Python | 24975.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 62562 | Python | 25024.9 | [link](https://github.com/commaai/openpilot) |
+| zauberzeug/nicegui | 15961 | Python | 6384.5 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15378 | C++ | 6151.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14016 | C++ | 5606.5 | [link](https://github.com/google-deepmind/mujoco) |
+| isaac-sim/IsaacLab | 7550 | Python | 3020.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| earthtojake/text-to-cad | 7180 | JavaScript | 2872.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | dora-rs/dora | 3811 | Rust | 1524.5 | [link](https://github.com/dora-rs/dora) |
-| StanfordVL/BEHAVIOR-1K | 1536 | Python | 614.5 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| sou350121/VLA-Handbook | 332 | HTML | 132.9 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5319 | Python | 2127.7 | [link](https://github.com/vllm-project/vllm-omni) |
-| softmata/horus | 382 | Rust | 152.9 | [link](https://github.com/softmata/horus) |
-| copper-project/copper-rs | 1371 | Rust | 548.5 | [link](https://github.com/copper-project/copper-rs) |
-| awslabs/awsome-distributed-ai | 451 | Shell | 180.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| Developer-Y/cs-video-courses | 82022 |  | 32808.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| isaac-sim/IsaacLab | 7547 | Python | 3018.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| leofan90/Awesome-World-Models | 1842 | Python | 736.9 | [link](https://github.com/leofan90/Awesome-World-Models) |
+| StanfordVL/BEHAVIOR-1K | 1537 | Python | 614.9 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
+| sou350121/VLA-Handbook | 334 | HTML | 133.7 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-06-26 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUhnWGpNVDY2WXlERndBVU5LNC1IUWswZzFWM1M2TlNKcERxWFJCQVFiWk13RjFhdlRiMG1uYTlhZ19Rd3lBMXpQTUp1MW1qcC1lQml4blUxM1lKM1B0SGdjdmVDQ2dQT0VnczFDVDM2Ty1rNGFUUllOWnRRQzBBUGV0N042UlJIZU9KX2lmNGxYUDZuYXJVZDJ4bndGUUVCcEpLSQ?oc=5) |
+| 2026-06-26 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE5aWVN0Nk5DOFNkaGlqTF83WERZcmIzdmt1TEZHV0p0YktNeHhiUUZ3RFNhb00zMGVmbHpHcjRrdjJRdW9MVzBudXB5TVdCS2pWNkxPSUtZZlY3WnY3SkhUUDMxdHZqZ2huYVJsR3JqMA?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiP0FVX3lxTE1JNnVnc1hYTE83LWRYVVlIS19ISjViM2tIWFNyLWhJRk03d0w2U05sWEhRS09oeU1iMGxFdFRQMA?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGdybHdlOWFOTldsa00wVlY3a1NQOExZY1RKZGRJSlNHYnBYdVFrZ2NVSnBsS3FzaTgwaUtVNk9OaURuOTRodzhXa0FaUTcyQ2RZTVlyakdONWFnRkJBa2VGXy16aXAxYk1QMEd2X1RPNW0xTkxBSWxEMzNwWENBb1lza29Vd1FSLUp4MUpCNFVrWjdK?oc=5) |
@@ -114,7 +115,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdHlhT29SZkRnd1pDNDNLVHdMMjhEZV8wdC1wbm9HVmd5b1pndFNIUVdjT2lGYVBoVnJDY1NMX2VlUTRJTmxaSjNLTDQ2LTlRTHZ5QlFGUzdWNWhCM19GZVladlgxcWxJU0xIekp0RW92SGwtYW5YbHZzZERtejdLcHBaQVd2Tm1UM0Jhd3RSRHg4NlUxSmVQS3gtOGQya1pXdUxKTXFhYkxYdG1K?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVJXcUtHUlZRTjNqYl9FRHRJdkFZUU5kSVF5V1NLekl1cDNyOEppY3JkLW5BNHVYZ182OVVnZ2l6R19qZ3JmOVlhR05TNDdOYWljdlJ0TklVTGxKQ2k4R2lINzY3NXMtaDZ4RXRMRWhRWnRuRldQVEh5Y2hMYktzWmx2X2RVdHdpSUFZa0l4SFphalhpaG1kM0tubjJveXV5akIwSTgwX1hwXzBQNGF4ZEpxcFpva2RUZHphWV82YVlyeHVuUlV1LUFvNEVyYkkz?oc=5) |
-| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZFVkekpTTlg1NXNrSktPbzBuQUNMQ2VSanU3a3FXN25GaTBzTkV3OTN0cjBSaHBxSm1ScWJjRVlTSGVYbFZ3MFZWUGF6T2NDRFNfRVR3SW5vX0ZOYmtZSUg5cXBTeWZBMGJuQzNMamFrc2x4ZDFtS0dxeTgyamFabGhCaV9ERGNJWWVkMlZEdXZGSi05dWxaa2FBZzEyTFlKYkcwV0R1Z3JLdFBIZndLX21ldnlfVi1UWDdYMGVLdGNwbEdGQVM5akdQVFBYZ05j?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
