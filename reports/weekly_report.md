@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-28 23:57 UTC
+Generated: 2026-06-29 02:35 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-06-25 | Scalable Behavior Cloning with Open Data, Training, and Evaluation | [link](https://arxiv.org/pdf/2606.27375v1) |
-| 2026-06-25 | World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays | [link](https://arxiv.org/pdf/2606.27374v1) |
-| 2026-06-25 | PhysiFormer: Learning to Simulate Mechanics in World Space | [link](https://arxiv.org/pdf/2606.27364v1) |
-| 2026-06-25 | RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection | [link](https://arxiv.org/pdf/2606.27355v1) |
-| 2026-06-25 | Continual Robot Policy Learning via Variational Neural Dynamics | [link](https://arxiv.org/pdf/2606.27353v1) |
+| 2026-06-26 | DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand | [link](https://arxiv.org/pdf/2606.28323v1) |
+| 2026-06-26 | WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation | [link](https://arxiv.org/pdf/2606.28320v1) |
+| 2026-06-26 | CacheMPC: Certified Cached Model Predictive Control for Quadruped Locomotion | [link](https://arxiv.org/pdf/2606.28300v1) |
+| 2026-06-26 | SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation | [link](https://arxiv.org/pdf/2606.28276v1) |
+| 2026-06-26 | Early Optical Follow-up of Gamma-Ray Bursts: The Critical Role of Robotic Telescopes | [link](https://arxiv.org/pdf/2606.28267v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82019 | 32807.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62369 | 24947.7 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82022 | 32808.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62439 | 24975.7 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 29884 | 11953.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15960 | 6384.1 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15376 | 6150.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| zauberzeug/nicegui | 15961 | 6384.5 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15377 | 6150.9 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,8 +41,8 @@ Generated: 2026-06-28 23:57 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-06-29 | Half of Domestic Physical AI Startups Are in the Robotics Sector - 아시아경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMidEFVX3lxTE5WX2owRkVxUTJ5bHJqMWxUTXNucGtBNGM4S19Ed3hYRTdLS3FIOXV0WWJ4Z0t0YmNhS3JFVFdOeVRBRWRGX0RWMkoxcVJYWE9nekV5LVBCUFhIX1JDS3FZaXEtM2U1RTJybkhWT2pSUk1acHRW?oc=5) |
+| 2026-06-29 | Korea Startup Forum forms physical AI council to boost industrial innovation - CHOSUNBIZ - Chosunbiz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxNUURVaEp1TUs2Q2VXRk5RQ1NEeW8zSXpYejJkajA2VnRET19admRCLXhUYVNNSERRZU5lU2tWb0tPOEhadG9IT0YyUThvVktFTHRSWVNoZkh4QXBlcTFta1B1MVR6NGFfUnhiY2ZzZXUtQlBZX2FWRzVuY2stRVUyUnRR0gGWAUFVX3lxTE5VV0lnbkNLNjVKNVNvOEQ1QUlweENqWjY0YjNXUm1YMDJXOHM2Y0ZTV3dJR0xqaGRrcENONUE2QkNxZEUxMGhSNW55U2tTbnNmdExjQWFDQWJCSHFHSGkxbng0UUUxSU42WG1TRXprNjZURVhyTTJZTXZQWE5kUFNQbWprM1hLSkg2X2RzQnpOMXJqZjVjUQ?oc=5) |
+| 2026-06-29 | Korea Startup Forum launches Physical AI Industry Council with 11 companies - 디지털투데이 | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ3ZISFNaZGJJTEVoYmtlcmNTTk9ONE9KOVl1QWFDTEZTbnJLNmxRVHNJZDd6aTZTc1BSZklEYXFjR2w0ajdXVEh1VlZrRy1GSVIxaDh3dTJ3ajVlMTFnNmZiWE5XMngtQk0xZ1N2UzkzbktnQ2VsRU1DQW5aT0dxbmpqWmJpaExkNUlZaWVFS0NodDJYXzJEVXBBRDRFemgzSkQxdDhFMzUxSnlENzljT0FRemhPTWpjdmFxMw?oc=5) |
 | 2026-06-28 | Chinese Student Builds Humanoid Robot for $2,100 at Age 20, Now Leads Robotics Startup in China - CPG Click Petróleo e Gás | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaTdwRmxNY3pGZmc5d0Nza25zcDRjT2R3b095UFFieWh0aG02OHh0ODRVZ3RoYkRDRF9VZE5mUUxhOEp3SV8xYVplVjFsMUxibEpRRUlXTWZHSEZvN1BHZFlYa0pqNzZRY0dGaDBNZlZEMkh0YlNaaXZfeHlqcHNKTDlmRmlCTkY2dzl1eDR4dDBhdnZQTVlMMW5YZlFNMGdDMl9YSk13anNjdkw5ZEVFRkdFbmh4dU91czFxWFZkQUVNdkJ6OFZPaE1GT1I3TWx4a0E?oc=5) |
 | 2026-06-26 | Robotics startup FieldAI has hit a $100 million milestone - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOS1IejdzVkdiZVVnaE95aWVYcXJnWS16RF9qdWlhdUtaRjh5VWo0aEJ2QVNNTmxLMGVsQU9Sd2Z1SkUwQ0JZZU02cTFiTVFHYjVvcExlUEk0WnRsOWxSYlFIVzBIMFRiUVF2cmtILXpoSXV6Tmhvd1BEWXBSR1pNS21pODBkaHNuNjliWHd5UWtaTVAxZmdsMzM2dzFaX3pTNmtNQ2tBZGxXUQ?oc=5) |
-| 2026-06-25 | How a Chinese physical AI start-up’s new paradigm bypasses US road maps - South China Morning Post | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDJSQVM4eFZjOWpJdmdKc3Q4Y0NySDYydUJINzcyc0NUSzhDMVhSVEJHQm9DNUJVMzR3bjFZTjgydWktT2pHSnNlN1Z1a0Jva0hhenk3VDBhN19UMVlNMEpwTWo5ZzhpX25DOUxUbW9WY1NnWHNRZnY3aG1SME5HOXFHeVdoZ2MtbUE5ckxxNFJ6Zl9iVlp1Wk5EZDJxQW51Zlh2UTEydlZLdngtbXN4ZHg5TFY4TDQwamZFRGVkcG8xOG8zS2xvRlk0dVPSAcwBQVVfeXFMTTVFWDE2MV9yc0l5OXlPREpTbXEzU0tkOVFvMG5IRjZCQXU3ZF9jQ1pDNy1xdkhZZW8tZkdmcVUwWFJualR0eDIzV1kxeHBlSmkwZUl5NTJfR1d2Z3hxNUNxckpDdEFweGpNMFl5SndzeHFWS0I0WWJOa2NUT25PTTFxLU5nSFhheVkxZWFwTmpUc29iTVdXRzBOaUtnVGo5WVU1YWpvRWNobXdYVkRLNWtEZ25DV0UzMVd0SFB2dkNLVDBEc1JRWHdVVGlX?oc=5) |
-| 2026-06-25 | World Models vs VLAs: The Rift Dividing Physical AI - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUhwcEJfU1dWVzBtdkdtUEIxS3RrMmstMndTSW1Qc0FTek1wc3ZKQU9KN0k1azlVNWRPQ090a3dES1huWDZFN1RtODJhS0EtWE5ZUHVHbnl3NVpMRFRtYWV6R1VhZmtzdjZxUUg2UjhZX3pLenB4UlpHZ2dMcHE0WHBOdDdYd3RwdGN6NHYtV1lIeFNJMElFY3ZVNmlmVVB2?oc=5) |
-| 2026-06-25 | Singapore Video Startup Founded By Tencent’s Former AI Head Bets Big On World Models - Forbes | physical ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbW9KN2cxZVU3MHhoOGdIeUVKa183M3VvMEFFWTdtR05HTTFrN3ZodF9qb1N0U25VZGFLZE5DaWVyM1ZLdGZPUHUtRWpDUk0xd2tJNU1iMUhfZjl2STRhb2NPdG9rQ0ZsMUxFN1lWWUJuV3hRb1FWOWZjdnoyVGRzcWk4eFlDSkh3MmZvUklpcWw3dmg5MXJtRnk1UFYwaGY1MUdEVVZrd1ZzQUtpSVRvMDZwRGhQam9JREJpeUZwem5kcmdwVG5uUU1OUmZMUDQ?oc=5) |
