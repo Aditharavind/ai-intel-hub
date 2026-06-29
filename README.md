@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-29 22:01 UTC
+Last Updated: 2026-06-29 23:47 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -39,23 +39,23 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-29 | Advantages of hypoid gearing over worm, bevel and bevel-planetary | Robotics Business Review | [link](https://www.therobotreport.com/advantages-of-hypoid-gearing-over-worm-bevel-and-bevel-planetary/) |
 | 2026-06-29 | BMW Group deploys Figure 03 humanoid after tests with previous version | Robotics Business Review | [link](https://www.therobotreport.com/bmw-group-deploys-figure-03-humanoid-after-tests-previous-version/) |
 | 2026-06-29 | Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/) |
+| 2026-06-29 | Insights behind Kinisi’s acquisition by Bear Robotics | Robotics Business Review | [link](https://www.therobotreport.com/insights-behind-kinisi-acquisition-by-bear-robotics/) |
 | 2026-06-28 | AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment | Robotics Business Review | [link](https://www.therobotreport.com/agibot-produces-15000th-robot-marking-milestone-embodied-ai-deployment/) |
 | 2026-06-27 | We know how to build smarter robots. Now, we need to learn smarter ways to test them | Robotics Business Review | [link](https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/) |
 | 2026-06-27 | How compact cobot integration enhances autonomous mobile robot applications | Robotics Business Review | [link](https://www.therobotreport.com/how-compact-cobot-integration-enhances-autonomous-mobile-robot-applications/) |
 | 2026-06-26 | Orbbec shows AI-powered vision systems at Automate 2026 | Robotics Business Review | [link](https://www.therobotreport.com/orbbec-shows-ai-powered-vision-systems-automate-2026/) |
 | 2026-06-26 | Video Friday: Give Robots a Hand | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robot-grippers) |
-| 2026-06-26 | General Intuition raises $320M to use video game data to train robots | Robotics Business Review | [link](https://www.therobotreport.com/general-intuition-raises-320m-uses-video-game-data-train-robots/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-29 | Hard Drive Speakers Crank Out Classic Demo | Hackaday | [link](https://hackaday.com/2026/06/29/hard-drive-speakers-crank-out-classic-demo/) |
 | 2026-06-29 | Piano Escapement Migrates to Drum Kit | Hackaday | [link](https://hackaday.com/2026/06/29/piano-escapement-migrates-to-drum-kit/) |
 | 2026-06-29 | 2026 Frikkin Lasers Challenge: Super-Simple Laser Precision for Your Stargazing | Hackaday | [link](https://hackaday.com/2026/06/29/2026-frikkin-lasers-challenge-super-simple-laser-precision-for-your-stargazing/) |
 | 2026-06-29 | Hackaday Europe 2026 – Building A Retro PC From Scratch | Hackaday | [link](https://hackaday.com/2026/06/29/hackaday-europe-2026-building-a-retro-pc-from-scratch/) |
 | 2026-06-29 | Mechanical TV, Without The Benefit Of New Parts | Hackaday | [link](https://hackaday.com/2026/06/29/mechanical-tv-without-the-benefit-of-new-parts/) |
 | 2026-06-29 | The Teenage Angst of 3D Printing: Solidoodle, Printrbot, and Bridges | Hackaday | [link](https://hackaday.com/2026/06/29/the-teenage-angst-of-3d-printing-solidoodle-printrbot-and-bridges/) |
 | 2026-06-29 | HamsterOS Crams Complete Graphical Desktop onto 1.44 MB Floppy | Hackaday | [link](https://hackaday.com/2026/06/29/hamsteros-crams-complete-graphical-desktop-onto-1-44-mb-floppy/) |
-| 2026-06-29 | It’s Linux, on a Sega Megadrive | Hackaday | [link](https://hackaday.com/2026/06/29/its-linux-on-a-sega-megadrive/) |
 | 2026-06-29 | Waveshare ESP32-C6-Zero-B  – A tiny ESP32-C6 USB-C board with 5V-36V wide supply voltage | CNX Software | [link](https://www.cnx-software.com/2026/06/29/waveshare-esp32-c6-zero-b-a-tiny-esp32-c6-usb-c-board-with-5v-36v-wide-supply-voltage/) |
 | 2026-06-29 | Simplia CONNECT RW612 6-in-1 M.2 2230 module offers WiFi 6, Bluetooth 5.4, 802.15.4, LTE-M, NB-IoT, and GNSS connectivity | CNX Software | [link](https://www.cnx-software.com/2026/06/29/simplia-connect-rw612-6-in-1-m-2-2230-module-offers-wifi-6-bluetooth-5-4-802-15-4-lte-m-nb-iot-and-gnss-connectivity/) |
 | 2026-06-29 | DEBIX T62P-01 Raspberry Pi-like industrial SBC features TI AM62P SoC, dual GbE with TSN, multi-domain UART | CNX Software | [link](https://www.cnx-software.com/2026/06/29/debix-t62p-01-raspberry-pi-like-industrial-sbc-features-ti-am62p-soc-dual-gbe-with-tsn-multi-domain-uart/) |
@@ -94,13 +94,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1372 | Rust | 548.9 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 884 | Python | 353.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 451 | Shell | 180.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 62744 | Python | 25097.7 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29889 | Python | 11955.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15962 | Python | 6384.9 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15383 | C++ | 6153.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 62758 | Python | 25103.3 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29891 | Python | 11956.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15964 | Python | 6385.7 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15384 | C++ | 6153.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14022 | C++ | 5608.9 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11253 | Python | 4501.3 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11018 | Rust | 4407.3 | [link](https://github.com/rerun-io/rerun) |
+| rerun-io/rerun | 11019 | Rust | 4407.7 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
