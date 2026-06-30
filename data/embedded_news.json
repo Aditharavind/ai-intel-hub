@@ -1,5 +1,19 @@
 [
   {
+    "title": "Banana Pi BPI-VP10 – A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU",
+    "source": "CNX Software",
+    "date": "2026-06-30",
+    "url": "https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/",
+    "summary": "<div><img alt=\"Banana Pi BPI-VP10 with metal case and servo\" class=\"attachment-medium size-medium wp-post-image\" height=\"479\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Banana-Pi-BPI-VP10-metal-case-servo-720x479.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Banana Pi BPI-VP10 is a low-cost servo control board based on the Fortior FU7512L RISC-V MCU and the FD6288Q pre-driver chip, designed for industrial control applications that rely on 100W/200W servos. The servo motor control board supports multiple control modes, including pulse/direction, analog, and RS485, and is compatible with absolute encoders (Tamagawa/BiSS-C protocols), incremental encoders, and Hall encoders. The BPI-VP10 board, also called BPI-BJ2403N, aims to provide an easy-to-source platform for developers to experiment with the FU7512L microcontroller and design projects or products around it. Banana Pi BPI-VP10 (FU7512L-SVDriver) specifications: Microcontroller &#8211; Fortior Technology FU7512L CPU 32-bit RISC-V core @ 48 MHz ME2 motor engine core @ 48 MHz with FOC module and CORDIC module Memory – 12kB SRAM, 4kB PRAM for program execution Storage – 64kB Flash with ECC and CRC, self-programming, and code protection Encoder Support &#8211; Absolute encoders (Tamagawa/BiSS-C protocols), incremental encoders, and Hall encoders. Pulse Input &#8211;  [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/\">Banana Pi BPI-VP10 &#8211; A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "UK-US Comms Satellite Talks",
+    "source": "Electronics Weekly",
+    "date": "2026-06-30",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/uk-us-comms-satellite-talks-2026-06/",
+    "summary": "<p>A TEAM from the United Kingdom arrived in Washington on Sunday for technical discussions on the possible use of earth satellites for communications systems. The talks are being held with ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/uk-us-comms-satellite-talks-2026-06/\">UK-US Comms Satellite Talks</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Hard Drive Speakers Crank Out Classic Demo",
     "source": "Hackaday",
     "date": "2026-06-29",
@@ -152,13 +166,6 @@
     "date": "2026-06-29",
     "url": "https://www.electronicsweekly.com/news/business/korea-plans-to-double-memory-output-in-five-years-2026-06/",
     "summary": "<p>South Korea&#8217;s Ministry of Trade, Industry and Energy has announced a public-private partnership initiative to invest $520 billion to construct memory fabs in the country’s southwestern region, reports Bloomberg. In ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/korea-plans-to-double-memory-output-in-five-years-2026-06/\">Korea plans to double memory output in five years</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Apple asks US government for permission to buy CXMT DRAM",
-    "source": "Electronics Weekly",
-    "date": "2026-06-29",
-    "url": "https://www.electronicsweekly.com/news/business/apple-asks-us-government-for-permission-to-buy-cxmt-dram-2026-06/",
-    "summary": "<p>Apple is asking the US government for permission to buy DRAM from ChangXin Memory Technologies (CXMT) of China which is on a Pentagon blacklist, reports the FT. Apple asked the ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/apple-asks-us-government-for-permission-to-buy-cxmt-dram-2026-06/\">Apple asks US government for permission to buy CXMT DRAM</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "A new DIY handheld tricorder-like device",
@@ -348,13 +355,6 @@
     "date": "2026-06-25",
     "url": "https://www.cnx-software.com/2026/06/25/orange-pi-6-cix-cd8180-12-core-arm-sbc-gets-2-5gbe-networking-smaller-form-factor-drops-battery-support/",
     "summary": "<div><img alt=\"Orange Pi 6\" class=\"attachment-medium size-medium wp-post-image\" height=\"564\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Orange-Pi-6-720x564.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Orange Pi 6 is a compact single board computer (SBC) powered by CIX P1 (CD8180) 12-core Arm Cortex-A720/A520 SoC coupled with up to 32 GB 128-bit LPDDR5 memory. It shares many of the features of the Orange Pi 6 Plus board introduced last October, but comes in a smaller and lighter form factor (90 x 90mm vs 115 x 100mm), features two 2.5GbE ports instead of two 5GbE jacks, drops support for LiPo batteries, and is offered with lower RAM capacity options (8GB-32GB vs 16GB-64GB). Orange Pi 6 specifications: SoC – Cix P1 (Codename: CD8180) 12-core DynamIQ processor 4x Cortex‑A720 big cores @ up to 2.6 GHz 4x Cortex‑A720 medium cores @ up to 2.4 GHz 4x Cortex‑A520 LITTLE cores @ up to  1.8 GHz Cache – 12MB shared L3 cache GPU – Arm Immortalis G720 MC10 with hardware ray-tracing support, graphics APIs: Vulkan 1.3, OpenGL ES 3.2, OpenCL 3.0 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/25/orange-pi-6-cix-cd8180-12-core-arm-sbc-gets-2-5gbe-networking-smaller-form-factor-drops-battery-support/\">Orange Pi 6 CIX CD8180 12-core Arm SBC gets 2.5GbE networking, smaller form factor, drops battery support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Louder ESP32 Mini board adds WiFi and Bluetooth to old speakers for SqueezeLite, Snapclient, or ESPHome support",
-    "source": "CNX Software",
-    "date": "2026-06-25",
-    "url": "https://www.cnx-software.com/2026/06/25/louder-esp32-mini-board-adds-wifi-and-bluetooth-to-old-speakers-for-squeezelite-snapclient-or-esphome-support/",
-    "summary": "<div><img alt=\"Louder ESP32 Mini\" class=\"attachment-medium size-medium wp-post-image\" height=\"343\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Louder-ESP32-Mini-720x343.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Sonocotta&#8217;s Louder-ESP32-Mini is a compact version of the Louder ESP32 board that converts old speakers into WiFi (and Bluetooth) connected speakers for your Smart Home. The board aims to replace the speaker terminals on your old speakers, and comes in two sizes: 42x42mm for small speakers, and 52x52mm for larger models. It&#8217;s powered by an ESP32-S3 wireless SoC with 8MB PSRAM and equipped with a high-quality TAS5805M DAC with DSP features. Louder-ESP32-Mini specifications: Wireless Module &#8211; ESP32-S3-WROOM-N8R8 SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM, 8MB PSRAM Storage – 8MB flash Wireless – WiFi 4 and Bluetooth LE 5 Antenna – PCB antenna Audio DAC &#8211; Stereo TAS5805M I2S DAC with built-in DSP and D-Class amp DSP Features &#8211; EQ, FIR, DRC, AGL, etc&#8230; Speaker output via two WAGO connectors 4Ω, 1% THD+N 42&#215;42 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/25/louder-esp32-mini-board-adds-wifi-and-bluetooth-to-old-speakers-for-squeezelite-snapclient-or-esphome-support/\">Louder ESP32 Mini board adds WiFi and Bluetooth to old speakers for SqueezeLite, Snapclient, or ESPHome support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "ST Unveils Secure Mobile Chip with PQC",
