@@ -1,16 +1,22 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-30 15:22 UTC
+Generated: 2026-06-30 17:44 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-06-29 | VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes | [link](https://arxiv.org/pdf/2606.30645v1) |
+| 2026-06-29 | Self-Evolving World Models for LLM Agent Planning | [link](https://arxiv.org/pdf/2606.30639v1) |
+| 2026-06-29 | Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors | [link](https://arxiv.org/pdf/2606.30638v1) |
+| 2026-06-29 | GROW$^2$: Grounding Which and Where for Robot Tool Use | [link](https://arxiv.org/pdf/2606.30632v1) |
+| 2026-06-29 | Sequential Planning via Anchored Robotic Keypoints | [link](https://arxiv.org/pdf/2606.30613v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82144 | 32857.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62891 | 25156.5 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29897 | 11958.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 82147 | 32858.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62894 | 25157.7 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29896 | 11958.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15966 | 6386.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15390 | 6156.1 | [link](https://github.com/ArduPilot/ardupilot) |
 
@@ -35,8 +41,8 @@ _No items collected yet._
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-06-30 | China's Greater Bay Area mints two unicorns as embodied AI boom continues - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTFA4WkVCdGhPSVpNd0QyM1dEUkd5T2xJRi05NkFwdHNBakp1Zk9acTRWLW8wbkRhM3d0YkVVRnpwSEk0anc3M0lrUG1hdTh2REc1a2xkeUxzTkZPMmpISHFSajBRSEFONEhHZ1NyQ2VwMVR2ZVZwTHpRTjFodm12ZFk?oc=5) |
+| 2026-06-30 | Greater Bay Area mints two unicorns as embodied AI boom continues - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTFA4WkVCdGhPSVpNd0QyM1dEUkd5T2xJRi05NkFwdHNBakp1Zk9acTRWLW8wbkRhM3d0YkVVRnpwSEk0anc3M0lrUG1hdTh2REc1a2xkeUxzTkZPMmpISHFSajBRSEFONEhHZ1NyQ2VwMVR2ZVZwTHpRTjFodm12ZFk?oc=5) |
 | 2026-06-30 | 6 Months, 15 Embodied AI Startups with Valuation Exceeding $10 Billion - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5td2VxYmFPZWhBMWFYVGJHeDhfOHVWdzhGVTVfaHg5cDZGMFJxQzJ4ZFg1UHhMWmlMZ2E0VVVaUUkzejJGY09wNl9MLW9pQ0pHZ3pZ?oc=5) |
 | 2026-06-30 | This $5.5 billion robotics startup built a school for humanoids - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWlmbVcyMmdsdEs5RHhjc3l3cWpJSTIySlU4WnRTaW84V25UcVBNRmdQS1Z0b1NTeUE0Z2tkVnBTby1JejNfS3Nla2tiUFlqQjNGU3BKUXBCaUtRVGliWVZQMGJyV3pCZUtHbG9ZWkdVU1VIWGRoS0Fnblh4T2JRaXp6VFhlWGxDR0ctTzFuVFNEUjhnQkNxRWpqbnl6LV93bDlyb0lYS19LZw?oc=5) |
+| 2026-06-30 | How Google is relying on Austin company's humanoid AI robots - Austin American-Statesman | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxPY21xcGkyT2Y3QlR6VDJCbFlqUkFTS2RNX3pfS18wbTVmR3lCdFRZOTBMRmh2VjljRkNJdm96NjFaZWxSV2ljSWhDUkVqSmhuaVdzNVlNb280c19td29hNHlidWx6Q2JISVdUWW1tY3BucGQ3YWR0Ymx0SjlPLUhndjdHcXIxaGM0ZE1xdjZETVdoTkl1eDhXdGlwQ3dyRXpfTU4wb3h3?oc=5) |
 | 2026-06-30 | A startup taught humanoid robots to retrieve packages, climb stairs, and unpack boxes – no human steering needed - TechSpot | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxOUmJ4YUtzc1V3VTRKckJhd1RpdkxDc1JzUEdoWVhXbDJzR2pHM2RzZmRxNy1QVnhidlZyYV9tR2xrc1hzMlVlMWxkQ1ZBbEh4ckFKbGZHbmJwRWplX1hWMzhUYzNuMllyaDlIRFdGOEhUdHdwSks3blNiM2c2eUV1NUQ4NkJfbGVqVVVVWFpHRHRrcGhCWk42T0I1NEFwOFNCZUxlQWVR?oc=5) |
-| 2026-06-30 | China’s humanoid robot valuations soar as investment frenzy stokes bubble fears - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWotUVlwckZEMzBhMjVYTWprNTFjbnN4THpJWEVEd2FnNk40RFRydV8zZTZ5YVM1SFV1dzIwNkN5M08tQTQ4UjFycG5vUlpzejlHNlQ5bnFWaF91SDk3RnZuMVdhZDFldmpoMElxRG0tUFNGWnEzLTlPVUNGWWQ4dWt0VlBVYy1M0gGcAUFVX3lxTE1xWGd2RXp6ZGd1Z2w2QUtOZFdrbzdKMFlzU1c5Z2RUclUzamNDeGNHLU1ZNUtST1ZkWWFraWhwbW9pTXFKNy1UQ05SYlVGa08zZFNNSmxUR0ltZzNPT2VoeTNBVzdFZ29kTm5UVm1SbzNYR2gwYXczaE8ya0dsd1p3bDNxSzdDY0hyUzJfMkFyTDFQWHdvdFhpWGVrbQ?oc=5) |
