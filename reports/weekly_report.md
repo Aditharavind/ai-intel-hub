@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-30 19:26 UTC
+Generated: 2026-06-30 21:21 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-06-30 19:26 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82152 | 32860.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62896 | 25158.5 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29897 | 11958.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 82153 | 32861.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62897 | 25158.9 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29898 | 11959.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15966 | 6386.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15390 | 6156.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15391 | 6156.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -43,6 +43,6 @@ Generated: 2026-06-30 19:26 UTC
 | --- | --- | --- | --- |
 | 2026-06-30 | Japan announces aid for domestic AI development project - The Japan Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxON2thNi1JNzkyUnEtZEh1SUMxNGF3R2pPWWRqMWpZeHVfVG55ckx1T0RvYVJxMzFBLV9XWDNZdlpMUGNFMm9pVkF2MU9kY0h0MTByVXNYeTg3cUttR1FaUXRLWGplOUlvdk4tdUUxal9LZ2JwWk9iS2FJdFd0Nk9yV1NtMEo1d3JhOGpidmZtQQ?oc=5) |
 | 2026-06-30 | Greater Bay Area mints two unicorns as embodied AI boom continues - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTFA4WkVCdGhPSVpNd0QyM1dEUkd5T2xJRi05NkFwdHNBakp1Zk9acTRWLW8wbkRhM3d0YkVVRnpwSEk0anc3M0lrUG1hdTh2REc1a2xkeUxzTkZPMmpISHFSajBRSEFONEhHZ1NyQ2VwMVR2ZVZwTHpRTjFodm12ZFk?oc=5) |
+| 2026-06-30 | X Square Robot attracts big names as its full-stack embodied AI strategy moves ahead - thebambooworks.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQN1BqOXZqUS04akF2elVQdXBleXQtV3hweHJ5Wng2R3gweXNBTXdlQWlCWGlvRjVuSWFCRGhJQ0x2LWtSVkM0RHpTcEVINmJfOXE0Yi1zQWJjeElGOWlaVVNyR01uTlF3bG51NEZWU2ZIZUJZTkpqcGR1UmJRWG5QUUtXOGd3RHBITm4waWpmV3ZyU3N0YjhNbnI5dC1uWVI0SUpBMmpqbDhYZ1JrWjR0U1p3?oc=5) |
 | 2026-06-30 | 6 Months, 15 Embodied AI Startups with Valuation Exceeding $10 Billion - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5td2VxYmFPZWhBMWFYVGJHeDhfOHVWdzhGVTVfaHg5cDZGMFJxQzJ4ZFg1UHhMWmlMZ2E0VVVaUUkzejJGY09wNl9MLW9pQ0pHZ3pZ?oc=5) |
 | 2026-06-30 | This $5.5 billion robotics startup built a school for humanoids - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWlmbVcyMmdsdEs5RHhjc3l3cWpJSTIySlU4WnRTaW84V25UcVBNRmdQS1Z0b1NTeUE0Z2tkVnBTby1JejNfS3Nla2tiUFlqQjNGU3BKUXBCaUtRVGliWVZQMGJyV3pCZUtHbG9ZWkdVU1VIWGRoS0Fnblh4T2JRaXp6VFhlWGxDR0ctTzFuVFNEUjhnQkNxRWpqbnl6LV93bDlyb0lYS19LZw?oc=5) |
-| 2026-06-30 | How Google is relying on Austin company's humanoid AI robots - Austin American-Statesman | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxPY21xcGkyT2Y3QlR6VDJCbFlqUkFTS2RNX3pfS18wbTVmR3lCdFRZOTBMRmh2VjljRkNJdm96NjFaZWxSV2ljSWhDUkVqSmhuaVdzNVlNb280c19td29hNHlidWx6Q2JISVdUWW1tY3BucGQ3YWR0Ymx0SjlPLUhndjdHcXIxaGM0ZE1xdjZETVdoTkl1eDhXdGlwQ3dyRXpfTU4wb3h3?oc=5) |

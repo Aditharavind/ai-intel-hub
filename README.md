@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-30 19:26 UTC
+Last Updated: 2026-06-30 21:21 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -40,22 +40,22 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-30 | Soft, robotic cells from morph embed physical AI into hardware | Robotics Business Review | [link](https://www.therobotreport.com/soft-robotic-cells-from-morph-embed-physical-ai-into-hardware/) |
 | 2026-06-30 | How Jaiveer Singh Is Helping Robots — and Developers — Move Faster | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/) |
 | 2026-06-30 | Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/) |
+| 2026-06-30 | X Square Robot brings its valuation to $2.8B with four consecutive funding rounds | Robotics Business Review | [link](https://www.therobotreport.com/x-square-robot-brings-valuation-2-8b-four-consecutive-funding-rounds/) |
 | 2026-06-29 | MBody AI expands service robotics operations to eleven states and Canada | Robotics Business Review | [link](https://www.therobotreport.com/mbody-ai-expands-service-robotics-operations-eleven-states-canada/) |
 | 2026-06-29 | Advantages of hypoid gearing over worm, bevel and bevel-planetary | Robotics Business Review | [link](https://www.therobotreport.com/advantages-of-hypoid-gearing-over-worm-bevel-and-bevel-planetary/) |
 | 2026-06-29 | BMW Group deploys Figure 03 humanoid after tests with previous version | Robotics Business Review | [link](https://www.therobotreport.com/bmw-group-deploys-figure-03-humanoid-after-tests-previous-version/) |
 | 2026-06-29 | Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/) |
-| 2026-06-29 | Insights behind Kinisi’s acquisition by Bear Robotics | Robotics Business Review | [link](https://www.therobotreport.com/insights-behind-kinisi-acquisition-by-bear-robotics/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-30 | Retro Gear and the Mystery of Cables Melting Into Cases While in Storage | Hackaday | [link](https://hackaday.com/2026/06/30/retro-gear-and-the-mystery-of-cables-melting-into-cases-while-in-storage/) |
 | 2026-06-30 | Building a Micrometer-Level Displacement Sensor with 3D Printed Parts | Hackaday | [link](https://hackaday.com/2026/06/30/building-a-micrometer-level-displacement-sensor-with-3d-printed-parts/) |
 | 2026-06-30 | Microsoft’s Topological Quantum Computing Claims Once Again In Question | Hackaday | [link](https://hackaday.com/2026/06/30/microsofts-topological-quantum-computing-claims-once-again-in-question/) |
-| 2026-06-30 | Bite Into Strange Sounds With NOISEFERATU | Hackaday | [link](https://hackaday.com/2026/06/30/bite-into-strange-sounds-with-noiseferatu/) |
+| 2026-06-30 | Bite Into Strange Sounds With NOISFERATU | Hackaday | [link](https://hackaday.com/2026/06/30/bite-into-strange-sounds-with-noiseferatu/) |
 | 2026-06-30 | How Airspeed Sensors Work | Hackaday | [link](https://hackaday.com/2026/06/30/how-airspeed-sensors-work/) |
 | 2026-06-30 | Hacking a Reverse Osmosis Water Filter Through its Smart Faucet | Hackaday | [link](https://hackaday.com/2026/06/30/hacking-a-reverse-osmosis-water-filter-through-its-smart-faucet/) |
 | 2026-06-30 | Web Tool Lets You Take Steam Controller for a Drive | Hackaday | [link](https://hackaday.com/2026/06/30/web-tool-lets-you-take-steam-controller-for-a-drive/) |
-| 2026-06-30 | Making a Magnetic Core Memory USB Drive | Hackaday | [link](https://hackaday.com/2026/06/29/making-a-magnetic-core-memory-usb-drive/) |
 | 2026-06-30 | WeAct N006 – A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs | CNX Software | [link](https://www.cnx-software.com/2026/06/30/weact-n006-a-compact-nvidia-jetson-orin-nx-carrier-board-designed-for-robots-and-uavs/) |
 | 2026-06-30 | XIAO nRF54LM20A (Sense) board enables ultra-low-power Bluetooth 6.0, Matter, Thread, Zigbee, or 2.4 GHz proprietary applications | CNX Software | [link](https://www.cnx-software.com/2026/06/30/xiao-nrf54lm20a-sense-board-enables-ultra-low-power-bluetooth-6-0-matter-thread-zigbee-or-2-4-ghz-proprietary-applications/) |
 | 2026-06-30 | Banana Pi BPI-VP10 – A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU | CNX Software | [link](https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/) |
@@ -94,10 +94,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1373 | Rust | 549.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 884 | Python | 353.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 451 | Shell | 180.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 62896 | Python | 25158.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 62897 | Python | 25158.9 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 15966 | Python | 6386.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15390 | C++ | 6156.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14035 | C++ | 5614.1 | [link](https://github.com/google-deepmind/mujoco) |
+| ArduPilot/ardupilot | 15391 | C++ | 6156.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14036 | C++ | 5614.5 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 11027 | Rust | 4410.9 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7567 | Python | 3026.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 3941 | Python | 1576.5 | [link](https://github.com/RLinf/RLinf) |
@@ -121,6 +121,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-06-30 | Japan announces aid for domestic AI development project - The Japan Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxON2thNi1JNzkyUnEtZEh1SUMxNGF3R2pPWWRqMWpZeHVfVG55ckx1T0RvYVJxMzFBLV9XWDNZdlpMUGNFMm9pVkF2MU9kY0h0MTByVXNYeTg3cUttR1FaUXRLWGplOUlvdk4tdUUxal9LZ2JwWk9iS2FJdFd0Nk9yV1NtMEo1d3JhOGpidmZtQQ?oc=5) |
 | 2026-06-30 | Greater Bay Area mints two unicorns as embodied AI boom continues - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTFA4WkVCdGhPSVpNd0QyM1dEUkd5T2xJRi05NkFwdHNBakp1Zk9acTRWLW8wbkRhM3d0YkVVRnpwSEk0anc3M0lrUG1hdTh2REc1a2xkeUxzTkZPMmpISHFSajBRSEFONEhHZ1NyQ2VwMVR2ZVZwTHpRTjFodm12ZFk?oc=5) |
+| 2026-06-30 | X Square Robot attracts big names as its full-stack embodied AI strategy moves ahead - thebambooworks.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQN1BqOXZqUS04akF2elVQdXBleXQtV3hweHJ5Wng2R3gweXNBTXdlQWlCWGlvRjVuSWFCRGhJQ0x2LWtSVkM0RHpTcEVINmJfOXE0Yi1zQWJjeElGOWlaVVNyR01uTlF3bG51NEZWU2ZIZUJZTkpqcGR1UmJRWG5QUUtXOGd3RHBITm4waWpmV3ZyU3N0YjhNbnI5dC1uWVI0SUpBMmpqbDhYZ1JrWjR0U1p3?oc=5) |
 | 2026-06-30 | 6 Months, 15 Embodied AI Startups with Valuation Exceeding $10 Billion - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5td2VxYmFPZWhBMWFYVGJHeDhfOHVWdzhGVTVfaHg5cDZGMFJxQzJ4ZFg1UHhMWmlMZ2E0VVVaUUkzejJGY09wNl9MLW9pQ0pHZ3pZ?oc=5) |
 | 2026-06-30 | This $5.5 billion robotics startup built a school for humanoids - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWlmbVcyMmdsdEs5RHhjc3l3cWpJSTIySlU4WnRTaW84V25UcVBNRmdQS1Z0b1NTeUE0Z2tkVnBTby1JejNfS3Nla2tiUFlqQjNGU3BKUXBCaUtRVGliWVZQMGJyV3pCZUtHbG9ZWkdVU1VIWGRoS0Fnblh4T2JRaXp6VFhlWGxDR0ctTzFuVFNEUjhnQkNxRWpqbnl6LV93bDlyb0lYS19LZw?oc=5) |
 | 2026-06-30 | How Google is relying on Austin company's humanoid AI robots - Austin American-Statesman | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxPY21xcGkyT2Y3QlR6VDJCbFlqUkFTS2RNX3pfS18wbTVmR3lCdFRZOTBMRmh2VjljRkNJdm96NjFaZWxSV2ljSWhDUkVqSmhuaVdzNVlNb280c19td29hNHlidWx6Q2JISVdUWW1tY3BucGQ3YWR0Ymx0SjlPLUhndjdHcXIxaGM0ZE1xdjZETVdoTkl1eDhXdGlwQ3dyRXpfTU4wb3h3?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-30 | China’s humanoid robot valuations soar as investment frenzy stokes bubble fears - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWotUVlwckZEMzBhMjVYTWprNTFjbnN4THpJWEVEd2FnNk40RFRydV8zZTZ5YVM1SFV1dzIwNkN5M08tQTQ4UjFycG5vUlpzejlHNlQ5bnFWaF91SDk3RnZuMVdhZDFldmpoMElxRG0tUFNGWnEzLTlPVUNGWWQ4dWt0VlBVYy1M0gGcAUFVX3lxTE1xWGd2RXp6ZGd1Z2w2QUtOZFdrbzdKMFlzU1c5Z2RUclUzamNDeGNHLU1ZNUtST1ZkWWFraWhwbW9pTXFKNy1UQ05SYlVGa08zZFNNSmxUR0ltZzNPT2VoeTNBVzdFZ29kTm5UVm1SbzNYR2gwYXczaE8ya0dsd1p3bDNxSzdDY0hyUzJfMkFyTDFQWHdvdFhpWGVrbQ?oc=5) |
 | 2026-06-29 | Domestic startup specializes in physical AI usable in real world - Korea.net | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE9vX2tHbmhiV3ZOb05RNG5vOWpQbk1rUWpRNG0wRm1HLUU3c2RWTUxSdzROT2FHWUI3VXQwQ19URktGQWdQVEF4YTJ3VGt2WDlKNG9Ua2d2dTRZbGVpeWFUYTNtWFNGaXlOY1FxZjJLMA?oc=5) |
 | 2026-06-29 | Mecka AI acquires Docula as it builds the data layer for robotics - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHNqMzJTMjNScG9wZF9HR21KaGdMWXZHUDlqQnUyUENCbVcwcWxfckpPM1I3UjFoTllmUG1lZkRQVVNUd0IxMk96Q0JCUFIyNVpXOEZjRFBaMGpJWGc1MUhYaTZ0Mzd6cEtQS0FjbUp3SWZER1d4Zk0yaVI1NWxWUzdEczd1QVNlbWtobzlkNA?oc=5) |
-| 2026-06-29 | Zhipingfang Hits $2.8B Valuation as Brain-Like AI Era Dawns, Greater Bay Area's First Embodied AI Unicorn - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTHZxOEMtT0tUNUtZWmJFYVB1QlZnQVJRZi1YWjFKSHJZMWp2OHB1YzZycW5iWllkR210bEx2cHBMVmUwN3E3Z2ZGQjR0UFNmVzh0eFhxdkQ5eTNzOG11TVo1elE5anZHZUIwdzF0dW9YeU80THc?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
