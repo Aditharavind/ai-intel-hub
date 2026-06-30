@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-30 09:29 UTC
+Last Updated: 2026-06-30 12:03 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-30 | Sonair ADAR One 3D ultrasonic sensor is now safety-certified | Robotics Business Review | [link](https://www.therobotreport.com/sonair-3d-ultrasonic-sensor-is-now-safety-certified/) |
 | 2026-06-29 | MBody AI expands service robotics operations to eleven states and Canada | Robotics Business Review | [link](https://www.therobotreport.com/mbody-ai-expands-service-robotics-operations-eleven-states-canada/) |
 | 2026-06-29 | Advantages of hypoid gearing over worm, bevel and bevel-planetary | Robotics Business Review | [link](https://www.therobotreport.com/advantages-of-hypoid-gearing-over-worm-bevel-and-bevel-planetary/) |
 | 2026-06-29 | BMW Group deploys Figure 03 humanoid after tests with previous version | Robotics Business Review | [link](https://www.therobotreport.com/bmw-group-deploys-figure-03-humanoid-after-tests-previous-version/) |
@@ -44,21 +45,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-27 | We know how to build smarter robots. Now, we need to learn smarter ways to test them | Robotics Business Review | [link](https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/) |
 | 2026-06-27 | How compact cobot integration enhances autonomous mobile robot applications | Robotics Business Review | [link](https://www.therobotreport.com/how-compact-cobot-integration-enhances-autonomous-mobile-robot-applications/) |
 | 2026-06-26 | Orbbec shows AI-powered vision systems at Automate 2026 | Robotics Business Review | [link](https://www.therobotreport.com/orbbec-shows-ai-powered-vision-systems-automate-2026/) |
-| 2026-06-26 | Video Friday: Give Robots a Hand | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robot-grippers) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-30 | Hacking a Reverse Osmosis Water Filter Through its Smart Faucet | Hackaday | [link](https://hackaday.com/2026/06/30/hacking-a-reverse-osmosis-water-filter-through-its-smart-faucet/) |
 | 2026-06-30 | Web Tool Lets You Take Steam Controller for a Drive | Hackaday | [link](https://hackaday.com/2026/06/30/web-tool-lets-you-take-steam-controller-for-a-drive/) |
 | 2026-06-30 | Making a Magnetic Core Memory USB Drive | Hackaday | [link](https://hackaday.com/2026/06/29/making-a-magnetic-core-memory-usb-drive/) |
 | 2026-06-30 | The Terrifying 2011-Era Case of Max Planck’s Retracted Papers | Hackaday | [link](https://hackaday.com/2026/06/29/the-terrifying-2011-era-case-of-max-plancks-retracted-papers/) |
+| 2026-06-30 | WeAct N006 – A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs | CNX Software | [link](https://www.cnx-software.com/2026/06/30/weact-n006-a-compact-nvidia-jetson-orin-nx-carrier-board-designed-for-robots-and-uavs/) |
 | 2026-06-30 | XIAO nRF54LM20A (Sense) board enables ultra-low-power Bluetooth 6.0, Matter, Thread, Zigbee, or 2.4 GHz proprietary applications | CNX Software | [link](https://www.cnx-software.com/2026/06/30/xiao-nrf54lm20a-sense-board-enables-ultra-low-power-bluetooth-6-0-matter-thread-zigbee-or-2-4-ghz-proprietary-applications/) |
 | 2026-06-30 | Banana Pi BPI-VP10 – A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU | CNX Software | [link](https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/) |
-| 2026-06-30 | Diodes DML1012ALDSQ Low RDS(ON) smart load switch for power sequencing | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/power-supplies/diodes-dml1012aldsq-low-rdson-smart-load-switch-for-power-sequencing-2026-06/) |
-| 2026-06-30 | Why moisture is the quiet killer of AI chips | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/why-moisture-is-the-quiet-killer-of-ai-chips-2026-06/) |
-| 2026-06-30 | China phone companies drop 2026 shipment forecasts | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/china-phone-companies-drop-2026-shipment-forecasts-2026-06/) |
-| 2026-06-30 | BT and Verizon form international jv | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/bt-and-verizon-form-international-jv-2026-06/) |
-| 2026-06-30 | Nexchip to raise $890m in Hong Kong | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/nexchip-to-raise-890m-in-hong-kong-2026-06/) |
+| 2026-06-30 | English Is the New C++: Building Physical AI in Hours, Not Months | EE Journal | [link](https://www.eejournal.com/article/english-is-the-new-c-building-physical-ai-in-hours-not-months/) |
+| 2026-06-29 | Hard Drive Speakers Crank Out Classic Demo | Hackaday | [link](https://hackaday.com/2026/06/29/hard-drive-speakers-crank-out-classic-demo/) |
+| 2026-06-29 | Piano Escapement Migrates to Drum Kit | Hackaday | [link](https://hackaday.com/2026/06/29/piano-escapement-migrates-to-drum-kit/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -94,13 +94,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1373 | Rust | 549.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 884 | Python | 353.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 451 | Shell | 180.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 62869 | Python | 25147.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 62887 | Python | 25154.9 | [link](https://github.com/commaai/openpilot) |
+| zauberzeug/nicegui | 15965 | Python | 6386.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15391 | C++ | 6156.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14031 | C++ | 5612.5 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11024 | Rust | 4409.7 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7562 | Python | 3024.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 3940 | Python | 1576.1 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3812 | Rust | 1524.9 | [link](https://github.com/dora-rs/dora) |
+| google-deepmind/mujoco | 14034 | C++ | 5613.7 | [link](https://github.com/google-deepmind/mujoco) |
+| rerun-io/rerun | 11026 | Rust | 4410.5 | [link](https://github.com/rerun-io/rerun) |
+| isaac-sim/IsaacLab | 7564 | Python | 3025.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 3941 | Python | 1576.5 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -120,15 +120,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-06-30 | Japan announces aid for domestic AI development project - The Japan Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxON2thNi1JNzkyUnEtZEh1SUMxNGF3R2pPWWRqMWpZeHVfVG55ckx1T0RvYVJxMzFBLV9XWDNZdlpMUGNFMm9pVkF2MU9kY0h0MTByVXNYeTg3cUttR1FaUXRLWGplOUlvdk4tdUUxal9LZ2JwWk9iS2FJdFd0Nk9yV1NtMEo1d3JhOGpidmZtQQ?oc=5) |
+| 2026-06-30 | China's Greater Bay Area mints two unicorns as embodied AI boom continues - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxQSWd3WVFYRGVMZndTTUloblAwLXA5eXZtc1JJUFMwdWJYQTFUSjBackVnbzczbXMtb2twakF1blB1NmdQODBieUpGbkNGWGJMdmh2RHlNNUxtcWt1NDZPSTZOZzVaTV91dGZ0TXJ4dzh5QURqYTFoaTRoME42a2tuUA?oc=5) |
 | 2026-06-30 | 6 Months, 15 Embodied AI Startups with Valuation Exceeding $10 Billion - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5td2VxYmFPZWhBMWFYVGJHeDhfOHVWdzhGVTVfaHg5cDZGMFJxQzJ4ZFg1UHhMWmlMZ2E0VVVaUUkzejJGY09wNl9MLW9pQ0pHZ3pZ?oc=5) |
+| 2026-06-30 | China's Greater Bay Area mints two unicorns as embodied AI boom continues - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTFA4WkVCdGhPSVpNd0QyM1dEUkd5T2xJRi05NkFwdHNBakp1Zk9acTRWLW8wbkRhM3d0YkVVRnpwSEk0anc3M0lrUG1hdTh2REc1a2xkeUxzTkZPMmpISHFSajBRSEFONEhHZ1NyQ2VwMVR2ZVZwTHpRTjFodm12ZFk?oc=5) |
+| 2026-06-30 | This $5.5 billion robotics startup built a school for humanoids - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWlmbVcyMmdsdEs5RHhjc3l3cWpJSTIySlU4WnRTaW84V25UcVBNRmdQS1Z0b1NTeUE0Z2tkVnBTby1JejNfS3Nla2tiUFlqQjNGU3BKUXBCaUtRVGliWVZQMGJyV3pCZUtHbG9ZWkdVU1VIWGRoS0Fnblh4T2JRaXp6VFhlWGxDR0ctTzFuVFNEUjhnQkNxRWpqbnl6LV93bDlyb0lYS19LZw?oc=5) |
 | 2026-06-30 | China’s humanoid robot valuations soar as investment frenzy stokes bubble fears - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWotUVlwckZEMzBhMjVYTWprNTFjbnN4THpJWEVEd2FnNk40RFRydV8zZTZ5YVM1SFV1dzIwNkN5M08tQTQ4UjFycG5vUlpzejlHNlQ5bnFWaF91SDk3RnZuMVdhZDFldmpoMElxRG0tUFNGWnEzLTlPVUNGWWQ4dWt0VlBVYy1M0gGcAUFVX3lxTE1xWGd2RXp6ZGd1Z2w2QUtOZFdrbzdKMFlzU1c5Z2RUclUzamNDeGNHLU1ZNUtST1ZkWWFraWhwbW9pTXFKNy1UQ05SYlVGa08zZFNNSmxUR0ltZzNPT2VoeTNBVzdFZ29kTm5UVm1SbzNYR2gwYXczaE8ya0dsd1p3bDNxSzdDY0hyUzJfMkFyTDFQWHdvdFhpWGVrbQ?oc=5) |
 | 2026-06-29 | Domestic startup specializes in physical AI usable in real world - Korea.net | physical ai startup | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE9vX2tHbmhiV3ZOb05RNG5vOWpQbk1rUWpRNG0wRm1HLUU3c2RWTUxSdzROT2FHWUI3VXQwQ19URktGQWdQVEF4YTJ3VGt2WDlKNG9Ua2d2dTRZbGVpeWFUYTNtWFNGaXlOY1FxZjJLMA?oc=5) |
 | 2026-06-29 | Mecka AI acquires Docula as it builds the data layer for robotics - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHNqMzJTMjNScG9wZF9HR21KaGdMWXZHUDlqQnUyUENCbVcwcWxfckpPM1I3UjFoTllmUG1lZkRQVVNUd0IxMk96Q0JCUFIyNVpXOEZjRFBaMGpJWGc1MUhYaTZ0Mzd6cEtQS0FjbUp3SWZER1d4Zk0yaVI1NWxWUzdEczd1QVNlbWtobzlkNA?oc=5) |
-| 2026-06-29 | Mecka AI acquires Docula to process motion data - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNmQtdmtkS1NQZGhuRUtrblVqRVZUNk51NXdnWTE2dkFlVUVWWHpZazRxbmctU3RQNHFMenBuMjNVX0lMcFNkVTdCRWR4M2Nmb0JMQ1VoM2VXVlpRRVUzdmxJdUZGZlFWWTNIRG9meFY1TXF2X2txSnVtMHlvNi1jUUpxLXNMRVFRYjNfbWxINWFRLVU?oc=5) |
 | 2026-06-29 | Zhipingfang Hits $2.8B Valuation as Brain-Like AI Era Dawns, Greater Bay Area's First Embodied AI Unicorn - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTHZxOEMtT0tUNUtZWmJFYVB1QlZnQVJRZi1YWjFKSHJZMWp2OHB1YzZycW5iWllkR210bEx2cHBMVmUwN3E3Z2ZGQjR0UFNmVzh0eFhxdkQ5eTNzOG11TVo1elE5anZHZUIwdzF0dW9YeU80THc?oc=5) |
 | 2026-06-29 | Swiss Startup Flexion Robotics Introduces 'Long-Horizon' Autonomous Humanoid Robotics Platform - AI Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNanJ3ZGxkOGFYN0pFUmE1aHN4U1hKblJUSXpEUkFscEh0Q0F2cUIySWJidzIxT3pOU0VURWFRMXFzNFpZOXVLYmRLMGNtbGtnbnhDOXFHWFJvWFgwelBhZkh5LThwdFFxd3p5TDhjWUZXaXlzS2gxbTJpSWo2Nmt1WDRYajlHeVN0LXZUNDQwOS11UDhsOUFUdW9FQnM3ZTFnUENvN0RUSXBRZ1lUWGhxTnRaUF9YcEI3UkpzUmxaT3VzNVNVX1dBUHNn?oc=5) |
-| 2026-06-26 | Robotics startup FieldAI has hit a $100 million milestone - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOS1IejdzVkdiZVVnaE95aWVYcXJnWS16RF9qdWlhdUtaRjh5VWo0aEJ2QVNNTmxLMGVsQU9Sd2Z1SkUwQ0JZZU02cTFiTVFHYjVvcExlUEk0WnRsOWxSYlFIVzBIMFRiUVF2cmtILXpoSXV6Tmhvd1BEWXBSR1pNS21pODBkaHNuNjliWHd5UWtaTVAxZmdsMzM2dzFaX3pTNmtNQ2tBZGxXUQ?oc=5) |
-| 2026-06-25 | How a Chinese physical AI start-up’s new paradigm bypasses US road maps - South China Morning Post | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDJSQVM4eFZjOWpJdmdKc3Q4Y0NySDYydUJINzcyc0NUSzhDMVhSVEJHQm9DNUJVMzR3bjFZTjgydWktT2pHSnNlN1Z1a0Jva0hhenk3VDBhN19UMVlNMEpwTWo5ZzhpX25DOUxUbW9WY1NnWHNRZnY3aG1SME5HOXFHeVdoZ2MtbUE5ckxxNFJ6Zl9iVlp1Wk5EZDJxQW51Zlh2UTEydlZLdngtbXN4ZHg5TFY4TDQwamZFRGVkcG8xOG8zS2xvRlk0dVPSAcwBQVVfeXFMTTVFWDE2MV9yc0l5OXlPREpTbXEzU0tkOVFvMG5IRjZCQXU3ZF9jQ1pDNy1xdkhZZW8tZkdmcVUwWFJualR0eDIzV1kxeHBlSmkwZUl5NTJfR1d2Z3hxNUNxckpDdEFweGpNMFl5SndzeHFWS0I0WWJOa2NUT25PTTFxLU5nSFhheVkxZWFwTmpUc29iTVdXRzBOaUtnVGo5WVU1YWpvRWNobXdYVkRLNWtEZ25DV0UzMVd0SFB2dkNLVDBEc1JRWHdVVGlX?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

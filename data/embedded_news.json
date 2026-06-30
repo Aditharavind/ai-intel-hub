@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hacking a Reverse Osmosis Water Filter Through its Smart Faucet",
+    "source": "Hackaday",
+    "date": "2026-06-30",
+    "url": "https://hackaday.com/2026/06/30/hacking-a-reverse-osmosis-water-filter-through-its-smart-faucet/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"556\" src=\"https://hackaday.com/wp-content/uploads/2026/06/waterdrop_ro_breadboard-prototype.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Reverse-osmosis (RO) systems are one way to ensure that you get very clean drinking water. The Waterdrop G3P600 variety that [Tomasz Wasilczyk] recently purchased is definitely among the fanciest and <a class=\"read-more\" href=\"https://hackaday.com/2026/06/30/hacking-a-reverse-osmosis-water-filter-through-its-smart-faucet/\">&#8230;read more</a>"
+  },
+  {
     "title": "Web Tool Lets You Take Steam Controller for a Drive",
     "source": "Hackaday",
     "date": "2026-06-30",
@@ -21,6 +28,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"252\" src=\"https://hackaday.com/wp-content/uploads/2026/06/max_planck_retractions.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In the world of scientific publishing there are many reasons why a paper can be retracted, but generally there is an obvious and clearly communicated reason for doing so. Thus <a class=\"read-more\" href=\"https://hackaday.com/2026/06/29/the-terrifying-2011-era-case-of-max-plancks-retracted-papers/\">&#8230;read more</a>"
   },
   {
+    "title": "WeAct N006 – A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs",
+    "source": "CNX Software",
+    "date": "2026-06-30",
+    "url": "https://www.cnx-software.com/2026/06/30/weact-n006-a-compact-nvidia-jetson-orin-nx-carrier-board-designed-for-robots-and-uavs/",
+    "summary": "<div><img alt=\"WeAct N006\" class=\"attachment-medium size-medium wp-post-image\" height=\"481\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/WeAct-N006-720x481.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>WeAct N006 is a carrier board for NVIDIA Jetson Orin NX 8GB/16GB, specifically designed for robots and UAVs with a compact (90x60mm) form factor that&#8217;s barely larger than a credit card. The board features an HDMI video output, a Gigabit Ethernet port, two M.2 sockets for NVMe storage and WiFi/Bluetooth connectivity, two MIPI CSI camera interfaces, three USB 3.2 ports, various connectors for GPIO, I2C, UART, and CAN Bus, and an XT30 connector for 16V to 28V DC input. WeAct N006 specifications: Supported SoM &#8211; NVIDIA Jetson Orin NX 8GB/16GB up to 40W Super Mode Storage &#8211; M.2 Key-M socket for M.2 2242 NVMe SSD Video Output &#8211; HDMI port Camera &#8211; 2x 4-lame MIPI DSI interface Networking Gigabit Ethernet RJ45 port Optional WiFi and Bluetooth via M.2 Key-E socket USB 2x USB 3.1 (10 Gbps) Type-A ports USB 3.2 Gen 2 (10 Gbps) OTG Type-C port Serial 4-pin CAN [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/30/weact-n006-a-compact-nvidia-jetson-orin-nx-carrier-board-designed-for-robots-and-uavs/\">WeAct N006 &#8211; A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "XIAO nRF54LM20A (Sense) board enables ultra-low-power Bluetooth 6.0, Matter, Thread, Zigbee, or 2.4 GHz proprietary applications",
     "source": "CNX Software",
     "date": "2026-06-30",
@@ -35,67 +49,11 @@
     "summary": "<div><img alt=\"Banana Pi BPI-VP10 with metal case and servo\" class=\"attachment-medium size-medium wp-post-image\" height=\"479\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Banana-Pi-BPI-VP10-metal-case-servo-720x479.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Banana Pi BPI-VP10 is a low-cost servo control board based on the Fortior FU7512L RISC-V MCU and the FD6288Q pre-driver chip, designed for industrial control applications that rely on 100W/200W servos. The servo motor control board supports multiple control modes, including pulse/direction, analog, and RS485, and is compatible with absolute encoders (Tamagawa/BiSS-C protocols), incremental encoders, and Hall encoders. The BPI-VP10 board, also called BPI-BJ2403N, aims to provide an easy-to-source platform for developers to experiment with the FU7512L microcontroller and design projects or products around it. Banana Pi BPI-VP10 (FU7512L-SVDriver) specifications: Microcontroller &#8211; Fortior Technology FU7512L CPU 32-bit RISC-V core @ 48 MHz ME2 motor engine core @ 48 MHz with FOC module and CORDIC module Memory – 12kB SRAM, 4kB PRAM for program execution Storage – 64kB Flash with ECC and CRC, self-programming, and code protection Encoder Support &#8211; Absolute encoders (Tamagawa/BiSS-C protocols), incremental encoders, and Hall encoders. Pulse Input &#8211;  [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/\">Banana Pi BPI-VP10 &#8211; A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Diodes DML1012ALDSQ Low RDS(ON) smart load switch for power sequencing",
-    "source": "Electronics Weekly",
+    "title": "English Is the New C++: Building Physical AI in Hours, Not Months",
+    "source": "EE Journal",
     "date": "2026-06-30",
-    "url": "https://www.electronicsweekly.com/news/products/power-supplies/diodes-dml1012aldsq-low-rdson-smart-load-switch-for-power-sequencing-2026-06/",
-    "summary": "<p>Diodes is introducing its DML1012ALDSQ, an automotive-compliant low drain-source on-resistance N-channel MOSFET smart load switch. The device is aimed at power sequencing and power rail control in automotive applications that ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/power-supplies/diodes-dml1012aldsq-low-rdson-smart-load-switch-for-power-sequencing-2026-06/\">Diodes DML1012ALDSQ Low RDS(ON) smart load switch for power sequencing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Why moisture is the quiet killer of AI chips",
-    "source": "Electronics Weekly",
-    "date": "2026-06-30",
-    "url": "https://www.electronicsweekly.com/news/business/why-moisture-is-the-quiet-killer-of-ai-chips-2026-06/",
-    "summary": "<p>Moisture is an often-ignored threat to electronics. Ajay Sekar suggests some ways to reduce its impact. Figure 1: Chip package cross-section — moisture ingress pathways. Vertical cross-section of a 2.5D ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/why-moisture-is-the-quiet-killer-of-ai-chips-2026-06/\">Why moisture is the quiet killer of AI chips</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "China phone companies drop 2026 shipment forecasts",
-    "source": "Electronics Weekly",
-    "date": "2026-06-30",
-    "url": "https://www.electronicsweekly.com/news/business/china-phone-companies-drop-2026-shipment-forecasts-2026-06/",
-    "summary": "<p>Xiaomi, Oppo and Vivo have told suppliers they will again cut shipment targets by up to 30% because of memory costs and shortages, reports the Nikkei.  Xiaomi was looking to ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/china-phone-companies-drop-2026-shipment-forecasts-2026-06/\">China phone companies drop 2026 shipment forecasts</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "BT and Verizon form international jv",
-    "source": "Electronics Weekly",
-    "date": "2026-06-30",
-    "url": "https://www.electronicsweekly.com/news/business/bt-and-verizon-form-international-jv-2026-06/",
-    "summary": "<p>BT and Verizon are to combine their respective international operations into a 50:50 jv. The jv will serve multinational organisations. It is expected to serve more than 3,000 customers across ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/bt-and-verizon-form-international-jv-2026-06/\">BT and Verizon form international jv</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Nexchip to raise $890m in Hong Kong",
-    "source": "Electronics Weekly",
-    "date": "2026-06-30",
-    "url": "https://www.electronicsweekly.com/news/business/nexchip-to-raise-890m-in-hong-kong-2026-06/",
-    "summary": "<p>China&#8217;s third largest silicon foundry, Nexchip Semiconductor, is to raise $890 million on the Hong Kong stock exchange. Nexchip ranks third, after SMIC and Hua Hong, in China’s foundry industry. ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nexchip-to-raise-890m-in-hong-kong-2026-06/\">Nexchip to raise $890m in Hong Kong</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "SiTime adds Chorus 2",
-    "source": "Electronics Weekly",
-    "date": "2026-06-30",
-    "url": "https://www.electronicsweekly.com/news/business/sitime-adds-chorus-2-2026-06/",
-    "summary": "<p>SiTime Chorus 2, a wide-frequency-range programmable clock generator, replaces up to 8 or 12 discrete oscillators or clock signals with a single device. With up to 20 flexible configurations, each output ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/sitime-adds-chorus-2-2026-06/\">SiTime adds Chorus 2</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Over-voltage over-temperature protection devices from Schurter",
-    "source": "Electronics Weekly",
-    "date": "2026-06-30",
-    "url": "https://www.electronicsweekly.com/news/business/over-voltage-over-temperature-protection-2026-06/",
-    "summary": "<p>Schurter’s new  PPTC series PFTA, PFTB, PFTC and PFTL provide reliable resettable overcurrent and overtemperature protection for modern electronic applications. In the event of a fault, the polymer PTC device ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/over-voltage-over-temperature-protection-2026-06/\">Over-voltage over-temperature protection devices from Schurter</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Kyocera launches antenna finder",
-    "source": "Electronics Weekly",
-    "date": "2026-06-30",
-    "url": "https://www.electronicsweekly.com/news/business/kyocera-2-2026-06/",
-    "summary": "<p>Kyocera has brought out  an RF engineering tool — the Antenna Integrator Studio. Selecting the right antenna and the right PCB positioning for that antenna is a crucial part of ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/kyocera-2-2026-06/\">Kyocera launches antenna finder</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "UK-US Comms Satellite Talks",
-    "source": "Electronics Weekly",
-    "date": "2026-06-30",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/uk-us-comms-satellite-talks-2026-06/",
-    "summary": "<p>A TEAM from the United Kingdom arrived in Washington on Sunday for technical discussions on the possible use of earth satellites for communications systems. The talks are being held with ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/uk-us-comms-satellite-talks-2026-06/\">UK-US Comms Satellite Talks</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.eejournal.com/article/english-is-the-new-c-building-physical-ai-in-hours-not-months/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/06/max-0496-image-for-home-page-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />It’s a bit embarrassing to realize that you’ve been wrong about something for several years, but that’s the position in which I currently find myself (don’t tell my dear old mum or I’ll never hear the end of it). Ever since I was first introduced to the folks at SiMa Technologies (SiMa.ai), I’ve been under &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/english-is-the-new-c-building-physical-ai-in-hours-not-months/\">Read More &#8594;<span class=\"screen-reader-text\"> \"English Is the New C++: Building Physical AI in Hours, Not Months\"</span></a>"
   },
   {
     "title": "Hard Drive Speakers Crank Out Classic Demo",
@@ -117,13 +75,6 @@
     "date": "2026-06-29",
     "url": "https://hackaday.com/2026/06/29/2026-frikkin-lasers-challenge-super-simple-laser-precision-for-your-stargazing/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"451\" src=\"https://hackaday.com/wp-content/uploads/2026/06/laserpointer-astrohopper-e1782680588830.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Perhaps the hardest thing for amateur astronomers just starting out is finding the things you want to look at. Prolific maker [mircemk] has submitted a quick-and-easy star-hopper device that will <a class=\"read-more\" href=\"https://hackaday.com/2026/06/29/2026-frikkin-lasers-challenge-super-simple-laser-precision-for-your-stargazing/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Hackaday Europe 2026 – Building A Retro PC From Scratch",
-    "source": "Hackaday",
-    "date": "2026-06-29",
-    "url": "https://hackaday.com/2026/06/29/hackaday-europe-2026-building-a-retro-pc-from-scratch/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/jeroen_screeny.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you&#8217;re big into retrocomputing, you probably spend a lot of time chasing parts and machines on online classifieds or through local swap meets. But what if there was a <a class=\"read-more\" href=\"https://hackaday.com/2026/06/29/hackaday-europe-2026-building-a-retro-pc-from-scratch/\">&#8230;read more</a>"
   },
   {
     "title": "Waveshare ESP32-C6-Zero-B  – A tiny ESP32-C6 USB-C board with 5V-36V wide supply voltage",
@@ -166,13 +117,6 @@
     "date": "2026-06-29",
     "url": "https://www.embedded.com/qualinx-integrates-galileo-osnma-into-gnss-receiver/",
     "summary": "<p>Qualinx has completed the integration of Galileo OSNMA (Open Service Navigation Message Authentication) into its QLX3Gx series of ultra-low-power GNSS receivers, making authenticated satellite positioning available for battery-powered devices without increasing power consumption or system complexity. Developed with support from the European Union Agency for the Space Programme (EUSPA), the new implementation is designed to [...]</p>\n<p>The post <a href=\"https://www.embedded.com/qualinx-integrates-galileo-osnma-into-gnss-receiver/\">Qualinx Integrates Galileo OSNMA into GNSS Receiver</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Dstl celebrates 25 years of defence technology",
-    "source": "Electronics Weekly",
-    "date": "2026-06-29",
-    "url": "https://www.electronicsweekly.com/news/dstl-celebrates-25-years-of-defence-technology-2026-06/",
-    "summary": "<p>The UK’s Defence Science and Technology Laboratory (Dstl) is celebrating its twenty-fifth birthday, this week. It was created 1 July 2001. DSTL is highlighting some of the next‑generation technologies it ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/dstl-celebrates-25-years-of-defence-technology-2026-06/\">Dstl celebrates 25 years of defence technology</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "A new DIY handheld tricorder-like device",
@@ -329,13 +273,6 @@
     "summary": "<div><img alt=\"CHUWI Intel Core 3 304 Widlcat Lake laptop\" class=\"attachment-medium size-medium wp-post-image\" height=\"540\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/CHUWI-Intel-Core-3-304-Widlcat-Lake-laptop-720x540.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>CHUWI has just opened pre-orders for the $449 UniBook Laptop powered by an Intel Core 3 304 penta-core &#8220;Wildcat Lake&#8221; SoC, and equipped with 8GB LPDDR5 RAM, a 256GB NVMe SSD, and a 14-inch 1920×1200 IPS display. It looks like the Wildcat Lake era has finally started. Intel officially launched the Core Series 3 Wildcat Lake family in April 2026, after showcasing it at CES 2026 in January, and while we covered a few upcoming industrial/embedded Wildcat Lake platforms, I was also waiting for consumer products that could be bought or at least pre-ordered. As noted in our article about the UP WCL credit card-sized Wildcat Lake SBC, the Intel Core 5 520 Dell XPS 13 laptop was one of the first Core Series 3 laptops on the market. The CHUWI UniBook adds an entry-level option, so let&#8217;s have a closer look. CHUWI UniBook laptop specifications: SoC &#8211; Intel Core [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/26/449-chuwi-unibook-14-inch-laptop-is-powered-by-an-intel-core-3-304-wildcat-lake-processor/\">$449 CHUWI UniBook 14-inch laptop is powered by an Intel Core 3 304 Wildcat Lake processor</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Firefly AIBOX-9075 Edge AI box features 200 TOPS Qualcomm IQ-9075 SoC, 36GB LPDDR5, industrial I/Os",
-    "source": "CNX Software",
-    "date": "2026-06-26",
-    "url": "https://www.cnx-software.com/2026/06/26/firefly-aibox-9075-edge-ai-box-features-qualcomm-iq-9075-soc-with-200-tops-npu-36gb-lpddr5/",
-    "summary": "<div><img alt=\"Firefly AIBOX 9075\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Firefly-AIBOX-9075-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The AIBOX-9075 is an industrial Edge AI box built around the Qualcomm IQ-9075 SoC, designed for running AI workloads directly on the device without relying on the cloud. With up to 200 TOPS of AI performance, it is designed for edge computing, private LLM deployment, robotics, computer vision, and more. The system comes with 36GB LPDDR5 ECC memory, 128GB UFS 2.2 storage, and an M.2 PCIe 4.0 NVMe SSD slot. Connectivity options include dual 2.5GbE with TSN, optional Wi-Fi 6, Bluetooth 5.2, and 4G/5G, while peripheral interfaces include eight GMSL2 camera inputs, HDMI 2.0, USB 3.0, CAN-FD, RS485, and opto-isolated digital I/O. Its rugged aluminum enclosure operates from -40°C to 85°C, making it suitable for continuous deployment in industrial and outdoor environments. Firefly AIBOX-9075 specifications: SoC – Qualcomm DragonWing IQ-9075 CPU Octa-core Kryo Gen 6 (Cortex-A78C-based) application cores @ up to 2.36 GHz Quad-core Cortex-R52 real-time cores @ up to 1.85GHz [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/26/firefly-aibox-9075-edge-ai-box-features-qualcomm-iq-9075-soc-with-200-tops-npu-36gb-lpddr5/\">Firefly AIBOX-9075 Edge AI box features 200 TOPS Qualcomm IQ-9075 SoC, 36GB LPDDR5, industrial I/Os</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
     "title": "Cyber Resilience Act, From Silicon to Systems, WBG Semiconductor Partnerships: Embedded Week Insights",
     "source": "Embedded.com",
     "date": "2026-06-26",
@@ -390,13 +327,6 @@
     "date": "2026-06-25",
     "url": "https://www.eejournal.com/industry_news/new-he-s-sc-relay-series-offers-latest-iec-62955-compliance-for-next-generation-single-phase-ev-charging-systems/",
     "summary": "Panasonic Industry today announced its new compact HE-S SC 2a and HE-S SC 2a1b PCB relay series, specifically developed for single-phase EV charging systems and wallbox applications. The new relay series is already fully compliant with the upcoming European short-circuit test in the standard IEC 62955, which becomes mandatory in Q4 2028. The HE-S SC &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/new-he-s-sc-relay-series-offers-latest-iec-62955-compliance-for-next-generation-single-phase-ev-charging-systems/\">Read More &#8594;<span class=\"screen-reader-text\"> \"New HE-S SC relay series offers latest IEC 62955 compliance for next-generation single-phase EV charging systems\"</span></a>"
-  },
-  {
-    "title": "Impulse Embedded Supports Industrial Edge Projects with AAEON BOXER-6648-ARS Series",
-    "source": "EE Journal",
-    "date": "2026-06-25",
-    "url": "https://www.eejournal.com/industry_news/impulse-embedded-supports-industrial-edge-projects-with-aaeon-boxer-6648-ars-series/",
-    "summary": "Impulse Embedded Ltd, a leading UK provider of industrial computing solutions, is helping UK customers specify the AAEON BOXER-6648-ARS Series, a compact fanless embedded computer range powered by Intel Core Ultra Processors Series 2. The BOXER-6648-ARS Series is built for industrial edge computing, machine vision, automation, virtualisation and control applications. It combines high-performance processing with a &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/impulse-embedded-supports-industrial-edge-projects-with-aaeon-boxer-6648-ars-series/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Impulse Embedded Supports Industrial Edge Projects with AAEON BOXER-6648-ARS Series\"</span></a>"
   },
   {
     "title": "Eggtronic, Renesas Unveil GaN-Based Microinverter Reference Design",
