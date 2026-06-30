@@ -1,5 +1,12 @@
 [
   {
+    "title": "Building a Micrometer-Level Displacement Sensor with 3D Printed Parts",
+    "source": "Hackaday",
+    "date": "2026-06-30",
+    "url": "https://hackaday.com/2026/06/30/building-a-micrometer-level-displacement-sensor-with-3d-printed-parts/",
+    "summary": "<div><img alt=\"A grey box surrounding a circular red component is mounted on an aluminium extrusion frame. The circular red face has a protrusion extending from it with a white ball bearing at the tip.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/displacement_sensor.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Every experienced machinist knows the value of taking regular measurements. If one works carefully and checks dimensions frequently, it’s possible to make a part much more precise than could be <a class=\"read-more\" href=\"https://hackaday.com/2026/06/30/building-a-micrometer-level-displacement-sensor-with-3d-printed-parts/\">&#8230;read more</a>"
+  },
+  {
     "title": "Microsoft’s Topological Quantum Computing Claims Once Again In Question",
     "source": "Hackaday",
     "date": "2026-06-30",
@@ -42,13 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"466\" src=\"https://hackaday.com/wp-content/uploads/2026/06/core_memory_usb_drive_polymatt_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Some of us have felt somewhat nervous about the collapse of DRAM and NAND Flash memory supply in the consumer market, while others seem to have fully embraced it. Someone <a class=\"read-more\" href=\"https://hackaday.com/2026/06/29/making-a-magnetic-core-memory-usb-drive/\">&#8230;read more</a>"
   },
   {
-    "title": "The Terrifying 2011-Era Case of Max Planck’s Retracted Papers",
-    "source": "Hackaday",
-    "date": "2026-06-30",
-    "url": "https://hackaday.com/2026/06/29/the-terrifying-2011-era-case-of-max-plancks-retracted-papers/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"252\" src=\"https://hackaday.com/wp-content/uploads/2026/06/max_planck_retractions.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In the world of scientific publishing there are many reasons why a paper can be retracted, but generally there is an obvious and clearly communicated reason for doing so. Thus <a class=\"read-more\" href=\"https://hackaday.com/2026/06/29/the-terrifying-2011-era-case-of-max-plancks-retracted-papers/\">&#8230;read more</a>"
-  },
-  {
     "title": "WeAct N006 – A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs",
     "source": "CNX Software",
     "date": "2026-06-30",
@@ -68,6 +68,13 @@
     "date": "2026-06-30",
     "url": "https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/",
     "summary": "<div><img alt=\"Banana Pi BPI-VP10 with metal case and servo\" class=\"attachment-medium size-medium wp-post-image\" height=\"479\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Banana-Pi-BPI-VP10-metal-case-servo-720x479.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Banana Pi BPI-VP10 is a low-cost servo control board based on the Fortior FU7512L RISC-V MCU and the FD6288Q pre-driver chip, designed for industrial control applications that rely on 100W/200W servos. The servo motor control board supports multiple control modes, including pulse/direction, analog, and RS485, and is compatible with absolute encoders (Tamagawa/BiSS-C protocols), incremental encoders, and Hall encoders. The BPI-VP10 board, also called BPI-BJ2403N, aims to provide an easy-to-source platform for developers to experiment with the FU7512L microcontroller and design projects or products around it. Banana Pi BPI-VP10 (FU7512L-SVDriver) specifications: Microcontroller &#8211; Fortior Technology FU7512L CPU 32-bit RISC-V core @ 48 MHz ME2 motor engine core @ 48 MHz with FOC module and CORDIC module Memory – 12kB SRAM, 4kB PRAM for program execution Storage – 64kB Flash with ECC and CRC, self-programming, and code protection Encoder Support &#8211; Absolute encoders (Tamagawa/BiSS-C protocols), incremental encoders, and Hall encoders. Pulse Input &#8211;  [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/\">Banana Pi BPI-VP10 &#8211; A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "TeleCANesis Launches Version 1.1 of its Connectivity Platform",
+    "source": "Embedded.com",
+    "date": "2026-06-30",
+    "url": "https://www.embedded.com/telecanesis-launches-version-1-1-of-its-connectivity-platform/",
+    "summary": "<p>TeleCANesis Inc. has released version 1.1 of its connectivity middleware platform, introducing new workflow capabilities designed to simplify embedded system development and reduce repetitive configuration tasks. Based largely on customer feedback, the latest version focuses on improving the reusability of connectivity definitions across projects, enabling engineering teams to develop and maintain complex embedded applications more [...]</p>\n<p>The post <a href=\"https://www.embedded.com/telecanesis-launches-version-1-1-of-its-connectivity-platform/\">TeleCANesis Launches Version 1.1 of its Connectivity Platform</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "Sensing and Positioning Payloads in LEO Satellites",
@@ -418,12 +425,5 @@
     "date": "2026-06-24",
     "url": "https://www.embedded.com/from-silicon-to-systems-reimagining-the-future-of-embedded-engineering/",
     "summary": "<p>For decades, progress in the electronics industry was measured primarily through advances in silicon. Faster processing, lower power consumption, greater integration, and shrinking form factors consistently pushed the industry forward and enabled entirely new categories of products and services. That model of innovation is no longer sufficient on its own. For all the technological progress [...]</p>\n<p>The post <a href=\"https://www.embedded.com/from-silicon-to-systems-reimagining-the-future-of-embedded-engineering/\">From Silicon to Systems: Reimagining the Future of Embedded Engineering</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Mubina Toa: Engineering Is Both Rewarding and Fun",
-    "source": "Embedded.com",
-    "date": "2026-06-23",
-    "url": "https://www.embedded.com/mubina-toa-engineering-is-both-rewarding-and-fun/",
-    "summary": "<p>Growing up in a family of engineers, Mubina Toa caught the engineering bug early. Though she told herself that she would never be an engineer, the \"gadget revolution\" introduced her to a new world of electronic devices. In celebration of International Women in Engineering Day, embedded.com spoke with Mubina Toa, systems engineering manager, current sensing, [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mubina-toa-engineering-is-both-rewarding-and-fun/\">Mubina Toa: Engineering Is Both Rewarding and Fun</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
