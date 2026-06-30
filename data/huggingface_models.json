@@ -1,5 +1,50 @@
 [
   {
+    "model": "LohanTS/mon-model-robot-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/LohanTS/mon-model-robot-v2",
+    "date": "2026-06-30",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "DAVIAN-Robotics/3D_HAMSTER",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/DAVIAN-Robotics/3D_HAMSTER",
+    "date": "2026-06-30",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "kairos-agi/Kairos3.1-4B-robot-480P",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kairos-agi/Kairos3.1-4B-robot-480P",
+    "date": "2026-06-30",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "pollen-robotics/wake-word-detector",
+    "downloads": 176,
+    "likes": 0,
+    "url": "https://huggingface.co/pollen-robotics/wake-word-detector",
+    "date": "2026-06-30",
+    "keyword": "robotics",
+    "score": 52.9
+  },
+  {
+    "model": "scilwb/robotwin-pi05-adjust-bottle-sft-long",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/scilwb/robotwin-pi05-adjust-bottle-sft-long",
+    "date": "2026-06-30",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head0p8789_0p0011_vlmfreeze",
     "downloads": 0,
     "likes": 0,
@@ -54,6 +99,24 @@
     "score": 0.1
   },
   {
+    "model": "quhongyu123/laMem-VLA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/quhongyu123/laMem-VLA",
+    "date": "2026-06-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "VladJevr/Wan",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VladJevr/Wan",
+    "date": "2026-06-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "LianYeSong/RPT-VLA",
     "downloads": 0,
     "likes": 0,
@@ -81,6 +144,33 @@
     "score": 0.1
   },
   {
+    "model": "3cda2225/record-testN_filtered_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/3cda2225/record-testN_filtered_act_policy",
+    "date": "2026-06-30",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "3cda2225/record-testN_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/3cda2225/record-testN_act_policy",
+    "date": "2026-06-30",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ameimei/cosmos3-action-policy-iter1000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ameimei/cosmos3-action-policy-iter1000",
+    "date": "2026-06-30",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
     "downloads": 0,
     "likes": 0,
@@ -99,67 +189,22 @@
     "score": 0.1
   },
   {
-    "model": "DAVIAN-Robotics/3D_HAMSTER",
+    "model": "random-sequence/flock-robotics-qwen25vl-vla-4b",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/3D_HAMSTER",
+    "url": "https://huggingface.co/random-sequence/flock-robotics-qwen25vl-vla-4b",
     "date": "2026-06-29",
     "keyword": "robotics",
     "score": 0.1
   },
   {
-    "model": "pollen-robotics/wake-word-detector",
-    "downloads": 174,
-    "likes": 0,
-    "url": "https://huggingface.co/pollen-robotics/wake-word-detector",
-    "date": "2026-06-29",
-    "keyword": "robotics",
-    "score": 52.3
-  },
-  {
     "model": "jialei02/lawam_robotwin_sft_release",
-    "downloads": 16,
+    "downloads": 18,
     "likes": 0,
     "url": "https://huggingface.co/jialei02/lawam_robotwin_sft_release",
     "date": "2026-06-29",
     "keyword": "robot",
-    "score": 4.9
-  },
-  {
-    "model": "Hiwonder-robot/Cube2Plate",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Hiwonder-robot/Cube2Plate",
-    "date": "2026-06-29",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "kairos-agi/kairos-4B-robot-RoboTwin2.0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kairos-agi/kairos-4B-robot-RoboTwin2.0",
-    "date": "2026-06-29",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "kairos-agi/kairos-4B-robot-LIBERO-plus",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kairos-agi/kairos-4B-robot-LIBERO-plus",
-    "date": "2026-06-29",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "kairos-agi/kairos-4B-robot-3.1-480P",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kairos-agi/kairos-4B-robot-3.1-480P",
-    "date": "2026-06-29",
-    "keyword": "robot",
-    "score": 0.1
+    "score": 5.5
   },
   {
     "model": "sam-guided-vlas/results",
@@ -207,15 +252,6 @@
     "score": 0.1
   },
   {
-    "model": "VladJevr/Wan",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/VladJevr/Wan",
-    "date": "2026-06-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "vrfai/vla-jepa-libero",
     "downloads": 0,
     "likes": 0,
@@ -229,24 +265,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/huh2332/vla",
-    "date": "2026-06-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "siyuhsu/vla_arena_ctxdemo_alwaysdemo_step18000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/siyuhsu/vla_arena_ctxdemo_alwaysdemo_step18000",
-    "date": "2026-06-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "GT-111/MemCode-VLA",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/GT-111/MemCode-VLA",
     "date": "2026-06-29",
     "keyword": "vla",
     "score": 0.1
@@ -307,12 +325,12 @@
   },
   {
     "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos1_v2_policy0",
-    "downloads": 0,
+    "downloads": 30,
     "likes": 0,
     "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos1_v2_policy0",
     "date": "2026-06-29",
     "keyword": "policy",
-    "score": 0.1
+    "score": 9.1
   },
   {
     "model": "pierreprecieuse/record-test_20260629_234149-policy",
@@ -340,33 +358,6 @@
     "date": "2026-06-29",
     "keyword": "policy",
     "score": 4.6
-  },
-  {
-    "model": "MakinoKF/pick-closest-lined-nut-dataset_act-policy-v1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MakinoKF/pick-closest-lined-nut-dataset_act-policy-v1",
-    "date": "2026-06-29",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Wayer2/policy-test",
-    "downloads": 79,
-    "likes": 0,
-    "url": "https://huggingface.co/Wayer2/policy-test",
-    "date": "2026-06-29",
-    "keyword": "policy",
-    "score": 23.8
-  },
-  {
-    "model": "devikaskumar/act_policy_5_pos_data",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/devikaskumar/act_policy_5_pos_data",
-    "date": "2026-06-29",
-    "keyword": "policy",
-    "score": 0.1
   },
   {
     "model": "cy0307/d-world-model",
@@ -414,24 +405,6 @@
     "score": 10.3
   },
   {
-    "model": "L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_speedup_v2",
-    "downloads": 34,
-    "likes": 0,
-    "url": "https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_conveyor_dynamic_speedup_v2",
-    "date": "2026-06-26",
-    "keyword": "robotics",
-    "score": 10.3
-  },
-  {
-    "model": "L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v2",
-    "downloads": 32,
-    "likes": 0,
-    "url": "https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v2",
-    "date": "2026-06-26",
-    "keyword": "robotics",
-    "score": 9.7
-  },
-  {
     "model": "qualia-robotics/pi05-openarm-cube-distractor-lang-v3-rel-june25-6a2b4c5d",
     "downloads": 36,
     "likes": 0,
@@ -460,12 +433,12 @@
   },
   {
     "model": "SaFD-00/qwen2.5-vl-7b-ac-exp02-world-model-stage1-lora-epoch3",
-    "downloads": 18,
+    "downloads": 19,
     "likes": 0,
     "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-7b-ac-exp02-world-model-stage1-lora-epoch3",
     "date": "2026-06-24",
     "keyword": "world model",
-    "score": 5.5
+    "score": 5.8
   },
   {
     "model": "SaFD-00/qwen3-vl-8b-ac-exp03-world-model-stage1-lora-epoch3",
@@ -487,12 +460,12 @@
   },
   {
     "model": "tencent/Hy-Embodied-0.5-VLA-RoboTwin",
-    "downloads": 227,
+    "downloads": 229,
     "likes": 7,
     "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin",
     "date": "2026-06-23",
     "keyword": "embodied",
-    "score": 69.6
+    "score": 70.2
   },
   {
     "model": "AMD-PAVS-AI/Robotics_DevKit_models",
@@ -585,13 +558,22 @@
     "score": 0.1
   },
   {
+    "model": "puppet-robotics/golf-model-eval",
+    "downloads": 18,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/golf-model-eval",
+    "date": "2026-06-18",
+    "keyword": "robotics",
+    "score": 5.5
+  },
+  {
     "model": "BrinqAI/functiongemma-270m-physical-ai",
-    "downloads": 202,
+    "downloads": 217,
     "likes": 0,
     "url": "https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai",
     "date": "2026-06-15",
     "keyword": "physical ai",
-    "score": 60.7
+    "score": 65.2
   },
   {
     "model": "IffYuan/Embodied-R1.5",
@@ -739,12 +721,12 @@
   },
   {
     "model": "fbarbosa1/pi05_so101_embodied_v1",
-    "downloads": 38,
+    "downloads": 12,
     "likes": 0,
     "url": "https://huggingface.co/fbarbosa1/pi05_so101_embodied_v1",
     "date": "2026-05-31",
     "keyword": "embodied",
-    "score": 11.5
+    "score": 3.7
   },
   {
     "model": "Frankkkk2003/cheers_navigation_teacher",
@@ -757,12 +739,12 @@
   },
   {
     "model": "Frankkkk2003/cheers_navigation_sft",
-    "downloads": 17,
+    "downloads": 6,
     "likes": 0,
     "url": "https://huggingface.co/Frankkkk2003/cheers_navigation_sft",
     "date": "2026-05-28",
     "keyword": "navigation",
-    "score": 5.2
+    "score": 1.9
   },
   {
     "model": "AutomatedScientist/qwen3-8b-stateless-navigation-lora",
@@ -820,12 +802,12 @@
   },
   {
     "model": "sukixp/vt-navigation-llama-3b",
-    "downloads": 1,
+    "downloads": 2,
     "likes": 1,
     "url": "https://huggingface.co/sukixp/vt-navigation-llama-3b",
     "date": "2026-03-31",
     "keyword": "navigation",
-    "score": 0.6
+    "score": 0.9
   },
   {
     "model": "smolify/smolified-hospital-navigation-system",

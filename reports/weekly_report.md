@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-30 05:59 UTC
+Generated: 2026-06-30 09:29 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-06-30 05:59 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82117 | 32846.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62830 | 25132.1 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29897 | 11958.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15964 | 6385.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15388 | 6155.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| Developer-Y/cs-video-courses | 82131 | 32852.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62869 | 25147.7 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29898 | 11959.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15965 | 6386.1 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15391 | 6156.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | IffYuan/Embodied-R1.5 | 648 | 194.5 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
-| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 227 | 69.6 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
+| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 229 | 70.2 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 215 | 66.0 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
-| BrinqAI/functiongemma-270m-physical-ai | 202 | 60.7 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
-| pollen-robotics/wake-word-detector | 174 | 52.3 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
+| BrinqAI/functiongemma-270m-physical-ai | 217 | 65.2 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
+| pollen-robotics/wake-word-detector | 176 | 52.9 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-06-30 05:59 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-06-30 | Japan announces aid for domestic AI development project - The Japan Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxON2thNi1JNzkyUnEtZEh1SUMxNGF3R2pPWWRqMWpZeHVfVG55ckx1T0RvYVJxMzFBLV9XWDNZdlpMUGNFMm9pVkF2MU9kY0h0MTByVXNYeTg3cUttR1FaUXRLWGplOUlvdk4tdUUxal9LZ2JwWk9iS2FJdFd0Nk9yV1NtMEo1d3JhOGpidmZtQQ?oc=5) |
 | 2026-06-30 | 6 Months, 15 Embodied AI Startups with Valuation Exceeding $10 Billion - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5td2VxYmFPZWhBMWFYVGJHeDhfOHVWdzhGVTVfaHg5cDZGMFJxQzJ4ZFg1UHhMWmlMZ2E0VVVaUUkzejJGY09wNl9MLW9pQ0pHZ3pZ?oc=5) |
+| 2026-06-30 | China’s humanoid robot valuations soar as investment frenzy stokes bubble fears - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWotUVlwckZEMzBhMjVYTWprNTFjbnN4THpJWEVEd2FnNk40RFRydV8zZTZ5YVM1SFV1dzIwNkN5M08tQTQ4UjFycG5vUlpzejlHNlQ5bnFWaF91SDk3RnZuMVdhZDFldmpoMElxRG0tUFNGWnEzLTlPVUNGWWQ4dWt0VlBVYy1M0gGcAUFVX3lxTE1xWGd2RXp6ZGd1Z2w2QUtOZFdrbzdKMFlzU1c5Z2RUclUzamNDeGNHLU1ZNUtST1ZkWWFraWhwbW9pTXFKNy1UQ05SYlVGa08zZFNNSmxUR0ltZzNPT2VoeTNBVzdFZ29kTm5UVm1SbzNYR2gwYXczaE8ya0dsd1p3bDNxSzdDY0hyUzJfMkFyTDFQWHdvdFhpWGVrbQ?oc=5) |
 | 2026-06-29 | Domestic startup specializes in physical AI usable in real world - Korea.net | physical ai startup | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE9vX2tHbmhiV3ZOb05RNG5vOWpQbk1rUWpRNG0wRm1HLUU3c2RWTUxSdzROT2FHWUI3VXQwQ19URktGQWdQVEF4YTJ3VGt2WDlKNG9Ua2d2dTRZbGVpeWFUYTNtWFNGaXlOY1FxZjJLMA?oc=5) |
 | 2026-06-29 | Mecka AI acquires Docula as it builds the data layer for robotics - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHNqMzJTMjNScG9wZF9HR21KaGdMWXZHUDlqQnUyUENCbVcwcWxfckpPM1I3UjFoTllmUG1lZkRQVVNUd0IxMk96Q0JCUFIyNVpXOEZjRFBaMGpJWGc1MUhYaTZ0Mzd6cEtQS0FjbUp3SWZER1d4Zk0yaVI1NWxWUzdEczd1QVNlbWtobzlkNA?oc=5) |
-| 2026-06-29 | Mecka AI acquires Docula to process motion data - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNmQtdmtkS1NQZGhuRUtrblVqRVZUNk51NXdnWTE2dkFlVUVWWHpZazRxbmctU3RQNHFMenBuMjNVX0lMcFNkVTdCRWR4M2Nmb0JMQ1VoM2VXVlpRRVUzdmxJdUZGZlFWWTNIRG9meFY1TXF2X2txSnVtMHlvNi1jUUpxLXNMRVFRYjNfbWxINWFRLVU?oc=5) |
-| 2026-06-29 | Zhipingfang Hits $2.8B Valuation as Brain-Like AI Era Dawns, Greater Bay Area's First Embodied AI Unicorn - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTHZxOEMtT0tUNUtZWmJFYVB1QlZnQVJRZi1YWjFKSHJZMWp2OHB1YzZycW5iWllkR210bEx2cHBMVmUwN3E3Z2ZGQjR0UFNmVzh0eFhxdkQ5eTNzOG11TVo1elE5anZHZUIwdzF0dW9YeU80THc?oc=5) |
