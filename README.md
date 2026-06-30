@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-30 21:21 UTC
+Last Updated: 2026-06-30 23:01 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-30 | Building a Fiber-Coupled Laser Source for Precision Optics | Hackaday | [link](https://hackaday.com/2026/06/30/building-a-fiber-coupled-laser-source-for-precision-optics/) |
 | 2026-06-30 | Retro Gear and the Mystery of Cables Melting Into Cases While in Storage | Hackaday | [link](https://hackaday.com/2026/06/30/retro-gear-and-the-mystery-of-cables-melting-into-cases-while-in-storage/) |
 | 2026-06-30 | Building a Micrometer-Level Displacement Sensor with 3D Printed Parts | Hackaday | [link](https://hackaday.com/2026/06/30/building-a-micrometer-level-displacement-sensor-with-3d-printed-parts/) |
 | 2026-06-30 | Microsoft’s Topological Quantum Computing Claims Once Again In Question | Hackaday | [link](https://hackaday.com/2026/06/30/microsofts-topological-quantum-computing-claims-once-again-in-question/) |
 | 2026-06-30 | Bite Into Strange Sounds With NOISFERATU | Hackaday | [link](https://hackaday.com/2026/06/30/bite-into-strange-sounds-with-noiseferatu/) |
 | 2026-06-30 | How Airspeed Sensors Work | Hackaday | [link](https://hackaday.com/2026/06/30/how-airspeed-sensors-work/) |
 | 2026-06-30 | Hacking a Reverse Osmosis Water Filter Through its Smart Faucet | Hackaday | [link](https://hackaday.com/2026/06/30/hacking-a-reverse-osmosis-water-filter-through-its-smart-faucet/) |
-| 2026-06-30 | Web Tool Lets You Take Steam Controller for a Drive | Hackaday | [link](https://hackaday.com/2026/06/30/web-tool-lets-you-take-steam-controller-for-a-drive/) |
 | 2026-06-30 | WeAct N006 – A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs | CNX Software | [link](https://www.cnx-software.com/2026/06/30/weact-n006-a-compact-nvidia-jetson-orin-nx-carrier-board-designed-for-robots-and-uavs/) |
 | 2026-06-30 | XIAO nRF54LM20A (Sense) board enables ultra-low-power Bluetooth 6.0, Matter, Thread, Zigbee, or 2.4 GHz proprietary applications | CNX Software | [link](https://www.cnx-software.com/2026/06/30/xiao-nrf54lm20a-sense-board-enables-ultra-low-power-bluetooth-6-0-matter-thread-zigbee-or-2-4-ghz-proprietary-applications/) |
 | 2026-06-30 | Banana Pi BPI-VP10 – A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU | CNX Software | [link](https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/) |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-30 | pollen-robotics/nanowakeword-wake-up | 0 | 0 | [link](https://huggingface.co/pollen-robotics/nanowakeword-wake-up) |
+| 2026-06-30 | L7-Robotics/smolvla_baseline_so101_conveyor_static_base | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_baseline_so101_conveyor_static_base) |
 | 2026-06-30 | L7-Robotics/smolvla_baseline_so101_pretrain_past | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_baseline_so101_pretrain_past) |
 | 2026-06-30 | pollen-robotics/wake-word-detector | 176 | 0 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
 | 2026-06-30 | LohanTS/mon-model-robot-v3 | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-model-robot-v3) |
@@ -85,8 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-30 | DAVIAN-Robotics/3D_HAMSTER | 0 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/3D_HAMSTER) |
 | 2026-06-30 | kairos-agi/Kairos3.1-4B-robot-480P | 0 | 0 | [link](https://huggingface.co/kairos-agi/Kairos3.1-4B-robot-480P) |
 | 2026-06-30 | scilwb/robotwin-pi05-adjust-bottle-sft-long | 0 | 0 | [link](https://huggingface.co/scilwb/robotwin-pi05-adjust-bottle-sft-long) |
-| 2026-06-30 | junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head0p8789_0p0011_vlmfreeze | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head0p8789_0p0011_vlmfreeze) |
-| 2026-06-30 | openEuler/IB_Robot_ACT_banana_pick_distill | 0 | 0 | [link](https://huggingface.co/openEuler/IB_Robot_ACT_banana_pick_distill) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,10 +94,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1373 | Rust | 549.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 884 | Python | 353.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 451 | Shell | 180.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 62897 | Python | 25158.9 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 15966 | Python | 6386.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15391 | C++ | 6156.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14036 | C++ | 5614.5 | [link](https://github.com/google-deepmind/mujoco) |
+| commaai/openpilot | 62898 | Python | 25159.3 | [link](https://github.com/commaai/openpilot) |
+| zauberzeug/nicegui | 15967 | Python | 6386.9 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15392 | C++ | 6156.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14037 | C++ | 5614.9 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 11027 | Rust | 4410.9 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7567 | Python | 3026.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 3941 | Python | 1576.5 | [link](https://github.com/RLinf/RLinf) |
@@ -136,13 +136,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-30 | Helix Data Creator (Day Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693410006) |
 | 2026-06-30 | Helix Data Creator (Night Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693415006) |
 | 2026-06-30 | Helix Data Creator (Swing Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693411006) |
+| 2026-06-30 | Quality Engineer, Metrology | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4626806006) |
 | 2026-06-30 | Senior Hardware Test Engineer - Torso | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6002917004) |
 | 2026-06-30 | Staff Electrical Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6026732004) |
 | 2026-06-29 | Security Engineer, Product and Device Security | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4555450006) |
 | 2026-06-29 | Mechanical Design Drafter | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5833366004) |
 | 2026-06-29 | Senior Electrical Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6103178004) |
 | 2026-06-29 | Staff Supplier Quality Engineer  | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6101011004) |
-| 2026-06-26 | Deployment Logistics Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4666290006) |
 
 ## Automation
 

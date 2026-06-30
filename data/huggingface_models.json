@@ -1,5 +1,23 @@
 [
   {
+    "model": "pollen-robotics/nanowakeword-wake-up",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pollen-robotics/nanowakeword-wake-up",
+    "date": "2026-06-30",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "L7-Robotics/smolvla_baseline_so101_conveyor_static_base",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/L7-Robotics/smolvla_baseline_so101_conveyor_static_base",
+    "date": "2026-06-30",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "L7-Robotics/smolvla_baseline_so101_pretrain_past",
     "downloads": 0,
     "likes": 0,
@@ -85,24 +103,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/openEuler/IB_Robot_ACT_banana_pick_distill",
-    "date": "2026-06-30",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0.3_head0p8789_0p0011_vlmfreeze",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0.3_head0p8789_0p0011_vlmfreeze",
-    "date": "2026-06-30",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "wardvec/align_robotwin",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/wardvec/align_robotwin",
     "date": "2026-06-30",
     "keyword": "robot",
     "score": 0.1
@@ -547,24 +547,6 @@
     "date": "2026-06-19",
     "keyword": "embodied",
     "score": 5.8
-  },
-  {
-    "model": "leehe228/dynin-robotics-libero-all-60k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/leehe228/dynin-robotics-libero-all-60k",
-    "date": "2026-06-19",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "qualia-robotics/act-pusht-book-v2-0509a6f0",
-    "downloads": 35,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/act-pusht-book-v2-0509a6f0",
-    "date": "2026-06-19",
-    "keyword": "robotics",
-    "score": 10.6
   },
   {
     "model": "EmotionSprout/embodied-cognition",
