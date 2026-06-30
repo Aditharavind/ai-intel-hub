@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-30 01:55 UTC
+Generated: 2026-06-30 05:59 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-06-28 | ASTAD: Asymmetric Style Transfer for Synthetic-to-Real Adaptation in Autonomous Driving | [link](https://arxiv.org/pdf/2606.29286v1) |
-| 2026-06-28 | Robust Extended Kalman Filter for Land Navigation Using Massive Array of MEMS IMUs | [link](https://arxiv.org/pdf/2606.29271v1) |
-| 2026-06-28 | Enhancing Part-Level Point Grounding for Any Open-Source MLLMs | [link](https://arxiv.org/pdf/2606.29267v1) |
-| 2026-06-28 | PL-LIT: A LiDAR-Inertial-Thermal SLAM Using Point-Line Features and Thermographic Mapping | [link](https://arxiv.org/pdf/2606.29259v1) |
-| 2026-06-28 | SurgVLA-Bench: Towards Evaluating Vision-Language-Action Models for Laparoscopic Surgical Robotics | [link](https://arxiv.org/pdf/2606.29247v1) |
+| 2026-06-29 | VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes | [link](https://arxiv.org/pdf/2606.30645v1) |
+| 2026-06-29 | Self-Evolving World Models for LLM Agent Planning | [link](https://arxiv.org/pdf/2606.30639v1) |
+| 2026-06-29 | Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors | [link](https://arxiv.org/pdf/2606.30638v1) |
+| 2026-06-29 | GROW$^2$: Grounding Which and Where for Robot Tool Use | [link](https://arxiv.org/pdf/2606.30632v1) |
+| 2026-06-29 | Sequential Planning via Anchored Robotic Keypoints | [link](https://arxiv.org/pdf/2606.30613v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82110 | 32844.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62783 | 25113.3 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29892 | 11956.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 82117 | 32846.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62830 | 25132.1 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29897 | 11958.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15964 | 6385.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15386 | 6154.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15388 | 6155.3 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -45,4 +45,4 @@ Generated: 2026-06-30 01:55 UTC
 | 2026-06-29 | Domestic startup specializes in physical AI usable in real world - Korea.net | physical ai startup | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE9vX2tHbmhiV3ZOb05RNG5vOWpQbk1rUWpRNG0wRm1HLUU3c2RWTUxSdzROT2FHWUI3VXQwQ19URktGQWdQVEF4YTJ3VGt2WDlKNG9Ua2d2dTRZbGVpeWFUYTNtWFNGaXlOY1FxZjJLMA?oc=5) |
 | 2026-06-29 | Mecka AI acquires Docula as it builds the data layer for robotics - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHNqMzJTMjNScG9wZF9HR21KaGdMWXZHUDlqQnUyUENCbVcwcWxfckpPM1I3UjFoTllmUG1lZkRQVVNUd0IxMk96Q0JCUFIyNVpXOEZjRFBaMGpJWGc1MUhYaTZ0Mzd6cEtQS0FjbUp3SWZER1d4Zk0yaVI1NWxWUzdEczd1QVNlbWtobzlkNA?oc=5) |
 | 2026-06-29 | Mecka AI acquires Docula to process motion data - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNmQtdmtkS1NQZGhuRUtrblVqRVZUNk51NXdnWTE2dkFlVUVWWHpZazRxbmctU3RQNHFMenBuMjNVX0lMcFNkVTdCRWR4M2Nmb0JMQ1VoM2VXVlpRRVUzdmxJdUZGZlFWWTNIRG9meFY1TXF2X2txSnVtMHlvNi1jUUpxLXNMRVFRYjNfbWxINWFRLVU?oc=5) |
-| 2026-06-29 | Korea Startup Forum Launches Physical AI Council, Uniting 11 Robotics and Autonomous Driving Companies - BigGo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE44MG5Ja1NSTm1TUk9VWDB2bDctRzNMREVYQ0tZa1dsTlY1d1puN3VkXzQ2eTVZOVBaSVAzOUhkVmp5U2R5cVlKLXpPWEVSaHY3cms5Q2hGbHRGcFFYSXR6cFRLVUtPNm9fNzVWUERTeXlMWC1ESXc?oc=5) |
+| 2026-06-29 | Zhipingfang Hits $2.8B Valuation as Brain-Like AI Era Dawns, Greater Bay Area's First Embodied AI Unicorn - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTHZxOEMtT0tUNUtZWmJFYVB1QlZnQVJRZi1YWjFKSHJZMWp2OHB1YzZycW5iWllkR210bEx2cHBMVmUwN3E3Z2ZGQjR0UFNmVzh0eFhxdkQ5eTNzOG11TVo1elE5anZHZUIwdzF0dW9YeU80THc?oc=5) |

@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-30 01:55 UTC
+Last Updated: 2026-06-30 05:59 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,58 +49,58 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-06-30 | Making a Magnetic Core Memory USB Drive | Hackaday | [link](https://hackaday.com/2026/06/29/making-a-magnetic-core-memory-usb-drive/) |
+| 2026-06-30 | The Terrifying 2011-Era Case of Max Planck’s Retracted Papers | Hackaday | [link](https://hackaday.com/2026/06/29/the-terrifying-2011-era-case-of-max-plancks-retracted-papers/) |
+| 2026-06-30 | XIAO nRF54LM20A (Sense) board enables ultra-low-power Bluetooth 6.0, Matter, Thread, Zigbee, or 2.4 GHz proprietary applications | CNX Software | [link](https://www.cnx-software.com/2026/06/30/xiao-nrf54lm20a-sense-board-enables-ultra-low-power-bluetooth-6-0-matter-thread-zigbee-or-2-4-ghz-proprietary-applications/) |
 | 2026-06-30 | Banana Pi BPI-VP10 – A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU | CNX Software | [link](https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/) |
+| 2026-06-30 | Over-voltage over-temperature protection devices from Schurter | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/over-voltage-over-temperature-protection-2026-06/) |
+| 2026-06-30 | Kyocera launches antenna finder | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/kyocera-2-2026-06/) |
 | 2026-06-30 | UK-US Comms Satellite Talks | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/uk-us-comms-satellite-talks-2026-06/) |
 | 2026-06-29 | Hard Drive Speakers Crank Out Classic Demo | Hackaday | [link](https://hackaday.com/2026/06/29/hard-drive-speakers-crank-out-classic-demo/) |
 | 2026-06-29 | Piano Escapement Migrates to Drum Kit | Hackaday | [link](https://hackaday.com/2026/06/29/piano-escapement-migrates-to-drum-kit/) |
 | 2026-06-29 | 2026 Frikkin Lasers Challenge: Super-Simple Laser Precision for Your Stargazing | Hackaday | [link](https://hackaday.com/2026/06/29/2026-frikkin-lasers-challenge-super-simple-laser-precision-for-your-stargazing/) |
-| 2026-06-29 | Hackaday Europe 2026 – Building A Retro PC From Scratch | Hackaday | [link](https://hackaday.com/2026/06/29/hackaday-europe-2026-building-a-retro-pc-from-scratch/) |
-| 2026-06-29 | Mechanical TV, Without The Benefit Of New Parts | Hackaday | [link](https://hackaday.com/2026/06/29/mechanical-tv-without-the-benefit-of-new-parts/) |
-| 2026-06-29 | The Teenage Angst of 3D Printing: Solidoodle, Printrbot, and Bridges | Hackaday | [link](https://hackaday.com/2026/06/29/the-teenage-angst-of-3d-printing-solidoodle-printrbot-and-bridges/) |
-| 2026-06-29 | HamsterOS Crams Complete Graphical Desktop onto 1.44 MB Floppy | Hackaday | [link](https://hackaday.com/2026/06/29/hamsteros-crams-complete-graphical-desktop-onto-1-44-mb-floppy/) |
-| 2026-06-29 | Waveshare ESP32-C6-Zero-B  – A tiny ESP32-C6 USB-C board with 5V-36V wide supply voltage | CNX Software | [link](https://www.cnx-software.com/2026/06/29/waveshare-esp32-c6-zero-b-a-tiny-esp32-c6-usb-c-board-with-5v-36v-wide-supply-voltage/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-06-28 | ASTAD: Asymmetric Style Transfer for Synthetic-to-Real Adaptation in Autonomous Driving | [link](https://arxiv.org/pdf/2606.29286v1) |
-| 2026-06-28 | Robust Extended Kalman Filter for Land Navigation Using Massive Array of MEMS IMUs | [link](https://arxiv.org/pdf/2606.29271v1) |
-| 2026-06-28 | Enhancing Part-Level Point Grounding for Any Open-Source MLLMs | [link](https://arxiv.org/pdf/2606.29267v1) |
-| 2026-06-28 | PL-LIT: A LiDAR-Inertial-Thermal SLAM Using Point-Line Features and Thermographic Mapping | [link](https://arxiv.org/pdf/2606.29259v1) |
-| 2026-06-28 | SurgVLA-Bench: Towards Evaluating Vision-Language-Action Models for Laparoscopic Surgical Robotics | [link](https://arxiv.org/pdf/2606.29247v1) |
-| 2026-06-28 | Towards Evaluating Data Priors for Tabular Foundation Models | [link](https://arxiv.org/pdf/2606.29241v1) |
-| 2026-06-28 | MoPe: Motion Permanence for Robust Monocular Gaussian Mapping in Dynamic Environments | [link](https://arxiv.org/pdf/2606.29237v1) |
-| 2026-06-28 | CORE Planner: Contextual-memory Oriented Reinforcement-learning in Unknown Environments for Robot Navigation | [link](https://arxiv.org/pdf/2606.29222v1) |
-| 2026-06-28 | A Linear Matching Bandit Approach to Online Multi-Human Multi-Robot Teaming | [link](https://arxiv.org/pdf/2606.29221v1) |
-| 2026-06-28 | AnyBody: Free-Form Whole-Body Humanoid Control from Arbitrary Keypoint Guidance | [link](https://arxiv.org/pdf/2606.29209v1) |
+| 2026-06-29 | VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes | [link](https://arxiv.org/pdf/2606.30645v1) |
+| 2026-06-29 | Self-Evolving World Models for LLM Agent Planning | [link](https://arxiv.org/pdf/2606.30639v1) |
+| 2026-06-29 | Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors | [link](https://arxiv.org/pdf/2606.30638v1) |
+| 2026-06-29 | GROW$^2$: Grounding Which and Where for Robot Tool Use | [link](https://arxiv.org/pdf/2606.30632v1) |
+| 2026-06-29 | Sequential Planning via Anchored Robotic Keypoints | [link](https://arxiv.org/pdf/2606.30613v1) |
+| 2026-06-29 | UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image | [link](https://arxiv.org/pdf/2606.30608v1) |
+| 2026-06-29 | Realtime Wind Estimation using Low Cost Quadrotor Uncrewed Aerial Vehicles | [link](https://arxiv.org/pdf/2606.30581v1) |
+| 2026-06-29 | APRIL-MedSeg: A Modular Medical Image Segmentation Toolbox Embracing Modern Paradigms | [link](https://arxiv.org/pdf/2606.30577v1) |
+| 2026-06-29 | Beyond 2D Matching: A Unified Single-Stage Framework for Geometry-Aware Cross-View Object Geo-Localization | [link](https://arxiv.org/pdf/2606.30576v1) |
+| 2026-06-29 | MOAR Planner: Multi-Objective and Adaptive Risk-Aware Path Planning for Infrastructure Inspection with a UAV | [link](https://arxiv.org/pdf/2606.30575v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-06-30 | junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head0p8789_0p0011_vlmfreeze | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head0p8789_0p0011_vlmfreeze) |
+| 2026-06-30 | openEuler/IB_Robot_ACT_banana_pick_distill | 0 | 0 | [link](https://huggingface.co/openEuler/IB_Robot_ACT_banana_pick_distill) |
+| 2026-06-30 | junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0.3_head0p8789_0p0011_vlmfreeze | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0.3_head0p8789_0p0011_vlmfreeze) |
 | 2026-06-30 | wardvec/align_robotwin | 0 | 0 | [link](https://huggingface.co/wardvec/align_robotwin) |
 | 2026-06-30 | hcltech-robotics/cosmos3-h-surgical-simulator-alpha | 4 | 3 | [link](https://huggingface.co/hcltech-robotics/cosmos3-h-surgical-simulator-alpha) |
 | 2026-06-30 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
+| 2026-06-30 | LianYeSong/RPT-VLA | 0 | 0 | [link](https://huggingface.co/LianYeSong/RPT-VLA) |
+| 2026-06-30 | GreenGenomicsLab/TARA-WorldModel-VICReg | 0 | 0 | [link](https://huggingface.co/GreenGenomicsLab/TARA-WorldModel-VICReg) |
 | 2026-06-30 | HakkoLab/world-model-research | 0 | 0 | [link](https://huggingface.co/HakkoLab/world-model-research) |
-| 2026-06-30 | devikaskumar/smolvla_policy_5_pos_data | 0 | 0 | [link](https://huggingface.co/devikaskumar/smolvla_policy_5_pos_data) |
-| 2026-06-29 | DAVIAN-Robotics/3D_HAMSTER | 0 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/3D_HAMSTER) |
-| 2026-06-29 | pollen-robotics/wake-word-detector | 174 | 0 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
-| 2026-06-29 | jialei02/lawam_robotwin_sft_release | 16 | 0 | [link](https://huggingface.co/jialei02/lawam_robotwin_sft_release) |
-| 2026-06-29 | Hiwonder-robot/Cube2Plate | 0 | 0 | [link](https://huggingface.co/Hiwonder-robot/Cube2Plate) |
-| 2026-06-29 | OpenWAM/RoboTwin_DualSystem_JointSelfAttention_ActionSeesVideo | 0 | 0 | [link](https://huggingface.co/OpenWAM/RoboTwin_DualSystem_JointSelfAttention_ActionSeesVideo) |
+| 2026-06-30 | jovaldivieso/double_integrator_casadi_diffusion_policy | 0 | 0 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 62783 | Python | 25113.3 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15386 | C++ | 6154.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| rerun-io/rerun | 11019 | Rust | 4407.7 | [link](https://github.com/rerun-io/rerun) |
+| commaai/openpilot | 62830 | Python | 25132.1 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15388 | C++ | 6155.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| rerun-io/rerun | 11022 | Rust | 4408.9 | [link](https://github.com/rerun-io/rerun) |
+| isaac-sim/IsaacLab | 7560 | Python | 3024.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 3937 | Python | 1574.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3812 | Rust | 1524.9 | [link](https://github.com/dora-rs/dora) |
 | StanfordVL/BEHAVIOR-1K | 1539 | Python | 615.7 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| starVLA/starVLA | 2992 | Python | 1196.9 | [link](https://github.com/starVLA/starVLA) |
-| sou350121/VLA-Handbook | 334 | HTML | 133.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| ROBOTIS-GIT/ai_worker | 151 | C++ | 60.5 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| copper-project/copper-rs | 1372 | Rust | 548.9 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 884 | Python | 353.7 | [link](https://github.com/mosaico-labs/mosaico) |
+| starVLA/starVLA | 2996 | Python | 1198.5 | [link](https://github.com/starVLA/starVLA) |
+| sou350121/VLA-Handbook | 336 | HTML | 134.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 5354 | Python | 2141.7 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -123,12 +123,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-29 | Domestic startup specializes in physical AI usable in real world - Korea.net | physical ai startup | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE9vX2tHbmhiV3ZOb05RNG5vOWpQbk1rUWpRNG0wRm1HLUU3c2RWTUxSdzROT2FHWUI3VXQwQ19URktGQWdQVEF4YTJ3VGt2WDlKNG9Ua2d2dTRZbGVpeWFUYTNtWFNGaXlOY1FxZjJLMA?oc=5) |
 | 2026-06-29 | Mecka AI acquires Docula as it builds the data layer for robotics - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHNqMzJTMjNScG9wZF9HR21KaGdMWXZHUDlqQnUyUENCbVcwcWxfckpPM1I3UjFoTllmUG1lZkRQVVNUd0IxMk96Q0JCUFIyNVpXOEZjRFBaMGpJWGc1MUhYaTZ0Mzd6cEtQS0FjbUp3SWZER1d4Zk0yaVI1NWxWUzdEczd1QVNlbWtobzlkNA?oc=5) |
 | 2026-06-29 | Mecka AI acquires Docula to process motion data - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNmQtdmtkS1NQZGhuRUtrblVqRVZUNk51NXdnWTE2dkFlVUVWWHpZazRxbmctU3RQNHFMenBuMjNVX0lMcFNkVTdCRWR4M2Nmb0JMQ1VoM2VXVlpRRVUzdmxJdUZGZlFWWTNIRG9meFY1TXF2X2txSnVtMHlvNi1jUUpxLXNMRVFRYjNfbWxINWFRLVU?oc=5) |
-| 2026-06-29 | Korea Startup Forum Launches Physical AI Council, Uniting 11 Robotics and Autonomous Driving Companies - BigGo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE44MG5Ja1NSTm1TUk9VWDB2bDctRzNMREVYQ0tZa1dsTlY1d1puN3VkXzQ2eTVZOVBaSVAzOUhkVmp5U2R5cVlKLXpPWEVSaHY3cms5Q2hGbHRGcFFYSXR6cFRLVUtPNm9fNzVWUERTeXlMWC1ESXc?oc=5) |
 | 2026-06-29 | Zhipingfang Hits $2.8B Valuation as Brain-Like AI Era Dawns, Greater Bay Area's First Embodied AI Unicorn - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTHZxOEMtT0tUNUtZWmJFYVB1QlZnQVJRZi1YWjFKSHJZMWp2OHB1YzZycW5iWllkR210bEx2cHBMVmUwN3E3Z2ZGQjR0UFNmVzh0eFhxdkQ5eTNzOG11TVo1elE5anZHZUIwdzF0dW9YeU80THc?oc=5) |
 | 2026-06-29 | Swiss Startup Flexion Robotics Introduces 'Long-Horizon' Autonomous Humanoid Robotics Platform - AI Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNanJ3ZGxkOGFYN0pFUmE1aHN4U1hKblJUSXpEUkFscEh0Q0F2cUIySWJidzIxT3pOU0VURWFRMXFzNFpZOXVLYmRLMGNtbGtnbnhDOXFHWFJvWFgwelBhZkh5LThwdFFxd3p5TDhjWUZXaXlzS2gxbTJpSWo2Nmt1WDRYajlHeVN0LXZUNDQwOS11UDhsOUFUdW9FQnM3ZTFnUENvN0RUSXBRZ1lUWGhxTnRaUF9YcEI3UkpzUmxaT3VzNVNVX1dBUHNn?oc=5) |
-| 2026-06-28 | Chinese Student Builds Humanoid Robot for $2,100 at Age 20, Now Leads Robotics Startup in China - CPG Click Petróleo e Gás | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaTdwRmxNY3pGZmc5d0Nza25zcDRjT2R3b095UFFieWh0aG02OHh0ODRVZ3RoYkRDRF9VZE5mUUxhOEp3SV8xYVplVjFsMUxibEpRRUlXTWZHSEZvN1BHZFlYa0pqNzZRY0dGaDBNZlZEMkh0YlNaaXZfeHlqcHNKTDlmRmlCTkY2dzl1eDR4dDBhdnZQTVlMMW5YZlFNMGdDMl9YSk13anNjdkw5ZEVFRkdFbmh4dU91czFxWFZkQUVNdkJ6OFZPaE1GT1I3TWx4a0E?oc=5) |
 | 2026-06-26 | Robotics startup FieldAI has hit a $100 million milestone - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOS1IejdzVkdiZVVnaE95aWVYcXJnWS16RF9qdWlhdUtaRjh5VWo0aEJ2QVNNTmxLMGVsQU9Sd2Z1SkUwQ0JZZU02cTFiTVFHYjVvcExlUEk0WnRsOWxSYlFIVzBIMFRiUVF2cmtILXpoSXV6Tmhvd1BEWXBSR1pNS21pODBkaHNuNjliWHd5UWtaTVAxZmdsMzM2dzFaX3pTNmtNQ2tBZGxXUQ?oc=5) |
 | 2026-06-25 | How a Chinese physical AI start-up’s new paradigm bypasses US road maps - South China Morning Post | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDJSQVM4eFZjOWpJdmdKc3Q4Y0NySDYydUJINzcyc0NUSzhDMVhSVEJHQm9DNUJVMzR3bjFZTjgydWktT2pHSnNlN1Z1a0Jva0hhenk3VDBhN19UMVlNMEpwTWo5ZzhpX25DOUxUbW9WY1NnWHNRZnY3aG1SME5HOXFHeVdoZ2MtbUE5ckxxNFJ6Zl9iVlp1Wk5EZDJxQW51Zlh2UTEydlZLdngtbXN4ZHg5TFY4TDQwamZFRGVkcG8xOG8zS2xvRlk0dVPSAcwBQVVfeXFMTTVFWDE2MV9yc0l5OXlPREpTbXEzU0tkOVFvMG5IRjZCQXU3ZF9jQ1pDNy1xdkhZZW8tZkdmcVUwWFJualR0eDIzV1kxeHBlSmkwZUl5NTJfR1d2Z3hxNUNxckpDdEFweGpNMFl5SndzeHFWS0I0WWJOa2NUT25PTTFxLU5nSFhheVkxZWFwTmpUc29iTVdXRzBOaUtnVGo5WVU1YWpvRWNobXdYVkRLNWtEZ25DV0UzMVd0SFB2dkNLVDBEc1JRWHdVVGlX?oc=5) |
+| 2026-06-25 | Top developers are pivoting from chatbots to physical AI - AP News | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3ZwcU93dTI2aG9ma29FckNlQzdHWng5MjZqS2k0NVc1VWJQb3FFYkFSLXhXN1lLLUQ4RUFyQlVZVmljMHY4M1M4Vl9ieWotQjhHYzBGME5VZG1qelhlNGF4aFdrOFF2ZXBkdWtGdmF6LTk3NHNRVXBzSm1CSVdUdlpwYlJkd2xRZkZoQ1dOSDBrVTFDamdjcTloeDA?oc=5) |
+| 2026-06-25 | World Models vs VLAs: The Rift Dividing Physical AI - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUhwcEJfU1dWVzBtdkdtUEIxS3RrMmstMndTSW1Qc0FTek1wc3ZKQU9KN0k1azlVNWRPQ090a3dES1huWDZFN1RtODJhS0EtWE5ZUHVHbnl3NVpMRFRtYWV6R1VhZmtzdjZxUUg2UjhZX3pLenB4UlpHZ2dMcHE0WHBOdDdYd3RwdGN6NHYtV1lIeFNJMElFY3ZVNmlmVVB2?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

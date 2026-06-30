@@ -1,5 +1,32 @@
 [
   {
+    "model": "junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head0p8789_0p0011_vlmfreeze",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head0p8789_0p0011_vlmfreeze",
+    "date": "2026-06-30",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "openEuler/IB_Robot_ACT_banana_pick_distill",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/openEuler/IB_Robot_ACT_banana_pick_distill",
+    "date": "2026-06-30",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0.3_head0p8789_0p0011_vlmfreeze",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0.3_head0p8789_0p0011_vlmfreeze",
+    "date": "2026-06-30",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "wardvec/align_robotwin",
     "downloads": 0,
     "likes": 0,
@@ -27,12 +54,39 @@
     "score": 0.1
   },
   {
+    "model": "LianYeSong/RPT-VLA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/LianYeSong/RPT-VLA",
+    "date": "2026-06-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "GreenGenomicsLab/TARA-WorldModel-VICReg",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/GreenGenomicsLab/TARA-WorldModel-VICReg",
+    "date": "2026-06-30",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
     "model": "HakkoLab/world-model-research",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/HakkoLab/world-model-research",
     "date": "2026-06-30",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "date": "2026-06-30",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -81,28 +135,28 @@
     "score": 0.1
   },
   {
-    "model": "OpenWAM/RoboTwin_DualSystem_JointSelfAttention_ActionSeesVideo",
+    "model": "kairos-agi/kairos-4B-robot-RoboTwin2.0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/RoboTwin_DualSystem_JointSelfAttention_ActionSeesVideo",
+    "url": "https://huggingface.co/kairos-agi/kairos-4B-robot-RoboTwin2.0",
     "date": "2026-06-29",
     "keyword": "robot",
     "score": 0.1
   },
   {
-    "model": "junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30k_vl1_sd0_vlmfreeze",
+    "model": "kairos-agi/kairos-4B-robot-LIBERO-plus",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30k_vl1_sd0_vlmfreeze",
+    "url": "https://huggingface.co/kairos-agi/kairos-4B-robot-LIBERO-plus",
     "date": "2026-06-29",
     "keyword": "robot",
     "score": 0.1
   },
   {
-    "model": "YinonDouchan/mobile_robot_lift_env",
+    "model": "kairos-agi/kairos-4B-robot-3.1-480P",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/mobile_robot_lift_env",
+    "url": "https://huggingface.co/kairos-agi/kairos-4B-robot-3.1-480P",
     "date": "2026-06-29",
     "keyword": "robot",
     "score": 0.1
@@ -162,15 +216,6 @@
     "score": 0.1
   },
   {
-    "model": "LianYeSong/RPT-VLA",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/LianYeSong/RPT-VLA",
-    "date": "2026-06-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "vrfai/vla-jepa-libero",
     "downloads": 0,
     "likes": 0,
@@ -216,15 +261,6 @@
     "score": 0.1
   },
   {
-    "model": "GreenGenomicsLab/TARA-WorldModel-VICReg",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/GreenGenomicsLab/TARA-WorldModel-VICReg",
-    "date": "2026-06-29",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
     "model": "linhrumata/world-models",
     "downloads": 0,
     "likes": 0,
@@ -240,15 +276,6 @@
     "url": "https://huggingface.co/ewykric/EmbodiedSelfPlay-checkpoints",
     "date": "2026-06-29",
     "keyword": "embodied",
-    "score": 0.1
-  },
-  {
-    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "date": "2026-06-29",
-    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -339,33 +366,6 @@
     "url": "https://huggingface.co/devikaskumar/act_policy_5_pos_data",
     "date": "2026-06-29",
     "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "polarisai-robots/bin_transfer_so101_smolvla_v2",
-    "downloads": 18,
-    "likes": 0,
-    "url": "https://huggingface.co/polarisai-robots/bin_transfer_so101_smolvla_v2",
-    "date": "2026-06-28",
-    "keyword": "robot",
-    "score": 5.5
-  },
-  {
-    "model": "robotneu/pi05_zs_gen_hard_lora",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/robotneu/pi05_zs_gen_hard_lora",
-    "date": "2026-06-28",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "robotneu/pi05_pfc23_hard_lora",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/robotneu/pi05_pfc23_hard_lora",
-    "date": "2026-06-28",
-    "keyword": "robot",
     "score": 0.1
   },
   {
