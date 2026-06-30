@@ -1,5 +1,41 @@
 [
   {
+    "model": "L7-Robotics/smolvla_baseline_so101_pretrain_past",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/L7-Robotics/smolvla_baseline_so101_pretrain_past",
+    "date": "2026-06-30",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "pollen-robotics/wake-word-detector",
+    "downloads": 176,
+    "likes": 0,
+    "url": "https://huggingface.co/pollen-robotics/wake-word-detector",
+    "date": "2026-06-30",
+    "keyword": "robotics",
+    "score": 52.9
+  },
+  {
+    "model": "LohanTS/mon-model-robot-v3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/LohanTS/mon-model-robot-v3",
+    "date": "2026-06-30",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "menwhatcanisay/robotwin_finetune",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/menwhatcanisay/robotwin_finetune",
+    "date": "2026-06-30",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "LohanTS/mon-model-robot-v2",
     "downloads": 0,
     "likes": 0,
@@ -25,15 +61,6 @@
     "date": "2026-06-30",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "pollen-robotics/wake-word-detector",
-    "downloads": 176,
-    "likes": 0,
-    "url": "https://huggingface.co/pollen-robotics/wake-word-detector",
-    "date": "2026-06-30",
-    "keyword": "robotics",
-    "score": 52.9
   },
   {
     "model": "scilwb/robotwin-pi05-adjust-bottle-sft-long",
@@ -81,15 +108,6 @@
     "score": 0.1
   },
   {
-    "model": "hcltech-robotics/cosmos3-h-surgical-simulator-alpha",
-    "downloads": 4,
-    "likes": 3,
-    "url": "https://huggingface.co/hcltech-robotics/cosmos3-h-surgical-simulator-alpha",
-    "date": "2026-06-30",
-    "keyword": "robotics",
-    "score": 1.9
-  },
-  {
     "model": "anhtld/vla",
     "downloads": 0,
     "likes": 0,
@@ -97,6 +115,15 @@
     "date": "2026-06-30",
     "keyword": "vla",
     "score": 0.1
+  },
+  {
+    "model": "Vladmun1337/multiclip-classifier-ro",
+    "downloads": 222,
+    "likes": 0,
+    "url": "https://huggingface.co/Vladmun1337/multiclip-classifier-ro",
+    "date": "2026-06-30",
+    "keyword": "vla",
+    "score": 66.7
   },
   {
     "model": "mradermacher/DeepCaption-VLA-V2.0-7B-i1-GGUF",
@@ -153,19 +180,19 @@
     "score": 0.1
   },
   {
-    "model": "ameimei/action_policy_soarm",
+    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/ameimei/action_policy_soarm",
+    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
     "date": "2026-06-30",
     "keyword": "policy",
     "score": 0.1
   },
   {
-    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "model": "ameimei/action_policy_soarm",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "url": "https://huggingface.co/ameimei/action_policy_soarm",
     "date": "2026-06-30",
     "keyword": "policy",
     "score": 0.1
@@ -252,22 +279,13 @@
     "score": 0.1
   },
   {
-    "model": "random-sequence/flock-robotics-qwen25vl-vla-4b",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/random-sequence/flock-robotics-qwen25vl-vla-4b",
-    "date": "2026-06-29",
+    "model": "hcltech-robotics/cosmos3-h-surgical-simulator-alpha",
+    "downloads": 4,
+    "likes": 3,
+    "url": "https://huggingface.co/hcltech-robotics/cosmos3-h-surgical-simulator-alpha",
+    "date": "2026-06-30",
     "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "jialei02/lawam_robotwin_sft_release",
-    "downloads": 18,
-    "likes": 0,
-    "url": "https://huggingface.co/jialei02/lawam_robotwin_sft_release",
-    "date": "2026-06-29",
-    "keyword": "robot",
-    "score": 5.5
+    "score": 1.9
   },
   {
     "model": "sam-guided-vlas/results",
@@ -276,6 +294,15 @@
     "url": "https://huggingface.co/sam-guided-vlas/results",
     "date": "2026-06-29",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "random-sequence/flock-robotics-qwen25vl-vla-4b",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/random-sequence/flock-robotics-qwen25vl-vla-4b",
+    "date": "2026-06-29",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -310,15 +337,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/VladJevr/Qwen",
-    "date": "2026-06-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vrfai/vla-jepa-libero",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vrfai/vla-jepa-libero",
     "date": "2026-06-29",
     "keyword": "vla",
     "score": 0.1
@@ -556,15 +574,6 @@
     "date": "2026-06-18",
     "keyword": "embodied",
     "score": 0.1
-  },
-  {
-    "model": "puppet-robotics/golf-model-eval",
-    "downloads": 18,
-    "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-eval",
-    "date": "2026-06-18",
-    "keyword": "robotics",
-    "score": 5.5
   },
   {
     "model": "BrinqAI/functiongemma-270m-physical-ai",
