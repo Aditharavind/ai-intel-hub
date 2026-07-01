@@ -1,5 +1,12 @@
 [
   {
+    "title": "Positioning Without Satellites Or Base Stations",
+    "source": "Hackaday",
+    "date": "2026-07-01",
+    "url": "https://hackaday.com/2026/07/01/positioning-without-satellites-or-base-stations/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/fm-positioning-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We&#8217;re all used to satellite navigation systems such as GPS or GLONASS, sheer magic in which the combination of a set of reference transmitters and super-accurate timing information can be <a class=\"read-more\" href=\"https://hackaday.com/2026/07/01/positioning-without-satellites-or-base-stations/\">&#8230;read more</a>"
+  },
+  {
     "title": "FLOSS Weekly Episode 873: Wait, That’s Not Open Source!",
     "source": "Hackaday",
     "date": "2026-07-01",
@@ -42,13 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/Steam-Controller-auto-dock-Featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Hacks don&#8217;t have to be practical but it helps if they are educational or clever or amusing, as [Ray Foss] demonstrates with his auto-docking Steam Controller. It&#8217;s an open-source web <a class=\"read-more\" href=\"https://hackaday.com/2026/07/01/watch-a-steam-controller-skitter-itself-to-its-charge-puck/\">&#8230;read more</a>"
   },
   {
-    "title": "From Sugar to Ethanol Fuel With a Little Microbial Help",
-    "source": "Hackaday",
-    "date": "2026-07-01",
-    "url": "https://hackaday.com/2026/06/30/from-sugar-to-ethanol-fuel-with-a-little-microbial-help/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"497\" src=\"https://hackaday.com/wp-content/uploads/2026/06/diy_ethanol_engine_hyperspace_pirate_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In these trying times it seems appropriate to work through some &#8216;what if &#8216; scenarios, such as the local gas station suddenly not having any more gasoline to sell you, <a class=\"read-more\" href=\"https://hackaday.com/2026/06/30/from-sugar-to-ethanol-fuel-with-a-little-microbial-help/\">&#8230;read more</a>"
-  },
-  {
     "title": "Sipeed NanoKVM-Go – An 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding)",
     "source": "CNX Software",
     "date": "2026-07-01",
@@ -68,6 +68,13 @@
     "date": "2026-07-01",
     "url": "https://www.cnx-software.com/2026/07/01/flipper-busy-bar-open-source-productivity-multitool-features-led-pixel-display-supports-matter-connectivity/",
     "summary": "<div><img alt=\"Flipper BUSY bar\" class=\"attachment-medium size-medium wp-post-image\" height=\"477\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Flipper-BUSY-bar-720x477.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Flipper has taken a short break from launching wireless hacking tools by introducing the BUSY Bar open-source productivity multitool designed to help people eliminate distractions and be more focused at work. The device features a customizable LED pixel display and a small monochrome OLED back display, synchronizes with work apps, mutes notifications, and supports the Matter protocol for integration with Home Assistant, Apple Home, Google Home, or other Matter-compatible platforms. BUSY Bar specifications: Microcontroller &#8211; STMicroelectronics STM32U5 CPU &#8211; Arm Cortex-M33 @ 160 MHz Memory &#8211; 2.5 MB SRAM Storage &#8211; 2 MB Flash Storage &#8211; 8 GB eMMC flash Main Display &#8211; 6.35-inch RGB LED matrix with 72×16 resolution, 60 Hz refresh rate, 800 nits, adaptive brightness Back Display &#8211; 1.54-in monochrome (16 gray scales) OLED with 160×80 resolution, adaptive brightness Audio &#8211; 0.8W speaker for sound alerts and notifications Wireless Connectivity via Silicon Labs SiWG917 CPU &#8211; Arm [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/01/flipper-busy-bar-open-source-productivity-multitool-features-led-pixel-display-supports-matter-connectivity/\">Flipper BUSY Bar open-source productivity multitool features LED pixel display, supports Matter connectivity</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Efficient Computer Introduces Efficient Labs Platform",
+    "source": "Embedded.com",
+    "date": "2026-07-01",
+    "url": "https://www.embedded.com/efficient-computer-introduces-efficient-labs-platform/",
+    "summary": "<p>Efficient Computer has introduced Efficient Labs, a browser-based suite of interactive development tools designed to simplify software and hardware development for its Electron E1 general-purpose processor. The platform integrates directly into existing engineering workflows, providing a collection of web-based utilities that reduce the complexity of embedded system design while accelerating evaluation and prototyping. Developed as [...]</p>\n<p>The post <a href=\"https://www.embedded.com/efficient-computer-introduces-efficient-labs-platform/\">Efficient Computer Introduces Efficient Labs Platform</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "How to Avoid Higher Rigid-Flex PCB Prototyping Costs",
@@ -147,6 +154,34 @@
     "summary": "<p>Vishay has extended its overcurrent protection portfolio with the introduction of six new surface-mount polymer positive temperature coefficient (PTC) thermistors. The devices provide resettable overcurrent protection in low voltage circuits ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/vishay-adds-to-polymer-ptc-thermistors-2026-07/\">Vishay adds to polymer PTC thermistors</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "PiZZa: Arduino on the Raspberry Pi Zero 2 W",
+    "source": "Adafruit",
+    "date": "2026-07-01",
+    "url": "https://blog.adafruit.com/2026/07/01/pizza-arduino-on-the-raspberry-pi-zero-2-w/",
+    "summary": "jetpax on GitHub has dropped PiZZa, running Arduino on the Raspberry Pi Zero 2 W. Write sketches in the Arduino IDE and run them on a Raspberry Pi Zero 2 W or the original Raspberry Pi Zero W. A small firmware on the SD card (a Zephyr &#8220;loader&#8221;) loads your compiled sketch as a runtime [&#8230;]"
+  },
+  {
+    "title": "Building and hiking with Wallace, the 6 inch f/2.8 telescope",
+    "source": "Adafruit",
+    "date": "2026-07-01",
+    "url": "https://blog.adafruit.com/2026/07/01/building-and-hiking-with-wallace-the-6-inch-f-2-8-telescope/",
+    "summary": "Lucas Sifoni presents Wallace, a 153mm f/2.8 ultra-wide-field telescope that was built last year and shares more of the “outdoor” part of astronomy. I now spend a lot of time outside with running and hiking, and started to wonder how could I share that, the same question that emerged when I started observational astronomy &#8211; [&#8230;]"
+  },
+  {
+    "title": "DS1881 – a clickless dual digital attenuator",
+    "source": "Adafruit",
+    "date": "2026-07-01",
+    "url": "https://blog.adafruit.com/2026/07/01/ds1881-a-clickless-dual-digital-attenuator/",
+    "summary": "The AUDIODiWHY blog writes: I&#8217;ve breadboarded digital potentiometers before, only to find they make an ugly, audible &#8220;click&#8221; when changing resistance values when used in 30hz-20Khz AC circuits. I recently stumbled upon an IC that purportedly does away with the click&#8211;Analog Device&#8217;s DS1881&#8211;dual pots, I2C, log response&#8211;everything needed for an MCU controlled audio attenuator&#8211;but also sporting onboard [&#8230;]"
+  },
+  {
+    "title": "The Adafruit IoT Monthly Newsletter for July 2026 is out NEXT WEEK, Subscribe Now!",
+    "source": "Adafruit",
+    "date": "2026-07-01",
+    "url": "https://blog.adafruit.com/2026/07/01/the-adafruit-iot-monthly-newsletter-for-july-2026-is-out-next-week-subscribe-now/",
+    "summary": "The IoT Monthly newsletter is the best place to catch up on the latest news about the Internet of Things. We cover everything from projects to new protocols to industry news. 7,200+ readers and growing! This newsletter is only sent to your inbox once per month – don’t miss your chance to catch the July 2026 issue next [&#8230;]"
+  },
+  {
     "title": "LAMPy: a connected RGB lantern",
     "source": "Adafruit",
     "date": "2026-07-01",
@@ -201,13 +236,6 @@
     "date": "2026-07-01",
     "url": "https://blog.adafruit.com/2026/07/01/nypl-and-talea-present-liberty-lager-4thofjuly/",
     "summary": "image via Talea Beer Co. &#160; TALEA and NYPL are really giving New Yorkers the chance to celebrate like it&#8217;s 1776 with Liberty Lager, a brew inspired by George Washington&#8217;s hand written small beer recipe in the library&#8217;s archives. Read more from NYPL and use TALEA&#8217;s beer finder to find TALEA beers in New York, [&#8230;]"
-  },
-  {
-    "title": "NEW GUIDE: Adafruit ADS7128 8-Channel ADC and GPIO Expander #AdafruitLearningSystem @Adafruit",
-    "source": "Adafruit",
-    "date": "2026-07-01",
-    "url": "https://blog.adafruit.com/2026/07/01/new-guide-adafruit-ads7128-8-channel-adc-and-gpio-expander-adafruitlearningsystem-adafruit/",
-    "summary": "The Adafruit ADS7128 8-Channel ADC and GPIO Expander is a bit of a Platypus of the I2C expander world: hard to categorize as just an ADC or a GPIO expander since it combines the capabilities of both! Featuring the aforementioned ADS7128, it can run on 3.3 or 5V logic and power, and all 8 I/O [&#8230;]"
   },
   {
     "title": "Keysight and WIN Semiconductors Collaborate to Cut Design Risk for High Frequency RF Components",
@@ -278,27 +306,6 @@
     "date": "2026-06-30",
     "url": "https://www.embedded.com/sensing-and-positioning-payloads-in-leo-satellites/",
     "summary": "<p>A low Earth orbit (LEO) satellite constantly estimates its position, pointing direction, rotational speed, payload requirements, and the sun's position relative to its solar arrays. In applications such as Earth observation, communications, and scientific missions, accurate pointing is the difference between usable mission data and a wasted downlink. Attitude and orbit control systems (AOCS) in [...]</p>\n<p>The post <a href=\"https://www.embedded.com/sensing-and-positioning-payloads-in-leo-satellites/\">Sensing and Positioning Payloads in LEO Satellites</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "NEW LEARN GUIDE: USB Morse Code Key with CircuitPython #CircuitPython #AdafruitLearningSystem @Adafruit",
-    "source": "Adafruit",
-    "date": "2026-06-30",
-    "url": "https://blog.adafruit.com/2026/06/30/new-learn-guide-usb-morse-code-key-with-circuitpython-circuitpython-adafruitlearningsystem-adafruit/",
-    "summary": "&#160; The TinyUSB library underpins many CircuitPython&#8217;s USB capabilities. It&#8217;s what lets CircuitPython act as a storage drive, CDC, HID, MIDI and more. Starting with version 10.3.0-alpha.3 CircuitPython has added support for USB audio types. This guide demonstrates usage of the USB microphone capability to generate tones and output them to a computer or other digital [&#8230;]"
-  },
-  {
-    "title": "Asteroid Day 2026 – Where Space Science And Fun Collide",
-    "source": "Adafruit",
-    "date": "2026-06-30",
-    "url": "https://blog.adafruit.com/2026/06/30/asteroid-day-2026-where-space-science-and-fun-collide/",
-    "summary": "From Asteroidday.org &#160; Look to the skies because today is International Asteroid Day. Officially recognized by the UN to bring awareness to &#8230; Asteroids. Celebrated every June 30 on the anniversary of the 1908 Tunguska impact over Siberia, Russian Federation. In movies and media (and history) asteroids are often depicted as apocalyptic. While the plausible [&#8230;]"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-06-30",
-    "url": "https://blog.adafruit.com/2026/06/30/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-30-3/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
     "title": "RS supports panel-centric MRO strategies that deliver savings without sacrificing quality",
@@ -418,12 +425,5 @@
     "date": "2026-06-25",
     "url": "https://www.embedded.com/iridium-development-kit-accelerates-hybrid-iot-design/",
     "summary": "<p>Iridium Communications has announced the commercial availability of the Iridium 9604 module and the accompanying development kit, expanding its internet of things (IoT) portfolio with a hybrid connectivity solution that integrates satellite, cellular, and positioning technologies into a single compact platform. The new products are designed to simplify the development of globally connected IoT devices [...]</p>\n<p>The post <a href=\"https://www.embedded.com/iridium-development-kit-accelerates-hybrid-iot-design/\">Iridium Development Kit Accelerates Hybrid IoT Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Eggtronic, Renesas Unveil GaN-Based Microinverter Reference Design",
-    "source": "Embedded.com",
-    "date": "2026-06-24",
-    "url": "https://www.embedded.com/eggtronic-renesas-unveil-gan-based-microinverter-reference-design/",
-    "summary": "<p>The reference design combines mixed-signal control and GaN technology to improve efficiency, power density, and cost in solar microinverters.</p>\n<p>The post <a href=\"https://www.embedded.com/eggtronic-renesas-unveil-gan-based-microinverter-reference-design/\">Eggtronic, Renesas Unveil GaN-Based Microinverter Reference Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
