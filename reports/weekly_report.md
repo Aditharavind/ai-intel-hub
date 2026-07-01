@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-01 02:01 UTC
+Generated: 2026-07-01 07:00 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-07-01 02:01 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82161 | 32864.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62902 | 25160.9 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29897 | 11958.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 82170 | 32868.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62907 | 25162.9 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29904 | 11961.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15967 | 6386.9 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15393 | 6157.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15396 | 6158.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,8 +41,8 @@ Generated: 2026-07-01 02:01 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-01 | East Ventures invests in Thai physical AI startup Amity Robotics - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxORkU4VHJFcTN5SXlLWHhwbXhCZWl3dDlnWnVQYkpjRy0yd2xxSmw0aDh4cFlKV0ZtQlB6Ql8xVzRKYVE3WHR2ZHNKMkVqTVdnZEtGVkh2eENubVpJM3RESDBfQ1IzMWtobUp3bU5taEJMQk5jSVJ3eVA1UGRDUW5weXp5aERMN3NBbDJZdWc2ZGdhN2lfWUNYcy1kWUtjeUMyS0VJQWRsc1k5V3hWOEw0?oc=5) |
+| 2026-07-01 | School For Robots: Inside A $5.5 Billion Startup's Bold Bet On Humanoids - NDTV | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSDBVUUhROG9INVd0LUhRSDIyaFRZeEFzMnUzcHNOQmUxY2NKclpmaHZvZzhnQ3AwZWg0MWhwTVV6RXBSRDdBZUZNb2c2YTF6VmVfVG53dnE2ZmNfTGxJTnJmQjVTdm5NM2J0SGZEdVA0a3M2OHFnU2dCVTFOblc0SkF1Z2EtTUpIdmpfSGJ5N21qRTVvZHVyNjZqUV9xenBYdDZPZmc0Sk1IM0XSAbMBQVVfeXFMTnVfZHR1c00tQ0M5T0ZtaFFUWjZtdS1lNk51aWptYThSVkN3MzhkYkVPWlllSkU5U3hMd3E5MHA4OU1nY1lrbW1rZUN4bndRNUI3dnJoekZEdTFKSHl5R2VpNWxpZXRmVVVWb3ZZejhLZlprX3NlRWxUSThOTTAxZ0JiYVl0R3ZVTi1oVXhTYTI2Y3ZicVBVS1Q0cXBTanJ2UVhEQ1FOc2JQTDdZMUk3VEsxUVE?oc=5) |
 | 2026-06-30 | Japan announces aid for domestic AI development project - The Japan Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxON2thNi1JNzkyUnEtZEh1SUMxNGF3R2pPWWRqMWpZeHVfVG55ckx1T0RvYVJxMzFBLV9XWDNZdlpMUGNFMm9pVkF2MU9kY0h0MTByVXNYeTg3cUttR1FaUXRLWGplOUlvdk4tdUUxal9LZ2JwWk9iS2FJdFd0Nk9yV1NtMEo1d3JhOGpidmZtQQ?oc=5) |
-| 2026-06-30 | Greater Bay Area mints two unicorns as embodied AI boom continues - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTFA4WkVCdGhPSVpNd0QyM1dEUkd5T2xJRi05NkFwdHNBakp1Zk9acTRWLW8wbkRhM3d0YkVVRnpwSEk0anc3M0lrUG1hdTh2REc1a2xkeUxzTkZPMmpISHFSajBRSEFONEhHZ1NyQ2VwMVR2ZVZwTHpRTjFodm12ZFk?oc=5) |
 | 2026-06-30 | X Square Robot attracts big names as its full-stack embodied AI strategy moves ahead - thebambooworks.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQN1BqOXZqUS04akF2elVQdXBleXQtV3hweHJ5Wng2R3gweXNBTXdlQWlCWGlvRjVuSWFCRGhJQ0x2LWtSVkM0RHpTcEVINmJfOXE0Yi1zQWJjeElGOWlaVVNyR01uTlF3bG51NEZWU2ZIZUJZTkpqcGR1UmJRWG5QUUtXOGd3RHBITm4waWpmV3ZyU3N0YjhNbnI5dC1uWVI0SUpBMmpqbDhYZ1JrWjR0U1p3?oc=5) |
 | 2026-06-30 | 6 Months, 15 Embodied AI Startups with Valuation Exceeding $10 Billion - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5td2VxYmFPZWhBMWFYVGJHeDhfOHVWdzhGVTVfaHg5cDZGMFJxQzJ4ZFg1UHhMWmlMZ2E0VVVaUUkzejJGY09wNl9MLW9pQ0pHZ3pZ?oc=5) |
-| 2026-06-30 | This $5.5 billion robotics startup built a school for humanoids - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWlmbVcyMmdsdEs5RHhjc3l3cWpJSTIySlU4WnRTaW84V25UcVBNRmdQS1Z0b1NTeUE0Z2tkVnBTby1JejNfS3Nla2tiUFlqQjNGU3BKUXBCaUtRVGliWVZQMGJyV3pCZUtHbG9ZWkdVU1VIWGRoS0Fnblh4T2JRaXp6VFhlWGxDR0ctTzFuVFNEUjhnQkNxRWpqbnl6LV93bDlyb0lYS19LZw?oc=5) |
