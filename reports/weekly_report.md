@@ -1,22 +1,16 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-01 20:31 UTC
+Generated: 2026-07-01 22:11 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-06-30 | DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation | [link](https://arxiv.org/pdf/2606.32028v1) |
-| 2026-06-30 | Freeform Preference Learning for Robotic Manipulation | [link](https://arxiv.org/pdf/2606.32027v1) |
-| 2026-06-30 | AdaJEPA: An Adaptive Latent World Model | [link](https://arxiv.org/pdf/2606.32026v1) |
-| 2026-06-30 | Flexibility as a Universal Nature-Inspired Mechanism for Thrust Enhancement | [link](https://arxiv.org/pdf/2606.32021v1) |
-| 2026-06-30 | FedLAB: Traceable Semantic Codebooks for Federated Multimodal Graph Foundation Learning | [link](https://arxiv.org/pdf/2606.32016v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82183 | 32873.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62921 | 25168.5 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29907 | 11962.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 82186 | 32874.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62920 | 25168.1 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29908 | 11963.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15969 | 6387.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15403 | 6161.3 | [link](https://github.com/ArduPilot/ardupilot) |
 

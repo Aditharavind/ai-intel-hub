@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-01 20:31 UTC
+Last Updated: 2026-07-01 22:11 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -61,22 +61,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-01 | Flipper BUSY Bar open-source productivity multitool features LED pixel display, supports Matter connectivity | CNX Software | [link](https://www.cnx-software.com/2026/07/01/flipper-busy-bar-open-source-productivity-multitool-features-led-pixel-display-supports-matter-connectivity/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-06-30 | DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation | [link](https://arxiv.org/pdf/2606.32028v1) |
-| 2026-06-30 | Freeform Preference Learning for Robotic Manipulation | [link](https://arxiv.org/pdf/2606.32027v1) |
-| 2026-06-30 | AdaJEPA: An Adaptive Latent World Model | [link](https://arxiv.org/pdf/2606.32026v1) |
-| 2026-06-30 | Flexibility as a Universal Nature-Inspired Mechanism for Thrust Enhancement | [link](https://arxiv.org/pdf/2606.32021v1) |
-| 2026-06-30 | FedLAB: Traceable Semantic Codebooks for Federated Multimodal Graph Foundation Learning | [link](https://arxiv.org/pdf/2606.32016v1) |
-| 2026-06-30 | Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments | [link](https://arxiv.org/pdf/2606.32009v1) |
-| 2026-06-30 | OopsieVerse: A Safety Benchmark with Damage-Aware Simulation for Robot Manipulation | [link](https://arxiv.org/pdf/2606.31993v1) |
-| 2026-06-30 | Adapting Generalist Robot Policies with Semantic Reinforcement Learning | [link](https://arxiv.org/pdf/2606.31958v1) |
-| 2026-06-30 | A Conformal Selection Framework for Individual Treatment Beneficiaries with Auxiliary External Data | [link](https://arxiv.org/pdf/2606.31954v1) |
-| 2026-06-30 | RRT-Rope: A deterministic shortening approach for fast near-optimal path planning in large-scale uncluttered 3D environments | [link](https://arxiv.org/pdf/2606.31948v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-01 | hcltech-robotics/cosmos-3-ac-surgical | 4 | 3 | [link](https://huggingface.co/hcltech-robotics/cosmos-3-ac-surgical) |
 | 2026-07-01 | L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup_v2 | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup_v2) |
 | 2026-07-01 | YinonDouchan/smolvla_mobile_robot_lift_turn_task | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_turn_task) |
 | 2026-07-01 | DAVIAN-Robotics/3D_HAMSTER | 3 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/3D_HAMSTER) |
@@ -86,7 +76,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-01 | L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup) |
 | 2026-07-01 | LohanTS/mon-model-robot-v4 | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-model-robot-v4) |
 | 2026-07-01 | pollen-robotics/nanowakeword-wake-up | 0 | 0 | [link](https://huggingface.co/pollen-robotics/nanowakeword-wake-up) |
-| 2026-07-01 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 235 | 8 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -96,9 +85,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | mosaico-labs/mosaico | 885 | Python | 354.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 451 | Shell | 180.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | nik-55/world-models | 168 |  | 67.3 | [link](https://github.com/nik-55/world-models) |
-| commaai/openpilot | 62921 | Python | 25168.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 62920 | Python | 25168.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15403 | C++ | 6161.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14054 | C++ | 5621.7 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14055 | C++ | 5622.1 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11257 | Python | 4502.9 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11035 | Rust | 4414.1 | [link](https://github.com/rerun-io/rerun) |
 
@@ -128,21 +117,21 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-30 | This $5.5 billion robotics startup built a school for humanoids - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWlmbVcyMmdsdEs5RHhjc3l3cWpJSTIySlU4WnRTaW84V25UcVBNRmdQS1Z0b1NTeUE0Z2tkVnBTby1JejNfS3Nla2tiUFlqQjNGU3BKUXBCaUtRVGliWVZQMGJyV3pCZUtHbG9ZWkdVU1VIWGRoS0Fnblh4T2JRaXp6VFhlWGxDR0ctTzFuVFNEUjhnQkNxRWpqbnl6LV93bDlyb0lYS19LZw?oc=5) |
 | 2026-06-30 | How Google is relying on Austin company's humanoid AI robots - Austin American-Statesman | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxPY21xcGkyT2Y3QlR6VDJCbFlqUkFTS2RNX3pfS18wbTVmR3lCdFRZOTBMRmh2VjljRkNJdm96NjFaZWxSV2ljSWhDUkVqSmhuaVdzNVlNb280c19td29hNHlidWx6Q2JISVdUWW1tY3BucGQ3YWR0Ymx0SjlPLUhndjdHcXIxaGM0ZE1xdjZETVdoTkl1eDhXdGlwQ3dyRXpfTU4wb3h3?oc=5) |
 | 2026-06-30 | A startup taught humanoid robots to retrieve packages, climb stairs, and unpack boxes – no human steering needed - TechSpot | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxOUmJ4YUtzc1V3VTRKckJhd1RpdkxDc1JzUEdoWVhXbDJzR2pHM2RzZmRxNy1QVnhidlZyYV9tR2xrc1hzMlVlMWxkQ1ZBbEh4ckFKbGZHbmJwRWplX1hWMzhUYzNuMllyaDlIRFdGOEhUdHdwSks3blNiM2c2eUV1NUQ4NkJfbGVqVVVVWFpHRHRrcGhCWk42T0I1NEFwOFNCZUxlQWVR?oc=5) |
-| 2026-06-29 | Domestic startup specializes in physical AI usable in real world - Korea.net | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE9vX2tHbmhiV3ZOb05RNG5vOWpQbk1rUWpRNG0wRm1HLUU3c2RWTUxSdzROT2FHWUI3VXQwQ19URktGQWdQVEF4YTJ3VGt2WDlKNG9Ua2d2dTRZbGVpeWFUYTNtWFNGaXlOY1FxZjJLMA?oc=5) |
+| 2026-06-29 | Domestic startup specializes in physical AI usable in real world - Korea.net | physical ai startup | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE9vX2tHbmhiV3ZOb05RNG5vOWpQbk1rUWpRNG0wRm1HLUU3c2RWTUxSdzROT2FHWUI3VXQwQ19URktGQWdQVEF4YTJ3VGt2WDlKNG9Ua2d2dTRZbGVpeWFUYTNtWFNGaXlOY1FxZjJLMA?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-01 | Firmware Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4654891006) |
 | 2026-07-01 | Helix Data Creator (Day Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693410006) |
 | 2026-07-01 | Helix Data Creator (Night Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693415006) |
+| 2026-07-01 | Helix Data Creator (Swing Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693411006) |
 | 2026-07-01 | Manager, Logistics | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6105210004) |
 | 2026-07-01 | Manager, Planning | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6104722004) |
 | 2026-07-01 | Senior Hardware Test Engineer - Torso | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6002917004) |
-| 2026-06-30 | Helix Data Creator (Swing Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693411006) |
 | 2026-06-30 | Quality Engineer, Metrology | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4626806006) |
 | 2026-06-30 | Staff Electrical Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6026732004) |
 | 2026-06-29 | Security Engineer, Product and Device Security | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4555450006) |
-| 2026-06-29 | Mechanical Design Drafter | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5833366004) |
 
 ## Automation
 

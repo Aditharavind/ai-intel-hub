@@ -1,5 +1,14 @@
 [
   {
+    "model": "hcltech-robotics/cosmos-3-ac-surgical",
+    "downloads": 4,
+    "likes": 3,
+    "url": "https://huggingface.co/hcltech-robotics/cosmos-3-ac-surgical",
+    "date": "2026-07-01",
+    "keyword": "robotics",
+    "score": 1.9
+  },
+  {
     "model": "L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup_v2",
     "downloads": 0,
     "likes": 0,
@@ -99,6 +108,15 @@
     "score": 0.1
   },
   {
+    "model": "binhpham/naive-bench-vla-jepa",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/binhpham/naive-bench-vla-jepa",
+    "date": "2026-07-01",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "vladmandic/Anima-1.0-Base-Merge-sdnq-hadamard-uint4",
     "downloads": 0,
     "likes": 0,
@@ -148,15 +166,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/EmpathicRobotics/tokenizer-vla-adaptive-v2",
-    "date": "2026-07-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "binhpham/naive-bench-vla-jepa",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/binhpham/naive-bench-vla-jepa",
     "date": "2026-07-01",
     "keyword": "vla",
     "score": 0.1
@@ -213,6 +222,15 @@
     "url": "https://huggingface.co/Oratis/world-model-research",
     "date": "2026-07-01",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "anisamsrh/rp_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/anisamsrh/rp_policy",
+    "date": "2026-07-01",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -306,15 +324,6 @@
     "score": 0.1
   },
   {
-    "model": "pollen-robotics/wake-word-detector",
-    "downloads": 550,
-    "likes": 0,
-    "url": "https://huggingface.co/pollen-robotics/wake-word-detector",
-    "date": "2026-06-30",
-    "keyword": "robotics",
-    "score": 165.1
-  },
-  {
     "model": "GreenGenomicsLab/TARA-WorldModel-VICReg",
     "downloads": 0,
     "likes": 0,
@@ -333,22 +342,13 @@
     "score": 1.6
   },
   {
-    "model": "CooperBench/dual-policy-follower-v1",
-    "downloads": 1,
+    "model": "pollen-robotics/wake-word-detector",
+    "downloads": 550,
     "likes": 0,
-    "url": "https://huggingface.co/CooperBench/dual-policy-follower-v1",
-    "date": "2026-06-30",
-    "keyword": "policy",
-    "score": 0.4
-  },
-  {
-    "model": "hcltech-robotics/cosmos3-h-surgical-simulator-alpha",
-    "downloads": 4,
-    "likes": 3,
-    "url": "https://huggingface.co/hcltech-robotics/cosmos3-h-surgical-simulator-alpha",
+    "url": "https://huggingface.co/pollen-robotics/wake-word-detector",
     "date": "2026-06-30",
     "keyword": "robotics",
-    "score": 1.9
+    "score": 165.1
   },
   {
     "model": "linhrumata/world-models",
