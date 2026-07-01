@@ -1,5 +1,14 @@
 [
   {
+    "model": "L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup_v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup_v2",
+    "date": "2026-07-01",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "YinonDouchan/smolvla_mobile_robot_lift_turn_task",
     "downloads": 0,
     "likes": 0,
@@ -90,6 +99,24 @@
     "score": 0.1
   },
   {
+    "model": "vladmandic/Flux.2-Klein-9B-KV-Merge-sdnq-hadamard-uint4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladmandic/Flux.2-Klein-9B-KV-Merge-sdnq-hadamard-uint4",
+    "date": "2026-07-01",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vladmandic/Flux.2-Klein-9B-KV-sdnq-hadamard-uint4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladmandic/Flux.2-Klein-9B-KV-sdnq-hadamard-uint4",
+    "date": "2026-07-01",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "bhe1004/FIRe-VLA-GR00T-PegInsert-Real-0701",
     "downloads": 0,
     "likes": 0,
@@ -155,11 +182,11 @@
   {
     "model": "tencent/Hy-Embodied-0.5-VLA-UMI",
     "downloads": 217,
-    "likes": 7,
+    "likes": 8,
     "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI",
     "date": "2026-07-01",
     "keyword": "embodied",
-    "score": 66.6
+    "score": 66.8
   },
   {
     "model": "kamada-riku/vla_jepa_so101_pick_toy_v9_2_plate",
@@ -186,6 +213,15 @@
     "url": "https://huggingface.co/Oratis/world-model-research",
     "date": "2026-07-01",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "KeshavLN/deskorgv2.1_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/KeshavLN/deskorgv2.1_policy",
+    "date": "2026-07-01",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -279,33 +315,6 @@
     "score": 165.1
   },
   {
-    "model": "LohanTS/mon-model-robot-v3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/LohanTS/mon-model-robot-v3",
-    "date": "2026-06-30",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Vladmun1337/multiclip-classifier-ro",
-    "downloads": 222,
-    "likes": 0,
-    "url": "https://huggingface.co/Vladmun1337/multiclip-classifier-ro",
-    "date": "2026-06-30",
-    "keyword": "vla",
-    "score": 66.7
-  },
-  {
-    "model": "mradermacher/DeepCaption-VLA-V2.0-7B-i1-GGUF",
-    "downloads": 90,
-    "likes": 1,
-    "url": "https://huggingface.co/mradermacher/DeepCaption-VLA-V2.0-7B-i1-GGUF",
-    "date": "2026-06-30",
-    "keyword": "vla",
-    "score": 27.3
-  },
-  {
     "model": "GreenGenomicsLab/TARA-WorldModel-VICReg",
     "downloads": 0,
     "likes": 0,
@@ -328,15 +337,6 @@
     "downloads": 1,
     "likes": 0,
     "url": "https://huggingface.co/CooperBench/dual-policy-follower-v1",
-    "date": "2026-06-30",
-    "keyword": "policy",
-    "score": 0.4
-  },
-  {
-    "model": "CooperBench/dual-policy-leader-v1",
-    "downloads": 1,
-    "likes": 0,
-    "url": "https://huggingface.co/CooperBench/dual-policy-leader-v1",
     "date": "2026-06-30",
     "keyword": "policy",
     "score": 0.4
@@ -529,15 +529,6 @@
     "date": "2026-06-19",
     "keyword": "embodied",
     "score": 5.8
-  },
-  {
-    "model": "leehe228/dynin-robotics-libero-all-60k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/leehe228/dynin-robotics-libero-all-60k",
-    "date": "2026-06-19",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "EmotionSprout/embodied-cognition",

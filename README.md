@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-01 16:13 UTC
+Last Updated: 2026-07-01 18:52 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -9,9 +9,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-01 | Hugging Face and Cerebras bring Gemma 4 to real-time voice AI | Hugging Face | [link](https://huggingface.co/blog/cerebras-gemma4-voice-ai) |
 | 2026-06-30 | How ChatGPT adoption has expanded | OpenAI | [link](https://openai.com/index/how-chatgpt-adoption-has-expanded) |
+| 2026-06-30 | Inside Genebench-Pro | OpenAI | [link](https://openai.com/index/genebench-pro/case-studies) |
 | 2026-06-30 | Introducing GeneBench-Pro | OpenAI | [link](https://openai.com/index/introducing-genebench-pro) |
 | 2026-06-30 | Core dump epidemiology: fixing an 18-year-old bug | OpenAI | [link](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug) |
-| 2026-06-30 | Inside Genebench-Pro | OpenAI | [link](https://openai.com/index/genebench-pro/case-studies) |
 | 2026-06-30 | ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration | Hugging Face | [link](https://huggingface.co/blog/ibm-research/scarfbench) |
 | 2026-06-30 | Why Specialization Is Inevitable | Hugging Face | [link](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable) |
 | 2026-06-30 | Featuring Every Eval Ever Results on Hugging Face Model Pages | Hugging Face | [link](https://huggingface.co/blog/eee-community-evals) |
@@ -37,6 +37,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-01 | Apptronik unveils Apollo 2 and a flagship data collection and training facility | Robotics Business Review | [link](https://www.therobotreport.com/apptronik-unveils-apollo-2-flagship-data-collection-training-facility/) |
 | 2026-07-01 | Top 10 robotics developments of June 2026 | Robotics Business Review | [link](https://www.therobotreport.com/top-10-robotic-stories-june-2026/) |
+| 2026-07-01 | In Robotics, Ruggedization Is No Longer Optional | The Robot Report | [link](https://www.therobotreport.com/in-robotics-ruggedization-is-no-longer-optional/) |
 | 2026-06-30 | Sonair ADAR One 3D ultrasonic sensor is now safety-certified | Robotics Business Review | [link](https://www.therobotreport.com/sonair-3d-ultrasonic-sensor-is-now-safety-certified/) |
 | 2026-06-30 | Queue raises funding to build fully autonomous pharmacy | Robotics Business Review | [link](https://www.therobotreport.com/queue-raises-funding-fully-autonomous-pharmacy/) |
 | 2026-06-30 | Soft, robotic cells from morph embed physical AI into hardware | Robotics Business Review | [link](https://www.therobotreport.com/soft-robotic-cells-from-morph-embed-physical-ai-into-hardware/) |
@@ -44,28 +45,39 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-30 | Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/) |
 | 2026-06-30 | X Square Robot brings its valuation to $2.8B with four consecutive funding rounds | Robotics Business Review | [link](https://www.therobotreport.com/x-square-robot-brings-valuation-2-8b-four-consecutive-funding-rounds/) |
 | 2026-06-29 | MBody AI expands service robotics operations to eleven states and Canada | Robotics Business Review | [link](https://www.therobotreport.com/mbody-ai-expands-service-robotics-operations-eleven-states-canada/) |
-| 2026-06-29 | Advantages of hypoid gearing over worm, bevel and bevel-planetary | Robotics Business Review | [link](https://www.therobotreport.com/advantages-of-hypoid-gearing-over-worm-bevel-and-bevel-planetary/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-01 | FLOSS Weekly Episode 873: Wait, That’s Not Open Source! | Hackaday | [link](https://hackaday.com/2026/07/01/floss-weekly-episode-873-wait-thats-not-open-source/) |
+| 2026-07-01 | Review: The Tanmatsu, A Year On | Hackaday | [link](https://hackaday.com/2026/07/01/review-the-tanmatsu-a-year-on/) |
 | 2026-07-01 | Engineering Micro-Submarines to Replace Fish | Hackaday | [link](https://hackaday.com/2026/07/01/engineering-micro-submarines-to-replace-fish/) |
 | 2026-07-01 | UDP Broadcasting and Easily Finding Network Services | Hackaday | [link](https://hackaday.com/2026/07/01/udp-broadcasting-and-easily-finding-network-services/) |
 | 2026-07-01 | Terminus is a Text Only Phone Because Telephony is Dead Anyway | Hackaday | [link](https://hackaday.com/2026/07/01/terminus-is-a-text-only-phone-because-telephony-is-dead-anyway/) |
 | 2026-07-01 | Watch a Steam Controller Skitter Itself To Its Charge Puck | Hackaday | [link](https://hackaday.com/2026/07/01/watch-a-steam-controller-skitter-itself-to-its-charge-puck/) |
 | 2026-07-01 | From Sugar to Ethanol Fuel With a Little Microbial Help | Hackaday | [link](https://hackaday.com/2026/06/30/from-sugar-to-ethanol-fuel-with-a-little-microbial-help/) |
-| 2026-07-01 | How to Remove Bounce When Bouncy Objects Encounter Bounciness | Hackaday | [link](https://hackaday.com/2026/06/30/how-to-remove-bounce-when-bouncy-objects-encounter-bounciness/) |
 | 2026-07-01 | Sipeed NanoKVM-Go – An 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/01/sipeed-nanokvm-go-an-4k-usb-c-kvm-with-recall-like-function-ai-integration/) |
 | 2026-07-01 | Raspberry Pi CM0-based industrial data acquisition gateway features RS-485, RS-232, DI, and DO interfaces | CNX Software | [link](https://www.cnx-software.com/2026/07/01/raspberry-pi-cm0-based-industrial-data-acquisition-gateway-offer-rs485-rs232-di-do-interfaces/) |
 | 2026-07-01 | Flipper BUSY Bar open-source productivity multitool features LED pixel display, supports Matter connectivity | CNX Software | [link](https://www.cnx-software.com/2026/07/01/flipper-busy-bar-open-source-productivity-multitool-features-led-pixel-display-supports-matter-connectivity/) |
-| 2026-07-01 | How to Avoid Higher Rigid-Flex PCB Prototyping Costs | Embedded.com | [link](https://www.embedded.com/how-to-avoid-higher-rigid-flex-pcb-prototyping-costs/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-06-30 | DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation | [link](https://arxiv.org/pdf/2606.32028v1) |
+| 2026-06-30 | Freeform Preference Learning for Robotic Manipulation | [link](https://arxiv.org/pdf/2606.32027v1) |
+| 2026-06-30 | AdaJEPA: An Adaptive Latent World Model | [link](https://arxiv.org/pdf/2606.32026v1) |
+| 2026-06-30 | Flexibility as a Universal Nature-Inspired Mechanism for Thrust Enhancement | [link](https://arxiv.org/pdf/2606.32021v1) |
+| 2026-06-30 | FedLAB: Traceable Semantic Codebooks for Federated Multimodal Graph Foundation Learning | [link](https://arxiv.org/pdf/2606.32016v1) |
+| 2026-06-30 | Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments | [link](https://arxiv.org/pdf/2606.32009v1) |
+| 2026-06-30 | OopsieVerse: A Safety Benchmark with Damage-Aware Simulation for Robot Manipulation | [link](https://arxiv.org/pdf/2606.31993v1) |
+| 2026-06-30 | Adapting Generalist Robot Policies with Semantic Reinforcement Learning | [link](https://arxiv.org/pdf/2606.31958v1) |
+| 2026-06-30 | A Conformal Selection Framework for Individual Treatment Beneficiaries with Auxiliary External Data | [link](https://arxiv.org/pdf/2606.31954v1) |
+| 2026-06-30 | RRT-Rope: A deterministic shortening approach for fast near-optimal path planning in large-scale uncluttered 3D environments | [link](https://arxiv.org/pdf/2606.31948v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-01 | L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup_v2 | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup_v2) |
 | 2026-07-01 | YinonDouchan/smolvla_mobile_robot_lift_turn_task | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_turn_task) |
 | 2026-07-01 | DAVIAN-Robotics/3D_HAMSTER | 3 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/3D_HAMSTER) |
 | 2026-07-01 | Hiwonder-robot/Cube2Plate | 20 | 0 | [link](https://huggingface.co/Hiwonder-robot/Cube2Plate) |
@@ -75,7 +87,6 @@ _No items collected yet._
 | 2026-07-01 | LohanTS/mon-model-robot-v4 | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-model-robot-v4) |
 | 2026-07-01 | pollen-robotics/nanowakeword-wake-up | 0 | 0 | [link](https://huggingface.co/pollen-robotics/nanowakeword-wake-up) |
 | 2026-07-01 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 235 | 8 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
-| 2026-07-01 | RobotisSW/Recycle_BlackPlasticCup_place_1022_0630_100k_act | 0 | 0 | [link](https://huggingface.co/RobotisSW/Recycle_BlackPlasticCup_place_1022_0630_100k_act) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -83,13 +94,13 @@ _No items collected yet._
 | Edgenesis/shifu | 1421 | Go | 568.5 | [link](https://github.com/Edgenesis/shifu) |
 | copper-project/copper-rs | 1373 | Rust | 549.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 885 | Python | 354.1 | [link](https://github.com/mosaico-labs/mosaico) |
-| commaai/openpilot | 62920 | Python | 25168.1 | [link](https://github.com/commaai/openpilot) |
+| awslabs/awsome-distributed-ai | 451 | Shell | 180.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| commaai/openpilot | 62921 | Python | 25168.5 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15403 | C++ | 6161.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14053 | C++ | 5621.3 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14054 | C++ | 5621.7 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11256 | Python | 4502.5 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11035 | Rust | 4414.1 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7575 | Python | 3030.1 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 3960 | Python | 1584.1 | [link](https://github.com/RLinf/RLinf) |
+| isaac-sim/IsaacLab | 7577 | Python | 3030.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -97,21 +108,21 @@ _No items collected yet._
 | 2026-06-26 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUhnWGpNVDY2WXlERndBVU5LNC1IUWswZzFWM1M2TlNKcERxWFJCQVFiWk13RjFhdlRiMG1uYTlhZ19Rd3lBMXpQTUp1MW1qcC1lQml4blUxM1lKM1B0SGdjdmVDQ2dQT0VnczFDVDM2Ty1rNGFUUllOWnRRQzBBUGV0N042UlJIZU9KX2lmNGxYUDZuYXJVZDJ4bndGUUVCcEpLSQ?oc=5) |
 | 2026-06-26 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE5aWVN0Nk5DOFNkaGlqTF83WERZcmIzdmt1TEZHV0p0YktNeHhiUUZ3RFNhb00zMGVmbHpHcjRrdjJRdW9MVzBudXB5TVdCS2pWNkxPSUtZZlY3WnY3SkhUUDMxdHZqZ2huYVJsR3JqMA?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
-| 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnWmtfeGFLT3VCWk1VdVNPazJ6ZjBUbmp6Vk9DOGo5aFNDOUFIb3U2RDZMLXFick1TMkZmX0k0VXRodWc2V1owYi16bEZtV3A1MHVoTFB5UWVSN1AxN2Q4?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGdybHdlOWFOTldsa00wVlY3a1NQOExZY1RKZGRJSlNHYnBYdVFrZ2NVSnBsS3FzaTgwaUtVNk9OaURuOTRodzhXa0FaUTcyQ2RZTVlyakdONWFnRkJBa2VGXy16aXAxYk1QMEd2X1RPNW0xTkxBSWxEMzNwWENBb1lza29Vd1FSLUp4MUpCNFVrWjdK?oc=5) |
 | 2026-06-25 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDhxMkc3MGdXb092MjZIbGVjQXFoSXp5OFZXYUR1T0xIcEtqdkdoYzQ3OC1vSnZRN0Z3M09PRXRiNnZGOXNJaUVBSWpIQ0d6YnZaR3g1bUdFN19fNU5LRUhuZEkwbGxGS1UzX2M5dTdyT3F5a3ZxMXhmUGllZXVEWXlnSGp5Q01yQ2ZUN0lYMTY5UVBBRXViZm9zbGd1bzF3TTFkeHA4RWxUZ0todWd0SmJNcmNKNTFVMVpScEVfejBPdko1?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxNMS1yZUtReWMtWV9vdFFoVzhxNXVEanNJd1FKVVZJYmdCbEo3ZkxtZjdvVHkzU1lTZkJnaTVRNWY3UmplMHZvX05WQnJublhUelNDNmI5WEZ2M2JOTDNfUktIamJzM0szVHEyTkMxQm5UQmUycTRhSDdNRkljM0x0ZEFpb2xlZC1LaHBLd1Nhd0hRWWoxVElRbEtBS0gyQmRrWTJoSWhBSHkySmZTcEpLeFpEdzdpMW1HNFNQdHBiWVVVNDV2X2xTd1NIbw?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdHlhT29SZkRnd1pDNDNLVHdMMjhEZV8wdC1wbm9HVmd5b1pndFNIUVdjT2lGYVBoVnJDY1NMX2VlUTRJTmxaSjNLTDQ2LTlRTHZ5QlFGUzdWNWhCM19GZVladlgxcWxJU0xIekp0RW92SGwtYW5YbHZzZERtejdLcHBaQVd2Tm1UM0Jhd3RSRHg4NlUxSmVQS3gtOGQya1pXdUxKTXFhYkxYdG1K?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVJXcUtHUlZRTjNqYl9FRHRJdkFZUU5kSVF5V1NLekl1cDNyOEppY3JkLW5BNHVYZ182OVVnZ2l6R19qZ3JmOVlhR05TNDdOYWljdlJ0TklVTGxKQ2k4R2lINzY3NXMtaDZ4RXRMRWhRWnRuRldQVEh5Y2hMYktzWmx2X2RVdHdpSUFZa0l4SFphalhpaG1kM0tubjJveXV5akIwSTgwX1hwXzBQNGF4ZEpxcFpva2RUZHphWV82YVlyeHVuUlV1LUFvNEVyYkkz?oc=5) |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZFVkekpTTlg1NXNrSktPbzBuQUNMQ2VSanU3a3FXN25GaTBzTkV3OTN0cjBSaHBxSm1ScWJjRVlTSGVYbFZ3MFZWUGF6T2NDRFNfRVR3SW5vX0ZOYmtZSUg5cXBTeWZBMGJuQzNMamFrc2x4ZDFtS0dxeTgyamFabGhCaV9ERGNJWWVkMlZEdXZGSi05dWxaa2FBZzEyTFlKYkcwV0R1Z3JLdFBIZndLX21ldnlfVi1UWDdYMGVLdGNwbEdGQVM5akdQVFBYZ05j?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-01 | Thailand's Amity Robotics Closes USD $7M Seed Round to Expand its Physical AI Concierge Business - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxQd05ibkJ6WlFJQlNWRXVCcnVIeDUtRzAzYmJiTWhlSE1YejJGM2tjQzBmR2xIUm15MEZ2WFlIOGVNOXk4NDFtb2tYZnlHTHdDeUtmWnNGX1lfVGd6QmEtZ3MwM0QwSFZ5Y0RSWGQzSG8zbnZLMV9ZTlpvNXpSOXVxSVJtczFpTGJlelczWlctNkhLTXJvRHhOVkFlMkxMdGd2Tll4YzV4ZkpjLTktZzVfVGNib0FiemZ2c1ZXc01oMEp3UDlSVF9DM0I5Z20?oc=5) |
 | 2026-07-01 | East Ventures invests in Thai physical AI startup Amity Robotics - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxORkU4VHJFcTN5SXlLWHhwbXhCZWl3dDlnWnVQYkpjRy0yd2xxSmw0aDh4cFlKV0ZtQlB6Ql8xVzRKYVE3WHR2ZHNKMkVqTVdnZEtGVkh2eENubVpJM3RESDBfQ1IzMWtobUp3bU5taEJMQk5jSVJ3eVA1UGRDUW5weXp5aERMN3NBbDJZdWc2ZGdhN2lfWUNYcy1kWUtjeUMyS0VJQWRsc1k5V3hWOEw0?oc=5) |
 | 2026-07-01 | This Embodied AI Startup Completes Series C Funding With A $2.94B Valuation - Benzinga | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWp3Ty1YaFYzS19jQUZ0VjAtWE8wZ3NlWEVEY0hXenV6MDR4WXUySGJUM3VwcE9wcnh6bnV4MXE5SEpQZXk3OWc4QTU4MHNQVy0zazlxYzhqeUNjeFU2cXJjSWpoeVdwNXdETTdJMHpveDNMZjNDMHdKR1VQNmJxWXppdmVPNjNfQ29Gc0Q1TzZfR0kwOUhVdkgwVGplejNidXhiMVF6MXctVVdscjVicmYzeS12endoaG5QNjdqSQ?oc=5) |
 | 2026-07-01 | Chinese Startup X Square Robot Hits 20 Billion Yuan Valuation - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2gxQVNvYThZeVZiUzBaeFc3R1NpUDJ1Tks1X0dITmd3cDhHY21WamxFWHg0VzNJcXJrdl80X2poeFI0NnBCYTlndTlWMVlmZFlfZWU5MnV0Z1ExbF9QaHNOZXlkbXJMWHlncjAzUFJMSGw4ejdLbnMxUmljSDBzT1hCdFkzRTVnSVhVMG1Hd0dKbE9JN3dwVU1oZUt4RTR6VjNBYlJMWFR2bUNLd0NZb250MHVtaGM?oc=5) |
-| 2026-06-30 | Japan announces aid for domestic AI development project - The Japan Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxON2thNi1JNzkyUnEtZEh1SUMxNGF3R2pPWWRqMWpZeHVfVG55ckx1T0RvYVJxMzFBLV9XWDNZdlpMUGNFMm9pVkF2MU9kY0h0MTByVXNYeTg3cUttR1FaUXRLWGplOUlvdk4tdUUxal9LZ2JwWk9iS2FJdFd0Nk9yV1NtMEo1d3JhOGpidmZtQQ?oc=5) |
 | 2026-06-30 | 6 Months, 15 Embodied AI Startups with Valuation Exceeding $10 Billion - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5td2VxYmFPZWhBMWFYVGJHeDhfOHVWdzhGVTVfaHg5cDZGMFJxQzJ4ZFg1UHhMWmlMZ2E0VVVaUUkzejJGY09wNl9MLW9pQ0pHZ3pZ?oc=5) |
 | 2026-06-30 | Greater Bay Area mints two unicorns as embodied AI boom continues - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTFA4WkVCdGhPSVpNd0QyM1dEUkd5T2xJRi05NkFwdHNBakp1Zk9acTRWLW8wbkRhM3d0YkVVRnpwSEk0anc3M0lrUG1hdTh2REc1a2xkeUxzTkZPMmpISHFSajBRSEFONEhHZ1NyQ2VwMVR2ZVZwTHpRTjFodm12ZFk?oc=5) |
 | 2026-06-30 | This $5.5 billion robotics startup built a school for humanoids - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWlmbVcyMmdsdEs5RHhjc3l3cWpJSTIySlU4WnRTaW84V25UcVBNRmdQS1Z0b1NTeUE0Z2tkVnBTby1JejNfS3Nla2tiUFlqQjNGU3BKUXBCaUtRVGliWVZQMGJyV3pCZUtHbG9ZWkdVU1VIWGRoS0Fnblh4T2JRaXp6VFhlWGxDR0ctTzFuVFNEUjhnQkNxRWpqbnl6LV93bDlyb0lYS19LZw?oc=5) |
@@ -122,16 +133,16 @@ _No items collected yet._
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-01 | Helix Data Creator (Day Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693410006) |
+| 2026-07-01 | Helix Data Creator (Night Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693415006) |
 | 2026-07-01 | Manager, Logistics | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6105210004) |
-| 2026-06-30 | Helix Data Creator (Day Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693410006) |
-| 2026-06-30 | Helix Data Creator (Night Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693415006) |
+| 2026-07-01 | Manager, Planning | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6104722004) |
 | 2026-06-30 | Helix Data Creator (Swing Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693411006) |
 | 2026-06-30 | Quality Engineer, Metrology | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4626806006) |
 | 2026-06-30 | Senior Hardware Test Engineer - Torso | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6002917004) |
 | 2026-06-30 | Staff Electrical Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6026732004) |
 | 2026-06-29 | Security Engineer, Product and Device Security | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4555450006) |
 | 2026-06-29 | Mechanical Design Drafter | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5833366004) |
-| 2026-06-29 | Senior Electrical Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6103178004) |
 
 ## Automation
 
