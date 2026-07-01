@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-01 07:00 UTC
+Last Updated: 2026-07-01 10:41 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-01 | Watch a Steam Controller Skitter Itself To Its Charge Puck | Hackaday | [link](https://hackaday.com/2026/07/01/watch-a-steam-controller-skitter-itself-to-its-charge-puck/) |
 | 2026-07-01 | From Sugar to Ethanol Fuel With a Little Microbial Help | Hackaday | [link](https://hackaday.com/2026/06/30/from-sugar-to-ethanol-fuel-with-a-little-microbial-help/) |
 | 2026-07-01 | How to Remove Bounce When Bouncy Objects Encounter Bounciness | Hackaday | [link](https://hackaday.com/2026/06/30/how-to-remove-bounce-when-bouncy-objects-encounter-bounciness/) |
+| 2026-07-01 | Raspberry Pi CM0-based industrial data acquisition gateway features RS-485, RS-232, DI, and DO interfaces | CNX Software | [link](https://www.cnx-software.com/2026/07/01/raspberry-pi-cm0-based-industrial-data-acquisition-gateway-offer-rs485-rs232-di-do-interfaces/) |
 | 2026-07-01 | Flipper BUSY Bar open-source productivity multitool features LED pixel display, supports Matter connectivity | CNX Software | [link](https://www.cnx-software.com/2026/07/01/flipper-busy-bar-open-source-productivity-multitool-features-led-pixel-display-supports-matter-connectivity/) |
-| 2026-07-01 | Non-AI lead times  normalising | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/lead-times-3-2026-07/) |
+| 2026-07-01 | Molex releases HSAutoLink G automotive Ethernet connector system | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/connectors/molex-releases-hsautolink-g-automotive-ethernet-connector-system-2026-07/) |
+| 2026-07-01 | Non-AI lead times normalising | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/lead-times-3-2026-07/) |
 | 2026-07-01 | AI transforming optical receiver market | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/ai-transforming-optical-receiver-market-2026-07/) |
 | 2026-07-01 | AI will enhance the RAN but won’t expand RAN market | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/ai-ran-2026-07/) |
 | 2026-07-01 | Panasonic launches compact PCB relay series | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/panasonic-launches-compact-pcb-relay-series-2026-07/) |
-| 2026-07-01 | Vishay adds to polymer PTC thermistors | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/vishay-adds-to-polymer-ptc-thermistors-2026-07/) |
-| 2026-07-01 | Top Ten IDMs | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-idms-3-2026-07/) |
-| 2026-06-30 | Building a Fiber-Coupled Laser Source for Precision Optics | Hackaday | [link](https://hackaday.com/2026/06/30/building-a-fiber-coupled-laser-source-for-precision-optics/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-01 | Kamna0321/so101_persepsi_robot_20260701_152145 | 0 | 0 | [link](https://huggingface.co/Kamna0321/so101_persepsi_robot_20260701_152145) |
+| 2026-07-01 | Kamna0321/so101_persepsi_robot_20260701_164927 | 0 | 0 | [link](https://huggingface.co/Kamna0321/so101_persepsi_robot_20260701_164927) |
+| 2026-07-01 | L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup) |
+| 2026-07-01 | LohanTS/mon-model-robot-v4 | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-model-robot-v4) |
 | 2026-07-01 | pollen-robotics/nanowakeword-wake-up | 0 | 0 | [link](https://huggingface.co/pollen-robotics/nanowakeword-wake-up) |
+| 2026-07-01 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 235 | 8 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 | 2026-07-01 | RobotisSW/Recycle_BlackPlasticCup_place_1022_0630_100k_act | 0 | 0 | [link](https://huggingface.co/RobotisSW/Recycle_BlackPlasticCup_place_1022_0630_100k_act) |
+| 2026-07-01 | binhpham/naive-bench-vla-jepa | 0 | 0 | [link](https://huggingface.co/binhpham/naive-bench-vla-jepa) |
 | 2026-07-01 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
 | 2026-07-01 | Cocoyawn32/vlanext-robolab-droid-eval | 0 | 0 | [link](https://huggingface.co/Cocoyawn32/vlanext-robolab-droid-eval) |
-| 2026-07-01 | kamada-riku/vla_jepa_so101_pick_toy_v9_2_plate | 0 | 0 | [link](https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v9_2_plate) |
-| 2026-07-01 | MakinoKF/pick-black-nut-dataset_act-policy-v1 | 0 | 0 | [link](https://huggingface.co/MakinoKF/pick-black-nut-dataset_act-policy-v1) |
-| 2026-07-01 | HYU-NLP-EVAL/helpfulness-argo-len2048-policy-step-100 | 0 | 0 | [link](https://huggingface.co/HYU-NLP-EVAL/helpfulness-argo-len2048-policy-step-100) |
-| 2026-07-01 | v1n-cent/test_policy_0701 | 0 | 0 | [link](https://huggingface.co/v1n-cent/test_policy_0701) |
-| 2026-07-01 | MakinoKF/pick-closest-lined-13nut-dataset_act-policy-v1 | 0 | 0 | [link](https://huggingface.co/MakinoKF/pick-closest-lined-13nut-dataset_act-policy-v1) |
-| 2026-07-01 | jovaldivieso/single_integrator_casadi_diffusion_policy | 0 | 0 | [link](https://huggingface.co/jovaldivieso/single_integrator_casadi_diffusion_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 62907 | Python | 25162.9 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15396 | C++ | 6158.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| Edgenesis/shifu | 1421 | Go | 568.5 | [link](https://github.com/Edgenesis/shifu) |
+| mosaico-labs/mosaico | 884 | Python | 353.7 | [link](https://github.com/mosaico-labs/mosaico) |
+| commaai/openpilot | 62913 | Python | 25165.3 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15401 | C++ | 6160.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14048 | C++ | 5619.3 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11255 | Python | 4502.1 | [link](https://github.com/kornia/kornia) |
-| isaac-sim/IsaacLab | 7572 | Python | 3028.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 3950 | Python | 1580.1 | [link](https://github.com/RLinf/RLinf) |
+| rerun-io/rerun | 11034 | Rust | 4413.7 | [link](https://github.com/rerun-io/rerun) |
+| isaac-sim/IsaacLab | 7573 | Python | 3029.3 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 3955 | Python | 1582.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3814 | Rust | 1525.7 | [link](https://github.com/dora-rs/dora) |
-| leofan90/Awesome-World-Models | 1852 | Python | 740.9 | [link](https://github.com/leofan90/Awesome-World-Models) |
-| StanfordVL/BEHAVIOR-1K | 1540 | Python | 616.1 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| starVLA/starVLA | 3011 | Python | 1204.5 | [link](https://github.com/starVLA/starVLA) |
-| sou350121/VLA-Handbook | 337 | HTML | 134.9 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -120,6 +120,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-07-01 | East Ventures invests in Thai physical AI startup Amity Robotics - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxORkU4VHJFcTN5SXlLWHhwbXhCZWl3dDlnWnVQYkpjRy0yd2xxSmw0aDh4cFlKV0ZtQlB6Ql8xVzRKYVE3WHR2ZHNKMkVqTVdnZEtGVkh2eENubVpJM3RESDBfQ1IzMWtobUp3bU5taEJMQk5jSVJ3eVA1UGRDUW5weXp5aERMN3NBbDJZdWc2ZGdhN2lfWUNYcy1kWUtjeUMyS0VJQWRsc1k5V3hWOEw0?oc=5) |
+| 2026-07-01 | Thai Startup Amity Robotics Closes US$ 7.0 Million Seed Round to Build a Globally Competitive Physical AI Company - Techsauce | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZSTJZV25TcUVSVnQxLUZnclNrLXhBbmhPSlpzNzczV0tQNHhTbmdZMEliSXhyNmQ2V2I2a2tzVXB2Q3FoNUx6SzBKLTY2MEQ2dDFFMTNDZ2tsMF90WUF0REkxVmQ0bWhT?oc=5) |
+| 2026-07-01 | Chinese Startup X Square Robot Hits 20 Billion Yuan Valuation - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2gxQVNvYThZeVZiUzBaeFc3R1NpUDJ1Tks1X0dITmd3cDhHY21WamxFWHg0VzNJcXJrdl80X2poeFI0NnBCYTlndTlWMVlmZFlfZWU5MnV0Z1ExbF9QaHNOZXlkbXJMWHlncjAzUFJMSGw4ejdLbnMxUmljSDBzT1hCdFkzRTVnSVhVMG1Hd0dKbE9JN3dwVU1oZUt4RTR6VjNBYlJMWFR2bUNLd0NZb250MHVtaGM?oc=5) |
 | 2026-07-01 | School For Robots: Inside A $5.5 Billion Startup's Bold Bet On Humanoids - NDTV | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSDBVUUhROG9INVd0LUhRSDIyaFRZeEFzMnUzcHNOQmUxY2NKclpmaHZvZzhnQ3AwZWg0MWhwTVV6RXBSRDdBZUZNb2c2YTF6VmVfVG53dnE2ZmNfTGxJTnJmQjVTdm5NM2J0SGZEdVA0a3M2OHFnU2dCVTFOblc0SkF1Z2EtTUpIdmpfSGJ5N21qRTVvZHVyNjZqUV9xenBYdDZPZmc0Sk1IM0XSAbMBQVVfeXFMTnVfZHR1c00tQ0M5T0ZtaFFUWjZtdS1lNk51aWptYThSVkN3MzhkYkVPWlllSkU5U3hMd3E5MHA4OU1nY1lrbW1rZUN4bndRNUI3dnJoekZEdTFKSHl5R2VpNWxpZXRmVVVWb3ZZejhLZlprX3NlRWxUSThOTTAxZ0JiYVl0R3ZVTi1oVXhTYTI2Y3ZicVBVS1Q0cXBTanJ2UVhEQ1FOc2JQTDdZMUk3VEsxUVE?oc=5) |
 | 2026-06-30 | Japan announces aid for domestic AI development project - The Japan Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxON2thNi1JNzkyUnEtZEh1SUMxNGF3R2pPWWRqMWpZeHVfVG55ckx1T0RvYVJxMzFBLV9XWDNZdlpMUGNFMm9pVkF2MU9kY0h0MTByVXNYeTg3cUttR1FaUXRLWGplOUlvdk4tdUUxal9LZ2JwWk9iS2FJdFd0Nk9yV1NtMEo1d3JhOGpidmZtQQ?oc=5) |
 | 2026-06-30 | X Square Robot attracts big names as its full-stack embodied AI strategy moves ahead - thebambooworks.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQN1BqOXZqUS04akF2elVQdXBleXQtV3hweHJ5Wng2R3gweXNBTXdlQWlCWGlvRjVuSWFCRGhJQ0x2LWtSVkM0RHpTcEVINmJfOXE0Yi1zQWJjeElGOWlaVVNyR01uTlF3bG51NEZWU2ZIZUJZTkpqcGR1UmJRWG5QUUtXOGd3RHBITm4waWpmV3ZyU3N0YjhNbnI5dC1uWVI0SUpBMmpqbDhYZ1JrWjR0U1p3?oc=5) |
@@ -127,8 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-30 | Greater Bay Area mints two unicorns as embodied AI boom continues - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTFA4WkVCdGhPSVpNd0QyM1dEUkd5T2xJRi05NkFwdHNBakp1Zk9acTRWLW8wbkRhM3d0YkVVRnpwSEk0anc3M0lrUG1hdTh2REc1a2xkeUxzTkZPMmpISHFSajBRSEFONEhHZ1NyQ2VwMVR2ZVZwTHpRTjFodm12ZFk?oc=5) |
 | 2026-06-30 | This $5.5 billion robotics startup built a school for humanoids - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWlmbVcyMmdsdEs5RHhjc3l3cWpJSTIySlU4WnRTaW84V25UcVBNRmdQS1Z0b1NTeUE0Z2tkVnBTby1JejNfS3Nla2tiUFlqQjNGU3BKUXBCaUtRVGliWVZQMGJyV3pCZUtHbG9ZWkdVU1VIWGRoS0Fnblh4T2JRaXp6VFhlWGxDR0ctTzFuVFNEUjhnQkNxRWpqbnl6LV93bDlyb0lYS19LZw?oc=5) |
 | 2026-06-30 | How Google is relying on Austin company's humanoid AI robots - Austin American-Statesman | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxPY21xcGkyT2Y3QlR6VDJCbFlqUkFTS2RNX3pfS18wbTVmR3lCdFRZOTBMRmh2VjljRkNJdm96NjFaZWxSV2ljSWhDUkVqSmhuaVdzNVlNb280c19td29hNHlidWx6Q2JISVdUWW1tY3BucGQ3YWR0Ymx0SjlPLUhndjdHcXIxaGM0ZE1xdjZETVdoTkl1eDhXdGlwQ3dyRXpfTU4wb3h3?oc=5) |
-| 2026-06-30 | A startup taught humanoid robots to retrieve packages, climb stairs, and unpack boxes – no human steering needed - TechSpot | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxOUmJ4YUtzc1V3VTRKckJhd1RpdkxDc1JzUEdoWVhXbDJzR2pHM2RzZmRxNy1QVnhidlZyYV9tR2xrc1hzMlVlMWxkQ1ZBbEh4ckFKbGZHbmJwRWplX1hWMzhUYzNuMllyaDlIRFdGOEhUdHdwSks3blNiM2c2eUV1NUQ4NkJfbGVqVVVVWFpHRHRrcGhCWk42T0I1NEFwOFNCZUxlQWVR?oc=5) |
-| 2026-06-29 | Domestic startup specializes in physical AI usable in real world - Korea.net | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE9vX2tHbmhiV3ZOb05RNG5vOWpQbk1rUWpRNG0wRm1HLUU3c2RWTUxSdzROT2FHWUI3VXQwQ19URktGQWdQVEF4YTJ3VGt2WDlKNG9Ua2d2dTRZbGVpeWFUYTNtWFNGaXlOY1FxZjJLMA?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
