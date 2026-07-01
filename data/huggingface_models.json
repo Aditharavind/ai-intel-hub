@@ -1,5 +1,14 @@
 [
   {
+    "model": "zolkin/robot_rl",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/zolkin/robot_rl",
+    "date": "2026-07-01",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
     "model": "hcltech-robotics/cosmos-3-ac-surgical",
     "downloads": 4,
     "likes": 3,
@@ -99,12 +108,12 @@
     "score": 72.2
   },
   {
-    "model": "RobotisSW/Recycle_BlackPlasticCup_place_1022_0630_100k_act",
+    "model": "bhe1004/FIRe-VLA-GR00T-NutThread-Real-0701",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Recycle_BlackPlasticCup_place_1022_0630_100k_act",
+    "url": "https://huggingface.co/bhe1004/FIRe-VLA-GR00T-NutThread-Real-0701",
     "date": "2026-07-01",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -225,6 +234,33 @@
     "score": 0.1
   },
   {
+    "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos2_v2_policy0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos2_v2_policy0",
+    "date": "2026-07-01",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos1_v2_policy0",
+    "downloads": 47,
+    "likes": 0,
+    "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos1_v2_policy0",
+    "date": "2026-07-01",
+    "keyword": "policy",
+    "score": 14.2
+  },
+  {
+    "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos0_v2_policy0",
+    "downloads": 100,
+    "likes": 0,
+    "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos0_v2_policy0",
+    "date": "2026-07-01",
+    "keyword": "policy",
+    "score": 30.1
+  },
+  {
     "model": "anisamsrh/rp_policy",
     "downloads": 0,
     "likes": 0,
@@ -306,24 +342,6 @@
     "score": 0.1
   },
   {
-    "model": "jovaldivieso/single_integrator_casadi_diffusion_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jovaldivieso/single_integrator_casadi_diffusion_policy",
-    "date": "2026-07-01",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Pradheep1647/kibitzer-clean-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Pradheep1647/kibitzer-clean-policy",
-    "date": "2026-07-01",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "GreenGenomicsLab/TARA-WorldModel-VICReg",
     "downloads": 0,
     "likes": 0,
@@ -331,15 +349,6 @@
     "date": "2026-06-30",
     "keyword": "world model",
     "score": 0.1
-  },
-  {
-    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "downloads": 5,
-    "likes": 0,
-    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "date": "2026-06-30",
-    "keyword": "policy",
-    "score": 1.6
   },
   {
     "model": "pollen-robotics/wake-word-detector",
