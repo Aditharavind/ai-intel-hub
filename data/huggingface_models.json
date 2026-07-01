@@ -1,5 +1,50 @@
 [
   {
+    "model": "RobotisSW/Recycle_BlackPlasticCup_place_1022_0630_100k_act",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Recycle_BlackPlasticCup_place_1022_0630_100k_act",
+    "date": "2026-07-01",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "anhtld/vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/anhtld/vla",
+    "date": "2026-07-01",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "jovaldivieso/single_integrator_casadi_diffusion_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jovaldivieso/single_integrator_casadi_diffusion_policy",
+    "date": "2026-07-01",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Pradheep1647/kibitzer-clean-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Pradheep1647/kibitzer-clean-policy",
+    "date": "2026-07-01",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v2.1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v2.1",
+    "date": "2026-06-30",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "pollen-robotics/nanowakeword-wake-up",
     "downloads": 0,
     "likes": 0,
@@ -90,33 +135,6 @@
     "score": 0.1
   },
   {
-    "model": "junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head0p8789_0p0011_vlmfreeze",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head0p8789_0p0011_vlmfreeze",
-    "date": "2026-06-30",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "openEuler/IB_Robot_ACT_banana_pick_distill",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/openEuler/IB_Robot_ACT_banana_pick_distill",
-    "date": "2026-06-30",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "anhtld/vla",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/anhtld/vla",
-    "date": "2026-06-30",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "Vladmun1337/multiclip-classifier-ro",
     "downloads": 222,
     "likes": 0,
@@ -180,10 +198,10 @@
     "score": 0.1
   },
   {
-    "model": "jovaldivieso/single_integrator_casadi_diffusion_policy",
+    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/jovaldivieso/single_integrator_casadi_diffusion_policy",
+    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
     "date": "2026-06-30",
     "keyword": "policy",
     "score": 0.1
@@ -265,24 +283,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Ethgar/skyfull-policy-aosta-rescue-v1",
-    "date": "2026-06-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "date": "2026-06-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ameimei/action_policy_soarm",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ameimei/action_policy_soarm",
     "date": "2026-06-30",
     "keyword": "policy",
     "score": 0.1
@@ -511,15 +511,6 @@
     "date": "2026-06-21",
     "keyword": "robotics",
     "score": 7.9
-  },
-  {
-    "model": "Dust-Robotics/act-tealight_wicking_rebotb601-v2",
-    "downloads": 52,
-    "likes": 0,
-    "url": "https://huggingface.co/Dust-Robotics/act-tealight_wicking_rebotb601-v2",
-    "date": "2026-06-20",
-    "keyword": "robotics",
-    "score": 15.7
   },
   {
     "model": "NU-World-Model-Embodied-AI/ActQuant-Pi05-LIBERO-3.5bpw",

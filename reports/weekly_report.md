@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-06-30 23:01 UTC
+Generated: 2026-07-01 02:01 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-06-29 | VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes | [link](https://arxiv.org/pdf/2606.30645v1) |
-| 2026-06-29 | Self-Evolving World Models for LLM Agent Planning | [link](https://arxiv.org/pdf/2606.30639v1) |
-| 2026-06-29 | Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors | [link](https://arxiv.org/pdf/2606.30638v1) |
-| 2026-06-29 | GROW$^2$: Grounding Which and Where for Robot Tool Use | [link](https://arxiv.org/pdf/2606.30632v1) |
-| 2026-06-29 | Sequential Planning via Anchored Robotic Keypoints | [link](https://arxiv.org/pdf/2606.30613v1) |
+| 2026-06-30 | DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation | [link](https://arxiv.org/pdf/2606.32028v1) |
+| 2026-06-30 | Freeform Preference Learning for Robotic Manipulation | [link](https://arxiv.org/pdf/2606.32027v1) |
+| 2026-06-30 | AdaJEPA: An Adaptive Latent World Model | [link](https://arxiv.org/pdf/2606.32026v1) |
+| 2026-06-30 | Flexibility as a Universal Nature-Inspired Mechanism for Thrust Enhancement | [link](https://arxiv.org/pdf/2606.32021v1) |
+| 2026-06-30 | FedLAB: Traceable Semantic Codebooks for Federated Multimodal Graph Foundation Learning | [link](https://arxiv.org/pdf/2606.32016v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82157 | 32862.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62898 | 25159.3 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29898 | 11959.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 82161 | 32864.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62902 | 25160.9 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29897 | 11958.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15967 | 6386.9 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15392 | 6156.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15393 | 6157.3 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |

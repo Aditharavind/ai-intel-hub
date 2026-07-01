@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-06-30 23:01 UTC
+Last Updated: 2026-07-01 02:01 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,58 +49,58 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-01 | How to Remove Bounce When Bouncy Objects Encounter Bounciness | Hackaday | [link](https://hackaday.com/2026/06/30/how-to-remove-bounce-when-bouncy-objects-encounter-bounciness/) |
+| 2026-07-01 | Top Ten IDMs | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-idms-3-2026-07/) |
 | 2026-06-30 | Building a Fiber-Coupled Laser Source for Precision Optics | Hackaday | [link](https://hackaday.com/2026/06/30/building-a-fiber-coupled-laser-source-for-precision-optics/) |
 | 2026-06-30 | Retro Gear and the Mystery of Cables Melting Into Cases While in Storage | Hackaday | [link](https://hackaday.com/2026/06/30/retro-gear-and-the-mystery-of-cables-melting-into-cases-while-in-storage/) |
 | 2026-06-30 | Building a Micrometer-Level Displacement Sensor with 3D Printed Parts | Hackaday | [link](https://hackaday.com/2026/06/30/building-a-micrometer-level-displacement-sensor-with-3d-printed-parts/) |
 | 2026-06-30 | Microsoft’s Topological Quantum Computing Claims Once Again In Question | Hackaday | [link](https://hackaday.com/2026/06/30/microsofts-topological-quantum-computing-claims-once-again-in-question/) |
 | 2026-06-30 | Bite Into Strange Sounds With NOISFERATU | Hackaday | [link](https://hackaday.com/2026/06/30/bite-into-strange-sounds-with-noiseferatu/) |
 | 2026-06-30 | How Airspeed Sensors Work | Hackaday | [link](https://hackaday.com/2026/06/30/how-airspeed-sensors-work/) |
-| 2026-06-30 | Hacking a Reverse Osmosis Water Filter Through its Smart Faucet | Hackaday | [link](https://hackaday.com/2026/06/30/hacking-a-reverse-osmosis-water-filter-through-its-smart-faucet/) |
 | 2026-06-30 | WeAct N006 – A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs | CNX Software | [link](https://www.cnx-software.com/2026/06/30/weact-n006-a-compact-nvidia-jetson-orin-nx-carrier-board-designed-for-robots-and-uavs/) |
 | 2026-06-30 | XIAO nRF54LM20A (Sense) board enables ultra-low-power Bluetooth 6.0, Matter, Thread, Zigbee, or 2.4 GHz proprietary applications | CNX Software | [link](https://www.cnx-software.com/2026/06/30/xiao-nrf54lm20a-sense-board-enables-ultra-low-power-bluetooth-6-0-matter-thread-zigbee-or-2-4-ghz-proprietary-applications/) |
-| 2026-06-30 | Banana Pi BPI-VP10 – A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU | CNX Software | [link](https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-06-29 | VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes | [link](https://arxiv.org/pdf/2606.30645v1) |
-| 2026-06-29 | Self-Evolving World Models for LLM Agent Planning | [link](https://arxiv.org/pdf/2606.30639v1) |
-| 2026-06-29 | Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors | [link](https://arxiv.org/pdf/2606.30638v1) |
-| 2026-06-29 | GROW$^2$: Grounding Which and Where for Robot Tool Use | [link](https://arxiv.org/pdf/2606.30632v1) |
-| 2026-06-29 | Sequential Planning via Anchored Robotic Keypoints | [link](https://arxiv.org/pdf/2606.30613v1) |
-| 2026-06-29 | UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image | [link](https://arxiv.org/pdf/2606.30608v1) |
-| 2026-06-29 | Realtime Wind Estimation using Low Cost Quadrotor Uncrewed Aerial Vehicles | [link](https://arxiv.org/pdf/2606.30581v1) |
-| 2026-06-29 | APRIL-MedSeg: A Modular Medical Image Segmentation Toolbox Embracing Modern Paradigms | [link](https://arxiv.org/pdf/2606.30577v1) |
-| 2026-06-29 | Beyond 2D Matching: A Unified Single-Stage Framework for Geometry-Aware Cross-View Object Geo-Localization | [link](https://arxiv.org/pdf/2606.30576v1) |
-| 2026-06-29 | MOAR Planner: Multi-Objective and Adaptive Risk-Aware Path Planning for Infrastructure Inspection with a UAV | [link](https://arxiv.org/pdf/2606.30575v1) |
+| 2026-06-30 | DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation | [link](https://arxiv.org/pdf/2606.32028v1) |
+| 2026-06-30 | Freeform Preference Learning for Robotic Manipulation | [link](https://arxiv.org/pdf/2606.32027v1) |
+| 2026-06-30 | AdaJEPA: An Adaptive Latent World Model | [link](https://arxiv.org/pdf/2606.32026v1) |
+| 2026-06-30 | Flexibility as a Universal Nature-Inspired Mechanism for Thrust Enhancement | [link](https://arxiv.org/pdf/2606.32021v1) |
+| 2026-06-30 | FedLAB: Traceable Semantic Codebooks for Federated Multimodal Graph Foundation Learning | [link](https://arxiv.org/pdf/2606.32016v1) |
+| 2026-06-30 | Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments | [link](https://arxiv.org/pdf/2606.32009v1) |
+| 2026-06-30 | OopsieVerse: A Safety Benchmark with Damage-Aware Simulation for Robot Manipulation | [link](https://arxiv.org/pdf/2606.31993v1) |
+| 2026-06-30 | Adapting Generalist Robot Policies with Semantic Reinforcement Learning | [link](https://arxiv.org/pdf/2606.31958v1) |
+| 2026-06-30 | A Conformal Selection Framework for Individual Treatment Beneficiaries with Auxiliary External Data | [link](https://arxiv.org/pdf/2606.31954v1) |
+| 2026-06-30 | RRT-Rope: A deterministic shortening approach for fast near-optimal path planning in large-scale uncluttered 3D environments | [link](https://arxiv.org/pdf/2606.31948v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-01 | RobotisSW/Recycle_BlackPlasticCup_place_1022_0630_100k_act | 0 | 0 | [link](https://huggingface.co/RobotisSW/Recycle_BlackPlasticCup_place_1022_0630_100k_act) |
+| 2026-07-01 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
+| 2026-07-01 | jovaldivieso/single_integrator_casadi_diffusion_policy | 0 | 0 | [link](https://huggingface.co/jovaldivieso/single_integrator_casadi_diffusion_policy) |
+| 2026-07-01 | Pradheep1647/kibitzer-clean-policy | 0 | 0 | [link](https://huggingface.co/Pradheep1647/kibitzer-clean-policy) |
+| 2026-06-30 | L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v2.1 | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v2.1) |
 | 2026-06-30 | pollen-robotics/nanowakeword-wake-up | 0 | 0 | [link](https://huggingface.co/pollen-robotics/nanowakeword-wake-up) |
 | 2026-06-30 | L7-Robotics/smolvla_baseline_so101_conveyor_static_base | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_baseline_so101_conveyor_static_base) |
 | 2026-06-30 | L7-Robotics/smolvla_baseline_so101_pretrain_past | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_baseline_so101_pretrain_past) |
 | 2026-06-30 | pollen-robotics/wake-word-detector | 176 | 0 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
 | 2026-06-30 | LohanTS/mon-model-robot-v3 | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-model-robot-v3) |
-| 2026-06-30 | menwhatcanisay/robotwin_finetune | 0 | 0 | [link](https://huggingface.co/menwhatcanisay/robotwin_finetune) |
-| 2026-06-30 | LohanTS/mon-model-robot-v2 | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-model-robot-v2) |
-| 2026-06-30 | DAVIAN-Robotics/3D_HAMSTER | 0 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/3D_HAMSTER) |
-| 2026-06-30 | kairos-agi/Kairos3.1-4B-robot-480P | 0 | 0 | [link](https://huggingface.co/kairos-agi/Kairos3.1-4B-robot-480P) |
-| 2026-06-30 | scilwb/robotwin-pi05-adjust-bottle-sft-long | 0 | 0 | [link](https://huggingface.co/scilwb/robotwin-pi05-adjust-bottle-sft-long) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| commaai/openpilot | 62902 | Python | 25160.9 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15393 | C++ | 6157.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| dora-rs/dora | 3814 | Rust | 1525.7 | [link](https://github.com/dora-rs/dora) |
+| StanfordVL/BEHAVIOR-1K | 1540 | Python | 616.1 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
+| sou350121/VLA-Handbook | 337 | HTML | 134.9 | [link](https://github.com/sou350121/VLA-Handbook) |
 | copper-project/copper-rs | 1373 | Rust | 549.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 884 | Python | 353.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 451 | Shell | 180.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 62898 | Python | 25159.3 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 15967 | Python | 6386.9 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15392 | C++ | 6156.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14037 | C++ | 5614.9 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11027 | Rust | 4410.9 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7567 | Python | 3026.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 3941 | Python | 1576.5 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -126,9 +126,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-30 | This $5.5 billion robotics startup built a school for humanoids - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWlmbVcyMmdsdEs5RHhjc3l3cWpJSTIySlU4WnRTaW84V25UcVBNRmdQS1Z0b1NTeUE0Z2tkVnBTby1JejNfS3Nla2tiUFlqQjNGU3BKUXBCaUtRVGliWVZQMGJyV3pCZUtHbG9ZWkdVU1VIWGRoS0Fnblh4T2JRaXp6VFhlWGxDR0ctTzFuVFNEUjhnQkNxRWpqbnl6LV93bDlyb0lYS19LZw?oc=5) |
 | 2026-06-30 | How Google is relying on Austin company's humanoid AI robots - Austin American-Statesman | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxPY21xcGkyT2Y3QlR6VDJCbFlqUkFTS2RNX3pfS18wbTVmR3lCdFRZOTBMRmh2VjljRkNJdm96NjFaZWxSV2ljSWhDUkVqSmhuaVdzNVlNb280c19td29hNHlidWx6Q2JISVdUWW1tY3BucGQ3YWR0Ymx0SjlPLUhndjdHcXIxaGM0ZE1xdjZETVdoTkl1eDhXdGlwQ3dyRXpfTU4wb3h3?oc=5) |
 | 2026-06-30 | A startup taught humanoid robots to retrieve packages, climb stairs, and unpack boxes – no human steering needed - TechSpot | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxOUmJ4YUtzc1V3VTRKckJhd1RpdkxDc1JzUEdoWVhXbDJzR2pHM2RzZmRxNy1QVnhidlZyYV9tR2xrc1hzMlVlMWxkQ1ZBbEh4ckFKbGZHbmJwRWplX1hWMzhUYzNuMllyaDlIRFdGOEhUdHdwSks3blNiM2c2eUV1NUQ4NkJfbGVqVVVVWFpHRHRrcGhCWk42T0I1NEFwOFNCZUxlQWVR?oc=5) |
-| 2026-06-30 | China’s humanoid robot valuations soar as investment frenzy stokes bubble fears - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWotUVlwckZEMzBhMjVYTWprNTFjbnN4THpJWEVEd2FnNk40RFRydV8zZTZ5YVM1SFV1dzIwNkN5M08tQTQ4UjFycG5vUlpzejlHNlQ5bnFWaF91SDk3RnZuMVdhZDFldmpoMElxRG0tUFNGWnEzLTlPVUNGWWQ4dWt0VlBVYy1M0gGcAUFVX3lxTE1xWGd2RXp6ZGd1Z2w2QUtOZFdrbzdKMFlzU1c5Z2RUclUzamNDeGNHLU1ZNUtST1ZkWWFraWhwbW9pTXFKNy1UQ05SYlVGa08zZFNNSmxUR0ltZzNPT2VoeTNBVzdFZ29kTm5UVm1SbzNYR2gwYXczaE8ya0dsd1p3bDNxSzdDY0hyUzJfMkFyTDFQWHdvdFhpWGVrbQ?oc=5) |
 | 2026-06-29 | Domestic startup specializes in physical AI usable in real world - Korea.net | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE9vX2tHbmhiV3ZOb05RNG5vOWpQbk1rUWpRNG0wRm1HLUU3c2RWTUxSdzROT2FHWUI3VXQwQ19URktGQWdQVEF4YTJ3VGt2WDlKNG9Ua2d2dTRZbGVpeWFUYTNtWFNGaXlOY1FxZjJLMA?oc=5) |
 | 2026-06-29 | Mecka AI acquires Docula as it builds the data layer for robotics - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHNqMzJTMjNScG9wZF9HR21KaGdMWXZHUDlqQnUyUENCbVcwcWxfckpPM1I3UjFoTllmUG1lZkRQVVNUd0IxMk96Q0JCUFIyNVpXOEZjRFBaMGpJWGc1MUhYaTZ0Mzd6cEtQS0FjbUp3SWZER1d4Zk0yaVI1NWxWUzdEczd1QVNlbWtobzlkNA?oc=5) |
+| 2026-06-29 | Zhipingfang Hits $2.8B Valuation as Brain-Like AI Era Dawns, Greater Bay Area's First Embodied AI Unicorn - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTHZxOEMtT0tUNUtZWmJFYVB1QlZnQVJRZi1YWjFKSHJZMWp2OHB1YzZycW5iWllkR210bEx2cHBMVmUwN3E3Z2ZGQjR0UFNmVzh0eFhxdkQ5eTNzOG11TVo1elE5anZHZUIwdzF0dW9YeU80THc?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
