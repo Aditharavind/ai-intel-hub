@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-01 10:41 UTC
+Generated: 2026-07-01 13:29 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-07-01 10:41 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82174 | 32869.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62913 | 25165.3 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82177 | 32870.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62915 | 25166.1 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 29906 | 11962.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15968 | 6387.3 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15401 | 6160.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| zauberzeug/nicegui | 15969 | 6387.7 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15402 | 6160.9 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -42,7 +42,7 @@ Generated: 2026-07-01 10:41 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-07-01 | East Ventures invests in Thai physical AI startup Amity Robotics - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxORkU4VHJFcTN5SXlLWHhwbXhCZWl3dDlnWnVQYkpjRy0yd2xxSmw0aDh4cFlKV0ZtQlB6Ql8xVzRKYVE3WHR2ZHNKMkVqTVdnZEtGVkh2eENubVpJM3RESDBfQ1IzMWtobUp3bU5taEJMQk5jSVJ3eVA1UGRDUW5weXp5aERMN3NBbDJZdWc2ZGdhN2lfWUNYcy1kWUtjeUMyS0VJQWRsc1k5V3hWOEw0?oc=5) |
-| 2026-07-01 | Thai Startup Amity Robotics Closes US$ 7.0 Million Seed Round to Build a Globally Competitive Physical AI Company - Techsauce | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZSTJZV25TcUVSVnQxLUZnclNrLXhBbmhPSlpzNzczV0tQNHhTbmdZMEliSXhyNmQ2V2I2a2tzVXB2Q3FoNUx6SzBKLTY2MEQ2dDFFMTNDZ2tsMF90WUF0REkxVmQ0bWhT?oc=5) |
+| 2026-07-01 | This Embodied AI Startup Completes Series C Funding With A $2.94B Valuation - Benzinga | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWp3Ty1YaFYzS19jQUZ0VjAtWE8wZ3NlWEVEY0hXenV6MDR4WXUySGJUM3VwcE9wcnh6bnV4MXE5SEpQZXk3OWc4QTU4MHNQVy0zazlxYzhqeUNjeFU2cXJjSWpoeVdwNXdETTdJMHpveDNMZjNDMHdKR1VQNmJxWXppdmVPNjNfQ29Gc0Q1TzZfR0kwOUhVdkgwVGplejNidXhiMVF6MXctVVdscjVicmYzeS12endoaG5QNjdqSQ?oc=5) |
 | 2026-07-01 | Chinese Startup X Square Robot Hits 20 Billion Yuan Valuation - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2gxQVNvYThZeVZiUzBaeFc3R1NpUDJ1Tks1X0dITmd3cDhHY21WamxFWHg0VzNJcXJrdl80X2poeFI0NnBCYTlndTlWMVlmZFlfZWU5MnV0Z1ExbF9QaHNOZXlkbXJMWHlncjAzUFJMSGw4ejdLbnMxUmljSDBzT1hCdFkzRTVnSVhVMG1Hd0dKbE9JN3dwVU1oZUt4RTR6VjNBYlJMWFR2bUNLd0NZb250MHVtaGM?oc=5) |
 | 2026-07-01 | School For Robots: Inside A $5.5 Billion Startup's Bold Bet On Humanoids - NDTV | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSDBVUUhROG9INVd0LUhRSDIyaFRZeEFzMnUzcHNOQmUxY2NKclpmaHZvZzhnQ3AwZWg0MWhwTVV6RXBSRDdBZUZNb2c2YTF6VmVfVG53dnE2ZmNfTGxJTnJmQjVTdm5NM2J0SGZEdVA0a3M2OHFnU2dCVTFOblc0SkF1Z2EtTUpIdmpfSGJ5N21qRTVvZHVyNjZqUV9xenBYdDZPZmc0Sk1IM0XSAbMBQVVfeXFMTnVfZHR1c00tQ0M5T0ZtaFFUWjZtdS1lNk51aWptYThSVkN3MzhkYkVPWlllSkU5U3hMd3E5MHA4OU1nY1lrbW1rZUN4bndRNUI3dnJoekZEdTFKSHl5R2VpNWxpZXRmVVVWb3ZZejhLZlprX3NlRWxUSThOTTAxZ0JiYVl0R3ZVTi1oVXhTYTI2Y3ZicVBVS1Q0cXBTanJ2UVhEQ1FOc2JQTDdZMUk3VEsxUVE?oc=5) |
 | 2026-06-30 | Japan announces aid for domestic AI development project - The Japan Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxON2thNi1JNzkyUnEtZEh1SUMxNGF3R2pPWWRqMWpZeHVfVG55ckx1T0RvYVJxMzFBLV9XWDNZdlpMUGNFMm9pVkF2MU9kY0h0MTByVXNYeTg3cUttR1FaUXRLWGplOUlvdk4tdUUxal9LZ2JwWk9iS2FJdFd0Nk9yV1NtMEo1d3JhOGpidmZtQQ?oc=5) |

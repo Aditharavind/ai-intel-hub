@@ -1,5 +1,23 @@
 [
   {
+    "model": "DAVIAN-Robotics/3D_HAMSTER",
+    "downloads": 3,
+    "likes": 0,
+    "url": "https://huggingface.co/DAVIAN-Robotics/3D_HAMSTER",
+    "date": "2026-07-01",
+    "keyword": "robotics",
+    "score": 1.0
+  },
+  {
+    "model": "Hiwonder-robot/Cube2Plate",
+    "downloads": 20,
+    "likes": 0,
+    "url": "https://huggingface.co/Hiwonder-robot/Cube2Plate",
+    "date": "2026-07-01",
+    "keyword": "robot",
+    "score": 6.1
+  },
+  {
     "model": "Kamna0321/so101_persepsi_robot_20260701_152145",
     "downloads": 0,
     "likes": 0,
@@ -63,6 +81,24 @@
     "score": 0.1
   },
   {
+    "model": "EmpathicRobotics/tokenizer-vla-qwen3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/EmpathicRobotics/tokenizer-vla-qwen3",
+    "date": "2026-07-01",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "EmpathicRobotics/tokenizer-vla-adaptive-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/EmpathicRobotics/tokenizer-vla-adaptive-v2",
+    "date": "2026-07-01",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "binhpham/naive-bench-vla-jepa",
     "downloads": 0,
     "likes": 0,
@@ -117,10 +153,46 @@
     "score": 0.1
   },
   {
-    "model": "Yewy/test_mahjong_pickup_v2_policy",
+    "model": "HakkoLab/world-model-research",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Yewy/test_mahjong_pickup_v2_policy",
+    "url": "https://huggingface.co/HakkoLab/world-model-research",
+    "date": "2026-07-01",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "Oratis/world-model-research",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Oratis/world-model-research",
+    "date": "2026-07-01",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "muacha/my_pi05_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/muacha/my_pi05_policy",
+    "date": "2026-07-01",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "tools-uk/record-test-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tools-uk/record-test-policy",
+    "date": "2026-07-01",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Yewy/corrupted_test_mahjong_pickup_v2_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Yewy/corrupted_test_mahjong_pickup_v2_policy",
     "date": "2026-07-01",
     "keyword": "policy",
     "score": 0.1
@@ -207,24 +279,6 @@
     "score": 0.1
   },
   {
-    "model": "LohanTS/mon-model-robot-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/LohanTS/mon-model-robot-v2",
-    "date": "2026-06-30",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "DAVIAN-Robotics/3D_HAMSTER",
-    "downloads": 3,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/3D_HAMSTER",
-    "date": "2026-06-30",
-    "keyword": "robotics",
-    "score": 1.0
-  },
-  {
     "model": "Vladmun1337/multiclip-classifier-ro",
     "downloads": 222,
     "likes": 0,
@@ -252,37 +306,10 @@
     "score": 0.1
   },
   {
-    "model": "VladJevr/Wan",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/VladJevr/Wan",
-    "date": "2026-06-30",
-    "keyword": "vla",
-    "score": 1.9
-  },
-  {
-    "model": "LianYeSong/RPT-VLA",
-    "downloads": 59,
-    "likes": 0,
-    "url": "https://huggingface.co/LianYeSong/RPT-VLA",
-    "date": "2026-06-30",
-    "keyword": "vla",
-    "score": 17.8
-  },
-  {
     "model": "GreenGenomicsLab/TARA-WorldModel-VICReg",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/GreenGenomicsLab/TARA-WorldModel-VICReg",
-    "date": "2026-06-30",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "HakkoLab/world-model-research",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/HakkoLab/world-model-research",
     "date": "2026-06-30",
     "keyword": "world model",
     "score": 0.1
@@ -315,24 +342,6 @@
     "score": 0.4
   },
   {
-    "model": "Yewy/test_mahjong_pickup_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Yewy/test_mahjong_pickup_policy",
-    "date": "2026-06-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jovaldivieso/unicycle1_casadi_diffusion_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jovaldivieso/unicycle1_casadi_diffusion_policy",
-    "date": "2026-06-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "hcltech-robotics/cosmos3-h-surgical-simulator-alpha",
     "downloads": 4,
     "likes": 3,
@@ -340,15 +349,6 @@
     "date": "2026-06-30",
     "keyword": "robotics",
     "score": 1.9
-  },
-  {
-    "model": "Oratis/world-model-research",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Oratis/world-model-research",
-    "date": "2026-06-29",
-    "keyword": "world model",
-    "score": 0.1
   },
   {
     "model": "linhrumata/world-models",
