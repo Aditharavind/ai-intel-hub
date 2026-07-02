@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-02 06:57 UTC
+Generated: 2026-07-02 09:55 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,28 +15,28 @@ Generated: 2026-07-02 06:57 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 82190 | 32876.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62927 | 25170.9 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29913 | 11965.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| commaai/openpilot | 62932 | 25172.9 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29916 | 11966.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15970 | 6388.1 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15404 | 6161.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15406 | 6162.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| IffYuan/Embodied-R1.5 | 679 | 203.8 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
-| pollen-robotics/wake-word-detector | 550 | 165.1 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
-| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 235 | 72.4 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
-| BrinqAI/functiongemma-270m-physical-ai | 232 | 69.7 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
-| tencent/Hy-Embodied-0.5-VLA-UMI | 217 | 66.8 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
+| pollen-robotics/wake-word-detector | 1383 | 415.0 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
+| IffYuan/Embodied-R1.5 | 745 | 223.6 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
+| BrinqAI/functiongemma-270m-physical-ai | 244 | 73.3 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
+| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 237 | 73.0 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
+| tencent/Hy-Embodied-0.5-VLA-UMI | 220 | 67.7 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
 | 2026-06-26 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUhnWGpNVDY2WXlERndBVU5LNC1IUWswZzFWM1M2TlNKcERxWFJCQVFiWk13RjFhdlRiMG1uYTlhZ19Rd3lBMXpQTUp1MW1qcC1lQml4blUxM1lKM1B0SGdjdmVDQ2dQT0VnczFDVDM2Ty1rNGFUUllOWnRRQzBBUGV0N042UlJIZU9KX2lmNGxYUDZuYXJVZDJ4bndGUUVCcEpLSQ?oc=5) |
+| 2026-06-26 | Skild AI |  | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE5aWVN0Nk5DOFNkaGlqTF83WERZcmIzdmt1TEZHV0p0YktNeHhiUUZ3RFNhb00zMGVmbHpHcjRrdjJRdW9MVzBudXB5TVdCS2pWNkxPSUtZZlY3WnY3SkhUUDMxdHZqZ2huYVJsR3JqMA?oc=5) |
 | 2026-06-25 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnWmtfeGFLT3VCWk1VdVNPazJ6ZjBUbmp6Vk9DOGo5aFNDOUFIb3U2RDZMLXFick1TMkZmX0k0VXRodWc2V1owYi16bEZtV3A1MHVoTFB5UWVSN1AxN2Q4?oc=5) |
 | 2026-06-25 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGdybHdlOWFOTldsa00wVlY3a1NQOExZY1RKZGRJSlNHYnBYdVFrZ2NVSnBsS3FzaTgwaUtVNk9OaURuOTRodzhXa0FaUTcyQ2RZTVlyakdONWFnRkJBa2VGXy16aXAxYk1QMEd2X1RPNW0xTkxBSWxEMzNwWENBb1lza29Vd1FSLUp4MUpCNFVrWjdK?oc=5) |
-| 2026-06-25 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDhxMkc3MGdXb092MjZIbGVjQXFoSXp5OFZXYUR1T0xIcEtqdkdoYzQ3OC1vSnZRN0Z3M09PRXRiNnZGOXNJaUVBSWpIQ0d6YnZaR3g1bUdFN19fNU5LRUhuZEkwbGxGS1UzX2M5dTdyT3F5a3ZxMXhmUGllZXVEWXlnSGp5Q01yQ2ZUN0lYMTY5UVBBRXViZm9zbGd1bzF3TTFkeHA4RWxUZ0todWd0SmJNcmNKNTFVMVpScEVfejBPdko1?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
