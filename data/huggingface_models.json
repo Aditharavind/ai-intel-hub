@@ -63,6 +63,42 @@
     "score": 0.1
   },
   {
+    "model": "poet70/vla-sft-suite",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/poet70/vla-sft-suite",
+    "date": "2026-07-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "poet70/vla-ckpt-dreamtacvla-jepa",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/poet70/vla-ckpt-dreamtacvla-jepa",
+    "date": "2026-07-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vladmandic/Krea-2-Turbo-Merge-sdnq-hadamard-uint4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladmandic/Krea-2-Turbo-Merge-sdnq-hadamard-uint4",
+    "date": "2026-07-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "kamada-riku/vla_jepa_so101_cup_toy_to_plate_v1.1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kamada-riku/vla_jepa_so101_cup_toy_to_plate_v1.1",
+    "date": "2026-07-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "bhe1004/FIRe-VLA-PI05-PegInsert-Sim",
     "downloads": 0,
     "likes": 0,
@@ -135,40 +171,13 @@
     "score": 0.1
   },
   {
-    "model": "bhe1004/FIRe-VLA-OpenVLA-NutThread-Real",
-    "downloads": 0,
+    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "downloads": 113,
     "likes": 0,
-    "url": "https://huggingface.co/bhe1004/FIRe-VLA-OpenVLA-NutThread-Real",
+    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
     "date": "2026-07-02",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "bhe1004/FIRe-VLA-OpenVLA-GearMesh-Real",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/bhe1004/FIRe-VLA-OpenVLA-GearMesh-Real",
-    "date": "2026-07-02",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "bhe1004/FIRe-VLA-PI05-PegInsert-Real",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/bhe1004/FIRe-VLA-PI05-PegInsert-Real",
-    "date": "2026-07-02",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "bhe1004/FIRe-VLA-OpenVLA-PegInsert-Real",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/bhe1004/FIRe-VLA-OpenVLA-PegInsert-Real",
-    "date": "2026-07-02",
-    "keyword": "vla",
-    "score": 0.1
+    "keyword": "policy",
+    "score": 34.0
   },
   {
     "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos8_v2_policy0",
@@ -349,15 +358,6 @@
     "date": "2026-07-01",
     "keyword": "policy",
     "score": 15.1
-  },
-  {
-    "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos0_v2_policy0",
-    "downloads": 102,
-    "likes": 0,
-    "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos0_v2_policy0",
-    "date": "2026-07-01",
-    "keyword": "policy",
-    "score": 30.7
   },
   {
     "model": "L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup",

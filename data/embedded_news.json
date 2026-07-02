@@ -1,5 +1,12 @@
 [
   {
+    "title": "Sony to End Physical PlayStation Disc Production in 2028",
+    "source": "Hackaday",
+    "date": "2026-07-02",
+    "url": "https://hackaday.com/2026/07/02/sony-to-end-physical-playstation-disc-production-in-2028/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/psdisc_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Sony has just announced on their PlayStation blog that they will stop the production of game discs starting January 2028. This effectively means a shift away from physical media to <a class=\"read-more\" href=\"https://hackaday.com/2026/07/02/sony-to-end-physical-playstation-disc-production-in-2028/\">&#8230;read more</a>"
+  },
+  {
     "title": "A Rare Drone Common Sense Outbreak, In Denmark",
     "source": "Hackaday",
     "date": "2026-07-02",
@@ -21,6 +28,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/OrthoRouteKiCad-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Brian] had an absolute monster of a PCB with thousands of nets to be routed, the kind of design that stopped traditional routers in their tracks. It would take months <a class=\"read-more\" href=\"https://hackaday.com/2026/07/01/gpu-accelerated-autorouter-handles-monstrous-pcb-designs/\">&#8230;read more</a>"
   },
   {
+    "title": "SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant",
+    "source": "CNX Software",
+    "date": "2026-07-02",
+    "url": "https://www.cnx-software.com/2026/07/02/sonoff-nspanel-pro-gen2-review-ewelink-home-assistant/",
+    "summary": "<div><img alt=\"SONOFF NSPanel Pro Gen2 review\" class=\"attachment-medium size-medium wp-post-image\" height=\"478\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/SONOFF-NSPanel-Pro-Gen2-review-720x478.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>SONOFF sent us a sample of the NSPanel Pro Gen2 Smart Home control panel for review. It&#8217;s a standard 86-type controller powered by a Rockchip RK3326-S SoC, equipped with 2GB RAM and 32GB eMMC flash storage, a 3.95-inch touchscreen display, and a 2-channel relay supporting up to 10A. The Android device supports dual-band Wi-Fi, Bluetooth LE, Zigbee 3.0, and Matter, and also includes a built-in 1.5W speaker and microphone for two-way audio.  It&#8217;s an update to the NSPanel Pro we reviewed in 2024. In this review, we’ll start with an unboxing and a teardown, before going through the initial setup in standalone mode, and finally use the panel with the eWelink app and Home Assistant. We’ll connect one of the relays of the NSPanel Pro Gen2 to a ceiling LED light, test Zigbee through a SONOFF AirGuard TH (SNZB-02DR2) temperature and humidity sensor, WiFi through a SONOFF AirGuard PM2.5/PM10 air [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/02/sonoff-nspanel-pro-gen2-review-ewelink-home-assistant/\">SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit",
     "source": "CNX Software",
     "date": "2026-07-02",
@@ -28,32 +42,39 @@
     "summary": "<div><img alt=\"PaperBoy E Ink ESP32-S3 Gameboy emulator\" class=\"attachment-medium size-medium wp-post-image\" height=\"600\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/PaperBoy-E-Ink-ESP32-S3-Gameboy-emulator-720x600.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>60 FPS gaming on an E Ink display? That doesn&#8217;t seem right&#8230; But that&#8217;s exactly what Wenting Zhang&#8217;s PaperBoy Game Boy emulator project does, using the M5Stack PaperS3 devkit, pairing an ESP32-S3 wireless microcontroller with a 4.7-inch E Ink display with 960 x 540 resolution. One of the tricks here is that the bottom part of the ePaper touchscreen display is used for control buttons and doesn&#8217;t need to be refreshed, while the active part only requires 160 x 144 resolution, scaled three times to represent various shades of grey. Contrary to most small Eink devkits, the PaperS3 features a screen with a raw row/column driver interface, which enabled him to drive the display while bypassing the normal waveform method, and deliver a higher refresh rate up to 60 FPS. Wenting didn&#8217;t reinvent the wheel for the Game Boy emulation part, and after testing three different emulators, he went with [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/02/paperboy-game-boy-emulator-works-at-60-fps-on-esp32-s3-e-ink-devkit/\">PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Elektra Awards 2026 open for entries, new categories",
+    "source": "Electronics Weekly",
+    "date": "2026-07-02",
+    "url": "https://www.electronicsweekly.com/news/elektra-awards-news/elektra-awards-2026-open-for-entries-new-categories-2026-07/",
+    "summary": "<p>The Elektra Awards 2026, organised by Electronics Weekly, are open for entries from both companies and individuals in the electronics industry. And this year they feature new categories. Note the ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/elektra-awards-news/elektra-awards-2026-open-for-entries-new-categories-2026-07/\">Elektra Awards 2026 open for entries, new categories</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "UK is Europe’s startup champion",
     "source": "Electronics Weekly",
     "date": "2026-07-02",
     "url": "https://www.electronicsweekly.com/news/business/uk-is-europes-startup-champion-2026-07/",
-    "summary": "<p>The UK has 80 unicorns &#8211; the third highest in the world after the USA and China &#8211; according to the Hurun Research Institute of Shanghai. The UK’s 80 unicorns ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/uk-is-europes-startup-champion-2026-07/\">UK is Europe’s startup champion</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>The UK has 80 unicorns &#8211; the third highest in the world after the US and China &#8211; according to the Hurun Research Institute of Shanghai. The UK’s 80 unicorns ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/uk-is-europes-startup-champion-2026-07/\">UK is Europe’s startup champion</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Etched prepares to ship",
     "source": "Electronics Weekly",
     "date": "2026-07-02",
     "url": "https://www.electronicsweekly.com/news/business/899164-2026-07/",
-    "summary": "<p>Etched, a four year-old San Jose AI inference chip startup, has raised $800 million at a $5 billion valuation, is said to have orders worth $1 billion and intends to ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/899164-2026-07/\">Etched prepares to ship</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Etched, a four-year-old San Jose AI inference chip startup, has raised $800m at a $5bn valuation. It is said to have orders worth $1bn and intends to ship ICs this ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/899164-2026-07/\">Etched prepares to ship</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Oxmiq raises $35m to re-architect the GPU",
     "source": "Electronics Weekly",
     "date": "2026-07-02",
     "url": "https://www.electronicsweekly.com/news/business/oxmiq-raises-35m-to-re-architect-the-gpu-2026-07/",
-    "summary": "<p>Oxmiq of Campbell, California has raised $35 million to bring its total funding so far to $60 million. Oxmiq is developing a GPU architecture and software for licensing which will ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/oxmiq-raises-35m-to-re-architect-the-gpu-2026-07/\">Oxmiq raises $35m to re-architect the GPU</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Oxmiq of Campbell, California, has raised $35m to bring its total funding so far to $60m. Oxmiq is developing a GPU architecture and software for licensing, which will work across ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/oxmiq-raises-35m-to-re-architect-the-gpu-2026-07/\">Oxmiq raises $35m to re-architect the GPU</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Infineon opens smart power fab in Dresden",
     "source": "Electronics Weekly",
     "date": "2026-07-02",
     "url": "https://www.electronicsweekly.com/news/business/infineon-opens-smart-power-fab-in-dresden-2026-07/",
-    "summary": "<p>Today, Infineon opens its €5 billion smart power fab in Dresden. The official ground-breaking ceremony for the fab took place in May 2023 &#8211; three years later, on 2 July ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-opens-smart-power-fab-in-dresden-2026-07/\">Infineon opens smart power fab in Dresden</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Today, Infineon opens its €5bn smart power fab in Dresden. The official ground-breaking ceremony for the fab took place in May 2023 &#8211; three years later, on 2 July 2026, ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-opens-smart-power-fab-in-dresden-2026-07/\">Infineon opens smart power fab in Dresden</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Imec extends auto chiplet program to edge computing",
@@ -68,6 +89,20 @@
     "date": "2026-07-02",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/europes-heat-stroke-2026-07/",
     "summary": "<p>Western Europe experienced an “unusually early and intense” heat wave in late May and now large parts of the continent have been gripped by another heat wave, this one  more ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/europes-heat-stroke-2026-07/\">Europe’s Heat-Stroke</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Adafruit Feather Box Enclosure – Remix with USB-C Port #3DPrinting #3DThursday",
+    "source": "Adafruit",
+    "date": "2026-07-02",
+    "url": "https://blog.adafruit.com/2026/07/02/adafruit-feather-box-enclosure-remix-with-usb-c-port-3dprinting-3dthursday/",
+    "summary": "maker_714_91312 shares: A community remix of the Adafruit Feather no-tab enclosure updated for the USB-C ports on newer Feather boards (replacing the original micro-USB cutout). Direct Adafruit hardware fit download the files on: https://www.printables.com/model/127494-remix-feather-base-with-usb-c-port Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making solid objects from [&#8230;]"
+  },
+  {
+    "title": "ESP32-S3 SuperMini + mmWave Sensor Enclosure (ESPHome) #3DPrinting #3DThursday",
+    "source": "Adafruit",
+    "date": "2026-07-02",
+    "url": "https://blog.adafruit.com/2026/07/02/esp32-s3-supermini-mmwave-sensor-enclosure-esphome-3dprinting-3dthursday/",
+    "summary": "drathbone shares: A snug click-lock case for building an mmWave presence sensor with ESPHome — pairs an ESP32-S3 SuperMini with a DFRobot C4001 (SEN0609 25m mmWave). Includes ESPHome YAML config link. v2 update with improved teardown tolerances. By drathbone download the files on: https://makerworld.com/en/models/1110630-esp32-s3-supermini-c4001-sen0609-mmwave-enclosure Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing [&#8230;]"
   },
   {
     "title": "ESP32-S3 Case – Snap-Fit with Magnetic Wall Mount #3DPrinting #3DThursday",
@@ -112,6 +147,13 @@
     "summary": "victordesigns shares: A 3D-printed ergonomic solder feeder you wind manually like a pen. Roll solder onto the integrated spool, feed it through the main body, clip in the spool, and you have one-handed solder dispensing. Includes remixes from the community. By Victor download the files on: https://www.printables.com/model/843353-solder-scroll-ergonomic-adjustable-solder-tool Every Thursday is #3dthursday here at Adafruit! The [&#8230;]"
   },
   {
+    "title": "Are Modulated Ultrasound MEMS Speakers the Future of Speakers?",
+    "source": "EE Journal",
+    "date": "2026-07-02",
+    "url": "https://www.eejournal.com/article/are-modulated-ultrasound-mems-speakers-the-future-of-speakers/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/max-0497-image-for-home-page-sonic-edge-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />Engineers tend to be traditional. Once we&#8217;ve found a way of doing something that works, we can happily keep on doing it the same way for decades. Loudspeakers are a perfect example. Whether they&#8217;re found in earbuds, smartphones, televisions, or concert halls, almost all of them still rely on the same basic principle: mechanically moving &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/are-modulated-ultrasound-mems-speakers-the-future-of-speakers/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Are Modulated Ultrasound MEMS Speakers the Future of Speakers?\"</span></a>"
+  },
+  {
     "title": "No-Drill Sailing Kit for a Canoe",
     "source": "Hackaday",
     "date": "2026-07-01",
@@ -131,13 +173,6 @@
     "date": "2026-07-01",
     "url": "https://hackaday.com/2026/07/01/floss-weekly-episode-873-wait-thats-not-open-source/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>This week Jonathan chats with Andy Gryc and Aaron Basset about QNX, and the interesting Open Source history and future of that embedded OS. Why does QNX Everywhere feel more <a class=\"read-more\" href=\"https://hackaday.com/2026/07/01/floss-weekly-episode-873-wait-thats-not-open-source/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Review: The Tanmatsu, A Year On",
-    "source": "Hackaday",
-    "date": "2026-07-01",
-    "url": "https://hackaday.com/2026/07/01/review-the-tanmatsu-a-year-on/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/01/tanmatsu-launch-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>About 18 months ago, we brought you a sneak peek at a handheld that started life in the Dutch conference badge scene. At the time it showed promise, but its <a class=\"read-more\" href=\"https://hackaday.com/2026/07/01/review-the-tanmatsu-a-year-on/\">&#8230;read more</a>"
   },
   {
     "title": "Sipeed NanoKVM-Go – A 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding)",
@@ -196,13 +231,6 @@
     "summary": "<p>Now in its eighth year, the EW BrightSparks awards see Electronics Weekly celebrate some of the brightest and most talented young engineers in the UK today. In the next in ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/ew-brightsparks-2025-profile-oliver-tatlow-leonardo-2026-07/\">EW BrightSparks 2025 profile: Oliver Tatlow, Leonardo</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "CHIIPS #35 – CHIIPs with Fractilia’s Edward Charrier and Chris Mack",
-    "source": "Electronics Weekly",
-    "date": "2026-07-01",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-35-chiips-with-fractilias-edward-charrier-and-chris-mack-2026-07/",
-    "summary": "<p>Don't miss the latest episode of our Electronics Weekly podcast, CHIIPS. It features Edward Charrier - Fractilia's co-founder, CEO and President - and Chris Mack, Fractilia's co-founder and CTO.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-35-chiips-with-fractilias-edward-charrier-and-chris-mack-2026-07/\">CHIIPS #35 &#8211; CHIIPs with Fractilia&#8217;s Edward Charrier and Chris Mack</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "LIVE NOW! SHOW and TELL 7/1/2026 with @blitzcitydiy #ShowandTell @adafruit",
     "source": "Adafruit",
     "date": "2026-07-01",
@@ -229,20 +257,6 @@
     "date": "2026-07-01",
     "url": "https://blog.adafruit.com/2026/07/01/building-and-hiking-with-wallace-the-6-inch-f-2-8-telescope/",
     "summary": "Lucas Sifoni presents Wallace, a 153mm f/2.8 ultra-wide-field telescope that was built last year and shares more of the “outdoor” part of astronomy. I now spend a lot of time outside with running and hiking, and started to wonder how could I share that, the same question that emerged when I started observational astronomy &#8211; [&#8230;]"
-  },
-  {
-    "title": "DS1881 – a clickless dual digital attenuator",
-    "source": "Adafruit",
-    "date": "2026-07-01",
-    "url": "https://blog.adafruit.com/2026/07/01/ds1881-a-clickless-dual-digital-attenuator/",
-    "summary": "The AUDIODiWHY blog writes: I&#8217;ve breadboarded digital potentiometers before, only to find they make an ugly, audible &#8220;click&#8221; when changing resistance values when used in 30hz-20Khz AC circuits. I recently stumbled upon an IC that purportedly does away with the click&#8211;Analog Device&#8217;s DS1881&#8211;dual pots, I2C, log response&#8211;everything needed for an MCU controlled audio attenuator&#8211;but also sporting onboard [&#8230;]"
-  },
-  {
-    "title": "The Adafruit IoT Monthly Newsletter for July 2026 is out NEXT WEEK, Subscribe Now!",
-    "source": "Adafruit",
-    "date": "2026-07-01",
-    "url": "https://blog.adafruit.com/2026/07/01/the-adafruit-iot-monthly-newsletter-for-july-2026-is-out-next-week-subscribe-now/",
-    "summary": "The IoT Monthly newsletter is the best place to catch up on the latest news about the Internet of Things. We cover everything from projects to new protocols to industry news. 7,200+ readers and growing! This newsletter is only sent to your inbox once per month – don’t miss your chance to catch the July 2026 issue next [&#8230;]"
   },
   {
     "title": "Keysight and WIN Semiconductors Collaborate to Cut Design Risk for High Frequency RF Components",
@@ -343,13 +357,6 @@
     "summary": "Saelig Company, Inc. has introduced the MHO 6 series 12-bit high-resolution oscilloscopes with 350MHz/500MHz/1GHz bandwidth, 6GSa/s sampling rate, 8 analog channels, and a storage depth of 1.8Gpts. The MHO 6 series precisely captures tiny and high-speed signals in full detail, running on the dedicated SigtestUI™ multitask OS for test instruments, offering stable and smooth operation. Its ultra-thin design &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/saelig-introduces-micsig-mho-6-series-12-bit-1ghz-8-ch-oscilloscopes/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Saelig Introduces Micsig MHO 6 Series 12-bit 1GHz 8-ch Oscilloscopes\"</span></a>"
   },
   {
-    "title": "Introducing the Kvaser PCIe 4xLIN for next-level LIN connectivity",
-    "source": "EE Journal",
-    "date": "2026-06-30",
-    "url": "https://www.eejournal.com/industry_news/introducing-the-kvaser-pcie-4xlin-for-next-level-lin-connectivity/",
-    "summary": "Kvaser introduces the PCIe 4xLIN, a compact four-channel LIN interface built for deterministic communication, precise timing analysis, and scalable validation setups. Designed for desktop, industrial, and HIL environments, the low-profile PCIe card integrates galvanic isolation with synchronized timestamping, giving engineers reliable, system-level visibility when testing and debugging LIN networks.  The Kvaser PCIe 4xLIN provides four &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/introducing-the-kvaser-pcie-4xlin-for-next-level-lin-connectivity/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Introducing the Kvaser PCIe 4xLIN for next-level LIN connectivity\"</span></a>"
-  },
-  {
     "title": "Waveshare ESP32-C6-Zero-B  – A tiny ESP32-C6 USB-C board with 5V-36V wide supply voltage",
     "source": "CNX Software",
     "date": "2026-06-29",
@@ -390,13 +397,6 @@
     "date": "2026-06-29",
     "url": "https://www.embedded.com/qualinx-integrates-galileo-osnma-into-gnss-receiver/",
     "summary": "<p>Qualinx has completed the integration of Galileo OSNMA (Open Service Navigation Message Authentication) into its QLX3Gx series of ultra-low-power GNSS receivers, making authenticated satellite positioning available for battery-powered devices without increasing power consumption or system complexity. Developed with support from the European Union Agency for the Space Programme (EUSPA), the new implementation is designed to [...]</p>\n<p>The post <a href=\"https://www.embedded.com/qualinx-integrates-galileo-osnma-into-gnss-receiver/\">Qualinx Integrates Galileo OSNMA into GNSS Receiver</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range",
-    "source": "CNX Software",
-    "date": "2026-06-28",
-    "url": "https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/",
-    "summary": "<div><img alt=\"Arduino Modulino Hub Extender I2C modules\" class=\"attachment-medium size-medium wp-post-image\" height=\"381\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Arduino-Modulino-Hub-Extender-I2C-modules-720x381.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Arduino has just introduced three new Modulino modules: the Modulino Hub to support up to eight I2C devices (64 devices with 8 Hubs), the Modulino Extender to extend the I2C range to up to 30 meters, and the Modulino Motors to control two DC motors or a single stepper motor with precision. I&#8217;ll focus on the I2C modules in this post, as I find the Modulino Extender module particularly interesting, since I always considered I2C to be a short-range communication protocol, and never thought of using it for (relatively) long-range wired communication. Modulino Hub While the I2C protocol supports up to 127 devices in theory, address conflicts can become an issue in complex builds where multiple sensors or actuators share the same default address. The Modulino Hub aims to solve that, and multiple Hubs can be daisy-chained, each with its own address, to support up to 64 devices. Modulino Hub specifications: [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/\">Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Cyber Resilience Act, From Silicon to Systems, WBG Semiconductor Partnerships: Embedded Week Insights",
