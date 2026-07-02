@@ -42,53 +42,25 @@
     "summary": "<div><img alt=\"PaperBoy E Ink ESP32-S3 Gameboy emulator\" class=\"attachment-medium size-medium wp-post-image\" height=\"600\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/PaperBoy-E-Ink-ESP32-S3-Gameboy-emulator-720x600.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>60 FPS gaming on an E Ink display? That doesn&#8217;t seem right&#8230; But that&#8217;s exactly what Wenting Zhang&#8217;s PaperBoy Game Boy emulator project does, using the M5Stack PaperS3 devkit, pairing an ESP32-S3 wireless microcontroller with a 4.7-inch E Ink display with 960 x 540 resolution. One of the tricks here is that the bottom part of the ePaper touchscreen display is used for control buttons and doesn&#8217;t need to be refreshed, while the active part only requires 160 x 144 resolution, scaled three times to represent various shades of grey. Contrary to most small Eink devkits, the PaperS3 features a screen with a raw row/column driver interface, which enabled him to drive the display while bypassing the normal waveform method, and deliver a higher refresh rate up to 60 FPS. Wenting didn&#8217;t reinvent the wheel for the Game Boy emulation part, and after testing three different emulators, he went with [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/02/paperboy-game-boy-emulator-works-at-60-fps-on-esp32-s3-e-ink-devkit/\">PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Elektra Awards 2026 open for entries, new categories",
-    "source": "Electronics Weekly",
+    "title": "SiMa Unveils Agentic Development Environment for Physical AI",
+    "source": "Embedded.com",
     "date": "2026-07-02",
-    "url": "https://www.electronicsweekly.com/news/elektra-awards-news/elektra-awards-2026-open-for-entries-new-categories-2026-07/",
-    "summary": "<p>The Elektra Awards 2026, organised by Electronics Weekly, are open for entries from both companies and individuals in the electronics industry. And this year they feature new categories. Note the ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/elektra-awards-news/elektra-awards-2026-open-for-entries-new-categories-2026-07/\">Elektra Awards 2026 open for entries, new categories</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.embedded.com/sima-unveils-agentic-development-environment-for-physical-ai/",
+    "summary": "<p>SiMa's CEO says it has developed the most advanced agentic software for physical AI that cuts development time from months to days or hours.</p>\n<p>The post <a href=\"https://www.embedded.com/sima-unveils-agentic-development-environment-for-physical-ai/\">SiMa Unveils Agentic Development Environment for Physical AI</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "UK is Europe’s startup champion",
-    "source": "Electronics Weekly",
+    "title": "Diving Penguin #3DPrinting #3DThursday",
+    "source": "Adafruit",
     "date": "2026-07-02",
-    "url": "https://www.electronicsweekly.com/news/business/uk-is-europes-startup-champion-2026-07/",
-    "summary": "<p>The UK has 80 unicorns &#8211; the third highest in the world after the US and China &#8211; according to the Hurun Research Institute of Shanghai. The UK’s 80 unicorns ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/uk-is-europes-startup-champion-2026-07/\">UK is Europe’s startup champion</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/02/diving-penguin-3dprinting-3dthursday/",
+    "summary": "Every week we&#8217;ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Diving Penguin By kim_kreations makerworld.com/en/models/2699668-penguin-diving-pool-toy Bambu X1C PolyMaker PLA 3hr 35mins X:63 Y:53 Z:104mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 16g 230mm/s Every Thursday is #3dthursday here [&#8230;]"
   },
   {
-    "title": "Etched prepares to ship",
-    "source": "Electronics Weekly",
+    "title": "Duplo Track Storage #3DPrinting #3DThursday",
+    "source": "Adafruit",
     "date": "2026-07-02",
-    "url": "https://www.electronicsweekly.com/news/business/899164-2026-07/",
-    "summary": "<p>Etched, a four-year-old San Jose AI inference chip startup, has raised $800m at a $5bn valuation. It is said to have orders worth $1bn and intends to ship ICs this ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/899164-2026-07/\">Etched prepares to ship</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Oxmiq raises $35m to re-architect the GPU",
-    "source": "Electronics Weekly",
-    "date": "2026-07-02",
-    "url": "https://www.electronicsweekly.com/news/business/oxmiq-raises-35m-to-re-architect-the-gpu-2026-07/",
-    "summary": "<p>Oxmiq of Campbell, California, has raised $35m to bring its total funding so far to $60m. Oxmiq is developing a GPU architecture and software for licensing, which will work across ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/oxmiq-raises-35m-to-re-architect-the-gpu-2026-07/\">Oxmiq raises $35m to re-architect the GPU</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Infineon opens smart power fab in Dresden",
-    "source": "Electronics Weekly",
-    "date": "2026-07-02",
-    "url": "https://www.electronicsweekly.com/news/business/infineon-opens-smart-power-fab-in-dresden-2026-07/",
-    "summary": "<p>Today, Infineon opens its €5bn smart power fab in Dresden. The official ground-breaking ceremony for the fab took place in May 2023 &#8211; three years later, on 2 July 2026, ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-opens-smart-power-fab-in-dresden-2026-07/\">Infineon opens smart power fab in Dresden</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Imec extends auto chiplet program to edge computing",
-    "source": "Electronics Weekly",
-    "date": "2026-07-02",
-    "url": "https://www.electronicsweekly.com/news/business/imec-extends-auto-chiplet-program-to-edge-computing-2026-07/",
-    "summary": "<p>Imec is extending the lessons learnt in its Automotive Chiplet Program to an Autonomous Edge Chiplet Program (AECP) as a an acknowledgment that the same foundational HPC building blocks can serve ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/imec-extends-auto-chiplet-program-to-edge-computing-2026-07/\">Imec extends auto chiplet program to edge computing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Europe’s Heat-Stroke",
-    "source": "Electronics Weekly",
-    "date": "2026-07-02",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/europes-heat-stroke-2026-07/",
-    "summary": "<p>Western Europe experienced an “unusually early and intense” heat wave in late May and now large parts of the continent have been gripped by another heat wave, this one  more ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/europes-heat-stroke-2026-07/\">Europe’s Heat-Stroke</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/02/duplo-track-storage-3dprinting-3dthursday/",
+    "summary": "Dinopolis shares: This modularly expandable track holder for the Duplo train ensures organization and easy transport. The middle section has a practical carrying handle, making it easy to transport the tracks from A to B. download the files on: https://makerworld.com/en/models/2169108-duplo-track-storage#profileId-2352371 Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and [&#8230;]"
   },
   {
     "title": "Adafruit Feather Box Enclosure – Remix with USB-C Port #3DPrinting #3DThursday",
@@ -145,6 +117,34 @@
     "date": "2026-07-02",
     "url": "https://blog.adafruit.com/2026/07/02/solder-scroll-ergonomic-adjustable-solder-dispenser-tool-3dprinting-3dthursday/",
     "summary": "victordesigns shares: A 3D-printed ergonomic solder feeder you wind manually like a pen. Roll solder onto the integrated spool, feed it through the main body, clip in the spool, and you have one-handed solder dispensing. Includes remixes from the community. By Victor download the files on: https://www.printables.com/model/843353-solder-scroll-ergonomic-adjustable-solder-tool Every Thursday is #3dthursday here at Adafruit! The [&#8230;]"
+  },
+  {
+    "title": "Introspect Technology Introduces Second-Generation DDR/LPDDR Protocol Analyzer Offering the Highest Sampling Rate in the Industry",
+    "source": "EE Journal",
+    "date": "2026-07-02",
+    "url": "https://www.eejournal.com/industry_news/introspect-technology-introduces-second-generation-ddr-lpddr-protocol-analyzer-offering-the-highest-sampling-rate-in-the-industry/",
+    "summary": "Introspect Technology, a JEDEC® member and a leading manufacturer of test and measurement instruments, is proud to introduce the M7030 DDR/LPDDR Protocol Analyzer, a revolutionary solution for design validation and interoperability testing of next-generation memory interfaces. Using this compact and highly versatile instrument, chip manufacturers, memory makers, and system original equipment manufacturers (OEM) on the forefront of memory &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/introspect-technology-introduces-second-generation-ddr-lpddr-protocol-analyzer-offering-the-highest-sampling-rate-in-the-industry/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Introspect Technology Introduces Second-Generation DDR/LPDDR Protocol Analyzer Offering the Highest Sampling Rate in the Industry\"</span></a>"
+  },
+  {
+    "title": "EdgeCortix Demonstrates Edge AI Platform Readiness with U.S. Air Force  and Receives Success Memorandum from the Defense Innovation Unit",
+    "source": "EE Journal",
+    "date": "2026-07-02",
+    "url": "https://www.eejournal.com/industry_news/edgecortix-demonstrates-edge-ai-platform-readiness-with-u-s-air-force-and-receives-success-memorandum-from-the-defense-innovation-unit/",
+    "summary": "EdgeCortix, a leading Japanese  fabless semiconductor company specializing in energy-efficient AI processing at the edge, today announced the breakthrough demonstration of its edge AI platform with the U.S. Air Force in an exercise supporting advanced multi-domain battlefield connectivity and AI-enabled mission systems. EdgeCortix also confirmed receipt of a Success Memorandum from the U.S. Defense Innovation &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/edgecortix-demonstrates-edge-ai-platform-readiness-with-u-s-air-force-and-receives-success-memorandum-from-the-defense-innovation-unit/\">Read More &#8594;<span class=\"screen-reader-text\"> \"EdgeCortix Demonstrates Edge AI Platform Readiness with U.S. Air Force  and Receives Success Memorandum from the Defense Innovation Unit\"</span></a>"
+  },
+  {
+    "title": "TDK introduces compact SMD components for gate drivers and isolated DC-DC converters in xEVs",
+    "source": "EE Journal",
+    "date": "2026-07-02",
+    "url": "https://www.eejournal.com/industry_news/tdk-introduces-compact-smd-components-for-gate-drivers-and-isolated-dc-dc-converters-in-xevs/",
+    "summary": "TDK Corporation (TSE:6762) introduces the E13 EM series (ordering code: B8280*F*). These IGBT/FET gate drive transformers are designed for automotive 500-V battery systems, enabling reliable isolation in traction inverters and compact DC-DC converters. By meeting stringent creepage and clearance requirements, this new series supports safe and efficient power conversion in xEV platforms, where robust insulation and space-efficient &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/tdk-introduces-compact-smd-components-for-gate-drivers-and-isolated-dc-dc-converters-in-xevs/\">Read More &#8594;<span class=\"screen-reader-text\"> \"TDK introduces compact SMD components for gate drivers and isolated DC-DC converters in xEVs\"</span></a>"
+  },
+  {
+    "title": "Arrow Electronics Works with STMicroelectronics to Accelerate Industrial AMR Development with a New Reference Platform",
+    "source": "EE Journal",
+    "date": "2026-07-02",
+    "url": "https://www.eejournal.com/industry_news/arrow-electronics-works-with-stmicroelectronics-to-accelerate-industrial-amr-development-with-a-new-reference-platform/",
+    "summary": "Arrow Electronics, together with its engineering services subsidiary eInfochips, has worked with STMicroelectronics (ST) to unveil a new industrial autonomous mobile robot (AMR) reference platform, designed to shorten the path from concept to deployment for professional service robots. Autonomous mobile robots are rapidly transforming factories, laboratories, warehouses, and logistics centers. These robots must safely navigate &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/arrow-electronics-works-with-stmicroelectronics-to-accelerate-industrial-amr-development-with-a-new-reference-platform/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Arrow Electronics Works with STMicroelectronics to Accelerate Industrial AMR Development with a New Reference Platform\"</span></a>"
   },
   {
     "title": "Are Modulated Ultrasound MEMS Speakers the Future of Speakers?",
@@ -210,27 +210,6 @@
     "summary": "<p>Rigid-flex printed-circuit-board (PCB) manufacturing can be expensive at first glance. Complex lamination steps and tight tolerances result in lower yields and higher scrap rates. Finding the right supplier early in the process and engaging with them during the design phase improves manufacturability, preventing costly revisions, shortening development cycles, and making rigid-flex PCBs more affordable. The [...]</p>\n<p>The post <a href=\"https://www.embedded.com/how-to-avoid-higher-rigid-flex-pcb-prototyping-costs/\">How to Avoid Higher Rigid-Flex PCB Prototyping Costs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "NASA expands Earth Observation dataset for its CSDA programme",
-    "source": "Electronics Weekly",
-    "date": "2026-07-01",
-    "url": "https://www.electronicsweekly.com/news/business/nasa-expands-earth-observation-dataset-for-its-csda-programme-2026-07/",
-    "summary": "<p>NASA has selected eight new companies to take part in its Commercial Satellite Data Acquisition (CSDA) programme. This will expand the range of commercial satellite data it makes available to ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nasa-expands-earth-observation-dataset-for-its-csda-programme-2026-07/\">NASA expands Earth Observation dataset for its CSDA programme</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Under The Influence",
-    "source": "Electronics Weekly",
-    "date": "2026-07-01",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/delusions/under-the-influence-2026-07/",
-    "summary": "<p>Influencers currently wield the biggest power over people’s purchasing decisions in Brazil, South Africa, China and India, according to a survey by Statista Consumer Insights. France,Austria, Belgium, the Netherlands, Sweden ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/delusions/under-the-influence-2026-07/\">Under The Influence</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "EW BrightSparks 2025 profile: Oliver Tatlow, Leonardo",
-    "source": "Electronics Weekly",
-    "date": "2026-07-01",
-    "url": "https://www.electronicsweekly.com/news/ew-brightsparks-2025-profile-oliver-tatlow-leonardo-2026-07/",
-    "summary": "<p>Now in its eighth year, the EW BrightSparks awards see Electronics Weekly celebrate some of the brightest and most talented young engineers in the UK today. In the next in ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/ew-brightsparks-2025-profile-oliver-tatlow-leonardo-2026-07/\">EW BrightSparks 2025 profile: Oliver Tatlow, Leonardo</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "LIVE NOW! SHOW and TELL 7/1/2026 with @blitzcitydiy #ShowandTell @adafruit",
     "source": "Adafruit",
     "date": "2026-07-01",
@@ -243,20 +222,6 @@
     "date": "2026-07-01",
     "url": "https://blog.adafruit.com/2026/07/01/smolutils-like-coreutils-but-smaller/",
     "summary": "Daniel Palmer has developed smolutils, &#8220;because for space constrained targets, even uclibc + busybox isn&#8217;t very usable due to space.&#8221; For nommu, every process loads its own copy of everything because there is no virtual addressing to allow sharing of common physical pages. So every process has its own copy of uclibc and busybox and [&#8230;]"
-  },
-  {
-    "title": "PiZZa: Arduino on the Raspberry Pi Zero 2 W",
-    "source": "Adafruit",
-    "date": "2026-07-01",
-    "url": "https://blog.adafruit.com/2026/07/01/pizza-arduino-on-the-raspberry-pi-zero-2-w/",
-    "summary": "jetpax on GitHub has dropped PiZZa, running Arduino on the Raspberry Pi Zero 2 W. Write sketches in the Arduino IDE and run them on a Raspberry Pi Zero 2 W or the original Raspberry Pi Zero W. A small firmware on the SD card (a Zephyr &#8220;loader&#8221;) loads your compiled sketch as a runtime [&#8230;]"
-  },
-  {
-    "title": "Building and hiking with Wallace, the 6 inch f/2.8 telescope",
-    "source": "Adafruit",
-    "date": "2026-07-01",
-    "url": "https://blog.adafruit.com/2026/07/01/building-and-hiking-with-wallace-the-6-inch-f-2-8-telescope/",
-    "summary": "Lucas Sifoni presents Wallace, a 153mm f/2.8 ultra-wide-field telescope that was built last year and shares more of the “outdoor” part of astronomy. I now spend a lot of time outside with running and hiking, and started to wonder how could I share that, the same question that emerged when I started observational astronomy &#8211; [&#8230;]"
   },
   {
     "title": "Keysight and WIN Semiconductors Collaborate to Cut Design Risk for High Frequency RF Components",
@@ -329,34 +294,6 @@
     "summary": "<p>A low Earth orbit (LEO) satellite constantly estimates its position, pointing direction, rotational speed, payload requirements, and the sun's position relative to its solar arrays. In applications such as Earth observation, communications, and scientific missions, accurate pointing is the difference between usable mission data and a wasted downlink. Attitude and orbit control systems (AOCS) in [...]</p>\n<p>The post <a href=\"https://www.embedded.com/sensing-and-positioning-payloads-in-leo-satellites/\">Sensing and Positioning Payloads in LEO Satellites</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "RS supports panel-centric MRO strategies that deliver savings without sacrificing quality",
-    "source": "EE Journal",
-    "date": "2026-06-30",
-    "url": "https://www.eejournal.com/industry_news/rs-supports-panel-centric-mro-strategies-that-deliver-savings-without-sacrificing-quality/",
-    "summary": "RS, a high-service global product and service solutions provider for industrial customers, supports panel-centric MRO strategies with an extensive selection of high-quality standardized, serviceable control panel components engineered, tested, and proven to reduce industrial control panel lifecycle costs without sacrificing quality or performance. The high downstream cost of “low-cost” control panel components Control panels are &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/rs-supports-panel-centric-mro-strategies-that-deliver-savings-without-sacrificing-quality/\">Read More &#8594;<span class=\"screen-reader-text\"> \"RS supports panel-centric MRO strategies that deliver savings without sacrificing quality\"</span></a>"
-  },
-  {
-    "title": "Renesas Acquires Pictorus to Simplify and Accelerate Embedded Application Software Development",
-    "source": "EE Journal",
-    "date": "2026-06-30",
-    "url": "https://www.eejournal.com/industry_news/renesas-acquires-pictorus-to-simplify-and-accelerate-embedded-application-software-development/",
-    "summary": "Renesas Electronics Corporation (TSE:6723, “Renesas”), a premier supplier of advanced semiconductor solutions, announced today that a Renesas subsidiary has completed the acquisition of software developer Pictorus, based in Oakland, California. With the acquisition of Pictorus, Renesas gains a cloud‑based behavioral modeling platform that accelerates embedded system development, moving the engineering experience beyond point tools by providing &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/renesas-acquires-pictorus-to-simplify-and-accelerate-embedded-application-software-development/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Renesas Acquires Pictorus to Simplify and Accelerate Embedded Application Software Development\"</span></a>"
-  },
-  {
-    "title": "KYOCERA AVX Releases new Web-Based Antenna Integration Tool",
-    "source": "EE Journal",
-    "date": "2026-06-30",
-    "url": "https://www.eejournal.com/industry_news/kyocera-avx-releases-new-web-based-antenna-integration-tool/",
-    "summary": "KYOCERA AVX, a leading global manufacturer of advanced electronic components engineered to accelerate technological innovation and build a better future, released a new web-based RF engineering tool — the Antenna Integrator Studio. Wireless connectivity has become a ubiquitous capability for electronic products extending throughout every industry. As such, RF engineering has become an essential element &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/kyocera-avx-releases-new-web-based-antenna-integration-tool/\">Read More &#8594;<span class=\"screen-reader-text\"> \"KYOCERA AVX Releases new Web-Based Antenna Integration Tool\"</span></a>"
-  },
-  {
-    "title": "Saelig Introduces Micsig MHO 6 Series 12-bit 1GHz 8-ch Oscilloscopes",
-    "source": "EE Journal",
-    "date": "2026-06-30",
-    "url": "https://www.eejournal.com/industry_news/saelig-introduces-micsig-mho-6-series-12-bit-1ghz-8-ch-oscilloscopes/",
-    "summary": "Saelig Company, Inc. has introduced the MHO 6 series 12-bit high-resolution oscilloscopes with 350MHz/500MHz/1GHz bandwidth, 6GSa/s sampling rate, 8 analog channels, and a storage depth of 1.8Gpts. The MHO 6 series precisely captures tiny and high-speed signals in full detail, running on the dedicated SigtestUI™ multitask OS for test instruments, offering stable and smooth operation. Its ultra-thin design &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/saelig-introduces-micsig-mho-6-series-12-bit-1ghz-8-ch-oscilloscopes/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Saelig Introduces Micsig MHO 6 Series 12-bit 1GHz 8-ch Oscilloscopes\"</span></a>"
-  },
-  {
     "title": "Waveshare ESP32-C6-Zero-B  – A tiny ESP32-C6 USB-C board with 5V-36V wide supply voltage",
     "source": "CNX Software",
     "date": "2026-06-29",
@@ -418,12 +355,5 @@
     "date": "2026-06-25",
     "url": "https://www.embedded.com/st-unveils-secure-mobile-chip-with-pqc/",
     "summary": "<p>STMicroelectronics has launched the ST54M secure mobile chip with post-quantum cryptography (PQC) for smartphone and personal electronics devices. Designed to meet upcoming quantum-ready security requirements, the ST54M is an advanced single-die device with a hardware accelerator for PQC, together with NFC, secure element, and eSIM functionality. The ST54M supports multiple applications on one platform while helping [...]</p>\n<p>The post <a href=\"https://www.embedded.com/st-unveils-secure-mobile-chip-with-pqc/\">ST Unveils Secure Mobile Chip with PQC</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Iridium Development Kit Accelerates Hybrid IoT Design",
-    "source": "Embedded.com",
-    "date": "2026-06-25",
-    "url": "https://www.embedded.com/iridium-development-kit-accelerates-hybrid-iot-design/",
-    "summary": "<p>Iridium Communications has announced the commercial availability of the Iridium 9604 module and the accompanying development kit, expanding its internet of things (IoT) portfolio with a hybrid connectivity solution that integrates satellite, cellular, and positioning technologies into a single compact platform. The new products are designed to simplify the development of globally connected IoT devices [...]</p>\n<p>The post <a href=\"https://www.embedded.com/iridium-development-kit-accelerates-hybrid-iot-design/\">Iridium Development Kit Accelerates Hybrid IoT Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]

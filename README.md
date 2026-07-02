@@ -1,22 +1,22 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-02 11:59 UTC
+Last Updated: 2026-07-02 13:57 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
-| 2026-07-01 | Hugging Face and Cerebras bring Gemma 4 to real-time voice AI | Hugging Face | [link](https://huggingface.co/blog/cerebras-gemma4-voice-ai) |
 | 2026-06-30 | How ChatGPT adoption has expanded | OpenAI | [link](https://openai.com/index/how-chatgpt-adoption-has-expanded) |
 | 2026-06-30 | Inside Genebench-Pro | OpenAI | [link](https://openai.com/index/genebench-pro/case-studies) |
 | 2026-06-30 | Introducing GeneBench-Pro | OpenAI | [link](https://openai.com/index/introducing-genebench-pro) |
 | 2026-06-30 | Core dump epidemiology: fixing an 18-year-old bug | OpenAI | [link](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug) |
-| 2026-06-30 | ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration | Hugging Face | [link](https://huggingface.co/blog/ibm-research/scarfbench) |
-| 2026-06-30 | Why Specialization Is Inevitable | Hugging Face | [link](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable) |
-| 2026-06-30 | Featuring Every Eval Ever Results on Hugging Face Model Pages | Hugging Face | [link](https://huggingface.co/blog/eee-community-evals) |
 | 2026-06-29 | Mapping Europe’s AI Workforce Opportunity | OpenAI | [link](https://openai.com/index/mapping-ai-jobs-transition-eu) |
-| 2026-06-29 | DiScoFormer: One transformer for density and score, across distributions | Hugging Face | [link](https://huggingface.co/blog/allenai/discoformer) |
+| 2026-06-28 | HP Inc. launches Frontier strategic partnership with OpenAI | OpenAI | [link](https://openai.com/index/hp-frontier-partnership) |
+| 2026-06-26 | Previewing GPT-5.6 Sol: a next-generation model | OpenAI | [link](https://openai.com/index/previewing-gpt-5-6-sol) |
+| 2026-06-25 | How agents are transforming work | OpenAI | [link](https://openai.com/index/how-agents-are-transforming-work) |
+| 2026-06-24 | OpenAI and Broadcom unveil LLM-optimized inference chip | OpenAI | [link](https://openai.com/index/openai-broadcom-jalapeno-inference-chip) |
+| 2026-06-23 | Helping build shared standards for advanced AI | OpenAI | [link](https://openai.com/index/helping-build-shared-standards-for-advanced-ai) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -36,6 +36,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-07-02 | Blattner awards Built Robotics $75M contract for physical AI to help meet energy demand | Robotics Business Review | [link](https://www.therobotreport.com/blattner-awards-built-robotics-75m-contract-meet-energy-demands/) |
+| 2026-07-02 | Why you should combine robot dexterity with mechanical positioning for complex assembly operations | Robotics Business Review | [link](https://www.therobotreport.com/why-you-should-combine-robot-dexterity-with-mechanical-positioning-for-complex-assembly-operations/) |
+| 2026-07-02 | Luxonis closes Series A round to scale physical AI perception layer | Robotics Business Review | [link](https://www.therobotreport.com/luxonis-closes-series-a-round-to-scale-physical-ai-perception-layer/) |
 | 2026-07-01 | Apptronik unveils Apollo 2 and a flagship data collection and training facility | Robotics Business Review | [link](https://www.therobotreport.com/apptronik-unveils-apollo-2-flagship-data-collection-training-facility/) |
 | 2026-07-01 | Top 10 robotics developments of June 2026 | Robotics Business Review | [link](https://www.therobotreport.com/top-10-robotic-stories-june-2026/) |
 | 2026-07-01 | In Robotics, Ruggedization Is No Longer Optional | Robotics Business Review | [link](https://www.therobotreport.com/in-robotics-ruggedization-is-no-longer-optional/) |
@@ -43,8 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-30 | Queue raises funding to build fully autonomous pharmacy | Robotics Business Review | [link](https://www.therobotreport.com/queue-raises-funding-fully-autonomous-pharmacy/) |
 | 2026-06-30 | Soft, robotic cells from morph embed physical AI into hardware | Robotics Business Review | [link](https://www.therobotreport.com/soft-robotic-cells-from-morph-embed-physical-ai-into-hardware/) |
 | 2026-06-30 | How Jaiveer Singh Is Helping Robots — and Developers — Move Faster | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/) |
-| 2026-06-30 | Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/) |
-| 2026-06-30 | X Square Robot brings its valuation to $2.8B with four consecutive funding rounds | Robotics Business Review | [link](https://www.therobotreport.com/x-square-robot-brings-valuation-2-8b-four-consecutive-funding-rounds/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -55,10 +55,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-02 | GPU-Accelerated Autorouter Handles Monstrous PCB Designs | Hackaday | [link](https://hackaday.com/2026/07/01/gpu-accelerated-autorouter-handles-monstrous-pcb-designs/) |
 | 2026-07-02 | SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant | CNX Software | [link](https://www.cnx-software.com/2026/07/02/sonoff-nspanel-pro-gen2-review-ewelink-home-assistant/) |
 | 2026-07-02 | PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit | CNX Software | [link](https://www.cnx-software.com/2026/07/02/paperboy-game-boy-emulator-works-at-60-fps-on-esp32-s3-e-ink-devkit/) |
-| 2026-07-02 | Elektra Awards 2026 open for entries, new categories | Electronics Weekly | [link](https://www.electronicsweekly.com/news/elektra-awards-news/elektra-awards-2026-open-for-entries-new-categories-2026-07/) |
-| 2026-07-02 | UK is Europe’s startup champion | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/uk-is-europes-startup-champion-2026-07/) |
-| 2026-07-02 | Etched prepares to ship | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/899164-2026-07/) |
-| 2026-07-02 | Oxmiq raises $35m to re-architect the GPU | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/oxmiq-raises-35m-to-re-architect-the-gpu-2026-07/) |
+| 2026-07-02 | SiMa Unveils Agentic Development Environment for Physical AI | Embedded.com | [link](https://www.embedded.com/sima-unveils-agentic-development-environment-for-physical-ai/) |
+| 2026-07-02 | Diving Penguin #3DPrinting #3DThursday | Adafruit | [link](https://blog.adafruit.com/2026/07/02/diving-penguin-3dprinting-3dthursday/) |
+| 2026-07-02 | Duplo Track Storage #3DPrinting #3DThursday | Adafruit | [link](https://blog.adafruit.com/2026/07/02/duplo-track-storage-3dprinting-3dthursday/) |
+| 2026-07-02 | Adafruit Feather Box Enclosure – Remix with USB-C Port #3DPrinting #3DThursday | Adafruit | [link](https://blog.adafruit.com/2026/07/02/adafruit-feather-box-enclosure-remix-with-usb-c-port-3dprinting-3dthursday/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -75,18 +75,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-01 | Fabric Phononic Crystals for Passive Vibration Control | [link](https://arxiv.org/pdf/2607.01092v1) |
 
 ## New Hugging Face Models
-| Date | Model | Downloads | Likes | URL |
-| --- | --- | --- | --- | --- |
-| 2026-07-02 | LohanTS/mon-model-robot-v5 | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-model-robot-v5) |
-| 2026-07-02 | general-robot/qwen2-7b-instruct-trl-sft-ChartQA | 0 | 0 | [link](https://huggingface.co/general-robot/qwen2-7b-instruct-trl-sft-ChartQA) |
-| 2026-07-02 | general-robot/Qwen2.5-VL-3B-Instruct-Thinking | 0 | 0 | [link](https://huggingface.co/general-robot/Qwen2.5-VL-3B-Instruct-Thinking) |
-| 2026-07-02 | YinonDouchan/smolvla_mobile_robot_lift_turn_task | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_turn_task) |
-| 2026-07-02 | nguyenthuytruclam/Ecobot-robot | 0 | 0 | [link](https://huggingface.co/nguyenthuytruclam/Ecobot-robot) |
-| 2026-07-02 | RobotisSW/Recycle_BlackPlasticCup_place_1022_0701_100k_act | 0 | 0 | [link](https://huggingface.co/RobotisSW/Recycle_BlackPlasticCup_place_1022_0701_100k_act) |
-| 2026-07-02 | wonder-robot/smolvla_pick_and_place | 0 | 0 | [link](https://huggingface.co/wonder-robot/smolvla_pick_and_place) |
-| 2026-07-02 | poet70/vla-sft-suite | 0 | 0 | [link](https://huggingface.co/poet70/vla-sft-suite) |
-| 2026-07-02 | poet70/vla-ckpt-dreamtacvla-jepa | 0 | 0 | [link](https://huggingface.co/poet70/vla-ckpt-dreamtacvla-jepa) |
-| 2026-07-02 | vladmandic/Krea-2-Turbo-Merge-sdnq-hadamard-uint4 | 0 | 0 | [link](https://huggingface.co/vladmandic/Krea-2-Turbo-Merge-sdnq-hadamard-uint4) |
+_No items collected yet._
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -97,38 +86,38 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | zauberzeug/nicegui | 15970 | Python | 6388.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15406 | C++ | 6162.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14065 | C++ | 5626.1 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11044 | Rust | 4417.7 | [link](https://github.com/rerun-io/rerun) |
+| rerun-io/rerun | 11045 | Rust | 4418.1 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7585 | Python | 3034.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 3978 | Python | 1591.3 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3816 | Rust | 1526.5 | [link](https://github.com/dora-rs/dora) |
-| StanfordVL/BEHAVIOR-1K | 1542 | Python | 616.9 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-07-01 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHQ2WjZkRUJYVDYyQkZielpfRVZUXzdEQUJ3SWppMWVrN29GU1dfYlpvcFhfYnBTVHVtYUxRNnQ3TGFuZi1WLVM3SHBMMkpmc1lURFVVdTM1dGFUWkNlRU5CMUU3UlVGQVU0RUptUnpTSVVIWTE4ekhuUWpIRXFmSmdsQWh5dUF6WHlsYlR1Q3JZZGVoRjFVbGxqMHVQX1NmQmU2SC05UHdYcmhwNmp3dQ?oc=5) |
+| 2026-06-29 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VQTBnQWxTYWhiMXlHcWF3MlZwaGMyMTVibDZGNjZUY3Fmb1Jza1hYWXFyY1lvODNIbzZmVGkxSUhTbUtqdmhsU19qUGpTS0VUYU5HbzJxUQ?oc=5) |
 | 2026-06-26 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUhnWGpNVDY2WXlERndBVU5LNC1IUWswZzFWM1M2TlNKcERxWFJCQVFiWk13RjFhdlRiMG1uYTlhZ19Rd3lBMXpQTUp1MW1qcC1lQml4blUxM1lKM1B0SGdjdmVDQ2dQT0VnczFDVDM2Ty1rNGFUUllOWnRRQzBBUGV0N042UlJIZU9KX2lmNGxYUDZuYXJVZDJ4bndGUUVCcEpLSQ?oc=5) |
-| 2026-06-26 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE5aWVN0Nk5DOFNkaGlqTF83WERZcmIzdmt1TEZHV0p0YktNeHhiUUZ3RFNhb00zMGVmbHpHcjRrdjJRdW9MVzBudXB5TVdCS2pWNkxPSUtZZlY3WnY3SkhUUDMxdHZqZ2huYVJsR3JqMA?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnWmtfeGFLT3VCWk1VdVNPazJ6ZjBUbmp6Vk9DOGo5aFNDOUFIb3U2RDZMLXFick1TMkZmX0k0VXRodWc2V1owYi16bEZtV3A1MHVoTFB5UWVSN1AxN2Q4?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGdybHdlOWFOTldsa00wVlY3a1NQOExZY1RKZGRJSlNHYnBYdVFrZ2NVSnBsS3FzaTgwaUtVNk9OaURuOTRodzhXa0FaUTcyQ2RZTVlyakdONWFnRkJBa2VGXy16aXAxYk1QMEd2X1RPNW0xTkxBSWxEMzNwWENBb1lza29Vd1FSLUp4MUpCNFVrWjdK?oc=5) |
 | 2026-06-25 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDhxMkc3MGdXb092MjZIbGVjQXFoSXp5OFZXYUR1T0xIcEtqdkdoYzQ3OC1vSnZRN0Z3M09PRXRiNnZGOXNJaUVBSWpIQ0d6YnZaR3g1bUdFN19fNU5LRUhuZEkwbGxGS1UzX2M5dTdyT3F5a3ZxMXhmUGllZXVEWXlnSGp5Q01yQ2ZUN0lYMTY5UVBBRXViZm9zbGd1bzF3TTFkeHA4RWxUZ0todWd0SmJNcmNKNTFVMVpScEVfejBPdko1?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxNMS1yZUtReWMtWV9vdFFoVzhxNXVEanNJd1FKVVZJYmdCbEo3ZkxtZjdvVHkzU1lTZkJnaTVRNWY3UmplMHZvX05WQnJublhUelNDNmI5WEZ2M2JOTDNfUktIamJzM0szVHEyTkMxQm5UQmUycTRhSDdNRkljM0x0ZEFpb2xlZC1LaHBLd1Nhd0hRWWoxVElRbEtBS0gyQmRrWTJoSWhBSHkySmZTcEpLeFpEdzdpMW1HNFNQdHBiWVVVNDV2X2xTd1NIbw?oc=5) |
-| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdHlhT29SZkRnd1pDNDNLVHdMMjhEZV8wdC1wbm9HVmd5b1pndFNIUVdjT2lGYVBoVnJDY1NMX2VlUTRJTmxaSjNLTDQ2LTlRTHZ5QlFGUzdWNWhCM19GZVladlgxcWxJU0xIekp0RW92SGwtYW5YbHZzZERtejdLcHBaQVd2Tm1UM0Jhd3RSRHg4NlUxSmVQS3gtOGQya1pXdUxKTXFhYkxYdG1K?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdHlhT29SZkRnd1pDNDNLVHdMMjhEZV8wdC1wbm9HVmd5b1pndFNIUVdjT2lGYVBoVnJDY1NMX2VlUTRJTmxaSjNLTDQ2LTlRTHZ5QlFGUzdWNWhCM19GZVladlgxcWxJU0xIekp0RW92SGwtYW5YbHZzZERtejdLcHBaQVd2Tm1UM0Jhd3RSRHg4NlUxSmVQS3gtOGQya1pXdUxKTXFhYkxYdG1K?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-02 | Jeff Bezos' family office backed five AI startups in June - CNBC | physical ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxOYjNkUUFNY1F6S3dZMS14czU2WWMyejFhLTZQT0pOSGdOeEpNcEtTaFRuLURjUG5JU1BUTEozd2pqTU5KOU1Pc1NINmE0RUNXYWU3Z2tyclkwRGZBTkRKbVhtSWxFaVRvVTNESlUyYUxOMHU0QzBsME8xXzF0Yjk4OTdueU9fM0VkNWJDMVhINTVhODhJOENPTE8tczFxQdIBngFBVV95cUxOYjNkUUFNY1F6S3dZMS14czU2WWMyejFhLTZQT0pOSGdOeEpNcEtTaFRuLURjUG5JU1BUTEozd2pqTU5KOU1Pc1NINmE0RUNXYWU3Z2tyclkwRGZBTkRKbVhtSWxFaVRvVTNESlUyYUxOMHU0QzBsME8xXzF0Yjk4OTdueU9fM0VkNWJDMVhINTVhODhJOENPTE8tczFxQQ?oc=5) |
 | 2026-07-02 | 2026: The Year Physical AI Takes Center Stage - quasa.io | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFB0dEkxZFdfaFNSVjNiSmNSU3V5X2pieGg0SkVJYmpCVXN6YldJdVdZUEpmM1B2QXF3NElOX0VVRGtpLXRNaFJxOEtKd2xnY2l0dlFydTNIR2YzSkhaR3VDWkZMQXhPVDQxTkJDTDhoUlZZazduMHc?oc=5) |
 | 2026-07-02 | YC-Selected Startups Reveal AI Shift to Robotics, U.S. Dominance - 조선일보 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTR5R1dCOFdUWnhSV09wMmNWb21qdFZ3NFMtZlRsdnRmTFB5d3hIQW5UdnVIYWw4ZVRoYnNVZTNLYmtCektpN1g5RUJPSkwwMkZJWmFNWFJqMmFzcjRFQWw4cml3c19KRm9aLXJtdnBuXzZ4dnZmcjNTRGI1bDc0bVIzcmNkcE11?oc=5) |
 | 2026-07-02 | Shunwei, Sequoia China back AI startup Liqing - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE5uXzFELVpoM1FoajJjb3puSUh1ejZmM0JqWFFUdmJOOHBQYWpQV1lEN2Z4NENXelc3TG5iNlRIZi1sN3d5NmlBTWRwdnNzRXhvMkQyc1ZfVXBTRnJBaE1WYThzaWQ0T282QzFRbklaYU9yT1BkNHJEdU5Wdw?oc=5) |
 | 2026-07-02 | Ant Group Bets $74M on Humanoid Robots in Year-Long Spree - The Tech Buzz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlg4dVh2ZFVQeVM1TS1fU0hYWnR6S0NTNm45LXF6MXVlUWhYbXhzS0daR3k3ZDRpcE5SYXEyOWtKQ2x0cWF1bm9Mc1VJYngtT0hvYzZfLThaZFZzYldnc2tORVFMY0lCM2RlSnRuNnBRcU5vTVl0cHZOOTE0OFVTY01MSVBMX05DVkRCYlh3d3JCR0U?oc=5) |
 | 2026-07-02 | Ant Group leads $73.58M funding round in humano... - Pluang | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHdnWWN6cnNtSEctcl9yZHQwd3Nfdi0tVFpCYzVhbUhQTGZ4Nk1reTgtbXB2SWhLc2htbWtJb1liajFfaXdDeWE4MzM4UC1xem9PVU9XRU5sd2sxMlVxeDJMMnlkRnVLdlp6Qlh3LUpfN2xrWjcteE0weFo0RFN0MXhyV1p3SG8xZ1lhRFVzTzZoejNnZ3VvNktVZXZnNGlf?oc=5) |
-| 2026-07-01 | Thailand's Amity Robotics Closes USD $7M Seed Round to Expand its Physical AI Concierge Business - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxQd05ibkJ6WlFJQlNWRXVCcnVIeDUtRzAzYmJiTWhlSE1YejJGM2tjQzBmR2xIUm15MEZ2WFlIOGVNOXk4NDFtb2tYZnlHTHdDeUtmWnNGX1lfVGd6QmEtZ3MwM0QwSFZ5Y0RSWGQzSG8zbnZLMV9ZTlpvNXpSOXVxSVJtczFpTGJlelczWlctNkhLTXJvRHhOVkFlMkxMdGd2Tll4YzV4ZkpjLTktZzVfVGNib0FiemZ2c1ZXc01oMEp3UDlSVF9DM0I5Z20?oc=5) |
 | 2026-07-01 | East Ventures invests in Thai physical AI startup Amity Robotics - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxORkU4VHJFcTN5SXlLWHhwbXhCZWl3dDlnWnVQYkpjRy0yd2xxSmw0aDh4cFlKV0ZtQlB6Ql8xVzRKYVE3WHR2ZHNKMkVqTVdnZEtGVkh2eENubVpJM3RESDBfQ1IzMWtobUp3bU5taEJMQk5jSVJ3eVA1UGRDUW5weXp5aERMN3NBbDJZdWc2ZGdhN2lfWUNYcy1kWUtjeUMyS0VJQWRsc1k5V3hWOEw0?oc=5) |
+| 2026-07-01 | Thailand's Amity Robotics Closes USD $7M Seed Round to Expand its Physical AI Concierge Business - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxQd05ibkJ6WlFJQlNWRXVCcnVIeDUtRzAzYmJiTWhlSE1YejJGM2tjQzBmR2xIUm15MEZ2WFlIOGVNOXk4NDFtb2tYZnlHTHdDeUtmWnNGX1lfVGd6QmEtZ3MwM0QwSFZ5Y0RSWGQzSG8zbnZLMV9ZTlpvNXpSOXVxSVJtczFpTGJlelczWlctNkhLTXJvRHhOVkFlMkxMdGd2Tll4YzV4ZkpjLTktZzVfVGNib0FiemZ2c1ZXc01oMEp3UDlSVF9DM0I5Z20?oc=5) |
 | 2026-07-01 | This Embodied AI Startup Completes Series C Funding With A $2.94B Valuation - Benzinga | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWp3Ty1YaFYzS19jQUZ0VjAtWE8wZ3NlWEVEY0hXenV6MDR4WXUySGJUM3VwcE9wcnh6bnV4MXE5SEpQZXk3OWc4QTU4MHNQVy0zazlxYzhqeUNjeFU2cXJjSWpoeVdwNXdETTdJMHpveDNMZjNDMHdKR1VQNmJxWXppdmVPNjNfQ29Gc0Q1TzZfR0kwOUhVdkgwVGplejNidXhiMVF6MXctVVdscjVicmYzeS12endoaG5QNjdqSQ?oc=5) |
 | 2026-07-01 | Chinese Startup X Square Robot Hits 20 Billion Yuan Valuation - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2gxQVNvYThZeVZiUzBaeFc3R1NpUDJ1Tks1X0dITmd3cDhHY21WamxFWHg0VzNJcXJrdl80X2poeFI0NnBCYTlndTlWMVlmZFlfZWU5MnV0Z1ExbF9QaHNOZXlkbXJMWHlncjAzUFJMSGw4ejdLbnMxUmljSDBzT1hCdFkzRTVnSVhVMG1Hd0dKbE9JN3dwVU1oZUt4RTR6VjNBYlJMWFR2bUNLd0NZb250MHVtaGM?oc=5) |
-| 2026-06-30 | 6 Months, 15 Embodied AI Startups with Valuation Exceeding $10 Billion - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5td2VxYmFPZWhBMWFYVGJHeDhfOHVWdzhGVTVfaHg5cDZGMFJxQzJ4ZFg1UHhMWmlMZ2E0VVVaUUkzejJGY09wNl9MLW9pQ0pHZ3pZ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
