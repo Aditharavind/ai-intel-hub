@@ -1,5 +1,32 @@
 [
   {
+    "model": "general-robot/Qwen2.5-VL-3B-Instruct-Thinking",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/general-robot/Qwen2.5-VL-3B-Instruct-Thinking",
+    "date": "2026-07-02",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "YinonDouchan/smolvla_mobile_robot_lift_turn_task",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_turn_task",
+    "date": "2026-07-02",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "nguyenthuytruclam/Ecobot-robot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/nguyenthuytruclam/Ecobot-robot",
+    "date": "2026-07-02",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "RobotisSW/Recycle_BlackPlasticCup_place_1022_0701_100k_act",
     "downloads": 0,
     "likes": 0,
@@ -18,12 +45,138 @@
     "score": 0.1
   },
   {
-    "model": "byeonghyunpak/SERF-VLA",
+    "model": "bhe1004/FIRe-VLA-PI05-PegInsert-Sim",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/byeonghyunpak/SERF-VLA",
+    "url": "https://huggingface.co/bhe1004/FIRe-VLA-PI05-PegInsert-Sim",
     "date": "2026-07-02",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "bhe1004/FIRe-VLA-PI05-NutThread-Sim",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bhe1004/FIRe-VLA-PI05-NutThread-Sim",
+    "date": "2026-07-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "bhe1004/FIRe-VLA-Pi05-GearMesh-Sim",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bhe1004/FIRe-VLA-Pi05-GearMesh-Sim",
+    "date": "2026-07-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "bhe1004/FIRe-VLA-PI05-NutThread-Real",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bhe1004/FIRe-VLA-PI05-NutThread-Real",
+    "date": "2026-07-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "bhe1004/FIRe-VLA-PI05-GearMesh-Real",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bhe1004/FIRe-VLA-PI05-GearMesh-Real",
+    "date": "2026-07-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "bhe1004/FIRe-VLA-OpenVLA-PegInsert-Sim",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bhe1004/FIRe-VLA-OpenVLA-PegInsert-Sim",
+    "date": "2026-07-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "bhe1004/FIRe-VLA-OpenVLA-NutThread-Sim",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bhe1004/FIRe-VLA-OpenVLA-NutThread-Sim",
+    "date": "2026-07-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "bhe1004/FIRe-VLA-OpenVLA-GearMesh-Sim",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bhe1004/FIRe-VLA-OpenVLA-GearMesh-Sim",
+    "date": "2026-07-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "bhe1004/FIRe-VLA-OpenVLA-NutThread-Real",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bhe1004/FIRe-VLA-OpenVLA-NutThread-Real",
+    "date": "2026-07-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "bhe1004/FIRe-VLA-OpenVLA-GearMesh-Real",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bhe1004/FIRe-VLA-OpenVLA-GearMesh-Real",
+    "date": "2026-07-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "bhe1004/FIRe-VLA-PI05-PegInsert-Real",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bhe1004/FIRe-VLA-PI05-PegInsert-Real",
+    "date": "2026-07-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "bhe1004/FIRe-VLA-OpenVLA-PegInsert-Real",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bhe1004/FIRe-VLA-OpenVLA-PegInsert-Real",
+    "date": "2026-07-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos8_v2_policy0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos8_v2_policy0",
+    "date": "2026-07-02",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "furonghuang-lab/mu0-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/furonghuang-lab/mu0-policy",
+    "date": "2026-07-02",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos7_v2_policy0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos7_v2_policy0",
+    "date": "2026-07-02",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -49,15 +202,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos4_v2_policy0",
-    "date": "2026-07-02",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "yoonkyojung/mu0-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/yoonkyojung/mu0-policy",
     "date": "2026-07-02",
     "keyword": "policy",
     "score": 0.1
@@ -117,15 +261,6 @@
     "score": 0.1
   },
   {
-    "model": "YinonDouchan/smolvla_mobile_robot_lift_turn_task",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_turn_task",
-    "date": "2026-07-01",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "DAVIAN-Robotics/3D_HAMSTER",
     "downloads": 3,
     "likes": 0,
@@ -159,123 +294,6 @@
     "url": "https://huggingface.co/Kamna0321/so101_persepsi_robot_20260701_164927",
     "date": "2026-07-01",
     "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup",
-    "date": "2026-07-01",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "LohanTS/mon-model-robot-v4",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/LohanTS/mon-model-robot-v4",
-    "date": "2026-07-01",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "bhe1004/FIRe-VLA-GR00T-NutThread-Real-0701",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/bhe1004/FIRe-VLA-GR00T-NutThread-Real-0701",
-    "date": "2026-07-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "binhpham/naive-bench-vla-jepa",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/binhpham/naive-bench-vla-jepa",
-    "date": "2026-07-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vladmandic/Anima-1.0-Base-Merge-sdnq-hadamard-uint4",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladmandic/Anima-1.0-Base-Merge-sdnq-hadamard-uint4",
-    "date": "2026-07-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vladmandic/Flux.2-Klein-9B-KV-Merge-sdnq-hadamard-uint4",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladmandic/Flux.2-Klein-9B-KV-Merge-sdnq-hadamard-uint4",
-    "date": "2026-07-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vladmandic/Flux.2-Klein-9B-KV-sdnq-hadamard-uint4",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladmandic/Flux.2-Klein-9B-KV-sdnq-hadamard-uint4",
-    "date": "2026-07-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "bhe1004/FIRe-VLA-GR00T-PegInsert-Real-0701",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/bhe1004/FIRe-VLA-GR00T-PegInsert-Real-0701",
-    "date": "2026-07-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "EmpathicRobotics/tokenizer-vla-qwen3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/EmpathicRobotics/tokenizer-vla-qwen3",
-    "date": "2026-07-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "EmpathicRobotics/tokenizer-vla-adaptive-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/EmpathicRobotics/tokenizer-vla-adaptive-v2",
-    "date": "2026-07-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "anhtld/vla",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/anhtld/vla",
-    "date": "2026-07-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Cocoyawn32/vlanext-robolab-droid-eval",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Cocoyawn32/vlanext-robolab-droid-eval",
-    "date": "2026-07-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "AmoghShrivastava1/vlajepa-so101",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/AmoghShrivastava1/vlajepa-so101",
-    "date": "2026-07-01",
-    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -342,21 +360,12 @@
     "score": 30.1
   },
   {
-    "model": "anisamsrh/rp_policy",
+    "model": "L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/anisamsrh/rp_policy",
+    "url": "https://huggingface.co/L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup",
     "date": "2026-07-01",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "KeshavLN/deskorgv2.1_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/KeshavLN/deskorgv2.1_policy",
-    "date": "2026-07-01",
-    "keyword": "policy",
+    "keyword": "robotics",
     "score": 0.1
   },
   {

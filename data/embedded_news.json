@@ -1,5 +1,12 @@
 [
   {
+    "title": "Trying Out Viewer Suggestions for Levitation on an Induction Cooker",
+    "source": "Hackaday",
+    "date": "2026-07-02",
+    "url": "https://hackaday.com/2026/07/01/trying-out-viewer-suggestions-for-levitation-on-an-induction-cooker/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"453\" src=\"https://hackaday.com/wp-content/uploads/2026/06/cd_levitation_fail_brainiac75_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Doing something once is fun, but if you get interesting feedback from viewers on how to make things even more fun, you can only follow all of these instructions and <a class=\"read-more\" href=\"https://hackaday.com/2026/07/01/trying-out-viewer-suggestions-for-levitation-on-an-induction-cooker/\">&#8230;read more</a>"
+  },
+  {
     "title": "GPU-Accelerated Autorouter Handles Monstrous PCB Designs",
     "source": "Hackaday",
     "date": "2026-07-02",
@@ -7,11 +14,74 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/OrthoRouteKiCad-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Brian] had an absolute monster of a PCB with thousands of nets to be routed, the kind of design that stopped traditional routers in their tracks. It would take months <a class=\"read-more\" href=\"https://hackaday.com/2026/07/01/gpu-accelerated-autorouter-handles-monstrous-pcb-designs/\">&#8230;read more</a>"
   },
   {
+    "title": "PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit",
+    "source": "CNX Software",
+    "date": "2026-07-02",
+    "url": "https://www.cnx-software.com/2026/07/02/paperboy-game-boy-emulator-works-at-60-fps-on-esp32-s3-e-ink-devkit/",
+    "summary": "<div><img alt=\"PaperBoy E Ink ESP32-S3 Gameboy emulator\" class=\"attachment-medium size-medium wp-post-image\" height=\"600\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/PaperBoy-E-Ink-ESP32-S3-Gameboy-emulator-720x600.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>60 FPS gaming on an E Ink display? That doesn&#8217;t seem right&#8230; But that&#8217;s exactly what Wenting Zhang&#8217;s PaperBoy Game Boy emulator project does, using the M5Stack PaperS3 devkit, pairing an ESP32-S3 wireless microcontroller with a 4.7-inch E Ink display with 960 x 540 resolution. One of the tricks here is that the bottom part of the ePaper touchscreen display is used for control buttons and doesn&#8217;t need to be refreshed, while the active part only requires 160 x 144 resolution, scaled three times to represent various shades of grey. Contrary to most small Eink devkits, the PaperS3 features a screen with a raw row/column driver interface, which enabled him to drive the display while bypassing the normal waveform method, and deliver a higher refresh rate up to 60 FPS. Wenting didn&#8217;t reinvent the wheel for the Game Boy emulation part, and after testing three different emulators, he went with [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/02/paperboy-game-boy-emulator-works-at-60-fps-on-esp32-s3-e-ink-devkit/\">PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "UK is Europe’s startup champion",
+    "source": "Electronics Weekly",
+    "date": "2026-07-02",
+    "url": "https://www.electronicsweekly.com/news/business/uk-is-europes-startup-champion-2026-07/",
+    "summary": "<p>The UK has 80 unicorns &#8211; the third highest in the world after the USA and China &#8211; according to the Hurun Research Institute of Shanghai. The UK’s 80 unicorns ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/uk-is-europes-startup-champion-2026-07/\">UK is Europe’s startup champion</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Etched prepares to ship",
+    "source": "Electronics Weekly",
+    "date": "2026-07-02",
+    "url": "https://www.electronicsweekly.com/news/business/899164-2026-07/",
+    "summary": "<p>Etched, a four year-old San Jose AI inference chip startup, has raised $800 million at a $5 billion valuation, is said to have orders worth $1 billion and intends to ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/899164-2026-07/\">Etched prepares to ship</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Oxmiq raises $35m to re-architect the GPU",
+    "source": "Electronics Weekly",
+    "date": "2026-07-02",
+    "url": "https://www.electronicsweekly.com/news/business/oxmiq-raises-35m-to-re-architect-the-gpu-2026-07/",
+    "summary": "<p>Oxmiq of Campbell, California has raised $35 million to bring its total funding so far to $60 million. Oxmiq is developing a GPU architecture and software for licensing which will ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/oxmiq-raises-35m-to-re-architect-the-gpu-2026-07/\">Oxmiq raises $35m to re-architect the GPU</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Infineon opens smart power fab in Dresden",
+    "source": "Electronics Weekly",
+    "date": "2026-07-02",
+    "url": "https://www.electronicsweekly.com/news/business/infineon-opens-smart-power-fab-in-dresden-2026-07/",
+    "summary": "<p>Today, Infineon opens its €5 billion smart power fab in Dresden. The official ground-breaking ceremony for the fab took place in May 2023 &#8211; three years later, on 2 July ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-opens-smart-power-fab-in-dresden-2026-07/\">Infineon opens smart power fab in Dresden</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Imec extends auto chiplet program to edge computing",
+    "source": "Electronics Weekly",
+    "date": "2026-07-02",
+    "url": "https://www.electronicsweekly.com/news/business/imec-extends-auto-chiplet-program-to-edge-computing-2026-07/",
+    "summary": "<p>Imev is extending the lessons learnt in its Automotive Chiplet  Program to an Autonomous Edge Chiplet Program (AECP) as a an acknowledgment that the same foundational HPC building blocks can ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/imec-extends-auto-chiplet-program-to-edge-computing-2026-07/\">Imec extends auto chiplet program to edge computing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Europe’s Heat-Stroke",
     "source": "Electronics Weekly",
     "date": "2026-07-02",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/europes-heat-stroke-2026-07/",
     "summary": "<p>Western Europe experienced an “unusually early and intense” heat wave in late May and now large parts of the continent have been gripped by another heat wave, this one  more ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/europes-heat-stroke-2026-07/\">Europe’s Heat-Stroke</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Sci-fi Canister Vault – LED COB Glow Tube #3DPrinting #3DThursday",
+    "source": "Adafruit",
+    "date": "2026-07-02",
+    "url": "https://blog.adafruit.com/2026/07/02/sci-fi-canister-vault-led-cob-glow-tube-3dprinting-3dthursday/",
+    "summary": "MottN. shares: A sci-fi-themed display vault with internal show gears, a clear tube center, and channels for an LED COB strip that glows through the tube. No AMS required, A1 Mini compatible. Best printed in silk filaments. By MottN download the files on: https://makerworld.com/en/models/1011021-sci-fi-canister-vault Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing [&#8230;]"
+  },
+  {
+    "title": "From the mail bag…",
+    "source": "Adafruit",
+    "date": "2026-07-02",
+    "url": "https://blog.adafruit.com/2026/07/02/from-the-mail-bag-795/",
+    "summary": "From the mail bag!"
+  },
+  {
+    "title": "Solder Scroll – Ergonomic Adjustable Solder Dispenser Tool #3DPrinting #3DThursday",
+    "source": "Adafruit",
+    "date": "2026-07-02",
+    "url": "https://blog.adafruit.com/2026/07/02/solder-scroll-ergonomic-adjustable-solder-dispenser-tool-3dprinting-3dthursday/",
+    "summary": "victordesigns shares: A 3D-printed ergonomic solder feeder you wind manually like a pen. Roll solder onto the integrated spool, feed it through the main body, clip in the spool, and you have one-handed solder dispensing. Includes remixes from the community. By Victor download the files on: https://www.printables.com/model/843353-solder-scroll-ergonomic-adjustable-solder-tool Every Thursday is #3dthursday here at Adafruit! The [&#8230;]"
   },
   {
     "title": "No-Drill Sailing Kit for a Canoe",
@@ -47,13 +117,6 @@
     "date": "2026-07-01",
     "url": "https://hackaday.com/2026/07/01/engineering-micro-submarines-to-replace-fish/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"459\" src=\"https://hackaday.com/wp-content/uploads/2026/06/robot_fish_aquarium_cpsdrone_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Everybody loves aquariums. There&#8217;s something soothing about watching the lil&#8217; critters inside them swimming, crawling and wriggling about. But at the same time few people are up to the task <a class=\"read-more\" href=\"https://hackaday.com/2026/07/01/engineering-micro-submarines-to-replace-fish/\">&#8230;read more</a>"
-  },
-  {
-    "title": "UDP Broadcasting and Easily Finding Network Services",
-    "source": "Hackaday",
-    "date": "2026-07-01",
-    "url": "https://hackaday.com/2026/07/01/udp-broadcasting-and-easily-finding-network-services/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/06/UDP.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Local area networks (LANs) that use technologies like Ethernet and Wi-Fi are incredibly useful for letting devices talk with each other. Yet a core problem here is knowing which devices <a class=\"read-more\" href=\"https://hackaday.com/2026/07/01/udp-broadcasting-and-easily-finding-network-services/\">&#8230;read more</a>"
   },
   {
     "title": "Sipeed NanoKVM-Go – A 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding)",
@@ -119,41 +182,6 @@
     "summary": "<p>Don't miss the latest episode of our Electronics Weekly podcast, CHIIPS. It features Edward Charrier - Fractilia's co-founder, CEO and President - and Chris Mack, Fractilia's co-founder and CTO.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-35-chiips-with-fractilias-edward-charrier-and-chris-mack-2026-07/\">CHIIPS #35 &#8211; CHIIPs with Fractilia&#8217;s Edward Charrier and Chris Mack</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Molex releases HSAutoLink G automotive Ethernet connector system",
-    "source": "Electronics Weekly",
-    "date": "2026-07-01",
-    "url": "https://www.electronicsweekly.com/news/products/connectors/molex-releases-hsautolink-g-automotive-ethernet-connector-system-2026-07/",
-    "summary": "<p>Molex is expanding its automotive HSAutoLink Interconnect portfolio. The HSAutoLink G connector provides multi-gig Ethernet connections of up to 25Gbps. It will address escalating bandwidth demands driven by Advanced Driver-Assistance ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/connectors/molex-releases-hsautolink-g-automotive-ethernet-connector-system-2026-07/\">Molex releases HSAutoLink G automotive Ethernet connector system</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Non-AI lead times normalising",
-    "source": "Electronics Weekly",
-    "date": "2026-07-01",
-    "url": "https://www.electronicsweekly.com/news/business/lead-times-3-2026-07/",
-    "summary": "<p>The semiconductor market divide between AI-driven infrastructure demand and traditional end markets is growing, says Counterpoint’s Q2 Lead Times report. While the market, in general, is experiencing a return to ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/lead-times-3-2026-07/\">Non-AI lead times normalising</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "AI transforming optical receiver market",
-    "source": "Electronics Weekly",
-    "date": "2026-07-01",
-    "url": "https://www.electronicsweekly.com/news/business/ai-transforming-optical-receiver-market-2026-07/",
-    "summary": "<p>The optical transceiver market is expected to grow to more than $112 billion by 2031, driven primarily by AI infrastructure deployments, says Yole Group. AI is reshaping the competitive landscape, ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ai-transforming-optical-receiver-market-2026-07/\">AI transforming optical receiver market</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "AI will enhance the RAN but won’t expand RAN market",
-    "source": "Electronics Weekly",
-    "date": "2026-07-01",
-    "url": "https://www.electronicsweekly.com/news/business/ai-ran-2026-07/",
-    "summary": "<p>Cumulative AI RAN revenue is projected to reach $35 billion over the next five years (2026-2030) is not expected to expand the overall RAN market, says Dell’Oro. “AI RAN is ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ai-ran-2026-07/\">AI will enhance the RAN but won’t expand RAN market</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Panasonic launches compact PCB relay series",
-    "source": "Electronics Weekly",
-    "date": "2026-07-01",
-    "url": "https://www.electronicsweekly.com/news/business/panasonic-launches-compact-pcb-relay-series-2026-07/",
-    "summary": "<p>Panasonic has brought out a compact HE-S SC 2a and HE-S SC 2a1b PCB relay series, specifically developed for single-phase EV charging systems and wallbox applications. The new relay series ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/panasonic-launches-compact-pcb-relay-series-2026-07/\">Panasonic launches compact PCB relay series</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "LIVE NOW! SHOW and TELL 7/1/2026 with @blitzcitydiy #ShowandTell @adafruit",
     "source": "Adafruit",
     "date": "2026-07-01",
@@ -215,27 +243,6 @@
     "date": "2026-07-01",
     "url": "https://blog.adafruit.com/2026/07/01/made-in-america-directory-americanmanufacturers/",
     "summary": "Looking for an American-made product? The Alliance for American manufacturing can help with that The Alliance for American Manufacturing (AAM) is a non-profit, non-partisan partnership formed in 2007 by some of America’s leading manufacturers and the United Steelworkers. Our mission is to strengthen American manufacturing and create new private-sector jobs through smart public policies. We [&#8230;]"
-  },
-  {
-    "title": "Starfire, Sun Microsystems vision of the future of desktop computing",
-    "source": "Adafruit",
-    "date": "2026-07-01",
-    "url": "https://blog.adafruit.com/2026/07/01/starfire-sun-microsystems-vision-of-the-future-of-desktop-computing/",
-    "summary": "In the sixteen minute 1992 vinette Starfire, Bruce &#8220;Tog&#8221; Tognazzini, a respected industry futurist, presented his vision of the technological future for Sun Microsystems. It details the steps computer professionals might take to deliver new technologies in a form to advance how we communicate and get things done. You can watch the full video below [&#8230;]"
-  },
-  {
-    "title": "LIVE! 3D Hangouts with Noe and Pedro",
-    "source": "Adafruit",
-    "date": "2026-07-01",
-    "url": "https://blog.adafruit.com/2026/07/01/live-3d-hangouts-with-noe-and-pedro-79/",
-    "summary": "3D Hangouts – Chiptune Player and Diving Penguin https://youtube.com/live/iXBXO2uxt48?feature=share This week @adafruit we’re working on new projects. Noe has a working prototype for Liz Clark’s CircuitPython chiptune player while Pedro is working on a new project. This week’s timelapse features a diving penguin pool toy. Adafruit Feather RP2350 with 8MB PSRAM https://www.adafruit.com/product/6130 Adafruit 3.5&#8243; TFT [&#8230;]"
-  },
-  {
-    "title": "Sandia National Labs SA3000 8085 CPU",
-    "source": "Adafruit",
-    "date": "2026-07-01",
-    "url": "https://blog.adafruit.com/2026/07/01/sandia-national-labs-sa3000-8085-cpu/",
-    "summary": "The CPUShack Museum writes that back in the late 1970’s and early 1980’s Sandia National Laboratory (in Albuquerque, New Mexico) began building the capacity to design, fab, and test IC’s at scale (packaging was handled by Fairchild and Allied Signal). Why would a National Laboratory need the capacity to do this? To provide components that [&#8230;]"
   },
   {
     "title": "Keysight and WIN Semiconductors Collaborate to Cut Design Risk for High Frequency RF Components",
@@ -390,13 +397,6 @@
     "date": "2026-06-28",
     "url": "https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/",
     "summary": "<div><img alt=\"Arduino Modulino Hub Extender I2C modules\" class=\"attachment-medium size-medium wp-post-image\" height=\"381\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/Arduino-Modulino-Hub-Extender-I2C-modules-720x381.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Arduino has just introduced three new Modulino modules: the Modulino Hub to support up to eight I2C devices (64 devices with 8 Hubs), the Modulino Extender to extend the I2C range to up to 30 meters, and the Modulino Motors to control two DC motors or a single stepper motor with precision. I&#8217;ll focus on the I2C modules in this post, as I find the Modulino Extender module particularly interesting, since I always considered I2C to be a short-range communication protocol, and never thought of using it for (relatively) long-range wired communication. Modulino Hub While the I2C protocol supports up to 127 devices in theory, address conflicts can become an issue in complex builds where multiple sensors or actuators share the same default address. The Modulino Hub aims to solve that, and multiple Hubs can be daisy-chained, each with its own address, to support up to 64 devices. Modulino Hub specifications: [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/\">Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "GEEKOM A7 2026 Edition Review – Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC",
-    "source": "CNX Software",
-    "date": "2026-06-27",
-    "url": "https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/",
-    "summary": "<div><img alt=\"GEEKOM A7 2026 Edition Review Ubuntu 26.04 Linux\" class=\"attachment-medium size-medium wp-post-image\" height=\"471\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/GEEKOM-A7-2026-Edition-Review-Ubuntu-26.04-Linux-720x471.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We&#8217;ve just reviewed the GEEKOM A7 2026 Edition mini PC on Windows 11 after having checked out the hardware with an unboxing and a teardown in the first part of the review. We&#8217;ve now had time to review the AMD Ryzen 5 7545U mini PC on Linux using Ubuntu 26.04 distribution. The Ubuntu 26.04 review includes feature testing, benchmarks, storage and networking (2.5GbE and WiFi 6) tests, and measurements of CPU temperature under stress, fan noise levels, and power consumption of the mini PC under various workloads. Ubuntu 26.04 installation We decided to install Ubuntu 26.04 alongside Windows 11 in dual boot configuration. To do so, we shrank the Windows (C:) partition to approximately half its size. We then inserted a USB drive flashed with the Ubuntu 26.04 ISO and began the installation process by entering the BIOS and selecting the drive. From there, the installation went smoothly, and we got [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/\">GEEKOM A7 2026 Edition Review &#8211; Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Cyber Resilience Act, From Silicon to Systems, WBG Semiconductor Partnerships: Embedded Week Insights",
