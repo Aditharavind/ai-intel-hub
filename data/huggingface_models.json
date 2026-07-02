@@ -1,5 +1,14 @@
 [
   {
+    "model": "wonder-robot/smolvla_pick_and_place",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wonder-robot/smolvla_pick_and_place",
+    "date": "2026-07-02",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "YinonDouchan/mobile_robot_lift_env",
     "downloads": 0,
     "likes": 0,
@@ -99,12 +108,21 @@
     "score": 0.1
   },
   {
-    "model": "wonder-robot/smolvla_pick_and_place",
+    "model": "zwan1003/pickplace_twodisc_vla",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/wonder-robot/smolvla_pick_and_place",
+    "url": "https://huggingface.co/zwan1003/pickplace_twodisc_vla",
     "date": "2026-07-02",
-    "keyword": "robot",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "VLat3/ppo-Pyramids",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VLat3/ppo-Pyramids",
+    "date": "2026-07-02",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -112,6 +130,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/anhtld/vla",
+    "date": "2026-07-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "VLat3/ppo-SnowballTarget",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VLat3/ppo-SnowballTarget",
     "date": "2026-07-02",
     "keyword": "vla",
     "score": 0.1
@@ -184,33 +211,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/bhe1004/FIRe-VLA-PI05-PegInsert-Real",
-    "date": "2026-07-02",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "bhe1004/FIRe-VLA-PI05-NutThread-Real",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/bhe1004/FIRe-VLA-PI05-NutThread-Real",
-    "date": "2026-07-02",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "bhe1004/FIRe-VLA-PI05-GearMesh-Real",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/bhe1004/FIRe-VLA-PI05-GearMesh-Real",
-    "date": "2026-07-02",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "bhe1004/FIRe-VLA-OpenVLA-PegInsert-Real",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/bhe1004/FIRe-VLA-OpenVLA-PegInsert-Real",
     "date": "2026-07-02",
     "keyword": "vla",
     "score": 0.1
