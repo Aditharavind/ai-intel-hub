@@ -1,17 +1,23 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-02 17:41 UTC
+Generated: 2026-07-02 19:04 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-07-01 | FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model | [link](https://arxiv.org/pdf/2607.01212v1) |
+| 2026-07-01 | TiRex-2: Generalizing TiRex to Multivariate Data and Streaming | [link](https://arxiv.org/pdf/2607.01204v1) |
+| 2026-07-01 | GPU-Parallel Linearization Error Bounds for Real-Time Robust Optimal Control of Nonlinear and Neural Network Dynamics | [link](https://arxiv.org/pdf/2607.01203v1) |
+| 2026-07-01 | Sensorless Four-Channel Control Architecture Using Inverse Dynamics Modeling for Human-Scale Bilateral Teleoperation | [link](https://arxiv.org/pdf/2607.01201v1) |
+| 2026-07-01 | FastBridge: Closing the Model-Based Realization Gap in Safety Filters on 3D Gaussian Splatting for Fast Quadrotor Flight | [link](https://arxiv.org/pdf/2607.01200v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82205 | 32882.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82206 | 32882.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 62936 | 25174.5 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29920 | 11968.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15970 | 6388.1 | [link](https://github.com/zauberzeug/nicegui) |
+| AtsushiSakai/PythonRobotics | 29921 | 11968.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15971 | 6388.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15407 | 6162.9 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
@@ -27,10 +33,10 @@ _No items collected yet._
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
 | 2026-06-26 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUhnWGpNVDY2WXlERndBVU5LNC1IUWswZzFWM1M2TlNKcERxWFJCQVFiWk13RjFhdlRiMG1uYTlhZ19Rd3lBMXpQTUp1MW1qcC1lQml4blUxM1lKM1B0SGdjdmVDQ2dQT0VnczFDVDM2Ty1rNGFUUllOWnRRQzBBUGV0N042UlJIZU9KX2lmNGxYUDZuYXJVZDJ4bndGUUVCcEpLSQ?oc=5) |
+| 2026-06-26 | Skild AI |  | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE5aWVN0Nk5DOFNkaGlqTF83WERZcmIzdmt1TEZHV0p0YktNeHhiUUZ3RFNhb00zMGVmbHpHcjRrdjJRdW9MVzBudXB5TVdCS2pWNkxPSUtZZlY3WnY3SkhUUDMxdHZqZ2huYVJsR3JqMA?oc=5) |
 | 2026-06-25 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnWmtfeGFLT3VCWk1VdVNPazJ6ZjBUbmp6Vk9DOGo5aFNDOUFIb3U2RDZMLXFick1TMkZmX0k0VXRodWc2V1owYi16bEZtV3A1MHVoTFB5UWVSN1AxN2Q4?oc=5) |
 | 2026-06-25 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGdybHdlOWFOTldsa00wVlY3a1NQOExZY1RKZGRJSlNHYnBYdVFrZ2NVSnBsS3FzaTgwaUtVNk9OaURuOTRodzhXa0FaUTcyQ2RZTVlyakdONWFnRkJBa2VGXy16aXAxYk1QMEd2X1RPNW0xTkxBSWxEMzNwWENBb1lza29Vd1FSLUp4MUpCNFVrWjdK?oc=5) |
-| 2026-06-25 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDhxMkc3MGdXb092MjZIbGVjQXFoSXp5OFZXYUR1T0xIcEtqdkdoYzQ3OC1vSnZRN0Z3M09PRXRiNnZGOXNJaUVBSWpIQ0d6YnZaR3g1bUdFN19fNU5LRUhuZEkwbGxGS1UzX2M5dTdyT3F5a3ZxMXhmUGllZXVEWXlnSGp5Q01yQ2ZUN0lYMTY5UVBBRXViZm9zbGd1bzF3TTFkeHA4RWxUZ0todWd0SmJNcmNKNTFVMVpScEVfejBPdko1?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |

@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-02 17:41 UTC
+Last Updated: 2026-07-02 19:04 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,19 +49,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-02 | An eInk, ESP32-based Game Boy | Hackaday | [link](https://hackaday.com/2026/07/02/an-eink-esp32-based-gameboy/) |
 | 2026-07-02 | Jenny’s Daily Drivers: KolibriOS 0.7.7 | Hackaday | [link](https://hackaday.com/2026/07/02/jennys-daily-drivers-kolibrios-0-7-7/) |
 | 2026-07-02 | A Light-Up Map Of Monaco | Hackaday | [link](https://hackaday.com/2026/07/02/a-light-up-map-of-monaco/) |
 | 2026-07-02 | Know Your Food: Organic Production | Hackaday | [link](https://hackaday.com/2026/07/02/know-your-food-organic-production/) |
 | 2026-07-02 | Sony to End Physical PlayStation Disc Production in 2028 | Hackaday | [link](https://hackaday.com/2026/07/02/sony-to-end-physical-playstation-disc-production-in-2028/) |
 | 2026-07-02 | A Rare Drone Common Sense Outbreak, In Denmark | Hackaday | [link](https://hackaday.com/2026/07/02/a-rare-drone-common-sense-outbreak-in-denmark/) |
 | 2026-07-02 | Trying Out Viewer Suggestions for Levitation on an Induction Cooker | Hackaday | [link](https://hackaday.com/2026/07/01/trying-out-viewer-suggestions-for-levitation-on-an-induction-cooker/) |
-| 2026-07-02 | GPU-Accelerated Autorouter Handles Monstrous PCB Designs | Hackaday | [link](https://hackaday.com/2026/07/01/gpu-accelerated-autorouter-handles-monstrous-pcb-designs/) |
 | 2026-07-02 | Titan Mini is a smaller Renesas RA8P1-based Edge AI board for RT-Thread RTOS development | CNX Software | [link](https://www.cnx-software.com/2026/07/02/titan-mini-smaller-renesas-ra8p1-based-edge-ai-board-for-rt-thread-rtos-development/) |
 | 2026-07-02 | SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant | CNX Software | [link](https://www.cnx-software.com/2026/07/02/sonoff-nspanel-pro-gen2-review-ewelink-home-assistant/) |
 | 2026-07-02 | PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit | CNX Software | [link](https://www.cnx-software.com/2026/07/02/paperboy-game-boy-emulator-works-at-60-fps-on-esp32-s3-e-ink-devkit/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-07-01 | FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model | [link](https://arxiv.org/pdf/2607.01212v1) |
+| 2026-07-01 | TiRex-2: Generalizing TiRex to Multivariate Data and Streaming | [link](https://arxiv.org/pdf/2607.01204v1) |
+| 2026-07-01 | GPU-Parallel Linearization Error Bounds for Real-Time Robust Optimal Control of Nonlinear and Neural Network Dynamics | [link](https://arxiv.org/pdf/2607.01203v1) |
+| 2026-07-01 | Sensorless Four-Channel Control Architecture Using Inverse Dynamics Modeling for Human-Scale Bilateral Teleoperation | [link](https://arxiv.org/pdf/2607.01201v1) |
+| 2026-07-01 | FastBridge: Closing the Model-Based Realization Gap in Safety Filters on 3D Gaussian Splatting for Fast Quadrotor Flight | [link](https://arxiv.org/pdf/2607.01200v1) |
+| 2026-07-01 | Structured 4D Latent Predictive Model for Robot Planning | [link](https://arxiv.org/pdf/2607.01166v1) |
+| 2026-07-01 | Towards Metric-Agnostic Trajectory Forecasting | [link](https://arxiv.org/pdf/2607.01133v1) |
+| 2026-07-01 | FAR: Failure-Aware Retry for Test-Time Recovery and Continual Policy Improvement | [link](https://arxiv.org/pdf/2607.01111v1) |
+| 2026-07-01 | Technical Report: Asynchronous Distributed Trajectory Estimation of Multi-Robot Systems | [link](https://arxiv.org/pdf/2607.01106v1) |
+| 2026-07-01 | Fabric Phononic Crystals for Passive Vibration Control | [link](https://arxiv.org/pdf/2607.01092v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
@@ -80,21 +91,22 @@ _No items collected yet._
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| copper-project/copper-rs | 1374 | Rust | 549.7 | [link](https://github.com/copper-project/copper-rs) |
+| copper-project/copper-rs | 1373 | Rust | 549.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 885 | Python | 354.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 452 | Shell | 180.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 62936 | Python | 25174.5 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 15970 | Python | 6388.1 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 15971 | Python | 6388.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15407 | C++ | 6162.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14065 | C++ | 5626.1 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11257 | Python | 4502.9 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11046 | Rust | 4418.5 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7589 | Python | 3035.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| rerun-io/rerun | 11047 | Rust | 4418.9 | [link](https://github.com/rerun-io/rerun) |
+| isaac-sim/IsaacLab | 7590 | Python | 3036.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-06-26 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUhnWGpNVDY2WXlERndBVU5LNC1IUWswZzFWM1M2TlNKcERxWFJCQVFiWk13RjFhdlRiMG1uYTlhZ19Rd3lBMXpQTUp1MW1qcC1lQml4blUxM1lKM1B0SGdjdmVDQ2dQT0VnczFDVDM2Ty1rNGFUUllOWnRRQzBBUGV0N042UlJIZU9KX2lmNGxYUDZuYXJVZDJ4bndGUUVCcEpLSQ?oc=5) |
+| 2026-06-26 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE5aWVN0Nk5DOFNkaGlqTF83WERZcmIzdmt1TEZHV0p0YktNeHhiUUZ3RFNhb00zMGVmbHpHcjRrdjJRdW9MVzBudXB5TVdCS2pWNkxPSUtZZlY3WnY3SkhUUDMxdHZqZ2huYVJsR3JqMA?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnWmtfeGFLT3VCWk1VdVNPazJ6ZjBUbmp6Vk9DOGo5aFNDOUFIb3U2RDZMLXFick1TMkZmX0k0VXRodWc2V1owYi16bEZtV3A1MHVoTFB5UWVSN1AxN2Q4?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGdybHdlOWFOTldsa00wVlY3a1NQOExZY1RKZGRJSlNHYnBYdVFrZ2NVSnBsS3FzaTgwaUtVNk9OaURuOTRodzhXa0FaUTcyQ2RZTVlyakdONWFnRkJBa2VGXy16aXAxYk1QMEd2X1RPNW0xTkxBSWxEMzNwWENBb1lza29Vd1FSLUp4MUpCNFVrWjdK?oc=5) |
@@ -103,7 +115,6 @@ _No items collected yet._
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdHlhT29SZkRnd1pDNDNLVHdMMjhEZV8wdC1wbm9HVmd5b1pndFNIUVdjT2lGYVBoVnJDY1NMX2VlUTRJTmxaSjNLTDQ2LTlRTHZ5QlFGUzdWNWhCM19GZVladlgxcWxJU0xIekp0RW92SGwtYW5YbHZzZERtejdLcHBaQVd2Tm1UM0Jhd3RSRHg4NlUxSmVQS3gtOGQya1pXdUxKTXFhYkxYdG1K?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVJXcUtHUlZRTjNqYl9FRHRJdkFZUU5kSVF5V1NLekl1cDNyOEppY3JkLW5BNHVYZ182OVVnZ2l6R19qZ3JmOVlhR05TNDdOYWljdlJ0TklVTGxKQ2k4R2lINzY3NXMtaDZ4RXRMRWhRWnRuRldQVEh5Y2hMYktzWmx2X2RVdHdpSUFZa0l4SFphalhpaG1kM0tubjJveXV5akIwSTgwX1hwXzBQNGF4ZEpxcFpva2RUZHphWV82YVlyeHVuUlV1LUFvNEVyYkkz?oc=5) |
-| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZFVkekpTTlg1NXNrSktPbzBuQUNMQ2VSanU3a3FXN25GaTBzTkV3OTN0cjBSaHBxSm1ScWJjRVlTSGVYbFZ3MFZWUGF6T2NDRFNfRVR3SW5vX0ZOYmtZSUg5cXBTeWZBMGJuQzNMamFrc2x4ZDFtS0dxeTgyamFabGhCaV9ERGNJWWVkMlZEdXZGSi05dWxaa2FBZzEyTFlKYkcwV0R1Z3JLdFBIZndLX21ldnlfVi1UWDdYMGVLdGNwbEdGQVM5akdQVFBYZ05j?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -122,6 +133,7 @@ _No items collected yet._
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-02 | Mechanical Engineer - Arms | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4694160006) |
 | 2026-07-02 | Software Integration Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4618234006) |
 | 2026-07-02 | Staff HiL SW Infrastructure Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6105233004) |
 | 2026-07-02 | Staff Mechanical Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6107280004) |
@@ -131,7 +143,6 @@ _No items collected yet._
 | 2026-07-01 | Helix Data Creator (Night Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693415006) |
 | 2026-07-01 | Helix Data Creator (Swing Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693411006) |
 | 2026-07-01 | Reinforcement Learning Engineer – Whole Body Control | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4671442006) |
-| 2026-07-01 | Manager, Logistics | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6105210004) |
 
 ## Automation
 

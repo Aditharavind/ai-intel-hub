@@ -108,6 +108,15 @@
     "score": 0.1
   },
   {
+    "model": "vladimir1211/fluxsonate",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladimir1211/fluxsonate",
+    "date": "2026-07-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "bhe1004/FIRe-VLA-PI05-PegInsert-Sim",
     "downloads": 0,
     "likes": 0,
@@ -198,13 +207,22 @@
     "score": 0.1
   },
   {
-    "model": "bhe1004/FIRe-VLA-OpenVLA-NutThread-Real",
+    "model": "HanchuZhou/embodied_ma",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/bhe1004/FIRe-VLA-OpenVLA-NutThread-Real",
+    "url": "https://huggingface.co/HanchuZhou/embodied_ma",
     "date": "2026-07-02",
-    "keyword": "vla",
+    "keyword": "embodied",
     "score": 0.1
+  },
+  {
+    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "downloads": 113,
+    "likes": 0,
+    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "date": "2026-07-02",
+    "keyword": "policy",
+    "score": 34.0
   },
   {
     "model": "Yewy/test_mahjong_pickup_v4_policy",
@@ -241,15 +259,6 @@
     "date": "2026-07-02",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "downloads": 113,
-    "likes": 0,
-    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "date": "2026-07-02",
-    "keyword": "policy",
-    "score": 34.0
   },
   {
     "model": "FawzQi/act_policy",
@@ -763,15 +772,6 @@
     "date": "2026-06-05",
     "keyword": "embodied",
     "score": 0.1
-  },
-  {
-    "model": "fbarbosa1/pi05_so101_embodied_v1",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/fbarbosa1/pi05_so101_embodied_v1",
-    "date": "2026-05-31",
-    "keyword": "embodied",
-    "score": 3.7
   },
   {
     "model": "Frankkkk2003/cheers_navigation_teacher",
