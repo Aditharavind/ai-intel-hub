@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-02 15:58 UTC
+Last Updated: 2026-07-02 17:41 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -38,17 +38,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-02 | Blattner awards Built Robotics $75M contract for physical AI to help meet energy demand | Robotics Business Review | [link](https://www.therobotreport.com/blattner-awards-built-robotics-75m-contract-meet-energy-demands/) |
 | 2026-07-02 | Why you should combine robot dexterity with mechanical positioning for complex assembly operations | Robotics Business Review | [link](https://www.therobotreport.com/why-you-should-combine-robot-dexterity-with-mechanical-positioning-for-complex-assembly-operations/) |
 | 2026-07-02 | Luxonis closes Series A round to scale physical AI perception layer | Robotics Business Review | [link](https://www.therobotreport.com/luxonis-closes-series-a-round-to-scale-physical-ai-perception-layer/) |
+| 2026-07-02 | Automate 2026 show recap | Robotics Business Review | [link](https://www.therobotreport.com/automate-2026-show-recap/) |
 | 2026-07-01 | Apptronik unveils Apollo 2 and a flagship data collection and training facility | Robotics Business Review | [link](https://www.therobotreport.com/apptronik-unveils-apollo-2-flagship-data-collection-training-facility/) |
 | 2026-07-01 | Top 10 robotics developments of June 2026 | Robotics Business Review | [link](https://www.therobotreport.com/top-10-robotic-stories-june-2026/) |
 | 2026-07-01 | In Robotics, Ruggedization Is No Longer Optional | Robotics Business Review | [link](https://www.therobotreport.com/in-robotics-ruggedization-is-no-longer-optional/) |
 | 2026-06-30 | Sonair ADAR One 3D ultrasonic sensor is now safety-certified | Robotics Business Review | [link](https://www.therobotreport.com/sonair-3d-ultrasonic-sensor-is-now-safety-certified/) |
 | 2026-06-30 | Queue raises funding to build fully autonomous pharmacy | Robotics Business Review | [link](https://www.therobotreport.com/queue-raises-funding-fully-autonomous-pharmacy/) |
 | 2026-06-30 | Soft, robotic cells from morph embed physical AI into hardware | Robotics Business Review | [link](https://www.therobotreport.com/soft-robotic-cells-from-morph-embed-physical-ai-into-hardware/) |
-| 2026-06-30 | How Jaiveer Singh Is Helping Robots — and Developers — Move Faster | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-02 | Jenny’s Daily Drivers: KolibriOS 0.7.7 | Hackaday | [link](https://hackaday.com/2026/07/02/jennys-daily-drivers-kolibrios-0-7-7/) |
 | 2026-07-02 | A Light-Up Map Of Monaco | Hackaday | [link](https://hackaday.com/2026/07/02/a-light-up-map-of-monaco/) |
 | 2026-07-02 | Know Your Food: Organic Production | Hackaday | [link](https://hackaday.com/2026/07/02/know-your-food-organic-production/) |
 | 2026-07-02 | Sony to End Physical PlayStation Disc Production in 2028 | Hackaday | [link](https://hackaday.com/2026/07/02/sony-to-end-physical-playstation-disc-production-in-2028/) |
@@ -58,21 +59,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-02 | Titan Mini is a smaller Renesas RA8P1-based Edge AI board for RT-Thread RTOS development | CNX Software | [link](https://www.cnx-software.com/2026/07/02/titan-mini-smaller-renesas-ra8p1-based-edge-ai-board-for-rt-thread-rtos-development/) |
 | 2026-07-02 | SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant | CNX Software | [link](https://www.cnx-software.com/2026/07/02/sonoff-nspanel-pro-gen2-review-ewelink-home-assistant/) |
 | 2026-07-02 | PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit | CNX Software | [link](https://www.cnx-software.com/2026/07/02/paperboy-game-boy-emulator-works-at-60-fps-on-esp32-s3-e-ink-devkit/) |
-| 2026-07-02 | SiMa Unveils Agentic Development Environment for Physical AI | Embedded.com | [link](https://www.embedded.com/sima-unveils-agentic-development-environment-for-physical-ai/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-07-01 | FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model | [link](https://arxiv.org/pdf/2607.01212v1) |
-| 2026-07-01 | TiRex-2: Generalizing TiRex to Multivariate Data and Streaming | [link](https://arxiv.org/pdf/2607.01204v1) |
-| 2026-07-01 | GPU-Parallel Linearization Error Bounds for Real-Time Robust Optimal Control of Nonlinear and Neural Network Dynamics | [link](https://arxiv.org/pdf/2607.01203v1) |
-| 2026-07-01 | Sensorless Four-Channel Control Architecture Using Inverse Dynamics Modeling for Human-Scale Bilateral Teleoperation | [link](https://arxiv.org/pdf/2607.01201v1) |
-| 2026-07-01 | FastBridge: Closing the Model-Based Realization Gap in Safety Filters on 3D Gaussian Splatting for Fast Quadrotor Flight | [link](https://arxiv.org/pdf/2607.01200v1) |
-| 2026-07-01 | Structured 4D Latent Predictive Model for Robot Planning | [link](https://arxiv.org/pdf/2607.01166v1) |
-| 2026-07-01 | Towards Metric-Agnostic Trajectory Forecasting | [link](https://arxiv.org/pdf/2607.01133v1) |
-| 2026-07-01 | FAR: Failure-Aware Retry for Test-Time Recovery and Continual Policy Improvement | [link](https://arxiv.org/pdf/2607.01111v1) |
-| 2026-07-01 | Technical Report: Asynchronous Distributed Trajectory Estimation of Multi-Robot Systems | [link](https://arxiv.org/pdf/2607.01106v1) |
-| 2026-07-01 | Fabric Phononic Crystals for Passive Vibration Control | [link](https://arxiv.org/pdf/2607.01092v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
@@ -94,20 +83,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1374 | Rust | 549.7 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 885 | Python | 354.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 452 | Shell | 180.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 62935 | Python | 25174.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 62936 | Python | 25174.5 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 15970 | Python | 6388.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15407 | C++ | 6162.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14065 | C++ | 5626.1 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11257 | Python | 4502.9 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11045 | Rust | 4418.1 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7587 | Python | 3034.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| rerun-io/rerun | 11046 | Rust | 4418.5 | [link](https://github.com/rerun-io/rerun) |
+| isaac-sim/IsaacLab | 7589 | Python | 3035.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
-| 2026-06-29 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VQTBnQWxTYWhiMXlHcWF3MlZwaGMyMTVibDZGNjZUY3Fmb1Jza1hYWXFyY1lvODNIbzZmVGkxSUhTbUtqdmhsU19qUGpTS0VUYU5HbzJxUQ?oc=5) |
 | 2026-06-26 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUhnWGpNVDY2WXlERndBVU5LNC1IUWswZzFWM1M2TlNKcERxWFJCQVFiWk13RjFhdlRiMG1uYTlhZ19Rd3lBMXpQTUp1MW1qcC1lQml4blUxM1lKM1B0SGdjdmVDQ2dQT0VnczFDVDM2Ty1rNGFUUllOWnRRQzBBUGV0N042UlJIZU9KX2lmNGxYUDZuYXJVZDJ4bndGUUVCcEpLSQ?oc=5) |
-| 2026-06-26 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTE5aWVN0Nk5DOFNkaGlqTF83WERZcmIzdmt1TEZHV0p0YktNeHhiUUZ3RFNhb00zMGVmbHpHcjRrdjJRdW9MVzBudXB5TVdCS2pWNkxPSUtZZlY3WnY3SkhUUDMxdHZqZ2huYVJsR3JqMA?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnWmtfeGFLT3VCWk1VdVNPazJ6ZjBUbmp6Vk9DOGo5aFNDOUFIb3U2RDZMLXFick1TMkZmX0k0VXRodWc2V1owYi16bEZtV3A1MHVoTFB5UWVSN1AxN2Q4?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGdybHdlOWFOTldsa00wVlY3a1NQOExZY1RKZGRJSlNHYnBYdVFrZ2NVSnBsS3FzaTgwaUtVNk9OaURuOTRodzhXa0FaUTcyQ2RZTVlyakdONWFnRkJBa2VGXy16aXAxYk1QMEd2X1RPNW0xTkxBSWxEMzNwWENBb1lza29Vd1FSLUp4MUpCNFVrWjdK?oc=5) |
@@ -115,6 +102,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxNMS1yZUtReWMtWV9vdFFoVzhxNXVEanNJd1FKVVZJYmdCbEo3ZkxtZjdvVHkzU1lTZkJnaTVRNWY3UmplMHZvX05WQnJublhUelNDNmI5WEZ2M2JOTDNfUktIamJzM0szVHEyTkMxQm5UQmUycTRhSDdNRkljM0x0ZEFpb2xlZC1LaHBLd1Nhd0hRWWoxVElRbEtBS0gyQmRrWTJoSWhBSHkySmZTcEpLeFpEdzdpMW1HNFNQdHBiWVVVNDV2X2xTd1NIbw?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdHlhT29SZkRnd1pDNDNLVHdMMjhEZV8wdC1wbm9HVmd5b1pndFNIUVdjT2lGYVBoVnJDY1NMX2VlUTRJTmxaSjNLTDQ2LTlRTHZ5QlFGUzdWNWhCM19GZVladlgxcWxJU0xIekp0RW92SGwtYW5YbHZzZERtejdLcHBaQVd2Tm1UM0Jhd3RSRHg4NlUxSmVQS3gtOGQya1pXdUxKTXFhYkxYdG1K?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVJXcUtHUlZRTjNqYl9FRHRJdkFZUU5kSVF5V1NLekl1cDNyOEppY3JkLW5BNHVYZ182OVVnZ2l6R19qZ3JmOVlhR05TNDdOYWljdlJ0TklVTGxKQ2k4R2lINzY3NXMtaDZ4RXRMRWhRWnRuRldQVEh5Y2hMYktzWmx2X2RVdHdpSUFZa0l4SFphalhpaG1kM0tubjJveXV5akIwSTgwX1hwXzBQNGF4ZEpxcFpva2RUZHphWV82YVlyeHVuUlV1LUFvNEVyYkkz?oc=5) |
+| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZFVkekpTTlg1NXNrSktPbzBuQUNMQ2VSanU3a3FXN25GaTBzTkV3OTN0cjBSaHBxSm1ScWJjRVlTSGVYbFZ3MFZWUGF6T2NDRFNfRVR3SW5vX0ZOYmtZSUg5cXBTeWZBMGJuQzNMamFrc2x4ZDFtS0dxeTgyamFabGhCaV9ERGNJWWVkMlZEdXZGSi05dWxaa2FBZzEyTFlKYkcwV0R1Z3JLdFBIZndLX21ldnlfVi1UWDdYMGVLdGNwbEdGQVM5akdQVFBYZ05j?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -123,7 +112,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-02 | 2026: The Year Physical AI Takes Center Stage - quasa.io | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFB0dEkxZFdfaFNSVjNiSmNSU3V5X2pieGg0SkVJYmpCVXN6YldJdVdZUEpmM1B2QXF3NElOX0VVRGtpLXRNaFJxOEtKd2xnY2l0dlFydTNIR2YzSkhaR3VDWkZMQXhPVDQxTkJDTDhoUlZZazduMHc?oc=5) |
 | 2026-07-02 | YC-Selected Startups Reveal AI Shift to Robotics, U.S. Dominance - 조선일보 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTR5R1dCOFdUWnhSV09wMmNWb21qdFZ3NFMtZlRsdnRmTFB5d3hIQW5UdnVIYWw4ZVRoYnNVZTNLYmtCektpN1g5RUJPSkwwMkZJWmFNWFJqMmFzcjRFQWw4cml3c19KRm9aLXJtdnBuXzZ4dnZmcjNTRGI1bDc0bVIzcmNkcE11?oc=5) |
 | 2026-07-02 | Shunwei, Sequoia China back AI startup Liqing - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE5uXzFELVpoM1FoajJjb3puSUh1ejZmM0JqWFFUdmJOOHBQYWpQV1lEN2Z4NENXelc3TG5iNlRIZi1sN3d5NmlBTWRwdnNzRXhvMkQyc1ZfVXBTRnJBaE1WYThzaWQ0T282QzFRbklaYU9yT1BkNHJEdU5Wdw?oc=5) |
-| 2026-07-02 | Ant Group Bets $74M on Humanoid Robots in Year-Long Spree - The Tech Buzz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlg4dVh2ZFVQeVM1TS1fU0hYWnR6S0NTNm45LXF6MXVlUWhYbXhzS0daR3k3ZDRpcE5SYXEyOWtKQ2x0cWF1bm9Mc1VJYngtT0hvYzZfLThaZFZzYldnc2tORVFMY0lCM2RlSnRuNnBRcU5vTVl0cHZOOTE0OFVTY01MSVBMX05DVkRCYlh3d3JCR0U?oc=5) |
+| 2026-07-02 | Ontario startup's humanoid robots aim to replace 'backbreaking' and dangerous work - Financial Post | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2VzM3plUEVmNzJGTW9MdFFPMUhYd0lxbkh1X1I3YVZUU3RPWGhiSy1qMGQzU211Rm0wclBURjN5TnlGRlhaRFNDVTBWTVBtNXc5NkxhT2tuQTVMRUE2U1RkT0xoTWlOaEJUQzUtMzFOVDlfU1JKSzV6WExENGVWZEF2Mkt5WmthSDJaQlRUMjU?oc=5) |
 | 2026-07-02 | Ant Group leads $73.58M funding round in humano... - Pluang | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHdnWWN6cnNtSEctcl9yZHQwd3Nfdi0tVFpCYzVhbUhQTGZ4Nk1reTgtbXB2SWhLc2htbWtJb1liajFfaXdDeWE4MzM4UC1xem9PVU9XRU5sd2sxMlVxeDJMMnlkRnVLdlp6Qlh3LUpfN2xrWjcteE0weFo0RFN0MXhyV1p3SG8xZ1lhRFVzTzZoejNnZ3VvNktVZXZnNGlf?oc=5) |
 | 2026-07-01 | East Ventures invests in Thai physical AI startup Amity Robotics - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxORkU4VHJFcTN5SXlLWHhwbXhCZWl3dDlnWnVQYkpjRy0yd2xxSmw0aDh4cFlKV0ZtQlB6Ql8xVzRKYVE3WHR2ZHNKMkVqTVdnZEtGVkh2eENubVpJM3RESDBfQ1IzMWtobUp3bU5taEJMQk5jSVJ3eVA1UGRDUW5weXp5aERMN3NBbDJZdWc2ZGdhN2lfWUNYcy1kWUtjeUMyS0VJQWRsc1k5V3hWOEw0?oc=5) |
 | 2026-07-01 | This Embodied AI Startup Completes Series C Funding With A $2.94B Valuation - Benzinga | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWp3Ty1YaFYzS19jQUZ0VjAtWE8wZ3NlWEVEY0hXenV6MDR4WXUySGJUM3VwcE9wcnh6bnV4MXE5SEpQZXk3OWc4QTU4MHNQVy0zazlxYzhqeUNjeFU2cXJjSWpoeVdwNXdETTdJMHpveDNMZjNDMHdKR1VQNmJxWXppdmVPNjNfQ29Gc0Q1TzZfR0kwOUhVdkgwVGplejNidXhiMVF6MXctVVdscjVicmYzeS12endoaG5QNjdqSQ?oc=5) |
@@ -133,6 +122,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-02 | Software Integration Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4618234006) |
+| 2026-07-02 | Staff HiL SW Infrastructure Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6105233004) |
 | 2026-07-02 | Staff Mechanical Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6107280004) |
 | 2026-07-01 | AI Training Infrastructure Engineer – Humanoid Whole Body Control | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4674754006) |
 | 2026-07-01 | Firmware Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4654891006) |
@@ -141,8 +132,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-01 | Helix Data Creator (Swing Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693411006) |
 | 2026-07-01 | Reinforcement Learning Engineer – Whole Body Control | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4671442006) |
 | 2026-07-01 | Manager, Logistics | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6105210004) |
-| 2026-07-01 | Manager, Planning | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6104722004) |
-| 2026-07-01 | Senior Hardware Test Engineer - Torso | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6002917004) |
 
 ## Automation
 
