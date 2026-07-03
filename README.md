@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-02 23:52 UTC
+Last Updated: 2026-07-03 01:25 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-03 | Flexi Cat – Joint Redesign #3DPrinting #3DThursday | Adafruit | [link](https://blog.adafruit.com/2026/07/02/flexi-cat-joint-redesign-3dprinting-3dthursday/) |
 | 2026-07-02 | Bubbles, Belts, and Bulbs: How the Scantron Works | Hackaday | [link](https://hackaday.com/2026/07/02/bubbles-belts-and-bulbs-how-the-scantron-works/) |
 | 2026-07-02 | DIY SI5351 Radio Tunes In SW, MW, And More | Hackaday | [link](https://hackaday.com/2026/07/02/diy-si5351-radio-tunes-in-sw-mw-and-more/) |
 | 2026-07-02 | An eInk, ESP32-based Game Boy | Hackaday | [link](https://hackaday.com/2026/07/02/an-eink-esp32-based-gameboy/) |
@@ -58,49 +59,37 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-02 | Sony to End Physical PlayStation Disc Production in 2028 | Hackaday | [link](https://hackaday.com/2026/07/02/sony-to-end-physical-playstation-disc-production-in-2028/) |
 | 2026-07-02 | Titan Mini is a smaller Renesas RA8P1-based Edge AI board for RT-Thread RTOS development | CNX Software | [link](https://www.cnx-software.com/2026/07/02/titan-mini-smaller-renesas-ra8p1-based-edge-ai-board-for-rt-thread-rtos-development/) |
 | 2026-07-02 | SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant | CNX Software | [link](https://www.cnx-software.com/2026/07/02/sonoff-nspanel-pro-gen2-review-ewelink-home-assistant/) |
-| 2026-07-02 | PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit | CNX Software | [link](https://www.cnx-software.com/2026/07/02/paperboy-game-boy-emulator-works-at-60-fps-on-esp32-s3-e-ink-devkit/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-07-01 | FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model | [link](https://arxiv.org/pdf/2607.01212v1) |
-| 2026-07-01 | TiRex-2: Generalizing TiRex to Multivariate Data and Streaming | [link](https://arxiv.org/pdf/2607.01204v1) |
-| 2026-07-01 | GPU-Parallel Linearization Error Bounds for Real-Time Robust Optimal Control of Nonlinear and Neural Network Dynamics | [link](https://arxiv.org/pdf/2607.01203v1) |
-| 2026-07-01 | Sensorless Four-Channel Control Architecture Using Inverse Dynamics Modeling for Human-Scale Bilateral Teleoperation | [link](https://arxiv.org/pdf/2607.01201v1) |
-| 2026-07-01 | FastBridge: Closing the Model-Based Realization Gap in Safety Filters on 3D Gaussian Splatting for Fast Quadrotor Flight | [link](https://arxiv.org/pdf/2607.01200v1) |
-| 2026-07-01 | Structured 4D Latent Predictive Model for Robot Planning | [link](https://arxiv.org/pdf/2607.01166v1) |
-| 2026-07-01 | Towards Metric-Agnostic Trajectory Forecasting | [link](https://arxiv.org/pdf/2607.01133v1) |
-| 2026-07-01 | FAR: Failure-Aware Retry for Test-Time Recovery and Continual Policy Improvement | [link](https://arxiv.org/pdf/2607.01111v1) |
-| 2026-07-01 | Technical Report: Asynchronous Distributed Trajectory Estimation of Multi-Robot Systems | [link](https://arxiv.org/pdf/2607.01106v1) |
-| 2026-07-01 | Fabric Phononic Crystals for Passive Vibration Control | [link](https://arxiv.org/pdf/2607.01092v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-02 | etri-robotai-platform-dev/phase1-e2e-pusht-repeat-20260623-143934-rerun | 0 | 0 | [link](https://huggingface.co/etri-robotai-platform-dev/phase1-e2e-pusht-repeat-20260623-143934-rerun) |
+| 2026-07-03 | etri-robotai-platform-dev/phase1-e2e-pusht-repeat-20260623-143934-rerun | 0 | 0 | [link](https://huggingface.co/etri-robotai-platform-dev/phase1-e2e-pusht-repeat-20260623-143934-rerun) |
+| 2026-07-03 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
+| 2026-07-03 | poet70/vla-sft-suite | 0 | 0 | [link](https://huggingface.co/poet70/vla-sft-suite) |
+| 2026-07-03 | jovaldivieso/double_integrator_casadi_diffusion_policy | 113 | 0 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
 | 2026-07-02 | wonder-robot/smolvla_pick_and_place | 0 | 0 | [link](https://huggingface.co/wonder-robot/smolvla_pick_and_place) |
 | 2026-07-02 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
 | 2026-07-02 | robotastronaut/courses-six-digit-modernbert-base-onnx | 0 | 0 | [link](https://huggingface.co/robotastronaut/courses-six-digit-modernbert-base-onnx) |
 | 2026-07-02 | robotastronaut/courses-four-digit-modernbert-base-onnx | 0 | 0 | [link](https://huggingface.co/robotastronaut/courses-four-digit-modernbert-base-onnx) |
 | 2026-07-02 | robotastronaut/courses-two-digit-modernbert-base-onnx | 0 | 0 | [link](https://huggingface.co/robotastronaut/courses-two-digit-modernbert-base-onnx) |
 | 2026-07-02 | LohanTS/mon-model-robot-v6 | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-model-robot-v6) |
-| 2026-07-02 | LohanTS/mon-model-robot-v5 | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-model-robot-v5) |
-| 2026-07-02 | general-robot/qwen2-7b-instruct-trl-sft-ChartQA | 0 | 0 | [link](https://huggingface.co/general-robot/qwen2-7b-instruct-trl-sft-ChartQA) |
-| 2026-07-02 | general-robot/Qwen2.5-VL-3B-Instruct-Thinking | 0 | 0 | [link](https://huggingface.co/general-robot/Qwen2.5-VL-3B-Instruct-Thinking) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| ArduPilot/ardupilot | 15407 | C++ | 6162.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | copper-project/copper-rs | 1373 | Rust | 549.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 885 | Python | 354.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 452 | Shell | 180.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | nik-55/world-models | 174 |  | 69.7 | [link](https://github.com/nik-55/world-models) |
-| commaai/openpilot | 62940 | Python | 25176.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 62941 | Python | 25176.5 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 15971 | Python | 6388.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15407 | C++ | 6162.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14066 | C++ | 5626.5 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11257 | Python | 4502.9 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11047 | Rust | 4418.9 | [link](https://github.com/rerun-io/rerun) |
+| rerun-io/rerun | 11048 | Rust | 4419.3 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

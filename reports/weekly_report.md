@@ -1,22 +1,16 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-02 23:52 UTC
+Generated: 2026-07-03 01:25 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-07-01 | FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model | [link](https://arxiv.org/pdf/2607.01212v1) |
-| 2026-07-01 | TiRex-2: Generalizing TiRex to Multivariate Data and Streaming | [link](https://arxiv.org/pdf/2607.01204v1) |
-| 2026-07-01 | GPU-Parallel Linearization Error Bounds for Real-Time Robust Optimal Control of Nonlinear and Neural Network Dynamics | [link](https://arxiv.org/pdf/2607.01203v1) |
-| 2026-07-01 | Sensorless Four-Channel Control Architecture Using Inverse Dynamics Modeling for Human-Scale Bilateral Teleoperation | [link](https://arxiv.org/pdf/2607.01201v1) |
-| 2026-07-01 | FastBridge: Closing the Model-Based Realization Gap in Safety Filters on 3D Gaussian Splatting for Fast Quadrotor Flight | [link](https://arxiv.org/pdf/2607.01200v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82212 | 32884.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62940 | 25176.1 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 29920 | 11968.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 82213 | 32885.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62941 | 25176.5 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 29921 | 11968.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15971 | 6388.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15407 | 6162.9 | [link](https://github.com/ArduPilot/ardupilot) |
 
