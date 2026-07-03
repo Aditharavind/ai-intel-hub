@@ -1,5 +1,14 @@
 [
   {
+    "model": "OpenRAL/rskill-smolvla-robotwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenRAL/rskill-smolvla-robotwin",
+    "date": "2026-07-03",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "YinonDouchan/smolvla_mobile_robot_lift_turn_right",
     "downloads": 0,
     "likes": 0,
@@ -54,13 +63,22 @@
     "score": 0.1
   },
   {
+    "model": "GmanGmanGman/M2-VLA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/GmanGmanGman/M2-VLA",
+    "date": "2026-07-03",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "vladmandic/Krea-2-Turbo-sdnq-hadamard-uint4",
     "downloads": 156,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/vladmandic/Krea-2-Turbo-sdnq-hadamard-uint4",
     "date": "2026-07-03",
     "keyword": "vla",
-    "score": 46.9
+    "score": 47.1
   },
   {
     "model": "poet70/vla-sft-suite",
@@ -81,6 +99,33 @@
     "score": 0.1
   },
   {
+    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "downloads": 143,
+    "likes": 1,
+    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "date": "2026-07-03",
+    "keyword": "policy",
+    "score": 43.2
+  },
+  {
+    "model": "joduor/aibiosecure-policy-embeddings",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/joduor/aibiosecure-policy-embeddings",
+    "date": "2026-07-03",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "cbrian/policy_pi05_libero_dataset_MDWC8_steps_5000_ctrl_cartesian",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/cbrian/policy_pi05_libero_dataset_MDWC8_steps_5000_ctrl_cartesian",
+    "date": "2026-07-03",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "hiskiv/cosmos-policy-lam",
     "downloads": 0,
     "likes": 0,
@@ -88,15 +133,6 @@
     "date": "2026-07-03",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "downloads": 143,
-    "likes": 0,
-    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "date": "2026-07-03",
-    "keyword": "policy",
-    "score": 43.0
   },
   {
     "model": "YinonDouchan/mobile_robot_lift_env",
@@ -148,15 +184,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/LohanTS/mon-model-robot-v5",
-    "date": "2026-07-02",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "general-robot/qwen2-7b-instruct-trl-sft-ChartQA",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/general-robot/qwen2-7b-instruct-trl-sft-ChartQA",
     "date": "2026-07-02",
     "keyword": "robot",
     "score": 0.1
@@ -229,15 +256,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/bhe1004/FIRe-VLA-OpenVLA-PegInsert-Sim",
-    "date": "2026-07-02",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "bhe1004/FIRe-VLA-OpenVLA-NutThread-Sim",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/bhe1004/FIRe-VLA-OpenVLA-NutThread-Sim",
     "date": "2026-07-02",
     "keyword": "vla",
     "score": 0.1
@@ -328,24 +346,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos7_v2_policy0",
-    "date": "2026-07-02",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos6_v2_policy0",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos6_v2_policy0",
-    "date": "2026-07-02",
-    "keyword": "policy",
-    "score": 0.7
-  },
-  {
-    "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos5_v2_policy0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos5_v2_policy0",
     "date": "2026-07-02",
     "keyword": "policy",
     "score": 0.1
