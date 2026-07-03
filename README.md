@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-03 21:52 UTC
+Last Updated: 2026-07-03 22:50 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -92,8 +92,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | mosaico-labs/mosaico | 885 | Python | 354.1 | [link](https://github.com/mosaico-labs/mosaico) |
-| Developer-Y/cs-video-courses | 82239 |  | 32895.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62958 | Python | 25183.3 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82240 |  | 32896.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62959 | Python | 25183.7 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44182 | JavaScript | 17672.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | ArduPilot/ardupilot | 15410 | C++ | 6164.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14076 | C++ | 5630.5 | [link](https://github.com/google-deepmind/mujoco) |
