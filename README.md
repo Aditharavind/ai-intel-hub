@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-03 01:25 UTC
+Last Updated: 2026-07-03 05:39 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-03 | Porting The Legend of Zelda: Twilight Princess to the 3DS | Hackaday | [link](https://hackaday.com/2026/07/02/porting-the-legend-of-zelda-twilight-princess-to-the-3ds/) |
+| 2026-07-03 | Chain-of-Thought Spoofing Targets Reasoning AI Models | Hackaday | [link](https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models/) |
+| 2026-07-03 | NVIDIA Jetson Orin Nano/NX-based Mekotronics AI Box targets humanoid robots, Smart Cities management, transportation applications | CNX Software | [link](https://www.cnx-software.com/2026/07/03/nvidia-jetson-orin-nano-nx-based-mekotronics-ai-box-targets-humanoid-robots-smart-cities-management-transportation-applications/) |
+| 2026-07-03 | Mouser adds nine franchises | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/mouser-adds-nine-franchises-2026-07/) |
+| 2026-07-03 | Bureaucrats Can’t Solve Chip Industry Issues | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/delusions/bureaucrats-cant-solve-chip-industry-issues-2026-07/) |
 | 2026-07-03 | Flexi Cat – Joint Redesign #3DPrinting #3DThursday | Adafruit | [link](https://blog.adafruit.com/2026/07/02/flexi-cat-joint-redesign-3dprinting-3dthursday/) |
 | 2026-07-02 | Bubbles, Belts, and Bulbs: How the Scantron Works | Hackaday | [link](https://hackaday.com/2026/07/02/bubbles-belts-and-bulbs-how-the-scantron-works/) |
 | 2026-07-02 | DIY SI5351 Radio Tunes In SW, MW, And More | Hackaday | [link](https://hackaday.com/2026/07/02/diy-si5351-radio-tunes-in-sw-mw-and-more/) |
 | 2026-07-02 | An eInk, ESP32-based Game Boy | Hackaday | [link](https://hackaday.com/2026/07/02/an-eink-esp32-based-gameboy/) |
 | 2026-07-02 | Jenny’s Daily Drivers: KolibriOS 0.7.7 | Hackaday | [link](https://hackaday.com/2026/07/02/jennys-daily-drivers-kolibrios-0-7-7/) |
-| 2026-07-02 | A Light-Up Map Of Monaco | Hackaday | [link](https://hackaday.com/2026/07/02/a-light-up-map-of-monaco/) |
-| 2026-07-02 | Know Your Food: Organic Production | Hackaday | [link](https://hackaday.com/2026/07/02/know-your-food-organic-production/) |
-| 2026-07-02 | Sony to End Physical PlayStation Disc Production in 2028 | Hackaday | [link](https://hackaday.com/2026/07/02/sony-to-end-physical-playstation-disc-production-in-2028/) |
-| 2026-07-02 | Titan Mini is a smaller Renesas RA8P1-based Edge AI board for RT-Thread RTOS development | CNX Software | [link](https://www.cnx-software.com/2026/07/02/titan-mini-smaller-renesas-ra8p1-based-edge-ai-board-for-rt-thread-rtos-development/) |
-| 2026-07-02 | SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant | CNX Software | [link](https://www.cnx-software.com/2026/07/02/sonoff-nspanel-pro-gen2-review-ewelink-home-assistant/) |
 
 ## New Research Papers
 _No items collected yet._
@@ -66,42 +66,42 @@ _No items collected yet._
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-03 | SakikoTogawa/pi0_robotwin_lora-hanging_mug-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-hanging_mug-100-himaconpp_repo) |
 | 2026-07-03 | etri-robotai-platform-dev/phase1-e2e-pusht-repeat-20260623-143934-rerun | 0 | 0 | [link](https://huggingface.co/etri-robotai-platform-dev/phase1-e2e-pusht-repeat-20260623-143934-rerun) |
 | 2026-07-03 | anhtld/vla | 0 | 0 | [link](https://huggingface.co/anhtld/vla) |
 | 2026-07-03 | poet70/vla-sft-suite | 0 | 0 | [link](https://huggingface.co/poet70/vla-sft-suite) |
+| 2026-07-03 | SEU-PAISys/Embodied.cpp | 0 | 0 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
+| 2026-07-03 | hiskiv/cosmos-policy-lam | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam) |
 | 2026-07-03 | jovaldivieso/double_integrator_casadi_diffusion_policy | 113 | 0 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
-| 2026-07-02 | wonder-robot/smolvla_pick_and_place | 0 | 0 | [link](https://huggingface.co/wonder-robot/smolvla_pick_and_place) |
 | 2026-07-02 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
 | 2026-07-02 | robotastronaut/courses-six-digit-modernbert-base-onnx | 0 | 0 | [link](https://huggingface.co/robotastronaut/courses-six-digit-modernbert-base-onnx) |
 | 2026-07-02 | robotastronaut/courses-four-digit-modernbert-base-onnx | 0 | 0 | [link](https://huggingface.co/robotastronaut/courses-four-digit-modernbert-base-onnx) |
-| 2026-07-02 | robotastronaut/courses-two-digit-modernbert-base-onnx | 0 | 0 | [link](https://huggingface.co/robotastronaut/courses-two-digit-modernbert-base-onnx) |
-| 2026-07-02 | LohanTS/mon-model-robot-v6 | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-model-robot-v6) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| commaai/openpilot | 62946 | Python | 25178.5 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15407 | C++ | 6162.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| copper-project/copper-rs | 1373 | Rust | 549.3 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 885 | Python | 354.1 | [link](https://github.com/mosaico-labs/mosaico) |
-| awslabs/awsome-distributed-ai | 452 | Shell | 180.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| nik-55/world-models | 174 |  | 69.7 | [link](https://github.com/nik-55/world-models) |
-| commaai/openpilot | 62941 | Python | 25176.5 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 15971 | Python | 6388.5 | [link](https://github.com/zauberzeug/nicegui) |
-| google-deepmind/mujoco | 14066 | C++ | 5626.5 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11257 | Python | 4502.9 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11048 | Rust | 4419.3 | [link](https://github.com/rerun-io/rerun) |
+| isaac-sim/IsaacLab | 7593 | Python | 3037.3 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 3981 | Python | 1592.5 | [link](https://github.com/RLinf/RLinf) |
+| dora-rs/dora | 3817 | Rust | 1526.9 | [link](https://github.com/dora-rs/dora) |
+| OpenDCAI/OpenWorldLib | 827 | Python | 330.9 | [link](https://github.com/OpenDCAI/OpenWorldLib) |
+| sou350121/VLA-Handbook | 348 | HTML | 139.3 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 5411 | Python | 2164.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| inclusionAI/AWorld | 1207 | Python | 482.9 | [link](https://github.com/inclusionAI/AWorld) |
+| fiveages-sim/lerobot_ros2 | 17 | Python | 6.9 | [link](https://github.com/fiveages-sim/lerobot_ros2) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-07-01 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHQ2WjZkRUJYVDYyQkZielpfRVZUXzdEQUJ3SWppMWVrN29GU1dfYlpvcFhfYnBTVHVtYUxRNnQ3TGFuZi1WLVM3SHBMMkpmc1lURFVVdTM1dGFUWkNlRU5CMUU3UlVGQVU0RUptUnpTSVVIWTE4ekhuUWpIRXFmSmdsQWh5dUF6WHlsYlR1Q3JZZGVoRjFVbGxqMHVQX1NmQmU2SC05UHdYcmhwNmp3dQ?oc=5) |
+| 2026-06-30 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9uZGhDeldLWDFSVUlXY1VBdzd0c3FCUVRkRkp0WWRyS3liZ1dCREZPTThFR1JjMGFpNmR5dFI1TmRiZWRiakdwNFBMVXhvOWs2NHVWUjNJa3kzZDlHdHBHazlueXVXYTB1NFlZTDkwNE9rYmZOZ3c?oc=5) |
 | 2026-06-29 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VQTBnQWxTYWhiMXlHcWF3MlZwaGMyMTVibDZGNjZUY3Fmb1Jza1hYWXFyY1lvODNIbzZmVGkxSUhTbUtqdmhsU19qUGpTS0VUYU5HbzJxUQ?oc=5) |
 | 2026-06-26 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUhnWGpNVDY2WXlERndBVU5LNC1IUWswZzFWM1M2TlNKcERxWFJCQVFiWk13RjFhdlRiMG1uYTlhZ19Rd3lBMXpQTUp1MW1qcC1lQml4blUxM1lKM1B0SGdjdmVDQ2dQT0VnczFDVDM2Ty1rNGFUUllOWnRRQzBBUGV0N042UlJIZU9KX2lmNGxYUDZuYXJVZDJ4bndGUUVCcEpLSQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnWmtfeGFLT3VCWk1VdVNPazJ6ZjBUbmp6Vk9DOGo5aFNDOUFIb3U2RDZMLXFick1TMkZmX0k0VXRodWc2V1owYi16bEZtV3A1MHVoTFB5UWVSN1AxN2Q4?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGdybHdlOWFOTldsa00wVlY3a1NQOExZY1RKZGRJSlNHYnBYdVFrZ2NVSnBsS3FzaTgwaUtVNk9OaURuOTRodzhXa0FaUTcyQ2RZTVlyakdONWFnRkJBa2VGXy16aXAxYk1QMEd2X1RPNW0xTkxBSWxEMzNwWENBb1lza29Vd1FSLUp4MUpCNFVrWjdK?oc=5) |
 | 2026-06-25 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDhxMkc3MGdXb092MjZIbGVjQXFoSXp5OFZXYUR1T0xIcEtqdkdoYzQ3OC1vSnZRN0Z3M09PRXRiNnZGOXNJaUVBSWpIQ0d6YnZaR3g1bUdFN19fNU5LRUhuZEkwbGxGS1UzX2M5dTdyT3F5a3ZxMXhmUGllZXVEWXlnSGp5Q01yQ2ZUN0lYMTY5UVBBRXViZm9zbGd1bzF3TTFkeHA4RWxUZ0todWd0SmJNcmNKNTFVMVpScEVfejBPdko1?oc=5) |
-| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxNMS1yZUtReWMtWV9vdFFoVzhxNXVEanNJd1FKVVZJYmdCbEo3ZkxtZjdvVHkzU1lTZkJnaTVRNWY3UmplMHZvX05WQnJublhUelNDNmI5WEZ2M2JOTDNfUktIamJzM0szVHEyTkMxQm5UQmUycTRhSDdNRkljM0x0ZEFpb2xlZC1LaHBLd1Nhd0hRWWoxVElRbEtBS0gyQmRrWTJoSWhBSHkySmZTcEpLeFpEdzdpMW1HNFNQdHBiWVVVNDV2X2xTd1NIbw?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdHlhT29SZkRnd1pDNDNLVHdMMjhEZV8wdC1wbm9HVmd5b1pndFNIUVdjT2lGYVBoVnJDY1NMX2VlUTRJTmxaSjNLTDQ2LTlRTHZ5QlFGUzdWNWhCM19GZVladlgxcWxJU0xIekp0RW92SGwtYW5YbHZzZERtejdLcHBaQVd2Tm1UM0Jhd3RSRHg4NlUxSmVQS3gtOGQya1pXdUxKTXFhYkxYdG1K?oc=5) |
 | 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxPWGx6V1dMM1NIUVlXOXR0R1BIWmVZUW5mY1RVRlk0UXVjQVd4MWxLU3VrMGJlZS1aTlRCVElwMDJ3VEhkdkNYaXRSZnFoZThxYjQ0M0lfSUhaME8yQVpkS2QyWkdJallDQ185dTg5cGxYUlE2Y1JSQ085N2dtSDdpUGVRME1lVXBJYzByOVkycjNIZjFDUQ?oc=5) |
 
@@ -116,7 +116,7 @@ _No items collected yet._
 | 2026-07-01 | This Embodied AI Startup Completes Series C Funding With A $2.94B Valuation - Benzinga | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWp3Ty1YaFYzS19jQUZ0VjAtWE8wZ3NlWEVEY0hXenV6MDR4WXUySGJUM3VwcE9wcnh6bnV4MXE5SEpQZXk3OWc4QTU4MHNQVy0zazlxYzhqeUNjeFU2cXJjSWpoeVdwNXdETTdJMHpveDNMZjNDMHdKR1VQNmJxWXppdmVPNjNfQ29Gc0Q1TzZfR0kwOUhVdkgwVGplejNidXhiMVF6MXctVVdscjVicmYzeS12endoaG5QNjdqSQ?oc=5) |
 | 2026-07-01 | Chinese Startup X Square Robot Hits 20 Billion Yuan Valuation - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2gxQVNvYThZeVZiUzBaeFc3R1NpUDJ1Tks1X0dITmd3cDhHY21WamxFWHg0VzNJcXJrdl80X2poeFI0NnBCYTlndTlWMVlmZFlfZWU5MnV0Z1ExbF9QaHNOZXlkbXJMWHlncjAzUFJMSGw4ejdLbnMxUmljSDBzT1hCdFkzRTVnSVhVMG1Hd0dKbE9JN3dwVU1oZUt4RTR6VjNBYlJMWFR2bUNLd0NZb250MHVtaGM?oc=5) |
 | 2026-06-30 | Japan announces aid for domestic AI development project - The Japan Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxON2thNi1JNzkyUnEtZEh1SUMxNGF3R2pPWWRqMWpZeHVfVG55ckx1T0RvYVJxMzFBLV9XWDNZdlpMUGNFMm9pVkF2MU9kY0h0MTByVXNYeTg3cUttR1FaUXRLWGplOUlvdk4tdUUxal9LZ2JwWk9iS2FJdFd0Nk9yV1NtMEo1d3JhOGpidmZtQQ?oc=5) |
-| 2026-06-30 | 6 Months, 15 Embodied AI Startups with Valuation Exceeding $10 Billion - 36 Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5td2VxYmFPZWhBMWFYVGJHeDhfOHVWdzhGVTVfaHg5cDZGMFJxQzJ4ZFg1UHhMWmlMZ2E0VVVaUUkzejJGY09wNl9MLW9pQ0pHZ3pZ?oc=5) |
+| 2026-06-30 | 6 Months, 15 Embodied AI Startups with Valuation Exceeding $10 Billion - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5td2VxYmFPZWhBMWFYVGJHeDhfOHVWdzhGVTVfaHg5cDZGMFJxQzJ4ZFg1UHhMWmlMZ2E0VVVaUUkzejJGY09wNl9MLW9pQ0pHZ3pZ?oc=5) |
 | 2026-06-30 | Greater Bay Area mints two unicorns as embodied AI boom continues - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTFA4WkVCdGhPSVpNd0QyM1dEUkd5T2xJRi05NkFwdHNBakp1Zk9acTRWLW8wbkRhM3d0YkVVRnpwSEk0anc3M0lrUG1hdTh2REc1a2xkeUxzTkZPMmpISHFSajBRSEFONEhHZ1NyQ2VwMVR2ZVZwTHpRTjFodm12ZFk?oc=5) |
 
 ## Jobs
