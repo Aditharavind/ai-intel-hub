@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-03 18:56 UTC
+Last Updated: 2026-07-03 20:08 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-03 | This KVM runs a P4 instead of a Pi. | Hackaday | [link](https://hackaday.com/2026/07/03/this-kvm-runs-a-p4-instead-of-a-pi/) |
 | 2026-07-03 | Settling the Debate on Soldered versus Crimped High-Current Connectors | Hackaday | [link](https://hackaday.com/2026/07/03/settling-the-debate-on-soldered-versus-crimped-high-current-connectors/) |
 | 2026-07-03 | Hackaday Podcast Episode 376: Modern Retro Projects, Retro Modern Projects, and the Teen Years for 3D Printing | Hackaday | [link](https://hackaday.com/2026/07/03/hackaday-podcast-episode-376-modern-retro-projects-retro-modern-projects-and-the-teen-years-for-3d-printing/) |
 | 2026-07-03 | The Organ That Forgot To Use Transistors | Hackaday | [link](https://hackaday.com/2026/07/03/the-organ-that-forgot-to-use-transistors/) |
 | 2026-07-03 | This Week in Security: Windows 10 Gets Another Year, SmartTV Botnets, Hiding Payloads, and LastPass Customer Leak | Hackaday | [link](https://hackaday.com/2026/07/03/this-week-in-security-windows-10-gets-another-year-smarttv-botnets-hiding-payloads-and-lastpass-customer-leak/) |
 | 2026-07-03 | Godot’s New Contributing Policy Adds Barriers for AI Slop | Hackaday | [link](https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop/) |
 | 2026-07-03 | Modern E-Ink Dashboards, Kindle and Otherwise | Hackaday | [link](https://hackaday.com/2026/07/03/modern-e-ink-dashboards-kindle-and-otherwise/) |
-| 2026-07-03 | Porting The Legend of Zelda: Twilight Princess to the 3DS | Hackaday | [link](https://hackaday.com/2026/07/02/porting-the-legend-of-zelda-twilight-princess-to-the-3ds/) |
 | 2026-07-03 | HALO TOUCH V2 – A customizable desktop USB hub with rotary encoder fitted with round touchscreen display | CNX Software | [link](https://www.cnx-software.com/2026/07/03/halo-touch-v2-a-customizable-desktop-usb-hub-with-rotary-encoder-fitted-with-round-touchscreen-display/) |
 | 2026-07-03 | ESP32-C5 dual-band WiFi 6 and Bluetooth LE IoT board features 1.47-inch color LCD | CNX Software | [link](https://www.cnx-software.com/2026/07/03/esp32-c5-dual-band-wifi-6-and-bluetooth-le-iot-board-features-1-47-inch-color-lcd/) |
 | 2026-07-03 | NVIDIA Jetson Orin Nano/NX-based Mekotronics AI Box targets humanoid robots, Smart Cities management, transportation applications | CNX Software | [link](https://www.cnx-software.com/2026/07/03/nvidia-jetson-orin-nano-nx-based-mekotronics-ai-box-targets-humanoid-robots-smart-cities-management-transportation-applications/) |
@@ -92,11 +92,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | mosaico-labs/mosaico | 885 | Python | 354.1 | [link](https://github.com/mosaico-labs/mosaico) |
-| Developer-Y/cs-video-courses | 82237 |  | 32894.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82238 |  | 32895.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 62957 | Python | 25182.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44183 | JavaScript | 17673.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44182 | JavaScript | 17672.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | ArduPilot/ardupilot | 15411 | C++ | 6164.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14075 | C++ | 5630.1 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14076 | C++ | 5630.5 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 11053 | Rust | 4421.3 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7599 | Python | 3039.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 3990 | Python | 1596.1 | [link](https://github.com/RLinf/RLinf) |
