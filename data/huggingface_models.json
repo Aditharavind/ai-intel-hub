@@ -1,5 +1,14 @@
 [
   {
+    "model": "zolkin/robot_rl",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/zolkin/robot_rl",
+    "date": "2026-07-03",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
     "model": "OpenRAL/rskill-smolvla-robotwin",
     "downloads": 0,
     "likes": 0,
@@ -63,6 +72,15 @@
     "score": 0.3
   },
   {
+    "model": "VLat3/a2c-PandaReachDense-v3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VLat3/a2c-PandaReachDense-v3",
+    "date": "2026-07-03",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "vlabok-snist/krealora",
     "downloads": 0,
     "likes": 0,
@@ -114,6 +132,15 @@
     "url": "https://huggingface.co/SEU-PAISys/Embodied.cpp",
     "date": "2026-07-03",
     "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "kb127/act195_kl_13_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kb127/act195_kl_13_policy",
+    "date": "2026-07-03",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -216,15 +243,6 @@
     "score": 0.1
   },
   {
-    "model": "LohanTS/mon-model-robot-v5",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/LohanTS/mon-model-robot-v5",
-    "date": "2026-07-02",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "VLat3/ppo-Pyramids",
     "downloads": 0,
     "likes": 0,
@@ -265,15 +283,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/bhe1004/FIRe-VLA-PI05-PegInsert-Sim",
-    "date": "2026-07-02",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "bhe1004/FIRe-VLA-PI05-NutThread-Sim",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/bhe1004/FIRe-VLA-PI05-NutThread-Sim",
     "date": "2026-07-02",
     "keyword": "vla",
     "score": 0.1
@@ -337,15 +346,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/FawzQi/act_policy",
-    "date": "2026-07-02",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "zbhuiyan2006/act_tic_tac_toe_rgb_pos8_v2_policy0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/zbhuiyan2006/act_tic_tac_toe_rgb_pos8_v2_policy0",
     "date": "2026-07-02",
     "keyword": "policy",
     "score": 0.1
