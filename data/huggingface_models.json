@@ -1,5 +1,14 @@
 [
   {
+    "model": "hxma/InternVLA-A1.5-Robotwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/hxma/InternVLA-A1.5-Robotwin",
+    "date": "2026-07-04",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "anhtld/vla",
     "downloads": 0,
     "likes": 1,
@@ -7,6 +16,24 @@
     "date": "2026-07-04",
     "keyword": "vla",
     "score": 0.3
+  },
+  {
+    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "downloads": 143,
+    "likes": 1,
+    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "date": "2026-07-04",
+    "keyword": "policy",
+    "score": 43.2
+  },
+  {
+    "model": "dara-dara/my_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dara-dara/my_policy",
+    "date": "2026-07-04",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "TahsinOP/smolvla_ur5e_joints_policy",
@@ -180,15 +207,6 @@
     "score": 0.1
   },
   {
-    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "downloads": 143,
-    "likes": 1,
-    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "date": "2026-07-03",
-    "keyword": "policy",
-    "score": 43.2
-  },
-  {
     "model": "kb127/act195_kl_13_policy",
     "downloads": 0,
     "likes": 0,
@@ -279,15 +297,6 @@
     "score": 0.1
   },
   {
-    "model": "LohanTS/mon-model-robot-v6",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/LohanTS/mon-model-robot-v6",
-    "date": "2026-07-02",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "VLat3/ppo-Pyramids",
     "downloads": 0,
     "likes": 0,
@@ -337,15 +346,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/wild3005/rp_policy",
-    "date": "2026-07-02",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "KingLear1606/act_tac_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/KingLear1606/act_tac_policy",
     "date": "2026-07-02",
     "keyword": "policy",
     "score": 0.1
