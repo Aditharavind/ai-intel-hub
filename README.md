@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-04 11:59 UTC
+Last Updated: 2026-07-04 13:18 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-04 | Context is king: How Avride uses cloud VLMs as a safety net for delivery robots | Robotics Business Review | [link](https://www.therobotreport.com/how-avride-uses-cloud-vlms-safety-net-delivery-robots/) |
 | 2026-07-03 | Quarterhill discusses transport modernization as U.S. marks 70 years of federal highways | Robotics Business Review | [link](https://www.therobotreport.com/quarterhill-discusses-transport-modernization-u-s-marks-70-years-federal-highways/) |
 | 2026-07-03 | Video Friday: An Earthbound Mars Rover for the Moon | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-nasa-lunar-rover) |
 | 2026-07-02 | Blattner awards Built Robotics $75M contract for physical AI to help meet energy demand | Robotics Business Review | [link](https://www.therobotreport.com/blattner-awards-built-robotics-75m-contract-meet-energy-demands/) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-01 | Apptronik unveils Apollo 2 and a flagship data collection and training facility | Robotics Business Review | [link](https://www.therobotreport.com/apptronik-unveils-apollo-2-flagship-data-collection-training-facility/) |
 | 2026-07-01 | Top 10 robotics developments of June 2026 | Robotics Business Review | [link](https://www.therobotreport.com/top-10-robotic-stories-june-2026/) |
 | 2026-07-01 | In Robotics, Ruggedization Is No Longer Optional | Robotics Business Review | [link](https://www.therobotreport.com/in-robotics-ruggedization-is-no-longer-optional/) |
-| 2026-06-30 | Sonair ADAR One 3D ultrasonic sensor is now safety-certified | Robotics Business Review | [link](https://www.therobotreport.com/sonair-3d-ultrasonic-sensor-is-now-safety-certified/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -79,28 +79,28 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-07-04 | hxma/InternVLA-A1.5-Robotwin | 0 | 0 | [link](https://huggingface.co/hxma/InternVLA-A1.5-Robotwin) |
 | 2026-07-04 | anhtld/vla | 0 | 1 | [link](https://huggingface.co/anhtld/vla) |
+| 2026-07-04 | baiyu858/Bridge-WA-World-Teacher-VLABench | 0 | 0 | [link](https://huggingface.co/baiyu858/Bridge-WA-World-Teacher-VLABench) |
+| 2026-07-04 | baiyu858/Bridge-WA-VLABench | 0 | 0 | [link](https://huggingface.co/baiyu858/Bridge-WA-VLABench) |
 | 2026-07-04 | mattpidden/vla0-realworld-epoch28 | 0 | 0 | [link](https://huggingface.co/mattpidden/vla0-realworld-epoch28) |
+| 2026-07-04 | simonholmes001/my_policy_cube-dataset-60-v2 | 0 | 0 | [link](https://huggingface.co/simonholmes001/my_policy_cube-dataset-60-v2) |
 | 2026-07-04 | frfr80/hg-policy-repo-folder | 0 | 0 | [link](https://huggingface.co/frfr80/hg-policy-repo-folder) |
 | 2026-07-04 | jovaldivieso/double_integrator_casadi_diffusion_policy | 200 | 1 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
 | 2026-07-04 | dara-dara/my_policy | 0 | 0 | [link](https://huggingface.co/dara-dara/my_policy) |
 | 2026-07-04 | TahsinOP/smolvla_ur5e_joints_policy | 0 | 0 | [link](https://huggingface.co/TahsinOP/smolvla_ur5e_joints_policy) |
-| 2026-07-04 | pierreprecieuse/record-test_20260629_234149-policy_v4 | 0 | 0 | [link](https://huggingface.co/pierreprecieuse/record-test_20260629_234149-policy_v4) |
-| 2026-07-03 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
-| 2026-07-03 | OpenRAL/rskill-smolvla-robotwin | 0 | 0 | [link](https://huggingface.co/OpenRAL/rskill-smolvla-robotwin) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | commaai/openpilot | 62966 | Python | 25186.5 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15416 | C++ | 6166.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15417 | C++ | 6166.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | isaac-sim/IsaacLab | 7601 | Python | 3040.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3820 | Rust | 1528.1 | [link](https://github.com/dora-rs/dora) |
+| dora-rs/dora | 3821 | Rust | 1528.5 | [link](https://github.com/dora-rs/dora) |
 | flashrt-project/FlashRT | 393 | C++ | 157.3 | [link](https://github.com/flashrt-project/FlashRT) |
 | luohongk/Embodied-AI-Daily | 358 | HTML | 143.3 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 | sou350121/VLA-Handbook | 350 | HTML | 140.1 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5420 | Python | 2168.1 | [link](https://github.com/vllm-project/vllm-omni) |
-| NVlabs/ProtoMotions | 1932 | Python | 772.9 | [link](https://github.com/NVlabs/ProtoMotions) |
-| vikashplus/robohive | 628 | Python | 251.3 | [link](https://github.com/vikashplus/robohive) |
+| vllm-project/vllm-omni | 5421 | Python | 2168.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| NVlabs/ProtoMotions | 1933 | Python | 773.3 | [link](https://github.com/NVlabs/ProtoMotions) |
+| OpenHUTB/hutb | 525 | C++ | 210.1 | [link](https://github.com/OpenHUTB/hutb) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
