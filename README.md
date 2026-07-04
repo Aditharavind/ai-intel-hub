@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-04 16:46 UTC
+Last Updated: 2026-07-04 17:52 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-04 | Time Never Moves Slowly With This Clock | Hackaday | [link](https://hackaday.com/2026/07/04/time-never-moves-slowly-with-this-clock/) |
 | 2026-07-04 | Yesterday’s Technology, Re-engineered Today | Hackaday | [link](https://hackaday.com/2026/07/04/yesterdays-technology-re-engineered-today/) |
 | 2026-07-04 | Five Solar Air Heating Methods Tested | Hackaday | [link](https://hackaday.com/2026/07/04/five-solar-air-heating-methods-tested/) |
 | 2026-07-04 | Warp Point: a Web Ring for Gaming Sites Built for 2026 | Hackaday | [link](https://hackaday.com/2026/07/04/warp-point-a-web-ring-for-gaming-sites-built-for-2026/) |
 | 2026-07-04 | Building A Wireless Fingerprint Authorization Device | Hackaday | [link](https://hackaday.com/2026/07/03/building-a-wireless-fingerprint-authorization-device/) |
 | 2026-07-04 | Microdistillery for Microchemistry | Hackaday | [link](https://hackaday.com/2026/07/03/microdistillery-for-microchemistry/) |
 | 2026-07-04 | BIGTREETECH Panda Sense Pro 8-in-1 smart air quality monitor works with Home Assistant and Klipper for 3D printers | CNX Software | [link](https://www.cnx-software.com/2026/07/04/bigtreetech-panda-sense-pro-8-in-1-smart-air-quality-monitor-works-with-home-assistant-and-klipper-for-3d-printers/) |
+| 2026-07-04 | Made In NYC 🍎🇺🇸 #4thOfJuly #AmericanMakers | Adafruit | [link](https://blog.adafruit.com/2026/07/04/made-in-nyc-%f0%9f%8d%8e%f0%9f%87%ba%f0%9f%87%b8-4thofjuly-americanmakers/) |
 | 2026-07-04 | Find the Closest Cooling Center | Adafruit | [link](https://blog.adafruit.com/2026/07/04/find-the-closest-cooling-center/) |
 | 2026-07-03 | A New Twist on the To Do List | Hackaday | [link](https://hackaday.com/2026/07/03/a-new-twist-on-the-to-do-list/) |
-| 2026-07-03 | This KVM runs a P4 instead of a Pi. | Hackaday | [link](https://hackaday.com/2026/07/03/this-kvm-runs-a-p4-instead-of-a-pi/) |
-| 2026-07-03 | HALO TOUCH V2 – A customizable desktop USB hub with rotary encoder fitted with round touchscreen display | CNX Software | [link](https://www.cnx-software.com/2026/07/03/halo-touch-v2-a-customizable-desktop-usb-hub-with-rotary-encoder-fitted-with-round-touchscreen-display/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -84,23 +84,23 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-04 | baiyu858/Bridge-WA-World-Teacher-VLABench | 0 | 0 | [link](https://huggingface.co/baiyu858/Bridge-WA-World-Teacher-VLABench) |
 | 2026-07-04 | baiyu858/Bridge-WA-VLABench | 0 | 0 | [link](https://huggingface.co/baiyu858/Bridge-WA-VLABench) |
 | 2026-07-04 | mattpidden/vla0-realworld-epoch28 | 0 | 0 | [link](https://huggingface.co/mattpidden/vla0-realworld-epoch28) |
+| 2026-07-04 | EmbodiedCity/Worldscape-MoE | 0 | 0 | [link](https://huggingface.co/EmbodiedCity/Worldscape-MoE) |
 | 2026-07-04 | simonholmes001/my_policy_cube-dataset-60-v2 | 0 | 0 | [link](https://huggingface.co/simonholmes001/my_policy_cube-dataset-60-v2) |
 | 2026-07-04 | frfr80/hg-policy-repo-folder | 0 | 0 | [link](https://huggingface.co/frfr80/hg-policy-repo-folder) |
-| 2026-07-04 | jovaldivieso/double_integrator_casadi_diffusion_policy | 200 | 1 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 62968 | Python | 25187.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 62967 | Python | 25186.9 | [link](https://github.com/commaai/openpilot) |
+| zauberzeug/nicegui | 15976 | Python | 6390.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15417 | C++ | 6166.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14079 | C++ | 5631.7 | [link](https://github.com/google-deepmind/mujoco) |
-| isaac-sim/IsaacLab | 7601 | Python | 3040.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| google-deepmind/mujoco | 14080 | C++ | 5632.1 | [link](https://github.com/google-deepmind/mujoco) |
+| isaac-sim/IsaacLab | 7602 | Python | 3040.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3821 | Rust | 1528.5 | [link](https://github.com/dora-rs/dora) |
 | huangjunsen0406/py-xiaozhi | 3387 | Python | 1354.9 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
 | StanfordVL/BEHAVIOR-1K | 1548 | Python | 619.3 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | flashrt-project/FlashRT | 393 | C++ | 157.3 | [link](https://github.com/flashrt-project/FlashRT) |
 | luohongk/Embodied-AI-Daily | 358 | HTML | 143.3 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| sou350121/VLA-Handbook | 352 | HTML | 140.9 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
