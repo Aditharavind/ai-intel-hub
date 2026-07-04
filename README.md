@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-04 13:18 UTC
+Last Updated: 2026-07-04 14:55 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-04 | Yesterday’s Technology, Re-engineered Today | Hackaday | [link](https://hackaday.com/2026/07/04/yesterdays-technology-re-engineered-today/) |
 | 2026-07-04 | Five Solar Air Heating Methods Tested | Hackaday | [link](https://hackaday.com/2026/07/04/five-solar-air-heating-methods-tested/) |
 | 2026-07-04 | Warp Point: a Web Ring for Gaming Sites Built for 2026 | Hackaday | [link](https://hackaday.com/2026/07/04/warp-point-a-web-ring-for-gaming-sites-built-for-2026/) |
 | 2026-07-04 | Building A Wireless Fingerprint Authorization Device | Hackaday | [link](https://hackaday.com/2026/07/03/building-a-wireless-fingerprint-authorization-device/) |
 | 2026-07-04 | Microdistillery for Microchemistry | Hackaday | [link](https://hackaday.com/2026/07/03/microdistillery-for-microchemistry/) |
 | 2026-07-04 | BIGTREETECH Panda Sense Pro 8-in-1 smart air quality monitor works with Home Assistant and Klipper for 3D printers | CNX Software | [link](https://www.cnx-software.com/2026/07/04/bigtreetech-panda-sense-pro-8-in-1-smart-air-quality-monitor-works-with-home-assistant-and-klipper-for-3d-printers/) |
+| 2026-07-04 | Find the Closest Cooling Center | Adafruit | [link](https://blog.adafruit.com/2026/07/04/find-the-closest-cooling-center/) |
 | 2026-07-03 | A New Twist on the To Do List | Hackaday | [link](https://hackaday.com/2026/07/03/a-new-twist-on-the-to-do-list/) |
 | 2026-07-03 | This KVM runs a P4 instead of a Pi. | Hackaday | [link](https://hackaday.com/2026/07/03/this-kvm-runs-a-p4-instead-of-a-pi/) |
-| 2026-07-03 | Settling the Debate on Soldered versus Crimped High-Current Connectors | Hackaday | [link](https://hackaday.com/2026/07/03/settling-the-debate-on-soldered-versus-crimped-high-current-connectors/) |
 | 2026-07-03 | HALO TOUCH V2 – A customizable desktop USB hub with rotary encoder fitted with round touchscreen display | CNX Software | [link](https://www.cnx-software.com/2026/07/03/halo-touch-v2-a-customizable-desktop-usb-hub-with-rotary-encoder-fitted-with-round-touchscreen-display/) |
-| 2026-07-03 | ESP32-C5 dual-band WiFi 6 and Bluetooth LE IoT board features 1.47-inch color LCD | CNX Software | [link](https://www.cnx-software.com/2026/07/03/esp32-c5-dual-band-wifi-6-and-bluetooth-le-iot-board-features-1-47-inch-color-lcd/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -79,6 +79,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-07-04 | hxma/InternVLA-A1.5-Robotwin | 0 | 0 | [link](https://huggingface.co/hxma/InternVLA-A1.5-Robotwin) |
 | 2026-07-04 | anhtld/vla | 0 | 1 | [link](https://huggingface.co/anhtld/vla) |
+| 2026-07-04 | macv666/entropy-vla-grpo-logs | 0 | 0 | [link](https://huggingface.co/macv666/entropy-vla-grpo-logs) |
 | 2026-07-04 | baiyu858/Bridge-WA-World-Teacher-VLABench | 0 | 0 | [link](https://huggingface.co/baiyu858/Bridge-WA-World-Teacher-VLABench) |
 | 2026-07-04 | baiyu858/Bridge-WA-VLABench | 0 | 0 | [link](https://huggingface.co/baiyu858/Bridge-WA-VLABench) |
 | 2026-07-04 | mattpidden/vla0-realworld-epoch28 | 0 | 0 | [link](https://huggingface.co/mattpidden/vla0-realworld-epoch28) |
@@ -86,28 +87,27 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-04 | frfr80/hg-policy-repo-folder | 0 | 0 | [link](https://huggingface.co/frfr80/hg-policy-repo-folder) |
 | 2026-07-04 | jovaldivieso/double_integrator_casadi_diffusion_policy | 200 | 1 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
 | 2026-07-04 | dara-dara/my_policy | 0 | 0 | [link](https://huggingface.co/dara-dara/my_policy) |
-| 2026-07-04 | TahsinOP/smolvla_ur5e_joints_policy | 0 | 0 | [link](https://huggingface.co/TahsinOP/smolvla_ur5e_joints_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 62966 | Python | 25186.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 62967 | Python | 25186.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15417 | C++ | 6166.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14079 | C++ | 5631.7 | [link](https://github.com/google-deepmind/mujoco) |
 | isaac-sim/IsaacLab | 7601 | Python | 3040.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3821 | Rust | 1528.5 | [link](https://github.com/dora-rs/dora) |
 | flashrt-project/FlashRT | 393 | C++ | 157.3 | [link](https://github.com/flashrt-project/FlashRT) |
 | luohongk/Embodied-AI-Daily | 358 | HTML | 143.3 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| sou350121/VLA-Handbook | 350 | HTML | 140.1 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5421 | Python | 2168.5 | [link](https://github.com/vllm-project/vllm-omni) |
-| NVlabs/ProtoMotions | 1933 | Python | 773.3 | [link](https://github.com/NVlabs/ProtoMotions) |
-| OpenHUTB/hutb | 525 | C++ | 210.1 | [link](https://github.com/OpenHUTB/hutb) |
+| sou350121/VLA-Handbook | 351 | HTML | 140.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 5423 | Python | 2169.3 | [link](https://github.com/vllm-project/vllm-omni) |
+| NVlabs/ProtoMotions | 1934 | Python | 773.7 | [link](https://github.com/NVlabs/ProtoMotions) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-07-03 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSa2d3a0hiWDBvOUNNWEZMbHk1bUpHVm9kdTRRbEVwdUgtMUdOX0xQcDBBNGxZV0p6eENuNkZjU25ndUJWRnFUMXhiaFdUOWFUd01keHhGMnZsMGI5OTFoQVRWR3JpSkE?oc=5) |
 | 2026-07-03 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0JBRVU0T3ZzUzhacVByakVuajBoLWZZWm02LVJoU2k2UFVwQkVMdGN0MDN0SXJSOWhCbFBKLW9HbnZWMWlvS2xGSnFwM3NiY0hLU0ZaMnlCLUkwRE9hVzgzdTM1ZUtNUkY0blBjT2FKcTBjS1RyQ0hyNEZXenZmellGYVlFdmxwdEE2T0hxaUw2blVwSzJ1NGgyeEs1aEVITWVfVzd2dkViRGRXdW9nOU1RazNTQ3k3aDEw0gG7AUFVX3lxTE1aVGtnUEEyYndxUDNGaDdKVFlJRDQ5cDRRdGktdjR6UV9obFhrZG5tbFVaMVJIQy12Zlotb0NDMVd3blBVeUNVU3NHMDktVS02SlJVUDBvTm9Sc1JoRXJfb252VGdZdnRTM2d1Z3RDbkpIdFdjbmFIUkxMenFKakdJZnN4ejA1TndoOGo4Z2F6ZG5fUHNBa051NWN6cEd2ck5TeDBvSHlEZkQyaVNldzJjSGdsQkl2ekpIb1k?oc=5) |
-| 2026-07-02 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUFl6Y0hOcWFIbUdMU0FRMHJNMHFHRThUMThCYW9zRUs5SFNVcGkzRGd1VWdPSnZBVWtud1BoaUR6REtfYzVBYlp1cmNlbl80ZnZ6VGVUX0tCOU1UcHJ6LURkTzFWMlZpc2VKakdIbHlkdldmQUoycHViUnN4Z0tvWFRZeVNzOTh4eFBiQ1dSbjNXUnVBeXpGRW1HNUtMS3ZfT05sZXlJbEZKLUhRNDhDbXBubHhGN0ZEUk9ZMTF5STlMZ1VkdjZySGdESDBGejk0RGphZEVWVFpwLUNmTDRj?oc=5) |
+| 2026-07-02 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdjdnU1ZuVDVkQmxlWmQ0TTdmMzhHbDdrdGF6Z0c2WUtxOWFRbzNNcTF6NGROVEpkWXVCejdvaDdVNFBJMFpMNEVNRjBrenlFZkhtcmV2U0JiLUNzM1VrdXFhdjhPTzh4TE5BWGdNQmxZNmtvd3J0SWNhZHdGTGZDTjVEdXVEZV80SkRwTFJZeHZMQm9nSUJRbEhKV0l4RFB1Tm1yNEhaZmttVlg5MnpwV0Ftb1lVazQtd3h6OVp5dy1GbTR3MlJuZFp4eldyeDBfN0FoNFJzR1lDbFBUMWhn?oc=5) |
 | 2026-07-02 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkxmNTktWHJsUmFLVHJqLWl4SnB6eUhoYnFVX3lWYlllM0NseHVVUDRhSFFua0g2bXZVZ29VbzBOYkRycDVxVDUzdjc0YkVPNEFBOG9tZldtdlBTMDVFZWZlbnZacG1mb09paldGTGdodU9zaTRLbF83YVFLdzQ5LUpMN3dOOFlDVlBEUGxNS2tVQTJhcTZpYWQ2WFduN3BBOThtdHhJdlFsSkNNNlVqS0VLQ2ZLQ1lo?oc=5) |
 | 2026-07-01 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHQ2WjZkRUJYVDYyQkZielpfRVZUXzdEQUJ3SWppMWVrN29GU1dfYlpvcFhfYnBTVHVtYUxRNnQ3TGFuZi1WLVM3SHBMMkpmc1lURFVVdTM1dGFUWkNlRU5CMUU3UlVGQVU0RUptUnpTSVVIWTE4ekhuUWpIRXFmSmdsQWh5dUF6WHlsYlR1Q3JZZGVoRjFVbGxqMHVQX1NmQmU2SC05UHdYcmhwNmp3dQ?oc=5) |
 | 2026-06-30 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9uZGhDeldLWDFSVUlXY1VBdzd0c3FCUVRkRkp0WWRyS3liZ1dCREZPTThFR1JjMGFpNmR5dFI1TmRiZWRiakdwNFBMVXhvOWs2NHVWUjNJa3kzZDlHdHBHazlueXVXYTB1NFlZTDkwNE9rYmZOZ3c?oc=5) |
