@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-04 17:52 UTC
+Last Updated: 2026-07-04 18:48 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -93,10 +93,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | commaai/openpilot | 62967 | Python | 25186.9 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 15976 | Python | 6390.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15417 | C++ | 6166.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15418 | C++ | 6167.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14080 | C++ | 5632.1 | [link](https://github.com/google-deepmind/mujoco) |
 | isaac-sim/IsaacLab | 7602 | Python | 3040.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3821 | Rust | 1528.5 | [link](https://github.com/dora-rs/dora) |
+| dora-rs/dora | 3822 | Rust | 1528.9 | [link](https://github.com/dora-rs/dora) |
 | huangjunsen0406/py-xiaozhi | 3387 | Python | 1354.9 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
 | StanfordVL/BEHAVIOR-1K | 1548 | Python | 619.3 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | flashrt-project/FlashRT | 393 | C++ | 157.3 | [link](https://github.com/flashrt-project/FlashRT) |
