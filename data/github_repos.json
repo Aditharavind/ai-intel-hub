@@ -1,5 +1,45 @@
 [
   {
+    "repo": "commaai/openpilot",
+    "stars": 62959,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-07-04",
+    "topic": "robotics",
+    "score": 25183.7
+  },
+  {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15411,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-07-04",
+    "topic": "robotics",
+    "score": 6164.5
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7599,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-07-04",
+    "topic": "robot-learning",
+    "score": 3039.7
+  },
+  {
+    "repo": "vikashplus/robohive",
+    "stars": 628,
+    "language": "Python",
+    "description": "A unified framework for robot learning",
+    "url": "https://github.com/vikashplus/robohive",
+    "date": "2026-07-04",
+    "topic": "robot-learning",
+    "score": 251.3
+  },
+  {
     "repo": "mosaico-labs/mosaico",
     "stars": 885,
     "language": "Python",
@@ -11,23 +51,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82242,
+    "stars": 82244,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-03",
     "topic": "robotics",
-    "score": 32896.9
-  },
-  {
-    "repo": "commaai/openpilot",
-    "stars": 62958,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-07-03",
-    "topic": "robotics",
-    "score": 25183.3
+    "score": 32897.7
   },
   {
     "repo": "NaiboWang/EasySpider",
@@ -38,16 +68,6 @@
     "date": "2026-07-03",
     "topic": "robotics",
     "score": 17672.9
-  },
-  {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15410,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-07-03",
-    "topic": "robotics",
-    "score": 6164.1
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -68,16 +88,6 @@
     "date": "2026-07-03",
     "topic": "robotics",
     "score": 4422.1
-  },
-  {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7599,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-07-03",
-    "topic": "robot-learning",
-    "score": 3039.7
   },
   {
     "repo": "RLinf/RLinf",
@@ -190,16 +200,6 @@
     "score": 483.3
   },
   {
-    "repo": "vikashplus/robohive",
-    "stars": 628,
-    "language": "Python",
-    "description": "A unified framework for robot learning",
-    "url": "https://github.com/vikashplus/robohive",
-    "date": "2026-07-03",
-    "topic": "robot-learning",
-    "score": 251.3
-  },
-  {
     "repo": "fiveages-sim/lerobot_ros2",
     "stars": 17,
     "language": "Python",
@@ -241,13 +241,13 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 15974,
+    "stars": 15975,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-07-02",
     "topic": "robotics",
-    "score": 6389.7
+    "score": 6390.1
   },
   {
     "repo": "kornia/kornia",
@@ -281,13 +281,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 1925,
+    "stars": 1927,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-07-02",
     "topic": "humanoid",
-    "score": 770.1
+    "score": 770.9
   },
   {
     "repo": "softmata/horus",
@@ -298,6 +298,16 @@
     "date": "2026-07-02",
     "topic": "humanoid",
     "score": 153.3
+  },
+  {
+    "repo": "zihanwang0422/legged_rl_lab",
+    "stars": 35,
+    "language": "Python",
+    "description": "Legged Robot Isaaclab Extention",
+    "url": "https://github.com/zihanwang0422/legged_rl_lab",
+    "date": "2026-07-02",
+    "topic": "humanoid",
+    "score": 14.1
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",
@@ -441,13 +451,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 1805,
+    "stars": 1807,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-26",
     "topic": "robot-learning",
-    "score": 722.1
+    "score": 722.9
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -611,13 +621,23 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13523,
+    "stars": 13524,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-06-19",
     "topic": "robotics",
-    "score": 5409.3
+    "score": 5409.7
+  },
+  {
+    "repo": "VinRobotics/vinrobotics_mjlab",
+    "stars": 34,
+    "language": "Python",
+    "description": "VinRobotics RL training pipeline for high-loaded humanoids.",
+    "url": "https://github.com/VinRobotics/vinrobotics_mjlab",
+    "date": "2026-06-18",
+    "topic": "humanoid",
+    "score": 13.7
   },
   {
     "repo": "cartesiancs/vessel",
@@ -838,25 +858,5 @@
     "date": "2026-06-04",
     "topic": "robot-learning",
     "score": 123.3
-  },
-  {
-    "repo": "robot-descriptions/awesome-robot-descriptions",
-    "stars": 1586,
-    "language": "",
-    "description": "A curated list of awesome robot descriptions (URDF, MJCF)",
-    "url": "https://github.com/robot-descriptions/awesome-robot-descriptions",
-    "date": "2026-06-03",
-    "topic": "humanoid",
-    "score": 634.5
-  },
-  {
-    "repo": "LeCAR-Lab/BFM-Zero",
-    "stars": 663,
-    "language": "Python",
-    "description": "BFM_Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning",
-    "url": "https://github.com/LeCAR-Lab/BFM-Zero",
-    "date": "2026-06-03",
-    "topic": "humanoid",
-    "score": 265.3
   }
 ]
