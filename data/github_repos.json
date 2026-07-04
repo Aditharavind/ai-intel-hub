@@ -1,23 +1,23 @@
 [
   {
     "repo": "commaai/openpilot",
-    "stars": 62961,
+    "stars": 62965,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-07-04",
     "topic": "robotics",
-    "score": 25184.5
+    "score": 25186.1
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15412,
+    "stars": 15413,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-07-04",
     "topic": "robotics",
-    "score": 6164.9
+    "score": 6165.3
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -40,6 +40,26 @@
     "score": 1528.1
   },
   {
+    "repo": "flashrt-project/FlashRT",
+    "stars": 393,
+    "language": "C++",
+    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
+    "url": "https://github.com/flashrt-project/FlashRT",
+    "date": "2026-07-04",
+    "topic": "vla",
+    "score": 157.3
+  },
+  {
+    "repo": "luohongk/Embodied-AI-Daily",
+    "stars": 358,
+    "language": "HTML",
+    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
+    "url": "https://github.com/luohongk/Embodied-AI-Daily",
+    "date": "2026-07-04",
+    "topic": "vla",
+    "score": 143.3
+  },
+  {
     "repo": "sou350121/VLA-Handbook",
     "stars": 350,
     "language": "HTML",
@@ -51,23 +71,23 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5417,
+    "stars": 5418,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-04",
     "topic": "world-model",
-    "score": 2166.9
+    "score": 2167.3
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 1930,
+    "stars": 1932,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-07-04",
     "topic": "humanoid",
-    "score": 772.1
+    "score": 772.9
   },
   {
     "repo": "vikashplus/robohive",
@@ -91,23 +111,23 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82249,
+    "stars": 82250,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-03",
     "topic": "robotics",
-    "score": 32899.7
+    "score": 32900.1
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44184,
+    "stars": 44187,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-07-03",
     "topic": "robotics",
-    "score": 17673.7
+    "score": 17674.9
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -121,23 +141,23 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11059,
+    "stars": 11060,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-07-03",
     "topic": "robotics",
-    "score": 4423.7
+    "score": 4424.1
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 3990,
+    "stars": 3991,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-07-03",
     "topic": "embodied-ai",
-    "score": 1596.1
+    "score": 1596.5
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -168,26 +188,6 @@
     "date": "2026-07-03",
     "topic": "world-model",
     "score": 331.7
-  },
-  {
-    "repo": "flashrt-project/FlashRT",
-    "stars": 392,
-    "language": "C++",
-    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
-    "url": "https://github.com/flashrt-project/FlashRT",
-    "date": "2026-07-03",
-    "topic": "vla",
-    "score": 156.9
-  },
-  {
-    "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 357,
-    "language": "HTML",
-    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
-    "url": "https://github.com/luohongk/Embodied-AI-Daily",
-    "date": "2026-07-03",
-    "topic": "vla",
-    "score": 142.9
   },
   {
     "repo": "galilai-group/stable-worldmodel",
@@ -271,13 +271,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2506,
+    "stars": 2510,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-07-02",
     "topic": "embodied-ai",
-    "score": 1002.5
+    "score": 1004.1
   },
   {
     "repo": "hzxie/DynamicVLA",
@@ -361,13 +361,13 @@
   },
   {
     "repo": "abizovnuralem/go2_omniverse",
-    "stars": 1033,
+    "stars": 1034,
     "language": "Python",
     "description": "Unitree Go2, Unitree G1 support for Nvidia Isaac Lab (Isaac Gym / Isaac Sim)",
     "url": "https://github.com/abizovnuralem/go2_omniverse",
     "date": "2026-07-01",
     "topic": "robot-learning",
-    "score": 413.3
+    "score": 413.7
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
@@ -391,13 +391,13 @@
   },
   {
     "repo": "thu-ml/Causal-Forcing",
-    "stars": 824,
+    "stars": 825,
     "language": "Python",
     "description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\" & Causal Forcing++",
     "url": "https://github.com/thu-ml/Causal-Forcing",
     "date": "2026-06-29",
     "topic": "world-model",
-    "score": 329.7
+    "score": 330.1
   },
   {
     "repo": "isri-aist/RoboManipBaselines",
@@ -411,13 +411,13 @@
   },
   {
     "repo": "Source-Robotics/MSG-compliant-AI-stepper-gripper",
-    "stars": 31,
+    "stars": 34,
     "language": "CMake",
     "description": "Open Source gripper with force feedback! Adjustable grip size up to 200mm powered with steppers!",
     "url": "https://github.com/Source-Robotics/MSG-compliant-AI-stepper-gripper",
     "date": "2026-06-29",
     "topic": "lerobot",
-    "score": 12.5
+    "score": 13.7
   },
   {
     "repo": "worldbench/awesome-vla-for-ad",
@@ -451,23 +451,23 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 1817,
+    "stars": 1822,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-26",
     "topic": "robot-learning",
-    "score": 726.9
+    "score": 728.9
   },
   {
     "repo": "OpenHUTB/hutb",
-    "stars": 523,
+    "stars": 524,
     "language": "C++",
     "description": "人车模拟器（Human-vehicle Simulator）",
     "url": "https://github.com/OpenHUTB/hutb",
     "date": "2026-06-26",
     "topic": "humanoid",
-    "score": 209.3
+    "score": 209.7
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -511,13 +511,13 @@
   },
   {
     "repo": "roboninecom/SO-ARM100-101-Parallel-Gripper",
-    "stars": 140,
+    "stars": 141,
     "language": "Python",
     "description": "3D-printed parallel gripper compatible with Feetech STS3215 and Waveshare ST3215 servos. Ready-to-use solution for the SO-ARM 100/SO-ARM 101.",
     "url": "https://github.com/roboninecom/SO-ARM100-101-Parallel-Gripper",
     "date": "2026-06-25",
     "topic": "lerobot",
-    "score": 56.1
+    "score": 56.5
   },
   {
     "repo": "jackvial/lerobot-data-studio",
@@ -761,13 +761,13 @@
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
-    "stars": 2148,
+    "stars": 2147,
     "language": "",
     "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
     "url": "https://github.com/LMD0311/Awesome-World-Model",
     "date": "2026-06-11",
     "topic": "world-model",
-    "score": 859.3
+    "score": 858.9
   },
   {
     "repo": "nv-tlabs/lyra",

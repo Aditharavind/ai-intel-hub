@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-04 08:16 UTC
+Last Updated: 2026-07-04 10:45 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -79,42 +79,42 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-07-04 | hxma/InternVLA-A1.5-Robotwin | 0 | 0 | [link](https://huggingface.co/hxma/InternVLA-A1.5-Robotwin) |
 | 2026-07-04 | anhtld/vla | 0 | 1 | [link](https://huggingface.co/anhtld/vla) |
-| 2026-07-04 | jovaldivieso/double_integrator_casadi_diffusion_policy | 143 | 1 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
+| 2026-07-04 | mattpidden/vla0-realworld-epoch28 | 0 | 0 | [link](https://huggingface.co/mattpidden/vla0-realworld-epoch28) |
+| 2026-07-04 | jovaldivieso/double_integrator_casadi_diffusion_policy | 200 | 1 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
 | 2026-07-04 | dara-dara/my_policy | 0 | 0 | [link](https://huggingface.co/dara-dara/my_policy) |
 | 2026-07-04 | TahsinOP/smolvla_ur5e_joints_policy | 0 | 0 | [link](https://huggingface.co/TahsinOP/smolvla_ur5e_joints_policy) |
 | 2026-07-04 | pierreprecieuse/record-test_20260629_234149-policy_v4 | 0 | 0 | [link](https://huggingface.co/pierreprecieuse/record-test_20260629_234149-policy_v4) |
 | 2026-07-03 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-07-03 | OpenRAL/rskill-smolvla-robotwin | 0 | 0 | [link](https://huggingface.co/OpenRAL/rskill-smolvla-robotwin) |
-| 2026-07-03 | YinonDouchan/smolvla_mobile_robot_lift_turn_right | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_turn_right) |
-| 2026-07-03 | EdwinS9/qwen3-8b-sdft-robot-planner | 10 | 0 | [link](https://huggingface.co/EdwinS9/qwen3-8b-sdft-robot-planner) |
+| 2026-07-03 | YinonDouchan/smolvla_mobile_robot_lift_turn_right | 2 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_turn_right) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 62961 | Python | 25184.5 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15412 | C++ | 6164.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 62965 | Python | 25186.1 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15413 | C++ | 6165.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | isaac-sim/IsaacLab | 7601 | Python | 3040.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3820 | Rust | 1528.1 | [link](https://github.com/dora-rs/dora) |
+| flashrt-project/FlashRT | 393 | C++ | 157.3 | [link](https://github.com/flashrt-project/FlashRT) |
+| luohongk/Embodied-AI-Daily | 358 | HTML | 143.3 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 | sou350121/VLA-Handbook | 350 | HTML | 140.1 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5417 | Python | 2166.9 | [link](https://github.com/vllm-project/vllm-omni) |
-| NVlabs/ProtoMotions | 1930 | Python | 772.1 | [link](https://github.com/NVlabs/ProtoMotions) |
+| vllm-project/vllm-omni | 5418 | Python | 2167.3 | [link](https://github.com/vllm-project/vllm-omni) |
+| NVlabs/ProtoMotions | 1932 | Python | 772.9 | [link](https://github.com/NVlabs/ProtoMotions) |
 | vikashplus/robohive | 628 | Python | 251.3 | [link](https://github.com/vikashplus/robohive) |
-| mosaico-labs/mosaico | 885 | Python | 354.1 | [link](https://github.com/mosaico-labs/mosaico) |
-| Developer-Y/cs-video-courses | 82249 |  | 32899.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-07-03 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSa2d3a0hiWDBvOUNNWEZMbHk1bUpHVm9kdTRRbEVwdUgtMUdOX0xQcDBBNGxZV0p6eENuNkZjU25ndUJWRnFUMXhiaFdUOWFUd01keHhGMnZsMGI5OTFoQVRWR3JpSkE?oc=5) |
 | 2026-07-03 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0JBRVU0T3ZzUzhacVByakVuajBoLWZZWm02LVJoU2k2UFVwQkVMdGN0MDN0SXJSOWhCbFBKLW9HbnZWMWlvS2xGSnFwM3NiY0hLU0ZaMnlCLUkwRE9hVzgzdTM1ZUtNUkY0blBjT2FKcTBjS1RyQ0hyNEZXenZmellGYVlFdmxwdEE2T0hxaUw2blVwSzJ1NGgyeEs1aEVITWVfVzd2dkViRGRXdW9nOU1RazNTQ3k3aDEw0gG7AUFVX3lxTE1aVGtnUEEyYndxUDNGaDdKVFlJRDQ5cDRRdGktdjR6UV9obFhrZG5tbFVaMVJIQy12Zlotb0NDMVd3blBVeUNVU3NHMDktVS02SlJVUDBvTm9Sc1JoRXJfb252VGdZdnRTM2d1Z3RDbkpIdFdjbmFIUkxMenFKakdJZnN4ejA1TndoOGo4Z2F6ZG5fUHNBa051NWN6cEd2ck5TeDBvSHlEZkQyaVNldzJjSGdsQkl2ekpIb1k?oc=5) |
-| 2026-07-02 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdjdnU1ZuVDVkQmxlWmQ0TTdmMzhHbDdrdGF6Z0c2WUtxOWFRbzNNcTF6NGROVEpkWXVCejdvaDdVNFBJMFpMNEVNRjBrenlFZkhtcmV2U0JiLUNzM1VrdXFhdjhPTzh4TE5BWGdNQmxZNmtvd3J0SWNhZHdGTGZDTjVEdXVEZV80SkRwTFJZeHZMQm9nSUJRbEhKV0l4RFB1Tm1yNEhaZmttVlg5MnpwV0Ftb1lVazQtd3h6OVp5dy1GbTR3MlJuZFp4eldyeDBfN0FoNFJzR1lDbFBUMWhn?oc=5) |
+| 2026-07-02 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUFl6Y0hOcWFIbUdMU0FRMHJNMHFHRThUMThCYW9zRUs5SFNVcGkzRGd1VWdPSnZBVWtud1BoaUR6REtfYzVBYlp1cmNlbl80ZnZ6VGVUX0tCOU1UcHJ6LURkTzFWMlZpc2VKakdIbHlkdldmQUoycHViUnN4Z0tvWFRZeVNzOTh4eFBiQ1dSbjNXUnVBeXpGRW1HNUtMS3ZfT05sZXlJbEZKLUhRNDhDbXBubHhGN0ZEUk9ZMTF5STlMZ1VkdjZySGdESDBGejk0RGphZEVWVFpwLUNmTDRj?oc=5) |
 | 2026-07-02 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkxmNTktWHJsUmFLVHJqLWl4SnB6eUhoYnFVX3lWYlllM0NseHVVUDRhSFFua0g2bXZVZ29VbzBOYkRycDVxVDUzdjc0YkVPNEFBOG9tZldtdlBTMDVFZWZlbnZacG1mb09paldGTGdodU9zaTRLbF83YVFLdzQ5LUpMN3dOOFlDVlBEUGxNS2tVQTJhcTZpYWQ2WFduN3BBOThtdHhJdlFsSkNNNlVqS0VLQ2ZLQ1lo?oc=5) |
 | 2026-07-01 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHQ2WjZkRUJYVDYyQkZielpfRVZUXzdEQUJ3SWppMWVrN29GU1dfYlpvcFhfYnBTVHVtYUxRNnQ3TGFuZi1WLVM3SHBMMkpmc1lURFVVdTM1dGFUWkNlRU5CMUU3UlVGQVU0RUptUnpTSVVIWTE4ekhuUWpIRXFmSmdsQWh5dUF6WHlsYlR1Q3JZZGVoRjFVbGxqMHVQX1NmQmU2SC05UHdYcmhwNmp3dQ?oc=5) |
 | 2026-06-30 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9uZGhDeldLWDFSVUlXY1VBdzd0c3FCUVRkRkp0WWRyS3liZ1dCREZPTThFR1JjMGFpNmR5dFI1TmRiZWRiakdwNFBMVXhvOWs2NHVWUjNJa3kzZDlHdHBHazlueXVXYTB1NFlZTDkwNE9rYmZOZ3c?oc=5) |
-| 2026-06-29 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VQTBnQWxTYWhiMXlHcWF3MlZwaGMyMTVibDZGNjZUY3Fmb1Jza1hYWXFyY1lvODNIbzZmVGkxSUhTbUtqdmhsU19qUGpTS0VUYU5HbzJxUQ?oc=5) |
 | 2026-06-26 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUhnWGpNVDY2WXlERndBVU5LNC1IUWswZzFWM1M2TlNKcERxWFJCQVFiWk13RjFhdlRiMG1uYTlhZ19Rd3lBMXpQTUp1MW1qcC1lQml4blUxM1lKM1B0SGdjdmVDQ2dQT0VnczFDVDM2Ty1rNGFUUllOWnRRQzBBUGV0N042UlJIZU9KX2lmNGxYUDZuYXJVZDJ4bndGUUVCcEpLSQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnWmtfeGFLT3VCWk1VdVNPazJ6ZjBUbmp6Vk9DOGo5aFNDOUFIb3U2RDZMLXFick1TMkZmX0k0VXRodWc2V1owYi16bEZtV3A1MHVoTFB5UWVSN1AxN2Q4?oc=5) |
+| 2026-06-25 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWdHp1UlRLWl9ZUzJHSGY2VlRIOUFaNVZKRTcySlc2RHBScldncHpDb3Uyc1A0cDhzMENHRzJGaURCU3dtT3dqZkhtejJlMXZaWHNFR0VBbw?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
