@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-04 05:32 UTC
+Generated: 2026-07-04 08:16 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-07-04 05:32 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82247 | 32898.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82249 | 32899.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 62961 | 25184.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44184 | 17673.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 29942 | 11976.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15975 | 6390.1 | [link](https://github.com/zauberzeug/nicegui) |
+| AtsushiSakai/PythonRobotics | 29944 | 11977.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15976 | 6390.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -26,7 +26,7 @@ Generated: 2026-07-04 05:32 UTC
 | pollen-robotics/wake-word-detector | 1578 | 473.5 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
 | IffYuan/Embodied-R1.5 | 745 | 223.6 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 251 | 77.2 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
-| BrinqAI/functiongemma-270m-physical-ai | 248 | 74.5 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
+| BrinqAI/functiongemma-270m-physical-ai | 254 | 76.3 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 234 | 71.9 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
 
 ## Top Funding Rounds
@@ -34,8 +34,8 @@ Generated: 2026-07-04 05:32 UTC
 | --- | --- | --- | --- |
 | 2026-07-03 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSa2d3a0hiWDBvOUNNWEZMbHk1bUpHVm9kdTRRbEVwdUgtMUdOX0xQcDBBNGxZV0p6eENuNkZjU25ndUJWRnFUMXhiaFdUOWFUd01keHhGMnZsMGI5OTFoQVRWR3JpSkE?oc=5) |
 | 2026-07-03 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0JBRVU0T3ZzUzhacVByakVuajBoLWZZWm02LVJoU2k2UFVwQkVMdGN0MDN0SXJSOWhCbFBKLW9HbnZWMWlvS2xGSnFwM3NiY0hLU0ZaMnlCLUkwRE9hVzgzdTM1ZUtNUkY0blBjT2FKcTBjS1RyQ0hyNEZXenZmellGYVlFdmxwdEE2T0hxaUw2blVwSzJ1NGgyeEs1aEVITWVfVzd2dkViRGRXdW9nOU1RazNTQ3k3aDEw0gG7AUFVX3lxTE1aVGtnUEEyYndxUDNGaDdKVFlJRDQ5cDRRdGktdjR6UV9obFhrZG5tbFVaMVJIQy12Zlotb0NDMVd3blBVeUNVU3NHMDktVS02SlJVUDBvTm9Sc1JoRXJfb252VGdZdnRTM2d1Z3RDbkpIdFdjbmFIUkxMenFKakdJZnN4ejA1TndoOGo4Z2F6ZG5fUHNBa051NWN6cEd2ck5TeDBvSHlEZkQyaVNldzJjSGdsQkl2ekpIb1k?oc=5) |
-| 2026-07-03 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQS2M2eG9JVHNzMHBWNjdfMTdwVjdJeXdnT2szSkFPN2Y4OTAzeUNiMVMtdGF0RnF1VUlzV2xXVzRIRFpSNVA0MHBRenRmTWM4S0Y4VzdnVnBnSWJJdDViN1AyYU5IVE4wdnRsekdhRG5WZnNTOVBUVHo2clM5SElHYi1RSEpGajdhNkJuZDd0Qi1MOUlxcHpxSk1iVGhYQzNLVjRGYW52SzNiLUQyU2xlWFRRVy1kaG5WbzgtdXJ2RGVWTnJYWE8zM1JDUDdTWVR0Q3V5WVF3eW41VS1fNXV1WGlEVFc5VUY3WW5ydlNMWkxjT2FhYU1Rc093RW9CZU5KSEtuV1oydTFxNmM?oc=5) |
 | 2026-07-02 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdjdnU1ZuVDVkQmxlWmQ0TTdmMzhHbDdrdGF6Z0c2WUtxOWFRbzNNcTF6NGROVEpkWXVCejdvaDdVNFBJMFpMNEVNRjBrenlFZkhtcmV2U0JiLUNzM1VrdXFhdjhPTzh4TE5BWGdNQmxZNmtvd3J0SWNhZHdGTGZDTjVEdXVEZV80SkRwTFJZeHZMQm9nSUJRbEhKV0l4RFB1Tm1yNEhaZmttVlg5MnpwV0Ftb1lVazQtd3h6OVp5dy1GbTR3MlJuZFp4eldyeDBfN0FoNFJzR1lDbFBUMWhn?oc=5) |
+| 2026-07-02 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkxmNTktWHJsUmFLVHJqLWl4SnB6eUhoYnFVX3lWYlllM0NseHVVUDRhSFFua0g2bXZVZ29VbzBOYkRycDVxVDUzdjc0YkVPNEFBOG9tZldtdlBTMDVFZWZlbnZacG1mb09paldGTGdodU9zaTRLbF83YVFLdzQ5LUpMN3dOOFlDVlBEUGxNS2tVQTJhcTZpYWQ2WFduN3BBOThtdHhJdlFsSkNNNlVqS0VLQ2ZLQ1lo?oc=5) |
 | 2026-07-01 | Apptronik |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHQ2WjZkRUJYVDYyQkZielpfRVZUXzdEQUJ3SWppMWVrN29GU1dfYlpvcFhfYnBTVHVtYUxRNnQ3TGFuZi1WLVM3SHBMMkpmc1lURFVVdTM1dGFUWkNlRU5CMUU3UlVGQVU0RUptUnpTSVVIWTE4ekhuUWpIRXFmSmdsQWh5dUF6WHlsYlR1Q3JZZGVoRjFVbGxqMHVQX1NmQmU2SC05UHdYcmhwNmp3dQ?oc=5) |
 
 ## Most Active Companies

@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-04 05:32 UTC
+Last Updated: 2026-07-04 08:16 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-04 | Warp Point: a Web Ring for Gaming Sites Built for 2026 | Hackaday | [link](https://hackaday.com/2026/07/04/warp-point-a-web-ring-for-gaming-sites-built-for-2026/) |
 | 2026-07-04 | Building A Wireless Fingerprint Authorization Device | Hackaday | [link](https://hackaday.com/2026/07/03/building-a-wireless-fingerprint-authorization-device/) |
 | 2026-07-04 | Microdistillery for Microchemistry | Hackaday | [link](https://hackaday.com/2026/07/03/microdistillery-for-microchemistry/) |
 | 2026-07-04 | BIGTREETECH Panda Sense Pro 8-in-1 smart air quality monitor works with Home Assistant and Klipper for 3D printers | CNX Software | [link](https://www.cnx-software.com/2026/07/04/bigtreetech-panda-sense-pro-8-in-1-smart-air-quality-monitor-works-with-home-assistant-and-klipper-for-3d-printers/) |
@@ -56,7 +57,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-03 | This KVM runs a P4 instead of a Pi. | Hackaday | [link](https://hackaday.com/2026/07/03/this-kvm-runs-a-p4-instead-of-a-pi/) |
 | 2026-07-03 | Settling the Debate on Soldered versus Crimped High-Current Connectors | Hackaday | [link](https://hackaday.com/2026/07/03/settling-the-debate-on-soldered-versus-crimped-high-current-connectors/) |
 | 2026-07-03 | Hackaday Podcast Episode 376: Modern Retro Projects, Retro Modern Projects, and the Teen Years for 3D Printing | Hackaday | [link](https://hackaday.com/2026/07/03/hackaday-podcast-episode-376-modern-retro-projects-retro-modern-projects-and-the-teen-years-for-3d-printing/) |
-| 2026-07-03 | The Organ That Forgot To Use Transistors | Hackaday | [link](https://hackaday.com/2026/07/03/the-organ-that-forgot-to-use-transistors/) |
 | 2026-07-03 | HALO TOUCH V2 – A customizable desktop USB hub with rotary encoder fitted with round touchscreen display | CNX Software | [link](https://www.cnx-software.com/2026/07/03/halo-touch-v2-a-customizable-desktop-usb-hub-with-rotary-encoder-fitted-with-round-touchscreen-display/) |
 | 2026-07-03 | ESP32-C5 dual-band WiFi 6 and Bluetooth LE IoT board features 1.47-inch color LCD | CNX Software | [link](https://www.cnx-software.com/2026/07/03/esp32-c5-dual-band-wifi-6-and-bluetooth-le-iot-board-features-1-47-inch-color-lcd/) |
 
@@ -93,22 +93,22 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | commaai/openpilot | 62961 | Python | 25184.5 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15412 | C++ | 6164.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| isaac-sim/IsaacLab | 7600 | Python | 3040.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| isaac-sim/IsaacLab | 7601 | Python | 3040.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3820 | Rust | 1528.1 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 350 | HTML | 140.1 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5414 | Python | 2165.7 | [link](https://github.com/vllm-project/vllm-omni) |
-| NVlabs/ProtoMotions | 1928 | Python | 771.3 | [link](https://github.com/NVlabs/ProtoMotions) |
+| vllm-project/vllm-omni | 5417 | Python | 2166.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| NVlabs/ProtoMotions | 1930 | Python | 772.1 | [link](https://github.com/NVlabs/ProtoMotions) |
 | vikashplus/robohive | 628 | Python | 251.3 | [link](https://github.com/vikashplus/robohive) |
 | mosaico-labs/mosaico | 885 | Python | 354.1 | [link](https://github.com/mosaico-labs/mosaico) |
-| Developer-Y/cs-video-courses | 82247 |  | 32898.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82249 |  | 32899.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-07-03 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSa2d3a0hiWDBvOUNNWEZMbHk1bUpHVm9kdTRRbEVwdUgtMUdOX0xQcDBBNGxZV0p6eENuNkZjU25ndUJWRnFUMXhiaFdUOWFUd01keHhGMnZsMGI5OTFoQVRWR3JpSkE?oc=5) |
 | 2026-07-03 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0JBRVU0T3ZzUzhacVByakVuajBoLWZZWm02LVJoU2k2UFVwQkVMdGN0MDN0SXJSOWhCbFBKLW9HbnZWMWlvS2xGSnFwM3NiY0hLU0ZaMnlCLUkwRE9hVzgzdTM1ZUtNUkY0blBjT2FKcTBjS1RyQ0hyNEZXenZmellGYVlFdmxwdEE2T0hxaUw2blVwSzJ1NGgyeEs1aEVITWVfVzd2dkViRGRXdW9nOU1RazNTQ3k3aDEw0gG7AUFVX3lxTE1aVGtnUEEyYndxUDNGaDdKVFlJRDQ5cDRRdGktdjR6UV9obFhrZG5tbFVaMVJIQy12Zlotb0NDMVd3blBVeUNVU3NHMDktVS02SlJVUDBvTm9Sc1JoRXJfb252VGdZdnRTM2d1Z3RDbkpIdFdjbmFIUkxMenFKakdJZnN4ejA1TndoOGo4Z2F6ZG5fUHNBa051NWN6cEd2ck5TeDBvSHlEZkQyaVNldzJjSGdsQkl2ekpIb1k?oc=5) |
-| 2026-07-03 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQS2M2eG9JVHNzMHBWNjdfMTdwVjdJeXdnT2szSkFPN2Y4OTAzeUNiMVMtdGF0RnF1VUlzV2xXVzRIRFpSNVA0MHBRenRmTWM4S0Y4VzdnVnBnSWJJdDViN1AyYU5IVE4wdnRsekdhRG5WZnNTOVBUVHo2clM5SElHYi1RSEpGajdhNkJuZDd0Qi1MOUlxcHpxSk1iVGhYQzNLVjRGYW52SzNiLUQyU2xlWFRRVy1kaG5WbzgtdXJ2RGVWTnJYWE8zM1JDUDdTWVR0Q3V5WVF3eW41VS1fNXV1WGlEVFc5VUY3WW5ydlNMWkxjT2FhYU1Rc093RW9CZU5KSEtuV1oydTFxNmM?oc=5) |
 | 2026-07-02 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdjdnU1ZuVDVkQmxlWmQ0TTdmMzhHbDdrdGF6Z0c2WUtxOWFRbzNNcTF6NGROVEpkWXVCejdvaDdVNFBJMFpMNEVNRjBrenlFZkhtcmV2U0JiLUNzM1VrdXFhdjhPTzh4TE5BWGdNQmxZNmtvd3J0SWNhZHdGTGZDTjVEdXVEZV80SkRwTFJZeHZMQm9nSUJRbEhKV0l4RFB1Tm1yNEhaZmttVlg5MnpwV0Ftb1lVazQtd3h6OVp5dy1GbTR3MlJuZFp4eldyeDBfN0FoNFJzR1lDbFBUMWhn?oc=5) |
+| 2026-07-02 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkxmNTktWHJsUmFLVHJqLWl4SnB6eUhoYnFVX3lWYlllM0NseHVVUDRhSFFua0g2bXZVZ29VbzBOYkRycDVxVDUzdjc0YkVPNEFBOG9tZldtdlBTMDVFZWZlbnZacG1mb09paldGTGdodU9zaTRLbF83YVFLdzQ5LUpMN3dOOFlDVlBEUGxNS2tVQTJhcTZpYWQ2WFduN3BBOThtdHhJdlFsSkNNNlVqS0VLQ2ZLQ1lo?oc=5) |
 | 2026-07-01 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHQ2WjZkRUJYVDYyQkZielpfRVZUXzdEQUJ3SWppMWVrN29GU1dfYlpvcFhfYnBTVHVtYUxRNnQ3TGFuZi1WLVM3SHBMMkpmc1lURFVVdTM1dGFUWkNlRU5CMUU3UlVGQVU0RUptUnpTSVVIWTE4ekhuUWpIRXFmSmdsQWh5dUF6WHlsYlR1Q3JZZGVoRjFVbGxqMHVQX1NmQmU2SC05UHdYcmhwNmp3dQ?oc=5) |
 | 2026-06-30 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9uZGhDeldLWDFSVUlXY1VBdzd0c3FCUVRkRkp0WWRyS3liZ1dCREZPTThFR1JjMGFpNmR5dFI1TmRiZWRiakdwNFBMVXhvOWs2NHVWUjNJa3kzZDlHdHBHazlueXVXYTB1NFlZTDkwNE9rYmZOZ3c?oc=5) |
 | 2026-06-29 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VQTBnQWxTYWhiMXlHcWF3MlZwaGMyMTVibDZGNjZUY3Fmb1Jza1hYWXFyY1lvODNIbzZmVGkxSUhTbUtqdmhsU19qUGpTS0VUYU5HbzJxUQ?oc=5) |
