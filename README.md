@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-04 15:51 UTC
+Last Updated: 2026-07-04 16:46 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-04 | YinonDouchan/smolvla_mobile_robot_lift_turn_to_cube | 177 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_turn_to_cube) |
 | 2026-07-04 | hxma/InternVLA-A1.5-Robotwin | 0 | 0 | [link](https://huggingface.co/hxma/InternVLA-A1.5-Robotwin) |
 | 2026-07-04 | anhtld/vla | 0 | 1 | [link](https://huggingface.co/anhtld/vla) |
 | 2026-07-04 | macv666/entropy-vla-grpo-logs | 0 | 0 | [link](https://huggingface.co/macv666/entropy-vla-grpo-logs) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-04 | simonholmes001/my_policy_cube-dataset-60-v2 | 0 | 0 | [link](https://huggingface.co/simonholmes001/my_policy_cube-dataset-60-v2) |
 | 2026-07-04 | frfr80/hg-policy-repo-folder | 0 | 0 | [link](https://huggingface.co/frfr80/hg-policy-repo-folder) |
 | 2026-07-04 | jovaldivieso/double_integrator_casadi_diffusion_policy | 200 | 1 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
-| 2026-07-04 | dara-dara/my_policy | 0 | 0 | [link](https://huggingface.co/dara-dara/my_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -97,10 +97,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | isaac-sim/IsaacLab | 7601 | Python | 3040.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3821 | Rust | 1528.5 | [link](https://github.com/dora-rs/dora) |
 | huangjunsen0406/py-xiaozhi | 3387 | Python | 1354.9 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
+| StanfordVL/BEHAVIOR-1K | 1548 | Python | 619.3 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | flashrt-project/FlashRT | 393 | C++ | 157.3 | [link](https://github.com/flashrt-project/FlashRT) |
 | luohongk/Embodied-AI-Daily | 358 | HTML | 143.3 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| sou350121/VLA-Handbook | 351 | HTML | 140.5 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5423 | Python | 2169.3 | [link](https://github.com/vllm-project/vllm-omni) |
+| sou350121/VLA-Handbook | 352 | HTML | 140.9 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -122,13 +122,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-03 | TAP: Unlocking Embodied AI with Task-Agnostic Pretraining - StartupHub.ai | vision language action startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSjl4Z0ozZnNzVVdQc3I1eV9OM2E3ODM2Qi0xV0FLUWo3RzM1UmpPNk42Zk5oOHRIaXVHcXY2eTFPLTJzS2xMVVNpSFpRYXB3RmRyUVlGWWk1UHdwV1pDS1ZBUUN0dnBKMi1ndW9RVUZfYjFiZ0JpenA3by13eTQxSURaYXJNZXFfX1pIaWlXa3NiRHN4TVdVNjRibEdCTmM3eExKTWNTZHVEZmc?oc=5) |
 | 2026-07-03 | Tesla trade secret suit settled as robot hand startup raises $11M - Memeburn | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVZSb3JNWVpHeEQ5TlNRMzRwSU9zUDhyeU9DWWZEN19vV3Z1Q2R2SVFnRjNmbGZjWjFpQmZQd0RRZGdtVDRGdFVxaXJQMTFLNURXdUkzY0tVd1F0RDM3SEVHallOVk1nTElzRklpZTJnZUZvdlZmNGN2OEhaUzkxMjNJZnh0T1hKUmZ6M1UzYw?oc=5) |
 | 2026-07-02 | Jeff Bezos' family office backed five AI startups in June - CNBC | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYm1rQXN5X3luU1p5ZE9tQW4tTm1zeTVubG94dG4xX1pIVkRpaG9wZHZpSlVHYW9GSUo5T0NPU0dzT2Q2ZVZNcF94dlp6Ti1wUXZTbmFCZFZkYUJqTXVheEl1N1MyY2xJdl9QYnZsQWpjcHNmaWdTTjZLdWhoTWczQ2ZQVGRueTlIZEswa2dZZkIxV2s0ZTlaQdIBngFBVV95cUxOYjNkUUFNY1F6S3dZMS14czU2WWMyejFhLTZQT0pOSGdOeEpNcEtTaFRuLURjUG5JU1BUTEozd2pqTU5KOU1Pc1NINmE0RUNXYWU3Z2tyclkwRGZBTkRKbVhtSWxFaVRvVTNESlUyYUxOMHU0QzBsME8xXzF0Yjk4OTdueU9fM0VkNWJDMVhINTVhODhJOENPTE8tczFxQQ?oc=5) |
+| 2026-07-02 | Bezos Family Office Backed Five AI Startups in June - Briefs Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaERnTklqbXpSNjI0OGU1Nm1MZlY3R0IxeERWaWpsTWdXTmpLa3dVZ3Y3T1pCSXNvQWgzX2FlMTRwX192SjA3UzBkYTFYY1hVM3drQ0hSQUdxZXFWXzBCV1hzQng0VHM0YXNZdGJ5MDZsclRRNkhtNzB6dzctQ281WDRWc3ZxZWhqODJKNFFickVJQVRzdkJkYWRiUDQ?oc=5) |
+| 2026-07-02 | YC-Selected Startups Reveal AI Shift to Robotics, U.S. Dominance - 조선일보 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTR5R1dCOFdUWnhSV09wMmNWb21qdFZ3NFMtZlRsdnRmTFB5d3hIQW5UdnVIYWw4ZVRoYnNVZTNLYmtCektpN1g5RUJPSkwwMkZJWmFNWFJqMmFzcjRFQWw4cml3c19KRm9aLXJtdnBuXzZ4dnZmcjNTRGI1bDc0bVIzcmNkcE11?oc=5) |
 | 2026-07-02 | Ontario startup's humanoid robots aim to replace 'backbreaking' and dangerous work - Financial Post | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2VzM3plUEVmNzJGTW9MdFFPMUhYd0lxbkh1X1I3YVZUU3RPWGhiSy1qMGQzU211Rm0wclBURjN5TnlGRlhaRFNDVTBWTVBtNXc5NkxhT2tuQTVMRUE2U1RkT0xoTWlOaEJUQzUtMzFOVDlfU1JKSzV6WExENGVWZEF2Mkt5WmthSDJaQlRUMjU?oc=5) |
 | 2026-07-01 | East Ventures invests in Thai physical AI startup Amity Robotics - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxORkU4VHJFcTN5SXlLWHhwbXhCZWl3dDlnWnVQYkpjRy0yd2xxSmw0aDh4cFlKV0ZtQlB6Ql8xVzRKYVE3WHR2ZHNKMkVqTVdnZEtGVkh2eENubVpJM3RESDBfQ1IzMWtobUp3bU5taEJMQk5jSVJ3eVA1UGRDUW5weXp5aERMN3NBbDJZdWc2ZGdhN2lfWUNYcy1kWUtjeUMyS0VJQWRsc1k5V3hWOEw0?oc=5) |
 | 2026-07-01 | This Embodied AI Startup Completes Series C Funding With A $2.94B Valuation - Benzinga | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWp3Ty1YaFYzS19jQUZ0VjAtWE8wZ3NlWEVEY0hXenV6MDR4WXUySGJUM3VwcE9wcnh6bnV4MXE5SEpQZXk3OWc4QTU4MHNQVy0zazlxYzhqeUNjeFU2cXJjSWpoeVdwNXdETTdJMHpveDNMZjNDMHdKR1VQNmJxWXppdmVPNjNfQ29Gc0Q1TzZfR0kwOUhVdkgwVGplejNidXhiMVF6MXctVVdscjVicmYzeS12endoaG5QNjdqSQ?oc=5) |
 | 2026-07-01 | Chinese Startup X Square Robot Hits 20 Billion Yuan Valuation - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2gxQVNvYThZeVZiUzBaeFc3R1NpUDJ1Tks1X0dITmd3cDhHY21WamxFWHg0VzNJcXJrdl80X2poeFI0NnBCYTlndTlWMVlmZFlfZWU5MnV0Z1ExbF9QaHNOZXlkbXJMWHlncjAzUFJMSGw4ejdLbnMxUmljSDBzT1hCdFkzRTVnSVhVMG1Hd0dKbE9JN3dwVU1oZUt4RTR6VjNBYlJMWFR2bUNLd0NZb250MHVtaGM?oc=5) |
 | 2026-06-30 | Japan announces aid for domestic AI development project - The Japan Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxON2thNi1JNzkyUnEtZEh1SUMxNGF3R2pPWWRqMWpZeHVfVG55ckx1T0RvYVJxMzFBLV9XWDNZdlpMUGNFMm9pVkF2MU9kY0h0MTByVXNYeTg3cUttR1FaUXRLWGplOUlvdk4tdUUxal9LZ2JwWk9iS2FJdFd0Nk9yV1NtMEo1d3JhOGpidmZtQQ?oc=5) |
-| 2026-06-30 | 6 Months, 15 Embodied AI Startups with Valuation Exceeding $10 Billion - 36 Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5td2VxYmFPZWhBMWFYVGJHeDhfOHVWdzhGVTVfaHg5cDZGMFJxQzJ4ZFg1UHhMWmlMZ2E0VVVaUUkzejJGY09wNl9MLW9pQ0pHZ3pZ?oc=5) |
-| 2026-06-30 | Greater Bay Area mints two unicorns as embodied AI boom continues - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTFA4WkVCdGhPSVpNd0QyM1dEUkd5T2xJRi05NkFwdHNBakp1Zk9acTRWLW8wbkRhM3d0YkVVRnpwSEk0anc3M0lrUG1hdTh2REc1a2xkeUxzTkZPMmpISHFSajBRSEFONEhHZ1NyQ2VwMVR2ZVZwTHpRTjFodm12ZFk?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
