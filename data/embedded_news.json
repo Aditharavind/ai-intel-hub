@@ -1,5 +1,12 @@
 [
   {
+    "title": "Seeing Bacteria, Nanoprisms, and More with an Atomic Force Microscope",
+    "source": "Hackaday",
+    "date": "2026-07-05",
+    "url": "https://hackaday.com/2026/07/05/seeing-bacteria-nanoprisms-and-more-with-an-atomic-force-microscope/",
+    "summary": "<div><img alt=\"A series of six sepia-tinted micrographs is shown. The images show the surface of a piece of steel after various etching treatments.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/atomic_force_microscope_thumb.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Unlike almost every other kind of microscope, atomic-force microscopes (AFMs) don’t use any kind of optical beam to image their subjects. Instead, they physically detect the subject’s surface with a <a class=\"read-more\" href=\"https://hackaday.com/2026/07/05/seeing-bacteria-nanoprisms-and-more-with-an-atomic-force-microscope/\">&#8230;read more</a>"
+  },
+  {
     "title": "Demonstrating LFP Battery Safety in Case of BMS Failure",
     "source": "Hackaday",
     "date": "2026-07-05",
@@ -49,11 +56,11 @@
     "summary": "<div><img alt=\"ESP32-P4 MacOS emulator\" class=\"attachment-medium size-medium wp-post-image\" height=\"491\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/ESP32-P4-MacOS-emulator-720x491.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ESP32 chips have been used for retro gaming and computing for years, but Austin McChord (Amcchord) adds to that with a Macintosh emulator ported to a couple of ESP32-P4 display devkits. His project is a full port of the BasiliskII Macintosh 68k emulator, bringing classic Mac OS (System 7.x through Mac OS 8.1) to portable ESP32-P4 embedded devices with touchscreen, USB peripherals, and WiFi support through an ESP32-C6 on the boards. The main development platform appears to be the M5Stack Tab5 equipped with a 5-inch touchscreen display with 1280×720 resolution. However, if you need something with a larger screen, the Waveshare ESP32-P4-WIFI6-Touch-LCD-10.1 is also supported, and features a 10.1-inch display with 1280&#215;800 resolution and a 10-point capacitive touchscreen. The actual Mac OS resolutions used are 640&#215;360 and 640&#215;400, respectively, then scaled twice to the native resolution of the display. Highlights of the project: CPU &#8211;  Motorola 68040 emulation with FPU (68881) [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/05/macintosh-emulator-works-on-esp32-p4-display-devkits-from-m5stack-and-waveshare/\">Macintosh emulator works on ESP32-P4 display devkits from M5Stack and Waveshare</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Using Flatpak to Run a 1996 Version of the GIMP on Modern Linux",
-    "source": "Hackaday",
-    "date": "2026-07-04",
-    "url": "https://hackaday.com/2026/07/04/using-flatpak-to-run-a-1996-version-of-the-gimp-on-modern-linux/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"601\" src=\"https://hackaday.com/wp-content/uploads/2026/07/gimp_0.54_screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although there&#8217;s probably no good reason to want to run image editing software from 1996 other than for nostalgia&#8217;s sake, if you ever wanted to run the GIMP version 0.54 <a class=\"read-more\" href=\"https://hackaday.com/2026/07/04/using-flatpak-to-run-a-1996-version-of-the-gimp-on-modern-linux/\">&#8230;read more</a>"
+    "title": "Adafruit Weekly Editorial Round-Up: & WipperSnapper for Raspberry Pi, Learn Code Element Updates, & more!",
+    "source": "Adafruit",
+    "date": "2026-07-05",
+    "url": "https://blog.adafruit.com/2026/07/05/adafruit-weekly-editorial-round-up-wippersnapper-for-raspberry-pi-learn-code-element-updates-more/",
+    "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. WipperSnapper for Raspberry Pi, Learn [&#8230;]"
   },
   {
     "title": "BIGTREETECH Panda Sense Pro 8-in-1 smart air quality monitor works with Home Assistant and Klipper for 3D printers",
@@ -110,6 +117,76 @@
     "date": "2026-07-03",
     "url": "https://www.embedded.com/flux-report-examines-challenges-of-ai-generated-code-in-production/",
     "summary": "<p>Flux has released its AI Code Generation Reality Check, an independent study examining how organizations are adopting AI-generated software while managing the associated risks. Conducted by Dimensional Research, the survey collected responses from 309 engineering leaders and practitioners across five continents and highlights a growing gap between the widespread use of AI-assisted coding and organizations' [...]</p>\n<p>The post <a href=\"https://www.embedded.com/flux-report-examines-challenges-of-ai-generated-code-in-production/\">Flux Report Examines Challenges of AI-Generated Code in Production</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "TDK E13 EM IGBT/FET gate drive transformers for xEV platforms",
+    "source": "Electronics Weekly",
+    "date": "2026-07-03",
+    "url": "https://www.electronicsweekly.com/news/products/power-supplies/tdk-e13-em-igbt-fet-gate-drive-transformers-for-xev-platforms-2026-07/",
+    "summary": "<p>TDK is introducing its E13 EM series of IGBT/FET gate drive transformers, designed for automotive 500-V battery systems. They are qualified to AEC-Q200 Rev. E and designed for operation from ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/power-supplies/tdk-e13-em-igbt-fet-gate-drive-transformers-for-xev-platforms-2026-07/\">TDK E13 EM IGBT/FET gate drive transformers for xEV platforms</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Dithering",
+    "source": "Electronics Weekly",
+    "date": "2026-07-03",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/dithering-2026-07/",
+    "summary": "<p>Europe&#8217;s involvement in the semiconductor industry has always an on-off, hot-cold, up-and-down kind of thing. The  November 11th 1996 edition of Electronics Weekly carried this piece: ‘During the 1970s and ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/dithering-2026-07/\">Dithering</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Sony becomes Promoter member for MIPI Alliance",
+    "source": "Electronics Weekly",
+    "date": "2026-07-03",
+    "url": "https://www.electronicsweekly.com/news/products/sensors-products/sony-becomes-promoter-member-for-mipi-alliance-2026-07/",
+    "summary": "<p>Sony Semiconductor is strengthening its relationship with the MIPI Alliance. It is becoming the newest Promoter member for the wired interface standards body. With the appointment, Sony obtains a seat ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/sensors-products/sony-becomes-promoter-member-for-mipi-alliance-2026-07/\">Sony becomes Promoter member for MIPI Alliance</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Sponsored Content: Power System Reliability in Extreme Cold with -65°C Aluminum Electrolytic Capacitors",
+    "source": "Electronics Weekly",
+    "date": "2026-07-03",
+    "url": "https://www.electronicsweekly.com/news/sponsored-content-power-system-reliability-in-extreme-cold-how-65c-aluminum-electrolytic-capacitors-support-mission-critical-electronics-2026-07/",
+    "summary": "<p>Extreme cold environments place unprecedented demands on power systems, making the low-temperature performance of aluminum electrolytic capacitors a critical factor in overall system reliability. I. In extreme cold environments, power ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/sponsored-content-power-system-reliability-in-extreme-cold-how-65c-aluminum-electrolytic-capacitors-support-mission-critical-electronics-2026-07/\">Sponsored Content: Power System Reliability in Extreme Cold with -65°C Aluminum Electrolytic Capacitors</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Raytheon eyes large-aperture telescope for Lazuli Space Observatory",
+    "source": "Electronics Weekly",
+    "date": "2026-07-03",
+    "url": "https://www.electronicsweekly.com/news/business/raytheon-eyes-large-aperture-telescope-for-lazuli-space-observatory-2026-07/",
+    "summary": "<p>Raytheon has announced it is developing a large-aperture telescope for the Lazuli Space Observatory, part of The Eric and Wendy Schmidt Observatory System at Schmidt Sciences. It features on orbit‑tuning ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/raytheon-eyes-large-aperture-telescope-for-lazuli-space-observatory-2026-07/\">Raytheon eyes large-aperture telescope for Lazuli Space Observatory</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Most Read – Memory output, AI supply chain, Apple DRAM",
+    "source": "Electronics Weekly",
+    "date": "2026-07-03",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-memory-output-ai-supply-chain-apple-dram-2026-07/",
+    "summary": "<p>The most read stories on the site cover South Korea planning to double memory output, top Internet content creator's earnings, and  the Pax Silica semiconductor and AI supply chain summit.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-memory-output-ai-supply-chain-apple-dram-2026-07/\">Most Read &#8211; Memory output, AI supply chain, Apple DRAM</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Kioxia sampling 332-layer NAND chip",
+    "source": "Electronics Weekly",
+    "date": "2026-07-03",
+    "url": "https://www.electronicsweekly.com/news/business/kioxia-starts-production-of-332-layer-nand-chip-2026-07/",
+    "summary": "<p>Earlier today, Kioxia held a ceremony at its Kitakami fab in Iwate prefecture to mark the start of production of its 10th generation of BiCS Flash. The company is already ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/kioxia-starts-production-of-332-layer-nand-chip-2026-07/\">Kioxia sampling 332-layer NAND chip</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Apple looking to extend phone share",
+    "source": "Electronics Weekly",
+    "date": "2026-07-03",
+    "url": "https://www.electronicsweekly.com/news/business/apple-looking-to-extend-phone-share-2026-07/",
+    "summary": "<p>Apple is said to be preparing to capitalise on its superior procurement clout at a time of component supply shortage to go for a boost to its smartphone market share. ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/apple-looking-to-extend-phone-share-2026-07/\">Apple looking to extend phone share</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "EU struggles to strengthen chip sector",
+    "source": "Electronics Weekly",
+    "date": "2026-07-03",
+    "url": "https://www.electronicsweekly.com/news/business/eu-struggles-to-strengthen-chip-sector-2026-07/",
+    "summary": "<p>The EU has come up with another initiative aimed at solving the problem of the continent’s vulnerability to chips supply shortages. The Chips Diplomacy Support Initiative (CHIPDIPLO) is an 18-month ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/eu-struggles-to-strengthen-chip-sector-2026-07/\">EU struggles to strengthen chip sector</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Socionext 14nm chiplet will validate leading-edge designs",
+    "source": "Electronics Weekly",
+    "date": "2026-07-03",
+    "url": "https://www.electronicsweekly.com/news/business/socionext-4-2026-07/",
+    "summary": "<p>Socionext has developed a compute chiplet in TSMC’s A14 process technology. As part of this initiative, Socionext plans to tape out a multi-core device in September 2026. This chip will ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/socionext-4-2026-07/\">Socionext 14nm chiplet will validate leading-edge designs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Impactful U.S. Inventions #4thOfJuly #AmericanInventions",
@@ -243,13 +320,6 @@
     "date": "2026-07-02",
     "url": "https://blog.adafruit.com/2026/07/02/blackberry-pi-handheld-cyberdeck-3dprinting-3dthursday/",
     "summary": "imbalence shares: A retro-style Pi-powered handheld designed by IMBalENce — featured by Tom Nardi on Hackaday — that channels the form factor of a Blackberry. Compact, BlackBerry-keyboard-inspired ergonomics, ideal for portable Linux tinkering. Full project writeup linked from the model page download the files on: https://makerworld.com/en/models/724923-blackberry-pi-handheld-cyberdeck Every Thursday is #3dthursday here at Adafruit! The DIY [&#8230;]"
-  },
-  {
-    "title": "Handheld Foldable Cyberdeck – CyberPlug 3.0 #3Dprinting #3DThursday",
-    "source": "Adafruit",
-    "date": "2026-07-02",
-    "url": "https://blog.adafruit.com/2026/07/02/handheld-foldable-cyberdeck-cyberplug-3-0-3dprinting-3dthursday/",
-    "summary": "PickentCode shared this on MakerWorld! My cyberdeck journey started because I wanted to build a portable computer where I can connect electronic sensors and parts directly to the computer. The first 2 versions had issues that made them unpleasant to use, so I designed the third one (hopefully the last one). Learn more: https://makerworld.com/en/models/2347393-handheld-foldable-cyberdeck-cyberplug-3-0 Every [&#8230;]"
   },
   {
     "title": "Introspect Technology Introduces Second-Generation DDR/LPDDR Protocol Analyzer Offering the Highest Sampling Rate in the Industry",
