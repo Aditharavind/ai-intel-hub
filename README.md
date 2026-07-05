@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-05 01:30 UTC
+Last Updated: 2026-07-05 05:50 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-05 | Make a DIY E-ink Faceplate For Valve’s Steam Machine | Hackaday | [link](https://hackaday.com/2026/07/04/make-a-diy-e-ink-faceplate-for-valves-steam-machine/) |
+| 2026-07-05 | The Persistent Display We Never Got | Hackaday | [link](https://hackaday.com/2026/07/04/the-persistent-display-we-never-got/) |
 | 2026-07-04 | Using Flatpak to Run a 1996 Version of the GIMP on Modern Linux | Hackaday | [link](https://hackaday.com/2026/07/04/using-flatpak-to-run-a-1996-version-of-the-gimp-on-modern-linux/) |
 | 2026-07-04 | Disk Polishing Goes Open Source | Hackaday | [link](https://hackaday.com/2026/07/04/disk-polishing-goes-open-source/) |
 | 2026-07-04 | Time Never Moves Slowly With This Clock | Hackaday | [link](https://hackaday.com/2026/07/04/time-never-moves-slowly-with-this-clock/) |
 | 2026-07-04 | Yesterday’s Technology, Re-engineered Today | Hackaday | [link](https://hackaday.com/2026/07/04/yesterdays-technology-re-engineered-today/) |
 | 2026-07-04 | Five Solar Air Heating Methods Tested | Hackaday | [link](https://hackaday.com/2026/07/04/five-solar-air-heating-methods-tested/) |
-| 2026-07-04 | Warp Point: a Web Ring for Gaming Sites Built for 2026 | Hackaday | [link](https://hackaday.com/2026/07/04/warp-point-a-web-ring-for-gaming-sites-built-for-2026/) |
-| 2026-07-04 | Building A Wireless Fingerprint Authorization Device | Hackaday | [link](https://hackaday.com/2026/07/03/building-a-wireless-fingerprint-authorization-device/) |
 | 2026-07-04 | BIGTREETECH Panda Sense Pro 8-in-1 smart air quality monitor works with Home Assistant and Klipper for 3D printers | CNX Software | [link](https://www.cnx-software.com/2026/07/04/bigtreetech-panda-sense-pro-8-in-1-smart-air-quality-monitor-works-with-home-assistant-and-klipper-for-3d-printers/) |
 | 2026-07-04 | Made In NYC 🍎🇺🇸 #4thOfJuly #AmericanMakers | Adafruit | [link](https://blog.adafruit.com/2026/07/04/made-in-nyc-%f0%9f%8d%8e%f0%9f%87%ba%f0%9f%87%b8-4thofjuly-americanmakers/) |
 | 2026-07-04 | Find the Closest Cooling Center | Adafruit | [link](https://blog.adafruit.com/2026/07/04/find-the-closest-cooling-center/) |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-05 | SakikoTogawa/pi0_robotwin_lora-place_object_basket-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_object_basket-100-himaconpp_repo) |
 | 2026-07-05 | anhtld/vla | 0 | 1 | [link](https://huggingface.co/anhtld/vla) |
+| 2026-07-05 | poet70/vla-sft-suite | 0 | 0 | [link](https://huggingface.co/poet70/vla-sft-suite) |
+| 2026-07-05 | poet70/vla-ckpt-dreamtacvla-jepa | 0 | 0 | [link](https://huggingface.co/poet70/vla-ckpt-dreamtacvla-jepa) |
+| 2026-07-05 | turturtur250/AILAB-physical | 0 | 0 | [link](https://huggingface.co/turturtur250/AILAB-physical) |
+| 2026-07-05 | balapersonal12/hr-policy-assistant-stage1 | 0 | 0 | [link](https://huggingface.co/balapersonal12/hr-policy-assistant-stage1) |
+| 2026-07-05 | PeytonT/verifier-accept-policy | 0 | 0 | [link](https://huggingface.co/PeytonT/verifier-accept-policy) |
 | 2026-07-04 | YinonDouchan/smolvla_mobile_robot_lift_turn_to_cube | 177 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_turn_to_cube) |
 | 2026-07-04 | hxma/InternVLA-A1.5-Robotwin | 0 | 0 | [link](https://huggingface.co/hxma/InternVLA-A1.5-Robotwin) |
 | 2026-07-04 | mattpidden/vla0-realworld-epoch28 | 0 | 0 | [link](https://huggingface.co/mattpidden/vla0-realworld-epoch28) |
-| 2026-07-04 | Vladislavbro-500/shlif-cascade | 0 | 0 | [link](https://huggingface.co/Vladislavbro-500/shlif-cascade) |
-| 2026-07-04 | macv666/entropy-vla-grpo-logs | 0 | 0 | [link](https://huggingface.co/macv666/entropy-vla-grpo-logs) |
-| 2026-07-04 | baiyu858/Bridge-WA-World-Teacher-VLABench | 0 | 0 | [link](https://huggingface.co/baiyu858/Bridge-WA-World-Teacher-VLABench) |
-| 2026-07-04 | baiyu858/Bridge-WA-VLABench | 0 | 0 | [link](https://huggingface.co/baiyu858/Bridge-WA-VLABench) |
-| 2026-07-04 | flydexo/world-models-carracing-v3 | 0 | 0 | [link](https://huggingface.co/flydexo/world-models-carracing-v3) |
-| 2026-07-04 | EmbodiedCity/Worldscape-MoE | 0 | 0 | [link](https://huggingface.co/EmbodiedCity/Worldscape-MoE) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 62972 | Python | 25188.9 | [link](https://github.com/commaai/openpilot) |
-| kornia/kornia | 11260 | Python | 4504.1 | [link](https://github.com/kornia/kornia) |
-| zauberzeug/nicegui | 15980 | Python | 6392.1 | [link](https://github.com/zauberzeug/nicegui) |
+| cartesiancs/vessel | 326 | TypeScript | 130.5 | [link](https://github.com/cartesiancs/vessel) |
+| commaai/openpilot | 62978 | Python | 25191.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15419 | C++ | 6167.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14080 | C++ | 5632.1 | [link](https://github.com/google-deepmind/mujoco) |
-| isaac-sim/IsaacLab | 7604 | Python | 3041.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| kornia/kornia | 11260 | Python | 4504.1 | [link](https://github.com/kornia/kornia) |
+| isaac-sim/IsaacLab | 7606 | Python | 3042.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| sou350121/VLA-Handbook | 352 | HTML | 140.9 | [link](https://github.com/sou350121/VLA-Handbook) |
+| OpenHUTB/hutb | 527 | C++ | 210.9 | [link](https://github.com/OpenHUTB/hutb) |
+| zauberzeug/nicegui | 15980 | Python | 6392.1 | [link](https://github.com/zauberzeug/nicegui) |
+| google-deepmind/mujoco | 14081 | C++ | 5632.5 | [link](https://github.com/google-deepmind/mujoco) |
 | dora-rs/dora | 3825 | Rust | 1530.1 | [link](https://github.com/dora-rs/dora) |
-| huangjunsen0406/py-xiaozhi | 3387 | Python | 1354.9 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
-| StanfordVL/BEHAVIOR-1K | 1548 | Python | 619.3 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| flashrt-project/FlashRT | 393 | C++ | 157.3 | [link](https://github.com/flashrt-project/FlashRT) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
