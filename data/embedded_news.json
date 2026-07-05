@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hackaday Links: July 5, 2026",
+    "source": "Hackaday",
+    "date": "2026-07-05",
+    "url": "https://hackaday.com/2026/07/05/hackaday-links-july-5-2026/",
+    "summary": "<div><img alt=\"Hackaday Links Column Banner\" class=\"attachment-large size-large wp-post-image\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Happy belated July 4th to all the readers from the United States &#8212; hopefully you aren&#8217;t reading this from a hospital bed after losing a hand or burning off your <a class=\"read-more\" href=\"https://hackaday.com/2026/07/05/hackaday-links-july-5-2026/\">&#8230;read more</a>"
+  },
+  {
     "title": "Seeing Bacteria, Nanoprisms, and More with an Atomic Force Microscope",
     "source": "Hackaday",
     "date": "2026-07-05",
@@ -42,18 +49,18 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/Steam-Machine-DIY-e-ink-display.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Valve has always designed hacker-friendly hardware, and in that spirit, [NaKyle Wright] released Inkterface, a design for an E-ink faceplate to fit the recently released Steam Machine. As far as <a class=\"read-more\" href=\"https://hackaday.com/2026/07/04/make-a-diy-e-ink-faceplate-for-valves-steam-machine/\">&#8230;read more</a>"
   },
   {
-    "title": "The Persistent Display We Never Got",
-    "source": "Hackaday",
-    "date": "2026-07-05",
-    "url": "https://hackaday.com/2026/07/04/the-persistent-display-we-never-got/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/persistent-display-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We all know the e-ink persistent displays, as they&#8217;re cheap and plentiful enough to have become ubiquitous in applications such as supermarket price labels. But we don&#8217;t often see some <a class=\"read-more\" href=\"https://hackaday.com/2026/07/04/the-persistent-display-we-never-got/\">&#8230;read more</a>"
-  },
-  {
     "title": "Macintosh emulator works on ESP32-P4 display devkits from M5Stack and Waveshare",
     "source": "CNX Software",
     "date": "2026-07-05",
     "url": "https://www.cnx-software.com/2026/07/05/macintosh-emulator-works-on-esp32-p4-display-devkits-from-m5stack-and-waveshare/",
     "summary": "<div><img alt=\"ESP32-P4 MacOS emulator\" class=\"attachment-medium size-medium wp-post-image\" height=\"491\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/ESP32-P4-MacOS-emulator-720x491.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ESP32 chips have been used for retro gaming and computing for years, but Austin McChord (Amcchord) adds to that with a Macintosh emulator ported to a couple of ESP32-P4 display devkits. His project is a full port of the BasiliskII Macintosh 68k emulator, bringing classic Mac OS (System 7.x through Mac OS 8.1) to portable ESP32-P4 embedded devices with touchscreen, USB peripherals, and WiFi support through an ESP32-C6 on the boards. The main development platform appears to be the M5Stack Tab5 equipped with a 5-inch touchscreen display with 1280×720 resolution. However, if you need something with a larger screen, the Waveshare ESP32-P4-WIFI6-Touch-LCD-10.1 is also supported, and features a 10.1-inch display with 1280&#215;800 resolution and a 10-point capacitive touchscreen. The actual Mac OS resolutions used are 640&#215;360 and 640&#215;400, respectively, then scaled twice to the native resolution of the display. Highlights of the project: CPU &#8211;  Motorola 68040 emulation with FPU (68881) [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/05/macintosh-emulator-works-on-esp32-p4-display-devkits-from-m5stack-and-waveshare/\">Macintosh emulator works on ESP32-P4 display devkits from M5Stack and Waveshare</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Sponsored Content: Manufacturability Optimization for Industrial Electronics via Valor NPI Analysis",
+    "source": "Electronics Weekly",
+    "date": "2026-07-05",
+    "url": "https://www.electronicsweekly.com/news/products/test-measurement-products/sponsored-content-manufacturability-optimization-for-industrial-electronics-via-valor-npi-analysis-2026-07/",
+    "summary": "<p>Reducing Design Risks and Accelerating Production Readiness through Virtual Assembly Industry: Industrial Key Capabilities: DFM Analysis · Valor NPI · Virtual Assembly · Yield Optimization · Component Spacing Analysis Overview ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/test-measurement-products/sponsored-content-manufacturability-optimization-for-industrial-electronics-via-valor-npi-analysis-2026-07/\">Sponsored Content: Manufacturability Optimization for Industrial Electronics via Valor NPI Analysis</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Adafruit Weekly Editorial Round-Up: & WipperSnapper for Raspberry Pi, Learn Code Element Updates, & more!",
@@ -180,13 +187,6 @@
     "date": "2026-07-03",
     "url": "https://www.electronicsweekly.com/news/business/eu-struggles-to-strengthen-chip-sector-2026-07/",
     "summary": "<p>The EU has come up with another initiative aimed at solving the problem of the continent’s vulnerability to chips supply shortages. The Chips Diplomacy Support Initiative (CHIPDIPLO) is an 18-month ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/eu-struggles-to-strengthen-chip-sector-2026-07/\">EU struggles to strengthen chip sector</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Socionext 14nm chiplet will validate leading-edge designs",
-    "source": "Electronics Weekly",
-    "date": "2026-07-03",
-    "url": "https://www.electronicsweekly.com/news/business/socionext-4-2026-07/",
-    "summary": "<p>Socionext has developed a compute chiplet in TSMC’s A14 process technology. As part of this initiative, Socionext plans to tape out a multi-core device in September 2026. This chip will ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/socionext-4-2026-07/\">Socionext 14nm chiplet will validate leading-edge designs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Impactful U.S. Inventions #4thOfJuly #AmericanInventions",

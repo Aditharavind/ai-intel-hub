@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-05 22:44 UTC
+Last Updated: 2026-07-05 23:52 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-05 | Hackaday Links: July 5, 2026 | Hackaday | [link](https://hackaday.com/2026/07/05/hackaday-links-july-5-2026/) |
 | 2026-07-05 | Seeing Bacteria, Nanoprisms, and More with an Atomic Force Microscope | Hackaday | [link](https://hackaday.com/2026/07/05/seeing-bacteria-nanoprisms-and-more-with-an-atomic-force-microscope/) |
 | 2026-07-05 | Demonstrating LFP Battery Safety in Case of BMS Failure | Hackaday | [link](https://hackaday.com/2026/07/05/demonstrating-lfp-battery-safety-in-case-of-bms-failure/) |
 | 2026-07-05 | 2026 Frikkin Lasers Challenge: A 3D-Printed Raman Spectrometer | Hackaday | [link](https://hackaday.com/2026/07/05/2026-frikkin-lasers-challenge-a-3d-printed-raman-spectrometer/) |
 | 2026-07-05 | Old Midi Instruments Don’t Like Modern Midi. What’s To Be Done? | Hackaday | [link](https://hackaday.com/2026/07/05/old-midi-instruments-dont-like-modern-midi-whats-to-be-done/) |
 | 2026-07-05 | Homelab Gets Linksys Themed Aesthetic | Hackaday | [link](https://hackaday.com/2026/07/05/homelab-gets-linksys-themed-aesthetic/) |
 | 2026-07-05 | Make a DIY E-ink Faceplate For Valve’s Steam Machine | Hackaday | [link](https://hackaday.com/2026/07/04/make-a-diy-e-ink-faceplate-for-valves-steam-machine/) |
-| 2026-07-05 | The Persistent Display We Never Got | Hackaday | [link](https://hackaday.com/2026/07/04/the-persistent-display-we-never-got/) |
 | 2026-07-05 | Macintosh emulator works on ESP32-P4 display devkits from M5Stack and Waveshare | CNX Software | [link](https://www.cnx-software.com/2026/07/05/macintosh-emulator-works-on-esp32-p4-display-devkits-from-m5stack-and-waveshare/) |
+| 2026-07-05 | Sponsored Content: Manufacturability Optimization for Industrial Electronics via Valor NPI Analysis | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/test-measurement-products/sponsored-content-manufacturability-optimization-for-industrial-electronics-via-valor-npi-analysis-2026-07/) |
 | 2026-07-05 | Adafruit Weekly Editorial Round-Up: & WipperSnapper for Raspberry Pi, Learn Code Element Updates, & more! | Adafruit | [link](https://blog.adafruit.com/2026/07/05/adafruit-weekly-editorial-round-up-wippersnapper-for-raspberry-pi-learn-code-element-updates-more/) |
-| 2026-07-04 | BIGTREETECH Panda Sense Pro 8-in-1 smart air quality monitor works with Home Assistant and Klipper for 3D printers | CNX Software | [link](https://www.cnx-software.com/2026/07/04/bigtreetech-panda-sense-pro-8-in-1-smart-air-quality-monitor-works-with-home-assistant-and-klipper-for-3d-printers/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -92,15 +92,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | cartesiancs/vessel | 326 | TypeScript | 130.5 | [link](https://github.com/cartesiancs/vessel) |
-| commaai/openpilot | 62985 | Python | 25194.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 62986 | Python | 25194.5 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 15979 | Python | 6391.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15422 | C++ | 6168.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14087 | C++ | 5634.9 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14089 | C++ | 5635.7 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11263 | Python | 4505.3 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7611 | Python | 3044.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| dora-rs/dora | 3825 | Rust | 1530.1 | [link](https://github.com/dora-rs/dora) |
 | flashrt-project/FlashRT | 394 | C++ | 157.7 | [link](https://github.com/flashrt-project/FlashRT) |
 | luohongk/Embodied-AI-Daily | 359 | HTML | 143.7 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| sou350121/VLA-Handbook | 353 | HTML | 141.3 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

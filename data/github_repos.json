@@ -11,13 +11,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 62985,
+    "stars": 62986,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-07-05",
     "topic": "robotics",
-    "score": 25194.1
+    "score": 25194.5
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -41,13 +41,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14087,
+    "stars": 14089,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-07-05",
     "topic": "robotics",
-    "score": 5634.9
+    "score": 5635.7
   },
   {
     "repo": "kornia/kornia",
@@ -68,6 +68,16 @@
     "date": "2026-07-05",
     "topic": "robot-learning",
     "score": 3044.5
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3825,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-07-05",
+    "topic": "embodied-ai",
+    "score": 1530.1
   },
   {
     "repo": "flashrt-project/FlashRT",
@@ -120,14 +130,14 @@
     "score": 210.9
   },
   {
-    "repo": "dora-rs/dora",
-    "stars": 3825,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-07-04",
-    "topic": "embodied-ai",
-    "score": 1530.1
+    "repo": "jackvial/lerobot-data-studio",
+    "stars": 56,
+    "language": "TypeScript",
+    "description": "LeRobot Data Studio - Unofficial LeRobot Dataset Editor",
+    "url": "https://github.com/jackvial/lerobot-data-studio",
+    "date": "2026-07-05",
+    "topic": "lerobot",
+    "score": 22.5
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",
@@ -491,13 +501,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 1876,
+    "stars": 1879,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-26",
     "topic": "robot-learning",
-    "score": 750.5
+    "score": 751.7
   },
   {
     "repo": "mimic-video/mimic-video",
@@ -548,16 +558,6 @@
     "date": "2026-06-25",
     "topic": "lerobot",
     "score": 56.9
-  },
-  {
-    "repo": "jackvial/lerobot-data-studio",
-    "stars": 56,
-    "language": "TypeScript",
-    "description": "LeRobot Data Studio - Unofficial LeRobot Dataset Editor",
-    "url": "https://github.com/jackvial/lerobot-data-studio",
-    "date": "2026-06-25",
-    "topic": "lerobot",
-    "score": 22.5
   },
   {
     "repo": "keon/awesome-physical-ai",
