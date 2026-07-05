@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-05 15:57 UTC
+Generated: 2026-07-05 16:59 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,8 +14,8 @@ Generated: 2026-07-05 15:57 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82289 | 32915.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 62982 | 25192.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82290 | 32916.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 62981 | 25192.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44191 | 17676.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 29961 | 11984.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15980 | 6392.1 | [link](https://github.com/zauberzeug/nicegui) |
@@ -43,6 +43,6 @@ Generated: 2026-07-05 15:57 UTC
 | --- | --- | --- | --- |
 | 2026-07-05 | Tsinghua Vehicle School Alums Launch Guangxiang Technology, Raise Hundreds of Millions for Embodied AI in Automotive - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkZkZ3lkNUtIRDdHX2k4RmZtekIxQ05BbDFNdVctYkVOZWlBRm9MbGNzYUZYZHZrUndINm5QMy11cmNHQzZqQUxtenRVbEI4dk5qSjZSOC15STdKU3EyTTYxeUtNUG5KS3V3VmFneWthakd5M010YWJ6ZU1tNUU2Y2dSYWRjRmFVbXlfZFA5b2NNYTk3R1RuWFZ3?oc=5) |
 | 2026-07-05 | Exclusive from Hard Krypton: Tsinghua University School of Vehicle and Mobility Alumni Launch Embodied AI Startup, Secure Hundreds of Millions in Angel Financing for Automotive Industry Deployment - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LRlpIb0JhZW5TeUxTVk5raVVxYTRHUDBmSExfc0YxTm02aU1RcGczQlk5Mk13X3NrdTBmTkd2WjctQnZxQVdBcGZaeTVtZUdkeHNn?oc=5) |
-| 2026-07-03 | TAP: Unlocking Embodied AI with Task-Agnostic Pretraining - StartupHub.ai | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSjl4Z0ozZnNzVVdQc3I1eV9OM2E3ODM2Qi0xV0FLUWo3RzM1UmpPNk42Zk5oOHRIaXVHcXY2eTFPLTJzS2xMVVNpSFpRYXB3RmRyUVlGWWk1UHdwV1pDS1ZBUUN0dnBKMi1ndW9RVUZfYjFiZ0JpenA3by13eTQxSURaYXJNZXFfX1pIaWlXa3NiRHN4TVdVNjRibEdCTmM3eExKTWNTZHVEZmc?oc=5) |
+| 2026-07-03 | TAP: Unlocking Embodied AI with Task-Agnostic Pretraining - StartupHub.ai | vision language action startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSjl4Z0ozZnNzVVdQc3I1eV9OM2E3ODM2Qi0xV0FLUWo3RzM1UmpPNk42Zk5oOHRIaXVHcXY2eTFPLTJzS2xMVVNpSFpRYXB3RmRyUVlGWWk1UHdwV1pDS1ZBUUN0dnBKMi1ndW9RVUZfYjFiZ0JpenA3by13eTQxSURaYXJNZXFfX1pIaWlXa3NiRHN4TVdVNjRibEdCTmM3eExKTWNTZHVEZmc?oc=5) |
+| 2026-07-03 | Ant Group Leads $73.6M Funding in Humanoid Robotics Startup Zeroth, Signaling Push into AI Robotics - Pretax Income Report - dars.gov.et | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX2hhTnJDN2FleXBnRkdpZmU2am5QdFBFS25OTXBnSkZtYUpRMXN3RFVQeUFuM19KSlZWazZzalVFOEhHZmV3SWRMNkpEQ2JEWkZzNUVGcUlEay1LNWRoVFJIa0lNRXczTnpCSnNHS0VVb0lyczhrcndWUnNsdHBHU2JMcXg1SU1tTkowbGJ6aGd6cEEzWU13WU9WMzU0RUpIYVV2eXdhZ0pQSkR2dHZTMWpwTXFlQ09nZGRpc1laQmM2UlBtT0Q0TnhpRE04dXVVX0R3aEc5OA?oc=5) |
 | 2026-07-03 | Tesla trade secret suit settled as robot hand startup raises $11M - Memeburn | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVZSb3JNWVpHeEQ5TlNRMzRwSU9zUDhyeU9DWWZEN19vV3Z1Q2R2SVFnRjNmbGZjWjFpQmZQd0RRZGdtVDRGdFVxaXJQMTFLNURXdUkzY0tVd1F0RDM3SEVHallOVk1nTElzRklpZTJnZUZvdlZmNGN2OEhaUzkxMjNJZnh0T1hKUmZ6M1UzYw?oc=5) |
-| 2026-07-03 | TAP: Unlocking Embodied AI with Task-Agnostic Pretraining - StartupHub.ai | vision language action startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxPTkhpMzFvQUtlT2Z1T3M1VmE4UjZsT1dMSFN3RXBuQVk5cGZyM0VlUEhZSTl5VTRrWVh5QWZJVmMtYTlSdXFwT3liRjR4Nm9wbVhWVmdXOHlfdEJybHZCa3AyVzhTTlg2akdpWWJINFlLZ0kwYzl5OUx0LTBiXy1oUk9iLXZ5aEhKMlp4QW1JYmU?oc=5) |
