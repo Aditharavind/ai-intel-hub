@@ -1,5 +1,12 @@
 [
   {
+    "title": "Homelab Gets Linksys Themed Aesthetic",
+    "source": "Hackaday",
+    "date": "2026-07-05",
+    "url": "https://hackaday.com/2026/07/05/homelab-gets-linksys-themed-aesthetic/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/maxresdefault-10.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you&#8217;re building a homelab rig, you could just use off-the-shelf hardware in standard cases and slap it all in a rack like the normies do. Or, you could follow <a class=\"read-more\" href=\"https://hackaday.com/2026/07/05/homelab-gets-linksys-themed-aesthetic/\">&#8230;read more</a>"
+  },
+  {
     "title": "Make a DIY E-ink Faceplate For Valve’s Steam Machine",
     "source": "Hackaday",
     "date": "2026-07-05",
@@ -12,6 +19,13 @@
     "date": "2026-07-05",
     "url": "https://hackaday.com/2026/07/04/the-persistent-display-we-never-got/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/persistent-display-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We all know the e-ink persistent displays, as they&#8217;re cheap and plentiful enough to have become ubiquitous in applications such as supermarket price labels. But we don&#8217;t often see some <a class=\"read-more\" href=\"https://hackaday.com/2026/07/04/the-persistent-display-we-never-got/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Macintosh emulator works on ESP32-P4 display devkits from M5Stack and Waveshare",
+    "source": "CNX Software",
+    "date": "2026-07-05",
+    "url": "https://www.cnx-software.com/2026/07/05/macintosh-emulator-works-on-esp32-p4-display-devkits-from-m5stack-and-waveshare/",
+    "summary": "<div><img alt=\"ESP32-P4 MacOS emulator\" class=\"attachment-medium size-medium wp-post-image\" height=\"491\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/ESP32-P4-MacOS-emulator-720x491.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ESP32 chips have been used for retro gaming and computing for years, but Austin McChord (Amcchord) adds to that with a Macintosh emulator ported to a couple of ESP32-P4 display devkits. His project is a full port of the BasiliskII Macintosh 68k emulator, bringing classic Mac OS (System 7.x through Mac OS 8.1) to portable ESP32-P4 embedded devices with touchscreen, USB peripherals, and WiFi support through an ESP32-C6 on the boards. The main development platform appears to be the M5Stack Tab5 equipped with a 5-inch touchscreen display with 1280×720 resolution. However, if you need something with a larger screen, the Waveshare ESP32-P4-WIFI6-Touch-LCD-10.1 is also supported, and features a 10.1-inch display with 1280&#215;800 resolution and a 10-point capacitive touchscreen. The actual Mac OS resolutions used are 640&#215;360 and 640&#215;400, respectively, then scaled twice to the native resolution of the display. Highlights of the project: CPU &#8211;  Motorola 68040 emulation with FPU (68881) [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/05/macintosh-emulator-works-on-esp32-p4-display-devkits-from-m5stack-and-waveshare/\">Macintosh emulator works on ESP32-P4 display devkits from M5Stack and Waveshare</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Using Flatpak to Run a 1996 Version of the GIMP on Modern Linux",
@@ -40,13 +54,6 @@
     "date": "2026-07-04",
     "url": "https://hackaday.com/2026/07/04/yesterdays-technology-re-engineered-today/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"467\" src=\"https://hackaday.com/wp-content/uploads/2026/07/retroedition_featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Watching [sprite_tm]’s build of a handheld 486-based gaming computer, we got to thinking about retro computers and the eternal questions of how much of the computer needs to be actually <a class=\"read-more\" href=\"https://hackaday.com/2026/07/04/yesterdays-technology-re-engineered-today/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Five Solar Air Heating Methods Tested",
-    "source": "Hackaday",
-    "date": "2026-07-04",
-    "url": "https://hackaday.com/2026/07/04/five-solar-air-heating-methods-tested/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/06/solar-heater-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>For as good as solar panels are at converting sunlight directly into usable electricity, especially for how cheap they&#8217;re becoming, they can still only gather around 20-30% of the energy <a class=\"read-more\" href=\"https://hackaday.com/2026/07/04/five-solar-air-heating-methods-tested/\">&#8230;read more</a>"
   },
   {
     "title": "BIGTREETECH Panda Sense Pro 8-in-1 smart air quality monitor works with Home Assistant and Klipper for 3D printers",
@@ -390,13 +397,6 @@
     "date": "2026-06-30",
     "url": "https://www.cnx-software.com/2026/06/30/weact-n006-a-compact-nvidia-jetson-orin-nx-carrier-board-designed-for-robots-and-uavs/",
     "summary": "<div><img alt=\"WeAct N006\" class=\"attachment-medium size-medium wp-post-image\" height=\"481\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/WeAct-N006-720x481.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>WeAct N006 is a carrier board for NVIDIA Jetson Orin NX 8GB/16GB, specifically designed for robots and UAVs with a compact (90x60mm) form factor that&#8217;s barely larger than a credit card. The board features an HDMI video output, a Gigabit Ethernet port, two M.2 sockets for NVMe storage and WiFi/Bluetooth connectivity, two MIPI CSI camera interfaces, three USB 3.2 ports, various connectors for GPIO, I2C, UART, and CAN Bus, and an XT30 connector for 16V to 28V DC input. WeAct N006 specifications: Supported SoM &#8211; NVIDIA Jetson Orin NX 8GB/16GB up to 40W Super Mode Storage &#8211; M.2 Key-M socket for M.2 2242 NVMe SSD Video Output &#8211; HDMI port Camera &#8211; 2x 4-lame MIPI DSI interface Networking Gigabit Ethernet RJ45 port Optional WiFi and Bluetooth via M.2 Key-E socket USB 2x USB 3.1 (10 Gbps) Type-A ports USB 3.2 Gen 2 (10 Gbps) OTG Type-C port Serial 4-pin CAN [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/30/weact-n006-a-compact-nvidia-jetson-orin-nx-carrier-board-designed-for-robots-and-uavs/\">WeAct N006 &#8211; A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "XIAO nRF54LM20A (Sense) board enables ultra-low-power Bluetooth 6.0, Matter, Thread, Zigbee, or 2.4 GHz proprietary applications",
-    "source": "CNX Software",
-    "date": "2026-06-30",
-    "url": "https://www.cnx-software.com/2026/06/30/xiao-nrf54lm20a-sense-board-enables-ultra-low-power-bluetooth-6-0-matter-thread-zigbee-or-2-4-ghz-proprietary-applications/",
-    "summary": "<div><img alt=\"XIAO NRF54LM20A Sense board\" class=\"attachment-medium size-medium wp-post-image\" height=\"487\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/XIAO-NRF54LM20A-Sense-board-720x487.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Seeed Studio XIAO nRF54LM20A and XIAO nRF54LM20A Sense are tiny USB-C IoT boards based on Nordic Semiconductor&#8217;s nRF54LM20A wireless SoC offering Bluetooth 6.0, Matter, Thread, Zigbee, NFC, Amazon Sidewalk, and 2.4 GHz proprietary connectivity. Both variants come with on-chip 2 MB flash and 512 KB RAM, as well as an 8 MB flash, an nPM1300 PMIC for power management, up to 28 GPIOs, and an RGB LED. The Sense model adds a digital microphone and 6-axis IMU with motion-triggered wake-up for ultra-low power applications. XIAO nRF54LM20A (Sense) specifications: Wireless SoC – Nordic Semiconductor nRF54LM20A CPU Arm Cortex-M33 application processor clocked at up to 128 MHz RISC-V coprocessor running at 128 MHz Memory – 512 kB of RAM Storage – 2 MB of Non-Volatile Memory (NVM) Wireless Bluetooth LE 6.0 with PHY rates of 125 kbit/s, 500 kbit/s, 1 Mbit/s, and 2 Mbit/s Bluetooth Channel Sounding, Bluetooth LE long range (coded PHY), [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/30/xiao-nrf54lm20a-sense-board-enables-ultra-low-power-bluetooth-6-0-matter-thread-zigbee-or-2-4-ghz-proprietary-applications/\">XIAO nRF54LM20A (Sense) board enables ultra-low-power Bluetooth 6.0, Matter, Thread, Zigbee, or 2.4 GHz proprietary applications</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "TeleCANesis Launches Version 1.1 of its Connectivity Platform",
