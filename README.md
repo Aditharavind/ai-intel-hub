@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-05 21:46 UTC
+Last Updated: 2026-07-05 22:44 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -86,7 +86,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-05 | LuEduSoHu/robot_learning_tutorial_diffusion_0704_1501 | 0 | 0 | [link](https://huggingface.co/LuEduSoHu/robot_learning_tutorial_diffusion_0704_1501) |
 | 2026-07-05 | SakikoTogawa/pi0_robotwin_lora-place_object_basket-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_object_basket-100-himaconpp_repo) |
 | 2026-07-05 | anhtld/vla | 0 | 1 | [link](https://huggingface.co/anhtld/vla) |
-| 2026-07-05 | macv666/entropy-vla-grpo-logs | 0 | 0 | [link](https://huggingface.co/macv666/entropy-vla-grpo-logs) |
+| 2026-07-05 | mattpidden/vla0-realworld-epoch28 | 0 | 0 | [link](https://huggingface.co/mattpidden/vla0-realworld-epoch28) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -95,7 +95,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | commaai/openpilot | 62985 | Python | 25194.1 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 15979 | Python | 6391.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15422 | C++ | 6168.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14086 | C++ | 5634.5 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14087 | C++ | 5634.9 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11263 | Python | 4505.3 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7611 | Python | 3044.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | flashrt-project/FlashRT | 394 | C++ | 157.7 | [link](https://github.com/flashrt-project/FlashRT) |
@@ -107,14 +107,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-07-03 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTWpiTlNmSjROU2hWME1sQjZUTWxfVUg2M1cyVkVfVmduOUZ5ejBNM0pGSk9Sd3Y0Z1lQN2NreEN5ZVVwcWpuYnVObUVNWWZuUXc?oc=5) |
 | 2026-07-03 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSa2d3a0hiWDBvOUNNWEZMbHk1bUpHVm9kdTRRbEVwdUgtMUdOX0xQcDBBNGxZV0p6eENuNkZjU25ndUJWRnFUMXhiaFdUOWFUd01keHhGMnZsMGI5OTFoQVRWR3JpSkE?oc=5) |
+| 2026-07-03 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0JBRVU0T3ZzUzhacVByakVuajBoLWZZWm02LVJoU2k2UFVwQkVMdGN0MDN0SXJSOWhCbFBKLW9HbnZWMWlvS2xGSnFwM3NiY0hLU0ZaMnlCLUkwRE9hVzgzdTM1ZUtNUkY0blBjT2FKcTBjS1RyQ0hyNEZXenZmellGYVlFdmxwdEE2T0hxaUw2blVwSzJ1NGgyeEs1aEVITWVfVzd2dkViRGRXdW9nOU1RazNTQ3k3aDEw0gG7AUFVX3lxTE1aVGtnUEEyYndxUDNGaDdKVFlJRDQ5cDRRdGktdjR6UV9obFhrZG5tbFVaMVJIQy12Zlotb0NDMVd3blBVeUNVU3NHMDktVS02SlJVUDBvTm9Sc1JoRXJfb252VGdZdnRTM2d1Z3RDbkpIdFdjbmFIUkxMenFKakdJZnN4ejA1TndoOGo4Z2F6ZG5fUHNBa051NWN6cEd2ck5TeDBvSHlEZkQyaVNldzJjSGdsQkl2ekpIb1k?oc=5) |
 | 2026-07-02 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUFl6Y0hOcWFIbUdMU0FRMHJNMHFHRThUMThCYW9zRUs5SFNVcGkzRGd1VWdPSnZBVWtud1BoaUR6REtfYzVBYlp1cmNlbl80ZnZ6VGVUX0tCOU1UcHJ6LURkTzFWMlZpc2VKakdIbHlkdldmQUoycHViUnN4Z0tvWFRZeVNzOTh4eFBiQ1dSbjNXUnVBeXpGRW1HNUtMS3ZfT05sZXlJbEZKLUhRNDhDbXBubHhGN0ZEUk9ZMTF5STlMZ1VkdjZySGdESDBGejk0RGphZEVWVFpwLUNmTDRj?oc=5) |
-| 2026-07-02 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VQTBnQWxTYWhiMXlHcWF3MlZwaGMyMTVibDZGNjZUY3Fmb1Jza1hYWXFyY1lvODNIbzZmVGkxSUhTbUtqdmhsU19qUGpTS0VUYU5HbzJxUQ?oc=5) |
+| 2026-07-02 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkxmNTktWHJsUmFLVHJqLWl4SnB6eUhoYnFVX3lWYlllM0NseHVVUDRhSFFua0g2bXZVZ29VbzBOYkRycDVxVDUzdjc0YkVPNEFBOG9tZldtdlBTMDVFZWZlbnZacG1mb09paldGTGdodU9zaTRLbF83YVFLdzQ5LUpMN3dOOFlDVlBEUGxNS2tVQTJhcTZpYWQ2WFduN3BBOThtdHhJdlFsSkNNNlVqS0VLQ2ZLQ1lo?oc=5) |
 | 2026-07-01 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHQ2WjZkRUJYVDYyQkZielpfRVZUXzdEQUJ3SWppMWVrN29GU1dfYlpvcFhfYnBTVHVtYUxRNnQ3TGFuZi1WLVM3SHBMMkpmc1lURFVVdTM1dGFUWkNlRU5CMUU3UlVGQVU0RUptUnpTSVVIWTE4ekhuUWpIRXFmSmdsQWh5dUF6WHlsYlR1Q3JZZGVoRjFVbGxqMHVQX1NmQmU2SC05UHdYcmhwNmp3dQ?oc=5) |
+| 2026-06-30 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9uZGhDeldLWDFSVUlXY1VBdzd0c3FCUVRkRkp0WWRyS3liZ1dCREZPTThFR1JjMGFpNmR5dFI1TmRiZWRiakdwNFBMVXhvOWs2NHVWUjNJa3kzZDlHdHBHazlueXVXYTB1NFlZTDkwNE9rYmZOZ3c?oc=5) |
+| 2026-06-29 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VQTBnQWxTYWhiMXlHcWF3MlZwaGMyMTVibDZGNjZUY3Fmb1Jza1hYWXFyY1lvODNIbzZmVGkxSUhTbUtqdmhsU19qUGpTS0VUYU5HbzJxUQ?oc=5) |
 | 2026-06-26 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUhnWGpNVDY2WXlERndBVU5LNC1IUWswZzFWM1M2TlNKcERxWFJCQVFiWk13RjFhdlRiMG1uYTlhZ19Rd3lBMXpQTUp1MW1qcC1lQml4blUxM1lKM1B0SGdjdmVDQ2dQT0VnczFDVDM2Ty1rNGFUUllOWnRRQzBBUGV0N042UlJIZU9KX2lmNGxYUDZuYXJVZDJ4bndGUUVCcEpLSQ?oc=5) |
 | 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1BFVlRlMWtqMlJQNkJVbmdpc19nMFNpcjNmUFh2M1VScGRQblplVXZrUWFvZGw0dy1Od0ZiLUZ6MnQ3M2syTUN0M1dmRktic0FZV0o0NlVVS2ZzeVVweGhyYmFRdTRMd0hwLW8tb1JQT1NiTFQzWjJscjVMR0tRd1dKT0lyelcwcGJOOGIwU0tjMVRQbElhWlhOMWFqT29iOUNnYnpobkZjTG5iRUMzYTRjdi1hRnh3Qll4RFItVQ?oc=5) |
-| 2026-06-25 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnWmtfeGFLT3VCWk1VdVNPazJ6ZjBUbmp6Vk9DOGo5aFNDOUFIb3U2RDZMLXFick1TMkZmX0k0VXRodWc2V1owYi16bEZtV3A1MHVoTFB5UWVSN1AxN2Q4?oc=5) |
-| 2026-06-25 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDhxMkc3MGdXb092MjZIbGVjQXFoSXp5OFZXYUR1T0xIcEtqdkdoYzQ3OC1vSnZRN0Z3M09PRXRiNnZGOXNJaUVBSWpIQ0d6YnZaR3g1bUdFN19fNU5LRUhuZEkwbGxGS1UzX2M5dTdyT3F5a3ZxMXhmUGllZXVEWXlnSGp5Q01yQ2ZUN0lYMTY5UVBBRXViZm9zbGd1bzF3TTFkeHA4RWxUZ0todWd0SmJNcmNKNTFVMVpScEVfejBPdko1?oc=5) |
-| 2026-06-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdHlhT29SZkRnd1pDNDNLVHdMMjhEZV8wdC1wbm9HVmd5b1pndFNIUVdjT2lGYVBoVnJDY1NMX2VlUTRJTmxaSjNLTDQ2LTlRTHZ5QlFGUzdWNWhCM19GZVladlgxcWxJU0xIekp0RW92SGwtYW5YbHZzZERtejdLcHBaQVd2Tm1UM0Jhd3RSRHg4NlUxSmVQS3gtOGQya1pXdUxKTXFhYkxYdG1K?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
