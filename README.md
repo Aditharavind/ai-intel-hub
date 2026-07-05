@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-05 16:59 UTC
+Last Updated: 2026-07-05 18:01 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-05 | Demonstrating LFP Battery Safety in Case of BMS Failure | Hackaday | [link](https://hackaday.com/2026/07/05/demonstrating-lfp-battery-safety-in-case-of-bms-failure/) |
 | 2026-07-05 | 2026 Frikkin Lasers Challenge: A 3D-Printed Raman Spectrometer | Hackaday | [link](https://hackaday.com/2026/07/05/2026-frikkin-lasers-challenge-a-3d-printed-raman-spectrometer/) |
 | 2026-07-05 | Old Midi Instruments Don’t Like Modern Midi. What’s To Be Done? | Hackaday | [link](https://hackaday.com/2026/07/05/old-midi-instruments-dont-like-modern-midi-whats-to-be-done/) |
 | 2026-07-05 | Homelab Gets Linksys Themed Aesthetic | Hackaday | [link](https://hackaday.com/2026/07/05/homelab-gets-linksys-themed-aesthetic/) |
@@ -56,7 +57,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-05 | The Persistent Display We Never Got | Hackaday | [link](https://hackaday.com/2026/07/04/the-persistent-display-we-never-got/) |
 | 2026-07-05 | Macintosh emulator works on ESP32-P4 display devkits from M5Stack and Waveshare | CNX Software | [link](https://www.cnx-software.com/2026/07/05/macintosh-emulator-works-on-esp32-p4-display-devkits-from-m5stack-and-waveshare/) |
 | 2026-07-04 | Using Flatpak to Run a 1996 Version of the GIMP on Modern Linux | Hackaday | [link](https://hackaday.com/2026/07/04/using-flatpak-to-run-a-1996-version-of-the-gimp-on-modern-linux/) |
-| 2026-07-04 | Disk Polishing Goes Open Source | Hackaday | [link](https://hackaday.com/2026/07/04/disk-polishing-goes-open-source/) |
 | 2026-07-04 | BIGTREETECH Panda Sense Pro 8-in-1 smart air quality monitor works with Home Assistant and Klipper for 3D printers | CNX Software | [link](https://www.cnx-software.com/2026/07/04/bigtreetech-panda-sense-pro-8-in-1-smart-air-quality-monitor-works-with-home-assistant-and-klipper-for-3d-printers/) |
 | 2026-07-04 | Made In NYC 🍎🇺🇸 #4thOfJuly #AmericanMakers | Adafruit | [link](https://blog.adafruit.com/2026/07/04/made-in-nyc-%f0%9f%8d%8e%f0%9f%87%ba%f0%9f%87%b8-4thofjuly-americanmakers/) |
 
@@ -85,29 +85,29 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-05 | InternRobotics/InternVLA-A1.5-RoboTwin | 13 | 0 | [link](https://huggingface.co/InternRobotics/InternVLA-A1.5-RoboTwin) |
 | 2026-07-05 | LuEduSoHu/robot_learning_tutorial_diffusion_0704_1501 | 0 | 0 | [link](https://huggingface.co/LuEduSoHu/robot_learning_tutorial_diffusion_0704_1501) |
 | 2026-07-05 | SakikoTogawa/pi0_robotwin_lora-place_object_basket-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_object_basket-100-himaconpp_repo) |
-| 2026-07-05 | macv666/entropy-vla-grpo-logs | 0 | 0 | [link](https://huggingface.co/macv666/entropy-vla-grpo-logs) |
 | 2026-07-05 | anhtld/vla | 0 | 1 | [link](https://huggingface.co/anhtld/vla) |
+| 2026-07-05 | macv666/entropy-vla-grpo-logs | 0 | 0 | [link](https://huggingface.co/macv666/entropy-vla-grpo-logs) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | cartesiancs/vessel | 326 | TypeScript | 130.5 | [link](https://github.com/cartesiancs/vessel) |
-| commaai/openpilot | 62981 | Python | 25192.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 62982 | Python | 25192.9 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 15980 | Python | 6392.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15419 | C++ | 6167.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14085 | C++ | 5634.1 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11262 | Python | 4504.9 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7611 | Python | 3044.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | flashrt-project/FlashRT | 394 | C++ | 157.7 | [link](https://github.com/flashrt-project/FlashRT) |
 | luohongk/Embodied-AI-Daily | 359 | HTML | 143.7 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| sou350121/VLA-Handbook | 352 | HTML | 140.9 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5438 | Python | 2175.3 | [link](https://github.com/vllm-project/vllm-omni) |
+| sou350121/VLA-Handbook | 353 | HTML | 141.3 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-07-03 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSa2d3a0hiWDBvOUNNWEZMbHk1bUpHVm9kdTRRbEVwdUgtMUdOX0xQcDBBNGxZV0p6eENuNkZjU25ndUJWRnFUMXhiaFdUOWFUd01keHhGMnZsMGI5OTFoQVRWR3JpSkE?oc=5) |
 | 2026-07-03 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0JBRVU0T3ZzUzhacVByakVuajBoLWZZWm02LVJoU2k2UFVwQkVMdGN0MDN0SXJSOWhCbFBKLW9HbnZWMWlvS2xGSnFwM3NiY0hLU0ZaMnlCLUkwRE9hVzgzdTM1ZUtNUkY0blBjT2FKcTBjS1RyQ0hyNEZXenZmellGYVlFdmxwdEE2T0hxaUw2blVwSzJ1NGgyeEs1aEVITWVfVzd2dkViRGRXdW9nOU1RazNTQ3k3aDEw0gG7AUFVX3lxTE1aVGtnUEEyYndxUDNGaDdKVFlJRDQ5cDRRdGktdjR6UV9obFhrZG5tbFVaMVJIQy12Zlotb0NDMVd3blBVeUNVU3NHMDktVS02SlJVUDBvTm9Sc1JoRXJfb252VGdZdnRTM2d1Z3RDbkpIdFdjbmFIUkxMenFKakdJZnN4ejA1TndoOGo4Z2F6ZG5fUHNBa051NWN6cEd2ck5TeDBvSHlEZkQyaVNldzJjSGdsQkl2ekpIb1k?oc=5) |
-| 2026-07-02 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUFl6Y0hOcWFIbUdMU0FRMHJNMHFHRThUMThCYW9zRUs5SFNVcGkzRGd1VWdPSnZBVWtud1BoaUR6REtfYzVBYlp1cmNlbl80ZnZ6VGVUX0tCOU1UcHJ6LURkTzFWMlZpc2VKakdIbHlkdldmQUoycHViUnN4Z0tvWFRZeVNzOTh4eFBiQ1dSbjNXUnVBeXpGRW1HNUtMS3ZfT05sZXlJbEZKLUhRNDhDbXBubHhGN0ZEUk9ZMTF5STlMZ1VkdjZySGdESDBGejk0RGphZEVWVFpwLUNmTDRj?oc=5) |
+| 2026-07-02 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdjdnU1ZuVDVkQmxlWmQ0TTdmMzhHbDdrdGF6Z0c2WUtxOWFRbzNNcTF6NGROVEpkWXVCejdvaDdVNFBJMFpMNEVNRjBrenlFZkhtcmV2U0JiLUNzM1VrdXFhdjhPTzh4TE5BWGdNQmxZNmtvd3J0SWNhZHdGTGZDTjVEdXVEZV80SkRwTFJZeHZMQm9nSUJRbEhKV0l4RFB1Tm1yNEhaZmttVlg5MnpwV0Ftb1lVazQtd3h6OVp5dy1GbTR3MlJuZFp4eldyeDBfN0FoNFJzR1lDbFBUMWhn?oc=5) |
 | 2026-07-02 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkxmNTktWHJsUmFLVHJqLWl4SnB6eUhoYnFVX3lWYlllM0NseHVVUDRhSFFua0g2bXZVZ29VbzBOYkRycDVxVDUzdjc0YkVPNEFBOG9tZldtdlBTMDVFZWZlbnZacG1mb09paldGTGdodU9zaTRLbF83YVFLdzQ5LUpMN3dOOFlDVlBEUGxNS2tVQTJhcTZpYWQ2WFduN3BBOThtdHhJdlFsSkNNNlVqS0VLQ2ZLQ1lo?oc=5) |
 | 2026-07-01 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHQ2WjZkRUJYVDYyQkZielpfRVZUXzdEQUJ3SWppMWVrN29GU1dfYlpvcFhfYnBTVHVtYUxRNnQ3TGFuZi1WLVM3SHBMMkpmc1lURFVVdTM1dGFUWkNlRU5CMUU3UlVGQVU0RUptUnpTSVVIWTE4ekhuUWpIRXFmSmdsQWh5dUF6WHlsYlR1Q3JZZGVoRjFVbGxqMHVQX1NmQmU2SC05UHdYcmhwNmp3dQ?oc=5) |
 | 2026-06-30 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9uZGhDeldLWDFSVUlXY1VBdzd0c3FCUVRkRkp0WWRyS3liZ1dCREZPTThFR1JjMGFpNmR5dFI1TmRiZWRiakdwNFBMVXhvOWs2NHVWUjNJa3kzZDlHdHBHazlueXVXYTB1NFlZTDkwNE9rYmZOZ3c?oc=5) |
@@ -125,10 +125,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-03 | Ant Group Leads $73.6M Funding in Humanoid Robotics Startup Zeroth, Signaling Push into AI Robotics - Pretax Income Report - dars.gov.et | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX2hhTnJDN2FleXBnRkdpZmU2am5QdFBFS25OTXBnSkZtYUpRMXN3RFVQeUFuM19KSlZWazZzalVFOEhHZmV3SWRMNkpEQ2JEWkZzNUVGcUlEay1LNWRoVFJIa0lNRXczTnpCSnNHS0VVb0lyczhrcndWUnNsdHBHU2JMcXg1SU1tTkowbGJ6aGd6cEEzWU13WU9WMzU0RUpIYVV2eXdhZ0pQSkR2dHZTMWpwTXFlQ09nZGRpc1laQmM2UlBtT0Q0TnhpRE04dXVVX0R3aEc5OA?oc=5) |
 | 2026-07-03 | Tesla trade secret suit settled as robot hand startup raises $11M - Memeburn | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVZSb3JNWVpHeEQ5TlNRMzRwSU9zUDhyeU9DWWZEN19vV3Z1Q2R2SVFnRjNmbGZjWjFpQmZQd0RRZGdtVDRGdFVxaXJQMTFLNURXdUkzY0tVd1F0RDM3SEVHallOVk1nTElzRklpZTJnZUZvdlZmNGN2OEhaUzkxMjNJZnh0T1hKUmZ6M1UzYw?oc=5) |
 | 2026-07-02 | Jeff Bezos' family office backed five AI startups in June - CNBC | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYm1rQXN5X3luU1p5ZE9tQW4tTm1zeTVubG94dG4xX1pIVkRpaG9wZHZpSlVHYW9GSUo5T0NPU0dzT2Q2ZVZNcF94dlp6Ti1wUXZTbmFCZFZkYUJqTXVheEl1N1MyY2xJdl9QYnZsQWpjcHNmaWdTTjZLdWhoTWczQ2ZQVGRueTlIZEswa2dZZkIxV2s0ZTlaQdIBngFBVV95cUxOYjNkUUFNY1F6S3dZMS14czU2WWMyejFhLTZQT0pOSGdOeEpNcEtTaFRuLURjUG5JU1BUTEozd2pqTU5KOU1Pc1NINmE0RUNXYWU3Z2tyclkwRGZBTkRKbVhtSWxFaVRvVTNESlUyYUxOMHU0QzBsME8xXzF0Yjk4OTdueU9fM0VkNWJDMVhINTVhODhJOENPTE8tczFxQQ?oc=5) |
-| 2026-07-02 | Bezos Family Office Backed Five AI Startups in June - Briefs Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaERnTklqbXpSNjI0OGU1Nm1MZlY3R0IxeERWaWpsTWdXTmpLa3dVZ3Y3T1pCSXNvQWgzX2FlMTRwX192SjA3UzBkYTFYY1hVM3drQ0hSQUdxZXFWXzBCV1hzQng0VHM0YXNZdGJ5MDZsclRRNkhtNzB6dzctQ281WDRWc3ZxZWhqODJKNFFickVJQVRzdkJkYWRiUDQ?oc=5) |
-| 2026-07-02 | YC-Selected Startups Reveal AI Shift to Robotics, U.S. Dominance - 조선일보 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTR5R1dCOFdUWnhSV09wMmNWb21qdFZ3NFMtZlRsdnRmTFB5d3hIQW5UdnVIYWw4ZVRoYnNVZTNLYmtCektpN1g5RUJPSkwwMkZJWmFNWFJqMmFzcjRFQWw4cml3c19KRm9aLXJtdnBuXzZ4dnZmcjNTRGI1bDc0bVIzcmNkcE11?oc=5) |
 | 2026-07-02 | 2026: The Year Physical AI Takes Center Stage - quasa.io | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFB0dEkxZFdfaFNSVjNiSmNSU3V5X2pieGg0SkVJYmpCVXN6YldJdVdZUEpmM1B2QXF3NElOX0VVRGtpLXRNaFJxOEtKd2xnY2l0dlFydTNIR2YzSkhaR3VDWkZMQXhPVDQxTkJDTDhoUlZZazduMHc?oc=5) |
 | 2026-07-02 | Ontario startup's humanoid robots aim to replace 'backbreaking' and dangerous work - Yahoo! Finance Canada | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxONVlGMTRTeUdMZTdpYlpDaDBwQ2lvUXc1d1dVMFNjcHdyVHhVM1h1RGZLVzJVYTR6d3hYXzZsa0FQQmx3c3hkQzN5Mlc5RUVjLUI5anFaN1RSNXRtRUFJTHc0UWVLZ1M4NjE1TFZvYzB4ZnNrRG9zcXMtdXFSSTEzTWV0U3JyclBlcEFuR1B3?oc=5) |
+| 2026-07-01 | East Ventures invests in Thai physical AI startup Amity Robotics - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxORkU4VHJFcTN5SXlLWHhwbXhCZWl3dDlnWnVQYkpjRy0yd2xxSmw0aDh4cFlKV0ZtQlB6Ql8xVzRKYVE3WHR2ZHNKMkVqTVdnZEtGVkh2eENubVpJM3RESDBfQ1IzMWtobUp3bU5taEJMQk5jSVJ3eVA1UGRDUW5weXp5aERMN3NBbDJZdWc2ZGdhN2lfWUNYcy1kWUtjeUMyS0VJQWRsc1k5V3hWOEw0?oc=5) |
+| 2026-07-01 | Thai startup Amity Robotics closes US$7.0 million Seed round to build a globally competitive physical AI company - East Ventures | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2I0bzFuaWl6OVBLSFlYbzh5TC1hWVpIR2pvYUZUbGRNbjNHemFnT190MWhya2k3N2N4ZVU0VmhudzBqcEhkU3BLYTluRl9tbEh3V3hYX2VJeWZlM2o3N0xCYUhZZHJmQjlsWllQVVd4MEx3U2hMcGhTaUxFeXZETFFlVnlmVjRNZjdOYWtjTDUzbF9leEZR?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

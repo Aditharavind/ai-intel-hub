@@ -11,13 +11,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 62981,
+    "stars": 62982,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-07-05",
     "topic": "robotics",
-    "score": 25192.5
+    "score": 25192.9
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -38,6 +38,16 @@
     "date": "2026-07-05",
     "topic": "robotics",
     "score": 6167.7
+  },
+  {
+    "repo": "google-deepmind/mujoco",
+    "stars": 14085,
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "date": "2026-07-05",
+    "topic": "robotics",
+    "score": 5634.1
   },
   {
     "repo": "kornia/kornia",
@@ -81,13 +91,13 @@
   },
   {
     "repo": "sou350121/VLA-Handbook",
-    "stars": 352,
+    "stars": 353,
     "language": "HTML",
     "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
     "url": "https://github.com/sou350121/VLA-Handbook",
     "date": "2026-07-05",
     "topic": "robot-learning",
-    "score": 140.9
+    "score": 141.3
   },
   {
     "repo": "vllm-project/vllm-omni",
@@ -108,16 +118,6 @@
     "date": "2026-07-05",
     "topic": "humanoid",
     "score": 210.9
-  },
-  {
-    "repo": "google-deepmind/mujoco",
-    "stars": 14084,
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "url": "https://github.com/google-deepmind/mujoco",
-    "date": "2026-07-04",
-    "topic": "robotics",
-    "score": 5633.7
   },
   {
     "repo": "dora-rs/dora",
@@ -151,13 +151,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 1944,
+    "stars": 1945,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-07-04",
     "topic": "humanoid",
-    "score": 777.7
+    "score": 778.1
   },
   {
     "repo": "vikashplus/robohive",
@@ -181,13 +181,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82290,
+    "stars": 82292,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-03",
     "topic": "robotics",
-    "score": 32916.1
+    "score": 32916.9
   },
   {
     "repo": "NaiboWang/EasySpider",
@@ -221,13 +221,13 @@
   },
   {
     "repo": "leofan90/Awesome-World-Models",
-    "stars": 1864,
+    "stars": 1865,
     "language": "Python",
     "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
     "url": "https://github.com/leofan90/Awesome-World-Models",
     "date": "2026-07-03",
     "topic": "world-model",
-    "score": 745.7
+    "score": 746.1
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -271,13 +271,13 @@
   },
   {
     "repo": "copper-project/copper-rs",
-    "stars": 1375,
+    "stars": 1376,
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
     "date": "2026-07-02",
     "topic": "physical-ai",
-    "score": 550.1
+    "score": 550.5
   },
   {
     "repo": "awslabs/awsome-distributed-ai",
@@ -411,23 +411,23 @@
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3114,
+    "stars": 3115,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-06-30",
     "topic": "embodied-ai",
-    "score": 1245.7
+    "score": 1246.1
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 29961,
+    "stars": 29962,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-06-29",
     "topic": "robotics",
-    "score": 11984.5
+    "score": 11984.9
   },
   {
     "repo": "thu-ml/Causal-Forcing",
@@ -491,13 +491,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 1867,
+    "stars": 1869,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-26",
     "topic": "robot-learning",
-    "score": 746.9
+    "score": 747.7
   },
   {
     "repo": "mimic-video/mimic-video",
@@ -811,13 +811,13 @@
   },
   {
     "repo": "PKU-YuanGroup/Helios",
-    "stars": 1950,
+    "stars": 1951,
     "language": "Python",
     "description": "Helios: Real Real-Time Long Video Generation Model",
     "url": "https://github.com/PKU-YuanGroup/Helios",
     "date": "2026-06-10",
     "topic": "world-model",
-    "score": 780.1
+    "score": 780.5
   },
   {
     "repo": "Tencent-Hunyuan/HY-WorldPlay",
