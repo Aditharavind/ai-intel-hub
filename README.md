@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-05 14:22 UTC
+Last Updated: 2026-07-05 15:57 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-05 | YinonDouchan/smolvla_mobile_robot_lift_turn_right | 18 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_turn_right) |
 | 2026-07-05 | stevensun2024/robotics-llm | 0 | 0 | [link](https://huggingface.co/stevensun2024/robotics-llm) |
 | 2026-07-05 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
 | 2026-07-05 | zaleni/WSA-Large-RoboTwin | 0 | 0 | [link](https://huggingface.co/zaleni/WSA-Large-RoboTwin) |
@@ -84,15 +85,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-05 | LuEduSoHu/robot_learning_tutorial_diffusion_0704_1501 | 0 | 0 | [link](https://huggingface.co/LuEduSoHu/robot_learning_tutorial_diffusion_0704_1501) |
 | 2026-07-05 | SakikoTogawa/pi0_robotwin_lora-place_object_basket-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_object_basket-100-himaconpp_repo) |
 | 2026-07-05 | anhtld/vla | 0 | 1 | [link](https://huggingface.co/anhtld/vla) |
+| 2026-07-05 | macv666/entropy-vla-grpo-logs | 0 | 0 | [link](https://huggingface.co/macv666/entropy-vla-grpo-logs) |
 | 2026-07-05 | Vladxximp/Huihui-GLM-5.2-abliterated-GGUF | 0 | 0 | [link](https://huggingface.co/Vladxximp/Huihui-GLM-5.2-abliterated-GGUF) |
-| 2026-07-05 | poet70/vla-sft-suite | 0 | 0 | [link](https://huggingface.co/poet70/vla-sft-suite) |
-| 2026-07-05 | poet70/vla-sft-code-dreamzero | 0 | 0 | [link](https://huggingface.co/poet70/vla-sft-code-dreamzero) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | cartesiancs/vessel | 326 | TypeScript | 130.5 | [link](https://github.com/cartesiancs/vessel) |
-| commaai/openpilot | 62980 | Python | 25192.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 62982 | Python | 25192.9 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 15980 | Python | 6392.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15419 | C++ | 6167.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11261 | Python | 4504.5 | [link](https://github.com/kornia/kornia) |
@@ -100,14 +100,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | flashrt-project/FlashRT | 394 | C++ | 157.7 | [link](https://github.com/flashrt-project/FlashRT) |
 | luohongk/Embodied-AI-Daily | 359 | HTML | 143.7 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 | sou350121/VLA-Handbook | 352 | HTML | 140.9 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5436 | Python | 2174.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 5437 | Python | 2174.9 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-07-03 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSa2d3a0hiWDBvOUNNWEZMbHk1bUpHVm9kdTRRbEVwdUgtMUdOX0xQcDBBNGxZV0p6eENuNkZjU25ndUJWRnFUMXhiaFdUOWFUd01keHhGMnZsMGI5OTFoQVRWR3JpSkE?oc=5) |
 | 2026-07-03 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0JBRVU0T3ZzUzhacVByakVuajBoLWZZWm02LVJoU2k2UFVwQkVMdGN0MDN0SXJSOWhCbFBKLW9HbnZWMWlvS2xGSnFwM3NiY0hLU0ZaMnlCLUkwRE9hVzgzdTM1ZUtNUkY0blBjT2FKcTBjS1RyQ0hyNEZXenZmellGYVlFdmxwdEE2T0hxaUw2blVwSzJ1NGgyeEs1aEVITWVfVzd2dkViRGRXdW9nOU1RazNTQ3k3aDEw0gG7AUFVX3lxTE1aVGtnUEEyYndxUDNGaDdKVFlJRDQ5cDRRdGktdjR6UV9obFhrZG5tbFVaMVJIQy12Zlotb0NDMVd3blBVeUNVU3NHMDktVS02SlJVUDBvTm9Sc1JoRXJfb252VGdZdnRTM2d1Z3RDbkpIdFdjbmFIUkxMenFKakdJZnN4ejA1TndoOGo4Z2F6ZG5fUHNBa051NWN6cEd2ck5TeDBvSHlEZkQyaVNldzJjSGdsQkl2ekpIb1k?oc=5) |
-| 2026-07-02 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdjdnU1ZuVDVkQmxlWmQ0TTdmMzhHbDdrdGF6Z0c2WUtxOWFRbzNNcTF6NGROVEpkWXVCejdvaDdVNFBJMFpMNEVNRjBrenlFZkhtcmV2U0JiLUNzM1VrdXFhdjhPTzh4TE5BWGdNQmxZNmtvd3J0SWNhZHdGTGZDTjVEdXVEZV80SkRwTFJZeHZMQm9nSUJRbEhKV0l4RFB1Tm1yNEhaZmttVlg5MnpwV0Ftb1lVazQtd3h6OVp5dy1GbTR3MlJuZFp4eldyeDBfN0FoNFJzR1lDbFBUMWhn?oc=5) |
+| 2026-07-02 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUFl6Y0hOcWFIbUdMU0FRMHJNMHFHRThUMThCYW9zRUs5SFNVcGkzRGd1VWdPSnZBVWtud1BoaUR6REtfYzVBYlp1cmNlbl80ZnZ6VGVUX0tCOU1UcHJ6LURkTzFWMlZpc2VKakdIbHlkdldmQUoycHViUnN4Z0tvWFRZeVNzOTh4eFBiQ1dSbjNXUnVBeXpGRW1HNUtMS3ZfT05sZXlJbEZKLUhRNDhDbXBubHhGN0ZEUk9ZMTF5STlMZ1VkdjZySGdESDBGejk0RGphZEVWVFpwLUNmTDRj?oc=5) |
 | 2026-07-02 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkxmNTktWHJsUmFLVHJqLWl4SnB6eUhoYnFVX3lWYlllM0NseHVVUDRhSFFua0g2bXZVZ29VbzBOYkRycDVxVDUzdjc0YkVPNEFBOG9tZldtdlBTMDVFZWZlbnZacG1mb09paldGTGdodU9zaTRLbF83YVFLdzQ5LUpMN3dOOFlDVlBEUGxNS2tVQTJhcTZpYWQ2WFduN3BBOThtdHhJdlFsSkNNNlVqS0VLQ2ZLQ1lo?oc=5) |
 | 2026-07-01 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHQ2WjZkRUJYVDYyQkZielpfRVZUXzdEQUJ3SWppMWVrN29GU1dfYlpvcFhfYnBTVHVtYUxRNnQ3TGFuZi1WLVM3SHBMMkpmc1lURFVVdTM1dGFUWkNlRU5CMUU3UlVGQVU0RUptUnpTSVVIWTE4ekhuUWpIRXFmSmdsQWh5dUF6WHlsYlR1Q3JZZGVoRjFVbGxqMHVQX1NmQmU2SC05UHdYcmhwNmp3dQ?oc=5) |
 | 2026-06-30 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9uZGhDeldLWDFSVUlXY1VBdzd0c3FCUVRkRkp0WWRyS3liZ1dCREZPTThFR1JjMGFpNmR5dFI1TmRiZWRiakdwNFBMVXhvOWs2NHVWUjNJa3kzZDlHdHBHazlueXVXYTB1NFlZTDkwNE9rYmZOZ3c?oc=5) |
@@ -119,8 +119,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-07-05 | Exclusive from Hard Krypton: Tsinghua University School of Vehicle and Mobility Alumni Launch Embodied AI Startup, Secure Hundreds of Millions in Angel Financing for Automotive Industry Deployment - 36 Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LRlpIb0JhZW5TeUxTVk5raVVxYTRHUDBmSExfc0YxTm02aU1RcGczQlk5Mk13X3NrdTBmTkd2WjctQnZxQVdBcGZaeTVtZUdkeHNn?oc=5) |
 | 2026-07-05 | Tsinghua Vehicle School Alums Launch Guangxiang Technology, Raise Hundreds of Millions for Embodied AI in Automotive - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkZkZ3lkNUtIRDdHX2k4RmZtekIxQ05BbDFNdVctYkVOZWlBRm9MbGNzYUZYZHZrUndINm5QMy11cmNHQzZqQUxtenRVbEI4dk5qSjZSOC15STdKU3EyTTYxeUtNUG5KS3V3VmFneWthakd5M010YWJ6ZU1tNUU2Y2dSYWRjRmFVbXlfZFA5b2NNYTk3R1RuWFZ3?oc=5) |
+| 2026-07-05 | Exclusive from Hard Krypton: Tsinghua University School of Vehicle and Mobility Alumni Launch Embodied AI Startup, Secure Hundreds of Millions in Angel Financing for Automotive Industry Deployment - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LRlpIb0JhZW5TeUxTVk5raVVxYTRHUDBmSExfc0YxTm02aU1RcGczQlk5Mk13X3NrdTBmTkd2WjctQnZxQVdBcGZaeTVtZUdkeHNn?oc=5) |
 | 2026-07-03 | TAP: Unlocking Embodied AI with Task-Agnostic Pretraining - StartupHub.ai | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSjl4Z0ozZnNzVVdQc3I1eV9OM2E3ODM2Qi0xV0FLUWo3RzM1UmpPNk42Zk5oOHRIaXVHcXY2eTFPLTJzS2xMVVNpSFpRYXB3RmRyUVlGWWk1UHdwV1pDS1ZBUUN0dnBKMi1ndW9RVUZfYjFiZ0JpenA3by13eTQxSURaYXJNZXFfX1pIaWlXa3NiRHN4TVdVNjRibEdCTmM3eExKTWNTZHVEZmc?oc=5) |
 | 2026-07-03 | Tesla trade secret suit settled as robot hand startup raises $11M - Memeburn | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVZSb3JNWVpHeEQ5TlNRMzRwSU9zUDhyeU9DWWZEN19vV3Z1Q2R2SVFnRjNmbGZjWjFpQmZQd0RRZGdtVDRGdFVxaXJQMTFLNURXdUkzY0tVd1F0RDM3SEVHallOVk1nTElzRklpZTJnZUZvdlZmNGN2OEhaUzkxMjNJZnh0T1hKUmZ6M1UzYw?oc=5) |
 | 2026-07-03 | TAP: Unlocking Embodied AI with Task-Agnostic Pretraining - StartupHub.ai | vision language action startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxPTkhpMzFvQUtlT2Z1T3M1VmE4UjZsT1dMSFN3RXBuQVk5cGZyM0VlUEhZSTl5VTRrWVh5QWZJVmMtYTlSdXFwT3liRjR4Nm9wbVhWVmdXOHlfdEJybHZCa3AyVzhTTlg2akdpWWJINFlLZ0kwYzl5OUx0LTBiXy1oUk9iLXZ5aEhKMlp4QW1JYmU?oc=5) |
