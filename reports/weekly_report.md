@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-05 20:04 UTC
+Generated: 2026-07-05 21:46 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,7 +14,7 @@ Generated: 2026-07-05 20:04 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82293 | 32917.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82296 | 32918.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 62985 | 25194.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44193 | 17677.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 29964 | 11985.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
@@ -34,9 +34,9 @@ Generated: 2026-07-05 20:04 UTC
 | --- | --- | --- | --- |
 | 2026-07-03 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTWpiTlNmSjROU2hWME1sQjZUTWxfVUg2M1cyVkVfVmduOUZ5ejBNM0pGSk9Sd3Y0Z1lQN2NreEN5ZVVwcWpuYnVObUVNWWZuUXc?oc=5) |
 | 2026-07-03 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSa2d3a0hiWDBvOUNNWEZMbHk1bUpHVm9kdTRRbEVwdUgtMUdOX0xQcDBBNGxZV0p6eENuNkZjU25ndUJWRnFUMXhiaFdUOWFUd01keHhGMnZsMGI5OTFoQVRWR3JpSkE?oc=5) |
-| 2026-07-03 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0JBRVU0T3ZzUzhacVByakVuajBoLWZZWm02LVJoU2k2UFVwQkVMdGN0MDN0SXJSOWhCbFBKLW9HbnZWMWlvS2xGSnFwM3NiY0hLU0ZaMnlCLUkwRE9hVzgzdTM1ZUtNUkY0blBjT2FKcTBjS1RyQ0hyNEZXenZmellGYVlFdmxwdEE2T0hxaUw2blVwSzJ1NGgyeEs1aEVITWVfVzd2dkViRGRXdW9nOU1RazNTQ3k3aDEw0gG7AUFVX3lxTE1aVGtnUEEyYndxUDNGaDdKVFlJRDQ5cDRRdGktdjR6UV9obFhrZG5tbFVaMVJIQy12Zlotb0NDMVd3blBVeUNVU3NHMDktVS02SlJVUDBvTm9Sc1JoRXJfb252VGdZdnRTM2d1Z3RDbkpIdFdjbmFIUkxMenFKakdJZnN4ejA1TndoOGo4Z2F6ZG5fUHNBa051NWN6cEd2ck5TeDBvSHlEZkQyaVNldzJjSGdsQkl2ekpIb1k?oc=5) |
 | 2026-07-02 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUFl6Y0hOcWFIbUdMU0FRMHJNMHFHRThUMThCYW9zRUs5SFNVcGkzRGd1VWdPSnZBVWtud1BoaUR6REtfYzVBYlp1cmNlbl80ZnZ6VGVUX0tCOU1UcHJ6LURkTzFWMlZpc2VKakdIbHlkdldmQUoycHViUnN4Z0tvWFRZeVNzOTh4eFBiQ1dSbjNXUnVBeXpGRW1HNUtMS3ZfT05sZXlJbEZKLUhRNDhDbXBubHhGN0ZEUk9ZMTF5STlMZ1VkdjZySGdESDBGejk0RGphZEVWVFpwLUNmTDRj?oc=5) |
-| 2026-07-02 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkxmNTktWHJsUmFLVHJqLWl4SnB6eUhoYnFVX3lWYlllM0NseHVVUDRhSFFua0g2bXZVZ29VbzBOYkRycDVxVDUzdjc0YkVPNEFBOG9tZldtdlBTMDVFZWZlbnZacG1mb09paldGTGdodU9zaTRLbF83YVFLdzQ5LUpMN3dOOFlDVlBEUGxNS2tVQTJhcTZpYWQ2WFduN3BBOThtdHhJdlFsSkNNNlVqS0VLQ2ZLQ1lo?oc=5) |
+| 2026-07-02 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VQTBnQWxTYWhiMXlHcWF3MlZwaGMyMTVibDZGNjZUY3Fmb1Jza1hYWXFyY1lvODNIbzZmVGkxSUhTbUtqdmhsU19qUGpTS0VUYU5HbzJxUQ?oc=5) |
+| 2026-07-01 | Apptronik |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHQ2WjZkRUJYVDYyQkZielpfRVZUXzdEQUJ3SWppMWVrN29GU1dfYlpvcFhfYnBTVHVtYUxRNnQ3TGFuZi1WLVM3SHBMMkpmc1lURFVVdTM1dGFUWkNlRU5CMUU3UlVGQVU0RUptUnpTSVVIWTE4ekhuUWpIRXFmSmdsQWh5dUF6WHlsYlR1Q3JZZGVoRjFVbGxqMHVQX1NmQmU2SC05UHdYcmhwNmp3dQ?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
