@@ -1,5 +1,14 @@
 [
   {
+    "model": "stevensun2024/robotics-llm",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/stevensun2024/robotics-llm",
+    "date": "2026-07-05",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "YinonDouchan/mobile_robot_lift_env",
     "downloads": 0,
     "likes": 0,
@@ -16,6 +25,15 @@
     "date": "2026-07-05",
     "keyword": "robot",
     "score": 0.1
+  },
+  {
+    "model": "InternRobotics/InternVLA-A1.5-RoboTwin",
+    "downloads": 13,
+    "likes": 0,
+    "url": "https://huggingface.co/InternRobotics/InternVLA-A1.5-RoboTwin",
+    "date": "2026-07-05",
+    "keyword": "robot",
+    "score": 4.0
   },
   {
     "model": "LuEduSoHu/robot_learning_tutorial_diffusion_0704_1501",
@@ -133,6 +151,15 @@
     "date": "2026-07-04",
     "keyword": "robot",
     "score": 53.2
+  },
+  {
+    "model": "robotyingtang/PRISM-VFM",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotyingtang/PRISM-VFM",
+    "date": "2026-07-04",
+    "keyword": "robot",
+    "score": 0.1
   },
   {
     "model": "mattpidden/vla0-realworld-epoch28",
@@ -277,33 +304,6 @@
     "date": "2026-07-03",
     "keyword": "robot",
     "score": 3.7
-  },
-  {
-    "model": "wu578/egowam-robotwin-state-und-step10000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/wu578/egowam-robotwin-state-und-step10000",
-    "date": "2026-07-03",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "SakikoTogawa/pi0_robotwin_lora-hanging_mug-100-himaconpp_repo",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-hanging_mug-100-himaconpp_repo",
-    "date": "2026-07-03",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "etri-robotai-platform-dev/phase1-e2e-pusht-repeat-20260623-143934-rerun",
-    "downloads": 31,
-    "likes": 0,
-    "url": "https://huggingface.co/etri-robotai-platform-dev/phase1-e2e-pusht-repeat-20260623-143934-rerun",
-    "date": "2026-07-03",
-    "keyword": "robot",
-    "score": 9.4
   },
   {
     "model": "deksprime/vla-jepa-robocasa-human300-pepijn-repro-ri",
@@ -601,15 +601,6 @@
     "date": "2026-06-21",
     "keyword": "robotics",
     "score": 7.9
-  },
-  {
-    "model": "Dust-Robotics/act-tealight_wicking_rebotb601-v2",
-    "downloads": 55,
-    "likes": 0,
-    "url": "https://huggingface.co/Dust-Robotics/act-tealight_wicking_rebotb601-v2",
-    "date": "2026-06-20",
-    "keyword": "robotics",
-    "score": 16.6
   },
   {
     "model": "NU-World-Model-Embodied-AI/ActQuant-Pi05-LIBERO-3.5bpw",
