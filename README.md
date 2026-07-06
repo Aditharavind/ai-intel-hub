@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-06 21:17 UTC
+Last Updated: 2026-07-06 22:54 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-06 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-07-06 | aslivishaal/robotics-phi35-mini-gguf | 0 | 0 | [link](https://huggingface.co/aslivishaal/robotics-phi35-mini-gguf) |
 | 2026-07-06 | madokalif/pi05-robotwin2-clean50-sft | 0 | 0 | [link](https://huggingface.co/madokalif/pi05-robotwin2-clean50-sft) |
 | 2026-07-06 | lerobot/lingbot_va_robotwin | 61 | 1 | [link](https://huggingface.co/lerobot/lingbot_va_robotwin) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-06 | kairos-agi/kairos-4B-robot-LIBERO-plus | 19 | 1 | [link](https://huggingface.co/kairos-agi/kairos-4B-robot-LIBERO-plus) |
 | 2026-07-06 | kairos-agi/Kairos3.1-4B-robot-480P | 24 | 0 | [link](https://huggingface.co/kairos-agi/Kairos3.1-4B-robot-480P) |
 | 2026-07-06 | pollen-robotics/yunet-face-detection-2023mar | 0 | 1 | [link](https://huggingface.co/pollen-robotics/yunet-face-detection-2023mar) |
-| 2026-07-06 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,13 +94,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Edgenesis/shifu | 1423 | Go | 569.3 | [link](https://github.com/Edgenesis/shifu) |
 | copper-project/copper-rs | 1378 | Rust | 551.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 886 | Python | 354.5 | [link](https://github.com/mosaico-labs/mosaico) |
-| commaai/openpilot | 63007 | Python | 25202.9 | [link](https://github.com/commaai/openpilot) |
+| nik-55/world-models | 188 |  | 75.3 | [link](https://github.com/nik-55/world-models) |
+| commaai/openpilot | 63010 | Python | 25204.1 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 29973 | Python | 11989.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15983 | Python | 6393.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15427 | C++ | 6170.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11268 | Python | 4507.3 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11080 | Rust | 4432.1 | [link](https://github.com/rerun-io/rerun) |
-| earthtojake/text-to-cad | 7707 | JavaScript | 3082.9 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -122,18 +122,19 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-06 | Jeff Bezos Is Pouring Money Into a Startup That Could Drive ‘Civilizational Wealth’ - 24/7 Wall St. | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbE5ZY21XOEJ0SXJhUHhzR1RycG5hVFZmOW51Xzl0ZzVEdFVKbGZ5ckpvTVY0Ujk4OVo1TTg0VS1Kcl93c2JPOFpwQmNOUHBOdUJzMDI4THhmdGJUYnhsb0RSWWJzcXdmR2d4T0ZJTzdycTFXdlh3em5nYVFxckxZVDFmckUtcUstUUdKX2tmblVINW1UbHZ1MHJCRHh6V1k5NEw4ZTkxWHl2LVNzYTJ1MGFlQk5qdHV2OEhlbmE4dmdvN2c?oc=5) |
 | 2026-07-06 | UK startup Worldmodeldata raises €8 million to turn video games into training data for physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVWREQnB0ZlNReGtfRFZNSkJSWmZScjUyclEyY2MxdVhPdy1DeTlleDlWUXdYeVZZcmMxTkNnTkltTlVJYzZ2ZjRGbFFLdFI5bmtxa3Z3OThZajlHNkxkcEZQZGVRMUlqZy1FOGxUbF92d2o4MzMxRHMyYWhzQWI5Z3h1VXpzajZWbEpCNGJ5OWljT0ZsdzhDQlNxOVBiOWx2MXowRDdGMmVDWjI5Q2x1NHRsUENYRXFpbk1SWFpRa05EUmJTelJCQjVhbHZoM2ll?oc=5) |
 | 2026-07-05 | Tsinghua Vehicle School Alums Launch Guangxiang Technology, Raise Hundreds of Millions for Embodied AI in Automotive - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkZkZ3lkNUtIRDdHX2k4RmZtekIxQ05BbDFNdVctYkVOZWlBRm9MbGNzYUZYZHZrUndINm5QMy11cmNHQzZqQUxtenRVbEI4dk5qSjZSOC15STdKU3EyTTYxeUtNUG5KS3V3VmFneWthakd5M010YWJ6ZU1tNUU2Y2dSYWRjRmFVbXlfZFA5b2NNYTk3R1RuWFZ3?oc=5) |
-| 2026-07-05 | Exclusive from Hard Krypton: Tsinghua University School of Vehicle and Mobility Alumni Launch Embodied AI Startup, Secure Hundreds of Millions in Angel Financing for Automotive Industry Deployment - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LRlpIb0JhZW5TeUxTVk5raVVxYTRHUDBmSExfc0YxTm02aU1RcGczQlk5Mk13X3NrdTBmTkd2WjctQnZxQVdBcGZaeTVtZUdkeHNn?oc=5) |
+| 2026-07-05 | Exclusive from Hard Krypton: Tsinghua University School of Vehicle and Mobility Alumni Launch Embodied AI Startup, Secure Hundreds of Millions in Angel Financing for Automotive Industry Deployment - 36 Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LRlpIb0JhZW5TeUxTVk5raVVxYTRHUDBmSExfc0YxTm02aU1RcGczQlk5Mk13X3NrdTBmTkd2WjctQnZxQVdBcGZaeTVtZUdkeHNn?oc=5) |
 | 2026-07-03 | TAP: Unlocking Embodied AI with Task-Agnostic Pretraining - StartupHub.ai | vision language action startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSjl4Z0ozZnNzVVdQc3I1eV9OM2E3ODM2Qi0xV0FLUWo3RzM1UmpPNk42Zk5oOHRIaXVHcXY2eTFPLTJzS2xMVVNpSFpRYXB3RmRyUVlGWWk1UHdwV1pDS1ZBUUN0dnBKMi1ndW9RVUZfYjFiZ0JpenA3by13eTQxSURaYXJNZXFfX1pIaWlXa3NiRHN4TVdVNjRibEdCTmM3eExKTWNTZHVEZmc?oc=5) |
+| 2026-07-03 | Tesla trade secret suit settled as robot hand startup raises $11M - Memeburn | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVZSb3JNWVpHeEQ5TlNRMzRwSU9zUDhyeU9DWWZEN19vV3Z1Q2R2SVFnRjNmbGZjWjFpQmZQd0RRZGdtVDRGdFVxaXJQMTFLNURXdUkzY0tVd1F0RDM3SEVHallOVk1nTElzRklpZTJnZUZvdlZmNGN2OEhaUzkxMjNJZnh0T1hKUmZ6M1UzYw?oc=5) |
 | 2026-07-02 | Jeff Bezos' family office backed five AI startups in June - CNBC | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYm1rQXN5X3luU1p5ZE9tQW4tTm1zeTVubG94dG4xX1pIVkRpaG9wZHZpSlVHYW9GSUo5T0NPU0dzT2Q2ZVZNcF94dlp6Ti1wUXZTbmFCZFZkYUJqTXVheEl1N1MyY2xJdl9QYnZsQWpjcHNmaWdTTjZLdWhoTWczQ2ZQVGRueTlIZEswa2dZZkIxV2s0ZTlaQdIBngFBVV95cUxOYjNkUUFNY1F6S3dZMS14czU2WWMyejFhLTZQT0pOSGdOeEpNcEtTaFRuLURjUG5JU1BUTEozd2pqTU5KOU1Pc1NINmE0RUNXYWU3Z2tyclkwRGZBTkRKbVhtSWxFaVRvVTNESlUyYUxOMHU0QzBsME8xXzF0Yjk4OTdueU9fM0VkNWJDMVhINTVhODhJOENPTE8tczFxQQ?oc=5) |
+| 2026-07-02 | Bezos Family Office Backed Five AI Startups in June - Briefs Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaERnTklqbXpSNjI0OGU1Nm1MZlY3R0IxeERWaWpsTWdXTmpLa3dVZ3Y3T1pCSXNvQWgzX2FlMTRwX192SjA3UzBkYTFYY1hVM3drQ0hSQUdxZXFWXzBCV1hzQng0VHM0YXNZdGJ5MDZsclRRNkhtNzB6dzctQ281WDRWc3ZxZWhqODJKNFFickVJQVRzdkJkYWRiUDQ?oc=5) |
+| 2026-07-02 | YC-Selected Startups Reveal AI Shift to Robotics, U.S. Dominance - 조선일보 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTR5R1dCOFdUWnhSV09wMmNWb21qdFZ3NFMtZlRsdnRmTFB5d3hIQW5UdnVIYWw4ZVRoYnNVZTNLYmtCektpN1g5RUJPSkwwMkZJWmFNWFJqMmFzcjRFQWw4cml3c19KRm9aLXJtdnBuXzZ4dnZmcjNTRGI1bDc0bVIzcmNkcE11?oc=5) |
 | 2026-07-02 | Ontario startup's humanoid robots aim to replace 'backbreaking' and dangerous work - Yahoo! Finance Canada | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxONVlGMTRTeUdMZTdpYlpDaDBwQ2lvUXc1d1dVMFNjcHdyVHhVM1h1RGZLVzJVYTR6d3hYXzZsa0FQQmx3c3hkQzN5Mlc5RUVjLUI5anFaN1RSNXRtRUFJTHc0UWVLZ1M4NjE1TFZvYzB4ZnNrRG9zcXMtdXFSSTEzTWV0U3JyclBlcEFuR1B3?oc=5) |
-| 2026-07-01 | This Embodied AI Startup Completes Series C Funding With A $2.94B Valuation - Benzinga | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWp3Ty1YaFYzS19jQUZ0VjAtWE8wZ3NlWEVEY0hXenV6MDR4WXUySGJUM3VwcE9wcnh6bnV4MXE5SEpQZXk3OWc4QTU4MHNQVy0zazlxYzhqeUNjeFU2cXJjSWpoeVdwNXdETTdJMHpveDNMZjNDMHdKR1VQNmJxWXppdmVPNjNfQ29Gc0Q1TzZfR0kwOUhVdkgwVGplejNidXhiMVF6MXctVVdscjVicmYzeS12endoaG5QNjdqSQ?oc=5) |
-| 2026-06-30 | Greater Bay Area mints two unicorns as embodied AI boom continues - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTFA4WkVCdGhPSVpNd0QyM1dEUkd5T2xJRi05NkFwdHNBakp1Zk9acTRWLW8wbkRhM3d0YkVVRnpwSEk0anc3M0lrUG1hdTh2REc1a2xkeUxzTkZPMmpISHFSajBRSEFONEhHZ1NyQ2VwMVR2ZVZwTHpRTjFodm12ZFk?oc=5) |
-| 2026-06-25 | How a Chinese physical AI start-up’s new paradigm bypasses US road maps - South China Morning Post | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDJSQVM4eFZjOWpJdmdKc3Q4Y0NySDYydUJINzcyc0NUSzhDMVhSVEJHQm9DNUJVMzR3bjFZTjgydWktT2pHSnNlN1Z1a0Jva0hhenk3VDBhN19UMVlNMEpwTWo5ZzhpX25DOUxUbW9WY1NnWHNRZnY3aG1SME5HOXFHeVdoZ2MtbUE5ckxxNFJ6Zl9iVlp1Wk5EZDJxQW51Zlh2UTEydlZLdngtbXN4ZHg5TFY4TDQwamZFRGVkcG8xOG8zS2xvRlk0dVPSAcwBQVVfeXFMTTVFWDE2MV9yc0l5OXlPREpTbXEzU0tkOVFvMG5IRjZCQXU3ZF9jQ1pDNy1xdkhZZW8tZkdmcVUwWFJualR0eDIzV1kxeHBlSmkwZUl5NTJfR1d2Z3hxNUNxckpDdEFweGpNMFl5SndzeHFWS0I0WWJOa2NUT25PTTFxLU5nSFhheVkxZWFwTmpUc29iTVdXRzBOaUtnVGo5WVU1YWpvRWNobXdYVkRLNWtEZ25DV0UzMVd0SFB2dkNLVDBEc1JRWHdVVGlX?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-06 | Production Associate | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4453797006) |
+| 2026-07-06 | Special Projects Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4694889006) |
 | 2026-07-02 | Mechanical Engineer - Arms | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4694160006) |
 | 2026-07-02 | Software Integration Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4618234006) |
 | 2026-07-02 | Senior AI Research Engineer | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6032175004) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-01 | AI Training Infrastructure Engineer – Humanoid Whole Body Control | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4674754006) |
 | 2026-07-01 | Firmware Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4654891006) |
 | 2026-07-01 | Helix Data Creator (Day Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693410006) |
-| 2026-07-01 | Helix Data Creator (Night Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693415006) |
 
 ## Automation
 

@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-06 21:17 UTC
+Generated: 2026-07-06 22:54 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,7 +15,7 @@ Generated: 2026-07-06 21:17 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 82313 | 32925.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63007 | 25202.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63010 | 25204.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44202 | 17680.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 29973 | 11989.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15983 | 6393.3 | [link](https://github.com/zauberzeug/nicegui) |
@@ -26,7 +26,7 @@ Generated: 2026-07-06 21:17 UTC
 | pollen-robotics/wake-word-detector | 1664 | 499.3 | [link](https://huggingface.co/pollen-robotics/wake-word-detector) |
 | lerobot/VLA-JEPA-Pretrain | 1389 | 418.8 | [link](https://huggingface.co/lerobot/VLA-JEPA-Pretrain) |
 | IffYuan/Embodied-R1.5 | 827 | 248.2 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
-| lerobot/VLA-JEPA-LIBERO | 583 | 176.0 | [link](https://huggingface.co/lerobot/VLA-JEPA-LIBERO) |
+| lerobot/VLA-JEPA-LIBERO | 583 | 176.2 | [link](https://huggingface.co/lerobot/VLA-JEPA-LIBERO) |
 | jovaldivieso/double_integrator_casadi_diffusion_policy | 449 | 135.0 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
 
 ## Top Funding Rounds
@@ -44,5 +44,5 @@ Generated: 2026-07-06 21:17 UTC
 | 2026-07-06 | Jeff Bezos Is Pouring Money Into a Startup That Could Drive ‘Civilizational Wealth’ - 24/7 Wall St. | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbE5ZY21XOEJ0SXJhUHhzR1RycG5hVFZmOW51Xzl0ZzVEdFVKbGZ5ckpvTVY0Ujk4OVo1TTg0VS1Kcl93c2JPOFpwQmNOUHBOdUJzMDI4THhmdGJUYnhsb0RSWWJzcXdmR2d4T0ZJTzdycTFXdlh3em5nYVFxckxZVDFmckUtcUstUUdKX2tmblVINW1UbHZ1MHJCRHh6V1k5NEw4ZTkxWHl2LVNzYTJ1MGFlQk5qdHV2OEhlbmE4dmdvN2c?oc=5) |
 | 2026-07-06 | UK startup Worldmodeldata raises €8 million to turn video games into training data for physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVWREQnB0ZlNReGtfRFZNSkJSWmZScjUyclEyY2MxdVhPdy1DeTlleDlWUXdYeVZZcmMxTkNnTkltTlVJYzZ2ZjRGbFFLdFI5bmtxa3Z3OThZajlHNkxkcEZQZGVRMUlqZy1FOGxUbF92d2o4MzMxRHMyYWhzQWI5Z3h1VXpzajZWbEpCNGJ5OWljT0ZsdzhDQlNxOVBiOWx2MXowRDdGMmVDWjI5Q2x1NHRsUENYRXFpbk1SWFpRa05EUmJTelJCQjVhbHZoM2ll?oc=5) |
 | 2026-07-05 | Tsinghua Vehicle School Alums Launch Guangxiang Technology, Raise Hundreds of Millions for Embodied AI in Automotive - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkZkZ3lkNUtIRDdHX2k4RmZtekIxQ05BbDFNdVctYkVOZWlBRm9MbGNzYUZYZHZrUndINm5QMy11cmNHQzZqQUxtenRVbEI4dk5qSjZSOC15STdKU3EyTTYxeUtNUG5KS3V3VmFneWthakd5M010YWJ6ZU1tNUU2Y2dSYWRjRmFVbXlfZFA5b2NNYTk3R1RuWFZ3?oc=5) |
-| 2026-07-05 | Exclusive from Hard Krypton: Tsinghua University School of Vehicle and Mobility Alumni Launch Embodied AI Startup, Secure Hundreds of Millions in Angel Financing for Automotive Industry Deployment - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LRlpIb0JhZW5TeUxTVk5raVVxYTRHUDBmSExfc0YxTm02aU1RcGczQlk5Mk13X3NrdTBmTkd2WjctQnZxQVdBcGZaeTVtZUdkeHNn?oc=5) |
+| 2026-07-05 | Exclusive from Hard Krypton: Tsinghua University School of Vehicle and Mobility Alumni Launch Embodied AI Startup, Secure Hundreds of Millions in Angel Financing for Automotive Industry Deployment - 36 Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LRlpIb0JhZW5TeUxTVk5raVVxYTRHUDBmSExfc0YxTm02aU1RcGczQlk5Mk13X3NrdTBmTkd2WjctQnZxQVdBcGZaeTVtZUdkeHNn?oc=5) |
 | 2026-07-03 | TAP: Unlocking Embodied AI with Task-Agnostic Pretraining - StartupHub.ai | vision language action startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSjl4Z0ozZnNzVVdQc3I1eV9OM2E3ODM2Qi0xV0FLUWo3RzM1UmpPNk42Zk5oOHRIaXVHcXY2eTFPLTJzS2xMVVNpSFpRYXB3RmRyUVlGWWk1UHdwV1pDS1ZBUUN0dnBKMi1ndW9RVUZfYjFiZ0JpenA3by13eTQxSURaYXJNZXFfX1pIaWlXa3NiRHN4TVdVNjRibEdCTmM3eExKTWNTZHVEZmc?oc=5) |

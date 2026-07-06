@@ -1,5 +1,14 @@
 [
   {
+    "model": "zolkin/robot_rl",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/zolkin/robot_rl",
+    "date": "2026-07-06",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
     "model": "aslivishaal/robotics-phi35-mini-gguf",
     "downloads": 0,
     "likes": 0,
@@ -99,13 +108,13 @@
     "score": 0.1
   },
   {
-    "model": "OpenWAM/Cotrain_Action_Supervision_Robotwin_Clean",
+    "model": "anhtld/vla",
     "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/Cotrain_Action_Supervision_Robotwin_Clean",
+    "likes": 2,
+    "url": "https://huggingface.co/anhtld/vla",
     "date": "2026-07-06",
-    "keyword": "robot",
-    "score": 0.1
+    "keyword": "vla",
+    "score": 0.5
   },
   {
     "model": "chomeed/shell_game_touch_vla_v0_pi05",
@@ -115,15 +124,6 @@
     "date": "2026-07-06",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "anhtld/vla",
-    "downloads": 0,
-    "likes": 2,
-    "url": "https://huggingface.co/anhtld/vla",
-    "date": "2026-07-06",
-    "keyword": "vla",
-    "score": 0.5
   },
   {
     "model": "liuzhiqian/multi_agent_vla",
@@ -164,11 +164,11 @@
   {
     "model": "lerobot/VLA-JEPA-LIBERO",
     "downloads": 583,
-    "likes": 5,
+    "likes": 6,
     "url": "https://huggingface.co/lerobot/VLA-JEPA-LIBERO",
     "date": "2026-07-06",
     "keyword": "vla",
-    "score": 176.0
+    "score": 176.2
   },
   {
     "model": "mim-chess-vlas/pi05-separate-channel-msk-config",
