@@ -1,5 +1,19 @@
 [
   {
+    "title": "Gluing 8192 MCUs Together to Make a GPU",
+    "source": "Hackaday",
+    "date": "2026-07-06",
+    "url": "https://hackaday.com/2026/07/06/gluing-8192-mcus-together-to-make-a-gpu/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"492\" src=\"https://hackaday.com/wp-content/uploads/2026/07/mcu_cluster_bitluni_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>What do you get when you take 8,192 CH570 MCUs, put them on custom PCBs, and write firmware for this interconnected gaggle of cores? In the case of [bitluni]&#8217;s project, <a class=\"read-more\" href=\"https://hackaday.com/2026/07/06/gluing-8192-mcus-together-to-make-a-gpu/\">&#8230;read more</a>"
+  },
+  {
+    "title": "He Comes to Bury Segmented Memory, Not to Praise It",
+    "source": "Hackaday",
+    "date": "2026-07-06",
+    "url": "https://hackaday.com/2026/07/06/he-comes-to-bury-segmented-memory-not-to-praise-it/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2025/05/seg.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[BillPg] has been designing a fantasy 1980s-era home computer. As part of the exercise, he&#8217;s reevaluating all the assumptions that have grown organically over time in the small computer landscape. <a class=\"read-more\" href=\"https://hackaday.com/2026/07/06/he-comes-to-bury-segmented-memory-not-to-praise-it/\">&#8230;read more</a>"
+  },
+  {
     "title": "Extract Fumes in Midcentury Style With Nixie Tubes and Military Surplus",
     "source": "Hackaday",
     "date": "2026-07-06",
@@ -12,6 +26,20 @@
     "date": "2026-07-06",
     "url": "https://hackaday.com/2026/07/05/the-coolest-hat-at-the-hacker-camp/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/mike-fan-hat-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>People in hotter parts of the world may permit themselves a grin at this, but Europeans have recently been suffering under an unseasonal June heatwave. Most of us have been <a class=\"read-more\" href=\"https://hackaday.com/2026/07/05/the-coolest-hat-at-the-hacker-camp/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Beelink EQi Wildcat Lake Core 3 304 mini PC review – Part 1: Specifications, unboxing, teardown, and first boot",
+    "source": "CNX Software",
+    "date": "2026-07-06",
+    "url": "https://www.cnx-software.com/2026/07/06/beelink-eqi-wildcat-lake-core-3-304-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/",
+    "summary": "<div><img alt=\"Beelink EQi Wildcat Lake Core 3 304 review\" class=\"attachment-medium size-medium wp-post-image\" height=\"551\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Beelink-EQi-Wildcat-Lake-Core-3-304-review-720x551.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We&#8217;ve received our first Wildcat Lake hardware for review, as Beelink has sent us an EQi mini PC powered by the Intel Core 3 304 entry-level 5-core processor with a 15 TOPS AI accelerator. The mini PC ships with either 16GB of LPDDR5 (soldered-on) or 24GB/32GB of DDR5 (SO-DIMM) memory and 512GB UFS 3.1 storage. It also features two M.2 Key-M PCIe Gen4 sockets, 10GbE and 2.5GbE RJ45 ports, WiFI 6 and Bluetooth 5.2 connectivity, three display outputs via HDMI and USB4 ports, and more. We&#8217;ll start the review by listing the specifications, checking out the hardware with an unboxing and a teardown, before giving it a quick try with Windows 11 Pro. In the second part of the review, we&#8217;ll focus on Windows 11 Pro, with feature testing and benchmarks, before switching to Ubuntu 26.04 to test a recent Linux distribution on a Wildcat Lake mini PC. Beelink EQi [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/06/beelink-eqi-wildcat-lake-core-3-304-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/\">Beelink EQi Wildcat Lake Core 3 304 mini PC review &#8211; Part 1: Specifications, unboxing, teardown, and first boot</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Tiny Calixto Systems AM62L STAMP SOM targets industrial automation, HMI applications, EV chargers",
+    "source": "CNX Software",
+    "date": "2026-07-06",
+    "url": "https://www.cnx-software.com/2026/07/06/tiny-calixto-systems-am62l-stamp-som-targets-industrial-automation-hmi-applications-ev-chargers/",
+    "summary": "<div><img alt=\"AM62L STAMP SOM and Evaluation Kit\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/AM62L-STAMP-SOM-and-Evaluation-Kit-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Calixto Systems has introduced the AM62L STAMP SOM, a tiny (40x40mm) system-on-module around the Texas Instruments AM62L dual-core Arm Cortex-A53 CPU running at up to 1.25 GHz, along with an evaluation kit. Designed for embedded Linux applications, the module targets industrial automation, HMIs, EV chargers, and smart retail. Calixto AM62L STAMP SOM The SoM integrates up to 2GB LPDDR4x RAM and 8GB or 16GB eMMC storage, along with Gigabit Ethernet, two USB 2.0 OTG interfaces, dual SD interfaces, MIPI DSI and parallel RGB display support, McASP audio, and a wide range of industrial I/Os, including CAN FD, eight UARTs, four SPI buses, five I2C buses, ADC, DAC, PWM, GPIO, and a GPMC interface. It also integrates hardware security features such as AES encryption, RSA/ECC acceleration, DRBG, TRNG, and a unique device ID for secure embedded applications. AM62L STAMP SOM specifications: SoC – Texas Instruments Sitara AM62Lx single-core/dual-core Arm Cortex-A53 processor @ [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/06/tiny-calixto-systems-am62l-stamp-som-targets-industrial-automation-hmi-applications-ev-chargers/\">Tiny Calixto Systems AM62L STAMP SOM targets industrial automation, HMI applications, EV chargers</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "u-blox F11 low-power dual-band GNSS chips and modules consume just 7mW in LEAP mode",
@@ -28,25 +56,32 @@
     "summary": "<div><img alt=\" Versal Premium Gen 2 Memory on Package (MoP) adaptive SoCs\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Versal-Premium-Gen-2-Memory-on-Package-MoP-adaptive-SoCs-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>AMD has announced the Versal Premium Gen 2 Memory-on-Package (MoP) adaptive SoCs, adding an integrated memory option to the Premium Gen 2 family, a topic we covered back in November 2024. While the core silicon (dual-core Cortex-A72 + dual-core Cortex-R5F + high-end FPGA fabric) remains the same, the new devices (2VP3422, 2VP3522, and 2VP3622) integrate up to 32 GB of LPDDR5X memory directly inside the package. This removes the need for external high-speed memory on the board and reduces PCB area by up to 60%. This also eliminates high-speed memory routing on the carrier board, increasing the maximum memory bandwidth to 288 GB/s. AMD Versal Premium Gen2 MoP specifications: CPU cores Dual-core Arm Cortex-A72 application core, 48 KB/32 KB L1 Cache w/ parity &#38; ECC; 1 MB L2 Cache w/ ECC Dual-core Arm Cortex R5F, 32 KB/32 KB L1 Cache, and 256 KB TCM w/ECC Memory on Package 32 GB of LPDDR5X DRAM [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/06/amd-versal-premium-gen-2-mop-adaptive-soc-integrates-32gb-lpddr5x-to-shrink-board-footprint-by-60/\">AMD Versal Premium Gen 2 MoP adaptive SoC integrates 32GB LPDDR5X to shrink board footprint by 60%</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Pickering PXI/PXIe analogue output modules target HIL simulation",
+    "source": "Electronics Weekly",
+    "date": "2026-07-06",
+    "url": "https://www.electronicsweekly.com/news/products/test-measurement-products/pickering-pxi-pxie-analogue-output-modules-target-hil-simulation-2026-07/",
+    "summary": "<p>Pickering Interfaces is expanding its signal sourcing and sensor simulation portfolio with new PXI/PXIe analogue output modules: the 41-770 PXI, 43-770 PXIe, 41-625 PXI, 43-625 PXIe and PXI 41-761A. The ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/test-measurement-products/pickering-pxi-pxie-analogue-output-modules-target-hil-simulation-2026-07/\">Pickering PXI/PXIe analogue output modules target HIL simulation</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Micron breaks ground on $9bn Hiroshima fab expansion",
     "source": "Electronics Weekly",
     "date": "2026-07-06",
     "url": "https://www.electronicsweekly.com/news/business/micron-breaks-ground-on-9bn-hiroshima-fab-2026-07/",
-    "summary": "<p>At the weekend, Micron broke ground on a $9.3 billion expansion of its fab in Hiroshima supported by a $4.8 billion allocation by the Japanese  government. “Micron’s very first HBM ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/micron-breaks-ground-on-9bn-hiroshima-fab-2026-07/\">Micron breaks ground on $9bn Hiroshima fab expansion</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>At the weekend, Micron broke ground on a $9.3 billion expansion of its fab in Hiroshima supported by a $4.8 billion allocation by the Japanese government. “Micron’s very first HBM ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/micron-breaks-ground-on-9bn-hiroshima-fab-2026-07/\">Micron breaks ground on $9bn Hiroshima fab expansion</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "SEMI asks US government not to intervene in memory crisis",
     "source": "Electronics Weekly",
     "date": "2026-07-06",
     "url": "https://www.electronicsweekly.com/news/business/semi-tells-white-house-not-to-intervene-in-memory-crisis-2026-07/",
-    "summary": "<p>SEMI has written a letter to the U.S. government asking it not to intervene in the memory chip market. The letter is being seen as opposition to Apple’s request to ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/semi-tells-white-house-not-to-intervene-in-memory-crisis-2026-07/\">SEMI asks US government not to intervene in memory crisis</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>SEMI has written a letter to the US government asking it not to intervene in the memory chip market. The letter is being seen as opposition to Apple’s request to ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/semi-tells-white-house-not-to-intervene-in-memory-crisis-2026-07/\">SEMI asks US government not to intervene in memory crisis</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Panmesia and Meta demo CXL’s advantages in expanding server memory",
+    "title": "Panmnesia and Meta demo CXL’s advantages in expanding server memory",
     "source": "Electronics Weekly",
     "date": "2026-07-06",
     "url": "https://www.electronicsweekly.com/news/business/panmesia-and-meta-demo-cxl-2026-07/",
-    "summary": "<p>Panmnesia has demonstrated that its next-stage CXL controller and PBR  (Port-Based Routing) switch keep memory-access latency low while extending memory expansion to span dozens of servers or more. Meta has ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/panmesia-and-meta-demo-cxl-2026-07/\">Panmesia and Meta demo CXL’s advantages in expanding server memory</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Panmnesia has demonstrated that its next-stage CXL controller and PBR (Port-Based Routing) switch keep memory-access latency low while extending memory expansion to span dozens of servers or more. Meta has ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/panmesia-and-meta-demo-cxl-2026-07/\">Panmnesia and Meta demo CXL’s advantages in expanding server memory</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Raspberry Pi upgrades secure boot provisioning software",
@@ -89,20 +124,6 @@
     "date": "2026-07-05",
     "url": "https://hackaday.com/2026/07/05/demonstrating-lfp-battery-safety-in-case-of-bms-failure/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"492\" src=\"https://hackaday.com/wp-content/uploads/2026/07/ul_2054_bms_short_testing_will_prowse_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Generally, LiFePO4 (LFP) batteries are quite safe and stable, but it&#8217;s still possible for something to go wrong, even something catastrophic, like the battery management system (BMS) developing a direct <a class=\"read-more\" href=\"https://hackaday.com/2026/07/05/demonstrating-lfp-battery-safety-in-case-of-bms-failure/\">&#8230;read more</a>"
-  },
-  {
-    "title": "2026 Frikkin Lasers Challenge: A 3D-Printed Raman Spectrometer",
-    "source": "Hackaday",
-    "date": "2026-07-05",
-    "url": "https://hackaday.com/2026/07/05/2026-frikkin-lasers-challenge-a-3d-printed-raman-spectrometer/",
-    "summary": "<div><img alt=\"A black plastic cube is shown in front of another, larger rectangular black plastic box. The plastic cube has a silver microscope objective protruding from one side, with green light being emitted from it into a small plastic tube held on a positioning stage.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/raman_spectrometer.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When light reflects off a surface, not all of it reflects off at the same wavelength; some photons impart a portion of their energy to raising the vibrational energy of <a class=\"read-more\" href=\"https://hackaday.com/2026/07/05/2026-frikkin-lasers-challenge-a-3d-printed-raman-spectrometer/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Old Midi Instruments Don’t Like Modern Midi. What’s To Be Done?",
-    "source": "Hackaday",
-    "date": "2026-07-05",
-    "url": "https://hackaday.com/2026/07/05/old-midi-instruments-dont-like-modern-midi-whats-to-be-done/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"392\" src=\"https://hackaday.com/wp-content/uploads/2016/01/midi-synth.jpg?w=603\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"603\" /></div>In theory, MIDI is an electrical and protocol standard that allows any such equipped instrument or computer to talk to any other. But as the wonderfully named [Knob Monster] will <a class=\"read-more\" href=\"https://hackaday.com/2026/07/05/old-midi-instruments-dont-like-modern-midi-whats-to-be-done/\">&#8230;read more</a>"
   },
   {
     "title": "Macintosh emulator works on ESP32-P4 display devkits from M5Stack and Waveshare",
@@ -194,13 +215,6 @@
     "date": "2026-07-03",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/dithering-2026-07/",
     "summary": "<p>Europe&#8217;s involvement in the semiconductor industry has always an on-off, hot-cold, up-and-down kind of thing. The  November 11th 1996 edition of Electronics Weekly carried this piece: ‘During the 1970s and ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/dithering-2026-07/\">Dithering</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Sony becomes Promoter member for MIPI Alliance",
-    "source": "Electronics Weekly",
-    "date": "2026-07-03",
-    "url": "https://www.electronicsweekly.com/news/products/sensors-products/sony-becomes-promoter-member-for-mipi-alliance-2026-07/",
-    "summary": "<p>Sony Semiconductor is strengthening its relationship with the MIPI Alliance. It is becoming the newest Promoter member for the wired interface standards body. With the appointment, Sony obtains a seat ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/sensors-products/sony-becomes-promoter-member-for-mipi-alliance-2026-07/\">Sony becomes Promoter member for MIPI Alliance</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Impactful U.S. Inventions #4thOfJuly #AmericanInventions",
@@ -369,20 +383,6 @@
     "date": "2026-07-02",
     "url": "https://www.eejournal.com/article/are-modulated-ultrasound-mems-speakers-the-future-of-speakers/",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/max-0497-image-for-home-page-sonic-edge-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />Engineers tend to be traditional. Once we&#8217;ve found a way of doing something that works, we can happily keep on doing it the same way for decades. Loudspeakers are a perfect example. Whether they&#8217;re found in earbuds, smartphones, televisions, or concert halls, almost all of them still rely on the same basic principle: mechanically moving &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/are-modulated-ultrasound-mems-speakers-the-future-of-speakers/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Are Modulated Ultrasound MEMS Speakers the Future of Speakers?\"</span></a>"
-  },
-  {
-    "title": "Sipeed NanoKVM-Go – A 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding)",
-    "source": "CNX Software",
-    "date": "2026-07-01",
-    "url": "https://www.cnx-software.com/2026/07/01/sipeed-nanokvm-go-an-4k-usb-c-kvm-with-recall-like-function-ai-integration/",
-    "summary": "<div><img alt=\"NanoKVM-Go\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/NanoKVM-Go-720x563.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Sipeed NanoKVM-Go is a 4K USB-C KVM designed to control any USB-C device from anywhere with one cable. It also supports &#8220;full screen memory&#8221;, a function similar to the controversial Microsoft Recall feature, which enables an AI agent to search through your screenshots. Remote control software works fine until your system freezes or BIOS access is required, and traditional KVMs do the job with HDMI, USB, Ethernet, power cables, and adapters, but that&#8217;s a bit too much when working on the go. The NanoKVM-Go aims to solve all these little issues with a small and light device that requires only one cable to the target, while the host connects to the USB KVM over WiFi 6. NanoKVM-Go and Go+ specifications: SoC &#8211; Unamed, but almost certainly the Axera Tech AX630C used in the Sipeed NanoKVM Pro 4K IP KVM. CPU &#8211; Dual-core Cortex-A53 AI accelerator &#8211; 3.2TOPS NPU System Memory [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/01/sipeed-nanokvm-go-an-4k-usb-c-kvm-with-recall-like-function-ai-integration/\">Sipeed NanoKVM-Go &#8211; A 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Raspberry Pi CM0-based industrial data acquisition gateway features RS-485, RS-232, DI, and DO interfaces",
-    "source": "CNX Software",
-    "date": "2026-07-01",
-    "url": "https://www.cnx-software.com/2026/07/01/raspberry-pi-cm0-based-industrial-data-acquisition-gateway-offer-rs485-rs232-di-do-interfaces/",
-    "summary": "<div><img alt=\"Raspberry Pi CM0 industrial data acquisition gateway\" class=\"attachment-medium size-medium wp-post-image\" height=\"642\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Raspberry-Pi-CM0-industrial-data-acquisition-gateway-720x642.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>EDATEC ED-IPC1200 is an industrial data acquisition gateway powered by the Raspberry Pi Compute Module Zero (CM0), designed for industrial automation and edge applications with various I/O interfaces, a fanless design, and a wide range (9–28V) DC power input. The industrial computer features RS-485, RS-232, four digital inputs, and four digital outputs for data acquisition and equipment control, and supports Ethernet, and optional Wi-Fi/Bluetooth and/or 4G LTE connectivity. EDATEC ED-IPC1200 specifications: SoM – Raspberry Pi CM0 SoC – Broadcom BCM2710A1 CPU – Quad-core Cortex-A53 processor @ 1.0 GHz GPU – VideoCore IV GPU supporting OpenGL ES 1.1, 2.0 graphics VPU – H.264/MPEG-4 1080p30 video decoding, H.264 1080p30 video encoding System Memory – 512MB LPDDR2 RAM Storage – 8GB or 16GB eMMC flash Wireless – Optional WiFi 4 and Bluetooth 5.0 module Networking 10/100Mbps Ethernet RJ45 jack Optional Wi-Fi and Bluetooth on system-on-module 4G LTE CAT-1 with Nano SIM card slot [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/01/raspberry-pi-cm0-based-industrial-data-acquisition-gateway-offer-rs485-rs232-di-do-interfaces/\">Raspberry Pi CM0-based industrial data acquisition gateway features RS-485, RS-232, DI, and DO interfaces</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Efficient Computer Introduces Efficient Labs Platform",
