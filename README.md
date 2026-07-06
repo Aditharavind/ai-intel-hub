@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-06 01:31 UTC
+Last Updated: 2026-07-06 06:13 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-06 | 🤗 Kernels: Major Updates | Hugging Face | [link](https://huggingface.co/blog/revamped-kernels) |
 | 2026-07-01 | Hugging Face and Cerebras bring Gemma 4 to real-time voice AI | Hugging Face | [link](https://huggingface.co/blog/cerebras-gemma4-voice-ai) |
 | 2026-06-30 | How ChatGPT adoption has expanded | OpenAI | [link](https://openai.com/index/how-chatgpt-adoption-has-expanded) |
 | 2026-06-30 | Inside Genebench-Pro | OpenAI | [link](https://openai.com/index/genebench-pro/case-studies) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-06-30 | Why Specialization Is Inevitable | Hugging Face | [link](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable) |
 | 2026-06-30 | Featuring Every Eval Ever Results on Hugging Face Model Pages | Hugging Face | [link](https://huggingface.co/blog/eee-community-evals) |
 | 2026-06-29 | Mapping Europe’s AI Workforce Opportunity | OpenAI | [link](https://openai.com/index/mapping-ai-jobs-transition-eu) |
-| 2026-06-29 | DiScoFormer: One transformer for density and score, across distributions | Hugging Face | [link](https://huggingface.co/blog/allenai/discoformer) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-06 | Extract Fumes in Midcentury Style With Nixie Tubes and Military Surplus | Hackaday | [link](https://hackaday.com/2026/07/05/extract-fumes-in-midcentury-style-with-nixie-tubes-and-military-surplus/) |
+| 2026-07-06 | The Coolest Hat At The Hacker Camp | Hackaday | [link](https://hackaday.com/2026/07/05/the-coolest-hat-at-the-hacker-camp/) |
+| 2026-07-06 | u-blox F11 low-power dual-band GNSS chips and modules consume just 7mW in LEAP mode | CNX Software | [link](https://www.cnx-software.com/2026/07/06/u-blox-f11-low-power-dual-band-gnss-chips-and-modules-consume-just-7mw-in-leap-mode/) |
 | 2026-07-06 | AMD Versal Premium Gen 2 MoP adaptive SoC integrates 32GB LPDDR5X to shrink board footprint by 60% | CNX Software | [link](https://www.cnx-software.com/2026/07/06/amd-versal-premium-gen-2-mop-adaptive-soc-integrates-32gb-lpddr5x-to-shrink-board-footprint-by-60/) |
+| 2026-07-06 | Micron breaks ground on $9bn Hiroshima fab expansion | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/micron-breaks-ground-on-9bn-hiroshima-fab-2026-07/) |
+| 2026-07-06 | SEMI asks US government not to intervene in memory crisis | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/semi-tells-white-house-not-to-intervene-in-memory-crisis-2026-07/) |
+| 2026-07-06 | Panmesia and Meta demo CXL’s advantages in expanding server memory | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/panmesia-and-meta-demo-cxl-2026-07/) |
+| 2026-07-06 | Raspberry Pi upgrades secure boot provisioning software | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/raspberry-pi-upgrades-secure-boot-provisioning-software-2026-07/) |
+| 2026-07-06 | Foldables Hierarchy Emerging | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/foldables-2026-07/) |
 | 2026-07-06 | Ed Works The Chinese Memory Angle | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-38-2026-07/) |
-| 2026-07-05 | Hackaday Links: July 5, 2026 | Hackaday | [link](https://hackaday.com/2026/07/05/hackaday-links-july-5-2026/) |
-| 2026-07-05 | Seeing Bacteria, Nanoprisms, and More with an Atomic Force Microscope | Hackaday | [link](https://hackaday.com/2026/07/05/seeing-bacteria-nanoprisms-and-more-with-an-atomic-force-microscope/) |
-| 2026-07-05 | Demonstrating LFP Battery Safety in Case of BMS Failure | Hackaday | [link](https://hackaday.com/2026/07/05/demonstrating-lfp-battery-safety-in-case-of-bms-failure/) |
-| 2026-07-05 | 2026 Frikkin Lasers Challenge: A 3D-Printed Raman Spectrometer | Hackaday | [link](https://hackaday.com/2026/07/05/2026-frikkin-lasers-challenge-a-3d-printed-raman-spectrometer/) |
-| 2026-07-05 | Old Midi Instruments Don’t Like Modern Midi. What’s To Be Done? | Hackaday | [link](https://hackaday.com/2026/07/05/old-midi-instruments-dont-like-modern-midi-whats-to-be-done/) |
-| 2026-07-05 | Homelab Gets Linksys Themed Aesthetic | Hackaday | [link](https://hackaday.com/2026/07/05/homelab-gets-linksys-themed-aesthetic/) |
-| 2026-07-05 | Make a DIY E-ink Faceplate For Valve’s Steam Machine | Hackaday | [link](https://hackaday.com/2026/07/04/make-a-diy-e-ink-faceplate-for-valves-steam-machine/) |
-| 2026-07-05 | Macintosh emulator works on ESP32-P4 display devkits from M5Stack and Waveshare | CNX Software | [link](https://www.cnx-software.com/2026/07/05/macintosh-emulator-works-on-esp32-p4-display-devkits-from-m5stack-and-waveshare/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-06 | OpenWAM/Cotrain_Action_Supervision_Robotwin_Clean | 0 | 0 | [link](https://huggingface.co/OpenWAM/Cotrain_Action_Supervision_Robotwin_Clean) |
 | 2026-07-06 | robotyingtang/PRISM-VFM | 0 | 0 | [link](https://huggingface.co/robotyingtang/PRISM-VFM) |
 | 2026-07-06 | anhtld/vla | 0 | 1 | [link](https://huggingface.co/anhtld/vla) |
+| 2026-07-06 | hoonsy/VLA_Simulation-pretrained | 0 | 0 | [link](https://huggingface.co/hoonsy/VLA_Simulation-pretrained) |
+| 2026-07-06 | kamada-riku/vla_jepa_so101_pick_toy_v9_4_plate | 0 | 0 | [link](https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v9_4_plate) |
+| 2026-07-06 | kamada-riku/vla_jepa_so101_pick_toy_v9_3_plate | 0 | 0 | [link](https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v9_3_plate) |
+| 2026-07-06 | xpuenabler/VLA-JEPA-libero-qnn | 0 | 0 | [link](https://huggingface.co/xpuenabler/VLA-JEPA-libero-qnn) |
 | 2026-07-06 | Riasat38/FIFA_world_cup_winner_prediction_model | 0 | 0 | [link](https://huggingface.co/Riasat38/FIFA_world_cup_winner_prediction_model) |
-| 2026-07-05 | aslivishaal/robotics-qwen3-8b | 0 | 1 | [link](https://huggingface.co/aslivishaal/robotics-qwen3-8b) |
-| 2026-07-05 | YinonDouchan/smolvla_mobile_robot_lift_turn_right | 18 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_turn_right) |
-| 2026-07-05 | stevensun2024/robotics-llm | 0 | 0 | [link](https://huggingface.co/stevensun2024/robotics-llm) |
-| 2026-07-05 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
-| 2026-07-05 | zaleni/WSA-Large-RoboTwin | 0 | 0 | [link](https://huggingface.co/zaleni/WSA-Large-RoboTwin) |
-| 2026-07-05 | InternRobotics/InternVLA-A1.5-RoboTwin | 13 | 0 | [link](https://huggingface.co/InternRobotics/InternVLA-A1.5-RoboTwin) |
-| 2026-07-05 | LuEduSoHu/robot_learning_tutorial_diffusion_0704_1501 | 0 | 0 | [link](https://huggingface.co/LuEduSoHu/robot_learning_tutorial_diffusion_0704_1501) |
+| 2026-07-06 | SEU-PAISys/Embodied.cpp | 0 | 1 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
+| 2026-07-06 | KingLear1606/act_standard_policy | 37 | 0 | [link](https://huggingface.co/KingLear1606/act_standard_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 62988 | Python | 25195.3 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15422 | C++ | 6168.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| kornia/kornia | 11263 | Python | 4505.3 | [link](https://github.com/kornia/kornia) |
-| earthtojake/text-to-cad | 7614 | JavaScript | 3045.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| jackvial/lerobot-data-studio | 56 | TypeScript | 22.5 | [link](https://github.com/jackvial/lerobot-data-studio) |
-| cartesiancs/vessel | 326 | TypeScript | 130.5 | [link](https://github.com/cartesiancs/vessel) |
+| copper-project/copper-rs | 1377 | Rust | 550.9 | [link](https://github.com/copper-project/copper-rs) |
+| commaai/openpilot | 62992 | Python | 25196.9 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 15979 | Python | 6391.7 | [link](https://github.com/zauberzeug/nicegui) |
-| google-deepmind/mujoco | 14089 | C++ | 5635.7 | [link](https://github.com/google-deepmind/mujoco) |
-| dora-rs/dora | 3825 | Rust | 1530.1 | [link](https://github.com/dora-rs/dora) |
+| ArduPilot/ardupilot | 15423 | C++ | 6169.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| kornia/kornia | 11264 | Python | 4505.7 | [link](https://github.com/kornia/kornia) |
+| earthtojake/text-to-cad | 7634 | JavaScript | 3053.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| dora-rs/dora | 3826 | Rust | 1530.5 | [link](https://github.com/dora-rs/dora) |
 | flashrt-project/FlashRT | 394 | C++ | 157.7 | [link](https://github.com/flashrt-project/FlashRT) |
+| sou350121/VLA-Handbook | 355 | HTML | 142.1 | [link](https://github.com/sou350121/VLA-Handbook) |
+| galilai-group/stable-worldmodel | 2010 | Python | 804.1 | [link](https://github.com/galilai-group/stable-worldmodel) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -110,11 +110,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-03 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0JBRVU0T3ZzUzhacVByakVuajBoLWZZWm02LVJoU2k2UFVwQkVMdGN0MDN0SXJSOWhCbFBKLW9HbnZWMWlvS2xGSnFwM3NiY0hLU0ZaMnlCLUkwRE9hVzgzdTM1ZUtNUkY0blBjT2FKcTBjS1RyQ0hyNEZXenZmellGYVlFdmxwdEE2T0hxaUw2blVwSzJ1NGgyeEs1aEVITWVfVzd2dkViRGRXdW9nOU1RazNTQ3k3aDEw0gG7AUFVX3lxTE1aVGtnUEEyYndxUDNGaDdKVFlJRDQ5cDRRdGktdjR6UV9obFhrZG5tbFVaMVJIQy12Zlotb0NDMVd3blBVeUNVU3NHMDktVS02SlJVUDBvTm9Sc1JoRXJfb252VGdZdnRTM2d1Z3RDbkpIdFdjbmFIUkxMenFKakdJZnN4ejA1TndoOGo4Z2F6ZG5fUHNBa051NWN6cEd2ck5TeDBvSHlEZkQyaVNldzJjSGdsQkl2ekpIb1k?oc=5) |
 | 2026-07-03 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQS2M2eG9JVHNzMHBWNjdfMTdwVjdJeXdnT2szSkFPN2Y4OTAzeUNiMVMtdGF0RnF1VUlzV2xXVzRIRFpSNVA0MHBRenRmTWM4S0Y4VzdnVnBnSWJJdDViN1AyYU5IVE4wdnRsekdhRG5WZnNTOVBUVHo2clM5SElHYi1RSEpGajdhNkJuZDd0Qi1MOUlxcHpxSk1iVGhYQzNLVjRGYW52SzNiLUQyU2xlWFRRVy1kaG5WbzgtdXJ2RGVWTnJYWE8zM1JDUDdTWVR0Q3V5WVF3eW41VS1fNXV1WGlEVFc5VUY3WW5ydlNMWkxjT2FhYU1Rc093RW9CZU5KSEtuV1oydTFxNmM?oc=5) |
 | 2026-07-02 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdjdnU1ZuVDVkQmxlWmQ0TTdmMzhHbDdrdGF6Z0c2WUtxOWFRbzNNcTF6NGROVEpkWXVCejdvaDdVNFBJMFpMNEVNRjBrenlFZkhtcmV2U0JiLUNzM1VrdXFhdjhPTzh4TE5BWGdNQmxZNmtvd3J0SWNhZHdGTGZDTjVEdXVEZV80SkRwTFJZeHZMQm9nSUJRbEhKV0l4RFB1Tm1yNEhaZmttVlg5MnpwV0Ftb1lVazQtd3h6OVp5dy1GbTR3MlJuZFp4eldyeDBfN0FoNFJzR1lDbFBUMWhn?oc=5) |
+| 2026-07-02 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VQTBnQWxTYWhiMXlHcWF3MlZwaGMyMTVibDZGNjZUY3Fmb1Jza1hYWXFyY1lvODNIbzZmVGkxSUhTbUtqdmhsU19qUGpTS0VUYU5HbzJxUQ?oc=5) |
 | 2026-07-02 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkxmNTktWHJsUmFLVHJqLWl4SnB6eUhoYnFVX3lWYlllM0NseHVVUDRhSFFua0g2bXZVZ29VbzBOYkRycDVxVDUzdjc0YkVPNEFBOG9tZldtdlBTMDVFZWZlbnZacG1mb09paldGTGdodU9zaTRLbF83YVFLdzQ5LUpMN3dOOFlDVlBEUGxNS2tVQTJhcTZpYWQ2WFduN3BBOThtdHhJdlFsSkNNNlVqS0VLQ2ZLQ1lo?oc=5) |
 | 2026-07-01 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHQ2WjZkRUJYVDYyQkZielpfRVZUXzdEQUJ3SWppMWVrN29GU1dfYlpvcFhfYnBTVHVtYUxRNnQ3TGFuZi1WLVM3SHBMMkpmc1lURFVVdTM1dGFUWkNlRU5CMUU3UlVGQVU0RUptUnpTSVVIWTE4ekhuUWpIRXFmSmdsQWh5dUF6WHlsYlR1Q3JZZGVoRjFVbGxqMHVQX1NmQmU2SC05UHdYcmhwNmp3dQ?oc=5) |
+| 2026-06-30 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ0M1WUVvQmVkdmdNX2RTNzlJTGF4Z01rNjllRVRDS1NVemFLVjR5TG1DNFllOGQ0YUZYUWtnY2o1UGFfbEhld0dhY1FDYnhpWnFPSi1yaFIxMHBTSDZkZkNONVoxaEpsSXF1SjR1SDBsT2VNaDFETHE1RHQ0dVZnT0xVX2JKQ19JWGxCRldVMjdKSkhQMy1wMzByWThDZnV6aGRj?oc=5) |
 | 2026-06-30 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9uZGhDeldLWDFSVUlXY1VBdzd0c3FCUVRkRkp0WWRyS3liZ1dCREZPTThFR1JjMGFpNmR5dFI1TmRiZWRiakdwNFBMVXhvOWs2NHVWUjNJa3kzZDlHdHBHazlueXVXYTB1NFlZTDkwNE9rYmZOZ3c?oc=5) |
-| 2026-06-29 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VQTBnQWxTYWhiMXlHcWF3MlZwaGMyMTVibDZGNjZUY3Fmb1Jza1hYWXFyY1lvODNIbzZmVGkxSUhTbUtqdmhsU19qUGpTS0VUYU5HbzJxUQ?oc=5) |
-| 2026-06-26 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUhnWGpNVDY2WXlERndBVU5LNC1IUWswZzFWM1M2TlNKcERxWFJCQVFiWk13RjFhdlRiMG1uYTlhZ19Rd3lBMXpQTUp1MW1qcC1lQml4blUxM1lKM1B0SGdjdmVDQ2dQT0VnczFDVDM2Ty1rNGFUUllOWnRRQzBBUGV0N042UlJIZU9KX2lmNGxYUDZuYXJVZDJ4bndGUUVCcEpLSQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

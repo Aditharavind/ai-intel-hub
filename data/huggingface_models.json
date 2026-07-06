@@ -1,5 +1,14 @@
 [
   {
+    "model": "OpenWAM/Cotrain_Action_Supervision_Robotwin_Clean",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/Cotrain_Action_Supervision_Robotwin_Clean",
+    "date": "2026-07-06",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "robotyingtang/PRISM-VFM",
     "downloads": 0,
     "likes": 0,
@@ -18,12 +27,102 @@
     "score": 0.3
   },
   {
+    "model": "hoonsy/VLA_Simulation-pretrained",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/hoonsy/VLA_Simulation-pretrained",
+    "date": "2026-07-06",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "kamada-riku/vla_jepa_so101_pick_toy_v9_4_plate",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v9_4_plate",
+    "date": "2026-07-06",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "kamada-riku/vla_jepa_so101_pick_toy_v9_3_plate",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v9_3_plate",
+    "date": "2026-07-06",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "xpuenabler/VLA-JEPA-libero-qnn",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/xpuenabler/VLA-JEPA-libero-qnn",
+    "date": "2026-07-06",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "Riasat38/FIFA_world_cup_winner_prediction_model",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Riasat38/FIFA_world_cup_winner_prediction_model",
     "date": "2026-07-06",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "SEU-PAISys/Embodied.cpp",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/SEU-PAISys/Embodied.cpp",
+    "date": "2026-07-06",
+    "keyword": "embodied",
+    "score": 0.3
+  },
+  {
+    "model": "KingLear1606/act_standard_policy",
+    "downloads": 37,
+    "likes": 0,
+    "url": "https://huggingface.co/KingLear1606/act_standard_policy",
+    "date": "2026-07-06",
+    "keyword": "policy",
+    "score": 11.2
+  },
+  {
+    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "downloads": 351,
+    "likes": 1,
+    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "date": "2026-07-06",
+    "keyword": "policy",
+    "score": 105.6
+  },
+  {
+    "model": "KingLear1606/act_tac_policy",
+    "downloads": 35,
+    "likes": 0,
+    "url": "https://huggingface.co/KingLear1606/act_tac_policy",
+    "date": "2026-07-06",
+    "keyword": "policy",
+    "score": 10.6
+  },
+  {
+    "model": "kobayashi1225/my_policy_record_test_5",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kobayashi1225/my_policy_record_test_5",
+    "date": "2026-07-06",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "hiskiv/cosmos-policy-lam",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/hiskiv/cosmos-policy-lam",
+    "date": "2026-07-06",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -153,15 +252,6 @@
     "score": 0.1
   },
   {
-    "model": "SEU-PAISys/Embodied.cpp",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/SEU-PAISys/Embodied.cpp",
-    "date": "2026-07-05",
-    "keyword": "embodied",
-    "score": 0.3
-  },
-  {
     "model": "turturtur250/AILAB-physical",
     "downloads": 0,
     "likes": 0,
@@ -225,24 +315,6 @@
     "score": 0.1
   },
   {
-    "model": "baiyu858/Bridge-WA-World-Teacher-VLABench",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/baiyu858/Bridge-WA-World-Teacher-VLABench",
-    "date": "2026-07-04",
-    "keyword": "vla",
-    "score": 4.9
-  },
-  {
-    "model": "baiyu858/Bridge-WA-VLABench",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/baiyu858/Bridge-WA-VLABench",
-    "date": "2026-07-04",
-    "keyword": "vla",
-    "score": 4.6
-  },
-  {
     "model": "flydexo/world-models-carracing-v3",
     "downloads": 0,
     "likes": 0,
@@ -279,15 +351,6 @@
     "score": 0.1
   },
   {
-    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "downloads": 351,
-    "likes": 1,
-    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "date": "2026-07-04",
-    "keyword": "policy",
-    "score": 105.6
-  },
-  {
     "model": "dara-dara/my_policy",
     "downloads": 0,
     "likes": 0,
@@ -295,24 +358,6 @@
     "date": "2026-07-04",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "TahsinOP/smolvla_ur5e_joints_policy",
-    "downloads": 23,
-    "likes": 0,
-    "url": "https://huggingface.co/TahsinOP/smolvla_ur5e_joints_policy",
-    "date": "2026-07-04",
-    "keyword": "policy",
-    "score": 7.0
-  },
-  {
-    "model": "pierreprecieuse/record-test_20260629_234149-policy_v4",
-    "downloads": 26,
-    "likes": 0,
-    "url": "https://huggingface.co/pierreprecieuse/record-test_20260629_234149-policy_v4",
-    "date": "2026-07-04",
-    "keyword": "policy",
-    "score": 7.9
   },
   {
     "model": "zolkin/robot_rl",
@@ -324,33 +369,6 @@
     "score": 0.3
   },
   {
-    "model": "OpenRAL/rskill-smolvla-robotwin",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenRAL/rskill-smolvla-robotwin",
-    "date": "2026-07-03",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "deksprime/vla-jepa-robocasa-human300-pepijn-repro-ri",
-    "downloads": 5,
-    "likes": 0,
-    "url": "https://huggingface.co/deksprime/vla-jepa-robocasa-human300-pepijn-repro-ri",
-    "date": "2026-07-03",
-    "keyword": "vla",
-    "score": 1.6
-  },
-  {
-    "model": "draven-alg/VLANeXt-kairos-checkpoint",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/draven-alg/VLANeXt-kairos-checkpoint",
-    "date": "2026-07-03",
-    "keyword": "vla",
-    "score": 0.3
-  },
-  {
     "model": "HanchuZhou/embodied_ma",
     "downloads": 0,
     "likes": 0,
@@ -358,24 +376,6 @@
     "date": "2026-07-03",
     "keyword": "embodied",
     "score": 0.1
-  },
-  {
-    "model": "kb127/act195_kl_13_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kb127/act195_kl_13_policy",
-    "date": "2026-07-03",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Nick3421/openarm_act_policy",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/Nick3421/openarm_act_policy",
-    "date": "2026-07-03",
-    "keyword": "policy",
-    "score": 3.7
   },
   {
     "model": "linhrumata/world-models",
