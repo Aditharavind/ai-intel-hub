@@ -1,5 +1,23 @@
 [
   {
+    "model": "madokalif/pi05-robotwin2-clean50-sft",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/madokalif/pi05-robotwin2-clean50-sft",
+    "date": "2026-07-06",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "lerobot/lingbot_va_robotwin",
+    "downloads": 61,
+    "likes": 1,
+    "url": "https://huggingface.co/lerobot/lingbot_va_robotwin",
+    "date": "2026-07-06",
+    "keyword": "robot",
+    "score": 18.6
+  },
+  {
     "model": "PuraVida06/ai-miner-robotics-model",
     "downloads": 0,
     "likes": 0,
@@ -29,11 +47,11 @@
   {
     "model": "kairos-agi/kairos-4B-robot-LIBERO-plus",
     "downloads": 19,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/kairos-agi/kairos-4B-robot-LIBERO-plus",
     "date": "2026-07-06",
     "keyword": "robot",
-    "score": 5.8
+    "score": 6.0
   },
   {
     "model": "kairos-agi/Kairos3.1-4B-robot-480P",
@@ -97,6 +115,15 @@
     "date": "2026-07-06",
     "keyword": "vla",
     "score": 0.5
+  },
+  {
+    "model": "liuzhiqian/multi_agent_vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/liuzhiqian/multi_agent_vla",
+    "date": "2026-07-06",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "poet70/vla-sft-suite",
@@ -198,6 +225,33 @@
     "score": 0.3
   },
   {
+    "model": "schronn/my_policy_4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/schronn/my_policy_4",
+    "date": "2026-07-06",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "pau-klawon/double_integrator_casadi_diffusion_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pau-klawon/double_integrator_casadi_diffusion_policy",
+    "date": "2026-07-06",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "panchsan123/insurance-policy-expert-lora",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/panchsan123/insurance-policy-expert-lora",
+    "date": "2026-07-06",
+    "keyword": "policy",
+    "score": 0.3
+  },
+  {
     "model": "schronn/my_policy_3",
     "downloads": 0,
     "likes": 0,
@@ -279,24 +333,6 @@
     "score": 0.1
   },
   {
-    "model": "aslivishaal/robotics-qwen3-8b",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/aslivishaal/robotics-qwen3-8b",
-    "date": "2026-07-05",
-    "keyword": "robotics",
-    "score": 0.3
-  },
-  {
-    "model": "YinonDouchan/smolvla_mobile_robot_lift_turn_right",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_turn_right",
-    "date": "2026-07-05",
-    "keyword": "robot",
-    "score": 6.7
-  },
-  {
     "model": "mattpidden/vla0-realworld-epoch28",
     "downloads": 7,
     "likes": 0,
@@ -304,15 +340,6 @@
     "date": "2026-07-05",
     "keyword": "vla",
     "score": 2.2
-  },
-  {
-    "model": "macv666/entropy-vla-grpo-logs",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/macv666/entropy-vla-grpo-logs",
-    "date": "2026-07-05",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "turturtur250/AILAB-physical",
@@ -324,31 +351,13 @@
     "score": 0.1
   },
   {
-    "model": "nikhilpod/record-pickplace1-policy1",
+    "model": "aslivishaal/robotics-qwen3-8b",
     "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/nikhilpod/record-pickplace1-policy1",
+    "likes": 1,
+    "url": "https://huggingface.co/aslivishaal/robotics-qwen3-8b",
     "date": "2026-07-05",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "balapersonal12/hr-policy-assistant-final",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/balapersonal12/hr-policy-assistant-final",
-    "date": "2026-07-05",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "balapersonal12/hr-policy-assistant-stage1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/balapersonal12/hr-policy-assistant-stage1",
-    "date": "2026-07-05",
-    "keyword": "policy",
-    "score": 0.1
+    "keyword": "robotics",
+    "score": 0.3
   },
   {
     "model": "stevensun2024/robotics-llm",

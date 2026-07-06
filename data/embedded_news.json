@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hackaday Europe 2026: Is Your Blood Pressure Monitor Lying To You?",
+    "source": "Hackaday",
+    "date": "2026-07-06",
+    "url": "https://hackaday.com/2026/07/06/hackaday-europe-2026-is-your-blood-pressure-monitor-lying-to-you/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/06/milos_rasic_DSC09657_featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Blood pressure is one of the so-called &#8220;vital signs&#8221; that medical practitioners use to determine the basic state of a patient in any given moment. It&#8217;s exactly what it sounds <a class=\"read-more\" href=\"https://hackaday.com/2026/07/06/hackaday-europe-2026-is-your-blood-pressure-monitor-lying-to-you/\">&#8230;read more</a>"
+  },
+  {
     "title": "Gluing 8192 MCUs Together to Make a GPU",
     "source": "Hackaday",
     "date": "2026-07-06",
@@ -56,6 +63,27 @@
     "summary": "<div><img alt=\" Versal Premium Gen 2 Memory on Package (MoP) adaptive SoCs\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Versal-Premium-Gen-2-Memory-on-Package-MoP-adaptive-SoCs-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>AMD has announced the Versal Premium Gen 2 Memory-on-Package (MoP) adaptive SoCs, adding an integrated memory option to the Premium Gen 2 family, a topic we covered back in November 2024. While the core silicon (dual-core Cortex-A72 + dual-core Cortex-R5F + high-end FPGA fabric) remains the same, the new devices (2VP3422, 2VP3522, and 2VP3622) integrate up to 32 GB of LPDDR5X memory directly inside the package. This removes the need for external high-speed memory on the board and reduces PCB area by up to 60%. This also eliminates high-speed memory routing on the carrier board, increasing the maximum memory bandwidth to 288 GB/s. AMD Versal Premium Gen2 MoP specifications: CPU cores Dual-core Arm Cortex-A72 application core, 48 KB/32 KB L1 Cache w/ parity &#38; ECC; 1 MB L2 Cache w/ ECC Dual-core Arm Cortex R5F, 32 KB/32 KB L1 Cache, and 256 KB TCM w/ECC Memory on Package 32 GB of LPDDR5X DRAM [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/06/amd-versal-premium-gen-2-mop-adaptive-soc-integrates-32gb-lpddr5x-to-shrink-board-footprint-by-60/\">AMD Versal Premium Gen 2 MoP adaptive SoC integrates 32GB LPDDR5X to shrink board footprint by 60%</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "GigaDevice Unveils I2C EEPROMs",
+    "source": "Embedded.com",
+    "date": "2026-07-06",
+    "url": "https://www.embedded.com/gigadevice-unveils-i2c-eeproms/",
+    "summary": "<p>The I²C EEPROMs with integrated ECC offer up to four million program/erase cycles.</p>\n<p>The post <a href=\"https://www.embedded.com/gigadevice-unveils-i2c-eeproms/\">GigaDevice Unveils I2C EEPROMs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Firefly, Astrobotic, Intuitive win NASA lunar lander contracts",
+    "source": "Electronics Weekly",
+    "date": "2026-07-06",
+    "url": "https://www.electronicsweekly.com/news/business/firefly-astrobotic-intuitive-win-nasa-lunar-lander-contracts-2026-07/",
+    "summary": "<p>Nasa has awarded lunar lander contracts contracts totalling almost $600 million to three companies: Firefly, Astrobotic and Intuitive Machines. Specifically, Astrobotic is awarded $297.9 million total for two deliveries. And ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/firefly-astrobotic-intuitive-win-nasa-lunar-lander-contracts-2026-07/\">Firefly, Astrobotic, Intuitive win NASA lunar lander contracts</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Oil Production Falls",
+    "source": "Electronics Weekly",
+    "date": "2026-07-06",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/oil-production-falls-2026-07/",
+    "summary": "<p>The USA lifted its blockade of the Strait of Hormuz late Thursday last week as a 60-day window to turn an interim peace agreement with Iran into a full-fledged one ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/markets/oil-production-falls-2026-07/\">Oil Production Falls</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Pickering PXI/PXIe analogue output modules target HIL simulation",
     "source": "Electronics Weekly",
     "date": "2026-07-06",
@@ -105,6 +133,48 @@
     "summary": "<p>The world and its aunt want Chinese memory to avoid paying the absurd prices charged by the Big Four, Ed confides to his diary, China has about 14% of the ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-38-2026-07/\">Ed Works The Chinese Memory Angle</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "A real-time, glitch-free virtual analog synthesizer, written from scratch in Rust",
+    "source": "Adafruit",
+    "date": "2026-07-06",
+    "url": "https://blog.adafruit.com/2026/07/06/a-real-time-glitch-free-virtual-analog-synthesizer-written-from-scratch-in-rust/",
+    "summary": "Rusted Moog is a real-time, glitch-free virtual analog synthesizer — written from scratch in Rust. It&#8217;s a Minimoog-inspired 3-oscillator polysynth with a Moog ladder filter, &#8220;born from a Python synth that couldn&#8217;t stop clicking&#8221;. It started as VOOG, a synth written in Python + NumPy. It sounded great — until you played a chord. Then it clicked, popped, [&#8230;]"
+  },
+  {
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
+    "date": "2026-07-06",
+    "url": "https://blog.adafruit.com/2026/07/06/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-6-2/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+  },
+  {
+    "title": "Building Linguo From the Simpsons",
+    "source": "Adafruit",
+    "date": "2026-07-06",
+    "url": "https://blog.adafruit.com/2026/07/06/building-linguo-from-the-simpsons/",
+    "summary": "This project from Carlos 3D World is bound to make any Simpsons fan smile. It&#8217;s a super involved build with great documentation available here on Instructables: Lisa: Hang on, Linguo. You&#8217;ll be up and conjugating in no time. Linguo: Lie still. I built Linguo from The Simpsons as a real 3D printed robot with AI. [&#8230;]"
+  },
+  {
+    "title": "EIZO Releases 6U OpenVPX/SOSA aligned GPGPU Processing Cards Designed for High-Throughput AI and Sensor Processing in Embedded Edge Systems",
+    "source": "EE Journal",
+    "date": "2026-07-06",
+    "url": "https://www.eejournal.com/industry_news/eizo-releases-6u-openvpx-sosa-aligned-gpgpu-processing-cards-designed-for-high-throughput-ai-and-sensor-processing-in-embedded-edge-systems/",
+    "summary": "EIZO’s Condor XR2S 6U VPX Series is designed with the NVIDIA Blackwell architecture supporting the NVIDIA RTX PRO 5000/4000 Blackwell embedded GPUs The series features up to 24 GB GDDR7 graphics memory, 10,496 CUDA Cores, support for PCI Express Gen 5, and incorporates dual Microchip Switchtec™ PFX PCIe switches EIZO Rugged Solutions Inc., a leading &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/eizo-releases-6u-openvpx-sosa-aligned-gpgpu-processing-cards-designed-for-high-throughput-ai-and-sensor-processing-in-embedded-edge-systems/\">Read More &#8594;<span class=\"screen-reader-text\"> \"EIZO Releases 6U OpenVPX/SOSA aligned GPGPU Processing Cards Designed for High-Throughput AI and Sensor Processing in Embedded Edge Systems\"</span></a>"
+  },
+  {
+    "title": "Bath researchers join NASA Earth System Explorers mission",
+    "source": "EE Journal",
+    "date": "2026-07-06",
+    "url": "https://www.eejournal.com/industry_news/bath-researchers-join-nasa-earth-system-explorers-mission/",
+    "summary": "Bath researchers Dr Neil Hindley and Professor Corwin Wright, from the University of Bath’s Centre for Climate Adaptation &#38; Environment Research (CAER), have joined the science team behind NASA’s next-generation satellite mission. The STRIVE mission, which stands for Stratosphere Troposphere Response using Infrared Vertically-resolved light Explorer, will take high-resolution, daily measurements of global temperature, aerosol pollution and &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/bath-researchers-join-nasa-earth-system-explorers-mission/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Bath researchers join NASA Earth System Explorers mission\"</span></a>"
+  },
+  {
+    "title": "Need a low-cost FPGA dev board? Check out Adiuvo Engineering’s $99 Explorer board with an AMD Artix UltraScale+ FPGA",
+    "source": "EE Journal",
+    "date": "2026-07-06",
+    "url": "https://www.eejournal.com/article/need-a-low-cost-fpga-dev-board-check-out-adiuvo-engineerings-99-explorer-board-with-an-amd-artix-ultrascale-fpga/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"232\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/Explorer-Board-Front.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />If you’re looking for a real bargain in an FPGA development board, Adiuvo Engineering’s Adam Taylor has a deal for you. His company’s new $99 Explorer dev board sports an AMD Artix UltraScale+ AU7P FPGA, which is lower than the single-piece price for the FPGA alone. How does Adiuvo work this magic? AMD was an &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/need-a-low-cost-fpga-dev-board-check-out-adiuvo-engineerings-99-explorer-board-with-an-amd-artix-ultrascale-fpga/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Need a low-cost FPGA dev board? Check out Adiuvo Engineering’s $99 Explorer board with an AMD Artix UltraScale+ FPGA\"</span></a>"
+  },
+  {
     "title": "Hackaday Links: July 5, 2026",
     "source": "Hackaday",
     "date": "2026-07-05",
@@ -117,13 +187,6 @@
     "date": "2026-07-05",
     "url": "https://hackaday.com/2026/07/05/seeing-bacteria-nanoprisms-and-more-with-an-atomic-force-microscope/",
     "summary": "<div><img alt=\"A series of six sepia-tinted micrographs is shown. The images show the surface of a piece of steel after various etching treatments.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/atomic_force_microscope_thumb.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Unlike almost every other kind of microscope, atomic-force microscopes (AFMs) don’t use any kind of optical beam to image their subjects. Instead, they physically detect the subject’s surface with a <a class=\"read-more\" href=\"https://hackaday.com/2026/07/05/seeing-bacteria-nanoprisms-and-more-with-an-atomic-force-microscope/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Demonstrating LFP Battery Safety in Case of BMS Failure",
-    "source": "Hackaday",
-    "date": "2026-07-05",
-    "url": "https://hackaday.com/2026/07/05/demonstrating-lfp-battery-safety-in-case-of-bms-failure/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"492\" src=\"https://hackaday.com/wp-content/uploads/2026/07/ul_2054_bms_short_testing_will_prowse_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Generally, LiFePO4 (LFP) batteries are quite safe and stable, but it&#8217;s still possible for something to go wrong, even something catastrophic, like the battery management system (BMS) developing a direct <a class=\"read-more\" href=\"https://hackaday.com/2026/07/05/demonstrating-lfp-battery-safety-in-case-of-bms-failure/\">&#8230;read more</a>"
   },
   {
     "title": "Macintosh emulator works on ESP32-P4 display devkits from M5Stack and Waveshare",
@@ -201,20 +264,6 @@
     "date": "2026-07-03",
     "url": "https://www.embedded.com/flux-report-examines-challenges-of-ai-generated-code-in-production/",
     "summary": "<p>Flux has released its AI Code Generation Reality Check, an independent study examining how organizations are adopting AI-generated software while managing the associated risks. Conducted by Dimensional Research, the survey collected responses from 309 engineering leaders and practitioners across five continents and highlights a growing gap between the widespread use of AI-assisted coding and organizations' [...]</p>\n<p>The post <a href=\"https://www.embedded.com/flux-report-examines-challenges-of-ai-generated-code-in-production/\">Flux Report Examines Challenges of AI-Generated Code in Production</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "TDK E13 EM IGBT/FET gate drive transformers for xEV platforms",
-    "source": "Electronics Weekly",
-    "date": "2026-07-03",
-    "url": "https://www.electronicsweekly.com/news/products/power-supplies/tdk-e13-em-igbt-fet-gate-drive-transformers-for-xev-platforms-2026-07/",
-    "summary": "<p>TDK is introducing its E13 EM series of IGBT/FET gate drive transformers, designed for automotive 500-V battery systems. They are qualified to AEC-Q200 Rev. E and designed for operation from ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/power-supplies/tdk-e13-em-igbt-fet-gate-drive-transformers-for-xev-platforms-2026-07/\">TDK E13 EM IGBT/FET gate drive transformers for xEV platforms</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Dithering",
-    "source": "Electronics Weekly",
-    "date": "2026-07-03",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/dithering-2026-07/",
-    "summary": "<p>Europe&#8217;s involvement in the semiconductor industry has always an on-off, hot-cold, up-and-down kind of thing. The  November 11th 1996 edition of Electronics Weekly carried this piece: ‘During the 1970s and ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/dithering-2026-07/\">Dithering</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Impactful U.S. Inventions #4thOfJuly #AmericanInventions",
@@ -329,27 +378,6 @@
     "summary": "fifindr shares: A 115mm cube-shaped modern RGB lamp built around the Bambulab Remote Controlled 16-color RGBW Puck (KC007). Stunning RGB ambient effects for nightstand or desk lighting, with full remote control over color and mode download the files on: https://makerworld.com/en/models/986027-modern-box-rgb-lamp Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and [&#8230;]"
   },
   {
-    "title": "Modern Desktop Lamp – Wireless RGB Uplighter #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-07-02",
-    "url": "https://blog.adafruit.com/2026/07/02/modern-desktop-lamp-wireless-rgb-uplighter-3dthursday-3dprinting/",
-    "summary": "Shared by Abstractia Design via Maker World: A minimalist modern uplighter lamp with smooth contours and a textured wave-pattern interior that enhances light diffusion. Compatible with both the wired Bambu lamp kit and the RGB wireless puck. The fit is intentionally loose so either light source slots in. Download the files and learn more Every [&#8230;]"
-  },
-  {
-    "title": "AuraShell Lamp – Nautilus-Inspired Sculptural Light #3DPrinting #3DThursday",
-    "source": "Adafruit",
-    "date": "2026-07-02",
-    "url": "https://blog.adafruit.com/2026/07/02/aurashell-lamp-nautilus-inspired-sculptural-light-3dprinting-3dthursday/",
-    "summary": "3dPrintInPlace shares: A sculptural lamp inspired by the elegant geometry of a nautilus shell. The flowing spiral shape diffuses light to create a mesmerizing ambient glow — works as a sophisticated statement piece on any desk, nightstand, or shelf. By 3dPrintInPlace download the files on: https://makerworld.com/en/models/2900307-aurashell-lamp Every Thursday is #3dthursday here at Adafruit! The DIY [&#8230;]"
-  },
-  {
-    "title": "Blackberry Pi Handheld Cyberdeck #3DPrinting #3DThursday",
-    "source": "Adafruit",
-    "date": "2026-07-02",
-    "url": "https://blog.adafruit.com/2026/07/02/blackberry-pi-handheld-cyberdeck-3dprinting-3dthursday/",
-    "summary": "imbalence shares: A retro-style Pi-powered handheld designed by IMBalENce — featured by Tom Nardi on Hackaday — that channels the form factor of a Blackberry. Compact, BlackBerry-keyboard-inspired ergonomics, ideal for portable Linux tinkering. Full project writeup linked from the model page download the files on: https://makerworld.com/en/models/724923-blackberry-pi-handheld-cyberdeck Every Thursday is #3dthursday here at Adafruit! The DIY [&#8230;]"
-  },
-  {
     "title": "Introspect Technology Introduces Second-Generation DDR/LPDDR Protocol Analyzer Offering the Highest Sampling Rate in the Industry",
     "source": "EE Journal",
     "date": "2026-07-02",
@@ -362,27 +390,6 @@
     "date": "2026-07-02",
     "url": "https://www.eejournal.com/industry_news/edgecortix-demonstrates-edge-ai-platform-readiness-with-u-s-air-force-and-receives-success-memorandum-from-the-defense-innovation-unit/",
     "summary": "EdgeCortix, a leading Japanese  fabless semiconductor company specializing in energy-efficient AI processing at the edge, today announced the breakthrough demonstration of its edge AI platform with the U.S. Air Force in an exercise supporting advanced multi-domain battlefield connectivity and AI-enabled mission systems. EdgeCortix also confirmed receipt of a Success Memorandum from the U.S. Defense Innovation &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/edgecortix-demonstrates-edge-ai-platform-readiness-with-u-s-air-force-and-receives-success-memorandum-from-the-defense-innovation-unit/\">Read More &#8594;<span class=\"screen-reader-text\"> \"EdgeCortix Demonstrates Edge AI Platform Readiness with U.S. Air Force  and Receives Success Memorandum from the Defense Innovation Unit\"</span></a>"
-  },
-  {
-    "title": "TDK introduces compact SMD components for gate drivers and isolated DC-DC converters in xEVs",
-    "source": "EE Journal",
-    "date": "2026-07-02",
-    "url": "https://www.eejournal.com/industry_news/tdk-introduces-compact-smd-components-for-gate-drivers-and-isolated-dc-dc-converters-in-xevs/",
-    "summary": "TDK Corporation (TSE:6762) introduces the E13 EM series (ordering code: B8280*F*). These IGBT/FET gate drive transformers are designed for automotive 500-V battery systems, enabling reliable isolation in traction inverters and compact DC-DC converters. By meeting stringent creepage and clearance requirements, this new series supports safe and efficient power conversion in xEV platforms, where robust insulation and space-efficient &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/tdk-introduces-compact-smd-components-for-gate-drivers-and-isolated-dc-dc-converters-in-xevs/\">Read More &#8594;<span class=\"screen-reader-text\"> \"TDK introduces compact SMD components for gate drivers and isolated DC-DC converters in xEVs\"</span></a>"
-  },
-  {
-    "title": "Arrow Electronics Works with STMicroelectronics to Accelerate Industrial AMR Development with a New Reference Platform",
-    "source": "EE Journal",
-    "date": "2026-07-02",
-    "url": "https://www.eejournal.com/industry_news/arrow-electronics-works-with-stmicroelectronics-to-accelerate-industrial-amr-development-with-a-new-reference-platform/",
-    "summary": "Arrow Electronics, together with its engineering services subsidiary eInfochips, has worked with STMicroelectronics (ST) to unveil a new industrial autonomous mobile robot (AMR) reference platform, designed to shorten the path from concept to deployment for professional service robots. Autonomous mobile robots are rapidly transforming factories, laboratories, warehouses, and logistics centers. These robots must safely navigate &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/arrow-electronics-works-with-stmicroelectronics-to-accelerate-industrial-amr-development-with-a-new-reference-platform/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Arrow Electronics Works with STMicroelectronics to Accelerate Industrial AMR Development with a New Reference Platform\"</span></a>"
-  },
-  {
-    "title": "Are Modulated Ultrasound MEMS Speakers the Future of Speakers?",
-    "source": "EE Journal",
-    "date": "2026-07-02",
-    "url": "https://www.eejournal.com/article/are-modulated-ultrasound-mems-speakers-the-future-of-speakers/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/max-0497-image-for-home-page-sonic-edge-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />Engineers tend to be traditional. Once we&#8217;ve found a way of doing something that works, we can happily keep on doing it the same way for decades. Loudspeakers are a perfect example. Whether they&#8217;re found in earbuds, smartphones, televisions, or concert halls, almost all of them still rely on the same basic principle: mechanically moving &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/are-modulated-ultrasound-mems-speakers-the-future-of-speakers/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Are Modulated Ultrasound MEMS Speakers the Future of Speakers?\"</span></a>"
   },
   {
     "title": "Efficient Computer Introduces Efficient Labs Platform",
@@ -418,12 +425,5 @@
     "date": "2026-06-29",
     "url": "https://www.embedded.com/sitime-upgrades-chorus-clock-generators/",
     "summary": "<p>SiTime Corp. has introduced Chorus 2, a wide-frequency-range programmable clock generator. Building on the Chorus family of clock generators for AI data centers, introduced in 2024, the second-generation clock generator offers 2× better performance, 2× lower jitter, and up to 2.5× less output skew as well as greater spread spectrum clock support. The Chorus 2 clock [...]</p>\n<p>The post <a href=\"https://www.embedded.com/sitime-upgrades-chorus-clock-generators/\">SiTime Upgrades Chorus Clock Generators</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Qualinx Integrates Galileo OSNMA into GNSS Receiver",
-    "source": "Embedded.com",
-    "date": "2026-06-29",
-    "url": "https://www.embedded.com/qualinx-integrates-galileo-osnma-into-gnss-receiver/",
-    "summary": "<p>Qualinx has completed the integration of Galileo OSNMA (Open Service Navigation Message Authentication) into its QLX3Gx series of ultra-low-power GNSS receivers, making authenticated satellite positioning available for battery-powered devices without increasing power consumption or system complexity. Developed with support from the European Union Agency for the Space Programme (EUSPA), the new implementation is designed to [...]</p>\n<p>The post <a href=\"https://www.embedded.com/qualinx-integrates-galileo-osnma-into-gnss-receiver/\">Qualinx Integrates Galileo OSNMA into GNSS Receiver</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
