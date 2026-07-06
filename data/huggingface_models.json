@@ -1,5 +1,14 @@
 [
   {
+    "model": "aslivishaal/robotics-phi35-mini-gguf",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/aslivishaal/robotics-phi35-mini-gguf",
+    "date": "2026-07-06",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "madokalif/pi05-robotwin2-clean50-sft",
     "downloads": 0,
     "likes": 0,
@@ -94,15 +103,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/OpenWAM/Cotrain_Action_Supervision_Robotwin_Clean",
-    "date": "2026-07-06",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "robotyingtang/PRISM-VFM",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/robotyingtang/PRISM-VFM",
     "date": "2026-07-06",
     "keyword": "robot",
     "score": 0.1
@@ -234,6 +234,15 @@
     "score": 0.5
   },
   {
+    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "downloads": 449,
+    "likes": 1,
+    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "date": "2026-07-06",
+    "keyword": "policy",
+    "score": 135.0
+  },
+  {
     "model": "hk2k1/act_policy_pos_change",
     "downloads": 0,
     "likes": 0,
@@ -250,15 +259,6 @@
     "date": "2026-07-06",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "downloads": 449,
-    "likes": 1,
-    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "date": "2026-07-06",
-    "keyword": "policy",
-    "score": 135.0
   },
   {
     "model": "schronn/my_policy_4",
@@ -511,15 +511,6 @@
     "date": "2026-06-29",
     "keyword": "embodied",
     "score": 0.1
-  },
-  {
-    "model": "random-sequence/flock-robotics-qwen25vl-vla-4b",
-    "downloads": 14,
-    "likes": 0,
-    "url": "https://huggingface.co/random-sequence/flock-robotics-qwen25vl-vla-4b",
-    "date": "2026-06-29",
-    "keyword": "robotics",
-    "score": 4.3
   },
   {
     "model": "cy0307/d-world-model",
