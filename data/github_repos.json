@@ -1,5 +1,55 @@
 [
   {
+    "repo": "commaai/openpilot",
+    "stars": 62988,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-07-06",
+    "topic": "robotics",
+    "score": 25195.3
+  },
+  {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15422,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-07-06",
+    "topic": "robotics",
+    "score": 6168.9
+  },
+  {
+    "repo": "kornia/kornia",
+    "stars": 11263,
+    "language": "Python",
+    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "url": "https://github.com/kornia/kornia",
+    "date": "2026-07-06",
+    "topic": "robotics",
+    "score": 4505.3
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "stars": 7614,
+    "language": "JavaScript",
+    "description": "A collection of agent skills for CAD, robotics and hardware design",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "date": "2026-07-06",
+    "topic": "robotics",
+    "score": 3045.7
+  },
+  {
+    "repo": "jackvial/lerobot-data-studio",
+    "stars": 56,
+    "language": "TypeScript",
+    "description": "LeRobot Data Studio - Unofficial LeRobot Dataset Editor",
+    "url": "https://github.com/jackvial/lerobot-data-studio",
+    "date": "2026-07-06",
+    "topic": "lerobot",
+    "score": 22.5
+  },
+  {
     "repo": "cartesiancs/vessel",
     "stars": 326,
     "language": "TypeScript",
@@ -8,16 +58,6 @@
     "date": "2026-07-05",
     "topic": "physical-ai",
     "score": 130.5
-  },
-  {
-    "repo": "commaai/openpilot",
-    "stars": 62986,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-07-05",
-    "topic": "robotics",
-    "score": 25194.5
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -30,16 +70,6 @@
     "score": 6391.7
   },
   {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15422,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-07-05",
-    "topic": "robotics",
-    "score": 6168.9
-  },
-  {
     "repo": "google-deepmind/mujoco",
     "stars": 14089,
     "language": "C++",
@@ -48,26 +78,6 @@
     "date": "2026-07-05",
     "topic": "robotics",
     "score": 5635.7
-  },
-  {
-    "repo": "kornia/kornia",
-    "stars": 11263,
-    "language": "Python",
-    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-    "url": "https://github.com/kornia/kornia",
-    "date": "2026-07-05",
-    "topic": "robotics",
-    "score": 4505.3
-  },
-  {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7611,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-07-05",
-    "topic": "robot-learning",
-    "score": 3044.5
   },
   {
     "repo": "dora-rs/dora",
@@ -111,13 +121,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5440,
+    "stars": 5441,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-05",
     "topic": "world-model",
-    "score": 2176.1
+    "score": 2176.5
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -130,14 +140,14 @@
     "score": 210.9
   },
   {
-    "repo": "jackvial/lerobot-data-studio",
-    "stars": 56,
-    "language": "TypeScript",
-    "description": "LeRobot Data Studio - Unofficial LeRobot Dataset Editor",
-    "url": "https://github.com/jackvial/lerobot-data-studio",
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7612,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-07-05",
-    "topic": "lerobot",
-    "score": 22.5
+    "topic": "robot-learning",
+    "score": 3044.9
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",
@@ -161,13 +171,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 1945,
+    "stars": 1946,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-07-04",
     "topic": "humanoid",
-    "score": 778.1
+    "score": 778.5
   },
   {
     "repo": "vikashplus/robohive",
@@ -211,23 +221,23 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11070,
+    "stars": 11072,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-07-03",
     "topic": "robotics",
-    "score": 4428.1
+    "score": 4428.9
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 3996,
+    "stars": 3997,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-07-03",
     "topic": "embodied-ai",
-    "score": 1598.5
+    "score": 1598.9
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -281,13 +291,13 @@
   },
   {
     "repo": "copper-project/copper-rs",
-    "stars": 1376,
+    "stars": 1377,
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
     "date": "2026-07-02",
     "topic": "physical-ai",
-    "score": 550.5
+    "score": 550.9
   },
   {
     "repo": "awslabs/awsome-distributed-ai",
@@ -321,13 +331,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2523,
+    "stars": 2524,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-07-02",
     "topic": "embodied-ai",
-    "score": 1009.3
+    "score": 1009.7
   },
   {
     "repo": "hzxie/DynamicVLA",
@@ -431,13 +441,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 29964,
+    "stars": 29965,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-06-29",
     "topic": "robotics",
-    "score": 11985.7
+    "score": 11986.1
   },
   {
     "repo": "thu-ml/Causal-Forcing",
@@ -491,23 +501,23 @@
   },
   {
     "repo": "robocasa/robocasa",
-    "stars": 1518,
+    "stars": 1519,
     "language": "Python",
     "description": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
     "url": "https://github.com/robocasa/robocasa",
     "date": "2026-06-27",
     "topic": "robot-learning",
-    "score": 607.3
+    "score": 607.7
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 1879,
+    "stars": 1883,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-26",
     "topic": "robot-learning",
-    "score": 751.7
+    "score": 753.3
   },
   {
     "repo": "mimic-video/mimic-video",
@@ -651,13 +661,13 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13530,
+    "stars": 13531,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-06-19",
     "topic": "robotics",
-    "score": 5412.1
+    "score": 5412.5
   },
   {
     "repo": "VinRobotics/vinrobotics_mjlab",

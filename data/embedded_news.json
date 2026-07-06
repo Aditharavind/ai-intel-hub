@@ -1,5 +1,19 @@
 [
   {
+    "title": "AMD Versal Premium Gen 2 MoP adaptive SoC integrates 32GB LPDDR5X to shrink board footprint by 60%",
+    "source": "CNX Software",
+    "date": "2026-07-06",
+    "url": "https://www.cnx-software.com/2026/07/06/amd-versal-premium-gen-2-mop-adaptive-soc-integrates-32gb-lpddr5x-to-shrink-board-footprint-by-60/",
+    "summary": "<div><img alt=\" Versal Premium Gen 2 Memory on Package (MoP) adaptive SoCs\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Versal-Premium-Gen-2-Memory-on-Package-MoP-adaptive-SoCs-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>AMD has announced the Versal Premium Gen 2 Memory-on-Package (MoP) adaptive SoCs, adding an integrated memory option to the Premium Gen 2 family, a topic we covered back in November 2024. While the core silicon (dual-core Cortex-A72 + dual-core Cortex-R5F + high-end FPGA fabric) remains the same, the new devices (2VP3422, 2VP3522, and 2VP3622) integrate up to 32 GB of LPDDR5X memory directly inside the package. This removes the need for external high-speed memory on the board and reduces PCB area by more than 60%. This also eliminates high-speed memory routing on the carrier board, increasing the maximum memory bandwidth to 288 GB/s. AMD Versal Premium Gen2 MoP specifications: CPU cores Dual-core Arm Cortex-A72 application core, 48 KB/32 KB L1 Cache w/ parity &#38; ECC; 1 MB L2 Cache w/ ECC Dual-core Arm Cortex R5F, 32 KB/32 KB L1 Cache, and 256 KB TCM w/ECC Memory on Package 32 GB of LPDDR5X DRAM [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/06/amd-versal-premium-gen-2-mop-adaptive-soc-integrates-32gb-lpddr5x-to-shrink-board-footprint-by-60/\">AMD Versal Premium Gen 2 MoP adaptive SoC integrates 32GB LPDDR5X to shrink board footprint by 60%</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Ed Works The Chinese Memory Angle",
+    "source": "Electronics Weekly",
+    "date": "2026-07-06",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-38-2026-07/",
+    "summary": "<p>The world and its aunt want Chinese memory to avoid paying the absurd prices charged by the Big Four, Ed confides to his diary, China has about 14% of the ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-38-2026-07/\">Ed Works The Chinese Memory Angle</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Hackaday Links: July 5, 2026",
     "source": "Hackaday",
     "date": "2026-07-05",
@@ -180,13 +194,6 @@
     "date": "2026-07-03",
     "url": "https://www.electronicsweekly.com/news/business/apple-looking-to-extend-phone-share-2026-07/",
     "summary": "<p>Apple is said to be preparing to capitalise on its superior procurement clout at a time of component supply shortage to go for a boost to its smartphone market share. ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/apple-looking-to-extend-phone-share-2026-07/\">Apple looking to extend phone share</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "EU struggles to strengthen chip sector",
-    "source": "Electronics Weekly",
-    "date": "2026-07-03",
-    "url": "https://www.electronicsweekly.com/news/business/eu-struggles-to-strengthen-chip-sector-2026-07/",
-    "summary": "<p>The EU has come up with another initiative aimed at solving the problem of the continent’s vulnerability to chips supply shortages. The Chips Diplomacy Support Initiative (CHIPDIPLO) is an 18-month ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/eu-struggles-to-strengthen-chip-sector-2026-07/\">EU struggles to strengthen chip sector</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Impactful U.S. Inventions #4thOfJuly #AmericanInventions",
@@ -390,13 +397,6 @@
     "date": "2026-07-01",
     "url": "https://www.embedded.com/how-to-avoid-higher-rigid-flex-pcb-prototyping-costs/",
     "summary": "<p>Rigid-flex printed-circuit-board (PCB) manufacturing can be expensive at first glance. Complex lamination steps and tight tolerances result in lower yields and higher scrap rates. Finding the right supplier early in the process and engaging with them during the design phase improves manufacturability, preventing costly revisions, shortening development cycles, and making rigid-flex PCBs more affordable. The [...]</p>\n<p>The post <a href=\"https://www.embedded.com/how-to-avoid-higher-rigid-flex-pcb-prototyping-costs/\">How to Avoid Higher Rigid-Flex PCB Prototyping Costs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "WeAct N006 – A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs",
-    "source": "CNX Software",
-    "date": "2026-06-30",
-    "url": "https://www.cnx-software.com/2026/06/30/weact-n006-a-compact-nvidia-jetson-orin-nx-carrier-board-designed-for-robots-and-uavs/",
-    "summary": "<div><img alt=\"WeAct N006\" class=\"attachment-medium size-medium wp-post-image\" height=\"481\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/WeAct-N006-720x481.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>WeAct N006 is a carrier board for NVIDIA Jetson Orin NX 8GB/16GB, specifically designed for robots and UAVs with a compact (90x60mm) form factor that&#8217;s barely larger than a credit card. The board features an HDMI video output, a Gigabit Ethernet port, two M.2 sockets for NVMe storage and WiFi/Bluetooth connectivity, two MIPI CSI camera interfaces, three USB 3.2 ports, various connectors for GPIO, I2C, UART, and CAN Bus, and an XT30 connector for 16V to 28V DC input. WeAct N006 specifications: Supported SoM &#8211; NVIDIA Jetson Orin NX 8GB/16GB up to 40W Super Mode Storage &#8211; M.2 Key-M socket for M.2 2242 NVMe SSD Video Output &#8211; HDMI port Camera &#8211; 2x 4-lame MIPI DSI interface Networking Gigabit Ethernet RJ45 port Optional WiFi and Bluetooth via M.2 Key-E socket USB 2x USB 3.1 (10 Gbps) Type-A ports USB 3.2 Gen 2 (10 Gbps) OTG Type-C port Serial 4-pin CAN [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/06/30/weact-n006-a-compact-nvidia-jetson-orin-nx-carrier-board-designed-for-robots-and-uavs/\">WeAct N006 &#8211; A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "TeleCANesis Launches Version 1.1 of its Connectivity Platform",
