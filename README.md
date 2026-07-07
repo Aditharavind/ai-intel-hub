@@ -1,22 +1,22 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-07 16:25 UTC
+Last Updated: 2026-07-07 18:52 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-07 | Australian Payments Plus moves faster with ChatGPT and Codex | OpenAI | [link](https://openai.com/index/australian-payments-plus) |
 | 2026-07-07 | Hugging Face Models on Foundry Managed Compute | Hugging Face | [link](https://huggingface.co/blog/microsoft/foundry-managed-compute) |
+| 2026-07-07 | Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot | Hugging Face | [link](https://huggingface.co/blog/skypilot-hf-storage) |
 | 2026-07-07 | LeRobot v0.6.0: Imagine, Evaluate, Improve | Hugging Face | [link](https://huggingface.co/blog/lerobot-release-v060) |
 | 2026-07-06 | PRX Part 4: Our Data Strategy | Hugging Face | [link](https://huggingface.co/blog/Photoroom/prx-part4-data) |
 | 2026-07-06 | 🤗 Kernels: Major Updates | Hugging Face | [link](https://huggingface.co/blog/revamped-kernels) |
 | 2026-07-01 | Hugging Face and Cerebras bring Gemma 4 to real-time voice AI | Hugging Face | [link](https://huggingface.co/blog/cerebras-gemma4-voice-ai) |
 | 2026-06-30 | How ChatGPT adoption has expanded | OpenAI | [link](https://openai.com/index/how-chatgpt-adoption-has-expanded) |
-| 2026-06-30 | Core dump epidemiology: fixing an 18-year-old bug | OpenAI | [link](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug) |
-| 2026-06-30 | Introducing GeneBench-Pro | OpenAI | [link](https://openai.com/index/introducing-genebench-pro) |
 | 2026-06-30 | Inside Genebench-Pro | OpenAI | [link](https://openai.com/index/genebench-pro/case-studies) |
-| 2026-06-30 | ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration | Hugging Face | [link](https://huggingface.co/blog/ibm-research/scarfbench) |
+| 2026-06-30 | Core dump epidemiology: fixing an 18-year-old bug | OpenAI | [link](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-07 | When An Engineering Education Doesn’t Teach You How To Really Make Anything | Hackaday | [link](https://hackaday.com/2026/07/07/when-an-engineering-education-doesnt-teach-you-how-to-really-make-anything/) |
 | 2026-07-07 | SB Mini II is a Homebrew Apple II Clone | Hackaday | [link](https://hackaday.com/2026/07/07/sb-mini-ii-is-a-homebrew-apple-ii-clone/) |
 | 2026-07-07 | Is Now the Time for Volumetric 3D Printing? | Hackaday | [link](https://hackaday.com/2026/07/07/is-now-the-time-for-volumetric-3d-printing/) |
 | 2026-07-07 | An Interactive Tomato Farm Overseen by AI | Hackaday | [link](https://hackaday.com/2026/07/07/an-interactive-tomato-farm-overseen-by-ai/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-07 | ESP32-C5 devkit offers 2.8-inch capacitive touch display, dual-band Wi-Fi 6, Bluetooth 5 LE, LiPo battery support | CNX Software | [link](https://www.cnx-software.com/2026/07/07/esp32-c5-devkit-offers-2-8-inch-capacitive-touch-display-dual-band-wi-fi-6-bluetooth-5-le-lipo-battery-support/) |
 | 2026-07-07 | Mercedes-Benz hosts open-source hardware Automotive Rapid DEvelopment Platform (ARDEP) | CNX Software | [link](https://www.cnx-software.com/2026/07/07/mercedes-benz-hosts-open-source-hardware-automotive-rapid-development-platform-ardep/) |
 | 2026-07-07 | PocketMage – An ESP32-S3-based Personal Digital Assistant (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/07/pocketmage-esp32-s3-personal-digital-assistant/) |
-| 2026-07-07 | How NOR Flash Memory Safety Features Protect Linux Systems | Embedded.com | [link](https://www.embedded.com/how-nor-flash-memory-safety-features-protect-linux-systems/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -83,24 +83,24 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-07 | pollen-robotics/face_detection_yunet_2023mar | 0 | 1 | [link](https://huggingface.co/pollen-robotics/face_detection_yunet_2023mar) |
 | 2026-07-07 | InternRobotics/InternVLA-A1.5-RoboTwin | 25 | 5 | [link](https://huggingface.co/InternRobotics/InternVLA-A1.5-RoboTwin) |
 | 2026-07-07 | x-square-robot/wall-oss-0.5 | 155 | 6 | [link](https://huggingface.co/x-square-robot/wall-oss-0.5) |
-| 2026-07-07 | wonder-robot/smolvla_piper_v2 | 0 | 0 | [link](https://huggingface.co/wonder-robot/smolvla_piper_v2) |
 | 2026-07-07 | OpenWAM/SFT_From_Scratch_RoboTwin_Clean | 0 | 0 | [link](https://huggingface.co/OpenWAM/SFT_From_Scratch_RoboTwin_Clean) |
 | 2026-07-07 | OpenWAM/SFT_Two_Stage_RoboTwin_Clean | 0 | 0 | [link](https://huggingface.co/OpenWAM/SFT_Two_Stage_RoboTwin_Clean) |
 | 2026-07-07 | OpenWAM/RoboTwin_DualSystem_JointSelfAttention_Wan21_I2T_14B | 0 | 0 | [link](https://huggingface.co/OpenWAM/RoboTwin_DualSystem_JointSelfAttention_Wan21_I2T_14B) |
+| 2026-07-07 | RobotisSW/Recycle_BlackPlasticCup_place_1022_0703_80k_act | 0 | 0 | [link](https://huggingface.co/RobotisSW/Recycle_BlackPlasticCup_place_1022_0703_80k_act) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | Edgenesis/shifu | 1424 | Go | 569.7 | [link](https://github.com/Edgenesis/shifu) |
 | copper-project/copper-rs | 1380 | Rust | 552.1 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 886 | Python | 354.5 | [link](https://github.com/mosaico-labs/mosaico) |
+| mosaico-labs/mosaico | 887 | Python | 354.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 453 | Shell | 181.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63027 | Python | 25210.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82320 |  | 32928.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63028 | Python | 25211.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15433 | C++ | 6173.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14113 | C++ | 5645.3 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11088 | Rust | 4435.3 | [link](https://github.com/rerun-io/rerun) |
-| earthtojake/text-to-cad | 7772 | JavaScript | 3108.9 | [link](https://github.com/earthtojake/text-to-cad) |
-| RLinf/RLinf | 4030 | Python | 1612.1 | [link](https://github.com/RLinf/RLinf) |
+| google-deepmind/mujoco | 14116 | C++ | 5646.5 | [link](https://github.com/google-deepmind/mujoco) |
+| rerun-io/rerun | 11089 | Rust | 4435.7 | [link](https://github.com/rerun-io/rerun) |
+| earthtojake/text-to-cad | 7776 | JavaScript | 3110.5 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
