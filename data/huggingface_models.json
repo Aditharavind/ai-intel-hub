@@ -1,5 +1,32 @@
 [
   {
+    "model": "x-square-robot/wall-oss-0.5",
+    "downloads": 150,
+    "likes": 6,
+    "url": "https://huggingface.co/x-square-robot/wall-oss-0.5",
+    "date": "2026-07-07",
+    "keyword": "robot",
+    "score": 46.3
+  },
+  {
+    "model": "wonder-robot/smolvla_piper_v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wonder-robot/smolvla_piper_v2",
+    "date": "2026-07-07",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "OpenWAM/SFT_From_Scratch_RoboTwin_Clean",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/SFT_From_Scratch_RoboTwin_Clean",
+    "date": "2026-07-07",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "OpenWAM/SFT_Two_Stage_RoboTwin_Clean",
     "downloads": 0,
     "likes": 0,
@@ -34,6 +61,96 @@
     "date": "2026-07-07",
     "keyword": "vla",
     "score": 0.5
+  },
+  {
+    "model": "VLABench/pi0-fast-primitive-deltachunk-w-two-bridge",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VLABench/pi0-fast-primitive-deltachunk-w-two-bridge",
+    "date": "2026-07-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "chomeed/shell_game_touch_vla_v0_pi05_mem",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/chomeed/shell_game_touch_vla_v0_pi05_mem",
+    "date": "2026-07-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "kevinqz/VLA-JEPA-SimplerEnv-CoreAI",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kevinqz/VLA-JEPA-SimplerEnv-CoreAI",
+    "date": "2026-07-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "kevinqz/VLA-JEPA-Pretrain-CoreAI",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kevinqz/VLA-JEPA-Pretrain-CoreAI",
+    "date": "2026-07-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "kevinqz/VLA-JEPA-LIBERO-CoreAI",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kevinqz/VLA-JEPA-LIBERO-CoreAI",
+    "date": "2026-07-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "EmbodiedCity/Worldscape-MoE",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/EmbodiedCity/Worldscape-MoE",
+    "date": "2026-07-07",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "Yewy/test_mahjong_pickup_v4_wrist_only_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Yewy/test_mahjong_pickup_v4_wrist_only_policy",
+    "date": "2026-07-07",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "wnghks/omx_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wnghks/omx_act_policy",
+    "date": "2026-07-07",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "manilab-ueda-lerobot/act_so101_letter_l_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/manilab-ueda-lerobot/act_so101_letter_l_policy",
+    "date": "2026-07-07",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "hk2k1/act_policy_pos_change",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/hk2k1/act_policy_pos_change",
+    "date": "2026-07-07",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "zolkin/robot_rl",
@@ -81,40 +198,13 @@
     "score": 0.1
   },
   {
-    "model": "kairos-agi/kairos-4B-robot-RoboTwin2.0",
+    "model": "ACERobotics/kairos-4B-robot-RoboTwin2.0",
     "downloads": 15,
     "likes": 0,
-    "url": "https://huggingface.co/kairos-agi/kairos-4B-robot-RoboTwin2.0",
+    "url": "https://huggingface.co/ACERobotics/kairos-4B-robot-RoboTwin2.0",
     "date": "2026-07-06",
     "keyword": "robot",
     "score": 4.6
-  },
-  {
-    "model": "LohanTS/mon-model-robot-v7",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/LohanTS/mon-model-robot-v7",
-    "date": "2026-07-06",
-    "keyword": "robot",
-    "score": 0.3
-  },
-  {
-    "model": "kairos-agi/kairos-4B-robot-LIBERO-plus",
-    "downloads": 19,
-    "likes": 1,
-    "url": "https://huggingface.co/kairos-agi/kairos-4B-robot-LIBERO-plus",
-    "date": "2026-07-06",
-    "keyword": "robot",
-    "score": 6.0
-  },
-  {
-    "model": "kairos-agi/Kairos3.1-4B-robot-480P",
-    "downloads": 24,
-    "likes": 0,
-    "url": "https://huggingface.co/kairos-agi/Kairos3.1-4B-robot-480P",
-    "date": "2026-07-06",
-    "keyword": "robot",
-    "score": 7.3
   },
   {
     "model": "chomeed/shell_game_touch_vla_v0_pi05",
@@ -171,51 +261,6 @@
     "score": 176.2
   },
   {
-    "model": "mim-chess-vlas/pi05-separate-channel-msk-config",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/pi05-separate-channel-msk-config",
-    "date": "2026-07-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "hoonsy/VLA_Simulation-pretrained",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hoonsy/VLA_Simulation-pretrained",
-    "date": "2026-07-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "kamada-riku/vla_jepa_so101_pick_toy_v9_4_plate",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v9_4_plate",
-    "date": "2026-07-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "kamada-riku/vla_jepa_so101_pick_toy_v9_3_plate",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kamada-riku/vla_jepa_so101_pick_toy_v9_3_plate",
-    "date": "2026-07-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "xpuenabler/VLA-JEPA-libero-qnn",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/xpuenabler/VLA-JEPA-libero-qnn",
-    "date": "2026-07-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "Riasat38/FIFA_world_cup_winner_prediction_model",
     "downloads": 0,
     "likes": 0,
@@ -241,15 +286,6 @@
     "date": "2026-07-06",
     "keyword": "policy",
     "score": 135.0
-  },
-  {
-    "model": "hk2k1/act_policy_pos_change",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hk2k1/act_policy_pos_change",
-    "date": "2026-07-06",
-    "keyword": "policy",
-    "score": 0.1
   },
   {
     "model": "kb127/act195_kl18_policy",
@@ -315,33 +351,6 @@
     "score": 0.1
   },
   {
-    "model": "tndthuy/rise-policy-checkpoint",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tndthuy/rise-policy-checkpoint",
-    "date": "2026-07-06",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "KingLear1606/act_standard_policy",
-    "downloads": 37,
-    "likes": 0,
-    "url": "https://huggingface.co/KingLear1606/act_standard_policy",
-    "date": "2026-07-06",
-    "keyword": "policy",
-    "score": 11.2
-  },
-  {
-    "model": "KingLear1606/act_tac_policy",
-    "downloads": 35,
-    "likes": 0,
-    "url": "https://huggingface.co/KingLear1606/act_tac_policy",
-    "date": "2026-07-06",
-    "keyword": "policy",
-    "score": 10.6
-  },
-  {
     "model": "pollen-robotics/yunet-face-detection-2023mar",
     "downloads": 0,
     "likes": 1,
@@ -394,15 +403,6 @@
     "date": "2026-07-04",
     "keyword": "world model",
     "score": 1.6
-  },
-  {
-    "model": "EmbodiedCity/Worldscape-MoE",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/EmbodiedCity/Worldscape-MoE",
-    "date": "2026-07-04",
-    "keyword": "embodied",
-    "score": 0.1
   },
   {
     "model": "HanchuZhou/embodied_ma",
