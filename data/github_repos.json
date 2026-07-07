@@ -31,13 +31,13 @@
   },
   {
     "repo": "awslabs/awsome-distributed-ai",
-    "stars": 453,
+    "stars": 454,
     "language": "Shell",
     "description": "Collection of best practices, reference architectures, model training examples and utilities to train large models on AWS. ",
     "url": "https://github.com/awslabs/awsome-distributed-ai",
     "date": "2026-07-07",
     "topic": "physical-ai",
-    "score": 181.3
+    "score": 181.7
   },
   {
     "repo": "ros-claw/rosclaw",
@@ -51,23 +51,23 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82320,
+    "stars": 82321,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 32928.1
+    "score": 32928.5
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63031,
+    "stars": 63033,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 25212.5
+    "score": 25213.3
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -81,33 +81,33 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14115,
+    "stars": 14116,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 5646.1
+    "score": 5646.5
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11090,
+    "stars": 11091,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 4436.1
+    "score": 4436.5
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 7778,
+    "stars": 7779,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 3111.3
+    "score": 3111.7
   },
   {
     "repo": "RLinf/RLinf",
@@ -181,13 +181,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5468,
+    "stars": 5469,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-07",
     "topic": "world-model",
-    "score": 2187.3
+    "score": 2187.7
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -221,13 +221,13 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7628,
+    "stars": 7629,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-07-07",
     "topic": "robot-learning",
-    "score": 3051.3
+    "score": 3051.7
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -238,6 +238,16 @@
     "date": "2026-07-07",
     "topic": "robot-learning",
     "score": 1000.5
+  },
+  {
+    "repo": "vikashplus/robohive",
+    "stars": 628,
+    "language": "Python",
+    "description": "A unified framework for robot learning",
+    "url": "https://github.com/vikashplus/robohive",
+    "date": "2026-07-07",
+    "topic": "robot-learning",
+    "score": 251.3
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
@@ -251,13 +261,13 @@
   },
   {
     "repo": "Source-Robotics/MSG-compliant-AI-stepper-gripper",
-    "stars": 57,
+    "stars": 58,
     "language": "CMake",
     "description": "Open Source gripper with force feedback! Adjustable grip size up to 200mm powered with steppers!",
     "url": "https://github.com/Source-Robotics/MSG-compliant-AI-stepper-gripper",
     "date": "2026-07-07",
     "topic": "lerobot",
-    "score": 22.9
+    "score": 23.3
   },
   {
     "repo": "nik-55/world-models",
@@ -380,24 +390,14 @@
     "score": 1356.5
   },
   {
-    "repo": "vikashplus/robohive",
-    "stars": 628,
-    "language": "Python",
-    "description": "A unified framework for robot learning",
-    "url": "https://github.com/vikashplus/robohive",
-    "date": "2026-07-04",
-    "topic": "robot-learning",
-    "score": 251.3
-  },
-  {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44202,
+    "stars": 44203,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-07-03",
     "topic": "robotics",
-    "score": 17680.9
+    "score": 17681.3
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -551,13 +551,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 1952,
+    "stars": 1954,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-26",
     "topic": "robot-learning",
-    "score": 780.9
+    "score": 781.7
   },
   {
     "repo": "mimic-video/mimic-video",

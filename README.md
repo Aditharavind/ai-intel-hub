@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-07 20:42 UTC
+Last Updated: 2026-07-07 22:02 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,6 +8,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-07-07 | Australian Payments Plus moves faster with ChatGPT and Codex | OpenAI | [link](https://openai.com/index/australian-payments-plus) |
+| 2026-07-07 | From Hugging Face to Amazon SageMaker Studio in one click | Hugging Face | [link](https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio) |
 | 2026-07-07 | Hugging Face Models on Foundry Managed Compute | Hugging Face | [link](https://huggingface.co/blog/microsoft/foundry-managed-compute) |
 | 2026-07-07 | Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot | Hugging Face | [link](https://huggingface.co/blog/skypilot-hf-storage) |
 | 2026-07-07 | LeRobot v0.6.0: Imagine, Evaluate, Improve | Hugging Face | [link](https://huggingface.co/blog/lerobot-release-v060) |
@@ -15,7 +16,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-06 | 🤗 Kernels: Major Updates | Hugging Face | [link](https://huggingface.co/blog/revamped-kernels) |
 | 2026-07-01 | Hugging Face and Cerebras bring Gemma 4 to real-time voice AI | Hugging Face | [link](https://huggingface.co/blog/cerebras-gemma4-voice-ai) |
 | 2026-06-30 | How ChatGPT adoption has expanded | OpenAI | [link](https://openai.com/index/how-chatgpt-adoption-has-expanded) |
-| 2026-06-30 | Inside Genebench-Pro | OpenAI | [link](https://openai.com/index/genebench-pro/case-studies) |
 | 2026-06-30 | Core dump epidemiology: fixing an 18-year-old bug | OpenAI | [link](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug) |
 
 ## Physical AI News
@@ -94,13 +94,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Edgenesis/shifu | 1424 | Go | 569.7 | [link](https://github.com/Edgenesis/shifu) |
 | copper-project/copper-rs | 1380 | Rust | 552.1 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 887 | Python | 354.9 | [link](https://github.com/mosaico-labs/mosaico) |
-| awslabs/awsome-distributed-ai | 453 | Shell | 181.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| awslabs/awsome-distributed-ai | 454 | Shell | 181.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 155 | Python | 62.1 | [link](https://github.com/ros-claw/rosclaw) |
-| Developer-Y/cs-video-courses | 82320 |  | 32928.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63031 | Python | 25212.5 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82321 |  | 32928.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63033 | Python | 25213.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15433 | C++ | 6173.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14115 | C++ | 5646.1 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11090 | Rust | 4436.1 | [link](https://github.com/rerun-io/rerun) |
+| google-deepmind/mujoco | 14116 | C++ | 5646.5 | [link](https://github.com/google-deepmind/mujoco) |
+| rerun-io/rerun | 11091 | Rust | 4436.5 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -122,8 +122,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-07 | HIVE brings in $15M to build physical AI for industrial machines - The Robot Report | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOWEyVzFrNUNpdUpKZEd6SXY2ckdTeVRlZUV3N3JwRHRmZmU2Yi1ueVEtT0ZXaEZjbTgwdlEwOThqak5pZHd4Y0x5amFfM0JzeFBTT0c1VlhIRHJEM2MzVk9TX1dadXhIUWc5bVVUeG13NlJpQk5BS1dIcFN6SDFzc2J6VnhJVmRjbmcxN2ZyYWV2T1NiMGlnQ05PNA?oc=5) |
 | 2026-07-07 | Mowito raises $3 million to scale physical AI for robots - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxPOThSWFMzQjV4M01yYVctRmViOXVNRmZtSTFnRGxxMkRic0VqTG8tMEdtdHd3ZnpyYVpaX2NCbVU2UEFST0xhaUdiOGtuSUF2RExiTlNvRjliS3Q4eUxXQ1FXRHRKeWF5SUhGQlBFQXM0ai1Cd2ZlVjVtVGt4UjJKQ0dORVhWQ3VZV2tYdFF2YUZZM0F4OU1LS1JOMVpIUQ?oc=5) |
 | 2026-07-07 | Physical AI startup Mowito raises $3 million to teach factory robots by demonstration, not code - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOW1HYkloZklEQWpSU3FXaUhlX1U2eG9rRDRDZFU0TC12dzU2bzhjTGpIV3gySTI4MmZ5bXZpMzJ3VG9kZUJ5ZV8xSEhCNlhXaHZENHZvaE42ME5JX2VPbEN1NEktUHJuQjR4d3lSdllrejlxM3VDeVRfU3dLODJuejB2aHU3TUFFZ1EzRG1nTmktOFNjcFVLMDRkRkZxUDRBd3pfSXVhdlJrMGpCanhEazR3MXktNWl6VnJrb3NPY3VMWGoxUTdTLXgwUGRBdWV2Q19jak9PcGpXeFBUUTl4UmtfUGxVNG54eS1jOXA4NkwtQdIB9wFBVV95cUxNYnRnek85dzNPbi03aFF6UzgyaTFpdWRlMWpIVENkRkNEbndNcVhaTHMtTkZaOUhkRWxrVG9QT3dZQUpRRGFPX19jcTJ5NmF4LUxNOFV6MnowZ3ZPckhETkcwV2ItRk1ST002ZzVQZDVoTFk4WnR5WFdfYUgxS0Fjd2htZ0RTdlNGR245ZERsS1JLUXV4MlNaeTZ0enNhSEdfcUxpZmpEcGdCWWxhdkQtTkNTSEhJQ3M5dUZLS2dwVkg0RzRmMDN6Y2NWV3l4QXdJVHNId0REYkZJcXR3cXlETld1RklVZG9LY083bWFZeWExVWlRcDFZ?oc=5) |
-| 2026-07-07 | Bezos’ AI startup Prometheus raises $12B, valued at $41B - eciks.org | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTFBGYzFUbWF6N0gxUXp1dE9oZ2R4RUN6azJNLVdOSTlvTW43LVhnRkJyN2FhekFCSVJMQ3o1RmVXN2Z2eUxVaDZWaWVtZ1lsVnQyQVhPNFlZcWVrYVBTRDZRWURBVGw2LUhURDhpSTBaZWxPMGdyUFI0?oc=5) |
 | 2026-07-07 | Physical AI startup Mowito raises $3 million in pre-seed funding round - Business Standard | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRzVUS2VGMGg5ODNTQmJ1Z01YVWdlTXo3b3dKdWRKa2x2MkN5WmRKVDhoVDQxOXdMV2JOdlZaVS1OeGFLaXBCc2pMbWtxd2JOUnpLcU5ZT1V4VEtnR3Jrazh6S1VEZlNoaTBncG5GYW1hSG8yd0tYb19KLXl3dzBxdlpjRTNUSzF1YXg0VzlnajRoS2o0STNtZC1ybFVHNi15SHRkMUM3eVA5eHVCZUJMWTU2OTJxSFJBS2dob0NXdGVoejN5WWZKVU9od0tMNTFCRTZFRFVn0gHbAUFVX3lxTE1kcjlQU1dWbDhpMTdTYjg1bTBMOEtzVUJhRGJRZkZRQlZYV0FXVjd1dG1KazhTVGdXYWRvRHVsd2JjSUlVX18tMGtzWTFQVXpELVF6RnZfcFhsMDFrdV9XSUhpRXJzUEIwVEtHcDVzRE52QzhBendweWhCdkJVVmc0Qk1YcFVrRTgyMFhucnNWUWpuSDVTZGE4M2dDWGFFcmtUb3VxV2otM2N0U3Y5TjRYZGdfZWZURExhN284VDc2aDU1b3REcnBCVXQ2WVRWNkdZV2FXOTZFbVhHcw?oc=5) |
+| 2026-07-07 | Bezos’ AI startup Prometheus raises $12B, valued at $41B - eciks.org | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTFBGYzFUbWF6N0gxUXp1dE9oZ2R4RUN6azJNLVdOSTlvTW43LVhnRkJyN2FhekFCSVJMQ3o1RmVXN2Z2eUxVaDZWaWVtZ1lsVnQyQVhPNFlZcWVrYVBTRDZRWURBVGw2LUhURDhpSTBaZWxPMGdyUFI0?oc=5) |
 | 2026-07-07 | Physical AI Startup Mowito Raises $3 Million Pre-Seed Round to Bring AI-Powered Robot Learning to Manufacturing - Indian Startup Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTnJaYklsN1ptTTZ1TG9Cbll2THFSdExXbmNtZkpydFlLcEdqdGlveVZXX2xWUlRLRWkwNnVBejZZVjRWeU11dG9STnUxMEF4YmhCTUo4RWt1eHo2Sm9MZVR1dk5JWTNOeTRtZnYzdjY0bk9rMEFSbnFUWXU1QWo0TTRpT3Rob19PdVNWb2YzazZqTHhxOUtyLWs5SEs4Z3FJbzI4TmFMRENpc2ZOZnRtdURpRzRyRVNyRWt6UVhhQW85ZVlNU0NzekdJUkhUUk1oZHp4UGNHNlFXVzR1WGptQUFSSHQ1bUdrV3U5VE93?oc=5) |
 | 2026-07-07 | Physical AI startup Mowito raises $3 Mn led by Version One Ventures - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXBIWkQ1MDYtV3ZMa0Ffd3RsQnJFVldsQ0pucnYtbUI1LU1hVnJrNzQyLVYxckItc214elkwd2JacXFOeE9yc25OcDY5Rlh2VnBQVG52YmJKS1JHRVl0WUE5dDJqRE80ZnRiWVZYNnRDNHFfUEtBd3ZnaGFzdW8xOVB4TjMzbnd2aWNWMnFzTzFHUk1HTDU3dnBtaVc5ckVuVkZqalNpTDbSAagBQVVfeXFMTkVwSFpENTA2LVd2TGtBX3d0bEJyRVZXbENKbnJ2LW1CNS1NYVZyazc0Mi1WMXJCLXNteHpZMHdiWnFxTnhPcnNuTnA2OUZYdlZwUFRudmJiSktSR0VZdFlBOXQyakRPNGZ0YllWWDZ0QzRxX1BLQXd2Z2hhc3VvMTlQeE4zM253dmljVjJxc08xR1JNR0w1N3ZwbWlXOXJFblZGampTaUw2?oc=5) |
 | 2026-07-07 | Mowito Raises $3 Million To Scale Physical AI For Manufacturing - ciol.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZE9BVk1RbXQxU0FyZ2c2NDdyVGZLZU43ajYyTXRIU0MxVGNoN3VxWnV2NFNkMXdoY1NNekdiWk9uZlZ2ZE5kY3Q1UmZpdXpQT2lla191QkpVQmFpQnZhR095MzBIcGpHeWZvRTR4TDJ1N2lvaG5yLTBXeDhMdTlOVXV3X1BiRDNGS1Jud1BFTWtJTjBKOTFZZGZqQnBFbzlzSWx1bWFHV0JWMGhLWWRpSmtCaFFYcjdTX0HSAboBQVVfeXFMUGRPQVZNUW10MVNBcmdnNjQ3clRmS2VON2o2Mk10SFNDMVRjaDd1cVp1djRTZDF3aGNTTXpHYlpPbmZWdmROZGN0NVJmaXV6UE9pZWtfdUJKVUJhaUJ2YUdPeTMwSHBqR3lmb0U0eEwydTdpb2huci0wV3g4THU5TlV1d19QYkQzRktSbndQRU1rSU4wSjkxWWRmakJwRW85c0lsdW1hR1dCVjBoS1lkaUprQmhRWHI3U19B?oc=5) |
