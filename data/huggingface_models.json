@@ -1,5 +1,41 @@
 [
   {
+    "model": "OpenWAM/SFT_Two_Stage_RoboTwin_Clean",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/SFT_Two_Stage_RoboTwin_Clean",
+    "date": "2026-07-07",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "OpenWAM/RoboTwin_DualSystem_JointSelfAttention_Wan21_I2T_14B",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/RoboTwin_DualSystem_JointSelfAttention_Wan21_I2T_14B",
+    "date": "2026-07-07",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Recycle_BlackPlasticCup_place_1022_0703_80k_act",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Recycle_BlackPlasticCup_place_1022_0703_80k_act",
+    "date": "2026-07-07",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "anhtld/vla",
+    "downloads": 0,
+    "likes": 2,
+    "url": "https://huggingface.co/anhtld/vla",
+    "date": "2026-07-07",
+    "keyword": "vla",
+    "score": 0.5
+  },
+  {
     "model": "zolkin/robot_rl",
     "downloads": 0,
     "likes": 1,
@@ -81,33 +117,6 @@
     "score": 7.3
   },
   {
-    "model": "pollen-robotics/yunet-face-detection-2023mar",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/pollen-robotics/yunet-face-detection-2023mar",
-    "date": "2026-07-06",
-    "keyword": "robotics",
-    "score": 0.3
-  },
-  {
-    "model": "YinonDouchan/mobile_robot_lift_env",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/mobile_robot_lift_env",
-    "date": "2026-07-06",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "aslivishaal/robotics-qwen3-8b-merged",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/aslivishaal/robotics-qwen3-8b-merged",
-    "date": "2026-07-06",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "chomeed/shell_game_touch_vla_v0_pi05",
     "downloads": 0,
     "likes": 0,
@@ -115,15 +124,6 @@
     "date": "2026-07-06",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "anhtld/vla",
-    "downloads": 0,
-    "likes": 2,
-    "url": "https://huggingface.co/anhtld/vla",
-    "date": "2026-07-06",
-    "keyword": "vla",
-    "score": 0.5
   },
   {
     "model": "liuzhiqian/multi_agent_vla",
@@ -340,6 +340,24 @@
     "date": "2026-07-06",
     "keyword": "policy",
     "score": 10.6
+  },
+  {
+    "model": "pollen-robotics/yunet-face-detection-2023mar",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/pollen-robotics/yunet-face-detection-2023mar",
+    "date": "2026-07-06",
+    "keyword": "robotics",
+    "score": 0.3
+  },
+  {
+    "model": "aslivishaal/robotics-qwen3-8b-merged",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/aslivishaal/robotics-qwen3-8b-merged",
+    "date": "2026-07-06",
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "turturtur250/AILAB-physical",

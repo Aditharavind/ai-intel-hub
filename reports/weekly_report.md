@@ -1,23 +1,23 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-06 23:54 UTC
+Generated: 2026-07-07 01:31 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-02 | WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory | [link](https://arxiv.org/pdf/2607.02517v1) |
-| 2026-07-02 | Program-as-Weights: A Programming Paradigm for Fuzzy Functions | [link](https://arxiv.org/pdf/2607.02512v1) |
-| 2026-07-02 | VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation | [link](https://arxiv.org/pdf/2607.02503v1) |
-| 2026-07-02 | Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots | [link](https://arxiv.org/pdf/2607.02501v1) |
-| 2026-07-02 | Seek to Segment: Active Perception for Panoramic Referring Segmentation | [link](https://arxiv.org/pdf/2607.02497v1) |
+| 2026-07-03 | Modular Foundation Models for Time-Series Perception in Digital Twins | [link](https://arxiv.org/pdf/2607.03585v1) |
+| 2026-07-03 | Cross-Embodiment Robot Manipulation via a Unified Hand Action Space | [link](https://arxiv.org/pdf/2607.03570v1) |
+| 2026-07-03 | Latent Clarity: Bridging World-Model Kinematics to Semantic Manifolds for Video Anomaly Anticipation | [link](https://arxiv.org/pdf/2607.03558v1) |
+| 2026-07-03 | CoorGrasp: Coordinated Contact Control for Adaptive Dexterous Grasping Under Uncertainty | [link](https://arxiv.org/pdf/2607.03557v1) |
+| 2026-07-03 | iVISION-2DCD: A Long-Term Change Detection Dataset for Large-Scale Outdoor Construction Monitoring | [link](https://arxiv.org/pdf/2607.03553v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82314 | 32925.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82315 | 32926.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63010 | 25204.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44202 | 17680.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 29973 | 11989.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| NaiboWang/EasySpider | 44203 | 17681.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 29974 | 11989.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15983 | 6393.3 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
@@ -41,8 +41,8 @@ Generated: 2026-07-06 23:54 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-07 | Chinese AI Investors Visit Korea to Forge 'Physical AI Alliance' - Seoul Economic Daily | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNTNoNGthNWZIZTRFNW5mdjYzZW5EWU9qbHFSeS01NEFaRXNhZHcwZVR5bnVIOWZ1dlhjbTF4bWpGZTVIT2cyMVV6RVVPY1FnQ0VNcVBiWnRpSEZfbjJMcVFZaWJSNnI1b0ZCdllOOTVMWWtHei1yVGNuVW1IU3JTdEJFam54dzRmNmI3Z0hxV1JETDR0Z3hhVnhVUQ?oc=5) |
 | 2026-07-06 | Jeff Bezos Is Pouring Money Into a Startup That Could Drive ‘Civilizational Wealth’ - 24/7 Wall St. | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbE5ZY21XOEJ0SXJhUHhzR1RycG5hVFZmOW51Xzl0ZzVEdFVKbGZ5ckpvTVY0Ujk4OVo1TTg0VS1Kcl93c2JPOFpwQmNOUHBOdUJzMDI4THhmdGJUYnhsb0RSWWJzcXdmR2d4T0ZJTzdycTFXdlh3em5nYVFxckxZVDFmckUtcUstUUdKX2tmblVINW1UbHZ1MHJCRHh6V1k5NEw4ZTkxWHl2LVNzYTJ1MGFlQk5qdHV2OEhlbmE4dmdvN2c?oc=5) |
 | 2026-07-06 | UK startup Worldmodeldata raises €8 million to turn video games into training data for physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVWREQnB0ZlNReGtfRFZNSkJSWmZScjUyclEyY2MxdVhPdy1DeTlleDlWUXdYeVZZcmMxTkNnTkltTlVJYzZ2ZjRGbFFLdFI5bmtxa3Z3OThZajlHNkxkcEZQZGVRMUlqZy1FOGxUbF92d2o4MzMxRHMyYWhzQWI5Z3h1VXpzajZWbEpCNGJ5OWljT0ZsdzhDQlNxOVBiOWx2MXowRDdGMmVDWjI5Q2x1NHRsUENYRXFpbk1SWFpRa05EUmJTelJCQjVhbHZoM2ll?oc=5) |
 | 2026-07-06 | UK startup Humanoid launches reinforcement learning system to improve robot manipulation - Robotics & Automation News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORW9lX0tWMWlianFGNnRmV2M4eGdvN09aZDU0dnpuckVZbjNvLVZ1bER1ckpwaUg1OHFuM1ZrV240WU1GZnJadTFGS0ZOSW5NQ2s0dU9mUWVKU1JiUk1RVE4wN19KT1RiYlYzYnZ1bi1KT25DSXVmRlBGLWo1Y1ozRTAwOHhlWlUxbEV0ZlZLai14c21VeVJrMjRMdURaSi15UkdibFNZVld2WXVEd2dxbmY2bUVwSUs2WDJBbXdyeEdmUzlLMnkwSWVqUUhhZ2pKXzJ3YUJZSzdZNW1YbUE?oc=5) |
-| 2026-07-05 | Tsinghua Vehicle School Alums Launch Guangxiang Technology, Raise Hundreds of Millions for Embodied AI in Automotive - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkZkZ3lkNUtIRDdHX2k4RmZtekIxQ05BbDFNdVctYkVOZWlBRm9MbGNzYUZYZHZrUndINm5QMy11cmNHQzZqQUxtenRVbEI4dk5qSjZSOC15STdKU3EyTTYxeUtNUG5KS3V3VmFneWthakd5M010YWJ6ZU1tNUU2Y2dSYWRjRmFVbXlfZFA5b2NNYTk3R1RuWFZ3?oc=5) |
-| 2026-07-05 | Exclusive from Hard Krypton: Tsinghua University School of Vehicle and Mobility Alumni Launch Embodied AI Startup, Secure Hundreds of Millions in Angel Financing for Automotive Industry Deployment - 36 Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LRlpIb0JhZW5TeUxTVk5raVVxYTRHUDBmSExfc0YxTm02aU1RcGczQlk5Mk13X3NrdTBmTkd2WjctQnZxQVdBcGZaeTVtZUdkeHNn?oc=5) |
+| 2026-07-06 | Ant Group’s Humanoid Robot Bet: $73.6 Million Investment in Startup Zeroth - Earnings Growth Forecast - dars.gov.et | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3hvZkZONW5kX1FabS0tVkxJdEFuY0NEWjhSLTVBc0h2TnEzcE5YaEQ5T1pXR2pwRUJnb2h3RmJES0daLWpSTW80Q1owbEx5Uy1rNTNhZGN1MHhpSGxRNE1KVVcycWRpb29xUHhwbkxNdEt4UzNLYmw2bmotakxENXp1ZHVFUzA2NmxaTVlETlNoY0hhNjB6ZTBFQzNvSERPdHlXc3pWMzNVV1BzMWp5bFJidw?oc=5) |
