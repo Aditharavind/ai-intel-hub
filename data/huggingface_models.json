@@ -1,12 +1,30 @@
 [
   {
+    "model": "pollen-robotics/face_detection_yunet_2026may",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pollen-robotics/face_detection_yunet_2026may",
+    "date": "2026-07-07",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "pollen-robotics/face_detection_yunet_2023mar",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/pollen-robotics/face_detection_yunet_2023mar",
+    "date": "2026-07-07",
+    "keyword": "robotics",
+    "score": 0.3
+  },
+  {
     "model": "InternRobotics/InternVLA-A1.5-RoboTwin",
     "downloads": 25,
-    "likes": 4,
+    "likes": 5,
     "url": "https://huggingface.co/InternRobotics/InternVLA-A1.5-RoboTwin",
     "date": "2026-07-07",
     "keyword": "robot",
-    "score": 8.4
+    "score": 8.6
   },
   {
     "model": "x-square-robot/wall-oss-0.5",
@@ -72,6 +90,15 @@
     "score": 0.5
   },
   {
+    "model": "poet70/vla-sft-suite",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/poet70/vla-sft-suite",
+    "date": "2026-07-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "dawity/vla_jepa_omx",
     "downloads": 0,
     "likes": 0,
@@ -133,6 +160,24 @@
     "date": "2026-07-07",
     "keyword": "embodied",
     "score": 0.1
+  },
+  {
+    "model": "schronn/policy_record_v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/schronn/policy_record_v2",
+    "date": "2026-07-07",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "downloads": 479,
+    "likes": 1,
+    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "date": "2026-07-07",
+    "keyword": "policy",
+    "score": 144.0
   },
   {
     "model": "sebry4n/my_policy_dot_2",
@@ -216,24 +261,6 @@
     "score": 0.1
   },
   {
-    "model": "lerobot/lingbot_va_robotwin",
-    "downloads": 65,
-    "likes": 1,
-    "url": "https://huggingface.co/lerobot/lingbot_va_robotwin",
-    "date": "2026-07-06",
-    "keyword": "robot",
-    "score": 19.8
-  },
-  {
-    "model": "PuraVida06/ai-miner-robotics-model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/PuraVida06/ai-miner-robotics-model",
-    "date": "2026-07-06",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "chomeed/shell_game_touch_vla_v0_pi05",
     "downloads": 0,
     "likes": 0,
@@ -247,15 +274,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/liuzhiqian/multi_agent_vla",
-    "date": "2026-07-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "poet70/vla-sft-suite",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/poet70/vla-sft-suite",
     "date": "2026-07-06",
     "keyword": "vla",
     "score": 0.1
@@ -297,15 +315,6 @@
     "score": 14.3
   },
   {
-    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "downloads": 479,
-    "likes": 1,
-    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "date": "2026-07-06",
-    "keyword": "policy",
-    "score": 144.0
-  },
-  {
     "model": "kb127/act195_kl18_policy",
     "downloads": 0,
     "likes": 0,
@@ -342,22 +351,13 @@
     "score": 0.3
   },
   {
-    "model": "schronn/my_policy_3",
+    "model": "PuraVida06/ai-miner-robotics-model",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/schronn/my_policy_3",
-    "date": "2026-07-06",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "pollen-robotics/yunet-face-detection-2023mar",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/pollen-robotics/yunet-face-detection-2023mar",
+    "url": "https://huggingface.co/PuraVida06/ai-miner-robotics-model",
     "date": "2026-07-06",
     "keyword": "robotics",
-    "score": 0.3
+    "score": 0.1
   },
   {
     "model": "aslivishaal/robotics-qwen3-8b-merged",
@@ -511,15 +511,6 @@
     "date": "2026-06-30",
     "keyword": "world model",
     "score": 0.1
-  },
-  {
-    "model": "pollen-robotics/wake-word-detector",
-    "downloads": 1675,
-    "likes": 0,
-    "url": "https://huggingface.co/pollen-robotics/wake-word-detector",
-    "date": "2026-06-30",
-    "keyword": "robotics",
-    "score": 502.6
   },
   {
     "model": "ewykric/EmbodiedSelfPlay-checkpoints",
