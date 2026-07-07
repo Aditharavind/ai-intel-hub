@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-07 18:52 UTC
+Last Updated: 2026-07-07 20:42 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -38,24 +38,24 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-07 | NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/) |
 | 2026-07-07 | Tesollo initiates IPO process while developing humanoid hands | Robotics Business Review | [link](https://www.therobotreport.com/tesollo-initiates-ipo-process-developing-humanoid-hands/) |
 | 2026-07-07 | HIVE brings in $15M to build physical AI for industrial machines | Robotics Business Review | [link](https://www.therobotreport.com/hive-brings-in-15m-to-build-physical-ai-for-industrial-machines/) |
+| 2026-07-07 | ABB Robotics includes vSLAM navigation in F712 autonomous forklift | Robotics Business Review | [link](https://www.therobotreport.com/abb-robotics-includes-vslam-navigation-f712-autonomous-forklift/) |
 | 2026-07-06 | RoboBusiness 2026 call for speakers closes soon | Robotics Business Review | [link](https://www.therobotreport.com/robobusiness-2026-opens-call-for-speakers/) |
 | 2026-07-06 | Quantum Systems raises $1.2B to expand drone production and deployments | Robotics Business Review | [link](https://www.therobotreport.com/quantum-systems-raises-1-2b-expand-drone-production-deployments/) |
 | 2026-07-06 | Kraken Robotics acquires Covelya Group for $615M | Robotics Business Review | [link](https://www.therobotreport.com/kraken-robotics-acquires-covelya-group-for-615m/) |
 | 2026-07-06 | Boston Dynamics brings its legged robots to the FIFA World Cup | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-brings-its-legged-robots-to-the-fifa-world-cup/) |
 | 2026-07-05 | Humanoid says KinetIQ Ascend reinforcement learning approaches human-level dexterity | Robotics Business Review | [link](https://www.therobotreport.com/humanoid-announces-kinetiq-ascend-reinforcement-learning-approach/) |
 | 2026-07-04 | Context is king: How Avride uses cloud VLMs as a safety net for delivery robots | Robotics Business Review | [link](https://www.therobotreport.com/how-avride-uses-cloud-vlms-safety-net-delivery-robots/) |
-| 2026-07-04 | Japan Pioneered Humanoid Robots—Can It Now Catch China? | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/humanoid-robots-japan) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-07 | Reverse Engineering and Self-Hosting the OBI Smart Energy Tracker | Hackaday | [link](https://hackaday.com/2026/07/07/reverse-engineering-and-self-hosting-the-obi-smart-energy-tracker/) |
 | 2026-07-07 | When An Engineering Education Doesn’t Teach You How To Really Make Anything | Hackaday | [link](https://hackaday.com/2026/07/07/when-an-engineering-education-doesnt-teach-you-how-to-really-make-anything/) |
 | 2026-07-07 | SB Mini II is a Homebrew Apple II Clone | Hackaday | [link](https://hackaday.com/2026/07/07/sb-mini-ii-is-a-homebrew-apple-ii-clone/) |
 | 2026-07-07 | Is Now the Time for Volumetric 3D Printing? | Hackaday | [link](https://hackaday.com/2026/07/07/is-now-the-time-for-volumetric-3d-printing/) |
 | 2026-07-07 | An Interactive Tomato Farm Overseen by AI | Hackaday | [link](https://hackaday.com/2026/07/07/an-interactive-tomato-farm-overseen-by-ai/) |
 | 2026-07-07 | Why the NES Put Out a Wobbly Picture | Hackaday | [link](https://hackaday.com/2026/07/07/why-the-nes-put-out-a-wobbly-picture/) |
 | 2026-07-07 | Belt Fed Potato Cannon Spits Spuds | Hackaday | [link](https://hackaday.com/2026/07/06/belt-fed-potato-cannon-spits-spuds/) |
-| 2026-07-07 | Performance Improvements For Open-Source 80386 | Hackaday | [link](https://hackaday.com/2026/07/06/performance-improvements-for-open-source-80386/) |
 | 2026-07-07 | ESP32-C5 devkit offers 2.8-inch capacitive touch display, dual-band Wi-Fi 6, Bluetooth 5 LE, LiPo battery support | CNX Software | [link](https://www.cnx-software.com/2026/07/07/esp32-c5-devkit-offers-2-8-inch-capacitive-touch-display-dual-band-wi-fi-6-bluetooth-5-le-lipo-battery-support/) |
 | 2026-07-07 | Mercedes-Benz hosts open-source hardware Automotive Rapid DEvelopment Platform (ARDEP) | CNX Software | [link](https://www.cnx-software.com/2026/07/07/mercedes-benz-hosts-open-source-hardware-automotive-rapid-development-platform-ardep/) |
 | 2026-07-07 | PocketMage – An ESP32-S3-based Personal Digital Assistant (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/07/pocketmage-esp32-s3-personal-digital-assistant/) |
@@ -95,12 +95,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1380 | Rust | 552.1 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 887 | Python | 354.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 453 | Shell | 181.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| ros-claw/rosclaw | 155 | Python | 62.1 | [link](https://github.com/ros-claw/rosclaw) |
 | Developer-Y/cs-video-courses | 82320 |  | 32928.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63028 | Python | 25211.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63031 | Python | 25212.5 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15433 | C++ | 6173.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14116 | C++ | 5646.5 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11089 | Rust | 4435.7 | [link](https://github.com/rerun-io/rerun) |
-| earthtojake/text-to-cad | 7776 | JavaScript | 3110.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14115 | C++ | 5646.1 | [link](https://github.com/google-deepmind/mujoco) |
+| rerun-io/rerun | 11090 | Rust | 4436.1 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -133,6 +133,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-07 | Staff Systems Integration Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6017810004) |
 | 2026-07-06 | AI Data Operations Lead | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
 | 2026-07-06 | Electrical Engineering Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4676467006) |
 | 2026-07-06 | Firmware Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-06 | Special Projects Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4694889006) |
 | 2026-07-06 | Validation Engineering Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4606072006) |
 | 2026-07-02 | Mechanical Engineer - Arms | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4694160006) |
-| 2026-07-02 | Software Integration Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4618234006) |
 
 ## Automation
 
