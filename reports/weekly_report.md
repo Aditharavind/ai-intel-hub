@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-07 11:46 UTC
+Generated: 2026-07-07 13:58 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-07-07 11:46 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82316 | 32926.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63022 | 25208.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82319 | 32927.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63023 | 25209.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44201 | 17680.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 29979 | 11991.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15985 | 6394.1 | [link](https://github.com/zauberzeug/nicegui) |
+| AtsushiSakai/PythonRobotics | 29980 | 11992.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15986 | 6394.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| lerobot/VLA-JEPA-Pretrain | 1346 | 405.9 | [link](https://huggingface.co/lerobot/VLA-JEPA-Pretrain) |
 | IffYuan/Embodied-R1.5 | 802 | 240.7 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
 | jovaldivieso/double_integrator_casadi_diffusion_policy | 479 | 144.0 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 273 | 83.8 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 | BrinqAI/functiongemma-270m-physical-ai | 272 | 81.7 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
+| tencent/Hy-Embodied-0.5-VLA-UMI | 246 | 75.5 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-07-07 11:46 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-07 | Mowito raises $3 million to scale physical AI for robots - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxPOThSWFMzQjV4M01yYVctRmViOXVNRmZtSTFnRGxxMkRic0VqTG8tMEdtdHd3ZnpyYVpaX2NCbVU2UEFST0xhaUdiOGtuSUF2RExiTlNvRjliS3Q4eUxXQ1FXRHRKeWF5SUhGQlBFQXM0ai1Cd2ZlVjVtVGt4UjJKQ0dORVhWQ3VZV2tYdFF2YUZZM0F4OU1LS1JOMVpIUQ?oc=5) |
+| 2026-07-07 | Physical AI startup Mowito raises $3 million to teach factory robots by demonstration, not code - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOW1HYkloZklEQWpSU3FXaUhlX1U2eG9rRDRDZFU0TC12dzU2bzhjTGpIV3gySTI4MmZ5bXZpMzJ3VG9kZUJ5ZV8xSEhCNlhXaHZENHZvaE42ME5JX2VPbEN1NEktUHJuQjR4d3lSdllrejlxM3VDeVRfU3dLODJuejB2aHU3TUFFZ1EzRG1nTmktOFNjcFVLMDRkRkZxUDRBd3pfSXVhdlJrMGpCanhEazR3MXktNWl6VnJrb3NPY3VMWGoxUTdTLXgwUGRBdWV2Q19jak9PcGpXeFBUUTl4UmtfUGxVNG54eS1jOXA4NkwtQdIB9wFBVV95cUxNYnRnek85dzNPbi03aFF6UzgyaTFpdWRlMWpIVENkRkNEbndNcVhaTHMtTkZaOUhkRWxrVG9QT3dZQUpRRGFPX19jcTJ5NmF4LUxNOFV6MnowZ3ZPckhETkcwV2ItRk1ST002ZzVQZDVoTFk4WnR5WFdfYUgxS0Fjd2htZ0RTdlNGR245ZERsS1JLUXV4MlNaeTZ0enNhSEdfcUxpZmpEcGdCWWxhdkQtTkNTSEhJQ3M5dUZLS2dwVkg0RzRmMDN6Y2NWV3l4QXdJVHNId0REYkZJcXR3cXlETld1RklVZG9LY083bWFZeWExVWlRcDFZ?oc=5) |
 | 2026-07-07 | Bezos’ AI startup Prometheus raises $12B, valued at $41B - eciks.org | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTFBGYzFUbWF6N0gxUXp1dE9oZ2R4RUN6azJNLVdOSTlvTW43LVhnRkJyN2FhekFCSVJMQ3o1RmVXN2Z2eUxVaDZWaWVtZ1lsVnQyQVhPNFlZcWVrYVBTRDZRWURBVGw2LUhURDhpSTBaZWxPMGdyUFI0?oc=5) |
 | 2026-07-07 | Physical AI startup Mowito raises $3 million in pre-seed funding round - Business Standard | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRzVUS2VGMGg5ODNTQmJ1Z01YVWdlTXo3b3dKdWRKa2x2MkN5WmRKVDhoVDQxOXdMV2JOdlZaVS1OeGFLaXBCc2pMbWtxd2JOUnpLcU5ZT1V4VEtnR3Jrazh6S1VEZlNoaTBncG5GYW1hSG8yd0tYb19KLXl3dzBxdlpjRTNUSzF1YXg0VzlnajRoS2o0STNtZC1ybFVHNi15SHRkMUM3eVA5eHVCZUJMWTU2OTJxSFJBS2dob0NXdGVoejN5WWZKVU9od0tMNTFCRTZFRFVn0gHbAUFVX3lxTE1kcjlQU1dWbDhpMTdTYjg1bTBMOEtzVUJhRGJRZkZRQlZYV0FXVjd1dG1KazhTVGdXYWRvRHVsd2JjSUlVX18tMGtzWTFQVXpELVF6RnZfcFhsMDFrdV9XSUhpRXJzUEIwVEtHcDVzRE52QzhBendweWhCdkJVVmc0Qk1YcFVrRTgyMFhucnNWUWpuSDVTZGE4M2dDWGFFcmtUb3VxV2otM2N0U3Y5TjRYZGdfZWZURExhN284VDc2aDU1b3REcnBCVXQ2WVRWNkdZV2FXOTZFbVhHcw?oc=5) |
 | 2026-07-07 | Physical AI startup Mowito raises $3 Mn led by Version One Ventures - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXBIWkQ1MDYtV3ZMa0Ffd3RsQnJFVldsQ0pucnYtbUI1LU1hVnJrNzQyLVYxckItc214elkwd2JacXFOeE9yc25OcDY5Rlh2VnBQVG52YmJKS1JHRVl0WUE5dDJqRE80ZnRiWVZYNnRDNHFfUEtBd3ZnaGFzdW8xOVB4TjMzbnd2aWNWMnFzTzFHUk1HTDU3dnBtaVc5ckVuVkZqalNpTDbSAagBQVVfeXFMTkVwSFpENTA2LVd2TGtBX3d0bEJyRVZXbENKbnJ2LW1CNS1NYVZyazc0Mi1WMXJCLXNteHpZMHdiWnFxTnhPcnNuTnA2OUZYdlZwUFRudmJiSktSR0VZdFlBOXQyakRPNGZ0YllWWDZ0QzRxX1BLQXd2Z2hhc3VvMTlQeE4zM253dmljVjJxc08xR1JNR0w1N3ZwbWlXOXJFblZGampTaUw2?oc=5) |
-| 2026-07-07 | Simplexity Robotics: 11-Month-Old Embodied AI Startup Ships 100 Robots to Production Lines - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTlEVE5PX2M3YUJLMEZWT2NkaV8talFxQzNGdGJlcUNfM2x5T3A4SzJsdllZQ0I4TlY2N0N2RDBpZ3pJLUI5ckV5X09lMlYwZkxteV9nQkJRODZDVWUwNFVoLVpWUEYwVjQwR2NnX2RmajFzZmVtWjladVJOdVJOWndVTjlHaWdUN3BwX0Q1akRZZw?oc=5) |
-| 2026-07-07 | Physical Intelligence Secures Massive Robotics War Chest - AI CERTs | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxNOHh5SElCZGg0QV82Qk56ampQZDFwa1JqT3IxVFNMVzNMVWJRVFNhNlZvMUd6Vzl0dU0wOVJpYkJ3M3VEU08yTlFrSF9JS0RoUGROTkxWQWJZellHYmdkWjkzaGxqaV9GSDFZNDl5NlhWNGVTQVVLN2RVd2tFREJXbl9TajBWOEc0eF9MLWdR?oc=5) |
