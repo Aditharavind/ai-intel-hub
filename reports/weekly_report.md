@@ -1,30 +1,30 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-07 23:42 UTC
+Generated: 2026-07-08 01:16 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-06 | From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model | [link](https://arxiv.org/pdf/2607.05396v1) |
-| 2026-07-06 | LLM-as-a-Verifier: A General-Purpose Verification Framework | [link](https://arxiv.org/pdf/2607.05391v1) |
-| 2026-07-06 | Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models | [link](https://arxiv.org/pdf/2607.05390v1) |
-| 2026-07-06 | Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation | [link](https://arxiv.org/pdf/2607.05377v1) |
-| 2026-07-06 | PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space | [link](https://arxiv.org/pdf/2607.05373v1) |
+| 2026-07-07 | SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models | [link](https://arxiv.org/pdf/2607.06442v1) |
+| 2026-07-07 | WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation | [link](https://arxiv.org/pdf/2607.06438v1) |
+| 2026-07-07 | From Foundation to Application: Improving VLA Models in Practice | [link](https://arxiv.org/pdf/2607.06403v1) |
+| 2026-07-07 | A Definition and Roadmap for World Models | [link](https://arxiv.org/pdf/2607.06401v1) |
+| 2026-07-07 | Learning to Throw Objects Safely in Multi-Obstacle Environments | [link](https://arxiv.org/pdf/2607.06388v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 82321 | 32928.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63033 | 25213.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44203 | 17681.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 29983 | 11993.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| commaai/openpilot | 63037 | 25214.9 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44206 | 17682.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 29984 | 11993.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15987 | 6394.9 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | IffYuan/Embodied-R1.5 | 802 | 240.7 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
-| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 273 | 84.0 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
+| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 273 | 84.2 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 | BrinqAI/functiongemma-270m-physical-ai | 272 | 81.7 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 246 | 75.7 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
 | x-square-robot/wall-oss-0.5 | 155 | 47.8 | [link](https://huggingface.co/x-square-robot/wall-oss-0.5) |

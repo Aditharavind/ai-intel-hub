@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-07 23:42 UTC
+Last Updated: 2026-07-08 01:16 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,6 +8,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-07-07 | Australian Payments Plus moves faster with ChatGPT and Codex | OpenAI | [link](https://openai.com/index/australian-payments-plus) |
+| 2026-07-07 | MUFG aims to become AI-native with OpenAI | OpenAI | [link](https://openai.com/index/mufg) |
 | 2026-07-07 | From Hugging Face to Amazon SageMaker Studio in one click | Hugging Face | [link](https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio) |
 | 2026-07-07 | Hugging Face Models on Foundry Managed Compute | Hugging Face | [link](https://huggingface.co/blog/microsoft/foundry-managed-compute) |
 | 2026-07-07 | Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot | Hugging Face | [link](https://huggingface.co/blog/skypilot-hf-storage) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-06 | 🤗 Kernels: Major Updates | Hugging Face | [link](https://huggingface.co/blog/revamped-kernels) |
 | 2026-07-01 | Hugging Face and Cerebras bring Gemma 4 to real-time voice AI | Hugging Face | [link](https://huggingface.co/blog/cerebras-gemma4-voice-ai) |
 | 2026-06-30 | How ChatGPT adoption has expanded | OpenAI | [link](https://openai.com/index/how-chatgpt-adoption-has-expanded) |
-| 2026-06-30 | Core dump epidemiology: fixing an 18-year-old bug | OpenAI | [link](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -63,21 +63,21 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-06 | From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model | [link](https://arxiv.org/pdf/2607.05396v1) |
-| 2026-07-06 | LLM-as-a-Verifier: A General-Purpose Verification Framework | [link](https://arxiv.org/pdf/2607.05391v1) |
-| 2026-07-06 | Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models | [link](https://arxiv.org/pdf/2607.05390v1) |
-| 2026-07-06 | Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation | [link](https://arxiv.org/pdf/2607.05377v1) |
-| 2026-07-06 | PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space | [link](https://arxiv.org/pdf/2607.05373v1) |
-| 2026-07-06 | GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks | [link](https://arxiv.org/pdf/2607.05369v1) |
-| 2026-07-06 | Multiplayer Interactive World Models with Representation Autoencoders | [link](https://arxiv.org/pdf/2607.05352v1) |
-| 2026-07-06 | Beyond Isolated Objects: Relationship-aware Open Vocabulary Scene Understanding via 3D Scene Graph Analysis | [link](https://arxiv.org/pdf/2607.05348v1) |
-| 2026-07-06 | Socially-Aware Autonomous Doorway Traversal and Payload Delivery for Emergency Assistance | [link](https://arxiv.org/pdf/2607.05315v1) |
-| 2026-07-06 | Forecasting Realized Volatility with Time Series Foundation Models: A Comparison with Econometric Benchmarks | [link](https://arxiv.org/pdf/2607.05291v1) |
+| 2026-07-07 | SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models | [link](https://arxiv.org/pdf/2607.06442v1) |
+| 2026-07-07 | WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation | [link](https://arxiv.org/pdf/2607.06438v1) |
+| 2026-07-07 | From Foundation to Application: Improving VLA Models in Practice | [link](https://arxiv.org/pdf/2607.06403v1) |
+| 2026-07-07 | A Definition and Roadmap for World Models | [link](https://arxiv.org/pdf/2607.06401v1) |
+| 2026-07-07 | Learning to Throw Objects Safely in Multi-Obstacle Environments | [link](https://arxiv.org/pdf/2607.06388v1) |
+| 2026-07-07 | Towards Real-World Applications with an Autonomous Powered Wheelchair | [link](https://arxiv.org/pdf/2607.06383v1) |
+| 2026-07-07 | Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement | [link](https://arxiv.org/pdf/2607.06370v1) |
+| 2026-07-07 | TopoBrick: Agentic Topology Sampling of Exogenous Variables for Zero-Shot Building IoT Forecasting | [link](https://arxiv.org/pdf/2607.06349v1) |
+| 2026-07-07 | Responsible Personalisation: The Double-Edged Sword of Personalisation in Human-Robot Interaction | [link](https://arxiv.org/pdf/2607.06344v1) |
+| 2026-07-07 | OrchardBench: A Physically-Grounded, GPU-Parallel Apple-Orchard Simulation Benchmark for Agricultural Robotics | [link](https://arxiv.org/pdf/2607.06337v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-07 | a5ilank/curious-robot | 0 | 0 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-07-08 | a5ilank/curious-robot | 0 | 0 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-07-07 | wonder-robot/smolvla_piper_v3 | 0 | 0 | [link](https://huggingface.co/wonder-robot/smolvla_piper_v3) |
 | 2026-07-07 | morningstarxcdcode/adaption-no-robots-instructions-demo | 0 | 0 | [link](https://huggingface.co/morningstarxcdcode/adaption-no-robots-instructions-demo) |
 | 2026-07-07 | morningstarxcdcode/adaption-no-robots-instructions-model | 0 | 0 | [link](https://huggingface.co/morningstarxcdcode/adaption-no-robots-instructions-model) |
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| ros-claw/rosclaw | 155 | Python | 62.1 | [link](https://github.com/ros-claw/rosclaw) |
+| commaai/openpilot | 63037 | Python | 25214.9 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15433 | C++ | 6173.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| dora-rs/dora | 3831 | Rust | 1532.5 | [link](https://github.com/dora-rs/dora) |
+| StanfordVL/BEHAVIOR-1K | 1555 | Python | 622.1 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
+| vllm-project/vllm-omni | 5470 | Python | 2188.1 | [link](https://github.com/vllm-project/vllm-omni) |
+| isaac-sim/IsaacLab | 7629 | Python | 3051.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 | Edgenesis/shifu | 1424 | Go | 569.7 | [link](https://github.com/Edgenesis/shifu) |
 | copper-project/copper-rs | 1380 | Rust | 552.1 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 887 | Python | 354.9 | [link](https://github.com/mosaico-labs/mosaico) |
-| awslabs/awsome-distributed-ai | 454 | Shell | 181.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| ros-claw/rosclaw | 155 | Python | 62.1 | [link](https://github.com/ros-claw/rosclaw) |
-| Developer-Y/cs-video-courses | 82321 |  | 32928.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63033 | Python | 25213.3 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15433 | C++ | 6173.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14118 | C++ | 5647.3 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11091 | Rust | 4436.5 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
