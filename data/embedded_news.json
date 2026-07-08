@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hacking Amazon Echo Show 8 3rd Gen via UART and eMMC",
+    "source": "Hackaday",
+    "date": "2026-07-08",
+    "url": "https://hackaday.com/2026/07/08/hacking-amazon-echo-show-8-3rd-gen-via-uart-and-emmc/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"511\" src=\"https://hackaday.com/wp-content/uploads/2026/07/amazon_echo_show_8_3rd_gen_mainboard_ifixit.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Even with Amazon&#8217;s Echo Show devices running Linux in the form of the Android-derived FireOS, using them for non-Amazon approved purposes can be a chore at best. In the case <a class=\"read-more\" href=\"https://hackaday.com/2026/07/08/hacking-amazon-echo-show-8-3rd-gen-via-uart-and-emmc/\">&#8230;read more</a>"
+  },
+  {
     "title": "Linux Fu: The Local Phonebook",
     "source": "Hackaday",
     "date": "2026-07-08",
@@ -61,6 +68,13 @@
     "date": "2026-07-08",
     "url": "https://www.embedded.com/advantech-introduces-dragonwing-iq9-based-edge-ai-solutions/",
     "summary": "<p>Advantech Co. Ltd. has expanded its edge AI portfolio with a new family of industrial computing platforms based on the Qualcomm Dragonwing IQ-9075 processor. The new lineup includes the AOM-6741 SMARC module, the ASR-A503 and AFE-A503 robotic controllers, and the AIR-055 edge AI system, all designed to support advanced vision-based artificial intelligence applications in industrial [...]</p>\n<p>The post <a href=\"https://www.embedded.com/advantech-introduces-dragonwing-iq9-based-edge-ai-solutions/\">Advantech Introduces Dragonwing IQ9-Based Edge AI Solutions</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "ICEYE Germany forms in Berlin",
+    "source": "Electronics Weekly",
+    "date": "2026-07-08",
+    "url": "https://www.electronicsweekly.com/news/iceye-germany-forms-in-berlin-2026-07/",
+    "summary": "<p>ICEYE, the specialist in satellite-based SAR imagery (Synthetic Aperture Radar), is formally establishing a German entity with ICEYE Germany, working in both Berlin and Munich. Its German subsidiary will manufacture ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/iceye-germany-forms-in-berlin-2026-07/\">ICEYE Germany forms in Berlin</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "UK And Japan Worst For Waste",
@@ -126,11 +140,53 @@
     "summary": "<p>Photon Bridge, the Dutch photonics specialist, will use Phix, the photonics packaging house, to put Photon Bridge&#8217;s DWDM external laser source Transmit Optical Sub-Assembly (TOSA) (pictured) into a module for ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/photon-bridge-and-phix-take-tosa-module-to-market-2026-07/\">Photon Bridge and Phix take TOSA module to market</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Ardian Semiconductor invests in Vsora",
-    "source": "Electronics Weekly",
+    "title": "Framework’s 10G Ethernet module exposes USB-C’s complexity",
+    "source": "Adafruit",
     "date": "2026-07-08",
-    "url": "https://www.electronicsweekly.com/news/business/ardian-semiconductor-invests-in-vsora-2026-07/",
-    "summary": "<p>Ardian Semiconductor, a private equity company dedicated to semiconductor company investment, has made its fourth investment &#8211; a minority stake in Vsora, a French designer of AI inference accelerators. “Ardian ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ardian-semiconductor-invests-in-vsora-2026-07/\">Ardian Semiconductor invests in Vsora</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/08/frameworks-10g-ethernet-module-exposes-usb-cs-complexity/",
+    "summary": "Jeff Geerling has been following WisdPi&#8217;s development of various 5 Gbps and 10 Gbps Ethernet adapters for the past couple years. They use newer Realtek Ethernet chips, which sometimes have performance quirks—most frequently encountered under Linux. In today&#8217;s video, I tested the new WisdPi 10G Ethernet Expansion Card for Framework computers. It fits in any [&#8230;]"
+  },
+  {
+    "title": "The TI MSPM0C1104, an interesting Arm Cortex-M0+ microcontroller",
+    "source": "Adafruit",
+    "date": "2026-07-08",
+    "url": "https://blog.adafruit.com/2026/07/08/the-ti-mspm0c1104-an-interesting-arm-cortex-m0-microcontroller/",
+    "summary": "The MSPM0C1104 is a cost-optimized mixed-signal MCU on an Arm Cortex-M0+ up to 24 MHz, with 16 KB flash, 1 KB SRAM, and internal 24 MHz/32 kHz oscillators (no crystal needed). It packs one 12-bit SAR ADC (up to 10 channels, 1.5 Msps at VDD reference) with temperature sensor, supply monitor, and selectable 1.4/2.5 V [&#8230;]"
+  },
+  {
+    "title": "NeoPixel 60 Ring Wall Clock #AdafruitLearnSystem",
+    "source": "Adafruit",
+    "date": "2026-07-08",
+    "url": "https://blog.adafruit.com/2026/07/08/neopixel-60-ring-wall-clock-adafruitlearnsystem/",
+    "summary": "Make a simple clock using the NeoPixel 60 Ring! With the new NeoPixel 60 Ring, we have a perfect display for presenting the time with RGB LEDs! Hours are represented by red, minutes by green, seconds by blue. The arcs overlap and the colors mix. Minutes and seconds are each represented by a single green [&#8230;]"
+  },
+  {
+    "title": "The final stacking of Space Shuttle Endeavour",
+    "source": "Adafruit",
+    "date": "2026-07-08",
+    "url": "https://blog.adafruit.com/2026/07/08/the-final-stacking-of-space-shuttle-endeavour/",
+    "summary": "On January 30, 2024 the California Science Center completed Go for Stack, the complex process of moving and lifting each of the space shuttle components into place for Endeavour’s upcoming awe-inspiring 20-story vertical display. This technically challenging feat had never been done outside of a NASA facility. This (is) the only complete stack of authentic space shuttle flight hardware in [&#8230;]"
+  },
+  {
+    "title": "Building a physical Space Cadet pinball machine",
+    "source": "Adafruit",
+    "date": "2026-07-08",
+    "url": "https://blog.adafruit.com/2026/07/08/building-a-physical-space-cadet-pinball-machine/",
+    "summary": "Daniel McKenzie (@CNCDan) has decided to physically make a pinball machine based off of Space Cadet 3D Pinball the game that came with Windows XP. He&#8217;s building the mechanisms and showing how they work in the latest video. See the video below. Also on Hackaday."
+  },
+  {
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
+    "date": "2026-07-08",
+    "url": "https://blog.adafruit.com/2026/07/08/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-8-3/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+  },
+  {
+    "title": "LIVE! 3D Hangouts with Noe and Pedro",
+    "source": "Adafruit",
+    "date": "2026-07-08",
+    "url": "https://blog.adafruit.com/2026/07/08/live-3d-hangouts-with-noe-and-pedro-80/",
+    "summary": "﻿ 3D Hangouts – Flight Tracker, Chiptune Player and Noodle Sword https://youtube.com/live/v4zxYy2-riQ?feature=share This week @adafruit Pedro is working on a flight tracker with lunar transit features. Noe wraps up Liz Clark’s CircuitPython chiptune player. This week’s timelapse features a pool noodle sword inspired by Zelda video games. Adafruit Feather RP2350 with 8MB PSRAM: https://www.adafruit.com/product/6130 Adafruit [&#8230;]"
   },
   {
     "title": "See DRAM and Flash prices, interactively charted by Stanford University",
@@ -189,13 +245,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"625\" src=\"https://hackaday.com/wp-content/uploads/2026/07/steamCanoe-e1783433336467.jpg?w=625\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"625\" /></div>In some parts of Canada, you&#8217;ll rarely hear someone use the phrase &#8220;whatever paddles your canoe&#8221; instead of the more usual &#8220;whatever floats your boat&#8221;&#8211; and apparently, at least for <a class=\"read-more\" href=\"https://hackaday.com/2026/07/07/its-full-steam-ahead-for-this-motorized-canoe/\">&#8230;read more</a>"
   },
   {
-    "title": "Reverse Engineering and Self-Hosting the OBI Smart Energy Tracker",
-    "source": "Hackaday",
-    "date": "2026-07-07",
-    "url": "https://hackaday.com/2026/07/07/reverse-engineering-and-self-hosting-the-obi-smart-energy-tracker/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"395\" src=\"https://hackaday.com/wp-content/uploads/2026/07/obi_energy_tracker_devices_aaron_christophel_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Sold by German DIY store OBI, the OBI Energy Tracker is a €15 set of two devices, one of which you essentially stick on top of your existing electricity meter. <a class=\"read-more\" href=\"https://hackaday.com/2026/07/07/reverse-engineering-and-self-hosting-the-obi-smart-energy-tracker/\">&#8230;read more</a>"
-  },
-  {
     "title": "ESP32-C5 devkit offers 2.8-inch capacitive touch display, dual-band Wi-Fi 6, Bluetooth 5 LE, LiPo battery support",
     "source": "CNX Software",
     "date": "2026-07-07",
@@ -236,55 +285,6 @@
     "date": "2026-07-07",
     "url": "https://blog.adafruit.com/2026/07/07/new-new-news-from-adafruit-round-up-april-may-june-2026/",
     "summary": "New nEw NEWs is Adafruit’s weekly newsletter that features new products, special offers and more. Sign up at Adafruit.com/Newsletter to receive New nEw NEWs! Vol. #458: Custom Sound Reactive Lamp with Adafruit Sparkle Motion! Vol. #459: MAX44009 Wide-range Lux Light Sensor Vol. #460: CircuitPython 10.2.0-rc.0 Released! Vol. #461: The Force is Awakening Vol. #462: 36mm [&#8230;]"
-  },
-  {
-    "title": "Component Importer for KiCad",
-    "source": "Adafruit",
-    "date": "2026-07-07",
-    "url": "https://blog.adafruit.com/2026/07/07/component-importer-for-kicad/",
-    "summary": "Component Importer for KiCad by Robert RTR on GitHub is an open source desktop app for importing downloaded component ZIP libraries into KiCad projects. Component Importer for KiCad helps keep third-party component ZIPs organized inside a KiCad project. It can import symbols, footprints, 3D models, datasheets, and metadata into project-local libraries, then register those libraries [&#8230;]"
-  },
-  {
-    "title": "Dua Lipa Opens Banned Book Library #Censorship",
-    "source": "Adafruit",
-    "date": "2026-07-07",
-    "url": "https://blog.adafruit.com/2026/07/07/dua-lipa-opens-banned-book-library-censorship/",
-    "summary": "Inside The Manifesto Library: Service95 Book Club&#8217;s Permanent Collection At Livraria Lello, Porto, img via Service95 &#160; Dua Lipa has been advocating for books and reading for a few years now. In 2023 she started a book club through her culture and lifestyle site Service95 and is now opening a physical library. The Manifesto Library [&#8230;]"
-  },
-  {
-    "title": "Glowing Fireplace Insert with Edge-Lit Acrylic and WLED #LED Strips #AdafruitLearningSystem @Adafruit",
-    "source": "Adafruit",
-    "date": "2026-07-07",
-    "url": "https://blog.adafruit.com/2026/07/07/glowing-fireplace-insert-with-edge-lit-acrylic-and-wled-led-strips-adafruitlearningsystem-adafruit/",
-    "summary": "Check out the latest project from Erin St Blaine: build a 3 dimensional LED fireplace light system insert that turns your unused fireplace into a beautiful flickering fire that you can turn on and off using Alexa or any web browser. Create custom colored flame animations with a few clicks and sliders and save them [&#8230;]"
-  },
-  {
-    "title": "JP’s Product Pick of the Week — 4pm Eastern TODAY! 7/7/26 @adafruit #adafruit #newproductpick",
-    "source": "Adafruit",
-    "date": "2026-07-07",
-    "url": "https://blog.adafruit.com/2026/07/07/jps-product-pick-of-the-week-4pm-eastern-today-7-7-26-adafruit-adafruit-newproductpick/",
-    "summary": "Come on by for JP&#8217;s Product Pick of The Week ! A new product pick will be revealed. The show airs at 4pm ET / 1pm PT, TODAY! Check out the livestream right here inside this product page you won&#8217;t want to miss it because there will be a BEEEG DISCOUNT during the show! Tune [&#8230;]"
-  },
-  {
-    "title": "Designing a personal Pebble watchface",
-    "source": "Adafruit",
-    "date": "2026-07-07",
-    "url": "https://blog.adafruit.com/2026/07/07/designing-a-personal-pebble-watchface/",
-    "summary": "Jonas Hietala recently got a Pebble Time 2 and wanted to create a custom watchface for his specific problems. It took more effort to design the watch than I had anticipated and there’s a deceptively large amount of thought that has gone into some of the features here, so I thought it’d be interesting to [&#8230;]"
-  },
-  {
-    "title": "Visual Basic on the PC with Windows 3.1",
-    "source": "Adafruit",
-    "date": "2026-07-07",
-    "url": "https://blog.adafruit.com/2026/07/07/visual-basic-on-the-pc-with-windows-3-1/",
-    "summary": "Christopher Drum on the Stone Tools blog takes a look back at Visual Basic on the PC using the Windows 3.1 operating system. A while back, I dug into Apple&#8217;s HyperCard. Visual Basic gives us an interesting opportunity to look at a similar first-party, visual programming solution from Microsoft&#8217;s perspective. Like HyperCard, Visual Basic had its own dedicated magazine, and inspired legions of developers [&#8230;]"
-  },
-  {
-    "title": "ICYMI Python on Microcontrollers Newsletter: ScrollKit for your LED Matrices, AI Tools, Device Security and More!",
-    "source": "Adafruit",
-    "date": "2026-07-07",
-    "url": "https://blog.adafruit.com/2026/07/07/icymi-python-on-microcontrollers-newsletter-scrollkit-for-your-led-matrices-ai-tools-device-security-and-more/",
-    "summary": "If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,366 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep [&#8230;]"
   },
   {
     "title": "Deal between 3PEAK and Anglia delivers cost effective drop-in analog parts with increased functionality",

@@ -1,5 +1,33 @@
 [
   {
+    "title": "Helping K–12 educators build practical AI skills",
+    "source": "OpenAI",
+    "date": "2026-07-08",
+    "url": "https://openai.com/index/k-12-educators-practical-skills",
+    "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom."
+  },
+  {
+    "title": "Introducing GPT-Live",
+    "source": "OpenAI",
+    "date": "2026-07-08",
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice."
+  },
+  {
+    "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+    "source": "NVIDIA AI",
+    "date": "2026-07-08",
+    "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+    "summary": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.  LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x [&#8230;]"
+  },
+  {
+    "title": "Native-speed vLLM transformers modeling backend",
+    "source": "Hugging Face",
+    "date": "2026-07-08",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "summary": ""
+  },
+  {
     "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
     "source": "OpenAI",
     "date": "2026-07-07",
@@ -77,18 +105,18 @@
     "summary": ""
   },
   {
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "source": "OpenAI",
-    "date": "2026-06-30",
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
-  },
-  {
     "title": "Introducing GeneBench-Pro",
     "source": "OpenAI",
     "date": "2026-06-30",
     "url": "https://openai.com/index/introducing-genebench-pro",
     "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets."
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "source": "OpenAI",
+    "date": "2026-06-30",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
   },
   {
     "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
@@ -140,32 +168,11 @@
     "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
   },
   {
-    "title": "Run a vLLM Server on HF Jobs in One Command",
-    "source": "Hugging Face",
-    "date": "2026-06-26",
-    "url": "https://huggingface.co/blog/vllm-jobs",
-    "summary": ""
-  },
-  {
     "title": "How agents are transforming work",
     "source": "OpenAI",
     "date": "2026-06-25",
     "url": "https://openai.com/index/how-agents-are-transforming-work",
     "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles."
-  },
-  {
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "source": "OpenAI",
-    "date": "2026-06-24",
-    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
-  },
-  {
-    "title": "Helping build shared standards for advanced AI",
-    "source": "OpenAI",
-    "date": "2026-06-23",
-    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation."
   },
   {
     "title": "NVIDIA Rubin Platform, Open Models, Autonomous Driving: NVIDIA Presents Blueprint for the Future at CES",
@@ -243,12 +250,5 @@
     "date": "2025-03-20",
     "url": "https://blogs.nvidia.com/blog/nvidia-research-ai-graphics/",
     "summary": "The roots of many of NVIDIA’s landmark innovations — the foundational technology that powers AI, accelerated computing, real-time ray tracing and seamlessly connected data centers — can be found in the company’s research organization, a global team of around 400 experts in fields including computer architecture, generative AI, graphics and robotics. Established in 2006 and [&#8230;]"
-  },
-  {
-    "title": "It’s a Sign: AI Platform for Teaching American Sign Language Aims to Bridge Communication Gaps",
-    "source": "NVIDIA AI",
-    "date": "2025-02-20",
-    "url": "https://blogs.nvidia.com/blog/ai-sign-language/",
-    "summary": "American Sign Language is the third most prevalent language in the United States — but there are vastly fewer AI tools developed with ASL data than data representing the country’s most common languages, English and Spanish. NVIDIA, the American Society for Deaf Children and creative agency Hello Monday are helping close this gap with Signs, [&#8230;]"
   }
 ]

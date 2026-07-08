@@ -1,9 +1,27 @@
 [
   {
+    "model": "aslivishaal/phi3_robotics_lora",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/aslivishaal/phi3_robotics_lora",
+    "date": "2026-07-08",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "a5ilank/curious-robot",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/a5ilank/curious-robot",
+    "date": "2026-07-08",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Frywind/unit_robotwin_main",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Frywind/unit_robotwin_main",
     "date": "2026-07-08",
     "keyword": "robot",
     "score": 0.1
@@ -153,6 +171,24 @@
     "score": 0.1
   },
   {
+    "model": "Lucisu/red_cube_o1_20260708_085954_policy_3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Lucisu/red_cube_o1_20260708_085954_policy_3",
+    "date": "2026-07-08",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "schronn/policy_record_v4_bv",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/schronn/policy_record_v4_bv",
+    "date": "2026-07-08",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "trossenai/act_pick_drop_4_trial2_policy",
     "downloads": 0,
     "likes": 0,
@@ -243,24 +279,6 @@
     "score": 0.1
   },
   {
-    "model": "PolicyShiftGuard/PolicyShiftGuard-3B",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/PolicyShiftGuard/PolicyShiftGuard-3B",
-    "date": "2026-07-08",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "wpj-666/my_act_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/wpj-666/my_act_policy",
-    "date": "2026-07-08",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "wonder-robot/smolvla_piper_v3",
     "downloads": 0,
     "likes": 0,
@@ -270,31 +288,13 @@
     "score": 0.1
   },
   {
-    "model": "morningstarxcdcode/adaption-no-robots-instructions-demo",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/morningstarxcdcode/adaption-no-robots-instructions-demo",
-    "date": "2026-07-07",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "morningstarxcdcode/adaption-no-robots-instructions-model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/morningstarxcdcode/adaption-no-robots-instructions-model",
-    "date": "2026-07-07",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "robbyant/lingbot-vla-v2-6b",
     "downloads": 0,
-    "likes": 16,
+    "likes": 17,
     "url": "https://huggingface.co/robbyant/lingbot-vla-v2-6b",
     "date": "2026-07-07",
     "keyword": "vla",
-    "score": 3.3
+    "score": 3.5
   },
   {
     "model": "zwan1003/pickplace_twodisc_vla_v2",
@@ -529,15 +529,6 @@
     "date": "2026-07-01",
     "keyword": "robotics",
     "score": 9.4
-  },
-  {
-    "model": "pollen-robotics/nanowakeword-wake-up",
-    "downloads": 35,
-    "likes": 0,
-    "url": "https://huggingface.co/pollen-robotics/nanowakeword-wake-up",
-    "date": "2026-07-01",
-    "keyword": "robotics",
-    "score": 10.6
   },
   {
     "model": "GreenGenomicsLab/TARA-WorldModel-VICReg",
