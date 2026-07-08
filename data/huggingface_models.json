@@ -1,5 +1,14 @@
 [
   {
+    "model": "a5ilank/curious-robot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/a5ilank/curious-robot",
+    "date": "2026-07-08",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "aslivishaal/phi3_robotics_lora",
     "downloads": 0,
     "likes": 0,
@@ -9,12 +18,21 @@
     "score": 0.1
   },
   {
-    "model": "a5ilank/curious-robot",
+    "model": "pollen-robotics/pick_can_200_smooth_diffusion_a10g-best",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/a5ilank/curious-robot",
+    "url": "https://huggingface.co/pollen-robotics/pick_can_200_smooth_diffusion_a10g-best",
     "date": "2026-07-08",
-    "keyword": "robot",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "pollen-robotics/pick_can_200_smooth_diffusion_a10g",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pollen-robotics/pick_can_200_smooth_diffusion_a10g",
+    "date": "2026-07-08",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -90,19 +108,10 @@
     "score": 7.5
   },
   {
-    "model": "kairos-agi/Kairos3.1-4B-robot-480P",
-    "downloads": 27,
-    "likes": 0,
-    "url": "https://huggingface.co/kairos-agi/Kairos3.1-4B-robot-480P",
-    "date": "2026-07-08",
-    "keyword": "robot",
-    "score": 8.2
-  },
-  {
-    "model": "HarrisonPENG/M2W-VLA-LIBERO",
+    "model": "zaowu/vla-jepa-so101-finetune",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-LIBERO",
+    "url": "https://huggingface.co/zaowu/vla-jepa-so101-finetune",
     "date": "2026-07-08",
     "keyword": "vla",
     "score": 0.1
@@ -115,6 +124,15 @@
     "date": "2026-07-08",
     "keyword": "vla",
     "score": 0.7
+  },
+  {
+    "model": "HarrisonPENG/M2W-VLA-LIBERO",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-LIBERO",
+    "date": "2026-07-08",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "aryan1219/hopfield-vla",
@@ -168,6 +186,15 @@
     "url": "https://huggingface.co/lamamkh/push-cube-wasd-worldmodel-weights",
     "date": "2026-07-08",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "Lucisu/red_cube_o1_20260708_085954_policy_4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Lucisu/red_cube_o1_20260708_085954_policy_4",
+    "date": "2026-07-08",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -270,24 +297,6 @@
     "score": 0.1
   },
   {
-    "model": "PolicyShiftGuard/PolicyShiftGuard-7B",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/PolicyShiftGuard/PolicyShiftGuard-7B",
-    "date": "2026-07-08",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "wonder-robot/smolvla_piper_v3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/wonder-robot/smolvla_piper_v3",
-    "date": "2026-07-07",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "robbyant/lingbot-vla-v2-6b",
     "downloads": 0,
     "likes": 17,
@@ -319,15 +328,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/poet70/vla-sft-suite",
-    "date": "2026-07-07",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "VLABench/pi0-fast-primitive-deltachunk-w-two-bridge",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/VLABench/pi0-fast-primitive-deltachunk-w-two-bridge",
     "date": "2026-07-07",
     "keyword": "vla",
     "score": 0.1
@@ -511,24 +511,6 @@
     "date": "2026-07-01",
     "keyword": "robotics",
     "score": 4.9
-  },
-  {
-    "model": "DAVIAN-Robotics/3D_HAMSTER",
-    "downloads": 66,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/3D_HAMSTER",
-    "date": "2026-07-01",
-    "keyword": "robotics",
-    "score": 19.9
-  },
-  {
-    "model": "L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup",
-    "downloads": 31,
-    "likes": 0,
-    "url": "https://huggingface.co/L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup",
-    "date": "2026-07-01",
-    "keyword": "robotics",
-    "score": 9.4
   },
   {
     "model": "GreenGenomicsLab/TARA-WorldModel-VICReg",
