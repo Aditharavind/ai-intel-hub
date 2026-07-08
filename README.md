@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-08 01:16 UTC
+Last Updated: 2026-07-08 04:54 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,58 +49,58 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-08 | It’s Now Imperative That You Copy That Floppy | Hackaday | [link](https://hackaday.com/2026/07/07/its-now-imperative-that-you-copy-that-floppy/) |
+| 2026-07-08 | KKSB 10-inch and 19-inch rack panels target Raspberry Pi clusters, support Pi HATs and active coolers | CNX Software | [link](https://www.cnx-software.com/2026/07/08/kksb-10-inch-and-19-inch-rack-panels-target-raspberry-pi-clusters-support-pi-hats-and-active-coolers/) |
+| 2026-07-08 | ACEMAGIC discounts its AMD Ryzen 7 mini PCs by up to 32% for a limited time (Sponsored) | CNX Software | [link](https://www.cnx-software.com/2026/07/08/acemagic-discounts-its-amd-ryzen-7-mini-pcs-by-up-to-32/) |
 | 2026-07-07 | It’s Full Steam Ahead for This Motorized Canoe | Hackaday | [link](https://hackaday.com/2026/07/07/its-full-steam-ahead-for-this-motorized-canoe/) |
 | 2026-07-07 | Reverse Engineering and Self-Hosting the OBI Smart Energy Tracker | Hackaday | [link](https://hackaday.com/2026/07/07/reverse-engineering-and-self-hosting-the-obi-smart-energy-tracker/) |
 | 2026-07-07 | When An Engineering Education Doesn’t Teach You How To Really Make Anything | Hackaday | [link](https://hackaday.com/2026/07/07/when-an-engineering-education-doesnt-teach-you-how-to-really-make-anything/) |
 | 2026-07-07 | SB Mini II is a Homebrew Apple II Clone | Hackaday | [link](https://hackaday.com/2026/07/07/sb-mini-ii-is-a-homebrew-apple-ii-clone/) |
 | 2026-07-07 | Is Now the Time for Volumetric 3D Printing? | Hackaday | [link](https://hackaday.com/2026/07/07/is-now-the-time-for-volumetric-3d-printing/) |
 | 2026-07-07 | An Interactive Tomato Farm Overseen by AI | Hackaday | [link](https://hackaday.com/2026/07/07/an-interactive-tomato-farm-overseen-by-ai/) |
-| 2026-07-07 | Why the NES Put Out a Wobbly Picture | Hackaday | [link](https://hackaday.com/2026/07/07/why-the-nes-put-out-a-wobbly-picture/) |
 | 2026-07-07 | ESP32-C5 devkit offers 2.8-inch capacitive touch display, dual-band Wi-Fi 6, Bluetooth 5 LE, LiPo battery support | CNX Software | [link](https://www.cnx-software.com/2026/07/07/esp32-c5-devkit-offers-2-8-inch-capacitive-touch-display-dual-band-wi-fi-6-bluetooth-5-le-lipo-battery-support/) |
-| 2026-07-07 | Mercedes-Benz hosts open-source hardware Automotive Rapid DEvelopment Platform (ARDEP) | CNX Software | [link](https://www.cnx-software.com/2026/07/07/mercedes-benz-hosts-open-source-hardware-automotive-rapid-development-platform-ardep/) |
-| 2026-07-07 | PocketMage – An ESP32-S3-based Personal Digital Assistant (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/07/pocketmage-esp32-s3-personal-digital-assistant/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-07 | SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models | [link](https://arxiv.org/pdf/2607.06442v1) |
-| 2026-07-07 | WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation | [link](https://arxiv.org/pdf/2607.06438v1) |
-| 2026-07-07 | From Foundation to Application: Improving VLA Models in Practice | [link](https://arxiv.org/pdf/2607.06403v1) |
-| 2026-07-07 | A Definition and Roadmap for World Models | [link](https://arxiv.org/pdf/2607.06401v1) |
-| 2026-07-07 | Learning to Throw Objects Safely in Multi-Obstacle Environments | [link](https://arxiv.org/pdf/2607.06388v1) |
-| 2026-07-07 | Towards Real-World Applications with an Autonomous Powered Wheelchair | [link](https://arxiv.org/pdf/2607.06383v1) |
-| 2026-07-07 | Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement | [link](https://arxiv.org/pdf/2607.06370v1) |
-| 2026-07-07 | TopoBrick: Agentic Topology Sampling of Exogenous Variables for Zero-Shot Building IoT Forecasting | [link](https://arxiv.org/pdf/2607.06349v1) |
-| 2026-07-07 | Responsible Personalisation: The Double-Edged Sword of Personalisation in Human-Robot Interaction | [link](https://arxiv.org/pdf/2607.06344v1) |
-| 2026-07-07 | OrchardBench: A Physically-Grounded, GPU-Parallel Apple-Orchard Simulation Benchmark for Agricultural Robotics | [link](https://arxiv.org/pdf/2607.06337v1) |
+| 2026-07-07 | ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation | [link](https://arxiv.org/pdf/2607.06565v1) |
+| 2026-07-07 | Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation | [link](https://arxiv.org/pdf/2607.06564v1) |
+| 2026-07-07 | Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization | [link](https://arxiv.org/pdf/2607.06563v1) |
+| 2026-07-07 | Vision as Unified Multimodal Generation | [link](https://arxiv.org/pdf/2607.06560v1) |
+| 2026-07-07 | RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation | [link](https://arxiv.org/pdf/2607.06559v1) |
+| 2026-07-07 | RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation | [link](https://arxiv.org/pdf/2607.06558v1) |
+| 2026-07-07 | Rethinking Indic AI from a Lens of Cultural Heritage Preservation | [link](https://arxiv.org/pdf/2607.06544v1) |
+| 2026-07-07 | UniLM-Nav: A Unified Framework for Zero-Shot Last-Mile Navigation | [link](https://arxiv.org/pdf/2607.06537v1) |
+| 2026-07-07 | Neural-ESO: A Dual-Pathway Architecture for Provably Robust Learning-Based Control | [link](https://arxiv.org/pdf/2607.06535v1) |
+| 2026-07-07 | RMISC: A Large-scale Real-world Multivariate Corpus for Time Series Foundation Models | [link](https://arxiv.org/pdf/2607.06504v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-08 | a5ilank/curious-robot | 0 | 0 | [link](https://huggingface.co/a5ilank/curious-robot) |
-| 2026-07-07 | wonder-robot/smolvla_piper_v3 | 0 | 0 | [link](https://huggingface.co/wonder-robot/smolvla_piper_v3) |
-| 2026-07-07 | morningstarxcdcode/adaption-no-robots-instructions-demo | 0 | 0 | [link](https://huggingface.co/morningstarxcdcode/adaption-no-robots-instructions-demo) |
-| 2026-07-07 | morningstarxcdcode/adaption-no-robots-instructions-model | 0 | 0 | [link](https://huggingface.co/morningstarxcdcode/adaption-no-robots-instructions-model) |
-| 2026-07-07 | pollen-robotics/face_detection_yunet_2026may | 0 | 0 | [link](https://huggingface.co/pollen-robotics/face_detection_yunet_2026may) |
-| 2026-07-07 | pollen-robotics/face_detection_yunet_2023mar | 0 | 1 | [link](https://huggingface.co/pollen-robotics/face_detection_yunet_2023mar) |
-| 2026-07-07 | InternRobotics/InternVLA-A1.5-RoboTwin | 25 | 5 | [link](https://huggingface.co/InternRobotics/InternVLA-A1.5-RoboTwin) |
-| 2026-07-07 | x-square-robot/wall-oss-0.5 | 155 | 6 | [link](https://huggingface.co/x-square-robot/wall-oss-0.5) |
-| 2026-07-07 | OpenWAM/SFT_From_Scratch_RoboTwin_Clean | 0 | 0 | [link](https://huggingface.co/OpenWAM/SFT_From_Scratch_RoboTwin_Clean) |
-| 2026-07-07 | OpenWAM/SFT_Two_Stage_RoboTwin_Clean | 0 | 0 | [link](https://huggingface.co/OpenWAM/SFT_Two_Stage_RoboTwin_Clean) |
+| 2026-07-08 | InternRobotics/InternVLA-A1.5-RoboTwin | 25 | 7 | [link](https://huggingface.co/InternRobotics/InternVLA-A1.5-RoboTwin) |
+| 2026-07-08 | kairos-agi/kairos-4B-robot-RoboTwin2.0 | 19 | 0 | [link](https://huggingface.co/kairos-agi/kairos-4B-robot-RoboTwin2.0) |
+| 2026-07-08 | kairos-agi/kairos-4B-robot-LIBERO-plus | 24 | 1 | [link](https://huggingface.co/kairos-agi/kairos-4B-robot-LIBERO-plus) |
+| 2026-07-08 | kairos-agi/Kairos3.1-4B-robot-480P | 27 | 0 | [link](https://huggingface.co/kairos-agi/Kairos3.1-4B-robot-480P) |
+| 2026-07-08 | yuuu94/M2W-VLA | 0 | 0 | [link](https://huggingface.co/yuuu94/M2W-VLA) |
+| 2026-07-08 | kevinqz/LingBot-VLA-2.0-CoreAI | 0 | 0 | [link](https://huggingface.co/kevinqz/LingBot-VLA-2.0-CoreAI) |
+| 2026-07-08 | anhtld/vla | 0 | 3 | [link](https://huggingface.co/anhtld/vla) |
+| 2026-07-08 | huh2332/vla | 0 | 0 | [link](https://huggingface.co/huh2332/vla) |
+| 2026-07-08 | wpj-666/my_act_policy | 0 | 0 | [link](https://huggingface.co/wpj-666/my_act_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| ros-claw/rosclaw | 155 | Python | 62.1 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63037 | Python | 25214.9 | [link](https://github.com/commaai/openpilot) |
+| ros-claw/rosclaw | 156 | Python | 62.5 | [link](https://github.com/ros-claw/rosclaw) |
+| commaai/openpilot | 63042 | Python | 25216.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15433 | C++ | 6173.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | dora-rs/dora | 3831 | Rust | 1532.5 | [link](https://github.com/dora-rs/dora) |
 | StanfordVL/BEHAVIOR-1K | 1555 | Python | 622.1 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| vllm-project/vllm-omni | 5470 | Python | 2188.1 | [link](https://github.com/vllm-project/vllm-omni) |
-| isaac-sim/IsaacLab | 7629 | Python | 3051.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| Edgenesis/shifu | 1424 | Go | 569.7 | [link](https://github.com/Edgenesis/shifu) |
-| copper-project/copper-rs | 1380 | Rust | 552.1 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 887 | Python | 354.9 | [link](https://github.com/mosaico-labs/mosaico) |
+| sou350121/VLA-Handbook | 360 | HTML | 144.1 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 5472 | Python | 2188.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| inclusionAI/AWorld | 1211 | Python | 484.5 | [link](https://github.com/inclusionAI/AWorld) |
+| OpenHUTB/hutb | 529 | C++ | 211.7 | [link](https://github.com/OpenHUTB/hutb) |
+| isaac-sim/IsaacLab | 7630 | Python | 3052.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,16 +119,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-08 | Tesla Optimus key developer launches humanoid startup, lines up 50 potential customers - 디지털투데이 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdV9zLVZlNmxrSDlXZkNDTXFIZG1GcXZKUGt2cWdoTGFMR1d0dWdmWlgxRHZoMnE5dHB1UGpDekt0Y0JuZTV0OGttMlNfd3NqVXVMV2loTGlqdVpFT0pNeWhkZWxrV3d6WkFjN0NqVExkaEM4MFk5bTczVEs5THczem5heTRfN3ViSlBDOTVKel9UbkdBZnVXWDVlR05OdWd5akJhakY5em1qUUNGYkowdmFBdjdDdnZFX1dfanZnajE4Z2VyWDNnblJB?oc=5) |
 | 2026-07-07 | HIVE brings in $15M to build physical AI for industrial machines - The Robot Report | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOWEyVzFrNUNpdUpKZEd6SXY2ckdTeVRlZUV3N3JwRHRmZmU2Yi1ueVEtT0ZXaEZjbTgwdlEwOThqak5pZHd4Y0x5amFfM0JzeFBTT0c1VlhIRHJEM2MzVk9TX1dadXhIUWc5bVVUeG13NlJpQk5BS1dIcFN6SDFzc2J6VnhJVmRjbmcxN2ZyYWV2T1NiMGlnQ05PNA?oc=5) |
 | 2026-07-07 | Mowito raises $3 million to scale physical AI for robots - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxPOThSWFMzQjV4M01yYVctRmViOXVNRmZtSTFnRGxxMkRic0VqTG8tMEdtdHd3ZnpyYVpaX2NCbVU2UEFST0xhaUdiOGtuSUF2RExiTlNvRjliS3Q4eUxXQ1FXRHRKeWF5SUhGQlBFQXM0ai1Cd2ZlVjVtVGt4UjJKQ0dORVhWQ3VZV2tYdFF2YUZZM0F4OU1LS1JOMVpIUQ?oc=5) |
 | 2026-07-07 | Physical AI startup Mowito raises $3 million to teach factory robots by demonstration, not code - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOW1HYkloZklEQWpSU3FXaUhlX1U2eG9rRDRDZFU0TC12dzU2bzhjTGpIV3gySTI4MmZ5bXZpMzJ3VG9kZUJ5ZV8xSEhCNlhXaHZENHZvaE42ME5JX2VPbEN1NEktUHJuQjR4d3lSdllrejlxM3VDeVRfU3dLODJuejB2aHU3TUFFZ1EzRG1nTmktOFNjcFVLMDRkRkZxUDRBd3pfSXVhdlJrMGpCanhEazR3MXktNWl6VnJrb3NPY3VMWGoxUTdTLXgwUGRBdWV2Q19jak9PcGpXeFBUUTl4UmtfUGxVNG54eS1jOXA4NkwtQdIB9wFBVV95cUxNYnRnek85dzNPbi03aFF6UzgyaTFpdWRlMWpIVENkRkNEbndNcVhaTHMtTkZaOUhkRWxrVG9QT3dZQUpRRGFPX19jcTJ5NmF4LUxNOFV6MnowZ3ZPckhETkcwV2ItRk1ST002ZzVQZDVoTFk4WnR5WFdfYUgxS0Fjd2htZ0RTdlNGR245ZERsS1JLUXV4MlNaeTZ0enNhSEdfcUxpZmpEcGdCWWxhdkQtTkNTSEhJQ3M5dUZLS2dwVkg0RzRmMDN6Y2NWV3l4QXdJVHNId0REYkZJcXR3cXlETld1RklVZG9LY083bWFZeWExVWlRcDFZ?oc=5) |
 | 2026-07-07 | Physical AI startup Mowito raises $3 million in pre-seed funding round - Business Standard | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRzVUS2VGMGg5ODNTQmJ1Z01YVWdlTXo3b3dKdWRKa2x2MkN5WmRKVDhoVDQxOXdMV2JOdlZaVS1OeGFLaXBCc2pMbWtxd2JOUnpLcU5ZT1V4VEtnR3Jrazh6S1VEZlNoaTBncG5GYW1hSG8yd0tYb19KLXl3dzBxdlpjRTNUSzF1YXg0VzlnajRoS2o0STNtZC1ybFVHNi15SHRkMUM3eVA5eHVCZUJMWTU2OTJxSFJBS2dob0NXdGVoejN5WWZKVU9od0tMNTFCRTZFRFVn0gHbAUFVX3lxTE1kcjlQU1dWbDhpMTdTYjg1bTBMOEtzVUJhRGJRZkZRQlZYV0FXVjd1dG1KazhTVGdXYWRvRHVsd2JjSUlVX18tMGtzWTFQVXpELVF6RnZfcFhsMDFrdV9XSUhpRXJzUEIwVEtHcDVzRE52QzhBendweWhCdkJVVmc0Qk1YcFVrRTgyMFhucnNWUWpuSDVTZGE4M2dDWGFFcmtUb3VxV2otM2N0U3Y5TjRYZGdfZWZURExhN284VDc2aDU1b3REcnBCVXQ2WVRWNkdZV2FXOTZFbVhHcw?oc=5) |
 | 2026-07-07 | Physical AI Startup Mowito Raises $3 Million Pre-Seed Round to Bring AI-Powered Robot Learning to Manufacturing - Indian Startup Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTnJaYklsN1ptTTZ1TG9Cbll2THFSdExXbmNtZkpydFlLcEdqdGlveVZXX2xWUlRLRWkwNnVBejZZVjRWeU11dG9STnUxMEF4YmhCTUo4RWt1eHo2Sm9MZVR1dk5JWTNOeTRtZnYzdjY0bk9rMEFSbnFUWXU1QWo0TTRpT3Rob19PdVNWb2YzazZqTHhxOUtyLWs5SEs4Z3FJbzI4TmFMRENpc2ZOZnRtdURpRzRyRVNyRWt6UVhhQW85ZVlNU0NzekdJUkhUUk1oZHp4UGNHNlFXVzR1WGptQUFSSHQ1bUdrV3U5VE93?oc=5) |
 | 2026-07-07 | Bezos’ AI startup Prometheus raises $12B, valued at $41B - eciks.org | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTFBGYzFUbWF6N0gxUXp1dE9oZ2R4RUN6azJNLVdOSTlvTW43LVhnRkJyN2FhekFCSVJMQ3o1RmVXN2Z2eUxVaDZWaWVtZ1lsVnQyQVhPNFlZcWVrYVBTRDZRWURBVGw2LUhURDhpSTBaZWxPMGdyUFI0?oc=5) |
+| 2026-07-07 | Thailand's Amity Robotics Raises US$7 Million to Scale Physical AI Across Hospitality and Retail - AsiaTechDaily | physical ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ3lZWDlLSm8zelNuaEdZanQ5Q2hCcTlDbE5EbHpRM2k3YTVxN2FqNGhHSWpsZng4dmcwRnB3RUZ4MHdqTGd0MG5FN3lUM2ZEcHIxVVJuVDZkVEhqU2lERE9oUllZYW9pZ1FIMnFoeU01Q2I4aGVGUWhEY2pwTmNkYmRIaW9SMk5QOUtkeW5JZU5RZU9sUi1uZnhRcE80Sm0xOUFxM3kyazBIQ3EtOGJSYmtPSGRlOUctYUYtaERn?oc=5) |
 | 2026-07-07 | Physical AI startup Mowito raises $3 Mn led by Version One Ventures - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXBIWkQ1MDYtV3ZMa0Ffd3RsQnJFVldsQ0pucnYtbUI1LU1hVnJrNzQyLVYxckItc214elkwd2JacXFOeE9yc25OcDY5Rlh2VnBQVG52YmJKS1JHRVl0WUE5dDJqRE80ZnRiWVZYNnRDNHFfUEtBd3ZnaGFzdW8xOVB4TjMzbnd2aWNWMnFzTzFHUk1HTDU3dnBtaVc5ckVuVkZqalNpTDbSAagBQVVfeXFMTkVwSFpENTA2LVd2TGtBX3d0bEJyRVZXbENKbnJ2LW1CNS1NYVZyazc0Mi1WMXJCLXNteHpZMHdiWnFxTnhPcnNuTnA2OUZYdlZwUFRudmJiSktSR0VZdFlBOXQyakRPNGZ0YllWWDZ0QzRxX1BLQXd2Z2hhc3VvMTlQeE4zM253dmljVjJxc08xR1JNR0w1N3ZwbWlXOXJFblZGampTaUw2?oc=5) |
 | 2026-07-07 | Simplexity Robotics: 11-Month-Old Embodied AI Startup Ships 100 Robots to Production Lines - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTlEVE5PX2M3YUJLMEZWT2NkaV8talFxQzNGdGJlcUNfM2x5T3A4SzJsdllZQ0I4TlY2N0N2RDBpZ3pJLUI5ckV5X09lMlYwZkxteV9nQkJRODZDVWUwNFVoLVpWUEYwVjQwR2NnX2RmajFzZmVtWjladVJOdVJOWndVTjlHaWdUN3BwX0Q1akRZZw?oc=5) |
-| 2026-07-07 | Ex-Tesla Optimus scientist unveils European humanoid robot startup - Electrek | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTE1mRmhsR3htamdMNjB2ZG4xQmZHdUJmcTJKTnJSV0NaRmtNSUQ0UHA2OVBXUkhnTzZrMnJXbXI0eGNINzRVR3dOa1RwaDRqcXFnSWpjUmdYMWE1djR1NXRwRnV5NDF2M0h1NU1mNEIwYngtTnk0QXBxQ0tHWUZ6aU0?oc=5) |
-| 2026-07-07 | Ex-Tesla Scientist Launches European Humanoid Robot Startup - Let's Data Science | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3lqSWtxNGE4bTlTWnd1cTRreEx0QWtrb2ZDczN0V0JqTFhUQ2NxbVlLRTk2eU5pZi10WlRrVldCM3V6cXZIbVoyZ0ZBQkdQLWl3X1ZuTGNBaDRUS0RmSFdxT0hzX2wxVVdVYzl6amtMblJNcGJNVGtqdnZ6NUwxTUVSX05GcEZvaUVXeHRZZ2QydnZxM3Y2VmljX3hZMVVIQTNz?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

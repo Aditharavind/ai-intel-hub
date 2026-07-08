@@ -9,6 +9,105 @@
     "score": 0.1
   },
   {
+    "model": "InternRobotics/InternVLA-A1.5-RoboTwin",
+    "downloads": 25,
+    "likes": 7,
+    "url": "https://huggingface.co/InternRobotics/InternVLA-A1.5-RoboTwin",
+    "date": "2026-07-08",
+    "keyword": "robot",
+    "score": 9.0
+  },
+  {
+    "model": "kairos-agi/kairos-4B-robot-RoboTwin2.0",
+    "downloads": 19,
+    "likes": 0,
+    "url": "https://huggingface.co/kairos-agi/kairos-4B-robot-RoboTwin2.0",
+    "date": "2026-07-08",
+    "keyword": "robot",
+    "score": 5.8
+  },
+  {
+    "model": "kairos-agi/kairos-4B-robot-LIBERO-plus",
+    "downloads": 24,
+    "likes": 1,
+    "url": "https://huggingface.co/kairos-agi/kairos-4B-robot-LIBERO-plus",
+    "date": "2026-07-08",
+    "keyword": "robot",
+    "score": 7.5
+  },
+  {
+    "model": "kairos-agi/Kairos3.1-4B-robot-480P",
+    "downloads": 27,
+    "likes": 0,
+    "url": "https://huggingface.co/kairos-agi/Kairos3.1-4B-robot-480P",
+    "date": "2026-07-08",
+    "keyword": "robot",
+    "score": 8.2
+  },
+  {
+    "model": "yuuu94/M2W-VLA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yuuu94/M2W-VLA",
+    "date": "2026-07-08",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "kevinqz/LingBot-VLA-2.0-CoreAI",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kevinqz/LingBot-VLA-2.0-CoreAI",
+    "date": "2026-07-08",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "anhtld/vla",
+    "downloads": 0,
+    "likes": 3,
+    "url": "https://huggingface.co/anhtld/vla",
+    "date": "2026-07-08",
+    "keyword": "vla",
+    "score": 0.7
+  },
+  {
+    "model": "huh2332/vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/huh2332/vla",
+    "date": "2026-07-08",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "wpj-666/my_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wpj-666/my_act_policy",
+    "date": "2026-07-08",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Primeavel/partner_act_policy_residual_lag3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Primeavel/partner_act_policy_residual_lag3",
+    "date": "2026-07-08",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "downloads": 479,
+    "likes": 1,
+    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "date": "2026-07-08",
+    "keyword": "policy",
+    "score": 144.0
+  },
+  {
     "model": "wonder-robot/smolvla_piper_v3",
     "downloads": 0,
     "likes": 0,
@@ -54,15 +153,6 @@
     "score": 0.3
   },
   {
-    "model": "InternRobotics/InternVLA-A1.5-RoboTwin",
-    "downloads": 25,
-    "likes": 5,
-    "url": "https://huggingface.co/InternRobotics/InternVLA-A1.5-RoboTwin",
-    "date": "2026-07-07",
-    "keyword": "robot",
-    "score": 8.6
-  },
-  {
     "model": "x-square-robot/wall-oss-0.5",
     "downloads": 155,
     "likes": 6,
@@ -81,49 +171,13 @@
     "score": 0.1
   },
   {
-    "model": "OpenWAM/SFT_Two_Stage_RoboTwin_Clean",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/SFT_Two_Stage_RoboTwin_Clean",
-    "date": "2026-07-07",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "OpenWAM/RoboTwin_DualSystem_JointSelfAttention_Wan21_I2T_14B",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/RoboTwin_DualSystem_JointSelfAttention_Wan21_I2T_14B",
-    "date": "2026-07-07",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Recycle_BlackPlasticCup_place_1022_0703_80k_act",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Recycle_BlackPlasticCup_place_1022_0703_80k_act",
-    "date": "2026-07-07",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "anhtld/vla",
-    "downloads": 0,
-    "likes": 3,
-    "url": "https://huggingface.co/anhtld/vla",
-    "date": "2026-07-07",
-    "keyword": "vla",
-    "score": 0.7
-  },
-  {
     "model": "robbyant/lingbot-vla-v2-6b",
     "downloads": 0,
-    "likes": 8,
+    "likes": 10,
     "url": "https://huggingface.co/robbyant/lingbot-vla-v2-6b",
     "date": "2026-07-07",
     "keyword": "vla",
-    "score": 1.7
+    "score": 2.1
   },
   {
     "model": "zwan1003/pickplace_twodisc_vla_v2",
@@ -139,15 +193,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/liuzhiqian/multi_agent_vla",
-    "date": "2026-07-07",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "yuuu94/M2W-VLA",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/yuuu94/M2W-VLA",
     "date": "2026-07-07",
     "keyword": "vla",
     "score": 0.1
@@ -193,24 +238,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/kevinqz/VLA-JEPA-SimplerEnv-CoreAI",
-    "date": "2026-07-07",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "kevinqz/VLA-JEPA-Pretrain-CoreAI",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kevinqz/VLA-JEPA-Pretrain-CoreAI",
-    "date": "2026-07-07",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "kevinqz/VLA-JEPA-LIBERO-CoreAI",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kevinqz/VLA-JEPA-LIBERO-CoreAI",
     "date": "2026-07-07",
     "keyword": "vla",
     "score": 0.1
@@ -301,33 +328,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/seungwonkim/omx-act-policy-v1",
-    "date": "2026-07-07",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "seungwonkim/omx_act_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/seungwonkim/omx_act_policy",
-    "date": "2026-07-07",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jogarulfop/policy_2026-07-06_shakeitup_diff_duration_v3_10kHz_nfft_64",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-07-06_shakeitup_diff_duration_v3_10kHz_nfft_64",
-    "date": "2026-07-07",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jogarulfop/policy_2026-07-06_shakeitup_diff_duration_v3_without_any_spectro",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-07-06_shakeitup_diff_duration_v3_without_any_spectro",
     "date": "2026-07-07",
     "keyword": "policy",
     "score": 0.1
