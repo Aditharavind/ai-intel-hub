@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-08 22:51 UTC
+Generated: 2026-07-08 23:56 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,7 +14,7 @@ Generated: 2026-07-08 22:51 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82347 | 32938.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82348 | 32939.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63053 | 25221.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44207 | 17682.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 29991 | 11996.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
@@ -45,4 +45,4 @@ Generated: 2026-07-08 22:51 UTC
 | 2026-07-08 | Mistral AI Releases Robotics Model to Support Physical AI Push - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLS1HS3l1by1iTTdJcExyZkR6MVRLa0YwcmJQbTZKem9PWDJYRlpoR25XdmZIU0xrWWZPMFMtUFN1bjlnZmlaVjFXcTA1RnZybEJHZ2FUMlp2Z3RCc0FBRlc0ZUhRcWhTZGNRREVfLUd0LWoyU0ZSZm82SVFuS2JUOVQ3WS1SSWpXb3B4NmlaZGJqYWxtSWU0dDVGX3JhTEZFUDZxTlVsN0pNbGtORFpxX2ZGQ05HdlZjS3NhbWZ2aGlHMHdGVW1XX0VpRkk1NlJVdmc?oc=5) |
 | 2026-07-08 | Mistral launches its first robotics model, expanding into physical AI - The News International | physical ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRm9uQnNKM1Q1MlNJVU1JYmdEcnMzOS1QSFMyMVVIdThNTHE2RTNsZzJRVmRfcW9KOEdEanNlR0tBVzB6b3ozcmpSdWtEdlQ4cjlhQk8xMFdBWEtpQ3JKV29IUWNZNmhRbUpBQk9pVU1nMGctd2hlWkRwTGR3LUt1YTZBTS1QR3V3X25zRFJTWVYxRzdHeHkzUXA5QWxpVk5ZS3pQV2t2XzBFWmxqMVlj?oc=5) |
 | 2026-07-08 | Mistral launches 1st robotics AI model to power physical AI | Mistral earlier announced deals with BMW, Airbus | Inshorts - Inshorts | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFBwY1hKQU9GTjMtVi1vT0QxcFN4cnhNbmY2bGJ4bnFXZnFnQnp1Qk5BSGl3bUE4b2tVaGQxa3JwYVV3cWxmcjJVV0tiQUU5VTJ0RE80VWxhNW43U3BWZFZubS1jZmZrMzVwdHhlcDFrMU9xWXBRQVA2Y3I0WHVjWVRBSVNBdmVlekJ6UmlNNERaVGJ1eGg2bVdQWGo5XzJWczBrSNIBqgFBVV95cUxPYkNYLXN4SG93aXV5eUNIX0hMX0NEdkNMUHpyYkVNc0t1cWZQWk5lRFg0bk1QMkNySHE1ZHlRUXFfYWs3X2JEYmQ4ZVFmdDd3b0JmejdEdDZ0U3JGOU5kUkEzanBwbFJac3ZSSUNjVmg0SkpUdmdFUU80WERjYUNRU3ZEZGx4SHZ3TEl6T1luVWFiNHpqYW95OEpZRnB4NF96U2JxM3Y0UndNUQ?oc=5) |
-| 2026-07-08 | The competition for "Physical AI" that encompasses humanoids, robots, and autonomous vehicles depend.. - 매일경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93aFFHRHdnV0JXdWFzemFhaXpFcjd0SUNHU3hLaElVTUZtcG5wb01KN0pLUjNyN2tsbFczMmJKQmxaX1FkNVo1aXF3WQ?oc=5) |
+| 2026-07-08 | Tesla Optimus key developer launches humanoid startup, lines up 50 potential customers - 디지털투데이 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdV9zLVZlNmxrSDlXZkNDTXFIZG1GcXZKUGt2cWdoTGFMR1d0dWdmWlgxRHZoMnE5dHB1UGpDekt0Y0JuZTV0OGttMlNfd3NqVXVMV2loTGlqdVpFT0pNeWhkZWxrV3d6WkFjN0NqVExkaEM4MFk5bTczVEs5THczem5heTRfN3ViSlBDOTVKel9UbkdBZnVXWDVlR05OdWd5akJhakY5em1qUUNGYkowdmFBdjdDdnZFX1dfanZnajE4Z2VyWDNnblJB?oc=5) |

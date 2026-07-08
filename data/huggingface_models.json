@@ -108,15 +108,6 @@
     "score": 9.0
   },
   {
-    "model": "s1ghhh/vla_adapter_spatial",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/vla_adapter_spatial",
-    "date": "2026-07-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "anhtld/vla",
     "downloads": 0,
     "likes": 3,
@@ -124,6 +115,15 @@
     "date": "2026-07-08",
     "keyword": "vla",
     "score": 0.7
+  },
+  {
+    "model": "s1ghhh/vla_adapter_spatial",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/s1ghhh/vla_adapter_spatial",
+    "date": "2026-07-08",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "zaowu/vla-jepa-so101-finetune",
@@ -216,6 +216,33 @@
     "score": 0.1
   },
   {
+    "model": "fedemartino/my_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/fedemartino/my_policy",
+    "date": "2026-07-08",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "gyalpo/so101_act_pick_block_policy",
+    "downloads": 94,
+    "likes": 0,
+    "url": "https://huggingface.co/gyalpo/so101_act_pick_block_policy",
+    "date": "2026-07-08",
+    "keyword": "policy",
+    "score": 28.3
+  },
+  {
+    "model": "Lucisu/red_cube_o1_20260708_085954_policy_dagger_1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Lucisu/red_cube_o1_20260708_085954_policy_dagger_1",
+    "date": "2026-07-08",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "meghaGenAI/northwind-hr-policy-dpo-merged",
     "downloads": 0,
     "likes": 0,
@@ -283,33 +310,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/jogarulfop/policy_2026-07-06_shakeitup_diff_duration_v3_100kHz_nfft_8192",
-    "date": "2026-07-08",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "FawzQi/so101-BBact-policy",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/FawzQi/so101-BBact-policy",
-    "date": "2026-07-08",
-    "keyword": "policy",
-    "score": 0.3
-  },
-  {
-    "model": "jogarulfop/policy_2026-07-06_shakeitup_diff_duration_v3_100kHz_nfft_4096",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-07-06_shakeitup_diff_duration_v3_100kHz_nfft_4096",
-    "date": "2026-07-08",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jogarulfop/policy_2026-07-06_shakeitup_diff_duration_v3_100kHz_nfft_512",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-07-06_shakeitup_diff_duration_v3_100kHz_nfft_512",
     "date": "2026-07-08",
     "keyword": "policy",
     "score": 0.1
