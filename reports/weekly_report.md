@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-08 10:02 UTC
+Generated: 2026-07-08 12:10 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-07-08 10:02 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82332 | 32932.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82337 | 32934.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63046 | 25218.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44209 | 17683.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 29988 | 11995.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15990 | 6396.1 | [link](https://github.com/zauberzeug/nicegui) |
+| AtsushiSakai/PythonRobotics | 29989 | 11995.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15989 | 6395.7 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | IffYuan/Embodied-R1.5 | 802 | 240.7 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
-| jovaldivieso/double_integrator_casadi_diffusion_policy | 479 | 144.0 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 273 | 84.2 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 | BrinqAI/functiongemma-270m-physical-ai | 272 | 81.7 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 246 | 75.7 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
+| physicalairi/pi05_ur3e_pick_red_drop_blue | 103 | 31.0 | [link](https://huggingface.co/physicalairi/pi05_ur3e_pick_red_drop_blue) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-07-08 10:02 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-08 | The competition for "Physical AI" that encompasses humanoids, robots, and autonomous vehicles depend.. - 매일경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93aFFHRHdnV0JXdWFzemFhaXpFcjd0SUNHU3hLaElVTUZtcG5wb01KN0pLUjNyN2tsbFczMmJKQmxaX1FkNVo1aXF3WQ?oc=5) |
 | 2026-07-08 | Tesla Optimus key developer launches humanoid startup, lines up 50 potential customers - 디지털투데이 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdV9zLVZlNmxrSDlXZkNDTXFIZG1GcXZKUGt2cWdoTGFMR1d0dWdmWlgxRHZoMnE5dHB1UGpDekt0Y0JuZTV0OGttMlNfd3NqVXVMV2loTGlqdVpFT0pNeWhkZWxrV3d6WkFjN0NqVExkaEM4MFk5bTczVEs5THczem5heTRfN3ViSlBDOTVKel9UbkdBZnVXWDVlR05OdWd5akJhakY5em1qUUNGYkowdmFBdjdDdnZFX1dfanZnajE4Z2VyWDNnblJB?oc=5) |
 | 2026-07-07 | HIVE brings in $15M to build physical AI for industrial machines - The Robot Report | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOWEyVzFrNUNpdUpKZEd6SXY2ckdTeVRlZUV3N3JwRHRmZmU2Yi1ueVEtT0ZXaEZjbTgwdlEwOThqak5pZHd4Y0x5amFfM0JzeFBTT0c1VlhIRHJEM2MzVk9TX1dadXhIUWc5bVVUeG13NlJpQk5BS1dIcFN6SDFzc2J6VnhJVmRjbmcxN2ZyYWV2T1NiMGlnQ05PNA?oc=5) |
 | 2026-07-07 | Mowito raises $3 million to scale physical AI for robots - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxPOThSWFMzQjV4M01yYVctRmViOXVNRmZtSTFnRGxxMkRic0VqTG8tMEdtdHd3ZnpyYVpaX2NCbVU2UEFST0xhaUdiOGtuSUF2RExiTlNvRjliS3Q4eUxXQ1FXRHRKeWF5SUhGQlBFQXM0ai1Cd2ZlVjVtVGt4UjJKQ0dORVhWQ3VZV2tYdFF2YUZZM0F4OU1LS1JOMVpIUQ?oc=5) |
-| 2026-07-07 | Physical AI startup Mowito raises $3 million to teach factory robots by demonstration, not code - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOW1HYkloZklEQWpSU3FXaUhlX1U2eG9rRDRDZFU0TC12dzU2bzhjTGpIV3gySTI4MmZ5bXZpMzJ3VG9kZUJ5ZV8xSEhCNlhXaHZENHZvaE42ME5JX2VPbEN1NEktUHJuQjR4d3lSdllrejlxM3VDeVRfU3dLODJuejB2aHU3TUFFZ1EzRG1nTmktOFNjcFVLMDRkRkZxUDRBd3pfSXVhdlJrMGpCanhEazR3MXktNWl6VnJrb3NPY3VMWGoxUTdTLXgwUGRBdWV2Q19jak9PcGpXeFBUUTl4UmtfUGxVNG54eS1jOXA4NkwtQdIB9wFBVV95cUxNYnRnek85dzNPbi03aFF6UzgyaTFpdWRlMWpIVENkRkNEbndNcVhaTHMtTkZaOUhkRWxrVG9QT3dZQUpRRGFPX19jcTJ5NmF4LUxNOFV6MnowZ3ZPckhETkcwV2ItRk1ST002ZzVQZDVoTFk4WnR5WFdfYUgxS0Fjd2htZ0RTdlNGR245ZERsS1JLUXV4MlNaeTZ0enNhSEdfcUxpZmpEcGdCWWxhdkQtTkNTSEhJQ3M5dUZLS2dwVkg0RzRmMDN6Y2NWV3l4QXdJVHNId0REYkZJcXR3cXlETld1RklVZG9LY083bWFZeWExVWlRcDFZ?oc=5) |
 | 2026-07-07 | Bezos’ AI startup Prometheus raises $12B, valued at $41B - eciks.org | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTFBGYzFUbWF6N0gxUXp1dE9oZ2R4RUN6azJNLVdOSTlvTW43LVhnRkJyN2FhekFCSVJMQ3o1RmVXN2Z2eUxVaDZWaWVtZ1lsVnQyQVhPNFlZcWVrYVBTRDZRWURBVGw2LUhURDhpSTBaZWxPMGdyUFI0?oc=5) |
