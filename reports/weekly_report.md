@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-08 07:19 UTC
+Generated: 2026-07-08 10:02 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-07-08 07:19 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82325 | 32930.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63043 | 25217.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44208 | 17683.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 29985 | 11994.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15989 | 6395.7 | [link](https://github.com/zauberzeug/nicegui) |
+| Developer-Y/cs-video-courses | 82332 | 32932.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63046 | 25218.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44209 | 17683.7 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 29988 | 11995.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15990 | 6396.1 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -45,4 +45,4 @@ Generated: 2026-07-08 07:19 UTC
 | 2026-07-07 | HIVE brings in $15M to build physical AI for industrial machines - The Robot Report | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOWEyVzFrNUNpdUpKZEd6SXY2ckdTeVRlZUV3N3JwRHRmZmU2Yi1ueVEtT0ZXaEZjbTgwdlEwOThqak5pZHd4Y0x5amFfM0JzeFBTT0c1VlhIRHJEM2MzVk9TX1dadXhIUWc5bVVUeG13NlJpQk5BS1dIcFN6SDFzc2J6VnhJVmRjbmcxN2ZyYWV2T1NiMGlnQ05PNA?oc=5) |
 | 2026-07-07 | Mowito raises $3 million to scale physical AI for robots - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxPOThSWFMzQjV4M01yYVctRmViOXVNRmZtSTFnRGxxMkRic0VqTG8tMEdtdHd3ZnpyYVpaX2NCbVU2UEFST0xhaUdiOGtuSUF2RExiTlNvRjliS3Q4eUxXQ1FXRHRKeWF5SUhGQlBFQXM0ai1Cd2ZlVjVtVGt4UjJKQ0dORVhWQ3VZV2tYdFF2YUZZM0F4OU1LS1JOMVpIUQ?oc=5) |
 | 2026-07-07 | Physical AI startup Mowito raises $3 million to teach factory robots by demonstration, not code - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOW1HYkloZklEQWpSU3FXaUhlX1U2eG9rRDRDZFU0TC12dzU2bzhjTGpIV3gySTI4MmZ5bXZpMzJ3VG9kZUJ5ZV8xSEhCNlhXaHZENHZvaE42ME5JX2VPbEN1NEktUHJuQjR4d3lSdllrejlxM3VDeVRfU3dLODJuejB2aHU3TUFFZ1EzRG1nTmktOFNjcFVLMDRkRkZxUDRBd3pfSXVhdlJrMGpCanhEazR3MXktNWl6VnJrb3NPY3VMWGoxUTdTLXgwUGRBdWV2Q19jak9PcGpXeFBUUTl4UmtfUGxVNG54eS1jOXA4NkwtQdIB9wFBVV95cUxNYnRnek85dzNPbi03aFF6UzgyaTFpdWRlMWpIVENkRkNEbndNcVhaTHMtTkZaOUhkRWxrVG9QT3dZQUpRRGFPX19jcTJ5NmF4LUxNOFV6MnowZ3ZPckhETkcwV2ItRk1ST002ZzVQZDVoTFk4WnR5WFdfYUgxS0Fjd2htZ0RTdlNGR245ZERsS1JLUXV4MlNaeTZ0enNhSEdfcUxpZmpEcGdCWWxhdkQtTkNTSEhJQ3M5dUZLS2dwVkg0RzRmMDN6Y2NWV3l4QXdJVHNId0REYkZJcXR3cXlETld1RklVZG9LY083bWFZeWExVWlRcDFZ?oc=5) |
-| 2026-07-07 | Physical AI Startup Mowito Raises $3 Million Pre-Seed Round to Bring AI-Powered Robot Learning to Manufacturing - Indian Startup Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTnJaYklsN1ptTTZ1TG9Cbll2THFSdExXbmNtZkpydFlLcEdqdGlveVZXX2xWUlRLRWkwNnVBejZZVjRWeU11dG9STnUxMEF4YmhCTUo4RWt1eHo2Sm9MZVR1dk5JWTNOeTRtZnYzdjY0bk9rMEFSbnFUWXU1QWo0TTRpT3Rob19PdVNWb2YzazZqTHhxOUtyLWs5SEs4Z3FJbzI4TmFMRENpc2ZOZnRtdURpRzRyRVNyRWt6UVhhQW85ZVlNU0NzekdJUkhUUk1oZHp4UGNHNlFXVzR1WGptQUFSSHQ1bUdrV3U5VE93?oc=5) |
+| 2026-07-07 | Bezos’ AI startup Prometheus raises $12B, valued at $41B - eciks.org | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTFBGYzFUbWF6N0gxUXp1dE9oZ2R4RUN6azJNLVdOSTlvTW43LVhnRkJyN2FhekFCSVJMQ3o1RmVXN2Z2eUxVaDZWaWVtZ1lsVnQyQVhPNFlZcWVrYVBTRDZRWURBVGw2LUhURDhpSTBaZWxPMGdyUFI0?oc=5) |
