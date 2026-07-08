@@ -9,6 +9,15 @@
     "score": 0.1
   },
   {
+    "model": "dajiangw/robot_learning_tutorial_act",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dajiangw/robot_learning_tutorial_act",
+    "date": "2026-07-08",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "InternRobotics/InternVLA-A1.5-RoboTwin",
     "downloads": 25,
     "likes": 7,
@@ -45,10 +54,28 @@
     "score": 8.2
   },
   {
+    "model": "anhtld/vla",
+    "downloads": 0,
+    "likes": 3,
+    "url": "https://huggingface.co/anhtld/vla",
+    "date": "2026-07-08",
+    "keyword": "vla",
+    "score": 0.7
+  },
+  {
     "model": "yuuu94/M2W-VLA",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/yuuu94/M2W-VLA",
+    "date": "2026-07-08",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "dawity/vla_jepa_omx",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dawity/vla_jepa_omx",
     "date": "2026-07-08",
     "keyword": "vla",
     "score": 0.1
@@ -63,21 +90,30 @@
     "score": 0.1
   },
   {
-    "model": "anhtld/vla",
-    "downloads": 0,
-    "likes": 3,
-    "url": "https://huggingface.co/anhtld/vla",
-    "date": "2026-07-08",
-    "keyword": "vla",
-    "score": 0.7
-  },
-  {
     "model": "huh2332/vla",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/huh2332/vla",
     "date": "2026-07-08",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "PolicyShiftGuard/PolicyShiftGuard-7B",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/PolicyShiftGuard/PolicyShiftGuard-7B",
+    "date": "2026-07-08",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "PolicyShiftGuard/PolicyShiftGuard-3B",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/PolicyShiftGuard/PolicyShiftGuard-3B",
+    "date": "2026-07-08",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -162,22 +198,13 @@
     "score": 47.8
   },
   {
-    "model": "OpenWAM/SFT_From_Scratch_RoboTwin_Clean",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/SFT_From_Scratch_RoboTwin_Clean",
-    "date": "2026-07-07",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "robbyant/lingbot-vla-v2-6b",
     "downloads": 0,
-    "likes": 10,
+    "likes": 12,
     "url": "https://huggingface.co/robbyant/lingbot-vla-v2-6b",
     "date": "2026-07-07",
     "keyword": "vla",
-    "score": 2.1
+    "score": 2.5
   },
   {
     "model": "zwan1003/pickplace_twodisc_vla_v2",
@@ -202,15 +229,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/poet70/vla-sft-suite",
-    "date": "2026-07-07",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "dawity/vla_jepa_omx",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/dawity/vla_jepa_omx",
     "date": "2026-07-07",
     "keyword": "vla",
     "score": 0.1
@@ -310,24 +328,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/naumoo/act_policy",
-    "date": "2026-07-07",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "schronn/policy_record_v2_bv",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/schronn/policy_record_v2_bv",
-    "date": "2026-07-07",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "seungwonkim/omx-act-policy-v1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/seungwonkim/omx-act-policy-v1",
     "date": "2026-07-07",
     "keyword": "policy",
     "score": 0.1
