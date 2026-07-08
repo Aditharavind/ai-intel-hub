@@ -1,5 +1,12 @@
 [
   {
+    "title": "Linux Fu: The Local Phonebook",
+    "source": "Hackaday",
+    "date": "2026-07-08",
+    "url": "https://hackaday.com/2026/07/08/linux-fu-the-local-phonebook/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2020/05/LinuxFu.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>I&#8217;ll admit it: I miss the simplicity of /etc/hosts. There was something elegant about it. You wanted laserprinter to mean 192.168.1.40, so you opened a text file and wrote: 192.168.1.40 <a class=\"read-more\" href=\"https://hackaday.com/2026/07/08/linux-fu-the-local-phonebook/\">&#8230;read more</a>"
+  },
+  {
     "title": "This DIY Time Server is More Accurate Than You Need",
     "source": "Hackaday",
     "date": "2026-07-08",
@@ -54,6 +61,20 @@
     "date": "2026-07-08",
     "url": "https://www.embedded.com/advantech-introduces-dragonwing-iq9-based-edge-ai-solutions/",
     "summary": "<p>Advantech Co. Ltd. has expanded its edge AI portfolio with a new family of industrial computing platforms based on the Qualcomm Dragonwing IQ-9075 processor. The new lineup includes the AOM-6741 SMARC module, the ASR-A503 and AFE-A503 robotic controllers, and the AIR-055 edge AI system, all designed to support advanced vision-based artificial intelligence applications in industrial [...]</p>\n<p>The post <a href=\"https://www.embedded.com/advantech-introduces-dragonwing-iq9-based-edge-ai-solutions/\">Advantech Introduces Dragonwing IQ9-Based Edge AI Solutions</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "UK And Japan Worst For Waste",
+    "source": "Electronics Weekly",
+    "date": "2026-07-08",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/899567-2026-07/",
+    "summary": "<p>While the recycling of foreign plastic waste can be lucrative, lack of regulations and oversight have caused a myriad of problems in receiving countries. Between 2018 and 2021, when China ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/899567-2026-07/\">UK And Japan Worst For Waste</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Top Ten (less 5) NAND Suppliers In Q1",
+    "source": "Electronics Weekly",
+    "date": "2026-07-08",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-nand-suppliers-in-q1-2026-07/",
+    "summary": "<p>Thanks to TrendForce for this one &#8211; the top five NAND suppliers in Q1: &#160; &#160;</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-nand-suppliers-in-q1-2026-07/\">Top Ten (less 5) NAND Suppliers In Q1</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "ASD-Eurospace releases 30th edition of ‘facts and figures’ report",
@@ -112,6 +133,55 @@
     "summary": "<p>Ardian Semiconductor, a private equity company dedicated to semiconductor company investment, has made its fourth investment &#8211; a minority stake in Vsora, a French designer of AI inference accelerators. “Ardian ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ardian-semiconductor-invests-in-vsora-2026-07/\">Ardian Semiconductor invests in Vsora</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "See DRAM and Flash prices, interactively charted by Stanford University",
+    "source": "Adafruit",
+    "date": "2026-07-08",
+    "url": "https://blog.adafruit.com/2026/07/08/see-dram-and-flash-prices-interactively-charted-by-stanford-university/",
+    "summary": "The Stanford Differentiated Access Memories Project (DAM) has been charting DRAM, HBM and flash prices, &#8220;collected in the spirit of John C. McCallum&#8217;s classic memory-price dataset — interactive, with the raw data downloadable.&#8221; Methodology note. $/GB is the cheapest listed retail price in nominal USD — not contract, average, inflation-adjusted, or a confirmed sale price. DRAM history is [&#8230;]"
+  },
+  {
+    "title": "Building a mmWave materials classification radar",
+    "source": "Adafruit",
+    "date": "2026-07-08",
+    "url": "https://blog.adafruit.com/2026/07/08/building-a-mmwave-materials-classification-radar/",
+    "summary": "Gauthier Lechevalier made a radar that could classify materials as part of a hardware startup: My project was to build a radar that detects asbestos for you. It&#8217;s based of material sciences, and wave physics, which happens to be my areas of expertise (recent engineering grad). There I had my device plan : make an [&#8230;]"
+  },
+  {
+    "title": "Build a Tool That’ll Tell You When to Open and Close the Windows",
+    "source": "Adafruit",
+    "date": "2026-07-08",
+    "url": "https://blog.adafruit.com/2026/07/08/build-a-tool-thatll-tell-you-when-to-open-and-close-the-windows/",
+    "summary": "image via mattmk1 on Instructables &#160; Instructables user mattmk1 made this incredibly helpful little device to help take some of the mental gymnastics out of figuring out the best time to open and close windows to help keep things inside as cool as possible: A small ESP32, a temperature sensor, and — because this is [&#8230;]"
+  },
+  {
+    "title": "JP’s Product Pick of the Week 7/7/26",
+    "source": "Adafruit",
+    "date": "2026-07-08",
+    "url": "https://blog.adafruit.com/2026/07/08/jps-product-pick-of-the-week-7-7-26/",
+    "summary": "What was JP&#8217;s pick of the week? It was our 2.9&#8243; Grayscale eInk / ePaper Display FeatherWing! This &#8216;Wing is tested to work with all of our Feathers, from the ESP8266 to the M0. Check out the video to learn more and see how it use it. Want more JP’s Product Pick of the Week?! [&#8230;]"
+  },
+  {
+    "title": "Virginia Fiber Express Networks Advances Licensing and Permitting for Phase 1 of a State-Wide Fiber Network",
+    "source": "EE Journal",
+    "date": "2026-07-08",
+    "url": "https://www.eejournal.com/industry_news/virginia-fiber-express-networks-advances-licensing-and-permitting-for-phase-1-of-a-state-wide-fiber-network/",
+    "summary": "Virginia Fiber Express Networks LLC (VFE Networks), a wholly owned subsidiary of Infraforward Strategies LLC, announces the successful securing of Competitive Local Exchange Carrier (CLEC) and Interexchange Carrier (IXC) operating licenses and Land Use permit from the Commonwealth of Virginia. Having achieved these milestones, VFE Networks, in collaboration with its Virginia-based partners Express Technologies Inc. (Express-tek) and S&#38;N Infrastructure, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/virginia-fiber-express-networks-advances-licensing-and-permitting-for-phase-1-of-a-state-wide-fiber-network/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Virginia Fiber Express Networks Advances Licensing and Permitting for Phase 1 of a State-Wide Fiber Network\"</span></a>"
+  },
+  {
+    "title": "IDS Imaging Development Systems GmbH, When plasma becomes visible",
+    "source": "EE Journal",
+    "date": "2026-07-08",
+    "url": "https://www.eejournal.com/industry_news/ids-imaging-development-systems-gmbh-when-plasma-becomes-visible/",
+    "summary": "Plasma jets, in which ionized gas is emitted from a source in the form of a focused, highly dynamic, light emitting structure, play a central role in numerous technological and medical applications, ranging from materials processing to plasma medicine. At the same time, plasma discharges are among the phenomena that are most difficult to study &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/ids-imaging-development-systems-gmbh-when-plasma-becomes-visible/\">Read More &#8594;<span class=\"screen-reader-text\"> \"IDS Imaging Development Systems GmbH, When plasma becomes visible\"</span></a>"
+  },
+  {
+    "title": "Tuxera brings mission-critical data reliability to physical AI systems",
+    "source": "EE Journal",
+    "date": "2026-07-08",
+    "url": "https://www.eejournal.com/industry_news/tuxera-brings-mission-critical-data-reliability-to-physical-ai-systems/",
+    "summary": "Tuxera announces its physical AI data layer strategy, helping manufacturers prepare for the emerging €430 billion Physical AI market (Strategy&#38;, PwC, 2026). By applying its proven storage, flash management, networking and safety-certified technologies to physical AI, the company is helping customers build the resilient data infrastructure needed to deploy intelligent systems with confidence. Physical AI represents the &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/tuxera-brings-mission-critical-data-reliability-to-physical-ai-systems/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Tuxera brings mission-critical data reliability to physical AI systems\"</span></a>"
+  },
+  {
     "title": "It’s Full Steam Ahead for This Motorized Canoe",
     "source": "Hackaday",
     "date": "2026-07-07",
@@ -124,13 +194,6 @@
     "date": "2026-07-07",
     "url": "https://hackaday.com/2026/07/07/reverse-engineering-and-self-hosting-the-obi-smart-energy-tracker/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"395\" src=\"https://hackaday.com/wp-content/uploads/2026/07/obi_energy_tracker_devices_aaron_christophel_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Sold by German DIY store OBI, the OBI Energy Tracker is a €15 set of two devices, one of which you essentially stick on top of your existing electricity meter. <a class=\"read-more\" href=\"https://hackaday.com/2026/07/07/reverse-engineering-and-self-hosting-the-obi-smart-energy-tracker/\">&#8230;read more</a>"
-  },
-  {
-    "title": "When An Engineering Education Doesn’t Teach You How To Really Make Anything",
-    "source": "Hackaday",
-    "date": "2026-07-07",
-    "url": "https://hackaday.com/2026/07/07/when-an-engineering-education-doesnt-teach-you-how-to-really-make-anything/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"549\" src=\"https://hackaday.com/wp-content/uploads/2014/12/hacking-education.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In the sweltering temperatures of an unusually hot European heatwave, I found myself having a chat with  a friend of mine from my university days. After discussing the health of <a class=\"read-more\" href=\"https://hackaday.com/2026/07/07/when-an-engineering-education-doesnt-teach-you-how-to-really-make-anything/\">&#8230;read more</a>"
   },
   {
     "title": "ESP32-C5 devkit offers 2.8-inch capacitive touch display, dual-band Wi-Fi 6, Bluetooth 5 LE, LiPo battery support",
@@ -166,20 +229,6 @@
     "date": "2026-07-07",
     "url": "https://www.embedded.com/syslogic-ark-vision-partner-on-rugged-edge-ai-hardware/",
     "summary": "<p>Syslogic and Ark Vision Systems have announced a collaboration to deliver a fully integrated hardware platform for edge AI applications. The joint solution combines Ark Vision Systems' GMSL2 machine vision cameras with Syslogic's rugged embedded computers, providing developers with a ready-to-deploy hardware foundation for industrial automation, agriculture, mobility, robotics, and other environments that require reliable [...]</p>\n<p>The post <a href=\"https://www.embedded.com/syslogic-ark-vision-partner-on-rugged-edge-ai-hardware/\">Syslogic, Ark Vision Partner on Rugged Edge AI Hardware</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Nexperia’s 1200 V SiC MOSFETs in QDPAK packaging",
-    "source": "Electronics Weekly",
-    "date": "2026-07-07",
-    "url": "https://www.electronicsweekly.com/news/products/power-supplies/nexperias-1200-v-sic-mosfets-in-qdpak-packaging-2026-07/",
-    "summary": "<p>Nexperia is releasing 1200 V silicon carbide (SiC) MOSFETs in QDPAK packaging, as part of its wide-bandgap (WBG) portfolio. They feature a top-side cooled surface-mount package optimised for high-power density ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/power-supplies/nexperias-1200-v-sic-mosfets-in-qdpak-packaging-2026-07/\">Nexperia’s 1200 V SiC MOSFETs in QDPAK packaging</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Q-Tech targets rad-hardened MCXOs at Space applications",
-    "source": "Electronics Weekly",
-    "date": "2026-07-07",
-    "url": "https://www.electronicsweekly.com/news/business/q-tech-targets-rad-hardened-mcxos-at-space-applications-2026-07/",
-    "summary": "<p>Q-Tech is expanding its QT2020/QT2021 series of microcomputer compensated crystal oscillators (MCXOs). The new MCXOs are designed to withstand radiation levels of 50kRad(Si) TID, highlights the company. The oscillator specialist ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/q-tech-targets-rad-hardened-mcxos-at-space-applications-2026-07/\">Q-Tech targets rad-hardened MCXOs at Space applications</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "New nEw NEWS From Adafruit Round-Up: April, May & June 2026",
@@ -236,13 +285,6 @@
     "date": "2026-07-07",
     "url": "https://blog.adafruit.com/2026/07/07/icymi-python-on-microcontrollers-newsletter-scrollkit-for-your-led-matrices-ai-tools-device-security-and-more/",
     "summary": "If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,366 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep [&#8230;]"
-  },
-  {
-    "title": "Marble Machine Phone Case",
-    "source": "Adafruit",
-    "date": "2026-07-07",
-    "url": "https://blog.adafruit.com/2026/07/07/marble-machine-phone-case/",
-    "summary": "Strange Inventions 3d printed a phone case that&#8217;s also a marble machine! I&#8217;m laughing out loud at &#8220;built in filter&#8221;. Check out the project video over on YouTube."
   },
   {
     "title": "Deal between 3PEAK and Anglia delivers cost effective drop-in analog parts with increased functionality",
@@ -315,27 +357,6 @@
     "summary": "<p>The I²C EEPROMs with integrated ECC offer up to four million program/erase cycles.</p>\n<p>The post <a href=\"https://www.embedded.com/gigadevice-unveils-i2c-eeproms/\">GigaDevice Unveils I2C EEPROMs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Bypassing the Sound Blaster’s new firmware signature check",
-    "source": "Adafruit",
-    "date": "2026-07-06",
-    "url": "https://blog.adafruit.com/2026/07/06/bypassing-the-sound-blasters-new-firmware-signature-check/",
-    "summary": "Rasmus Moorats recently demonstrated a few vulnerabilities in the Sound Blaster Katana V2/V2X/SE which allowed one to hijack the device over Bluetooth and turn it into an attacker-controlled keyboard peripheral, injecting keystrokes into the connected machine. One of the flaws I highlighted in my previous post was that CTP, which the mobile and desktop applications use to [&#8230;]"
-  },
-  {
-    "title": "An Atomic Force Microscope and specialized etching",
-    "source": "Adafruit",
-    "date": "2026-07-06",
-    "url": "https://blog.adafruit.com/2026/07/06/an-atomic-force-microscope-and-specialized-etching/",
-    "summary": "Applied Science explores the mechanics of a MEMS-based atomic force microscope by imaging biological samples and testing specialized etching techniques. Through careful sample preparation, such as using gelatin for immobilization, Applied Science investigates how surface modifications on stainless steel respond to various electrochemical processes. Makers of this microscope: https://www.icspicorp.com/contact-us/ See the video below:"
-  },
-  {
-    "title": "The Windows CE Dreamcast Community edition",
-    "source": "Adafruit",
-    "date": "2026-07-06",
-    "url": "https://blog.adafruit.com/2026/07/06/the-windows-ce-dreamcast-community-edition/",
-    "summary": "The Dreamcast shipped a stripped-down Windows CE 2.12 that retail games booted into and never exposed. Windows CE Dreamcast Community Edition takes that same on-disc CE runtime and turns it into something you can actually use: a multitasking windowed desktop and an in-progress TCP/IP stack over the Broadband Adapter — all baked into a standard bootable Dreamcast disc. [&#8230;]"
-  },
-  {
     "title": "A Practical Migration Path with PIC32CM Arm® Cortex®-based MCUs — Microchip and Mouser",
     "source": "EE Journal",
     "date": "2026-07-06",
@@ -355,13 +376,6 @@
     "date": "2026-07-06",
     "url": "https://www.eejournal.com/industry_news/bath-researchers-join-nasa-earth-system-explorers-mission/",
     "summary": "Bath researchers Dr Neil Hindley and Professor Corwin Wright, from the University of Bath’s Centre for Climate Adaptation &#38; Environment Research (CAER), have joined the science team behind NASA’s next-generation satellite mission. The STRIVE mission, which stands for Stratosphere Troposphere Response using Infrared Vertically-resolved light Explorer, will take high-resolution, daily measurements of global temperature, aerosol pollution and &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/bath-researchers-join-nasa-earth-system-explorers-mission/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Bath researchers join NASA Earth System Explorers mission\"</span></a>"
-  },
-  {
-    "title": "Need a low-cost FPGA dev board? Check out Adiuvo Engineering’s $99 Explorer board with an AMD Artix UltraScale+ FPGA",
-    "source": "EE Journal",
-    "date": "2026-07-06",
-    "url": "https://www.eejournal.com/article/need-a-low-cost-fpga-dev-board-check-out-adiuvo-engineerings-99-explorer-board-with-an-amd-artix-ultrascale-fpga/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"232\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/Explorer-Board-Front.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />If you’re looking for a real bargain in an FPGA development board, Adiuvo Engineering’s Adam Taylor has a deal for you. His company’s new $99 Explorer dev board sports an AMD Artix UltraScale+ AU7P FPGA, which is lower than the single-piece price for the FPGA alone. How does Adiuvo work this magic? AMD was an &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/need-a-low-cost-fpga-dev-board-check-out-adiuvo-engineerings-99-explorer-board-with-an-amd-artix-ultrascale-fpga/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Need a low-cost FPGA dev board? Check out Adiuvo Engineering’s $99 Explorer board with an AMD Artix UltraScale+ FPGA\"</span></a>"
   },
   {
     "title": "Macintosh emulator works on ESP32-P4 display devkits from M5Stack and Waveshare",
@@ -390,20 +404,6 @@
     "date": "2026-07-03",
     "url": "https://www.embedded.com/flux-report-examines-challenges-of-ai-generated-code-in-production/",
     "summary": "<p>Flux has released its AI Code Generation Reality Check, an independent study examining how organizations are adopting AI-generated software while managing the associated risks. Conducted by Dimensional Research, the survey collected responses from 309 engineering leaders and practitioners across five continents and highlights a growing gap between the widespread use of AI-assisted coding and organizations' [...]</p>\n<p>The post <a href=\"https://www.embedded.com/flux-report-examines-challenges-of-ai-generated-code-in-production/\">Flux Report Examines Challenges of AI-Generated Code in Production</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Syslogic and Ark Vision Deliver Complete Hardware Solution for Edge AI",
-    "source": "EE Journal",
-    "date": "2026-07-03",
-    "url": "https://www.eejournal.com/industry_news/syslogic-and-ark-vision-deliver-complete-hardware-solution-for-edge-ai/",
-    "summary": "Ark Vision Systems and Syslogic have joined forces to deliver a fully integrated hardware solution for Edge AI. Ark Vision Systems&#8217; GMSL2 cameras now connect seamlessly with Syslogic&#8217;s rugged embedded computers, providing customers with a complete hardware platform for demanding Edge AI applications in industrial automation, agriculture, and mobility. Harsh environments demand rugged electronics. Ark &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/syslogic-and-ark-vision-deliver-complete-hardware-solution-for-edge-ai/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Syslogic and Ark Vision Deliver Complete Hardware Solution for Edge AI\"</span></a>"
-  },
-  {
-    "title": "Bio-based Multi-purpose Adhesive With Excellent Adhesion",
-    "source": "EE Journal",
-    "date": "2026-07-03",
-    "url": "https://www.eejournal.com/industry_news/bio-based-multi-purpose-adhesive-with-excellent-adhesion/",
-    "summary": "DELO has developed an adhesive that consists primarily of bio-based components and combines performance with sustainability. DELO PHOTOBOND SJ4192 is characterized by excellent moisture resistance as well as high flexibility and peel strength. As a multi-purpose adhesive, it is suitable for metal, glass and plastics and can help achieve sustainability goals in the automotive industry, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/bio-based-multi-purpose-adhesive-with-excellent-adhesion/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Bio-based Multi-purpose Adhesive With Excellent Adhesion\"</span></a>"
   },
   {
     "title": "Kyocera AVX Launches Antenna Integration Tool",
