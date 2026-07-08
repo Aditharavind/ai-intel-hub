@@ -9,6 +9,15 @@
     "score": 0.1
   },
   {
+    "model": "aslivishaal/phi3_robotics_lora_v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/aslivishaal/phi3_robotics_lora_v2",
+    "date": "2026-07-08",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "aslivishaal/phi3_robotics_lora",
     "downloads": 0,
     "likes": 0,
@@ -99,13 +108,13 @@
     "score": 5.8
   },
   {
-    "model": "kairos-agi/kairos-4B-robot-LIBERO-plus",
-    "downloads": 24,
-    "likes": 1,
-    "url": "https://huggingface.co/kairos-agi/kairos-4B-robot-LIBERO-plus",
+    "model": "anhtld/vla",
+    "downloads": 0,
+    "likes": 3,
+    "url": "https://huggingface.co/anhtld/vla",
     "date": "2026-07-08",
-    "keyword": "robot",
-    "score": 7.5
+    "keyword": "vla",
+    "score": 0.7
   },
   {
     "model": "zaowu/vla-jepa-so101-finetune",
@@ -115,15 +124,6 @@
     "date": "2026-07-08",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "anhtld/vla",
-    "downloads": 0,
-    "likes": 3,
-    "url": "https://huggingface.co/anhtld/vla",
-    "date": "2026-07-08",
-    "keyword": "vla",
-    "score": 0.7
   },
   {
     "model": "HarrisonPENG/M2W-VLA-LIBERO",
@@ -186,6 +186,51 @@
     "url": "https://huggingface.co/lamamkh/push-cube-wasd-worldmodel-weights",
     "date": "2026-07-08",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "zhijieq/houseexpo-navigation-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zhijieq/houseexpo-navigation-policy",
+    "date": "2026-07-08",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "zhijieq/houseexpo-navigation-env",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zhijieq/houseexpo-navigation-env",
+    "date": "2026-07-08",
+    "keyword": "navigation",
+    "score": 0.1
+  },
+  {
+    "model": "meghaGenAI/northwind-hr-policy-dpo-merged",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/meghaGenAI/northwind-hr-policy-dpo-merged",
+    "date": "2026-07-08",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "killvung/player-agent-grid-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/killvung/player-agent-grid-policy",
+    "date": "2026-07-08",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ahmedaali/so101-records-dataset_20260708_170024_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ahmedaali/so101-records-dataset_20260708_170024_policy",
+    "date": "2026-07-08",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -256,42 +301,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/jogarulfop/policy_2026-07-06_shakeitup_diff_duration_v3_100kHz_nfft_512",
-    "date": "2026-07-08",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "mradermacher/PolicyShiftGuard-7B-GGUF",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mradermacher/PolicyShiftGuard-7B-GGUF",
-    "date": "2026-07-08",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "mradermacher/PolicyShiftGuard-3B-GGUF",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mradermacher/PolicyShiftGuard-3B-GGUF",
-    "date": "2026-07-08",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "PolicyShiftGuard/PolicyShiftGuard-7B-RP-SFT",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/PolicyShiftGuard/PolicyShiftGuard-7B-RP-SFT",
-    "date": "2026-07-08",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "PolicyShiftGuard/PolicyShiftGuard-3B-RP-SFT",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/PolicyShiftGuard/PolicyShiftGuard-3B-RP-SFT",
     "date": "2026-07-08",
     "keyword": "policy",
     "score": 0.1
@@ -502,15 +511,6 @@
     "date": "2026-07-01",
     "keyword": "robotics",
     "score": 1.9
-  },
-  {
-    "model": "L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup_v2",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/L7-Robotics/smolvla_baseline_so101_conveyor_dynamic_speedup_v2",
-    "date": "2026-07-01",
-    "keyword": "robotics",
-    "score": 4.9
   },
   {
     "model": "GreenGenomicsLab/TARA-WorldModel-VICReg",
@@ -817,23 +817,5 @@
     "date": "2026-04-28",
     "keyword": "navigation",
     "score": 0.1
-  },
-  {
-    "model": "sukixp/vt-navigation-llama-3b",
-    "downloads": 2,
-    "likes": 1,
-    "url": "https://huggingface.co/sukixp/vt-navigation-llama-3b",
-    "date": "2026-03-31",
-    "keyword": "navigation",
-    "score": 0.9
-  },
-  {
-    "model": "smolify/smolified-hospital-navigation-system",
-    "downloads": 8,
-    "likes": 0,
-    "url": "https://huggingface.co/smolify/smolified-hospital-navigation-system",
-    "date": "2026-03-29",
-    "keyword": "navigation",
-    "score": 2.5
   }
 ]

@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-08 20:19 UTC
+Generated: 2026-07-08 21:55 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,7 +14,7 @@ Generated: 2026-07-08 20:19 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82347 | 32938.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82348 | 32939.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63052 | 25220.9 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44207 | 17682.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 29991 | 11996.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
@@ -33,7 +33,7 @@ Generated: 2026-07-08 20:19 UTC
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
 | 2026-07-08 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxNS056dHV6ZHBGUEVIZFVyNzNjdG5LVm16LURhY04ycXc3SmdZdktPTkJZWkZ4RWhIWUJvMG1Yb1BYb0psRVdMQS1kbTFERzRIRUtyb2p3TWpFSEdleHdKT2JONUNJWFQzWW9Wc0hOOFRvVFQ2eDdnd2E0V1pHemhzVElFQ1F3V1RZNjVZQ0JydDdBb3dvNDZwNUxR?oc=5) |
-| 2026-07-08 | LeRobot |  | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNN2FiVFFUOHhCb0RjY2h2OWhsQzVKSDFnTndhenhJRV9WcVhGWmVFdi1TLW8xYjdPVFJpc2NpSWNxVzZFR01Xa2JpVXJfS3pyWmxSQUw1elppcWlGOFEtODFKY1BhV1VOUjZjeEJld3R1SGtWZTNkOHM5V25FZ0lMM29SeC0taXMyaWxlMjJvM25rQUUxQUd6NW53ZVFXVGplSU5WbWtGRlp3M2lXdWkxWi1qb3RKUE8zU0NsTG1lRXpoLV9RclA3SlR4N1ZlbXRFM0dqVUU5eW0?oc=5) |
+| 2026-07-08 | LeRobot |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMTZtYWxhZzdWNkJoRExpd243clVrSDR2akNqdGlJUWZITmtXSkZDUFRrOHp1SVhWaFZvb19LSmFaU0hacmlQcm03TnNaT3o2d1B6UkEwdnRyYnNlZjRlZUtLSTF0NnhoNzBxTWhYeVpfalpTd2lwV3JfMnQxaDA3R1BkYzNaMjNw?oc=5) |
 | 2026-07-07 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxNOHh5SElCZGg0QV82Qk56ampQZDFwa1JqT3IxVFNMVzNMVWJRVFNhNlZvMUd6Vzl0dU0wOVJpYkJ3M3VEU08yTlFrSF9JS0RoUGROTkxWQWJZellHYmdkWjkzaGxqaV9GSDFZNDl5NlhWNGVTQVVLN2RVd2tFREJXbl9TajBWOEc0eF9MLWdR?oc=5) |
 | 2026-07-07 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMitgJBVV95cUxQdjdfLTBlbU4zUnJHSDRSWTU0R0R6STNDdVJET3hHWVJpR25PT2dYQnJzYWRna1pQeVdKYlRkZDRvTnlEWkY1NHA4bnpnblRWNVJFNHhUZUNQZktYUlJncTZNQmI3eTRjc2REc2VDOWdkSE93ZHRIcW1feGJUbDV5WGFEeTgwVjlURWF0bzV5SGxlZWZ4NWJZbTlianVqNjdTYWlHWFNyQy04eW81cGROQ3R2ZGJ4Z3RZYVh3b2l3NlZEQXlKZjFaN3FxVEdsWV9lNkp3d2R2ZVRGN19LRWpLWlNNLV9TYkNxMjMtSXEzUlJlbWJtZmVUZWw4T3Q5Q0s4cnZVbmhCcjVWcXpsYld6aVBCQmh6ZlNOZXlIVUJTa05aVVJLT3IwOTlKY0dNQ2RUZGF5TWVn?oc=5) |
 | 2026-07-07 | LeRobot |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzRyeF85c183eThYLXZWRXZQYlhlY1dtY3RGLTY4NDRmazV2d0lKUXZxa0owU0ctSkZiRGttdXkzRGJ4WkVmMTBfMTZqN0Zkbmpncl9ueWxzZXlqRURrOWJOTGU5NDF4Yk1pd0g5Y0JXWi16UHA4Y1RvTm9ndUJ5MTY2eGQtSFVUNFNGVzRqTm5Reml5dXZYRzdZOXVYSld4RjZKTnNaU2NfUlE2TWFMQWJOZC1GRy16WWIyekJqeXVHNlh2UzVVVQ?oc=5) |
@@ -42,7 +42,7 @@ Generated: 2026-07-08 20:19 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-07-08 | Industry Insights: This Week's Top Fundraising For Robotics, Physical AI, and Automation - A3 Association for Advancing Automation | physical ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkxlZTBSNU8tTmJlcjZpb19kNE5JUjZyZnBjQ1FWZ3dxYXUzU1hvRHp0R3d5OC1LeEt3SjF3Y0JYbWoxbDNNLXA4cGJZSFFMQWpzVlVYXzVGMGhVdmRhZFZCai1HdzBVYldMUGJRYWFDcUJhdnlMNmZyNFpWRHo4X3FpU3BhbGtxQTQ1TWtBeS02dkN2NXlYVUtTYVlsNlF5M205d3ZReEZESWFTMkVWM0VxbEdLMEc1czJBNkZB?oc=5) |
-| 2026-07-08 | Mistral AI Releases Robotics Model to Support Physical AI Push - Bloomberg | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLS1HS3l1by1iTTdJcExyZkR6MVRLa0YwcmJQbTZKem9PWDJYRlpoR25XdmZIU0xrWWZPMFMtUFN1bjlnZmlaVjFXcTA1RnZybEJHZ2FUMlp2Z3RCc0FBRlc0ZUhRcWhTZGNRREVfLUd0LWoyU0ZSZm82SVFuS2JUOVQ3WS1SSWpXb3B4NmlaZGJqYWxtSWU0dDVGX3JhTEZFUDZxTlVsN0pNbGtORFpxX2ZGQ05HdlZjS3NhbWZ2aGlHMHdGVW1XX0VpRkk1NlJVdmc?oc=5) |
+| 2026-07-08 | Mistral AI Releases Robotics Model to Support Physical AI Push - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLS1HS3l1by1iTTdJcExyZkR6MVRLa0YwcmJQbTZKem9PWDJYRlpoR25XdmZIU0xrWWZPMFMtUFN1bjlnZmlaVjFXcTA1RnZybEJHZ2FUMlp2Z3RCc0FBRlc0ZUhRcWhTZGNRREVfLUd0LWoyU0ZSZm82SVFuS2JUOVQ3WS1SSWpXb3B4NmlaZGJqYWxtSWU0dDVGX3JhTEZFUDZxTlVsN0pNbGtORFpxX2ZGQ05HdlZjS3NhbWZ2aGlHMHdGVW1XX0VpRkk1NlJVdmc?oc=5) |
 | 2026-07-08 | Mistral launches its first robotics model, expanding into physical AI - The News International | physical ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRm9uQnNKM1Q1MlNJVU1JYmdEcnMzOS1QSFMyMVVIdThNTHE2RTNsZzJRVmRfcW9KOEdEanNlR0tBVzB6b3ozcmpSdWtEdlQ4cjlhQk8xMFdBWEtpQ3JKV29IUWNZNmhRbUpBQk9pVU1nMGctd2hlWkRwTGR3LUt1YTZBTS1QR3V3X25zRFJTWVYxRzdHeHkzUXA5QWxpVk5ZS3pQV2t2XzBFWmxqMVlj?oc=5) |
 | 2026-07-08 | The competition for "Physical AI" that encompasses humanoids, robots, and autonomous vehicles depend.. - 매일경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93aFFHRHdnV0JXdWFzemFhaXpFcjd0SUNHU3hLaElVTUZtcG5wb01KN0pLUjNyN2tsbFczMmJKQmxaX1FkNVo1aXF3WQ?oc=5) |
 | 2026-07-08 | Tesla Optimus key developer launches humanoid startup, lines up 50 potential customers - 디지털투데이 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdV9zLVZlNmxrSDlXZkNDTXFIZG1GcXZKUGt2cWdoTGFMR1d0dWdmWlgxRHZoMnE5dHB1UGpDekt0Y0JuZTV0OGttMlNfd3NqVXVMV2loTGlqdVpFT0pNeWhkZWxrV3d6WkFjN0NqVExkaEM4MFk5bTczVEs5THczem5heTRfN3ViSlBDOTVKel9UbkdBZnVXWDVlR05OdWd5akJhakY5em1qUUNGYkowdmFBdjdDdnZFX1dfanZnajE4Z2VyWDNnblJB?oc=5) |
