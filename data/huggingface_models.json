@@ -1,29 +1,11 @@
 [
   {
-    "model": "hanangani/robotales-ckpts",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hanangani/robotales-ckpts",
-    "date": "2026-07-09",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "SeonghoonYu/RACE_Robotwin",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/SeonghoonYu/RACE_Robotwin",
     "date": "2026-07-09",
     "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "dominicdx/my_robot_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/dominicdx/my_robot_policy",
-    "date": "2026-07-09",
-    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -36,12 +18,39 @@
     "score": 0.1
   },
   {
+    "model": "QRP123/robot8_20260708_3cam_act_dinov3_base_frozen_100k_640x480_crop2of3_20260709",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/QRP123/robot8_20260708_3cam_act_dinov3_base_frozen_100k_640x480_crop2of3_20260709",
+    "date": "2026-07-09",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "hanangani/robotales-ckpts",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/hanangani/robotales-ckpts",
+    "date": "2026-07-09",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube",
     "date": "2026-07-09",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "dominicdx/my_robot_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dominicdx/my_robot_policy",
+    "date": "2026-07-09",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -99,13 +108,22 @@
     "score": 0.7
   },
   {
-    "model": "dajiangw/robot_learning_tutorial_act",
-    "downloads": 74,
+    "model": "flashrt/flashrt-vla-video",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/dajiangw/robot_learning_tutorial_act",
+    "url": "https://huggingface.co/flashrt/flashrt-vla-video",
     "date": "2026-07-09",
-    "keyword": "robot",
-    "score": 22.3
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "flashrt/flashrt-vla-residual-gates",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/flashrt/flashrt-vla-residual-gates",
+    "date": "2026-07-09",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "VLat3/rl_course_vizdoom_health_gathering_supreme",
@@ -198,21 +216,12 @@
     "score": 0.1
   },
   {
-    "model": "aryan1219/hopfield-vla-checkpoints",
+    "model": "flashrt/world-model-conv",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/aryan1219/hopfield-vla-checkpoints",
+    "url": "https://huggingface.co/flashrt/world-model-conv",
     "date": "2026-07-09",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mertalbaba/humanoid-vla-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mertalbaba/humanoid-vla-checkpoints",
-    "date": "2026-07-09",
-    "keyword": "vla",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -601,15 +610,6 @@
     "date": "2026-06-26",
     "keyword": "world model",
     "score": 11.2
-  },
-  {
-    "model": "linhrumata/world-models-decoders",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/linhrumata/world-models-decoders",
-    "date": "2026-06-24",
-    "keyword": "world model",
-    "score": 0.1
   },
   {
     "model": "NU-World-Model-Embodied-AI/ActQuant-Pi05-LIBERO-3.5bpw",
