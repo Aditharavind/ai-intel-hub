@@ -9,6 +9,42 @@
     "score": 0.1
   },
   {
+    "model": "LohanTS/mon-model-robot-v7bis",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/LohanTS/mon-model-robot-v7bis",
+    "date": "2026-07-09",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "yuuu94/Qwen3-VL-OFT-Robotwin2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yuuu94/Qwen3-VL-OFT-Robotwin2",
+    "date": "2026-07-09",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "OpenWAM/SFT_Robot_Only_RoboTwin_Clean",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/SFT_Robot_Only_RoboTwin_Clean",
+    "date": "2026-07-09",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "aslivishaal/phi3_robotics_lora_v2",
+    "downloads": 40,
+    "likes": 0,
+    "url": "https://huggingface.co/aslivishaal/phi3_robotics_lora_v2",
+    "date": "2026-07-09",
+    "keyword": "robotics",
+    "score": 12.1
+  },
+  {
     "model": "Dexmal/DW05-Robotwin",
     "downloads": 0,
     "likes": 2,
@@ -33,6 +69,15 @@
     "url": "https://huggingface.co/ftvai/Fly-Ai-Robot",
     "date": "2026-07-09",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Monita108/Multi_view_vla_mytask",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Monita108/Multi_view_vla_mytask",
+    "date": "2026-07-09",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -78,6 +123,60 @@
     "url": "https://huggingface.co/zaowu/vla-jepa-so101-full-finetune",
     "date": "2026-07-09",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "cbrian/policy_pi05_libero_dataset_MDWC11_steps_20000_ctrl_cartesian",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/cbrian/policy_pi05_libero_dataset_MDWC11_steps_20000_ctrl_cartesian",
+    "date": "2026-07-09",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "cbrian/policy_pi05_libero_dataset_MDWC10_steps_4000_ctrl_cartesian",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/cbrian/policy_pi05_libero_dataset_MDWC10_steps_4000_ctrl_cartesian",
+    "date": "2026-07-09",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ChristianZ97/satp-policy-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ChristianZ97/satp-policy-v2",
+    "date": "2026-07-09",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "cbrian/policy_pi05_libero_dataset_MDWC9_steps_4000_ctrl_cartesian",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/cbrian/policy_pi05_libero_dataset_MDWC9_steps_4000_ctrl_cartesian",
+    "date": "2026-07-09",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Hilman09/act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Hilman09/act_policy",
+    "date": "2026-07-09",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ahmedaali/so101_act_policy_v3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ahmedaali/so101_act_policy_v3",
+    "date": "2026-07-09",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -135,33 +234,6 @@
     "score": 0.1
   },
   {
-    "model": "hiskiv/cosmos-policy-lam",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hiskiv/cosmos-policy-lam",
-    "date": "2026-07-09",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "killvung/player-agent-grid-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/killvung/player-agent-grid-policy",
-    "date": "2026-07-09",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "MakinoKF/place-nut-empty-space_act-policy-v1",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/MakinoKF/place-nut-empty-space_act-policy-v1",
-    "date": "2026-07-09",
-    "keyword": "policy",
-    "score": 4.9
-  },
-  {
     "model": "qualia-robotics/pi05-qualia-sock-purple-orange-green-fea96a56",
     "downloads": 30,
     "likes": 0,
@@ -169,15 +241,6 @@
     "date": "2026-07-08",
     "keyword": "robotics",
     "score": 9.1
-  },
-  {
-    "model": "aslivishaal/phi3_robotics_lora_v2",
-    "downloads": 40,
-    "likes": 0,
-    "url": "https://huggingface.co/aslivishaal/phi3_robotics_lora_v2",
-    "date": "2026-07-08",
-    "keyword": "robotics",
-    "score": 12.1
   },
   {
     "model": "aslivishaal/phi3_robotics_lora",
@@ -205,33 +268,6 @@
     "date": "2026-07-08",
     "keyword": "robotics",
     "score": 7.3
-  },
-  {
-    "model": "Frywind/unit_robotwin_main",
-    "downloads": 30,
-    "likes": 0,
-    "url": "https://huggingface.co/Frywind/unit_robotwin_main",
-    "date": "2026-07-08",
-    "keyword": "robot",
-    "score": 9.1
-  },
-  {
-    "model": "RobotisSW/Task_900003_Collect_PeanutMix_To_Box_1110_0708_UKH_lerobot_v30_act_30k",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_900003_Collect_PeanutMix_To_Box_1110_0708_UKH_lerobot_v30_act_30k",
-    "date": "2026-07-08",
-    "keyword": "robot",
-    "score": 4.6
-  },
-  {
-    "model": "RobotisSW/Task_900003_Collect_PeanutMix_To_Box_1110_0708_UKH_lerobot_v30_UKH_act_30k",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_900003_Collect_PeanutMix_To_Box_1110_0708_UKH_lerobot_v30_UKH_act_30k",
-    "date": "2026-07-08",
-    "keyword": "robot",
-    "score": 5.2
   },
   {
     "model": "s1ghhh/vla_adapter_spatial",
@@ -288,15 +324,6 @@
     "score": 0.1
   },
   {
-    "model": "huh2332/vla",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/huh2332/vla",
-    "date": "2026-07-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "lamamkh/push-cube-wasd-worldmodel-weights",
     "downloads": 0,
     "likes": 0,
@@ -322,33 +349,6 @@
     "date": "2026-07-08",
     "keyword": "navigation",
     "score": 4.6
-  },
-  {
-    "model": "fedemartino/my_policy",
-    "downloads": 34,
-    "likes": 0,
-    "url": "https://huggingface.co/fedemartino/my_policy",
-    "date": "2026-07-08",
-    "keyword": "policy",
-    "score": 10.3
-  },
-  {
-    "model": "gyalpo/so101_act_pick_block_policy",
-    "downloads": 111,
-    "likes": 0,
-    "url": "https://huggingface.co/gyalpo/so101_act_pick_block_policy",
-    "date": "2026-07-08",
-    "keyword": "policy",
-    "score": 33.4
-  },
-  {
-    "model": "Lucisu/red_cube_o1_20260708_085954_policy_dagger_1",
-    "downloads": 34,
-    "likes": 0,
-    "url": "https://huggingface.co/Lucisu/red_cube_o1_20260708_085954_policy_dagger_1",
-    "date": "2026-07-08",
-    "keyword": "policy",
-    "score": 10.3
   },
   {
     "model": "EmbodiedCity/Worldscape-MoE",
