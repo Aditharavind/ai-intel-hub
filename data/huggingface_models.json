@@ -1,11 +1,56 @@
 [
   {
+    "model": "ftvai/Fly-Ai-Robot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ftvai/Fly-Ai-Robot",
+    "date": "2026-07-09",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "a5ilank/curious-robot",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/a5ilank/curious-robot",
-    "date": "2026-07-08",
+    "date": "2026-07-09",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "anhtld/vla",
+    "downloads": 0,
+    "likes": 3,
+    "url": "https://huggingface.co/anhtld/vla",
+    "date": "2026-07-09",
+    "keyword": "vla",
+    "score": 0.7
+  },
+  {
+    "model": "mmurray-ms/Cosmos-Policy-MetaWorld-Predict2-2B",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mmurray-ms/Cosmos-Policy-MetaWorld-Predict2-2B",
+    "date": "2026-07-09",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "killvung/player-agent-grid-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/killvung/player-agent-grid-policy",
+    "date": "2026-07-09",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "MakinoKF/place-nut-empty-space_act-policy-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MakinoKF/place-nut-empty-space_act-policy-v1",
+    "date": "2026-07-09",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -97,24 +142,6 @@
     "date": "2026-07-08",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "InternRobotics/InternVLA-A1.5-RoboTwin",
-    "downloads": 25,
-    "likes": 7,
-    "url": "https://huggingface.co/InternRobotics/InternVLA-A1.5-RoboTwin",
-    "date": "2026-07-08",
-    "keyword": "robot",
-    "score": 9.0
-  },
-  {
-    "model": "anhtld/vla",
-    "downloads": 0,
-    "likes": 3,
-    "url": "https://huggingface.co/anhtld/vla",
-    "date": "2026-07-08",
-    "keyword": "vla",
-    "score": 0.7
   },
   {
     "model": "s1ghhh/vla_adapter_spatial",
@@ -252,15 +279,6 @@
     "score": 0.1
   },
   {
-    "model": "killvung/player-agent-grid-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/killvung/player-agent-grid-policy",
-    "date": "2026-07-08",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "ahmedaali/so101-records-dataset_20260708_170024_policy",
     "downloads": 0,
     "likes": 0,
@@ -292,24 +310,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/schronn/policy_record_v4_bv",
-    "date": "2026-07-08",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "trossenai/act_pick_drop_4_trial2_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/trossenai/act_pick_drop_4_trial2_policy",
-    "date": "2026-07-08",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jogarulfop/policy_2026-07-06_shakeitup_diff_duration_v3_100kHz_nfft_8192",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-07-06_shakeitup_diff_duration_v3_100kHz_nfft_8192",
     "date": "2026-07-08",
     "keyword": "policy",
     "score": 0.1

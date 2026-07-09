@@ -1,5 +1,19 @@
 [
   {
+    "title": "Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments",
+    "source": "CNX Software",
+    "date": "2026-07-09",
+    "url": "https://www.cnx-software.com/2026/07/09/norik-systems-introduces-nrf9151-based-usb-dongle-for-dect-nr-deployments/",
+    "summary": "<div><img alt=\"Norik DECT NR+ USB dongle\" class=\"attachment-medium size-medium wp-post-image\" height=\"377\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Norik-DECT-NR-USB-dongle-720x377.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Norik Systems has developed a compact USB dongle based on Nordic Semiconductor’s nRF9151 SiP, mostly designed to work as a DECT NR+ child node or a USB-powered gateway. As a reminder, DECT NR+ is a non-cellular 5G standard for long-range low-power applications that works at 1.9 GHz and supports up to one million nodes through mesh, star, and point-to-point topologies. The Norik USB dongle enables developers to easily add DECT NR+ to gateways or child modes. Norik Systems DECT NR+ USB dongle specifications: Wireless System-in-Package – Nordic Semi nRF9151 CPU – Arm Cortex-M33 @ 64 MHz Memory – 256KB RAM Storage – 1MB flash Connectivity Multimode LTE-M/NB-IoT/NB-NTN modem with DECT NR+ support and GNSS. 700-2200 MHz LTE band support. Power Class 5 20 dBm Power Class 3 23 dBm 1.9 GHz and 915 MHz DECT NR+ band support (1, 2, 9, 22) Security – Arm TrustZone + Arm CryptoCell 310. [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/09/norik-systems-introduces-nrf9151-based-usb-dongle-for-dect-nr-deployments/\">Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "A Hellish Dilemma",
+    "source": "Electronics Weekly",
+    "date": "2026-07-09",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/a-hellish-dilemma-2026-07/",
+    "summary": "<p>The total value of the SOX is $16 trillion &#8211; up from $2 trillion in 2022, notes Bloomberg, so 30 chip companies are valued at half US GDP ($32bn) and ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/a-hellish-dilemma-2026-07/\">A Hellish Dilemma</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "An Analog Synth For The Modern World",
     "source": "Hackaday",
     "date": "2026-07-08",
@@ -145,13 +159,6 @@
     "date": "2026-07-08",
     "url": "https://www.electronicsweekly.com/news/business/growth-competition-and-change-for-power-devices-2026-07/",
     "summary": "<p>The power device market is expected to exceed $41 billion by 2031, driven by electrification, AI infrastructure, and renewable energy, says Yole. Infineon, onsemi and ST, remain dominant, while Chinese ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/growth-competition-and-change-for-power-devices-2026-07/\">Growth, competition and change in power devices</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Photon Bridge and Phix take TOSA module to market",
-    "source": "Electronics Weekly",
-    "date": "2026-07-08",
-    "url": "https://www.electronicsweekly.com/news/business/photon-bridge-and-phix-take-tosa-module-to-market-2026-07/",
-    "summary": "<p>Photon Bridge, the Dutch photonics specialist, will use Phix, the photonics packaging house, to put Photon Bridge&#8217;s DWDM external laser source Transmit Optical Sub-Assembly (TOSA) (pictured) into a module for ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/photon-bridge-and-phix-take-tosa-module-to-market-2026-07/\">Photon Bridge and Phix take TOSA module to market</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "LIVE NOW! SHOW and TELL 7/8/2026 with @blitzcitydiy #ShowandTell @adafruit",
@@ -390,13 +397,6 @@
     "date": "2026-07-05",
     "url": "https://www.cnx-software.com/2026/07/05/macintosh-emulator-works-on-esp32-p4-display-devkits-from-m5stack-and-waveshare/",
     "summary": "<div><img alt=\"ESP32-P4 MacOS emulator\" class=\"attachment-medium size-medium wp-post-image\" height=\"491\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/ESP32-P4-MacOS-emulator-720x491.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ESP32 chips have been used for retro gaming and computing for years, but Austin McChord (Amcchord) adds to that with a Macintosh emulator ported to a couple of ESP32-P4 display devkits. His project is a full port of the BasiliskII Macintosh 68k emulator, bringing classic Mac OS (System 7.x through Mac OS 8.1) to portable ESP32-P4 embedded devices with touchscreen, USB peripherals, and WiFi support through an ESP32-C6 on the boards. The main development platform appears to be the M5Stack Tab5 equipped with a 5-inch touchscreen display with 1280×720 resolution. However, if you need something with a larger screen, the Waveshare ESP32-P4-WIFI6-Touch-LCD-10.1 is also supported, and features a 10.1-inch display with 1280&#215;800 resolution and a 10-point capacitive touchscreen. The actual Mac OS resolutions used are 640&#215;360 and 640&#215;400, respectively, then scaled twice to the native resolution of the display. Highlights of the project: CPU &#8211;  Motorola 68040 emulation with FPU (68881) [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/05/macintosh-emulator-works-on-esp32-p4-display-devkits-from-m5stack-and-waveshare/\">Macintosh emulator works on ESP32-P4 display devkits from M5Stack and Waveshare</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "BIGTREETECH Panda Sense Pro 8-in-1 smart air quality monitor works with Home Assistant and Klipper for 3D printers",
-    "source": "CNX Software",
-    "date": "2026-07-04",
-    "url": "https://www.cnx-software.com/2026/07/04/bigtreetech-panda-sense-pro-8-in-1-smart-air-quality-monitor-works-with-home-assistant-and-klipper-for-3d-printers/",
-    "summary": "<div><img alt=\"BIGTREETECH Panda Sense Pro 8-in-1 Air Quality Monitor for 3D Printers\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/BIGTREETECH-Panda-Sense-Pro-8-in-1-Air-Quality-Monitor-for-3D-Printers-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>BIGTREETECH (BIQU) has introduced the BIQU Panda Sense Pro, an 8-in-1 smart air quality monitor designed for 3D printing environments such as home workshops, maker spaces, and print farms. It continuously measures airborne particles, gases, temperature, and humidity, helping users monitor indoor air quality while printing. The device also integrates with Klipper-based printers and smart home platforms, making it suitable for both standalone monitoring and automated environmental control. It combines laser particle, NDIR CO₂, and electrochemical formaldehyde sensors to monitor PM2.5, PM10, CO₂, HCHO, eTVOC, AQI, temperature, and humidity in real time. The monitor features a 3.5-inch 480×320 TFT display, 2.4 GHz Wi-Fi with MQTT, USB Type-C power, 24-hour and 30-day data logging, and upcoming app-based remote monitoring. It integrates with Moonraker (Fluidd/Mainsail) and Home Assistant for automation, such as controlling fans or air purifiers based on sensor readings. The enclosure files are open-source, which means you can customize and [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/04/bigtreetech-panda-sense-pro-8-in-1-smart-air-quality-monitor-works-with-home-assistant-and-klipper-for-3d-printers/\">BIGTREETECH Panda Sense Pro 8-in-1 smart air quality monitor works with Home Assistant and Klipper for 3D printers</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Agentic Software for Physical AI, Rigid-Flex PCB Prototyping, LEO Satellites: Embedded Week Insights",

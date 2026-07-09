@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-08 23:56 UTC
+Last Updated: 2026-07-09 01:49 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-09 | Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments | CNX Software | [link](https://www.cnx-software.com/2026/07/09/norik-systems-introduces-nrf9151-based-usb-dongle-for-dect-nr-deployments/) |
+| 2026-07-09 | A Hellish Dilemma | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/a-hellish-dilemma-2026-07/) |
 | 2026-07-08 | An Analog Synth For The Modern World | Hackaday | [link](https://hackaday.com/2026/07/08/an-analog-synth-for-the-modern-world/) |
 | 2026-07-08 | Pi 5 Becomes ALSA-Compatible TOSLINK Sound Card | Hackaday | [link](https://hackaday.com/2026/07/08/pi-5-becomes-alsa-compatible-sound-card-complete-with-toslink/) |
 | 2026-07-08 | FLOSS Weekly Episode 874: Really, We Do PDFs | Hackaday | [link](https://hackaday.com/2026/07/08/floss-weekly-episode-874-really-we-do-pdfs/) |
@@ -57,50 +59,48 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-08 | This DIY Time Server is More Accurate Than You Need | Hackaday | [link](https://hackaday.com/2026/07/08/this-diy-time-server-is-more-accurate-than-you-need/) |
 | 2026-07-08 | ESP32 Keeps Tabs on Your Local Airspace | Hackaday | [link](https://hackaday.com/2026/07/08/esp32-keeps-tabs-on-your-local-airspace/) |
 | 2026-07-08 | Rikomagic DS04 – An Android 14 4K digital signage player powered by Rockchip RK3576 SoC | CNX Software | [link](https://www.cnx-software.com/2026/07/08/rikomagic-ds04-an-android-14-4k-digital-signage-player-powered-by-rockchip-rk3576-soc/) |
-| 2026-07-08 | KKSB 10-inch and 19-inch rack panels target Raspberry Pi clusters, support Pi HATs and active coolers | CNX Software | [link](https://www.cnx-software.com/2026/07/08/kksb-10-inch-and-19-inch-rack-panels-target-raspberry-pi-clusters-support-pi-hats-and-active-coolers/) |
-| 2026-07-08 | ACEMAGIC discounts its AMD Ryzen 7 mini PCs by up to 32% for a limited time (Sponsored) | CNX Software | [link](https://www.cnx-software.com/2026/07/08/acemagic-discounts-its-amd-ryzen-7-mini-pcs-by-up-to-32/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-07 | ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation | [link](https://arxiv.org/pdf/2607.06565v1) |
-| 2026-07-07 | Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation | [link](https://arxiv.org/pdf/2607.06564v1) |
-| 2026-07-07 | Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization | [link](https://arxiv.org/pdf/2607.06563v1) |
-| 2026-07-07 | Vision as Unified Multimodal Generation | [link](https://arxiv.org/pdf/2607.06560v1) |
-| 2026-07-07 | RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation | [link](https://arxiv.org/pdf/2607.06559v1) |
-| 2026-07-07 | RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation | [link](https://arxiv.org/pdf/2607.06558v1) |
-| 2026-07-07 | Rethinking Indic AI from a Lens of Cultural Heritage Preservation | [link](https://arxiv.org/pdf/2607.06544v1) |
-| 2026-07-07 | UniLM-Nav: A Unified Framework for Zero-Shot Last-Mile Navigation | [link](https://arxiv.org/pdf/2607.06537v1) |
-| 2026-07-07 | Neural-ESO: A Dual-Pathway Architecture for Provably Robust Learning-Based Control | [link](https://arxiv.org/pdf/2607.06535v1) |
-| 2026-07-07 | RMISC: A Large-scale Real-world Multivariate Corpus for Time Series Foundation Models | [link](https://arxiv.org/pdf/2607.06504v1) |
+| 2026-07-08 | Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning | [link](https://arxiv.org/pdf/2607.07708v1) |
+| 2026-07-08 | Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence | [link](https://arxiv.org/pdf/2607.07675v1) |
+| 2026-07-08 | MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models | [link](https://arxiv.org/pdf/2607.07673v1) |
+| 2026-07-08 | Continuous and large-scale: ELEANOR, the soft architected arm inspired by the elephant trunk | [link](https://arxiv.org/pdf/2607.07622v1) |
+| 2026-07-08 | Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation | [link](https://arxiv.org/pdf/2607.07608v1) |
+| 2026-07-08 | MLIP Studio: An Open Platform for Interactive Benchmarking and Atomistic Simulations Using Machine Learning Interatomic Potentials | [link](https://arxiv.org/pdf/2607.07606v1) |
+| 2026-07-08 | CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Autonomous Driving Corner-Case Synthesis | [link](https://arxiv.org/pdf/2607.07601v1) |
+| 2026-07-08 | Context-Aware Force Estimation for Deformable Tool Manipulation in Robotic Environmental Swabbing via Few-Shot Continual Adaptation | [link](https://arxiv.org/pdf/2607.07574v1) |
+| 2026-07-08 | SonoRank: Towards Calibration-Free Real-Time Finger Flexion Detection from Forearm Ultrasound Sequences | [link](https://arxiv.org/pdf/2607.07542v1) |
+| 2026-07-08 | Infinite Worlds with Versatile Interactions | [link](https://arxiv.org/pdf/2607.07534v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-08 | a5ilank/curious-robot | 0 | 0 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-07-09 | ftvai/Fly-Ai-Robot | 0 | 0 | [link](https://huggingface.co/ftvai/Fly-Ai-Robot) |
+| 2026-07-09 | a5ilank/curious-robot | 0 | 0 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-07-09 | anhtld/vla | 0 | 3 | [link](https://huggingface.co/anhtld/vla) |
+| 2026-07-09 | mmurray-ms/Cosmos-Policy-MetaWorld-Predict2-2B | 0 | 0 | [link](https://huggingface.co/mmurray-ms/Cosmos-Policy-MetaWorld-Predict2-2B) |
+| 2026-07-09 | killvung/player-agent-grid-policy | 0 | 0 | [link](https://huggingface.co/killvung/player-agent-grid-policy) |
+| 2026-07-09 | MakinoKF/place-nut-empty-space_act-policy-v1 | 0 | 0 | [link](https://huggingface.co/MakinoKF/place-nut-empty-space_act-policy-v1) |
 | 2026-07-08 | qualia-robotics/pi05-qualia-sock-purple-orange-green-fea96a56 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-qualia-sock-purple-orange-green-fea96a56) |
 | 2026-07-08 | aslivishaal/phi3_robotics_lora_v2 | 0 | 0 | [link](https://huggingface.co/aslivishaal/phi3_robotics_lora_v2) |
 | 2026-07-08 | aslivishaal/phi3_robotics_lora | 0 | 0 | [link](https://huggingface.co/aslivishaal/phi3_robotics_lora) |
 | 2026-07-08 | pollen-robotics/pick_can_200_smooth_diffusion_a10g-best | 0 | 0 | [link](https://huggingface.co/pollen-robotics/pick_can_200_smooth_diffusion_a10g-best) |
-| 2026-07-08 | pollen-robotics/pick_can_200_smooth_diffusion_a10g | 0 | 0 | [link](https://huggingface.co/pollen-robotics/pick_can_200_smooth_diffusion_a10g) |
-| 2026-07-08 | Frywind/unit_robotwin_main | 0 | 0 | [link](https://huggingface.co/Frywind/unit_robotwin_main) |
-| 2026-07-08 | dajiangw/robot_learning_tutorial_act | 0 | 0 | [link](https://huggingface.co/dajiangw/robot_learning_tutorial_act) |
-| 2026-07-08 | RobotisSW/Task_900003_Collect_PeanutMix_To_Box_1110_0708_UKH_lerobot_v30_act_30k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900003_Collect_PeanutMix_To_Box_1110_0708_UKH_lerobot_v30_act_30k) |
-| 2026-07-08 | RobotisSW/Task_900003_Collect_PeanutMix_To_Box_1110_0708_UKH_lerobot_v30_UKH_act_30k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900003_Collect_PeanutMix_To_Box_1110_0708_UKH_lerobot_v30_UKH_act_30k) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| Edgenesis/shifu | 1423 | Go | 569.3 | [link](https://github.com/Edgenesis/shifu) |
-| mosaico-labs/mosaico | 886 | Python | 354.5 | [link](https://github.com/mosaico-labs/mosaico) |
-| awslabs/awsome-distributed-ai | 454 | Shell | 181.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 158 | Python | 63.3 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63053 | Python | 25221.3 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 15991 | Python | 6396.5 | [link](https://github.com/zauberzeug/nicegui) |
+| commaai/openpilot | 63055 | Python | 25222.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15437 | C++ | 6174.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14134 | C++ | 5653.7 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11098 | Rust | 4439.3 | [link](https://github.com/rerun-io/rerun) |
-| earthtojake/text-to-cad | 7847 | JavaScript | 3138.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| rerun-io/rerun | 11097 | Rust | 4438.9 | [link](https://github.com/rerun-io/rerun) |
+| dora-rs/dora | 3833 | Rust | 1533.3 | [link](https://github.com/dora-rs/dora) |
+| sou350121/VLA-Handbook | 365 | HTML | 146.1 | [link](https://github.com/sou350121/VLA-Handbook) |
+| luohongk/Embodied-AI-Daily | 365 | HTML | 146.1 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
+| softmata/horus | 386 | Rust | 154.5 | [link](https://github.com/softmata/horus) |
+| isaac-sim/IsaacLab | 7632 | Python | 3052.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| Edgenesis/shifu | 1423 | Go | 569.3 | [link](https://github.com/Edgenesis/shifu) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -122,18 +122,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-08 | Industry Insights: This Week's Top Fundraising For Robotics, Physical AI, and Automation - A3 Association for Advancing Automation | physical ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkxlZTBSNU8tTmJlcjZpb19kNE5JUjZyZnBjQ1FWZ3dxYXUzU1hvRHp0R3d5OC1LeEt3SjF3Y0JYbWoxbDNNLXA4cGJZSFFMQWpzVlVYXzVGMGhVdmRhZFZCai1HdzBVYldMUGJRYWFDcUJhdnlMNmZyNFpWRHo4X3FpU3BhbGtxQTQ1TWtBeS02dkN2NXlYVUtTYVlsNlF5M205d3ZReEZESWFTMkVWM0VxbEdLMEc1czJBNkZB?oc=5) |
 | 2026-07-08 | Mistral AI Releases Robotics Model to Support Physical AI Push - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLS1HS3l1by1iTTdJcExyZkR6MVRLa0YwcmJQbTZKem9PWDJYRlpoR25XdmZIU0xrWWZPMFMtUFN1bjlnZmlaVjFXcTA1RnZybEJHZ2FUMlp2Z3RCc0FBRlc0ZUhRcWhTZGNRREVfLUd0LWoyU0ZSZm82SVFuS2JUOVQ3WS1SSWpXb3B4NmlaZGJqYWxtSWU0dDVGX3JhTEZFUDZxTlVsN0pNbGtORFpxX2ZGQ05HdlZjS3NhbWZ2aGlHMHdGVW1XX0VpRkk1NlJVdmc?oc=5) |
 | 2026-07-08 | Mistral launches its first robotics model, expanding into physical AI - The News International | physical ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRm9uQnNKM1Q1MlNJVU1JYmdEcnMzOS1QSFMyMVVIdThNTHE2RTNsZzJRVmRfcW9KOEdEanNlR0tBVzB6b3ozcmpSdWtEdlQ4cjlhQk8xMFdBWEtpQ3JKV29IUWNZNmhRbUpBQk9pVU1nMGctd2hlWkRwTGR3LUt1YTZBTS1QR3V3X25zRFJTWVYxRzdHeHkzUXA5QWxpVk5ZS3pQV2t2XzBFWmxqMVlj?oc=5) |
-| 2026-07-08 | Mistral launches 1st robotics AI model to power physical AI | Mistral earlier announced deals with BMW, Airbus | Inshorts - Inshorts | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFBwY1hKQU9GTjMtVi1vT0QxcFN4cnhNbmY2bGJ4bnFXZnFnQnp1Qk5BSGl3bUE4b2tVaGQxa3JwYVV3cWxmcjJVV0tiQUU5VTJ0RE80VWxhNW43U3BWZFZubS1jZmZrMzVwdHhlcDFrMU9xWXBRQVA2Y3I0WHVjWVRBSVNBdmVlekJ6UmlNNERaVGJ1eGg2bVdQWGo5XzJWczBrSNIBqgFBVV95cUxPYkNYLXN4SG93aXV5eUNIX0hMX0NEdkNMUHpyYkVNc0t1cWZQWk5lRFg0bk1QMkNySHE1ZHlRUXFfYWs3X2JEYmQ4ZVFmdDd3b0JmejdEdDZ0U3JGOU5kUkEzanBwbFJac3ZSSUNjVmg0SkpUdmdFUU80WERjYUNRU3ZEZGx4SHZ3TEl6T1luVWFiNHpqYW95OEpZRnB4NF96U2JxM3Y0UndNUQ?oc=5) |
-| 2026-07-08 | Tesla Optimus key developer launches humanoid startup, lines up 50 potential customers - 디지털투데이 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdV9zLVZlNmxrSDlXZkNDTXFIZG1GcXZKUGt2cWdoTGFMR1d0dWdmWlgxRHZoMnE5dHB1UGpDekt0Y0JuZTV0OGttMlNfd3NqVXVMV2loTGlqdVpFT0pNeWhkZWxrV3d6WkFjN0NqVExkaEM4MFk5bTczVEs5THczem5heTRfN3ViSlBDOTVKel9UbkdBZnVXWDVlR05OdWd5akJhakY5em1qUUNGYkowdmFBdjdDdnZFX1dfanZnajE4Z2VyWDNnblJB?oc=5) |
+| 2026-07-08 | Mistral launches 1st robotics AI model to power physical AI | Mistral earlier announced deals with BMW, Airbus | Inshorts - Inshorts | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkNYLXN4SG93aXV5eUNIX0hMX0NEdkNMUHpyYkVNc0t1cWZQWk5lRFg0bk1QMkNySHE1ZHlRUXFfYWs3X2JEYmQ4ZVFmdDd3b0JmejdEdDZ0U3JGOU5kUkEzanBwbFJac3ZSSUNjVmg0SkpUdmdFUU80WERjYUNRU3ZEZGx4SHZ3TEl6T1luVWFiNHpqYW95OEpZRnB4NF96U2JxM3Y0UndNUdIBqgFBVV95cUxPYkNYLXN4SG93aXV5eUNIX0hMX0NEdkNMUHpyYkVNc0t1cWZQWk5lRFg0bk1QMkNySHE1ZHlRUXFfYWs3X2JEYmQ4ZVFmdDd3b0JmejdEdDZ0U3JGOU5kUkEzanBwbFJac3ZSSUNjVmg0SkpUdmdFUU80WERjYUNRU3ZEZGx4SHZ3TEl6T1luVWFiNHpqYW95OEpZRnB4NF96U2JxM3Y0UndNUQ?oc=5) |
 | 2026-07-07 | HIVE brings in $15M to build physical AI for industrial machines - The Robot Report | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOWEyVzFrNUNpdUpKZEd6SXY2ckdTeVRlZUV3N3JwRHRmZmU2Yi1ueVEtT0ZXaEZjbTgwdlEwOThqak5pZHd4Y0x5amFfM0JzeFBTT0c1VlhIRHJEM2MzVk9TX1dadXhIUWc5bVVUeG13NlJpQk5BS1dIcFN6SDFzc2J6VnhJVmRjbmcxN2ZyYWV2T1NiMGlnQ05PNA?oc=5) |
 | 2026-07-07 | Mowito raises $3 million to scale physical AI for robots - Let's Data Science | physical ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxPOThSWFMzQjV4M01yYVctRmViOXVNRmZtSTFnRGxxMkRic0VqTG8tMEdtdHd3ZnpyYVpaX2NCbVU2UEFST0xhaUdiOGtuSUF2RExiTlNvRjliS3Q4eUxXQ1FXRHRKeWF5SUhGQlBFQXM0ai1Cd2ZlVjVtVGt4UjJKQ0dORVhWQ3VZV2tYdFF2YUZZM0F4OU1LS1JOMVpIUQ?oc=5) |
 | 2026-07-07 | Bezos’ AI startup Prometheus raises $12B, valued at $41B - eciks.org | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTFBGYzFUbWF6N0gxUXp1dE9oZ2R4RUN6azJNLVdOSTlvTW43LVhnRkJyN2FhekFCSVJMQ3o1RmVXN2Z2eUxVaDZWaWVtZ1lsVnQyQVhPNFlZcWVrYVBTRDZRWURBVGw2LUhURDhpSTBaZWxPMGdyUFI0?oc=5) |
 | 2026-07-07 | Physical AI startup Mowito raises $3 million to teach factory robots by demonstration, not code - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOW1HYkloZklEQWpSU3FXaUhlX1U2eG9rRDRDZFU0TC12dzU2bzhjTGpIV3gySTI4MmZ5bXZpMzJ3VG9kZUJ5ZV8xSEhCNlhXaHZENHZvaE42ME5JX2VPbEN1NEktUHJuQjR4d3lSdllrejlxM3VDeVRfU3dLODJuejB2aHU3TUFFZ1EzRG1nTmktOFNjcFVLMDRkRkZxUDRBd3pfSXVhdlJrMGpCanhEazR3MXktNWl6VnJrb3NPY3VMWGoxUTdTLXgwUGRBdWV2Q19jak9PcGpXeFBUUTl4UmtfUGxVNG54eS1jOXA4NkwtQdIB9wFBVV95cUxNYnRnek85dzNPbi03aFF6UzgyaTFpdWRlMWpIVENkRkNEbndNcVhaTHMtTkZaOUhkRWxrVG9QT3dZQUpRRGFPX19jcTJ5NmF4LUxNOFV6MnowZ3ZPckhETkcwV2ItRk1ST002ZzVQZDVoTFk4WnR5WFdfYUgxS0Fjd2htZ0RTdlNGR245ZERsS1JLUXV4MlNaeTZ0enNhSEdfcUxpZmpEcGdCWWxhdkQtTkNTSEhJQ3M5dUZLS2dwVkg0RzRmMDN6Y2NWV3l4QXdJVHNId0REYkZJcXR3cXlETld1RklVZG9LY083bWFZeWExVWlRcDFZ?oc=5) |
-| 2026-07-07 | Simplexity Robotics: 11-Month-Old Embodied AI Startup Ships 100 Robots to Production Lines - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTlEVE5PX2M3YUJLMEZWT2NkaV8talFxQzNGdGJlcUNfM2x5T3A4SzJsdllZQ0I4TlY2N0N2RDBpZ3pJLUI5ckV5X09lMlYwZkxteV9nQkJRODZDVWUwNFVoLVpWUEYwVjQwR2NnX2RmajFzZmVtWjladVJOdVJOWndVTjlHaWdUN3BwX0Q1akRZZw?oc=5) |
+| 2026-07-07 | Physical AI startup Mowito raises $3 million in pre-seed funding round - Business Standard | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRzVUS2VGMGg5ODNTQmJ1Z01YVWdlTXo3b3dKdWRKa2x2MkN5WmRKVDhoVDQxOXdMV2JOdlZaVS1OeGFLaXBCc2pMbWtxd2JOUnpLcU5ZT1V4VEtnR3Jrazh6S1VEZlNoaTBncG5GYW1hSG8yd0tYb19KLXl3dzBxdlpjRTNUSzF1YXg0VzlnajRoS2o0STNtZC1ybFVHNi15SHRkMUM3eVA5eHVCZUJMWTU2OTJxSFJBS2dob0NXdGVoejN5WWZKVU9od0tMNTFCRTZFRFVn0gHbAUFVX3lxTE1kcjlQU1dWbDhpMTdTYjg1bTBMOEtzVUJhRGJRZkZRQlZYV0FXVjd1dG1KazhTVGdXYWRvRHVsd2JjSUlVX18tMGtzWTFQVXpELVF6RnZfcFhsMDFrdV9XSUhpRXJzUEIwVEtHcDVzRE52QzhBendweWhCdkJVVmc0Qk1YcFVrRTgyMFhucnNWUWpuSDVTZGE4M2dDWGFFcmtUb3VxV2otM2N0U3Y5TjRYZGdfZWZURExhN284VDc2aDU1b3REcnBCVXQ2WVRWNkdZV2FXOTZFbVhHcw?oc=5) |
+| 2026-07-07 | Ex-Tesla Optimus scientist unveils European humanoid robot startup - Electrek | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTE1mRmhsR3htamdMNjB2ZG4xQmZHdUJmcTJKTnJSV0NaRmtNSUQ0UHA2OVBXUkhnTzZrMnJXbXI0eGNINzRVR3dOa1RwaDRqcXFnSWpjUmdYMWE1djR1NXRwRnV5NDF2M0h1NU1mNEIwYngtTnk0QXBxQ0tHWUZ6aU0?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-08 | NPI Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4627386006) |
+| 2026-07-08 | Recruiter-High Volume (contract) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4695758006) |
+| 2026-07-08 | Supplier Quality Engineer (Asia) | Figure AI | Asia | [link](https://job-boards.greenhouse.io/figureai/jobs/4626809006) |
 | 2026-07-08 | Senior Counsel, Technology Transactions | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6110909004) |
 | 2026-07-07 | Staff Systems Integration Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6017810004) |
 | 2026-07-06 | AI Data Operations Lead | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
@@ -141,8 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-06 | Firmware Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
 | 2026-07-06 | Integration and Test - Mechanical Engineering Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4606074006) |
 | 2026-07-06 | Production Associate | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4453797006) |
-| 2026-07-06 | Special Projects Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4694889006) |
-| 2026-07-06 | Validation Engineering Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4606072006) |
 
 ## Automation
 

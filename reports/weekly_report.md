@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-08 23:56 UTC
+Generated: 2026-07-09 01:49 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-07 | ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation | [link](https://arxiv.org/pdf/2607.06565v1) |
-| 2026-07-07 | Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation | [link](https://arxiv.org/pdf/2607.06564v1) |
-| 2026-07-07 | Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization | [link](https://arxiv.org/pdf/2607.06563v1) |
-| 2026-07-07 | Vision as Unified Multimodal Generation | [link](https://arxiv.org/pdf/2607.06560v1) |
-| 2026-07-07 | RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation | [link](https://arxiv.org/pdf/2607.06559v1) |
+| 2026-07-08 | Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning | [link](https://arxiv.org/pdf/2607.07708v1) |
+| 2026-07-08 | Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence | [link](https://arxiv.org/pdf/2607.07675v1) |
+| 2026-07-08 | MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models | [link](https://arxiv.org/pdf/2607.07673v1) |
+| 2026-07-08 | Continuous and large-scale: ELEANOR, the soft architected arm inspired by the elephant trunk | [link](https://arxiv.org/pdf/2607.07622v1) |
+| 2026-07-08 | Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation | [link](https://arxiv.org/pdf/2607.07608v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 82348 | 32939.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63053 | 25221.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44207 | 17682.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 29991 | 11996.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15991 | 6396.5 | [link](https://github.com/zauberzeug/nicegui) |
+| commaai/openpilot | 63055 | 25222.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44208 | 17683.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 29992 | 11996.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15992 | 6396.9 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -44,5 +44,5 @@ Generated: 2026-07-08 23:56 UTC
 | 2026-07-08 | Industry Insights: This Week's Top Fundraising For Robotics, Physical AI, and Automation - A3 Association for Advancing Automation | physical ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkxlZTBSNU8tTmJlcjZpb19kNE5JUjZyZnBjQ1FWZ3dxYXUzU1hvRHp0R3d5OC1LeEt3SjF3Y0JYbWoxbDNNLXA4cGJZSFFMQWpzVlVYXzVGMGhVdmRhZFZCai1HdzBVYldMUGJRYWFDcUJhdnlMNmZyNFpWRHo4X3FpU3BhbGtxQTQ1TWtBeS02dkN2NXlYVUtTYVlsNlF5M205d3ZReEZESWFTMkVWM0VxbEdLMEc1czJBNkZB?oc=5) |
 | 2026-07-08 | Mistral AI Releases Robotics Model to Support Physical AI Push - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLS1HS3l1by1iTTdJcExyZkR6MVRLa0YwcmJQbTZKem9PWDJYRlpoR25XdmZIU0xrWWZPMFMtUFN1bjlnZmlaVjFXcTA1RnZybEJHZ2FUMlp2Z3RCc0FBRlc0ZUhRcWhTZGNRREVfLUd0LWoyU0ZSZm82SVFuS2JUOVQ3WS1SSWpXb3B4NmlaZGJqYWxtSWU0dDVGX3JhTEZFUDZxTlVsN0pNbGtORFpxX2ZGQ05HdlZjS3NhbWZ2aGlHMHdGVW1XX0VpRkk1NlJVdmc?oc=5) |
 | 2026-07-08 | Mistral launches its first robotics model, expanding into physical AI - The News International | physical ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRm9uQnNKM1Q1MlNJVU1JYmdEcnMzOS1QSFMyMVVIdThNTHE2RTNsZzJRVmRfcW9KOEdEanNlR0tBVzB6b3ozcmpSdWtEdlQ4cjlhQk8xMFdBWEtpQ3JKV29IUWNZNmhRbUpBQk9pVU1nMGctd2hlWkRwTGR3LUt1YTZBTS1QR3V3X25zRFJTWVYxRzdHeHkzUXA5QWxpVk5ZS3pQV2t2XzBFWmxqMVlj?oc=5) |
-| 2026-07-08 | Mistral launches 1st robotics AI model to power physical AI | Mistral earlier announced deals with BMW, Airbus | Inshorts - Inshorts | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFBwY1hKQU9GTjMtVi1vT0QxcFN4cnhNbmY2bGJ4bnFXZnFnQnp1Qk5BSGl3bUE4b2tVaGQxa3JwYVV3cWxmcjJVV0tiQUU5VTJ0RE80VWxhNW43U3BWZFZubS1jZmZrMzVwdHhlcDFrMU9xWXBRQVA2Y3I0WHVjWVRBSVNBdmVlekJ6UmlNNERaVGJ1eGg2bVdQWGo5XzJWczBrSNIBqgFBVV95cUxPYkNYLXN4SG93aXV5eUNIX0hMX0NEdkNMUHpyYkVNc0t1cWZQWk5lRFg0bk1QMkNySHE1ZHlRUXFfYWs3X2JEYmQ4ZVFmdDd3b0JmejdEdDZ0U3JGOU5kUkEzanBwbFJac3ZSSUNjVmg0SkpUdmdFUU80WERjYUNRU3ZEZGx4SHZ3TEl6T1luVWFiNHpqYW95OEpZRnB4NF96U2JxM3Y0UndNUQ?oc=5) |
-| 2026-07-08 | Tesla Optimus key developer launches humanoid startup, lines up 50 potential customers - 디지털투데이 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdV9zLVZlNmxrSDlXZkNDTXFIZG1GcXZKUGt2cWdoTGFMR1d0dWdmWlgxRHZoMnE5dHB1UGpDekt0Y0JuZTV0OGttMlNfd3NqVXVMV2loTGlqdVpFT0pNeWhkZWxrV3d6WkFjN0NqVExkaEM4MFk5bTczVEs5THczem5heTRfN3ViSlBDOTVKel9UbkdBZnVXWDVlR05OdWd5akJhakY5em1qUUNGYkowdmFBdjdDdnZFX1dfanZnajE4Z2VyWDNnblJB?oc=5) |
+| 2026-07-08 | Mistral launches 1st robotics AI model to power physical AI | Mistral earlier announced deals with BMW, Airbus | Inshorts - Inshorts | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkNYLXN4SG93aXV5eUNIX0hMX0NEdkNMUHpyYkVNc0t1cWZQWk5lRFg0bk1QMkNySHE1ZHlRUXFfYWs3X2JEYmQ4ZVFmdDd3b0JmejdEdDZ0U3JGOU5kUkEzanBwbFJac3ZSSUNjVmg0SkpUdmdFUU80WERjYUNRU3ZEZGx4SHZ3TEl6T1luVWFiNHpqYW95OEpZRnB4NF96U2JxM3Y0UndNUdIBqgFBVV95cUxPYkNYLXN4SG93aXV5eUNIX0hMX0NEdkNMUHpyYkVNc0t1cWZQWk5lRFg0bk1QMkNySHE1ZHlRUXFfYWs3X2JEYmQ4ZVFmdDd3b0JmejdEdDZ0U3JGOU5kUkEzanBwbFJac3ZSSUNjVmg0SkpUdmdFUU80WERjYUNRU3ZEZGx4SHZ3TEl6T1luVWFiNHpqYW95OEpZRnB4NF96U2JxM3Y0UndNUQ?oc=5) |
+| 2026-07-07 | HIVE brings in $15M to build physical AI for industrial machines - The Robot Report | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOWEyVzFrNUNpdUpKZEd6SXY2ckdTeVRlZUV3N3JwRHRmZmU2Yi1ueVEtT0ZXaEZjbTgwdlEwOThqak5pZHd4Y0x5amFfM0JzeFBTT0c1VlhIRHJEM2MzVk9TX1dadXhIUWc5bVVUeG13NlJpQk5BS1dIcFN6SDFzc2J6VnhJVmRjbmcxN2ZyYWV2T1NiMGlnQ05PNA?oc=5) |
