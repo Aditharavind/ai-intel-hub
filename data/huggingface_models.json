@@ -1,5 +1,32 @@
 [
   {
+    "model": "hanangani/robotales-ckpts",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/hanangani/robotales-ckpts",
+    "date": "2026-07-09",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "SeonghoonYu/RACE_Robotwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SeonghoonYu/RACE_Robotwin",
+    "date": "2026-07-09",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "dominicdx/my_robot_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dominicdx/my_robot_policy",
+    "date": "2026-07-09",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "a5ilank/curious-robot",
     "downloads": 0,
     "likes": 0,
@@ -81,13 +108,22 @@
     "score": 22.3
   },
   {
-    "model": "ftvai/Fly-Ai-Robot",
+    "model": "VLat3/rl_course_vizdoom_health_gathering_supreme",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/ftvai/Fly-Ai-Robot",
+    "url": "https://huggingface.co/VLat3/rl_course_vizdoom_health_gathering_supreme",
     "date": "2026-07-09",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
+  },
+  {
+    "model": "anhtld/vla",
+    "downloads": 0,
+    "likes": 3,
+    "url": "https://huggingface.co/anhtld/vla",
+    "date": "2026-07-09",
+    "keyword": "vla",
+    "score": 0.7
   },
   {
     "model": "helen9975/vla-jepa-molmoact-yam-3cam-unfrozen",
@@ -153,15 +189,6 @@
     "score": 0.1
   },
   {
-    "model": "anhtld/vla",
-    "downloads": 0,
-    "likes": 3,
-    "url": "https://huggingface.co/anhtld/vla",
-    "date": "2026-07-09",
-    "keyword": "vla",
-    "score": 0.7
-  },
-  {
     "model": "Monita108/Multi_view_vla_mytask",
     "downloads": 0,
     "likes": 0,
@@ -189,12 +216,12 @@
     "score": 0.1
   },
   {
-    "model": "HarrisonPENG/M2W-VLA-Explicit-CoT-Jepa",
+    "model": "somundane/act_pick_place_test_policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-Explicit-CoT-Jepa",
+    "url": "https://huggingface.co/somundane/act_pick_place_test_policy",
     "date": "2026-07-09",
-    "keyword": "vla",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -288,42 +315,6 @@
     "score": 0.1
   },
   {
-    "model": "ChristianZ97/satp-policy-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ChristianZ97/satp-policy-v2",
-    "date": "2026-07-09",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "cbrian/policy_pi05_libero_dataset_MDWC9_steps_4000_ctrl_cartesian",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/cbrian/policy_pi05_libero_dataset_MDWC9_steps_4000_ctrl_cartesian",
-    "date": "2026-07-09",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "qualia-robotics/pi05-qualia-sock-purple-orange-green-fea96a56",
-    "downloads": 30,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/pi05-qualia-sock-purple-orange-green-fea96a56",
-    "date": "2026-07-08",
-    "keyword": "robotics",
-    "score": 9.1
-  },
-  {
-    "model": "aslivishaal/phi3_robotics_lora",
-    "downloads": 38,
-    "likes": 0,
-    "url": "https://huggingface.co/aslivishaal/phi3_robotics_lora",
-    "date": "2026-07-08",
-    "keyword": "robotics",
-    "score": 11.5
-  },
-  {
     "model": "lamamkh/push-cube-wasd-worldmodel-weights",
     "downloads": 0,
     "likes": 0,
@@ -349,6 +340,24 @@
     "date": "2026-07-08",
     "keyword": "navigation",
     "score": 4.6
+  },
+  {
+    "model": "qualia-robotics/pi05-qualia-sock-purple-orange-green-fea96a56",
+    "downloads": 30,
+    "likes": 0,
+    "url": "https://huggingface.co/qualia-robotics/pi05-qualia-sock-purple-orange-green-fea96a56",
+    "date": "2026-07-08",
+    "keyword": "robotics",
+    "score": 9.1
+  },
+  {
+    "model": "aslivishaal/phi3_robotics_lora",
+    "downloads": 38,
+    "likes": 0,
+    "url": "https://huggingface.co/aslivishaal/phi3_robotics_lora",
+    "date": "2026-07-08",
+    "keyword": "robotics",
+    "score": 11.5
   },
   {
     "model": "pollen-robotics/pick_can_200_smooth_diffusion_a10g-best",
@@ -407,11 +416,11 @@
   {
     "model": "SEU-PAISys/Embodied.cpp",
     "downloads": 98,
-    "likes": 3,
+    "likes": 4,
     "url": "https://huggingface.co/SEU-PAISys/Embodied.cpp",
     "date": "2026-07-06",
     "keyword": "embodied",
-    "score": 30.1
+    "score": 30.3
   },
   {
     "model": "aslivishaal/robotics-phi35-mini-gguf",

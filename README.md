@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-09 19:15 UTC
+Last Updated: 2026-07-09 21:08 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-09 | GPT-5.6 is now the preferred model in Microsoft 365 Copilot | OpenAI | [link](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot) |
 | 2026-07-09 | ChatGPT is now a partner for your most ambitious work | OpenAI | [link](https://openai.com/index/chatgpt-for-your-most-ambitious-work) |
 | 2026-07-09 | GPT-5.5 Bio Bug Bounty | OpenAI | [link](https://openai.com/index/bio-bug-bounty) |
 | 2026-07-09 | GPT-5.6: Frontier intelligence that scales with your ambition | OpenAI | [link](https://openai.com/index/gpt-5-6) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-08 | Introducing GPT-Live | OpenAI | [link](https://openai.com/index/introducing-gpt-live) |
 | 2026-07-08 | NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness | NVIDIA AI | [link](https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/) |
 | 2026-07-08 | Data for Agents | Hugging Face | [link](https://huggingface.co/blog/nvidia/open-data-for-agents) |
-| 2026-07-08 | Native-speed vLLM transformers modeling backend | Hugging Face | [link](https://huggingface.co/blog/native-speed-vllm-transformers-backend) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-09 | Overpowered RC car + Gimbal Cam = The Greatest Chase Vehicle We’ve Ever Seen | Hackaday | [link](https://hackaday.com/2026/07/09/overpowered-rc-car-gimbal-cam-the-greatest-chase-vehicle-weve-ever-seen/) |
 | 2026-07-09 | Reviving Mystery Nintendo 64 Game Cartridge Found in the Woods | Hackaday | [link](https://hackaday.com/2026/07/09/reviving-mystery-nintendo-64-game-cartridge-found-in-the-woods/) |
 | 2026-07-09 | Get a Handle on This Compact Pi Portable | Hackaday | [link](https://hackaday.com/2026/07/09/get-a-handle-on-this-compact-pi-portable/) |
 | 2026-07-09 | A Brief History of the Crazy Old 7-Segment Display | Hackaday | [link](https://hackaday.com/2026/07/09/a-brief-history-of-the-crazy-old-7-segment-display/) |
 | 2026-07-09 | Fixing a Dodgy Cheap Audio DAC | Hackaday | [link](https://hackaday.com/2026/07/09/fixing-a-dodgy-cheap-audio-dac/) |
 | 2026-07-09 | Die Casting Comes Home | Hackaday | [link](https://hackaday.com/2026/07/09/die-casting-comes-home/) |
 | 2026-07-09 | C64 Finally Gets the SRAM Corporate Wouldn’t Pay For | Hackaday | [link](https://hackaday.com/2026/07/08/c64-finally-gets-the-sram-corporate-wouldnt-pay-for/) |
-| 2026-07-09 | IBM Home Director: Home Automation in 1996 | Hackaday | [link](https://hackaday.com/2026/07/08/ibm-home-director-home-automation-in-1996/) |
 | 2026-07-09 | Makerfabs MaUWB for Home Assistant – An ESP32-S3 UWB module with PoE and enclosure | CNX Software | [link](https://www.cnx-software.com/2026/07/09/makerfabs-mauwb-for-home-assistant-an-esp32-s3-uwb-module-with-poe-and-enclosure/) |
 | 2026-07-09 | Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments | CNX Software | [link](https://www.cnx-software.com/2026/07/09/norik-systems-introduces-nrf9151-based-usb-dongle-for-dect-nr-deployments/) |
 | 2026-07-09 | eSOL Brings Game Engine Visualization to Industrial Embedded Development | Embedded.com | [link](https://www.embedded.com/esol-brings-game-engine-visualization-to-industrial-embedded-development/) |
@@ -77,6 +77,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-09 | hanangani/robotales-ckpts | 0 | 0 | [link](https://huggingface.co/hanangani/robotales-ckpts) |
+| 2026-07-09 | SeonghoonYu/RACE_Robotwin | 0 | 0 | [link](https://huggingface.co/SeonghoonYu/RACE_Robotwin) |
+| 2026-07-09 | dominicdx/my_robot_policy | 0 | 0 | [link](https://huggingface.co/dominicdx/my_robot_policy) |
 | 2026-07-09 | a5ilank/curious-robot | 0 | 0 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-07-09 | YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube) |
 | 2026-07-09 | SakikoTogawa/pi0_robotwin_lora-place_bread_basket-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_bread_basket-100-himaconpp_repo) |
@@ -84,23 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-09 | yuuu94/Qwen3-VL-OFT-Robotwin2 | 0 | 0 | [link](https://huggingface.co/yuuu94/Qwen3-VL-OFT-Robotwin2) |
 | 2026-07-09 | OpenWAM/SFT_Robot_Only_RoboTwin_Clean | 0 | 0 | [link](https://huggingface.co/OpenWAM/SFT_Robot_Only_RoboTwin_Clean) |
 | 2026-07-09 | aslivishaal/phi3_robotics_lora_v2 | 40 | 0 | [link](https://huggingface.co/aslivishaal/phi3_robotics_lora_v2) |
-| 2026-07-09 | Dexmal/DW05-Robotwin | 0 | 3 | [link](https://huggingface.co/Dexmal/DW05-Robotwin) |
-| 2026-07-09 | dajiangw/robot_learning_tutorial_act | 74 | 0 | [link](https://huggingface.co/dajiangw/robot_learning_tutorial_act) |
-| 2026-07-09 | ftvai/Fly-Ai-Robot | 0 | 0 | [link](https://huggingface.co/ftvai/Fly-Ai-Robot) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | mosaico-labs/mosaico | 887 | Python | 354.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | ros-claw/rosclaw | 158 | Python | 63.3 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63055 | Python | 25222.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63056 | Python | 25222.5 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15439 | C++ | 6175.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14140 | C++ | 5656.1 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11106 | Rust | 4442.5 | [link](https://github.com/rerun-io/rerun) |
-| earthtojake/text-to-cad | 7900 | JavaScript | 3160.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14141 | C++ | 5656.5 | [link](https://github.com/google-deepmind/mujoco) |
+| rerun-io/rerun | 11107 | Rust | 4442.9 | [link](https://github.com/rerun-io/rerun) |
+| earthtojake/text-to-cad | 7904 | JavaScript | 3161.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | RLinf/RLinf | 4062 | Python | 1624.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3835 | Rust | 1534.1 | [link](https://github.com/dora-rs/dora) |
-| datawhalechina/every-embodied | 2599 | Python | 1039.7 | [link](https://github.com/datawhalechina/every-embodied) |
+| datawhalechina/every-embodied | 2600 | Python | 1040.1 | [link](https://github.com/datawhalechina/every-embodied) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -124,7 +124,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-09 | Mistral AI unveils robot navigation model, accelerates physical AI push - CHOSUNBIZ - Chosunbiz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTFBhZkJIQUxkc19CdTE4T0FLSTViVHVXUF9XRWFlandXY2RGVkR1dWNaa3lsSWRoR0Nla01zQnpldlBoOWJQTDFmdUhBMlBZbVFqX1hRaUxhR3pPY2N0RkFfZ2V6aDBTc3g2SWdxOEd5Sl80dDVPOFVWNV9n0gGOAUFVX3lxTFBRYk44MVl6R1pEUjVfNm9OSVVNaDY5UnNrZ1ZWenVwVy05ZllXSWFTUV93blJ0RElMcHNGQkZXeXZ3SVVxamVyRWk4RW12eVZ0MFR0SWhtbkljSmxydDlCOWl0NFJveHRNa3JtdXlNOUlDM3pUWEFTU3dWeUM2dXlybUk4XzNjWEo5X1JpTGc?oc=5) |
 | 2026-07-09 | General Intuition just raised $320M on a thesis that sounds absurd — that video game data, not real robot telemetry, will produce the GPT of embodied AI - Silicon Canals | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelpEeVFMcnR5UHhTRmJDYmNzcmlGUTNZLVVDc2w5cThmcjV3ZXNGcm43b2IxMjBWZjdFWFB4OTRyQ3RVUzZPcWs3SkNsdjIxYWtfUjJMY05xYzdHNS1aZGEtWWFQaExpdEQtVFM1ZU5iMkpMT3NGNWhFbGhHZkE0MmVNeDRPa2cyd3p1aGJnVms1azhPUEt1cllYb0V6NGQzS1VZaWFTMVpxemNRR2FBMmRKNFd4TmpPRG1Ea1c5Vm00NzdJaWh5VUFYMWZ2WV9ZaXZWNUZTT3RQdGx2RXlRZHFHdVk1clBnSVdDdUFrODN3dUR1LVBQSHBSSm5fTWJUazlOckNlcHFuN0E?oc=5) |
 | 2026-07-09 | How Can Mistral's AI Transform Robot Navigation? - Analytics India Magazine | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2dRUnJ2TG5aazBHLVRhTW5Nay1LZ2NjSEoyLVE4Y1Z1aVhmb2VlNHFpM3JGUXJOcWJJU0dhb3d6bmw1ejVIaXpEc1U0cnNuc2FyZmZBazVRc2FiT3pMVUh6ZmVJZUpDdFVhUjZwd3VqV3JQcUJuLVFLaFhKZnNnbU5YblZXSWlJZmk1d3ZMQi1JbkhBX3pzR09SVmxhRi1GNVpQV3RmQVFuU01OSk5lbVNpQkRsTVZtS3hj?oc=5) |
-| 2026-07-09 | Ex-Tesla Optimus scientist unveils European humanoid robot startup - Moomoo | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijgNBVV95cUxNYUhyQkR0Y0VKZEZWSTl5UUNVT0ppSnNSUHkxSmZPWHRwYUQ0S0xDSHlmcUFpbXJ1bGhaR1VLXzNrd19sRi10ZTNnX0psVlIxdWlueW1kSExXZjlrUzV4RW9VQ3pBTWFCVGU0bnE1TVVnNjBiUENWRG1UU1RidUM5NXo2N3doU0J6WXQzWkZQVXpHYWgxY095NlN2VEVjcUZPUkt1dC1KbFd1OGZoM1FaOGNEWm00bXRNb2Vfd1lFUHhOdTJ5S1YyYVExQVVNZFdwLS0xNDBFSEhYQnA4MUNBQUhBcFhGd2xuNHVBZUJ5a2dkbDgxWmVhLUtuNnJ1ZExmdnBRbGZ0Sl9ueXZGOFpuWi1RX0d2VWE1YUQ3STluWkZzRjFDNDFiWHJGQjRMT01wRUgwODl2c0p3X2d5NmhDZkJDMGpPSk9zSVZlcGF3bEl4cldoODVudUpzM0l6UHdUVEk4U3dzVTlDUEtzajl4SUdGTFBVLTJoNlp1TnRSOFpUOW9wN2tDNDdhRkc1dw?oc=5) |
+| 2026-07-09 | Mitsubishi joins global robot race, plans to manufacture, deploy humanoid workers in 2027 - Automotive News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDZsb05XSXRXQ3pYMEhteGtIWkFSejR0d2ZKUHp2aWx4ME9BR3FiR0VjazAyRHVJV2xtRzJLSHY0WFJGMkZXRWg2dU0wLVlmOTdUZk1FVU5qLVZFMmdqVDg5amllSWR2ZDBsSGJHLXprRThtRmZ2UW10cTVXS2dOQ0t1azZMMDI0andUcmVQUHNCbkdxdGI0eTRFeHY?oc=5) |
 | 2026-07-09 | Mitsubishi Motors to make humanoid robots for its own auto factories - Nikkei Asia | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVdFYll0TUNjRFM3aEVhRVdZXzNERHpDR0ljVkhTRXdod1FISUdxaUNoamZoQVZCRmZpLUhMNVQydWlWakVsOGF1d3pQOXpJdk05dnVma2NTSktmQVpYT240aG5selA2SzRiN2FzZFh0dTBuRUhEV3Bwb1I0S2tsQVRyWlptLUE5dmJtSGxrVUZ3UmFkNXAweXhocDJqcTB3QmlaQzQ0Q0pDSFByWXZTNExB?oc=5) |
 | 2026-07-09 | Mitsubishi Motors to Mass-Produce AI-Powered Humanoid Robots by 2027 in Partnership with University of Tokyo Startup - finance.biggo.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE94akU1a2JJZkl0aFQ2MldoOWZHTUkyWkdiYkdxeEptR3loSGsxSGhPNlBvRjZUZUlKZ1l6NjVhZW1OVmpGeXBuMElpdDRIZll3Nm9tS0o0aXZpQk93N0JUcENmckFkQk1JUGVZelZSTzN1bUJEUkE?oc=5) |
 | 2026-07-08 | Mistral launches first robotics model in physical AI push - Reuters | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWEhvMGlyMXhJREFWZURld1hnTEJaMUpoeTA4d1pZQUQyQTNwZUhDOHE2SGJqTzJnZlNXelJTR2FDSGwtb00zRTlzZFlHVnh6dGp4X2s0dXhwd1V4S2JnWUw1cUY4Ylppd09nM21lQ1RfM0tIM1VmYjc3NlRGeDdSSUJmTDBqRGttZmxIemtSX2JVNTdFdm5vMktBVlNXMnB0?oc=5) |
