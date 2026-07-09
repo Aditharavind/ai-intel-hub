@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-09 11:51 UTC
+Last Updated: 2026-07-09 14:20 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-09 | Beyond da Vinci: Why versatile humanoid robots are the next frontier in surgery | Robotics Business Review | [link](https://www.therobotreport.com/beyond-da-vinci-why-versatile-humanoid-robots-are-next-frontier-surgery/) |
 | 2026-07-08 | ENCY Software and Stäubli Robotics partner to simplify robot programming | Robotics Business Review | [link](https://www.therobotreport.com/ency-software-staubli-robotics-partner-simplify-robot-programming/) |
 | 2026-07-08 | NVIDIA and Hugging Face bring new models and frameworks to LeRobot | Robotics Business Review | [link](https://www.therobotreport.com/nvidia-hugging-face-bring-new-models-frameworks-lerobot/) |
 | 2026-07-08 | Tickets, geofences, and 1M miles: The new reality of California AV compliance | Robotics Business Review | [link](https://www.therobotreport.com/tickets-geofences-1m-miles-new-reality-california-av-compliance/) |
@@ -44,21 +45,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-07 | ABB Robotics includes vSLAM navigation in F712 autonomous forklift | Robotics Business Review | [link](https://www.therobotreport.com/abb-robotics-includes-vslam-navigation-f712-autonomous-forklift/) |
 | 2026-07-07 | IEEE Honors Robotics Pioneer Toshio Fukuda | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/ieee-honors-toshio-fukuda) |
 | 2026-07-06 | RoboBusiness 2026 call for speakers closes soon | Robotics Business Review | [link](https://www.therobotreport.com/robobusiness-2026-opens-call-for-speakers/) |
-| 2026-07-06 | Quantum Systems raises $1.2B to expand drone production and deployments | Robotics Business Review | [link](https://www.therobotreport.com/quantum-systems-raises-1-2b-expand-drone-production-deployments/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-09 | A Brief History of the Crazy Old 7-Segment Display | Hackaday | [link](https://hackaday.com/2026/07/09/a-brief-history-of-the-crazy-old-7-segment-display/) |
 | 2026-07-09 | Fixing a Dodgy Cheap Audio DAC | Hackaday | [link](https://hackaday.com/2026/07/09/fixing-a-dodgy-cheap-audio-dac/) |
 | 2026-07-09 | Die Casting Comes Home | Hackaday | [link](https://hackaday.com/2026/07/09/die-casting-comes-home/) |
 | 2026-07-09 | C64 Finally Gets the SRAM Corporate Wouldn’t Pay For | Hackaday | [link](https://hackaday.com/2026/07/08/c64-finally-gets-the-sram-corporate-wouldnt-pay-for/) |
 | 2026-07-09 | IBM Home Director: Home Automation in 1996 | Hackaday | [link](https://hackaday.com/2026/07/08/ibm-home-director-home-automation-in-1996/) |
 | 2026-07-09 | Makerfabs MaUWB for Home Assistant – An ESP32-S3 UWB module with PoE and enclosure | CNX Software | [link](https://www.cnx-software.com/2026/07/09/makerfabs-mauwb-for-home-assistant-an-esp32-s3-uwb-module-with-poe-and-enclosure/) |
 | 2026-07-09 | Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments | CNX Software | [link](https://www.cnx-software.com/2026/07/09/norik-systems-introduces-nrf9151-based-usb-dongle-for-dect-nr-deployments/) |
-| 2026-07-09 | What caught your eye? Market forecasts, European strengths, Collins Aerospace | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-market-forecasts-european-strengths-collins-aerospace-2026-07/) |
-| 2026-07-09 | Collins opens UK Engineering Centre of Excellence in Wolverhampton | Electronics Weekly | [link](https://www.electronicsweekly.com/news/collins-opens-uk-engineering-centre-of-excellence-in-wolverhampton-2026-07/) |
-| 2026-07-09 | Wayve employees cash in shares worth $85m | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/wayve-employees-cash-in-shares-worth-85m-2026-07/) |
-| 2026-07-09 | Bullish Yole semi forecast at odds with Future Horizons | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/bullish-yole-semi-forecast-at-odds-with-future-horizons-2026-07/) |
+| 2026-07-09 | Edge Intelligence Redefines What SDVs Can Do | Embedded.com | [link](https://www.embedded.com/edge-intelligence-redefines-what-sdvs-can-do/) |
+| 2026-07-09 | Pool Noodle Master Sword #3DPrinting #3DThursday | Adafruit | [link](https://blog.adafruit.com/2026/07/09/pool-noodle-master-sword-3dprinting-3dthursday/) |
+| 2026-07-09 | Cyberdeck for Raspberry Pi Zero – 3.5″ Display Portable #3DPrinting #3DThursday | Adafruit | [link](https://blog.adafruit.com/2026/07/09/cyberdeck-for-raspberry-pi-zero-3-5-display-portable-3dprinting-3dthursday/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -78,6 +78,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-09 | a5ilank/curious-robot | 0 | 0 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-07-09 | SakikoTogawa/pi0_robotwin_lora-place_bread_basket-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_bread_basket-100-himaconpp_repo) |
 | 2026-07-09 | LohanTS/mon-model-robot-v7bis | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-model-robot-v7bis) |
 | 2026-07-09 | yuuu94/Qwen3-VL-OFT-Robotwin2 | 0 | 0 | [link](https://huggingface.co/yuuu94/Qwen3-VL-OFT-Robotwin2) |
 | 2026-07-09 | OpenWAM/SFT_Robot_Only_RoboTwin_Clean | 0 | 0 | [link](https://huggingface.co/OpenWAM/SFT_Robot_Only_RoboTwin_Clean) |
@@ -85,20 +86,19 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-09 | Dexmal/DW05-Robotwin | 0 | 2 | [link](https://huggingface.co/Dexmal/DW05-Robotwin) |
 | 2026-07-09 | dajiangw/robot_learning_tutorial_act | 74 | 0 | [link](https://huggingface.co/dajiangw/robot_learning_tutorial_act) |
 | 2026-07-09 | ftvai/Fly-Ai-Robot | 0 | 0 | [link](https://huggingface.co/ftvai/Fly-Ai-Robot) |
-| 2026-07-09 | Monita108/Multi_view_vla_mytask | 0 | 0 | [link](https://huggingface.co/Monita108/Multi_view_vla_mytask) |
 | 2026-07-09 | anhtld/vla | 0 | 3 | [link](https://huggingface.co/anhtld/vla) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| mosaico-labs/mosaico | 886 | Python | 354.5 | [link](https://github.com/mosaico-labs/mosaico) |
+| mosaico-labs/mosaico | 887 | Python | 354.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | ros-claw/rosclaw | 158 | Python | 63.3 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63051 | Python | 25220.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63053 | Python | 25221.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15438 | C++ | 6175.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14137 | C++ | 5654.9 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 11107 | Rust | 4442.9 | [link](https://github.com/rerun-io/rerun) |
-| earthtojake/text-to-cad | 7883 | JavaScript | 3153.3 | [link](https://github.com/earthtojake/text-to-cad) |
-| RLinf/RLinf | 4055 | Python | 1622.1 | [link](https://github.com/RLinf/RLinf) |
+| earthtojake/text-to-cad | 7889 | JavaScript | 3155.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| RLinf/RLinf | 4058 | Python | 1623.3 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3835 | Rust | 1534.1 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 2597 | Python | 1038.9 | [link](https://github.com/datawhalechina/every-embodied) |
 
@@ -125,8 +125,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-09 | General Intuition just raised $320M on a thesis that sounds absurd — that video game data, not real robot telemetry, will produce the GPT of embodied AI - Silicon Canals | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelpEeVFMcnR5UHhTRmJDYmNzcmlGUTNZLVVDc2w5cThmcjV3ZXNGcm43b2IxMjBWZjdFWFB4OTRyQ3RVUzZPcWs3SkNsdjIxYWtfUjJMY05xYzdHNS1aZGEtWWFQaExpdEQtVFM1ZU5iMkpMT3NGNWhFbGhHZkE0MmVNeDRPa2cyd3p1aGJnVms1azhPUEt1cllYb0V6NGQzS1VZaWFTMVpxemNRR2FBMmRKNFd4TmpPRG1Ea1c5Vm00NzdJaWh5VUFYMWZ2WV9ZaXZWNUZTT3RQdGx2RXlRZHFHdVk1clBnSVdDdUFrODN3dUR1LVBQSHBSSm5fTWJUazlOckNlcHFuN0E?oc=5) |
 | 2026-07-09 | Ex-Tesla Optimus scientist unveils European humanoid robot startup - Moomoo | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijgNBVV95cUxNYUhyQkR0Y0VKZEZWSTl5UUNVT0ppSnNSUHkxSmZPWHRwYUQ0S0xDSHlmcUFpbXJ1bGhaR1VLXzNrd19sRi10ZTNnX0psVlIxdWlueW1kSExXZjlrUzV4RW9VQ3pBTWFCVGU0bnE1TVVnNjBiUENWRG1UU1RidUM5NXo2N3doU0J6WXQzWkZQVXpHYWgxY095NlN2VEVjcUZPUkt1dC1KbFd1OGZoM1FaOGNEWm00bXRNb2Vfd1lFUHhOdTJ5S1YyYVExQVVNZFdwLS0xNDBFSEhYQnA4MUNBQUhBcFhGd2xuNHVBZUJ5a2dkbDgxWmVhLUtuNnJ1ZExmdnBRbGZ0Sl9ueXZGOFpuWi1RX0d2VWE1YUQ3STluWkZzRjFDNDFiWHJGQjRMT01wRUgwODl2c0p3X2d5NmhDZkJDMGpPSk9zSVZlcGF3bEl4cldoODVudUpzM0l6UHdUVEk4U3dzVTlDUEtzajl4SUdGTFBVLTJoNlp1TnRSOFpUOW9wN2tDNDdhRkc1dw?oc=5) |
 | 2026-07-08 | Mistral launches first robotics model in physical AI push - Reuters | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWEhvMGlyMXhJREFWZURld1hnTEJaMUpoeTA4d1pZQUQyQTNwZUhDOHE2SGJqTzJnZlNXelJTR2FDSGwtb00zRTlzZFlHVnh6dGp4X2s0dXhwd1V4S2JnWUw1cUY4Ylppd09nM21lQ1RfM0tIM1VmYjc3NlRGeDdSSUJmTDBqRGttZmxIemtSX2JVNTdFdm5vMktBVlNXMnB0?oc=5) |
-| 2026-07-08 | Mistral AI Releases Robotics Model to Support Physical AI Push - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLS1HS3l1by1iTTdJcExyZkR6MVRLa0YwcmJQbTZKem9PWDJYRlpoR25XdmZIU0xrWWZPMFMtUFN1bjlnZmlaVjFXcTA1RnZybEJHZ2FUMlp2Z3RCc0FBRlc0ZUhRcWhTZGNRREVfLUd0LWoyU0ZSZm82SVFuS2JUOVQ3WS1SSWpXb3B4NmlaZGJqYWxtSWU0dDVGX3JhTEZFUDZxTlVsN0pNbGtORFpxX2ZGQ05HdlZjS3NhbWZ2aGlHMHdGVW1XX0VpRkk1NlJVdmc?oc=5) |
 | 2026-07-08 | Industry Insights: This Week's Top Fundraising For Robotics, Physical AI, and Automation - A3 Association for Advancing Automation | physical ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkxlZTBSNU8tTmJlcjZpb19kNE5JUjZyZnBjQ1FWZ3dxYXUzU1hvRHp0R3d5OC1LeEt3SjF3Y0JYbWoxbDNNLXA4cGJZSFFMQWpzVlVYXzVGMGhVdmRhZFZCai1HdzBVYldMUGJRYWFDcUJhdnlMNmZyNFpWRHo4X3FpU3BhbGtxQTQ1TWtBeS02dkN2NXlYVUtTYVlsNlF5M205d3ZReEZESWFTMkVWM0VxbEdLMEc1czJBNkZB?oc=5) |
+| 2026-07-08 | Mistral AI Releases Robotics Model to Support Physical AI Push - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLS1HS3l1by1iTTdJcExyZkR6MVRLa0YwcmJQbTZKem9PWDJYRlpoR25XdmZIU0xrWWZPMFMtUFN1bjlnZmlaVjFXcTA1RnZybEJHZ2FUMlp2Z3RCc0FBRlc0ZUhRcWhTZGNRREVfLUd0LWoyU0ZSZm82SVFuS2JUOVQ3WS1SSWpXb3B4NmlaZGJqYWxtSWU0dDVGX3JhTEZFUDZxTlVsN0pNbGtORFpxX2ZGQ05HdlZjS3NhbWZ2aGlHMHdGVW1XX0VpRkk1NlJVdmc?oc=5) |
 | 2026-07-08 | Mistral launches its first robotics model, expanding into physical AI - The News International | physical ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRm9uQnNKM1Q1MlNJVU1JYmdEcnMzOS1QSFMyMVVIdThNTHE2RTNsZzJRVmRfcW9KOEdEanNlR0tBVzB6b3ozcmpSdWtEdlQ4cjlhQk8xMFdBWEtpQ3JKV29IUWNZNmhRbUpBQk9pVU1nMGctd2hlWkRwTGR3LUt1YTZBTS1QR3V3X25zRFJTWVYxRzdHeHkzUXA5QWxpVk5ZS3pQV2t2XzBFWmxqMVlj?oc=5) |
 | 2026-07-07 | HIVE brings in $15M to build physical AI for industrial machines - The Robot Report | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOWEyVzFrNUNpdUpKZEd6SXY2ckdTeVRlZUV3N3JwRHRmZmU2Yi1ueVEtT0ZXaEZjbTgwdlEwOThqak5pZHd4Y0x5amFfM0JzeFBTT0c1VlhIRHJEM2MzVk9TX1dadXhIUWc5bVVUeG13NlJpQk5BS1dIcFN6SDFzc2J6VnhJVmRjbmcxN2ZyYWV2T1NiMGlnQ05PNA?oc=5) |
 
