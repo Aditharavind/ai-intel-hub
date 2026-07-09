@@ -31,53 +31,53 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15438,
+    "stars": 15439,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-07-09",
     "topic": "robotics",
-    "score": 6175.3
+    "score": 6175.7
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14137,
+    "stars": 14139,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-07-09",
     "topic": "robotics",
-    "score": 5654.9
+    "score": 5655.7
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11107,
+    "stars": 11106,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-07-09",
     "topic": "robotics",
-    "score": 4442.9
+    "score": 4442.5
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 7889,
+    "stars": 7897,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-09",
     "topic": "robotics",
-    "score": 3155.7
+    "score": 3158.9
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4058,
+    "stars": 4060,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-07-09",
     "topic": "embodied-ai",
-    "score": 1623.3
+    "score": 1624.1
   },
   {
     "repo": "dora-rs/dora",
@@ -91,33 +91,33 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2597,
+    "stars": 2598,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-07-09",
     "topic": "embodied-ai",
-    "score": 1038.9
+    "score": 1039.3
   },
   {
     "repo": "flashrt-project/FlashRT",
-    "stars": 405,
+    "stars": 406,
     "language": "C++",
     "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
     "url": "https://github.com/flashrt-project/FlashRT",
     "date": "2026-07-09",
     "topic": "vla",
-    "score": 162.1
+    "score": 162.5
   },
   {
     "repo": "sou350121/VLA-Handbook",
-    "stars": 370,
+    "stars": 371,
     "language": "HTML",
     "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
     "url": "https://github.com/sou350121/VLA-Handbook",
     "date": "2026-07-09",
     "topic": "robot-learning",
-    "score": 148.1
+    "score": 148.5
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -148,6 +148,16 @@
     "date": "2026-07-09",
     "topic": "world-model",
     "score": 484.9
+  },
+  {
+    "repo": "thu-ml/Causal-Forcing",
+    "stars": 838,
+    "language": "Python",
+    "description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\" & Causal Forcing++",
+    "url": "https://github.com/thu-ml/Causal-Forcing",
+    "date": "2026-07-09",
+    "topic": "world-model",
+    "score": 335.3
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -181,13 +191,13 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7640,
+    "stars": 7641,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-07-09",
     "topic": "robot-learning",
-    "score": 3056.1
+    "score": 3056.5
   },
   {
     "repo": "Source-Robotics/MSG-compliant-AI-stepper-gripper",
@@ -211,13 +221,13 @@
   },
   {
     "repo": "awslabs/awsome-distributed-ai",
-    "stars": 454,
+    "stars": 455,
     "language": "Shell",
     "description": "Collection of best practices, reference architectures, model training examples and utilities to train large models on AWS. ",
     "url": "https://github.com/awslabs/awsome-distributed-ai",
     "date": "2026-07-08",
     "topic": "physical-ai",
-    "score": 181.7
+    "score": 182.1
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -271,33 +281,33 @@
   },
   {
     "repo": "copper-project/copper-rs",
-    "stars": 1384,
+    "stars": 1385,
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
     "date": "2026-07-07",
     "topic": "physical-ai",
-    "score": 553.7
+    "score": 554.1
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82354,
+    "stars": 82355,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 32941.7
+    "score": 32942.1
   },
   {
     "repo": "ARISE-Initiative/robosuite",
-    "stars": 2505,
+    "stars": 2506,
     "language": "Python",
     "description": "robosuite: A Modular Simulation Framework and Benchmark for Robot Learning",
     "url": "https://github.com/ARISE-Initiative/robosuite",
     "date": "2026-07-07",
     "topic": "robot-learning",
-    "score": 1002.1
+    "score": 1002.5
   },
   {
     "repo": "vikashplus/robohive",
@@ -331,13 +341,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30001,
+    "stars": 30004,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-07-06",
     "topic": "robotics",
-    "score": 12000.5
+    "score": 12001.7
   },
   {
     "repo": "kornia/kornia",
@@ -371,23 +381,23 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 2027,
+    "stars": 2028,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-07-06",
     "topic": "world-model",
-    "score": 810.9
+    "score": 811.3
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 1999,
+    "stars": 2008,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-07-06",
     "topic": "humanoid",
-    "score": 799.7
+    "score": 803.3
   },
   {
     "repo": "jackvial/lerobot-data-studio",
@@ -510,16 +520,6 @@
     "score": 18.1
   },
   {
-    "repo": "thu-ml/Causal-Forcing",
-    "stars": 838,
-    "language": "Python",
-    "description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\" & Causal Forcing++",
-    "url": "https://github.com/thu-ml/Causal-Forcing",
-    "date": "2026-06-29",
-    "topic": "world-model",
-    "score": 335.3
-  },
-  {
     "repo": "isri-aist/RoboManipBaselines",
     "stars": 383,
     "language": "Python",
@@ -551,13 +551,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2024,
+    "stars": 2025,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-26",
     "topic": "robot-learning",
-    "score": 809.7
+    "score": 810.1
   },
   {
     "repo": "mimic-video/mimic-video",
@@ -811,13 +811,13 @@
   },
   {
     "repo": "nasa-jpl/open-source-rover",
-    "stars": 9505,
+    "stars": 9506,
     "language": "Prolog",
     "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
     "url": "https://github.com/nasa-jpl/open-source-rover",
     "date": "2026-06-10",
     "topic": "robotics",
-    "score": 3802.1
+    "score": 3802.5
   },
   {
     "repo": "HCPLab-SYSU/Embodied_AI_Paper_List",

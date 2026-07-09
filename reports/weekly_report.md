@@ -1,33 +1,27 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-09 14:20 UTC
+Generated: 2026-07-09 17:10 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-07-08 | Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning | [link](https://arxiv.org/pdf/2607.07708v1) |
-| 2026-07-08 | Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence | [link](https://arxiv.org/pdf/2607.07675v1) |
-| 2026-07-08 | MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models | [link](https://arxiv.org/pdf/2607.07673v1) |
-| 2026-07-08 | Continuous and large-scale: ELEANOR, the soft architected arm inspired by the elephant trunk | [link](https://arxiv.org/pdf/2607.07622v1) |
-| 2026-07-08 | Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation | [link](https://arxiv.org/pdf/2607.07608v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82354 | 32941.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82355 | 32942.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63053 | 25221.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44208 | 17683.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30001 | 12000.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30004 | 12001.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15995 | 6398.1 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
+| nvidia/Cosmos3-Nano-Policy-DROID | 14015 | 4209.6 | [link](https://huggingface.co/nvidia/Cosmos3-Nano-Policy-DROID) |
 | IffYuan/Embodied-R1.5 | 988 | 296.5 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 312 | 95.9 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 299 | 91.6 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
 | BrinqAI/functiongemma-270m-physical-ai | 296 | 88.9 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
-| aslivishaal/robotics-phi35-mini-gguf | 168 | 50.5 | [link](https://huggingface.co/aslivishaal/robotics-phi35-mini-gguf) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -42,7 +36,7 @@ Generated: 2026-07-09 14:20 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-07-09 | Physical AI startup Hakimo raises $12 Mn - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTFBaVDNvVDhJajlhRXZaQ2hKemhRX2pIYl85bUE2Mkp0VkRmTXcyM3BBS09QX2o2dXRxRDUyVVVHdVRNS2JHY1JHT2QyMFNvVGNobld3Q0dYNUQ3OW5YWEwyQ0dBYzM2alNxY1N2bU9DVXZFWWlkeTl4ZkUzdE9oZG_SAX9BVV95cUxQWlQzb1Q4SWo5YUV2WkNoSnpoUV9qSGJfOW1BNjJKdFZEZk13MjNwQUtPUF9qNnV0cUQ1MlVVR3VUTUtiR2NSR09kMjBTb1RjaG5Xd0NHWDVENzluWFhMMkNHQWMzNmpTcWNTdm1PQ1V2RVlpZHk5eGZFM3RPaGRv?oc=5) |
+| 2026-07-09 | Physical AI Startup Hakimo Raises $12 Million in Growth Funding - Siliconindia | physical ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPd3QwYWFYSlpGVzJndGhod3JNQjE0dU54R3dyMVExV0E0dkFDZHQ0QXVOVUFlcmZCWnkwb0lvVFlKU01HejFRX2xuek5RcUZUWWs0YldmRV83dnhqdXpKU0pRa1NzNWM4UGJ5V3h3aDVkdklZNHJycTlKWGljVnBZUFFQeEtmNURVLTVVaTdFMmxVT1JiVHU5YTZPOFlWZXdUZFk2Y05OSmRrb0NfUWw3bjR3SUlvdmpHWEJTbUcxS3pGZWVTNXBkMFN6MA?oc=5) |
 | 2026-07-09 | Mistral AI unveils robot navigation model, accelerates physical AI push - CHOSUNBIZ - Chosunbiz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTFBhZkJIQUxkc19CdTE4T0FLSTViVHVXUF9XRWFlandXY2RGVkR1dWNaa3lsSWRoR0Nla01zQnpldlBoOWJQTDFmdUhBMlBZbVFqX1hRaUxhR3pPY2N0RkFfZ2V6aDBTc3g2SWdxOEd5Sl80dDVPOFVWNV9n0gGOAUFVX3lxTFBRYk44MVl6R1pEUjVfNm9OSVVNaDY5UnNrZ1ZWenVwVy05ZllXSWFTUV93blJ0RElMcHNGQkZXeXZ3SVVxamVyRWk4RW12eVZ0MFR0SWhtbkljSmxydDlCOWl0NFJveHRNa3JtdXlNOUlDM3pUWEFTU3dWeUM2dXlybUk4XzNjWEo5X1JpTGc?oc=5) |
-| 2026-07-09 | How Can Mistral's AI Transform Robot Navigation? - Analytics India Magazine | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2dRUnJ2TG5aazBHLVRhTW5Nay1LZ2NjSEoyLVE4Y1Z1aVhmb2VlNHFpM3JGUXJOcWJJU0dhb3d6bmw1ejVIaXpEc1U0cnNuc2FyZmZBazVRc2FiT3pMVUh6ZmVJZUpDdFVhUjZwd3VqV3JQcUJuLVFLaFhKZnNnbU5YblZXSWlJZmk1d3ZMQi1JbkhBX3pzR09SVmxhRi1GNVpQV3RmQVFuU01OSk5lbVNpQkRsTVZtS3hj?oc=5) |
 | 2026-07-09 | General Intuition just raised $320M on a thesis that sounds absurd — that video game data, not real robot telemetry, will produce the GPT of embodied AI - Silicon Canals | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelpEeVFMcnR5UHhTRmJDYmNzcmlGUTNZLVVDc2w5cThmcjV3ZXNGcm43b2IxMjBWZjdFWFB4OTRyQ3RVUzZPcWs3SkNsdjIxYWtfUjJMY05xYzdHNS1aZGEtWWFQaExpdEQtVFM1ZU5iMkpMT3NGNWhFbGhHZkE0MmVNeDRPa2cyd3p1aGJnVms1azhPUEt1cllYb0V6NGQzS1VZaWFTMVpxemNRR2FBMmRKNFd4TmpPRG1Ea1c5Vm00NzdJaWh5VUFYMWZ2WV9ZaXZWNUZTT3RQdGx2RXlRZHFHdVk1clBnSVdDdUFrODN3dUR1LVBQSHBSSm5fTWJUazlOckNlcHFuN0E?oc=5) |
-| 2026-07-09 | Ex-Tesla Optimus scientist unveils European humanoid robot startup - Moomoo | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijgNBVV95cUxNYUhyQkR0Y0VKZEZWSTl5UUNVT0ppSnNSUHkxSmZPWHRwYUQ0S0xDSHlmcUFpbXJ1bGhaR1VLXzNrd19sRi10ZTNnX0psVlIxdWlueW1kSExXZjlrUzV4RW9VQ3pBTWFCVGU0bnE1TVVnNjBiUENWRG1UU1RidUM5NXo2N3doU0J6WXQzWkZQVXpHYWgxY095NlN2VEVjcUZPUkt1dC1KbFd1OGZoM1FaOGNEWm00bXRNb2Vfd1lFUHhOdTJ5S1YyYVExQVVNZFdwLS0xNDBFSEhYQnA4MUNBQUhBcFhGd2xuNHVBZUJ5a2dkbDgxWmVhLUtuNnJ1ZExmdnBRbGZ0Sl9ueXZGOFpuWi1RX0d2VWE1YUQ3STluWkZzRjFDNDFiWHJGQjRMT01wRUgwODl2c0p3X2d5NmhDZkJDMGpPSk9zSVZlcGF3bEl4cldoODVudUpzM0l6UHdUVEk4U3dzVTlDUEtzajl4SUdGTFBVLTJoNlp1TnRSOFpUOW9wN2tDNDdhRkc1dw?oc=5) |
+| 2026-07-09 | How Can Mistral's AI Transform Robot Navigation? - Analytics India Magazine | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2dRUnJ2TG5aazBHLVRhTW5Nay1LZ2NjSEoyLVE4Y1Z1aVhmb2VlNHFpM3JGUXJOcWJJU0dhb3d6bmw1ejVIaXpEc1U0cnNuc2FyZmZBazVRc2FiT3pMVUh6ZmVJZUpDdFVhUjZwd3VqV3JQcUJuLVFLaFhKZnNnbU5YblZXSWlJZmk1d3ZMQi1JbkhBX3pzR09SVmxhRi1GNVpQV3RmQVFuU01OSk5lbVNpQkRsTVZtS3hj?oc=5) |

@@ -9,6 +9,15 @@
     "score": 0.1
   },
   {
+    "model": "YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube",
+    "date": "2026-07-09",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "SakikoTogawa/pi0_robotwin_lora-place_bread_basket-100-himaconpp_repo",
     "downloads": 0,
     "likes": 0,
@@ -56,11 +65,11 @@
   {
     "model": "Dexmal/DW05-Robotwin",
     "downloads": 0,
-    "likes": 2,
+    "likes": 3,
     "url": "https://huggingface.co/Dexmal/DW05-Robotwin",
     "date": "2026-07-09",
     "keyword": "robot",
-    "score": 0.5
+    "score": 0.7
   },
   {
     "model": "dajiangw/robot_learning_tutorial_act",
@@ -78,6 +87,69 @@
     "url": "https://huggingface.co/ftvai/Fly-Ai-Robot",
     "date": "2026-07-09",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "helen9975/vla-jepa-molmoact-yam-3cam-unfrozen",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/helen9975/vla-jepa-molmoact-yam-3cam-unfrozen",
+    "date": "2026-07-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "ZhiyingDu/HiMoE-VLA-Libero-Object",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ZhiyingDu/HiMoE-VLA-Libero-Object",
+    "date": "2026-07-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "ZhiyingDu/HiMoE-VLA-Libero-Goal",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ZhiyingDu/HiMoE-VLA-Libero-Goal",
+    "date": "2026-07-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "ZhiyingDu/HiMoE-VLA-Libero-10",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ZhiyingDu/HiMoE-VLA-Libero-10",
+    "date": "2026-07-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "ZhiyingDu/HiMoE-VLA-CALVIN-D",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ZhiyingDu/HiMoE-VLA-CALVIN-D",
+    "date": "2026-07-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "ZhiyingDu/HiMoE-VLA-Base",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ZhiyingDu/HiMoE-VLA-Base",
+    "date": "2026-07-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "ZhiyingDu/HiMoE-VLA-Libero-Spatial",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ZhiyingDu/HiMoE-VLA-Libero-Spatial",
+    "date": "2026-07-09",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -126,12 +198,39 @@
     "score": 0.1
   },
   {
-    "model": "zaowu/vla-jepa-so101-full-finetune",
+    "model": "nvidia/Cosmos3-Nano-Policy-DROID",
+    "downloads": 14015,
+    "likes": 25,
+    "url": "https://huggingface.co/nvidia/Cosmos3-Nano-Policy-DROID",
+    "date": "2026-07-09",
+    "keyword": "policy",
+    "score": 4209.6
+  },
+  {
+    "model": "MichaelHui/my_policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/zaowu/vla-jepa-so101-full-finetune",
+    "url": "https://huggingface.co/MichaelHui/my_policy",
     "date": "2026-07-09",
-    "keyword": "vla",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Lucie-inbolt/test_push_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Lucie-inbolt/test_push_policy",
+    "date": "2026-07-09",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ahmedaali/so101_act_policy_v4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ahmedaali/so101_act_policy_v4",
+    "date": "2026-07-09",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -207,42 +306,6 @@
     "score": 0.1
   },
   {
-    "model": "ahmedaali/so101_act_policy_v3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ahmedaali/so101_act_policy_v3",
-    "date": "2026-07-09",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "kobayashi1225/my_policy_record_test_6",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kobayashi1225/my_policy_record_test_6",
-    "date": "2026-07-09",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "fedemartino/my_policy_50",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/fedemartino/my_policy_50",
-    "date": "2026-07-09",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Rowaida-Ali/trufus-wrapping-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Rowaida-Ali/trufus-wrapping-policy",
-    "date": "2026-07-09",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "qualia-robotics/pi05-qualia-sock-purple-orange-green-fea96a56",
     "downloads": 30,
     "likes": 0,
@@ -259,69 +322,6 @@
     "date": "2026-07-08",
     "keyword": "robotics",
     "score": 11.5
-  },
-  {
-    "model": "pollen-robotics/pick_can_200_smooth_diffusion_a10g-best",
-    "downloads": 29,
-    "likes": 0,
-    "url": "https://huggingface.co/pollen-robotics/pick_can_200_smooth_diffusion_a10g-best",
-    "date": "2026-07-08",
-    "keyword": "robotics",
-    "score": 8.8
-  },
-  {
-    "model": "s1ghhh/vla_adapter_spatial",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/vla_adapter_spatial",
-    "date": "2026-07-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "zaowu/vla-jepa-so101-finetune",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/zaowu/vla-jepa-so101-finetune",
-    "date": "2026-07-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "HarrisonPENG/M2W-VLA-LIBERO",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-LIBERO",
-    "date": "2026-07-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "yuuu94/M2W-VLA",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/yuuu94/M2W-VLA",
-    "date": "2026-07-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "dawity/vla_jepa_omx",
-    "downloads": 69,
-    "likes": 0,
-    "url": "https://huggingface.co/dawity/vla_jepa_omx",
-    "date": "2026-07-08",
-    "keyword": "vla",
-    "score": 20.8
-  },
-  {
-    "model": "kevinqz/LingBot-VLA-2.0-CoreAI",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kevinqz/LingBot-VLA-2.0-CoreAI",
-    "date": "2026-07-08",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "lamamkh/push-cube-wasd-worldmodel-weights",
@@ -349,6 +349,15 @@
     "date": "2026-07-08",
     "keyword": "navigation",
     "score": 4.6
+  },
+  {
+    "model": "pollen-robotics/pick_can_200_smooth_diffusion_a10g-best",
+    "downloads": 29,
+    "likes": 0,
+    "url": "https://huggingface.co/pollen-robotics/pick_can_200_smooth_diffusion_a10g-best",
+    "date": "2026-07-08",
+    "keyword": "robotics",
+    "score": 8.8
   },
   {
     "model": "pollen-robotics/pick_can_200_smooth_diffusion_a10g",
