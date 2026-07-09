@@ -1,14 +1,15 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-09 17:10 UTC
+Last Updated: 2026-07-09 19:15 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
-| 2026-07-09 | GPT-5.6: Frontier intelligence that scales with your ambition | OpenAI | [link](https://openai.com/index/gpt-5-6) |
 | 2026-07-09 | ChatGPT is now a partner for your most ambitious work | OpenAI | [link](https://openai.com/index/chatgpt-for-your-most-ambitious-work) |
+| 2026-07-09 | GPT-5.5 Bio Bug Bounty | OpenAI | [link](https://openai.com/index/bio-bug-bounty) |
+| 2026-07-09 | GPT-5.6: Frontier intelligence that scales with your ambition | OpenAI | [link](https://openai.com/index/gpt-5-6) |
 | 2026-07-08 | Our approach to government and national security partnerships | OpenAI | [link](https://openai.com/index/government-national-security-partnerships) |
 | 2026-07-08 | Separating signal from noise in coding evaluations | OpenAI | [link](https://openai.com/index/separating-signal-from-noise-coding-evaluations) |
 | 2026-07-08 | Helping K–12 educators build practical AI skills | OpenAI | [link](https://openai.com/index/k-12-educators-practical-skills) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-08 | NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness | NVIDIA AI | [link](https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/) |
 | 2026-07-08 | Data for Agents | Hugging Face | [link](https://huggingface.co/blog/nvidia/open-data-for-agents) |
 | 2026-07-08 | Native-speed vLLM transformers modeling backend | Hugging Face | [link](https://huggingface.co/blog/native-speed-vllm-transformers-backend) |
-| 2026-07-07 | Australian Payments Plus moves faster with ChatGPT and Codex | OpenAI | [link](https://openai.com/index/australian-payments-plus) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -37,6 +37,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-09 | Beyond da Vinci: Why versatile humanoid robots are the next frontier in surgery | Robotics Business Review | [link](https://www.therobotreport.com/beyond-da-vinci-why-versatile-humanoid-robots-are-next-frontier-surgery/) |
 | 2026-07-09 | Rollon launches two telescopic rails with integrated magnets | Robotics Business Review | [link](https://www.therobotreport.com/rollon-launches-two-telescopic-rails-integrated-magnets/) |
+| 2026-07-09 | Calling all robotics startups: apply to RoboBusiness Startup Alley | Robotics Business Review | [link](https://www.therobotreport.com/calling-all-robotics-startups-apply-to-robobusiness-startup-alley/) |
 | 2026-07-08 | ENCY Software and Stäubli Robotics partner to simplify robot programming | Robotics Business Review | [link](https://www.therobotreport.com/ency-software-staubli-robotics-partner-simplify-robot-programming/) |
 | 2026-07-08 | NVIDIA and Hugging Face bring new models and frameworks to LeRobot | Robotics Business Review | [link](https://www.therobotreport.com/nvidia-hugging-face-bring-new-models-frameworks-lerobot/) |
 | 2026-07-08 | Tickets, geofences, and 1M miles: The new reality of California AV compliance | Robotics Business Review | [link](https://www.therobotreport.com/tickets-geofences-1m-miles-new-reality-california-av-compliance/) |
@@ -44,11 +45,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-07 | Tesollo initiates IPO process while developing humanoid hands | Robotics Business Review | [link](https://www.therobotreport.com/tesollo-initiates-ipo-process-developing-humanoid-hands/) |
 | 2026-07-07 | HIVE brings in $15M to build physical AI for industrial machines | Robotics Business Review | [link](https://www.therobotreport.com/hive-brings-in-15m-to-build-physical-ai-for-industrial-machines/) |
 | 2026-07-07 | ABB Robotics includes vSLAM navigation in F712 autonomous forklift | Robotics Business Review | [link](https://www.therobotreport.com/abb-robotics-includes-vslam-navigation-f712-autonomous-forklift/) |
-| 2026-07-07 | IEEE Honors Robotics Pioneer Toshio Fukuda | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/ieee-honors-toshio-fukuda) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-09 | Reviving Mystery Nintendo 64 Game Cartridge Found in the Woods | Hackaday | [link](https://hackaday.com/2026/07/09/reviving-mystery-nintendo-64-game-cartridge-found-in-the-woods/) |
 | 2026-07-09 | Get a Handle on This Compact Pi Portable | Hackaday | [link](https://hackaday.com/2026/07/09/get-a-handle-on-this-compact-pi-portable/) |
 | 2026-07-09 | A Brief History of the Crazy Old 7-Segment Display | Hackaday | [link](https://hackaday.com/2026/07/09/a-brief-history-of-the-crazy-old-7-segment-display/) |
 | 2026-07-09 | Fixing a Dodgy Cheap Audio DAC | Hackaday | [link](https://hackaday.com/2026/07/09/fixing-a-dodgy-cheap-audio-dac/) |
@@ -58,10 +59,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-09 | Makerfabs MaUWB for Home Assistant – An ESP32-S3 UWB module with PoE and enclosure | CNX Software | [link](https://www.cnx-software.com/2026/07/09/makerfabs-mauwb-for-home-assistant-an-esp32-s3-uwb-module-with-poe-and-enclosure/) |
 | 2026-07-09 | Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments | CNX Software | [link](https://www.cnx-software.com/2026/07/09/norik-systems-introduces-nrf9151-based-usb-dongle-for-dect-nr-deployments/) |
 | 2026-07-09 | eSOL Brings Game Engine Visualization to Industrial Embedded Development | Embedded.com | [link](https://www.embedded.com/esol-brings-game-engine-visualization-to-industrial-embedded-development/) |
-| 2026-07-09 | Edge Intelligence Redefines What SDVs Can Do | Embedded.com | [link](https://www.embedded.com/edge-intelligence-redefines-what-sdvs-can-do/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-07-08 | Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning | [link](https://arxiv.org/pdf/2607.07708v1) |
+| 2026-07-08 | Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence | [link](https://arxiv.org/pdf/2607.07675v1) |
+| 2026-07-08 | MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models | [link](https://arxiv.org/pdf/2607.07673v1) |
+| 2026-07-08 | Continuous and large-scale: ELEANOR, the soft architected arm inspired by the elephant trunk | [link](https://arxiv.org/pdf/2607.07622v1) |
+| 2026-07-08 | Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation | [link](https://arxiv.org/pdf/2607.07608v1) |
+| 2026-07-08 | MLIP Studio: An Open Platform for Interactive Benchmarking and Atomistic Simulations Using Machine Learning Interatomic Potentials | [link](https://arxiv.org/pdf/2607.07606v1) |
+| 2026-07-08 | CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Autonomous Driving Corner-Case Synthesis | [link](https://arxiv.org/pdf/2607.07601v1) |
+| 2026-07-08 | Context-Aware Force Estimation for Deformable Tool Manipulation in Robotic Environmental Swabbing via Few-Shot Continual Adaptation | [link](https://arxiv.org/pdf/2607.07574v1) |
+| 2026-07-08 | SonoRank: Towards Calibration-Free Real-Time Finger Flexion Detection from Forearm Ultrasound Sequences | [link](https://arxiv.org/pdf/2607.07542v1) |
+| 2026-07-08 | Infinite Worlds with Versatile Interactions | [link](https://arxiv.org/pdf/2607.07534v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
@@ -82,14 +93,14 @@ _No items collected yet._
 | --- | --- | --- | --- | --- |
 | mosaico-labs/mosaico | 887 | Python | 354.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | ros-claw/rosclaw | 158 | Python | 63.3 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63053 | Python | 25221.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63055 | Python | 25222.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15439 | C++ | 6175.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14139 | C++ | 5655.7 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14140 | C++ | 5656.1 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 11106 | Rust | 4442.5 | [link](https://github.com/rerun-io/rerun) |
-| earthtojake/text-to-cad | 7897 | JavaScript | 3158.9 | [link](https://github.com/earthtojake/text-to-cad) |
-| RLinf/RLinf | 4060 | Python | 1624.1 | [link](https://github.com/RLinf/RLinf) |
+| earthtojake/text-to-cad | 7900 | JavaScript | 3160.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| RLinf/RLinf | 4062 | Python | 1624.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3835 | Rust | 1534.1 | [link](https://github.com/dora-rs/dora) |
-| datawhalechina/every-embodied | 2598 | Python | 1039.3 | [link](https://github.com/datawhalechina/every-embodied) |
+| datawhalechina/every-embodied | 2599 | Python | 1039.7 | [link](https://github.com/datawhalechina/every-embodied) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -114,10 +125,10 @@ _No items collected yet._
 | 2026-07-09 | General Intuition just raised $320M on a thesis that sounds absurd — that video game data, not real robot telemetry, will produce the GPT of embodied AI - Silicon Canals | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelpEeVFMcnR5UHhTRmJDYmNzcmlGUTNZLVVDc2w5cThmcjV3ZXNGcm43b2IxMjBWZjdFWFB4OTRyQ3RVUzZPcWs3SkNsdjIxYWtfUjJMY05xYzdHNS1aZGEtWWFQaExpdEQtVFM1ZU5iMkpMT3NGNWhFbGhHZkE0MmVNeDRPa2cyd3p1aGJnVms1azhPUEt1cllYb0V6NGQzS1VZaWFTMVpxemNRR2FBMmRKNFd4TmpPRG1Ea1c5Vm00NzdJaWh5VUFYMWZ2WV9ZaXZWNUZTT3RQdGx2RXlRZHFHdVk1clBnSVdDdUFrODN3dUR1LVBQSHBSSm5fTWJUazlOckNlcHFuN0E?oc=5) |
 | 2026-07-09 | How Can Mistral's AI Transform Robot Navigation? - Analytics India Magazine | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2dRUnJ2TG5aazBHLVRhTW5Nay1LZ2NjSEoyLVE4Y1Z1aVhmb2VlNHFpM3JGUXJOcWJJU0dhb3d6bmw1ejVIaXpEc1U0cnNuc2FyZmZBazVRc2FiT3pMVUh6ZmVJZUpDdFVhUjZwd3VqV3JQcUJuLVFLaFhKZnNnbU5YblZXSWlJZmk1d3ZMQi1JbkhBX3pzR09SVmxhRi1GNVpQV3RmQVFuU01OSk5lbVNpQkRsTVZtS3hj?oc=5) |
 | 2026-07-09 | Ex-Tesla Optimus scientist unveils European humanoid robot startup - Moomoo | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijgNBVV95cUxNYUhyQkR0Y0VKZEZWSTl5UUNVT0ppSnNSUHkxSmZPWHRwYUQ0S0xDSHlmcUFpbXJ1bGhaR1VLXzNrd19sRi10ZTNnX0psVlIxdWlueW1kSExXZjlrUzV4RW9VQ3pBTWFCVGU0bnE1TVVnNjBiUENWRG1UU1RidUM5NXo2N3doU0J6WXQzWkZQVXpHYWgxY095NlN2VEVjcUZPUkt1dC1KbFd1OGZoM1FaOGNEWm00bXRNb2Vfd1lFUHhOdTJ5S1YyYVExQVVNZFdwLS0xNDBFSEhYQnA4MUNBQUhBcFhGd2xuNHVBZUJ5a2dkbDgxWmVhLUtuNnJ1ZExmdnBRbGZ0Sl9ueXZGOFpuWi1RX0d2VWE1YUQ3STluWkZzRjFDNDFiWHJGQjRMT01wRUgwODl2c0p3X2d5NmhDZkJDMGpPSk9zSVZlcGF3bEl4cldoODVudUpzM0l6UHdUVEk4U3dzVTlDUEtzajl4SUdGTFBVLTJoNlp1TnRSOFpUOW9wN2tDNDdhRkc1dw?oc=5) |
+| 2026-07-09 | Mitsubishi Motors to make humanoid robots for its own auto factories - Nikkei Asia | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVdFYll0TUNjRFM3aEVhRVdZXzNERHpDR0ljVkhTRXdod1FISUdxaUNoamZoQVZCRmZpLUhMNVQydWlWakVsOGF1d3pQOXpJdk05dnVma2NTSktmQVpYT240aG5selA2SzRiN2FzZFh0dTBuRUhEV3Bwb1I0S2tsQVRyWlptLUE5dmJtSGxrVUZ3UmFkNXAweXhocDJqcTB3QmlaQzQ0Q0pDSFByWXZTNExB?oc=5) |
+| 2026-07-09 | Mitsubishi Motors to Mass-Produce AI-Powered Humanoid Robots by 2027 in Partnership with University of Tokyo Startup - finance.biggo.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE94akU1a2JJZkl0aFQ2MldoOWZHTUkyWkdiYkdxeEptR3loSGsxSGhPNlBvRjZUZUlKZ1l6NjVhZW1OVmpGeXBuMElpdDRIZll3Nm9tS0o0aXZpQk93N0JUcENmckFkQk1JUGVZelZSTzN1bUJEUkE?oc=5) |
 | 2026-07-08 | Mistral launches first robotics model in physical AI push - Reuters | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWEhvMGlyMXhJREFWZURld1hnTEJaMUpoeTA4d1pZQUQyQTNwZUhDOHE2SGJqTzJnZlNXelJTR2FDSGwtb00zRTlzZFlHVnh6dGp4X2s0dXhwd1V4S2JnWUw1cUY4Ylppd09nM21lQ1RfM0tIM1VmYjc3NlRGeDdSSUJmTDBqRGttZmxIemtSX2JVNTdFdm5vMktBVlNXMnB0?oc=5) |
 | 2026-07-08 | Industry Insights: This Week's Top Fundraising For Robotics, Physical AI, and Automation - A3 Association for Advancing Automation | physical ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkxlZTBSNU8tTmJlcjZpb19kNE5JUjZyZnBjQ1FWZ3dxYXUzU1hvRHp0R3d5OC1LeEt3SjF3Y0JYbWoxbDNNLXA4cGJZSFFMQWpzVlVYXzVGMGhVdmRhZFZCai1HdzBVYldMUGJRYWFDcUJhdnlMNmZyNFpWRHo4X3FpU3BhbGtxQTQ1TWtBeS02dkN2NXlYVUtTYVlsNlF5M205d3ZReEZESWFTMkVWM0VxbEdLMEc1czJBNkZB?oc=5) |
-| 2026-07-08 | Mistral AI Releases Robotics Model to Support Physical AI Push - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWVqM2VWMGItbDI3UkVockIzVVR3eFRYMzJSVHRKbTg0ZjIwVHYxSFBERXN5V3hJOWtJZG9VbkJsdzZoTW1rWWZpOEdfSkowTEpoZlpZOGloZUwwbVRndi1ia0g1ZGhmMHNBMHVDaHFwM29LYzMzVXo2UnhjLWs5b0V3NXU0ek5PSGJrN1VMa0lSNVNpVTN5MWRERkt3Z1NIdlVTaFc1dDQxdVBMX0lCbE9WSQ?oc=5) |
-| 2026-07-08 | Mistral launches its first robotics model, expanding into physical AI - The News International | physical ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRm9uQnNKM1Q1MlNJVU1JYmdEcnMzOS1QSFMyMVVIdThNTHE2RTNsZzJRVmRfcW9KOEdEanNlR0tBVzB6b3ozcmpSdWtEdlQ4cjlhQk8xMFdBWEtpQ3JKV29IUWNZNmhRbUpBQk9pVU1nMGctd2hlWkRwTGR3LUt1YTZBTS1QR3V3X25zRFJTWVYxRzdHeHkzUXA5QWxpVk5ZS3pQV2t2XzBFWmxqMVlj?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

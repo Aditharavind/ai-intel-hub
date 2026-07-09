@@ -1,17 +1,23 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-09 17:10 UTC
+Generated: 2026-07-09 19:15 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-07-08 | Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning | [link](https://arxiv.org/pdf/2607.07708v1) |
+| 2026-07-08 | Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence | [link](https://arxiv.org/pdf/2607.07675v1) |
+| 2026-07-08 | MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models | [link](https://arxiv.org/pdf/2607.07673v1) |
+| 2026-07-08 | Continuous and large-scale: ELEANOR, the soft architected arm inspired by the elephant trunk | [link](https://arxiv.org/pdf/2607.07622v1) |
+| 2026-07-08 | Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation | [link](https://arxiv.org/pdf/2607.07608v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82355 | 32942.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63053 | 25221.3 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82356 | 32942.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63055 | 25222.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44208 | 17683.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30004 | 12001.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30005 | 12002.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 15995 | 6398.1 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
