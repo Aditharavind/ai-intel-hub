@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-10 21:46 UTC
+Last Updated: 2026-07-10 22:45 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -38,13 +38,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-10 | Ground Robots Inherit the Kill Zone | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/ukraine-ground-drones) |
 | 2026-07-10 | Video Friday: A World Cup for Robots | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robot-world-cup) |
 | 2026-07-10 | AI² Robotics raises $735M at $3B valuation for wheeled humanoid robots | Robotics Business Review | [link](https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/) |
+| 2026-07-10 | XTEND secures U.S. patent for autonomous navigation technology | Robotics Business Review | [link](https://www.therobotreport.com/xtend-secures-u-s-patent-autonomous-navigation-technology/) |
 | 2026-07-09 | Beyond da Vinci: Why versatile humanoid robots are the next frontier in surgery | Robotics Business Review | [link](https://www.therobotreport.com/beyond-da-vinci-why-versatile-humanoid-robots-are-next-frontier-surgery/) |
 | 2026-07-09 | Rollon launches two telescopic rails with integrated magnets | Robotics Business Review | [link](https://www.therobotreport.com/rollon-launches-two-telescopic-rails-integrated-magnets/) |
 | 2026-07-09 | Calling all robotics startups: apply to RoboBusiness Startup Alley | Robotics Business Review | [link](https://www.therobotreport.com/calling-all-robotics-startups-apply-to-robobusiness-startup-alley/) |
 | 2026-07-09 | ForSight Robotics’ road to performing a fully robotic cataract surgery | Robotics Business Review | [link](https://www.therobotreport.com/forsight-robotics-road-to-performing-a-fully-robotic-cataracts-surgery/) |
 | 2026-07-08 | ENCY Software and Stäubli Robotics partner to simplify robot programming | Robotics Business Review | [link](https://www.therobotreport.com/ency-software-staubli-robotics-partner-simplify-robot-programming/) |
 | 2026-07-08 | NVIDIA and Hugging Face bring new models and frameworks to LeRobot | Robotics Business Review | [link](https://www.therobotreport.com/nvidia-hugging-face-bring-new-models-frameworks-lerobot/) |
-| 2026-07-08 | Tickets, geofences, and 1M miles: The new reality of California AV compliance | Robotics Business Review | [link](https://www.therobotreport.com/tickets-geofences-1m-miles-new-reality-california-av-compliance/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-10 | OpenWAM/RoboTwin_DualSystem_JointSelfAttention_Vjepa21 | 0 | 0 | [link](https://huggingface.co/OpenWAM/RoboTwin_DualSystem_JointSelfAttention_Vjepa21) |
 | 2026-07-10 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
 | 2026-07-10 | YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube | 84 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube) |
 | 2026-07-10 | aslivishaal/phi3_robotics_lora_v2 | 93 | 0 | [link](https://huggingface.co/aslivishaal/phi3_robotics_lora_v2) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-10 | s1ghhh/VLADrop-pi05-RoboTwin-place-dual-shoes-drop12-gate | 0 | 0 | [link](https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-place-dual-shoes-drop12-gate) |
 | 2026-07-10 | s1ghhh/VLADrop-pi05-RoboTwin-move-playingcard-away-drop16-gate | 0 | 0 | [link](https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-move-playingcard-away-drop16-gate) |
 | 2026-07-10 | s1ghhh/VLADrop-pi05-RoboTwin-move-playingcard-away-drop12-gate | 0 | 0 | [link](https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-move-playingcard-away-drop12-gate) |
-| 2026-07-10 | s1ghhh/VLADrop-pi05-RoboTwin-move-playingcard-away-drop9-gate | 0 | 0 | [link](https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-move-playingcard-away-drop9-gate) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -99,7 +99,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | google-deepmind/mujoco | 14156 | C++ | 5662.5 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11273 | Python | 4509.3 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11115 | Rust | 4446.1 | [link](https://github.com/rerun-io/rerun) |
-| earthtojake/text-to-cad | 7960 | JavaScript | 3184.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 7962 | JavaScript | 3184.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | RLinf/RLinf | 4073 | Python | 1629.3 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
@@ -134,6 +134,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-10 | AI Data Operations Lead | Figure AI | San Jose | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
+| 2026-07-10 | Supplier Quality Engineer, BotQ | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4660300006) |
 | 2026-07-10 | Senior Manufacturing Test Engineer | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6113669004) |
 | 2026-07-10 | Senior Manufacturing Test Software Engineer | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6114083004) |
 | 2026-07-08 | NPI Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4627386006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-08 | Senior Counsel, Technology Transactions | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6110909004) |
 | 2026-07-07 | Staff Systems Integration Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6017810004) |
 | 2026-07-06 | Electrical Engineering Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4676467006) |
-| 2026-07-06 | Firmware Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
 
 ## Automation
 
