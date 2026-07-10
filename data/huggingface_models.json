@@ -1,5 +1,14 @@
 [
   {
+    "model": "YinonDouchan/mobile_robot_lift_env",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/YinonDouchan/mobile_robot_lift_env",
+    "date": "2026-07-10",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "SeonghoonYu/RACE_Robotwin",
     "downloads": 0,
     "likes": 0,
@@ -99,12 +108,12 @@
     "score": 0.1
   },
   {
-    "model": "s1ghhh/VLADrop-pi05-RoboTwin-turn-switch-baseline",
+    "model": "s1ghhh/VLADrop-pi05-LIBERO-keep2-action",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-turn-switch-baseline",
+    "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-LIBERO-keep2-action",
     "date": "2026-07-10",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -144,12 +153,30 @@
     "score": 0.1
   },
   {
-    "model": "s1ghhh/VLADrop-pi05-LIBERO-Plus-drop12-gate",
+    "model": "SEU-PAISys/Embodied.cpp",
+    "downloads": 100,
+    "likes": 4,
+    "url": "https://huggingface.co/SEU-PAISys/Embodied.cpp",
+    "date": "2026-07-10",
+    "keyword": "embodied",
+    "score": 30.9
+  },
+  {
+    "model": "ahmedaali/so101_act_policy_v5",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-LIBERO-Plus-drop12-gate",
+    "url": "https://huggingface.co/ahmedaali/so101_act_policy_v5",
     "date": "2026-07-10",
-    "keyword": "vla",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "pratushpapnai/policy_assistant",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pratushpapnai/policy_assistant",
+    "date": "2026-07-10",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -243,15 +270,6 @@
     "score": 7.9
   },
   {
-    "model": "gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-1600",
-    "downloads": 24,
-    "likes": 0,
-    "url": "https://huggingface.co/gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-1600",
-    "date": "2026-07-10",
-    "keyword": "policy",
-    "score": 7.3
-  },
-  {
     "model": "sharinka0715/Xiaomi_Robotics_1_RoboDojo",
     "downloads": 0,
     "likes": 0,
@@ -268,15 +286,6 @@
     "date": "2026-07-09",
     "keyword": "world model",
     "score": 0.1
-  },
-  {
-    "model": "somundane/act_pick_place_test_policy",
-    "downloads": 42,
-    "likes": 0,
-    "url": "https://huggingface.co/somundane/act_pick_place_test_policy",
-    "date": "2026-07-09",
-    "keyword": "policy",
-    "score": 12.7
   },
   {
     "model": "aslivishaal/phi3_robotics_lora_v2",
@@ -385,15 +394,6 @@
     "date": "2026-07-06",
     "keyword": "world model",
     "score": 0.1
-  },
-  {
-    "model": "SEU-PAISys/Embodied.cpp",
-    "downloads": 100,
-    "likes": 4,
-    "url": "https://huggingface.co/SEU-PAISys/Embodied.cpp",
-    "date": "2026-07-06",
-    "keyword": "embodied",
-    "score": 30.9
   },
   {
     "model": "aslivishaal/robotics-phi35-mini-gguf",
