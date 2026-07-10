@@ -1,5 +1,23 @@
 [
   {
+    "model": "YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube",
+    "downloads": 84,
+    "likes": 0,
+    "url": "https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube",
+    "date": "2026-07-10",
+    "keyword": "robot",
+    "score": 25.3
+  },
+  {
+    "model": "aslivishaal/phi3_robotics_lora_v2",
+    "downloads": 93,
+    "likes": 0,
+    "url": "https://huggingface.co/aslivishaal/phi3_robotics_lora_v2",
+    "date": "2026-07-10",
+    "keyword": "robotics",
+    "score": 28.0
+  },
+  {
     "model": "YinonDouchan/mobile_robot_lift_env",
     "downloads": 0,
     "likes": 0,
@@ -90,24 +108,6 @@
     "score": 0.1
   },
   {
-    "model": "s1ghhh/VLADrop-pi05-RoboTwin-turn-switch-drop16-gate",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-turn-switch-drop16-gate",
-    "date": "2026-07-10",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "s1ghhh/VLADrop-pi05-RoboTwin-turn-switch-drop9-gate",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-turn-switch-drop9-gate",
-    "date": "2026-07-10",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "s1ghhh/VLADrop-OpenVLA-OFT-LIBERO-extreme-action",
     "downloads": 0,
     "likes": 0,
@@ -187,6 +187,15 @@
     "date": "2026-07-10",
     "keyword": "embodied",
     "score": 30.9
+  },
+  {
+    "model": "meghaGenAI/northwind-hr-policy-dpo-merged",
+    "downloads": 36,
+    "likes": 0,
+    "url": "https://huggingface.co/meghaGenAI/northwind-hr-policy-dpo-merged",
+    "date": "2026-07-10",
+    "keyword": "policy",
+    "score": 10.9
   },
   {
     "model": "ahmedaali/so101_act_policy_v6",
@@ -288,15 +297,6 @@
     "score": 0.1
   },
   {
-    "model": "MakinoKF/pick-closest-lined-4bolt-dataset_act-policy-v1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MakinoKF/pick-closest-lined-4bolt-dataset_act-policy-v1",
-    "date": "2026-07-10",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "sharinka0715/Xiaomi_Robotics_1_RoboDojo",
     "downloads": 0,
     "likes": 0,
@@ -313,15 +313,6 @@
     "date": "2026-07-09",
     "keyword": "world model",
     "score": 0.1
-  },
-  {
-    "model": "aslivishaal/phi3_robotics_lora_v2",
-    "downloads": 93,
-    "likes": 0,
-    "url": "https://huggingface.co/aslivishaal/phi3_robotics_lora_v2",
-    "date": "2026-07-09",
-    "keyword": "robotics",
-    "score": 28.0
   },
   {
     "model": "lamamkh/push-cube-wasd-worldmodel-weights",

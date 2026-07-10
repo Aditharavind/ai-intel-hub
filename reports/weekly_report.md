@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-10 18:14 UTC
+Generated: 2026-07-10 20:10 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,9 +14,9 @@ Generated: 2026-07-10 18:14 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82380 | 32952.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63069 | 25227.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44214 | 17685.7 | [link](https://github.com/NaiboWang/EasySpider) |
+| Developer-Y/cs-video-courses | 82382 | 32952.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63070 | 25228.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44215 | 17686.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30014 | 12005.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16002 | 6400.9 | [link](https://github.com/zauberzeug/nicegui) |
 
@@ -33,10 +33,10 @@ Generated: 2026-07-10 18:14 UTC
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
 | 2026-07-08 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxNS056dHV6ZHBGUEVIZFVyNzNjdG5LVm16LURhY04ycXc3SmdZdktPTkJZWkZ4RWhIWUJvMG1Yb1BYb0psRVdMQS1kbTFERzRIRUtyb2p3TWpFSEdleHdKT2JONUNJWFQzWW9Wc0hOOFRvVFQ2eDdnd2E0V1pHemhzVElFQ1F3V1RZNjVZQ0JydDdBb3dvNDZwNUxR?oc=5) |
+| 2026-07-08 | LeRobot |  | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUjV4TUlCcWQ3MVZHSmE2VjFlYkJJeDQ3eEZpZXZNREhjM3BuOTNhRFJCNGQydG1RS3BOc2lubnNXcUtkeUNPLVVRbWkxa2FWTG15UGQwZkVadjhkN20yb1ZSOW9aZE1OYXZpWGJlZndPTXR4azlqdUp0bUNmeDM5eXFreE12SHJfaGdBME5LYmQ?oc=5) |
 | 2026-07-07 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxNOHh5SElCZGg0QV82Qk56ampQZDFwa1JqT3IxVFNMVzNMVWJRVFNhNlZvMUd6Vzl0dU0wOVJpYkJ3M3VEU08yTlFrSF9JS0RoUGROTkxWQWJZellHYmdkWjkzaGxqaV9GSDFZNDl5NlhWNGVTQVVLN2RVd2tFREJXbl9TajBWOEc0eF9MLWdR?oc=5) |
 | 2026-07-07 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMitgJBVV95cUxQdjdfLTBlbU4zUnJHSDRSWTU0R0R6STNDdVJET3hHWVJpR25PT2dYQnJzYWRna1pQeVdKYlRkZDRvTnlEWkY1NHA4bnpnblRWNVJFNHhUZUNQZktYUlJncTZNQmI3eTRjc2REc2VDOWdkSE93ZHRIcW1feGJUbDV5WGFEeTgwVjlURWF0bzV5SGxlZWZ4NWJZbTlianVqNjdTYWlHWFNyQy04eW81cGROQ3R2ZGJ4Z3RZYVh3b2l3NlZEQXlKZjFaN3FxVEdsWV9lNkp3d2R2ZVRGN19LRWpLWlNNLV9TYkNxMjMtSXEzUlJlbWJtZmVUZWw4T3Q5Q0s4cnZVbmhCcjVWcXpsYld6aVBCQmh6ZlNOZXlIVUJTa05aVVJLT3IwOTlKY0dNQ2RUZGF5TWVn?oc=5) |
 | 2026-07-07 | LeRobot |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzRyeF85c183eThYLXZWRXZQYlhlY1dtY3RGLTY4NDRmazV2d0lKUXZxa0owU0ctSkZiRGttdXkzRGJ4WkVmMTBfMTZqN0Zkbmpncl9ueWxzZXlqRURrOWJOTGU5NDF4Yk1pd0g5Y0JXWi16UHA4Y1RvTm9ndUJ5MTY2eGQtSFVUNFNGVzRqTm5Reml5dXZYRzdZOXVYSld4RjZKTnNaU2NfUlE2TWFMQWJOZC1GRy16WWIyekJqeXVHNlh2UzVVVQ?oc=5) |
-| 2026-07-06 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVnZ0b1ZINm9iN2hoTlNxQzFOcVF4Ym0wT2ZKcWRENzVNeGdkZXVPVjB6Q1VXT3NMU3NITG94aDhZM2loNC0zZ3JtN1RNbHMwLUg1Ui1US3daRkRxQk1oZjItNndsWjhES1h2UG1RS0s2WnpBT29KcTlkWkFnVU5LR1NBeUdsend2SG5kWWUxT19GNi1sQklITGY0MmRhc3VTdkpjQ2hOQ1d2WDMwaGZQTWNzLV9sZEVRNWlXaE52NHlaVEhXZk83X2pHUE5ZZUk5Sm9pYm5LVWZ0Zw?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
