@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-09 23:00 UTC
+Last Updated: 2026-07-10 00:04 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,44 +49,33 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-09 | Radio-Gaga is a Toddler Friendly Remote In a Radio | Hackaday | [link](https://hackaday.com/2026/07/09/radio-gaga-is-a-toddler-friendly-remote-in-a-radio/) |
 | 2026-07-09 | Overpowered RC car + Gimbal Cam = The Greatest Chase Vehicle We’ve Ever Seen | Hackaday | [link](https://hackaday.com/2026/07/09/overpowered-rc-car-gimbal-cam-the-greatest-chase-vehicle-weve-ever-seen/) |
 | 2026-07-09 | Reviving Mystery Nintendo 64 Game Cartridge Found in the Woods | Hackaday | [link](https://hackaday.com/2026/07/09/reviving-mystery-nintendo-64-game-cartridge-found-in-the-woods/) |
 | 2026-07-09 | Get a Handle on This Compact Pi Portable | Hackaday | [link](https://hackaday.com/2026/07/09/get-a-handle-on-this-compact-pi-portable/) |
 | 2026-07-09 | A Brief History of the Crazy Old 7-Segment Display | Hackaday | [link](https://hackaday.com/2026/07/09/a-brief-history-of-the-crazy-old-7-segment-display/) |
 | 2026-07-09 | Fixing a Dodgy Cheap Audio DAC | Hackaday | [link](https://hackaday.com/2026/07/09/fixing-a-dodgy-cheap-audio-dac/) |
 | 2026-07-09 | Die Casting Comes Home | Hackaday | [link](https://hackaday.com/2026/07/09/die-casting-comes-home/) |
-| 2026-07-09 | C64 Finally Gets the SRAM Corporate Wouldn’t Pay For | Hackaday | [link](https://hackaday.com/2026/07/08/c64-finally-gets-the-sram-corporate-wouldnt-pay-for/) |
 | 2026-07-09 | Makerfabs MaUWB for Home Assistant – An ESP32-S3 UWB module with PoE and enclosure | CNX Software | [link](https://www.cnx-software.com/2026/07/09/makerfabs-mauwb-for-home-assistant-an-esp32-s3-uwb-module-with-poe-and-enclosure/) |
 | 2026-07-09 | Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments | CNX Software | [link](https://www.cnx-software.com/2026/07/09/norik-systems-introduces-nrf9151-based-usb-dongle-for-dect-nr-deployments/) |
 | 2026-07-09 | eSOL Brings Game Engine Visualization to Industrial Embedded Development | Embedded.com | [link](https://www.embedded.com/esol-brings-game-engine-visualization-to-industrial-embedded-development/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-07-08 | Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning | [link](https://arxiv.org/pdf/2607.07708v1) |
-| 2026-07-08 | Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence | [link](https://arxiv.org/pdf/2607.07675v1) |
-| 2026-07-08 | MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models | [link](https://arxiv.org/pdf/2607.07673v1) |
-| 2026-07-08 | Continuous and large-scale: ELEANOR, the soft architected arm inspired by the elephant trunk | [link](https://arxiv.org/pdf/2607.07622v1) |
-| 2026-07-08 | Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation | [link](https://arxiv.org/pdf/2607.07608v1) |
-| 2026-07-08 | MLIP Studio: An Open Platform for Interactive Benchmarking and Atomistic Simulations Using Machine Learning Interatomic Potentials | [link](https://arxiv.org/pdf/2607.07606v1) |
-| 2026-07-08 | CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Autonomous Driving Corner-Case Synthesis | [link](https://arxiv.org/pdf/2607.07601v1) |
-| 2026-07-08 | Context-Aware Force Estimation for Deformable Tool Manipulation in Robotic Environmental Swabbing via Few-Shot Continual Adaptation | [link](https://arxiv.org/pdf/2607.07574v1) |
-| 2026-07-08 | SonoRank: Towards Calibration-Free Real-Time Finger Flexion Detection from Forearm Ultrasound Sequences | [link](https://arxiv.org/pdf/2607.07542v1) |
-| 2026-07-08 | Infinite Worlds with Versatile Interactions | [link](https://arxiv.org/pdf/2607.07534v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-09 | SeonghoonYu/RACE_Robotwin | 0 | 0 | [link](https://huggingface.co/SeonghoonYu/RACE_Robotwin) |
+| 2026-07-10 | RobotisSW/Task_900003_900004_Collect_PeanutMix_To_Box_1110_0708_0709_UKH_act_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900003_900004_Collect_PeanutMix_To_Box_1110_0708_0709_UKH_act_100k) |
 | 2026-07-09 | a5ilank/curious-robot | 0 | 0 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-07-09 | QRP123/robot8_20260709_head_right_act_dinov3_base_frozen_100k_640x480_crop2of3_20260709 | 0 | 0 | [link](https://huggingface.co/QRP123/robot8_20260709_head_right_act_dinov3_base_frozen_100k_640x480_crop2of3_20260709) |
+| 2026-07-09 | SeonghoonYu/RACE_Robotwin | 0 | 0 | [link](https://huggingface.co/SeonghoonYu/RACE_Robotwin) |
 | 2026-07-09 | QRP123/robot8_20260708_3cam_act_dinov3_base_frozen_100k_640x480_crop2of3_20260709 | 0 | 0 | [link](https://huggingface.co/QRP123/robot8_20260708_3cam_act_dinov3_base_frozen_100k_640x480_crop2of3_20260709) |
 | 2026-07-09 | hanangani/robotales-ckpts | 0 | 0 | [link](https://huggingface.co/hanangani/robotales-ckpts) |
 | 2026-07-09 | YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube) |
 | 2026-07-09 | dominicdx/my_robot_policy | 0 | 0 | [link](https://huggingface.co/dominicdx/my_robot_policy) |
 | 2026-07-09 | SakikoTogawa/pi0_robotwin_lora-place_bread_basket-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_bread_basket-100-himaconpp_repo) |
 | 2026-07-09 | LohanTS/mon-model-robot-v7bis | 0 | 0 | [link](https://huggingface.co/LohanTS/mon-model-robot-v7bis) |
-| 2026-07-09 | yuuu94/Qwen3-VL-OFT-Robotwin2 | 0 | 0 | [link](https://huggingface.co/yuuu94/Qwen3-VL-OFT-Robotwin2) |
-| 2026-07-09 | OpenWAM/SFT_Robot_Only_RoboTwin_Clean | 0 | 0 | [link](https://huggingface.co/OpenWAM/SFT_Robot_Only_RoboTwin_Clean) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,13 +83,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Edgenesis/shifu | 1423 | Go | 569.3 | [link](https://github.com/Edgenesis/shifu) |
 | mosaico-labs/mosaico | 887 | Python | 354.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | ros-claw/rosclaw | 158 | Python | 63.3 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63057 | Python | 25222.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63058 | Python | 25223.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15439 | C++ | 6175.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14142 | C++ | 5656.9 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 11107 | Rust | 4442.9 | [link](https://github.com/rerun-io/rerun) |
-| earthtojake/text-to-cad | 7905 | JavaScript | 3162.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 7907 | JavaScript | 3162.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | RLinf/RLinf | 4063 | Python | 1625.3 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3835 | Rust | 1534.1 | [link](https://github.com/dora-rs/dora) |
+| dora-rs/dora | 3836 | Rust | 1534.5 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

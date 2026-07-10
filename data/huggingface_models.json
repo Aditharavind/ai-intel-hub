@@ -1,10 +1,10 @@
 [
   {
-    "model": "SeonghoonYu/RACE_Robotwin",
+    "model": "RobotisSW/Task_900003_900004_Collect_PeanutMix_To_Box_1110_0708_0709_UKH_act_100k",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/SeonghoonYu/RACE_Robotwin",
-    "date": "2026-07-09",
+    "url": "https://huggingface.co/RobotisSW/Task_900003_900004_Collect_PeanutMix_To_Box_1110_0708_0709_UKH_act_100k",
+    "date": "2026-07-10",
     "keyword": "robot",
     "score": 0.1
   },
@@ -13,6 +13,24 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/a5ilank/curious-robot",
+    "date": "2026-07-09",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "QRP123/robot8_20260709_head_right_act_dinov3_base_frozen_100k_640x480_crop2of3_20260709",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/QRP123/robot8_20260709_head_right_act_dinov3_base_frozen_100k_640x480_crop2of3_20260709",
+    "date": "2026-07-09",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "SeonghoonYu/RACE_Robotwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SeonghoonYu/RACE_Robotwin",
     "date": "2026-07-09",
     "keyword": "robot",
     "score": 0.1
@@ -88,24 +106,6 @@
     "date": "2026-07-09",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "aslivishaal/phi3_robotics_lora_v2",
-    "downloads": 40,
-    "likes": 0,
-    "url": "https://huggingface.co/aslivishaal/phi3_robotics_lora_v2",
-    "date": "2026-07-09",
-    "keyword": "robotics",
-    "score": 12.1
-  },
-  {
-    "model": "Dexmal/DW05-Robotwin",
-    "downloads": 0,
-    "likes": 3,
-    "url": "https://huggingface.co/Dexmal/DW05-Robotwin",
-    "date": "2026-07-09",
-    "keyword": "robot",
-    "score": 0.7
   },
   {
     "model": "flashrt/flashrt-vla-video",
@@ -322,6 +322,15 @@
     "date": "2026-07-09",
     "keyword": "policy",
     "score": 0.1
+  },
+  {
+    "model": "aslivishaal/phi3_robotics_lora_v2",
+    "downloads": 40,
+    "likes": 0,
+    "url": "https://huggingface.co/aslivishaal/phi3_robotics_lora_v2",
+    "date": "2026-07-09",
+    "keyword": "robotics",
+    "score": 12.1
   },
   {
     "model": "lamamkh/push-cube-wasd-worldmodel-weights",
