@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-10 08:13 UTC
+Generated: 2026-07-10 11:39 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-07-10 08:13 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82366 | 32946.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63063 | 25225.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44210 | 17684.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30008 | 12003.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15998 | 6399.3 | [link](https://github.com/zauberzeug/nicegui) |
+| Developer-Y/cs-video-courses | 82369 | 32947.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63064 | 25225.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44212 | 17684.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30011 | 12004.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15999 | 6399.7 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| nvidia/Cosmos3-Nano-Policy-DROID | 14015 | 4209.6 | [link](https://huggingface.co/nvidia/Cosmos3-Nano-Policy-DROID) |
-| IffYuan/Embodied-R1.5 | 988 | 296.5 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
-| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 312 | 95.9 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
-| tencent/Hy-Embodied-0.5-VLA-UMI | 299 | 91.6 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
-| BrinqAI/functiongemma-270m-physical-ai | 296 | 88.9 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
+| IffYuan/Embodied-R1.5 | 1036 | 310.9 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
+| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 319 | 98.0 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
+| tencent/Hy-Embodied-0.5-VLA-UMI | 307 | 94.0 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
+| BrinqAI/functiongemma-270m-physical-ai | 300 | 90.1 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
+| aslivishaal/robotics-phi35-mini-gguf | 178 | 53.5 | [link](https://huggingface.co/aslivishaal/robotics-phi35-mini-gguf) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-07-10 08:13 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-10 | ‘Physical AI is Europe’s last chance to be useful to the world’ - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCRkdaWU95QUp1UkRnTVBicHlDTm05M0ZWeURLZHFrQ216ZWZsMFBfMWtOV2w1MUJoWG5Wb1g2NTcxMzM5V2FsSDEtdUJFbnQwbDRDQk5iMERvQQ?oc=5) |
 | 2026-07-10 | LG CNS partners with UK's PhysicsX to develop industrial AI model - The Korea Herald | physical ai startup | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHX01INnhzTXA1S3dlSFNRUl9jVEJlWUg2TjZuSkNGd3Rxdm1ONXg3YjgyR05FZ21fOEdPQkVvSGowMUU3aWVhdVEweVJpc0V4aWI1N2ptWQ?oc=5) |
 | 2026-07-10 | European startup unveils humanoid robot design, real-time learning system - digitimes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXE3bmNjWmRpb1liS0xjVHRhaDlsVFFreDU0dVhOUW1wNUtqZHF3VTdWQkpMSlFmdnRfclJwaVFNeXV5OTV1aUFqSC1ZNzk0eFp4Q3YycWZpcjZCZW52SEtRTnVkLWsyenZfbjd2cXNNbUJ0ZTFQUVg4Um9DWTNpZDlZdW5WUkp5a0cyS0hDWGd4Y0U?oc=5) |
 | 2026-07-09 | Mitsubishi Motors to Mass-Produce Domestic Physical AI: "Vertical Integration" with University of Tokyo Startup Highlanders, Targeting Monthly Output of 1,000 Units by 2027 - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9WQmxJODB3WlRsSkFYQnY4a21Eamg3eWNFeXZWNmhWY0IwZ0NlWHZfNHJndnpmZzNncTRwWE9OT1g0QXpTSGZPTDdPMlBzcEIwWjFPejNTNmNOMzhOV2RTQnlxcldPTDhJLWpweXdxR3V6ZVg0WUE?oc=5) |
 | 2026-07-09 | Physical AI startup Hakimo raises $12 Mn - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTFBaVDNvVDhJajlhRXZaQ2hKemhRX2pIYl85bUE2Mkp0VkRmTXcyM3BBS09QX2o2dXRxRDUyVVVHdVRNS2JHY1JHT2QyMFNvVGNobld3Q0dYNUQ3OW5YWEwyQ0dBYzM2alNxY1N2bU9DVXZFWWlkeTl4ZkUzdE9oZG_SAX9BVV95cUxQWlQzb1Q4SWo5YUV2WkNoSnpoUV9qSGJfOW1BNjJKdFZEZk13MjNwQUtPUF9qNnV0cUQ1MlVVR3VUTUtiR2NSR09kMjBTb1RjaG5Xd0NHWDVENzluWFhMMkNHQWMzNmpTcWNTdm1PQ1V2RVlpZHk5eGZFM3RPaGRv?oc=5) |
-| 2026-07-09 | General Intuition just raised $320M on a thesis that sounds absurd — that video game data, not real robot telemetry, will produce the GPT of embodied AI - Silicon Canals | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelpEeVFMcnR5UHhTRmJDYmNzcmlGUTNZLVVDc2w5cThmcjV3ZXNGcm43b2IxMjBWZjdFWFB4OTRyQ3RVUzZPcWs3SkNsdjIxYWtfUjJMY05xYzdHNS1aZGEtWWFQaExpdEQtVFM1ZU5iMkpMT3NGNWhFbGhHZkE0MmVNeDRPa2cyd3p1aGJnVms1azhPUEt1cllYb0V6NGQzS1VZaWFTMVpxemNRR2FBMmRKNFd4TmpPRG1Ea1c5Vm00NzdJaWh5VUFYMWZ2WV9ZaXZWNUZTT3RQdGx2RXlRZHFHdVk1clBnSVdDdUFrODN3dUR1LVBQSHBSSm5fTWJUazlOckNlcHFuN0E?oc=5) |

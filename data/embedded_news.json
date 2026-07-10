@@ -1,5 +1,12 @@
 [
   {
+    "title": "Browser-Based Image Inpainting Runs Locally, If One Doesn’t Mind A Big Download",
+    "source": "Hackaday",
+    "date": "2026-07-10",
+    "url": "https://hackaday.com/2026/07/10/browser-based-image-inpainting-runs-locally-if-one-doesnt-mind-a-big-download/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/Moebius-image-inpainting-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Simon Willison] ported the Moebuis 0.2B image inpainting model to run locally in a web browser.  The web tool simply requires a user to provide an image, mark a section <a class=\"read-more\" href=\"https://hackaday.com/2026/07/10/browser-based-image-inpainting-runs-locally-if-one-doesnt-mind-a-big-download/\">&#8230;read more</a>"
+  },
+  {
     "title": "A Super Cheap Desk Toy Becomes a Hackable Desktop Notifier",
     "source": "Hackaday",
     "date": "2026-07-10",
@@ -18,7 +25,14 @@
     "source": "Hackaday",
     "date": "2026-07-10",
     "url": "https://hackaday.com/2026/07/09/mechanosynthesis-of-atomic-carbon-structures-using-inverted-mode-stm/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"357\" src=\"https://hackaday.com/wp-content/uploads/2026/06/mechanosynthesis_carbon_cowie_et_al_2026.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Generally chemical synthesis involves putting a variety of compounds together in an environment where they will react and self-assemble into the desired product. Direct mechanical manipulation could be significantly more <a class=\"read-more\" href=\"https://hackaday.com/2026/07/09/mechanosynthesis-of-atomic-carbon-structures-using-inverted-mode-stm/\">&#8230;read more</a>"
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"357\" src=\"https://hackaday.com/wp-content/uploads/2026/06/mechanosynthesis_carbon_cowie_et_al_2026.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Generally chemical synthesis involves putting a variety of compounds together in an environment where they will react and self-assemble into the desired product. You could also imagine simply putting the <a class=\"read-more\" href=\"https://hackaday.com/2026/07/09/mechanosynthesis-of-atomic-carbon-structures-using-inverted-mode-stm/\">&#8230;read more</a>"
+  },
+  {
+    "title": "M5Stack Stamp-C5 – A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support",
+    "source": "CNX Software",
+    "date": "2026-07-10",
+    "url": "https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/",
+    "summary": "<div><img alt=\"M5Stack Stamp-C5\" class=\"attachment-medium size-medium wp-post-image\" height=\"405\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/M5Stack-Stamp-C5-720x405.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>M5Stack Stamp-C5, also known as the M5Stamp-C5, is a tiny wireless IoT USB-C board based on the Espressif ESP32-C5 RISC-V microcontroller with dual-band WiFi 6, Bluetooth LE, and 802.15.4 (Zigbee/Thread) connectivity. Despite its small size (19.1 x 17.6mm), the module exposes up to nineteen GPIO pins, eleven on standard 2.54mm pitch headers and castellated holes, and eight on an FPC extension header.  The board also supports battery charging and ships with an external IPEX antenna for wireless connectivity, since there&#8217;s no built-in antenna. M5Stack Stamp-C5 specifications: Wireless MCU –  Espressif Systems ESP32-C5HF4 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 48 MHz acting as the main processor for power-sensitive applications Memory – 384 KB SRAM on-chip Storage – 320 KB ROM, 4MB SPI flash Wireless Dual-band (2.4/5 GHz) 802.11ax WiFi 6, 802.11b/g/n WiFi 4 backward compatibility WiFi modes: Station mode, SoftAP mode, SoftAP + [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/\">M5Stack Stamp-C5 &#8211; A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Open Book Touch – A DRM-free, WiFi-connected 4.26-inch open-source hardware e-reader (Crowdfunding)",
@@ -28,6 +42,20 @@
     "summary": "<div><img alt=\"Open Book Touch\" class=\"attachment-medium size-medium wp-post-image\" height=\"557\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Open-Book-Touch-720x557.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Oddly Specific Objects has launched a crowdfunding campaign for the Open Book Touch, an ESP32-S3-based e-reader with a 4.26-inch e-paper display with 480 x 800 resolution and a capacitive touch screen. The open-source hardware device comes with 16 MB flash, 8MB PSRAM, a frontlight with warm and cool LEDs, a microSD card for storage, and an 800 mAh user-replaceable LiPo battery with everything housed in a 3D printed enclosure. Open Book Touch specifications: SoC &#8211; Espressif Systems ESP32-S3 dual-core MCU with Wi-Fi and Bluetooth LE connectivity Memory &#8211; 8 MB octal SPI PSRAM Storage 16 MB quad SPI flash MicroSD card slot Display 4.26-inch, 480 × 800 e-paper; 1-bit and 2-bit grayscale with dithering Capacitive touchscreen based on FT6336 low-power controller Frontlight &#8211; five warm + five cool LEDs, independently dimmable USB &#8211; USB Type-C for power/charging and programming Misc &#8211; 3D-printed plastic enclosure; snap-fit, with 3D-printable CAD for custom shells; [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/10/open-book-touch-a-drm-free-wifi-connected-4-26-inch-open-source-hardware-e-reader/\">Open Book Touch &#8211; A DRM-free, WiFi-connected 4.26-inch open-source hardware e-reader (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "ELCANO satellite payload integrates video, NIR, thermal imaging",
+    "source": "Electronics Weekly",
+    "date": "2026-07-10",
+    "url": "https://www.electronicsweekly.com/news/elcano-satellite-payload-integrates-video-nir-thermal-imaging-2026-07/",
+    "summary": "<p>ELCANO is the new generation of FlexSat satellites from Satlantis, the Spanish provider of high-res optical payloads. The Earth Observation payload integrates multiple sensors and advanced capabilities into a single ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/elcano-satellite-payload-integrates-video-nir-thermal-imaging-2026-07/\">ELCANO satellite payload integrates video, NIR, thermal imaging</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Most Read – Samsung profits, Memory crisis, David Potter RIP",
+    "source": "Electronics Weekly",
+    "date": "2026-07-10",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-samsung-profits-memory-crisis-david-potter-rip-2026-07/",
+    "summary": "<p>Looing only at those news stories written in the last week, the most read stories on the site cover Samsung massively increasing profits, Nexperia's 1200 V SiC MOSFET, and David Potter, the founder of Psion, who has died at the age of 82.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-samsung-profits-memory-crisis-david-potter-rip-2026-07/\">Most Read &#8211; Samsung profits, Memory crisis, David Potter RIP</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Applied CEO sees two good years ahead",
     "source": "Electronics Weekly",
     "date": "2026-07-10",
@@ -35,11 +63,11 @@
     "summary": "<p>Applied Materials CEO Gary Dickerson sees a rosy future for the chip industry for the next two, even three years. &#8220;There&#8217;s tremendous visibility for eight quarters &#8211; even three years ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/applied-ceo-sees-good-times-ahead-2026-07/\">Applied CEO sees two good years ahead</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Meta prepares to fab its third  custom datacentre chip",
+    "title": "Meta prepares to fab its third custom datacentre chip",
     "source": "Electronics Weekly",
     "date": "2026-07-10",
     "url": "https://www.electronicsweekly.com/news/business/meta-2026-07/",
-    "summary": "<p>Meta is to put the third of its multi-generational MTIA (Meta Training and Inference Accelerators) into production in September as part of its plan to have 14GW of computing power ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/meta-2026-07/\">Meta prepares to fab its third  custom datacentre chip</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Meta is to put the third of its multi-generational MTIA (Meta Training and Inference Accelerators) into production in September as part of its plan to have 14GW of computing power ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/meta-2026-07/\">Meta prepares to fab its third custom datacentre chip</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "May chip sales up 104% YoY",
@@ -60,7 +88,7 @@
     "source": "Electronics Weekly",
     "date": "2026-07-10",
     "url": "https://www.electronicsweekly.com/news/business/vibrating-ics-for-quantum-computing-2026-07/",
-    "summary": "<p>ETH Zurich physicist Yiwen Chu and her fellow researchers have developed an approach to quantum computing which combines mechanical resonators with  superconducting qubits. Information is stored in a working memory ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/vibrating-ics-for-quantum-computing-2026-07/\">Vibrating ICs for quantum computing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>ETH Zurich physicist Yiwen Chu and her fellow researchers have developed an approach to quantum computing which combines mechanical resonators with superconducting qubits. Information is stored in a working memory in ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/vibrating-ics-for-quantum-computing-2026-07/\">Vibrating ICs for quantum computing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "The Surge In Datacentre Power Demand",
@@ -96,13 +124,6 @@
     "date": "2026-07-09",
     "url": "https://hackaday.com/2026/07/09/reviving-mystery-nintendo-64-game-cartridge-found-in-the-woods/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"412\" src=\"https://hackaday.com/wp-content/uploads/2026/07/mystery_n64_cartridge_open_bluebox_tinkers_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As far as things go that you are likely to find during a relaxing walk in the forest, Nintendo 64 game cartridges probably do not rank high on that list. <a class=\"read-more\" href=\"https://hackaday.com/2026/07/09/reviving-mystery-nintendo-64-game-cartridge-found-in-the-woods/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Get a Handle on This Compact Pi Portable",
-    "source": "Hackaday",
-    "date": "2026-07-09",
-    "url": "https://hackaday.com/2026/07/09/get-a-handle-on-this-compact-pi-portable/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"519\" src=\"https://hackaday.com/wp-content/uploads/2026/07/dontpanic_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Between the speed and reliability of modern desktop 3D printers and the abundance of powerful single-board computers, there&#8217;s never been a better time to build a personal computing device that <a class=\"read-more\" href=\"https://hackaday.com/2026/07/09/get-a-handle-on-this-compact-pi-portable/\">&#8230;read more</a>"
   },
   {
     "title": "Makerfabs MaUWB for Home Assistant – An ESP32-S3 UWB module with PoE and enclosure",
@@ -145,20 +166,6 @@
     "date": "2026-07-09",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-persistent-entrepreneur-2026-07/",
     "summary": "<p>There was once a guy who, after serving as an engineer in the army, decided, at the age of 43, to set up his own company. The company sold imported ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-persistent-entrepreneur-2026-07/\">Fable: The Persistent Entrepreneur</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "What caught your eye? Market forecasts, European strengths, Collins Aerospace",
-    "source": "Electronics Weekly",
-    "date": "2026-07-09",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-market-forecasts-european-strengths-collins-aerospace-2026-07/",
-    "summary": "<p>There's differing views on semiconductor forecasts, European strengths in the chip industry, and Collins Aerospace opening its UK Engineering Centre of Excellence...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-market-forecasts-european-strengths-collins-aerospace-2026-07/\">What caught your eye? Market forecasts, European strengths, Collins Aerospace</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Collins opens UK Engineering Centre of Excellence in Wolverhampton",
-    "source": "Electronics Weekly",
-    "date": "2026-07-09",
-    "url": "https://www.electronicsweekly.com/news/collins-opens-uk-engineering-centre-of-excellence-in-wolverhampton-2026-07/",
-    "summary": "<p>Collins Aerospace has opened its UK Engineering Centre of Excellence in Wolverhampton, describing it as a state-of-the-art, modular and scalable test facility. It will expand the company&#8217;s aircraft electrification capabilities. ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/collins-opens-uk-engineering-centre-of-excellence-in-wolverhampton-2026-07/\">Collins opens UK Engineering Centre of Excellence in Wolverhampton</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Pyramid Ambient Light Desk Lamp – Grid Diffuser Panels #3DThursday #3DPrinting",
@@ -390,13 +397,6 @@
     "date": "2026-07-06",
     "url": "https://www.cnx-software.com/2026/07/06/tiny-calixto-systems-am62l-stamp-som-targets-industrial-automation-hmi-applications-ev-chargers/",
     "summary": "<div><img alt=\"AM62L STAMP SOM and Evaluation Kit\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/AM62L-STAMP-SOM-and-Evaluation-Kit-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Calixto Systems has introduced the AM62L STAMP SOM, a tiny (40x40mm) system-on-module around the Texas Instruments AM62L dual-core Arm Cortex-A53 CPU running at up to 1.25 GHz, along with an evaluation kit. Designed for embedded Linux applications, the module targets industrial automation, HMIs, EV chargers, and smart retail. Calixto AM62L STAMP SOM The SoM integrates up to 2GB LPDDR4x RAM and 8GB or 16GB eMMC storage, along with Gigabit Ethernet, two USB 2.0 OTG interfaces, dual SD interfaces, MIPI DSI and parallel RGB display support, McASP audio, and a wide range of industrial I/Os, including CAN FD, eight UARTs, four SPI buses, five I2C buses, ADC, DAC, PWM, GPIO, and a GPMC interface. It also integrates hardware security features such as AES encryption, RSA/ECC acceleration, DRBG, TRNG, and a unique device ID for secure embedded applications. AM62L STAMP SOM specifications: SoC – Texas Instruments Sitara AM62Lx single-core/dual-core Arm Cortex-A53 processor @ [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/06/tiny-calixto-systems-am62l-stamp-som-targets-industrial-automation-hmi-applications-ev-chargers/\">Tiny Calixto Systems AM62L STAMP SOM targets industrial automation, HMI applications, EV chargers</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "u-blox F11 low-power dual-band GNSS chips and modules consume just 7mW in LEAP mode",
-    "source": "CNX Software",
-    "date": "2026-07-06",
-    "url": "https://www.cnx-software.com/2026/07/06/u-blox-f11-low-power-dual-band-gnss-chips-and-modules-consume-just-7mw-in-leap-mode/",
-    "summary": "<div><img alt=\"u blox UBX F11270 KB and UBX F11170 CC L1,L5 dual band GNSS with just 7mW power consumption\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/u-blox-UBX-F11270-KB-and-UBX-F11170-CC-L1L5-dual-band-GNSS-with-just-7mW-power-consumption-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>u-blox has introduced the F11 platform, a new family of low-power GNSS chips and modules that includes the UBX-F11270-KB and UBX-F11170-CC dual-band GNSS chips, the UBX-M11070-KB  chip (L1-only), the MAX-M11N module (L1-only), and the EVK-F112 evaluation kit. These are designed for battery-powered applications such as aftermarket telematics, asset tracking, wearables, drones, micromobility, and other industrial and consumer devices. Among those, the UBX-F11270-KB and UBX-F11170-CC support dual-band L1/L5 GNSS that automatically switch between L1/L5 operation based on signal conditions. The UBX-M11070-KB chip and MAX-M11N module are L1 band only, but all the modules and chips in the series support LEAP (Low Energy Accurate Positioning) mode with a typical power consumption of around 7 mW. Other features include indoor detection, polygonal geofencing, and multipath mitigation. u-blox UBX-F11270-KB and UBX-F11170-CC specifications: GNSS Engine – u-blox F11 platform Memory / Storage UBX-F11270-KB &#8211; Embedded flash memory supports firmware upgrade UBX-F11170-CC &#8211; Optional external SPI [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/06/u-blox-f11-low-power-dual-band-gnss-chips-and-modules-consume-just-7mw-in-leap-mode/\">u-blox F11 low-power dual-band GNSS chips and modules consume just 7mW in LEAP mode</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "What's Next for the Renesas 365 Development Platform",
