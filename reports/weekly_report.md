@@ -1,18 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-10 00:04 UTC
+Generated: 2026-07-10 04:41 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-07-09 | ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device | [link](https://arxiv.org/pdf/2607.08771v1) |
+| 2026-07-09 | UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks | [link](https://arxiv.org/pdf/2607.08768v1) |
+| 2026-07-09 | DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation | [link](https://arxiv.org/pdf/2607.08751v1) |
+| 2026-07-09 | ContactMimic: Humanoid Object Interaction via Contact Control | [link](https://arxiv.org/pdf/2607.08742v1) |
+| 2026-07-09 | ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation | [link](https://arxiv.org/pdf/2607.08741v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82359 | 32943.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63058 | 25223.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44208 | 17683.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30005 | 12002.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 15995 | 6398.1 | [link](https://github.com/zauberzeug/nicegui) |
+| Developer-Y/cs-video-courses | 82365 | 32946.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63061 | 25224.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44210 | 17684.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30006 | 12002.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 15996 | 6398.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -35,8 +41,8 @@ _No items collected yet._
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-10 | European startup unveils humanoid robot design, real-time learning system - digitimes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXE3bmNjWmRpb1liS0xjVHRhaDlsVFFreDU0dVhOUW1wNUtqZHF3VTdWQkpMSlFmdnRfclJwaVFNeXV5OTV1aUFqSC1ZNzk0eFp4Q3YycWZpcjZCZW52SEtRTnVkLWsyenZfbjd2cXNNbUJ0ZTFQUVg4Um9DWTNpZDlZdW5WUkp5a0cyS0hDWGd4Y0U?oc=5) |
 | 2026-07-09 | Physical AI startup Hakimo raises $12 Mn - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTFBaVDNvVDhJajlhRXZaQ2hKemhRX2pIYl85bUE2Mkp0VkRmTXcyM3BBS09QX2o2dXRxRDUyVVVHdVRNS2JHY1JHT2QyMFNvVGNobld3Q0dYNUQ3OW5YWEwyQ0dBYzM2alNxY1N2bU9DVXZFWWlkeTl4ZkUzdE9oZG_SAX9BVV95cUxQWlQzb1Q4SWo5YUV2WkNoSnpoUV9qSGJfOW1BNjJKdFZEZk13MjNwQUtPUF9qNnV0cUQ1MlVVR3VUTUtiR2NSR09kMjBTb1RjaG5Xd0NHWDVENzluWFhMMkNHQWMzNmpTcWNTdm1PQ1V2RVlpZHk5eGZFM3RPaGRv?oc=5) |
-| 2026-07-09 | Physical AI Startup Hakimo Raises $12 Million in Growth Funding - Siliconindia | physical ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPd3QwYWFYSlpGVzJndGhod3JNQjE0dU54R3dyMVExV0E0dkFDZHQ0QXVOVUFlcmZCWnkwb0lvVFlKU01HejFRX2xuek5RcUZUWWs0YldmRV83dnhqdXpKU0pRa1NzNWM4UGJ5V3h3aDVkdklZNHJycTlKWGljVnBZUFFQeEtmNURVLTVVaTdFMmxVT1JiVHU5YTZPOFlWZXdUZFk2Y05OSmRrb0NfUWw3bjR3SUlvdmpHWEJTbUcxS3pGZWVTNXBkMFN6MA?oc=5) |
-| 2026-07-09 | Mistral AI unveils robot navigation model, accelerates physical AI push - CHOSUNBIZ - Chosunbiz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTFBhZkJIQUxkc19CdTE4T0FLSTViVHVXUF9XRWFlandXY2RGVkR1dWNaa3lsSWRoR0Nla01zQnpldlBoOWJQTDFmdUhBMlBZbVFqX1hRaUxhR3pPY2N0RkFfZ2V6aDBTc3g2SWdxOEd5Sl80dDVPOFVWNV9n0gGOAUFVX3lxTFBRYk44MVl6R1pEUjVfNm9OSVVNaDY5UnNrZ1ZWenVwVy05ZllXSWFTUV93blJ0RElMcHNGQkZXeXZ3SVVxamVyRWk4RW12eVZ0MFR0SWhtbkljSmxydDlCOWl0NFJveHRNa3JtdXlNOUlDM3pUWEFTU3dWeUM2dXlybUk4XzNjWEo5X1JpTGc?oc=5) |
+| 2026-07-09 | Mitsubishi Motors to Mass-Produce Domestic Physical AI: "Vertical Integration" with University of Tokyo Startup Highlanders, Targeting Monthly Output of 1,000 Units by 2027 - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9WQmxJODB3WlRsSkFYQnY4a21Eamg3eWNFeXZWNmhWY0IwZ0NlWHZfNHJndnpmZzNncTRwWE9OT1g0QXpTSGZPTDdPMlBzcEIwWjFPejNTNmNOMzhOV2RTQnlxcldPTDhJLWpweXdxR3V6ZVg0WUE?oc=5) |
 | 2026-07-09 | General Intuition just raised $320M on a thesis that sounds absurd — that video game data, not real robot telemetry, will produce the GPT of embodied AI - Silicon Canals | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelpEeVFMcnR5UHhTRmJDYmNzcmlGUTNZLVVDc2w5cThmcjV3ZXNGcm43b2IxMjBWZjdFWFB4OTRyQ3RVUzZPcWs3SkNsdjIxYWtfUjJMY05xYzdHNS1aZGEtWWFQaExpdEQtVFM1ZU5iMkpMT3NGNWhFbGhHZkE0MmVNeDRPa2cyd3p1aGJnVms1azhPUEt1cllYb0V6NGQzS1VZaWFTMVpxemNRR2FBMmRKNFd4TmpPRG1Ea1c5Vm00NzdJaWh5VUFYMWZ2WV9ZaXZWNUZTT3RQdGx2RXlRZHFHdVk1clBnSVdDdUFrODN3dUR1LVBQSHBSSm5fTWJUazlOckNlcHFuN0E?oc=5) |
 | 2026-07-09 | How Can Mistral's AI Transform Robot Navigation? - Analytics India Magazine | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2dRUnJ2TG5aazBHLVRhTW5Nay1LZ2NjSEoyLVE4Y1Z1aVhmb2VlNHFpM3JGUXJOcWJJU0dhb3d6bmw1ejVIaXpEc1U0cnNuc2FyZmZBazVRc2FiT3pMVUh6ZmVJZUpDdFVhUjZwd3VqV3JQcUJuLVFLaFhKZnNnbU5YblZXSWlJZmk1d3ZMQi1JbkhBX3pzR09SVmxhRi1GNVpQV3RmQVFuU01OSk5lbVNpQkRsTVZtS3hj?oc=5) |
