@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-10 22:45 UTC
+Last Updated: 2026-07-10 23:44 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -39,23 +39,23 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-10 | Video Friday: A World Cup for Robots | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robot-world-cup) |
 | 2026-07-10 | AI² Robotics raises $735M at $3B valuation for wheeled humanoid robots | Robotics Business Review | [link](https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/) |
 | 2026-07-10 | XTEND secures U.S. patent for autonomous navigation technology | Robotics Business Review | [link](https://www.therobotreport.com/xtend-secures-u-s-patent-autonomous-navigation-technology/) |
+| 2026-07-10 | How Path Robotics uses AI to optimize robotic welding | Robotics Business Review | [link](https://www.therobotreport.com/how-path-robotics-uses-ai-optimize-robotic-welding/) |
 | 2026-07-09 | Beyond da Vinci: Why versatile humanoid robots are the next frontier in surgery | Robotics Business Review | [link](https://www.therobotreport.com/beyond-da-vinci-why-versatile-humanoid-robots-are-next-frontier-surgery/) |
 | 2026-07-09 | Rollon launches two telescopic rails with integrated magnets | Robotics Business Review | [link](https://www.therobotreport.com/rollon-launches-two-telescopic-rails-integrated-magnets/) |
 | 2026-07-09 | Calling all robotics startups: apply to RoboBusiness Startup Alley | Robotics Business Review | [link](https://www.therobotreport.com/calling-all-robotics-startups-apply-to-robobusiness-startup-alley/) |
 | 2026-07-09 | ForSight Robotics’ road to performing a fully robotic cataract surgery | Robotics Business Review | [link](https://www.therobotreport.com/forsight-robotics-road-to-performing-a-fully-robotic-cataracts-surgery/) |
 | 2026-07-08 | ENCY Software and Stäubli Robotics partner to simplify robot programming | Robotics Business Review | [link](https://www.therobotreport.com/ency-software-staubli-robotics-partner-simplify-robot-programming/) |
-| 2026-07-08 | NVIDIA and Hugging Face bring new models and frameworks to LeRobot | Robotics Business Review | [link](https://www.therobotreport.com/nvidia-hugging-face-bring-new-models-frameworks-lerobot/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-10 | Documenting the IR Protocol of the PumpSaver Plus Device | Hackaday | [link](https://hackaday.com/2026/07/10/documenting-the-ir-protocol-of-the-pumpsaver-plus-device/) |
 | 2026-07-10 | How To Use Those Cute But Slightly Odd 7-Segment LCDs | Hackaday | [link](https://hackaday.com/2026/07/10/how-to-use-those-tiny-and-slightly-odd-7-segment-lcds/) |
 | 2026-07-10 | Robot Dog in Browser | Hackaday | [link](https://hackaday.com/2026/07/10/robot-dog-in-browser/) |
 | 2026-07-10 | Hackaday Podcast Episode Ep 377: Parallel Pixels, Wiggly Consoles, and Seven Segments | Hackaday | [link](https://hackaday.com/2026/07/10/hackaday-podcast-episode-ep-377-parallel-pixels-wiggly-consoles-and-seven-segments/) |
 | 2026-07-10 | 3D Printed Scooter Fits in Your Luggage, Some Assembly Required | Hackaday | [link](https://hackaday.com/2026/07/10/3d-printed-scooter-fits-in-your-luggage-some-assembly-required/) |
 | 2026-07-10 | This Week in Security: Escaping Linux VMs, Vulnerable Solar, Confusing AI (Again), and Confusing NPM Malware | Hackaday | [link](https://hackaday.com/2026/07/10/this-week-in-security-escaping-linux-vms-vulnerable-solar-confusing-ai-again-and-confusing-npm-malware/) |
 | 2026-07-10 | Browser-Based Image Inpainting Runs Locally, If One Doesn’t Mind A Big Download | Hackaday | [link](https://hackaday.com/2026/07/10/browser-based-image-inpainting-runs-locally-if-one-doesnt-mind-a-big-download/) |
-| 2026-07-10 | A Super Cheap Desk Toy Becomes a Hackable Desktop Notifier | Hackaday | [link](https://hackaday.com/2026/07/10/a-super-cheap-desk-toy-becomes-a-hackable-desktop-notifier/) |
 | 2026-07-10 | M5Stack Stamp-C5 – A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support | CNX Software | [link](https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/) |
 | 2026-07-10 | Open Book Touch – A DRM-free, WiFi-connected 4.26-inch open-source hardware e-reader (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/10/open-book-touch-a-drm-free-wifi-connected-4-26-inch-open-source-hardware-e-reader/) |
 | 2026-07-10 | Renesas 365 Dev Platform, NOR Flash Safety Features, Edge Intelligence in SDVs: Embedded Week Insights | Embedded.com | [link](https://www.embedded.com/renesas-365-dev-platform-nor-flash-safety-features-edge-intelligence-in-sdvs-embedded-week-insights/) |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-10 | dominicdx/my_robot_policy | 17 | 0 | [link](https://huggingface.co/dominicdx/my_robot_policy) |
 | 2026-07-10 | OpenWAM/RoboTwin_DualSystem_JointSelfAttention_Vjepa21 | 0 | 0 | [link](https://huggingface.co/OpenWAM/RoboTwin_DualSystem_JointSelfAttention_Vjepa21) |
 | 2026-07-10 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
 | 2026-07-10 | YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube | 84 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-10 | s1ghhh/VLADrop-pi05-RoboTwin-turn-switch-drop12-gate | 0 | 0 | [link](https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-turn-switch-drop12-gate) |
 | 2026-07-10 | s1ghhh/VLADrop-pi05-RoboTwin-place-dual-shoes-drop12-gate | 0 | 0 | [link](https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-place-dual-shoes-drop12-gate) |
 | 2026-07-10 | s1ghhh/VLADrop-pi05-RoboTwin-move-playingcard-away-drop16-gate | 0 | 0 | [link](https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-move-playingcard-away-drop16-gate) |
-| 2026-07-10 | s1ghhh/VLADrop-pi05-RoboTwin-move-playingcard-away-drop12-gate | 0 | 0 | [link](https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-move-playingcard-away-drop12-gate) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -99,7 +99,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | google-deepmind/mujoco | 14156 | C++ | 5662.5 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11273 | Python | 4509.3 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11115 | Rust | 4446.1 | [link](https://github.com/rerun-io/rerun) |
-| earthtojake/text-to-cad | 7962 | JavaScript | 3184.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 7964 | JavaScript | 3185.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | RLinf/RLinf | 4073 | Python | 1629.3 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
