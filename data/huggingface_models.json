@@ -68,7 +68,7 @@
     "likes": 0,
     "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-move-playingcard-away-drop9-gate",
     "date": "2026-07-10",
-    "keyword": "vla",
+    "keyword": "robot",
     "score": 0.1
   },
   {
@@ -77,7 +77,7 @@
     "likes": 0,
     "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-lift-pot-drop12-gate",
     "date": "2026-07-10",
-    "keyword": "vla",
+    "keyword": "robot",
     "score": 0.1
   },
   {
@@ -86,7 +86,7 @@
     "likes": 0,
     "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-beat-block-hammer-drop12-gate",
     "date": "2026-07-10",
-    "keyword": "vla",
+    "keyword": "robot",
     "score": 0.1
   },
   {
@@ -108,12 +108,57 @@
     "score": 0.1
   },
   {
+    "model": "s1ghhh/VLADrop-OpenVLA-OFT-LIBERO-extreme-action",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/s1ghhh/VLADrop-OpenVLA-OFT-LIBERO-extreme-action",
+    "date": "2026-07-10",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "s1ghhh/VLADrop-pi05-LIBERO-mlp-only-drop9",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-LIBERO-mlp-only-drop9",
+    "date": "2026-07-10",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "s1ghhh/VLADrop-LingbotVLA-LIBERO-baseline",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/s1ghhh/VLADrop-LingbotVLA-LIBERO-baseline",
+    "date": "2026-07-10",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "X-Humanoid/Pelican-VLA05",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/X-Humanoid/Pelican-VLA05",
+    "date": "2026-07-10",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "s1ghhh/VLADrop-pi05-LIBERO-keep2-action",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-LIBERO-keep2-action",
     "date": "2026-07-10",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "bohlt/lego-in-cup-vla-jepa-world-model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bohlt/lego-in-cup-vla-jepa-world-model",
+    "date": "2026-07-10",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -135,24 +180,6 @@
     "score": 0.7
   },
   {
-    "model": "s1ghhh/VLADrop-pi05-LIBERO-Plus-drop17-keep0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-LIBERO-Plus-drop17-keep0",
-    "date": "2026-07-10",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "s1ghhh/VLADrop-pi05-LIBERO-Plus-drop16-gate",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-LIBERO-Plus-drop16-gate",
-    "date": "2026-07-10",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "SEU-PAISys/Embodied.cpp",
     "downloads": 100,
     "likes": 4,
@@ -160,6 +187,24 @@
     "date": "2026-07-10",
     "keyword": "embodied",
     "score": 30.9
+  },
+  {
+    "model": "ahmedaali/so101_act_policy_v6",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ahmedaali/so101_act_policy_v6",
+    "date": "2026-07-10",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Rnoooo/qcook-sft-policy-r12",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Rnoooo/qcook-sft-policy-r12",
+    "date": "2026-07-10",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "ahmedaali/so101_act_policy_v5",
@@ -250,24 +295,6 @@
     "date": "2026-07-10",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-1800",
-    "downloads": 61,
-    "likes": 0,
-    "url": "https://huggingface.co/gyeongwk/Math-On-policy-GRPO-Qwen3-1.7B-step-1800",
-    "date": "2026-07-10",
-    "keyword": "policy",
-    "score": 18.4
-  },
-  {
-    "model": "gyeongwk/Math-On-policy-PosNeg-Qwen3-1.7B-step-1800",
-    "downloads": 26,
-    "likes": 0,
-    "url": "https://huggingface.co/gyeongwk/Math-On-policy-PosNeg-Qwen3-1.7B-step-1800",
-    "date": "2026-07-10",
-    "keyword": "policy",
-    "score": 7.9
   },
   {
     "model": "sharinka0715/Xiaomi_Robotics_1_RoboDojo",
@@ -556,15 +583,6 @@
     "date": "2026-06-26",
     "keyword": "world model",
     "score": 0.1
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-7b-ac-exp03-world-model-stage1-lora-epoch3",
-    "downloads": 37,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-7b-ac-exp03-world-model-stage1-lora-epoch3",
-    "date": "2026-06-26",
-    "keyword": "world model",
-    "score": 11.2
   },
   {
     "model": "NU-World-Model-Embodied-AI/ActQuant-Pi05-LIBERO-3.5bpw",

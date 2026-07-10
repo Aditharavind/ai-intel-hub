@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-10 16:10 UTC
+Last Updated: 2026-07-10 18:14 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-10 | Hackaday Podcast Episode Ep 377: Parallel Pixels, Wiggly Consoles, and Seven Segments | Hackaday | [link](https://hackaday.com/2026/07/10/hackaday-podcast-episode-ep-377-parallel-pixels-wiggly-consoles-and-seven-segments/) |
 | 2026-07-10 | 3D Printed Scooter Fits in Your Luggage, Some Assembly Required | Hackaday | [link](https://hackaday.com/2026/07/10/3d-printed-scooter-fits-in-your-luggage-some-assembly-required/) |
 | 2026-07-10 | This Week in Security: Escaping Linux VMs, Vulnerable Solar, Confusing AI (Again), and Confusing NPM Malware | Hackaday | [link](https://hackaday.com/2026/07/10/this-week-in-security-escaping-linux-vms-vulnerable-solar-confusing-ai-again-and-confusing-npm-malware/) |
 | 2026-07-10 | Browser-Based Image Inpainting Runs Locally, If One Doesn’t Mind A Big Download | Hackaday | [link](https://hackaday.com/2026/07/10/browser-based-image-inpainting-runs-locally-if-one-doesnt-mind-a-big-download/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-10 | M5Stack Stamp-C5 – A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support | CNX Software | [link](https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/) |
 | 2026-07-10 | Open Book Touch – A DRM-free, WiFi-connected 4.26-inch open-source hardware e-reader (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/10/open-book-touch-a-drm-free-wifi-connected-4-26-inch-open-source-hardware-e-reader/) |
 | 2026-07-10 | Microchip Offers Free MPLAB Compiler and AI Tools | Embedded.com | [link](https://www.embedded.com/microchip-offers-free-mplab-compiler-and-ai-tools/) |
-| 2026-07-10 | Stackpole expands CSSU series of current sense resistors | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/stackpole-expands-cssu-series-of-current-sense-resistors-2026-07/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -94,13 +94,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | mosaico-labs/mosaico | 888 | Python | 355.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 455 | Shell | 182.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 158 | Python | 63.3 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63068 | Python | 25227.3 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15441 | C++ | 6176.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14154 | C++ | 5661.7 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11272 | Python | 4508.9 | [link](https://github.com/kornia/kornia) |
+| commaai/openpilot | 63069 | Python | 25227.7 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15442 | C++ | 6176.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14155 | C++ | 5662.1 | [link](https://github.com/google-deepmind/mujoco) |
+| kornia/kornia | 11273 | Python | 4509.3 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11115 | Rust | 4446.1 | [link](https://github.com/rerun-io/rerun) |
-| earthtojake/text-to-cad | 7954 | JavaScript | 3181.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| RLinf/RLinf | 4071 | Python | 1628.5 | [link](https://github.com/RLinf/RLinf) |
+| earthtojake/text-to-cad | 7958 | JavaScript | 3183.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| RLinf/RLinf | 4072 | Python | 1628.9 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -133,12 +133,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-10 | AI Data Operations Lead | Figure AI | San Jose | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
 | 2026-07-08 | NPI Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4627386006) |
 | 2026-07-08 | Recruiter-High Volume (contract) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4695758006) |
 | 2026-07-08 | Supplier Quality Engineer (Asia) | Figure AI | Asia | [link](https://job-boards.greenhouse.io/figureai/jobs/4626809006) |
 | 2026-07-08 | Senior Counsel, Technology Transactions | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6110909004) |
 | 2026-07-07 | Staff Systems Integration Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6017810004) |
-| 2026-07-06 | AI Data Operations Lead | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
 | 2026-07-06 | Electrical Engineering Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4676467006) |
 | 2026-07-06 | Firmware Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
 | 2026-07-06 | Integration and Test - Mechanical Engineering Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4606074006) |
