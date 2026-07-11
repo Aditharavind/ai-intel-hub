@@ -1,18 +1,45 @@
 [
   {
-    "model": "wonder-robot/smolvla_piper_v5",
+    "model": "a5ilank/curious-robot",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/wonder-robot/smolvla_piper_v5",
+    "url": "https://huggingface.co/a5ilank/curious-robot",
     "date": "2026-07-11",
     "keyword": "robot",
     "score": 0.1
   },
   {
-    "model": "a5ilank/curious-robot",
+    "model": "saarthak-batra/unsupervised-robotics",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/a5ilank/curious-robot",
+    "url": "https://huggingface.co/saarthak-batra/unsupervised-robotics",
+    "date": "2026-07-11",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "wijan/Robot-Action-Planner-gguf",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wijan/Robot-Action-Planner-gguf",
+    "date": "2026-07-11",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "wijan/Robot-Action-Planner",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wijan/Robot-Action-Planner",
+    "date": "2026-07-11",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "wonder-robot/smolvla_piper_v5",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wonder-robot/smolvla_piper_v5",
     "date": "2026-07-11",
     "keyword": "robot",
     "score": 0.1
@@ -24,6 +51,15 @@
     "url": "https://huggingface.co/Jiafei1224/VLA-JEPA-MolmoAct2YAMData",
     "date": "2026-07-11",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "hiskiv/cosmos-policy-lam",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/hiskiv/cosmos-policy-lam",
+    "date": "2026-07-11",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -87,33 +123,6 @@
     "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-turn-switch-drop12-gate",
     "date": "2026-07-10",
     "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "s1ghhh/VLADrop-pi05-RoboTwin-place-dual-shoes-drop12-gate",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-place-dual-shoes-drop12-gate",
-    "date": "2026-07-10",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "s1ghhh/VLADrop-pi05-RoboTwin-move-playingcard-away-drop16-gate",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-move-playingcard-away-drop16-gate",
-    "date": "2026-07-10",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "s1ghhh/VLADrop-pi05-RoboTwin-move-playingcard-away-drop12-gate",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-move-playingcard-away-drop12-gate",
-    "date": "2026-07-10",
-    "keyword": "robot",
     "score": 0.1
   },
   {
@@ -193,6 +202,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/OmakaseAI/vla_jepa_d1_yubi_bimanual",
+    "date": "2026-07-10",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "s1ghhh/VLADrop-pi05-RoboTwin-place-dual-shoes-drop12-gate",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-place-dual-shoes-drop12-gate",
     "date": "2026-07-10",
     "keyword": "vla",
     "score": 0.1
@@ -301,15 +319,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/satgothyun/pmsp_policy_dispatch_llama8b_r128_v1",
-    "date": "2026-07-10",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "3cda2225/record-show0714act_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/3cda2225/record-show0714act_policy",
     "date": "2026-07-10",
     "keyword": "policy",
     "score": 0.1
@@ -466,15 +475,6 @@
     "date": "2026-07-05",
     "keyword": "physical ai",
     "score": 0.1
-  },
-  {
-    "model": "aslivishaal/robotics-qwen3-8b",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/aslivishaal/robotics-qwen3-8b",
-    "date": "2026-07-05",
-    "keyword": "robotics",
-    "score": 0.3
   },
   {
     "model": "flydexo/world-models-carracing-v3",
