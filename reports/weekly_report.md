@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-11 19:56 UTC
+Generated: 2026-07-11 20:37 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -24,10 +24,10 @@ Generated: 2026-07-11 19:56 UTC
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | IffYuan/Embodied-R1.5 | 1046 | 313.9 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
-| meghaGenAI/northwind-hr-policy-dpo-merged | 450 | 135.1 | [link](https://huggingface.co/meghaGenAI/northwind-hr-policy-dpo-merged) |
 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 323 | 99.2 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 313 | 95.8 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
 | BrinqAI/functiongemma-270m-physical-ai | 302 | 90.7 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
+| SEU-PAISys/Embodied.cpp | 148 | 45.3 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
