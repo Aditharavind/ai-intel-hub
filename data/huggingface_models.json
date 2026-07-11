@@ -9,6 +9,15 @@
     "score": 0.3
   },
   {
+    "model": "qualia-robotics/smolvla-so101-candy-63d2cc57",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/qualia-robotics/smolvla-so101-candy-63d2cc57",
+    "date": "2026-07-11",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "OpenRAL/rskill-smolvla-aloha_agilex-robotwin-bf16",
     "downloads": 0,
     "likes": 0,
@@ -99,13 +108,31 @@
     "score": 0.1
   },
   {
-    "model": "wijan/Robot-Action-Planner-gguf",
-    "downloads": 6,
+    "model": "macv666/entropy-vla-grpo-logs",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/wijan/Robot-Action-Planner-gguf",
+    "url": "https://huggingface.co/macv666/entropy-vla-grpo-logs",
     "date": "2026-07-11",
-    "keyword": "robot",
-    "score": 1.9
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "physicalai-bmi/nano-vla-reach",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/physicalai-bmi/nano-vla-reach",
+    "date": "2026-07-11",
+    "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "Jiafei1224/VLA-JEPA-MolmoAct2YAMData",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Jiafei1224/VLA-JEPA-MolmoAct2YAMData",
+    "date": "2026-07-11",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "justintiensmith/vla_jepa_Ordering_Constrained_8ep",
@@ -130,15 +157,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-LIBERO-query8",
-    "date": "2026-07-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Jiafei1224/VLA-JEPA-MolmoAct2YAMData",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Jiafei1224/VLA-JEPA-MolmoAct2YAMData",
     "date": "2026-07-11",
     "keyword": "vla",
     "score": 0.1
@@ -234,6 +252,15 @@
     "score": 0.1
   },
   {
+    "model": "kmerckae/my_policy",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/kmerckae/my_policy",
+    "date": "2026-07-11",
+    "keyword": "policy",
+    "score": 0.3
+  },
+  {
     "model": "ChristianZ97/satp-policy-v2",
     "downloads": 0,
     "likes": 0,
@@ -313,24 +340,6 @@
     "date": "2026-07-10",
     "keyword": "vla",
     "score": 9.7
-  },
-  {
-    "model": "X-Humanoid/Pelican-VLA05",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/X-Humanoid/Pelican-VLA05",
-    "date": "2026-07-10",
-    "keyword": "vla",
-    "score": 4.9
-  },
-  {
-    "model": "s1ghhh/VLADrop-pi05-LIBERO-keep2-action",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop-pi05-LIBERO-keep2-action",
-    "date": "2026-07-10",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "bohlt/lego-in-cup-vla-jepa-world-model",
@@ -421,15 +430,6 @@
     "date": "2026-07-10",
     "keyword": "policy",
     "score": 8.8
-  },
-  {
-    "model": "3cda2225/record-show0714W_act_policy",
-    "downloads": 34,
-    "likes": 0,
-    "url": "https://huggingface.co/3cda2225/record-show0714W_act_policy",
-    "date": "2026-07-10",
-    "keyword": "policy",
-    "score": 10.3
   },
   {
     "model": "aslivishaal/phi3_robotics_lora_v2",
@@ -553,15 +553,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/PuraVida06/ai-miner-robotics-model",
-    "date": "2026-07-06",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "aslivishaal/robotics-qwen3-8b-merged",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/aslivishaal/robotics-qwen3-8b-merged",
     "date": "2026-07-06",
     "keyword": "robotics",
     "score": 0.1
@@ -736,15 +727,6 @@
     "date": "2026-06-11",
     "keyword": "physical ai",
     "score": 6.1
-  },
-  {
-    "model": "physicalairi/act_ur3_stack_cube_camera_sim_v2",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/physicalairi/act_ur3_stack_cube_camera_sim_v2",
-    "date": "2026-06-11",
-    "keyword": "physical ai",
-    "score": 5.2
   },
   {
     "model": "IffYuan/Embodied-R1.5-8B-SFT",

@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-11 12:43 UTC
+Last Updated: 2026-07-11 14:15 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-11 | Are suppliers ready for new robot safety standards? | Robotics Business Review | [link](https://www.therobotreport.com/are-suppliers-ready-for-new-robot-safety-standards/) |
+| 2026-07-11 | Why robotics teams need virtual gyms before deployment | Robotics Business Review | [link](https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/) |
 | 2026-07-10 | Ground Robots Inherit the Kill Zone | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/ukraine-ground-drones) |
 | 2026-07-10 | Video Friday: A World Cup for Robots | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robot-world-cup) |
 | 2026-07-10 | AI² Robotics raises $735M at $3B valuation for wheeled humanoid robots | Robotics Business Review | [link](https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/) |
@@ -43,12 +45,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-09 | Beyond da Vinci: Why versatile humanoid robots are the next frontier in surgery | Robotics Business Review | [link](https://www.therobotreport.com/beyond-da-vinci-why-versatile-humanoid-robots-are-next-frontier-surgery/) |
 | 2026-07-09 | Rollon launches two telescopic rails with integrated magnets | Robotics Business Review | [link](https://www.therobotreport.com/rollon-launches-two-telescopic-rails-integrated-magnets/) |
 | 2026-07-09 | Calling all robotics startups: apply to RoboBusiness Startup Alley | Robotics Business Review | [link](https://www.therobotreport.com/calling-all-robotics-startups-apply-to-robobusiness-startup-alley/) |
-| 2026-07-09 | ForSight Robotics’ road to performing a fully robotic cataract surgery | Robotics Business Review | [link](https://www.therobotreport.com/forsight-robotics-road-to-performing-a-fully-robotic-cataracts-surgery/) |
-| 2026-07-08 | ENCY Software and Stäubli Robotics partner to simplify robot programming | Robotics Business Review | [link](https://www.therobotreport.com/ency-software-staubli-robotics-partner-simplify-robot-programming/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-11 | When Changing Scale Isn’t Just More of the Same | Hackaday | [link](https://hackaday.com/2026/07/11/when-changing-scale-isnt-just-more-of-the-same/) |
 | 2026-07-11 | Clay Extruder Enables Printable Pottery | Hackaday | [link](https://hackaday.com/2026/07/11/clay-extruder-enables-printable-pottery/) |
 | 2026-07-11 | A Look Inside a 1997 BBC Ceefax Generator | Hackaday | [link](https://hackaday.com/2026/07/11/a-look-inside-a-1997-bbc-ceefax-generator/) |
 | 2026-07-11 | Fixing the Fix for a 3dfx Voodoo Card’s Overly Bright Picture | Hackaday | [link](https://hackaday.com/2026/07/10/fixing-the-fix-for-a-3dfx-voodoo-cards-overly-bright-picture/) |
@@ -57,7 +58,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-11 | The Python on Microcontrollers Newsletter: subscribe for free | Adafruit | [link](https://blog.adafruit.com/2026/07/11/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-11/) |
 | 2026-07-10 | Documenting the IR Protocol of the PumpSaver Plus Device | Hackaday | [link](https://hackaday.com/2026/07/10/documenting-the-ir-protocol-of-the-pumpsaver-plus-device/) |
 | 2026-07-10 | How To Use Those Cute But Slightly Odd 7-Segment LCDs | Hackaday | [link](https://hackaday.com/2026/07/10/how-to-use-those-tiny-and-slightly-odd-7-segment-lcds/) |
-| 2026-07-10 | Robot Dog in Browser | Hackaday | [link](https://hackaday.com/2026/07/10/robot-dog-in-browser/) |
 | 2026-07-10 | M5Stack Stamp-C5 – A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support | CNX Software | [link](https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/) |
 
 ## New Research Papers
@@ -78,6 +78,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-11 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-07-11 | qualia-robotics/smolvla-so101-candy-63d2cc57 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/smolvla-so101-candy-63d2cc57) |
 | 2026-07-11 | OpenRAL/rskill-smolvla-aloha_agilex-robotwin-bf16 | 0 | 0 | [link](https://huggingface.co/OpenRAL/rskill-smolvla-aloha_agilex-robotwin-bf16) |
 | 2026-07-11 | madokalif/pi05-robotwin2-clean50-fbc-v2 | 0 | 0 | [link](https://huggingface.co/madokalif/pi05-robotwin2-clean50-fbc-v2) |
 | 2026-07-11 | YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube | 182 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube) |
@@ -86,21 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-11 | YinonDouchan/mobile_robot_lift_env_single_cube_single_platform | 0 | 1 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env_single_cube_single_platform) |
 | 2026-07-11 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
 | 2026-07-11 | HarrisonPENG/M2W-VLA-RoboTwin | 29 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
-| 2026-07-11 | SakikoTogawa/pi0_robotwin_lora-place_dual_shoes-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_dual_shoes-100-himaconpp_repo) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| copper-project/copper-rs | 1398 | Rust | 559.3 | [link](https://github.com/copper-project/copper-rs) |
+| mosaico-labs/mosaico | 888 | Python | 355.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | ros-claw/rosclaw | 158 | Python | 63.3 | [link](https://github.com/ros-claw/rosclaw) |
 | commaai/openpilot | 63073 | Python | 25229.3 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 16003 | Python | 6401.3 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16004 | Python | 6401.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15444 | C++ | 6177.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14163 | C++ | 5665.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 7988 | JavaScript | 3195.3 | [link](https://github.com/earthtojake/text-to-cad) |
-| isaac-sim/IsaacLab | 7654 | Python | 3061.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| google-deepmind/mujoco | 14165 | C++ | 5666.1 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 7994 | JavaScript | 3197.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| isaac-sim/IsaacLab | 7656 | Python | 3062.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3837 | Rust | 1534.9 | [link](https://github.com/dora-rs/dora) |
-| datawhalechina/every-embodied | 2618 | Python | 1047.3 | [link](https://github.com/datawhalechina/every-embodied) |
-| RoboTwin-Platform/RoboTwin | 2558 | Python | 1023.3 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -122,9 +122,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-11 | [Korean Startup Weekly News #126] Physical AI Takes Center Stage - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NTmMxNEs2WWNnYWlJZVRJLUJZaUtLMHRwdDg1cU53S1ZEWnA3Rnd4Nkt6aUNIRk9IX25HUV9pMHluaE9adm4xb3ZxY2ZUM01tZnFr?oc=5) |
 | 2026-07-11 | Mobilint touts NPU for physical AI, with CEO urging South Korea to accelerate development - digitimes | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPYjk5QzFHWGNEYldKbEhpZUFKYXJNSFhxOHg4ZWRYQnhZU3AyMmNJQmxJVlRsNTl1ajJYdXlFYXYxZkV4Q1lfOERGUXlmdjBLbmFnamhTX3JhcHdPZGxaYzBhcEEwS3FKNHBBWmdHZDdqenpsQUxWNXBaSnR6VENpQlBiSmJLLVhReU5vRjJKbw?oc=5) |
 | 2026-07-10 | ‘Physical AI is Europe’s last chance to be useful to the world’ - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCRkdaWU95QUp1UkRnTVBicHlDTm05M0ZWeURLZHFrQ216ZWZsMFBfMWtOV2w1MUJoWG5Wb1g2NTcxMzM5V2FsSDEtdUJFbnQwbDRDQk5iMERvQQ?oc=5) |
+| 2026-07-10 | LG CNS partners with UK's PhysicsX to develop industrial AI model - The Korea Herald | physical ai startup | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHX01INnhzTXA1S3dlSFNRUl9jVEJlWUg2TjZuSkNGd3Rxdm1ONXg3YjgyR05FZ21fOEdPQkVvSGowMUU3aWVhdVEweVJpc0V4aWI1N2ptWQ?oc=5) |
 | 2026-07-10 | European startup unveils humanoid robot design, real-time learning system - digitimes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXE3bmNjWmRpb1liS0xjVHRhaDlsVFFreDU0dVhOUW1wNUtqZHF3VTdWQkpMSlFmdnRfclJwaVFNeXV5OTV1aUFqSC1ZNzk0eFp4Q3YycWZpcjZCZW52SEtRTnVkLWsyenZfbjd2cXNNbUJ0ZTFQUVg4Um9DWTNpZDlZdW5WUkp5a0cyS0hDWGd4Y0U?oc=5) |
 | 2026-07-09 | Reservoir Farms Launches Pilot in Arizona for Physical AI Innovation in Specialty Crops - TMX Newsfile | physical ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWFRVDFqM0U0Z0pxTm9xSEt2UGxtZFlFQ2dWSFQ0dFNVdk9lR1V1cEVaVmd2ay1BMElqX0F4Mmk3MTh2T2psc1JmemQyN2Q0djlUUjNndktnWUo5cjctY2FhM2VRTzVOSEw4RzZrSTJXZGY0MEd6d2s3T1hoR0dRRlM5cXM5S2Z2VVJHR3JhNTRuVTNHbXh1djg0MW9lZk1wYnZCZVRfZXBIVUNycHh6SnN1X3NBQkptRE9ta21RbWt4VkNnZ0JjdmZ5Yw?oc=5) |
-| 2026-07-09 | Physical AI startup Hakimo raises $12 Mn - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTFBaVDNvVDhJajlhRXZaQ2hKemhRX2pIYl85bUE2Mkp0VkRmTXcyM3BBS09QX2o2dXRxRDUyVVVHdVRNS2JHY1JHT2QyMFNvVGNobld3Q0dYNUQ3OW5YWEwyQ0dBYzM2alNxY1N2bU9DVXZFWWlkeTl4ZkUzdE9oZG_SAX9BVV95cUxQWlQzb1Q4SWo5YUV2WkNoSnpoUV9qSGJfOW1BNjJKdFZEZk13MjNwQUtPUF9qNnV0cUQ1MlVVR3VUTUtiR2NSR09kMjBTb1RjaG5Xd0NHWDVENzluWFhMMkNHQWMzNmpTcWNTdm1PQ1V2RVlpZHk5eGZFM3RPaGRv?oc=5) |
 | 2026-07-09 | General Intuition just raised $320M on a thesis that sounds absurd — that video game data, not real robot telemetry, will produce the GPT of embodied AI - Silicon Canals | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelpEeVFMcnR5UHhTRmJDYmNzcmlGUTNZLVVDc2w5cThmcjV3ZXNGcm43b2IxMjBWZjdFWFB4OTRyQ3RVUzZPcWs3SkNsdjIxYWtfUjJMY05xYzdHNS1aZGEtWWFQaExpdEQtVFM1ZU5iMkpMT3NGNWhFbGhHZkE0MmVNeDRPa2cyd3p1aGJnVms1azhPUEt1cllYb0V6NGQzS1VZaWFTMVpxemNRR2FBMmRKNFd4TmpPRG1Ea1c5Vm00NzdJaWh5VUFYMWZ2WV9ZaXZWNUZTT3RQdGx2RXlRZHFHdVk1clBnSVdDdUFrODN3dUR1LVBQSHBSSm5fTWJUazlOckNlcHFuN0E?oc=5) |
 | 2026-07-09 | How Can Mistral's AI Transform Robot Navigation? - Analytics India Magazine | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2dRUnJ2TG5aazBHLVRhTW5Nay1LZ2NjSEoyLVE4Y1Z1aVhmb2VlNHFpM3JGUXJOcWJJU0dhb3d6bmw1ejVIaXpEc1U0cnNuc2FyZmZBazVRc2FiT3pMVUh6ZmVJZUpDdFVhUjZwd3VqV3JQcUJuLVFLaFhKZnNnbU5YblZXSWlJZmk1d3ZMQi1JbkhBX3pzR09SVmxhRi1GNVpQV3RmQVFuU01OSk5lbVNpQkRsTVZtS3hj?oc=5) |
 | 2026-07-09 | Ex-Tesla Optimus scientist unveils European humanoid robot startup - Moomoo | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijgNBVV95cUxNYUhyQkR0Y0VKZEZWSTl5UUNVT0ppSnNSUHkxSmZPWHRwYUQ0S0xDSHlmcUFpbXJ1bGhaR1VLXzNrd19sRi10ZTNnX0psVlIxdWlueW1kSExXZjlrUzV4RW9VQ3pBTWFCVGU0bnE1TVVnNjBiUENWRG1UU1RidUM5NXo2N3doU0J6WXQzWkZQVXpHYWgxY095NlN2VEVjcUZPUkt1dC1KbFd1OGZoM1FaOGNEWm00bXRNb2Vfd1lFUHhOdTJ5S1YyYVExQVVNZFdwLS0xNDBFSEhYQnA4MUNBQUhBcFhGd2xuNHVBZUJ5a2dkbDgxWmVhLUtuNnJ1ZExmdnBRbGZ0Sl9ueXZGOFpuWi1RX0d2VWE1YUQ3STluWkZzRjFDNDFiWHJGQjRMT01wRUgwODl2c0p3X2d5NmhDZkJDMGpPSk9zSVZlcGF3bEl4cldoODVudUpzM0l6UHdUVEk4U3dzVTlDUEtzajl4SUdGTFBVLTJoNlp1TnRSOFpUOW9wN2tDNDdhRkc1dw?oc=5) |
