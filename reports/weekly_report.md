@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-11 11:40 UTC
+Generated: 2026-07-11 12:43 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,9 +14,9 @@ Generated: 2026-07-11 11:40 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82385 | 32954.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82386 | 32954.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63073 | 25229.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44217 | 17686.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44216 | 17686.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30012 | 12004.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16003 | 6401.3 | [link](https://github.com/zauberzeug/nicegui) |
 
