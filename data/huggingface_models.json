@@ -1,5 +1,32 @@
 [
   {
+    "model": "leehe228/dynin-robotics-libero-goal-5800",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/leehe228/dynin-robotics-libero-goal-5800",
+    "date": "2026-07-11",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "wijan/Robot-Action-Planner-Qwen-gguf",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wijan/Robot-Action-Planner-Qwen-gguf",
+    "date": "2026-07-11",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "wijan/Robot-Action-Planner-Qwen",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wijan/Robot-Action-Planner-Qwen",
+    "date": "2026-07-11",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "leehe228/dynin-robotics-libero-goal-7400",
     "downloads": 0,
     "likes": 0,
@@ -79,33 +106,6 @@
     "date": "2026-07-11",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube",
-    "downloads": 182,
-    "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube",
-    "date": "2026-07-11",
-    "keyword": "robot",
-    "score": 54.7
-  },
-  {
-    "model": "zaleni/WSA-Base-RoboTwin",
-    "downloads": 24,
-    "likes": 0,
-    "url": "https://huggingface.co/zaleni/WSA-Base-RoboTwin",
-    "date": "2026-07-11",
-    "keyword": "robot",
-    "score": 7.3
-  },
-  {
-    "model": "zaleni/WSA-Large-RoboTwin",
-    "downloads": 27,
-    "likes": 0,
-    "url": "https://huggingface.co/zaleni/WSA-Large-RoboTwin",
-    "date": "2026-07-11",
-    "keyword": "robot",
-    "score": 8.2
   },
   {
     "model": "anhtld/vla",
@@ -270,6 +270,33 @@
     "score": 0.1
   },
   {
+    "model": "Toji619/hr_policy_tokenizer_practice",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Toji619/hr_policy_tokenizer_practice",
+    "date": "2026-07-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Toji619/hr_policy_adapter_practice",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Toji619/hr_policy_adapter_practice",
+    "date": "2026-07-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ChristianZ97/satp-policy-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ChristianZ97/satp-policy-v2",
+    "date": "2026-07-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "ahmedaali/so101_act_policy_v7",
     "downloads": 0,
     "likes": 0,
@@ -283,15 +310,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/KeshavLN/deskorgv2.7_policy",
-    "date": "2026-07-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ChristianZ97/satp-policy-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ChristianZ97/satp-policy-v2",
     "date": "2026-07-11",
     "keyword": "policy",
     "score": 0.1
@@ -432,24 +450,6 @@
     "score": 15.1
   },
   {
-    "model": "Rnoooo/qcook-sft-policy-r12",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/Rnoooo/qcook-sft-policy-r12",
-    "date": "2026-07-10",
-    "keyword": "policy",
-    "score": 4.0
-  },
-  {
-    "model": "ahmedaali/so101_act_policy_v5",
-    "downloads": 49,
-    "likes": 0,
-    "url": "https://huggingface.co/ahmedaali/so101_act_policy_v5",
-    "date": "2026-07-10",
-    "keyword": "policy",
-    "score": 14.8
-  },
-  {
     "model": "aslivishaal/phi3_robotics_lora_v2",
     "downloads": 137,
     "likes": 0,
@@ -520,15 +520,6 @@
     "date": "2026-07-08",
     "keyword": "robotics",
     "score": 9.7
-  },
-  {
-    "model": "pollen-robotics/pick_can_200_smooth_diffusion_a10g",
-    "downloads": 27,
-    "likes": 0,
-    "url": "https://huggingface.co/pollen-robotics/pick_can_200_smooth_diffusion_a10g",
-    "date": "2026-07-08",
-    "keyword": "robotics",
-    "score": 8.2
   },
   {
     "model": "EmbodiedCity/Worldscape-MoE",
