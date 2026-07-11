@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-10 23:44 UTC
+Last Updated: 2026-07-11 01:16 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-11 | wonder-robot/smolvla_piper_v5 | 0 | 0 | [link](https://huggingface.co/wonder-robot/smolvla_piper_v5) |
+| 2026-07-11 | a5ilank/curious-robot | 0 | 0 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-07-11 | Jiafei1224/VLA-JEPA-MolmoAct2YAMData | 0 | 0 | [link](https://huggingface.co/Jiafei1224/VLA-JEPA-MolmoAct2YAMData) |
 | 2026-07-10 | dominicdx/my_robot_policy | 17 | 0 | [link](https://huggingface.co/dominicdx/my_robot_policy) |
 | 2026-07-10 | OpenWAM/RoboTwin_DualSystem_JointSelfAttention_Vjepa21 | 0 | 0 | [link](https://huggingface.co/OpenWAM/RoboTwin_DualSystem_JointSelfAttention_Vjepa21) |
 | 2026-07-10 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
 | 2026-07-10 | YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube | 84 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube) |
 | 2026-07-10 | aslivishaal/phi3_robotics_lora_v2 | 93 | 0 | [link](https://huggingface.co/aslivishaal/phi3_robotics_lora_v2) |
 | 2026-07-10 | SeonghoonYu/RACE_Robotwin | 0 | 0 | [link](https://huggingface.co/SeonghoonYu/RACE_Robotwin) |
-| 2026-07-10 | a5ilank/curious-robot | 0 | 0 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-07-10 | s1ghhh/VLADrop-pi05-RoboTwin-turn-switch-drop12-gate | 0 | 0 | [link](https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-turn-switch-drop12-gate) |
-| 2026-07-10 | s1ghhh/VLADrop-pi05-RoboTwin-place-dual-shoes-drop12-gate | 0 | 0 | [link](https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-place-dual-shoes-drop12-gate) |
-| 2026-07-10 | s1ghhh/VLADrop-pi05-RoboTwin-move-playingcard-away-drop16-gate | 0 | 0 | [link](https://huggingface.co/s1ghhh/VLADrop-pi05-RoboTwin-move-playingcard-away-drop16-gate) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| commaai/openpilot | 63070 | Python | 25228.1 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 7968 | JavaScript | 3187.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| isaac-sim/IsaacLab | 7651 | Python | 3060.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| dora-rs/dora | 3837 | Rust | 1534.9 | [link](https://github.com/dora-rs/dora) |
+| softmata/horus | 388 | Rust | 155.3 | [link](https://github.com/softmata/horus) |
 | mosaico-labs/mosaico | 888 | Python | 355.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 455 | Shell | 182.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 158 | Python | 63.3 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63070 | Python | 25228.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15442 | C++ | 6176.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14156 | C++ | 5662.5 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11273 | Python | 4509.3 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11115 | Rust | 4446.1 | [link](https://github.com/rerun-io/rerun) |
-| earthtojake/text-to-cad | 7964 | JavaScript | 3185.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| RLinf/RLinf | 4073 | Python | 1629.3 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -134,15 +134,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-10 | AI Data Operations Lead | Figure AI | San Jose | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
+| 2026-07-10 | Coordinator, Inventory and Logistics | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696351006) |
+| 2026-07-10 | Lead, Data Quality - Partnerships | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696347006) |
+| 2026-07-10 | Project Coordinator, Data Creators | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696349006) |
+| 2026-07-10 | Project Coordinator, Data Creators | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696348006) |
+| 2026-07-10 | Project Coordinator, Data Quality | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696350006) |
 | 2026-07-10 | Supplier Quality Engineer, BotQ | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4660300006) |
 | 2026-07-10 | Senior Manufacturing Test Engineer | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6113669004) |
 | 2026-07-10 | Senior Manufacturing Test Software Engineer | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6114083004) |
 | 2026-07-08 | NPI Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4627386006) |
-| 2026-07-08 | Recruiter-High Volume (contract) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4695758006) |
-| 2026-07-08 | Supplier Quality Engineer (Asia) | Figure AI | Asia | [link](https://job-boards.greenhouse.io/figureai/jobs/4626809006) |
-| 2026-07-08 | Senior Counsel, Technology Transactions | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6110909004) |
-| 2026-07-07 | Staff Systems Integration Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6017810004) |
-| 2026-07-06 | Electrical Engineering Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4676467006) |
 
 ## Automation
 
