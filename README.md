@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-11 07:02 UTC
+Last Updated: 2026-07-11 09:12 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-11 | A Look Inside a 1997 BBC Ceefax Generator | Hackaday | [link](https://hackaday.com/2026/07/11/a-look-inside-a-1997-bbc-ceefax-generator/) |
 | 2026-07-11 | Fixing the Fix for a 3dfx Voodoo Card’s Overly Bright Picture | Hackaday | [link](https://hackaday.com/2026/07/10/fixing-the-fix-for-a-3dfx-voodoo-cards-overly-bright-picture/) |
 | 2026-07-11 | Reject Modernity, Return to 80s, Learn C. | Hackaday | [link](https://hackaday.com/2026/07/10/reject-modernity-return-to-80s-learn-c/) |
 | 2026-07-11 | Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/) |
+| 2026-07-11 | The Python on Microcontrollers Newsletter: subscribe for free | Adafruit | [link](https://blog.adafruit.com/2026/07/11/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-11/) |
 | 2026-07-10 | Documenting the IR Protocol of the PumpSaver Plus Device | Hackaday | [link](https://hackaday.com/2026/07/10/documenting-the-ir-protocol-of-the-pumpsaver-plus-device/) |
 | 2026-07-10 | How To Use Those Cute But Slightly Odd 7-Segment LCDs | Hackaday | [link](https://hackaday.com/2026/07/10/how-to-use-those-tiny-and-slightly-odd-7-segment-lcds/) |
 | 2026-07-10 | Robot Dog in Browser | Hackaday | [link](https://hackaday.com/2026/07/10/robot-dog-in-browser/) |
 | 2026-07-10 | Hackaday Podcast Episode Ep 377: Parallel Pixels, Wiggly Consoles, and Seven Segments | Hackaday | [link](https://hackaday.com/2026/07/10/hackaday-podcast-episode-ep-377-parallel-pixels-wiggly-consoles-and-seven-segments/) |
-| 2026-07-10 | 3D Printed Scooter Fits in Your Luggage, Some Assembly Required | Hackaday | [link](https://hackaday.com/2026/07/10/3d-printed-scooter-fits-in-your-luggage-some-assembly-required/) |
 | 2026-07-10 | M5Stack Stamp-C5 – A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support | CNX Software | [link](https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/) |
-| 2026-07-10 | Open Book Touch – A DRM-free, WiFi-connected 4.26-inch open-source hardware e-reader (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/10/open-book-touch-a-drm-free-wifi-connected-4-26-inch-open-source-hardware-e-reader/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -78,15 +78,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-11 | a5ilank/curious-robot | 0 | 0 | [link](https://huggingface.co/a5ilank/curious-robot) |
-| 2026-07-11 | HarrisonPENG/M2W-VLA-RoboTwin | 0 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
+| 2026-07-11 | YinonDouchan/mobile_robot_lift_env_single_cube_single_platform | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env_single_cube_single_platform) |
 | 2026-07-11 | YinonDouchan/mobile_robot_lift_env | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env) |
+| 2026-07-11 | HarrisonPENG/M2W-VLA-RoboTwin | 29 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-07-11 | SakikoTogawa/pi0_robotwin_lora-place_dual_shoes-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_dual_shoes-100-himaconpp_repo) |
 | 2026-07-11 | saarthak-batra/unsupervised-robotics | 0 | 0 | [link](https://huggingface.co/saarthak-batra/unsupervised-robotics) |
-| 2026-07-11 | wijan/Robot-Action-Planner-gguf | 0 | 0 | [link](https://huggingface.co/wijan/Robot-Action-Planner-gguf) |
-| 2026-07-11 | wijan/Robot-Action-Planner | 0 | 0 | [link](https://huggingface.co/wijan/Robot-Action-Planner) |
-| 2026-07-11 | wonder-robot/smolvla_piper_v5 | 0 | 0 | [link](https://huggingface.co/wonder-robot/smolvla_piper_v5) |
+| 2026-07-11 | wijan/Robot-Action-Planner-gguf | 6 | 0 | [link](https://huggingface.co/wijan/Robot-Action-Planner-gguf) |
+| 2026-07-11 | wijan/Robot-Action-Planner | 12 | 0 | [link](https://huggingface.co/wijan/Robot-Action-Planner) |
+| 2026-07-11 | wonder-robot/smolvla_piper_v5 | 36 | 0 | [link](https://huggingface.co/wonder-robot/smolvla_piper_v5) |
 | 2026-07-11 | HarrisonPENG/M2W-VLA-LIBERO-query8 | 0 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-LIBERO-query8) |
-| 2026-07-11 | Jiafei1224/VLA-JEPA-MolmoAct2YAMData | 0 | 0 | [link](https://huggingface.co/Jiafei1224/VLA-JEPA-MolmoAct2YAMData) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,13 +94,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | ros-claw/rosclaw | 158 | Python | 63.3 | [link](https://github.com/ros-claw/rosclaw) |
 | commaai/openpilot | 63072 | Python | 25228.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15444 | C++ | 6177.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14158 | C++ | 5663.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 7976 | JavaScript | 3190.5 | [link](https://github.com/earthtojake/text-to-cad) |
-| isaac-sim/IsaacLab | 7651 | Python | 3060.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| google-deepmind/mujoco | 14161 | C++ | 5664.5 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 7981 | JavaScript | 3192.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| isaac-sim/IsaacLab | 7654 | Python | 3061.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3837 | Rust | 1534.9 | [link](https://github.com/dora-rs/dora) |
 | StanfordVL/BEHAVIOR-1K | 1561 | Python | 624.5 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| sou350121/VLA-Handbook | 372 | HTML | 148.9 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5520 | Python | 2208.1 | [link](https://github.com/vllm-project/vllm-omni) |
+| sou350121/VLA-Handbook | 374 | HTML | 149.7 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 5522 | Python | 2208.9 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -122,13 +122,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-11 | [Korean Startup Weekly News #126] Physical AI Takes Center Stage - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NTmMxNEs2WWNnYWlJZVRJLUJZaUtLMHRwdDg1cU53S1ZEWnA3Rnd4Nkt6aUNIRk9IX25HUV9pMHluaE9adm4xb3ZxY2ZUM01tZnFr?oc=5) |
 | 2026-07-11 | Mobilint touts NPU for physical AI, with CEO urging South Korea to accelerate development - digitimes | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPYjk5QzFHWGNEYldKbEhpZUFKYXJNSFhxOHg4ZWRYQnhZU3AyMmNJQmxJVlRsNTl1ajJYdXlFYXYxZkV4Q1lfOERGUXlmdjBLbmFnamhTX3JhcHdPZGxaYzBhcEEwS3FKNHBBWmdHZDdqenpsQUxWNXBaSnR6VENpQlBiSmJLLVhReU5vRjJKbw?oc=5) |
 | 2026-07-10 | ‘Physical AI is Europe’s last chance to be useful to the world’ - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCRkdaWU95QUp1UkRnTVBicHlDTm05M0ZWeURLZHFrQ216ZWZsMFBfMWtOV2w1MUJoWG5Wb1g2NTcxMzM5V2FsSDEtdUJFbnQwbDRDQk5iMERvQQ?oc=5) |
-| 2026-07-10 | LG CNS partners with UK's PhysicsX to develop industrial AI model - theinvestor.co.kr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nTXVyazVHSVZvaUdkRkRmNE52bkJSREgyN3FBWTRWTktnUHAyR1dpSU9sZGlIYlJUMVZhd0htMTZBWDRXWkVjV1RqSGhHbHl5bGZzdDRFaE9vUQ?oc=5) |
 | 2026-07-10 | European startup unveils humanoid robot design, real-time learning system - digitimes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXE3bmNjWmRpb1liS0xjVHRhaDlsVFFreDU0dVhOUW1wNUtqZHF3VTdWQkpMSlFmdnRfclJwaVFNeXV5OTV1aUFqSC1ZNzk0eFp4Q3YycWZpcjZCZW52SEtRTnVkLWsyenZfbjd2cXNNbUJ0ZTFQUVg4Um9DWTNpZDlZdW5WUkp5a0cyS0hDWGd4Y0U?oc=5) |
 | 2026-07-09 | Physical AI startup Hakimo raises $12 Mn - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTFBaVDNvVDhJajlhRXZaQ2hKemhRX2pIYl85bUE2Mkp0VkRmTXcyM3BBS09QX2o2dXRxRDUyVVVHdVRNS2JHY1JHT2QyMFNvVGNobld3Q0dYNUQ3OW5YWEwyQ0dBYzM2alNxY1N2bU9DVXZFWWlkeTl4ZkUzdE9oZG_SAX9BVV95cUxQWlQzb1Q4SWo5YUV2WkNoSnpoUV9qSGJfOW1BNjJKdFZEZk13MjNwQUtPUF9qNnV0cUQ1MlVVR3VUTUtiR2NSR09kMjBTb1RjaG5Xd0NHWDVENzluWFhMMkNHQWMzNmpTcWNTdm1PQ1V2RVlpZHk5eGZFM3RPaGRv?oc=5) |
 | 2026-07-09 | General Intuition just raised $320M on a thesis that sounds absurd — that video game data, not real robot telemetry, will produce the GPT of embodied AI - Silicon Canals | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelpEeVFMcnR5UHhTRmJDYmNzcmlGUTNZLVVDc2w5cThmcjV3ZXNGcm43b2IxMjBWZjdFWFB4OTRyQ3RVUzZPcWs3SkNsdjIxYWtfUjJMY05xYzdHNS1aZGEtWWFQaExpdEQtVFM1ZU5iMkpMT3NGNWhFbGhHZkE0MmVNeDRPa2cyd3p1aGJnVms1azhPUEt1cllYb0V6NGQzS1VZaWFTMVpxemNRR2FBMmRKNFd4TmpPRG1Ea1c5Vm00NzdJaWh5VUFYMWZ2WV9ZaXZWNUZTT3RQdGx2RXlRZHFHdVk1clBnSVdDdUFrODN3dUR1LVBQSHBSSm5fTWJUazlOckNlcHFuN0E?oc=5) |
 | 2026-07-09 | How Can Mistral's AI Transform Robot Navigation? - Analytics India Magazine | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2dRUnJ2TG5aazBHLVRhTW5Nay1LZ2NjSEoyLVE4Y1Z1aVhmb2VlNHFpM3JGUXJOcWJJU0dhb3d6bmw1ejVIaXpEc1U0cnNuc2FyZmZBazVRc2FiT3pMVUh6ZmVJZUpDdFVhUjZwd3VqV3JQcUJuLVFLaFhKZnNnbU5YblZXSWlJZmk1d3ZMQi1JbkhBX3pzR09SVmxhRi1GNVpQV3RmQVFuU01OSk5lbVNpQkRsTVZtS3hj?oc=5) |
-| 2026-07-09 | Ex-Tesla Optimus scientist unveils European humanoid robot startup - Moomoo | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijgNBVV95cUxNYUhyQkR0Y0VKZEZWSTl5UUNVT0ppSnNSUHkxSmZPWHRwYUQ0S0xDSHlmcUFpbXJ1bGhaR1VLXzNrd19sRi10ZTNnX0psVlIxdWlueW1kSExXZjlrUzV4RW9VQ3pBTWFCVGU0bnE1TVVnNjBiUENWRG1UU1RidUM5NXo2N3doU0J6WXQzWkZQVXpHYWgxY095NlN2VEVjcUZPUkt1dC1KbFd1OGZoM1FaOGNEWm00bXRNb2Vfd1lFUHhOdTJ5S1YyYVExQVVNZFdwLS0xNDBFSEhYQnA4MUNBQUhBcFhGd2xuNHVBZUJ5a2dkbDgxWmVhLUtuNnJ1ZExmdnBRbGZ0Sl9ueXZGOFpuWi1RX0d2VWE1YUQ3STluWkZzRjFDNDFiWHJGQjRMT01wRUgwODl2c0p3X2d5NmhDZkJDMGpPSk9zSVZlcGF3bEl4cldoODVudUpzM0l6UHdUVEk4U3dzVTlDUEtzajl4SUdGTFBVLTJoNlp1TnRSOFpUOW9wN2tDNDdhRkc1dw?oc=5) |
 | 2026-07-09 | Mitsubishi Motors to make humanoid robots for its own auto factories - Nikkei Asia | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVdFYll0TUNjRFM3aEVhRVdZXzNERHpDR0ljVkhTRXdod1FISUdxaUNoamZoQVZCRmZpLUhMNVQydWlWakVsOGF1d3pQOXpJdk05dnVma2NTSktmQVpYT240aG5selA2SzRiN2FzZFh0dTBuRUhEV3Bwb1I0S2tsQVRyWlptLUE5dmJtSGxrVUZ3UmFkNXAweXhocDJqcTB3QmlaQzQ0Q0pDSFByWXZTNExB?oc=5) |
+| 2026-07-08 | Mistral launches first robotics model in physical AI push - Reuters | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWEhvMGlyMXhJREFWZURld1hnTEJaMUpoeTA4d1pZQUQyQTNwZUhDOHE2SGJqTzJnZlNXelJTR2FDSGwtb00zRTlzZFlHVnh6dGp4X2s0dXhwd1V4S2JnWUw1cUY4Ylppd09nM21lQ1RfM0tIM1VmYjc3NlRGeDdSSUJmTDBqRGttZmxIemtSX2JVNTdFdm5vMktBVlNXMnB0?oc=5) |
+| 2026-07-08 | Mistral AI Releases Robotics Model to Support Physical AI Push - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWVqM2VWMGItbDI3UkVockIzVVR3eFRYMzJSVHRKbTg0ZjIwVHYxSFBERXN5V3hJOWtJZG9VbkJsdzZoTW1rWWZpOEdfSkowTEpoZlpZOGloZUwwbVRndi1ia0g1ZGhmMHNBMHVDaHFwM29LYzMzVXo2UnhjLWs5b0V3NXU0ek5PSGJrN1VMa0lSNVNpVTN5MWRERkt3Z1NIdlVTaFc1dDQxdVBMX0lCbE9WSQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

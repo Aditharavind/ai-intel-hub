@@ -1,5 +1,12 @@
 [
   {
+    "title": "A Look Inside a 1997 BBC Ceefax Generator",
+    "source": "Hackaday",
+    "date": "2026-07-11",
+    "url": "https://hackaday.com/2026/07/11/a-look-inside-a-1997-bbc-ceefax-generator/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"468\" src=\"https://hackaday.com/wp-content/uploads/2026/07/ceefax_inserter_insert_teletext_encoder_card_nathan_dane_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Ceefax was the BBC&#8217;s broadcast teletext service that ran until 2012, providing text and rudimentary graphics that were broadcast invisibly with the TV signal. In order to get this teletext <a class=\"read-more\" href=\"https://hackaday.com/2026/07/11/a-look-inside-a-1997-bbc-ceefax-generator/\">&#8230;read more</a>"
+  },
+  {
     "title": "Fixing the Fix for a 3dfx Voodoo Card’s Overly Bright Picture",
     "source": "Hackaday",
     "date": "2026-07-11",
@@ -19,6 +26,13 @@
     "date": "2026-07-11",
     "url": "https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/",
     "summary": "<div><img alt=\"ELM11-Feather FPGA board\" class=\"attachment-medium size-medium wp-post-image\" height=\"383\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/ELM11-Feather-FPGA-board-720x383.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>BrisbaneSilicon ELM11-Feather is a &#8220;microcontroller&#8221; board based on a Gowin GW1NR FPGA that is natively programmable in Lua, C, SystemVerilog, and VHDL. Compatible with the Adafruit Feather form factor, the board features GPIO headers, a built-in debugger, a USB-C port for power and programming, and a 2-pin header for a LiPo battery. The company calls it a microcontroller board because the FPGA runs a PicoRV32 MCU softcore at up to 75 MHz with 1MB RAM and 8MB flash, programmable with Lua, and the user can also customize hardware layers with RTL code using the remaining FPGA fabric. ELM11-Feather specifications: FPGA &#8211; Gowin GW1NR-LV9 FPGA from the GW1NR-9 family 8K LUTs 8,640 logical units (LUTs) 6,480 flip-flop 17,280 bits shadow SRAM (SSRAM) 486 Kbit block SRAM (BSRAM) 64 Mbit (8MB) PSRAM 608 Kbit user flash 2x PLL Up to 276x user I/O USB &#8211; 1x USB Type-C port for power and [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/\">Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
+    "date": "2026-07-11",
+    "url": "https://blog.adafruit.com/2026/07/11/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-11/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
     "title": "Documenting the IR Protocol of the PumpSaver Plus Device",
@@ -47,13 +61,6 @@
     "date": "2026-07-10",
     "url": "https://hackaday.com/2026/07/10/hackaday-podcast-episode-ep-377-parallel-pixels-wiggly-consoles-and-seven-segments/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>This week&#8217;s podcast sees Elliot joined by Jenny List, as both suffer silently in the European summer heat because the sound of a desk fan would come over on the <a class=\"read-more\" href=\"https://hackaday.com/2026/07/10/hackaday-podcast-episode-ep-377-parallel-pixels-wiggly-consoles-and-seven-segments/\">&#8230;read more</a>"
-  },
-  {
-    "title": "3D Printed Scooter Fits in Your Luggage, Some Assembly Required",
-    "source": "Hackaday",
-    "date": "2026-07-10",
-    "url": "https://hackaday.com/2026/07/10/3d-printed-scooter-fits-in-your-luggage-some-assembly-required/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/Mirandetta-eScooter.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Though [Ivan Miranda] calls the 3D printed vehicle in his recent video a motorbike, what he ultimately pulls out of his suitcase is clearly a scooter. Linguistic confusion aside, the <a class=\"read-more\" href=\"https://hackaday.com/2026/07/10/3d-printed-scooter-fits-in-your-luggage-some-assembly-required/\">&#8230;read more</a>"
   },
   {
     "title": "M5Stack Stamp-C5 – A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support",
@@ -264,13 +271,6 @@
     "date": "2026-07-09",
     "url": "https://blog.adafruit.com/2026/07/09/raspberry-pi-retro-handheld-5-elecrow-build-3dprinting-3dthursday/",
     "summary": "A handheld gaming console built around a Raspberry Pi 2, with a 5&#8243; Elecrow screen with built-in speaker. Includes full assembly instructions and BOM. Alternative Pi handheld for the cyberdeck block. Mark_McQ shared this project on Makerworld! Download files: https://makerworld.com/en/models/1526579-raspberry-pi-retro-handheld#profileId-1699568 Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and [&#8230;]"
-  },
-  {
-    "title": "Spool Dryer – Curved Desiccant Containers #3DPrinting #3DThursday",
-    "source": "Adafruit",
-    "date": "2026-07-09",
-    "url": "https://blog.adafruit.com/2026/07/09/spool-dryer-curved-desiccant-containers-3dprinting-3dthursday/",
-    "summary": "michael.tavel shares: Curved desiccant containers designed to sit directly next to your filament spool inside a dry bag or box. Curved surface area maximizes air-desiccant contact for effective drying. Includes a custom-fit funnel (vase mode) and snap-on lid. Three containers fit around one spool; print as many as needed. By michael.tavel download the files on: [&#8230;]"
   },
   {
     "title": "Lightpath to Deliver AI-Grade Fiber Infrastructure to Two New Hyperscale Data Center Campuses",
