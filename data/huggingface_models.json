@@ -9,13 +9,31 @@
     "score": 0.1
   },
   {
+    "model": "zaleni/WSA-Base-RoboTwin",
+    "downloads": 24,
+    "likes": 0,
+    "url": "https://huggingface.co/zaleni/WSA-Base-RoboTwin",
+    "date": "2026-07-11",
+    "keyword": "robot",
+    "score": 7.3
+  },
+  {
+    "model": "zaleni/WSA-Large-RoboTwin",
+    "downloads": 27,
+    "likes": 0,
+    "url": "https://huggingface.co/zaleni/WSA-Large-RoboTwin",
+    "date": "2026-07-11",
+    "keyword": "robot",
+    "score": 8.2
+  },
+  {
     "model": "YinonDouchan/mobile_robot_lift_env_single_cube_single_platform",
     "downloads": 0,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/YinonDouchan/mobile_robot_lift_env_single_cube_single_platform",
     "date": "2026-07-11",
     "keyword": "robot",
-    "score": 0.1
+    "score": 0.3
   },
   {
     "model": "YinonDouchan/mobile_robot_lift_env",
@@ -189,6 +207,15 @@
     "score": 0.1
   },
   {
+    "model": "ChristianZ97/satp-policy-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ChristianZ97/satp-policy-v2",
+    "date": "2026-07-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "Vikas134/hr-policy-assistant",
     "downloads": 0,
     "likes": 0,
@@ -214,24 +241,6 @@
     "date": "2026-07-10",
     "keyword": "policy",
     "score": 15.7
-  },
-  {
-    "model": "OpenWAM/RoboTwin_DualSystem_JointSelfAttention_Vjepa21",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/RoboTwin_DualSystem_JointSelfAttention_Vjepa21",
-    "date": "2026-07-10",
-    "keyword": "robot",
-    "score": 1.9
-  },
-  {
-    "model": "YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube",
-    "downloads": 182,
-    "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube",
-    "date": "2026-07-10",
-    "keyword": "robot",
-    "score": 54.7
   },
   {
     "model": "bohlt/lego-in-cup-vla-jepa-world-model-h32",
@@ -403,15 +412,6 @@
     "date": "2026-07-10",
     "keyword": "policy",
     "score": 12.1
-  },
-  {
-    "model": "ChristianZ97/satp-policy-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ChristianZ97/satp-policy-v2",
-    "date": "2026-07-10",
-    "keyword": "policy",
-    "score": 0.1
   },
   {
     "model": "aslivishaal/phi3_robotics_lora_v2",
