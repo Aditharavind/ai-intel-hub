@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-11 17:44 UTC
+Last Updated: 2026-07-11 18:39 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -56,9 +56,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-11 | Fixing the Fix for a 3dfx Voodoo Card’s Overly Bright Picture | Hackaday | [link](https://hackaday.com/2026/07/10/fixing-the-fix-for-a-3dfx-voodoo-cards-overly-bright-picture/) |
 | 2026-07-11 | Reject Modernity, Return to 80s, Learn C. | Hackaday | [link](https://hackaday.com/2026/07/10/reject-modernity-return-to-80s-learn-c/) |
 | 2026-07-11 | Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/) |
+| 2026-07-11 | Adafruit New Products 7/07/2026 | Adafruit | [link](https://blog.adafruit.com/2026/07/11/adafruit-new-products-7-07-2026/) |
 | 2026-07-11 | The Python on Microcontrollers Newsletter: subscribe for free | Adafruit | [link](https://blog.adafruit.com/2026/07/11/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-11/) |
 | 2026-07-10 | Documenting the IR Protocol of the PumpSaver Plus Device | Hackaday | [link](https://hackaday.com/2026/07/10/documenting-the-ir-protocol-of-the-pumpsaver-plus-device/) |
-| 2026-07-10 | M5Stack Stamp-C5 – A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support | CNX Software | [link](https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-11 | leehe228/dynin-robotics-libero-goal-7400 | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-goal-7400) |
 | 2026-07-11 | leehe228/dynin-robotics-libero-all-7400 | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-all-7400) |
 | 2026-07-11 | wonder-robot/smolvla_piper_v6 | 0 | 0 | [link](https://huggingface.co/wonder-robot/smolvla_piper_v6) |
 | 2026-07-11 | qualia-robotics/smolvla-so101-candy-33c62cfe | 0 | 0 | [link](https://huggingface.co/qualia-robotics/smolvla-so101-candy-33c62cfe) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-11 | OpenRAL/rskill-smolvla-aloha_agilex-robotwin-bf16 | 0 | 0 | [link](https://huggingface.co/OpenRAL/rskill-smolvla-aloha_agilex-robotwin-bf16) |
 | 2026-07-11 | madokalif/pi05-robotwin2-clean50-fbc-v2 | 0 | 0 | [link](https://huggingface.co/madokalif/pi05-robotwin2-clean50-fbc-v2) |
 | 2026-07-11 | YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube | 182 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube) |
-| 2026-07-11 | zaleni/WSA-Base-RoboTwin | 24 | 0 | [link](https://huggingface.co/zaleni/WSA-Base-RoboTwin) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -98,8 +98,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | zauberzeug/nicegui | 16004 | Python | 6401.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15444 | C++ | 6177.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14165 | C++ | 5666.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 8003 | JavaScript | 3201.3 | [link](https://github.com/earthtojake/text-to-cad) |
-| isaac-sim/IsaacLab | 7658 | Python | 3063.3 | [link](https://github.com/isaac-sim/IsaacLab) |
+| earthtojake/text-to-cad | 8006 | JavaScript | 3202.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| isaac-sim/IsaacLab | 7659 | Python | 3063.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3837 | Rust | 1534.9 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
