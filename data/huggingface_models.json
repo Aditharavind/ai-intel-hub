@@ -1,5 +1,41 @@
 [
   {
+    "model": "leehe228/dynin-robotics-libero-all-7400",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/leehe228/dynin-robotics-libero-all-7400",
+    "date": "2026-07-11",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "wonder-robot/smolvla_piper_v6",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wonder-robot/smolvla_piper_v6",
+    "date": "2026-07-11",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "qualia-robotics/smolvla-so101-candy-33c62cfe",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/qualia-robotics/smolvla-so101-candy-33c62cfe",
+    "date": "2026-07-11",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "DAVIAN-Robotics/pi05-robocasa-H50",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/DAVIAN-Robotics/pi05-robocasa-H50",
+    "date": "2026-07-11",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "a5ilank/curious-robot",
     "downloads": 0,
     "likes": 1,
@@ -72,42 +108,6 @@
     "score": 0.3
   },
   {
-    "model": "YinonDouchan/mobile_robot_lift_env",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/mobile_robot_lift_env",
-    "date": "2026-07-11",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
-    "downloads": 29,
-    "likes": 0,
-    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
-    "date": "2026-07-11",
-    "keyword": "vla",
-    "score": 8.8
-  },
-  {
-    "model": "SakikoTogawa/pi0_robotwin_lora-place_dual_shoes-100-himaconpp_repo",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_dual_shoes-100-himaconpp_repo",
-    "date": "2026-07-11",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "saarthak-batra/unsupervised-robotics",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/saarthak-batra/unsupervised-robotics",
-    "date": "2026-07-11",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "anhtld/vla",
     "downloads": 0,
     "likes": 3,
@@ -169,6 +169,15 @@
     "date": "2026-07-11",
     "keyword": "vla",
     "score": 0.1
+  },
+  {
+    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
+    "downloads": 29,
+    "likes": 0,
+    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
+    "date": "2026-07-11",
+    "keyword": "vla",
+    "score": 8.8
   },
   {
     "model": "ultrastar112/sokoban_easy_cot_chunk_kinf_world_model_20260707_perseg",
@@ -261,6 +270,15 @@
     "score": 0.1
   },
   {
+    "model": "ahmedaali/so101_act_policy_v7",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ahmedaali/so101_act_policy_v7",
+    "date": "2026-07-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "KeshavLN/deskorgv2.7_policy",
     "downloads": 0,
     "likes": 0,
@@ -312,6 +330,15 @@
     "url": "https://huggingface.co/hiskiv/cosmos-policy-lam",
     "date": "2026-07-11",
     "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "saarthak-batra/unsupervised-robotics",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/saarthak-batra/unsupervised-robotics",
+    "date": "2026-07-11",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -423,15 +450,6 @@
     "score": 14.8
   },
   {
-    "model": "pratushpapnai/policy_assistant",
-    "downloads": 531,
-    "likes": 0,
-    "url": "https://huggingface.co/pratushpapnai/policy_assistant",
-    "date": "2026-07-10",
-    "keyword": "policy",
-    "score": 159.4
-  },
-  {
     "model": "aslivishaal/phi3_robotics_lora_v2",
     "downloads": 137,
     "likes": 0,
@@ -527,33 +545,6 @@
     "likes": 0,
     "url": "https://huggingface.co/pollen-robotics/face_detection_yunet_2026may",
     "date": "2026-07-07",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "pollen-robotics/face_detection_yunet_2023mar",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/pollen-robotics/face_detection_yunet_2023mar",
-    "date": "2026-07-07",
-    "keyword": "robotics",
-    "score": 0.3
-  },
-  {
-    "model": "aslivishaal/robotics-phi35-mini-gguf",
-    "downloads": 180,
-    "likes": 0,
-    "url": "https://huggingface.co/aslivishaal/robotics-phi35-mini-gguf",
-    "date": "2026-07-06",
-    "keyword": "robotics",
-    "score": 54.1
-  },
-  {
-    "model": "PuraVida06/ai-miner-robotics-model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/PuraVida06/ai-miner-robotics-model",
-    "date": "2026-07-06",
     "keyword": "robotics",
     "score": 0.1
   },
