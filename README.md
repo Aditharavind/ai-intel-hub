@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-11 15:41 UTC
+Last Updated: 2026-07-11 16:40 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -95,40 +95,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | mosaico-labs/mosaico | 888 | Python | 355.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | ros-claw/rosclaw | 158 | Python | 63.3 | [link](https://github.com/ros-claw/rosclaw) |
 | commaai/openpilot | 63075 | Python | 25230.1 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 16004 | Python | 6401.7 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16005 | Python | 6402.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15444 | C++ | 6177.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14165 | C++ | 5666.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 7999 | JavaScript | 3199.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| isaac-sim/IsaacLab | 7657 | Python | 3062.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| earthtojake/text-to-cad | 8000 | JavaScript | 3200.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| isaac-sim/IsaacLab | 7658 | Python | 3063.3 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3837 | Rust | 1534.9 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
-| Date | Company | Round | Amount | Source |
-| --- | --- | --- | --- | --- |
-| 2026-07-08 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxNS056dHV6ZHBGUEVIZFVyNzNjdG5LVm16LURhY04ycXc3SmdZdktPTkJZWkZ4RWhIWUJvMG1Yb1BYb0psRVdMQS1kbTFERzRIRUtyb2p3TWpFSEdleHdKT2JONUNJWFQzWW9Wc0hOOFRvVFQ2eDdnd2E0V1pHemhzVElFQ1F3V1RZNjVZQ0JydDdBb3dvNDZwNUxR?oc=5) |
-| 2026-07-08 | LeRobot |  |  | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUjV4TUlCcWQ3MVZHSmE2VjFlYkJJeDQ3eEZpZXZNREhjM3BuOTNhRFJCNGQydG1RS3BOc2lubnNXcUtkeUNPLVVRbWkxa2FWTG15UGQwZkVadjhkN20yb1ZSOW9aZE1OYXZpWGJlZndPTXR4azlqdUp0bUNmeDM5eXFreE12SHJfaGdBME5LYmQ?oc=5) |
-| 2026-07-07 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxNOHh5SElCZGg0QV82Qk56ampQZDFwa1JqT3IxVFNMVzNMVWJRVFNhNlZvMUd6Vzl0dU0wOVJpYkJ3M3VEU08yTlFrSF9JS0RoUGROTkxWQWJZellHYmdkWjkzaGxqaV9GSDFZNDl5NlhWNGVTQVVLN2RVd2tFREJXbl9TajBWOEc0eF9MLWdR?oc=5) |
-| 2026-07-07 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMitgJBVV95cUxQdjdfLTBlbU4zUnJHSDRSWTU0R0R6STNDdVJET3hHWVJpR25PT2dYQnJzYWRna1pQeVdKYlRkZDRvTnlEWkY1NHA4bnpnblRWNVJFNHhUZUNQZktYUlJncTZNQmI3eTRjc2REc2VDOWdkSE93ZHRIcW1feGJUbDV5WGFEeTgwVjlURWF0bzV5SGxlZWZ4NWJZbTlianVqNjdTYWlHWFNyQy04eW81cGROQ3R2ZGJ4Z3RZYVh3b2l3NlZEQXlKZjFaN3FxVEdsWV9lNkp3d2R2ZVRGN19LRWpLWlNNLV9TYkNxMjMtSXEzUlJlbWJtZmVUZWw4T3Q5Q0s4cnZVbmhCcjVWcXpsYld6aVBCQmh6ZlNOZXlIVUJTa05aVVJLT3IwOTlKY0dNQ2RUZGF5TWVn?oc=5) |
-| 2026-07-07 | LeRobot |  |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzRyeF85c183eThYLXZWRXZQYlhlY1dtY3RGLTY4NDRmazV2d0lKUXZxa0owU0ctSkZiRGttdXkzRGJ4WkVmMTBfMTZqN0Zkbmpncl9ueWxzZXlqRURrOWJOTGU5NDF4Yk1pd0g5Y0JXWi16UHA4Y1RvTm9ndUJ5MTY2eGQtSFVUNFNGVzRqTm5Reml5dXZYRzdZOXVYSld4RjZKTnNaU2NfUlE2TWFMQWJOZC1GRy16WWIyekJqeXVHNlh2UzVVVQ?oc=5) |
-| 2026-07-06 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVnZ0b1ZINm9iN2hoTlNxQzFOcVF4Ym0wT2ZKcWRENzVNeGdkZXVPVjB6Q1VXT3NMU3NITG94aDhZM2loNC0zZ3JtN1RNbHMwLUg1Ui1US3daRkRxQk1oZjItNndsWjhES1h2UG1RS0s2WnpBT29KcTlkWkFnVU5LR1NBeUdsend2SG5kWWUxT19GNi1sQklITGY0MmRhc3VTdkpjQ2hOQ1d2WDMwaGZQTWNzLV9sZEVRNWlXaE52NHlaVEhXZk83X2pHUE5ZZUk5Sm9pYm5LVWZ0Zw?oc=5) |
-| 2026-07-06 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZFM2Y1ZRQ1hzTEVWbDBIaWRtcFBHdEo0bUJmeTZzbC1feEJUUG8wUDNOZ3JPcGU2U1o2elhFLTB2UE5ybWI2R2QzVTNsOVh1RDZsU2NyMjdxN2JtdUJwNXZqdnAxbk9ZWVhKTmZ4YWNSekotdGtPV0NXUjVnYlMxRWtPNUxONHpZ?oc=5) |
-| 2026-07-06 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWnctYzBfM1QtSy02WndSZmpNZVVMbWZLV05xM1JRVEszQW1ZcHlaQUVpcjY2MWl2MWtVTjRsMVotV19TLURwS044eTJfZ2ptSFk0MTJWNmUxLTRsUUZaSzQtc01QR1BrVklJY0N0cTRLRzVvRnVManB2Y05MSUdBbXNNV1VoSEY5SzRlR3FRRmZKT2l1VzdfenZxTGNLMzNhdG96allkUms1S1pWN0xEcGYyZy1pRk1fNWwyUGdnTV9jWkxwa1k3VzJwWFJSbC0ybVI4OGxn?oc=5) |
-| 2026-07-03 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTWpiTlNmSjROU2hWME1sQjZUTWxfVUg2M1cyVkVfVmduOUZ5ejBNM0pGSk9Sd3Y0Z1lQN2NreEN5ZVVwcWpuYnVObUVNWWZuUXc?oc=5) |
-| 2026-07-03 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSa2d3a0hiWDBvOUNNWEZMbHk1bUpHVm9kdTRRbEVwdUgtMUdOX0xQcDBBNGxZV0p6eENuNkZjU25ndUJWRnFUMXhiaFdUOWFUd01keHhGMnZsMGI5OTFoQVRWR3JpSkE?oc=5) |
+_No items collected yet._
 
 ## New Companies
-| Date | Signal | Category | Source |
-| --- | --- | --- | --- |
-| 2026-07-11 | [Korean Startup Weekly News #126] Physical AI Takes Center Stage - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NTmMxNEs2WWNnYWlJZVRJLUJZaUtLMHRwdDg1cU53S1ZEWnA3Rnd4Nkt6aUNIRk9IX25HUV9pMHluaE9adm4xb3ZxY2ZUM01tZnFr?oc=5) |
-| 2026-07-11 | Mobilint touts NPU for physical AI, with CEO urging South Korea to accelerate development - digitimes | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPYjk5QzFHWGNEYldKbEhpZUFKYXJNSFhxOHg4ZWRYQnhZU3AyMmNJQmxJVlRsNTl1ajJYdXlFYXYxZkV4Q1lfOERGUXlmdjBLbmFnamhTX3JhcHdPZGxaYzBhcEEwS3FKNHBBWmdHZDdqenpsQUxWNXBaSnR6VENpQlBiSmJLLVhReU5vRjJKbw?oc=5) |
-| 2026-07-10 | ‘Physical AI is Europe’s last chance to be useful to the world’ - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCRkdaWU95QUp1UkRnTVBicHlDTm05M0ZWeURLZHFrQ216ZWZsMFBfMWtOV2w1MUJoWG5Wb1g2NTcxMzM5V2FsSDEtdUJFbnQwbDRDQk5iMERvQQ?oc=5) |
-| 2026-07-10 | LG CNS partners with UK's PhysicsX to develop industrial AI model - The Korea Herald | physical ai startup | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHX01INnhzTXA1S3dlSFNRUl9jVEJlWUg2TjZuSkNGd3Rxdm1ONXg3YjgyR05FZ21fOEdPQkVvSGowMUU3aWVhdVEweVJpc0V4aWI1N2ptWQ?oc=5) |
-| 2026-07-10 | European startup unveils humanoid robot design, real-time learning system - digitimes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXE3bmNjWmRpb1liS0xjVHRhaDlsVFFreDU0dVhOUW1wNUtqZHF3VTdWQkpMSlFmdnRfclJwaVFNeXV5OTV1aUFqSC1ZNzk0eFp4Q3YycWZpcjZCZW52SEtRTnVkLWsyenZfbjd2cXNNbUJ0ZTFQUVg4Um9DWTNpZDlZdW5WUkp5a0cyS0hDWGd4Y0U?oc=5) |
-| 2026-07-09 | Reservoir Farms Launches Pilot in Arizona for Physical AI Innovation in Specialty Crops - TMX Newsfile | physical ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWFRVDFqM0U0Z0pxTm9xSEt2UGxtZFlFQ2dWSFQ0dFNVdk9lR1V1cEVaVmd2ay1BMElqX0F4Mmk3MTh2T2psc1JmemQyN2Q0djlUUjNndktnWUo5cjctY2FhM2VRTzVOSEw4RzZrSTJXZGY0MEd6d2s3T1hoR0dRRlM5cXM5S2Z2VVJHR3JhNTRuVTNHbXh1djg0MW9lZk1wYnZCZVRfZXBIVUNycHh6SnN1X3NBQkptRE9ta21RbWt4VkNnZ0JjdmZ5Yw?oc=5) |
-| 2026-07-09 | General Intuition just raised $320M on a thesis that sounds absurd — that video game data, not real robot telemetry, will produce the GPT of embodied AI - Silicon Canals | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelpEeVFMcnR5UHhTRmJDYmNzcmlGUTNZLVVDc2w5cThmcjV3ZXNGcm43b2IxMjBWZjdFWFB4OTRyQ3RVUzZPcWs3SkNsdjIxYWtfUjJMY05xYzdHNS1aZGEtWWFQaExpdEQtVFM1ZU5iMkpMT3NGNWhFbGhHZkE0MmVNeDRPa2cyd3p1aGJnVms1azhPUEt1cllYb0V6NGQzS1VZaWFTMVpxemNRR2FBMmRKNFd4TmpPRG1Ea1c5Vm00NzdJaWh5VUFYMWZ2WV9ZaXZWNUZTT3RQdGx2RXlRZHFHdVk1clBnSVdDdUFrODN3dUR1LVBQSHBSSm5fTWJUazlOckNlcHFuN0E?oc=5) |
-| 2026-07-09 | How Can Mistral's AI Transform Robot Navigation? - Analytics India Magazine | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2dRUnJ2TG5aazBHLVRhTW5Nay1LZ2NjSEoyLVE4Y1Z1aVhmb2VlNHFpM3JGUXJOcWJJU0dhb3d6bmw1ejVIaXpEc1U0cnNuc2FyZmZBazVRc2FiT3pMVUh6ZmVJZUpDdFVhUjZwd3VqV3JQcUJuLVFLaFhKZnNnbU5YblZXSWlJZmk1d3ZMQi1JbkhBX3pzR09SVmxhRi1GNVpQV3RmQVFuU01OSk5lbVNpQkRsTVZtS3hj?oc=5) |
-| 2026-07-09 | Ex-Tesla Optimus scientist unveils European humanoid robot startup - Moomoo | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijgNBVV95cUxNYUhyQkR0Y0VKZEZWSTl5UUNVT0ppSnNSUHkxSmZPWHRwYUQ0S0xDSHlmcUFpbXJ1bGhaR1VLXzNrd19sRi10ZTNnX0psVlIxdWlueW1kSExXZjlrUzV4RW9VQ3pBTWFCVGU0bnE1TVVnNjBiUENWRG1UU1RidUM5NXo2N3doU0J6WXQzWkZQVXpHYWgxY095NlN2VEVjcUZPUkt1dC1KbFd1OGZoM1FaOGNEWm00bXRNb2Vfd1lFUHhOdTJ5S1YyYVExQVVNZFdwLS0xNDBFSEhYQnA4MUNBQUhBcFhGd2xuNHVBZUJ5a2dkbDgxWmVhLUtuNnJ1ZExmdnBRbGZ0Sl9ueXZGOFpuWi1RX0d2VWE1YUQ3STluWkZzRjFDNDFiWHJGQjRMT01wRUgwODl2c0p3X2d5NmhDZkJDMGpPSk9zSVZlcGF3bEl4cldoODVudUpzM0l6UHdUVEk4U3dzVTlDUEtzajl4SUdGTFBVLTJoNlp1TnRSOFpUOW9wN2tDNDdhRkc1dw?oc=5) |
-| 2026-07-09 | Mitsubishi Motors to make humanoid robots for its own auto factories - Nikkei Asia | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVdFYll0TUNjRFM3aEVhRVdZXzNERHpDR0ljVkhTRXdod1FISUdxaUNoamZoQVZCRmZpLUhMNVQydWlWakVsOGF1d3pQOXpJdk05dnVma2NTSktmQVpYT240aG5selA2SzRiN2FzZFh0dTBuRUhEV3Bwb1I0S2tsQVRyWlptLUE5dmJtSGxrVUZ3UmFkNXAweXhocDJqcTB3QmlaQzQ0Q0pDSFByWXZTNExB?oc=5) |
+_No items collected yet._
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
