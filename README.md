@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-11 21:36 UTC
+Last Updated: 2026-07-11 22:33 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -78,6 +78,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-11 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-07-11 | leehe228/dynin-robotics-libero-object-7400 | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-object-7400) |
 | 2026-07-11 | leehe228/dynin-robotics-libero-goal-3000 | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-goal-3000) |
 | 2026-07-11 | leehe228/dynin-robotics-libero-goal-4400 | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-goal-4400) |
 | 2026-07-11 | leehe228/dynin-robotics-libero-goal-5800 | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-goal-5800) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-11 | leehe228/dynin-robotics-libero-goal-7400 | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-goal-7400) |
 | 2026-07-11 | leehe228/dynin-robotics-libero-all-7400 | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-all-7400) |
 | 2026-07-11 | qualia-robotics/smolvla-so101-candy-33c62cfe | 0 | 0 | [link](https://huggingface.co/qualia-robotics/smolvla-so101-candy-33c62cfe) |
-| 2026-07-11 | DAVIAN-Robotics/pi05-robocasa-H50 | 0 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/pi05-robocasa-H50) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -98,7 +98,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | zauberzeug/nicegui | 16004 | Python | 6401.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15444 | C++ | 6177.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14167 | C++ | 5666.9 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 8010 | JavaScript | 3204.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 8011 | JavaScript | 3204.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | isaac-sim/IsaacLab | 7659 | Python | 3063.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3838 | Rust | 1535.3 | [link](https://github.com/dora-rs/dora) |
 
@@ -121,7 +121,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-11 | Grounding VLMs: VAORA's Leap in Physical AI - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXV2TUV2ZE03Zkd5WjcxZW9ueFFlT0V6TFdTQkJhejNFWU1iTDV6ckpwZ296VFVIQUVMdFRLbzlFdlpPQW9iajlCX19RSWVnMmZCUk9KQ1M3c3kwOHU3Wl9IQW9VTEtXVzVtYWpIcHhVelNJXzJwUkhKQzJYU3dNVU9VTDByVXJScnpMWTZHWVV2RVliYU00TA?oc=5) |
 | 2026-07-11 | [Korean Startup Weekly News #126] Physical AI Takes Center Stage - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NTmMxNEs2WWNnYWlJZVRJLUJZaUtLMHRwdDg1cU53S1ZEWnA3Rnd4Nkt6aUNIRk9IX25HUV9pMHluaE9adm4xb3ZxY2ZUM01tZnFr?oc=5) |
-| 2026-07-11 | Mobilint touts NPU for physical AI, with CEO urging South Korea to accelerate development - digitimes | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPYjk5QzFHWGNEYldKbEhpZUFKYXJNSFhxOHg4ZWRYQnhZU3AyMmNJQmxJVlRsNTl1ajJYdXlFYXYxZkV4Q1lfOERGUXlmdjBLbmFnamhTX3JhcHdPZGxaYzBhcEEwS3FKNHBBWmdHZDdqenpsQUxWNXBaSnR6VENpQlBiSmJLLVhReU5vRjJKbw?oc=5) |
 | 2026-07-10 | ‘Physical AI is Europe’s last chance to be useful to the world’ - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCRkdaWU95QUp1UkRnTVBicHlDTm05M0ZWeURLZHFrQ216ZWZsMFBfMWtOV2w1MUJoWG5Wb1g2NTcxMzM5V2FsSDEtdUJFbnQwbDRDQk5iMERvQQ?oc=5) |
 | 2026-07-10 | LG CNS partners with UK's PhysicsX to develop industrial AI model - The Korea Herald | physical ai startup | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHX01INnhzTXA1S3dlSFNRUl9jVEJlWUg2TjZuSkNGd3Rxdm1ONXg3YjgyR05FZ21fOEdPQkVvSGowMUU3aWVhdVEweVJpc0V4aWI1N2ptWQ?oc=5) |
 | 2026-07-10 | European startup unveils humanoid robot design, real-time learning system - digitimes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXE3bmNjWmRpb1liS0xjVHRhaDlsVFFreDU0dVhOUW1wNUtqZHF3VTdWQkpMSlFmdnRfclJwaVFNeXV5OTV1aUFqSC1ZNzk0eFp4Q3YycWZpcjZCZW52SEtRTnVkLWsyenZfbjd2cXNNbUJ0ZTFQUVg4Um9DWTNpZDlZdW5WUkp5a0cyS0hDWGd4Y0U?oc=5) |
@@ -129,6 +128,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-09 | General Intuition just raised $320M on a thesis that sounds absurd — that video game data, not real robot telemetry, will produce the GPT of embodied AI - Silicon Canals | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelpEeVFMcnR5UHhTRmJDYmNzcmlGUTNZLVVDc2w5cThmcjV3ZXNGcm43b2IxMjBWZjdFWFB4OTRyQ3RVUzZPcWs3SkNsdjIxYWtfUjJMY05xYzdHNS1aZGEtWWFQaExpdEQtVFM1ZU5iMkpMT3NGNWhFbGhHZkE0MmVNeDRPa2cyd3p1aGJnVms1azhPUEt1cllYb0V6NGQzS1VZaWFTMVpxemNRR2FBMmRKNFd4TmpPRG1Ea1c5Vm00NzdJaWh5VUFYMWZ2WV9ZaXZWNUZTT3RQdGx2RXlRZHFHdVk1clBnSVdDdUFrODN3dUR1LVBQSHBSSm5fTWJUazlOckNlcHFuN0E?oc=5) |
 | 2026-07-09 | How Can Mistral's AI Transform Robot Navigation? - Analytics India Magazine | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2dRUnJ2TG5aazBHLVRhTW5Nay1LZ2NjSEoyLVE4Y1Z1aVhmb2VlNHFpM3JGUXJOcWJJU0dhb3d6bmw1ejVIaXpEc1U0cnNuc2FyZmZBazVRc2FiT3pMVUh6ZmVJZUpDdFVhUjZwd3VqV3JQcUJuLVFLaFhKZnNnbU5YblZXSWlJZmk1d3ZMQi1JbkhBX3pzR09SVmxhRi1GNVpQV3RmQVFuU01OSk5lbVNpQkRsTVZtS3hj?oc=5) |
 | 2026-07-09 | Mitsubishi Motors to make humanoid robots for its own auto factories - Nikkei Asia | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVdFYll0TUNjRFM3aEVhRVdZXzNERHpDR0ljVkhTRXdod1FISUdxaUNoamZoQVZCRmZpLUhMNVQydWlWakVsOGF1d3pQOXpJdk05dnVma2NTSktmQVpYT240aG5selA2SzRiN2FzZFh0dTBuRUhEV3Bwb1I0S2tsQVRyWlptLUE5dmJtSGxrVUZ3UmFkNXAweXhocDJqcTB3QmlaQzQ0Q0pDSFByWXZTNExB?oc=5) |
+| 2026-07-08 | Mistral launches first robotics model in physical AI push - Reuters | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWEhvMGlyMXhJREFWZURld1hnTEJaMUpoeTA4d1pZQUQyQTNwZUhDOHE2SGJqTzJnZlNXelJTR2FDSGwtb00zRTlzZFlHVnh6dGp4X2s0dXhwd1V4S2JnWUw1cUY4Ylppd09nM21lQ1RfM0tIM1VmYjc3NlRGeDdSSUJmTDBqRGttZmxIemtSX2JVNTdFdm5vMktBVlNXMnB0?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
