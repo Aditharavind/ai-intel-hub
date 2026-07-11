@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-11 14:15 UTC
+Last Updated: 2026-07-11 15:41 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -91,15 +91,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| copper-project/copper-rs | 1398 | Rust | 559.3 | [link](https://github.com/copper-project/copper-rs) |
+| copper-project/copper-rs | 1399 | Rust | 559.7 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 888 | Python | 355.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | ros-claw/rosclaw | 158 | Python | 63.3 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63073 | Python | 25229.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63075 | Python | 25230.1 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16004 | Python | 6401.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15444 | C++ | 6177.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14165 | C++ | 5666.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 7994 | JavaScript | 3197.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| isaac-sim/IsaacLab | 7656 | Python | 3062.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| earthtojake/text-to-cad | 7999 | JavaScript | 3199.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| isaac-sim/IsaacLab | 7657 | Python | 3062.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3837 | Rust | 1534.9 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
