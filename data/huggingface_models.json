@@ -1,5 +1,23 @@
 [
   {
+    "model": "yassinsanadai/llama3-robot-awq",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yassinsanadai/llama3-robot-awq",
+    "date": "2026-07-12",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "DAVIAN-Robotics/pi05-robocasa-H50",
+    "downloads": 30,
+    "likes": 0,
+    "url": "https://huggingface.co/DAVIAN-Robotics/pi05-robocasa-H50",
+    "date": "2026-07-12",
+    "keyword": "robotics",
+    "score": 9.1
+  },
+  {
     "model": "wijan/Robot-Action-Planner-NO-FT",
     "downloads": 0,
     "likes": 0,
@@ -90,21 +108,21 @@
     "score": 0.1
   },
   {
-    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
-    "downloads": 48,
-    "likes": 0,
-    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
+    "model": "Mayank022/urban-vla-language-act",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/Mayank022/urban-vla-language-act",
     "date": "2026-07-12",
     "keyword": "vla",
-    "score": 14.5
+    "score": 0.3
   },
   {
-    "model": "leehe228/dynin-robotics-libero-spatial-3000",
+    "model": "physicalai-bmi/nano-vla-pixels",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/leehe228/dynin-robotics-libero-spatial-3000",
+    "url": "https://huggingface.co/physicalai-bmi/nano-vla-pixels",
     "date": "2026-07-12",
-    "keyword": "robotics",
+    "keyword": "physical ai",
     "score": 0.1
   },
   {
@@ -180,6 +198,15 @@
     "score": 0.1
   },
   {
+    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
+    "downloads": 48,
+    "likes": 0,
+    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
+    "date": "2026-07-12",
+    "keyword": "vla",
+    "score": 14.5
+  },
+  {
     "model": "anhtld/vla",
     "downloads": 0,
     "likes": 3,
@@ -187,24 +214,6 @@
     "date": "2026-07-12",
     "keyword": "vla",
     "score": 0.7
-  },
-  {
-    "model": "s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_Drop30Block_Endpoints",
-    "downloads": 34,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_Drop30Block_Endpoints",
-    "date": "2026-07-12",
-    "keyword": "vla",
-    "score": 10.3
-  },
-  {
-    "model": "s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_Drop16MLP_Uniform",
-    "downloads": 27,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_Drop16MLP_Uniform",
-    "date": "2026-07-12",
-    "keyword": "vla",
-    "score": 8.2
   },
   {
     "model": "ultrastar112/maze2d_easy_native256_cot_chunk_k3_world_model_20260707_perseg",
@@ -378,6 +387,15 @@
     "score": 0.1
   },
   {
+    "model": "leehe228/dynin-robotics-libero-spatial-3000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/leehe228/dynin-robotics-libero-spatial-3000",
+    "date": "2026-07-12",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "leehe228/dynin-robotics-libero-spatial-4400",
     "downloads": 0,
     "likes": 0,
@@ -490,15 +508,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/leehe228/dynin-robotics-libero-object-7400",
-    "date": "2026-07-11",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "leehe228/dynin-robotics-libero-goal-3000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/leehe228/dynin-robotics-libero-goal-3000",
     "date": "2026-07-11",
     "keyword": "robotics",
     "score": 0.1
@@ -673,15 +682,6 @@
     "date": "2026-06-14",
     "keyword": "physical ai",
     "score": 5.8
-  },
-  {
-    "model": "physicalairi/act_ur3_stack_cube_camera_sim_v3",
-    "downloads": 37,
-    "likes": 0,
-    "url": "https://huggingface.co/physicalairi/act_ur3_stack_cube_camera_sim_v3",
-    "date": "2026-06-13",
-    "keyword": "physical ai",
-    "score": 11.2
   },
   {
     "model": "IffYuan/Embodied-R1.5-8B-SFT",
