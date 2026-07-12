@@ -1,5 +1,14 @@
 [
   {
+    "model": "YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube_single",
+    "downloads": 34,
+    "likes": 0,
+    "url": "https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube_single",
+    "date": "2026-07-12",
+    "keyword": "robot",
+    "score": 10.3
+  },
+  {
     "model": "yassinsanadai/llama3-robot-awq",
     "downloads": 0,
     "likes": 0,
@@ -99,12 +108,12 @@
     "score": 0.1
   },
   {
-    "model": "leehe228/dynin-robotics-libero-long-7400",
+    "model": "VladimirRH/toxicity-classifier",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/leehe228/dynin-robotics-libero-long-7400",
+    "url": "https://huggingface.co/VladimirRH/toxicity-classifier",
     "date": "2026-07-12",
-    "keyword": "robotics",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -207,13 +216,49 @@
     "score": 0.1
   },
   {
-    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
-    "downloads": 48,
+    "model": "ultrastar112/maze2d_easy_native256_noncot_chunk_kinf_world_model_20260707_perseg",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
+    "url": "https://huggingface.co/ultrastar112/maze2d_easy_native256_noncot_chunk_kinf_world_model_20260707_perseg",
     "date": "2026-07-12",
-    "keyword": "vla",
-    "score": 14.5
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "ultrastar112/maze2d_easy_native256_noncot_chunk_k10_world_model_20260707_perseg",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ultrastar112/maze2d_easy_native256_noncot_chunk_k10_world_model_20260707_perseg",
+    "date": "2026-07-12",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "ultrastar112/maze2d_easy_native256_noncot_chunk_k5_world_model_20260707_perseg",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ultrastar112/maze2d_easy_native256_noncot_chunk_k5_world_model_20260707_perseg",
+    "date": "2026-07-12",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "ultrastar112/maze2d_easy_native256_noncot_chunk_k3_world_model_20260707_perseg",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ultrastar112/maze2d_easy_native256_noncot_chunk_k3_world_model_20260707_perseg",
+    "date": "2026-07-12",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "ultrastar112/maze2d_easy_native256_noncot_chunk_k1_world_model_20260707_perseg",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ultrastar112/maze2d_easy_native256_noncot_chunk_k1_world_model_20260707_perseg",
+    "date": "2026-07-12",
+    "keyword": "world model",
+    "score": 0.1
   },
   {
     "model": "ultrastar112/maze2d_easy_native256_cot_chunk_kinf_world_model_20260707_perseg",
@@ -274,51 +319,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/ultrastar112/pusht_96_norm4_cot_chunk_kinf_world_model_20260707_perseg",
-    "date": "2026-07-12",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "ultrastar112/pusht_96_norm4_noncot_chunk_k10_world_model_20260622_perseg",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ultrastar112/pusht_96_norm4_noncot_chunk_k10_world_model_20260622_perseg",
-    "date": "2026-07-12",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "ultrastar112/pusht_96_norm4_noncot_chunk_k5_world_model_20260622_perseg",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ultrastar112/pusht_96_norm4_noncot_chunk_k5_world_model_20260622_perseg",
-    "date": "2026-07-12",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "ultrastar112/pusht_96_norm4_noncot_chunk_k3_world_model_20260622_perseg",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ultrastar112/pusht_96_norm4_noncot_chunk_k3_world_model_20260622_perseg",
-    "date": "2026-07-12",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "ultrastar112/pusht_96_norm4_noncot_chunk_k1_world_model_20260622_perseg",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ultrastar112/pusht_96_norm4_noncot_chunk_k1_world_model_20260622_perseg",
-    "date": "2026-07-12",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "ultrastar112/pusht_96_norm4_cot_chunk_k10_world_model_20260622_perseg",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ultrastar112/pusht_96_norm4_cot_chunk_k10_world_model_20260622_perseg",
     "date": "2026-07-12",
     "keyword": "world model",
     "score": 0.1
@@ -393,6 +393,15 @@
     "url": "https://huggingface.co/Prabhalika/hr-policy-assistant",
     "date": "2026-07-12",
     "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "leehe228/dynin-robotics-libero-long-7400",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/leehe228/dynin-robotics-libero-long-7400",
+    "date": "2026-07-12",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
