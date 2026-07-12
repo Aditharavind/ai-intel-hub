@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-12 05:02 UTC
+Generated: 2026-07-12 07:52 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,8 +14,8 @@ Generated: 2026-07-12 05:02 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82407 | 32962.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63082 | 25232.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82411 | 32964.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63083 | 25233.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44216 | 17686.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30015 | 12006.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16004 | 6401.7 | [link](https://github.com/zauberzeug/nicegui) |
@@ -45,4 +45,4 @@ Generated: 2026-07-12 05:02 UTC
 | 2026-07-10 | ‘Physical AI is Europe’s last chance to be useful to the world’ - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCRkdaWU95QUp1UkRnTVBicHlDTm05M0ZWeURLZHFrQ216ZWZsMFBfMWtOV2w1MUJoWG5Wb1g2NTcxMzM5V2FsSDEtdUJFbnQwbDRDQk5iMERvQQ?oc=5) |
 | 2026-07-10 | LG CNS partners with UK's PhysicsX to develop industrial AI model - The Korea Herald | physical ai startup | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHX01INnhzTXA1S3dlSFNRUl9jVEJlWUg2TjZuSkNGd3Rxdm1ONXg3YjgyR05FZ21fOEdPQkVvSGowMUU3aWVhdVEweVJpc0V4aWI1N2ptWQ?oc=5) |
 | 2026-07-10 | European startup unveils humanoid robot design, real-time learning system - digitimes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXE3bmNjWmRpb1liS0xjVHRhaDlsVFFreDU0dVhOUW1wNUtqZHF3VTdWQkpMSlFmdnRfclJwaVFNeXV5OTV1aUFqSC1ZNzk0eFp4Q3YycWZpcjZCZW52SEtRTnVkLWsyenZfbjd2cXNNbUJ0ZTFQUVg4Um9DWTNpZDlZdW5WUkp5a0cyS0hDWGd4Y0U?oc=5) |
-| 2026-07-09 | General Intuition just raised $320M on a thesis that sounds absurd — that video game data, not real robot telemetry, will produce the GPT of embodied AI - Silicon Canals | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelpEeVFMcnR5UHhTRmJDYmNzcmlGUTNZLVVDc2w5cThmcjV3ZXNGcm43b2IxMjBWZjdFWFB4OTRyQ3RVUzZPcWs3SkNsdjIxYWtfUjJMY05xYzdHNS1aZGEtWWFQaExpdEQtVFM1ZU5iMkpMT3NGNWhFbGhHZkE0MmVNeDRPa2cyd3p1aGJnVms1azhPUEt1cllYb0V6NGQzS1VZaWFTMVpxemNRR2FBMmRKNFd4TmpPRG1Ea1c5Vm00NzdJaWh5VUFYMWZ2WV9ZaXZWNUZTT3RQdGx2RXlRZHFHdVk1clBnSVdDdUFrODN3dUR1LVBQSHBSSm5fTWJUazlOckNlcHFuN0E?oc=5) |
+| 2026-07-09 | Reservoir Farms Launches Pilot in Arizona for Physical AI Innovation in Specialty Crops - TMX Newsfile | physical ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWFRVDFqM0U0Z0pxTm9xSEt2UGxtZFlFQ2dWSFQ0dFNVdk9lR1V1cEVaVmd2ay1BMElqX0F4Mmk3MTh2T2psc1JmemQyN2Q0djlUUjNndktnWUo5cjctY2FhM2VRTzVOSEw4RzZrSTJXZGY0MEd6d2s3T1hoR0dRRlM5cXM5S2Z2VVJHR3JhNTRuVTNHbXh1djg0MW9lZk1wYnZCZVRfZXBIVUNycHh6SnN1X3NBQkptRE9ta21RbWt4VkNnZ0JjdmZ5Yw?oc=5) |
