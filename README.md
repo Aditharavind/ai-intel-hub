@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-12 07:52 UTC
+Last Updated: 2026-07-12 09:39 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-12 | Software-Defined Vehicles Loom Closer Every Year | Hackaday | [link](https://hackaday.com/2026/07/12/software-defined-vehicles-loom-closer-every-year/) |
 | 2026-07-12 | Porting DOOM to the Casio Loopy | Hackaday | [link](https://hackaday.com/2026/07/11/porting-doom-to-the-casio-loopy/) |
 | 2026-07-12 | Trying to Use a 2007 Samsung UMPC as Wii U Gamepad | Hackaday | [link](https://hackaday.com/2026/07/11/trying-to-use-a-2007-samsung-umpc-as-wii-u-gamepad/) |
 | 2026-07-11 | The First New WW2 Jeep Since 1945 | Hackaday | [link](https://hackaday.com/2026/07/11/the-first-new-ww2-jeep-since-1945/) |
 | 2026-07-11 | MicroPython is this Summer’s Hottest Title for the SNES, Thanks to Claude Fable | Hackaday | [link](https://hackaday.com/2026/07/11/micropython-is-this-summers-hottest-title-for-the-snes-thanks-to-claude-fable/) |
 | 2026-07-11 | To Build More Believable Bots, Simulate The Neurochemistry | Hackaday | [link](https://hackaday.com/2026/07/11/to-build-more-believable-bots-simulate-the-neurochemistry/) |
 | 2026-07-11 | When Changing Scale Isn’t Just More of the Same | Hackaday | [link](https://hackaday.com/2026/07/11/when-changing-scale-isnt-just-more-of-the-same/) |
-| 2026-07-11 | Clay Extruder Enables Printable Pottery | Hackaday | [link](https://hackaday.com/2026/07/11/clay-extruder-enables-printable-pottery/) |
 | 2026-07-11 | Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/) |
 | 2026-07-11 | Adafruit New Products 7/07/2026 | Adafruit | [link](https://blog.adafruit.com/2026/07/11/adafruit-new-products-7-07-2026/) |
 | 2026-07-11 | The Python on Microcontrollers Newsletter: subscribe for free | Adafruit | [link](https://blog.adafruit.com/2026/07/11/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-11/) |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-12 | leehe228/dynin-robotics-libero-long-3000 | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-long-3000) |
 | 2026-07-12 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-07-12 | YinonDouchan/mobile_robot_lift_env_single_cube_single_platform | 0 | 1 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env_single_cube_single_platform) |
+| 2026-07-12 | leehe228/dynin-robotics-libero-long-3000 | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-long-3000) |
 | 2026-07-12 | SidneyXie/pi05_robotwin | 0 | 0 | [link](https://huggingface.co/SidneyXie/pi05_robotwin) |
 | 2026-07-12 | leehe228/dynin-robotics-libero-long-4400 | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-long-4400) |
 | 2026-07-12 | leehe228/dynin-robotics-libero-long-6000 | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-long-6000) |
 | 2026-07-12 | leehe228/dynin-robotics-libero-long-7400 | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-long-7400) |
-| 2026-07-12 | HarrisonPENG/M2W-VLA-RoboTwin | 29 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
+| 2026-07-12 | HarrisonPENG/M2W-VLA-RoboTwin | 48 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-07-12 | leehe228/dynin-robotics-libero-spatial-3000 | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-spatial-3000) |
 | 2026-07-12 | leehe228/dynin-robotics-libero-spatial-4400 | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-spatial-4400) |
-| 2026-07-12 | leehe228/dynin-robotics-libero-spatial-5800 | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-spatial-5800) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | awslabs/awsome-distributed-ai | 456 | Shell | 182.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63083 | Python | 25233.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63085 | Python | 25234.1 | [link](https://github.com/commaai/openpilot) |
 | isaac-sim/IsaacLab | 7659 | Python | 3063.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3839 | Rust | 1535.7 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 376 | HTML | 150.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| luohongk/Embodied-AI-Daily | 366 | HTML | 146.5 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 | vllm-project/vllm-omni | 5531 | Python | 2212.5 | [link](https://github.com/vllm-project/vllm-omni) |
 | OpenHUTB/hutb | 534 | C++ | 213.7 | [link](https://github.com/OpenHUTB/hutb) |
 | softmata/horus | 388 | Rust | 155.3 | [link](https://github.com/softmata/horus) |
-| thanhndv212/figaroh-plus | 44 | Python | 17.7 | [link](https://github.com/thanhndv212/figaroh-plus) |
-| copper-project/copper-rs | 1399 | Rust | 559.7 | [link](https://github.com/copper-project/copper-rs) |
+| thanhndv212/figaroh-plus | 45 | Python | 18.1 | [link](https://github.com/thanhndv212/figaroh-plus) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

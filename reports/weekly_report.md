@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-12 07:52 UTC
+Generated: 2026-07-12 09:39 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-07-12 07:52 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82411 | 32964.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63083 | 25233.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44216 | 17686.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| Developer-Y/cs-video-courses | 82414 | 32965.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63085 | 25234.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44215 | 17686.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30015 | 12006.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16004 | 6401.7 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16005 | 6402.1 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| IffYuan/Embodied-R1.5 | 1046 | 313.9 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
-| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 323 | 99.2 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
-| tencent/Hy-Embodied-0.5-VLA-UMI | 313 | 95.8 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
-| BrinqAI/functiongemma-270m-physical-ai | 302 | 90.7 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
-| SEU-PAISys/Embodied.cpp | 148 | 45.3 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
+| IffYuan/Embodied-R1.5 | 891 | 267.4 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
+| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 327 | 100.4 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
+| tencent/Hy-Embodied-0.5-VLA-UMI | 315 | 96.4 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
+| BrinqAI/functiongemma-270m-physical-ai | 299 | 89.8 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
+| Prabhalika/hr-policy-assistant-merged | 244 | 73.3 | [link](https://huggingface.co/Prabhalika/hr-policy-assistant-merged) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
