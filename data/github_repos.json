@@ -31,13 +31,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63089,
+    "stars": 63088,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-07-12",
     "topic": "robotics",
-    "score": 25235.7
+    "score": 25235.3
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -70,14 +70,24 @@
     "score": 1258.1
   },
   {
+    "repo": "flashrt-project/FlashRT",
+    "stars": 414,
+    "language": "C++",
+    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
+    "url": "https://github.com/flashrt-project/FlashRT",
+    "date": "2026-07-12",
+    "topic": "vla",
+    "score": 165.7
+  },
+  {
     "repo": "sou350121/VLA-Handbook",
-    "stars": 377,
+    "stars": 378,
     "language": "HTML",
     "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
     "url": "https://github.com/sou350121/VLA-Handbook",
     "date": "2026-07-12",
     "topic": "robot-learning",
-    "score": 150.9
+    "score": 151.3
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -218,16 +228,6 @@
     "date": "2026-07-11",
     "topic": "world-model",
     "score": 333.7
-  },
-  {
-    "repo": "flashrt-project/FlashRT",
-    "stars": 414,
-    "language": "C++",
-    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
-    "url": "https://github.com/flashrt-project/FlashRT",
-    "date": "2026-07-11",
-    "topic": "vla",
-    "score": 165.7
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
@@ -691,13 +691,13 @@
   },
   {
     "repo": "mani-skill/ManiSkill",
-    "stars": 3097,
+    "stars": 3096,
     "language": "Python",
     "description": "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
     "url": "https://github.com/mani-skill/ManiSkill",
     "date": "2026-06-24",
     "topic": "robot-learning",
-    "score": 1238.9
+    "score": 1238.5
   },
   {
     "repo": "alireza787b/mavsdk_drone_show",

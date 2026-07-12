@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-12 20:38 UTC
+Last Updated: 2026-07-12 21:36 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,12 +77,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-12 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-07-12 | robotgeneralist/openpi_checkpoint_mirrors2 | 0 | 0 | [link](https://huggingface.co/robotgeneralist/openpi_checkpoint_mirrors2) |
 | 2026-07-12 | YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube_single | 34 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube_single) |
 | 2026-07-12 | yassinsanadai/llama3-robot-awq | 0 | 0 | [link](https://huggingface.co/yassinsanadai/llama3-robot-awq) |
 | 2026-07-12 | DAVIAN-Robotics/pi05-robocasa-H50 | 30 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/pi05-robocasa-H50) |
 | 2026-07-12 | wijan/Robot-Action-Planner-NO-FT | 0 | 0 | [link](https://huggingface.co/wijan/Robot-Action-Planner-NO-FT) |
-| 2026-07-12 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-07-12 | wijan/Robot-Action-Planner-GGUF | 0 | 0 | [link](https://huggingface.co/wijan/Robot-Action-Planner-GGUF) |
 | 2026-07-12 | wijan/Robot-Action-Planner | 0 | 0 | [link](https://huggingface.co/wijan/Robot-Action-Planner) |
 | 2026-07-12 | YinonDouchan/mobile_robot_lift_env_single_cube_single_platform | 0 | 1 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env_single_cube_single_platform) |
@@ -94,13 +94,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1400 | Rust | 560.1 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 456 | Shell | 182.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 160 | Python | 64.1 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63089 | Python | 25235.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63088 | Python | 25235.3 | [link](https://github.com/commaai/openpilot) |
 | isaac-sim/IsaacLab | 7661 | Python | 3064.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3839 | Rust | 1535.7 | [link](https://github.com/dora-rs/dora) |
 | knightnemo/Awesome-World-Models | 3145 |  | 1258.1 | [link](https://github.com/knightnemo/Awesome-World-Models) |
-| sou350121/VLA-Handbook | 377 | HTML | 150.9 | [link](https://github.com/sou350121/VLA-Handbook) |
+| flashrt-project/FlashRT | 414 | C++ | 165.7 | [link](https://github.com/flashrt-project/FlashRT) |
+| sou350121/VLA-Handbook | 378 | HTML | 151.3 | [link](https://github.com/sou350121/VLA-Handbook) |
 | luohongk/Embodied-AI-Daily | 366 | HTML | 146.5 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| vllm-project/vllm-omni | 5538 | Python | 2215.3 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
