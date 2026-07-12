@@ -1,5 +1,14 @@
 [
   {
+    "model": "wijan/Robot-Action-Planner-NO-FT",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wijan/Robot-Action-Planner-NO-FT",
+    "date": "2026-07-12",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "a5ilank/curious-robot",
     "downloads": 0,
     "likes": 1,
@@ -9,19 +18,19 @@
     "score": 0.3
   },
   {
-    "model": "wijan/Robot-Action-Planner-2-gguf",
+    "model": "wijan/Robot-Action-Planner-GGUF",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/wijan/Robot-Action-Planner-2-gguf",
+    "url": "https://huggingface.co/wijan/Robot-Action-Planner-GGUF",
     "date": "2026-07-12",
     "keyword": "robot",
     "score": 0.1
   },
   {
-    "model": "wijan/Robot-Action-Planner-2",
+    "model": "wijan/Robot-Action-Planner",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/wijan/Robot-Action-Planner-2",
+    "url": "https://huggingface.co/wijan/Robot-Action-Planner",
     "date": "2026-07-12",
     "keyword": "robot",
     "score": 0.1
@@ -99,12 +108,12 @@
     "score": 0.1
   },
   {
-    "model": "leehe228/dynin-robotics-libero-spatial-4400",
+    "model": "physicalai-bmi/nano-vla-stack",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/leehe228/dynin-robotics-libero-spatial-4400",
+    "url": "https://huggingface.co/physicalai-bmi/nano-vla-stack",
     "date": "2026-07-12",
-    "keyword": "robotics",
+    "keyword": "physical ai",
     "score": 0.1
   },
   {
@@ -196,15 +205,6 @@
     "date": "2026-07-12",
     "keyword": "vla",
     "score": 8.2
-  },
-  {
-    "model": "s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_Drop16MHA_Uniform",
-    "downloads": 32,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_Drop16MHA_Uniform",
-    "date": "2026-07-12",
-    "keyword": "vla",
-    "score": 9.7
   },
   {
     "model": "ultrastar112/maze2d_easy_native256_cot_chunk_k3_world_model_20260707_perseg",
@@ -375,6 +375,15 @@
     "url": "https://huggingface.co/Prabhalika/hr-policy-assistant",
     "date": "2026-07-12",
     "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "leehe228/dynin-robotics-libero-spatial-4400",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/leehe228/dynin-robotics-libero-spatial-4400",
+    "date": "2026-07-12",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -673,15 +682,6 @@
     "date": "2026-06-13",
     "keyword": "physical ai",
     "score": 11.2
-  },
-  {
-    "model": "physicalairi/vla_jepa_ur3e_pick_red_drop_blue",
-    "downloads": 48,
-    "likes": 0,
-    "url": "https://huggingface.co/physicalairi/vla_jepa_ur3e_pick_red_drop_blue",
-    "date": "2026-06-13",
-    "keyword": "physical ai",
-    "score": 14.5
   },
   {
     "model": "IffYuan/Embodied-R1.5-8B-SFT",

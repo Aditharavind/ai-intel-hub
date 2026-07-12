@@ -1,5 +1,15 @@
 [
   {
+    "repo": "copper-project/copper-rs",
+    "stars": 1400,
+    "language": "Rust",
+    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
+    "url": "https://github.com/copper-project/copper-rs",
+    "date": "2026-07-12",
+    "topic": "physical-ai",
+    "score": 560.1
+  },
+  {
     "repo": "awslabs/awsome-distributed-ai",
     "stars": 456,
     "language": "Shell",
@@ -10,14 +20,24 @@
     "score": 182.5
   },
   {
+    "repo": "ros-claw/rosclaw",
+    "stars": 159,
+    "language": "Python",
+    "description": "Self-evolving runtime infrastructure for Physical AI and embodied agents. Ground AI agents into robot bodies with e-URDF, sandbox safety, capability routing, praxis capture, physical memory, runtime intervention, and skill evolution.",
+    "url": "https://github.com/ros-claw/rosclaw",
+    "date": "2026-07-12",
+    "topic": "physical-ai",
+    "score": 63.7
+  },
+  {
     "repo": "commaai/openpilot",
-    "stars": 63086,
+    "stars": 63087,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-07-12",
     "topic": "robotics",
-    "score": 25234.5
+    "score": 25234.9
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -40,14 +60,24 @@
     "score": 1535.7
   },
   {
+    "repo": "knightnemo/Awesome-World-Models",
+    "stars": 3145,
+    "language": "",
+    "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
+    "url": "https://github.com/knightnemo/Awesome-World-Models",
+    "date": "2026-07-12",
+    "topic": "embodied-ai",
+    "score": 1258.1
+  },
+  {
     "repo": "sou350121/VLA-Handbook",
-    "stars": 376,
+    "stars": 377,
     "language": "HTML",
     "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
     "url": "https://github.com/sou350121/VLA-Handbook",
     "date": "2026-07-12",
     "topic": "robot-learning",
-    "score": 150.5
+    "score": 150.9
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -61,13 +91,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5533,
+    "stars": 5535,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-12",
     "topic": "world-model",
-    "score": 2213.3
+    "score": 2214.1
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -100,34 +130,14 @@
     "score": 18.1
   },
   {
-    "repo": "copper-project/copper-rs",
-    "stars": 1400,
-    "language": "Rust",
-    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
-    "url": "https://github.com/copper-project/copper-rs",
-    "date": "2026-07-11",
-    "topic": "physical-ai",
-    "score": 560.1
-  },
-  {
     "repo": "mosaico-labs/mosaico",
-    "stars": 888,
+    "stars": 889,
     "language": "Python",
     "description": "Mosaico - The data platform for Physical AI",
     "url": "https://github.com/mosaico-labs/mosaico",
     "date": "2026-07-11",
     "topic": "physical-ai",
-    "score": 355.3
-  },
-  {
-    "repo": "ros-claw/rosclaw",
-    "stars": 159,
-    "language": "Python",
-    "description": "Self-evolving runtime infrastructure for Physical AI and embodied agents. Ground AI agents into robot bodies with e-URDF, sandbox safety, capability routing, praxis capture, physical memory, runtime intervention, and skill evolution.",
-    "url": "https://github.com/ros-claw/rosclaw",
-    "date": "2026-07-11",
-    "topic": "physical-ai",
-    "score": 63.7
+    "score": 355.7
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -161,33 +171,23 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 8036,
+    "stars": 8037,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 3214.5
-  },
-  {
-    "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3145,
-    "language": "",
-    "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
-    "url": "https://github.com/knightnemo/Awesome-World-Models",
-    "date": "2026-07-11",
-    "topic": "embodied-ai",
-    "score": 1258.1
+    "score": 3214.9
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2632,
+    "stars": 2633,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-07-11",
     "topic": "embodied-ai",
-    "score": 1052.9
+    "score": 1053.3
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
@@ -251,13 +251,13 @@
   },
   {
     "repo": "kornia/kornia",
-    "stars": 11271,
+    "stars": 11272,
     "language": "Python",
     "description": "🐍 Geometric Computer Vision Library for Spatial AI",
     "url": "https://github.com/kornia/kornia",
     "date": "2026-07-10",
     "topic": "robotics",
-    "score": 4508.5
+    "score": 4508.9
   },
   {
     "repo": "rerun-io/rerun",
@@ -501,13 +501,13 @@
   },
   {
     "repo": "leofan90/Awesome-World-Models",
-    "stars": 1885,
+    "stars": 1886,
     "language": "Python",
     "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
     "url": "https://github.com/leofan90/Awesome-World-Models",
     "date": "2026-07-03",
     "topic": "world-model",
-    "score": 754.1
+    "score": 754.5
   },
   {
     "repo": "hzxie/DynamicVLA",
@@ -561,13 +561,13 @@
   },
   {
     "repo": "Peter-cuhk/robot-data-studio",
-    "stars": 59,
+    "stars": 60,
     "language": "Python",
     "description": "Local-first workbench for inspecting, cleaning, replaying, and converting robot datasets.",
     "url": "https://github.com/Peter-cuhk/robot-data-studio",
     "date": "2026-06-30",
     "topic": "lerobot",
-    "score": 23.7
+    "score": 24.1
   },
   {
     "repo": "worldbench/awesome-3d-4d-world-models",
