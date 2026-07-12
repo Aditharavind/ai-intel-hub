@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-12 19:58 UTC
+Last Updated: 2026-07-12 20:38 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-12 | Porting the Nvidia GPU Driver to Haiku for 3D Acceleration | Hackaday | [link](https://hackaday.com/2026/07/12/porting-the-nvidia-gpu-driver-to-haiku-for-3d-acceleration/) |
 | 2026-07-12 | Building a Better CNC Hot Wire Foam Cutter | Hackaday | [link](https://hackaday.com/2026/07/12/building-a-better-cnc-hot-wire-foam-cutter/) |
 | 2026-07-12 | Speak Silently With An Ultrasound Probe | Hackaday | [link](https://hackaday.com/2026/07/12/speak-silently-with-an-ultrasound-probe/) |
 | 2026-07-12 | Printing Fungal Art with Laser Control | Hackaday | [link](https://hackaday.com/2026/07/12/printing-fungal-art-with-laser-control/) |
@@ -57,7 +58,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-12 | Trying to Use a 2007 Samsung UMPC as Wii U Gamepad | Hackaday | [link](https://hackaday.com/2026/07/11/trying-to-use-a-2007-samsung-umpc-as-wii-u-gamepad/) |
 | 2026-07-12 | Beelink EQi review – Part 2: An Intel Core 3 304 “Wildcat Lake” mini PC tested with Windows 11 Pro | CNX Software | [link](https://www.cnx-software.com/2026/07/12/beelink-eqi-review-intel-core-3-304-wildcat-lake-mini-pc-windows-11-pro/) |
 | 2026-07-12 | Close Encounters Hat #AdafruitLearnSystem | Adafruit | [link](https://blog.adafruit.com/2026/07/12/close-encounters-hat-adafruitlearnsystem/) |
-| 2026-07-11 | The First New WW2 Jeep Since 1945 | Hackaday | [link](https://hackaday.com/2026/07/11/the-first-new-ww2-jeep-since-1945/) |
 | 2026-07-11 | Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/) |
 
 ## New Research Papers
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-12 | robotgeneralist/openpi_checkpoint_mirrors2 | 0 | 0 | [link](https://huggingface.co/robotgeneralist/openpi_checkpoint_mirrors2) |
 | 2026-07-12 | YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube_single | 34 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube_single) |
 | 2026-07-12 | yassinsanadai/llama3-robot-awq | 0 | 0 | [link](https://huggingface.co/yassinsanadai/llama3-robot-awq) |
 | 2026-07-12 | DAVIAN-Robotics/pi05-robocasa-H50 | 30 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/pi05-robocasa-H50) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-12 | wijan/Robot-Action-Planner | 0 | 0 | [link](https://huggingface.co/wijan/Robot-Action-Planner) |
 | 2026-07-12 | YinonDouchan/mobile_robot_lift_env_single_cube_single_platform | 0 | 1 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env_single_cube_single_platform) |
 | 2026-07-12 | leehe228/dynin-robotics-libero-long-3000 | 0 | 0 | [link](https://huggingface.co/leehe228/dynin-robotics-libero-long-3000) |
-| 2026-07-12 | SidneyXie/pi05_robotwin | 0 | 0 | [link](https://huggingface.co/SidneyXie/pi05_robotwin) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -100,7 +100,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | knightnemo/Awesome-World-Models | 3145 |  | 1258.1 | [link](https://github.com/knightnemo/Awesome-World-Models) |
 | sou350121/VLA-Handbook | 377 | HTML | 150.9 | [link](https://github.com/sou350121/VLA-Handbook) |
 | luohongk/Embodied-AI-Daily | 366 | HTML | 146.5 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| vllm-project/vllm-omni | 5537 | Python | 2214.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 5538 | Python | 2215.3 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
