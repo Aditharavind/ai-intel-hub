@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-12 16:40 UTC
+Last Updated: 2026-07-12 17:46 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-12 | Building a Better CNC Hot Wire Foam Cutter | Hackaday | [link](https://hackaday.com/2026/07/12/building-a-better-cnc-hot-wire-foam-cutter/) |
 | 2026-07-12 | Speak Silently With An Ultrasound Probe | Hackaday | [link](https://hackaday.com/2026/07/12/speak-silently-with-an-ultrasound-probe/) |
 | 2026-07-12 | Printing Fungal Art with Laser Control | Hackaday | [link](https://hackaday.com/2026/07/12/printing-fungal-art-with-laser-control/) |
 | 2026-07-12 | Software-Defined Vehicles Loom Closer Every Year | Hackaday | [link](https://hackaday.com/2026/07/12/software-defined-vehicles-loom-closer-every-year/) |
@@ -57,7 +58,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-12 | Beelink EQi review – Part 2: An Intel Core 3 304 “Wildcat Lake” mini PC tested with Windows 11 Pro | CNX Software | [link](https://www.cnx-software.com/2026/07/12/beelink-eqi-review-intel-core-3-304-wildcat-lake-mini-pc-windows-11-pro/) |
 | 2026-07-12 | Close Encounters Hat #AdafruitLearnSystem | Adafruit | [link](https://blog.adafruit.com/2026/07/12/close-encounters-hat-adafruitlearnsystem/) |
 | 2026-07-11 | The First New WW2 Jeep Since 1945 | Hackaday | [link](https://hackaday.com/2026/07/11/the-first-new-ww2-jeep-since-1945/) |
-| 2026-07-11 | MicroPython is this Summer’s Hottest Title for the SNES, Thanks to Claude Fable | Hackaday | [link](https://hackaday.com/2026/07/11/micropython-is-this-summers-hottest-title-for-the-snes-thanks-to-claude-fable/) |
 | 2026-07-11 | Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/) |
 
 ## New Research Papers
