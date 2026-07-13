@@ -1,5 +1,45 @@
 [
   {
+    "repo": "kornia/kornia",
+    "stars": 11273,
+    "language": "Python",
+    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "url": "https://github.com/kornia/kornia",
+    "date": "2026-07-13",
+    "topic": "robotics",
+    "score": 4509.3
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7661,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-07-13",
+    "topic": "robot-learning",
+    "score": 3064.5
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3840,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-07-13",
+    "topic": "embodied-ai",
+    "score": 1536.1
+  },
+  {
+    "repo": "vllm-project/vllm-omni",
+    "stars": 5538,
+    "language": "Python",
+    "description": "A framework for efficient model inference with omni-modality models",
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "date": "2026-07-13",
+    "topic": "world-model",
+    "score": 2215.3
+  },
+  {
     "repo": "copper-project/copper-rs",
     "stars": 1400,
     "language": "Rust",
@@ -50,34 +90,14 @@
     "score": 6178.9
   },
   {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7661,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-07-12",
-    "topic": "robot-learning",
-    "score": 3064.5
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3839,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-07-12",
-    "topic": "embodied-ai",
-    "score": 1535.7
-  },
-  {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3145,
+    "stars": 3146,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-07-12",
     "topic": "embodied-ai",
-    "score": 1258.1
+    "score": 1258.5
   },
   {
     "repo": "flashrt-project/FlashRT",
@@ -108,16 +128,6 @@
     "date": "2026-07-12",
     "topic": "vla",
     "score": 146.5
-  },
-  {
-    "repo": "vllm-project/vllm-omni",
-    "stars": 5538,
-    "language": "Python",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "url": "https://github.com/vllm-project/vllm-omni",
-    "date": "2026-07-12",
-    "topic": "world-model",
-    "score": 2215.3
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -181,13 +191,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 8046,
+    "stars": 8047,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 3218.5
+    "score": 3218.9
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -248,16 +258,6 @@
     "date": "2026-07-11",
     "topic": "robot-learning",
     "score": 1004.5
-  },
-  {
-    "repo": "kornia/kornia",
-    "stars": 11272,
-    "language": "Python",
-    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-    "url": "https://github.com/kornia/kornia",
-    "date": "2026-07-10",
-    "topic": "robotics",
-    "score": 4508.9
   },
   {
     "repo": "rerun-io/rerun",
@@ -341,13 +341,13 @@
   },
   {
     "repo": "datawhalechina/learn-world-model",
-    "stars": 311,
+    "stars": 312,
     "language": "TypeScript",
     "description": "Learn everything about world model",
     "url": "https://github.com/datawhalechina/learn-world-model",
     "date": "2026-07-09",
     "topic": "world-model",
-    "score": 124.5
+    "score": 124.9
   },
   {
     "repo": "vikashplus/robohive",
@@ -390,14 +390,24 @@
     "score": 612.5
   },
   {
+    "repo": "fiveages-sim/lerobot_ros2",
+    "stars": 21,
+    "language": "Python",
+    "description": "LeRobot Robot and Camera for ROS2",
+    "url": "https://github.com/fiveages-sim/lerobot_ros2",
+    "date": "2026-07-08",
+    "topic": "lerobot",
+    "score": 8.5
+  },
+  {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82423,
+    "stars": 82425,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 32969.3
+    "score": 32970.1
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
@@ -721,13 +731,13 @@
   },
   {
     "repo": "Thinklab-SJTU/Awesome-LLM4AD",
-    "stars": 1869,
+    "stars": 1870,
     "language": "",
     "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)",
     "url": "https://github.com/Thinklab-SJTU/Awesome-LLM4AD",
     "date": "2026-06-22",
     "topic": "world-model",
-    "score": 747.7
+    "score": 748.1
   },
   {
     "repo": "Dream-Machines-Robotics/vr-teleop-kit",
@@ -848,15 +858,5 @@
     "date": "2026-06-13",
     "topic": "vla",
     "score": 119.3
-  },
-  {
-    "repo": "Open-X-Humanoid/x-humanoid-training-toolchain",
-    "stars": 69,
-    "language": "Python",
-    "description": "This project provides a training toolchain for adapting TienKung humanoid robots and RoboMIND dataset with the open-source LeRobot framework.",
-    "url": "https://github.com/Open-X-Humanoid/x-humanoid-training-toolchain",
-    "date": "2026-06-12",
-    "topic": "lerobot",
-    "score": 27.7
   }
 ]
