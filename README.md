@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-13 22:41 UTC
+Last Updated: 2026-07-13 23:39 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-13 | Get your ESP32 Sunny Side Up with this Solar Dev Board | Hackaday | [link](https://hackaday.com/2026/07/13/get-your-esp32-sunny-side-up-with-this-solar-dev-board/) |
 | 2026-07-13 | Using Your Own RBMK Reactor Control Center At Home | Hackaday | [link](https://hackaday.com/2026/07/13/using-your-own-rbmk-reactor-control-center-at-home/) |
 | 2026-07-13 | It’s A Spectrum, With An RP2350 ULA | Hackaday | [link](https://hackaday.com/2026/07/13/its-a-spectrum-with-an-rp2350-ula/) |
 | 2026-07-13 | 2026 Hackaday Supercon: Call for Proposals | Hackaday | [link](https://hackaday.com/2026/07/13/2026-hackaday-supercon-call-for-proposals/) |
 | 2026-07-13 | Voltmeter-Based Floating Point Calculator Does It In Style | Hackaday | [link](https://hackaday.com/2026/07/13/voltmeter-based-floating-point-calculator-does-it-in-style/) |
 | 2026-07-13 | The Death of Physical Media and the Real Challenges to Software Archiving | Hackaday | [link](https://hackaday.com/2026/07/13/the-death-of-physical-media-and-the-real-challenges-to-software-archiving/) |
 | 2026-07-13 | DIY Steam Controller Puck Offers Xbox, Switch, PlayStation Emulation Modes | Hackaday | [link](https://hackaday.com/2026/07/13/diy-steam-controller-puck-offers-xbox-switch-playstation-emulation-modes/) |
-| 2026-07-13 | Newton’s Cradle Isn’t Really Perpetual | Hackaday | [link](https://hackaday.com/2026/07/13/newtons-cradle-isnt-really-perpetual/) |
 | 2026-07-13 | Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery | CNX Software | [link](https://www.cnx-software.com/2026/07/13/ambient-scientific-gpx10-pro-mcu-delivers-years-of-always-on-ai-on-a-coin-cell-battery/) |
 | 2026-07-13 | WisMesh Station Review – Telemetry, MQTT, and Grafana tested on a Raspberry Pi 4-based Meshtastic gateway | CNX Software | [link](https://www.cnx-software.com/2026/07/13/wismesh-station-review-telemetry-mqtt-and-grafana-tested-on-a-raspberry-pi-4-based-meshtastic-gateway/) |
 | 2026-07-13 | Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board | CNX Software | [link](https://www.cnx-software.com/2026/07/13/raspberry-pi-gets-10base-t1s-t1l-single-pair-ethernet-spe-hat-board/) |
