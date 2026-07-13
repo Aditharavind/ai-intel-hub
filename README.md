@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-13 21:41 UTC
+Last Updated: 2026-07-13 22:41 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -37,6 +37,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-13 | The Robot Report parent company, WTWH Media, rebrands as Arrowfly | Robotics Business Review | [link](https://www.therobotreport.com/the-robot-report-parent-company-wtwh-media-rebrands-as-arrowfly/) |
 | 2026-07-13 | Yaskawa America gets information security certification | Robotics Business Review | [link](https://www.therobotreport.com/yaskawa-america-gets-information-seccurity-certification/) |
+| 2026-07-13 | Ondas acquires DZYNE for $875.8M, expanding its defense capabilities | Robotics Business Review | [link](https://www.therobotreport.com/ondas-acquires-dzyne-875-8m-expanding-its-defense-capabilities/) |
 | 2026-07-12 | STEM education in the classroom, introducing BotBall | Robotics Business Review | [link](https://www.therobotreport.com/stem-education-classroom-introducing-botball/) |
 | 2026-07-11 | Are suppliers ready for new robot safety standards? | Robotics Business Review | [link](https://www.therobotreport.com/are-suppliers-ready-for-new-robot-safety-standards/) |
 | 2026-07-11 | Why robotics teams need virtual gyms before deployment | Robotics Business Review | [link](https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-10 | Video Friday: A World Cup for Robots | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robot-world-cup) |
 | 2026-07-10 | AI² Robotics raises $735M at $3B valuation for wheeled humanoid robots | Robotics Business Review | [link](https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/) |
 | 2026-07-10 | XTEND secures U.S. patent for autonomous navigation technology | Robotics Business Review | [link](https://www.therobotreport.com/xtend-secures-u-s-patent-autonomous-navigation-technology/) |
-| 2026-07-10 | How Path Robotics uses AI to optimize robotic welding | Robotics Business Review | [link](https://www.therobotreport.com/how-path-robotics-uses-ai-optimize-robotic-welding/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -91,13 +91,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| copper-project/copper-rs | 1404 | Rust | 561.7 | [link](https://github.com/copper-project/copper-rs) |
+| copper-project/copper-rs | 1405 | Rust | 562.1 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 889 | Python | 355.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 458 | Shell | 183.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63102 | Python | 25240.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63104 | Python | 25241.7 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30026 | Python | 12010.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | ArduPilot/ardupilot | 15460 | C++ | 6184.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14192 | C++ | 5676.9 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14194 | C++ | 5677.7 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11273 | Python | 4509.3 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11126 | Rust | 4450.5 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7667 | Python | 3066.9 | [link](https://github.com/isaac-sim/IsaacLab) |
@@ -133,7 +133,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-13 | AI Data Operations Lead | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
 | 2026-07-13 | Finance Manager | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4691166006) |
+| 2026-07-13 | Hardware Reliability Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4613067006) |
 | 2026-07-13 | Helix AI Engineer, Agentic Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4659175006) |
 | 2026-07-13 | Helix AI Engineer, Android Tooling  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4660876006) |
 | 2026-07-13 | Helix AI Engineer, Backend Infrastructure  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4685172006) |
@@ -141,8 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-13 | Helix AI Engineer, Embedded Android Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4685209006) |
 | 2026-07-13 | Helix AI Engineer, Generative AI | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4671699006) |
 | 2026-07-13 | Helix AI Engineer, Localization and Mapping | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696533006) |
-| 2026-07-13 | Helix AI Engineer, Modeling | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4671712006) |
-| 2026-07-13 | Helix AI Engineer, Perception | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4007375006) |
 
 ## Automation
 
