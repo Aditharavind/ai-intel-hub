@@ -154,6 +154,41 @@
     "summary": "<p>PC shipments fell 4.9% year over year in Q2 2026 to 68.2 million units, according to IDC — the first decline after nine consecutive quarters of growth. A persistent memory ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/899811-2026-07/\">Q2 PC shipments down 4.9% as memory stays short</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Reviewing a trove of old computers in Germany",
+    "source": "Adafruit",
+    "date": "2026-07-13",
+    "url": "https://blog.adafruit.com/2026/07/13/reviewing-a-trove-of-old-computers-in-germany/",
+    "summary": "On July 26, 2006, The Computer History Museum curator Dag Spicer received an unexpected email from Dortmund, Germany. It described what appeared to be a lost trove of rare computers abandoned in a warehouse in the town of Castrop-Rauxel. The Museum’s collections committee agreed that a visit was necessary to see exactly what was there [&#8230;]"
+  },
+  {
+    "title": "John Deere owners will get the right to repair their own equipment under a new FTC settlement",
+    "source": "Adafruit",
+    "date": "2026-07-13",
+    "url": "https://blog.adafruit.com/2026/07/13/john-deere-owners-will-get-the-right-to-repair-their-own-equipment-under-a-new-ftc-settlement/",
+    "summary": "It looks like John Deere owners can soon feel free to fix their own machines. The Federal Trade Commission and attorneys general from several states secured a right-to-repair settlement Wednesday with agriculture equipment giant Deere &#38; Co. — commonly known as John Deere — that requires the company to let farmers and independent shops fix their [&#8230;]"
+  },
+  {
+    "title": "Using five monitors on a Commodore 128",
+    "source": "Adafruit",
+    "date": "2026-07-13",
+    "url": "https://blog.adafruit.com/2026/07/13/using-five-monitors-on-a-commodore-128/",
+    "summary": "The 8-Bit Guy demonstrates a custom hardware setup to drive five separate displays from a single Commodore 128 computer. By splitting RGBI signal lines and leveraging specific VDC register configurations, The 8-Bit Guy explores the potential for unique multi-monitor output and extends these experiments to IBM EGA hardware. Check the video out below:"
+  },
+  {
+    "title": "LightNMEA: a fast GNSS parser with minimal memory, specifically for MicroPython and Python",
+    "source": "Adafruit",
+    "date": "2026-07-13",
+    "url": "https://blog.adafruit.com/2026/07/13/lightnmea-a-fast-gnss-parser-with-minimal-memory-specifically-for-micropython-and-python/",
+    "summary": "LightNMEA is an extremely fast, zero-dependency, single-pass NMEA 0183 parser with minimal memory allocation, written specifically for MicroPython and Python (CPython). Designed for 32-bit microcontrollers (ESP32, STM32, RP2040) working with high-rate GNSS receivers (10-50 Hz multi-constellation GPS/GLONASS/BeiDou/Galileo modules). Why light_nmea? At the time of creation (2026), there was only one NMEA parser available for MicroPython [&#8230;]"
+  },
+  {
+    "title": "How the Webb Telescope is Influencing Astrophysicists’ Theories",
+    "source": "Adafruit",
+    "date": "2026-07-13",
+    "url": "https://blog.adafruit.com/2026/07/13/how-the-webb-telescope-is-influencing-astrophysicists-theories/",
+    "summary": "Kristina Armitage/Quanta Magazine Our understanding of the universe is changing as new images from the James Webb Space Telescope uncover new objects. But, what does this mean for astrophysics? Quanta Magazine explains how astrophysicists are developing theories in response to these new images. Mason, an astrophysicist at the Cosmic Dawn Center in Copenhagen, has lately [&#8230;]"
+  },
+  {
     "title": "Focus: a lightweight UI framework for resource-constrained embedded systems, inspired by NeXTSTEP’s AppKit",
     "source": "Adafruit",
     "date": "2026-07-13",
@@ -203,20 +238,6 @@
     "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
-    "title": "FlightScnr Pi is the flight radar you really want",
-    "source": "Adafruit",
-    "date": "2026-07-13",
-    "url": "https://blog.adafruit.com/2026/07/13/flightscnr-pi-is-the-flight-radar-you-really-want/",
-    "summary": "FlightScnr Pi shows live aircraft around your pre set location on a circular radar, with rich flight details when you tap a plane. It combines FlightRadar24 (FR24), live positions from adsb.fi (free cloud feed — no local ADS-B dongle), Tomorrow.io weather, and optional AirLabs schedule data. Settings, API keys, tracking, and updates are managed through [&#8230;]"
-  },
-  {
-    "title": "3D Printed Glow-Spike Bracelet #AdafruitGuide",
-    "source": "Adafruit",
-    "date": "2026-07-13",
-    "url": "https://blog.adafruit.com/2026/07/13/3d-printed-glow-spike-bracelet-adafruitguide/",
-    "summary": "A great entry-level wearables project that includes 3D printing and LEDs! Fire-up your 3D printer&#8230; it&#8217;s time to make a fun and glowy wearable! Print the parts below in any color plastic that suits your fancy &#8211; clear or natural PLA works great for the spikes. Check out the full guide in the Adafruit Learning [&#8230;]"
-  },
-  {
     "title": "Next level motion detection: Panasonic Industry enhances its PIR sensor portfolio with PaPIRs+",
     "source": "EE Journal",
     "date": "2026-07-13",
@@ -252,32 +273,11 @@
     "summary": "<div><img alt=\"Beelink EQi Wildcat Lake Core 3 304 Windows 11 mini PC review\" class=\"attachment-medium size-medium wp-post-image\" height=\"555\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Beelink-EQi-Wildcat-Lake-Core-3-304-Windows-11-mini-PC-review-720x555.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We&#8217;ve already checked out the specifications and hardware of the Beelink EQi Wildcat Lake mini PC in the first part of the review, with an unboxing and a teardown, before booting the mini PC into the pre-installed Windows 11 Pro for a first quick look. We’ve now had time to test the Intel Core 3 304 mini PC in more detail on Windows 11 Pro, so we’ll report our experience. The review includes feature testing, benchmark results, 4K and 8K YouTube video playback, 10GbE, 2.5GbE, and WiFi network performance evaluation, cooling performance, and measurement of fan noise and power consumption. Software Overview and Feature Testing After fully updating Windows 11 Pro and drivers to the latest version (excluding previews), I went to System &#62; About window again. We still have a 1.50 GHz (base frequency) Intel Core 3 304 processor with 16GB 6400MT/s memory, and 834GB of storage from the [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/12/beelink-eqi-review-intel-core-3-304-wildcat-lake-mini-pc-windows-11-pro/\">Beelink EQi review &#8211; Part 2: An Intel Core 3 304 &#8220;Wildcat Lake&#8221; mini PC tested with Windows 11 Pro</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Adafruit Weekly Editorial Round-Up: Adafruit Summer Sale! and more!",
-    "source": "Adafruit",
-    "date": "2026-07-12",
-    "url": "https://blog.adafruit.com/2026/07/12/adafruit-weekly-editorial-round-up-adafruit-summer-sale-and-more/",
-    "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. SALE Use the code Gleam15 [&#8230;]"
-  },
-  {
-    "title": "Close Encounters Hat #AdafruitLearnSystem",
-    "source": "Adafruit",
-    "date": "2026-07-12",
-    "url": "https://blog.adafruit.com/2026/07/12/close-encounters-hat-adafruitlearnsystem/",
-    "summary": "Surpise your friends with a mother ship on your head, Spielberg style with this guide from the Adadfruit Learn System! The Close Encounters hat is a nod to the incredible movie &#8212; with lights and sounds that mimic the mother ship, all stowed under the brim. A photocell triggers the action for GEMMA, while the [&#8230;]"
-  },
-  {
     "title": "Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding)",
     "source": "CNX Software",
     "date": "2026-07-11",
     "url": "https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/",
     "summary": "<div><img alt=\"ELM11-Feather FPGA board\" class=\"attachment-medium size-medium wp-post-image\" height=\"383\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/ELM11-Feather-FPGA-board-720x383.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>BrisbaneSilicon ELM11-Feather is a &#8220;microcontroller&#8221; board based on a Gowin GW1NR FPGA that is natively programmable in Lua, C, SystemVerilog, and VHDL. Compatible with the Adafruit Feather form factor, the board features GPIO headers, a built-in debugger, a USB-C port for power and programming, and a 2-pin header for a LiPo battery. The company calls it a microcontroller board because the FPGA runs a PicoRV32 MCU softcore at up to 75 MHz with 1MB RAM and 8MB flash, programmable with Lua, and the user can also customize hardware layers with RTL code using the remaining FPGA fabric. ELM11-Feather specifications: FPGA &#8211; Gowin GW1NR-LV9 FPGA from the GW1NR-9 family 8K LUTs 8,640 logical units (LUTs) 6,480 flip-flop 17,280 bits shadow SRAM (SSRAM) 486 Kbit block SRAM (BSRAM) 64 Mbit (8MB) PSRAM 608 Kbit user flash 2x PLL Up to 276x user I/O USB &#8211; 1x USB Type-C port for power and [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/\">Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Adafruit New Products 7/07/2026",
-    "source": "Adafruit",
-    "date": "2026-07-11",
-    "url": "https://blog.adafruit.com/2026/07/11/adafruit-new-products-7-07-2026/",
-    "summary": "We&#8217;ve got the New nEw NEW for you right here This week we debuted 5 New Products. Visit www.adafruit.com/new for more info. Want to get new products info beamed straight into your inbox? New nEw NEWs From Adafruit is an email newsletter sent once a week to subscribers only. It features new products, special offers, [&#8230;]"
   },
   {
     "title": "M5Stack Stamp-C5 – A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support",
