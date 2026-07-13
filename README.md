@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-13 13:53 UTC
+Last Updated: 2026-07-13 16:18 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-13 | Voltmeter-Based Floating Point Calculator Does It In Style | Hackaday | [link](https://hackaday.com/2026/07/13/voltmeter-based-floating-point-calculator-does-it-in-style/) |
+| 2026-07-13 | The Death of Physical Media and the Real Challenges to Software Archiving | Hackaday | [link](https://hackaday.com/2026/07/13/the-death-of-physical-media-and-the-real-challenges-to-software-archiving/) |
 | 2026-07-13 | DIY Steam Controller Puck Offers Xbox, Switch, PlayStation Emulation Modes | Hackaday | [link](https://hackaday.com/2026/07/13/diy-steam-controller-puck-offers-xbox-switch-playstation-emulation-modes/) |
 | 2026-07-13 | Newton’s Cradle Isn’t Really Perpetual | Hackaday | [link](https://hackaday.com/2026/07/13/newtons-cradle-isnt-really-perpetual/) |
 | 2026-07-13 | CGI Motion Capture with only a Camera | Hackaday | [link](https://hackaday.com/2026/07/12/cgi-motion-capture-with-only-a-camera/) |
@@ -56,9 +58,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-13 | Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery | CNX Software | [link](https://www.cnx-software.com/2026/07/13/ambient-scientific-gpx10-pro-mcu-delivers-years-of-always-on-ai-on-a-coin-cell-battery/) |
 | 2026-07-13 | WisMesh Station Review – Telemetry, MQTT, and Grafana tested on a Raspberry Pi 4-based Meshtastic gateway | CNX Software | [link](https://www.cnx-software.com/2026/07/13/wismesh-station-review-telemetry-mqtt-and-grafana-tested-on-a-raspberry-pi-4-based-meshtastic-gateway/) |
 | 2026-07-13 | Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board | CNX Software | [link](https://www.cnx-software.com/2026/07/13/raspberry-pi-gets-10base-t1s-t1l-single-pair-ethernet-spe-hat-board/) |
-| 2026-07-13 | China’s Massive Battery Build Capacity | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/manuf/chinas-massive-battery-build-capacity-2026-07/) |
-| 2026-07-13 | Tesla A15 chip to be fabbed  at Samsung and TSMC | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/tesla-a15-chip-to-be-fabbed-at-samsung-and-tsmv-2026-07/) |
-| 2026-07-13 | CP1000 probe features 1.5MHz bandwidth for measurements up to 1000A | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/test-measurement-products/cp1000-probe-features-1-5mhz-bandwidth-for-measurements-up-to-1000a-2026-07/) |
+| 2026-07-13 | Melexis Expands Pressure Sensor Family | Embedded.com | [link](https://www.embedded.com/melexis-expands-pressure-sensor-family/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,36 +77,37 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-13 | YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi) |
+| 2026-07-13 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-07-13 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-07-13 | XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR | 0 | 0 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR) |
 | 2026-07-13 | china-sae-robotics/gr00t_n16_arena_libero_all_suites_rel_rotvec | 0 | 0 | [link](https://huggingface.co/china-sae-robotics/gr00t_n16_arena_libero_all_suites_rel_rotvec) |
 | 2026-07-13 | china-sae-robotics/gr00t_n16_gr1_sequential_task | 0 | 0 | [link](https://huggingface.co/china-sae-robotics/gr00t_n16_gr1_sequential_task) |
 | 2026-07-13 | mr-robot-01/act_pickup_place_getsun_bottle | 0 | 0 | [link](https://huggingface.co/mr-robot-01/act_pickup_place_getsun_bottle) |
 | 2026-07-13 | Shiki42/pi05_so101_robotwin_put_cab_retimed_idle_mask_20k | 0 | 0 | [link](https://huggingface.co/Shiki42/pi05_so101_robotwin_put_cab_retimed_idle_mask_20k) |
 | 2026-07-13 | YinonDouchan/mobile_robot_lift_env_multi_cube_single_platform | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env_multi_cube_single_platform) |
 | 2026-07-13 | YinonDouchan/mobile_robot_lift_env_multi_cube_multi_platform | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env_multi_cube_multi_platform) |
-| 2026-07-13 | YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform) |
-| 2026-07-13 | YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single) |
-| 2026-07-13 | RobotisSW/Task_000208_dispose_general_waste_box_lerobot_chunk30_aug_true | 2 | 0 | [link](https://huggingface.co/RobotisSW/Task_000208_dispose_general_waste_box_lerobot_chunk30_aug_true) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| copper-project/copper-rs | 1402 | Rust | 560.9 | [link](https://github.com/copper-project/copper-rs) |
+| copper-project/copper-rs | 1403 | Rust | 561.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 889 | Python | 355.7 | [link](https://github.com/mosaico-labs/mosaico) |
-| awslabs/awsome-distributed-ai | 457 | Shell | 182.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63097 | Python | 25238.9 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15458 | C++ | 6183.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14186 | C++ | 5674.5 | [link](https://github.com/google-deepmind/mujoco) |
+| awslabs/awsome-distributed-ai | 458 | Shell | 183.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| commaai/openpilot | 63100 | Python | 25240.1 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15459 | C++ | 6183.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14188 | C++ | 5675.3 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11273 | Python | 4509.3 | [link](https://github.com/kornia/kornia) |
+| rerun-io/rerun | 11126 | Rust | 4450.5 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7666 | Python | 3066.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4093 | Python | 1637.3 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3841 | Rust | 1536.5 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-07-13 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFYwRDR6VS1JdC1fYTU5VGRnSXg3bFZCMFRoakFIc2FERGxXUDloRXN0ZGJoZkFuRTBaR2s1S2ZYWDduNi1RLXNRN1ZCRThRdGFwZUw1Vko5Mjg2czVOTHhoRk54UFBBNDI5TUNNaHlqN21fR1A0WHFEN08tOEU1MWhndjlrbVFYakxEaC13dmNlSFRlRnRyMDNqYTQ4eTd5YWdaTmVKMEc0MV9IcGFvVzhFejIyMDQtSU5GcklVYWlFcDlKTGdZZG56WTFFMXJvVklqaTNB?oc=5) |
 | 2026-07-12 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1haWldjNWQ2S3U4UWQ3YlRGNHlLcE5IZWZNbXJmSGVqVWs3a0V5R1FJdVpxdUdfeFJfSzZVYWdXYWtYSnBzRmZWRDRneklpYTRPQTJIdFNKN0NCR2hlWjJ1S2xsNDV1SEFDTFJWLUNMYzU0Q2tJVC1rNnJpSVluS0ZRSzh3MlBiXzM3RmxmS1ZXUkZOUnpvY2ZqcHhabmdFUzcwRXdKejZpc2x4d1ZCdTU0SnFaRU92VndvXw?oc=5) |
+| 2026-07-11 | LeRobot |  |  | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE9TSU44clFtLThkcEwxcldNZTB3dGx4SmRUYnd1SHM3bTlWWGtuOC15XzUweG1Jc0FEdUVuT3dQQk1MODN6SUhQSDZBelR3YTdFSFNoeTVmWjBDNVBXWDVGWmZzcmVlQTNmNW1oOVZBSUhFMnBtT0p2NA?oc=5) |
 | 2026-07-08 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxNS056dHV6ZHBGUEVIZFVyNzNjdG5LVm16LURhY04ycXc3SmdZdktPTkJZWkZ4RWhIWUJvMG1Yb1BYb0psRVdMQS1kbTFERzRIRUtyb2p3TWpFSEdleHdKT2JONUNJWFQzWW9Wc0hOOFRvVFQ2eDdnd2E0V1pHemhzVElFQ1F3V1RZNjVZQ0JydDdBb3dvNDZwNUxR?oc=5) |
 | 2026-07-08 | LeRobot |  |  | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUjV4TUlCcWQ3MVZHSmE2VjFlYkJJeDQ3eEZpZXZNREhjM3BuOTNhRFJCNGQydG1RS3BOc2lubnNXcUtkeUNPLVVRbWkxa2FWTG15UGQwZkVadjhkN20yb1ZSOW9aZE1OYXZpWGJlZndPTXR4azlqdUp0bUNmeDM5eXFreE12SHJfaGdBME5LYmQ?oc=5) |
 | 2026-07-07 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMitgJBVV95cUxQdjdfLTBlbU4zUnJHSDRSWTU0R0R6STNDdVJET3hHWVJpR25PT2dYQnJzYWRna1pQeVdKYlRkZDRvTnlEWkY1NHA4bnpnblRWNVJFNHhUZUNQZktYUlJncTZNQmI3eTRjc2REc2VDOWdkSE93ZHRIcW1feGJUbDV5WGFEeTgwVjlURWF0bzV5SGxlZWZ4NWJZbTlianVqNjdTYWlHWFNyQy04eW81cGROQ3R2ZGJ4Z3RZYVh3b2l3NlZEQXlKZjFaN3FxVEdsWV9lNkp3d2R2ZVRGN19LRWpLWlNNLV9TYkNxMjMtSXEzUlJlbWJtZmVUZWw4T3Q5Q0s4cnZVbmhCcjVWcXpsYld6aVBCQmh6ZlNOZXlIVUJTa05aVVJLT3IwOTlKY0dNQ2RUZGF5TWVn?oc=5) |
@@ -114,7 +115,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-06 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVnZ0b1ZINm9iN2hoTlNxQzFOcVF4Ym0wT2ZKcWRENzVNeGdkZXVPVjB6Q1VXT3NMU3NITG94aDhZM2loNC0zZ3JtN1RNbHMwLUg1Ui1US3daRkRxQk1oZjItNndsWjhES1h2UG1RS0s2WnpBT29KcTlkWkFnVU5LR1NBeUdsend2SG5kWWUxT19GNi1sQklITGY0MmRhc3VTdkpjQ2hOQ1d2WDMwaGZQTWNzLV9sZEVRNWlXaE52NHlaVEhXZk83X2pHUE5ZZUk5Sm9pYm5LVWZ0Zw?oc=5) |
 | 2026-07-06 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZFM2Y1ZRQ1hzTEVWbDBIaWRtcFBHdEo0bUJmeTZzbC1feEJUUG8wUDNOZ3JPcGU2U1o2elhFLTB2UE5ybWI2R2QzVTNsOVh1RDZsU2NyMjdxN2JtdUJwNXZqdnAxbk9ZWVhKTmZ4YWNSekotdGtPV0NXUjVnYlMxRWtPNUxONHpZ?oc=5) |
 | 2026-07-03 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTWpiTlNmSjROU2hWME1sQjZUTWxfVUg2M1cyVkVfVmduOUZ5ejBNM0pGSk9Sd3Y0Z1lQN2NreEN5ZVVwcWpuYnVObUVNWWZuUXc?oc=5) |
-| 2026-07-03 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSa2d3a0hiWDBvOUNNWEZMbHk1bUpHVm9kdTRRbEVwdUgtMUdOX0xQcDBBNGxZV0p6eENuNkZjU25ndUJWRnFUMXhiaFdUOWFUd01keHhGMnZsMGI5OTFoQVRWR3JpSkE?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -133,6 +133,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-13 | Helix AI Engineer, Localization and Mapping | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696533006) |
 | 2026-07-10 | AI Data Operations Lead | Figure AI | San Jose | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
 | 2026-07-10 | Coordinator, Inventory and Logistics | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696352006) |
 | 2026-07-10 | Coordinator, Inventory and Logistics | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696351006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-10 | Logistics Runner | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696354006) |
 | 2026-07-10 | Project Coordinator, Data Creators | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696348006) |
 | 2026-07-10 | Project Coordinator, Data Creators | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696349006) |
-| 2026-07-10 | Project Coordinator, Data Quality | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696350006) |
 
 ## Automation
 

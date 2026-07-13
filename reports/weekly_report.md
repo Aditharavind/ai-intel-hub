@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-13 13:53 UTC
+Generated: 2026-07-13 16:18 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,29 +14,29 @@ Generated: 2026-07-13 13:53 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82433 | 32973.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63097 | 25238.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82437 | 32974.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63100 | 25240.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44226 | 17690.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30021 | 12008.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30024 | 12009.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16010 | 6404.1 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| IffYuan/Embodied-R1.5 | 767 | 230.2 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
 | pratushpapnai/policy_assistant | 562 | 168.7 | [link](https://huggingface.co/pratushpapnai/policy_assistant) |
 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 329 | 101.0 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 323 | 98.8 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
 | BrinqAI/functiongemma-270m-physical-ai | 295 | 88.6 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
+| SEU-PAISys/Embodied.cpp | 180 | 54.9 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
 | 2026-07-13 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFYwRDR6VS1JdC1fYTU5VGRnSXg3bFZCMFRoakFIc2FERGxXUDloRXN0ZGJoZkFuRTBaR2s1S2ZYWDduNi1RLXNRN1ZCRThRdGFwZUw1Vko5Mjg2czVOTHhoRk54UFBBNDI5TUNNaHlqN21fR1A0WHFEN08tOEU1MWhndjlrbVFYakxEaC13dmNlSFRlRnRyMDNqYTQ4eTd5YWdaTmVKMEc0MV9IcGFvVzhFejIyMDQtSU5GcklVYWlFcDlKTGdZZG56WTFFMXJvVklqaTNB?oc=5) |
 | 2026-07-12 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1haWldjNWQ2S3U4UWQ3YlRGNHlLcE5IZWZNbXJmSGVqVWs3a0V5R1FJdVpxdUdfeFJfSzZVYWdXYWtYSnBzRmZWRDRneklpYTRPQTJIdFNKN0NCR2hlWjJ1S2xsNDV1SEFDTFJWLUNMYzU0Q2tJVC1rNnJpSVluS0ZRSzh3MlBiXzM3RmxmS1ZXUkZOUnpvY2ZqcHhabmdFUzcwRXdKejZpc2x4d1ZCdTU0SnFaRU92VndvXw?oc=5) |
+| 2026-07-11 | LeRobot |  | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE9TSU44clFtLThkcEwxcldNZTB3dGx4SmRUYnd1SHM3bTlWWGtuOC15XzUweG1Jc0FEdUVuT3dQQk1MODN6SUhQSDZBelR3YTdFSFNoeTVmWjBDNVBXWDVGWmZzcmVlQTNmNW1oOVZBSUhFMnBtT0p2NA?oc=5) |
 | 2026-07-08 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxNS056dHV6ZHBGUEVIZFVyNzNjdG5LVm16LURhY04ycXc3SmdZdktPTkJZWkZ4RWhIWUJvMG1Yb1BYb0psRVdMQS1kbTFERzRIRUtyb2p3TWpFSEdleHdKT2JONUNJWFQzWW9Wc0hOOFRvVFQ2eDdnd2E0V1pHemhzVElFQ1F3V1RZNjVZQ0JydDdBb3dvNDZwNUxR?oc=5) |
 | 2026-07-08 | LeRobot |  | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUjV4TUlCcWQ3MVZHSmE2VjFlYkJJeDQ3eEZpZXZNREhjM3BuOTNhRFJCNGQydG1RS3BOc2lubnNXcUtkeUNPLVVRbWkxa2FWTG15UGQwZkVadjhkN20yb1ZSOW9aZE1OYXZpWGJlZndPTXR4azlqdUp0bUNmeDM5eXFreE12SHJfaGdBME5LYmQ?oc=5) |
-| 2026-07-07 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMitgJBVV95cUxQdjdfLTBlbU4zUnJHSDRSWTU0R0R6STNDdVJET3hHWVJpR25PT2dYQnJzYWRna1pQeVdKYlRkZDRvTnlEWkY1NHA4bnpnblRWNVJFNHhUZUNQZktYUlJncTZNQmI3eTRjc2REc2VDOWdkSE93ZHRIcW1feGJUbDV5WGFEeTgwVjlURWF0bzV5SGxlZWZ4NWJZbTlianVqNjdTYWlHWFNyQy04eW81cGROQ3R2ZGJ4Z3RZYVh3b2l3NlZEQXlKZjFaN3FxVEdsWV9lNkp3d2R2ZVRGN19LRWpLWlNNLV9TYkNxMjMtSXEzUlJlbWJtZmVUZWw4T3Q5Q0s4cnZVbmhCcjVWcXpsYld6aVBCQmh6ZlNOZXlIVUJTa05aVVJLT3IwOTlKY0dNQ2RUZGF5TWVn?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
