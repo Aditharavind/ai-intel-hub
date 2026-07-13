@@ -28,6 +28,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2020/12/AI.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Irving John Good] was at Trinity College, Oxford back in 1964. His paper, &#8220;Speculations Concerning the First Ultraintelligent Machine&#8221; could have been a topic for today, as we deal with <a class=\"read-more\" href=\"https://hackaday.com/2026/07/12/musing-on-ai-from-1964/\">&#8230;read more</a>"
   },
   {
+    "title": "Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery",
+    "source": "CNX Software",
+    "date": "2026-07-13",
+    "url": "https://www.cnx-software.com/2026/07/13/ambient-scientific-gpx10-pro-mcu-delivers-years-of-always-on-ai-on-a-coin-cell-battery/",
+    "summary": "<div><img alt=\"Ambient Scientific GPX10 Pro Cortex M4 MCU always on embedded AI\" class=\"attachment-medium size-medium wp-post-image\" height=\"494\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Ambient-Scientific-GPX10-Pro-Cortex-M4-MCU-always-on-embedded-AI-720x494.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Ambient Scientific GPX10 Pro is a processor/microcontroller for always-on embedded AI applications on power-constrained edge devices. With a consumption of under &#60;100μW, it can deliver years of always-on AI on one coin-cell battery. The SoC features ten software-programmable MX8 AI cores leveraging the company&#8217;s DigAn technology, ultra-low power ADC, an 8-bit DVO camera interface, 2048 KB SRAM, support for numerous peripherals, and an Arm Cortex-M4F core for non-AI workloads. GPX10 Pro key features and specifications: MCU core &#8211; Arm Cortex-M4F core clocked at 100 KHz to 100 MHz Memory 2048 KB system SRAM 64KB retention SRAM in “Always On” block Storage &#8211; External SPI or QSPI flash 10x MX8 programmable AI Cores for ultra-low power deep learning applications Based on the DigAn AI engine, which can change behavior between being a master and a slave. Up to 2,560 MAC operations per clock cycle (256 MAC per cycle per core) Peak [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/13/ambient-scientific-gpx10-pro-mcu-delivers-years-of-always-on-ai-on-a-coin-cell-battery/\">Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "WisMesh Station Review – Telemetry, MQTT, and Grafana tested on a Raspberry Pi 4-based Meshtastic gateway",
     "source": "CNX Software",
     "date": "2026-07-13",
@@ -40,6 +47,104 @@
     "date": "2026-07-13",
     "url": "https://www.cnx-software.com/2026/07/13/raspberry-pi-gets-10base-t1s-t1l-single-pair-ethernet-spe-hat-board/",
     "summary": "<div><img alt=\"Raspberry Pi 10BASE T1S SPE HAT\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Raspberry-Pi-10BASE-T1S-SPE-HAT-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Germany-based Brechel Electronic has launched two new Single Pair Ethernet (SPE) expansion boards for Raspberry Pi platforms: the BE-IIS-HPP-T1S and the BE-IIS-HPP-T1L. Designed for technology evaluation, industrial network prototyping, and educational laboratory use, these boards add 10 Mbit/s Ethernet communication over a single twisted pair to standard Raspberry Pi SBCs. The BE-IIS-HPP-T1S is based on the Microchip LAN8651 10BASE-T1S MAC-PHY and supports IEEE 802.3cg Single Pair Ethernet over multidrop networks with up to 8 nodes, enabling distances up to 25 meters on a shared bus. For longer-reach point-to-point links, the company offers the BE-IIS-HPP-T1L, built around Analog Devices ADIN1110 MAC-PHY. Both boards are part of the BE-IIS HAT++ ecosystem, which allows multiple industrial communication HATs to be stacked on a single Raspberry Pi without running into SPI or GPIO resource conflicts. Brechel Electronic 10BASE-T1L and 10BASE-T1S specifications: Compatibility &#8211; Raspberry Pi HAT+ compliant T1L &#8211; Supports Pi 3, 4, 5, and Zero [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/13/raspberry-pi-gets-10base-t1s-t1l-single-pair-ethernet-spe-hat-board/\">Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "China’s Massive Battery Build Capacity",
+    "source": "Electronics Weekly",
+    "date": "2026-07-13",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/manuf/chinas-massive-battery-build-capacity-2026-07/",
+    "summary": "<p>China’s grid-scale battery energy storage capacity surged from just 2.4 gigawatts in 2020 to more than 140 gigawatts in 2025 – far ahead of the United States, which reached roughly 57 ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/manuf/chinas-massive-battery-build-capacity-2026-07/\">China’s Massive Battery Build Capacity</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Tesla A15 chip to be fabbed  at Samsung and TSMC",
+    "source": "Electronics Weekly",
+    "date": "2026-07-13",
+    "url": "https://www.electronicsweekly.com/news/business/tesla-a15-chip-to-be-fabbed-at-samsung-and-tsmv-2026-07/",
+    "summary": "<p>Tesla’s A15 chip is to be fabbed concurrently on the 2nm processes of TSMC in Taiwan and Samsung’s Taylor, Texas fab. TSMC’s Arizona fab site may be added to the ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tesla-a15-chip-to-be-fabbed-at-samsung-and-tsmv-2026-07/\">Tesla A15 chip to be fabbed  at Samsung and TSMC</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "CP1000 probe features 1.5MHz bandwidth for measurements up to 1000A",
+    "source": "Electronics Weekly",
+    "date": "2026-07-13",
+    "url": "https://www.electronicsweekly.com/news/products/test-measurement-products/cp1000-probe-features-1-5mhz-bandwidth-for-measurements-up-to-1000a-2026-07/",
+    "summary": "<p>Teledyne LeCroy&#8217;s CP1000 current probe targets the precise measurement of modern high-power systems. It features a measurement capability up to 1000A RMS and 1400A peak current. Teledyne says it is ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/test-measurement-products/cp1000-probe-features-1-5mhz-bandwidth-for-measurements-up-to-1000a-2026-07/\">CP1000 probe features 1.5MHz bandwidth for measurements up to 1000A</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "TSMC Q2 revenue up 36% YoY",
+    "source": "Electronics Weekly",
+    "date": "2026-07-13",
+    "url": "https://www.electronicsweekly.com/news/business/tsmc-q2-revenue-up-36-yoy-2026-07/",
+    "summary": "<p>Earlier today  TSMC reported Q2 revenues up 36% YoY at $39.6 billion. For June, TSMC revenue rose 67.9% YoY and 6.2% MoM to  $13.8 billion. For H126, TSMC’s total revenue ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-q2-revenue-up-36-yoy-2026-07/\">TSMC Q2 revenue up 36% YoY</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Sheffield University spin-off raises £5.25m to productionise MicroLED manufacturing process",
+    "source": "Electronics Weekly",
+    "date": "2026-07-13",
+    "url": "https://www.electronicsweekly.com/news/business/sheffield-university-spin-off-raises-5-25m-for-microled-process-decelopment-2026-07/",
+    "summary": "<p>Pixel-Flo, a spinout from the University of Sheffield’s School of Electrical and Electronic Engineering, has secured £5.25 million funding to enhance MicroLED technology manufacturing, helping to reduce the cost and ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/sheffield-university-spin-off-raises-5-25m-for-microled-process-decelopment-2026-07/\">Sheffield University spin-off raises £5.25m to productionise MicroLED manufacturing process</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Rapidus to charge $18-21k for a 2nm wafer",
+    "source": "Electronics Weekly",
+    "date": "2026-07-13",
+    "url": "https://www.electronicsweekly.com/news/business/899838-2026-07/",
+    "summary": "<p>Rapidus is preparing to charge between $18,460  and $21 ,540 for a 2nm foundry wafer which contrasts with $30k at TSMC and Intel and $20k at Samsung, reports the Nikkei. ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/899838-2026-07/\">Rapidus to charge $18-21k for a 2nm wafer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Nanya building $15bn 45k wpm fab",
+    "source": "Electronics Weekly",
+    "date": "2026-07-13",
+    "url": "https://www.electronicsweekly.com/news/business/899817-2026-07/",
+    "summary": "<p>Nanya, the Taiwanese DRAM manufacturer, is to increase its capex next year by 4x from $1.5 billion this year to $6.2 billion next year as it builds a new fab. ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/899817-2026-07/\">Nanya building $15bn 45k wpm fab</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Q2 PC shipments down 4.9% as memory stays short",
+    "source": "Electronics Weekly",
+    "date": "2026-07-13",
+    "url": "https://www.electronicsweekly.com/news/business/899811-2026-07/",
+    "summary": "<p>PC shipments fell 4.9% year over year in Q2 2026 to 68.2 million units, according to IDC — the first decline after nine consecutive quarters of growth. A persistent memory ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/899811-2026-07/\">Q2 PC shipments down 4.9% as memory stays short</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "China gets space boost of landing reusable rocket",
+    "source": "Electronics Weekly",
+    "date": "2026-07-13",
+    "url": "https://www.electronicsweekly.com/news/china-gets-space-boost-of-landing-reusable-rocket-2026-07/",
+    "summary": "<p>In a major landmark for the Chinese space industry, the country has successfully landed a reusable rocket, the Long March 10B. The China Academy of Launch Vehicle Technology, a government ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/china-gets-space-boost-of-landing-reusable-rocket-2026-07/\">China gets space boost of landing reusable rocket</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Automotive 1 MBd optocoupler in a SOP-5 package",
+    "source": "Electronics Weekly",
+    "date": "2026-07-13",
+    "url": "https://www.electronicsweekly.com/news/business/899769-2026-07/",
+    "summary": "<p>Vishay has brought out an automotive 1 MBd high speed optocoupler in a new SOP-5 package with a narrow width of 3.6 mm. Combining a comparative tracking index (CTI) of ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/899769-2026-07/\">Automotive 1 MBd optocoupler in a SOP-5 package</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Next level motion detection: Panasonic Industry enhances its PIR sensor portfolio with PaPIRs+",
+    "source": "EE Journal",
+    "date": "2026-07-13",
+    "url": "https://www.eejournal.com/industry_news/next-level-motion-detection-panasonic-industry-enhances-its-pir-sensor-portfolio-with-papirs/",
+    "summary": "Panasonic Industry Europe announces the expansion of its proven PIR motion sensor portfolio with the introduction of PaPIRs+, the next evolution of its widely used PaPIRs technology. Designed to meet increasing demands in building automation and smart infrastructure, PaPIRs+ delivers significantly enhanced detection performance while maintaining the simplicity and reliability of conventional PIR solutions. Building &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/next-level-motion-detection-panasonic-industry-enhances-its-pir-sensor-portfolio-with-papirs/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Next level motion detection: Panasonic Industry enhances its PIR sensor portfolio with PaPIRs+\"</span></a>"
+  },
+  {
+    "title": "IK Multimedia Launches ReSing Voices Brazilian Pack and New Singer Showcase",
+    "source": "EE Journal",
+    "date": "2026-07-13",
+    "url": "https://www.eejournal.com/industry_news/ik-multimedia-launches-resing-voices-brazilian-pack-and-new-singer-showcase/",
+    "summary": "IK Multimedia today announced the ReSing Voices Brazilian Pack, adding eight new Brazilian Portuguese voice models and unlocking Portuguese voice model creation for ReSing users. The company also introduced the new ReSing Singer Showcase, offering a new way to discover, purchase, and permanently own individual ReSing voice models. ReSing is a plug-in and standalone application that enables &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/ik-multimedia-launches-resing-voices-brazilian-pack-and-new-singer-showcase/\">Read More &#8594;<span class=\"screen-reader-text\"> \"IK Multimedia Launches ReSing Voices Brazilian Pack and New Singer Showcase\"</span></a>"
+  },
+  {
+    "title": "Research reveals how grassroots football could help tackle climate change",
+    "source": "EE Journal",
+    "date": "2026-07-13",
+    "url": "https://www.eejournal.com/industry_news/research-reveals-how-grassroots-football-could-help-tackle-climate-change/",
+    "summary": "With international football met with increasing criticism over its carbon footprint, University of Bath students are working with Bath City FC to show how community football could help tackle climate change. Using real data from the club, researchers identified practical, low-cost decarbonisation options, alongside longer-term investments that could transform how grassroots clubs use and produce &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/research-reveals-how-grassroots-football-could-help-tackle-climate-change/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Research reveals how grassroots football could help tackle climate change\"</span></a>"
+  },
+  {
+    "title": "Adiuvo’s $50 Forgix Board Crams RP2354 Microcontroller and Trion T8 FPGA into a 28-pin Teensy Footprint",
+    "source": "EE Journal",
+    "date": "2026-07-13",
+    "url": "https://www.eejournal.com/article/adiuvos-50-forgix-board-crams-rp2354-microcontroller-and-trion-t8-fpga-into-a-28-pin-teensy-footprint/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"287\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/Adiuvo-Forgix-Board-300x287.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />Hot on the heels of Adiuvo’s introduction of the Explorer FPGA board (see “Need a low-cost FPGA dev board? Check out Adiuvo Engineering’s $99 Explorer board with an AMD Artix UltraScale+ FPGA”), the company has now introduced a $50 development board called Forgix, which combines a Raspberry Pi Pico RP2354 with Efinix Trion T8 FPGA, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/adiuvos-50-forgix-board-crams-rp2354-microcontroller-and-trion-t8-fpga-into-a-28-pin-teensy-footprint/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Adiuvo’s $50 Forgix Board Crams RP2354 Microcontroller and Trion T8 FPGA into a 28-pin Teensy Footprint\"</span></a>"
   },
   {
     "title": "Hackaday Links: July 12, 2026",
@@ -154,6 +259,13 @@
     "summary": "bcrooks shares: A Pelican-style latching dry box for a single 1kg filament spool. Robust latches with a TPU seal keep moisture out. Separate desiccant compartments hold beads in place, with an optional hygrometer install for humidity monitoring. Base needs tree support for the hygrometer variant. Ironed top surface for better sealing. By bcrooks download the [&#8230;]"
   },
   {
+    "title": "Inside NTT’s Photonics Breakthroughs: A Roadmap to Light-Based Computing",
+    "source": "EE Journal",
+    "date": "2026-07-10",
+    "url": "https://www.eejournal.com/fish_fry/inside-ntts-photonics-breakthroughs-a-roadmap-to-light-based-computing/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/AD-071026-300x300.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />Let’s talk about Photonics! My guests are esteemed scientists Tim McKenna and Ryo Yanagimoto, from the Physics &#38; Informatics Laboratories at NTT. Tim and I chat about balancing theoretical physics with real-world applications at NTT, his most exciting photonics projects, and the primary obstacles to replacing traditional electronics with photonic technologies. Ryo and I dig &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/fish_fry/inside-ntts-photonics-breakthroughs-a-roadmap-to-light-based-computing/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Inside NTT’s Photonics Breakthroughs: A Roadmap to Light-Based Computing\"</span></a>"
+  },
+  {
     "title": "Makerfabs MaUWB for Home Assistant – An ESP32-S3 UWB module with PoE and enclosure",
     "source": "CNX Software",
     "date": "2026-07-09",
@@ -217,6 +329,34 @@
     "summary": "It&#8217;s JOHN PARK’S WORKSHOP — LIVE! &#8212; Coming up at 4pm ET / 1pm PT Today!  LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects &#8212; Attachécade KB2040 Fightstick PCBs v2 Tool Tips Retro Gear  Mod music on Demoscene Fruit Jam and more! The live video will be on Youtube LIVE, Twitch, Periscope [&#8230;]"
   },
   {
+    "title": "Lightpath to Deliver AI-Grade Fiber Infrastructure to Two New Hyperscale Data Center Campuses",
+    "source": "EE Journal",
+    "date": "2026-07-09",
+    "url": "https://www.eejournal.com/industry_news/lightpath-to-deliver-ai-grade-fiber-infrastructure-to-two-new-hyperscale-data-center-campuses/",
+    "summary": "Lightpath today announced new fiber builds to support two hyperscale data center campuses now under construction, extending its AI-grade network to meet surging capacity demand driven by artificial intelligence. Each campus is planned to exceed one gigawatt of capacity. Lightpath will provide triverse fiber infrastructure and multi-terabit capacity to the two facilities, located in Saline, Michigan &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/lightpath-to-deliver-ai-grade-fiber-infrastructure-to-two-new-hyperscale-data-center-campuses/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Lightpath to Deliver AI-Grade Fiber Infrastructure to Two New Hyperscale Data Center Campuses\"</span></a>"
+  },
+  {
+    "title": "DeepInfra Expands AI Inference Capacity with First International Data Center in Toronto",
+    "source": "EE Journal",
+    "date": "2026-07-09",
+    "url": "https://www.eejournal.com/industry_news/deepinfra-expands-ai-inference-capacity-with-first-international-data-center-in-toronto/",
+    "summary": "DeepInfra, a purpose-built cloud platform for high-throughput AI inference, today announced the opening of a new data center location in Toronto. Global AI infrastructure demand is increasingly being driven by inference workloads as enterprises shift from model training to production-scale deployment. According to research from McKinsey &#38; Company, AI inference is projected to account for more than &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/deepinfra-expands-ai-inference-capacity-with-first-international-data-center-in-toronto/\">Read More &#8594;<span class=\"screen-reader-text\"> \"DeepInfra Expands AI Inference Capacity with First International Data Center in Toronto\"</span></a>"
+  },
+  {
+    "title": "Infineon supplies SiC technology to ADVANTICS, enhancing efficiency in power converters for megawatt charging",
+    "source": "EE Journal",
+    "date": "2026-07-09",
+    "url": "https://www.eejournal.com/industry_news/infineon-supplies-sic-technology-to-advantics-enhancing-efficiency-in-power-converters-for-megawatt-charging/",
+    "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) will supply CoolSiC™ MOSFETs 1200 V and matching dual-channel EiceDRIVER™ 2EDB9259Y gate drivers to ADVANTICS, a technology leader in silicon carbide (SiC) power electronics and advanced control systems, for its new line of liquid-cooled power converters. The solutions enhance efficiency, power density and reliability in applications such &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/infineon-supplies-sic-technology-to-advantics-enhancing-efficiency-in-power-converters-for-megawatt-charging/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Infineon supplies SiC technology to ADVANTICS, enhancing efficiency in power converters for megawatt charging\"</span></a>"
+  },
+  {
+    "title": "We’re One Step Closer to Drag-and-Drop Off-the-Shelf Chiplet-Based Design",
+    "source": "EE Journal",
+    "date": "2026-07-09",
+    "url": "https://www.eejournal.com/article/were-one-step-closer-to-drag-and-drop-off-the-shelf-chiplet-based-design/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/max-0499-image-for-home-page-zero-asic-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />Close your eyes and imagine the following scene. No. That won’t work, will it? Let’s try doing this a different way. Keep your eyes open and imagine they’re closed. Visualize a future timeline where you use a GUI to drag-and-drop chiplets onto an active silicon substrate, run simulations and profiling, fine-tune your design, pick a &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/were-one-step-closer-to-drag-and-drop-off-the-shelf-chiplet-based-design/\">Read More &#8594;<span class=\"screen-reader-text\"> \"We’re One Step Closer to Drag-and-Drop Off-the-Shelf Chiplet-Based Design\"</span></a>"
+  },
+  {
     "title": "Rikomagic DS04 – An Android 14 4K digital signage player powered by Rockchip RK3576 SoC",
     "source": "CNX Software",
     "date": "2026-07-08",
@@ -252,11 +392,11 @@
     "summary": "<p>Advantech Co. Ltd. has expanded its edge AI portfolio with a new family of industrial computing platforms based on the Qualcomm Dragonwing IQ-9075 processor. The new lineup includes the AOM-6741 SMARC module, the ASR-A503 and AFE-A503 robotic controllers, and the AIR-055 edge AI system, all designed to support advanced vision-based artificial intelligence applications in industrial [...]</p>\n<p>The post <a href=\"https://www.embedded.com/advantech-introduces-dragonwing-iq9-based-edge-ai-solutions/\">Advantech Introduces Dragonwing IQ9-Based Edge AI Solutions</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "ESP32-C5 devkit offers 2.8-inch capacitive touch display, dual-band Wi-Fi 6, Bluetooth 5 LE, LiPo battery support",
-    "source": "CNX Software",
-    "date": "2026-07-07",
-    "url": "https://www.cnx-software.com/2026/07/07/esp32-c5-devkit-offers-2-8-inch-capacitive-touch-display-dual-band-wi-fi-6-bluetooth-5-le-lipo-battery-support/",
-    "summary": "<div><img alt=\"ESP32-C5-Touch-LCD-2.8\" class=\"attachment-medium size-medium wp-post-image\" height=\"542\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/ESP32-C5-Touch-LCD-2.8-720x542.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Last week, I wrote about the ESP32-C5-LCD-1.47 as one of the first ESP32-C5 devkits with a built-in display enabling dual-band WiFi 6 connectivity for IoT and HMI projects. However, one reader lamented the lack of touch-capable screens, at which point kwchow pointed to the ESP32-C5-Touch-LCD-2.8 model offering just that by pairing an ESP32-C5 with a 2.8-inch IPS  display with capacitive touch and 320&#215;480 resolution. The new board also features a microSD card slot, a USB-C port for power and programming, a built-in microphone and a speaker connector, a few sensors, and various I/Os connectors for expansion. Let&#8217;s have a closer look. ESP32-C5-Touch-LCD-2.8 specifications: Wireless module – Espressif Systems ESP32-C5-WROOM-1-N32R8 SoC &#8211; ESP32-C5HR8 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 40 MHz acting as the main processor for power-sensitive applications Memory – 384 KB SRAM on-chip, 8MB PSRAM Storage – 320 KB ROM Wireless [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/07/esp32-c5-devkit-offers-2-8-inch-capacitive-touch-display-dual-band-wi-fi-6-bluetooth-5-le-lipo-battery-support/\">ESP32-C5 devkit offers 2.8-inch capacitive touch display, dual-band Wi-Fi 6, Bluetooth 5 LE, LiPo battery support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "title": "Virginia Fiber Express Networks Advances Licensing and Permitting for Phase 1 of a State-Wide Fiber Network",
+    "source": "EE Journal",
+    "date": "2026-07-08",
+    "url": "https://www.eejournal.com/industry_news/virginia-fiber-express-networks-advances-licensing-and-permitting-for-phase-1-of-a-state-wide-fiber-network/",
+    "summary": "Virginia Fiber Express Networks LLC (VFE Networks), a wholly owned subsidiary of Infraforward Strategies LLC, announces the successful securing of Competitive Local Exchange Carrier (CLEC) and Interexchange Carrier (IXC) operating licenses and Land Use permit from the Commonwealth of Virginia. Having achieved these milestones, VFE Networks, in collaboration with its Virginia-based partners Express Technologies Inc. (Express-tek) and S&#38;N Infrastructure, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/virginia-fiber-express-networks-advances-licensing-and-permitting-for-phase-1-of-a-state-wide-fiber-network/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Virginia Fiber Express Networks Advances Licensing and Permitting for Phase 1 of a State-Wide Fiber Network\"</span></a>"
   },
   {
     "title": "How NOR Flash Memory Safety Features Protect Linux Systems",
