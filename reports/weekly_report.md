@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-13 05:20 UTC
+Generated: 2026-07-13 08:39 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,29 +14,29 @@ Generated: 2026-07-13 05:20 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82428 | 32971.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82429 | 32971.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63090 | 25236.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44219 | 17687.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30015 | 12006.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| NaiboWang/EasySpider | 44224 | 17689.7 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30019 | 12007.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16006 | 6402.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| IffYuan/Embodied-R1.5 | 891 | 267.4 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
-| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 327 | 100.4 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
-| tencent/Hy-Embodied-0.5-VLA-UMI | 315 | 96.4 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
-| BrinqAI/functiongemma-270m-physical-ai | 299 | 89.8 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
+| IffYuan/Embodied-R1.5 | 767 | 230.2 | [link](https://huggingface.co/IffYuan/Embodied-R1.5) |
+| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 329 | 101.0 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
+| tencent/Hy-Embodied-0.5-VLA-UMI | 323 | 98.8 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
+| BrinqAI/functiongemma-270m-physical-ai | 295 | 88.6 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
 | Prabhalika/hr-policy-assistant-merged | 244 | 73.3 | [link](https://huggingface.co/Prabhalika/hr-policy-assistant-merged) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
 | 2026-07-12 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1haWldjNWQ2S3U4UWQ3YlRGNHlLcE5IZWZNbXJmSGVqVWs3a0V5R1FJdVpxdUdfeFJfSzZVYWdXYWtYSnBzRmZWRDRneklpYTRPQTJIdFNKN0NCR2hlWjJ1S2xsNDV1SEFDTFJWLUNMYzU0Q2tJVC1rNnJpSVluS0ZRSzh3MlBiXzM3RmxmS1ZXUkZOUnpvY2ZqcHhabmdFUzcwRXdKejZpc2x4d1ZCdTU0SnFaRU92VndvXw?oc=5) |
+| 2026-07-11 | LeRobot |  | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE9TSU44clFtLThkcEwxcldNZTB3dGx4SmRUYnd1SHM3bTlWWGtuOC15XzUweG1Jc0FEdUVuT3dQQk1MODN6SUhQSDZBelR3YTdFSFNoeTVmWjBDNVBXWDVGWmZzcmVlQTNmNW1oOVZBSUhFMnBtT0p2NA?oc=5) |
 | 2026-07-08 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxNS056dHV6ZHBGUEVIZFVyNzNjdG5LVm16LURhY04ycXc3SmdZdktPTkJZWkZ4RWhIWUJvMG1Yb1BYb0psRVdMQS1kbTFERzRIRUtyb2p3TWpFSEdleHdKT2JONUNJWFQzWW9Wc0hOOFRvVFQ2eDdnd2E0V1pHemhzVElFQ1F3V1RZNjVZQ0JydDdBb3dvNDZwNUxR?oc=5) |
 | 2026-07-08 | LeRobot |  | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUjV4TUlCcWQ3MVZHSmE2VjFlYkJJeDQ3eEZpZXZNREhjM3BuOTNhRFJCNGQydG1RS3BOc2lubnNXcUtkeUNPLVVRbWkxa2FWTG15UGQwZkVadjhkN20yb1ZSOW9aZE1OYXZpWGJlZndPTXR4azlqdUp0bUNmeDM5eXFreE12SHJfaGdBME5LYmQ?oc=5) |
 | 2026-07-07 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMitgJBVV95cUxQdjdfLTBlbU4zUnJHSDRSWTU0R0R6STNDdVJET3hHWVJpR25PT2dYQnJzYWRna1pQeVdKYlRkZDRvTnlEWkY1NHA4bnpnblRWNVJFNHhUZUNQZktYUlJncTZNQmI3eTRjc2REc2VDOWdkSE93ZHRIcW1feGJUbDV5WGFEeTgwVjlURWF0bzV5SGxlZWZ4NWJZbTlianVqNjdTYWlHWFNyQy04eW81cGROQ3R2ZGJ4Z3RZYVh3b2l3NlZEQXlKZjFaN3FxVEdsWV9lNkp3d2R2ZVRGN19LRWpLWlNNLV9TYkNxMjMtSXEzUlJlbWJtZmVUZWw4T3Q5Q0s4cnZVbmhCcjVWcXpsYld6aVBCQmh6ZlNOZXlIVUJTa05aVVJLT3IwOTlKY0dNQ2RUZGF5TWVn?oc=5) |
-| 2026-07-07 | LeRobot |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzRyeF85c183eThYLXZWRXZQYlhlY1dtY3RGLTY4NDRmazV2d0lKUXZxa0owU0ctSkZiRGttdXkzRGJ4WkVmMTBfMTZqN0Zkbmpncl9ueWxzZXlqRURrOWJOTGU5NDF4Yk1pd0g5Y0JXWi16UHA4Y1RvTm9ndUJ5MTY2eGQtSFVUNFNGVzRqTm5Reml5dXZYRzdZOXVYSld4RjZKTnNaU2NfUlE2TWFMQWJOZC1GRy16WWIyekJqeXVHNlh2UzVVVQ?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |

@@ -9,6 +9,42 @@
     "score": 0.3
   },
   {
+    "model": "YinonDouchan/mobile_robot_lift_env_multi_cube_single_platform",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/YinonDouchan/mobile_robot_lift_env_multi_cube_single_platform",
+    "date": "2026-07-13",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "YinonDouchan/mobile_robot_lift_env_multi_cube_multi_platform",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/YinonDouchan/mobile_robot_lift_env_multi_cube_multi_platform",
+    "date": "2026-07-13",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform",
+    "date": "2026-07-13",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "mr-robot-01/act_pickup_place_getsun_bottle",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mr-robot-01/act_pickup_place_getsun_bottle",
+    "date": "2026-07-13",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single",
     "downloads": 0,
     "likes": 0,
@@ -55,12 +91,12 @@
   },
   {
     "model": "InternRobotics/VLAC",
-    "downloads": 51,
+    "downloads": 49,
     "likes": 42,
     "url": "https://huggingface.co/InternRobotics/VLAC",
     "date": "2026-07-13",
     "keyword": "vla",
-    "score": 23.8
+    "score": 23.2
   },
   {
     "model": "InternRobotics/VLAC-8b",
@@ -91,12 +127,12 @@
   },
   {
     "model": "SEU-PAISys/Embodied.cpp",
-    "downloads": 176,
+    "downloads": 180,
     "likes": 4,
     "url": "https://huggingface.co/SEU-PAISys/Embodied.cpp",
     "date": "2026-07-13",
     "keyword": "embodied",
-    "score": 53.7
+    "score": 54.9
   },
   {
     "model": "physicalai-bmi/orbital-capture-bc",
@@ -106,6 +142,15 @@
     "date": "2026-07-13",
     "keyword": "physical ai",
     "score": 0.1
+  },
+  {
+    "model": "KeshavLN/deskorgv2.7_policy",
+    "downloads": 35,
+    "likes": 0,
+    "url": "https://huggingface.co/KeshavLN/deskorgv2.7_policy",
+    "date": "2026-07-13",
+    "keyword": "policy",
+    "score": 10.6
   },
   {
     "model": "gachonnursing/act_pick_place_policy",
@@ -169,42 +214,6 @@
     "date": "2026-07-12",
     "keyword": "robot",
     "score": 10.3
-  },
-  {
-    "model": "yassinsanadai/llama3-robot-awq",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/yassinsanadai/llama3-robot-awq",
-    "date": "2026-07-12",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "DAVIAN-Robotics/pi05-robocasa-H50",
-    "downloads": 30,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/pi05-robocasa-H50",
-    "date": "2026-07-12",
-    "keyword": "robotics",
-    "score": 9.1
-  },
-  {
-    "model": "wijan/Robot-Action-Planner-NO-FT",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/wijan/Robot-Action-Planner-NO-FT",
-    "date": "2026-07-12",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "wijan/Robot-Action-Planner-GGUF",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/wijan/Robot-Action-Planner-GGUF",
-    "date": "2026-07-12",
-    "keyword": "robot",
-    "score": 0.1
   },
   {
     "model": "VladimirRH/toxicity-classifier",
@@ -468,6 +477,15 @@
     "score": 0.1
   },
   {
+    "model": "DAVIAN-Robotics/pi05-robocasa-H50",
+    "downloads": 30,
+    "likes": 0,
+    "url": "https://huggingface.co/DAVIAN-Robotics/pi05-robocasa-H50",
+    "date": "2026-07-12",
+    "keyword": "robotics",
+    "score": 9.1
+  },
+  {
     "model": "leehe228/dynin-robotics-libero-long-3000",
     "downloads": 0,
     "likes": 0,
@@ -558,15 +576,6 @@
     "score": 4.6
   },
   {
-    "model": "Toji619/non_instruction_self_hr_policy_tokenizer",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Toji619/non_instruction_self_hr_policy_tokenizer",
-    "date": "2026-07-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "leehe228/dynin-robotics-libero-object-5800",
     "downloads": 0,
     "likes": 0,
@@ -631,21 +640,21 @@
   },
   {
     "model": "tencent/Hy-Embodied-0.5-VLA-UMI",
-    "downloads": 315,
+    "downloads": 323,
     "likes": 9,
     "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI",
     "date": "2026-07-01",
     "keyword": "embodied",
-    "score": 96.4
+    "score": 98.8
   },
   {
     "model": "tencent/Hy-Embodied-0.5-VLA-RoboTwin",
-    "downloads": 327,
+    "downloads": 329,
     "likes": 11,
     "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin",
     "date": "2026-07-01",
     "keyword": "embodied",
-    "score": 100.4
+    "score": 101.0
   },
   {
     "model": "ewykric/EmbodiedSelfPlay-checkpoints",
@@ -703,48 +712,48 @@
   },
   {
     "model": "BrinqAI/functiongemma-270m-physical-ai",
-    "downloads": 299,
+    "downloads": 295,
     "likes": 0,
     "url": "https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai",
     "date": "2026-06-15",
     "keyword": "physical ai",
-    "score": 89.8
+    "score": 88.6
   },
   {
     "model": "IffYuan/Embodied-R1.5",
-    "downloads": 891,
+    "downloads": 767,
     "likes": 0,
     "url": "https://huggingface.co/IffYuan/Embodied-R1.5",
     "date": "2026-06-14",
     "keyword": "embodied",
-    "score": 267.4
+    "score": 230.2
   },
   {
     "model": "physicalairi/pi05_ur3e_pick_red_drop_blue",
-    "downloads": 24,
+    "downloads": 17,
     "likes": 0,
     "url": "https://huggingface.co/physicalairi/pi05_ur3e_pick_red_drop_blue",
     "date": "2026-06-14",
     "keyword": "physical ai",
-    "score": 7.3
+    "score": 5.2
   },
   {
     "model": "physicalairi/act_ur3_realroom_stack_camera_sim_v1",
-    "downloads": 19,
+    "downloads": 20,
     "likes": 0,
     "url": "https://huggingface.co/physicalairi/act_ur3_realroom_stack_camera_sim_v1",
     "date": "2026-06-14",
     "keyword": "physical ai",
-    "score": 5.8
+    "score": 6.1
   },
   {
     "model": "IffYuan/Embodied-R1.5-8B-SFT",
-    "downloads": 9,
+    "downloads": 8,
     "likes": 0,
     "url": "https://huggingface.co/IffYuan/Embodied-R1.5-8B-SFT",
     "date": "2026-06-09",
     "keyword": "embodied",
-    "score": 2.8
+    "score": 2.5
   },
   {
     "model": "UCLA-VAIL/Navigation-Model-Zoo-Public",
