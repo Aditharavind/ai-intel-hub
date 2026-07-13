@@ -1,5 +1,32 @@
 [
   {
+    "model": "wijan/Robot-Action-Planner-GGUF",
+    "downloads": 68,
+    "likes": 0,
+    "url": "https://huggingface.co/wijan/Robot-Action-Planner-GGUF",
+    "date": "2026-07-13",
+    "keyword": "robot",
+    "score": 20.5
+  },
+  {
+    "model": "wijan/Robot-Action-Planner",
+    "downloads": 26,
+    "likes": 0,
+    "url": "https://huggingface.co/wijan/Robot-Action-Planner",
+    "date": "2026-07-13",
+    "keyword": "robot",
+    "score": 7.9
+  },
+  {
+    "model": "wonder-robot/dot_piper_v2_fresh3",
+    "downloads": 19,
+    "likes": 0,
+    "url": "https://huggingface.co/wonder-robot/dot_piper_v2_fresh3",
+    "date": "2026-07-13",
+    "keyword": "robot",
+    "score": 5.8
+  },
+  {
     "model": "HarrisonPENG/M2W-VLA-RoboTwin",
     "downloads": 67,
     "likes": 0,
@@ -81,31 +108,13 @@
     "score": 0.1
   },
   {
-    "model": "YinonDouchan/mobile_robot_lift_env_multi_cube_single_platform",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/mobile_robot_lift_env_multi_cube_single_platform",
+    "model": "Mayank022/urban-vla-language-act",
+    "downloads": 30,
+    "likes": 1,
+    "url": "https://huggingface.co/Mayank022/urban-vla-language-act",
     "date": "2026-07-13",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "YinonDouchan/mobile_robot_lift_env_multi_cube_multi_platform",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/mobile_robot_lift_env_multi_cube_multi_platform",
-    "date": "2026-07-13",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform",
-    "date": "2026-07-13",
-    "keyword": "robot",
-    "score": 0.1
+    "keyword": "vla",
+    "score": 9.3
   },
   {
     "model": "YccHugAi/lingbot-vla-2-stackcube",
@@ -261,6 +270,15 @@
     "score": 0.1
   },
   {
+    "model": "zhijieq/directional-navigation",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zhijieq/directional-navigation",
+    "date": "2026-07-13",
+    "keyword": "navigation",
+    "score": 0.1
+  },
+  {
     "model": "3cda2225/record-demo0714_3_act_policy",
     "downloads": 0,
     "likes": 0,
@@ -371,20 +389,11 @@
   {
     "model": "VladimirRH/toxicity-classifier",
     "downloads": 9,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/VladimirRH/toxicity-classifier",
     "date": "2026-07-12",
     "keyword": "vla",
-    "score": 2.8
-  },
-  {
-    "model": "Mayank022/urban-vla-language-act",
-    "downloads": 30,
-    "likes": 1,
-    "url": "https://huggingface.co/Mayank022/urban-vla-language-act",
-    "date": "2026-07-12",
-    "keyword": "vla",
-    "score": 9.3
+    "score": 3.0
   },
   {
     "model": "physicalai-bmi/nano-vla-pixels",
@@ -799,14 +808,5 @@
     "date": "2026-05-05",
     "keyword": "navigation",
     "score": 0.7
-  },
-  {
-    "model": "malaikajunaid/SEEVIA-AISLE-NAVIGATION-DQN",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/malaikajunaid/SEEVIA-AISLE-NAVIGATION-DQN",
-    "date": "2026-04-28",
-    "keyword": "navigation",
-    "score": 0.1
   }
 ]
