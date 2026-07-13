@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-13 01:17 UTC
+Last Updated: 2026-07-13 05:20 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-13 | CGI Motion Capture with only a Camera | Hackaday | [link](https://hackaday.com/2026/07/12/cgi-motion-capture-with-only-a-camera/) |
+| 2026-07-13 | Musing on AI from 1964 | Hackaday | [link](https://hackaday.com/2026/07/12/musing-on-ai-from-1964/) |
 | 2026-07-13 | Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board | CNX Software | [link](https://www.cnx-software.com/2026/07/13/raspberry-pi-gets-10base-t1s-t1l-single-pair-ethernet-spe-hat-board/) |
+| 2026-07-13 | Ed Gets Into Inference | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-gets-into-inference-2026-07/) |
 | 2026-07-12 | Hackaday Links: July 12, 2026 | Hackaday | [link](https://hackaday.com/2026/07/12/hackaday-links-july-12-2026/) |
 | 2026-07-12 | Porting the Nvidia GPU Driver to Haiku for 3D Acceleration | Hackaday | [link](https://hackaday.com/2026/07/12/porting-the-nvidia-gpu-driver-to-haiku-for-3d-acceleration/) |
 | 2026-07-12 | Building a Better CNC Hot Wire Foam Cutter | Hackaday | [link](https://hackaday.com/2026/07/12/building-a-better-cnc-hot-wire-foam-cutter/) |
 | 2026-07-12 | Speak Silently With An Ultrasound Probe | Hackaday | [link](https://hackaday.com/2026/07/12/speak-silently-with-an-ultrasound-probe/) |
 | 2026-07-12 | Printing Fungal Art with Laser Control | Hackaday | [link](https://hackaday.com/2026/07/12/printing-fungal-art-with-laser-control/) |
-| 2026-07-12 | Software-Defined Vehicles Loom Closer Every Year | Hackaday | [link](https://hackaday.com/2026/07/12/software-defined-vehicles-loom-closer-every-year/) |
-| 2026-07-12 | Porting DOOM to the Casio Loopy | Hackaday | [link](https://hackaday.com/2026/07/11/porting-doom-to-the-casio-loopy/) |
 | 2026-07-12 | Beelink EQi review – Part 2: An Intel Core 3 304 “Wildcat Lake” mini PC tested with Windows 11 Pro | CNX Software | [link](https://www.cnx-software.com/2026/07/12/beelink-eqi-review-intel-core-3-304-wildcat-lake-mini-pc-windows-11-pro/) |
-| 2026-07-12 | Adafruit Weekly Editorial Round-Up: Adafruit Summer Sale! and more! | Adafruit | [link](https://blog.adafruit.com/2026/07/12/adafruit-weekly-editorial-round-up-adafruit-summer-sale-and-more/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -78,29 +78,29 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-13 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-07-13 | YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single) |
+| 2026-07-13 | RobotisSW/Task_000208_dispose_general_waste_box_lerobot_chunk30_aug_true | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_000208_dispose_general_waste_box_lerobot_chunk30_aug_true) |
 | 2026-07-13 | RobotisSW/Task_900006_Collect_PeanutMix_To_Box_1110_0710_UKH_lerobot_v30_act_from_50k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900006_Collect_PeanutMix_To_Box_1110_0710_UKH_lerobot_v30_act_from_50k) |
-| 2026-07-13 | yoonheeh/trained_homebot_diffusion_policy | 0 | 0 | [link](https://huggingface.co/yoonheeh/trained_homebot_diffusion_policy) |
-| 2026-07-12 | wonder-robot/dot_piper_v2_fresh3 | 0 | 0 | [link](https://huggingface.co/wonder-robot/dot_piper_v2_fresh3) |
-| 2026-07-12 | RobotisSW/Task_180_Pick_Peanut_Mix_WhiteShelf_halfsize_chunk30_MCAP | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_180_Pick_Peanut_Mix_WhiteShelf_halfsize_chunk30_MCAP) |
-| 2026-07-12 | robotgeneralist/openpi_checkpoint_mirrors2 | 0 | 0 | [link](https://huggingface.co/robotgeneralist/openpi_checkpoint_mirrors2) |
-| 2026-07-12 | YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube_single | 34 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_up_cube_single) |
-| 2026-07-12 | yassinsanadai/llama3-robot-awq | 0 | 0 | [link](https://huggingface.co/yassinsanadai/llama3-robot-awq) |
-| 2026-07-12 | DAVIAN-Robotics/pi05-robocasa-H50 | 30 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/pi05-robocasa-H50) |
-| 2026-07-12 | wijan/Robot-Action-Planner-NO-FT | 0 | 0 | [link](https://huggingface.co/wijan/Robot-Action-Planner-NO-FT) |
+| 2026-07-13 | macv666/entropy-vla-grpo-logs | 0 | 0 | [link](https://huggingface.co/macv666/entropy-vla-grpo-logs) |
+| 2026-07-13 | HarrisonPENG/M2W-VLA-LIBERO-query4 | 0 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-LIBERO-query4) |
+| 2026-07-13 | InternRobotics/VLAC | 51 | 42 | [link](https://huggingface.co/InternRobotics/VLAC) |
+| 2026-07-13 | InternRobotics/VLAC-8b | 24 | 2 | [link](https://huggingface.co/InternRobotics/VLAC-8b) |
+| 2026-07-13 | zaowu/vla-jepa-so101-resume | 0 | 0 | [link](https://huggingface.co/zaowu/vla-jepa-so101-resume) |
+| 2026-07-13 | Monita108/Multi_view_vla_mytask | 0 | 0 | [link](https://huggingface.co/Monita108/Multi_view_vla_mytask) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| kornia/kornia | 11273 | Python | 4509.3 | [link](https://github.com/kornia/kornia) |
-| isaac-sim/IsaacLab | 7661 | Python | 3064.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3840 | Rust | 1536.1 | [link](https://github.com/dora-rs/dora) |
-| vllm-project/vllm-omni | 5538 | Python | 2215.3 | [link](https://github.com/vllm-project/vllm-omni) |
 | copper-project/copper-rs | 1400 | Rust | 560.1 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 456 | Shell | 182.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| ros-claw/rosclaw | 160 | Python | 64.1 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63089 | Python | 25235.7 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15447 | C++ | 6178.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| knightnemo/Awesome-World-Models | 3146 |  | 1258.5 | [link](https://github.com/knightnemo/Awesome-World-Models) |
+| commaai/openpilot | 63090 | Python | 25236.1 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15448 | C++ | 6179.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| kornia/kornia | 11273 | Python | 4509.3 | [link](https://github.com/kornia/kornia) |
+| isaac-sim/IsaacLab | 7661 | Python | 3064.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| dora-rs/dora | 3841 | Rust | 1536.5 | [link](https://github.com/dora-rs/dora) |
+| knightnemo/Awesome-World-Models | 3147 |  | 1258.9 | [link](https://github.com/knightnemo/Awesome-World-Models) |
+| datawhalechina/every-embodied | 2640 | Python | 1056.1 | [link](https://github.com/datawhalechina/every-embodied) |
+| sou350121/VLA-Handbook | 378 | HTML | 151.3 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,16 +119,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-13 | Humanoid robot startup Holiday Robotics announced on the 13th that it has attracted a total of 155 b.. - 매일경제 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5ZVc4WUZfaVVBNGNOYUd2Vy1KczQ3OVlhcHNONlBYMmJIeWxFR25rYU9LV0ktcGJmSHNRWmNtQ0laUjA1ZW9ES0RWWQ?oc=5) |
 | 2026-07-12 | Korea’s Physical AI Edge Now Depends on Certification, Liability, and Trust - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTE8zWjdOZGIyUlVua2s3LVJDeXlhRW04Y1ZDbWNaMTFWTmhVb3QyZFZCa0ItbUI4Q0RqdW9vMlVwZG0wNi1PWUhFdlNPSHlwOUp1RTdXU1p1NjU0SEFjeHpISFRQSmRfemhUMVNySjdLbURmR2I3MFBGemZxZjZOYWs?oc=5) |
 | 2026-07-10 | ‘Physical AI is Europe’s last chance to be useful to the world’ - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCRkdaWU95QUp1UkRnTVBicHlDTm05M0ZWeURLZHFrQ216ZWZsMFBfMWtOV2w1MUJoWG5Wb1g2NTcxMzM5V2FsSDEtdUJFbnQwbDRDQk5iMERvQQ?oc=5) |
 | 2026-07-10 | LG CNS partners with UK's PhysicsX to develop industrial AI model - The Korea Herald | physical ai startup | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHX01INnhzTXA1S3dlSFNRUl9jVEJlWUg2TjZuSkNGd3Rxdm1ONXg3YjgyR05FZ21fOEdPQkVvSGowMUU3aWVhdVEweVJpc0V4aWI1N2ptWQ?oc=5) |
 | 2026-07-10 | European startup unveils humanoid robot design, real-time learning system - digitimes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXE3bmNjWmRpb1liS0xjVHRhaDlsVFFreDU0dVhOUW1wNUtqZHF3VTdWQkpMSlFmdnRfclJwaVFNeXV5OTV1aUFqSC1ZNzk0eFp4Q3YycWZpcjZCZW52SEtRTnVkLWsyenZfbjd2cXNNbUJ0ZTFQUVg4Um9DWTNpZDlZdW5WUkp5a0cyS0hDWGd4Y0U?oc=5) |
 | 2026-07-09 | Reservoir Farms Launches Pilot in Arizona for Physical AI Innovation in Specialty Crops - TMX Newsfile | physical ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWFRVDFqM0U0Z0pxTm9xSEt2UGxtZFlFQ2dWSFQ0dFNVdk9lR1V1cEVaVmd2ay1BMElqX0F4Mmk3MTh2T2psc1JmemQyN2Q0djlUUjNndktnWUo5cjctY2FhM2VRTzVOSEw4RzZrSTJXZGY0MEd6d2s3T1hoR0dRRlM5cXM5S2Z2VVJHR3JhNTRuVTNHbXh1djg0MW9lZk1wYnZCZVRfZXBIVUNycHh6SnN1X3NBQkptRE9ta21RbWt4VkNnZ0JjdmZ5Yw?oc=5) |
 | 2026-07-09 | Physical AI startup Hakimo raises $12 Mn - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTFBaVDNvVDhJajlhRXZaQ2hKemhRX2pIYl85bUE2Mkp0VkRmTXcyM3BBS09QX2o2dXRxRDUyVVVHdVRNS2JHY1JHT2QyMFNvVGNobld3Q0dYNUQ3OW5YWEwyQ0dBYzM2alNxY1N2bU9DVXZFWWlkeTl4ZkUzdE9oZG_SAX9BVV95cUxQWlQzb1Q4SWo5YUV2WkNoSnpoUV9qSGJfOW1BNjJKdFZEZk13MjNwQUtPUF9qNnV0cUQ1MlVVR3VUTUtiR2NSR09kMjBTb1RjaG5Xd0NHWDVENzluWFhMMkNHQWMzNmpTcWNTdm1PQ1V2RVlpZHk5eGZFM3RPaGRv?oc=5) |
+| 2026-07-09 | Reservoir Farms Launches Pilot in Arizona for Physical AI Innovation in Specialty Crops - Global Ag Tech Initiative | physical ai startup | [link](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX1p6RGxOVVJJZVd4LUVaeWVUUHUyTzRGeXo4ZFQwbGpTVGZHNmdxLXp3S182S2JlUTlnN1JTVjZDOGpiSWk4T1JTWGJWWjJqdGhTZlBRb3E0cVFxazgtR0puVmVuS3VTTldDc19NRW9DcFRBRDFCNFk5U3B6WE5xWkxmS3B5c0tqQnpnOHQ0SWdzWTJvNWpIQUgyS2lTZGxKbU9TNTNBcDZrYnNVZXpDdzVDNlJ0NXJQcFozRWhQWUI3czRIeThVMTF3bDMxM2w5WGFIWENoVk5wdGs?oc=5) |
 | 2026-07-09 | General Intuition just raised $320M on a thesis that sounds absurd — that video game data, not real robot telemetry, will produce the GPT of embodied AI - Silicon Canals | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelpEeVFMcnR5UHhTRmJDYmNzcmlGUTNZLVVDc2w5cThmcjV3ZXNGcm43b2IxMjBWZjdFWFB4OTRyQ3RVUzZPcWs3SkNsdjIxYWtfUjJMY05xYzdHNS1aZGEtWWFQaExpdEQtVFM1ZU5iMkpMT3NGNWhFbGhHZkE0MmVNeDRPa2cyd3p1aGJnVms1azhPUEt1cllYb0V6NGQzS1VZaWFTMVpxemNRR2FBMmRKNFd4TmpPRG1Ea1c5Vm00NzdJaWh5VUFYMWZ2WV9ZaXZWNUZTT3RQdGx2RXlRZHFHdVk1clBnSVdDdUFrODN3dUR1LVBQSHBSSm5fTWJUazlOckNlcHFuN0E?oc=5) |
 | 2026-07-09 | How Can Mistral's AI Transform Robot Navigation? - Analytics India Magazine | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2dRUnJ2TG5aazBHLVRhTW5Nay1LZ2NjSEoyLVE4Y1Z1aVhmb2VlNHFpM3JGUXJOcWJJU0dhb3d6bmw1ejVIaXpEc1U0cnNuc2FyZmZBazVRc2FiT3pMVUh6ZmVJZUpDdFVhUjZwd3VqV3JQcUJuLVFLaFhKZnNnbU5YblZXSWlJZmk1d3ZMQi1JbkhBX3pzR09SVmxhRi1GNVpQV3RmQVFuU01OSk5lbVNpQkRsTVZtS3hj?oc=5) |
-| 2026-07-09 | Mitsubishi joins global robot race, plans to manufacture, deploy humanoid workers in 2027 - Automotive News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDZsb05XSXRXQ3pYMEhteGtIWkFSejR0d2ZKUHp2aWx4ME9BR3FiR0VjazAyRHVJV2xtRzJLSHY0WFJGMkZXRWg2dU0wLVlmOTdUZk1FVU5qLVZFMmdqVDg5amllSWR2ZDBsSGJHLXprRThtRmZ2UW10cTVXS2dOQ0t1azZMMDI0andUcmVQUHNCbkdxdGI0eTRFeHY?oc=5) |
-| 2026-07-09 | Mitsubishi Motors to make humanoid robots for its own auto factories - Nikkei Asia | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVdFYll0TUNjRFM3aEVhRVdZXzNERHpDR0ljVkhTRXdod1FISUdxaUNoamZoQVZCRmZpLUhMNVQydWlWakVsOGF1d3pQOXpJdk05dnVma2NTSktmQVpYT240aG5selA2SzRiN2FzZFh0dTBuRUhEV3Bwb1I0S2tsQVRyWlptLUE5dmJtSGxrVUZ3UmFkNXAweXhocDJqcTB3QmlaQzQ0Q0pDSFByWXZTNExB?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
