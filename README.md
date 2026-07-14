@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-14 21:43 UTC
+Last Updated: 2026-07-14 22:42 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -14,8 +14,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-10 | Getting started with ChatGPT | OpenAI | [link](https://openai.com/academy/getting-started) |
 | 2026-07-10 | Profiling in PyTorch (Part 3): Attention is all you profile | Hugging Face | [link](https://huggingface.co/blog/torch-attention-profile) |
 | 2026-07-09 | GPT-5.6 is now the preferred model in Microsoft 365 Copilot | OpenAI | [link](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot) |
-| 2026-07-09 | ChatGPT is now a partner for your most ambitious work | OpenAI | [link](https://openai.com/index/chatgpt-for-your-most-ambitious-work) |
 | 2026-07-09 | GPT-5.6: Frontier intelligence that scales with your ambition | OpenAI | [link](https://openai.com/index/gpt-5-6) |
+| 2026-07-09 | ChatGPT is now a partner for your most ambitious work | OpenAI | [link](https://openai.com/index/chatgpt-for-your-most-ambitious-work) |
 | 2026-07-09 | GPT-5.5 Bio Bug Bounty | OpenAI | [link](https://openai.com/index/bio-bug-bounty) |
 
 ## Physical AI News
@@ -36,6 +36,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-07-14 | NVIDIA shares how to evaluate general-purpose robot policies for real-world deployment | Robotics Business Review | [link](https://www.therobotreport.com/nvidia-shares-how-evaluate-general-purpose-robot-policies-real-world-deployment/) |
+| 2026-07-14 | Key to Humanoid Progress: Managing the Power Behind the Robots | Robotics Business Review | [link](https://www.therobotreport.com/key-to-humanoid-progress-managing-the-power-behind-the-robots/) |
 | 2026-07-13 | The Robot Report parent company, WTWH Media, rebrands as Arrowfly | Robotics Business Review | [link](https://www.therobotreport.com/the-robot-report-parent-company-wtwh-media-rebrands-as-arrowfly/) |
 | 2026-07-13 | Yaskawa America gets information security certification | Robotics Business Review | [link](https://www.therobotreport.com/yaskawa-america-gets-information-seccurity-certification/) |
 | 2026-07-13 | Ondas acquires DZYNE for $875.8M, expanding its defense capabilities | Robotics Business Review | [link](https://www.therobotreport.com/ondas-acquires-dzyne-875-8m-expanding-its-defense-capabilities/) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-11 | Are suppliers ready for new robot safety standards? | Robotics Business Review | [link](https://www.therobotreport.com/are-suppliers-ready-for-new-robot-safety-standards/) |
 | 2026-07-11 | Why robotics teams need virtual gyms before deployment | Robotics Business Review | [link](https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/) |
 | 2026-07-10 | Ground Robots Inherit the Kill Zone | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/ukraine-ground-drones) |
-| 2026-07-10 | Video Friday: A World Cup for Robots | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robot-world-cup) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -95,8 +95,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | awslabs/awsome-distributed-ai | 461 | Shell | 184.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 306 | Python | 122.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | ros-claw/rosclaw | 162 | Python | 64.9 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63117 | Python | 25246.9 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15464 | C++ | 6185.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 63118 | Python | 25247.3 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15465 | C++ | 6186.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14208 | C++ | 5683.3 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11275 | Python | 4510.1 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11128 | Rust | 4451.3 | [link](https://github.com/rerun-io/rerun) |
