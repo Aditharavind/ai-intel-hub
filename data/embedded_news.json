@@ -1,5 +1,19 @@
 [
   {
+    "title": "Can’t Find That ISA Sound Card? No Worries!",
+    "source": "Hackaday",
+    "date": "2026-07-14",
+    "url": "https://hackaday.com/2026/07/13/cant-find-that-isa-sound-card-no-worries/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/beavis-ultrasound-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Many older hackers will have at some point gotten rid of an old piece of hardware that they later ended up regretting. All those ISA cards were next to useless <a class=\"read-more\" href=\"https://hackaday.com/2026/07/13/cant-find-that-isa-sound-card-no-worries/\">&#8230;read more</a>"
+  },
+  {
+    "title": "IoTLabs wM-Bus gateway – An ESP32 device with Wireless M-Bus connectivity for Home Assistant",
+    "source": "CNX Software",
+    "date": "2026-07-14",
+    "url": "https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/",
+    "summary": "<div><img alt=\"wM Bus Gateway\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/wM-Bus-Gateway-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>IoTLabs wM-Bus Gateway is an ESP32 device supporting the Wireless M-Bus (wM-Bus) standard for receiving data from compatible meters and sensors, designed for full integration with Home Assistant. Wireless M-Bus (Wireless Meter Bus) is a wireless protocol specifically designed for remote reading of smart meters, generally gas, water, or electricity meters, and typically used by utilities, but the wM-Bus gateway allows you to deploy the standard for your home automation solution, meters, and sensors. wM-Bus gateway specifications: Main controller &#8211; ESP32 dual-core microcontroller with Wi-Fi and BLE connectivity Display &#8211; 1.3-inch OLED for live measurements and status wM-Bus &#8211; 868 MHz radio receiver; Semtech SX1276-based RFM95/RFM96 according to the code Supports T1 and C1 frames, compatible with the wmbusmeters library Antennas Built-in 2.4 GHz antenna for Wi-Fi and Bluetooth External SMA antenna for wireless M-Bus; important: must be connected before powering the device to avoid damage Misc Top button to [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/\">IoTLabs wM-Bus gateway &#8211; An ESP32 device with Wireless M-Bus connectivity for Home Assistant</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Semis For Important People",
     "source": "Electronics Weekly",
     "date": "2026-07-14",
@@ -47,13 +61,6 @@
     "date": "2026-07-13",
     "url": "https://hackaday.com/2026/07/13/the-death-of-physical-media-and-the-real-challenges-to-software-archiving/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/07/PhysicalMedia.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Along with the many displays of outrage, gnashing of teeth and other displays of profound grief at the recent news that Sony will no longer manufacture physical game discs come <a class=\"read-more\" href=\"https://hackaday.com/2026/07/13/the-death-of-physical-media-and-the-real-challenges-to-software-archiving/\">&#8230;read more</a>"
-  },
-  {
-    "title": "DIY Steam Controller Puck Offers Xbox, Switch, PlayStation Emulation Modes",
-    "source": "Hackaday",
-    "date": "2026-07-13",
-    "url": "https://hackaday.com/2026/07/13/diy-steam-controller-puck-offers-xbox-switch-playstation-emulation-modes/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"267\" src=\"https://hackaday.com/wp-content/uploads/2026/07/OpenPuck-banner.png?w=475\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"475\" /></div>Valve recently released a new version of the Steam Controller, which features a wired USB puck that serves both as charger and dedicated, low-latency wireless receiver. The downside is they <a class=\"read-more\" href=\"https://hackaday.com/2026/07/13/diy-steam-controller-puck-offers-xbox-switch-playstation-emulation-modes/\">&#8230;read more</a>"
   },
   {
     "title": "Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery",
@@ -238,6 +245,34 @@
     "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
+    "title": "Next level motion detection: Panasonic Industry enhances its PIR sensor portfolio with PaPIRs+",
+    "source": "EE Journal",
+    "date": "2026-07-13",
+    "url": "https://www.eejournal.com/industry_news/next-level-motion-detection-panasonic-industry-enhances-its-pir-sensor-portfolio-with-papirs/",
+    "summary": "Panasonic Industry Europe announces the expansion of its proven PIR motion sensor portfolio with the introduction of PaPIRs+, the next evolution of its widely used PaPIRs technology. Designed to meet increasing demands in building automation and smart infrastructure, PaPIRs+ delivers significantly enhanced detection performance while maintaining the simplicity and reliability of conventional PIR solutions. Building &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/next-level-motion-detection-panasonic-industry-enhances-its-pir-sensor-portfolio-with-papirs/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Next level motion detection: Panasonic Industry enhances its PIR sensor portfolio with PaPIRs+\"</span></a>"
+  },
+  {
+    "title": "IK Multimedia Launches ReSing Voices Brazilian Pack and New Singer Showcase",
+    "source": "EE Journal",
+    "date": "2026-07-13",
+    "url": "https://www.eejournal.com/industry_news/ik-multimedia-launches-resing-voices-brazilian-pack-and-new-singer-showcase/",
+    "summary": "IK Multimedia today announced the ReSing Voices Brazilian Pack, adding eight new Brazilian Portuguese voice models and unlocking Portuguese voice model creation for ReSing users. The company also introduced the new ReSing Singer Showcase, offering a new way to discover, purchase, and permanently own individual ReSing voice models. ReSing is a plug-in and standalone application that enables &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/ik-multimedia-launches-resing-voices-brazilian-pack-and-new-singer-showcase/\">Read More &#8594;<span class=\"screen-reader-text\"> \"IK Multimedia Launches ReSing Voices Brazilian Pack and New Singer Showcase\"</span></a>"
+  },
+  {
+    "title": "Research reveals how grassroots football could help tackle climate change",
+    "source": "EE Journal",
+    "date": "2026-07-13",
+    "url": "https://www.eejournal.com/industry_news/research-reveals-how-grassroots-football-could-help-tackle-climate-change/",
+    "summary": "With international football met with increasing criticism over its carbon footprint, University of Bath students are working with Bath City FC to show how community football could help tackle climate change. Using real data from the club, researchers identified practical, low-cost decarbonisation options, alongside longer-term investments that could transform how grassroots clubs use and produce &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/research-reveals-how-grassroots-football-could-help-tackle-climate-change/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Research reveals how grassroots football could help tackle climate change\"</span></a>"
+  },
+  {
+    "title": "Adiuvo’s $50 Forgix Board Crams RP2354 Microcontroller and Trion T8 FPGA into a 28-pin Teensy Footprint",
+    "source": "EE Journal",
+    "date": "2026-07-13",
+    "url": "https://www.eejournal.com/article/adiuvos-50-forgix-board-crams-rp2354-microcontroller-and-trion-t8-fpga-into-a-28-pin-teensy-footprint/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"287\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/Adiuvo-Forgix-Board-300x287.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />Hot on the heels of Adiuvo’s introduction of the Explorer FPGA board (see “Need a low-cost FPGA dev board? Check out Adiuvo Engineering’s $99 Explorer board with an AMD Artix UltraScale+ FPGA”), the company has now introduced a $50 development board called Forgix, which combines a Raspberry Pi Pico RP2354 with Efinix Trion T8 FPGA, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/adiuvos-50-forgix-board-crams-rp2354-microcontroller-and-trion-t8-fpga-into-a-28-pin-teensy-footprint/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Adiuvo’s $50 Forgix Board Crams RP2354 Microcontroller and Trion T8 FPGA into a 28-pin Teensy Footprint\"</span></a>"
+  },
+  {
     "title": "Beelink EQi review – Part 2: An Intel Core 3 304 “Wildcat Lake” mini PC tested with Windows 11 Pro",
     "source": "CNX Software",
     "date": "2026-07-12",
@@ -280,6 +315,13 @@
     "summary": "<p>Microchip Technology Inc. has made its MPLAB XC Pro compilers and MPLAB Machine Learning (ML) development suite available free of charge, removing licensing barriers for developers working on embedded systems and edge AI applications. The updated licensing model allows unlimited installations for both individual users and development teams, providing unrestricted access to compiler optimization features and [...]</p>\n<p>The post <a href=\"https://www.embedded.com/microchip-offers-free-mplab-compiler-and-ai-tools/\">Microchip Offers Free MPLAB Compiler and AI Tools</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
+    "title": "Inside NTT’s Photonics Breakthroughs: A Roadmap to Light-Based Computing",
+    "source": "EE Journal",
+    "date": "2026-07-10",
+    "url": "https://www.eejournal.com/fish_fry/inside-ntts-photonics-breakthroughs-a-roadmap-to-light-based-computing/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/AD-071026-300x300.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />Let’s talk about Photonics! My guests are esteemed scientists Tim McKenna and Ryo Yanagimoto, from the Physics &#38; Informatics Laboratories at NTT. Tim and I chat about balancing theoretical physics with real-world applications at NTT, his most exciting photonics projects, and the primary obstacles to replacing traditional electronics with photonic technologies. Ryo and I dig &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/fish_fry/inside-ntts-photonics-breakthroughs-a-roadmap-to-light-based-computing/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Inside NTT’s Photonics Breakthroughs: A Roadmap to Light-Based Computing\"</span></a>"
+  },
+  {
     "title": "Makerfabs MaUWB for Home Assistant – An ESP32-S3 UWB module with PoE and enclosure",
     "source": "CNX Software",
     "date": "2026-07-09",
@@ -308,6 +350,34 @@
     "summary": "<p>Software-defined vehicles (SDVs) are increasing the need to process intelligence closer to the systems that are generating data. Modern vehicles produce large amounts of data from sensors, control units, and diagnostic systems, making it inefficient and costly to send all the raw data to the cloud for processing. This is one of the main reasons [...]</p>\n<p>The post <a href=\"https://www.embedded.com/edge-intelligence-redefines-what-sdvs-can-do/\">Edge Intelligence Redefines What SDVs Can Do</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
+    "title": "Lightpath to Deliver AI-Grade Fiber Infrastructure to Two New Hyperscale Data Center Campuses",
+    "source": "EE Journal",
+    "date": "2026-07-09",
+    "url": "https://www.eejournal.com/industry_news/lightpath-to-deliver-ai-grade-fiber-infrastructure-to-two-new-hyperscale-data-center-campuses/",
+    "summary": "Lightpath today announced new fiber builds to support two hyperscale data center campuses now under construction, extending its AI-grade network to meet surging capacity demand driven by artificial intelligence. Each campus is planned to exceed one gigawatt of capacity. Lightpath will provide triverse fiber infrastructure and multi-terabit capacity to the two facilities, located in Saline, Michigan &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/lightpath-to-deliver-ai-grade-fiber-infrastructure-to-two-new-hyperscale-data-center-campuses/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Lightpath to Deliver AI-Grade Fiber Infrastructure to Two New Hyperscale Data Center Campuses\"</span></a>"
+  },
+  {
+    "title": "DeepInfra Expands AI Inference Capacity with First International Data Center in Toronto",
+    "source": "EE Journal",
+    "date": "2026-07-09",
+    "url": "https://www.eejournal.com/industry_news/deepinfra-expands-ai-inference-capacity-with-first-international-data-center-in-toronto/",
+    "summary": "DeepInfra, a purpose-built cloud platform for high-throughput AI inference, today announced the opening of a new data center location in Toronto. Global AI infrastructure demand is increasingly being driven by inference workloads as enterprises shift from model training to production-scale deployment. According to research from McKinsey &#38; Company, AI inference is projected to account for more than &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/deepinfra-expands-ai-inference-capacity-with-first-international-data-center-in-toronto/\">Read More &#8594;<span class=\"screen-reader-text\"> \"DeepInfra Expands AI Inference Capacity with First International Data Center in Toronto\"</span></a>"
+  },
+  {
+    "title": "Infineon supplies SiC technology to ADVANTICS, enhancing efficiency in power converters for megawatt charging",
+    "source": "EE Journal",
+    "date": "2026-07-09",
+    "url": "https://www.eejournal.com/industry_news/infineon-supplies-sic-technology-to-advantics-enhancing-efficiency-in-power-converters-for-megawatt-charging/",
+    "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) will supply CoolSiC™ MOSFETs 1200 V and matching dual-channel EiceDRIVER™ 2EDB9259Y gate drivers to ADVANTICS, a technology leader in silicon carbide (SiC) power electronics and advanced control systems, for its new line of liquid-cooled power converters. The solutions enhance efficiency, power density and reliability in applications such &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/infineon-supplies-sic-technology-to-advantics-enhancing-efficiency-in-power-converters-for-megawatt-charging/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Infineon supplies SiC technology to ADVANTICS, enhancing efficiency in power converters for megawatt charging\"</span></a>"
+  },
+  {
+    "title": "We’re One Step Closer to Drag-and-Drop Off-the-Shelf Chiplet-Based Design",
+    "source": "EE Journal",
+    "date": "2026-07-09",
+    "url": "https://www.eejournal.com/article/were-one-step-closer-to-drag-and-drop-off-the-shelf-chiplet-based-design/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/max-0499-image-for-home-page-zero-asic-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />Close your eyes and imagine the following scene. No. That won’t work, will it? Let’s try doing this a different way. Keep your eyes open and imagine they’re closed. Visualize a future timeline where you use a GUI to drag-and-drop chiplets onto an active silicon substrate, run simulations and profiling, fine-tune your design, pick a &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/were-one-step-closer-to-drag-and-drop-off-the-shelf-chiplet-based-design/\">Read More &#8594;<span class=\"screen-reader-text\"> \"We’re One Step Closer to Drag-and-Drop Off-the-Shelf Chiplet-Based Design\"</span></a>"
+  },
+  {
     "title": "Rikomagic DS04 – An Android 14 4K digital signage player powered by Rockchip RK3576 SoC",
     "source": "CNX Software",
     "date": "2026-07-08",
@@ -322,13 +392,6 @@
     "summary": "<div><img alt=\"KKBS Raspberry Pi Rack Panel\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/KKBS-Raspberry-Pi-Rack-Panel-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>KKSB Cases has introduced a series of rack panels designed for Raspberry Pi clusters in standard rack enclosures. The lineup includes a 10-inch 1U model for two Raspberry Pi boards, a 19-inch 1U model for five boards, and a 19-inch 2U model for up to ten boards. All the panels support Raspberry Pi 5, Raspberry Pi 4, Raspberry Pi 3, Pi 2, and other boards sharing the same mounting hole pattern. The rack panels are made from powder-coated steel and expose the USB and Ethernet ports on the front of the rack for easier cable management. Each slot provides room for Raspberry Pi HATs and the official Raspberry Pi active cooler. KKSB also includes hex standoffs and 40-pin GPIO headers so HATs can be installed above the SBCs when additional clearance is required. Each Raspberry Pi is first attached to an individual mounting tray, which is then secured into the [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/08/kksb-10-inch-and-19-inch-rack-panels-target-raspberry-pi-clusters-support-pi-hats-and-active-coolers/\">KKSB 10-inch and 19-inch rack panels target Raspberry Pi clusters, support Pi HATs and active coolers</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "ACEMAGIC discounts its AMD Ryzen 7 mini PCs by up to 32% for a limited time (Sponsored)",
-    "source": "CNX Software",
-    "date": "2026-07-08",
-    "url": "https://www.cnx-software.com/2026/07/08/acemagic-discounts-its-amd-ryzen-7-mini-pcs-by-up-to-32/",
-    "summary": "<div><img alt=\"ACEMAGIC Retro X3\" class=\"attachment-medium size-medium wp-post-image\" height=\"647\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/ACEMAGIC-Retro-X3-720x647.webp\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ACEMAGIC has launched a promotion for two of its AMD Ryzen 7 mini PCs. The Matrix Mini K1 mini PC, powered by a Ryzen 7 7730U paired with 16GB LPDDR4X and a 512GB NVMe SSD, benefits from a 23% discount down to $386, and the company offers an even deeper 32% discount for the ACEMAGIC Retro X3 Ryzen 7 H 255 mini PC, shipping with 16GB LPDDR5 and a 1TB NVME SSD. ACEMAGICIAN Matrix Mini K1 Key features and specifications: SoC &#8211; AMD Ryzen 7 7730U 8-core/16-thread CPU @ up to 4.5 GHz with AMD Radeon Graphics  @ 2000 MHz; TDP: 15W System Memory &#8211; 16GB LPDDR4X Storage &#8211; 512GB NVMe SSD Video Output HDMI 2.0, DP 1.4b, USB-C with DisplayPort Alt mode Up to 3x 4K displays supported Audio &#8211; 3.5 mm audio jack Networking Ethernet RJ45 port WiFI and Bluetooth USB 4x USB 3.2 Gen1 ports 2x USB [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/08/acemagic-discounts-its-amd-ryzen-7-mini-pcs-by-up-to-32/\">ACEMAGIC discounts its AMD Ryzen 7 mini PCs by up to 32% for a limited time (Sponsored)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
     "title": "Qualcomm Unveils Dragonfly Data Center Portfolio for Agentic AI Infrastructure",
     "source": "Embedded.com",
     "date": "2026-07-08",
@@ -341,6 +404,13 @@
     "date": "2026-07-08",
     "url": "https://www.embedded.com/advantech-introduces-dragonwing-iq9-based-edge-ai-solutions/",
     "summary": "<p>Advantech Co. Ltd. has expanded its edge AI portfolio with a new family of industrial computing platforms based on the Qualcomm Dragonwing IQ-9075 processor. The new lineup includes the AOM-6741 SMARC module, the ASR-A503 and AFE-A503 robotic controllers, and the AIR-055 edge AI system, all designed to support advanced vision-based artificial intelligence applications in industrial [...]</p>\n<p>The post <a href=\"https://www.embedded.com/advantech-introduces-dragonwing-iq9-based-edge-ai-solutions/\">Advantech Introduces Dragonwing IQ9-Based Edge AI Solutions</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Virginia Fiber Express Networks Advances Licensing and Permitting for Phase 1 of a State-Wide Fiber Network",
+    "source": "EE Journal",
+    "date": "2026-07-08",
+    "url": "https://www.eejournal.com/industry_news/virginia-fiber-express-networks-advances-licensing-and-permitting-for-phase-1-of-a-state-wide-fiber-network/",
+    "summary": "Virginia Fiber Express Networks LLC (VFE Networks), a wholly owned subsidiary of Infraforward Strategies LLC, announces the successful securing of Competitive Local Exchange Carrier (CLEC) and Interexchange Carrier (IXC) operating licenses and Land Use permit from the Commonwealth of Virginia. Having achieved these milestones, VFE Networks, in collaboration with its Virginia-based partners Express Technologies Inc. (Express-tek) and S&#38;N Infrastructure, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/virginia-fiber-express-networks-advances-licensing-and-permitting-for-phase-1-of-a-state-wide-fiber-network/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Virginia Fiber Express Networks Advances Licensing and Permitting for Phase 1 of a State-Wide Fiber Network\"</span></a>"
   },
   {
     "title": "How NOR Flash Memory Safety Features Protect Linux Systems",

@@ -1,29 +1,29 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-14 01:09 UTC
+Generated: 2026-07-14 04:36 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-12 | Mapping Pamir: Multi-Session Visual-Inertial SLAM and 3D Reconstruction of an Underwater Shipwreck | [link](https://arxiv.org/pdf/2607.10925v1) |
-| 2026-07-12 | A Single Diffusion-Policy Controller for Multi-Task Block Pushing with Zero-Shot Sim-to-Real Transfer | [link](https://arxiv.org/pdf/2607.10892v1) |
-| 2026-07-12 | 3D Scene Graph Prediction: Generating Hierarchical Models from Partially Observed Environments | [link](https://arxiv.org/pdf/2607.10879v1) |
-| 2026-07-12 | X-GuideAR: An Augmented Reality Framework to Mitigate Radiation Exposure during Fluoroscopic Guidance | [link](https://arxiv.org/pdf/2607.10873v1) |
-| 2026-07-12 | Learning To Focus: Anatomy-Guided Attention Regularization for Medical Image Classification | [link](https://arxiv.org/pdf/2607.10851v1) |
+| 2026-07-13 | Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation | [link](https://arxiv.org/pdf/2607.11884v1) |
+| 2026-07-13 | A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation | [link](https://arxiv.org/pdf/2607.11874v1) |
+| 2026-07-13 | Robust bipedal locomotion on flowable slopes via foot-driven terrain manipulation | [link](https://arxiv.org/pdf/2607.11855v1) |
+| 2026-07-13 | HASTE: A Platform for Rapid Post-Disaster Building Damage Assessment | [link](https://arxiv.org/pdf/2607.11838v1) |
+| 2026-07-13 | Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency | [link](https://arxiv.org/pdf/2607.11836v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82446 | 32978.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63104 | 25241.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44225 | 17690.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30026 | 12010.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16009 | 6403.7 | [link](https://github.com/zauberzeug/nicegui) |
+| Developer-Y/cs-video-courses | 82448 | 32979.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63106 | 25242.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44226 | 17690.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30029 | 12011.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16010 | 6404.1 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| pratushpapnai/policy_assistant | 562 | 168.7 | [link](https://huggingface.co/pratushpapnai/policy_assistant) |
+| XiaomiRobotics/Xiaomi-Robotics-0-LIBERO | 1885 | 567.8 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-LIBERO) |
 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 329 | 101.0 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 323 | 98.8 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
 | BrinqAI/functiongemma-270m-physical-ai | 295 | 88.6 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |

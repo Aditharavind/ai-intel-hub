@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-14 01:09 UTC
+Last Updated: 2026-07-14 04:36 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-14 | Can’t Find That ISA Sound Card? No Worries! | Hackaday | [link](https://hackaday.com/2026/07/13/cant-find-that-isa-sound-card-no-worries/) |
+| 2026-07-14 | IoTLabs wM-Bus gateway – An ESP32 device with Wireless M-Bus connectivity for Home Assistant | CNX Software | [link](https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/) |
 | 2026-07-14 | Semis For Important People | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/semis-for-important-people-2026-07/) |
 | 2026-07-13 | Get your ESP32 Sunny Side Up with this Solar Dev Board | Hackaday | [link](https://hackaday.com/2026/07/13/get-your-esp32-sunny-side-up-with-this-solar-dev-board/) |
 | 2026-07-13 | Using Your Own RBMK Reactor Control Center At Home | Hackaday | [link](https://hackaday.com/2026/07/13/using-your-own-rbmk-reactor-control-center-at-home/) |
@@ -56,51 +58,49 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-13 | 2026 Hackaday Supercon: Call for Proposals | Hackaday | [link](https://hackaday.com/2026/07/13/2026-hackaday-supercon-call-for-proposals/) |
 | 2026-07-13 | Voltmeter-Based Floating Point Calculator Does It In Style | Hackaday | [link](https://hackaday.com/2026/07/13/voltmeter-based-floating-point-calculator-does-it-in-style/) |
 | 2026-07-13 | The Death of Physical Media and the Real Challenges to Software Archiving | Hackaday | [link](https://hackaday.com/2026/07/13/the-death-of-physical-media-and-the-real-challenges-to-software-archiving/) |
-| 2026-07-13 | DIY Steam Controller Puck Offers Xbox, Switch, PlayStation Emulation Modes | Hackaday | [link](https://hackaday.com/2026/07/13/diy-steam-controller-puck-offers-xbox-switch-playstation-emulation-modes/) |
 | 2026-07-13 | Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery | CNX Software | [link](https://www.cnx-software.com/2026/07/13/ambient-scientific-gpx10-pro-mcu-delivers-years-of-always-on-ai-on-a-coin-cell-battery/) |
-| 2026-07-13 | WisMesh Station Review – Telemetry, MQTT, and Grafana tested on a Raspberry Pi 4-based Meshtastic gateway | CNX Software | [link](https://www.cnx-software.com/2026/07/13/wismesh-station-review-telemetry-mqtt-and-grafana-tested-on-a-raspberry-pi-4-based-meshtastic-gateway/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-12 | Mapping Pamir: Multi-Session Visual-Inertial SLAM and 3D Reconstruction of an Underwater Shipwreck | [link](https://arxiv.org/pdf/2607.10925v1) |
-| 2026-07-12 | A Single Diffusion-Policy Controller for Multi-Task Block Pushing with Zero-Shot Sim-to-Real Transfer | [link](https://arxiv.org/pdf/2607.10892v1) |
-| 2026-07-12 | 3D Scene Graph Prediction: Generating Hierarchical Models from Partially Observed Environments | [link](https://arxiv.org/pdf/2607.10879v1) |
-| 2026-07-12 | X-GuideAR: An Augmented Reality Framework to Mitigate Radiation Exposure during Fluoroscopic Guidance | [link](https://arxiv.org/pdf/2607.10873v1) |
-| 2026-07-12 | Learning To Focus: Anatomy-Guided Attention Regularization for Medical Image Classification | [link](https://arxiv.org/pdf/2607.10851v1) |
-| 2026-07-12 | D-SafeMPC: Diffusion-Driven Safe Model Predictive Control with Discrete-Time Control Barrier Functions | [link](https://arxiv.org/pdf/2607.10842v1) |
-| 2026-07-12 | Automated Stealthy Wear-Out Attack on Digital Twins With Deep Reinforcement Learning | [link](https://arxiv.org/pdf/2607.10830v1) |
-| 2026-07-12 | Learning Roller-Skating Motions of Humanoid Robots Based on Adversarial Motion Priors | [link](https://arxiv.org/pdf/2607.10815v1) |
-| 2026-07-12 | Compositional Context Fine-Tuning Vision-Language Model for Complex Assembly Action Understanding from Videos | [link](https://arxiv.org/pdf/2607.10797v1) |
-| 2026-07-12 | Is Energy Guidance All You Need? Training-Free Norm Injection for Driving World Models | [link](https://arxiv.org/pdf/2607.10781v1) |
+| 2026-07-13 | Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation | [link](https://arxiv.org/pdf/2607.11884v1) |
+| 2026-07-13 | A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation | [link](https://arxiv.org/pdf/2607.11874v1) |
+| 2026-07-13 | Robust bipedal locomotion on flowable slopes via foot-driven terrain manipulation | [link](https://arxiv.org/pdf/2607.11855v1) |
+| 2026-07-13 | HASTE: A Platform for Rapid Post-Disaster Building Damage Assessment | [link](https://arxiv.org/pdf/2607.11838v1) |
+| 2026-07-13 | Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency | [link](https://arxiv.org/pdf/2607.11836v1) |
+| 2026-07-13 | Active Noise Floor Estimation for Reliability-Optimal POMDPs: A Value-of-Noise-Information Approach | [link](https://arxiv.org/pdf/2607.11822v1) |
+| 2026-07-13 | Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems | [link](https://arxiv.org/pdf/2607.11792v1) |
+| 2026-07-13 | MIRA: A Modular Open-Source Micro-UAV for Indoor Research | [link](https://arxiv.org/pdf/2607.11785v1) |
+| 2026-07-13 | A Compact Top-Loading Robot for Endovascular Interventions: Design, Control and Evaluation | [link](https://arxiv.org/pdf/2607.11779v1) |
+| 2026-07-13 | AutoPath: Learning Transferable Goal-Conditioned Stochastic Path Prior for Safe Navigation Without Human Demonstrations | [link](https://arxiv.org/pdf/2607.11739v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-14 | YinonDouchan/smolvla_mobile_robot_lift_pick_and_place | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place) |
+| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot | 43 | 1 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot) |
+| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-WidowX | 66 | 2 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-WidowX) |
+| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABCD_D | 20 | 3 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABCD_D) |
+| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABC_D | 12 | 1 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABC_D) |
+| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-LIBERO | 1885 | 11 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-LIBERO) |
+| 2026-07-14 | wonder-robot/dot_piper_v3 | 0 | 0 | [link](https://huggingface.co/wonder-robot/dot_piper_v3) |
 | 2026-07-14 | RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step40000_aug_true | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step40000_aug_true) |
 | 2026-07-14 | RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step30000_aug_true | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step30000_aug_true) |
 | 2026-07-14 | RobotisSW/Task_900006_900007_Collect_PeanutMix_To_Box_1110_UKH_merged_act_80_real | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900006_900007_Collect_PeanutMix_To_Box_1110_UKH_merged_act_80_real) |
-| 2026-07-14 | RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step20000_aug_true | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step20000_aug_true) |
-| 2026-07-14 | RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step10000_aug_true | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step10000_aug_true) |
-| 2026-07-14 | RobotisSW/Task_900006_900007_Collect_PeanutMix_To_Box_1110_UKH_merged_act_80k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900006_900007_Collect_PeanutMix_To_Box_1110_UKH_merged_act_80k) |
-| 2026-07-14 | zhijieq/directional-navigation | 0 | 0 | [link](https://huggingface.co/zhijieq/directional-navigation) |
-| 2026-07-13 | wonder-robot/dot_piper_v3_22k | 0 | 0 | [link](https://huggingface.co/wonder-robot/dot_piper_v3_22k) |
-| 2026-07-13 | wijan/Robot-Action-Planner-GGUF | 68 | 0 | [link](https://huggingface.co/wijan/Robot-Action-Planner-GGUF) |
-| 2026-07-13 | wijan/Robot-Action-Planner | 26 | 0 | [link](https://huggingface.co/wijan/Robot-Action-Planner) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | awslabs/awsome-distributed-ai | 458 | Shell | 183.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63104 | Python | 25241.7 | [link](https://github.com/commaai/openpilot) |
-| isaac-sim/IsaacLab | 7667 | Python | 3066.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| ros-claw/rosclaw | 161 | Python | 64.5 | [link](https://github.com/ros-claw/rosclaw) |
+| commaai/openpilot | 63106 | Python | 25242.5 | [link](https://github.com/commaai/openpilot) |
+| google-deepmind/mujoco | 14195 | C++ | 5678.1 | [link](https://github.com/google-deepmind/mujoco) |
+| isaac-sim/IsaacLab | 7671 | Python | 3068.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 4097 | Python | 1638.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3842 | Rust | 1536.9 | [link](https://github.com/dora-rs/dora) |
-| softmata/horus | 389 | Rust | 155.7 | [link](https://github.com/softmata/horus) |
-| copper-project/copper-rs | 1405 | Rust | 562.1 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 889 | Python | 355.7 | [link](https://github.com/mosaico-labs/mosaico) |
-| AtsushiSakai/PythonRobotics | 30026 | Python | 12010.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| ArduPilot/ardupilot | 15460 | C++ | 6184.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14193 | C++ | 5677.3 | [link](https://github.com/google-deepmind/mujoco) |
+| knightnemo/Awesome-World-Models | 3156 |  | 1262.5 | [link](https://github.com/knightnemo/Awesome-World-Models) |
+| sou350121/VLA-Handbook | 384 | HTML | 153.7 | [link](https://github.com/sou350121/VLA-Handbook) |
+| luohongk/Embodied-AI-Daily | 371 | HTML | 148.5 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
