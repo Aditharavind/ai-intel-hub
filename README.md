@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-14 07:00 UTC
+Last Updated: 2026-07-14 09:05 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-14 | The Seemingly Impossible Oscillator | Hackaday | [link](https://hackaday.com/2026/07/14/the-seemingly-impossible-oscillator/) |
 | 2026-07-14 | Star Trek Was Right about Prompt Injection, Sorta | Hackaday | [link](https://hackaday.com/2026/07/13/star-trek-was-right-about-prompt-injection-sorta/) |
 | 2026-07-14 | Can’t Find That ISA Sound Card? No Worries! | Hackaday | [link](https://hackaday.com/2026/07/13/cant-find-that-isa-sound-card-no-worries/) |
+| 2026-07-14 | Meet Moddo Pinch – The world’s smallest 32-bit Arduino-compatible board (2026 Edition) | CNX Software | [link](https://www.cnx-software.com/2026/07/14/meet-moddo-pinch-the-world-smallest-arduino-compatible-board-2026-edition/) |
 | 2026-07-14 | IoTLabs wM-Bus gateway – An ESP32 device with Wireless M-Bus connectivity for Home Assistant | CNX Software | [link](https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/) |
+| 2026-07-14 | IQE  gets £14m order | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/iqe-gets-14m-order-2026-07/) |
 | 2026-07-14 | Bosch starts semiconductor production in US | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/bosch-starts-semiconductor-production-in-us-2026-07/) |
 | 2026-07-14 | Apple sues OpenAI for poaching iPhone secrets | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/aple-sues-openai-for-poaching-iphone-secrets-2026-07/) |
 | 2026-07-14 | Nexchip raises $880m on HKSE | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/nexchip-raises-880m-on-hkse-2026-07/) |
 | 2026-07-14 | Back-end equipment market to hit $9.5bn this year | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/back-end-equipment-market-to-hit-9-5bn-this-year-2026-07/) |
-| 2026-07-14 | Q2 smartphone shipments down 11% | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/q2-smartphone-shipments-down-11-2026-07/) |
-| 2026-07-14 | Semis For Important People | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/semis-for-important-people-2026-07/) |
-| 2026-07-13 | Get your ESP32 Sunny Side Up with this Solar Dev Board | Hackaday | [link](https://hackaday.com/2026/07/13/get-your-esp32-sunny-side-up-with-this-solar-dev-board/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,36 +77,35 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-14 | Do-Hyun-robot/smolvla_dohyun_policy | 0 | 0 | [link](https://huggingface.co/Do-Hyun-robot/smolvla_dohyun_policy) |
+| 2026-07-14 | RobotisSW/Dispose_trash_chunk25_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Dispose_trash_chunk25_10K) |
+| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR | 5 | 2 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR) |
+| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-U0 | 13 | 2 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0) |
 | 2026-07-14 | SakikoTogawa/pi0_robotwin_lora-scan_object-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-scan_object-100-himaconpp_repo) |
-| 2026-07-14 | SidneyXie/pi05_robotwin | 15 | 0 | [link](https://huggingface.co/SidneyXie/pi05_robotwin) |
-| 2026-07-14 | YinonDouchan/smolvla_mobile_robot_lift_pick_and_place | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place) |
-| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot | 43 | 1 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot) |
-| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-WidowX | 66 | 2 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-WidowX) |
-| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABCD_D | 20 | 3 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABCD_D) |
-| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABC_D | 12 | 1 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABC_D) |
-| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-LIBERO | 1885 | 11 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-LIBERO) |
-| 2026-07-14 | wonder-robot/dot_piper_v3 | 0 | 0 | [link](https://huggingface.co/wonder-robot/dot_piper_v3) |
-| 2026-07-14 | RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step40000_aug_true | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step40000_aug_true) |
+| 2026-07-14 | SidneyXie/pi05_robotwin | 15 | 1 | [link](https://huggingface.co/SidneyXie/pi05_robotwin) |
+| 2026-07-14 | YinonDouchan/smolvla_mobile_robot_lift_pick_and_place | 2 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place) |
+| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot | 40 | 1 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot) |
+| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-WidowX | 64 | 2 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-WidowX) |
+| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABCD_D | 19 | 3 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABCD_D) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | awslabs/awsome-distributed-ai | 458 | Shell | 183.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 161 | Python | 64.5 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63108 | Python | 25243.3 | [link](https://github.com/commaai/openpilot) |
-| google-deepmind/mujoco | 14199 | C++ | 5679.7 | [link](https://github.com/google-deepmind/mujoco) |
-| isaac-sim/IsaacLab | 7671 | Python | 3068.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4096 | Python | 1638.5 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3842 | Rust | 1536.9 | [link](https://github.com/dora-rs/dora) |
+| commaai/openpilot | 63110 | Python | 25244.1 | [link](https://github.com/commaai/openpilot) |
+| google-deepmind/mujoco | 14201 | C++ | 5680.5 | [link](https://github.com/google-deepmind/mujoco) |
+| isaac-sim/IsaacLab | 7673 | Python | 3069.3 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 4100 | Python | 1640.1 | [link](https://github.com/RLinf/RLinf) |
+| dora-rs/dora | 3841 | Rust | 1536.5 | [link](https://github.com/dora-rs/dora) |
 | knightnemo/Awesome-World-Models | 3156 |  | 1262.5 | [link](https://github.com/knightnemo/Awesome-World-Models) |
+| RoboTwin-Platform/RoboTwin | 2573 | Python | 1029.3 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
 | zchoi/Awesome-Embodied-Robotics-and-Agent | 1829 |  | 731.7 | [link](https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent) |
-| sou350121/VLA-Handbook | 384 | HTML | 153.7 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-07-13 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFYwRDR6VS1JdC1fYTU5VGRnSXg3bFZCMFRoakFIc2FERGxXUDloRXN0ZGJoZkFuRTBaR2s1S2ZYWDduNi1RLXNRN1ZCRThRdGFwZUw1Vko5Mjg2czVOTHhoRk54UFBBNDI5TUNNaHlqN21fR1A0WHFEN08tOEU1MWhndjlrbVFYakxEaC13dmNlSFRlRnRyMDNqYTQ4eTd5YWdaTmVKMEc0MV9IcGFvVzhFejIyMDQtSU5GcklVYWlFcDlKTGdZZG56WTFFMXJvVklqaTNB?oc=5) |
-| 2026-07-12 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1haWldjNWQ2S3U4UWQ3YlRGNHlLcE5IZWZNbXJmSGVqVWs3a0V5R1FJdVpxdUdfeFJfSzZVYWdXYWtYSnBzRmZWRDRneklpYTRPQTJIdFNKN0NCR2hlWjJ1S2xsNDV1SEFDTFJWLUNMYzU0Q2tJVC1rNnJpSVluS0ZRSzh3MlBiXzM3RmxmS1ZXUkZOUnpvY2ZqcHhabmdFUzcwRXdKejZpc2x4d1ZCdTU0SnFaRU92VndvXw?oc=5) |
 | 2026-07-08 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxNS056dHV6ZHBGUEVIZFVyNzNjdG5LVm16LURhY04ycXc3SmdZdktPTkJZWkZ4RWhIWUJvMG1Yb1BYb0psRVdMQS1kbTFERzRIRUtyb2p3TWpFSEdleHdKT2JONUNJWFQzWW9Wc0hOOFRvVFQ2eDdnd2E0V1pHemhzVElFQ1F3V1RZNjVZQ0JydDdBb3dvNDZwNUxR?oc=5) |
 | 2026-07-07 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMitgJBVV95cUxQdjdfLTBlbU4zUnJHSDRSWTU0R0R6STNDdVJET3hHWVJpR25PT2dYQnJzYWRna1pQeVdKYlRkZDRvTnlEWkY1NHA4bnpnblRWNVJFNHhUZUNQZktYUlJncTZNQmI3eTRjc2REc2VDOWdkSE93ZHRIcW1feGJUbDV5WGFEeTgwVjlURWF0bzV5SGxlZWZ4NWJZbTlianVqNjdTYWlHWFNyQy04eW81cGROQ3R2ZGJ4Z3RZYVh3b2l3NlZEQXlKZjFaN3FxVEdsWV9lNkp3d2R2ZVRGN19LRWpLWlNNLV9TYkNxMjMtSXEzUlJlbWJtZmVUZWw4T3Q5Q0s4cnZVbmhCcjVWcXpsYld6aVBCQmh6ZlNOZXlIVUJTa05aVVJLT3IwOTlKY0dNQ2RUZGF5TWVn?oc=5) |
 | 2026-07-07 | LeRobot |  |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzRyeF85c183eThYLXZWRXZQYlhlY1dtY3RGLTY4NDRmazV2d0lKUXZxa0owU0ctSkZiRGttdXkzRGJ4WkVmMTBfMTZqN0Zkbmpncl9ueWxzZXlqRURrOWJOTGU5NDF4Yk1pd0g5Y0JXWi16UHA4Y1RvTm9ndUJ5MTY2eGQtSFVUNFNGVzRqTm5Reml5dXZYRzdZOXVYSld4RjZKTnNaU2NfUlE2TWFMQWJOZC1GRy16WWIyekJqeXVHNlh2UzVVVQ?oc=5) |
@@ -115,6 +114,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-03 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTWpiTlNmSjROU2hWME1sQjZUTWxfVUg2M1cyVkVfVmduOUZ5ejBNM0pGSk9Sd3Y0Z1lQN2NreEN5ZVVwcWpuYnVObUVNWWZuUXc?oc=5) |
 | 2026-07-03 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSa2d3a0hiWDBvOUNNWEZMbHk1bUpHVm9kdTRRbEVwdUgtMUdOX0xQcDBBNGxZV0p6eENuNkZjU25ndUJWRnFUMXhiaFdUOWFUd01keHhGMnZsMGI5OTFoQVRWR3JpSkE?oc=5) |
 | 2026-07-03 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
+| 2026-07-03 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0JBRVU0T3ZzUzhacVByakVuajBoLWZZWm02LVJoU2k2UFVwQkVMdGN0MDN0SXJSOWhCbFBKLW9HbnZWMWlvS2xGSnFwM3NiY0hLU0ZaMnlCLUkwRE9hVzgzdTM1ZUtNUkY0blBjT2FKcTBjS1RyQ0hyNEZXenZmellGYVlFdmxwdEE2T0hxaUw2blVwSzJ1NGgyeEs1aEVITWVfVzd2dkViRGRXdW9nOU1RazNTQ3k3aDEw0gG7AUFVX3lxTE1aVGtnUEEyYndxUDNGaDdKVFlJRDQ5cDRRdGktdjR6UV9obFhrZG5tbFVaMVJIQy12Zlotb0NDMVd3blBVeUNVU3NHMDktVS02SlJVUDBvTm9Sc1JoRXJfb252VGdZdnRTM2d1Z3RDbkpIdFdjbmFIUkxMenFKakdJZnN4ejA1TndoOGo4Z2F6ZG5fUHNBa051NWN6cEd2ck5TeDBvSHlEZkQyaVNldzJjSGdsQkl2ekpIb1k?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
