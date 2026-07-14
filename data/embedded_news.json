@@ -154,6 +154,55 @@
     "summary": "<p>11 year-old Nexchip, the world’s No.8 foundry, has raised $880 million on the Hong Kong stock exchange. Powerchip of Taiwan invested in Nexchip’s founding in 2015 and former Powerchip CEO ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nexchip-raises-880m-on-hkse-2026-07/\">Nexchip raises $880m on HKSE</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Building a robotics research setup that lives next to a desk",
+    "source": "Adafruit",
+    "date": "2026-07-14",
+    "url": "https://blog.adafruit.com/2026/07/14/building-a-robotics-research-setup-that-lives-next-to-a-desk/",
+    "summary": "Matthias Plappert at dfdx labs will spend the next several months doing independent research on robotic manipulation, and doing it in the open. I don’t expect the main output to be papers or an open-source codebase. What I care about here is the research log itself: what works, what fails, and what I learn from [&#8230;]"
+  },
+  {
+    "title": "An Advanced Nintendo Entertainment System",
+    "source": "Adafruit",
+    "date": "2026-07-14",
+    "url": "https://blog.adafruit.com/2026/07/14/an-advanced-nintendo-entertainment-system/",
+    "summary": "decrazyo on GitHub outlines the process for modding the Nintendo Entertainment System (NES) to use 2 PPUs for advanced graphical features. I don&#8217;t expect anyone to actually bother building this so the docs might be kind of half-assed at times. Check out my modified fork of Mesen2 if you&#8217;d like to play with this concept without modding [&#8230;]"
+  },
+  {
+    "title": "A Beavis Ultrasound PnP ISA sound card replica",
+    "source": "Adafruit",
+    "date": "2026-07-14",
+    "url": "https://blog.adafruit.com/2026/07/14/a-beavis-ultrasound-pnp-isa-sound-card-replica/",
+    "summary": "Eric Schlaepfer On Tube Time has designed the Beavis Ultrasound PnP, an open source replica of the Gravis Ultrasound Pnp. Unlike other clones, this design includes the entire schematic as well as the reverse-engineered source code of the GAL. While Eric notes &#8220;I have not generated the fab package since I have not actually fabricated [&#8230;]"
+  },
+  {
+    "title": "A virtual pen plotter",
+    "source": "Adafruit",
+    "date": "2026-07-14",
+    "url": "https://blog.adafruit.com/2026/07/14/a-virtual-pen-plotter/",
+    "summary": "Frank Force (KilledByAPixel on GitHub) has created a 3D pen-plotter simulator in the browser. Drop in an SVG and watch a little AxiDraw-style machine draw it on virtual paper. The arm sliding, pen lifting, stepper motors whirring. It doesn&#8217;t make anything real but it&#8217;s nice to watch. Speed — 1× (real time) up to 1000× for [&#8230;]"
+  },
+  {
+    "title": "Recording the integrated circuit decapsulation process",
+    "source": "Adafruit",
+    "date": "2026-07-14",
+    "url": "https://blog.adafruit.com/2026/07/14/recording-the-integrated-circuit-decapsulation-process/",
+    "summary": "azya on X (formerly Twitter) recorded a video of the IC decapsulation process. The hot air gun nozzle is visible in the top-left corner, with the temperature set to ~150°C. This method works great for small chips. On larger dies, some compound often remains in the center, which I remove by boiling in rosin. See [&#8230;]"
+  },
+  {
+    "title": "Making the Diary of Tom Riddle for the reMarkable Paper Pro",
+    "source": "Adafruit",
+    "date": "2026-07-14",
+    "url": "https://blog.adafruit.com/2026/07/14/making-the-diary-of-tom-riddle-for-the-remarkable-paper-pro/",
+    "summary": "Maxime Rivest has created a project similar to the Harry Potter diary of Tom Riddle, using the reMarkable Paper Pro tablet. Write on the page with your pen. After a pause, the diary drinks your ink — your words fade into the paper — the page thinks for a moment, and an answer writes itself [&#8230;]"
+  },
+  {
+    "title": "The Importance and Legacy of the Children’s Art Carnival in Harlem",
+    "source": "Adafruit",
+    "date": "2026-07-14",
+    "url": "https://blog.adafruit.com/2026/07/14/the-importance-and-legacy-of-the-childrens-art-carnival-in-harlem/",
+    "summary": "Young participants on the front steps of the Children’s Art Carnival in Harlem (photo unknown, courtesy the Children’s Art Carnival) via Hyperallergic Although Harlem is well-known as a cultural hub for Black artists of various mediums, it also has a history of being overlooked and underserved in comparison to other pockets of Manhattan, leading to [&#8230;]"
+  },
+  {
     "title": "How to sequence your own DNA at home",
     "source": "Adafruit",
     "date": "2026-07-14",
@@ -187,55 +236,6 @@
     "date": "2026-07-14",
     "url": "https://blog.adafruit.com/2026/07/14/from-linux-to-nuttx-on-the-adafruit-fruit-jam/",
     "summary": "User speccy88 on the Adafruit Forums posts: I&#8217;ve been chasing a real OS for Fruit Jam. Started by forking Mr-Bossman&#8217;s Linux port — Fruit Jam&#8217;s a great target with its HDMI, USB, NeoPixels, speaker, buttons, IR receiver, and generous PSRAM/Flash. Got a lot of hardware working, plus HTTP, FTP, and Telnet servers, but Linux is [&#8230;]"
-  },
-  {
-    "title": "Reverse engineering the Raspberry Pi Compute Module 5",
-    "source": "Adafruit",
-    "date": "2026-07-14",
-    "url": "https://blog.adafruit.com/2026/07/14/reverse-engineering-the-raspberry-pi-compute-module-5/",
-    "summary": "Eric Schlaepfer On Tube Time has the reverse engineered schematic and layout for a Raspberry Pi Compute Module 5. It&#8217;s not meant to be fabricated&#8211;critical signal integrity parameters aren&#8217;t correct, it&#8217;s not 100% faithful to the original, the footprints aren&#8217;t a perfect match, and the bill of materials is not reverse engineered. You also won&#8217;t [&#8230;]"
-  },
-  {
-    "title": "Jim’s TrueType QR code font",
-    "source": "Adafruit",
-    "date": "2026-07-14",
-    "url": "https://blog.adafruit.com/2026/07/14/jims-truetype-qr-code-font/",
-    "summary": "Jim&#8217;s TrueType QR Code Font is a real TrueType/OpenType font that turns bracketed text into QR codes during text shaping. There is no separate image generation or preprocessing step: type text like [hello], apply the font, and the font&#8217;s built-in OpenType rules render the QR code. Because the QR code is still text, you can [&#8230;]"
-  },
-  {
-    "title": "JP’s Product Pick of the Week — 6pm Eastern TODAY! 7/14/26 @adafruit #adafruit #newproductpick",
-    "source": "Adafruit",
-    "date": "2026-07-14",
-    "url": "https://blog.adafruit.com/2026/07/14/jps-product-pick-of-the-week-6pm-eastern-today-7-14-26-adafruit-newproductpick/",
-    "summary": "Come on by for JP&#8217;s Product Pick of The Week ! A new product pick will be revealed. The show airs at a special time this week 6pm ET / 3pm PT, today, due to the World Cup Semifinal  🇫🇷 v 🇪🇸 ⚽️ Check out the livestream right here inside this product page you won&#8217;t want [&#8230;]"
-  },
-  {
-    "title": "Book: Digital Deli, The Comprehensive, User-Lovable Menu of Computer Lore, Culture, Lifestyles and Fancy",
-    "source": "Adafruit",
-    "date": "2026-07-14",
-    "url": "https://blog.adafruit.com/2026/07/14/book-digital-deli-the-comprehensive-user-lovable-menu-of-computer-lore-culture-lifestyles-and-fancy/",
-    "summary": "Digital Deli is a fantastic time capsule from 1984, edited by Steve Ditlea and credited to &#8220;The Lunch Group &#38; Guests&#8221; — a menu-themed anthology (Appetizers, Soup and Crackers, Word Salad, Just Desserts) that tries to capture everything about the microcomputer moment as it was happening: hardware, culture, marriages, kids, and the quasi-religious fervor some [&#8230;]"
-  },
-  {
-    "title": "Measuring your antenna’s radiation pattern with a drone",
-    "source": "Adafruit",
-    "date": "2026-07-14",
-    "url": "https://blog.adafruit.com/2026/07/14/measuring-your-antennas-radiation-pattern-with-a-drone/",
-    "summary": "Unmanned Aerial Vehicle (UAV / drones) systems offer a flexible, cost-effective alternative to traditional, expensive indoor chambers for testing large, installed antennas in their operational environments. Researchers developed a specialized, heat-resistant hexacopter with high-precision, sub-centimeter GPS tracking to collect antenna data, even in harsh conditions. To process the resulting irregular data, the team created the [&#8230;]"
-  },
-  {
-    "title": "The tinytapeout-to-radio-chip path now exists",
-    "source": "Adafruit",
-    "date": "2026-07-14",
-    "url": "https://blog.adafruit.com/2026/07/14/the-tinytapeout-to-radio-chip-path-now-exists/",
-    "summary": "A university team designed the frequency-synthesizer core of a WiFi/BLE-class radio (a full 2.4 GHz fractional-N PLL) on IHP&#8217;s open 130nm BiCMOS process using a 100% open-source EDA flow — no proprietary tools anywhere. The hard part was always the passives: nobody trusted open models for on-chip spiral inductors, so open silicon stuck to digital. [&#8230;]"
-  },
-  {
-    "title": "ICYMI Python on Microcontrollers Newsletter: CircuitPython and MicroPython IDEs Grow, Kattni Rembor Chairing PyCon US and More!",
-    "source": "Adafruit",
-    "date": "2026-07-14",
-    "url": "https://blog.adafruit.com/2026/07/14/icymi-python-on-microcontrollers-newsletter-circuitpython-and-micropython-ides-grow-kattni-rembor-chairing-pycon-us-and-more/",
-    "summary": "If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,356 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep [&#8230;]"
   },
   {
     "title": "From Sunlight to Smartphones: The Hidden World of DC‑DC Converters – Eaton and Mouser",
