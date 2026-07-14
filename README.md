@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-14 16:06 UTC
+Last Updated: 2026-07-14 17:54 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-14 | How to manage AI investments in the agentic era | OpenAI | [link](https://openai.com/index/managing-ai-investments-in-agentic-era) |
 | 2026-07-14 | How sales teams use ChatGPT Work | OpenAI | [link](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) |
 | 2026-07-14 | How data science teams use ChatGPT Work | OpenAI | [link](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) |
 | 2026-07-10 | How Deutsche Telekom is rewiring telecommunications with AI | OpenAI | [link](https://openai.com/index/deutsche-telekom) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-09 | GPT-5.5 Bio Bug Bounty | OpenAI | [link](https://openai.com/index/bio-bug-bounty) |
 | 2026-07-09 | GPT-5.6: Frontier intelligence that scales with your ambition | OpenAI | [link](https://openai.com/index/gpt-5-6) |
 | 2026-07-09 | ChatGPT is now a partner for your most ambitious work | OpenAI | [link](https://openai.com/index/chatgpt-for-your-most-ambitious-work) |
-| 2026-07-08 | Our approach to government and national security partnerships | OpenAI | [link](https://openai.com/index/government-national-security-partnerships) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -93,28 +93,28 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | mosaico-labs/mosaico | 890 | Python | 356.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 460 | Shell | 184.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| alireza787b/mavsdk_drone_show | 306 | Python | 122.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | ros-claw/rosclaw | 162 | Python | 64.9 | [link](https://github.com/ros-claw/rosclaw) |
 | commaai/openpilot | 63117 | Python | 25246.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15462 | C++ | 6184.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14206 | C++ | 5682.5 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11273 | Python | 4509.3 | [link](https://github.com/kornia/kornia) |
+| google-deepmind/mujoco | 14207 | C++ | 5682.9 | [link](https://github.com/google-deepmind/mujoco) |
+| kornia/kornia | 11275 | Python | 4510.1 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11128 | Rust | 4451.3 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7675 | Python | 3070.1 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4105 | Python | 1642.1 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-07-14 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1lDcHdOR0NGTm1DamhvY3NHYy1fTVc3WXQyMlAteTVOSjFzSm1zelpfeHVvR0VnMXN4WjBuMFRpZ04wdnhTNEsyeVBxdERCdmNFMHJ3V2VDX0VaeW1ZWEsxUGFmZlg4S0MwSEhkU19RUVNXV1Q3QXNrT0VWaE9jRkhDYWk2dWIteTBMLXBBYUxLN2dpM1VzcnhtcGVyRF9LRmh2ek9KYWI0Y00?oc=5) |
 | 2026-07-13 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFYwRDR6VS1JdC1fYTU5VGRnSXg3bFZCMFRoakFIc2FERGxXUDloRXN0ZGJoZkFuRTBaR2s1S2ZYWDduNi1RLXNRN1ZCRThRdGFwZUw1Vko5Mjg2czVOTHhoRk54UFBBNDI5TUNNaHlqN21fR1A0WHFEN08tOEU1MWhndjlrbVFYakxEaC13dmNlSFRlRnRyMDNqYTQ4eTd5YWdaTmVKMEc0MV9IcGFvVzhFejIyMDQtSU5GcklVYWlFcDlKTGdZZG56WTFFMXJvVklqaTNB?oc=5) |
 | 2026-07-12 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1haWldjNWQ2S3U4UWQ3YlRGNHlLcE5IZWZNbXJmSGVqVWs3a0V5R1FJdVpxdUdfeFJfSzZVYWdXYWtYSnBzRmZWRDRneklpYTRPQTJIdFNKN0NCR2hlWjJ1S2xsNDV1SEFDTFJWLUNMYzU0Q2tJVC1rNnJpSVluS0ZRSzh3MlBiXzM3RmxmS1ZXUkZOUnpvY2ZqcHhabmdFUzcwRXdKejZpc2x4d1ZCdTU0SnFaRU92VndvXw?oc=5) |
 | 2026-07-08 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxNS056dHV6ZHBGUEVIZFVyNzNjdG5LVm16LURhY04ycXc3SmdZdktPTkJZWkZ4RWhIWUJvMG1Yb1BYb0psRVdMQS1kbTFERzRIRUtyb2p3TWpFSEdleHdKT2JONUNJWFQzWW9Wc0hOOFRvVFQ2eDdnd2E0V1pHemhzVElFQ1F3V1RZNjVZQ0JydDdBb3dvNDZwNUxR?oc=5) |
 | 2026-07-07 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMitgJBVV95cUxQdjdfLTBlbU4zUnJHSDRSWTU0R0R6STNDdVJET3hHWVJpR25PT2dYQnJzYWRna1pQeVdKYlRkZDRvTnlEWkY1NHA4bnpnblRWNVJFNHhUZUNQZktYUlJncTZNQmI3eTRjc2REc2VDOWdkSE93ZHRIcW1feGJUbDV5WGFEeTgwVjlURWF0bzV5SGxlZWZ4NWJZbTlianVqNjdTYWlHWFNyQy04eW81cGROQ3R2ZGJ4Z3RZYVh3b2l3NlZEQXlKZjFaN3FxVEdsWV9lNkp3d2R2ZVRGN19LRWpLWlNNLV9TYkNxMjMtSXEzUlJlbWJtZmVUZWw4T3Q5Q0s4cnZVbmhCcjVWcXpsYld6aVBCQmh6ZlNOZXlIVUJTa05aVVJLT3IwOTlKY0dNQ2RUZGF5TWVn?oc=5) |
+| 2026-07-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFAydl80dzVVbktZS0dWTlhqZHpPTnNTZk94Q0RnWFFxMi1fX05qZmptTmtpbGRFRFYxNVIxLWk4cEpLT3ZndTVjYkRJNWpRc1JzVHU4?oc=5) |
 | 2026-07-07 | LeRobot |  |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzRyeF85c183eThYLXZWRXZQYlhlY1dtY3RGLTY4NDRmazV2d0lKUXZxa0owU0ctSkZiRGttdXkzRGJ4WkVmMTBfMTZqN0Zkbmpncl9ueWxzZXlqRURrOWJOTGU5NDF4Yk1pd0g5Y0JXWi16UHA4Y1RvTm9ndUJ5MTY2eGQtSFVUNFNGVzRqTm5Reml5dXZYRzdZOXVYSld4RjZKTnNaU2NfUlE2TWFMQWJOZC1GRy16WWIyekJqeXVHNlh2UzVVVQ?oc=5) |
 | 2026-07-06 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVnZ0b1ZINm9iN2hoTlNxQzFOcVF4Ym0wT2ZKcWRENzVNeGdkZXVPVjB6Q1VXT3NMU3NITG94aDhZM2loNC0zZ3JtN1RNbHMwLUg1Ui1US3daRkRxQk1oZjItNndsWjhES1h2UG1RS0s2WnpBT29KcTlkWkFnVU5LR1NBeUdsend2SG5kWWUxT19GNi1sQklITGY0MmRhc3VTdkpjQ2hOQ1d2WDMwaGZQTWNzLV9sZEVRNWlXaE52NHlaVEhXZk83X2pHUE5ZZUk5Sm9pYm5LVWZ0Zw?oc=5) |
 | 2026-07-06 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZFM2Y1ZRQ1hzTEVWbDBIaWRtcFBHdEo0bUJmeTZzbC1feEJUUG8wUDNOZ3JPcGU2U1o2elhFLTB2UE5ybWI2R2QzVTNsOVh1RDZsU2NyMjdxN2JtdUJwNXZqdnAxbk9ZWVhKTmZ4YWNSekotdGtPV0NXUjVnYlMxRWtPNUxONHpZ?oc=5) |
 | 2026-07-03 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTWpiTlNmSjROU2hWME1sQjZUTWxfVUg2M1cyVkVfVmduOUZ5ejBNM0pGSk9Sd3Y0Z1lQN2NreEN5ZVVwcWpuYnVObUVNWWZuUXc?oc=5) |
-| 2026-07-03 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSa2d3a0hiWDBvOUNNWEZMbHk1bUpHVm9kdTRRbEVwdUgtMUdOX0xQcDBBNGxZV0p6eENuNkZjU25ndUJWRnFUMXhiaFdUOWFUd01keHhGMnZsMGI5OTFoQVRWR3JpSkE?oc=5) |
-| 2026-07-03 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -122,8 +122,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-14 | Laminar CEO & Co-Founder Annie Lu Named Top 100 Women in AI - The Manila Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ1RWdHJ2bEY5YkZ3THZrOGFHb1FpM2xUem9oeHJHZWh1WGZ4dFlJV0dZclF6Mm1hekZnS0xGaDlYWVB0LWFyUnVGekkxSGpMYWVzQ3ZJTC0zNlFJYUpMbWVxMXY3ZDhtdVY4T0gwaVhpRk9EVG8yV0xLUU5zdFQwMjlfTlZJd3cwUFJUZ3lBTzNoSzEwNFprOWpDakFSUjlhcmEyeVpOV1dyTGVIVUtmcE1FTlEyaWZKakgwUlBVMXhsUTFVUU5TZNIBzgFBVV95cUxPODFtQ2VvaVp2c01jWWI1cDlZblJLclhsSW1DenhLNGw5eDd1ZzBJQWxwVWQ0MlhlUWUzTTVvYUQyQW5haW9xS3JJODVsU2RXOFdpYi1fSDNSXzZMUTdfajQ1OEFTS1ZfMURHdFp3SG9VeW1lWWJNbjdmTWtNRmhsOEpQdG5FMXpOVEhfaDQ2R3JSM0p4OXJPTEQ1NkNFLUdnQXV4MkRmNmR4ajZUUGhsQ094UVpSdml0OVlOTFRSUURZLUJwX0w3ZWlUb0dLUQ?oc=5) |
 | 2026-07-14 | 'Listing is a must': Chinese humanoid startups are rushing to launch IPOs - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjNZV3Q0Y1k0N1pSZFpUQzZ1ZS1OeUpqa09VTm44TWJBSG1ReWZfY1ZwMnRLNTB3NF9DOVQ1MXIwSkI1Zms1a21yT0lLT0hTZXBldUxZWHJFWHpTRENWcXlSVTVCakFXamhLNWZkajlNd1p2MmtWU1ZhUmItMUNkVzlid09zZ9IBiwFBVV95cUxQUkI1aGFUdGU3T3o5Xy1TckFfNllaeGN2UTlVMFBDd2tfTzJOd1JUaFo1WTlmZXJTSmtOSFp4cUVZLXcxMUxhd0xCZlFxV1Z3Q3BzQVlfTElrZUdRQk9KMHdOU3ZCTDJYR21Ld0NmcVBLYkh1NnlfX1pZVWRNMXJhT3lpOG9pWUV4UXhN?oc=5) |
 | 2026-07-14 | Startup Upset After Journalist Points Out How Creepy Its Humanoid Robots’s Hands Are - Futurism | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcVJkTEMxakh0Z3FHblVLTDk3LTNjN2xJTl9nS2Fjd3d6eDItay1nU0t4QmI1YkI3dDk2dk9yaVhZZVJqSVBtQU5QcGFtTzhyRF96dmstUUVBRHd6NmdvbWFGSXp6b0Fra2NXdnNGQU1KbUcyS3gzLURRWnhXRDA5d2lnczE5S2VZdmkwSQ?oc=5) |
-| 2026-07-14 | Chinese robot startup LimX Dynamics raises $200m to improve autonomy - Nikkei Asia | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjV5T1diZ3RFNFBiX0RZdThkNnQtLTNXLXVZRi1NdzhnWlhoQXdwTEN2c293VEdHTHBRUWhHV2M0ejNTVlFyYWlJQW5sdTZmcmxldEtmMDhoUV9WRjB1OGNHYzNXZkRvSkJ2NF92aEIwM19UdWxfZkllS25VV0c2Y21JaU1tbVM1N29nc0hRNXRDem5pUXlQVzVpdWJ1NkZ0aVpCVDB3elpUNVEzd01yZg?oc=5) |
 | 2026-07-14 | Chinese Robotics Startup Raises $200 Million - Caixin Global | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxPOGlNLXBXZ0VkMlp1NEp0SmJTa1ozOUd2VzNHVkZZM2tEOEl3enRFcTJSVk41Y2pBalRhOEw2ODJabjE0TkYyclpfVFhPclR4VEVKV3BWRnBWWWo5QkJmRlZTdWllWjFKTHRXS2RFcnZfaUZJMTQwVDdPSTBBckdveUo1NF90VXFFMk8zY1hENGdnMlRPY2VsS3ZPai1LNUE?oc=5) |
+| 2026-07-14 | Chinese robot startup LimX Dynamics raises $200m to improve autonomy - Nikkei Asia | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjV5T1diZ3RFNFBiX0RZdThkNnQtLTNXLXVZRi1NdzhnWlhoQXdwTEN2c293VEdHTHBRUWhHV2M0ejNTVlFyYWlJQW5sdTZmcmxldEtmMDhoUV9WRjB1OGNHYzNXZkRvSkJ2NF92aEIwM19UdWxfZkllS25VV0c2Y21JaU1tbVM1N29nc0hRNXRDem5pUXlQVzVpdWJ1NkZ0aVpCVDB3elpUNVEzd01yZg?oc=5) |
 | 2026-07-13 | Spatial AI startup Augmodo raises $21M to expand beyond retail stores - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVkR6YWJXQjNVTV9ONE5KTmRhVm5XbW04ekduY2h5WW9LX3ZtUU5GQ0VDS29wdE0xOUl1VjFza21mVjBlUUlKTVZXbzN6S3VIZTJlb0pKQlR0eDUzSUVQOUFsTUVUa0VIX1o4djNRSGVFaU5tckhaY0J1eFBOREt6WEpzOTE4OFhjcXpUMDR5MC1zWDR3SmJoYTVHMF9paHZlOTcwOA?oc=5) |
 | 2026-07-13 | Augmodo raises $21M to push its spatial AI beyond just retail toward the broader physical workforce - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmxON2h1YkZRRUJqakJCQ0VXb0tZMV9LcVJlWTlTLXhtYmx0Y0lqVHJ1V20xYnZiV0FiNlZVdXJmcVl2MmhOZGNhZkdQLTZNWTZGWDNvcmpnRjRERmtyYlVPNjYtcDM4RlFmS3I5eHFXTV9HUmpJbnkxN0JZeWpjZXhadkhZcF9tX202aldvTnhqcXctdTVOYWx0bFZLaFNWbExFZVdZWGtycDcxOF85cUd3c3hwbVpITEM5QlZzSHd5cFZyZ25UbA?oc=5) |
 | 2026-07-13 | Humanoid robot startup Holiday Robotics announced on the 13th that it has attracted a total of 155 b.. - 매일경제 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5ZVc4WUZfaVVBNGNOYUd2Vy1KczQ3OVlhcHNONlBYMmJIeWxFR25rYU9LV0ktcGJmSHNRWmNtQ0laUjA1ZW9ES0RWWQ?oc=5) |
@@ -133,7 +133,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-13 | AI Data Operations Lead | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
+| 2026-07-14 | AI Data Operations Manager | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
+| 2026-07-14 | Deployment Engineer (TeleOperations) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696724006) |
 | 2026-07-13 | Finance Manager | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4691166006) |
 | 2026-07-13 | Hardware Reliability Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4613067006) |
 | 2026-07-13 | Helix AI Engineer, Agentic Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4659175006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-13 | Helix AI Engineer, Data Infrastructure  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4345915006) |
 | 2026-07-13 | Helix AI Engineer, Embedded Android Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4685209006) |
 | 2026-07-13 | Helix AI Engineer, Generative AI | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4671699006) |
-| 2026-07-13 | Helix AI Engineer, Localization and Mapping | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696533006) |
 
 ## Automation
 
