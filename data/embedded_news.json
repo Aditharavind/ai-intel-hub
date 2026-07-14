@@ -1,5 +1,12 @@
 [
   {
+    "title": "The Neo Geo Does Run DOOM After All",
+    "source": "Hackaday",
+    "date": "2026-07-14",
+    "url": "https://hackaday.com/2026/07/14/the-neo-geo-does-run-doom-after-all/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"267\" src=\"https://hackaday.com/wp-content/uploads/2026/07/neo_geo_aes_game_console_evan-amos_wikimedia.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Perhaps the most ridiculous statement that anyone can make is that a computer system with clearly enough processing power &#8216;cannot run DOOM&#8216;. This is why we accept the premise that a <a class=\"read-more\" href=\"https://hackaday.com/2026/07/14/the-neo-geo-does-run-doom-after-all/\">&#8230;read more</a>"
+  },
+  {
     "title": "2026 Frikkin Lasers Challenge: Laser Bandsaw",
     "source": "Hackaday",
     "date": "2026-07-14",
@@ -42,13 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"464\" src=\"https://hackaday.com/wp-content/uploads/2023/02/ChatGPT-1.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>This following statement is a lie: &#8220;I am telling the truth&#8221;. Okay, now that it&#8217;s just us meatbags, let&#8217;s get down to brass tacks. Captain Kirk&#8217;s logic bombs couldn&#8217;t possibly <a class=\"read-more\" href=\"https://hackaday.com/2026/07/13/star-trek-was-right-about-prompt-injection-sorta/\">&#8230;read more</a>"
   },
   {
-    "title": "Can’t Find That ISA Sound Card? No Worries!",
-    "source": "Hackaday",
-    "date": "2026-07-14",
-    "url": "https://hackaday.com/2026/07/13/cant-find-that-isa-sound-card-no-worries/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/beavis-ultrasound-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Many older hackers will have at some point gotten rid of an old piece of hardware that they later ended up regretting. All those ISA cards were next to useless <a class=\"read-more\" href=\"https://hackaday.com/2026/07/13/cant-find-that-isa-sound-card-no-worries/\">&#8230;read more</a>"
-  },
-  {
     "title": "$50 Forgix board pairs Raspberry Pi RP2354 MCU with Trion T8 FPGA in Teensy form factor",
     "source": "CNX Software",
     "date": "2026-07-14",
@@ -70,11 +70,116 @@
     "summary": "<div><img alt=\"wM Bus Gateway\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/wM-Bus-Gateway-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>IoTLabs wM-Bus Gateway is an ESP32 device supporting the Wireless M-Bus (wM-Bus) standard for receiving data from compatible meters and sensors, designed for full integration with Home Assistant. Wireless M-Bus (Wireless Meter Bus) is a wireless protocol specifically designed for remote reading of smart meters, generally gas, water, or electricity meters, and typically used by utilities, but the wM-Bus gateway allows you to deploy the standard for your home automation solution, meters, and sensors. wM-Bus gateway specifications: Main controller &#8211; ESP32 dual-core microcontroller with Wi-Fi and BLE connectivity Display &#8211; 1.3-inch OLED for live measurements and status wM-Bus &#8211; 868 MHz radio receiver; Semtech SX1276-based RFM95/RFM96 according to the code Supports T1 and C1 frames, compatible with the wmbusmeters library Antennas Built-in 2.4 GHz antenna for Wi-Fi and Bluetooth External SMA antenna for wireless M-Bus; important: must be connected before powering the device to avoid damage Misc Top button to [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/\">IoTLabs wM-Bus gateway &#8211; An ESP32 device with Wireless M-Bus connectivity for Home Assistant</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Microchip Releases Free VectorBlox 3.0 SDK",
+    "source": "Embedded.com",
+    "date": "2026-07-14",
+    "url": "https://www.embedded.com/microchip-releases-free-vectorblox-3-0-sdk/",
+    "summary": "<p>Microchip Technology Inc. has introduced version 3.0 of its VectorBlox Accelerator software development kit (SDK), adding new capabilities to improve the implementation of artificial intelligence inference on PolarFire FPGA and system-on-chip (SoC) devices. The updated development environment is designed to simplify the deployment of convolutional neural network (CNN) models while increasing performance and energy efficiency [...]</p>\n<p>The post <a href=\"https://www.embedded.com/microchip-releases-free-vectorblox-3-0-sdk/\">Microchip Releases Free VectorBlox 3.0 SDK</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
     "title": "Liquid Instruments Unveils GenInst Studio for Custom Test Design",
     "source": "Embedded.com",
     "date": "2026-07-14",
     "url": "https://www.embedded.com/liquid-instruments-unveils-geninst-studio-for-custom-test-design/",
     "summary": "<p>The agentic AI test solution delivers application-specific instruments in minutes.</p>\n<p>The post <a href=\"https://www.embedded.com/liquid-instruments-unveils-geninst-studio-for-custom-test-design/\">Liquid Instruments Unveils GenInst Studio for Custom Test Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "VectorBlox SDK supports AI inference in power-constrained edge AI apps",
+    "source": "Electronics Weekly",
+    "date": "2026-07-14",
+    "url": "https://www.electronicsweekly.com/news/products/fpga-pld/vectorblox-sdk-supports-ai-inference-in-power-constrained-edge-ai-apps-2026-07/",
+    "summary": "<p>Microchip is releasing its VectorBlox 3.0 Accelerator SDK to help simplify FPGA-based AI implementations. Specifically, it is for those deploying AI inference in power-constrained and mission-critical environments, such as aerospace ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/fpga-pld/vectorblox-sdk-supports-ai-inference-in-power-constrained-edge-ai-apps-2026-07/\">VectorBlox SDK supports AI inference in power-constrained edge AI apps</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "JEDEC’s SPHBM4 standard for AI accelerators on organic substrates",
+    "source": "Electronics Weekly",
+    "date": "2026-07-14",
+    "url": "https://www.electronicsweekly.com/news/products/memory/jedecs-sphbm4-standard-for-ai-accelerators-on-organic-substrates-2026-07/",
+    "summary": "<p>The standards body JEDEC has officially announced JESD330-4 for Standard Package High Bandwidth Memory (SPHBM4), which is related to artificial intelligence accelerators. SPHBM4 uses the same DRAM dies as HBM4, ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/memory/jedecs-sphbm4-standard-for-ai-accelerators-on-organic-substrates-2026-07/\">JEDEC&#8217;s SPHBM4 standard for AI accelerators on organic substrates</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Population Growth Slowing",
+    "source": "Electronics Weekly",
+    "date": "2026-07-14",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/population-growth-slowing-2026-07/",
+    "summary": "<p>The growth of the global population has been slowing down for decades. According to UN calculations, the world&#8217;s population will cross the 10-billion mark in 2061 but, by the end ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/population-growth-slowing-2026-07/\">Population Growth Slowing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "In-fab metrology and inspection: pivotal milestones and the road ahead",
+    "source": "Electronics Weekly",
+    "date": "2026-07-14",
+    "url": "https://www.electronicsweekly.com/news/business/in-fab-metrology-and-inspection-pivotal-milestones-and-the-road-ahead-2026-07/",
+    "summary": "<p>Anne-Laure Charley and Philippe Leray chart a journey through 40 years of in-fab metrology and inspection – linked to distinct periods in the logic scaling roadmap. In-fab semiconductor metrology and ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/in-fab-metrology-and-inspection-pivotal-milestones-and-the-road-ahead-2026-07/\">In-fab metrology and inspection: pivotal milestones and the road ahead</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Get the Gadget Master newsletter!",
+    "source": "Electronics Weekly",
+    "date": "2026-07-14",
+    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-07/",
+    "summary": "<p>Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox!</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-07/\">Get the Gadget Master newsletter!</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "UK’s Space and Defence Gateway opens in Harwell",
+    "source": "Electronics Weekly",
+    "date": "2026-07-14",
+    "url": "https://www.electronicsweekly.com/news/uks-space-and-defence-gateway-opens-in-harwell-2026-07/",
+    "summary": "<p>The UK&#8217;s Space and Defence Gateway was officially opened by King Charles III at the Harwell campus in Oxfordshire. Defence Gateway The Gateway comprises a co-working and events to encourage ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/uks-space-and-defence-gateway-opens-in-harwell-2026-07/\">UK&#8217;s Space and Defence Gateway opens in Harwell</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "IQE gets £14m order",
+    "source": "Electronics Weekly",
+    "date": "2026-07-14",
+    "url": "https://www.electronicsweekly.com/news/business/iqe-gets-14m-order-2026-07/",
+    "summary": "<p>IQE, the leadingsupplier of compound semiconductor wafer products and advanced material solutions, has secured a multi-year production order valued at $14 million from a strategic global technology customer. The order, ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/iqe-gets-14m-order-2026-07/\">IQE gets £14m order</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Bosch starts semiconductor production in US",
+    "source": "Electronics Weekly",
+    "date": "2026-07-14",
+    "url": "https://www.electronicsweekly.com/news/business/bosch-starts-semiconductor-production-in-us-2026-07/",
+    "summary": "<p>Bosch is beginning sample SiC IC production on 200 mm wafers at its first U.S. semiconductor factory, after finalising a $225 million Chips Act subsidy agreement with the U.S. Commerce ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/bosch-starts-semiconductor-production-in-us-2026-07/\">Bosch starts semiconductor production in US</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Apple sues OpenAI for poaching iPhone secrets",
+    "source": "Electronics Weekly",
+    "date": "2026-07-14",
+    "url": "https://www.electronicsweekly.com/news/business/aple-sues-openai-for-poaching-iphone-secrets-2026-07/",
+    "summary": "<p>Apple has sued OpenAI alleging that it stole trade secrets by recruiting Apple employees to help it make a device to compete with the iPhone. The lawsuit alleges that some ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/aple-sues-openai-for-poaching-iphone-secrets-2026-07/\">Apple sues OpenAI for poaching iPhone secrets</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Nexchip raises $880m on HKSE",
+    "source": "Electronics Weekly",
+    "date": "2026-07-14",
+    "url": "https://www.electronicsweekly.com/news/business/nexchip-raises-880m-on-hkse-2026-07/",
+    "summary": "<p>11 year-old Nexchip, the world’s No.8 foundry, has raised $880 million on the Hong Kong stock exchange. Powerchip of Taiwan invested in Nexchip’s founding in 2015 and former Powerchip CEO ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nexchip-raises-880m-on-hkse-2026-07/\">Nexchip raises $880m on HKSE</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "How to sequence your own DNA at home",
+    "source": "Adafruit",
+    "date": "2026-07-14",
+    "url": "https://blog.adafruit.com/2026/07/14/how-to-sequence-your-own-dna-at-home/",
+    "summary": "Bradley Woolf has sequenced their own genome 5 times with an Oxford Nanopore Technologies MinION. This means collecting DNA from a swab, prepping them for sequencing, running them through a sequencer, then doing analysis over them. To sequence the cells, I bought lab materials and consumables to sequence my own genome at home. It took [&#8230;]"
+  },
+  {
+    "title": "Tiny Emus has playable vintage software in-browser",
+    "source": "Adafruit",
+    "date": "2026-07-14",
+    "url": "https://blog.adafruit.com/2026/07/14/tiny-emus-has-playable-vintage-software-in-browser/",
+    "summary": "Andre Weissflog has created chips, a toolbox of 8-bit chip-emulators, helper code and complete embeddable system emulators in dependency-free C headers (a subset of C99 that compiles on gcc, clang and cl.exe). The Tuny Emus website is a compilation of emulated software based on chips. The arrow keys generally work for navigation and files can [&#8230;]"
+  },
+  {
+    "title": "Building a smart ventilation system for a workshop",
+    "source": "Adafruit",
+    "date": "2026-07-14",
+    "url": "https://blog.adafruit.com/2026/07/14/building-a-smart-ventilation-system-for-a-workshop/",
+    "summary": "Michael Klements recently was wondering about the home shop… What’s actually happening to the air in there? I’ve got printers, printers, dust from outside fumes from soldering, or is there something else I should be worrying about? So over the past week I’ve been measuring the air quality, and the results weren’t quite what I [&#8230;]"
+  },
+  {
+    "title": "Text art tools #ArtTuesday",
+    "source": "Adafruit",
+    "date": "2026-07-14",
+    "url": "https://blog.adafruit.com/2026/07/14/text-art-tools-arttuesday/",
+    "summary": "Heikki Lotvonen, a graphic designer from Finland, compiled this detailed and thorough list of text art tools It started out as a list for ASCII and textmode art editors but grew to include all kinds of alternative design tools. I&#8217;ve hosted two workshops where the assigment is to create a printed zine without the use [&#8230;]"
   },
   {
     "title": "From Linux to NuttX on the Adafruit Fruit Jam",
@@ -131,27 +236,6 @@
     "date": "2026-07-14",
     "url": "https://blog.adafruit.com/2026/07/14/icymi-python-on-microcontrollers-newsletter-circuitpython-and-micropython-ides-grow-kattni-rembor-chairing-pycon-us-and-more/",
     "summary": "If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,356 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep [&#8230;]"
-  },
-  {
-    "title": "eRoadBook is a Rally-Inspired GPS Device",
-    "source": "Adafruit",
-    "date": "2026-07-14",
-    "url": "https://blog.adafruit.com/2026/07/14/eroadbook-is-a-rally-inspired-gps-device/",
-    "summary": "image via Instructables user gokux &#160; Take the rally experience off road with Instructables user gokux&#8216;s eRoadBook: eRoadBook is a self-contained GPS navigation device built around the Seeed XIAO ESP32S3 Plus and a 4.26-inch ePaper display. It&#8217;s designed for long road trips, trail rides, rallies, cycling tours, and hiking expeditions — anywhere you need to [&#8230;]"
-  },
-  {
-    "title": "This Historic 110-Year-Old NYC Business Is Shutting Down",
-    "source": "Adafruit",
-    "date": "2026-07-14",
-    "url": "https://blog.adafruit.com/2026/07/14/this-historic-110-year-old-nyc-business-is-shutting-down/",
-    "summary": "The American Wood Column Corp is located in Brooklyn, New York. It&#8217;s one of the last holdouts of old-school woodwork manufacturing in the city and is officially NYC&#8217;s last wood column factory. The family company&#8217;s CEO Thomas Lupo is quite candid and charming about the history and reality of the business, which will soon closer [&#8230;]"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-07-14",
-    "url": "https://blog.adafruit.com/2026/07/14/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-14/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
     "title": "From Sunlight to Smartphones: The Hidden World of DC‑DC Converters – Eaton and Mouser",
@@ -229,13 +313,6 @@
     "date": "2026-07-13",
     "url": "https://www.embedded.com/melexis-expands-pressure-sensor-family/",
     "summary": "<p>New variants deliver pressure measurement as low as 2 bar for EVs and AI data centers.</p>\n<p>The post <a href=\"https://www.embedded.com/melexis-expands-pressure-sensor-family/\">Melexis Expands Pressure Sensor Family</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Reviewing a trove of old computers in Germany",
-    "source": "Adafruit",
-    "date": "2026-07-13",
-    "url": "https://blog.adafruit.com/2026/07/13/reviewing-a-trove-of-old-computers-in-germany/",
-    "summary": "On July 26, 2006, The Computer History Museum curator Dag Spicer received an unexpected email from Dortmund, Germany. It described what appeared to be a lost trove of rare computers abandoned in a warehouse in the town of Castrop-Rauxel. The Museum’s collections committee agreed that a visit was necessary to see exactly what was there [&#8230;]"
   },
   {
     "title": "Next level motion detection: Panasonic Industry enhances its PIR sensor portfolio with PaPIRs+",
@@ -348,12 +425,5 @@
     "date": "2026-07-08",
     "url": "https://www.embedded.com/advantech-introduces-dragonwing-iq9-based-edge-ai-solutions/",
     "summary": "<p>Advantech Co. Ltd. has expanded its edge AI portfolio with a new family of industrial computing platforms based on the Qualcomm Dragonwing IQ-9075 processor. The new lineup includes the AOM-6741 SMARC module, the ASR-A503 and AFE-A503 robotic controllers, and the AIR-055 edge AI system, all designed to support advanced vision-based artificial intelligence applications in industrial [...]</p>\n<p>The post <a href=\"https://www.embedded.com/advantech-introduces-dragonwing-iq9-based-edge-ai-solutions/\">Advantech Introduces Dragonwing IQ9-Based Edge AI Solutions</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "How NOR Flash Memory Safety Features Protect Linux Systems",
-    "source": "Embedded.com",
-    "date": "2026-07-07",
-    "url": "https://www.embedded.com/how-nor-flash-memory-safety-features-protect-linux-systems/",
-    "summary": "<p>Utilizing the safety features in NOR flash memories such as error correction and data integrity checks can enhance the reliability and integrity of Linux-based applications, particularly in safety-critical domains such as automotive (e.g., in-vehicle infotainment, advanced-driver assistance systems, telematics) and industrial automation (e.g., HMI panels). Linux, an open-source operating system, maintains initiatives that support safety-critical [...]</p>\n<p>The post <a href=\"https://www.embedded.com/how-nor-flash-memory-safety-features-protect-linux-systems/\">How NOR Flash Memory Safety Features Protect Linux Systems</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
