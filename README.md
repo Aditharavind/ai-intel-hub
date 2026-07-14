@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-14 22:42 UTC
+Last Updated: 2026-07-14 23:39 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-14 | Full Body VR Tracking Is Just Some Recycled Hardware Away | Hackaday | [link](https://hackaday.com/2026/07/14/full-body-vr-tracking-is-just-some-recycled-hardware-away/) |
 | 2026-07-14 | The Neo Geo Does Run DOOM After All | Hackaday | [link](https://hackaday.com/2026/07/14/the-neo-geo-does-run-doom-after-all/) |
 | 2026-07-14 | 2026 Frikkin Lasers Challenge: Laser Bandsaw | Hackaday | [link](https://hackaday.com/2026/07/14/2026-frikkin-lasers-challenge-laser-bandsaw/) |
 | 2026-07-14 | Fibrous Muscles for Humanoid Robotics | Hackaday | [link](https://hackaday.com/2026/07/14/fibrous-muscles-for-humanoid-robotics/) |
 | 2026-07-14 | UDP Broadcasting and the Joys of IPv4 Subnetting | Hackaday | [link](https://hackaday.com/2026/07/14/udp-broadcasting-and-the-joys-of-ipv4-subnetting/) |
 | 2026-07-14 | Open Book Touch Makes Crowd Funding Debut | Hackaday | [link](https://hackaday.com/2026/07/14/open-book-touch-makes-crowd-funding-debut/) |
 | 2026-07-14 | The Seemingly Impossible Oscillator | Hackaday | [link](https://hackaday.com/2026/07/14/the-seemingly-impossible-oscillator/) |
-| 2026-07-14 | Star Trek Was Right about Prompt Injection, Sorta | Hackaday | [link](https://hackaday.com/2026/07/13/star-trek-was-right-about-prompt-injection-sorta/) |
 | 2026-07-14 | $50 Forgix board pairs Raspberry Pi RP2354 MCU with Trion T8 FPGA in Teensy form factor | CNX Software | [link](https://www.cnx-software.com/2026/07/14/50-forgix-board-pairs-raspberry-pi-rp2354-mcu-with-trion-t8-fpga-in-teensy-form-factor/) |
 | 2026-07-14 | Meet Moddo Pinch – The world’s smallest 32-bit Arduino-compatible board (2026 Edition) | CNX Software | [link](https://www.cnx-software.com/2026/07/14/meet-moddo-pinch-the-world-smallest-arduino-compatible-board-2026-edition/) |
 | 2026-07-14 | IoTLabs wM-Bus gateway – An ESP32 device with Wireless M-Bus connectivity for Home Assistant | CNX Software | [link](https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/) |
@@ -77,9 +77,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-14 | YinonDouchan/mobile_robot_lift_env_multi_cube_multi_platform | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env_multi_cube_multi_platform) |
 | 2026-07-14 | wonder-robot/dot_transplant_v1 | 0 | 0 | [link](https://huggingface.co/wonder-robot/dot_transplant_v1) |
 | 2026-07-14 | puppet-robotics/golf-model-eval | 22 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-eval) |
-| 2026-07-14 | YinonDouchan/mobile_robot_lift_env_multi_cube_multi_platform | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env_multi_cube_multi_platform) |
 | 2026-07-14 | X-Humanoid/Pelican-VLA05-Robotwin | 0 | 0 | [link](https://huggingface.co/X-Humanoid/Pelican-VLA05-Robotwin) |
 | 2026-07-14 | SakikoTogawa/pi0_robotwin_lora-place_mouse_pad-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_mouse_pad-100-himaconpp_repo) |
 | 2026-07-14 | milab-robot/N1.7_0518_amore_40000 | 0 | 0 | [link](https://huggingface.co/milab-robot/N1.7_0518_amore_40000) |
@@ -99,7 +99,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | ArduPilot/ardupilot | 15465 | C++ | 6186.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14208 | C++ | 5683.3 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11275 | Python | 4510.1 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11128 | Rust | 4451.3 | [link](https://github.com/rerun-io/rerun) |
+| rerun-io/rerun | 11129 | Rust | 4451.7 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7676 | Python | 3070.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
@@ -124,8 +124,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-14 | Startup Upset After Journalist Points Out How Creepy Its Humanoid Robots’s Hands Are - Futurism | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcVJkTEMxakh0Z3FHblVLTDk3LTNjN2xJTl9nS2Fjd3d6eDItay1nU0t4QmI1YkI3dDk2dk9yaVhZZVJqSVBtQU5QcGFtTzhyRF96dmstUUVBRHd6NmdvbWFGSXp6b0Fra2NXdnNGQU1KbUcyS3gzLURRWnhXRDA5d2lnczE5S2VZdmkwSQ?oc=5) |
 | 2026-07-14 | Chinese Robotics Startup Raises $200 Million - Caixin Global | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxPOGlNLXBXZ0VkMlp1NEp0SmJTa1ozOUd2VzNHVkZZM2tEOEl3enRFcTJSVk41Y2pBalRhOEw2ODJabjE0TkYyclpfVFhPclR4VEVKV3BWRnBWWWo5QkJmRlZTdWllWjFKTHRXS2RFcnZfaUZJMTQwVDdPSTBBckdveUo1NF90VXFFMk8zY1hENGdnMlRPY2VsS3ZPai1LNUE?oc=5) |
 | 2026-07-14 | Chinese robot startup LimX Dynamics raises $200m to improve autonomy - Nikkei Asia | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjV5T1diZ3RFNFBiX0RZdThkNnQtLTNXLXVZRi1NdzhnWlhoQXdwTEN2c293VEdHTHBRUWhHV2M0ejNTVlFyYWlJQW5sdTZmcmxldEtmMDhoUV9WRjB1OGNHYzNXZkRvSkJ2NF92aEIwM19UdWxfZkllS25VV0c2Y21JaU1tbVM1N29nc0hRNXRDem5pUXlQVzVpdWJ1NkZ0aVpCVDB3elpUNVEzd01yZg?oc=5) |
-| 2026-07-13 | Spatial AI startup Augmodo raises $21M to expand beyond retail stores - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVkR6YWJXQjNVTV9ONE5KTmRhVm5XbW04ekduY2h5WW9LX3ZtUU5GQ0VDS29wdE0xOUl1VjFza21mVjBlUUlKTVZXbzN6S3VIZTJlb0pKQlR0eDUzSUVQOUFsTUVUa0VIX1o4djNRSGVFaU5tckhaY0J1eFBOREt6WEpzOTE4OFhjcXpUMDR5MC1zWDR3SmJoYTVHMF9paHZlOTcwOA?oc=5) |
 | 2026-07-13 | Augmodo raises $21M to push its spatial AI beyond just retail toward the broader physical workforce - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmxON2h1YkZRRUJqakJCQ0VXb0tZMV9LcVJlWTlTLXhtYmx0Y0lqVHJ1V20xYnZiV0FiNlZVdXJmcVl2MmhOZGNhZkdQLTZNWTZGWDNvcmpnRjRERmtyYlVPNjYtcDM4RlFmS3I5eHFXTV9HUmpJbnkxN0JZeWpjZXhadkhZcF9tX202aldvTnhqcXctdTVOYWx0bFZLaFNWbExFZVdZWGtycDcxOF85cUd3c3hwbVpITEM5QlZzSHd5cFZyZ25UbA?oc=5) |
+| 2026-07-13 | Spatial AI startup Augmodo raises $21M to expand beyond retail stores - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVkR6YWJXQjNVTV9ONE5KTmRhVm5XbW04ekduY2h5WW9LX3ZtUU5GQ0VDS29wdE0xOUl1VjFza21mVjBlUUlKTVZXbzN6S3VIZTJlb0pKQlR0eDUzSUVQOUFsTUVUa0VIX1o4djNRSGVFaU5tckhaY0J1eFBOREt6WEpzOTE4OFhjcXpUMDR5MC1zWDR3SmJoYTVHMF9paHZlOTcwOA?oc=5) |
 | 2026-07-13 | Humanoid robot startup Holiday Robotics announced on the 13th that it has attracted a total of 155 b.. - 매일경제 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5ZVc4WUZfaVVBNGNOYUd2Vy1KczQ3OVlhcHNONlBYMmJIeWxFR25rYU9LV0ktcGJmSHNRWmNtQ0laUjA1ZW9ES0RWWQ?oc=5) |
 | 2026-07-12 | Korea’s Physical AI Edge Now Depends on Certification, Liability, and Trust - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTE8zWjdOZGIyUlVua2s3LVJDeXlhRW04Y1ZDbWNaMTFWTmhVb3QyZFZCa0ItbUI4Q0RqdW9vMlVwZG0wNi1PWUhFdlNPSHlwOUp1RTdXU1p1NjU0SEFjeHpISFRQSmRfemhUMVNySjdLbURmR2I3MFBGemZxZjZOYWs?oc=5) |
 | 2026-07-10 | ‘Physical AI is Europe’s last chance to be useful to the world’ - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCRkdaWU95QUp1UkRnTVBicHlDTm05M0ZWeURLZHFrQ216ZWZsMFBfMWtOV2w1MUJoWG5Wb1g2NTcxMzM5V2FsSDEtdUJFbnQwbDRDQk5iMERvQQ?oc=5) |
