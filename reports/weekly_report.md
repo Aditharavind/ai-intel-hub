@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-14 11:14 UTC
+Generated: 2026-07-14 12:58 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,10 +14,10 @@ Generated: 2026-07-14 11:14 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82449 | 32979.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63110 | 25244.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44230 | 17692.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30035 | 12014.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 82452 | 32980.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63113 | 25245.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44232 | 17692.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30036 | 12014.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16016 | 6406.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
@@ -41,8 +41,8 @@ Generated: 2026-07-14 11:14 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-14 | Laminar CEO & Co-Founder Annie Lu Named Top 100 Women in AI - The Manila Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ1RWdHJ2bEY5YkZ3THZrOGFHb1FpM2xUem9oeHJHZWh1WGZ4dFlJV0dZclF6Mm1hekZnS0xGaDlYWVB0LWFyUnVGekkxSGpMYWVzQ3ZJTC0zNlFJYUpMbWVxMXY3ZDhtdVY4T0gwaVhpRk9EVG8yV0xLUU5zdFQwMjlfTlZJd3cwUFJUZ3lBTzNoSzEwNFprOWpDakFSUjlhcmEyeVpOV1dyTGVIVUtmcE1FTlEyaWZKakgwUlBVMXhsUTFVUU5TZNIBzgFBVV95cUxPODFtQ2VvaVp2c01jWWI1cDlZblJLclhsSW1DenhLNGw5eDd1ZzBJQWxwVWQ0MlhlUWUzTTVvYUQyQW5haW9xS3JJODVsU2RXOFdpYi1fSDNSXzZMUTdfajQ1OEFTS1ZfMURHdFp3SG9VeW1lWWJNbjdmTWtNRmhsOEpQdG5FMXpOVEhfaDQ2R3JSM0p4OXJPTEQ1NkNFLUdnQXV4MkRmNmR4ajZUUGhsQ094UVpSdml0OVlOTFRSUURZLUJwX0w3ZWlUb0dLUQ?oc=5) |
 | 2026-07-14 | 'Listing is a must': Chinese humanoid startups are rushing to launch IPOs - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjNZV3Q0Y1k0N1pSZFpUQzZ1ZS1OeUpqa09VTm44TWJBSG1ReWZfY1ZwMnRLNTB3NF9DOVQ1MXIwSkI1Zms1a21yT0lLT0hTZXBldUxZWHJFWHpTRENWcXlSVTVCakFXamhLNWZkajlNd1p2MmtWU1ZhUmItMUNkVzlid09zZ9IBiwFBVV95cUxQUkI1aGFUdGU3T3o5Xy1TckFfNllaeGN2UTlVMFBDd2tfTzJOd1JUaFo1WTlmZXJTSmtOSFp4cUVZLXcxMUxhd0xCZlFxV1Z3Q3BzQVlfTElrZUdRQk9KMHdOU3ZCTDJYR21Ld0NmcVBLYkh1NnlfX1pZVWRNMXJhT3lpOG9pWUV4UXhN?oc=5) |
 | 2026-07-14 | Chinese robot startup LimX Dynamics raises $200m to improve autonomy - Nikkei Asia | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjV5T1diZ3RFNFBiX0RZdThkNnQtLTNXLXVZRi1NdzhnWlhoQXdwTEN2c293VEdHTHBRUWhHV2M0ejNTVlFyYWlJQW5sdTZmcmxldEtmMDhoUV9WRjB1OGNHYzNXZkRvSkJ2NF92aEIwM19UdWxfZkllS25VV0c2Y21JaU1tbVM1N29nc0hRNXRDem5pUXlQVzVpdWJ1NkZ0aVpCVDB3elpUNVEzd01yZg?oc=5) |
 | 2026-07-13 | Spatial AI startup Augmodo raises $21M to expand beyond retail stores - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVkR6YWJXQjNVTV9ONE5KTmRhVm5XbW04ekduY2h5WW9LX3ZtUU5GQ0VDS29wdE0xOUl1VjFza21mVjBlUUlKTVZXbzN6S3VIZTJlb0pKQlR0eDUzSUVQOUFsTUVUa0VIX1o4djNRSGVFaU5tckhaY0J1eFBOREt6WEpzOTE4OFhjcXpUMDR5MC1zWDR3SmJoYTVHMF9paHZlOTcwOA?oc=5) |
 | 2026-07-13 | Augmodo raises $21M to push its spatial AI beyond just retail toward the broader physical workforce - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmxON2h1YkZRRUJqakJCQ0VXb0tZMV9LcVJlWTlTLXhtYmx0Y0lqVHJ1V20xYnZiV0FiNlZVdXJmcVl2MmhOZGNhZkdQLTZNWTZGWDNvcmpnRjRERmtyYlVPNjYtcDM4RlFmS3I5eHFXTV9HUmpJbnkxN0JZeWpjZXhadkhZcF9tX202aldvTnhqcXctdTVOYWx0bFZLaFNWbExFZVdZWGtycDcxOF85cUd3c3hwbVpITEM5QlZzSHd5cFZyZ25UbA?oc=5) |
-| 2026-07-13 | Humanoid robot startup Holiday Robotics announced on the 13th that it has attracted a total of 155 b.. - 매일경제 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5ZVc4WUZfaVVBNGNOYUd2Vy1KczQ3OVlhcHNONlBYMmJIeWxFR25rYU9LV0ktcGJmSHNRWmNtQ0laUjA1ZW9ES0RWWQ?oc=5) |

@@ -1,5 +1,32 @@
 [
   {
+    "model": "SakikoTogawa/pi0_robotwin_lora-place_mouse_pad-100-himaconpp_repo",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_mouse_pad-100-himaconpp_repo",
+    "date": "2026-07-14",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "milab-robot/N1.7_0518_amore_40000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/milab-robot/N1.7_0518_amore_40000",
+    "date": "2026-07-14",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "milab-robot/N1.7_0518_amore_60000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/milab-robot/N1.7_0518_amore_60000",
+    "date": "2026-07-14",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "HarrisonPENG/M2W-VLA-RoboTwin",
     "downloads": 103,
     "likes": 0,
@@ -29,20 +56,20 @@
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR",
     "downloads": 5,
-    "likes": 2,
+    "likes": 3,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR",
     "date": "2026-07-14",
     "keyword": "robotics",
-    "score": 2.0
+    "score": 2.2
   },
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-U0",
     "downloads": 13,
-    "likes": 2,
+    "likes": 3,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0",
     "date": "2026-07-14",
     "keyword": "robotics",
-    "score": 4.4
+    "score": 4.6
   },
   {
     "model": "SakikoTogawa/pi0_robotwin_lora-scan_object-100-himaconpp_repo",
@@ -79,33 +106,6 @@
     "date": "2026-07-14",
     "keyword": "robotics",
     "score": 12.3
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-WidowX",
-    "downloads": 64,
-    "likes": 2,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-WidowX",
-    "date": "2026-07-14",
-    "keyword": "robotics",
-    "score": 19.7
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABCD_D",
-    "downloads": 19,
-    "likes": 3,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABCD_D",
-    "date": "2026-07-14",
-    "keyword": "robotics",
-    "score": 6.4
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABC_D",
-    "downloads": 13,
-    "likes": 1,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABC_D",
-    "date": "2026-07-14",
-    "keyword": "robotics",
-    "score": 4.2
   },
   {
     "model": "jim4real/so101-lingbot-vla2-intermediate-checkpoints",
@@ -198,6 +198,15 @@
     "score": 119.8
   },
   {
+    "model": "naubass/llama3.1-policy-alpaca-id",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/naubass/llama3.1-policy-alpaca-id",
+    "date": "2026-07-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "MakinoKF/pick-the-various-direction-bolt-dataset_act-policy-v1",
     "downloads": 0,
     "likes": 0,
@@ -227,11 +236,11 @@
   {
     "model": "open-gigaai/Giga-World-Policy-0.5",
     "downloads": 0,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/open-gigaai/Giga-World-Policy-0.5",
     "date": "2026-07-14",
     "keyword": "policy",
-    "score": 0.1
+    "score": 0.3
   },
   {
     "model": "xogml03/place_in_the_box_policy",
@@ -256,15 +265,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/uynitsuj/paper-sim-policy-checkpoints",
-    "date": "2026-07-14",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "naubass/llama3.1-policy-alpaca-id",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/naubass/llama3.1-policy-alpaca-id",
     "date": "2026-07-14",
     "keyword": "policy",
     "score": 0.1
@@ -295,6 +295,33 @@
     "date": "2026-07-14",
     "keyword": "policy",
     "score": 9.4
+  },
+  {
+    "model": "XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-WidowX",
+    "downloads": 64,
+    "likes": 2,
+    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-WidowX",
+    "date": "2026-07-14",
+    "keyword": "robotics",
+    "score": 19.7
+  },
+  {
+    "model": "XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABCD_D",
+    "downloads": 19,
+    "likes": 3,
+    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABCD_D",
+    "date": "2026-07-14",
+    "keyword": "robotics",
+    "score": 6.4
+  },
+  {
+    "model": "XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABC_D",
+    "downloads": 13,
+    "likes": 1,
+    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABC_D",
+    "date": "2026-07-14",
+    "keyword": "robotics",
+    "score": 4.2
   },
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-0-LIBERO",

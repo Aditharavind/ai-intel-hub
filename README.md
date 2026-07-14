@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-14 11:14 UTC
+Last Updated: 2026-07-14 12:58 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-14 | Open Book Touch Makes Crowd Funding Debut | Hackaday | [link](https://hackaday.com/2026/07/14/open-book-touch-makes-crowd-funding-debut/) |
 | 2026-07-14 | The Seemingly Impossible Oscillator | Hackaday | [link](https://hackaday.com/2026/07/14/the-seemingly-impossible-oscillator/) |
 | 2026-07-14 | Star Trek Was Right about Prompt Injection, Sorta | Hackaday | [link](https://hackaday.com/2026/07/13/star-trek-was-right-about-prompt-injection-sorta/) |
 | 2026-07-14 | Can’t Find That ISA Sound Card? No Worries! | Hackaday | [link](https://hackaday.com/2026/07/13/cant-find-that-isa-sound-card-no-worries/) |
 | 2026-07-14 | Meet Moddo Pinch – The world’s smallest 32-bit Arduino-compatible board (2026 Edition) | CNX Software | [link](https://www.cnx-software.com/2026/07/14/meet-moddo-pinch-the-world-smallest-arduino-compatible-board-2026-edition/) |
 | 2026-07-14 | IoTLabs wM-Bus gateway – An ESP32 device with Wireless M-Bus connectivity for Home Assistant | CNX Software | [link](https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/) |
+| 2026-07-14 | In-fab metrology and inspection: pivotal milestones and the road ahead | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/in-fab-metrology-and-inspection-pivotal-milestones-and-the-road-ahead-2026-07/) |
+| 2026-07-14 | Get the Gadget Master newsletter! | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-07/) |
 | 2026-07-14 | UK’s Space and Defence Gateway opens in Harwell | Electronics Weekly | [link](https://www.electronicsweekly.com/news/uks-space-and-defence-gateway-opens-in-harwell-2026-07/) |
 | 2026-07-14 | IQE gets £14m order | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/iqe-gets-14m-order-2026-07/) |
-| 2026-07-14 | Bosch starts semiconductor production in US | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/bosch-starts-semiconductor-production-in-us-2026-07/) |
-| 2026-07-14 | Apple sues OpenAI for poaching iPhone secrets | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/aple-sues-openai-for-poaching-iphone-secrets-2026-07/) |
-| 2026-07-14 | Nexchip raises $880m on HKSE | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/nexchip-raises-880m-on-hkse-2026-07/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,28 +77,28 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-14 | SakikoTogawa/pi0_robotwin_lora-place_mouse_pad-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_mouse_pad-100-himaconpp_repo) |
+| 2026-07-14 | milab-robot/N1.7_0518_amore_40000 | 0 | 0 | [link](https://huggingface.co/milab-robot/N1.7_0518_amore_40000) |
+| 2026-07-14 | milab-robot/N1.7_0518_amore_60000 | 0 | 0 | [link](https://huggingface.co/milab-robot/N1.7_0518_amore_60000) |
 | 2026-07-14 | HarrisonPENG/M2W-VLA-RoboTwin | 103 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-07-14 | Do-Hyun-robot/smolvla_dohyun_policy | 0 | 0 | [link](https://huggingface.co/Do-Hyun-robot/smolvla_dohyun_policy) |
 | 2026-07-14 | RobotisSW/Dispose_trash_chunk25_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Dispose_trash_chunk25_10K) |
-| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR | 5 | 2 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR) |
-| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-U0 | 13 | 2 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0) |
+| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR | 5 | 3 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR) |
+| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-U0 | 13 | 3 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0) |
 | 2026-07-14 | SakikoTogawa/pi0_robotwin_lora-scan_object-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-scan_object-100-himaconpp_repo) |
 | 2026-07-14 | SidneyXie/pi05_robotwin | 15 | 1 | [link](https://huggingface.co/SidneyXie/pi05_robotwin) |
-| 2026-07-14 | YinonDouchan/smolvla_mobile_robot_lift_pick_and_place | 2 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place) |
-| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot | 40 | 1 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot) |
-| 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-WidowX | 64 | 2 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-WidowX) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | awslabs/awsome-distributed-ai | 459 | Shell | 183.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 162 | Python | 64.9 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63110 | Python | 25244.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63113 | Python | 25245.3 | [link](https://github.com/commaai/openpilot) |
 | google-deepmind/mujoco | 14203 | C++ | 5681.3 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11273 | Python | 4509.3 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11127 | Rust | 4450.9 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7674 | Python | 3069.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4101 | Python | 1640.5 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 4104 | Python | 1641.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3841 | Rust | 1536.5 | [link](https://github.com/dora-rs/dora) |
 | knightnemo/Awesome-World-Models | 3157 |  | 1262.9 | [link](https://github.com/knightnemo/Awesome-World-Models) |
 
@@ -119,6 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-14 | Laminar CEO & Co-Founder Annie Lu Named Top 100 Women in AI - The Manila Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ1RWdHJ2bEY5YkZ3THZrOGFHb1FpM2xUem9oeHJHZWh1WGZ4dFlJV0dZclF6Mm1hekZnS0xGaDlYWVB0LWFyUnVGekkxSGpMYWVzQ3ZJTC0zNlFJYUpMbWVxMXY3ZDhtdVY4T0gwaVhpRk9EVG8yV0xLUU5zdFQwMjlfTlZJd3cwUFJUZ3lBTzNoSzEwNFprOWpDakFSUjlhcmEyeVpOV1dyTGVIVUtmcE1FTlEyaWZKakgwUlBVMXhsUTFVUU5TZNIBzgFBVV95cUxPODFtQ2VvaVp2c01jWWI1cDlZblJLclhsSW1DenhLNGw5eDd1ZzBJQWxwVWQ0MlhlUWUzTTVvYUQyQW5haW9xS3JJODVsU2RXOFdpYi1fSDNSXzZMUTdfajQ1OEFTS1ZfMURHdFp3SG9VeW1lWWJNbjdmTWtNRmhsOEpQdG5FMXpOVEhfaDQ2R3JSM0p4OXJPTEQ1NkNFLUdnQXV4MkRmNmR4ajZUUGhsQ094UVpSdml0OVlOTFRSUURZLUJwX0w3ZWlUb0dLUQ?oc=5) |
 | 2026-07-14 | 'Listing is a must': Chinese humanoid startups are rushing to launch IPOs - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjNZV3Q0Y1k0N1pSZFpUQzZ1ZS1OeUpqa09VTm44TWJBSG1ReWZfY1ZwMnRLNTB3NF9DOVQ1MXIwSkI1Zms1a21yT0lLT0hTZXBldUxZWHJFWHpTRENWcXlSVTVCakFXamhLNWZkajlNd1p2MmtWU1ZhUmItMUNkVzlid09zZ9IBiwFBVV95cUxQUkI1aGFUdGU3T3o5Xy1TckFfNllaeGN2UTlVMFBDd2tfTzJOd1JUaFo1WTlmZXJTSmtOSFp4cUVZLXcxMUxhd0xCZlFxV1Z3Q3BzQVlfTElrZUdRQk9KMHdOU3ZCTDJYR21Ld0NmcVBLYkh1NnlfX1pZVWRNMXJhT3lpOG9pWUV4UXhN?oc=5) |
 | 2026-07-14 | Chinese robot startup LimX Dynamics raises $200m to improve autonomy - Nikkei Asia | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjV5T1diZ3RFNFBiX0RZdThkNnQtLTNXLXVZRi1NdzhnWlhoQXdwTEN2c293VEdHTHBRUWhHV2M0ejNTVlFyYWlJQW5sdTZmcmxldEtmMDhoUV9WRjB1OGNHYzNXZkRvSkJ2NF92aEIwM19UdWxfZkllS25VV0c2Y21JaU1tbVM1N29nc0hRNXRDem5pUXlQVzVpdWJ1NkZ0aVpCVDB3elpUNVEzd01yZg?oc=5) |
 | 2026-07-13 | Spatial AI startup Augmodo raises $21M to expand beyond retail stores - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVkR6YWJXQjNVTV9ONE5KTmRhVm5XbW04ekduY2h5WW9LX3ZtUU5GQ0VDS29wdE0xOUl1VjFza21mVjBlUUlKTVZXbzN6S3VIZTJlb0pKQlR0eDUzSUVQOUFsTUVUa0VIX1o4djNRSGVFaU5tckhaY0J1eFBOREt6WEpzOTE4OFhjcXpUMDR5MC1zWDR3SmJoYTVHMF9paHZlOTcwOA?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-10 | ‘Physical AI is Europe’s last chance to be useful to the world’ - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCRkdaWU95QUp1UkRnTVBicHlDTm05M0ZWeURLZHFrQ216ZWZsMFBfMWtOV2w1MUJoWG5Wb1g2NTcxMzM5V2FsSDEtdUJFbnQwbDRDQk5iMERvQQ?oc=5) |
 | 2026-07-10 | LG CNS partners with UK's PhysicsX to develop industrial AI model - The Korea Herald | physical ai startup | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHX01INnhzTXA1S3dlSFNRUl9jVEJlWUg2TjZuSkNGd3Rxdm1ONXg3YjgyR05FZ21fOEdPQkVvSGowMUU3aWVhdVEweVJpc0V4aWI1N2ptWQ?oc=5) |
 | 2026-07-10 | European startup unveils humanoid robot design, real-time learning system - digitimes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXE3bmNjWmRpb1liS0xjVHRhaDlsVFFreDU0dVhOUW1wNUtqZHF3VTdWQkpMSlFmdnRfclJwaVFNeXV5OTV1aUFqSC1ZNzk0eFp4Q3YycWZpcjZCZW52SEtRTnVkLWsyenZfbjd2cXNNbUJ0ZTFQUVg4Um9DWTNpZDlZdW5WUkp5a0cyS0hDWGd4Y0U?oc=5) |
-| 2026-07-09 | Reservoir Farms Launches Pilot in Arizona for Physical AI Innovation in Specialty Crops - TMX Newsfile | physical ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWFRVDFqM0U0Z0pxTm9xSEt2UGxtZFlFQ2dWSFQ0dFNVdk9lR1V1cEVaVmd2ay1BMElqX0F4Mmk3MTh2T2psc1JmemQyN2Q0djlUUjNndktnWUo5cjctY2FhM2VRTzVOSEw4RzZrSTJXZGY0MEd6d2s3T1hoR0dRRlM5cXM5S2Z2VVJHR3JhNTRuVTNHbXh1djg0MW9lZk1wYnZCZVRfZXBIVUNycHh6SnN1X3NBQkptRE9ta21RbWt4VkNnZ0JjdmZ5Yw?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
