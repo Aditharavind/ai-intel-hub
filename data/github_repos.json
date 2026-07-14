@@ -1,5 +1,15 @@
 [
   {
+    "repo": "mosaico-labs/mosaico",
+    "stars": 890,
+    "language": "Python",
+    "description": "Mosaico - The data platform for Physical AI",
+    "url": "https://github.com/mosaico-labs/mosaico",
+    "date": "2026-07-14",
+    "topic": "physical-ai",
+    "score": 356.1
+  },
+  {
     "repo": "awslabs/awsome-distributed-ai",
     "stars": 459,
     "language": "Shell",
@@ -21,23 +31,33 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63113,
+    "stars": 63116,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-07-14",
     "topic": "robotics",
-    "score": 25245.3
+    "score": 25246.5
+  },
+  {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15462,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-07-14",
+    "topic": "robotics",
+    "score": 6184.9
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14203,
+    "stars": 14205,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-07-14",
     "topic": "robotics",
-    "score": 5681.3
+    "score": 5682.1
   },
   {
     "repo": "kornia/kornia",
@@ -51,13 +71,13 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11127,
+    "stars": 11128,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-07-14",
     "topic": "robotics",
-    "score": 4450.9
+    "score": 4451.3
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -71,43 +91,43 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4104,
+    "stars": 4105,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-07-14",
     "topic": "embodied-ai",
-    "score": 1641.7
+    "score": 1642.1
   },
   {
     "repo": "dora-rs/dora",
-    "stars": 3841,
+    "stars": 3842,
     "language": "Rust",
     "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
     "url": "https://github.com/dora-rs/dora",
     "date": "2026-07-14",
     "topic": "embodied-ai",
-    "score": 1536.5
+    "score": 1536.9
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3157,
+    "stars": 3158,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-07-14",
     "topic": "embodied-ai",
-    "score": 1262.9
+    "score": 1263.3
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2576,
+    "stars": 2577,
     "language": "Python",
     "description": "RoboTwin 2.0 Offical Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-07-14",
     "topic": "embodied-ai",
-    "score": 1030.5
+    "score": 1030.9
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -131,13 +151,13 @@
   },
   {
     "repo": "flashrt-project/FlashRT",
-    "stars": 424,
+    "stars": 425,
     "language": "C++",
     "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
     "url": "https://github.com/flashrt-project/FlashRT",
     "date": "2026-07-14",
     "topic": "vla",
-    "score": 169.7
+    "score": 170.1
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -151,13 +171,13 @@
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 372,
+    "stars": 373,
     "language": "HTML",
     "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
     "url": "https://github.com/luohongk/Embodied-AI-Daily",
     "date": "2026-07-14",
     "topic": "vla",
-    "score": 148.9
+    "score": 149.3
   },
   {
     "repo": "baidu-baige/LoongForge",
@@ -230,6 +250,16 @@
     "score": 18.1
   },
   {
+    "repo": "Matrixchung/iFOC",
+    "stars": 24,
+    "language": "C++",
+    "description": "iFOC - High Performance Field Oriented Control System, whose 'i' stands for Intelligent, Integrated and Instant.",
+    "url": "https://github.com/Matrixchung/iFOC",
+    "date": "2026-07-14",
+    "topic": "humanoid",
+    "score": 9.7
+  },
+  {
     "repo": "copper-project/copper-rs",
     "stars": 1406,
     "language": "Rust",
@@ -240,44 +270,24 @@
     "score": 562.5
   },
   {
-    "repo": "mosaico-labs/mosaico",
-    "stars": 890,
-    "language": "Python",
-    "description": "Mosaico - The data platform for Physical AI",
-    "url": "https://github.com/mosaico-labs/mosaico",
-    "date": "2026-07-13",
-    "topic": "physical-ai",
-    "score": 356.1
-  },
-  {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30036,
+    "stars": 30038,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-07-13",
     "topic": "robotics",
-    "score": 12014.5
-  },
-  {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15462,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-07-13",
-    "topic": "robotics",
-    "score": 6184.9
+    "score": 12015.3
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2664,
+    "stars": 2665,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-07-13",
     "topic": "embodied-ai",
-    "score": 1065.7
+    "score": 1066.1
   },
   {
     "repo": "StanfordVL/BEHAVIOR-1K",
@@ -331,23 +341,23 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16016,
+    "stars": 16015,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 6406.5
+    "score": 6406.1
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 8113,
+    "stars": 8116,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 3245.3
+    "score": 3246.5
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -401,13 +411,13 @@
   },
   {
     "repo": "thu-ml/Causal-Forcing",
-    "stars": 850,
+    "stars": 851,
     "language": "Python",
     "description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\" & Causal Forcing++",
     "url": "https://github.com/thu-ml/Causal-Forcing",
     "date": "2026-07-09",
     "topic": "world-model",
-    "score": 340.1
+    "score": 340.5
   },
   {
     "repo": "vikashplus/robohive",
@@ -451,13 +461,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82452,
+    "stars": 82453,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 32980.9
+    "score": 32981.3
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
@@ -501,13 +511,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2116,
+    "stars": 2120,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-07-06",
     "topic": "humanoid",
-    "score": 846.5
+    "score": 848.1
   },
   {
     "repo": "jackvial/lerobot-data-studio",
@@ -561,33 +571,23 @@
   },
   {
     "repo": "Tavish9/any4lerobot",
-    "stars": 1099,
+    "stars": 1100,
     "language": "Python",
     "description": "🎁 A collection of utilities for LeRobot.",
     "url": "https://github.com/Tavish9/any4lerobot",
     "date": "2026-07-02",
     "topic": "lerobot",
-    "score": 439.7
+    "score": 440.1
   },
   {
     "repo": "abizovnuralem/go2_omniverse",
-    "stars": 1044,
+    "stars": 1043,
     "language": "Python",
     "description": "Unitree Go2, Unitree G1 support for Nvidia Isaac Lab (Isaac Gym / Isaac Sim)",
     "url": "https://github.com/abizovnuralem/go2_omniverse",
     "date": "2026-07-01",
     "topic": "robot-learning",
-    "score": 417.7
-  },
-  {
-    "repo": "Matrixchung/iFOC",
-    "stars": 24,
-    "language": "C++",
-    "description": "iFOC - High Performance Field Oriented Control System, whose 'i' stands for Intelligent, Integrated and Instant.",
-    "url": "https://github.com/Matrixchung/iFOC",
-    "date": "2026-06-30",
-    "topic": "humanoid",
-    "score": 9.7
+    "score": 417.3
   },
   {
     "repo": "Peter-cuhk/robot-data-studio",
@@ -791,13 +791,13 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13568,
+    "stars": 13569,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-06-19",
     "topic": "robotics",
-    "score": 5427.3
+    "score": 5427.7
   },
   {
     "repo": "VinRobotics/vinrobotics_mjlab",

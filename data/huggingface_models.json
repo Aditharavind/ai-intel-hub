@@ -1,5 +1,14 @@
 [
   {
+    "model": "X-Humanoid/Pelican-VLA05-Robotwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/X-Humanoid/Pelican-VLA05-Robotwin",
+    "date": "2026-07-14",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "SakikoTogawa/pi0_robotwin_lora-place_mouse_pad-100-himaconpp_repo",
     "downloads": 0,
     "likes": 0,
@@ -99,13 +108,13 @@
     "score": 0.7
   },
   {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot",
-    "downloads": 40,
+    "model": "X-Humanoid/Pelican-VLA05",
+    "downloads": 17,
     "likes": 1,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot",
+    "url": "https://huggingface.co/X-Humanoid/Pelican-VLA05",
     "date": "2026-07-14",
-    "keyword": "robotics",
-    "score": 12.3
+    "keyword": "vla",
+    "score": 5.4
   },
   {
     "model": "jim4real/so101-lingbot-vla2-intermediate-checkpoints",
@@ -198,6 +207,33 @@
     "score": 119.8
   },
   {
+    "model": "schronn/policy_pouring_blue_v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/schronn/policy_pouring_blue_v1",
+    "date": "2026-07-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "JunJunJunya/bluecube_101_merged_policy",
+    "downloads": 52,
+    "likes": 0,
+    "url": "https://huggingface.co/JunJunJunya/bluecube_101_merged_policy",
+    "date": "2026-07-14",
+    "keyword": "policy",
+    "score": 15.7
+  },
+  {
+    "model": "Chaenn/act_policy_so101_cube_multitask_0710",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Chaenn/act_policy_so101_cube_multitask_0710",
+    "date": "2026-07-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "naubass/llama3.1-policy-alpaca-id",
     "downloads": 0,
     "likes": 0,
@@ -214,15 +250,6 @@
     "date": "2026-07-14",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "JunJunJunya/bluecube_101_merged_policy",
-    "downloads": 52,
-    "likes": 0,
-    "url": "https://huggingface.co/JunJunJunya/bluecube_101_merged_policy",
-    "date": "2026-07-14",
-    "keyword": "policy",
-    "score": 15.7
   },
   {
     "model": "Hilman09/act_policy_test4",
@@ -279,22 +306,13 @@
     "score": 0.1
   },
   {
-    "model": "hin1209/omx-test-1-policy",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/hin1209/omx-test-1-policy",
+    "model": "XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot",
+    "downloads": 40,
+    "likes": 1,
+    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot",
     "date": "2026-07-14",
-    "keyword": "policy",
-    "score": 0.7
-  },
-  {
-    "model": "GoldenPeel/so101-button-touching-policy-ideal-30",
-    "downloads": 31,
-    "likes": 0,
-    "url": "https://huggingface.co/GoldenPeel/so101-button-touching-policy-ideal-30",
-    "date": "2026-07-14",
-    "keyword": "policy",
-    "score": 9.4
+    "keyword": "robotics",
+    "score": 12.3
   },
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-WidowX",
@@ -333,6 +351,15 @@
     "score": 576.5
   },
   {
+    "model": "Vladimirlv/ru-promptriever-qwen3-4b",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/Vladimirlv/ru-promptriever-qwen3-4b",
+    "date": "2026-07-13",
+    "keyword": "vla",
+    "score": 0.3
+  },
+  {
     "model": "Mayank022/urban-vla-language-act",
     "downloads": 38,
     "likes": 1,
@@ -340,33 +367,6 @@
     "date": "2026-07-13",
     "keyword": "vla",
     "score": 11.7
-  },
-  {
-    "model": "YccHugAi/lingbot-vla-2-stackcube",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/YccHugAi/lingbot-vla-2-stackcube",
-    "date": "2026-07-13",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "aryan1219/hopfield-vla-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/aryan1219/hopfield-vla-checkpoints",
-    "date": "2026-07-13",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "HarrisonPENG/M2W-VLA-LIBERO-query4",
-    "downloads": 5,
-    "likes": 0,
-    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-LIBERO-query4",
-    "date": "2026-07-13",
-    "keyword": "vla",
-    "score": 1.6
   },
   {
     "model": "physicalai-bmi/nano-world-model",
