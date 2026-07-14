@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-14 04:36 UTC
+Generated: 2026-07-14 07:00 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,10 +15,10 @@ Generated: 2026-07-14 04:36 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 82448 | 32979.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63106 | 25242.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44226 | 17690.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30029 | 12011.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16010 | 6404.1 | [link](https://github.com/zauberzeug/nicegui) |
+| commaai/openpilot | 63108 | 25243.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44225 | 17690.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30031 | 12012.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16012 | 6404.9 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -26,8 +26,8 @@ Generated: 2026-07-14 04:36 UTC
 | XiaomiRobotics/Xiaomi-Robotics-0-LIBERO | 1885 | 567.8 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-LIBERO) |
 | tencent/Hy-Embodied-0.5-VLA-RoboTwin | 329 | 101.0 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 323 | 98.8 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
-| BrinqAI/functiongemma-270m-physical-ai | 295 | 88.6 | [link](https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai) |
 | SEU-PAISys/Embodied.cpp | 180 | 54.9 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
+| CooperBench/dual-policy-leader-v1 | 96 | 28.9 | [link](https://huggingface.co/CooperBench/dual-policy-leader-v1) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-14 04:36 UTC
+Last Updated: 2026-07-14 07:00 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-14 | Star Trek Was Right about Prompt Injection, Sorta | Hackaday | [link](https://hackaday.com/2026/07/13/star-trek-was-right-about-prompt-injection-sorta/) |
 | 2026-07-14 | Can’t Find That ISA Sound Card? No Worries! | Hackaday | [link](https://hackaday.com/2026/07/13/cant-find-that-isa-sound-card-no-worries/) |
 | 2026-07-14 | IoTLabs wM-Bus gateway – An ESP32 device with Wireless M-Bus connectivity for Home Assistant | CNX Software | [link](https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/) |
+| 2026-07-14 | Bosch starts semiconductor production in US | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/bosch-starts-semiconductor-production-in-us-2026-07/) |
+| 2026-07-14 | Apple sues OpenAI for poaching iPhone secrets | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/aple-sues-openai-for-poaching-iphone-secrets-2026-07/) |
+| 2026-07-14 | Nexchip raises $880m on HKSE | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/nexchip-raises-880m-on-hkse-2026-07/) |
+| 2026-07-14 | Back-end equipment market to hit $9.5bn this year | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/back-end-equipment-market-to-hit-9-5bn-this-year-2026-07/) |
+| 2026-07-14 | Q2 smartphone shipments down 11% | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/q2-smartphone-shipments-down-11-2026-07/) |
 | 2026-07-14 | Semis For Important People | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/semis-for-important-people-2026-07/) |
 | 2026-07-13 | Get your ESP32 Sunny Side Up with this Solar Dev Board | Hackaday | [link](https://hackaday.com/2026/07/13/get-your-esp32-sunny-side-up-with-this-solar-dev-board/) |
-| 2026-07-13 | Using Your Own RBMK Reactor Control Center At Home | Hackaday | [link](https://hackaday.com/2026/07/13/using-your-own-rbmk-reactor-control-center-at-home/) |
-| 2026-07-13 | It’s A Spectrum, With An RP2350 ULA | Hackaday | [link](https://hackaday.com/2026/07/13/its-a-spectrum-with-an-rp2350-ula/) |
-| 2026-07-13 | 2026 Hackaday Supercon: Call for Proposals | Hackaday | [link](https://hackaday.com/2026/07/13/2026-hackaday-supercon-call-for-proposals/) |
-| 2026-07-13 | Voltmeter-Based Floating Point Calculator Does It In Style | Hackaday | [link](https://hackaday.com/2026/07/13/voltmeter-based-floating-point-calculator-does-it-in-style/) |
-| 2026-07-13 | The Death of Physical Media and the Real Challenges to Software Archiving | Hackaday | [link](https://hackaday.com/2026/07/13/the-death-of-physical-media-and-the-real-challenges-to-software-archiving/) |
-| 2026-07-13 | Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery | CNX Software | [link](https://www.cnx-software.com/2026/07/13/ambient-scientific-gpx10-pro-mcu-delivers-years-of-always-on-ai-on-a-coin-cell-battery/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-14 | SakikoTogawa/pi0_robotwin_lora-scan_object-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-scan_object-100-himaconpp_repo) |
+| 2026-07-14 | SidneyXie/pi05_robotwin | 15 | 0 | [link](https://huggingface.co/SidneyXie/pi05_robotwin) |
 | 2026-07-14 | YinonDouchan/smolvla_mobile_robot_lift_pick_and_place | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place) |
 | 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot | 43 | 1 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot) |
 | 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-WidowX | 66 | 2 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-WidowX) |
@@ -85,22 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-14 | XiaomiRobotics/Xiaomi-Robotics-0-LIBERO | 1885 | 11 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-LIBERO) |
 | 2026-07-14 | wonder-robot/dot_piper_v3 | 0 | 0 | [link](https://huggingface.co/wonder-robot/dot_piper_v3) |
 | 2026-07-14 | RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step40000_aug_true | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step40000_aug_true) |
-| 2026-07-14 | RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step30000_aug_true | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step30000_aug_true) |
-| 2026-07-14 | RobotisSW/Task_900006_900007_Collect_PeanutMix_To_Box_1110_UKH_merged_act_80_real | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900006_900007_Collect_PeanutMix_To_Box_1110_UKH_merged_act_80_real) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | awslabs/awsome-distributed-ai | 458 | Shell | 183.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 161 | Python | 64.5 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63106 | Python | 25242.5 | [link](https://github.com/commaai/openpilot) |
-| google-deepmind/mujoco | 14195 | C++ | 5678.1 | [link](https://github.com/google-deepmind/mujoco) |
+| commaai/openpilot | 63108 | Python | 25243.3 | [link](https://github.com/commaai/openpilot) |
+| google-deepmind/mujoco | 14199 | C++ | 5679.7 | [link](https://github.com/google-deepmind/mujoco) |
 | isaac-sim/IsaacLab | 7671 | Python | 3068.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4097 | Python | 1638.9 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 4096 | Python | 1638.5 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3842 | Rust | 1536.9 | [link](https://github.com/dora-rs/dora) |
 | knightnemo/Awesome-World-Models | 3156 |  | 1262.5 | [link](https://github.com/knightnemo/Awesome-World-Models) |
+| zchoi/Awesome-Embodied-Robotics-and-Agent | 1829 |  | 731.7 | [link](https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent) |
 | sou350121/VLA-Handbook | 384 | HTML | 153.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| luohongk/Embodied-AI-Daily | 371 | HTML | 148.5 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

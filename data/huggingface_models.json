@@ -1,5 +1,23 @@
 [
   {
+    "model": "SakikoTogawa/pi0_robotwin_lora-scan_object-100-himaconpp_repo",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-scan_object-100-himaconpp_repo",
+    "date": "2026-07-14",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "SidneyXie/pi05_robotwin",
+    "downloads": 15,
+    "likes": 0,
+    "url": "https://huggingface.co/SidneyXie/pi05_robotwin",
+    "date": "2026-07-14",
+    "keyword": "robot",
+    "score": 4.6
+  },
+  {
     "model": "YinonDouchan/smolvla_mobile_robot_lift_pick_and_place",
     "downloads": 0,
     "likes": 0,
@@ -90,21 +108,39 @@
     "score": 0.1
   },
   {
-    "model": "RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step20000_aug_true",
+    "model": "macv666/entropy-vla-grpo-logs",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step20000_aug_true",
+    "url": "https://huggingface.co/macv666/entropy-vla-grpo-logs",
     "date": "2026-07-14",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step10000_aug_true",
+    "model": "Monita108/Multiview_vla_checkpoints",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step10000_aug_true",
+    "url": "https://huggingface.co/Monita108/Multiview_vla_checkpoints",
     "date": "2026-07-14",
-    "keyword": "robot",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Ashenzari/vla-lstm-success-monitor",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Ashenzari/vla-lstm-success-monitor",
+    "date": "2026-07-14",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Ashenzari/vla-mamba-success-monitor",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Ashenzari/vla-mamba-success-monitor",
+    "date": "2026-07-14",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -117,12 +153,48 @@
     "score": 0.1
   },
   {
+    "model": "physicalai-bmi/forge-quadruped-gait",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/physicalai-bmi/forge-quadruped-gait",
+    "date": "2026-07-14",
+    "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
     "model": "zhijieq/directional-navigation",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/zhijieq/directional-navigation",
     "date": "2026-07-14",
     "keyword": "navigation",
+    "score": 0.1
+  },
+  {
+    "model": "Deadspree/my_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Deadspree/my_policy",
+    "date": "2026-07-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "uynitsuj/paper-sim-policy-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/uynitsuj/paper-sim-policy-checkpoints",
+    "date": "2026-07-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "naubass/llama3.1-policy-alpaca-id",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/naubass/llama3.1-policy-alpaca-id",
+    "date": "2026-07-14",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -189,15 +261,6 @@
     "score": 0.1
   },
   {
-    "model": "macv666/entropy-vla-grpo-logs",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/macv666/entropy-vla-grpo-logs",
-    "date": "2026-07-13",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "HarrisonPENG/M2W-VLA-LIBERO-query4",
     "downloads": 1,
     "likes": 0,
@@ -223,24 +286,6 @@
     "date": "2026-07-13",
     "keyword": "vla",
     "score": 7.7
-  },
-  {
-    "model": "zaowu/vla-jepa-so101-resume",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/zaowu/vla-jepa-so101-resume",
-    "date": "2026-07-13",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Monita108/Multi_view_vla_mytask",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Monita108/Multi_view_vla_mytask",
-    "date": "2026-07-13",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "physicalai-bmi/nano-world-model",
@@ -387,33 +432,6 @@
     "score": 28.9
   },
   {
-    "model": "3cda2225/record-demo0714_3_act_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/3cda2225/record-demo0714_3_act_policy",
-    "date": "2026-07-13",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "xuewang/ufo-g1-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/xuewang/ufo-g1-policy",
-    "date": "2026-07-13",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Lislaam/coinrun-trained-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Lislaam/coinrun-trained-policy",
-    "date": "2026-07-13",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR",
     "downloads": 0,
     "likes": 2,
@@ -448,15 +466,6 @@
     "date": "2026-07-13",
     "keyword": "robotics",
     "score": 0.1
-  },
-  {
-    "model": "VladimirRH/toxicity-classifier",
-    "downloads": 9,
-    "likes": 1,
-    "url": "https://huggingface.co/VladimirRH/toxicity-classifier",
-    "date": "2026-07-12",
-    "keyword": "vla",
-    "score": 3.0
   },
   {
     "model": "ultrastar112/maze2d_easy_native256_noncot_chunk_kinf_world_model_20260707_perseg",
@@ -727,15 +736,6 @@
     "date": "2026-06-28",
     "keyword": "navigation",
     "score": 0.1
-  },
-  {
-    "model": "BrinqAI/functiongemma-270m-physical-ai",
-    "downloads": 295,
-    "likes": 0,
-    "url": "https://huggingface.co/BrinqAI/functiongemma-270m-physical-ai",
-    "date": "2026-06-15",
-    "keyword": "physical ai",
-    "score": 88.6
   },
   {
     "model": "UCLA-VAIL/Navigation-Model-Zoo-Public",
