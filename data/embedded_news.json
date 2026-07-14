@@ -1,5 +1,12 @@
 [
   {
+    "title": "Fibrous Muscles for Humanoid Robotics",
+    "source": "Hackaday",
+    "date": "2026-07-14",
+    "url": "https://hackaday.com/2026/07/14/fibrous-muscles-for-humanoid-robotics/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/Electrofluidic-Fiber-Muscles-on-Science-Robotics-0-29-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>At the current rate of robotics development, you might assume that we&#8217;re close to Skynet taking over. However, while we  likely wouldn&#8217;t do well in a physical fight against a <a class=\"read-more\" href=\"https://hackaday.com/2026/07/14/fibrous-muscles-for-humanoid-robotics/\">&#8230;read more</a>"
+  },
+  {
     "title": "UDP Broadcasting and the Joys of IPv4 Subnetting",
     "source": "Hackaday",
     "date": "2026-07-14",
@@ -54,6 +61,20 @@
     "date": "2026-07-14",
     "url": "https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/",
     "summary": "<div><img alt=\"wM Bus Gateway\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/wM-Bus-Gateway-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>IoTLabs wM-Bus Gateway is an ESP32 device supporting the Wireless M-Bus (wM-Bus) standard for receiving data from compatible meters and sensors, designed for full integration with Home Assistant. Wireless M-Bus (Wireless Meter Bus) is a wireless protocol specifically designed for remote reading of smart meters, generally gas, water, or electricity meters, and typically used by utilities, but the wM-Bus gateway allows you to deploy the standard for your home automation solution, meters, and sensors. wM-Bus gateway specifications: Main controller &#8211; ESP32 dual-core microcontroller with Wi-Fi and BLE connectivity Display &#8211; 1.3-inch OLED for live measurements and status wM-Bus &#8211; 868 MHz radio receiver; Semtech SX1276-based RFM95/RFM96 according to the code Supports T1 and C1 frames, compatible with the wmbusmeters library Antennas Built-in 2.4 GHz antenna for Wi-Fi and Bluetooth External SMA antenna for wireless M-Bus; important: must be connected before powering the device to avoid damage Misc Top button to [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/\">IoTLabs wM-Bus gateway &#8211; An ESP32 device with Wireless M-Bus connectivity for Home Assistant</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Liquid Instruments Unveils GenInst Studio for Custom Test Design",
+    "source": "Embedded.com",
+    "date": "2026-07-14",
+    "url": "https://www.embedded.com/liquid-instruments-unveils-geninst-studio-for-custom-test-design/",
+    "summary": "<p>The agentic AI test solution delivers application-specific instruments in minutes.</p>\n<p>The post <a href=\"https://www.embedded.com/liquid-instruments-unveils-geninst-studio-for-custom-test-design/\">Liquid Instruments Unveils GenInst Studio for Custom Test Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "VectorBlox SDK supports AI inference in power-constrained edge AI apps",
+    "source": "Electronics Weekly",
+    "date": "2026-07-14",
+    "url": "https://www.electronicsweekly.com/news/products/fpga-pld/vectorblox-sdk-supports-ai-inference-in-power-constrained-edge-ai-apps-2026-07/",
+    "summary": "<p>Microchip is releasing its VectorBlox 3.0 Accelerator SDK to help simplify FPGA-based AI implementations. Specifically, it is for those deploying AI inference in power-constrained and mission-critical environments, such as aerospace ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/fpga-pld/vectorblox-sdk-supports-ai-inference-in-power-constrained-edge-ai-apps-2026-07/\">VectorBlox SDK supports AI inference in power-constrained edge AI apps</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "JEDEC’s SPHBM4 standard for AI accelerators on organic substrates",
@@ -119,11 +140,18 @@
     "summary": "<p>11 year-old Nexchip, the world’s No.8 foundry, has raised $880 million on the Hong Kong stock exchange. Powerchip of Taiwan invested in Nexchip’s founding in 2015 and former Powerchip CEO ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nexchip-raises-880m-on-hkse-2026-07/\">Nexchip raises $880m on HKSE</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Back-end equipment market to hit $9.5bn this year",
-    "source": "Electronics Weekly",
+    "title": "Measuring your antenna’s radiation pattern with a drone",
+    "source": "Adafruit",
     "date": "2026-07-14",
-    "url": "https://www.electronicsweekly.com/news/business/back-end-equipment-market-to-hit-9-5bn-this-year-2026-07/",
-    "summary": "<p>The semiconductor back-end equipment market is expected to reach $9.5 billion this year and have 6.3% CAGR until 2031, reports Yole. Market drivers are advanced packaging, HBM, and AI infrastructure ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/back-end-equipment-market-to-hit-9-5bn-this-year-2026-07/\">Back-end equipment market to hit $9.5bn this year</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/14/measuring-your-antennas-radiation-pattern-with-a-drone/",
+    "summary": "Unmanned Aerial Vehicle (UAV / drones) systems offer a flexible, cost-effective alternative to traditional, expensive indoor chambers for testing large, installed antennas in their operational environments. Researchers developed a specialized, heat-resistant hexacopter with high-precision, sub-centimeter GPS tracking to collect antenna data, even in harsh conditions. To process the resulting irregular data, the team created the [&#8230;]"
+  },
+  {
+    "title": "The tinytapeout-to-radio-chip path now exists",
+    "source": "Adafruit",
+    "date": "2026-07-14",
+    "url": "https://blog.adafruit.com/2026/07/14/the-tinytapeout-to-radio-chip-path-now-exists/",
+    "summary": "A university team designed the frequency-synthesizer core of a WiFi/BLE-class radio (a full 2.4 GHz fractional-N PLL) on IHP&#8217;s open 130nm BiCMOS process using a 100% open-source EDA flow — no proprietary tools anywhere. The hard part was always the passives: nobody trusted open models for on-chip spiral inductors, so open silicon stuck to digital. [&#8230;]"
   },
   {
     "title": "ICYMI Python on Microcontrollers Newsletter: CircuitPython and MicroPython IDEs Grow, Kattni Rembor Chairing PyCon US and More!",
@@ -194,13 +222,6 @@
     "date": "2026-07-13",
     "url": "https://hackaday.com/2026/07/13/get-your-esp32-sunny-side-up-with-this-solar-dev-board/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/solar_board_v1.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are a lot of ESP32-based development boards out there&#8211; and why not? It&#8217;s a versatile chip that can be used in all sorts of situations, and people want boards <a class=\"read-more\" href=\"https://hackaday.com/2026/07/13/get-your-esp32-sunny-side-up-with-this-solar-dev-board/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Using Your Own RBMK Reactor Control Center At Home",
-    "source": "Hackaday",
-    "date": "2026-07-13",
-    "url": "https://hackaday.com/2026/07/13/using-your-own-rbmk-reactor-control-center-at-home/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/skala_rbmk_control_setup_chornobyl_family_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>To give people the most intimate RBMK experience, the [Chornobyl Family] has been working tirelessly at not only replicating the original RBMK reactor control room and its SKALA industrial control <a class=\"read-more\" href=\"https://hackaday.com/2026/07/13/using-your-own-rbmk-reactor-control-center-at-home/\">&#8230;read more</a>"
   },
   {
     "title": "Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery",
@@ -285,20 +306,6 @@
     "date": "2026-07-13",
     "url": "https://blog.adafruit.com/2026/07/13/micropython-on-the-super-nintendo/",
     "summary": "Fabian Kübler writes about a fable of Python on the Super Nintendo. Python on the SNES has been a dream of mine for a long time. My brother and I shared a SNES as kids, and Python was my professional home for a big part of my career. These days I barely touch code anymore, [&#8230;]"
-  },
-  {
-    "title": "Retro68: a GCC-based cross-compilation environment for 68K and PowerPC Macs",
-    "source": "Adafruit",
-    "date": "2026-07-13",
-    "url": "https://blog.adafruit.com/2026/07/13/retro68-a-gcc-based-cross-compilation-environment-for-68k-and-powerpc-macs/",
-    "summary": "Retro68 is a GCC-based cross-compilation environment for 68K and PowerPC Macs. Why? Because there is no decent C++23 Compiler targeting Apple&#8217;s System 6. If that&#8217;s not a sufficient reason for you, I&#8217;m sure you will find something more useful elsewhere. There are instructions for compiling on Apple, Windows, Docker and Nix. See the details on [&#8230;]"
-  },
-  {
-    "title": "Putting Linux on the classic Atari Jaguar console",
-    "source": "Adafruit",
-    "date": "2026-07-13",
-    "url": "https://blog.adafruit.com/2026/07/13/linux-on-the-atari-jaguar/",
-    "summary": "Released in North America in November of 1993, the Atari Jaguar promised to be the new cool kid in the block thanks to its (Highly debated) 64 bits of Motorola 68000 power. The console itself ended up being a commercial disaster, even after the release of the CD addon, the Jaguar CD; which managed to [&#8230;]"
   },
   {
     "title": "Next level motion detection: Panasonic Industry enhances its PIR sensor portfolio with PaPIRs+",
@@ -418,12 +425,5 @@
     "date": "2026-07-07",
     "url": "https://www.embedded.com/how-nor-flash-memory-safety-features-protect-linux-systems/",
     "summary": "<p>Utilizing the safety features in NOR flash memories such as error correction and data integrity checks can enhance the reliability and integrity of Linux-based applications, particularly in safety-critical domains such as automotive (e.g., in-vehicle infotainment, advanced-driver assistance systems, telematics) and industrial automation (e.g., HMI panels). Linux, an open-source operating system, maintains initiatives that support safety-critical [...]</p>\n<p>The post <a href=\"https://www.embedded.com/how-nor-flash-memory-safety-features-protect-linux-systems/\">How NOR Flash Memory Safety Features Protect Linux Systems</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Syslogic, Ark Vision Partner on Rugged Edge AI Hardware",
-    "source": "Embedded.com",
-    "date": "2026-07-07",
-    "url": "https://www.embedded.com/syslogic-ark-vision-partner-on-rugged-edge-ai-hardware/",
-    "summary": "<p>Syslogic and Ark Vision Systems have announced a collaboration to deliver a fully integrated hardware platform for edge AI applications. The joint solution combines Ark Vision Systems' GMSL2 machine vision cameras with Syslogic's rugged embedded computers, providing developers with a ready-to-deploy hardware foundation for industrial automation, agriculture, mobility, robotics, and other environments that require reliable [...]</p>\n<p>The post <a href=\"https://www.embedded.com/syslogic-ark-vision-partner-on-rugged-edge-ai-hardware/\">Syslogic, Ark Vision Partner on Rugged Edge AI Hardware</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
