@@ -1,5 +1,55 @@
 [
   {
+    "repo": "awslabs/awsome-distributed-ai",
+    "stars": 458,
+    "language": "Shell",
+    "description": "Collection of best practices, reference architectures, model training examples and utilities to train large models on AWS. ",
+    "url": "https://github.com/awslabs/awsome-distributed-ai",
+    "date": "2026-07-14",
+    "topic": "physical-ai",
+    "score": 183.3
+  },
+  {
+    "repo": "commaai/openpilot",
+    "stars": 63104,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-07-14",
+    "topic": "robotics",
+    "score": 25241.7
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7667,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-07-14",
+    "topic": "robot-learning",
+    "score": 3066.9
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3842,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-07-14",
+    "topic": "embodied-ai",
+    "score": 1536.9
+  },
+  {
+    "repo": "softmata/horus",
+    "stars": 389,
+    "language": "Rust",
+    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
+    "url": "https://github.com/softmata/horus",
+    "date": "2026-07-14",
+    "topic": "humanoid",
+    "score": 155.7
+  },
+  {
     "repo": "copper-project/copper-rs",
     "stars": 1405,
     "language": "Rust",
@@ -18,26 +68,6 @@
     "date": "2026-07-13",
     "topic": "physical-ai",
     "score": 355.7
-  },
-  {
-    "repo": "awslabs/awsome-distributed-ai",
-    "stars": 458,
-    "language": "Shell",
-    "description": "Collection of best practices, reference architectures, model training examples and utilities to train large models on AWS. ",
-    "url": "https://github.com/awslabs/awsome-distributed-ai",
-    "date": "2026-07-13",
-    "topic": "physical-ai",
-    "score": 183.3
-  },
-  {
-    "repo": "commaai/openpilot",
-    "stars": 63104,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-07-13",
-    "topic": "robotics",
-    "score": 25241.7
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -61,13 +91,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14194,
+    "stars": 14193,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-07-13",
     "topic": "robotics",
-    "score": 5677.7
+    "score": 5677.3
   },
   {
     "repo": "kornia/kornia",
@@ -90,16 +120,6 @@
     "score": 4450.5
   },
   {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7667,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-07-13",
-    "topic": "robot-learning",
-    "score": 3066.9
-  },
-  {
     "repo": "RLinf/RLinf",
     "stars": 4095,
     "language": "Python",
@@ -108,16 +128,6 @@
     "date": "2026-07-13",
     "topic": "embodied-ai",
     "score": 1638.1
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3842,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-07-13",
-    "topic": "embodied-ai",
-    "score": 1536.9
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
@@ -131,13 +141,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2651,
+    "stars": 2652,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-07-13",
     "topic": "embodied-ai",
-    "score": 1060.5
+    "score": 1060.9
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -151,13 +161,13 @@
   },
   {
     "repo": "StanfordVL/BEHAVIOR-1K",
-    "stars": 1567,
+    "stars": 1568,
     "language": "Python",
     "description": "BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx",
     "url": "https://github.com/StanfordVL/BEHAVIOR-1K",
     "date": "2026-07-13",
     "topic": "embodied-ai",
-    "score": 626.9
+    "score": 627.3
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -201,13 +211,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5551,
+    "stars": 5552,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-13",
     "topic": "world-model",
-    "score": 2220.5
+    "score": 2220.9
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -228,16 +238,6 @@
     "date": "2026-07-13",
     "topic": "world-model",
     "score": 355.7
-  },
-  {
-    "repo": "softmata/horus",
-    "stars": 389,
-    "language": "Rust",
-    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
-    "url": "https://github.com/softmata/horus",
-    "date": "2026-07-13",
-    "topic": "humanoid",
-    "score": 155.7
   },
   {
     "repo": "Tsinghua-MARS-Lab/OMG",
@@ -301,23 +301,23 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16008,
+    "stars": 16009,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 6403.3
+    "score": 6403.7
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 8087,
+    "stars": 8088,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 3234.9
+    "score": 3235.3
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
@@ -441,13 +441,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82444,
+    "stars": 82446,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 32977.7
+    "score": 32978.5
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
@@ -521,23 +521,33 @@
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",
-    "stars": 3400,
+    "stars": 3401,
     "language": "Python",
     "description": "Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction.",
     "url": "https://github.com/huangjunsen0406/py-xiaozhi",
     "date": "2026-07-04",
     "topic": "embodied-ai",
-    "score": 1360.1
+    "score": 1360.5
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44226,
+    "stars": 44225,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-07-03",
     "topic": "robotics",
-    "score": 17690.5
+    "score": 17690.1
+  },
+  {
+    "repo": "amazon-far/abc",
+    "stars": 264,
+    "language": "Python",
+    "description": "ABC: Scalable Behavior Cloning with Open Data, Training, and Evaluation",
+    "url": "https://github.com/amazon-far/abc",
+    "date": "2026-07-02",
+    "topic": "vla",
+    "score": 105.7
   },
   {
     "repo": "Tavish9/any4lerobot",
@@ -848,15 +858,5 @@
     "date": "2026-06-14",
     "topic": "physical-ai",
     "score": 89.7
-  },
-  {
-    "repo": "shihao1895/MemoryVLA",
-    "stars": 300,
-    "language": "Python",
-    "description": "[ICLR 2026] Code of \"MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation\"",
-    "url": "https://github.com/shihao1895/MemoryVLA",
-    "date": "2026-06-13",
-    "topic": "vla",
-    "score": 120.1
   }
 ]

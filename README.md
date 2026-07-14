@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-13 23:39 UTC
+Last Updated: 2026-07-14 01:09 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-14 | Semis For Important People | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/semis-for-important-people-2026-07/) |
 | 2026-07-13 | Get your ESP32 Sunny Side Up with this Solar Dev Board | Hackaday | [link](https://hackaday.com/2026/07/13/get-your-esp32-sunny-side-up-with-this-solar-dev-board/) |
 | 2026-07-13 | Using Your Own RBMK Reactor Control Center At Home | Hackaday | [link](https://hackaday.com/2026/07/13/using-your-own-rbmk-reactor-control-center-at-home/) |
 | 2026-07-13 | It’s A Spectrum, With An RP2350 ULA | Hackaday | [link](https://hackaday.com/2026/07/13/its-a-spectrum-with-an-rp2350-ula/) |
@@ -58,49 +59,48 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-13 | DIY Steam Controller Puck Offers Xbox, Switch, PlayStation Emulation Modes | Hackaday | [link](https://hackaday.com/2026/07/13/diy-steam-controller-puck-offers-xbox-switch-playstation-emulation-modes/) |
 | 2026-07-13 | Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery | CNX Software | [link](https://www.cnx-software.com/2026/07/13/ambient-scientific-gpx10-pro-mcu-delivers-years-of-always-on-ai-on-a-coin-cell-battery/) |
 | 2026-07-13 | WisMesh Station Review – Telemetry, MQTT, and Grafana tested on a Raspberry Pi 4-based Meshtastic gateway | CNX Software | [link](https://www.cnx-software.com/2026/07/13/wismesh-station-review-telemetry-mqtt-and-grafana-tested-on-a-raspberry-pi-4-based-meshtastic-gateway/) |
-| 2026-07-13 | Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board | CNX Software | [link](https://www.cnx-software.com/2026/07/13/raspberry-pi-gets-10base-t1s-t1l-single-pair-ethernet-spe-hat-board/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-10 | PanoWorld: Real-World Panoramic Generation | [link](https://arxiv.org/pdf/2607.09661v1) |
-| 2026-07-10 | Scalable Visual Pretraining for Language Intelligence | [link](https://arxiv.org/pdf/2607.09657v1) |
-| 2026-07-10 | Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks | [link](https://arxiv.org/pdf/2607.09650v1) |
-| 2026-07-10 | B-spline Policy: Accelerating Manipulation Policies via B-spline Action Representations | [link](https://arxiv.org/pdf/2607.09648v1) |
-| 2026-07-10 | PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers | [link](https://arxiv.org/pdf/2607.09590v1) |
-| 2026-07-10 | CoDiMAD: Diffusion-Based Privileged Distillation for Communication-Free Multi-Robot Coordination | [link](https://arxiv.org/pdf/2607.09587v1) |
-| 2026-07-10 | Promptable Concept Segmentation from Above: Evaluating SAM 3's Zero-Shot and One-Shot Capabilities in Remote Sensing | [link](https://arxiv.org/pdf/2607.09583v1) |
-| 2026-07-10 | A censoring-aware target interface for tabular foundation models in survival prediction | [link](https://arxiv.org/pdf/2607.09577v1) |
-| 2026-07-10 | CORAL-AUV: CFD Oriented Reinforcement Learning for Autonomous Underwater Vehicles | [link](https://arxiv.org/pdf/2607.09557v1) |
-| 2026-07-10 | Task-Adaptive Design of Modular Aerial Manipulators Under Airflow Exposure Constraints | [link](https://arxiv.org/pdf/2607.09548v1) |
+| 2026-07-12 | Mapping Pamir: Multi-Session Visual-Inertial SLAM and 3D Reconstruction of an Underwater Shipwreck | [link](https://arxiv.org/pdf/2607.10925v1) |
+| 2026-07-12 | A Single Diffusion-Policy Controller for Multi-Task Block Pushing with Zero-Shot Sim-to-Real Transfer | [link](https://arxiv.org/pdf/2607.10892v1) |
+| 2026-07-12 | 3D Scene Graph Prediction: Generating Hierarchical Models from Partially Observed Environments | [link](https://arxiv.org/pdf/2607.10879v1) |
+| 2026-07-12 | X-GuideAR: An Augmented Reality Framework to Mitigate Radiation Exposure during Fluoroscopic Guidance | [link](https://arxiv.org/pdf/2607.10873v1) |
+| 2026-07-12 | Learning To Focus: Anatomy-Guided Attention Regularization for Medical Image Classification | [link](https://arxiv.org/pdf/2607.10851v1) |
+| 2026-07-12 | D-SafeMPC: Diffusion-Driven Safe Model Predictive Control with Discrete-Time Control Barrier Functions | [link](https://arxiv.org/pdf/2607.10842v1) |
+| 2026-07-12 | Automated Stealthy Wear-Out Attack on Digital Twins With Deep Reinforcement Learning | [link](https://arxiv.org/pdf/2607.10830v1) |
+| 2026-07-12 | Learning Roller-Skating Motions of Humanoid Robots Based on Adversarial Motion Priors | [link](https://arxiv.org/pdf/2607.10815v1) |
+| 2026-07-12 | Compositional Context Fine-Tuning Vision-Language Model for Complex Assembly Action Understanding from Videos | [link](https://arxiv.org/pdf/2607.10797v1) |
+| 2026-07-12 | Is Energy Guidance All You Need? Training-Free Norm Injection for Driving World Models | [link](https://arxiv.org/pdf/2607.10781v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-14 | RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step40000_aug_true | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step40000_aug_true) |
+| 2026-07-14 | RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step30000_aug_true | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step30000_aug_true) |
+| 2026-07-14 | RobotisSW/Task_900006_900007_Collect_PeanutMix_To_Box_1110_UKH_merged_act_80_real | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900006_900007_Collect_PeanutMix_To_Box_1110_UKH_merged_act_80_real) |
+| 2026-07-14 | RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step20000_aug_true | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step20000_aug_true) |
+| 2026-07-14 | RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step10000_aug_true | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_dispose_general_waste_box_lerobot_chunk20_step10000_aug_true) |
+| 2026-07-14 | RobotisSW/Task_900006_900007_Collect_PeanutMix_To_Box_1110_UKH_merged_act_80k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900006_900007_Collect_PeanutMix_To_Box_1110_UKH_merged_act_80k) |
+| 2026-07-14 | zhijieq/directional-navigation | 0 | 0 | [link](https://huggingface.co/zhijieq/directional-navigation) |
+| 2026-07-13 | wonder-robot/dot_piper_v3_22k | 0 | 0 | [link](https://huggingface.co/wonder-robot/dot_piper_v3_22k) |
 | 2026-07-13 | wijan/Robot-Action-Planner-GGUF | 68 | 0 | [link](https://huggingface.co/wijan/Robot-Action-Planner-GGUF) |
 | 2026-07-13 | wijan/Robot-Action-Planner | 26 | 0 | [link](https://huggingface.co/wijan/Robot-Action-Planner) |
-| 2026-07-13 | wonder-robot/dot_piper_v2_fresh3 | 19 | 0 | [link](https://huggingface.co/wonder-robot/dot_piper_v2_fresh3) |
-| 2026-07-13 | HarrisonPENG/M2W-VLA-RoboTwin | 67 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
-| 2026-07-13 | YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi) |
-| 2026-07-13 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
-| 2026-07-13 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
-| 2026-07-13 | XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR | 0 | 1 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR) |
-| 2026-07-13 | china-sae-robotics/gr00t_n16_arena_libero_all_suites_rel_rotvec | 0 | 0 | [link](https://huggingface.co/china-sae-robotics/gr00t_n16_arena_libero_all_suites_rel_rotvec) |
-| 2026-07-13 | china-sae-robotics/gr00t_n16_gr1_sequential_task | 0 | 0 | [link](https://huggingface.co/china-sae-robotics/gr00t_n16_gr1_sequential_task) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| copper-project/copper-rs | 1405 | Rust | 562.1 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 889 | Python | 355.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 458 | Shell | 183.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63104 | Python | 25241.7 | [link](https://github.com/commaai/openpilot) |
+| isaac-sim/IsaacLab | 7667 | Python | 3066.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| dora-rs/dora | 3842 | Rust | 1536.9 | [link](https://github.com/dora-rs/dora) |
+| softmata/horus | 389 | Rust | 155.7 | [link](https://github.com/softmata/horus) |
+| copper-project/copper-rs | 1405 | Rust | 562.1 | [link](https://github.com/copper-project/copper-rs) |
+| mosaico-labs/mosaico | 889 | Python | 355.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | AtsushiSakai/PythonRobotics | 30026 | Python | 12010.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | ArduPilot/ardupilot | 15460 | C++ | 6184.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14194 | C++ | 5677.7 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11273 | Python | 4509.3 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11126 | Rust | 4450.5 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7667 | Python | 3066.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| google-deepmind/mujoco | 14193 | C++ | 5677.3 | [link](https://github.com/google-deepmind/mujoco) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,6 +119,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-14 | 'Listing is a must': Chinese humanoid startups are rushing to launch IPOs - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjNZV3Q0Y1k0N1pSZFpUQzZ1ZS1OeUpqa09VTm44TWJBSG1ReWZfY1ZwMnRLNTB3NF9DOVQ1MXIwSkI1Zms1a21yT0lLT0hTZXBldUxZWHJFWHpTRENWcXlSVTVCakFXamhLNWZkajlNd1p2MmtWU1ZhUmItMUNkVzlid09zZ9IBiwFBVV95cUxQUkI1aGFUdGU3T3o5Xy1TckFfNllaeGN2UTlVMFBDd2tfTzJOd1JUaFo1WTlmZXJTSmtOSFp4cUVZLXcxMUxhd0xCZlFxV1Z3Q3BzQVlfTElrZUdRQk9KMHdOU3ZCTDJYR21Ld0NmcVBLYkh1NnlfX1pZVWRNMXJhT3lpOG9pWUV4UXhN?oc=5) |
+| 2026-07-14 | Chinese robot startup LimX Dynamics raises $200m to improve autonomy - Nikkei Asia | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjV5T1diZ3RFNFBiX0RZdThkNnQtLTNXLXVZRi1NdzhnWlhoQXdwTEN2c293VEdHTHBRUWhHV2M0ejNTVlFyYWlJQW5sdTZmcmxldEtmMDhoUV9WRjB1OGNHYzNXZkRvSkJ2NF92aEIwM19UdWxfZkllS25VV0c2Y21JaU1tbVM1N29nc0hRNXRDem5pUXlQVzVpdWJ1NkZ0aVpCVDB3elpUNVEzd01yZg?oc=5) |
+| 2026-07-13 | Spatial AI startup Augmodo raises $21M to expand beyond retail stores - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVkR6YWJXQjNVTV9ONE5KTmRhVm5XbW04ekduY2h5WW9LX3ZtUU5GQ0VDS29wdE0xOUl1VjFza21mVjBlUUlKTVZXbzN6S3VIZTJlb0pKQlR0eDUzSUVQOUFsTUVUa0VIX1o4djNRSGVFaU5tckhaY0J1eFBOREt6WEpzOTE4OFhjcXpUMDR5MC1zWDR3SmJoYTVHMF9paHZlOTcwOA?oc=5) |
 | 2026-07-13 | Augmodo raises $21M to push its spatial AI beyond just retail toward the broader physical workforce - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmxON2h1YkZRRUJqakJCQ0VXb0tZMV9LcVJlWTlTLXhtYmx0Y0lqVHJ1V20xYnZiV0FiNlZVdXJmcVl2MmhOZGNhZkdQLTZNWTZGWDNvcmpnRjRERmtyYlVPNjYtcDM4RlFmS3I5eHFXTV9HUmpJbnkxN0JZeWpjZXhadkhZcF9tX202aldvTnhqcXctdTVOYWx0bFZLaFNWbExFZVdZWGtycDcxOF85cUd3c3hwbVpITEM5QlZzSHd5cFZyZ25UbA?oc=5) |
 | 2026-07-13 | Humanoid robot startup Holiday Robotics announced on the 13th that it has attracted a total of 155 b.. - 매일경제 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5ZVc4WUZfaVVBNGNOYUd2Vy1KczQ3OVlhcHNONlBYMmJIeWxFR25rYU9LV0ktcGJmSHNRWmNtQ0laUjA1ZW9ES0RWWQ?oc=5) |
 | 2026-07-12 | Korea’s Physical AI Edge Now Depends on Certification, Liability, and Trust - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTE8zWjdOZGIyUlVua2s3LVJDeXlhRW04Y1ZDbWNaMTFWTmhVb3QyZFZCa0ItbUI4Q0RqdW9vMlVwZG0wNi1PWUhFdlNPSHlwOUp1RTdXU1p1NjU0SEFjeHpISFRQSmRfemhUMVNySjdLbURmR2I3MFBGemZxZjZOYWs?oc=5) |
@@ -126,9 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-10 | LG CNS partners with UK's PhysicsX to develop industrial AI model - The Korea Herald | physical ai startup | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHX01INnhzTXA1S3dlSFNRUl9jVEJlWUg2TjZuSkNGd3Rxdm1ONXg3YjgyR05FZ21fOEdPQkVvSGowMUU3aWVhdVEweVJpc0V4aWI1N2ptWQ?oc=5) |
 | 2026-07-10 | European startup unveils humanoid robot design, real-time learning system - digitimes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXE3bmNjWmRpb1liS0xjVHRhaDlsVFFreDU0dVhOUW1wNUtqZHF3VTdWQkpMSlFmdnRfclJwaVFNeXV5OTV1aUFqSC1ZNzk0eFp4Q3YycWZpcjZCZW52SEtRTnVkLWsyenZfbjd2cXNNbUJ0ZTFQUVg4Um9DWTNpZDlZdW5WUkp5a0cyS0hDWGd4Y0U?oc=5) |
 | 2026-07-09 | Reservoir Farms Launches Pilot in Arizona for Physical AI Innovation in Specialty Crops - TMX Newsfile | physical ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWFRVDFqM0U0Z0pxTm9xSEt2UGxtZFlFQ2dWSFQ0dFNVdk9lR1V1cEVaVmd2ay1BMElqX0F4Mmk3MTh2T2psc1JmemQyN2Q0djlUUjNndktnWUo5cjctY2FhM2VRTzVOSEw4RzZrSTJXZGY0MEd6d2s3T1hoR0dRRlM5cXM5S2Z2VVJHR3JhNTRuVTNHbXh1djg0MW9lZk1wYnZCZVRfZXBIVUNycHh6SnN1X3NBQkptRE9ta21RbWt4VkNnZ0JjdmZ5Yw?oc=5) |
-| 2026-07-09 | General Intuition just raised $320M on a thesis that sounds absurd — that video game data, not real robot telemetry, will produce the GPT of embodied AI - Silicon Canals | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelpEeVFMcnR5UHhTRmJDYmNzcmlGUTNZLVVDc2w5cThmcjV3ZXNGcm43b2IxMjBWZjdFWFB4OTRyQ3RVUzZPcWs3SkNsdjIxYWtfUjJMY05xYzdHNS1aZGEtWWFQaExpdEQtVFM1ZU5iMkpMT3NGNWhFbGhHZkE0MmVNeDRPa2cyd3p1aGJnVms1azhPUEt1cllYb0V6NGQzS1VZaWFTMVpxemNRR2FBMmRKNFd4TmpPRG1Ea1c5Vm00NzdJaWh5VUFYMWZ2WV9ZaXZWNUZTT3RQdGx2RXlRZHFHdVk1clBnSVdDdUFrODN3dUR1LVBQSHBSSm5fTWJUazlOckNlcHFuN0E?oc=5) |
-| 2026-07-09 | How Can Mistral's AI Transform Robot Navigation? - Analytics India Magazine | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2dRUnJ2TG5aazBHLVRhTW5Nay1LZ2NjSEoyLVE4Y1Z1aVhmb2VlNHFpM3JGUXJOcWJJU0dhb3d6bmw1ejVIaXpEc1U0cnNuc2FyZmZBazVRc2FiT3pMVUh6ZmVJZUpDdFVhUjZwd3VqV3JQcUJuLVFLaFhKZnNnbU5YblZXSWlJZmk1d3ZMQi1JbkhBX3pzR09SVmxhRi1GNVpQV3RmQVFuU01OSk5lbVNpQkRsTVZtS3hj?oc=5) |
-| 2026-07-09 | Mitsubishi joins global robot race, plans to manufacture, deploy humanoid workers in 2027 - Automotive News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDZsb05XSXRXQ3pYMEhteGtIWkFSejR0d2ZKUHp2aWx4ME9BR3FiR0VjazAyRHVJV2xtRzJLSHY0WFJGMkZXRWg2dU0wLVlmOTdUZk1FVU5qLVZFMmdqVDg5amllSWR2ZDBsSGJHLXprRThtRmZ2UW10cTVXS2dOQ0t1azZMMDI0andUcmVQUHNCbkdxdGI0eTRFeHY?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

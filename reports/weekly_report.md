@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-13 23:39 UTC
+Generated: 2026-07-14 01:09 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-10 | PanoWorld: Real-World Panoramic Generation | [link](https://arxiv.org/pdf/2607.09661v1) |
-| 2026-07-10 | Scalable Visual Pretraining for Language Intelligence | [link](https://arxiv.org/pdf/2607.09657v1) |
-| 2026-07-10 | Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks | [link](https://arxiv.org/pdf/2607.09650v1) |
-| 2026-07-10 | B-spline Policy: Accelerating Manipulation Policies via B-spline Action Representations | [link](https://arxiv.org/pdf/2607.09648v1) |
-| 2026-07-10 | PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers | [link](https://arxiv.org/pdf/2607.09590v1) |
+| 2026-07-12 | Mapping Pamir: Multi-Session Visual-Inertial SLAM and 3D Reconstruction of an Underwater Shipwreck | [link](https://arxiv.org/pdf/2607.10925v1) |
+| 2026-07-12 | A Single Diffusion-Policy Controller for Multi-Task Block Pushing with Zero-Shot Sim-to-Real Transfer | [link](https://arxiv.org/pdf/2607.10892v1) |
+| 2026-07-12 | 3D Scene Graph Prediction: Generating Hierarchical Models from Partially Observed Environments | [link](https://arxiv.org/pdf/2607.10879v1) |
+| 2026-07-12 | X-GuideAR: An Augmented Reality Framework to Mitigate Radiation Exposure during Fluoroscopic Guidance | [link](https://arxiv.org/pdf/2607.10873v1) |
+| 2026-07-12 | Learning To Focus: Anatomy-Guided Attention Regularization for Medical Image Classification | [link](https://arxiv.org/pdf/2607.10851v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82444 | 32977.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82446 | 32978.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63104 | 25241.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44226 | 17690.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44225 | 17690.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30026 | 12010.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16008 | 6403.3 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16009 | 6403.7 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,8 +41,8 @@ Generated: 2026-07-13 23:39 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-14 | 'Listing is a must': Chinese humanoid startups are rushing to launch IPOs - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjNZV3Q0Y1k0N1pSZFpUQzZ1ZS1OeUpqa09VTm44TWJBSG1ReWZfY1ZwMnRLNTB3NF9DOVQ1MXIwSkI1Zms1a21yT0lLT0hTZXBldUxZWHJFWHpTRENWcXlSVTVCakFXamhLNWZkajlNd1p2MmtWU1ZhUmItMUNkVzlid09zZ9IBiwFBVV95cUxQUkI1aGFUdGU3T3o5Xy1TckFfNllaeGN2UTlVMFBDd2tfTzJOd1JUaFo1WTlmZXJTSmtOSFp4cUVZLXcxMUxhd0xCZlFxV1Z3Q3BzQVlfTElrZUdRQk9KMHdOU3ZCTDJYR21Ld0NmcVBLYkh1NnlfX1pZVWRNMXJhT3lpOG9pWUV4UXhN?oc=5) |
+| 2026-07-14 | Chinese robot startup LimX Dynamics raises $200m to improve autonomy - Nikkei Asia | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjV5T1diZ3RFNFBiX0RZdThkNnQtLTNXLXVZRi1NdzhnWlhoQXdwTEN2c293VEdHTHBRUWhHV2M0ejNTVlFyYWlJQW5sdTZmcmxldEtmMDhoUV9WRjB1OGNHYzNXZkRvSkJ2NF92aEIwM19UdWxfZkllS25VV0c2Y21JaU1tbVM1N29nc0hRNXRDem5pUXlQVzVpdWJ1NkZ0aVpCVDB3elpUNVEzd01yZg?oc=5) |
+| 2026-07-13 | Spatial AI startup Augmodo raises $21M to expand beyond retail stores - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVkR6YWJXQjNVTV9ONE5KTmRhVm5XbW04ekduY2h5WW9LX3ZtUU5GQ0VDS29wdE0xOUl1VjFza21mVjBlUUlKTVZXbzN6S3VIZTJlb0pKQlR0eDUzSUVQOUFsTUVUa0VIX1o4djNRSGVFaU5tckhaY0J1eFBOREt6WEpzOTE4OFhjcXpUMDR5MC1zWDR3SmJoYTVHMF9paHZlOTcwOA?oc=5) |
 | 2026-07-13 | Augmodo raises $21M to push its spatial AI beyond just retail toward the broader physical workforce - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmxON2h1YkZRRUJqakJCQ0VXb0tZMV9LcVJlWTlTLXhtYmx0Y0lqVHJ1V20xYnZiV0FiNlZVdXJmcVl2MmhOZGNhZkdQLTZNWTZGWDNvcmpnRjRERmtyYlVPNjYtcDM4RlFmS3I5eHFXTV9HUmpJbnkxN0JZeWpjZXhadkhZcF9tX202aldvTnhqcXctdTVOYWx0bFZLaFNWbExFZVdZWGtycDcxOF85cUd3c3hwbVpITEM5QlZzSHd5cFZyZ25UbA?oc=5) |
 | 2026-07-13 | Humanoid robot startup Holiday Robotics announced on the 13th that it has attracted a total of 155 b.. - 매일경제 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5ZVc4WUZfaVVBNGNOYUd2Vy1KczQ3OVlhcHNONlBYMmJIeWxFR25rYU9LV0ktcGJmSHNRWmNtQ0laUjA1ZW9ES0RWWQ?oc=5) |
-| 2026-07-12 | Korea’s Physical AI Edge Now Depends on Certification, Liability, and Trust - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTE8zWjdOZGIyUlVua2s3LVJDeXlhRW04Y1ZDbWNaMTFWTmhVb3QyZFZCa0ItbUI4Q0RqdW9vMlVwZG0wNi1PWUhFdlNPSHlwOUp1RTdXU1p1NjU0SEFjeHpISFRQSmRfemhUMVNySjdLbURmR2I3MFBGemZxZjZOYWs?oc=5) |
-| 2026-07-10 | ‘Physical AI is Europe’s last chance to be useful to the world’ - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCRkdaWU95QUp1UkRnTVBicHlDTm05M0ZWeURLZHFrQ216ZWZsMFBfMWtOV2w1MUJoWG5Wb1g2NTcxMzM5V2FsSDEtdUJFbnQwbDRDQk5iMERvQQ?oc=5) |
-| 2026-07-10 | LG CNS partners with UK's PhysicsX to develop industrial AI model - The Korea Herald | physical ai startup | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHX01INnhzTXA1S3dlSFNRUl9jVEJlWUg2TjZuSkNGd3Rxdm1ONXg3YjgyR05FZ21fOEdPQkVvSGowMUU3aWVhdVEweVJpc0V4aWI1N2ptWQ?oc=5) |
