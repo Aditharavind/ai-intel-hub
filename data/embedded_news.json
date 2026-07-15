@@ -1,5 +1,12 @@
 [
   {
+    "title": "AIM-ing For a More Open Platform Than Discord",
+    "source": "Hackaday",
+    "date": "2026-07-15",
+    "url": "https://hackaday.com/2026/07/14/aim-ing-for-a-more-open-platform-than-discord/",
+    "summary": "<div><img alt=\"The OpenOscar Server in terminal, with Pidgin connected\" class=\"attachment-large size-large wp-post-image\" height=\"360\" src=\"https://hackaday.com/wp-content/uploads/2026/07/OpenOscar.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Do you remember AIM? It may suprize you to hear that AOL&#8217;s instant messanger was actually supported all the way up to 2017&#8211; two years after Discord launched. Unlike Discord, <a class=\"read-more\" href=\"https://hackaday.com/2026/07/14/aim-ing-for-a-more-open-platform-than-discord/\">&#8230;read more</a>"
+  },
+  {
     "title": "Benchmarking Repairability Scores with an Asus Tablet",
     "source": "Hackaday",
     "date": "2026-07-15",
@@ -7,11 +14,53 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"470\" src=\"https://hackaday.com/wp-content/uploads/2026/07/asus_rog_flow_perfect_repairability_score_ifixit_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>A few years ago, France introduced a mandatory repairability score for consumer goods like laptops and tablets. It involves five criteria that range from documentation and availability of spare parts <a class=\"read-more\" href=\"https://hackaday.com/2026/07/14/benchmarking-repairability-scores-with-an-asus-tablet/\">&#8230;read more</a>"
   },
   {
+    "title": "Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux",
+    "source": "CNX Software",
+    "date": "2026-07-15",
+    "url": "https://www.cnx-software.com/2026/07/15/reverse-engineering-brings-rk3576-npu-support-to-open-source-rocket-driver-for-mainline-linux/",
+    "summary": "<div><img alt=\"Rockchip RK3576 open source NPU driver\" class=\"attachment-medium size-medium wp-post-image\" height=\"520\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Rockchip-RK3576-open-source-NPU-driver-720x520.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Back in 2024, we noted that the open-source driver for RK3588&#8217;s NPU by Tomeu Vizoso delivered decent performance for object detection. Since then, good progress has been made, and it&#8217;s now known as the Rocket driver in mainline Linux. However, the Rockchip RK3576 SoC is not supported by the Rocket driver in mainline yet, despite sharing a similar NPU. The good news is that Ga Hing Woo has been working on mainline Linux support for the Rockchip RK3576 NPU using the Rocket driver stack and has tested the updates on the Radxa ROCK 4D running Linux 7.1-rc5. This required some serious reverse-engineering work due to hidden registers not documented in the TRM. Ga Hing Woo (also written as Jiaxing Hu) sent us an email explaining some of the challenges: Single int8 convolution now comes out byte-exact against a CPU reference on the open stack. Getting there meant reverse-engineering the compute [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/15/reverse-engineering-brings-rk3576-npu-support-to-open-source-rocket-driver-for-mainline-linux/\">Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Big Savings Alert! AIVON PCBA Monthly SMT Special Deals + Free Shipping (Sponsored)",
     "source": "CNX Software",
     "date": "2026-07-15",
     "url": "https://www.cnx-software.com/2026/07/15/big-savings-alert-aivon-pcba-monthly-smt-special-deals-free-shipping/",
     "summary": "<div><img alt=\"AVION PCBA Special Offers July 2026\" class=\"attachment-medium size-medium wp-post-image\" height=\"390\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/AVION-PCBA-Special-Offers-July-2026-720x390.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>In today’s fast-paced electronics industry, bringing innovative products from concept to market quickly and cost-effectively is more important than ever. AIVON, a trusted PCB manufacturing expert with over 15 years of experience in high-quality PCBA production, understands these challenges deeply. To support engineers, hardware startups, makers, and established electronics companies, AIVON is launching its Monthly PCBA Deals for low-cost PCBA prototyping starting at $35 with free shipping. The factory-direct promotions are designed to significantly reduce prototyping and small-batch production costs while maintaining strict quality standards and professional manufacturing support. Limited-Time SMT Assembly Offers (Open to All Customers) $35 Super Prototype Special &#8211; Ideal for fast validation and early development Order quantity: ≤ 10pcs $75 Small-Batch Power Deal &#8211; Perfect for pilot runs and small production Order quantity: ≤ 30pcs Each user can enjoy this deal twice per month $30 Shipping Relief Applies to SMT orders ≤ 30pcs Each user can [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/15/big-savings-alert-aivon-pcba-monthly-smt-special-deals-free-shipping/\">Big Savings Alert! AIVON PCBA Monthly SMT Special Deals + Free Shipping (Sponsored)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Arm to expand use of Arteris security technology",
+    "source": "Electronics Weekly",
+    "date": "2026-07-15",
+    "url": "https://www.electronicsweekly.com/news/business/arm-to-embed-arteris-2026-07/",
+    "summary": "<p>&#160; Arm is to expand its adoption of Arteris’ hardware security assurance product, Cycuity Radix, on select Arm CPU designs. Arteris’ technology helps identify and mitigate potential security weaknesses and vulnerabilities, ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/arm-to-embed-arteris-2026-07/\">Arm to expand use of Arteris security technology</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "UMC shipping Sipho wafers",
+    "source": "Electronics Weekly",
+    "date": "2026-07-15",
+    "url": "https://www.electronicsweekly.com/news/business/umc-ships-sipho-2026-07/",
+    "summary": "<p>SILITH Technology, a silicon photonics fabless company, and UMC have announced the first mass-production wafer delivery of photonic ICs from UMC’s Singapore fab. The collaboration combines SILITH&#8217;s silicon photonics innovation ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/umc-ships-sipho-2026-07/\">UMC shipping Sipho wafers</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "NextGO Epi raises €2m for Gallium Oxide development",
+    "source": "Electronics Weekly",
+    "date": "2026-07-15",
+    "url": "https://www.electronicsweekly.com/news/business/epi-raises-e2m-for-gallium-oxide-development-2026-07/",
+    "summary": "<p>NextGOEpi, a Berlin-based deep tech startup spun off from Leibniz-Institut für Kristallzüchtung (IKZ), producing Gallium Oxide epitaxial wafers for next-generation power electronics, has secured a €2 million pre-seed funding round. ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/epi-raises-e2m-for-gallium-oxide-development-2026-07/\">NextGO Epi raises €2m for Gallium Oxide development</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "element14 offers products for free in return for reviews",
+    "source": "Electronics Weekly",
+    "date": "2026-07-15",
+    "url": "https://www.electronicsweekly.com/news/business/elenent14-offers-products-free-in-return-for-reviews-2026-07/",
+    "summary": "<p>element14 has launched a new initiative within its RoadTest programme, inviting engineers to apply to test and review a product of their choosing. The initiative allows participants to request any ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/elenent14-offers-products-free-in-return-for-reviews-2026-07/\">element14 offers products for free in return for reviews</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Configurable pressure  sensor span down to 2 bar.",
+    "source": "Electronics Weekly",
+    "date": "2026-07-15",
+    "url": "https://www.electronicsweekly.com/news/business/low-pressure-variants-support-configurable-pressure-spans-as-low-as-2-bar-2026-07/",
+    "summary": "<p>Melexis has introduced low-pressure variants across its Triphibian pressure sensor family, supporting configurable pressure spans as low as 2 bar. Available for the MLX90830, MLX90833, and MLX90834, the variants extend ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/low-pressure-variants-support-configurable-pressure-spans-as-low-as-2-bar-2026-07/\">Configurable pressure  sensor span down to 2 bar.</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Full Body VR Tracking Is Just Some Recycled Hardware Away",
@@ -49,13 +98,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/06/UDP.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In the previous installment on UDP broadcasting and service discovery, the basics of both were explored, including an implementation in the form of NyanSD and its protocol. Contained in the <a class=\"read-more\" href=\"https://hackaday.com/2026/07/14/udp-broadcasting-and-the-joys-of-ipv4-subnetting/\">&#8230;read more</a>"
   },
   {
-    "title": "Open Book Touch Makes Crowd Funding Debut",
-    "source": "Hackaday",
-    "date": "2026-07-14",
-    "url": "https://hackaday.com/2026/07/14/open-book-touch-makes-crowd-funding-debut/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/obtouch_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you have even the slightest interest in open hardware e-readers, you&#8217;ve certainly heard of [Joey Castillo]&#8217;s Open Book project. We&#8217;ve covered his efforts to develop an affordable reader that <a class=\"read-more\" href=\"https://hackaday.com/2026/07/14/open-book-touch-makes-crowd-funding-debut/\">&#8230;read more</a>"
-  },
-  {
     "title": "$50 Forgix board pairs Raspberry Pi RP2354 MCU with Trion T8 FPGA in Teensy form factor",
     "source": "CNX Software",
     "date": "2026-07-14",
@@ -89,6 +131,41 @@
     "date": "2026-07-14",
     "url": "https://www.embedded.com/liquid-instruments-unveils-geninst-studio-for-custom-test-design/",
     "summary": "<p>The agentic AI test solution delivers application-specific instruments in minutes.</p>\n<p>The post <a href=\"https://www.embedded.com/liquid-instruments-unveils-geninst-studio-for-custom-test-design/\">Liquid Instruments Unveils GenInst Studio for Custom Test Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "VectorBlox SDK supports AI inference in power-constrained edge AI apps",
+    "source": "Electronics Weekly",
+    "date": "2026-07-14",
+    "url": "https://www.electronicsweekly.com/news/products/fpga-pld/vectorblox-sdk-supports-ai-inference-in-power-constrained-edge-ai-apps-2026-07/",
+    "summary": "<p>Microchip is releasing its VectorBlox 3.0 Accelerator SDK to help simplify FPGA-based AI implementations. Specifically, it is for those deploying AI inference in power-constrained and mission-critical environments, such as aerospace ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/fpga-pld/vectorblox-sdk-supports-ai-inference-in-power-constrained-edge-ai-apps-2026-07/\">VectorBlox SDK supports AI inference in power-constrained edge AI apps</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "JEDEC’s SPHBM4 standard for AI accelerators on organic substrates",
+    "source": "Electronics Weekly",
+    "date": "2026-07-14",
+    "url": "https://www.electronicsweekly.com/news/products/memory/jedecs-sphbm4-standard-for-ai-accelerators-on-organic-substrates-2026-07/",
+    "summary": "<p>The standards body JEDEC has officially announced JESD330-4 for Standard Package High Bandwidth Memory (SPHBM4), which is related to artificial intelligence accelerators. SPHBM4 uses the same DRAM dies as HBM4, ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/memory/jedecs-sphbm4-standard-for-ai-accelerators-on-organic-substrates-2026-07/\">JEDEC&#8217;s SPHBM4 standard for AI accelerators on organic substrates</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Population Growth Slowing",
+    "source": "Electronics Weekly",
+    "date": "2026-07-14",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/population-growth-slowing-2026-07/",
+    "summary": "<p>The growth of the global population has been slowing down for decades. According to UN calculations, the world&#8217;s population will cross the 10-billion mark in 2061 but, by the end ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/population-growth-slowing-2026-07/\">Population Growth Slowing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "In-fab metrology and inspection: pivotal milestones and the road ahead",
+    "source": "Electronics Weekly",
+    "date": "2026-07-14",
+    "url": "https://www.electronicsweekly.com/news/business/in-fab-metrology-and-inspection-pivotal-milestones-and-the-road-ahead-2026-07/",
+    "summary": "<p>Anne-Laure Charley and Philippe Leray chart a journey through 40 years of in-fab metrology and inspection – linked to distinct periods in the logic scaling roadmap. In-fab semiconductor metrology and ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/in-fab-metrology-and-inspection-pivotal-milestones-and-the-road-ahead-2026-07/\">In-fab metrology and inspection: pivotal milestones and the road ahead</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Get the Gadget Master newsletter!",
+    "source": "Electronics Weekly",
+    "date": "2026-07-14",
+    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-07/",
+    "summary": "<p>Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox!</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-07/\">Get the Gadget Master newsletter!</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Building a robotics research setup that lives next to a desk",
@@ -320,13 +397,6 @@
     "date": "2026-07-10",
     "url": "https://www.embedded.com/microchip-offers-free-mplab-compiler-and-ai-tools/",
     "summary": "<p>Microchip Technology Inc. has made its MPLAB XC Pro compilers and MPLAB Machine Learning (ML) development suite available free of charge, removing licensing barriers for developers working on embedded systems and edge AI applications. The updated licensing model allows unlimited installations for both individual users and development teams, providing unrestricted access to compiler optimization features and [...]</p>\n<p>The post <a href=\"https://www.embedded.com/microchip-offers-free-mplab-compiler-and-ai-tools/\">Microchip Offers Free MPLAB Compiler and AI Tools</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Makerfabs MaUWB for Home Assistant – An ESP32-S3 UWB module with PoE and enclosure",
-    "source": "CNX Software",
-    "date": "2026-07-09",
-    "url": "https://www.cnx-software.com/2026/07/09/makerfabs-mauwb-for-home-assistant-an-esp32-s3-uwb-module-with-poe-and-enclosure/",
-    "summary": "<div><img alt=\"MaUWB for Home Assistant\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/MaUWB-for-Home-Assistant-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Makerfabs MaUWB for Home Assistant is an ESP32-S3-based Ultra-Wideband (UWB) module designed for indoor positioning and Real-Time Location Systems (RTLS). It runs ESPHome for Home Assistant integration, enabling it to be used as part of a UWB-based positioning system to track tagged devices in homes, offices, and other indoor environments. The module combines an ESP32-S3 with a MaUWB UWB module based on the Qorvo DW3000, featuring a PA/LNA for long-range ranging. Compared to the earlier ESP32-S3 version, it drops the OLED and adds a WIZnet W5500 Ethernet controller that supports PoE. The module also supports Wi-Fi 4 and Bluetooth 5.0, and comes in an enclosure for fixed installations. Makerfabs MaUWB for Home Assistant specifications: Wireless Module – ESP32-S3-WROOM-1 SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM; 8MB PSRAM Wireless – WiFi 4 and Bluetooth LE 5 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/09/makerfabs-mauwb-for-home-assistant-an-esp32-s3-uwb-module-with-poe-and-enclosure/\">Makerfabs MaUWB for Home Assistant – An ESP32-S3 UWB module with PoE and enclosure</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "eSOL Brings Game Engine Visualization to Industrial Embedded Development",

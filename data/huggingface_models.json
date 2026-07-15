@@ -1,5 +1,32 @@
 [
   {
+    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
+    "downloads": 103,
+    "likes": 0,
+    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
+    "date": "2026-07-15",
+    "keyword": "vla",
+    "score": 31.0
+  },
+  {
+    "model": "XiaomiRobotics/Xiaomi-Robotics-U0",
+    "downloads": 13,
+    "likes": 5,
+    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0",
+    "date": "2026-07-15",
+    "keyword": "robotics",
+    "score": 5.0
+  },
+  {
+    "model": "XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR",
+    "downloads": 5,
+    "likes": 3,
+    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR",
+    "date": "2026-07-15",
+    "keyword": "robotics",
+    "score": 2.2
+  },
+  {
     "model": "RobotisSW/Task_Dispose_Wastebox_chunk30_50K",
     "downloads": 0,
     "likes": 0,
@@ -54,6 +81,15 @@
     "score": 0.1
   },
   {
+    "model": "TopYan/My_VLA_3W_LoRA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/TopYan/My_VLA_3W_LoRA",
+    "date": "2026-07-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "wego-hansu/yeonwonju-070720-vla",
     "downloads": 0,
     "likes": 0,
@@ -63,13 +99,31 @@
     "score": 0.1
   },
   {
-    "model": "tencent/Hy-Embodied-VLM-1.0",
+    "model": "tencent/Hy-Embodied-RxBrain-1.0",
     "downloads": 0,
     "likes": 3,
-    "url": "https://huggingface.co/tencent/Hy-Embodied-VLM-1.0",
+    "url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
     "date": "2026-07-15",
     "keyword": "embodied",
     "score": 0.7
+  },
+  {
+    "model": "tencent/Hy-Embodied-VLM-1.0",
+    "downloads": 0,
+    "likes": 5,
+    "url": "https://huggingface.co/tencent/Hy-Embodied-VLM-1.0",
+    "date": "2026-07-15",
+    "keyword": "embodied",
+    "score": 1.1
+  },
+  {
+    "model": "lyhisme/Navigation_Agent",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/lyhisme/Navigation_Agent",
+    "date": "2026-07-15",
+    "keyword": "navigation",
+    "score": 0.1
   },
   {
     "model": "JunJunJunya/bluecube_101_merged_policy_baseline",
@@ -180,33 +234,6 @@
     "score": 0.1
   },
   {
-    "model": "milab-robot/N1.7_0518_amore_60000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/milab-robot/N1.7_0518_amore_60000",
-    "date": "2026-07-14",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
-    "downloads": 103,
-    "likes": 0,
-    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
-    "date": "2026-07-14",
-    "keyword": "vla",
-    "score": 31.0
-  },
-  {
-    "model": "Do-Hyun-robot/smolvla_dohyun_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Do-Hyun-robot/smolvla_dohyun_policy",
-    "date": "2026-07-14",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "Mayank022/urban-vla-left-turn-smolvla",
     "downloads": 0,
     "likes": 0,
@@ -268,15 +295,6 @@
     "date": "2026-07-14",
     "keyword": "vla",
     "score": 3.3
-  },
-  {
-    "model": "macv666/entropy-vla-grpo-logs",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/macv666/entropy-vla-grpo-logs",
-    "date": "2026-07-14",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "physicalai-bmi/orbital-formation-bc",
@@ -349,24 +367,6 @@
     "date": "2026-07-14",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR",
-    "downloads": 5,
-    "likes": 3,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR",
-    "date": "2026-07-14",
-    "keyword": "robotics",
-    "score": 2.2
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-U0",
-    "downloads": 13,
-    "likes": 5,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0",
-    "date": "2026-07-14",
-    "keyword": "robotics",
-    "score": 5.0
   },
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot",
@@ -738,15 +738,6 @@
     "score": 106.5
   },
   {
-    "model": "tencent/Hy-Embodied-0.5-VLA-RoboTwin",
-    "downloads": 335,
-    "likes": 12,
-    "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin",
-    "date": "2026-07-01",
-    "keyword": "embodied",
-    "score": 103.0
-  },
-  {
     "model": "cy0307/ag-habitat-navigation",
     "downloads": 0,
     "likes": 0,
@@ -817,14 +808,5 @@
     "date": "2026-05-05",
     "keyword": "navigation",
     "score": 3.4
-  },
-  {
-    "model": "bestak/uav-navigation-sasp",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/bestak/uav-navigation-sasp",
-    "date": "2026-05-05",
-    "keyword": "navigation",
-    "score": 0.7
   }
 ]

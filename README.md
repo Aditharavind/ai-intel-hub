@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-15 04:35 UTC
+Last Updated: 2026-07-15 07:03 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -15,8 +15,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-10 | Profiling in PyTorch (Part 3): Attention is all you profile | Hugging Face | [link](https://huggingface.co/blog/torch-attention-profile) |
 | 2026-07-09 | GPT-5.6 is now the preferred model in Microsoft 365 Copilot | OpenAI | [link](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot) |
 | 2026-07-09 | GPT-5.6: Frontier intelligence that scales with your ambition | OpenAI | [link](https://openai.com/index/gpt-5-6) |
-| 2026-07-09 | ChatGPT is now a partner for your most ambitious work | OpenAI | [link](https://openai.com/index/chatgpt-for-your-most-ambitious-work) |
 | 2026-07-09 | GPT-5.5 Bio Bug Bounty | OpenAI | [link](https://openai.com/index/bio-bug-bounty) |
+| 2026-07-09 | ChatGPT is now a partner for your most ambitious work | OpenAI | [link](https://openai.com/index/chatgpt-for-your-most-ambitious-work) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-15 | AIM-ing For a More Open Platform Than Discord | Hackaday | [link](https://hackaday.com/2026/07/14/aim-ing-for-a-more-open-platform-than-discord/) |
 | 2026-07-15 | Benchmarking Repairability Scores with an Asus Tablet | Hackaday | [link](https://hackaday.com/2026/07/14/benchmarking-repairability-scores-with-an-asus-tablet/) |
+| 2026-07-15 | Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux | CNX Software | [link](https://www.cnx-software.com/2026/07/15/reverse-engineering-brings-rk3576-npu-support-to-open-source-rocket-driver-for-mainline-linux/) |
 | 2026-07-15 | Big Savings Alert! AIVON PCBA Monthly SMT Special Deals + Free Shipping (Sponsored) | CNX Software | [link](https://www.cnx-software.com/2026/07/15/big-savings-alert-aivon-pcba-monthly-smt-special-deals-free-shipping/) |
+| 2026-07-15 | Arm to expand use of Arteris security technology | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/arm-to-embed-arteris-2026-07/) |
+| 2026-07-15 | UMC shipping Sipho wafers | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/umc-ships-sipho-2026-07/) |
+| 2026-07-15 | NextGO Epi raises €2m for Gallium Oxide development | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/epi-raises-e2m-for-gallium-oxide-development-2026-07/) |
+| 2026-07-15 | element14 offers products for free in return for reviews | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/elenent14-offers-products-free-in-return-for-reviews-2026-07/) |
+| 2026-07-15 | Configurable pressure  sensor span down to 2 bar. | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/low-pressure-variants-support-configurable-pressure-spans-as-low-as-2-bar-2026-07/) |
 | 2026-07-14 | Full Body VR Tracking Is Just Some Recycled Hardware Away | Hackaday | [link](https://hackaday.com/2026/07/14/full-body-vr-tracking-is-just-some-recycled-hardware-away/) |
-| 2026-07-14 | The Neo Geo Does Run DOOM After All | Hackaday | [link](https://hackaday.com/2026/07/14/the-neo-geo-does-run-doom-after-all/) |
-| 2026-07-14 | 2026 Frikkin Lasers Challenge: Laser Bandsaw | Hackaday | [link](https://hackaday.com/2026/07/14/2026-frikkin-lasers-challenge-laser-bandsaw/) |
-| 2026-07-14 | Fibrous Muscles for Humanoid Robotics | Hackaday | [link](https://hackaday.com/2026/07/14/fibrous-muscles-for-humanoid-robotics/) |
-| 2026-07-14 | UDP Broadcasting and the Joys of IPv4 Subnetting | Hackaday | [link](https://hackaday.com/2026/07/14/udp-broadcasting-and-the-joys-of-ipv4-subnetting/) |
-| 2026-07-14 | Open Book Touch Makes Crowd Funding Debut | Hackaday | [link](https://hackaday.com/2026/07/14/open-book-touch-makes-crowd-funding-debut/) |
-| 2026-07-14 | $50 Forgix board pairs Raspberry Pi RP2354 MCU with Trion T8 FPGA in Teensy form factor | CNX Software | [link](https://www.cnx-software.com/2026/07/14/50-forgix-board-pairs-raspberry-pi-rp2354-mcu-with-trion-t8-fpga-in-teensy-form-factor/) |
-| 2026-07-14 | Meet Moddo Pinch – The world’s smallest 32-bit Arduino-compatible board (2026 Edition) | CNX Software | [link](https://www.cnx-software.com/2026/07/14/meet-moddo-pinch-the-world-smallest-arduino-compatible-board-2026-edition/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,34 +77,35 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-15 | HarrisonPENG/M2W-VLA-RoboTwin | 103 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
+| 2026-07-15 | XiaomiRobotics/Xiaomi-Robotics-U0 | 13 | 5 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0) |
+| 2026-07-15 | XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR | 5 | 3 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR) |
 | 2026-07-15 | RobotisSW/Task_Dispose_Wastebox_chunk30_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_Wastebox_chunk30_50K) |
 | 2026-07-15 | RobotisSW/Task_Dispose_Wastebox_chunk30_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_Wastebox_chunk30_30K) |
 | 2026-07-15 | puppet-robotics/golf-model-eval | 22 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-eval) |
 | 2026-07-15 | RobotisSW/Task_Dispose_Wastebox_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_Wastebox_30K) |
 | 2026-07-15 | RobotisSW/Task_900008_900009_merged_act_20k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900008_900009_merged_act_20k) |
 | 2026-07-15 | TopYan/My_VLA_3W | 0 | 0 | [link](https://huggingface.co/TopYan/My_VLA_3W) |
-| 2026-07-15 | wego-hansu/yeonwonju-070720-vla | 0 | 0 | [link](https://huggingface.co/wego-hansu/yeonwonju-070720-vla) |
-| 2026-07-15 | tencent/Hy-Embodied-VLM-1.0 | 0 | 3 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
-| 2026-07-15 | JunJunJunya/bluecube_101_merged_policy_baseline | 0 | 0 | [link](https://huggingface.co/JunJunJunya/bluecube_101_merged_policy_baseline) |
-| 2026-07-15 | XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-GenW8 | 0 | 0 | [link](https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-GenW8) |
+| 2026-07-15 | TopYan/My_VLA_3W_LoRA | 0 | 0 | [link](https://huggingface.co/TopYan/My_VLA_3W_LoRA) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | Edgenesis/shifu | 1427 | Go | 570.9 | [link](https://github.com/Edgenesis/shifu) |
 | awslabs/awsome-distributed-ai | 461 | Shell | 184.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| ros-claw/rosclaw | 162 | Python | 64.9 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63120 | Python | 25248.1 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15466 | C++ | 6186.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14211 | C++ | 5684.5 | [link](https://github.com/google-deepmind/mujoco) |
+| ros-claw/rosclaw | 163 | Python | 65.3 | [link](https://github.com/ros-claw/rosclaw) |
+| commaai/openpilot | 63121 | Python | 25248.5 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15468 | C++ | 6187.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14212 | C++ | 5684.9 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11275 | Python | 4510.1 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7678 | Python | 3071.3 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3842 | Rust | 1536.9 | [link](https://github.com/dora-rs/dora) |
-| sou350121/VLA-Handbook | 386 | HTML | 154.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| worldbench/awesome-3d-4d-world-models | 947 | HTML | 378.9 | [link](https://github.com/worldbench/awesome-3d-4d-world-models) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-07-15 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTFBZQTZyNFlzX0EzaEh4YUpOYW84OG1xRUlkeWlGTVhSeTd3NThTT0NlNl9lb0d1ZUQtbWJlTTBoelNMZjc2WURoWVB2NmNXekR6RUowZkNVZnZOM1pQZDNEUmZjVE1BTjR4enZrc0tHMWJqZjU0TVhLdHpSQU0?oc=5) |
 | 2026-07-14 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1lDcHdOR0NGTm1DamhvY3NHYy1fTVc3WXQyMlAteTVOSjFzSm1zelpfeHVvR0VnMXN4WjBuMFRpZ04wdnhTNEsyeVBxdERCdmNFMHJ3V2VDX0VaeW1ZWEsxUGFmZlg4S0MwSEhkU19RUVNXV1Q3QXNrT0VWaE9jRkhDYWk2dWIteTBMLXBBYUxLN2dpM1VzcnhtcGVyRF9LRmh2ek9KYWI0Y00?oc=5) |
 | 2026-07-14 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxORTJDSW4xaTFJYlVoV01UTHE2c3pLQ3JjTDhrYmtCdkRRdTd6b3RLeE5lcTItNGJibnVOeTBYeDk3eGgxd1U1Vl9XY3pKS3l4dUJfazcyODZPczdockh3X3hIaDhVQ0ZpQkZIaU10Q3E3YmIwYTlUZ0lWd1IxNW96YjNSYXNreDRnaFpyQ1FLdlVYdl92SlFiQmVvZEptcjVaUFYxdmZPbW12dHNTMTVtSXdoOTUtVmFhY19DOVV5RC1pRHNlb3poR1Rya190QWRvNE1fZnE0aHRDOG1fbWIzemdKOXFHcHRtRW14Yg?oc=5) |
 | 2026-07-13 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFYwRDR6VS1JdC1fYTU5VGRnSXg3bFZCMFRoakFIc2FERGxXUDloRXN0ZGJoZkFuRTBaR2s1S2ZYWDduNi1RLXNRN1ZCRThRdGFwZUw1Vko5Mjg2czVOTHhoRk54UFBBNDI5TUNNaHlqN21fR1A0WHFEN08tOEU1MWhndjlrbVFYakxEaC13dmNlSFRlRnRyMDNqYTQ4eTd5YWdaTmVKMEc0MV9IcGFvVzhFejIyMDQtSU5GcklVYWlFcDlKTGdZZG56WTFFMXJvVklqaTNB?oc=5) |
@@ -114,7 +115,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-07 | LeRobot |  |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzRyeF85c183eThYLXZWRXZQYlhlY1dtY3RGLTY4NDRmazV2d0lKUXZxa0owU0ctSkZiRGttdXkzRGJ4WkVmMTBfMTZqN0Zkbmpncl9ueWxzZXlqRURrOWJOTGU5NDF4Yk1pd0g5Y0JXWi16UHA4Y1RvTm9ndUJ5MTY2eGQtSFVUNFNGVzRqTm5Reml5dXZYRzdZOXVYSld4RjZKTnNaU2NfUlE2TWFMQWJOZC1GRy16WWIyekJqeXVHNlh2UzVVVQ?oc=5) |
 | 2026-07-06 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZFM2Y1ZRQ1hzTEVWbDBIaWRtcFBHdEo0bUJmeTZzbC1feEJUUG8wUDNOZ3JPcGU2U1o2elhFLTB2UE5ybWI2R2QzVTNsOVh1RDZsU2NyMjdxN2JtdUJwNXZqdnAxbk9ZWVhKTmZ4YWNSekotdGtPV0NXUjVnYlMxRWtPNUxONHpZ?oc=5) |
 | 2026-07-05 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVnZ0b1ZINm9iN2hoTlNxQzFOcVF4Ym0wT2ZKcWRENzVNeGdkZXVPVjB6Q1VXT3NMU3NITG94aDhZM2loNC0zZ3JtN1RNbHMwLUg1Ui1US3daRkRxQk1oZjItNndsWjhES1h2UG1RS0s2WnpBT29KcTlkWkFnVU5LR1NBeUdsend2SG5kWWUxT19GNi1sQklITGY0MmRhc3VTdkpjQ2hOQ1d2WDMwaGZQTWNzLV9sZEVRNWlXaE52NHlaVEhXZk83X2pHUE5ZZUk5Sm9pYm5LVWZ0Zw?oc=5) |
-| 2026-07-03 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTWpiTlNmSjROU2hWME1sQjZUTWxfVUg2M1cyVkVfVmduOUZ5ejBNM0pGSk9Sd3Y0Z1lQN2NreEN5ZVVwcWpuYnVObUVNWWZuUXc?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

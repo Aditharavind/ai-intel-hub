@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-15 04:35 UTC
+Generated: 2026-07-15 07:03 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,9 +14,9 @@ Generated: 2026-07-15 04:35 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82459 | 32983.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63120 | 25248.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44233 | 17693.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| Developer-Y/cs-video-courses | 82460 | 32984.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63121 | 25248.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44234 | 17693.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30046 | 12018.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16015 | 6406.1 | [link](https://github.com/zauberzeug/nicegui) |
 
@@ -26,17 +26,17 @@ Generated: 2026-07-15 04:35 UTC
 | XiaomiRobotics/Xiaomi-Robotics-0-LIBERO | 1914 | 576.5 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-LIBERO) |
 | zhijieq/directional-navigation | 399 | 119.8 | [link](https://huggingface.co/zhijieq/directional-navigation) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 348 | 106.5 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
-| tencent/Hy-Embodied-0.5-VLA-RoboTwin | 335 | 103.0 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-RoboTwin) |
 | SEU-PAISys/Embodied.cpp | 201 | 61.2 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
+| HarrisonPENG/M2W-VLA-RoboTwin | 103 | 31.0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-07-15 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTFBZQTZyNFlzX0EzaEh4YUpOYW84OG1xRUlkeWlGTVhSeTd3NThTT0NlNl9lb0d1ZUQtbWJlTTBoelNMZjc2WURoWVB2NmNXekR6RUowZkNVZnZOM1pQZDNEUmZjVE1BTjR4enZrc0tHMWJqZjU0TVhLdHpSQU0?oc=5) |
 | 2026-07-14 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1lDcHdOR0NGTm1DamhvY3NHYy1fTVc3WXQyMlAteTVOSjFzSm1zelpfeHVvR0VnMXN4WjBuMFRpZ04wdnhTNEsyeVBxdERCdmNFMHJ3V2VDX0VaeW1ZWEsxUGFmZlg4S0MwSEhkU19RUVNXV1Q3QXNrT0VWaE9jRkhDYWk2dWIteTBMLXBBYUxLN2dpM1VzcnhtcGVyRF9LRmh2ek9KYWI0Y00?oc=5) |
 | 2026-07-14 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxORTJDSW4xaTFJYlVoV01UTHE2c3pLQ3JjTDhrYmtCdkRRdTd6b3RLeE5lcTItNGJibnVOeTBYeDk3eGgxd1U1Vl9XY3pKS3l4dUJfazcyODZPczdockh3X3hIaDhVQ0ZpQkZIaU10Q3E3YmIwYTlUZ0lWd1IxNW96YjNSYXNreDRnaFpyQ1FLdlVYdl92SlFiQmVvZEptcjVaUFYxdmZPbW12dHNTMTVtSXdoOTUtVmFhY19DOVV5RC1pRHNlb3poR1Rya190QWRvNE1fZnE0aHRDOG1fbWIzemdKOXFHcHRtRW14Yg?oc=5) |
 | 2026-07-13 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFYwRDR6VS1JdC1fYTU5VGRnSXg3bFZCMFRoakFIc2FERGxXUDloRXN0ZGJoZkFuRTBaR2s1S2ZYWDduNi1RLXNRN1ZCRThRdGFwZUw1Vko5Mjg2czVOTHhoRk54UFBBNDI5TUNNaHlqN21fR1A0WHFEN08tOEU1MWhndjlrbVFYakxEaC13dmNlSFRlRnRyMDNqYTQ4eTd5YWdaTmVKMEc0MV9IcGFvVzhFejIyMDQtSU5GcklVYWlFcDlKTGdZZG56WTFFMXJvVklqaTNB?oc=5) |
 | 2026-07-12 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1haWldjNWQ2S3U4UWQ3YlRGNHlLcE5IZWZNbXJmSGVqVWs3a0V5R1FJdVpxdUdfeFJfSzZVYWdXYWtYSnBzRmZWRDRneklpYTRPQTJIdFNKN0NCR2hlWjJ1S2xsNDV1SEFDTFJWLUNMYzU0Q2tJVC1rNnJpSVluS0ZRSzh3MlBiXzM3RmxmS1ZXUkZOUnpvY2ZqcHhabmdFUzcwRXdKejZpc2x4d1ZCdTU0SnFaRU92VndvXw?oc=5) |
-| 2026-07-07 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMitgJBVV95cUxQdjdfLTBlbU4zUnJHSDRSWTU0R0R6STNDdVJET3hHWVJpR25PT2dYQnJzYWRna1pQeVdKYlRkZDRvTnlEWkY1NHA4bnpnblRWNVJFNHhUZUNQZktYUlJncTZNQmI3eTRjc2REc2VDOWdkSE93ZHRIcW1feGJUbDV5WGFEeTgwVjlURWF0bzV5SGxlZWZ4NWJZbTlianVqNjdTYWlHWFNyQy04eW81cGROQ3R2ZGJ4Z3RZYVh3b2l3NlZEQXlKZjFaN3FxVEdsWV9lNkp3d2R2ZVRGN19LRWpLWlNNLV9TYkNxMjMtSXEzUlJlbWJtZmVUZWw4T3Q5Q0s4cnZVbmhCcjVWcXpsYld6aVBCQmh6ZlNOZXlIVUJTa05aVVJLT3IwOTlKY0dNQ2RUZGF5TWVn?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
