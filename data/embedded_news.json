@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hayabusa2’s Next Target is a Tiny 11 Meter Asteroid",
+    "source": "Hackaday",
+    "date": "2026-07-15",
+    "url": "https://hackaday.com/2026/07/15/hayabusa2s-next-target-is-a-tiny-11-meter-asteroid/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"356\" src=\"https://hackaday.com/wp-content/uploads/2026/07/1998_KY26_concave_shape_model_Santana-Ros_2025.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Launched in 2014, Japan&#8217;s Hayabusa2 spacecraft completed its primary asteroid sample return mission all the way back in 2020. But with the main spacecraft still healthy, the intrepid little probe <a class=\"read-more\" href=\"https://hackaday.com/2026/07/15/hayabusa2s-next-target-is-a-tiny-11-meter-asteroid/\">&#8230;read more</a>"
+  },
+  {
     "title": "Putting Some Zig in a Linux-Based 3D Printer",
     "source": "Hackaday",
     "date": "2026-07-15",
@@ -126,6 +133,20 @@
     "summary": "<p>Melexis has introduced low-pressure variants across its Triphibian pressure sensor family, supporting configurable pressure spans as low as 2 bar. Available for the MLX90830, MLX90833, and MLX90834, the variants extend ...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/low-pressure-variants-support-configurable-pressure-spans-as-low-as-2-bar-2026-07/\">Configurable pressure  sensor span down to 2 bar</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "How to build a circular LCD clock",
+    "source": "Adafruit",
+    "date": "2026-07-15",
+    "url": "https://blog.adafruit.com/2026/07/15/how-to-build-a-circular-lcd-clock/",
+    "summary": "blinry wanted a clock in the kitchen without relying on the small one on the oven. So I recently built a wall clock from a circular LCD screen! It’s really great because it can display any clock face you want, even ones you code yourself! Waveshare’s 7 inch circular LCD Raspberry Pi 3-5 A microSD [&#8230;]"
+  },
+  {
+    "title": "Openstrap Edge makes a WHOOP 4.0 band useful without a subscription",
+    "source": "Adafruit",
+    "date": "2026-07-15",
+    "url": "https://blog.adafruit.com/2026/07/15/openstrap-edge-makes-a-whoop-4-0-band-useful-without-a-subscription/",
+    "summary": "The WHOOP 4.0 is a screenless fitness wearable designed for 24/7 continuous tracking. It focuses heavily on sleep quality, physiological recovery, and daily exertion levels rather than step counts. The tracker operates via a subscription model and is typically priced between $30/month and an annual fee of $239 Abdul Sahil isn&#8217;t knocking WHOOP. But the [&#8230;]"
+  },
+  {
     "title": "Voice-activity detection, speech to text, and text to speech all on RP2040",
     "source": "Adafruit",
     "date": "2026-07-15",
@@ -159,13 +180,6 @@
     "date": "2026-07-14",
     "url": "https://hackaday.com/2026/07/14/full-body-vr-tracking-is-just-some-recycled-hardware-away/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/vive-wand-tracker-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Full body tracking in VR applications involves attaching sensors to one&#8217;s body, and [Jaki] has a DIY method to do it on the cheap: the Vive Tracker Lite project repurposes <a class=\"read-more\" href=\"https://hackaday.com/2026/07/14/full-body-vr-tracking-is-just-some-recycled-hardware-away/\">&#8230;read more</a>"
-  },
-  {
-    "title": "The Neo Geo Does Run DOOM After All",
-    "source": "Hackaday",
-    "date": "2026-07-14",
-    "url": "https://hackaday.com/2026/07/14/the-neo-geo-does-run-doom-after-all/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"267\" src=\"https://hackaday.com/wp-content/uploads/2026/07/neo_geo_aes_game_console_evan-amos_wikimedia.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Perhaps the most ridiculous statement that anyone can make is that a computer system with clearly enough processing power &#8216;cannot run DOOM&#8216;. This is why we accept the premise that a <a class=\"read-more\" href=\"https://hackaday.com/2026/07/14/the-neo-geo-does-run-doom-after-all/\">&#8230;read more</a>"
   },
   {
     "title": "$50 Forgix board pairs Raspberry Pi RP2354 MCU with Trion T8 FPGA in Teensy form factor",
@@ -250,20 +264,6 @@
     "date": "2026-07-14",
     "url": "https://blog.adafruit.com/2026/07/14/the-importance-and-legacy-of-the-childrens-art-carnival-in-harlem/",
     "summary": "Young participants on the front steps of the Children’s Art Carnival in Harlem (photo unknown, courtesy the Children’s Art Carnival) via Hyperallergic Although Harlem is well-known as a cultural hub for Black artists of various mediums, it also has a history of being overlooked and underserved in comparison to other pockets of Manhattan, leading to [&#8230;]"
-  },
-  {
-    "title": "How to sequence your own DNA at home",
-    "source": "Adafruit",
-    "date": "2026-07-14",
-    "url": "https://blog.adafruit.com/2026/07/14/how-to-sequence-your-own-dna-at-home/",
-    "summary": "Bradley Woolf has sequenced their own genome 5 times with an Oxford Nanopore Technologies MinION. This means collecting DNA from a swab, prepping them for sequencing, running them through a sequencer, then doing analysis over them. To sequence the cells, I bought lab materials and consumables to sequence my own genome at home. It took [&#8230;]"
-  },
-  {
-    "title": "Tiny Emus has playable vintage software in-browser",
-    "source": "Adafruit",
-    "date": "2026-07-14",
-    "url": "https://blog.adafruit.com/2026/07/14/tiny-emus-has-playable-vintage-software-in-browser/",
-    "summary": "Andre Weissflog has created chips, a toolbox of 8-bit chip-emulators, helper code and complete embeddable system emulators in dependency-free C headers (a subset of C99 that compiles on gcc, clang and cl.exe). The Tuny Emus website is a compilation of emulated software based on chips. The arrow keys generally work for navigation and files can [&#8230;]"
   },
   {
     "title": "From Sunlight to Smartphones: The Hidden World of DC‑DC Converters – Eaton and Mouser",
