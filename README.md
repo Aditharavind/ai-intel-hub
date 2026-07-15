@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-15 20:56 UTC
+Last Updated: 2026-07-15 21:45 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -14,8 +14,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-15 | Welcome Inkling by Thinking Machines | Hugging Face | [link](https://huggingface.co/blog/thinkingmachines-inkling) |
 | 2026-07-15 | Introducing Real World VoiceEQ: Measuring the human quality of voice AI | Hugging Face | [link](https://huggingface.co/blog/real-world-voiceeq) |
 | 2026-07-14 | How to manage AI investments in the agentic era | OpenAI | [link](https://openai.com/index/managing-ai-investments-in-agentic-era) |
-| 2026-07-14 | How data science teams use ChatGPT Work | OpenAI | [link](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) |
 | 2026-07-14 | How sales teams use ChatGPT Work | OpenAI | [link](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) |
+| 2026-07-14 | How data science teams use ChatGPT Work | OpenAI | [link](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) |
 | 2026-07-10 | How Deutsche Telekom is rewiring telecommunications with AI | OpenAI | [link](https://openai.com/index/deutsche-telekom) |
 
 ## Physical AI News
@@ -100,7 +100,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | commaai/openpilot | 63126 | Python | 25250.5 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16019 | Python | 6407.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15476 | C++ | 6190.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14218 | C++ | 5687.3 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14219 | C++ | 5687.7 | [link](https://github.com/google-deepmind/mujoco) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
