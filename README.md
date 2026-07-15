@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-15 22:44 UTC
+Last Updated: 2026-07-15 23:45 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -39,23 +39,23 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-15 | Vicarious Surgical board seeks to dissolve company | Robotics Business Review | [link](https://www.therobotreport.com/vicarious-surgical-board-seeks-to-dissolve-company/) |
 | 2026-07-15 | Icarus Robotics uses KULR technology to power JOY free-flying space robot | Robotics Business Review | [link](https://www.therobotreport.com/icarus-robotics-uses-kulr-technology-to-power-joy-free-flying-space-robot/) |
 | 2026-07-15 | Walden Robotics launches at $1.1B valuation for general-purpose robots | Robotics Business Review | [link](https://www.therobotreport.com/walden-robotics-launches-1-1b-valuation-general-purpose-robots/) |
+| 2026-07-15 | NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/) |
 | 2026-07-14 | NVIDIA shares how to evaluate general-purpose robot policies for real-world deployment | Robotics Business Review | [link](https://www.therobotreport.com/nvidia-shares-how-evaluate-general-purpose-robot-policies-real-world-deployment/) |
 | 2026-07-14 | Key to Humanoid Progress: Managing the Power Behind the Robots | Robotics Business Review | [link](https://www.therobotreport.com/key-to-humanoid-progress-managing-the-power-behind-the-robots/) |
 | 2026-07-13 | The Robot Report parent company, WTWH Media, rebrands as Arrowfly | Robotics Business Review | [link](https://www.therobotreport.com/the-robot-report-parent-company-wtwh-media-rebrands-as-arrowfly/) |
 | 2026-07-13 | Yaskawa America gets information security certification | Robotics Business Review | [link](https://www.therobotreport.com/yaskawa-america-gets-information-seccurity-certification/) |
 | 2026-07-13 | Ondas acquires DZYNE for $875.8M, expanding its defense capabilities | Robotics Business Review | [link](https://www.therobotreport.com/ondas-acquires-dzyne-875-8m-expanding-its-defense-capabilities/) |
-| 2026-07-13 | Building a Foundation Stack for General-Purpose Robots | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/x-square-robot-embodied-ai-stack) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-15 | DOOM runs (slowly) in a IBM PC-Compatible CSS Sheet | Hackaday | [link](https://hackaday.com/2026/07/15/doom-runs-slowly-in-a-ibm-pc-compatible-css-sheet/) |
 | 2026-07-15 | Cut And Fold Your 3D Printer’s Next Cover | Hackaday | [link](https://hackaday.com/2026/07/15/cut-and-fold-your-3d-printers-next-cover/) |
 | 2026-07-15 | FLOSS Weekly Episode 875: JavaScript as a Systems Language | Hackaday | [link](https://hackaday.com/2026/07/15/floss-weekly-episode-875-javascript-as-a-systems-language/) |
 | 2026-07-15 | Hayabusa2’s Next Target is a Tiny 11 Meter Asteroid | Hackaday | [link](https://hackaday.com/2026/07/15/hayabusa2s-next-target-is-a-tiny-11-meter-asteroid/) |
 | 2026-07-15 | Putting Some Zig in a Linux-Based 3D Printer | Hackaday | [link](https://hackaday.com/2026/07/15/putting-some-zig-in-a-linux-based-3d-printer/) |
 | 2026-07-15 | Making a Locked Down Wearable Work Without a Subscription | Hackaday | [link](https://hackaday.com/2026/07/15/making-a-locked-down-wearable-work-without-a-subscription/) |
 | 2026-07-15 | Hacking Around the Financial Pain of New 3DS XL Top Screens | Hackaday | [link](https://hackaday.com/2026/07/15/hacking-around-the-financial-pain-of-new-3ds-xl-top-screens/) |
-| 2026-07-15 | AIM-ing For a More Open Platform Than Discord | Hackaday | [link](https://hackaday.com/2026/07/14/aim-ing-for-a-more-open-platform-than-discord/) |
 | 2026-07-15 | Bigme Hibreak Dual 2 – An Android 16 smartphone with 6.13-inch 80fps E-Ink and 5-inch LCD display (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/15/bigme-hibreak-dual-2-an-android-16-smartphone-with-6-13-inch-80fps-e-ink-and-5-inch-lcd-display/) |
 | 2026-07-15 | Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux | CNX Software | [link](https://www.cnx-software.com/2026/07/15/reverse-engineering-brings-rk3576-npu-support-to-open-source-rocket-driver-for-mainline-linux/) |
 | 2026-07-15 | Big Savings Alert! AIVON PCBA Monthly SMT Special Deals + Free Shipping (Sponsored) | CNX Software | [link](https://www.cnx-software.com/2026/07/15/big-savings-alert-aivon-pcba-monthly-smt-special-deals-free-shipping/) |
@@ -136,13 +136,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-15 | Fleet Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696722006) |
 | 2026-07-15 | Helix Data Creator (Swing Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693411006) |
 | 2026-07-15 | Humanoid Robot Pilot  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4369739006) |
-| 2026-07-15 | Project Coordinator, Data Creators | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696348006) |
 | 2026-07-15 | Project Coordinator, Data Creators | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696349006) |
+| 2026-07-15 | Project Coordinator, Data Creators | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696348006) |
 | 2026-07-15 | Project Coordinator, Data Quality | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696350006) |
 | 2026-07-15 | Technical Recruiter | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4409868006) |
+| 2026-07-15 | TeleOps Quality Support | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4697420006) |
 | 2026-07-14 | AI Data Operations Manager | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
 | 2026-07-14 | Deployment Engineer (TeleOperations) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696724006) |
-| 2026-07-13 | Finance Manager | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4691166006) |
 
 ## Automation
 
