@@ -1,5 +1,14 @@
 [
   {
+    "model": "qlihua/fastwam-robotwin-joint-3cam384-1e-4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/qlihua/fastwam-robotwin-joint-3cam384-1e-4",
+    "date": "2026-07-15",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "SakikoTogawa/pi0_robotwin_lora-place_mouse_pad-100-himaconpp_repo",
     "downloads": 0,
     "likes": 0,
@@ -87,6 +96,24 @@
     "url": "https://huggingface.co/RobotisSW/Task_900008_900009_merged_act_20k",
     "date": "2026-07-15",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "zwan1003/pickplace_skills_vla_v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zwan1003/pickplace_skills_vla_v2",
+    "date": "2026-07-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "YccHugAi/lingbot-vla-2-stackcube-ablations",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/YccHugAi/lingbot-vla-2-stackcube-ablations",
+    "date": "2026-07-15",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -218,11 +245,11 @@
   {
     "model": "tencent/Hy-Embodied-RxBrain-1.0",
     "downloads": 0,
-    "likes": 12,
+    "likes": 19,
     "url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
     "date": "2026-07-15",
     "keyword": "embodied",
-    "score": 2.5
+    "score": 3.9
   },
   {
     "model": "tencent/Hy-Embodied-VLM-1.0",
@@ -252,6 +279,33 @@
     "score": 0.1
   },
   {
+    "model": "Hilman09/act_policy_bimanual_v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Hilman09/act_policy_bimanual_v2",
+    "date": "2026-07-15",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "MakinoKF/pick-the-nut-from-2direction-dataset_diffusion-policy-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MakinoKF/pick-the-nut-from-2direction-dataset_diffusion-policy-v1",
+    "date": "2026-07-15",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "open-gigaai/Giga-World-Policy-0.5",
+    "downloads": 0,
+    "likes": 4,
+    "url": "https://huggingface.co/open-gigaai/Giga-World-Policy-0.5",
+    "date": "2026-07-15",
+    "keyword": "policy",
+    "score": 0.9
+  },
+  {
     "model": "mkhwan/omx_act_policy",
     "downloads": 35,
     "likes": 0,
@@ -277,15 +331,6 @@
     "date": "2026-07-15",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "open-gigaai/Giga-World-Policy-0.5",
-    "downloads": 0,
-    "likes": 4,
-    "url": "https://huggingface.co/open-gigaai/Giga-World-Policy-0.5",
-    "date": "2026-07-15",
-    "keyword": "policy",
-    "score": 0.9
   },
   {
     "model": "JunJunJunya/bluecube_101_merged_policy_baseline",
@@ -342,57 +387,12 @@
     "score": 0.7
   },
   {
-    "model": "JunJunJunya/bluecube_101_merged_policy",
-    "downloads": 52,
-    "likes": 0,
-    "url": "https://huggingface.co/JunJunJunya/bluecube_101_merged_policy",
-    "date": "2026-07-15",
-    "keyword": "policy",
-    "score": 15.7
-  },
-  {
-    "model": "schronn/policy_record_v4_bv_smolva",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/schronn/policy_record_v4_bv_smolva",
-    "date": "2026-07-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "YinonDouchan/mobile_robot_lift_env_multi_cube_multi_platform",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/YinonDouchan/mobile_robot_lift_env_multi_cube_multi_platform",
     "date": "2026-07-14",
     "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "X-Humanoid/Pelican-VLA05-Robotwin",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/X-Humanoid/Pelican-VLA05-Robotwin",
-    "date": "2026-07-14",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Mayank022/urban-vla-left-turn-smolvla",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Mayank022/urban-vla-left-turn-smolvla",
-    "date": "2026-07-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "YccHugAi/lingbot-vla-2-stackcube-ablations",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/YccHugAi/lingbot-vla-2-stackcube-ablations",
-    "date": "2026-07-14",
-    "keyword": "vla",
     "score": 0.1
   },
   {
