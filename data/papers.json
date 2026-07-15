@@ -1,5 +1,130 @@
 [
   {
+    "title": "DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation",
+    "authors": [
+      "Yu Fang",
+      "Wanxi Dong",
+      "Jiaqi Liu",
+      "Yue Yang",
+      "Mingxiao Huo",
+      "Yao Mu",
+      "Huaxiu Yao",
+      "Li Erran Li",
+      "Daniel Szafir",
+      "Mingyu Ding"
+    ],
+    "published": "2026-07-14",
+    "summary": "Reinforcement learning holds great promise for improving robot policies beyond the limits of imitation learning. However, its practical adoption remains bottlenecked by the lack of reliable vision-language reward models that provide dense and informative feedback. Two key challenges remain: acquiring diverse failure data at scale and obtaining fine-grained reward signals beyond sparse trajectory-level success labels. Collecting failure trajectories typically requires laborious human effort, while pseudo-failures constructed by relabeling successful demonstrations fail to capture the diverse physical failure modes that arise during robot execution. Meanwhile, existing reward models often predict sparse binary or trajectory-level rewards, which provide limited guidance for efficient policy optimization. We introduce DenseReward, a dense robotic reward model that addresses both challenges. To train DenseReward, we develop an automated failure data generation pipeline that synthesizes physically realistic failure trajectories in simulation without human labeling, covering diverse failure modes such as collisions, missed grasps, object drops, and recovery behaviors. DenseReward predicts dense frame-level reward scores from visual observations and language instructions, enabling fine-grained estimation of task progress throughout an episode. Experiments show that DenseReward outperforms general-purpose VLMs and existing robotic reward models in dense reward prediction across both simulated and real-world manipulation. We further demonstrate that DenseReward provides effective reward guidance for downstream model predictive control and reinforcement learning. We release the dataset, trained reward models, and evaluation suite to support the development of failure-aware dense reward modeling for robot learning.",
+    "pdf_url": "https://arxiv.org/pdf/2607.13033v1"
+  },
+  {
+    "title": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale",
+    "authors": [
+      "Zhouchonghao Wu",
+      "Akshay Rangesh",
+      "Weixin Li",
+      "Wei-Jer Chang",
+      "Zachary Lee",
+      "Tim Wang",
+      "Wei Zhan"
+    ],
+    "published": "2026-07-14",
+    "summary": "Training robust autonomous driving agents requires a simulator that is fast enough for reinforcement learning at scale, realistic enough to ground behavior in real-world map structure, and diverse enough to cover the safety-critical long tail that logged data rarely contains. We present TerraZero, a procedural driving simulator and self-play training stack. A configurable C engine runs simulation on the CPU and policy inference on the GPU over a zero-copy path, sustaining 1.3M agent-steps per second on a single server-grade GPU, far faster than existing object-level simulators, while keeping fidelity lighter single-agent systems omit: heterogeneous agents, multiple dynamics models, and full traffic-rule enforcement. TerraZero treats logged data only as a source of real-world map geometry, populating each map with randomized rule-based road users and signal controllers and randomizing agent dynamics, rewards, and sizes per episode, so a map yields an unbounded set of scenarios. Every reported policy trains from scratch by reinforcement learning alone on a compute-efficient self-play recipe across GPUs, with zero human demonstrations and no fallback planner at inference. Policies generalize zero-shot across cities and datasets, including emergent left-hand-traffic driving without explicit supervision. As an ego policy, TerraZero is the first fully learned policy to top the InterPlan long-tail benchmark, ahead of larger learned planners; on routine-driving val14 it ranks among the best approaches and is the safest, posting the best collision and time-to-collision scores. On Waymo Open Sim Agents realism the same recipe outperforms other demonstration-free methods and is competitive with the strongest reference-anchored self-play method. One stack serves both roles: driving policies across dynamics for cars and trucks, and sim agents that jointly control vehicles, pedestrians, and cyclists.",
+    "pdf_url": "https://arxiv.org/pdf/2607.13028v1"
+  },
+  {
+    "title": "FlowWAM: Optical Flow as a Unified Action Representation for World Action Models",
+    "authors": [
+      "Yixiang Chen",
+      "Peiyan Li",
+      "Yuan Xu",
+      "Qisen Ma",
+      "Jiabing Yang",
+      "Kai Wang",
+      "Jianhua Yang",
+      "Dong An",
+      "He Guan",
+      "Gaoteng Liu",
+      "Jianlou Si",
+      "Jun Huang",
+      "Jing Liu",
+      "Nianfeng Liu",
+      "Yan Huang",
+      "Liang Wang"
+    ],
+    "published": "2026-07-14",
+    "summary": "World Action Models (WAMs) are able to leverage pretrained video generators for both world modeling and action prediction. However, directly leveraging such video generators for control raises a new challenge: how to represent actions in a suitable form that aligns with pretrained video generators while carrying enough motion cues for accurate control. Existing numerical actions fail to satisfy the former, and prior visual action representations overlook the temporal motion structure across frames. We address this issue with FlowWAM, a dual-stream diffusion framework that adopts optical flow as a unified, video-native action representation. Flow videos share the same format as RGB videos and encode rich per-pixel displacement. By jointly modeling them within a shared pretrained video generator, FlowWAM can naturally implement two modes of WAMs. In policy mode, FlowWAM generates flow for action prediction, while in world-model mode, it uses target flow sequences to guide future video generation. Moreover, since flow can be easily extracted from raw videos without action labels, FlowWAM can leverage large-scale action-unlabeled video datasets for pretraining. We empirically find that our flow-based action representation delivers gains across both modes. On RoboTwin manipulation, FlowWAM raises the success rate to 92.94% on the Clean setting and 92.14% on Random, outperforming both VLA and WAM baselines. On WorldArena world modeling, it achieves the best overall EWMScore (63.71) with an 18.4% relative improvement in trajectory accuracy. More results can be found on our project website: https://flow-wam.github.io .",
+    "pdf_url": "https://arxiv.org/pdf/2607.13017v1"
+  },
+  {
+    "title": "The Spectrum Is Not Enough: When Context Helps Time-Series Forecasting",
+    "authors": [
+      "Mert Onur Cakiroglu",
+      "Mehmet Dalkilic",
+      "Hasan Kurban"
+    ],
+    "published": "2026-07-14",
+    "summary": "A growing family of indices scores how predictable a series is from its spectrum. Practitioners increasingly read these scores as answering a different question: whether \\emph{adding context}, a longer lookback, a retrieval plug-in, or a pretrained model, will help. These are not the same question. The value of context is a property of the operating point, not of the series. Any index built from the power spectrum is invariant under phase randomization, whereas the beyond-second-order value that retrieval and foundation models supply is not, because a phase-randomized series is asymptotically Gaussian. We state this as an impossibility result and isolate it with surrogate pairs that fix the spectrum and the marginal by construction. We then give a label-free, configuration-level diagnostic, the coverage deficit, whose principal term measures beyond-spectrum structure as the gain of analog over linear prediction. On seven benchmarks the prediction holds: window-keyed retrieval's value collapses across surrogate pairs (ECL median $+33\\%\\!\\to\\!-35\\%$, $p{<}10^{-40}$) while every spectral index stays frozen; a foundation model's value splits into a surviving second-order part and a small beyond-linear margin that collapses; a longer linear window's value survives. Leave-one-dataset-out, the structure term predicts the sign of beyond-spectrum value where the spectral indices trail it, and the reverse holds for the second-order mechanism. We introduce no new forecaster; the contribution is the distinction, a controlled comparison, and a diagnostic for the deployment decision. Code: https://anonymous.4open.science/r/SINE.",
+    "pdf_url": "https://arxiv.org/pdf/2607.13006v1"
+  },
+  {
+    "title": "ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning",
+    "authors": [
+      "Zhao Yang",
+      "Yinan Shi",
+      "Mingyuan Yao",
+      "Wenyao Xue",
+      "Yawei Jueluo",
+      "Longjun Liu"
+    ],
+    "published": "2026-07-14",
+    "summary": "Vision-language action (VLA) models increasingly adopt chunked action heads to satisfy real-time constraints; however, this introduces boundary jitter: overlapping regions between consecutive chunks often yield inconsistent predictions, degrading temporal coherence and the task success rate. Existing methods, such as inference-time blending, merely reweight mismatched proposals without correcting underlying errors, leading to residual accumulation under biased or noisy histories. We propose ChunkFlow, a seam-aware training-and-execution framework for chunked policies that aligns chunk structure with boundary execution. It partitions each chunk into frozen, editable, and future zones, applies deterministic overlap blending at execution, and trains raw predictions with seam and first- and second-order continuity losses. History corruption and scheduled sampling improve robustness to executed-history errors, while an AWAC fine-tuning stage adapts the policy without removing these structural regularizers. Under mild smoothness assumptions, pre-blending seam discrepancies provably decay with increasing overlap. Experiments on CALVIN, LIBERO, and real robots show an improved success-stability trade-off with low-latency inference. Project page: https://cytoderm-ai.github.io/chunkflow.",
+    "pdf_url": "https://arxiv.org/pdf/2607.12992v1"
+  },
+  {
+    "title": "MAMMOTH: A Multi-Modal End-to-End Policy for Off-Road Mobility Robust to Missing Modality",
+    "authors": [
+      "Ahaan Kotian",
+      "Shivani Subramanyan",
+      "Suresh Sundaram"
+    ],
+    "published": "2026-07-14",
+    "summary": "Reliable autonomous navigation in unstructured off-road environments remains a critical unsolved challenge due to extreme terrain diversity, drastic illumination variations and acute sensor degradation. Recent developments have approached the problem as a traversability costmap estimation or visual navigation task. However, many exhibit heavy reliance on RGB modality, leading to poor performance in varied illumination such as glares, shadows or low ambient light. Achieving robust generalization in such conditions requires integrating modalities that provide supplementary scene information. Such multi-modal methods suffer from a rigid dependency on the presence of near-perfect sensor inputs, leaving them unable to robustly handle sensor degradation or individual modality failure. To address these limitations, we introduce MAMMOTH (MAsking Multi-Modal inputs for Off-road Traversability Heuristic-informed navigation), a unified end-to-end navigation policy for robust off-road visual-goal-conditioned navigation and undirected exploration. Specifically, MAMMOTH efficiently fuses multi-modal observations (RGB, Thermal, 3D Pointcloud and Ego Velocity) and is trained with a modality dropout scheme, enabling it to generalize to missing modalities at inference time. Furthermore, we employ a diffusion policy to learn the joint conditional probability distribution of physically-grounded trajectories and a intrinsic traversability heuristic. MAMMOTH utilizes this heuristic to prefer safer, smoother trajectories. We validate MAMMOTH through extensive real-world robot experiments in distinct off-road environments, including night-time operation. Our results demonstrate superior performance, with significant improvements in collision avoidance, terrain-aware planning and generalization to missing modalities. The code and dataset used for this work will be made publicly available.",
+    "pdf_url": "https://arxiv.org/pdf/2607.12965v1"
+  },
+  {
+    "title": "ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models",
+    "authors": [
+      "Haojie Ren",
+      "Songrui Luo",
+      "Lingfeng Wang",
+      "Yan Xia",
+      "Yao Li",
+      "Jing Li",
+      "Lu Zhang",
+      "Jiajun Deng",
+      "Yanyong Zhang"
+    ],
+    "published": "2026-07-14",
+    "summary": "LiDAR-based collaborative 3D perception in Vehicle-to-Everything (V2X) systems typically relies on fusing bird's-eye-view (BEV) features across agents. However, current BEV representations, typically extracted by LiDAR backbones trained from scratch, are geometry-dominated and lack general semantic priors, inherently limiting the efficacy of feature-level collaboration. Meanwhile, vision foundation models (VFMs) pretrained on large-scale image data have demonstrated strong capability in learning general-purpose and informative visual representations for 2D tasks, and have the potential to enhance agent-wise LiDAR BEV representations for collaboration. Despite this potential, adapting VFMs to LiDAR-based 3D detection remains challenging due to the substantial image-point cloud modality gap. To bridge this gap, we propose ViCo3D, a collaborative 3D object detection framework powered by VFMs. Specifically, ViCo3D adapts VFMs to LiDAR-based collaborative perception from three aspects: First, ViCo3D projects point clouds onto the BEV plane as three-channel images, enabling DINOv2 to extract BEV-space visual features from LiDAR inputs. Besides, to effectively integrate these DINOv2-derived features with LiDAR geometric features, ViCo3D introduces a multi-scale BEV fusion module within the single-agent encoder. In addition, ViCo3D adopts an ego-centric cross-agent fusion strategy to aggregate complementary information from multiple agents. Experiments on DAIR-V2X and V2XSet demonstrate that ViCo3D achieves state-of-the-art 3D detection performance. Remarkably, it delivers up to 1.8x greater collaborative gains than prior methods on DAIR-V2X. The code will be made public available for future investigation.",
+    "pdf_url": "https://arxiv.org/pdf/2607.12959v1"
+  },
+  {
+    "title": "ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning",
+    "authors": [
+      "Yilun Kong",
+      "Yunpeng Qing",
+      "Guozheng Ma",
+      "Haoyu Wang",
+      "Li Shen",
+      "Zhi Hou",
+      "Dacheng Tao"
+    ],
+    "published": "2026-07-14",
+    "summary": "Reinforcement Learning (RL) has demonstrated significant potential for improving Vision-Language-Action (VLA) models on complex manipulation tasks. However, its practical scalability remains severely limited by the substantial cost of environmental interactions. In this work, we first investigate the exploration stagnation bottleneck in current VLA-RL frameworks and reveal that trajectory diversity is fundamentally more important to sample efficiency than the sheer quantity of collected rollouts. Motivated by these insights, we introduce RL Exploration Token (ExToken), a simple yet general framework that condition VLA policies on discrete behavioral priors derived from offline demonstrations for structured exploration. By conditioning the policy on different tokens during rollout collection, ExToken encourages the agent to explore diverse behavioral modes, substantially improving state-action coverage and exploration efficiency. To bridge exploration during training with deterministic inference at deployment, ExToken further incorporates a state-conditioned token selector that adaptively predicts effective behavioral modes for unseen scenarios. Extensive experiments across simulated and real-world robotic manipulation tasks demonstrate that ExToken consistently accelerates convergence, improves task performance, and exhibits strong robustness under highly constrained interaction budgets.",
+    "pdf_url": "https://arxiv.org/pdf/2607.12931v1"
+  },
+  {
     "title": "Astra: an open-source fully autonomous robotic observatory control software",
     "authors": [
       "Peter P. Pedersen",
@@ -390,105 +515,5 @@
     "published": "2026-07-14",
     "summary": "This paper studies motion estimation of moving energy emitters using passive sensors. The emitters may be light, acoustic, or radio sources. While the bearing vector pointing from the sensor to the emitter can be easily obtained, existing approaches mainly rely on the bearing-only motion estimation method. However, this method suffers from a fundamental limitation that the sensor must have lateral motion to ensure observability. Unfortunately, this lateral motion requirement often conflicts with the sensor's desired motion in many tasks. In this paper, we point out that the received signal strength, which can also be obtained easily in many ways, can greatly enhance motion estimation. Surprisingly, this strength information has not been well explored so far. Here, we propose a new bearing-strength method to fully exploit both the bearing and strength measurements. Our theoretical analysis shows that the system observability is significantly enhanced in the sense that the lateral motion condition is not required anymore. Real-world experimental results verify the proposed method and the theoretical analysis. It is notable that the benefit of the proposed method comes with no additional cost since it simply utilizes the received strength information that has not been fully exploited in the past.",
     "pdf_url": "https://arxiv.org/pdf/2607.12515v1"
-  },
-  {
-    "title": "Infra-Swarm: Robust Vision-Based Multi-Robot Swarming via Near-Infrared Spectral Vision",
-    "authors": [
-      "Haoyu Chen",
-      "Qijin Li",
-      "Wanyu Xiang",
-      "Xiuxiu Lin",
-      "Zian Ning",
-      "Shiyu Zhao"
-    ],
-    "published": "2026-07-14",
-    "summary": "Distributed swarms typically rely on either active wireless communication or passive vision, and they are frequently hindered by bandwidth constraints or environmental sensitivity. This paper proposes Infra-Swarm, a robust vision-based swarm. Each robot is equipped with a near-infrared light source and four ordinary gray-scale cameras. The Infra-Swarm system directly measures the centimeter-level 3D position of neighbors based on the position (bearing) and intensity (strength) of optical flares in the captured images. By utilizing 940 nm narrow-band filters to physically reject 99.2% of ambient light interference, the perception front-end achieves hardware-level robustness against illumination variations. Furthermore, its minimal computational overhead provides a resilient foundation for the massive scalability of robotic collectives on resource-constrained hardware.",
-    "pdf_url": "https://arxiv.org/pdf/2607.12489v1"
-  },
-  {
-    "title": "TRACE: An Operational Reasoning Schema for Auditable Agentic Commitments",
-    "authors": [
-      "Edward Y. Chang",
-      "Emily J. Chang"
-    ],
-    "published": "2026-07-14",
-    "summary": "This paper defines TRACE (Typed Reasoning And Commitment Evidence): a typed, versioned schema for recording reasoning traces, a reference procedure for writing records against it, and one operating discipline, no durable state change without a record. The paper argues in three layers that reasoning is not in the language model: the autoregressive mechanism natively computes association; chain-of-thought and reinforcement learning inherit its limits; and the formal constructs of reasoning theory, from Socratic procedure to Pearl's ladder, are absent as machinery. The schema answers the absence with fields and tests: the TraceRecord and its causal specialization, an eight-stage reference writer, a gate-first measurement regime, the TRACE-Bench protocol, and the consumers, memory admission, plan gating, temporal regret, and verdict reuse, whose more auditable decisions are the measure of the record. A record-consumer contract states what a record guarantees and what a consumer must honor in return, making the schema an operational interface rather than a passive document. Two worked examples run in the main text: a music-lessons argument traced from sentence to typed verdict, separating association, intervention, and prescription; and a flood search-and-rescue vignette in which a predictive world model reports confident plan success that its own support and out-of-distribution scores contradict, so the record defers the commitment, requests a bounded observation, revises append-only, and clears a different branch. The vignette is illustrative, not empirical; closed-loop evaluation is left to future work, so the contribution is the schema and its contract, not a performance claim. Appendices carry the full schema, writer algorithms and cost model, clinical and policy illustrations, the benchmark protocol, convergence metrics, and usage scenarios.",
-    "pdf_url": "https://arxiv.org/pdf/2607.12480v1"
-  },
-  {
-    "title": "From Observation to Insight: Mechanistic World Models and the Quest for Autonomous Discovery",
-    "authors": [
-      "Ingmar Posner",
-      "Anson Lei",
-      "Bernhard Schölkopf"
-    ],
-    "published": "2026-07-14",
-    "summary": "Recent advances in foundation models have transformed AI for Science, enabling remarkably accurate predictive performance across domains ranging from protein folding to weather forecasting. Yet prediction alone does not constitute scientific discovery. Scientific understanding depends on uncovering the reusable explanatory mechanisms that generate observations, whereas contemporary machine learning remains fundamentally organised around predictive mappings rather than explanatory structure. In this paper, we argue that scientific discovery is fundamentally a problem of knowledge organisation. To this end, we introduce Mechanistic World Models, a new design paradigm that places reusable mechanisms at the centre of representation, computation and learning. Drawing on insights from the philosophy of science, we derive the computational capabilities required for discovery, identify the design principles and inductive pressures that encourage explanatory knowledge to emerge, and formalise the anatomy of a mechanism-centric world model. Finally, we show how diverse research directions including mechanistic interpretability, causal representation learning, equation discovery and modular architectures capture complementary ingredients of this paradigm while lacking a unified framework. We propose Mechanistic World Models as a conceptual foundation and computational blueprint for moving AI beyond predictive forecasting towards autonomous scientific discovery.",
-    "pdf_url": "https://arxiv.org/pdf/2607.12474v1"
-  },
-  {
-    "title": "Deployable Human Preference Alignment in Robotics: Learning Representative Rewards from Diverse Human Preferences",
-    "authors": [
-      "Taehyung Kim",
-      "Gwangmo Lee",
-      "Minjun Chang",
-      "Sunghyun Lim",
-      "Jongeun Choi"
-    ],
-    "published": "2026-07-14",
-    "summary": "Aligning robot policies with human preferences is essential for deployment to diverse end users. In per-user alignment approach, preference feedback is often sparse, so learning becomes unstable and vulnerable to human preference noise, and a growing number of individualized policies makes validation difficult before deployment. A single shared policy approach to user alignment avoids this cost but fails to capture heterogeneous preferences and often neglects minority preferences. To address these challenges, we introduce Preference-based REward Clustering (PREC), a novel framework that learns a compact set of policies from binary preference labels provided by diverse users. From a dataset of user trajectories and their preference labels, PREC first sets the labels aside and aggregates trajectories across users to learn a population-level shared trajectory encoder, alleviating limited per-user coverage and avoiding label noise during representation learning. Using this representation, PREC jointly assigns users to preference-coherent clusters and learns a representative reward model per cluster using preference labels, from which a policy is optimized for each cluster. Clustering similar users compensates for the limited number of labels available from each user and mitigates the effect of label noise. At the same time, maintaining a manageable number of reward models reduces the validation burden at deployment. Experiments across diverse simulated locomotion environments show that PREC groups users who label different trajectory subsets into preference-coherent clusters more accurately than baseline methods. Under sparse and noisy feedback, policies trained with PREC improve all three social welfare metrics over an existing single shared-policy user-alignment approach and even outperform per-user alignment approaches.",
-    "pdf_url": "https://arxiv.org/pdf/2607.12466v1"
-  },
-  {
-    "title": "Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models",
-    "authors": [
-      "Yubo Wang",
-      "Jiarong Liang",
-      "Yuxuan Zhang",
-      "Xuye Liu",
-      "Cong Wei",
-      "Yuyu Zhang",
-      "Ping Nie",
-      "Wenhu Chen"
-    ],
-    "published": "2026-07-14",
-    "summary": "Coding agents must integrate external tool returns into ongoing reasoning - a capability that standard left-to-right pretraining on code exposes only in its forward direction. We observe that the action-observation-continuation loop of a coding agent is structurally isomorphic to a function call site, where a caller binds arguments, a callee returns a value computed elsewhere, and downstream code consumes that value. This conditioning structure exists at internet scale in ordinary code. We exploit it through function-aware fill-in-the-middle (FIM) mid-training: a self-supervised objective that masks functions selected via program dependency graph analysis and a complexity-inferability double criterion. We mid-train Qwen2.5-Coder-Instruct (7B/14B) and Qwen3-8B on a 2.6B-token decontaminated corpus drawn from 968 GitHub repositories, then apply existing agentic post-training pipelines. Mid-training improves SWE-Bench-Verified by +2.8/+3.0 at 7B/14B and by +3.2 on Qwen3-8B; SWE-Bench-Lite gains are +3.7/+4.0/+5.4 on the same models. The improvement holds across two post-training pipelines (R2E-Gym, SWE-Smith) and on a non-Qwen2.5 base (Qwen3-8B with SWE-Lego). Beyond in-domain gains, mid-training also mitigates the capability erosion that agentic post-training otherwise inflicts on non-agent coding (e.g., LiveCodeBench) and non-coding tool-use benchmarks (tau-bench, BFCL): although the mid-training corpus contains Python code only, the function-call inductive bias survives post-training and yields consistent gains.",
-    "pdf_url": "https://arxiv.org/pdf/2607.12463v1"
-  },
-  {
-    "title": "Exploring Zero-Shot Foundation Models for Multivariate Time Series Anomaly Detection",
-    "authors": [
-      "Martin Uray",
-      "Saverio Messineo",
-      "Roland Kwitt",
-      "Stefan Huber"
-    ],
-    "published": "2026-07-14",
-    "summary": "Multivariate Time Series Anomaly Detection (MTSAD) is essential for reliability and safety in domains such as industrial process monitoring and financial risk management, yet conventional approaches rely on application-specific models that are costly to train and hard to scale. Foundation Models (FMs), pre-trained on broad data with strong zero-shot generalization, have recently become available for univariate time series forecasting, raising the question of whether they can address MTSAD without task-specific training. We investigate the zero-shot application of a univariate forecasting FM, TimesFM, to industrial MTSAD on the Secure Water Treatment (SWaT) benchmark, evaluating two strategies: treating the FM as a per-feature forecaster with thresholded prediction errors, and as an embedder whose intermediate representations feed standard outlier detectors. Neither of our proposed setups is competitive with established baselines; embeddings reveal only partial separation between normal and anomalous segments, insufficient for reliable detection. The cause is that the FM is too effective at capturing temporal dynamics, yielding low error even within fully anomalous windows, so persistent anomalies become indistinguishable from normal behavior. However, these observations yield valuable insights: the error peaks at anomaly boundaries, indicating FMs reliably detect distribution changes. We conclude that the proposed naive zero-shot FMs are unsuitable for MTSAD but promising for change-point detection.",
-    "pdf_url": "https://arxiv.org/pdf/2607.12454v1"
-  },
-  {
-    "title": "More Than Where You Are: Learning Semantics, Structure, and Geometry from Cross-View Localization",
-    "authors": [
-      "Mao Chen",
-      "Xiangkai Zhang",
-      "Zhiyong Liu",
-      "Chuankai Liu",
-      "Xu Yang"
-    ],
-    "published": "2026-07-14",
-    "summary": "Consistent cross-view understanding under extreme viewpoint changes is essential for spatial intelligence, as it enables models to recognize the same scene across extreme viewpoint gaps. Cross-view localization naturally provides a promising pathway toward this ability, as it requires a model to align ground-view imagery with geo-referenced satellite-view imagery despite drastic appearance changes to estimate camera poses. Recent visual foundation models have made this long-standing localization problem increasingly feasible by providing rich 2D representations for cross-view matching. However, we argue that cross-view localization should not be viewed merely as 2D matching or pose estimation. In this work, we revisit cross-view localization as more than pose estimation and investigate how it can help the model develop consistent cross-view understanding under extreme viewpoint changes, including stable semantics, reliable structure, and transferable geometry. We identify three key limitations of existing methods that prevent them from achieving this. They usually lack explicit 3D grounding, rely on strict point-wise matching that can weaken semantic consistency, and learn from an absolute objective that provides limited guidance for geometric reasoning. To address these limitations, we propose CROSS, a unified cross-view localization framework built upon 3D-grounded alignment, structure-aware matching, and hypothesis ranking. This formulation makes structure learning an intrinsic requirement, encourages semantic representations to remain stable, and enables the model to acquire transferable geometry. Extensive experiments on the KITTI and VIGOR datasets show that CROSS achieves state-of-the-art performance in cross-view localization. More importantly, CROSS effectively learns stable semantics, reliable structure, and transferable geometry across extremely different viewpoints.",
-    "pdf_url": "https://arxiv.org/pdf/2607.12429v1"
-  },
-  {
-    "title": "Model-Based Diffusion Optimal Control for Multi-Robot Motion Planning",
-    "authors": [
-      "Zhilin He",
-      "Yorai Shaoul",
-      "Jiaoyang Li"
-    ],
-    "published": "2026-07-14",
-    "summary": "Multi-Robot Motion Planning in continuous environments, where robots must generate dynamically feasible, collision-free trajectories, is challenging due to the combinatorial growth of the joint trajectory space and the difficulty of enforcing dynamic feasibility and hard safety constraints. Recent approaches recast trajectory planning as probabilistic inference, sampling from a posterior over trajectories using diffusion models whose score functions are learned from demonstration data. While showing promising performance, these approaches are limited: they often rely on sizable demonstration datasets and struggle to rigorously enforce dynamics and hard safety constraints during sampling. To this end, we introduce Model-Based Diffusion Optimal Control (MDOC), a model-based diffusion planner that efficiently produces dynamically feasible trajectories without relying on data. Crucially, we show that MDOC's safety mechanism -- combining known dynamics models with Control Barrier Function-constrained projections -- naturally scales to multi-robot planning settings through Conflict-Based Search. Across simulation experiments, this integrated method consistently outperforms representative baseline planners in sample efficiency, geometric smoothness, and success rate, while reducing computation time and producing collision-free trajectories.",
-    "pdf_url": "https://arxiv.org/pdf/2607.12423v1"
   }
 ]
