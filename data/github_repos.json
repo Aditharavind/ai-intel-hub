@@ -11,13 +11,13 @@
   },
   {
     "repo": "copper-project/copper-rs",
-    "stars": 1409,
+    "stars": 1410,
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
     "date": "2026-07-15",
     "topic": "physical-ai",
-    "score": 563.7
+    "score": 564.1
   },
   {
     "repo": "mosaico-labs/mosaico",
@@ -61,13 +61,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63124,
+    "stars": 63125,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-07-15",
     "topic": "robotics",
-    "score": 25249.7
+    "score": 25250.1
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -131,23 +131,23 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4123,
+    "stars": 4124,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-07-15",
     "topic": "embodied-ai",
-    "score": 1649.3
+    "score": 1649.7
   },
   {
     "repo": "dora-rs/dora",
-    "stars": 3842,
+    "stars": 3843,
     "language": "Rust",
     "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
     "url": "https://github.com/dora-rs/dora",
     "date": "2026-07-15",
     "topic": "embodied-ai",
-    "score": 1536.9
+    "score": 1537.3
   },
   {
     "repo": "StanfordVL/BEHAVIOR-1K",
@@ -168,6 +168,16 @@
     "date": "2026-07-15",
     "topic": "embodied-ai",
     "score": 378.9
+  },
+  {
+    "repo": "flashrt-project/FlashRT",
+    "stars": 427,
+    "language": "C++",
+    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
+    "url": "https://github.com/flashrt-project/FlashRT",
+    "date": "2026-07-15",
+    "topic": "vla",
+    "score": 170.9
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -340,16 +350,6 @@
     "score": 731.7
   },
   {
-    "repo": "flashrt-project/FlashRT",
-    "stars": 426,
-    "language": "C++",
-    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
-    "url": "https://github.com/flashrt-project/FlashRT",
-    "date": "2026-07-14",
-    "topic": "vla",
-    "score": 170.5
-  },
-  {
     "repo": "inclusionAI/AWorld",
     "stars": 1213,
     "language": "Python",
@@ -371,23 +371,23 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30052,
+    "stars": 30053,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-07-13",
     "topic": "robotics",
-    "score": 12020.9
+    "score": 12021.3
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2687,
+    "stars": 2688,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-07-13",
     "topic": "embodied-ai",
-    "score": 1074.9
+    "score": 1075.3
   },
   {
     "repo": "hzxie/DynamicVLA",
@@ -421,13 +421,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 8156,
+    "stars": 8159,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 3262.5
+    "score": 3263.7
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -501,23 +501,23 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82469,
+    "stars": 82471,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 32987.7
+    "score": 32988.5
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
-    "stars": 3021,
+    "stars": 3022,
     "language": "HTML",
     "description": "BOM, STL files and instructions for PAROL6 3D printed robot arm",
     "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
     "date": "2026-07-07",
     "topic": "lerobot",
-    "score": 1208.5
+    "score": 1208.9
   },
   {
     "repo": "nik-55/world-models",
@@ -801,13 +801,13 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13571,
+    "stars": 13572,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-06-19",
     "topic": "robotics",
-    "score": 5428.5
+    "score": 5428.9
   },
   {
     "repo": "VinRobotics/vinrobotics_mjlab",
