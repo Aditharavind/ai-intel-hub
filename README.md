@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-15 07:03 UTC
+Last Updated: 2026-07-15 09:45 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-15 | Hacking Around the Financial Pain of New 3DS XL Top Screens | Hackaday | [link](https://hackaday.com/2026/07/15/hacking-around-the-financial-pain-of-new-3ds-xl-top-screens/) |
 | 2026-07-15 | AIM-ing For a More Open Platform Than Discord | Hackaday | [link](https://hackaday.com/2026/07/14/aim-ing-for-a-more-open-platform-than-discord/) |
 | 2026-07-15 | Benchmarking Repairability Scores with an Asus Tablet | Hackaday | [link](https://hackaday.com/2026/07/14/benchmarking-repairability-scores-with-an-asus-tablet/) |
 | 2026-07-15 | Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux | CNX Software | [link](https://www.cnx-software.com/2026/07/15/reverse-engineering-brings-rk3576-npu-support-to-open-source-rocket-driver-for-mainline-linux/) |
@@ -57,8 +58,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-15 | UMC shipping Sipho wafers | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/umc-ships-sipho-2026-07/) |
 | 2026-07-15 | NextGO Epi raises €2m for Gallium Oxide development | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/epi-raises-e2m-for-gallium-oxide-development-2026-07/) |
 | 2026-07-15 | element14 offers products for free in return for reviews | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/elenent14-offers-products-free-in-return-for-reviews-2026-07/) |
-| 2026-07-15 | Configurable pressure  sensor span down to 2 bar. | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/low-pressure-variants-support-configurable-pressure-spans-as-low-as-2-bar-2026-07/) |
-| 2026-07-14 | Full Body VR Tracking Is Just Some Recycled Hardware Away | Hackaday | [link](https://hackaday.com/2026/07/14/full-body-vr-tracking-is-just-some-recycled-hardware-away/) |
+| 2026-07-15 | Configurable pressure  sensor span down to 2 bar | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/low-pressure-variants-support-configurable-pressure-spans-as-low-as-2-bar-2026-07/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,16 +77,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-15 | Jing1221/robot_lab_elevation | 0 | 0 | [link](https://huggingface.co/Jing1221/robot_lab_elevation) |
 | 2026-07-15 | HarrisonPENG/M2W-VLA-RoboTwin | 103 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
-| 2026-07-15 | XiaomiRobotics/Xiaomi-Robotics-U0 | 13 | 5 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0) |
-| 2026-07-15 | XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR | 5 | 3 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR) |
+| 2026-07-15 | XiaomiRobotics/Xiaomi-Robotics-U0 | 13 | 7 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0) |
+| 2026-07-15 | XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR | 5 | 5 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR) |
 | 2026-07-15 | RobotisSW/Task_Dispose_Wastebox_chunk30_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_Wastebox_chunk30_50K) |
 | 2026-07-15 | RobotisSW/Task_Dispose_Wastebox_chunk30_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_Wastebox_chunk30_30K) |
 | 2026-07-15 | puppet-robotics/golf-model-eval | 22 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-eval) |
 | 2026-07-15 | RobotisSW/Task_Dispose_Wastebox_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_Wastebox_30K) |
 | 2026-07-15 | RobotisSW/Task_900008_900009_merged_act_20k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900008_900009_merged_act_20k) |
-| 2026-07-15 | TopYan/My_VLA_3W | 0 | 0 | [link](https://huggingface.co/TopYan/My_VLA_3W) |
-| 2026-07-15 | TopYan/My_VLA_3W_LoRA | 0 | 0 | [link](https://huggingface.co/TopYan/My_VLA_3W_LoRA) |
+| 2026-07-15 | zwan1003/pickplace_pick_vla_v2 | 0 | 0 | [link](https://huggingface.co/zwan1003/pickplace_pick_vla_v2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,11 +94,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Edgenesis/shifu | 1427 | Go | 570.9 | [link](https://github.com/Edgenesis/shifu) |
 | awslabs/awsome-distributed-ai | 461 | Shell | 184.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 163 | Python | 65.3 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63121 | Python | 25248.5 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15468 | C++ | 6187.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14212 | C++ | 5684.9 | [link](https://github.com/google-deepmind/mujoco) |
+| commaai/openpilot | 63122 | Python | 25248.9 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15470 | C++ | 6188.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14214 | C++ | 5685.7 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11275 | Python | 4510.1 | [link](https://github.com/kornia/kornia) |
-| isaac-sim/IsaacLab | 7678 | Python | 3071.3 | [link](https://github.com/isaac-sim/IsaacLab) |
+| isaac-sim/IsaacLab | 7679 | Python | 3071.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3842 | Rust | 1536.9 | [link](https://github.com/dora-rs/dora) |
 | worldbench/awesome-3d-4d-world-models | 947 | HTML | 378.9 | [link](https://github.com/worldbench/awesome-3d-4d-world-models) |
 
@@ -122,8 +122,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-15 | Shenzhen Professor Robot Startup LimX Dynamics Hits $2.3B Valuation With $200M Pre-IPO Round - Pandaily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTFBWeGtEdmh5N29waGU0MlFsM3BHWjlBTXdPMjUyQ1RydHNmTlQzX1BCUnF0bU4zSlI0amM4QmttNlFCUWdpU3dzUVdmV2hlQ1pkUVc2ZGQ2aWpHU2hUS1JQUmZkRGZ4NW5zYkhYdGtBYw?oc=5) |
 | 2026-07-14 | 'Listing is a must': Chinese humanoid startups are rushing to launch IPOs - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjNZV3Q0Y1k0N1pSZFpUQzZ1ZS1OeUpqa09VTm44TWJBSG1ReWZfY1ZwMnRLNTB3NF9DOVQ1MXIwSkI1Zms1a21yT0lLT0hTZXBldUxZWHJFWHpTRENWcXlSVTVCakFXamhLNWZkajlNd1p2MmtWU1ZhUmItMUNkVzlid09zZ9IBiwFBVV95cUxQUkI1aGFUdGU3T3o5Xy1TckFfNllaeGN2UTlVMFBDd2tfTzJOd1JUaFo1WTlmZXJTSmtOSFp4cUVZLXcxMUxhd0xCZlFxV1Z3Q3BzQVlfTElrZUdRQk9KMHdOU3ZCTDJYR21Ld0NmcVBLYkh1NnlfX1pZVWRNMXJhT3lpOG9pWUV4UXhN?oc=5) |
 | 2026-07-14 | Startup Upset After Journalist Points Out How Creepy Its Humanoid Robots’s Hands Are - Futurism | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcVJkTEMxakh0Z3FHblVLTDk3LTNjN2xJTl9nS2Fjd3d6eDItay1nU0t4QmI1YkI3dDk2dk9yaVhZZVJqSVBtQU5QcGFtTzhyRF96dmstUUVBRHd6NmdvbWFGSXp6b0Fra2NXdnNGQU1KbUcyS3gzLURRWnhXRDA5d2lnczE5S2VZdmkwSQ?oc=5) |
-| 2026-07-14 | Chinese Robotics Startup Raises $200 Million - Caixin Global | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxPOGlNLXBXZ0VkMlp1NEp0SmJTa1ozOUd2VzNHVkZZM2tEOEl3enRFcTJSVk41Y2pBalRhOEw2ODJabjE0TkYyclpfVFhPclR4VEVKV3BWRnBWWWo5QkJmRlZTdWllWjFKTHRXS2RFcnZfaUZJMTQwVDdPSTBBckdveUo1NF90VXFFMk8zY1hENGdnMlRPY2VsS3ZPai1LNUE?oc=5) |
 | 2026-07-14 | Chinese robot startup LimX Dynamics raises $200m to improve autonomy - Nikkei Asia | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjV5T1diZ3RFNFBiX0RZdThkNnQtLTNXLXVZRi1NdzhnWlhoQXdwTEN2c293VEdHTHBRUWhHV2M0ejNTVlFyYWlJQW5sdTZmcmxldEtmMDhoUV9WRjB1OGNHYzNXZkRvSkJ2NF92aEIwM19UdWxfZkllS25VV0c2Y21JaU1tbVM1N29nc0hRNXRDem5pUXlQVzVpdWJ1NkZ0aVpCVDB3elpUNVEzd01yZg?oc=5) |
+| 2026-07-14 | Chinese Robotics Startup Raises $200 Million - Caixin Global | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxPOGlNLXBXZ0VkMlp1NEp0SmJTa1ozOUd2VzNHVkZZM2tEOEl3enRFcTJSVk41Y2pBalRhOEw2ODJabjE0TkYyclpfVFhPclR4VEVKV3BWRnBWWWo5QkJmRlZTdWllWjFKTHRXS2RFcnZfaUZJMTQwVDdPSTBBckdveUo1NF90VXFFMk8zY1hENGdnMlRPY2VsS3ZPai1LNUE?oc=5) |
 | 2026-07-13 | Spatial AI startup Augmodo raises $21M to expand beyond retail stores - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVkR6YWJXQjNVTV9ONE5KTmRhVm5XbW04ekduY2h5WW9LX3ZtUU5GQ0VDS29wdE0xOUl1VjFza21mVjBlUUlKTVZXbzN6S3VIZTJlb0pKQlR0eDUzSUVQOUFsTUVUa0VIX1o4djNRSGVFaU5tckhaY0J1eFBOREt6WEpzOTE4OFhjcXpUMDR5MC1zWDR3SmJoYTVHMF9paHZlOTcwOA?oc=5) |
 | 2026-07-13 | Augmodo raises $21M to push its spatial AI beyond just retail toward the broader physical workforce - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmxON2h1YkZRRUJqakJCQ0VXb0tZMV9LcVJlWTlTLXhtYmx0Y0lqVHJ1V20xYnZiV0FiNlZVdXJmcVl2MmhOZGNhZkdQLTZNWTZGWDNvcmpnRjRERmtyYlVPNjYtcDM4RlFmS3I5eHFXTV9HUmpJbnkxN0JZeWpjZXhadkhZcF9tX202aldvTnhqcXctdTVOYWx0bFZLaFNWbExFZVdZWGtycDcxOF85cUd3c3hwbVpITEM5QlZzSHd5cFZyZ25UbA?oc=5) |
 | 2026-07-13 | Humanoid robot startup Holiday Robotics announced on the 13th that it has attracted a total of 155 b.. - 매일경제 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5ZVc4WUZfaVVBNGNOYUd2Vy1KczQ3OVlhcHNONlBYMmJIeWxFR25rYU9LV0ktcGJmSHNRWmNtQ0laUjA1ZW9ES0RWWQ?oc=5) |

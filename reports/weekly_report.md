@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-15 07:03 UTC
+Generated: 2026-07-15 09:45 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,10 +14,10 @@ Generated: 2026-07-15 07:03 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82460 | 32984.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63121 | 25248.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44234 | 17693.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30046 | 12018.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 82462 | 32984.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63122 | 25248.9 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44235 | 17694.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30050 | 12020.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16015 | 6406.1 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
@@ -44,5 +44,5 @@ Generated: 2026-07-15 07:03 UTC
 | 2026-07-15 | Shenzhen Professor Robot Startup LimX Dynamics Hits $2.3B Valuation With $200M Pre-IPO Round - Pandaily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTFBWeGtEdmh5N29waGU0MlFsM3BHWjlBTXdPMjUyQ1RydHNmTlQzX1BCUnF0bU4zSlI0amM4QmttNlFCUWdpU3dzUVdmV2hlQ1pkUVc2ZGQ2aWpHU2hUS1JQUmZkRGZ4NW5zYkhYdGtBYw?oc=5) |
 | 2026-07-14 | 'Listing is a must': Chinese humanoid startups are rushing to launch IPOs - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjNZV3Q0Y1k0N1pSZFpUQzZ1ZS1OeUpqa09VTm44TWJBSG1ReWZfY1ZwMnRLNTB3NF9DOVQ1MXIwSkI1Zms1a21yT0lLT0hTZXBldUxZWHJFWHpTRENWcXlSVTVCakFXamhLNWZkajlNd1p2MmtWU1ZhUmItMUNkVzlid09zZ9IBiwFBVV95cUxQUkI1aGFUdGU3T3o5Xy1TckFfNllaeGN2UTlVMFBDd2tfTzJOd1JUaFo1WTlmZXJTSmtOSFp4cUVZLXcxMUxhd0xCZlFxV1Z3Q3BzQVlfTElrZUdRQk9KMHdOU3ZCTDJYR21Ld0NmcVBLYkh1NnlfX1pZVWRNMXJhT3lpOG9pWUV4UXhN?oc=5) |
 | 2026-07-14 | Startup Upset After Journalist Points Out How Creepy Its Humanoid Robots’s Hands Are - Futurism | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcVJkTEMxakh0Z3FHblVLTDk3LTNjN2xJTl9nS2Fjd3d6eDItay1nU0t4QmI1YkI3dDk2dk9yaVhZZVJqSVBtQU5QcGFtTzhyRF96dmstUUVBRHd6NmdvbWFGSXp6b0Fra2NXdnNGQU1KbUcyS3gzLURRWnhXRDA5d2lnczE5S2VZdmkwSQ?oc=5) |
-| 2026-07-14 | Chinese Robotics Startup Raises $200 Million - Caixin Global | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxPOGlNLXBXZ0VkMlp1NEp0SmJTa1ozOUd2VzNHVkZZM2tEOEl3enRFcTJSVk41Y2pBalRhOEw2ODJabjE0TkYyclpfVFhPclR4VEVKV3BWRnBWWWo5QkJmRlZTdWllWjFKTHRXS2RFcnZfaUZJMTQwVDdPSTBBckdveUo1NF90VXFFMk8zY1hENGdnMlRPY2VsS3ZPai1LNUE?oc=5) |
 | 2026-07-14 | Chinese robot startup LimX Dynamics raises $200m to improve autonomy - Nikkei Asia | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjV5T1diZ3RFNFBiX0RZdThkNnQtLTNXLXVZRi1NdzhnWlhoQXdwTEN2c293VEdHTHBRUWhHV2M0ejNTVlFyYWlJQW5sdTZmcmxldEtmMDhoUV9WRjB1OGNHYzNXZkRvSkJ2NF92aEIwM19UdWxfZkllS25VV0c2Y21JaU1tbVM1N29nc0hRNXRDem5pUXlQVzVpdWJ1NkZ0aVpCVDB3elpUNVEzd01yZg?oc=5) |
+| 2026-07-14 | Chinese Robotics Startup Raises $200 Million - Caixin Global | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxPOGlNLXBXZ0VkMlp1NEp0SmJTa1ozOUd2VzNHVkZZM2tEOEl3enRFcTJSVk41Y2pBalRhOEw2ODJabjE0TkYyclpfVFhPclR4VEVKV3BWRnBWWWo5QkJmRlZTdWllWjFKTHRXS2RFcnZfaUZJMTQwVDdPSTBBckdveUo1NF90VXFFMk8zY1hENGdnMlRPY2VsS3ZPai1LNUE?oc=5) |

@@ -1,5 +1,14 @@
 [
   {
+    "model": "Jing1221/robot_lab_elevation",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Jing1221/robot_lab_elevation",
+    "date": "2026-07-15",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "HarrisonPENG/M2W-VLA-RoboTwin",
     "downloads": 103,
     "likes": 0,
@@ -11,20 +20,20 @@
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-U0",
     "downloads": 13,
-    "likes": 5,
+    "likes": 7,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0",
     "date": "2026-07-15",
     "keyword": "robotics",
-    "score": 5.0
+    "score": 5.4
   },
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR",
     "downloads": 5,
-    "likes": 3,
+    "likes": 5,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR",
     "date": "2026-07-15",
     "keyword": "robotics",
-    "score": 2.2
+    "score": 2.6
   },
   {
     "model": "RobotisSW/Task_Dispose_Wastebox_chunk30_50K",
@@ -72,6 +81,24 @@
     "score": 0.1
   },
   {
+    "model": "zwan1003/pickplace_pick_vla_v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zwan1003/pickplace_pick_vla_v2",
+    "date": "2026-07-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Xiazhiqi2002/dac_vla_qwen3vl_2b_15e",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Xiazhiqi2002/dac_vla_qwen3vl_2b_15e",
+    "date": "2026-07-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "TopYan/My_VLA_3W",
     "downloads": 0,
     "likes": 0,
@@ -99,22 +126,58 @@
     "score": 0.1
   },
   {
+    "model": "SilverStRock/worldmodel-dino-tworoom-noprop-ep6",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SilverStRock/worldmodel-dino-tworoom-noprop-ep6",
+    "date": "2026-07-15",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "SilverStRock/worldmodel-dino-reacher-noprop-ep68",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SilverStRock/worldmodel-dino-reacher-noprop-ep68",
+    "date": "2026-07-15",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "SilverStRock/worldmodel-dino-pusht-noprop-ep152",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SilverStRock/worldmodel-dino-pusht-noprop-ep152",
+    "date": "2026-07-15",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "SilverStRock/worldmodel-dino-cube-noprop-ep11",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SilverStRock/worldmodel-dino-cube-noprop-ep11",
+    "date": "2026-07-15",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
     "model": "tencent/Hy-Embodied-RxBrain-1.0",
     "downloads": 0,
-    "likes": 3,
+    "likes": 4,
     "url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
     "date": "2026-07-15",
     "keyword": "embodied",
-    "score": 0.7
+    "score": 0.9
   },
   {
     "model": "tencent/Hy-Embodied-VLM-1.0",
     "downloads": 0,
-    "likes": 5,
+    "likes": 7,
     "url": "https://huggingface.co/tencent/Hy-Embodied-VLM-1.0",
     "date": "2026-07-15",
     "keyword": "embodied",
-    "score": 1.1
+    "score": 1.5
   },
   {
     "model": "lyhisme/Navigation_Agent",
@@ -124,6 +187,24 @@
     "date": "2026-07-15",
     "keyword": "navigation",
     "score": 0.1
+  },
+  {
+    "model": "MakinoKF/pick-the-various-direction-bolt-dataset_diffusion-policy-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MakinoKF/pick-the-various-direction-bolt-dataset_diffusion-policy-v1",
+    "date": "2026-07-15",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "open-gigaai/Giga-World-Policy-0.5",
+    "downloads": 0,
+    "likes": 4,
+    "url": "https://huggingface.co/open-gigaai/Giga-World-Policy-0.5",
+    "date": "2026-07-15",
+    "keyword": "policy",
+    "score": 0.9
   },
   {
     "model": "JunJunJunya/bluecube_101_merged_policy_baseline",
@@ -225,15 +306,6 @@
     "score": 0.1
   },
   {
-    "model": "milab-robot/N1.7_0518_amore_40000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/milab-robot/N1.7_0518_amore_40000",
-    "date": "2026-07-14",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "Mayank022/urban-vla-left-turn-smolvla",
     "downloads": 0,
     "likes": 0,
@@ -277,24 +349,6 @@
     "date": "2026-07-14",
     "keyword": "vla",
     "score": 5.4
-  },
-  {
-    "model": "jim4real/so101-lingbot-vla2-intermediate-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jim4real/so101-lingbot-vla2-intermediate-checkpoints",
-    "date": "2026-07-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "VladimirRH/toxicity-classifier",
-    "downloads": 10,
-    "likes": 1,
-    "url": "https://huggingface.co/VladimirRH/toxicity-classifier",
-    "date": "2026-07-14",
-    "keyword": "vla",
-    "score": 3.3
   },
   {
     "model": "physicalai-bmi/orbital-formation-bc",
@@ -346,24 +400,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/GoldenPeel/so101-button-touching-policy-ideal-25",
-    "date": "2026-07-14",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "schronn/policy_pouring_blue_v1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/schronn/policy_pouring_blue_v1",
-    "date": "2026-07-14",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Chaenn/act_policy_so101_cube_multitask_0710",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Chaenn/act_policy_so101_cube_multitask_0710",
     "date": "2026-07-14",
     "keyword": "policy",
     "score": 0.1
@@ -571,42 +607,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/ultrastar112/maze2d_easy_native256_cot_chunk_k10_world_model_20260707_perseg",
-    "date": "2026-07-12",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "ultrastar112/maze2d_easy_native256_cot_chunk_k5_world_model_20260707_perseg",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ultrastar112/maze2d_easy_native256_cot_chunk_k5_world_model_20260707_perseg",
-    "date": "2026-07-12",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "ultrastar112/maze2d_easy_native256_cot_chunk_k3_world_model_20260707_perseg",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ultrastar112/maze2d_easy_native256_cot_chunk_k3_world_model_20260707_perseg",
-    "date": "2026-07-12",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "MAURYASAURABH/coinrun-world-model",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/MAURYASAURABH/coinrun-world-model",
-    "date": "2026-07-12",
-    "keyword": "world model",
-    "score": 0.3
-  },
-  {
-    "model": "ultrastar112/maze2d_easy_native256_cot_chunk_k1_world_model_20260707_perseg",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ultrastar112/maze2d_easy_native256_cot_chunk_k1_world_model_20260707_perseg",
     "date": "2026-07-12",
     "keyword": "world model",
     "score": 0.1
