@@ -40,6 +40,16 @@
     "score": 65.3
   },
   {
+    "repo": "ROBOTIS-GIT/ai_worker",
+    "stars": 154,
+    "language": "C++",
+    "description": "AI Worker: FFW (Freedom From Work)",
+    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
+    "date": "2026-07-15",
+    "topic": "humanoid",
+    "score": 61.7
+  },
+  {
     "repo": "commaai/openpilot",
     "stars": 63122,
     "language": "Python",
@@ -50,14 +60,24 @@
     "score": 25248.9
   },
   {
+    "repo": "zauberzeug/nicegui",
+    "stars": 16015,
+    "language": "Python",
+    "description": "Create web-based user interfaces with Python. The nice way.",
+    "url": "https://github.com/zauberzeug/nicegui",
+    "date": "2026-07-15",
+    "topic": "robotics",
+    "score": 6406.1
+  },
+  {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15471,
+    "stars": 15473,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-07-15",
     "topic": "robotics",
-    "score": 6188.5
+    "score": 6189.3
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -91,23 +111,23 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7679,
+    "stars": 7680,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-07-15",
     "topic": "robot-learning",
-    "score": 3071.7
+    "score": 3072.1
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4119,
+    "stars": 4120,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-07-15",
     "topic": "embodied-ai",
-    "score": 1647.7
+    "score": 1648.1
   },
   {
     "repo": "dora-rs/dora",
@@ -131,13 +151,23 @@
   },
   {
     "repo": "sou350121/VLA-Handbook",
-    "stars": 389,
+    "stars": 390,
     "language": "HTML",
     "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
     "url": "https://github.com/sou350121/VLA-Handbook",
     "date": "2026-07-15",
     "topic": "robot-learning",
-    "score": 155.7
+    "score": 156.1
+  },
+  {
+    "repo": "luohongk/Embodied-AI-Daily",
+    "stars": 378,
+    "language": "HTML",
+    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
+    "url": "https://github.com/luohongk/Embodied-AI-Daily",
+    "date": "2026-07-15",
+    "topic": "vla",
+    "score": 151.3
   },
   {
     "repo": "baidu-baige/LoongForge",
@@ -151,13 +181,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5576,
+    "stars": 5577,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-15",
     "topic": "world-model",
-    "score": 2230.5
+    "score": 2230.9
   },
   {
     "repo": "galilai-group/stable-worldmodel",
@@ -210,6 +240,16 @@
     "score": 314.5
   },
   {
+    "repo": "vikashplus/robohive",
+    "stars": 629,
+    "language": "Python",
+    "description": "A unified framework for robot learning",
+    "url": "https://github.com/vikashplus/robohive",
+    "date": "2026-07-15",
+    "topic": "robot-learning",
+    "score": 251.7
+  },
+  {
     "repo": "PathOn-AI/pathon_opensource",
     "stars": 123,
     "language": "Python",
@@ -240,34 +280,24 @@
     "score": 122.5
   },
   {
-    "repo": "ROBOTIS-GIT/ai_worker",
-    "stars": 154,
-    "language": "C++",
-    "description": "AI Worker: FFW (Freedom From Work)",
-    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
-    "date": "2026-07-14",
-    "topic": "humanoid",
-    "score": 61.7
-  },
-  {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3162,
+    "stars": 3164,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-07-14",
     "topic": "embodied-ai",
-    "score": 1264.9
+    "score": 1265.7
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2584,
+    "stars": 2586,
     "language": "Python",
     "description": "RoboTwin 2.0 Offical Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-07-14",
     "topic": "embodied-ai",
-    "score": 1033.7
+    "score": 1034.5
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -298,16 +328,6 @@
     "date": "2026-07-14",
     "topic": "vla",
     "score": 170.5
-  },
-  {
-    "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 374,
-    "language": "HTML",
-    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
-    "url": "https://github.com/luohongk/Embodied-AI-Daily",
-    "date": "2026-07-14",
-    "topic": "vla",
-    "score": 149.7
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -341,23 +361,23 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30050,
+    "stars": 30051,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-07-13",
     "topic": "robotics",
-    "score": 12020.1
+    "score": 12020.5
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2681,
+    "stars": 2682,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-07-13",
     "topic": "embodied-ai",
-    "score": 1072.5
+    "score": 1072.9
   },
   {
     "repo": "StanfordVL/BEHAVIOR-1K",
@@ -371,13 +391,13 @@
   },
   {
     "repo": "hzxie/DynamicVLA",
-    "stars": 309,
+    "stars": 310,
     "language": "Python",
     "description": "The official implementation of \"DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation\". (arXiv 2601.22153)",
     "url": "https://github.com/hzxie/DynamicVLA",
     "date": "2026-07-13",
     "topic": "vla",
-    "score": 123.7
+    "score": 124.1
   },
   {
     "repo": "nicklashansen/tdmpc2",
@@ -400,24 +420,14 @@
     "score": 213.7
   },
   {
-    "repo": "zauberzeug/nicegui",
-    "stars": 16015,
-    "language": "Python",
-    "description": "Create web-based user interfaces with Python. The nice way.",
-    "url": "https://github.com/zauberzeug/nicegui",
-    "date": "2026-07-11",
-    "topic": "robotics",
-    "score": 6406.1
-  },
-  {
     "repo": "earthtojake/text-to-cad",
-    "stars": 8142,
+    "stars": 8150,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 3256.9
+    "score": 3260.1
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -460,16 +470,6 @@
     "score": 341.7
   },
   {
-    "repo": "vikashplus/robohive",
-    "stars": 629,
-    "language": "Python",
-    "description": "A unified framework for robot learning",
-    "url": "https://github.com/vikashplus/robohive",
-    "date": "2026-07-09",
-    "topic": "robot-learning",
-    "score": 251.7
-  },
-  {
     "repo": "Source-Robotics/MSG-compliant-AI-stepper-gripper",
     "stars": 60,
     "language": "CMake",
@@ -501,13 +501,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82465,
+    "stars": 82466,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 32986.1
+    "score": 32986.5
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
@@ -541,13 +541,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2128,
+    "stars": 2130,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-07-06",
     "topic": "humanoid",
-    "score": 851.3
+    "score": 852.1
   },
   {
     "repo": "jackvial/lerobot-data-studio",
@@ -581,23 +581,23 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44235,
+    "stars": 44234,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-07-03",
     "topic": "robotics",
-    "score": 17694.1
+    "score": 17693.7
   },
   {
     "repo": "amazon-far/abc",
-    "stars": 266,
+    "stars": 267,
     "language": "Python",
     "description": "ABC: Scalable Behavior Cloning with Open Data, Training, and Evaluation",
     "url": "https://github.com/amazon-far/abc",
     "date": "2026-07-02",
     "topic": "vla",
-    "score": 106.5
+    "score": 106.9
   },
   {
     "repo": "Tavish9/any4lerobot",
@@ -831,13 +831,13 @@
   },
   {
     "repo": "aaronsu11/Dum-E",
-    "stars": 24,
+    "stars": 25,
     "language": "Python",
     "description": "Inspired by Tony Stark's robotic assistant Dum-E, the mission of this project is to create an intelligent, voice & vision enabled AI agent with robotic arm(s) capable of real-time human interaction, physical operations, and orchestration of a wide range of tools and services.",
     "url": "https://github.com/aaronsu11/Dum-E",
     "date": "2026-06-16",
     "topic": "lerobot",
-    "score": 9.7
+    "score": 10.1
   },
   {
     "repo": "simchowitzlabpublic/nano-world-model",
