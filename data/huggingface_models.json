@@ -41,7 +41,7 @@
     "likes": 0,
     "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
     "date": "2026-07-15",
-    "keyword": "vla",
+    "keyword": "robot",
     "score": 31.0
   },
   {
@@ -105,6 +105,24 @@
     "url": "https://huggingface.co/RobotisSW/Task_900008_900009_merged_act_20k",
     "date": "2026-07-15",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Vladimirlv/ru-promptriever-qwen3-1.7b",
+    "downloads": 571,
+    "likes": 0,
+    "url": "https://huggingface.co/Vladimirlv/ru-promptriever-qwen3-1.7b",
+    "date": "2026-07-15",
+    "keyword": "vla",
+    "score": 171.4
+  },
+  {
+    "model": "Vladimirlv/ru-promptriever-qwen3-4b-ru-only",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Vladimirlv/ru-promptriever-qwen3-4b-ru-only",
+    "date": "2026-07-15",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -198,15 +216,6 @@
     "score": 0.1
   },
   {
-    "model": "TopYan/My_VLA_3W",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/TopYan/My_VLA_3W",
-    "date": "2026-07-15",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "physicalai-bmi/nano-world-model-multi",
     "downloads": 0,
     "likes": 0,
@@ -254,20 +263,20 @@
   {
     "model": "tencent/Hy-Embodied-RxBrain-1.0",
     "downloads": 0,
-    "likes": 21,
+    "likes": 22,
     "url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
     "date": "2026-07-15",
     "keyword": "embodied",
-    "score": 4.3
+    "score": 4.5
   },
   {
     "model": "tencent/Hy-Embodied-VLM-1.0",
     "downloads": 0,
-    "likes": 11,
+    "likes": 12,
     "url": "https://huggingface.co/tencent/Hy-Embodied-VLM-1.0",
     "date": "2026-07-15",
     "keyword": "embodied",
-    "score": 2.3
+    "score": 2.5
   },
   {
     "model": "ubr-physical-ai/UBR-Nav-E4B",
