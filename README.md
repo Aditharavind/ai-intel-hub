@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-15 09:45 UTC
+Last Updated: 2026-07-15 11:17 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-15 | Making a Locked Down Wearable Work Without a Subscription | Hackaday | [link](https://hackaday.com/2026/07/15/making-a-locked-down-wearable-work-without-a-subscription/) |
 | 2026-07-15 | Hacking Around the Financial Pain of New 3DS XL Top Screens | Hackaday | [link](https://hackaday.com/2026/07/15/hacking-around-the-financial-pain-of-new-3ds-xl-top-screens/) |
 | 2026-07-15 | AIM-ing For a More Open Platform Than Discord | Hackaday | [link](https://hackaday.com/2026/07/14/aim-ing-for-a-more-open-platform-than-discord/) |
 | 2026-07-15 | Benchmarking Repairability Scores with an Asus Tablet | Hackaday | [link](https://hackaday.com/2026/07/14/benchmarking-repairability-scores-with-an-asus-tablet/) |
 | 2026-07-15 | Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux | CNX Software | [link](https://www.cnx-software.com/2026/07/15/reverse-engineering-brings-rk3576-npu-support-to-open-source-rocket-driver-for-mainline-linux/) |
 | 2026-07-15 | Big Savings Alert! AIVON PCBA Monthly SMT Special Deals + Free Shipping (Sponsored) | CNX Software | [link](https://www.cnx-software.com/2026/07/15/big-savings-alert-aivon-pcba-monthly-smt-special-deals-free-shipping/) |
+| 2026-07-15 | Seeed Studio devboards use Nordic’s nRF54LM20A for low-power IoT | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/sensors-products/seeed-studio-devboards-use-nordics-nrf54lm20a-for-low-power-iot-2026-07/) |
+| 2026-07-15 | Cambridge Tech Week lines up speakers for deep tech event | Electronics Weekly | [link](https://www.electronicsweekly.com/news/cambridge-tech-week-lines-up-speakers-for-deep-tech-event-2026-07/) |
 | 2026-07-15 | Arm to expand use of Arteris security technology | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/arm-to-embed-arteris-2026-07/) |
 | 2026-07-15 | UMC shipping Sipho wafers | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/umc-ships-sipho-2026-07/) |
-| 2026-07-15 | NextGO Epi raises €2m for Gallium Oxide development | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/epi-raises-e2m-for-gallium-oxide-development-2026-07/) |
-| 2026-07-15 | element14 offers products for free in return for reviews | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/elenent14-offers-products-free-in-return-for-reviews-2026-07/) |
-| 2026-07-15 | Configurable pressure  sensor span down to 2 bar | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/low-pressure-variants-support-configurable-pressure-spans-as-low-as-2-bar-2026-07/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-15 | SakikoTogawa/pi0_robotwin_lora-place_mouse_pad-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_mouse_pad-100-himaconpp_repo) |
 | 2026-07-15 | Jing1221/robot_lab_elevation | 0 | 0 | [link](https://huggingface.co/Jing1221/robot_lab_elevation) |
 | 2026-07-15 | HarrisonPENG/M2W-VLA-RoboTwin | 103 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-07-15 | XiaomiRobotics/Xiaomi-Robotics-U0 | 13 | 7 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0) |
@@ -86,21 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-15 | puppet-robotics/golf-model-eval | 22 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-eval) |
 | 2026-07-15 | RobotisSW/Task_Dispose_Wastebox_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_Wastebox_30K) |
 | 2026-07-15 | RobotisSW/Task_900008_900009_merged_act_20k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900008_900009_merged_act_20k) |
-| 2026-07-15 | zwan1003/pickplace_pick_vla_v2 | 0 | 0 | [link](https://huggingface.co/zwan1003/pickplace_pick_vla_v2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | Edgenesis/shifu | 1427 | Go | 570.9 | [link](https://github.com/Edgenesis/shifu) |
+| mosaico-labs/mosaico | 890 | Python | 356.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 461 | Shell | 184.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 163 | Python | 65.3 | [link](https://github.com/ros-claw/rosclaw) |
 | commaai/openpilot | 63122 | Python | 25248.9 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15470 | C++ | 6188.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15471 | C++ | 6188.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14214 | C++ | 5685.7 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11275 | Python | 4510.1 | [link](https://github.com/kornia/kornia) |
+| rerun-io/rerun | 11131 | Rust | 4452.5 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7679 | Python | 3071.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3842 | Rust | 1536.9 | [link](https://github.com/dora-rs/dora) |
-| worldbench/awesome-3d-4d-world-models | 947 | HTML | 378.9 | [link](https://github.com/worldbench/awesome-3d-4d-world-models) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

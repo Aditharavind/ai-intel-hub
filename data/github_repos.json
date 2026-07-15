@@ -10,6 +10,16 @@
     "score": 570.9
   },
   {
+    "repo": "mosaico-labs/mosaico",
+    "stars": 890,
+    "language": "Python",
+    "description": "Mosaico - The data platform for Physical AI",
+    "url": "https://github.com/mosaico-labs/mosaico",
+    "date": "2026-07-15",
+    "topic": "physical-ai",
+    "score": 356.1
+  },
+  {
     "repo": "awslabs/awsome-distributed-ai",
     "stars": 461,
     "language": "Shell",
@@ -41,13 +51,13 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15470,
+    "stars": 15471,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-07-15",
     "topic": "robotics",
-    "score": 6188.1
+    "score": 6188.5
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -70,6 +80,16 @@
     "score": 4510.1
   },
   {
+    "repo": "rerun-io/rerun",
+    "stars": 11131,
+    "language": "Rust",
+    "description": "Visualize, query, and stream to train on multimodal robotics data.",
+    "url": "https://github.com/rerun-io/rerun",
+    "date": "2026-07-15",
+    "topic": "robotics",
+    "score": 4452.5
+  },
+  {
     "repo": "isaac-sim/IsaacLab",
     "stars": 7679,
     "language": "Python",
@@ -78,6 +98,16 @@
     "date": "2026-07-15",
     "topic": "robot-learning",
     "score": 3071.7
+  },
+  {
+    "repo": "RLinf/RLinf",
+    "stars": 4119,
+    "language": "Python",
+    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
+    "url": "https://github.com/RLinf/RLinf",
+    "date": "2026-07-15",
+    "topic": "embodied-ai",
+    "score": 1647.7
   },
   {
     "repo": "dora-rs/dora",
@@ -121,13 +151,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5575,
+    "stars": 5576,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-15",
     "topic": "world-model",
-    "score": 2230.1
+    "score": 2230.5
   },
   {
     "repo": "galilai-group/stable-worldmodel",
@@ -200,16 +230,6 @@
     "score": 26.5
   },
   {
-    "repo": "mosaico-labs/mosaico",
-    "stars": 890,
-    "language": "Python",
-    "description": "Mosaico - The data platform for Physical AI",
-    "url": "https://github.com/mosaico-labs/mosaico",
-    "date": "2026-07-14",
-    "topic": "physical-ai",
-    "score": 356.1
-  },
-  {
     "repo": "alireza787b/mavsdk_drone_show",
     "stars": 306,
     "language": "Python",
@@ -230,26 +250,6 @@
     "score": 61.7
   },
   {
-    "repo": "rerun-io/rerun",
-    "stars": 11131,
-    "language": "Rust",
-    "description": "Visualize, query, and stream to train on multimodal robotics data.",
-    "url": "https://github.com/rerun-io/rerun",
-    "date": "2026-07-14",
-    "topic": "robotics",
-    "score": 4452.5
-  },
-  {
-    "repo": "RLinf/RLinf",
-    "stars": 4117,
-    "language": "Python",
-    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
-    "url": "https://github.com/RLinf/RLinf",
-    "date": "2026-07-14",
-    "topic": "embodied-ai",
-    "score": 1646.9
-  },
-  {
     "repo": "knightnemo/Awesome-World-Models",
     "stars": 3162,
     "language": "",
@@ -261,13 +261,13 @@
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2583,
+    "stars": 2584,
     "language": "Python",
     "description": "RoboTwin 2.0 Offical Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-07-14",
     "topic": "embodied-ai",
-    "score": 1033.3
+    "score": 1033.7
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -331,13 +331,13 @@
   },
   {
     "repo": "copper-project/copper-rs",
-    "stars": 1408,
+    "stars": 1409,
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
     "date": "2026-07-13",
     "topic": "physical-ai",
-    "score": 563.3
+    "score": 563.7
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -501,23 +501,23 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82462,
+    "stars": 82465,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 32984.9
+    "score": 32986.1
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
-    "stars": 3020,
+    "stars": 3021,
     "language": "HTML",
     "description": "BOM, STL files and instructions for PAROL6 3D printed robot arm",
     "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
     "date": "2026-07-07",
     "topic": "lerobot",
-    "score": 1208.1
+    "score": 1208.5
   },
   {
     "repo": "nik-55/world-models",
@@ -541,13 +541,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2123,
+    "stars": 2128,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-07-06",
     "topic": "humanoid",
-    "score": 849.3
+    "score": 851.3
   },
   {
     "repo": "jackvial/lerobot-data-studio",
