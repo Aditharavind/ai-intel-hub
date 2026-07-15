@@ -1,5 +1,41 @@
 [
   {
+    "model": "puppet-robotics/golf-model-eval",
+    "downloads": 22,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/golf-model-eval",
+    "date": "2026-07-15",
+    "keyword": "robotics",
+    "score": 6.7
+  },
+  {
+    "model": "RobotisSW/Task_Dispose_Wastebox_30K",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_Dispose_Wastebox_30K",
+    "date": "2026-07-15",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_900008_900009_merged_act_20k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_900008_900009_merged_act_20k",
+    "date": "2026-07-15",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "schronn/policy_record_v4_bv_smolva",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/schronn/policy_record_v4_bv_smolva",
+    "date": "2026-07-15",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "YinonDouchan/mobile_robot_lift_env_multi_cube_multi_platform",
     "downloads": 0,
     "likes": 0,
@@ -7,24 +43,6 @@
     "date": "2026-07-14",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "wonder-robot/dot_transplant_v1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/wonder-robot/dot_transplant_v1",
-    "date": "2026-07-14",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "puppet-robotics/golf-model-eval",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-eval",
-    "date": "2026-07-14",
-    "keyword": "robotics",
-    "score": 6.7
   },
   {
     "model": "X-Humanoid/Pelican-VLA05-Robotwin",
@@ -97,15 +115,6 @@
     "date": "2026-07-14",
     "keyword": "robotics",
     "score": 2.2
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-U0",
-    "downloads": 13,
-    "likes": 3,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0",
-    "date": "2026-07-14",
-    "keyword": "robotics",
-    "score": 4.6
   },
   {
     "model": "TopYan/My_VLA_3W",
@@ -333,13 +342,13 @@
     "score": 0.1
   },
   {
-    "model": "Hilman09/act_policy_test4",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Hilman09/act_policy_test4",
+    "model": "XiaomiRobotics/Xiaomi-Robotics-U0",
+    "downloads": 13,
+    "likes": 3,
+    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0",
     "date": "2026-07-14",
-    "keyword": "policy",
-    "score": 0.1
+    "keyword": "robotics",
+    "score": 4.6
   },
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot",

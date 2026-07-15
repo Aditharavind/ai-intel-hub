@@ -1,15 +1,15 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-14 23:39 UTC
+Generated: 2026-07-15 01:04 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-13 | Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation | [link](https://arxiv.org/pdf/2607.11884v1) |
-| 2026-07-13 | A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation | [link](https://arxiv.org/pdf/2607.11874v1) |
-| 2026-07-13 | Robust bipedal locomotion on flowable slopes via foot-driven terrain manipulation | [link](https://arxiv.org/pdf/2607.11855v1) |
-| 2026-07-13 | HASTE: A Platform for Rapid Post-Disaster Building Damage Assessment | [link](https://arxiv.org/pdf/2607.11838v1) |
-| 2026-07-13 | Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency | [link](https://arxiv.org/pdf/2607.11836v1) |
+| 2026-07-14 | Astra: an open-source fully autonomous robotic observatory control software | [link](https://arxiv.org/pdf/2607.12898v1) |
+| 2026-07-14 | UniMedSeg: Unified In-Context Learning for Multi-Paradigm 2D/3D Medical Image Segmentation | [link](https://arxiv.org/pdf/2607.12896v1) |
+| 2026-07-14 | Hy-Embodied-VLM-1.0: Efficient Physical-World Agents | [link](https://arxiv.org/pdf/2607.12894v1) |
+| 2026-07-14 | UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies | [link](https://arxiv.org/pdf/2607.12892v1) |
+| 2026-07-14 | Unveiling Complex Collective Behaviors from Simple Rewards | [link](https://arxiv.org/pdf/2607.12861v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |

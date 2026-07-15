@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-14 23:39 UTC
+Last Updated: 2026-07-15 01:04 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -63,44 +63,44 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-13 | Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation | [link](https://arxiv.org/pdf/2607.11884v1) |
-| 2026-07-13 | A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation | [link](https://arxiv.org/pdf/2607.11874v1) |
-| 2026-07-13 | Robust bipedal locomotion on flowable slopes via foot-driven terrain manipulation | [link](https://arxiv.org/pdf/2607.11855v1) |
-| 2026-07-13 | HASTE: A Platform for Rapid Post-Disaster Building Damage Assessment | [link](https://arxiv.org/pdf/2607.11838v1) |
-| 2026-07-13 | Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency | [link](https://arxiv.org/pdf/2607.11836v1) |
-| 2026-07-13 | Active Noise Floor Estimation for Reliability-Optimal POMDPs: A Value-of-Noise-Information Approach | [link](https://arxiv.org/pdf/2607.11822v1) |
-| 2026-07-13 | Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems | [link](https://arxiv.org/pdf/2607.11792v1) |
-| 2026-07-13 | MIRA: A Modular Open-Source Micro-UAV for Indoor Research | [link](https://arxiv.org/pdf/2607.11785v1) |
-| 2026-07-13 | A Compact Top-Loading Robot for Endovascular Interventions: Design, Control and Evaluation | [link](https://arxiv.org/pdf/2607.11779v1) |
-| 2026-07-13 | AutoPath: Learning Transferable Goal-Conditioned Stochastic Path Prior for Safe Navigation Without Human Demonstrations | [link](https://arxiv.org/pdf/2607.11739v1) |
+| 2026-07-14 | Astra: an open-source fully autonomous robotic observatory control software | [link](https://arxiv.org/pdf/2607.12898v1) |
+| 2026-07-14 | UniMedSeg: Unified In-Context Learning for Multi-Paradigm 2D/3D Medical Image Segmentation | [link](https://arxiv.org/pdf/2607.12896v1) |
+| 2026-07-14 | Hy-Embodied-VLM-1.0: Efficient Physical-World Agents | [link](https://arxiv.org/pdf/2607.12894v1) |
+| 2026-07-14 | UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies | [link](https://arxiv.org/pdf/2607.12892v1) |
+| 2026-07-14 | Unveiling Complex Collective Behaviors from Simple Rewards | [link](https://arxiv.org/pdf/2607.12861v1) |
+| 2026-07-14 | Swarming and Opinion Dynamics | [link](https://arxiv.org/pdf/2607.12844v1) |
+| 2026-07-14 | Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning | [link](https://arxiv.org/pdf/2607.12818v1) |
+| 2026-07-14 | PixelLoop: Shortcut Topological Navigation with Pixel-Level Loops | [link](https://arxiv.org/pdf/2607.12811v1) |
+| 2026-07-14 | Autonomous Tracking and Terminal Guidance of Moving Targets for Fixed-Wing UAVs | [link](https://arxiv.org/pdf/2607.12801v1) |
+| 2026-07-14 | Do We Really Need Multimodal Emotion Language Models Larger Than 1B Parameters? | [link](https://arxiv.org/pdf/2607.12787v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-15 | puppet-robotics/golf-model-eval | 22 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-eval) |
+| 2026-07-15 | RobotisSW/Task_Dispose_Wastebox_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_Wastebox_30K) |
+| 2026-07-15 | RobotisSW/Task_900008_900009_merged_act_20k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900008_900009_merged_act_20k) |
+| 2026-07-15 | schronn/policy_record_v4_bv_smolva | 0 | 0 | [link](https://huggingface.co/schronn/policy_record_v4_bv_smolva) |
 | 2026-07-14 | YinonDouchan/mobile_robot_lift_env_multi_cube_multi_platform | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env_multi_cube_multi_platform) |
-| 2026-07-14 | wonder-robot/dot_transplant_v1 | 0 | 0 | [link](https://huggingface.co/wonder-robot/dot_transplant_v1) |
-| 2026-07-14 | puppet-robotics/golf-model-eval | 22 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-eval) |
 | 2026-07-14 | X-Humanoid/Pelican-VLA05-Robotwin | 0 | 0 | [link](https://huggingface.co/X-Humanoid/Pelican-VLA05-Robotwin) |
 | 2026-07-14 | SakikoTogawa/pi0_robotwin_lora-place_mouse_pad-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_mouse_pad-100-himaconpp_repo) |
 | 2026-07-14 | milab-robot/N1.7_0518_amore_40000 | 0 | 0 | [link](https://huggingface.co/milab-robot/N1.7_0518_amore_40000) |
 | 2026-07-14 | milab-robot/N1.7_0518_amore_60000 | 0 | 0 | [link](https://huggingface.co/milab-robot/N1.7_0518_amore_60000) |
 | 2026-07-14 | HarrisonPENG/M2W-VLA-RoboTwin | 103 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
-| 2026-07-14 | Do-Hyun-robot/smolvla_dohyun_policy | 0 | 0 | [link](https://huggingface.co/Do-Hyun-robot/smolvla_dohyun_policy) |
-| 2026-07-14 | RobotisSW/Dispose_trash_chunk25_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Dispose_trash_chunk25_10K) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| mosaico-labs/mosaico | 890 | Python | 356.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 461 | Shell | 184.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| commaai/openpilot | 63118 | Python | 25247.3 | [link](https://github.com/commaai/openpilot) |
+| google-deepmind/mujoco | 14207 | C++ | 5682.9 | [link](https://github.com/google-deepmind/mujoco) |
+| kornia/kornia | 11275 | Python | 4510.1 | [link](https://github.com/kornia/kornia) |
+| dora-rs/dora | 3842 | Rust | 1536.9 | [link](https://github.com/dora-rs/dora) |
+| vllm-project/vllm-omni | 5561 | Python | 2224.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| PathOn-AI/pathon_opensource | 122 | Python | 48.9 | [link](https://github.com/PathOn-AI/pathon_opensource) |
+| mosaico-labs/mosaico | 890 | Python | 356.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | alireza787b/mavsdk_drone_show | 306 | Python | 122.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | ros-claw/rosclaw | 162 | Python | 64.9 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63118 | Python | 25247.3 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15465 | C++ | 6186.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14208 | C++ | 5683.3 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11275 | Python | 4510.1 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11129 | Rust | 4451.7 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7676 | Python | 3070.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

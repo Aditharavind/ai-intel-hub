@@ -1,5 +1,75 @@
 [
   {
+    "repo": "awslabs/awsome-distributed-ai",
+    "stars": 461,
+    "language": "Shell",
+    "description": "Collection of best practices, reference architectures, model training examples and utilities to train large models on AWS. ",
+    "url": "https://github.com/awslabs/awsome-distributed-ai",
+    "date": "2026-07-15",
+    "topic": "physical-ai",
+    "score": 184.5
+  },
+  {
+    "repo": "commaai/openpilot",
+    "stars": 63118,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-07-15",
+    "topic": "robotics",
+    "score": 25247.3
+  },
+  {
+    "repo": "google-deepmind/mujoco",
+    "stars": 14207,
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "date": "2026-07-15",
+    "topic": "robotics",
+    "score": 5682.9
+  },
+  {
+    "repo": "kornia/kornia",
+    "stars": 11275,
+    "language": "Python",
+    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "url": "https://github.com/kornia/kornia",
+    "date": "2026-07-15",
+    "topic": "robotics",
+    "score": 4510.1
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3842,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-07-15",
+    "topic": "embodied-ai",
+    "score": 1536.9
+  },
+  {
+    "repo": "vllm-project/vllm-omni",
+    "stars": 5561,
+    "language": "Python",
+    "description": "A framework for efficient model inference with omni-modality models",
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "date": "2026-07-15",
+    "topic": "world-model",
+    "score": 2224.5
+  },
+  {
+    "repo": "PathOn-AI/pathon_opensource",
+    "stars": 122,
+    "language": "Python",
+    "description": "Collection of Materials on building and controlling real robots",
+    "url": "https://github.com/PathOn-AI/pathon_opensource",
+    "date": "2026-07-15",
+    "topic": "lerobot",
+    "score": 48.9
+  },
+  {
     "repo": "mosaico-labs/mosaico",
     "stars": 890,
     "language": "Python",
@@ -8,16 +78,6 @@
     "date": "2026-07-14",
     "topic": "physical-ai",
     "score": 356.1
-  },
-  {
-    "repo": "awslabs/awsome-distributed-ai",
-    "stars": 461,
-    "language": "Shell",
-    "description": "Collection of best practices, reference architectures, model training examples and utilities to train large models on AWS. ",
-    "url": "https://github.com/awslabs/awsome-distributed-ai",
-    "date": "2026-07-14",
-    "topic": "physical-ai",
-    "score": 184.5
   },
   {
     "repo": "alireza787b/mavsdk_drone_show",
@@ -40,14 +100,14 @@
     "score": 64.9
   },
   {
-    "repo": "commaai/openpilot",
-    "stars": 63118,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
+    "repo": "ROBOTIS-GIT/ai_worker",
+    "stars": 154,
+    "language": "C++",
+    "description": "AI Worker: FFW (Freedom From Work)",
+    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
     "date": "2026-07-14",
-    "topic": "robotics",
-    "score": 25247.3
+    "topic": "humanoid",
+    "score": 61.7
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -60,34 +120,14 @@
     "score": 6186.1
   },
   {
-    "repo": "google-deepmind/mujoco",
-    "stars": 14208,
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "url": "https://github.com/google-deepmind/mujoco",
-    "date": "2026-07-14",
-    "topic": "robotics",
-    "score": 5683.3
-  },
-  {
-    "repo": "kornia/kornia",
-    "stars": 11275,
-    "language": "Python",
-    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-    "url": "https://github.com/kornia/kornia",
-    "date": "2026-07-14",
-    "topic": "robotics",
-    "score": 4510.1
-  },
-  {
     "repo": "rerun-io/rerun",
-    "stars": 11129,
+    "stars": 11130,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-07-14",
     "topic": "robotics",
-    "score": 4451.7
+    "score": 4452.1
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -108,16 +148,6 @@
     "date": "2026-07-14",
     "topic": "embodied-ai",
     "score": 1642.5
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3842,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-07-14",
-    "topic": "embodied-ai",
-    "score": 1536.9
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
@@ -200,16 +230,6 @@
     "score": 125.3
   },
   {
-    "repo": "vllm-project/vllm-omni",
-    "stars": 5561,
-    "language": "Python",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "url": "https://github.com/vllm-project/vllm-omni",
-    "date": "2026-07-14",
-    "topic": "world-model",
-    "score": 2224.5
-  },
-  {
     "repo": "inclusionAI/AWorld",
     "stars": 1213,
     "language": "Python",
@@ -228,16 +248,6 @@
     "date": "2026-07-14",
     "topic": "humanoid",
     "score": 155.7
-  },
-  {
-    "repo": "ROBOTIS-GIT/ai_worker",
-    "stars": 154,
-    "language": "C++",
-    "description": "AI Worker: FFW (Freedom From Work)",
-    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
-    "date": "2026-07-14",
-    "topic": "humanoid",
-    "score": 61.7
   },
   {
     "repo": "Tsinghua-MARS-Lab/OMG",
@@ -268,16 +278,6 @@
     "date": "2026-07-14",
     "topic": "humanoid",
     "score": 9.7
-  },
-  {
-    "repo": "PathOn-AI/pathon_opensource",
-    "stars": 121,
-    "language": "Python",
-    "description": "Collection of Materials on building and controlling real robots",
-    "url": "https://github.com/PathOn-AI/pathon_opensource",
-    "date": "2026-07-14",
-    "topic": "lerobot",
-    "score": 48.5
   },
   {
     "repo": "copper-project/copper-rs",
@@ -371,13 +371,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 8124,
+    "stars": 8126,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 3249.7
+    "score": 3250.5
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -848,15 +848,5 @@
     "date": "2026-06-15",
     "topic": "world-model",
     "score": 272.5
-  },
-  {
-    "repo": "wadeKeith/Awesome-Embodied-AI",
-    "stars": 225,
-    "language": "Python",
-    "description": "Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot learning, and safety resources.",
-    "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
-    "date": "2026-06-14",
-    "topic": "physical-ai",
-    "score": 90.1
   }
 ]
