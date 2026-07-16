@@ -1,5 +1,32 @@
 [
   {
+    "model": "chomeed/board_insertion_pi05_no_robot_sirius_round2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/chomeed/board_insertion_pi05_no_robot_sirius_round2",
+    "date": "2026-07-16",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "tron-robot/yam-vla-handoff",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tron-robot/yam-vla-handoff",
+    "date": "2026-07-16",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "SidneyXie/pi05_robotwin",
+    "downloads": 39,
+    "likes": 1,
+    "url": "https://huggingface.co/SidneyXie/pi05_robotwin",
+    "date": "2026-07-16",
+    "keyword": "robot",
+    "score": 12.0
+  },
+  {
     "model": "chomeed/board_insertion_ablation_sirius_pi05_no_robot",
     "downloads": 0,
     "likes": 1,
@@ -81,33 +108,6 @@
     "score": 41.8
   },
   {
-    "model": "RobotisSW/Dispose_0716_Filtered_Chunk15_Test_30K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Dispose_0716_Filtered_Chunk15_Test_30K",
-    "date": "2026-07-16",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Dispose_0716_Filtered_Chunk30_Test_50K",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/RobotisSW/Dispose_0716_Filtered_Chunk30_Test_50K",
-    "date": "2026-07-16",
-    "keyword": "robot",
-    "score": 0.3
-  },
-  {
-    "model": "RobotisSW/Dispose_0716_Filtered_Chunk30_Test_30K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Dispose_0716_Filtered_Chunk30_Test_30K",
-    "date": "2026-07-16",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "physicalai-bmi/nano-vla-pixels-dart",
     "downloads": 0,
     "likes": 0,
@@ -144,15 +144,6 @@
     "score": 5.8
   },
   {
-    "model": "tron-robot/yam-vla-handoff",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tron-robot/yam-vla-handoff",
-    "date": "2026-07-16",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch1",
     "downloads": 0,
     "likes": 0,
@@ -186,6 +177,15 @@
     "url": "https://huggingface.co/ubr-physical-ai/UBR-Nav-E4B",
     "date": "2026-07-16",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "nivwa12/act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/nivwa12/act_policy",
+    "date": "2026-07-16",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -286,15 +286,6 @@
     "date": "2026-07-16",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "open-gigaai/Giga-World-Policy-0.5",
-    "downloads": 5,
-    "likes": 4,
-    "url": "https://huggingface.co/open-gigaai/Giga-World-Policy-0.5",
-    "date": "2026-07-16",
-    "keyword": "policy",
-    "score": 2.4
   },
   {
     "model": "access-robotics-team/bioa-p5-fold-high-quality-260715",
