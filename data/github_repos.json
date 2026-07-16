@@ -1,5 +1,75 @@
 [
   {
+    "repo": "ROBOTIS-GIT/ai_worker",
+    "stars": 154,
+    "language": "C++",
+    "description": "AI Worker: FFW (Freedom From Work)",
+    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
+    "date": "2026-07-16",
+    "topic": "humanoid",
+    "score": 61.7
+  },
+  {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15477,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-07-16",
+    "topic": "robotics",
+    "score": 6190.9
+  },
+  {
+    "repo": "google-deepmind/mujoco",
+    "stars": 14219,
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "date": "2026-07-16",
+    "topic": "robotics",
+    "score": 5687.7
+  },
+  {
+    "repo": "kornia/kornia",
+    "stars": 11276,
+    "language": "Python",
+    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "url": "https://github.com/kornia/kornia",
+    "date": "2026-07-16",
+    "topic": "robotics",
+    "score": 4510.5
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7683,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-07-16",
+    "topic": "robot-learning",
+    "score": 3073.3
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3843,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-07-16",
+    "topic": "embodied-ai",
+    "score": 1537.3
+  },
+  {
+    "repo": "StanfordVL/BEHAVIOR-1K",
+    "stars": 1577,
+    "language": "Python",
+    "description": "BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx",
+    "url": "https://github.com/StanfordVL/BEHAVIOR-1K",
+    "date": "2026-07-16",
+    "topic": "embodied-ai",
+    "score": 630.9
+  },
+  {
     "repo": "Edgenesis/shifu",
     "stars": 1427,
     "language": "Go",
@@ -50,64 +120,24 @@
     "score": 65.3
   },
   {
-    "repo": "ROBOTIS-GIT/ai_worker",
-    "stars": 154,
-    "language": "C++",
-    "description": "AI Worker: FFW (Freedom From Work)",
-    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
-    "date": "2026-07-15",
-    "topic": "humanoid",
-    "score": 61.7
-  },
-  {
     "repo": "commaai/openpilot",
-    "stars": 63126,
+    "stars": 63127,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-07-15",
     "topic": "robotics",
-    "score": 25250.5
+    "score": 25250.9
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16020,
+    "stars": 16021,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-07-15",
     "topic": "robotics",
-    "score": 6408.1
-  },
-  {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15477,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-07-15",
-    "topic": "robotics",
-    "score": 6190.9
-  },
-  {
-    "repo": "google-deepmind/mujoco",
-    "stars": 14219,
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "url": "https://github.com/google-deepmind/mujoco",
-    "date": "2026-07-15",
-    "topic": "robotics",
-    "score": 5687.7
-  },
-  {
-    "repo": "kornia/kornia",
-    "stars": 11276,
-    "language": "Python",
-    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-    "url": "https://github.com/kornia/kornia",
-    "date": "2026-07-15",
-    "topic": "robotics",
-    "score": 4510.5
+    "score": 6408.5
   },
   {
     "repo": "rerun-io/rerun",
@@ -120,16 +150,6 @@
     "score": 4453.3
   },
   {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7683,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-07-15",
-    "topic": "robot-learning",
-    "score": 3073.3
-  },
-  {
     "repo": "RLinf/RLinf",
     "stars": 4124,
     "language": "Python",
@@ -138,26 +158,6 @@
     "date": "2026-07-15",
     "topic": "embodied-ai",
     "score": 1649.7
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3843,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-07-15",
-    "topic": "embodied-ai",
-    "score": 1537.3
-  },
-  {
-    "repo": "StanfordVL/BEHAVIOR-1K",
-    "stars": 1576,
-    "language": "Python",
-    "description": "BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx",
-    "url": "https://github.com/StanfordVL/BEHAVIOR-1K",
-    "date": "2026-07-15",
-    "topic": "embodied-ai",
-    "score": 630.5
   },
   {
     "repo": "worldbench/awesome-3d-4d-world-models",
@@ -331,13 +331,13 @@
   },
   {
     "repo": "leofan90/Awesome-World-Models",
-    "stars": 1893,
+    "stars": 1894,
     "language": "Python",
     "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
     "url": "https://github.com/leofan90/Awesome-World-Models",
     "date": "2026-07-14",
     "topic": "world-model",
-    "score": 757.3
+    "score": 757.7
   },
   {
     "repo": "zchoi/Awesome-Embodied-Robotics-and-Agent",
@@ -381,13 +381,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2689,
+    "stars": 2690,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-07-13",
     "topic": "embodied-ai",
-    "score": 1075.7
+    "score": 1076.1
   },
   {
     "repo": "hzxie/DynamicVLA",
@@ -478,6 +478,16 @@
     "date": "2026-07-09",
     "topic": "lerobot",
     "score": 24.1
+  },
+  {
+    "repo": "zli12321/Vision-Language-Models-Overview",
+    "stars": 663,
+    "language": "HTML",
+    "description": "A most Frontend Collection and survey of vision-language model papers, and models GitHub repository. Continuous updates.",
+    "url": "https://github.com/zli12321/Vision-Language-Models-Overview",
+    "date": "2026-07-08",
+    "topic": "world-model",
+    "score": 265.3
   },
   {
     "repo": "zihanwang0422/legged_rl_lab",
@@ -571,13 +581,13 @@
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",
-    "stars": 3406,
+    "stars": 3407,
     "language": "Python",
     "description": "Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction.",
     "url": "https://github.com/huangjunsen0406/py-xiaozhi",
     "date": "2026-07-04",
     "topic": "embodied-ai",
-    "score": 1362.5
+    "score": 1362.9
   },
   {
     "repo": "NaiboWang/EasySpider",
@@ -838,15 +848,5 @@
     "date": "2026-06-16",
     "topic": "lerobot",
     "score": 10.1
-  },
-  {
-    "repo": "simchowitzlabpublic/nano-world-model",
-    "stars": 682,
-    "language": "Python",
-    "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science.",
-    "url": "https://github.com/simchowitzlabpublic/nano-world-model",
-    "date": "2026-06-15",
-    "topic": "world-model",
-    "score": 272.9
   }
 ]

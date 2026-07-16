@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-15 23:45 UTC
+Generated: 2026-07-16 01:13 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-14 | DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation | [link](https://arxiv.org/pdf/2607.13033v1) |
-| 2026-07-14 | TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale | [link](https://arxiv.org/pdf/2607.13028v1) |
-| 2026-07-14 | FlowWAM: Optical Flow as a Unified Action Representation for World Action Models | [link](https://arxiv.org/pdf/2607.13017v1) |
-| 2026-07-14 | The Spectrum Is Not Enough: When Context Helps Time-Series Forecasting | [link](https://arxiv.org/pdf/2607.13006v1) |
-| 2026-07-14 | ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning | [link](https://arxiv.org/pdf/2607.12992v1) |
+| 2026-07-15 | PhysClaw-0: A Symbiotic Agentic System for Robot Autonomy via Language Corrections | [link](https://arxiv.org/pdf/2607.14047v1) |
+| 2026-07-15 | Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education | [link](https://arxiv.org/pdf/2607.14046v1) |
+| 2026-07-15 | Industrial Dexterity Benchmark: A Hardware-Software Benchmarking Platform for Industrial Dexterous Manipulation | [link](https://arxiv.org/pdf/2607.14021v1) |
+| 2026-07-15 | AeroMap3D: Anchoring Monocular UAV 6-DoF Localization to Visual-Geometric-Semantic Map Priors | [link](https://arxiv.org/pdf/2607.14009v1) |
+| 2026-07-15 | M$^\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming | [link](https://arxiv.org/pdf/2607.14005v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 82476 | 32990.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63126 | 25250.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63127 | 25250.9 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44236 | 17694.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30054 | 12021.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16020 | 6408.1 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16021 | 6408.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -32,11 +32,11 @@ Generated: 2026-07-15 23:45 UTC
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
-| 2026-07-15 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTFBZQTZyNFlzX0EzaEh4YUpOYW84OG1xRUlkeWlGTVhSeTd3NThTT0NlNl9lb0d1ZUQtbWJlTTBoelNMZjc2WURoWVB2NmNXekR6RUowZkNVZnZOM1pQZDNEUmZjVE1BTjR4enZrc0tHMWJqZjU0TVhLdHpSQU0?oc=5) |
 | 2026-07-14 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1lDcHdOR0NGTm1DamhvY3NHYy1fTVc3WXQyMlAteTVOSjFzSm1zelpfeHVvR0VnMXN4WjBuMFRpZ04wdnhTNEsyeVBxdERCdmNFMHJ3V2VDX0VaeW1ZWEsxUGFmZlg4S0MwSEhkU19RUVNXV1Q3QXNrT0VWaE9jRkhDYWk2dWIteTBMLXBBYUxLN2dpM1VzcnhtcGVyRF9LRmh2ek9KYWI0Y00?oc=5) |
 | 2026-07-14 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxORTJDSW4xaTFJYlVoV01UTHE2c3pLQ3JjTDhrYmtCdkRRdTd6b3RLeE5lcTItNGJibnVOeTBYeDk3eGgxd1U1Vl9XY3pKS3l4dUJfazcyODZPczdockh3X3hIaDhVQ0ZpQkZIaU10Q3E3YmIwYTlUZ0lWd1IxNW96YjNSYXNreDRnaFpyQ1FLdlVYdl92SlFiQmVvZEptcjVaUFYxdmZPbW12dHNTMTVtSXdoOTUtVmFhY19DOVV5RC1pRHNlb3poR1Rya190QWRvNE1fZnE0aHRDOG1fbWIzemdKOXFHcHRtRW14Yg?oc=5) |
 | 2026-07-13 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFYwRDR6VS1JdC1fYTU5VGRnSXg3bFZCMFRoakFIc2FERGxXUDloRXN0ZGJoZkFuRTBaR2s1S2ZYWDduNi1RLXNRN1ZCRThRdGFwZUw1Vko5Mjg2czVOTHhoRk54UFBBNDI5TUNNaHlqN21fR1A0WHFEN08tOEU1MWhndjlrbVFYakxEaC13dmNlSFRlRnRyMDNqYTQ4eTd5YWdaTmVKMEc0MV9IcGFvVzhFejIyMDQtSU5GcklVYWlFcDlKTGdZZG56WTFFMXJvVklqaTNB?oc=5) |
 | 2026-07-12 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1haWldjNWQ2S3U4UWQ3YlRGNHlLcE5IZWZNbXJmSGVqVWs3a0V5R1FJdVpxdUdfeFJfSzZVYWdXYWtYSnBzRmZWRDRneklpYTRPQTJIdFNKN0NCR2hlWjJ1S2xsNDV1SEFDTFJWLUNMYzU0Q2tJVC1rNnJpSVluS0ZRSzh3MlBiXzM3RmxmS1ZXUkZOUnpvY2ZqcHhabmdFUzcwRXdKejZpc2x4d1ZCdTU0SnFaRU92VndvXw?oc=5) |
+| 2026-07-08 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxNS056dHV6ZHBGUEVIZFVyNzNjdG5LVm16LURhY04ycXc3SmdZdktPTkJZWkZ4RWhIWUJvMG1Yb1BYb0psRVdMQS1kbTFERzRIRUtyb2p3TWpFSEdleHdKT2JONUNJWFQzWW9Wc0hOOFRvVFQ2eDdnd2E0V1pHemhzVElFQ1F3V1RZNjVZQ0JydDdBb3dvNDZwNUxR?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
