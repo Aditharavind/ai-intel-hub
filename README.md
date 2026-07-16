@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-16 13:09 UTC
+Last Updated: 2026-07-16 15:22 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -36,6 +36,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-07-16 | Lockheed Martin taps Machina’s robots for mission-critical missile parts | Robotics Business Review | [link](https://www.therobotreport.com/lockheed-martin-taps-machinas-robots-for-mission-critical-missile-parts/) |
+| 2026-07-16 | Xpanner rolls out X1 Panel Lift for automated solar panel installation | Robotics Business Review | [link](https://www.therobotreport.com/xpanner-rolls-out-x1-panel-lift-automated-solar-panel-installation/) |
 | 2026-07-15 | Agility outlines six recommendations for U.S. humanoid robot policies | Robotics Business Review | [link](https://www.therobotreport.com/agility-outlines-six-recommendations-for-u-s-humanoid-robot-policies/) |
 | 2026-07-15 | Vicarious Surgical board seeks to dissolve company | Robotics Business Review | [link](https://www.therobotreport.com/vicarious-surgical-board-seeks-to-dissolve-company/) |
 | 2026-07-15 | Icarus Robotics uses KULR technology to power JOY free-flying space robot | Robotics Business Review | [link](https://www.therobotreport.com/icarus-robotics-uses-kulr-technology-to-power-joy-free-flying-space-robot/) |
@@ -44,11 +45,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-14 | NVIDIA shares how to evaluate general-purpose robot policies for real-world deployment | Robotics Business Review | [link](https://www.therobotreport.com/nvidia-shares-how-evaluate-general-purpose-robot-policies-real-world-deployment/) |
 | 2026-07-14 | Key to Humanoid Progress: Managing the Power Behind the Robots | Robotics Business Review | [link](https://www.therobotreport.com/key-to-humanoid-progress-managing-the-power-behind-the-robots/) |
 | 2026-07-13 | The Robot Report parent company, WTWH Media, rebrands as Arrowfly | Robotics Business Review | [link](https://www.therobotreport.com/the-robot-report-parent-company-wtwh-media-rebrands-as-arrowfly/) |
-| 2026-07-13 | Yaskawa America gets information security certification | Robotics Business Review | [link](https://www.therobotreport.com/yaskawa-america-gets-information-seccurity-certification/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-16 | Hackaday Europe 2026 – Build A Cable Modem For Your Arduino | Hackaday | [link](https://hackaday.com/2026/07/16/hackaday-europe-2026-build-a-cable-modem-for-your-arduino/) |
 | 2026-07-16 | Google Earth Desktop Client to be Retired in 2027 | Hackaday | [link](https://hackaday.com/2026/07/16/google-earth-desktop-client-to-be-retired-in-2027/) |
 | 2026-07-16 | Transponder Mania | Hackaday | [link](https://hackaday.com/2026/07/16/transponder-mania/) |
 | 2026-07-16 | Chromatography as Art | Hackaday | [link](https://hackaday.com/2026/07/15/chromatography-as-art/) |
@@ -56,9 +57,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | pico-usb-wifi firmware converts the Raspberry Pi Pico W into a driverless USB WiFi adapter | CNX Software | [link](https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/) |
 | 2026-07-16 | OpenInfrared Point is an ESP32-S3 powered universal remote hub with Infrared, BLE, NFC, audio streaming (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/16/openinfrared-point-esp32-s3-universal-remote-hub-infrared-ble-nfc-audio-streaming/) |
 | 2026-07-16 | NVIDIA launches smaller, mainstream Jetson T2000 and T3000 modules for Edge AI and robotics applications | CNX Software | [link](https://www.cnx-software.com/2026/07/16/nvidia-jetson-t2000-and-t3000-modules-for-edge-ai-and-robotics-applications/) |
+| 2026-07-16 | The Protocol Wars: The Factory Floor's Fragmentation Problem | Embedded.com | [link](https://www.embedded.com/the-protocol-wars-the-factory-floors-fragmentation-problem/) |
 | 2026-07-16 | Hybrid energy storage: we need it more than ever | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/hybrid-energy-storage-we-need-it-more-than-ever-2026-07/) |
-| 2026-07-16 | TSMC Q2 revenue up 34% YoY; plans another $100bn investment in Arizona | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/tsmc-q2-revenue-up-34-yoy-plans-another-100bn-investment-in-arizona-2026-07/) |
-| 2026-07-16 | China startup claims world’s first 2D semiconductor pilot line | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/china-startup-clains-worlds-first-2d-semiconductor-pilot-line-2026-07/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -93,14 +93,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1412 | Rust | 564.9 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 890 | Python | 356.1 | [link](https://github.com/mosaico-labs/mosaico) |
+| awslabs/awsome-distributed-ai | 462 | Shell | 184.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 164 | Python | 65.7 | [link](https://github.com/ros-claw/rosclaw) |
 | ROBOTIS-GIT/ai_worker | 154 | C++ | 61.7 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| commaai/openpilot | 63129 | Python | 25251.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63131 | Python | 25252.5 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16024 | Python | 6409.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15483 | C++ | 6193.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14229 | C++ | 5691.7 | [link](https://github.com/google-deepmind/mujoco) |
+| ArduPilot/ardupilot | 15485 | C++ | 6194.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14234 | C++ | 5693.7 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11276 | Python | 4510.5 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11133 | Rust | 4453.3 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -110,11 +110,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVDJGbnZjTHR6NWNyNG9MU3NaX21Tc2V6TE1qMzdCVl93bENOYXE2T21yMGhsd0taUHlrSEtqRTZPQzFSdEROTXdraTJzeHVaMzBaUGdNUFk1ZmQ3UnpuQ3dUYzF0T3JGQVFVTDF6S1ZlR0h1MHNzY1RRZlhtWUdmUC16YldxSFVpNVRXTVhPWldiRUc5VVJ4Uko3WWNTaFB3ZHkyVjBDNkk2eXh1WW1IX0t3VF9uN2o0dFVzUUExbW1ucU96Q0lueGpkWW0?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxQeVRFZXlzNC1iS0gwS3UwVnM0Q3pVRFlTYXJWcHBoTzlhVXlWa2o1VHlINWY2bkttSk5DSHdEQkc2bEN4MVcwSXFRZEFXSlg2YzFIWExDcHFPMWxiUy1RZnlSYm5wX2hfU3JhbkNIQnZCZk0wSXI3ei03akxMRGZ4dQ?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSi1lU0xsc0oxUEJvLXgzZkdHVC12aTNoSWJlSS1CY000Z2NFWFU2ZV9ZTm1pbnpWMi1icmg0d09PdlZxM2dtYkxpYk1UanZ6VlVxV2JMNW9KaUZkOHY3V1FnSXRCNXN5VDRtOFJWeXhZZHoxdGMyY3J6ZzNoZnlCUGlnYWYwek9vUFpRNFhKVnp3YWxvMlg1eEwwRTN6dTVUSGNIUld4MlBpWmQwak9EaHBXTko?oc=5) |
+| 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVI5UkdwUUJXOTgyeXZLWEE0c3psNUdOUGpMNlAzN25SV3Z5VXNweUJRU3pSNW1iZVhzdy1rZHpsaVdNQzdWUGlYR0RxSzhjNVJ2MU1OOEN5MGZTaUZ0MVhoRm4tc2h2S2otTmVCZ3NmdUd6UF9PZEd5eUlBdklCdVpZckFnRzNDcE41MUxiLWxhR2lOY1hwczBpU1k5UVlaajZWaThiamRCa3dYUDNROFFITQ?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9hZldHMVJOV3RhbGlhWHJBaTNidXhUR0o4aHQtcVJGaWgzc1BvWGJNeGoxb3NLaFZ0Tk4wY242MTJYWUVSRU1vaVd3V1g1amFkUEViTG56RDlZRFY4b1E2MmZWS2Y5TTZibmdkS19tRHM3ZURLZ2c?oc=5) |
 | 2026-07-14 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1lDcHdOR0NGTm1DamhvY3NHYy1fTVc3WXQyMlAteTVOSjFzSm1zelpfeHVvR0VnMXN4WjBuMFRpZ04wdnhTNEsyeVBxdERCdmNFMHJ3V2VDX0VaeW1ZWEsxUGFmZlg4S0MwSEhkU19RUVNXV1Q3QXNrT0VWaE9jRkhDYWk2dWIteTBMLXBBYUxLN2dpM1VzcnhtcGVyRF9LRmh2ek9KYWI0Y00?oc=5) |
 | 2026-07-14 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxORTJDSW4xaTFJYlVoV01UTHE2c3pLQ3JjTDhrYmtCdkRRdTd6b3RLeE5lcTItNGJibnVOeTBYeDk3eGgxd1U1Vl9XY3pKS3l4dUJfazcyODZPczdockh3X3hIaDhVQ0ZpQkZIaU10Q3E3YmIwYTlUZ0lWd1IxNW96YjNSYXNreDRnaFpyQ1FLdlVYdl92SlFiQmVvZEptcjVaUFYxdmZPbW12dHNTMTVtSXdoOTUtVmFhY19DOVV5RC1pRHNlb3poR1Rya190QWRvNE1fZnE0aHRDOG1fbWIzemdKOXFHcHRtRW14Yg?oc=5) |
 | 2026-07-13 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFYwRDR6VS1JdC1fYTU5VGRnSXg3bFZCMFRoakFIc2FERGxXUDloRXN0ZGJoZkFuRTBaR2s1S2ZYWDduNi1RLXNRN1ZCRThRdGFwZUw1Vko5Mjg2czVOTHhoRk54UFBBNDI5TUNNaHlqN21fR1A0WHFEN08tOEU1MWhndjlrbVFYakxEaC13dmNlSFRlRnRyMDNqYTQ4eTd5YWdaTmVKMEc0MV9IcGFvVzhFejIyMDQtSU5GcklVYWlFcDlKTGdZZG56WTFFMXJvVklqaTNB?oc=5) |
-| 2026-07-12 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1haWldjNWQ2S3U4UWQ3YlRGNHlLcE5IZWZNbXJmSGVqVWs3a0V5R1FJdVpxdUdfeFJfSzZVYWdXYWtYSnBzRmZWRDRneklpYTRPQTJIdFNKN0NCR2hlWjJ1S2xsNDV1SEFDTFJWLUNMYzU0Q2tJVC1rNnJpSVluS0ZRSzh3MlBiXzM3RmxmS1ZXUkZOUnpvY2ZqcHhabmdFUzcwRXdKejZpc2x4d1ZCdTU0SnFaRU92VndvXw?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -125,10 +125,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | AMI Labs Builds World Models for Physical AI Robots - 조선일보 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUG5teDJGZFZvU1RpY2Z1S2pxX21NMk1RTUFuN19TS05fVWpRUG5wY0YtV0pjZk85cGZkck93dVJMU0RrWXY4VjhYVUNmUjRQT2pCeHJxbEtCRXVPeUFidHNLUUVBckhsUVFFVDFMWnNXNlFXcnktaWtrZnp3UWdiZEEzRkYzWkw0?oc=5) |
 | 2026-07-16 | Physical AI Startup SwitchOn Secures Rs 78 Cr In Pre-Series B Funding Led By IvyCap Ventures - BW Disrupt | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxNcmZWM2oteHBwamJlTjdjQUloem1NRFM4WG00TTZZY2k0ZDJkU19RU0RhRGYwN1VVbzNHY1ctbTFtTk90TjFvRGYtZHJlV21QbWVBdXdwNlJGLUxCc0U1UG1XWDVHd2hGdjFjTTNHTW12cEVnd1lwU1lXaGkwaGhtYVdsdUVsbE1kWGhuYVN0aHVyUEdmeXpEamxxRVh5ZW95R0NtZjBVUmpSbmUwRFhuU2tDQzljalVpZHZYM0lYNVBSSl9LZElpcTJqUzgzUQ?oc=5) |
 | 2026-07-16 | Physical-AI Startup SwitchOn Raises $8 Million in Pre-Series B Funding - CXO Digitalpulse | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQNGdZUXZadlRUNXlubDZ6LVQzVVhKbVhDaVhLcU5CaldRbXg5SE9OdHpXSzMyV0l1RVM3WTdVLWlaYWF5NUVvNUpTX1JhVk5mYjNoVVJIa1BtTzR4M3hnWHktRDdMUWRiUkI2MkNRZW5naVZ6RFRWTkN5Tkx6ZFhlTEU1SnlrRUJqOWJ5dm1Jd0wwSUhTZF8yY3hrRlZQUWV4RVFiVA?oc=5) |
+| 2026-07-16 | SwitchOn Raises $8 Million to Scale AI-Powered Manufacturing Solutions - Siliconindia | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZGlfR1BYZXR6WFpuNmZfYzZQVk5YbkRBWDV0NE82bDhXVklsQkhfMXlpcFR4N1dVTFU5Y3ZESUg0SkFMQ3ZBNVVyUnlEWFpnaUt6THhDQ3BtbUhoT1VhUEVPOU1UOTJMSjhrNGhNRFlEblloak54WmI0R1owWjlKbUFleGh4R29PRVVGQzRYdXZ6eHpjZ0tRVUR3UkJ5OTJOekU0MVRRTXRtRU5NaHJoZzFvcnhSalI3c1VKSHh0dTlPM0tzaTJCNnZzR2JKVlVUWXln?oc=5) |
 | 2026-07-16 | Tencent Cloud partners with robot AI startup RoboScience - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1NhdDZHeDY3Zkk3ekZGbjJsV0p6OWVzYnFJYUs1Q1NhU2hlT3N4YUIzMkpfMFllaE9TaXI5NzNqSkZUT01kVW0xMXlPSDJVVnNuOXYtNG9rVmVaRFZNLTMxRkJFQU9Dem41YmtBWHowUEhfUmNHcHc5dXFXUkV2bGZTZDNoMXlKc1Qw?oc=5) |
 | 2026-07-15 | Toyota-Backed Startup Walden Robotics Comes Out of Stealth With $1.1 Billion Valuation - Bloomberg.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbXdWQmtzVmNRWi1EdHVLQ00wMWY0Y1pMVjBVek95RkpiUUF4WjlyRXR4c3lzLXpRbmFTSl9teWNWUktjUFMyTk5jcHNHbnBDWmVvR0hVVnJXUXd6cWpDbUhZeVRLWi1OMER4RFRYQjA4TTFRaEtDRjdLNC1vemhlY2pGdEx3YUc2X2stZldtMUVGQUlJanYySExVVW1wMF92LXVPS1YxQmhIYm94TVRIa2VHRjBfMEg5c29lcVU2UW1idw?oc=5) |
 | 2026-07-15 | Stealthy Toyota spinout gets one of Boston area’s biggest robotics deals ever - The Boston Globe | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcFZIdlJKenhTblVlUWZyaHZrSHo0MXFVNWQ5Wmg0S280R3FRckhMSHdCVWhkWlpSTGszY0JENm81TXBCX1JNbEdqbjVFYjJmR1QxSlhuYUd1UjdaSFdBY1ZiWmNOTTJoLVNJV3FfS2RLSk9KYWhHbnJNa3MwNXFLX0p2aFJnYjV2YmtuZ1NjV0dadHBM?oc=5) |
-| 2026-07-15 | Shenzhen Professor Robot Startup LimX Dynamics Hits $2.3B Valuation With $200M Pre-IPO Round - Pandaily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTFBWeGtEdmh5N29waGU0MlFsM3BHWjlBTXdPMjUyQ1RydHNmTlQzX1BCUnF0bU4zSlI0amM4QmttNlFCUWdpU3dzUVdmV2hlQ1pkUVc2ZGQ2aWpHU2hUS1JQUmZkRGZ4NW5zYkhYdGtBYw?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
