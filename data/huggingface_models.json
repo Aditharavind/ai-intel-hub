@@ -1,5 +1,14 @@
 [
   {
+    "model": "milab-robot/norm_stat",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/milab-robot/norm_stat",
+    "date": "2026-07-16",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "tron-robot/yam-vla-handoff",
     "downloads": 0,
     "likes": 0,
@@ -36,6 +45,15 @@
     "score": 0.1
   },
   {
+    "model": "jackcbrown89/vla-jepa-chip-clip-cleanup",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jackcbrown89/vla-jepa-chip-clip-cleanup",
+    "date": "2026-07-16",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "InternRobotics/VLAC-Cut",
     "downloads": 10,
     "likes": 0,
@@ -45,12 +63,75 @@
     "score": 3.1
   },
   {
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch1",
+    "date": "2026-07-16",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3",
+    "date": "2026-07-16",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch2",
+    "date": "2026-07-16",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
     "model": "ubr-physical-ai/UBR-Nav-E4B",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/ubr-physical-ai/UBR-Nav-E4B",
     "date": "2026-07-16",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "mncai/cosmos3-nano-g1-sonic-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mncai/cosmos3-nano-g1-sonic-policy",
+    "date": "2026-07-16",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "JunJunJunya/bluecube_101_0715_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/JunJunJunya/bluecube_101_0715_policy",
+    "date": "2026-07-16",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "MakinoKF/pick-the-nut-from-above_act-policy-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MakinoKF/pick-the-nut-from-above_act-policy-v1",
+    "date": "2026-07-16",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "gachonnursing/pick_orange_tube_v1_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gachonnursing/pick_orange_tube_v1_policy",
+    "date": "2026-07-16",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -180,15 +261,6 @@
     "score": 2.6
   },
   {
-    "model": "RobotisSW/Task_Dispose_Wastebox_chunk30_50K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_Dispose_Wastebox_chunk30_50K",
-    "date": "2026-07-15",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "kurushun/dobot-vla-pickplace-pi05",
     "downloads": 0,
     "likes": 0,
@@ -265,15 +337,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Mohamedd123321/Arabizi_Checkpoints_vlast",
-    "date": "2026-07-15",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "EmpathicRobotics/tokenizer-vla-qwen3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/EmpathicRobotics/tokenizer-vla-qwen3",
     "date": "2026-07-15",
     "keyword": "vla",
     "score": 0.1
@@ -364,42 +427,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Hilman09/act_policy_bimanual_20ep",
-    "date": "2026-07-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jogarulfop/policy_2026-07-15_shakeitup4_bench_accelero_10kHz_nfft_64",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-07-15_shakeitup4_bench_accelero_10kHz_nfft_64",
-    "date": "2026-07-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jogarulfop/policy_2026-07-15_shakeitup4_bench_notact",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-07-15_shakeitup4_bench_notact",
-    "date": "2026-07-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W8A16",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W8A16",
-    "date": "2026-07-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16",
     "date": "2026-07-15",
     "keyword": "policy",
     "score": 0.1
@@ -607,33 +634,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/ultrastar112/maze2d_easy_native256_noncot_chunk_k5_world_model_20260707_perseg",
-    "date": "2026-07-12",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "ultrastar112/maze2d_easy_native256_noncot_chunk_k3_world_model_20260707_perseg",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ultrastar112/maze2d_easy_native256_noncot_chunk_k3_world_model_20260707_perseg",
-    "date": "2026-07-12",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "ultrastar112/maze2d_easy_native256_noncot_chunk_k1_world_model_20260707_perseg",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ultrastar112/maze2d_easy_native256_noncot_chunk_k1_world_model_20260707_perseg",
-    "date": "2026-07-12",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "ultrastar112/maze2d_easy_native256_cot_chunk_kinf_world_model_20260707_perseg",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ultrastar112/maze2d_easy_native256_cot_chunk_kinf_world_model_20260707_perseg",
     "date": "2026-07-12",
     "keyword": "world model",
     "score": 0.1
