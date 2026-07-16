@@ -1,5 +1,41 @@
 [
   {
+    "model": "chomeed/board_insertion_ablation_sirius_pi05_no_robot",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/chomeed/board_insertion_ablation_sirius_pi05_no_robot",
+    "date": "2026-07-16",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
+    "model": "chomeed/board_insertion_pi05_no_robot_sirius_round1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/chomeed/board_insertion_pi05_no_robot_sirius_round1",
+    "date": "2026-07-16",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "SakikoTogawa/pi0_robotwin_lora-place_object_scale-100-himaconpp_repo",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_object_scale-100-himaconpp_repo",
+    "date": "2026-07-16",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
+    "model": "access-robotics-team/bioa-xv-fold-high-quality-260716",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/access-robotics-team/bioa-xv-fold-high-quality-260716",
+    "date": "2026-07-16",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "RobotisSW/Dispose_0716_Filtered_Chunk30_Test_40K",
     "downloads": 0,
     "likes": 0,
@@ -67,42 +103,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/RobotisSW/Dispose_0716_Filtered_Chunk30_Test_30K",
-    "date": "2026-07-16",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Dispose_Filtered_Chunk30_Test",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/RobotisSW/Dispose_Filtered_Chunk30_Test",
-    "date": "2026-07-16",
-    "keyword": "robot",
-    "score": 0.3
-  },
-  {
-    "model": "access-robotics-team/bioa-p5-fold-high-quality-260715",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/access-robotics-team/bioa-p5-fold-high-quality-260715",
-    "date": "2026-07-16",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Dispose_Filtered_Chunk15",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Dispose_Filtered_Chunk15",
-    "date": "2026-07-16",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Dispose_Filtered_Chunk30",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Dispose_Filtered_Chunk30",
     "date": "2026-07-16",
     "keyword": "robot",
     "score": 0.1
@@ -189,6 +189,42 @@
     "score": 0.1
   },
   {
+    "model": "XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16",
+    "downloads": 12,
+    "likes": 1,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16",
+    "date": "2026-07-16",
+    "keyword": "policy",
+    "score": 3.9
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-AttnW8",
+    "downloads": 12,
+    "likes": 0,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-AttnW8",
+    "date": "2026-07-16",
+    "keyword": "policy",
+    "score": 3.7
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-GenW8",
+    "downloads": 12,
+    "likes": 0,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-GenW8",
+    "date": "2026-07-16",
+    "keyword": "policy",
+    "score": 3.7
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W8A16",
+    "downloads": 12,
+    "likes": 0,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W8A16",
+    "date": "2026-07-16",
+    "keyword": "policy",
+    "score": 3.7
+  },
+  {
     "model": "3cda2225/record-052_act_policy",
     "downloads": 0,
     "likes": 1,
@@ -261,40 +297,13 @@
     "score": 2.4
   },
   {
-    "model": "hiskiv/cosmos-policy-lam",
+    "model": "access-robotics-team/bioa-p5-fold-high-quality-260715",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/hiskiv/cosmos-policy-lam",
+    "url": "https://huggingface.co/access-robotics-team/bioa-p5-fold-high-quality-260715",
     "date": "2026-07-16",
-    "keyword": "policy",
+    "keyword": "robotics",
     "score": 0.1
-  },
-  {
-    "model": "JunJunJunya/bluecube_101_merged_policy_baseline",
-    "downloads": 23,
-    "likes": 0,
-    "url": "https://huggingface.co/JunJunJunya/bluecube_101_merged_policy_baseline",
-    "date": "2026-07-16",
-    "keyword": "policy",
-    "score": 7.0
-  },
-  {
-    "model": "jogarulfop/policy_2026-07-15_shakeitup4_bench_dragonfly_10kHz_nfft_64",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-07-15_shakeitup4_bench_dragonfly_10kHz_nfft_64",
-    "date": "2026-07-16",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Rowaida-Ali/trufus-wrapping-policy",
-    "downloads": 7,
-    "likes": 0,
-    "url": "https://huggingface.co/Rowaida-Ali/trufus-wrapping-policy",
-    "date": "2026-07-16",
-    "keyword": "policy",
-    "score": 2.2
   },
   {
     "model": "kurushun/dobot-vla-pickplace-pi05",
@@ -407,11 +416,11 @@
   {
     "model": "tencent/Hy-Embodied-VLM-1.0",
     "downloads": 54,
-    "likes": 15,
+    "likes": 16,
     "url": "https://huggingface.co/tencent/Hy-Embodied-VLM-1.0",
     "date": "2026-07-15",
     "keyword": "embodied",
-    "score": 19.3
+    "score": 19.5
   },
   {
     "model": "physicalai-bmi/orbital-landing-tgo",
@@ -434,11 +443,11 @@
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-U0",
     "downloads": 64,
-    "likes": 9,
+    "likes": 10,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0",
     "date": "2026-07-15",
     "keyword": "robotics",
-    "score": 21.1
+    "score": 21.3
   },
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR",
@@ -691,15 +700,6 @@
     "date": "2026-07-12",
     "keyword": "physical ai",
     "score": 0.1
-  },
-  {
-    "model": "DAVIAN-Robotics/pi05-robocasa-H50",
-    "downloads": 58,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/pi05-robocasa-H50",
-    "date": "2026-07-12",
-    "keyword": "robotics",
-    "score": 17.5
   },
   {
     "model": "zhijieq/houseexpo-navigation-policy",

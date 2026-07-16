@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-16 09:51 UTC
+Last Updated: 2026-07-16 11:23 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-16 | Security incident disclosure — July 2026 | Hugging Face | [link](https://huggingface.co/blog/security-incident-july-2026) |
 | 2026-07-15 | The US is advancing AI safety through state and federal action | OpenAI | [link](https://openai.com/index/advancing-ai-safety-through-state-and-federal-action) |
 | 2026-07-15 | GPT-Red: Unlocking Self-Improvement for Robustness | OpenAI | [link](https://openai.com/index/unlocking-self-improvement-gpt-red) |
 | 2026-07-15 | What building Shippy taught us about building agents | Hugging Face | [link](https://huggingface.co/blog/allenai/shippy-tech-blog) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-14 | How to manage AI investments in the agentic era | OpenAI | [link](https://openai.com/index/managing-ai-investments-in-agentic-era) |
 | 2026-07-14 | How sales teams use ChatGPT Work | OpenAI | [link](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) |
 | 2026-07-14 | How data science teams use ChatGPT Work | OpenAI | [link](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) |
-| 2026-07-10 | How Deutsche Telekom is rewiring telecommunications with AI | OpenAI | [link](https://openai.com/index/deutsche-telekom) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-16 | Google Earth Desktop Client to be Retired in 2027 | Hackaday | [link](https://hackaday.com/2026/07/16/google-earth-desktop-client-to-be-retired-in-2027/) |
 | 2026-07-16 | Transponder Mania | Hackaday | [link](https://hackaday.com/2026/07/16/transponder-mania/) |
 | 2026-07-16 | Chromatography as Art | Hackaday | [link](https://hackaday.com/2026/07/15/chromatography-as-art/) |
 | 2026-07-16 | Pinch Puts an Arduino On a USB-C Connector | Hackaday | [link](https://hackaday.com/2026/07/15/pinch-puts-an-arduino-on-a-usb-c-connector/) |
+| 2026-07-16 | pico-usb-wifi firmware converts the Raspberry Pi Pico W into a driverless USB WiFi adapter | CNX Software | [link](https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/) |
 | 2026-07-16 | OpenInfrared Point is an ESP32-S3 powered universal remote hub with Infrared, BLE, NFC, audio streaming (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/16/openinfrared-point-esp32-s3-universal-remote-hub-infrared-ble-nfc-audio-streaming/) |
 | 2026-07-16 | NVIDIA launches smaller, mainstream Jetson T2000 and T3000 modules for Edge AI and robotics applications | CNX Software | [link](https://www.cnx-software.com/2026/07/16/nvidia-jetson-t2000-and-t3000-modules-for-edge-ai-and-robotics-applications/) |
+| 2026-07-16 | Hybrid energy storage: we need it more than ever | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/hybrid-energy-storage-we-need-it-more-than-ever-2026-07/) |
 | 2026-07-16 | TSMC Q2 revenue up 34% YoY; plans another $100bn investment in Arizona | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/tsmc-q2-revenue-up-34-yoy-plans-another-100bn-investment-in-arizona-2026-07/) |
 | 2026-07-16 | China startup claims world’s first 2D semiconductor pilot line | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/china-startup-clains-worlds-first-2d-semiconductor-pilot-line-2026-07/) |
-| 2026-07-16 | Diodes buys ElevATE | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/diodes-buys-elevate-2026-07/) |
-| 2026-07-16 | Tower’s $3bn expansion in Japan | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/towers-3bn-expansion-in-japan-2026-07/) |
-| 2026-07-16 | Imec and Diraq demo eight qubit array | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/imec-and-diraq-demo-eight-qubit-array-2026-07/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,16 +77,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-16 | chomeed/board_insertion_ablation_sirius_pi05_no_robot | 0 | 1 | [link](https://huggingface.co/chomeed/board_insertion_ablation_sirius_pi05_no_robot) |
+| 2026-07-16 | chomeed/board_insertion_pi05_no_robot_sirius_round1 | 0 | 0 | [link](https://huggingface.co/chomeed/board_insertion_pi05_no_robot_sirius_round1) |
+| 2026-07-16 | SakikoTogawa/pi0_robotwin_lora-place_object_scale-100-himaconpp_repo | 0 | 1 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_object_scale-100-himaconpp_repo) |
+| 2026-07-16 | access-robotics-team/bioa-xv-fold-high-quality-260716 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/bioa-xv-fold-high-quality-260716) |
 | 2026-07-16 | RobotisSW/Dispose_0716_Filtered_Chunk30_Test_40K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Dispose_0716_Filtered_Chunk30_Test_40K) |
 | 2026-07-16 | InternRobotics/InternVLA-A1.5-RoboTwin | 97 | 7 | [link](https://huggingface.co/InternRobotics/InternVLA-A1.5-RoboTwin) |
 | 2026-07-16 | RobotisSW/Dispose_0716_Filtered_Chunk15_Test_40K | 0 | 1 | [link](https://huggingface.co/RobotisSW/Dispose_0716_Filtered_Chunk15_Test_40K) |
 | 2026-07-16 | YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform_egocentric | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform_egocentric) |
 | 2026-07-16 | HarrisonPENG/M2W-VLA-RoboTwin | 139 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-07-16 | RobotisSW/Dispose_0716_Filtered_Chunk15_Test_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Dispose_0716_Filtered_Chunk15_Test_30K) |
-| 2026-07-16 | RobotisSW/Dispose_0716_Filtered_Chunk30_Test_50K | 0 | 1 | [link](https://huggingface.co/RobotisSW/Dispose_0716_Filtered_Chunk30_Test_50K) |
-| 2026-07-16 | RobotisSW/Dispose_0716_Filtered_Chunk30_Test_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Dispose_0716_Filtered_Chunk30_Test_30K) |
-| 2026-07-16 | RobotisSW/Dispose_Filtered_Chunk30_Test | 0 | 1 | [link](https://huggingface.co/RobotisSW/Dispose_Filtered_Chunk30_Test) |
-| 2026-07-16 | access-robotics-team/bioa-p5-fold-high-quality-260715 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/bioa-p5-fold-high-quality-260715) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -95,26 +95,26 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | mosaico-labs/mosaico | 890 | Python | 356.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | ros-claw/rosclaw | 164 | Python | 65.7 | [link](https://github.com/ros-claw/rosclaw) |
 | ROBOTIS-GIT/ai_worker | 154 | C++ | 61.7 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| commaai/openpilot | 63127 | Python | 25250.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63128 | Python | 25251.3 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16023 | Python | 6409.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15482 | C++ | 6192.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14228 | C++ | 5691.3 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14229 | C++ | 5691.7 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11276 | Python | 4510.5 | [link](https://github.com/kornia/kornia) |
-| isaac-sim/IsaacLab | 7687 | Python | 3074.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| isaac-sim/IsaacLab | 7689 | Python | 3075.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-07-16 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFAtYWxsVXhVbmVTZ3NaT0lSdkJQRXJzVmwwYmJrakZzbmFTcTQ0Q2ZVa0picnZlWUZ2bk5zN1gxZ1c1SWRyaHpkZERTaWs3ekdKdHdJNG80a0x1ME5OdGpjWjJGdThNcnlob1dyNkJFTGxrUFg4RHc?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUJvRFpqWVl4UHVLd1M0WTdsSEV0OTRLaWF6V0s2d2tvbTl0SVdzbHBEOE9VYmlkTXBWZ3BIMVkxYjBEMXhPdktmRHp3eXFtZG5paU50R1ZlRllEaWR5YWtpREVHWnJlRW9hY2RZWGpieU1LSmRuQXFNeXFoeE9KRzVtQXExUlFlNlk2anJUM3ZMYWZYV3BYV19uYXp0Zk1ZVFBzcURtYkpoc0x3OXdDN3M1WHNTYjgtNFE?oc=5) |
+| 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVDJGbnZjTHR6NWNyNG9MU3NaX21Tc2V6TE1qMzdCVl93bENOYXE2T21yMGhsd0taUHlrSEtqRTZPQzFSdEROTXdraTJzeHVaMzBaUGdNUFk1ZmQ3UnpuQ3dUYzF0T3JGQVFVTDF6S1ZlR0h1MHNzY1RRZlhtWUdmUC16YldxSFVpNVRXTVhPWldiRUc5VVJ4Uko3WWNTaFB3ZHkyVjBDNkk2eXh1WW1IX0t3VF9uN2o0dFVzUUExbW1ucU96Q0lueGpkWW0?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxQeVRFZXlzNC1iS0gwS3UwVnM0Q3pVRFlTYXJWcHBoTzlhVXlWa2o1VHlINWY2bkttSk5DSHdEQkc2bEN4MVcwSXFRZEFXSlg2YzFIWExDcHFPMWxiUy1RZnlSYm5wX2hfU3JhbkNIQnZCZk0wSXI3ei03akxMRGZ4dQ?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9hZldHMVJOV3RhbGlhWHJBaTNidXhUR0o4aHQtcVJGaWgzc1BvWGJNeGoxb3NLaFZ0Tk4wY242MTJYWUVSRU1vaVd3V1g1amFkUEViTG56RDlZRFY4b1E2MmZWS2Y5TTZibmdkS19tRHM3ZURLZ2c?oc=5) |
+| 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE9VZ2lMRjJGUnR2cWpRaldJWW1TWWU0YkxzdC1waFc2RW1KVlh0MFNLT2JjcnNmeUpVTHJIdVZ5MElaOUZsZXViNHE0czU0dFhzb2NKeGN3UzFtbldfTldQMG1MZi1VNzNnbGUtTg?oc=5) |
+| 2026-07-15 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTFBZQTZyNFlzX0EzaEh4YUpOYW84OG1xRUlkeWlGTVhSeTd3NThTT0NlNl9lb0d1ZUQtbWJlTTBoelNMZjc2WURoWVB2NmNXekR6RUowZkNVZnZOM1pQZDNEUmZjVE1BTjR4enZrc0tHMWJqZjU0TVhLdHpSQU0?oc=5) |
 | 2026-07-14 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1lDcHdOR0NGTm1DamhvY3NHYy1fTVc3WXQyMlAteTVOSjFzSm1zelpfeHVvR0VnMXN4WjBuMFRpZ04wdnhTNEsyeVBxdERCdmNFMHJ3V2VDX0VaeW1ZWEsxUGFmZlg4S0MwSEhkU19RUVNXV1Q3QXNrT0VWaE9jRkhDYWk2dWIteTBMLXBBYUxLN2dpM1VzcnhtcGVyRF9LRmh2ek9KYWI0Y00?oc=5) |
 | 2026-07-14 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxORTJDSW4xaTFJYlVoV01UTHE2c3pLQ3JjTDhrYmtCdkRRdTd6b3RLeE5lcTItNGJibnVOeTBYeDk3eGgxd1U1Vl9XY3pKS3l4dUJfazcyODZPczdockh3X3hIaDhVQ0ZpQkZIaU10Q3E3YmIwYTlUZ0lWd1IxNW96YjNSYXNreDRnaFpyQ1FLdlVYdl92SlFiQmVvZEptcjVaUFYxdmZPbW12dHNTMTVtSXdoOTUtVmFhY19DOVV5RC1pRHNlb3poR1Rya190QWRvNE1fZnE0aHRDOG1fbWIzemdKOXFHcHRtRW14Yg?oc=5) |
 | 2026-07-13 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFYwRDR6VS1JdC1fYTU5VGRnSXg3bFZCMFRoakFIc2FERGxXUDloRXN0ZGJoZkFuRTBaR2s1S2ZYWDduNi1RLXNRN1ZCRThRdGFwZUw1Vko5Mjg2czVOTHhoRk54UFBBNDI5TUNNaHlqN21fR1A0WHFEN08tOEU1MWhndjlrbVFYakxEaC13dmNlSFRlRnRyMDNqYTQ4eTd5YWdaTmVKMEc0MV9IcGFvVzhFejIyMDQtSU5GcklVYWlFcDlKTGdZZG56WTFFMXJvVklqaTNB?oc=5) |
-| 2026-07-12 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1haWldjNWQ2S3U4UWQ3YlRGNHlLcE5IZWZNbXJmSGVqVWs3a0V5R1FJdVpxdUdfeFJfSzZVYWdXYWtYSnBzRmZWRDRneklpYTRPQTJIdFNKN0NCR2hlWjJ1S2xsNDV1SEFDTFJWLUNMYzU0Q2tJVC1rNnJpSVluS0ZRSzh3MlBiXzM3RmxmS1ZXUkZOUnpvY2ZqcHhabmdFUzcwRXdKejZpc2x4d1ZCdTU0SnFaRU92VndvXw?oc=5) |
-| 2026-07-07 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMitgJBVV95cUxQdjdfLTBlbU4zUnJHSDRSWTU0R0R6STNDdVJET3hHWVJpR25PT2dYQnJzYWRna1pQeVdKYlRkZDRvTnlEWkY1NHA4bnpnblRWNVJFNHhUZUNQZktYUlJncTZNQmI3eTRjc2REc2VDOWdkSE93ZHRIcW1feGJUbDV5WGFEeTgwVjlURWF0bzV5SGxlZWZ4NWJZbTlianVqNjdTYWlHWFNyQy04eW81cGROQ3R2ZGJ4Z3RZYVh3b2l3NlZEQXlKZjFaN3FxVEdsWV9lNkp3d2R2ZVRGN19LRWpLWlNNLV9TYkNxMjMtSXEzUlJlbWJtZmVUZWw4T3Q5Q0s4cnZVbmhCcjVWcXpsYld6aVBCQmh6ZlNOZXlIVUJTa05aVVJLT3IwOTlKY0dNQ2RUZGF5TWVn?oc=5) |
-| 2026-07-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFAydl80dzVVbktZS0dWTlhqZHpPTnNTZk94Q0RnWFFxMi1fX05qZmptTmtpbGRFRFYxNVIxLWk4cEpLT3ZndTVjYkRJNWpRc1JzVHU4?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -137,8 +137,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-15 | Helix Data Creator (Swing Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4693411006) |
 | 2026-07-15 | Humanoid Robot Pilot  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4369739006) |
 | 2026-07-15 | Ops Facilitator - Pilot Support Team | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4697431006) |
-| 2026-07-15 | Project Coordinator, Data Creators | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696348006) |
 | 2026-07-15 | Project Coordinator, Data Creators | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696349006) |
+| 2026-07-15 | Project Coordinator, Data Creators | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696348006) |
 | 2026-07-15 | Project Coordinator, Data Quality | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696350006) |
 | 2026-07-15 | Technical Recruiter | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4409868006) |
 | 2026-07-15 | TeleOps Quality Support | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4697420006) |
