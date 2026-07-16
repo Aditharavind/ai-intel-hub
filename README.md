@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-16 19:52 UTC
+Last Updated: 2026-07-16 20:40 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-16 | Bad Apple on a Karaoke Machine | Hackaday | [link](https://hackaday.com/2026/07/16/bad-apple-on-a-karaoke-machine/) |
 | 2026-07-16 | Even Chemical Bonds Obey Einstein’s Relativity | Hackaday | [link](https://hackaday.com/2026/07/16/even-chemical-bonds-obey-einsteins-relativity/) |
 | 2026-07-16 | GOES-19 Goes Down, NOAA Investigating | Hackaday | [link](https://hackaday.com/2026/07/16/goes-19-goes-down-noaa-investigating/) |
 | 2026-07-16 | Hackaday Europe 2026 – Build A Cable Modem For Your Arduino | Hackaday | [link](https://hackaday.com/2026/07/16/hackaday-europe-2026-build-a-cable-modem-for-your-arduino/) |
 | 2026-07-16 | Google Earth Desktop Client to be Retired in 2027 | Hackaday | [link](https://hackaday.com/2026/07/16/google-earth-desktop-client-to-be-retired-in-2027/) |
 | 2026-07-16 | Transponder Mania | Hackaday | [link](https://hackaday.com/2026/07/16/transponder-mania/) |
 | 2026-07-16 | Chromatography as Art | Hackaday | [link](https://hackaday.com/2026/07/15/chromatography-as-art/) |
-| 2026-07-16 | Pinch Puts an Arduino On a USB-C Connector | Hackaday | [link](https://hackaday.com/2026/07/15/pinch-puts-an-arduino-on-a-usb-c-connector/) |
 | 2026-07-16 | Olimex PICO-EVB automation board adds high-voltage terminals to Raspberry Pi Pico family | CNX Software | [link](https://www.cnx-software.com/2026/07/17/olimex-pico-evb-automation-board-adds-high-voltage-terminals-to-raspberry-pi-pico-family/) |
 | 2026-07-16 | pico-usb-wifi firmware converts the Raspberry Pi Pico W into a driverless USB WiFi adapter | CNX Software | [link](https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/) |
 | 2026-07-16 | OpenInfrared Point is an ESP32-S3 powered universal remote hub with Infrared, BLE, NFC, audio streaming (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/16/openinfrared-point-esp32-s3-universal-remote-hub-infrared-ble-nfc-audio-streaming/) |
@@ -96,10 +96,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | awslabs/awsome-distributed-ai | 463 | Shell | 185.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 164 | Python | 65.7 | [link](https://github.com/ros-claw/rosclaw) |
 | ROBOTIS-GIT/ai_worker | 154 | C++ | 61.7 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| commaai/openpilot | 63138 | Python | 25255.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63139 | Python | 25255.7 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16024 | Python | 6409.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15486 | C++ | 6194.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14234 | C++ | 5693.7 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14235 | C++ | 5694.1 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11276 | Python | 4510.5 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
@@ -139,8 +139,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-15 | Fleet Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696722006) |
 | 2026-07-15 | Humanoid Robot Pilot  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4369739006) |
 | 2026-07-15 | Ops Facilitator - Pilot Support Team | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4697431006) |
-| 2026-07-15 | Project Coordinator, Data Creators | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696348006) |
 | 2026-07-15 | Project Coordinator, Data Creators | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696349006) |
+| 2026-07-15 | Project Coordinator, Data Creators | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696348006) |
 | 2026-07-15 | Project Coordinator, Data Quality | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696350006) |
 | 2026-07-15 | Technical Recruiter | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4409868006) |
 
