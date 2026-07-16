@@ -1,11 +1,110 @@
 [
   {
+    "model": "tron-robot/yam-vla-handoff",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tron-robot/yam-vla-handoff",
+    "date": "2026-07-16",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "SakikoTogawa/pi0_robotwin_lora-place_object_scale-100-himaconpp_repo",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_object_scale-100-himaconpp_repo",
+    "date": "2026-07-16",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_900006_900007_Collect_PeanutMix_To_Box_1110_UKH_act_40k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_900006_900007_Collect_PeanutMix_To_Box_1110_UKH_act_40k",
+    "date": "2026-07-16",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "milab-robot/0512-aug-n17-60000",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/milab-robot/0512-aug-n17-60000",
     "date": "2026-07-16",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "InternRobotics/VLAC-Cut",
+    "downloads": 10,
+    "likes": 0,
+    "url": "https://huggingface.co/InternRobotics/VLAC-Cut",
+    "date": "2026-07-16",
+    "keyword": "vla",
+    "score": 3.1
+  },
+  {
+    "model": "ubr-physical-ai/UBR-Nav-E4B",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ubr-physical-ai/UBR-Nav-E4B",
+    "date": "2026-07-16",
+    "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "MakinoKF/pick-the-nut-from-2direction-dataset_act-policy-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MakinoKF/pick-the-nut-from-2direction-dataset_act-policy-v1",
+    "date": "2026-07-16",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "takeru01/gripper-cablerouting-pi05-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/takeru01/gripper-cablerouting-pi05-policy",
+    "date": "2026-07-16",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "open-gigaai/Giga-World-Policy-0.5",
+    "downloads": 0,
+    "likes": 4,
+    "url": "https://huggingface.co/open-gigaai/Giga-World-Policy-0.5",
+    "date": "2026-07-16",
+    "keyword": "policy",
+    "score": 0.9
+  },
+  {
+    "model": "hiskiv/cosmos-policy-lam",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/hiskiv/cosmos-policy-lam",
+    "date": "2026-07-16",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "JunJunJunya/bluecube_101_merged_policy_baseline",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/JunJunJunya/bluecube_101_merged_policy_baseline",
+    "date": "2026-07-16",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-07-15_shakeitup4_bench_dragonfly_10kHz_nfft_64",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-07-15_shakeitup4_bench_dragonfly_10kHz_nfft_64",
+    "date": "2026-07-16",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -65,11 +164,11 @@
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-U0",
     "downloads": 13,
-    "likes": 7,
+    "likes": 9,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0",
     "date": "2026-07-15",
     "keyword": "robotics",
-    "score": 5.4
+    "score": 5.8
   },
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR",
@@ -85,33 +184,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/RobotisSW/Task_Dispose_Wastebox_chunk30_50K",
-    "date": "2026-07-15",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Task_Dispose_Wastebox_chunk30_30K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_Dispose_Wastebox_chunk30_30K",
-    "date": "2026-07-15",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "puppet-robotics/golf-model-eval",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-eval",
-    "date": "2026-07-15",
-    "keyword": "robotics",
-    "score": 6.7
-  },
-  {
-    "model": "RobotisSW/Task_Dispose_Wastebox_30K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_Dispose_Wastebox_30K",
     "date": "2026-07-15",
     "keyword": "robot",
     "score": 0.1
@@ -207,24 +279,6 @@
     "score": 0.1
   },
   {
-    "model": "EmpathicRobotics/tokenizer-vla-adaptive-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/EmpathicRobotics/tokenizer-vla-adaptive-v2",
-    "date": "2026-07-15",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "zwan1003/pickplace_pick_vla_v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/zwan1003/pickplace_pick_vla_v2",
-    "date": "2026-07-15",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "physicalai-bmi/nano-world-model-multi",
     "downloads": 0,
     "likes": 0,
@@ -272,29 +326,20 @@
   {
     "model": "tencent/Hy-Embodied-RxBrain-1.0",
     "downloads": 0,
-    "likes": 23,
+    "likes": 25,
     "url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
     "date": "2026-07-15",
     "keyword": "embodied",
-    "score": 4.7
+    "score": 5.1
   },
   {
     "model": "tencent/Hy-Embodied-VLM-1.0",
     "downloads": 0,
-    "likes": 13,
+    "likes": 15,
     "url": "https://huggingface.co/tencent/Hy-Embodied-VLM-1.0",
     "date": "2026-07-15",
     "keyword": "embodied",
-    "score": 2.7
-  },
-  {
-    "model": "ubr-physical-ai/UBR-Nav-E4B",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ubr-physical-ai/UBR-Nav-E4B",
-    "date": "2026-07-15",
-    "keyword": "physical ai",
-    "score": 0.1
+    "score": 3.1
   },
   {
     "model": "physicalai-bmi/orbital-landing-tgo",
@@ -360,58 +405,13 @@
     "score": 0.1
   },
   {
-    "model": "XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-AttnW8",
-    "downloads": 0,
+    "model": "puppet-robotics/golf-model-eval",
+    "downloads": 22,
     "likes": 0,
-    "url": "https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-AttnW8",
+    "url": "https://huggingface.co/puppet-robotics/golf-model-eval",
     "date": "2026-07-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-GenW8",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-GenW8",
-    "date": "2026-07-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "iny2020/policy_test1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/iny2020/policy_test1",
-    "date": "2026-07-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Hilman09/act_policy_bimanual_v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Hilman09/act_policy_bimanual_v2",
-    "date": "2026-07-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "MakinoKF/pick-the-nut-from-2direction-dataset_diffusion-policy-v1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MakinoKF/pick-the-nut-from-2direction-dataset_diffusion-policy-v1",
-    "date": "2026-07-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "open-gigaai/Giga-World-Policy-0.5",
-    "downloads": 0,
-    "likes": 4,
-    "url": "https://huggingface.co/open-gigaai/Giga-World-Policy-0.5",
-    "date": "2026-07-15",
-    "keyword": "policy",
-    "score": 0.9
+    "keyword": "robotics",
+    "score": 6.7
   },
   {
     "model": "physicalai-bmi/orbital-formation-bc",

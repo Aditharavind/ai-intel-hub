@@ -1,5 +1,19 @@
 [
   {
+    "title": "Pinch Puts an Arduino On a USB-C Connector",
+    "source": "Hackaday",
+    "date": "2026-07-16",
+    "url": "https://hackaday.com/2026/07/15/pinch-puts-an-arduino-on-a-usb-c-connector/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"375\" src=\"https://hackaday.com/wp-content/uploads/2026/07/pinch_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Compared to the Arduino Uno of old, modern microcontrollers are absolutely tiny &#8212; especially for the amount of processing power and I/O you get. But if you need something really small, <a class=\"read-more\" href=\"https://hackaday.com/2026/07/15/pinch-puts-an-arduino-on-a-usb-c-connector/\">&#8230;read more</a>"
+  },
+  {
+    "title": "NVIDIA launches smaller, mainstream Jetson T2000 and T3000 modules for Edge AI and robotics applications",
+    "source": "CNX Software",
+    "date": "2026-07-16",
+    "url": "https://www.cnx-software.com/2026/07/16/nvidia-jetson-t2000-and-t3000-modules-for-edge-ai-and-robotics-applications/",
+    "summary": "<div><img alt=\"NVIDIA Jetson Thor T2000 T3000\" class=\"attachment-medium size-medium wp-post-image\" height=\"383\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/NVIDIA-Jetson-Thor-T2000-T3000-720x383.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>NVIDIA has just launched the Jetson T2000 and T3000 &#8220;mainstream&#8221; modules as smaller and lower cost options to the Jetson T4000/T5000 modules introduced last year for Edge AI and robotics applications. The Jetson Thor T3000 and the industrial version IGX Thor T3000, which adds functional safety, both deliver up to 865 FP4 TFLOPS of AI compute. They feature a 1536-core NVIDIA Blackwell GPU, an eight-core Neoverse Arm CPU, 32GB of LPDDR5X memory with 273GB/s bandwidth, and 25 GbE connectivity. The Jetson Thor T2000 delivers up to 400 TFLOPS of AI performance, features a 1024-core Blackwell GPU, 16GB LPDDR5 with 137GB/s bandwidth, and 10 GbE networking. Both are about half the size of the Jetson T4000/T5000 modules. Here&#8217;s a preliminary comparison between the Jetson Thor T2000, T3000, T4000, and T5000 modules. It&#8217;s preliminary because, as I write this article, NVIDIA has yet to provide the full specifications for the new T2000 and [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/16/nvidia-jetson-t2000-and-t3000-modules-for-edge-ai-and-robotics-applications/\">NVIDIA launches smaller, mainstream Jetson T2000 and T3000 modules for Edge AI and robotics applications</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Vaccines: Profits, Abundance, Affordability",
     "source": "Electronics Weekly",
     "date": "2026-07-16",
@@ -47,13 +61,6 @@
     "date": "2026-07-15",
     "url": "https://hackaday.com/2026/07/15/making-a-locked-down-wearable-work-without-a-subscription/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"400\" src=\"https://hackaday.com/wp-content/uploads/2026/07/OpenStrapWHOOP.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>WHOOP does not have the presence in the wearable space as other brands, but in certain circles, it&#8217;s a household name. Their business model requires you to have a yearly <a class=\"read-more\" href=\"https://hackaday.com/2026/07/15/making-a-locked-down-wearable-work-without-a-subscription/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Hacking Around the Financial Pain of New 3DS XL Top Screens",
-    "source": "Hackaday",
-    "date": "2026-07-15",
-    "url": "https://hackaday.com/2026/07/15/hacking-around-the-financial-pain-of-new-3ds-xl-top-screens/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"451\" src=\"https://hackaday.com/wp-content/uploads/2026/07/new_3ds_xl_screen_hack_skawo_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>With Nintendo&#8217;s 3DS experiencing a bit of a renaissance lately, prices for functioning systems have shot through the roof. Getting a busted one with a broken screen is a lot <a class=\"read-more\" href=\"https://hackaday.com/2026/07/15/hacking-around-the-financial-pain-of-new-3ds-xl-top-screens/\">&#8230;read more</a>"
   },
   {
     "title": "Bigme Hibreak Dual 2 – An Android 16 smartphone with 6.13-inch 80fps E-Ink and 5-inch LCD display (Crowdfunding)",
@@ -390,13 +397,6 @@
     "date": "2026-07-11",
     "url": "https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/",
     "summary": "<div><img alt=\"ELM11-Feather FPGA board\" class=\"attachment-medium size-medium wp-post-image\" height=\"383\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/ELM11-Feather-FPGA-board-720x383.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>BrisbaneSilicon ELM11-Feather is a &#8220;microcontroller&#8221; board based on a Gowin GW1NR FPGA that is natively programmable in Lua, C, SystemVerilog, and VHDL. Compatible with the Adafruit Feather form factor, the board features GPIO headers, a built-in debugger, a USB-C port for power and programming, and a 2-pin header for a LiPo battery. The company calls it a microcontroller board because the FPGA runs a PicoRV32 MCU softcore at up to 75 MHz with 1MB RAM and 8MB flash, programmable with Lua, and the user can also customize hardware layers with RTL code using the remaining FPGA fabric. ELM11-Feather specifications: FPGA &#8211; Gowin GW1NR-LV9 FPGA from the GW1NR-9 family 8K LUTs 8,640 logical units (LUTs) 6,480 flip-flop 17,280 bits shadow SRAM (SSRAM) 486 Kbit block SRAM (BSRAM) 64 Mbit (8MB) PSRAM 608 Kbit user flash 2x PLL Up to 276x user I/O USB &#8211; 1x USB Type-C port for power and [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/\">Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "M5Stack Stamp-C5 – A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support",
-    "source": "CNX Software",
-    "date": "2026-07-10",
-    "url": "https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/",
-    "summary": "<div><img alt=\"M5Stack Stamp-C5\" class=\"attachment-medium size-medium wp-post-image\" height=\"405\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/M5Stack-Stamp-C5-720x405.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>M5Stack Stamp-C5, also known as the M5Stamp-C5, is a tiny wireless IoT USB-C board based on the Espressif ESP32-C5 RISC-V microcontroller with dual-band WiFi 6, Bluetooth LE, and 802.15.4 (Zigbee/Thread) connectivity. Despite its small size (19.1 x 17.6mm), the module exposes up to nineteen GPIO pins, eleven on standard 2.54mm pitch headers and castellated holes, and eight on an FPC extension connector. The board also supports battery charging and ships with an external IPEX antenna for wireless connectivity, since there&#8217;s no built-in antenna. M5Stack Stamp-C5 specifications: Wireless MCU –  Espressif Systems ESP32-C5HF4 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 48 MHz acting as the main processor for power-sensitive applications Memory – 384 KB SRAM on-chip Storage – 320 KB ROM, 4MB SPI flash Wireless Dual-band (2.4/5 GHz) 802.11ax WiFi 6, 802.11b/g/n WiFi 4 backward compatibility WiFi modes: Station mode, SoftAP mode, SoftAP + [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/\">M5Stack Stamp-C5 &#8211; A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Renesas 365 Dev Platform, NOR Flash Safety Features, Edge Intelligence in SDVs: Embedded Week Insights",
