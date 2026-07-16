@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-16 16:58 UTC
+Last Updated: 2026-07-16 18:02 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,19 +49,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-16 | Even Chemical Bonds Obey Einstein’s Relativity | Hackaday | [link](https://hackaday.com/2026/07/16/even-chemical-bonds-obey-einsteins-relativity/) |
 | 2026-07-16 | GOES-19 Goes Down, NOAA Investigating | Hackaday | [link](https://hackaday.com/2026/07/16/goes-19-goes-down-noaa-investigating/) |
 | 2026-07-16 | Hackaday Europe 2026 – Build A Cable Modem For Your Arduino | Hackaday | [link](https://hackaday.com/2026/07/16/hackaday-europe-2026-build-a-cable-modem-for-your-arduino/) |
 | 2026-07-16 | Google Earth Desktop Client to be Retired in 2027 | Hackaday | [link](https://hackaday.com/2026/07/16/google-earth-desktop-client-to-be-retired-in-2027/) |
 | 2026-07-16 | Transponder Mania | Hackaday | [link](https://hackaday.com/2026/07/16/transponder-mania/) |
 | 2026-07-16 | Chromatography as Art | Hackaday | [link](https://hackaday.com/2026/07/15/chromatography-as-art/) |
 | 2026-07-16 | Pinch Puts an Arduino On a USB-C Connector | Hackaday | [link](https://hackaday.com/2026/07/15/pinch-puts-an-arduino-on-a-usb-c-connector/) |
+| 2026-07-16 | Olimex PICO-EVB automation board adds high-voltage terminals to Raspberry Pi Pico family | CNX Software | [link](https://www.cnx-software.com/2026/07/17/olimex-pico-evb-automation-board-adds-high-voltage-terminals-to-raspberry-pi-pico-family/) |
 | 2026-07-16 | pico-usb-wifi firmware converts the Raspberry Pi Pico W into a driverless USB WiFi adapter | CNX Software | [link](https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/) |
 | 2026-07-16 | OpenInfrared Point is an ESP32-S3 powered universal remote hub with Infrared, BLE, NFC, audio streaming (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/16/openinfrared-point-esp32-s3-universal-remote-hub-infrared-ble-nfc-audio-streaming/) |
-| 2026-07-16 | NVIDIA launches smaller, mainstream Jetson T2000 and T3000 modules for Edge AI and robotics applications | CNX Software | [link](https://www.cnx-software.com/2026/07/16/nvidia-jetson-t2000-and-t3000-modules-for-edge-ai-and-robotics-applications/) |
-| 2026-07-16 | The Protocol Wars: The Factory Floor's Fragmentation Problem | Embedded.com | [link](https://www.embedded.com/the-protocol-wars-the-factory-floors-fragmentation-problem/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-07-15 | VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders | [link](https://arxiv.org/pdf/2607.14088v1) |
+| 2026-07-15 | Leveraging unlabelled data for generalizable neural population decoding | [link](https://arxiv.org/pdf/2607.14086v1) |
+| 2026-07-15 | From Pixels to States: Rethinking Interactive World Models as Game Engines | [link](https://arxiv.org/pdf/2607.14076v1) |
+| 2026-07-15 | MetaPerch: Learning from metadata for bioacoustics foundation models | [link](https://arxiv.org/pdf/2607.14072v1) |
+| 2026-07-15 | Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes | [link](https://arxiv.org/pdf/2607.14070v1) |
+| 2026-07-15 | PhysClaw-0: A Symbiotic Agentic System for Robot Autonomy via Language Corrections | [link](https://arxiv.org/pdf/2607.14047v1) |
+| 2026-07-15 | Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education | [link](https://arxiv.org/pdf/2607.14046v1) |
+| 2026-07-15 | Industrial Dexterity Benchmark: A Hardware-Software Benchmarking Platform for Industrial Dexterous Manipulation | [link](https://arxiv.org/pdf/2607.14021v1) |
+| 2026-07-15 | AeroMap3D: Anchoring Monocular UAV 6-DoF Localization to Visual-Geometric-Semantic Map Priors | [link](https://arxiv.org/pdf/2607.14009v1) |
+| 2026-07-15 | M$^\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming | [link](https://arxiv.org/pdf/2607.14005v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
@@ -85,10 +96,10 @@ _No items collected yet._
 | awslabs/awsome-distributed-ai | 463 | Shell | 185.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 164 | Python | 65.7 | [link](https://github.com/ros-claw/rosclaw) |
 | ROBOTIS-GIT/ai_worker | 154 | C++ | 61.7 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| commaai/openpilot | 63135 | Python | 25254.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63136 | Python | 25254.5 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16024 | Python | 6409.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15486 | C++ | 6194.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14235 | C++ | 5694.1 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14234 | C++ | 5693.7 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11276 | Python | 4510.5 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
@@ -114,14 +125,16 @@ _No items collected yet._
 | 2026-07-16 | AMI Labs Builds World Models for Physical AI Robots - 조선일보 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUG5teDJGZFZvU1RpY2Z1S2pxX21NMk1RTUFuN19TS05fVWpRUG5wY0YtV0pjZk85cGZkck93dVJMU0RrWXY4VjhYVUNmUjRQT2pCeHJxbEtCRXVPeUFidHNLUUVBckhsUVFFVDFMWnNXNlFXcnktaWtrZnp3UWdiZEEzRkYzWkw0?oc=5) |
 | 2026-07-16 | Physical AI Startup SwitchOn Secures Rs 78 Cr In Pre-Series B Funding Led By IvyCap Ventures - BW Disrupt | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxNcmZWM2oteHBwamJlTjdjQUloem1NRFM4WG00TTZZY2k0ZDJkU19RU0RhRGYwN1VVbzNHY1ctbTFtTk90TjFvRGYtZHJlV21QbWVBdXdwNlJGLUxCc0U1UG1XWDVHd2hGdjFjTTNHTW12cEVnd1lwU1lXaGkwaGhtYVdsdUVsbE1kWGhuYVN0aHVyUEdmeXpEamxxRVh5ZW95R0NtZjBVUmpSbmUwRFhuU2tDQzljalVpZHZYM0lYNVBSSl9LZElpcTJqUzgzUQ?oc=5) |
 | 2026-07-16 | Physical-AI Startup SwitchOn Raises $8 Million in Pre-Series B Funding - CXO Digitalpulse | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQNGdZUXZadlRUNXlubDZ6LVQzVVhKbVhDaVhLcU5CaldRbXg5SE9OdHpXSzMyV0l1RVM3WTdVLWlaYWF5NUVvNUpTX1JhVk5mYjNoVVJIa1BtTzR4M3hnWHktRDdMUWRiUkI2MkNRZW5naVZ6RFRWTkN5Tkx6ZFhlTEU1SnlrRUJqOWJ5dm1Jd0wwSUhTZF8yY3hrRlZQUWV4RVFiVA?oc=5) |
+| 2026-07-16 | SwitchOn Raises $8 Million to Scale AI-Powered Manufacturing Solutions - Siliconindia | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZGlfR1BYZXR6WFpuNmZfYzZQVk5YbkRBWDV0NE82bDhXVklsQkhfMXlpcFR4N1dVTFU5Y3ZESUg0SkFMQ3ZBNVVyUnlEWFpnaUt6THhDQ3BtbUhoT1VhUEVPOU1UOTJMSjhrNGhNRFlEblloak54WmI0R1owWjlKbUFleGh4R29PRVVGQzRYdXZ6eHpjZ0tRVUR3UkJ5OTJOekU0MVRRTXRtRU5NaHJoZzFvcnhSalI3c1VKSHh0dTlPM0tzaTJCNnZzR2JKVlVUWXln?oc=5) |
 | 2026-07-16 | Tencent Cloud partners with robot AI startup RoboScience - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1NhdDZHeDY3Zkk3ekZGbjJsV0p6OWVzYnFJYUs1Q1NhU2hlT3N4YUIzMkpfMFllaE9TaXI5NzNqSkZUT01kVW0xMXlPSDJVVnNuOXYtNG9rVmVaRFZNLTMxRkJFQU9Dem41YmtBWHowUEhfUmNHcHc5dXFXUkV2bGZTZDNoMXlKc1Qw?oc=5) |
 | 2026-07-15 | Stealthy Toyota spinout gets one of Boston area’s biggest robotics deals ever - The Boston Globe | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcFZIdlJKenhTblVlUWZyaHZrSHo0MXFVNWQ5Wmg0S280R3FRckhMSHdCVWhkWlpSTGszY0JENm81TXBCX1JNbEdqbjVFYjJmR1QxSlhuYUd1UjdaSFdBY1ZiWmNOTTJoLVNJV3FfS2RLSk9KYWhHbnJNa3MwNXFLX0p2aFJnYjV2YmtuZ1NjV0dadHBM?oc=5) |
 | 2026-07-15 | Shenzhen Professor Robot Startup LimX Dynamics Hits $2.3B Valuation With $200M Pre-IPO Round - Pandaily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTFBWeGtEdmh5N29waGU0MlFsM3BHWjlBTXdPMjUyQ1RydHNmTlQzX1BCUnF0bU4zSlI0amM4QmttNlFCUWdpU3dzUVdmV2hlQ1pkUVc2ZGQ2aWpHU2hUS1JQUmZkRGZ4NW5zYkhYdGtBYw?oc=5) |
-| 2026-07-14 | 'Listing is a must': Chinese humanoid startups are rushing to launch IPOs - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjNZV3Q0Y1k0N1pSZFpUQzZ1ZS1OeUpqa09VTm44TWJBSG1ReWZfY1ZwMnRLNTB3NF9DOVQ1MXIwSkI1Zms1a21yT0lLT0hTZXBldUxZWHJFWHpTRENWcXlSVTVCakFXamhLNWZkajlNd1p2MmtWU1ZhUmItMUNkVzlid09zZ9IBiwFBVV95cUxQUkI1aGFUdGU3T3o5Xy1TckFfNllaeGN2UTlVMFBDd2tfTzJOd1JUaFo1WTlmZXJTSmtOSFp4cUVZLXcxMUxhd0xCZlFxV1Z3Q3BzQVlfTElrZUdRQk9KMHdOU3ZCTDJYR21Ld0NmcVBLYkh1NnlfX1pZVWRNMXJhT3lpOG9pWUV4UXhN?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-16 | Helix Data Creator (SJ) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4585080006) |
+| 2026-07-16 | Senior Manager, Planning | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6104722004) |
 | 2026-07-16 | Senior Manager, Quality (IQC/SQE) | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6113706004) |
 | 2026-07-15 | Fleet Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696722006) |
 | 2026-07-15 | Humanoid Robot Pilot  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4369739006) |
@@ -130,8 +143,6 @@ _No items collected yet._
 | 2026-07-15 | Project Coordinator, Data Creators | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696348006) |
 | 2026-07-15 | Project Coordinator, Data Quality | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696350006) |
 | 2026-07-15 | Technical Recruiter | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4409868006) |
-| 2026-07-15 | TeleOps Quality Support | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4697420006) |
-| 2026-07-14 | AI Data Operations Manager | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
 
 ## Automation
 

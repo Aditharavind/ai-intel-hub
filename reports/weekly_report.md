@@ -1,15 +1,21 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-16 16:58 UTC
+Generated: 2026-07-16 18:02 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-07-15 | VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders | [link](https://arxiv.org/pdf/2607.14088v1) |
+| 2026-07-15 | Leveraging unlabelled data for generalizable neural population decoding | [link](https://arxiv.org/pdf/2607.14086v1) |
+| 2026-07-15 | From Pixels to States: Rethinking Interactive World Models as Game Engines | [link](https://arxiv.org/pdf/2607.14076v1) |
+| 2026-07-15 | MetaPerch: Learning from metadata for bioacoustics foundation models | [link](https://arxiv.org/pdf/2607.14072v1) |
+| 2026-07-15 | Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes | [link](https://arxiv.org/pdf/2607.14070v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 82490 | 32996.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63135 | 25254.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63136 | 25254.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44244 | 17697.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30058 | 12023.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16024 | 6409.7 | [link](https://github.com/zauberzeug/nicegui) |
