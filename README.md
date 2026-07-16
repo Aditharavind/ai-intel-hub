@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-16 18:02 UTC
+Last Updated: 2026-07-16 19:52 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -38,13 +38,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | Lockheed Martin taps Machina’s robots for mission-critical missile parts | Robotics Business Review | [link](https://www.therobotreport.com/lockheed-martin-taps-machinas-robots-for-mission-critical-missile-parts/) |
 | 2026-07-16 | Xpanner rolls out X1 Panel Lift for automated solar panel installation | Robotics Business Review | [link](https://www.therobotreport.com/xpanner-rolls-out-x1-panel-lift-automated-solar-panel-installation/) |
 | 2026-07-16 | How to Make an Invisible Drone | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/invisible-spinning-drone) |
+| 2026-07-16 | TerraFirma raises $115M to build robotic infrastructure for construction | Robotics Business Review | [link](https://www.therobotreport.com/terrafirma-raises-115m-build-robotic-infrastructure-construction/) |
 | 2026-07-15 | Agility outlines six recommendations for U.S. humanoid robot policies | Robotics Business Review | [link](https://www.therobotreport.com/agility-outlines-six-recommendations-for-u-s-humanoid-robot-policies/) |
 | 2026-07-15 | Vicarious Surgical board seeks to dissolve company | Robotics Business Review | [link](https://www.therobotreport.com/vicarious-surgical-board-seeks-to-dissolve-company/) |
 | 2026-07-15 | Icarus Robotics uses KULR technology to power JOY free-flying space robot | Robotics Business Review | [link](https://www.therobotreport.com/icarus-robotics-uses-kulr-technology-to-power-joy-free-flying-space-robot/) |
 | 2026-07-15 | Walden Robotics launches at $1.1B valuation for general-purpose robots | Robotics Business Review | [link](https://www.therobotreport.com/walden-robotics-launches-1-1b-valuation-general-purpose-robots/) |
 | 2026-07-15 | NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/) |
 | 2026-07-14 | NVIDIA shares how to evaluate general-purpose robot policies for real-world deployment | Robotics Business Review | [link](https://www.therobotreport.com/nvidia-shares-how-evaluate-general-purpose-robot-policies-real-world-deployment/) |
-| 2026-07-14 | Key to Humanoid Progress: Managing the Power Behind the Robots | Robotics Business Review | [link](https://www.therobotreport.com/key-to-humanoid-progress-managing-the-power-behind-the-robots/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-16 | YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform_egocentric | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform_egocentric) |
 | 2026-07-16 | chomeed/board_insertion_pi05_no_robot | 0 | 0 | [link](https://huggingface.co/chomeed/board_insertion_pi05_no_robot) |
 | 2026-07-16 | puppet-robotics/golf-model-200-obs | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-200-obs) |
 | 2026-07-16 | chomeed/board_insertion_pi05_no_robot_sirius_round2 | 0 | 0 | [link](https://huggingface.co/chomeed/board_insertion_pi05_no_robot_sirius_round2) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | chomeed/board_insertion_pi05_no_robot_sirius_round1 | 0 | 0 | [link](https://huggingface.co/chomeed/board_insertion_pi05_no_robot_sirius_round1) |
 | 2026-07-16 | SakikoTogawa/pi0_robotwin_lora-place_object_scale-100-himaconpp_repo | 0 | 1 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_object_scale-100-himaconpp_repo) |
 | 2026-07-16 | access-robotics-team/bioa-xv-fold-high-quality-260716 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/bioa-xv-fold-high-quality-260716) |
-| 2026-07-16 | RobotisSW/Dispose_0716_Filtered_Chunk30_Test_40K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Dispose_0716_Filtered_Chunk30_Test_40K) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -96,7 +96,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | awslabs/awsome-distributed-ai | 463 | Shell | 185.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 164 | Python | 65.7 | [link](https://github.com/ros-claw/rosclaw) |
 | ROBOTIS-GIT/ai_worker | 154 | C++ | 61.7 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| commaai/openpilot | 63136 | Python | 25254.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63138 | Python | 25255.3 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16024 | Python | 6409.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15486 | C++ | 6194.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14234 | C++ | 5693.7 | [link](https://github.com/google-deepmind/mujoco) |
@@ -125,10 +125,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | AMI Labs Builds World Models for Physical AI Robots - 조선일보 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUG5teDJGZFZvU1RpY2Z1S2pxX21NMk1RTUFuN19TS05fVWpRUG5wY0YtV0pjZk85cGZkck93dVJMU0RrWXY4VjhYVUNmUjRQT2pCeHJxbEtCRXVPeUFidHNLUUVBckhsUVFFVDFMWnNXNlFXcnktaWtrZnp3UWdiZEEzRkYzWkw0?oc=5) |
 | 2026-07-16 | Physical AI Startup SwitchOn Secures Rs 78 Cr In Pre-Series B Funding Led By IvyCap Ventures - BW Disrupt | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxNcmZWM2oteHBwamJlTjdjQUloem1NRFM4WG00TTZZY2k0ZDJkU19RU0RhRGYwN1VVbzNHY1ctbTFtTk90TjFvRGYtZHJlV21QbWVBdXdwNlJGLUxCc0U1UG1XWDVHd2hGdjFjTTNHTW12cEVnd1lwU1lXaGkwaGhtYVdsdUVsbE1kWGhuYVN0aHVyUEdmeXpEamxxRVh5ZW95R0NtZjBVUmpSbmUwRFhuU2tDQzljalVpZHZYM0lYNVBSSl9LZElpcTJqUzgzUQ?oc=5) |
 | 2026-07-16 | Physical-AI Startup SwitchOn Raises $8 Million in Pre-Series B Funding - CXO Digitalpulse | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQNGdZUXZadlRUNXlubDZ6LVQzVVhKbVhDaVhLcU5CaldRbXg5SE9OdHpXSzMyV0l1RVM3WTdVLWlaYWF5NUVvNUpTX1JhVk5mYjNoVVJIa1BtTzR4M3hnWHktRDdMUWRiUkI2MkNRZW5naVZ6RFRWTkN5Tkx6ZFhlTEU1SnlrRUJqOWJ5dm1Jd0wwSUhTZF8yY3hrRlZQUWV4RVFiVA?oc=5) |
-| 2026-07-16 | SwitchOn Raises $8 Million to Scale AI-Powered Manufacturing Solutions - Siliconindia | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZGlfR1BYZXR6WFpuNmZfYzZQVk5YbkRBWDV0NE82bDhXVklsQkhfMXlpcFR4N1dVTFU5Y3ZESUg0SkFMQ3ZBNVVyUnlEWFpnaUt6THhDQ3BtbUhoT1VhUEVPOU1UOTJMSjhrNGhNRFlEblloak54WmI0R1owWjlKbUFleGh4R29PRVVGQzRYdXZ6eHpjZ0tRVUR3UkJ5OTJOekU0MVRRTXRtRU5NaHJoZzFvcnhSalI3c1VKSHh0dTlPM0tzaTJCNnZzR2JKVlVUWXln?oc=5) |
 | 2026-07-16 | Tencent Cloud partners with robot AI startup RoboScience - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1NhdDZHeDY3Zkk3ekZGbjJsV0p6OWVzYnFJYUs1Q1NhU2hlT3N4YUIzMkpfMFllaE9TaXI5NzNqSkZUT01kVW0xMXlPSDJVVnNuOXYtNG9rVmVaRFZNLTMxRkJFQU9Dem41YmtBWHowUEhfUmNHcHc5dXFXUkV2bGZTZDNoMXlKc1Qw?oc=5) |
 | 2026-07-15 | Stealthy Toyota spinout gets one of Boston area’s biggest robotics deals ever - The Boston Globe | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcFZIdlJKenhTblVlUWZyaHZrSHo0MXFVNWQ5Wmg0S280R3FRckhMSHdCVWhkWlpSTGszY0JENm81TXBCX1JNbEdqbjVFYjJmR1QxSlhuYUd1UjdaSFdBY1ZiWmNOTTJoLVNJV3FfS2RLSk9KYWhHbnJNa3MwNXFLX0p2aFJnYjV2YmtuZ1NjV0dadHBM?oc=5) |
 | 2026-07-15 | Shenzhen Professor Robot Startup LimX Dynamics Hits $2.3B Valuation With $200M Pre-IPO Round - Pandaily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTFBWeGtEdmh5N29waGU0MlFsM3BHWjlBTXdPMjUyQ1RydHNmTlQzX1BCUnF0bU4zSlI0amM4QmttNlFCUWdpU3dzUVdmV2hlQ1pkUVc2ZGQ2aWpHU2hUS1JQUmZkRGZ4NW5zYkhYdGtBYw?oc=5) |
+| 2026-07-14 | 'Listing is a must': Chinese humanoid startups are rushing to launch IPOs - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjNZV3Q0Y1k0N1pSZFpUQzZ1ZS1OeUpqa09VTm44TWJBSG1ReWZfY1ZwMnRLNTB3NF9DOVQ1MXIwSkI1Zms1a21yT0lLT0hTZXBldUxZWHJFWHpTRENWcXlSVTVCakFXamhLNWZkajlNd1p2MmtWU1ZhUmItMUNkVzlid09zZ9IBiwFBVV95cUxQUkI1aGFUdGU3T3o5Xy1TckFfNllaeGN2UTlVMFBDd2tfTzJOd1JUaFo1WTlmZXJTSmtOSFp4cUVZLXcxMUxhd0xCZlFxV1Z3Q3BzQVlfTElrZUdRQk9KMHdOU3ZCTDJYR21Ld0NmcVBLYkh1NnlfX1pZVWRNMXJhT3lpOG9pWUV4UXhN?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
@@ -139,8 +139,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-15 | Fleet Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696722006) |
 | 2026-07-15 | Humanoid Robot Pilot  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4369739006) |
 | 2026-07-15 | Ops Facilitator - Pilot Support Team | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4697431006) |
-| 2026-07-15 | Project Coordinator, Data Creators | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696349006) |
 | 2026-07-15 | Project Coordinator, Data Creators | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696348006) |
+| 2026-07-15 | Project Coordinator, Data Creators | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696349006) |
 | 2026-07-15 | Project Coordinator, Data Quality | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696350006) |
 | 2026-07-15 | Technical Recruiter | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4409868006) |
 

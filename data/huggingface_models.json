@@ -1,5 +1,14 @@
 [
   {
+    "model": "YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform_egocentric",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform_egocentric",
+    "date": "2026-07-16",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "chomeed/board_insertion_pi05_no_robot",
     "downloads": 0,
     "likes": 0,
@@ -99,15 +108,6 @@
     "score": 30.6
   },
   {
-    "model": "RobotisSW/Dispose_0716_Filtered_Chunk15_Test_40K",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/RobotisSW/Dispose_0716_Filtered_Chunk15_Test_40K",
-    "date": "2026-07-16",
-    "keyword": "robot",
-    "score": 0.3
-  },
-  {
     "model": "holmescao/VLA-ReID",
     "downloads": 0,
     "likes": 0,
@@ -142,15 +142,6 @@
     "date": "2026-07-16",
     "keyword": "vla",
     "score": 41.8
-  },
-  {
-    "model": "jackcbrown89/vla-jepa-chip-clip-cleanup",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jackcbrown89/vla-jepa-chip-clip-cleanup",
-    "date": "2026-07-16",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "InternRobotics/VLAC-Cut",
@@ -218,11 +209,11 @@
   {
     "model": "tencent/Hy-Embodied-RxBrain-1.0",
     "downloads": 56,
-    "likes": 28,
+    "likes": 29,
     "url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
     "date": "2026-07-16",
     "keyword": "embodied",
-    "score": 22.5
+    "score": 22.7
   },
   {
     "model": "ubr-physical-ai/UBR-Nav-E4B",
@@ -232,6 +223,33 @@
     "date": "2026-07-16",
     "keyword": "physical ai",
     "score": 0.1
+  },
+  {
+    "model": "CooperBench/dual-policy-follower-v1",
+    "downloads": 320,
+    "likes": 0,
+    "url": "https://huggingface.co/CooperBench/dual-policy-follower-v1",
+    "date": "2026-07-16",
+    "keyword": "policy",
+    "score": 96.1
+  },
+  {
+    "model": "CooperBench/dual-policy-leader-v1",
+    "downloads": 385,
+    "likes": 0,
+    "url": "https://huggingface.co/CooperBench/dual-policy-leader-v1",
+    "date": "2026-07-16",
+    "keyword": "policy",
+    "score": 115.6
+  },
+  {
+    "model": "dandantangpopo/my_policy",
+    "downloads": 2,
+    "likes": 0,
+    "url": "https://huggingface.co/dandantangpopo/my_policy",
+    "date": "2026-07-16",
+    "keyword": "policy",
+    "score": 0.7
   },
   {
     "model": "Lokeshwaran/my_policy",
@@ -315,33 +333,6 @@
     "score": 3.7
   },
   {
-    "model": "3cda2225/record-052_act_policy",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/3cda2225/record-052_act_policy",
-    "date": "2026-07-16",
-    "keyword": "policy",
-    "score": 0.3
-  },
-  {
-    "model": "mncai/cosmos3-nano-g1-sonic-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mncai/cosmos3-nano-g1-sonic-policy",
-    "date": "2026-07-16",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "JunJunJunya/bluecube_101_0715_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/JunJunJunya/bluecube_101_0715_policy",
-    "date": "2026-07-16",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "access-robotics-team/bioa-p5-fold-high-quality-260715",
     "downloads": 0,
     "likes": 0,
@@ -396,6 +387,15 @@
     "score": 0.1
   },
   {
+    "model": "YccHugAi/lingbot-vla-2-stackcube-ablations",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/YccHugAi/lingbot-vla-2-stackcube-ablations",
+    "date": "2026-07-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "physicalai-bmi/nano-world-model-multi",
     "downloads": 0,
     "likes": 0,
@@ -443,11 +443,11 @@
   {
     "model": "tencent/Hy-Embodied-VLM-1.0",
     "downloads": 54,
-    "likes": 17,
+    "likes": 18,
     "url": "https://huggingface.co/tencent/Hy-Embodied-VLM-1.0",
     "date": "2026-07-15",
     "keyword": "embodied",
-    "score": 19.7
+    "score": 19.9
   },
   {
     "model": "physicalai-bmi/orbital-landing-tgo",
