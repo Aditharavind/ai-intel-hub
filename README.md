@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-16 21:52 UTC
+Last Updated: 2026-07-16 22:45 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -89,18 +89,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | access-robotics-team/bioa-xv-fold-high-quality-260716 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/bioa-xv-fold-high-quality-260716) |
 
 ## Trending GitHub Repositories
-| Repo | Stars | Language | Score | URL |
-| --- | --- | --- | --- | --- |
-| copper-project/copper-rs | 1412 | Rust | 564.9 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 890 | Python | 356.1 | [link](https://github.com/mosaico-labs/mosaico) |
-| awslabs/awsome-distributed-ai | 463 | Shell | 185.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| ros-claw/rosclaw | 164 | Python | 65.7 | [link](https://github.com/ros-claw/rosclaw) |
-| ROBOTIS-GIT/ai_worker | 154 | C++ | 61.7 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| commaai/openpilot | 63139 | Python | 25255.7 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 16024 | Python | 6409.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15486 | C++ | 6194.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14235 | C++ | 5694.1 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11276 | Python | 4510.5 | [link](https://github.com/kornia/kornia) |
+_No items collected yet._
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-16 21:52 UTC
+Generated: 2026-07-16 22:45 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -12,13 +12,7 @@ Generated: 2026-07-16 21:52 UTC
 | 2026-07-15 | Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes | [link](https://arxiv.org/pdf/2607.14070v1) |
 
 ## Top Repos
-| Repo | Stars | Score | URL |
-| --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82493 | 32997.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63139 | 25255.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44244 | 17697.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30058 | 12023.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16024 | 6409.7 | [link](https://github.com/zauberzeug/nicegui) |
+_No items collected yet._
 
 ## Top Models
 | Model | Downloads | Score | URL |
