@@ -1,5 +1,23 @@
 [
   {
+    "model": "chomeed/board_insertion_pi05_no_robot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/chomeed/board_insertion_pi05_no_robot",
+    "date": "2026-07-16",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "puppet-robotics/golf-model-200-obs",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/golf-model-200-obs",
+    "date": "2026-07-16",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "chomeed/board_insertion_pi05_no_robot_sirius_round2",
     "downloads": 0,
     "likes": 0,
@@ -90,24 +108,6 @@
     "score": 0.3
   },
   {
-    "model": "YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform_egocentric",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform_egocentric",
-    "date": "2026-07-16",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
-    "downloads": 139,
-    "likes": 0,
-    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
-    "date": "2026-07-16",
-    "keyword": "vla",
-    "score": 41.8
-  },
-  {
     "model": "holmescao/VLA-ReID",
     "downloads": 0,
     "likes": 0,
@@ -135,6 +135,15 @@
     "score": 3.4
   },
   {
+    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
+    "downloads": 139,
+    "likes": 0,
+    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
+    "date": "2026-07-16",
+    "keyword": "vla",
+    "score": 41.8
+  },
+  {
     "model": "jackcbrown89/vla-jepa-chip-clip-cleanup",
     "downloads": 0,
     "likes": 0,
@@ -151,6 +160,33 @@
     "date": "2026-07-16",
     "keyword": "vla",
     "score": 5.8
+  },
+  {
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-full-epoch3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-full-epoch3",
+    "date": "2026-07-16",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-full-epoch2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-full-epoch2",
+    "date": "2026-07-16",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-full-epoch1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-full-epoch1",
+    "date": "2026-07-16",
+    "keyword": "world model",
+    "score": 0.1
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch1",
@@ -195,6 +231,15 @@
     "url": "https://huggingface.co/ubr-physical-ai/UBR-Nav-E4B",
     "date": "2026-07-16",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "Lokeshwaran/my_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Lokeshwaran/my_policy",
+    "date": "2026-07-16",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -292,15 +337,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/JunJunJunya/bluecube_101_0715_policy",
-    "date": "2026-07-16",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "MakinoKF/pick-the-nut-from-above_act-policy-v1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MakinoKF/pick-the-nut-from-above_act-policy-v1",
     "date": "2026-07-16",
     "keyword": "policy",
     "score": 0.1
@@ -618,42 +654,6 @@
     "url": "https://huggingface.co/china-sae-robotics/gr00t_n16_arena_libero_all_suites_rel_rotvec",
     "date": "2026-07-13",
     "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "china-sae-robotics/gr00t_n16_gr1_sequential_task",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/china-sae-robotics/gr00t_n16_gr1_sequential_task",
-    "date": "2026-07-13",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "ultrastar112/maze2d_easy_native256_noncot_chunk_kinf_world_model_20260707_perseg",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ultrastar112/maze2d_easy_native256_noncot_chunk_kinf_world_model_20260707_perseg",
-    "date": "2026-07-12",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "ultrastar112/maze2d_easy_native256_noncot_chunk_k10_world_model_20260707_perseg",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ultrastar112/maze2d_easy_native256_noncot_chunk_k10_world_model_20260707_perseg",
-    "date": "2026-07-12",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "ultrastar112/maze2d_easy_native256_noncot_chunk_k5_world_model_20260707_perseg",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ultrastar112/maze2d_easy_native256_noncot_chunk_k5_world_model_20260707_perseg",
-    "date": "2026-07-12",
-    "keyword": "world model",
     "score": 0.1
   },
   {
