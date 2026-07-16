@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-16 22:45 UTC
+Last Updated: 2026-07-16 23:45 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-16 | A USB Port by Any Other Color… | Hackaday | [link](https://hackaday.com/2026/07/16/a-usb-port-by-any-other-color/) |
 | 2026-07-16 | Bad Apple on a Karaoke Machine | Hackaday | [link](https://hackaday.com/2026/07/16/bad-apple-on-a-karaoke-machine/) |
 | 2026-07-16 | Even Chemical Bonds Obey Einstein’s Relativity | Hackaday | [link](https://hackaday.com/2026/07/16/even-chemical-bonds-obey-einsteins-relativity/) |
 | 2026-07-16 | GOES-19 Goes Down, NOAA Investigating | Hackaday | [link](https://hackaday.com/2026/07/16/goes-19-goes-down-noaa-investigating/) |
 | 2026-07-16 | Hackaday Europe 2026 – Build A Cable Modem For Your Arduino | Hackaday | [link](https://hackaday.com/2026/07/16/hackaday-europe-2026-build-a-cable-modem-for-your-arduino/) |
 | 2026-07-16 | Google Earth Desktop Client to be Retired in 2027 | Hackaday | [link](https://hackaday.com/2026/07/16/google-earth-desktop-client-to-be-retired-in-2027/) |
 | 2026-07-16 | Transponder Mania | Hackaday | [link](https://hackaday.com/2026/07/16/transponder-mania/) |
-| 2026-07-16 | Chromatography as Art | Hackaday | [link](https://hackaday.com/2026/07/15/chromatography-as-art/) |
 | 2026-07-16 | Olimex PICO-EVB automation board adds high-voltage terminals to Raspberry Pi Pico family | CNX Software | [link](https://www.cnx-software.com/2026/07/17/olimex-pico-evb-automation-board-adds-high-voltage-terminals-to-raspberry-pi-pico-family/) |
 | 2026-07-16 | pico-usb-wifi firmware converts the Raspberry Pi Pico W into a driverless USB WiFi adapter | CNX Software | [link](https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/) |
 | 2026-07-16 | OpenInfrared Point is an ESP32-S3 powered universal remote hub with Infrared, BLE, NFC, audio streaming (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/16/openinfrared-point-esp32-s3-universal-remote-hub-infrared-ble-nfc-audio-streaming/) |
@@ -89,7 +89,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | access-robotics-team/bioa-xv-fold-high-quality-260716 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/bioa-xv-fold-high-quality-260716) |
 
 ## Trending GitHub Repositories
-_No items collected yet._
+| Repo | Stars | Language | Score | URL |
+| --- | --- | --- | --- | --- |
+| copper-project/copper-rs | 1412 | Rust | 564.9 | [link](https://github.com/copper-project/copper-rs) |
+| mosaico-labs/mosaico | 890 | Python | 356.1 | [link](https://github.com/mosaico-labs/mosaico) |
+| awslabs/awsome-distributed-ai | 463 | Shell | 185.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| ros-claw/rosclaw | 164 | Python | 65.7 | [link](https://github.com/ros-claw/rosclaw) |
+| ROBOTIS-GIT/ai_worker | 154 | C++ | 61.7 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
+| commaai/openpilot | 63140 | Python | 25256.1 | [link](https://github.com/commaai/openpilot) |
+| zauberzeug/nicegui | 16025 | Python | 6410.1 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15486 | C++ | 6194.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14235 | C++ | 5694.1 | [link](https://github.com/google-deepmind/mujoco) |
+| kornia/kornia | 11275 | Python | 4510.1 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -102,8 +113,8 @@ _No items collected yet._
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSi1lU0xsc0oxUEJvLXgzZkdHVC12aTNoSWJlSS1CY000Z2NFWFU2ZV9ZTm1pbnpWMi1icmg0d09PdlZxM2dtYkxpYk1UanZ6VlVxV2JMNW9KaUZkOHY3V1FnSXRCNXN5VDRtOFJWeXhZZHoxdGMyY3J6ZzNoZnlCUGlnYWYwek9vUFpRNFhKVnp3YWxvMlg1eEwwRTN6dTVUSGNIUld4MlBpWmQwak9EaHBXTko?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVI5UkdwUUJXOTgyeXZLWEE0c3psNUdOUGpMNlAzN25SV3Z5VXNweUJRU3pSNW1iZVhzdy1rZHpsaVdNQzdWUGlYR0RxSzhjNVJ2MU1OOEN5MGZTaUZ0MVhoRm4tc2h2S2otTmVCZ3NmdUd6UF9PZEd5eUlBdklCdVpZckFnRzNDcE41MUxiLWxhR2lOY1hwczBpU1k5UVlaajZWaThiamRCa3dYUDNROFFITQ?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVFscFRnaE5QbDNTVHUwcUhWYjRYN2JGcnlEWktVVlhfVUhBVnFNR0NNMG9XZTU5cVlIWDRmSEdydmNSUEZueWVrbC1McmZQcVRPcjlfUkJYbGkwSTNkNU5VLUExU0NYYUVWajhhdlVnMUpwY3hiaUczWTBrSHJlTk9TVF9QcmRTN3RDanlLd3BGSFM3Uzh5SDE2Z0ZyVnhEYnpMN0J0TmxnUDgxdEVMMXVNS01PQWFiV2l3b2M4M2NoYWctTFFpSWEwRGluYjQyQWZ1eXJKSjg1SHkxMk1Sc3BOajc5eW02S3dxeg?oc=5) |
-| 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9hZldHMVJOV3RhbGlhWHJBaTNidXhUR0o4aHQtcVJGaWgzc1BvWGJNeGoxb3NLaFZ0Tk4wY242MTJYWUVSRU1vaVd3V1g1amFkUEViTG56RDlZRFY4b1E2MmZWS2Y5TTZibmdkS19tRHM3ZURLZ2c?oc=5) |
 | 2026-07-14 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1lDcHdOR0NGTm1DamhvY3NHYy1fTVc3WXQyMlAteTVOSjFzSm1zelpfeHVvR0VnMXN4WjBuMFRpZ04wdnhTNEsyeVBxdERCdmNFMHJ3V2VDX0VaeW1ZWEsxUGFmZlg4S0MwSEhkU19RUVNXV1Q3QXNrT0VWaE9jRkhDYWk2dWIteTBMLXBBYUxLN2dpM1VzcnhtcGVyRF9LRmh2ek9KYWI0Y00?oc=5) |
+| 2026-07-14 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxORTJDSW4xaTFJYlVoV01UTHE2c3pLQ3JjTDhrYmtCdkRRdTd6b3RLeE5lcTItNGJibnVOeTBYeDk3eGgxd1U1Vl9XY3pKS3l4dUJfazcyODZPczdockh3X3hIaDhVQ0ZpQkZIaU10Q3E3YmIwYTlUZ0lWd1IxNW96YjNSYXNreDRnaFpyQ1FLdlVYdl92SlFiQmVvZEptcjVaUFYxdmZPbW12dHNTMTVtSXdoOTUtVmFhY19DOVV5RC1pRHNlb3poR1Rya190QWRvNE1fZnE0aHRDOG1fbWIzemdKOXFHcHRtRW14Yg?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
