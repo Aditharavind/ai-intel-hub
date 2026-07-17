@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-17 19:54 UTC
+Last Updated: 2026-07-17 20:39 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-17 | The BornHack 2026 Cyber Ægg Is A Badge With A Life Afterwards | Hackaday | [link](https://hackaday.com/2026/07/17/the-bornhack-2026-cyber-aegg-is-a-badge-with-a-life-afterwards/) |
 | 2026-07-17 | Hackaday Podcast Episode 378: C Coders, Ceramic Printers, and Shadow Archives | Hackaday | [link](https://hackaday.com/2026/07/17/hackaday-podcast-episode-378-c-coders-ceramic-printers-and-shadow-archives/) |
 | 2026-07-17 | MacSurf Hits 2.0 To Bring PowerPCs back Online | Hackaday | [link](https://hackaday.com/2026/07/17/macsurf-hits-2-0-to-bring-powerpcs-back-online/) |
 | 2026-07-17 | This Week in Security: Another Record Patch Tuesday, LAME is More Secure, Secure Boot is Less Secure, and Milk Malware | Hackaday | [link](https://hackaday.com/2026/07/17/this-week-in-security-another-record-patch-tuesday-lame-is-more-secure-secure-boot-is-less-secure-and-milk-malware/) |
 | 2026-07-17 | EU Adds Exemptions to User-Serviceable Batteries Rules | Hackaday | [link](https://hackaday.com/2026/07/17/eu-adds-exemptions-to-user-serviceable-batteries-rules/) |
 | 2026-07-17 | Wireless LCD Streaming for the ANENG AN870 Multimeter | Hackaday | [link](https://hackaday.com/2026/07/17/wireless-lcd-streaming-for-the-aneng-an870-multimeter/) |
 | 2026-07-17 | A Sloshing-Mercury-Powered Neon Light | Hackaday | [link](https://hackaday.com/2026/07/16/a-sloshing-mercury-powered-neon-light/) |
-| 2026-07-17 | White Rails are the Infrastructure Hack We Didn’t Know We Needed | Hackaday | [link](https://hackaday.com/2026/07/16/white-rails-are-the-infrastructure-hack-we-didnt-know-we-needed/) |
 | 2026-07-17 | Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs | CNX Software | [link](https://www.cnx-software.com/2026/07/17/espressif-releases-sdk-for-aliro-smart-door-locks-based-on-esp32-c-or-esp32-h-socs/) |
 | 2026-07-17 | reCamera Pro “Open AI Camera” supports computer vision, LLM, VLM, STT, and TTS workloads | CNX Software | [link](https://www.cnx-software.com/2026/07/17/recamera-pro-open-ai-camera-supports-computer-vision-llm-vlm-stt-and-tts-workloads/) |
 | 2026-07-17 | The Protocol Wars in Factories, Nvidia's Thor Modules for Robotics and Edge AI, 'Mind of the Engineer' survey: Embedded Week Insights | Embedded.com | [link](https://www.embedded.com/the-protocol-wars-in-factories-nvidias-thor-modules-for-robotics-and-edge-ai-mind-of-the-engineer-survey-embedded-week-insights/) |
@@ -98,7 +98,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | ros-claw/rosclaw | 166 | Python | 66.5 | [link](https://github.com/ros-claw/rosclaw) |
 | commaai/openpilot | 63148 | Python | 25259.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15492 | C++ | 6196.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14246 | C++ | 5698.5 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14247 | C++ | 5698.9 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11280 | Python | 4512.1 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11139 | Rust | 4455.7 | [link](https://github.com/rerun-io/rerun) |
 
