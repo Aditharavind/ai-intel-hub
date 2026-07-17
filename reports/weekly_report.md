@@ -1,15 +1,15 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-16 23:45 UTC
+Generated: 2026-07-17 01:17 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-15 | VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders | [link](https://arxiv.org/pdf/2607.14088v1) |
-| 2026-07-15 | Leveraging unlabelled data for generalizable neural population decoding | [link](https://arxiv.org/pdf/2607.14086v1) |
-| 2026-07-15 | From Pixels to States: Rethinking Interactive World Models as Game Engines | [link](https://arxiv.org/pdf/2607.14076v1) |
-| 2026-07-15 | MetaPerch: Learning from metadata for bioacoustics foundation models | [link](https://arxiv.org/pdf/2607.14072v1) |
-| 2026-07-15 | Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes | [link](https://arxiv.org/pdf/2607.14070v1) |
+| 2026-07-16 | BadWAM: When World-Action Models Dream Right but Act Wrong | [link](https://arxiv.org/pdf/2607.15207v1) |
+| 2026-07-16 | Stigmergic Graph Memory: An Environment-Aware Approach for Many-to-Many Multi-Agent Pickup and Delivery | [link](https://arxiv.org/pdf/2607.15182v1) |
+| 2026-07-16 | AHEAD: Anticipatory Hand-Driven Teleoperation via Human Intent Prediction | [link](https://arxiv.org/pdf/2607.15172v1) |
+| 2026-07-16 | Scaling Behavior Foundation Model for Humanoid Robots | [link](https://arxiv.org/pdf/2607.15163v1) |
+| 2026-07-16 | Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults | [link](https://arxiv.org/pdf/2607.15156v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
@@ -17,7 +17,7 @@ Generated: 2026-07-16 23:45 UTC
 | Developer-Y/cs-video-courses | 82492 | 32996.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63140 | 25256.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44244 | 17697.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30058 | 12023.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30059 | 12023.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16025 | 6410.1 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
@@ -32,9 +32,9 @@ Generated: 2026-07-16 23:45 UTC
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
-| 2026-07-16 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFAtYWxsVXhVbmVTZ3NaT0lSdkJQRXJzVmwwYmJrakZzbmFTcTQ0Q2ZVa0picnZlWUZ2bk5zN1gxZ1c1SWRyaHpkZERTaWs3ekdKdHdJNG80a0x1ME5OdGpjWjJGdThNcnlob1dyNkJFTGxrUFg4RHc?oc=5) |
 | 2026-07-16 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUJvRFpqWVl4UHVLd1M0WTdsSEV0OTRLaWF6V0s2d2tvbTl0SVdzbHBEOE9VYmlkTXBWZ3BIMVkxYjBEMXhPdktmRHp3eXFtZG5paU50R1ZlRllEaWR5YWtpREVHWnJlRW9hY2RZWGpieU1LSmRuQXFNeXFoeE9KRzVtQXExUlFlNlk2anJUM3ZMYWZYV3BYV19uYXp0Zk1ZVFBzcURtYkpoc0x3OXdDN3M1WHNTYjgtNFE?oc=5) |
 | 2026-07-16 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVDJGbnZjTHR6NWNyNG9MU3NaX21Tc2V6TE1qMzdCVl93bENOYXE2T21yMGhsd0taUHlrSEtqRTZPQzFSdEROTXdraTJzeHVaMzBaUGdNUFk1ZmQ3UnpuQ3dUYzF0T3JGQVFVTDF6S1ZlR0h1MHNzY1RRZlhtWUdmUC16YldxSFVpNVRXTVhPWldiRUc5VVJ4Uko3WWNTaFB3ZHkyVjBDNkk2eXh1WW1IX0t3VF9uN2o0dFVzUUExbW1ucU96Q0lueGpkWW0?oc=5) |
+| 2026-07-16 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcFZhQVRoZ25LSnNPNDdkb1Y4NjRYTzhIZ3ctQWJpQVU5SkdUUkFuTG03TzJSZ3JPQVFVLTNnaUtudEhDcmZjcm03SFZiM1daamc1ZWxEVUppcFJhVTRhMG5lVlF5TWppVlM4ZTNHbkN6ckh4bUEyYS04RGxWZm9zYXpGcHBMOExPVzBValZrNVF0bFJFSGRYQVp0VmVPWjBBdkFpdktiQkhOX3ZTRkZTeTV3aWlCUFg2bGJaOThaQ0tNc1pqUEhTNjFJdTVnaXpNWnJNcHpJNDI?oc=5) |
 | 2026-07-16 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxQeVRFZXlzNC1iS0gwS3UwVnM0Q3pVRFlTYXJWcHBoTzlhVXlWa2o1VHlINWY2bkttSk5DSHdEQkc2bEN4MVcwSXFRZEFXSlg2YzFIWExDcHFPMWxiUy1RZnlSYm5wX2hfU3JhbkNIQnZCZk0wSXI3ei03akxMRGZ4dQ?oc=5) |
 | 2026-07-16 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE96eWxsYmNCREJOYTIxT0Z1VHdTbDhLMWpmZHBnemU2Zlp4Vm9aMWJzbi1EUmhvMGF2aXd3cnV5OW5ObElqeEl4S3p2UlVhdUY4SkFaeFg3b1haTEpZbm1uUnFxcnhYd3VLSG1QaWN6S1VFTFl5anc?oc=5) |
 

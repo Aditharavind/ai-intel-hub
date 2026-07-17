@@ -1,5 +1,23 @@
 [
   {
+    "model": "zolkin/robot_rl",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/zolkin/robot_rl",
+    "date": "2026-07-17",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
+    "model": "JunJunJunya/bluecube_101_0716_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/JunJunJunya/bluecube_101_0716_policy",
+    "date": "2026-07-17",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform_egocentric",
     "downloads": 0,
     "likes": 0,
@@ -97,15 +115,6 @@
     "date": "2026-07-16",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "InternRobotics/InternVLA-A1.5-RoboTwin",
-    "downloads": 97,
-    "likes": 7,
-    "url": "https://huggingface.co/InternRobotics/InternVLA-A1.5-RoboTwin",
-    "date": "2026-07-16",
-    "keyword": "robot",
-    "score": 30.6
   },
   {
     "model": "zwan1003/pickplace_skills_vla_v2_cont",
@@ -243,10 +252,10 @@
     "score": 0.1
   },
   {
-    "model": "JunJunJunya/bluecube_101_0716_policy",
+    "model": "kb127/act195_100_150_kl15_policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/JunJunJunya/bluecube_101_0716_policy",
+    "url": "https://huggingface.co/kb127/act195_100_150_kl15_policy",
     "date": "2026-07-16",
     "keyword": "policy",
     "score": 0.1
@@ -340,15 +349,6 @@
     "date": "2026-07-16",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16",
-    "downloads": 12,
-    "likes": 1,
-    "url": "https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16",
-    "date": "2026-07-16",
-    "keyword": "policy",
-    "score": 3.9
   },
   {
     "model": "access-robotics-team/bioa-p5-fold-high-quality-260715",

@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-16 23:45 UTC
+Last Updated: 2026-07-17 01:17 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-17 | Highwaymen | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/highwaymen-2026-07/) |
+| 2026-07-17 | ESP8266 NodeMCU Case – Fully Customizable + Ready-to-Print Profiles #3DPrinting #3DThursday | Adafruit | [link](https://blog.adafruit.com/2026/07/16/esp8266-nodemcu-case-fully-customizable-ready-to-print-profiles-3dprinting-3dthursday/) |
 | 2026-07-16 | A USB Port by Any Other Color… | Hackaday | [link](https://hackaday.com/2026/07/16/a-usb-port-by-any-other-color/) |
 | 2026-07-16 | Bad Apple on a Karaoke Machine | Hackaday | [link](https://hackaday.com/2026/07/16/bad-apple-on-a-karaoke-machine/) |
 | 2026-07-16 | Even Chemical Bonds Obey Einstein’s Relativity | Hackaday | [link](https://hackaday.com/2026/07/16/even-chemical-bonds-obey-einsteins-relativity/) |
@@ -57,26 +59,26 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | Google Earth Desktop Client to be Retired in 2027 | Hackaday | [link](https://hackaday.com/2026/07/16/google-earth-desktop-client-to-be-retired-in-2027/) |
 | 2026-07-16 | Transponder Mania | Hackaday | [link](https://hackaday.com/2026/07/16/transponder-mania/) |
 | 2026-07-16 | Olimex PICO-EVB automation board adds high-voltage terminals to Raspberry Pi Pico family | CNX Software | [link](https://www.cnx-software.com/2026/07/17/olimex-pico-evb-automation-board-adds-high-voltage-terminals-to-raspberry-pi-pico-family/) |
-| 2026-07-16 | pico-usb-wifi firmware converts the Raspberry Pi Pico W into a driverless USB WiFi adapter | CNX Software | [link](https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/) |
-| 2026-07-16 | OpenInfrared Point is an ESP32-S3 powered universal remote hub with Infrared, BLE, NFC, audio streaming (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/16/openinfrared-point-esp32-s3-universal-remote-hub-infrared-ble-nfc-audio-streaming/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-15 | VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders | [link](https://arxiv.org/pdf/2607.14088v1) |
-| 2026-07-15 | Leveraging unlabelled data for generalizable neural population decoding | [link](https://arxiv.org/pdf/2607.14086v1) |
-| 2026-07-15 | From Pixels to States: Rethinking Interactive World Models as Game Engines | [link](https://arxiv.org/pdf/2607.14076v1) |
-| 2026-07-15 | MetaPerch: Learning from metadata for bioacoustics foundation models | [link](https://arxiv.org/pdf/2607.14072v1) |
-| 2026-07-15 | Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes | [link](https://arxiv.org/pdf/2607.14070v1) |
-| 2026-07-15 | PhysClaw-0: A Symbiotic Agentic System for Robot Autonomy via Language Corrections | [link](https://arxiv.org/pdf/2607.14047v1) |
-| 2026-07-15 | Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education | [link](https://arxiv.org/pdf/2607.14046v1) |
-| 2026-07-15 | Industrial Dexterity Benchmark: A Hardware-Software Benchmarking Platform for Industrial Dexterous Manipulation | [link](https://arxiv.org/pdf/2607.14021v1) |
-| 2026-07-15 | AeroMap3D: Anchoring Monocular UAV 6-DoF Localization to Visual-Geometric-Semantic Map Priors | [link](https://arxiv.org/pdf/2607.14009v1) |
-| 2026-07-15 | M$^\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming | [link](https://arxiv.org/pdf/2607.14005v1) |
+| 2026-07-16 | BadWAM: When World-Action Models Dream Right but Act Wrong | [link](https://arxiv.org/pdf/2607.15207v1) |
+| 2026-07-16 | Stigmergic Graph Memory: An Environment-Aware Approach for Many-to-Many Multi-Agent Pickup and Delivery | [link](https://arxiv.org/pdf/2607.15182v1) |
+| 2026-07-16 | AHEAD: Anticipatory Hand-Driven Teleoperation via Human Intent Prediction | [link](https://arxiv.org/pdf/2607.15172v1) |
+| 2026-07-16 | Scaling Behavior Foundation Model for Humanoid Robots | [link](https://arxiv.org/pdf/2607.15163v1) |
+| 2026-07-16 | Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults | [link](https://arxiv.org/pdf/2607.15156v1) |
+| 2026-07-16 | Concept-Guided Spatial Regularization for World Models in Atari Pong | [link](https://arxiv.org/pdf/2607.15142v1) |
+| 2026-07-16 | Catch, Throw, Repeat: Planning for Human-Robot Partner Juggling | [link](https://arxiv.org/pdf/2607.15129v1) |
+| 2026-07-16 | Goal-Oriented Semantic Communication for Distributed ISAC-Enabled Vehicle Coordination | [link](https://arxiv.org/pdf/2607.15111v1) |
+| 2026-07-16 | DriftWorld: Fast World Modeling through Drifting | [link](https://arxiv.org/pdf/2607.15065v1) |
+| 2026-07-16 | SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment | [link](https://arxiv.org/pdf/2607.15058v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-17 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
+| 2026-07-17 | JunJunJunya/bluecube_101_0716_policy | 0 | 0 | [link](https://huggingface.co/JunJunJunya/bluecube_101_0716_policy) |
 | 2026-07-16 | YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform_egocentric | 0 | 0 | [link](https://huggingface.co/YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform_egocentric) |
 | 2026-07-16 | chomeed/board_insertion_pi05_no_robot | 0 | 0 | [link](https://huggingface.co/chomeed/board_insertion_pi05_no_robot) |
 | 2026-07-16 | puppet-robotics/golf-model-200-obs | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-200-obs) |
@@ -85,29 +87,27 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | SidneyXie/pi05_robotwin | 39 | 1 | [link](https://huggingface.co/SidneyXie/pi05_robotwin) |
 | 2026-07-16 | chomeed/board_insertion_ablation_sirius_pi05_no_robot | 0 | 1 | [link](https://huggingface.co/chomeed/board_insertion_ablation_sirius_pi05_no_robot) |
 | 2026-07-16 | chomeed/board_insertion_pi05_no_robot_sirius_round1 | 0 | 0 | [link](https://huggingface.co/chomeed/board_insertion_pi05_no_robot_sirius_round1) |
-| 2026-07-16 | SakikoTogawa/pi0_robotwin_lora-place_object_scale-100-himaconpp_repo | 0 | 1 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_object_scale-100-himaconpp_repo) |
-| 2026-07-16 | access-robotics-team/bioa-xv-fold-high-quality-260716 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/bioa-xv-fold-high-quality-260716) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| copper-project/copper-rs | 1412 | Rust | 564.9 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 890 | Python | 356.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 463 | Shell | 185.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 164 | Python | 65.7 | [link](https://github.com/ros-claw/rosclaw) |
-| ROBOTIS-GIT/ai_worker | 154 | C++ | 61.7 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
 | commaai/openpilot | 63140 | Python | 25256.1 | [link](https://github.com/commaai/openpilot) |
+| dora-rs/dora | 3845 | Rust | 1538.1 | [link](https://github.com/dora-rs/dora) |
+| johnsutor/so101-nexus | 23 | Python | 9.3 | [link](https://github.com/johnsutor/so101-nexus) |
+| copper-project/copper-rs | 1412 | Rust | 564.9 | [link](https://github.com/copper-project/copper-rs) |
+| mosaico-labs/mosaico | 890 | Python | 356.1 | [link](https://github.com/mosaico-labs/mosaico) |
+| ROBOTIS-GIT/ai_worker | 154 | C++ | 61.7 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
 | zauberzeug/nicegui | 16025 | Python | 6410.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15486 | C++ | 6194.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14235 | C++ | 5694.1 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11275 | Python | 4510.1 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
-| 2026-07-16 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFAtYWxsVXhVbmVTZ3NaT0lSdkJQRXJzVmwwYmJrakZzbmFTcTQ0Q2ZVa0picnZlWUZ2bk5zN1gxZ1c1SWRyaHpkZERTaWs3ekdKdHdJNG80a0x1ME5OdGpjWjJGdThNcnlob1dyNkJFTGxrUFg4RHc?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUJvRFpqWVl4UHVLd1M0WTdsSEV0OTRLaWF6V0s2d2tvbTl0SVdzbHBEOE9VYmlkTXBWZ3BIMVkxYjBEMXhPdktmRHp3eXFtZG5paU50R1ZlRllEaWR5YWtpREVHWnJlRW9hY2RZWGpieU1LSmRuQXFNeXFoeE9KRzVtQXExUlFlNlk2anJUM3ZMYWZYV3BYV19uYXp0Zk1ZVFBzcURtYkpoc0x3OXdDN3M1WHNTYjgtNFE?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVDJGbnZjTHR6NWNyNG9MU3NaX21Tc2V6TE1qMzdCVl93bENOYXE2T21yMGhsd0taUHlrSEtqRTZPQzFSdEROTXdraTJzeHVaMzBaUGdNUFk1ZmQ3UnpuQ3dUYzF0T3JGQVFVTDF6S1ZlR0h1MHNzY1RRZlhtWUdmUC16YldxSFVpNVRXTVhPWldiRUc5VVJ4Uko3WWNTaFB3ZHkyVjBDNkk2eXh1WW1IX0t3VF9uN2o0dFVzUUExbW1ucU96Q0lueGpkWW0?oc=5) |
+| 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcFZhQVRoZ25LSnNPNDdkb1Y4NjRYTzhIZ3ctQWJpQVU5SkdUUkFuTG03TzJSZ3JPQVFVLTNnaUtudEhDcmZjcm03SFZiM1daamc1ZWxEVUppcFJhVTRhMG5lVlF5TWppVlM4ZTNHbkN6ckh4bUEyYS04RGxWZm9zYXpGcHBMOExPVzBValZrNVF0bFJFSGRYQVp0VmVPWjBBdkFpdktiQkhOX3ZTRkZTeTV3aWlCUFg2bGJaOThaQ0tNc1pqUEhTNjFJdTVnaXpNWnJNcHpJNDI?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxQeVRFZXlzNC1iS0gwS3UwVnM0Q3pVRFlTYXJWcHBoTzlhVXlWa2o1VHlINWY2bkttSk5DSHdEQkc2bEN4MVcwSXFRZEFXSlg2YzFIWExDcHFPMWxiUy1RZnlSYm5wX2hfU3JhbkNIQnZCZk0wSXI3ei03akxMRGZ4dQ?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE96eWxsYmNCREJOYTIxT0Z1VHdTbDhLMWpmZHBnemU2Zlp4Vm9aMWJzbi1EUmhvMGF2aXd3cnV5OW5ObElqeEl4S3p2UlVhdUY4SkFaeFg3b1haTEpZbm1uUnFxcnhYd3VLSG1QaWN6S1VFTFl5anc?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSi1lU0xsc0oxUEJvLXgzZkdHVC12aTNoSWJlSS1CY000Z2NFWFU2ZV9ZTm1pbnpWMi1icmg0d09PdlZxM2dtYkxpYk1UanZ6VlVxV2JMNW9KaUZkOHY3V1FnSXRCNXN5VDRtOFJWeXhZZHoxdGMyY3J6ZzNoZnlCUGlnYWYwek9vUFpRNFhKVnp3YWxvMlg1eEwwRTN6dTVUSGNIUld4MlBpWmQwak9EaHBXTko?oc=5) |
@@ -134,7 +134,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-16 | AI Training Infrastructure Engineer – Humanoid Whole Body Control | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4674754006) |
-| 2026-07-16 | Helix Data Creator (SJ) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4585080006) |
+| 2026-07-16 | Helix Data Creator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4585080006) |
 | 2026-07-16 | Mechanical Engineer - All Levels | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4410831006) |
 | 2026-07-16 | Senior Manager, Planning | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6104722004) |
 | 2026-07-16 | Senior Manager, Quality (IQC/SQE) | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6113706004) |
