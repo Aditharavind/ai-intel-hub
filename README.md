@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-17 07:06 UTC
+Last Updated: 2026-07-17 09:42 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-17 | Wireless LCD Streaming for the ANENG AN870 Multimeter | Hackaday | [link](https://hackaday.com/2026/07/17/wireless-lcd-streaming-for-the-aneng-an870-multimeter/) |
 | 2026-07-17 | A Sloshing-Mercury-Powered Neon Light | Hackaday | [link](https://hackaday.com/2026/07/16/a-sloshing-mercury-powered-neon-light/) |
 | 2026-07-17 | White Rails are the Infrastructure Hack We Didn’t Know We Needed | Hackaday | [link](https://hackaday.com/2026/07/16/white-rails-are-the-infrastructure-hack-we-didnt-know-we-needed/) |
+| 2026-07-17 | reCamera Pro “Open AI Camera” supports computer vision, LLM, VLM, STT, and TTS workloads | CNX Software | [link](https://www.cnx-software.com/2026/07/17/recamera-pro-open-ai-camera-supports-computer-vision-llm-vlm-stt-and-tts-workloads/) |
 | 2026-07-17 | China H1 exports driven by chips | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/china-h1-exports-driven-by-chips-2026-07/) |
 | 2026-07-17 | Micron inks longterm supply deals with seven customers | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/micron-inks-longterm-supply-deals-with-seven-customers-2026-07/) |
 | 2026-07-17 | HATs for Pi | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/pi-hats-2026-07/) |
 | 2026-07-17 | Iridium’s PNT ASIC protectsGPS and GNSS-dependent devices from attack | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/iridium-selling-hip-to-prevent-gps-and-gnss-dependent-devices-from-interference-2026-07/) |
 | 2026-07-17 | Rohm adds to 600V Super Junction MOSFETs | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/rohm-adds-to-600v-super-junction-mosfets-2026-07/) |
 | 2026-07-17 | Highwaymen | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/highwaymen-2026-07/) |
-| 2026-07-17 | ESP8266 NodeMCU Case – Fully Customizable + Ready-to-Print Profiles #3DPrinting #3DThursday | Adafruit | [link](https://blog.adafruit.com/2026/07/16/esp8266-nodemcu-case-fully-customizable-ready-to-print-profiles-3dprinting-3dthursday/) |
-| 2026-07-16 | A USB Port by Any Other Color… | Hackaday | [link](https://hackaday.com/2026/07/16/a-usb-port-by-any-other-color/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,44 +77,44 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-17 | Dexmal/DM05-robotwin2 | 0 | 0 | [link](https://huggingface.co/Dexmal/DM05-robotwin2) |
+| 2026-07-17 | chomeed/board_insertion_ablation_sirius_pi05_no_robot_lora | 0 | 0 | [link](https://huggingface.co/chomeed/board_insertion_ablation_sirius_pi05_no_robot_lora) |
+| 2026-07-17 | access-robotics-team/xvla-openarm-fold-retry-merged-260716-10000 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/xvla-openarm-fold-retry-merged-260716-10000) |
+| 2026-07-17 | access-robotics-team/xvla-openarm-fold-retry-merged-260716-2500 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/xvla-openarm-fold-retry-merged-260716-2500) |
+| 2026-07-17 | chomeed/board_insertion_pi05_no_robot_lora_sirius_round2 | 0 | 0 | [link](https://huggingface.co/chomeed/board_insertion_pi05_no_robot_lora_sirius_round2) |
+| 2026-07-17 | chomeed/board_insertion_pi05_no_robot_lora_sirius_round1 | 0 | 0 | [link](https://huggingface.co/chomeed/board_insertion_pi05_no_robot_lora_sirius_round1) |
+| 2026-07-17 | chomeed/board_insertion_pi05_no_robot_lora | 0 | 0 | [link](https://huggingface.co/chomeed/board_insertion_pi05_no_robot_lora) |
+| 2026-07-17 | qualia-robotics/ws1-sf-sf-10 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/ws1-sf-sf-10) |
 | 2026-07-17 | QRP123/robot8_20260716_act_dinov3_base_frozen_100k_640x480_crop2of3_curated30 | 0 | 0 | [link](https://huggingface.co/QRP123/robot8_20260716_act_dinov3_base_frozen_100k_640x480_crop2of3_curated30) |
 | 2026-07-17 | qualia-robotics/ws1-sf-sf-25 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/ws1-sf-sf-25) |
-| 2026-07-17 | access-robotics-team/bioa-xv-fold-retry-merged-260716 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/bioa-xv-fold-retry-merged-260716) |
-| 2026-07-17 | vvcy1122/0714_robotwin_wrap_32_qwen3OFT_interna1_abs_joint_ft | 0 | 0 | [link](https://huggingface.co/vvcy1122/0714_robotwin_wrap_32_qwen3OFT_interna1_abs_joint_ft) |
-| 2026-07-17 | vvcy1122/0714_robotwin_wrap_32_qwen3OFT_egoverse_abs_joint_ft | 0 | 0 | [link](https://huggingface.co/vvcy1122/0714_robotwin_wrap_32_qwen3OFT_egoverse_abs_joint_ft) |
-| 2026-07-17 | vvcy1122/0713_robotwin_wrap_32_qwen3OFT_interna1_40k_abs_joint_ft | 0 | 0 | [link](https://huggingface.co/vvcy1122/0713_robotwin_wrap_32_qwen3OFT_interna1_40k_abs_joint_ft) |
-| 2026-07-17 | vvcy1122/0713_robotwin_wrap_32_qwen3OFT_egodex_interna1_40k_abs_joint_ft | 0 | 0 | [link](https://huggingface.co/vvcy1122/0713_robotwin_wrap_32_qwen3OFT_egodex_interna1_40k_abs_joint_ft) |
-| 2026-07-17 | access-robotics-team/bioa-p5-fold-retry-merged-260716-20000 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/bioa-p5-fold-retry-merged-260716-20000) |
-| 2026-07-17 | access-robotics-team/bioa-p5-fold-retry-merged-260716-17500 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/bioa-p5-fold-retry-merged-260716-17500) |
-| 2026-07-17 | access-robotics-team/bioa-p5-fold-retry-merged-260716-15000 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/bioa-p5-fold-retry-merged-260716-15000) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| mosaico-labs/mosaico | 890 | Python | 356.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 463 | Shell | 185.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 165 | Python | 66.1 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63146 | Python | 25258.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63147 | Python | 25258.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15490 | C++ | 6196.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| kornia/kornia | 11276 | Python | 4510.5 | [link](https://github.com/kornia/kornia) |
-| isaac-sim/IsaacLab | 7694 | Python | 3077.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3845 | Rust | 1538.1 | [link](https://github.com/dora-rs/dora) |
-| OpenDCAI/OpenWorldLib | 838 | Python | 335.3 | [link](https://github.com/OpenDCAI/OpenWorldLib) |
-| sou350121/VLA-Handbook | 398 | HTML | 159.3 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5604 | Python | 2241.7 | [link](https://github.com/vllm-project/vllm-omni) |
+| google-deepmind/mujoco | 14242 | C++ | 5696.9 | [link](https://github.com/google-deepmind/mujoco) |
+| kornia/kornia | 11280 | Python | 4512.1 | [link](https://github.com/kornia/kornia) |
+| rerun-io/rerun | 11137 | Rust | 4454.9 | [link](https://github.com/rerun-io/rerun) |
+| isaac-sim/IsaacLab | 7695 | Python | 3078.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| dora-rs/dora | 3846 | Rust | 1538.5 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUJvRFpqWVl4UHVLd1M0WTdsSEV0OTRLaWF6V0s2d2tvbTl0SVdzbHBEOE9VYmlkTXBWZ3BIMVkxYjBEMXhPdktmRHp3eXFtZG5paU50R1ZlRllEaWR5YWtpREVHWnJlRW9hY2RZWGpieU1LSmRuQXFNeXFoeE9KRzVtQXExUlFlNlk2anJUM3ZMYWZYV3BYV19uYXp0Zk1ZVFBzcURtYkpoc0x3OXdDN3M1WHNTYjgtNFE?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVDJGbnZjTHR6NWNyNG9MU3NaX21Tc2V6TE1qMzdCVl93bENOYXE2T21yMGhsd0taUHlrSEtqRTZPQzFSdEROTXdraTJzeHVaMzBaUGdNUFk1ZmQ3UnpuQ3dUYzF0T3JGQVFVTDF6S1ZlR0h1MHNzY1RRZlhtWUdmUC16YldxSFVpNVRXTVhPWldiRUc5VVJ4Uko3WWNTaFB3ZHkyVjBDNkk2eXh1WW1IX0t3VF9uN2o0dFVzUUExbW1ucU96Q0lueGpkWW0?oc=5) |
-| 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE96eWxsYmNCREJOYTIxT0Z1VHdTbDhLMWpmZHBnemU2Zlp4Vm9aMWJzbi1EUmhvMGF2aXd3cnV5OW5ObElqeEl4S3p2UlVhdUY4SkFaeFg3b1haTEpZbm1uUnFxcnhYd3VLSG1QaWN6S1VFTFl5anc?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxQeVRFZXlzNC1iS0gwS3UwVnM0Q3pVRFlTYXJWcHBoTzlhVXlWa2o1VHlINWY2bkttSk5DSHdEQkc2bEN4MVcwSXFRZEFXSlg2YzFIWExDcHFPMWxiUy1RZnlSYm5wX2hfU3JhbkNIQnZCZk0wSXI3ei03akxMRGZ4dQ?oc=5) |
+| 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE96eWxsYmNCREJOYTIxT0Z1VHdTbDhLMWpmZHBnemU2Zlp4Vm9aMWJzbi1EUmhvMGF2aXd3cnV5OW5ObElqeEl4S3p2UlVhdUY4SkFaeFg3b1haTEpZbm1uUnFxcnhYd3VLSG1QaWN6S1VFTFl5anc?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSi1lU0xsc0oxUEJvLXgzZkdHVC12aTNoSWJlSS1CY000Z2NFWFU2ZV9ZTm1pbnpWMi1icmg0d09PdlZxM2dtYkxpYk1UanZ6VlVxV2JMNW9KaUZkOHY3V1FnSXRCNXN5VDRtOFJWeXhZZHoxdGMyY3J6ZzNoZnlCUGlnYWYwek9vUFpRNFhKVnp3YWxvMlg1eEwwRTN6dTVUSGNIUld4MlBpWmQwak9EaHBXTko?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVI5UkdwUUJXOTgyeXZLWEE0c3psNUdOUGpMNlAzN25SV3Z5VXNweUJRU3pSNW1iZVhzdy1rZHpsaVdNQzdWUGlYR0RxSzhjNVJ2MU1OOEN5MGZTaUZ0MVhoRm4tc2h2S2otTmVCZ3NmdUd6UF9PZEd5eUlBdklCdVpZckFnRzNDcE41MUxiLWxhR2lOY1hwczBpU1k5UVlaajZWaThiamRCa3dYUDNROFFITQ?oc=5) |
+| 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lUmx3WFJSbmxfMHBZaUJuMUlmdW9zRDZJcDQ3MXdKRTZsX1YwcG5icWZZWXA4UXhvNUJVUml3OWk1NnRoOFluTUJ0VXZlNkJGVV9VNQ?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVFscFRnaE5QbDNTVHUwcUhWYjRYN2JGcnlEWktVVlhfVUhBVnFNR0NNMG9XZTU5cVlIWDRmSEdydmNSUEZueWVrbC1McmZQcVRPcjlfUkJYbGkwSTNkNU5VLUExU0NYYUVWajhhdlVnMUpwY3hiaUczWTBrSHJlTk9TVF9QcmRTN3RDanlLd3BGSFM3Uzh5SDE2Z0ZyVnhEYnpMN0J0TmxnUDgxdEVMMXVNS01PQWFiV2l3b2M4M2NoYWctTFFpSWEwRGluYjQyQWZ1eXJKSjg1SHkxMk1Sc3BOajc5eW02S3dxeg?oc=5) |
 | 2026-07-14 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1lDcHdOR0NGTm1DamhvY3NHYy1fTVc3WXQyMlAteTVOSjFzSm1zelpfeHVvR0VnMXN4WjBuMFRpZ04wdnhTNEsyeVBxdERCdmNFMHJ3V2VDX0VaeW1ZWEsxUGFmZlg4S0MwSEhkU19RUVNXV1Q3QXNrT0VWaE9jRkhDYWk2dWIteTBMLXBBYUxLN2dpM1VzcnhtcGVyRF9LRmh2ek9KYWI0Y00?oc=5) |
 | 2026-07-14 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxORTJDSW4xaTFJYlVoV01UTHE2c3pLQ3JjTDhrYmtCdkRRdTd6b3RLeE5lcTItNGJibnVOeTBYeDk3eGgxd1U1Vl9XY3pKS3l4dUJfazcyODZPczdockh3X3hIaDhVQ0ZpQkZIaU10Q3E3YmIwYTlUZ0lWd1IxNW96YjNSYXNreDRnaFpyQ1FLdlVYdl92SlFiQmVvZEptcjVaUFYxdmZPbW12dHNTMTVtSXdoOTUtVmFhY19DOVV5RC1pRHNlb3poR1Rya190QWRvNE1fZnE0aHRDOG1fbWIzemdKOXFHcHRtRW14Yg?oc=5) |
-| 2026-07-13 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFYwRDR6VS1JdC1fYTU5VGRnSXg3bFZCMFRoakFIc2FERGxXUDloRXN0ZGJoZkFuRTBaR2s1S2ZYWDduNi1RLXNRN1ZCRThRdGFwZUw1Vko5Mjg2czVOTHhoRk54UFBBNDI5TUNNaHlqN21fR1A0WHFEN08tOEU1MWhndjlrbVFYakxEaC13dmNlSFRlRnRyMDNqYTQ4eTd5YWdaTmVKMEc0MV9IcGFvVzhFejIyMDQtSU5GcklVYWlFcDlKTGdZZG56WTFFMXJvVklqaTNB?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -141,8 +141,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-15 | Fleet Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696722006) |
 | 2026-07-15 | Humanoid Robot Pilot  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4369739006) |
 | 2026-07-15 | Ops Facilitator - Pilot Support Team | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4697431006) |
-| 2026-07-15 | Project Coordinator, Data Creators | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696349006) |
 | 2026-07-15 | Project Coordinator, Data Creators | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696348006) |
+| 2026-07-15 | Project Coordinator, Data Creators | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696349006) |
 
 ## Automation
 

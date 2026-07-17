@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-17 07:06 UTC
+Generated: 2026-07-17 09:42 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,28 +14,28 @@ Generated: 2026-07-17 07:06 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82495 | 32998.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63146 | 25258.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44248 | 17699.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30065 | 12026.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16026 | 6410.5 | [link](https://github.com/zauberzeug/nicegui) |
+| Developer-Y/cs-video-courses | 82498 | 32999.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63147 | 25258.9 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44247 | 17698.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30070 | 12028.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16027 | 6410.9 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
+| CooperBench/dual-policy-leader-v1 | 642 | 192.7 | [link](https://huggingface.co/CooperBench/dual-policy-leader-v1) |
+| CooperBench/dual-policy-follower-v1 | 576 | 172.9 | [link](https://huggingface.co/CooperBench/dual-policy-follower-v1) |
 | Vladimirlv/ru-promptriever-qwen3-1.7b | 571 | 171.4 | [link](https://huggingface.co/Vladimirlv/ru-promptriever-qwen3-1.7b) |
-| zhijieq/directional-navigation | 402 | 120.7 | [link](https://huggingface.co/zhijieq/directional-navigation) |
-| CooperBench/dual-policy-leader-v1 | 385 | 115.6 | [link](https://huggingface.co/CooperBench/dual-policy-leader-v1) |
-| CooperBench/dual-policy-follower-v1 | 320 | 96.1 | [link](https://huggingface.co/CooperBench/dual-policy-follower-v1) |
-| tencent/Hy-Embodied-0.5-VLA-UMI | 252 | 77.7 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
+| zhijieq/directional-navigation | 410 | 123.1 | [link](https://huggingface.co/zhijieq/directional-navigation) |
+| tencent/Hy-Embodied-0.5-VLA-UMI | 242 | 74.7 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
 | 2026-07-16 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUJvRFpqWVl4UHVLd1M0WTdsSEV0OTRLaWF6V0s2d2tvbTl0SVdzbHBEOE9VYmlkTXBWZ3BIMVkxYjBEMXhPdktmRHp3eXFtZG5paU50R1ZlRllEaWR5YWtpREVHWnJlRW9hY2RZWGpieU1LSmRuQXFNeXFoeE9KRzVtQXExUlFlNlk2anJUM3ZMYWZYV3BYV19uYXp0Zk1ZVFBzcURtYkpoc0x3OXdDN3M1WHNTYjgtNFE?oc=5) |
 | 2026-07-16 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVDJGbnZjTHR6NWNyNG9MU3NaX21Tc2V6TE1qMzdCVl93bENOYXE2T21yMGhsd0taUHlrSEtqRTZPQzFSdEROTXdraTJzeHVaMzBaUGdNUFk1ZmQ3UnpuQ3dUYzF0T3JGQVFVTDF6S1ZlR0h1MHNzY1RRZlhtWUdmUC16YldxSFVpNVRXTVhPWldiRUc5VVJ4Uko3WWNTaFB3ZHkyVjBDNkk2eXh1WW1IX0t3VF9uN2o0dFVzUUExbW1ucU96Q0lueGpkWW0?oc=5) |
-| 2026-07-16 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE96eWxsYmNCREJOYTIxT0Z1VHdTbDhLMWpmZHBnemU2Zlp4Vm9aMWJzbi1EUmhvMGF2aXd3cnV5OW5ObElqeEl4S3p2UlVhdUY4SkFaeFg3b1haTEpZbm1uUnFxcnhYd3VLSG1QaWN6S1VFTFl5anc?oc=5) |
 | 2026-07-16 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxQeVRFZXlzNC1iS0gwS3UwVnM0Q3pVRFlTYXJWcHBoTzlhVXlWa2o1VHlINWY2bkttSk5DSHdEQkc2bEN4MVcwSXFRZEFXSlg2YzFIWExDcHFPMWxiUy1RZnlSYm5wX2hfU3JhbkNIQnZCZk0wSXI3ei03akxMRGZ4dQ?oc=5) |
+| 2026-07-16 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE96eWxsYmNCREJOYTIxT0Z1VHdTbDhLMWpmZHBnemU2Zlp4Vm9aMWJzbi1EUmhvMGF2aXd3cnV5OW5ObElqeEl4S3p2UlVhdUY4SkFaeFg3b1haTEpZbm1uUnFxcnhYd3VLSG1QaWN6S1VFTFl5anc?oc=5) |
 | 2026-07-16 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSi1lU0xsc0oxUEJvLXgzZkdHVC12aTNoSWJlSS1CY000Z2NFWFU2ZV9ZTm1pbnpWMi1icmg0d09PdlZxM2dtYkxpYk1UanZ6VlVxV2JMNW9KaUZkOHY3V1FnSXRCNXN5VDRtOFJWeXhZZHoxdGMyY3J6ZzNoZnlCUGlnYWYwek9vUFpRNFhKVnp3YWxvMlg1eEwwRTN6dTVUSGNIUld4MlBpWmQwak9EaHBXTko?oc=5) |
 
 ## Most Active Companies
