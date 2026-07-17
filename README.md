@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-17 14:22 UTC
+Last Updated: 2026-07-17 16:05 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,9 +8,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-07-17 | A scorecard for the AI age | OpenAI | [link](https://openai.com/index/a-scorecard-for-the-ai-age) |
+| 2026-07-17 | Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers | Hugging Face | [link](https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel) |
 | 2026-07-16 | Why teens deserve access to safe AI | OpenAI | [link](https://openai.com/index/why-teens-deserve-access-safe-ai) |
 | 2026-07-16 | How Cars24 scales conversations and builds faster with OpenAI | OpenAI | [link](https://openai.com/index/cars24) |
-| 2026-07-16 | NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval | Hugging Face | [link](https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb) |
 | 2026-07-16 | Newer Models, Same Advantage | Hugging Face | [link](https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages) |
 | 2026-07-16 | Security incident disclosure — July 2026 | Hugging Face | [link](https://huggingface.co/blog/security-incident-july-2026) |
 | 2026-07-15 | The US is advancing AI safety through state and federal action | OpenAI | [link](https://openai.com/index/advancing-ai-safety-through-state-and-federal-action) |
@@ -21,6 +21,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Physical AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-17 | Video Friday: Your Robot Surgeon Will See You Now | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robotic-surgery) |
 | 2026-07-10 | Video Friday: A World Cup for Robots | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robot-world-cup) |
 | 2026-07-08 | NVIDIA and Hugging Face bring new models and frameworks to LeRobot | Robotics Business Review | [link](https://www.therobotreport.com/nvidia-hugging-face-bring-new-models-frameworks-lerobot/) |
 | 2026-07-07 | NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/) |
@@ -30,12 +31,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-01 | Apptronik unveils Apollo 2 and a flagship data collection and training facility | Robotics Business Review | [link](https://www.therobotreport.com/apptronik-unveils-apollo-2-flagship-data-collection-training-facility/) |
 | 2026-06-27 | We know how to build smarter robots. Now, we need to learn smarter ways to test them | Robotics Business Review | [link](https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/) |
 | 2026-06-26 | Video Friday: Give Robots a Hand | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robot-grippers) |
-| 2026-06-24 | Humanoid maker Agility Robotics to go public through SPAC merger | Robotics Business Review | [link](https://www.therobotreport.com/humanoid-maker-agility-robotics-go-public-through-spac-merger/) |
 
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-07-17 | With new funding, Monumental plans to bring its construction robots to the U.S. | Robotics Business Review | [link](https://www.therobotreport.com/with-new-funding-monumental-plans-bring-construction-robots-u-s/) |
+| 2026-07-17 | Video Friday: Your Robot Surgeon Will See You Now | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robotic-surgery) |
 | 2026-07-16 | Lockheed Martin taps Machina’s robots for mission-critical missile parts | Robotics Business Review | [link](https://www.therobotreport.com/lockheed-martin-taps-machinas-robots-for-mission-critical-missile-parts/) |
 | 2026-07-16 | Xpanner rolls out X1 Panel Lift for automated solar panel installation | Robotics Business Review | [link](https://www.therobotreport.com/xpanner-rolls-out-x1-panel-lift-automated-solar-panel-installation/) |
 | 2026-07-16 | How to Make an Invisible Drone | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/invisible-spinning-drone) |
@@ -44,11 +45,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-15 | Vicarious Surgical board seeks to dissolve company | Robotics Business Review | [link](https://www.therobotreport.com/vicarious-surgical-board-seeks-to-dissolve-company/) |
 | 2026-07-15 | Icarus Robotics uses KULR technology to power JOY free-flying space robot | Robotics Business Review | [link](https://www.therobotreport.com/icarus-robotics-uses-kulr-technology-to-power-joy-free-flying-space-robot/) |
 | 2026-07-15 | Walden Robotics launches at $1.1B valuation for general-purpose robots | Robotics Business Review | [link](https://www.therobotreport.com/walden-robotics-launches-1-1b-valuation-general-purpose-robots/) |
-| 2026-07-15 | NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-17 | MacSurf Hits 2.0 To Bring PowerPCs back Online | Hackaday | [link](https://hackaday.com/2026/07/17/macsurf-hits-2-0-to-bring-powerpcs-back-online/) |
 | 2026-07-17 | This Week in Security: Another Record Patch Tuesday, LAME is More Secure, Secure Boot is Less Secure, and Milk Malware | Hackaday | [link](https://hackaday.com/2026/07/17/this-week-in-security-another-record-patch-tuesday-lame-is-more-secure-secure-boot-is-less-secure-and-milk-malware/) |
 | 2026-07-17 | EU Adds Exemptions to User-Serviceable Batteries Rules | Hackaday | [link](https://hackaday.com/2026/07/17/eu-adds-exemptions-to-user-serviceable-batteries-rules/) |
 | 2026-07-17 | Wireless LCD Streaming for the ANENG AN870 Multimeter | Hackaday | [link](https://hackaday.com/2026/07/17/wireless-lcd-streaming-for-the-aneng-an870-multimeter/) |
@@ -56,9 +57,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-17 | White Rails are the Infrastructure Hack We Didn’t Know We Needed | Hackaday | [link](https://hackaday.com/2026/07/16/white-rails-are-the-infrastructure-hack-we-didnt-know-we-needed/) |
 | 2026-07-17 | Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs | CNX Software | [link](https://www.cnx-software.com/2026/07/17/espressif-releases-sdk-for-aliro-smart-door-locks-based-on-esp32-c-or-esp32-h-socs/) |
 | 2026-07-17 | reCamera Pro “Open AI Camera” supports computer vision, LLM, VLM, STT, and TTS workloads | CNX Software | [link](https://www.cnx-software.com/2026/07/17/recamera-pro-open-ai-camera-supports-computer-vision-llm-vlm-stt-and-tts-workloads/) |
+| 2026-07-17 | The CMMC Pause: The DoD Suspends Phase 2 Requirements | Embedded.com | [link](https://www.embedded.com/the-cmmc-pause-the-dod-suspends-phase-2-requirements/) |
 | 2026-07-17 | Vector Photonics Develops New PCSEL Packaging Technology | Embedded.com | [link](https://www.embedded.com/vector-photonics-develops-new-pcsel-packaging-technology/) |
-| 2026-07-17 | Samtec angled launch connectors for precision RF | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/connectors/samtec-angled-launch-connectors-for-precision-rf-2026-07/) |
-| 2026-07-17 | Tales In Sintra | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/yarns/tales-in-sintra-2026-07/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| copper-project/copper-rs | 1413 | Rust | 565.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 890 | Python | 356.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 463 | Shell | 185.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 166 | Python | 66.5 | [link](https://github.com/ros-claw/rosclaw) |
 | commaai/openpilot | 63148 | Python | 25259.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15491 | C++ | 6196.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14243 | C++ | 5697.3 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14244 | C++ | 5697.7 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11280 | Python | 4512.1 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11137 | Rust | 4454.9 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7696 | Python | 3078.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3846 | Rust | 1538.5 | [link](https://github.com/dora-rs/dora) |
+| isaac-sim/IsaacLab | 7699 | Python | 3079.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -141,8 +141,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-15 | Fleet Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696722006) |
 | 2026-07-15 | Humanoid Robot Pilot  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4369739006) |
 | 2026-07-15 | Ops Facilitator - Pilot Support Team | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4697431006) |
-| 2026-07-15 | Project Coordinator, Data Creators | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696349006) |
 | 2026-07-15 | Project Coordinator, Data Creators | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696348006) |
+| 2026-07-15 | Project Coordinator, Data Creators | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696349006) |
 
 ## Automation
 
