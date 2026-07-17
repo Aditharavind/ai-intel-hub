@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-17 18:46 UTC
+Last Updated: 2026-07-17 19:54 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -39,12 +39,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-17 | Video Friday: Your Robot Surgeon Will See You Now | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robotic-surgery) |
 | 2026-07-17 | Weave Robotics launches Isaac, its first mobile humanoid robot | Robotics Business Review | [link](https://www.therobotreport.com/weave-robotics-launches-isaac-first-mobile-humanoid-robot/) |
 | 2026-07-17 | This Graduate Student Equips NASA’s Robots With Assembly Skills | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/graduate-student-nasas-robots-assembly) |
+| 2026-07-17 | Founder of Maximo discusses how robotics is accelerating solar construction | Robotics Business Review | [link](https://www.therobotreport.com/transforming-solar-construction-through-robotics-deise-yumi-asami-maximo/) |
 | 2026-07-16 | Lockheed Martin taps Machina’s robots for mission-critical missile parts | Robotics Business Review | [link](https://www.therobotreport.com/lockheed-martin-taps-machinas-robots-for-mission-critical-missile-parts/) |
 | 2026-07-16 | Xpanner rolls out X1 Panel Lift for automated solar panel installation | Robotics Business Review | [link](https://www.therobotreport.com/xpanner-rolls-out-x1-panel-lift-automated-solar-panel-installation/) |
 | 2026-07-16 | How to Make an Invisible Drone | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/invisible-spinning-drone) |
 | 2026-07-16 | TerraFirma raises $115M to build robotic infrastructure for construction | Robotics Business Review | [link](https://www.therobotreport.com/terrafirma-raises-115m-build-robotic-infrastructure-construction/) |
 | 2026-07-15 | Agility outlines six recommendations for U.S. humanoid robot policies | Robotics Business Review | [link](https://www.therobotreport.com/agility-outlines-six-recommendations-for-u-s-humanoid-robot-policies/) |
-| 2026-07-15 | Vicarious Surgical board seeks to dissolve company | Robotics Business Review | [link](https://www.therobotreport.com/vicarious-surgical-board-seeks-to-dissolve-company/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -58,7 +58,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-17 | White Rails are the Infrastructure Hack We Didn’t Know We Needed | Hackaday | [link](https://hackaday.com/2026/07/16/white-rails-are-the-infrastructure-hack-we-didnt-know-we-needed/) |
 | 2026-07-17 | Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs | CNX Software | [link](https://www.cnx-software.com/2026/07/17/espressif-releases-sdk-for-aliro-smart-door-locks-based-on-esp32-c-or-esp32-h-socs/) |
 | 2026-07-17 | reCamera Pro “Open AI Camera” supports computer vision, LLM, VLM, STT, and TTS workloads | CNX Software | [link](https://www.cnx-software.com/2026/07/17/recamera-pro-open-ai-camera-supports-computer-vision-llm-vlm-stt-and-tts-workloads/) |
-| 2026-07-17 | The CMMC Pause: The DoD Suspends Phase 2 Requirements | Embedded.com | [link](https://www.embedded.com/the-cmmc-pause-the-dod-suspends-phase-2-requirements/) |
+| 2026-07-17 | The Protocol Wars in Factories, Nvidia's Thor Modules for Robotics and Edge AI, 'Mind of the Engineer' survey: Embedded Week Insights | Embedded.com | [link](https://www.embedded.com/the-protocol-wars-in-factories-nvidias-thor-modules-for-robotics-and-edge-ai-mind-of-the-engineer-survey-embedded-week-insights/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -98,7 +98,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | ros-claw/rosclaw | 166 | Python | 66.5 | [link](https://github.com/ros-claw/rosclaw) |
 | commaai/openpilot | 63148 | Python | 25259.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15492 | C++ | 6196.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14245 | C++ | 5698.1 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14246 | C++ | 5698.5 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11280 | Python | 4512.1 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11139 | Rust | 4455.7 | [link](https://github.com/rerun-io/rerun) |
 
@@ -121,9 +121,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-17 | Top 50 AI/Embodied AI Companies Most Favored by Investors in 2026 Unveiled - 36 Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LWTVHRVU3OGd2bHhYdC1uR2NEVHlkd1RPVlZOVEhGNE9PWkgtaEFIei1wRFBCVWZGV3pORUtYeFNJaVdmMFVMWG5PT25reXFTZGJn?oc=5) |
 | 2026-07-17 | A Japanese Robotics Startup Looks Ahead to the Humanoid Age - tokyoupdates.metro.tokyo.lg.jp | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxMlF0aVBuQWJCNDRDMUJQd3V6bXI3N3BpeGRKall1aUJvM3JOY1NxY0JDQ182a1NQLS1GN0VPSmhHVkpFVldhLW9aZUpNSWJ0M2hJb2E1cjhaalR6X1I3ZlNGQ0tkdGM?oc=5) |
+| 2026-07-16 | Espoo-based Hyperion Robotics raises €6.4 million to bring physical AI to European infrastructure - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHdrSk9NanhQVEpEcmNNQnBpVmtoSC1vdEMtRGtzSFlFVGhIb3EydFdwVjEtZUpRQWIwdEdxM3JJQXNEbW9zUUhFMDdvUm5GS1NKMEdXcFRSNkVRc3dKUk1YRFJUSVdfd25TU0sxYUV6UVd0SGp2ZXFEOHFuRE9NSVF0MnpHNmVoWTVFSDEzQmJtNFUwWl8xbzhSbkVHQ29yUnR3R3M0RXlVMWNvZjMzM3pydmViNHZSYnFBTjg3UmJ1VWNGYkxIWTZYSWJUdTQ?oc=5) |
 | 2026-07-16 | Physical AI Startup SwitchOn Raises $8 Mn To Scale Manufacturing Inspection - Inc42 | physical ai startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUE5tOHpFaS1LbnpHT2pfeERLSnNKZUJkTlFhRHI1ak1TcktTM3NhcV9fbVBIVHc2Q3ItMTJiSzVxT1JTb3JZcFVDd1NyenJobUdJTF9la1lKb09uSVpuQWRwSWpLT3MwRDZvS1FXZm4xNXRub1U1M29KdjJwbWk2Zk1wN2R1RVBIUmxva3FORmxOUTVKR2FkRUF3eXRYUDg?oc=5) |
 | 2026-07-16 | Physical AI startup SwitchOn raises $8 Mn in pre-Series B round led by IvyCap - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFNndzVySEc0UmNLMl84TGRSVlRIb2RwZ3Jkb2w1V2Iwbm9IRkRhVkY2N3hWLWZBYkRMRFJ5Tlpya2tmMEFkZHJIUXdkN214S1NXMGVDNEdtZ2FRdWtpc3hKRUhVek1tTXUtRVEzT2Jna1Y0cEhTdm9lcFVOOGhsbUxYUXRlMW1BNjdEVkt1eGZTX2R6eXBYZjF6UmNhZ2FvNmRxWkRwTVVLc25iOEdURdIBsAFBVV95cUxQUFNndzVySEc0UmNLMl84TGRSVlRIb2RwZ3Jkb2w1V2Iwbm9IRkRhVkY2N3hWLWZBYkRMRFJ5Tlpya2tmMEFkZHJIUXdkN214S1NXMGVDNEdtZ2FRdWtpc3hKRUhVek1tTXUtRVEzT2Jna1Y0cEhTdm9lcFVOOGhsbUxYUXRlMW1BNjdEVkt1eGZTX2R6eXBYZjF6UmNhZ2FvNmRxWkRwTVVLc25iOEdURQ?oc=5) |
-| 2026-07-16 | Espoo-based Hyperion Robotics raises €6.4 million to bring physical AI to European infrastructure - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHdrSk9NanhQVEpEcmNNQnBpVmtoSC1vdEMtRGtzSFlFVGhIb3EydFdwVjEtZUpRQWIwdEdxM3JJQXNEbW9zUUhFMDdvUm5GS1NKMEdXcFRSNkVRc3dKUk1YRFJUSVdfd25TU0sxYUV6UVd0SGp2ZXFEOHFuRE9NSVF0MnpHNmVoWTVFSDEzQmJtNFUwWl8xbzhSbkVHQ29yUnR3R3M0RXlVMWNvZjMzM3pydmViNHZSYnFBTjg3UmJ1VWNGYkxIWTZYSWJUdTQ?oc=5) |
 | 2026-07-16 | AMI Labs Builds World Models for Physical AI Robots - 조선일보 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUG5teDJGZFZvU1RpY2Z1S2pxX21NMk1RTUFuN19TS05fVWpRUG5wY0YtV0pjZk85cGZkck93dVJMU0RrWXY4VjhYVUNmUjRQT2pCeHJxbEtCRXVPeUFidHNLUUVBckhsUVFFVDFMWnNXNlFXcnktaWtrZnp3UWdiZEEzRkYzWkw0?oc=5) |
 | 2026-07-16 | Tencent Cloud partners with robot AI startup RoboScience - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1NhdDZHeDY3Zkk3ekZGbjJsV0p6OWVzYnFJYUs1Q1NhU2hlT3N4YUIzMkpfMFllaE9TaXI5NzNqSkZUT01kVW0xMXlPSDJVVnNuOXYtNG9rVmVaRFZNLTMxRkJFQU9Dem41YmtBWHowUEhfUmNHcHc5dXFXUkV2bGZTZDNoMXlKc1Qw?oc=5) |
 | 2026-07-15 | NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry - NVIDIA Blog | physical ai startup | [link](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xNjhTZDM1ajhCSnliWTA4aXM4bkQ3dzhZMnFNUzkxS3NxU3dDdWpRQlh0N1BPUHRURVZFU1BtQU04T3QzQnVLR3lOaE9WZnhwMUUwcmVTRGtmUlFGQ1hoYw?oc=5) |
