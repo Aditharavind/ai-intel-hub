@@ -1,5 +1,32 @@
 [
   {
+    "model": "QRP123/robot8_20260716_act_dinov3_base_frozen_100k_640x480_crop2of3_curated30",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/QRP123/robot8_20260716_act_dinov3_base_frozen_100k_640x480_crop2of3_curated30",
+    "date": "2026-07-17",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "qualia-robotics/ws1-sf-sf-25",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/qualia-robotics/ws1-sf-sf-25",
+    "date": "2026-07-17",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "access-robotics-team/bioa-xv-fold-retry-merged-260716",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/access-robotics-team/bioa-xv-fold-retry-merged-260716",
+    "date": "2026-07-17",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "vvcy1122/0714_robotwin_wrap_32_qwen3OFT_interna1_abs_joint_ft",
     "downloads": 0,
     "likes": 0,
@@ -36,31 +63,49 @@
     "score": 0.1
   },
   {
-    "model": "YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric",
+    "model": "access-robotics-team/bioa-p5-fold-retry-merged-260716-20000",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric",
-    "date": "2026-07-17",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "puppet-robotics/golf-model-200-obs",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-200-obs",
+    "url": "https://huggingface.co/access-robotics-team/bioa-p5-fold-retry-merged-260716-20000",
     "date": "2026-07-17",
     "keyword": "robotics",
     "score": 0.1
   },
   {
-    "model": "zolkin/robot_rl",
+    "model": "access-robotics-team/bioa-p5-fold-retry-merged-260716-17500",
     "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/zolkin/robot_rl",
+    "likes": 0,
+    "url": "https://huggingface.co/access-robotics-team/bioa-p5-fold-retry-merged-260716-17500",
     "date": "2026-07-17",
-    "keyword": "robot",
-    "score": 0.3
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "access-robotics-team/bioa-p5-fold-retry-merged-260716-15000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/access-robotics-team/bioa-p5-fold-retry-merged-260716-15000",
+    "date": "2026-07-17",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "access-robotics-team/bioa-p5-fold-retry-merged-260716-12500",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/access-robotics-team/bioa-p5-fold-retry-merged-260716-12500",
+    "date": "2026-07-17",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "access-robotics-team/bioa-p5-fold-retry-merged-260716-10000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/access-robotics-team/bioa-p5-fold-retry-merged-260716-10000",
+    "date": "2026-07-17",
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "holmescao/VLA-ReID",
@@ -69,6 +114,33 @@
     "url": "https://huggingface.co/holmescao/VLA-ReID",
     "date": "2026-07-17",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "EmbodiedCity/Worldscape-MoE",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/EmbodiedCity/Worldscape-MoE",
+    "date": "2026-07-17",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "yugoogio/groot50_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yugoogio/groot50_policy",
+    "date": "2026-07-17",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "r-maker/my_test_episode_30_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/r-maker/my_test_episode_30_act_policy",
+    "date": "2026-07-17",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -108,49 +180,49 @@
     "score": 0.1
   },
   {
-    "model": "YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform_egocentric",
+    "model": "access-robotics-team/bioa-p5-fold-retry-merged-260716-7500",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/mobile_robot_lift_env_single_cube_multi_platform_egocentric",
-    "date": "2026-07-16",
-    "keyword": "robot",
+    "url": "https://huggingface.co/access-robotics-team/bioa-p5-fold-retry-merged-260716-7500",
+    "date": "2026-07-17",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
-    "model": "chomeed/board_insertion_pi05_no_robot",
+    "model": "access-robotics-team/bioa-p5-fold-retry-merged-260716-5000",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/chomeed/board_insertion_pi05_no_robot",
-    "date": "2026-07-16",
-    "keyword": "robot",
+    "url": "https://huggingface.co/access-robotics-team/bioa-p5-fold-retry-merged-260716-5000",
+    "date": "2026-07-17",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
-    "model": "chomeed/board_insertion_pi05_no_robot_sirius_round2",
+    "model": "access-robotics-team/bioa-p5-fold-retry-merged-260716-2500",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/chomeed/board_insertion_pi05_no_robot_sirius_round2",
-    "date": "2026-07-16",
-    "keyword": "robot",
+    "url": "https://huggingface.co/access-robotics-team/bioa-p5-fold-retry-merged-260716-2500",
+    "date": "2026-07-17",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
-    "model": "tron-robot/yam-vla-handoff",
+    "model": "puppet-robotics/golf-model-200-obs",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/tron-robot/yam-vla-handoff",
-    "date": "2026-07-16",
-    "keyword": "vla",
+    "url": "https://huggingface.co/puppet-robotics/golf-model-200-obs",
+    "date": "2026-07-17",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
-    "model": "SidneyXie/pi05_robotwin",
-    "downloads": 39,
-    "likes": 1,
-    "url": "https://huggingface.co/SidneyXie/pi05_robotwin",
-    "date": "2026-07-16",
-    "keyword": "robot",
-    "score": 12.0
+    "model": "access-robotics-team/bioa-p5-fold-retry-merged-260716",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/access-robotics-team/bioa-p5-fold-retry-merged-260716",
+    "date": "2026-07-17",
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "zwan1003/pickplace_skills_vla_v2_cont",
@@ -166,6 +238,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/team-sobits/sobit_home_pickup_block_left_abs_vla_jepa",
+    "date": "2026-07-16",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "tron-robot/yam-vla-handoff",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tron-robot/yam-vla-handoff",
     "date": "2026-07-16",
     "keyword": "vla",
     "score": 0.1
@@ -263,11 +344,11 @@
   {
     "model": "tencent/Hy-Embodied-RxBrain-1.0",
     "downloads": 56,
-    "likes": 30,
+    "likes": 31,
     "url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
     "date": "2026-07-16",
     "keyword": "embodied",
-    "score": 22.9
+    "score": 23.1
   },
   {
     "model": "ubr-physical-ai/UBR-Nav-E4B",
@@ -331,33 +412,6 @@
     "date": "2026-07-16",
     "keyword": "policy",
     "score": 0.7
-  },
-  {
-    "model": "Lokeshwaran/my_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Lokeshwaran/my_policy",
-    "date": "2026-07-16",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Hilman09/act_policy_bimanual_fixed_40epi",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Hilman09/act_policy_bimanual_fixed_40epi",
-    "date": "2026-07-16",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "access-robotics-team/bioa-xv-fold-high-quality-260716",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/access-robotics-team/bioa-xv-fold-high-quality-260716",
-    "date": "2026-07-16",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "kurushun/dobot-vla-pickplace-pi05",
@@ -468,33 +522,6 @@
     "score": 0.1
   },
   {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-U0",
-    "downloads": 64,
-    "likes": 10,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0",
-    "date": "2026-07-15",
-    "keyword": "robotics",
-    "score": 21.3
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR",
-    "downloads": 53,
-    "likes": 5,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR",
-    "date": "2026-07-15",
-    "keyword": "robotics",
-    "score": 17.0
-  },
-  {
-    "model": "puppet-robotics/golf-model-eval",
-    "downloads": 57,
-    "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-eval",
-    "date": "2026-07-15",
-    "keyword": "robotics",
-    "score": 17.2
-  },
-  {
     "model": "physicalai-bmi/orbital-formation-bc",
     "downloads": 0,
     "likes": 0,
@@ -520,51 +547,6 @@
     "date": "2026-07-14",
     "keyword": "navigation",
     "score": 120.7
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot",
-    "downloads": 36,
-    "likes": 1,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-Google-Robot",
-    "date": "2026-07-14",
-    "keyword": "robotics",
-    "score": 11.1
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-WidowX",
-    "downloads": 87,
-    "likes": 2,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-SimplerEnv-WidowX",
-    "date": "2026-07-14",
-    "keyword": "robotics",
-    "score": 26.6
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABCD_D",
-    "downloads": 43,
-    "likes": 3,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABCD_D",
-    "date": "2026-07-14",
-    "keyword": "robotics",
-    "score": 13.6
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABC_D",
-    "downloads": 36,
-    "likes": 1,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-Calvin-ABC_D",
-    "date": "2026-07-14",
-    "keyword": "robotics",
-    "score": 11.1
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-0-LIBERO",
-    "downloads": 1970,
-    "likes": 11,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-0-LIBERO",
-    "date": "2026-07-14",
-    "keyword": "robotics",
-    "score": 593.3
   },
   {
     "model": "physicalai-bmi/nano-world-model",
@@ -648,24 +630,6 @@
     "score": 0.1
   },
   {
-    "model": "china-sae-robotics/gr00t_n16_arena_libero_all_suites_rel_rotvec",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/china-sae-robotics/gr00t_n16_arena_libero_all_suites_rel_rotvec",
-    "date": "2026-07-13",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "china-sae-robotics/gr00t_n16_gr1_sequential_task",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/china-sae-robotics/gr00t_n16_gr1_sequential_task",
-    "date": "2026-07-13",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "physicalai-bmi/nano-vla-pixels",
     "downloads": 0,
     "likes": 0,
@@ -718,15 +682,6 @@
     "date": "2026-07-08",
     "keyword": "navigation",
     "score": 5.2
-  },
-  {
-    "model": "EmbodiedCity/Worldscape-MoE",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/EmbodiedCity/Worldscape-MoE",
-    "date": "2026-07-07",
-    "keyword": "embodied",
-    "score": 0.1
   },
   {
     "model": "HanchuZhou/embodied_ma",
