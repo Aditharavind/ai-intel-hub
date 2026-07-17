@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-17 21:38 UTC
+Generated: 2026-07-17 22:35 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,7 +14,7 @@ Generated: 2026-07-17 21:38 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82494 | 32997.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82495 | 32998.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63147 | 25258.9 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44247 | 17698.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30070 | 12028.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
@@ -23,11 +23,11 @@ Generated: 2026-07-17 21:38 UTC
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| CooperBench/dual-policy-leader-v1 | 642 | 192.7 | [link](https://huggingface.co/CooperBench/dual-policy-leader-v1) |
-| CooperBench/dual-policy-follower-v1 | 576 | 172.9 | [link](https://huggingface.co/CooperBench/dual-policy-follower-v1) |
 | Vladimirlv/ru-promptriever-qwen3-1.7b | 571 | 171.4 | [link](https://huggingface.co/Vladimirlv/ru-promptriever-qwen3-1.7b) |
 | zhijieq/directional-navigation | 410 | 123.1 | [link](https://huggingface.co/zhijieq/directional-navigation) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 242 | 74.7 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
+| SEU-PAISys/Embodied.cpp | 241 | 73.2 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
+| HarrisonPENG/M2W-VLA-RoboTwin | 169 | 50.8 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
