@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-17 17:54 UTC
+Last Updated: 2026-07-17 18:46 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -38,13 +38,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-17 | With new funding, Monumental plans to bring its construction robots to the U.S. | Robotics Business Review | [link](https://www.therobotreport.com/with-new-funding-monumental-plans-bring-construction-robots-u-s/) |
 | 2026-07-17 | Video Friday: Your Robot Surgeon Will See You Now | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robotic-surgery) |
 | 2026-07-17 | Weave Robotics launches Isaac, its first mobile humanoid robot | Robotics Business Review | [link](https://www.therobotreport.com/weave-robotics-launches-isaac-first-mobile-humanoid-robot/) |
+| 2026-07-17 | This Graduate Student Equips NASA’s Robots With Assembly Skills | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/graduate-student-nasas-robots-assembly) |
 | 2026-07-16 | Lockheed Martin taps Machina’s robots for mission-critical missile parts | Robotics Business Review | [link](https://www.therobotreport.com/lockheed-martin-taps-machinas-robots-for-mission-critical-missile-parts/) |
 | 2026-07-16 | Xpanner rolls out X1 Panel Lift for automated solar panel installation | Robotics Business Review | [link](https://www.therobotreport.com/xpanner-rolls-out-x1-panel-lift-automated-solar-panel-installation/) |
 | 2026-07-16 | How to Make an Invisible Drone | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/invisible-spinning-drone) |
 | 2026-07-16 | TerraFirma raises $115M to build robotic infrastructure for construction | Robotics Business Review | [link](https://www.therobotreport.com/terrafirma-raises-115m-build-robotic-infrastructure-construction/) |
 | 2026-07-15 | Agility outlines six recommendations for U.S. humanoid robot policies | Robotics Business Review | [link](https://www.therobotreport.com/agility-outlines-six-recommendations-for-u-s-humanoid-robot-policies/) |
 | 2026-07-15 | Vicarious Surgical board seeks to dissolve company | Robotics Business Review | [link](https://www.therobotreport.com/vicarious-surgical-board-seeks-to-dissolve-company/) |
-| 2026-07-15 | Icarus Robotics uses KULR technology to power JOY free-flying space robot | Robotics Business Review | [link](https://www.therobotreport.com/icarus-robotics-uses-kulr-technology-to-power-joy-free-flying-space-robot/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -97,10 +97,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | NVIDIA-Omniverse/ovrtx | 186 | Python | 74.5 | [link](https://github.com/NVIDIA-Omniverse/ovrtx) |
 | ros-claw/rosclaw | 166 | Python | 66.5 | [link](https://github.com/ros-claw/rosclaw) |
 | commaai/openpilot | 63148 | Python | 25259.3 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15491 | C++ | 6196.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14244 | C++ | 5697.7 | [link](https://github.com/google-deepmind/mujoco) |
+| ArduPilot/ardupilot | 15492 | C++ | 6196.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14245 | C++ | 5698.1 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11280 | Python | 4512.1 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11138 | Rust | 4455.3 | [link](https://github.com/rerun-io/rerun) |
+| rerun-io/rerun | 11139 | Rust | 4455.7 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
