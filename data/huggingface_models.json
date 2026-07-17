@@ -1,5 +1,14 @@
 [
   {
+    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
+    "downloads": 169,
+    "likes": 0,
+    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
+    "date": "2026-07-17",
+    "keyword": "vla",
+    "score": 50.8
+  },
+  {
     "model": "Dexmal/DM05-robotwin2",
     "downloads": 0,
     "likes": 0,
@@ -99,12 +108,12 @@
     "score": 0.1
   },
   {
-    "model": "vvcy1122/0714_robotwin_wrap_32_qwen3OFT_interna1_abs_joint_ft",
+    "model": "mertalbaba/humanoid-vla-checkpoints",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/vvcy1122/0714_robotwin_wrap_32_qwen3OFT_interna1_abs_joint_ft",
+    "url": "https://huggingface.co/mertalbaba/humanoid-vla-checkpoints",
     "date": "2026-07-17",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -141,6 +150,15 @@
     "url": "https://huggingface.co/ubr-physical-ai/UBR-Nav-E4B",
     "date": "2026-07-17",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-07-17_shakeitup5_bench_notact",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-07-17_shakeitup5_bench_notact",
+    "date": "2026-07-17",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -297,15 +315,6 @@
     "score": 11.2
   },
   {
-    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
-    "downloads": 169,
-    "likes": 0,
-    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
-    "date": "2026-07-16",
-    "keyword": "vla",
-    "score": 50.8
-  },
-  {
     "model": "InternRobotics/VLAC-Cut",
     "downloads": 47,
     "likes": 0,
@@ -423,15 +432,6 @@
     "score": 9.4
   },
   {
-    "model": "MakinoKF/pick-the-nut-from-2direction-dataset_diffusion-policy-v1",
-    "downloads": 51,
-    "likes": 0,
-    "url": "https://huggingface.co/MakinoKF/pick-the-nut-from-2direction-dataset_diffusion-policy-v1",
-    "date": "2026-07-16",
-    "keyword": "policy",
-    "score": 15.4
-  },
-  {
     "model": "kurushun/dobot-vla-pickplace-pi05",
     "downloads": 39,
     "likes": 0,
@@ -454,15 +454,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Vladimirlv/ru-promptriever-qwen3-4b-ru-only",
-    "date": "2026-07-15",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "macv666/entropy-vla-grpo-logs",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/macv666/entropy-vla-grpo-logs",
     "date": "2026-07-15",
     "keyword": "vla",
     "score": 0.1
