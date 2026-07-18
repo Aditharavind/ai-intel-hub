@@ -1,5 +1,45 @@
 [
   {
+    "repo": "ros-claw/rosclaw",
+    "stars": 166,
+    "language": "Python",
+    "description": "Self-evolving runtime infrastructure for Physical AI and embodied agents. Ground AI agents into robot bodies with e-URDF, sandbox safety, capability routing, praxis capture, physical memory, runtime intervention, and skill evolution.",
+    "url": "https://github.com/ros-claw/rosclaw",
+    "date": "2026-07-18",
+    "topic": "physical-ai",
+    "score": 66.5
+  },
+  {
+    "repo": "commaai/openpilot",
+    "stars": 63148,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-07-18",
+    "topic": "robotics",
+    "score": 25259.3
+  },
+  {
+    "repo": "StanfordVL/BEHAVIOR-1K",
+    "stars": 1579,
+    "language": "Python",
+    "description": "BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx",
+    "url": "https://github.com/StanfordVL/BEHAVIOR-1K",
+    "date": "2026-07-18",
+    "topic": "embodied-ai",
+    "score": 631.7
+  },
+  {
+    "repo": "OpenHUTB/hutb",
+    "stars": 536,
+    "language": "C++",
+    "description": "人车模拟器（Human-vehicle Simulator）",
+    "url": "https://github.com/OpenHUTB/hutb",
+    "date": "2026-07-18",
+    "topic": "humanoid",
+    "score": 214.5
+  },
+  {
     "repo": "copper-project/copper-rs",
     "stars": 1413,
     "language": "Rust",
@@ -38,26 +78,6 @@
     "date": "2026-07-17",
     "topic": "physical-ai",
     "score": 74.5
-  },
-  {
-    "repo": "ros-claw/rosclaw",
-    "stars": 166,
-    "language": "Python",
-    "description": "Self-evolving runtime infrastructure for Physical AI and embodied agents. Ground AI agents into robot bodies with e-URDF, sandbox safety, capability routing, praxis capture, physical memory, runtime intervention, and skill evolution.",
-    "url": "https://github.com/ros-claw/rosclaw",
-    "date": "2026-07-17",
-    "topic": "physical-ai",
-    "score": 66.5
-  },
-  {
-    "repo": "commaai/openpilot",
-    "stars": 63148,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-07-17",
-    "topic": "robotics",
-    "score": 25259.3
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -101,13 +121,13 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7699,
+    "stars": 7698,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-07-17",
     "topic": "robot-learning",
-    "score": 3079.7
+    "score": 3079.3
   },
   {
     "repo": "dora-rs/dora",
@@ -270,16 +290,6 @@
     "score": 1658.9
   },
   {
-    "repo": "StanfordVL/BEHAVIOR-1K",
-    "stars": 1579,
-    "language": "Python",
-    "description": "BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx",
-    "url": "https://github.com/StanfordVL/BEHAVIOR-1K",
-    "date": "2026-07-16",
-    "topic": "embodied-ai",
-    "score": 631.7
-  },
-  {
     "repo": "galilai-group/stable-worldmodel",
     "stars": 2048,
     "language": "Python",
@@ -288,16 +298,6 @@
     "date": "2026-07-16",
     "topic": "world-model",
     "score": 819.3
-  },
-  {
-    "repo": "OpenHUTB/hutb",
-    "stars": 536,
-    "language": "C++",
-    "description": "人车模拟器（Human-vehicle Simulator）",
-    "url": "https://github.com/OpenHUTB/hutb",
-    "date": "2026-07-16",
-    "topic": "humanoid",
-    "score": 214.5
   },
   {
     "repo": "ROBOTIS-GIT/ai_worker",
@@ -441,13 +441,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30070,
+    "stars": 30071,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-07-13",
     "topic": "robotics",
-    "score": 12028.1
+    "score": 12028.5
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -481,13 +481,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 8250,
+    "stars": 8252,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 3300.1
+    "score": 3300.9
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -691,13 +691,13 @@
   },
   {
     "repo": "OpenDriveLab/WorldEngine",
-    "stars": 465,
+    "stars": 466,
     "language": "Python",
     "description": "WorldEngine: Towards the Era of Post-Training for Autonomous Driving",
     "url": "https://github.com/OpenDriveLab/WorldEngine",
     "date": "2026-06-27",
     "topic": "world-model",
-    "score": 186.1
+    "score": 186.5
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",

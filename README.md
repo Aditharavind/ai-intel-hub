@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-17 23:39 UTC
+Last Updated: 2026-07-18 01:09 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| ros-claw/rosclaw | 166 | Python | 66.5 | [link](https://github.com/ros-claw/rosclaw) |
+| commaai/openpilot | 63148 | Python | 25259.3 | [link](https://github.com/commaai/openpilot) |
+| StanfordVL/BEHAVIOR-1K | 1579 | Python | 631.7 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
+| OpenHUTB/hutb | 536 | C++ | 214.5 | [link](https://github.com/OpenHUTB/hutb) |
 | copper-project/copper-rs | 1413 | Rust | 565.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 890 | Python | 356.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 463 | Shell | 185.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | NVIDIA-Omniverse/ovrtx | 186 | Python | 74.5 | [link](https://github.com/NVIDIA-Omniverse/ovrtx) |
-| ros-claw/rosclaw | 166 | Python | 66.5 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63148 | Python | 25259.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15492 | C++ | 6196.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14247 | C++ | 5698.9 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11280 | Python | 4512.1 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11139 | Rust | 4455.7 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -135,6 +135,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-07-17 | Global Supply Manager - PCBA | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4670751006) |
 | 2026-07-17 | Senior Logistics and Trade Compliance Analyst | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4697840006) |
+| 2026-07-17 | Senior Director, AI | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5786075004) |
 | 2026-07-16 | AI Training Infrastructure Engineer – Humanoid Whole Body Control | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4674754006) |
 | 2026-07-16 | Helix Data Creator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4585080006) |
 | 2026-07-16 | Mechanical Engineer - All Levels | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4410831006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | Senior Manager, Quality (IQC/SQE) | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6113706004) |
 | 2026-07-15 | Fleet Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696722006) |
 | 2026-07-15 | Humanoid Robot Pilot  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4369739006) |
-| 2026-07-15 | Ops Facilitator - Pilot Support Team | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4697431006) |
 
 ## Automation
 
