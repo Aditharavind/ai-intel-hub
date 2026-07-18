@@ -1,16 +1,22 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-18 14:13 UTC
+Generated: 2026-07-18 15:41 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-07-16 | Hierarchical Denoising For Multi-Step Visual Reasoning | [link](https://arxiv.org/pdf/2607.15278v1) |
+| 2026-07-16 | RoboTTT: Context Scaling for Robot Policies | [link](https://arxiv.org/pdf/2607.15275v1) |
+| 2026-07-16 | Motion-Conditioned Multi-View Fusion for Myocardial Infarction Localization from Echocardiography | [link](https://arxiv.org/pdf/2607.15268v1) |
+| 2026-07-16 | Symbal: Detecting Systematic Misalignments in Model-Generated Captions | [link](https://arxiv.org/pdf/2607.15216v1) |
+| 2026-07-16 | BadWAM: When World-Action Models Dream Right but Act Wrong | [link](https://arxiv.org/pdf/2607.15207v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 82500 | 33000.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63157 | 25262.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44252 | 17700.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| commaai/openpilot | 63158 | 25263.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44251 | 17700.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30073 | 12029.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16029 | 6411.7 | [link](https://github.com/zauberzeug/nicegui) |
 
@@ -38,5 +44,5 @@ _No items collected yet._
 | 2026-07-18 | Control robots with your thoughts: Chinese startup unveils world’s 1st ‘brain-to-robot’ platform - The Indian Express | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdXBQV1pwQUd6NzVBeUhNR2N4a3RzUkdTS3lMRE5PNjdxZ3hmVjllQkxhS3BlU2Q2ajBaN2dXd0lDVzZ5Z1FCdTcxeHlWVXJ2djhkMDg4ZmMyNUNxY3B4YW5lTjhrTVdTZU41aTFQN0NjaTRIeUJlTFRDaE5fVC14NWQwb3hLYzlHRnNtZ3FwY0ZhT25GWV9NU2hHVEE5VEQ1SWUydW9jaHVFcm9Yb05vRWI1UktoQklUOUo3RjcyenM0V1VQa3RNUGxkb0ROaFAzM1Rr0gHaAUFVX3lxTE5UM1pUSkRpY21BR3B5WVlDZjlZQnhhNHZHWURlRHZuX2NSTjVnMlhXMHB0NEM1VWM3UUZ6ZzFUeEU0aTVEUHNsaTlEU2xuMk8zQW5iNVJkZ0IzZ2g0TVhpTEZVMk5McHJEUl9VN0steFJXVzMzd0dTZmcweHdBWXhOdk5CQm45ZHNPV3Y2MDNhcmkyZlViR2J5QWNiMzBuQXpiemNEQjJsWmtVSTZUSVJvQ2w5RFhqX2R2cy0zZHphQWNjNGxTRUV5MFhFd0pRRHQ1NWtPWENTOEZ3?oc=5) |
 | 2026-07-17 | Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates - AI Business | physical ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWjhLZDRiMHREdlV0ejZyUVVPeHptdndKOUlZR3p4LTloNU45NjU5b2diekZyVDhUekx2TW9uVXRNaWVyMTZyeGotNUZYOUVSSVhjMWpBTHM3RU81RkhSbi1WeDgzeXZIM2dnMGVoQWoxTUtHTG9Dbk4zWktmLUVkdVM2cC0wQ1E?oc=5) |
 | 2026-07-17 | Top 50 AI/Embodied AI Companies Most Favored by Investors in 2026 Unveiled - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LWTVHRVU3OGd2bHhYdC1uR2NEVHlkd1RPVlZOVEhGNE9PWkgtaEFIei1wRFBCVWZGV3pORUtYeFNJaVdmMFVMWG5PT25reXFTZGJn?oc=5) |
-| 2026-07-17 | A Japanese Robotics Startup Looks Ahead to the Humanoid Age - tokyoupdates.metro.tokyo.lg.jp | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxMlF0aVBuQWJCNDRDMUJQd3V6bXI3N3BpeGRKall1aUJvM3JOY1NxY0JDQ182a1NQLS1GN0VPSmhHVkpFVldhLW9aZUpNSWJ0M2hJb2E1cjhaalR6X1I3ZlNGQ0tkdGM?oc=5) |
 | 2026-07-16 | Espoo-based Hyperion Robotics raises €6.4 million to bring physical AI to European infrastructure - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHdrSk9NanhQVEpEcmNNQnBpVmtoSC1vdEMtRGtzSFlFVGhIb3EydFdwVjEtZUpRQWIwdEdxM3JJQXNEbW9zUUhFMDdvUm5GS1NKMEdXcFRSNkVRc3dKUk1YRFJUSVdfd25TU0sxYUV6UVd0SGp2ZXFEOHFuRE9NSVF0MnpHNmVoWTVFSDEzQmJtNFUwWl8xbzhSbkVHQ29yUnR3R3M0RXlVMWNvZjMzM3pydmViNHZSYnFBTjg3UmJ1VWNGYkxIWTZYSWJUdTQ?oc=5) |
+| 2026-07-16 | Physical AI Startup SwitchOn Raises $8 Mn To Scale Manufacturing Inspection - Inc42 | physical ai startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUE5tOHpFaS1LbnpHT2pfeERLSnNKZUJkTlFhRHI1ak1TcktTM3NhcV9fbVBIVHc2Q3ItMTJiSzVxT1JTb3JZcFVDd1NyenJobUdJTF9la1lKb09uSVpuQWRwSWpLT3MwRDZvS1FXZm4xNXRub1U1M29KdjJwbWk2Zk1wN2R1RVBIUmxva3FORmxOUTVKR2FkRUF3eXRYUDg?oc=5) |
