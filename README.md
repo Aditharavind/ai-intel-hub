@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-18 19:56 UTC
+Last Updated: 2026-07-18 20:36 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-18 | Calculator UI Is More Complex Than You Might Think | Hackaday | [link](https://hackaday.com/2026/07/18/calculator-ui-is-more-complex-than-you-might-think/) |
 | 2026-07-18 | ESP32-driven Roulette Wheel Could Have Used a 555, but That Didn’t have WiFi | Hackaday | [link](https://hackaday.com/2026/07/18/esp32-driven-roulette-wheel-could-have-used-a-555-but-that-didnt-have-wifi/) |
 | 2026-07-18 | Simple Games from a Simpler Time | Hackaday | [link](https://hackaday.com/2026/07/18/simple-games-from-a-simpler-time/) |
 | 2026-07-18 | Spidery Drone Goes Near-invisible By Spinning Really, Really Fast | Hackaday | [link](https://hackaday.com/2026/07/18/spidery-drone-goes-near-invisible-by-spinning-really-really-fast/) |
@@ -56,9 +57,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-18 | Flex Filament Stuck To Your Build Platform? Reach For The Isopropanol | Hackaday | [link](https://hackaday.com/2026/07/17/flex-filament-stuck-to-your-build-platform-reach-for-the-isopropanol/) |
 | 2026-07-18 | Using Solar Air Heating to Dry Clothes | Hackaday | [link](https://hackaday.com/2026/07/17/using-solar-air-heating-to-dry-clothes/) |
 | 2026-07-18 | M5Stack Core2 gets open-source firmware to reproduce OpenAI’s Codex Micro features | CNX Software | [link](https://www.cnx-software.com/2026/07/18/m5stack-core2-gets-open-source-firmware-to-reproduce-openais-codex-micro-features/) |
+| 2026-07-18 | Reactor’s Lift of SFF/H for Young Adult Readers | Adafruit | [link](https://blog.adafruit.com/2026/07/18/reactors-lift-of-sff-h-for-young-adult-readers/) |
 | 2026-07-18 | From The Archives: MagTag Kitchen Timer | Adafruit | [link](https://blog.adafruit.com/2026/07/18/from-the-archives-magtag-kitchen-timer/) |
-| 2026-07-18 | Sci-Fi Nuclear Core Battery Lamp | Adafruit | [link](https://blog.adafruit.com/2026/07/18/sci-fi-nuclear-core-battery-lamp/) |
-| 2026-07-17 | How Octopuses Hacked their Ribosome to Become Smart | Hackaday | [link](https://hackaday.com/2026/07/17/how-octopuses-hacked-their-ribosome-to-become-smart/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,8 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-18 | openbmb/MiniCPM-RobotManip | 0 | 0 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
-| 2026-07-18 | openbmb/MiniCPM-RobotTrack | 0 | 1 | [link](https://huggingface.co/openbmb/MiniCPM-RobotTrack) |
+| 2026-07-18 | openbmb/MiniCPM-RobotManip | 0 | 2 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
+| 2026-07-18 | openbmb/MiniCPM-RobotTrack | 0 | 2 | [link](https://huggingface.co/openbmb/MiniCPM-RobotTrack) |
 | 2026-07-18 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-07-18 | KavishkaD/Smart_Companion_Robot_Custom_KWS | 0 | 0 | [link](https://huggingface.co/KavishkaD/Smart_Companion_Robot_Custom_KWS) |
 | 2026-07-18 | qualia-robotics/pi05-so101-candy-ba90eda5 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-so101-candy-ba90eda5) |
@@ -93,7 +93,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1415 | Rust | 566.1 | [link](https://github.com/copper-project/copper-rs) |
 | ros-claw/rosclaw | 168 | Python | 67.3 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63158 | Python | 25263.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63159 | Python | 25263.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15501 | C++ | 6200.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | DLR-RM/stable-baselines3 | 13585 | Python | 5434.1 | [link](https://github.com/DLR-RM/stable-baselines3) |
 | kornia/kornia | 11281 | Python | 4512.5 | [link](https://github.com/kornia/kornia) |

@@ -2,20 +2,20 @@
   {
     "model": "openbmb/MiniCPM-RobotManip",
     "downloads": 0,
-    "likes": 0,
+    "likes": 2,
     "url": "https://huggingface.co/openbmb/MiniCPM-RobotManip",
     "date": "2026-07-18",
     "keyword": "robot",
-    "score": 0.1
+    "score": 0.5
   },
   {
     "model": "openbmb/MiniCPM-RobotTrack",
     "downloads": 0,
-    "likes": 1,
+    "likes": 2,
     "url": "https://huggingface.co/openbmb/MiniCPM-RobotTrack",
     "date": "2026-07-18",
     "keyword": "robot",
-    "score": 0.3
+    "score": 0.5
   },
   {
     "model": "zolkin/robot_rl",
@@ -105,6 +105,15 @@
     "url": "https://huggingface.co/team-sobits/sobit_home_pickup_block_left_abs_vla_jepa_vlmlora",
     "date": "2026-07-18",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sasa2000/Hy-Embodied-VLM-1.0-Text-Only",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sasa2000/Hy-Embodied-VLM-1.0-Text-Only",
+    "date": "2026-07-18",
+    "keyword": "embodied",
     "score": 0.1
   },
   {
@@ -727,15 +736,6 @@
     "date": "2026-07-03",
     "keyword": "embodied",
     "score": 0.1
-  },
-  {
-    "model": "tencent/Hy-Embodied-0.5-VLA-UMI",
-    "downloads": 222,
-    "likes": 10,
-    "url": "https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI",
-    "date": "2026-07-01",
-    "keyword": "embodied",
-    "score": 68.7
   },
   {
     "model": "cy0307/ag-habitat-navigation",
