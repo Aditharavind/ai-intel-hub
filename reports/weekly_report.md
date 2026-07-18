@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-18 15:41 UTC
+Generated: 2026-07-18 16:40 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -23,11 +23,11 @@ Generated: 2026-07-18 15:41 UTC
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| Vladimirlv/ru-promptriever-qwen3-1.7b | 571 | 171.4 | [link](https://huggingface.co/Vladimirlv/ru-promptriever-qwen3-1.7b) |
 | zhijieq/directional-navigation | 412 | 123.7 | [link](https://huggingface.co/zhijieq/directional-navigation) |
 | SEU-PAISys/Embodied.cpp | 249 | 75.6 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 222 | 68.7 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
-| tencent/Hy-Embodied-RxBrain-1.0 | 159 | 55.4 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
+| tencent/Hy-Embodied-RxBrain-1.0 | 159 | 55.6 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
+| HarrisonPENG/M2W-VLA-RoboTwin | 182 | 54.7 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

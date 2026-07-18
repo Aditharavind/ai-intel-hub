@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-18 15:41 UTC
+Last Updated: 2026-07-18 16:40 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-18 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-07-18 | KavishkaD/Smart_Companion_Robot_Custom_KWS | 0 | 0 | [link](https://huggingface.co/KavishkaD/Smart_Companion_Robot_Custom_KWS) |
 | 2026-07-18 | qualia-robotics/pi05-so101-candy-ba90eda5 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-so101-candy-ba90eda5) |
 | 2026-07-18 | access-robotics-team/so-xv-pp-lightbox-6epc-260718 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-xv-pp-lightbox-6epc-260718) |
+| 2026-07-18 | siliconperception/VLA | 0 | 0 | [link](https://huggingface.co/siliconperception/VLA) |
 | 2026-07-18 | team-sobits/sobit_home_pickup_block_left_abs_vla_jepa_vlmlora | 0 | 0 | [link](https://huggingface.co/team-sobits/sobit_home_pickup_block_left_abs_vla_jepa_vlmlora) |
-| 2026-07-18 | tencent/Hy-Embodied-RxBrain-1.0 | 159 | 38 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
+| 2026-07-18 | tencent/Hy-Embodied-RxBrain-1.0 | 159 | 39 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
 | 2026-07-18 | uc-summer-2026-group-project/faq-policy-qa-bot | 0 | 0 | [link](https://huggingface.co/uc-summer-2026-group-project/faq-policy-qa-bot) |
 | 2026-07-18 | ChristianZ97/satp-policy-v2-alphaproof | 0 | 0 | [link](https://huggingface.co/ChristianZ97/satp-policy-v2-alphaproof) |
 | 2026-07-18 | Toji619/hr-policy-assistant-model | 0 | 0 | [link](https://huggingface.co/Toji619/hr-policy-assistant-model) |
-| 2026-07-18 | iny2020/policy_test2 | 0 | 0 | [link](https://huggingface.co/iny2020/policy_test2) |
-| 2026-07-18 | jogarulfop/policy_2026-07-17_shakeitup5_bench_accelero_10kHz_nfft_512 | 34 | 0 | [link](https://huggingface.co/jogarulfop/policy_2026-07-17_shakeitup5_bench_accelero_10kHz_nfft_512) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1415 | Rust | 566.1 | [link](https://github.com/copper-project/copper-rs) |
-| ros-claw/rosclaw | 166 | Python | 66.5 | [link](https://github.com/ros-claw/rosclaw) |
+| ros-claw/rosclaw | 168 | Python | 67.3 | [link](https://github.com/ros-claw/rosclaw) |
 | commaai/openpilot | 63158 | Python | 25263.3 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15496 | C++ | 6198.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| DLR-RM/stable-baselines3 | 13584 | Python | 5433.7 | [link](https://github.com/DLR-RM/stable-baselines3) |
-| kornia/kornia | 11279 | Python | 4511.7 | [link](https://github.com/kornia/kornia) |
+| ArduPilot/ardupilot | 15498 | C++ | 6199.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| DLR-RM/stable-baselines3 | 13585 | Python | 5434.1 | [link](https://github.com/DLR-RM/stable-baselines3) |
+| kornia/kornia | 11280 | Python | 4512.1 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7699 | Python | 3079.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3847 | Rust | 1538.9 | [link](https://github.com/dora-rs/dora) |
+| dora-rs/dora | 3848 | Rust | 1539.3 | [link](https://github.com/dora-rs/dora) |
 | huangjunsen0406/py-xiaozhi | 3412 | Python | 1364.9 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
-| datawhalechina/every-embodied | 2736 | Python | 1094.5 | [link](https://github.com/datawhalechina/every-embodied) |
+| datawhalechina/every-embodied | 2737 | Python | 1094.9 | [link](https://github.com/datawhalechina/every-embodied) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
