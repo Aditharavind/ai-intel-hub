@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-18 20:36 UTC
+Last Updated: 2026-07-18 21:37 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-18 | access-robotics-team/so-gr-pp-lightbox-260718 | 0 | 1 | [link](https://huggingface.co/access-robotics-team/so-gr-pp-lightbox-260718) |
 | 2026-07-18 | openbmb/MiniCPM-RobotManip | 0 | 2 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
 | 2026-07-18 | openbmb/MiniCPM-RobotTrack | 0 | 2 | [link](https://huggingface.co/openbmb/MiniCPM-RobotTrack) |
 | 2026-07-18 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-18 | Vladimirlv/ru-promptriever-qwen3-1.7b | 571 | 1 | [link](https://huggingface.co/Vladimirlv/ru-promptriever-qwen3-1.7b) |
 | 2026-07-18 | Vladimirlv/ru-promptriever-qwen3-4b | 0 | 1 | [link](https://huggingface.co/Vladimirlv/ru-promptriever-qwen3-4b) |
 | 2026-07-18 | ethanCSL/pi0fast_koch_pick_n_place_vla_steering_height_test2 | 0 | 0 | [link](https://huggingface.co/ethanCSL/pi0fast_koch_pick_n_place_vla_steering_height_test2) |
-| 2026-07-18 | Tianruifeng/so101-vla-jepa | 0 | 0 | [link](https://huggingface.co/Tianruifeng/so101-vla-jepa) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -114,7 +114,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE96eWxsYmNCREJOYTIxT0Z1VHdTbDhLMWpmZHBnemU2Zlp4Vm9aMWJzbi1EUmhvMGF2aXd3cnV5OW5ObElqeEl4S3p2UlVhdUY4SkFaeFg3b1haTEpZbm1uUnFxcnhYd3VLSG1QaWN6S1VFTFl5anc?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVI5UkdwUUJXOTgyeXZLWEE0c3psNUdOUGpMNlAzN25SV3Z5VXNweUJRU3pSNW1iZVhzdy1rZHpsaVdNQzdWUGlYR0RxSzhjNVJ2MU1OOEN5MGZTaUZ0MVhoRm4tc2h2S2otTmVCZ3NmdUd6UF9PZEd5eUlBdklCdVpZckFnRzNDcE41MUxiLWxhR2lOY1hwczBpU1k5UVlaajZWaThiamRCa3dYUDNROFFITQ?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSi1lU0xsc0oxUEJvLXgzZkdHVC12aTNoSWJlSS1CY000Z2NFWFU2ZV9ZTm1pbnpWMi1icmg0d09PdlZxM2dtYkxpYk1UanZ6VlVxV2JMNW9KaUZkOHY3V1FnSXRCNXN5VDRtOFJWeXhZZHoxdGMyY3J6ZzNoZnlCUGlnYWYwek9vUFpRNFhKVnp3YWxvMlg1eEwwRTN6dTVUSGNIUld4MlBpWmQwak9EaHBXTko?oc=5) |
-| 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lUmx3WFJSbmxfMHBZaUJuMUlmdW9zRDZJcDQ3MXdKRTZsX1YwcG5icWZZWXA4UXhvNUJVUml3OWk1NnRoOFluTUJ0VXZlNkJGVV9VNQ?oc=5) |
+| 2026-07-14 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1lDcHdOR0NGTm1DamhvY3NHYy1fTVc3WXQyMlAteTVOSjFzSm1zelpfeHVvR0VnMXN4WjBuMFRpZ04wdnhTNEsyeVBxdERCdmNFMHJ3V2VDX0VaeW1ZWEsxUGFmZlg4S0MwSEhkU19RUVNXV1Q3QXNrT0VWaE9jRkhDYWk2dWIteTBMLXBBYUxLN2dpM1VzcnhtcGVyRF9LRmh2ek9KYWI0Y00?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
