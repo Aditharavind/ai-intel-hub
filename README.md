@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-18 04:34 UTC
+Last Updated: 2026-07-18 06:50 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-18 | Flex Filament Stuck To Your Build Platform? Reach For The Isopropanol | Hackaday | [link](https://hackaday.com/2026/07/17/flex-filament-stuck-to-your-build-platform-reach-for-the-isopropanol/) |
 | 2026-07-18 | Using Solar Air Heating to Dry Clothes | Hackaday | [link](https://hackaday.com/2026/07/17/using-solar-air-heating-to-dry-clothes/) |
 | 2026-07-17 | How Octopuses Hacked their Ribosome to Become Smart | Hackaday | [link](https://hackaday.com/2026/07/17/how-octopuses-hacked-their-ribosome-to-become-smart/) |
 | 2026-07-17 | The BornHack 2026 Cyber Ægg Is A Badge With A Life Afterwards | Hackaday | [link](https://hackaday.com/2026/07/17/the-bornhack-2026-cyber-aegg-is-a-badge-with-a-life-afterwards/) |
 | 2026-07-17 | Hackaday Podcast Episode 378: C Coders, Ceramic Printers, and Shadow Archives | Hackaday | [link](https://hackaday.com/2026/07/17/hackaday-podcast-episode-378-c-coders-ceramic-printers-and-shadow-archives/) |
 | 2026-07-17 | MacSurf Hits 2.0 To Bring PowerPCs back Online | Hackaday | [link](https://hackaday.com/2026/07/17/macsurf-hits-2-0-to-bring-powerpcs-back-online/) |
 | 2026-07-17 | This Week in Security: Another Record Patch Tuesday, LAME is More Secure, Secure Boot is Less Secure, and Milk Malware | Hackaday | [link](https://hackaday.com/2026/07/17/this-week-in-security-another-record-patch-tuesday-lame-is-more-secure-secure-boot-is-less-secure-and-milk-malware/) |
-| 2026-07-17 | EU Adds Exemptions to User-Serviceable Batteries Rules | Hackaday | [link](https://hackaday.com/2026/07/17/eu-adds-exemptions-to-user-serviceable-batteries-rules/) |
 | 2026-07-17 | Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs | CNX Software | [link](https://www.cnx-software.com/2026/07/17/espressif-releases-sdk-for-aliro-smart-door-locks-based-on-esp32-c-or-esp32-h-socs/) |
 | 2026-07-17 | reCamera Pro “Open AI Camera” supports computer vision, LLM, VLM, STT, and TTS workloads | CNX Software | [link](https://www.cnx-software.com/2026/07/17/recamera-pro-open-ai-camera-supports-computer-vision-llm-vlm-stt-and-tts-workloads/) |
 | 2026-07-17 | The Protocol Wars in Factories, Nvidia's Thor Modules for Robotics and Edge AI, 'Mind of the Engineer' survey: Embedded Week Insights | Embedded.com | [link](https://www.embedded.com/the-protocol-wars-in-factories-nvidias-thor-modules-for-robotics-and-edge-ai-mind-of-the-engineer-survey-embedded-week-insights/) |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-18 | iny2020/policy_test2 | 0 | 0 | [link](https://huggingface.co/iny2020/policy_test2) |
+| 2026-07-18 | ChristianZ97/satp-policy-v2-alphaproof | 0 | 0 | [link](https://huggingface.co/ChristianZ97/satp-policy-v2-alphaproof) |
 | 2026-07-18 | jogarulfop/policy_2026-07-17_shakeitup5_bench_accelero_10kHz_nfft_512 | 0 | 0 | [link](https://huggingface.co/jogarulfop/policy_2026-07-17_shakeitup5_bench_accelero_10kHz_nfft_512) |
 | 2026-07-17 | access-robotics-team/so-sv-pp-lightbox-260718 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-sv-pp-lightbox-260718) |
 | 2026-07-17 | access-robotics-team/so-xv-pp-lightbox-260717 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-xv-pp-lightbox-260717) |
@@ -85,28 +87,26 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-17 | Dexmal/DM05-robotwin2 | 0 | 0 | [link](https://huggingface.co/Dexmal/DM05-robotwin2) |
 | 2026-07-17 | chomeed/board_insertion_ablation_sirius_pi05_no_robot_lora | 0 | 0 | [link](https://huggingface.co/chomeed/board_insertion_ablation_sirius_pi05_no_robot_lora) |
 | 2026-07-17 | access-robotics-team/xvla-openarm-fold-retry-merged-260716-10000 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/xvla-openarm-fold-retry-merged-260716-10000) |
-| 2026-07-17 | access-robotics-team/xvla-openarm-fold-retry-merged-260716-2500 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/xvla-openarm-fold-retry-merged-260716-2500) |
-| 2026-07-17 | chomeed/board_insertion_pi05_no_robot_lora_sirius_round2 | 0 | 0 | [link](https://huggingface.co/chomeed/board_insertion_pi05_no_robot_lora_sirius_round2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | ros-claw/rosclaw | 166 | Python | 66.5 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63149 | Python | 25259.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63151 | Python | 25260.5 | [link](https://github.com/commaai/openpilot) |
+| kornia/kornia | 11280 | Python | 4512.1 | [link](https://github.com/kornia/kornia) |
+| isaac-sim/IsaacLab | 7698 | Python | 3079.3 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3846 | Rust | 1538.5 | [link](https://github.com/dora-rs/dora) |
 | huangjunsen0406/py-xiaozhi | 3412 | Python | 1364.9 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
-| datawhalechina/every-embodied | 2728 | Python | 1091.3 | [link](https://github.com/datawhalechina/every-embodied) |
+| datawhalechina/every-embodied | 2730 | Python | 1092.1 | [link](https://github.com/datawhalechina/every-embodied) |
 | StanfordVL/BEHAVIOR-1K | 1579 | Python | 631.7 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| sou350121/VLA-Handbook | 401 | HTML | 160.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| sou350121/VLA-Handbook | 402 | HTML | 160.9 | [link](https://github.com/sou350121/VLA-Handbook) |
 | vllm-project/vllm-omni | 5611 | Python | 2244.5 | [link](https://github.com/vllm-project/vllm-omni) |
-| OpenHUTB/hutb | 536 | C++ | 214.5 | [link](https://github.com/OpenHUTB/hutb) |
-| copper-project/copper-rs | 1413 | Rust | 565.3 | [link](https://github.com/copper-project/copper-rs) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
-| 2026-07-17 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSjRmYjJZTjZQZEV6ZlA5dHRhZC1FeW1yNFVjQ0ZzUVUwajlrY2JkMHBLZFJoMnJKd2ZfYUctWE9hcmtJenZRbGlVTHpNRlhlYVBNLUYyLVZoS1hycjV3OUVabFVFZ1BBUFpiNzc2THBFT2g2V1BCeFlUSlNaU0hwSExYcVRtN21WckxjMUlYLUQyR3o0YzNQeXRGaFRTZG1tRndsa2xpcUxYaFd5bzdFUXY2aEZMLXBmOU4wS25TeFEyNGsyYk9FaGhjdnBlVVRETTZZN2s4ZnJvNkVmb2c?oc=5) |
 | 2026-07-17 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVHpkWEw4ZzI0LTJqRnotOGhDMy04eXFwU20tVTExNk53M1RVNlpqY3k2TkhWUEJsbUpxSV9od1FEV3JVaGhMSWU5azktVGNiWWVhdTg4TDlCTWx3cGlRR1dxbC1yendvZzlOZHFOakJia09EVG81U1gxZ05jRzNVLXlQakNKTnJXUkFFRDdsaFhpd3JiTmpNRWhja0M1QjNlMlJ2NThQRXhoeXZTd0o0cXZFaG1SNjA0WHlsUFdaQ3d1UUxiV0RhU0hXN0R2UnM1cC1YcFhtUExWM1lSTGNaSnRCN2xITXk1R3NyaUtLSHNmVG12azVCMEkzd0loLTQ?oc=5) |
+| 2026-07-17 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSjRmYjJZTjZQZEV6ZlA5dHRhZC1FeW1yNFVjQ0ZzUVUwajlrY2JkMHBLZFJoMnJKd2ZfYUctWE9hcmtJenZRbGlVTHpNRlhlYVBNLUYyLVZoS1hycjV3OUVabFVFZ1BBUFpiNzc2THBFT2g2V1BCeFlUSlNaU0hwSExYcVRtN21WckxjMUlYLUQyR3o0YzNQeXRGaFRTZG1tRndsa2xpcUxYaFd5bzdFUXY2aEZMLXBmOU4wS25TeFEyNGsyYk9FaGhjdnBlVVRETTZZN2s4ZnJvNkVmb2c?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUJvRFpqWVl4UHVLd1M0WTdsSEV0OTRLaWF6V0s2d2tvbTl0SVdzbHBEOE9VYmlkTXBWZ3BIMVkxYjBEMXhPdktmRHp3eXFtZG5paU50R1ZlRllEaWR5YWtpREVHWnJlRW9hY2RZWGpieU1LSmRuQXFNeXFoeE9KRzVtQXExUlFlNlk2anJUM3ZMYWZYV3BYV19uYXp0Zk1ZVFBzcURtYkpoc0x3OXdDN3M1WHNTYjgtNFE?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVDJGbnZjTHR6NWNyNG9MU3NaX21Tc2V6TE1qMzdCVl93bENOYXE2T21yMGhsd0taUHlrSEtqRTZPQzFSdEROTXdraTJzeHVaMzBaUGdNUFk1ZmQ3UnpuQ3dUYzF0T3JGQVFVTDF6S1ZlR0h1MHNzY1RRZlhtWUdmUC16YldxSFVpNVRXTVhPWldiRUc5VVJ4Uko3WWNTaFB3ZHkyVjBDNkk2eXh1WW1IX0t3VF9uN2o0dFVzUUExbW1ucU96Q0lueGpkWW0?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcFZhQVRoZ25LSnNPNDdkb1Y4NjRYTzhIZ3ctQWJpQVU5SkdUUkFuTG03TzJSZ3JPQVFVLTNnaUtudEhDcmZjcm03SFZiM1daamc1ZWxEVUppcFJhVTRhMG5lVlF5TWppVlM4ZTNHbkN6ckh4bUEyYS04RGxWZm9zYXpGcHBMOExPVzBValZrNVF0bFJFSGRYQVp0VmVPWjBBdkFpdktiQkhOX3ZTRkZTeTV3aWlCUFg2bGJaOThaQ0tNc1pqUEhTNjFJdTVnaXpNWnJNcHpJNDI?oc=5) |
