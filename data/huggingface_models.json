@@ -1,5 +1,23 @@
 [
   {
+    "model": "openbmb/MiniCPM-RobotManip",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/openbmb/MiniCPM-RobotManip",
+    "date": "2026-07-18",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "openbmb/MiniCPM-RobotTrack",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/openbmb/MiniCPM-RobotTrack",
+    "date": "2026-07-18",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
     "model": "zolkin/robot_rl",
     "downloads": 0,
     "likes": 1,
@@ -33,6 +51,33 @@
     "url": "https://huggingface.co/access-robotics-team/so-xv-pp-lightbox-6epc-260718",
     "date": "2026-07-18",
     "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "Vladimirlv/ru-promptriever-qwen3-1.7b",
+    "downloads": 571,
+    "likes": 1,
+    "url": "https://huggingface.co/Vladimirlv/ru-promptriever-qwen3-1.7b",
+    "date": "2026-07-18",
+    "keyword": "vla",
+    "score": 171.6
+  },
+  {
+    "model": "Vladimirlv/ru-promptriever-qwen3-4b",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/Vladimirlv/ru-promptriever-qwen3-4b",
+    "date": "2026-07-18",
+    "keyword": "vla",
+    "score": 0.3
+  },
+  {
+    "model": "ethanCSL/pi0fast_koch_pick_n_place_vla_steering_height_test2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ethanCSL/pi0fast_koch_pick_n_place_vla_steering_height_test2",
+    "date": "2026-07-18",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -74,11 +119,11 @@
   {
     "model": "schwp/my_policy",
     "downloads": 0,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/schwp/my_policy",
     "date": "2026-07-18",
     "keyword": "policy",
-    "score": 0.1
+    "score": 0.3
   },
   {
     "model": "uc-summer-2026-group-project/faq-policy-qa-bot",
@@ -178,24 +223,6 @@
     "date": "2026-07-17",
     "keyword": "robotics",
     "score": 3.4
-  },
-  {
-    "model": "access-robotics-team/xvla-openarm-fold-retry-merged-260716-2500",
-    "downloads": 8,
-    "likes": 0,
-    "url": "https://huggingface.co/access-robotics-team/xvla-openarm-fold-retry-merged-260716-2500",
-    "date": "2026-07-17",
-    "keyword": "robotics",
-    "score": 2.5
-  },
-  {
-    "model": "chomeed/board_insertion_pi05_no_robot_lora_sirius_round2",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/chomeed/board_insertion_pi05_no_robot_lora_sirius_round2",
-    "date": "2026-07-17",
-    "keyword": "robot",
-    "score": 2.8
   },
   {
     "model": "mertalbaba/humanoid-vla-checkpoints",
@@ -306,6 +333,15 @@
     "score": 10.6
   },
   {
+    "model": "access-robotics-team/xvla-openarm-fold-retry-merged-260716-2500",
+    "downloads": 8,
+    "likes": 0,
+    "url": "https://huggingface.co/access-robotics-team/xvla-openarm-fold-retry-merged-260716-2500",
+    "date": "2026-07-17",
+    "keyword": "robotics",
+    "score": 2.5
+  },
+  {
     "model": "qualia-robotics/ws1-sf-sf-10",
     "downloads": 0,
     "likes": 0,
@@ -387,33 +423,6 @@
     "score": 0.1
   },
   {
-    "model": "physicalai-bmi/nano-vla-pixels-dart",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/physicalai-bmi/nano-vla-pixels-dart",
-    "date": "2026-07-16",
-    "keyword": "physical ai",
-    "score": 0.1
-  },
-  {
-    "model": "Mohamedd123321/Arabizi_Checkpoints_vlast",
-    "downloads": 38,
-    "likes": 0,
-    "url": "https://huggingface.co/Mohamedd123321/Arabizi_Checkpoints_vlast",
-    "date": "2026-07-16",
-    "keyword": "vla",
-    "score": 11.5
-  },
-  {
-    "model": "InternRobotics/VLAC-Cut",
-    "downloads": 68,
-    "likes": 0,
-    "url": "https://huggingface.co/InternRobotics/VLAC-Cut",
-    "date": "2026-07-16",
-    "keyword": "vla",
-    "score": 20.5
-  },
-  {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-full-epoch3",
     "downloads": 33,
     "likes": 0,
@@ -466,6 +475,15 @@
     "date": "2026-07-16",
     "keyword": "world model",
     "score": 10.9
+  },
+  {
+    "model": "physicalai-bmi/nano-vla-pixels-dart",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/physicalai-bmi/nano-vla-pixels-dart",
+    "date": "2026-07-16",
+    "keyword": "physical ai",
+    "score": 0.1
   },
   {
     "model": "physicalai-bmi/nano-world-model-multi",

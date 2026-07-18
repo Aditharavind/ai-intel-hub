@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-18 18:40 UTC
+Last Updated: 2026-07-18 19:56 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,16 +77,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-18 | openbmb/MiniCPM-RobotManip | 0 | 0 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
+| 2026-07-18 | openbmb/MiniCPM-RobotTrack | 0 | 1 | [link](https://huggingface.co/openbmb/MiniCPM-RobotTrack) |
 | 2026-07-18 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-07-18 | KavishkaD/Smart_Companion_Robot_Custom_KWS | 0 | 0 | [link](https://huggingface.co/KavishkaD/Smart_Companion_Robot_Custom_KWS) |
 | 2026-07-18 | qualia-robotics/pi05-so101-candy-ba90eda5 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-so101-candy-ba90eda5) |
 | 2026-07-18 | access-robotics-team/so-xv-pp-lightbox-6epc-260718 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-xv-pp-lightbox-6epc-260718) |
+| 2026-07-18 | Vladimirlv/ru-promptriever-qwen3-1.7b | 571 | 1 | [link](https://huggingface.co/Vladimirlv/ru-promptriever-qwen3-1.7b) |
+| 2026-07-18 | Vladimirlv/ru-promptriever-qwen3-4b | 0 | 1 | [link](https://huggingface.co/Vladimirlv/ru-promptriever-qwen3-4b) |
+| 2026-07-18 | ethanCSL/pi0fast_koch_pick_n_place_vla_steering_height_test2 | 0 | 0 | [link](https://huggingface.co/ethanCSL/pi0fast_koch_pick_n_place_vla_steering_height_test2) |
 | 2026-07-18 | Tianruifeng/so101-vla-jepa | 0 | 0 | [link](https://huggingface.co/Tianruifeng/so101-vla-jepa) |
-| 2026-07-18 | siliconperception/VLA | 0 | 0 | [link](https://huggingface.co/siliconperception/VLA) |
-| 2026-07-18 | team-sobits/sobit_home_pickup_block_left_abs_vla_jepa_vlmlora | 0 | 0 | [link](https://huggingface.co/team-sobits/sobit_home_pickup_block_left_abs_vla_jepa_vlmlora) |
-| 2026-07-18 | tencent/Hy-Embodied-RxBrain-1.0 | 159 | 39 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
-| 2026-07-18 | schwp/my_policy | 0 | 0 | [link](https://huggingface.co/schwp/my_policy) |
-| 2026-07-18 | uc-summer-2026-group-project/faq-policy-qa-bot | 0 | 0 | [link](https://huggingface.co/uc-summer-2026-group-project/faq-policy-qa-bot) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -98,7 +98,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | DLR-RM/stable-baselines3 | 13585 | Python | 5434.1 | [link](https://github.com/DLR-RM/stable-baselines3) |
 | kornia/kornia | 11281 | Python | 4512.5 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7699 | Python | 3079.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3848 | Rust | 1539.3 | [link](https://github.com/dora-rs/dora) |
+| dora-rs/dora | 3843 | Rust | 1537.3 | [link](https://github.com/dora-rs/dora) |
 | huangjunsen0406/py-xiaozhi | 3413 | Python | 1365.3 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
 | datawhalechina/every-embodied | 2737 | Python | 1094.9 | [link](https://github.com/datawhalechina/every-embodied) |
 
