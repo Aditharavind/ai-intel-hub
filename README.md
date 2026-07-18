@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-18 17:44 UTC
+Last Updated: 2026-07-18 18:40 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -56,9 +56,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-18 | Flex Filament Stuck To Your Build Platform? Reach For The Isopropanol | Hackaday | [link](https://hackaday.com/2026/07/17/flex-filament-stuck-to-your-build-platform-reach-for-the-isopropanol/) |
 | 2026-07-18 | Using Solar Air Heating to Dry Clothes | Hackaday | [link](https://hackaday.com/2026/07/17/using-solar-air-heating-to-dry-clothes/) |
 | 2026-07-18 | M5Stack Core2 gets open-source firmware to reproduce OpenAI’s Codex Micro features | CNX Software | [link](https://www.cnx-software.com/2026/07/18/m5stack-core2-gets-open-source-firmware-to-reproduce-openais-codex-micro-features/) |
+| 2026-07-18 | From The Archives: MagTag Kitchen Timer | Adafruit | [link](https://blog.adafruit.com/2026/07/18/from-the-archives-magtag-kitchen-timer/) |
 | 2026-07-18 | Sci-Fi Nuclear Core Battery Lamp | Adafruit | [link](https://blog.adafruit.com/2026/07/18/sci-fi-nuclear-core-battery-lamp/) |
 | 2026-07-17 | How Octopuses Hacked their Ribosome to Become Smart | Hackaday | [link](https://hackaday.com/2026/07/17/how-octopuses-hacked-their-ribosome-to-become-smart/) |
-| 2026-07-17 | Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs | CNX Software | [link](https://www.cnx-software.com/2026/07/17/espressif-releases-sdk-for-aliro-smart-door-locks-based-on-esp32-c-or-esp32-h-socs/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -85,8 +85,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-18 | siliconperception/VLA | 0 | 0 | [link](https://huggingface.co/siliconperception/VLA) |
 | 2026-07-18 | team-sobits/sobit_home_pickup_block_left_abs_vla_jepa_vlmlora | 0 | 0 | [link](https://huggingface.co/team-sobits/sobit_home_pickup_block_left_abs_vla_jepa_vlmlora) |
 | 2026-07-18 | tencent/Hy-Embodied-RxBrain-1.0 | 159 | 39 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
+| 2026-07-18 | schwp/my_policy | 0 | 0 | [link](https://huggingface.co/schwp/my_policy) |
 | 2026-07-18 | uc-summer-2026-group-project/faq-policy-qa-bot | 0 | 0 | [link](https://huggingface.co/uc-summer-2026-group-project/faq-policy-qa-bot) |
-| 2026-07-18 | ChristianZ97/satp-policy-v2-alphaproof | 0 | 0 | [link](https://huggingface.co/ChristianZ97/satp-policy-v2-alphaproof) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,7 +94,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1415 | Rust | 566.1 | [link](https://github.com/copper-project/copper-rs) |
 | ros-claw/rosclaw | 168 | Python | 67.3 | [link](https://github.com/ros-claw/rosclaw) |
 | commaai/openpilot | 63158 | Python | 25263.3 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15499 | C++ | 6199.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15501 | C++ | 6200.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | DLR-RM/stable-baselines3 | 13585 | Python | 5434.1 | [link](https://github.com/DLR-RM/stable-baselines3) |
 | kornia/kornia | 11281 | Python | 4512.5 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7699 | Python | 3079.7 | [link](https://github.com/isaac-sim/IsaacLab) |
