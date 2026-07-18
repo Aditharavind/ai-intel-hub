@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-18 11:41 UTC
+Last Updated: 2026-07-18 12:41 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-18 | Palm Garden AI develops Coherence Guard relational decision layer for human-facing robots | Robotics Business Review | [link](https://www.therobotreport.com/palm-garden-ai-develops-coherence-guard-relational-decision-layer-human-facing-robots/) |
 | 2026-07-17 | With new funding, Monumental plans to bring its construction robots to the U.S. | Robotics Business Review | [link](https://www.therobotreport.com/with-new-funding-monumental-plans-bring-construction-robots-u-s/) |
 | 2026-07-17 | Video Friday: Your Robot Surgeon Will See You Now | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robotic-surgery) |
 | 2026-07-17 | Weave Robotics launches Isaac, its first mobile humanoid robot | Robotics Business Review | [link](https://www.therobotreport.com/weave-robotics-launches-isaac-first-mobile-humanoid-robot/) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | Xpanner rolls out X1 Panel Lift for automated solar panel installation | Robotics Business Review | [link](https://www.therobotreport.com/xpanner-rolls-out-x1-panel-lift-automated-solar-panel-installation/) |
 | 2026-07-16 | How to Make an Invisible Drone | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/invisible-spinning-drone) |
 | 2026-07-16 | TerraFirma raises $115M to build robotic infrastructure for construction | Robotics Business Review | [link](https://www.therobotreport.com/terrafirma-raises-115m-build-robotic-infrastructure-construction/) |
-| 2026-07-15 | Agility outlines six recommendations for U.S. humanoid robot policies | Robotics Business Review | [link](https://www.therobotreport.com/agility-outlines-six-recommendations-for-u-s-humanoid-robot-policies/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -92,13 +92,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | ros-claw/rosclaw | 166 | Python | 66.5 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63152 | Python | 25260.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63155 | Python | 25262.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15495 | C++ | 6198.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11279 | Python | 4511.7 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7700 | Python | 3080.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3846 | Rust | 1538.5 | [link](https://github.com/dora-rs/dora) |
 | huangjunsen0406/py-xiaozhi | 3412 | Python | 1364.9 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
-| datawhalechina/every-embodied | 2734 | Python | 1093.7 | [link](https://github.com/datawhalechina/every-embodied) |
+| datawhalechina/every-embodied | 2735 | Python | 1094.1 | [link](https://github.com/datawhalechina/every-embodied) |
 | StanfordVL/BEHAVIOR-1K | 1579 | Python | 631.7 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | flashrt-project/FlashRT | 434 | C++ | 173.7 | [link](https://github.com/flashrt-project/FlashRT) |
 
