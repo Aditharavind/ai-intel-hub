@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-18 10:06 UTC
+Last Updated: 2026-07-18 11:41 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-18 | Spidery Drone Goes Near-invisible By Spinning Really, Really Fast | Hackaday | [link](https://hackaday.com/2026/07/18/spidery-drone-goes-near-invisible-by-spinning-really-really-fast/) |
 | 2026-07-18 | Cross-Sectioning Crickets with a Femtosecond Laser | Hackaday | [link](https://hackaday.com/2026/07/18/cross-sectioning-crickets-with-a-femtosecond-laser/) |
 | 2026-07-18 | Flex Filament Stuck To Your Build Platform? Reach For The Isopropanol | Hackaday | [link](https://hackaday.com/2026/07/17/flex-filament-stuck-to-your-build-platform-reach-for-the-isopropanol/) |
 | 2026-07-18 | Using Solar Air Heating to Dry Clothes | Hackaday | [link](https://hackaday.com/2026/07/17/using-solar-air-heating-to-dry-clothes/) |
@@ -56,7 +57,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-17 | How Octopuses Hacked their Ribosome to Become Smart | Hackaday | [link](https://hackaday.com/2026/07/17/how-octopuses-hacked-their-ribosome-to-become-smart/) |
 | 2026-07-17 | The BornHack 2026 Cyber Ægg Is A Badge With A Life Afterwards | Hackaday | [link](https://hackaday.com/2026/07/17/the-bornhack-2026-cyber-aegg-is-a-badge-with-a-life-afterwards/) |
 | 2026-07-17 | Hackaday Podcast Episode 378: C Coders, Ceramic Printers, and Shadow Archives | Hackaday | [link](https://hackaday.com/2026/07/17/hackaday-podcast-episode-378-c-coders-ceramic-printers-and-shadow-archives/) |
-| 2026-07-17 | MacSurf Hits 2.0 To Bring PowerPCs back Online | Hackaday | [link](https://hackaday.com/2026/07/17/macsurf-hits-2-0-to-bring-powerpcs-back-online/) |
 | 2026-07-17 | Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs | CNX Software | [link](https://www.cnx-software.com/2026/07/17/espressif-releases-sdk-for-aliro-smart-door-locks-based-on-esp32-c-or-esp32-h-socs/) |
 | 2026-07-17 | reCamera Pro “Open AI Camera” supports computer vision, LLM, VLM, STT, and TTS workloads | CNX Software | [link](https://www.cnx-software.com/2026/07/17/recamera-pro-open-ai-camera-supports-computer-vision-llm-vlm-stt-and-tts-workloads/) |
 
@@ -79,7 +79,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-07-18 | access-robotics-team/so-xv-pp-lightbox-6epc-260718 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-xv-pp-lightbox-6epc-260718) |
 | 2026-07-18 | team-sobits/sobit_home_pickup_block_left_abs_vla_jepa_vlmlora | 0 | 0 | [link](https://huggingface.co/team-sobits/sobit_home_pickup_block_left_abs_vla_jepa_vlmlora) |
-| 2026-07-18 | tencent/Hy-Embodied-RxBrain-1.0 | 159 | 37 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
+| 2026-07-18 | tencent/Hy-Embodied-RxBrain-1.0 | 159 | 38 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
 | 2026-07-18 | Toji619/hr-policy-assistant-model | 0 | 0 | [link](https://huggingface.co/Toji619/hr-policy-assistant-model) |
 | 2026-07-18 | iny2020/policy_test2 | 0 | 0 | [link](https://huggingface.co/iny2020/policy_test2) |
 | 2026-07-18 | ChristianZ97/satp-policy-v2-alphaproof | 0 | 0 | [link](https://huggingface.co/ChristianZ97/satp-policy-v2-alphaproof) |
@@ -92,13 +92,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | ros-claw/rosclaw | 166 | Python | 66.5 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63150 | Python | 25260.1 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15494 | C++ | 6197.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 63152 | Python | 25260.9 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15495 | C++ | 6198.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11279 | Python | 4511.7 | [link](https://github.com/kornia/kornia) |
-| isaac-sim/IsaacLab | 7698 | Python | 3079.3 | [link](https://github.com/isaac-sim/IsaacLab) |
+| isaac-sim/IsaacLab | 7700 | Python | 3080.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3846 | Rust | 1538.5 | [link](https://github.com/dora-rs/dora) |
 | huangjunsen0406/py-xiaozhi | 3412 | Python | 1364.9 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
-| datawhalechina/every-embodied | 2732 | Python | 1092.9 | [link](https://github.com/datawhalechina/every-embodied) |
+| datawhalechina/every-embodied | 2734 | Python | 1093.7 | [link](https://github.com/datawhalechina/every-embodied) |
 | StanfordVL/BEHAVIOR-1K | 1579 | Python | 631.7 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | flashrt-project/FlashRT | 434 | C++ | 173.7 | [link](https://github.com/flashrt-project/FlashRT) |
 

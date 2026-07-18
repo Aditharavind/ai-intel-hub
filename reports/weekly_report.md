@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-18 10:06 UTC
+Generated: 2026-07-18 11:41 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,8 +14,8 @@ Generated: 2026-07-18 10:06 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82497 | 32998.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63150 | 25260.1 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82496 | 32998.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63152 | 25260.9 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44248 | 17699.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30074 | 12029.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16028 | 6411.3 | [link](https://github.com/zauberzeug/nicegui) |
@@ -27,7 +27,7 @@ Generated: 2026-07-18 10:06 UTC
 | zhijieq/directional-navigation | 412 | 123.7 | [link](https://huggingface.co/zhijieq/directional-navigation) |
 | SEU-PAISys/Embodied.cpp | 249 | 75.6 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
 | tencent/Hy-Embodied-0.5-VLA-UMI | 222 | 68.7 | [link](https://huggingface.co/tencent/Hy-Embodied-0.5-VLA-UMI) |
-| tencent/Hy-Embodied-RxBrain-1.0 | 159 | 55.2 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
+| tencent/Hy-Embodied-RxBrain-1.0 | 159 | 55.4 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
