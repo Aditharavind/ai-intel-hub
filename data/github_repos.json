@@ -20,6 +20,16 @@
     "score": 25260.5
   },
   {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15494,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-07-18",
+    "topic": "robotics",
+    "score": 6197.7
+  },
+  {
     "repo": "kornia/kornia",
     "stars": 11280,
     "language": "Python",
@@ -61,13 +71,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2730,
+    "stars": 2732,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-07-18",
     "topic": "embodied-ai",
-    "score": 1092.1
+    "score": 1092.9
   },
   {
     "repo": "StanfordVL/BEHAVIOR-1K",
@@ -90,14 +100,24 @@
     "score": 160.9
   },
   {
+    "repo": "luohongk/Embodied-AI-Daily",
+    "stars": 380,
+    "language": "HTML",
+    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
+    "url": "https://github.com/luohongk/Embodied-AI-Daily",
+    "date": "2026-07-18",
+    "topic": "vla",
+    "score": 152.1
+  },
+  {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5611,
+    "stars": 5612,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-18",
     "topic": "world-model",
-    "score": 2244.5
+    "score": 2244.9
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -111,13 +131,13 @@
   },
   {
     "repo": "copper-project/copper-rs",
-    "stars": 1413,
+    "stars": 1414,
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
     "date": "2026-07-17",
     "topic": "physical-ai",
-    "score": 565.3
+    "score": 565.7
   },
   {
     "repo": "mosaico-labs/mosaico",
@@ -148,16 +168,6 @@
     "date": "2026-07-17",
     "topic": "physical-ai",
     "score": 74.5
-  },
-  {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15493,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-07-17",
-    "topic": "robotics",
-    "score": 6197.3
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -191,33 +201,23 @@
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
-    "stars": 840,
+    "stars": 841,
     "language": "Python",
     "description": "Unified Codebase for Advanced World Models.",
     "url": "https://github.com/OpenDCAI/OpenWorldLib",
     "date": "2026-07-17",
     "topic": "world-model",
-    "score": 336.1
+    "score": 336.5
   },
   {
     "repo": "flashrt-project/FlashRT",
-    "stars": 433,
+    "stars": 434,
     "language": "C++",
     "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
     "url": "https://github.com/flashrt-project/FlashRT",
     "date": "2026-07-17",
     "topic": "vla",
-    "score": 173.3
-  },
-  {
-    "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 379,
-    "language": "HTML",
-    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
-    "url": "https://github.com/luohongk/Embodied-AI-Daily",
-    "date": "2026-07-17",
-    "topic": "vla",
-    "score": 151.7
+    "score": 173.7
   },
   {
     "repo": "amazon-far/abc",
@@ -491,13 +491,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 8254,
+    "stars": 8256,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 3301.7
+    "score": 3302.5
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -581,13 +581,13 @@
   },
   {
     "repo": "nik-55/world-models",
-    "stars": 214,
+    "stars": 215,
     "language": "",
     "description": "A curated list of research and projects on world models",
     "url": "https://github.com/nik-55/world-models",
     "date": "2026-07-06",
     "topic": "physical-ai",
-    "score": 85.7
+    "score": 86.1
   },
   {
     "repo": "OpenDriveLab/RISE",
@@ -651,13 +651,13 @@
   },
   {
     "repo": "abizovnuralem/go2_omniverse",
-    "stars": 1046,
+    "stars": 1047,
     "language": "Python",
     "description": "Unitree Go2, Unitree G1 support for Nvidia Isaac Lab (Isaac Gym / Isaac Sim)",
     "url": "https://github.com/abizovnuralem/go2_omniverse",
     "date": "2026-07-01",
     "topic": "robot-learning",
-    "score": 418.5
+    "score": 418.9
   },
   {
     "repo": "Peter-cuhk/robot-data-studio",
@@ -841,13 +841,13 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13578,
+    "stars": 13579,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-06-19",
     "topic": "robotics",
-    "score": 5431.3
+    "score": 5431.7
   },
   {
     "repo": "VinRobotics/vinrobotics_mjlab",

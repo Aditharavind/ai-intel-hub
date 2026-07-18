@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-18 06:50 UTC
+Last Updated: 2026-07-18 08:28 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-18 | Cross-Sectioning Crickets with a Femtosecond Laser | Hackaday | [link](https://hackaday.com/2026/07/18/cross-sectioning-crickets-with-a-femtosecond-laser/) |
 | 2026-07-18 | Flex Filament Stuck To Your Build Platform? Reach For The Isopropanol | Hackaday | [link](https://hackaday.com/2026/07/17/flex-filament-stuck-to-your-build-platform-reach-for-the-isopropanol/) |
 | 2026-07-18 | Using Solar Air Heating to Dry Clothes | Hackaday | [link](https://hackaday.com/2026/07/17/using-solar-air-heating-to-dry-clothes/) |
+| 2026-07-18 | M5Stack Core2 gets open-source firmware to reproduce OpenAI’s Codex Micro features | CNX Software | [link](https://www.cnx-software.com/2026/07/18/m5stack-core2-gets-open-source-firmware-to-reproduce-openais-codex-micro-features/) |
 | 2026-07-17 | How Octopuses Hacked their Ribosome to Become Smart | Hackaday | [link](https://hackaday.com/2026/07/17/how-octopuses-hacked-their-ribosome-to-become-smart/) |
 | 2026-07-17 | The BornHack 2026 Cyber Ægg Is A Badge With A Life Afterwards | Hackaday | [link](https://hackaday.com/2026/07/17/the-bornhack-2026-cyber-aegg-is-a-badge-with-a-life-afterwards/) |
 | 2026-07-17 | Hackaday Podcast Episode 378: C Coders, Ceramic Printers, and Shadow Archives | Hackaday | [link](https://hackaday.com/2026/07/17/hackaday-podcast-episode-378-c-coders-ceramic-printers-and-shadow-archives/) |
 | 2026-07-17 | MacSurf Hits 2.0 To Bring PowerPCs back Online | Hackaday | [link](https://hackaday.com/2026/07/17/macsurf-hits-2-0-to-bring-powerpcs-back-online/) |
-| 2026-07-17 | This Week in Security: Another Record Patch Tuesday, LAME is More Secure, Secure Boot is Less Secure, and Milk Malware | Hackaday | [link](https://hackaday.com/2026/07/17/this-week-in-security-another-record-patch-tuesday-lame-is-more-secure-secure-boot-is-less-secure-and-milk-malware/) |
 | 2026-07-17 | Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs | CNX Software | [link](https://www.cnx-software.com/2026/07/17/espressif-releases-sdk-for-aliro-smart-door-locks-based-on-esp32-c-or-esp32-h-socs/) |
 | 2026-07-17 | reCamera Pro “Open AI Camera” supports computer vision, LLM, VLM, STT, and TTS workloads | CNX Software | [link](https://www.cnx-software.com/2026/07/17/recamera-pro-open-ai-camera-supports-computer-vision-llm-vlm-stt-and-tts-workloads/) |
-| 2026-07-17 | The Protocol Wars in Factories, Nvidia's Thor Modules for Robotics and Edge AI, 'Mind of the Engineer' survey: Embedded Week Insights | Embedded.com | [link](https://www.embedded.com/the-protocol-wars-in-factories-nvidias-thor-modules-for-robotics-and-edge-ai-mind-of-the-engineer-survey-embedded-week-insights/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-18 | access-robotics-team/so-xv-pp-lightbox-6epc-260718 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-xv-pp-lightbox-6epc-260718) |
+| 2026-07-18 | Toji619/hr-policy-assistant-model | 0 | 0 | [link](https://huggingface.co/Toji619/hr-policy-assistant-model) |
 | 2026-07-18 | iny2020/policy_test2 | 0 | 0 | [link](https://huggingface.co/iny2020/policy_test2) |
 | 2026-07-18 | ChristianZ97/satp-policy-v2-alphaproof | 0 | 0 | [link](https://huggingface.co/ChristianZ97/satp-policy-v2-alphaproof) |
-| 2026-07-18 | jogarulfop/policy_2026-07-17_shakeitup5_bench_accelero_10kHz_nfft_512 | 0 | 0 | [link](https://huggingface.co/jogarulfop/policy_2026-07-17_shakeitup5_bench_accelero_10kHz_nfft_512) |
-| 2026-07-17 | access-robotics-team/so-sv-pp-lightbox-260718 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-sv-pp-lightbox-260718) |
-| 2026-07-17 | access-robotics-team/so-xv-pp-lightbox-260717 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-xv-pp-lightbox-260717) |
+| 2026-07-18 | jogarulfop/policy_2026-07-17_shakeitup5_bench_accelero_10kHz_nfft_512 | 34 | 0 | [link](https://huggingface.co/jogarulfop/policy_2026-07-17_shakeitup5_bench_accelero_10kHz_nfft_512) |
+| 2026-07-17 | access-robotics-team/so-sv-pp-lightbox-260718 | 32 | 0 | [link](https://huggingface.co/access-robotics-team/so-sv-pp-lightbox-260718) |
+| 2026-07-17 | access-robotics-team/so-xv-pp-lightbox-260717 | 16 | 0 | [link](https://huggingface.co/access-robotics-team/so-xv-pp-lightbox-260717) |
 | 2026-07-17 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
-| 2026-07-17 | HarrisonPENG/M2W-VLA-RoboTwin | 169 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
-| 2026-07-17 | Dexmal/DM05-robotwin2 | 0 | 0 | [link](https://huggingface.co/Dexmal/DM05-robotwin2) |
-| 2026-07-17 | chomeed/board_insertion_ablation_sirius_pi05_no_robot_lora | 0 | 0 | [link](https://huggingface.co/chomeed/board_insertion_ablation_sirius_pi05_no_robot_lora) |
-| 2026-07-17 | access-robotics-team/xvla-openarm-fold-retry-merged-260716-10000 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/xvla-openarm-fold-retry-merged-260716-10000) |
+| 2026-07-17 | HarrisonPENG/M2W-VLA-RoboTwin | 182 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
+| 2026-07-17 | Dexmal/DM05-robotwin2 | 28 | 0 | [link](https://huggingface.co/Dexmal/DM05-robotwin2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | ros-claw/rosclaw | 166 | Python | 66.5 | [link](https://github.com/ros-claw/rosclaw) |
 | commaai/openpilot | 63151 | Python | 25260.5 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15494 | C++ | 6197.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11280 | Python | 4512.1 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7698 | Python | 3079.3 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3846 | Rust | 1538.5 | [link](https://github.com/dora-rs/dora) |
 | huangjunsen0406/py-xiaozhi | 3412 | Python | 1364.9 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
-| datawhalechina/every-embodied | 2730 | Python | 1092.1 | [link](https://github.com/datawhalechina/every-embodied) |
+| datawhalechina/every-embodied | 2732 | Python | 1092.9 | [link](https://github.com/datawhalechina/every-embodied) |
 | StanfordVL/BEHAVIOR-1K | 1579 | Python | 631.7 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | sou350121/VLA-Handbook | 402 | HTML | 160.9 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5611 | Python | 2244.5 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,16 +119,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-18 | Control robots with your thoughts: Chinese startup unveils world’s 1st ‘brain-to-robot’ platform - The Indian Express | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdXBQV1pwQUd6NzVBeUhNR2N4a3RzUkdTS3lMRE5PNjdxZ3hmVjllQkxhS3BlU2Q2ajBaN2dXd0lDVzZ5Z1FCdTcxeHlWVXJ2djhkMDg4ZmMyNUNxY3B4YW5lTjhrTVdTZU41aTFQN0NjaTRIeUJlTFRDaE5fVC14NWQwb3hLYzlHRnNtZ3FwY0ZhT25GWV9NU2hHVEE5VEQ1SWUydW9jaHVFcm9Yb05vRWI1UktoQklUOUo3RjcyenM0V1VQa3RNUGxkb0ROaFAzM1Rr0gHaAUFVX3lxTE5UM1pUSkRpY21BR3B5WVlDZjlZQnhhNHZHWURlRHZuX2NSTjVnMlhXMHB0NEM1VWM3UUZ6ZzFUeEU0aTVEUHNsaTlEU2xuMk8zQW5iNVJkZ0IzZ2g0TVhpTEZVMk5McHJEUl9VN0steFJXVzMzd0dTZmcweHdBWXhOdk5CQm45ZHNPV3Y2MDNhcmkyZlViR2J5QWNiMzBuQXpiemNEQjJsWmtVSTZUSVJvQ2w5RFhqX2R2cy0zZHphQWNjNGxTRUV5MFhFd0pRRHQ1NWtPWENTOEZ3?oc=5) |
 | 2026-07-17 | Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates - AI Business | physical ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWjhLZDRiMHREdlV0ejZyUVVPeHptdndKOUlZR3p4LTloNU45NjU5b2diekZyVDhUekx2TW9uVXRNaWVyMTZyeGotNUZYOUVSSVhjMWpBTHM3RU81RkhSbi1WeDgzeXZIM2dnMGVoQWoxTUtHTG9Dbk4zWktmLUVkdVM2cC0wQ1E?oc=5) |
 | 2026-07-17 | Top 50 AI/Embodied AI Companies Most Favored by Investors in 2026 Unveiled - 36 Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LWTVHRVU3OGd2bHhYdC1uR2NEVHlkd1RPVlZOVEhGNE9PWkgtaEFIei1wRFBCVWZGV3pORUtYeFNJaVdmMFVMWG5PT25reXFTZGJn?oc=5) |
+| 2026-07-17 | A Japanese Robotics Startup Looks Ahead to the Humanoid Age - tokyoupdates.metro.tokyo.lg.jp | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxMlF0aVBuQWJCNDRDMUJQd3V6bXI3N3BpeGRKall1aUJvM3JOY1NxY0JDQ182a1NQLS1GN0VPSmhHVkpFVldhLW9aZUpNSWJ0M2hJb2E1cjhaalR6X1I3ZlNGQ0tkdGM?oc=5) |
 | 2026-07-16 | Espoo-based Hyperion Robotics raises €6.4 million to bring physical AI to European infrastructure - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHdrSk9NanhQVEpEcmNNQnBpVmtoSC1vdEMtRGtzSFlFVGhIb3EydFdwVjEtZUpRQWIwdEdxM3JJQXNEbW9zUUhFMDdvUm5GS1NKMEdXcFRSNkVRc3dKUk1YRFJUSVdfd25TU0sxYUV6UVd0SGp2ZXFEOHFuRE9NSVF0MnpHNmVoWTVFSDEzQmJtNFUwWl8xbzhSbkVHQ29yUnR3R3M0RXlVMWNvZjMzM3pydmViNHZSYnFBTjg3UmJ1VWNGYkxIWTZYSWJUdTQ?oc=5) |
 | 2026-07-16 | Physical AI Startup SwitchOn Raises $8 Mn To Scale Manufacturing Inspection - Inc42 | physical ai startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUE5tOHpFaS1LbnpHT2pfeERLSnNKZUJkTlFhRHI1ak1TcktTM3NhcV9fbVBIVHc2Q3ItMTJiSzVxT1JTb3JZcFVDd1NyenJobUdJTF9la1lKb09uSVpuQWRwSWpLT3MwRDZvS1FXZm4xNXRub1U1M29KdjJwbWk2Zk1wN2R1RVBIUmxva3FORmxOUTVKR2FkRUF3eXRYUDg?oc=5) |
 | 2026-07-16 | Physical AI startup SwitchOn raises $8 Mn in pre-Series B round led by IvyCap - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFNndzVySEc0UmNLMl84TGRSVlRIb2RwZ3Jkb2w1V2Iwbm9IRkRhVkY2N3hWLWZBYkRMRFJ5Tlpya2tmMEFkZHJIUXdkN214S1NXMGVDNEdtZ2FRdWtpc3hKRUhVek1tTXUtRVEzT2Jna1Y0cEhTdm9lcFVOOGhsbUxYUXRlMW1BNjdEVkt1eGZTX2R6eXBYZjF6UmNhZ2FvNmRxWkRwTVVLc25iOEdURdIBsAFBVV95cUxQUFNndzVySEc0UmNLMl84TGRSVlRIb2RwZ3Jkb2w1V2Iwbm9IRkRhVkY2N3hWLWZBYkRMRFJ5Tlpya2tmMEFkZHJIUXdkN214S1NXMGVDNEdtZ2FRdWtpc3hKRUhVek1tTXUtRVEzT2Jna1Y0cEhTdm9lcFVOOGhsbUxYUXRlMW1BNjdEVkt1eGZTX2R6eXBYZjF6UmNhZ2FvNmRxWkRwTVVLc25iOEdURQ?oc=5) |
+| 2026-07-16 | AMI Labs Builds World Models for Physical AI Robots - 조선일보 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUG5teDJGZFZvU1RpY2Z1S2pxX21NMk1RTUFuN19TS05fVWpRUG5wY0YtV0pjZk85cGZkck93dVJMU0RrWXY4VjhYVUNmUjRQT2pCeHJxbEtCRXVPeUFidHNLUUVBckhsUVFFVDFMWnNXNlFXcnktaWtrZnp3UWdiZEEzRkYzWkw0?oc=5) |
 | 2026-07-16 | Tencent Cloud partners with robot AI startup RoboScience - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1NhdDZHeDY3Zkk3ekZGbjJsV0p6OWVzYnFJYUs1Q1NhU2hlT3N4YUIzMkpfMFllaE9TaXI5NzNqSkZUT01kVW0xMXlPSDJVVnNuOXYtNG9rVmVaRFZNLTMxRkJFQU9Dem41YmtBWHowUEhfUmNHcHc5dXFXUkV2bGZTZDNoMXlKc1Qw?oc=5) |
 | 2026-07-15 | NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry - NVIDIA Blog | physical ai startup | [link](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xNjhTZDM1ajhCSnliWTA4aXM4bkQ3dzhZMnFNUzkxS3NxU3dDdWpRQlh0N1BPUHRURVZFU1BtQU04T3QzQnVLR3lOaE9WZnhwMUUwcmVTRGtmUlFGQ1hoYw?oc=5) |
-| 2026-07-15 | Stealthy Toyota spinout gets one of Boston area’s biggest robotics deals ever - The Boston Globe | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcFZIdlJKenhTblVlUWZyaHZrSHo0MXFVNWQ5Wmg0S280R3FRckhMSHdCVWhkWlpSTGszY0JENm81TXBCX1JNbEdqbjVFYjJmR1QxSlhuYUd1UjdaSFdBY1ZiWmNOTTJoLVNJV3FfS2RLSk9KYWhHbnJNa3MwNXFLX0p2aFJnYjV2YmtuZ1NjV0dadHBM?oc=5) |
-| 2026-07-15 | Shenzhen Professor Robot Startup LimX Dynamics Hits $2.3B Valuation With $200M Pre-IPO Round - Pandaily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMib0FVX3lxTFBWeGtEdmh5N29waGU0MlFsM3BHWjlBTXdPMjUyQ1RydHNmTlQzX1BCUnF0bU4zSlI0amM4QmttNlFCUWdpU3dzUVdmV2hlQ1pkUVc2ZGQ2aWpHU2hUS1JQUmZkRGZ4NW5zYkhYdGtBYw?oc=5) |
-| 2026-07-14 | 'Listing is a must': Chinese humanoid startups are rushing to launch IPOs - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjNZV3Q0Y1k0N1pSZFpUQzZ1ZS1OeUpqa09VTm44TWJBSG1ReWZfY1ZwMnRLNTB3NF9DOVQ1MXIwSkI1Zms1a21yT0lLT0hTZXBldUxZWHJFWHpTRENWcXlSVTVCakFXamhLNWZkajlNd1p2MmtWU1ZhUmItMUNkVzlid09zZ9IBiwFBVV95cUxQUkI1aGFUdGU3T3o5Xy1TckFfNllaeGN2UTlVMFBDd2tfTzJOd1JUaFo1WTlmZXJTSmtOSFp4cUVZLXcxMUxhd0xCZlFxV1Z3Q3BzQVlfTElrZUdRQk9KMHdOU3ZCTDJYR21Ld0NmcVBLYkh1NnlfX1pZVWRNMXJhT3lpOG9pWUV4UXhN?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
