@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-18 21:37 UTC
+Last Updated: 2026-07-18 22:35 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -93,14 +93,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1415 | Rust | 566.1 | [link](https://github.com/copper-project/copper-rs) |
 | ros-claw/rosclaw | 168 | Python | 67.3 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63159 | Python | 25263.7 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15501 | C++ | 6200.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| arpitg1304/forge | 158 | Python | 63.3 | [link](https://github.com/arpitg1304/forge) |
+| commaai/openpilot | 63161 | Python | 25264.5 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15502 | C++ | 6200.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | DLR-RM/stable-baselines3 | 13585 | Python | 5434.1 | [link](https://github.com/DLR-RM/stable-baselines3) |
 | kornia/kornia | 11281 | Python | 4512.5 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7699 | Python | 3079.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3843 | Rust | 1537.3 | [link](https://github.com/dora-rs/dora) |
 | huangjunsen0406/py-xiaozhi | 3413 | Python | 1365.3 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
-| datawhalechina/every-embodied | 2737 | Python | 1094.9 | [link](https://github.com/datawhalechina/every-embodied) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
