@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-19 22:37 UTC
+Last Updated: 2026-07-19 23:43 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-19 | Hackaday Links: July 19, 2026 | Hackaday | [link](https://hackaday.com/2026/07/19/hackaday-links-july-19-2026/) |
 | 2026-07-19 | Automated Pressure Advance Using a Bed-Leveling Sensor | Hackaday | [link](https://hackaday.com/2026/07/19/automated-pressure-advance-using-a-bed-leveling-sensor/) |
 | 2026-07-19 | Recycling Laptops and iMacs Makes PC Building Fun and Affordable Again | Hackaday | [link](https://hackaday.com/2026/07/19/recycling-laptops-and-imacs-makes-pc-building-fun-and-affordable-again/) |
 | 2026-07-19 | Remembering the Zilog Z80 as it Turns Fifty Years Old | Hackaday | [link](https://hackaday.com/2026/07/19/remembering-the-zilog-z80-as-it-turns-fifty-years-old/) |
 | 2026-07-19 | QT6 brings BASIC to the Web Browser, or Your Computer | Hackaday | [link](https://hackaday.com/2026/07/19/qt6-brings-basic-to-the-web-browser-or-your-computer/) |
 | 2026-07-19 | A Pop-Up Truck Camper for Less | Hackaday | [link](https://hackaday.com/2026/07/19/a-pop-up-truck-camper-for-less/) |
 | 2026-07-19 | Open-Source Mid-Drive e-Bike Motor Has Lots of Promise, and Hyphens | Hackaday | [link](https://hackaday.com/2026/07/18/open-source-mid-drive-e-bike-motor-has-lots-of-promise-and-hyphens/) |
-| 2026-07-19 | Write 2D and 3D Games in Modern MoonBASIC | Hackaday | [link](https://hackaday.com/2026/07/18/write-2d-and-3d-games-in-modern-moonbasic/) |
 | 2026-07-19 | Beelink EQi 304 review – Part 3: Ubuntu 26.04 on a Wildcat Lake mini PC | CNX Software | [link](https://www.cnx-software.com/2026/07/19/beelink-eqi-304-review-part-3-ubuntu-26-04-on-a-wildcat-lake-mini-pc/) |
 | 2026-07-19 | The Existence of an Atmosphere Surrounding an Earth-like Planet | Adafruit | [link](https://blog.adafruit.com/2026/07/19/the-existence-of-an-atmosphere-surrounding-an-earth-like-planet/) |
 | 2026-07-19 | Adafruit Weekly Editorial Round Up: Pool Noodle Numchucks, Demofruit Rotozoom, & more! | Adafruit | [link](https://blog.adafruit.com/2026/07/19/adafruit-weekly-editorial-round-up-pool-noodle-numchucks-demofruit-rotozoom-more/) |
@@ -93,7 +93,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | arpitg1304/forge | 158 | Python | 63.3 | [link](https://github.com/arpitg1304/forge) |
 | commaai/openpilot | 63165 | Python | 25266.1 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15507 | C++ | 6202.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15508 | C++ | 6203.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14259 | C++ | 5703.7 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11282 | Python | 4512.9 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11143 | Rust | 4457.3 | [link](https://github.com/rerun-io/rerun) |
