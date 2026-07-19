@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-19 17:44 UTC
+Generated: 2026-07-19 18:43 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,7 +14,7 @@ Generated: 2026-07-19 17:44 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82507 | 33002.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82508 | 33003.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63164 | 25265.7 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44253 | 17701.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30076 | 12030.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
@@ -45,4 +45,4 @@ Generated: 2026-07-19 17:44 UTC
 | 2026-07-18 | Eric Trump Is Building An Army Of Humanoid Robot Soldiers - Kotaku | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxQRlBUNWxaUTduMndhODhhV1VzVm9jSVRmZ2JvakNiekVQQ1hoOHZzemZHUlFaVFVzM1dmaUM1NEttRkhpVFZrZExDZHhDbHFsSm8xcnlob0Z5MWFHZnl4dTlHU2g3Z0daSUluc3c2ai1kM3J5YUV4ZHdrUUIyUFFzaDNsRWRhN3A4RTI4VWdBRDQ?oc=5) |
 | 2026-07-17 | Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates - AI Business | physical ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWjhLZDRiMHREdlV0ejZyUVVPeHptdndKOUlZR3p4LTloNU45NjU5b2diekZyVDhUekx2TW9uVXRNaWVyMTZyeGotNUZYOUVSSVhjMWpBTHM3RU81RkhSbi1WeDgzeXZIM2dnMGVoQWoxTUtHTG9Dbk4zWktmLUVkdVM2cC0wQ1E?oc=5) |
 | 2026-07-17 | Top 50 AI/Embodied AI Companies Most Favored by Investors in 2026 Unveiled - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LWTVHRVU3OGd2bHhYdC1uR2NEVHlkd1RPVlZOVEhGNE9PWkgtaEFIei1wRFBCVWZGV3pORUtYeFNJaVdmMFVMWG5PT25reXFTZGJn?oc=5) |
-| 2026-07-17 | A Japanese Robotics Startup Looks Ahead to the Humanoid Age - tokyoupdates.metro.tokyo.lg.jp | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxMlF0aVBuQWJCNDRDMUJQd3V6bXI3N3BpeGRKall1aUJvM3JOY1NxY0JDQ182a1NQLS1GN0VPSmhHVkpFVldhLW9aZUpNSWJ0M2hJb2E1cjhaalR6X1I3ZlNGQ0tkdGM?oc=5) |
+| 2026-07-17 | A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War - WIRED | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWE3T3hOTUFjc3NIbmZMRHJHRlpWTGs4RWM1QmFQM3dSVGswOWRRbzl5Vzl4OExJOWUxMlFUNEt2NjA5VFVEanZQanpmOHQ1NG04M3E4TDhaS3dMam1fYXVtUFRSTHBCZGdkckw4WmpDVUhIMHB4VzhuYjZ6ZFVKYUpMWVBTSHNfaklMQWlWMV9PRXNfWVE?oc=5) |

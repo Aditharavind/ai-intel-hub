@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-19 17:44 UTC
+Last Updated: 2026-07-19 18:43 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -56,9 +56,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-19 | Open-Source Mid-Drive e-Bike Motor Has Lots of Promise, and Hyphens | Hackaday | [link](https://hackaday.com/2026/07/18/open-source-mid-drive-e-bike-motor-has-lots-of-promise-and-hyphens/) |
 | 2026-07-19 | Write 2D and 3D Games in Modern MoonBASIC | Hackaday | [link](https://hackaday.com/2026/07/18/write-2d-and-3d-games-in-modern-moonbasic/) |
 | 2026-07-19 | Beelink EQi 304 review – Part 3: Ubuntu 26.04 on a Wildcat Lake mini PC | CNX Software | [link](https://www.cnx-software.com/2026/07/19/beelink-eqi-304-review-part-3-ubuntu-26-04-on-a-wildcat-lake-mini-pc/) |
+| 2026-07-19 | E-Ink Typewriter | Adafruit | [link](https://blog.adafruit.com/2026/07/19/e-ink-typewriter/) |
 | 2026-07-19 | The Python on Microcontrollers Newsletter: subscribe for free | Adafruit | [link](https://blog.adafruit.com/2026/07/19/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-19/) |
 | 2026-07-19 | Adafruit New Products 7/15/2026 | Adafruit | [link](https://blog.adafruit.com/2026/07/18/adafruit-new-products-7-15-2026/) |
-| 2026-07-18 | Your AI Ham Radio Buddy | Hackaday | [link](https://hackaday.com/2026/07/18/your-ai-ham-radio-buddy/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -97,7 +97,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | google-deepmind/mujoco | 14257 | C++ | 5702.9 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11282 | Python | 4512.9 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11143 | Rust | 4457.3 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7702 | Python | 3080.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| isaac-sim/IsaacLab | 7703 | Python | 3081.3 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4166 | Python | 1666.5 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3845 | Rust | 1538.1 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 2744 | Python | 1097.7 | [link](https://github.com/datawhalechina/every-embodied) |
@@ -123,12 +123,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-18 | Eric Trump Is Building An Army Of Humanoid Robot Soldiers - Kotaku | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxQRlBUNWxaUTduMndhODhhV1VzVm9jSVRmZ2JvakNiekVQQ1hoOHZzemZHUlFaVFVzM1dmaUM1NEttRkhpVFZrZExDZHhDbHFsSm8xcnlob0Z5MWFHZnl4dTlHU2g3Z0daSUluc3c2ai1kM3J5YUV4ZHdrUUIyUFFzaDNsRWRhN3A4RTI4VWdBRDQ?oc=5) |
 | 2026-07-17 | Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates - AI Business | physical ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWjhLZDRiMHREdlV0ejZyUVVPeHptdndKOUlZR3p4LTloNU45NjU5b2diekZyVDhUekx2TW9uVXRNaWVyMTZyeGotNUZYOUVSSVhjMWpBTHM3RU81RkhSbi1WeDgzeXZIM2dnMGVoQWoxTUtHTG9Dbk4zWktmLUVkdVM2cC0wQ1E?oc=5) |
 | 2026-07-17 | Top 50 AI/Embodied AI Companies Most Favored by Investors in 2026 Unveiled - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LWTVHRVU3OGd2bHhYdC1uR2NEVHlkd1RPVlZOVEhGNE9PWkgtaEFIei1wRFBCVWZGV3pORUtYeFNJaVdmMFVMWG5PT25reXFTZGJn?oc=5) |
+| 2026-07-17 | A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War - WIRED | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWE3T3hOTUFjc3NIbmZMRHJHRlpWTGs4RWM1QmFQM3dSVGswOWRRbzl5Vzl4OExJOWUxMlFUNEt2NjA5VFVEanZQanpmOHQ1NG04M3E4TDhaS3dMam1fYXVtUFRSTHBCZGdkckw4WmpDVUhIMHB4VzhuYjZ6ZFVKYUpMWVBTSHNfaklMQWlWMV9PRXNfWVE?oc=5) |
 | 2026-07-17 | A Japanese Robotics Startup Looks Ahead to the Humanoid Age - tokyoupdates.metro.tokyo.lg.jp | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxMlF0aVBuQWJCNDRDMUJQd3V6bXI3N3BpeGRKall1aUJvM3JOY1NxY0JDQ182a1NQLS1GN0VPSmhHVkpFVldhLW9aZUpNSWJ0M2hJb2E1cjhaalR6X1I3ZlNGQ0tkdGM?oc=5) |
 | 2026-07-16 | The East Bay hunts for its own AI startup boom with plenty of space to offer - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxObUVZNXkzazhiZmZuQ3FxWXczY0dQVXdET2RQV3VVZW1Ubm9uSlJxdTJYUWY4eTM4WTFyWC1kU0gyZU1YQXA5T2RSVmhGbHl0dThpRjdIYm1hWFZLcVE1em9PNDRCSUpNTEVsYUVBU1RjNjN5U2wxTEdwTHhuT213UVk3UTRGX0JBMl9YVHhDRUNOZk8xMU9PU1ZjdWgyalNTRVMxX1dLaUsteE5tQXc?oc=5) |
 | 2026-07-16 | Espoo-based Hyperion Robotics raises €6.4 million to bring physical AI to European infrastructure - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHdrSk9NanhQVEpEcmNNQnBpVmtoSC1vdEMtRGtzSFlFVGhIb3EydFdwVjEtZUpRQWIwdEdxM3JJQXNEbW9zUUhFMDdvUm5GS1NKMEdXcFRSNkVRc3dKUk1YRFJUSVdfd25TU0sxYUV6UVd0SGp2ZXFEOHFuRE9NSVF0MnpHNmVoWTVFSDEzQmJtNFUwWl8xbzhSbkVHQ29yUnR3R3M0RXlVMWNvZjMzM3pydmViNHZSYnFBTjg3UmJ1VWNGYkxIWTZYSWJUdTQ?oc=5) |
 | 2026-07-16 | Physical AI Startup SwitchOn Raises $8 Mn To Scale Manufacturing Inspection - Inc42 | physical ai startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUE5tOHpFaS1LbnpHT2pfeERLSnNKZUJkTlFhRHI1ak1TcktTM3NhcV9fbVBIVHc2Q3ItMTJiSzVxT1JTb3JZcFVDd1NyenJobUdJTF9la1lKb09uSVpuQWRwSWpLT3MwRDZvS1FXZm4xNXRub1U1M29KdjJwbWk2Zk1wN2R1RVBIUmxva3FORmxOUTVKR2FkRUF3eXRYUDg?oc=5) |
 | 2026-07-16 | Physical AI startup SwitchOn raises $8 Mn in pre-Series B round led by IvyCap - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFNndzVySEc0UmNLMl84TGRSVlRIb2RwZ3Jkb2w1V2Iwbm9IRkRhVkY2N3hWLWZBYkRMRFJ5Tlpya2tmMEFkZHJIUXdkN214S1NXMGVDNEdtZ2FRdWtpc3hKRUhVek1tTXUtRVEzT2Jna1Y0cEhTdm9lcFVOOGhsbUxYUXRlMW1BNjdEVkt1eGZTX2R6eXBYZjF6UmNhZ2FvNmRxWkRwTVVLc25iOEdURdIBsAFBVV95cUxQUFNndzVySEc0UmNLMl84TGRSVlRIb2RwZ3Jkb2w1V2Iwbm9IRkRhVkY2N3hWLWZBYkRMRFJ5Tlpya2tmMEFkZHJIUXdkN214S1NXMGVDNEdtZ2FRdWtpc3hKRUhVek1tTXUtRVEzT2Jna1Y0cEhTdm9lcFVOOGhsbUxYUXRlMW1BNjdEVkt1eGZTX2R6eXBYZjF6UmNhZ2FvNmRxWkRwTVVLc25iOEdURQ?oc=5) |
-| 2026-07-16 | Tencent Cloud partners with robot AI startup RoboScience - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1NhdDZHeDY3Zkk3ekZGbjJsV0p6OWVzYnFJYUs1Q1NhU2hlT3N4YUIzMkpfMFllaE9TaXI5NzNqSkZUT01kVW0xMXlPSDJVVnNuOXYtNG9rVmVaRFZNLTMxRkJFQU9Dem41YmtBWHowUEhfUmNHcHc5dXFXUkV2bGZTZDNoMXlKc1Qw?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
