@@ -1,5 +1,14 @@
 [
   {
+    "model": "qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c",
+    "date": "2026-07-19",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "openbmb/MiniCPM-RobotTrack",
     "downloads": 0,
     "likes": 7,
@@ -81,12 +90,39 @@
     "score": 0.1
   },
   {
+    "model": "SEU-PAISys/Embodied.cpp",
+    "downloads": 252,
+    "likes": 4,
+    "url": "https://huggingface.co/SEU-PAISys/Embodied.cpp",
+    "date": "2026-07-19",
+    "keyword": "embodied",
+    "score": 76.5
+  },
+  {
     "model": "physicalairi/molmoact2-line-transfer",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/physicalairi/molmoact2-line-transfer",
     "date": "2026-07-19",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "flowxai/policydetect",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/flowxai/policydetect",
+    "date": "2026-07-19",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "naumoo/act_policy_naumoo123",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/naumoo/act_policy_naumoo123",
+    "date": "2026-07-19",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -180,15 +216,6 @@
     "score": 8.5
   },
   {
-    "model": "access-robotics-team/so-xv-pp-lightbox-6epc-260718",
-    "downloads": 34,
-    "likes": 0,
-    "url": "https://huggingface.co/access-robotics-team/so-xv-pp-lightbox-6epc-260718",
-    "date": "2026-07-18",
-    "keyword": "robotics",
-    "score": 10.3
-  },
-  {
     "model": "Vladimirlv/ru-promptriever-qwen3-1.7b",
     "downloads": 571,
     "likes": 1,
@@ -270,15 +297,6 @@
     "score": 0.1
   },
   {
-    "model": "schwp/my_policy",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/schwp/my_policy",
-    "date": "2026-07-18",
-    "keyword": "policy",
-    "score": 0.3
-  },
-  {
     "model": "ChristianZ97/satp-policy-v2-alphaproof",
     "downloads": 0,
     "likes": 0,
@@ -306,13 +324,13 @@
     "score": 8.8
   },
   {
-    "model": "jogarulfop/policy_2026-07-17_shakeitup5_bench_accelero_10kHz_nfft_512",
-    "downloads": 36,
+    "model": "access-robotics-team/so-xv-pp-lightbox-6epc-260718",
+    "downloads": 34,
     "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-07-17_shakeitup5_bench_accelero_10kHz_nfft_512",
+    "url": "https://huggingface.co/access-robotics-team/so-xv-pp-lightbox-6epc-260718",
     "date": "2026-07-18",
-    "keyword": "policy",
-    "score": 10.9
+    "keyword": "robotics",
+    "score": 10.3
   },
   {
     "model": "mertalbaba/humanoid-vla-checkpoints",
@@ -439,15 +457,6 @@
     "date": "2026-07-17",
     "keyword": "robotics",
     "score": 1.0
-  },
-  {
-    "model": "access-robotics-team/bioa-p5-fold-retry-merged-260716-20000",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/access-robotics-team/bioa-p5-fold-retry-merged-260716-20000",
-    "date": "2026-07-17",
-    "keyword": "robotics",
-    "score": 0.7
   },
   {
     "model": "zwan1003/pickplace_skills_vla_v2_cont",
@@ -673,15 +682,6 @@
     "date": "2026-07-13",
     "keyword": "embodied",
     "score": 0.1
-  },
-  {
-    "model": "SEU-PAISys/Embodied.cpp",
-    "downloads": 252,
-    "likes": 4,
-    "url": "https://huggingface.co/SEU-PAISys/Embodied.cpp",
-    "date": "2026-07-13",
-    "keyword": "embodied",
-    "score": 76.5
   },
   {
     "model": "physicalai-bmi/nano-world-model",

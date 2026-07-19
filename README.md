@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-19 09:40 UTC
+Last Updated: 2026-07-19 11:02 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-19 | QT6 brings BASIC to the Web Browser, or Your Computer | Hackaday | [link](https://hackaday.com/2026/07/19/qt6-brings-basic-to-the-web-browser-or-your-computer/) |
 | 2026-07-19 | A Pop-Up Truck Camper for Less | Hackaday | [link](https://hackaday.com/2026/07/19/a-pop-up-truck-camper-for-less/) |
 | 2026-07-19 | Open-Source Mid-Drive e-Bike Motor Has Lots of Promise, and Hyphens | Hackaday | [link](https://hackaday.com/2026/07/18/open-source-mid-drive-e-bike-motor-has-lots-of-promise-and-hyphens/) |
 | 2026-07-19 | Write 2D and 3D Games in Modern MoonBASIC | Hackaday | [link](https://hackaday.com/2026/07/18/write-2d-and-3d-games-in-modern-moonbasic/) |
+| 2026-07-19 | Beelink EQi 304 review – Part 3: Ubuntu 26.04 on a Wildcat Lake mini PC | CNX Software | [link](https://www.cnx-software.com/2026/07/19/beelink-eqi-304-review-part-3-ubuntu-26-04-on-a-wildcat-lake-mini-pc/) |
 | 2026-07-19 | The Python on Microcontrollers Newsletter: subscribe for free | Adafruit | [link](https://blog.adafruit.com/2026/07/19/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-19/) |
 | 2026-07-19 | Adafruit New Products 7/15/2026 | Adafruit | [link](https://blog.adafruit.com/2026/07/18/adafruit-new-products-7-15-2026/) |
 | 2026-07-18 | Your AI Ham Radio Buddy | Hackaday | [link](https://hackaday.com/2026/07/18/your-ai-ham-radio-buddy/) |
 | 2026-07-18 | Calculator UI Is More Complex Than You Might Think | Hackaday | [link](https://hackaday.com/2026/07/18/calculator-ui-is-more-complex-than-you-might-think/) |
 | 2026-07-18 | ESP32-driven Roulette Wheel Could Have Used a 555, but That Didn’t have WiFi | Hackaday | [link](https://hackaday.com/2026/07/18/esp32-driven-roulette-wheel-could-have-used-a-555-but-that-didnt-have-wifi/) |
-| 2026-07-18 | Simple Games from a Simpler Time | Hackaday | [link](https://hackaday.com/2026/07/18/simple-games-from-a-simpler-time/) |
-| 2026-07-18 | M5Stack Core2 gets open-source firmware to reproduce OpenAI’s Codex Micro features | CNX Software | [link](https://www.cnx-software.com/2026/07/18/m5stack-core2-gets-open-source-firmware-to-reproduce-openais-codex-micro-features/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-19 | qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c) |
 | 2026-07-19 | openbmb/MiniCPM-RobotTrack | 0 | 7 | [link](https://huggingface.co/openbmb/MiniCPM-RobotTrack) |
 | 2026-07-19 | openbmb/MiniCPM-RobotManip | 0 | 7 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
 | 2026-07-19 | qualia-robotics/act-g1-final-cleaned-bf751369 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/act-g1-final-cleaned-bf751369) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-19 | SakikoTogawa/pi0_robotwin_lora-place_object_scale-100-himaconpp_repo | 0 | 1 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_object_scale-100-himaconpp_repo) |
 | 2026-07-19 | HarrisonPENG/vla-jepa-put-mango | 0 | 0 | [link](https://huggingface.co/HarrisonPENG/vla-jepa-put-mango) |
 | 2026-07-19 | zwan1003/pickplace_skills_vla_v3 | 0 | 0 | [link](https://huggingface.co/zwan1003/pickplace_skills_vla_v3) |
-| 2026-07-19 | physicalairi/molmoact2-line-transfer | 0 | 0 | [link](https://huggingface.co/physicalairi/molmoact2-line-transfer) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -95,9 +95,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | ArduPilot/ardupilot | 15505 | C++ | 6202.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11281 | Python | 4512.5 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7701 | Python | 3080.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4161 | Python | 1664.5 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 4163 | Python | 1665.3 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3844 | Rust | 1537.7 | [link](https://github.com/dora-rs/dora) |
-| datawhalechina/every-embodied | 2738 | Python | 1095.3 | [link](https://github.com/datawhalechina/every-embodied) |
+| datawhalechina/every-embodied | 2741 | Python | 1096.5 | [link](https://github.com/datawhalechina/every-embodied) |
 | flashrt-project/FlashRT | 434 | C++ | 173.7 | [link](https://github.com/flashrt-project/FlashRT) |
 | sou350121/VLA-Handbook | 404 | HTML | 161.7 | [link](https://github.com/sou350121/VLA-Handbook) |
 | vllm-project/vllm-omni | 5614 | Python | 2245.7 | [link](https://github.com/vllm-project/vllm-omni) |
