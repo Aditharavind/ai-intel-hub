@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-19 19:59 UTC
+Last Updated: 2026-07-19 20:43 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-19 | Automated Pressure Advance Using a Bed-Leveling Sensor | Hackaday | [link](https://hackaday.com/2026/07/19/automated-pressure-advance-using-a-bed-leveling-sensor/) |
 | 2026-07-19 | Recycling Laptops and iMacs Makes PC Building Fun and Affordable Again | Hackaday | [link](https://hackaday.com/2026/07/19/recycling-laptops-and-imacs-makes-pc-building-fun-and-affordable-again/) |
 | 2026-07-19 | Remembering the Zilog Z80 as it Turns Fifty Years Old | Hackaday | [link](https://hackaday.com/2026/07/19/remembering-the-zilog-z80-as-it-turns-fifty-years-old/) |
 | 2026-07-19 | QT6 brings BASIC to the Web Browser, or Your Computer | Hackaday | [link](https://hackaday.com/2026/07/19/qt6-brings-basic-to-the-web-browser-or-your-computer/) |
@@ -56,9 +57,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-19 | Open-Source Mid-Drive e-Bike Motor Has Lots of Promise, and Hyphens | Hackaday | [link](https://hackaday.com/2026/07/18/open-source-mid-drive-e-bike-motor-has-lots-of-promise-and-hyphens/) |
 | 2026-07-19 | Write 2D and 3D Games in Modern MoonBASIC | Hackaday | [link](https://hackaday.com/2026/07/18/write-2d-and-3d-games-in-modern-moonbasic/) |
 | 2026-07-19 | Beelink EQi 304 review – Part 3: Ubuntu 26.04 on a Wildcat Lake mini PC | CNX Software | [link](https://www.cnx-software.com/2026/07/19/beelink-eqi-304-review-part-3-ubuntu-26-04-on-a-wildcat-lake-mini-pc/) |
+| 2026-07-19 | The Existence of an Atmosphere Surrounding an Earth-like Planet | Adafruit | [link](https://blog.adafruit.com/2026/07/19/the-existence-of-an-atmosphere-surrounding-an-earth-like-planet/) |
 | 2026-07-19 | Adafruit Weekly Editorial Round Up: Pool Noodle Numchucks, Demofruit Rotozoom, & more! | Adafruit | [link](https://blog.adafruit.com/2026/07/19/adafruit-weekly-editorial-round-up-pool-noodle-numchucks-demofruit-rotozoom-more/) |
-| 2026-07-19 | E-Ink Typewriter | Adafruit | [link](https://blog.adafruit.com/2026/07/19/e-ink-typewriter/) |
-| 2026-07-19 | The Python on Microcontrollers Newsletter: subscribe for free | Adafruit | [link](https://blog.adafruit.com/2026/07/19/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-19/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-19 | qualia-robotics/pi05-b601-dm-icehockey-v1-72e6d068 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-b601-dm-icehockey-v1-72e6d068) |
 | 2026-07-19 | masternodedata1/pollen-robotics-reachy-mini.hf.space | 0 | 0 | [link](https://huggingface.co/masternodedata1/pollen-robotics-reachy-mini.hf.space) |
 | 2026-07-19 | OpenWAM/Pretrained_OpenWAM_RoboTwin_Full_SFT | 0 | 0 | [link](https://huggingface.co/OpenWAM/Pretrained_OpenWAM_RoboTwin_Full_SFT) |
 | 2026-07-19 | JackieMM/RoboTwin-pi05-30000-checkpoints | 0 | 0 | [link](https://huggingface.co/JackieMM/RoboTwin-pi05-30000-checkpoints) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-19 | qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c) |
 | 2026-07-19 | openbmb/MiniCPM-RobotTrack | 0 | 10 | [link](https://huggingface.co/openbmb/MiniCPM-RobotTrack) |
 | 2026-07-19 | openbmb/MiniCPM-RobotManip | 0 | 12 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
-| 2026-07-19 | qualia-robotics/act-g1-final-cleaned-bf751369 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/act-g1-final-cleaned-bf751369) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
