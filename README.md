@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-19 11:02 UTC
+Last Updated: 2026-07-19 12:43 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-19 | How to avoid the teleoperation trap in robotics development | Robotics Business Review | [link](https://www.therobotreport.com/how-to-avoid-teleoperation-trap-robotics-development/) |
 | 2026-07-18 | Palm Garden AI develops Coherence Guard relational decision layer for human-facing robots | Robotics Business Review | [link](https://www.therobotreport.com/palm-garden-ai-develops-coherence-guard-relational-decision-layer-human-facing-robots/) |
 | 2026-07-17 | With new funding, Monumental plans to bring its construction robots to the U.S. | Robotics Business Review | [link](https://www.therobotreport.com/with-new-funding-monumental-plans-bring-construction-robots-u-s/) |
 | 2026-07-17 | Video Friday: Your Robot Surgeon Will See You Now | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robotic-surgery) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | Lockheed Martin taps Machina’s robots for mission-critical missile parts | Robotics Business Review | [link](https://www.therobotreport.com/lockheed-martin-taps-machinas-robots-for-mission-critical-missile-parts/) |
 | 2026-07-16 | Xpanner rolls out X1 Panel Lift for automated solar panel installation | Robotics Business Review | [link](https://www.therobotreport.com/xpanner-rolls-out-x1-panel-lift-automated-solar-panel-installation/) |
 | 2026-07-16 | How to Make an Invisible Drone | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/invisible-spinning-drone) |
-| 2026-07-16 | TerraFirma raises $115M to build robotic infrastructure for construction | Robotics Business Review | [link](https://www.therobotreport.com/terrafirma-raises-115m-build-robotic-infrastructure-construction/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -78,7 +78,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-19 | qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c) |
-| 2026-07-19 | openbmb/MiniCPM-RobotTrack | 0 | 7 | [link](https://huggingface.co/openbmb/MiniCPM-RobotTrack) |
+| 2026-07-19 | openbmb/MiniCPM-RobotTrack | 0 | 8 | [link](https://huggingface.co/openbmb/MiniCPM-RobotTrack) |
 | 2026-07-19 | openbmb/MiniCPM-RobotManip | 0 | 7 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
 | 2026-07-19 | qualia-robotics/act-g1-final-cleaned-bf751369 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/act-g1-final-cleaned-bf751369) |
 | 2026-07-19 | SakikoTogawa/pi0_robotwin_lora-stamp_seal-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-stamp_seal-100-himaconpp_repo) |
@@ -96,11 +96,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | kornia/kornia | 11281 | Python | 4512.5 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7701 | Python | 3080.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4163 | Python | 1665.3 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3844 | Rust | 1537.7 | [link](https://github.com/dora-rs/dora) |
-| datawhalechina/every-embodied | 2741 | Python | 1096.5 | [link](https://github.com/datawhalechina/every-embodied) |
+| dora-rs/dora | 3845 | Rust | 1538.1 | [link](https://github.com/dora-rs/dora) |
+| datawhalechina/every-embodied | 2743 | Python | 1097.3 | [link](https://github.com/datawhalechina/every-embodied) |
 | flashrt-project/FlashRT | 434 | C++ | 173.7 | [link](https://github.com/flashrt-project/FlashRT) |
 | sou350121/VLA-Handbook | 404 | HTML | 161.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5614 | Python | 2245.7 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 5616 | Python | 2246.5 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
