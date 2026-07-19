@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-19 01:14 UTC
+Last Updated: 2026-07-19 04:56 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-19 | Write 2D and 3D Games in Modern MoonBASIC | Hackaday | [link](https://hackaday.com/2026/07/18/write-2d-and-3d-games-in-modern-moonbasic/) |
 | 2026-07-19 | Adafruit New Products 7/15/2026 | Adafruit | [link](https://blog.adafruit.com/2026/07/18/adafruit-new-products-7-15-2026/) |
 | 2026-07-18 | Your AI Ham Radio Buddy | Hackaday | [link](https://hackaday.com/2026/07/18/your-ai-ham-radio-buddy/) |
 | 2026-07-18 | Calculator UI Is More Complex Than You Might Think | Hackaday | [link](https://hackaday.com/2026/07/18/calculator-ui-is-more-complex-than-you-might-think/) |
@@ -56,7 +57,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-18 | Simple Games from a Simpler Time | Hackaday | [link](https://hackaday.com/2026/07/18/simple-games-from-a-simpler-time/) |
 | 2026-07-18 | Spidery Drone Goes Near-invisible By Spinning Really, Really Fast | Hackaday | [link](https://hackaday.com/2026/07/18/spidery-drone-goes-near-invisible-by-spinning-really-really-fast/) |
 | 2026-07-18 | Cross-Sectioning Crickets with a Femtosecond Laser | Hackaday | [link](https://hackaday.com/2026/07/18/cross-sectioning-crickets-with-a-femtosecond-laser/) |
-| 2026-07-18 | Flex Filament Stuck To Your Build Platform? Reach For The Isopropanol | Hackaday | [link](https://hackaday.com/2026/07/17/flex-filament-stuck-to-your-build-platform-reach-for-the-isopropanol/) |
 | 2026-07-18 | M5Stack Core2 gets open-source firmware to reproduce OpenAI’s Codex Micro features | CNX Software | [link](https://www.cnx-software.com/2026/07/18/m5stack-core2-gets-open-source-firmware-to-reproduce-openais-codex-micro-features/) |
 | 2026-07-18 | Reactor’s Lift of SFF/H for Young Adult Readers | Adafruit | [link](https://blog.adafruit.com/2026/07/18/reactors-lift-of-sff-h-for-young-adult-readers/) |
 
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-19 | SakikoTogawa/pi0_robotwin_lora-stamp_seal-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-stamp_seal-100-himaconpp_repo) |
+| 2026-07-19 | junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0.3_head1p2_m0p3_vlmtop2 | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0.3_head1p2_m0p3_vlmtop2) |
+| 2026-07-19 | junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmfreeze | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmfreeze) |
+| 2026-07-19 | SakikoTogawa/pi0_robotwin_lora-place_object_scale-100-himaconpp_repo | 0 | 1 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_object_scale-100-himaconpp_repo) |
 | 2026-07-19 | zwan1003/pickplace_skills_vla_v3 | 0 | 0 | [link](https://huggingface.co/zwan1003/pickplace_skills_vla_v3) |
-| 2026-07-18 | access-robotics-team/so-gr-pp-lightbox-260718 | 0 | 1 | [link](https://huggingface.co/access-robotics-team/so-gr-pp-lightbox-260718) |
-| 2026-07-18 | openbmb/MiniCPM-RobotManip | 0 | 2 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
-| 2026-07-18 | openbmb/MiniCPM-RobotTrack | 0 | 3 | [link](https://huggingface.co/openbmb/MiniCPM-RobotTrack) |
-| 2026-07-18 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
-| 2026-07-18 | KavishkaD/Smart_Companion_Robot_Custom_KWS | 0 | 0 | [link](https://huggingface.co/KavishkaD/Smart_Companion_Robot_Custom_KWS) |
-| 2026-07-18 | qualia-robotics/pi05-so101-candy-ba90eda5 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-so101-candy-ba90eda5) |
-| 2026-07-18 | access-robotics-team/so-xv-pp-lightbox-6epc-260718 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-xv-pp-lightbox-6epc-260718) |
-| 2026-07-18 | Vladimirlv/ru-promptriever-qwen3-1.7b | 571 | 1 | [link](https://huggingface.co/Vladimirlv/ru-promptriever-qwen3-1.7b) |
-| 2026-07-18 | Vladimirlv/ru-promptriever-qwen3-4b | 0 | 1 | [link](https://huggingface.co/Vladimirlv/ru-promptriever-qwen3-4b) |
+| 2026-07-19 | physicalairi/molmoact2-line-transfer | 0 | 0 | [link](https://huggingface.co/physicalairi/molmoact2-line-transfer) |
+| 2026-07-19 | hiskiv/cosmos-policy-lam | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam) |
+| 2026-07-19 | PolicyShiftGuard/PolicyShiftGuard-3B | 70 | 0 | [link](https://huggingface.co/PolicyShiftGuard/PolicyShiftGuard-3B) |
+| 2026-07-19 | PolicyShiftGuard/PolicyShiftGuard-3B-RP-SFT | 17 | 0 | [link](https://huggingface.co/PolicyShiftGuard/PolicyShiftGuard-3B-RP-SFT) |
+| 2026-07-19 | PolicyShiftGuard/PolicyShiftGuard-7B-RP-SFT | 17 | 0 | [link](https://huggingface.co/PolicyShiftGuard/PolicyShiftGuard-7B-RP-SFT) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| ArduPilot/ardupilot | 15502 | C++ | 6200.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| arpitg1304/forge | 158 | Python | 63.3 | [link](https://github.com/arpitg1304/forge) |
+| ArduPilot/ardupilot | 15503 | C++ | 6201.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11281 | Python | 4512.5 | [link](https://github.com/kornia/kornia) |
+| dora-rs/dora | 3844 | Rust | 1537.7 | [link](https://github.com/dora-rs/dora) |
+| flashrt-project/FlashRT | 435 | C++ | 174.1 | [link](https://github.com/flashrt-project/FlashRT) |
+| sou350121/VLA-Handbook | 403 | HTML | 161.3 | [link](https://github.com/sou350121/VLA-Handbook) |
+| nv-tlabs/lyra | 2161 | Python | 864.5 | [link](https://github.com/nv-tlabs/lyra) |
 | copper-project/copper-rs | 1416 | Rust | 566.5 | [link](https://github.com/copper-project/copper-rs) |
 | ros-claw/rosclaw | 168 | Python | 67.3 | [link](https://github.com/ros-claw/rosclaw) |
-| arpitg1304/forge | 158 | Python | 63.3 | [link](https://github.com/arpitg1304/forge) |
-| commaai/openpilot | 63161 | Python | 25264.5 | [link](https://github.com/commaai/openpilot) |
-| DLR-RM/stable-baselines3 | 13585 | Python | 5434.1 | [link](https://github.com/DLR-RM/stable-baselines3) |
-| isaac-sim/IsaacLab | 7700 | Python | 3080.1 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3843 | Rust | 1537.3 | [link](https://github.com/dora-rs/dora) |
-| huangjunsen0406/py-xiaozhi | 3413 | Python | 1365.3 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
+| commaai/openpilot | 63160 | Python | 25264.1 | [link](https://github.com/commaai/openpilot) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
