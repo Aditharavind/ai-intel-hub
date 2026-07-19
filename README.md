@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-19 04:56 UTC
+Last Updated: 2026-07-19 07:21 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-19 | Open-Source Mid-Drive e-Bike Motor Has Lots of Promise, and Hyphens | Hackaday | [link](https://hackaday.com/2026/07/18/open-source-mid-drive-e-bike-motor-has-lots-of-promise-and-hyphens/) |
 | 2026-07-19 | Write 2D and 3D Games in Modern MoonBASIC | Hackaday | [link](https://hackaday.com/2026/07/18/write-2d-and-3d-games-in-modern-moonbasic/) |
+| 2026-07-19 | The Python on Microcontrollers Newsletter: subscribe for free | Adafruit | [link](https://blog.adafruit.com/2026/07/19/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-19/) |
 | 2026-07-19 | Adafruit New Products 7/15/2026 | Adafruit | [link](https://blog.adafruit.com/2026/07/18/adafruit-new-products-7-15-2026/) |
 | 2026-07-18 | Your AI Ham Radio Buddy | Hackaday | [link](https://hackaday.com/2026/07/18/your-ai-ham-radio-buddy/) |
 | 2026-07-18 | Calculator UI Is More Complex Than You Might Think | Hackaday | [link](https://hackaday.com/2026/07/18/calculator-ui-is-more-complex-than-you-might-think/) |
 | 2026-07-18 | ESP32-driven Roulette Wheel Could Have Used a 555, but That Didn’t have WiFi | Hackaday | [link](https://hackaday.com/2026/07/18/esp32-driven-roulette-wheel-could-have-used-a-555-but-that-didnt-have-wifi/) |
 | 2026-07-18 | Simple Games from a Simpler Time | Hackaday | [link](https://hackaday.com/2026/07/18/simple-games-from-a-simpler-time/) |
 | 2026-07-18 | Spidery Drone Goes Near-invisible By Spinning Really, Really Fast | Hackaday | [link](https://hackaday.com/2026/07/18/spidery-drone-goes-near-invisible-by-spinning-really-really-fast/) |
-| 2026-07-18 | Cross-Sectioning Crickets with a Femtosecond Laser | Hackaday | [link](https://hackaday.com/2026/07/18/cross-sectioning-crickets-with-a-femtosecond-laser/) |
 | 2026-07-18 | M5Stack Core2 gets open-source firmware to reproduce OpenAI’s Codex Micro features | CNX Software | [link](https://www.cnx-software.com/2026/07/18/m5stack-core2-gets-open-source-firmware-to-reproduce-openais-codex-micro-features/) |
-| 2026-07-18 | Reactor’s Lift of SFF/H for Young Adult Readers | Adafruit | [link](https://blog.adafruit.com/2026/07/18/reactors-lift-of-sff-h-for-young-adult-readers/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-19 | qualia-robotics/act-g1-final-cleaned-bf751369 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/act-g1-final-cleaned-bf751369) |
 | 2026-07-19 | SakikoTogawa/pi0_robotwin_lora-stamp_seal-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-stamp_seal-100-himaconpp_repo) |
 | 2026-07-19 | junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0.3_head1p2_m0p3_vlmtop2 | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0.3_head1p2_m0p3_vlmtop2) |
 | 2026-07-19 | junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmfreeze | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmfreeze) |
@@ -86,21 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-19 | hiskiv/cosmos-policy-lam | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam) |
 | 2026-07-19 | PolicyShiftGuard/PolicyShiftGuard-3B | 70 | 0 | [link](https://huggingface.co/PolicyShiftGuard/PolicyShiftGuard-3B) |
 | 2026-07-19 | PolicyShiftGuard/PolicyShiftGuard-3B-RP-SFT | 17 | 0 | [link](https://huggingface.co/PolicyShiftGuard/PolicyShiftGuard-3B-RP-SFT) |
-| 2026-07-19 | PolicyShiftGuard/PolicyShiftGuard-7B-RP-SFT | 17 | 0 | [link](https://huggingface.co/PolicyShiftGuard/PolicyShiftGuard-7B-RP-SFT) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | arpitg1304/forge | 158 | Python | 63.3 | [link](https://github.com/arpitg1304/forge) |
-| ArduPilot/ardupilot | 15503 | C++ | 6201.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15505 | C++ | 6202.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11281 | Python | 4512.5 | [link](https://github.com/kornia/kornia) |
+| isaac-sim/IsaacLab | 7700 | Python | 3080.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3844 | Rust | 1537.7 | [link](https://github.com/dora-rs/dora) |
-| flashrt-project/FlashRT | 435 | C++ | 174.1 | [link](https://github.com/flashrt-project/FlashRT) |
-| sou350121/VLA-Handbook | 403 | HTML | 161.3 | [link](https://github.com/sou350121/VLA-Handbook) |
-| nv-tlabs/lyra | 2161 | Python | 864.5 | [link](https://github.com/nv-tlabs/lyra) |
-| copper-project/copper-rs | 1416 | Rust | 566.5 | [link](https://github.com/copper-project/copper-rs) |
-| ros-claw/rosclaw | 168 | Python | 67.3 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63160 | Python | 25264.1 | [link](https://github.com/commaai/openpilot) |
+| flashrt-project/FlashRT | 434 | C++ | 173.7 | [link](https://github.com/flashrt-project/FlashRT) |
+| sou350121/VLA-Handbook | 404 | HTML | 161.7 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 5612 | Python | 2244.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| nv-tlabs/lyra | 2162 | Python | 864.9 | [link](https://github.com/nv-tlabs/lyra) |
+| OpenHUTB/hutb | 536 | C++ | 214.5 | [link](https://github.com/OpenHUTB/hutb) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
