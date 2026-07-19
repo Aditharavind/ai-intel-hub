@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-19 18:43 UTC
+Last Updated: 2026-07-19 19:59 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -56,9 +56,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-19 | Open-Source Mid-Drive e-Bike Motor Has Lots of Promise, and Hyphens | Hackaday | [link](https://hackaday.com/2026/07/18/open-source-mid-drive-e-bike-motor-has-lots-of-promise-and-hyphens/) |
 | 2026-07-19 | Write 2D and 3D Games in Modern MoonBASIC | Hackaday | [link](https://hackaday.com/2026/07/18/write-2d-and-3d-games-in-modern-moonbasic/) |
 | 2026-07-19 | Beelink EQi 304 review – Part 3: Ubuntu 26.04 on a Wildcat Lake mini PC | CNX Software | [link](https://www.cnx-software.com/2026/07/19/beelink-eqi-304-review-part-3-ubuntu-26-04-on-a-wildcat-lake-mini-pc/) |
+| 2026-07-19 | Adafruit Weekly Editorial Round Up: Pool Noodle Numchucks, Demofruit Rotozoom, & more! | Adafruit | [link](https://blog.adafruit.com/2026/07/19/adafruit-weekly-editorial-round-up-pool-noodle-numchucks-demofruit-rotozoom-more/) |
 | 2026-07-19 | E-Ink Typewriter | Adafruit | [link](https://blog.adafruit.com/2026/07/19/e-ink-typewriter/) |
 | 2026-07-19 | The Python on Microcontrollers Newsletter: subscribe for free | Adafruit | [link](https://blog.adafruit.com/2026/07/19/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-19/) |
-| 2026-07-19 | Adafruit New Products 7/15/2026 | Adafruit | [link](https://blog.adafruit.com/2026/07/18/adafruit-new-products-7-15-2026/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -92,12 +92,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | arpitg1304/forge | 158 | Python | 63.3 | [link](https://github.com/arpitg1304/forge) |
-| commaai/openpilot | 63164 | Python | 25265.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63165 | Python | 25266.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15505 | C++ | 6202.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14257 | C++ | 5702.9 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14259 | C++ | 5703.7 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11282 | Python | 4512.9 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11143 | Rust | 4457.3 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7703 | Python | 3081.3 | [link](https://github.com/isaac-sim/IsaacLab) |
+| isaac-sim/IsaacLab | 7704 | Python | 3081.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4166 | Python | 1666.5 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3845 | Rust | 1538.1 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 2744 | Python | 1097.7 | [link](https://github.com/datawhalechina/every-embodied) |
