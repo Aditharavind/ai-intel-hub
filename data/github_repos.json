@@ -1,13 +1,33 @@
 [
   {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15502,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-07-19",
+    "topic": "robotics",
+    "score": 6200.9
+  },
+  {
+    "repo": "kornia/kornia",
+    "stars": 11281,
+    "language": "Python",
+    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "url": "https://github.com/kornia/kornia",
+    "date": "2026-07-19",
+    "topic": "robotics",
+    "score": 4512.5
+  },
+  {
     "repo": "copper-project/copper-rs",
-    "stars": 1415,
+    "stars": 1416,
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
     "date": "2026-07-18",
     "topic": "physical-ai",
-    "score": 566.1
+    "score": 566.5
   },
   {
     "repo": "ros-claw/rosclaw",
@@ -40,16 +60,6 @@
     "score": 25264.5
   },
   {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15502,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-07-18",
-    "topic": "robotics",
-    "score": 6200.9
-  },
-  {
     "repo": "DLR-RM/stable-baselines3",
     "stars": 13585,
     "language": "Python",
@@ -60,24 +70,14 @@
     "score": 5434.1
   },
   {
-    "repo": "kornia/kornia",
-    "stars": 11281,
-    "language": "Python",
-    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-    "url": "https://github.com/kornia/kornia",
-    "date": "2026-07-18",
-    "topic": "robotics",
-    "score": 4512.5
-  },
-  {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7699,
+    "stars": 7700,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-07-18",
     "topic": "robot-learning",
-    "score": 3079.7
+    "score": 3080.1
   },
   {
     "repo": "dora-rs/dora",
@@ -331,13 +331,13 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16030,
+    "stars": 16031,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-07-16",
     "topic": "robotics",
-    "score": 6412.1
+    "score": 6412.5
   },
   {
     "repo": "RLinf/RLinf",
@@ -401,13 +401,13 @@
   },
   {
     "repo": "baidu-baige/LoongForge",
-    "stars": 313,
+    "stars": 314,
     "language": "Python",
     "description": "A modular, scalable, high-performance training framework for LLMs, VLMs, diffusion, and embodied models.",
     "url": "https://github.com/baidu-baige/LoongForge",
     "date": "2026-07-15",
     "topic": "vla",
-    "score": 125.3
+    "score": 125.7
   },
   {
     "repo": "LeCAR-Lab/BFM-Zero",
@@ -511,13 +511,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 8273,
+    "stars": 8274,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 3309.3
+    "score": 3309.7
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -581,13 +581,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82504,
+    "stars": 82505,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 33001.7
+    "score": 33002.1
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
@@ -850,13 +850,13 @@
     "score": 220.1
   },
   {
-    "repo": "VinRobotics/vinrobotics_mjlab",
-    "stars": 38,
+    "repo": "AsterisCrack/BipedRobot",
+    "stars": 15,
     "language": "Python",
-    "description": "VinRobotics RL training pipeline for high-loaded humanoids.",
-    "url": "https://github.com/VinRobotics/vinrobotics_mjlab",
-    "date": "2026-06-18",
+    "description": "Biped robot locomotion with deep RL: Isaac Lab + MuJoCo, custom PPO/SAC/DDPG/D4PG/MPO, MLP/LSTM/Transformer, motion imitation, sim-to-real",
+    "url": "https://github.com/AsterisCrack/BipedRobot",
+    "date": "2026-06-19",
     "topic": "humanoid",
-    "score": 15.3
+    "score": 6.1
   }
 ]
