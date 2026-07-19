@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-19 15:42 UTC
+Generated: 2026-07-19 16:40 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,10 +14,10 @@ Generated: 2026-07-19 15:42 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82505 | 33002.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82506 | 33002.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63164 | 25265.7 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44253 | 17701.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30075 | 12030.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30076 | 12030.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16033 | 6413.3 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
@@ -42,7 +42,7 @@ Generated: 2026-07-19 15:42 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-07-18 | Control robots with your thoughts: Chinese startup unveils world’s 1st ‘brain-to-robot’ platform - The Indian Express | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdXBQV1pwQUd6NzVBeUhNR2N4a3RzUkdTS3lMRE5PNjdxZ3hmVjllQkxhS3BlU2Q2ajBaN2dXd0lDVzZ5Z1FCdTcxeHlWVXJ2djhkMDg4ZmMyNUNxY3B4YW5lTjhrTVdTZU41aTFQN0NjaTRIeUJlTFRDaE5fVC14NWQwb3hLYzlHRnNtZ3FwY0ZhT25GWV9NU2hHVEE5VEQ1SWUydW9jaHVFcm9Yb05vRWI1UktoQklUOUo3RjcyenM0V1VQa3RNUGxkb0ROaFAzM1Rr0gHaAUFVX3lxTE5UM1pUSkRpY21BR3B5WVlDZjlZQnhhNHZHWURlRHZuX2NSTjVnMlhXMHB0NEM1VWM3UUZ6ZzFUeEU0aTVEUHNsaTlEU2xuMk8zQW5iNVJkZ0IzZ2g0TVhpTEZVMk5McHJEUl9VN0steFJXVzMzd0dTZmcweHdBWXhOdk5CQm45ZHNPV3Y2MDNhcmkyZlViR2J5QWNiMzBuQXpiemNEQjJsWmtVSTZUSVJvQ2w5RFhqX2R2cy0zZHphQWNjNGxTRUV5MFhFd0pRRHQ1NWtPWENTOEZ3?oc=5) |
-| 2026-07-18 | Killer Robots Are Coming? Eric Trump-Backed Startup Wants Humanoid Soldiers On Future Battlefields - News18 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaTVvcU8zV1JyQVNnN1VDUjhrUlJyUjhVX2lDNXl1Vzc4R242eWhSdWl3RmtVc2VVMks2VVNyN1FzczdueVdvUDhmMjV0NDNyLWtQLUUzaE1CczhRcFRZU1FrTmJlYzNjM1ZlaTNqdE12Wk1WZ3JqYzZVVHhMNUVHZnY1bjc0ZDZxYlU1NkdnbHpqc2djVnVhSVR4ZkZiOGthaUZvSUZZRW1LN2JQVmR2cWVPMHlCYWY3aXNHVmFLM3V0NjdWVVlfQnRiODBVWFR0SnZHbWtzRdIB3AFBVV95cUxPWjlSUE5FRGZOMXdxNGx1X0ZfRDdGR3NydkVoSmdLVzJSb1g0TEVSdHVrbkJ3cE83V3laMmZ3ZHRCWHlDdnEzMVNzdExZU3lmMi03VW5uRW9PTF9BVkNGaHBaLUkxTjZxS1dzcVEwY1ZSTnp6Q1p1OVh5b0pKZ1QzUGJMZFRXbVQtV3BDcGhfUzhBVGhYaFljbXFlVGJEU3NYTUNzZ0RWVEtGS2pxSFI4VjM3ZjNWOHJmWTZsNjZlVXZpLUFYV00xSXlhcnlNLUlmb21QQ1lSRzd3VzNG?oc=5) |
+| 2026-07-18 | Eric Trump Is Building An Army Of Humanoid Robot Soldiers - Kotaku | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxQRlBUNWxaUTduMndhODhhV1VzVm9jSVRmZ2JvakNiekVQQ1hoOHZzemZHUlFaVFVzM1dmaUM1NEttRkhpVFZrZExDZHhDbHFsSm8xcnlob0Z5MWFHZnl4dTlHU2g3Z0daSUluc3c2ai1kM3J5YUV4ZHdrUUIyUFFzaDNsRWRhN3A4RTI4VWdBRDQ?oc=5) |
 | 2026-07-17 | Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates - AI Business | physical ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWjhLZDRiMHREdlV0ejZyUVVPeHptdndKOUlZR3p4LTloNU45NjU5b2diekZyVDhUekx2TW9uVXRNaWVyMTZyeGotNUZYOUVSSVhjMWpBTHM3RU81RkhSbi1WeDgzeXZIM2dnMGVoQWoxTUtHTG9Dbk4zWktmLUVkdVM2cC0wQ1E?oc=5) |
 | 2026-07-17 | Top 50 AI/Embodied AI Companies Most Favored by Investors in 2026 Unveiled - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LWTVHRVU3OGd2bHhYdC1uR2NEVHlkd1RPVlZOVEhGNE9PWkgtaEFIei1wRFBCVWZGV3pORUtYeFNJaVdmMFVMWG5PT25reXFTZGJn?oc=5) |
-| 2026-07-17 | A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War - WIRED | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWE3T3hOTUFjc3NIbmZMRHJHRlpWTGs4RWM1QmFQM3dSVGswOWRRbzl5Vzl4OExJOWUxMlFUNEt2NjA5VFVEanZQanpmOHQ1NG04M3E4TDhaS3dMam1fYXVtUFRSTHBCZGdkckw4WmpDVUhIMHB4VzhuYjZ6ZFVKYUpMWVBTSHNfaklMQWlWMV9PRXNfWVE?oc=5) |
+| 2026-07-17 | A Japanese Robotics Startup Looks Ahead to the Humanoid Age - tokyoupdates.metro.tokyo.lg.jp | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxMlF0aVBuQWJCNDRDMUJQd3V6bXI3N3BpeGRKall1aUJvM3JOY1NxY0JDQ182a1NQLS1GN0VPSmhHVkpFVldhLW9aZUpNSWJ0M2hJb2E1cjhaalR6X1I3ZlNGQ0tkdGM?oc=5) |
