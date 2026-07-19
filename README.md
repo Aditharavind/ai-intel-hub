@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-19 14:18 UTC
+Last Updated: 2026-07-19 15:42 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -82,8 +82,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-19 | SakikoTogawa/pi0_robotwin_lora-stamp_seal-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-stamp_seal-100-himaconpp_repo) |
 | 2026-07-19 | Michael1018/x-vla-robotwin | 0 | 0 | [link](https://huggingface.co/Michael1018/x-vla-robotwin) |
 | 2026-07-19 | qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c) |
-| 2026-07-19 | openbmb/MiniCPM-RobotTrack | 0 | 9 | [link](https://huggingface.co/openbmb/MiniCPM-RobotTrack) |
-| 2026-07-19 | openbmb/MiniCPM-RobotManip | 0 | 8 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
+| 2026-07-19 | openbmb/MiniCPM-RobotTrack | 0 | 10 | [link](https://huggingface.co/openbmb/MiniCPM-RobotTrack) |
+| 2026-07-19 | openbmb/MiniCPM-RobotManip | 0 | 10 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
 | 2026-07-19 | qualia-robotics/act-g1-final-cleaned-bf751369 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/act-g1-final-cleaned-bf751369) |
 | 2026-07-19 | junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0.3_head1p2_m0p3_vlmtop2 | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0.3_head1p2_m0p3_vlmtop2) |
 | 2026-07-19 | junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmfreeze | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmfreeze) |
@@ -92,15 +92,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | arpitg1304/forge | 158 | Python | 63.3 | [link](https://github.com/arpitg1304/forge) |
+| commaai/openpilot | 63164 | Python | 25265.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15505 | C++ | 6202.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14257 | C++ | 5702.9 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11281 | Python | 4512.5 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7701 | Python | 3080.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4163 | Python | 1665.3 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 4164 | Python | 1665.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3845 | Rust | 1538.1 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 2744 | Python | 1097.7 | [link](https://github.com/datawhalechina/every-embodied) |
 | flashrt-project/FlashRT | 434 | C++ | 173.7 | [link](https://github.com/flashrt-project/FlashRT) |
-| sou350121/VLA-Handbook | 404 | HTML | 161.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5618 | Python | 2247.3 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -123,12 +123,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-18 | Killer Robots Are Coming? Eric Trump-Backed Startup Wants Humanoid Soldiers On Future Battlefields - News18 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaTVvcU8zV1JyQVNnN1VDUjhrUlJyUjhVX2lDNXl1Vzc4R242eWhSdWl3RmtVc2VVMks2VVNyN1FzczdueVdvUDhmMjV0NDNyLWtQLUUzaE1CczhRcFRZU1FrTmJlYzNjM1ZlaTNqdE12Wk1WZ3JqYzZVVHhMNUVHZnY1bjc0ZDZxYlU1NkdnbHpqc2djVnVhSVR4ZkZiOGthaUZvSUZZRW1LN2JQVmR2cWVPMHlCYWY3aXNHVmFLM3V0NjdWVVlfQnRiODBVWFR0SnZHbWtzRdIB3AFBVV95cUxPWjlSUE5FRGZOMXdxNGx1X0ZfRDdGR3NydkVoSmdLVzJSb1g0TEVSdHVrbkJ3cE83V3laMmZ3ZHRCWHlDdnEzMVNzdExZU3lmMi03VW5uRW9PTF9BVkNGaHBaLUkxTjZxS1dzcVEwY1ZSTnp6Q1p1OVh5b0pKZ1QzUGJMZFRXbVQtV3BDcGhfUzhBVGhYaFljbXFlVGJEU3NYTUNzZ0RWVEtGS2pxSFI4VjM3ZjNWOHJmWTZsNjZlVXZpLUFYV00xSXlhcnlNLUlmb21QQ1lSRzd3VzNG?oc=5) |
 | 2026-07-17 | Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates - AI Business | physical ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWjhLZDRiMHREdlV0ejZyUVVPeHptdndKOUlZR3p4LTloNU45NjU5b2diekZyVDhUekx2TW9uVXRNaWVyMTZyeGotNUZYOUVSSVhjMWpBTHM3RU81RkhSbi1WeDgzeXZIM2dnMGVoQWoxTUtHTG9Dbk4zWktmLUVkdVM2cC0wQ1E?oc=5) |
 | 2026-07-17 | Top 50 AI/Embodied AI Companies Most Favored by Investors in 2026 Unveiled - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LWTVHRVU3OGd2bHhYdC1uR2NEVHlkd1RPVlZOVEhGNE9PWkgtaEFIei1wRFBCVWZGV3pORUtYeFNJaVdmMFVMWG5PT25reXFTZGJn?oc=5) |
+| 2026-07-17 | A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War - WIRED | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWE3T3hOTUFjc3NIbmZMRHJHRlpWTGs4RWM1QmFQM3dSVGswOWRRbzl5Vzl4OExJOWUxMlFUNEt2NjA5VFVEanZQanpmOHQ1NG04M3E4TDhaS3dMam1fYXVtUFRSTHBCZGdkckw4WmpDVUhIMHB4VzhuYjZ6ZFVKYUpMWVBTSHNfaklMQWlWMV9PRXNfWVE?oc=5) |
 | 2026-07-17 | A Japanese Robotics Startup Looks Ahead to the Humanoid Age - tokyoupdates.metro.tokyo.lg.jp | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxMlF0aVBuQWJCNDRDMUJQd3V6bXI3N3BpeGRKall1aUJvM3JOY1NxY0JDQ182a1NQLS1GN0VPSmhHVkpFVldhLW9aZUpNSWJ0M2hJb2E1cjhaalR6X1I3ZlNGQ0tkdGM?oc=5) |
+| 2026-07-16 | The East Bay hunts for its own AI startup boom with plenty of space to offer - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxObUVZNXkzazhiZmZuQ3FxWXczY0dQVXdET2RQV3VVZW1Ubm9uSlJxdTJYUWY4eTM4WTFyWC1kU0gyZU1YQXA5T2RSVmhGbHl0dThpRjdIYm1hWFZLcVE1em9PNDRCSUpNTEVsYUVBU1RjNjN5U2wxTEdwTHhuT213UVk3UTRGX0JBMl9YVHhDRUNOZk8xMU9PU1ZjdWgyalNTRVMxX1dLaUsteE5tQXc?oc=5) |
 | 2026-07-16 | Espoo-based Hyperion Robotics raises €6.4 million to bring physical AI to European infrastructure - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHdrSk9NanhQVEpEcmNNQnBpVmtoSC1vdEMtRGtzSFlFVGhIb3EydFdwVjEtZUpRQWIwdEdxM3JJQXNEbW9zUUhFMDdvUm5GS1NKMEdXcFRSNkVRc3dKUk1YRFJUSVdfd25TU0sxYUV6UVd0SGp2ZXFEOHFuRE9NSVF0MnpHNmVoWTVFSDEzQmJtNFUwWl8xbzhSbkVHQ29yUnR3R3M0RXlVMWNvZjMzM3pydmViNHZSYnFBTjg3UmJ1VWNGYkxIWTZYSWJUdTQ?oc=5) |
 | 2026-07-16 | Physical AI Startup SwitchOn Raises $8 Mn To Scale Manufacturing Inspection - Inc42 | physical ai startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUE5tOHpFaS1LbnpHT2pfeERLSnNKZUJkTlFhRHI1ak1TcktTM3NhcV9fbVBIVHc2Q3ItMTJiSzVxT1JTb3JZcFVDd1NyenJobUdJTF9la1lKb09uSVpuQWRwSWpLT3MwRDZvS1FXZm4xNXRub1U1M29KdjJwbWk2Zk1wN2R1RVBIUmxva3FORmxOUTVKR2FkRUF3eXRYUDg?oc=5) |
 | 2026-07-16 | Physical AI startup SwitchOn raises $8 Mn in pre-Series B round led by IvyCap - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFNndzVySEc0UmNLMl84TGRSVlRIb2RwZ3Jkb2w1V2Iwbm9IRkRhVkY2N3hWLWZBYkRMRFJ5Tlpya2tmMEFkZHJIUXdkN214S1NXMGVDNEdtZ2FRdWtpc3hKRUhVek1tTXUtRVEzT2Jna1Y0cEhTdm9lcFVOOGhsbUxYUXRlMW1BNjdEVkt1eGZTX2R6eXBYZjF6UmNhZ2FvNmRxWkRwTVVLc25iOEdURdIBsAFBVV95cUxQUFNndzVySEc0UmNLMl84TGRSVlRIb2RwZ3Jkb2w1V2Iwbm9IRkRhVkY2N3hWLWZBYkRMRFJ5Tlpya2tmMEFkZHJIUXdkN214S1NXMGVDNEdtZ2FRdWtpc3hKRUhVek1tTXUtRVEzT2Jna1Y0cEhTdm9lcFVOOGhsbUxYUXRlMW1BNjdEVkt1eGZTX2R6eXBYZjF6UmNhZ2FvNmRxWkRwTVVLc25iOEdURQ?oc=5) |
-| 2026-07-16 | Tencent Cloud partners with robot AI startup RoboScience - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1NhdDZHeDY3Zkk3ekZGbjJsV0p6OWVzYnFJYUs1Q1NhU2hlT3N4YUIzMkpfMFllaE9TaXI5NzNqSkZUT01kVW0xMXlPSDJVVnNuOXYtNG9rVmVaRFZNLTMxRkJFQU9Dem41YmtBWHowUEhfUmNHcHc5dXFXUkV2bGZTZDNoMXlKc1Qw?oc=5) |
-| 2026-07-15 | NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry - NVIDIA Blog | physical ai startup | [link](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xNjhTZDM1ajhCSnliWTA4aXM4bkQ3dzhZMnFNUzkxS3NxU3dDdWpRQlh0N1BPUHRURVZFU1BtQU04T3QzQnVLR3lOaE9WZnhwMUUwcmVTRGtmUlFGQ1hoYw?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
