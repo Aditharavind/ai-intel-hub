@@ -1,5 +1,23 @@
 [
   {
+    "model": "masternodedata1/pollen-robotics-reachy-mini.hf.space",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/masternodedata1/pollen-robotics-reachy-mini.hf.space",
+    "date": "2026-07-19",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "OpenWAM/Pretrained_OpenWAM_RoboTwin_Full_SFT",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/Pretrained_OpenWAM_RoboTwin_Full_SFT",
+    "date": "2026-07-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "JackieMM/RoboTwin-pi05-30000-checkpoints",
     "downloads": 0,
     "likes": 0,
@@ -56,11 +74,11 @@
   {
     "model": "openbmb/MiniCPM-RobotManip",
     "downloads": 0,
-    "likes": 10,
+    "likes": 12,
     "url": "https://huggingface.co/openbmb/MiniCPM-RobotManip",
     "date": "2026-07-19",
     "keyword": "robot",
-    "score": 2.1
+    "score": 2.5
   },
   {
     "model": "qualia-robotics/act-g1-final-cleaned-bf751369",
@@ -90,13 +108,13 @@
     "score": 0.1
   },
   {
-    "model": "SakikoTogawa/pi0_robotwin_lora-place_object_scale-100-himaconpp_repo",
+    "model": "VladimirRH/bge-m3-quantized-int8",
     "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-place_object_scale-100-himaconpp_repo",
+    "likes": 0,
+    "url": "https://huggingface.co/VladimirRH/bge-m3-quantized-int8",
     "date": "2026-07-19",
-    "keyword": "robot",
-    "score": 0.3
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "HarrisonPENG/vla-jepa-put-mango",
@@ -234,15 +252,6 @@
     "score": 13.6
   },
   {
-    "model": "access-robotics-team/so-gr-pp-lightbox-260718",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/access-robotics-team/so-gr-pp-lightbox-260718",
-    "date": "2026-07-18",
-    "keyword": "robotics",
-    "score": 0.3
-  },
-  {
     "model": "Vladimirlv/ru-promptriever-qwen3-1.7b",
     "downloads": 571,
     "likes": 1,
@@ -308,11 +317,11 @@
   {
     "model": "tencent/Hy-Embodied-RxBrain-1.0",
     "downloads": 174,
-    "likes": 41,
+    "likes": 42,
     "url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
     "date": "2026-07-18",
     "keyword": "embodied",
-    "score": 60.5
+    "score": 60.7
   },
   {
     "model": "uc-summer-2026-group-project/faq-policy-qa-bot",
@@ -351,6 +360,15 @@
     "score": 8.8
   },
   {
+    "model": "access-robotics-team/so-gr-pp-lightbox-260718",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/access-robotics-team/so-gr-pp-lightbox-260718",
+    "date": "2026-07-18",
+    "keyword": "robotics",
+    "score": 0.3
+  },
+  {
     "model": "qualia-robotics/pi05-so101-candy-ba90eda5",
     "downloads": 28,
     "likes": 0,
@@ -385,15 +403,6 @@
     "date": "2026-07-17",
     "keyword": "vla",
     "score": 55.3
-  },
-  {
-    "model": "holmescao/VLA-ReID",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/holmescao/VLA-ReID",
-    "date": "2026-07-17",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "Lislaam/coinrun-trained-world-model",
@@ -484,15 +493,6 @@
     "date": "2026-07-17",
     "keyword": "robotics",
     "score": 0.1
-  },
-  {
-    "model": "access-robotics-team/bioa-xv-fold-retry-merged-260716",
-    "downloads": 3,
-    "likes": 0,
-    "url": "https://huggingface.co/access-robotics-team/bioa-xv-fold-retry-merged-260716",
-    "date": "2026-07-17",
-    "keyword": "robotics",
-    "score": 1.0
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-full-epoch3",

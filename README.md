@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-19 16:40 UTC
+Last Updated: 2026-07-19 17:44 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-19 | Recycling Laptops and iMacs Makes PC Building Fun and Affordable Again | Hackaday | [link](https://hackaday.com/2026/07/19/recycling-laptops-and-imacs-makes-pc-building-fun-and-affordable-again/) |
 | 2026-07-19 | Remembering the Zilog Z80 as it Turns Fifty Years Old | Hackaday | [link](https://hackaday.com/2026/07/19/remembering-the-zilog-z80-as-it-turns-fifty-years-old/) |
 | 2026-07-19 | QT6 brings BASIC to the Web Browser, or Your Computer | Hackaday | [link](https://hackaday.com/2026/07/19/qt6-brings-basic-to-the-web-browser-or-your-computer/) |
 | 2026-07-19 | A Pop-Up Truck Camper for Less | Hackaday | [link](https://hackaday.com/2026/07/19/a-pop-up-truck-camper-for-less/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-19 | The Python on Microcontrollers Newsletter: subscribe for free | Adafruit | [link](https://blog.adafruit.com/2026/07/19/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-19/) |
 | 2026-07-19 | Adafruit New Products 7/15/2026 | Adafruit | [link](https://blog.adafruit.com/2026/07/18/adafruit-new-products-7-15-2026/) |
 | 2026-07-18 | Your AI Ham Radio Buddy | Hackaday | [link](https://hackaday.com/2026/07/18/your-ai-ham-radio-buddy/) |
-| 2026-07-18 | Calculator UI Is More Complex Than You Might Think | Hackaday | [link](https://hackaday.com/2026/07/18/calculator-ui-is-more-complex-than-you-might-think/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,16 +77,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-19 | masternodedata1/pollen-robotics-reachy-mini.hf.space | 0 | 0 | [link](https://huggingface.co/masternodedata1/pollen-robotics-reachy-mini.hf.space) |
+| 2026-07-19 | OpenWAM/Pretrained_OpenWAM_RoboTwin_Full_SFT | 0 | 0 | [link](https://huggingface.co/OpenWAM/Pretrained_OpenWAM_RoboTwin_Full_SFT) |
 | 2026-07-19 | JackieMM/RoboTwin-pi05-30000-checkpoints | 0 | 0 | [link](https://huggingface.co/JackieMM/RoboTwin-pi05-30000-checkpoints) |
 | 2026-07-19 | RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora | 0 | 0 | [link](https://huggingface.co/RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora) |
 | 2026-07-19 | SakikoTogawa/pi0_robotwin_lora-stamp_seal-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-stamp_seal-100-himaconpp_repo) |
 | 2026-07-19 | Michael1018/x-vla-robotwin | 0 | 0 | [link](https://huggingface.co/Michael1018/x-vla-robotwin) |
 | 2026-07-19 | qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c) |
 | 2026-07-19 | openbmb/MiniCPM-RobotTrack | 0 | 10 | [link](https://huggingface.co/openbmb/MiniCPM-RobotTrack) |
-| 2026-07-19 | openbmb/MiniCPM-RobotManip | 0 | 10 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
+| 2026-07-19 | openbmb/MiniCPM-RobotManip | 0 | 12 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
 | 2026-07-19 | qualia-robotics/act-g1-final-cleaned-bf751369 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/act-g1-final-cleaned-bf751369) |
-| 2026-07-19 | junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0.3_head1p2_m0p3_vlmtop2 | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0.3_head1p2_m0p3_vlmtop2) |
-| 2026-07-19 | junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmfreeze | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmfreeze) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -95,12 +95,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | commaai/openpilot | 63164 | Python | 25265.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15505 | C++ | 6202.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14257 | C++ | 5702.9 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11281 | Python | 4512.5 | [link](https://github.com/kornia/kornia) |
-| isaac-sim/IsaacLab | 7701 | Python | 3080.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4165 | Python | 1666.1 | [link](https://github.com/RLinf/RLinf) |
+| kornia/kornia | 11282 | Python | 4512.9 | [link](https://github.com/kornia/kornia) |
+| rerun-io/rerun | 11143 | Rust | 4457.3 | [link](https://github.com/rerun-io/rerun) |
+| isaac-sim/IsaacLab | 7702 | Python | 3080.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 4166 | Python | 1666.5 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3845 | Rust | 1538.1 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 2744 | Python | 1097.7 | [link](https://github.com/datawhalechina/every-embodied) |
-| flashrt-project/FlashRT | 434 | C++ | 173.7 | [link](https://github.com/flashrt-project/FlashRT) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
