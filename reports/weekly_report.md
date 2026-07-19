@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-19 12:43 UTC
+Generated: 2026-07-19 14:18 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-07-19 12:43 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82505 | 33002.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63162 | 25264.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44253 | 17701.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| Developer-Y/cs-video-courses | 82504 | 33001.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63164 | 25265.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44254 | 17701.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30074 | 12029.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16033 | 6413.3 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16032 | 6412.9 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -26,7 +26,7 @@ Generated: 2026-07-19 12:43 UTC
 | Vladimirlv/ru-promptriever-qwen3-1.7b | 571 | 171.6 | [link](https://huggingface.co/Vladimirlv/ru-promptriever-qwen3-1.7b) |
 | zhijieq/directional-navigation | 412 | 123.7 | [link](https://huggingface.co/zhijieq/directional-navigation) |
 | SEU-PAISys/Embodied.cpp | 252 | 76.5 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
-| tencent/Hy-Embodied-RxBrain-1.0 | 174 | 60.3 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
+| tencent/Hy-Embodied-RxBrain-1.0 | 174 | 60.5 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
 | HarrisonPENG/M2W-VLA-RoboTwin | 184 | 55.3 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 
 ## Top Funding Rounds

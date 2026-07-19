@@ -1,5 +1,41 @@
 [
   {
+    "model": "JackieMM/RoboTwin-pi05-30000-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/JackieMM/RoboTwin-pi05-30000-checkpoints",
+    "date": "2026-07-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora",
+    "date": "2026-07-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "SakikoTogawa/pi0_robotwin_lora-stamp_seal-100-himaconpp_repo",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-stamp_seal-100-himaconpp_repo",
+    "date": "2026-07-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Michael1018/x-vla-robotwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Michael1018/x-vla-robotwin",
+    "date": "2026-07-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c",
     "downloads": 0,
     "likes": 0,
@@ -11,20 +47,20 @@
   {
     "model": "openbmb/MiniCPM-RobotTrack",
     "downloads": 0,
-    "likes": 8,
+    "likes": 9,
     "url": "https://huggingface.co/openbmb/MiniCPM-RobotTrack",
     "date": "2026-07-19",
     "keyword": "robot",
-    "score": 1.7
+    "score": 1.9
   },
   {
     "model": "openbmb/MiniCPM-RobotManip",
     "downloads": 0,
-    "likes": 7,
+    "likes": 8,
     "url": "https://huggingface.co/openbmb/MiniCPM-RobotManip",
     "date": "2026-07-19",
     "keyword": "robot",
-    "score": 1.5
+    "score": 1.7
   },
   {
     "model": "qualia-robotics/act-g1-final-cleaned-bf751369",
@@ -33,15 +69,6 @@
     "url": "https://huggingface.co/qualia-robotics/act-g1-final-cleaned-bf751369",
     "date": "2026-07-19",
     "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "SakikoTogawa/pi0_robotwin_lora-stamp_seal-100-himaconpp_repo",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-stamp_seal-100-himaconpp_repo",
-    "date": "2026-07-19",
-    "keyword": "robot",
     "score": 0.1
   },
   {
@@ -189,33 +216,6 @@
     "score": 0.3
   },
   {
-    "model": "zolkin/robot_rl",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/zolkin/robot_rl",
-    "date": "2026-07-18",
-    "keyword": "robot",
-    "score": 0.3
-  },
-  {
-    "model": "KavishkaD/Smart_Companion_Robot_Custom_KWS",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/KavishkaD/Smart_Companion_Robot_Custom_KWS",
-    "date": "2026-07-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "qualia-robotics/pi05-so101-candy-ba90eda5",
-    "downloads": 28,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/pi05-so101-candy-ba90eda5",
-    "date": "2026-07-18",
-    "keyword": "robotics",
-    "score": 8.5
-  },
-  {
     "model": "Vladimirlv/ru-promptriever-qwen3-1.7b",
     "downloads": 571,
     "likes": 1,
@@ -281,11 +281,11 @@
   {
     "model": "tencent/Hy-Embodied-RxBrain-1.0",
     "downloads": 174,
-    "likes": 40,
+    "likes": 41,
     "url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
     "date": "2026-07-18",
     "keyword": "embodied",
-    "score": 60.3
+    "score": 60.5
   },
   {
     "model": "uc-summer-2026-group-project/faq-policy-qa-bot",
@@ -322,6 +322,15 @@
     "date": "2026-07-18",
     "keyword": "policy",
     "score": 8.8
+  },
+  {
+    "model": "qualia-robotics/pi05-so101-candy-ba90eda5",
+    "downloads": 28,
+    "likes": 0,
+    "url": "https://huggingface.co/qualia-robotics/pi05-so101-candy-ba90eda5",
+    "date": "2026-07-18",
+    "keyword": "robotics",
+    "score": 8.5
   },
   {
     "model": "access-robotics-team/so-xv-pp-lightbox-6epc-260718",
@@ -457,15 +466,6 @@
     "date": "2026-07-17",
     "keyword": "robotics",
     "score": 1.0
-  },
-  {
-    "model": "zwan1003/pickplace_skills_vla_v2_cont",
-    "downloads": 30,
-    "likes": 0,
-    "url": "https://huggingface.co/zwan1003/pickplace_skills_vla_v2_cont",
-    "date": "2026-07-16",
-    "keyword": "vla",
-    "score": 9.1
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-full-epoch3",
