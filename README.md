@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-20 05:24 UTC
+Last Updated: 2026-07-20 08:30 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-20 | Could Reticulum Power a Post-Internet Network? | Hackaday | [link](https://hackaday.com/2026/07/20/could-reticulum-power-a-post-internet-network/) |
 | 2026-07-20 | Seven Ways to Install Magnets Into Your 3D Prints | Hackaday | [link](https://hackaday.com/2026/07/19/seven-ways-to-install-magnets-into-your-3d-prints/) |
 | 2026-07-20 | Pong-like Cabinet for Classic Dinosaur Jumper | Hackaday | [link](https://hackaday.com/2026/07/19/pong-like-cabinet-for-classic-dinosaur-jumper/) |
 | 2026-07-20 | IoTextra modular automation boards with 4 inputs, 4 outputs work with Raspberry Pi and ESP32 MCU boards | CNX Software | [link](https://www.cnx-software.com/2026/07/20/iotextra-modular-automation-boards-with-4-inputs-4-outputs-work-with-raspberry-pi-and-esp32-mcu-boards/) |
 | 2026-07-20 | Efinix Titanium Edge FPGA family targets low-power edge AI and vision systems | CNX Software | [link](https://www.cnx-software.com/2026/07/20/efinix-titanium-edge-fpga-family-targets-low-power-edge-ai-and-vision-systems/) |
-| 2026-07-20 | Ed Eyes Prediction Markets | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-eyes-prediction-markets-2026-07/) |
-| 2026-07-19 | Hackaday Links: July 19, 2026 | Hackaday | [link](https://hackaday.com/2026/07/19/hackaday-links-july-19-2026/) |
-| 2026-07-19 | Automated Pressure Advance Using a Bed-Leveling Sensor | Hackaday | [link](https://hackaday.com/2026/07/19/automated-pressure-advance-using-a-bed-leveling-sensor/) |
-| 2026-07-19 | Recycling Laptops and iMacs Makes PC Building Fun and Affordable Again | Hackaday | [link](https://hackaday.com/2026/07/19/recycling-laptops-and-imacs-makes-pc-building-fun-and-affordable-again/) |
-| 2026-07-19 | Remembering the Zilog Z80 as it Turns Fifty Years Old | Hackaday | [link](https://hackaday.com/2026/07/19/remembering-the-zilog-z80-as-it-turns-fifty-years-old/) |
-| 2026-07-19 | QT6 brings BASIC to the Web Browser, or Your Computer | Hackaday | [link](https://hackaday.com/2026/07/19/qt6-brings-basic-to-the-web-browser-or-your-computer/) |
+| 2026-07-20 | Xi sets out China’s AI stall | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/xi-sets-out-chinas-ai-stall-2026-07/) |
+| 2026-07-20 | Semi stocks falling | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/semi-stocks-falling-2026-07/) |
+| 2026-07-20 | Cadence and Rapidus hook up on agentic AI | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/cadence-and-rapidus-hook-up-2026-07/) |
+| 2026-07-20 | Agentic AI platform for PCB and packaging | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/agentic-ai-platform-for-pcb-and-packaging-2026-07/) |
+| 2026-07-20 | Siemens and Cloudberry to help startups | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/siemens-and-cloudberry-to-help-startups-2026-07/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-20 | Superrrdamn/robotics-vla-task-23-basic | 0 | 0 | [link](https://huggingface.co/Superrrdamn/robotics-vla-task-23-basic) |
+| 2026-07-20 | openbmb/MiniCPM-RobotManip | 0 | 38 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
 | 2026-07-20 | OpenWAM/Pretrained_OpenWAM_RoboTwin_Clean_SFT | 0 | 0 | [link](https://huggingface.co/OpenWAM/Pretrained_OpenWAM_RoboTwin_Clean_SFT) |
 | 2026-07-20 | RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_chunk100_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_chunk100_100k) |
 | 2026-07-20 | RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_kl5_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_kl5_100k) |
@@ -85,22 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-20 | RobotisSW/Pick_Peanut_Mix_WhiteShelf_030000 | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Peanut_Mix_WhiteShelf_030000) |
 | 2026-07-20 | RobotisSW/Pick_Peanut_Mix_WhiteShelf_020000 | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Peanut_Mix_WhiteShelf_020000) |
 | 2026-07-20 | RobotisSW/Pick_Peanut_Mix_WhiteShelf_010000 | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Peanut_Mix_WhiteShelf_010000) |
-| 2026-07-20 | RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_100k) |
-| 2026-07-20 | RobotisSW/Task_700001_pick_place_peanut_stage2_act_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_700001_pick_place_peanut_stage2_act_100k) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | Edgenesis/shifu | 1426 | Go | 570.5 | [link](https://github.com/Edgenesis/shifu) |
+| copper-project/copper-rs | 1417 | Rust | 566.9 | [link](https://github.com/copper-project/copper-rs) |
+| ros-claw/rosclaw | 168 | Python | 67.3 | [link](https://github.com/ros-claw/rosclaw) |
 | arpitg1304/forge | 158 | Python | 63.3 | [link](https://github.com/arpitg1304/forge) |
 | ROBOTIS-GIT/ai_worker | 154 | C++ | 61.7 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| commaai/openpilot | 63167 | Python | 25266.9 | [link](https://github.com/commaai/openpilot) |
-| isaac-sim/IsaacLab | 7709 | Python | 3083.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4166 | Python | 1666.5 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3845 | Rust | 1538.1 | [link](https://github.com/dora-rs/dora) |
-| knightnemo/Awesome-World-Models | 3186 |  | 1274.5 | [link](https://github.com/knightnemo/Awesome-World-Models) |
-| StanfordVL/BEHAVIOR-1K | 1583 | Python | 633.3 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| sou350121/VLA-Handbook | 407 | HTML | 162.9 | [link](https://github.com/sou350121/VLA-Handbook) |
+| commaai/openpilot | 63168 | Python | 25267.3 | [link](https://github.com/commaai/openpilot) |
+| google-deepmind/mujoco | 14265 | C++ | 5706.1 | [link](https://github.com/google-deepmind/mujoco) |
+| rerun-io/rerun | 11146 | Rust | 4458.5 | [link](https://github.com/rerun-io/rerun) |
+| isaac-sim/IsaacLab | 7710 | Python | 3084.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 4171 | Python | 1668.5 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -134,6 +134,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-20 | Deployment Logistics Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4666290006) |
+| 2026-07-20 | Humanoid Robot Operator - Commercial Site Team (LA)  | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4698238006) |
 | 2026-07-17 | AI Data Operations Manager | Figure AI | United Arab Emirates | [link](https://job-boards.greenhouse.io/figureai/jobs/4698164006) |
 | 2026-07-17 | Global Supply Manager - PCBA | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4670751006) |
 | 2026-07-17 | Humanoid Environment Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4677955006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | AI Training Infrastructure Engineer – Humanoid Whole Body Control | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4674754006) |
 | 2026-07-16 | Helix Data Creator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4585080006) |
 | 2026-07-16 | Mechanical Engineer - All Levels | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4410831006) |
-| 2026-07-16 | Senior Manager, Planning | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6104722004) |
 
 ## Automation
 
