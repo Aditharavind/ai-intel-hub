@@ -1,5 +1,19 @@
 [
   {
+    "title": "Old SSDs Find New Life as Game Cartridges",
+    "source": "Hackaday",
+    "date": "2026-07-20",
+    "url": "https://hackaday.com/2026/07/20/old-ssds-find-new-life-as-game-cartridges/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"600\" src=\"https://hackaday.com/wp-content/uploads/2026/07/ssd-game-cartridge-feat.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Game companies might not like physical media much anymore, but gamers sure do. There&#8217;s nothing like pawing over your collection to find what to play, and inserting a cartridge with <a class=\"read-more\" href=\"https://hackaday.com/2026/07/20/old-ssds-find-new-life-as-game-cartridges/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Launching Rockets is Hard, Bring them Back is Harder",
+    "source": "Hackaday",
+    "date": "2026-07-20",
+    "url": "https://hackaday.com/2026/07/20/launching-rockets-is-hard-bring-them-back-is-harder/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/rocketcatch_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Since the first V2 rocket sailed above the Kármán line back in 1944 and right up until the modern era, the trajectory of most space-bound rockets was more or less <a class=\"read-more\" href=\"https://hackaday.com/2026/07/20/launching-rockets-is-hard-bring-them-back-is-harder/\">&#8230;read more</a>"
+  },
+  {
     "title": "Earth-like LHS 1140b May Feature the First Atmosphere Found on Exoplanet",
     "source": "Hackaday",
     "date": "2026-07-20",
@@ -56,6 +70,20 @@
     "summary": "<div><img alt=\"Efinix Titanium Edge Ti125 FPGA\" class=\"attachment-medium size-medium wp-post-image\" height=\"418\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Efinix-Titanium-Edge-Ti125-FPGA-720x418.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Efinix has introduced the Titanium Edge FPGA family designed for low-power edge AI and machine vision applications. Based on the company&#8217;s Titanium FPGA architecture, the new family introduces lower static power consumption, configurable 2.5 Gbps MIPI I/O, built-in single-event upset (SEU) correction, and System-in-Package (SiP) variants that integrate SPI flash and HyperRAM for compact systems. The initial Titanium Edge FPGA family includes the Ti125, Ti40, Ti70, and Ti95 devices, with approximately 39K to 123K logic elements for embedded AI, machine vision, robotics, medical systems, and various other applications. Compared to the high-end Titanium Ti375 and the cost-efficient Topaz FPGA family, the new devices are designed to have about 50% lower static power consumption while retaining the company&#8217;s Quantum architecture. Efinix Titanium Edge Ti125 and Ti125 SiP specifications: FPGA Fabric Efinix Quantum architecture Up to 122,792 logic elements (109,440 XLR cells) 288 DSP blocks Embedded Memory – 5.9 Mbit SRAM Memory – [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/20/efinix-titanium-edge-fpga-family-targets-low-power-edge-ai-and-vision-systems/\">Efinix Titanium Edge FPGA family targets low-power edge AI and vision systems</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Modular test architecture is driving force for Emerson",
+    "source": "Electronics Weekly",
+    "date": "2026-07-20",
+    "url": "https://www.electronicsweekly.com/news/business/modular-test-architecture-is-driving-force-for-emerson-2026-07/",
+    "summary": "<p>The modular system, based on NI technology combines a high-performance FPGA core, for processing real-time data, and interchangeable SerDes interface devices which can be swapped according to the configuration requirements [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/modular-test-architecture-is-driving-force-for-emerson-2026-07/\">Modular test architecture is driving force for Emerson</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "SWISSto12 $70m raises Series C for HummingSat development",
+    "source": "Electronics Weekly",
+    "date": "2026-07-20",
+    "url": "https://www.electronicsweekly.com/news/business/finance/swissto12-70m-raises-series-c-for-hummingsat-development-2026-07/",
+    "summary": "<p>SWISSto12, the Swiss manufacturer of satellite and payload systems, has closed its $70 million Series C funding round. The capital raise follows the award of $84.8 million from the European [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/swissto12-70m-raises-series-c-for-hummingsat-development-2026-07/\">SWISSto12 $70m raises Series C for HummingSat development</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "European space funding bucks global trends",
     "source": "Electronics Weekly",
     "date": "2026-07-20",
@@ -105,11 +133,74 @@
     "summary": "<p>The new PM seems a likely lad for a flutter and I’ve put up a plan to enable Prediction Markets. Prediction Markets have become a big deal in the US. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-eyes-prediction-markets-2026-07/\">Ed Eyes Prediction Markets</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Accessing i.MX RT1060 registers from within C/C++",
+    "source": "Adafruit",
+    "date": "2026-07-20",
+    "url": "https://blog.adafruit.com/2026/07/20/accessing-i-mx-rt1060-registers-from-within-c-c/",
+    "summary": "imxrt1060-regs is a new and more modern way to access and modify registers on i.MX RT1060 microcontrollers. This library supplies a new and more modern way to access and modify registers. It uses modern C++ features to avoid defines, macros, and other avoidable mistakes. Check out Shawn Silverman&#8217;s work on GitHub."
+  },
+  {
+    "title": "A DIY Media Center built for my blind uncle",
+    "source": "Adafruit",
+    "date": "2026-07-20",
+    "url": "https://blog.adafruit.com/2026/07/20/a-diy-media-center-built-for-my-blind-uncle/",
+    "summary": "Michael Holz wanted to build a media center with physical buttons and rotary switches that offer great tactile feedback for his blind uncle. I used two 11-position rotary switches designed in a way that allows you to easily feel their exact position. There is also a toggle switch to flip between Bluetooth and speaker output, [&#8230;]"
+  },
+  {
+    "title": "The ANSITerm Arduino library",
+    "source": "Adafruit",
+    "date": "2026-07-20",
+    "url": "https://blog.adafruit.com/2026/07/20/the-ansiterm-arduino-library/",
+    "summary": "ANSITerm by Nick Tracy is an Arduino library that sends ANSI/VT-style escape sequences to a terminal via any Stream (e.g., Serial), letting you clear the screen, position the cursor, colorize text, draw boxes/tables, and (where supported) handle mouse clicks. Features (high level) &#160; Screen &#38; cursor control: clearScreen(), setCursorPosition(), resetFormatting() Colors: 8-bit palette index, #RRGGBB / #RGB hex, CSS names, and RGB triplets via setTextColor() / setBackgroundColor() [&#8230;]"
+  },
+  {
+    "title": "Reviving a 15-year-old netbook with Arch Linux",
+    "source": "Adafruit",
+    "date": "2026-07-20",
+    "url": "https://blog.adafruit.com/2026/07/20/reviving-a-15-year-old-netbook-with-arch-linux/",
+    "summary": "Simon Park still has a netbook bought back in 2009. The ASUS Eee PC 1000HE has an Intel Atom N280 and 1GB of DDR2 RAM. The Atom N series was Intel’s line of cheap, low-performance CPUs for netbooks. The chip has 56KB of L1 cache and 512KB of L2 cache, and its clock speed is [&#8230;]"
+  },
+  {
     "title": "Celestial Summer in Madison Square Park",
     "source": "Adafruit",
     "date": "2026-07-20",
     "url": "https://blog.adafruit.com/2026/07/20/celestial-summer-in-madison-square-park/",
     "summary": "How am I just finding out about the concept of a Moon Tree? How twee! How early 1970s late-stage Space Age optimism! Learn more about Celestial Celebrations here from Madison Square Park Conservancy: In 1971, NASA astronaut Stuart Roosa carried seeds from five tree species on the Apollo 14 mission. After returning to Earth, the [&#8230;]"
+  },
+  {
+    "title": "element14 Community invites engineers to choose products they want to test",
+    "source": "EE Journal",
+    "date": "2026-07-20",
+    "url": "https://www.eejournal.com/industry_news/element14-community-invites-engineers-to-choose-products-they-want-to-test/",
+    "summary": "PHOENIX – July 14, 2026: element14, an Avnet community, has launched a new initiative within its RoadTest program, inviting engineers to apply to test and review a product of their choosing. The initiative allows participants to request any product priced at $175 or less from Newark, Farnell or element14 online stores. Ten selected applicants will receive their chosen product at &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/element14-community-invites-engineers-to-choose-products-they-want-to-test/\">Read More &#8594;<span class=\"screen-reader-text\"> \"element14 Community invites engineers to choose products they want to test\"</span></a>"
+  },
+  {
+    "title": "Application Benefits of M-CRPS for Embedded Redundant Power Solutions — Bel and Mouser Electronics",
+    "source": "EE Journal",
+    "date": "2026-07-20",
+    "url": "https://www.eejournal.com/chalk_talks/application-benefits-of-m-crps-for-embedded-redundant-power-solutions-bel-and-mouser-electronics/",
+    "summary": "&#160; In this episode of Chalk Talk, Ian Warner from Bel and Amelia Dalton explore why the industry is shifting from legacy CRPS to the M-CRPS standard, how open standard solutions from the Open Compute Project provide superior reliability, intelligent monitoring, and the flexibility needed to power the next generation of data center and networking &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/chalk_talks/application-benefits-of-m-crps-for-embedded-redundant-power-solutions-bel-and-mouser-electronics/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Application Benefits of M-CRPS for Embedded Redundant Power Solutions &#8212; Bel and Mouser Electronics\"</span></a>"
+  },
+  {
+    "title": "TDK introduces HVC 5422C embedded motor controller for silent BLDC applications up to 1A",
+    "source": "EE Journal",
+    "date": "2026-07-20",
+    "url": "https://www.eejournal.com/industry_news/tdk-introduces-hvc-5422c-embedded-motor-controller-for-silent-bldc-applications-up-to-1a/",
+    "summary": "&#8211;  Single-chip solution with integrated LIN transceiver, MCU, and motor driver help reduce system complexity and BOM cost &#8211;  64 K Flash and 4 KB EEPROM support over-the-air (OTA) software updates and sophisticated control algorithms &#8211;  Advanced Field Oriented Control (FOC) capabilities enable smooth motor operation while reducing acoustic noise to a minimum &#8211;  Cyber &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/tdk-introduces-hvc-5422c-embedded-motor-controller-for-silent-bldc-applications-up-to-1a/\">Read More &#8594;<span class=\"screen-reader-text\"> \"TDK introduces HVC 5422C embedded motor controller for silent BLDC applications up to 1A\"</span></a>"
+  },
+  {
+    "title": "MathWorks Enables AI Agents to Execute and Validate Engineering Workflows within MATLAB",
+    "source": "EE Journal",
+    "date": "2026-07-20",
+    "url": "https://www.eejournal.com/industry_news/mathworks-enables-ai-agents-to-execute-and-validate-engineering-workflows-within-matlab/",
+    "summary": "MathWorks, the leading developer of mathematical computing software for designing engineered systems, announced new capabilities that let AI agents run and refine MATLAB® workflows through two new open-source tools—MATLAB MCP Server and MATLAB Agentic Toolkit—using Model Context Protocol. With these tools, agents can write MATLAB code, run it in a live session, examine outputs or errors, and iterate toward &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/mathworks-enables-ai-agents-to-execute-and-validate-engineering-workflows-within-matlab/\">Read More &#8594;<span class=\"screen-reader-text\"> \"MathWorks Enables AI Agents to Execute and Validate Engineering Workflows within MATLAB\"</span></a>"
+  },
+  {
+    "title": "TANAKA Commences Operation of “TANAKA H2 Nexus”, One of Japan’s Largest 500 kW Pure Hydrogen Fuel Cell Power Generation Facilities",
+    "source": "EE Journal",
+    "date": "2026-07-20",
+    "url": "https://www.eejournal.com/industry_news/tanaka-commences-operation-of-tanaka-h2-nexus-one-of-japans-largest-500-kw-pure-hydrogen-fuel-cell-power-generation-facilities/",
+    "summary": "TANAKA PRECIOUS METAL TECHNOLOGIES Co., Ltd. (Head Office: Chuo-ku, Tokyo; Representative Director &#38; CEO: Koichiro Tanaka), a company engaged in the industrial precious metals business of TANAKA, today announced that &#8220;TANAKA H2 Nexus&#8221;, one of Japan&#8217;s largest 500 kW pure hydrogen fuel cell power generation facilities, began operation on July 8, 2026, at the TANAKA &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/tanaka-commences-operation-of-tanaka-h2-nexus-one-of-japans-largest-500-kw-pure-hydrogen-fuel-cell-power-generation-facilities/\">Read More &#8594;<span class=\"screen-reader-text\"> \"TANAKA Commences Operation of &#8220;TANAKA H2 Nexus&#8221;, One of Japan&#8217;s Largest 500 kW Pure Hydrogen Fuel Cell Power Generation Facilities\"</span></a>"
   },
   {
     "title": "VÆRIDION selects Drive System Design to advance the Microliner electric propulsion system",
@@ -124,20 +215,6 @@
     "date": "2026-07-19",
     "url": "https://hackaday.com/2026/07/19/hackaday-links-july-19-2026/",
     "summary": "<div><img alt=\"Hackaday Links Column Banner\" class=\"attachment-large size-large wp-post-image\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We&#8217;ll start this week off by giving our congratulations to Skyroot Aerospace of India for successfully launching the country&#8217;s first privately developed orbital rocket yesterday. The company&#8217;s Vikram-1 booster stands <a class=\"read-more\" href=\"https://hackaday.com/2026/07/19/hackaday-links-july-19-2026/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Automated Pressure Advance Using a Bed-Leveling Sensor",
-    "source": "Hackaday",
-    "date": "2026-07-19",
-    "url": "https://hackaday.com/2026/07/19/automated-pressure-advance-using-a-bed-leveling-sensor/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"437\" src=\"https://hackaday.com/wp-content/uploads/2026/07/pressure_advance_k-value_cnckitchen_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One of the most crucial aspects of FDM 3D printing is ensuring sufficient material is extruded. Determining the right flow rate can be done manually, but some printers these days <a class=\"read-more\" href=\"https://hackaday.com/2026/07/19/automated-pressure-advance-using-a-bed-leveling-sensor/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Recycling Laptops and iMacs Makes PC Building Fun and Affordable Again",
-    "source": "Hackaday",
-    "date": "2026-07-19",
-    "url": "https://hackaday.com/2026/07/19/recycling-laptops-and-imacs-makes-pc-building-fun-and-affordable-again/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/recycled-laptop-PC-build.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Building a PC used to be a fun adventure &#8212; what&#8217;s the latest, what&#8217;s the greatest, what can I afford? Well, that last question seems to have taken over and <a class=\"read-more\" href=\"https://hackaday.com/2026/07/19/recycling-laptops-and-imacs-makes-pc-building-fun-and-affordable-again/\">&#8230;read more</a>"
   },
   {
     "title": "Beelink EQi 304 review – Part 3: Ubuntu 26.04 on a Wildcat Lake mini PC",
@@ -203,13 +280,6 @@
     "summary": "Build a handy kitchen timer with the Adafruit MagTag. This project uses the eInk display, NeoPixels, and built-in buttons of the Adafruit MagTag to make a rechargeable, programmable kitchen timer that is also magnetic. The MagTag displays the time left and then plays an alarm through the speaker and flashes the NeoPixels when the timer [&#8230;]"
   },
   {
-    "title": "Sci-Fi Nuclear Core Battery Lamp",
-    "source": "Adafruit",
-    "date": "2026-07-18",
-    "url": "https://blog.adafruit.com/2026/07/18/sci-fi-nuclear-core-battery-lamp/",
-    "summary": "image via technocraftStudio/Instructables &#160; Instructables user technocraftStudio made a lamp that looks like a sci-fi nuclear core and shared the build: Have you ever wanted to bring a piece of a futuristic, post-apocalyptic wasteland or a high-tech video game universe right onto your desk? The Sci-Fi Nuclear Core Battery Lamp is a functional piece of [&#8230;]"
-  },
-  {
     "title": "Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs",
     "source": "CNX Software",
     "date": "2026-07-17",
@@ -250,41 +320,6 @@
     "date": "2026-07-17",
     "url": "https://www.electronicsweekly.com/news/products/connectors/samtec-angled-launch-connectors-for-precision-rf-2026-07/",
     "summary": "<p>Samtec is announcing full production availability of its 185-AL series of 1.85 mm 30-degree angled launch board connector (185-AL Series). The angled launch is to allow cables to exit PCBs [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/connectors/samtec-angled-launch-connectors-for-precision-rf-2026-07/\">Samtec angled launch connectors for precision RF</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Tales In Sintra",
-    "source": "Electronics Weekly",
-    "date": "2026-07-17",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/tales-in-sintra-2026-07/",
-    "summary": "<p>The concerns of the day were aired at the1999 9th Future Horizons  Electronics Forum in Sintra, Portugal. For Wally Rhines, CEO of Mentor Graphics, the concern was the HE/SW interface. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/tales-in-sintra-2026-07/\">Tales In Sintra</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Most Read – Intel Leixlip, Tesla A15 chip, MicroLED manufacturing",
-    "source": "Electronics Weekly",
-    "date": "2026-07-17",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-leixlip-tesla-a15-chip-microled-manufacturing-2026-07/",
-    "summary": "<p>The stories cover MicroLED manufacturing, fabbing the Tesla A15 chip, and Bosch starting semiconductor production in the U.S. And there's also a major landmark for the Chinese space industry and Intel announcing a $5.7 billion capital investment in Fab 34 at Leixlip, Ireland...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-leixlip-tesla-a15-chip-microled-manufacturing-2026-07/\">Most Read &#8211; Intel Leixlip, Tesla A15 chip, MicroLED manufacturing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "From the Adafruit Learning System: LED Campfire",
-    "source": "Adafruit",
-    "date": "2026-07-17",
-    "url": "https://blog.adafruit.com/2026/07/17/from-the-adafruit-learning-system-led-campfire/",
-    "summary": "Summertime means being outdoors, looking at the stars, and spending time with friends and family. Traditionally, a camp fire or backyard fire has been a place to gather and relax after a hard day&#8217;s hike. Many campsites don&#8217;t allow individual fires &#8212; and in my world, it&#8217;s just not true camping without a campfire. Nothing [&#8230;]"
-  },
-  {
-    "title": "Subscribe to the Adafruit Youtube channel! #Youtube #AdafruitLearnSystem",
-    "source": "Adafruit",
-    "date": "2026-07-17",
-    "url": "https://blog.adafruit.com/2026/07/17/subscribe-to-the-adafruit-youtube-channel-youtube-adafruitlearnsystem-226-2/",
-    "summary": "﻿ Are you subscribed to the Adafruit Youtube channel? If you&#8217;re not already subscribed, click here! http://adafru.it/subscribe . It’s a free and easy way to keep up with our newest episodes. Here’s some of what we’re up to. Electronics Show and Tell Wednesdays 7:30pm Electronics show and tell every Wednesday at 7:30pm ET. Adafruit Ask [&#8230;]"
-  },
-  {
-    "title": "Inky Bird Frame Birdwatcher Log #piday #raspberrypi",
-    "source": "Adafruit",
-    "date": "2026-07-17",
-    "url": "https://blog.adafruit.com/2026/07/17/inky-bird-frame-birdwatcher-log-piday-raspberrypi/",
-    "summary": "&#8220;A finished portrait installation using the recommended 12 x 16 inch frame with a panel-fitted mat opening.&#8221; Image via GitHub &#160; Keep tabs on local avian visitors with this project from Henry Sowell on GitHub, Shared via Reddit. The Pimoroni Inky Impression for Raspberry Pi – 13.3&#8243; &#8211; PIM774 displays field journal illustrations and images [&#8230;]"
   },
   {
     "title": "Securing the Silicon: The Seismic Shift to Hardware Security",
@@ -376,41 +411,6 @@
     "date": "2026-07-14",
     "url": "https://www.embedded.com/liquid-instruments-unveils-geninst-studio-for-custom-test-design/",
     "summary": "<p>The agentic AI test solution delivers application-specific instruments in minutes.</p>\n<p>The post <a href=\"https://www.embedded.com/liquid-instruments-unveils-geninst-studio-for-custom-test-design/\">Liquid Instruments Unveils GenInst Studio for Custom Test Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "From Sunlight to Smartphones: The Hidden World of DC‑DC Converters – Eaton and Mouser",
-    "source": "EE Journal",
-    "date": "2026-07-14",
-    "url": "https://www.eejournal.com/chalk_talks/from-sunlight-to-smartphones-the-hidden-world-of-dc-dc-converters-eaton-and-mouser/",
-    "summary": "&#160; In this episode of Chalk Talk, Mohammad Mohiuddin from Eaton and Amelia Dalton explore the fundamentals of DC-DC conversion, the benefits of the different types of converter architectures and how technologies like gallium nitride, silicon carbide, traditional silicon MOSFETs, and IGBTs compare when it comes to efficiency, switching speed, and power density. They also &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/chalk_talks/from-sunlight-to-smartphones-the-hidden-world-of-dc-dc-converters-eaton-and-mouser/\">Read More &#8594;<span class=\"screen-reader-text\"> \"From Sunlight to Smartphones: The Hidden World of DC‑DC Converters – Eaton and Mouser\"</span></a>"
-  },
-  {
-    "title": "TDK expands HWS3000 series with wide range three-phase input model",
-    "source": "EE Journal",
-    "date": "2026-07-14",
-    "url": "https://www.eejournal.com/industry_news/tdk-expands-hws3000-series-with-wide-range-three-phase-input-model/",
-    "summary": "TDK Corporation (TSE:6762) announces the expansion of the 3000 W TDK-Lambda HWS3000 programmable AC-DC power supply series with the introduction of the HWS3000GT4 model. Now available with a new wide-range 340 – 528 Vac three-phase input option, this addition offers engineers greater installation flexibility, improved compatibility with global industrial power systems, and enhanced resilience in &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/tdk-expands-hws3000-series-with-wide-range-three-phase-input-model/\">Read More &#8594;<span class=\"screen-reader-text\"> \"TDK expands HWS3000 series with wide range three-phase input model\"</span></a>"
-  },
-  {
-    "title": "RAIN in Action to Explore How RAIN-Enabled Infrastructure Translates to Real-World Impact",
-    "source": "EE Journal",
-    "date": "2026-07-14",
-    "url": "https://www.eejournal.com/industry_news/rain-in-action-to-explore-how-rain-enabled-infrastructure-translates-to-real-world-impact/",
-    "summary": "RAIN Alliance has today announced that its RAIN in Action Summit will return later this year. From 29 September to 1 October, industry leaders, innovators, and end users are invited to Madrid, Spain for three days to explore how RAIN technology is helping shape a smarter, more connected, and sustainable future. This year’s theme, “From Infrastructure to Impact” &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/rain-in-action-to-explore-how-rain-enabled-infrastructure-translates-to-real-world-impact/\">Read More &#8594;<span class=\"screen-reader-text\"> \"RAIN in Action to Explore How RAIN-Enabled Infrastructure Translates to Real-World Impact\"</span></a>"
-  },
-  {
-    "title": "Infineon and LS ELECTRIC collaborate to advance high-efficiency direct current power solutions for AI data centers",
-    "source": "EE Journal",
-    "date": "2026-07-14",
-    "url": "https://www.eejournal.com/industry_news/infineon-and-ls-electric-collaborate-to-advance-high-efficiency-direct-current-power-solutions-for-ai-data-centers/",
-    "summary": "Collaboration focuses on power conversion systems for energy storage, solid-state transformers and solid-state circuit breakers Infineon&#8217;s semiconductors help enhance efficiency, performance and reliability of DC power infrastructure systems  Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) and LS ELECTRIC have signed a Memorandum of Understanding (MoU) to collaborate on high-efficiency direct current (DC) power infrastructure &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/infineon-and-ls-electric-collaborate-to-advance-high-efficiency-direct-current-power-solutions-for-ai-data-centers/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Infineon and LS ELECTRIC collaborate to advance high-efficiency direct current power solutions for AI data centers\"</span></a>"
-  },
-  {
-    "title": "Saelig Introduces 4th Generation AIM-TTi PSA2704RT 2.7GHz Spectrum Analyzers",
-    "source": "EE Journal",
-    "date": "2026-07-14",
-    "url": "https://www.eejournal.com/industry_news/saelig-introduces-4th-generation-aim-tti-psa2704rt-2-7ghz-spectrum-analyzers/",
-    "summary": "Saelig Company, Inc. has announced the release of the AIM TTi PSA Series 4 Handheld Spectrum Analyzers. A significant technical leap forward for the popular PSA family, this next-generation series introduces real-time signal capture alongside classic swept and fast-swept FFT modes. Designed specifically to match the rapid pace of modern RF design, telecommunications debugging, and wireless field testing, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/saelig-introduces-4th-generation-aim-tti-psa2704rt-2-7ghz-spectrum-analyzers/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Saelig Introduces 4th Generation AIM-TTi PSA2704RT 2.7GHz Spectrum Analyzers\"</span></a>"
   },
   {
     "title": "Swissbit, Nexperia Partner on Secure Hardware Platforms",

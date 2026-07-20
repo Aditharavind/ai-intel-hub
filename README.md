@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-20 13:41 UTC
+Last Updated: 2026-07-20 15:41 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-20 | AGIBOT unveils four embodied AI products for real-world operations at WAIC | Robotics Business Review | [link](https://www.therobotreport.com/agibot-unveils-four-embodied-ai-products-real-world-operations-waic/) |
 | 2026-07-19 | How to avoid the teleoperation trap in robotics development | Robotics Business Review | [link](https://www.therobotreport.com/how-to-avoid-teleoperation-trap-robotics-development/) |
 | 2026-07-18 | Palm Garden AI develops Coherence Guard relational decision layer for human-facing robots | Robotics Business Review | [link](https://www.therobotreport.com/palm-garden-ai-develops-coherence-guard-relational-decision-layer-human-facing-robots/) |
 | 2026-07-17 | With new funding, Monumental plans to bring its construction robots to the U.S. | Robotics Business Review | [link](https://www.therobotreport.com/with-new-funding-monumental-plans-bring-construction-robots-u-s/) |
@@ -44,11 +45,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-17 | Founder of Maximo discusses how robotics is accelerating solar construction | Robotics Business Review | [link](https://www.therobotreport.com/transforming-solar-construction-through-robotics-deise-yumi-asami-maximo/) |
 | 2026-07-16 | Lockheed Martin taps Machina’s robots for mission-critical missile parts | Robotics Business Review | [link](https://www.therobotreport.com/lockheed-martin-taps-machinas-robots-for-mission-critical-missile-parts/) |
 | 2026-07-16 | Xpanner rolls out X1 Panel Lift for automated solar panel installation | Robotics Business Review | [link](https://www.therobotreport.com/xpanner-rolls-out-x1-panel-lift-automated-solar-panel-installation/) |
-| 2026-07-16 | How to Make an Invisible Drone | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/invisible-spinning-drone) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-20 | Old SSDs Find New Life as Game Cartridges | Hackaday | [link](https://hackaday.com/2026/07/20/old-ssds-find-new-life-as-game-cartridges/) |
+| 2026-07-20 | Launching Rockets is Hard, Bring them Back is Harder | Hackaday | [link](https://hackaday.com/2026/07/20/launching-rockets-is-hard-bring-them-back-is-harder/) |
 | 2026-07-20 | Earth-like LHS 1140b May Feature the First Atmosphere Found on Exoplanet | Hackaday | [link](https://hackaday.com/2026/07/20/earth-like-lhs-1140b-may-feature-the-first-atmosphere-found-on-exoplanet/) |
 | 2026-07-20 | Could Reticulum Power a Post-Internet Network? | Hackaday | [link](https://hackaday.com/2026/07/20/could-reticulum-power-a-post-internet-network/) |
 | 2026-07-20 | Seven Ways to Install Magnets Into Your 3D Prints | Hackaday | [link](https://hackaday.com/2026/07/19/seven-ways-to-install-magnets-into-your-3d-prints/) |
@@ -57,8 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-20 | Geniatech XPI-3576-CM5 – A Raspberry Pi CM5-compatible Rockchip RK3576 AI Compute Module with WiFi 6, Bluetooth 5.3 | CNX Software | [link](https://www.cnx-software.com/2026/07/20/geniatech-xpi-3576-cm5-a-raspberry-pi-cm5-compatible-rockchip-rk3576-ai-compute-module-with-wifi-6-bluetooth-5-3/) |
 | 2026-07-20 | IoTextra modular automation boards with 4 inputs, 4 outputs work with Raspberry Pi and ESP32 MCU boards | CNX Software | [link](https://www.cnx-software.com/2026/07/20/iotextra-modular-automation-boards-with-4-inputs-4-outputs-work-with-raspberry-pi-and-esp32-mcu-boards/) |
 | 2026-07-20 | Efinix Titanium Edge FPGA family targets low-power edge AI and vision systems | CNX Software | [link](https://www.cnx-software.com/2026/07/20/efinix-titanium-edge-fpga-family-targets-low-power-edge-ai-and-vision-systems/) |
-| 2026-07-20 | European space funding bucks global trends | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/european-space-funding-bucks-global-trends-2026-07/) |
-| 2026-07-20 | Xi sets out China’s AI stall | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/xi-sets-out-chinas-ai-stall-2026-07/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,16 +77,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-20 | junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmlang0p5_bblr2e5 | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmlang0p5_bblr2e5) |
+| 2026-07-20 | junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmlang0p5_bblr2e5_s30000 | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmlang0p5_bblr2e5_s30000) |
+| 2026-07-20 | Do-Hyun-robot/smolvla_dohyun_v4_policy | 0 | 0 | [link](https://huggingface.co/Do-Hyun-robot/smolvla_dohyun_v4_policy) |
+| 2026-07-20 | silent666/robotics-vla-task-23-basic | 0 | 0 | [link](https://huggingface.co/silent666/robotics-vla-task-23-basic) |
 | 2026-07-20 | JSHNSL/act_lift_box_real_robot | 0 | 0 | [link](https://huggingface.co/JSHNSL/act_lift_box_real_robot) |
 | 2026-07-20 | Superrrdamn/robotics-vla-task-23-large | 0 | 0 | [link](https://huggingface.co/Superrrdamn/robotics-vla-task-23-large) |
 | 2026-07-20 | MerazAhmed3420/task-23-robotics-vla-siglip | 0 | 0 | [link](https://huggingface.co/MerazAhmed3420/task-23-robotics-vla-siglip) |
 | 2026-07-20 | MerazAhmed3420/task-23-robotics-vla | 0 | 0 | [link](https://huggingface.co/MerazAhmed3420/task-23-robotics-vla) |
 | 2026-07-20 | Superrrdamn/robotics-vla-task-23-basic | 0 | 0 | [link](https://huggingface.co/Superrrdamn/robotics-vla-task-23-basic) |
 | 2026-07-20 | openbmb/MiniCPM-RobotManip | 0 | 40 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
-| 2026-07-20 | OpenWAM/Pretrained_OpenWAM_RoboTwin_Clean_SFT | 0 | 0 | [link](https://huggingface.co/OpenWAM/Pretrained_OpenWAM_RoboTwin_Clean_SFT) |
-| 2026-07-20 | RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_chunk100_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_chunk100_100k) |
-| 2026-07-20 | RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_kl5_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_kl5_100k) |
-| 2026-07-20 | RobotisSW/Pick_Peanut_Mix_WhiteShelf_050000 | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Peanut_Mix_WhiteShelf_050000) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -95,12 +95,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1418 | Rust | 567.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 891 | Python | 356.5 | [link](https://github.com/mosaico-labs/mosaico) |
 | ros-claw/rosclaw | 168 | Python | 67.3 | [link](https://github.com/ros-claw/rosclaw) |
-| arpitg1304/forge | 158 | Python | 63.3 | [link](https://github.com/arpitg1304/forge) |
+| arpitg1304/forge | 157 | Python | 62.9 | [link](https://github.com/arpitg1304/forge) |
 | ROBOTIS-GIT/ai_worker | 155 | C++ | 62.1 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| commaai/openpilot | 63172 | Python | 25268.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63174 | Python | 25269.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15514 | C++ | 6205.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14265 | C++ | 5706.1 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11147 | Rust | 4458.9 | [link](https://github.com/rerun-io/rerun) |
+| rerun-io/rerun | 11148 | Rust | 4459.3 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

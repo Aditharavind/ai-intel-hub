@@ -41,13 +41,13 @@
   },
   {
     "repo": "arpitg1304/forge",
-    "stars": 158,
+    "stars": 157,
     "language": "Python",
     "description": "Robotics Data Toolkit | Convert between robotics dataset formats (RLDS, LeRobot v2/v3, Zarr, HDF5, Rosbag). Inspect, visualize, and analyze datasets. Works with HuggingFace Hub. Built for OpenVLA, Octo, LeRobot, and Diffusion Policy workflows.",
     "url": "https://github.com/arpitg1304/forge",
     "date": "2026-07-20",
     "topic": "lerobot",
-    "score": 63.3
+    "score": 62.9
   },
   {
     "repo": "ROBOTIS-GIT/ai_worker",
@@ -61,13 +61,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63172,
+    "stars": 63174,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-07-20",
     "topic": "robotics",
-    "score": 25268.9
+    "score": 25269.7
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -91,33 +91,33 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11147,
+    "stars": 11148,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-07-20",
     "topic": "robotics",
-    "score": 4458.9
+    "score": 4459.3
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7714,
+    "stars": 7715,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-07-20",
     "topic": "robot-learning",
-    "score": 3085.7
+    "score": 3086.1
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4178,
+    "stars": 4179,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-07-20",
     "topic": "embodied-ai",
-    "score": 1671.3
+    "score": 1671.7
   },
   {
     "repo": "dora-rs/dora",
@@ -131,13 +131,23 @@
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3188,
+    "stars": 3189,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-07-20",
     "topic": "embodied-ai",
-    "score": 1275.3
+    "score": 1275.7
+  },
+  {
+    "repo": "datawhalechina/every-embodied",
+    "stars": 2768,
+    "language": "Python",
+    "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
+    "url": "https://github.com/datawhalechina/every-embodied",
+    "date": "2026-07-20",
+    "topic": "embodied-ai",
+    "score": 1107.3
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -161,13 +171,13 @@
   },
   {
     "repo": "flashrt-project/FlashRT",
-    "stars": 436,
+    "stars": 437,
     "language": "C++",
     "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
     "url": "https://github.com/flashrt-project/FlashRT",
     "date": "2026-07-20",
     "topic": "vla",
-    "score": 174.5
+    "score": 174.9
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -220,6 +230,26 @@
     "score": 864.5
   },
   {
+    "repo": "Matrixchung/iFOC",
+    "stars": 25,
+    "language": "C++",
+    "description": "iFOC - High Performance Field Oriented Control System, whose 'i' stands for Intelligent, Integrated and Instant.",
+    "url": "https://github.com/Matrixchung/iFOC",
+    "date": "2026-07-20",
+    "topic": "humanoid",
+    "score": 10.1
+  },
+  {
+    "repo": "johnsutor/so101-nexus",
+    "stars": 23,
+    "language": "Python",
+    "description": "Full-stack robot learning for the SO-101 arm: teleoperation, imitation learning, and RL in MuJoCo.",
+    "url": "https://github.com/johnsutor/so101-nexus",
+    "date": "2026-07-20",
+    "topic": "lerobot",
+    "score": 9.3
+  },
+  {
     "repo": "kornia/kornia",
     "stars": 11282,
     "language": "Python",
@@ -228,16 +258,6 @@
     "date": "2026-07-19",
     "topic": "robotics",
     "score": 4512.9
-  },
-  {
-    "repo": "datawhalechina/every-embodied",
-    "stars": 2766,
-    "language": "Python",
-    "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
-    "url": "https://github.com/datawhalechina/every-embodied",
-    "date": "2026-07-19",
-    "topic": "embodied-ai",
-    "score": 1106.5
   },
   {
     "repo": "nv-tlabs/lyra",
@@ -280,16 +300,6 @@
     "score": 36.9
   },
   {
-    "repo": "johnsutor/so101-nexus",
-    "stars": 23,
-    "language": "Python",
-    "description": "Full-stack robot learning for the SO-101 arm: teleoperation, imitation learning, and RL in MuJoCo.",
-    "url": "https://github.com/johnsutor/so101-nexus",
-    "date": "2026-07-19",
-    "topic": "lerobot",
-    "score": 9.3
-  },
-  {
     "repo": "DLR-RM/stable-baselines3",
     "stars": 13595,
     "language": "Python",
@@ -308,16 +318,6 @@
     "date": "2026-07-18",
     "topic": "embodied-ai",
     "score": 1366.1
-  },
-  {
-    "repo": "Matrixchung/iFOC",
-    "stars": 25,
-    "language": "C++",
-    "description": "iFOC - High Performance Field Oriented Control System, whose 'i' stands for Intelligent, Integrated and Instant.",
-    "url": "https://github.com/Matrixchung/iFOC",
-    "date": "2026-07-18",
-    "topic": "humanoid",
-    "score": 10.1
   },
   {
     "repo": "Mr-C4T/AB-SO-BOT",
@@ -471,13 +471,13 @@
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2605,
+    "stars": 2606,
     "language": "Python",
     "description": "RoboTwin 2.0 Offical Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-07-14",
     "topic": "embodied-ai",
-    "score": 1042.1
+    "score": 1042.5
   },
   {
     "repo": "zchoi/Awesome-Embodied-Robotics-and-Agent",
@@ -531,13 +531,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 8524,
+    "stars": 8555,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 3409.7
+    "score": 3422.1
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -601,13 +601,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82535,
+    "stars": 82538,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 33014.1
+    "score": 33015.3
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
@@ -641,13 +641,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2102,
+    "stars": 2106,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-07-06",
     "topic": "humanoid",
-    "score": 840.9
+    "score": 842.5
   },
   {
     "repo": "jackvial/lerobot-data-studio",
@@ -801,13 +801,13 @@
   },
   {
     "repo": "mani-skill/ManiSkill",
-    "stars": 3124,
+    "stars": 3125,
     "language": "Python",
     "description": "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
     "url": "https://github.com/mani-skill/ManiSkill",
     "date": "2026-06-24",
     "topic": "robot-learning",
-    "score": 1249.7
+    "score": 1250.1
   },
   {
     "repo": "automatika-robotics/emos",
