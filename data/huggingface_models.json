@@ -1,5 +1,14 @@
 [
   {
+    "model": "JSHNSL/act_lift_box_real_robot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/JSHNSL/act_lift_box_real_robot",
+    "date": "2026-07-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "Superrrdamn/robotics-vla-task-23-large",
     "downloads": 0,
     "likes": 0,
@@ -38,11 +47,11 @@
   {
     "model": "openbmb/MiniCPM-RobotManip",
     "downloads": 0,
-    "likes": 39,
+    "likes": 40,
     "url": "https://huggingface.co/openbmb/MiniCPM-RobotManip",
     "date": "2026-07-20",
     "keyword": "robot",
-    "score": 7.9
+    "score": 8.1
   },
   {
     "model": "OpenWAM/Pretrained_OpenWAM_RoboTwin_Clean_SFT",
@@ -94,15 +103,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/RobotisSW/Pick_Peanut_Mix_WhiteShelf_030000",
-    "date": "2026-07-20",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Pick_Peanut_Mix_WhiteShelf_020000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Pick_Peanut_Mix_WhiteShelf_020000",
     "date": "2026-07-20",
     "keyword": "robot",
     "score": 0.1
@@ -168,6 +168,24 @@
     "url": "https://huggingface.co/ubr-physical-ai/UBR-Nav-E4B",
     "date": "2026-07-20",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "ChristianZ97/satp-policy-v2-alphaproof",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ChristianZ97/satp-policy-v2-alphaproof",
+    "date": "2026-07-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Yangkyu/record-test_all_pickplace_act_policy_test",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Yangkyu/record-test_all_pickplace_act_policy_test",
+    "date": "2026-07-20",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -256,24 +274,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/kdh8156/cosmos3-libero-all-policy-n-point",
-    "date": "2026-07-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Yangkyu/record-test_20260716_172246_act_policy_test",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Yangkyu/record-test_20260716_172246_act_policy_test",
-    "date": "2026-07-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "2usang/omx_act_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/2usang/omx_act_policy",
     "date": "2026-07-20",
     "keyword": "policy",
     "score": 0.1
