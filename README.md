@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-19 23:43 UTC
+Last Updated: 2026-07-20 01:18 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-20 | Ed Eyes Prediction Markets | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-eyes-prediction-markets-2026-07/) |
 | 2026-07-19 | Hackaday Links: July 19, 2026 | Hackaday | [link](https://hackaday.com/2026/07/19/hackaday-links-july-19-2026/) |
 | 2026-07-19 | Automated Pressure Advance Using a Bed-Leveling Sensor | Hackaday | [link](https://hackaday.com/2026/07/19/automated-pressure-advance-using-a-bed-leveling-sensor/) |
 | 2026-07-19 | Recycling Laptops and iMacs Makes PC Building Fun and Affordable Again | Hackaday | [link](https://hackaday.com/2026/07/19/recycling-laptops-and-imacs-makes-pc-building-fun-and-affordable-again/) |
@@ -58,49 +59,48 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-19 | Open-Source Mid-Drive e-Bike Motor Has Lots of Promise, and Hyphens | Hackaday | [link](https://hackaday.com/2026/07/18/open-source-mid-drive-e-bike-motor-has-lots-of-promise-and-hyphens/) |
 | 2026-07-19 | Beelink EQi 304 review – Part 3: Ubuntu 26.04 on a Wildcat Lake mini PC | CNX Software | [link](https://www.cnx-software.com/2026/07/19/beelink-eqi-304-review-part-3-ubuntu-26-04-on-a-wildcat-lake-mini-pc/) |
 | 2026-07-19 | The Existence of an Atmosphere Surrounding an Earth-like Planet | Adafruit | [link](https://blog.adafruit.com/2026/07/19/the-existence-of-an-atmosphere-surrounding-an-earth-like-planet/) |
-| 2026-07-19 | Adafruit Weekly Editorial Round Up: Pool Noodle Numchucks, Demofruit Rotozoom, & more! | Adafruit | [link](https://blog.adafruit.com/2026/07/19/adafruit-weekly-editorial-round-up-pool-noodle-numchucks-demofruit-rotozoom-more/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-16 | Hierarchical Denoising For Multi-Step Visual Reasoning | [link](https://arxiv.org/pdf/2607.15278v1) |
-| 2026-07-16 | RoboTTT: Context Scaling for Robot Policies | [link](https://arxiv.org/pdf/2607.15275v1) |
-| 2026-07-16 | Motion-Conditioned Multi-View Fusion for Myocardial Infarction Localization from Echocardiography | [link](https://arxiv.org/pdf/2607.15268v1) |
-| 2026-07-16 | Symbal: Detecting Systematic Misalignments in Model-Generated Captions | [link](https://arxiv.org/pdf/2607.15216v1) |
-| 2026-07-16 | BadWAM: When World-Action Models Dream Right but Act Wrong | [link](https://arxiv.org/pdf/2607.15207v1) |
-| 2026-07-16 | Stigmergic Graph Memory: An Environment-Aware Approach for Many-to-Many Multi-Agent Pickup and Delivery | [link](https://arxiv.org/pdf/2607.15182v1) |
-| 2026-07-16 | AHEAD: Anticipatory Hand-Driven Teleoperation via Human Intent Prediction | [link](https://arxiv.org/pdf/2607.15172v1) |
-| 2026-07-16 | Scaling Behavior Foundation Model for Humanoid Robots | [link](https://arxiv.org/pdf/2607.15163v1) |
-| 2026-07-16 | Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults | [link](https://arxiv.org/pdf/2607.15156v1) |
-| 2026-07-16 | Concept-Guided Spatial Regularization for World Models in Atari Pong | [link](https://arxiv.org/pdf/2607.15142v1) |
+| 2026-07-17 | Handroid: Bridging Dexterous Hand and Humanoid | [link](https://arxiv.org/pdf/2607.16187v1) |
+| 2026-07-17 | Vision-Language-Motion Maps: An Open-Vocabulary, Uncertainty-Aware, Queryable Motion Attribute for 3D Scene Maps | [link](https://arxiv.org/pdf/2607.16173v1) |
+| 2026-07-17 | VTLoc: Learning-based Tactile Contact Localization in Visual Point Clouds | [link](https://arxiv.org/pdf/2607.16146v1) |
+| 2026-07-17 | A New Implementation of NeoSLAM and a Comparative Evaluation with RatSLAM | [link](https://arxiv.org/pdf/2607.16143v1) |
+| 2026-07-17 | BayesContact: Uncertain Pose Estimation via Visuo-Tactile Proposals and Simulation-based Inference | [link](https://arxiv.org/pdf/2607.16123v1) |
+| 2026-07-17 | Let the Body Follow: Coupled Egocentric Control for Whole-Body Robot Teleoperation | [link](https://arxiv.org/pdf/2607.16095v1) |
+| 2026-07-17 | JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models | [link](https://arxiv.org/pdf/2607.16074v1) |
+| 2026-07-17 | DELUGE: Towards Continental-Scale Daily Pluvial Flood Damage Prediction via Interpretable Conditioning on Foundation Model Embeddings | [link](https://arxiv.org/pdf/2607.16050v1) |
+| 2026-07-17 | Revisiting data-driven dynamic security assessment with a tabular foundation model | [link](https://arxiv.org/pdf/2607.16031v1) |
+| 2026-07-17 | PIXIE: A Zero-Shot texture-invariant 6D pose estimation framework for unseen objects with assembly defects | [link](https://arxiv.org/pdf/2607.16015v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-19 | qualia-robotics/pi05-b601-dm-icehockey-v1-72e6d068 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-b601-dm-icehockey-v1-72e6d068) |
-| 2026-07-19 | masternodedata1/pollen-robotics-reachy-mini.hf.space | 0 | 0 | [link](https://huggingface.co/masternodedata1/pollen-robotics-reachy-mini.hf.space) |
-| 2026-07-19 | OpenWAM/Pretrained_OpenWAM_RoboTwin_Full_SFT | 0 | 0 | [link](https://huggingface.co/OpenWAM/Pretrained_OpenWAM_RoboTwin_Full_SFT) |
-| 2026-07-19 | JackieMM/RoboTwin-pi05-30000-checkpoints | 0 | 0 | [link](https://huggingface.co/JackieMM/RoboTwin-pi05-30000-checkpoints) |
-| 2026-07-19 | RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora | 0 | 0 | [link](https://huggingface.co/RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora) |
-| 2026-07-19 | SakikoTogawa/pi0_robotwin_lora-stamp_seal-100-himaconpp_repo | 0 | 0 | [link](https://huggingface.co/SakikoTogawa/pi0_robotwin_lora-stamp_seal-100-himaconpp_repo) |
-| 2026-07-19 | Michael1018/x-vla-robotwin | 0 | 0 | [link](https://huggingface.co/Michael1018/x-vla-robotwin) |
-| 2026-07-19 | qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c) |
-| 2026-07-19 | openbmb/MiniCPM-RobotTrack | 0 | 10 | [link](https://huggingface.co/openbmb/MiniCPM-RobotTrack) |
-| 2026-07-19 | openbmb/MiniCPM-RobotManip | 0 | 12 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
+| 2026-07-20 | RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_chunk100_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_chunk100_100k) |
+| 2026-07-20 | RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_kl5_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_kl5_100k) |
+| 2026-07-20 | RobotisSW/Pick_Peanut_Mix_WhiteShelf_050000 | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Peanut_Mix_WhiteShelf_050000) |
+| 2026-07-20 | RobotisSW/Pick_Peanut_Mix_WhiteShelf_040000 | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Peanut_Mix_WhiteShelf_040000) |
+| 2026-07-20 | RobotisSW/Pick_Peanut_Mix_WhiteShelf_030000 | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Peanut_Mix_WhiteShelf_030000) |
+| 2026-07-20 | RobotisSW/Pick_Peanut_Mix_WhiteShelf_020000 | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Peanut_Mix_WhiteShelf_020000) |
+| 2026-07-20 | RobotisSW/Pick_Peanut_Mix_WhiteShelf_010000 | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Peanut_Mix_WhiteShelf_010000) |
+| 2026-07-20 | RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_100k) |
+| 2026-07-20 | RobotisSW/Task_700001_pick_place_peanut_stage2_act_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_700001_pick_place_peanut_stage2_act_100k) |
+| 2026-07-20 | WooYoungSeok/baseline-policy-error-gen-260509-273 | 28 | 0 | [link](https://huggingface.co/WooYoungSeok/baseline-policy-error-gen-260509-273) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| ROBOTIS-GIT/ai_worker | 154 | C++ | 61.7 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
+| commaai/openpilot | 63166 | Python | 25266.5 | [link](https://github.com/commaai/openpilot) |
+| StanfordVL/BEHAVIOR-1K | 1582 | Python | 632.9 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | arpitg1304/forge | 158 | Python | 63.3 | [link](https://github.com/arpitg1304/forge) |
-| commaai/openpilot | 63165 | Python | 25266.1 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15508 | C++ | 6203.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15509 | C++ | 6203.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14259 | C++ | 5703.7 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11282 | Python | 4512.9 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11143 | Rust | 4457.3 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7704 | Python | 3081.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| isaac-sim/IsaacLab | 7705 | Python | 3082.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4166 | Python | 1666.5 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3845 | Rust | 1538.1 | [link](https://github.com/dora-rs/dora) |
-| datawhalechina/every-embodied | 2744 | Python | 1097.7 | [link](https://github.com/datawhalechina/every-embodied) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

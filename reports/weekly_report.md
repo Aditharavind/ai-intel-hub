@@ -1,23 +1,23 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-19 23:43 UTC
+Generated: 2026-07-20 01:18 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-16 | Hierarchical Denoising For Multi-Step Visual Reasoning | [link](https://arxiv.org/pdf/2607.15278v1) |
-| 2026-07-16 | RoboTTT: Context Scaling for Robot Policies | [link](https://arxiv.org/pdf/2607.15275v1) |
-| 2026-07-16 | Motion-Conditioned Multi-View Fusion for Myocardial Infarction Localization from Echocardiography | [link](https://arxiv.org/pdf/2607.15268v1) |
-| 2026-07-16 | Symbal: Detecting Systematic Misalignments in Model-Generated Captions | [link](https://arxiv.org/pdf/2607.15216v1) |
-| 2026-07-16 | BadWAM: When World-Action Models Dream Right but Act Wrong | [link](https://arxiv.org/pdf/2607.15207v1) |
+| 2026-07-17 | Handroid: Bridging Dexterous Hand and Humanoid | [link](https://arxiv.org/pdf/2607.16187v1) |
+| 2026-07-17 | Vision-Language-Motion Maps: An Open-Vocabulary, Uncertainty-Aware, Queryable Motion Attribute for 3D Scene Maps | [link](https://arxiv.org/pdf/2607.16173v1) |
+| 2026-07-17 | VTLoc: Learning-based Tactile Contact Localization in Visual Point Clouds | [link](https://arxiv.org/pdf/2607.16146v1) |
+| 2026-07-17 | A New Implementation of NeoSLAM and a Comparative Evaluation with RatSLAM | [link](https://arxiv.org/pdf/2607.16143v1) |
+| 2026-07-17 | BayesContact: Uncertain Pose Estimation via Visuo-Tactile Proposals and Simulation-based Inference | [link](https://arxiv.org/pdf/2607.16123v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 82509 | 33003.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63165 | 25266.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63166 | 25266.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44253 | 17701.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30076 | 12030.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30077 | 12030.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16033 | 6413.3 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
