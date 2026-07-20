@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-20 21:54 UTC
+Last Updated: 2026-07-20 22:44 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -100,7 +100,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | ROBOTIS-GIT/ai_worker | 155 | C++ | 62.1 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
 | commaai/openpilot | 63177 | Python | 25270.9 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30091 | Python | 12036.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| ArduPilot/ardupilot | 15517 | C++ | 6206.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| zauberzeug/nicegui | 16038 | Python | 6415.3 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -121,7 +121,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-20 | Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWg1aWRZV3ZuMkNSSE5XbUhYeGVwMkVzcy1BSnVCNmZDRS1veHl1LVhYNmVLb2JjZnljQzBzNEIzVlRQVUhBS0J4NFB2Ul91QWcxbHNoVUxwR2N0MUNGNU54SGdhTjVxQmk5c0xnZlpqWWRhbFZQdmJUZWJnVTB5OG5JTFN6WjI4eXY0QnJlNHl6WVlwN084aF94TFRUNmVoMnV6eTBkd3NVQUl5YUVPRjBQZ1VhdE55VUt4cmt2cUg1XzA?oc=5) |
 | 2026-07-20 | Leading humanoid startup isn't interested in the 'bidding wars' for top AI and robotics talent - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS3k1SFlJdlNnLTRQYl9nUGtibFg1dHlCektXZVVuVDBMRnRudF95b1hxbE5xcnZVcVlxVDllZndSZTlYV1MwdXQ0VkFlajFTVWtEVjVjdGFpWXRUUFVtVFRfSEJSNmQ2am5RR3BleHZKdlNfMkZIVWNZOEtiYVZ4elM2cUpLbG1CM3BxeW1VWWJ6dG9RV2RheXp6RzlES181Zm5lX1FyZ0ppZEE?oc=5) |
-| 2026-07-20 | Real-life Terminators? Eric Trump-backed startup is building humanoid soldiers - Where does India stand? - Moneycontrol.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcGp6QTRxa0NSVGNlTEVIbHlZeUhlNjd6REpnS1EyNjdfYms1NWtYblkxNWZyRXlKREFrcndzMEtkQXhyNno4Nll1ZUgzSkpMWE14dVVqb2Y0YnlxVmhkT2ZpZ2RqSWRtNkJoRTJfNnZkaGw4NEl6T2dzazZBVkFpak9zWGx6VTZqT3JfRlJZN21nTTZHZ1NvckpVRUY1bjY1eXBDdTZvMGxyVllGNUVKSzF5OXpCd1Q1WWFxTkVYZjR2QjFCRk0zc2pYbjUxbjZtWUtUVFoyX3BFMVVYZVJJNTNYLXdmamptZjhMdk5yTFLSAfYBQVVfeXFMTl83ckx1WElNZ2RhVzVibzBDeHE5SU5QdjdIVlVXOW1HcVBrZGxCem84bGxEemE2azVNN0hBWkVGaUNSQVhmZ3o0TTFSRU1rRlhQbDV6cnlkQkZnYnRkVGRidkFRTUNsT2lWUS0yaDR3TWRTMHFoelFiZFRKT3I5UUhvdTlNcVJSZmJVUWZycmFfY2N4eDR1MFdzOGNpcEVJeGpURERwaGtRREV1eEdMU2p4X2NPcEJfU1Zjb1gzbVVvelZmMEpsalVNNUdPUnhCelI5ZTFBX3JkVHI2U09XUzFBcUtjQTl0WUJZb1B3ZHhNMURMOWd3?oc=5) |
+| 2026-07-20 | Real-life Terminators? Eric Trump-backed startup is building humanoid soldiers - Where does India stand? - Moneycontrol.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOXzdyTHVYSU1nZGFXNWJvMEN4cTlJTlB2N0hWVVc5bUdxUGtkbEJ6bzhsbER6YTZrNU03SEFaRUZpQ1JBWGZnejRNMVJFTWtGWFBsNXpyeWRCRmdidGRUZGJ2QVFNQ2xPaVZRLTJoNHdNZFMwcWh6UWJkVEpPcjlRSG91OU1xUlJmYlVRZnJyYV9jY3h4NHUwV3M4Y2lwRUl4alRERHBoa1FERXV4R0xTanhfY09wQl9TVmNvWDNtVW96VmYwSmxqVU01R09SeEJ6UjllMUFfcmRUcjZTT1dTMUFxS2NBOXRZQllvUHdkeE0xREw5Z3fSAfYBQVVfeXFMTl83ckx1WElNZ2RhVzVibzBDeHE5SU5QdjdIVlVXOW1HcVBrZGxCem84bGxEemE2azVNN0hBWkVGaUNSQVhmZ3o0TTFSRU1rRlhQbDV6cnlkQkZnYnRkVGRidkFRTUNsT2lWUS0yaDR3TWRTMHFoelFiZFRKT3I5UUhvdTlNcVJSZmJVUWZycmFfY2N4eDR1MFdzOGNpcEVJeGpURERwaGtRREV1eEdMU2p4X2NPcEJfU1Zjb1gzbVVvelZmMEpsalVNNUdPUnhCelI5ZTFBX3JkVHI2U09XUzFBcUtjQTl0WUJZb1B3ZHhNMURMOWd3?oc=5) |
 | 2026-07-18 | Control robots with your thoughts: Chinese startup unveils world’s 1st ‘brain-to-robot’ platform - The Indian Express | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdXBQV1pwQUd6NzVBeUhNR2N4a3RzUkdTS3lMRE5PNjdxZ3hmVjllQkxhS3BlU2Q2ajBaN2dXd0lDVzZ5Z1FCdTcxeHlWVXJ2djhkMDg4ZmMyNUNxY3B4YW5lTjhrTVdTZU41aTFQN0NjaTRIeUJlTFRDaE5fVC14NWQwb3hLYzlHRnNtZ3FwY0ZhT25GWV9NU2hHVEE5VEQ1SWUydW9jaHVFcm9Yb05vRWI1UktoQklUOUo3RjcyenM0V1VQa3RNUGxkb0ROaFAzM1Rr0gHaAUFVX3lxTE5UM1pUSkRpY21BR3B5WVlDZjlZQnhhNHZHWURlRHZuX2NSTjVnMlhXMHB0NEM1VWM3UUZ6ZzFUeEU0aTVEUHNsaTlEU2xuMk8zQW5iNVJkZ0IzZ2g0TVhpTEZVMk5McHJEUl9VN0steFJXVzMzd0dTZmcweHdBWXhOdk5CQm45ZHNPV3Y2MDNhcmkyZlViR2J5QWNiMzBuQXpiemNEQjJsWmtVSTZUSVJvQ2w5RFhqX2R2cy0zZHphQWNjNGxTRUV5MFhFd0pRRHQ1NWtPWENTOEZ3?oc=5) |
 | 2026-07-18 | Eric Trump Is Building An Army Of Humanoid Robot Soldiers - Kotaku | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxQRlBUNWxaUTduMndhODhhV1VzVm9jSVRmZ2JvakNiekVQQ1hoOHZzemZHUlFaVFVzM1dmaUM1NEttRkhpVFZrZExDZHhDbHFsSm8xcnlob0Z5MWFHZnl4dTlHU2g3Z0daSUluc3c2ai1kM3J5YUV4ZHdrUUIyUFFzaDNsRWRhN3A4RTI4VWdBRDQ?oc=5) |
 | 2026-07-17 | Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates - AI Business | physical ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWjhLZDRiMHREdlV0ejZyUVVPeHptdndKOUlZR3p4LTloNU45NjU5b2diekZyVDhUekx2TW9uVXRNaWVyMTZyeGotNUZYOUVSSVhjMWpBTHM3RU81RkhSbi1WeDgzeXZIM2dnMGVoQWoxTUtHTG9Dbk4zWktmLUVkdVM2cC0wQ1E?oc=5) |
@@ -134,15 +134,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-20 | Deployment Logistics Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4666290006) |
-| 2026-07-20 | Helix Data Creator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4585080006) |
 | 2026-07-20 | Helix Data Creator | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4627111006) |
+| 2026-07-20 | Helix Data Creator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4585080006) |
 | 2026-07-20 | Humanoid Robot Operator (Afternoon Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4644956006) |
 | 2026-07-20 | Humanoid Robot Operator - Commercial Launch Team | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4665205006) |
 | 2026-07-20 | Humanoid Robot Operator - Commercial Site Team (LA)  | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4698238006) |
 | 2026-07-20 | Humanoid Robot Operator (Morning Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4406268006) |
 | 2026-07-20 | Humanoid Robot Operator (Night Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4644962006) |
+| 2026-07-20 | Jr Robot Service Technician | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4698535006) |
 | 2026-07-20 | Lead, Data Operations Global Expansion | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696355006) |
-| 2026-07-20 | Project Coordinator, Data Creators | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696349006) |
 
 ## Automation
 
