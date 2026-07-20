@@ -1,5 +1,14 @@
 [
   {
+    "model": "OpenWAM/Pretrained_OpenWAM_RoboTwin_Clean_SFT",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/Pretrained_OpenWAM_RoboTwin_Clean_SFT",
+    "date": "2026-07-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_chunk100_100k",
     "downloads": 0,
     "likes": 0,
@@ -81,6 +90,60 @@
     "score": 0.1
   },
   {
+    "model": "jim4real/so101-lingbot-vla2-intermediate-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jim4real/so101-lingbot-vla2-intermediate-checkpoints",
+    "date": "2026-07-20",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Yangkyu/record-test_20260716_172246_act_policy_test",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Yangkyu/record-test_20260716_172246_act_policy_test",
+    "date": "2026-07-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "2usang/omx_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/2usang/omx_act_policy",
+    "date": "2026-07-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "dookidooki/omx_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dookidooki/omx_act_policy",
+    "date": "2026-07-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "zycsys/robocasa-cosmos-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zycsys/robocasa-cosmos-policy",
+    "date": "2026-07-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "lisa277/first_test_token_clean_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/lisa277/first_test_token_clean_policy",
+    "date": "2026-07-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "WooYoungSeok/baseline-policy-error-gen-260509-273",
     "downloads": 28,
     "likes": 0,
@@ -105,15 +168,6 @@
     "url": "https://huggingface.co/masternodedata1/pollen-robotics-reachy-mini.hf.space",
     "date": "2026-07-19",
     "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "OpenWAM/Pretrained_OpenWAM_RoboTwin_Full_SFT",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/Pretrained_OpenWAM_RoboTwin_Full_SFT",
-    "date": "2026-07-19",
-    "keyword": "robot",
     "score": 0.1
   },
   {
@@ -261,51 +315,6 @@
     "score": 0.1
   },
   {
-    "model": "hiskiv/cosmos-policy-lam",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hiskiv/cosmos-policy-lam",
-    "date": "2026-07-19",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "PolicyShiftGuard/PolicyShiftGuard-3B",
-    "downloads": 70,
-    "likes": 0,
-    "url": "https://huggingface.co/PolicyShiftGuard/PolicyShiftGuard-3B",
-    "date": "2026-07-19",
-    "keyword": "policy",
-    "score": 21.1
-  },
-  {
-    "model": "PolicyShiftGuard/PolicyShiftGuard-3B-RP-SFT",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/PolicyShiftGuard/PolicyShiftGuard-3B-RP-SFT",
-    "date": "2026-07-19",
-    "keyword": "policy",
-    "score": 5.2
-  },
-  {
-    "model": "PolicyShiftGuard/PolicyShiftGuard-7B-RP-SFT",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/PolicyShiftGuard/PolicyShiftGuard-7B-RP-SFT",
-    "date": "2026-07-19",
-    "keyword": "policy",
-    "score": 5.2
-  },
-  {
-    "model": "PolicyShiftGuard/PolicyShiftGuard-7B",
-    "downloads": 45,
-    "likes": 0,
-    "url": "https://huggingface.co/PolicyShiftGuard/PolicyShiftGuard-7B",
-    "date": "2026-07-19",
-    "keyword": "policy",
-    "score": 13.6
-  },
-  {
     "model": "qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c",
     "downloads": 0,
     "likes": 0,
@@ -421,15 +430,6 @@
     "date": "2026-07-18",
     "keyword": "robotics",
     "score": 10.3
-  },
-  {
-    "model": "mertalbaba/humanoid-vla-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mertalbaba/humanoid-vla-checkpoints",
-    "date": "2026-07-17",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "Lislaam/coinrun-trained-world-model",

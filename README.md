@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-20 01:18 UTC
+Last Updated: 2026-07-20 05:24 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-20 | Seven Ways to Install Magnets Into Your 3D Prints | Hackaday | [link](https://hackaday.com/2026/07/19/seven-ways-to-install-magnets-into-your-3d-prints/) |
+| 2026-07-20 | Pong-like Cabinet for Classic Dinosaur Jumper | Hackaday | [link](https://hackaday.com/2026/07/19/pong-like-cabinet-for-classic-dinosaur-jumper/) |
+| 2026-07-20 | IoTextra modular automation boards with 4 inputs, 4 outputs work with Raspberry Pi and ESP32 MCU boards | CNX Software | [link](https://www.cnx-software.com/2026/07/20/iotextra-modular-automation-boards-with-4-inputs-4-outputs-work-with-raspberry-pi-and-esp32-mcu-boards/) |
+| 2026-07-20 | Efinix Titanium Edge FPGA family targets low-power edge AI and vision systems | CNX Software | [link](https://www.cnx-software.com/2026/07/20/efinix-titanium-edge-fpga-family-targets-low-power-edge-ai-and-vision-systems/) |
 | 2026-07-20 | Ed Eyes Prediction Markets | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-eyes-prediction-markets-2026-07/) |
 | 2026-07-19 | Hackaday Links: July 19, 2026 | Hackaday | [link](https://hackaday.com/2026/07/19/hackaday-links-july-19-2026/) |
 | 2026-07-19 | Automated Pressure Advance Using a Bed-Leveling Sensor | Hackaday | [link](https://hackaday.com/2026/07/19/automated-pressure-advance-using-a-bed-leveling-sensor/) |
 | 2026-07-19 | Recycling Laptops and iMacs Makes PC Building Fun and Affordable Again | Hackaday | [link](https://hackaday.com/2026/07/19/recycling-laptops-and-imacs-makes-pc-building-fun-and-affordable-again/) |
 | 2026-07-19 | Remembering the Zilog Z80 as it Turns Fifty Years Old | Hackaday | [link](https://hackaday.com/2026/07/19/remembering-the-zilog-z80-as-it-turns-fifty-years-old/) |
 | 2026-07-19 | QT6 brings BASIC to the Web Browser, or Your Computer | Hackaday | [link](https://hackaday.com/2026/07/19/qt6-brings-basic-to-the-web-browser-or-your-computer/) |
-| 2026-07-19 | A Pop-Up Truck Camper for Less | Hackaday | [link](https://hackaday.com/2026/07/19/a-pop-up-truck-camper-for-less/) |
-| 2026-07-19 | Open-Source Mid-Drive e-Bike Motor Has Lots of Promise, and Hyphens | Hackaday | [link](https://hackaday.com/2026/07/18/open-source-mid-drive-e-bike-motor-has-lots-of-promise-and-hyphens/) |
-| 2026-07-19 | Beelink EQi 304 review – Part 3: Ubuntu 26.04 on a Wildcat Lake mini PC | CNX Software | [link](https://www.cnx-software.com/2026/07/19/beelink-eqi-304-review-part-3-ubuntu-26-04-on-a-wildcat-lake-mini-pc/) |
-| 2026-07-19 | The Existence of an Atmosphere Surrounding an Earth-like Planet | Adafruit | [link](https://blog.adafruit.com/2026/07/19/the-existence-of-an-atmosphere-surrounding-an-earth-like-planet/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-20 | OpenWAM/Pretrained_OpenWAM_RoboTwin_Clean_SFT | 0 | 0 | [link](https://huggingface.co/OpenWAM/Pretrained_OpenWAM_RoboTwin_Clean_SFT) |
 | 2026-07-20 | RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_chunk100_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_chunk100_100k) |
 | 2026-07-20 | RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_kl5_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_kl5_100k) |
 | 2026-07-20 | RobotisSW/Pick_Peanut_Mix_WhiteShelf_050000 | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Peanut_Mix_WhiteShelf_050000) |
@@ -86,27 +87,26 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-20 | RobotisSW/Pick_Peanut_Mix_WhiteShelf_010000 | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Peanut_Mix_WhiteShelf_010000) |
 | 2026-07-20 | RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_100k) |
 | 2026-07-20 | RobotisSW/Task_700001_pick_place_peanut_stage2_act_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_700001_pick_place_peanut_stage2_act_100k) |
-| 2026-07-20 | WooYoungSeok/baseline-policy-error-gen-260509-273 | 28 | 0 | [link](https://huggingface.co/WooYoungSeok/baseline-policy-error-gen-260509-273) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| ROBOTIS-GIT/ai_worker | 154 | C++ | 61.7 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| commaai/openpilot | 63166 | Python | 25266.5 | [link](https://github.com/commaai/openpilot) |
-| StanfordVL/BEHAVIOR-1K | 1582 | Python | 632.9 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
+| Edgenesis/shifu | 1426 | Go | 570.5 | [link](https://github.com/Edgenesis/shifu) |
 | arpitg1304/forge | 158 | Python | 63.3 | [link](https://github.com/arpitg1304/forge) |
-| ArduPilot/ardupilot | 15509 | C++ | 6203.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14259 | C++ | 5703.7 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11282 | Python | 4512.9 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11143 | Rust | 4457.3 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7705 | Python | 3082.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| ROBOTIS-GIT/ai_worker | 154 | C++ | 61.7 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
+| commaai/openpilot | 63167 | Python | 25266.9 | [link](https://github.com/commaai/openpilot) |
+| isaac-sim/IsaacLab | 7709 | Python | 3083.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4166 | Python | 1666.5 | [link](https://github.com/RLinf/RLinf) |
+| dora-rs/dora | 3845 | Rust | 1538.1 | [link](https://github.com/dora-rs/dora) |
+| knightnemo/Awesome-World-Models | 3186 |  | 1274.5 | [link](https://github.com/knightnemo/Awesome-World-Models) |
+| StanfordVL/BEHAVIOR-1K | 1583 | Python | 633.3 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
+| sou350121/VLA-Handbook | 407 | HTML | 162.9 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-07-20 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE4yRmJBSjlnNmNRaVhPR1hCUDBoU0RjRHZ6bU9NQnY5TWdTa29TeGV1SG10cWdkMVc5VGVhTXA3ZFZTb2pkeWp2Zm1oN0pwMnUyS2RUYmVLUmhCbHI3dXZBelRObXRxVGRWR2NxRG8xckdWNi02WWJEVGxvNGxMdw?oc=5) |
 | 2026-07-17 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSjRmYjJZTjZQZEV6ZlA5dHRhZC1FeW1yNFVjQ0ZzUVUwajlrY2JkMHBLZFJoMnJKd2ZfYUctWE9hcmtJenZRbGlVTHpNRlhlYVBNLUYyLVZoS1hycjV3OUVabFVFZ1BBUFpiNzc2THBFT2g2V1BCeFlUSlNaU0hwSExYcVRtN21WckxjMUlYLUQyR3o0YzNQeXRGaFRTZG1tRndsa2xpcUxYaFd5bzdFUXY2aEZMLXBmOU4wS25TeFEyNGsyYk9FaGhjdnBlVVRETTZZN2s4ZnJvNkVmb2c?oc=5) |
-| 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUJvRFpqWVl4UHVLd1M0WTdsSEV0OTRLaWF6V0s2d2tvbTl0SVdzbHBEOE9VYmlkTXBWZ3BIMVkxYjBEMXhPdktmRHp3eXFtZG5paU50R1ZlRllEaWR5YWtpREVHWnJlRW9hY2RZWGpieU1LSmRuQXFNeXFoeE9KRzVtQXExUlFlNlk2anJUM3ZMYWZYV3BYV19uYXp0Zk1ZVFBzcURtYkpoc0x3OXdDN3M1WHNTYjgtNFE?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVDJGbnZjTHR6NWNyNG9MU3NaX21Tc2V6TE1qMzdCVl93bENOYXE2T21yMGhsd0taUHlrSEtqRTZPQzFSdEROTXdraTJzeHVaMzBaUGdNUFk1ZmQ3UnpuQ3dUYzF0T3JGQVFVTDF6S1ZlR0h1MHNzY1RRZlhtWUdmUC16YldxSFVpNVRXTVhPWldiRUc5VVJ4Uko3WWNTaFB3ZHkyVjBDNkk2eXh1WW1IX0t3VF9uN2o0dFVzUUExbW1ucU96Q0lueGpkWW0?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVHpkWEw4ZzI0LTJqRnotOGhDMy04eXFwU20tVTExNk53M1RVNlpqY3k2TkhWUEJsbUpxSV9od1FEV3JVaGhMSWU5azktVGNiWWVhdTg4TDlCTWx3cGlRR1dxbC1yendvZzlOZHFOakJia09EVG81U1gxZ05jRzNVLXlQakNKTnJXUkFFRDdsaFhpd3JiTmpNRWhja0M1QjNlMlJ2NThQRXhoeXZTd0o0cXZFaG1SNjA0WHlsUFdaQ3d1UUxiV0RhU0hXN0R2UnM1cC1YcFhtUExWM1lSTGNaSnRCN2xITXk1R3NyaUtLSHNmVG12azVCMEkzd0loLTQ?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcFZhQVRoZ25LSnNPNDdkb1Y4NjRYTzhIZ3ctQWJpQVU5SkdUUkFuTG03TzJSZ3JPQVFVLTNnaUtudEhDcmZjcm03SFZiM1daamc1ZWxEVUppcFJhVTRhMG5lVlF5TWppVlM4ZTNHbkN6ckh4bUEyYS04RGxWZm9zYXpGcHBMOExPVzBValZrNVF0bFJFSGRYQVp0VmVPWjBBdkFpdktiQkhOX3ZTRkZTeTV3aWlCUFg2bGJaOThaQ0tNc1pqUEhTNjFJdTVnaXpNWnJNcHpJNDI?oc=5) |
@@ -133,6 +133,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-20 | Deployment Logistics Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4666290006) |
 | 2026-07-17 | AI Data Operations Manager | Figure AI | United Arab Emirates | [link](https://job-boards.greenhouse.io/figureai/jobs/4698164006) |
 | 2026-07-17 | Global Supply Manager - PCBA | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4670751006) |
 | 2026-07-17 | Humanoid Environment Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4677955006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | Helix Data Creator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4585080006) |
 | 2026-07-16 | Mechanical Engineer - All Levels | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4410831006) |
 | 2026-07-16 | Senior Manager, Planning | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6104722004) |
-| 2026-07-16 | Senior Manager, Quality (IQC/SQE) | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6113706004) |
 
 ## Automation
 
