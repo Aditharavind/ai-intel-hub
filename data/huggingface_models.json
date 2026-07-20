@@ -1,5 +1,23 @@
 [
   {
+    "model": "qualia-robotics/pi05-b601-dm-icehockey-v1-8b60f41c",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/qualia-robotics/pi05-b601-dm-icehockey-v1-8b60f41c",
+    "date": "2026-07-20",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "JSHNSL/act_lift_box_real_robot_60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/JSHNSL/act_lift_box_real_robot_60k",
+    "date": "2026-07-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmlang0p5_bblr2e5_s30000",
     "downloads": 0,
     "likes": 0,
@@ -83,29 +101,11 @@
   {
     "model": "openbmb/MiniCPM-RobotManip",
     "downloads": 0,
-    "likes": 49,
+    "likes": 67,
     "url": "https://huggingface.co/openbmb/MiniCPM-RobotManip",
     "date": "2026-07-20",
     "keyword": "robot",
-    "score": 9.9
-  },
-  {
-    "model": "OpenWAM/Pretrained_OpenWAM_RoboTwin_Clean_SFT",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/Pretrained_OpenWAM_RoboTwin_Clean_SFT",
-    "date": "2026-07-20",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_chunk100_100k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_900011_900012_stage3_x_900006_900007_merged_act_chunk100_100k",
-    "date": "2026-07-20",
-    "keyword": "robot",
-    "score": 0.1
+    "score": 13.5
   },
   {
     "model": "Jiafei1224/molmoact2-yam-vla-jepa",
@@ -207,6 +207,15 @@
     "score": 0.1
   },
   {
+    "model": "rpatil1/act_so101_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/rpatil1/act_so101_policy",
+    "date": "2026-07-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "nvidia/Cosmos3-Edge-Policy-DROID",
     "downloads": 23,
     "likes": 2,
@@ -292,15 +301,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/naumoo/act_policy_naumoo123_v3",
-    "date": "2026-07-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Yash1bajpai/Inditrade-Llama-3.2-1B-Policy-LoRA",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Yash1bajpai/Inditrade-Llama-3.2-1B-Policy-LoRA",
     "date": "2026-07-20",
     "keyword": "policy",
     "score": 0.1
@@ -421,15 +421,6 @@
     "date": "2026-07-18",
     "keyword": "robotics",
     "score": 8.5
-  },
-  {
-    "model": "access-robotics-team/so-xv-pp-lightbox-6epc-260718",
-    "downloads": 34,
-    "likes": 0,
-    "url": "https://huggingface.co/access-robotics-team/so-xv-pp-lightbox-6epc-260718",
-    "date": "2026-07-18",
-    "keyword": "robotics",
-    "score": 10.3
   },
   {
     "model": "Lislaam/coinrun-trained-world-model",
