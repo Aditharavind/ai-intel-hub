@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-20 19:19 UTC
+Last Updated: 2026-07-20 20:56 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-20 | Echolocation for Drones | Hackaday | [link](https://hackaday.com/2026/07/20/echolocation-for-drones/) |
 | 2026-07-20 | A Feature-Rich Drum Machine | Hackaday | [link](https://hackaday.com/2026/07/20/a-feature-rich-drum-machine/) |
 | 2026-07-20 | Hackaday Europe 2026: Project Gigapixel | Hackaday | [link](https://hackaday.com/2026/07/20/hackaday-europe-2026-project-gigapixel/) |
 | 2026-07-20 | Old SSDs Find New Life as Game Cartridges | Hackaday | [link](https://hackaday.com/2026/07/20/old-ssds-find-new-life-as-game-cartridges/) |
 | 2026-07-20 | Launching Rockets is Hard, Bring them Back is Harder | Hackaday | [link](https://hackaday.com/2026/07/20/launching-rockets-is-hard-bring-them-back-is-harder/) |
 | 2026-07-20 | Earth-like LHS 1140b May Feature the First Atmosphere Found on Exoplanet | Hackaday | [link](https://hackaday.com/2026/07/20/earth-like-lhs-1140b-may-feature-the-first-atmosphere-found-on-exoplanet/) |
 | 2026-07-20 | Could Reticulum Power a Post-Internet Network? | Hackaday | [link](https://hackaday.com/2026/07/20/could-reticulum-power-a-post-internet-network/) |
-| 2026-07-20 | Seven Ways to Install Magnets Into Your 3D Prints | Hackaday | [link](https://hackaday.com/2026/07/19/seven-ways-to-install-magnets-into-your-3d-prints/) |
 | 2026-07-20 | Globalscale Case8 – A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/20/globalscale-case8-mediatek-genio-520-720-cyberdeck-for-gaming-home-automation-and-education/) |
 | 2026-07-20 | Geniatech XPI-3576-CM5 – A Raspberry Pi CM5-compatible Rockchip RK3576 AI Compute Module with WiFi 6, Bluetooth 5.3 | CNX Software | [link](https://www.cnx-software.com/2026/07/20/geniatech-xpi-3576-cm5-a-raspberry-pi-cm5-compatible-rockchip-rk3576-ai-compute-module-with-wifi-6-bluetooth-5-3/) |
 | 2026-07-20 | IoTextra modular automation boards with 4 inputs, 4 outputs work with Raspberry Pi and ESP32 MCU boards | CNX Software | [link](https://www.cnx-software.com/2026/07/20/iotextra-modular-automation-boards-with-4-inputs-4-outputs-work-with-raspberry-pi-and-esp32-mcu-boards/) |
@@ -77,16 +77,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-20 | Do-Hyun-robot/smolvla_dohyun_v4_policy | 0 | 0 | [link](https://huggingface.co/Do-Hyun-robot/smolvla_dohyun_v4_policy) |
+| 2026-07-20 | ziyin123/geomvla-robotwin2 | 0 | 0 | [link](https://huggingface.co/ziyin123/geomvla-robotwin2) |
 | 2026-07-20 | qualia-robotics/pi05-b601-dm-icehockey-v1-8b60f41c | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-b601-dm-icehockey-v1-8b60f41c) |
 | 2026-07-20 | JSHNSL/act_lift_box_real_robot_60k | 0 | 0 | [link](https://huggingface.co/JSHNSL/act_lift_box_real_robot_60k) |
 | 2026-07-20 | junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmlang0p5_bblr2e5_s30000 | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmlang0p5_bblr2e5_s30000) |
 | 2026-07-20 | silent666/robotics-vla-task-23-basic | 0 | 0 | [link](https://huggingface.co/silent666/robotics-vla-task-23-basic) |
 | 2026-07-20 | junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmlang0p5_bblr2e5 | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmlang0p5_bblr2e5) |
-| 2026-07-20 | Do-Hyun-robot/smolvla_dohyun_v4_policy | 0 | 0 | [link](https://huggingface.co/Do-Hyun-robot/smolvla_dohyun_v4_policy) |
 | 2026-07-20 | JSHNSL/act_lift_box_real_robot | 0 | 0 | [link](https://huggingface.co/JSHNSL/act_lift_box_real_robot) |
 | 2026-07-20 | Superrrdamn/robotics-vla-task-23-large | 0 | 0 | [link](https://huggingface.co/Superrrdamn/robotics-vla-task-23-large) |
 | 2026-07-20 | MerazAhmed3420/task-23-robotics-vla-siglip | 0 | 0 | [link](https://huggingface.co/MerazAhmed3420/task-23-robotics-vla-siglip) |
-| 2026-07-20 | MerazAhmed3420/task-23-robotics-vla | 0 | 0 | [link](https://huggingface.co/MerazAhmed3420/task-23-robotics-vla) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,13 +94,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Edgenesis/shifu | 1426 | Go | 570.5 | [link](https://github.com/Edgenesis/shifu) |
 | copper-project/copper-rs | 1418 | Rust | 567.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 891 | Python | 356.5 | [link](https://github.com/mosaico-labs/mosaico) |
+| awslabs/awsome-distributed-ai | 465 | Shell | 186.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 168 | Python | 67.3 | [link](https://github.com/ros-claw/rosclaw) |
 | arpitg1304/forge | 157 | Python | 62.9 | [link](https://github.com/arpitg1304/forge) |
 | ROBOTIS-GIT/ai_worker | 155 | C++ | 62.1 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
 | commaai/openpilot | 63177 | Python | 25270.9 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30091 | Python | 12036.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| ArduPilot/ardupilot | 15516 | C++ | 6206.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14265 | C++ | 5706.1 | [link](https://github.com/google-deepmind/mujoco) |
+| ArduPilot/ardupilot | 15517 | C++ | 6206.9 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -121,7 +121,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-20 | Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWg1aWRZV3ZuMkNSSE5XbUhYeGVwMkVzcy1BSnVCNmZDRS1veHl1LVhYNmVLb2JjZnljQzBzNEIzVlRQVUhBS0J4NFB2Ul91QWcxbHNoVUxwR2N0MUNGNU54SGdhTjVxQmk5c0xnZlpqWWRhbFZQdmJUZWJnVTB5OG5JTFN6WjI4eXY0QnJlNHl6WVlwN084aF94TFRUNmVoMnV6eTBkd3NVQUl5YUVPRjBQZ1VhdE55VUt4cmt2cUg1XzA?oc=5) |
 | 2026-07-20 | Hyundai Motor to Launch Physical AI, Robotics Program at Jeonbuk National University - Seoul Economic Daily | physical ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxQZDh1RE8yaG9qZmpmd2pHZEplTS1iTWlvcEkzdlg3Q1N0dWhMS2xSUkVtUE5vMlp4Um5WY1hfOHhpRWJablVmYksxRlctTk9PNnU4QWY2bVFoak5NRERRaXR3bzVPOFBWWlM3TlRrVDBMOEhHV2JrbGR5OUJEVEJva3dRNEl0cklpc0lWcVZOQmxTZkxxZ2FlLWV4Wnlxdw?oc=5) |
-| 2026-07-20 | Real-life Terminators? Eric Trump-backed startup is building humanoid soldiers - Where does India stand? - Moneycontrol.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOXzdyTHVYSU1nZGFXNWJvMEN4cTlJTlB2N0hWVVc5bUdxUGtkbEJ6bzhsbER6YTZrNU03SEFaRUZpQ1JBWGZnejRNMVJFTWtGWFBsNXpyeWRCRmdidGRUZGJ2QVFNQ2xPaVZRLTJoNHdNZFMwcWh6UWJkVEpPcjlRSG91OU1xUlJmYlVRZnJyYV9jY3h4NHUwV3M4Y2lwRUl4alRERHBoa1FERXV4R0xTanhfY09wQl9TVmNvWDNtVW96VmYwSmxqVU01R09SeEJ6UjllMUFfcmRUcjZTT1dTMUFxS2NBOXRZQllvUHdkeE0xREw5Z3fSAfYBQVVfeXFMTl83ckx1WElNZ2RhVzVibzBDeHE5SU5QdjdIVlVXOW1HcVBrZGxCem84bGxEemE2azVNN0hBWkVGaUNSQVhmZ3o0TTFSRU1rRlhQbDV6cnlkQkZnYnRkVGRidkFRTUNsT2lWUS0yaDR3TWRTMHFoelFiZFRKT3I5UUhvdTlNcVJSZmJVUWZycmFfY2N4eDR1MFdzOGNpcEVJeGpURERwaGtRREV1eEdMU2p4X2NPcEJfU1Zjb1gzbVVvelZmMEpsalVNNUdPUnhCelI5ZTFBX3JkVHI2U09XUzFBcUtjQTl0WUJZb1B3ZHhNMURMOWd3?oc=5) |
+| 2026-07-20 | Real-life Terminators? Eric Trump-backed startup is building humanoid soldiers - Where does India stand? - Moneycontrol.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcGp6QTRxa0NSVGNlTEVIbHlZeUhlNjd6REpnS1EyNjdfYms1NWtYblkxNWZyRXlKREFrcndzMEtkQXhyNno4Nll1ZUgzSkpMWE14dVVqb2Y0YnlxVmhkT2ZpZ2RqSWRtNkJoRTJfNnZkaGw4NEl6T2dzazZBVkFpak9zWGx6VTZqT3JfRlJZN21nTTZHZ1NvckpVRUY1bjY1eXBDdTZvMGxyVllGNUVKSzF5OXpCd1Q1WWFxTkVYZjR2QjFCRk0zc2pYbjUxbjZtWUtUVFoyX3BFMVVYZVJJNTNYLXdmamptZjhMdk5yTFLSAfYBQVVfeXFMTl83ckx1WElNZ2RhVzVibzBDeHE5SU5QdjdIVlVXOW1HcVBrZGxCem84bGxEemE2azVNN0hBWkVGaUNSQVhmZ3o0TTFSRU1rRlhQbDV6cnlkQkZnYnRkVGRidkFRTUNsT2lWUS0yaDR3TWRTMHFoelFiZFRKT3I5UUhvdTlNcVJSZmJVUWZycmFfY2N4eDR1MFdzOGNpcEVJeGpURERwaGtRREV1eEdMU2p4X2NPcEJfU1Zjb1gzbVVvelZmMEpsalVNNUdPUnhCelI5ZTFBX3JkVHI2U09XUzFBcUtjQTl0WUJZb1B3ZHhNMURMOWd3?oc=5) |
 | 2026-07-18 | Control robots with your thoughts: Chinese startup unveils world’s 1st ‘brain-to-robot’ platform - The Indian Express | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdXBQV1pwQUd6NzVBeUhNR2N4a3RzUkdTS3lMRE5PNjdxZ3hmVjllQkxhS3BlU2Q2ajBaN2dXd0lDVzZ5Z1FCdTcxeHlWVXJ2djhkMDg4ZmMyNUNxY3B4YW5lTjhrTVdTZU41aTFQN0NjaTRIeUJlTFRDaE5fVC14NWQwb3hLYzlHRnNtZ3FwY0ZhT25GWV9NU2hHVEE5VEQ1SWUydW9jaHVFcm9Yb05vRWI1UktoQklUOUo3RjcyenM0V1VQa3RNUGxkb0ROaFAzM1Rr0gHaAUFVX3lxTE5UM1pUSkRpY21BR3B5WVlDZjlZQnhhNHZHWURlRHZuX2NSTjVnMlhXMHB0NEM1VWM3UUZ6ZzFUeEU0aTVEUHNsaTlEU2xuMk8zQW5iNVJkZ0IzZ2g0TVhpTEZVMk5McHJEUl9VN0steFJXVzMzd0dTZmcweHdBWXhOdk5CQm45ZHNPV3Y2MDNhcmkyZlViR2J5QWNiMzBuQXpiemNEQjJsWmtVSTZUSVJvQ2w5RFhqX2R2cy0zZHphQWNjNGxTRUV5MFhFd0pRRHQ1NWtPWENTOEZ3?oc=5) |
 | 2026-07-18 | Eric Trump Is Building An Army Of Humanoid Robot Soldiers - Kotaku | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxQRlBUNWxaUTduMndhODhhV1VzVm9jSVRmZ2JvakNiekVQQ1hoOHZzemZHUlFaVFVzM1dmaUM1NEttRkhpVFZrZExDZHhDbHFsSm8xcnlob0Z5MWFHZnl4dTlHU2g3Z0daSUluc3c2ai1kM3J5YUV4ZHdrUUIyUFFzaDNsRWRhN3A4RTI4VWdBRDQ?oc=5) |
 | 2026-07-17 | Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates - AI Business | physical ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWjhLZDRiMHREdlV0ejZyUVVPeHptdndKOUlZR3p4LTloNU45NjU5b2diekZyVDhUekx2TW9uVXRNaWVyMTZyeGotNUZYOUVSSVhjMWpBTHM3RU81RkhSbi1WeDgzeXZIM2dnMGVoQWoxTUtHTG9Dbk4zWktmLUVkdVM2cC0wQ1E?oc=5) |
@@ -134,15 +134,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-20 | Deployment Logistics Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4666290006) |
-| 2026-07-20 | Helix Data Creator | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4627111006) |
 | 2026-07-20 | Helix Data Creator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4585080006) |
+| 2026-07-20 | Helix Data Creator | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4627111006) |
 | 2026-07-20 | Humanoid Robot Operator (Afternoon Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4644956006) |
 | 2026-07-20 | Humanoid Robot Operator - Commercial Launch Team | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4665205006) |
 | 2026-07-20 | Humanoid Robot Operator - Commercial Site Team (LA)  | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4698238006) |
 | 2026-07-20 | Humanoid Robot Operator (Morning Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4406268006) |
 | 2026-07-20 | Humanoid Robot Operator (Night Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4644962006) |
+| 2026-07-20 | Lead, Data Operations Global Expansion | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696355006) |
 | 2026-07-20 | Project Coordinator, Data Creators | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696349006) |
-| 2026-07-20 | Wire Harness Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4697402006) |
 
 ## Automation
 

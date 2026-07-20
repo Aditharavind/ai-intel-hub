@@ -1,5 +1,23 @@
 [
   {
+    "model": "Do-Hyun-robot/smolvla_dohyun_v4_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Do-Hyun-robot/smolvla_dohyun_v4_policy",
+    "date": "2026-07-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ziyin123/geomvla-robotwin2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ziyin123/geomvla-robotwin2",
+    "date": "2026-07-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "qualia-robotics/pi05-b601-dm-icehockey-v1-8b60f41c",
     "downloads": 0,
     "likes": 0,
@@ -42,15 +60,6 @@
     "url": "https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmlang0p5_bblr2e5",
     "date": "2026-07-20",
     "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Do-Hyun-robot/smolvla_dohyun_v4_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Do-Hyun-robot/smolvla_dohyun_v4_policy",
-    "date": "2026-07-20",
-    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -99,13 +108,22 @@
     "score": 0.1
   },
   {
-    "model": "openbmb/MiniCPM-RobotManip",
+    "model": "VladimirRH/all-MiniLM-L6-v2-ru-mnrl",
     "downloads": 0,
-    "likes": 67,
-    "url": "https://huggingface.co/openbmb/MiniCPM-RobotManip",
+    "likes": 0,
+    "url": "https://huggingface.co/VladimirRH/all-MiniLM-L6-v2-ru-mnrl",
     "date": "2026-07-20",
-    "keyword": "robot",
-    "score": 13.5
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "crislmfroes/vla-jepa-robocasa-close-fridge",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/crislmfroes/vla-jepa-robocasa-close-fridge",
+    "date": "2026-07-20",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "Jiafei1224/molmoact2-yam-vla-jepa",
@@ -162,15 +180,6 @@
     "score": 0.1
   },
   {
-    "model": "Cocoyawn32/VLANeXt-kairos-ckpt",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Cocoyawn32/VLANeXt-kairos-ckpt",
-    "date": "2026-07-20",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "DiogenesLab/world-model-research",
     "downloads": 0,
     "likes": 0,
@@ -204,6 +213,15 @@
     "url": "https://huggingface.co/ubr-physical-ai/UBR-Nav-E4B",
     "date": "2026-07-20",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "lLukii/act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/lLukii/act_policy",
+    "date": "2026-07-20",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -295,15 +313,6 @@
     "date": "2026-07-20",
     "keyword": "policy",
     "score": 0.3
-  },
-  {
-    "model": "naumoo/act_policy_naumoo123_v3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/naumoo/act_policy_naumoo123_v3",
-    "date": "2026-07-20",
-    "keyword": "policy",
-    "score": 0.1
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-lora-epoch3",
