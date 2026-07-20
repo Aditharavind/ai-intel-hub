@@ -61,23 +61,23 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63174,
+    "stars": 63175,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-07-20",
     "topic": "robotics",
-    "score": 25269.7
+    "score": 25270.1
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15514,
+    "stars": 15516,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-07-20",
     "topic": "robotics",
-    "score": 6205.7
+    "score": 6206.5
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -211,13 +211,23 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5631,
+    "stars": 5632,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-20",
     "topic": "world-model",
-    "score": 2252.5
+    "score": 2252.9
+  },
+  {
+    "repo": "nv-tlabs/lyra",
+    "stars": 2163,
+    "language": "Python",
+    "description": "Project Lyra: Open Generative 3D World Models",
+    "url": "https://github.com/nv-tlabs/lyra",
+    "date": "2026-07-20",
+    "topic": "world-model",
+    "score": 865.3
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -258,16 +268,6 @@
     "date": "2026-07-19",
     "topic": "robotics",
     "score": 4512.9
-  },
-  {
-    "repo": "nv-tlabs/lyra",
-    "stars": 2163,
-    "language": "Python",
-    "description": "Project Lyra: Open Generative 3D World Models",
-    "url": "https://github.com/nv-tlabs/lyra",
-    "date": "2026-07-19",
-    "topic": "world-model",
-    "score": 865.3
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -471,13 +471,13 @@
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2606,
+    "stars": 2607,
     "language": "Python",
     "description": "RoboTwin 2.0 Offical Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-07-14",
     "topic": "embodied-ai",
-    "score": 1042.5
+    "score": 1042.9
   },
   {
     "repo": "zchoi/Awesome-Embodied-Robotics-and-Agent",
@@ -501,13 +501,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30088,
+    "stars": 30089,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-07-13",
     "topic": "robotics",
-    "score": 12035.3
+    "score": 12035.7
   },
   {
     "repo": "hzxie/DynamicVLA",
@@ -521,33 +521,33 @@
   },
   {
     "repo": "nicklashansen/tdmpc2",
-    "stars": 895,
+    "stars": 896,
     "language": "Python",
     "description": "Code for \"TD-MPC2: Scalable, Robust World Models for Continuous Control\"",
     "url": "https://github.com/nicklashansen/tdmpc2",
     "date": "2026-07-13",
     "topic": "world-model",
-    "score": 358.1
+    "score": 358.5
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 8555,
+    "stars": 8576,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 3422.1
+    "score": 3430.5
   },
   {
     "repo": "ARISE-Initiative/robosuite",
-    "stars": 2517,
+    "stars": 2518,
     "language": "Python",
     "description": "robosuite: A Modular Simulation Framework and Benchmark for Robot Learning",
     "url": "https://github.com/ARISE-Initiative/robosuite",
     "date": "2026-07-11",
     "topic": "robot-learning",
-    "score": 1006.9
+    "score": 1007.3
   },
   {
     "repo": "thu-ml/Causal-Forcing",
@@ -601,13 +601,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82538,
+    "stars": 82541,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 33015.3
+    "score": 33016.5
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
@@ -731,13 +731,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2118,
+    "stars": 2117,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-26",
     "topic": "robot-learning",
-    "score": 847.3
+    "score": 846.9
   },
   {
     "repo": "mimic-video/mimic-video",
@@ -791,13 +791,13 @@
   },
   {
     "repo": "keon/awesome-physical-ai",
-    "stars": 358,
+    "stars": 359,
     "language": "",
     "description": "A curated list of academic papers and resources on Physical AI — focusing on Vision-Language-Action (VLA) models, world models, embodied ai, and robotic foundation models.",
     "url": "https://github.com/keon/awesome-physical-ai",
     "date": "2026-06-24",
     "topic": "vla",
-    "score": 143.3
+    "score": 143.7
   },
   {
     "repo": "mani-skill/ManiSkill",
