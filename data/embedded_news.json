@@ -1,5 +1,12 @@
 [
   {
+    "title": "Giving Resin 3D Printers Another Shot After Six Years",
+    "source": "Hackaday",
+    "date": "2026-07-21",
+    "url": "https://hackaday.com/2026/07/21/giving-resin-3d-printers-another-shot-after-six-years/",
+    "summary": "<div><img alt=\"Art of 3D printer in the middle of printing a Hackaday Jolly Wrencher logo\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2020/02/3D-Printering-Header-New.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>My initial experience with a 3D printer came in 2020, when I got access to a buddy&#8217;s Creality LD-002R SLA printer. This was one of those awkward transition phases for <a class=\"read-more\" href=\"https://hackaday.com/2026/07/21/giving-resin-3d-printers-another-shot-after-six-years/\">&#8230;read more</a>"
+  },
+  {
     "title": "Java Ring Restored After Nearly 30 Years",
     "source": "Hackaday",
     "date": "2026-07-21",
@@ -47,6 +54,20 @@
     "date": "2026-07-21",
     "url": "https://www.cnx-software.com/2026/07/21/nrf54l-arduino-core-project-brings-arduino-support-to-nordic-semi-nrf54l-wireless-socs/",
     "summary": "<div><img alt=\"nRF54L Arduino Core\" class=\"attachment-medium size-medium wp-post-image\" height=\"341\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/nRF54L-Arduino-Core-720x341.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>nRF54L Arduino Core is an open-source project designed to bring Arduino support for Nordic Semiconductor nRF54L wireless SoCs, starting with Seeed Studio&#8217;s XIAO nRF54L15 (Sense) and XIAO nRF54LM20A (Sense) boards, as well as compatible Holyiot nRF54L15 modules. Since the launch of the nRF52840-based Arduino Nano 33 BLE  board in 2019, Nordic nRF52 wireless microcontrollers have been officially supported by the Arduino IDE. However, it&#8217;s not quite the case for the newer nRF54L Cortex-M33 microcontrollers. Lolren has decided to change that with the unofficial nRF54 Arduino core project. nRF54L Arduino Core highlights: Dual-core access &#8211; Use the 128 MHz Cortex-M33 application CPU and the VPR RISC-V coprocessor without adopting a vendor RTOS Wireless Bluetooth LE support &#8211; Peripheral, central, dual-role, GATT server/client, HID, BLE UART, PHY/DLE/MTU control, LE Secure Connections, bonding, OOB, Numeric Comparison, privacy/RPA, and CSRK signed writes Experimental support for Zigbee &#8211; Partial stack and device demonstrations; incomplete Zigbee [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/21/nrf54l-arduino-core-project-brings-arduino-support-to-nordic-semi-nrf54l-wireless-socs/\">nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Pros and Cons of MCU Hardware and Software Peripherals",
+    "source": "Embedded.com",
+    "date": "2026-07-21",
+    "url": "https://www.embedded.com/pros-and-cons-of-mcu-hardware-and-software-peripherals/",
+    "summary": "<p>How do you tell time? You might glance at a watch or look up at a clock. But for a microcontroller (MCU), it's not that simple. MCUs are integrated circuits that contain core independent peripherals, or CIPs. CIPs are specialized hardware circuits designed to perform a task with little to no CPU intervention. Every manufacturer [...]</p>\n<p>The post <a href=\"https://www.embedded.com/pros-and-cons-of-mcu-hardware-and-software-peripherals/\">Pros and Cons of MCU Hardware and Software Peripherals</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Winners",
+    "source": "Electronics Weekly",
+    "date": "2026-07-21",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/treats/winners-2026-07/",
+    "summary": "<p>Great tournament, pity about the final but at least the dirtiest side didn’t win a fourth World Cup. Despite superstars like Messi, Mbappé and Haaland dominating the headlines  it was [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/treats/winners-2026-07/\">Winners</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Get the Gadget Master newsletter!",
@@ -105,6 +126,62 @@
     "summary": "<p>When the UK had a computer company which competed with IBM, Electronics Weekly carried one of its ads in its edition of October 12th 1960: &#160;</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/when-the-uk-took-on-ibm-2026-07/\">When The UK Took On IBM</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "ICYMI Python on Microcontrollers Newsletter: MicroPython in a Eurorack and on Super Nintendo, Plus More!",
+    "source": "Adafruit",
+    "date": "2026-07-21",
+    "url": "https://blog.adafruit.com/2026/07/21/icymi-python-on-microcontrollers-newsletter-micropython-in-a-eurorack-and-on-super-nintendo-plus-more/",
+    "summary": "If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,353 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep [&#8230;]"
+  },
+  {
+    "title": "DigiSearch takes simple BOMs to DigiKey parts list",
+    "source": "Adafruit",
+    "date": "2026-07-21",
+    "url": "https://blog.adafruit.com/2026/07/21/digisearch-takes-simple-boms-to-digikey-parts-list/",
+    "summary": "Pontus Oldberg has posted DigiSearch. It resolves simplified BOM documents into real, orderable BOMs by matching each line to a concrete DigiKey part — carrying reference designators, manufacturer part numbers, DigiKey part numbers, live stock, lifecycle, datasheet links, and both unit and price-break pricing. Your BOMs are deliberately under-specified (generic passives like 0.1uF 0402, or [&#8230;]"
+  },
+  {
+    "title": "András Vujovits Built a Delta Kinematic Pen Plotter",
+    "source": "Adafruit",
+    "date": "2026-07-21",
+    "url": "https://blog.adafruit.com/2026/07/21/andras-vujovits-built-a-delta-kinematic-pen-plotter/",
+    "summary": "In this YouTube video András Vujovits shares how they built their custom plotter! Learn how to make a harmonic drawing machine with Crickit in the Adafruit Learning System!"
+  },
+  {
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
+    "date": "2026-07-21",
+    "url": "https://blog.adafruit.com/2026/07/21/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-21-2/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+  },
+  {
+    "title": "OMRON Advances Inspection Technology with NVIDIA Omniverse and Metropolis",
+    "source": "EE Journal",
+    "date": "2026-07-21",
+    "url": "https://www.eejournal.com/industry_news/omron-advances-inspection-technology-with-nvidia-omniverse-and-metropolis/",
+    "summary": "OMRON Corporation (HQ: Shimogyo-ku, Kyoto. President and CEO: Junta Tsujinaga) Industrial Automation Company announced in Japan an expansion of its integration of NVIDIA technologies by combining OMRON&#8217;s Automated Optical Inspection (AOI) and 3D-CT X-ray Inspection (AXI) with NVIDIA Omniverse libraries. Specifically, this will make it possible to visualize substrate warpage caused by heat and to &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/omron-advances-inspection-technology-with-nvidia-omniverse-and-metropolis/\">Read More &#8594;<span class=\"screen-reader-text\"> \"OMRON Advances Inspection Technology with NVIDIA Omniverse and Metropolis\"</span></a>"
+  },
+  {
+    "title": "Compact 35W to 350W AC-DC power supplies improve system reliability in demanding industrial applications",
+    "source": "EE Journal",
+    "date": "2026-07-21",
+    "url": "https://www.eejournal.com/industry_news/compact-35w-to-350w-ac-dc-power-supplies-improve-system-reliability-in-demanding-industrial-applications/",
+    "summary": "XP Power announces the introduction of the LBA series of low-profile enclosed, chassis-mount, single-output AC-DC power supplies, covering power levels from 35W to 350W. Designed for cost-sensitive industrial technology applications, the series provides a versatile, reliable, and easy-to-integrate platform for engineers developing industrial automation, security and surveillance systems, lighting control, smart home and building control equipment. The &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/compact-35w-to-350w-ac-dc-power-supplies-improve-system-reliability-in-demanding-industrial-applications/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Compact 35W to 350W AC-DC power supplies improve system reliability in demanding industrial applications\"</span></a>"
+  },
+  {
+    "title": "The versatile MIL-C-55302 PCB and cable connectors from Incon can be sourced through Powell Electronics",
+    "source": "EE Journal",
+    "date": "2026-07-21",
+    "url": "https://www.eejournal.com/industry_news/the-versatile-mil-c-55302-pcb-and-cable-connectors-from-incon-can-be-sourced-through-powell-electronics/",
+    "summary": "Powell Electronics, the supplier of connectors and more for high-rel applications including defence, aerospace and industrial, offers the complete line of Incon MIL-C-55302 printed circuit board and cable connectors. Qualified to the Defense Supply Center Columbus (DSCC) Qualified Products List (QPL), the connector family provides proven interconnect solutions for military, aerospace, industrial, and other mission-critical &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/the-versatile-mil-c-55302-pcb-and-cable-connectors-from-incon-can-be-sourced-through-powell-electronics/\">Read More &#8594;<span class=\"screen-reader-text\"> \"The versatile MIL-C-55302 PCB and cable connectors from Incon can be sourced through Powell Electronics\"</span></a>"
+  },
+  {
+    "title": "It’s RAINing RFID",
+    "source": "EE Journal",
+    "date": "2026-07-21",
+    "url": "https://www.eejournal.com/article/its-raining-rfid/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/max-0502-image-for-home-page-impinj-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I must admit that I was tempted to title this column “It’s RAINing RFID! Hallelujah!” But then I thought you&#8217;d probably spend the rest of the day with the Weather Girls song rattling around in your head, so I decided against it. You&#8217;re welcome. I flatter myself that I know as much about RFID (Radio-Frequency &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/its-raining-rfid/\">Read More &#8594;<span class=\"screen-reader-text\"> \"It’s RAINing RFID\"</span></a>"
+  },
+  {
     "title": "Sail Virtually Aboard the “Itanic” with IA-64 Emulator",
     "source": "Hackaday",
     "date": "2026-07-20",
@@ -117,13 +194,6 @@
     "date": "2026-07-20",
     "url": "https://hackaday.com/2026/07/20/echolocation-for-drones/",
     "summary": "<div><img alt=\"A quadcopter with a clear, U-shaped shield up front and red propellers navigates between a close stand of moss-covered trees.\" class=\"attachment-large size-large wp-post-image\" height=\"454\" src=\"https://hackaday.com/wp-content/uploads/2026/07/Ultrasonic-Sonar-Echolocation-Drone.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Bats are remarkable creatures, able to fly at night or inside the confines of caves without light to guide their way. A team of researchers at Worcester Polytechnic Institute (WPI) <a class=\"read-more\" href=\"https://hackaday.com/2026/07/20/echolocation-for-drones/\">&#8230;read more</a>"
-  },
-  {
-    "title": "A Feature-Rich Drum Machine",
-    "source": "Hackaday",
-    "date": "2026-07-20",
-    "url": "https://hackaday.com/2026/07/20/a-feature-rich-drum-machine/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/drum-sequencer-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>A little over a month ago, we featured a project from [Igor] who built 64 bits of DRAM from scratch using discrete components. Jokes about memory pricing aside, he did <a class=\"read-more\" href=\"https://hackaday.com/2026/07/20/a-feature-rich-drum-machine/\">&#8230;read more</a>"
   },
   {
     "title": "Globalscale Case8 – A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding)",
@@ -173,13 +243,6 @@
     "date": "2026-07-20",
     "url": "https://www.electronicsweekly.com/news/business/modular-test-architecture-is-driving-force-for-emerson-2026-07/",
     "summary": "<p>The modular system, based on NI technology combines a high-performance FPGA core, for processing real-time data, and interchangeable SerDes interface devices which can be swapped according to the configuration requirements [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/modular-test-architecture-is-driving-force-for-emerson-2026-07/\">Modular test architecture is driving force for Emerson</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "SWISSto12 $70m raises Series C for HummingSat development",
-    "source": "Electronics Weekly",
-    "date": "2026-07-20",
-    "url": "https://www.electronicsweekly.com/news/business/finance/swissto12-70m-raises-series-c-for-hummingsat-development-2026-07/",
-    "summary": "<p>SWISSto12, the Swiss manufacturer of satellite and payload systems, has closed its $70 million Series C funding round. The capital raise follows the award of $84.8 million from the European [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/swissto12-70m-raises-series-c-for-hummingsat-development-2026-07/\">SWISSto12 $70m raises Series C for HummingSat development</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Taking the unexpected routes in animation and gaming",
@@ -238,32 +301,46 @@
     "summary": "Dr. Dominick DellaSala, Senior Conservation Science Associate in the North America Initiative of the Conservation Biology, joins WIRED to answer the internet&#8217;s questions about trees. Forest conservation scientist Dominick DellaSala joins WIRED to answer the internet’s burning questions about trees. What did ancient forests look like? What do tree rings really prove? Do rainforests create [&#8230;]"
   },
   {
-    "title": "Serious flaws found in a popular WiFi camera",
-    "source": "Adafruit",
+    "title": "element14 Community invites engineers to choose products they want to test",
+    "source": "EE Journal",
     "date": "2026-07-20",
-    "url": "https://blog.adafruit.com/2026/07/20/serious-flaws-found-in-a-popular-wifi-camera/",
-    "summary": "Independent researcher Christopher Childress (BadChemical) has published a detailed advisory on the TP-Link Kasa Spot EC71 camera, and it&#8217;s a terrific look at how IoT security research actually gets done. Childress started with firmware 2.3.26, pulled straight off the SPI flash with a ~$3 CH341A programmer, then dug in with packet capture and hardware analysis. [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/element14-community-invites-engineers-to-choose-products-they-want-to-test/",
+    "summary": "PHOENIX – July 14, 2026: element14, an Avnet community, has launched a new initiative within its RoadTest program, inviting engineers to apply to test and review a product of their choosing. The initiative allows participants to request any product priced at $175 or less from Newark, Farnell or element14 online stores. Ten selected applicants will receive their chosen product at &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/element14-community-invites-engineers-to-choose-products-they-want-to-test/\">Read More &#8594;<span class=\"screen-reader-text\"> \"element14 Community invites engineers to choose products they want to test\"</span></a>"
   },
   {
-    "title": "The Swiss Cheese model",
-    "source": "Adafruit",
+    "title": "Application Benefits of M-CRPS for Embedded Redundant Power Solutions — Bel and Mouser Electronics",
+    "source": "EE Journal",
     "date": "2026-07-20",
-    "url": "https://blog.adafruit.com/2026/07/20/the-swiss-cheese-model/",
-    "summary": "Marcin Wichary discusses the Swiss Cheese model. You see it sometimes in descriptions of how complex systems fail. The whole idea is: even if you have multiple layers of safety – like many slices of cheese – there are always holes in each slice. Typically, a hole in any slice is covered by a non-hole in [&#8230;]"
+    "url": "https://www.eejournal.com/chalk_talks/application-benefits-of-m-crps-for-embedded-redundant-power-solutions-bel-and-mouser-electronics/",
+    "summary": "&#160; In this episode of Chalk Talk, Ian Warner from Bel and Amelia Dalton explore why the industry is shifting from legacy CRPS to the M-CRPS standard, how open standard solutions from the Open Compute Project provide superior reliability, intelligent monitoring, and the flexibility needed to power the next generation of data center and networking &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/chalk_talks/application-benefits-of-m-crps-for-embedded-redundant-power-solutions-bel-and-mouser-electronics/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Application Benefits of M-CRPS for Embedded Redundant Power Solutions &#8212; Bel and Mouser Electronics\"</span></a>"
   },
   {
-    "title": "Light Up Bubble Wand with WLED #LED Pixels #AdafruitLearningSystem @Adafruit",
-    "source": "Adafruit",
+    "title": "TDK introduces HVC 5422C embedded motor controller for silent BLDC applications up to 1A",
+    "source": "EE Journal",
     "date": "2026-07-20",
-    "url": "https://blog.adafruit.com/2026/07/20/light-up-bubble-wand-with-wled-led-pixels-adafruitlearningsystem-adafruit/",
-    "summary": "Check out the latest guide from Erin St Blaine: make a 3d printed bubble wand and add seed pixel lights and a Mini Sparkle Motion controller to light up your bubbles as you blow them. This guide gives instructions on how to connect the lights and waterproof them, and power them with a rechargeable USB [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/tdk-introduces-hvc-5422c-embedded-motor-controller-for-silent-bldc-applications-up-to-1a/",
+    "summary": "&#8211;  Single-chip solution with integrated LIN transceiver, MCU, and motor driver help reduce system complexity and BOM cost &#8211;  64 K Flash and 4 KB EEPROM support over-the-air (OTA) software updates and sophisticated control algorithms &#8211;  Advanced Field Oriented Control (FOC) capabilities enable smooth motor operation while reducing acoustic noise to a minimum &#8211;  Cyber &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/tdk-introduces-hvc-5422c-embedded-motor-controller-for-silent-bldc-applications-up-to-1a/\">Read More &#8594;<span class=\"screen-reader-text\"> \"TDK introduces HVC 5422C embedded motor controller for silent BLDC applications up to 1A\"</span></a>"
   },
   {
-    "title": "Museum of Endangered Sounds #MusicMonday",
-    "source": "Adafruit",
+    "title": "MathWorks Enables AI Agents to Execute and Validate Engineering Workflows within MATLAB",
+    "source": "EE Journal",
     "date": "2026-07-20",
-    "url": "https://blog.adafruit.com/2026/07/20/museum-of-endangered-sounds/",
-    "summary": "Take an audio trip down memory lane with the Museum of Endangered Sounds. Savethesounds.info is a time capsule of obsolete noise, started in 2012 with goal of preserving the chimes, whirs, clunks and more  of old technology. You can play each sound individually or play many at once. I&#8217;d love to see the library added [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/mathworks-enables-ai-agents-to-execute-and-validate-engineering-workflows-within-matlab/",
+    "summary": "MathWorks, the leading developer of mathematical computing software for designing engineered systems, announced new capabilities that let AI agents run and refine MATLAB® workflows through two new open-source tools—MATLAB MCP Server and MATLAB Agentic Toolkit—using Model Context Protocol. With these tools, agents can write MATLAB code, run it in a live session, examine outputs or errors, and iterate toward &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/mathworks-enables-ai-agents-to-execute-and-validate-engineering-workflows-within-matlab/\">Read More &#8594;<span class=\"screen-reader-text\"> \"MathWorks Enables AI Agents to Execute and Validate Engineering Workflows within MATLAB\"</span></a>"
+  },
+  {
+    "title": "TANAKA Commences Operation of “TANAKA H2 Nexus”, One of Japan’s Largest 500 kW Pure Hydrogen Fuel Cell Power Generation Facilities",
+    "source": "EE Journal",
+    "date": "2026-07-20",
+    "url": "https://www.eejournal.com/industry_news/tanaka-commences-operation-of-tanaka-h2-nexus-one-of-japans-largest-500-kw-pure-hydrogen-fuel-cell-power-generation-facilities/",
+    "summary": "TANAKA PRECIOUS METAL TECHNOLOGIES Co., Ltd. (Head Office: Chuo-ku, Tokyo; Representative Director &#38; CEO: Koichiro Tanaka), a company engaged in the industrial precious metals business of TANAKA, today announced that &#8220;TANAKA H2 Nexus&#8221;, one of Japan&#8217;s largest 500 kW pure hydrogen fuel cell power generation facilities, began operation on July 8, 2026, at the TANAKA &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/tanaka-commences-operation-of-tanaka-h2-nexus-one-of-japans-largest-500-kw-pure-hydrogen-fuel-cell-power-generation-facilities/\">Read More &#8594;<span class=\"screen-reader-text\"> \"TANAKA Commences Operation of &#8220;TANAKA H2 Nexus&#8221;, One of Japan&#8217;s Largest 500 kW Pure Hydrogen Fuel Cell Power Generation Facilities\"</span></a>"
+  },
+  {
+    "title": "VÆRIDION selects Drive System Design to advance the Microliner electric propulsion system",
+    "source": "EE Journal",
+    "date": "2026-07-20",
+    "url": "https://www.eejournal.com/industry_news/vaeridion-selects-drive-system-design-to-advance-the-microliner-electric-propulsion-system/",
+    "summary": "DSD to develop, build and test the Microliner’s high-tech propeller drive system in the UK ahead of Copper Bird integration Microliner propulsion system development will draw on DSD’s aerospace transmission expertise, integrated engineering and advanced physical testing capabilities Programme advances VÆRIDION’s proprietary multi-engine, single-propeller architecture towards first flight and certification VÆRIDION, the all-electric aircraft manufacturer, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/vaeridion-selects-drive-system-design-to-advance-the-microliner-electric-propulsion-system/\">Read More &#8594;<span class=\"screen-reader-text\"> \"VÆRIDION selects Drive System Design to advance the Microliner electric propulsion system\"</span></a>"
   },
   {
     "title": "Beelink EQi 304 review – Part 3: Ubuntu 26.04 on a Wildcat Lake mini PC",
@@ -348,12 +425,5 @@
     "date": "2026-07-14",
     "url": "https://www.embedded.com/microchip-releases-free-vectorblox-3-0-sdk/",
     "summary": "<p>Microchip Technology Inc. has introduced version 3.0 of its VectorBlox Accelerator software development kit (SDK), adding new capabilities to improve the implementation of artificial intelligence inference on PolarFire FPGA and system-on-chip (SoC) devices. The updated development environment is designed to simplify the deployment of convolutional neural network (CNN) models while increasing performance and energy efficiency [...]</p>\n<p>The post <a href=\"https://www.embedded.com/microchip-releases-free-vectorblox-3-0-sdk/\">Microchip Releases Free VectorBlox 3.0 SDK</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Liquid Instruments Unveils GenInst Studio for Custom Test Design",
-    "source": "Embedded.com",
-    "date": "2026-07-14",
-    "url": "https://www.embedded.com/liquid-instruments-unveils-geninst-studio-for-custom-test-design/",
-    "summary": "<p>The agentic AI test solution delivers application-specific instruments in minutes.</p>\n<p>The post <a href=\"https://www.embedded.com/liquid-instruments-unveils-geninst-studio-for-custom-test-design/\">Liquid Instruments Unveils GenInst Studio for Custom Test Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
