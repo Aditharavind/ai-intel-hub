@@ -1,5 +1,12 @@
 [
   {
+    "title": "Tired of xargs?",
+    "source": "Hackaday",
+    "date": "2026-07-21",
+    "url": "https://hackaday.com/2026/07/21/tired-of-xargs/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"434\" src=\"https://hackaday.com/wp-content/uploads/2026/07/enum.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>What if you want to do something in Linux for a lot of files? [Numerator] was tired of using xarg and other ways to handle this job and created bashumerate. <a class=\"read-more\" href=\"https://hackaday.com/2026/07/21/tired-of-xargs/\">&#8230;read more</a>"
+  },
+  {
     "title": "Giving Resin 3D Printers Another Shot After Six Years",
     "source": "Hackaday",
     "date": "2026-07-21",
@@ -56,11 +63,25 @@
     "summary": "<div><img alt=\"nRF54L Arduino Core\" class=\"attachment-medium size-medium wp-post-image\" height=\"341\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/nRF54L-Arduino-Core-720x341.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>nRF54L Arduino Core is an open-source project designed to bring Arduino support for Nordic Semiconductor nRF54L wireless SoCs, starting with Seeed Studio&#8217;s XIAO nRF54L15 (Sense) and XIAO nRF54LM20A (Sense) boards, as well as compatible Holyiot nRF54L15 modules. Since the launch of the nRF52840-based Arduino Nano 33 BLE  board in 2019, Nordic nRF52 wireless microcontrollers have been officially supported by the Arduino IDE. However, it&#8217;s not quite the case for the newer nRF54L Cortex-M33 microcontrollers. Lolren has decided to change that with the unofficial nRF54 Arduino core project. nRF54L Arduino Core highlights: Dual-core access &#8211; Use the 128 MHz Cortex-M33 application CPU and the VPR RISC-V coprocessor without adopting a vendor RTOS Wireless Bluetooth LE support &#8211; Peripheral, central, dual-role, GATT server/client, HID, BLE UART, PHY/DLE/MTU control, LE Secure Connections, bonding, OOB, Numeric Comparison, privacy/RPA, and CSRK signed writes Experimental support for Zigbee &#8211; Partial stack and device demonstrations; incomplete Zigbee [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/21/nrf54l-arduino-core-project-brings-arduino-support-to-nordic-semi-nrf54l-wireless-socs/\">nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "NXP Unveils Single-Chip Automotive Audio and Radio Processor",
+    "source": "Embedded.com",
+    "date": "2026-07-21",
+    "url": "https://www.embedded.com/nxp-unveils-single-chip-automotive-audio-and-radio-processor/",
+    "summary": "<p>NXP Semiconductors has expanded its automotive infotainment product portfolio with the launch of the SAF9800 automotive audio and radio processor. Designed to simplify infotainment architectures, the SAF9800 integrates an analog radio (AM and FM) and AI/ML-enabled audio processing into a flexible single-chip solution. This innovative approach for analog radio reception and audio processing integrates functionality [...]</p>\n<p>The post <a href=\"https://www.embedded.com/nxp-unveils-single-chip-automotive-audio-and-radio-processor/\">NXP Unveils Single-Chip Automotive Audio and Radio Processor</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
     "title": "Pros and Cons of MCU Hardware and Software Peripherals",
     "source": "Embedded.com",
     "date": "2026-07-21",
     "url": "https://www.embedded.com/pros-and-cons-of-mcu-hardware-and-software-peripherals/",
     "summary": "<p>How do you tell time? You might glance at a watch or look up at a clock. But for a microcontroller (MCU), it's not that simple. MCUs are integrated circuits that contain core independent peripherals, or CIPs. CIPs are specialized hardware circuits designed to perform a task with little to no CPU intervention. Every manufacturer [...]</p>\n<p>The post <a href=\"https://www.embedded.com/pros-and-cons-of-mcu-hardware-and-software-peripherals/\">Pros and Cons of MCU Hardware and Software Peripherals</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Littelfuse FlatSuppressX TVS Diodes target 48V Automotive Systems",
+    "source": "Electronics Weekly",
+    "date": "2026-07-21",
+    "url": "https://www.electronicsweekly.com/news/products/passives/littelfuse-flatsuppressx-tvs-diodes-target-48v-automotive-systems-2026-07/",
+    "summary": "<p>Littelfuse is announcing its TP5.0SMD-FL (5 kW) and TP1KSMB-FL (1 kW) series FlatSuppressX TVS Diodes. They are to protect 48 V automotive electronics from transient overvoltage events while delivering ultra-low [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/passives/littelfuse-flatsuppressx-tvs-diodes-target-48v-automotive-systems-2026-07/\">Littelfuse FlatSuppressX TVS Diodes target 48V Automotive Systems</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Winners",
@@ -126,6 +147,34 @@
     "summary": "<p>When the UK had a computer company which competed with IBM, Electronics Weekly carried one of its ads in its edition of October 12th 1960: &#160;</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/when-the-uk-took-on-ibm-2026-07/\">When The UK Took On IBM</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "PocketMage PDA",
+    "source": "Adafruit",
+    "date": "2026-07-21",
+    "url": "https://blog.adafruit.com/2026/07/21/pocketmage-pda/",
+    "summary": "PocketMage is a personal digital assistant designed to reclaim the utility of pocketable computing without the distractions of a modern smartphone. It bridges the gap between a dedicated word processor and a Cyberdeck-style versatile development tool, centered around a full tactile QWERTY keyboard and a unique dual-display architecture. By utilizing an ESP32-S3, PocketMage offers a high-performance, [&#8230;]"
+  },
+  {
+    "title": "Fabien Sanglard Identifies Jurassic Park Computers in Excruciating Detail",
+    "source": "Adafruit",
+    "date": "2026-07-21",
+    "url": "https://blog.adafruit.com/2026/07/21/fabien-sanglard-identifies-jurassic-park-computers-in-excruciating-detail/",
+    "summary": "In this incredible breakdown FABIEN SANGLARD identifies and explains every computer seen in Jurassic Park, via fabiensanglard.net &#160; After I mentioned a Jurassic Park anecdote the other day, I watched the movie again. I must have seen it at least ten times now. This time, I researched every computer/software I spotted. EDIT: Just when I [&#8230;]"
+  },
+  {
+    "title": "A zero-CPU-overhead HM01B0 camera streaming library for RP2350",
+    "source": "Adafruit",
+    "date": "2026-07-21",
+    "url": "https://blog.adafruit.com/2026/07/21/a-zero-cpu-overhead-hm01b0-camera-streaming-library-for-rp2350/",
+    "summary": "HM01B0_CPUfree_Camera is a zero-CPU-overhead camera streaming library for Raspberry Pi RP2350 chips with a maximum 120fps. This Arduino library allows you to acquire continuous images from an HM01B0 camera without using the CPU at all. By fully automating the process using DMA and PIO, the RP2350&#8217;s two CPU cores can be freed from camera capture [&#8230;]"
+  },
+  {
+    "title": "The Film Packaging Archive",
+    "source": "Adafruit",
+    "date": "2026-07-21",
+    "url": "https://blog.adafruit.com/2026/07/21/the-film-packaging-archive/",
+    "summary": "GitHub user dekuNukem has compiled the Film Packaging Archive: Welcome! Here you can find high-resolution scans of: Photographic Film Packaging Instruction Manuals / Leaflets / Processing Envelopes Old &#38; new, popular &#38; obscure. Why Film packaging captures the evolution of photography, technology, and design trends. Its preservation helps document history, inspire modern designs, and support [&#8230;]"
+  },
+  {
     "title": "ICYMI Python on Microcontrollers Newsletter: MicroPython in a Eurorack and on Super Nintendo, Plus More!",
     "source": "Adafruit",
     "date": "2026-07-21",
@@ -189,13 +238,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/w2k3-luna-itanium-e1784483902142.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Intel&#8217;s Itanium architecture was an interesting experiment, but it has gone down in history as one of the chip giant&#8217;s bigger flops, so much so that it earned the name <a class=\"read-more\" href=\"https://hackaday.com/2026/07/20/sail-virtually-aboard-the-itanic-with-ia-64-emulator/\">&#8230;read more</a>"
   },
   {
-    "title": "Echolocation for Drones",
-    "source": "Hackaday",
-    "date": "2026-07-20",
-    "url": "https://hackaday.com/2026/07/20/echolocation-for-drones/",
-    "summary": "<div><img alt=\"A quadcopter with a clear, U-shaped shield up front and red propellers navigates between a close stand of moss-covered trees.\" class=\"attachment-large size-large wp-post-image\" height=\"454\" src=\"https://hackaday.com/wp-content/uploads/2026/07/Ultrasonic-Sonar-Echolocation-Drone.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Bats are remarkable creatures, able to fly at night or inside the confines of caves without light to guide their way. A team of researchers at Worcester Polytechnic Institute (WPI) <a class=\"read-more\" href=\"https://hackaday.com/2026/07/20/echolocation-for-drones/\">&#8230;read more</a>"
-  },
-  {
     "title": "Globalscale Case8 – A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding)",
     "source": "CNX Software",
     "date": "2026-07-20",
@@ -238,13 +280,6 @@
     "summary": "<p>Rapidus Corp. and Cadence Design Systems Inc. have announced a partnership to advance agentic AI for advanced-node system-on-chip (SoC) design. By integrating the Cadence InnoStack AI Super Agent into the Rapidus AI-Agentic Design Solution (Raads), Rapidus expects up to a 2× improvement in design turnaround time over traditional workflows. The combination of Rapidus' AI-native design [...]</p>\n<p>The post <a href=\"https://www.embedded.com/partnership-advances-agentic-ai-for-soc-design/\">Partnership Advances Agentic AI for SoC Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Modular test architecture is driving force for Emerson",
-    "source": "Electronics Weekly",
-    "date": "2026-07-20",
-    "url": "https://www.electronicsweekly.com/news/business/modular-test-architecture-is-driving-force-for-emerson-2026-07/",
-    "summary": "<p>The modular system, based on NI technology combines a high-performance FPGA core, for processing real-time data, and interchangeable SerDes interface devices which can be swapped according to the configuration requirements [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/modular-test-architecture-is-driving-force-for-emerson-2026-07/\">Modular test architecture is driving force for Emerson</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "Taking the unexpected routes in animation and gaming",
     "source": "Adafruit",
     "date": "2026-07-20",
@@ -271,34 +306,6 @@
     "date": "2026-07-20",
     "url": "https://blog.adafruit.com/2026/07/20/the-brick-game-through-the-ages/",
     "summary": "The handheld games of 2000: how could we forget the LCD screens and the cheesiness. Nicole Express got one at a church fundraiser and did a comparison with another model which advertises voice. Another oddity about the box. Take a look at the screen. Notice that it has square blocks with a square inside, and [&#8230;]"
-  },
-  {
-    "title": "The SmartFont Library for LED matrix displays",
-    "source": "Adafruit",
-    "date": "2026-07-20",
-    "url": "https://blog.adafruit.com/2026/07/20/the-smartfont-library-for-led-matrix-displays/",
-    "summary": "The SmartFont Library by Chaiwat Leanyos is a generic C++ font library for embedded systems (Arduino, ESP32, etc.), designed for efficient rendering of UTF-8 strings on pixel-based displays. It features special support for Thai Language, correctly positioning vowels and tone marks (0x0E00 &#8211; 0x0E7F). Features UTF-8 Support: Handles multi-byte characters automatically. Thai Language Layout: Automatically [&#8230;]"
-  },
-  {
-    "title": "Korg re-releases the PS-3300 synthesizer",
-    "source": "Adafruit",
-    "date": "2026-07-20",
-    "url": "https://blog.adafruit.com/2026/07/20/korg-re-releases-the-ps-3300-synthesizer/",
-    "summary": "Between 1977 and 1981, the original Korg PS-3300 carved out a legendary place in music history. With fewer than 50 units made, its lush, expansive sounds appeared on just a handful of recordings &#8211; making it one of the rarest and most sought-after synths in history. Today, original models are almost impossible to find. Brought [&#8230;]"
-  },
-  {
-    "title": "Replacing a $120k bowling center system with $1,600 in ESP32s",
-    "source": "Adafruit",
-    "date": "2026-07-20",
-    "url": "https://blog.adafruit.com/2026/07/20/replacing-a-120k-bowling-center-system-with-1600-in-esp32s/",
-    "summary": "After buying an abandoned 8-lane bowling center, HN user section33 found that replacing the six-figure scoring system would cost $80k to $120k, with parts running $4,000 per lane pair. Since the 70-year-old bowling machines are almost entirely mechanical and the &#8220;advanced&#8221; system was largely just firing a single relay to trigger the pinsetter, he built [&#8230;]"
-  },
-  {
-    "title": "Get to Know Trees with WIRED’s Forest Report",
-    "source": "Adafruit",
-    "date": "2026-07-20",
-    "url": "https://blog.adafruit.com/2026/07/20/get-to-know-trees-with-wireds-forest-report/",
-    "summary": "Dr. Dominick DellaSala, Senior Conservation Science Associate in the North America Initiative of the Conservation Biology, joins WIRED to answer the internet&#8217;s questions about trees. Forest conservation scientist Dominick DellaSala joins WIRED to answer the internet’s burning questions about trees. What did ancient forests look like? What do tree rings really prove? Do rainforests create [&#8230;]"
   },
   {
     "title": "element14 Community invites engineers to choose products they want to test",
@@ -418,12 +425,5 @@
     "date": "2026-07-15",
     "url": "https://www.embedded.com/arteris-arm-partner-to-strengthen-hardware-security-verification/",
     "summary": "<p>Arteris Inc. has expanded its long-standing collaboration with Arm to broaden the use of the Cycuity Radix hardware security assurance platform across future processor development programs. Building on several years of cooperation, the agreement extends the adoption of security verification technologies designed to identify hardware vulnerabilities during the design phase rather than after silicon implementation. [...]</p>\n<p>The post <a href=\"https://www.embedded.com/arteris-arm-partner-to-strengthen-hardware-security-verification/\">Arteris, Arm Partner to Strengthen Hardware Security Verification</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Microchip Releases Free VectorBlox 3.0 SDK",
-    "source": "Embedded.com",
-    "date": "2026-07-14",
-    "url": "https://www.embedded.com/microchip-releases-free-vectorblox-3-0-sdk/",
-    "summary": "<p>Microchip Technology Inc. has introduced version 3.0 of its VectorBlox Accelerator software development kit (SDK), adding new capabilities to improve the implementation of artificial intelligence inference on PolarFire FPGA and system-on-chip (SoC) devices. The updated development environment is designed to simplify the deployment of convolutional neural network (CNN) models while increasing performance and energy efficiency [...]</p>\n<p>The post <a href=\"https://www.embedded.com/microchip-releases-free-vectorblox-3-0-sdk/\">Microchip Releases Free VectorBlox 3.0 SDK</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]

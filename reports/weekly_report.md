@@ -1,23 +1,17 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-21 14:51 UTC
+Generated: 2026-07-21 16:12 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-07-20 | Patch Policy: Efficient Embodied Control via Dense Visual Representations | [link](https://arxiv.org/pdf/2607.18236v1) |
-| 2026-07-20 | FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation | [link](https://arxiv.org/pdf/2607.18231v1) |
-| 2026-07-20 | GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis | [link](https://arxiv.org/pdf/2607.18218v1) |
-| 2026-07-20 | Optimization of sim-to-real transfer in the humanoid robot NICO | [link](https://arxiv.org/pdf/2607.18210v1) |
-| 2026-07-20 | Learning Adaptive Safety Margins for Visual Navigation | [link](https://arxiv.org/pdf/2607.18200v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82601 | 33040.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63185 | 25274.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44265 | 17706.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30095 | 12038.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 82614 | 33045.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63186 | 25274.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44267 | 17706.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30094 | 12037.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16041 | 6416.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
@@ -42,7 +36,7 @@ Generated: 2026-07-21 14:51 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-07-21 | Robotics Startup Humanoid Joins The Billion-Dollar Physical AI Club - Finimize | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2hUZXpxMjZ5LWZQWVpsOHV4SUdSSzlwX2g3dElmYmg3X1kxYWhDb3N0NG9xd1BTM3ludXlndEdMeXVKOGdwempTNmdrMVZuWll5YXRKdzhoVEV6bXhNSmo3TzNTcThvejgxcERUVHZhWC05bHZ2bXlhMXdSeklGNjdzeEwzRjczRnFfWVlQX3ZMbm8talNoR0lHbzQ?oc=5) |
-| 2026-07-21 | Jeff Bezos Returns as Co-CEO for $41 Billion Physical AI Startup Prometheus - streamlinefeed.co.ke | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkFaeW80Tkhyc0NXVjhlTVpLYnR4emdrbDhkMjhibldfRjBqNGxpTTdaTkkwRjVOckJJRWl3eDFuQmFMdzlxOFd6TkhGYVNBLTZUdkIzdF9zOVc3b2N5MnlrNEdUcTRSZVdHbm5TX21ldkdiRkV4ZWJ5cXN0THJkWnN3OENnWmRkc3UxNzFrQklVSWJybENBQlpTNWJMSkxmY095QUl5OGIxTUI4?oc=5) |
+| 2026-07-21 | New Unicorn! Humanoid secures €133 million at €1.1 billion valuation to scale industrial robotics and physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUWF3QVBJNXp5STRDcHJNUDZISjlQc09xRGtnLUl1UXU0WlJNb1dPWVVSRWk2YUtGMU4ydWYwaXQzUG1yZ29XYk5qeHVKUDktUTNZQ09nNFBRM1J4b1BEZXRwaTVLTWZnYXlWMjZSZUQxb2xRbm1YS2NlZHlUVWlEekhuZmRDLWR0MUZGX2pSQXhsWC1tZHdPUnQ1MGYtRHU0T3RTXzBNQzNZSERPN3NGVHFfUmJXc2RvNmhvRTVXOWp4cHBUWDRreDJZN0FNX3A2U2FKSmlYOFFPdFJrWjFQZmRLSQ?oc=5) |
 | 2026-07-21 | Embodied AI startup GigaAI plans Hong Kong IPO at US$3b valuation - The Standard (HK) | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxOczRISEtsc2tSRWJVbW1tOVhDOFViaGx3U2ltQnhuaHNPWHQyWmV0UHN2aTlPUTJjMkxtZFA1YW9ZUkRRVnJsQUVZUmlRYnlCN3duNHlJSGVEQXA0MzFEYXg3bFE2Y3p6cXExRGdvY3ZHaC1WSUl5RmM4Njd6eGVSZ3R1WHZzc0tLaWJiVUR5bXo1TDNXbGFGRmktM2R3d1ZOQUpHQ2J5MXdDWkFIZ1dVa0Rmc0Y0ZTJ4T1pUZTJ3?oc=5) |
 | 2026-07-21 | Elite Robots Collaborates with Generalist AI on Next-Gen Embodied AI - The Manila Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTEdkVEo0Y0N4clY4MDZaSXE2T1FsOWVTc0p5eHFwcUpxY09sMm9vVEd6S2htODY2dGlwdG9YTm5FcFRFRFE2VzB3YTVVRjc1WFlzYmxIOXNmakZOcUZNU1ZqckVoWTBjbm1ULUdtUVZwTDJOMUpnRk5BSnNLdEE0M1FmdUdqb3FBMERrcVhVd2ZXREZTOFF2TExRZzBzTnZOVmwyRXZHNm9kQllOa3hWNV9WS3ZCNG8ta05LN3ZlLTkyaFQyOHNLMF9JTmFjUkZQX2E5QW1QQdIB3AFBVV95cUxQNGF5b2V1d1lQMzJiejQySGNKM2JNaS05T1ZNbDJuZmNiU1o3ZloyZnUtWUNZTnJ4a294VmFYM0FCWDd5MWdKZTRJQkZfSU5pWDRQalZCdUVUX0ZIOGpwaWZJYXk4dzVJOWJ2bHVfckJvWEZiRTluSUdpM2F0Z1RZelhCS1Q1MzA3aUVoajMxX29yZ0J2cnUwVkJ2Q0ZPZktkN3ozS2QtU0FfN1hiZWVTcXkwTldaNXVBd01wUUp1azdOWVh3aXlGdVItd0NDZ09kRzBOcXdIeDlwU24x?oc=5) |
 | 2026-07-21 | Humanoid robot startup Holiday Robotics announced on the 21st that its research team led the paper ".. - 매일경제 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YeFBYZ2R3V3R0ZWxweG84OTBHV2VQMzVKTkw4a0p1Wm5jbEF5ZExKVUExVkRRbTNuTmxZLWhUZEY5UmRaRjVIUVlYMA?oc=5) |
