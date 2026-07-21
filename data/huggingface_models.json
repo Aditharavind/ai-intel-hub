@@ -1,5 +1,32 @@
 [
   {
+    "model": "puppet-robotics/golf-model-200-obs-rgb",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb",
+    "date": "2026-07-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "MerazAhmed3420/task-23-robotics-vla-diffusion",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MerazAhmed3420/task-23-robotics-vla-diffusion",
+    "date": "2026-07-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "access-robotics-team/so-ev-pp-lightbox-260721",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/access-robotics-team/so-ev-pp-lightbox-260721",
+    "date": "2026-07-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "puppet-robotics/golf-model-200-obs",
     "downloads": 46,
     "likes": 0,
@@ -81,31 +108,13 @@
     "score": 0.1
   },
   {
-    "model": "puppet-robotics/golf-model-200-obs-rgb",
-    "downloads": 0,
+    "model": "siliconperception/VLA",
+    "downloads": 29,
     "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb",
+    "url": "https://huggingface.co/siliconperception/VLA",
     "date": "2026-07-21",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "access-robotics-team/so-ev-pp-lightbox-260721",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/access-robotics-team/so-ev-pp-lightbox-260721",
-    "date": "2026-07-21",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "Superrrdamn/robotics-vla-task-23-large",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Superrrdamn/robotics-vla-task-23-large",
-    "date": "2026-07-21",
-    "keyword": "robotics",
-    "score": 0.1
+    "keyword": "vla",
+    "score": 8.8
   },
   {
     "model": "huashuolei/robomme-mme-vla-all26-ckpt56000",
@@ -115,15 +124,6 @@
     "date": "2026-07-21",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "siliconperception/VLA",
-    "downloads": 29,
-    "likes": 0,
-    "url": "https://huggingface.co/siliconperception/VLA",
-    "date": "2026-07-21",
-    "keyword": "vla",
-    "score": 8.8
   },
   {
     "model": "zwan1003/pickplace_skills_vla_v3_1_long",
@@ -171,12 +171,12 @@
     "score": 0.1
   },
   {
-    "model": "xxx114514/CAT-VLA-checkpoints",
+    "model": "Superrrdamn/robotics-vla-task-23-large",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/xxx114514/CAT-VLA-checkpoints",
+    "url": "https://huggingface.co/Superrrdamn/robotics-vla-task-23-large",
     "date": "2026-07-21",
-    "keyword": "vla",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -204,6 +204,15 @@
     "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp06-world-model-stage1-full-epoch3-stage2-lora-epoch1",
     "date": "2026-07-21",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-07-21_shakeitup6_bench_dragonfly_10kHz_nfft_64",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-07-21_shakeitup6_bench_dragonfly_10kHz_nfft_64",
+    "date": "2026-07-21",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -306,15 +315,6 @@
     "score": 0.1
   },
   {
-    "model": "grboguz/your-act-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/grboguz/your-act-policy",
-    "date": "2026-07-21",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "DiogenesLab/world-model-research",
     "downloads": 0,
     "likes": 0,
@@ -373,15 +373,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/MerazAhmed3420/task-23-robotics-vla-siglip",
-    "date": "2026-07-20",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "MerazAhmed3420/task-23-robotics-vla",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MerazAhmed3420/task-23-robotics-vla",
     "date": "2026-07-20",
     "keyword": "robotics",
     "score": 0.1
