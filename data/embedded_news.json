@@ -1,5 +1,12 @@
 [
   {
+    "title": "Neural Net Reads the Gas Meter",
+    "source": "Hackaday",
+    "date": "2026-07-21",
+    "url": "https://hackaday.com/2026/07/21/neural-net-reads-the-gas-meter/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/gas-meter-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In an ideal world, the role of technology would be to make all of our lives easier. And although all the ads suddenly appearing in our smart TVs and gaming <a class=\"read-more\" href=\"https://hackaday.com/2026/07/21/neural-net-reads-the-gas-meter/\">&#8230;read more</a>"
+  },
+  {
     "title": "Postal IRCs are Almost a Thing of the Past",
     "source": "Hackaday",
     "date": "2026-07-21",
@@ -40,13 +47,6 @@
     "date": "2026-07-21",
     "url": "https://hackaday.com/2026/07/20/google-maps-killed-the-restaurant-star/",
     "summary": "<div><img alt=\"Two maps of London turned into hexagonal regions heat mapped from white to peach to purple. The left map is according to: density, ratings, surprise, cuisine diversity, and independent share. The map on the right of merged data assigns the dominant hub type in a region. Purple is assigned a value of &quot;Elite&quot;, reddish orange is &quot;Strong&quot;, peach is &quot;Everyday&quot;, and white/grey is &quot;Weak.&quot; The five locations deemed to be the highest scorers were Ealing-Acton, Kingston Upon Thames, Enfield, Bromley, and Havering.\" class=\"attachment-large size-large wp-post-image\" height=\"416\" src=\"https://hackaday.com/wp-content/uploads/2026/07/London-Restaurant-Hubs-Machine-Learning.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We all know that Google and other big players pick and choose what information people see, but we sometimes overlook it outside of the search and social media space. [Lauren <a class=\"read-more\" href=\"https://hackaday.com/2026/07/20/google-maps-killed-the-restaurant-star/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Detection of a Four-Carbon Sugar in Interstellar Space",
-    "source": "Hackaday",
-    "date": "2026-07-21",
-    "url": "https://hackaday.com/2026/07/20/detection-of-a-four-carbon-sugar-in-interstellar-space/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"420\" src=\"https://hackaday.com/wp-content/uploads/2026/07/erythrulose_interstellar_medium_jimenez-serra_et_al_nature_astronomy_2026.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although life tends to find a way, something first has to kickstart said lifeforms. Exactly how the first biological cells formed on Earth &#8211; and potentially on other worlds &#8211; <a class=\"read-more\" href=\"https://hackaday.com/2026/07/20/detection-of-a-four-carbon-sugar-in-interstellar-space/\">&#8230;read more</a>"
   },
   {
     "title": "Avalue RIVAR-1539 is a 15.6-inch fanless industrial panel PC powered by an Intel N150 Twin Lake processor",
@@ -154,6 +154,41 @@
     "summary": "<p>Siemens has bought Precision Innovations, the privately held, seven year-old, San Diego EDA specialist. Precision Innovations develops EDA software built on the open-source OpenROAD framework to help semiconductor teams evaluate [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/siemens-buys-precision-innovations-2026-07/\">Siemens buys Precision Innovations</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "A Classic Macintosh emulator for the the ESP32-P4",
+    "source": "Adafruit",
+    "date": "2026-07-21",
+    "url": "https://blog.adafruit.com/2026/07/21/a-classic-macintosh-emulator-for-the-the-esp32-p4/",
+    "summary": "Austin McChord has ported the BasiliskII Macintosh 68k emulator to the ESP32-P4, bringing classic Mac OS (System 7.x through Mac OS 8.1) to portable embedded devices with touchscreen and USB peripheral support. The M5Stack Tab5 and Waveshare ESP32-P4-WIFI6-Touch-LCD-10.1 are currently supported. Both variants share the BasiliskII core, video pipeline, USB HID handling, and boot GUI. [&#8230;]"
+  },
+  {
+    "title": "JP’s Product Pick of the Week — 6pm Eastern TODAY! 7/21/26 @adafruit #adafruit #newproductpick",
+    "source": "Adafruit",
+    "date": "2026-07-21",
+    "url": "https://blog.adafruit.com/2026/07/21/jps-product-pick-of-the-week-6pm-eastern-today-7-21-26-adafruit-adafruit-newproductpick/",
+    "summary": "Come on by for JP&#8217;s Product Pick of The Week ! A new product pick will be revealed. The show airs at 4pm ET / 1pm PT Check out the livestream right here inside this product page you won&#8217;t want to miss it because there will be a HUGE DISCOUNT during the show! Tune in [&#8230;]"
+  },
+  {
+    "title": "TI e-book: An Engineer’s Guide to USB Type-C",
+    "source": "Adafruit",
+    "date": "2026-07-21",
+    "url": "https://blog.adafruit.com/2026/07/21/ti-e-book-an-engineers-guide-to-usb-type-c/",
+    "summary": "Texas Instruments has written an introduction to USB-C and USB-Power Delivery: USB Type-C® (USB-C®) is an industry-standard connector that enables the transmission of both data and power on a single interface. USB Power Delivery (PD) is a standard using the USB-C connector to increase the capabilities and features of the USB-C interface. With USB Power [&#8230;]"
+  },
+  {
+    "title": "E-Paper Lake Levels",
+    "source": "Adafruit",
+    "date": "2026-07-21",
+    "url": "https://blog.adafruit.com/2026/07/21/e-paper-lake-levels/",
+    "summary": "&#160; Reddit User fontain06 shared this E-Paper display to monitor the water levels on Georgia&#8217;s Lake Lanier. Every 15 minutes the display updates from army corps of engineers who are responsible for the lake and the dam. The corps make sensor data available through their API. fontain06 used Claude to help code everything up. Via [&#8230;]"
+  },
+  {
+    "title": "MicroPython ported to the Pico Computer 3",
+    "source": "Adafruit",
+    "date": "2026-07-21",
+    "url": "https://blog.adafruit.com/2026/07/21/micropython-ported-to-the-pico-computer-3/",
+    "summary": "Version 0.2 is the test version of a customized build of MicroPython that turns the Pico Computer 3 into a self-contained computer. Much of the functionality is ported from the PicoMite MMBasic firmware. Features: Unix-like Shell commands HDMI/DVI display USB touch screen, keyboard and mouse Audio (PCM5102 I2S DAC) RTC DS3231 SD card WiFi/Bluetooth (CYW43) [&#8230;]"
+  },
+  {
     "title": "LightMap Monaco  #ArtTuesday",
     "source": "Adafruit",
     "date": "2026-07-21",
@@ -201,20 +236,6 @@
     "date": "2026-07-21",
     "url": "https://blog.adafruit.com/2026/07/21/digisearch-takes-simple-boms-to-digikey-parts-list/",
     "summary": "Pontus Oldberg has posted DigiSearch. It resolves simplified BOM documents into real, orderable BOMs by matching each line to a concrete DigiKey part — carrying reference designators, manufacturer part numbers, DigiKey part numbers, live stock, lifecycle, datasheet links, and both unit and price-break pricing. Your BOMs are deliberately under-specified (generic passives like 0.1uF 0402, or [&#8230;]"
-  },
-  {
-    "title": "András Vujovits Built a Delta Kinematic Pen Plotter",
-    "source": "Adafruit",
-    "date": "2026-07-21",
-    "url": "https://blog.adafruit.com/2026/07/21/andras-vujovits-built-a-delta-kinematic-pen-plotter/",
-    "summary": "In this YouTube video András Vujovits shares how they built their custom plotter! Learn how to make a harmonic drawing machine with Crickit in the Adafruit Learning System!"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-07-21",
-    "url": "https://blog.adafruit.com/2026/07/21/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-21-2/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
     "title": "OMRON Advances Inspection Technology with NVIDIA Omniverse and Metropolis",
@@ -287,39 +308,11 @@
     "summary": "<p>Rapidus Corp. and Cadence Design Systems Inc. have announced a partnership to advance agentic AI for advanced-node system-on-chip (SoC) design. By integrating the Cadence InnoStack AI Super Agent into the Rapidus AI-Agentic Design Solution (Raads), Rapidus expects up to a 2× improvement in design turnaround time over traditional workflows. The combination of Rapidus' AI-native design [...]</p>\n<p>The post <a href=\"https://www.embedded.com/partnership-advances-agentic-ai-for-soc-design/\">Partnership Advances Agentic AI for SoC Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Taking the unexpected routes in animation and gaming",
-    "source": "Adafruit",
-    "date": "2026-07-20",
-    "url": "https://blog.adafruit.com/2026/07/20/taking-the-unexpected-routes-in-animation-and-gaming/",
-    "summary": "Marcin Wichary looks at “bumping the lamp” – a phrase coined by Disney during the production of Roger Rabbit to describe going above and beyond what was expected of the animators. A lesson learned: I see craft blossom when it can flow from individuals, and when the organization and attendant processes recognize that. Let people [&#8230;]"
-  },
-  {
-    "title": "Starting a ZX Spectrum shooting gallery in earnest",
-    "source": "Adafruit",
-    "date": "2026-07-20",
-    "url": "https://blog.adafruit.com/2026/07/20/starting-a-zx-spectrum-shooting-gallery-in-earnest/",
-    "summary": "Michael Martin is working through a port of a shooting gallery Rosetta-stone program to the ZX Spectrum. It’s been a long road. We started out knowing how to control text and bitmap output and a decent handle on I/O. From there we designed a reasonably efficient blitting system that operated on 16×16 “sprites” that we carefully prepared for [&#8230;]"
-  },
-  {
-    "title": "Using a MikroTik as a home router",
-    "source": "Adafruit",
-    "date": "2026-07-20",
-    "url": "https://blog.adafruit.com/2026/07/20/using-a-mikrotik-as-a-home-router/",
-    "summary": "Rafał Opiłowski was looking at setting up a new homelab, starting with a comprehensive networking setup. Given my experiences related to performance and security issues with ISP-provider routers, I wanted to have a better control over the traffic on my home network. I decided to heavily focus traffic on wired connections, to offload WiFi and [&#8230;]"
-  },
-  {
     "title": "element14 Community invites engineers to choose products they want to test",
     "source": "EE Journal",
     "date": "2026-07-20",
     "url": "https://www.eejournal.com/industry_news/element14-community-invites-engineers-to-choose-products-they-want-to-test/",
     "summary": "PHOENIX – July 14, 2026: element14, an Avnet community, has launched a new initiative within its RoadTest program, inviting engineers to apply to test and review a product of their choosing. The initiative allows participants to request any product priced at $175 or less from Newark, Farnell or element14 online stores. Ten selected applicants will receive their chosen product at &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/element14-community-invites-engineers-to-choose-products-they-want-to-test/\">Read More &#8594;<span class=\"screen-reader-text\"> \"element14 Community invites engineers to choose products they want to test\"</span></a>"
-  },
-  {
-    "title": "Application Benefits of M-CRPS for Embedded Redundant Power Solutions — Bel and Mouser Electronics",
-    "source": "EE Journal",
-    "date": "2026-07-20",
-    "url": "https://www.eejournal.com/chalk_talks/application-benefits-of-m-crps-for-embedded-redundant-power-solutions-bel-and-mouser-electronics/",
-    "summary": "&#160; In this episode of Chalk Talk, Ian Warner from Bel and Amelia Dalton explore why the industry is shifting from legacy CRPS to the M-CRPS standard, how open standard solutions from the Open Compute Project provide superior reliability, intelligent monitoring, and the flexibility needed to power the next generation of data center and networking &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/chalk_talks/application-benefits-of-m-crps-for-embedded-redundant-power-solutions-bel-and-mouser-electronics/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Application Benefits of M-CRPS for Embedded Redundant Power Solutions &#8212; Bel and Mouser Electronics\"</span></a>"
   },
   {
     "title": "TDK introduces HVC 5422C embedded motor controller for silent BLDC applications up to 1A",
@@ -397,6 +390,13 @@
     "date": "2026-07-17",
     "url": "https://www.embedded.com/vector-photonics-develops-new-pcsel-packaging-technology/",
     "summary": "<p>Vector Photonics has launched the Accelerated Manufacturing for PCSEL Packaging Solutions (AMPPS) program, an initiative aimed at addressing a key barrier to the commercial adoption of photonic crystal surface-emitting lasers (PCSELs): scalable, thermally efficient device packaging. By adding advanced packaging capabilities to its manufacturing process, the company intends to accelerate the deployment of PCSEL technology [...]</p>\n<p>The post <a href=\"https://www.embedded.com/vector-photonics-develops-new-pcsel-packaging-technology/\">Vector Photonics Develops New PCSEL Packaging Technology</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Securing the Silicon: The Seismic Shift to Hardware Security",
+    "source": "EE Journal",
+    "date": "2026-07-17",
+    "url": "https://www.eejournal.com/fish_fry/securing-the-silicon-the-seismic-shift-to-hardware-security/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/AD-071726-300x300.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />My podcast guest this week is Jason Oberg from Arteris. Jason and I discuss this profound transition toward hardware security, explore how Cycuity&#8217;s integration into Arteris is changing the game for system-level security and discuss how teams can address the emerging risks in our era of distributed systems, chiplets, and constant data movement. &#160; &#160; &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/fish_fry/securing-the-silicon-the-seismic-shift-to-hardware-security/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Securing the Silicon: The Seismic Shift to Hardware Security\"</span></a>"
   },
   {
     "title": "Olimex PICO-EVB automation board adds high-voltage terminals to Raspberry Pi Pico family",
