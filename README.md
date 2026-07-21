@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-20 23:43 UTC
+Last Updated: 2026-07-21 01:15 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-21 | When The UK Took On IBM | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/when-the-uk-took-on-ibm-2026-07/) |
 | 2026-07-20 | Sail Virtually Aboard the “Itanic” with IA-64 Emulator | Hackaday | [link](https://hackaday.com/2026/07/20/sail-virtually-aboard-the-itanic-with-ia-64-emulator/) |
 | 2026-07-20 | Echolocation for Drones | Hackaday | [link](https://hackaday.com/2026/07/20/echolocation-for-drones/) |
 | 2026-07-20 | A Feature-Rich Drum Machine | Hackaday | [link](https://hackaday.com/2026/07/20/a-feature-rich-drum-machine/) |
@@ -58,49 +59,48 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-20 | Earth-like LHS 1140b May Feature the First Atmosphere Found on Exoplanet | Hackaday | [link](https://hackaday.com/2026/07/20/earth-like-lhs-1140b-may-feature-the-first-atmosphere-found-on-exoplanet/) |
 | 2026-07-20 | Globalscale Case8 – A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/20/globalscale-case8-mediatek-genio-520-720-cyberdeck-for-gaming-home-automation-and-education/) |
 | 2026-07-20 | Geniatech XPI-3576-CM5 – A Raspberry Pi CM5-compatible Rockchip RK3576 AI Compute Module with WiFi 6, Bluetooth 5.3 | CNX Software | [link](https://www.cnx-software.com/2026/07/20/geniatech-xpi-3576-cm5-a-raspberry-pi-cm5-compatible-rockchip-rk3576-ai-compute-module-with-wifi-6-bluetooth-5-3/) |
-| 2026-07-20 | IoTextra modular automation boards with 4 inputs, 4 outputs work with Raspberry Pi and ESP32 MCU boards | CNX Software | [link](https://www.cnx-software.com/2026/07/20/iotextra-modular-automation-boards-with-4-inputs-4-outputs-work-with-raspberry-pi-and-esp32-mcu-boards/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-17 | Handroid: Bridging Dexterous Hand and Humanoid | [link](https://arxiv.org/pdf/2607.16187v1) |
-| 2026-07-17 | Vision-Language-Motion Maps: An Open-Vocabulary, Uncertainty-Aware, Queryable Motion Attribute for 3D Scene Maps | [link](https://arxiv.org/pdf/2607.16173v1) |
-| 2026-07-17 | VTLoc: Learning-based Tactile Contact Localization in Visual Point Clouds | [link](https://arxiv.org/pdf/2607.16146v1) |
-| 2026-07-17 | A New Implementation of NeoSLAM and a Comparative Evaluation with RatSLAM | [link](https://arxiv.org/pdf/2607.16143v1) |
-| 2026-07-17 | BayesContact: Uncertain Pose Estimation via Visuo-Tactile Proposals and Simulation-based Inference | [link](https://arxiv.org/pdf/2607.16123v1) |
-| 2026-07-17 | Let the Body Follow: Coupled Egocentric Control for Whole-Body Robot Teleoperation | [link](https://arxiv.org/pdf/2607.16095v1) |
-| 2026-07-17 | JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models | [link](https://arxiv.org/pdf/2607.16074v1) |
-| 2026-07-17 | DELUGE: Towards Continental-Scale Daily Pluvial Flood Damage Prediction via Interpretable Conditioning on Foundation Model Embeddings | [link](https://arxiv.org/pdf/2607.16050v1) |
-| 2026-07-17 | Revisiting data-driven dynamic security assessment with a tabular foundation model | [link](https://arxiv.org/pdf/2607.16031v1) |
-| 2026-07-17 | PIXIE: A Zero-Shot texture-invariant 6D pose estimation framework for unseen objects with assembly defects | [link](https://arxiv.org/pdf/2607.16015v1) |
+| 2026-07-19 | Node4All: Learning Node Representation Beyond Datasets | [link](https://arxiv.org/pdf/2607.17272v1) |
+| 2026-07-19 | An Explicit World Model Based on Data-First Ontology: DaoQL Multimodal Storage Validation and Counterfactual Reasoning Evaluation | [link](https://arxiv.org/pdf/2607.17269v1) |
+| 2026-07-19 | Asynchronous Multimodal Diffusion Policy Composition via Latency-Aware Guidance Fusion | [link](https://arxiv.org/pdf/2607.17257v1) |
+| 2026-07-19 | EvolvingWorld: An Open-Schema Framework for Co-Evolving Role-Play Agents and World Model in Interactive Literary World | [link](https://arxiv.org/pdf/2607.17250v1) |
+| 2026-07-19 | Harmonised benchmarking of foundation models for single-cell and spatial transcriptomics reveals context-dependent generalisation | [link](https://arxiv.org/pdf/2607.17227v1) |
+| 2026-07-19 | Retriever: Composing Closed-Loop Asynchronous Robot Programs | [link](https://arxiv.org/pdf/2607.17213v1) |
+| 2026-07-19 | Induce to Empower: Improving Lightweight Baselines via Foundation Model Induction for Generalized Polyp Segmentation | [link](https://arxiv.org/pdf/2607.17208v1) |
+| 2026-07-19 | VIDAR: Visual-Inertial Dense Alignment and Reconstruction via a Geometric Foundation Model | [link](https://arxiv.org/pdf/2607.17171v1) |
+| 2026-07-19 | VLA-ReID: Video-Level Association for Re-Identification in Multi-Object Tracking with Highly Similar Objects | [link](https://arxiv.org/pdf/2607.17157v1) |
+| 2026-07-19 | BoxTwin: Learning Elastoplastic Articulated Object Dynamics from Videos | [link](https://arxiv.org/pdf/2607.17132v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-21 | rpatil1/r_policy | 0 | 0 | [link](https://huggingface.co/rpatil1/r_policy) |
+| 2026-07-21 | kimy0420/record_test_act_policy | 0 | 0 | [link](https://huggingface.co/kimy0420/record_test_act_policy) |
+| 2026-07-20 | RobotisSW/Task_900013_pick_place_peanut_stage3_MCAP_lerobot_v30_act_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_900013_pick_place_peanut_stage3_MCAP_lerobot_v30_act_100k) |
+| 2026-07-20 | RobotisSW/Task_700002_pick_place_peanut_stage2_MCAP_lerobot_v30_act_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_700002_pick_place_peanut_stage2_MCAP_lerobot_v30_act_100k) |
+| 2026-07-20 | RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_50K) |
+| 2026-07-20 | RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_40K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_40K) |
 | 2026-07-20 | RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_30K) |
 | 2026-07-20 | RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_20K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_20K) |
 | 2026-07-20 | RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_10K) |
 | 2026-07-20 | Do-Hyun-robot/smolvla_dohyun_v4_policy | 0 | 0 | [link](https://huggingface.co/Do-Hyun-robot/smolvla_dohyun_v4_policy) |
-| 2026-07-20 | ziyin123/geomvla-robotwin2 | 0 | 0 | [link](https://huggingface.co/ziyin123/geomvla-robotwin2) |
-| 2026-07-20 | qualia-robotics/pi05-b601-dm-icehockey-v1-8b60f41c | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-b601-dm-icehockey-v1-8b60f41c) |
-| 2026-07-20 | JSHNSL/act_lift_box_real_robot_60k | 0 | 0 | [link](https://huggingface.co/JSHNSL/act_lift_box_real_robot_60k) |
-| 2026-07-20 | junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmlang0p5_bblr2e5_s30000 | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmlang0p5_bblr2e5_s30000) |
-| 2026-07-20 | silent666/robotics-vla-task-23-basic | 0 | 0 | [link](https://huggingface.co/silent666/robotics-vla-task-23-basic) |
-| 2026-07-20 | junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmlang0p5_bblr2e5 | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmlang0p5_bblr2e5) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| ROBOTIS-GIT/ai_worker | 155 | C++ | 62.1 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
+| commaai/openpilot | 63178 | Python | 25271.3 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15518 | C++ | 6207.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| isaac-sim/IsaacLab | 7715 | Python | 3086.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| dora-rs/dora | 3848 | Rust | 1539.3 | [link](https://github.com/dora-rs/dora) |
+| StanfordVL/BEHAVIOR-1K | 1583 | Python | 633.3 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | Edgenesis/shifu | 1426 | Go | 570.5 | [link](https://github.com/Edgenesis/shifu) |
 | copper-project/copper-rs | 1418 | Rust | 567.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 892 | Python | 356.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 465 | Shell | 186.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| ros-claw/rosclaw | 168 | Python | 67.3 | [link](https://github.com/ros-claw/rosclaw) |
-| arpitg1304/forge | 157 | Python | 62.9 | [link](https://github.com/arpitg1304/forge) |
-| ROBOTIS-GIT/ai_worker | 155 | C++ | 62.1 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| commaai/openpilot | 63178 | Python | 25271.3 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30091 | Python | 12036.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16038 | Python | 6415.3 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

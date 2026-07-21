@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-20 23:43 UTC
+Generated: 2026-07-21 01:15 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-17 | Handroid: Bridging Dexterous Hand and Humanoid | [link](https://arxiv.org/pdf/2607.16187v1) |
-| 2026-07-17 | Vision-Language-Motion Maps: An Open-Vocabulary, Uncertainty-Aware, Queryable Motion Attribute for 3D Scene Maps | [link](https://arxiv.org/pdf/2607.16173v1) |
-| 2026-07-17 | VTLoc: Learning-based Tactile Contact Localization in Visual Point Clouds | [link](https://arxiv.org/pdf/2607.16146v1) |
-| 2026-07-17 | A New Implementation of NeoSLAM and a Comparative Evaluation with RatSLAM | [link](https://arxiv.org/pdf/2607.16143v1) |
-| 2026-07-17 | BayesContact: Uncertain Pose Estimation via Visuo-Tactile Proposals and Simulation-based Inference | [link](https://arxiv.org/pdf/2607.16123v1) |
+| 2026-07-19 | Node4All: Learning Node Representation Beyond Datasets | [link](https://arxiv.org/pdf/2607.17272v1) |
+| 2026-07-19 | An Explicit World Model Based on Data-First Ontology: DaoQL Multimodal Storage Validation and Counterfactual Reasoning Evaluation | [link](https://arxiv.org/pdf/2607.17269v1) |
+| 2026-07-19 | Asynchronous Multimodal Diffusion Policy Composition via Latency-Aware Guidance Fusion | [link](https://arxiv.org/pdf/2607.17257v1) |
+| 2026-07-19 | EvolvingWorld: An Open-Schema Framework for Co-Evolving Role-Play Agents and World Model in Interactive Literary World | [link](https://arxiv.org/pdf/2607.17250v1) |
+| 2026-07-19 | Harmonised benchmarking of foundation models for single-cell and spatial transcriptomics reveals context-dependent generalisation | [link](https://arxiv.org/pdf/2607.17227v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82549 | 33019.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82552 | 33020.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63178 | 25271.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44261 | 17704.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44262 | 17704.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30091 | 12036.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16038 | 6415.3 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16039 | 6415.7 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |

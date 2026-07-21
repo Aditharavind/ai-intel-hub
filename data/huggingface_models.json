@@ -1,5 +1,59 @@
 [
   {
+    "model": "rpatil1/r_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/rpatil1/r_policy",
+    "date": "2026-07-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "kimy0420/record_test_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kimy0420/record_test_act_policy",
+    "date": "2026-07-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_900013_pick_place_peanut_stage3_MCAP_lerobot_v30_act_100k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_900013_pick_place_peanut_stage3_MCAP_lerobot_v30_act_100k",
+    "date": "2026-07-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_700002_pick_place_peanut_stage2_MCAP_lerobot_v30_act_100k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_700002_pick_place_peanut_stage2_MCAP_lerobot_v30_act_100k",
+    "date": "2026-07-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_50K",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_50K",
+    "date": "2026-07-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_40K",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_40K",
+    "date": "2026-07-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_30K",
     "downloads": 0,
     "likes": 0,
@@ -72,42 +126,6 @@
     "score": 0.1
   },
   {
-    "model": "silent666/robotics-vla-task-23-basic",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/silent666/robotics-vla-task-23-basic",
-    "date": "2026-07-20",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmlang0p5_bblr2e5",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/egopi_prq_robotonly_v3-208bal_bsz64_30000_vl1_sd0_head1p2_m0p3_vlmlang0p5_bblr2e5",
-    "date": "2026-07-20",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "JSHNSL/act_lift_box_real_robot",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/JSHNSL/act_lift_box_real_robot",
-    "date": "2026-07-20",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Superrrdamn/robotics-vla-task-23-large",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Superrrdamn/robotics-vla-task-23-large",
-    "date": "2026-07-20",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "VladimirRH/all-MiniLM-L6-v2-ru-mnrl",
     "downloads": 0,
     "likes": 0,
@@ -135,6 +153,15 @@
     "score": 0.1
   },
   {
+    "model": "silent666/robotics-vla-task-23-basic",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/silent666/robotics-vla-task-23-basic",
+    "date": "2026-07-20",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "romandaripper/vlacpp-safetensors-mfv-poc",
     "downloads": 0,
     "likes": 0,
@@ -159,6 +186,15 @@
     "url": "https://huggingface.co/helen9975/vla-jepa-molmoact-yam-blocks-v2",
     "date": "2026-07-20",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Superrrdamn/robotics-vla-task-23-large",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Superrrdamn/robotics-vla-task-23-large",
+    "date": "2026-07-20",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -310,24 +346,6 @@
     "downloads": 0,
     "likes": 1,
     "url": "https://huggingface.co/xogml03/1fixed_ep100_policy",
-    "date": "2026-07-20",
-    "keyword": "policy",
-    "score": 0.3
-  },
-  {
-    "model": "cbrian/policy_pi05_libero_dataset_MDWC10_steps_20000_ctrl_cartesian",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/cbrian/policy_pi05_libero_dataset_MDWC10_steps_20000_ctrl_cartesian",
-    "date": "2026-07-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "cbrian/policy_pi05_libero_dataset_MDWC12_steps_40000_ctrl_cartesian",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/cbrian/policy_pi05_libero_dataset_MDWC12_steps_40000_ctrl_cartesian",
     "date": "2026-07-20",
     "keyword": "policy",
     "score": 0.3
