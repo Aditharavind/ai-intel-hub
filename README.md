@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-21 16:12 UTC
+Last Updated: 2026-07-21 18:06 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-21 | Introducing the ChatGPT for small business program | OpenAI | [link](https://openai.com/index/introducing-chatgpt-small-business-program) |
 | 2026-07-21 | Grabette: an open system to record robot-manipulation data | Hugging Face | [link](https://huggingface.co/blog/grabette) |
 | 2026-07-20 | Safety and alignment in an era of long-horizon models | OpenAI | [link](https://openai.com/index/safety-alignment-long-horizon-models) |
 | 2026-07-20 | Introducing Cosmos 3 Edge | Hugging Face | [link](https://huggingface.co/blog/nvidia/cosmos3edge) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | Newer Models, Same Advantage | Hugging Face | [link](https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages) |
 | 2026-07-16 | Security incident disclosure — July 2026 | Hugging Face | [link](https://huggingface.co/blog/security-incident-july-2026) |
 | 2026-07-15 | The US is advancing AI safety through state and federal action | OpenAI | [link](https://openai.com/index/advancing-ai-safety-through-state-and-federal-action) |
-| 2026-07-15 | GPT-Red: Unlocking Self-Improvement for Robustness | OpenAI | [link](https://openai.com/index/unlocking-self-improvement-gpt-red) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-21 | Postal IRCs are Almost a Thing of the Past | Hackaday | [link](https://hackaday.com/2026/07/21/postal-ircs-are-almost-a-thing-of-the-past/) |
 | 2026-07-21 | Tired of xargs? | Hackaday | [link](https://hackaday.com/2026/07/21/tired-of-xargs/) |
 | 2026-07-21 | Giving Resin 3D Printers Another Shot After Six Years | Hackaday | [link](https://hackaday.com/2026/07/21/giving-resin-3d-printers-another-shot-after-six-years/) |
 | 2026-07-21 | Java Ring Restored After Nearly 30 Years | Hackaday | [link](https://hackaday.com/2026/07/21/java-ring-restored-after-nearly-30-years/) |
@@ -58,37 +59,47 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-21 | Avalue RIVAR-1539 is a 15.6-inch fanless industrial panel PC powered by an Intel N150 Twin Lake processor | CNX Software | [link](https://www.cnx-software.com/2026/07/21/avalue-rivar-1539-is-a-15-6-inch-fanless-industrial-panel-pc-powered-by-an-intel-n150-twin-lake-processor/) |
 | 2026-07-21 | ART-Pi II development board features 600 MHz STM32H7R7 Cortex-M7 MCU with NeoChrom GPU | CNX Software | [link](https://www.cnx-software.com/2026/07/21/art-pi-ii-development-board-features-600-mhz-stm32h7r7-cortex-m7-mcu-with-neochrom-gpu/) |
 | 2026-07-21 | nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs | CNX Software | [link](https://www.cnx-software.com/2026/07/21/nrf54l-arduino-core-project-brings-arduino-support-to-nordic-semi-nrf54l-wireless-socs/) |
-| 2026-07-21 | NXP Unveils Single-Chip Automotive Audio and Radio Processor | Embedded.com | [link](https://www.embedded.com/nxp-unveils-single-chip-automotive-audio-and-radio-processor/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-07-20 | Patch Policy: Efficient Embodied Control via Dense Visual Representations | [link](https://arxiv.org/pdf/2607.18236v1) |
+| 2026-07-20 | FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation | [link](https://arxiv.org/pdf/2607.18231v1) |
+| 2026-07-20 | GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis | [link](https://arxiv.org/pdf/2607.18218v1) |
+| 2026-07-20 | Optimization of sim-to-real transfer in the humanoid robot NICO | [link](https://arxiv.org/pdf/2607.18210v1) |
+| 2026-07-20 | Learning Adaptive Safety Margins for Visual Navigation | [link](https://arxiv.org/pdf/2607.18200v1) |
+| 2026-07-20 | Imitation of Arm Gestures by the Semi-Humanoid Robot NICO | [link](https://arxiv.org/pdf/2607.18197v1) |
+| 2026-07-20 | FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications | [link](https://arxiv.org/pdf/2607.18171v1) |
+| 2026-07-20 | World Translation: Minimizing Sim-to-Real Gap with Backward Dynamics Extraction and Unpaired Domain Translation | [link](https://arxiv.org/pdf/2607.18154v1) |
+| 2026-07-20 | Robust Multimodal Dynamic Object Segmentation | [link](https://arxiv.org/pdf/2607.18153v1) |
+| 2026-07-20 | Isaac Sim-to-Real: Reinforcement Learning based Locomotion for Quadrupeds | [link](https://arxiv.org/pdf/2607.18135v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-21 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 24 | 2 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
+| 2026-07-21 | latiao1999/robotics-vla-task-23 | 0 | 0 | [link](https://huggingface.co/latiao1999/robotics-vla-task-23) |
+| 2026-07-21 | RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora | 0 | 0 | [link](https://huggingface.co/RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora) |
 | 2026-07-21 | wmkdfmk/robotics-vla-task-23-competitive-v2 | 0 | 0 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v2) |
 | 2026-07-21 | masternodedata1/robottech-store.com | 0 | 0 | [link](https://huggingface.co/masternodedata1/robottech-store.com) |
-| 2026-07-21 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 24 | 2 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 | 2026-07-21 | wmkdfmk/robotics-vla-task-23-competitive-v1 | 0 | 0 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v1) |
 | 2026-07-21 | JSHNSL/0720_act_real_robot_100k | 0 | 0 | [link](https://huggingface.co/JSHNSL/0720_act_real_robot_100k) |
 | 2026-07-21 | amp-robotics/smoreVLA | 0 | 0 | [link](https://huggingface.co/amp-robotics/smoreVLA) |
 | 2026-07-21 | puppet-robotics/golf-model-200-obs-rgb | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb) |
 | 2026-07-21 | puppet-robotics/golf-model-200-obs | 46 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-200-obs) |
-| 2026-07-21 | access-robotics-team/so-ev-pp-lightbox-260721 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-ev-pp-lightbox-260721) |
-| 2026-07-21 | Superrrdamn/robotics-vla-task-23-large | 0 | 0 | [link](https://huggingface.co/Superrrdamn/robotics-vla-task-23-large) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| NVIDIA/skills | 2618 | Python | 1047.3 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1419 | Rust | 567.7 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 892 | Python | 356.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 465 | Shell | 186.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 170 | Python | 68.1 | [link](https://github.com/ros-claw/rosclaw) |
-| ROBOTIS-GIT/ai_worker | 155 | C++ | 62.1 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| commaai/openpilot | 63186 | Python | 25274.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63187 | Python | 25274.9 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16041 | Python | 6416.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15527 | C++ | 6210.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14275 | C++ | 5710.1 | [link](https://github.com/google-deepmind/mujoco) |
+| ArduPilot/ardupilot | 15526 | C++ | 6210.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14276 | C++ | 5710.5 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11282 | Python | 4512.9 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
@@ -111,20 +122,20 @@ _No items collected yet._
 | 2026-07-21 | Robotics Startup Humanoid Joins The Billion-Dollar Physical AI Club - Finimize | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2hUZXpxMjZ5LWZQWVpsOHV4SUdSSzlwX2g3dElmYmg3X1kxYWhDb3N0NG9xd1BTM3ludXlndEdMeXVKOGdwempTNmdrMVZuWll5YXRKdzhoVEV6bXhNSmo3TzNTcThvejgxcERUVHZhWC05bHZ2bXlhMXdSeklGNjdzeEwzRjczRnFfWVlQX3ZMbm8talNoR0lHbzQ?oc=5) |
 | 2026-07-21 | New Unicorn! Humanoid secures €133 million at €1.1 billion valuation to scale industrial robotics and physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUWF3QVBJNXp5STRDcHJNUDZISjlQc09xRGtnLUl1UXU0WlJNb1dPWVVSRWk2YUtGMU4ydWYwaXQzUG1yZ29XYk5qeHVKUDktUTNZQ09nNFBRM1J4b1BEZXRwaTVLTWZnYXlWMjZSZUQxb2xRbm1YS2NlZHlUVWlEekhuZmRDLWR0MUZGX2pSQXhsWC1tZHdPUnQ1MGYtRHU0T3RTXzBNQzNZSERPN3NGVHFfUmJXc2RvNmhvRTVXOWp4cHBUWDRreDJZN0FNX3A2U2FKSmlYOFFPdFJrWjFQZmRLSQ?oc=5) |
 | 2026-07-21 | Embodied AI startup GigaAI plans Hong Kong IPO at US$3b valuation - The Standard (HK) | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxOczRISEtsc2tSRWJVbW1tOVhDOFViaGx3U2ltQnhuaHNPWHQyWmV0UHN2aTlPUTJjMkxtZFA1YW9ZUkRRVnJsQUVZUmlRYnlCN3duNHlJSGVEQXA0MzFEYXg3bFE2Y3p6cXExRGdvY3ZHaC1WSUl5RmM4Njd6eGVSZ3R1WHZzc0tLaWJiVUR5bXo1TDNXbGFGRmktM2R3d1ZOQUpHQ2J5MXdDWkFIZ1dVa0Rmc0Y0ZTJ4T1pUZTJ3?oc=5) |
-| 2026-07-21 | Elite Robots Collaborates with Generalist AI on Next-Gen Embodied AI - The Manila Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTEdkVEo0Y0N4clY4MDZaSXE2T1FsOWVTc0p5eHFwcUpxY09sMm9vVEd6S2htODY2dGlwdG9YTm5FcFRFRFE2VzB3YTVVRjc1WFlzYmxIOXNmakZOcUZNU1ZqckVoWTBjbm1ULUdtUVZwTDJOMUpnRk5BSnNLdEE0M1FmdUdqb3FBMERrcVhVd2ZXREZTOFF2TExRZzBzTnZOVmwyRXZHNm9kQllOa3hWNV9WS3ZCNG8ta05LN3ZlLTkyaFQyOHNLMF9JTmFjUkZQX2E5QW1QQdIB3AFBVV95cUxQNGF5b2V1d1lQMzJiejQySGNKM2JNaS05T1ZNbDJuZmNiU1o3ZloyZnUtWUNZTnJ4a294VmFYM0FCWDd5MWdKZTRJQkZfSU5pWDRQalZCdUVUX0ZIOGpwaWZJYXk4dzVJOWJ2bHVfckJvWEZiRTluSUdpM2F0Z1RZelhCS1Q1MzA3aUVoajMxX29yZ0J2cnUwVkJ2Q0ZPZktkN3ozS2QtU0FfN1hiZWVTcXkwTldaNXVBd01wUUp1azdOWVh3aXlGdVItd0NDZ09kRzBOcXdIeDlwU24x?oc=5) |
 | 2026-07-21 | Humanoid robot startup Holiday Robotics announced on the 21st that its research team led the paper ".. - 매일경제 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YeFBYZ2R3V3R0ZWxweG84OTBHV2VQMzVKTkw4a0p1Wm5jbEF5ZExKVUExVkRRbTNuTmxZLWhUZEY5UmRaRjVIUVlYMA?oc=5) |
 | 2026-07-20 | Leading humanoid startup isn't interested in the 'bidding wars' for top AI and robotics talent - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS3k1SFlJdlNnLTRQYl9nUGtibFg1dHlCektXZVVuVDBMRnRudF95b1hxbE5xcnZVcVlxVDllZndSZTlYV1MwdXQ0VkFlajFTVWtEVjVjdGFpWXRUUFVtVFRfSEJSNmQ2am5RR3BleHZKdlNfMkZIVWNZOEtiYVZ4elM2cUpLbG1CM3BxeW1VWWJ6dG9RV2RheXp6RzlES181Zm5lX1FyZ0ppZEE?oc=5) |
 | 2026-07-18 | Control robots with your thoughts: Chinese startup unveils world’s 1st ‘brain-to-robot’ platform - The Indian Express | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdXBQV1pwQUd6NzVBeUhNR2N4a3RzUkdTS3lMRE5PNjdxZ3hmVjllQkxhS3BlU2Q2ajBaN2dXd0lDVzZ5Z1FCdTcxeHlWVXJ2djhkMDg4ZmMyNUNxY3B4YW5lTjhrTVdTZU41aTFQN0NjaTRIeUJlTFRDaE5fVC14NWQwb3hLYzlHRnNtZ3FwY0ZhT25GWV9NU2hHVEE5VEQ1SWUydW9jaHVFcm9Yb05vRWI1UktoQklUOUo3RjcyenM0V1VQa3RNUGxkb0ROaFAzM1Rr0gHaAUFVX3lxTE5UM1pUSkRpY21BR3B5WVlDZjlZQnhhNHZHWURlRHZuX2NSTjVnMlhXMHB0NEM1VWM3UUZ6ZzFUeEU0aTVEUHNsaTlEU2xuMk8zQW5iNVJkZ0IzZ2g0TVhpTEZVMk5McHJEUl9VN0steFJXVzMzd0dTZmcweHdBWXhOdk5CQm45ZHNPV3Y2MDNhcmkyZlViR2J5QWNiMzBuQXpiemNEQjJsWmtVSTZUSVJvQ2w5RFhqX2R2cy0zZHphQWNjNGxTRUV5MFhFd0pRRHQ1NWtPWENTOEZ3?oc=5) |
 | 2026-07-18 | Eric Trump Is Building An Army Of Humanoid Robot Soldiers - Kotaku | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxQRlBUNWxaUTduMndhODhhV1VzVm9jSVRmZ2JvakNiekVQQ1hoOHZzemZHUlFaVFVzM1dmaUM1NEttRkhpVFZrZExDZHhDbHFsSm8xcnlob0Z5MWFHZnl4dTlHU2g3Z0daSUluc3c2ai1kM3J5YUV4ZHdrUUIyUFFzaDNsRWRhN3A4RTI4VWdBRDQ?oc=5) |
 | 2026-07-17 | Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates - AI Business | physical ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWjhLZDRiMHREdlV0ejZyUVVPeHptdndKOUlZR3p4LTloNU45NjU5b2diekZyVDhUekx2TW9uVXRNaWVyMTZyeGotNUZYOUVSSVhjMWpBTHM3RU81RkhSbi1WeDgzeXZIM2dnMGVoQWoxTUtHTG9Dbk4zWktmLUVkdVM2cC0wQ1E?oc=5) |
 | 2026-07-17 | Top 50 AI/Embodied AI Companies Most Favored by Investors in 2026 Unveiled - 36 Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LWTVHRVU3OGd2bHhYdC1uR2NEVHlkd1RPVlZOVEhGNE9PWkgtaEFIei1wRFBCVWZGV3pORUtYeFNJaVdmMFVMWG5PT25reXFTZGJn?oc=5) |
+| 2026-07-17 | A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War - WIRED | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWE3T3hOTUFjc3NIbmZMRHJHRlpWTGs4RWM1QmFQM3dSVGswOWRRbzl5Vzl4OExJOWUxMlFUNEt2NjA5VFVEanZQanpmOHQ1NG04M3E4TDhaS3dMam1fYXVtUFRSTHBCZGdkckw4WmpDVUhIMHB4VzhuYjZ6ZFVKYUpMWVBTSHNfaklMQWlWMV9PRXNfWVE?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-20 | Deployment Logistics Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4666290006) |
-| 2026-07-20 | Helix Data Creator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4585080006) |
 | 2026-07-20 | Helix Data Creator | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4627111006) |
+| 2026-07-20 | Helix Data Creator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4585080006) |
 | 2026-07-20 | Humanoid Robot Operator (Afternoon Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4644956006) |
 | 2026-07-20 | Humanoid Robot Operator - Commercial Launch Team | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4665205006) |
 | 2026-07-20 | Humanoid Robot Operator - Commercial Site Team (LA)  | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4698238006) |
