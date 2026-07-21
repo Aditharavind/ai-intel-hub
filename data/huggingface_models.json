@@ -1,5 +1,14 @@
 [
   {
+    "model": "amp-robotics/smoreVLA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/amp-robotics/smoreVLA",
+    "date": "2026-07-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
     "downloads": 24,
     "likes": 1,
@@ -7,6 +16,15 @@
     "date": "2026-07-21",
     "keyword": "robot",
     "score": 7.5
+  },
+  {
+    "model": "puppet-robotics/golf-model-200-obs-rgb",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb",
+    "date": "2026-07-21",
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "puppet-robotics/golf-model-200-obs",
@@ -52,6 +70,24 @@
     "date": "2026-07-21",
     "keyword": "robot",
     "score": 23.5
+  },
+  {
+    "model": "maximellerbach/folding_vla_jepa",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/maximellerbach/folding_vla_jepa",
+    "date": "2026-07-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "jim4real/so101-lingbot-vla2-intermediate-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jim4real/so101-lingbot-vla2-intermediate-checkpoints",
+    "date": "2026-07-21",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "xxx114514/CAT-VLA-checkpoints",
@@ -126,6 +162,42 @@
     "score": 0.4
   },
   {
+    "model": "bskim92/omx_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bskim92/omx_act_policy",
+    "date": "2026-07-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "kdh8156/cosmos3-libero-all-policy-n-point",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kdh8156/cosmos3-libero-all-policy-n-point",
+    "date": "2026-07-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "gray992/omx_act_policy2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gray992/omx_act_policy2",
+    "date": "2026-07-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "2usang/omx_act_policy",
+    "downloads": 1,
+    "likes": 0,
+    "url": "https://huggingface.co/2usang/omx_act_policy",
+    "date": "2026-07-21",
+    "keyword": "policy",
+    "score": 0.4
+  },
+  {
     "model": "naumoo/act_policy_naumoo123_v4",
     "downloads": 0,
     "likes": 0,
@@ -189,42 +261,6 @@
     "score": 0.1
   },
   {
-    "model": "kdh8156/cosmos3-libero-all-policy-n-point",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kdh8156/cosmos3-libero-all-policy-n-point",
-    "date": "2026-07-21",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "xogml03/1fixed_ep50_policy",
-    "downloads": 30,
-    "likes": 0,
-    "url": "https://huggingface.co/xogml03/1fixed_ep50_policy",
-    "date": "2026-07-21",
-    "keyword": "policy",
-    "score": 9.1
-  },
-  {
-    "model": "ChristianZ97/satp-policy-v2-alphaproof",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ChristianZ97/satp-policy-v2-alphaproof",
-    "date": "2026-07-21",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "gachonnursing/pick_orange_tube_v1_policy",
-    "downloads": 38,
-    "likes": 0,
-    "url": "https://huggingface.co/gachonnursing/pick_orange_tube_v1_policy",
-    "date": "2026-07-21",
-    "keyword": "policy",
-    "score": 11.5
-  },
-  {
     "model": "RobotisSW/Task_900013_pick_place_peanut_stage3_MCAP_lerobot_v30_act_100k",
     "downloads": 17,
     "likes": 0,
@@ -261,31 +297,13 @@
     "score": 4.3
   },
   {
-    "model": "RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_30K",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_30K",
-    "date": "2026-07-20",
-    "keyword": "robot",
-    "score": 4.9
-  },
-  {
-    "model": "RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_20K",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_Pickup_Peanut_Mix_0721_Chunk45_20K",
-    "date": "2026-07-20",
-    "keyword": "robot",
-    "score": 4.6
-  },
-  {
     "model": "VladimirRH/all-MiniLM-L6-v2-ru-mnrl",
     "downloads": 19,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/VladimirRH/all-MiniLM-L6-v2-ru-mnrl",
     "date": "2026-07-20",
     "keyword": "vla",
-    "score": 5.8
+    "score": 6.0
   },
   {
     "model": "crislmfroes/vla-jepa-robocasa-close-fridge",
@@ -322,24 +340,6 @@
     "date": "2026-07-20",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "ethanCSL/pi0fast_koch_pick_n_place_vla_steering_height_test2",
-    "downloads": 52,
-    "likes": 0,
-    "url": "https://huggingface.co/ethanCSL/pi0fast_koch_pick_n_place_vla_steering_height_test2",
-    "date": "2026-07-20",
-    "keyword": "vla",
-    "score": 15.7
-  },
-  {
-    "model": "helen9975/vla-jepa-molmoact-yam-blocks-v2",
-    "downloads": 18,
-    "likes": 0,
-    "url": "https://huggingface.co/helen9975/vla-jepa-molmoact-yam-blocks-v2",
-    "date": "2026-07-20",
-    "keyword": "vla",
-    "score": 5.5
   },
   {
     "model": "DiogenesLab/world-model-research",
@@ -475,24 +475,6 @@
     "date": "2026-07-19",
     "keyword": "robotics",
     "score": 0.1
-  },
-  {
-    "model": "qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/pi05-b601-dm-icehockey-smoke-8f16b36c",
-    "date": "2026-07-19",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "qualia-robotics/act-g1-final-cleaned-bf751369",
-    "downloads": 1,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/act-g1-final-cleaned-bf751369",
-    "date": "2026-07-19",
-    "keyword": "robotics",
-    "score": 0.4
   },
   {
     "model": "sasa2000/Hy-Embodied-VLM-1.0-Text-Only",
