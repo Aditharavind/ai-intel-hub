@@ -1,5 +1,59 @@
 [
   {
+    "model": "RobotisSW/Task_000255_Jelly_WhiteShelf_50K",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_000255_Jelly_WhiteShelf_50K",
+    "date": "2026-07-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_000255_Jelly_WhiteShelf_30K",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_000255_Jelly_WhiteShelf_30K",
+    "date": "2026-07-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_000255_Jelly_WhiteShelf_10K",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_000255_Jelly_WhiteShelf_10K",
+    "date": "2026-07-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_000238_Pick_Chestnuts_50K",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_000238_Pick_Chestnuts_50K",
+    "date": "2026-07-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_000238_Pick_Chestnuts_30K",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_000238_Pick_Chestnuts_30K",
+    "date": "2026-07-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_000238_Pick_Chestnuts_10K",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_000238_Pick_Chestnuts_10K",
+    "date": "2026-07-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "puppet-robotics/golf-model-200-obs-rgb",
     "downloads": 0,
     "likes": 0,
@@ -54,57 +108,21 @@
     "score": 0.1
   },
   {
-    "model": "RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora",
+    "model": "MerazAhmed3420/task-23-vla-chunk-v2",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora",
+    "url": "https://huggingface.co/MerazAhmed3420/task-23-vla-chunk-v2",
     "date": "2026-07-21",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "wmkdfmk/robotics-vla-task-23-competitive-v2",
+    "model": "MerazAhmed3420/task-23-vla-diff-v2",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v2",
+    "url": "https://huggingface.co/MerazAhmed3420/task-23-vla-diff-v2",
     "date": "2026-07-21",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "masternodedata1/robottech-store.com",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/masternodedata1/robottech-store.com",
-    "date": "2026-07-21",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "wmkdfmk/robotics-vla-task-23-competitive-v1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v1",
-    "date": "2026-07-21",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "JSHNSL/0720_act_real_robot_100k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/JSHNSL/0720_act_real_robot_100k",
-    "date": "2026-07-21",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "amp-robotics/smoreVLA",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/amp-robotics/smoreVLA",
-    "date": "2026-07-21",
-    "keyword": "robotics",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -126,6 +144,15 @@
     "score": 0.1
   },
   {
+    "model": "wmkdfmk/robotics-vla-task-23-competitive-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v2",
+    "date": "2026-07-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "zwan1003/pickplace_skills_vla_v3_1_long",
     "downloads": 0,
     "likes": 0,
@@ -144,6 +171,15 @@
     "score": 0.1
   },
   {
+    "model": "wmkdfmk/robotics-vla-task-23-competitive-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v1",
+    "date": "2026-07-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "jim4real/so101-lingbot-vla2-intermediate-checkpoints",
     "downloads": 0,
     "likes": 0,
@@ -159,24 +195,6 @@
     "url": "https://huggingface.co/hamza-trossen/vla-jepa-block-transfer",
     "date": "2026-07-21",
     "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "maximellerbach/folding_vla_jepa",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/maximellerbach/folding_vla_jepa",
-    "date": "2026-07-21",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Superrrdamn/robotics-vla-task-23-large",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Superrrdamn/robotics-vla-task-23-large",
-    "date": "2026-07-21",
-    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -204,6 +222,15 @@
     "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp06-world-model-stage1-full-epoch3-stage2-lora-epoch1",
     "date": "2026-07-21",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "gray992/omx_act_policy2_finetuned",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gray992/omx_act_policy2_finetuned",
+    "date": "2026-07-21",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -306,12 +333,21 @@
     "score": 0.1
   },
   {
-    "model": "grboguz/act-policy",
+    "model": "amp-robotics/smoreVLA",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/grboguz/act-policy",
+    "url": "https://huggingface.co/amp-robotics/smoreVLA",
     "date": "2026-07-21",
-    "keyword": "policy",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "Superrrdamn/robotics-vla-task-23-large",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Superrrdamn/robotics-vla-task-23-large",
+    "date": "2026-07-21",
+    "keyword": "robotics",
     "score": 0.1
   },
   {

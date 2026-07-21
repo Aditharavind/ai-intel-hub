@@ -11,13 +11,13 @@
   },
   {
     "repo": "copper-project/copper-rs",
-    "stars": 1419,
+    "stars": 1420,
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
     "date": "2026-07-21",
     "topic": "physical-ai",
-    "score": 567.7
+    "score": 568.1
   },
   {
     "repo": "mosaico-labs/mosaico",
@@ -50,14 +50,24 @@
     "score": 68.1
   },
   {
+    "repo": "arpitg1304/forge",
+    "stars": 157,
+    "language": "Python",
+    "description": "Robotics Data Toolkit | Convert between robotics dataset formats (RLDS, LeRobot v2/v3, Zarr, HDF5, Rosbag). Inspect, visualize, and analyze datasets. Works with HuggingFace Hub. Built for OpenVLA, Octo, LeRobot, and Diffusion Policy workflows.",
+    "url": "https://github.com/arpitg1304/forge",
+    "date": "2026-07-21",
+    "topic": "lerobot",
+    "score": 62.9
+  },
+  {
     "repo": "commaai/openpilot",
-    "stars": 63190,
+    "stars": 63191,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-07-21",
     "topic": "robotics",
-    "score": 25276.1
+    "score": 25276.5
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -71,13 +81,13 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15527,
+    "stars": 15528,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-07-21",
     "topic": "robotics",
-    "score": 6210.9
+    "score": 6211.3
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -201,13 +211,13 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 2056,
+    "stars": 2057,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-07-21",
     "topic": "world-model",
-    "score": 822.5
+    "score": 822.9
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -288,16 +298,6 @@
     "date": "2026-07-20",
     "topic": "physical-ai",
     "score": 570.5
-  },
-  {
-    "repo": "arpitg1304/forge",
-    "stars": 157,
-    "language": "Python",
-    "description": "Robotics Data Toolkit | Convert between robotics dataset formats (RLDS, LeRobot v2/v3, Zarr, HDF5, Rosbag). Inspect, visualize, and analyze datasets. Works with HuggingFace Hub. Built for OpenVLA, Octo, LeRobot, and Diffusion Policy workflows.",
-    "url": "https://github.com/arpitg1304/forge",
-    "date": "2026-07-20",
-    "topic": "lerobot",
-    "score": 62.9
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -551,13 +551,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 9059,
+    "stars": 9077,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 3623.7
+    "score": 3630.9
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -811,13 +811,13 @@
   },
   {
     "repo": "mani-skill/ManiSkill",
-    "stars": 3130,
+    "stars": 3131,
     "language": "Python",
     "description": "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
     "url": "https://github.com/mani-skill/ManiSkill",
     "date": "2026-06-24",
     "topic": "robot-learning",
-    "score": 1252.1
+    "score": 1252.5
   },
   {
     "repo": "automatika-robotics/emos",
