@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-22 01:13 UTC
+Last Updated: 2026-07-22 04:53 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,80 +49,80 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
-| 2026-07-22 | Top Ten NEVs in Q1 | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-nevs-in-q1-2026-07/) |
+| 2026-07-22 | Open Source Vacuum Avoids Cloud | Hackaday | [link](https://hackaday.com/2026/07/21/open-source-vacuum-avoids-cloud/) |
+| 2026-07-22 | NVIDIA increases the price of Jetson modules and devkits by up to 101% | CNX Software | [link](https://www.cnx-software.com/2026/07/22/nvidia-increases-the-price-of-jetson-modules-and-devkits-by-up-to-101/) |
 | 2026-07-21 | Who’s Building that Data Center? | Hackaday | [link](https://hackaday.com/2026/07/21/whos-building-that-data-center/) |
 | 2026-07-21 | Counterfeit Retro Mainboards with Fake AGP Slots Are a Thing | Hackaday | [link](https://hackaday.com/2026/07/21/counterfeit-retro-mainboards-with-fake-agp-slots-are-a-thing/) |
 | 2026-07-21 | Neural Net Reads the Gas Meter | Hackaday | [link](https://hackaday.com/2026/07/21/neural-net-reads-the-gas-meter/) |
 | 2026-07-21 | Postal IRCs are Almost a Thing of the Past | Hackaday | [link](https://hackaday.com/2026/07/21/postal-ircs-are-almost-a-thing-of-the-past/) |
 | 2026-07-21 | Tired of xargs? | Hackaday | [link](https://hackaday.com/2026/07/21/tired-of-xargs/) |
 | 2026-07-21 | Giving Resin 3D Printers Another Shot After Six Years | Hackaday | [link](https://hackaday.com/2026/07/21/giving-resin-3d-printers-another-shot-after-six-years/) |
-| 2026-07-21 | Java Ring Restored After Nearly 30 Years | Hackaday | [link](https://hackaday.com/2026/07/21/java-ring-restored-after-nearly-30-years/) |
 | 2026-07-21 | Avalue RIVAR-1539 is a 15.6-inch fanless industrial panel PC powered by an Intel N150 Twin Lake processor | CNX Software | [link](https://www.cnx-software.com/2026/07/21/avalue-rivar-1539-is-a-15-6-inch-fanless-industrial-panel-pc-powered-by-an-intel-n150-twin-lake-processor/) |
 | 2026-07-21 | ART-Pi II development board features 600 MHz STM32H7R7 Cortex-M7 MCU with NeoChrom GPU | CNX Software | [link](https://www.cnx-software.com/2026/07/21/art-pi-ii-development-board-features-600-mhz-stm32h7r7-cortex-m7-mcu-with-neochrom-gpu/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
+| 2026-07-21 | Masked Visual Actions for Unified World Modeling | [link](https://arxiv.org/pdf/2607.19343v1) |
+| 2026-07-21 | InstructMixup: Instruction-Guided Salient Patch Editing for Robust Data Augmentation | [link](https://arxiv.org/pdf/2607.19324v1) |
+| 2026-07-21 | From Distances to Trajectories: Real-Time Signed Distance Function Mapping and Distance-Accelerated Motion Planning for UAVs | [link](https://arxiv.org/pdf/2607.19306v1) |
+| 2026-07-21 | No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation | [link](https://arxiv.org/pdf/2607.19288v1) |
+| 2026-07-21 | Stochastic Multi-Objective Kinodynamic Planning Against Adversaries | [link](https://arxiv.org/pdf/2607.19284v1) |
+| 2026-07-21 | Eversion-based robots can enable safe access,steering and endoscopic imaging within the spinal subarachnoid space | [link](https://arxiv.org/pdf/2607.19274v1) |
 | 2026-07-21 | DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models | [link](https://arxiv.org/pdf/2607.19237v1) |
 | 2026-07-21 | In-Context Time Series Classification with Random Convolutional Features | [link](https://arxiv.org/pdf/2607.19234v1) |
 | 2026-07-21 | IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer | [link](https://arxiv.org/pdf/2607.19228v1) |
 | 2026-07-21 | Computing on the Fly: Navigating a Vision for the Future of Drone Computing | [link](https://arxiv.org/pdf/2607.19213v1) |
-| 2026-07-21 | ATLAS: A Foundation Neural Sampler for Amorphous Materials | [link](https://arxiv.org/pdf/2607.19198v1) |
-| 2026-07-21 | STL-GCS: A Planner-Controller Framework for Signal Temporal Logic via Graphs of Time-varying Convex Sets | [link](https://arxiv.org/pdf/2607.19196v1) |
-| 2026-07-21 | Cognitive Dual-Process Planning for Autonomous Driving with Structured Scene Knowledge and Verifiable Reasoning-Action Consistency | [link](https://arxiv.org/pdf/2607.19194v1) |
-| 2026-07-21 | ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU | [link](https://arxiv.org/pdf/2607.19191v1) |
-| 2026-07-21 | Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents | [link](https://arxiv.org/pdf/2607.19190v1) |
-| 2026-07-21 | Bayesian Retraction Optimization for Tissue Attachment Mapping in Surgical Dissection | [link](https://arxiv.org/pdf/2607.19174v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-22 | openbmb/MiniCPM-RobotManip | 58 | 147 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
+| 2026-07-22 | fangcaotank/robotics-vla-task-23-qwen3 | 0 | 0 | [link](https://huggingface.co/fangcaotank/robotics-vla-task-23-qwen3) |
 | 2026-07-22 | puppet-robotics/golf-model-200-obs-rgb | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb) |
-| 2026-07-22 | MerazAhmed3420/task-23-vla-diff-v2-ep220 | 0 | 0 | [link](https://huggingface.co/MerazAhmed3420/task-23-vla-diff-v2-ep220) |
-| 2026-07-21 | RobotisSW/Task_700002_700003_pick_place_peanut_stage2_act_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_700002_700003_pick_place_peanut_stage2_act_100k) |
-| 2026-07-21 | RobotisSW/Task_000255_Jelly_WhiteShelf_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_000255_Jelly_WhiteShelf_50K) |
-| 2026-07-21 | RobotisSW/Task_000255_Jelly_WhiteShelf_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_000255_Jelly_WhiteShelf_30K) |
-| 2026-07-21 | RobotisSW/Task_000255_Jelly_WhiteShelf_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_000255_Jelly_WhiteShelf_10K) |
-| 2026-07-21 | RobotisSW/Task_000238_Pick_Chestnuts_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_000238_Pick_Chestnuts_50K) |
-| 2026-07-21 | RobotisSW/Task_000238_Pick_Chestnuts_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_000238_Pick_Chestnuts_30K) |
-| 2026-07-21 | RobotisSW/Task_000238_Pick_Chestnuts_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_000238_Pick_Chestnuts_10K) |
-| 2026-07-21 | MerazAhmed3420/task-23-robotics-vla-diffusion | 0 | 0 | [link](https://huggingface.co/MerazAhmed3420/task-23-robotics-vla-diffusion) |
+| 2026-07-22 | Jiafei1224/molmoact2-yam-vla-jepa | 13 | 0 | [link](https://huggingface.co/Jiafei1224/molmoact2-yam-vla-jepa) |
+| 2026-07-22 | jim4real/so101-lingbot-vla2-intermediate-checkpoints | 0 | 0 | [link](https://huggingface.co/jim4real/so101-lingbot-vla2-intermediate-checkpoints) |
+| 2026-07-22 | MerazAhmed3420/task-23-vla-diff_s8_st20 | 0 | 0 | [link](https://huggingface.co/MerazAhmed3420/task-23-vla-diff_s8_st20) |
+| 2026-07-22 | MerazAhmed3420/task-23-vla-diff_steps50 | 0 | 0 | [link](https://huggingface.co/MerazAhmed3420/task-23-vla-diff_steps50) |
+| 2026-07-22 | MerazAhmed3420/task-23-vla-diff_s32 | 0 | 0 | [link](https://huggingface.co/MerazAhmed3420/task-23-vla-diff_s32) |
+| 2026-07-22 | MerazAhmed3420/task-23-vla-diff-tuned | 0 | 0 | [link](https://huggingface.co/MerazAhmed3420/task-23-vla-diff-tuned) |
+| 2026-07-22 | Ashenzari/vla-lstm-success-monitor | 17 | 0 | [link](https://huggingface.co/Ashenzari/vla-lstm-success-monitor) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | ros-claw/rosclaw | 170 | Python | 68.1 | [link](https://github.com/ros-claw/rosclaw) |
 | arpitg1304/forge | 157 | Python | 62.9 | [link](https://github.com/arpitg1304/forge) |
-| commaai/openpilot | 63191 | Python | 25276.5 | [link](https://github.com/commaai/openpilot) |
-| isaac-sim/IsaacLab | 7722 | Python | 3088.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| StanfordVL/BEHAVIOR-1K | 1587 | Python | 634.9 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| NVIDIA/skills | 2624 | Python | 1049.7 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1420 | Rust | 568.1 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 892 | Python | 356.9 | [link](https://github.com/mosaico-labs/mosaico) |
-| awslabs/awsome-distributed-ai | 465 | Shell | 186.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| zauberzeug/nicegui | 16041 | Python | 6416.5 | [link](https://github.com/zauberzeug/nicegui) |
+| commaai/openpilot | 63193 | Python | 25277.3 | [link](https://github.com/commaai/openpilot) |
+| zauberzeug/nicegui | 16042 | Python | 6416.9 | [link](https://github.com/zauberzeug/nicegui) |
+| isaac-sim/IsaacLab | 7725 | Python | 3090.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| dora-rs/dora | 3850 | Rust | 1540.1 | [link](https://github.com/dora-rs/dora) |
+| StanfordVL/BEHAVIOR-1K | 1588 | Python | 635.3 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
+| sou350121/VLA-Handbook | 417 | HTML | 166.9 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 5645 | Python | 2258.1 | [link](https://github.com/vllm-project/vllm-omni) |
+| ROBOTIS-GIT/ai_worker | 155 | C++ | 62.1 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-07-22 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxOLTFxVXJLb0pHbEh1cER6U1lybHBRWHpYaFZjY19RMUpmTGNRRTBBZ3M1TDAxclFMbEdnVERtUEpFaHRSVlY0djY3Tk1tYTA4a1RpUkFGaEh0LWNZVjh3VWQ4U2ZwZGFwX01QT3BkVVFmdUNja3NMNlBveXlwV1BMNGplTGJlanhBcFRlR2hnSG9PNFdYSUZQOS16VQ?oc=5) |
 | 2026-07-21 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxQQjBvS2FjVDJaZkIxVGNGd0JiSlYyOFk5Tzc3RzdtbjBLU0NtRDc3MTdWVTRjTkdQWWR5cjBJT3FsMW9jSGJvYVd2YmJEMzZ1aE1sazBXXzFIaVBiMnF2ZEdxcmlodXZCb09veWRqQWZ6cElvdnQ5eDRRZExMSF8tbVpaYmpuQmItQ3UyZWF3d2JuX1ZJSVNKbzY3cG9tU2NCUmJmem1RajJ3UklxZHfSAbMBQVVfeXFMTlBYZGZHd1RXNEFIcVdwLW03bHg3Mm9zU1ZqRTNhTXFpeTk0OHZKUnI1NGVKZDJVTS1qZmhnYWRINFhBaHpKMXFIZVY5X3lPLXQzcFVwUzYwS1hNY19rM0xKNFZVWS1HamJCXzVoTEdUMWVkRENsb2JNSlJzRzNFdVVremRSeHpoRUpUWXNmNlhQSzV0dy1xb1AxZzJWSWw4NzNjb0hFUm5Hbk8tbTdRQjlGWTQ?oc=5) |
 | 2026-07-21 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPazNGXzVyYllBTTcxTEtONzU2anNoQTlCTDlHLVBGS2l0d3oxa0Ixdjk5N3pFVHBUNHhydlhVUzFqc2prU2gzVUFGdUxLbTd6cUpxaDZUTkxaQWVLaXNIRGhRbVJwd0dCMzJZYjZldi11SXZlN1dRbE9lOVlnRzhDYjF2UEZFeFBpSE9ZdjBJZk1YTkJORHhnUkJ3WncxdXFyclNGck9hdEZMRGdYM0I2Ni1MTFBpcW0yWGdKc1E2SXYwR2JyOGVzZ2lVZFQ?oc=5) |
 | 2026-07-21 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPY1I2WVJ5SGUzblc0WmVNMmdZbVgzS0t1SlBVZHBWZ1BXRnFCdGlJRjRPNjRHX1lVTHRLMW8zQWtmaDVZQWdEcTdBX2JpNUFCWEk5Q2xMcF9leEl3T3BpVEwxWV91NXJLRmk4a0o0N05Ud0JMeHFZMDg5OW0tZ1lTVFJ6STc4WlFhUHB5RFlCalA4SjdqMFpKZmwyNDRQdEE3SjAxag?oc=5) |
 | 2026-07-21 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTWJMS3dBazdnTUs2QnFtTV9jSXlkY0VoUERLb2VfZHJmWlp0VGxGa1lVUDlRQjFyc3JlNU5EcW5YSm5HUmdCN216THJXZmhuTmJ6UTVLSmJkckt4eU1ZamxPR3MteDVoQ0Jmb2dBVlJUdFVDckFob21Rbm9JaHZ5U0JoMmJhVTVsX09udEFOcExIZnpfR2Fz?oc=5) |
+| 2026-07-20 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFJYWDlnRjFxNzFEakw2M2F5SU9SdWxmSHYtaHVwa3V5RE1yU3ZSNGVqajVwelptczlWOHNvdGxmNi1QN2d6RkRUQVMyc1ctQnJWb0lIRHBxU1lrTk9PVHNQVU96U2NFZ1gteGw4NWV6bkhHWExIT08xYkszbUhCZ053?oc=5) |
 | 2026-07-17 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSjRmYjJZTjZQZEV6ZlA5dHRhZC1FeW1yNFVjQ0ZzUVUwajlrY2JkMHBLZFJoMnJKd2ZfYUctWE9hcmtJenZRbGlVTHpNRlhlYVBNLUYyLVZoS1hycjV3OUVabFVFZ1BBUFpiNzc2THBFT2g2V1BCeFlUSlNaU0hwSExYcVRtN21WckxjMUlYLUQyR3o0YzNQeXRGaFRTZG1tRndsa2xpcUxYaFd5bzdFUXY2aEZMLXBmOU4wS25TeFEyNGsyYk9FaGhjdnBlVVRETTZZN2s4ZnJvNkVmb2c?oc=5) |
-| 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUJvRFpqWVl4UHVLd1M0WTdsSEV0OTRLaWF6V0s2d2tvbTl0SVdzbHBEOE9VYmlkTXBWZ3BIMVkxYjBEMXhPdktmRHp3eXFtZG5paU50R1ZlRllEaWR5YWtpREVHWnJlRW9hY2RZWGpieU1LSmRuQXFNeXFoeE9KRzVtQXExUlFlNlk2anJUM3ZMYWZYV3BYV19uYXp0Zk1ZVFBzcURtYkpoc0x3OXdDN3M1WHNTYjgtNFE?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVDJGbnZjTHR6NWNyNG9MU3NaX21Tc2V6TE1qMzdCVl93bENOYXE2T21yMGhsd0taUHlrSEtqRTZPQzFSdEROTXdraTJzeHVaMzBaUGdNUFk1ZmQ3UnpuQ3dUYzF0T3JGQVFVTDF6S1ZlR0h1MHNzY1RRZlhtWUdmUC16YldxSFVpNVRXTVhPWldiRUc5VVJ4Uko3WWNTaFB3ZHkyVjBDNkk2eXh1WW1IX0t3VF9uN2o0dFVzUUExbW1ucU96Q0lueGpkWW0?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVHpkWEw4ZzI0LTJqRnotOGhDMy04eXFwU20tVTExNk53M1RVNlpqY3k2TkhWUEJsbUpxSV9od1FEV3JVaGhMSWU5azktVGNiWWVhdTg4TDlCTWx3cGlRR1dxbC1yendvZzlOZHFOakJia09EVG81U1gxZ05jRzNVLXlQakNKTnJXUkFFRDdsaFhpd3JiTmpNRWhja0M1QjNlMlJ2NThQRXhoeXZTd0o0cXZFaG1SNjA0WHlsUFdaQ3d1UUxiV0RhU0hXN0R2UnM1cC1YcFhtUExWM1lSTGNaSnRCN2xITXk1R3NyaUtLSHNmVG12azVCMEkzd0loLTQ?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcFZhQVRoZ25LSnNPNDdkb1Y4NjRYTzhIZ3ctQWJpQVU5SkdUUkFuTG03TzJSZ3JPQVFVLTNnaUtudEhDcmZjcm03SFZiM1daamc1ZWxEVUppcFJhVTRhMG5lVlF5TWppVlM4ZTNHbkN6ckh4bUEyYS04RGxWZm9zYXpGcHBMOExPVzBValZrNVF0bFJFSGRYQVp0VmVPWjBBdkFpdktiQkhOX3ZTRkZTeTV3aWlCUFg2bGJaOThaQ0tNc1pqUEhTNjFJdTVnaXpNWnJNcHpJNDI?oc=5) |
-| 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxQeVRFZXlzNC1iS0gwS3UwVnM0Q3pVRFlTYXJWcHBoTzlhVXlWa2o1VHlINWY2bkttSk5DSHdEQkc2bEN4MVcwSXFRZEFXSlg2YzFIWExDcHFPMWxiUy1RZnlSYm5wX2hfU3JhbkNIQnZCZk0wSXI3ei03akxMRGZ4dQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-07-21 | Robotics Startup Humanoid Joins The Billion-Dollar Physical AI Club - Finimize | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2hUZXpxMjZ5LWZQWVpsOHV4SUdSSzlwX2g3dElmYmg3X1kxYWhDb3N0NG9xd1BTM3ludXlndEdMeXVKOGdwempTNmdrMVZuWll5YXRKdzhoVEV6bXhNSmo3TzNTcThvejgxcERUVHZhWC05bHZ2bXlhMXdSeklGNjdzeEwzRjczRnFfWVlQX3ZMbm8talNoR0lHbzQ?oc=5) |
 | 2026-07-21 | New Unicorn! Humanoid secures €133 million at €1.1 billion valuation to scale industrial robotics and physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUWF3QVBJNXp5STRDcHJNUDZISjlQc09xRGtnLUl1UXU0WlJNb1dPWVVSRWk2YUtGMU4ydWYwaXQzUG1yZ29XYk5qeHVKUDktUTNZQ09nNFBRM1J4b1BEZXRwaTVLTWZnYXlWMjZSZUQxb2xRbm1YS2NlZHlUVWlEekhuZmRDLWR0MUZGX2pSQXhsWC1tZHdPUnQ1MGYtRHU0T3RTXzBNQzNZSERPN3NGVHFfUmJXc2RvNmhvRTVXOWp4cHBUWDRreDJZN0FNX3A2U2FKSmlYOFFPdFJrWjFQZmRLSQ?oc=5) |
-| 2026-07-21 | Applied Intuition: Physical AI is the Future - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWJJOTVjTWFhajZ6RWtMZGp4TU0xbi1Fd1R6R05BeWJwTnVmZmpyTnZDaHF2al9fakVKMzdxdDhydXI3NUVhNXROSm4yMG9iNG1zRXFrenZIYzNSV0phYXRfdkY2TDdMd1dHaXJGRVc3eEZCaWV6ZlVELXEzWHZ1VGF4UEl1X1QtVGV2SFRDbEliQlhHQVhqUFJzNjVkeHFCM3lTT1lkdnpQQQ?oc=5) |
 | 2026-07-21 | Startups Convert Skilled Workers' Tacit Knowledge into AI Data - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObC1YaVVVbHZuV2dPM2I3M01MdDVuNzdYZGhsMkNYb2JJaU9lTm1xOHFWanBaVmdaZEluYzZzYlVndWVkVmhOaUJJRWl6TmQzWkNtWU9QZUNISWpEdFhWSjBkS19ReTAyLXp3UGdjY2hReFVuWTFueS1qb0RsY25hcWowRGM3QUNv?oc=5) |
+| 2026-07-21 | Applied Intuition: Physical AI is the Future - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWJJOTVjTWFhajZ6RWtMZGp4TU0xbi1Fd1R6R05BeWJwTnVmZmpyTnZDaHF2al9fakVKMzdxdDhydXI3NUVhNXROSm4yMG9iNG1zRXFrenZIYzNSV0phYXRfdkY2TDdMd1dHaXJGRVc3eEZCaWV6ZlVELXEzWHZ1VGF4UEl1X1QtVGV2SFRDbEliQlhHQVhqUFJzNjVkeHFCM3lTT1lkdnpQQQ?oc=5) |
 | 2026-07-21 | Embodied AI startup GigaAI plans Hong Kong IPO at US$3b valuation - The Standard (HK) | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxOczRISEtsc2tSRWJVbW1tOVhDOFViaGx3U2ltQnhuaHNPWHQyWmV0UHN2aTlPUTJjMkxtZFA1YW9ZUkRRVnJsQUVZUmlRYnlCN3duNHlJSGVEQXA0MzFEYXg3bFE2Y3p6cXExRGdvY3ZHaC1WSUl5RmM4Njd6eGVSZ3R1WHZzc0tLaWJiVUR5bXo1TDNXbGFGRmktM2R3d1ZOQUpHQ2J5MXdDWkFIZ1dVa0Rmc0Y0ZTJ4T1pUZTJ3?oc=5) |
 | 2026-07-21 | Elite Robots Collaborates with Generalist AI on Next-Gen Embodied AI - PR Newswire UK | embodied ai startup | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxPZzNhZmhNOWpURVZnWTRGRzhGZmNpQjVhVEduN1ZXMUx5bDlqZXZVb3hhUXZNV0lYMHkyMmpUdENJb1UyR05wVGJ2el9qXzRtZmNoMUYzUnVZQnBSTEQ3eWt4Y1VsU1ZkWWxGbUJVSHcwRWxwbnhJTXdkM2dCYnNtajBob3ZCVTdGRGQxZ01ya09hNS15MHRQbzg0SHR3clVYRFQ3dHBYQk51NGJwSVVSOTZ0WHhzN3l3SVBWZ3d3clNxZ3Ns?oc=5) |
 | 2026-07-21 | Humanoid Raises $152 Million At $1.35 Billion Valuation: Europe’s Newest Robot Unicorn - Forbes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ1VROGdUb3BVVkdrUkVleU50TkhNY0dpMDlNSV9CTENBZ2hPOG5zQVJXcFJld2xZaExLbG5PMmFGMDFRMXpzakJERnlhaC1iRnF2bGQ0V2o2NXFFR2h5TGd0U2syUk1xRUJMbFpJMklxcnQ3NW9aZHc3Qjg1RC15a2hpcVdpMEp3cjlpckZKQlc3bEltd0lZVlhnUk9TZEh5VzA2RDBLNEcySjUzSTg2bXYwMHNhM2xTaGFVcVMwbV9uWmIwNVdSNlhnTnFfV2Fq?oc=5) |
