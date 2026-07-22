@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-22 16:11 UTC
+Last Updated: 2026-07-22 17:59 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -36,6 +36,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-07-22 | NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/) |
+| 2026-07-22 | Medtronic to launch AI compute platform for the operating room | Robotics Business Review | [link](https://www.therobotreport.com/medtronic-launch-ai-compute-platform-operating-room/) |
 | 2026-07-21 | MISUMI Americas releases reshoring report, supports manufacturing training bill | Robotics Business Review | [link](https://www.therobotreport.com/misumi-americas-releases-reshoring-report-supports-manufacturing-training-bill/) |
 | 2026-07-21 | Friction is key to making better robot world models | Robotics Business Review | [link](https://www.therobotreport.com/friction-is-key-to-making-better-robot-world-models/) |
 | 2026-07-21 | Generative Bionics unveils humanoid robot with full-body tactile sensing | Robotics Business Review | [link](https://www.therobotreport.com/generative-bionics-unveils-humanoid-robot-with-full-body-tactile-sensing/) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-20 | AGIBOT unveils four embodied AI products for real-world operations at WAIC | Robotics Business Review | [link](https://www.therobotreport.com/agibot-unveils-four-embodied-ai-products-real-world-operations-waic/) |
 | 2026-07-20 | Building robots for unpredictable, infrastructure-free environments | Robotics Business Review | [link](https://www.therobotreport.com/building-robots-for-unpredictable-infrastructure-free-environments/) |
 | 2026-07-20 | BrainCo demonstrates brain-controlled robot AI platform | Robotics Business Review | [link](https://www.therobotreport.com/brainco-demonstrates-brain-controlled-robot-ai-platform/) |
-| 2026-07-20 | Boston Dynamics to discuss the art behind human-robot interaction | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-discuss-art-behind-human-robot-interaction/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -77,20 +77,21 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-22 | latiao1999/robotics-vla-task-23 | 0 | 0 | [link](https://huggingface.co/latiao1999/robotics-vla-task-23) |
+| 2026-07-22 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 24 | 3 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
+| 2026-07-22 | EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b | 0 | 0 | [link](https://huggingface.co/EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b) |
 | 2026-07-22 | wmkdfmk/robotics-vla-task-23-competitive-v3 | 0 | 0 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v3) |
 | 2026-07-22 | JackieMM/RoboTwin-pi05-30000-checkpoints | 0 | 0 | [link](https://huggingface.co/JackieMM/RoboTwin-pi05-30000-checkpoints) |
 | 2026-07-22 | tiao55/robotics-vla-task-23-basic | 0 | 0 | [link](https://huggingface.co/tiao55/robotics-vla-task-23-basic) |
-| 2026-07-22 | EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b | 0 | 0 | [link](https://huggingface.co/EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b) |
 | 2026-07-22 | Kei-Sanada/robotics-vla-task-23-basic | 0 | 0 | [link](https://huggingface.co/Kei-Sanada/robotics-vla-task-23-basic) |
 | 2026-07-22 | Yysrc/robotwin_all_action_30000 | 0 | 0 | [link](https://huggingface.co/Yysrc/robotwin_all_action_30000) |
 | 2026-07-22 | puppet-robotics/golf-model-200-obs-rgb | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb) |
 | 2026-07-22 | RobotisSW/Task_700003_700005_pick_place_peanut_stage2_act_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_700003_700005_pick_place_peanut_stage2_act_100k) |
-| 2026-07-22 | OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_Mutual | 0 | 0 | [link](https://huggingface.co/OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_Mutual) |
-| 2026-07-22 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 24 | 3 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| NVIDIA/skills | 2643 | Python | 1057.3 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1421 | Rust | 568.5 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 892 | Python | 356.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 465 | Shell | 186.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
@@ -99,8 +100,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | commaai/openpilot | 63193 | Python | 25277.3 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16043 | Python | 6417.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15533 | C++ | 6213.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14287 | C++ | 5714.9 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11282 | Python | 4512.9 | [link](https://github.com/kornia/kornia) |
+| google-deepmind/mujoco | 14288 | C++ | 5715.3 | [link](https://github.com/google-deepmind/mujoco) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -133,6 +133,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-22 | Mechanical Engineer - All Levels | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4410831006) |
+| 2026-07-22 | Software Engineer, Manufacturing Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4692559006) |
+| 2026-07-22 | Senior Staff Systems Integration Engineer (Power & Compute) | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6114100004) |
 | 2026-07-21 | Firmware Integration Engineer, Asia | Figure AI | Asia | [link](https://job-boards.greenhouse.io/figureai/jobs/4698860006) |
 | 2026-07-20 | Deployment Logistics Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4666290006) |
 | 2026-07-20 | Helix Data Creator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4585080006) |
@@ -140,9 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-20 | Humanoid Robot Operator (Afternoon Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4644956006) |
 | 2026-07-20 | Humanoid Robot Operator - Commercial Launch Team | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4665205006) |
 | 2026-07-20 | Humanoid Robot Operator - Commercial Site Team (LA)  | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4698238006) |
-| 2026-07-20 | Humanoid Robot Operator (Morning Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4406268006) |
-| 2026-07-20 | Humanoid Robot Operator (Night Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4644962006) |
-| 2026-07-20 | Jr Robot Service Technician | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4698535006) |
 
 ## Automation
 
