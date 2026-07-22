@@ -1,5 +1,23 @@
 [
   {
+    "model": "Yysrc/robotwin_all_action_30000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Yysrc/robotwin_all_action_30000",
+    "date": "2026-07-22",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "puppet-robotics/golf-model-200-obs-rgb",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb",
+    "date": "2026-07-22",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "RobotisSW/Task_700003_700005_pick_place_peanut_stage2_act_100k",
     "downloads": 0,
     "likes": 0,
@@ -38,11 +56,11 @@
   {
     "model": "openbmb/MiniCPM-RobotManip",
     "downloads": 58,
-    "likes": 150,
+    "likes": 154,
     "url": "https://huggingface.co/openbmb/MiniCPM-RobotManip",
     "date": "2026-07-22",
     "keyword": "robot",
-    "score": 47.5
+    "score": 48.3
   },
   {
     "model": "fangcaotank/robotics-vla-task-23-qwen3",
@@ -54,12 +72,12 @@
     "score": 0.1
   },
   {
-    "model": "puppet-robotics/golf-model-200-obs-rgb",
+    "model": "JasonYang66/VLAct-Qwen3vl4b-OFT-RoboDojo",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb",
+    "url": "https://huggingface.co/JasonYang66/VLAct-Qwen3vl4b-OFT-RoboDojo",
     "date": "2026-07-22",
-    "keyword": "robotics",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -153,21 +171,57 @@
     "score": 0.1
   },
   {
-    "model": "MerazAhmed3420/task-23-vla-diff-tuned",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MerazAhmed3420/task-23-vla-diff-tuned",
-    "date": "2026-07-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "sojeong647/physical_AI",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sojeong647/physical_AI",
     "date": "2026-07-22",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "dookidooki/omx_act_policy_part2_v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dookidooki/omx_act_policy_part2_v2",
+    "date": "2026-07-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ZDRRRM/act_policy_new",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ZDRRRM/act_policy_new",
+    "date": "2026-07-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-07-21_shakeitup6_bench_accelero_10kHz_nfft_512",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-07-21_shakeitup6_bench_accelero_10kHz_nfft_512",
+    "date": "2026-07-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "dookidooki/omx_act_policy_part1_v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dookidooki/omx_act_policy_part1_v2",
+    "date": "2026-07-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Yangkyu/record-test_all_pickplace_20260722_act_policy_test",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Yangkyu/record-test_all_pickplace_20260722_act_policy_test",
+    "date": "2026-07-22",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -234,51 +288,6 @@
     "score": 0.1
   },
   {
-    "model": "manifoldai-research/WorldScape-Policy-2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/manifoldai-research/WorldScape-Policy-2",
-    "date": "2026-07-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "zep25dr-dev/omx_act_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/zep25dr-dev/omx_act_policy",
-    "date": "2026-07-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "downloads": 680,
-    "likes": 1,
-    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
-    "date": "2026-07-22",
-    "keyword": "policy",
-    "score": 204.3
-  },
-  {
-    "model": "bskim92/omx_act_policy2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/bskim92/omx_act_policy2",
-    "date": "2026-07-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Hcw7/omx_act_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Hcw7/omx_act_policy",
-    "date": "2026-07-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "RobotisSW/Task_700002_700003_pick_place_peanut_stage2_act_100k",
     "downloads": 0,
     "likes": 0,
@@ -310,15 +319,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/RobotisSW/Task_000255_Jelly_WhiteShelf_10K",
-    "date": "2026-07-21",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Task_000238_Pick_Chestnuts_50K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_000238_Pick_Chestnuts_50K",
     "date": "2026-07-21",
     "keyword": "robot",
     "score": 0.1
