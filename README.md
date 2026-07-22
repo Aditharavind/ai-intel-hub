@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-22 17:59 UTC
+Last Updated: 2026-07-22 19:09 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-22 | The Need for Speed: Internet Speed Measurement (or DIY?) | Hackaday | [link](https://hackaday.com/2026/07/22/the-need-for-speed-internet-speed-measurement-or-diy/) |
 | 2026-07-22 | Dress Up Your YubiKey With This Web-Based Tool | Hackaday | [link](https://hackaday.com/2026/07/22/dress-up-your-yubikey-with-this-web-based-tool/) |
 | 2026-07-22 | Compile Here, Run Everywhere: Crosstool-Ng | Hackaday | [link](https://hackaday.com/2026/07/22/compile-here-run-everywhere-crosstool-ng/) |
 | 2026-07-22 | Old TV Vacuum Tube Turned DIY X-Ray Machine | Hackaday | [link](https://hackaday.com/2026/07/22/old-tv-vacuum-tube-turned-diy-x-ray-machine/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-22 | Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90 | CNX Software | [link](https://www.cnx-software.com/2026/07/22/arduino-uno-q-arcade-bundle-lets-you-build-a-custom-retro-gaming-console/) |
 | 2026-07-22 | ACEMAGICIAN Kron K1 mini PC gets low-cost variant with AMD Ryzen R2544 CPU, 8GB DDR4, 256GB SSD | CNX Software | [link](https://www.cnx-software.com/2026/07/22/acemagician-kron-k1-mini-pc-gets-low-cost-variant-with-amd-ryzen-r2544-cpu-8gb-ddr4-256gb-ssd/) |
 | 2026-07-22 | Raspberry Pi Touch Display 2 – 10″ Portrait review, 3D printed VESA mount | CNX Software | [link](https://www.cnx-software.com/2026/07/22/raspberry-pi-touch-display-2-10%e2%80%b3-portrait-review-3d-printed-vesa-mount/) |
-| 2026-07-22 | NVIDIA increases the price of Jetson modules and devkits by up to 101% | CNX Software | [link](https://www.cnx-software.com/2026/07/22/nvidia-increases-the-price-of-jetson-modules-and-devkits-by-up-to-101/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,8 +77,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-22 | latiao1999/robotics-vla-task-23 | 0 | 0 | [link](https://huggingface.co/latiao1999/robotics-vla-task-23) |
 | 2026-07-22 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 24 | 3 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
+| 2026-07-22 | mario-d-robot/next-scene-qwen-image-lora-2509 | 0 | 0 | [link](https://huggingface.co/mario-d-robot/next-scene-qwen-image-lora-2509) |
+| 2026-07-22 | latiao1999/robotics-vla-task-23 | 0 | 0 | [link](https://huggingface.co/latiao1999/robotics-vla-task-23) |
 | 2026-07-22 | EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b | 0 | 0 | [link](https://huggingface.co/EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b) |
 | 2026-07-22 | wmkdfmk/robotics-vla-task-23-competitive-v3 | 0 | 0 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v3) |
 | 2026-07-22 | JackieMM/RoboTwin-pi05-30000-checkpoints | 0 | 0 | [link](https://huggingface.co/JackieMM/RoboTwin-pi05-30000-checkpoints) |
@@ -86,12 +87,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-22 | Kei-Sanada/robotics-vla-task-23-basic | 0 | 0 | [link](https://huggingface.co/Kei-Sanada/robotics-vla-task-23-basic) |
 | 2026-07-22 | Yysrc/robotwin_all_action_30000 | 0 | 0 | [link](https://huggingface.co/Yysrc/robotwin_all_action_30000) |
 | 2026-07-22 | puppet-robotics/golf-model-200-obs-rgb | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb) |
-| 2026-07-22 | RobotisSW/Task_700003_700005_pick_place_peanut_stage2_act_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_700003_700005_pick_place_peanut_stage2_act_100k) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2643 | Python | 1057.3 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2645 | Python | 1058.1 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1421 | Rust | 568.5 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 892 | Python | 356.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 465 | Shell | 186.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
@@ -121,9 +121,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-22 | The Physical AI Closed Loop Is Finally Live: Rimnot and Yuantu Announce 10K-Unit Industrial Robot Deployment Plan for Server Manufacturing - Pandaily | physical ai startup | [link](https://news.google.com/rss/articles/CBMidEFVX3lxTE95X2hsbTZWRWtpUHhIZk9iamxKVlBVR29VVEZ1R1JWWWpfeG9QX0w4bm04Ti1vYjVjakN2MHdHNExzNkMzSkVhVWhmOUdzUE03WnA5WTJ1Tk1TUEpTT1RubXlicnBIaTY3T29iQUYxbmhHV1FO?oc=5) |
 | 2026-07-22 | Startups Transform Tacit Knowledge into AI Data for Industry - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObC1YaVVVbHZuV2dPM2I3M01MdDVuNzdYZGhsMkNYb2JJaU9lTm1xOHFWanBaVmdaZEluYzZzYlVndWVkVmhOaUJJRWl6TmQzWkNtWU9QZUNISWpEdFhWSjBkS19ReTAyLXp3UGdjY2hReFVuWTFueS1qb0RsY25hcWowRGM3QUNv?oc=5) |
+| 2026-07-22 | Agibot Expands Embodied AI Portfolio With Four New Products - AI Business | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFQxZDVFOXc1RHVDQnVkLXprNXFFR1ZkdnZudnVEbUU2ZThOY21yWHNWcER6cWZkblNTMUxpYzZBQ2hkemNFaldJYkNjMmxrZmdSYVdZNDdYdHZKWGFnSmF2N3lvLVRrbjQ1bUctNl8xdVgwOGhBN0QwUUI2QXBzZ1hRRDZob19K?oc=5) |
 | 2026-07-22 | Google Cloud and NVIDIA power microagi's embodied AI ambitions - Tech.eu | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRU9kWmJsNmx6R2hJOG43bmVQRWpCcG1jcEJCYV9hZ3QxckI2RUxDZ0FsdFhwaU80UFRBWUJoQzBOelpoUHRjejVrQ3MyZm1hZmNyT2ZqbUR4SUJtZXpLSVFrc0RHaUNRTTlYREtoNHBWVGh5dk9uM3JhS0dWSVlnaWJoOWUyZ1FiX2hXLVJpWHdkWk0?oc=5) |
 | 2026-07-22 | This UK Startup Just Became Europe's First Humanoid Robot Unicorn — Worth $1.35 Billion In 2 Years - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZTUzVzdVemZTYjFNRDBjVENoeEJySExQTnRmdi1JQmpyMXRESUh6bmJSUEFFTEpBcDA3eEoyTEljUFNBa0kzeDFUUEJISE5HTGJCRkFaaVBod3oxZnN1aWlSVzNPY21qZkx2N2lYbVF6aG1fbVB3bG5Vb1djTFZidzRCZ2ZkR29MSzFiaHoxVHVKTnpJZEctaFhpSG5CdHNGdGw3ZkwzMzk4amxwSHhUYzl5SGRydXhwWDdkZTFSTjJacGR4a3ZWUEljc1NMTDRMcUE?oc=5) |
-| 2026-07-22 | China develops more than half of the world's humanoid robots: report - The Daily Star | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxPNlF4TkdwRU9ja3ZJVE9LcVRLN1dxMjVGalFka1BYMzJES3RUdWN4VE12ajI5YzViTWM2LVp2UXc0RTBfUE5TRE45SHpXbThiQXM1NWI1dWtLVTNXV09RU3I2Z3ZKZjMzRHU5bktLMm5tTTlxWFBpNjdPNEgyRzljZWVPTkx3c1lDSzNyVkhublVCbTFfVGVwN3BPLXRkMFV2NHhjZE9FajVJRjllY2pic2hfNlQxNDVaNnc?oc=5) |
 | 2026-07-21 | New Unicorn! Humanoid secures €133 million at €1.1 billion valuation to scale industrial robotics and physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUWF3QVBJNXp5STRDcHJNUDZISjlQc09xRGtnLUl1UXU0WlJNb1dPWVVSRWk2YUtGMU4ydWYwaXQzUG1yZ29XYk5qeHVKUDktUTNZQ09nNFBRM1J4b1BEZXRwaTVLTWZnYXlWMjZSZUQxb2xRbm1YS2NlZHlUVWlEekhuZmRDLWR0MUZGX2pSQXhsWC1tZHdPUnQ1MGYtRHU0T3RTXzBNQzNZSERPN3NGVHFfUmJXc2RvNmhvRTVXOWp4cHBUWDRreDJZN0FNX3A2U2FKSmlYOFFPdFJrWjFQZmRLSQ?oc=5) |
 | 2026-07-21 | Robotics Startup Humanoid Joins The Billion-Dollar Physical AI Club - Finimize | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2hUZXpxMjZ5LWZQWVpsOHV4SUdSSzlwX2g3dElmYmg3X1kxYWhDb3N0NG9xd1BTM3ludXlndEdMeXVKOGdwempTNmdrMVZuWll5YXRKdzhoVEV6bXhNSmo3TzNTcThvejgxcERUVHZhWC05bHZ2bXlhMXdSeklGNjdzeEwzRjczRnFfWVlQX3ZMbm8talNoR0lHbzQ?oc=5) |
 | 2026-07-21 | Applied Intuition: Physical AI is the Future - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWJJOTVjTWFhajZ6RWtMZGp4TU0xbi1Fd1R6R05BeWJwTnVmZmpyTnZDaHF2al9fakVKMzdxdDhydXI3NUVhNXROSm4yMG9iNG1zRXFrenZIYzNSV0phYXRfdkY2TDdMd1dHaXJGRVc3eEZCaWV6ZlVELXEzWHZ1VGF4UEl1X1QtVGV2SFRDbEliQlhHQVhqUFJzNjVkeHFCM3lTT1lkdnpQQQ?oc=5) |
@@ -133,16 +133,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-22 | Helix AI Engineer, XR | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4699095006) |
 | 2026-07-22 | Mechanical Engineer - All Levels | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4410831006) |
 | 2026-07-22 | Software Engineer, Manufacturing Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4692559006) |
 | 2026-07-22 | Senior Staff Systems Integration Engineer (Power & Compute) | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6114100004) |
 | 2026-07-21 | Firmware Integration Engineer, Asia | Figure AI | Asia | [link](https://job-boards.greenhouse.io/figureai/jobs/4698860006) |
 | 2026-07-20 | Deployment Logistics Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4666290006) |
-| 2026-07-20 | Helix Data Creator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4585080006) |
 | 2026-07-20 | Helix Data Creator | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4627111006) |
+| 2026-07-20 | Helix Data Creator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4585080006) |
 | 2026-07-20 | Humanoid Robot Operator (Afternoon Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4644956006) |
 | 2026-07-20 | Humanoid Robot Operator - Commercial Launch Team | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4665205006) |
-| 2026-07-20 | Humanoid Robot Operator - Commercial Site Team (LA)  | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4698238006) |
 
 ## Automation
 

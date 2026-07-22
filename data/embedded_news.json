@@ -1,5 +1,12 @@
 [
   {
+    "title": "The Need for Speed: Internet Speed Measurement (or DIY?)",
+    "source": "Hackaday",
+    "date": "2026-07-22",
+    "url": "https://hackaday.com/2026/07/22/the-need-for-speed-internet-speed-measurement-or-diy/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/07/flash.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Car enthusiasts want to know how quickly they can make a quarter mile. Weightlifters are forever trying to add one more plate to the bar. Internet denizens have their own <a class=\"read-more\" href=\"https://hackaday.com/2026/07/22/the-need-for-speed-internet-speed-measurement-or-diy/\">&#8230;read more</a>"
+  },
+  {
     "title": "Dress Up Your YubiKey With This Web-Based Tool",
     "source": "Hackaday",
     "date": "2026-07-22",
@@ -154,6 +161,20 @@
     "summary": "<p>Mouser has signed a global distribution agreement with Parker Chomerics, the thermal interface materials (TIMs) and EMI specialist. Parker Chomerics supplies products for heat management and signal integrity, supporting electronic [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/mouser-signs-parker-chomerics-2026-07/\">Mouser signs Parker Chomerics</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "A Linux utility to control USB power per-port on smart USB hubs",
+    "source": "Adafruit",
+    "date": "2026-07-22",
+    "url": "https://blog.adafruit.com/2026/07/22/a-utility-to-control-usb-power-per-port-on-smart-usb-hubs/",
+    "summary": "uhubctl is Linux utility to control USB power per-port on smart USB hubs. Smart hub is defined as one that implements per-port power switching. According to USB 2.0 specification, USB hubs can advertise no power switching, ganged (all ports at once) power switching or per-port (individual) power switching. Note that by default uhubctl will only detect USB [&#8230;]"
+  },
+  {
+    "title": "Worlds Largest Pop-Up Book",
+    "source": "Adafruit",
+    "date": "2026-07-22",
+    "url": "https://blog.adafruit.com/2026/07/22/worlds-largest-pop-up-book/",
+    "summary": "This larger than life pop-up book is on view at Los Angeles’ Richard J. Riordan Central Library. It takes a full team to turn each page, if they aren&#8217;t careful they may get crushed! On view through November 2026 Luceros y Penumbras has been officially recognized by Guinness World Records as the largest pop-up book [&#8230;]"
+  },
+  {
     "title": "PCjs: emulating hardware and software from the 70s and 80s",
     "source": "Adafruit",
     "date": "2026-07-22",
@@ -224,20 +245,6 @@
     "summary": "Michael Manning and Royyan Dzakiy have made an open-source, battery-powered temperature and humidity data logger with an always-on e-paper display, Weathergotchi, under an MIT license. It records ambient conditions over time, stores readings in non-volatile memory, and displays current data along with a history graph. The device is designed for low power consumption, over 1 [&#8230;]"
   },
   {
-    "title": "See inside insects with an electron microscope and a femtosecond laser",
-    "source": "Adafruit",
-    "date": "2026-07-22",
-    "url": "https://blog.adafruit.com/2026/07/22/see-inside-insects-with-an-electron-microscope-and-a-femtosecond-laser/",
-    "summary": "Ben Krasnow on the Applied Science YouTube Channel posts about seeing inside insects with an electron microscope and a femtosecond laser. I use a femtosecond laser like a lightsaber to cross section insects and inspect them with an electron microscope. What&#8217;s really inside an insect&#8217;s head? Femtosecond laser built by Oscillate Photonics: https://oscillatephotonics.com/ Open Beam [&#8230;]"
-  },
-  {
-    "title": "Who’s Building that Data Center?",
-    "source": "Hackaday",
-    "date": "2026-07-21",
-    "url": "https://hackaday.com/2026/07/21/whos-building-that-data-center/",
-    "summary": "<div><img alt=\"A map of the lower 48 US States with an overlay of various colorful bubbles indicating data center developments, whether proposed, contested, under construction, or operational. There are a lot of bubbles! Hawaii isn&#039;t pictured, but looks to have one project currently, but nothing in Alaska for now.\" class=\"attachment-large size-large wp-post-image\" height=\"513\" src=\"https://hackaday.com/wp-content/uploads/2026/07/Powered-By-Who-Data-Center-Map.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One of the biggest &#8220;David versus Goliath&#8221; stories in tech right now is the towns beset by AI data center projects they may or may not have asked for. Powered <a class=\"read-more\" href=\"https://hackaday.com/2026/07/21/whos-building-that-data-center/\">&#8230;read more</a>"
-  },
-  {
     "title": "Avalue RIVAR-1539 is a 15.6-inch fanless industrial panel PC powered by an Intel N150 Twin Lake processor",
     "source": "CNX Software",
     "date": "2026-07-21",
@@ -271,13 +278,6 @@
     "date": "2026-07-21",
     "url": "https://www.embedded.com/pros-and-cons-of-mcu-hardware-and-software-peripherals/",
     "summary": "<p>How do you tell time? You might glance at a watch or look up at a clock. But for a microcontroller (MCU), it's not that simple. MCUs are integrated circuits that contain core independent peripherals, or CIPs. CIPs are specialized hardware circuits designed to perform a task with little to no CPU intervention. Every manufacturer [...]</p>\n<p>The post <a href=\"https://www.embedded.com/pros-and-cons-of-mcu-hardware-and-software-peripherals/\">Pros and Cons of MCU Hardware and Software Peripherals</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "UPDATED GUIDE: Adafruit NeoPixel Überguide #AdafruitLearningSystem @Adafruit",
-    "source": "Adafruit",
-    "date": "2026-07-21",
-    "url": "https://blog.adafruit.com/2026/07/21/updated-guide-adafruit-neopixel-uberguide-adafruitlearningsystem-adafruit/",
-    "summary": "The Adafruit NeoPixel Überguide has been updated with info for how to use the new 5050 WWA White LEDs with Integrated Drivers that you can find in the NeoPixel Stick &#8211; 8 x 5050 WWA White LEDs with Integrated Drivers. WWA LEDs have 3 white LEDs in them in three tints (also known as &#8216;color [&#8230;]"
   },
   {
     "title": "OMRON Advances Inspection Technology with NVIDIA Omniverse and Metropolis",

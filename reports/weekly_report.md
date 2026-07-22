@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-22 17:59 UTC
+Generated: 2026-07-22 19:09 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -16,7 +16,7 @@ Generated: 2026-07-22 17:59 UTC
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 82656 | 33062.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63193 | 25277.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44276 | 17710.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44277 | 17710.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30105 | 12042.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16043 | 6417.3 | [link](https://github.com/zauberzeug/nicegui) |
 
@@ -43,6 +43,6 @@ Generated: 2026-07-22 17:59 UTC
 | --- | --- | --- | --- |
 | 2026-07-22 | The Physical AI Closed Loop Is Finally Live: Rimnot and Yuantu Announce 10K-Unit Industrial Robot Deployment Plan for Server Manufacturing - Pandaily | physical ai startup | [link](https://news.google.com/rss/articles/CBMidEFVX3lxTE95X2hsbTZWRWtpUHhIZk9iamxKVlBVR29VVEZ1R1JWWWpfeG9QX0w4bm04Ti1vYjVjakN2MHdHNExzNkMzSkVhVWhmOUdzUE03WnA5WTJ1Tk1TUEpTT1RubXlicnBIaTY3T29iQUYxbmhHV1FO?oc=5) |
 | 2026-07-22 | Startups Transform Tacit Knowledge into AI Data for Industry - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObC1YaVVVbHZuV2dPM2I3M01MdDVuNzdYZGhsMkNYb2JJaU9lTm1xOHFWanBaVmdaZEluYzZzYlVndWVkVmhOaUJJRWl6TmQzWkNtWU9QZUNISWpEdFhWSjBkS19ReTAyLXp3UGdjY2hReFVuWTFueS1qb0RsY25hcWowRGM3QUNv?oc=5) |
+| 2026-07-22 | Agibot Expands Embodied AI Portfolio With Four New Products - AI Business | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFQxZDVFOXc1RHVDQnVkLXprNXFFR1ZkdnZudnVEbUU2ZThOY21yWHNWcER6cWZkblNTMUxpYzZBQ2hkemNFaldJYkNjMmxrZmdSYVdZNDdYdHZKWGFnSmF2N3lvLVRrbjQ1bUctNl8xdVgwOGhBN0QwUUI2QXBzZ1hRRDZob19K?oc=5) |
 | 2026-07-22 | Google Cloud and NVIDIA power microagi's embodied AI ambitions - Tech.eu | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRU9kWmJsNmx6R2hJOG43bmVQRWpCcG1jcEJCYV9hZ3QxckI2RUxDZ0FsdFhwaU80UFRBWUJoQzBOelpoUHRjejVrQ3MyZm1hZmNyT2ZqbUR4SUJtZXpLSVFrc0RHaUNRTTlYREtoNHBWVGh5dk9uM3JhS0dWSVlnaWJoOWUyZ1FiX2hXLVJpWHdkWk0?oc=5) |
 | 2026-07-22 | This UK Startup Just Became Europe's First Humanoid Robot Unicorn — Worth $1.35 Billion In 2 Years - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZTUzVzdVemZTYjFNRDBjVENoeEJySExQTnRmdi1JQmpyMXRESUh6bmJSUEFFTEpBcDA3eEoyTEljUFNBa0kzeDFUUEJISE5HTGJCRkFaaVBod3oxZnN1aWlSVzNPY21qZkx2N2lYbVF6aG1fbVB3bG5Vb1djTFZidzRCZ2ZkR29MSzFiaHoxVHVKTnpJZEctaFhpSG5CdHNGdGw3ZkwzMzk4amxwSHhUYzl5SGRydXhwWDdkZTFSTjJacGR4a3ZWUEljc1NMTDRMcUE?oc=5) |
-| 2026-07-22 | China develops more than half of the world's humanoid robots: report - The Daily Star | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxPNlF4TkdwRU9ja3ZJVE9LcVRLN1dxMjVGalFka1BYMzJES3RUdWN4VE12ajI5YzViTWM2LVp2UXc0RTBfUE5TRE45SHpXbThiQXM1NWI1dWtLVTNXV09RU3I2Z3ZKZjMzRHU5bktLMm5tTTlxWFBpNjdPNEgyRzljZWVPTkx3c1lDSzNyVkhublVCbTFfVGVwN3BPLXRkMFV2NHhjZE9FajVJRjllY2pic2hfNlQxNDVaNnc?oc=5) |
