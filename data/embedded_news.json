@@ -1,5 +1,12 @@
 [
   {
+    "title": "Compile Here, Run Everywhere: Crosstool-Ng",
+    "source": "Hackaday",
+    "date": "2026-07-22",
+    "url": "https://hackaday.com/2026/07/22/compile-here-run-everywhere-crosstool-ng/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/07/CrossCompiling.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In a recent post, I mentioned that I wanted to build some tools for a stripped-down Linux running on a 3D printer with a MIPS CPU. I had two options: <a class=\"read-more\" href=\"https://hackaday.com/2026/07/22/compile-here-run-everywhere-crosstool-ng/\">&#8230;read more</a>"
+  },
+  {
     "title": "Old TV Vacuum Tube Turned DIY X-Ray Machine",
     "source": "Hackaday",
     "date": "2026-07-22",
@@ -56,67 +63,46 @@
     "summary": "<div><img alt=\"NVIDIA Jetson price increase\" class=\"attachment-medium size-medium wp-post-image\" height=\"310\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/NVIDIA-Jetson-price-increase-720x310.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>A few months ago, NVIDIA phased out several Jetson modules due to high LPDDR4 prices, and now the company has decided to increase the prices on all its Jetson modules and developer kits by up to 101%. There was no specific announcement about the price, but the updated prices are available in the FAQ on the NVIDIA developer website. This was initially spotted by a reader at VideoCardz, and the table below shows the old and new prices, as well as the percentage increase. The table above is sortable. The highest price increases in percentage terms are for the Jetson Nano module (101% from $99 to $199) and the Jetson AGX Orin 32GB module (100% from $899 to $1,799). The Jetson Nano module is still the cheapest option, and the most powerful and expensive part is the Jetson AGX Thor Developer Kit. The popular Jetson Orin Nano Super Developer Kit, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/22/nvidia-increases-the-price-of-jetson-modules-and-devkits-by-up-to-101/\">NVIDIA increases the price of Jetson modules and devkits by up to 101%</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "UK and Space Florida sign MoU for access to US space market",
-    "source": "Electronics Weekly",
+    "title": "Siemens Expands EDA Portfolio with Defacto Technologies Acquisition",
+    "source": "Embedded.com",
     "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/news/business/uk-and-space-florida-sign-mou-for-access-to-us-space-market-2026-07/",
-    "summary": "<p>The UK and Florida are partnering in an initiative to help space companies develop ideas into commercial reality: the UK Government and Space Florida have signed of a Memorandum of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/uk-and-space-florida-sign-mou-for-access-to-us-space-market-2026-07/\">UK and Space Florida sign MoU for access to US space market</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.embedded.com/siemens-expands-eda-portfolio-with-defacto-technologies-acquisition/",
+    "summary": "<p>Siemens has signed an agreement to acquire Defacto Technologies, a privately held electronic design automation (EDA) software company specializing in automated system-on-chip (SoC) design creation at the register-transfer level (RTL). The acquisition strengthens Siemens' EDA portfolio by adding technologies that automate SoC development, improve implementation planning at earlier design stages, and enhance verification throughout the [...]</p>\n<p>The post <a href=\"https://www.embedded.com/siemens-expands-eda-portfolio-with-defacto-technologies-acquisition/\">Siemens Expands EDA Portfolio with Defacto Technologies Acquisition</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Raspberry Pi goes big with 10-inch Touch Display 2",
-    "source": "Electronics Weekly",
+    "title": "I built a true-scale atlas of the universe (8.4M real stars) in about a week with Fable",
+    "source": "Adafruit",
     "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/news/products/raspberry-pi-development/raspberry-pi-goes-big-screen-with-10-inch-touch-display-2-2026-07/",
-    "summary": "<p>Raspberry Pi has expanded its range of multi-touch capacitive touch panes with a 10-inch Touch Display 2. You attach a Raspberry Pi to the rear of the display, via four [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/raspberry-pi-development/raspberry-pi-goes-big-screen-with-10-inch-touch-display-2-2026-07/\">Raspberry Pi goes big with 10-inch Touch Display 2</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/22/i-built-a-true-scale-atlas-of-the-universe-8-4m-real-stars-in-about-a-week-with-fable/",
+    "summary": "Chris Zaharia got his hands on Anthropic&#8217;s Claude Fable model. Then things started to happen: When I got access to Fable, I wanted to test it on something ridiculous. Why not the universe itself? The result is an atlas that renders everything at its measured size, distance, and speed, one continuous zoom from the cosmic [&#8230;]"
   },
   {
-    "title": "Yokogawa unveils new features on its “most accurate” power analyser",
-    "source": "Electronics Weekly",
+    "title": "Wind Jellyfish Floats and Glows in the Breeze",
+    "source": "Adafruit",
     "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/market-sectors/power/yokogawa-unveils-new-features-on-its-most-accurate-power-analyser-2026-07/",
-    "summary": "<p>The WT1500 high-precision power analyser is the latest addition to the company&#8217;s WT series. It is also the most accurate in the portfolio with a power accuracy of +/- 0.038% [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/market-sectors/power/yokogawa-unveils-new-features-on-its-most-accurate-power-analyser-2026-07/\">Yokogawa unveils new features on its &#8220;most accurate&#8221; power analyser</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/22/wind-jellyfish-floats-and-glows-in-the-breeze/",
+    "summary": "image via juwanx, Instructables &#160; Wind Jellyfish seems like something you&#8217;d find hanging from your best friend&#8217;s front door, waiting to welcome you back. Check out juwanx write up on Instructables: I&#8217;ve always wanted to create a beautiful Jellyfish. If we talk about real jellyfish, they are fascinating creatures that gracefully drift through the ocean, [&#8230;]"
   },
   {
-    "title": "Intel planning more lay-offs",
-    "source": "Electronics Weekly",
+    "title": "OpenCircuitX: a free, open-source EDA platform for VHDL and Verilog",
+    "source": "Adafruit",
     "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/news/intel-planning-more-lay-offs-2026-07/",
-    "summary": "<p>Intel said yesterday it is planning more layoffs in its datacentre and AI group (DCG). The number of layoffs has not been stated. “As part of our broader strategy to become [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/intel-planning-more-lay-offs-2026-07/\">Intel planning more lay-offs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/22/opencircuitx-a-free-open-source-eda-platform-for-vhdl-and-verilog/",
+    "summary": "OpenCircuitX is a free, open-source EDA (Electronic Design Automation) platform for VHDL and Verilog: the hardware description languages (HDL) used to design digital logic. It is developed by OpenLabX and unifies an IDE-quality HDL editor, a visual circuit canvas, an RTL schematic viewer, a waveform viewer, and a full FPGA toolchain in one window, for [&#8230;]"
   },
   {
-    "title": "Siemens to buy De Facto Technologies",
-    "source": "Electronics Weekly",
+    "title": "Weathergotchi – an e-paper climate logger",
+    "source": "Adafruit",
     "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/news/business/sienens-to-buy-de-facto-technologies-2026-07/",
-    "summary": "<p>Siemens is to buy Defacto Technologies, a privately held EDA software company active in the RTL design field focused on automated SoC design creation and integration. The acquisition delivers capabilities [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/sienens-to-buy-de-facto-technologies-2026-07/\">Siemens to buy De Facto Technologies</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/22/weathergotchi-an-e-paper-climate-logger/",
+    "summary": "Michael Manning and Royyan Dzakiy have made an open-source, battery-powered temperature and humidity data logger with an always-on e-paper display, Weathergotchi, under an MIT license. It records ambient conditions over time, stores readings in non-volatile memory, and displays current data along with a history graph. The device is designed for low power consumption, over 1 [&#8230;]"
   },
   {
-    "title": "Farnell signs Hailo",
-    "source": "Electronics Weekly",
+    "title": "See inside insects with an electron microscope and a femtosecond laser",
+    "source": "Adafruit",
     "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/news/business/farnell-signs-hailo-2026-07/",
-    "summary": "<p>Farnell is to distribute Hailo’s AI edge processors  via its global sales network, e-commerce platforms, and engineering community. “Partnering with Hailo further strengthens Farnell’s commitment to delivering leading-edge technologies that [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/farnell-signs-hailo-2026-07/\">Farnell signs Hailo</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Mouser signs Parker Chomerics",
-    "source": "Electronics Weekly",
-    "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/news/business/mouser-signs-parker-chomerics-2026-07/",
-    "summary": "<p>Mouser has signed  a global distribution agreement with Parker Chomerics, the thermal interface materials (TIMs) and EMI specialist. Parker Chomerics supplies products for heat management and signal integrity, supporting electronic [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/mouser-signs-parker-chomerics-2026-07/\">Mouser signs Parker Chomerics</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Rad-Hard GaN HEMT for space",
-    "source": "Electronics Weekly",
-    "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/news/business/rad-hard-gan-hemt-for-space-2026-07/",
-    "summary": "<p>Infineon has brought out a rad-hard GaN HEMT)m driver designed for satellite and high-reliability space applications. The chip, designated RIC70115, supports both silicon (Si) and GaN MOSFET designs in low-side [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/rad-hard-gan-hemt-for-space-2026-07/\">Rad-Hard GaN HEMT for space</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Top Ten NEVs in Q1",
-    "source": "Electronics Weekly",
-    "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-nevs-in-q1-2026-07/",
-    "summary": "<p>Thanks to TrendForce for this one &#8211; the top NEVs in Q1:</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-nevs-in-q1-2026-07/\">Top Ten NEVs in Q1</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/22/see-inside-insects-with-an-electron-microscope-and-a-femtosecond-laser/",
+    "summary": "Ben Krasnow on the Applied Science YouTube Channel posts about seeing inside insects with an electron microscope and a femtosecond laser. I use a femtosecond laser like a lightsaber to cross section insects and inspect them with an electron microscope. What&#8217;s really inside an insect&#8217;s head? Femtosecond laser built by Oscillate Photonics: https://oscillatephotonics.com/ Open Beam [&#8230;]"
   },
   {
     "title": "Who’s Building that Data Center?",
@@ -131,13 +117,6 @@
     "date": "2026-07-21",
     "url": "https://hackaday.com/2026/07/21/counterfeit-retro-mainboards-with-fake-agp-slots-are-a-thing/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"468\" src=\"https://hackaday.com/wp-content/uploads/2026/07/fake_asrock_socket_478_mainboard_computer_retro_bus_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Sometimes that retro gaming itch strikes, and you just have to source components for a Pentium 4 build, like [Computer Retro Bus] did recently. Unfortunately, along the way he learned <a class=\"read-more\" href=\"https://hackaday.com/2026/07/21/counterfeit-retro-mainboards-with-fake-agp-slots-are-a-thing/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Neural Net Reads the Gas Meter",
-    "source": "Hackaday",
-    "date": "2026-07-21",
-    "url": "https://hackaday.com/2026/07/21/neural-net-reads-the-gas-meter/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/gas-meter-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In an ideal world, the role of technology would be to make all of our lives easier. And although all the ads suddenly appearing in our smart TVs and gaming <a class=\"read-more\" href=\"https://hackaday.com/2026/07/21/neural-net-reads-the-gas-meter/\">&#8230;read more</a>"
   },
   {
     "title": "Avalue RIVAR-1539 is a 15.6-inch fanless industrial panel PC powered by an Intel N150 Twin Lake processor",
@@ -173,13 +152,6 @@
     "date": "2026-07-21",
     "url": "https://www.embedded.com/pros-and-cons-of-mcu-hardware-and-software-peripherals/",
     "summary": "<p>How do you tell time? You might glance at a watch or look up at a clock. But for a microcontroller (MCU), it's not that simple. MCUs are integrated circuits that contain core independent peripherals, or CIPs. CIPs are specialized hardware circuits designed to perform a task with little to no CPU intervention. Every manufacturer [...]</p>\n<p>The post <a href=\"https://www.embedded.com/pros-and-cons-of-mcu-hardware-and-software-peripherals/\">Pros and Cons of MCU Hardware and Software Peripherals</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "$6m seed funding advances TinFab perovskite production",
-    "source": "Electronics Weekly",
-    "date": "2026-07-21",
-    "url": "https://www.electronicsweekly.com/news/business/6m-seed-funding-advances-tinfab-perovskite-production-2026-07/",
-    "summary": "<p>Kentucky-based Perovskite manufacturer, Sofab Inks, has raised $6m in seed funding. The round was led by strategic investor Cloudberry Ventures. At the same time, the company, which was spun out of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/6m-seed-funding-advances-tinfab-perovskite-production-2026-07/\">$6m seed funding advances TinFab perovskite production</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "UPDATED GUIDE: Adafruit NeoPixel Überguide #AdafruitLearningSystem @Adafruit",
@@ -229,41 +201,6 @@
     "date": "2026-07-21",
     "url": "https://blog.adafruit.com/2026/07/21/micropython-ported-to-the-pico-computer-3/",
     "summary": "Version 0.2 is the test version of a customized build of MicroPython that turns the Pico Computer 3 into a self-contained computer. Much of the functionality is ported from the PicoMite MMBasic firmware. Features: Unix-like Shell commands HDMI/DVI display USB touch screen, keyboard and mouse Audio (PCM5102 I2S DAC) RTC DS3231 SD card WiFi/Bluetooth (CYW43) [&#8230;]"
-  },
-  {
-    "title": "LightMap Monaco  #ArtTuesday",
-    "source": "Adafruit",
-    "date": "2026-07-21",
-    "url": "https://blog.adafruit.com/2026/07/21/lightmap-monaco-arttuesday/",
-    "summary": "LightMap Monaco is an interactive topographic light map of Monaco. 179 hand-cut PMMA cuboids sitting in a grid, each one the height of the terrain underneath it, each one lit individually by an RGBW LED. The whole thing reacts to touch, time of day, and city events. The angle was pretty cynical: Monaco has more [&#8230;]"
-  },
-  {
-    "title": "PocketMage PDA",
-    "source": "Adafruit",
-    "date": "2026-07-21",
-    "url": "https://blog.adafruit.com/2026/07/21/pocketmage-pda/",
-    "summary": "PocketMage is a personal digital assistant designed to reclaim the utility of pocketable computing without the distractions of a modern smartphone. It bridges the gap between a dedicated word processor and a Cyberdeck-style versatile development tool, centered around a full tactile QWERTY keyboard and a unique dual-display architecture. By utilizing an ESP32-S3, PocketMage offers a high-performance, [&#8230;]"
-  },
-  {
-    "title": "Fabien Sanglard Identifies Jurassic Park Computers in Excruciating Detail",
-    "source": "Adafruit",
-    "date": "2026-07-21",
-    "url": "https://blog.adafruit.com/2026/07/21/fabien-sanglard-identifies-jurassic-park-computers-in-excruciating-detail/",
-    "summary": "In this incredible breakdown FABIEN SANGLARD identifies and explains every computer seen in Jurassic Park, via fabiensanglard.net &#160; After I mentioned a Jurassic Park anecdote the other day, I watched the movie again. I must have seen it at least ten times now. This time, I researched every computer/software I spotted. EDIT: Just when I [&#8230;]"
-  },
-  {
-    "title": "A zero-CPU-overhead HM01B0 camera streaming library for RP2350",
-    "source": "Adafruit",
-    "date": "2026-07-21",
-    "url": "https://blog.adafruit.com/2026/07/21/a-zero-cpu-overhead-hm01b0-camera-streaming-library-for-rp2350/",
-    "summary": "HM01B0_CPUfree_Camera is a zero-CPU-overhead camera streaming library for Raspberry Pi RP2350 chips with a maximum 120fps. This Arduino library allows you to acquire continuous images from an HM01B0 camera without using the CPU at all. By fully automating the process using DMA and PIO, the RP2350&#8217;s two CPU cores can be freed from camera capture [&#8230;]"
-  },
-  {
-    "title": "The Film Packaging Archive",
-    "source": "Adafruit",
-    "date": "2026-07-21",
-    "url": "https://blog.adafruit.com/2026/07/21/the-film-packaging-archive/",
-    "summary": "GitHub user dekuNukem has compiled the Film Packaging Archive: Welcome! Here you can find high-resolution scans of: Photographic Film Packaging Instruction Manuals / Leaflets / Processing Envelopes Old &#38; new, popular &#38; obscure. Why Film packaging captures the evolution of photography, technology, and design trends. Its preservation helps document history, inspire modern designs, and support [&#8230;]"
   },
   {
     "title": "OMRON Advances Inspection Technology with NVIDIA Omniverse and Metropolis",
@@ -418,12 +355,5 @@
     "date": "2026-07-15",
     "url": "https://www.embedded.com/nvidia-expands-thor-modules-for-scalable-robotics-and-edge-ai/",
     "summary": "<p>T3000 and T2000 modules bring the Thor architecture to mainstream robotics and edge AI applications, optimized for size, power, and cost.</p>\n<p>The post <a href=\"https://www.embedded.com/nvidia-expands-thor-modules-for-scalable-robotics-and-edge-ai/\">Nvidia Expands Thor Modules for Scalable Robotics and Edge AI</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Arteris, Arm Partner to Strengthen Hardware Security Verification",
-    "source": "Embedded.com",
-    "date": "2026-07-15",
-    "url": "https://www.embedded.com/arteris-arm-partner-to-strengthen-hardware-security-verification/",
-    "summary": "<p>Arteris Inc. has expanded its long-standing collaboration with Arm to broaden the use of the Cycuity Radix hardware security assurance platform across future processor development programs. Building on several years of cooperation, the agreement extends the adoption of security verification technologies designed to identify hardware vulnerabilities during the design phase rather than after silicon implementation. [...]</p>\n<p>The post <a href=\"https://www.embedded.com/arteris-arm-partner-to-strengthen-hardware-security-verification/\">Arteris, Arm Partner to Strengthen Hardware Security Verification</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]

@@ -1,22 +1,16 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-22 12:18 UTC
+Generated: 2026-07-22 14:51 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-07-21 | Masked Visual Actions for Unified World Modeling | [link](https://arxiv.org/pdf/2607.19343v1) |
-| 2026-07-21 | InstructMixup: Instruction-Guided Salient Patch Editing for Robust Data Augmentation | [link](https://arxiv.org/pdf/2607.19324v1) |
-| 2026-07-21 | From Distances to Trajectories: Real-Time Signed Distance Function Mapping and Distance-Accelerated Motion Planning for UAVs | [link](https://arxiv.org/pdf/2607.19306v1) |
-| 2026-07-21 | No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation | [link](https://arxiv.org/pdf/2607.19288v1) |
-| 2026-07-21 | Stochastic Multi-Objective Kinodynamic Planning Against Adversaries | [link](https://arxiv.org/pdf/2607.19284v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82648 | 33059.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63195 | 25278.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44273 | 17709.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| Developer-Y/cs-video-courses | 82651 | 33060.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63193 | 25277.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44275 | 17710.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30104 | 12041.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16044 | 6417.7 | [link](https://github.com/zauberzeug/nicegui) |
 

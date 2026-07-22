@@ -1,12 +1,14 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-22 12:18 UTC
+Last Updated: 2026-07-22 14:51 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-22 | Building AI infrastructure with the Effingham County community | OpenAI | [link](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community) |
+| 2026-07-22 | Introducing OpenAI Presence | OpenAI | [link](https://openai.com/index/introducing-openai-presence) |
 | 2026-07-21 | Introducing the ChatGPT for small business program | OpenAI | [link](https://openai.com/index/introducing-chatgpt-small-business-program) |
 | 2026-07-21 | OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI | [link](https://openai.com/index/hugging-face-model-evaluation-security-incident) |
 | 2026-07-21 | David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC | OpenAI | [link](https://openai.com/index/david-velez-robin-vince-join-openai-boards) |
@@ -15,8 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-20 | Safety and alignment in an era of long-horizon models | OpenAI | [link](https://openai.com/index/safety-alignment-long-horizon-models) |
 | 2026-07-17 | A scorecard for the AI age | OpenAI | [link](https://openai.com/index/a-scorecard-for-the-ai-age) |
 | 2026-07-16 | Why teens deserve access to safe AI | OpenAI | [link](https://openai.com/index/why-teens-deserve-access-safe-ai) |
-| 2026-07-16 | How Cars24 scales conversations and builds faster with OpenAI | OpenAI | [link](https://openai.com/index/cars24) |
-| 2026-07-16 | Newer Models, Same Advantage | Hugging Face | [link](https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-22 | Compile Here, Run Everywhere: Crosstool-Ng | Hackaday | [link](https://hackaday.com/2026/07/22/compile-here-run-everywhere-crosstool-ng/) |
 | 2026-07-22 | Old TV Vacuum Tube Turned DIY X-Ray Machine | Hackaday | [link](https://hackaday.com/2026/07/22/old-tv-vacuum-tube-turned-diy-x-ray-machine/) |
 | 2026-07-22 | 60 FPS NES Emulator on ESP32 | Hackaday | [link](https://hackaday.com/2026/07/22/60-fps-nes-emulator-on-esp32/) |
 | 2026-07-22 | A Smarter DIY Air Filter | Hackaday | [link](https://hackaday.com/2026/07/21/a-smarter-diy-air-filter/) |
@@ -57,50 +58,38 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-22 | ACEMAGICIAN Kron K1 mini PC gets low-cost variant with AMD Ryzen R2544 CPU, 8GB DDR4, 256GB SSD | CNX Software | [link](https://www.cnx-software.com/2026/07/22/acemagician-kron-k1-mini-pc-gets-low-cost-variant-with-amd-ryzen-r2544-cpu-8gb-ddr4-256gb-ssd/) |
 | 2026-07-22 | Raspberry Pi Touch Display 2 – 10″ Portrait review, 3D printed VESA mount | CNX Software | [link](https://www.cnx-software.com/2026/07/22/raspberry-pi-touch-display-2-10%e2%80%b3-portrait-review-3d-printed-vesa-mount/) |
 | 2026-07-22 | NVIDIA increases the price of Jetson modules and devkits by up to 101% | CNX Software | [link](https://www.cnx-software.com/2026/07/22/nvidia-increases-the-price-of-jetson-modules-and-devkits-by-up-to-101/) |
-| 2026-07-22 | UK and Space Florida sign MoU for access to US space market | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/uk-and-space-florida-sign-mou-for-access-to-us-space-market-2026-07/) |
-| 2026-07-22 | Raspberry Pi goes big with 10-inch Touch Display 2 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/raspberry-pi-development/raspberry-pi-goes-big-screen-with-10-inch-touch-display-2-2026-07/) |
+| 2026-07-22 | Siemens Expands EDA Portfolio with Defacto Technologies Acquisition | Embedded.com | [link](https://www.embedded.com/siemens-expands-eda-portfolio-with-defacto-technologies-acquisition/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-07-21 | Masked Visual Actions for Unified World Modeling | [link](https://arxiv.org/pdf/2607.19343v1) |
-| 2026-07-21 | InstructMixup: Instruction-Guided Salient Patch Editing for Robust Data Augmentation | [link](https://arxiv.org/pdf/2607.19324v1) |
-| 2026-07-21 | From Distances to Trajectories: Real-Time Signed Distance Function Mapping and Distance-Accelerated Motion Planning for UAVs | [link](https://arxiv.org/pdf/2607.19306v1) |
-| 2026-07-21 | No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation | [link](https://arxiv.org/pdf/2607.19288v1) |
-| 2026-07-21 | Stochastic Multi-Objective Kinodynamic Planning Against Adversaries | [link](https://arxiv.org/pdf/2607.19284v1) |
-| 2026-07-21 | Eversion-based robots can enable safe access,steering and endoscopic imaging within the spinal subarachnoid space | [link](https://arxiv.org/pdf/2607.19274v1) |
-| 2026-07-21 | DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models | [link](https://arxiv.org/pdf/2607.19237v1) |
-| 2026-07-21 | In-Context Time Series Classification with Random Convolutional Features | [link](https://arxiv.org/pdf/2607.19234v1) |
-| 2026-07-21 | IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer | [link](https://arxiv.org/pdf/2607.19228v1) |
-| 2026-07-21 | Computing on the Fly: Navigating a Vision for the Future of Drone Computing | [link](https://arxiv.org/pdf/2607.19213v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-22 | wmkdfmk/robotics-vla-task-23-competitive-v3 | 0 | 0 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v3) |
+| 2026-07-22 | JackieMM/RoboTwin-pi05-30000-checkpoints | 0 | 0 | [link](https://huggingface.co/JackieMM/RoboTwin-pi05-30000-checkpoints) |
+| 2026-07-22 | tiao55/robotics-vla-task-23-basic | 0 | 0 | [link](https://huggingface.co/tiao55/robotics-vla-task-23-basic) |
+| 2026-07-22 | EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b | 0 | 0 | [link](https://huggingface.co/EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b) |
+| 2026-07-22 | Kei-Sanada/robotics-vla-task-23-basic | 0 | 0 | [link](https://huggingface.co/Kei-Sanada/robotics-vla-task-23-basic) |
 | 2026-07-22 | Yysrc/robotwin_all_action_30000 | 0 | 0 | [link](https://huggingface.co/Yysrc/robotwin_all_action_30000) |
 | 2026-07-22 | puppet-robotics/golf-model-200-obs-rgb | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb) |
 | 2026-07-22 | RobotisSW/Task_700003_700005_pick_place_peanut_stage2_act_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_700003_700005_pick_place_peanut_stage2_act_100k) |
 | 2026-07-22 | OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_Mutual | 0 | 0 | [link](https://huggingface.co/OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_Mutual) |
 | 2026-07-22 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 24 | 2 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
-| 2026-07-22 | wangqiwu/blue_diffusion_robot | 0 | 0 | [link](https://huggingface.co/wangqiwu/blue_diffusion_robot) |
-| 2026-07-22 | openbmb/MiniCPM-RobotManip | 58 | 154 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
-| 2026-07-22 | fangcaotank/robotics-vla-task-23-qwen3 | 0 | 0 | [link](https://huggingface.co/fangcaotank/robotics-vla-task-23-qwen3) |
-| 2026-07-22 | JasonYang66/VLAct-Qwen3vl4b-OFT-RoboDojo | 0 | 0 | [link](https://huggingface.co/JasonYang66/VLAct-Qwen3vl4b-OFT-RoboDojo) |
-| 2026-07-22 | EmpathicRobotics/vla-1.7b-qwen3-v2 | 0 | 0 | [link](https://huggingface.co/EmpathicRobotics/vla-1.7b-qwen3-v2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| copper-project/copper-rs | 1421 | Rust | 568.5 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 892 | Python | 356.9 | [link](https://github.com/mosaico-labs/mosaico) |
+| awslabs/awsome-distributed-ai | 465 | Shell | 186.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 170 | Python | 68.1 | [link](https://github.com/ros-claw/rosclaw) |
 | arpitg1304/forge | 157 | Python | 62.9 | [link](https://github.com/arpitg1304/forge) |
-| commaai/openpilot | 63195 | Python | 25278.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63193 | Python | 25277.3 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16044 | Python | 6417.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15531 | C++ | 6212.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15532 | C++ | 6212.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14287 | C++ | 5714.9 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11162 | Rust | 4464.9 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7728 | Python | 3091.3 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4217 | Python | 1686.9 | [link](https://github.com/RLinf/RLinf) |
+| kornia/kornia | 11282 | Python | 4512.9 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -135,8 +124,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-07-21 | Firmware Integration Engineer, Asia | Figure AI | Asia | [link](https://job-boards.greenhouse.io/figureai/jobs/4698860006) |
 | 2026-07-20 | Deployment Logistics Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4666290006) |
-| 2026-07-20 | Helix Data Creator | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4627111006) |
 | 2026-07-20 | Helix Data Creator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4585080006) |
+| 2026-07-20 | Helix Data Creator | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4627111006) |
 | 2026-07-20 | Humanoid Robot Operator (Afternoon Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4644956006) |
 | 2026-07-20 | Humanoid Robot Operator - Commercial Launch Team | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4665205006) |
 | 2026-07-20 | Humanoid Robot Operator - Commercial Site Team (LA)  | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4698238006) |
