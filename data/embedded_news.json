@@ -1,5 +1,12 @@
 [
   {
+    "title": "FLOSS Weekly Episode 876: There Is No Money Fairy",
+    "source": "Hackaday",
+    "date": "2026-07-22",
+    "url": "https://hackaday.com/2026/07/22/floss-weekly-episode-876-there-is-no-money-fairy/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>This week Jonathan chats with Michael Meeks about Collabora! What&#8217;s the origin story in this consulting company, why do they have an outstanding office suite, and where is the world <a class=\"read-more\" href=\"https://hackaday.com/2026/07/22/floss-weekly-episode-876-there-is-no-money-fairy/\">&#8230;read more</a>"
+  },
+  {
     "title": "The Need for Speed: Internet Speed Measurement (or DIY?)",
     "source": "Hackaday",
     "date": "2026-07-22",
@@ -40,13 +47,6 @@
     "date": "2026-07-22",
     "url": "https://hackaday.com/2026/07/21/a-smarter-diy-air-filter/",
     "summary": "<div><img alt=\"A vaguely perforated metal cylinder sits on a wooden box with a grey cylinder and LCD display atop it. There are holes in the top of the grey cylinder for air to flow through.\" class=\"attachment-large size-large wp-post-image\" height=\"600\" src=\"https://hackaday.com/wp-content/uploads/2026/07/AirSense-ESP32-Air-Purifier.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As predominantly indoor creatures, it&#8217;s important to maintain a healthy habitat for the hacker. [Kishan Pratap Singh] designed a clever solution in AirSense, an ESP32-powered air filter. If you&#8217;re thinking <a class=\"read-more\" href=\"https://hackaday.com/2026/07/21/a-smarter-diy-air-filter/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Open Source Vacuum Avoids Cloud",
-    "source": "Hackaday",
-    "date": "2026-07-22",
-    "url": "https://hackaday.com/2026/07/21/open-source-vacuum-avoids-cloud/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"488\" src=\"https://hackaday.com/wp-content/uploads/2026/07/omwoo-main.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As more and more of the technology that we paid for turns becomes a subscription, there&#8217;s slowly been a momentum shift in the open source world of building replacements for <a class=\"read-more\" href=\"https://hackaday.com/2026/07/21/open-source-vacuum-avoids-cloud/\">&#8230;read more</a>"
   },
   {
     "title": "Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90",
@@ -91,74 +91,53 @@
     "summary": "<p>Siemens has signed an agreement to acquire Defacto Technologies, a privately held electronic design automation (EDA) software company specializing in automated system-on-chip (SoC) design creation at the register-transfer level (RTL). The acquisition strengthens Siemens' EDA portfolio by adding technologies that automate SoC development, improve implementation planning at earlier design stages, and enhance verification throughout the [...]</p>\n<p>The post <a href=\"https://www.embedded.com/siemens-expands-eda-portfolio-with-defacto-technologies-acquisition/\">Siemens Expands EDA Portfolio with Defacto Technologies Acquisition</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Phantom Twist drone spins to near invisibility",
-    "source": "Electronics Weekly",
+    "title": "An IR NeoPixel controller dongle",
+    "source": "Adafruit",
     "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/phantom-twist-drone-spins-to-near-invisibility-2026-07/",
-    "summary": "<p>Like a propeller, this new drone spins too fast for human eyes to see it clearly. But you will hear it whine! It&#8217;s the &#8220;Phantom Twist&#8221; developed by Northwestern University, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/phantom-twist-drone-spins-to-near-invisibility-2026-07/\">Phantom Twist drone spins to near invisibility</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/22/an-ir-neopixel-controller-dongle/",
+    "summary": "David Johnson-Davies on Technoblogy has designed a NeoPixel driver, controlled by an infrared remote control, that fits on a small USB dongle that plugs into a USB-C power adapter to power the LEDs. It will drive a chain of several high-power NeoPixel LEDs; for example, to provide controllable illumination in a room. The IR remote [&#8230;]"
   },
   {
-    "title": "Redwire opens research and microgravity payload development facility",
-    "source": "Electronics Weekly",
+    "title": "Running DOOM on a custom CPU and going viral",
+    "source": "Adafruit",
     "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/news/research-news/redwire-opens-research-and-microgravity-payload-development-facility-2026-07/",
-    "summary": "<p>Redwire, the aerospace and defence company, has opened a new 30,000 square foot vertically-integrated research and microgravity payload development facility in Georgetown, Indiana. The facility, says the company, will have [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/research-news/redwire-opens-research-and-microgravity-payload-development-facility-2026-07/\">Redwire opens research and microgravity payload development facility</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/22/running-doom-on-a-custom-cpu-and-going-viral/",
+    "summary": "Doom is a video game made by id Software that released in 1993. It was a revolution in gaming that spread across the world and defined the modern FPS. Its popularity has given rise to the saying &#8220;Doom can run on anything&#8221;. To prove this point Doom has been ported to almost everything, from microcontrollers, [&#8230;]"
   },
   {
-    "title": "What Is The Golden Pitch?",
-    "source": "Electronics Weekly",
+    "title": "FreeInk: an open ecosystem for e-readers",
+    "source": "Adafruit",
     "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/delusions/what-is-the-golden-pitch-2026-07/",
-    "summary": "<p>For someone who sees AI as training software programmes on more data than before, the investment in it is mystifying to me. Like everyone, I’m enjoying the superior  search capabilities [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/delusions/what-is-the-golden-pitch-2026-07/\">What Is The Golden Pitch?</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/22/freeink-an-open-ecosystem-for-e-readers/",
+    "summary": "FreeInk is an open-source collective building the software, firmware and hardware for e-paper readers. Every layer ships in the open, so anyone can pick it up, extend it, and make it their own. Community-built, fully open-source firmware for budget e-paper readers, with more features, more control, and an open base anyone can build on. FreeInk [&#8230;]"
   },
   {
-    "title": "UK and Space Florida sign MoU for access to US space market",
-    "source": "Electronics Weekly",
+    "title": "Understanding the Microstructure of Ingestive Behavior #WearableWednesday",
+    "source": "Adafruit",
     "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/news/business/uk-and-space-florida-sign-mou-for-access-to-us-space-market-2026-07/",
-    "summary": "<p>The UK and Florida are partnering in an initiative to help space companies develop ideas into commercial reality: the UK Government and Space Florida have signed of a Memorandum of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/uk-and-space-florida-sign-mou-for-access-to-us-space-market-2026-07/\">UK and Space Florida sign MoU for access to US space market</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/22/understanding-the-microstructure-of-ingestive-behavior-wearablewednesday/",
+    "summary": "Adeleke Justin Akinkurolere uses sensors on his wrist and jaw to collect data while chewing on a snack. via The University of Rhode Island The University of Rhode Island shares how a machine-learning-enabled wearable was developed to monitor and understand ingestive behaviors. The research team included Kathleen Melanson, URI nutrition professor; Theodore Walls, URI psychology [&#8230;]"
   },
   {
-    "title": "Raspberry Pi goes big with 10-inch Touch Display 2",
-    "source": "Electronics Weekly",
+    "title": "The source code for the Apollo 11 Command and Lunar Modules",
+    "source": "Adafruit",
     "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/news/products/raspberry-pi-development/raspberry-pi-goes-big-screen-with-10-inch-touch-display-2-2026-07/",
-    "summary": "<p>Raspberry Pi has expanded its range of multi-touch capacitive touch panes with a 10-inch Touch Display 2. You attach a Raspberry Pi to the rear of the display, via four [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/raspberry-pi-development/raspberry-pi-goes-big-screen-with-10-inch-touch-display-2-2026-07/\">Raspberry Pi goes big with 10-inch Touch Display 2</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/22/the-source-code-for-the-apollo-11-command-and-lunar-modules/",
+    "summary": "Chris Garry has posted the original Apollo 11 guidance computer (AGC) source code for Command Module (Comanche055) and Lunar Module (Luminary099). Digitized by the folks at Virtual AGC and MIT Museum. The goal is to be a repo for the original Apollo 11 source code. As such, PRs are welcome for any issues identified between the transcriptions in [&#8230;]"
   },
   {
-    "title": "Yokogawa unveils new features on its “most accurate” power analyser",
-    "source": "Electronics Weekly",
+    "title": "A secure USB drive that hides itself",
+    "source": "Adafruit",
     "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/market-sectors/power/yokogawa-unveils-new-features-on-its-most-accurate-power-analyser-2026-07/",
-    "summary": "<p>The WT1500 high-precision power analyser is the latest addition to the company&#8217;s WT series. It is also the most accurate in the portfolio with a power accuracy of +/- 0.038% [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/market-sectors/power/yokogawa-unveils-new-features-on-its-most-accurate-power-analyser-2026-07/\">Yokogawa unveils new features on its &#8220;most accurate&#8221; power analyser</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/22/a-secure-usb-drive-that-hides-itself/",
+    "summary": "Ryan Walker created Phantomdrive as many places don’t respect privacy laws &#8211; in certain situations you may be forced to unencrypt your media, or worse, assumed to be guilty. A Veracrypt hidden volume is useful in the former situation, but not the latter. Phantomdrive is a completely open source USB drive that appears as an 8 GB [&#8230;]"
   },
   {
-    "title": "Intel planning more lay-offs",
-    "source": "Electronics Weekly",
+    "title": "Modding the Unicomp Mini M keyboard with CircuitPython",
+    "source": "Adafruit",
     "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/news/intel-planning-more-lay-offs-2026-07/",
-    "summary": "<p>Intel said yesterday it is planning more layoffs in its datacentre and AI group (DCG). The number of layoffs has not been stated. “As part of our broader strategy to become [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/intel-planning-more-lay-offs-2026-07/\">Intel planning more lay-offs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Siemens to buy De Facto Technologies",
-    "source": "Electronics Weekly",
-    "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/news/business/sienens-to-buy-de-facto-technologies-2026-07/",
-    "summary": "<p>Siemens is to buy Defacto Technologies, a privately held EDA software company active in the RTL design field focused on automated SoC design creation and integration. The acquisition delivers capabilities [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/sienens-to-buy-de-facto-technologies-2026-07/\">Siemens to buy De Facto Technologies</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Farnell signs Hailo",
-    "source": "Electronics Weekly",
-    "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/news/business/farnell-signs-hailo-2026-07/",
-    "summary": "<p>Farnell is to distribute Hailo’s AI edge processors  via its global sales network, e-commerce platforms, and engineering community. “Partnering with Hailo further strengthens Farnell’s commitment to delivering leading-edge technologies that [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/farnell-signs-hailo-2026-07/\">Farnell signs Hailo</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Mouser signs Parker Chomerics",
-    "source": "Electronics Weekly",
-    "date": "2026-07-22",
-    "url": "https://www.electronicsweekly.com/news/business/mouser-signs-parker-chomerics-2026-07/",
-    "summary": "<p>Mouser has signed a global distribution agreement with Parker Chomerics, the thermal interface materials (TIMs) and EMI specialist. Parker Chomerics supplies products for heat management and signal integrity, supporting electronic [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/mouser-signs-parker-chomerics-2026-07/\">Mouser signs Parker Chomerics</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/22/modding-the-unicomp-mini-m-keyboard-with-circuitpython/",
+    "summary": "Unicomp is the heir to the IBM Buckling Spring legacy. This style of keyboard has a distinctive sound &#38; feel which some people just can&#8217;t get enough of. Jeff epler one of them, having used a crusty old Model M for at least a decade at work. Their &#8220;Mini M&#8221; is an 87-key (&#8220;tenkeyless&#8221;) layout, [&#8230;]"
   },
   {
     "title": "A Linux utility to control USB power per-port on smart USB hubs",
@@ -194,55 +173,6 @@
     "date": "2026-07-22",
     "url": "https://blog.adafruit.com/2026/07/22/adafruit-ultimate-gps-hat-for-raspberry-pi/",
     "summary": "Use this guide to find yourself, and your Pi, using a GPS HAT It&#8217;s 10PM, do you know where your Pi is? If you had this Pi HAT, you would! This new HAT from Adafruit adds our celebrated Ultimate GPS on it, so you can add precision time and location to most Raspberry Pi boards [&#8230;]"
-  },
-  {
-    "title": "Deciding to go back to OS X 10.9 Mavericks",
-    "source": "Adafruit",
-    "date": "2026-07-22",
-    "url": "https://blog.adafruit.com/2026/07/22/deciding-to-go-back-to-os-x-10-9-mavericks/",
-    "summary": "Jonathan (Wowfunhappy) was slowly disliking Apple macOS updates. The experience was being chipped away with each update. I experimented with three candidates inside Virtual Machines: OS X 10.6 Snow Leopard, OS X 10.8 Mountain Lion, and OS X 10.9 Mavericks. Mavericks was the chosen OS Jonathan wanted to go back to. Then the hardware needed [&#8230;]"
-  },
-  {
-    "title": "The Brownstone Clock — a Modern Take on the Berlin Set Theory Clock",
-    "source": "Adafruit",
-    "date": "2026-07-22",
-    "url": "https://blog.adafruit.com/2026/07/22/the-brownstone-clock-a-modern-take-on-the-berlin-set-theory-clock/",
-    "summary": "We&#8217;re really digging this clock project from maker tpw037 up on Instructables. Super creative and well-executed interpretation of The Mengenlehreuhr. I had been experimenting with LED matrix clocks for a while — a word clock, a weather display, various iterations — when the thought hit me: a building facade and a set theory clock are [&#8230;]"
-  },
-  {
-    "title": "No 3D Hangouts This Week",
-    "source": "Adafruit",
-    "date": "2026-07-22",
-    "url": "https://blog.adafruit.com/2026/07/22/no-3d-hangouts-this-week-23/",
-    "summary": "There will be no 3D hangouts live stream this week. If you missed last weeks stream, you can watch it here or on YouTube. Remember to make a great day! 3D Hangouts – Flight Tracker, Voicebox FX and Noodle Numchucks https://www.youtube.com/live/-vh0ZaJmy5E This week @adafruit Pedro continues his work on the flight tracker with lunar transit [&#8230;]"
-  },
-  {
-    "title": "I built a true-scale atlas of the universe (8.4M real stars) in about a week with Fable",
-    "source": "Adafruit",
-    "date": "2026-07-22",
-    "url": "https://blog.adafruit.com/2026/07/22/i-built-a-true-scale-atlas-of-the-universe-8-4m-real-stars-in-about-a-week-with-fable/",
-    "summary": "Chris Zaharia got his hands on Anthropic&#8217;s Claude Fable model. Then things started to happen: When I got access to Fable, I wanted to test it on something ridiculous. Why not the universe itself? The result is an atlas that renders everything at its measured size, distance, and speed, one continuous zoom from the cosmic [&#8230;]"
-  },
-  {
-    "title": "Wind Jellyfish Floats and Glows in the Breeze",
-    "source": "Adafruit",
-    "date": "2026-07-22",
-    "url": "https://blog.adafruit.com/2026/07/22/wind-jellyfish-floats-and-glows-in-the-breeze/",
-    "summary": "image via juwanx, Instructables &#160; Wind Jellyfish seems like something you&#8217;d find hanging from your best friend&#8217;s front door, waiting to welcome you back. Check out juwanx write up on Instructables: I&#8217;ve always wanted to create a beautiful Jellyfish. If we talk about real jellyfish, they are fascinating creatures that gracefully drift through the ocean, [&#8230;]"
-  },
-  {
-    "title": "OpenCircuitX: a free, open-source EDA platform for VHDL and Verilog",
-    "source": "Adafruit",
-    "date": "2026-07-22",
-    "url": "https://blog.adafruit.com/2026/07/22/opencircuitx-a-free-open-source-eda-platform-for-vhdl-and-verilog/",
-    "summary": "OpenCircuitX is a free, open-source EDA (Electronic Design Automation) platform for VHDL and Verilog: the hardware description languages (HDL) used to design digital logic. It is developed by OpenLabX and unifies an IDE-quality HDL editor, a visual circuit canvas, an RTL schematic viewer, a waveform viewer, and a full FPGA toolchain in one window, for [&#8230;]"
-  },
-  {
-    "title": "Weathergotchi – an e-paper climate logger",
-    "source": "Adafruit",
-    "date": "2026-07-22",
-    "url": "https://blog.adafruit.com/2026/07/22/weathergotchi-an-e-paper-climate-logger/",
-    "summary": "Michael Manning and Royyan Dzakiy have made an open-source, battery-powered temperature and humidity data logger with an always-on e-paper display, Weathergotchi, under an MIT license. It records ambient conditions over time, stores readings in non-volatile memory, and displays current data along with a history graph. The device is designed for low power consumption, over 1 [&#8230;]"
   },
   {
     "title": "Avalue RIVAR-1539 is a 15.6-inch fanless industrial panel PC powered by an Intel N150 Twin Lake processor",

@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-22 19:09 UTC
+Last Updated: 2026-07-22 20:50 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,6 +8,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-07-22 | Building AI infrastructure with the Effingham County community | OpenAI | [link](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community) |
+| 2026-07-22 | How news organizations are using AI to advance their vital missions | OpenAI | [link](https://openai.com/index/how-news-organizations-are-using-ai) |
 | 2026-07-22 | Advancing the next era of national science | OpenAI | [link](https://openai.com/index/advancing-the-next-era-of-national-science) |
 | 2026-07-22 | Introducing OpenAI Presence | OpenAI | [link](https://openai.com/index/introducing-openai-presence) |
 | 2026-07-21 | Introducing the ChatGPT for small business program | OpenAI | [link](https://openai.com/index/introducing-chatgpt-small-business-program) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-21 | The State of Simulation for Physical AI: An Overview | Hugging Face | [link](https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai) |
 | 2026-07-21 | Grabette: an open system to record robot-manipulation data | Hugging Face | [link](https://huggingface.co/blog/grabette) |
 | 2026-07-20 | Safety and alignment in an era of long-horizon models | OpenAI | [link](https://openai.com/index/safety-alignment-long-horizon-models) |
-| 2026-07-17 | A scorecard for the AI age | OpenAI | [link](https://openai.com/index/a-scorecard-for-the-ai-age) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-22 | FLOSS Weekly Episode 876: There Is No Money Fairy | Hackaday | [link](https://hackaday.com/2026/07/22/floss-weekly-episode-876-there-is-no-money-fairy/) |
 | 2026-07-22 | The Need for Speed: Internet Speed Measurement (or DIY?) | Hackaday | [link](https://hackaday.com/2026/07/22/the-need-for-speed-internet-speed-measurement-or-diy/) |
 | 2026-07-22 | Dress Up Your YubiKey With This Web-Based Tool | Hackaday | [link](https://hackaday.com/2026/07/22/dress-up-your-yubikey-with-this-web-based-tool/) |
 | 2026-07-22 | Compile Here, Run Everywhere: Crosstool-Ng | Hackaday | [link](https://hackaday.com/2026/07/22/compile-here-run-everywhere-crosstool-ng/) |
 | 2026-07-22 | Old TV Vacuum Tube Turned DIY X-Ray Machine | Hackaday | [link](https://hackaday.com/2026/07/22/old-tv-vacuum-tube-turned-diy-x-ray-machine/) |
 | 2026-07-22 | 60 FPS NES Emulator on ESP32 | Hackaday | [link](https://hackaday.com/2026/07/22/60-fps-nes-emulator-on-esp32/) |
 | 2026-07-22 | A Smarter DIY Air Filter | Hackaday | [link](https://hackaday.com/2026/07/21/a-smarter-diy-air-filter/) |
-| 2026-07-22 | Open Source Vacuum Avoids Cloud | Hackaday | [link](https://hackaday.com/2026/07/21/open-source-vacuum-avoids-cloud/) |
 | 2026-07-22 | Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90 | CNX Software | [link](https://www.cnx-software.com/2026/07/22/arduino-uno-q-arcade-bundle-lets-you-build-a-custom-retro-gaming-console/) |
 | 2026-07-22 | ACEMAGICIAN Kron K1 mini PC gets low-cost variant with AMD Ryzen R2544 CPU, 8GB DDR4, 256GB SSD | CNX Software | [link](https://www.cnx-software.com/2026/07/22/acemagician-kron-k1-mini-pc-gets-low-cost-variant-with-amd-ryzen-r2544-cpu-8gb-ddr4-256gb-ssd/) |
 | 2026-07-22 | Raspberry Pi Touch Display 2 – 10″ Portrait review, 3D printed VESA mount | CNX Software | [link](https://www.cnx-software.com/2026/07/22/raspberry-pi-touch-display-2-10%e2%80%b3-portrait-review-3d-printed-vesa-mount/) |
@@ -77,7 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-22 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 24 | 3 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
+| 2026-07-22 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 24 | 4 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 | 2026-07-22 | mario-d-robot/next-scene-qwen-image-lora-2509 | 0 | 0 | [link](https://huggingface.co/mario-d-robot/next-scene-qwen-image-lora-2509) |
 | 2026-07-22 | latiao1999/robotics-vla-task-23 | 0 | 0 | [link](https://huggingface.co/latiao1999/robotics-vla-task-23) |
 | 2026-07-22 | EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b | 0 | 0 | [link](https://huggingface.co/EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b) |
@@ -98,7 +98,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | ros-claw/rosclaw | 170 | Python | 68.1 | [link](https://github.com/ros-claw/rosclaw) |
 | arpitg1304/forge | 157 | Python | 62.9 | [link](https://github.com/arpitg1304/forge) |
 | commaai/openpilot | 63193 | Python | 25277.3 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 16043 | Python | 6417.3 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16042 | Python | 6416.9 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15533 | C++ | 6213.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14288 | C++ | 5715.3 | [link](https://github.com/google-deepmind/mujoco) |
 
@@ -124,11 +124,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-22 | Agibot Expands Embodied AI Portfolio With Four New Products - AI Business | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFQxZDVFOXc1RHVDQnVkLXprNXFFR1ZkdnZudnVEbUU2ZThOY21yWHNWcER6cWZkblNTMUxpYzZBQ2hkemNFaldJYkNjMmxrZmdSYVdZNDdYdHZKWGFnSmF2N3lvLVRrbjQ1bUctNl8xdVgwOGhBN0QwUUI2QXBzZ1hRRDZob19K?oc=5) |
 | 2026-07-22 | Google Cloud and NVIDIA power microagi's embodied AI ambitions - Tech.eu | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRU9kWmJsNmx6R2hJOG43bmVQRWpCcG1jcEJCYV9hZ3QxckI2RUxDZ0FsdFhwaU80UFRBWUJoQzBOelpoUHRjejVrQ3MyZm1hZmNyT2ZqbUR4SUJtZXpLSVFrc0RHaUNRTTlYREtoNHBWVGh5dk9uM3JhS0dWSVlnaWJoOWUyZ1FiX2hXLVJpWHdkWk0?oc=5) |
 | 2026-07-22 | This UK Startup Just Became Europe's First Humanoid Robot Unicorn — Worth $1.35 Billion In 2 Years - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZTUzVzdVemZTYjFNRDBjVENoeEJySExQTnRmdi1JQmpyMXRESUh6bmJSUEFFTEpBcDA3eEoyTEljUFNBa0kzeDFUUEJISE5HTGJCRkFaaVBod3oxZnN1aWlSVzNPY21qZkx2N2lYbVF6aG1fbVB3bG5Vb1djTFZidzRCZ2ZkR29MSzFiaHoxVHVKTnpJZEctaFhpSG5CdHNGdGw3ZkwzMzk4amxwSHhUYzl5SGRydXhwWDdkZTFSTjJacGR4a3ZWUEljc1NMTDRMcUE?oc=5) |
+| 2026-07-22 | China develops more than half of the world's humanoid robots: report - The Daily Star | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxPNlF4TkdwRU9ja3ZJVE9LcVRLN1dxMjVGalFka1BYMzJES3RUdWN4VE12ajI5YzViTWM2LVp2UXc0RTBfUE5TRE45SHpXbThiQXM1NWI1dWtLVTNXV09RU3I2Z3ZKZjMzRHU5bktLMm5tTTlxWFBpNjdPNEgyRzljZWVPTkx3c1lDSzNyVkhublVCbTFfVGVwN3BPLXRkMFV2NHhjZE9FajVJRjllY2pic2hfNlQxNDVaNnc?oc=5) |
 | 2026-07-21 | New Unicorn! Humanoid secures €133 million at €1.1 billion valuation to scale industrial robotics and physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUWF3QVBJNXp5STRDcHJNUDZISjlQc09xRGtnLUl1UXU0WlJNb1dPWVVSRWk2YUtGMU4ydWYwaXQzUG1yZ29XYk5qeHVKUDktUTNZQ09nNFBRM1J4b1BEZXRwaTVLTWZnYXlWMjZSZUQxb2xRbm1YS2NlZHlUVWlEekhuZmRDLWR0MUZGX2pSQXhsWC1tZHdPUnQ1MGYtRHU0T3RTXzBNQzNZSERPN3NGVHFfUmJXc2RvNmhvRTVXOWp4cHBUWDRreDJZN0FNX3A2U2FKSmlYOFFPdFJrWjFQZmRLSQ?oc=5) |
 | 2026-07-21 | Robotics Startup Humanoid Joins The Billion-Dollar Physical AI Club - Finimize | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2hUZXpxMjZ5LWZQWVpsOHV4SUdSSzlwX2g3dElmYmg3X1kxYWhDb3N0NG9xd1BTM3ludXlndEdMeXVKOGdwempTNmdrMVZuWll5YXRKdzhoVEV6bXhNSmo3TzNTcThvejgxcERUVHZhWC05bHZ2bXlhMXdSeklGNjdzeEwzRjczRnFfWVlQX3ZMbm8talNoR0lHbzQ?oc=5) |
 | 2026-07-21 | Applied Intuition: Physical AI is the Future - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWJJOTVjTWFhajZ6RWtMZGp4TU0xbi1Fd1R6R05BeWJwTnVmZmpyTnZDaHF2al9fakVKMzdxdDhydXI3NUVhNXROSm4yMG9iNG1zRXFrenZIYzNSV0phYXRfdkY2TDdMd1dHaXJGRVc3eEZCaWV6ZlVELXEzWHZ1VGF4UEl1X1QtVGV2SFRDbEliQlhHQVhqUFJzNjVkeHFCM3lTT1lkdnpQQQ?oc=5) |
 | 2026-07-21 | Elite Robots Collaborates with Generalist AI on Next-Gen Embodied AI - PR Newswire UK | embodied ai startup | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxPZzNhZmhNOWpURVZnWTRGRzhGZmNpQjVhVEduN1ZXMUx5bDlqZXZVb3hhUXZNV0lYMHkyMmpUdENJb1UyR05wVGJ2el9qXzRtZmNoMUYzUnVZQnBSTEQ3eWt4Y1VsU1ZkWWxGbUJVSHcwRWxwbnhJTXdkM2dCYnNtajBob3ZCVTdGRGQxZ01ya09hNS15MHRQbzg0SHR3clVYRFQ3dHBYQk51NGJwSVVSOTZ0WHhzN3l3SVBWZ3d3clNxZ3Ns?oc=5) |
-| 2026-07-21 | Embodied AI startup GigaAI plans Hong Kong IPO at US$3b valuation - The Standard (HK) | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxOczRISEtsc2tSRWJVbW1tOVhDOFViaGx3U2ltQnhuaHNPWHQyWmV0UHN2aTlPUTJjMkxtZFA1YW9ZUkRRVnJsQUVZUmlRYnlCN3duNHlJSGVEQXA0MzFEYXg3bFE2Y3p6cXExRGdvY3ZHaC1WSUl5RmM4Njd6eGVSZ3R1WHZzc0tLaWJiVUR5bXo1TDNXbGFGRmktM2R3d1ZOQUpHQ2J5MXdDWkFIZ1dVa0Rmc0Y0ZTJ4T1pUZTJ3?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
