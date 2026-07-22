@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-22 07:27 UTC
+Generated: 2026-07-22 10:10 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,10 +14,10 @@ Generated: 2026-07-22 07:27 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82643 | 33057.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63193 | 25277.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44270 | 17708.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30101 | 12040.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 82646 | 33058.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63195 | 25278.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44272 | 17708.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30104 | 12041.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16042 | 6416.9 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
@@ -26,8 +26,8 @@ Generated: 2026-07-22 07:27 UTC
 | jovaldivieso/double_integrator_casadi_diffusion_policy | 680 | 204.3 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
 | zhijieq/directional-navigation | 412 | 123.7 | [link](https://huggingface.co/zhijieq/directional-navigation) |
 | SEU-PAISys/Embodied.cpp | 260 | 78.9 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
-| tencent/Hy-Embodied-RxBrain-1.0 | 204 | 70.9 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
-| openbmb/MiniCPM-RobotManip | 58 | 47.3 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
+| tencent/Hy-Embodied-RxBrain-1.0 | 204 | 71.1 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
+| openbmb/MiniCPM-RobotManip | 58 | 47.5 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-07-22 07:27 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-22 | The Physical AI Closed Loop Is Finally Live: Rimnot and Yuantu Announce 10K-Unit Industrial Robot Deployment Plan for Server Manufacturing - Pandaily | physical ai startup | [link](https://news.google.com/rss/articles/CBMidEFVX3lxTE95X2hsbTZWRWtpUHhIZk9iamxKVlBVR29VVEZ1R1JWWWpfeG9QX0w4bm04Ti1vYjVjakN2MHdHNExzNkMzSkVhVWhmOUdzUE03WnA5WTJ1Tk1TUEpTT1RubXlicnBIaTY3T29iQUYxbmhHV1FO?oc=5) |
 | 2026-07-22 | Startups Transform Tacit Knowledge into AI Data for Industry - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObC1YaVVVbHZuV2dPM2I3M01MdDVuNzdYZGhsMkNYb2JJaU9lTm1xOHFWanBaVmdaZEluYzZzYlVndWVkVmhOaUJJRWl6TmQzWkNtWU9QZUNISWpEdFhWSjBkS19ReTAyLXp3UGdjY2hReFVuWTFueS1qb0RsY25hcWowRGM3QUNv?oc=5) |
-| 2026-07-21 | Robotics Startup Humanoid Joins The Billion-Dollar Physical AI Club - Finimize | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2hUZXpxMjZ5LWZQWVpsOHV4SUdSSzlwX2g3dElmYmg3X1kxYWhDb3N0NG9xd1BTM3ludXlndEdMeXVKOGdwempTNmdrMVZuWll5YXRKdzhoVEV6bXhNSmo3TzNTcThvejgxcERUVHZhWC05bHZ2bXlhMXdSeklGNjdzeEwzRjczRnFfWVlQX3ZMbm8talNoR0lHbzQ?oc=5) |
+| 2026-07-22 | Google Cloud and NVIDIA power microagi's embodied AI ambitions - Tech.eu | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRU9kWmJsNmx6R2hJOG43bmVQRWpCcG1jcEJCYV9hZ3QxckI2RUxDZ0FsdFhwaU80UFRBWUJoQzBOelpoUHRjejVrQ3MyZm1hZmNyT2ZqbUR4SUJtZXpLSVFrc0RHaUNRTTlYREtoNHBWVGh5dk9uM3JhS0dWSVlnaWJoOWUyZ1FiX2hXLVJpWHdkWk0?oc=5) |
 | 2026-07-21 | New Unicorn! Humanoid secures €133 million at €1.1 billion valuation to scale industrial robotics and physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUWF3QVBJNXp5STRDcHJNUDZISjlQc09xRGtnLUl1UXU0WlJNb1dPWVVSRWk2YUtGMU4ydWYwaXQzUG1yZ29XYk5qeHVKUDktUTNZQ09nNFBRM1J4b1BEZXRwaTVLTWZnYXlWMjZSZUQxb2xRbm1YS2NlZHlUVWlEekhuZmRDLWR0MUZGX2pSQXhsWC1tZHdPUnQ1MGYtRHU0T3RTXzBNQzNZSERPN3NGVHFfUmJXc2RvNmhvRTVXOWp4cHBUWDRreDJZN0FNX3A2U2FKSmlYOFFPdFJrWjFQZmRLSQ?oc=5) |
-| 2026-07-21 | Applied Intuition: Physical AI is the Future - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWJJOTVjTWFhajZ6RWtMZGp4TU0xbi1Fd1R6R05BeWJwTnVmZmpyTnZDaHF2al9fakVKMzdxdDhydXI3NUVhNXROSm4yMG9iNG1zRXFrenZIYzNSV0phYXRfdkY2TDdMd1dHaXJGRVc3eEZCaWV6ZlVELXEzWHZ1VGF4UEl1X1QtVGV2SFRDbEliQlhHQVhqUFJzNjVkeHFCM3lTT1lkdnpQQQ?oc=5) |
-| 2026-07-21 | Embodied AI startup GigaAI plans Hong Kong IPO at US$3b valuation - The Standard (HK) | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxOczRISEtsc2tSRWJVbW1tOVhDOFViaGx3U2ltQnhuaHNPWHQyWmV0UHN2aTlPUTJjMkxtZFA1YW9ZUkRRVnJsQUVZUmlRYnlCN3duNHlJSGVEQXA0MzFEYXg3bFE2Y3p6cXExRGdvY3ZHaC1WSUl5RmM4Njd6eGVSZ3R1WHZzc0tLaWJiVUR5bXo1TDNXbGFGRmktM2R3d1ZOQUpHQ2J5MXdDWkFIZ1dVa0Rmc0Y0ZTJ4T1pUZTJ3?oc=5) |
+| 2026-07-21 | Robotics Startup Humanoid Joins The Billion-Dollar Physical AI Club - Finimize | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2hUZXpxMjZ5LWZQWVpsOHV4SUdSSzlwX2g3dElmYmg3X1kxYWhDb3N0NG9xd1BTM3ludXlndEdMeXVKOGdwempTNmdrMVZuWll5YXRKdzhoVEV6bXhNSmo3TzNTcThvejgxcERUVHZhWC05bHZ2bXlhMXdSeklGNjdzeEwzRjczRnFfWVlQX3ZMbm8talNoR0lHbzQ?oc=5) |
