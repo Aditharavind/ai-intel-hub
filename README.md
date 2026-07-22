@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-22 21:54 UTC
+Last Updated: 2026-07-22 22:47 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,9 +77,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-22 | latiao1999/robotics-vla-task-23 | 0 | 0 | [link](https://huggingface.co/latiao1999/robotics-vla-task-23) |
 | 2026-07-22 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 24 | 5 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 | 2026-07-22 | mario-d-robot/next-scene-qwen-image-lora-2509 | 0 | 0 | [link](https://huggingface.co/mario-d-robot/next-scene-qwen-image-lora-2509) |
-| 2026-07-22 | latiao1999/robotics-vla-task-23 | 0 | 0 | [link](https://huggingface.co/latiao1999/robotics-vla-task-23) |
 | 2026-07-22 | EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b | 0 | 0 | [link](https://huggingface.co/EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b) |
 | 2026-07-22 | wmkdfmk/robotics-vla-task-23-competitive-v3 | 0 | 0 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v3) |
 | 2026-07-22 | JackieMM/RoboTwin-pi05-30000-checkpoints | 0 | 0 | [link](https://huggingface.co/JackieMM/RoboTwin-pi05-30000-checkpoints) |
@@ -94,11 +94,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | NVIDIA/skills | 2646 | Python | 1058.5 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1421 | Rust | 568.5 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 892 | Python | 356.9 | [link](https://github.com/mosaico-labs/mosaico) |
+| RobotecAI/rai | 555 | Python | 222.1 | [link](https://github.com/RobotecAI/rai) |
 | awslabs/awsome-distributed-ai | 465 | Shell | 186.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | ros-claw/rosclaw | 170 | Python | 68.1 | [link](https://github.com/ros-claw/rosclaw) |
-| arpitg1304/forge | 157 | Python | 62.9 | [link](https://github.com/arpitg1304/forge) |
 | commaai/openpilot | 63193 | Python | 25277.3 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 16042 | Python | 6416.9 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16043 | Python | 6417.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15533 | C++ | 6213.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14288 | C++ | 5715.3 | [link](https://github.com/google-deepmind/mujoco) |
 
