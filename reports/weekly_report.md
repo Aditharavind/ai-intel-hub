@@ -1,20 +1,20 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-21 23:44 UTC
+Generated: 2026-07-22 01:13 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-20 | Patch Policy: Efficient Embodied Control via Dense Visual Representations | [link](https://arxiv.org/pdf/2607.18236v1) |
-| 2026-07-20 | FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation | [link](https://arxiv.org/pdf/2607.18231v1) |
-| 2026-07-20 | GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis | [link](https://arxiv.org/pdf/2607.18218v1) |
-| 2026-07-20 | Optimization of sim-to-real transfer in the humanoid robot NICO | [link](https://arxiv.org/pdf/2607.18210v1) |
-| 2026-07-20 | Learning Adaptive Safety Margins for Visual Navigation | [link](https://arxiv.org/pdf/2607.18200v1) |
+| 2026-07-21 | DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models | [link](https://arxiv.org/pdf/2607.19237v1) |
+| 2026-07-21 | In-Context Time Series Classification with Random Convolutional Features | [link](https://arxiv.org/pdf/2607.19234v1) |
+| 2026-07-21 | IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer | [link](https://arxiv.org/pdf/2607.19228v1) |
+| 2026-07-21 | Computing on the Fly: Navigating a Vision for the Future of Drone Computing | [link](https://arxiv.org/pdf/2607.19213v1) |
+| 2026-07-21 | ATLAS: A Foundation Neural Sampler for Amorphous Materials | [link](https://arxiv.org/pdf/2607.19198v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82632 | 33052.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82633 | 33053.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63191 | 25276.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44267 | 17706.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30098 | 12039.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
@@ -43,6 +43,6 @@ Generated: 2026-07-21 23:44 UTC
 | --- | --- | --- | --- |
 | 2026-07-21 | Robotics Startup Humanoid Joins The Billion-Dollar Physical AI Club - Finimize | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2hUZXpxMjZ5LWZQWVpsOHV4SUdSSzlwX2g3dElmYmg3X1kxYWhDb3N0NG9xd1BTM3ludXlndEdMeXVKOGdwempTNmdrMVZuWll5YXRKdzhoVEV6bXhNSmo3TzNTcThvejgxcERUVHZhWC05bHZ2bXlhMXdSeklGNjdzeEwzRjczRnFfWVlQX3ZMbm8talNoR0lHbzQ?oc=5) |
 | 2026-07-21 | New Unicorn! Humanoid secures €133 million at €1.1 billion valuation to scale industrial robotics and physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUWF3QVBJNXp5STRDcHJNUDZISjlQc09xRGtnLUl1UXU0WlJNb1dPWVVSRWk2YUtGMU4ydWYwaXQzUG1yZ29XYk5qeHVKUDktUTNZQ09nNFBRM1J4b1BEZXRwaTVLTWZnYXlWMjZSZUQxb2xRbm1YS2NlZHlUVWlEekhuZmRDLWR0MUZGX2pSQXhsWC1tZHdPUnQ1MGYtRHU0T3RTXzBNQzNZSERPN3NGVHFfUmJXc2RvNmhvRTVXOWp4cHBUWDRreDJZN0FNX3A2U2FKSmlYOFFPdFJrWjFQZmRLSQ?oc=5) |
-| 2026-07-21 | Startups Convert Skilled Workers' Tacit Knowledge into AI Data - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObC1YaVVVbHZuV2dPM2I3M01MdDVuNzdYZGhsMkNYb2JJaU9lTm1xOHFWanBaVmdaZEluYzZzYlVndWVkVmhOaUJJRWl6TmQzWkNtWU9QZUNISWpEdFhWSjBkS19ReTAyLXp3UGdjY2hReFVuWTFueS1qb0RsY25hcWowRGM3QUNv?oc=5) |
 | 2026-07-21 | Applied Intuition: Physical AI is the Future - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWJJOTVjTWFhajZ6RWtMZGp4TU0xbi1Fd1R6R05BeWJwTnVmZmpyTnZDaHF2al9fakVKMzdxdDhydXI3NUVhNXROSm4yMG9iNG1zRXFrenZIYzNSV0phYXRfdkY2TDdMd1dHaXJGRVc3eEZCaWV6ZlVELXEzWHZ1VGF4UEl1X1QtVGV2SFRDbEliQlhHQVhqUFJzNjVkeHFCM3lTT1lkdnpQQQ?oc=5) |
+| 2026-07-21 | Startups Convert Skilled Workers' Tacit Knowledge into AI Data - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObC1YaVVVbHZuV2dPM2I3M01MdDVuNzdYZGhsMkNYb2JJaU9lTm1xOHFWanBaVmdaZEluYzZzYlVndWVkVmhOaUJJRWl6TmQzWkNtWU9QZUNISWpEdFhWSjBkS19ReTAyLXp3UGdjY2hReFVuWTFueS1qb0RsY25hcWowRGM3QUNv?oc=5) |
 | 2026-07-21 | Embodied AI startup GigaAI plans Hong Kong IPO at US$3b valuation - The Standard (HK) | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxOczRISEtsc2tSRWJVbW1tOVhDOFViaGx3U2ltQnhuaHNPWHQyWmV0UHN2aTlPUTJjMkxtZFA1YW9ZUkRRVnJsQUVZUmlRYnlCN3duNHlJSGVEQXA0MzFEYXg3bFE2Y3p6cXExRGdvY3ZHaC1WSUl5RmM4Njd6eGVSZ3R1WHZzc0tLaWJiVUR5bXo1TDNXbGFGRmktM2R3d1ZOQUpHQ2J5MXdDWkFIZ1dVa0Rmc0Y0ZTJ4T1pUZTJ3?oc=5) |

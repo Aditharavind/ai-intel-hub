@@ -1,13 +1,63 @@
 [
   {
+    "repo": "ros-claw/rosclaw",
+    "stars": 170,
+    "language": "Python",
+    "description": "Self-evolving runtime infrastructure for Physical AI and embodied agents. Ground AI agents into robot bodies with e-URDF, sandbox safety, capability routing, praxis capture, physical memory, runtime intervention, and skill evolution.",
+    "url": "https://github.com/ros-claw/rosclaw",
+    "date": "2026-07-22",
+    "topic": "physical-ai",
+    "score": 68.1
+  },
+  {
+    "repo": "arpitg1304/forge",
+    "stars": 157,
+    "language": "Python",
+    "description": "Robotics Data Toolkit | Convert between robotics dataset formats (RLDS, LeRobot v2/v3, Zarr, HDF5, Rosbag). Inspect, visualize, and analyze datasets. Works with HuggingFace Hub. Built for OpenVLA, Octo, LeRobot, and Diffusion Policy workflows.",
+    "url": "https://github.com/arpitg1304/forge",
+    "date": "2026-07-22",
+    "topic": "lerobot",
+    "score": 62.9
+  },
+  {
+    "repo": "commaai/openpilot",
+    "stars": 63191,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-07-22",
+    "topic": "robotics",
+    "score": 25276.5
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7722,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-07-22",
+    "topic": "robot-learning",
+    "score": 3088.9
+  },
+  {
+    "repo": "StanfordVL/BEHAVIOR-1K",
+    "stars": 1587,
+    "language": "Python",
+    "description": "BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx",
+    "url": "https://github.com/StanfordVL/BEHAVIOR-1K",
+    "date": "2026-07-22",
+    "topic": "embodied-ai",
+    "score": 634.9
+  },
+  {
     "repo": "NVIDIA/skills",
-    "stars": 2622,
+    "stars": 2624,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-07-21",
     "topic": "physical-ai",
-    "score": 1048.9
+    "score": 1049.7
   },
   {
     "repo": "copper-project/copper-rs",
@@ -38,36 +88,6 @@
     "date": "2026-07-21",
     "topic": "physical-ai",
     "score": 186.1
-  },
-  {
-    "repo": "ros-claw/rosclaw",
-    "stars": 170,
-    "language": "Python",
-    "description": "Self-evolving runtime infrastructure for Physical AI and embodied agents. Ground AI agents into robot bodies with e-URDF, sandbox safety, capability routing, praxis capture, physical memory, runtime intervention, and skill evolution.",
-    "url": "https://github.com/ros-claw/rosclaw",
-    "date": "2026-07-21",
-    "topic": "physical-ai",
-    "score": 68.1
-  },
-  {
-    "repo": "arpitg1304/forge",
-    "stars": 157,
-    "language": "Python",
-    "description": "Robotics Data Toolkit | Convert between robotics dataset formats (RLDS, LeRobot v2/v3, Zarr, HDF5, Rosbag). Inspect, visualize, and analyze datasets. Works with HuggingFace Hub. Built for OpenVLA, Octo, LeRobot, and Diffusion Policy workflows.",
-    "url": "https://github.com/arpitg1304/forge",
-    "date": "2026-07-21",
-    "topic": "lerobot",
-    "score": 62.9
-  },
-  {
-    "repo": "commaai/openpilot",
-    "stars": 63191,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-07-21",
-    "topic": "robotics",
-    "score": 25276.5
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -120,16 +140,6 @@
     "score": 4464.5
   },
   {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7722,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-07-21",
-    "topic": "robot-learning",
-    "score": 3088.9
-  },
-  {
     "repo": "RLinf/RLinf",
     "stars": 4197,
     "language": "Python",
@@ -158,16 +168,6 @@
     "date": "2026-07-21",
     "topic": "world-model",
     "score": 761.3
-  },
-  {
-    "repo": "StanfordVL/BEHAVIOR-1K",
-    "stars": 1586,
-    "language": "Python",
-    "description": "BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx",
-    "url": "https://github.com/StanfordVL/BEHAVIOR-1K",
-    "date": "2026-07-21",
-    "topic": "embodied-ai",
-    "score": 634.5
   },
   {
     "repo": "flashrt-project/FlashRT",
@@ -241,13 +241,13 @@
   },
   {
     "repo": "OpenHUTB/hutb",
-    "stars": 542,
+    "stars": 543,
     "language": "C++",
     "description": "人车模拟器（Human-vehicle Simulator）",
     "url": "https://github.com/OpenHUTB/hutb",
     "date": "2026-07-21",
     "topic": "humanoid",
-    "score": 216.9
+    "score": 217.3
   },
   {
     "repo": "ROBOTIS-GIT/ai_worker",
@@ -290,6 +290,16 @@
     "score": 9.3
   },
   {
+    "repo": "johnsutor/so101-nexus",
+    "stars": 23,
+    "language": "Python",
+    "description": "Full-stack robot learning for the SO-101 arm: teleoperation, imitation learning, and RL in MuJoCo.",
+    "url": "https://github.com/johnsutor/so101-nexus",
+    "date": "2026-07-21",
+    "topic": "lerobot",
+    "score": 9.3
+  },
+  {
     "repo": "Edgenesis/shifu",
     "stars": 1426,
     "language": "Go",
@@ -311,13 +321,13 @@
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3192,
+    "stars": 3193,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-07-20",
     "topic": "embodied-ai",
-    "score": 1276.9
+    "score": 1277.3
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -551,23 +561,23 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 9077,
+    "stars": 9128,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 3630.9
+    "score": 3651.3
   },
   {
     "repo": "ARISE-Initiative/robosuite",
-    "stars": 2519,
+    "stars": 2521,
     "language": "Python",
     "description": "robosuite: A Modular Simulation Framework and Benchmark for Robot Learning",
     "url": "https://github.com/ARISE-Initiative/robosuite",
     "date": "2026-07-11",
     "topic": "robot-learning",
-    "score": 1007.7
+    "score": 1008.5
   },
   {
     "repo": "Source-Robotics/MSG-compliant-AI-stepper-gripper",
@@ -611,13 +621,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82632,
+    "stars": 82633,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 33052.9
+    "score": 33053.3
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
@@ -651,13 +661,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2120,
+    "stars": 2121,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-07-06",
     "topic": "humanoid",
-    "score": 848.1
+    "score": 848.5
   },
   {
     "repo": "jackvial/lerobot-data-studio",
@@ -848,15 +858,5 @@
     "date": "2026-06-22",
     "topic": "humanoid",
     "score": 3.3
-  },
-  {
-    "repo": "Dream-Machines-Robotics/vr-teleop-kit",
-    "stars": 31,
-    "language": "Python",
-    "description": "An open-source VR teleoperation kit for the TRLC-DK1, driving the arms from a Meta Quest headset with inverse kinematics and a drop-in LeRobot teleoperator.",
-    "url": "https://github.com/Dream-Machines-Robotics/vr-teleop-kit",
-    "date": "2026-06-21",
-    "topic": "lerobot",
-    "score": 12.5
   }
 ]
