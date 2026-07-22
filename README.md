@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-22 04:53 UTC
+Last Updated: 2026-07-22 07:27 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-22 | A Smarter DIY Air Filter | Hackaday | [link](https://hackaday.com/2026/07/21/a-smarter-diy-air-filter/) |
 | 2026-07-22 | Open Source Vacuum Avoids Cloud | Hackaday | [link](https://hackaday.com/2026/07/21/open-source-vacuum-avoids-cloud/) |
+| 2026-07-22 | Raspberry Pi Touch Display 2 – 10″ Portrait review, 3D printed VESA mount | CNX Software | [link](https://www.cnx-software.com/2026/07/22/raspberry-pi-touch-display-2-10%e2%80%b3-portrait-review-3d-printed-vesa-mount/) |
 | 2026-07-22 | NVIDIA increases the price of Jetson modules and devkits by up to 101% | CNX Software | [link](https://www.cnx-software.com/2026/07/22/nvidia-increases-the-price-of-jetson-modules-and-devkits-by-up-to-101/) |
-| 2026-07-21 | Who’s Building that Data Center? | Hackaday | [link](https://hackaday.com/2026/07/21/whos-building-that-data-center/) |
-| 2026-07-21 | Counterfeit Retro Mainboards with Fake AGP Slots Are a Thing | Hackaday | [link](https://hackaday.com/2026/07/21/counterfeit-retro-mainboards-with-fake-agp-slots-are-a-thing/) |
-| 2026-07-21 | Neural Net Reads the Gas Meter | Hackaday | [link](https://hackaday.com/2026/07/21/neural-net-reads-the-gas-meter/) |
-| 2026-07-21 | Postal IRCs are Almost a Thing of the Past | Hackaday | [link](https://hackaday.com/2026/07/21/postal-ircs-are-almost-a-thing-of-the-past/) |
-| 2026-07-21 | Tired of xargs? | Hackaday | [link](https://hackaday.com/2026/07/21/tired-of-xargs/) |
-| 2026-07-21 | Giving Resin 3D Printers Another Shot After Six Years | Hackaday | [link](https://hackaday.com/2026/07/21/giving-resin-3d-printers-another-shot-after-six-years/) |
-| 2026-07-21 | Avalue RIVAR-1539 is a 15.6-inch fanless industrial panel PC powered by an Intel N150 Twin Lake processor | CNX Software | [link](https://www.cnx-software.com/2026/07/21/avalue-rivar-1539-is-a-15-6-inch-fanless-industrial-panel-pc-powered-by-an-intel-n150-twin-lake-processor/) |
-| 2026-07-21 | ART-Pi II development board features 600 MHz STM32H7R7 Cortex-M7 MCU with NeoChrom GPU | CNX Software | [link](https://www.cnx-software.com/2026/07/21/art-pi-ii-development-board-features-600-mhz-stm32h7r7-cortex-m7-mcu-with-neochrom-gpu/) |
+| 2026-07-22 | Intel planning more lay-offs | Electronics Weekly | [link](https://www.electronicsweekly.com/news/intel-planning-more-lay-offs-2026-07/) |
+| 2026-07-22 | Siemens to buy De Facto Technologies | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/sienens-to-buy-de-facto-technologies-2026-07/) |
+| 2026-07-22 | Farnell signs Hailo | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/farnell-signs-hailo-2026-07/) |
+| 2026-07-22 | Mouser signs Parker Chomerics | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/mouser-signs-parker-chomerics-2026-07/) |
+| 2026-07-22 | Rad-Hard GaN HEMT for space | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/rad-hard-gan-hemt-for-space-2026-07/) |
+| 2026-07-22 | Top Ten NEVs in Q1 | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-nevs-in-q1-2026-07/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,16 +77,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-22 | openbmb/MiniCPM-RobotManip | 58 | 147 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
+| 2026-07-22 | OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_Mutual | 0 | 0 | [link](https://huggingface.co/OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_Mutual) |
+| 2026-07-22 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 24 | 2 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
+| 2026-07-22 | wangqiwu/blue_diffusion_robot | 0 | 0 | [link](https://huggingface.co/wangqiwu/blue_diffusion_robot) |
+| 2026-07-22 | openbmb/MiniCPM-RobotManip | 58 | 149 | [link](https://huggingface.co/openbmb/MiniCPM-RobotManip) |
 | 2026-07-22 | fangcaotank/robotics-vla-task-23-qwen3 | 0 | 0 | [link](https://huggingface.co/fangcaotank/robotics-vla-task-23-qwen3) |
 | 2026-07-22 | puppet-robotics/golf-model-200-obs-rgb | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb) |
+| 2026-07-22 | mapleian5112/pi05_base_so101_vlash-20260721-094025 | 0 | 0 | [link](https://huggingface.co/mapleian5112/pi05_base_so101_vlash-20260721-094025) |
+| 2026-07-22 | EmpathicRobotics/vla-1.7b-qwen3-v2 | 0 | 0 | [link](https://huggingface.co/EmpathicRobotics/vla-1.7b-qwen3-v2) |
 | 2026-07-22 | Jiafei1224/molmoact2-yam-vla-jepa | 13 | 0 | [link](https://huggingface.co/Jiafei1224/molmoact2-yam-vla-jepa) |
 | 2026-07-22 | jim4real/so101-lingbot-vla2-intermediate-checkpoints | 0 | 0 | [link](https://huggingface.co/jim4real/so101-lingbot-vla2-intermediate-checkpoints) |
-| 2026-07-22 | MerazAhmed3420/task-23-vla-diff_s8_st20 | 0 | 0 | [link](https://huggingface.co/MerazAhmed3420/task-23-vla-diff_s8_st20) |
-| 2026-07-22 | MerazAhmed3420/task-23-vla-diff_steps50 | 0 | 0 | [link](https://huggingface.co/MerazAhmed3420/task-23-vla-diff_steps50) |
-| 2026-07-22 | MerazAhmed3420/task-23-vla-diff_s32 | 0 | 0 | [link](https://huggingface.co/MerazAhmed3420/task-23-vla-diff_s32) |
-| 2026-07-22 | MerazAhmed3420/task-23-vla-diff-tuned | 0 | 0 | [link](https://huggingface.co/MerazAhmed3420/task-23-vla-diff-tuned) |
-| 2026-07-22 | Ashenzari/vla-lstm-success-monitor | 17 | 0 | [link](https://huggingface.co/Ashenzari/vla-lstm-success-monitor) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -95,12 +95,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | arpitg1304/forge | 157 | Python | 62.9 | [link](https://github.com/arpitg1304/forge) |
 | commaai/openpilot | 63193 | Python | 25277.3 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16042 | Python | 6416.9 | [link](https://github.com/zauberzeug/nicegui) |
-| isaac-sim/IsaacLab | 7725 | Python | 3090.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| google-deepmind/mujoco | 14280 | C++ | 5712.1 | [link](https://github.com/google-deepmind/mujoco) |
+| isaac-sim/IsaacLab | 7726 | Python | 3090.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3850 | Rust | 1540.1 | [link](https://github.com/dora-rs/dora) |
-| StanfordVL/BEHAVIOR-1K | 1588 | Python | 635.3 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| sou350121/VLA-Handbook | 417 | HTML | 166.9 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5645 | Python | 2258.1 | [link](https://github.com/vllm-project/vllm-omni) |
-| ROBOTIS-GIT/ai_worker | 155 | C++ | 62.1 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
+| StanfordVL/BEHAVIOR-1K | 1589 | Python | 635.7 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
+| sou350121/VLA-Handbook | 418 | HTML | 167.3 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 5646 | Python | 2258.5 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,9 +119,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-22 | Startups Transform Tacit Knowledge into AI Data for Industry - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObC1YaVVVbHZuV2dPM2I3M01MdDVuNzdYZGhsMkNYb2JJaU9lTm1xOHFWanBaVmdaZEluYzZzYlVndWVkVmhOaUJJRWl6TmQzWkNtWU9QZUNISWpEdFhWSjBkS19ReTAyLXp3UGdjY2hReFVuWTFueS1qb0RsY25hcWowRGM3QUNv?oc=5) |
 | 2026-07-21 | Robotics Startup Humanoid Joins The Billion-Dollar Physical AI Club - Finimize | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2hUZXpxMjZ5LWZQWVpsOHV4SUdSSzlwX2g3dElmYmg3X1kxYWhDb3N0NG9xd1BTM3ludXlndEdMeXVKOGdwempTNmdrMVZuWll5YXRKdzhoVEV6bXhNSmo3TzNTcThvejgxcERUVHZhWC05bHZ2bXlhMXdSeklGNjdzeEwzRjczRnFfWVlQX3ZMbm8talNoR0lHbzQ?oc=5) |
 | 2026-07-21 | New Unicorn! Humanoid secures €133 million at €1.1 billion valuation to scale industrial robotics and physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUWF3QVBJNXp5STRDcHJNUDZISjlQc09xRGtnLUl1UXU0WlJNb1dPWVVSRWk2YUtGMU4ydWYwaXQzUG1yZ29XYk5qeHVKUDktUTNZQ09nNFBRM1J4b1BEZXRwaTVLTWZnYXlWMjZSZUQxb2xRbm1YS2NlZHlUVWlEekhuZmRDLWR0MUZGX2pSQXhsWC1tZHdPUnQ1MGYtRHU0T3RTXzBNQzNZSERPN3NGVHFfUmJXc2RvNmhvRTVXOWp4cHBUWDRreDJZN0FNX3A2U2FKSmlYOFFPdFJrWjFQZmRLSQ?oc=5) |
-| 2026-07-21 | Startups Convert Skilled Workers' Tacit Knowledge into AI Data - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObC1YaVVVbHZuV2dPM2I3M01MdDVuNzdYZGhsMkNYb2JJaU9lTm1xOHFWanBaVmdaZEluYzZzYlVndWVkVmhOaUJJRWl6TmQzWkNtWU9QZUNISWpEdFhWSjBkS19ReTAyLXp3UGdjY2hReFVuWTFueS1qb0RsY25hcWowRGM3QUNv?oc=5) |
 | 2026-07-21 | Applied Intuition: Physical AI is the Future - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWJJOTVjTWFhajZ6RWtMZGp4TU0xbi1Fd1R6R05BeWJwTnVmZmpyTnZDaHF2al9fakVKMzdxdDhydXI3NUVhNXROSm4yMG9iNG1zRXFrenZIYzNSV0phYXRfdkY2TDdMd1dHaXJGRVc3eEZCaWV6ZlVELXEzWHZ1VGF4UEl1X1QtVGV2SFRDbEliQlhHQVhqUFJzNjVkeHFCM3lTT1lkdnpQQQ?oc=5) |
 | 2026-07-21 | Embodied AI startup GigaAI plans Hong Kong IPO at US$3b valuation - The Standard (HK) | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxOczRISEtsc2tSRWJVbW1tOVhDOFViaGx3U2ltQnhuaHNPWHQyWmV0UHN2aTlPUTJjMkxtZFA1YW9ZUkRRVnJsQUVZUmlRYnlCN3duNHlJSGVEQXA0MzFEYXg3bFE2Y3p6cXExRGdvY3ZHaC1WSUl5RmM4Njd6eGVSZ3R1WHZzc0tLaWJiVUR5bXo1TDNXbGFGRmktM2R3d1ZOQUpHQ2J5MXdDWkFIZ1dVa0Rmc0Y0ZTJ4T1pUZTJ3?oc=5) |
 | 2026-07-21 | Elite Robots Collaborates with Generalist AI on Next-Gen Embodied AI - PR Newswire UK | embodied ai startup | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxPZzNhZmhNOWpURVZnWTRGRzhGZmNpQjVhVEduN1ZXMUx5bDlqZXZVb3hhUXZNV0lYMHkyMmpUdENJb1UyR05wVGJ2el9qXzRtZmNoMUYzUnVZQnBSTEQ3eWt4Y1VsU1ZkWWxGbUJVSHcwRWxwbnhJTXdkM2dCYnNtajBob3ZCVTdGRGQxZ01ya09hNS15MHRQbzg0SHR3clVYRFQ3dHBYQk51NGJwSVVSOTZ0WHhzN3l3SVBWZ3d3clNxZ3Ns?oc=5) |

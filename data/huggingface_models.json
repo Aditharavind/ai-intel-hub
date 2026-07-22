@@ -1,12 +1,39 @@
 [
   {
+    "model": "OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_Mutual",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_Mutual",
+    "date": "2026-07-22",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
+    "downloads": 24,
+    "likes": 2,
+    "url": "https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1",
+    "date": "2026-07-22",
+    "keyword": "robot",
+    "score": 7.7
+  },
+  {
+    "model": "wangqiwu/blue_diffusion_robot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wangqiwu/blue_diffusion_robot",
+    "date": "2026-07-22",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "openbmb/MiniCPM-RobotManip",
     "downloads": 58,
-    "likes": 147,
+    "likes": 149,
     "url": "https://huggingface.co/openbmb/MiniCPM-RobotManip",
     "date": "2026-07-22",
     "keyword": "robot",
-    "score": 46.9
+    "score": 47.3
   },
   {
     "model": "fangcaotank/robotics-vla-task-23-qwen3",
@@ -24,6 +51,24 @@
     "url": "https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb",
     "date": "2026-07-22",
     "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "mapleian5112/pi05_base_so101_vlash-20260721-094025",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mapleian5112/pi05_base_so101_vlash-20260721-094025",
+    "date": "2026-07-22",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "EmpathicRobotics/vla-1.7b-qwen3-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/EmpathicRobotics/vla-1.7b-qwen3-v2",
+    "date": "2026-07-22",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -108,6 +153,69 @@
     "score": 0.1
   },
   {
+    "model": "sojeong647/physical_AI",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sojeong647/physical_AI",
+    "date": "2026-07-22",
+    "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "saadrehan03/llama-3.2-3b-travel-policy1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/saadrehan03/llama-3.2-3b-travel-policy1",
+    "date": "2026-07-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16-GenW8",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16-GenW8",
+    "date": "2026-07-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16-AttnW8",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16-AttnW8",
+    "date": "2026-07-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W8A16",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W8A16",
+    "date": "2026-07-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16",
+    "date": "2026-07-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "gray992/omx_act_policy2_finetuned2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gray992/omx_act_policy2_finetuned2",
+    "date": "2026-07-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "manifoldai-research/WorldScape-Policy-2",
     "downloads": 0,
     "likes": 0,
@@ -157,42 +265,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/theconstruct-ai/my-first-act-policy",
-    "date": "2026-07-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "polydj0/omx_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/polydj0/omx_policy",
-    "date": "2026-07-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "MalakMohammed04/bimanual_pick_place_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MalakMohammed04/bimanual_pick_place_policy",
-    "date": "2026-07-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "polydj0/omx_act_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/polydj0/omx_act_policy",
-    "date": "2026-07-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jogarulfop/policy_2026-07-21_shakeitup6_bench_dragonfly_10kHz_nfft_512",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-07-21_shakeitup6_bench_dragonfly_10kHz_nfft_512",
     "date": "2026-07-22",
     "keyword": "policy",
     "score": 0.1
@@ -252,51 +324,6 @@
     "score": 0.1
   },
   {
-    "model": "RobotisSW/Task_000238_Pick_Chestnuts_10K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_000238_Pick_Chestnuts_10K",
-    "date": "2026-07-21",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "MerazAhmed3420/task-23-robotics-vla-diffusion",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MerazAhmed3420/task-23-robotics-vla-diffusion",
-    "date": "2026-07-21",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "puppet-robotics/golf-model-200-obs",
-    "downloads": 46,
-    "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-200-obs",
-    "date": "2026-07-21",
-    "keyword": "robotics",
-    "score": 13.9
-  },
-  {
-    "model": "MerazAhmed3420/task-23-vla-chunk-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MerazAhmed3420/task-23-vla-chunk-v2",
-    "date": "2026-07-21",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "MerazAhmed3420/task-23-vla-diff-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MerazAhmed3420/task-23-vla-diff-v2",
-    "date": "2026-07-21",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp06-world-model-stage1-full-epoch3-stage2-lora-epoch3",
     "downloads": 0,
     "likes": 0,
@@ -324,22 +351,22 @@
     "score": 0.1
   },
   {
-    "model": "gray992/omx_act_policy2_finetuned",
+    "model": "MerazAhmed3420/task-23-robotics-vla-diffusion",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/gray992/omx_act_policy2_finetuned",
+    "url": "https://huggingface.co/MerazAhmed3420/task-23-robotics-vla-diffusion",
     "date": "2026-07-21",
-    "keyword": "policy",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
-    "model": "dookidooki/omx_act_policy",
-    "downloads": 1,
+    "model": "puppet-robotics/golf-model-200-obs",
+    "downloads": 46,
     "likes": 0,
-    "url": "https://huggingface.co/dookidooki/omx_act_policy",
+    "url": "https://huggingface.co/puppet-robotics/golf-model-200-obs",
     "date": "2026-07-21",
-    "keyword": "policy",
-    "score": 0.4
+    "keyword": "robotics",
+    "score": 13.9
   },
   {
     "model": "latiao1999/robotics-vla-task-23",
@@ -506,11 +533,11 @@
   {
     "model": "tencent/Hy-Embodied-RxBrain-1.0",
     "downloads": 204,
-    "likes": 47,
+    "likes": 48,
     "url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
     "date": "2026-07-18",
     "keyword": "embodied",
-    "score": 70.7
+    "score": 70.9
   },
   {
     "model": "Lislaam/coinrun-trained-world-model",
@@ -724,15 +751,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/physicalai-bmi/nano-vla-stack",
-    "date": "2026-07-12",
-    "keyword": "physical ai",
-    "score": 0.1
-  },
-  {
-    "model": "physicalai-bmi/nano-vla-arm-3d",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/physicalai-bmi/nano-vla-arm-3d",
     "date": "2026-07-12",
     "keyword": "physical ai",
     "score": 0.1
