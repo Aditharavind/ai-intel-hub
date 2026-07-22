@@ -83,11 +83,11 @@
   {
     "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
     "downloads": 24,
-    "likes": 2,
+    "likes": 3,
     "url": "https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1",
     "date": "2026-07-22",
     "keyword": "robot",
-    "score": 7.7
+    "score": 7.9
   },
   {
     "model": "wangqiwu/blue_diffusion_robot",
@@ -106,6 +106,15 @@
     "date": "2026-07-22",
     "keyword": "robot",
     "score": 48.3
+  },
+  {
+    "model": "YccHugAi/lingbot-vla-2-stackcube-ablations",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/YccHugAi/lingbot-vla-2-stackcube-ablations",
+    "date": "2026-07-22",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "mradermacher/vla-1.7b-qwen3-v2-GGUF",
@@ -180,12 +189,12 @@
     "score": 4.0
   },
   {
-    "model": "fangcaotank/robotics-vla-task-23-qwen3",
+    "model": "Datawhale/every-embodied-smolvla-mujoco-pnp",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/fangcaotank/robotics-vla-task-23-qwen3",
+    "url": "https://huggingface.co/Datawhale/every-embodied-smolvla-mujoco-pnp",
     "date": "2026-07-22",
-    "keyword": "robotics",
+    "keyword": "embodied",
     "score": 0.1
   },
   {
@@ -195,6 +204,24 @@
     "url": "https://huggingface.co/sojeong647/physical_AI",
     "date": "2026-07-22",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "Chaenn/act_policy_so101_cube_multitask_0716",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Chaenn/act_policy_so101_cube_multitask_0716",
+    "date": "2026-07-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "dookidooki/omx_act_policy_part2_v3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dookidooki/omx_act_policy_part2_v3",
+    "date": "2026-07-22",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -288,21 +315,12 @@
     "score": 0.1
   },
   {
-    "model": "XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16-AttnW8",
+    "model": "fangcaotank/robotics-vla-task-23-qwen3",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16-AttnW8",
+    "url": "https://huggingface.co/fangcaotank/robotics-vla-task-23-qwen3",
     "date": "2026-07-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16",
-    "date": "2026-07-22",
-    "keyword": "policy",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -655,15 +673,6 @@
     "date": "2026-07-13",
     "keyword": "embodied",
     "score": 7.6
-  },
-  {
-    "model": "vimalnakrani/HY-Embodied-0.5-bf16-mlx",
-    "downloads": 27,
-    "likes": 0,
-    "url": "https://huggingface.co/vimalnakrani/HY-Embodied-0.5-bf16-mlx",
-    "date": "2026-07-13",
-    "keyword": "embodied",
-    "score": 8.2
   },
   {
     "model": "physicalai-bmi/nano-world-model",
