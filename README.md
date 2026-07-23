@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-23 04:59 UTC
+Last Updated: 2026-07-23 07:32 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-23 | Bringing Nunchaku 4-bit Diffusion Inference to Diffusers | Hugging Face | [link](https://huggingface.co/blog/nunchaku-diffusers) |
 | 2026-07-22 | Building AI infrastructure with the Effingham County community | OpenAI | [link](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community) |
 | 2026-07-22 | How news organizations are using AI to advance their vital missions | OpenAI | [link](https://openai.com/index/how-news-organizations-are-using-ai) |
 | 2026-07-22 | Advancing the next era of national science | OpenAI | [link](https://openai.com/index/advancing-the-next-era-of-national-science) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-21 | OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI | [link](https://openai.com/index/hugging-face-model-evaluation-security-incident) |
 | 2026-07-21 | David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC | OpenAI | [link](https://openai.com/index/david-velez-robin-vince-join-openai-boards) |
 | 2026-07-21 | The State of Simulation for Physical AI: An Overview | Hugging Face | [link](https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai) |
-| 2026-07-21 | Grabette: an open system to record robot-manipulation data | Hugging Face | [link](https://huggingface.co/blog/grabette) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-23 | Industrial GPU Adapted for the Desktop | Hackaday | [link](https://hackaday.com/2026/07/22/industrial-gpu-adapted-for-the-desktop/) |
 | 2026-07-23 | V Formation Flying of Birds is Explained by a Minimal Wake–Vortex Model | Hackaday | [link](https://hackaday.com/2026/07/22/v-formation-flying-of-birds-is-explained-by-a-minimal-wake-vortex-model/) |
 | 2026-07-23 | $99 Xteink X4 Pro 4.3-inch touchscreen eReader to support CrossPoint Reader open-source firmware | CNX Software | [link](https://www.cnx-software.com/2026/07/23/99-xteink-x4-pro-4-3-inch-touchscreen-ereader-to-support-crosspoint-reader-open-source-firmware/) |
+| 2026-07-23 | Barclays joins fusion consortium | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/barclays-joins-quantum-consortium-2026-07/) |
+| 2026-07-23 | SaxonQ puts quantum computer on the market | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/saxonq-puts-quantum-computer-on-the-market-2026-07/) |
+| 2026-07-23 | NAND supply-demand in balance in H2 2027. | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/nand-supply-2026-07/) |
+| 2026-07-23 | Single-chip analogue radio and audio processor | Electronics Weekly | [link](https://www.electronicsweekly.com/news/single-chip-analogue-radio-and-audio-processorv-2026-07/) |
+| 2026-07-23 | Single-coil cooling fan driver | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/single-coil-cooling-fan-driver-2026-07/) |
 | 2026-07-23 | Golden Boot | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/genius/golden-boot-2026-07/) |
-| 2026-07-22 | An LLM in the Kitchen | Hackaday | [link](https://hackaday.com/2026/07/22/an-llm-in-the-kitchen/) |
-| 2026-07-22 | FLOSS Weekly Episode 876: There Is No Money Fairy | Hackaday | [link](https://hackaday.com/2026/07/22/floss-weekly-episode-876-there-is-no-money-fairy/) |
-| 2026-07-22 | The Need for Speed: Internet Speed Measurement (or DIY?) | Hackaday | [link](https://hackaday.com/2026/07/22/the-need-for-speed-internet-speed-measurement-or-diy/) |
-| 2026-07-22 | Dress Up Your YubiKey With This Web-Based Tool | Hackaday | [link](https://hackaday.com/2026/07/22/dress-up-your-yubikey-with-this-web-based-tool/) |
-| 2026-07-22 | Compile Here, Run Everywhere: Crosstool-Ng | Hackaday | [link](https://hackaday.com/2026/07/22/compile-here-run-everywhere-crosstool-ng/) |
-| 2026-07-22 | Old TV Vacuum Tube Turned DIY X-Ray Machine | Hackaday | [link](https://hackaday.com/2026/07/22/old-tv-vacuum-tube-turned-diy-x-ray-machine/) |
-| 2026-07-22 | Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90 | CNX Software | [link](https://www.cnx-software.com/2026/07/22/arduino-uno-q-arcade-bundle-lets-you-build-a-custom-retro-gaming-console/) |
+| 2026-07-23 | Snap-Fit Slim Case for Node MCU ESP8266 – Behind-a-Sign Design | Adafruit | [link](https://blog.adafruit.com/2026/07/23/snap-fit-slim-case-for-node-mcu-esp8266-behind-a-sign-design/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-23 | sugarpepper99/qwen-robot-lora-v2-modify | 0 | 0 | [link](https://huggingface.co/sugarpepper99/qwen-robot-lora-v2-modify) |
+| 2026-07-23 | Karajan42/dream-robot-gauntlet-policies | 0 | 0 | [link](https://huggingface.co/Karajan42/dream-robot-gauntlet-policies) |
 | 2026-07-23 | etri-humanoidrobotsystems/dev-robotai-test-model | 0 | 0 | [link](https://huggingface.co/etri-humanoidrobotsystems/dev-robotai-test-model) |
 | 2026-07-23 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-07-23 | wijan/Robot-Action-Planner-GGUF | 180 | 0 | [link](https://huggingface.co/wijan/Robot-Action-Planner-GGUF) |
 | 2026-07-23 | wijan/Robot-Action-Planner | 44 | 0 | [link](https://huggingface.co/wijan/Robot-Action-Planner) |
-| 2026-07-23 | namhokaist/appgen-qwen3-vl-8b-sft-appgen-S-expanded-rare-policy-lora-r64 | 0 | 0 | [link](https://huggingface.co/namhokaist/appgen-qwen3-vl-8b-sft-appgen-S-expanded-rare-policy-lora-r64) |
-| 2026-07-23 | namhokaist/appgen-qwen3-vl-8b-sft-appgen-R-expanded-policy-lr3p5e7 | 0 | 0 | [link](https://huggingface.co/namhokaist/appgen-qwen3-vl-8b-sft-appgen-R-expanded-policy-lr3p5e7) |
-| 2026-07-23 | namhokaist/appgen-qwen3-vl-8b-sft-appgen-P-recoveryv2-policy-cont-lr2p5e7 | 0 | 0 | [link](https://huggingface.co/namhokaist/appgen-qwen3-vl-8b-sft-appgen-P-recoveryv2-policy-cont-lr2p5e7) |
-| 2026-07-23 | namhokaist/appgen-qwen3-vl-8b-sft-appgen-Q-clean-policy-lr5e7 | 0 | 0 | [link](https://huggingface.co/namhokaist/appgen-qwen3-vl-8b-sft-appgen-Q-clean-policy-lr5e7) |
-| 2026-07-22 | tiao55/robotics-vla-task-23-v6-multibackbone-calibrated | 0 | 0 | [link](https://huggingface.co/tiao55/robotics-vla-task-23-v6-multibackbone-calibrated) |
-| 2026-07-22 | latiao1999/robotics-vla-task-23 | 0 | 0 | [link](https://huggingface.co/latiao1999/robotics-vla-task-23) |
+| 2026-07-23 | Mohamedd123321/Arabizi_Checkpoints_vlast_d5 | 0 | 0 | [link](https://huggingface.co/Mohamedd123321/Arabizi_Checkpoints_vlast_d5) |
+| 2026-07-23 | physicalai-bmi/efa-1 | 0 | 0 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
+| 2026-07-23 | zycsys/robocasa-cosmos-policy | 0 | 0 | [link](https://huggingface.co/zycsys/robocasa-cosmos-policy) |
+| 2026-07-23 | Andy2435/my_policy | 0 | 0 | [link](https://huggingface.co/Andy2435/my_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| ros-claw/rosclaw | 170 | Python | 68.1 | [link](https://github.com/ros-claw/rosclaw) |
-| commaai/openpilot | 63194 | Python | 25277.7 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15535 | C++ | 6214.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| isaac-sim/IsaacLab | 7740 | Python | 3096.1 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4228 | Python | 1691.3 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3851 | Rust | 1540.5 | [link](https://github.com/dora-rs/dora) |
-| StanfordVL/BEHAVIOR-1K | 1594 | Python | 637.7 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| PhyAgentOS/PhyAgentOS | 952 | Python | 380.9 | [link](https://github.com/PhyAgentOS/PhyAgentOS) |
-| flashrt-project/FlashRT | 446 | C++ | 178.5 | [link](https://github.com/flashrt-project/FlashRT) |
-| sou350121/VLA-Handbook | 420 | HTML | 168.1 | [link](https://github.com/sou350121/VLA-Handbook) |
+| mosaico-labs/mosaico | 892 | Python | 356.9 | [link](https://github.com/mosaico-labs/mosaico) |
+| awslabs/awsome-distributed-ai | 465 | Shell | 186.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| commaai/openpilot | 63195 | Python | 25278.1 | [link](https://github.com/commaai/openpilot) |
+| zauberzeug/nicegui | 16047 | Python | 6418.9 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15536 | C++ | 6214.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| rerun-io/rerun | 11169 | Rust | 4467.7 | [link](https://github.com/rerun-io/rerun) |
+| isaac-sim/IsaacLab | 7743 | Python | 3097.3 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 4230 | Python | 1692.1 | [link](https://github.com/RLinf/RLinf) |
+| dora-rs/dora | 3852 | Rust | 1540.9 | [link](https://github.com/dora-rs/dora) |
+| leofan90/Awesome-World-Models | 1909 | Python | 763.7 | [link](https://github.com/leofan90/Awesome-World-Models) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,7 +119,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-07-23 | China AI firm PsiBot becomes latest startup to hit US$1 billion in value - The Business Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOamN6QWVab0syOS1ySWw5c2RpUG9OT2VDbHdPSTR2WFVxQjRaWUpKb19iU1hHeWw1NFRnMUFVTF9qYWJnLV9yVEo3clJSVS1iZzZ6VkE4bjJ6RGhheG5PbjhpMWhRd3A2WVJ3VlJaWGRoNzBvSE5jVDdYUDZCY2xyRjhGWnctbXYtamdtSXprREYyVi15bWpDckNZN3lTMFhFWVgzdmFZOVA1bnpTeUU2V3BiM19kXzg?oc=5) |
 | 2026-07-23 | PsiBot: China's AI startup valuation hits $1 billion - The Straits Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ3ZjblJ0R3ZYWXdSR0JSNU8xbVFXaE9yNnBnS05zNkhzblhSUk9kOUNWSTZvOWI2UTE2c2dYMm5Gb1dOVGpuY0N0MHFNam9WcXZna0xoaGc4WTFmTVBETWE5QnZ2WnhacGtMSGVvcml5bEh2dWxETGgyOGhMdC1RVkxhSlRvY2dqby1tcUYxdmNIQ1I2ZHZvVUFXNmx6RU1lYlBGSjMtdmYxUnRxVWpJLWhOOXJycnZCQVBXdkJxdHA?oc=5) |
 | 2026-07-23 | Chery backs $100m funding for Chinese AI startup PsiBot - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTW00SXVKOEd4eHUyT3pTazRSZ3VQcTB6UGJoa0Zqd3U3d3JwSEszM2ZjWF81VE5XM19JeGtlNlZzN3puN1BxbktxSEJOMVpNVU93MmhqN0VoR0lKOC04R2xQR0Y3X08wMlVEWTM2XzV1dFBhUGRKOVJtcnFJTnN3Z1JIUWRTd0tOWXFj?oc=5) |
 | 2026-07-22 | Travis Kalanick closes a $1.7 billion round for Atoms as a16z bets big on physical AI - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWlBqblFzb2RZYkU0V3BLUTJXZmpub05GZ25OMVVRS3MxTmpKZFg3V1prdjUwLXZjN2hSTW5sMmwzdTM3elFsWHVhajlrS29BellFMm5KNHg5aHltbGlzb0RidDVCUWpZR05fWkZFOHRpWGhZMUxxVER3NXUtaHBfTVhqQnA3ZmxKMFF0dFZrTFZVMWdiR1RsRlJMQ1hLV0J1QnN0bFpfbFFaTHlsVWJ2SA?oc=5) |
@@ -129,6 +128,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-22 | Agibot Expands Embodied AI Portfolio With Four New Products - AI Business | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFQxZDVFOXc1RHVDQnVkLXprNXFFR1ZkdnZudnVEbUU2ZThOY21yWHNWcER6cWZkblNTMUxpYzZBQ2hkemNFaldJYkNjMmxrZmdSYVdZNDdYdHZKWGFnSmF2N3lvLVRrbjQ1bUctNl8xdVgwOGhBN0QwUUI2QXBzZ1hRRDZob19K?oc=5) |
 | 2026-07-22 | Google Cloud and NVIDIA power microagi's embodied AI ambitions - Tech.eu | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRU9kWmJsNmx6R2hJOG43bmVQRWpCcG1jcEJCYV9hZ3QxckI2RUxDZ0FsdFhwaU80UFRBWUJoQzBOelpoUHRjejVrQ3MyZm1hZmNyT2ZqbUR4SUJtZXpLSVFrc0RHaUNRTTlYREtoNHBWVGh5dk9uM3JhS0dWSVlnaWJoOWUyZ1FiX2hXLVJpWHdkWk0?oc=5) |
 | 2026-07-21 | New Unicorn! Humanoid secures €133 million at €1.1 billion valuation to scale industrial robotics and physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUWF3QVBJNXp5STRDcHJNUDZISjlQc09xRGtnLUl1UXU0WlJNb1dPWVVSRWk2YUtGMU4ydWYwaXQzUG1yZ29XYk5qeHVKUDktUTNZQ09nNFBRM1J4b1BEZXRwaTVLTWZnYXlWMjZSZUQxb2xRbm1YS2NlZHlUVWlEekhuZmRDLWR0MUZGX2pSQXhsWC1tZHdPUnQ1MGYtRHU0T3RTXzBNQzNZSERPN3NGVHFfUmJXc2RvNmhvRTVXOWp4cHBUWDRreDJZN0FNX3A2U2FKSmlYOFFPdFJrWjFQZmRLSQ?oc=5) |
+| 2026-07-21 | Robotics Startup Humanoid Joins The Billion-Dollar Physical AI Club - Finimize | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2hUZXpxMjZ5LWZQWVpsOHV4SUdSSzlwX2g3dElmYmg3X1kxYWhDb3N0NG9xd1BTM3ludXlndEdMeXVKOGdwempTNmdrMVZuWll5YXRKdzhoVEV6bXhNSmo3TzNTcThvejgxcERUVHZhWC05bHZ2bXlhMXdSeklGNjdzeEwzRjczRnFfWVlQX3ZMbm8talNoR0lHbzQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
