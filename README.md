@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-23 18:04 UTC
+Last Updated: 2026-07-23 20:05 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -37,6 +37,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-23 | AMD unveils Kria module for real-time control, unified memory for robots | Robotics Business Review | [link](https://www.therobotreport.com/amd-unveils-kria-module-real-time-control-unified-memory-robots/) |
 | 2026-07-23 | Ropedia raises $22M to scale data collection for training robots | Robotics Business Review | [link](https://www.therobotreport.com/ropedia-raises-22m-scale-data-collection-training-robots/) |
+| 2026-07-23 | Uber co-founder raises $1.7B for new robotics startup ATOMS | Robotics Business Review | [link](https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms/) |
 | 2026-07-22 | NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/) |
 | 2026-07-22 | Medtronic to launch AI compute platform for the operating room | Robotics Business Review | [link](https://www.therobotreport.com/medtronic-launch-ai-compute-platform-operating-room/) |
 | 2026-07-22 | Report shares the state of physical AI and robotics | Robotics Business Review | [link](https://www.therobotreport.com/physical-ai-and-robotics/) |
@@ -44,18 +45,17 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-21 | Friction is key to making better robot world models | Robotics Business Review | [link](https://www.therobotreport.com/friction-is-key-to-making-better-robot-world-models/) |
 | 2026-07-21 | Generative Bionics unveils humanoid robot with full-body tactile sensing | Robotics Business Review | [link](https://www.therobotreport.com/generative-bionics-unveils-humanoid-robot-with-full-body-tactile-sensing/) |
 | 2026-07-21 | Vicarious Surgical officially shutting down | Robotics Business Review | [link](https://www.therobotreport.com/vicarious-surgical-officially-shutting-down/) |
-| 2026-07-21 | U.K.-based Humanoid secures $152M in Series A funding | Robotics Business Review | [link](https://www.therobotreport.com/uk-based-humanoid-secures-152m-in-series-a-funding/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-23 | A Train Departure Board For The Home | Hackaday | [link](https://hackaday.com/2026/07/23/a-train-departure-board-for-the-home/) |
+| 2026-07-23 | Mic Jammer Relies on Ultrasound | Hackaday | [link](https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/) |
 | 2026-07-23 | Hackaday Europe 2026: Half Quad, Half Blimp: Test. Fly. Survive. | Hackaday | [link](https://hackaday.com/2026/07/23/hackaday-europe-2026-half-quad-half-blimp-test-fly-survive/) |
 | 2026-07-23 | Running DOOM on a Custom CPU Built From Scratch | Hackaday | [link](https://hackaday.com/2026/07/23/running-doom-on-a-custom-cpu-built-from-scratch/) |
 | 2026-07-23 | Encryption in the 1790s | Hackaday | [link](https://hackaday.com/2026/07/23/encryption-in-the-1790s/) |
 | 2026-07-23 | Saving Some Coin With 3D Printed Stencils | Hackaday | [link](https://hackaday.com/2026/07/23/saving-some-coin-with-3d-printed-stencils/) |
 | 2026-07-23 | Voice Control Toolkit Comes to a Pico Near You | Hackaday | [link](https://hackaday.com/2026/07/23/voice-control-toolkit-comes-to-a-pico-near-you/) |
-| 2026-07-23 | Industrial GPU Adapted for the Desktop | Hackaday | [link](https://hackaday.com/2026/07/22/industrial-gpu-adapted-for-the-desktop/) |
-| 2026-07-23 | V Formation Flying of Birds is Explained by a Minimal Wake–Vortex Model | Hackaday | [link](https://hackaday.com/2026/07/22/v-formation-flying-of-birds-is-explained-by-a-minimal-wake-vortex-model/) |
 | 2026-07-23 | Augmental MouthPad is a tongue-controlled touchpad/trackpad | CNX Software | [link](https://www.cnx-software.com/2026/07/23/augmental-mouthpad-tongue-controlled-touchpad-trackpad/) |
 | 2026-07-23 | AIS-1000 AI Surveillance Station – A $3,640 NDAA and TAA-compliant AI box based on Raspberry Pi 5 and Hailo-8L | CNX Software | [link](https://www.cnx-software.com/2026/07/23/ais-1000-ai-surveillance-station-a-3640-ndaa-and-taa-compliant-ai-box-based-on-raspberry-pi-5-and-hailo-8l/) |
 | 2026-07-23 | Icy Electronics nRF54L15 Discovery devboard integrates a snappable nRF52820 CMSIS-DAP debugger | CNX Software | [link](https://www.cnx-software.com/2026/07/23/icy-electronics-nrf54l15-discovery-devboard-integrates-a-snappable-nrf52820-cmsis-dap-debugger/) |
@@ -77,9 +77,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-23 | chayen1/robotlegs-stt | 0 | 0 | [link](https://huggingface.co/chayen1/robotlegs-stt) |
 | 2026-07-23 | eurecat-robotics/pi0-umilingo-pickplace-v1 | 0 | 0 | [link](https://huggingface.co/eurecat-robotics/pi0-umilingo-pickplace-v1) |
 | 2026-07-23 | latiao1999/robotics-vla-task-23 | 0 | 0 | [link](https://huggingface.co/latiao1999/robotics-vla-task-23) |
-| 2026-07-23 | chayen1/robotlegs-stt | 0 | 0 | [link](https://huggingface.co/chayen1/robotlegs-stt) |
 | 2026-07-23 | wmkdfmk/robotics-vla-task-23-competitive-v5 | 0 | 0 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v5) |
 | 2026-07-23 | Kei-Sanada/robotics-vla-task-23-basic | 0 | 0 | [link](https://huggingface.co/Kei-Sanada/robotics-vla-task-23-basic) |
 | 2026-07-23 | wmkdfmk/robotics-vla-task-23-competitive-v4 | 0 | 0 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v4) |
@@ -92,15 +92,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 2652 | Python | 1060.9 | [link](https://github.com/NVIDIA/skills) |
+| copper-project/copper-rs | 1421 | Rust | 568.5 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 892 | Python | 356.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 466 | Shell | 186.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63195 | Python | 25278.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63196 | Python | 25278.5 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16051 | Python | 6420.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15540 | C++ | 6216.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14299 | C++ | 5719.7 | [link](https://github.com/google-deepmind/mujoco) |
+| ArduPilot/ardupilot | 15541 | C++ | 6216.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14300 | C++ | 5720.1 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11282 | Python | 4512.9 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11172 | Rust | 4468.9 | [link](https://github.com/rerun-io/rerun) |
-| nasa-jpl/open-source-rover | 9534 | Prolog | 3813.7 | [link](https://github.com/nasa-jpl/open-source-rover) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -123,12 +123,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-23 | Travis Kalanick’s Physical AI Startup Atoms Raises $1.7B in Funding, Led by a16z - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2FsVkRhSWdFX05IMm9DTmo5WXBqZDl1c08wRVBpWld3d0gySDV5NGJZRWt6dnhybjR5Q3Iwa2ZXSVA0U0o3U0hMMUFqQ2tDQWRtNWNmX0RaU09PN1BHTk1oZzVrQXF4cE1XUFQ0V1dhRndnVU95aXZGZmZzdENXYW1fUXdWLWVablJUUDBNV3V2TXhfdUc4OV9HZlJxd1dLOHlWbzRibHF0Q3BpVmRkYzRsV0duZw?oc=5) |
 | 2026-07-23 | Ropedia Raises $30 Million to Scale Data Infrastructure for Physical AI - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxOV1dDVGEzSTNNUUZoZjZTcmx6ZFNobnFlanY4SXBNUy1oSzdDckNENWYwdHI0TXN3NTBSTzZCYUd3eVI3U0ZjQXJwdkx4UHZRTnJDZzA4OEpyREJickQtc0VMU3dQeFBsZWFiMG5PVW1MZlVPMkxHNnJpZFo0STVvNElLdGtaVnd4SzNSRDZzaFMxLUc2bmRYUWVGUmdlbUlxa1pmUmpPZXB4VkZHVm9TTW8zcU9ZRkh0U2ZWTDhLOVJjRVpKZm9UdWpn?oc=5) |
 | 2026-07-23 | Singapore physical AI startup Ropedia raises $22m - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3V3VExMdUdUT1pfbjJsQmdkOVI1Z2FPcVF4ZHJWRmVYTEQyQzJXVU9SNWN3anJQM29XY0VRbG1QNW8xMXlGNDVXNDNwX0JXLUhudkR3c3FpZ3lVLU13bUpJdk9kMERmUG5aUTNSUFJKdFNzeldNMDVUZmRxOGVSLVZhYVBjM0k?oc=5) |
+| 2026-07-23 | Ropedia Raises $30M in Pre-A Funding To Scale Physical AI Data Infrastructure - Ventureburn | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQNTRzRmNscFQyb29TLUZSUTByNGhUS3BtaTByZERuejNlUThscm1udkNTVjR5TjlYTW9jajVWWXdvRWdnejAyUVNYMFZGeWZyMHdOQnVUMEhuUTh5dl9sRjZmVFZra3RQaHd3SURRQlRWeVpkb2Q4eGxpaXNkeGtYRTZnNjNBaUFFLWE0YXhkdlhWbTZNWGxkR0R3TDLSAZwBQVVfeXFMUDU0c0ZjbHBUMm9vUy1GUlEwcjRoVEtwbWkwcmREbnozZVE4bHJtbnZDU1Y0eU45WE1vY2o1Vll3b0VnZ3owMlFTWDBWRnlmcjB3TkJ1VDBIblE4eXZfbEY2ZlRWa2t0UGh3d0lEUUJUVnlaZG9kOHhsaWlzZHhrWEU2ZzYzQWlBRS1hNGF4ZHZYVm02TVhsZEdEd0wy?oc=5) |
 | 2026-07-23 | Chery Bets on Psibot’s VLA Platform as China Births Another Embodied AI Unicorn - Tech Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXRlQTNhanlPU2xyN1ZGaVdiQlRYZGxlRUR6SVVUU2FVdEZMTjh3bmtQVmI4QTlsVUxmWlkzanVpcDd0TGV6NWRhLUdHTXlKSFRwbUlUaUR1RFJEWm9LRVN0NTZ1am1MdVV2dFA3bzN0UlpNODVrYVZTRE4tZldrUS1mNDZXQllZUm9NUnVSS1NJd1FOdGJmUjRMZ25mdEUwTExBYXc3UE13SWN0d2gxdnNzYTYyUWhYb1AtVkRNX2l4T2cwNmc?oc=5) |
-| 2026-07-23 | Chery backs $100m funding for Chinese AI startup PsiBot - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTW00SXVKOEd4eHUyT3pTazRSZ3VQcTB6UGJoa0Zqd3U3d3JwSEszM2ZjWF81VE5XM19JeGtlNlZzN3puN1BxbktxSEJOMVpNVU93MmhqN0VoR0lKOC04R2xQR0Y3X08wMlVEWTM2XzV1dFBhUGRKOVJtcnFJTnN3Z1JIUWRTd0tOWXFj?oc=5) |
 | 2026-07-23 | China’s Psibot becomes latest AI start-up to hit US$1 billion value - The Straits Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnhWb2Mwa25jOUNOM0hhRjZpOFh4ZG1IV2tDNjNZdWVWMHF5dVlDSE0xRDl4SFNQUFU1NkIzN0pXa1lyajdlcmFleWxOemh0eGt0UnNlUHAzWElsbXVGRmNKYWVidW9yd25hX2RIcG11eGw0TUx2N3NSbWFaNy1Mbkk4MF9qV0huN2NGdlNXQnoxWFNoekFnYmxBdl9FV1YxV2F6Uw?oc=5) |
 | 2026-07-23 | China AI firm PsiBot becomes latest startup to hit US$1 billion in value - The Business Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOamN6QWVab0syOS1ySWw5c2RpUG9OT2VDbHdPSTR2WFVxQjRaWUpKb19iU1hHeWw1NFRnMUFVTF9qYWJnLV9yVEo3clJSVS1iZzZ6VkE4bjJ6RGhheG5PbjhpMWhRd3A2WVJ3VlJaWGRoNzBvSE5jVDdYUDZCY2xyRjhGWnctbXYtamdtSXprREYyVi15bWpDckNZN3lTMFhFWVgzdmFZOVA1bnpTeUU2V3BiM19kXzg?oc=5) |
+| 2026-07-23 | Chery backs $100m funding for Chinese AI startup PsiBot - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTW00SXVKOEd4eHUyT3pTazRSZ3VQcTB6UGJoa0Zqd3U3d3JwSEszM2ZjWF81VE5XM19JeGtlNlZzN3puN1BxbktxSEJOMVpNVU93MmhqN0VoR0lKOC04R2xQR0Y3X08wMlVEWTM2XzV1dFBhUGRKOVJtcnFJTnN3Z1JIUWRTd0tOWXFj?oc=5) |
 | 2026-07-22 | Travis Kalanick closes a $1.7 billion round for Atoms as a16z bets big on physical AI - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWlBqblFzb2RZYkU0V3BLUTJXZmpub05GZ25OMVVRS3MxTmpKZFg3V1prdjUwLXZjN2hSTW5sMmwzdTM3elFsWHVhajlrS29BellFMm5KNHg5aHltbGlzb0RidDVCUWpZR05fWkZFOHRpWGhZMUxxVER3NXUtaHBfTVhqQnA3ZmxKMFF0dFZrTFZVMWdiR1RsRlJMQ1hLV0J1QnN0bFpfbFFaTHlsVWJ2SA?oc=5) |
-| 2026-07-22 | Kalanick's Atoms Raises Big - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFNBYXFHNFAzYVVTQXFGcnpORElkS0hudERhaDd2a0Fza1dOTmE5UXZHYjVvVGw5NnBkOFV6WXpGSUp6TVJ3bXVvZURXWGQ5YVBCSGpvMWlOcWVDckdSVDFMVlJ0aFV6SnZURlB2YWlxUkNtLVJPS3JMUHFwb1NEQUVMTEtHZHll?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
