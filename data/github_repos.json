@@ -1,13 +1,23 @@
 [
   {
     "repo": "NVIDIA/skills",
-    "stars": 2652,
+    "stars": 2653,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-07-23",
     "topic": "physical-ai",
-    "score": 1060.9
+    "score": 1061.3
+  },
+  {
+    "repo": "Edgenesis/shifu",
+    "stars": 1426,
+    "language": "Go",
+    "description": "Kubernetes-native IoT gateway",
+    "url": "https://github.com/Edgenesis/shifu",
+    "date": "2026-07-23",
+    "topic": "physical-ai",
+    "score": 570.5
   },
   {
     "repo": "copper-project/copper-rs",
@@ -61,13 +71,13 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15541,
+    "stars": 15540,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-07-23",
     "topic": "robotics",
-    "score": 6216.5
+    "score": 6216.1
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -101,13 +111,13 @@
   },
   {
     "repo": "nasa-jpl/open-source-rover",
-    "stars": 9534,
+    "stars": 9535,
     "language": "Prolog",
     "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
     "url": "https://github.com/nasa-jpl/open-source-rover",
     "date": "2026-07-23",
     "topic": "robotics",
-    "score": 3813.7
+    "score": 3814.1
   },
   {
     "repo": "RLinf/RLinf",
@@ -440,16 +450,6 @@
     "score": 9.7
   },
   {
-    "repo": "Edgenesis/shifu",
-    "stars": 1426,
-    "language": "Go",
-    "description": "Kubernetes-native IoT gateway",
-    "url": "https://github.com/Edgenesis/shifu",
-    "date": "2026-07-20",
-    "topic": "physical-ai",
-    "score": 570.5
-  },
-  {
     "repo": "AtsushiSakai/PythonRobotics",
     "stars": 30115,
     "language": "Python",
@@ -621,13 +621,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 9928,
+    "stars": 9947,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 3971.3
+    "score": 3978.9
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -851,13 +851,13 @@
   },
   {
     "repo": "mani-skill/ManiSkill",
-    "stars": 3144,
+    "stars": 3145,
     "language": "Python",
     "description": "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
     "url": "https://github.com/mani-skill/ManiSkill",
     "date": "2026-06-24",
     "topic": "robot-learning",
-    "score": 1257.7
+    "score": 1258.1
   },
   {
     "repo": "automatika-robotics/emos",
