@@ -1,18 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-23 16:20 UTC
+Generated: 2026-07-23 18:04 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-07-22 | Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning | [link](https://arxiv.org/pdf/2607.20399v1) |
+| 2026-07-22 | Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot | [link](https://arxiv.org/pdf/2607.20392v1) |
+| 2026-07-22 | Distributed Motion Planning with Safety Guarantees for Self-Reconfiguring Robotic Boats | [link](https://arxiv.org/pdf/2607.20352v1) |
+| 2026-07-22 | Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids | [link](https://arxiv.org/pdf/2607.20345v1) |
+| 2026-07-22 | Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments | [link](https://arxiv.org/pdf/2607.20289v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82675 | 33070.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82680 | 33072.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63195 | 25278.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44283 | 17713.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30114 | 12045.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16050 | 6420.1 | [link](https://github.com/zauberzeug/nicegui) |
+| AtsushiSakai/PythonRobotics | 30115 | 12046.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16051 | 6420.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -36,7 +42,7 @@ _No items collected yet._
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-07-23 | Black Forest Labs Unveils First Model for Robotics in Shift to Physical AI - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaU9uQ1E3bS01Y3VwZE93clV2Z1BXUk05UGhHQkZMZUYtVTVvMTVtSkd6eTdVX194R2ItbURLVTZOUlNvdmxZMndUbU9vR0ViREFUYWI5cWNrQUxoRzh6V1B2YS1pcEszaGR3NlBEdVJLTldIdS04b0EzdTgwbGhKZTJDNmw4SkJwVHUyWkZXRWhnQkZJWHJLUjdPbHg4T3ZRYmdwa0hycE1FemxXUGJ3c2FFbnhTaElLQnRiSnZwajdVN28?oc=5) |
-| 2026-07-23 | Travis Kalanick’s Physical AI Startup Atoms Raises $1.7B in Funding, led by a16z - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2FsVkRhSWdFX05IMm9DTmo5WXBqZDl1c08wRVBpWld3d0gySDV5NGJZRWt6dnhybjR5Q3Iwa2ZXSVA0U0o3U0hMMUFqQ2tDQWRtNWNmX0RaU09PN1BHTk1oZzVrQXF4cE1XUFQ0V1dhRndnVU95aXZGZmZzdENXYW1fUXdWLWVablJUUDBNV3V2TXhfdUc4OV9HZlJxd1dLOHlWbzRibHF0Q3BpVmRkYzRsV0duZw?oc=5) |
+| 2026-07-23 | Travis Kalanick’s Physical AI Startup Atoms Raises $1.7B in Funding, Led by a16z - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2FsVkRhSWdFX05IMm9DTmo5WXBqZDl1c08wRVBpWld3d0gySDV5NGJZRWt6dnhybjR5Q3Iwa2ZXSVA0U0o3U0hMMUFqQ2tDQWRtNWNmX0RaU09PN1BHTk1oZzVrQXF4cE1XUFQ0V1dhRndnVU95aXZGZmZzdENXYW1fUXdWLWVablJUUDBNV3V2TXhfdUc4OV9HZlJxd1dLOHlWbzRibHF0Q3BpVmRkYzRsV0duZw?oc=5) |
 | 2026-07-23 | Ropedia Raises $30 Million to Scale Data Infrastructure for Physical AI - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxOV1dDVGEzSTNNUUZoZjZTcmx6ZFNobnFlanY4SXBNUy1oSzdDckNENWYwdHI0TXN3NTBSTzZCYUd3eVI3U0ZjQXJwdkx4UHZRTnJDZzA4OEpyREJickQtc0VMU3dQeFBsZWFiMG5PVW1MZlVPMkxHNnJpZFo0STVvNElLdGtaVnd4SzNSRDZzaFMxLUc2bmRYUWVGUmdlbUlxa1pmUmpPZXB4VkZHVm9TTW8zcU9ZRkh0U2ZWTDhLOVJjRVpKZm9UdWpn?oc=5) |
 | 2026-07-23 | Singapore physical AI startup Ropedia raises $22m - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3V3VExMdUdUT1pfbjJsQmdkOVI1Z2FPcVF4ZHJWRmVYTEQyQzJXVU9SNWN3anJQM29XY0VRbG1QNW8xMXlGNDVXNDNwX0JXLUhudkR3c3FpZ3lVLU13bUpJdk9kMERmUG5aUTNSUFJKdFNzeldNMDVUZmRxOGVSLVZhYVBjM0k?oc=5) |
 | 2026-07-23 | Chery Bets on Psibot’s VLA Platform as China Births Another Embodied AI Unicorn - Tech Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXRlQTNhanlPU2xyN1ZGaVdiQlRYZGxlRUR6SVVUU2FVdEZMTjh3bmtQVmI4QTlsVUxmWlkzanVpcDd0TGV6NWRhLUdHTXlKSFRwbUlUaUR1RFJEWm9LRVN0NTZ1am1MdVV2dFA3bzN0UlpNODVrYVZTRE4tZldrUS1mNDZXQllZUm9NUnVSS1NJd1FOdGJmUjRMZ25mdEUwTExBYXc3UE13SWN0d2gxdnNzYTYyUWhYb1AtVkRNX2l4T2cwNmc?oc=5) |
