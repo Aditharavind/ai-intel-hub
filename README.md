@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-23 20:05 UTC
+Last Updated: 2026-07-23 21:51 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -38,13 +38,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-23 | AMD unveils Kria module for real-time control, unified memory for robots | Robotics Business Review | [link](https://www.therobotreport.com/amd-unveils-kria-module-real-time-control-unified-memory-robots/) |
 | 2026-07-23 | Ropedia raises $22M to scale data collection for training robots | Robotics Business Review | [link](https://www.therobotreport.com/ropedia-raises-22m-scale-data-collection-training-robots/) |
 | 2026-07-23 | Uber co-founder raises $1.7B for new robotics startup ATOMS | Robotics Business Review | [link](https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms/) |
+| 2026-07-23 | Holiday Robotics raises $105M for its FRIDAY wheeled humanoid | Robotics Business Review | [link](https://www.therobotreport.com/holiday-robotics-raises-105m-wheeled-humanoid-friday/) |
 | 2026-07-22 | NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/) |
 | 2026-07-22 | Medtronic to launch AI compute platform for the operating room | Robotics Business Review | [link](https://www.therobotreport.com/medtronic-launch-ai-compute-platform-operating-room/) |
 | 2026-07-22 | Report shares the state of physical AI and robotics | Robotics Business Review | [link](https://www.therobotreport.com/physical-ai-and-robotics/) |
 | 2026-07-21 | MISUMI Americas releases reshoring report, supports manufacturing training bill | Robotics Business Review | [link](https://www.therobotreport.com/misumi-americas-releases-reshoring-report-supports-manufacturing-training-bill/) |
 | 2026-07-21 | Friction is key to making better robot world models | Robotics Business Review | [link](https://www.therobotreport.com/friction-is-key-to-making-better-robot-world-models/) |
 | 2026-07-21 | Generative Bionics unveils humanoid robot with full-body tactile sensing | Robotics Business Review | [link](https://www.therobotreport.com/generative-bionics-unveils-humanoid-robot-with-full-body-tactile-sensing/) |
-| 2026-07-21 | Vicarious Surgical officially shutting down | Robotics Business Review | [link](https://www.therobotreport.com/vicarious-surgical-officially-shutting-down/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -92,15 +92,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 2652 | Python | 1060.9 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1421 | Rust | 568.5 | [link](https://github.com/copper-project/copper-rs) |
+| copper-project/copper-rs | 1422 | Rust | 568.9 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 892 | Python | 356.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 466 | Shell | 186.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63196 | Python | 25278.5 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 16051 | Python | 6420.5 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16052 | Python | 6420.9 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15541 | C++ | 6216.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14300 | C++ | 5720.1 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11282 | Python | 4512.9 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11172 | Rust | 4468.9 | [link](https://github.com/rerun-io/rerun) |
+| rerun-io/rerun | 11173 | Rust | 4469.3 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -125,8 +125,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-23 | Singapore physical AI startup Ropedia raises $22m - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3V3VExMdUdUT1pfbjJsQmdkOVI1Z2FPcVF4ZHJWRmVYTEQyQzJXVU9SNWN3anJQM29XY0VRbG1QNW8xMXlGNDVXNDNwX0JXLUhudkR3c3FpZ3lVLU13bUpJdk9kMERmUG5aUTNSUFJKdFNzeldNMDVUZmRxOGVSLVZhYVBjM0k?oc=5) |
 | 2026-07-23 | Ropedia Raises $30M in Pre-A Funding To Scale Physical AI Data Infrastructure - Ventureburn | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQNTRzRmNscFQyb29TLUZSUTByNGhUS3BtaTByZERuejNlUThscm1udkNTVjR5TjlYTW9jajVWWXdvRWdnejAyUVNYMFZGeWZyMHdOQnVUMEhuUTh5dl9sRjZmVFZra3RQaHd3SURRQlRWeVpkb2Q4eGxpaXNkeGtYRTZnNjNBaUFFLWE0YXhkdlhWbTZNWGxkR0R3TDLSAZwBQVVfeXFMUDU0c0ZjbHBUMm9vUy1GUlEwcjRoVEtwbWkwcmREbnozZVE4bHJtbnZDU1Y0eU45WE1vY2o1Vll3b0VnZ3owMlFTWDBWRnlmcjB3TkJ1VDBIblE4eXZfbEY2ZlRWa2t0UGh3d0lEUUJUVnlaZG9kOHhsaWlzZHhrWEU2ZzYzQWlBRS1hNGF4ZHZYVm02TVhsZEdEd0wy?oc=5) |
 | 2026-07-23 | Chery Bets on Psibot’s VLA Platform as China Births Another Embodied AI Unicorn - Tech Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXRlQTNhanlPU2xyN1ZGaVdiQlRYZGxlRUR6SVVUU2FVdEZMTjh3bmtQVmI4QTlsVUxmWlkzanVpcDd0TGV6NWRhLUdHTXlKSFRwbUlUaUR1RFJEWm9LRVN0NTZ1am1MdVV2dFA3bzN0UlpNODVrYVZTRE4tZldrUS1mNDZXQllZUm9NUnVSS1NJd1FOdGJmUjRMZ25mdEUwTExBYXc3UE13SWN0d2gxdnNzYTYyUWhYb1AtVkRNX2l4T2cwNmc?oc=5) |
-| 2026-07-23 | China’s Psibot becomes latest AI start-up to hit US$1 billion value - The Straits Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnhWb2Mwa25jOUNOM0hhRjZpOFh4ZG1IV2tDNjNZdWVWMHF5dVlDSE0xRDl4SFNQUFU1NkIzN0pXa1lyajdlcmFleWxOemh0eGt0UnNlUHAzWElsbXVGRmNKYWVidW9yd25hX2RIcG11eGw0TUx2N3NSbWFaNy1Mbkk4MF9qV0huN2NGdlNXQnoxWFNoekFnYmxBdl9FV1YxV2F6Uw?oc=5) |
 | 2026-07-23 | China AI firm PsiBot becomes latest startup to hit US$1 billion in value - The Business Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOamN6QWVab0syOS1ySWw5c2RpUG9OT2VDbHdPSTR2WFVxQjRaWUpKb19iU1hHeWw1NFRnMUFVTF9qYWJnLV9yVEo3clJSVS1iZzZ6VkE4bjJ6RGhheG5PbjhpMWhRd3A2WVJ3VlJaWGRoNzBvSE5jVDdYUDZCY2xyRjhGWnctbXYtamdtSXprREYyVi15bWpDckNZN3lTMFhFWVgzdmFZOVA1bnpTeUU2V3BiM19kXzg?oc=5) |
+| 2026-07-23 | PsiBot: China's AI startup valuation hits $1 billion - The Straits Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnhWb2Mwa25jOUNOM0hhRjZpOFh4ZG1IV2tDNjNZdWVWMHF5dVlDSE0xRDl4SFNQUFU1NkIzN0pXa1lyajdlcmFleWxOemh0eGt0UnNlUHAzWElsbXVGRmNKYWVidW9yd25hX2RIcG11eGw0TUx2N3NSbWFaNy1Mbkk4MF9qV0huN2NGdlNXQnoxWFNoekFnYmxBdl9FV1YxV2F6Uw?oc=5) |
 | 2026-07-23 | Chery backs $100m funding for Chinese AI startup PsiBot - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTW00SXVKOEd4eHUyT3pTazRSZ3VQcTB6UGJoa0Zqd3U3d3JwSEszM2ZjWF81VE5XM19JeGtlNlZzN3puN1BxbktxSEJOMVpNVU93MmhqN0VoR0lKOC04R2xQR0Y3X08wMlVEWTM2XzV1dFBhUGRKOVJtcnFJTnN3Z1JIUWRTd0tOWXFj?oc=5) |
 | 2026-07-22 | Travis Kalanick closes a $1.7 billion round for Atoms as a16z bets big on physical AI - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWlBqblFzb2RZYkU0V3BLUTJXZmpub05GZ25OMVVRS3MxTmpKZFg3V1prdjUwLXZjN2hSTW5sMmwzdTM3elFsWHVhajlrS29BellFMm5KNHg5aHltbGlzb0RidDVCUWpZR05fWkZFOHRpWGhZMUxxVER3NXUtaHBfTVhqQnA3ZmxKMFF0dFZrTFZVMWdiR1RsRlJMQ1hLV0J1QnN0bFpfbFFaTHlsVWJ2SA?oc=5) |
 
