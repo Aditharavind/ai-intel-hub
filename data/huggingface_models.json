@@ -1,5 +1,23 @@
 [
   {
+    "model": "eurecat-robotics/pi0-umilingo-pickplace-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/eurecat-robotics/pi0-umilingo-pickplace-v1",
+    "date": "2026-07-23",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "latiao1999/robotics-vla-task-23",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/latiao1999/robotics-vla-task-23",
+    "date": "2026-07-23",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "chayen1/robotlegs-stt",
     "downloads": 0,
     "likes": 0,
@@ -90,21 +108,12 @@
     "score": 0.1
   },
   {
-    "model": "RobotisSW/Task_0723_Pick_Jelly_10K",
+    "model": "EmpathicRobotics/tokenizer-vla-qwen3-v2",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_0723_Pick_Jelly_10K",
+    "url": "https://huggingface.co/EmpathicRobotics/tokenizer-vla-qwen3-v2",
     "date": "2026-07-23",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Task_0723_Chestnut_50K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_0723_Chestnut_50K",
-    "date": "2026-07-23",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -153,24 +162,6 @@
     "score": 0.1
   },
   {
-    "model": "MerazAhmed3420/task-23-vla-dino-l",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MerazAhmed3420/task-23-vla-dino-l",
-    "date": "2026-07-23",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "tron-robot/yam-vla-handoff",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tron-robot/yam-vla-handoff",
-    "date": "2026-07-23",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "physicalai-bmi/efa-1",
     "downloads": 0,
     "likes": 0,
@@ -198,6 +189,15 @@
     "score": 0.1
   },
   {
+    "model": "dookidooki/omx_act_policy_part2_v4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dookidooki/omx_act_policy_part2_v4",
+    "date": "2026-07-23",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "dookidooki/omx_act_policy_part1_v3",
     "downloads": 0,
     "likes": 0,
@@ -211,15 +211,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/dookidooki/omx_act_policy_part3_v4",
-    "date": "2026-07-23",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "dookidooki/omx_act_policy_part2_v4",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/dookidooki/omx_act_policy_part2_v4",
     "date": "2026-07-23",
     "keyword": "policy",
     "score": 0.1
@@ -351,15 +342,6 @@
     "score": 0.1
   },
   {
-    "model": "latiao1999/robotics-vla-task-23",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/latiao1999/robotics-vla-task-23",
-    "date": "2026-07-22",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b",
     "downloads": 53,
     "likes": 0,
@@ -394,15 +376,6 @@
     "date": "2026-07-22",
     "keyword": "robotics",
     "score": 14.2
-  },
-  {
-    "model": "fangcaotank/robotics-vla-task-23-qwen3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/fangcaotank/robotics-vla-task-23-qwen3",
-    "date": "2026-07-22",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp06-world-model-stage1-full-epoch3-stage2-lora-epoch3",

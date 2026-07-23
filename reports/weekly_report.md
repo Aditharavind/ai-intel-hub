@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-23 14:57 UTC
+Generated: 2026-07-23 16:20 UTC
 
 ## Top Papers
 _No items collected yet._
@@ -8,11 +8,11 @@ _No items collected yet._
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82677 | 33070.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82675 | 33070.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63195 | 25278.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44283 | 17713.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30114 | 12045.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16048 | 6419.3 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16050 | 6420.1 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -35,8 +35,8 @@ _No items collected yet._
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-23 | Black Forest Labs Unveils First Model for Robotics in Shift to Physical AI - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaU9uQ1E3bS01Y3VwZE93clV2Z1BXUk05UGhHQkZMZUYtVTVvMTVtSkd6eTdVX194R2ItbURLVTZOUlNvdmxZMndUbU9vR0ViREFUYWI5cWNrQUxoRzh6V1B2YS1pcEszaGR3NlBEdVJLTldIdS04b0EzdTgwbGhKZTJDNmw4SkJwVHUyWkZXRWhnQkZJWHJLUjdPbHg4T3ZRYmdwa0hycE1FemxXUGJ3c2FFbnhTaElLQnRiSnZwajdVN28?oc=5) |
 | 2026-07-23 | Travis Kalanick’s Physical AI Startup Atoms Raises $1.7B in Funding, led by a16z - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2FsVkRhSWdFX05IMm9DTmo5WXBqZDl1c08wRVBpWld3d0gySDV5NGJZRWt6dnhybjR5Q3Iwa2ZXSVA0U0o3U0hMMUFqQ2tDQWRtNWNmX0RaU09PN1BHTk1oZzVrQXF4cE1XUFQ0V1dhRndnVU95aXZGZmZzdENXYW1fUXdWLWVablJUUDBNV3V2TXhfdUc4OV9HZlJxd1dLOHlWbzRibHF0Q3BpVmRkYzRsV0duZw?oc=5) |
+| 2026-07-23 | Ropedia Raises $30 Million to Scale Data Infrastructure for Physical AI - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxOV1dDVGEzSTNNUUZoZjZTcmx6ZFNobnFlanY4SXBNUy1oSzdDckNENWYwdHI0TXN3NTBSTzZCYUd3eVI3U0ZjQXJwdkx4UHZRTnJDZzA4OEpyREJickQtc0VMU3dQeFBsZWFiMG5PVW1MZlVPMkxHNnJpZFo0STVvNElLdGtaVnd4SzNSRDZzaFMxLUc2bmRYUWVGUmdlbUlxa1pmUmpPZXB4VkZHVm9TTW8zcU9ZRkh0U2ZWTDhLOVJjRVpKZm9UdWpn?oc=5) |
 | 2026-07-23 | Singapore physical AI startup Ropedia raises $22m - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3V3VExMdUdUT1pfbjJsQmdkOVI1Z2FPcVF4ZHJWRmVYTEQyQzJXVU9SNWN3anJQM29XY0VRbG1QNW8xMXlGNDVXNDNwX0JXLUhudkR3c3FpZ3lVLU13bUpJdk9kMERmUG5aUTNSUFJKdFNzeldNMDVUZmRxOGVSLVZhYVBjM0k?oc=5) |
 | 2026-07-23 | Chery Bets on Psibot’s VLA Platform as China Births Another Embodied AI Unicorn - Tech Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXRlQTNhanlPU2xyN1ZGaVdiQlRYZGxlRUR6SVVUU2FVdEZMTjh3bmtQVmI4QTlsVUxmWlkzanVpcDd0TGV6NWRhLUdHTXlKSFRwbUlUaUR1RFJEWm9LRVN0NTZ1am1MdVV2dFA3bzN0UlpNODVrYVZTRE4tZldrUS1mNDZXQllZUm9NUnVSS1NJd1FOdGJmUjRMZ25mdEUwTExBYXc3UE13SWN0d2gxdnNzYTYyUWhYb1AtVkRNX2l4T2cwNmc?oc=5) |
-| 2026-07-23 | Chery backs $100m funding for Chinese AI startup PsiBot - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTW00SXVKOEd4eHUyT3pTazRSZ3VQcTB6UGJoa0Zqd3U3d3JwSEszM2ZjWF81VE5XM19JeGtlNlZzN3puN1BxbktxSEJOMVpNVU93MmhqN0VoR0lKOC04R2xQR0Y3X08wMlVEWTM2XzV1dFBhUGRKOVJtcnFJTnN3Z1JIUWRTd0tOWXFj?oc=5) |
-| 2026-07-23 | China AI firm PsiBot becomes latest startup to hit US$1 billion in value - The Business Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOamN6QWVab0syOS1ySWw5c2RpUG9OT2VDbHdPSTR2WFVxQjRaWUpKb19iU1hHeWw1NFRnMUFVTF9qYWJnLV9yVEo3clJSVS1iZzZ6VkE4bjJ6RGhheG5PbjhpMWhRd3A2WVJ3VlJaWGRoNzBvSE5jVDdYUDZCY2xyRjhGWnctbXYtamdtSXprREYyVi15bWpDckNZN3lTMFhFWVgzdmFZOVA1bnpTeUU2V3BiM19kXzg?oc=5) |

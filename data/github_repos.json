@@ -1,5 +1,15 @@
 [
   {
+    "repo": "NVIDIA/skills",
+    "stars": 2652,
+    "language": "Python",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "url": "https://github.com/NVIDIA/skills",
+    "date": "2026-07-23",
+    "topic": "physical-ai",
+    "score": 1060.9
+  },
+  {
     "repo": "mosaico-labs/mosaico",
     "stars": 892,
     "language": "Python",
@@ -31,13 +41,13 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16048,
+    "stars": 16050,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-07-23",
     "topic": "robotics",
-    "score": 6419.3
+    "score": 6420.1
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -48,6 +58,16 @@
     "date": "2026-07-23",
     "topic": "robotics",
     "score": 6215.7
+  },
+  {
+    "repo": "google-deepmind/mujoco",
+    "stars": 14299,
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "date": "2026-07-23",
+    "topic": "robotics",
+    "score": 5719.7
   },
   {
     "repo": "kornia/kornia",
@@ -61,13 +81,13 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11171,
+    "stars": 11172,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-07-23",
     "topic": "robotics",
-    "score": 4468.5
+    "score": 4468.9
   },
   {
     "repo": "nasa-jpl/open-source-rover",
@@ -121,13 +141,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS",
-    "stars": 992,
+    "stars": 994,
     "language": "Python",
     "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS",
     "date": "2026-07-23",
     "topic": "embodied-ai",
-    "score": 396.9
+    "score": 397.7
   },
   {
     "repo": "flashrt-project/FlashRT",
@@ -161,23 +181,23 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5662,
+    "stars": 5663,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-23",
     "topic": "world-model",
-    "score": 2264.9
+    "score": 2265.3
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 2062,
+    "stars": 2063,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-07-23",
     "topic": "world-model",
-    "score": 824.9
+    "score": 825.3
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -231,23 +251,13 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7744,
+    "stars": 7746,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-07-23",
     "topic": "robot-learning",
-    "score": 3097.7
-  },
-  {
-    "repo": "NVIDIA/skills",
-    "stars": 2651,
-    "language": "Python",
-    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
-    "url": "https://github.com/NVIDIA/skills",
-    "date": "2026-07-22",
-    "topic": "physical-ai",
-    "score": 1060.5
+    "score": 3098.5
   },
   {
     "repo": "NVlabs/alpamayo",
@@ -298,16 +308,6 @@
     "date": "2026-07-22",
     "topic": "vla",
     "score": 136.1
-  },
-  {
-    "repo": "google-deepmind/mujoco",
-    "stars": 14297,
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "url": "https://github.com/google-deepmind/mujoco",
-    "date": "2026-07-22",
-    "topic": "robotics",
-    "score": 5718.9
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -461,23 +461,23 @@
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3210,
+    "stars": 3211,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-07-20",
     "topic": "embodied-ai",
-    "score": 1284.1
+    "score": 1284.5
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2835,
+    "stars": 2836,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-07-20",
     "topic": "embodied-ai",
-    "score": 1134.1
+    "score": 1134.5
   },
   {
     "repo": "nv-tlabs/lyra",
@@ -571,13 +571,13 @@
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2624,
+    "stars": 2625,
     "language": "Python",
     "description": "RoboTwin 2.0 Offical Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-07-14",
     "topic": "embodied-ai",
-    "score": 1049.7
+    "score": 1050.1
   },
   {
     "repo": "zchoi/Awesome-Embodied-Robotics-and-Agent",
@@ -621,13 +621,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 9803,
+    "stars": 9829,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 3921.3
+    "score": 3931.7
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -671,13 +671,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82677,
+    "stars": 82675,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 33070.9
+    "score": 33070.1
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
