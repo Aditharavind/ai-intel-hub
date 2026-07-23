@@ -1,5 +1,50 @@
 [
   {
+    "model": "chayen1/robotlegs-stt",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/chayen1/robotlegs-stt",
+    "date": "2026-07-23",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "wmkdfmk/robotics-vla-task-23-competitive-v5",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v5",
+    "date": "2026-07-23",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "Kei-Sanada/robotics-vla-task-23-basic",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Kei-Sanada/robotics-vla-task-23-basic",
+    "date": "2026-07-23",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "wmkdfmk/robotics-vla-task-23-competitive-v4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v4",
+    "date": "2026-07-23",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "silent666/robotics-vla-basic-cnn-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/silent666/robotics-vla-basic-cnn-v2",
+    "date": "2026-07-23",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "silent666/robotics-vla-qwen3b",
     "downloads": 0,
     "likes": 0,
@@ -63,51 +108,6 @@
     "score": 0.1
   },
   {
-    "model": "RobotisSW/Task_0723_Chestnut_30K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_0723_Chestnut_30K",
-    "date": "2026-07-23",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Task_0723_Chestnut_10K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_0723_Chestnut_10K",
-    "date": "2026-07-23",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "tron-robot/yam-vla-handoff",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tron-robot/yam-vla-handoff",
-    "date": "2026-07-23",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sugarpepper99/qwen-robot-lora-v2-modify",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sugarpepper99/qwen-robot-lora-v2-modify",
-    "date": "2026-07-23",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Karajan42/dream-robot-gauntlet-policies",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Karajan42/dream-robot-gauntlet-policies",
-    "date": "2026-07-23",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "Mohamedd123321/Arabizi_Checkpoints_vlast_d5",
     "downloads": 34,
     "likes": 0,
@@ -115,6 +115,33 @@
     "date": "2026-07-23",
     "keyword": "vla",
     "score": 10.3
+  },
+  {
+    "model": "ciccio42/tiny_vla_llava_pythia_lora_real_ur5e_pick_place_delta_removed_0_5_10_15_lora_r_128",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ciccio42/tiny_vla_llava_pythia_lora_real_ur5e_pick_place_delta_removed_0_5_10_15_lora_r_128",
+    "date": "2026-07-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "denkiwakame/Qwen3.5-2B-FFT-VLA0-2-0723",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/denkiwakame/Qwen3.5-2B-FFT-VLA0-2-0723",
+    "date": "2026-07-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "MerazAhmed3420/task-23-vla-dino-l-late",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MerazAhmed3420/task-23-vla-dino-l-late",
+    "date": "2026-07-23",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "MerazAhmed3420/task-23-vla-dino-g",
@@ -132,6 +159,24 @@
     "url": "https://huggingface.co/MerazAhmed3420/task-23-vla-dino-l",
     "date": "2026-07-23",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "tron-robot/yam-vla-handoff",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tron-robot/yam-vla-handoff",
+    "date": "2026-07-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "physicalai-bmi/efa-1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/physicalai-bmi/efa-1",
+    "date": "2026-07-23",
+    "keyword": "physical ai",
     "score": 0.1
   },
   {
@@ -153,12 +198,12 @@
     "score": 0.1
   },
   {
-    "model": "physicalai-bmi/efa-1",
+    "model": "dookidooki/omx_act_policy_part1_v3",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/physicalai-bmi/efa-1",
+    "url": "https://huggingface.co/dookidooki/omx_act_policy_part1_v3",
     "date": "2026-07-23",
-    "keyword": "physical ai",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -175,15 +220,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/dookidooki/omx_act_policy_part2_v4",
-    "date": "2026-07-23",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "dookidooki/omx_act_policy_part1_v3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/dookidooki/omx_act_policy_part1_v3",
     "date": "2026-07-23",
     "keyword": "policy",
     "score": 0.1
@@ -270,69 +306,6 @@
     "score": 6.1
   },
   {
-    "model": "tiao55/robotics-vla-task-23-v6-multibackbone-calibrated",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tiao55/robotics-vla-task-23-v6-multibackbone-calibrated",
-    "date": "2026-07-22",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "latiao1999/robotics-vla-task-23",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/latiao1999/robotics-vla-task-23",
-    "date": "2026-07-22",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "MerazAhmed3420/task-23-vla-cnn-1500",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MerazAhmed3420/task-23-vla-cnn-1500",
-    "date": "2026-07-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "maximellerbach/folding_vla_jepa",
-    "downloads": 48,
-    "likes": 0,
-    "url": "https://huggingface.co/maximellerbach/folding_vla_jepa",
-    "date": "2026-07-22",
-    "keyword": "vla",
-    "score": 14.5
-  },
-  {
-    "model": "zwan1003/pickplace_skills_vla_v3_2",
-    "downloads": 18,
-    "likes": 0,
-    "url": "https://huggingface.co/zwan1003/pickplace_skills_vla_v3_2",
-    "date": "2026-07-22",
-    "keyword": "vla",
-    "score": 5.5
-  },
-  {
-    "model": "YccHugAi/lingbot-vla-2-stackcube-ablations",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/YccHugAi/lingbot-vla-2-stackcube-ablations",
-    "date": "2026-07-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mradermacher/vla-1.7b-qwen3-v2-GGUF",
-    "downloads": 195,
-    "likes": 0,
-    "url": "https://huggingface.co/mradermacher/vla-1.7b-qwen3-v2-GGUF",
-    "date": "2026-07-22",
-    "keyword": "vla",
-    "score": 58.6
-  },
-  {
     "model": "Datawhale/every-embodied-smolvla-mujoco-pnp",
     "downloads": 0,
     "likes": 0,
@@ -369,6 +342,24 @@
     "score": 3.7
   },
   {
+    "model": "tiao55/robotics-vla-task-23-v6-multibackbone-calibrated",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tiao55/robotics-vla-task-23-v6-multibackbone-calibrated",
+    "date": "2026-07-22",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "latiao1999/robotics-vla-task-23",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/latiao1999/robotics-vla-task-23",
+    "date": "2026-07-22",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b",
     "downloads": 53,
     "likes": 0,
@@ -391,15 +382,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/tiao55/robotics-vla-task-23-basic",
-    "date": "2026-07-22",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "Kei-Sanada/robotics-vla-task-23-basic",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Kei-Sanada/robotics-vla-task-23-basic",
     "date": "2026-07-22",
     "keyword": "robotics",
     "score": 0.1
@@ -448,33 +430,6 @@
     "date": "2026-07-21",
     "keyword": "world model",
     "score": 10.3
-  },
-  {
-    "model": "MerazAhmed3420/task-23-robotics-vla-diffusion",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MerazAhmed3420/task-23-robotics-vla-diffusion",
-    "date": "2026-07-21",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "puppet-robotics/golf-model-200-obs",
-    "downloads": 104,
-    "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-200-obs",
-    "date": "2026-07-21",
-    "keyword": "robotics",
-    "score": 31.3
-  },
-  {
-    "model": "wmkdfmk/robotics-vla-task-23-competitive-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v2",
-    "date": "2026-07-21",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "DiogenesLab/world-model-research",
