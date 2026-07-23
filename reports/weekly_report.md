@@ -1,24 +1,18 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-22 23:49 UTC
+Generated: 2026-07-23 01:21 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-07-21 | Masked Visual Actions for Unified World Modeling | [link](https://arxiv.org/pdf/2607.19343v1) |
-| 2026-07-21 | InstructMixup: Instruction-Guided Salient Patch Editing for Robust Data Augmentation | [link](https://arxiv.org/pdf/2607.19324v1) |
-| 2026-07-21 | From Distances to Trajectories: Real-Time Signed Distance Function Mapping and Distance-Accelerated Motion Planning for UAVs | [link](https://arxiv.org/pdf/2607.19306v1) |
-| 2026-07-21 | No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation | [link](https://arxiv.org/pdf/2607.19288v1) |
-| 2026-07-21 | Stochastic Multi-Objective Kinodynamic Planning Against Adversaries | [link](https://arxiv.org/pdf/2607.19284v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82657 | 33062.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63195 | 25278.1 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82661 | 33064.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63193 | 25277.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44278 | 17711.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30106 | 12042.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16043 | 6417.3 | [link](https://github.com/zauberzeug/nicegui) |
+| AtsushiSakai/PythonRobotics | 30107 | 12042.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16044 | 6417.7 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -26,8 +20,8 @@ Generated: 2026-07-22 23:49 UTC
 | zhijieq/directional-navigation | 412 | 123.7 | [link](https://huggingface.co/zhijieq/directional-navigation) |
 | SEU-PAISys/Embodied.cpp | 260 | 78.9 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
 | tencent/Hy-Embodied-RxBrain-1.0 | 204 | 71.1 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
+| wijan/Robot-Action-Planner-GGUF | 180 | 54.1 | [link](https://huggingface.co/wijan/Robot-Action-Planner-GGUF) |
 | tencent/Hy-Embodied-VLM-1.0 | 140 | 46.3 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
-| sasa2000/Hy-Embodied-VLM-1.0-Text-Only | 89 | 26.8 | [link](https://huggingface.co/sasa2000/Hy-Embodied-VLM-1.0-Text-Only) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -35,8 +29,8 @@ Generated: 2026-07-22 23:49 UTC
 | 2026-07-22 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxOLTFxVXJLb0pHbEh1cER6U1lybHBRWHpYaFZjY19RMUpmTGNRRTBBZ3M1TDAxclFMbEdnVERtUEpFaHRSVlY0djY3Tk1tYTA4a1RpUkFGaEh0LWNZVjh3VWQ4U2ZwZGFwX01QT3BkVVFmdUNja3NMNlBveXlwV1BMNGplTGJlanhBcFRlR2hnSG9PNFdYSUZQOS16VQ?oc=5) |
 | 2026-07-22 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTE05WXM5YnlYNGpubTZWckFPMnpRSVJVbDFBelVaU0NieEJfUkFfR0Q2WjU1NVFPai1EbkM1d1J5blNxNUYydkVCOFlnSdIBQkFVX3lxTFBkRlRFUlBzN292UFU5aFlpTDNhd3IydU11T1ZJWjl2b0NHR1RXVGVHY1hManB2QWY5VU53czNzYlp1Zw?oc=5) |
 | 2026-07-21 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxQQjBvS2FjVDJaZkIxVGNGd0JiSlYyOFk5Tzc3RzdtbjBLU0NtRDc3MTdWVTRjTkdQWWR5cjBJT3FsMW9jSGJvYVd2YmJEMzZ1aE1sazBXXzFIaVBiMnF2ZEdxcmlodXZCb09veWRqQWZ6cElvdnQ5eDRRZExMSF8tbVpaYmpuQmItQ3UyZWF3d2JuX1ZJSVNKbzY3cG9tU2NCUmJmem1RajJ3UklxZHfSAbMBQVVfeXFMTlBYZGZHd1RXNEFIcVdwLW03bHg3Mm9zU1ZqRTNhTXFpeTk0OHZKUnI1NGVKZDJVTS1qZmhnYWRINFhBaHpKMXFIZVY5X3lPLXQzcFVwUzYwS1hNY19rM0xKNFZVWS1HamJCXzVoTEdUMWVkRENsb2JNSlJzRzNFdVVremRSeHpoRUpUWXNmNlhQSzV0dy1xb1AxZzJWSWw4NzNjb0hFUm5Hbk8tbTdRQjlGWTQ?oc=5) |
+| 2026-07-21 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFJYWDlnRjFxNzFEakw2M2F5SU9SdWxmSHYtaHVwa3V5RE1yU3ZSNGVqajVwelptczlWOHNvdGxmNi1QN2d6RkRUQVMyc1ctQnJWb0lIRHBxU1lrTk9PVHNQVU96U2NFZ1gteGw4NWV6bkhHWExIT08xYkszbUhCZ053?oc=5) |
 | 2026-07-21 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPazNGXzVyYllBTTcxTEtONzU2anNoQTlCTDlHLVBGS2l0d3oxa0Ixdjk5N3pFVHBUNHhydlhVUzFqc2prU2gzVUFGdUxLbTd6cUpxaDZUTkxaQWVLaXNIRGhRbVJwd0dCMzJZYjZldi11SXZlN1dRbE9lOVlnRzhDYjF2UEZFeFBpSE9ZdjBJZk1YTkJORHhnUkJ3WncxdXFyclNGck9hdEZMRGdYM0I2Ni1MTFBpcW0yWGdKc1E2SXYwR2JyOGVzZ2lVZFQ?oc=5) |
-| 2026-07-21 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPY1I2WVJ5SGUzblc0WmVNMmdZbVgzS0t1SlBVZHBWZ1BXRnFCdGlJRjRPNjRHX1lVTHRLMW8zQWtmaDVZQWdEcTdBX2JpNUFCWEk5Q2xMcF9leEl3T3BpVEwxWV91NXJLRmk4a0o0N05Ud0JMeHFZMDg5OW0tZ1lTVFJ6STc4WlFhUHB5RFlCalA4SjdqMFpKZmwyNDRQdEE3SjAxag?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |

@@ -1,5 +1,23 @@
 [
   {
+    "model": "wijan/Robot-Action-Planner-GGUF",
+    "downloads": 180,
+    "likes": 0,
+    "url": "https://huggingface.co/wijan/Robot-Action-Planner-GGUF",
+    "date": "2026-07-23",
+    "keyword": "robot",
+    "score": 54.1
+  },
+  {
+    "model": "wijan/Robot-Action-Planner",
+    "downloads": 44,
+    "likes": 0,
+    "url": "https://huggingface.co/wijan/Robot-Action-Planner",
+    "date": "2026-07-23",
+    "keyword": "robot",
+    "score": 13.3
+  },
+  {
     "model": "tiao55/robotics-vla-task-23-v6-multibackbone-calibrated",
     "downloads": 0,
     "likes": 0,
@@ -85,24 +103,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Yysrc/robotwin_all_action_30000",
-    "date": "2026-07-22",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "puppet-robotics/golf-model-200-obs-rgb",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb",
-    "date": "2026-07-22",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Task_700003_700005_pick_place_peanut_stage2_act_100k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_700003_700005_pick_place_peanut_stage2_act_100k",
     "date": "2026-07-22",
     "keyword": "robot",
     "score": 0.1
@@ -312,6 +312,15 @@
     "url": "https://huggingface.co/ZDRRRM/act_policy_new",
     "date": "2026-07-22",
     "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "puppet-robotics/golf-model-200-obs-rgb",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb",
+    "date": "2026-07-22",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
