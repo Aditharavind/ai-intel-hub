@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-24 21:51 UTC
+Last Updated: 2026-07-24 22:47 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,8 +77,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-24 | mario-d-robot/Qwen-Image-Edit-LoRA-Collection | 0 | 0 | [link](https://huggingface.co/mario-d-robot/Qwen-Image-Edit-LoRA-Collection) |
 | 2026-07-24 | YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric_lora | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric_lora) |
-| 2026-07-24 | robbyant/lingbot-vla-v2-6b-robotwin | 0 | 0 | [link](https://huggingface.co/robbyant/lingbot-vla-v2-6b-robotwin) |
+| 2026-07-24 | robbyant/lingbot-vla-v2-6b-robotwin | 0 | 1 | [link](https://huggingface.co/robbyant/lingbot-vla-v2-6b-robotwin) |
 | 2026-07-24 | latiao1999/robotics-vla-task-23 | 0 | 0 | [link](https://huggingface.co/latiao1999/robotics-vla-task-23) |
 | 2026-07-24 | MINT-SJTU/Evo1_RoboTwin2_clean | 0 | 0 | [link](https://huggingface.co/MINT-SJTU/Evo1_RoboTwin2_clean) |
 | 2026-07-24 | Kei-Sanada/robotics-vla-task-23-basic | 0 | 0 | [link](https://huggingface.co/Kei-Sanada/robotics-vla-task-23-basic) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-24 | KiyotakaWang/lerobot-pi0.5-robotwin2.0 | 0 | 1 | [link](https://huggingface.co/KiyotakaWang/lerobot-pi0.5-robotwin2.0) |
 | 2026-07-24 | wmkdfmk/robotics-vla-task-23-competitive-v6-reactive | 0 | 0 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v6-reactive) |
 | 2026-07-24 | tron-robot/yam-vla-handoff | 0 | 0 | [link](https://huggingface.co/tron-robot/yam-vla-handoff) |
-| 2026-07-24 | Haoran231/fastwam-robotwin-mixed | 0 | 0 | [link](https://huggingface.co/Haoran231/fastwam-robotwin-mixed) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
