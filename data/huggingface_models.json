@@ -1,18 +1,27 @@
 [
   {
-    "model": "Kei-Sanada/robotics-vla-task-23-basic",
+    "model": "latiao1999/robotics-vla-task-23",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Kei-Sanada/robotics-vla-task-23-basic",
+    "url": "https://huggingface.co/latiao1999/robotics-vla-task-23",
     "date": "2026-07-24",
     "keyword": "robotics",
     "score": 0.1
   },
   {
-    "model": "latiao1999/robotics-vla-task-23",
+    "model": "MINT-SJTU/Evo1_RoboTwin2_clean",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/latiao1999/robotics-vla-task-23",
+    "url": "https://huggingface.co/MINT-SJTU/Evo1_RoboTwin2_clean",
+    "date": "2026-07-24",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Kei-Sanada/robotics-vla-task-23-basic",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Kei-Sanada/robotics-vla-task-23-basic",
     "date": "2026-07-24",
     "keyword": "robotics",
     "score": 0.1
@@ -105,6 +114,33 @@
     "url": "https://huggingface.co/physicalairi/molmoact2-line-transfer-lora-vlm",
     "date": "2026-07-24",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "muacha/my_pi05_policy",
+    "downloads": 101,
+    "likes": 0,
+    "url": "https://huggingface.co/muacha/my_pi05_policy",
+    "date": "2026-07-24",
+    "keyword": "policy",
+    "score": 30.4
+  },
+  {
+    "model": "Chaenn/act_policy_so101_cube_multitask_0724",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Chaenn/act_policy_so101_cube_multitask_0724",
+    "date": "2026-07-24",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "kilua77/policy_B_simonly",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kilua77/policy_B_simonly",
+    "date": "2026-07-24",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -207,15 +243,6 @@
     "score": 0.1
   },
   {
-    "model": "wmkdfmk/robotics-vla-task-23-competitive-v4",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v4",
-    "date": "2026-07-23",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "denkiwakame/Qwen3.5-2B-FFT-VLA0-2-0724",
     "downloads": 6,
     "likes": 0,
@@ -288,31 +315,13 @@
     "score": 0.1
   },
   {
-    "model": "dookidooki/omx_act_policy_part3_v4",
-    "downloads": 42,
+    "model": "wmkdfmk/robotics-vla-task-23-competitive-v4",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/dookidooki/omx_act_policy_part3_v4",
+    "url": "https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v4",
     "date": "2026-07-23",
-    "keyword": "policy",
-    "score": 12.7
-  },
-  {
-    "model": "Chaenn/smolvla_policy_so101_cube_multitask_0716",
-    "downloads": 28,
-    "likes": 0,
-    "url": "https://huggingface.co/Chaenn/smolvla_policy_so101_cube_multitask_0716",
-    "date": "2026-07-23",
-    "keyword": "policy",
-    "score": 8.5
-  },
-  {
-    "model": "Chaenn/smolvla_policy_so101_cube_multitask_0723",
-    "downloads": 34,
-    "likes": 0,
-    "url": "https://huggingface.co/Chaenn/smolvla_policy_so101_cube_multitask_0723",
-    "date": "2026-07-23",
-    "keyword": "policy",
-    "score": 10.3
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "silent666/robotics-vla-basic-cnn-v2",
