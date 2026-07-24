@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-23 23:45 UTC
+Last Updated: 2026-07-24 01:16 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -63,21 +63,23 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-22 | Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning | [link](https://arxiv.org/pdf/2607.20399v1) |
-| 2026-07-22 | Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot | [link](https://arxiv.org/pdf/2607.20392v1) |
-| 2026-07-22 | Distributed Motion Planning with Safety Guarantees for Self-Reconfiguring Robotic Boats | [link](https://arxiv.org/pdf/2607.20352v1) |
-| 2026-07-22 | Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids | [link](https://arxiv.org/pdf/2607.20345v1) |
-| 2026-07-22 | Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments | [link](https://arxiv.org/pdf/2607.20289v1) |
-| 2026-07-22 | Self-supervision drives representational convergence in medical foundation models more than clinical supervision | [link](https://arxiv.org/pdf/2607.20274v1) |
-| 2026-07-22 | DINS-IO: Learned Inertial Odometry via Differentiable INS Consistency | [link](https://arxiv.org/pdf/2607.20232v1) |
-| 2026-07-22 | SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments | [link](https://arxiv.org/pdf/2607.20207v1) |
-| 2026-07-22 | JEPA-CFM: A Joint Embedding Predictive Architecture-based Channel Foundation Model for Robust Fluid Antenna Systems | [link](https://arxiv.org/pdf/2607.20202v1) |
-| 2026-07-22 | PerceptDrive: Perception Prior World-Action Modeling with Adaptive Expert Routing for End-to-End Autonomous Driving | [link](https://arxiv.org/pdf/2607.20175v1) |
+| 2026-07-23 | GS-Agent: Creating 4D Physical Worlds With Generative Simulation | [link](https://arxiv.org/pdf/2607.21522v1) |
+| 2026-07-23 | Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections | [link](https://arxiv.org/pdf/2607.21488v1) |
+| 2026-07-23 | Future Rendering $\neq$ Future Surface: A Benchmark and Dataset for Dynamic Surface Reconstruction Beyond the Observed Window | [link](https://arxiv.org/pdf/2607.21471v1) |
+| 2026-07-23 | Out-of-Distribution Detection in Wireless Multimodal Foundation Models for 6G ISAC | [link](https://arxiv.org/pdf/2607.21455v1) |
+| 2026-07-23 | GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition | [link](https://arxiv.org/pdf/2607.21416v1) |
+| 2026-07-23 | MSBraM: A Multi-scale Self-supervised Brain Foundation Model for Hierarchical EEG Dynamics Learning | [link](https://arxiv.org/pdf/2607.21402v1) |
+| 2026-07-23 | VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method | [link](https://arxiv.org/pdf/2607.21400v1) |
+| 2026-07-23 | Multimodal Pretraining for Generalizable EEG Representation Learning | [link](https://arxiv.org/pdf/2607.21384v1) |
+| 2026-07-23 | Pressure and asymmetry govern the shape and stiffness of inflatables | [link](https://arxiv.org/pdf/2607.21378v1) |
+| 2026-07-23 | Grasp, Handover, Rotate: Bimanual Object Reorientation via Compositional Diffusion and Energy-Based Optimization | [link](https://arxiv.org/pdf/2607.21341v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-24 | ISdept/wiltechs-vla-moe-35k | 0 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-moe-35k) |
 | 2026-07-23 | latiao1999/robotics-vla-task-23 | 0 | 0 | [link](https://huggingface.co/latiao1999/robotics-vla-task-23) |
+| 2026-07-23 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-07-23 | chayen1/robotlegs-stt | 0 | 0 | [link](https://huggingface.co/chayen1/robotlegs-stt) |
 | 2026-07-23 | eurecat-robotics/pi0-umilingo-pickplace-v1 | 0 | 0 | [link](https://huggingface.co/eurecat-robotics/pi0-umilingo-pickplace-v1) |
 | 2026-07-23 | wmkdfmk/robotics-vla-task-23-competitive-v5 | 0 | 0 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v5) |
@@ -85,22 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-23 | wmkdfmk/robotics-vla-task-23-competitive-v4 | 0 | 0 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v4) |
 | 2026-07-23 | silent666/robotics-vla-basic-cnn-v2 | 0 | 0 | [link](https://huggingface.co/silent666/robotics-vla-basic-cnn-v2) |
 | 2026-07-23 | silent666/robotics-vla-qwen3b | 0 | 0 | [link](https://huggingface.co/silent666/robotics-vla-qwen3b) |
-| 2026-07-23 | frenzyfreeze/real_robot_star | 0 | 0 | [link](https://huggingface.co/frenzyfreeze/real_robot_star) |
-| 2026-07-23 | Haoran231/fastwam-robotwin-mixed | 0 | 0 | [link](https://huggingface.co/Haoran231/fastwam-robotwin-mixed) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2653 | Python | 1061.3 | [link](https://github.com/NVIDIA/skills) |
+| commaai/openpilot | 63197 | Python | 25278.9 | [link](https://github.com/commaai/openpilot) |
+| isaac-sim/IsaacLab | 7747 | Python | 3098.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| NVIDIA/skills | 2654 | Python | 1061.7 | [link](https://github.com/NVIDIA/skills) |
 | Edgenesis/shifu | 1426 | Go | 570.5 | [link](https://github.com/Edgenesis/shifu) |
 | copper-project/copper-rs | 1422 | Rust | 568.9 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 892 | Python | 356.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 466 | Shell | 186.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63196 | Python | 25278.5 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16052 | Python | 6420.9 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15540 | C++ | 6216.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14300 | C++ | 5720.1 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11282 | Python | 4512.9 | [link](https://github.com/kornia/kornia) |
+| google-deepmind/mujoco | 14301 | C++ | 5720.5 | [link](https://github.com/google-deepmind/mujoco) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

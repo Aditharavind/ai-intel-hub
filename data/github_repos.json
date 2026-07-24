@@ -1,13 +1,33 @@
 [
   {
+    "repo": "commaai/openpilot",
+    "stars": 63197,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-07-24",
+    "topic": "robotics",
+    "score": 25278.9
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7747,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-07-24",
+    "topic": "robot-learning",
+    "score": 3098.9
+  },
+  {
     "repo": "NVIDIA/skills",
-    "stars": 2653,
+    "stars": 2654,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-07-23",
     "topic": "physical-ai",
-    "score": 1061.3
+    "score": 1061.7
   },
   {
     "repo": "Edgenesis/shifu",
@@ -50,16 +70,6 @@
     "score": 186.5
   },
   {
-    "repo": "commaai/openpilot",
-    "stars": 63196,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-07-23",
-    "topic": "robotics",
-    "score": 25278.5
-  },
-  {
     "repo": "zauberzeug/nicegui",
     "stars": 16052,
     "language": "Python",
@@ -81,13 +91,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14300,
+    "stars": 14301,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-07-23",
     "topic": "robotics",
-    "score": 5720.1
+    "score": 5720.5
   },
   {
     "repo": "kornia/kornia",
@@ -280,16 +290,6 @@
     "score": 10.1
   },
   {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7747,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-07-23",
-    "topic": "robot-learning",
-    "score": 3098.9
-  },
-  {
     "repo": "NVlabs/alpamayo",
     "stars": 1932,
     "language": "Python",
@@ -368,6 +368,16 @@
     "date": "2026-07-22",
     "topic": "humanoid",
     "score": 37.7
+  },
+  {
+    "repo": "mstoelzle/focodyn",
+    "stars": 6,
+    "language": "Python",
+    "description": "FoCoDyn, short for Floating Contact Dynamics, provides differentiable floating-base dynamics and contact-pose Jacobians for legged robots. It is aimed at CBF/CLF, trajectory optimization, and learning workflows that need gradients through rigid-body dynamics and contact kinematics.",
+    "url": "https://github.com/mstoelzle/focodyn",
+    "date": "2026-07-22",
+    "topic": "humanoid",
+    "score": 2.5
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",
@@ -621,13 +631,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 9962,
+    "stars": 9990,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 3984.9
+    "score": 3996.1
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -671,13 +681,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82685,
+    "stars": 82686,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 33074.1
+    "score": 33074.5
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
@@ -791,13 +801,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2124,
+    "stars": 2125,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-06-26",
     "topic": "robot-learning",
-    "score": 849.7
+    "score": 850.1
   },
   {
     "repo": "Visionary-Laboratory/visionary",
@@ -858,15 +868,5 @@
     "date": "2026-06-24",
     "topic": "robot-learning",
     "score": 1258.1
-  },
-  {
-    "repo": "automatika-robotics/emos",
-    "stars": 73,
-    "language": "Go",
-    "description": "EMOS - The Embodied OS",
-    "url": "https://github.com/automatika-robotics/emos",
-    "date": "2026-06-23",
-    "topic": "humanoid",
-    "score": 29.3
   }
 ]

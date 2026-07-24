@@ -1,21 +1,21 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-23 23:45 UTC
+Generated: 2026-07-24 01:16 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-22 | Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning | [link](https://arxiv.org/pdf/2607.20399v1) |
-| 2026-07-22 | Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot | [link](https://arxiv.org/pdf/2607.20392v1) |
-| 2026-07-22 | Distributed Motion Planning with Safety Guarantees for Self-Reconfiguring Robotic Boats | [link](https://arxiv.org/pdf/2607.20352v1) |
-| 2026-07-22 | Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids | [link](https://arxiv.org/pdf/2607.20345v1) |
-| 2026-07-22 | Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments | [link](https://arxiv.org/pdf/2607.20289v1) |
+| 2026-07-23 | GS-Agent: Creating 4D Physical Worlds With Generative Simulation | [link](https://arxiv.org/pdf/2607.21522v1) |
+| 2026-07-23 | Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections | [link](https://arxiv.org/pdf/2607.21488v1) |
+| 2026-07-23 | Future Rendering $\neq$ Future Surface: A Benchmark and Dataset for Dynamic Surface Reconstruction Beyond the Observed Window | [link](https://arxiv.org/pdf/2607.21471v1) |
+| 2026-07-23 | Out-of-Distribution Detection in Wireless Multimodal Foundation Models for 6G ISAC | [link](https://arxiv.org/pdf/2607.21455v1) |
+| 2026-07-23 | GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition | [link](https://arxiv.org/pdf/2607.21416v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82685 | 33074.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63196 | 25278.5 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82686 | 33074.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63197 | 25278.9 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44283 | 17713.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30115 | 12046.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16052 | 6420.9 | [link](https://github.com/zauberzeug/nicegui) |
