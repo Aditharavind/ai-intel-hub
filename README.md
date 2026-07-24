@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-24 04:55 UTC
+Last Updated: 2026-07-24 07:24 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-24 | New Method Accelerates Color 3D Printing | Hackaday | [link](https://hackaday.com/2026/07/23/new-method-accelerates-color-3d-printing/) |
 | 2026-07-24 | Targeting Allele-Specific Faulty mRNA in SCNA2 Mutation Patients | Hackaday | [link](https://hackaday.com/2026/07/23/targeting-allele-specific-faulty-mrna-in-scna2-mutation-patients/) |
 | 2026-07-24 | AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform | CNX Software | [link](https://www.cnx-software.com/2026/07/24/amd-launches-ryzen-ai-embedded-x100-processors-kria-ai-som-and-physical-ai-robotics-developer-platform/) |
+| 2026-07-24 | Intel makes Q2 loss of $11bn | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/intel-loses-11m-in-q2-2026-07/) |
+| 2026-07-24 | Politics, shortages, tariffs and AI skew end markets | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/politics-shortages-tariffs-and-ai-skew-systems-markets-2026-07/) |
+| 2026-07-24 | Advanced packaging market to hit $120bn by 2031 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/advanced-packaging-market-to-hit-120bn-by-2031-2026-07/) |
+| 2026-07-24 | Electrons controlled by light | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/electrons-controlled-by-light-2026-07/) |
+| 2026-07-24 | RAN revenues on 1% CAGR 2026-30 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/ran-revenues-2-2026-07/) |
+| 2026-07-24 | Rohm adds evaluation board for DC-DC converter | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/rohm-adds-evaluation-board-for-dc-dc-converter-2026-07/) |
 | 2026-07-24 | World Cup breaks attendance record | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/consumer/world-cup-breaks-attendance-record-2026-07/) |
-| 2026-07-23 | BASICally, Its Retro Machine Language | Hackaday | [link](https://hackaday.com/2026/07/23/basically-its-retro-machine-language/) |
-| 2026-07-23 | A Train Departure Board For The Home | Hackaday | [link](https://hackaday.com/2026/07/23/a-train-departure-board-for-the-home/) |
-| 2026-07-23 | Mic Jammer Relies on Ultrasound | Hackaday | [link](https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/) |
-| 2026-07-23 | Hackaday Europe 2026: Half Quad, Half Blimp: Test. Fly. Survive. | Hackaday | [link](https://hackaday.com/2026/07/23/hackaday-europe-2026-half-quad-half-blimp-test-fly-survive/) |
-| 2026-07-23 | Running DOOM on a Custom CPU Built From Scratch | Hackaday | [link](https://hackaday.com/2026/07/23/running-doom-on-a-custom-cpu-built-from-scratch/) |
-| 2026-07-23 | Encryption in the 1790s | Hackaday | [link](https://hackaday.com/2026/07/23/encryption-in-the-1790s/) |
-| 2026-07-23 | Augmental MouthPad is a tongue-controlled touchpad/trackpad | CNX Software | [link](https://www.cnx-software.com/2026/07/23/augmental-mouthpad-tongue-controlled-touchpad-trackpad/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,7 +77,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-24 | Haoran231/fastwam-robotwin-mixed | 0 | 0 | [link](https://huggingface.co/Haoran231/fastwam-robotwin-mixed) |
 | 2026-07-24 | ISdept/wiltechs-vla-moe-35k | 0 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-moe-35k) |
+| 2026-07-24 | saadrehan03/llama-3.2-3b-travel-policy-final | 0 | 0 | [link](https://huggingface.co/saadrehan03/llama-3.2-3b-travel-policy-final) |
 | 2026-07-24 | Autism-Skill-Issue/pi05-lora-test-tube-ur5e-3cam-30fps-policy | 0 | 0 | [link](https://huggingface.co/Autism-Skill-Issue/pi05-lora-test-tube-ur5e-3cam-30fps-policy) |
 | 2026-07-24 | hiskiv/cosmos-policy-lam | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam) |
 | 2026-07-23 | latiao1999/robotics-vla-task-23 | 0 | 0 | [link](https://huggingface.co/latiao1999/robotics-vla-task-23) |
@@ -85,22 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-23 | chayen1/robotlegs-stt | 0 | 0 | [link](https://huggingface.co/chayen1/robotlegs-stt) |
 | 2026-07-23 | eurecat-robotics/pi0-umilingo-pickplace-v1 | 0 | 0 | [link](https://huggingface.co/eurecat-robotics/pi0-umilingo-pickplace-v1) |
 | 2026-07-23 | wmkdfmk/robotics-vla-task-23-competitive-v5 | 0 | 0 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v5) |
-| 2026-07-23 | Kei-Sanada/robotics-vla-task-23-basic | 0 | 0 | [link](https://huggingface.co/Kei-Sanada/robotics-vla-task-23-basic) |
-| 2026-07-23 | wmkdfmk/robotics-vla-task-23-competitive-v4 | 0 | 0 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v4) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 63198 | Python | 25279.3 | [link](https://github.com/commaai/openpilot) |
-| RLinf/RLinf | 4235 | Python | 1694.1 | [link](https://github.com/RLinf/RLinf) |
+| commaai/openpilot | 63200 | Python | 25280.1 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15542 | C++ | 6216.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14306 | C++ | 5722.5 | [link](https://github.com/google-deepmind/mujoco) |
+| DLR-RM/stable-baselines3 | 13602 | Python | 5440.9 | [link](https://github.com/DLR-RM/stable-baselines3) |
+| kornia/kornia | 11286 | Python | 4514.5 | [link](https://github.com/kornia/kornia) |
+| RLinf/RLinf | 4238 | Python | 1695.3 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3853 | Rust | 1541.3 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 424 | HTML | 169.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5667 | Python | 2266.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 5670 | Python | 2268.1 | [link](https://github.com/vllm-project/vllm-omni) |
 | ROBOTIS-GIT/ai_worker | 155 | Python | 62.1 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| isaac-sim/IsaacLab | 7751 | Python | 3100.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| NVIDIA/skills | 2655 | Python | 1062.1 | [link](https://github.com/NVIDIA/skills) |
-| Edgenesis/shifu | 1426 | Go | 570.5 | [link](https://github.com/Edgenesis/shifu) |
-| copper-project/copper-rs | 1422 | Rust | 568.9 | [link](https://github.com/copper-project/copper-rs) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,6 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-24 | SG's Ropedia bags $22m pre-Series A to scale data infra for physical AI - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWJFdlV0VVh2SG5MMFdJUXMyYTVNSS1UZUJzMEFKLW5xUlVzNFdVd0RZZ0FvVGh6TURxc1R6clhHVVF6T1NBal9IdWQ2VGdCT1hWY0p2b3dfS2VwbHlUdmVYRE02VkhNRWpDOVBaVTNLcFdWSndJbjdKaHh5RzFJQnJXTVA?oc=5) |
 | 2026-07-23 | Black Forest Labs Unveils First Model for Robotics in Shift to Physical AI - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaU9uQ1E3bS01Y3VwZE93clV2Z1BXUk05UGhHQkZMZUYtVTVvMTVtSkd6eTdVX194R2ItbURLVTZOUlNvdmxZMndUbU9vR0ViREFUYWI5cWNrQUxoRzh6V1B2YS1pcEszaGR3NlBEdVJLTldIdS04b0EzdTgwbGhKZTJDNmw4SkJwVHUyWkZXRWhnQkZJWHJLUjdPbHg4T3ZRYmdwa0hycE1FemxXUGJ3c2FFbnhTaElLQnRiSnZwajdVN28?oc=5) |
 | 2026-07-23 | Travis Kalanick’s Physical AI Startup Atoms Raises $1.7B in Funding, Led by a16z - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2FsVkRhSWdFX05IMm9DTmo5WXBqZDl1c08wRVBpWld3d0gySDV5NGJZRWt6dnhybjR5Q3Iwa2ZXSVA0U0o3U0hMMUFqQ2tDQWRtNWNmX0RaU09PN1BHTk1oZzVrQXF4cE1XUFQ0V1dhRndnVU95aXZGZmZzdENXYW1fUXdWLWVablJUUDBNV3V2TXhfdUc4OV9HZlJxd1dLOHlWbzRibHF0Q3BpVmRkYzRsV0duZw?oc=5) |
 | 2026-07-23 | Genesis AI is in talks to raise $500 million as VCs bet on robotics software over hardware - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFFBaktXQVVONE54SEJLNEp6LVItSUdDc253YkY2cHdzb25VUXZHLUVOVlp2aW8tejZiYzFQa0Y4UTFqXzIwTEtHT280QnpxZXRMWFVpcmozUm5QYzJWVnJCRlFvbFpGblQwV19hWS1ueEVRaXl4blR0WDQxZk5jSTUwZ2V4bXdBNHVRQTZRMlRUWjlWd2ZVcHdkaHhHZXhZTHdPWGJodWVNZHg5YjlVdU04N2F0YTN5?oc=5) |
@@ -128,21 +129,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-23 | Chery Bets on Psibot’s VLA Platform as China Births Another Embodied AI Unicorn - Tech Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXRlQTNhanlPU2xyN1ZGaVdiQlRYZGxlRUR6SVVUU2FVdEZMTjh3bmtQVmI4QTlsVUxmWlkzanVpcDd0TGV6NWRhLUdHTXlKSFRwbUlUaUR1RFJEWm9LRVN0NTZ1am1MdVV2dFA3bzN0UlpNODVrYVZTRE4tZldrUS1mNDZXQllZUm9NUnVSS1NJd1FOdGJmUjRMZ25mdEUwTExBYXc3UE13SWN0d2gxdnNzYTYyUWhYb1AtVkRNX2l4T2cwNmc?oc=5) |
 | 2026-07-23 | China AI firm PsiBot becomes latest startup to hit US$1 billion in value - The Business Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOamN6QWVab0syOS1ySWw5c2RpUG9OT2VDbHdPSTR2WFVxQjRaWUpKb19iU1hHeWw1NFRnMUFVTF9qYWJnLV9yVEo3clJSVS1iZzZ6VkE4bjJ6RGhheG5PbjhpMWhRd3A2WVJ3VlJaWGRoNzBvSE5jVDdYUDZCY2xyRjhGWnctbXYtamdtSXprREYyVi15bWpDckNZN3lTMFhFWVgzdmFZOVA1bnpTeUU2V3BiM19kXzg?oc=5) |
 | 2026-07-23 | PsiBot: China's AI startup valuation hits $1 billion - The Straits Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnhWb2Mwa25jOUNOM0hhRjZpOFh4ZG1IV2tDNjNZdWVWMHF5dVlDSE0xRDl4SFNQUFU1NkIzN0pXa1lyajdlcmFleWxOemh0eGt0UnNlUHAzWElsbXVGRmNKYWVidW9yd25hX2RIcG11eGw0TUx2N3NSbWFaNy1Mbkk4MF9qV0huN2NGdlNXQnoxWFNoekFnYmxBdl9FV1YxV2F6Uw?oc=5) |
-| 2026-07-22 | Kalanick's Atoms Raises Big - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFNBYXFHNFAzYVVTQXFGcnpORElkS0hudERhaDd2a0Fza1dOTmE5UXZHYjVvVGw5NnBkOFV6WXpGSUp6TVJ3bXVvZURXWGQ5YVBCSGpvMWlOcWVDckdSVDFMVlJ0aFV6SnZURlB2YWlxUkNtLVJPS3JMUHFwb1NEQUVMTEtHZHll?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-23 | Apprentice Robot Service Technician | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4698535006) |
-| 2026-07-23 | Data Quality Analyst | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
-| 2026-07-23 | Senior Network Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4603840006) |
-| 2026-07-23 | Manufacturing Engineering Technician | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6113730004) |
-| 2026-07-23 | Senior Manager, SQE | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6113706004) |
-| 2026-07-23 | Sr. Supplier Quality Engineer | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5973865004) |
-| 2026-07-23 | Vice President, Controller | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6123652004) |
-| 2026-07-22 | Demand Planner | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4699238006) |
-| 2026-07-22 | Helix AI Engineer, Mobile and Web Tooling  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4660876006) |
-| 2026-07-22 | Helix AI Engineer, XR | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4699095006) |
+| 2026-07-24 | AI Data Operations Manager | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
+| 2026-07-24 | AI Data Operations Manager | Figure AI | United Arab Emirates | [link](https://job-boards.greenhouse.io/figureai/jobs/4698164006) |
+| 2026-07-24 | AI Training Infrastructure Engineer – Humanoid Whole Body Control | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4674754006) |
+| 2026-07-24 | Apprentice Robot Service Technician | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4698535006) |
+| 2026-07-24 | Associate General Counsel, Hardware and Data | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4661633006) |
+| 2026-07-24 | Commercial Launch Technician | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4651747006) |
+| 2026-07-24 | Connector & Interconnect Design Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4680643006) |
+| 2026-07-24 | Data Quality Analyst | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
+| 2026-07-24 | Data Quality Partner Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4679201006) |
+| 2026-07-24 | Data Strategy Associate | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4664781006) |
 
 ## Automation
 
