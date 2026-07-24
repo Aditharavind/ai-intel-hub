@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-24 12:09 UTC
+Last Updated: 2026-07-24 14:30 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-24 | NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI | Robotics Business Review | [link](https://www.therobotreport.com/neura-robotics-establishes-neura-gym-rwth-aachen-train-physical-ai/) |
 | 2026-07-23 | AMD unveils Kria module for real-time control, unified memory for robots | Robotics Business Review | [link](https://www.therobotreport.com/amd-unveils-kria-module-real-time-control-unified-memory-robots/) |
 | 2026-07-23 | Ropedia raises $22M to scale data collection for training robots | Robotics Business Review | [link](https://www.therobotreport.com/ropedia-raises-22m-scale-data-collection-training-robots/) |
 | 2026-07-23 | Uber co-founder raises $1.7B for new robotics startup ATOMS | Robotics Business Review | [link](https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms/) |
@@ -44,11 +45,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-22 | Report shares the state of physical AI and robotics | Robotics Business Review | [link](https://www.therobotreport.com/physical-ai-and-robotics/) |
 | 2026-07-21 | MISUMI Americas releases reshoring report, supports manufacturing training bill | Robotics Business Review | [link](https://www.therobotreport.com/misumi-americas-releases-reshoring-report-supports-manufacturing-training-bill/) |
 | 2026-07-21 | Friction is key to making better robot world models | Robotics Business Review | [link](https://www.therobotreport.com/friction-is-key-to-making-better-robot-world-models/) |
-| 2026-07-21 | Generative Bionics unveils humanoid robot with full-body tactile sensing | Robotics Business Review | [link](https://www.therobotreport.com/generative-bionics-unveils-humanoid-robot-with-full-body-tactile-sensing/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-24 | This Week in Security: AI is a Mess, Hacking Car Chargers, an OpenSSL DoS, and Factories Under Attack | Hackaday | [link](https://hackaday.com/2026/07/24/this-week-in-security-ai-is-a-mess-hacking-car-chargers-an-openssl-dos-and-factories-under-attack/) |
 | 2026-07-24 | Exploring Hidden JPEG Features | Hackaday | [link](https://hackaday.com/2026/07/24/exploring-hidden-jpeg-features/) |
 | 2026-07-24 | A New Blood Hack For An Old Game | Hackaday | [link](https://hackaday.com/2026/07/24/a-new-blood-hack-for-an-old-game/) |
 | 2026-07-24 | New Method Accelerates Color 3D Printing | Hackaday | [link](https://hackaday.com/2026/07/23/new-method-accelerates-color-3d-printing/) |
@@ -56,9 +57,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-24 | $379.99 BOSGAME E6 ECO mini PC features Intel Core 3 304 Wildcat Lake CPU, 12GB LPDDR5X, 512GB NVMe SSD | CNX Software | [link](https://www.cnx-software.com/2026/07/24/379-99-bosgame-e6-eco-mini-pc-features-intel-core-3-304-wildcat-lake-cpu-12gb-lpddr5x-512gb-nvme-ssd/) |
 | 2026-07-24 | CirkitScape Top HAT adds extra GPIOs, RS-485, 3-channel ADC, four USB 2.0 ports to Raspberry Pi SBCs | CNX Software | [link](https://www.cnx-software.com/2026/07/24/cirkitscape-top-hat-adds-extra-gpios-rs-485-3-channel-adc-four-usb-2-0-ports-to-raspberry-pi-sbcs/) |
 | 2026-07-24 | AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform | CNX Software | [link](https://www.cnx-software.com/2026/07/24/amd-launches-ryzen-ai-embedded-x100-processors-kria-ai-som-and-physical-ai-robotics-developer-platform/) |
-| 2026-07-24 | Most Read – Raspberry Pi display, DSIT abolished, Intel layoffs | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-raspberry-pi-display-dsit-abolished-intel-layoffs-2026-07/) |
-| 2026-07-24 | Intel makes Q2 loss of $11bn | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/intel-loses-11m-in-q2-2026-07/) |
-| 2026-07-24 | Politics, shortages, tariffs and AI skew end markets | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/politics-shortages-tariffs-and-ai-skew-systems-markets-2026-07/) |
+| 2026-07-24 | EMASS, Bosch Sensortec Collaborate on Asset Tracking Platform | Embedded.com | [link](https://www.embedded.com/emass-bosch-sensortec-collaborate-on-asset-tracking-platform/) |
+| 2026-07-24 | When wireless internet access was the NBT | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-wireless-internet-access-was-the-nbt-2026-07/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-24 | Kei-Sanada/robotics-vla-task-23-basic | 0 | 0 | [link](https://huggingface.co/Kei-Sanada/robotics-vla-task-23-basic) |
 | 2026-07-24 | latiao1999/robotics-vla-task-23 | 0 | 0 | [link](https://huggingface.co/latiao1999/robotics-vla-task-23) |
+| 2026-07-24 | wmkdfmk/robotics-vla-task-23-competitive-v7-rollout | 0 | 1 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v7-rollout) |
 | 2026-07-24 | KiyotakaWang/lerobot-pi0.5-robotwin2.0 | 0 | 1 | [link](https://huggingface.co/KiyotakaWang/lerobot-pi0.5-robotwin2.0) |
 | 2026-07-24 | wmkdfmk/robotics-vla-task-23-competitive-v6-reactive | 0 | 0 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v6-reactive) |
 | 2026-07-24 | tron-robot/yam-vla-handoff | 0 | 0 | [link](https://huggingface.co/tron-robot/yam-vla-handoff) |
 | 2026-07-24 | Haoran231/fastwam-robotwin-mixed | 0 | 0 | [link](https://huggingface.co/Haoran231/fastwam-robotwin-mixed) |
+| 2026-07-24 | VladimirM388/larpscaler-v2-fp32 | 0 | 0 | [link](https://huggingface.co/VladimirM388/larpscaler-v2-fp32) |
+| 2026-07-24 | VladimirM388/larpscaler-v2-bf16 | 0 | 0 | [link](https://huggingface.co/VladimirM388/larpscaler-v2-bf16) |
 | 2026-07-24 | ISdept/wiltechs-vla-moe-50k | 0 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-moe-50k) |
-| 2026-07-24 | ISdept/wiltechs-vla-moe-35k | 17 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-moe-35k) |
-| 2026-07-24 | physicalairi/molmoact2-line-transfer-lora-vlm | 0 | 0 | [link](https://huggingface.co/physicalairi/molmoact2-line-transfer-lora-vlm) |
-| 2026-07-24 | saadrehan03/llama-3.2-3b-travel-policy-final | 0 | 0 | [link](https://huggingface.co/saadrehan03/llama-3.2-3b-travel-policy-final) |
-| 2026-07-24 | Chaenn/smolvla_policy_so101_cube_multitask_0724 | 0 | 0 | [link](https://huggingface.co/Chaenn/smolvla_policy_so101_cube_multitask_0724) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | mosaico-labs/mosaico | 892 | Python | 356.9 | [link](https://github.com/mosaico-labs/mosaico) |
-| commaai/openpilot | 63201 | Python | 25280.5 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15545 | C++ | 6218.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| awslabs/awsome-distributed-ai | 466 | Shell | 186.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| commaai/openpilot | 63202 | Python | 25280.9 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15546 | C++ | 6218.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14311 | C++ | 5724.5 | [link](https://github.com/google-deepmind/mujoco) |
-| DLR-RM/stable-baselines3 | 13603 | Python | 5441.3 | [link](https://github.com/DLR-RM/stable-baselines3) |
-| kornia/kornia | 11288 | Python | 4515.3 | [link](https://github.com/kornia/kornia) |
+| DLR-RM/stable-baselines3 | 13604 | Python | 5441.7 | [link](https://github.com/DLR-RM/stable-baselines3) |
+| kornia/kornia | 11289 | Python | 4515.7 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11177 | Rust | 4470.9 | [link](https://github.com/rerun-io/rerun) |
-| RLinf/RLinf | 4241 | Python | 1696.5 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 4242 | Python | 1696.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3853 | Rust | 1541.3 | [link](https://github.com/dora-rs/dora) |
-| knightnemo/Awesome-World-Models | 3217 |  | 1286.9 | [link](https://github.com/knightnemo/Awesome-World-Models) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,7 +119,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-24 | Earth first, Mars later: Inside AIM’s grand vision for physical AI and autonomous bulldozers - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaU5VVEVQbGRYaS1YMTZFS24yTXc2bjdXZ0xIUktSVjhfd0hJcmNxcmZBRWd6YXRYSGdGVk9BU1BCdW0tdElTVE9Bem5kSFVDakg3RWFmcmtWVzJkc3RNRmlwSHl6YmhBMWY3bDRHc21QZWd5QnZjR1JicU5JRmk0QUk4SmlZS25kODViZ3ltdFNfbVZWa0l2TXR5MEJYTGFlbTc1RFdkaDVLTFRyUXVabE9JLVRMOE9iaEFQbA?oc=5) |
 | 2026-07-24 | SG's Ropedia bags $22m pre-Series A to scale data infra for physical AI - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWJFdlV0VVh2SG5MMFdJUXMyYTVNSS1UZUJzMEFKLW5xUlVzNFdVd0RZZ0FvVGh6TURxc1R6clhHVVF6T1NBal9IdWQ2VGdCT1hWY0p2b3dfS2VwbHlUdmVYRE02VkhNRWpDOVBaVTNLcFdWSndJbjdKaHh5RzFJQnJXTVA?oc=5) |
+| 2026-07-24 | This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots— Now It's Building Military V - Benzinga | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNekp6ZklfYkstdy1RaHVSYy1GQUNRelBoS1VKVV9MRnlJTlBQN1FTNk95NUdzMWNLQlRKUUM4R1VfY1c1dVlUVDNwdkpqZnFxUzhLTi1wMEFRaG9ENlphZ0JYZFoxUnZxSFZmRGtkel9vUnVXNlNDczV0bHpjOFBpTW83b3VTWkYxaGZWbEMxQnRRZ1JzNUJ4Y1JoZ1V3NE1MbnNTZXNuRUFNTUJiOFNBbjdzaXZtSzBWM203Qk9iMDRsVnBQdU1NaS0zOVc5TUFJeFhrZ2x5M1lPeWVWVHpUWWVUNkxLT1FDX3ZISzVWR1J1UndVXzZ4NS1VWF90dnVEY2J4eW9fWjNOclI4NXctYkUzUzRkVDZfYjB5RzgwenY2TmliM2ZfR1Bn?oc=5) |
 | 2026-07-24 | UK Humanoid Startup Raises $152M as Bosch and Schaeffler Back Wheels Over Legs - Tech Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVAyRl9LYUZoS2xzd3RIeWtEUEFYSldKT21pUVdxT1lkenRjeDZHNVpSTjVoV3ZUdHZQYUR5b29fUkZfZURnLTE4RnRPMWVpelI2MHVGX2lmR0lMZ1RZMlZ0WS1KZUpZOHJMYlA3UjV0MlB3cVFib0pZbFhwTTRDMFkwX0JxeTBJY2lTX0dqY3hJcEFBOG5lRlJOOEJCdFgwNlZPb2Q4QnhZcnh2QWY5WGtPREg3cFRabjNWZFVSVHBKcUk?oc=5) |
 | 2026-07-24 | Top 10 humanoid robot startups to watch in 2026, ranked by total funding — TFN - Tech Funding News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTFAtdW1xMTdiZk5Va0tDQUwweGZQMHZUUi1Vc0M4NnctdV82MkdUZzFfN1M4ZzlEVzFjRU1ZTjZvUmdpRnFjc19wVHpIcDlTNG0wN2gxLV9xOHpLMXZiNWpuaE91U21IX0NmU3pNQmdXeGlkSlRnRmJ0bw?oc=5) |
 | 2026-07-24 | Italian Startup Debuts Gene.01 Humanoid With Skin That Senses Humans Before Contact - Tech Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPelhTMkVMZ2lEU08yZUJGeWxMT2RUem04eWdrX2pvV3c4NTEyQTVLbmpZSUUtRUsya1BzRDNQYlhXUDNWeUdKOVpSUjhTc2RHVmpHUThSVmZrLVJ1VVZYSzRVaEJ3S05wS1VyckI2Z2t2RTEzOWVtRXJCSF8xYlFGckl4UnZUYzJaLWlSaEl1Z1pNSlc5XzZYbFhRQVJVc0dCMG9kREJQNFNtX0ZSbWNfUE52QTF3U2FXanVfVnR1ekdCc3dkMGJFeDZGb1I?oc=5) |
@@ -127,8 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-23 | Genesis AI is in talks to raise $500 million as VCs bet on robotics software over hardware - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFFBaktXQVVONE54SEJLNEp6LVItSUdDc253YkY2cHdzb25VUXZHLUVOVlp2aW8tejZiYzFQa0Y4UTFqXzIwTEtHT280QnpxZXRMWFVpcmozUm5QYzJWVnJCRlFvbFpGblQwV19hWS1ueEVRaXl4blR0WDQxZk5jSTUwZ2V4bXdBNHVRQTZRMlRUWjlWd2ZVcHdkaHhHZXhZTHdPWGJodWVNZHg5YjlVdU04N2F0YTN5?oc=5) |
 | 2026-07-23 | Travis Kalanick’s Physical AI Startup Atoms Raises $1.7B in Funding, Led by a16z - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2FsVkRhSWdFX05IMm9DTmo5WXBqZDl1c08wRVBpWld3d0gySDV5NGJZRWt6dnhybjR5Q3Iwa2ZXSVA0U0o3U0hMMUFqQ2tDQWRtNWNmX0RaU09PN1BHTk1oZzVrQXF4cE1XUFQ0V1dhRndnVU95aXZGZmZzdENXYW1fUXdWLWVablJUUDBNV3V2TXhfdUc4OV9HZlJxd1dLOHlWbzRibHF0Q3BpVmRkYzRsV0duZw?oc=5) |
 | 2026-07-23 | Ropedia Raises $30 Million to Scale Data Infrastructure for Physical AI - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxOV1dDVGEzSTNNUUZoZjZTcmx6ZFNobnFlanY4SXBNUy1oSzdDckNENWYwdHI0TXN3NTBSTzZCYUd3eVI3U0ZjQXJwdkx4UHZRTnJDZzA4OEpyREJickQtc0VMU3dQeFBsZWFiMG5PVW1MZlVPMkxHNnJpZFo0STVvNElLdGtaVnd4SzNSRDZzaFMxLUc2bmRYUWVGUmdlbUlxa1pmUmpPZXB4VkZHVm9TTW8zcU9ZRkh0U2ZWTDhLOVJjRVpKZm9UdWpn?oc=5) |
-| 2026-07-23 | Singapore physical AI startup Ropedia raises $22m - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3V3VExMdUdUT1pfbjJsQmdkOVI1Z2FPcVF4ZHJWRmVYTEQyQzJXVU9SNWN3anJQM29XY0VRbG1QNW8xMXlGNDVXNDNwX0JXLUhudkR3c3FpZ3lVLU13bUpJdk9kMERmUG5aUTNSUFJKdFNzeldNMDVUZmRxOGVSLVZhYVBjM0k?oc=5) |
-| 2026-07-23 | Ropedia Raises $30M in Pre-A Funding To Scale Physical AI Data Infrastructure - Ventureburn | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQNTRzRmNscFQyb29TLUZSUTByNGhUS3BtaTByZERuejNlUThscm1udkNTVjR5TjlYTW9jajVWWXdvRWdnejAyUVNYMFZGeWZyMHdOQnVUMEhuUTh5dl9sRjZmVFZra3RQaHd3SURRQlRWeVpkb2Q4eGxpaXNkeGtYRTZnNjNBaUFFLWE0YXhkdlhWbTZNWGxkR0R3TDLSAZwBQVVfeXFMUDU0c0ZjbHBUMm9vUy1GUlEwcjRoVEtwbWkwcmREbnozZVE4bHJtbnZDU1Y0eU45WE1vY2o1Vll3b0VnZ3owMlFTWDBWRnlmcjB3TkJ1VDBIblE4eXZfbEY2ZlRWa2t0UGh3d0lEUUJUVnlaZG9kOHhsaWlzZHhrWEU2ZzYzQWlBRS1hNGF4ZHZYVm02TVhsZEdEd0wy?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

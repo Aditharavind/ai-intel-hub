@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-24 12:09 UTC
+Generated: 2026-07-24 14:30 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-07-24 12:09 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82692 | 33076.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63201 | 25280.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44286 | 17714.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30121 | 12048.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16052 | 6420.9 | [link](https://github.com/zauberzeug/nicegui) |
+| Developer-Y/cs-video-courses | 82694 | 33077.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63202 | 25280.9 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44287 | 17714.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30122 | 12048.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16053 | 6421.3 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,8 +41,8 @@ Generated: 2026-07-24 12:09 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-24 | Earth first, Mars later: Inside AIM’s grand vision for physical AI and autonomous bulldozers - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaU5VVEVQbGRYaS1YMTZFS24yTXc2bjdXZ0xIUktSVjhfd0hJcmNxcmZBRWd6YXRYSGdGVk9BU1BCdW0tdElTVE9Bem5kSFVDakg3RWFmcmtWVzJkc3RNRmlwSHl6YmhBMWY3bDRHc21QZWd5QnZjR1JicU5JRmk0QUk4SmlZS25kODViZ3ltdFNfbVZWa0l2TXR5MEJYTGFlbTc1RFdkaDVLTFRyUXVabE9JLVRMOE9iaEFQbA?oc=5) |
 | 2026-07-24 | SG's Ropedia bags $22m pre-Series A to scale data infra for physical AI - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWJFdlV0VVh2SG5MMFdJUXMyYTVNSS1UZUJzMEFKLW5xUlVzNFdVd0RZZ0FvVGh6TURxc1R6clhHVVF6T1NBal9IdWQ2VGdCT1hWY0p2b3dfS2VwbHlUdmVYRE02VkhNRWpDOVBaVTNLcFdWSndJbjdKaHh5RzFJQnJXTVA?oc=5) |
+| 2026-07-24 | This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots— Now It's Building Military V - Benzinga | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNekp6ZklfYkstdy1RaHVSYy1GQUNRelBoS1VKVV9MRnlJTlBQN1FTNk95NUdzMWNLQlRKUUM4R1VfY1c1dVlUVDNwdkpqZnFxUzhLTi1wMEFRaG9ENlphZ0JYZFoxUnZxSFZmRGtkel9vUnVXNlNDczV0bHpjOFBpTW83b3VTWkYxaGZWbEMxQnRRZ1JzNUJ4Y1JoZ1V3NE1MbnNTZXNuRUFNTUJiOFNBbjdzaXZtSzBWM203Qk9iMDRsVnBQdU1NaS0zOVc5TUFJeFhrZ2x5M1lPeWVWVHpUWWVUNkxLT1FDX3ZISzVWR1J1UndVXzZ4NS1VWF90dnVEY2J4eW9fWjNOclI4NXctYkUzUzRkVDZfYjB5RzgwenY2TmliM2ZfR1Bn?oc=5) |
 | 2026-07-24 | UK Humanoid Startup Raises $152M as Bosch and Schaeffler Back Wheels Over Legs - Tech Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVAyRl9LYUZoS2xzd3RIeWtEUEFYSldKT21pUVdxT1lkenRjeDZHNVpSTjVoV3ZUdHZQYUR5b29fUkZfZURnLTE4RnRPMWVpelI2MHVGX2lmR0lMZ1RZMlZ0WS1KZUpZOHJMYlA3UjV0MlB3cVFib0pZbFhwTTRDMFkwX0JxeTBJY2lTX0dqY3hJcEFBOG5lRlJOOEJCdFgwNlZPb2Q4QnhZcnh2QWY5WGtPREg3cFRabjNWZFVSVHBKcUk?oc=5) |
 | 2026-07-24 | Top 10 humanoid robot startups to watch in 2026, ranked by total funding — TFN - Tech Funding News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTFAtdW1xMTdiZk5Va0tDQUwweGZQMHZUUi1Vc0M4NnctdV82MkdUZzFfN1M4ZzlEVzFjRU1ZTjZvUmdpRnFjc19wVHpIcDlTNG0wN2gxLV9xOHpLMXZiNWpuaE91U21IX0NmU3pNQmdXeGlkSlRnRmJ0bw?oc=5) |
-| 2026-07-24 | Italian Startup Debuts Gene.01 Humanoid With Skin That Senses Humans Before Contact - Tech Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPelhTMkVMZ2lEU08yZUJGeWxMT2RUem04eWdrX2pvV3c4NTEyQTVLbmpZSUUtRUsya1BzRDNQYlhXUDNWeUdKOVpSUjhTc2RHVmpHUThSVmZrLVJ1VVZYSzRVaEJ3S05wS1VyckI2Z2t2RTEzOWVtRXJCSF8xYlFGckl4UnZUYzJaLWlSaEl1Z1pNSlc5XzZYbFhRQVJVc0dCMG9kREJQNFNtX0ZSbWNfUE52QTF3U2FXanVfVnR1ekdCc3dkMGJFeDZGb1I?oc=5) |
-| 2026-07-23 | Black Forest Labs Unveils First Model for Robotics in Shift to Physical AI - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaU9uQ1E3bS01Y3VwZE93clV2Z1BXUk05UGhHQkZMZUYtVTVvMTVtSkd6eTdVX194R2ItbURLVTZOUlNvdmxZMndUbU9vR0ViREFUYWI5cWNrQUxoRzh6V1B2YS1pcEszaGR3NlBEdVJLTldIdS04b0EzdTgwbGhKZTJDNmw4SkJwVHUyWkZXRWhnQkZJWHJLUjdPbHg4T3ZRYmdwa0hycE1FemxXUGJ3c2FFbnhTaElLQnRiSnZwajdVN28?oc=5) |
