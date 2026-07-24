@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-24 07:24 UTC
+Last Updated: 2026-07-24 10:02 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,58 +49,47 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-24 | A New Blood Hack For An Old Game | Hackaday | [link](https://hackaday.com/2026/07/24/a-new-blood-hack-for-an-old-game/) |
 | 2026-07-24 | New Method Accelerates Color 3D Printing | Hackaday | [link](https://hackaday.com/2026/07/23/new-method-accelerates-color-3d-printing/) |
 | 2026-07-24 | Targeting Allele-Specific Faulty mRNA in SCNA2 Mutation Patients | Hackaday | [link](https://hackaday.com/2026/07/23/targeting-allele-specific-faulty-mrna-in-scna2-mutation-patients/) |
+| 2026-07-24 | $379.99 BOSGAME E6 ECO mini PC features Intel Core 3 304 Wildcat Lake CPU, 12GB LPDDR5X, 512GB NVMe SSD | CNX Software | [link](https://www.cnx-software.com/2026/07/24/379-99-bosgame-e6-eco-mini-pc-features-intel-core-3-304-wildcat-lake-cpu-12gb-lpddr5x-512gb-nvme-ssd/) |
+| 2026-07-24 | CirkitScape Top HAT adds extra GPIOs, RS-485, 3-channel ADC, four USB 2.0 ports to Raspberry Pi SBCs | CNX Software | [link](https://www.cnx-software.com/2026/07/24/cirkitscape-top-hat-adds-extra-gpios-rs-485-3-channel-adc-four-usb-2-0-ports-to-raspberry-pi-sbcs/) |
 | 2026-07-24 | AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform | CNX Software | [link](https://www.cnx-software.com/2026/07/24/amd-launches-ryzen-ai-embedded-x100-processors-kria-ai-som-and-physical-ai-robotics-developer-platform/) |
 | 2026-07-24 | Intel makes Q2 loss of $11bn | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/intel-loses-11m-in-q2-2026-07/) |
 | 2026-07-24 | Politics, shortages, tariffs and AI skew end markets | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/politics-shortages-tariffs-and-ai-skew-systems-markets-2026-07/) |
 | 2026-07-24 | Advanced packaging market to hit $120bn by 2031 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/advanced-packaging-market-to-hit-120bn-by-2031-2026-07/) |
 | 2026-07-24 | Electrons controlled by light | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/electrons-controlled-by-light-2026-07/) |
-| 2026-07-24 | RAN revenues on 1% CAGR 2026-30 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/ran-revenues-2-2026-07/) |
-| 2026-07-24 | Rohm adds evaluation board for DC-DC converter | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/rohm-adds-evaluation-board-for-dc-dc-converter-2026-07/) |
-| 2026-07-24 | World Cup breaks attendance record | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/consumer/world-cup-breaks-attendance-record-2026-07/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-07-23 | Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers | [link](https://arxiv.org/pdf/2607.21594v1) |
-| 2026-07-23 | AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation | [link](https://arxiv.org/pdf/2607.21588v1) |
-| 2026-07-23 | Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation | [link](https://arxiv.org/pdf/2607.21582v1) |
-| 2026-07-23 | Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering | [link](https://arxiv.org/pdf/2607.21571v1) |
-| 2026-07-23 | Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling | [link](https://arxiv.org/pdf/2607.21561v1) |
-| 2026-07-23 | GS-Agent: Creating 4D Physical Worlds With Generative Simulation | [link](https://arxiv.org/pdf/2607.21522v1) |
-| 2026-07-23 | Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections | [link](https://arxiv.org/pdf/2607.21488v1) |
-| 2026-07-23 | Future Rendering $\neq$ Future Surface: A Benchmark and Dataset for Dynamic Surface Reconstruction Beyond the Observed Window | [link](https://arxiv.org/pdf/2607.21471v1) |
-| 2026-07-23 | Out-of-Distribution Detection in Wireless Multimodal Foundation Models for 6G ISAC | [link](https://arxiv.org/pdf/2607.21455v1) |
-| 2026-07-23 | GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition | [link](https://arxiv.org/pdf/2607.21416v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-24 | wmkdfmk/robotics-vla-task-23-competitive-v6-reactive | 0 | 0 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v6-reactive) |
+| 2026-07-24 | tron-robot/yam-vla-handoff | 0 | 0 | [link](https://huggingface.co/tron-robot/yam-vla-handoff) |
 | 2026-07-24 | Haoran231/fastwam-robotwin-mixed | 0 | 0 | [link](https://huggingface.co/Haoran231/fastwam-robotwin-mixed) |
-| 2026-07-24 | ISdept/wiltechs-vla-moe-35k | 0 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-moe-35k) |
+| 2026-07-24 | ISdept/wiltechs-vla-moe-50k | 0 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-moe-50k) |
+| 2026-07-24 | ISdept/wiltechs-vla-moe-35k | 17 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-moe-35k) |
+| 2026-07-24 | physicalairi/molmoact2-line-transfer-lora-vlm | 0 | 0 | [link](https://huggingface.co/physicalairi/molmoact2-line-transfer-lora-vlm) |
+| 2026-07-24 | kilua77/policy_C_realonly | 0 | 0 | [link](https://huggingface.co/kilua77/policy_C_realonly) |
+| 2026-07-24 | tanner13511/act_battery_policy_0724 | 0 | 0 | [link](https://huggingface.co/tanner13511/act_battery_policy_0724) |
 | 2026-07-24 | saadrehan03/llama-3.2-3b-travel-policy-final | 0 | 0 | [link](https://huggingface.co/saadrehan03/llama-3.2-3b-travel-policy-final) |
 | 2026-07-24 | Autism-Skill-Issue/pi05-lora-test-tube-ur5e-3cam-30fps-policy | 0 | 0 | [link](https://huggingface.co/Autism-Skill-Issue/pi05-lora-test-tube-ur5e-3cam-30fps-policy) |
-| 2026-07-24 | hiskiv/cosmos-policy-lam | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam) |
-| 2026-07-23 | latiao1999/robotics-vla-task-23 | 0 | 0 | [link](https://huggingface.co/latiao1999/robotics-vla-task-23) |
-| 2026-07-23 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
-| 2026-07-23 | chayen1/robotlegs-stt | 0 | 0 | [link](https://huggingface.co/chayen1/robotlegs-stt) |
-| 2026-07-23 | eurecat-robotics/pi0-umilingo-pickplace-v1 | 0 | 0 | [link](https://huggingface.co/eurecat-robotics/pi0-umilingo-pickplace-v1) |
-| 2026-07-23 | wmkdfmk/robotics-vla-task-23-competitive-v5 | 0 | 0 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v5) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 63200 | Python | 25280.1 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15542 | C++ | 6216.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14306 | C++ | 5722.5 | [link](https://github.com/google-deepmind/mujoco) |
-| DLR-RM/stable-baselines3 | 13602 | Python | 5440.9 | [link](https://github.com/DLR-RM/stable-baselines3) |
-| kornia/kornia | 11286 | Python | 4514.5 | [link](https://github.com/kornia/kornia) |
-| RLinf/RLinf | 4238 | Python | 1695.3 | [link](https://github.com/RLinf/RLinf) |
+| mosaico-labs/mosaico | 892 | Python | 356.9 | [link](https://github.com/mosaico-labs/mosaico) |
+| commaai/openpilot | 63201 | Python | 25280.5 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15545 | C++ | 6218.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14310 | C++ | 5724.1 | [link](https://github.com/google-deepmind/mujoco) |
+| DLR-RM/stable-baselines3 | 13603 | Python | 5441.3 | [link](https://github.com/DLR-RM/stable-baselines3) |
+| kornia/kornia | 11288 | Python | 4515.3 | [link](https://github.com/kornia/kornia) |
+| rerun-io/rerun | 11177 | Rust | 4470.9 | [link](https://github.com/rerun-io/rerun) |
+| RLinf/RLinf | 4240 | Python | 1696.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3853 | Rust | 1541.3 | [link](https://github.com/dora-rs/dora) |
-| sou350121/VLA-Handbook | 424 | HTML | 169.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5670 | Python | 2268.1 | [link](https://github.com/vllm-project/vllm-omni) |
-| ROBOTIS-GIT/ai_worker | 155 | Python | 62.1 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
+| knightnemo/Awesome-World-Models | 3215 |  | 1286.1 | [link](https://github.com/knightnemo/Awesome-World-Models) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -121,8 +110,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-24 | SG's Ropedia bags $22m pre-Series A to scale data infra for physical AI - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWJFdlV0VVh2SG5MMFdJUXMyYTVNSS1UZUJzMEFKLW5xUlVzNFdVd0RZZ0FvVGh6TURxc1R6clhHVVF6T1NBal9IdWQ2VGdCT1hWY0p2b3dfS2VwbHlUdmVYRE02VkhNRWpDOVBaVTNLcFdWSndJbjdKaHh5RzFJQnJXTVA?oc=5) |
 | 2026-07-23 | Black Forest Labs Unveils First Model for Robotics in Shift to Physical AI - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaU9uQ1E3bS01Y3VwZE93clV2Z1BXUk05UGhHQkZMZUYtVTVvMTVtSkd6eTdVX194R2ItbURLVTZOUlNvdmxZMndUbU9vR0ViREFUYWI5cWNrQUxoRzh6V1B2YS1pcEszaGR3NlBEdVJLTldIdS04b0EzdTgwbGhKZTJDNmw4SkJwVHUyWkZXRWhnQkZJWHJLUjdPbHg4T3ZRYmdwa0hycE1FemxXUGJ3c2FFbnhTaElLQnRiSnZwajdVN28?oc=5) |
-| 2026-07-23 | Travis Kalanick’s Physical AI Startup Atoms Raises $1.7B in Funding, Led by a16z - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2FsVkRhSWdFX05IMm9DTmo5WXBqZDl1c08wRVBpWld3d0gySDV5NGJZRWt6dnhybjR5Q3Iwa2ZXSVA0U0o3U0hMMUFqQ2tDQWRtNWNmX0RaU09PN1BHTk1oZzVrQXF4cE1XUFQ0V1dhRndnVU95aXZGZmZzdENXYW1fUXdWLWVablJUUDBNV3V2TXhfdUc4OV9HZlJxd1dLOHlWbzRibHF0Q3BpVmRkYzRsV0duZw?oc=5) |
 | 2026-07-23 | Genesis AI is in talks to raise $500 million as VCs bet on robotics software over hardware - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFFBaktXQVVONE54SEJLNEp6LVItSUdDc253YkY2cHdzb25VUXZHLUVOVlp2aW8tejZiYzFQa0Y4UTFqXzIwTEtHT280QnpxZXRMWFVpcmozUm5QYzJWVnJCRlFvbFpGblQwV19hWS1ueEVRaXl4blR0WDQxZk5jSTUwZ2V4bXdBNHVRQTZRMlRUWjlWd2ZVcHdkaHhHZXhZTHdPWGJodWVNZHg5YjlVdU04N2F0YTN5?oc=5) |
+| 2026-07-23 | Travis Kalanick’s Physical AI Startup Atoms Raises $1.7B in Funding, Led by a16z - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2FsVkRhSWdFX05IMm9DTmo5WXBqZDl1c08wRVBpWld3d0gySDV5NGJZRWt6dnhybjR5Q3Iwa2ZXSVA0U0o3U0hMMUFqQ2tDQWRtNWNmX0RaU09PN1BHTk1oZzVrQXF4cE1XUFQ0V1dhRndnVU95aXZGZmZzdENXYW1fUXdWLWVablJUUDBNV3V2TXhfdUc4OV9HZlJxd1dLOHlWbzRibHF0Q3BpVmRkYzRsV0duZw?oc=5) |
 | 2026-07-23 | Ropedia Raises $30 Million to Scale Data Infrastructure for Physical AI - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxOV1dDVGEzSTNNUUZoZjZTcmx6ZFNobnFlanY4SXBNUy1oSzdDckNENWYwdHI0TXN3NTBSTzZCYUd3eVI3U0ZjQXJwdkx4UHZRTnJDZzA4OEpyREJickQtc0VMU3dQeFBsZWFiMG5PVW1MZlVPMkxHNnJpZFo0STVvNElLdGtaVnd4SzNSRDZzaFMxLUc2bmRYUWVGUmdlbUlxa1pmUmpPZXB4VkZHVm9TTW8zcU9ZRkh0U2ZWTDhLOVJjRVpKZm9UdWpn?oc=5) |
 | 2026-07-23 | Singapore physical AI startup Ropedia raises $22m - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3V3VExMdUdUT1pfbjJsQmdkOVI1Z2FPcVF4ZHJWRmVYTEQyQzJXVU9SNWN3anJQM29XY0VRbG1QNW8xMXlGNDVXNDNwX0JXLUhudkR3c3FpZ3lVLU13bUpJdk9kMERmUG5aUTNSUFJKdFNzeldNMDVUZmRxOGVSLVZhYVBjM0k?oc=5) |
 | 2026-07-23 | Ropedia Raises $30M in Pre-A Funding To Scale Physical AI Data Infrastructure - Ventureburn | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQNTRzRmNscFQyb29TLUZSUTByNGhUS3BtaTByZERuejNlUThscm1udkNTVjR5TjlYTW9jajVWWXdvRWdnejAyUVNYMFZGeWZyMHdOQnVUMEhuUTh5dl9sRjZmVFZra3RQaHd3SURRQlRWeVpkb2Q4eGxpaXNkeGtYRTZnNjNBaUFFLWE0YXhkdlhWbTZNWGxkR0R3TDLSAZwBQVVfeXFMUDU0c0ZjbHBUMm9vUy1GUlEwcjRoVEtwbWkwcmREbnozZVE4bHJtbnZDU1Y0eU45WE1vY2o1Vll3b0VnZ3owMlFTWDBWRnlmcjB3TkJ1VDBIblE4eXZfbEY2ZlRWa2t0UGh3d0lEUUJUVnlaZG9kOHhsaWlzZHhrWEU2ZzYzQWlBRS1hNGF4ZHZYVm02TVhsZEdEd0wy?oc=5) |

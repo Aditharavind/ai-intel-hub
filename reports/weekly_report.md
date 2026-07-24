@@ -1,33 +1,27 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-24 07:24 UTC
+Generated: 2026-07-24 10:02 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-07-23 | Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers | [link](https://arxiv.org/pdf/2607.21594v1) |
-| 2026-07-23 | AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation | [link](https://arxiv.org/pdf/2607.21588v1) |
-| 2026-07-23 | Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation | [link](https://arxiv.org/pdf/2607.21582v1) |
-| 2026-07-23 | Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering | [link](https://arxiv.org/pdf/2607.21571v1) |
-| 2026-07-23 | Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling | [link](https://arxiv.org/pdf/2607.21561v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82688 | 33075.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63200 | 25280.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44285 | 17714.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30119 | 12047.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 82689 | 33075.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63201 | 25280.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44287 | 17714.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30121 | 12048.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16053 | 6421.3 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| zhijieq/directional-navigation | 415 | 124.6 | [link](https://huggingface.co/zhijieq/directional-navigation) |
-| tencent/Hy-Embodied-VLM-1.0 | 365 | 113.8 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
+| tencent/Hy-Embodied-VLM-1.0 | 444 | 137.5 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
+| zhijieq/directional-navigation | 416 | 124.9 | [link](https://huggingface.co/zhijieq/directional-navigation) |
 | SEU-PAISys/Embodied.cpp | 335 | 101.4 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
-| tencent/Hy-Embodied-RxBrain-1.0 | 254 | 86.1 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
-| sasa2000/Hy-Embodied-VLM-1.0-Text-Only | 93 | 28.0 | [link](https://huggingface.co/sasa2000/Hy-Embodied-VLM-1.0-Text-Only) |
+| tencent/Hy-Embodied-RxBrain-1.0 | 274 | 92.3 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
+| EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b | 276 | 82.9 | [link](https://huggingface.co/EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -43,6 +37,6 @@ Generated: 2026-07-24 07:24 UTC
 | --- | --- | --- | --- |
 | 2026-07-24 | SG's Ropedia bags $22m pre-Series A to scale data infra for physical AI - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWJFdlV0VVh2SG5MMFdJUXMyYTVNSS1UZUJzMEFKLW5xUlVzNFdVd0RZZ0FvVGh6TURxc1R6clhHVVF6T1NBal9IdWQ2VGdCT1hWY0p2b3dfS2VwbHlUdmVYRE02VkhNRWpDOVBaVTNLcFdWSndJbjdKaHh5RzFJQnJXTVA?oc=5) |
 | 2026-07-23 | Black Forest Labs Unveils First Model for Robotics in Shift to Physical AI - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaU9uQ1E3bS01Y3VwZE93clV2Z1BXUk05UGhHQkZMZUYtVTVvMTVtSkd6eTdVX194R2ItbURLVTZOUlNvdmxZMndUbU9vR0ViREFUYWI5cWNrQUxoRzh6V1B2YS1pcEszaGR3NlBEdVJLTldIdS04b0EzdTgwbGhKZTJDNmw4SkJwVHUyWkZXRWhnQkZJWHJLUjdPbHg4T3ZRYmdwa0hycE1FemxXUGJ3c2FFbnhTaElLQnRiSnZwajdVN28?oc=5) |
-| 2026-07-23 | Travis Kalanick’s Physical AI Startup Atoms Raises $1.7B in Funding, Led by a16z - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2FsVkRhSWdFX05IMm9DTmo5WXBqZDl1c08wRVBpWld3d0gySDV5NGJZRWt6dnhybjR5Q3Iwa2ZXSVA0U0o3U0hMMUFqQ2tDQWRtNWNmX0RaU09PN1BHTk1oZzVrQXF4cE1XUFQ0V1dhRndnVU95aXZGZmZzdENXYW1fUXdWLWVablJUUDBNV3V2TXhfdUc4OV9HZlJxd1dLOHlWbzRibHF0Q3BpVmRkYzRsV0duZw?oc=5) |
 | 2026-07-23 | Genesis AI is in talks to raise $500 million as VCs bet on robotics software over hardware - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFFBaktXQVVONE54SEJLNEp6LVItSUdDc253YkY2cHdzb25VUXZHLUVOVlp2aW8tejZiYzFQa0Y4UTFqXzIwTEtHT280QnpxZXRMWFVpcmozUm5QYzJWVnJCRlFvbFpGblQwV19hWS1ueEVRaXl4blR0WDQxZk5jSTUwZ2V4bXdBNHVRQTZRMlRUWjlWd2ZVcHdkaHhHZXhZTHdPWGJodWVNZHg5YjlVdU04N2F0YTN5?oc=5) |
+| 2026-07-23 | Travis Kalanick’s Physical AI Startup Atoms Raises $1.7B in Funding, Led by a16z - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2FsVkRhSWdFX05IMm9DTmo5WXBqZDl1c08wRVBpWld3d0gySDV5NGJZRWt6dnhybjR5Q3Iwa2ZXSVA0U0o3U0hMMUFqQ2tDQWRtNWNmX0RaU09PN1BHTk1oZzVrQXF4cE1XUFQ0V1dhRndnVU95aXZGZmZzdENXYW1fUXdWLWVablJUUDBNV3V2TXhfdUc4OV9HZlJxd1dLOHlWbzRibHF0Q3BpVmRkYzRsV0duZw?oc=5) |
 | 2026-07-23 | Ropedia Raises $30 Million to Scale Data Infrastructure for Physical AI - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxOV1dDVGEzSTNNUUZoZjZTcmx6ZFNobnFlanY4SXBNUy1oSzdDckNENWYwdHI0TXN3NTBSTzZCYUd3eVI3U0ZjQXJwdkx4UHZRTnJDZzA4OEpyREJickQtc0VMU3dQeFBsZWFiMG5PVW1MZlVPMkxHNnJpZFo0STVvNElLdGtaVnd4SzNSRDZzaFMxLUc2bmRYUWVGUmdlbUlxa1pmUmpPZXB4VkZHVm9TTW8zcU9ZRkh0U2ZWTDhLOVJjRVpKZm9UdWpn?oc=5) |
