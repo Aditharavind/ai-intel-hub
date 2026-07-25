@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-25 09:24 UTC
+Last Updated: 2026-07-25 10:58 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -78,6 +78,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-25 | SCZZ/LD4WAM_robotwin_wo_colorjitter | 7 | 0 | [link](https://huggingface.co/SCZZ/LD4WAM_robotwin_wo_colorjitter) |
+| 2026-07-25 | Vladniag/Bormotuha | 0 | 0 | [link](https://huggingface.co/Vladniag/Bormotuha) |
 | 2026-07-25 | Autism-Skill-Issue/pi05-lora-test-tube-ur5e-3cam-30fps-policy | 0 | 0 | [link](https://huggingface.co/Autism-Skill-Issue/pi05-lora-test-tube-ur5e-3cam-30fps-policy) |
 | 2026-07-25 | jogarulfop/policy_2026-07-24_shakeitup7_dragonfly_100kHz_nfft_4096 | 0 | 0 | [link](https://huggingface.co/jogarulfop/policy_2026-07-24_shakeitup7_dragonfly_100kHz_nfft_4096) |
 | 2026-07-25 | Rich3452/my_local_policy | 0 | 0 | [link](https://huggingface.co/Rich3452/my_local_policy) |
@@ -86,21 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-25 | chrisluo5311/Policy-Gradient-CartPole-v1 | 0 | 0 | [link](https://huggingface.co/chrisluo5311/Policy-Gradient-CartPole-v1) |
 | 2026-07-25 | jogarulfop/policy_2026-07-24_shakeitup7_dragonfly_100kHz_nfft_512 | 0 | 0 | [link](https://huggingface.co/jogarulfop/policy_2026-07-24_shakeitup7_dragonfly_100kHz_nfft_512) |
 | 2026-07-25 | Andy2435/blue-cube-policy-v2 | 13 | 0 | [link](https://huggingface.co/Andy2435/blue-cube-policy-v2) |
-| 2026-07-25 | PrasiddhPatel/so101_act_policy_scripted | 12 | 0 | [link](https://huggingface.co/PrasiddhPatel/so101_act_policy_scripted) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1423 | Rust | 569.3 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63209 | Python | 25283.7 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15546 | C++ | 6218.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 63211 | Python | 25284.5 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15547 | C++ | 6218.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11288 | Python | 4515.3 | [link](https://github.com/kornia/kornia) |
-| dora-rs/dora | 3853 | Rust | 1541.3 | [link](https://github.com/dora-rs/dora) |
-| datawhalechina/every-embodied | 2853 | Python | 1141.3 | [link](https://github.com/datawhalechina/every-embodied) |
-| RoboTwin-Platform/RoboTwin | 2629 | Python | 1051.7 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
-| sou350121/VLA-Handbook | 432 | HTML | 172.9 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5685 | Python | 2274.1 | [link](https://github.com/vllm-project/vllm-omni) |
-| OpenHUTB/hutb | 545 | C++ | 218.1 | [link](https://github.com/OpenHUTB/hutb) |
+| RLinf/RLinf | 4250 | Python | 1700.1 | [link](https://github.com/RLinf/RLinf) |
+| dora-rs/dora | 3852 | Rust | 1540.9 | [link](https://github.com/dora-rs/dora) |
+| huangjunsen0406/py-xiaozhi | 3423 | Python | 1369.3 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
+| datawhalechina/every-embodied | 2854 | Python | 1141.7 | [link](https://github.com/datawhalechina/every-embodied) |
+| RoboTwin-Platform/RoboTwin | 2630 | Python | 1052.1 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
+| flashrt-project/FlashRT | 451 | C++ | 180.5 | [link](https://github.com/flashrt-project/FlashRT) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
