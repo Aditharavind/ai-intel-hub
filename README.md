@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-25 21:41 UTC
+Last Updated: 2026-07-25 22:41 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -83,13 +83,13 @@ _No items collected yet._
 | copper-project/copper-rs | 1423 | Rust | 569.3 | [link](https://github.com/copper-project/copper-rs) |
 | commaai/openpilot | 63221 | Python | 25288.5 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15551 | C++ | 6220.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14322 | C++ | 5728.9 | [link](https://github.com/google-deepmind/mujoco) |
 | DLR-RM/stable-baselines3 | 13608 | Python | 5443.3 | [link](https://github.com/DLR-RM/stable-baselines3) |
 | kornia/kornia | 11288 | Python | 4515.3 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11183 | Rust | 4473.3 | [link](https://github.com/rerun-io/rerun) |
 | RLinf/RLinf | 4255 | Python | 1702.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3852 | Rust | 1540.9 | [link](https://github.com/dora-rs/dora) |
 | huangjunsen0406/py-xiaozhi | 3423 | Python | 1369.3 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
-| datawhalechina/every-embodied | 2858 | Python | 1143.3 | [link](https://github.com/datawhalechina/every-embodied) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
