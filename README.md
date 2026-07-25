@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-25 13:20 UTC
+Last Updated: 2026-07-25 14:53 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-25 | Photos: First look at J&J’s Ottava surgical robot | Robotics Business Review | [link](https://www.therobotreport.com/photos-first-look-at-jjs-ottava-surgical-robot/) |
 | 2026-07-24 | NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI | Robotics Business Review | [link](https://www.therobotreport.com/neura-robotics-establishes-neura-gym-rwth-aachen-train-physical-ai/) |
 | 2026-07-24 | Video Friday: An Italian Humanoid Comes to Life | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-physical-ai-robotics) |
 | 2026-07-24 | How time series databases unlock real-time data for robotics | Robotics Business Review | [link](https://www.therobotreport.com/how-time-series-databases-unlock-real-time-data-for-robotics/) |
@@ -44,21 +45,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-23 | Uber co-founder raises $1.7B for new robotics startup ATOMS | Robotics Business Review | [link](https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms/) |
 | 2026-07-23 | Holiday Robotics raises $105M for its FRIDAY wheeled humanoid | Robotics Business Review | [link](https://www.therobotreport.com/holiday-robotics-raises-105m-wheeled-humanoid-friday/) |
 | 2026-07-22 | NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/) |
-| 2026-07-22 | Medtronic to launch AI compute platform for the operating room | Robotics Business Review | [link](https://www.therobotreport.com/medtronic-launch-ai-compute-platform-operating-room/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-25 | Add Sensors to Everything! | Hackaday | [link](https://hackaday.com/2026/07/25/add-sensors-to-everything/) |
 | 2026-07-25 | Repairing a RED Cinema Camera On The Cheap | Hackaday | [link](https://hackaday.com/2026/07/25/repairing-a-red-cinema-camera-on-the-cheap/) |
 | 2026-07-25 | ICCU Monitor Logs Data in E-GMP EV Failures | Hackaday | [link](https://hackaday.com/2026/07/25/iccu-monitor-logs-data-in-e-gmp-ev-failures/) |
 | 2026-07-25 | 3D Printed Go Kart Designed to Fit in a Suitcase | Hackaday | [link](https://hackaday.com/2026/07/24/3d-printed-go-kart-designed-to-fit-in-a-suitcase/) |
 | 2026-07-25 | Fast Volumetric Imaging of Seizures with Adaptive Optics Light Sheet Microscopy | Hackaday | [link](https://hackaday.com/2026/07/24/fast-volumetric-imaging-of-seizures-with-adaptive-optics-light-sheet-microscopy/) |
 | 2026-07-25 | Beelink ME Pro 2-bay hybrid NAS gets Wildcat Lake treatment, gains 10GbE and Thunderbolt 4, loses a few M.2 slots | CNX Software | [link](https://www.cnx-software.com/2026/07/25/beelink-me-pro-2-bay-hybrid-nas-gets-wildcat-lake-treatment-gains-10gbe-and-thunderbolt-4-loses-a-few-m-2-slots/) |
+| 2026-07-25 | Backyard Squirrel Box With Camera | Adafruit | [link](https://blog.adafruit.com/2026/07/25/backyard-squirrel-box-with-camera/) |
 | 2026-07-24 | Hands-Free Mouse Uses Eyes And Muscles Instead | Hackaday | [link](https://hackaday.com/2026/07/24/hands-free-mouse-uses-eyes-and-muscles-instead/) |
 | 2026-07-24 | Codeberg Bans Cryptocurrency and LLM-Generated Code Projects | Hackaday | [link](https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects/) |
-| 2026-07-24 | E-ink Writing Deck Rocks a Typewriter Aesthetic | Hackaday | [link](https://hackaday.com/2026/07/24/e-ink-writing-deck-rocks-a-typewriter-aesthetic/) |
 | 2026-07-24 | $379.99 BOSGAME E6 ECO mini PC features Intel Core 3 304 Wildcat Lake CPU, 12GB LPDDR5X, 512GB NVMe SSD | CNX Software | [link](https://www.cnx-software.com/2026/07/24/379-99-bosgame-e6-eco-mini-pc-features-intel-core-3-304-wildcat-lake-cpu-12gb-lpddr5x-512gb-nvme-ssd/) |
-| 2026-07-24 | CirkitScape Top HAT adds extra GPIOs, RS-485, 3-channel ADC, four USB 2.0 ports to Raspberry Pi SBCs | CNX Software | [link](https://www.cnx-software.com/2026/07/24/cirkitscape-top-hat-adds-extra-gpios-rs-485-3-channel-adc-four-usb-2-0-ports-to-raspberry-pi-sbcs/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-25 | mario-d-robot/qwen-image-edit-plus-nsfw-lora | 0 | 0 | [link](https://huggingface.co/mario-d-robot/qwen-image-edit-plus-nsfw-lora) |
 | 2026-07-25 | SCZZ/LD4WAM_robotwin_wo_colorjitter | 7 | 0 | [link](https://huggingface.co/SCZZ/LD4WAM_robotwin_wo_colorjitter) |
 | 2026-07-25 | Vladniag/Bormotuha | 0 | 0 | [link](https://huggingface.co/Vladniag/Bormotuha) |
 | 2026-07-25 | Autism-Skill-Issue/pi05-lora-test-tube-ur5e-3cam-30fps-policy | 0 | 0 | [link](https://huggingface.co/Autism-Skill-Issue/pi05-lora-test-tube-ur5e-3cam-30fps-policy) |
@@ -86,17 +87,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-25 | matthewli2008/my_policy | 0 | 0 | [link](https://huggingface.co/matthewli2008/my_policy) |
 | 2026-07-25 | chrisluo5311/Policy-Gradient-CartPole-v1 | 0 | 0 | [link](https://huggingface.co/chrisluo5311/Policy-Gradient-CartPole-v1) |
 | 2026-07-25 | jogarulfop/policy_2026-07-24_shakeitup7_dragonfly_100kHz_nfft_512 | 0 | 0 | [link](https://huggingface.co/jogarulfop/policy_2026-07-24_shakeitup7_dragonfly_100kHz_nfft_512) |
-| 2026-07-25 | Andy2435/blue-cube-policy-v2 | 13 | 0 | [link](https://huggingface.co/Andy2435/blue-cube-policy-v2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1423 | Rust | 569.3 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63213 | Python | 25285.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63215 | Python | 25286.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15549 | C++ | 6219.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11288 | Python | 4515.3 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11180 | Rust | 4472.1 | [link](https://github.com/rerun-io/rerun) |
-| RLinf/RLinf | 4250 | Python | 1700.1 | [link](https://github.com/RLinf/RLinf) |
+| rerun-io/rerun | 11181 | Rust | 4472.5 | [link](https://github.com/rerun-io/rerun) |
+| RLinf/RLinf | 4251 | Python | 1700.5 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3852 | Rust | 1540.9 | [link](https://github.com/dora-rs/dora) |
 | huangjunsen0406/py-xiaozhi | 3423 | Python | 1369.3 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
 | datawhalechina/every-embodied | 2856 | Python | 1142.5 | [link](https://github.com/datawhalechina/every-embodied) |
@@ -119,6 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-25 | Eric Landau: Why Physical AI Is the Next Platform Shift—and 80% of the Economy Is at Stake - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iRTRxWUp4VGFLeDMyazUxVHlqQ1ZZcDMxa09yUlo1QUZvVDJRZnpuOTY5OWhiaklSMlZRV0hEVzVFY0c2MzZkRURxbTRKaEdiZDV3STR1WlRTbkE?oc=5) |
 | 2026-07-25 | Draper to Set Up Venture Capital Firm in Busan to Invest in K-Content, Physical AI, Biotech and Blockchain - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GWGR2eVlVeTZBZ2dtYWhBc3dVU1B3aWtEZ2pzcWRRZGtqWnpXZXNoaE5jczVuUkV4UGltNkNnOVJUa19CUk1vOFRxVHR3WTRPa2RDNg?oc=5) |
 | 2026-07-24 | The Week’s 10 Biggest Funding Rounds: Physical AI Startup Atoms Leads In Varied Week For Large Deals - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0JqNzY4MnFUYnpxN3ZZX3lBZ1pENU9MQkVTVWdjb053NEI4aUNueGJ3MndpOTQxWlFJMUZWcVZzSjhVNWNuMlE2VExjTldPQUw5cmtYRFdnTHhmV3laRHYyQmVxM0JpZDZSVXVoXzBrSEpvZVFmTXZIeEE2dXVseVMtTU8zM0plcWMyREdValljeWpBaWJUYw?oc=5) |
 | 2026-07-24 | Earth first, Mars later: Inside AIM’s grand vision for physical AI and autonomous bulldozers - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaU5VVEVQbGRYaS1YMTZFS24yTXc2bjdXZ0xIUktSVjhfd0hJcmNxcmZBRWd6YXRYSGdGVk9BU1BCdW0tdElTVE9Bem5kSFVDakg3RWFmcmtWVzJkc3RNRmlwSHl6YmhBMWY3bDRHc21QZWd5QnZjR1JicU5JRmk0QUk4SmlZS25kODViZ3ltdFNfbVZWa0l2TXR5MEJYTGFlbTc1RFdkaDVLTFRyUXVabE9JLVRMOE9iaEFQbA?oc=5) |
@@ -128,13 +129,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-24 | UK Humanoid Startup Raises $152M as Bosch and Schaeffler Back Wheels Over Legs - Tech Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVAyRl9LYUZoS2xzd3RIeWtEUEFYSldKT21pUVdxT1lkenRjeDZHNVpSTjVoV3ZUdHZQYUR5b29fUkZfZURnLTE4RnRPMWVpelI2MHVGX2lmR0lMZ1RZMlZ0WS1KZUpZOHJMYlA3UjV0MlB3cVFib0pZbFhwTTRDMFkwX0JxeTBJY2lTX0dqY3hJcEFBOG5lRlJOOEJCdFgwNlZPb2Q4QnhZcnh2QWY5WGtPREg3cFRabjNWZFVSVHBKcUk?oc=5) |
 | 2026-07-23 | Black Forest Labs Unveils First Model for Robotics in Shift to Physical AI - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaU9uQ1E3bS01Y3VwZE93clV2Z1BXUk05UGhHQkZMZUYtVTVvMTVtSkd6eTdVX194R2ItbURLVTZOUlNvdmxZMndUbU9vR0ViREFUYWI5cWNrQUxoRzh6V1B2YS1pcEszaGR3NlBEdVJLTldIdS04b0EzdTgwbGhKZTJDNmw4SkJwVHUyWkZXRWhnQkZJWHJLUjdPbHg4T3ZRYmdwa0hycE1FemxXUGJ3c2FFbnhTaElLQnRiSnZwajdVN28?oc=5) |
 | 2026-07-23 | Travis Kalanick’s Physical AI Startup Atoms Raises $1.7B in Funding, Led by a16z - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2FsVkRhSWdFX05IMm9DTmo5WXBqZDl1c08wRVBpWld3d0gySDV5NGJZRWt6dnhybjR5Q3Iwa2ZXSVA0U0o3U0hMMUFqQ2tDQWRtNWNmX0RaU09PN1BHTk1oZzVrQXF4cE1XUFQ0V1dhRndnVU95aXZGZmZzdENXYW1fUXdWLWVablJUUDBNV3V2TXhfdUc4OV9HZlJxd1dLOHlWbzRibHF0Q3BpVmRkYzRsV0duZw?oc=5) |
-| 2026-07-23 | Genesis AI is in talks to raise $500 million as VCs bet on robotics software over hardware - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFFBaktXQVVONE54SEJLNEp6LVItSUdDc253YkY2cHdzb25VUXZHLUVOVlp2aW8tejZiYzFQa0Y4UTFqXzIwTEtHT280QnpxZXRMWFVpcmozUm5QYzJWVnJCRlFvbFpGblQwV19hWS1ueEVRaXl4blR0WDQxZk5jSTUwZ2V4bXdBNHVRQTZRMlRUWjlWd2ZVcHdkaHhHZXhZTHdPWGJodWVNZHg5YjlVdU04N2F0YTN5?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-24 | AI Data Operations Manager | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
 | 2026-07-24 | AI Data Operations Manager | Figure AI | United Arab Emirates | [link](https://job-boards.greenhouse.io/figureai/jobs/4698164006) |
+| 2026-07-24 | AI Data Operations Manager | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
 | 2026-07-24 | AI Training Infrastructure Engineer – Humanoid Whole Body Control | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4674754006) |
 | 2026-07-24 | Apprentice Robot Service Technician | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4698535006) |
 | 2026-07-24 | Associate General Counsel, Hardware and Data | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4661633006) |
