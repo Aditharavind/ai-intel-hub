@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-25 04:51 UTC
+Last Updated: 2026-07-25 07:06 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-25 | 3D Printed Go Kart Designed to Fit in a Suitcase | Hackaday | [link](https://hackaday.com/2026/07/24/3d-printed-go-kart-designed-to-fit-in-a-suitcase/) |
 | 2026-07-25 | Fast Volumetric Imaging of Seizures with Adaptive Optics Light Sheet Microscopy | Hackaday | [link](https://hackaday.com/2026/07/24/fast-volumetric-imaging-of-seizures-with-adaptive-optics-light-sheet-microscopy/) |
 | 2026-07-25 | Beelink ME Pro 2-bay hybrid NAS gets Wildcat Lake treatment, gains 10GbE and Thunderbolt 4, loses a few M.2 slots | CNX Software | [link](https://www.cnx-software.com/2026/07/25/beelink-me-pro-2-bay-hybrid-nas-gets-wildcat-lake-treatment-gains-10gbe-and-thunderbolt-4-loses-a-few-m-2-slots/) |
 | 2026-07-24 | Hands-Free Mouse Uses Eyes And Muscles Instead | Hackaday | [link](https://hackaday.com/2026/07/24/hands-free-mouse-uses-eyes-and-muscles-instead/) |
@@ -56,7 +57,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-24 | E-ink Writing Deck Rocks a Typewriter Aesthetic | Hackaday | [link](https://hackaday.com/2026/07/24/e-ink-writing-deck-rocks-a-typewriter-aesthetic/) |
 | 2026-07-24 | Hackaday Podcast Episode 379: Driving E-ink DIY, NES on ESP, and the Other IRC | Hackaday | [link](https://hackaday.com/2026/07/24/hackaday-podcast-episode-379-driving-e-ink-diy-nes-on-esp-and-the-other-irc/) |
 | 2026-07-24 | Keeping Mosquitoes Away with Catnip-Based Repellent | Hackaday | [link](https://hackaday.com/2026/07/24/keeping-mosquitoes-away-with-catnip-based-repellent/) |
-| 2026-07-24 | This Week in Security: AI is a Mess, Hacking Car Chargers, an OpenSSL DoS, and Factories Under Attack | Hackaday | [link](https://hackaday.com/2026/07/24/this-week-in-security-ai-is-a-mess-hacking-car-chargers-an-openssl-dos-and-factories-under-attack/) |
 | 2026-07-24 | $379.99 BOSGAME E6 ECO mini PC features Intel Core 3 304 Wildcat Lake CPU, 12GB LPDDR5X, 512GB NVMe SSD | CNX Software | [link](https://www.cnx-software.com/2026/07/24/379-99-bosgame-e6-eco-mini-pc-features-intel-core-3-304-wildcat-lake-cpu-12gb-lpddr5x-512gb-nvme-ssd/) |
 | 2026-07-24 | CirkitScape Top HAT adds extra GPIOs, RS-485, 3-channel ADC, four USB 2.0 ports to Raspberry Pi SBCs | CNX Software | [link](https://www.cnx-software.com/2026/07/24/cirkitscape-top-hat-adds-extra-gpios-rs-485-3-channel-adc-four-usb-2-0-ports-to-raspberry-pi-sbcs/) |
 
@@ -92,15 +92,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1423 | Rust | 569.3 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63208 | Python | 25283.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63209 | Python | 25283.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15546 | C++ | 6218.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11288 | Python | 4515.3 | [link](https://github.com/kornia/kornia) |
 | dora-rs/dora | 3853 | Rust | 1541.3 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 431 | HTML | 172.5 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5683 | Python | 2273.3 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 5685 | Python | 2274.1 | [link](https://github.com/vllm-project/vllm-omni) |
 | OpenHUTB/hutb | 545 | C++ | 218.1 | [link](https://github.com/OpenHUTB/hutb) |
 | softmata/horus | 392 | Rust | 156.9 | [link](https://github.com/softmata/horus) |
-| isaac-sim/IsaacLab | 7759 | Python | 3103.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| isaac-sim/IsaacLab | 7760 | Python | 3104.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
