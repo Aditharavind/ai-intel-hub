@@ -1,5 +1,45 @@
 [
   {
+    "repo": "copper-project/copper-rs",
+    "stars": 1423,
+    "language": "Rust",
+    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
+    "url": "https://github.com/copper-project/copper-rs",
+    "date": "2026-07-25",
+    "topic": "physical-ai",
+    "score": 569.3
+  },
+  {
+    "repo": "kornia/kornia",
+    "stars": 11288,
+    "language": "Python",
+    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "url": "https://github.com/kornia/kornia",
+    "date": "2026-07-25",
+    "topic": "robotics",
+    "score": 4515.3
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7759,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-07-25",
+    "topic": "robot-learning",
+    "score": 3103.7
+  },
+  {
+    "repo": "johnsutor/so101-nexus",
+    "stars": 24,
+    "language": "Python",
+    "description": "Full-stack robot learning for the SO-101 arm: teleoperation, imitation learning, and RL in MuJoCo.",
+    "url": "https://github.com/johnsutor/so101-nexus",
+    "date": "2026-07-25",
+    "topic": "lerobot",
+    "score": 9.7
+  },
+  {
     "repo": "NVIDIA/skills",
     "stars": 2664,
     "language": "Python",
@@ -8,16 +48,6 @@
     "date": "2026-07-24",
     "topic": "physical-ai",
     "score": 1065.7
-  },
-  {
-    "repo": "copper-project/copper-rs",
-    "stars": 1423,
-    "language": "Rust",
-    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
-    "url": "https://github.com/copper-project/copper-rs",
-    "date": "2026-07-24",
-    "topic": "physical-ai",
-    "score": 569.3
   },
   {
     "repo": "mosaico-labs/mosaico",
@@ -71,13 +101,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14314,
+    "stars": 14315,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-07-24",
     "topic": "robotics",
-    "score": 5725.7
+    "score": 5726.1
   },
   {
     "repo": "DLR-RM/stable-baselines3",
@@ -88,16 +118,6 @@
     "date": "2026-07-24",
     "topic": "robotics",
     "score": 5442.9
-  },
-  {
-    "repo": "kornia/kornia",
-    "stars": 11288,
-    "language": "Python",
-    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-    "url": "https://github.com/kornia/kornia",
-    "date": "2026-07-24",
-    "topic": "robotics",
-    "score": 4515.3
   },
   {
     "repo": "rerun-io/rerun",
@@ -161,13 +181,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS",
-    "stars": 1040,
+    "stars": 1044,
     "language": "Python",
     "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS",
     "date": "2026-07-24",
     "topic": "embodied-ai",
-    "score": 416.1
+    "score": 417.7
   },
   {
     "repo": "flashrt-project/FlashRT",
@@ -211,23 +231,23 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5682,
+    "stars": 5683,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-24",
     "topic": "world-model",
-    "score": 2272.9
+    "score": 2273.3
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 2069,
+    "stars": 2070,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-07-24",
     "topic": "world-model",
-    "score": 827.7
+    "score": 828.1
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
@@ -250,16 +270,6 @@
     "score": 62.1
   },
   {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7759,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-07-24",
-    "topic": "robot-learning",
-    "score": 3103.7
-  },
-  {
     "repo": "robotlearning123/awesome-isaac-gym",
     "stars": 788,
     "language": "Python",
@@ -280,14 +290,14 @@
     "score": 251.7
   },
   {
-    "repo": "johnsutor/so101-nexus",
-    "stars": 24,
+    "repo": "DexForce/EmbodiChain",
+    "stars": 200,
     "language": "Python",
-    "description": "Full-stack robot learning for the SO-101 arm: teleoperation, imitation learning, and RL in MuJoCo.",
-    "url": "https://github.com/johnsutor/so101-nexus",
+    "description": "An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence.",
+    "url": "https://github.com/DexForce/EmbodiChain",
     "date": "2026-07-24",
-    "topic": "lerobot",
-    "score": 9.7
+    "topic": "robot-learning",
+    "score": 80.1
   },
   {
     "repo": "Edgenesis/shifu",
@@ -501,13 +511,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30129,
+    "stars": 30130,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-07-20",
     "topic": "robotics",
-    "score": 12051.7
+    "score": 12052.1
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -570,6 +580,16 @@
     "score": 26.5
   },
   {
+    "repo": "worldbench/awesome-3d-4d-world-models",
+    "stars": 951,
+    "language": "HTML",
+    "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
+    "url": "https://github.com/worldbench/awesome-3d-4d-world-models",
+    "date": "2026-07-15",
+    "topic": "embodied-ai",
+    "score": 380.5
+  },
+  {
     "repo": "LeCAR-Lab/BFM-Zero",
     "stars": 692,
     "language": "Python",
@@ -578,6 +598,16 @@
     "date": "2026-07-15",
     "topic": "humanoid",
     "score": 276.9
+  },
+  {
+    "repo": "alireza787b/mavsdk_drone_show",
+    "stars": 307,
+    "language": "Python",
+    "description": "Open-source MAVLink fleet operations for PX4: SITL, drone shows, search and rescue, cooperative autonomy, and field validation",
+    "url": "https://github.com/alireza787b/mavsdk_drone_show",
+    "date": "2026-07-14",
+    "topic": "physical-ai",
+    "score": 122.9
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
@@ -631,13 +661,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 10319,
+    "stars": 10321,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 4127.7
+    "score": 4128.5
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -810,16 +840,6 @@
     "score": 852.9
   },
   {
-    "repo": "Visionary-Laboratory/visionary",
-    "stars": 514,
-    "language": "Python",
-    "description": "Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform",
-    "url": "https://github.com/Visionary-Laboratory/visionary",
-    "date": "2026-06-26",
-    "topic": "world-model",
-    "score": 205.7
-  },
-  {
     "repo": "mimic-video/mimic-video",
     "stars": 292,
     "language": "Python",
@@ -828,6 +848,16 @@
     "date": "2026-06-26",
     "topic": "robot-learning",
     "score": 116.9
+  },
+  {
+    "repo": "Visionary-Laboratory/visionary",
+    "stars": 514,
+    "language": "Python",
+    "description": "Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform",
+    "url": "https://github.com/Visionary-Laboratory/visionary",
+    "date": "2026-06-26",
+    "topic": "world-model",
+    "score": 205.7
   },
   {
     "repo": "ROBOTIS-GIT/physical_ai_tools",
@@ -848,25 +878,5 @@
     "date": "2026-06-25",
     "topic": "vla",
     "score": 504.5
-  },
-  {
-    "repo": "keon/awesome-physical-ai",
-    "stars": 364,
-    "language": "",
-    "description": "A curated list of academic papers and resources on Physical AI — focusing on Vision-Language-Action (VLA) models, world models, embodied ai, and robotic foundation models.",
-    "url": "https://github.com/keon/awesome-physical-ai",
-    "date": "2026-06-24",
-    "topic": "vla",
-    "score": 145.7
-  },
-  {
-    "repo": "mani-skill/ManiSkill",
-    "stars": 3153,
-    "language": "Python",
-    "description": "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
-    "url": "https://github.com/mani-skill/ManiSkill",
-    "date": "2026-06-24",
-    "topic": "robot-learning",
-    "score": 1261.3
   }
 ]

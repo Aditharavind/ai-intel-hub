@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-24 23:50 UTC
+Last Updated: 2026-07-25 01:17 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,6 +77,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-25 | SCZZ/LD4WAM_robotwin_wo_colorjitter | 0 | 0 | [link](https://huggingface.co/SCZZ/LD4WAM_robotwin_wo_colorjitter) |
+| 2026-07-25 | PrasiddhPatel/so101_act_policy_scripted | 0 | 0 | [link](https://huggingface.co/PrasiddhPatel/so101_act_policy_scripted) |
+| 2026-07-25 | mantosms/company-policy-deepseek-r1-multilingual | 0 | 0 | [link](https://huggingface.co/mantosms/company-policy-deepseek-r1-multilingual) |
 | 2026-07-24 | mario-d-robot/Qwen-Image-Edit-LoRA-Collection | 0 | 0 | [link](https://huggingface.co/mario-d-robot/Qwen-Image-Edit-LoRA-Collection) |
 | 2026-07-24 | YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric_lora | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric_lora) |
 | 2026-07-24 | robbyant/lingbot-vla-v2-6b-robotwin | 0 | 1 | [link](https://huggingface.co/robbyant/lingbot-vla-v2-6b-robotwin) |
@@ -84,23 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-24 | MINT-SJTU/Evo1_RoboTwin2_clean | 0 | 0 | [link](https://huggingface.co/MINT-SJTU/Evo1_RoboTwin2_clean) |
 | 2026-07-24 | Kei-Sanada/robotics-vla-task-23-basic | 0 | 0 | [link](https://huggingface.co/Kei-Sanada/robotics-vla-task-23-basic) |
 | 2026-07-24 | wmkdfmk/robotics-vla-task-23-competitive-v7-rollout | 0 | 1 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v7-rollout) |
-| 2026-07-24 | KiyotakaWang/lerobot-pi0.5-robotwin2.0 | 0 | 1 | [link](https://huggingface.co/KiyotakaWang/lerobot-pi0.5-robotwin2.0) |
-| 2026-07-24 | wmkdfmk/robotics-vla-task-23-competitive-v6-reactive | 0 | 0 | [link](https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v6-reactive) |
-| 2026-07-24 | tron-robot/yam-vla-handoff | 0 | 0 | [link](https://huggingface.co/tron-robot/yam-vla-handoff) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2664 | Python | 1065.7 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1423 | Rust | 569.3 | [link](https://github.com/copper-project/copper-rs) |
+| kornia/kornia | 11288 | Python | 4515.3 | [link](https://github.com/kornia/kornia) |
+| isaac-sim/IsaacLab | 7759 | Python | 3103.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| johnsutor/so101-nexus | 24 | Python | 9.7 | [link](https://github.com/johnsutor/so101-nexus) |
+| NVIDIA/skills | 2664 | Python | 1065.7 | [link](https://github.com/NVIDIA/skills) |
 | mosaico-labs/mosaico | 892 | Python | 356.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 466 | Shell | 186.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63207 | Python | 25282.9 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16054 | Python | 6421.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15545 | C++ | 6218.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14314 | C++ | 5725.7 | [link](https://github.com/google-deepmind/mujoco) |
-| DLR-RM/stable-baselines3 | 13607 | Python | 5442.9 | [link](https://github.com/DLR-RM/stable-baselines3) |
-| kornia/kornia | 11288 | Python | 4515.3 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -122,13 +122,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-24 | The Week’s 10 Biggest Funding Rounds: Physical AI Startup Atoms Leads In Varied Week For Large Deals - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0JqNzY4MnFUYnpxN3ZZX3lBZ1pENU9MQkVTVWdjb053NEI4aUNueGJ3MndpOTQxWlFJMUZWcVZzSjhVNWNuMlE2VExjTldPQUw5cmtYRFdnTHhmV3laRHYyQmVxM0JpZDZSVXVoXzBrSEpvZVFmTXZIeEE2dXVseVMtTU8zM0plcWMyREdValljeWpBaWJUYw?oc=5) |
 | 2026-07-24 | Earth first, Mars later: Inside AIM’s grand vision for physical AI and autonomous bulldozers - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaU5VVEVQbGRYaS1YMTZFS24yTXc2bjdXZ0xIUktSVjhfd0hJcmNxcmZBRWd6YXRYSGdGVk9BU1BCdW0tdElTVE9Bem5kSFVDakg3RWFmcmtWVzJkc3RNRmlwSHl6YmhBMWY3bDRHc21QZWd5QnZjR1JicU5JRmk0QUk4SmlZS25kODViZ3ltdFNfbVZWa0l2TXR5MEJYTGFlbTc1RFdkaDVLTFRyUXVabE9JLVRMOE9iaEFQbA?oc=5) |
 | 2026-07-24 | SG's Ropedia bags $22m pre-Series A to scale data infra for physical AI - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWJFdlV0VVh2SG5MMFdJUXMyYTVNSS1UZUJzMEFKLW5xUlVzNFdVd0RZZ0FvVGh6TURxc1R6clhHVVF6T1NBal9IdWQ2VGdCT1hWY0p2b3dfS2VwbHlUdmVYRE02VkhNRWpDOVBaVTNLcFdWSndJbjdKaHh5RzFJQnJXTVA?oc=5) |
-| 2026-07-24 | This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots— Now It's Building Military V - Benzinga | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNekp6ZklfYkstdy1RaHVSYy1GQUNRelBoS1VKVV9MRnlJTlBQN1FTNk95NUdzMWNLQlRKUUM4R1VfY1c1dVlUVDNwdkpqZnFxUzhLTi1wMEFRaG9ENlphZ0JYZFoxUnZxSFZmRGtkel9vUnVXNlNDczV0bHpjOFBpTW83b3VTWkYxaGZWbEMxQnRRZ1JzNUJ4Y1JoZ1V3NE1MbnNTZXNuRUFNTUJiOFNBbjdzaXZtSzBWM203Qk9iMDRsVnBQdU1NaS0zOVc5TUFJeFhrZ2x5M1lPeWVWVHpUWWVUNkxLT1FDX3ZISzVWR1J1UndVXzZ4NS1VWF90dnVEY2J4eW9fWjNOclI4NXctYkUzUzRkVDZfYjB5RzgwenY2TmliM2ZfR1Bn?oc=5) |
+| 2026-07-24 | AgiBot Begins Hong Kong IPO Process as China’s Embodied-AI Startups Race to List - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxPcmhiS1lSd1dsbHdQaWFtYTA3b2g4Qm5WMDRkTmJBWHU5Zk15bnQxYlBBZ1JfRy1neUxMZFlmcTJTQ2Nwb1FRN1ZHa3M4UFdGVlpLSDNSdjZMV0ljNV9hSVgxSkZmRDNMYkVTcHFJeElTNTVHTzY2WXdKRS1BOFdVXzN1VUViczlIMl9RQW9GN092ZnU4Z0diVF9Lc2tqRWVZSllPMU5pOTIyOWpGVUp2VlBCb0JtTTd0NXdzbHFhRnJxSVk5THZwelpKOVdOSXM?oc=5) |
 | 2026-07-24 | Top 10 humanoid robot startups to watch in 2026, ranked by total funding — TFN - Tech Funding News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTFAtdW1xMTdiZk5Va0tDQUwweGZQMHZUUi1Vc0M4NnctdV82MkdUZzFfN1M4ZzlEVzFjRU1ZTjZvUmdpRnFjc19wVHpIcDlTNG0wN2gxLV9xOHpLMXZiNWpuaE91U21IX0NmU3pNQmdXeGlkSlRnRmJ0bw?oc=5) |
 | 2026-07-24 | UK Humanoid Startup Raises $152M as Bosch and Schaeffler Back Wheels Over Legs - Tech Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVAyRl9LYUZoS2xzd3RIeWtEUEFYSldKT21pUVdxT1lkenRjeDZHNVpSTjVoV3ZUdHZQYUR5b29fUkZfZURnLTE4RnRPMWVpelI2MHVGX2lmR0lMZ1RZMlZ0WS1KZUpZOHJMYlA3UjV0MlB3cVFib0pZbFhwTTRDMFkwX0JxeTBJY2lTX0dqY3hJcEFBOG5lRlJOOEJCdFgwNlZPb2Q4QnhZcnh2QWY5WGtPREg3cFRabjNWZFVSVHBKcUk?oc=5) |
+| 2026-07-24 | Italian Startup Debuts Gene.01 Humanoid With Skin That Senses Humans Before Contact - Tech Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPelhTMkVMZ2lEU08yZUJGeWxMT2RUem04eWdrX2pvV3c4NTEyQTVLbmpZSUUtRUsya1BzRDNQYlhXUDNWeUdKOVpSUjhTc2RHVmpHUThSVmZrLVJ1VVZYSzRVaEJ3S05wS1VyckI2Z2t2RTEzOWVtRXJCSF8xYlFGckl4UnZUYzJaLWlSaEl1Z1pNSlc5XzZYbFhRQVJVc0dCMG9kREJQNFNtX0ZSbWNfUE52QTF3U2FXanVfVnR1ekdCc3dkMGJFeDZGb1I?oc=5) |
 | 2026-07-23 | Black Forest Labs Unveils First Model for Robotics in Shift to Physical AI - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaU9uQ1E3bS01Y3VwZE93clV2Z1BXUk05UGhHQkZMZUYtVTVvMTVtSkd6eTdVX194R2ItbURLVTZOUlNvdmxZMndUbU9vR0ViREFUYWI5cWNrQUxoRzh6V1B2YS1pcEszaGR3NlBEdVJLTldIdS04b0EzdTgwbGhKZTJDNmw4SkJwVHUyWkZXRWhnQkZJWHJLUjdPbHg4T3ZRYmdwa0hycE1FemxXUGJ3c2FFbnhTaElLQnRiSnZwajdVN28?oc=5) |
 | 2026-07-23 | Travis Kalanick’s Physical AI Startup Atoms Raises $1.7B in Funding, Led by a16z - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2FsVkRhSWdFX05IMm9DTmo5WXBqZDl1c08wRVBpWld3d0gySDV5NGJZRWt6dnhybjR5Q3Iwa2ZXSVA0U0o3U0hMMUFqQ2tDQWRtNWNmX0RaU09PN1BHTk1oZzVrQXF4cE1XUFQ0V1dhRndnVU95aXZGZmZzdENXYW1fUXdWLWVablJUUDBNV3V2TXhfdUc4OV9HZlJxd1dLOHlWbzRibHF0Q3BpVmRkYzRsV0duZw?oc=5) |
 | 2026-07-23 | Genesis AI is in talks to raise $500 million as VCs bet on robotics software over hardware - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFFBaktXQVVONE54SEJLNEp6LVItSUdDc253YkY2cHdzb25VUXZHLUVOVlp2aW8tejZiYzFQa0Y4UTFqXzIwTEtHT280QnpxZXRMWFVpcmozUm5QYzJWVnJCRlFvbFpGblQwV19hWS1ueEVRaXl4blR0WDQxZk5jSTUwZ2V4bXdBNHVRQTZRMlRUWjlWd2ZVcHdkaHhHZXhZTHdPWGJodWVNZHg5YjlVdU04N2F0YTN5?oc=5) |
-| 2026-07-23 | Ropedia Raises $30 Million to Scale Data Infrastructure for Physical AI - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxOV1dDVGEzSTNNUUZoZjZTcmx6ZFNobnFlanY4SXBNUy1oSzdDckNENWYwdHI0TXN3NTBSTzZCYUd3eVI3U0ZjQXJwdkx4UHZRTnJDZzA4OEpyREJickQtc0VMU3dQeFBsZWFiMG5PVW1MZlVPMkxHNnJpZFo0STVvNElLdGtaVnd4SzNSRDZzaFMxLUc2bmRYUWVGUmdlbUlxa1pmUmpPZXB4VkZHVm9TTW8zcU9ZRkh0U2ZWTDhLOVJjRVpKZm9UdWpn?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
