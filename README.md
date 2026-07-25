@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-25 07:06 UTC
+Last Updated: 2026-07-25 09:24 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-25 | ICCU Monitor Logs Data in E-GMP EV Failures | Hackaday | [link](https://hackaday.com/2026/07/25/iccu-monitor-logs-data-in-e-gmp-ev-failures/) |
 | 2026-07-25 | 3D Printed Go Kart Designed to Fit in a Suitcase | Hackaday | [link](https://hackaday.com/2026/07/24/3d-printed-go-kart-designed-to-fit-in-a-suitcase/) |
 | 2026-07-25 | Fast Volumetric Imaging of Seizures with Adaptive Optics Light Sheet Microscopy | Hackaday | [link](https://hackaday.com/2026/07/24/fast-volumetric-imaging-of-seizures-with-adaptive-optics-light-sheet-microscopy/) |
 | 2026-07-25 | Beelink ME Pro 2-bay hybrid NAS gets Wildcat Lake treatment, gains 10GbE and Thunderbolt 4, loses a few M.2 slots | CNX Software | [link](https://www.cnx-software.com/2026/07/25/beelink-me-pro-2-bay-hybrid-nas-gets-wildcat-lake-treatment-gains-10gbe-and-thunderbolt-4-loses-a-few-m-2-slots/) |
@@ -56,7 +57,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-24 | Codeberg Bans Cryptocurrency and LLM-Generated Code Projects | Hackaday | [link](https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects/) |
 | 2026-07-24 | E-ink Writing Deck Rocks a Typewriter Aesthetic | Hackaday | [link](https://hackaday.com/2026/07/24/e-ink-writing-deck-rocks-a-typewriter-aesthetic/) |
 | 2026-07-24 | Hackaday Podcast Episode 379: Driving E-ink DIY, NES on ESP, and the Other IRC | Hackaday | [link](https://hackaday.com/2026/07/24/hackaday-podcast-episode-379-driving-e-ink-diy-nes-on-esp-and-the-other-irc/) |
-| 2026-07-24 | Keeping Mosquitoes Away with Catnip-Based Repellent | Hackaday | [link](https://hackaday.com/2026/07/24/keeping-mosquitoes-away-with-catnip-based-repellent/) |
 | 2026-07-24 | $379.99 BOSGAME E6 ECO mini PC features Intel Core 3 304 Wildcat Lake CPU, 12GB LPDDR5X, 512GB NVMe SSD | CNX Software | [link](https://www.cnx-software.com/2026/07/24/379-99-bosgame-e6-eco-mini-pc-features-intel-core-3-304-wildcat-lake-cpu-12gb-lpddr5x-512gb-nvme-ssd/) |
 | 2026-07-24 | CirkitScape Top HAT adds extra GPIOs, RS-485, 3-channel ADC, four USB 2.0 ports to Raspberry Pi SBCs | CNX Software | [link](https://www.cnx-software.com/2026/07/24/cirkitscape-top-hat-adds-extra-gpios-rs-485-3-channel-adc-four-usb-2-0-ports-to-raspberry-pi-sbcs/) |
 
@@ -77,16 +77,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-25 | SCZZ/LD4WAM_robotwin_wo_colorjitter | 0 | 0 | [link](https://huggingface.co/SCZZ/LD4WAM_robotwin_wo_colorjitter) |
+| 2026-07-25 | SCZZ/LD4WAM_robotwin_wo_colorjitter | 7 | 0 | [link](https://huggingface.co/SCZZ/LD4WAM_robotwin_wo_colorjitter) |
+| 2026-07-25 | Autism-Skill-Issue/pi05-lora-test-tube-ur5e-3cam-30fps-policy | 0 | 0 | [link](https://huggingface.co/Autism-Skill-Issue/pi05-lora-test-tube-ur5e-3cam-30fps-policy) |
+| 2026-07-25 | jogarulfop/policy_2026-07-24_shakeitup7_dragonfly_100kHz_nfft_4096 | 0 | 0 | [link](https://huggingface.co/jogarulfop/policy_2026-07-24_shakeitup7_dragonfly_100kHz_nfft_4096) |
+| 2026-07-25 | Rich3452/my_local_policy | 0 | 0 | [link](https://huggingface.co/Rich3452/my_local_policy) |
 | 2026-07-25 | Andy2435/blue-cube-smolvla-policy-v2 | 0 | 0 | [link](https://huggingface.co/Andy2435/blue-cube-smolvla-policy-v2) |
 | 2026-07-25 | matthewli2008/my_policy | 0 | 0 | [link](https://huggingface.co/matthewli2008/my_policy) |
 | 2026-07-25 | chrisluo5311/Policy-Gradient-CartPole-v1 | 0 | 0 | [link](https://huggingface.co/chrisluo5311/Policy-Gradient-CartPole-v1) |
 | 2026-07-25 | jogarulfop/policy_2026-07-24_shakeitup7_dragonfly_100kHz_nfft_512 | 0 | 0 | [link](https://huggingface.co/jogarulfop/policy_2026-07-24_shakeitup7_dragonfly_100kHz_nfft_512) |
-| 2026-07-25 | Andy2435/blue-cube-policy-v2 | 0 | 0 | [link](https://huggingface.co/Andy2435/blue-cube-policy-v2) |
-| 2026-07-25 | PrasiddhPatel/so101_act_policy_scripted | 0 | 0 | [link](https://huggingface.co/PrasiddhPatel/so101_act_policy_scripted) |
-| 2026-07-25 | mantosms/company-policy-deepseek-r1-multilingual | 0 | 0 | [link](https://huggingface.co/mantosms/company-policy-deepseek-r1-multilingual) |
-| 2026-07-24 | mario-d-robot/Qwen-Image-Edit-LoRA-Collection | 0 | 0 | [link](https://huggingface.co/mario-d-robot/Qwen-Image-Edit-LoRA-Collection) |
-| 2026-07-24 | YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric_lora | 0 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric_lora) |
+| 2026-07-25 | Andy2435/blue-cube-policy-v2 | 13 | 0 | [link](https://huggingface.co/Andy2435/blue-cube-policy-v2) |
+| 2026-07-25 | PrasiddhPatel/so101_act_policy_scripted | 12 | 0 | [link](https://huggingface.co/PrasiddhPatel/so101_act_policy_scripted) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -96,11 +96,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | ArduPilot/ardupilot | 15546 | C++ | 6218.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11288 | Python | 4515.3 | [link](https://github.com/kornia/kornia) |
 | dora-rs/dora | 3853 | Rust | 1541.3 | [link](https://github.com/dora-rs/dora) |
-| sou350121/VLA-Handbook | 431 | HTML | 172.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| datawhalechina/every-embodied | 2853 | Python | 1141.3 | [link](https://github.com/datawhalechina/every-embodied) |
+| RoboTwin-Platform/RoboTwin | 2629 | Python | 1051.7 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
+| sou350121/VLA-Handbook | 432 | HTML | 172.9 | [link](https://github.com/sou350121/VLA-Handbook) |
 | vllm-project/vllm-omni | 5685 | Python | 2274.1 | [link](https://github.com/vllm-project/vllm-omni) |
 | OpenHUTB/hutb | 545 | C++ | 218.1 | [link](https://github.com/OpenHUTB/hutb) |
-| softmata/horus | 392 | Rust | 156.9 | [link](https://github.com/softmata/horus) |
-| isaac-sim/IsaacLab | 7760 | Python | 3104.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -133,8 +133,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-24 | AI Data Operations Manager | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
 | 2026-07-24 | AI Data Operations Manager | Figure AI | United Arab Emirates | [link](https://job-boards.greenhouse.io/figureai/jobs/4698164006) |
+| 2026-07-24 | AI Data Operations Manager | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
 | 2026-07-24 | AI Training Infrastructure Engineer – Humanoid Whole Body Control | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4674754006) |
 | 2026-07-24 | Apprentice Robot Service Technician | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4698535006) |
 | 2026-07-24 | Associate General Counsel, Hardware and Data | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4661633006) |

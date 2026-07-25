@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-25 07:06 UTC
+Generated: 2026-07-25 09:24 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-07-25 07:06 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82705 | 33082.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82708 | 33083.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63209 | 25283.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44286 | 17714.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30131 | 12052.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16056 | 6422.5 | [link](https://github.com/zauberzeug/nicegui) |
+| NaiboWang/EasySpider | 44287 | 17714.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30132 | 12052.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16058 | 6423.3 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| tencent/Hy-Embodied-VLM-1.0 | 444 | 137.5 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
+| tencent/Hy-Embodied-VLM-1.0 | 451 | 139.6 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
 | zhijieq/directional-navigation | 416 | 124.9 | [link](https://huggingface.co/zhijieq/directional-navigation) |
-| SEU-PAISys/Embodied.cpp | 335 | 101.4 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
-| tencent/Hy-Embodied-RxBrain-1.0 | 274 | 92.3 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
-| EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b | 276 | 82.9 | [link](https://huggingface.co/EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b) |
+| SEU-PAISys/Embodied.cpp | 341 | 103.2 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
+| tencent/Hy-Embodied-RxBrain-1.0 | 281 | 94.4 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
+| EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b | 278 | 83.5 | [link](https://huggingface.co/EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
