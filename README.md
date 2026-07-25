@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-25 17:45 UTC
+Last Updated: 2026-07-25 18:43 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -80,13 +80,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-25 | YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric | 99 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric) |
 | 2026-07-25 | mario-d-robot/qwen-image-edit-plus-nsfw-lora | 0 | 0 | [link](https://huggingface.co/mario-d-robot/qwen-image-edit-plus-nsfw-lora) |
 | 2026-07-25 | SCZZ/LD4WAM_robotwin_wo_colorjitter | 7 | 0 | [link](https://huggingface.co/SCZZ/LD4WAM_robotwin_wo_colorjitter) |
+| 2026-07-25 | fabono/vla_jepa_101 | 0 | 0 | [link](https://huggingface.co/fabono/vla_jepa_101) |
 | 2026-07-25 | Vladniag/Bormotuha | 0 | 0 | [link](https://huggingface.co/Vladniag/Bormotuha) |
 | 2026-07-25 | chrisluo5311/Policy-Gradient-Pixelcopter-v2 | 0 | 0 | [link](https://huggingface.co/chrisluo5311/Policy-Gradient-Pixelcopter-v2) |
 | 2026-07-25 | chrisluo5311/Policy-Gradient-Pixelcopter | 0 | 0 | [link](https://huggingface.co/chrisluo5311/Policy-Gradient-Pixelcopter) |
 | 2026-07-25 | Autism-Skill-Issue/pi05-lora-test-tube-ur5e-3cam-30fps-policy | 0 | 0 | [link](https://huggingface.co/Autism-Skill-Issue/pi05-lora-test-tube-ur5e-3cam-30fps-policy) |
 | 2026-07-25 | jogarulfop/policy_2026-07-24_shakeitup7_dragonfly_100kHz_nfft_4096 | 0 | 0 | [link](https://huggingface.co/jogarulfop/policy_2026-07-24_shakeitup7_dragonfly_100kHz_nfft_4096) |
 | 2026-07-25 | Rich3452/my_local_policy | 0 | 0 | [link](https://huggingface.co/Rich3452/my_local_policy) |
-| 2026-07-25 | Andy2435/blue-cube-smolvla-policy-v2 | 0 | 0 | [link](https://huggingface.co/Andy2435/blue-cube-smolvla-policy-v2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -96,10 +96,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | ArduPilot/ardupilot | 15550 | C++ | 6220.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11288 | Python | 4515.3 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11182 | Rust | 4472.9 | [link](https://github.com/rerun-io/rerun) |
-| RLinf/RLinf | 4253 | Python | 1701.3 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 4254 | Python | 1701.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3852 | Rust | 1540.9 | [link](https://github.com/dora-rs/dora) |
 | huangjunsen0406/py-xiaozhi | 3423 | Python | 1369.3 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
-| datawhalechina/every-embodied | 2856 | Python | 1142.5 | [link](https://github.com/datawhalechina/every-embodied) |
+| datawhalechina/every-embodied | 2858 | Python | 1143.3 | [link](https://github.com/datawhalechina/every-embodied) |
 | RoboTwin-Platform/RoboTwin | 2629 | Python | 1051.7 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
 
 ## Startup Funding
