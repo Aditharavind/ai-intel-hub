@@ -1,18 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-25 22:41 UTC
+Generated: 2026-07-25 23:47 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-07-23 | Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers | [link](https://arxiv.org/pdf/2607.21594v1) |
+| 2026-07-23 | AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation | [link](https://arxiv.org/pdf/2607.21588v1) |
+| 2026-07-23 | Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation | [link](https://arxiv.org/pdf/2607.21582v1) |
+| 2026-07-23 | Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering | [link](https://arxiv.org/pdf/2607.21571v1) |
+| 2026-07-23 | Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling | [link](https://arxiv.org/pdf/2607.21561v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 82715 | 33086.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63221 | 25288.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63223 | 25289.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44288 | 17715.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30138 | 12055.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16060 | 6424.1 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16061 | 6424.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -35,8 +41,8 @@ _No items collected yet._
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-25 | As AI Models Become Cheaper, Korean Startups Face a Harder Question About Data - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMibkFVX3lxTE9LZ1Y0dUt1THA2SWtYMlByX0RqNWJWZmVQbjFjbXFOQjFMcEVVMm5qODF4dGx2MlZNY0pwU1liaXIySmJhMlBlNmhkWDVDVXJGbjM0eTBrZFM1R2cwLXA3UFBqNi1JTDRvR0NxR3NB?oc=5) |
 | 2026-07-25 | Eric Landau: Why Physical AI Is the Next Platform Shift—and 80% of the Economy Is at Stake - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iRTRxWUp4VGFLeDMyazUxVHlqQ1ZZcDMxa09yUlo1QUZvVDJRZnpuOTY5OWhiaklSMlZRV0hEVzVFY0c2MzZkRURxbTRKaEdiZDV3STR1WlRTbkE?oc=5) |
 | 2026-07-24 | The Week’s 10 Biggest Funding Rounds: Physical AI Startup Atoms Leads In Varied Week For Large Deals - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0JqNzY4MnFUYnpxN3ZZX3lBZ1pENU9MQkVTVWdjb053NEI4aUNueGJ3MndpOTQxWlFJMUZWcVZzSjhVNWNuMlE2VExjTldPQUw5cmtYRFdnTHhmV3laRHYyQmVxM0JpZDZSVXVoXzBrSEpvZVFmTXZIeEE2dXVseVMtTU8zM0plcWMyREdValljeWpBaWJUYw?oc=5) |
 | 2026-07-24 | Earth first, Mars later: Inside AIM’s grand vision for physical AI and autonomous bulldozers - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaU5VVEVQbGRYaS1YMTZFS24yTXc2bjdXZ0xIUktSVjhfd0hJcmNxcmZBRWd6YXRYSGdGVk9BU1BCdW0tdElTVE9Bem5kSFVDakg3RWFmcmtWVzJkc3RNRmlwSHl6YmhBMWY3bDRHc21QZWd5QnZjR1JicU5JRmk0QUk4SmlZS25kODViZ3ltdFNfbVZWa0l2TXR5MEJYTGFlbTc1RFdkaDVLTFRyUXVabE9JLVRMOE9iaEFQbA?oc=5) |
 | 2026-07-24 | SG's Ropedia bags $22m pre-Series A to scale data infra for physical AI - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWJFdlV0VVh2SG5MMFdJUXMyYTVNSS1UZUJzMEFKLW5xUlVzNFdVd0RZZ0FvVGh6TURxc1R6clhHVVF6T1NBal9IdWQ2VGdCT1hWY0p2b3dfS2VwbHlUdmVYRE02VkhNRWpDOVBaVTNLcFdWSndJbjdKaHh5RzFJQnJXTVA?oc=5) |
-| 2026-07-24 | AgiBot Begins Hong Kong IPO Process as China’s Embodied-AI Startups Race to List - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxPcmhiS1lSd1dsbHdQaWFtYTA3b2g4Qm5WMDRkTmJBWHU5Zk15bnQxYlBBZ1JfRy1neUxMZFlmcTJTQ2Nwb1FRN1ZHa3M4UFdGVlpLSDNSdjZMV0ljNV9hSVgxSkZmRDNMYkVTcHFJeElTNTVHTzY2WXdKRS1BOFdVXzN1VUViczlIMl9RQW9GN092ZnU4Z0diVF9Lc2tqRWVZSllPMU5pOTIyOWpGVUp2VlBCb0JtTTd0NXdzbHFhRnJxSVk5THZwelpKOVdOSXM?oc=5) |

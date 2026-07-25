@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-25 22:41 UTC
+Last Updated: 2026-07-25 23:47 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,23 +49,35 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-25 | Taking Tri-Camera True-Color Infrared Videos | Hackaday | [link](https://hackaday.com/2026/07/25/taking-tri-camera-true-color-infrared-videos/) |
 | 2026-07-25 | Team Repair Breaks Things to Teach People How to Fix Them | Hackaday | [link](https://hackaday.com/2026/07/25/team-repair-breaks-things-to-teach-people-how-to-fix-them/) |
 | 2026-07-25 | 3D On The Playdate Handheld | Hackaday | [link](https://hackaday.com/2026/07/25/3d-on-the-playdate-handheld/) |
 | 2026-07-25 | Add Sensors to Everything! | Hackaday | [link](https://hackaday.com/2026/07/25/add-sensors-to-everything/) |
 | 2026-07-25 | Repairing a RED Cinema Camera On The Cheap | Hackaday | [link](https://hackaday.com/2026/07/25/repairing-a-red-cinema-camera-on-the-cheap/) |
 | 2026-07-25 | ICCU Monitor Logs Data in E-GMP EV Failures | Hackaday | [link](https://hackaday.com/2026/07/25/iccu-monitor-logs-data-in-e-gmp-ev-failures/) |
 | 2026-07-25 | 3D Printed Go Kart Designed to Fit in a Suitcase | Hackaday | [link](https://hackaday.com/2026/07/24/3d-printed-go-kart-designed-to-fit-in-a-suitcase/) |
-| 2026-07-25 | Fast Volumetric Imaging of Seizures with Adaptive Optics Light Sheet Microscopy | Hackaday | [link](https://hackaday.com/2026/07/24/fast-volumetric-imaging-of-seizures-with-adaptive-optics-light-sheet-microscopy/) |
 | 2026-07-25 | Beelink ME Pro 2-bay hybrid NAS gets Wildcat Lake treatment, gains 10GbE and Thunderbolt 4, loses a few M.2 slots | CNX Software | [link](https://www.cnx-software.com/2026/07/25/beelink-me-pro-2-bay-hybrid-nas-gets-wildcat-lake-treatment-gains-10gbe-and-thunderbolt-4-loses-a-few-m-2-slots/) |
 | 2026-07-25 | Early Space Weather Warnings with MAGIC | Adafruit | [link](https://blog.adafruit.com/2026/07/25/early-space-weather-warnings-with-magic/) |
 | 2026-07-25 | Voice Recognition and Speech Synthesis on an RPi Pico 2 | Adafruit | [link](https://blog.adafruit.com/2026/07/25/voice-recognition-and-speech-synthesis-on-an-rpi-pico-2/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-07-23 | Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers | [link](https://arxiv.org/pdf/2607.21594v1) |
+| 2026-07-23 | AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation | [link](https://arxiv.org/pdf/2607.21588v1) |
+| 2026-07-23 | Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation | [link](https://arxiv.org/pdf/2607.21582v1) |
+| 2026-07-23 | Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering | [link](https://arxiv.org/pdf/2607.21571v1) |
+| 2026-07-23 | Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling | [link](https://arxiv.org/pdf/2607.21561v1) |
+| 2026-07-23 | GS-Agent: Creating 4D Physical Worlds With Generative Simulation | [link](https://arxiv.org/pdf/2607.21522v1) |
+| 2026-07-23 | Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections | [link](https://arxiv.org/pdf/2607.21488v1) |
+| 2026-07-23 | Future Rendering $\neq$ Future Surface: A Benchmark and Dataset for Dynamic Surface Reconstruction Beyond the Observed Window | [link](https://arxiv.org/pdf/2607.21471v1) |
+| 2026-07-23 | Out-of-Distribution Detection in Wireless Multimodal Foundation Models for 6G ISAC | [link](https://arxiv.org/pdf/2607.21455v1) |
+| 2026-07-23 | GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition | [link](https://arxiv.org/pdf/2607.21416v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-25 | SCZZ/LD4WAM_robotwin_from_scratch_lamf | 0 | 0 | [link](https://huggingface.co/SCZZ/LD4WAM_robotwin_from_scratch_lamf) |
 | 2026-07-25 | YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric | 99 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric) |
 | 2026-07-25 | mario-d-robot/qwen-image-edit-plus-nsfw-lora | 0 | 0 | [link](https://huggingface.co/mario-d-robot/qwen-image-edit-plus-nsfw-lora) |
 | 2026-07-25 | SCZZ/LD4WAM_robotwin_wo_colorjitter | 7 | 0 | [link](https://huggingface.co/SCZZ/LD4WAM_robotwin_wo_colorjitter) |
@@ -75,15 +87,14 @@ _No items collected yet._
 | 2026-07-25 | chrisluo5311/Policy-Gradient-Pixelcopter-v2 | 0 | 0 | [link](https://huggingface.co/chrisluo5311/Policy-Gradient-Pixelcopter-v2) |
 | 2026-07-25 | chrisluo5311/Policy-Gradient-Pixelcopter | 0 | 0 | [link](https://huggingface.co/chrisluo5311/Policy-Gradient-Pixelcopter) |
 | 2026-07-25 | Autism-Skill-Issue/pi05-lora-test-tube-ur5e-3cam-30fps-policy | 0 | 0 | [link](https://huggingface.co/Autism-Skill-Issue/pi05-lora-test-tube-ur5e-3cam-30fps-policy) |
-| 2026-07-25 | jogarulfop/policy_2026-07-24_shakeitup7_dragonfly_100kHz_nfft_4096 | 0 | 0 | [link](https://huggingface.co/jogarulfop/policy_2026-07-24_shakeitup7_dragonfly_100kHz_nfft_4096) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1423 | Rust | 569.3 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63221 | Python | 25288.5 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15551 | C++ | 6220.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14322 | C++ | 5728.9 | [link](https://github.com/google-deepmind/mujoco) |
+| commaai/openpilot | 63223 | Python | 25289.3 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15552 | C++ | 6220.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14324 | C++ | 5729.7 | [link](https://github.com/google-deepmind/mujoco) |
 | DLR-RM/stable-baselines3 | 13608 | Python | 5443.3 | [link](https://github.com/DLR-RM/stable-baselines3) |
 | kornia/kornia | 11288 | Python | 4515.3 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11183 | Rust | 4473.3 | [link](https://github.com/rerun-io/rerun) |
@@ -108,6 +119,7 @@ _No items collected yet._
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-25 | As AI Models Become Cheaper, Korean Startups Face a Harder Question About Data - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMibkFVX3lxTE9LZ1Y0dUt1THA2SWtYMlByX0RqNWJWZmVQbjFjbXFOQjFMcEVVMm5qODF4dGx2MlZNY0pwU1liaXIySmJhMlBlNmhkWDVDVXJGbjM0eTBrZFM1R2cwLXA3UFBqNi1JTDRvR0NxR3NB?oc=5) |
 | 2026-07-25 | Eric Landau: Why Physical AI Is the Next Platform Shift—and 80% of the Economy Is at Stake - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iRTRxWUp4VGFLeDMyazUxVHlqQ1ZZcDMxa09yUlo1QUZvVDJRZnpuOTY5OWhiaklSMlZRV0hEVzVFY0c2MzZkRURxbTRKaEdiZDV3STR1WlRTbkE?oc=5) |
 | 2026-07-24 | The Week’s 10 Biggest Funding Rounds: Physical AI Startup Atoms Leads In Varied Week For Large Deals - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0JqNzY4MnFUYnpxN3ZZX3lBZ1pENU9MQkVTVWdjb053NEI4aUNueGJ3MndpOTQxWlFJMUZWcVZzSjhVNWNuMlE2VExjTldPQUw5cmtYRFdnTHhmV3laRHYyQmVxM0JpZDZSVXVoXzBrSEpvZVFmTXZIeEE2dXVseVMtTU8zM0plcWMyREdValljeWpBaWJUYw?oc=5) |
 | 2026-07-24 | Earth first, Mars later: Inside AIM’s grand vision for physical AI and autonomous bulldozers - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaU5VVEVQbGRYaS1YMTZFS24yTXc2bjdXZ0xIUktSVjhfd0hJcmNxcmZBRWd6YXRYSGdGVk9BU1BCdW0tdElTVE9Bem5kSFVDakg3RWFmcmtWVzJkc3RNRmlwSHl6YmhBMWY3bDRHc21QZWd5QnZjR1JicU5JRmk0QUk4SmlZS25kODViZ3ltdFNfbVZWa0l2TXR5MEJYTGFlbTc1RFdkaDVLTFRyUXVabE9JLVRMOE9iaEFQbA?oc=5) |
@@ -117,7 +129,6 @@ _No items collected yet._
 | 2026-07-24 | This UK Startup Just Became Europe's First Humanoid Robot Unicorn — Worth $1.35 Billion In 2 Years - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZTUzVzdVemZTYjFNRDBjVENoeEJySExQTnRmdi1JQmpyMXRESUh6bmJSUEFFTEpBcDA3eEoyTEljUFNBa0kzeDFUUEJISE5HTGJCRkFaaVBod3oxZnN1aWlSVzNPY21qZkx2N2lYbVF6aG1fbVB3bG5Vb1djTFZidzRCZ2ZkR29MSzFiaHoxVHVKTnpJZEctaFhpSG5CdHNGdGw3ZkwzMzk4amxwSHhUYzl5SGRydXhwWDdkZTFSTjJacGR4a3ZWUEljc1NMTDRMcUE?oc=5) |
 | 2026-07-24 | UK Humanoid Startup Raises $152M as Bosch and Schaeffler Back Wheels Over Legs - Tech Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVAyRl9LYUZoS2xzd3RIeWtEUEFYSldKT21pUVdxT1lkenRjeDZHNVpSTjVoV3ZUdHZQYUR5b29fUkZfZURnLTE4RnRPMWVpelI2MHVGX2lmR0lMZ1RZMlZ0WS1KZUpZOHJMYlA3UjV0MlB3cVFib0pZbFhwTTRDMFkwX0JxeTBJY2lTX0dqY3hJcEFBOG5lRlJOOEJCdFgwNlZPb2Q4QnhZcnh2QWY5WGtPREg3cFRabjNWZFVSVHBKcUk?oc=5) |
 | 2026-07-23 | Black Forest Labs Unveils First Model for Robotics in Shift to Physical AI - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaU9uQ1E3bS01Y3VwZE93clV2Z1BXUk05UGhHQkZMZUYtVTVvMTVtSkd6eTdVX194R2ItbURLVTZOUlNvdmxZMndUbU9vR0ViREFUYWI5cWNrQUxoRzh6V1B2YS1pcEszaGR3NlBEdVJLTldIdS04b0EzdTgwbGhKZTJDNmw4SkJwVHUyWkZXRWhnQkZJWHJLUjdPbHg4T3ZRYmdwa0hycE1FemxXUGJ3c2FFbnhTaElLQnRiSnZwajdVN28?oc=5) |
-| 2026-07-23 | Travis Kalanick’s Physical AI Startup Atoms Raises $1.7B in Funding, Led by a16z - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2FsVkRhSWdFX05IMm9DTmo5WXBqZDl1c08wRVBpWld3d0gySDV5NGJZRWt6dnhybjR5Q3Iwa2ZXSVA0U0o3U0hMMUFqQ2tDQWRtNWNmX0RaU09PN1BHTk1oZzVrQXF4cE1XUFQ0V1dhRndnVU95aXZGZmZzdENXYW1fUXdWLWVablJUUDBNV3V2TXhfdUc4OV9HZlJxd1dLOHlWbzRibHF0Q3BpVmRkYzRsV0duZw?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
