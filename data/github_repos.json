@@ -20,6 +20,16 @@
     "score": 25290.9
   },
   {
+    "repo": "rerun-io/rerun",
+    "stars": 11186,
+    "language": "Rust",
+    "description": "Visualize, query, and stream to train on multimodal robotics data.",
+    "url": "https://github.com/rerun-io/rerun",
+    "date": "2026-07-26",
+    "topic": "robotics",
+    "score": 4474.5
+  },
+  {
     "repo": "dora-rs/dora",
     "stars": 3852,
     "language": "Rust",
@@ -48,6 +58,16 @@
     "date": "2026-07-26",
     "topic": "embodied-ai",
     "score": 638.1
+  },
+  {
+    "repo": "flashrt-project/FlashRT",
+    "stars": 452,
+    "language": "C++",
+    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
+    "url": "https://github.com/flashrt-project/FlashRT",
+    "date": "2026-07-26",
+    "topic": "vla",
+    "score": 180.9
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -101,13 +121,23 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7769,
+    "stars": 7768,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-07-26",
     "topic": "robot-learning",
-    "score": 3107.7
+    "score": 3107.3
+  },
+  {
+    "repo": "DexForce/EmbodiChain",
+    "stars": 200,
+    "language": "Python",
+    "description": "An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence.",
+    "url": "https://github.com/DexForce/EmbodiChain",
+    "date": "2026-07-26",
+    "topic": "robot-learning",
+    "score": 80.1
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -150,24 +180,14 @@
     "score": 4516.1
   },
   {
-    "repo": "rerun-io/rerun",
-    "stars": 11186,
-    "language": "Rust",
-    "description": "Visualize, query, and stream to train on multimodal robotics data.",
-    "url": "https://github.com/rerun-io/rerun",
-    "date": "2026-07-25",
-    "topic": "robotics",
-    "score": 4474.5
-  },
-  {
     "repo": "RLinf/RLinf",
-    "stars": 4258,
+    "stars": 4259,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-07-25",
     "topic": "embodied-ai",
-    "score": 1703.3
+    "score": 1703.7
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",
@@ -200,20 +220,10 @@
     "score": 1052.1
   },
   {
-    "repo": "flashrt-project/FlashRT",
-    "stars": 452,
-    "language": "C++",
-    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
-    "url": "https://github.com/flashrt-project/FlashRT",
-    "date": "2026-07-25",
-    "topic": "vla",
-    "score": 180.9
-  },
-  {
     "repo": "baidu-baige/LoongForge",
     "stars": 317,
     "language": "Python",
-    "description": "A modular, scalable, high-performance training framework for LLMs, VLMs, diffusion, and embodied models.",
+    "description": "A unified, high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.",
     "url": "https://github.com/baidu-baige/LoongForge",
     "date": "2026-07-25",
     "topic": "vla",
@@ -248,16 +258,6 @@
     "date": "2026-07-25",
     "topic": "robot-learning",
     "score": 251.7
-  },
-  {
-    "repo": "DexForce/EmbodiChain",
-    "stars": 200,
-    "language": "Python",
-    "description": "An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence.",
-    "url": "https://github.com/DexForce/EmbodiChain",
-    "date": "2026-07-25",
-    "topic": "robot-learning",
-    "score": 80.1
   },
   {
     "repo": "johnsutor/so101-nexus",
@@ -321,13 +321,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS",
-    "stars": 1083,
+    "stars": 1084,
     "language": "Python",
     "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS",
     "date": "2026-07-24",
     "topic": "embodied-ai",
-    "score": 433.3
+    "score": 433.7
   },
   {
     "repo": "galilai-group/stable-worldmodel",
@@ -371,13 +371,13 @@
   },
   {
     "repo": "nasa-jpl/open-source-rover",
-    "stars": 9539,
+    "stars": 9540,
     "language": "Prolog",
     "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
     "url": "https://github.com/nasa-jpl/open-source-rover",
     "date": "2026-07-23",
     "topic": "robotics",
-    "score": 3815.7
+    "score": 3816.1
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -671,13 +671,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 10416,
+    "stars": 10422,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 4166.5
+    "score": 4168.9
   },
   {
     "repo": "ARISE-Initiative/robosuite",
