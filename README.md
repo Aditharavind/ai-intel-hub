@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-26 18:48 UTC
+Last Updated: 2026-07-26 20:02 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-26 | Filling High Pressure CO2 Tanks From Sugar Fermentation Gas | Hackaday | [link](https://hackaday.com/2026/07/26/filling-high-pressure-co2-tanks-from-sugar-fermentation-gas/) |
 | 2026-07-26 | Ever Seen Claude Use Fusion 360? | Hackaday | [link](https://hackaday.com/2026/07/26/ever-seen-claude-use-fusion-360/) |
 | 2026-07-26 | Repairing a “for parts” Canon 7D Mark II DSLR | Hackaday | [link](https://hackaday.com/2026/07/26/repairing-a-for-parts-canon-7d-mark-ii-dslr/) |
 | 2026-07-26 | Duplicating Parts Using Silicone Molds | Hackaday | [link](https://hackaday.com/2026/07/26/duplicating-parts-using-silicone-molds/) |
@@ -56,9 +57,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-26 | How Film Industry Data Website The-Numbers.com got Mauled by Bots | Hackaday | [link](https://hackaday.com/2026/07/25/how-film-industry-data-website-the-numbers-com-got-mauled-by-bots/) |
 | 2026-07-26 | Building A Fencing Scoring Box | Hackaday | [link](https://hackaday.com/2026/07/25/building-a-fencing-scoring-box/) |
 | 2026-07-26 | Creality Pika review – An affordable, portable 3D scanner with infrared and blue laser modes | CNX Software | [link](https://www.cnx-software.com/2026/07/26/creality-pika-review-an-affordable-portable-3d-scanner-with-infrared-and-blue-laser-modes/) |
+| 2026-07-26 | Adafruit Weekly Editorial Round-Up: Pool Noodle Mace, GameBoy cart hacking & Demofruit: Demoscene for Fruit Jam | Adafruit | [link](https://blog.adafruit.com/2026/07/26/adafruit-weekly-editorial-round-up-pool-noodle-mace-gameboy-cart-hacking-demofruit-demoscene-for-fruit-jam/) |
 | 2026-07-26 | A computer mouse controlled entirely by your tongue | Adafruit | [link](https://blog.adafruit.com/2026/07/26/a-computer-mouse-controlled-entirely-by-your-tongue/) |
-| 2026-07-26 | Writing the English Alphabet in Cat Font | Adafruit | [link](https://blog.adafruit.com/2026/07/26/writing-the-english-alphabet-in-cat-font/) |
-| 2026-07-25 | Taking Tri-Camera True-Color Infrared Videos | Hackaday | [link](https://hackaday.com/2026/07/25/taking-tri-camera-true-color-infrared-videos/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -119,8 +119,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-07-26 | Mitsubishi Motors teams up with startup to mass produce humanoid robots - 毎日新聞 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMic0FVX3lxTE1CNlRWVlRneEFjZnc5bVZwNjExVG8xd3IyRnJYUEw3azZnM1d5TEt1YXJaOTA2WGpuLWhqcVliYld1RFZmb19BOFpPVUFRME1UZW9RM1oyZjJHcTFONkRMSFdFeF9waUQyQWxzLTR5SU1iajQ?oc=5) |
+| 2026-07-26 | M'bishi Motors teams up with startup to mass produce humanoid robots - Japan Today | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmVERkRvQi1LamNQQkJ5ZE1KNWpURVI4b2Z5aHFtQzRMbU5kZEI3QXp0M1NhSFJYZzlRRWxIV3ZicGVmeDJ3a3NyNkhtaGtxOWItWnRVeFJrRVZLSk5ZU0l2Y3FxaU9JX2lpQkF3LUp5QmtzeTBXQnpmeEd0WVN0cnpLU1ZVM25lWjFXRC1mVHJDSlB3MWZrb3FMbmg5NlFQcFF5OERjbHdYbnNj?oc=5) |
 | 2026-07-25 | As AI Models Become Cheaper, Korean Startups Face a Harder Question About Data - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMibkFVX3lxTE9LZ1Y0dUt1THA2SWtYMlByX0RqNWJWZmVQbjFjbXFOQjFMcEVVMm5qODF4dGx2MlZNY0pwU1liaXIySmJhMlBlNmhkWDVDVXJGbjM0eTBrZFM1R2cwLXA3UFBqNi1JTDRvR0NxR3NB?oc=5) |
+| 2026-07-25 | Humanoid startup Agility Robotics doesn't want 'coin-operated employees' - AOL.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFJGdVducEtSNUVtN2ZoSzJnQ00td1JFbmN1ak9UQ05GSlVrcC16YjFPWWp2dHY0bnhvdFlzRGtHbjkyeURRdHFpZFBpZ2p0eFc0ZWE0eDhtT2FJMzZrNHpGZ2pzMVNjYTAtOU1sYWFnT2VxVDRHc3psdmk3dW5SUTVnXzJGRmFlVGtMZA?oc=5) |
 | 2026-07-24 | The Week’s 10 Biggest Funding Rounds: Physical AI Startup Atoms Leads In Varied Week For Large Deals - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0JqNzY4MnFUYnpxN3ZZX3lBZ1pENU9MQkVTVWdjb053NEI4aUNueGJ3MndpOTQxWlFJMUZWcVZzSjhVNWNuMlE2VExjTldPQUw5cmtYRFdnTHhmV3laRHYyQmVxM0JpZDZSVXVoXzBrSEpvZVFmTXZIeEE2dXVseVMtTU8zM0plcWMyREdValljeWpBaWJUYw?oc=5) |
 | 2026-07-24 | Earth first, Mars later: Inside AIM’s grand vision for physical AI and autonomous bulldozers - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaU5VVEVQbGRYaS1YMTZFS24yTXc2bjdXZ0xIUktSVjhfd0hJcmNxcmZBRWd6YXRYSGdGVk9BU1BCdW0tdElTVE9Bem5kSFVDakg3RWFmcmtWVzJkc3RNRmlwSHl6YmhBMWY3bDRHc21QZWd5QnZjR1JicU5JRmk0QUk4SmlZS25kODViZ3ltdFNfbVZWa0l2TXR5MEJYTGFlbTc1RFdkaDVLTFRyUXVabE9JLVRMOE9iaEFQbA?oc=5) |
 | 2026-07-24 | SG's Ropedia bags $22m pre-Series A to scale data infra for physical AI - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWJFdlV0VVh2SG5MMFdJUXMyYTVNSS1UZUJzMEFKLW5xUlVzNFdVd0RZZ0FvVGh6TURxc1R6clhHVVF6T1NBal9IdWQ2VGdCT1hWY0p2b3dfS2VwbHlUdmVYRE02VkhNRWpDOVBaVTNLcFdWSndJbjdKaHh5RzFJQnJXTVA?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-24 | Top 10 humanoid robot startups to watch in 2026, ranked by total funding — TFN - Tech Funding News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTFAtdW1xMTdiZk5Va0tDQUwweGZQMHZUUi1Vc0M4NnctdV82MkdUZzFfN1M4ZzlEVzFjRU1ZTjZvUmdpRnFjc19wVHpIcDlTNG0wN2gxLV9xOHpLMXZiNWpuaE91U21IX0NmU3pNQmdXeGlkSlRnRmJ0bw?oc=5) |
 | 2026-07-24 | This Silicon Valley city is quietly becoming Robot Row. Here's who's clanking around. - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVFaWkFSVVdXX0x2ZWlzbzljMDFQTDlOUmJjeFdUeUlHakZwdXVQUm5RMDdBelBESXZSSjc3c1lKOWtidjFOVlU0WUQ5ZDFWTjJua0NURzNTSkhhZGt1enB4ZDZvbTJrRnlLV28wYklJRS04c2lsSWlmdG9OVDA5NXVEczFGQXQ4dEJDZTNpck84Wk9sMUhINHJvRzNhUWliOXVIbUlkNk54WTA?oc=5) |
 | 2026-07-24 | UK Humanoid Startup Raises $152M as Bosch and Schaeffler Back Wheels Over Legs - Tech Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVAyRl9LYUZoS2xzd3RIeWtEUEFYSldKT21pUVdxT1lkenRjeDZHNVpSTjVoV3ZUdHZQYUR5b29fUkZfZURnLTE4RnRPMWVpelI2MHVGX2lmR0lMZ1RZMlZ0WS1KZUpZOHJMYlA3UjV0MlB3cVFib0pZbFhwTTRDMFkwX0JxeTBJY2lTX0dqY3hJcEFBOG5lRlJOOEJCdFgwNlZPb2Q4QnhZcnh2QWY5WGtPREg3cFRabjNWZFVSVHBKcUk?oc=5) |
-| 2026-07-23 | Black Forest Labs Unveils First Model for Robotics in Shift to Physical AI - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaU9uQ1E3bS01Y3VwZE93clV2Z1BXUk05UGhHQkZMZUYtVTVvMTVtSkd6eTdVX194R2ItbURLVTZOUlNvdmxZMndUbU9vR0ViREFUYWI5cWNrQUxoRzh6V1B2YS1pcEszaGR3NlBEdVJLTldIdS04b0EzdTgwbGhKZTJDNmw4SkJwVHUyWkZXRWhnQkZJWHJLUjdPbHg4T3ZRYmdwa0hycE1FemxXUGJ3c2FFbnhTaElLQnRiSnZwajdVN28?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
