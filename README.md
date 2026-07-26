@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-26 05:16 UTC
+Last Updated: 2026-07-26 08:00 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,16 +77,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-26 | Dexmal/DW05-Robotwin | 0 | 4 | [link](https://huggingface.co/Dexmal/DW05-Robotwin) |
+| 2026-07-26 | Pranav070904/VLA-Maze-Solver | 0 | 0 | [link](https://huggingface.co/Pranav070904/VLA-Maze-Solver) |
+| 2026-07-26 | mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k8-tbptt | 0 | 0 | [link](https://huggingface.co/mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k8-tbptt) |
+| 2026-07-26 | mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k2-tbptt | 0 | 0 | [link](https://huggingface.co/mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k2-tbptt) |
+| 2026-07-26 | mu-vla/mu-vla-openvla-oft-libero-4-tasks-m64-k8-tbptt | 0 | 0 | [link](https://huggingface.co/mu-vla/mu-vla-openvla-oft-libero-4-tasks-m64-k8-tbptt) |
 | 2026-07-26 | LingArm/lingarm-vla-1.0-preview | 0 | 0 | [link](https://huggingface.co/LingArm/lingarm-vla-1.0-preview) |
+| 2026-07-26 | ernestknurov/act_so101_pick_and_place_policy | 0 | 0 | [link](https://huggingface.co/ernestknurov/act_so101_pick_and_place_policy) |
 | 2026-07-26 | pdhinaka/act_pick_blue_cube_gray_box_policy | 0 | 0 | [link](https://huggingface.co/pdhinaka/act_pick_blue_cube_gray_box_policy) |
 | 2026-07-26 | hiskiv/cosmos-policy-lam | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam) |
 | 2026-07-26 | Bekhzod/TASK_01_02_multitask_pi05_policy | 0 | 0 | [link](https://huggingface.co/Bekhzod/TASK_01_02_multitask_pi05_policy) |
-| 2026-07-25 | SCZZ/LD4WAM_robotwin_from_scratch_lamf | 0 | 0 | [link](https://huggingface.co/SCZZ/LD4WAM_robotwin_from_scratch_lamf) |
-| 2026-07-25 | YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric | 99 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric) |
-| 2026-07-25 | mario-d-robot/qwen-image-edit-plus-nsfw-lora | 0 | 1 | [link](https://huggingface.co/mario-d-robot/qwen-image-edit-plus-nsfw-lora) |
-| 2026-07-25 | SCZZ/LD4WAM_robotwin_wo_colorjitter | 7 | 0 | [link](https://huggingface.co/SCZZ/LD4WAM_robotwin_wo_colorjitter) |
-| 2026-07-25 | fabono/vla_jepa_101 | 0 | 0 | [link](https://huggingface.co/fabono/vla_jepa_101) |
-| 2026-07-25 | Vladniag/Bormotuha | 0 | 1 | [link](https://huggingface.co/Vladniag/Bormotuha) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,13 +94,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1423 | Rust | 569.3 | [link](https://github.com/copper-project/copper-rs) |
 | commaai/openpilot | 63227 | Python | 25290.9 | [link](https://github.com/commaai/openpilot) |
 | dora-rs/dora | 3852 | Rust | 1540.9 | [link](https://github.com/dora-rs/dora) |
-| leofan90/Awesome-World-Models | 1914 | Python | 765.7 | [link](https://github.com/leofan90/Awesome-World-Models) |
+| leofan90/Awesome-World-Models | 1915 | Python | 766.1 | [link](https://github.com/leofan90/Awesome-World-Models) |
+| StanfordVL/BEHAVIOR-1K | 1595 | Python | 638.1 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | sou350121/VLA-Handbook | 436 | HTML | 174.5 | [link](https://github.com/sou350121/VLA-Handbook) |
 | luohongk/Embodied-AI-Daily | 390 | HTML | 156.1 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| vllm-project/vllm-omni | 5686 | Python | 2274.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 5689 | Python | 2275.7 | [link](https://github.com/vllm-project/vllm-omni) |
 | LMD0311/Awesome-World-Model | 2167 |  | 866.9 | [link](https://github.com/LMD0311/Awesome-World-Model) |
 | OpenHUTB/hutb | 545 | C++ | 218.1 | [link](https://github.com/OpenHUTB/hutb) |
-| isaac-sim/IsaacLab | 7767 | Python | 3106.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -133,8 +133,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-24 | AI Data Operations Manager | Figure AI | United Arab Emirates | [link](https://job-boards.greenhouse.io/figureai/jobs/4698164006) |
 | 2026-07-24 | AI Data Operations Manager | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
+| 2026-07-24 | AI Data Operations Manager | Figure AI | United Arab Emirates | [link](https://job-boards.greenhouse.io/figureai/jobs/4698164006) |
 | 2026-07-24 | AI Training Infrastructure Engineer – Humanoid Whole Body Control | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4674754006) |
 | 2026-07-24 | Apprentice Robot Service Technician | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4698535006) |
 | 2026-07-24 | Associate General Counsel, Hardware and Data | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4661633006) |

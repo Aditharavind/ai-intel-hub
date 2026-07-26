@@ -1,11 +1,65 @@
 [
   {
+    "model": "Dexmal/DW05-Robotwin",
+    "downloads": 0,
+    "likes": 4,
+    "url": "https://huggingface.co/Dexmal/DW05-Robotwin",
+    "date": "2026-07-26",
+    "keyword": "robot",
+    "score": 0.9
+  },
+  {
+    "model": "Pranav070904/VLA-Maze-Solver",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Pranav070904/VLA-Maze-Solver",
+    "date": "2026-07-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k8-tbptt",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k8-tbptt",
+    "date": "2026-07-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k2-tbptt",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k2-tbptt",
+    "date": "2026-07-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mu-vla/mu-vla-openvla-oft-libero-4-tasks-m64-k8-tbptt",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mu-vla/mu-vla-openvla-oft-libero-4-tasks-m64-k8-tbptt",
+    "date": "2026-07-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "LingArm/lingarm-vla-1.0-preview",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/LingArm/lingarm-vla-1.0-preview",
     "date": "2026-07-26",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "ernestknurov/act_so101_pick_and_place_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ernestknurov/act_so101_pick_and_place_policy",
+    "date": "2026-07-26",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -162,15 +216,6 @@
     "score": 0.1
   },
   {
-    "model": "chrisluo5311/Policy-Gradient-CartPole-v1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/chrisluo5311/Policy-Gradient-CartPole-v1",
-    "date": "2026-07-25",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "mario-d-robot/Qwen-Image-Edit-LoRA-Collection",
     "downloads": 21,
     "likes": 0,
@@ -234,55 +279,10 @@
     "score": 0.3
   },
   {
-    "model": "KiyotakaWang/lerobot-pi0.5-robotwin2.0",
-    "downloads": 15,
-    "likes": 1,
-    "url": "https://huggingface.co/KiyotakaWang/lerobot-pi0.5-robotwin2.0",
-    "date": "2026-07-24",
-    "keyword": "robot",
-    "score": 4.8
-  },
-  {
     "model": "VladimirM388/larpscaler-v2-fp32",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/VladimirM388/larpscaler-v2-fp32",
-    "date": "2026-07-24",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "VladimirM388/larpscaler-v2-bf16",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/VladimirM388/larpscaler-v2-bf16",
-    "date": "2026-07-24",
-    "keyword": "vla",
-    "score": 0.3
-  },
-  {
-    "model": "ISdept/wiltechs-vla-moe-50k",
-    "downloads": 18,
-    "likes": 0,
-    "url": "https://huggingface.co/ISdept/wiltechs-vla-moe-50k",
-    "date": "2026-07-24",
-    "keyword": "vla",
-    "score": 5.5
-  },
-  {
-    "model": "wmkdfmk/robotics-vla-task-23-competitive-v6-reactive",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v6-reactive",
-    "date": "2026-07-24",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "tron-robot/yam-vla-handoff",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tron-robot/yam-vla-handoff",
     "date": "2026-07-24",
     "keyword": "vla",
     "score": 0.1
@@ -295,6 +295,15 @@
     "date": "2026-07-24",
     "keyword": "physical ai",
     "score": 6.4
+  },
+  {
+    "model": "wmkdfmk/robotics-vla-task-23-competitive-v6-reactive",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v6-reactive",
+    "date": "2026-07-24",
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "physicalai-bmi/efa-1",
