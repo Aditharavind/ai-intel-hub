@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-26 17:49 UTC
+Last Updated: 2026-07-26 18:48 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -91,8 +91,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| copper-project/copper-rs | 1423 | Rust | 569.3 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63227 | Python | 25290.9 | [link](https://github.com/commaai/openpilot) |
+| copper-project/copper-rs | 1424 | Rust | 569.7 | [link](https://github.com/copper-project/copper-rs) |
+| commaai/openpilot | 63228 | Python | 25291.3 | [link](https://github.com/commaai/openpilot) |
 | rerun-io/rerun | 11189 | Rust | 4475.7 | [link](https://github.com/rerun-io/rerun) |
 | dora-rs/dora | 3852 | Rust | 1540.9 | [link](https://github.com/dora-rs/dora) |
 | huangjunsen0406/py-xiaozhi | 3423 | Python | 1369.3 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
