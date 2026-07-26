@@ -5,39 +5,59 @@
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "topic": "physical-ai",
     "score": 569.3
   },
   {
+    "repo": "vllm-project/vllm-omni",
+    "stars": 5686,
+    "language": "Python",
+    "description": "A framework for efficient model inference with omni-modality models",
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "date": "2026-07-26",
+    "topic": "world-model",
+    "score": 2274.5
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7764,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-07-26",
+    "topic": "robot-learning",
+    "score": 3105.7
+  },
+  {
     "repo": "commaai/openpilot",
-    "stars": 63223,
+    "stars": 63225,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-07-25",
     "topic": "robotics",
-    "score": 25289.3
+    "score": 25290.1
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15552,
+    "stars": 15553,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-07-25",
     "topic": "robotics",
-    "score": 6220.9
+    "score": 6221.3
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14324,
+    "stars": 14325,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-07-25",
     "topic": "robotics",
-    "score": 5729.7
+    "score": 5730.1
   },
   {
     "repo": "DLR-RM/stable-baselines3",
@@ -101,13 +121,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2858,
+    "stars": 2859,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-07-25",
     "topic": "embodied-ai",
-    "score": 1143.3
+    "score": 1143.7
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
@@ -170,16 +190,6 @@
     "score": 126.9
   },
   {
-    "repo": "vllm-project/vllm-omni",
-    "stars": 5686,
-    "language": "Python",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "url": "https://github.com/vllm-project/vllm-omni",
-    "date": "2026-07-25",
-    "topic": "world-model",
-    "score": 2274.5
-  },
-  {
     "repo": "OpenHUTB/hutb",
     "stars": 545,
     "language": "C++",
@@ -198,16 +208,6 @@
     "date": "2026-07-25",
     "topic": "humanoid",
     "score": 157.3
-  },
-  {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7762,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-07-25",
-    "topic": "robot-learning",
-    "score": 3104.9
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",
@@ -281,23 +281,23 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16061,
+    "stars": 16062,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-07-24",
     "topic": "robotics",
-    "score": 6424.5
+    "score": 6424.9
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3223,
+    "stars": 3222,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-07-24",
     "topic": "embodied-ai",
-    "score": 1289.3
+    "score": 1288.9
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -311,13 +311,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS",
-    "stars": 1072,
+    "stars": 1073,
     "language": "Python",
     "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS",
     "date": "2026-07-24",
     "topic": "embodied-ai",
-    "score": 428.9
+    "score": 429.3
   },
   {
     "repo": "galilai-group/stable-worldmodel",
@@ -541,13 +541,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30138,
+    "stars": 30139,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-07-20",
     "topic": "robotics",
-    "score": 12055.3
+    "score": 12055.7
   },
   {
     "repo": "nv-tlabs/lyra",
@@ -588,6 +588,16 @@
     "date": "2026-07-18",
     "topic": "lerobot",
     "score": 26.5
+  },
+  {
+    "repo": "amazon-far/abc",
+    "stars": 276,
+    "language": "Python",
+    "description": "ABC: Scalable Behavior Cloning with Open Data, Training, and Evaluation",
+    "url": "https://github.com/amazon-far/abc",
+    "date": "2026-07-17",
+    "topic": "vla",
+    "score": 110.5
   },
   {
     "repo": "worldbench/awesome-3d-4d-world-models",
@@ -661,13 +671,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 10381,
+    "stars": 10385,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 4152.5
+    "score": 4154.1
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -868,15 +878,5 @@
     "date": "2026-06-26",
     "topic": "lerobot",
     "score": 55.7
-  },
-  {
-    "repo": "dexmal/dexbotic",
-    "stars": 1261,
-    "language": "Python",
-    "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
-    "url": "https://github.com/dexmal/dexbotic",
-    "date": "2026-06-25",
-    "topic": "vla",
-    "score": 504.5
   }
 ]
