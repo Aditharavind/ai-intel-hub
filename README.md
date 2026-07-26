@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-26 11:17 UTC
+Last Updated: 2026-07-26 12:49 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-26 | Magmotor makes motors for a changing world for 150+ years | The Robot Report | [link](https://www.therobotreport.com/magmotor-makes-motors-changing-world-150-years/) |
 | 2026-07-25 | Photos: First look at J&J’s Ottava surgical robot | Robotics Business Review | [link](https://www.therobotreport.com/photos-first-look-at-jjs-ottava-surgical-robot/) |
 | 2026-07-24 | NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI | Robotics Business Review | [link](https://www.therobotreport.com/neura-robotics-establishes-neura-gym-rwth-aachen-train-physical-ai/) |
 | 2026-07-24 | Video Friday: An Italian Humanoid Comes to Life | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-physical-ai-robotics) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-23 | Ropedia raises $22M to scale data collection for training robots | Robotics Business Review | [link](https://www.therobotreport.com/ropedia-raises-22m-scale-data-collection-training-robots/) |
 | 2026-07-23 | Uber co-founder raises $1.7B for new robotics startup ATOMS | Robotics Business Review | [link](https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms/) |
 | 2026-07-23 | Holiday Robotics raises $105M for its FRIDAY wheeled humanoid | Robotics Business Review | [link](https://www.therobotreport.com/holiday-robotics-raises-105m-wheeled-humanoid-friday/) |
-| 2026-07-22 | NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -78,6 +78,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-26 | Dexmal/DW05-Robotwin | 0 | 4 | [link](https://huggingface.co/Dexmal/DW05-Robotwin) |
+| 2026-07-26 | VladimirRH/ruRoberta-large-medical-router | 0 | 0 | [link](https://huggingface.co/VladimirRH/ruRoberta-large-medical-router) |
+| 2026-07-26 | vlalabszoe/chatx | 0 | 0 | [link](https://huggingface.co/vlalabszoe/chatx) |
 | 2026-07-26 | mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k2-tbptt | 0 | 0 | [link](https://huggingface.co/mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k2-tbptt) |
 | 2026-07-26 | mu-vla/mu-vla-openvla-oft-libero-4-tasks-m64-k8-tbptt | 0 | 0 | [link](https://huggingface.co/mu-vla/mu-vla-openvla-oft-libero-4-tasks-m64-k8-tbptt) |
 | 2026-07-26 | Pranav070904/VLA-Maze-Solver | 0 | 0 | [link](https://huggingface.co/Pranav070904/VLA-Maze-Solver) |
@@ -85,22 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-26 | LingArm/lingarm-vla-1.0-preview | 2 | 0 | [link](https://huggingface.co/LingArm/lingarm-vla-1.0-preview) |
 | 2026-07-26 | ChristianZ97/satp-policy-v2 | 0 | 0 | [link](https://huggingface.co/ChristianZ97/satp-policy-v2) |
 | 2026-07-26 | ernestknurov/act_so101_pick_and_place_policy | 0 | 0 | [link](https://huggingface.co/ernestknurov/act_so101_pick_and_place_policy) |
-| 2026-07-26 | pdhinaka/act_pick_blue_cube_gray_box_policy | 21 | 0 | [link](https://huggingface.co/pdhinaka/act_pick_blue_cube_gray_box_policy) |
-| 2026-07-26 | hiskiv/cosmos-policy-lam | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1423 | Rust | 569.3 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63227 | Python | 25290.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63226 | Python | 25290.5 | [link](https://github.com/commaai/openpilot) |
 | rerun-io/rerun | 11186 | Rust | 4474.5 | [link](https://github.com/rerun-io/rerun) |
 | dora-rs/dora | 3852 | Rust | 1540.9 | [link](https://github.com/dora-rs/dora) |
+| huangjunsen0406/py-xiaozhi | 3423 | Python | 1369.3 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
 | leofan90/Awesome-World-Models | 1915 | Python | 766.1 | [link](https://github.com/leofan90/Awesome-World-Models) |
 | StanfordVL/BEHAVIOR-1K | 1595 | Python | 638.1 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | flashrt-project/FlashRT | 452 | C++ | 180.9 | [link](https://github.com/flashrt-project/FlashRT) |
 | sou350121/VLA-Handbook | 436 | HTML | 174.5 | [link](https://github.com/sou350121/VLA-Handbook) |
 | luohongk/Embodied-AI-Daily | 390 | HTML | 156.1 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| vllm-project/vllm-omni | 5690 | Python | 2276.1 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
