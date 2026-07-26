@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-26 12:49 UTC
+Last Updated: 2026-07-26 14:20 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,7 +35,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
-| 2026-07-26 | Magmotor makes motors for a changing world for 150+ years | The Robot Report | [link](https://www.therobotreport.com/magmotor-makes-motors-changing-world-150-years/) |
+| 2026-07-26 | Magmotor makes motors for a changing world for 150+ years | Robotics Business Review | [link](https://www.therobotreport.com/magmotor-makes-motors-changing-world-150-years/) |
+| 2026-07-26 | Optical Tech Would Update a Robot’s AI on the Fly | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/ai-in-robotics) |
 | 2026-07-25 | Photos: First look at J&J’s Ottava surgical robot | Robotics Business Review | [link](https://www.therobotreport.com/photos-first-look-at-jjs-ottava-surgical-robot/) |
 | 2026-07-24 | NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI | Robotics Business Review | [link](https://www.therobotreport.com/neura-robotics-establishes-neura-gym-rwth-aachen-train-physical-ai/) |
 | 2026-07-24 | Video Friday: An Italian Humanoid Comes to Life | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-physical-ai-robotics) |
@@ -44,21 +45,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-23 | AMD unveils Kria module for real-time control, unified memory for robots | Robotics Business Review | [link](https://www.therobotreport.com/amd-unveils-kria-module-real-time-control-unified-memory-robots/) |
 | 2026-07-23 | Ropedia raises $22M to scale data collection for training robots | Robotics Business Review | [link](https://www.therobotreport.com/ropedia-raises-22m-scale-data-collection-training-robots/) |
 | 2026-07-23 | Uber co-founder raises $1.7B for new robotics startup ATOMS | Robotics Business Review | [link](https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms/) |
-| 2026-07-23 | Holiday Robotics raises $105M for its FRIDAY wheeled humanoid | Robotics Business Review | [link](https://www.therobotreport.com/holiday-robotics-raises-105m-wheeled-humanoid-friday/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-26 | Repairing a “for parts” Canon 7D Mark II DSLR | Hackaday | [link](https://hackaday.com/2026/07/26/repairing-a-for-parts-canon-7d-mark-ii-dslr/) |
 | 2026-07-26 | Duplicating Parts Using Silicone Molds | Hackaday | [link](https://hackaday.com/2026/07/26/duplicating-parts-using-silicone-molds/) |
 | 2026-07-26 | Delta Pen Plotter Draws In Multiple Colors | Hackaday | [link](https://hackaday.com/2026/07/26/delta-pen-plotter-draws-in-multiple-colors/) |
 | 2026-07-26 | How Film Industry Data Website The-Numbers.com got Mauled by Bots | Hackaday | [link](https://hackaday.com/2026/07/25/how-film-industry-data-website-the-numbers-com-got-mauled-by-bots/) |
 | 2026-07-26 | Building A Fencing Scoring Box | Hackaday | [link](https://hackaday.com/2026/07/25/building-a-fencing-scoring-box/) |
 | 2026-07-26 | Creality Pika review – An affordable, portable 3D scanner with infrared and blue laser modes | CNX Software | [link](https://www.cnx-software.com/2026/07/26/creality-pika-review-an-affordable-portable-3d-scanner-with-infrared-and-blue-laser-modes/) |
+| 2026-07-26 | Writing the English Alphabet in Cat Font | Adafruit | [link](https://blog.adafruit.com/2026/07/26/writing-the-english-alphabet-in-cat-font/) |
 | 2026-07-25 | Taking Tri-Camera True-Color Infrared Videos | Hackaday | [link](https://hackaday.com/2026/07/25/taking-tri-camera-true-color-infrared-videos/) |
 | 2026-07-25 | Team Repair Breaks Things to Teach People How to Fix Them | Hackaday | [link](https://hackaday.com/2026/07/25/team-repair-breaks-things-to-teach-people-how-to-fix-them/) |
-| 2026-07-25 | 3D On The Playdate Handheld | Hackaday | [link](https://hackaday.com/2026/07/25/3d-on-the-playdate-handheld/) |
 | 2026-07-25 | Beelink ME Pro 2-bay hybrid NAS gets Wildcat Lake treatment, gains 10GbE and Thunderbolt 4, loses a few M.2 slots | CNX Software | [link](https://www.cnx-software.com/2026/07/25/beelink-me-pro-2-bay-hybrid-nas-gets-wildcat-lake-treatment-gains-10gbe-and-thunderbolt-4-loses-a-few-m-2-slots/) |
-| 2026-07-25 | Early Space Weather Warnings with MAGIC | Adafruit | [link](https://blog.adafruit.com/2026/07/25/early-space-weather-warnings-with-magic/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -85,8 +85,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-26 | Pranav070904/VLA-Maze-Solver | 0 | 0 | [link](https://huggingface.co/Pranav070904/VLA-Maze-Solver) |
 | 2026-07-26 | mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k8-tbptt | 0 | 0 | [link](https://huggingface.co/mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k8-tbptt) |
 | 2026-07-26 | LingArm/lingarm-vla-1.0-preview | 2 | 0 | [link](https://huggingface.co/LingArm/lingarm-vla-1.0-preview) |
-| 2026-07-26 | ChristianZ97/satp-policy-v2 | 0 | 0 | [link](https://huggingface.co/ChristianZ97/satp-policy-v2) |
-| 2026-07-26 | ernestknurov/act_so101_pick_and_place_policy | 0 | 0 | [link](https://huggingface.co/ernestknurov/act_so101_pick_and_place_policy) |
+| 2026-07-26 | fabono/act_policy | 0 | 0 | [link](https://huggingface.co/fabono/act_policy) |
+| 2026-07-26 | shimainu/my_policy | 0 | 0 | [link](https://huggingface.co/shimainu/my_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
