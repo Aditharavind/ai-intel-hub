@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-26 08:00 UTC
+Generated: 2026-07-26 09:59 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,7 +14,7 @@ Generated: 2026-07-26 08:00 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82719 | 33087.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82721 | 33088.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63227 | 25290.9 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44289 | 17715.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30140 | 12056.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
@@ -23,11 +23,11 @@ Generated: 2026-07-26 08:00 UTC
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| tencent/Hy-Embodied-VLM-1.0 | 451 | 139.8 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
+| tencent/Hy-Embodied-VLM-1.0 | 459 | 142.2 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
 | zhijieq/directional-navigation | 416 | 124.9 | [link](https://huggingface.co/zhijieq/directional-navigation) |
-| SEU-PAISys/Embodied.cpp | 341 | 103.2 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
-| tencent/Hy-Embodied-RxBrain-1.0 | 281 | 94.6 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
-| EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b | 278 | 83.5 | [link](https://huggingface.co/EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b) |
+| SEU-PAISys/Embodied.cpp | 344 | 104.1 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
+| tencent/Hy-Embodied-RxBrain-1.0 | 287 | 96.4 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
+| EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b | 280 | 84.1 | [link](https://huggingface.co/EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

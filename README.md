@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-26 08:00 UTC
+Last Updated: 2026-07-26 09:59 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-26 | Delta Pen Plotter Draws In Multiple Colors | Hackaday | [link](https://hackaday.com/2026/07/26/delta-pen-plotter-draws-in-multiple-colors/) |
 | 2026-07-26 | How Film Industry Data Website The-Numbers.com got Mauled by Bots | Hackaday | [link](https://hackaday.com/2026/07/25/how-film-industry-data-website-the-numbers-com-got-mauled-by-bots/) |
 | 2026-07-26 | Building A Fencing Scoring Box | Hackaday | [link](https://hackaday.com/2026/07/25/building-a-fencing-scoring-box/) |
 | 2026-07-25 | Taking Tri-Camera True-Color Infrared Videos | Hackaday | [link](https://hackaday.com/2026/07/25/taking-tri-camera-true-color-infrared-videos/) |
 | 2026-07-25 | Team Repair Breaks Things to Teach People How to Fix Them | Hackaday | [link](https://hackaday.com/2026/07/25/team-repair-breaks-things-to-teach-people-how-to-fix-them/) |
 | 2026-07-25 | 3D On The Playdate Handheld | Hackaday | [link](https://hackaday.com/2026/07/25/3d-on-the-playdate-handheld/) |
 | 2026-07-25 | Add Sensors to Everything! | Hackaday | [link](https://hackaday.com/2026/07/25/add-sensors-to-everything/) |
-| 2026-07-25 | Repairing a RED Cinema Camera On The Cheap | Hackaday | [link](https://hackaday.com/2026/07/25/repairing-a-red-cinema-camera-on-the-cheap/) |
 | 2026-07-25 | Beelink ME Pro 2-bay hybrid NAS gets Wildcat Lake treatment, gains 10GbE and Thunderbolt 4, loses a few M.2 slots | CNX Software | [link](https://www.cnx-software.com/2026/07/25/beelink-me-pro-2-bay-hybrid-nas-gets-wildcat-lake-treatment-gains-10gbe-and-thunderbolt-4-loses-a-few-m-2-slots/) |
 | 2026-07-25 | Early Space Weather Warnings with MAGIC | Adafruit | [link](https://blog.adafruit.com/2026/07/25/early-space-weather-warnings-with-magic/) |
 | 2026-07-25 | Voice Recognition and Speech Synthesis on an RPi Pico 2 | Adafruit | [link](https://blog.adafruit.com/2026/07/25/voice-recognition-and-speech-synthesis-on-an-rpi-pico-2/) |
@@ -78,15 +78,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-26 | Dexmal/DW05-Robotwin | 0 | 4 | [link](https://huggingface.co/Dexmal/DW05-Robotwin) |
-| 2026-07-26 | Pranav070904/VLA-Maze-Solver | 0 | 0 | [link](https://huggingface.co/Pranav070904/VLA-Maze-Solver) |
-| 2026-07-26 | mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k8-tbptt | 0 | 0 | [link](https://huggingface.co/mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k8-tbptt) |
 | 2026-07-26 | mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k2-tbptt | 0 | 0 | [link](https://huggingface.co/mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k2-tbptt) |
 | 2026-07-26 | mu-vla/mu-vla-openvla-oft-libero-4-tasks-m64-k8-tbptt | 0 | 0 | [link](https://huggingface.co/mu-vla/mu-vla-openvla-oft-libero-4-tasks-m64-k8-tbptt) |
-| 2026-07-26 | LingArm/lingarm-vla-1.0-preview | 0 | 0 | [link](https://huggingface.co/LingArm/lingarm-vla-1.0-preview) |
+| 2026-07-26 | Pranav070904/VLA-Maze-Solver | 0 | 0 | [link](https://huggingface.co/Pranav070904/VLA-Maze-Solver) |
+| 2026-07-26 | mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k8-tbptt | 0 | 0 | [link](https://huggingface.co/mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k8-tbptt) |
+| 2026-07-26 | LingArm/lingarm-vla-1.0-preview | 2 | 0 | [link](https://huggingface.co/LingArm/lingarm-vla-1.0-preview) |
+| 2026-07-26 | ChristianZ97/satp-policy-v2 | 0 | 0 | [link](https://huggingface.co/ChristianZ97/satp-policy-v2) |
 | 2026-07-26 | ernestknurov/act_so101_pick_and_place_policy | 0 | 0 | [link](https://huggingface.co/ernestknurov/act_so101_pick_and_place_policy) |
-| 2026-07-26 | pdhinaka/act_pick_blue_cube_gray_box_policy | 0 | 0 | [link](https://huggingface.co/pdhinaka/act_pick_blue_cube_gray_box_policy) |
+| 2026-07-26 | pdhinaka/act_pick_blue_cube_gray_box_policy | 21 | 0 | [link](https://huggingface.co/pdhinaka/act_pick_blue_cube_gray_box_policy) |
 | 2026-07-26 | hiskiv/cosmos-policy-lam | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam) |
-| 2026-07-26 | Bekhzod/TASK_01_02_multitask_pi05_policy | 0 | 0 | [link](https://huggingface.co/Bekhzod/TASK_01_02_multitask_pi05_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -98,7 +98,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | StanfordVL/BEHAVIOR-1K | 1595 | Python | 638.1 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | sou350121/VLA-Handbook | 436 | HTML | 174.5 | [link](https://github.com/sou350121/VLA-Handbook) |
 | luohongk/Embodied-AI-Daily | 390 | HTML | 156.1 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| vllm-project/vllm-omni | 5689 | Python | 2275.7 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 5690 | Python | 2276.1 | [link](https://github.com/vllm-project/vllm-omni) |
 | LMD0311/Awesome-World-Model | 2167 |  | 866.9 | [link](https://github.com/LMD0311/Awesome-World-Model) |
 | OpenHUTB/hutb | 545 | C++ | 218.1 | [link](https://github.com/OpenHUTB/hutb) |
 
@@ -133,8 +133,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-24 | AI Data Operations Manager | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
 | 2026-07-24 | AI Data Operations Manager | Figure AI | United Arab Emirates | [link](https://job-boards.greenhouse.io/figureai/jobs/4698164006) |
+| 2026-07-24 | AI Data Operations Manager | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
 | 2026-07-24 | AI Training Infrastructure Engineer – Humanoid Whole Body Control | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4674754006) |
 | 2026-07-24 | Apprentice Robot Service Technician | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4698535006) |
 | 2026-07-24 | Associate General Counsel, Hardware and Data | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4661633006) |
