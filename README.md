@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-26 16:41 UTC
+Last Updated: 2026-07-26 17:49 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-26 | Ever Seen Claude Use Fusion 360? | Hackaday | [link](https://hackaday.com/2026/07/26/ever-seen-claude-use-fusion-360/) |
 | 2026-07-26 | Repairing a “for parts” Canon 7D Mark II DSLR | Hackaday | [link](https://hackaday.com/2026/07/26/repairing-a-for-parts-canon-7d-mark-ii-dslr/) |
 | 2026-07-26 | Duplicating Parts Using Silicone Molds | Hackaday | [link](https://hackaday.com/2026/07/26/duplicating-parts-using-silicone-molds/) |
 | 2026-07-26 | Delta Pen Plotter Draws In Multiple Colors | Hackaday | [link](https://hackaday.com/2026/07/26/delta-pen-plotter-draws-in-multiple-colors/) |
 | 2026-07-26 | How Film Industry Data Website The-Numbers.com got Mauled by Bots | Hackaday | [link](https://hackaday.com/2026/07/25/how-film-industry-data-website-the-numbers-com-got-mauled-by-bots/) |
 | 2026-07-26 | Building A Fencing Scoring Box | Hackaday | [link](https://hackaday.com/2026/07/25/building-a-fencing-scoring-box/) |
 | 2026-07-26 | Creality Pika review – An affordable, portable 3D scanner with infrared and blue laser modes | CNX Software | [link](https://www.cnx-software.com/2026/07/26/creality-pika-review-an-affordable-portable-3d-scanner-with-infrared-and-blue-laser-modes/) |
+| 2026-07-26 | A computer mouse controlled entirely by your tongue | Adafruit | [link](https://blog.adafruit.com/2026/07/26/a-computer-mouse-controlled-entirely-by-your-tongue/) |
 | 2026-07-26 | Writing the English Alphabet in Cat Font | Adafruit | [link](https://blog.adafruit.com/2026/07/26/writing-the-english-alphabet-in-cat-font/) |
 | 2026-07-25 | Taking Tri-Camera True-Color Infrared Videos | Hackaday | [link](https://hackaday.com/2026/07/25/taking-tri-camera-true-color-infrared-videos/) |
-| 2026-07-25 | Team Repair Breaks Things to Teach People How to Fix Them | Hackaday | [link](https://hackaday.com/2026/07/25/team-repair-breaks-things-to-teach-people-how-to-fix-them/) |
-| 2026-07-25 | Beelink ME Pro 2-bay hybrid NAS gets Wildcat Lake treatment, gains 10GbE and Thunderbolt 4, loses a few M.2 slots | CNX Software | [link](https://www.cnx-software.com/2026/07/25/beelink-me-pro-2-bay-hybrid-nas-gets-wildcat-lake-treatment-gains-10gbe-and-thunderbolt-4-loses-a-few-m-2-slots/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -78,6 +78,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-26 | Dexmal/DW05-Robotwin | 0 | 4 | [link](https://huggingface.co/Dexmal/DW05-Robotwin) |
+| 2026-07-26 | IvanLee/vlajepa_snack | 0 | 0 | [link](https://huggingface.co/IvanLee/vlajepa_snack) |
 | 2026-07-26 | EmpathicRobotics/vla-1.7b-qwen3-v6 | 0 | 0 | [link](https://huggingface.co/EmpathicRobotics/vla-1.7b-qwen3-v6) |
 | 2026-07-26 | VladimirRH/ruRoberta-large-medical-router | 0 | 0 | [link](https://huggingface.co/VladimirRH/ruRoberta-large-medical-router) |
 | 2026-07-26 | vlalabszoe/chatx | 0 | 0 | [link](https://huggingface.co/vlalabszoe/chatx) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-26 | Pranav070904/VLA-Maze-Solver | 0 | 0 | [link](https://huggingface.co/Pranav070904/VLA-Maze-Solver) |
 | 2026-07-26 | mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k8-tbptt | 0 | 0 | [link](https://huggingface.co/mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k8-tbptt) |
 | 2026-07-26 | LingArm/lingarm-vla-1.0-preview | 2 | 0 | [link](https://huggingface.co/LingArm/lingarm-vla-1.0-preview) |
-| 2026-07-26 | chrisluo5311/Policy-Gradient-FlappyBird-v2 | 0 | 0 | [link](https://huggingface.co/chrisluo5311/Policy-Gradient-FlappyBird-v2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
