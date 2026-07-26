@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-26 01:20 UTC
+Last Updated: 2026-07-26 05:16 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-26 | How Film Industry Data Website The-Numbers.com got Mauled by Bots | Hackaday | [link](https://hackaday.com/2026/07/25/how-film-industry-data-website-the-numbers-com-got-mauled-by-bots/) |
+| 2026-07-26 | Building A Fencing Scoring Box | Hackaday | [link](https://hackaday.com/2026/07/25/building-a-fencing-scoring-box/) |
 | 2026-07-25 | Taking Tri-Camera True-Color Infrared Videos | Hackaday | [link](https://hackaday.com/2026/07/25/taking-tri-camera-true-color-infrared-videos/) |
 | 2026-07-25 | Team Repair Breaks Things to Teach People How to Fix Them | Hackaday | [link](https://hackaday.com/2026/07/25/team-repair-breaks-things-to-teach-people-how-to-fix-them/) |
 | 2026-07-25 | 3D On The Playdate Handheld | Hackaday | [link](https://hackaday.com/2026/07/25/3d-on-the-playdate-handheld/) |
 | 2026-07-25 | Add Sensors to Everything! | Hackaday | [link](https://hackaday.com/2026/07/25/add-sensors-to-everything/) |
 | 2026-07-25 | Repairing a RED Cinema Camera On The Cheap | Hackaday | [link](https://hackaday.com/2026/07/25/repairing-a-red-cinema-camera-on-the-cheap/) |
-| 2026-07-25 | ICCU Monitor Logs Data in E-GMP EV Failures | Hackaday | [link](https://hackaday.com/2026/07/25/iccu-monitor-logs-data-in-e-gmp-ev-failures/) |
-| 2026-07-25 | 3D Printed Go Kart Designed to Fit in a Suitcase | Hackaday | [link](https://hackaday.com/2026/07/24/3d-printed-go-kart-designed-to-fit-in-a-suitcase/) |
 | 2026-07-25 | Beelink ME Pro 2-bay hybrid NAS gets Wildcat Lake treatment, gains 10GbE and Thunderbolt 4, loses a few M.2 slots | CNX Software | [link](https://www.cnx-software.com/2026/07/25/beelink-me-pro-2-bay-hybrid-nas-gets-wildcat-lake-treatment-gains-10gbe-and-thunderbolt-4-loses-a-few-m-2-slots/) |
 | 2026-07-25 | Early Space Weather Warnings with MAGIC | Adafruit | [link](https://blog.adafruit.com/2026/07/25/early-space-weather-warnings-with-magic/) |
 | 2026-07-25 | Voice Recognition and Speech Synthesis on an RPi Pico 2 | Adafruit | [link](https://blog.adafruit.com/2026/07/25/voice-recognition-and-speech-synthesis-on-an-rpi-pico-2/) |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-26 | LingArm/lingarm-vla-1.0-preview | 0 | 0 | [link](https://huggingface.co/LingArm/lingarm-vla-1.0-preview) |
+| 2026-07-26 | pdhinaka/act_pick_blue_cube_gray_box_policy | 0 | 0 | [link](https://huggingface.co/pdhinaka/act_pick_blue_cube_gray_box_policy) |
+| 2026-07-26 | hiskiv/cosmos-policy-lam | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam) |
 | 2026-07-26 | Bekhzod/TASK_01_02_multitask_pi05_policy | 0 | 0 | [link](https://huggingface.co/Bekhzod/TASK_01_02_multitask_pi05_policy) |
 | 2026-07-25 | SCZZ/LD4WAM_robotwin_from_scratch_lamf | 0 | 0 | [link](https://huggingface.co/SCZZ/LD4WAM_robotwin_from_scratch_lamf) |
 | 2026-07-25 | YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric | 99 | 0 | [link](https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric) |
-| 2026-07-25 | mario-d-robot/qwen-image-edit-plus-nsfw-lora | 0 | 0 | [link](https://huggingface.co/mario-d-robot/qwen-image-edit-plus-nsfw-lora) |
+| 2026-07-25 | mario-d-robot/qwen-image-edit-plus-nsfw-lora | 0 | 1 | [link](https://huggingface.co/mario-d-robot/qwen-image-edit-plus-nsfw-lora) |
 | 2026-07-25 | SCZZ/LD4WAM_robotwin_wo_colorjitter | 7 | 0 | [link](https://huggingface.co/SCZZ/LD4WAM_robotwin_wo_colorjitter) |
 | 2026-07-25 | fabono/vla_jepa_101 | 0 | 0 | [link](https://huggingface.co/fabono/vla_jepa_101) |
 | 2026-07-25 | Vladniag/Bormotuha | 0 | 1 | [link](https://huggingface.co/Vladniag/Bormotuha) |
-| 2026-07-25 | kfstiger/act_policy | 0 | 0 | [link](https://huggingface.co/kfstiger/act_policy) |
-| 2026-07-25 | chrisluo5311/Policy-Gradient-Pixelcopter-v2 | 0 | 0 | [link](https://huggingface.co/chrisluo5311/Policy-Gradient-Pixelcopter-v2) |
-| 2026-07-25 | chrisluo5311/Policy-Gradient-Pixelcopter | 0 | 0 | [link](https://huggingface.co/chrisluo5311/Policy-Gradient-Pixelcopter) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1423 | Rust | 569.3 | [link](https://github.com/copper-project/copper-rs) |
+| commaai/openpilot | 63227 | Python | 25290.9 | [link](https://github.com/commaai/openpilot) |
+| dora-rs/dora | 3852 | Rust | 1540.9 | [link](https://github.com/dora-rs/dora) |
+| leofan90/Awesome-World-Models | 1914 | Python | 765.7 | [link](https://github.com/leofan90/Awesome-World-Models) |
+| sou350121/VLA-Handbook | 436 | HTML | 174.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| luohongk/Embodied-AI-Daily | 390 | HTML | 156.1 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 | vllm-project/vllm-omni | 5686 | Python | 2274.5 | [link](https://github.com/vllm-project/vllm-omni) |
-| isaac-sim/IsaacLab | 7764 | Python | 3105.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| commaai/openpilot | 63225 | Python | 25290.1 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15553 | C++ | 6221.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14325 | C++ | 5730.1 | [link](https://github.com/google-deepmind/mujoco) |
-| DLR-RM/stable-baselines3 | 13608 | Python | 5443.3 | [link](https://github.com/DLR-RM/stable-baselines3) |
-| kornia/kornia | 11288 | Python | 4515.3 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11183 | Rust | 4473.3 | [link](https://github.com/rerun-io/rerun) |
-| RLinf/RLinf | 4255 | Python | 1702.1 | [link](https://github.com/RLinf/RLinf) |
+| LMD0311/Awesome-World-Model | 2167 |  | 866.9 | [link](https://github.com/LMD0311/Awesome-World-Model) |
+| OpenHUTB/hutb | 545 | C++ | 218.1 | [link](https://github.com/OpenHUTB/hutb) |
+| isaac-sim/IsaacLab | 7767 | Python | 3106.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -121,20 +121,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-26 | Mitsubishi Motors teams up with startup to mass produce humanoid robots - 毎日新聞 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMic0FVX3lxTE1CNlRWVlRneEFjZnc5bVZwNjExVG8xd3IyRnJYUEw3azZnM1d5TEt1YXJaOTA2WGpuLWhqcVliYld1RFZmb19BOFpPVUFRME1UZW9RM1oyZjJHcTFONkRMSFdFeF9waUQyQWxzLTR5SU1iajQ?oc=5) |
 | 2026-07-25 | As AI Models Become Cheaper, Korean Startups Face a Harder Question About Data - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMibkFVX3lxTE9LZ1Y0dUt1THA2SWtYMlByX0RqNWJWZmVQbjFjbXFOQjFMcEVVMm5qODF4dGx2MlZNY0pwU1liaXIySmJhMlBlNmhkWDVDVXJGbjM0eTBrZFM1R2cwLXA3UFBqNi1JTDRvR0NxR3NB?oc=5) |
-| 2026-07-25 | Eric Landau: Why Physical AI Is the Next Platform Shift—and 80% of the Economy Is at Stake - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iRTRxWUp4VGFLeDMyazUxVHlqQ1ZZcDMxa09yUlo1QUZvVDJRZnpuOTY5OWhiaklSMlZRV0hEVzVFY0c2MzZkRURxbTRKaEdiZDV3STR1WlRTbkE?oc=5) |
 | 2026-07-24 | The Week’s 10 Biggest Funding Rounds: Physical AI Startup Atoms Leads In Varied Week For Large Deals - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0JqNzY4MnFUYnpxN3ZZX3lBZ1pENU9MQkVTVWdjb053NEI4aUNueGJ3MndpOTQxWlFJMUZWcVZzSjhVNWNuMlE2VExjTldPQUw5cmtYRFdnTHhmV3laRHYyQmVxM0JpZDZSVXVoXzBrSEpvZVFmTXZIeEE2dXVseVMtTU8zM0plcWMyREdValljeWpBaWJUYw?oc=5) |
 | 2026-07-24 | Earth first, Mars later: Inside AIM’s grand vision for physical AI and autonomous bulldozers - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaU5VVEVQbGRYaS1YMTZFS24yTXc2bjdXZ0xIUktSVjhfd0hJcmNxcmZBRWd6YXRYSGdGVk9BU1BCdW0tdElTVE9Bem5kSFVDakg3RWFmcmtWVzJkc3RNRmlwSHl6YmhBMWY3bDRHc21QZWd5QnZjR1JicU5JRmk0QUk4SmlZS25kODViZ3ltdFNfbVZWa0l2TXR5MEJYTGFlbTc1RFdkaDVLTFRyUXVabE9JLVRMOE9iaEFQbA?oc=5) |
 | 2026-07-24 | SG's Ropedia bags $22m pre-Series A to scale data infra for physical AI - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWJFdlV0VVh2SG5MMFdJUXMyYTVNSS1UZUJzMEFKLW5xUlVzNFdVd0RZZ0FvVGh6TURxc1R6clhHVVF6T1NBal9IdWQ2VGdCT1hWY0p2b3dfS2VwbHlUdmVYRE02VkhNRWpDOVBaVTNLcFdWSndJbjdKaHh5RzFJQnJXTVA?oc=5) |
 | 2026-07-24 | AgiBot Begins Hong Kong IPO Process as China’s Embodied-AI Startups Race to List - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxPcmhiS1lSd1dsbHdQaWFtYTA3b2g4Qm5WMDRkTmJBWHU5Zk15bnQxYlBBZ1JfRy1neUxMZFlmcTJTQ2Nwb1FRN1ZHa3M4UFdGVlpLSDNSdjZMV0ljNV9hSVgxSkZmRDNMYkVTcHFJeElTNTVHTzY2WXdKRS1BOFdVXzN1VUViczlIMl9RQW9GN092ZnU4Z0diVF9Lc2tqRWVZSllPMU5pOTIyOWpGVUp2VlBCb0JtTTd0NXdzbHFhRnJxSVk5THZwelpKOVdOSXM?oc=5) |
 | 2026-07-24 | Top 10 humanoid robot startups to watch in 2026, ranked by total funding — TFN - Tech Funding News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTFAtdW1xMTdiZk5Va0tDQUwweGZQMHZUUi1Vc0M4NnctdV82MkdUZzFfN1M4ZzlEVzFjRU1ZTjZvUmdpRnFjc19wVHpIcDlTNG0wN2gxLV9xOHpLMXZiNWpuaE91U21IX0NmU3pNQmdXeGlkSlRnRmJ0bw?oc=5) |
-| 2026-07-24 | This UK Startup Just Became Europe's First Humanoid Robot Unicorn — Worth $1.35 Billion In 2 Years - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZTUzVzdVemZTYjFNRDBjVENoeEJySExQTnRmdi1JQmpyMXRESUh6bmJSUEFFTEpBcDA3eEoyTEljUFNBa0kzeDFUUEJISE5HTGJCRkFaaVBod3oxZnN1aWlSVzNPY21qZkx2N2lYbVF6aG1fbVB3bG5Vb1djTFZidzRCZ2ZkR29MSzFiaHoxVHVKTnpJZEctaFhpSG5CdHNGdGw3ZkwzMzk4amxwSHhUYzl5SGRydXhwWDdkZTFSTjJacGR4a3ZWUEljc1NMTDRMcUE?oc=5) |
+| 2026-07-24 | This Silicon Valley city is quietly becoming Robot Row. Here's who's clanking around. - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVFaWkFSVVdXX0x2ZWlzbzljMDFQTDlOUmJjeFdUeUlHakZwdXVQUm5RMDdBelBESXZSSjc3c1lKOWtidjFOVlU0WUQ5ZDFWTjJua0NURzNTSkhhZGt1enB4ZDZvbTJrRnlLV28wYklJRS04c2lsSWlmdG9OVDA5NXVEczFGQXQ4dEJDZTNpck84Wk9sMUhINHJvRzNhUWliOXVIbUlkNk54WTA?oc=5) |
 | 2026-07-24 | UK Humanoid Startup Raises $152M as Bosch and Schaeffler Back Wheels Over Legs - Tech Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVAyRl9LYUZoS2xzd3RIeWtEUEFYSldKT21pUVdxT1lkenRjeDZHNVpSTjVoV3ZUdHZQYUR5b29fUkZfZURnLTE4RnRPMWVpelI2MHVGX2lmR0lMZ1RZMlZ0WS1KZUpZOHJMYlA3UjV0MlB3cVFib0pZbFhwTTRDMFkwX0JxeTBJY2lTX0dqY3hJcEFBOG5lRlJOOEJCdFgwNlZPb2Q4QnhZcnh2QWY5WGtPREg3cFRabjNWZFVSVHBKcUk?oc=5) |
+| 2026-07-23 | Black Forest Labs Unveils First Model for Robotics in Shift to Physical AI - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaU9uQ1E3bS01Y3VwZE93clV2Z1BXUk05UGhHQkZMZUYtVTVvMTVtSkd6eTdVX194R2ItbURLVTZOUlNvdmxZMndUbU9vR0ViREFUYWI5cWNrQUxoRzh6V1B2YS1pcEszaGR3NlBEdVJLTldIdS04b0EzdTgwbGhKZTJDNmw4SkJwVHUyWkZXRWhnQkZJWHJLUjdPbHg4T3ZRYmdwa0hycE1FemxXUGJ3c2FFbnhTaElLQnRiSnZwajdVN28?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-24 | AI Data Operations Manager | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
 | 2026-07-24 | AI Data Operations Manager | Figure AI | United Arab Emirates | [link](https://job-boards.greenhouse.io/figureai/jobs/4698164006) |
+| 2026-07-24 | AI Data Operations Manager | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
 | 2026-07-24 | AI Training Infrastructure Engineer – Humanoid Whole Body Control | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4674754006) |
 | 2026-07-24 | Apprentice Robot Service Technician | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4698535006) |
 | 2026-07-24 | Associate General Counsel, Hardware and Data | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4661633006) |

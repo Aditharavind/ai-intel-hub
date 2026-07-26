@@ -1,5 +1,32 @@
 [
   {
+    "model": "LingArm/lingarm-vla-1.0-preview",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/LingArm/lingarm-vla-1.0-preview",
+    "date": "2026-07-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "pdhinaka/act_pick_blue_cube_gray_box_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pdhinaka/act_pick_blue_cube_gray_box_policy",
+    "date": "2026-07-26",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "hiskiv/cosmos-policy-lam",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/hiskiv/cosmos-policy-lam",
+    "date": "2026-07-26",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "Bekhzod/TASK_01_02_multitask_pi05_policy",
     "downloads": 0,
     "likes": 0,
@@ -29,11 +56,11 @@
   {
     "model": "mario-d-robot/qwen-image-edit-plus-nsfw-lora",
     "downloads": 0,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/mario-d-robot/qwen-image-edit-plus-nsfw-lora",
     "date": "2026-07-25",
     "keyword": "robot",
-    "score": 0.1
+    "score": 0.3
   },
   {
     "model": "SCZZ/LD4WAM_robotwin_wo_colorjitter",
@@ -142,24 +169,6 @@
     "date": "2026-07-25",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "jogarulfop/policy_2026-07-24_shakeitup7_dragonfly_100kHz_nfft_512",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-07-24_shakeitup7_dragonfly_100kHz_nfft_512",
-    "date": "2026-07-25",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Andy2435/blue-cube-policy-v2",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/Andy2435/blue-cube-policy-v2",
-    "date": "2026-07-25",
-    "keyword": "policy",
-    "score": 4.0
   },
   {
     "model": "mario-d-robot/Qwen-Image-Edit-LoRA-Collection",
@@ -286,15 +295,6 @@
     "date": "2026-07-24",
     "keyword": "physical ai",
     "score": 6.4
-  },
-  {
-    "model": "denkiwakame/Qwen3.5-2B-FFT-VLA0-2-0724",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/denkiwakame/Qwen3.5-2B-FFT-VLA0-2-0724",
-    "date": "2026-07-23",
-    "keyword": "vla",
-    "score": 1.9
   },
   {
     "model": "physicalai-bmi/efa-1",
@@ -542,11 +542,11 @@
   {
     "model": "tencent/Hy-Embodied-RxBrain-1.0",
     "downloads": 281,
-    "likes": 50,
+    "likes": 51,
     "url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
     "date": "2026-07-18",
     "keyword": "embodied",
-    "score": 94.4
+    "score": 94.6
   },
   {
     "model": "Lislaam/coinrun-trained-world-model",
@@ -623,11 +623,11 @@
   {
     "model": "tencent/Hy-Embodied-VLM-1.0",
     "downloads": 451,
-    "likes": 21,
+    "likes": 22,
     "url": "https://huggingface.co/tencent/Hy-Embodied-VLM-1.0",
     "date": "2026-07-15",
     "keyword": "embodied",
-    "score": 139.6
+    "score": 139.8
   },
   {
     "model": "physicalai-bmi/orbital-landing-tgo",
