@@ -99,6 +99,33 @@
     "score": 3.4
   },
   {
+    "model": "VladimirRH/Phi-4-mini-instruct-Q4_K_M-GGUF",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VladimirRH/Phi-4-mini-instruct-Q4_K_M-GGUF",
+    "date": "2026-07-27",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "ethanCSL/svla_franka_pick_n_place_vla_steering_libero",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ethanCSL/svla_franka_pick_n_place_vla_steering_libero",
+    "date": "2026-07-27",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "ethansan01/X-VLA-SoftFold",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ethansan01/X-VLA-SoftFold",
+    "date": "2026-07-27",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "UPB-RAT-VLA/pi05_summerschool",
     "downloads": 0,
     "likes": 0,
@@ -155,10 +182,46 @@
   {
     "model": "sii-research/tau-0-vla",
     "downloads": 0,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/sii-research/tau-0-vla",
     "date": "2026-07-27",
     "keyword": "vla",
+    "score": 0.3
+  },
+  {
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1",
+    "date": "2026-07-27",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch0.75",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch0.75",
+    "date": "2026-07-27",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch0.5",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch0.5",
+    "date": "2026-07-27",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch0.25",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch0.25",
+    "date": "2026-07-27",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -171,6 +234,15 @@
     "score": 0.1
   },
   {
+    "model": "arendjan/physical-ai-studio-environment-tar",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/arendjan/physical-ai-studio-environment-tar",
+    "date": "2026-07-27",
+    "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
     "model": "arendjan/physical-ai-studio-environment",
     "downloads": 0,
     "likes": 0,
@@ -180,19 +252,46 @@
     "score": 0.1
   },
   {
-    "model": "jogarulfop/policy_2026-07-24_shakeitup7_accelero_10kHz_nfft_512",
+    "model": "ChristianZ97/satp-policy-v4.27",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-07-24_shakeitup7_accelero_10kHz_nfft_512",
+    "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
     "date": "2026-07-27",
     "keyword": "policy",
     "score": 0.1
   },
   {
-    "model": "ChristianZ97/satp-policy-v4.27",
+    "model": "mar-plaza/my_policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
+    "url": "https://huggingface.co/mar-plaza/my_policy",
+    "date": "2026-07-27",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "rubatotree/policy-act-toy-cat",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/rubatotree/policy-act-toy-cat",
+    "date": "2026-07-27",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "yangsamy/yangsamy_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yangsamy/yangsamy_policy",
+    "date": "2026-07-27",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-07-24_shakeitup7_accelero_10kHz_nfft_512",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-07-24_shakeitup7_accelero_10kHz_nfft_512",
     "date": "2026-07-27",
     "keyword": "policy",
     "score": 0.1
@@ -261,15 +360,6 @@
     "score": 5.2
   },
   {
-    "model": "s1eepypillow/task1_act_policy",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/s1eepypillow/task1_act_policy",
-    "date": "2026-07-27",
-    "keyword": "policy",
-    "score": 4.9
-  },
-  {
     "model": "masternodedata1/seer-robotics.ai",
     "downloads": 0,
     "likes": 0,
@@ -286,51 +376,6 @@
     "date": "2026-07-26",
     "keyword": "vla",
     "score": 10.0
-  },
-  {
-    "model": "EmpathicRobotics/vla-1.7b-qwen3-v6",
-    "downloads": 28,
-    "likes": 0,
-    "url": "https://huggingface.co/EmpathicRobotics/vla-1.7b-qwen3-v6",
-    "date": "2026-07-26",
-    "keyword": "vla",
-    "score": 8.5
-  },
-  {
-    "model": "VladimirRH/ruRoberta-large-medical-router",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/VladimirRH/ruRoberta-large-medical-router",
-    "date": "2026-07-26",
-    "keyword": "vla",
-    "score": 5.2
-  },
-  {
-    "model": "vlalabszoe/chatx",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vlalabszoe/chatx",
-    "date": "2026-07-26",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "chrisluo5311/Policy-Gradient-FlappyBird-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/chrisluo5311/Policy-Gradient-FlappyBird-v2",
-    "date": "2026-07-26",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "fabono/act_policy",
-    "downloads": 46,
-    "likes": 0,
-    "url": "https://huggingface.co/fabono/act_policy",
-    "date": "2026-07-26",
-    "keyword": "policy",
-    "score": 13.9
   },
   {
     "model": "physicalairi/molmoact2-line-transfer-lora-vlm",
@@ -621,15 +666,6 @@
     "score": 97.8
   },
   {
-    "model": "Lislaam/coinrun-trained-world-model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Lislaam/coinrun-trained-world-model",
-    "date": "2026-07-17",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
     "model": "EmbodiedCity/Worldscape-MoE",
     "downloads": 0,
     "likes": 0,
@@ -646,33 +682,6 @@
     "date": "2026-07-17",
     "keyword": "navigation",
     "score": 0.1
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-full-epoch3",
-    "downloads": 42,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-full-epoch3",
-    "date": "2026-07-16",
-    "keyword": "world model",
-    "score": 12.7
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-full-epoch2",
-    "downloads": 44,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-full-epoch2",
-    "date": "2026-07-16",
-    "keyword": "world model",
-    "score": 13.3
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-full-epoch1",
-    "downloads": 53,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-full-epoch1",
-    "date": "2026-07-16",
-    "keyword": "world model",
-    "score": 16.0
   },
   {
     "model": "physicalai-bmi/nano-vla-pixels-dart",
@@ -697,15 +706,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/physicalai-bmi/orbital-landing-tgo",
-    "date": "2026-07-15",
-    "keyword": "physical ai",
-    "score": 0.1
-  },
-  {
-    "model": "physicalai-bmi/nano-world-model-multi",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/physicalai-bmi/nano-world-model-multi",
     "date": "2026-07-15",
     "keyword": "physical ai",
     "score": 0.1

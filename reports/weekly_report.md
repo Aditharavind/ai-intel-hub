@@ -1,23 +1,17 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-27 12:46 UTC
+Generated: 2026-07-27 15:34 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-07-24 | Robot-Factored World Models via Robot Rendering | [link](https://arxiv.org/pdf/2607.22535v1) |
-| 2026-07-24 | SM4RT: Learning Structured Motion Geometry for 4D Reconstruction | [link](https://arxiv.org/pdf/2607.22534v1) |
-| 2026-07-24 | ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation | [link](https://arxiv.org/pdf/2607.22530v1) |
-| 2026-07-24 | Interpretable EEG biomarkers with bag-of-waves: Spatial and temporal waveform dictionaries for low-data regimes | [link](https://arxiv.org/pdf/2607.22508v1) |
-| 2026-07-24 | Plug, Play, and Comply: A Modular Framework for Online Variable Impedance with Arbitrarily Oriented Compliance Axes | [link](https://arxiv.org/pdf/2607.22483v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82722 | 33088.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63235 | 25294.1 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82721 | 33088.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63239 | 25295.7 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44287 | 17714.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30150 | 12060.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30152 | 12060.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16066 | 6426.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
@@ -41,8 +35,8 @@ Generated: 2026-07-27 12:46 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-27 | Are brain waves the next unlock for physical AI? - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTRjcXgxX3pIWW5JQ3MwNkxzQmQwUzY1M2dyaTNHSkdUXzJDUlQzZjZqb1AzMHpOQlRfOUhxTWdhRktiXzlyVzNBMWR3clUwVEo1M2plbm5HSFl0N1NaTmJZZXJOQXFvakdnYXlaZV90bzZEamhwUVlZc2d5ZUhsLUxLUVRQV0hyX0E?oc=5) |
+| 2026-07-27 | The AI advantage is moving into the physical economy - fDi Intelligence | physical ai startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPLU5YZFNRcXprYXIyQUVnU2UwcDhFbTJKR1ZpUE1SSWxfRHE4QkF1RnJfSnRyRjZOS3NReE9PV19YcGp5a2haX2w5QU81M2JGNW1faUwyLWJaOTZBREhWRmxabUtibVY2bTdTeTlMcVItOElpaXZpaWhndWkxOTdJSGZn?oc=5) |
 | 2026-07-27 | Encord is collecting brain-wave data to solve physical AI's training data crisis - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2RHdDBCTXJoMTZ3azk2R0tqMTZjYmhvZV9PRU8wVnF5R2VyTTN6a285Zy1CVzJodUNTWnJvNmhvenRXMzdTZm1MTmdNTW40QjJ2M1lSOUtVbTBfdjhYc3Q3LTFxOXQ3MDBlcW0wTUhpTTR2SzQ5cnFkRTJoLWlvRzhlcTVrU0dCS0hGLTJHQ2ZIVEVtekJRaUV3VXVTOTljNVhRaTREeXpXZnM?oc=5) |
 | 2026-07-27 | Mapping Southeast Asia’s physical AI startup ecosystem - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2hlMllwZVZaVlRJUzlWb3FqNjZmVGVyak9wMlY2ZEZhRmhFWi0zTnpGTThUcWVVeHd4MWtzSVA0NmxjU05YX2I0WkF0S0tOWER6SE4xN0FvbGVkaXRaQmp4ZFl3a2lzZFpmajU5amNUeWxISTZ2bUJmNFctX3hXVGpNLU9uWlZZQ0MtNDNNOUszOVVCaVBvWA?oc=5) |
-| 2026-07-26 | Genesis AI is in talks to raise $500 million at a $3 billion valuation just a year after emerging from stealth - Startup Fortune | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOG81aXpQdEo0UnQ4SmtJenVVRjl4enZVeFNwd2pMQzBtdG55ZUthaGNtajA5N2M4RTlCTHhXNmhScjJ6U0txS0lpYUtNbmswU3BXUE5EMGI1ekp6ZjNLSzR1enJyRmxZQVBnWTZKT0pHWmJOcC1OV1FlQWdTbTM0TXhYQ29lMWg3UGQyVV95dE1aR2FlY1N0UEg3cEgzTkdlZFZuM3RJSDZSM2o3RzVXM0xwZGs5aHJ0NmItRUNidDVjaUNtSlpoTFBEaktXdVgteUE?oc=5) |
-| 2026-07-26 | Mitsubishi Motors teams up with startup to mass produce humanoid robots - 毎日新聞 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMic0FVX3lxTE1CNlRWVlRneEFjZnc5bVZwNjExVG8xd3IyRnJYUEw3azZnM1d5TEt1YXJaOTA2WGpuLWhqcVliYld1RFZmb19BOFpPVUFRME1UZW9RM1oyZjJHcTFONkRMSFdFeF9waUQyQWxzLTR5SU1iajQ?oc=5) |
-| 2026-07-25 | As AI Models Become Cheaper, Korean Startups Face a Harder Question About Data - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMibkFVX3lxTE9LZ1Y0dUt1THA2SWtYMlByX0RqNWJWZmVQbjFjbXFOQjFMcEVVMm5qODF4dGx2MlZNY0pwU1liaXIySmJhMlBlNmhkWDVDVXJGbjM0eTBrZFM1R2cwLXA3UFBqNi1JTDRvR0NxR3NB?oc=5) |
+| 2026-07-27 | Kobe Steel invests in Japanese startup Noetra for physical AI development - Yieh Corp. | physical ai startup | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxNanppdzlOMDE1Y0M0QWdmNGRiSHZtNk5sQlhJcXJkdzIxeHJwTzlxVWUzc0hVUllzM3YxX0xhTVVCVWxUSFBsa0dhWEFYdFR3aDFXOHV2R0Rtc3g3dHRXUHJoOTJDM3Y3RmcxNWdwcHVMVjJ4UzJ3TkhCdmxyVHpnd3Z5U3A1X0F2YnZ0TkFCWldPdXYyY2RES3diMng3U3l4Z3Q4dHMtM0MwUkpCZVE?oc=5) |
