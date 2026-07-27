@@ -1,14 +1,5 @@
 [
   {
-    "model": "NONHUMAN-RESEARCH/robott_smoke2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/NONHUMAN-RESEARCH/robott_smoke2",
-    "date": "2026-07-27",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "HarrisonPENG/M2W-VLA-RoboTwin",
     "downloads": 185,
     "likes": 0,
@@ -108,6 +99,24 @@
     "score": 4.6
   },
   {
+    "model": "RobotisSW/Task_315_Dispose_Trash_10K",
+    "downloads": 11,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_315_Dispose_Trash_10K",
+    "date": "2026-07-27",
+    "keyword": "robot",
+    "score": 3.4
+  },
+  {
+    "model": "Liyux/vla-mixer3axis",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Liyux/vla-mixer3axis",
+    "date": "2026-07-27",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "VladShash/qwen3-feedback-grpo-fl0.0-step220",
     "downloads": 0,
     "likes": 0,
@@ -128,11 +137,11 @@
   {
     "model": "VladimirRH/Phi-4-mini-instruct-Q4_K_M-GGUF",
     "downloads": 0,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/VladimirRH/Phi-4-mini-instruct-Q4_K_M-GGUF",
     "date": "2026-07-27",
     "keyword": "vla",
-    "score": 0.1
+    "score": 0.3
   },
   {
     "model": "ethanCSL/svla_franka_pick_n_place_vla_steering_libero",
@@ -198,15 +207,6 @@
     "score": 6.4
   },
   {
-    "model": "zwan1003/pickplace_skills_vla_v3_2_ckpt060k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/zwan1003/pickplace_skills_vla_v3_2_ckpt060k",
-    "date": "2026-07-27",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1",
     "downloads": 0,
     "likes": 0,
@@ -267,6 +267,15 @@
     "url": "https://huggingface.co/arendjan/physical-ai-studio-environment",
     "date": "2026-07-27",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "yangsamy/yangsamy_diffusion_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yangsamy/yangsamy_diffusion_policy",
+    "date": "2026-07-27",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -367,15 +376,6 @@
     "date": "2026-07-27",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "zycsys/robocasa-cosmos-policy",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/zycsys/robocasa-cosmos-policy",
-    "date": "2026-07-27",
-    "keyword": "policy",
-    "score": 5.2
   },
   {
     "model": "masternodedata1/seer-robotics.ai",

@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-27 17:25 UTC
+Generated: 2026-07-27 19:05 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -16,7 +16,7 @@ Generated: 2026-07-27 17:25 UTC
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 82722 | 33088.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63238 | 25295.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44287 | 17714.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44288 | 17715.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30152 | 12060.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16067 | 6426.9 | [link](https://github.com/zauberzeug/nicegui) |
 
@@ -42,7 +42,7 @@ Generated: 2026-07-27 17:25 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-07-27 | Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE02elZVdk1Iczl5UzdTQldJWkxvTWxIejI0dll0ZFhoR0NPR0swUENTdW03b0hlR21sZHJRVUZ1M2xtSzdGQXkzc19VV1lBZWF3TlFKZHNNTEdBTi11d0lHT0txcmhUQmFw?oc=5) |
-| 2026-07-27 | Are brain waves the next unlock for physical AI? - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTRjcXgxX3pIWW5JQ3MwNkxzQmQwUzY1M2dyaTNHSkdUXzJDUlQzZjZqb1AzMHpOQlRfOUhxTWdhRktiXzlyVzNBMWR3clUwVEo1M2plbm5HSFl0N1NaTmJZZXJOQXFvakdnYXlaZV90bzZEamhwUVlZc2d5ZUhsLUxLUVRQV0hyX0E?oc=5) |
+| 2026-07-27 | Enigma raises $71M to make controlling a robot as easy as adjusting the volume - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSnNERUE3ZUlwdlZwNHVuZzVBVkE2alZHTGIyRUJWNEtsMndDV2lSWGxNMUoxS3lURXE4VlNGREpURWhUc3dzSkZYWFNQNU94eDNGOHNXVFVldVRtWjVwcTBJdEMyNWZMWTFndXlIMl9CdnNRTWNCd1owZmxUZUN3WThGdWJidHc3am1RNzlmZ0lMWlRHWGd3cmxwM19hQXFYOEdqNnJFSDhQN1N2QmxQdXNn?oc=5) |
 | 2026-07-27 | The AI advantage is moving into the physical economy - fDi Intelligence | physical ai startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPLU5YZFNRcXprYXIyQUVnU2UwcDhFbTJKR1ZpUE1SSWxfRHE4QkF1RnJfSnRyRjZOS3NReE9PV19YcGp5a2haX2w5QU81M2JGNW1faUwyLWJaOTZBREhWRmxabUtibVY2bTdTeTlMcVItOElpaXZpaWhndWkxOTdJSGZn?oc=5) |
 | 2026-07-27 | Encord is collecting brain-wave data to solve physical AI's training data crisis - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2RHdDBCTXJoMTZ3azk2R0tqMTZjYmhvZV9PRU8wVnF5R2VyTTN6a285Zy1CVzJodUNTWnJvNmhvenRXMzdTZm1MTmdNTW40QjJ2M1lSOUtVbTBfdjhYc3Q3LTFxOXQ3MDBlcW0wTUhpTTR2SzQ5cnFkRTJoLWlvRzhlcTVrU0dCS0hGLTJHQ2ZIVEVtekJRaUV3VXVTOTljNVhRaTREeXpXZnM?oc=5) |
 | 2026-07-27 | Mapping Southeast Asia’s physical AI startup ecosystem - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2hlMllwZVZaVlRJUzlWb3FqNjZmVGVyak9wMlY2ZEZhRmhFWi0zTnpGTThUcWVVeHd4MWtzSVA0NmxjU05YX2I0WkF0S0tOWER6SE4xN0FvbGVkaXRaQmp4ZFl3a2lzZFpmajU5amNUeWxISTZ2bUJmNFctX3hXVGpNLU9uWlZZQ0MtNDNNOUszOVVCaVBvWA?oc=5) |
