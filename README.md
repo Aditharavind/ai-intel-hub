@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-27 20:57 UTC
+Last Updated: 2026-07-27 21:58 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -36,6 +36,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-07-27 | NORD expands compact NORDAC VFD family to 200 hp | Robotics Business Review | [link](https://www.therobotreport.com/nord-expands-nordac-compact-vfd-family-to-200-hp/) |
+| 2026-07-27 | Kraken Technology raises Series B funding for autonomous vessels | Robotics Business Review | [link](https://www.therobotreport.com/kraken-technology-raises-series-b-funding-autonomous-vessels/) |
 | 2026-07-26 | Magmotor makes motors for a changing world for 150+ years | Robotics Business Review | [link](https://www.therobotreport.com/magmotor-makes-motors-changing-world-150-years/) |
 | 2026-07-26 | Optical Tech Would Update a Robot’s AI on the Fly | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/ai-in-robotics) |
 | 2026-07-25 | Photos: First look at J&J’s Ottava surgical robot | Robotics Business Review | [link](https://www.therobotreport.com/photos-first-look-at-jjs-ottava-surgical-robot/) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-24 | How time series databases unlock real-time data for robotics | Robotics Business Review | [link](https://www.therobotreport.com/how-time-series-databases-unlock-real-time-data-for-robotics/) |
 | 2026-07-24 | Generalist’s GEN-1 foundation model now supports a range of robot end effectors | Robotics Business Review | [link](https://www.therobotreport.com/generalists-gen-1-foundation-model-now-supports-a-range-of-robot-end-effectors/) |
 | 2026-07-23 | AMD unveils Kria module for real-time control, unified memory for robots | Robotics Business Review | [link](https://www.therobotreport.com/amd-unveils-kria-module-real-time-control-unified-memory-robots/) |
-| 2026-07-23 | Ropedia raises $22M to scale data collection for training robots | Robotics Business Review | [link](https://www.therobotreport.com/ropedia-raises-22m-scale-data-collection-training-robots/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -96,11 +96,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | mosaico-labs/mosaico | 894 | Python | 357.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 309 | Python | 123.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 63238 | Python | 25295.3 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30153 | Python | 12061.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| commaai/openpilot | 63239 | Python | 25295.7 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30154 | Python | 12061.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16068 | Python | 6427.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15560 | C++ | 6224.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14347 | C++ | 5738.9 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14348 | C++ | 5739.3 | [link](https://github.com/google-deepmind/mujoco) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
