@@ -1,5 +1,23 @@
 [
   {
+    "model": "kimtaey/cosmos3-robotwin-latent4-b256-16k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kimtaey/cosmos3-robotwin-latent4-b256-16k",
+    "date": "2026-07-27",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
+    "downloads": 185,
+    "likes": 0,
+    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
+    "date": "2026-07-27",
+    "keyword": "vla",
+    "score": 55.6
+  },
+  {
     "model": "RobotisSW/Task_315_Dispose_Trash_50K",
     "downloads": 0,
     "likes": 0,
@@ -25,6 +43,60 @@
     "date": "2026-07-27",
     "keyword": "robot",
     "score": 0.1
+  },
+  {
+    "model": "taewonkoo/VLA-Adapter-SO101-push-cube-step-10000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/taewonkoo/VLA-Adapter-SO101-push-cube-step-10000",
+    "date": "2026-07-27",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "zwan1003/pickplace_skills_vla_v3_2",
+    "downloads": 21,
+    "likes": 0,
+    "url": "https://huggingface.co/zwan1003/pickplace_skills_vla_v3_2",
+    "date": "2026-07-27",
+    "keyword": "vla",
+    "score": 6.4
+  },
+  {
+    "model": "zwan1003/pickplace_skills_vla_v3_2_ckpt060k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zwan1003/pickplace_skills_vla_v3_2_ckpt060k",
+    "date": "2026-07-27",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sii-research/tau-0-vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sii-research/tau-0-vla",
+    "date": "2026-07-27",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "yuanxiang102e/worldmodel-dino-tworoom-prop-ep5",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yuanxiang102e/worldmodel-dino-tworoom-prop-ep5",
+    "date": "2026-07-27",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "zycsys/robocasa-cosmos-policy",
+    "downloads": 17,
+    "likes": 0,
+    "url": "https://huggingface.co/zycsys/robocasa-cosmos-policy",
+    "date": "2026-07-27",
+    "keyword": "policy",
+    "score": 5.2
   },
   {
     "model": "s1eepypillow/task1_act_policy",
@@ -115,24 +187,6 @@
     "date": "2026-07-26",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k8-tbptt",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k8-tbptt",
-    "date": "2026-07-26",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "LingArm/lingarm-vla-1.0-preview",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/LingArm/lingarm-vla-1.0-preview",
-    "date": "2026-07-26",
-    "keyword": "vla",
-    "score": 0.7
   },
   {
     "model": "chrisluo5311/Policy-Gradient-FlappyBird-v2",
@@ -243,24 +297,6 @@
     "score": 2.8
   },
   {
-    "model": "fabono/vla_jepa_101",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/fabono/vla_jepa_101",
-    "date": "2026-07-25",
-    "keyword": "vla",
-    "score": 6.7
-  },
-  {
-    "model": "Vladniag/Bormotuha",
-    "downloads": 24,
-    "likes": 1,
-    "url": "https://huggingface.co/Vladniag/Bormotuha",
-    "date": "2026-07-25",
-    "keyword": "vla",
-    "score": 7.5
-  },
-  {
     "model": "kfstiger/act_policy",
     "downloads": 32,
     "likes": 0,
@@ -279,15 +315,6 @@
     "score": 0.1
   },
   {
-    "model": "chrisluo5311/Policy-Gradient-Pixelcopter",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/chrisluo5311/Policy-Gradient-Pixelcopter",
-    "date": "2026-07-25",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "mario-d-robot/Qwen-Image-Edit-LoRA-Collection",
     "downloads": 27,
     "likes": 0,
@@ -295,24 +322,6 @@
     "date": "2026-07-24",
     "keyword": "robot",
     "score": 8.2
-  },
-  {
-    "model": "YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric_lora",
-    "downloads": 41,
-    "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric_lora",
-    "date": "2026-07-24",
-    "keyword": "robot",
-    "score": 12.4
-  },
-  {
-    "model": "robbyant/lingbot-vla-v2-6b-robotwin",
-    "downloads": 0,
-    "likes": 2,
-    "url": "https://huggingface.co/robbyant/lingbot-vla-v2-6b-robotwin",
-    "date": "2026-07-24",
-    "keyword": "vla",
-    "score": 0.5
   },
   {
     "model": "physicalairi/molmoact2-line-transfer-lora-vlm",
@@ -655,15 +664,6 @@
     "date": "2026-07-16",
     "keyword": "world model",
     "score": 15.7
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch1",
-    "downloads": 56,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch1",
-    "date": "2026-07-16",
-    "keyword": "world model",
-    "score": 16.9
   },
   {
     "model": "physicalai-bmi/nano-vla-pixels-dart",

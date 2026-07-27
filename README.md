@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-27 01:24 UTC
+Last Updated: 2026-07-27 05:34 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-27 | Scanwheel: A Pocket-Sized POV TV | Hackaday | [link](https://hackaday.com/2026/07/26/scanwheel-a-pocket-sized-pov-tv/) |
+| 2026-07-27 | 2026 Frikkin Lasers Challenge: Measuring Nanometer-Scale Displacements with an Optical Cavity | Hackaday | [link](https://hackaday.com/2026/07/26/2026-frikkin-lasers-challenge-measuring-nanometer-scale-displacements-with-an-optical-cavity/) |
+| 2026-07-27 | Open RC Spotter is an open-source ESP32 telemetry and data logger for RC cars and toys | CNX Software | [link](https://www.cnx-software.com/2026/07/27/open-rc-spotter-is-an-open-source-esp32-telemetry-and-data-logger-for-rc-cars-and-toys/) |
 | 2026-07-26 | Hackaday Links: July 26, 2026 | Hackaday | [link](https://hackaday.com/2026/07/26/hackaday-links-july-26-2026/) |
 | 2026-07-26 | Filling High Pressure CO2 Tanks From Sugar Fermentation Gas | Hackaday | [link](https://hackaday.com/2026/07/26/filling-high-pressure-co2-tanks-from-sugar-fermentation-gas/) |
 | 2026-07-26 | Ever Seen Claude Use Fusion 360? | Hackaday | [link](https://hackaday.com/2026/07/26/ever-seen-claude-use-fusion-360/) |
 | 2026-07-26 | Repairing a “for parts” Canon 7D Mark II DSLR | Hackaday | [link](https://hackaday.com/2026/07/26/repairing-a-for-parts-canon-7d-mark-ii-dslr/) |
 | 2026-07-26 | Duplicating Parts Using Silicone Molds | Hackaday | [link](https://hackaday.com/2026/07/26/duplicating-parts-using-silicone-molds/) |
-| 2026-07-26 | Delta Pen Plotter Draws In Multiple Colors | Hackaday | [link](https://hackaday.com/2026/07/26/delta-pen-plotter-draws-in-multiple-colors/) |
-| 2026-07-26 | How Film Industry Data Website The-Numbers.com got Mauled by Bots | Hackaday | [link](https://hackaday.com/2026/07/25/how-film-industry-data-website-the-numbers-com-got-mauled-by-bots/) |
 | 2026-07-26 | Creality Pika review – An affordable, portable 3D scanner with infrared and blue laser modes | CNX Software | [link](https://www.cnx-software.com/2026/07/26/creality-pika-review-an-affordable-portable-3d-scanner-with-infrared-and-blue-laser-modes/) |
 | 2026-07-26 | NASA Explains The Science Behind ‘Project Hail Mary’ | Adafruit | [link](https://blog.adafruit.com/2026/07/26/nasa-explains-the-science-behind-project-hail-mary/) |
-| 2026-07-26 | Adafruit Weekly Editorial Round-Up: Pool Noodle Mace, GameBoy cart hacking & Demofruit: Demoscene for Fruit Jam | Adafruit | [link](https://blog.adafruit.com/2026/07/26/adafruit-weekly-editorial-round-up-pool-noodle-mace-gameboy-cart-hacking-demofruit-demoscene-for-fruit-jam/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-27 | kimtaey/cosmos3-robotwin-latent4-b256-16k | 0 | 0 | [link](https://huggingface.co/kimtaey/cosmos3-robotwin-latent4-b256-16k) |
+| 2026-07-27 | HarrisonPENG/M2W-VLA-RoboTwin | 185 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-07-27 | RobotisSW/Task_315_Dispose_Trash_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_315_Dispose_Trash_50K) |
 | 2026-07-27 | RobotisSW/Task_315_Dispose_Trash_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_315_Dispose_Trash_30K) |
 | 2026-07-27 | RobotisSW/Task_315_Dispose_Trash_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_315_Dispose_Trash_10K) |
-| 2026-07-27 | s1eepypillow/task1_act_policy | 0 | 0 | [link](https://huggingface.co/s1eepypillow/task1_act_policy) |
-| 2026-07-26 | masternodedata1/seer-robotics.ai | 0 | 0 | [link](https://huggingface.co/masternodedata1/seer-robotics.ai) |
-| 2026-07-26 | Dexmal/DW05-Robotwin | 0 | 4 | [link](https://huggingface.co/Dexmal/DW05-Robotwin) |
-| 2026-07-26 | IvanLee/vlajepa_snack | 0 | 0 | [link](https://huggingface.co/IvanLee/vlajepa_snack) |
-| 2026-07-26 | EmpathicRobotics/vla-1.7b-qwen3-v6 | 0 | 0 | [link](https://huggingface.co/EmpathicRobotics/vla-1.7b-qwen3-v6) |
-| 2026-07-26 | VladimirRH/ruRoberta-large-medical-router | 0 | 0 | [link](https://huggingface.co/VladimirRH/ruRoberta-large-medical-router) |
-| 2026-07-26 | vlalabszoe/chatx | 0 | 0 | [link](https://huggingface.co/vlalabszoe/chatx) |
+| 2026-07-27 | taewonkoo/VLA-Adapter-SO101-push-cube-step-10000 | 0 | 0 | [link](https://huggingface.co/taewonkoo/VLA-Adapter-SO101-push-cube-step-10000) |
+| 2026-07-27 | zwan1003/pickplace_skills_vla_v3_2 | 21 | 0 | [link](https://huggingface.co/zwan1003/pickplace_skills_vla_v3_2) |
+| 2026-07-27 | zwan1003/pickplace_skills_vla_v3_2_ckpt060k | 0 | 0 | [link](https://huggingface.co/zwan1003/pickplace_skills_vla_v3_2_ckpt060k) |
+| 2026-07-27 | sii-research/tau-0-vla | 0 | 0 | [link](https://huggingface.co/sii-research/tau-0-vla) |
+| 2026-07-27 | yuanxiang102e/worldmodel-dino-tworoom-prop-ep5 | 0 | 0 | [link](https://huggingface.co/yuanxiang102e/worldmodel-dino-tworoom-prop-ep5) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| NVIDIA/skills | 2687 | Python | 1074.9 | [link](https://github.com/NVIDIA/skills) |
+| commaai/openpilot | 63233 | Python | 25293.3 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15561 | C++ | 6224.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| RLinf/RLinf | 4265 | Python | 1706.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3852 | Rust | 1540.9 | [link](https://github.com/dora-rs/dora) |
+| sou350121/VLA-Handbook | 438 | HTML | 175.3 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 5701 | Python | 2280.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| NVlabs/ProtoMotions | 2166 | Python | 866.5 | [link](https://github.com/NVlabs/ProtoMotions) |
 | softmata/horus | 393 | Rust | 157.3 | [link](https://github.com/softmata/horus) |
-| isaac-sim/IsaacLab | 7777 | Python | 3110.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| DexForce/EmbodiChain | 200 | Python | 80.1 | [link](https://github.com/DexForce/EmbodiChain) |
-| johnsutor/so101-nexus | 25 | Python | 10.1 | [link](https://github.com/johnsutor/so101-nexus) |
-| copper-project/copper-rs | 1424 | Rust | 569.7 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63230 | Python | 25292.1 | [link](https://github.com/commaai/openpilot) |
-| google-deepmind/mujoco | 14336 | C++ | 5734.5 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11190 | Rust | 4476.1 | [link](https://github.com/rerun-io/rerun) |
-| huangjunsen0406/py-xiaozhi | 3424 | Python | 1369.7 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
+| isaac-sim/IsaacLab | 7781 | Python | 3112.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,8 +119,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-27 | Mapping Southeast Asia’s physical AI startup ecosystem - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2hlMllwZVZaVlRJUzlWb3FqNjZmVGVyak9wMlY2ZEZhRmhFWi0zTnpGTThUcWVVeHd4MWtzSVA0NmxjU05YX2I0WkF0S0tOWER6SE4xN0FvbGVkaXRaQmp4ZFl3a2lzZFpmajU5amNUeWxISTZ2bUJmNFctX3hXVGpNLU9uWlZZQ0MtNDNNOUszOVVCaVBvWA?oc=5) |
 | 2026-07-26 | Genesis AI is in talks to raise $500 million at a $3 billion valuation just a year after emerging from stealth - Startup Fortune | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOG81aXpQdEo0UnQ4SmtJenVVRjl4enZVeFNwd2pMQzBtdG55ZUthaGNtajA5N2M4RTlCTHhXNmhScjJ6U0txS0lpYUtNbmswU3BXUE5EMGI1ekp6ZjNLSzR1enJyRmxZQVBnWTZKT0pHWmJOcC1OV1FlQWdTbTM0TXhYQ29lMWg3UGQyVV95dE1aR2FlY1N0UEg3cEgzTkdlZFZuM3RJSDZSM2o3RzVXM0xwZGs5aHJ0NmItRUNidDVjaUNtSlpoTFBEaktXdVgteUE?oc=5) |
-| 2026-07-26 | M'bishi Motors teams up with startup to mass produce humanoid robots - Japan Today | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmVERkRvQi1LamNQQkJ5ZE1KNWpURVI4b2Z5aHFtQzRMbU5kZEI3QXp0M1NhSFJYZzlRRWxIV3ZicGVmeDJ3a3NyNkhtaGtxOWItWnRVeFJrRVZLSk5ZU0l2Y3FxaU9JX2lpQkF3LUp5QmtzeTBXQnpmeEd0WVN0cnpLU1ZVM25lWjFXRC1mVHJDSlB3MWZrb3FMbmg5NlFQcFF5OERjbHdYbnNj?oc=5) |
+| 2026-07-26 | Mitsubishi Motors teams up with startup to mass produce humanoid robots - 毎日新聞 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMic0FVX3lxTE1CNlRWVlRneEFjZnc5bVZwNjExVG8xd3IyRnJYUEw3azZnM1d5TEt1YXJaOTA2WGpuLWhqcVliYld1RFZmb19BOFpPVUFRME1UZW9RM1oyZjJHcTFONkRMSFdFeF9waUQyQWxzLTR5SU1iajQ?oc=5) |
 | 2026-07-25 | As AI Models Become Cheaper, Korean Startups Face a Harder Question About Data - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMibkFVX3lxTE9LZ1Y0dUt1THA2SWtYMlByX0RqNWJWZmVQbjFjbXFOQjFMcEVVMm5qODF4dGx2MlZNY0pwU1liaXIySmJhMlBlNmhkWDVDVXJGbjM0eTBrZFM1R2cwLXA3UFBqNi1JTDRvR0NxR3NB?oc=5) |
 | 2026-07-25 | Humanoid startup Agility Robotics doesn't want 'coin-operated employees' - AOL.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFJGdVducEtSNUVtN2ZoSzJnQ00td1JFbmN1ak9UQ05GSlVrcC16YjFPWWp2dHY0bnhvdFlzRGtHbjkyeURRdHFpZFBpZ2p0eFc0ZWE0eDhtT2FJMzZrNHpGZ2pzMVNjYTAtOU1sYWFnT2VxVDRHc3psdmk3dW5SUTVnXzJGRmFlVGtMZA?oc=5) |
 | 2026-07-24 | The Week’s 10 Biggest Funding Rounds: Physical AI Startup Atoms Leads In Varied Week For Large Deals - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0JqNzY4MnFUYnpxN3ZZX3lBZ1pENU9MQkVTVWdjb053NEI4aUNueGJ3MndpOTQxWlFJMUZWcVZzSjhVNWNuMlE2VExjTldPQUw5cmtYRFdnTHhmV3laRHYyQmVxM0JpZDZSVXVoXzBrSEpvZVFmTXZIeEE2dXVseVMtTU8zM0plcWMyREdValljeWpBaWJUYw?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-24 | SG's Ropedia bags $22m pre-Series A to scale data infra for physical AI - DealStreetAsia | physical ai startup | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWJFdlV0VVh2SG5MMFdJUXMyYTVNSS1UZUJzMEFKLW5xUlVzNFdVd0RZZ0FvVGh6TURxc1R6clhHVVF6T1NBal9IdWQ2VGdCT1hWY0p2b3dfS2VwbHlUdmVYRE02VkhNRWpDOVBaVTNLcFdWSndJbjdKaHh5RzFJQnJXTVA?oc=5) |
 | 2026-07-24 | AgiBot Begins Hong Kong IPO Process as China’s Embodied-AI Startups Race to List - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxPcmhiS1lSd1dsbHdQaWFtYTA3b2g4Qm5WMDRkTmJBWHU5Zk15bnQxYlBBZ1JfRy1neUxMZFlmcTJTQ2Nwb1FRN1ZHa3M4UFdGVlpLSDNSdjZMV0ljNV9hSVgxSkZmRDNMYkVTcHFJeElTNTVHTzY2WXdKRS1BOFdVXzN1VUViczlIMl9RQW9GN092ZnU4Z0diVF9Lc2tqRWVZSllPMU5pOTIyOWpGVUp2VlBCb0JtTTd0NXdzbHFhRnJxSVk5THZwelpKOVdOSXM?oc=5) |
 | 2026-07-24 | Top 10 humanoid robot startups to watch in 2026, ranked by total funding — TFN - Tech Funding News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTFAtdW1xMTdiZk5Va0tDQUwweGZQMHZUUi1Vc0M4NnctdV82MkdUZzFfN1M4ZzlEVzFjRU1ZTjZvUmdpRnFjc19wVHpIcDlTNG0wN2gxLV9xOHpLMXZiNWpuaE91U21IX0NmU3pNQmdXeGlkSlRnRmJ0bw?oc=5) |
-| 2026-07-24 | This Silicon Valley city is quietly becoming Robot Row. Here's who's clanking around. - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVFaWkFSVVdXX0x2ZWlzbzljMDFQTDlOUmJjeFdUeUlHakZwdXVQUm5RMDdBelBESXZSSjc3c1lKOWtidjFOVlU0WUQ5ZDFWTjJua0NURzNTSkhhZGt1enB4ZDZvbTJrRnlLV28wYklJRS04c2lsSWlmdG9OVDA5NXVEczFGQXQ4dEJDZTNpck84Wk9sMUhINHJvRzNhUWliOXVIbUlkNk54WTA?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
