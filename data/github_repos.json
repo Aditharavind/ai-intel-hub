@@ -1,5 +1,55 @@
 [
   {
+    "repo": "dora-rs/dora",
+    "stars": 3852,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-07-27",
+    "topic": "embodied-ai",
+    "score": 1540.9
+  },
+  {
+    "repo": "softmata/horus",
+    "stars": 393,
+    "language": "Rust",
+    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
+    "url": "https://github.com/softmata/horus",
+    "date": "2026-07-27",
+    "topic": "humanoid",
+    "score": 157.3
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7777,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-07-27",
+    "topic": "robot-learning",
+    "score": 3110.9
+  },
+  {
+    "repo": "DexForce/EmbodiChain",
+    "stars": 200,
+    "language": "Python",
+    "description": "An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence.",
+    "url": "https://github.com/DexForce/EmbodiChain",
+    "date": "2026-07-27",
+    "topic": "robot-learning",
+    "score": 80.1
+  },
+  {
+    "repo": "johnsutor/so101-nexus",
+    "stars": 25,
+    "language": "Python",
+    "description": "Full-stack robot learning for the SO-101 arm: teleoperation, imitation learning, and RL in MuJoCo.",
+    "url": "https://github.com/johnsutor/so101-nexus",
+    "date": "2026-07-27",
+    "topic": "lerobot",
+    "score": 10.1
+  },
+  {
     "repo": "copper-project/copper-rs",
     "stars": 1424,
     "language": "Rust",
@@ -21,13 +71,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14335,
+    "stars": 14336,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-07-26",
     "topic": "robotics",
-    "score": 5734.1
+    "score": 5734.5
   },
   {
     "repo": "rerun-io/rerun",
@@ -38,16 +88,6 @@
     "date": "2026-07-26",
     "topic": "robotics",
     "score": 4476.1
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3852,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-07-26",
-    "topic": "embodied-ai",
-    "score": 1540.9
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",
@@ -121,13 +161,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5698,
+    "stars": 5699,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-26",
     "topic": "world-model",
-    "score": 2279.3
+    "score": 2279.7
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -150,16 +190,6 @@
     "score": 218.1
   },
   {
-    "repo": "softmata/horus",
-    "stars": 393,
-    "language": "Rust",
-    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
-    "url": "https://github.com/softmata/horus",
-    "date": "2026-07-26",
-    "topic": "humanoid",
-    "score": 157.3
-  },
-  {
     "repo": "manumerous/wb_humanoid_mpc",
     "stars": 350,
     "language": "C++",
@@ -168,26 +198,6 @@
     "date": "2026-07-26",
     "topic": "humanoid",
     "score": 140.1
-  },
-  {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7776,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-07-26",
-    "topic": "robot-learning",
-    "score": 3110.5
-  },
-  {
-    "repo": "DexForce/EmbodiChain",
-    "stars": 200,
-    "language": "Python",
-    "description": "An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence.",
-    "url": "https://github.com/DexForce/EmbodiChain",
-    "date": "2026-07-26",
-    "topic": "robot-learning",
-    "score": 80.1
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -221,13 +231,13 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4260,
+    "stars": 4261,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-07-25",
     "topic": "embodied-ai",
-    "score": 1704.1
+    "score": 1704.5
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -270,24 +280,14 @@
     "score": 251.7
   },
   {
-    "repo": "johnsutor/so101-nexus",
-    "stars": 25,
-    "language": "Python",
-    "description": "Full-stack robot learning for the SO-101 arm: teleoperation, imitation learning, and RL in MuJoCo.",
-    "url": "https://github.com/johnsutor/so101-nexus",
-    "date": "2026-07-25",
-    "topic": "lerobot",
-    "score": 10.1
-  },
-  {
     "repo": "NVIDIA/skills",
-    "stars": 2685,
+    "stars": 2686,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-07-24",
     "topic": "physical-ai",
-    "score": 1074.1
+    "score": 1074.5
   },
   {
     "repo": "mosaico-labs/mosaico",
@@ -311,33 +311,33 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16062,
+    "stars": 16063,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-07-24",
     "topic": "robotics",
-    "score": 6424.9
+    "score": 6425.3
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3224,
+    "stars": 3225,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-07-24",
     "topic": "embodied-ai",
-    "score": 1289.7
+    "score": 1290.1
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS",
-    "stars": 1103,
+    "stars": 1107,
     "language": "Python",
     "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS",
     "date": "2026-07-24",
     "topic": "embodied-ai",
-    "score": 441.3
+    "score": 442.9
   },
   {
     "repo": "galilai-group/stable-worldmodel",
@@ -368,6 +368,26 @@
     "date": "2026-07-24",
     "topic": "humanoid",
     "score": 62.5
+  },
+  {
+    "repo": "RobotControlStack/robot-control-stack",
+    "stars": 125,
+    "language": "Python",
+    "description": "A lean, ROS-free sim-to-real framework for training and deploying Vision-Language-Action (VLA) models and RL agents. Native MuJoCo Gymnasium wrappers with synchronous execution for Franka, UR5e, xArm, and SO101.",
+    "url": "https://github.com/RobotControlStack/robot-control-stack",
+    "date": "2026-07-24",
+    "topic": "robot-learning",
+    "score": 50.1
+  },
+  {
+    "repo": "fiveages-sim/lerobot_ros2",
+    "stars": 23,
+    "language": "Python",
+    "description": "LeRobot Robot and Camera for ROS2",
+    "url": "https://github.com/fiveages-sim/lerobot_ros2",
+    "date": "2026-07-24",
+    "topic": "lerobot",
+    "score": 9.3
   },
   {
     "repo": "Edgenesis/shifu",
@@ -468,6 +488,16 @@
     "date": "2026-07-22",
     "topic": "world-model",
     "score": 338.5
+  },
+  {
+    "repo": "OpenEnvision/WorldFoundry",
+    "stars": 268,
+    "language": "Python",
+    "description": "Unified World Model Inference & Evaluation Infrastructure",
+    "url": "https://github.com/OpenEnvision/WorldFoundry",
+    "date": "2026-07-22",
+    "topic": "vla",
+    "score": 107.3
   },
   {
     "repo": "zli12321/Vision-Language-Models-Overview",
@@ -580,6 +610,16 @@
     "score": 190.1
   },
   {
+    "repo": "TencentARC/VerseCrafter",
+    "stars": 413,
+    "language": "Python",
+    "description": "VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control",
+    "url": "https://github.com/TencentARC/VerseCrafter",
+    "date": "2026-07-20",
+    "topic": "world-model",
+    "score": 165.3
+  },
+  {
     "repo": "Mr-C4T/AB-SO-BOT",
     "stars": 66,
     "language": "Python",
@@ -608,6 +648,16 @@
     "date": "2026-07-15",
     "topic": "embodied-ai",
     "score": 380.9
+  },
+  {
+    "repo": "Open-X-Humanoid/TienKung-Lab",
+    "stars": 825,
+    "language": "Python",
+    "description": "Tien Kung-Lab: Direct IsaacLab Workflow for Legged Robots",
+    "url": "https://github.com/Open-X-Humanoid/TienKung-Lab",
+    "date": "2026-07-15",
+    "topic": "embodied-ai",
+    "score": 330.1
   },
   {
     "repo": "LeCAR-Lab/BFM-Zero",
@@ -671,13 +721,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 10521,
+    "stars": 10550,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 4208.5
+    "score": 4220.1
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -721,13 +771,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82721,
+    "stars": 82723,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 33088.5
+    "score": 33089.3
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
@@ -790,6 +840,16 @@
     "score": 17714.5
   },
   {
+    "repo": "NJU-RLC/quadrupedal-agility",
+    "stars": 121,
+    "language": "Python",
+    "description": "Official implementation of \"Learning Diverse Natural Behaviors for Enhancing the Agility of Quadrupedal Robots\"",
+    "url": "https://github.com/NJU-RLC/quadrupedal-agility",
+    "date": "2026-07-02",
+    "topic": "robot-learning",
+    "score": 48.5
+  },
+  {
     "repo": "Tavish9/any4lerobot",
     "stars": 1114,
     "language": "Python",
@@ -838,45 +898,5 @@
     "date": "2026-06-27",
     "topic": "vla",
     "score": 180.1
-  },
-  {
-    "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2147,
-    "language": "",
-    "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
-    "url": "https://github.com/Octoday-Hub/Embodied-AI",
-    "date": "2026-06-26",
-    "topic": "robot-learning",
-    "score": 858.9
-  },
-  {
-    "repo": "mimic-video/mimic-video",
-    "stars": 293,
-    "language": "Python",
-    "description": "Video-Action Models for Generalizable Robot Control Beyond VLAs",
-    "url": "https://github.com/mimic-video/mimic-video",
-    "date": "2026-06-26",
-    "topic": "robot-learning",
-    "score": 117.3
-  },
-  {
-    "repo": "Visionary-Laboratory/visionary",
-    "stars": 514,
-    "language": "Python",
-    "description": "Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform",
-    "url": "https://github.com/Visionary-Laboratory/visionary",
-    "date": "2026-06-26",
-    "topic": "world-model",
-    "score": 205.7
-  },
-  {
-    "repo": "ROBOTIS-GIT/physical_ai_tools",
-    "stars": 139,
-    "language": "JavaScript",
-    "description": "ROBOTIS Physical AI Tools: Physical AI Development Interface with LeRobot and ROS 2",
-    "url": "https://github.com/ROBOTIS-GIT/physical_ai_tools",
-    "date": "2026-06-26",
-    "topic": "lerobot",
-    "score": 55.7
   }
 ]

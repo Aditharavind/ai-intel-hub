@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-26 23:47 UTC
+Generated: 2026-07-27 01:24 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-23 | Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers | [link](https://arxiv.org/pdf/2607.21594v1) |
-| 2026-07-23 | AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation | [link](https://arxiv.org/pdf/2607.21588v1) |
-| 2026-07-23 | Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation | [link](https://arxiv.org/pdf/2607.21582v1) |
-| 2026-07-23 | Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering | [link](https://arxiv.org/pdf/2607.21571v1) |
-| 2026-07-23 | Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling | [link](https://arxiv.org/pdf/2607.21561v1) |
+| 2026-07-24 | Robot-Factored World Models via Robot Rendering | [link](https://arxiv.org/pdf/2607.22535v1) |
+| 2026-07-24 | SM4RT: Learning Structured Motion Geometry for 4D Reconstruction | [link](https://arxiv.org/pdf/2607.22534v1) |
+| 2026-07-24 | ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation | [link](https://arxiv.org/pdf/2607.22530v1) |
+| 2026-07-24 | Interpretable EEG biomarkers with bag-of-waves: Spatial and temporal waveform dictionaries for low-data regimes | [link](https://arxiv.org/pdf/2607.22508v1) |
+| 2026-07-24 | Plug, Play, and Comply: A Modular Framework for Online Variable Impedance with Arbitrarily Oriented Compliance Axes | [link](https://arxiv.org/pdf/2607.22483v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82721 | 33088.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82723 | 33089.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63230 | 25292.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44286 | 17714.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30144 | 12057.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16062 | 6424.9 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16063 | 6425.3 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |

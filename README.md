@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-26 23:47 UTC
+Last Updated: 2026-07-27 01:24 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -63,44 +63,44 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-23 | Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers | [link](https://arxiv.org/pdf/2607.21594v1) |
-| 2026-07-23 | AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation | [link](https://arxiv.org/pdf/2607.21588v1) |
-| 2026-07-23 | Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation | [link](https://arxiv.org/pdf/2607.21582v1) |
-| 2026-07-23 | Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering | [link](https://arxiv.org/pdf/2607.21571v1) |
-| 2026-07-23 | Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling | [link](https://arxiv.org/pdf/2607.21561v1) |
-| 2026-07-23 | GS-Agent: Creating 4D Physical Worlds With Generative Simulation | [link](https://arxiv.org/pdf/2607.21522v1) |
-| 2026-07-23 | Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections | [link](https://arxiv.org/pdf/2607.21488v1) |
-| 2026-07-23 | Future Rendering $\neq$ Future Surface: A Benchmark and Dataset for Dynamic Surface Reconstruction Beyond the Observed Window | [link](https://arxiv.org/pdf/2607.21471v1) |
-| 2026-07-23 | Out-of-Distribution Detection in Wireless Multimodal Foundation Models for 6G ISAC | [link](https://arxiv.org/pdf/2607.21455v1) |
-| 2026-07-23 | GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition | [link](https://arxiv.org/pdf/2607.21416v1) |
+| 2026-07-24 | Robot-Factored World Models via Robot Rendering | [link](https://arxiv.org/pdf/2607.22535v1) |
+| 2026-07-24 | SM4RT: Learning Structured Motion Geometry for 4D Reconstruction | [link](https://arxiv.org/pdf/2607.22534v1) |
+| 2026-07-24 | ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation | [link](https://arxiv.org/pdf/2607.22530v1) |
+| 2026-07-24 | Interpretable EEG biomarkers with bag-of-waves: Spatial and temporal waveform dictionaries for low-data regimes | [link](https://arxiv.org/pdf/2607.22508v1) |
+| 2026-07-24 | Plug, Play, and Comply: A Modular Framework for Online Variable Impedance with Arbitrarily Oriented Compliance Axes | [link](https://arxiv.org/pdf/2607.22483v1) |
+| 2026-07-24 | Phylogenetic signal in marine mammal and bird vocalizations captured by audio foundation models: the limited benefit of domain-specific pretraining | [link](https://arxiv.org/pdf/2607.22458v1) |
+| 2026-07-24 | Robot Learning to Communicate through Projected Visual Abstractions | [link](https://arxiv.org/pdf/2607.22434v1) |
+| 2026-07-24 | On the Identifiability of Controlled World Models | [link](https://arxiv.org/pdf/2607.22430v1) |
+| 2026-07-24 | Conformal Constraint Tightening for Chance-Constrained Motion Planning with Unknown Dynamics | [link](https://arxiv.org/pdf/2607.22409v1) |
+| 2026-07-24 | LunarFM: A Shared Multimodal Representation of the Moon's Surface | [link](https://arxiv.org/pdf/2607.22408v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-27 | RobotisSW/Task_315_Dispose_Trash_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_315_Dispose_Trash_50K) |
+| 2026-07-27 | RobotisSW/Task_315_Dispose_Trash_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_315_Dispose_Trash_30K) |
+| 2026-07-27 | RobotisSW/Task_315_Dispose_Trash_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_315_Dispose_Trash_10K) |
+| 2026-07-27 | s1eepypillow/task1_act_policy | 0 | 0 | [link](https://huggingface.co/s1eepypillow/task1_act_policy) |
 | 2026-07-26 | masternodedata1/seer-robotics.ai | 0 | 0 | [link](https://huggingface.co/masternodedata1/seer-robotics.ai) |
 | 2026-07-26 | Dexmal/DW05-Robotwin | 0 | 4 | [link](https://huggingface.co/Dexmal/DW05-Robotwin) |
 | 2026-07-26 | IvanLee/vlajepa_snack | 0 | 0 | [link](https://huggingface.co/IvanLee/vlajepa_snack) |
 | 2026-07-26 | EmpathicRobotics/vla-1.7b-qwen3-v6 | 0 | 0 | [link](https://huggingface.co/EmpathicRobotics/vla-1.7b-qwen3-v6) |
 | 2026-07-26 | VladimirRH/ruRoberta-large-medical-router | 0 | 0 | [link](https://huggingface.co/VladimirRH/ruRoberta-large-medical-router) |
 | 2026-07-26 | vlalabszoe/chatx | 0 | 0 | [link](https://huggingface.co/vlalabszoe/chatx) |
-| 2026-07-26 | mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k2-tbptt | 0 | 0 | [link](https://huggingface.co/mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k2-tbptt) |
-| 2026-07-26 | mu-vla/mu-vla-openvla-oft-libero-4-tasks-m64-k8-tbptt | 0 | 0 | [link](https://huggingface.co/mu-vla/mu-vla-openvla-oft-libero-4-tasks-m64-k8-tbptt) |
-| 2026-07-26 | Pranav070904/VLA-Maze-Solver | 0 | 0 | [link](https://huggingface.co/Pranav070904/VLA-Maze-Solver) |
-| 2026-07-26 | mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k8-tbptt | 0 | 0 | [link](https://huggingface.co/mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k8-tbptt) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| dora-rs/dora | 3852 | Rust | 1540.9 | [link](https://github.com/dora-rs/dora) |
+| softmata/horus | 393 | Rust | 157.3 | [link](https://github.com/softmata/horus) |
+| isaac-sim/IsaacLab | 7777 | Python | 3110.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| DexForce/EmbodiChain | 200 | Python | 80.1 | [link](https://github.com/DexForce/EmbodiChain) |
+| johnsutor/so101-nexus | 25 | Python | 10.1 | [link](https://github.com/johnsutor/so101-nexus) |
 | copper-project/copper-rs | 1424 | Rust | 569.7 | [link](https://github.com/copper-project/copper-rs) |
 | commaai/openpilot | 63230 | Python | 25292.1 | [link](https://github.com/commaai/openpilot) |
-| google-deepmind/mujoco | 14335 | C++ | 5734.1 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14336 | C++ | 5734.5 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 11190 | Rust | 4476.1 | [link](https://github.com/rerun-io/rerun) |
-| dora-rs/dora | 3852 | Rust | 1540.9 | [link](https://github.com/dora-rs/dora) |
 | huangjunsen0406/py-xiaozhi | 3424 | Python | 1369.7 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
-| leofan90/Awesome-World-Models | 1915 | Python | 766.1 | [link](https://github.com/leofan90/Awesome-World-Models) |
-| StanfordVL/BEHAVIOR-1K | 1595 | Python | 638.1 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| flashrt-project/FlashRT | 452 | C++ | 180.9 | [link](https://github.com/flashrt-project/FlashRT) |
-| sou350121/VLA-Handbook | 436 | HTML | 174.5 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
