@@ -1,5 +1,32 @@
 [
   {
+    "model": "kaihumanoid/dev-robotai-test-dataset",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kaihumanoid/dev-robotai-test-dataset",
+    "date": "2026-07-27",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "kaihumanoid/dev-robotai-test-model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kaihumanoid/dev-robotai-test-model",
+    "date": "2026-07-27",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "sugarpepper99/qwen-robot-lora-v2-modify",
+    "downloads": 34,
+    "likes": 0,
+    "url": "https://huggingface.co/sugarpepper99/qwen-robot-lora-v2-modify",
+    "date": "2026-07-27",
+    "keyword": "robot",
+    "score": 10.3
+  },
+  {
     "model": "kimtaey/cosmos3-robotwin-latent4-b256-16k",
     "downloads": 0,
     "likes": 0,
@@ -19,30 +46,30 @@
   },
   {
     "model": "RobotisSW/Task_315_Dispose_Trash_50K",
-    "downloads": 0,
+    "downloads": 15,
     "likes": 0,
     "url": "https://huggingface.co/RobotisSW/Task_315_Dispose_Trash_50K",
     "date": "2026-07-27",
     "keyword": "robot",
-    "score": 0.1
+    "score": 4.6
   },
   {
     "model": "RobotisSW/Task_315_Dispose_Trash_30K",
-    "downloads": 0,
+    "downloads": 15,
     "likes": 0,
     "url": "https://huggingface.co/RobotisSW/Task_315_Dispose_Trash_30K",
     "date": "2026-07-27",
     "keyword": "robot",
-    "score": 0.1
+    "score": 4.6
   },
   {
     "model": "RobotisSW/Task_315_Dispose_Trash_10K",
-    "downloads": 0,
+    "downloads": 11,
     "likes": 0,
     "url": "https://huggingface.co/RobotisSW/Task_315_Dispose_Trash_10K",
     "date": "2026-07-27",
     "keyword": "robot",
-    "score": 0.1
+    "score": 3.4
   },
   {
     "model": "taewonkoo/VLA-Adapter-SO101-push-cube-step-10000",
@@ -90,6 +117,69 @@
     "score": 0.1
   },
   {
+    "model": "rubatotree/my_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/rubatotree/my_policy",
+    "date": "2026-07-27",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ChristianZ97/satp-policy-v4.27",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
+    "date": "2026-07-27",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "UPB-RAT/my_pi05_drone_policy_test",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/UPB-RAT/my_pi05_drone_policy_test",
+    "date": "2026-07-27",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "oxomi/act_policy_so101_cube_multitask_0724",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/oxomi/act_policy_so101_cube_multitask_0724",
+    "date": "2026-07-27",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "oxomi/smolvla_policy_so101_cube_multitask_0724",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/oxomi/smolvla_policy_so101_cube_multitask_0724",
+    "date": "2026-07-27",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "oxomi/act_policy_so101_cube_multitask_0723",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/oxomi/act_policy_so101_cube_multitask_0723",
+    "date": "2026-07-27",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "oxomi/smolvla_policy_so101_cube_multitask_0723",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/oxomi/smolvla_policy_so101_cube_multitask_0723",
+    "date": "2026-07-27",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "zycsys/robocasa-cosmos-policy",
     "downloads": 17,
     "likes": 0,
@@ -100,12 +190,12 @@
   },
   {
     "model": "s1eepypillow/task1_act_policy",
-    "downloads": 0,
+    "downloads": 16,
     "likes": 0,
     "url": "https://huggingface.co/s1eepypillow/task1_act_policy",
     "date": "2026-07-27",
     "keyword": "policy",
-    "score": 0.1
+    "score": 4.9
   },
   {
     "model": "masternodedata1/seer-robotics.ai",
@@ -118,39 +208,39 @@
   },
   {
     "model": "Dexmal/DW05-Robotwin",
-    "downloads": 0,
+    "downloads": 19,
     "likes": 4,
     "url": "https://huggingface.co/Dexmal/DW05-Robotwin",
     "date": "2026-07-26",
     "keyword": "robot",
-    "score": 0.9
+    "score": 6.6
   },
   {
     "model": "IvanLee/vlajepa_snack",
-    "downloads": 0,
+    "downloads": 33,
     "likes": 0,
     "url": "https://huggingface.co/IvanLee/vlajepa_snack",
     "date": "2026-07-26",
     "keyword": "vla",
-    "score": 0.1
+    "score": 10.0
   },
   {
     "model": "EmpathicRobotics/vla-1.7b-qwen3-v6",
-    "downloads": 0,
+    "downloads": 28,
     "likes": 0,
     "url": "https://huggingface.co/EmpathicRobotics/vla-1.7b-qwen3-v6",
     "date": "2026-07-26",
     "keyword": "vla",
-    "score": 0.1
+    "score": 8.5
   },
   {
     "model": "VladimirRH/ruRoberta-large-medical-router",
-    "downloads": 0,
+    "downloads": 17,
     "likes": 0,
     "url": "https://huggingface.co/VladimirRH/ruRoberta-large-medical-router",
     "date": "2026-07-26",
     "keyword": "vla",
-    "score": 0.1
+    "score": 5.2
   },
   {
     "model": "vlalabszoe/chatx",
@@ -163,21 +253,21 @@
   },
   {
     "model": "mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k2-tbptt",
-    "downloads": 0,
+    "downloads": 11,
     "likes": 0,
     "url": "https://huggingface.co/mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k2-tbptt",
     "date": "2026-07-26",
     "keyword": "vla",
-    "score": 0.1
+    "score": 3.4
   },
   {
     "model": "mu-vla/mu-vla-openvla-oft-libero-4-tasks-m64-k8-tbptt",
-    "downloads": 0,
+    "downloads": 16,
     "likes": 0,
     "url": "https://huggingface.co/mu-vla/mu-vla-openvla-oft-libero-4-tasks-m64-k8-tbptt",
     "date": "2026-07-26",
     "keyword": "vla",
-    "score": 0.1
+    "score": 4.9
   },
   {
     "model": "Pranav070904/VLA-Maze-Solver",
@@ -199,66 +289,21 @@
   },
   {
     "model": "fabono/act_policy",
-    "downloads": 0,
+    "downloads": 46,
     "likes": 0,
     "url": "https://huggingface.co/fabono/act_policy",
     "date": "2026-07-26",
     "keyword": "policy",
-    "score": 0.1
+    "score": 13.9
   },
   {
     "model": "shimainu/my_policy",
-    "downloads": 0,
+    "downloads": 37,
     "likes": 0,
     "url": "https://huggingface.co/shimainu/my_policy",
     "date": "2026-07-26",
     "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ChristianZ97/satp-policy-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ChristianZ97/satp-policy-v2",
-    "date": "2026-07-26",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ernestknurov/act_so101_pick_and_place_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ernestknurov/act_so101_pick_and_place_policy",
-    "date": "2026-07-26",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "pdhinaka/act_pick_blue_cube_gray_box_policy",
-    "downloads": 21,
-    "likes": 0,
-    "url": "https://huggingface.co/pdhinaka/act_pick_blue_cube_gray_box_policy",
-    "date": "2026-07-26",
-    "keyword": "policy",
-    "score": 6.4
-  },
-  {
-    "model": "hiskiv/cosmos-policy-lam",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hiskiv/cosmos-policy-lam",
-    "date": "2026-07-26",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Bekhzod/TASK_01_02_multitask_pi05_policy",
-    "downloads": 32,
-    "likes": 0,
-    "url": "https://huggingface.co/Bekhzod/TASK_01_02_multitask_pi05_policy",
-    "date": "2026-07-26",
-    "keyword": "policy",
-    "score": 9.7
+    "score": 11.2
   },
   {
     "model": "SCZZ/LD4WAM_robotwin_from_scratch_lamf",
@@ -277,51 +322,6 @@
     "date": "2026-07-25",
     "keyword": "robot",
     "score": 35.8
-  },
-  {
-    "model": "mario-d-robot/qwen-image-edit-plus-nsfw-lora",
-    "downloads": 253,
-    "likes": 1,
-    "url": "https://huggingface.co/mario-d-robot/qwen-image-edit-plus-nsfw-lora",
-    "date": "2026-07-25",
-    "keyword": "robot",
-    "score": 76.2
-  },
-  {
-    "model": "SCZZ/LD4WAM_robotwin_wo_colorjitter",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/SCZZ/LD4WAM_robotwin_wo_colorjitter",
-    "date": "2026-07-25",
-    "keyword": "robot",
-    "score": 2.8
-  },
-  {
-    "model": "kfstiger/act_policy",
-    "downloads": 32,
-    "likes": 0,
-    "url": "https://huggingface.co/kfstiger/act_policy",
-    "date": "2026-07-25",
-    "keyword": "policy",
-    "score": 9.7
-  },
-  {
-    "model": "chrisluo5311/Policy-Gradient-Pixelcopter-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/chrisluo5311/Policy-Gradient-Pixelcopter-v2",
-    "date": "2026-07-25",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "mario-d-robot/Qwen-Image-Edit-LoRA-Collection",
-    "downloads": 27,
-    "likes": 0,
-    "url": "https://huggingface.co/mario-d-robot/Qwen-Image-Edit-LoRA-Collection",
-    "date": "2026-07-24",
-    "keyword": "robot",
-    "score": 8.2
   },
   {
     "model": "physicalairi/molmoact2-line-transfer-lora-vlm",
@@ -370,12 +370,12 @@
   },
   {
     "model": "physicalai-bmi/efa-1",
-    "downloads": 121,
+    "downloads": 122,
     "likes": 0,
     "url": "https://huggingface.co/physicalai-bmi/efa-1",
     "date": "2026-07-23",
     "keyword": "physical ai",
-    "score": 36.4
+    "score": 36.7
   },
   {
     "model": "physicalai-bmi/efa-2-acrobot",
@@ -388,12 +388,12 @@
   },
   {
     "model": "physicalai-bmi/efa-2-pendulum",
-    "downloads": 20,
+    "downloads": 21,
     "likes": 0,
     "url": "https://huggingface.co/physicalai-bmi/efa-2-pendulum",
     "date": "2026-07-23",
     "keyword": "physical ai",
-    "score": 6.1
+    "score": 6.4
   },
   {
     "model": "eurecat-robotics/pi0-umilingo-pickplace-v1",
@@ -487,12 +487,12 @@
   },
   {
     "model": "EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b",
-    "downloads": 280,
+    "downloads": 281,
     "likes": 0,
     "url": "https://huggingface.co/EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b",
     "date": "2026-07-22",
     "keyword": "robotics",
-    "score": 84.1
+    "score": 84.4
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp06-world-model-stage1-full-epoch3-stage2-lora-epoch3",
@@ -586,30 +586,30 @@
   },
   {
     "model": "SEU-PAISys/Embodied.cpp",
-    "downloads": 344,
+    "downloads": 356,
     "likes": 4,
     "url": "https://huggingface.co/SEU-PAISys/Embodied.cpp",
     "date": "2026-07-19",
     "keyword": "embodied",
-    "score": 104.1
+    "score": 107.7
   },
   {
     "model": "sasa2000/Hy-Embodied-VLM-1.0-Text-Only",
-    "downloads": 93,
+    "downloads": 94,
     "likes": 0,
     "url": "https://huggingface.co/sasa2000/Hy-Embodied-VLM-1.0-Text-Only",
     "date": "2026-07-18",
     "keyword": "embodied",
-    "score": 28.0
+    "score": 28.3
   },
   {
     "model": "tencent/Hy-Embodied-RxBrain-1.0",
-    "downloads": 287,
-    "likes": 51,
+    "downloads": 291,
+    "likes": 52,
     "url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
     "date": "2026-07-18",
     "keyword": "embodied",
-    "score": 96.4
+    "score": 97.8
   },
   {
     "model": "Lislaam/coinrun-trained-world-model",
@@ -658,12 +658,12 @@
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-full-epoch1",
-    "downloads": 52,
+    "downloads": 53,
     "likes": 0,
     "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-full-epoch1",
     "date": "2026-07-16",
     "keyword": "world model",
-    "score": 15.7
+    "score": 16.0
   },
   {
     "model": "physicalai-bmi/nano-vla-pixels-dart",
@@ -676,12 +676,12 @@
   },
   {
     "model": "tencent/Hy-Embodied-VLM-1.0",
-    "downloads": 459,
+    "downloads": 503,
     "likes": 22,
     "url": "https://huggingface.co/tencent/Hy-Embodied-VLM-1.0",
     "date": "2026-07-15",
     "keyword": "embodied",
-    "score": 142.2
+    "score": 155.4
   },
   {
     "model": "physicalai-bmi/orbital-landing-tgo",
