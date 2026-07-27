@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-27 21:58 UTC
+Last Updated: 2026-07-27 22:56 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -100,7 +100,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | AtsushiSakai/PythonRobotics | 30154 | Python | 12061.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16068 | Python | 6427.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15560 | C++ | 6224.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14348 | C++ | 5739.3 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14349 | C++ | 5739.7 | [link](https://github.com/google-deepmind/mujoco) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -125,10 +125,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-27 | Encord is collecting brain-wave data to solve physical AI's training data crisis - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2RHdDBCTXJoMTZ3azk2R0tqMTZjYmhvZV9PRU8wVnF5R2VyTTN6a285Zy1CVzJodUNTWnJvNmhvenRXMzdTZm1MTmdNTW40QjJ2M1lSOUtVbTBfdjhYc3Q3LTFxOXQ3MDBlcW0wTUhpTTR2SzQ5cnFkRTJoLWlvRzhlcTVrU0dCS0hGLTJHQ2ZIVEVtekJRaUV3VXVTOTljNVhRaTREeXpXZnM?oc=5) |
 | 2026-07-27 | Kobe Steel invests in Japanese startup Noetra for physical AI development - Yieh Corp. | physical ai startup | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxNanppdzlOMDE1Y0M0QWdmNGRiSHZtNk5sQlhJcXJkdzIxeHJwTzlxVWUzc0hVUllzM3YxX0xhTVVCVWxUSFBsa0dhWEFYdFR3aDFXOHV2R0Rtc3g3dHRXUHJoOTJDM3Y3RmcxNWdwcHVMVjJ4UzJ3TkhCdmxyVHpnd3Z5U3A1X0F2YnZ0TkFCWldPdXYyY2RES3diMng3U3l4Z3Q4dHMtM0MwUkpCZVE?oc=5) |
 | 2026-07-27 | Mapping Southeast Asia’s physical AI startup ecosystem - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2hlMllwZVZaVlRJUzlWb3FqNjZmVGVyak9wMlY2ZEZhRmhFWi0zTnpGTThUcWVVeHd4MWtzSVA0NmxjU05YX2I0WkF0S0tOWER6SE4xN0FvbGVkaXRaQmp4ZFl3a2lzZFpmajU5amNUeWxISTZ2bUJmNFctX3hXVGpNLU9uWlZZQ0MtNDNNOUszOVVCaVBvWA?oc=5) |
-| 2026-07-27 | Schneider Electric’s VC Arm: The AI Buildout Is Creating A New Industrial Investment Cycle - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjU4dUE5N2ktcWNJQk1HS3VDVDJPWm9Hc0ZfV0p6bXJTTE0yLWg0cUctcEotbnBXSnJwOGJ4SERiU0dnaE9xdk5Sc3VKc294MHBTdy1kMVprelVFMnJWcGUwQlRMYTBYZkNoWXE5VEtieW45NTNiaTk4dXpPUm50QUdFTExKYUZWNUd5N0NVUlVLNW05S0E?oc=5) |
 | 2026-07-27 | Italian startup unveils Gene.01 humanoid robot with 'smart skin' | Generative Bionics raised $81 mn in seed funding | Inshorts - Inshorts | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2FKWHpJZ09ZNkZNOFNvRGthSmNHWk1QSVE5SmVMdVhnQnNVV19NMy1acS0tUGxZSVk0bkk4aHFidmlzZ3c1ZC1pM040NWhfbzRWNEpoOU5GN29UU1BLWEdlcXB3NkVmLXBYV0dTZW03UzByQ0wwQXB5SDZhLXhDbXFHX3ZCejlzMFVFRFBEYzd3RjVJZXVZZmFnNElhNFl4SmUwdzJSSXZWb3VhT2oxcdIBsAFBVV95cUxOU2FKWHpJZ09ZNkZNOFNvRGthSmNHWk1QSVE5SmVMdVhnQnNVV19NMy1acS0tUGxZSVk0bkk4aHFidmlzZ3c1ZC1pM040NWhfbzRWNEpoOU5GN29UU1BLWEdlcXB3NkVmLXBYV0dTZW03UzByQ0wwQXB5SDZhLXhDbXFHX3ZCejlzMFVFRFBEYzd3RjVJZXVZZmFnNElhNFl4SmUwdzJSSXZWb3VhT2oxcQ?oc=5) |
 | 2026-07-26 | Mitsubishi Motors teams up with startup to mass produce humanoid robots - 毎日新聞 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMic0FVX3lxTE1CNlRWVlRneEFjZnc5bVZwNjExVG8xd3IyRnJYUEw3azZnM1d5TEt1YXJaOTA2WGpuLWhqcVliYld1RFZmb19BOFpPVUFRME1UZW9RM1oyZjJHcTFONkRMSFdFeF9waUQyQWxzLTR5SU1iajQ?oc=5) |
 | 2026-07-25 | Humanoid startup Agility Robotics doesn't want 'coin-operated employees' - AOL.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFJGdVducEtSNUVtN2ZoSzJnQ00td1JFbmN1ak9UQ05GSlVrcC16YjFPWWp2dHY0bnhvdFlzRGtHbjkyeURRdHFpZFBpZ2p0eFc0ZWE0eDhtT2FJMzZrNHpGZ2pzMVNjYTAtOU1sYWFnT2VxVDRHc3psdmk3dW5SUTVnXzJGRmFlVGtMZA?oc=5) |
+| 2026-07-24 | The Week’s 10 Biggest Funding Rounds: Physical AI Startup Atoms Leads In Varied Week For Large Deals - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0JqNzY4MnFUYnpxN3ZZX3lBZ1pENU9MQkVTVWdjb053NEI4aUNueGJ3MndpOTQxWlFJMUZWcVZzSjhVNWNuMlE2VExjTldPQUw5cmtYRFdnTHhmV3laRHYyQmVxM0JpZDZSVXVoXzBrSEpvZVFmTXZIeEE2dXVseVMtTU8zM0plcWMyREdValljeWpBaWJUYw?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
