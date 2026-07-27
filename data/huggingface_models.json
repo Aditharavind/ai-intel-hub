@@ -1,5 +1,32 @@
 [
   {
+    "model": "wijan/Robot-Action-Planner-GGUF",
+    "downloads": 308,
+    "likes": 0,
+    "url": "https://huggingface.co/wijan/Robot-Action-Planner-GGUF",
+    "date": "2026-07-27",
+    "keyword": "robot",
+    "score": 92.5
+  },
+  {
+    "model": "wijan/Robot-Action-Planner",
+    "downloads": 51,
+    "likes": 0,
+    "url": "https://huggingface.co/wijan/Robot-Action-Planner",
+    "date": "2026-07-27",
+    "keyword": "robot",
+    "score": 15.4
+  },
+  {
+    "model": "LuEduSoHu/robot_learning_tutorial_diffusion_0726_1024",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/LuEduSoHu/robot_learning_tutorial_diffusion_0726_1024",
+    "date": "2026-07-27",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "kaihumanoid/dev-robotai-test-dataset",
     "downloads": 0,
     "likes": 0,
@@ -72,6 +99,33 @@
     "score": 3.4
   },
   {
+    "model": "UPB-RAT-VLA/pi05_summerschool",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/UPB-RAT-VLA/pi05_summerschool",
+    "date": "2026-07-27",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Aikwed/lingbot-vla-pick-and-place-toys",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Aikwed/lingbot-vla-pick-and-place-toys",
+    "date": "2026-07-27",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "tsk-arasu/armnn-mfv-poc-004-npy-vla-overflow",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tsk-arasu/armnn-mfv-poc-004-npy-vla-overflow",
+    "date": "2026-07-27",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "taewonkoo/VLA-Adapter-SO101-push-cube-step-10000",
     "downloads": 0,
     "likes": 0,
@@ -117,10 +171,19 @@
     "score": 0.1
   },
   {
-    "model": "rubatotree/my_policy",
+    "model": "arendjan/physical-ai-studio-environment",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/rubatotree/my_policy",
+    "url": "https://huggingface.co/arendjan/physical-ai-studio-environment",
+    "date": "2026-07-27",
+    "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-07-24_shakeitup7_accelero_10kHz_nfft_512",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-07-24_shakeitup7_accelero_10kHz_nfft_512",
     "date": "2026-07-27",
     "keyword": "policy",
     "score": 0.1
@@ -130,6 +193,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
+    "date": "2026-07-27",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "rubatotree/my_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/rubatotree/my_policy",
     "date": "2026-07-27",
     "keyword": "policy",
     "score": 0.1
@@ -207,15 +279,6 @@
     "score": 0.1
   },
   {
-    "model": "Dexmal/DW05-Robotwin",
-    "downloads": 19,
-    "likes": 4,
-    "url": "https://huggingface.co/Dexmal/DW05-Robotwin",
-    "date": "2026-07-26",
-    "keyword": "robot",
-    "score": 6.6
-  },
-  {
     "model": "IvanLee/vlajepa_snack",
     "downloads": 33,
     "likes": 0,
@@ -252,33 +315,6 @@
     "score": 0.1
   },
   {
-    "model": "mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k2-tbptt",
-    "downloads": 11,
-    "likes": 0,
-    "url": "https://huggingface.co/mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-m64-k2-tbptt",
-    "date": "2026-07-26",
-    "keyword": "vla",
-    "score": 3.4
-  },
-  {
-    "model": "mu-vla/mu-vla-openvla-oft-libero-4-tasks-m64-k8-tbptt",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/mu-vla/mu-vla-openvla-oft-libero-4-tasks-m64-k8-tbptt",
-    "date": "2026-07-26",
-    "keyword": "vla",
-    "score": 4.9
-  },
-  {
-    "model": "Pranav070904/VLA-Maze-Solver",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Pranav070904/VLA-Maze-Solver",
-    "date": "2026-07-26",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "chrisluo5311/Policy-Gradient-FlappyBird-v2",
     "downloads": 0,
     "likes": 0,
@@ -295,33 +331,6 @@
     "date": "2026-07-26",
     "keyword": "policy",
     "score": 13.9
-  },
-  {
-    "model": "shimainu/my_policy",
-    "downloads": 37,
-    "likes": 0,
-    "url": "https://huggingface.co/shimainu/my_policy",
-    "date": "2026-07-26",
-    "keyword": "policy",
-    "score": 11.2
-  },
-  {
-    "model": "SCZZ/LD4WAM_robotwin_from_scratch_lamf",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/SCZZ/LD4WAM_robotwin_from_scratch_lamf",
-    "date": "2026-07-25",
-    "keyword": "robot",
-    "score": 1.9
-  },
-  {
-    "model": "YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric",
-    "downloads": 119,
-    "likes": 0,
-    "url": "https://huggingface.co/YinonDouchan/smolvla_mobile_robot_lift_pick_and_place_single_multi_egocentric",
-    "date": "2026-07-25",
-    "keyword": "robot",
-    "score": 35.8
   },
   {
     "model": "physicalairi/molmoact2-line-transfer-lora-vlm",
@@ -708,15 +717,6 @@
     "url": "https://huggingface.co/lyhisme/Navigation_Agent",
     "date": "2026-07-15",
     "keyword": "navigation",
-    "score": 0.1
-  },
-  {
-    "model": "physicalai-bmi/orbital-formation-bc",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/physicalai-bmi/orbital-formation-bc",
-    "date": "2026-07-14",
-    "keyword": "physical ai",
     "score": 0.1
   },
   {

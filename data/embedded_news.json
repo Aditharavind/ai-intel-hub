@@ -1,5 +1,12 @@
 [
   {
+    "title": "Neighborhood Bulletin Boards, circa 1982",
+    "source": "Hackaday",
+    "date": "2026-07-27",
+    "url": "https://hackaday.com/2026/07/27/neighborhood-bulletin-boards-circa-1982/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/community-cable-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When the Internet first started gaining mainstream popularity in the late 90s, many optimists claimed that it would bring people together by reducing barriers to communication. That ideal hasn&#8217;t exactly <a class=\"read-more\" href=\"https://hackaday.com/2026/07/27/neighborhood-bulletin-boards-circa-1982/\">&#8230;read more</a>"
+  },
+  {
     "title": "A Music Box With A Very Modern Heart",
     "source": "Hackaday",
     "date": "2026-07-27",
@@ -21,6 +28,20 @@
     "summary": "<div><img alt=\"A plastic device sits on a desk, with a computer display and an oscilloscope behind it. A fiber-optic cable runs from the device to a laser diode source.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/optical_cavity.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Optical cavities – two mirrors arranged to reflect light multiple times between them – form the basis of lasers and certain optical filters. Since any angle between the two mirrors <a class=\"read-more\" href=\"https://hackaday.com/2026/07/26/2026-frikkin-lasers-challenge-measuring-nanometer-scale-displacements-with-an-optical-cavity/\">&#8230;read more</a>"
   },
   {
+    "title": "Jetway SMC-ARK1 – A Rockchip RK3588 SMARC 2.1 compliant system-on-module",
+    "source": "CNX Software",
+    "date": "2026-07-27",
+    "url": "https://www.cnx-software.com/2026/07/27/jetway-smc-ark1-a-rockchip-rk3588-smarc-2-1-compliant-system-on-module/",
+    "summary": "<div><img alt=\"Rockchip RK3588 SMARC 2.1 system-on-module\" class=\"attachment-medium size-medium wp-post-image\" height=\"532\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Rockchip-RK3588-SMARC-2.1-system-on-module-720x532.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Jetway has introduced the SMC-ARK1, a new SMARC system-on-module built around the Rockchip RK3588 octa-core processor. Designed for embedded computing and edge AI applications, the board includes up to 16GB of LPDDR4x memory and up to 128GB of eMMC flash, dual GbE, and an Ampak AP6398SV Wi-Fi 5 and Bluetooth 5.0 module, alongside a dedicated HDMI input via an I-PEX FPC connector. We&#8217;ve previously written about the Geniatech SOM-3568-SMARC module based on the Rockchip RK3568, but Jetway&#8217;s SMC-ARK1 appears to be the first SMARC module we&#8217;ve seen based on the Rockchip RK3588. The module follows the SMARC 2.1 short form-factor specification (82 × 50 mm) and can be used with compatible SMARC carrier boards. Jetway SMC-ARK1 specifications: SoC – Rockchip RK3588 octa-core processor with CPU – 4x Cortex‑A76  cores @ up to 2.4 GHz, 4x Cortex‑A55 cores @ 1.8 GHz GPU – Arm Mali-G610 MP4 GPU Video decoder – 8Kp60 H.265, VP9, AVS2, 8Kp30 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/27/jetway-smc-ark1-a-rockchip-rk3588-smarc-2-1-compliant-system-on-module/\">Jetway SMC-ARK1 &#8211; A Rockchip RK3588 SMARC 2.1 compliant system-on-module</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Orange Pi 5B SBC gets Ubuntu Desktop and Audio Production OS images with Bluetooth/Wi-Fi fix missed for 8 years",
+    "source": "CNX Software",
+    "date": "2026-07-27",
+    "url": "https://www.cnx-software.com/2026/07/27/orange-pi-5b-sbc-gets-ubuntu-desktop-and-audio-production-os-images-with-bluetooth-wi-fi-fix-missed-for-8-years/",
+    "summary": "<div><img alt=\"Orange Pi 5B Ubuntu WiFi Bluetooth Fix\" class=\"attachment-medium size-medium wp-post-image\" height=\"509\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Orange-Pi-5B-Ubuntu-WiFi-Bluetooth-Fix-720x509.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Joshua Riek&#8217;s ubuntu-rockchip project helped many run working OS images for their Rockchip SBCs, but due to burnout and lack of support, he decided to step away in late 2024, and the project is now archived. However, that doesn&#8217;t mean his efforts have gone to waste. GitHub user defcom5-rockchip forked the project and released two Ubuntu 24.04-based distributions working on the Orange Pi 5B, notably integrating two fixes for the Ampak AP6275P WiFi and Bluetooth module, including one that Cypress apparently already fixed in 2018, but took a while to be integrated into Rockchip OS images. Short description of the two OS images Pi Desktop v1.0-beta &#8211; A curated daily-driver desktop: 4K@120 via custom VOP2/dclk kernel work, hardware video decode, zero snaps/telemetry, and &#8220;self-healing Bluetooth&#8221;: a background service that revives the AP6275P radio wedge in ~10 seconds automatically. Pi Studio v1.3 — the audio-production sibling: low-latency kernel (PREEMPT/1000Hz), Sonic Pi [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/27/orange-pi-5b-sbc-gets-ubuntu-desktop-and-audio-production-os-images-with-bluetooth-wi-fi-fix-missed-for-8-years/\">Orange Pi 5B SBC gets Ubuntu Desktop and Audio Production OS images with Bluetooth/Wi-Fi fix missed for 8 years</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Redragon K688 Pro – An affordable tri-mode gasket mechanical keyboard with full numpad and media knob (Sponsored)",
     "source": "CNX Software",
     "date": "2026-07-27",
@@ -33,6 +54,13 @@
     "date": "2026-07-27",
     "url": "https://www.cnx-software.com/2026/07/27/open-rc-spotter-is-an-open-source-esp32-telemetry-and-data-logger-for-rc-cars-and-toys/",
     "summary": "<div><img alt=\"Open RC Spotter\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Open-RC-Spotter-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Jake Wachlin (Energy Labs) has designed the Open RC Spotter, an open-source ESP32-based telemetry and data logger for RC cars, trucks, and other RC toys. The platform logs synchronized GPS position, acceleration, gyroscope, steering, throttle, battery voltage, temperature, and lap timing data to a microSD card, while also supporting live telemetry over Wi-Fi and ESP-NOW. We have previously written about telemetry and data-logging hardware designed for full-sized vehicles, such as the Macchina A0 ESP32 CAN board, which supports OBD-II diagnostics and RaceChrono integration. Compared to that, this ESP32-based logger is designed for RC cars and trucks, combining GPS, IMU, PWM monitoring, and onboard data logging in a compact ESP32-based platform. Open RC Spotter specifications: Wireless module – ESP32-WROOM-32E-N4 SoC – ESP32 dual-core Tensilica LX6 microcontroller @ up to 240 MHz with 520KB SRAM Storage – 4MB flash Wireless – 2.4 GHz WiFi 4 and Bluetooth 4.2 BR/LE connectivity, built-in PCB antenna [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/27/open-rc-spotter-is-an-open-source-esp32-telemetry-and-data-logger-for-rc-cars-and-toys/\">Open RC Spotter is an open-source ESP32 telemetry and data logger for RC cars and toys</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Lockheed Martin Ventures fund eyes UK, European investments",
+    "source": "Electronics Weekly",
+    "date": "2026-07-27",
+    "url": "https://www.electronicsweekly.com/news/business/finance/lockheed-martin-ventures-fund-eyes-uk-europe-investments-2026-07/",
+    "summary": "<p>Lockheed Martin is expanding its venture capital fund &#8211; Lockheed Martin Ventures &#8211; for investing in promising defence technologies in British and European markets. The aerospace and defence company&#8217;s $1 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/lockheed-martin-ventures-fund-eyes-uk-europe-investments-2026-07/\">Lockheed Martin Ventures fund eyes UK, European investments</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Siemens adds characterisation AI agent to automate design iteration",
@@ -103,13 +131,6 @@
     "date": "2026-07-26",
     "url": "https://hackaday.com/2026/07/26/ever-seen-claude-use-fusion-360/",
     "summary": "<div><img alt=\"All the parts of a digital clock. Photo by Lee Hutchinson.\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/07/piclock.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We&#8217;ve all done it before: a simple project that escalated to the point of extreme overengineering. But what&#8217;s less common is [Lee Hutchinson]&#8217;s digital clock, whose case is (somewhat-successfully) designed <a class=\"read-more\" href=\"https://hackaday.com/2026/07/26/ever-seen-claude-use-fusion-360/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Repairing a “for parts” Canon 7D Mark II DSLR",
-    "source": "Hackaday",
-    "date": "2026-07-26",
-    "url": "https://hackaday.com/2026/07/26/repairing-a-for-parts-canon-7d-mark-ii-dslr/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"523\" src=\"https://hackaday.com/wp-content/uploads/2026/07/disassembled_canon_7d_mark_ii_body_dieter_vansteenwegen.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The exciting part of buying a &#8216;broken, for parts&#8217; off a site like EBay is that you rarely know exactly just how &#8216;broken&#8217; it truly is. Even if the seller <a class=\"read-more\" href=\"https://hackaday.com/2026/07/26/repairing-a-for-parts-canon-7d-mark-ii-dslr/\">&#8230;read more</a>"
   },
   {
     "title": "Creality Pika review – An affordable, portable 3D scanner with infrared and blue laser modes",
@@ -224,13 +245,6 @@
     "summary": "<p>The most read stories on the site cover Raspberry Pi expanded its Touch Display 2 devices, a falling SOX index, and Chinese president Xi Xinping addressing the World AI Conference in Shanghai. </p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-raspberry-pi-display-dsit-abolished-intel-layoffs-2026-07/\">Most Read &#8211; Raspberry Pi display, DSIT abolished, Intel layoffs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Intel makes Q2 loss of $11bn",
-    "source": "Electronics Weekly",
-    "date": "2026-07-24",
-    "url": "https://www.electronicsweekly.com/news/business/intel-loses-11m-in-q2-2026-07/",
-    "summary": "<p>Intel had Q2 revenue of $16.1 billion, up 25% YoY, for a net  loss of $11 billion compared to the $2.9 billion loss in Q2 2025. Gross margin was 40.4% [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/intel-loses-11m-in-q2-2026-07/\">Intel makes Q2 loss of $11bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "John Park’s CircuitPython Parsec: Bitmaptools Rotozoom ZOOM",
     "source": "Adafruit",
     "date": "2026-07-24",
@@ -329,13 +343,6 @@
     "summary": "<div><img alt=\"nRF54L15 Discovery Devboard (+ nRF52820 CMSIS DAP)\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/nRF54L15-Discovery-Devboard-nRF52820-CMSIS-DAP-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The nRF54L15 Discovery is a compact wireless devboard with an onboard nRF52820 CMSIS-DAP debugger/programmer for Bluetooth LE, Thread, Zigbee, Matter, NFC, and other 2.4 GHz IoT applications. Its snap-apart design allows the target and interface MCUs to be used as two standalone boards. In the past, we have written about various development boards based on the Nordic nRF54L series, including the Seeed Studio XIAO nRF54L15, XIAO nRF54LM20A (Sense), and the nRF54L15 Connect Kit. The nRF54L15 Discovery board further integrates a snappable nRF52820 CMSIS-DAP debugger/programmer section. It also includes an nPM1300 PMIC with 32–800 mA LiPo battery charging and USB-C PD support, along with a TPS63900 buck-boost converter configurable for 1.8V or 3.3V I/O operation. nRF54L15 Discovery specifications: Wireless MCU – Nordic Semi nRF54L15 wireless SoC CPU Arm Cortex-M33 @ up to 128 MHz RISC-V coprocessor for “software-defined peripheral” Memory – 256 KB SRAM Storage – 1.5MB Non-volatile Memory (NVM) Wireless Bluetooth [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/23/icy-electronics-nrf54l15-discovery-devboard-integrates-a-snappable-nrf52820-cmsis-dap-debugger/\">Icy Electronics nRF54L15 Discovery devboard integrates a snappable nRF52820 CMSIS-DAP debugger</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "$99 Xteink X4 Pro 4.3-inch touchscreen eReader to support CrossPoint Reader open-source firmware",
-    "source": "CNX Software",
-    "date": "2026-07-23",
-    "url": "https://www.cnx-software.com/2026/07/23/99-xteink-x4-pro-4-3-inch-touchscreen-ereader-to-support-crosspoint-reader-open-source-firmware/",
-    "summary": "<div><img alt=\"Xteink X4 Pro\" class=\"attachment-medium size-medium wp-post-image\" height=\"613\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Xteink-X4-Pro-720x613.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Xteink X4 Pro is a pocket-sized eReader with a 4.3-inch touchscreen E Ink display, a 16GB microSD card, 2.4 GHz WiFi and Bluetooth wireless connectivity, and a 1100 mAh battery. Previous models like the X3 and X4 e-readers were based on the ESP32-C3 RISC-V microcontroller, but the company has not disclosed which MCU was used in the new X4 Pro model. However, a recent comment on GitHub points to the X4 Pro featuring a more powerful ESP32-S3 microcontroller. Xteink X4 Pro specifications: SoC &#8211; ESP32-S3 microcontroller (TBC) with 2.4 GHz WiFi 4 and Bluetooth wireless connectivity Storage &#8211; 16 GB microSD card; expandable up to 256 GB Display 4.3-inch touchscreen E Ink display; 219 PPI Dual-tone front light Supported Formats (with default firmware) Document: EPUB, TXT Image: JPG, BMP Fonts: BIN, XTF Misc Home touch button Power, Reset, Previous, and Next buttons Built-in magnets for connection to the back of [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/23/99-xteink-x4-pro-4-3-inch-touchscreen-ereader-to-support-crosspoint-reader-open-source-firmware/\">$99 Xteink X4 Pro 4.3-inch touchscreen eReader to support CrossPoint Reader open-source firmware</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
     "title": "Low-Power Embedded Design: Are You Optimizing the Wrong Thing?",
     "source": "Embedded.com",
     "date": "2026-07-23",
@@ -376,13 +383,6 @@
     "date": "2026-07-23",
     "url": "https://www.eejournal.com/industry_news/advanced-energy-launches-1100-w-pfc-module-with-the-industrys-highest-power-density-in-a-half-brick-form-factor/",
     "summary": "Advanced Energy Industries, Inc. (Nasdaq: AEIS), a global leader in highly engineered, precision power conversion, measurement and control solutions, today announced a new 1100 W board-mounted power factor correction (PFC) module — the industry&#8217;s first solution of its kind in a half-brick form factor. Advanced Energy’s AIH03ZPFC is designed for applications in industrial, medical, defense &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/advanced-energy-launches-1100-w-pfc-module-with-the-industrys-highest-power-density-in-a-half-brick-form-factor/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Advanced Energy Launches 1100 W PFC Module with the Industry&#8217;s Highest Power Density in a Half-Brick Form Factor\"</span></a>"
-  },
-  {
-    "title": "Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90",
-    "source": "CNX Software",
-    "date": "2026-07-22",
-    "url": "https://www.cnx-software.com/2026/07/22/arduino-uno-q-arcade-bundle-lets-you-build-a-custom-retro-gaming-console/",
-    "summary": "<div><img alt=\"Arduino UNO Q Arcade bundle\" class=\"attachment-medium size-medium wp-post-image\" height=\"478\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Arduino-UNO-Q-Arcade-bundle-1-720x478.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Arduino UNO Q Arcade bundle is a kit designed to build a custom retro gaming console. The bundle combines the Arduino UNO Q 4GB SBC with a set of daisy-chainable Modulino I2C modules, allowing users to create a custom game controller without requiring complex wiring or breadboards. The kit relies on Qwiic connectors to daisy-chain the input modules, whose data is then processed by the UNO Q to emulate standard HIDs for gaming or development. The plastic parts can be 3D printed by the user. Arduino UNO Q Arcade bundle contents: Arduino UNO Q 4GB – A Qualcomm Dragonwing QRB2210 SBC with an onboard eMMC, running Debian Linux Modulino Joystick – An I2C node configurable for simulating D-pad inputs or mouse cursor movements Modulino Buttons – An I2C node for mapping single keystrokes, multi-key shortcuts, or mouse clicks Modulino Movement – A 6-axis IMU node for motion-based mouse control Note: [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/22/arduino-uno-q-arcade-bundle-lets-you-build-a-custom-retro-gaming-console/\">Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Hybrid Microcontrollers Reshape Embedded Computing",
