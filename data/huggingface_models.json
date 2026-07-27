@@ -1,5 +1,32 @@
 [
   {
+    "model": "NONHUMAN-RESEARCH/robott_smoke2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/NONHUMAN-RESEARCH/robott_smoke2",
+    "date": "2026-07-27",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
+    "downloads": 185,
+    "likes": 0,
+    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
+    "date": "2026-07-27",
+    "keyword": "vla",
+    "score": 55.6
+  },
+  {
+    "model": "hvsr-robotics/wojtek-stiff-height-locomotion",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/hvsr-robotics/wojtek-stiff-height-locomotion",
+    "date": "2026-07-27",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "wijan/Robot-Action-Planner-GGUF",
     "downloads": 308,
     "likes": 0,
@@ -63,15 +90,6 @@
     "score": 0.1
   },
   {
-    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
-    "downloads": 185,
-    "likes": 0,
-    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
-    "date": "2026-07-27",
-    "keyword": "vla",
-    "score": 55.6
-  },
-  {
     "model": "RobotisSW/Task_315_Dispose_Trash_50K",
     "downloads": 15,
     "likes": 0,
@@ -90,13 +108,22 @@
     "score": 4.6
   },
   {
-    "model": "RobotisSW/Task_315_Dispose_Trash_10K",
-    "downloads": 11,
+    "model": "VladShash/qwen3-feedback-grpo-fl0.0-step220",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_315_Dispose_Trash_10K",
+    "url": "https://huggingface.co/VladShash/qwen3-feedback-grpo-fl0.0-step220",
     "date": "2026-07-27",
-    "keyword": "robot",
-    "score": 3.4
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "VladShash/qwen3-feedback-grpo-fl0.05-step230",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VladShash/qwen3-feedback-grpo-fl0.05-step230",
+    "date": "2026-07-27",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "VladimirRH/Phi-4-mini-instruct-Q4_K_M-GGUF",
@@ -178,15 +205,6 @@
     "date": "2026-07-27",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "sii-research/tau-0-vla",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/sii-research/tau-0-vla",
-    "date": "2026-07-27",
-    "keyword": "vla",
-    "score": 0.3
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1",
@@ -369,15 +387,6 @@
     "score": 0.1
   },
   {
-    "model": "IvanLee/vlajepa_snack",
-    "downloads": 33,
-    "likes": 0,
-    "url": "https://huggingface.co/IvanLee/vlajepa_snack",
-    "date": "2026-07-26",
-    "keyword": "vla",
-    "score": 10.0
-  },
-  {
     "model": "physicalairi/molmoact2-line-transfer-lora-vlm",
     "downloads": 24,
     "likes": 0,
@@ -538,15 +547,6 @@
     "date": "2026-07-22",
     "keyword": "robotics",
     "score": 0.1
-  },
-  {
-    "model": "EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b",
-    "downloads": 281,
-    "likes": 0,
-    "url": "https://huggingface.co/EmmaScharfmann/sustainability-robotics-classifier-qwen2.5-7b",
-    "date": "2026-07-22",
-    "keyword": "robotics",
-    "score": 84.4
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp06-world-model-stage1-full-epoch3-stage2-lora-epoch3",
