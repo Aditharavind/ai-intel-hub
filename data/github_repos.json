@@ -1,13 +1,13 @@
 [
   {
     "repo": "NVIDIA/skills",
-    "stars": 2694,
+    "stars": 2695,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-07-27",
     "topic": "physical-ai",
-    "score": 1077.7
+    "score": 1078.1
   },
   {
     "repo": "copper-project/copper-rs",
@@ -41,13 +41,13 @@
   },
   {
     "repo": "alireza787b/mavsdk_drone_show",
-    "stars": 308,
+    "stars": 309,
     "language": "Python",
     "description": "Open-source MAVLink fleet operations for PX4: SITL, drone shows, search and rescue, cooperative autonomy, and field validation",
     "url": "https://github.com/alireza787b/mavsdk_drone_show",
     "date": "2026-07-27",
     "topic": "physical-ai",
-    "score": 123.3
+    "score": 123.7
   },
   {
     "repo": "commaai/openpilot",
@@ -58,6 +58,26 @@
     "date": "2026-07-27",
     "topic": "robotics",
     "score": 25295.3
+  },
+  {
+    "repo": "AtsushiSakai/PythonRobotics",
+    "stars": 30153,
+    "language": "Python",
+    "description": "Python sample codes and textbook for robotics algorithms.",
+    "url": "https://github.com/AtsushiSakai/PythonRobotics",
+    "date": "2026-07-27",
+    "topic": "robotics",
+    "score": 12061.3
+  },
+  {
+    "repo": "zauberzeug/nicegui",
+    "stars": 16068,
+    "language": "Python",
+    "description": "Create web-based user interfaces with Python. The nice way.",
+    "url": "https://github.com/zauberzeug/nicegui",
+    "date": "2026-07-27",
+    "topic": "robotics",
+    "score": 6427.3
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -71,13 +91,23 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14346,
+    "stars": 14347,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-07-27",
     "topic": "robotics",
-    "score": 5738.5
+    "score": 5738.9
+  },
+  {
+    "repo": "kornia/kornia",
+    "stars": 11289,
+    "language": "Python",
+    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "url": "https://github.com/kornia/kornia",
+    "date": "2026-07-27",
+    "topic": "robotics",
+    "score": 4515.7
   },
   {
     "repo": "rerun-io/rerun",
@@ -108,6 +138,16 @@
     "date": "2026-07-27",
     "topic": "embodied-ai",
     "score": 1541.7
+  },
+  {
+    "repo": "StanfordVL/BEHAVIOR-1K",
+    "stars": 1598,
+    "language": "Python",
+    "description": "BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx",
+    "url": "https://github.com/StanfordVL/BEHAVIOR-1K",
+    "date": "2026-07-27",
+    "topic": "embodied-ai",
+    "score": 639.3
   },
   {
     "repo": "worldbench/awesome-3d-4d-world-models",
@@ -161,13 +201,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5709,
+    "stars": 5710,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-27",
     "topic": "world-model",
-    "score": 2283.7
+    "score": 2284.1
   },
   {
     "repo": "galilai-group/stable-worldmodel",
@@ -220,6 +260,16 @@
     "score": 3113.7
   },
   {
+    "repo": "vikashplus/robohive",
+    "stars": 630,
+    "language": "Python",
+    "description": "A unified framework for robot learning",
+    "url": "https://github.com/vikashplus/robohive",
+    "date": "2026-07-27",
+    "topic": "robot-learning",
+    "score": 252.1
+  },
+  {
     "repo": "DexForce/EmbodiChain",
     "stars": 200,
     "language": "Python",
@@ -270,16 +320,6 @@
     "score": 768.5
   },
   {
-    "repo": "StanfordVL/BEHAVIOR-1K",
-    "stars": 1598,
-    "language": "Python",
-    "description": "BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx",
-    "url": "https://github.com/StanfordVL/BEHAVIOR-1K",
-    "date": "2026-07-26",
-    "topic": "embodied-ai",
-    "score": 639.3
-  },
-  {
     "repo": "LMD0311/Awesome-World-Model",
     "stars": 2171,
     "language": "",
@@ -320,16 +360,6 @@
     "score": 5448.5
   },
   {
-    "repo": "kornia/kornia",
-    "stars": 11289,
-    "language": "Python",
-    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-    "url": "https://github.com/kornia/kornia",
-    "date": "2026-07-25",
-    "topic": "robotics",
-    "score": 4515.7
-  },
-  {
     "repo": "datawhalechina/every-embodied",
     "stars": 2893,
     "language": "Python",
@@ -351,33 +381,13 @@
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",
-    "stars": 788,
+    "stars": 789,
     "language": "Python",
     "description": "A curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources",
     "url": "https://github.com/robotlearning123/awesome-isaac-gym",
     "date": "2026-07-25",
     "topic": "robot-learning",
-    "score": 315.3
-  },
-  {
-    "repo": "vikashplus/robohive",
-    "stars": 630,
-    "language": "Python",
-    "description": "A unified framework for robot learning",
-    "url": "https://github.com/vikashplus/robohive",
-    "date": "2026-07-25",
-    "topic": "robot-learning",
-    "score": 252.1
-  },
-  {
-    "repo": "zauberzeug/nicegui",
-    "stars": 16067,
-    "language": "Python",
-    "description": "Create web-based user interfaces with Python. The nice way.",
-    "url": "https://github.com/zauberzeug/nicegui",
-    "date": "2026-07-24",
-    "topic": "robotics",
-    "score": 6426.9
+    "score": 315.7
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
@@ -391,13 +401,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS",
-    "stars": 1152,
+    "stars": 1155,
     "language": "Python",
     "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS",
     "date": "2026-07-24",
     "topic": "embodied-ai",
-    "score": 460.9
+    "score": 462.1
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
@@ -610,16 +620,6 @@
     "score": 3.7
   },
   {
-    "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30152,
-    "language": "Python",
-    "description": "Python sample codes and textbook for robotics algorithms.",
-    "url": "https://github.com/AtsushiSakai/PythonRobotics",
-    "date": "2026-07-20",
-    "topic": "robotics",
-    "score": 12060.9
-  },
-  {
     "repo": "nv-tlabs/lyra",
     "stars": 2179,
     "language": "Python",
@@ -731,13 +731,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 10801,
+    "stars": 10808,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 4320.5
+    "score": 4323.3
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -771,23 +771,23 @@
   },
   {
     "repo": "robocasa/robocasa",
-    "stars": 1580,
+    "stars": 1581,
     "language": "Python",
     "description": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
     "url": "https://github.com/robocasa/robocasa",
     "date": "2026-07-08",
     "topic": "robot-learning",
-    "score": 632.1
+    "score": 632.5
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82722,
+    "stars": 82723,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 33088.9
+    "score": 33089.3
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",

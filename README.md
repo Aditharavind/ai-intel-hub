@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-27 19:05 UTC
+Last Updated: 2026-07-27 20:57 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-27 | Reviving a Retro Mouse with BlueTooth low Energy support | Hackaday | [link](https://hackaday.com/2026/07/27/reviving-a-retro-mouse-with-bluetooth-low-energy-support/) |
 | 2026-07-27 | Regain Some Trust in Unknown USB Drives | Hackaday | [link](https://hackaday.com/2026/07/27/regain-some-trust-in-unknown-usb-drives/) |
 | 2026-07-27 | Flexible PCBs: Not Only For The Few | Hackaday | [link](https://hackaday.com/2026/07/27/flexible-pcbs-not-only-for-the-few/) |
 | 2026-07-27 | M.A.S.K.-Inspired Cyberdeck for all your Portable Computing needs | Hackaday | [link](https://hackaday.com/2026/07/27/m-a-s-k-inspired-cyberdeck-for-all-your-portable-computing-needs/) |
 | 2026-07-27 | Hackaday Europe 2026: High Performance SDR On The Cheap | Hackaday | [link](https://hackaday.com/2026/07/27/hackaday-europe-2026-high-performance-sdr-on-the-cheap/) |
 | 2026-07-27 | Neighborhood Bulletin Boards, circa 1982 | Hackaday | [link](https://hackaday.com/2026/07/27/neighborhood-bulletin-boards-circa-1982/) |
 | 2026-07-27 | A Music Box With A Very Modern Heart | Hackaday | [link](https://hackaday.com/2026/07/27/a-music-box-with-a-very-modern-heart/) |
-| 2026-07-27 | Scanwheel: A Pocket-Sized POV TV | Hackaday | [link](https://hackaday.com/2026/07/26/scanwheel-a-pocket-sized-pov-tv/) |
 | 2026-07-27 | Jetway SMC-ARK1 – A Rockchip RK3588 SMARC 2.1 compliant system-on-module | CNX Software | [link](https://www.cnx-software.com/2026/07/27/jetway-smc-ark1-a-rockchip-rk3588-smarc-2-1-compliant-system-on-module/) |
 | 2026-07-27 | Orange Pi 5B SBC gets Ubuntu Desktop and Audio Production OS images with Bluetooth/Wi-Fi fix missed for 8 years | CNX Software | [link](https://www.cnx-software.com/2026/07/27/orange-pi-5b-sbc-gets-ubuntu-desktop-and-audio-production-os-images-with-bluetooth-wi-fi-fix-missed-for-8-years/) |
 | 2026-07-27 | Redragon K688 Pro – An affordable tri-mode gasket mechanical keyboard with full numpad and media knob (Sponsored) | CNX Software | [link](https://www.cnx-software.com/2026/07/27/redragon-k688-an-affordable-tri-mode-gasket-mechanical-keyboard-with-full-numpad-and-media-knob/) |
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2694 | Python | 1077.7 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2695 | Python | 1078.1 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1425 | Rust | 570.1 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 894 | Python | 357.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| alireza787b/mavsdk_drone_show | 308 | Python | 123.3 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
+| alireza787b/mavsdk_drone_show | 309 | Python | 123.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | commaai/openpilot | 63238 | Python | 25295.3 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30153 | Python | 12061.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16068 | Python | 6427.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15560 | C++ | 6224.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14346 | C++ | 5738.5 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11198 | Rust | 4479.3 | [link](https://github.com/rerun-io/rerun) |
-| RLinf/RLinf | 4274 | Python | 1709.7 | [link](https://github.com/RLinf/RLinf) |
+| google-deepmind/mujoco | 14347 | C++ | 5738.9 | [link](https://github.com/google-deepmind/mujoco) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -123,8 +123,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-27 | Enigma raises $71M to make controlling a robot as easy as adjusting the volume - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSnNERUE3ZUlwdlZwNHVuZzVBVkE2alZHTGIyRUJWNEtsMndDV2lSWGxNMUoxS3lURXE4VlNGREpURWhUc3dzSkZYWFNQNU94eDNGOHNXVFVldVRtWjVwcTBJdEMyNWZMWTFndXlIMl9CdnNRTWNCd1owZmxUZUN3WThGdWJidHc3am1RNzlmZ0lMWlRHWGd3cmxwM19hQXFYOEdqNnJFSDhQN1N2QmxQdXNn?oc=5) |
 | 2026-07-27 | The AI advantage is moving into the physical economy - fDi Intelligence | physical ai startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPLU5YZFNRcXprYXIyQUVnU2UwcDhFbTJKR1ZpUE1SSWxfRHE4QkF1RnJfSnRyRjZOS3NReE9PV19YcGp5a2haX2w5QU81M2JGNW1faUwyLWJaOTZBREhWRmxabUtibVY2bTdTeTlMcVItOElpaXZpaWhndWkxOTdJSGZn?oc=5) |
 | 2026-07-27 | Encord is collecting brain-wave data to solve physical AI's training data crisis - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2RHdDBCTXJoMTZ3azk2R0tqMTZjYmhvZV9PRU8wVnF5R2VyTTN6a285Zy1CVzJodUNTWnJvNmhvenRXMzdTZm1MTmdNTW40QjJ2M1lSOUtVbTBfdjhYc3Q3LTFxOXQ3MDBlcW0wTUhpTTR2SzQ5cnFkRTJoLWlvRzhlcTVrU0dCS0hGLTJHQ2ZIVEVtekJRaUV3VXVTOTljNVhRaTREeXpXZnM?oc=5) |
-| 2026-07-27 | Mapping Southeast Asia’s physical AI startup ecosystem - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2hlMllwZVZaVlRJUzlWb3FqNjZmVGVyak9wMlY2ZEZhRmhFWi0zTnpGTThUcWVVeHd4MWtzSVA0NmxjU05YX2I0WkF0S0tOWER6SE4xN0FvbGVkaXRaQmp4ZFl3a2lzZFpmajU5amNUeWxISTZ2bUJmNFctX3hXVGpNLU9uWlZZQ0MtNDNNOUszOVVCaVBvWA?oc=5) |
 | 2026-07-27 | Kobe Steel invests in Japanese startup Noetra for physical AI development - Yieh Corp. | physical ai startup | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxNanppdzlOMDE1Y0M0QWdmNGRiSHZtNk5sQlhJcXJkdzIxeHJwTzlxVWUzc0hVUllzM3YxX0xhTVVCVWxUSFBsa0dhWEFYdFR3aDFXOHV2R0Rtc3g3dHRXUHJoOTJDM3Y3RmcxNWdwcHVMVjJ4UzJ3TkhCdmxyVHpnd3Z5U3A1X0F2YnZ0TkFCWldPdXYyY2RES3diMng3U3l4Z3Q4dHMtM0MwUkpCZVE?oc=5) |
+| 2026-07-27 | Mapping Southeast Asia’s physical AI startup ecosystem - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2hlMllwZVZaVlRJUzlWb3FqNjZmVGVyak9wMlY2ZEZhRmhFWi0zTnpGTThUcWVVeHd4MWtzSVA0NmxjU05YX2I0WkF0S0tOWER6SE4xN0FvbGVkaXRaQmp4ZFl3a2lzZFpmajU5amNUeWxISTZ2bUJmNFctX3hXVGpNLU9uWlZZQ0MtNDNNOUszOVVCaVBvWA?oc=5) |
 | 2026-07-27 | Schneider Electric’s VC Arm: The AI Buildout Is Creating A New Industrial Investment Cycle - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjU4dUE5N2ktcWNJQk1HS3VDVDJPWm9Hc0ZfV0p6bXJTTE0yLWg0cUctcEotbnBXSnJwOGJ4SERiU0dnaE9xdk5Sc3VKc294MHBTdy1kMVprelVFMnJWcGUwQlRMYTBYZkNoWXE5VEtieW45NTNiaTk4dXpPUm50QUdFTExKYUZWNUd5N0NVUlVLNW05S0E?oc=5) |
 | 2026-07-27 | Italian startup unveils Gene.01 humanoid robot with 'smart skin' | Generative Bionics raised $81 mn in seed funding | Inshorts - Inshorts | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2FKWHpJZ09ZNkZNOFNvRGthSmNHWk1QSVE5SmVMdVhnQnNVV19NMy1acS0tUGxZSVk0bkk4aHFidmlzZ3c1ZC1pM040NWhfbzRWNEpoOU5GN29UU1BLWEdlcXB3NkVmLXBYV0dTZW03UzByQ0wwQXB5SDZhLXhDbXFHX3ZCejlzMFVFRFBEYzd3RjVJZXVZZmFnNElhNFl4SmUwdzJSSXZWb3VhT2oxcdIBsAFBVV95cUxOU2FKWHpJZ09ZNkZNOFNvRGthSmNHWk1QSVE5SmVMdVhnQnNVV19NMy1acS0tUGxZSVk0bkk4aHFidmlzZ3c1ZC1pM040NWhfbzRWNEpoOU5GN29UU1BLWEdlcXB3NkVmLXBYV0dTZW03UzByQ0wwQXB5SDZhLXhDbXFHX3ZCejlzMFVFRFBEYzd3RjVJZXVZZmFnNElhNFl4SmUwdzJSSXZWb3VhT2oxcQ?oc=5) |
 | 2026-07-26 | Mitsubishi Motors teams up with startup to mass produce humanoid robots - 毎日新聞 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMic0FVX3lxTE1CNlRWVlRneEFjZnc5bVZwNjExVG8xd3IyRnJYUEw3azZnM1d5TEt1YXJaOTA2WGpuLWhqcVliYld1RFZmb19BOFpPVUFRME1UZW9RM1oyZjJHcTFONkRMSFdFeF9waUQyQWxzLTR5SU1iajQ?oc=5) |
