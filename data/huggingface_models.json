@@ -1,5 +1,77 @@
 [
   {
+    "model": "GM717/instinct-wam-robotwin-clean",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/GM717/instinct-wam-robotwin-clean",
+    "date": "2026-07-28",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "wego-hansu/yeonwonju-070720-vla",
+    "downloads": 86,
+    "likes": 0,
+    "url": "https://huggingface.co/wego-hansu/yeonwonju-070720-vla",
+    "date": "2026-07-28",
+    "keyword": "vla",
+    "score": 25.9
+  },
+  {
+    "model": "VLA-Arena/starVLA_VLA-Arena",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VLA-Arena/starVLA_VLA-Arena",
+    "date": "2026-07-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Miiixi/vla_pick_cube_07026",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Miiixi/vla_pick_cube_07026",
+    "date": "2026-07-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "zwan1003/pickplace_skills_vla_v3_2",
+    "downloads": 21,
+    "likes": 0,
+    "url": "https://huggingface.co/zwan1003/pickplace_skills_vla_v3_2",
+    "date": "2026-07-28",
+    "keyword": "vla",
+    "score": 6.4
+  },
+  {
+    "model": "zwan1003/pickplace_skills_vla_v3_2_ckpt060k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zwan1003/pickplace_skills_vla_v3_2_ckpt060k",
+    "date": "2026-07-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "liuchangjie/VoiceDrive-VLA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/liuchangjie/VoiceDrive-VLA",
+    "date": "2026-07-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "muacha/my_overfit_pi05_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/muacha/my_overfit_pi05_policy",
+    "date": "2026-07-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "HarrisonPENG/M2W-VLA-RoboTwin",
     "downloads": 185,
     "likes": 0,
@@ -99,15 +171,6 @@
     "score": 4.6
   },
   {
-    "model": "RobotisSW/Task_315_Dispose_Trash_10K",
-    "downloads": 11,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_315_Dispose_Trash_10K",
-    "date": "2026-07-27",
-    "keyword": "robot",
-    "score": 3.4
-  },
-  {
     "model": "siliconperception/VLA",
     "downloads": 84,
     "likes": 0,
@@ -151,60 +214,6 @@
     "date": "2026-07-27",
     "keyword": "vla",
     "score": 0.3
-  },
-  {
-    "model": "ethanCSL/svla_franka_pick_n_place_vla_steering_libero",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ethanCSL/svla_franka_pick_n_place_vla_steering_libero",
-    "date": "2026-07-27",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "ethansan01/X-VLA-SoftFold",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ethansan01/X-VLA-SoftFold",
-    "date": "2026-07-27",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "UPB-RAT-VLA/pi05_summerschool",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/UPB-RAT-VLA/pi05_summerschool",
-    "date": "2026-07-27",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Aikwed/lingbot-vla-pick-and-place-toys",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Aikwed/lingbot-vla-pick-and-place-toys",
-    "date": "2026-07-27",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "tsk-arasu/armnn-mfv-poc-004-npy-vla-overflow",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tsk-arasu/armnn-mfv-poc-004-npy-vla-overflow",
-    "date": "2026-07-27",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "taewonkoo/VLA-Adapter-SO101-push-cube-step-10000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/taewonkoo/VLA-Adapter-SO101-push-cube-step-10000",
-    "date": "2026-07-27",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1",
@@ -364,15 +373,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/oxomi/smolvla_policy_so101_cube_multitask_0724",
-    "date": "2026-07-27",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "oxomi/act_policy_so101_cube_multitask_0723",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/oxomi/act_policy_so101_cube_multitask_0723",
     "date": "2026-07-27",
     "keyword": "policy",
     "score": 0.1
