@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-28 21:52 UTC
+Last Updated: 2026-07-28 22:46 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -40,11 +40,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-28 | Agency Tool Company wants to make OTA software updates easier | Robotics Business Review | [link](https://www.therobotreport.com/agency-tool-company-wants-to-make-ota-software-updates-easier/) |
 | 2026-07-28 | Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/) |
 | 2026-07-28 | Registration is open for RoboBusiness 2026 | Robotics Business Review | [link](https://www.therobotreport.com/registration-is-open-for-robobusiness-2026/) |
+| 2026-07-28 | ENvue Medical develops robotic feeding tube placement system | Robotics Business Review | [link](https://www.therobotreport.com/envue-medical-develops-robotic-feeding-tube-placement-system/) |
 | 2026-07-27 | NORD expands compact NORDAC VFD family to 200 hp | Robotics Business Review | [link](https://www.therobotreport.com/nord-expands-nordac-compact-vfd-family-to-200-hp/) |
 | 2026-07-27 | Kraken Technology raises Series B funding for autonomous vessels | Robotics Business Review | [link](https://www.therobotreport.com/kraken-technology-raises-series-b-funding-autonomous-vessels/) |
 | 2026-07-26 | Magmotor makes motors for a changing world for 150+ years | Robotics Business Review | [link](https://www.therobotreport.com/magmotor-makes-motors-changing-world-150-years/) |
 | 2026-07-26 | Optical Tech Would Update a Robot’s AI on the Fly | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/ai-in-robotics) |
-| 2026-07-25 | Photos: First look at J&J’s Ottava surgical robot | Robotics Business Review | [link](https://www.therobotreport.com/photos-first-look-at-jjs-ottava-surgical-robot/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -96,11 +96,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | mosaico-labs/mosaico | 895 | Python | 358.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 309 | Python | 123.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 63248 | Python | 25299.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63249 | Python | 25299.7 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16071 | Python | 6428.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15565 | C++ | 6226.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15566 | C++ | 6226.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14358 | C++ | 5743.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 11477 | JavaScript | 4590.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 11494 | JavaScript | 4597.7 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -121,13 +121,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-28 | AI Robot Control Startup Robai Secures Seed Funding from Korea Investment Accelerator - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE41WksycnJCRThoV1AtTlhLaGtURC1zYVhrQmNlakZyNmk5Zl9tU0k2R1k0N19oUzBqYl9RSFB1WmFGT0MxWTFUSnBkbV8talpZRkNZ?oc=5) |
 | 2026-07-28 | US startup unveils humanoid robot to help hospital labs with routine testing work - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlJrZm9pWkpwZklrZlFJSExCNWdTcG52aHoydFNzbl9zUGVHam05ZHdMTjFCMGQwaTJYN2xKVGRkVXRnNVhBUFFiT2YydDRIdjBELUxuSEVGaVE0TUxlc09ReTM5OHFHSW4zR3FZb0ZqR2tDV3k1cGV3Tmx5a1pDSno0V3V3M0Q2Z2FaRElROA?oc=5) |
-| 2026-07-28 | A startup founded by a UCLA PhD team that focuses on developing the foundation model for humanoid robots has secured nearly 500 million yuan in Angel++ round financing | Hard Krypton Exclusive First Release - 36 Kr | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTkhJa0FNVTQtRjVoVzgxX3NzSy1GalBzTWV5R1FxUDBSRUgxSDRPQ3lDSmNrVDRCQnZLdVRYMkZQaDJRNFNadWpfaXZyZTlXMkhz?oc=5) |
+| 2026-07-28 | A startup founded by a UCLA PhD team that focuses on developing the foundation model for humanoid robots has secured nearly 500 million yuan in Angel++ round financing | Hard Krypton Exclusive First Release - 36氪 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTkhJa0FNVTQtRjVoVzgxX3NzSy1GalBzTWV5R1FxUDBSRUgxSDRPQ3lDSmNrVDRCQnZLdVRYMkZQaDJRNFNadWpfaXZyZTlXMkhz?oc=5) |
 | 2026-07-28 | Humanoid startup Agility Robotics doesn't want 'coin-operated employees' - AOL.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFJGdVducEtSNUVtN2ZoSzJnQ00td1JFbmN1ak9UQ05GSlVrcC16YjFPWWp2dHY0bnhvdFlzRGtHbjkyeURRdHFpZFBpZ2p0eFc0ZWE0eDhtT2FJMzZrNHpGZ2pzMVNjYTAtOU1sYWFnT2VxVDRHc3psdmk3dW5SUTVnXzJGRmFlVGtMZA?oc=5) |
 | 2026-07-27 | Are brain waves the next unlock for physical AI? - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTRjcXgxX3pIWW5JQ3MwNkxzQmQwUzY1M2dyaTNHSkdUXzJDUlQzZjZqb1AzMHpOQlRfOUhxTWdhRktiXzlyVzNBMWR3clUwVEo1M2plbm5HSFl0N1NaTmJZZXJOQXFvakdnYXlaZV90bzZEamhwUVlZc2d5ZUhsLUxLUVRQV0hyX0E?oc=5) |
 | 2026-07-27 | Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE02elZVdk1Iczl5UzdTQldJWkxvTWxIejI0dll0ZFhoR0NPR0swUENTdW03b0hlR21sZHJRVUZ1M2xtSzdGQXkzc19VV1lBZWF3TlFKZHNNTEdBTi11d0lHT0txcmhUQmFw?oc=5) |
-| 2026-07-27 | Encord is collecting brain-wave data to solve physical AI's training data crisis - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2RHdDBCTXJoMTZ3azk2R0tqMTZjYmhvZV9PRU8wVnF5R2VyTTN6a285Zy1CVzJodUNTWnJvNmhvenRXMzdTZm1MTmdNTW40QjJ2M1lSOUtVbTBfdjhYc3Q3LTFxOXQ3MDBlcW0wTUhpTTR2SzQ5cnFkRTJoLWlvRzhlcTVrU0dCS0hGLTJHQ2ZIVEVtekJRaUV3VXVTOTljNVhRaTREeXpXZnM?oc=5) |
 | 2026-07-27 | Japanese university startups develop AI robot arms for delicate tasks - Nikkei Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDJSdjVUNXJrcFZpY3lBdW1NU1Z1LU5zcWI4UWs2NGd0LU5QMGFGZHNmM1ZPdXZYLXdqblQ4Zkdrb0poZlVkRENyUDlpaERLcExQSlliVVVUN1oxb2hhZVozcTBMbmd5T0xENlM5THMxNlNiMUVseldLbjBwWGRqRzZyNGdaNXphWURIem5KaGZhSWVXcmVKY3N4OW90ZEhraC02SkFoZWxfS2RHTU1xVXJNLV9mcFk2eE1XWnd6Vi1fLXprVDdST3dCUUg0YVM3UXVn?oc=5) |
 | 2026-07-27 | Mapping Southeast Asia’s physical AI startup ecosystem - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2hlMllwZVZaVlRJUzlWb3FqNjZmVGVyak9wMlY2ZEZhRmhFWi0zTnpGTThUcWVVeHd4MWtzSVA0NmxjU05YX2I0WkF0S0tOWER6SE4xN0FvbGVkaXRaQmp4ZFl3a2lzZFpmajU5amNUeWxISTZ2bUJmNFctX3hXVGpNLU9uWlZZQ0MtNDNNOUszOVVCaVBvWA?oc=5) |
+| 2026-07-26 | Genesis AI is in talks to raise $500 million at a $3 billion valuation just a year after emerging from stealth - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOG81aXpQdEo0UnQ4SmtJenVVRjl4enZVeFNwd2pMQzBtdG55ZUthaGNtajA5N2M4RTlCTHhXNmhScjJ6U0txS0lpYUtNbmswU3BXUE5EMGI1ekp6ZjNLSzR1enJyRmxZQVBnWTZKT0pHWmJOcC1OV1FlQWdTbTM0TXhYQ29lMWg3UGQyVV95dE1aR2FlY1N0UEg3cEgzTkdlZFZuM3RJSDZSM2o3RzVXM0xwZGs5aHJ0NmItRUNidDVjaUNtSlpoTFBEaktXdVgteUE?oc=5) |
 | 2026-07-24 | The Week’s 10 Biggest Funding Rounds: Physical AI Startup Atoms Leads In Varied Week For Large Deals - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0JqNzY4MnFUYnpxN3ZZX3lBZ1pENU9MQkVTVWdjb053NEI4aUNueGJ3MndpOTQxWlFJMUZWcVZzSjhVNWNuMlE2VExjTldPQUw5cmtYRFdnTHhmV3laRHYyQmVxM0JpZDZSVXVoXzBrSEpvZVFmTXZIeEE2dXVseVMtTU8zM0plcWMyREdValljeWpBaWJUYw?oc=5) |
 
 ## Jobs
