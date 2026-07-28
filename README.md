@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-28 07:28 UTC
+Last Updated: 2026-07-28 10:17 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-28 | The Orphaned Sources At The Hacker Camp: What Happened Next | Hackaday | [link](https://hackaday.com/2026/07/28/the-orphaned-sources-at-the-hacker-camp-what-happened-next/) |
 | 2026-07-28 | De-Aging Human Tissue Using Special Enzyme to Remove AGEs | Hackaday | [link](https://hackaday.com/2026/07/27/de-aging-human-tissue-using-special-enzyme-to-remove-ages/) |
 | 2026-07-28 | A Labour Of Love Brings A Kids Book To The Spectrum | Hackaday | [link](https://hackaday.com/2026/07/27/a-labour-of-love-brings-a-kids-book-to-the-spectrum/) |
+| 2026-07-28 | Waveshare RP2350-POE-ETH – A Raspberry Pi RP2350 MCU board with PoE | CNX Software | [link](https://www.cnx-software.com/2026/07/28/waveshare-rp2350-poe-eth-a-raspberry-pi-rp2350-mcu-board-with-poe/) |
 | 2026-07-28 | LILYGO T-Display C5 board features 1.9-inch IPS color LCD, battery support, Qwiic expansion connectors | CNX Software | [link](https://www.cnx-software.com/2026/07/28/lilygo-t-display-c5-board-features-1-9-inch-ips-color-lcd-battery-support-qwiic-expansion-connectors/) |
+| 2026-07-28 | Nvidia says agentic AI is reshaping chip system design | Electronics Weekly | [link](https://www.electronicsweekly.com/market-sectors/ai/nvidia-says-agentic-ai-is-reshaping-chip-system-design-2026-07/) |
 | 2026-07-28 | Shanghai Yuliansheng to ship five immersion DUV machines this year | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/shanghai-yuliansheng-to-ship-five-immersion-duv-machines-this-year-2026-07/) |
 | 2026-07-28 | Schurter buys majority stake in Biaodi | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/schurter-buys-majority-stake-in-baiodi-2026-07/) |
 | 2026-07-28 | CATL improves sales, profits and share | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/catl-improves-sales-profits-and-share-2026-07/) |
 | 2026-07-28 | UC San Diego researchers turn spent cathodes into high-performance materials | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/uc-san-diego-researchers-upcycle-spent-cathodes-into-high-performance-materials-2026-07/) |
-| 2026-07-28 | Q2 PC units down 4% YoY | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/q2-pc-units-down-4-yoy-2026-07/) |
-| 2026-07-28 | Global Thinking | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/global-thinking-2026-07/) |
-| 2026-07-27 | Re-Testing an Apollo Guidance Computer Module that Failed Certification Testing | Hackaday | [link](https://hackaday.com/2026/07/27/re-testing-an-apollo-guidance-computer-module-that-failed-certification-testing/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,16 +77,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-07-28 | NCDTech/real-robot-driving-mlp-numpy | 0 | 0 | [link](https://huggingface.co/NCDTech/real-robot-driving-mlp-numpy) |
-| 2026-07-28 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 180 | 9 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
+| 2026-07-28 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 256 | 12 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
+| 2026-07-28 | MINT-SJTU/Evo1_RoboTwin2_clean | 0 | 0 | [link](https://huggingface.co/MINT-SJTU/Evo1_RoboTwin2_clean) |
+| 2026-07-28 | HarrisonPENG/M2W-VLA-RoboTwin | 291 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-07-28 | yeeeiii111/pi05-robotwin-icl-arx5-v4mix-20k | 0 | 0 | [link](https://huggingface.co/yeeeiii111/pi05-robotwin-icl-arx5-v4mix-20k) |
+| 2026-07-28 | NCDTech/real-robot-driving-mlp-numpy | 0 | 0 | [link](https://huggingface.co/NCDTech/real-robot-driving-mlp-numpy) |
 | 2026-07-28 | openEuler/IB_Robot_ACT_banana_pick_distill | 0 | 0 | [link](https://huggingface.co/openEuler/IB_Robot_ACT_banana_pick_distill) |
 | 2026-07-28 | mr-robot-01/smolvla_pickup_WD40_bottle | 0 | 0 | [link](https://huggingface.co/mr-robot-01/smolvla_pickup_WD40_bottle) |
 | 2026-07-28 | GM717/instinct-wam-robotwin-clean | 0 | 0 | [link](https://huggingface.co/GM717/instinct-wam-robotwin-clean) |
-| 2026-07-28 | liuchangjie/VoiceDrive-VLA | 0 | 0 | [link](https://huggingface.co/liuchangjie/VoiceDrive-VLA) |
-| 2026-07-28 | wego-hansu/yeonwonju-070720-vla | 86 | 0 | [link](https://huggingface.co/wego-hansu/yeonwonju-070720-vla) |
-| 2026-07-28 | VLA-Arena/starVLA_VLA-Arena | 0 | 0 | [link](https://huggingface.co/VLA-Arena/starVLA_VLA-Arena) |
-| 2026-07-28 | Miiixi/vla_pick_cube_07026 | 0 | 0 | [link](https://huggingface.co/Miiixi/vla_pick_cube_07026) |
+| 2026-07-28 | LiamLian0727/LangForce_VLA_Arena | 0 | 0 | [link](https://huggingface.co/LiamLian0727/LangForce_VLA_Arena) |
+| 2026-07-28 | mertalbaba/humanoid-vla-checkpoints | 0 | 0 | [link](https://huggingface.co/mertalbaba/humanoid-vla-checkpoints) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -96,11 +96,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | alireza787b/mavsdk_drone_show | 309 | Python | 123.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | commaai/openpilot | 63244 | Python | 25297.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15561 | C++ | 6224.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14354 | C++ | 5741.7 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14355 | C++ | 5742.1 | [link](https://github.com/google-deepmind/mujoco) |
+| rerun-io/rerun | 11199 | Rust | 4479.7 | [link](https://github.com/rerun-io/rerun) |
+| RLinf/RLinf | 4283 | Python | 1713.3 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3855 | Rust | 1542.1 | [link](https://github.com/dora-rs/dora) |
-| leofan90/Awesome-World-Models | 1922 | Python | 768.9 | [link](https://github.com/leofan90/Awesome-World-Models) |
-| StanfordVL/BEHAVIOR-1K | 1598 | Python | 639.3 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| PhyAgentOS/PhyAgentOS | 1179 | Python | 471.7 | [link](https://github.com/PhyAgentOS/PhyAgentOS) |
+| leofan90/Awesome-World-Models | 1923 | Python | 769.3 | [link](https://github.com/leofan90/Awesome-World-Models) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -121,14 +121,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-28 | Humanoid startup Agility Robotics doesn't want 'coin-operated employees' - AOL.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFJGdVducEtSNUVtN2ZoSzJnQ00td1JFbmN1ak9UQ05GSlVrcC16YjFPWWp2dHY0bnhvdFlzRGtHbjkyeURRdHFpZFBpZ2p0eFc0ZWE0eDhtT2FJMzZrNHpGZ2pzMVNjYTAtOU1sYWFnT2VxVDRHc3psdmk3dW5SUTVnXzJGRmFlVGtMZA?oc=5) |
 | 2026-07-27 | Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE02elZVdk1Iczl5UzdTQldJWkxvTWxIejI0dll0ZFhoR0NPR0swUENTdW03b0hlR21sZHJRVUZ1M2xtSzdGQXkzc19VV1lBZWF3TlFKZHNNTEdBTi11d0lHT0txcmhUQmFw?oc=5) |
-| 2026-07-27 | Enigma raises $71M to make controlling a robot as easy as adjusting the volume - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSnNERUE3ZUlwdlZwNHVuZzVBVkE2alZHTGIyRUJWNEtsMndDV2lSWGxNMUoxS3lURXE4VlNGREpURWhUc3dzSkZYWFNQNU94eDNGOHNXVFVldVRtWjVwcTBJdEMyNWZMWTFndXlIMl9CdnNRTWNCd1owZmxUZUN3WThGdWJidHc3am1RNzlmZ0lMWlRHWGd3cmxwM19hQXFYOEdqNnJFSDhQN1N2QmxQdXNn?oc=5) |
-| 2026-07-27 | The AI advantage is moving into the physical economy - fDi Intelligence | physical ai startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPLU5YZFNRcXprYXIyQUVnU2UwcDhFbTJKR1ZpUE1SSWxfRHE4QkF1RnJfSnRyRjZOS3NReE9PV19YcGp5a2haX2w5QU81M2JGNW1faUwyLWJaOTZBREhWRmxabUtibVY2bTdTeTlMcVItOElpaXZpaWhndWkxOTdJSGZn?oc=5) |
+| 2026-07-27 | Are brain waves the next unlock for physical AI? - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTRjcXgxX3pIWW5JQ3MwNkxzQmQwUzY1M2dyaTNHSkdUXzJDUlQzZjZqb1AzMHpOQlRfOUhxTWdhRktiXzlyVzNBMWR3clUwVEo1M2plbm5HSFl0N1NaTmJZZXJOQXFvakdnYXlaZV90bzZEamhwUVlZc2d5ZUhsLUxLUVRQV0hyX0E?oc=5) |
+| 2026-07-27 | Japanese university startups develop AI robot arms for delicate tasks - Nikkei Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDJSdjVUNXJrcFZpY3lBdW1NU1Z1LU5zcWI4UWs2NGd0LU5QMGFGZHNmM1ZPdXZYLXdqblQ4Zkdrb0poZlVkRENyUDlpaERLcExQSlliVVVUN1oxb2hhZVozcTBMbmd5T0xENlM5THMxNlNiMUVseldLbjBwWGRqRzZyNGdaNXphWURIem5KaGZhSWVXcmVKY3N4OW90ZEhraC02SkFoZWxfS2RHTU1xVXJNLV9mcFk2eE1XWnd6Vi1fLXprVDdST3dCUUg0YVM3UXVn?oc=5) |
 | 2026-07-27 | Encord is collecting brain-wave data to solve physical AI's training data crisis - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2RHdDBCTXJoMTZ3azk2R0tqMTZjYmhvZV9PRU8wVnF5R2VyTTN6a285Zy1CVzJodUNTWnJvNmhvenRXMzdTZm1MTmdNTW40QjJ2M1lSOUtVbTBfdjhYc3Q3LTFxOXQ3MDBlcW0wTUhpTTR2SzQ5cnFkRTJoLWlvRzhlcTVrU0dCS0hGLTJHQ2ZIVEVtekJRaUV3VXVTOTljNVhRaTREeXpXZnM?oc=5) |
+| 2026-07-27 | The AI advantage is moving into the physical economy - fDi Intelligence | physical ai startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPLU5YZFNRcXprYXIyQUVnU2UwcDhFbTJKR1ZpUE1SSWxfRHE4QkF1RnJfSnRyRjZOS3NReE9PV19YcGp5a2haX2w5QU81M2JGNW1faUwyLWJaOTZBREhWRmxabUtibVY2bTdTeTlMcVItOElpaXZpaWhndWkxOTdJSGZn?oc=5) |
 | 2026-07-27 | Mapping Southeast Asia’s physical AI startup ecosystem - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2hlMllwZVZaVlRJUzlWb3FqNjZmVGVyak9wMlY2ZEZhRmhFWi0zTnpGTThUcWVVeHd4MWtzSVA0NmxjU05YX2I0WkF0S0tOWER6SE4xN0FvbGVkaXRaQmp4ZFl3a2lzZFpmajU5amNUeWxISTZ2bUJmNFctX3hXVGpNLU9uWlZZQ0MtNDNNOUszOVVCaVBvWA?oc=5) |
 | 2026-07-27 | Italian startup unveils Gene.01 humanoid robot with 'smart skin' | Generative Bionics raised $81 mn in seed funding | Inshorts - Inshorts | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2FKWHpJZ09ZNkZNOFNvRGthSmNHWk1QSVE5SmVMdVhnQnNVV19NMy1acS0tUGxZSVk0bkk4aHFidmlzZ3c1ZC1pM040NWhfbzRWNEpoOU5GN29UU1BLWEdlcXB3NkVmLXBYV0dTZW03UzByQ0wwQXB5SDZhLXhDbXFHX3ZCejlzMFVFRFBEYzd3RjVJZXVZZmFnNElhNFl4SmUwdzJSSXZWb3VhT2oxcdIBsAFBVV95cUxOU2FKWHpJZ09ZNkZNOFNvRGthSmNHWk1QSVE5SmVMdVhnQnNVV19NMy1acS0tUGxZSVk0bkk4aHFidmlzZ3c1ZC1pM040NWhfbzRWNEpoOU5GN29UU1BLWEdlcXB3NkVmLXBYV0dTZW03UzByQ0wwQXB5SDZhLXhDbXFHX3ZCejlzMFVFRFBEYzd3RjVJZXVZZmFnNElhNFl4SmUwdzJSSXZWb3VhT2oxcQ?oc=5) |
+| 2026-07-25 | This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots— Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears - Yahoo Finance | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdFRzMEhQRWhqbWRydE5iakxOZzBYN3B0dWVDT3JxUzNZWDUyRl80Um5lUmVhWmItRkc3bmpyMUlIOE8wSWpCazVSdm5mTVNSN3g1U05jMDlFS05rR2cyMUljVUM2bjlhUTJoWEpoZFlfZ0xxQWFHNW1qVnJ2Q09yQ3BxYVJ5SGRnUzR1N01QQkRLUDRoOWdvRnBn?oc=5) |
 | 2026-07-24 | The Week’s 10 Biggest Funding Rounds: Physical AI Startup Atoms Leads In Varied Week For Large Deals - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0JqNzY4MnFUYnpxN3ZZX3lBZ1pENU9MQkVTVWdjb053NEI4aUNueGJ3MndpOTQxWlFJMUZWcVZzSjhVNWNuMlE2VExjTldPQUw5cmtYRFdnTHhmV3laRHYyQmVxM0JpZDZSVXVoXzBrSEpvZVFmTXZIeEE2dXVseVMtTU8zM0plcWMyREdValljeWpBaWJUYw?oc=5) |
-| 2026-07-24 | Earth first, Mars later: Inside AIM’s grand vision for physical AI and autonomous bulldozers - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaU5VVEVQbGRYaS1YMTZFS24yTXc2bjdXZ0xIUktSVjhfd0hJcmNxcmZBRWd6YXRYSGdGVk9BU1BCdW0tdElTVE9Bem5kSFVDakg3RWFmcmtWVzJkc3RNRmlwSHl6YmhBMWY3bDRHc21QZWd5QnZjR1JicU5JRmk0QUk4SmlZS25kODViZ3ltdFNfbVZWa0l2TXR5MEJYTGFlbTc1RFdkaDVLTFRyUXVabE9JLVRMOE9iaEFQbA?oc=5) |
-| 2026-07-24 | AgiBot Begins Hong Kong IPO Process as China’s Embodied-AI Startups Race to List - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxPcmhiS1lSd1dsbHdQaWFtYTA3b2g4Qm5WMDRkTmJBWHU5Zk15bnQxYlBBZ1JfRy1neUxMZFlmcTJTQ2Nwb1FRN1ZHa3M4UFdGVlpLSDNSdjZMV0ljNV9hSVgxSkZmRDNMYkVTcHFJeElTNTVHTzY2WXdKRS1BOFdVXzN1VUViczlIMl9RQW9GN092ZnU4Z0diVF9Lc2tqRWVZSllPMU5pOTIyOWpGVUp2VlBCb0JtTTd0NXdzbHFhRnJxSVk5THZwelpKOVdOSXM?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
