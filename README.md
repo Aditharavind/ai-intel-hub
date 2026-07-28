@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-28 20:54 UTC
+Last Updated: 2026-07-28 21:52 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -39,12 +39,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-28 | Robot Finger Feels in Color | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/robot-finger) |
 | 2026-07-28 | Agency Tool Company wants to make OTA software updates easier | Robotics Business Review | [link](https://www.therobotreport.com/agency-tool-company-wants-to-make-ota-software-updates-easier/) |
 | 2026-07-28 | Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/) |
+| 2026-07-28 | Registration is open for RoboBusiness 2026 | Robotics Business Review | [link](https://www.therobotreport.com/registration-is-open-for-robobusiness-2026/) |
 | 2026-07-27 | NORD expands compact NORDAC VFD family to 200 hp | Robotics Business Review | [link](https://www.therobotreport.com/nord-expands-nordac-compact-vfd-family-to-200-hp/) |
 | 2026-07-27 | Kraken Technology raises Series B funding for autonomous vessels | Robotics Business Review | [link](https://www.therobotreport.com/kraken-technology-raises-series-b-funding-autonomous-vessels/) |
 | 2026-07-26 | Magmotor makes motors for a changing world for 150+ years | Robotics Business Review | [link](https://www.therobotreport.com/magmotor-makes-motors-changing-world-150-years/) |
 | 2026-07-26 | Optical Tech Would Update a Robot’s AI on the Fly | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/ai-in-robotics) |
 | 2026-07-25 | Photos: First look at J&J’s Ottava surgical robot | Robotics Business Review | [link](https://www.therobotreport.com/photos-first-look-at-jjs-ottava-surgical-robot/) |
-| 2026-07-24 | NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI | Robotics Business Review | [link](https://www.therobotreport.com/neura-robotics-establishes-neura-gym-rwth-aachen-train-physical-ai/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -98,9 +98,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | alireza787b/mavsdk_drone_show | 309 | Python | 123.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | commaai/openpilot | 63248 | Python | 25299.3 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16071 | Python | 6428.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15564 | C++ | 6225.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15565 | C++ | 6226.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14358 | C++ | 5743.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 11455 | JavaScript | 4582.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 11477 | JavaScript | 4590.9 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -140,9 +140,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-28 | Logistics and Inventory Specialist  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4647172006) |
 | 2026-07-28 | Staff Infrastructure Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4614747006) |
 | 2026-07-28 | Engineering Support Technician  | Agility Robotics | Onsite- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6126850004) |
+| 2026-07-28 | Robot Operator II | Agility Robotics | Onsite- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6014586004) |
 | 2026-07-28 | Senior AI Software Engineer, AI Controls | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127693004) |
 | 2026-07-28 | Senior Manager, Simulation | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA); Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127736004) |
-| 2026-07-28 | Senior Staff Software Engineer, Calibration | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127713004) |
 
 ## Automation
 
