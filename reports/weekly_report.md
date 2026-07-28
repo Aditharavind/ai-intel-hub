@@ -1,18 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-28 19:00 UTC
+Generated: 2026-07-28 20:54 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-07-27 | Data Pyramid for Embodied Manipulation | [link](https://arxiv.org/pdf/2607.24744v1) |
+| 2026-07-27 | The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation | [link](https://arxiv.org/pdf/2607.24720v1) |
+| 2026-07-27 | Explainable Reinforcement Learning via Physics-Aware Policy Distillation | [link](https://arxiv.org/pdf/2607.24672v1) |
+| 2026-07-27 | MMOE: Modernizing Diffusion Transformers with Efficient Expert Design | [link](https://arxiv.org/pdf/2607.24665v1) |
+| 2026-07-27 | Development of a Handheld Actuation Mechanism for a Tendon-driven Robotically Steered Guidewire | [link](https://arxiv.org/pdf/2607.24629v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82777 | 33110.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63246 | 25298.5 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82781 | 33112.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63248 | 25299.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44290 | 17716.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30162 | 12064.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16072 | 6428.9 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16071 | 6428.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -30,7 +36,7 @@ _No items collected yet._
 | 2026-07-27 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMVdOTjZURFZMVlNVY2NPMEhuaW4wUW1Ka0VJMUllT0p4Wm5EbnV3QzV4cXlLLWhEWnU2RnBfVlc5SW1iVGlYTEVCR29UY1dscllYY3BxM2dWSHVBY280ZUl2U0xUTGdCMF9nNkZmcUxTMHg1WjhXUnEza1ZqRnRhTldFTzVzWUlWVEl6MjN1YmEwQTNSdGVPUzNHdHVGc2NIMENRc01zYjlnRGdZNExCV0N2X2U2UHpqRWw0?oc=5) |
 | 2026-07-24 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaXNud1RkdkJLTDF5VVl4SW5QNEdzS3p1ak4zbFN5eUpqMXpLWjZ4Wno3bk5UV3habVdfcmxjZktuTmZWdDJLY3htZmlqSFg4d0FoUTB0cGZlUTlNeXJBbE1lbnVlYjVlWkROWlBzQ1oza0tDX0NKWFpwLWROR3lpbEVCTTJ0cC1vcXRj?oc=5) |
 | 2026-07-24 | Apptronik |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
-| 2026-07-21 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFJYWDlnRjFxNzFEakw2M2F5SU9SdWxmSHYtaHVwa3V5RE1yU3ZSNGVqajVwelptczlWOHNvdGxmNi1QN2d6RkRUQVMyc1ctQnJWb0lIRHBxU1lrTk9PVHNQVU96U2NFZ1gteGw4NWV6bkhHWExIT08xYkszbUhCZ053?oc=5) |
+| 2026-07-21 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPazNGXzVyYllBTTcxTEtONzU2anNoQTlCTDlHLVBGS2l0d3oxa0Ixdjk5N3pFVHBUNHhydlhVUzFqc2prU2gzVUFGdUxLbTd6cUpxaDZUTkxaQWVLaXNIRGhRbVJwd0dCMzJZYjZldi11SXZlN1dRbE9lOVlnRzhDYjF2UEZFeFBpSE9ZdjBJZk1YTkJORHhnUkJ3WncxdXFyclNGck9hdEZMRGdYM0I2Ni1MTFBpcW0yWGdKc1E2SXYwR2JyOGVzZ2lVZFQ?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |

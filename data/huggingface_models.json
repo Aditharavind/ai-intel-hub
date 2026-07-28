@@ -1,5 +1,14 @@
 [
   {
+    "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
+    "downloads": 256,
+    "likes": 12,
+    "url": "https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1",
+    "date": "2026-07-28",
+    "keyword": "robot",
+    "score": 79.3
+  },
+  {
     "model": "locht131/gr00t_n17_motion_robot_agilex_stack_three_cups_rel_bs64",
     "downloads": 0,
     "likes": 0,
@@ -25,15 +34,6 @@
     "date": "2026-07-28",
     "keyword": "vla",
     "score": 0.3
-  },
-  {
-    "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
-    "downloads": 256,
-    "likes": 12,
-    "url": "https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1",
-    "date": "2026-07-28",
-    "keyword": "robot",
-    "score": 79.3
   },
   {
     "model": "MINT-SJTU/Evo1_RoboTwin2_clean",
@@ -90,19 +90,28 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2__mask__rgb__separate__both_cameras__live__pi0",
+    "model": "sam-guided-vlas/train_1_2__mask__sim__separate__both_cameras__live__pi0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__rgb__separate__both_cameras__live__pi0",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__sim__separate__both_cameras__live__pi0",
     "date": "2026-07-28",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2__mask__sim__separate__both_cameras__live__pi0",
+    "model": "sii-research/tau-0-vla",
+    "downloads": 38,
+    "likes": 2,
+    "url": "https://huggingface.co/sii-research/tau-0-vla",
+    "date": "2026-07-28",
+    "keyword": "vla",
+    "score": 11.9
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__rgb__separate__both_cameras__live__pi0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__sim__separate__both_cameras__live__pi0",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__rgb__separate__both_cameras__live__pi0",
     "date": "2026-07-28",
     "keyword": "vla",
     "score": 0.1
@@ -169,15 +178,6 @@
     "date": "2026-07-28",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "wego-hansu/yeonwonju-070720-vla",
-    "downloads": 116,
-    "likes": 0,
-    "url": "https://huggingface.co/wego-hansu/yeonwonju-070720-vla",
-    "date": "2026-07-28",
-    "keyword": "vla",
-    "score": 34.9
   },
   {
     "model": "Idan/fga-navigation",
