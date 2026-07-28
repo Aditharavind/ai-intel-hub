@@ -1,11 +1,65 @@
 [
   {
+    "model": "NCDTech/real-robot-driving-mlp-numpy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/NCDTech/real-robot-driving-mlp-numpy",
+    "date": "2026-07-28",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
+    "downloads": 180,
+    "likes": 9,
+    "url": "https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1",
+    "date": "2026-07-28",
+    "keyword": "robot",
+    "score": 55.9
+  },
+  {
+    "model": "yeeeiii111/pi05-robotwin-icl-arx5-v4mix-20k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yeeeiii111/pi05-robotwin-icl-arx5-v4mix-20k",
+    "date": "2026-07-28",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "openEuler/IB_Robot_ACT_banana_pick_distill",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/openEuler/IB_Robot_ACT_banana_pick_distill",
+    "date": "2026-07-28",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "mr-robot-01/smolvla_pickup_WD40_bottle",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mr-robot-01/smolvla_pickup_WD40_bottle",
+    "date": "2026-07-28",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "GM717/instinct-wam-robotwin-clean",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/GM717/instinct-wam-robotwin-clean",
     "date": "2026-07-28",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "liuchangjie/VoiceDrive-VLA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/liuchangjie/VoiceDrive-VLA",
+    "date": "2026-07-28",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -54,12 +108,30 @@
     "score": 0.1
   },
   {
-    "model": "liuchangjie/VoiceDrive-VLA",
+    "model": "Idan/fga-navigation",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/liuchangjie/VoiceDrive-VLA",
+    "url": "https://huggingface.co/Idan/fga-navigation",
     "date": "2026-07-28",
-    "keyword": "vla",
+    "keyword": "navigation",
+    "score": 0.1
+  },
+  {
+    "model": "xiaoleezuishuai/policy-v3-wospatiodelta-iter4-tv2-280000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/xiaoleezuishuai/policy-v3-wospatiodelta-iter4-tv2-280000",
+    "date": "2026-07-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Yewy/test_mahjong_pickup_v4.2_wrist_only_224_policy_delta",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Yewy/test_mahjong_pickup_v4.2_wrist_only_224_policy_delta",
+    "date": "2026-07-28",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -124,51 +196,6 @@
     "date": "2026-07-27",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "kaihumanoid/dev-robotai-test-model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kaihumanoid/dev-robotai-test-model",
-    "date": "2026-07-27",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "sugarpepper99/qwen-robot-lora-v2-modify",
-    "downloads": 34,
-    "likes": 0,
-    "url": "https://huggingface.co/sugarpepper99/qwen-robot-lora-v2-modify",
-    "date": "2026-07-27",
-    "keyword": "robot",
-    "score": 10.3
-  },
-  {
-    "model": "kimtaey/cosmos3-robotwin-latent4-b256-16k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kimtaey/cosmos3-robotwin-latent4-b256-16k",
-    "date": "2026-07-27",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Task_315_Dispose_Trash_50K",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_315_Dispose_Trash_50K",
-    "date": "2026-07-27",
-    "keyword": "robot",
-    "score": 4.6
-  },
-  {
-    "model": "RobotisSW/Task_315_Dispose_Trash_30K",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_315_Dispose_Trash_30K",
-    "date": "2026-07-27",
-    "keyword": "robot",
-    "score": 4.6
   },
   {
     "model": "siliconperception/VLA",
@@ -355,24 +382,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/UPB-RAT/my_pi05_drone_policy_test",
-    "date": "2026-07-27",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "oxomi/act_policy_so101_cube_multitask_0724",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/oxomi/act_policy_so101_cube_multitask_0724",
-    "date": "2026-07-27",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "oxomi/smolvla_policy_so101_cube_multitask_0724",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/oxomi/smolvla_policy_so101_cube_multitask_0724",
     "date": "2026-07-27",
     "keyword": "policy",
     "score": 0.1
@@ -835,14 +844,5 @@
     "date": "2026-05-25",
     "keyword": "navigation",
     "score": 1.3
-  },
-  {
-    "model": "MarinaMohsen/qwen2-vl-navigation-assistant",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/MarinaMohsen/qwen2-vl-navigation-assistant",
-    "date": "2026-05-10",
-    "keyword": "navigation",
-    "score": 0.7
   }
 ]
