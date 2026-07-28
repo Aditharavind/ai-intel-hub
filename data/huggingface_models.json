@@ -1,5 +1,14 @@
 [
   {
+    "model": "locht131/gr00t_n17_motion_robot_agilex_stack_three_cups_rel_bs64",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/locht131/gr00t_n17_motion_robot_agilex_stack_three_cups_rel_bs64",
+    "date": "2026-07-28",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "HarrisonPENG/M2W-VLA-RoboTwin",
     "downloads": 291,
     "likes": 0,
@@ -78,6 +87,15 @@
     "url": "https://huggingface.co/GM717/instinct-wam-robotwin-clean",
     "date": "2026-07-28",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__rgb__separate__both_cameras__live__pi0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__rgb__separate__both_cameras__live__pi0",
+    "date": "2026-07-28",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -162,15 +180,6 @@
     "score": 34.9
   },
   {
-    "model": "VLA-Arena/starVLA_VLA-Arena",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/VLA-Arena/starVLA_VLA-Arena",
-    "date": "2026-07-28",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "Idan/fga-navigation",
     "downloads": 0,
     "likes": 0,
@@ -191,11 +200,11 @@
   {
     "model": "LiquidAI/LFM2.5-Encoder-350M-Policy-Linter",
     "downloads": 4,
-    "likes": 2,
+    "likes": 3,
     "url": "https://huggingface.co/LiquidAI/LFM2.5-Encoder-350M-Policy-Linter",
     "date": "2026-07-28",
     "keyword": "policy",
-    "score": 1.7
+    "score": 1.9
   },
   {
     "model": "yangsamy/yangsamy_act_policy",
@@ -286,15 +295,6 @@
     "date": "2026-07-27",
     "keyword": "robot",
     "score": 139.0
-  },
-  {
-    "model": "wijan/Robot-Action-Planner",
-    "downloads": 72,
-    "likes": 0,
-    "url": "https://huggingface.co/wijan/Robot-Action-Planner",
-    "date": "2026-07-27",
-    "keyword": "robot",
-    "score": 21.7
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1",

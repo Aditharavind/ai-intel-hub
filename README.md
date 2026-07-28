@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-28 17:15 UTC
+Last Updated: 2026-07-28 19:00 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -61,22 +61,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-28 | Waveshare RP2350-POE-ETH – A Raspberry Pi RP2350 MCU board with PoE | CNX Software | [link](https://www.cnx-software.com/2026/07/28/waveshare-rp2350-poe-eth-a-raspberry-pi-rp2350-mcu-board-with-poe/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-07-27 | Data Pyramid for Embodied Manipulation | [link](https://arxiv.org/pdf/2607.24744v1) |
-| 2026-07-27 | The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation | [link](https://arxiv.org/pdf/2607.24720v1) |
-| 2026-07-27 | Explainable Reinforcement Learning via Physics-Aware Policy Distillation | [link](https://arxiv.org/pdf/2607.24672v1) |
-| 2026-07-27 | MMOE: Modernizing Diffusion Transformers with Efficient Expert Design | [link](https://arxiv.org/pdf/2607.24665v1) |
-| 2026-07-27 | Development of a Handheld Actuation Mechanism for a Tendon-driven Robotically Steered Guidewire | [link](https://arxiv.org/pdf/2607.24629v1) |
-| 2026-07-27 | Evaluating Fuzz Testing for Reinforcement Learning Agents | [link](https://arxiv.org/pdf/2607.24577v1) |
-| 2026-07-27 | NEO: NeRF It Once, Edit It Many Times for Continuous Object Manipulation | [link](https://arxiv.org/pdf/2607.24538v1) |
-| 2026-07-27 | Stress-Testing EEG Foundation Models for Clinical Decoding: Dataset Identity and Targeted Negative Controls | [link](https://arxiv.org/pdf/2607.24519v1) |
-| 2026-07-27 | KAI: A Kinematic-Aware Interface for Data-Efficient Articulated Object Manipulation | [link](https://arxiv.org/pdf/2607.24493v1) |
-| 2026-07-27 | τ: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision | [link](https://arxiv.org/pdf/2607.24485v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-28 | locht131/gr00t_n17_motion_robot_agilex_stack_three_cups_rel_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_motion_robot_agilex_stack_three_cups_rel_bs64) |
 | 2026-07-28 | HarrisonPENG/M2W-VLA-RoboTwin | 291 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-07-28 | lerobot/hy_vla_robotwin | 0 | 1 | [link](https://huggingface.co/lerobot/hy_vla_robotwin) |
 | 2026-07-28 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 256 | 12 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
@@ -86,21 +76,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-28 | openEuler/IB_Robot_ACT_banana_pick_distill | 0 | 0 | [link](https://huggingface.co/openEuler/IB_Robot_ACT_banana_pick_distill) |
 | 2026-07-28 | mr-robot-01/smolvla_pickup_WD40_bottle | 0 | 0 | [link](https://huggingface.co/mr-robot-01/smolvla_pickup_WD40_bottle) |
 | 2026-07-28 | GM717/instinct-wam-robotwin-clean | 0 | 0 | [link](https://huggingface.co/GM717/instinct-wam-robotwin-clean) |
-| 2026-07-28 | sam-guided-vlas/train_1_2__mask__sim__separate__both_cameras__live__pi0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__sim__separate__both_cameras__live__pi0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2708 | Python | 1083.3 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2712 | Python | 1084.9 | [link](https://github.com/NVIDIA/skills) |
+| copper-project/copper-rs | 1427 | Rust | 570.9 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 895 | Python | 358.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 309 | Python | 123.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 63245 | Python | 25298.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63246 | Python | 25298.5 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16072 | Python | 6428.9 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15565 | C++ | 6226.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14359 | C++ | 5743.7 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11290 | Python | 4516.1 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11198 | Rust | 4479.3 | [link](https://github.com/rerun-io/rerun) |
+| kornia/kornia | 11291 | Python | 4516.5 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -120,7 +109,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-07-28 | AI Robot Control Startup Robai Secures Seed Funding from Korea Investment Accelerator - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE41WksycnJCRThoV1AtTlhLaGtURC1zYVhrQmNlakZyNmk5Zl9tU0k2R1k0N19oUzBqYl9RSFB1WmFGT0MxWTFUSnBkbV8talpZRkNZ?oc=5) |
-| 2026-07-28 | US startup's humanoid robot to help clinical labs handle daily task - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlJrZm9pWkpwZklrZlFJSExCNWdTcG52aHoydFNzbl9zUGVHam05ZHdMTjFCMGQwaTJYN2xKVGRkVXRnNVhBUFFiT2YydDRIdjBELUxuSEVGaVE0TUxlc09ReTM5OHFHSW4zR3FZb0ZqR2tDV3k1cGV3Tmx5a1pDSno0V3V3M0Q2Z2FaRElROA?oc=5) |
+| 2026-07-28 | US startup unveils humanoid robot to help hospital labs with routine testing work - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlJrZm9pWkpwZklrZlFJSExCNWdTcG52aHoydFNzbl9zUGVHam05ZHdMTjFCMGQwaTJYN2xKVGRkVXRnNVhBUFFiT2YydDRIdjBELUxuSEVGaVE0TUxlc09ReTM5OHFHSW4zR3FZb0ZqR2tDV3k1cGV3Tmx5a1pDSno0V3V3M0Q2Z2FaRElROA?oc=5) |
 | 2026-07-28 | A startup founded by a UCLA PhD team that focuses on developing the foundation model for humanoid robots has secured nearly 500 million yuan in Angel++ round financing | Hard Krypton Exclusive First Release - 36 Kr | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTkhJa0FNVTQtRjVoVzgxX3NzSy1GalBzTWV5R1FxUDBSRUgxSDRPQ3lDSmNrVDRCQnZLdVRYMkZQaDJRNFNadWpfaXZyZTlXMkhz?oc=5) |
 | 2026-07-28 | Humanoid startup Agility Robotics doesn't want 'coin-operated employees' - AOL.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFJGdVducEtSNUVtN2ZoSzJnQ00td1JFbmN1ak9UQ05GSlVrcC16YjFPWWp2dHY0bnhvdFlzRGtHbjkyeURRdHFpZFBpZ2p0eFc0ZWE0eDhtT2FJMzZrNHpGZ2pzMVNjYTAtOU1sYWFnT2VxVDRHc3psdmk3dW5SUTVnXzJGRmFlVGtMZA?oc=5) |
 | 2026-07-27 | Are brain waves the next unlock for physical AI? - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTRjcXgxX3pIWW5JQ3MwNkxzQmQwUzY1M2dyaTNHSkdUXzJDUlQzZjZqb1AzMHpOQlRfOUhxTWdhRktiXzlyVzNBMWR3clUwVEo1M2plbm5HSFl0N1NaTmJZZXJOQXFvakdnYXlaZV90bzZEamhwUVlZc2d5ZUhsLUxLUVRQV0hyX0E?oc=5) |
@@ -134,15 +123,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-28 | Global Supply Manager - PCBA | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4670751006) |
+| 2026-07-28 | Logistics and Inventory Specialist  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4647172006) |
+| 2026-07-28 | Staff Infrastructure Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4614747006) |
+| 2026-07-28 | Engineering Support Technician  | Agility Robotics | Onsite- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6126850004) |
 | 2026-07-28 | Senior AI Software Engineer, AI Controls | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127693004) |
+| 2026-07-28 | Senior Manager, Simulation | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA); Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127736004) |
 | 2026-07-28 | Senior Staff Software Engineer, Calibration | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127713004) |
 | 2026-07-27 | Humanoid Environment Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4677955006) |
 | 2026-07-27 | Quality Engineering Technician, BotQ | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4587570006) |
 | 2026-07-26 | Data Collection Quality Support | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4697420006) |
-| 2026-07-26 | Deployment Engineer (Data Collection) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696724006) |
-| 2026-07-26 | Hardware Technician (Data Collection) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4666292006) |
-| 2026-07-24 | AI Data Operations Manager | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4665206006) |
-| 2026-07-24 | AI Data Operations Manager | Figure AI | United Arab Emirates | [link](https://job-boards.greenhouse.io/figureai/jobs/4698164006) |
 
 ## Automation
 
