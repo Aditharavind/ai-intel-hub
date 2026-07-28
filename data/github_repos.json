@@ -1,5 +1,15 @@
 [
   {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15560,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-07-28",
+    "topic": "robotics",
+    "score": 6224.1
+  },
+  {
     "repo": "NVIDIA/skills",
     "stars": 2695,
     "language": "Python",
@@ -51,13 +61,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63238,
+    "stars": 63240,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-07-27",
     "topic": "robotics",
-    "score": 25295.3
+    "score": 25296.1
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -78,16 +88,6 @@
     "date": "2026-07-27",
     "topic": "robotics",
     "score": 6427.3
-  },
-  {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15560,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-07-27",
-    "topic": "robotics",
-    "score": 6224.1
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -121,13 +121,13 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4274,
+    "stars": 4275,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-07-27",
     "topic": "embodied-ai",
-    "score": 1709.7
+    "score": 1710.1
   },
   {
     "repo": "dora-rs/dora",
@@ -231,13 +231,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2174,
+    "stars": 2175,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-07-27",
     "topic": "humanoid",
-    "score": 869.7
+    "score": 870.1
   },
   {
     "repo": "softmata/horus",
@@ -251,13 +251,13 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7785,
+    "stars": 7786,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-07-27",
     "topic": "robot-learning",
-    "score": 3114.1
+    "score": 3114.5
   },
   {
     "repo": "vikashplus/robohive",
@@ -361,13 +361,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2893,
+    "stars": 2894,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-07-25",
     "topic": "embodied-ai",
-    "score": 1157.3
+    "score": 1157.7
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
@@ -391,13 +391,13 @@
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3232,
+    "stars": 3233,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-07-24",
     "topic": "embodied-ai",
-    "score": 1292.9
+    "score": 1293.3
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS",
@@ -481,13 +481,13 @@
   },
   {
     "repo": "NVlabs/alpamayo",
-    "stars": 1941,
+    "stars": 1943,
     "language": "Python",
     "description": "NVIDIA Alpamayo 1 Nano is an open 10B reasoning VLA model for autonomous vehicles that pairs driving trajectories with Chain-of-Causation reasoning.",
     "url": "https://github.com/NVlabs/alpamayo",
     "date": "2026-07-22",
     "topic": "vla",
-    "score": 776.5
+    "score": 777.3
   },
   {
     "repo": "RobotecAI/rai",
@@ -500,6 +500,16 @@
     "score": 222.5
   },
   {
+    "repo": "NVlabs/alpamayo1.5",
+    "stars": 344,
+    "language": "Python",
+    "description": "NVIDIA Alpamayo 1.5 Nano is an open 10B reasoning VLA model for autonomous vehicles with reinforcement-learning enhanced reasoning, navigation guidance, and visual question answering.",
+    "url": "https://github.com/NVlabs/alpamayo1.5",
+    "date": "2026-07-22",
+    "topic": "vla",
+    "score": 137.7
+  },
+  {
     "repo": "NVlabs/physical_ai_av",
     "stars": 344,
     "language": "Python",
@@ -508,16 +518,6 @@
     "date": "2026-07-22",
     "topic": "physical-ai",
     "score": 137.7
-  },
-  {
-    "repo": "NVlabs/alpamayo1.5",
-    "stars": 343,
-    "language": "Python",
-    "description": "NVIDIA Alpamayo 1.5 Nano is an open 10B reasoning VLA model for autonomous vehicles with reinforcement-learning enhanced reasoning, navigation guidance, and visual question answering.",
-    "url": "https://github.com/NVlabs/alpamayo1.5",
-    "date": "2026-07-22",
-    "topic": "vla",
-    "score": 137.3
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -601,13 +601,23 @@
   },
   {
     "repo": "NVlabs/alpasim",
-    "stars": 1141,
+    "stars": 1142,
     "language": "Python",
     "description": "AlpaSim is an open-source autonomous vehicle simulation platform designed for development and testing of end-to-end AV policies",
     "url": "https://github.com/NVlabs/alpasim",
     "date": "2026-07-21",
     "topic": "physical-ai",
-    "score": 456.5
+    "score": 456.9
+  },
+  {
+    "repo": "om-ai-lab/OmTrackVLA",
+    "stars": 264,
+    "language": "Python",
+    "description": "Open & Reproducible Research for Tracking VLAs",
+    "url": "https://github.com/om-ai-lab/OmTrackVLA",
+    "date": "2026-07-21",
+    "topic": "vla",
+    "score": 105.7
   },
   {
     "repo": "Evan-wyl/humanoid-robot-intelligence",
@@ -731,13 +741,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 10881,
+    "stars": 10918,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-11",
     "topic": "robotics",
-    "score": 4352.5
+    "score": 4367.3
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -781,23 +791,23 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82726,
+    "stars": 82729,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 33090.5
+    "score": 33091.7
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
-    "stars": 3060,
+    "stars": 3061,
     "language": "HTML",
     "description": "BOM, STL files and instructions for PAROL6 3D printed robot arm",
     "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
     "date": "2026-07-07",
     "topic": "lerobot",
-    "score": 1224.1
+    "score": 1224.5
   },
   {
     "repo": "OpenDriveLab/RISE",
@@ -888,15 +898,5 @@
     "date": "2026-06-29",
     "topic": "robot-learning",
     "score": 154.5
-  },
-  {
-    "repo": "worldbench/awesome-vla-for-ad",
-    "stars": 450,
-    "language": "HTML",
-    "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
-    "url": "https://github.com/worldbench/awesome-vla-for-ad",
-    "date": "2026-06-27",
-    "topic": "vla",
-    "score": 180.1
   }
 ]
