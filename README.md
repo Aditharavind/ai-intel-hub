@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-28 22:46 UTC
+Last Updated: 2026-07-28 23:46 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,7 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
-| 2026-07-28 | How integrated actuators improve humanoid robot joint performance and systemintegration | Robotics Business Review | [link](https://www.therobotreport.com/how-integrated-actuators-improve-humanoid-robot-joint-performance-and-system-integration/) |
+| 2026-07-28 | How integrated actuators improve humanoid robot joint performance and system integration | Robotics Business Review | [link](https://www.therobotreport.com/how-integrated-actuators-improve-humanoid-robot-joint-performance-and-system-integration/) |
 | 2026-07-28 | Robot Finger Feels in Color | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/robot-finger) |
 | 2026-07-28 | Agency Tool Company wants to make OTA software updates easier | Robotics Business Review | [link](https://www.therobotreport.com/agency-tool-company-wants-to-make-ota-software-updates-easier/) |
 | 2026-07-28 | Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/) |
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-28 | Improving the Microcontroller Gaming Performance with PicoGame | Hackaday | [link](https://hackaday.com/2026/07/28/improving-the-microcontroller-gaming-performance-with-picogame/) |
 | 2026-07-28 | Why Is Textile Work Not Taught To Engineers? | Hackaday | [link](https://hackaday.com/2026/07/28/why-is-textile-work-not-taught-to-engineers/) |
 | 2026-07-28 | Samsung’s SmartThings API Terminates Free Access | Hackaday | [link](https://hackaday.com/2026/07/28/samsungs-smartthings-api-terminates-free-access/) |
 | 2026-07-28 | Sharkfin Bites Attack Shark | Hackaday | [link](https://hackaday.com/2026/07/28/sharkfin-bites-attack-shark/) |
 | 2026-07-28 | Breaking the Parental Lock on an XBox 360 is Very Much an Inconvenience | Hackaday | [link](https://hackaday.com/2026/07/28/breaking-the-parental-lock-on-an-xbox-360-is-very-much-an-inconvenience/) |
 | 2026-07-28 | FreeBSD Just Removed the Last of its GPL-Licensed Code | Hackaday | [link](https://hackaday.com/2026/07/28/freebsd-just-removed-the-last-of-its-gpl-licensed-code/) |
 | 2026-07-28 | The Orphaned Sources At The Hacker Camp: What Happened Next | Hackaday | [link](https://hackaday.com/2026/07/28/the-orphaned-sources-at-the-hacker-camp-what-happened-next/) |
-| 2026-07-28 | De-Aging Human Tissue Using Special Enzyme to Remove AGEs | Hackaday | [link](https://hackaday.com/2026/07/27/de-aging-human-tissue-using-special-enzyme-to-remove-ages/) |
 | 2026-07-28 | Ubuntu Touch 24.04-2.0 updates Morph browser, adds notch and printing support, and more | CNX Software | [link](https://www.cnx-software.com/2026/07/28/ubuntu-touch-24-04-2-0-updates-morph-browser-adds-notch-and-printing-support-and-more/) |
 | 2026-07-28 | DFI X6X-ORN – An IP67-rated, rugged Jetson Orin NX/Nano edge AI computer with GMSL2 camera support | CNX Software | [link](https://www.cnx-software.com/2026/07/28/dfi-x6x-orn-an-ip67-rated-rugged-jetson-orin-nx-nano-edge-ai-computer-with-gmsl2-camera-support/) |
 | 2026-07-28 | Waveshare RP2350-POE-ETH – A Raspberry Pi RP2350 MCU board with PoE | CNX Software | [link](https://www.cnx-software.com/2026/07/28/waveshare-rp2350-poe-eth-a-raspberry-pi-rp2350-mcu-board-with-poe/) |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-28 | locht131/gr00t_n17_ot_swd_robot_agilex_stack_three_cups_rel_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_ot_swd_robot_agilex_stack_three_cups_rel_bs64) |
 | 2026-07-28 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 256 | 12 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 | 2026-07-28 | locht131/gr00t_n17_motion_robot_agilex_stack_three_cups_rel_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_motion_robot_agilex_stack_three_cups_rel_bs64) |
 | 2026-07-28 | HarrisonPENG/M2W-VLA-RoboTwin | 291 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-28 | NCDTech/real-robot-driving-mlp-numpy | 0 | 0 | [link](https://huggingface.co/NCDTech/real-robot-driving-mlp-numpy) |
 | 2026-07-28 | openEuler/IB_Robot_ACT_banana_pick_distill | 0 | 0 | [link](https://huggingface.co/openEuler/IB_Robot_ACT_banana_pick_distill) |
 | 2026-07-28 | mr-robot-01/smolvla_pickup_WD40_bottle | 0 | 0 | [link](https://huggingface.co/mr-robot-01/smolvla_pickup_WD40_bottle) |
-| 2026-07-28 | GM717/instinct-wam-robotwin-clean | 0 | 0 | [link](https://huggingface.co/GM717/instinct-wam-robotwin-clean) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -100,7 +100,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | zauberzeug/nicegui | 16071 | Python | 6428.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15566 | C++ | 6226.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14358 | C++ | 5743.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 11494 | JavaScript | 4597.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 11506 | JavaScript | 4602.5 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -121,7 +121,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-28 | AI Robot Control Startup Robai Secures Seed Funding from Korea Investment Accelerator - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE41WksycnJCRThoV1AtTlhLaGtURC1zYVhrQmNlakZyNmk5Zl9tU0k2R1k0N19oUzBqYl9RSFB1WmFGT0MxWTFUSnBkbV8talpZRkNZ?oc=5) |
 | 2026-07-28 | US startup unveils humanoid robot to help hospital labs with routine testing work - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlJrZm9pWkpwZklrZlFJSExCNWdTcG52aHoydFNzbl9zUGVHam05ZHdMTjFCMGQwaTJYN2xKVGRkVXRnNVhBUFFiT2YydDRIdjBELUxuSEVGaVE0TUxlc09ReTM5OHFHSW4zR3FZb0ZqR2tDV3k1cGV3Tmx5a1pDSno0V3V3M0Q2Z2FaRElROA?oc=5) |
-| 2026-07-28 | A startup founded by a UCLA PhD team that focuses on developing the foundation model for humanoid robots has secured nearly 500 million yuan in Angel++ round financing | Hard Krypton Exclusive First Release - 36氪 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTkhJa0FNVTQtRjVoVzgxX3NzSy1GalBzTWV5R1FxUDBSRUgxSDRPQ3lDSmNrVDRCQnZLdVRYMkZQaDJRNFNadWpfaXZyZTlXMkhz?oc=5) |
+| 2026-07-28 | A startup founded by a UCLA PhD team that focuses on developing the foundation model for humanoid robots has secured nearly 500 million yuan in Angel++ round financing | Hard Krypton Exclusive First Release - 36 Kr | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTkhJa0FNVTQtRjVoVzgxX3NzSy1GalBzTWV5R1FxUDBSRUgxSDRPQ3lDSmNrVDRCQnZLdVRYMkZQaDJRNFNadWpfaXZyZTlXMkhz?oc=5) |
 | 2026-07-28 | Humanoid startup Agility Robotics doesn't want 'coin-operated employees' - AOL.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFJGdVducEtSNUVtN2ZoSzJnQ00td1JFbmN1ak9UQ05GSlVrcC16YjFPWWp2dHY0bnhvdFlzRGtHbjkyeURRdHFpZFBpZ2p0eFc0ZWE0eDhtT2FJMzZrNHpGZ2pzMVNjYTAtOU1sYWFnT2VxVDRHc3psdmk3dW5SUTVnXzJGRmFlVGtMZA?oc=5) |
 | 2026-07-27 | Are brain waves the next unlock for physical AI? - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTRjcXgxX3pIWW5JQ3MwNkxzQmQwUzY1M2dyaTNHSkdUXzJDUlQzZjZqb1AzMHpOQlRfOUhxTWdhRktiXzlyVzNBMWR3clUwVEo1M2plbm5HSFl0N1NaTmJZZXJOQXFvakdnYXlaZV90bzZEamhwUVlZc2d5ZUhsLUxLUVRQV0hyX0E?oc=5) |
 | 2026-07-27 | Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE02elZVdk1Iczl5UzdTQldJWkxvTWxIejI0dll0ZFhoR0NPR0swUENTdW03b0hlR21sZHJRVUZ1M2xtSzdGQXkzc19VV1lBZWF3TlFKZHNNTEdBTi11d0lHT0txcmhUQmFw?oc=5) |
@@ -134,6 +134,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-07-28 | Global Supply Manager - PCBA | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4670751006) |
+| 2026-07-28 | Hardware Test Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4613067006) |
 | 2026-07-28 | Helix AI Engineer, Android | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4660876006) |
 | 2026-07-28 | Helix AI Engineer, Backend Infrastructure  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4685172006) |
 | 2026-07-28 | Helix AI Engineer, iOS | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4700616006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-28 | Engineering Support Technician  | Agility Robotics | Onsite- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6126850004) |
 | 2026-07-28 | Robot Operator II | Agility Robotics | Onsite- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6014586004) |
 | 2026-07-28 | Senior AI Software Engineer, AI Controls | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127693004) |
-| 2026-07-28 | Senior Manager, Simulation | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA); Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127736004) |
 
 ## Automation
 
