@@ -90,6 +90,15 @@
     "score": 0.1
   },
   {
+    "model": "siliconperception/VLA",
+    "downloads": 100,
+    "likes": 0,
+    "url": "https://huggingface.co/siliconperception/VLA",
+    "date": "2026-07-29",
+    "keyword": "vla",
+    "score": 30.1
+  },
+  {
     "model": "IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-cabinet-joint-2cam-yanZ",
     "downloads": 0,
     "likes": 0,
@@ -99,13 +108,13 @@
     "score": 0.1
   },
   {
-    "model": "siliconperception/VLA",
-    "downloads": 100,
+    "model": "IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/siliconperception/VLA",
+    "url": "https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ",
     "date": "2026-07-29",
     "keyword": "vla",
-    "score": 30.1
+    "score": 0.1
   },
   {
     "model": "sam-guided-vlas/pi05_rs-train_1_2-overlay-a025",
@@ -189,12 +198,21 @@
     "score": 34.9
   },
   {
-    "model": "UNIC0RN-Zhu/lightweight-vla-drive-decision-adapter-v10",
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-v2",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/UNIC0RN-Zhu/lightweight-vla-drive-decision-adapter-v10",
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-v2",
     "date": "2026-07-29",
-    "keyword": "vla",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch0.76-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch0.76-v2",
+    "date": "2026-07-29",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -223,6 +241,15 @@
     "date": "2026-07-29",
     "keyword": "embodied",
     "score": 0.3
+  },
+  {
+    "model": "yangsamy/yangsamy_pi0_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yangsamy/yangsamy_pi0_policy",
+    "date": "2026-07-29",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "shunshun1/policy_pi05_box_training1",
@@ -322,15 +349,6 @@
     "date": "2026-07-29",
     "keyword": "policy",
     "score": 212.1
-  },
-  {
-    "model": "Chaenn/smolvla_policy_so101_cube_multitask_hil_0729",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Chaenn/smolvla_policy_so101_cube_multitask_hil_0729",
-    "date": "2026-07-29",
-    "keyword": "policy",
-    "score": 0.1
   },
   {
     "model": "locht131/gr00t_n17_ot_swd_robot_agilex_stack_three_cups_rel_bs64",
@@ -630,15 +648,6 @@
     "score": 10.3
   },
   {
-    "model": "DiogenesLab/world-model-research",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/DiogenesLab/world-model-research",
-    "date": "2026-07-20",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
     "model": "Datawhale/every-embodied-act-mujoco-pnp",
     "downloads": 0,
     "likes": 0,
@@ -664,15 +673,6 @@
     "date": "2026-07-20",
     "keyword": "physical ai",
     "score": 0.1
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-lora-epoch3",
-    "downloads": 44,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-lora-epoch3",
-    "date": "2026-07-19",
-    "keyword": "world model",
-    "score": 13.3
   },
   {
     "model": "SEU-PAISys/Embodied.cpp",
