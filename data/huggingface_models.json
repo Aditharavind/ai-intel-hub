@@ -1,5 +1,14 @@
 [
   {
+    "model": "yuyangalin/ImageWAM-FLUX.2-4B-RoboTwin-C2R-FT",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yuyangalin/ImageWAM-FLUX.2-4B-RoboTwin-C2R-FT",
+    "date": "2026-07-29",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "Haoran231/fastwam-robotwin-mixed",
     "downloads": 0,
     "likes": 0,
@@ -29,11 +38,11 @@
   {
     "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
     "downloads": 256,
-    "likes": 12,
+    "likes": 13,
     "url": "https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1",
     "date": "2026-07-29",
     "keyword": "robot",
-    "score": 79.3
+    "score": 79.5
   },
   {
     "model": "junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_rerun2",
@@ -78,6 +87,42 @@
     "url": "https://huggingface.co/RobotisSW/Task_Dispose_WoodTable_10K_MCAP",
     "date": "2026-07-29",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "vladinc/s23",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladinc/s23",
+    "date": "2026-07-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "VladShash/qwen3-feedback-grpo-fl0.0-step320",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VladShash/qwen3-feedback-grpo-fl0.0-step320",
+    "date": "2026-07-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "VladShash/qwen3-feedback-grpo-fl0.05-step310",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VladShash/qwen3-feedback-grpo-fl0.05-step310",
+    "date": "2026-07-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "VladShash/qwen3-feedback-grpo-fl0.05-step320",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VladShash/qwen3-feedback-grpo-fl0.05-step320",
+    "date": "2026-07-29",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -151,6 +196,15 @@
     "date": "2026-07-29",
     "keyword": "embodied",
     "score": 0.3
+  },
+  {
+    "model": "MichaelHui/my_policy_2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MichaelHui/my_policy_2",
+    "date": "2026-07-29",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "Chaenn/act_policy_so101_cube_multitask_hil_0729",
@@ -252,15 +306,6 @@
     "score": 0.1
   },
   {
-    "model": "shunshun1/policy_pi05_camera_training",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/shunshun1/policy_pi05_camera_training",
-    "date": "2026-07-29",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "locht131/gr00t_n17_ot_swd_robot_agilex_stack_three_cups_rel_bs64",
     "downloads": 0,
     "likes": 0,
@@ -279,15 +324,6 @@
     "score": 0.1
   },
   {
-    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
-    "downloads": 291,
-    "likes": 0,
-    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
-    "date": "2026-07-28",
-    "keyword": "vla",
-    "score": 87.4
-  },
-  {
     "model": "sii-research/tau-0-vla",
     "downloads": 38,
     "likes": 2,
@@ -295,33 +331,6 @@
     "date": "2026-07-28",
     "keyword": "vla",
     "score": 11.9
-  },
-  {
-    "model": "Gogul99/modified_RoboMamba_VLA",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Gogul99/modified_RoboMamba_VLA",
-    "date": "2026-07-28",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "lerobot/hy_vla_umi",
-    "downloads": 0,
-    "likes": 2,
-    "url": "https://huggingface.co/lerobot/hy_vla_umi",
-    "date": "2026-07-28",
-    "keyword": "vla",
-    "score": 0.5
-  },
-  {
-    "model": "lerobot/hy_vla_robotwin",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/lerobot/hy_vla_robotwin",
-    "date": "2026-07-28",
-    "keyword": "vla",
-    "score": 0.3
   },
   {
     "model": "Idan/fga-navigation",
