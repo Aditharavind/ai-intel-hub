@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-29 17:00 UTC
+Last Updated: 2026-07-29 18:07 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-29 | Accelerating scientific discovery with ChatGPT for Academic Researchers | OpenAI | [link](https://openai.com/index/chatgpt-for-academic-researchers) |
 | 2026-07-28 | Scientific computing in the age of agentic AI | OpenAI | [link](https://openai.com/index/scientific-computing-agentic-ai) |
 | 2026-07-28 | The OlmoEarth Platform: Geospatial inference at planetary scale | Hugging Face | [link](https://huggingface.co/blog/allenai/olmoearth-infrastructure) |
 | 2026-07-28 | LFM2.5-Encoders for Fast Long-Context Inference on CPU | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/lfm2-5-encoders) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-23 | Launching Health in ChatGPT | OpenAI | [link](https://openai.com/index/health-in-chatgpt) |
 | 2026-07-23 | Bringing Nunchaku 4-bit Diffusion Inference to Diffusers | Hugging Face | [link](https://huggingface.co/blog/nunchaku-diffusers) |
 | 2026-07-22 | Building AI infrastructure with the Effingham County community | OpenAI | [link](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community) |
-| 2026-07-22 | How news organizations are using AI to advance their vital missions | OpenAI | [link](https://openai.com/index/how-news-organizations-are-using-ai) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-29 | FLOSS Weekly Episode 877: RCE As a Service | Hackaday | [link](https://hackaday.com/2026/07/29/floss-weekly-episode-877-rce-as-a-service/) |
 | 2026-07-29 | The ESP32 Gets a Web Browser | Hackaday | [link](https://hackaday.com/2026/07/29/the-esp32-gets-a-web-browser/) |
 | 2026-07-29 | Thingino Teaches Cheap IP Cameras New Tricks | Hackaday | [link](https://hackaday.com/2026/07/29/thingino-teaches-cheap-ip-cameras-new-tricks/) |
 | 2026-07-29 | Behold The Most Beautifully Ambitious Starship Simulator Yet | Hackaday | [link](https://hackaday.com/2026/07/29/behold-the-most-beautifully-ambitious-starship-simulator-yet/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-29 | NXP RW610FML Wi-Fi 6 and BLE 5.4 module features RW610 Cortex-M33 wireless MCU | CNX Software | [link](https://www.cnx-software.com/2026/07/29/nxp-rw610fml-wi-fi-6-and-ble-5-4-module-features-rw610-cortex-m33-wireless-mcu/) |
 | 2026-07-29 | 7.6-inch square HDMI displays with USB capacitive touchscreen offered at 1200×1200 or 800×800 resolution | CNX Software | [link](https://www.cnx-software.com/2026/07/29/7-6-inch-square-hdmi-displays-with-usb-capacitive-touchscreen-offered-at-1200x1200-or-800x800-resolution/) |
 | 2026-07-29 | Sovol M1D hybrid IDEX 3D printer features 6 interchangeable toolheads for multi-color and multi-material prints (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/29/sovol-m1d-hybrid-idex-3d-printer-features-6-interchangeable-toolheads-for-multi-color-and-multi-material-prints/) |
-| 2026-07-29 | SensWear – An open-source modular Nordic nRF54L15 development platform for wearables | CNX Software | [link](https://www.cnx-software.com/2026/07/29/senswear-an-open-source-modular-nordic-nrf54l15-development-platform-for-wearables/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -95,11 +95,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1427 | Rust | 570.9 | [link](https://github.com/copper-project/copper-rs) |
 | Edgenesis/shifu | 1426 | Go | 570.5 | [link](https://github.com/Edgenesis/shifu) |
 | mosaico-labs/mosaico | 896 | Python | 358.5 | [link](https://github.com/mosaico-labs/mosaico) |
-| awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63257 | Python | 25302.9 | [link](https://github.com/commaai/openpilot) |
+| awslabs/awsome-distributed-ai | 468 | Shell | 187.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| commaai/openpilot | 63258 | Python | 25303.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15571 | C++ | 6228.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14369 | C++ | 5747.7 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 11784 | JavaScript | 4713.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14370 | C++ | 5748.1 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 11794 | JavaScript | 4717.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11207 | Rust | 4482.9 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
@@ -119,6 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-29 | Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVBscjBlM3NnV2pQVVgtaExVSHJkTlRIQ0JPakljOTBSai00bnp5M2NvQ1VGaUttR2ROWDlXenE1RVNLVHVFZ2xCU29ha0dCQlAwWkV1YW5kX05GdDdCdE4wR2tfQW5lWnp2ZEtOUVR3d2lVX0JhMXdHeWJVeGhyQjlxTXpRRU5MRjBLZUl1Q1Y5Z0NSbWozU1VVNmplUmNN?oc=5) |
 | 2026-07-29 | [Planning] Korea Ranks No. 1 in Robot Density—149 ‘Physical AI’ Startups Are Taking Off - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iXzRrbUlHaUhoZ0JKcFF2a0dGVDZhMzB1ZUtfS0NaSTJtemlGWWJKclhibU1EbHlTRC1Bd3lQMmZ3cHpGdVFGaEE1d3cxZDk1NFlIWg?oc=5) |
 | 2026-07-29 | French startup unveils non-humanoid robot as AI race moves to physical machines - AOL.co.uk | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkRPVXBXc1hsRWdqWnBzQzl0TlQ1V1o2NjAyMEJEenBmYmJDY0RZUG9CNjdVMGwwRUprOVBaaVNmVlk1MVRKcjMyNjU0b2xwaWVNUlhrZC00QzQtOHBTUG82aVg3UnExdkVRZDM5N3lLRGg3ZjRUSlNYNURTeDVpcWJJcUNERGRw?oc=5) |
 | 2026-07-28 | Physical AI gets practical in SEA - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE43LTFHOUtMS1ZsUDR6cHdOSzBiVTlJTmVHeTFUTE8tbUd3Wl81RWJlM0ZtdUxzZEhXbUw0WXVkU0xleDhnYS1hRE16MzdYY3FFNVZVeGdvaGh5bXQ0WnpiM211UDI1c09Zd1R1UA?oc=5) |
@@ -128,11 +129,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-27 | Are brain waves the next unlock for physical AI? - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTRjcXgxX3pIWW5JQ3MwNkxzQmQwUzY1M2dyaTNHSkdUXzJDUlQzZjZqb1AzMHpOQlRfOUhxTWdhRktiXzlyVzNBMWR3clUwVEo1M2plbm5HSFl0N1NaTmJZZXJOQXFvakdnYXlaZV90bzZEamhwUVlZc2d5ZUhsLUxLUVRQV0hyX0E?oc=5) |
 | 2026-07-27 | Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE02elZVdk1Iczl5UzdTQldJWkxvTWxIejI0dll0ZFhoR0NPR0swUENTdW03b0hlR21sZHJRVUZ1M2xtSzdGQXkzc19VV1lBZWF3TlFKZHNNTEdBTi11d0lHT0txcmhUQmFw?oc=5) |
 | 2026-07-27 | Japanese university startups develop AI robot arms for delicate tasks - Nikkei Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDJSdjVUNXJrcFZpY3lBdW1NU1Z1LU5zcWI4UWs2NGd0LU5QMGFGZHNmM1ZPdXZYLXdqblQ4Zkdrb0poZlVkRENyUDlpaERLcExQSlliVVVUN1oxb2hhZVozcTBMbmd5T0xENlM5THMxNlNiMUVseldLbjBwWGRqRzZyNGdaNXphWURIem5KaGZhSWVXcmVKY3N4OW90ZEhraC02SkFoZWxfS2RHTU1xVXJNLV9mcFk2eE1XWnd6Vi1fLXprVDdST3dCUUg0YVM3UXVn?oc=5) |
-| 2026-07-26 | Genesis AI is in talks to raise $500 million at a $3 billion valuation just a year after emerging from stealth - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOG81aXpQdEo0UnQ4SmtJenVVRjl4enZVeFNwd2pMQzBtdG55ZUthaGNtajA5N2M4RTlCTHhXNmhScjJ6U0txS0lpYUtNbmswU3BXUE5EMGI1ekp6ZjNLSzR1enJyRmxZQVBnWTZKT0pHWmJOcC1OV1FlQWdTbTM0TXhYQ29lMWg3UGQyVV95dE1aR2FlY1N0UEg3cEgzTkdlZFZuM3RJSDZSM2o3RzVXM0xwZGs5aHJ0NmItRUNidDVjaUNtSlpoTFBEaktXdVgteUE?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-29 | Helix AI Engineer, Backend  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4685172006) |
+| 2026-07-29 | Humanoid Robot Operator & Data Creator — Fontana, CA (Customer Site) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4700899006) |
 | 2026-07-29 | Lead Data Scientist, Robotics | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127729004) |
 | 2026-07-29 | Manager, Robot Diagnostics & Analysis | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6017803004) |
 | 2026-07-29 | Robot Operator II | Agility Robotics | Onsite- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6014586004) |
@@ -141,8 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-29 | Senior Manager, Logistics | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6105210004) |
 | 2026-07-29 | Senior Robotics Mechanical Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6008696004) |
 | 2026-07-29 | Senior Robot Software Triage & RCA Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5830827004) |
-| 2026-07-29 | Senior Staff Systems Integration Engineer (Power & Compute) | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6114100004) |
-| 2026-07-29 | Senior Staff Systems Integration Engineer (Tech Lead) | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6083311004) |
 
 ## Automation
 
