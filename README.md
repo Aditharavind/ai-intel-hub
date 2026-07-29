@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-29 22:44 UTC
+Last Updated: 2026-07-29 23:48 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-29 | How enabling two settings tripled our scores on the ARC-AGI-3 benchmark | OpenAI | [link](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores) |
 | 2026-07-29 | Accelerating scientific discovery with ChatGPT for Academic Researchers | OpenAI | [link](https://openai.com/index/chatgpt-for-academic-researchers) |
 | 2026-07-29 | How GPT-5.6 fuses frontier intelligence with frontier efficiency | OpenAI | [link](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency) |
 | 2026-07-28 | Scientific computing in the age of agentic AI | OpenAI | [link](https://openai.com/index/scientific-computing-agentic-ai) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-27 | NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics | Hugging Face | [link](https://huggingface.co/blog/nvidia/cosmos-h-dreams) |
 | 2026-07-27 | Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident | Hugging Face | [link](https://huggingface.co/blog/agent-intrusion-technical-timeline) |
 | 2026-07-23 | Launching Health in ChatGPT | OpenAI | [link](https://openai.com/index/health-in-chatgpt) |
-| 2026-07-23 | Bringing Nunchaku 4-bit Diffusion Inference to Diffusers | Hugging Face | [link](https://huggingface.co/blog/nunchaku-diffusers) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -36,6 +36,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-07-29 | Experts react to FCC limits on U.S. imports of new humanoid and mobile robots | Robotics Business Review | [link](https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots/) |
+| 2026-07-29 | GMEX Robotics to acquire MediaMeta.ai for social intelligence | Robotics Business Review | [link](https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/) |
 | 2026-07-28 | How integrated actuators improve humanoid robot joint performance and system integration | Robotics Business Review | [link](https://www.therobotreport.com/how-integrated-actuators-improve-humanoid-robot-joint-performance-and-system-integration/) |
 | 2026-07-28 | Robot Finger Feels in Color | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/robot-finger) |
 | 2026-07-28 | Agency Tool Company wants to make OTA software updates easier | Robotics Business Review | [link](https://www.therobotreport.com/agency-tool-company-wants-to-make-ota-software-updates-easier/) |
@@ -44,18 +45,17 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-28 | ENvue Medical develops robotic feeding tube placement system | Robotics Business Review | [link](https://www.therobotreport.com/envue-medical-develops-robotic-feeding-tube-placement-system/) |
 | 2026-07-27 | NORD expands compact NORDAC VFD family to 200 hp | Robotics Business Review | [link](https://www.therobotreport.com/nord-expands-nordac-compact-vfd-family-to-200-hp/) |
 | 2026-07-27 | Kraken Technology raises Series B funding for autonomous vessels | Robotics Business Review | [link](https://www.therobotreport.com/kraken-technology-raises-series-b-funding-autonomous-vessels/) |
-| 2026-07-26 | Magmotor makes motors for a changing world for 150+ years | Robotics Business Review | [link](https://www.therobotreport.com/magmotor-makes-motors-changing-world-150-years/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-29 | Using Video Glasses As a Camera Viewfinder Is Harder Than It Looks | Hackaday | [link](https://hackaday.com/2026/07/29/using-video-glasses-as-a-camera-viewfinder-is-harder-than-it-looks/) |
 | 2026-07-29 | Scrap Pinball Parts Become Beautiful Wall Art | Hackaday | [link](https://hackaday.com/2026/07/29/scrap-pinball-parts-become-beautiful-wall-art/) |
 | 2026-07-29 | FLOSS Weekly Episode 877: RCE As a Service | Hackaday | [link](https://hackaday.com/2026/07/29/floss-weekly-episode-877-rce-as-a-service/) |
 | 2026-07-29 | The ESP32 Gets a Web Browser | Hackaday | [link](https://hackaday.com/2026/07/29/the-esp32-gets-a-web-browser/) |
 | 2026-07-29 | Thingino Teaches Cheap IP Cameras New Tricks | Hackaday | [link](https://hackaday.com/2026/07/29/thingino-teaches-cheap-ip-cameras-new-tricks/) |
 | 2026-07-29 | Behold The Most Beautifully Ambitious Starship Simulator Yet | Hackaday | [link](https://hackaday.com/2026/07/29/behold-the-most-beautifully-ambitious-starship-simulator-yet/) |
 | 2026-07-29 | Building a Portable Weather Radar | Hackaday | [link](https://hackaday.com/2026/07/29/building-a-portable-weather-radar/) |
-| 2026-07-29 | DOOM Using Regular Expressions | Hackaday | [link](https://hackaday.com/2026/07/28/doom-using-regular-expressions/) |
 | 2026-07-29 | NXP RW610FML Wi-Fi 6 and BLE 5.4 module features RW610 Cortex-M33 wireless MCU | CNX Software | [link](https://www.cnx-software.com/2026/07/29/nxp-rw610fml-wi-fi-6-and-ble-5-4-module-features-rw610-cortex-m33-wireless-mcu/) |
 | 2026-07-29 | 7.6-inch square HDMI displays with USB capacitive touchscreen offered at 1200×1200 or 800×800 resolution | CNX Software | [link](https://www.cnx-software.com/2026/07/29/7-6-inch-square-hdmi-displays-with-usb-capacitive-touchscreen-offered-at-1200x1200-or-800x800-resolution/) |
 | 2026-07-29 | Sovol M1D hybrid IDEX 3D printer features 6 interchangeable toolheads for multi-color and multi-material prints (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/29/sovol-m1d-hybrid-idex-3d-printer-features-6-interchangeable-toolheads-for-multi-color-and-multi-material-prints/) |
@@ -98,8 +98,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | awslabs/awsome-distributed-ai | 468 | Shell | 187.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63261 | Python | 25304.5 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15572 | C++ | 6228.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14374 | C++ | 5749.7 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 11845 | JavaScript | 4738.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14375 | C++ | 5750.1 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 11850 | JavaScript | 4740.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11210 | Rust | 4484.1 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
@@ -121,14 +121,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-29 | Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVBscjBlM3NnV2pQVVgtaExVSHJkTlRIQ0JPakljOTBSai00bnp5M2NvQ1VGaUttR2ROWDlXenE1RVNLVHVFZ2xCU29ha0dCQlAwWkV1YW5kX05GdDdCdE4wR2tfQW5lWnp2ZEtOUVR3d2lVX0JhMXdHeWJVeGhyQjlxTXpRRU5MRjBLZUl1Q1Y5Z0NSbWozU1VVNmplUmNN?oc=5) |
 | 2026-07-29 | [Planning] Korea Ranks No. 1 in Robot Density—149 ‘Physical AI’ Startups Are Taking Off - kspost.biz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iXzRrbUlHaUhoZ0JKcFF2a0dGVDZhMzB1ZUtfS0NaSTJtemlGWWJKclhibU1EbHlTRC1Bd3lQMmZ3cHpGdVFGaEE1d3cxZDk1NFlIWg?oc=5) |
+| 2026-07-29 | Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation - africa.businessinsider.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPendZdV95SHdpWmk3LWtBUzY4b243TFhuMUZPSVNIVUt5RWdXQlRfQUh5d0NiUXUxRFBEN0hrQ21USFVwUV8wNnJCRWxxVGxCdUpWTkFXakVqbTdITFd3VGVFc1MzY05pcWROazUxb2JZemRXRGdlTmdsU0tpeEdFT0NJUEVRWERtNEVBYzFXdW52ZlpXOW9vb29rdUVFemUycXFGVGVSWVdMcUFTWVk5bVBSZjRmVkRtTE1pbm1pSjNJUnpid25MYjY0LU8?oc=5) |
 | 2026-07-29 | China claims six of the world's ten most innovative humanoid robot startups as the US moves to ban its machines - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUkpHbldGbEhGUC00SzhaUm5Rbi1ZMExBbzZPZkpjclRuMjVXTVFoNTJWT0FDZWhUTXFfVFRpY0hCZkhxZ3BRYmxBd0ExRDhMZzZYLUhOZHc2aGlvdHE3cTZxSVhReC1ISzN0eHBSai1sanB5VDl0NEJyNjlZY2J0TUNSXy1wTFg4Tm5TdW5kemFJV2pIVzU0WHJtYUkxemxLcFVIVDFYc2NLOWlMcnAzbmhrakFnR1MtdHFmMllOR054UGF5dGRqaDF1b0R0OHYyTzF3dQ?oc=5) |
+| 2026-07-29 | French startup unveils non-humanoid robot as AI race moves to physical machines - AOL.co.uk | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkRPVXBXc1hsRWdqWnBzQzl0TlQ1V1o2NjAyMEJEenBmYmJDY0RZUG9CNjdVMGwwRUprOVBaaVNmVlk1MVRKcjMyNjU0b2xwaWVNUlhrZC00QzQtOHBTUG82aVg3UnExdkVRZDM5N3lLRGg3ZjRUSlNYNURTeDVpcWJJcUNERGRw?oc=5) |
 | 2026-07-28 | Physical AI gets practical in SEA - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE43LTFHOUtMS1ZsUDR6cHdOSzBiVTlJTmVHeTFUTE8tbUd3Wl81RWJlM0ZtdUxzZEhXbUw0WXVkU0xleDhnYS1hRE16MzdYY3FFNVZVeGdvaGh5bXQ0WnpiM211UDI1c09Zd1R1UA?oc=5) |
 | 2026-07-28 | US startup unveils humanoid robot to help hospital labs with routine testing work - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlJrZm9pWkpwZklrZlFJSExCNWdTcG52aHoydFNzbl9zUGVHam05ZHdMTjFCMGQwaTJYN2xKVGRkVXRnNVhBUFFiT2YydDRIdjBELUxuSEVGaVE0TUxlc09ReTM5OHFHSW4zR3FZb0ZqR2tDV3k1cGV3Tmx5a1pDSno0V3V3M0Q2Z2FaRElROA?oc=5) |
 | 2026-07-28 | A startup founded by a UCLA PhD team that focuses on developing the foundation model for humanoid robots has secured nearly 500 million yuan in Angel++ round financing | Hard Krypton Exclusive First Release - 36氪 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTkhJa0FNVTQtRjVoVzgxX3NzSy1GalBzTWV5R1FxUDBSRUgxSDRPQ3lDSmNrVDRCQnZLdVRYMkZQaDJRNFNadWpfaXZyZTlXMkhz?oc=5) |
-| 2026-07-28 | Humanoid startup Agility Robotics doesn't want 'coin-operated employees' - aol.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFJGdVducEtSNUVtN2ZoSzJnQ00td1JFbmN1ak9UQ05GSlVrcC16YjFPWWp2dHY0bnhvdFlzRGtHbjkyeURRdHFpZFBpZ2p0eFc0ZWE0eDhtT2FJMzZrNHpGZ2pzMVNjYTAtOU1sYWFnT2VxVDRHc3psdmk3dW5SUTVnXzJGRmFlVGtMZA?oc=5) |
+| 2026-07-28 | Humanoid startup Agility Robotics doesn't want 'coin-operated employees' - AOL.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFJGdVducEtSNUVtN2ZoSzJnQ00td1JFbmN1ak9UQ05GSlVrcC16YjFPWWp2dHY0bnhvdFlzRGtHbjkyeURRdHFpZFBpZ2p0eFc0ZWE0eDhtT2FJMzZrNHpGZ2pzMVNjYTAtOU1sYWFnT2VxVDRHc3psdmk3dW5SUTVnXzJGRmFlVGtMZA?oc=5) |
 | 2026-07-27 | Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE02elZVdk1Iczl5UzdTQldJWkxvTWxIejI0dll0ZFhoR0NPR0swUENTdW03b0hlR21sZHJRVUZ1M2xtSzdGQXkzc19VV1lBZWF3TlFKZHNNTEdBTi11d0lHT0txcmhUQmFw?oc=5) |
-| 2026-07-27 | Japanese university startups develop AI robot arms for delicate tasks - Nikkei Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDJSdjVUNXJrcFZpY3lBdW1NU1Z1LU5zcWI4UWs2NGd0LU5QMGFGZHNmM1ZPdXZYLXdqblQ4Zkdrb0poZlVkRENyUDlpaERLcExQSlliVVVUN1oxb2hhZVozcTBMbmd5T0xENlM5THMxNlNiMUVseldLbjBwWGRqRzZyNGdaNXphWURIem5KaGZhSWVXcmVKY3N4OW90ZEhraC02SkFoZWxfS2RHTU1xVXJNLV9mcFk2eE1XWnd6Vi1fLXprVDdST3dCUUg0YVM3UXVn?oc=5) |
-| 2026-07-26 | Genesis AI is in talks to raise $500 million at a $3 billion valuation just a year after emerging from stealth - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOG81aXpQdEo0UnQ4SmtJenVVRjl4enZVeFNwd2pMQzBtdG55ZUthaGNtajA5N2M4RTlCTHhXNmhScjJ6U0txS0lpYUtNbmswU3BXUE5EMGI1ekp6ZjNLSzR1enJyRmxZQVBnWTZKT0pHWmJOcC1OV1FlQWdTbTM0TXhYQ29lMWg3UGQyVV95dE1aR2FlY1N0UEg3cEgzTkdlZFZuM3RJSDZSM2o3RzVXM0xwZGs5aHJ0NmItRUNidDVjaUNtSlpoTFBEaktXdVgteUE?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
