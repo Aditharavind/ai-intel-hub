@@ -1,23 +1,23 @@
 [
   {
     "repo": "NVIDIA/skills",
-    "stars": 2726,
+    "stars": 2727,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-07-29",
     "topic": "physical-ai",
-    "score": 1090.5
+    "score": 1090.9
   },
   {
     "repo": "copper-project/copper-rs",
-    "stars": 1427,
+    "stars": 1428,
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
     "date": "2026-07-29",
     "topic": "physical-ai",
-    "score": 570.9
+    "score": 571.3
   },
   {
     "repo": "Edgenesis/shifu",
@@ -51,53 +51,53 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63258,
+    "stars": 63260,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-07-29",
     "topic": "robotics",
-    "score": 25303.3
+    "score": 25304.1
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15571,
+    "stars": 15572,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-07-29",
     "topic": "robotics",
-    "score": 6228.5
+    "score": 6228.9
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14371,
+    "stars": 14373,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-07-29",
     "topic": "robotics",
-    "score": 5748.5
+    "score": 5749.3
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 11821,
+    "stars": 11835,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-29",
     "topic": "robotics",
-    "score": 4728.5
+    "score": 4734.1
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11207,
+    "stars": 11209,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-07-29",
     "topic": "robotics",
-    "score": 4482.9
+    "score": 4483.7
   },
   {
     "repo": "nasa-jpl/open-source-rover",
@@ -201,23 +201,33 @@
   },
   {
     "repo": "baidu-baige/LoongForge",
-    "stars": 322,
+    "stars": 323,
     "language": "Python",
     "description": "A unified, high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.",
     "url": "https://github.com/baidu-baige/LoongForge",
     "date": "2026-07-29",
     "topic": "vla",
-    "score": 128.9
+    "score": 129.3
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5735,
+    "stars": 5736,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-29",
     "topic": "world-model",
-    "score": 2294.1
+    "score": 2294.5
+  },
+  {
+    "repo": "galilai-group/stable-worldmodel",
+    "stars": 2077,
+    "language": "Python",
+    "description": "A platform for reproducible world model research and evaluation",
+    "url": "https://github.com/galilai-group/stable-worldmodel",
+    "date": "2026-07-29",
+    "topic": "world-model",
+    "score": 830.9
   },
   {
     "repo": "zli12321/Vision-Language-Models-Overview",
@@ -228,6 +238,16 @@
     "date": "2026-07-29",
     "topic": "world-model",
     "score": 273.3
+  },
+  {
+    "repo": "NVlabs/ProtoMotions",
+    "stars": 2185,
+    "language": "Python",
+    "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
+    "url": "https://github.com/NVlabs/ProtoMotions",
+    "date": "2026-07-29",
+    "topic": "humanoid",
+    "score": 874.1
   },
   {
     "repo": "ROBOTIS-GIT/ai_worker",
@@ -311,13 +331,13 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4317,
+    "stars": 4318,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-07-28",
     "topic": "embodied-ai",
-    "score": 1726.9
+    "score": 1727.3
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
@@ -331,13 +351,13 @@
   },
   {
     "repo": "leofan90/Awesome-World-Models",
-    "stars": 1931,
+    "stars": 1933,
     "language": "Python",
     "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
     "url": "https://github.com/leofan90/Awesome-World-Models",
     "date": "2026-07-28",
     "topic": "world-model",
-    "score": 772.5
+    "score": 773.3
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS",
@@ -428,26 +448,6 @@
     "date": "2026-07-27",
     "topic": "robotics",
     "score": 12068.9
-  },
-  {
-    "repo": "galilai-group/stable-worldmodel",
-    "stars": 2076,
-    "language": "Python",
-    "description": "A platform for reproducible world model research and evaluation",
-    "url": "https://github.com/galilai-group/stable-worldmodel",
-    "date": "2026-07-27",
-    "topic": "world-model",
-    "score": 830.5
-  },
-  {
-    "repo": "NVlabs/ProtoMotions",
-    "stars": 2184,
-    "language": "Python",
-    "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
-    "url": "https://github.com/NVlabs/ProtoMotions",
-    "date": "2026-07-27",
-    "topic": "humanoid",
-    "score": 873.7
   },
   {
     "repo": "softmata/horus",
@@ -801,23 +801,23 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82819,
+    "stars": 82821,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 33127.7
+    "score": 33128.5
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
-    "stars": 3070,
+    "stars": 3074,
     "language": "HTML",
     "description": "BOM, STL files and instructions for PAROL6 3D printed robot arm",
     "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
     "date": "2026-07-07",
     "topic": "lerobot",
-    "score": 1228.1
+    "score": 1229.7
   },
   {
     "repo": "OpenDriveLab/RISE",

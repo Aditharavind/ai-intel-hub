@@ -90,6 +90,33 @@
     "score": 0.1
   },
   {
+    "model": "IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-cabinet-joint-2cam-yanZ",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-cabinet-joint-2cam-yanZ",
+    "date": "2026-07-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "siliconperception/VLA",
+    "downloads": 100,
+    "likes": 0,
+    "url": "https://huggingface.co/siliconperception/VLA",
+    "date": "2026-07-29",
+    "keyword": "vla",
+    "score": 30.1
+  },
+  {
+    "model": "sam-guided-vlas/pi05_rs-train_1_2-overlay-a025",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/pi05_rs-train_1_2-overlay-a025",
+    "date": "2026-07-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "vladinc/s23",
     "downloads": 0,
     "likes": 0,
@@ -121,15 +148,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/VladShash/qwen3-feedback-grpo-fl0.05-step320",
-    "date": "2026-07-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/pi05_rs-train_1_2-overlay-a025",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/pi05_rs-train_1_2-overlay-a025",
     "date": "2026-07-29",
     "keyword": "vla",
     "score": 0.1
@@ -180,12 +198,21 @@
     "score": 0.1
   },
   {
-    "model": "IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ",
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch0.5-v2",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ",
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch0.5-v2",
     "date": "2026-07-29",
-    "keyword": "vla",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch0.25-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch0.25-v2",
+    "date": "2026-07-29",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -196,6 +223,42 @@
     "date": "2026-07-29",
     "keyword": "embodied",
     "score": 0.3
+  },
+  {
+    "model": "shunshun1/policy_pi05_box_training1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/shunshun1/policy_pi05_box_training1",
+    "date": "2026-07-29",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "shunshun1/policy_pi05_box_training2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/shunshun1/policy_pi05_box_training2",
+    "date": "2026-07-29",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-07-28_shake4it_bench_notact",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-07-28_shake4it_bench_notact",
+    "date": "2026-07-29",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-07-28_shake4it_bench_dragonfly_10kHz_nfft_64",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-07-28_shake4it_bench_dragonfly_10kHz_nfft_64",
+    "date": "2026-07-29",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "MichaelHui/my_policy_2",
@@ -270,42 +333,6 @@
     "score": 0.1
   },
   {
-    "model": "kucukkanat/LFM2.5-Encoder-350M-Policy-Linter-ONNX",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kucukkanat/LFM2.5-Encoder-350M-Policy-Linter-ONNX",
-    "date": "2026-07-29",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "IKOBO/my_policy03",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/IKOBO/my_policy03",
-    "date": "2026-07-29",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "zycsys/robocasa-cosmos-policy",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/zycsys/robocasa-cosmos-policy",
-    "date": "2026-07-29",
-    "keyword": "policy",
-    "score": 5.2
-  },
-  {
-    "model": "shlokpatel123/act_charger_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/shlokpatel123/act_charger_policy",
-    "date": "2026-07-29",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "locht131/gr00t_n17_ot_swd_robot_agilex_stack_three_cups_rel_bs64",
     "downloads": 0,
     "likes": 0,
@@ -322,15 +349,6 @@
     "date": "2026-07-28",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "sii-research/tau-0-vla",
-    "downloads": 38,
-    "likes": 2,
-    "url": "https://huggingface.co/sii-research/tau-0-vla",
-    "date": "2026-07-28",
-    "keyword": "vla",
-    "score": 11.9
   },
   {
     "model": "Idan/fga-navigation",
@@ -655,24 +673,6 @@
     "date": "2026-07-19",
     "keyword": "world model",
     "score": 13.3
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-lora-epoch2",
-    "downloads": 38,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-lora-epoch2",
-    "date": "2026-07-19",
-    "keyword": "world model",
-    "score": 11.5
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-lora-epoch1",
-    "downloads": 45,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp05-world-model-stage1-full-epoch3-stage2-lora-epoch1",
-    "date": "2026-07-19",
-    "keyword": "world model",
-    "score": 13.6
   },
   {
     "model": "SEU-PAISys/Embodied.cpp",

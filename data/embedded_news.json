@@ -161,6 +161,34 @@
     "summary": "<p>1. The Bells – Jeff Mills 2. Energy Flash – Joey Beltram 3. Age of Love – Age of Love (Charlotte de Witte &#38; Enrico Sangiuliano Remix) 4. Spastik – [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-techno-songs-2026-07/\">Top Ten Techno Songs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+    "source": "Adafruit",
+    "date": "2026-07-29",
+    "url": "https://blog.adafruit.com/2026/07/29/running-a-28-9m-parameter-llm-on-an-8-microcontroller/",
+    "summary": "Slava S. on GitHub has a 28.9 million parameter language model that generates text on an ESP32-S3, a microcontroller that costs about $8. It runs on the chip itself, with nothing sent to a server, and it writes each word to a small screen wired to the chip at roughly 9 tokens per second. The [&#8230;]"
+  },
+  {
+    "title": "The new “Y-zipper,” a three-sided fastener  #3dThursday",
+    "source": "Adafruit",
+    "date": "2026-07-29",
+    "url": "https://blog.adafruit.com/2026/07/29/the-new-y-zipper-a-three-sided-fastener-3dthursday/",
+    "summary": "In 1985, the Innovative Design Fund placed an ad in Scientific American offering up to $10,000 to support clever prototypes for clothing, home decor, and textiles. William Freeman PhD ’92, then an electrical engineer at Polaroid and now an MIT professor, saw it and submitted a novel idea: a three-sided zipper. Instead of fastening pants, [&#8230;]"
+  },
+  {
+    "title": "Metal boots into a persistent native MicroPython REPL",
+    "source": "Adafruit",
+    "date": "2026-07-29",
+    "url": "https://blog.adafruit.com/2026/07/29/metal-boots-into-a-persistent-native-micropython-repl/",
+    "summary": "pymergetic on GitHub has created Metal, an experimental UEFI/BIOS freestanding async runtime. It is not a conventional OS and it is very far from production-ready, but it now boots directly into a persistent interactive MicroPython REPL. The repository is at https://github.com/pymergetic/metal. See more in the MicroPython forums."
+  },
+  {
+    "title": "Detecting Environmental Hazards with a Wearable Patch",
+    "source": "Adafruit",
+    "date": "2026-07-29",
+    "url": "https://blog.adafruit.com/2026/07/29/detecting-environmental-hazards-with-a-wearable-patch/",
+    "summary": "Researchers at North Carolina State University have created a wearable patch that can detect hazardous gaseous, aerosolized, and aqueous environmental toxins and notify wearers by vibrating against their skin. For this work, the researchers created a square patch slightly smaller than a driver’s license. The patch contains a microcontroller that serves as the patch’s brain; [&#8230;]"
+  },
+  {
     "title": "Simplified Pico VGA",
     "source": "Adafruit",
     "date": "2026-07-29",
@@ -257,34 +285,6 @@
     "date": "2026-07-28",
     "url": "https://blog.adafruit.com/2026/07/28/behind-the-scenes-with-walter-wick-at-the-high-museum-of-art/",
     "summary": "Calling all 90s kids who have ever sat in a waiting room, laundromat, or in the back of a car during a road trip with an I SPY book! The High Museum of Art in Atlanta will be hosting a conversation with Walter Wick this September. The I SPY! Walter Wick’s Hidden Wonders exhibition will [&#8230;]"
-  },
-  {
-    "title": "JP’s Product Pick of the Week — 6pm Eastern TODAY! 7/28/26 @adafruit #adafruit #newproductpick",
-    "source": "Adafruit",
-    "date": "2026-07-28",
-    "url": "https://blog.adafruit.com/2026/07/28/jps-product-pick-of-the-week-6pm-eastern-today-7-28-26-adafruit-adafruit-newproductpick/",
-    "summary": "Come on by for JP&#8217;s Product Pick of The Week ! A new product pick will be revealed. The show airs at 4pm ET / 1pm PT Check out the livestream right here inside this product page you won&#8217;t want to miss it because there will be a HUGE DISCOUNT during the show! Tune in [&#8230;]"
-  },
-  {
-    "title": "LoRa Radio Bonnet with OLED – The Raspberry Pi Official Magazine, Issue 167 @rpimagazine",
-    "source": "Adafruit",
-    "date": "2026-07-28",
-    "url": "https://blog.adafruit.com/2026/07/28/lora-radio-bonnet-with-oled-the-raspberry-pi-official-magazine-issue-167-rpimagazine/",
-    "summary": "The Raspberry Pi Official Magazine – Issue 167 features the Adafruit LoRa Radio Bonnet with OLED. This LoRa ‘Bonnet’ can be mounted onto the GPIO header of any standard 40-pin Raspberry Pi computer. While it’s labelled as ‘915MHz’ on the Adafruit site, it can use either the North American/Australian 915MHz or European 868MHz ISM band [&#8230;]"
-  },
-  {
-    "title": "Connect a HAT to a Raspberry Pi 400 – The Raspberry Pi Official Magazine, Issue 167 @rpimagazine",
-    "source": "Adafruit",
-    "date": "2026-07-28",
-    "url": "https://blog.adafruit.com/2026/07/28/connect-a-hat-to-a-raspberry-pi-400-the-raspberry-pi-official-magazine-issue-167-rpimagazine/",
-    "summary": "The Raspberry Pi Official Magazine – Issue 167 discusses how to connect a HAT to a Raspberry Pi 400: Raspberry Pi 400’s GPIO pins are hidden behind the black protector on the back of the case, which is easily removed using a fingernail. Many HATs will connect without problem, but if you’re connecting a display [&#8230;]"
-  },
-  {
-    "title": "Make a Smart Home – The Raspberry Pi Official Magazine, Issue 167  @rpimagazine",
-    "source": "Adafruit",
-    "date": "2026-07-28",
-    "url": "https://blog.adafruit.com/2026/07/28/make-a-smart-home-the-raspberry-pi-official-magazine-issue-167-rpimagazine/",
-    "summary": "The Raspberry Pi Official Magazine – Issue 167 covers how to make a smart home, controlling electronic devices from one place. We’re here to even out the future. At least even it out within the domain of your home. We can add control to the uncontrolled and bring other bits together into one unified platform. [&#8230;]"
   },
   {
     "title": "Andes Technology and Mirabilis Design Announce Collaboration on System-Level Models for Andes RISC-V Processor IP",

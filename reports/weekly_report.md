@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-29 20:05 UTC
+Generated: 2026-07-29 21:43 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,8 +14,8 @@ Generated: 2026-07-29 20:05 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82819 | 33127.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63258 | 25303.3 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82821 | 33128.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63260 | 25304.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44300 | 17720.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30172 | 12068.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16073 | 6429.3 | [link](https://github.com/zauberzeug/nicegui) |
@@ -43,6 +43,6 @@ Generated: 2026-07-29 20:05 UTC
 | --- | --- | --- | --- |
 | 2026-07-29 | Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVBscjBlM3NnV2pQVVgtaExVSHJkTlRIQ0JPakljOTBSai00bnp5M2NvQ1VGaUttR2ROWDlXenE1RVNLVHVFZ2xCU29ha0dCQlAwWkV1YW5kX05GdDdCdE4wR2tfQW5lWnp2ZEtOUVR3d2lVX0JhMXdHeWJVeGhyQjlxTXpRRU5MRjBLZUl1Q1Y5Z0NSbWozU1VVNmplUmNN?oc=5) |
 | 2026-07-29 | [Planning] Korea Ranks No. 1 in Robot Density—149 ‘Physical AI’ Startups Are Taking Off - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iXzRrbUlHaUhoZ0JKcFF2a0dGVDZhMzB1ZUtfS0NaSTJtemlGWWJKclhibU1EbHlTRC1Bd3lQMmZ3cHpGdVFGaEE1d3cxZDk1NFlIWg?oc=5) |
-| 2026-07-29 | French startup unveils non-humanoid robot as AI race moves to physical machines - AOL.co.uk | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkRPVXBXc1hsRWdqWnBzQzl0TlQ1V1o2NjAyMEJEenBmYmJDY0RZUG9CNjdVMGwwRUprOVBaaVNmVlk1MVRKcjMyNjU0b2xwaWVNUlhrZC00QzQtOHBTUG82aVg3UnExdkVRZDM5N3lLRGg3ZjRUSlNYNURTeDVpcWJJcUNERGRw?oc=5) |
+| 2026-07-29 | China claims six of the world's ten most innovative humanoid robot startups as the US moves to ban its machines - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUkpHbldGbEhGUC00SzhaUm5Rbi1ZMExBbzZPZkpjclRuMjVXTVFoNTJWT0FDZWhUTXFfVFRpY0hCZkhxZ3BRYmxBd0ExRDhMZzZYLUhOZHc2aGlvdHE3cTZxSVhReC1ISzN0eHBSai1sanB5VDl0NEJyNjlZY2J0TUNSXy1wTFg4Tm5TdW5kemFJV2pIVzU0WHJtYUkxemxLcFVIVDFYc2NLOWlMcnAzbmhrakFnR1MtdHFmMllOR054UGF5dGRqaDF1b0R0OHYyTzF3dQ?oc=5) |
 | 2026-07-28 | Physical AI gets practical in SEA - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE43LTFHOUtMS1ZsUDR6cHdOSzBiVTlJTmVHeTFUTE8tbUd3Wl81RWJlM0ZtdUxzZEhXbUw0WXVkU0xleDhnYS1hRE16MzdYY3FFNVZVeGdvaGh5bXQ0WnpiM211UDI1c09Zd1R1UA?oc=5) |
 | 2026-07-28 | US startup unveils humanoid robot to help hospital labs with routine testing work - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlJrZm9pWkpwZklrZlFJSExCNWdTcG52aHoydFNzbl9zUGVHam05ZHdMTjFCMGQwaTJYN2xKVGRkVXRnNVhBUFFiT2YydDRIdjBELUxuSEVGaVE0TUxlc09ReTM5OHFHSW4zR3FZb0ZqR2tDV3k1cGV3Tmx5a1pDSno0V3V3M0Q2Z2FaRElROA?oc=5) |

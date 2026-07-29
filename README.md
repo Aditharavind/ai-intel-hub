@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-29 20:05 UTC
+Last Updated: 2026-07-29 21:43 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2726 | Python | 1090.5 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1427 | Rust | 570.9 | [link](https://github.com/copper-project/copper-rs) |
+| NVIDIA/skills | 2727 | Python | 1090.9 | [link](https://github.com/NVIDIA/skills) |
+| copper-project/copper-rs | 1428 | Rust | 571.3 | [link](https://github.com/copper-project/copper-rs) |
 | Edgenesis/shifu | 1426 | Go | 570.5 | [link](https://github.com/Edgenesis/shifu) |
 | mosaico-labs/mosaico | 896 | Python | 358.5 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 468 | Shell | 187.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63258 | Python | 25303.3 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15571 | C++ | 6228.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14371 | C++ | 5748.5 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 11821 | JavaScript | 4728.5 | [link](https://github.com/earthtojake/text-to-cad) |
-| rerun-io/rerun | 11207 | Rust | 4482.9 | [link](https://github.com/rerun-io/rerun) |
+| commaai/openpilot | 63260 | Python | 25304.1 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15572 | C++ | 6228.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14373 | C++ | 5749.3 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 11835 | JavaScript | 4734.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| rerun-io/rerun | 11209 | Rust | 4483.7 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -121,14 +121,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-29 | Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVBscjBlM3NnV2pQVVgtaExVSHJkTlRIQ0JPakljOTBSai00bnp5M2NvQ1VGaUttR2ROWDlXenE1RVNLVHVFZ2xCU29ha0dCQlAwWkV1YW5kX05GdDdCdE4wR2tfQW5lWnp2ZEtOUVR3d2lVX0JhMXdHeWJVeGhyQjlxTXpRRU5MRjBLZUl1Q1Y5Z0NSbWozU1VVNmplUmNN?oc=5) |
 | 2026-07-29 | [Planning] Korea Ranks No. 1 in Robot Density—149 ‘Physical AI’ Startups Are Taking Off - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iXzRrbUlHaUhoZ0JKcFF2a0dGVDZhMzB1ZUtfS0NaSTJtemlGWWJKclhibU1EbHlTRC1Bd3lQMmZ3cHpGdVFGaEE1d3cxZDk1NFlIWg?oc=5) |
-| 2026-07-29 | French startup unveils non-humanoid robot as AI race moves to physical machines - AOL.co.uk | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkRPVXBXc1hsRWdqWnBzQzl0TlQ1V1o2NjAyMEJEenBmYmJDY0RZUG9CNjdVMGwwRUprOVBaaVNmVlk1MVRKcjMyNjU0b2xwaWVNUlhrZC00QzQtOHBTUG82aVg3UnExdkVRZDM5N3lLRGg3ZjRUSlNYNURTeDVpcWJJcUNERGRw?oc=5) |
+| 2026-07-29 | China claims six of the world's ten most innovative humanoid robot startups as the US moves to ban its machines - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUkpHbldGbEhGUC00SzhaUm5Rbi1ZMExBbzZPZkpjclRuMjVXTVFoNTJWT0FDZWhUTXFfVFRpY0hCZkhxZ3BRYmxBd0ExRDhMZzZYLUhOZHc2aGlvdHE3cTZxSVhReC1ISzN0eHBSai1sanB5VDl0NEJyNjlZY2J0TUNSXy1wTFg4Tm5TdW5kemFJV2pIVzU0WHJtYUkxemxLcFVIVDFYc2NLOWlMcnAzbmhrakFnR1MtdHFmMllOR054UGF5dGRqaDF1b0R0OHYyTzF3dQ?oc=5) |
 | 2026-07-28 | Physical AI gets practical in SEA - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE43LTFHOUtMS1ZsUDR6cHdOSzBiVTlJTmVHeTFUTE8tbUd3Wl81RWJlM0ZtdUxzZEhXbUw0WXVkU0xleDhnYS1hRE16MzdYY3FFNVZVeGdvaGh5bXQ0WnpiM211UDI1c09Zd1R1UA?oc=5) |
 | 2026-07-28 | US startup unveils humanoid robot to help hospital labs with routine testing work - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlJrZm9pWkpwZklrZlFJSExCNWdTcG52aHoydFNzbl9zUGVHam05ZHdMTjFCMGQwaTJYN2xKVGRkVXRnNVhBUFFiT2YydDRIdjBELUxuSEVGaVE0TUxlc09ReTM5OHFHSW4zR3FZb0ZqR2tDV3k1cGV3Tmx5a1pDSno0V3V3M0Q2Z2FaRElROA?oc=5) |
-| 2026-07-28 | A startup founded by a UCLA PhD team that focuses on developing the foundation model for humanoid robots has secured nearly 500 million yuan in Angel++ round financing | Hard Krypton Exclusive First Release - eu.36kr.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTkhJa0FNVTQtRjVoVzgxX3NzSy1GalBzTWV5R1FxUDBSRUgxSDRPQ3lDSmNrVDRCQnZLdVRYMkZQaDJRNFNadWpfaXZyZTlXMkhz?oc=5) |
+| 2026-07-28 | A startup founded by a UCLA PhD team that focuses on developing the foundation model for humanoid robots has secured nearly 500 million yuan in Angel++ round financing | Hard Krypton Exclusive First Release - 36 Kr | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTkhJa0FNVTQtRjVoVzgxX3NzSy1GalBzTWV5R1FxUDBSRUgxSDRPQ3lDSmNrVDRCQnZLdVRYMkZQaDJRNFNadWpfaXZyZTlXMkhz?oc=5) |
 | 2026-07-28 | Humanoid startup Agility Robotics doesn't want 'coin-operated employees' - AOL.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFJGdVducEtSNUVtN2ZoSzJnQ00td1JFbmN1ak9UQ05GSlVrcC16YjFPWWp2dHY0bnhvdFlzRGtHbjkyeURRdHFpZFBpZ2p0eFc0ZWE0eDhtT2FJMzZrNHpGZ2pzMVNjYTAtOU1sYWFnT2VxVDRHc3psdmk3dW5SUTVnXzJGRmFlVGtMZA?oc=5) |
-| 2026-07-27 | Are brain waves the next unlock for physical AI? - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTRjcXgxX3pIWW5JQ3MwNkxzQmQwUzY1M2dyaTNHSkdUXzJDUlQzZjZqb1AzMHpOQlRfOUhxTWdhRktiXzlyVzNBMWR3clUwVEo1M2plbm5HSFl0N1NaTmJZZXJOQXFvakdnYXlaZV90bzZEamhwUVlZc2d5ZUhsLUxLUVRQV0hyX0E?oc=5) |
 | 2026-07-27 | Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE02elZVdk1Iczl5UzdTQldJWkxvTWxIejI0dll0ZFhoR0NPR0swUENTdW03b0hlR21sZHJRVUZ1M2xtSzdGQXkzc19VV1lBZWF3TlFKZHNNTEdBTi11d0lHT0txcmhUQmFw?oc=5) |
-| 2026-07-27 | Japanese university startups develop AI robot arms for delicate tasks - Nikkei Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDJSdjVUNXJrcFZpY3lBdW1NU1Z1LU5zcWI4UWs2NGd0LU5QMGFGZHNmM1ZPdXZYLXdqblQ4Zkdrb0poZlVkRENyUDlpaERLcExQSlliVVVUN1oxb2hhZVozcTBMbmd5T0xENlM5THMxNlNiMUVseldLbjBwWGRqRzZyNGdaNXphWURIem5KaGZhSWVXcmVKY3N4OW90ZEhraC02SkFoZWxfS2RHTU1xVXJNLV9mcFk2eE1XWnd6Vi1fLXprVDdST3dCUUg0YVM3UXVn?oc=5) |
+| 2026-07-27 | Japanese university startups develop AI robot arms for delicate tasks - asia.nikkei.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDJSdjVUNXJrcFZpY3lBdW1NU1Z1LU5zcWI4UWs2NGd0LU5QMGFGZHNmM1ZPdXZYLXdqblQ4Zkdrb0poZlVkRENyUDlpaERLcExQSlliVVVUN1oxb2hhZVozcTBMbmd5T0xENlM5THMxNlNiMUVseldLbjBwWGRqRzZyNGdaNXphWURIem5KaGZhSWVXcmVKY3N4OW90ZEhraC02SkFoZWxfS2RHTU1xVXJNLV9mcFk2eE1XWnd6Vi1fLXprVDdST3dCUUg0YVM3UXVn?oc=5) |
+| 2026-07-26 | Genesis AI is in talks to raise $500 million at a $3 billion valuation just a year after emerging from stealth - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOG81aXpQdEo0UnQ4SmtJenVVRjl4enZVeFNwd2pMQzBtdG55ZUthaGNtajA5N2M4RTlCTHhXNmhScjJ6U0txS0lpYUtNbmswU3BXUE5EMGI1ekp6ZjNLSzR1enJyRmxZQVBnWTZKT0pHWmJOcC1OV1FlQWdTbTM0TXhYQ29lMWg3UGQyVV95dE1aR2FlY1N0UEg3cEgzTkdlZFZuM3RJSDZSM2o3RzVXM0xwZGs5aHJ0NmItRUNidDVjaUNtSlpoTFBEaktXdVgteUE?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
