@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-29 01:15 UTC
+Generated: 2026-07-29 04:54 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-28 | Modular Robotic Catheters for Endovascular Aneurysm Repair | [link](https://arxiv.org/pdf/2607.25807v1) |
-| 2026-07-28 | Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design | [link](https://arxiv.org/pdf/2607.25798v1) |
-| 2026-07-28 | Motion-Acceleration Calibration and Compensation in IMUs without External Equipment for Attitude Estimation Filters | [link](https://arxiv.org/pdf/2607.25784v1) |
-| 2026-07-28 | Tripody: An Overconstrained 3-SPR-like Parallel Robot for High-Reach Construction Tasks | [link](https://arxiv.org/pdf/2607.25781v1) |
-| 2026-07-28 | WALoMA: A Multitask Wireless Foundation Model via Adaptive Low-Rank Masked Autoencoders | [link](https://arxiv.org/pdf/2607.25763v1) |
+| 2026-07-28 | INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models | [link](https://arxiv.org/pdf/2607.26056v1) |
+| 2026-07-28 | $π\mathbf{R}^2$: Reactive Real-time Flow Policies | [link](https://arxiv.org/pdf/2607.26055v1) |
+| 2026-07-28 | S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information | [link](https://arxiv.org/pdf/2607.26047v1) |
+| 2026-07-28 | Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent Guidance | [link](https://arxiv.org/pdf/2607.26040v1) |
+| 2026-07-28 | Wonder: Video World Model Done Better | [link](https://arxiv.org/pdf/2607.26037v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82791 | 33116.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63250 | 25300.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44291 | 17716.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30162 | 12064.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16071 | 6428.5 | [link](https://github.com/zauberzeug/nicegui) |
+| Developer-Y/cs-video-courses | 82797 | 33118.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63251 | 25300.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44293 | 17717.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30164 | 12065.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16072 | 6428.9 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -45,4 +45,4 @@ Generated: 2026-07-29 01:15 UTC
 | 2026-07-28 | US startup unveils humanoid robot to help hospital labs with routine testing work - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlJrZm9pWkpwZklrZlFJSExCNWdTcG52aHoydFNzbl9zUGVHam05ZHdMTjFCMGQwaTJYN2xKVGRkVXRnNVhBUFFiT2YydDRIdjBELUxuSEVGaVE0TUxlc09ReTM5OHFHSW4zR3FZb0ZqR2tDV3k1cGV3Tmx5a1pDSno0V3V3M0Q2Z2FaRElROA?oc=5) |
 | 2026-07-28 | A startup founded by a UCLA PhD team that focuses on developing the foundation model for humanoid robots has secured nearly 500 million yuan in Angel++ round financing | Hard Krypton Exclusive First Release - 36Kr | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTkhJa0FNVTQtRjVoVzgxX3NzSy1GalBzTWV5R1FxUDBSRUgxSDRPQ3lDSmNrVDRCQnZLdVRYMkZQaDJRNFNadWpfaXZyZTlXMkhz?oc=5) |
 | 2026-07-28 | Humanoid startup Agility Robotics doesn't want 'coin-operated employees' - AOL.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFJGdVducEtSNUVtN2ZoSzJnQ00td1JFbmN1ak9UQ05GSlVrcC16YjFPWWp2dHY0bnhvdFlzRGtHbjkyeURRdHFpZFBpZ2p0eFc0ZWE0eDhtT2FJMzZrNHpGZ2pzMVNjYTAtOU1sYWFnT2VxVDRHc3psdmk3dW5SUTVnXzJGRmFlVGtMZA?oc=5) |
-| 2026-07-27 | Are brain waves the next unlock for physical AI? - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTRjcXgxX3pIWW5JQ3MwNkxzQmQwUzY1M2dyaTNHSkdUXzJDUlQzZjZqb1AzMHpOQlRfOUhxTWdhRktiXzlyVzNBMWR3clUwVEo1M2plbm5HSFl0N1NaTmJZZXJOQXFvakdnYXlaZV90bzZEamhwUVlZc2d5ZUhsLUxLUVRQV0hyX0E?oc=5) |
+| 2026-07-27 | Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE02elZVdk1Iczl5UzdTQldJWkxvTWxIejI0dll0ZFhoR0NPR0swUENTdW03b0hlR21sZHJRVUZ1M2xtSzdGQXkzc19VV1lBZWF3TlFKZHNNTEdBTi11d0lHT0txcmhUQmFw?oc=5) |
