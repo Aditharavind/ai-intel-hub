@@ -1,5 +1,32 @@
 [
   {
+    "model": "Haoran231/fastwam-robotwin-mixed",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Haoran231/fastwam-robotwin-mixed",
+    "date": "2026-07-29",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "polarisai-robots/bento_v2_openarm_pi05",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05",
+    "date": "2026-07-29",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "kimyg119/robot_joint_hcp_act",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kimyg119/robot_joint_hcp_act",
+    "date": "2026-07-29",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
     "downloads": 256,
     "likes": 12,
@@ -106,6 +133,33 @@
     "date": "2026-07-29",
     "keyword": "embodied",
     "score": 0.3
+  },
+  {
+    "model": "mar-plaza/my_policy",
+    "downloads": 38,
+    "likes": 0,
+    "url": "https://huggingface.co/mar-plaza/my_policy",
+    "date": "2026-07-29",
+    "keyword": "policy",
+    "score": 11.5
+  },
+  {
+    "model": "ChristianZ97/satp-policy-v4.27",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
+    "date": "2026-07-29",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-07-28_shake4it_bench_dragonfly_10kHz_nfft_512",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-07-28_shake4it_bench_dragonfly_10kHz_nfft_512",
+    "date": "2026-07-29",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "Jimme2/act_policy",
@@ -216,33 +270,6 @@
     "score": 87.4
   },
   {
-    "model": "lerobot/hy_vla_robotwin",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/lerobot/hy_vla_robotwin",
-    "date": "2026-07-28",
-    "keyword": "vla",
-    "score": 0.3
-  },
-  {
-    "model": "MINT-SJTU/Evo1_RoboTwin2_clean",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MINT-SJTU/Evo1_RoboTwin2_clean",
-    "date": "2026-07-28",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "yeeeiii111/pi05-robotwin-icl-arx5-v4mix-20k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/yeeeiii111/pi05-robotwin-icl-arx5-v4mix-20k",
-    "date": "2026-07-28",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "sii-research/tau-0-vla",
     "downloads": 38,
     "likes": 2,
@@ -270,6 +297,15 @@
     "score": 0.5
   },
   {
+    "model": "lerobot/hy_vla_robotwin",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/lerobot/hy_vla_robotwin",
+    "date": "2026-07-28",
+    "keyword": "vla",
+    "score": 0.3
+  },
+  {
     "model": "adrfm/red_duplo_smol_vla",
     "downloads": 0,
     "likes": 0,
@@ -294,33 +330,6 @@
     "url": "https://huggingface.co/Idan/fga-navigation",
     "date": "2026-07-28",
     "keyword": "navigation",
-    "score": 0.1
-  },
-  {
-    "model": "LiquidAI/LFM2.5-Encoder-350M-Policy-Linter",
-    "downloads": 4,
-    "likes": 3,
-    "url": "https://huggingface.co/LiquidAI/LFM2.5-Encoder-350M-Policy-Linter",
-    "date": "2026-07-28",
-    "keyword": "policy",
-    "score": 1.9
-  },
-  {
-    "model": "yangsamy/yangsamy_act_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/yangsamy/yangsamy_act_policy",
-    "date": "2026-07-28",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "tanner13511/act_battery_policy_0728",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tanner13511/act_battery_policy_0728",
-    "date": "2026-07-28",
-    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -677,11 +686,11 @@
   {
     "model": "tencent/Hy-Embodied-RxBrain-1.0",
     "downloads": 312,
-    "likes": 52,
+    "likes": 53,
     "url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
     "date": "2026-07-18",
     "keyword": "embodied",
-    "score": 104.1
+    "score": 104.3
   },
   {
     "model": "EmbodiedCity/Worldscape-MoE",
