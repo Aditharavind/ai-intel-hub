@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-29 04:54 UTC
+Last Updated: 2026-07-29 07:34 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-29 | DOOM Using Regular Expressions | Hackaday | [link](https://hackaday.com/2026/07/28/doom-using-regular-expressions/) |
 | 2026-07-29 | How the Vagus Nerve Promotes Healthy Cognition via Acetylcholine Signaling | Hackaday | [link](https://hackaday.com/2026/07/28/how-the-vagus-nerve-promotes-healthy-cognition-via-acetylcholine-signaling/) |
+| 2026-07-29 | Sovol M1D hybrid IDEX 3D printer features 6 interchangeable toolheads for multi-color and multi-material prints (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/07/29/sovol-m1d-hybrid-idex-3d-printer-features-6-interchangeable-toolheads-for-multi-color-and-multi-material-prints/) |
 | 2026-07-29 | SensWear – An open-source modular Nordic nRF54L15 development platform for wearables | CNX Software | [link](https://www.cnx-software.com/2026/07/29/senswear-an-open-source-modular-nordic-nrf54l15-development-platform-for-wearables/) |
+| 2026-07-29 | Baidu/Lyft joins London robotaxi triallists | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/baidu-lyft-joins-london-robotaxi-triallists-2026-07/) |
+| 2026-07-29 | TSMC Fab 20 running 20k 2nm wpm | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/tsmc-fab-20-running-20k-2nm-wpm-2026-07/) |
+| 2026-07-29 | ZuriQ raises $25.5m for trapped-ion quantum computer development | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/zuriq-raises-e-for-quantum-computer-2026-07/) |
+| 2026-07-29 | Mouser signs Red Lion | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/mouser-signs-red-lion-2026-07/) |
+| 2026-07-29 | Astute signs UTA Wireless | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/astute-signs-uta-wireless-2026-07/) |
 | 2026-07-29 | Top Ten Techno Songs | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-techno-songs-2026-07/) |
-| 2026-07-28 | Improving the Microcontroller Gaming Performance with PicoGame | Hackaday | [link](https://hackaday.com/2026/07/28/improving-the-microcontroller-gaming-performance-with-picogame/) |
-| 2026-07-28 | Why Is Textile Work Not Taught To Engineers? | Hackaday | [link](https://hackaday.com/2026/07/28/why-is-textile-work-not-taught-to-engineers/) |
-| 2026-07-28 | Samsung’s SmartThings API Terminates Free Access | Hackaday | [link](https://hackaday.com/2026/07/28/samsungs-smartthings-api-terminates-free-access/) |
-| 2026-07-28 | Sharkfin Bites Attack Shark | Hackaday | [link](https://hackaday.com/2026/07/28/sharkfin-bites-attack-shark/) |
-| 2026-07-28 | Breaking the Parental Lock on an XBox 360 is Very Much an Inconvenience | Hackaday | [link](https://hackaday.com/2026/07/28/breaking-the-parental-lock-on-an-xbox-360-is-very-much-an-inconvenience/) |
-| 2026-07-28 | FreeBSD Just Removed the Last of its GPL-Licensed Code | Hackaday | [link](https://hackaday.com/2026/07/28/freebsd-just-removed-the-last-of-its-gpl-licensed-code/) |
-| 2026-07-28 | Ubuntu Touch 24.04-2.0 updates Morph browser, adds notch and printing support, and more | CNX Software | [link](https://www.cnx-software.com/2026/07/28/ubuntu-touch-24-04-2-0-updates-morph-browser-adds-notch-and-printing-support-and-more/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -82,25 +82,25 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-29 | RobotisSW/Task_Dispose_WoodTable_40K_MCAP | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_WoodTable_40K_MCAP) |
 | 2026-07-29 | RobotisSW/Task_Dispose_WoodTable_30K_MCAP | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_WoodTable_30K_MCAP) |
 | 2026-07-29 | RobotisSW/Task_Dispose_WoodTable_10K_MCAP | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_WoodTable_10K_MCAP) |
+| 2026-07-29 | LiamLian0727/LangForce_VLA_Arena | 0 | 0 | [link](https://huggingface.co/LiamLian0727/LangForce_VLA_Arena) |
+| 2026-07-29 | wego-hansu/yeonwonju-070720-vla | 116 | 0 | [link](https://huggingface.co/wego-hansu/yeonwonju-070720-vla) |
+| 2026-07-29 | UNIC0RN-Zhu/lightweight-vla-drive-decision-adapter-v10 | 0 | 0 | [link](https://huggingface.co/UNIC0RN-Zhu/lightweight-vla-drive-decision-adapter-v10) |
 | 2026-07-29 | IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ | 0 | 0 | [link](https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ) |
-| 2026-07-29 | shunshun1/policy_pi05_camera_training | 0 | 0 | [link](https://huggingface.co/shunshun1/policy_pi05_camera_training) |
-| 2026-07-29 | rubatotree/policy-act-toy-cat-pi05 | 0 | 0 | [link](https://huggingface.co/rubatotree/policy-act-toy-cat-pi05) |
-| 2026-07-28 | locht131/gr00t_n17_ot_swd_robot_agilex_stack_three_cups_rel_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_ot_swd_robot_agilex_stack_three_cups_rel_bs64) |
-| 2026-07-28 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 256 | 12 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
+| 2026-07-29 | jzcan/EmbodiedDF-diffusion | 0 | 1 | [link](https://huggingface.co/jzcan/EmbodiedDF-diffusion) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1427 | Rust | 570.9 | [link](https://github.com/copper-project/copper-rs) |
+| Edgenesis/shifu | 1426 | Go | 570.5 | [link](https://github.com/Edgenesis/shifu) |
+| mosaico-labs/mosaico | 895 | Python | 358.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63251 | Python | 25300.5 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15568 | C++ | 6227.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | dora-rs/dora | 3856 | Rust | 1542.5 | [link](https://github.com/dora-rs/dora) |
+| mani-skill/ManiSkill | 3168 | Python | 1267.3 | [link](https://github.com/mani-skill/ManiSkill) |
+| worldbench/awesome-3d-4d-world-models | 954 | HTML | 381.7 | [link](https://github.com/worldbench/awesome-3d-4d-world-models) |
 | sou350121/VLA-Handbook | 451 | HTML | 180.5 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5723 | Python | 2289.3 | [link](https://github.com/vllm-project/vllm-omni) |
-| ROBOTIS-GIT/ai_worker | 156 | Python | 62.5 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| DexForce/EmbodiChain | 200 | Python | 80.1 | [link](https://github.com/DexForce/EmbodiChain) |
-| RobotControlStack/robot-control-stack | 125 | Python | 50.1 | [link](https://github.com/RobotControlStack/robot-control-stack) |
-| NVIDIA/skills | 2716 | Python | 1086.5 | [link](https://github.com/NVIDIA/skills) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -112,9 +112,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-21 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPazNGXzVyYllBTTcxTEtONzU2anNoQTlCTDlHLVBGS2l0d3oxa0Ixdjk5N3pFVHBUNHhydlhVUzFqc2prU2gzVUFGdUxLbTd6cUpxaDZUTkxaQWVLaXNIRGhRbVJwd0dCMzJZYjZldi11SXZlN1dRbE9lOVlnRzhDYjF2UEZFeFBpSE9ZdjBJZk1YTkJORHhnUkJ3WncxdXFyclNGck9hdEZMRGdYM0I2Ni1MTFBpcW0yWGdKc1E2SXYwR2JyOGVzZ2lVZFQ?oc=5) |
 | 2026-07-20 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFJYWDlnRjFxNzFEakw2M2F5SU9SdWxmSHYtaHVwa3V5RE1yU3ZSNGVqajVwelptczlWOHNvdGxmNi1QN2d6RkRUQVMyc1ctQnJWb0lIRHBxU1lrTk9PVHNQVU96U2NFZ1gteGw4NWV6bkhHWExIT08xYkszbUhCZ053?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVDJGbnZjTHR6NWNyNG9MU3NaX21Tc2V6TE1qMzdCVl93bENOYXE2T21yMGhsd0taUHlrSEtqRTZPQzFSdEROTXdraTJzeHVaMzBaUGdNUFk1ZmQ3UnpuQ3dUYzF0T3JGQVFVTDF6S1ZlR0h1MHNzY1RRZlhtWUdmUC16YldxSFVpNVRXTVhPWldiRUc5VVJ4Uko3WWNTaFB3ZHkyVjBDNkk2eXh1WW1IX0t3VF9uN2o0dFVzUUExbW1ucU96Q0lueGpkWW0?oc=5) |
-| 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxQeVRFZXlzNC1iS0gwS3UwVnM0Q3pVRFlTYXJWcHBoTzlhVXlWa2o1VHlINWY2bkttSk5DSHdEQkc2bEN4MVcwSXFRZEFXSlg2YzFIWExDcHFPMWxiUy1RZnlSYm5wX2hfU3JhbkNIQnZCZk0wSXI3ei03akxMRGZ4dQ?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE96eWxsYmNCREJOYTIxT0Z1VHdTbDhLMWpmZHBnemU2Zlp4Vm9aMWJzbi1EUmhvMGF2aXd3cnV5OW5ObElqeEl4S3p2UlVhdUY4SkFaeFg3b1haTEpZbm1uUnFxcnhYd3VLSG1QaWN6S1VFTFl5anc?oc=5) |
-| 2026-07-15 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1uemplUXZfbnhPZ2FzdnJMbHM0VW91eHFwRU85VEtDd1JMbXVOdUZiaURuM2E0RVRaZkw4WHdjM1E3cTVoTnlDSGlDSFQ5ekFJMm40TjlFeUxia2ItcUh1bkpyWnNTOEtZS1k5eFhka3M4REVvcHc?oc=5) |
+| 2026-07-14 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxORTJDSW4xaTFJYlVoV01UTHE2c3pLQ3JjTDhrYmtCdkRRdTd6b3RLeE5lcTItNGJibnVOeTBYeDk3eGgxd1U1Vl9XY3pKS3l4dUJfazcyODZPczdockh3X3hIaDhVQ0ZpQkZIaU10Q3E3YmIwYTlUZ0lWd1IxNW96YjNSYXNreDRnaFpyQ1FLdlVYdl92SlFiQmVvZEptcjVaUFYxdmZPbW12dHNTMTVtSXdoOTUtVmFhY19DOVV5RC1pRHNlb3poR1Rya190QWRvNE1fZnE0aHRDOG1fbWIzemdKOXFHcHRtRW14Yg?oc=5) |
+| 2026-07-13 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiZkFVX3lxTE45VkxDS0w0TldxQ2xMeU9zTjBHY1l1SkY2UjF6d2l3RTBSS1NWMmNfMnVfcl8ycUpkVlNnU0FabTVtbE52UTZrSS1HcXVPV0pWSFp2SkhtNWxUQmQ0WjdhQTVXQkR4Zw?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

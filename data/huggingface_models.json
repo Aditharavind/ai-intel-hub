@@ -45,12 +45,75 @@
     "score": 0.1
   },
   {
+    "model": "LiamLian0727/LangForce_VLA_Arena",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/LiamLian0727/LangForce_VLA_Arena",
+    "date": "2026-07-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "wego-hansu/yeonwonju-070720-vla",
+    "downloads": 116,
+    "likes": 0,
+    "url": "https://huggingface.co/wego-hansu/yeonwonju-070720-vla",
+    "date": "2026-07-29",
+    "keyword": "vla",
+    "score": 34.9
+  },
+  {
+    "model": "UNIC0RN-Zhu/lightweight-vla-drive-decision-adapter-v10",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/UNIC0RN-Zhu/lightweight-vla-drive-decision-adapter-v10",
+    "date": "2026-07-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ",
     "date": "2026-07-29",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "jzcan/EmbodiedDF-diffusion",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/jzcan/EmbodiedDF-diffusion",
+    "date": "2026-07-29",
+    "keyword": "embodied",
+    "score": 0.3
+  },
+  {
+    "model": "IKOBO/my_policy03",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/IKOBO/my_policy03",
+    "date": "2026-07-29",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "zycsys/robocasa-cosmos-policy",
+    "downloads": 17,
+    "likes": 0,
+    "url": "https://huggingface.co/zycsys/robocasa-cosmos-policy",
+    "date": "2026-07-29",
+    "keyword": "policy",
+    "score": 5.2
+  },
+  {
+    "model": "shlokpatel123/act_charger_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/shlokpatel123/act_charger_policy",
+    "date": "2026-07-29",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -153,15 +216,6 @@
     "score": 0.1
   },
   {
-    "model": "LiamLian0727/LangForce_VLA_Arena",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/LiamLian0727/LangForce_VLA_Arena",
-    "date": "2026-07-28",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "lerobot/hy_vla_umi",
     "downloads": 0,
     "likes": 2,
@@ -193,24 +247,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/mertalbaba/humanoid-vla-checkpoints",
-    "date": "2026-07-28",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "liuchangjie/VoiceDrive-VLA",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/liuchangjie/VoiceDrive-VLA",
-    "date": "2026-07-28",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "xijiazhao/VLA-finetuned",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/xijiazhao/VLA-finetuned",
     "date": "2026-07-28",
     "keyword": "vla",
     "score": 0.1
@@ -283,33 +319,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/rubatotree/policy-act-toy-cat-smolvla",
-    "date": "2026-07-28",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "xiaoleezuishuai/policy-v3-wospatiodelta-iter4-tv2-280000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/xiaoleezuishuai/policy-v3-wospatiodelta-iter4-tv2-280000",
-    "date": "2026-07-28",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Yewy/test_mahjong_pickup_v4.2_wrist_only_224_policy_delta",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Yewy/test_mahjong_pickup_v4.2_wrist_only_224_policy_delta",
-    "date": "2026-07-28",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "muacha/my_overfit_pi05_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/muacha/my_overfit_pi05_policy",
     "date": "2026-07-28",
     "keyword": "policy",
     "score": 0.1
@@ -763,15 +772,6 @@
     "date": "2026-07-13",
     "keyword": "embodied",
     "score": 11.2
-  },
-  {
-    "model": "vimalnakrani/HY-Embodied-0.5-8bit-mlx",
-    "downloads": 28,
-    "likes": 0,
-    "url": "https://huggingface.co/vimalnakrani/HY-Embodied-0.5-8bit-mlx",
-    "date": "2026-07-13",
-    "keyword": "embodied",
-    "score": 8.5
   },
   {
     "model": "zhijieq/houseexpo-navigation-policy",
