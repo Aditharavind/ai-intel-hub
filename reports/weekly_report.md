@@ -1,22 +1,22 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-28 23:46 UTC
+Generated: 2026-07-29 01:15 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-27 | Data Pyramid for Embodied Manipulation | [link](https://arxiv.org/pdf/2607.24744v1) |
-| 2026-07-27 | The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation | [link](https://arxiv.org/pdf/2607.24720v1) |
-| 2026-07-27 | Explainable Reinforcement Learning via Physics-Aware Policy Distillation | [link](https://arxiv.org/pdf/2607.24672v1) |
-| 2026-07-27 | MMOE: Modernizing Diffusion Transformers with Efficient Expert Design | [link](https://arxiv.org/pdf/2607.24665v1) |
-| 2026-07-27 | Development of a Handheld Actuation Mechanism for a Tendon-driven Robotically Steered Guidewire | [link](https://arxiv.org/pdf/2607.24629v1) |
+| 2026-07-28 | Modular Robotic Catheters for Endovascular Aneurysm Repair | [link](https://arxiv.org/pdf/2607.25807v1) |
+| 2026-07-28 | Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design | [link](https://arxiv.org/pdf/2607.25798v1) |
+| 2026-07-28 | Motion-Acceleration Calibration and Compensation in IMUs without External Equipment for Attitude Estimation Filters | [link](https://arxiv.org/pdf/2607.25784v1) |
+| 2026-07-28 | Tripody: An Overconstrained 3-SPR-like Parallel Robot for High-Reach Construction Tasks | [link](https://arxiv.org/pdf/2607.25781v1) |
+| 2026-07-28 | WALoMA: A Multitask Wireless Foundation Model via Adaptive Low-Rank Masked Autoencoders | [link](https://arxiv.org/pdf/2607.25763v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82788 | 33115.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63249 | 25299.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44290 | 17716.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| Developer-Y/cs-video-courses | 82791 | 33116.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63250 | 25300.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44291 | 17716.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30162 | 12064.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16071 | 6428.5 | [link](https://github.com/zauberzeug/nicegui) |
 
@@ -43,6 +43,6 @@ Generated: 2026-07-28 23:46 UTC
 | --- | --- | --- | --- |
 | 2026-07-28 | AI Robot Control Startup Robai Secures Seed Funding from Korea Investment Accelerator - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE41WksycnJCRThoV1AtTlhLaGtURC1zYVhrQmNlakZyNmk5Zl9tU0k2R1k0N19oUzBqYl9RSFB1WmFGT0MxWTFUSnBkbV8talpZRkNZ?oc=5) |
 | 2026-07-28 | US startup unveils humanoid robot to help hospital labs with routine testing work - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlJrZm9pWkpwZklrZlFJSExCNWdTcG52aHoydFNzbl9zUGVHam05ZHdMTjFCMGQwaTJYN2xKVGRkVXRnNVhBUFFiT2YydDRIdjBELUxuSEVGaVE0TUxlc09ReTM5OHFHSW4zR3FZb0ZqR2tDV3k1cGV3Tmx5a1pDSno0V3V3M0Q2Z2FaRElROA?oc=5) |
-| 2026-07-28 | A startup founded by a UCLA PhD team that focuses on developing the foundation model for humanoid robots has secured nearly 500 million yuan in Angel++ round financing | Hard Krypton Exclusive First Release - 36 Kr | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTkhJa0FNVTQtRjVoVzgxX3NzSy1GalBzTWV5R1FxUDBSRUgxSDRPQ3lDSmNrVDRCQnZLdVRYMkZQaDJRNFNadWpfaXZyZTlXMkhz?oc=5) |
+| 2026-07-28 | A startup founded by a UCLA PhD team that focuses on developing the foundation model for humanoid robots has secured nearly 500 million yuan in Angel++ round financing | Hard Krypton Exclusive First Release - 36Kr | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTkhJa0FNVTQtRjVoVzgxX3NzSy1GalBzTWV5R1FxUDBSRUgxSDRPQ3lDSmNrVDRCQnZLdVRYMkZQaDJRNFNadWpfaXZyZTlXMkhz?oc=5) |
 | 2026-07-28 | Humanoid startup Agility Robotics doesn't want 'coin-operated employees' - AOL.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFJGdVducEtSNUVtN2ZoSzJnQ00td1JFbmN1ak9UQ05GSlVrcC16YjFPWWp2dHY0bnhvdFlzRGtHbjkyeURRdHFpZFBpZ2p0eFc0ZWE0eDhtT2FJMzZrNHpGZ2pzMVNjYTAtOU1sYWFnT2VxVDRHc3psdmk3dW5SUTVnXzJGRmFlVGtMZA?oc=5) |
 | 2026-07-27 | Are brain waves the next unlock for physical AI? - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTRjcXgxX3pIWW5JQ3MwNkxzQmQwUzY1M2dyaTNHSkdUXzJDUlQzZjZqb1AzMHpOQlRfOUhxTWdhRktiXzlyVzNBMWR3clUwVEo1M2plbm5HSFl0N1NaTmJZZXJOQXFvakdnYXlaZV90bzZEamhwUVlZc2d5ZUhsLUxLUVRQV0hyX0E?oc=5) |

@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-28 23:46 UTC
+Last Updated: 2026-07-29 01:15 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-29 | Top Ten Techno Songs | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-techno-songs-2026-07/) |
 | 2026-07-28 | Improving the Microcontroller Gaming Performance with PicoGame | Hackaday | [link](https://hackaday.com/2026/07/28/improving-the-microcontroller-gaming-performance-with-picogame/) |
 | 2026-07-28 | Why Is Textile Work Not Taught To Engineers? | Hackaday | [link](https://hackaday.com/2026/07/28/why-is-textile-work-not-taught-to-engineers/) |
 | 2026-07-28 | Samsung’s SmartThings API Terminates Free Access | Hackaday | [link](https://hackaday.com/2026/07/28/samsungs-smartthings-api-terminates-free-access/) |
@@ -58,49 +59,48 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-28 | The Orphaned Sources At The Hacker Camp: What Happened Next | Hackaday | [link](https://hackaday.com/2026/07/28/the-orphaned-sources-at-the-hacker-camp-what-happened-next/) |
 | 2026-07-28 | Ubuntu Touch 24.04-2.0 updates Morph browser, adds notch and printing support, and more | CNX Software | [link](https://www.cnx-software.com/2026/07/28/ubuntu-touch-24-04-2-0-updates-morph-browser-adds-notch-and-printing-support-and-more/) |
 | 2026-07-28 | DFI X6X-ORN – An IP67-rated, rugged Jetson Orin NX/Nano edge AI computer with GMSL2 camera support | CNX Software | [link](https://www.cnx-software.com/2026/07/28/dfi-x6x-orn-an-ip67-rated-rugged-jetson-orin-nx-nano-edge-ai-computer-with-gmsl2-camera-support/) |
-| 2026-07-28 | Waveshare RP2350-POE-ETH – A Raspberry Pi RP2350 MCU board with PoE | CNX Software | [link](https://www.cnx-software.com/2026/07/28/waveshare-rp2350-poe-eth-a-raspberry-pi-rp2350-mcu-board-with-poe/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-27 | Data Pyramid for Embodied Manipulation | [link](https://arxiv.org/pdf/2607.24744v1) |
-| 2026-07-27 | The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation | [link](https://arxiv.org/pdf/2607.24720v1) |
-| 2026-07-27 | Explainable Reinforcement Learning via Physics-Aware Policy Distillation | [link](https://arxiv.org/pdf/2607.24672v1) |
-| 2026-07-27 | MMOE: Modernizing Diffusion Transformers with Efficient Expert Design | [link](https://arxiv.org/pdf/2607.24665v1) |
-| 2026-07-27 | Development of a Handheld Actuation Mechanism for a Tendon-driven Robotically Steered Guidewire | [link](https://arxiv.org/pdf/2607.24629v1) |
-| 2026-07-27 | Evaluating Fuzz Testing for Reinforcement Learning Agents | [link](https://arxiv.org/pdf/2607.24577v1) |
-| 2026-07-27 | NEO: NeRF It Once, Edit It Many Times for Continuous Object Manipulation | [link](https://arxiv.org/pdf/2607.24538v1) |
-| 2026-07-27 | Stress-Testing EEG Foundation Models for Clinical Decoding: Dataset Identity and Targeted Negative Controls | [link](https://arxiv.org/pdf/2607.24519v1) |
-| 2026-07-27 | KAI: A Kinematic-Aware Interface for Data-Efficient Articulated Object Manipulation | [link](https://arxiv.org/pdf/2607.24493v1) |
-| 2026-07-27 | τ: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision | [link](https://arxiv.org/pdf/2607.24485v1) |
+| 2026-07-28 | Modular Robotic Catheters for Endovascular Aneurysm Repair | [link](https://arxiv.org/pdf/2607.25807v1) |
+| 2026-07-28 | Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design | [link](https://arxiv.org/pdf/2607.25798v1) |
+| 2026-07-28 | Motion-Acceleration Calibration and Compensation in IMUs without External Equipment for Attitude Estimation Filters | [link](https://arxiv.org/pdf/2607.25784v1) |
+| 2026-07-28 | Tripody: An Overconstrained 3-SPR-like Parallel Robot for High-Reach Construction Tasks | [link](https://arxiv.org/pdf/2607.25781v1) |
+| 2026-07-28 | WALoMA: A Multitask Wireless Foundation Model via Adaptive Low-Rank Masked Autoencoders | [link](https://arxiv.org/pdf/2607.25763v1) |
+| 2026-07-28 | Cooperative Multi-UAV Navigation in Complex Environments via Systematic Multi-Agent Deep Reinforcement Learning | [link](https://arxiv.org/pdf/2607.25754v1) |
+| 2026-07-28 | Tri-Manual Visuomotor Imitation Learning of Robot Policies | [link](https://arxiv.org/pdf/2607.25731v1) |
+| 2026-07-28 | Shared Voxel-Map-Based Cooperative Indoor UAV Guidance with a Multi-Agent Soft Actor-Critic Controller | [link](https://arxiv.org/pdf/2607.25728v1) |
+| 2026-07-28 | Simulation-based tension quantification of the cosmic dipole | [link](https://arxiv.org/pdf/2607.25703v1) |
+| 2026-07-28 | Delta Debugging for Cyber-Physical Systems with Flaky Test Executions | [link](https://arxiv.org/pdf/2607.25695v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-29 | RobotisSW/Task_Dispose_WoodTable_40K_MCAP | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_WoodTable_40K_MCAP) |
+| 2026-07-29 | RobotisSW/Task_Dispose_WoodTable_30K_MCAP | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_WoodTable_30K_MCAP) |
+| 2026-07-29 | RobotisSW/Task_Dispose_WoodTable_10K_MCAP | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_WoodTable_10K_MCAP) |
+| 2026-07-29 | IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ | 0 | 0 | [link](https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ) |
+| 2026-07-29 | shunshun1/policy_pi05_camera_training | 0 | 0 | [link](https://huggingface.co/shunshun1/policy_pi05_camera_training) |
+| 2026-07-29 | rubatotree/policy-act-toy-cat-pi05 | 0 | 0 | [link](https://huggingface.co/rubatotree/policy-act-toy-cat-pi05) |
 | 2026-07-28 | locht131/gr00t_n17_ot_swd_robot_agilex_stack_three_cups_rel_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_ot_swd_robot_agilex_stack_three_cups_rel_bs64) |
 | 2026-07-28 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 256 | 12 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 | 2026-07-28 | locht131/gr00t_n17_motion_robot_agilex_stack_three_cups_rel_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_motion_robot_agilex_stack_three_cups_rel_bs64) |
 | 2026-07-28 | HarrisonPENG/M2W-VLA-RoboTwin | 291 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
-| 2026-07-28 | lerobot/hy_vla_robotwin | 0 | 1 | [link](https://huggingface.co/lerobot/hy_vla_robotwin) |
-| 2026-07-28 | MINT-SJTU/Evo1_RoboTwin2_clean | 0 | 0 | [link](https://huggingface.co/MINT-SJTU/Evo1_RoboTwin2_clean) |
-| 2026-07-28 | yeeeiii111/pi05-robotwin-icl-arx5-v4mix-20k | 0 | 0 | [link](https://huggingface.co/yeeeiii111/pi05-robotwin-icl-arx5-v4mix-20k) |
-| 2026-07-28 | NCDTech/real-robot-driving-mlp-numpy | 0 | 0 | [link](https://huggingface.co/NCDTech/real-robot-driving-mlp-numpy) |
-| 2026-07-28 | openEuler/IB_Robot_ACT_banana_pick_distill | 0 | 0 | [link](https://huggingface.co/openEuler/IB_Robot_ACT_banana_pick_distill) |
-| 2026-07-28 | mr-robot-01/smolvla_pickup_WD40_bottle | 0 | 0 | [link](https://huggingface.co/mr-robot-01/smolvla_pickup_WD40_bottle) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2712 | Python | 1084.9 | [link](https://github.com/NVIDIA/skills) |
+| awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| commaai/openpilot | 63250 | Python | 25300.1 | [link](https://github.com/commaai/openpilot) |
+| vllm-project/vllm-omni | 5721 | Python | 2288.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| ROBOTIS-GIT/ai_worker | 156 | Python | 62.5 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
+| DexForce/EmbodiChain | 200 | Python | 80.1 | [link](https://github.com/DexForce/EmbodiChain) |
+| RobotControlStack/robot-control-stack | 125 | Python | 50.1 | [link](https://github.com/RobotControlStack/robot-control-stack) |
+| NVIDIA/skills | 2713 | Python | 1085.3 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1427 | Rust | 570.9 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 895 | Python | 358.1 | [link](https://github.com/mosaico-labs/mosaico) |
-| awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 309 | Python | 123.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 63249 | Python | 25299.7 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 16071 | Python | 6428.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15566 | C++ | 6226.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14358 | C++ | 5743.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 11506 | JavaScript | 4602.5 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -121,14 +121,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-28 | AI Robot Control Startup Robai Secures Seed Funding from Korea Investment Accelerator - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE41WksycnJCRThoV1AtTlhLaGtURC1zYVhrQmNlakZyNmk5Zl9tU0k2R1k0N19oUzBqYl9RSFB1WmFGT0MxWTFUSnBkbV8talpZRkNZ?oc=5) |
 | 2026-07-28 | US startup unveils humanoid robot to help hospital labs with routine testing work - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlJrZm9pWkpwZklrZlFJSExCNWdTcG52aHoydFNzbl9zUGVHam05ZHdMTjFCMGQwaTJYN2xKVGRkVXRnNVhBUFFiT2YydDRIdjBELUxuSEVGaVE0TUxlc09ReTM5OHFHSW4zR3FZb0ZqR2tDV3k1cGV3Tmx5a1pDSno0V3V3M0Q2Z2FaRElROA?oc=5) |
-| 2026-07-28 | A startup founded by a UCLA PhD team that focuses on developing the foundation model for humanoid robots has secured nearly 500 million yuan in Angel++ round financing | Hard Krypton Exclusive First Release - 36 Kr | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTkhJa0FNVTQtRjVoVzgxX3NzSy1GalBzTWV5R1FxUDBSRUgxSDRPQ3lDSmNrVDRCQnZLdVRYMkZQaDJRNFNadWpfaXZyZTlXMkhz?oc=5) |
+| 2026-07-28 | A startup founded by a UCLA PhD team that focuses on developing the foundation model for humanoid robots has secured nearly 500 million yuan in Angel++ round financing | Hard Krypton Exclusive First Release - 36Kr | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTkhJa0FNVTQtRjVoVzgxX3NzSy1GalBzTWV5R1FxUDBSRUgxSDRPQ3lDSmNrVDRCQnZLdVRYMkZQaDJRNFNadWpfaXZyZTlXMkhz?oc=5) |
 | 2026-07-28 | Humanoid startup Agility Robotics doesn't want 'coin-operated employees' - AOL.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFJGdVducEtSNUVtN2ZoSzJnQ00td1JFbmN1ak9UQ05GSlVrcC16YjFPWWp2dHY0bnhvdFlzRGtHbjkyeURRdHFpZFBpZ2p0eFc0ZWE0eDhtT2FJMzZrNHpGZ2pzMVNjYTAtOU1sYWFnT2VxVDRHc3psdmk3dW5SUTVnXzJGRmFlVGtMZA?oc=5) |
 | 2026-07-27 | Are brain waves the next unlock for physical AI? - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTRjcXgxX3pIWW5JQ3MwNkxzQmQwUzY1M2dyaTNHSkdUXzJDUlQzZjZqb1AzMHpOQlRfOUhxTWdhRktiXzlyVzNBMWR3clUwVEo1M2plbm5HSFl0N1NaTmJZZXJOQXFvakdnYXlaZV90bzZEamhwUVlZc2d5ZUhsLUxLUVRQV0hyX0E?oc=5) |
 | 2026-07-27 | Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE02elZVdk1Iczl5UzdTQldJWkxvTWxIejI0dll0ZFhoR0NPR0swUENTdW03b0hlR21sZHJRVUZ1M2xtSzdGQXkzc19VV1lBZWF3TlFKZHNNTEdBTi11d0lHT0txcmhUQmFw?oc=5) |
 | 2026-07-27 | Japanese university startups develop AI robot arms for delicate tasks - Nikkei Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDJSdjVUNXJrcFZpY3lBdW1NU1Z1LU5zcWI4UWs2NGd0LU5QMGFGZHNmM1ZPdXZYLXdqblQ4Zkdrb0poZlVkRENyUDlpaERLcExQSlliVVVUN1oxb2hhZVozcTBMbmd5T0xENlM5THMxNlNiMUVseldLbjBwWGRqRzZyNGdaNXphWURIem5KaGZhSWVXcmVKY3N4OW90ZEhraC02SkFoZWxfS2RHTU1xVXJNLV9mcFk2eE1XWnd6Vi1fLXprVDdST3dCUUg0YVM3UXVn?oc=5) |
 | 2026-07-27 | Mapping Southeast Asia’s physical AI startup ecosystem - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2hlMllwZVZaVlRJUzlWb3FqNjZmVGVyak9wMlY2ZEZhRmhFWi0zTnpGTThUcWVVeHd4MWtzSVA0NmxjU05YX2I0WkF0S0tOWER6SE4xN0FvbGVkaXRaQmp4ZFl3a2lzZFpmajU5amNUeWxISTZ2bUJmNFctX3hXVGpNLU9uWlZZQ0MtNDNNOUszOVVCaVBvWA?oc=5) |
 | 2026-07-26 | Genesis AI is in talks to raise $500 million at a $3 billion valuation just a year after emerging from stealth - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOG81aXpQdEo0UnQ4SmtJenVVRjl4enZVeFNwd2pMQzBtdG55ZUthaGNtajA5N2M4RTlCTHhXNmhScjJ6U0txS0lpYUtNbmswU3BXUE5EMGI1ekp6ZjNLSzR1enJyRmxZQVBnWTZKT0pHWmJOcC1OV1FlQWdTbTM0TXhYQ29lMWg3UGQyVV95dE1aR2FlY1N0UEg3cEgzTkdlZFZuM3RJSDZSM2o3RzVXM0xwZGs5aHJ0NmItRUNidDVjaUNtSlpoTFBEaktXdVgteUE?oc=5) |
-| 2026-07-24 | The Week’s 10 Biggest Funding Rounds: Physical AI Startup Atoms Leads In Varied Week For Large Deals - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0JqNzY4MnFUYnpxN3ZZX3lBZ1pENU9MQkVTVWdjb053NEI4aUNueGJ3MndpOTQxWlFJMUZWcVZzSjhVNWNuMlE2VExjTldPQUw5cmtYRFdnTHhmV3laRHYyQmVxM0JpZDZSVXVoXzBrSEpvZVFmTXZIeEE2dXVseVMtTU8zM0plcWMyREdValljeWpBaWJUYw?oc=5) |
+| 2026-07-26 | Mitsubishi Motors teams up with startup to mass produce humanoid robots - 毎日新聞 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMic0FVX3lxTE1CNlRWVlRneEFjZnc5bVZwNjExVG8xd3IyRnJYUEw3azZnM1d5TEt1YXJaOTA2WGpuLWhqcVliYld1RFZmb19BOFpPVUFRME1UZW9RM1oyZjJHcTFONkRMSFdFeF9waUQyQWxzLTR5SU1iajQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

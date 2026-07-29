@@ -1,13 +1,73 @@
 [
   {
+    "repo": "awslabs/awsome-distributed-ai",
+    "stars": 467,
+    "language": "Shell",
+    "description": "Collection of best practices, reference architectures, model training examples and utilities to train large models on AWS. ",
+    "url": "https://github.com/awslabs/awsome-distributed-ai",
+    "date": "2026-07-29",
+    "topic": "physical-ai",
+    "score": 186.9
+  },
+  {
+    "repo": "commaai/openpilot",
+    "stars": 63250,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-07-29",
+    "topic": "robotics",
+    "score": 25300.1
+  },
+  {
+    "repo": "vllm-project/vllm-omni",
+    "stars": 5721,
+    "language": "Python",
+    "description": "A framework for efficient model inference with omni-modality models",
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "date": "2026-07-29",
+    "topic": "world-model",
+    "score": 2288.5
+  },
+  {
+    "repo": "ROBOTIS-GIT/ai_worker",
+    "stars": 156,
+    "language": "Python",
+    "description": "AI Worker: FFW (Freedom From Work)",
+    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
+    "date": "2026-07-29",
+    "topic": "humanoid",
+    "score": 62.5
+  },
+  {
+    "repo": "DexForce/EmbodiChain",
+    "stars": 200,
+    "language": "Python",
+    "description": "An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence.",
+    "url": "https://github.com/DexForce/EmbodiChain",
+    "date": "2026-07-29",
+    "topic": "robot-learning",
+    "score": 80.1
+  },
+  {
+    "repo": "RobotControlStack/robot-control-stack",
+    "stars": 125,
+    "language": "Python",
+    "description": "A lean, ROS-free sim-to-real framework for training and deploying Vision-Language-Action (VLA) models and RL agents. Native MuJoCo Gymnasium wrappers with synchronous execution for Franka, UR5e, xArm, and SO101.",
+    "url": "https://github.com/RobotControlStack/robot-control-stack",
+    "date": "2026-07-29",
+    "topic": "robot-learning",
+    "score": 50.1
+  },
+  {
     "repo": "NVIDIA/skills",
-    "stars": 2712,
+    "stars": 2713,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-07-28",
     "topic": "physical-ai",
-    "score": 1084.9
+    "score": 1085.3
   },
   {
     "repo": "copper-project/copper-rs",
@@ -30,16 +90,6 @@
     "score": 358.1
   },
   {
-    "repo": "awslabs/awsome-distributed-ai",
-    "stars": 467,
-    "language": "Shell",
-    "description": "Collection of best practices, reference architectures, model training examples and utilities to train large models on AWS. ",
-    "url": "https://github.com/awslabs/awsome-distributed-ai",
-    "date": "2026-07-28",
-    "topic": "physical-ai",
-    "score": 186.9
-  },
-  {
     "repo": "alireza787b/mavsdk_drone_show",
     "stars": 309,
     "language": "Python",
@@ -48,16 +98,6 @@
     "date": "2026-07-28",
     "topic": "physical-ai",
     "score": 123.7
-  },
-  {
-    "repo": "commaai/openpilot",
-    "stars": 63249,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-07-28",
-    "topic": "robotics",
-    "score": 25299.7
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -71,33 +111,33 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15566,
+    "stars": 15567,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-07-28",
     "topic": "robotics",
-    "score": 6226.5
+    "score": 6226.9
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14358,
+    "stars": 14359,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-07-28",
     "topic": "robotics",
-    "score": 5743.3
+    "score": 5743.7
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 11506,
+    "stars": 11519,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-28",
     "topic": "robotics",
-    "score": 4602.5
+    "score": 4607.7
   },
   {
     "repo": "kornia/kornia",
@@ -111,23 +151,23 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11198,
+    "stars": 11199,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-07-28",
     "topic": "robotics",
-    "score": 4479.3
+    "score": 4479.7
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4295,
+    "stars": 4297,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-07-28",
     "topic": "embodied-ai",
-    "score": 1718.1
+    "score": 1718.9
   },
   {
     "repo": "dora-rs/dora",
@@ -181,13 +221,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS",
-    "stars": 1220,
+    "stars": 1223,
     "language": "Python",
     "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS",
     "date": "2026-07-28",
     "topic": "embodied-ai",
-    "score": 488.1
+    "score": 489.3
   },
   {
     "repo": "dexmal/dexbotic",
@@ -250,16 +290,6 @@
     "score": 126.9
   },
   {
-    "repo": "vllm-project/vllm-omni",
-    "stars": 5720,
-    "language": "Python",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "url": "https://github.com/vllm-project/vllm-omni",
-    "date": "2026-07-28",
-    "topic": "world-model",
-    "score": 2288.1
-  },
-  {
     "repo": "PKU-YuanGroup/Helios",
     "stars": 2007,
     "language": "Python",
@@ -300,16 +330,6 @@
     "score": 218.1
   },
   {
-    "repo": "ROBOTIS-GIT/ai_worker",
-    "stars": 156,
-    "language": "Python",
-    "description": "AI Worker: FFW (Freedom From Work)",
-    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
-    "date": "2026-07-28",
-    "topic": "humanoid",
-    "score": 62.5
-  },
-  {
     "repo": "Evan-wyl/humanoid-robot-intelligence",
     "stars": 9,
     "language": "",
@@ -348,26 +368,6 @@
     "date": "2026-07-28",
     "topic": "robot-learning",
     "score": 252.1
-  },
-  {
-    "repo": "DexForce/EmbodiChain",
-    "stars": 200,
-    "language": "Python",
-    "description": "An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence.",
-    "url": "https://github.com/DexForce/EmbodiChain",
-    "date": "2026-07-28",
-    "topic": "robot-learning",
-    "score": 80.1
-  },
-  {
-    "repo": "RobotControlStack/robot-control-stack",
-    "stars": 125,
-    "language": "Python",
-    "description": "A lean, ROS-free sim-to-real framework for training and deploying Vision-Language-Action (VLA) models and RL agents. Native MuJoCo Gymnasium wrappers with synchronous execution for Franka, UR5e, xArm, and SO101.",
-    "url": "https://github.com/RobotControlStack/robot-control-stack",
-    "date": "2026-07-28",
-    "topic": "robot-learning",
-    "score": 50.1
   },
   {
     "repo": "Peter-cuhk/robot-data-studio",
@@ -801,13 +801,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82788,
+    "stars": 82791,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 33115.3
+    "score": 33116.5
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
@@ -851,13 +851,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44290,
+    "stars": 44291,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-07-03",
     "topic": "robotics",
-    "score": 17716.1
+    "score": 17716.5
   },
   {
     "repo": "Tavish9/any4lerobot",

@@ -1,5 +1,59 @@
 [
   {
+    "model": "RobotisSW/Task_Dispose_WoodTable_40K_MCAP",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_Dispose_WoodTable_40K_MCAP",
+    "date": "2026-07-29",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_Dispose_WoodTable_30K_MCAP",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_Dispose_WoodTable_30K_MCAP",
+    "date": "2026-07-29",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_Dispose_WoodTable_10K_MCAP",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_Dispose_WoodTable_10K_MCAP",
+    "date": "2026-07-29",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ",
+    "date": "2026-07-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "shunshun1/policy_pi05_camera_training",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/shunshun1/policy_pi05_camera_training",
+    "date": "2026-07-29",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "rubatotree/policy-act-toy-cat-pi05",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/rubatotree/policy-act-toy-cat-pi05",
+    "date": "2026-07-29",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "locht131/gr00t_n17_ot_swd_robot_agilex_stack_three_cups_rel_bs64",
     "downloads": 0,
     "likes": 0,
@@ -76,24 +130,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/openEuler/IB_Robot_ACT_banana_pick_distill",
-    "date": "2026-07-28",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "mr-robot-01/smolvla_pickup_WD40_bottle",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mr-robot-01/smolvla_pickup_WD40_bottle",
-    "date": "2026-07-28",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "GM717/instinct-wam-robotwin-clean",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/GM717/instinct-wam-robotwin-clean",
     "date": "2026-07-28",
     "keyword": "robot",
     "score": 0.1
@@ -178,15 +214,6 @@
     "date": "2026-07-28",
     "keyword": "vla",
     "score": 34.9
-  },
-  {
-    "model": "VLA-Arena/starVLA_VLA-Arena",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/VLA-Arena/starVLA_VLA-Arena",
-    "date": "2026-07-28",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "Idan/fga-navigation",
@@ -288,15 +315,6 @@
     "score": 0.1
   },
   {
-    "model": "hvsr-robotics/wojtek-stiff-height-locomotion",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hvsr-robotics/wojtek-stiff-height-locomotion",
-    "date": "2026-07-27",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1",
     "downloads": 32,
     "likes": 0,
@@ -360,22 +378,13 @@
     "score": 0.1
   },
   {
-    "model": "AppliantRobotics/my_policy",
-    "downloads": 64,
+    "model": "hvsr-robotics/wojtek-stiff-height-locomotion",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/AppliantRobotics/my_policy",
+    "url": "https://huggingface.co/hvsr-robotics/wojtek-stiff-height-locomotion",
     "date": "2026-07-27",
-    "keyword": "policy",
-    "score": 19.3
-  },
-  {
-    "model": "yangsamy/yangsamy_diffusion_policy",
-    "downloads": 35,
-    "likes": 0,
-    "url": "https://huggingface.co/yangsamy/yangsamy_diffusion_policy",
-    "date": "2026-07-27",
-    "keyword": "policy",
-    "score": 10.6
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "masternodedata1/seer-robotics.ai",
