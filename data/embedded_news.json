@@ -1,5 +1,12 @@
 [
   {
+    "title": "Behold The Most Beautifully Ambitious Starship Simulator Yet",
+    "source": "Hackaday",
+    "date": "2026-07-29",
+    "url": "https://hackaday.com/2026/07/29/behold-the-most-beautifully-ambitious-starship-simulator-yet/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/halcyon-dawn-1.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Kevin Kelm] created something wondrous: Halcyon Dawn, an utterly unique and desperately challenging game that is equal parts intricate starship simulator, imposing hardware console, video game, and love letter to <a class=\"read-more\" href=\"https://hackaday.com/2026/07/29/behold-the-most-beautifully-ambitious-starship-simulator-yet/\">&#8230;read more</a>"
+  },
+  {
     "title": "Building a Portable Weather Radar",
     "source": "Hackaday",
     "date": "2026-07-29",
@@ -40,6 +47,13 @@
     "date": "2026-07-29",
     "url": "https://www.cnx-software.com/2026/07/29/senswear-an-open-source-modular-nordic-nrf54l15-development-platform-for-wearables/",
     "summary": "<div><img alt=\"SensWear nRF54L15 wearables development platform\" class=\"attachment-medium size-medium wp-post-image\" height=\"486\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/SensWear-nRF54L15-wearables-development-platform-720x486.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>SensWear is an open-source hardware development platform for wearables based on Nordic nRF54L15 Bluetooth LE SoC and a range of sensors designed for researchers, developers, and companies building smart rings, wristbands, patches, and other custom devices. The solution is mainly comprised of flexible boards, including the SensWear core board with an nRF54L15 MCU and a 6-axis IMU sensor, and daughter boards with either PPG and optical sensing,  temperature sensing, capacitive touch sensing, or haptic feedback. SensWear key features and specifications: Core mainboard SoC &#8211; Nordic Semi nRF54L15 CPU Arm Cortex-M33 @ up to 128 MHz RISC-V coprocessor for “software-defined peripheral” Memory – 256 KB SRAM Storage – 1.5MB Non-volatile Memory (NVM) Wireless Bluetooth LE 6.0 Thread, Zigbee (IEEE 802.15.4-2020) Matter Amazon Sidewalk Proprietary 2.4 GHz protocols with a new 4 Mbps mode NFC support Sensors Bosch BHI360 six-axis smart IMU and sensor hub Standardized interface for interchangeable daughter boards I2C and [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/29/senswear-an-open-source-modular-nordic-nrf54l15-development-platform-for-wearables/\">SensWear – An open-source modular Nordic nRF54L15 development platform for wearables</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Scaling semiconductor manufacturing through NPI, yield ramp and high-volume production",
+    "source": "Electronics Weekly",
+    "date": "2026-07-29",
+    "url": "https://www.electronicsweekly.com/news/business/scaling-semiconductor-manufacturing-through-npi-yield-ramp-and-high-volume-production-2026-07/",
+    "summary": "<p>Anshul Karnik discusses how semiconductor technologies are successfully transitioned from early technology development (TD) through new product introduction (NPI) and into high-volume manufacturing (HVM), writes Ellen F Warren. ELLEN WARREN: [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/scaling-semiconductor-manufacturing-through-npi-yield-ramp-and-high-volume-production-2026-07/\">Scaling semiconductor manufacturing through NPI, yield ramp and high-volume production</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Physics modelling cracks the code for thermal mechanics",
@@ -112,13 +126,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"163\" src=\"https://hackaday.com/wp-content/uploads/2026/07/SmartThings_Logo_2024.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If there&#8217;s one constant in the world of commercial home automation solutions, it is that of decreasing availability and higher costs as time goes on. So too with Samsung&#8217;s SmartThings, <a class=\"read-more\" href=\"https://hackaday.com/2026/07/28/samsungs-smartthings-api-terminates-free-access/\">&#8230;read more</a>"
   },
   {
-    "title": "Sharkfin Bites Attack Shark",
-    "source": "Hackaday",
-    "date": "2026-07-28",
-    "url": "https://hackaday.com/2026/07/28/sharkfin-bites-attack-shark/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"513\" src=\"https://hackaday.com/wp-content/uploads/2026/07/cw-abyss.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Attack Shark is a modern keyboard with fancy magnetic keyswitches, macros, configurable blinky LEDs, and more. The problem is that the configuration software only works on Windows, so [JR <a class=\"read-more\" href=\"https://hackaday.com/2026/07/28/sharkfin-bites-attack-shark/\">&#8230;read more</a>"
-  },
-  {
     "title": "Ubuntu Touch 24.04-2.0 updates Morph browser, adds notch and printing support, and more",
     "source": "CNX Software",
     "date": "2026-07-28",
@@ -147,20 +154,6 @@
     "summary": "<div><img alt=\"LILYGO T-Display C5\" class=\"attachment-medium size-medium wp-post-image\" height=\"601\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/LILYGO-T-Display-C5-720x601.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>LILYGO T-Display C5 is an ESP32-C5 board with a 1.9-inch IPS color LCD, a USB-C port for power and programming, Lithium battery support, and GPIO expansion via headers and two Qwiic expansion connectors. The main benefit of using an ESP32-C5 chip is support for dual-band WiFi 6 connectivity (2.4/5.0 GHz), and it also keeps Bluetooth LE 5.x and the 802.15.4 radio for Zigbee/Thread/Matter found in the ESP32-C6. LILYGO T-Display C5 specifications: Wireless module – Espressif Systems ESP32-WROOM-C5-1U-N16R8 SoC &#8211; ESP32-C5HR8 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 40 MHz acting as the main processor for power-sensitive applications Memory – 384 KB SRAM on-chip, 8MB PSRAM Storage – 320 KB ROM Wireless Connectivity Dual-band (2.4GHz/5 GHz) 802.11ax WiFi 6, with 802.11b/g/n WiFi 4 standard fallback Bluetooth 5.0 Low Energy (LE) 802.15.4 radio for Zigbee 3.0 and Thread 1.3 Storage &#8211; 16MB flash Antenna &#8211; [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/28/lilygo-t-display-c5-board-features-1-9-inch-ips-color-lcd-battery-support-qwiic-expansion-connectors/\">LILYGO T-Display C5 board features 1.9-inch IPS color LCD, battery support, Qwiic expansion connectors</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "TDK, LG Innotek Collaborate on Physical AI Solutions",
-    "source": "Embedded.com",
-    "date": "2026-07-28",
-    "url": "https://www.embedded.com/tdk-lg-innotek-collaborate-on-physical-ai-solutions/",
-    "summary": "<p>TDK and LG Innotek have entered into a strategic partnership to develop sensing technologies for physical AI applications, with an initial focus on next-generation vision and tactile sensing modules for humanoid robots. The collaboration combines LG Innotek's expertise in optical systems and ultra-precision module design with TDK's sensor technology portfolio to create integrated solutions that [...]</p>\n<p>The post <a href=\"https://www.embedded.com/tdk-lg-innotek-collaborate-on-physical-ai-solutions/\">TDK, LG Innotek Collaborate on Physical AI Solutions</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "A New Route to Fault-Tolerant Quantum Computers",
-    "source": "Embedded.com",
-    "date": "2026-07-28",
-    "url": "https://www.embedded.com/a-new-route-to-fault-tolerant-quantum-computers/",
-    "summary": "<p>After early proof-of-concept demonstrations, quantum computing (QC) and quantum sensing (QS) are quickly moving toward practical technologies. While much focus is devoted to increasing the number of qubits to make quantum processors more capable, an equally important effort is directed at improving their quality. Quantum systems are extremely sensitive to the environment they interact with, [...]</p>\n<p>The post <a href=\"https://www.embedded.com/a-new-route-to-fault-tolerant-quantum-computers/\">A New Route to Fault-Tolerant Quantum Computers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
     "title": "Cadence certifies AI reference flows for Intel 18A-P and 14A technologies",
     "source": "Electronics Weekly",
     "date": "2026-07-28",
@@ -173,13 +166,6 @@
     "date": "2026-07-28",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/swallowing-a-good-yarn-2026-07/",
     "summary": "<p>For decades the techies of Silicon Valley have known that Washington will swallow a good yarn. After all, not many people understand what the techies are up to at the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/swallowing-a-good-yarn-2026-07/\">Swallowing A Good Yarn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Nvidia says agentic AI is reshaping chip system design",
-    "source": "Electronics Weekly",
-    "date": "2026-07-28",
-    "url": "https://www.electronicsweekly.com/market-sectors/ai/nvidia-says-agentic-ai-is-reshaping-chip-system-design-2026-07/",
-    "summary": "<p>Agentic engineering is reshaping chip and system design and Nvidia is putting itself at the core of this movement with a concerted effort to deliver the tools and libraries designers [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/market-sectors/ai/nvidia-says-agentic-ai-is-reshaping-chip-system-design-2026-07/\">Nvidia says agentic AI is reshaping chip system design</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "PicoJig: control peripherals (GPIO, ADC, UART, SPI, I2C, PWM) of a Raspberry Pi Pico / Pico W from a Windows PC via USB or WiFi  @raspberry_pi",
@@ -336,20 +322,6 @@
     "summary": "<div><img alt=\"Open RC Spotter\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Open-RC-Spotter-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Jake Wachlin (Energy Labs) has designed the Open RC Spotter, an open-source ESP32-based telemetry and data logger for RC cars, trucks, and other RC toys. The platform logs synchronized GPS position, acceleration, gyroscope, steering, throttle, battery voltage, temperature, and lap timing data to a microSD card, while also supporting live telemetry over Wi-Fi and ESP-NOW. We have previously written about telemetry and data-logging hardware designed for full-sized vehicles, such as the Macchina A0 ESP32 CAN board, which supports OBD-II diagnostics and RaceChrono integration. Compared to that, this ESP32-based logger is designed for RC cars and trucks, combining GPS, IMU, PWM monitoring, and onboard data logging in a compact ESP32-based platform. Open RC Spotter specifications: Wireless module – ESP32-WROOM-32E-N4 SoC – ESP32 dual-core Tensilica LX6 microcontroller @ up to 240 MHz with 520KB SRAM Storage – 4MB flash Wireless – 2.4 GHz WiFi 4 and Bluetooth 4.2 BR/LE connectivity, built-in PCB antenna [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/27/open-rc-spotter-is-an-open-source-esp32-telemetry-and-data-logger-for-rc-cars-and-toys/\">Open RC Spotter is an open-source ESP32 telemetry and data logger for RC cars and toys</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Synopsys, AMD, and Microsoft Expand Agentic AI for EDA",
-    "source": "Embedded.com",
-    "date": "2026-07-27",
-    "url": "https://www.embedded.com/synopsys-amd-and-microsoft-expand-agentic-ai-for-eda/",
-    "summary": "<p>Synopsys has expanded its agentic AI strategy for electronic design automation (EDA) by introducing autonomous chip design workflows developed in collaboration with AMD and Microsoft. The new workflows are available for evaluation on Microsoft Discovery and are designed to automate complex engineering tasks across the semiconductor design lifecycle, from design implementation through verification and debug. [...]</p>\n<p>The post <a href=\"https://www.embedded.com/synopsys-amd-and-microsoft-expand-agentic-ai-for-eda/\">Synopsys, AMD, and Microsoft Expand Agentic AI for EDA</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Congatec Launches Ryzen AI-based COM-HPC Module",
-    "source": "Embedded.com",
-    "date": "2026-07-27",
-    "url": "https://www.embedded.com/congatec-launches-ryzen-ai-based-com-hpc-module/",
-    "summary": "<p>The COM-HPC module targets physical AI applications in rugged environments.</p>\n<p>The post <a href=\"https://www.embedded.com/congatec-launches-ryzen-ai-based-com-hpc-module/\">Congatec Launches Ryzen AI-based COM-HPC Module</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
     "title": "edge lab LIVE! Developer Conference for Edge AI, Open-Source Software, Open Standards Hardware & CRA-Compliant Product Development Launches at electronica 2026",
     "source": "EE Journal",
     "date": "2026-07-27",
@@ -383,47 +355,5 @@
     "date": "2026-07-26",
     "url": "https://www.cnx-software.com/2026/07/26/creality-pika-review-an-affordable-portable-3d-scanner-with-infrared-and-blue-laser-modes/",
     "summary": "<div><img alt=\"Creality Pika portable3D scanner review\" class=\"attachment-medium size-medium wp-post-image\" height=\"464\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Creality-Pika-portable3D-scanner-review-720x464.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Creality has sent us a sample of the Pika portable 3D scanner for review. In some ways, it shares some of the features of the high-end Sermoon S1 3D scanner, like blue laser and NIR structured light scanning modes, but it&#8217;s more affordable and compact, works out of the box through USB or WiFi, and is offered in a design and form factor similar to an action or point-and-shoot camera. In this review, I&#8217;ll start by listing the specifications, then go through an unboxing, and test the Pika with an (underpowered) Android phone, before spending more time testing the portable 3D scanner on a powerful mini PC connected to an NVIDIA GeForce RTX 5060 Ti 16GB GPU dock. Pika 3D scanner specifications and host requirements Pika (CRS15CPK) specifications: SoC &#8211; Unnamed octa-core processor clocked at 2.0 GHz Display &#8211; 3-inch touchscreen display Scanning Modes 7 Parallel Blue Laser Lines Working [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/26/creality-pika-review-an-affordable-portable-3d-scanner-with-infrared-and-blue-laser-modes/\">Creality Pika review &#8211; An affordable, portable 3D scanner with infrared and blue laser modes</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Hybrid MCUs, Low-Power Embedded Design, Pros and Cons of MCU HW and SW Peripherals: Embedded Week Insights",
-    "source": "Embedded.com",
-    "date": "2026-07-24",
-    "url": "https://www.embedded.com/hybrid-mcus-low-power-embedded-design-pros-and-cons-of-mcu-hw-and-sw-peripherals-embedded-week-insights/",
-    "summary": "<p>Here's a roundup of this week's must-read articles. We'll look at the latest developments in hybrid microcontrollers (MCUs), low-power embedded design, and the pros and cons of MCU hardware and software peripherals. Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete list of news and articles from our website. NEWS Siemens Expands EDA [...]</p>\n<p>The post <a href=\"https://www.embedded.com/hybrid-mcus-low-power-embedded-design-pros-and-cons-of-mcu-hw-and-sw-peripherals-embedded-week-insights/\">Hybrid MCUs, Low-Power Embedded Design, Pros and Cons of MCU HW and SW Peripherals: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "EMASS, Bosch Sensortec Collaborate on Asset Tracking Platform",
-    "source": "Embedded.com",
-    "date": "2026-07-24",
-    "url": "https://www.embedded.com/emass-bosch-sensortec-collaborate-on-asset-tracking-platform/",
-    "summary": "<p>EMASS, a Nanoveu subsidiary focused on ultra-low-power edge AI semiconductor technology, has partnered with Bosch Sensortec to develop a reference architecture for intelligent asset tracking. The platform combines edge AI processing with multimodal sensing to enable battery-powered tracking devices capable of analyzing data locally and transmitting only relevant events, reducing power consumption while providing more [...]</p>\n<p>The post <a href=\"https://www.embedded.com/emass-bosch-sensortec-collaborate-on-asset-tracking-platform/\">EMASS, Bosch Sensortec Collaborate on Asset Tracking Platform</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Low-Power Embedded Design: Are You Optimizing the Wrong Thing?",
-    "source": "Embedded.com",
-    "date": "2026-07-23",
-    "url": "https://www.embedded.com/low-power-embedded-design-are-you-optimizing-the-wrong-thing/",
-    "summary": "<p>Minimizing average current is the key to achieving long battery life.</p>\n<p>The post <a href=\"https://www.embedded.com/low-power-embedded-design-are-you-optimizing-the-wrong-thing/\">Low-Power Embedded Design: Are You Optimizing the Wrong Thing?</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Aetina Adds Jetson T3000 and T2000 Support to Edge AI Systems",
-    "source": "Embedded.com",
-    "date": "2026-07-23",
-    "url": "https://www.embedded.com/aetina-adds-jetson-t3000-and-t2000-support-to-edge-ai-systems/",
-    "summary": "<p>Aetina Corp. plans to expand its edge AI computing portfolio by adding support for Nvidia's newly introduced Jetson T3000 and T2000 system-on-modules (SOMs), extending its existing range of Nvidia Jetson Thor-based platforms. The company will integrate the new modules into its upcoming DeviceEdge AIE-KT fan-based systems and the new DeviceEdge AIE-PT fanless family, providing scalable [...]</p>\n<p>The post <a href=\"https://www.embedded.com/aetina-adds-jetson-t3000-and-t2000-support-to-edge-ai-systems/\">Aetina Adds Jetson T3000 and T2000 Support to Edge AI Systems</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Hybrid Microcontrollers Reshape Embedded Computing",
-    "source": "Embedded.com",
-    "date": "2026-07-22",
-    "url": "https://www.embedded.com/hybrid-microcontrollers-reshape-embedded-computing/",
-    "summary": "<p>Hybrid MCUs optimize performance and functionality by assigning workloads to the best on-chip hardware block for higher efficiency in complex designs.</p>\n<p>The post <a href=\"https://www.embedded.com/hybrid-microcontrollers-reshape-embedded-computing/\">Hybrid Microcontrollers Reshape Embedded Computing</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Siemens Expands EDA Portfolio with Defacto Technologies Acquisition",
-    "source": "Embedded.com",
-    "date": "2026-07-22",
-    "url": "https://www.embedded.com/siemens-expands-eda-portfolio-with-defacto-technologies-acquisition/",
-    "summary": "<p>Siemens has signed an agreement to acquire Defacto Technologies, a privately held electronic design automation (EDA) software company specializing in automated system-on-chip (SoC) design creation at the register-transfer level (RTL). The acquisition strengthens Siemens' EDA portfolio by adding technologies that automate SoC development, improve implementation planning at earlier design stages, and enhance verification throughout the [...]</p>\n<p>The post <a href=\"https://www.embedded.com/siemens-expands-eda-portfolio-with-defacto-technologies-acquisition/\">Siemens Expands EDA Portfolio with Defacto Technologies Acquisition</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
