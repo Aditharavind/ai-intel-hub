@@ -1,13 +1,13 @@
 [
   {
     "repo": "NVIDIA/skills",
-    "stars": 2739,
+    "stars": 2740,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-07-30",
     "topic": "physical-ai",
-    "score": 1095.7
+    "score": 1096.1
   },
   {
     "repo": "copper-project/copper-rs",
@@ -68,6 +68,16 @@
     "date": "2026-07-30",
     "topic": "robotics",
     "score": 5755.3
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "stars": 12059,
+    "language": "JavaScript",
+    "description": "A collection of agent skills for CAD, robotics and hardware design",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "date": "2026-07-30",
+    "topic": "robotics",
+    "score": 4823.7
   },
   {
     "repo": "rerun-io/rerun",
@@ -151,23 +161,23 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5746,
+    "stars": 5748,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-30",
     "topic": "world-model",
-    "score": 2298.5
+    "score": 2299.3
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2200,
+    "stars": 2203,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-07-30",
     "topic": "humanoid",
-    "score": 880.1
+    "score": 881.3
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -230,24 +240,14 @@
     "score": 187.3
   },
   {
-    "repo": "earthtojake/text-to-cad",
-    "stars": 12048,
-    "language": "JavaScript",
-    "description": "A collection of agent skills for CAD, robotics and hardware design",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "date": "2026-07-29",
-    "topic": "robotics",
-    "score": 4819.3
-  },
-  {
     "repo": "nasa-jpl/open-source-rover",
-    "stars": 9546,
+    "stars": 9547,
     "language": "Prolog",
     "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
     "url": "https://github.com/nasa-jpl/open-source-rover",
     "date": "2026-07-29",
     "topic": "robotics",
-    "score": 3818.5
+    "score": 3818.9
   },
   {
     "repo": "mani-skill/ManiSkill",
@@ -461,13 +461,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30190,
+    "stars": 30191,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-07-27",
     "topic": "robotics",
-    "score": 12076.1
+    "score": 12076.5
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",
@@ -541,13 +541,13 @@
   },
   {
     "repo": "thu-ml/Causal-Forcing",
-    "stars": 889,
+    "stars": 890,
     "language": "Python",
     "description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\" & Causal Forcing++",
     "url": "https://github.com/thu-ml/Causal-Forcing",
     "date": "2026-07-23",
     "topic": "world-model",
-    "score": 355.7
+    "score": 356.1
   },
   {
     "repo": "Matrixchung/iFOC",
@@ -811,13 +811,13 @@
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
-    "stars": 3087,
+    "stars": 3088,
     "language": "HTML",
     "description": "BOM, STL files and instructions for PAROL6 3D printed robot arm",
     "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
     "date": "2026-07-07",
     "topic": "lerobot",
-    "score": 1234.9
+    "score": 1235.3
   },
   {
     "repo": "OpenDriveLab/RISE",
