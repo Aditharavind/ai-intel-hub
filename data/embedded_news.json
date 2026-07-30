@@ -1,5 +1,12 @@
 [
   {
+    "title": "Wrangling Datacenter GPUs Into a Desktop",
+    "source": "Hackaday",
+    "date": "2026-07-30",
+    "url": "https://hackaday.com/2026/07/30/wrangling-datacenter-gpus-into-a-desktop/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/v100-dual-main.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As we&#8217;ve seen many times before, there&#8217;s usually some way wrangle a bit more life out of what would otherwise be considered old and obsolete technology. Perhaps one thing that <a class=\"read-more\" href=\"https://hackaday.com/2026/07/30/wrangling-datacenter-gpus-into-a-desktop/\">&#8230;read more</a>"
+  },
+  {
     "title": "RC Telemetry Board Lets Virtual Crewmember Help You Race Better",
     "source": "Hackaday",
     "date": "2026-07-30",
@@ -56,53 +63,25 @@
     "summary": "<div><img alt=\"InHand Mo 62A SBC\" class=\"attachment-medium size-medium wp-post-image\" height=\"500\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/InHand-Mo-62A-SBC-720x500.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>InHand Mo 62A and Mo 68A are two credit card-sized Edge AI single board computers (SBCs) powered by Texas Instruments AM62A and AM68A processors, delivering respectively 2 TOPS and 8 TOPS of AI performance. Designed for AI Vision applications, the Mo 62A and Mo 68A SBCs support MIPI CSI camera input, Raspberry Pi HAT expansion boards, integrate 7th-generation ISP image processing capabilities, and handle H.264 / H.265 video encoding and decoding. However, they offer a different range of ports, as you&#8217;ll see in the specifications below. Target applications include industrial equipment, access control systems, robots, smart cameras, and visual inspection terminals. InHand Mo 62A Mo 62A specifications: SoC – Texas Instruments AM62A74 SoC Application processor – Up to four Arm Cortex- A53 cores @ 1.4GHz Real-time cores 1x Cortex-R5F @ 800MHz (MPU Channel with FFI) 1x Cortex-R5F @ 800MHz to support Device Management 3D GPU &#8211; None VPU &#8211; 4Kp30 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/30/credit-card-sized-edge-ai-sbc-texas-instruments-am62a-2-tops-am68a-8-tops-soc/\">Credit card-sized Edge AI single board computers are powered by TI AM62A (2 TOPS) or AM68A (8 TOPS) SoC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Intel to license x86 RTL code",
-    "source": "Electronics Weekly",
+    "title": "Why Sustained Performance Defines the Next Phase of Edge AI",
+    "source": "Embedded.com",
     "date": "2026-07-30",
-    "url": "https://www.electronicsweekly.com/news/business/intel-to-license-x86-rtl-code-2026-07/",
-    "summary": "<p>Intel is intending to ship RTL code for its x86 Atom processor to Rosaic Labs, a startup incorporated last May, reports Reuters. Rosaic CEO Amarjit Gill (pictured) and Intel CEO [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/intel-to-license-x86-rtl-code-2026-07/\">Intel to license x86 RTL code</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.embedded.com/why-sustained-performance-defines-the-next-phase-of-edge-ai/",
+    "summary": "<p>Avnet Silica details why sustained performance, not peak compute, will define the next phase of edge AI.</p>\n<p>The post <a href=\"https://www.embedded.com/why-sustained-performance-defines-the-next-phase-of-edge-ai/\">Why Sustained Performance Defines the Next Phase of Edge AI</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Samsung Q2 chip profit hits $62bn",
-    "source": "Electronics Weekly",
+    "title": "ESP32-C6 power consumption: Arduino vs Zephyr vs ESP-IDF",
+    "source": "Adafruit",
     "date": "2026-07-30",
-    "url": "https://www.electronicsweekly.com/news/business/samsung-q2-chip-profit-hits-62bn-2026-07/",
-    "summary": "<p>Samsung reported a a $62 billion Q2 profit for its chip division up 250-fold YoY  The company had Q2 revenue of $119 billion. “The supply shortage in 2027 is expected [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/samsung-q2-chip-profit-hits-62bn-2026-07/\">Samsung Q2 chip profit hits $62bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/30/esp32-c6-power-consumption-arduino-vs-zephyr-vs-esp-idf/",
+    "summary": "Qoitech publishes Kevin Leon&#8217;s analysis of ESP32-C6 power consumption using various development environments. Microcontrollers such as the ESP32-C6, featuring a modern RISC-V architecture and advanced wireless capabilities (Wi-Fi 6, Thread, BLE), are increasingly deployed in edge-computing scenarios where battery replacement is impractical. While hardware efficiency is frequently prioritized during the design phase, the software abstraction layer [&#8230;]"
   },
   {
-    "title": "US FCC bans Chinese robots",
-    "source": "Electronics Weekly",
+    "title": "Jimothy #3DThursday #3DPrinting",
+    "source": "Adafruit",
     "date": "2026-07-30",
-    "url": "https://www.electronicsweekly.com/news/business/us-fcc-bans-chinese-robots-2026-07/",
-    "summary": "<p>The US FCC has banned the import of hunanoid robots from China. “Advanced robotic devices collect data that could be leveraged by malign actors to surveil Americans, enhance the capabilities [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/us-fcc-bans-chinese-robots-2026-07/\">US FCC bans Chinese robots</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Arm Q1 revenues up 22% YoY",
-    "source": "Electronics Weekly",
-    "date": "2026-07-30",
-    "url": "https://www.electronicsweekly.com/news/business/arm-q1-revenues-up-22-yoy-2026-07/",
-    "summary": "<p>Arm’s fiscal Q1 (calendar Q2) revenue was $1.29 billion, up 22% YoY for a profit of $531 million at a margin of 41.2%. It forecast Q2 revenue of  $1.38 billion. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/arm-q1-revenues-up-22-yoy-2026-07/\">Arm Q1 revenues up 22% YoY</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "GloFo gets $300m for  SiPho",
-    "source": "Electronics Weekly",
-    "date": "2026-07-30",
-    "url": "https://www.electronicsweekly.com/news/business/glofo-gets-300m-for-sipho-2026-07/",
-    "summary": "<p>The U.S. DoC  intends to advance $300 million to Globalfoundries to accelerate R&#38;D  of next-generation silicon photonics. The work will cover optical materials, wafer technologies and advanced packaging to accelerate [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/glofo-gets-300m-for-sipho-2026-07/\">GloFo gets $300m for  SiPho</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Cambridge Tech Week Startup Finalists",
-    "source": "Electronics Weekly",
-    "date": "2026-07-30",
-    "url": "https://www.electronicsweekly.com/news/business/cambridge-tech-week-startup-finalists-2026-07/",
-    "summary": "<p>The five startups competing in the live Cambridge Tech Week Pitching Competition this September are: HotHouse Therapeutics – Spun out of Professor Anne Osbourn’s laboratory at the John Innes Centre, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/cambridge-tech-week-startup-finalists-2026-07/\">Cambridge Tech Week Startup Finalists</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "EU Housing Cost",
-    "source": "Electronics Weekly",
-    "date": "2026-07-30",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/eu-housing-cost-2026-07/",
-    "summary": "<p>European housing has become one of the defining cost pressures of the decade. As grocery and energy bills climb, the rent or mortgage payment now claims an outsized slice of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/eu-housing-cost-2026-07/\">EU Housing Cost</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/30/jimothy-3dthursday-3dprinting/",
+    "summary": "Every week we&#8217;ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Jimothy By NateStormArt makerworld.com/en/models/3069661-jimothy-running Bambu X1C PolyMaker PLA 14hr 25mins X:99 Y:77 Z:77mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 34g 230mm/s Every Thursday is #3dthursday here at [&#8230;]"
   },
   {
     "title": "Bambu Lab LED Kit 001 Zen Lamp – Organic Wave Diffuser #3DThursday #3DPrinting",
@@ -154,6 +133,41 @@
     "summary": "PrecisionCrafts shares: A simple, popular Gridfinity organizer for small electronics parts. 15mm wide, 64–80mm long bins with taller and shorter variants. Five small parts boxes fit stacked on top of each other in the taller drawers of the IKEA Alex — a well-loved combination in the maker workspace. Prints without supports. By PrecisionCrafts download the [&#8230;]"
   },
   {
+    "title": "Synopsys Showcases Comprehensive Autonomous Engineering Workflows from Silicon to Systems, Developed with NVIDIA Technology",
+    "source": "EE Journal",
+    "date": "2026-07-30",
+    "url": "https://www.eejournal.com/industry_news/synopsys-showcases-comprehensive-autonomous-engineering-workflows-from-silicon-to-systems-developed-with-nvidia-technology/",
+    "summary": "Key Highlights Synopsys unveils a fully autonomous long-running design verification agent that orchestrates the entire chip verification cycle delivering up to 50X faster time-to-validated RTL while achieving 20% additional coverage improvement Demonstrating Synopsys&#8217; first fully autonomous computer-aided engineering (CAE) workflow for thermal management and electronic device cooling capable of autonomously executing set-up, pre-processing, and post-processing &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/synopsys-showcases-comprehensive-autonomous-engineering-workflows-from-silicon-to-systems-developed-with-nvidia-technology/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Synopsys Showcases Comprehensive Autonomous Engineering Workflows from Silicon to Systems, Developed with NVIDIA Technology\"</span></a>"
+  },
+  {
+    "title": "New Infineon SPOC™ Wire Guard 12V automotive eFuse supports software-defined vehicles",
+    "source": "EE Journal",
+    "date": "2026-07-30",
+    "url": "https://www.eejournal.com/industry_news/new-infineon-spoc-wire-guard-12v-automotive-efuse-supports-software-defined-vehicles/",
+    "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) has expanded its automotive power distribution portfolio with the SPOC™ Wire Guard BTS80009 SWPx 1ES, a highly integrated 12 V automotive eFuse with SPI interface. As the first member of a new smart power switch family, it combines a protected high-side switch with integrated I²t wire protection, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/new-infineon-spoc-wire-guard-12v-automotive-efuse-supports-software-defined-vehicles/\">Read More &#8594;<span class=\"screen-reader-text\"> \"New Infineon SPOC™ Wire Guard 12V automotive eFuse supports software-defined vehicles\"</span></a>"
+  },
+  {
+    "title": "Teledyne HiRel Semiconductors Introduces Isolated GaN Gate Driver  for High-Efficiency Power Conversion Systems",
+    "source": "EE Journal",
+    "date": "2026-07-30",
+    "url": "https://www.eejournal.com/industry_news/teledyne-hirel-semiconductors-introduces-isolated-gan-gate-driver-for-high-efficiency-power-conversion-systems/",
+    "summary": "Teledyne HiRel Semiconductors, a business unit of Teledyne Technologies  Incorporated and a leading supplier of high-reliability semiconductor solutions, with more than a decade of experience in gallium nitride (GaN) for aerospace, defense, space and industrial applications, today announced the release of the TDGD85110EP, an isolated, single-channel gate driver that simplifies the implementation of GaN transistors &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/teledyne-hirel-semiconductors-introduces-isolated-gan-gate-driver-for-high-efficiency-power-conversion-systems/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Teledyne HiRel Semiconductors Introduces Isolated GaN Gate Driver  for High-Efficiency Power Conversion Systems\"</span></a>"
+  },
+  {
+    "title": "ALL.SPACE Launches Hydra MAX Wideband Ka Platform for Resilient Multi-Orbit Operations",
+    "source": "EE Journal",
+    "date": "2026-07-30",
+    "url": "https://www.eejournal.com/industry_news/all-space-launches-hydra-max-wideband-ka-platform-for-resilient-multi-orbit-operations/",
+    "summary": "Hydra MAX unlocks next-generation wideband Ka networks while maintaining simultaneous multi-orbit connectivity on the move, delivering 500 MHz of instantaneous bandwidth per Ka beam Tested with government customers, Hydra MAX provides network-agnostic interoperability across leading commercial and government Ka-band networks, along with sovereign modem flexibility and optional DIFI-over-fiber connectivity The launch follows York Space Systems’ &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/all-space-launches-hydra-max-wideband-ka-platform-for-resilient-multi-orbit-operations/\">Read More &#8594;<span class=\"screen-reader-text\"> \"ALL.SPACE Launches Hydra MAX Wideband Ka Platform for Resilient Multi-Orbit Operations\"</span></a>"
+  },
+  {
+    "title": "When Chatbots Start Chatting to Each Other",
+    "source": "EE Journal",
+    "date": "2026-07-30",
+    "url": "https://www.eejournal.com/article/when-chatbots-start-chatting-to-each-other/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/max-0505-image-for-home-page-testmu-ai-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />One of the many things I haven’t really thought much about before is how people test websites these days. I know how we used to do it in the early days of the public-facing internet (when dinosaurs roamed the Earth). This was long before things like AI-assisted vibe coding were a twinkle in anyone’s eye. &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/when-chatbots-start-chatting-to-each-other/\">Read More &#8594;<span class=\"screen-reader-text\"> \"When Chatbots Start Chatting to Each Other\"</span></a>"
+  },
+  {
     "title": "Using Video Glasses As a Camera Viewfinder Is Harder Than It Looks",
     "source": "Hackaday",
     "date": "2026-07-29",
@@ -166,13 +180,6 @@
     "date": "2026-07-29",
     "url": "https://hackaday.com/2026/07/29/scrap-pinball-parts-become-beautiful-wall-art/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"451\" src=\"https://hackaday.com/wp-content/uploads/2026/07/image-18-e1785299080644.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Hans Scharler] came into a neat find recently—the playfield from a 1970s Atari Superman game. It&#8217;s the sort of thing that&#8217;s too nice to throw away, but isn&#8217;t really enough <a class=\"read-more\" href=\"https://hackaday.com/2026/07/29/scrap-pinball-parts-become-beautiful-wall-art/\">&#8230;read more</a>"
-  },
-  {
-    "title": "FLOSS Weekly Episode 877: RCE As a Service",
-    "source": "Hackaday",
-    "date": "2026-07-29",
-    "url": "https://hackaday.com/2026/07/29/floss-weekly-episode-877-rce-as-a-service/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>This week Jonathan chats with Francois Proulx about SmokedMeat! That&#8217;s the third in a trio of Open Source security tools from Boost Security, and this one is the red team <a class=\"read-more\" href=\"https://hackaday.com/2026/07/29/floss-weekly-episode-877-rce-as-a-service/\">&#8230;read more</a>"
   },
   {
     "title": "NXP RW610FML Wi-Fi 6 and BLE 5.4 module features RW610 Cortex-M33 wireless MCU",
@@ -217,27 +224,6 @@
     "summary": "<p>NI Nigel AI enhancements accelerate test productivity by up to 50 percent.</p>\n<p>The post <a href=\"https://www.embedded.com/emerson-expands-ai-capabilities-across-test-environment/\">Emerson Expands AI Capabilities Across Test Environment</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Synopsys unveils autonomous workflows agents",
-    "source": "Electronics Weekly",
-    "date": "2026-07-29",
-    "url": "https://www.electronicsweekly.com/news/business/synopsys-unveils-autonomous-workflows-agents-2026-07/",
-    "summary": "<p>On the first anniversary of its acquisition of Ansys, Synopsys demos autonomous design verification agents for EDA and CAE (computer aided engineering) design. The agents have been developed with Nvidia, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/synopsys-unveils-autonomous-workflows-agents-2026-07/\">Synopsys unveils autonomous workflows agents</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Sleeping With The Enemy",
-    "source": "Electronics Weekly",
-    "date": "2026-07-29",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/sleeping-with-the-enemy-2026-07/",
-    "summary": "<p>Responding to recent M&#38;A activity, Anglia Components has warned of a looming potential imbalance in the supply chain, where traditional lines may become blurred, leading to a lack of transparency [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/sleeping-with-the-enemy-2026-07/\">Sleeping With The Enemy</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Scaling semiconductor manufacturing through NPI, yield ramp and high-volume production",
-    "source": "Electronics Weekly",
-    "date": "2026-07-29",
-    "url": "https://www.electronicsweekly.com/news/business/scaling-semiconductor-manufacturing-through-npi-yield-ramp-and-high-volume-production-2026-07/",
-    "summary": "<p>Anshul Karnik discusses how semiconductor technologies are successfully transitioned from early technology development (TD) through new product introduction (NPI) and into high-volume manufacturing (HVM), writes Ellen F Warren. ELLEN WARREN: [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/scaling-semiconductor-manufacturing-through-npi-yield-ramp-and-high-volume-production-2026-07/\">Scaling semiconductor manufacturing through NPI, yield ramp and high-volume production</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "LIVE NOW! SHOW and TELL 7/29/2026 with @ecken #ShowandTell @adafruit",
     "source": "Adafruit",
     "date": "2026-07-29",
@@ -257,20 +243,6 @@
     "date": "2026-07-29",
     "url": "https://blog.adafruit.com/2026/07/29/the-new-y-zipper-a-three-sided-fastener-3dthursday/",
     "summary": "In 1985, the Innovative Design Fund placed an ad in Scientific American offering up to $10,000 to support clever prototypes for clothing, home decor, and textiles. William Freeman PhD ’92, then an electrical engineer at Polaroid and now an MIT professor, saw it and submitted a novel idea: a three-sided zipper. Instead of fastening pants, [&#8230;]"
-  },
-  {
-    "title": "Metal boots into a persistent native MicroPython REPL",
-    "source": "Adafruit",
-    "date": "2026-07-29",
-    "url": "https://blog.adafruit.com/2026/07/29/metal-boots-into-a-persistent-native-micropython-repl/",
-    "summary": "pymergetic on GitHub has created Metal, an experimental UEFI/BIOS freestanding async runtime. It is not a conventional OS and it is very far from production-ready, but it now boots directly into a persistent interactive MicroPython REPL. The repository is at https://github.com/pymergetic/metal. See more in the MicroPython forums."
-  },
-  {
-    "title": "Detecting Environmental Hazards with a Wearable Patch",
-    "source": "Adafruit",
-    "date": "2026-07-29",
-    "url": "https://blog.adafruit.com/2026/07/29/detecting-environmental-hazards-with-a-wearable-patch/",
-    "summary": "Researchers at North Carolina State University have created a wearable patch that can detect hazardous gaseous, aerosolized, and aqueous environmental toxins and notify wearers by vibrating against their skin. For this work, the researchers created a square patch slightly smaller than a driver’s license. The patch contains a microcontroller that serves as the patch’s brain; [&#8230;]"
   },
   {
     "title": "Ubuntu Touch 24.04-2.0 updates Morph browser, adds notch and printing support, and more",
@@ -350,13 +322,6 @@
     "summary": "RS, a high-service global product and service solutions provider for industrial customers, provides comprehensive support for the rapidly accelerating cross-market trend towards control panel integration, which is being driven by digital transformation and smart factory initiatives. As industrial automation becomes increasingly ubiquitous and the cost of unplanned downtime continues to rise, industrial operators can’t afford &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/rs-and-rs-pro-streamline-control-panel-integration-in-automated-industrial-environments/\">Read More &#8594;<span class=\"screen-reader-text\"> \"RS and RS PRO streamline control panel integration in automated industrial environments\"</span></a>"
   },
   {
-    "title": "2,000+ AI-Routed PCBs a Week!",
-    "source": "EE Journal",
-    "date": "2026-07-28",
-    "url": "https://www.eejournal.com/article/2000-ai-routed-pcbs-a-week/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/max-0504-image-for-home-page-deeppcb-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I can’t believe that the Design Automation Conference (DAC) has rolled around once again. Also, I can’t believe that, in conversation, some people remain blissfully unaware that you can pronounce this as “DAC” (to rhyme with “quack”), or spell it out as “D-A-C.” And to top it all off, I can’t believe I’m not there &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/2000-ai-routed-pcbs-a-week/\">Read More &#8594;<span class=\"screen-reader-text\"> \"2,000+ AI-Routed PCBs a Week!\"</span></a>"
-  },
-  {
     "title": "Synopsys, AMD, and Microsoft Expand Agentic AI for EDA",
     "source": "Embedded.com",
     "date": "2026-07-27",
@@ -369,34 +334,6 @@
     "date": "2026-07-27",
     "url": "https://www.embedded.com/congatec-launches-ryzen-ai-based-com-hpc-module/",
     "summary": "<p>The COM-HPC module targets physical AI applications in rugged environments.</p>\n<p>The post <a href=\"https://www.embedded.com/congatec-launches-ryzen-ai-based-com-hpc-module/\">Congatec Launches Ryzen AI-based COM-HPC Module</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "edge lab LIVE! Developer Conference for Edge AI, Open-Source Software, Open Standards Hardware & CRA-Compliant Product Development Launches at electronica 2026",
-    "source": "EE Journal",
-    "date": "2026-07-27",
-    "url": "https://www.eejournal.com/industry_news/edge-lab-live-developer-conference-for-edge-ai-open-source-software-open-standards-hardware-cra-compliant-product-development-launches-at-electronica-2026/",
-    "summary": "PHOENIX — July 27, 2026 — ThroughPut Marketing today announced edge lab LIVE!,  the premier technical conference and exhibition for edge AI, edge computing, and CRA-compliant embedded and IoT product development. Hosted in partnership with Messe München, edge lab LIVE! takes place November 10-13, 2026 at electronica in Munich, Germany. Focusing on the practical aspects of modern embedded and IoT edge &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/edge-lab-live-developer-conference-for-edge-ai-open-source-software-open-standards-hardware-cra-compliant-product-development-launches-at-electronica-2026/\">Read More &#8594;<span class=\"screen-reader-text\"> \"edge lab LIVE! Developer Conference for Edge AI, Open-Source Software, Open Standards Hardware &#038; CRA-Compliant Product Development Launches at electronica 2026\"</span></a>"
-  },
-  {
-    "title": "Keysight Certifies Electromagnetic Design Software for Intel Foundry’s Latest Processes",
-    "source": "EE Journal",
-    "date": "2026-07-27",
-    "url": "https://www.eejournal.com/industry_news/keysight-certifies-electromagnetic-design-software-for-intel-foundrys-latest-processes/",
-    "summary": "SANTA ROSA, Calif.&#8211;(BUSINESS WIRE)&#8211;Keysight Technologies, Inc. (NYSE: KEYS) today announced certification of its RFPro electromagnetic (EM) design software, part of the Keysight EDA Advanced Design System (ADS), for Intel 14A and Intel 18A-P process technologies. The certification gives radio frequency integrated circuit (RFIC) and mixed-signal designers confidence that their electromagnetic simulations accurately reflect Intel Foundry’s &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/keysight-certifies-electromagnetic-design-software-for-intel-foundrys-latest-processes/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Keysight Certifies Electromagnetic Design Software for Intel Foundry’s Latest Processes\"</span></a>"
-  },
-  {
-    "title": "TDK presents SMD common-mode chokes for up to 80 V/35 A with a minimized PCB footprint",
-    "source": "EE Journal",
-    "date": "2026-07-27",
-    "url": "https://www.eejournal.com/industry_news/tdk-presents-smd-common-mode-chokes-for-up-to-80-v-35-a-with-a-minimized-pcb-footprint/",
-    "summary": "TDK Corporation (TSE:6762) presents the EP21 series (ordering code: B82552J*J021) of flat-wire double chokes. These components are designed for common-mode EMI filtering and are available in an SMD format with dimensions of only 23.8 x 17.7 mm and heights ranging from 21.6 to 22.3 mm. To minimize board space, these components feature underbody termination. They can be used as &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/tdk-presents-smd-common-mode-chokes-for-up-to-80-v-35-a-with-a-minimized-pcb-footprint/\">Read More &#8594;<span class=\"screen-reader-text\"> \"TDK presents SMD common-mode chokes for up to 80 V/35 A with a minimized PCB footprint\"</span></a>"
-  },
-  {
-    "title": "Newark partners with Hailo to accelerate edge AI innovation globally",
-    "source": "EE Journal",
-    "date": "2026-07-27",
-    "url": "https://www.eejournal.com/industry_news/newark-partners-with-hailo-to-accelerate-edge-ai-innovation-globally/",
-    "summary": "Newark has announced a new global partnership with Hailo, a pioneering edge artificial intelligence (AI) chipmaker, to expand access to high-performance AI solutions for customers worldwide. Through the collaboration, Newark will offer Hailo’s AI products via their global distribution network, e-commerce platforms, and engineering community, enabling engineers, developers, and enterprises to integrate advanced edge AI &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/newark-partners-with-hailo-to-accelerate-edge-ai-innovation-globally/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Newark partners with Hailo to accelerate edge AI innovation globally\"</span></a>"
   },
   {
     "title": "Hybrid MCUs, Low-Power Embedded Design, Pros and Cons of MCU HW and SW Peripherals: Embedded Week Insights",
@@ -418,12 +355,5 @@
     "date": "2026-07-23",
     "url": "https://www.embedded.com/low-power-embedded-design-are-you-optimizing-the-wrong-thing/",
     "summary": "<p>Minimizing average current is the key to achieving long battery life.</p>\n<p>The post <a href=\"https://www.embedded.com/low-power-embedded-design-are-you-optimizing-the-wrong-thing/\">Low-Power Embedded Design: Are You Optimizing the Wrong Thing?</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Aetina Adds Jetson T3000 and T2000 Support to Edge AI Systems",
-    "source": "Embedded.com",
-    "date": "2026-07-23",
-    "url": "https://www.embedded.com/aetina-adds-jetson-t3000-and-t2000-support-to-edge-ai-systems/",
-    "summary": "<p>Aetina Corp. plans to expand its edge AI computing portfolio by adding support for Nvidia's newly introduced Jetson T3000 and T2000 system-on-modules (SOMs), extending its existing range of Nvidia Jetson Thor-based platforms. The company will integrate the new modules into its upcoming DeviceEdge AIE-KT fan-based systems and the new DeviceEdge AIE-PT fanless family, providing scalable [...]</p>\n<p>The post <a href=\"https://www.embedded.com/aetina-adds-jetson-t3000-and-t2000-support-to-edge-ai-systems/\">Aetina Adds Jetson T3000 and T2000 Support to Edge AI Systems</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]

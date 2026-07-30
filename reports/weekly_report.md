@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-30 12:19 UTC
+Generated: 2026-07-30 14:57 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-07-30 12:19 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82829 | 33131.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63266 | 25306.5 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82830 | 33132.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63267 | 25306.9 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44308 | 17723.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30183 | 12073.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30185 | 12074.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16076 | 6430.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| open-gigaai/Giga-World-Policy-0.5 | 2960 | 889.1 | [link](https://huggingface.co/open-gigaai/Giga-World-Policy-0.5) |
 | tencent/Hy-Embodied-VLM-1.0 | 1028 | 312.9 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
 | jovaldivieso/double_integrator_casadi_diffusion_policy | 799 | 240.2 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
 | SEU-PAISys/Embodied.cpp | 627 | 189.0 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
 | mradermacher/DeepCaption-VLA-V2.0-7B-i1-GGUF | 469 | 141.0 | [link](https://huggingface.co/mradermacher/DeepCaption-VLA-V2.0-7B-i1-GGUF) |
+| tsinghua-sigs-robot-lab/veriloop-coder-e1 | 413 | 127.0 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -44,5 +44,5 @@ Generated: 2026-07-30 12:19 UTC
 | 2026-07-30 | Indian Physical AI attracts $155 Mn in 2026 as robotics, real-world data gain traction - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNRS1WMDR4RmQyWFhvOUFsR1Axc3JQVVF3ekloZTJMQlNPUWhvbTJncVBfcEE1U3llX2U1cDBvZENqbkl2Q3JlaFZsLUdLMjVVamVicFFFc1B6clVqRFBNbHlubWZXTUlyZURRbHRBdnBROXNFOU4wb005ZURNdUV5MVZIZ0YyREhPVVdxMGFhZWdqeXY3T21VTnJQWGlVdzlrbEUxVFpRNEhUM2lTSy00NF8zZ0MyTmtocTRVQUFR0gG-AUFVX3lxTE1FLVYwNHhGZDJYWG85QWxHUDFzclBVUXd6SWhlMkxCU09RaG9tMmdxUF9wQTVTeWVfZTVwMG9kQ2puSXZDcmVoVmwtR0syNVVqZWJwUUVzUHpyVWpEUE1seW5tZldNSXJlRFFsdEF2cFE5c0U5TjBvTTllRE11RXkxVkhnRjJESE9VV3EwYWFlZ2p5djdPbVVOclBYaVV3OWtsRTFUWlE0SFQzaVNLLTQ0XzNnQzJOa2hxNFVBQVE?oc=5) |
 | 2026-07-29 | Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVBscjBlM3NnV2pQVVgtaExVSHJkTlRIQ0JPakljOTBSai00bnp5M2NvQ1VGaUttR2ROWDlXenE1RVNLVHVFZ2xCU29ha0dCQlAwWkV1YW5kX05GdDdCdE4wR2tfQW5lWnp2ZEtOUVR3d2lVX0JhMXdHeWJVeGhyQjlxTXpRRU5MRjBLZUl1Q1Y5Z0NSbWozU1VVNmplUmNN?oc=5) |
 | 2026-07-29 | [Planning] Korea Ranks No. 1 in Robot Density—149 ‘Physical AI’ Startups Are Taking Off - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iXzRrbUlHaUhoZ0JKcFF2a0dGVDZhMzB1ZUtfS0NaSTJtemlGWWJKclhibU1EbHlTRC1Bd3lQMmZ3cHpGdVFGaEE1d3cxZDk1NFlIWg?oc=5) |
-| 2026-07-29 | China claims six of the world's ten most innovative humanoid robot startups as the US moves to ban its machines - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUkpHbldGbEhGUC00SzhaUm5Rbi1ZMExBbzZPZkpjclRuMjVXTVFoNTJWT0FDZWhUTXFfVFRpY0hCZkhxZ3BRYmxBd0ExRDhMZzZYLUhOZHc2aGlvdHE3cTZxSVhReC1ISzN0eHBSai1sanB5VDl0NEJyNjlZY2J0TUNSXy1wTFg4Tm5TdW5kemFJV2pIVzU0WHJtYUkxemxLcFVIVDFYc2NLOWlMcnAzbmhrakFnR1MtdHFmMllOR054UGF5dGRqaDF1b0R0OHYyTzF3dQ?oc=5) |
-| 2026-07-28 | Physical AI gets practical in SEA - techinasia.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE43LTFHOUtMS1ZsUDR6cHdOSzBiVTlJTmVHeTFUTE8tbUd3Wl81RWJlM0ZtdUxzZEhXbUw0WXVkU0xleDhnYS1hRE16MzdYY3FFNVZVeGdvaGh5bXQ0WnpiM211UDI1c09Zd1R1UA?oc=5) |
+| 2026-07-29 | China claims six of the world's ten most innovative humanoid robot startups as the US moves to ban its machines - startupfortune.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUkpHbldGbEhGUC00SzhaUm5Rbi1ZMExBbzZPZkpjclRuMjVXTVFoNTJWT0FDZWhUTXFfVFRpY0hCZkhxZ3BRYmxBd0ExRDhMZzZYLUhOZHc2aGlvdHE3cTZxSVhReC1ISzN0eHBSai1sanB5VDl0NEJyNjlZY2J0TUNSXy1wTFg4Tm5TdW5kemFJV2pIVzU0WHJtYUkxemxLcFVIVDFYc2NLOWlMcnAzbmhrakFnR1MtdHFmMllOR054UGF5dGRqaDF1b0R0OHYyTzF3dQ?oc=5) |
+| 2026-07-28 | Physical AI gets practical in SEA - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE43LTFHOUtMS1ZsUDR6cHdOSzBiVTlJTmVHeTFUTE8tbUd3Wl81RWJlM0ZtdUxzZEhXbUw0WXVkU0xleDhnYS1hRE16MzdYY3FFNVZVeGdvaGh5bXQ0WnpiM211UDI1c09Zd1R1UA?oc=5) |
