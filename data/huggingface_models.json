@@ -1,5 +1,14 @@
 [
   {
+    "model": "jovaldivieso/multi_robot_double_integrator_casadi_act",
+    "downloads": 36,
+    "likes": 0,
+    "url": "https://huggingface.co/jovaldivieso/multi_robot_double_integrator_casadi_act",
+    "date": "2026-07-30",
+    "keyword": "robot",
+    "score": 10.9
+  },
+  {
     "model": "puppet-robotics/golf-model-200-obs-rgb-4fps",
     "downloads": 0,
     "likes": 0,
@@ -99,19 +108,55 @@
     "score": 10.0
   },
   {
-    "model": "kaihumanoid/robot-cluster-mlops-smoke-20260730-rerun",
-    "downloads": 33,
+    "model": "sam-guided-vlas/pi05_rs-train_1_2-overlay-a050",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/kaihumanoid/robot-cluster-mlops-smoke-20260730-rerun",
+    "url": "https://huggingface.co/sam-guided-vlas/pi05_rs-train_1_2-overlay-a050",
     "date": "2026-07-30",
-    "keyword": "robot",
-    "score": 10.0
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Vlad22111/moon",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Vlad22111/moon",
+    "date": "2026-07-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-dusty-joint-2cam-yanZ",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-dusty-joint-2cam-yanZ",
+    "date": "2026-07-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-lid-joint-2cam-yanZ",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-lid-joint-2cam-yanZ",
+    "date": "2026-07-30",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-jar-joint-2cam-yanZ",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-jar-joint-2cam-yanZ",
+    "date": "2026-07-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-stack-joint-2cam-yanZ",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-stack-joint-2cam-yanZ",
     "date": "2026-07-30",
     "keyword": "vla",
     "score": 0.1
@@ -144,15 +189,6 @@
     "score": 23.8
   },
   {
-    "model": "IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-lid-joint-2cam-yanZ",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-lid-joint-2cam-yanZ",
-    "date": "2026-07-30",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "Vlad22111/Asian",
     "downloads": 0,
     "likes": 0,
@@ -166,42 +202,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/schronn/pouring_blue_v2_vla",
-    "date": "2026-07-30",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "LightningNO1/VLA_TEST0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/LightningNO1/VLA_TEST0",
-    "date": "2026-07-30",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "madokalif/minecraft-vla-stage1-dit-groot",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/madokalif/minecraft-vla-stage1-dit-groot",
-    "date": "2026-07-30",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "madokalif/minecraft-vla-stage1-dit-emit",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/madokalif/minecraft-vla-stage1-dit-emit",
-    "date": "2026-07-30",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-stack-joint-2cam-yanZ",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-stack-joint-2cam-yanZ",
     "date": "2026-07-30",
     "keyword": "vla",
     "score": 0.1
@@ -223,6 +223,15 @@
     "date": "2026-07-30",
     "keyword": "world model",
     "score": 0.3
+  },
+  {
+    "model": "Bekhzod/TASK_01_papercup_pick_place_pi05_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Bekhzod/TASK_01_papercup_pick_place_pi05_policy",
+    "date": "2026-07-30",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "Archaive16/act_policy_base",
@@ -310,15 +319,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Jimme2/act_0730test_policy",
-    "date": "2026-07-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jinjian-li/cosmos3-edge-policy-droid-v15-tail8-iter75",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jinjian-li/cosmos3-edge-policy-droid-v15-tail8-iter75",
     "date": "2026-07-30",
     "keyword": "policy",
     "score": 0.1
