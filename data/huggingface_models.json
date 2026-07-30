@@ -1,5 +1,32 @@
 [
   {
+    "model": "maximellerbach/folding_vla_jepa",
+    "downloads": 62,
+    "likes": 0,
+    "url": "https://huggingface.co/maximellerbach/folding_vla_jepa",
+    "date": "2026-07-30",
+    "keyword": "vla",
+    "score": 18.7
+  },
+  {
+    "model": "yangsamy/yangsamy_pi0_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yangsamy/yangsamy_pi0_policy",
+    "date": "2026-07-30",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jovaldivieso/multi_robot_double_integrator_casadi_act",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jovaldivieso/multi_robot_double_integrator_casadi_act",
+    "date": "2026-07-29",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "yuyangalin/ImageWAM-FLUX.2-4B-RoboTwin-C2R-FT",
     "downloads": 0,
     "likes": 0,
@@ -38,11 +65,11 @@
   {
     "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
     "downloads": 256,
-    "likes": 13,
+    "likes": 14,
     "url": "https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1",
     "date": "2026-07-29",
     "keyword": "robot",
-    "score": 79.5
+    "score": 79.7
   },
   {
     "model": "junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_rerun2",
@@ -189,15 +216,6 @@
     "score": 0.1
   },
   {
-    "model": "wego-hansu/yeonwonju-070720-vla",
-    "downloads": 116,
-    "likes": 0,
-    "url": "https://huggingface.co/wego-hansu/yeonwonju-070720-vla",
-    "date": "2026-07-29",
-    "keyword": "vla",
-    "score": 34.9
-  },
-  {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-v2",
     "downloads": 0,
     "likes": 0,
@@ -241,15 +259,6 @@
     "date": "2026-07-29",
     "keyword": "embodied",
     "score": 0.3
-  },
-  {
-    "model": "yangsamy/yangsamy_pi0_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/yangsamy/yangsamy_pi0_policy",
-    "date": "2026-07-29",
-    "keyword": "policy",
-    "score": 0.1
   },
   {
     "model": "shunshun1/policy_pi05_box_training1",
@@ -355,15 +364,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/locht131/gr00t_n17_ot_swd_robot_agilex_stack_three_cups_rel_bs64",
-    "date": "2026-07-28",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "locht131/gr00t_n17_motion_robot_agilex_stack_three_cups_rel_bs64",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/locht131/gr00t_n17_motion_robot_agilex_stack_three_cups_rel_bs64",
     "date": "2026-07-28",
     "keyword": "robot",
     "score": 0.1
