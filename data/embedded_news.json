@@ -1,5 +1,12 @@
 [
   {
+    "title": "RC Telemetry Board Lets Virtual Crewmember Help You Race Better",
+    "source": "Hackaday",
+    "date": "2026-07-30",
+    "url": "https://hackaday.com/2026/07/30/rc-telemetry-board-lets-virtual-crewmember-help-you-race-better/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/07/open_rc_spotter_top-banner-e1785304344257.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Logging and telemetry in remote controlled racing is a great thing, and not only does [jwachlin]&#8217;s Open RC Spotter do a fantastic job of that, it has quite a few <a class=\"read-more\" href=\"https://hackaday.com/2026/07/30/rc-telemetry-board-lets-virtual-crewmember-help-you-race-better/\">&#8230;read more</a>"
+  },
+  {
     "title": "A Capable KVM Built With The ESP32",
     "source": "Hackaday",
     "date": "2026-07-30",
@@ -21,6 +28,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/facing_photoresistors-e1785300673576.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>What do you do when you need to get data into an airgapped machine? Well, you might find yourself limited to basic input devices to interact with the computer in <a class=\"read-more\" href=\"https://hackaday.com/2026/07/29/keyboard-lights-as-an-airgap-attack-vector/\">&#8230;read more</a>"
   },
   {
+    "title": "ESP-KVM – An open-source IP KVM solution based on ESP32-P4 RISC-V MCU",
+    "source": "CNX Software",
+    "date": "2026-07-30",
+    "url": "https://www.cnx-software.com/2026/07/30/esp-kvm-an-open-source-ip-kvm-solution-based-on-esp32-p4-risc-v-mcu/",
+    "summary": "<div><img alt=\"ESP-KVM ESP32-P4 IP KVM\" class=\"attachment-medium size-medium wp-post-image\" height=\"416\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/ESP-KVM-ESP32-P4-IP-KVM-720x416.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Earlier this month, the P4 KVM project was brought to my attention. It provides IP KVM functionality to a Waveshare ESP32-P4-WIFI6-POE-ETH board when paired with a Toshiba TC358743 HDMI-to-CSI adapter. However, it doesn&#8217;t work with the new ESP32-P4 V3.x variants featuring a proper H.264 video encoding implementation, and the developer (Jonathan Rowny) says it&#8217;s just a proof-of-concept with many bugs and no security, so I decided to skip it. The good news is that he also encouraged others to fork the project, and Evgenij Spitsyn did just that with the release of the ESP-KVM project, which supports both MJPEG and H.264 encoding and a range of other features. ESP-KVM highlights: Video capture, resolution changes, and MJPEG or H.264 encoding Keyboard, absolute and relative pointer, media keys, copy/paste Touch mode for phones and tablets (trackpad, on-screen keyboard) Multiple viewers, one in control at a time with takeover HTTPS, login, physical password [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/30/esp-kvm-an-open-source-ip-kvm-solution-based-on-esp32-p4-risc-v-mcu/\">ESP-KVM &#8211; An open-source IP KVM solution based on ESP32-P4 RISC-V MCU</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "NightRun UEFI application boots a local LLM on Raspberry Pi 5 and x86 PCs without an OS",
     "source": "CNX Software",
     "date": "2026-07-30",
@@ -40,6 +54,20 @@
     "date": "2026-07-30",
     "url": "https://www.cnx-software.com/2026/07/30/credit-card-sized-edge-ai-sbc-texas-instruments-am62a-2-tops-am68a-8-tops-soc/",
     "summary": "<div><img alt=\"InHand Mo 62A SBC\" class=\"attachment-medium size-medium wp-post-image\" height=\"500\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/InHand-Mo-62A-SBC-720x500.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>InHand Mo 62A and Mo 68A are two credit card-sized Edge AI single board computers (SBCs) powered by Texas Instruments AM62A and AM68A processors, delivering respectively 2 TOPS and 8 TOPS of AI performance. Designed for AI Vision applications, the Mo 62A and Mo 68A SBCs support MIPI CSI camera input, Raspberry Pi HAT expansion boards, integrate 7th-generation ISP image processing capabilities, and handle H.264 / H.265 video encoding and decoding. However, they offer a different range of ports, as you&#8217;ll see in the specifications below. Target applications include industrial equipment, access control systems, robots, smart cameras, and visual inspection terminals. InHand Mo 62A Mo 62A specifications: SoC – Texas Instruments AM62A74 SoC Application processor – Up to four Arm Cortex- A53 cores @ 1.4GHz Real-time cores 1x Cortex-R5F @ 800MHz (MPU Channel with FFI) 1x Cortex-R5F @ 800MHz to support Device Management 3D GPU &#8211; None VPU &#8211; 4Kp30 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/30/credit-card-sized-edge-ai-sbc-texas-instruments-am62a-2-tops-am68a-8-tops-soc/\">Credit card-sized Edge AI single board computers are powered by TI AM62A (2 TOPS) or AM68A (8 TOPS) SoC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Intel to license x86 RTL code",
+    "source": "Electronics Weekly",
+    "date": "2026-07-30",
+    "url": "https://www.electronicsweekly.com/news/business/intel-to-license-x86-rtl-code-2026-07/",
+    "summary": "<p>Intel is intending to ship RTL code for its x86 Atom processor to Rosaic Labs, a startup incorporated last May, reports Reuters. Rosaic CEO Amarjit Gill (pictured) and Intel CEO [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/intel-to-license-x86-rtl-code-2026-07/\">Intel to license x86 RTL code</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Samsung Q2 chip profit hits $62bn",
+    "source": "Electronics Weekly",
+    "date": "2026-07-30",
+    "url": "https://www.electronicsweekly.com/news/business/samsung-q2-chip-profit-hits-62bn-2026-07/",
+    "summary": "<p>Samsung reported a a $62 billion Q2 profit for its chip division up 250-fold YoY  The company had Q2 revenue of $119 billion. “The supply shortage in 2027 is expected [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/samsung-q2-chip-profit-hits-62bn-2026-07/\">Samsung Q2 chip profit hits $62bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "US FCC bans Chinese robots",
@@ -70,18 +98,25 @@
     "summary": "<p>The five startups competing in the live Cambridge Tech Week Pitching Competition this September are: HotHouse Therapeutics – Spun out of Professor Anne Osbourn’s laboratory at the John Innes Centre, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/cambridge-tech-week-startup-finalists-2026-07/\">Cambridge Tech Week Startup Finalists</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Samsung Q2 chip profit hits $62bn",
-    "source": "Electronics Weekly",
-    "date": "2026-07-30",
-    "url": "https://www.electronicsweekly.com/news/business/samsung-q2-chip-profit-hits-62bn-2026-07/",
-    "summary": "<p>Samsung reported a a $62 billion Q2 profit for its chip division up 250-fold YoY  The company had Q2 revenue of $119 billion. “The supply shortage in 2027 is expected [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/samsung-q2-chip-profit-hits-62bn-2026-07/\">Samsung Q2 chip profit hits $62bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "EU Housing Cost",
     "source": "Electronics Weekly",
     "date": "2026-07-30",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/eu-housing-cost-2026-07/",
     "summary": "<p>European housing has become one of the defining cost pressures of the decade. As grocery and energy bills climb, the rent or mortgage payment now claims an outsized slice of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/eu-housing-cost-2026-07/\">EU Housing Cost</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Bambu Lab LED Kit 001 Zen Lamp – Organic Wave Diffuser #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-07-30",
+    "url": "https://blog.adafruit.com/2026/07/30/bambu-lab-led-kit-001-zen-lamp-organic-wave-diffuser-3dthursday-3dprinting/",
+    "summary": "cipriani3design shares: A serene Japandi-aesthetic lamp with a flowing wave texture inspired by folded paper and moving water. 100% support-free print. Bambu LED Kit 001 slot integrated into the base. PLA (white, translucent, or natural) recommended for best light diffusion. By Cipriani 3Design Studio download the files on: https://makerworld.com/en/models/2285863-bambu-lab-led-kit-001-zen-lamp-cipriani-3design Every Thursday is #3dthursday here at [&#8230;]"
+  },
+  {
+    "title": "Sci-Fi Corridor Tiles – Corner Pieces with OpenLock Base #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-07-30",
+    "url": "https://blog.adafruit.com/2026/07/30/sci-fi-corridor-tiles-corner-pieces-with-openlock-base-3dthursday-3dprinting/",
+    "summary": "Remix by Together3D shares: Modern sci-fi corridor corner tiles that click together with OpenLock triplex bases for limitless configurations. Includes a wall connector for keeping walls upright and additional beams for improved bottom texture. Great for TTRPG maps and sci-fi dioramas. By Together 3D download the files on: https://makerworld.com/en/models/1810583-sci-fi-tiles-corners Every Thursday is #3dthursday here at [&#8230;]"
   },
   {
     "title": "Flexi Bat – Articulated Halloween Poseable Print #3DThursday #3DPrinting",
@@ -138,13 +173,6 @@
     "date": "2026-07-29",
     "url": "https://hackaday.com/2026/07/29/floss-weekly-episode-877-rce-as-a-service/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>This week Jonathan chats with Francois Proulx about SmokedMeat! That&#8217;s the third in a trio of Open Source security tools from Boost Security, and this one is the red team <a class=\"read-more\" href=\"https://hackaday.com/2026/07/29/floss-weekly-episode-877-rce-as-a-service/\">&#8230;read more</a>"
-  },
-  {
-    "title": "The ESP32 Gets a Web Browser",
-    "source": "Hackaday",
-    "date": "2026-07-29",
-    "url": "https://hackaday.com/2026/07/29/the-esp32-gets-a-web-browser/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"493\" src=\"https://hackaday.com/wp-content/uploads/2026/07/espbrowser_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>At the Hackaday Europe conference in Italy earlier in the year, we were shown a rather interesting device. The work of [Alun Morris], it was an ESP32-powered Cheap Black Display <a class=\"read-more\" href=\"https://hackaday.com/2026/07/29/the-esp32-gets-a-web-browser/\">&#8230;read more</a>"
   },
   {
     "title": "NXP RW610FML Wi-Fi 6 and BLE 5.4 module features RW610 Cortex-M33 wireless MCU",
@@ -210,13 +238,6 @@
     "summary": "<p>Anshul Karnik discusses how semiconductor technologies are successfully transitioned from early technology development (TD) through new product introduction (NPI) and into high-volume manufacturing (HVM), writes Ellen F Warren. ELLEN WARREN: [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/scaling-semiconductor-manufacturing-through-npi-yield-ramp-and-high-volume-production-2026-07/\">Scaling semiconductor manufacturing through NPI, yield ramp and high-volume production</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Physics modelling cracks the code for thermal mechanics",
-    "source": "Electronics Weekly",
-    "date": "2026-07-29",
-    "url": "https://www.electronicsweekly.com/news/products/physics-modelling-cracks-the-code-for-thermal-mechanics-2026-07/",
-    "summary": "<p>DAC 2026: Among the start-ups at this year&#8217;s conference, Vinci was one of the most progressive, with a  physics-bsed AI software platform for predictive hardware design. The company introduced its [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/physics-modelling-cracks-the-code-for-thermal-mechanics-2026-07/\">Physics modelling cracks the code for thermal mechanics</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "LIVE NOW! SHOW and TELL 7/29/2026 with @ecken #ShowandTell @adafruit",
     "source": "Adafruit",
     "date": "2026-07-29",
@@ -250,20 +271,6 @@
     "date": "2026-07-29",
     "url": "https://blog.adafruit.com/2026/07/29/detecting-environmental-hazards-with-a-wearable-patch/",
     "summary": "Researchers at North Carolina State University have created a wearable patch that can detect hazardous gaseous, aerosolized, and aqueous environmental toxins and notify wearers by vibrating against their skin. For this work, the researchers created a square patch slightly smaller than a driver’s license. The patch contains a microcontroller that serves as the patch’s brain; [&#8230;]"
-  },
-  {
-    "title": "Simplified Pico VGA",
-    "source": "Adafruit",
-    "date": "2026-07-29",
-    "url": "https://blog.adafruit.com/2026/07/29/simplified-pico-vga/",
-    "summary": "Kevin on Kevin&#8217;s Blog looks into various microcontroller video implementations for VGA using a Raspberry Pi Pico. It starts with the Raspberry Pi Pico Hardware Design Manual which has an example showing how an RP2040 can be used to create a VGA signal using a 3-way 5-bit resistor DAC. That it requires 5 GPIO pins [&#8230;]"
-  },
-  {
-    "title": "Wires and Connections – How to choose your next projects connections",
-    "source": "Adafruit",
-    "date": "2026-07-29",
-    "url": "https://blog.adafruit.com/2026/07/29/wires-and-connections-how-to-choose-your-next-projects-connections/",
-    "summary": "Wires are the electrically conductive connections between the elements in electronic circuitry.  Designing your project or following many Adafruit guides, there are wires interconnecting different parts.  Theoretically, these are zero resistance, perfect connections.  On the breadboard, they are nice colored jumper wires.  In practice, the designer has a many possible choices of how to connect electronic parts [&#8230;]"
   },
   {
     "title": "Ubuntu Touch 24.04-2.0 updates Morph browser, adds notch and printing support, and more",
@@ -348,13 +355,6 @@
     "date": "2026-07-28",
     "url": "https://www.eejournal.com/article/2000-ai-routed-pcbs-a-week/",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/max-0504-image-for-home-page-deeppcb-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I can’t believe that the Design Automation Conference (DAC) has rolled around once again. Also, I can’t believe that, in conversation, some people remain blissfully unaware that you can pronounce this as “DAC” (to rhyme with “quack”), or spell it out as “D-A-C.” And to top it all off, I can’t believe I’m not there &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/2000-ai-routed-pcbs-a-week/\">Read More &#8594;<span class=\"screen-reader-text\"> \"2,000+ AI-Routed PCBs a Week!\"</span></a>"
-  },
-  {
-    "title": "Jetway SMC-ARK1 – A Rockchip RK3588 SMARC 2.1 compliant system-on-module",
-    "source": "CNX Software",
-    "date": "2026-07-27",
-    "url": "https://www.cnx-software.com/2026/07/27/jetway-smc-ark1-a-rockchip-rk3588-smarc-2-1-compliant-system-on-module/",
-    "summary": "<div><img alt=\"Rockchip RK3588 SMARC 2.1 system-on-module\" class=\"attachment-medium size-medium wp-post-image\" height=\"532\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Rockchip-RK3588-SMARC-2.1-system-on-module-720x532.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Jetway has introduced the SMC-ARK1, a new SMARC system-on-module built around the Rockchip RK3588 octa-core processor. Designed for embedded computing and edge AI applications, the board includes up to 16GB of LPDDR4x memory and up to 128GB of eMMC flash, dual GbE, and an Ampak AP6398SV Wi-Fi 5 and Bluetooth 5.0 module, alongside a dedicated HDMI input via an I-PEX FPC connector. We&#8217;ve previously written about the Geniatech SOM-3568-SMARC module based on the Rockchip RK3568, but Jetway&#8217;s SMC-ARK1 appears to be the first SMARC module we&#8217;ve seen based on the Rockchip RK3588. The module follows the SMARC 2.1 short form-factor specification (82 × 50 mm) and can be used with compatible SMARC carrier boards. Jetway SMC-ARK1 specifications: SoC – Rockchip RK3588 octa-core processor with CPU – 4x Cortex‑A76  cores @ up to 2.4 GHz, 4x Cortex‑A55 cores @ 1.8 GHz GPU – Arm Mali-G610 MP4 GPU Video decoder – 8Kp60 H.265, VP9, AVS2, 8Kp30 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/27/jetway-smc-ark1-a-rockchip-rk3588-smarc-2-1-compliant-system-on-module/\">Jetway SMC-ARK1 &#8211; A Rockchip RK3588 SMARC 2.1 compliant system-on-module</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Synopsys, AMD, and Microsoft Expand Agentic AI for EDA",

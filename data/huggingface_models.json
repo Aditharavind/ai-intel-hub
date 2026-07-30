@@ -1,5 +1,14 @@
 [
   {
+    "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
+    "downloads": 413,
+    "likes": 15,
+    "url": "https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1",
+    "date": "2026-07-30",
+    "keyword": "robot",
+    "score": 127.0
+  },
+  {
     "model": "NCDTech/real-robot-driving-mlp-numpy",
     "downloads": 0,
     "likes": 0,
@@ -7,15 +16,6 @@
     "date": "2026-07-30",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
-    "downloads": 413,
-    "likes": 14,
-    "url": "https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1",
-    "date": "2026-07-30",
-    "keyword": "robot",
-    "score": 126.8
   },
   {
     "model": "junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlat_10k",
@@ -34,15 +34,6 @@
     "date": "2026-07-30",
     "keyword": "robot",
     "score": 36.7
-  },
-  {
-    "model": "huanming88/LingBot-VLA-RoboTwin-EEF-ckpt1500",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/huanming88/LingBot-VLA-RoboTwin-EEF-ckpt1500",
-    "date": "2026-07-30",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "zyegao/robot_learning_tutorial_act",
@@ -88,6 +79,24 @@
     "date": "2026-07-30",
     "keyword": "vla",
     "score": 100.6
+  },
+  {
+    "model": "IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-stack-joint-2cam-yanZ",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-stack-joint-2cam-yanZ",
+    "date": "2026-07-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mradermacher/DeepCaption-VLA-V2.0-7B-i1-GGUF",
+    "downloads": 469,
+    "likes": 1,
+    "url": "https://huggingface.co/mradermacher/DeepCaption-VLA-V2.0-7B-i1-GGUF",
+    "date": "2026-07-30",
+    "keyword": "vla",
+    "score": 141.0
   },
   {
     "model": "mertalbaba/humanoid-vla-checkpoints",
@@ -162,6 +171,51 @@
     "score": 0.3
   },
   {
+    "model": "aakankshpanda/tissue_retraction_07_29_policy_state",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/aakankshpanda/tissue_retraction_07_29_policy_state",
+    "date": "2026-07-30",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "downloads": 799,
+    "likes": 2,
+    "url": "https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy",
+    "date": "2026-07-30",
+    "keyword": "policy",
+    "score": 240.2
+  },
+  {
+    "model": "avijitsur1/Cosmos3-Edge-Policy-DROID",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/avijitsur1/Cosmos3-Edge-Policy-DROID",
+    "date": "2026-07-30",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "3cda2225/record-demo0801_2_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/3cda2225/record-demo0801_2_act_policy",
+    "date": "2026-07-30",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "rajavardhan-pai/pick_bottle_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/rajavardhan-pai/pick_bottle_act_policy",
+    "date": "2026-07-30",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "muacha/my_overfit_pi05_policy",
     "downloads": 68,
     "likes": 0,
@@ -225,51 +279,6 @@
     "score": 8.2
   },
   {
-    "model": "jmjin99/act_day1_policy",
-    "downloads": 30,
-    "likes": 0,
-    "url": "https://huggingface.co/jmjin99/act_day1_policy",
-    "date": "2026-07-30",
-    "keyword": "policy",
-    "score": 9.1
-  },
-  {
-    "model": "hmmdyn/diffusion_day2_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hmmdyn/diffusion_day2_policy",
-    "date": "2026-07-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "shlokpatel123/act_charger_policy_v3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/shlokpatel123/act_charger_policy_v3",
-    "date": "2026-07-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jmjin99/diffusion_day2_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jmjin99/diffusion_day2_policy",
-    "date": "2026-07-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "juing781/act_day1_policy",
-    "downloads": 26,
-    "likes": 0,
-    "url": "https://huggingface.co/juing781/act_day1_policy",
-    "date": "2026-07-30",
-    "keyword": "policy",
-    "score": 7.9
-  },
-  {
     "model": "jovaldivieso/multi_robot_double_integrator_casadi_act",
     "downloads": 36,
     "likes": 0,
@@ -288,6 +297,15 @@
     "score": 1.0
   },
   {
+    "model": "Haoran231/fastwam-robotwin-mixed",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Haoran231/fastwam-robotwin-mixed",
+    "date": "2026-07-29",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "siliconperception/VLA",
     "downloads": 129,
     "likes": 0,
@@ -304,15 +322,6 @@
     "date": "2026-07-29",
     "keyword": "vla",
     "score": 8.2
-  },
-  {
-    "model": "vladinc/s23",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladinc/s23",
-    "date": "2026-07-29",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-v2",
