@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-30 16:21 UTC
+Generated: 2026-07-30 18:06 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,10 +14,10 @@ Generated: 2026-07-30 16:21 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82830 | 33132.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82831 | 33132.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63268 | 25307.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44308 | 17723.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30187 | 12074.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30190 | 12076.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16076 | 6430.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
@@ -26,8 +26,8 @@ Generated: 2026-07-30 16:21 UTC
 | tencent/Hy-Embodied-VLM-1.0 | 1028 | 312.9 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
 | jovaldivieso/double_integrator_casadi_diffusion_policy | 799 | 240.2 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
 | SEU-PAISys/Embodied.cpp | 627 | 189.0 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
-| mradermacher/DeepCaption-VLA-V2.0-7B-i1-GGUF | 469 | 141.0 | [link](https://huggingface.co/mradermacher/DeepCaption-VLA-V2.0-7B-i1-GGUF) |
 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 413 | 127.0 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
+| zhijieq/directional-navigation | 417 | 125.2 | [link](https://huggingface.co/zhijieq/directional-navigation) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-30 16:21 UTC
+Last Updated: 2026-07-30 18:06 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-30 | Advancing the price-performance frontier with GPT-5.6 | OpenAI | [link](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6) |
 | 2026-07-30 | GPU Management: Why Idle GPUs Are the New Grounded Aircraft | Hugging Face | [link](https://huggingface.co/blog/Dharma-AI/gpu-management) |
 | 2026-07-29 | How enabling two settings tripled our scores on the ARC-AGI-3 benchmark | OpenAI | [link](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores) |
 | 2026-07-29 | Accelerating scientific discovery with ChatGPT for Academic Researchers | OpenAI | [link](https://openai.com/index/chatgpt-for-academic-researchers) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-28 | LFM2.5-Encoders for Fast Long-Context Inference on CPU | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/lfm2-5-encoders) |
 | 2026-07-27 | How AI is expanding what people do at work | OpenAI | [link](https://openai.com/index/how-ai-is-expanding-what-people-do-at-work) |
 | 2026-07-27 | NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics | Hugging Face | [link](https://huggingface.co/blog/nvidia/cosmos-h-dreams) |
-| 2026-07-27 | Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident | Hugging Face | [link](https://huggingface.co/blog/agent-intrusion-technical-timeline) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-30 | Teradyne Robotics revenue rises 33% year over year in Q2 | The Robot Report | [link](https://www.therobotreport.com/teradyne-robotics-revenue-rises-33-year-over-year-in-q2/) |
 | 2026-07-29 | Experts react to FCC limits on U.S. imports of new humanoid and mobile robots | Robotics Business Review | [link](https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots/) |
 | 2026-07-29 | GMEX Robotics to acquire MediaMeta.ai for social intelligence | Robotics Business Review | [link](https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/) |
 | 2026-07-28 | How integrated actuators improve humanoid robot joint performance and system integration | Robotics Business Review | [link](https://www.therobotreport.com/how-integrated-actuators-improve-humanoid-robot-joint-performance-and-system-integration/) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-28 | Registration is open for RoboBusiness 2026 | Robotics Business Review | [link](https://www.therobotreport.com/registration-is-open-for-robobusiness-2026/) |
 | 2026-07-28 | ENvue Medical develops robotic feeding tube placement system | Robotics Business Review | [link](https://www.therobotreport.com/envue-medical-develops-robotic-feeding-tube-placement-system/) |
 | 2026-07-27 | NORD expands compact NORDAC VFD family to 200 hp | Robotics Business Review | [link](https://www.therobotreport.com/nord-expands-nordac-compact-vfd-family-to-200-hp/) |
-| 2026-07-27 | Kraken Technology raises Series B funding for autonomous vessels | Robotics Business Review | [link](https://www.therobotreport.com/kraken-technology-raises-series-b-funding-autonomous-vessels/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-30 | puppet-robotics/golf-model-200-obs-rgb-4fps | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb-4fps) |
+| 2026-07-30 | GM717/cosmos3-edge-robotwin-aloha-agilex | 0 | 0 | [link](https://huggingface.co/GM717/cosmos3-edge-robotwin-aloha-agilex) |
 | 2026-07-30 | HarrisonPENG/M2W-VLA-RoboTwin | 335 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-07-30 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 413 | 15 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 | 2026-07-30 | jovaldivieso/multi_robot_double_integrator_casadi_diffusion_policy | 0 | 0 | [link](https://huggingface.co/jovaldivieso/multi_robot_double_integrator_casadi_diffusion_policy) |
@@ -85,22 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-30 | junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlat | 122 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlat) |
 | 2026-07-30 | zyegao/robot_learning_tutorial_act | 0 | 0 | [link](https://huggingface.co/zyegao/robot_learning_tutorial_act) |
 | 2026-07-30 | RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm | 0 | 0 | [link](https://huggingface.co/RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm) |
-| 2026-07-30 | kaihumanoid/robot-cluster-mlops-smoke-20260730 | 33 | 0 | [link](https://huggingface.co/kaihumanoid/robot-cluster-mlops-smoke-20260730) |
-| 2026-07-30 | kaihumanoid/robot-cluster-mlops-smoke-20260730-rerun | 33 | 0 | [link](https://huggingface.co/kaihumanoid/robot-cluster-mlops-smoke-20260730-rerun) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2734 | Python | 1093.7 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1428 | Rust | 571.3 | [link](https://github.com/copper-project/copper-rs) |
+| NVIDIA/skills | 2736 | Python | 1094.5 | [link](https://github.com/NVIDIA/skills) |
+| copper-project/copper-rs | 1429 | Rust | 571.7 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 897 | Python | 358.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | commaai/openpilot | 63268 | Python | 25307.3 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16076 | Python | 6430.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15575 | C++ | 6230.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14385 | C++ | 5754.1 | [link](https://github.com/google-deepmind/mujoco) |
+| ArduPilot/ardupilot | 15576 | C++ | 6230.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14387 | C++ | 5754.9 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 11216 | Rust | 4486.5 | [link](https://github.com/rerun-io/rerun) |
 | dora-rs/dora | 3856 | Rust | 1542.5 | [link](https://github.com/dora-rs/dora) |
-| dexmal/dexbotic | 1264 | Python | 505.7 | [link](https://github.com/dexmal/dexbotic) |
+| StanfordVL/BEHAVIOR-1K | 1603 | Python | 641.3 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -133,6 +133,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-30 | Senior Staff Mfg. Design Engineer | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6113722004) |
 | 2026-07-29 | Data Quality Analyst | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
 | 2026-07-29 | Helix AI Engineer, Backend  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4685172006) |
 | 2026-07-29 | Humanoid Robot Operator & Data Creator — Fontana, CA (Customer Site) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4700899006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-29 | Robot Operator II | Agility Robotics | Onsite- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6014586004) |
 | 2026-07-29 | Senior Hardware Test Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6019178004) |
 | 2026-07-29 | Senior Hardware Test Engineer - Torso | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6002917004) |
-| 2026-07-29 | Senior Manager, Logistics | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6105210004) |
 
 ## Automation
 
