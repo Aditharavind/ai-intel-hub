@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-30 04:42 UTC
+Last Updated: 2026-07-30 07:24 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-30 | Use Your Head While Trimming Trees | Hackaday | [link](https://hackaday.com/2026/07/29/use-your-head-while-trimming-trees/) |
 | 2026-07-30 | Keyboard Lights As An Airgap Attack Vector | Hackaday | [link](https://hackaday.com/2026/07/29/keyboard-lights-as-an-airgap-attack-vector/) |
+| 2026-07-30 | Luxonis M8 Controller Box adds industrial I/Os, CAN Bus, and relay control to OAK4 AI vision cameras | CNX Software | [link](https://www.cnx-software.com/2026/07/30/luxonis-m8-controller-box-adds-industrial-i-os-can-bus-and-relay-control-to-oak4-ai-vision-cameras/) |
 | 2026-07-30 | Credit card-sized Edge AI single board computers are powered by TI AM62A (2 TOPS) or AM68A (8 TOPS) SoC | CNX Software | [link](https://www.cnx-software.com/2026/07/30/credit-card-sized-edge-ai-sbc-texas-instruments-am62a-2-tops-am68a-8-tops-soc/) |
+| 2026-07-30 | US FCC bans Chinese robots | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/us-fcc-bans-chinese-robots-2026-07/) |
+| 2026-07-30 | Arm Q1 revenues up 22% YoY | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/arm-q1-revenues-up-22-yoy-2026-07/) |
+| 2026-07-30 | GloFo gets $300m for  SiPho | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/glofo-gets-300m-for-sipho-2026-07/) |
+| 2026-07-30 | Cambridge Tech Week Startup Finalists | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/cambridge-tech-week-startup-finalists-2026-07/) |
+| 2026-07-30 | Samsung Q2 chip profit hits $62bn | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/samsung-q2-chip-profit-hits-62bn-2026-07/) |
 | 2026-07-30 | EU Housing Cost | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/consumer/eu-housing-cost-2026-07/) |
-| 2026-07-29 | Using Video Glasses As a Camera Viewfinder Is Harder Than It Looks | Hackaday | [link](https://hackaday.com/2026/07/29/using-video-glasses-as-a-camera-viewfinder-is-harder-than-it-looks/) |
-| 2026-07-29 | Scrap Pinball Parts Become Beautiful Wall Art | Hackaday | [link](https://hackaday.com/2026/07/29/scrap-pinball-parts-become-beautiful-wall-art/) |
-| 2026-07-29 | FLOSS Weekly Episode 877: RCE As a Service | Hackaday | [link](https://hackaday.com/2026/07/29/floss-weekly-episode-877-rce-as-a-service/) |
-| 2026-07-29 | The ESP32 Gets a Web Browser | Hackaday | [link](https://hackaday.com/2026/07/29/the-esp32-gets-a-web-browser/) |
-| 2026-07-29 | Thingino Teaches Cheap IP Cameras New Tricks | Hackaday | [link](https://hackaday.com/2026/07/29/thingino-teaches-cheap-ip-cameras-new-tricks/) |
-| 2026-07-29 | Behold The Most Beautifully Ambitious Starship Simulator Yet | Hackaday | [link](https://hackaday.com/2026/07/29/behold-the-most-beautifully-ambitious-starship-simulator-yet/) |
-| 2026-07-29 | NXP RW610FML Wi-Fi 6 and BLE 5.4 module features RW610 Cortex-M33 wireless MCU | CNX Software | [link](https://www.cnx-software.com/2026/07/29/nxp-rw610fml-wi-fi-6-and-ble-5-4-module-features-rw610-cortex-m33-wireless-mcu/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,36 +77,37 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-30 | RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm | 0 | 0 | [link](https://huggingface.co/RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm) |
 | 2026-07-30 | kaihumanoid/robot-cluster-mlops-smoke-20260730 | 0 | 0 | [link](https://huggingface.co/kaihumanoid/robot-cluster-mlops-smoke-20260730) |
 | 2026-07-30 | kaihumanoid/robot-cluster-mlops-smoke-20260730-rerun | 0 | 0 | [link](https://huggingface.co/kaihumanoid/robot-cluster-mlops-smoke-20260730-rerun) |
 | 2026-07-30 | HarrisonPENG/M2W-VLA-RoboTwin | 291 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
+| 2026-07-30 | IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-cabinet-joint-2cam-yanZ | 0 | 0 | [link](https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-cabinet-joint-2cam-yanZ) |
+| 2026-07-30 | IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ | 0 | 0 | [link](https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ) |
 | 2026-07-30 | Miiixi/vla_pick_cube_07029 | 0 | 1 | [link](https://huggingface.co/Miiixi/vla_pick_cube_07029) |
 | 2026-07-30 | maximellerbach/folding_vla_jepa | 62 | 0 | [link](https://huggingface.co/maximellerbach/folding_vla_jepa) |
-| 2026-07-30 | minho0910/act_day1_policy | 0 | 0 | [link](https://huggingface.co/minho0910/act_day1_policy) |
-| 2026-07-30 | hmmdyn/act_day1_policy_v2 | 0 | 0 | [link](https://huggingface.co/hmmdyn/act_day1_policy_v2) |
-| 2026-07-30 | seungkeon/act_day1_policy | 0 | 0 | [link](https://huggingface.co/seungkeon/act_day1_policy) |
-| 2026-07-30 | jogarulfop/policy_2026-07-28_shake4it_bench_accelero_10kHz_nfft_512 | 0 | 0 | [link](https://huggingface.co/jogarulfop/policy_2026-07-28_shake4it_bench_accelero_10kHz_nfft_512) |
-| 2026-07-30 | kwansoo/diffusion_day2_policy | 0 | 0 | [link](https://huggingface.co/kwansoo/diffusion_day2_policy) |
+| 2026-07-30 | ishantborsek2702/brain-tumor-mri-detection-model-trained-on-4500-real-world-mri-scans | 0 | 1 | [link](https://huggingface.co/ishantborsek2702/brain-tumor-mri-detection-model-trained-on-4500-real-world-mri-scans) |
+| 2026-07-30 | open-gigaai/Giga-World-Policy-0.5 | 2405 | 5 | [link](https://huggingface.co/open-gigaai/Giga-World-Policy-0.5) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2729 | Python | 1091.7 | [link](https://github.com/NVIDIA/skills) |
-| commaai/openpilot | 63265 | Python | 25306.1 | [link](https://github.com/commaai/openpilot) |
+| NVIDIA/skills | 2730 | Python | 1092.1 | [link](https://github.com/NVIDIA/skills) |
+| commaai/openpilot | 63267 | Python | 25306.9 | [link](https://github.com/commaai/openpilot) |
+| zauberzeug/nicegui | 16075 | Python | 6430.1 | [link](https://github.com/zauberzeug/nicegui) |
 | sou350121/VLA-Handbook | 453 | HTML | 181.3 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5737 | Python | 2294.9 | [link](https://github.com/vllm-project/vllm-omni) |
-| NVlabs/ProtoMotions | 2186 | Python | 874.5 | [link](https://github.com/NVlabs/ProtoMotions) |
+| vllm-project/vllm-omni | 5740 | Python | 2296.1 | [link](https://github.com/vllm-project/vllm-omni) |
+| NVlabs/ProtoMotions | 2190 | Python | 876.1 | [link](https://github.com/NVlabs/ProtoMotions) |
 | OpenHUTB/hutb | 547 | C++ | 218.9 | [link](https://github.com/OpenHUTB/hutb) |
 | isaac-sim/IsaacLab | 7802 | Python | 3120.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 | DexForce/EmbodiChain | 201 | Python | 80.5 | [link](https://github.com/DexForce/EmbodiChain) |
 | copper-project/copper-rs | 1428 | Rust | 571.3 | [link](https://github.com/copper-project/copper-rs) |
-| Edgenesis/shifu | 1426 | Go | 570.5 | [link](https://github.com/Edgenesis/shifu) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-07-28 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjBTRmdXX0NXUlFrQ3lOa2ZuMHVKWXY4S3JKZVhIVXhBQUZUSE90eVVNX3ctQ3M4RDVQVXU0b3Q5NW5xZkhRMUNXdk44alp4VXFRcXZyQ2llZDlZdmNxcFdnWXpiOU5BLXotbXVxSGRkTjVudTJIX09udjg2cHB5cnpQZVBleUNoUWQ0eGp0WmlmQUxBb1ZYODdCY0NxT0htczdSOWxud196dzZxSU9F?oc=5) |
 | 2026-07-27 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMVdOTjZURFZMVlNVY2NPMEhuaW4wUW1Ka0VJMUllT0p4Wm5EbnV3QzV4cXlLLWhEWnU2RnBfVlc5SW1iVGlYTEVCR29UY1dscllYY3BxM2dWSHVBY280ZUl2U0xUTGdCMF9nNkZmcUxTMHg1WjhXUnEza1ZqRnRhTldFTzVzWUlWVEl6MjN1YmEwQTNSdGVPUzNHdHVGc2NIMENRc01zYjlnRGdZNExCV0N2X2U2UHpqRWw0?oc=5) |
+| 2026-07-25 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE83cDZaRUhtSl9ocmxQLWNmVXI2Y3lxTVF0allHUGJRNWhpbEZ2N3VUMDRLcEF5VGdhcVdraVJQZi0ycG5WcFM4TnpjR0JqcDZYdS1JMHQtMA?oc=5) |
 | 2026-07-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaXNud1RkdkJLTDF5VVl4SW5QNEdzS3p1ak4zbFN5eUpqMXpLWjZ4Wno3bk5UV3habVdfcmxjZktuTmZWdDJLY3htZmlqSFg4d0FoUTB0cGZlUTlNeXJBbE1lbnVlYjVlWkROWlBzQ1oza0tDX0NKWFpwLWROR3lpbEVCTTJ0cC1vcXRj?oc=5) |
 | 2026-07-24 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
 | 2026-07-21 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPazNGXzVyYllBTTcxTEtONzU2anNoQTlCTDlHLVBGS2l0d3oxa0Ixdjk5N3pFVHBUNHhydlhVUzFqc2prU2gzVUFGdUxLbTd6cUpxaDZUTkxaQWVLaXNIRGhRbVJwd0dCMzJZYjZldi11SXZlN1dRbE9lOVlnRzhDYjF2UEZFeFBpSE9ZdjBJZk1YTkJORHhnUkJ3WncxdXFyclNGck9hdEZMRGdYM0I2Ni1MTFBpcW0yWGdKc1E2SXYwR2JyOGVzZ2lVZFQ?oc=5) |
@@ -114,15 +115,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVDJGbnZjTHR6NWNyNG9MU3NaX21Tc2V6TE1qMzdCVl93bENOYXE2T21yMGhsd0taUHlrSEtqRTZPQzFSdEROTXdraTJzeHVaMzBaUGdNUFk1ZmQ3UnpuQ3dUYzF0T3JGQVFVTDF6S1ZlR0h1MHNzY1RRZlhtWUdmUC16YldxSFVpNVRXTVhPWldiRUc5VVJ4Uko3WWNTaFB3ZHkyVjBDNkk2eXh1WW1IX0t3VF9uN2o0dFVzUUExbW1ucU96Q0lueGpkWW0?oc=5) |
 | 2026-07-16 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE96eWxsYmNCREJOYTIxT0Z1VHdTbDhLMWpmZHBnemU2Zlp4Vm9aMWJzbi1EUmhvMGF2aXd3cnV5OW5ObElqeEl4S3p2UlVhdUY4SkFaeFg3b1haTEpZbm1uUnFxcnhYd3VLSG1QaWN6S1VFTFl5anc?oc=5) |
 | 2026-07-14 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxORTJDSW4xaTFJYlVoV01UTHE2c3pLQ3JjTDhrYmtCdkRRdTd6b3RLeE5lcTItNGJibnVOeTBYeDk3eGgxd1U1Vl9XY3pKS3l4dUJfazcyODZPczdockh3X3hIaDhVQ0ZpQkZIaU10Q3E3YmIwYTlUZ0lWd1IxNW96YjNSYXNreDRnaFpyQ1FLdlVYdl92SlFiQmVvZEptcjVaUFYxdmZPbW12dHNTMTVtSXdoOTUtVmFhY19DOVV5RC1pRHNlb3poR1Rya190QWRvNE1fZnE0aHRDOG1fbWIzemdKOXFHcHRtRW14Yg?oc=5) |
-| 2026-07-13 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiZkFVX3lxTE45VkxDS0w0TldxQ2xMeU9zTjBHY1l1SkY2UjF6d2l3RTBSS1NWMmNfMnVfcl8ycUpkVlNnU0FabTVtbE52UTZrSS1HcXVPV0pWSFp2SkhtNWxUQmQ0WjdhQTVXQkR4Zw?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-07-30 | Indian Physical AI attracts $155 Mn in 2026 as robotics, real-world data gain traction - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNRS1WMDR4RmQyWFhvOUFsR1Axc3JQVVF3ekloZTJMQlNPUWhvbTJncVBfcEE1U3llX2U1cDBvZENqbkl2Q3JlaFZsLUdLMjVVamVicFFFc1B6clVqRFBNbHlubWZXTUlyZURRbHRBdnBROXNFOU4wb005ZURNdUV5MVZIZ0YyREhPVVdxMGFhZWdqeXY3T21VTnJQWGlVdzlrbEUxVFpRNEhUM2lTSy00NF8zZ0MyTmtocTRVQUFR0gG-AUFVX3lxTE1FLVYwNHhGZDJYWG85QWxHUDFzclBVUXd6SWhlMkxCU09RaG9tMmdxUF9wQTVTeWVfZTVwMG9kQ2puSXZDcmVoVmwtR0syNVVqZWJwUUVzUHpyVWpEUE1seW5tZldNSXJlRFFsdEF2cFE5c0U5TjBvTTllRE11RXkxVkhnRjJESE9VV3EwYWFlZ2p5djdPbVVOclBYaVV3OWtsRTFUWlE0SFQzaVNLLTQ0XzNnQzJOa2hxNFVBQVE?oc=5) |
 | 2026-07-29 | Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVBscjBlM3NnV2pQVVgtaExVSHJkTlRIQ0JPakljOTBSai00bnp5M2NvQ1VGaUttR2ROWDlXenE1RVNLVHVFZ2xCU29ha0dCQlAwWkV1YW5kX05GdDdCdE4wR2tfQW5lWnp2ZEtOUVR3d2lVX0JhMXdHeWJVeGhyQjlxTXpRRU5MRjBLZUl1Q1Y5Z0NSbWozU1VVNmplUmNN?oc=5) |
 | 2026-07-29 | [Planning] Korea Ranks No. 1 in Robot Density—149 ‘Physical AI’ Startups Are Taking Off - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iXzRrbUlHaUhoZ0JKcFF2a0dGVDZhMzB1ZUtfS0NaSTJtemlGWWJKclhibU1EbHlTRC1Bd3lQMmZ3cHpGdVFGaEE1d3cxZDk1NFlIWg?oc=5) |
 | 2026-07-29 | China claims six of the world's ten most innovative humanoid robot startups as the US moves to ban its machines - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUkpHbldGbEhGUC00SzhaUm5Rbi1ZMExBbzZPZkpjclRuMjVXTVFoNTJWT0FDZWhUTXFfVFRpY0hCZkhxZ3BRYmxBd0ExRDhMZzZYLUhOZHc2aGlvdHE3cTZxSVhReC1ISzN0eHBSai1sanB5VDl0NEJyNjlZY2J0TUNSXy1wTFg4Tm5TdW5kemFJV2pIVzU0WHJtYUkxemxLcFVIVDFYc2NLOWlMcnAzbmhrakFnR1MtdHFmMllOR054UGF5dGRqaDF1b0R0OHYyTzF3dQ?oc=5) |
-| 2026-07-29 | French startup unveils non-humanoid robot as AI race moves to physical machines - AOL.co.uk | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkRPVXBXc1hsRWdqWnBzQzl0TlQ1V1o2NjAyMEJEenBmYmJDY0RZUG9CNjdVMGwwRUprOVBaaVNmVlk1MVRKcjMyNjU0b2xwaWVNUlhrZC00QzQtOHBTUG82aVg3UnExdkVRZDM5N3lLRGg3ZjRUSlNYNURTeDVpcWJJcUNERGRw?oc=5) |
 | 2026-07-28 | Physical AI gets practical in SEA - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE43LTFHOUtMS1ZsUDR6cHdOSzBiVTlJTmVHeTFUTE8tbUd3Wl81RWJlM0ZtdUxzZEhXbUw0WXVkU0xleDhnYS1hRE16MzdYY3FFNVZVeGdvaGh5bXQ0WnpiM211UDI1c09Zd1R1UA?oc=5) |
 | 2026-07-28 | US startup unveils humanoid robot to help hospital labs with routine testing work - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlJrZm9pWkpwZklrZlFJSExCNWdTcG52aHoydFNzbl9zUGVHam05ZHdMTjFCMGQwaTJYN2xKVGRkVXRnNVhBUFFiT2YydDRIdjBELUxuSEVGaVE0TUxlc09ReTM5OHFHSW4zR3FZb0ZqR2tDV3k1cGV3Tmx5a1pDSno0V3V3M0Q2Z2FaRElROA?oc=5) |
 | 2026-07-28 | A startup founded by a UCLA PhD team that focuses on developing the foundation model for humanoid robots has secured nearly 500 million yuan in Angel++ round financing | Hard Krypton Exclusive First Release - 36Kr | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTkhJa0FNVTQtRjVoVzgxX3NzSy1GalBzTWV5R1FxUDBSRUgxSDRPQ3lDSmNrVDRCQnZLdVRYMkZQaDJRNFNadWpfaXZyZTlXMkhz?oc=5) |

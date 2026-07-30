@@ -1,10 +1,24 @@
 [
   {
+    "title": "Use Your Head While Trimming Trees",
+    "source": "Hackaday",
+    "date": "2026-07-30",
+    "url": "https://hackaday.com/2026/07/29/use-your-head-while-trimming-trees/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/string-trimmer-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Attoparsec] occasionally rides a bicycle for transportation, but with the major downside of doing this in North America, a place where bicycle infrastructure is generally neglected. From snow removal, maintenance, <a class=\"read-more\" href=\"https://hackaday.com/2026/07/29/use-your-head-while-trimming-trees/\">&#8230;read more</a>"
+  },
+  {
     "title": "Keyboard Lights As An Airgap Attack Vector",
     "source": "Hackaday",
     "date": "2026-07-30",
     "url": "https://hackaday.com/2026/07/29/keyboard-lights-as-an-airgap-attack-vector/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/facing_photoresistors-e1785300673576.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>What do you do when you need to get data into an airgapped machine? Well, you might find yourself limited to basic input devices to interact with the computer in <a class=\"read-more\" href=\"https://hackaday.com/2026/07/29/keyboard-lights-as-an-airgap-attack-vector/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Luxonis M8 Controller Box adds industrial I/Os, CAN Bus, and relay control to OAK4 AI vision cameras",
+    "source": "CNX Software",
+    "date": "2026-07-30",
+    "url": "https://www.cnx-software.com/2026/07/30/luxonis-m8-controller-box-adds-industrial-i-os-can-bus-and-relay-control-to-oak4-ai-vision-cameras/",
+    "summary": "<div><img alt=\"OAK4 AI camera M8 Controller Box\" class=\"attachment-medium size-medium wp-post-image\" height=\"589\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/OAK4-AI-camera-M8-Controller-Box-720x589.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Luxonis has introduced a prototype of the M8 Controller Box, an industrial I/O expansion module for OAK4 AI vision edge AI cameras. Connected through the camera&#8217;s M8 interface, it adds GPIO, relay, CAN, serial, and USB connectivity, allowing OAK4-based systems to interface directly with sensors, actuators, PLCs, motors, and other industrial equipment for machine vision and automation applications. The prototype module features 16 GPIOs, four 16A relays, CAN 2.0, RS232, two USB 2.0 Type-A ports, an isolated strobe output, onboard audio, three buttons, and three status LEDs. It is powered directly from the OAK4 M8 connector, and supports DIN rail and VESA mounting. Luxonis M8 Controller Box specifications: MCU – Raspberry Pi RP2040 dual-core Arm Cortex M0+ @ 133 MHz with 264KB SRAM Host interface M8 connector for connecting Luxonis OAK4 cameras (standalone mode only) M8 passthrough port Audio 3.5mm headphone/AUX jack with mic input Onboard buzzer/speaker and Speaker auto-disconnects when 3.5mm [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/30/luxonis-m8-controller-box-adds-industrial-i-os-can-bus-and-relay-control-to-oak4-ai-vision-cameras/\">Luxonis M8 Controller Box adds industrial I/Os, CAN Bus, and relay control to OAK4 AI vision cameras</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Credit card-sized Edge AI single board computers are powered by TI AM62A (2 TOPS) or AM68A (8 TOPS) SoC",
@@ -14,11 +28,74 @@
     "summary": "<div><img alt=\"InHand Mo 62A SBC\" class=\"attachment-medium size-medium wp-post-image\" height=\"500\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/InHand-Mo-62A-SBC-720x500.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>InHand Mo 62A and Mo 68A are two credit card-sized Edge AI single board computers (SBCs) powered by Texas Instruments AM62A and AM68A processors, delivering respectively 2 TOPS and 8 TOPS of AI performance. Designed for AI Vision applications, the Mo 62A and Mo 68A SBCs support MIPI CSI camera input, Raspberry Pi HAT expansion boards, integrate 7th-generation ISP image processing capabilities, and handle H.264 / H.265 video encoding and decoding. However, they offer a different range of ports, as you&#8217;ll see in the specifications below. Target applications include industrial equipment, access control systems, robots, smart cameras, and visual inspection terminals. InHand Mo 62A Mo 62A specifications: SoC – Texas Instruments AM62A74 SoC Application processor – Up to four Arm Cortex- A53 cores @ 1.4GHz Real-time cores 1x Cortex-R5F @ 800MHz (MPU Channel with FFI) 1x Cortex-R5F @ 800MHz to support Device Management 3D GPU &#8211; None VPU &#8211; 4Kp30 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/30/credit-card-sized-edge-ai-sbc-texas-instruments-am62a-2-tops-am68a-8-tops-soc/\">Credit card-sized Edge AI single board computers are powered by TI AM62A (2 TOPS) or AM68A (8 TOPS) SoC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "US FCC bans Chinese robots",
+    "source": "Electronics Weekly",
+    "date": "2026-07-30",
+    "url": "https://www.electronicsweekly.com/news/business/us-fcc-bans-chinese-robots-2026-07/",
+    "summary": "<p>The US FCC has banned the import of hunanoid robots from China. “Advanced robotic devices collect data that could be leveraged by malign actors to surveil Americans, enhance the capabilities [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/us-fcc-bans-chinese-robots-2026-07/\">US FCC bans Chinese robots</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Arm Q1 revenues up 22% YoY",
+    "source": "Electronics Weekly",
+    "date": "2026-07-30",
+    "url": "https://www.electronicsweekly.com/news/business/arm-q1-revenues-up-22-yoy-2026-07/",
+    "summary": "<p>Arm’s fiscal Q1 (calendar Q2) revenue was $1.29 billion, up 22% YoY for a profit of $531 million at a margin of 41.2%. It forecast Q2 revenue of  $1.38 billion. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/arm-q1-revenues-up-22-yoy-2026-07/\">Arm Q1 revenues up 22% YoY</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "GloFo gets $300m for  SiPho",
+    "source": "Electronics Weekly",
+    "date": "2026-07-30",
+    "url": "https://www.electronicsweekly.com/news/business/glofo-gets-300m-for-sipho-2026-07/",
+    "summary": "<p>The U.S. DoC  intends to advance $300 million to Globalfoundries to accelerate R&#38;D  of next-generation silicon photonics. The work will cover optical materials, wafer technologies and advanced packaging to accelerate [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/glofo-gets-300m-for-sipho-2026-07/\">GloFo gets $300m for  SiPho</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Cambridge Tech Week Startup Finalists",
+    "source": "Electronics Weekly",
+    "date": "2026-07-30",
+    "url": "https://www.electronicsweekly.com/news/business/cambridge-tech-week-startup-finalists-2026-07/",
+    "summary": "<p>The five startups competing in the live Cambridge Tech Week Pitching Competition this September are: HotHouse Therapeutics – Spun out of Professor Anne Osbourn’s laboratory at the John Innes Centre, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/cambridge-tech-week-startup-finalists-2026-07/\">Cambridge Tech Week Startup Finalists</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Samsung Q2 chip profit hits $62bn",
+    "source": "Electronics Weekly",
+    "date": "2026-07-30",
+    "url": "https://www.electronicsweekly.com/news/business/samsung-q2-chip-profit-hits-62bn-2026-07/",
+    "summary": "<p>Samsung reported a a $62 billion Q2 profit for its chip division up 250-fold YoY  The company had Q2 revenue of $119 billion. “The supply shortage in 2027 is expected [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/samsung-q2-chip-profit-hits-62bn-2026-07/\">Samsung Q2 chip profit hits $62bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "EU Housing Cost",
     "source": "Electronics Weekly",
     "date": "2026-07-30",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/eu-housing-cost-2026-07/",
     "summary": "<p>European housing has become one of the defining cost pressures of the decade. As grocery and energy bills climb, the rent or mortgage payment now claims an outsized slice of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/eu-housing-cost-2026-07/\">EU Housing Cost</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Gridfinity Resistor Organizer – 2×2 with 10 Slots + Labels #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-07-30",
+    "url": "https://blog.adafruit.com/2026/07/30/gridfinity-resistor-organizer-2x2-with-10-slots-labels-3dthursday-3dprinting/",
+    "summary": "nsanor shares: A simple 2×2 Gridfinity bit for storing and organizing 10 different values of resistors. Optional separate label tab. Open front for easy retrieval, with clearance to store resistors on their original adhesive strip rolls without removal. By Noah&#8217;s Thing Factory download the files on: https://makerworld.com/en/models/1153169-gridfinity-resistor-organizer Every Thursday is #3dthursday here at Adafruit! The [&#8230;]"
+  },
+  {
+    "title": "KUMO Modular Lamp Collection – 58 Lampshades + Configurator #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-07-30",
+    "url": "https://blog.adafruit.com/2026/07/30/kumo-modular-lamp-collection-58-lampshades-configurator-3dthursday-3dprinting/",
+    "summary": "flowalistik shares: The complete KUMO modular lamp collection with 58 lampshades ranging from 100mm to 300mm tall. Create your perfect KUMO lamp on the desktop using the KUMO Configurator. Massive design library from a well-known 3D-printing designer. By flowalistik download the files on: https://makerworld.com/en/models/1927838-kumo-modular-lamp-collection Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing [&#8230;]"
+  },
+  {
+    "title": "From the mail bag…",
+    "source": "Adafruit",
+    "date": "2026-07-30",
+    "url": "https://blog.adafruit.com/2026/07/30/from-the-mail-bag-799/",
+    "summary": "From the mail bag! Thanks so much for your support and assistance! &#8230; I truly appreciate the time and effort you put into helping me and also looking out for my data You are a role model for all businesses to emulate! Thank you. v/r, David"
+  },
+  {
+    "title": "Gridfinity Small Parts Organizer – Stackable IKEA Alex Drawer Fit #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-07-30",
+    "url": "https://blog.adafruit.com/2026/07/30/gridfinity-small-parts-organizer-stackable-ikea-alex-drawer-fit-3dthursday-3dprinting/",
+    "summary": "PrecisionCrafts shares: A simple, popular Gridfinity organizer for small electronics parts. 15mm wide, 64–80mm long bins with taller and shorter variants. Five small parts boxes fit stacked on top of each other in the taller drawers of the IKEA Alex — a well-loved combination in the maker workspace. Prints without supports. By PrecisionCrafts download the [&#8230;]"
   },
   {
     "title": "Using Video Glasses As a Camera Viewfinder Is Harder Than It Looks",
@@ -54,13 +131,6 @@
     "date": "2026-07-29",
     "url": "https://hackaday.com/2026/07/29/thingino-teaches-cheap-ip-cameras-new-tricks/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"405\" src=\"https://hackaday.com/wp-content/uploads/2026/07/thingino_feat.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>I recently found myself in the market for a few IP cameras to keep an eye on my Prusa 3D printers, and quickly found that the options on the market <a class=\"read-more\" href=\"https://hackaday.com/2026/07/29/thingino-teaches-cheap-ip-cameras-new-tricks/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Behold The Most Beautifully Ambitious Starship Simulator Yet",
-    "source": "Hackaday",
-    "date": "2026-07-29",
-    "url": "https://hackaday.com/2026/07/29/behold-the-most-beautifully-ambitious-starship-simulator-yet/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/halcyon-dawn-1.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Kevin Kelm] created something wondrous: Halcyon Dawn, an utterly unique and desperately challenging game that is equal parts intricate starship simulator, imposing hardware console, video game, and love letter to <a class=\"read-more\" href=\"https://hackaday.com/2026/07/29/behold-the-most-beautifully-ambitious-starship-simulator-yet/\">&#8230;read more</a>"
   },
   {
     "title": "NXP RW610FML Wi-Fi 6 and BLE 5.4 module features RW610 Cortex-M33 wireless MCU",
@@ -133,41 +203,6 @@
     "summary": "<p>DAC 2026: Among the start-ups at this year&#8217;s conference, Vinci was one of the most progressive, with a  physics-bsed AI software platform for predictive hardware design. The company introduced its [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/physics-modelling-cracks-the-code-for-thermal-mechanics-2026-07/\">Physics modelling cracks the code for thermal mechanics</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Baidu/Lyft joins London robotaxi triallists",
-    "source": "Electronics Weekly",
-    "date": "2026-07-29",
-    "url": "https://www.electronicsweekly.com/news/business/baidu-lyft-joins-london-robotaxi-triallists-2026-07/",
-    "summary": "<p>Baidu and Lyft have joined Waymo and the Uber/Wayve partnership in a bid to put  driverless cars on the streets of London. The Baidu/Lyft pairing have started testing robotaxis in [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/baidu-lyft-joins-london-robotaxi-triallists-2026-07/\">Baidu/Lyft joins London robotaxi triallists</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "TSMC Fab 20 running 20k 2nm wpm",
-    "source": "Electronics Weekly",
-    "date": "2026-07-29",
-    "url": "https://www.electronicsweekly.com/news/business/tsmc-fab-20-running-20k-2nm-wpm-2026-07/",
-    "summary": "<p>TSMC’s Fab20 in Taiwan has reached 20k wpm on the company’s 2nm process, announces the Economic Daily News. TSMC has five 2nm fabs in Taiwan and the node  is currently [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-fab-20-running-20k-2nm-wpm-2026-07/\">TSMC Fab 20 running 20k 2nm wpm</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "ZuriQ raises $25.5m for trapped-ion quantum computer development",
-    "source": "Electronics Weekly",
-    "date": "2026-07-29",
-    "url": "https://www.electronicsweekly.com/news/business/zuriq-raises-e-for-quantum-computer-2026-07/",
-    "summary": "<p>ZuriQ, a Swiss quantum computing company spun out of ETH Zürich, has raised $25.5 million in seed funding to scale its trapped-ion quantum processors. The round builds on the company’s [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/zuriq-raises-e-for-quantum-computer-2026-07/\">ZuriQ raises $25.5m for trapped-ion quantum computer development</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Mouser signs Red Lion",
-    "source": "Electronics Weekly",
-    "date": "2026-07-29",
-    "url": "https://www.electronicsweekly.com/news/business/mouser-signs-red-lion-2026-07/",
-    "summary": "<p>Mouser has signed a global distribution agreement with Red Lion by HMS Networks, a  manufacturer of secure, scalable data access and control solutions for the industrial Internet of Things (IIoT) [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/mouser-signs-red-lion-2026-07/\">Mouser signs Red Lion</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Astute signs UTA Wireless",
-    "source": "Electronics Weekly",
-    "date": "2026-07-29",
-    "url": "https://www.electronicsweekly.com/news/business/astute-signs-uta-wireless-2026-07/",
-    "summary": "<p>Astute Group has signed a global franchise agreement with UTA Wireless. The agreement gives OEMs access to UTA Wireless LTE, 5G and GNSS modules, backed by secured supplies of the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/astute-signs-uta-wireless-2026-07/\">Astute signs UTA Wireless</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "LIVE NOW! SHOW and TELL 7/29/2026 with @ecken #ShowandTell @adafruit",
     "source": "Adafruit",
     "date": "2026-07-29",
@@ -224,20 +259,6 @@
     "summary": "3D Hangouts – Voicebox FX, Flight Tracker and Jimothy This week @adafruit Pedro wraps up the flight tracker with lunar transit features. Noe has a working prototype of the voicebox FX with CircuitPython code by Liz. This week’s timelapse features the infamous racoon Jimothy. Qualia ESP32-S3: https://www.adafruit.com/product/5800 2.1in TTL Round Display with Touch: https://www.adafruit.com/product/5792 Adafruit [&#8230;]"
   },
   {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-07-29",
-    "url": "https://blog.adafruit.com/2026/07/29/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-29/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
-  },
-  {
-    "title": "Exploring Color Theory and Physics at Home",
-    "source": "Adafruit",
-    "date": "2026-07-29",
-    "url": "https://blog.adafruit.com/2026/07/29/exploring-color-theory-and-physics-at-home/",
-    "summary": "image via OrionNebula, Instructables &#160; Color theory and physics combine in OrionNebula&#8217;s two easy to conduct at home projects published on Instructables: Welcome to a world where science meets art in a burst of vibrant color! Kids are naturally curious, and one of the best ways to teach them about color theory and physics is [&#8230;]"
-  },
-  {
     "title": "Ubuntu Touch 24.04-2.0 updates Morph browser, adds notch and printing support, and more",
     "source": "CNX Software",
     "date": "2026-07-28",
@@ -278,20 +299,6 @@
     "date": "2026-07-28",
     "url": "https://www.embedded.com/a-new-route-to-fault-tolerant-quantum-computers/",
     "summary": "<p>After early proof-of-concept demonstrations, quantum computing (QC) and quantum sensing (QS) are quickly moving toward practical technologies. While much focus is devoted to increasing the number of qubits to make quantum processors more capable, an equally important effort is directed at improving their quality. Quantum systems are extremely sensitive to the environment they interact with, [...]</p>\n<p>The post <a href=\"https://www.embedded.com/a-new-route-to-fault-tolerant-quantum-computers/\">A New Route to Fault-Tolerant Quantum Computers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "PicoJig: control peripherals (GPIO, ADC, UART, SPI, I2C, PWM) of a Raspberry Pi Pico / Pico W from a Windows PC via USB or WiFi  @raspberry_pi",
-    "source": "Adafruit",
-    "date": "2026-07-28",
-    "url": "https://blog.adafruit.com/2026/07/28/picojig-control-peripherals-gpio-adc-uart-spi-i2c-pwm-of-a-raspberry-pi-pico-pico-w-from-a-windows-pc-via-usb-or-wifi-raspberry_pi/",
-    "summary": "PicoJig / PicoJig-WL allows you to control the peripherals (GPIO, ADC, UART, SPI, I2C, PWM) of a Raspberry Pi Pico or Pico W from a Windows PC via USB or WiFi. It consists of firmware, a PC application, and a library. Main Features Two Connection Modes: USB Mode: Control via Virtual COM port (Supports both Pico [&#8230;]"
-  },
-  {
-    "title": "The SPOKE Board – The Raspberry Pi Official Magazine, Issue 167 @rpimagazine",
-    "source": "Adafruit",
-    "date": "2026-07-28",
-    "url": "https://blog.adafruit.com/2026/07/28/the-spoke-board-the-raspberry-pi-official-magazine-issue-167-rpimagazine/",
-    "summary": "The Raspberry Pi Official Magazine – Issue 167 looks at the SPOKE board, using an RP2040 microcontroller running CircuitPython. &#8230;the SPOKE could easily be mistaken for an album by a 1990s indie band. The main difference is that it has 27 holes around its perimeter, each surrounded by a copper oval: these are capacitive touch [&#8230;]"
   },
   {
     "title": "Andes Technology and Mirabilis Design Announce Collaboration on System-Level Models for Andes RISC-V Processor IP",
@@ -348,13 +355,6 @@
     "date": "2026-07-27",
     "url": "https://www.cnx-software.com/2026/07/27/orange-pi-5b-sbc-gets-ubuntu-desktop-and-audio-production-os-images-with-bluetooth-wi-fi-fix-missed-for-8-years/",
     "summary": "<div><img alt=\"Orange Pi 5B Ubuntu WiFi Bluetooth Fix\" class=\"attachment-medium size-medium wp-post-image\" height=\"509\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Orange-Pi-5B-Ubuntu-WiFi-Bluetooth-Fix-720x509.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Joshua Riek&#8217;s ubuntu-rockchip project helped many run working OS images for their Rockchip SBCs, but due to burnout and lack of support, he decided to step away in late 2024, and the project is now archived. However, that doesn&#8217;t mean his efforts have gone to waste. GitHub user defcom5-rockchip forked the project and released two Ubuntu 24.04-based distributions working on the Orange Pi 5B, notably integrating two fixes for the Ampak AP6275P WiFi and Bluetooth module, including one that Cypress apparently already fixed in 2018, but took a while to be integrated into Rockchip OS images. Short description of the two OS images Pi Desktop v1.0-beta &#8211; A curated daily-driver desktop: 4K@120 via custom VOP2/dclk kernel work, hardware video decode, zero snaps/telemetry, and &#8220;self-healing Bluetooth&#8221;: a background service that revives the AP6275P radio wedge in ~10 seconds automatically. Pi Studio v1.3 — the audio-production sibling: low-latency kernel (PREEMPT/1000Hz), Sonic Pi [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/27/orange-pi-5b-sbc-gets-ubuntu-desktop-and-audio-production-os-images-with-bluetooth-wi-fi-fix-missed-for-8-years/\">Orange Pi 5B SBC gets Ubuntu Desktop and Audio Production OS images with Bluetooth/Wi-Fi fix missed for 8 years</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Redragon K688 Pro – An affordable tri-mode gasket mechanical keyboard with full numpad and media knob (Sponsored)",
-    "source": "CNX Software",
-    "date": "2026-07-27",
-    "url": "https://www.cnx-software.com/2026/07/27/redragon-k688-an-affordable-tri-mode-gasket-mechanical-keyboard-with-full-numpad-and-media-knob/",
-    "summary": "<div><img alt=\"Redragon K688 mechanical keyboard\" class=\"attachment-medium size-medium wp-post-image\" height=\"420\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Redragon-K688-mechanical-keyboard-720x420.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Redragon K688 Pro is a 96% layout tri-mode mechanical keyboard that aims to deliver enthusiast-level typing comfort and full productivity features in a compact, affordable package suitable for both work and gaming. The keyboard features a 98-key ANSI layout that retains a full numpad, function row, and arrow keys while claiming roughly 10% less desk footprint than a traditional full-size keyboard. It uses a gasket-mounted structure with five layers of silencer foam and PCB single-key slotting. Redragon states this design cuts hollow/cavity sound by about 90% and improves noise reduction by 20%, producing the soft, bouncy “creamy” acoustics and elastic feel highlighted in product materials. A dedicated multi-function rotary knob provides tactile control: turn for volume, press for mute, and combine with FN for backlight brightness or mode switching. This offers faster access than FN-layer shortcuts found on many competitors. Key specifications include: Layout / Keys &#8211; 96% (98 keys [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/27/redragon-k688-an-affordable-tri-mode-gasket-mechanical-keyboard-with-full-numpad-and-media-knob/\">Redragon K688 Pro &#8211; An affordable tri-mode gasket mechanical keyboard with full numpad and media knob (Sponsored)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Synopsys, AMD, and Microsoft Expand Agentic AI for EDA",
