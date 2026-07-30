@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-30 21:55 UTC
+Generated: 2026-07-30 22:53 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -26,7 +26,7 @@ Generated: 2026-07-30 21:55 UTC
 | tencent/Hy-Embodied-VLM-1.0 | 1028 | 312.9 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
 | jovaldivieso/double_integrator_casadi_diffusion_policy | 799 | 240.2 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
 | SEU-PAISys/Embodied.cpp | 627 | 189.0 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
-| tsinghua-sigs-robot-lab/veriloop-coder-e1 | 413 | 127.0 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
+| tsinghua-sigs-robot-lab/veriloop-coder-e1 | 413 | 127.2 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 | zhijieq/directional-navigation | 417 | 125.2 | [link](https://huggingface.co/zhijieq/directional-navigation) |
 
 ## Top Funding Rounds
