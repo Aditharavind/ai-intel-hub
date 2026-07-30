@@ -1,23 +1,29 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-30 01:08 UTC
+Generated: 2026-07-30 04:42 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-07-29 | TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM | [link](https://arxiv.org/pdf/2607.27205v1) |
+| 2026-07-29 | Mental World Modeling | [link](https://arxiv.org/pdf/2607.27201v1) |
+| 2026-07-29 | VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion | [link](https://arxiv.org/pdf/2607.27194v1) |
+| 2026-07-29 | HumanCLAW: Can Vision-Language Models Act Through a Body? | [link](https://arxiv.org/pdf/2607.27180v1) |
+| 2026-07-29 | When Do Learned Diffusion Proposals Help Constraint Solving? A Controlled Study on Continuous Algebraic Systems | [link](https://arxiv.org/pdf/2607.27169v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82825 | 33130.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63262 | 25304.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44301 | 17720.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30171 | 12068.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16074 | 6429.7 | [link](https://github.com/zauberzeug/nicegui) |
+| Developer-Y/cs-video-courses | 82827 | 33130.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63265 | 25306.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44302 | 17720.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30177 | 12070.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16075 | 6430.1 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| jovaldivieso/double_integrator_casadi_diffusion_policy | 706 | 212.1 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
+| jovaldivieso/double_integrator_casadi_diffusion_policy | 706 | 212.3 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
 | tencent/Hy-Embodied-VLM-1.0 | 555 | 171.0 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
 | zhijieq/directional-navigation | 416 | 124.9 | [link](https://huggingface.co/zhijieq/directional-navigation) |
 | SEU-PAISys/Embodied.cpp | 359 | 108.6 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
