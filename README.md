@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-30 14:57 UTC
+Last Updated: 2026-07-30 16:21 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-30 | GPU Management: Why Idle GPUs Are the New Grounded Aircraft | Hugging Face | [link](https://huggingface.co/blog/Dharma-AI/gpu-management) |
 | 2026-07-29 | How enabling two settings tripled our scores on the ARC-AGI-3 benchmark | OpenAI | [link](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores) |
 | 2026-07-29 | Accelerating scientific discovery with ChatGPT for Academic Researchers | OpenAI | [link](https://openai.com/index/chatgpt-for-academic-researchers) |
 | 2026-07-29 | How GPT-5.6 fuses frontier intelligence with frontier efficiency | OpenAI | [link](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-27 | How AI is expanding what people do at work | OpenAI | [link](https://openai.com/index/how-ai-is-expanding-what-people-do-at-work) |
 | 2026-07-27 | NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics | Hugging Face | [link](https://huggingface.co/blog/nvidia/cosmos-h-dreams) |
 | 2026-07-27 | Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident | Hugging Face | [link](https://huggingface.co/blog/agent-intrusion-technical-timeline) |
-| 2026-07-23 | Launching Health in ChatGPT | OpenAI | [link](https://openai.com/index/health-in-chatgpt) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-30 | HarrisonPENG/M2W-VLA-RoboTwin | 335 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-07-30 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 413 | 15 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 | 2026-07-30 | jovaldivieso/multi_robot_double_integrator_casadi_diffusion_policy | 0 | 0 | [link](https://huggingface.co/jovaldivieso/multi_robot_double_integrator_casadi_diffusion_policy) |
 | 2026-07-30 | NCDTech/real-robot-driving-mlp-numpy | 0 | 0 | [link](https://huggingface.co/NCDTech/real-robot-driving-mlp-numpy) |
@@ -86,19 +87,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-30 | RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm | 0 | 0 | [link](https://huggingface.co/RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm) |
 | 2026-07-30 | kaihumanoid/robot-cluster-mlops-smoke-20260730 | 33 | 0 | [link](https://huggingface.co/kaihumanoid/robot-cluster-mlops-smoke-20260730) |
 | 2026-07-30 | kaihumanoid/robot-cluster-mlops-smoke-20260730-rerun | 33 | 0 | [link](https://huggingface.co/kaihumanoid/robot-cluster-mlops-smoke-20260730-rerun) |
-| 2026-07-30 | HarrisonPENG/M2W-VLA-RoboTwin | 335 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2733 | Python | 1093.3 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2734 | Python | 1093.7 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1428 | Rust | 571.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 897 | Python | 358.9 | [link](https://github.com/mosaico-labs/mosaico) |
-| commaai/openpilot | 63267 | Python | 25306.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63268 | Python | 25307.3 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16076 | Python | 6430.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15573 | C++ | 6229.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15575 | C++ | 6230.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14385 | C++ | 5754.1 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11214 | Rust | 4485.7 | [link](https://github.com/rerun-io/rerun) |
+| rerun-io/rerun | 11216 | Rust | 4486.5 | [link](https://github.com/rerun-io/rerun) |
 | dora-rs/dora | 3856 | Rust | 1542.5 | [link](https://github.com/dora-rs/dora) |
 | dexmal/dexbotic | 1264 | Python | 505.7 | [link](https://github.com/dexmal/dexbotic) |
 
@@ -120,15 +120,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-07-30 | Indian Physical AI attracts $155 Mn in 2026 as robotics, real-world data gain traction - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNRS1WMDR4RmQyWFhvOUFsR1Axc3JQVVF3ekloZTJMQlNPUWhvbTJncVBfcEE1U3llX2U1cDBvZENqbkl2Q3JlaFZsLUdLMjVVamVicFFFc1B6clVqRFBNbHlubWZXTUlyZURRbHRBdnBROXNFOU4wb005ZURNdUV5MVZIZ0YyREhPVVdxMGFhZWdqeXY3T21VTnJQWGlVdzlrbEUxVFpRNEhUM2lTSy00NF8zZ0MyTmtocTRVQUFR0gG-AUFVX3lxTE1FLVYwNHhGZDJYWG85QWxHUDFzclBVUXd6SWhlMkxCU09RaG9tMmdxUF9wQTVTeWVfZTVwMG9kQ2puSXZDcmVoVmwtR0syNVVqZWJwUUVzUHpyVWpEUE1seW5tZldNSXJlRFFsdEF2cFE5c0U5TjBvTTllRE11RXkxVkhnRjJESE9VV3EwYWFlZ2p5djdPbVVOclBYaVV3OWtsRTFUWlE0SFQzaVNLLTQ0XzNnQzJOa2hxNFVBQVE?oc=5) |
+| 2026-07-30 | Tau Robotics Launches Robot Cleaning Service for Real-World Data - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUFIM0s1Ulp0ODNCUmFxdFloR1lIYzJmTWtqRGRycHVvRlF0UEY2V1d3Vk9KVWhpWVR4ajI5d3poY0ZLSWhwa0R3UDRTaEFwUmZfSERveXNkTTFDWUNTNGdBbnJqdXEzOGd2VEw1MnBjU2hHdlBfeC1wVmVGVUlIdzlaVDhBa25i?oc=5) |
 | 2026-07-29 | Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVBscjBlM3NnV2pQVVgtaExVSHJkTlRIQ0JPakljOTBSai00bnp5M2NvQ1VGaUttR2ROWDlXenE1RVNLVHVFZ2xCU29ha0dCQlAwWkV1YW5kX05GdDdCdE4wR2tfQW5lWnp2ZEtOUVR3d2lVX0JhMXdHeWJVeGhyQjlxTXpRRU5MRjBLZUl1Q1Y5Z0NSbWozU1VVNmplUmNN?oc=5) |
 | 2026-07-29 | [Planning] Korea Ranks No. 1 in Robot Density—149 ‘Physical AI’ Startups Are Taking Off - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iXzRrbUlHaUhoZ0JKcFF2a0dGVDZhMzB1ZUtfS0NaSTJtemlGWWJKclhibU1EbHlTRC1Bd3lQMmZ3cHpGdVFGaEE1d3cxZDk1NFlIWg?oc=5) |
-| 2026-07-29 | China claims six of the world's ten most innovative humanoid robot startups as the US moves to ban its machines - startupfortune.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUkpHbldGbEhGUC00SzhaUm5Rbi1ZMExBbzZPZkpjclRuMjVXTVFoNTJWT0FDZWhUTXFfVFRpY0hCZkhxZ3BRYmxBd0ExRDhMZzZYLUhOZHc2aGlvdHE3cTZxSVhReC1ISzN0eHBSai1sanB5VDl0NEJyNjlZY2J0TUNSXy1wTFg4Tm5TdW5kemFJV2pIVzU0WHJtYUkxemxLcFVIVDFYc2NLOWlMcnAzbmhrakFnR1MtdHFmMllOR054UGF5dGRqaDF1b0R0OHYyTzF3dQ?oc=5) |
+| 2026-07-29 | China claims six of the world's ten most innovative humanoid robot startups as the US moves to ban its machines - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUkpHbldGbEhGUC00SzhaUm5Rbi1ZMExBbzZPZkpjclRuMjVXTVFoNTJWT0FDZWhUTXFfVFRpY0hCZkhxZ3BRYmxBd0ExRDhMZzZYLUhOZHc2aGlvdHE3cTZxSVhReC1ISzN0eHBSai1sanB5VDl0NEJyNjlZY2J0TUNSXy1wTFg4Tm5TdW5kemFJV2pIVzU0WHJtYUkxemxLcFVIVDFYc2NLOWlMcnAzbmhrakFnR1MtdHFmMllOR054UGF5dGRqaDF1b0R0OHYyTzF3dQ?oc=5) |
 | 2026-07-28 | Physical AI gets practical in SEA - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE43LTFHOUtMS1ZsUDR6cHdOSzBiVTlJTmVHeTFUTE8tbUd3Wl81RWJlM0ZtdUxzZEhXbUw0WXVkU0xleDhnYS1hRE16MzdYY3FFNVZVeGdvaGh5bXQ0WnpiM211UDI1c09Zd1R1UA?oc=5) |
 | 2026-07-28 | US startup unveils humanoid robot to help hospital labs with routine testing work - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlJrZm9pWkpwZklrZlFJSExCNWdTcG52aHoydFNzbl9zUGVHam05ZHdMTjFCMGQwaTJYN2xKVGRkVXRnNVhBUFFiT2YydDRIdjBELUxuSEVGaVE0TUxlc09ReTM5OHFHSW4zR3FZb0ZqR2tDV3k1cGV3Tmx5a1pDSno0V3V3M0Q2Z2FaRElROA?oc=5) |
 | 2026-07-28 | A startup founded by a UCLA PhD team that focuses on developing the foundation model for humanoid robots has secured nearly 500 million yuan in Angel++ round financing | Hard Krypton Exclusive First Release - 36 Kr | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTkhJa0FNVTQtRjVoVzgxX3NzSy1GalBzTWV5R1FxUDBSRUgxSDRPQ3lDSmNrVDRCQnZLdVRYMkZQaDJRNFNadWpfaXZyZTlXMkhz?oc=5) |
 | 2026-07-27 | Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE02elZVdk1Iczl5UzdTQldJWkxvTWxIejI0dll0ZFhoR0NPR0swUENTdW03b0hlR21sZHJRVUZ1M2xtSzdGQXkzc19VV1lBZWF3TlFKZHNNTEdBTi11d0lHT0txcmhUQmFw?oc=5) |
 | 2026-07-27 | The AI advantage is moving into the physical economy - fDi Intelligence | physical ai startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPLU5YZFNRcXprYXIyQUVnU2UwcDhFbTJKR1ZpUE1SSWxfRHE4QkF1RnJfSnRyRjZOS3NReE9PV19YcGp5a2haX2w5QU81M2JGNW1faUwyLWJaOTZBREhWRmxabUtibVY2bTdTeTlMcVItOElpaXZpaWhndWkxOTdJSGZn?oc=5) |
-| 2026-07-26 | Genesis AI is in talks to raise $500 million at a $3 billion valuation just a year after emerging from stealth - startupfortune.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOG81aXpQdEo0UnQ4SmtJenVVRjl4enZVeFNwd2pMQzBtdG55ZUthaGNtajA5N2M4RTlCTHhXNmhScjJ6U0txS0lpYUtNbmswU3BXUE5EMGI1ekp6ZjNLSzR1enJyRmxZQVBnWTZKT0pHWmJOcC1OV1FlQWdTbTM0TXhYQ29lMWg3UGQyVV95dE1aR2FlY1N0UEg3cEgzTkdlZFZuM3RJSDZSM2o3RzVXM0xwZGs5aHJ0NmItRUNidDVjaUNtSlpoTFBEaktXdVgteUE?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

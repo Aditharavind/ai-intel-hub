@@ -1,13 +1,13 @@
 [
   {
     "repo": "NVIDIA/skills",
-    "stars": 2733,
+    "stars": 2734,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-07-30",
     "topic": "physical-ai",
-    "score": 1093.3
+    "score": 1093.7
   },
   {
     "repo": "copper-project/copper-rs",
@@ -31,13 +31,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63267,
+    "stars": 63268,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-07-30",
     "topic": "robotics",
-    "score": 25306.9
+    "score": 25307.3
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -51,13 +51,13 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15573,
+    "stars": 15575,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-07-30",
     "topic": "robotics",
-    "score": 6229.3
+    "score": 6230.1
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -71,13 +71,13 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11214,
+    "stars": 11216,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-07-30",
     "topic": "robotics",
-    "score": 4485.7
+    "score": 4486.5
   },
   {
     "repo": "dora-rs/dora",
@@ -98,6 +98,16 @@
     "date": "2026-07-30",
     "topic": "vla",
     "score": 505.7
+  },
+  {
+    "repo": "flashrt-project/FlashRT",
+    "stars": 470,
+    "language": "C++",
+    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
+    "url": "https://github.com/flashrt-project/FlashRT",
+    "date": "2026-07-30",
+    "topic": "vla",
+    "score": 188.1
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -131,13 +141,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5743,
+    "stars": 5744,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-30",
     "topic": "world-model",
-    "score": 2297.3
+    "score": 2297.7
   },
   {
     "repo": "NVlabs/ProtoMotions",
@@ -181,13 +191,13 @@
   },
   {
     "repo": "johnsutor/so101-nexus",
-    "stars": 26,
+    "stars": 27,
     "language": "Python",
     "description": "Full-stack robot learning for the SO-101 arm: teleoperation, imitation learning, and RL in MuJoCo.",
     "url": "https://github.com/johnsutor/so101-nexus",
     "date": "2026-07-30",
     "topic": "lerobot",
-    "score": 10.5
+    "score": 10.9
   },
   {
     "repo": "Edgenesis/shifu",
@@ -211,13 +221,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 12019,
+    "stars": 12030,
     "language": "JavaScript",
     "description": "A collection of agent skills for CAD, robotics and hardware design",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-29",
     "topic": "robotics",
-    "score": 4807.7
+    "score": 4812.1
   },
   {
     "repo": "nasa-jpl/open-source-rover",
@@ -231,23 +241,23 @@
   },
   {
     "repo": "mani-skill/ManiSkill",
-    "stars": 3176,
+    "stars": 3177,
     "language": "Python",
     "description": "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
     "url": "https://github.com/mani-skill/ManiSkill",
     "date": "2026-07-29",
     "topic": "robot-learning",
-    "score": 1270.5
+    "score": 1270.9
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2932,
+    "stars": 2933,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-07-29",
     "topic": "embodied-ai",
-    "score": 1172.9
+    "score": 1173.3
   },
   {
     "repo": "StanfordVL/BEHAVIOR-1K",
@@ -268,16 +278,6 @@
     "date": "2026-07-29",
     "topic": "embodied-ai",
     "score": 381.7
-  },
-  {
-    "repo": "flashrt-project/FlashRT",
-    "stars": 471,
-    "language": "C++",
-    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
-    "url": "https://github.com/flashrt-project/FlashRT",
-    "date": "2026-07-29",
-    "topic": "vla",
-    "score": 188.5
   },
   {
     "repo": "galilai-group/stable-worldmodel",
@@ -391,13 +391,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS",
-    "stars": 1291,
+    "stars": 1294,
     "language": "Python",
     "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS",
     "date": "2026-07-28",
     "topic": "embodied-ai",
-    "score": 516.5
+    "score": 517.7
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -461,13 +461,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30185,
+    "stars": 30187,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-07-27",
     "topic": "robotics",
-    "score": 12074.1
+    "score": 12074.9
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",
@@ -791,13 +791,13 @@
   },
   {
     "repo": "robocasa/robocasa",
-    "stars": 1598,
+    "stars": 1600,
     "language": "Python",
     "description": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
     "url": "https://github.com/robocasa/robocasa",
     "date": "2026-07-08",
     "topic": "robot-learning",
-    "score": 639.3
+    "score": 640.1
   },
   {
     "repo": "Developer-Y/cs-video-courses",
@@ -871,13 +871,13 @@
   },
   {
     "repo": "Tavish9/any4lerobot",
-    "stars": 1117,
+    "stars": 1118,
     "language": "Python",
     "description": "🎁 A collection of utilities for LeRobot.",
     "url": "https://github.com/Tavish9/any4lerobot",
     "date": "2026-07-02",
     "topic": "lerobot",
-    "score": 446.9
+    "score": 447.3
   },
   {
     "repo": "abizovnuralem/go2_omniverse",
