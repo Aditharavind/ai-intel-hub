@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-30 22:53 UTC
+Generated: 2026-07-30 23:49 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,7 +15,7 @@ Generated: 2026-07-30 22:53 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 82832 | 33132.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63267 | 25306.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63269 | 25307.7 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44308 | 17723.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30191 | 12076.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16076 | 6430.5 | [link](https://github.com/zauberzeug/nicegui) |
@@ -44,5 +44,5 @@ Generated: 2026-07-30 22:53 UTC
 | 2026-07-30 | AI startup moves headquarters to Roundhouse at Hazelwood Green - bizjournals.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOektfcmhuakZHbThYQU1oTmFUX002c09sNzNKSmNYank0S3Y2QjZGbWJ1amZ2Z2F5MlMyU0F6bGRQRkcyQzEwQ2lVeTVDeGJrM2dtRzFOXzh1SHdLc1BqbTFRSG4xYWtsTms0a3ZnbGcyOFMxZ3ZoRWN1UlZWRFl5MWQ5SUFNMnVxM19yc296ZndHQnRqdUpzejNmR3lpbkpVNXRnNkxkMlZvaWxX?oc=5) |
 | 2026-07-30 | Indian Physical AI attracts $155 Mn in 2026 as robotics, real-world data gain traction - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNRS1WMDR4RmQyWFhvOUFsR1Axc3JQVVF3ekloZTJMQlNPUWhvbTJncVBfcEE1U3llX2U1cDBvZENqbkl2Q3JlaFZsLUdLMjVVamVicFFFc1B6clVqRFBNbHlubWZXTUlyZURRbHRBdnBROXNFOU4wb005ZURNdUV5MVZIZ0YyREhPVVdxMGFhZWdqeXY3T21VTnJQWGlVdzlrbEUxVFpRNEhUM2lTSy00NF8zZ0MyTmtocTRVQUFR0gG-AUFVX3lxTE1FLVYwNHhGZDJYWG85QWxHUDFzclBVUXd6SWhlMkxCU09RaG9tMmdxUF9wQTVTeWVfZTVwMG9kQ2puSXZDcmVoVmwtR0syNVVqZWJwUUVzUHpyVWpEUE1seW5tZldNSXJlRFFsdEF2cFE5c0U5TjBvTTllRE11RXkxVkhnRjJESE9VV3EwYWFlZ2p5djdPbVVOclBYaVV3OWtsRTFUWlE0SFQzaVNLLTQ0XzNnQzJOa2hxNFVBQVE?oc=5) |
 | 2026-07-30 | Chinese Startups Dominate Humanoid Robotics Patent Rankings - AI Business | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxQOW1PeHllX3loSmxRLW9oWnYwb3Z6b0tFWUVCZVAtbkVuNFRzQXZ0d3p2enRWekFmZ1pwdzFMSUtHSEJic3dQRDN4Q09MRFN5UExsTl8yM0JvOGZ6NTVleUpzcGQxX3ZYUUp4cEFfaWREYnJfZzBJVFpoRXFNOW5RVFIyLW5WdzJjc2c?oc=5) |
-| 2026-07-30 | Tau Robotics Launches Robot Cleaning Service for Real-World Data - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUFIM0s1Ulp0ODNCUmFxdFloR1lIYzJmTWtqRGRycHVvRlF0UEY2V1d3Vk9KVWhpWVR4ajI5d3poY0ZLSWhwa0R3UDRTaEFwUmZfSERveXNkTTFDWUNTNGdBbnJqdXEzOGd2VEw1MnBjU2hHdlBfeC1wVmVGVUlIdzlaVDhBa25i?oc=5) |
+| 2026-07-30 | Tau Robotics Launches Robot Cleaning Service for Real-World Data - chosun.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUFIM0s1Ulp0ODNCUmFxdFloR1lIYzJmTWtqRGRycHVvRlF0UEY2V1d3Vk9KVWhpWVR4ajI5d3poY0ZLSWhwa0R3UDRTaEFwUmZfSERveXNkTTFDWUNTNGdBbnJqdXEzOGd2VEw1MnBjU2hHdlBfeC1wVmVGVUlIdzlaVDhBa25i?oc=5) |
 | 2026-07-29 | Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVBscjBlM3NnV2pQVVgtaExVSHJkTlRIQ0JPakljOTBSai00bnp5M2NvQ1VGaUttR2ROWDlXenE1RVNLVHVFZ2xCU29ha0dCQlAwWkV1YW5kX05GdDdCdE4wR2tfQW5lWnp2ZEtOUVR3d2lVX0JhMXdHeWJVeGhyQjlxTXpRRU5MRjBLZUl1Q1Y5Z0NSbWozU1VVNmplUmNN?oc=5) |

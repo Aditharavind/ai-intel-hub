@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-30 22:53 UTC
+Last Updated: 2026-07-30 23:49 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-30 | Rebuilding an Obsolete IC to Save a Betacam SP Tapedeck | Hackaday | [link](https://hackaday.com/2026/07/30/rebuilding-an-obsolete-ic-to-save-a-betacam-sp-tapedeck/) |
 | 2026-07-30 | Fixing a JMicron-Based M.2 USB Enclosure That Stopped Working | Hackaday | [link](https://hackaday.com/2026/07/30/fixing-a-jmicron-based-m-2-usb-enclosure-that-stopped-working/) |
 | 2026-07-30 | Pizza Eye Surgery Saves Hemispherical Projector | Hackaday | [link](https://hackaday.com/2026/07/30/pizza-eye-surgery-saves-hemispherical-projector/) |
 | 2026-07-30 | Wrangling Datacenter GPUs Into a Desktop | Hackaday | [link](https://hackaday.com/2026/07/30/wrangling-datacenter-gpus-into-a-desktop/) |
 | 2026-07-30 | RC Telemetry Board Lets Virtual Crewmember Help You Race Better | Hackaday | [link](https://hackaday.com/2026/07/30/rc-telemetry-board-lets-virtual-crewmember-help-you-race-better/) |
 | 2026-07-30 | A Capable KVM Built With The ESP32 | Hackaday | [link](https://hackaday.com/2026/07/30/a-capable-kvm-built-with-the-esp32/) |
 | 2026-07-30 | Use Your Head While Trimming Trees | Hackaday | [link](https://hackaday.com/2026/07/29/use-your-head-while-trimming-trees/) |
-| 2026-07-30 | Keyboard Lights As An Airgap Attack Vector | Hackaday | [link](https://hackaday.com/2026/07/29/keyboard-lights-as-an-airgap-attack-vector/) |
 | 2026-07-30 | ESP-KVM – An open-source IP KVM solution based on ESP32-P4 RISC-V MCU | CNX Software | [link](https://www.cnx-software.com/2026/07/30/esp-kvm-an-open-source-ip-kvm-solution-based-on-esp32-p4-risc-v-mcu/) |
 | 2026-07-30 | NightRun UEFI application boots a local LLM on Raspberry Pi 5 and x86 PCs without an OS | CNX Software | [link](https://www.cnx-software.com/2026/07/30/nightrun-uefi-application-boots-a-local-llm-on-raspberry-pi-5-and-x86-pcs-without-an-os/) |
 | 2026-07-30 | Luxonis M8 Controller Box adds industrial I/Os, CAN Bus, and relay control to OAK4 AI vision cameras | CNX Software | [link](https://www.cnx-software.com/2026/07/30/luxonis-m8-controller-box-adds-industrial-i-os-can-bus-and-relay-control-to-oak4-ai-vision-cameras/) |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-30 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-07-30 | jovaldivieso/multi_robot_double_integrator_casadi_act | 36 | 0 | [link](https://huggingface.co/jovaldivieso/multi_robot_double_integrator_casadi_act) |
 | 2026-07-30 | puppet-robotics/golf-model-200-obs-rgb-4fps | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb-4fps) |
 | 2026-07-30 | GM717/cosmos3-edge-robotwin-aloha-agilex | 0 | 0 | [link](https://huggingface.co/GM717/cosmos3-edge-robotwin-aloha-agilex) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-30 | NCDTech/real-robot-driving-mlp-numpy | 0 | 0 | [link](https://huggingface.co/NCDTech/real-robot-driving-mlp-numpy) |
 | 2026-07-30 | junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlat_10k | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlat_10k) |
 | 2026-07-30 | junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlat | 122 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlat) |
-| 2026-07-30 | zyegao/robot_learning_tutorial_act | 0 | 0 | [link](https://huggingface.co/zyegao/robot_learning_tutorial_act) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,11 +94,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | NVIDIA/skills | 2740 | Python | 1096.1 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1429 | Rust | 571.7 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 897 | Python | 358.9 | [link](https://github.com/mosaico-labs/mosaico) |
-| commaai/openpilot | 63267 | Python | 25306.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63269 | Python | 25307.7 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16076 | Python | 6430.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15576 | C++ | 6230.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14388 | C++ | 5755.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 12062 | JavaScript | 4824.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 12065 | JavaScript | 4826.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11216 | Rust | 4486.5 | [link](https://github.com/rerun-io/rerun) |
 | dora-rs/dora | 3856 | Rust | 1542.5 | [link](https://github.com/dora-rs/dora) |
 
@@ -122,7 +122,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-30 | AI startup moves headquarters to Roundhouse at Hazelwood Green - bizjournals.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOektfcmhuakZHbThYQU1oTmFUX002c09sNzNKSmNYank0S3Y2QjZGbWJ1amZ2Z2F5MlMyU0F6bGRQRkcyQzEwQ2lVeTVDeGJrM2dtRzFOXzh1SHdLc1BqbTFRSG4xYWtsTms0a3ZnbGcyOFMxZ3ZoRWN1UlZWRFl5MWQ5SUFNMnVxM19yc296ZndHQnRqdUpzejNmR3lpbkpVNXRnNkxkMlZvaWxX?oc=5) |
 | 2026-07-30 | Indian Physical AI attracts $155 Mn in 2026 as robotics, real-world data gain traction - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNRS1WMDR4RmQyWFhvOUFsR1Axc3JQVVF3ekloZTJMQlNPUWhvbTJncVBfcEE1U3llX2U1cDBvZENqbkl2Q3JlaFZsLUdLMjVVamVicFFFc1B6clVqRFBNbHlubWZXTUlyZURRbHRBdnBROXNFOU4wb005ZURNdUV5MVZIZ0YyREhPVVdxMGFhZWdqeXY3T21VTnJQWGlVdzlrbEUxVFpRNEhUM2lTSy00NF8zZ0MyTmtocTRVQUFR0gG-AUFVX3lxTE1FLVYwNHhGZDJYWG85QWxHUDFzclBVUXd6SWhlMkxCU09RaG9tMmdxUF9wQTVTeWVfZTVwMG9kQ2puSXZDcmVoVmwtR0syNVVqZWJwUUVzUHpyVWpEUE1seW5tZldNSXJlRFFsdEF2cFE5c0U5TjBvTTllRE11RXkxVkhnRjJESE9VV3EwYWFlZ2p5djdPbVVOclBYaVV3OWtsRTFUWlE0SFQzaVNLLTQ0XzNnQzJOa2hxNFVBQVE?oc=5) |
 | 2026-07-30 | Chinese Startups Dominate Humanoid Robotics Patent Rankings - AI Business | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxQOW1PeHllX3loSmxRLW9oWnYwb3Z6b0tFWUVCZVAtbkVuNFRzQXZ0d3p2enRWekFmZ1pwdzFMSUtHSEJic3dQRDN4Q09MRFN5UExsTl8yM0JvOGZ6NTVleUpzcGQxX3ZYUUp4cEFfaWREYnJfZzBJVFpoRXFNOW5RVFIyLW5WdzJjc2c?oc=5) |
-| 2026-07-30 | Tau Robotics Launches Robot Cleaning Service for Real-World Data - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUFIM0s1Ulp0ODNCUmFxdFloR1lIYzJmTWtqRGRycHVvRlF0UEY2V1d3Vk9KVWhpWVR4ajI5d3poY0ZLSWhwa0R3UDRTaEFwUmZfSERveXNkTTFDWUNTNGdBbnJqdXEzOGd2VEw1MnBjU2hHdlBfeC1wVmVGVUlIdzlaVDhBa25i?oc=5) |
+| 2026-07-30 | Tau Robotics Launches Robot Cleaning Service for Real-World Data - chosun.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUFIM0s1Ulp0ODNCUmFxdFloR1lIYzJmTWtqRGRycHVvRlF0UEY2V1d3Vk9KVWhpWVR4ajI5d3poY0ZLSWhwa0R3UDRTaEFwUmZfSERveXNkTTFDWUNTNGdBbnJqdXEzOGd2VEw1MnBjU2hHdlBfeC1wVmVGVUlIdzlaVDhBa25i?oc=5) |
 | 2026-07-29 | Robotics startup Generalist AI is in talks to raise a new funding round at a $3 billion valuation - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVBscjBlM3NnV2pQVVgtaExVSHJkTlRIQ0JPakljOTBSai00bnp5M2NvQ1VGaUttR2ROWDlXenE1RVNLVHVFZ2xCU29ha0dCQlAwWkV1YW5kX05GdDdCdE4wR2tfQW5lWnp2ZEtOUVR3d2lVX0JhMXdHeWJVeGhyQjlxTXpRRU5MRjBLZUl1Q1Y5Z0NSbWozU1VVNmplUmNN?oc=5) |
 | 2026-07-29 | [Planning] Korea Ranks No. 1 in Robot Density—149 ‘Physical AI’ Startups Are Taking Off - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iXzRrbUlHaUhoZ0JKcFF2a0dGVDZhMzB1ZUtfS0NaSTJtemlGWWJKclhibU1EbHlTRC1Bd3lQMmZ3cHpGdVFGaEE1d3cxZDk1NFlIWg?oc=5) |
 | 2026-07-29 | China claims six of the world's ten most innovative humanoid robot startups as the US moves to ban its machines - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUkpHbldGbEhGUC00SzhaUm5Rbi1ZMExBbzZPZkpjclRuMjVXTVFoNTJWT0FDZWhUTXFfVFRpY0hCZkhxZ3BRYmxBd0ExRDhMZzZYLUhOZHc2aGlvdHE3cTZxSVhReC1ISzN0eHBSai1sanB5VDl0NEJyNjlZY2J0TUNSXy1wTFg4Tm5TdW5kemFJV2pIVzU0WHJtYUkxemxLcFVIVDFYc2NLOWlMcnAzbmhrakFnR1MtdHFmMllOR054UGF5dGRqaDF1b0R0OHYyTzF3dQ?oc=5) |
