@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-31 20:49 UTC
+Last Updated: 2026-07-31 21:53 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -36,6 +36,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-07-31 | Procore Technologies acquires DroneDeploy for $845M | Robotics Business Review | [link](https://www.therobotreport.com/procore-technologies-acquires-dronedeploy-845m/) |
+| 2026-07-31 | KUKA deploys Automation Management Platform for North American automakers | Robotics Business Review | [link](https://www.therobotreport.com/kuka-deploys-automation-management-platform-north-american-automakers/) |
 | 2026-07-30 | Teradyne Robotics revenue rises 33% year over year in Q2 | Robotics Business Review | [link](https://www.therobotreport.com/teradyne-robotics-revenue-rises-33-year-over-year-in-q2/) |
 | 2026-07-30 | DoorDash gains FAA certification to operate its own drone delivery program | Robotics Business Review | [link](https://www.therobotreport.com/doordash-gains-faa-certification-to-operate-its-own-drone-delivery-program/) |
 | 2026-07-30 | 5 Physical AI infrastructure platforms shaping robotics in 2026 | Robotics Business Review | [link](https://www.therobotreport.com/5-physical-ai-infrastructure-platforms-shaping-robotics-in-2026/) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-28 | How integrated actuators improve humanoid robot joint performance and system integration | Robotics Business Review | [link](https://www.therobotreport.com/how-integrated-actuators-improve-humanoid-robot-joint-performance-and-system-integration/) |
 | 2026-07-28 | Robot Finger Feels in Color | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/robot-finger) |
 | 2026-07-28 | Agency Tool Company wants to make OTA software updates easier | Robotics Business Review | [link](https://www.therobotreport.com/agency-tool-company-wants-to-make-ota-software-updates-easier/) |
-| 2026-07-28 | Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -95,12 +95,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1430 | Rust | 572.1 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 897 | Python | 358.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63278 | Python | 25311.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63279 | Python | 25311.7 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16079 | Python | 6431.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15581 | C++ | 6232.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15582 | C++ | 6232.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14399 | C++ | 5759.7 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 12219 | JavaScript | 4887.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| rerun-io/rerun | 11222 | Rust | 4488.9 | [link](https://github.com/rerun-io/rerun) |
+| earthtojake/text-to-cad | 12228 | JavaScript | 4891.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| rerun-io/rerun | 11223 | Rust | 4489.3 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -114,20 +114,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaXNud1RkdkJLTDF5VVl4SW5QNEdzS3p1ak4zbFN5eUpqMXpLWjZ4Wno3bk5UV3habVdfcmxjZktuTmZWdDJLY3htZmlqSFg4d0FoUTB0cGZlUTlNeXJBbE1lbnVlYjVlWkROWlBzQ1oza0tDX0NKWFpwLWROR3lpbEVCTTJ0cC1vcXRj?oc=5) |
 | 2026-07-24 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
 | 2026-07-21 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPazNGXzVyYllBTTcxTEtONzU2anNoQTlCTDlHLVBGS2l0d3oxa0Ixdjk5N3pFVHBUNHhydlhVUzFqc2prU2gzVUFGdUxLbTd6cUpxaDZUTkxaQWVLaXNIRGhRbVJwd0dCMzJZYjZldi11SXZlN1dRbE9lOVlnRzhDYjF2UEZFeFBpSE9ZdjBJZk1YTkJORHhnUkJ3WncxdXFyclNGck9hdEZMRGdYM0I2Ni1MTFBpcW0yWGdKc1E2SXYwR2JyOGVzZ2lVZFQ?oc=5) |
-| 2026-07-17 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSjRmYjJZTjZQZEV6ZlA5dHRhZC1FeW1yNFVjQ0ZzUVUwajlrY2JkMHBLZFJoMnJKd2ZfYUctWE9hcmtJenZRbGlVTHpNRlhlYVBNLUYyLVZoS1hycjV3OUVabFVFZ1BBUFpiNzc2THBFT2g2V1BCeFlUSlNaU0hwSExYcVRtN21WckxjMUlYLUQyR3o0YzNQeXRGaFRTZG1tRndsa2xpcUxYaFd5bzdFUXY2aEZMLXBmOU4wS25TeFEyNGsyYk9FaGhjdnBlVVRETTZZN2s4ZnJvNkVmb2c?oc=5) |
+| 2026-07-20 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE4yRmJBSjlnNmNRaVhPR1hCUDBoU0RjRHZ6bU9NQnY5TWdTa29TeGV1SG10cWdkMVc5VGVhTXA3ZFZTb2pkeWp2Zm1oN0pwMnUyS2RUYmVLUmhCbHI3dXZBelRObXRxVGRWR2NxRG8xckdWNi02WWJEVGxvNGxMdw?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
+| 2026-07-31 | SK Telecom will expand cooperation with domestic physical artificial intelligence (AI) startups to b.. - 매일경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4eG9vb1NXZ3o2TjlRbEZzODlFYVFSYmFKanVXc2kzR2p2dEtpREN4M21CMkZ3WWEtNlBvNms3T1FmemkycGtnVVl4Zw?oc=5) |
 | 2026-07-31 | SK Telecom partners with physical AI startups - The Korea News Plus | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
-| 2026-07-31 | SK Telecom will expand cooperation with domestic physical artificial intelligence (AI) startups to b.. - mk.co.kr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4eG9vb1NXZ3o2TjlRbEZzODlFYVFSYmFKanVXc2kzR2p2dEtpREN4M21CMkZ3WWEtNlBvNms3T1FmemkycGtnVVl4Zw?oc=5) |
-| 2026-07-31 | SK Telecom unites eight Korean physical AI startups to grow robotics ecosystem - CHOSUNBIZ - biz.chosun.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZTi1sb3poVG9kelVVNzdnRmota3ZMeW5fUTd6cnNWMmswQTdSUHVZYS1mWG5aOVBxMC1xZVlIeFczOTJ6WlhhSWZ1Zm00c3F6R2xuOE1yNnI5Y3NJMVNwR3pWb0JKVXF5TDBCbmY4WEhHYzZYcEdVT3hR0gGOAUFVX3lxTE51TERkQmQ1WGFFdmpxZjlYNDlJRmpTa1ZLQXlxVF9VamcxLUhxbk9Yekw3UkJfVEwwT0I4RWM5UmdwSzhHNGlkdUdGcGFqd0ZJb3U0d04taFBQRFBYUDc3MWxrMU5QdThEdG5sOElRVUszMXpUOXdOWWh2eTRyMFlXWFhyc0FtbTdJLWhUYWc?oc=5) |
+| 2026-07-31 | SK Telecom unites eight Korean physical AI startups to grow robotics ecosystem - CHOSUNBIZ - Chosunbiz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZTi1sb3poVG9kelVVNzdnRmota3ZMeW5fUTd6cnNWMmswQTdSUHVZYS1mWG5aOVBxMC1xZVlIeFczOTJ6WlhhSWZ1Zm00c3F6R2xuOE1yNnI5Y3NJMVNwR3pWb0JKVXF5TDBCbmY4WEhHYzZYcEdVT3hR0gGOAUFVX3lxTE51TERkQmQ1WGFFdmpxZjlYNDlJRmpTa1ZLQXlxVF9VamcxLUhxbk9Yekw3UkJfVEwwT0I4RWM5UmdwSzhHNGlkdUdGcGFqd0ZJb3U0d04taFBQRFBYUDc3MWxrMU5QdThEdG5sOElRVUszMXpUOXdOWWh2eTRyMFlXWFhyc0FtbTdJLWhUYWc?oc=5) |
 | 2026-07-31 | SKT Holds Physical AI Startup Meeting: "We Will Build an Open Ecosystem" - 아시아경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZEFVX3lxTE84X1ZrX3dNZlR6eldndDctVU5maVVPUnA0cVpodXRUWTlMUVppaVVycl9CcnFoTXF3djUyejRYWXhfQ3Jwa0lNdHlwMWNyQWlYYTY1SUxLeEZHXzNvT0hTbS1JSnY?oc=5) |
-| 2026-07-31 | SKT Teams Up With 8 Physical AI Startups to Expand Robotics Ecosystem - en.sedaily.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaVpudER5Vm02OFotbnZTUjItYmpLdWtEaFM1Y1VMVGxmSHBrOEJYQWpRSDhFTUNRdHVIMktsZGI4QjMxOEVvd1NMbF9XNnJZOTJhTXAyeVpwMEN1YjVQYnhsMV9FazhZX3htTDROdW1tdEQ1NE1NUWZZaVVOalpROC1qZjF3Vm50WGFrVEx3bHRJTkk1anZUMndWc3p2NDAzV2E2VEJZOA?oc=5) |
+| 2026-07-31 | SKT Teams Up With 8 Physical AI Startups to Expand Robotics Ecosystem - Seoul Economic Daily | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaVpudER5Vm02OFotbnZTUjItYmpLdWtEaFM1Y1VMVGxmSHBrOEJYQWpRSDhFTUNRdHVIMktsZGI4QjMxOEVvd1NMbF9XNnJZOTJhTXAyeVpwMEN1YjVQYnhsMV9FazhZX3htTDROdW1tdEQ1NE1NUWZZaVVOalpROC1qZjF3Vm50WGFrVEx3bHRJTkk1anZUMndWc3p2NDAzV2E2VEJZOA?oc=5) |
 | 2026-07-31 | Trump's robot ban aims to counter China. US startups fear it could leave them behind. - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxNMEdvUmhSZmFXdHhmX1RSVThrVVpaZGVkUFZZbF9CcGRxU0puX2VwOXE1Y3lpOGhUOXlmdlY3U3lXb3VCTlQxdzdHQ0dsLWpZdEVacWFUOUQwalZ5OXlYMkt3NmdPLXVIeW5mcEFYcDJDWUxfNzdpZldaX3NHTmRwbjRxV1V5ak5RTUN3T3k0aTI5TlppNmVUbmhSXzlpZw?oc=5) |
-| 2026-07-31 | Robotics startup debuts humanoid housekeepers - goodmorningamerica.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2YUxtcEoyU3dYeFlLNU15SGhwb200bmk5eXlOX2dLTE5GTF9qU2p5Qk91ZktPbGw3ZGEzTHliQi1oRnJTREtGLW9yY1ltbURYUVNpaEpRSVF5VmV4Rklj0gFkQVVfeXFMTzVJUV9FcW5hWlhkNTB2a3BLSUNKdUtKak5wdnhsY3NqenFrYjNXM1dOdU1oOGRMRXpEbFRxbkJnaFlLSUFFT05uRGdFMHFfam45dHJvQlVHaUtOenR5SExNcGxwWQ?oc=5) |
-| 2026-07-31 | Company Says Robot Will Clean Your Home for $30 Per Hour - newser.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1dDYmhvamhZX3Z6M3FPbEVMNTJpYTZPdC1aQkNsUENwLWNTbzVuVGx4QVF5OWV3ZmpuSC02M0lLOGJ4akVWOC16Qi1rZHBYVGs0b3EyRTl4SFBGTUlOUGM0VGY5ejFOUXYzLWdtbWtvRldrcEI5YjVFSzFpOERJYjJUTzEwOHNVelhIaC1JYWN0QlBsMkE?oc=5) |
+| 2026-07-31 | Robotics startup debuts humanoid housekeepers - Good Morning America | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2YUxtcEoyU3dYeFlLNU15SGhwb200bmk5eXlOX2dLTE5GTF9qU2p5Qk91ZktPbGw3ZGEzTHliQi1oRnJTREtGLW9yY1ltbURYUVNpaEpRSVF5VmV4Rklj0gFkQVVfeXFMTzVJUV9FcW5hWlhkNTB2a3BLSUNKdUtKak5wdnhsY3NqenFrYjNXM1dOdU1oOGRMRXpEbFRxbkJnaFlLSUFFT05uRGdFMHFfam45dHJvQlVHaUtOenR5SExNcGxwWQ?oc=5) |
+| 2026-07-31 | Company Says Robot Will Clean Your Home for $30 Per Hour - Newser | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1dDYmhvamhZX3Z6M3FPbEVMNTJpYTZPdC1aQkNsUENwLWNTbzVuVGx4QVF5OWV3ZmpuSC02M0lLOGJ4akVWOC16Qi1rZHBYVGs0b3EyRTl4SFBGTUlOUGM0VGY5ejFOUXYzLWdtbWtvRldrcEI5YjVFSzFpOERJYjJUTzEwOHNVelhIaC1JYWN0QlBsMkE?oc=5) |
 | 2026-07-30 | AI startup moves headquarters to Roundhouse at Hazelwood Green - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOektfcmhuakZHbThYQU1oTmFUX002c09sNzNKSmNYank0S3Y2QjZGbWJ1amZ2Z2F5MlMyU0F6bGRQRkcyQzEwQ2lVeTVDeGJrM2dtRzFOXzh1SHdLc1BqbTFRSG4xYWtsTms0a3ZnbGcyOFMxZ3ZoRWN1UlZWRFl5MWQ5SUFNMnVxM19yc296ZndHQnRqdUpzejNmR3lpbkpVNXRnNkxkMlZvaWxX?oc=5) |
 
 ## Jobs
