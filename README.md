@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-31 17:15 UTC
+Last Updated: 2026-07-31 19:01 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-31 | NES Advantage Stick Gets Bluetooth Upgrade | Hackaday | [link](https://hackaday.com/2026/07/31/nes-advantage-stick-gets-bluetooth-upgrade/) |
 | 2026-07-31 | Hackaday Podcast Episode 380: 3D Printing the Rainbow, IR and IP Camera Hacks, and Americium 241 on the Loose | Hackaday | [link](https://hackaday.com/2026/07/31/hackaday-podcast-episode-380-3d-printing-the-rainbow-ir-and-ip-camera-hacks-and-americium-241-on-the-loose/) |
 | 2026-07-31 | Hacking a Commercial Colorimeter to add RAL Color Code Support | Hackaday | [link](https://hackaday.com/2026/07/31/hacking-a-commercial-colorimeter-to-add-ral-color-code-support/) |
 | 2026-07-31 | This Week in Security: What’s in a name, the AI Bugpocalypse Hits Everyone, OpenWRT flaws, and Duress Passwords | Hackaday | [link](https://hackaday.com/2026/07/31/this-week-in-security-whats-in-a-name-the-ai-bugpocalypse-hits-everyone-openwrt-flaws-and-duress-passwords/) |
 | 2026-07-31 | Building a Reproduction PlayStation Motherboard | Hackaday | [link](https://hackaday.com/2026/07/31/building-a-reproduction-playstation-motherboard/) |
 | 2026-07-31 | Using the Chimney Effect to Drop Passively Cooled PC Temperatures | Hackaday | [link](https://hackaday.com/2026/07/31/using-the-chimney-effect-to-drop-passively-cooled-pc-temperatures/) |
 | 2026-07-31 | Custom Beach Robot Handles the Hard Work | Hackaday | [link](https://hackaday.com/2026/07/30/custom-beach-robot-handles-the-hard-work/) |
-| 2026-07-31 | Best-Ever Brainstem Map Created by Indian Scientists | Hackaday | [link](https://hackaday.com/2026/07/30/best-ever-brainstem-map-created-by-indian-scientists/) |
 | 2026-07-31 | NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port | CNX Software | [link](https://www.cnx-software.com/2026/07/31/nanopi-r28s-a-tiny-dual-gbe-rockchip-rk3528a-wireless-sbc-and-router-with-a-usb-c-console-port/) |
 | 2026-07-31 | reTerminal Sticky 3.97-inch touch ePaper display is supported by four open-source firmware projects (so far) | CNX Software | [link](https://www.cnx-software.com/2026/07/31/reterminal-sticky-3-97-inch-magnetic-touch-epaper-display-is-supported-by-four-open-source-firmware-projects/) |
 | 2026-07-31 | Maker Go ESP32-C5-EVB board features RS-485 interface, four relays, four opto-isolated inputs | CNX Software | [link](https://www.cnx-software.com/2026/07/31/maker-go-esp32-c5-evb-board-features-rs-485-interface-four-relays-four-opto-isolated-inputs/) |
@@ -77,9 +77,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-31 | HarrisonPENG/M2W-VLA-RoboTwin | 361 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-07-31 | OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_New | 0 | 0 | [link](https://huggingface.co/OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_New) |
 | 2026-07-31 | access-robotics-team/so-p5-pp-ma-260731-v2 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-p5-pp-ma-260731-v2) |
-| 2026-07-31 | HarrisonPENG/M2W-VLA-RoboTwin | 361 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-07-31 | access-robotics-team/so-p5-pp-ma-260731 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-p5-pp-ma-260731) |
 | 2026-07-31 | JIANGdk0303/robot8_20260728_maopa_act_dinov3_all23_baseline | 0 | 0 | [link](https://huggingface.co/JIANGdk0303/robot8_20260728_maopa_act_dinov3_all23_baseline) |
 | 2026-07-31 | AIBUILDAI-Inc/robot-world-model | 0 | 0 | [link](https://huggingface.co/AIBUILDAI-Inc/robot-world-model) |
@@ -94,11 +94,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1430 | Rust | 572.1 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 897 | Python | 358.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 468 | Shell | 187.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63274 | Python | 25309.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63276 | Python | 25310.5 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16079 | Python | 6431.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15580 | C++ | 6232.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14396 | C++ | 5758.5 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 12194 | JavaScript | 4877.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| ArduPilot/ardupilot | 15581 | C++ | 6232.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14399 | C++ | 5759.7 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 12210 | JavaScript | 4884.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11222 | Rust | 4488.9 | [link](https://github.com/rerun-io/rerun) |
 | RLinf/RLinf | 4363 | Python | 1745.3 | [link](https://github.com/RLinf/RLinf) |
 
@@ -126,8 +126,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-31 | SKT Holds Physical AI Startup Meeting: "We Will Build an Open Ecosystem" - 아시아경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZEFVX3lxTE84X1ZrX3dNZlR6eldndDctVU5maVVPUnA0cVpodXRUWTlMUVppaVVycl9CcnFoTXF3djUyejRYWXhfQ3Jwa0lNdHlwMWNyQWlYYTY1SUxLeEZHXzNvT0hTbS1JSnY?oc=5) |
 | 2026-07-31 | SKT Teams Up With 8 Physical AI Startups to Expand Robotics Ecosystem - Seoul Economic Daily | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaVpudER5Vm02OFotbnZTUjItYmpLdWtEaFM1Y1VMVGxmSHBrOEJYQWpRSDhFTUNRdHVIMktsZGI4QjMxOEVvd1NMbF9XNnJZOTJhTXAyeVpwMEN1YjVQYnhsMV9FazhZX3htTDROdW1tdEQ1NE1NUWZZaVVOalpROC1qZjF3Vm50WGFrVEx3bHRJTkk1anZUMndWc3p2NDAzV2E2VEJZOA?oc=5) |
 | 2026-07-31 | Trump's robot ban aims to counter China. US startups fear it could leave them behind. - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxNMEdvUmhSZmFXdHhmX1RSVThrVVpaZGVkUFZZbF9CcGRxU0puX2VwOXE1Y3lpOGhUOXlmdlY3U3lXb3VCTlQxdzdHQ0dsLWpZdEVacWFUOUQwalZ5OXlYMkt3NmdPLXVIeW5mcEFYcDJDWUxfNzdpZldaX3NHTmRwbjRxV1V5ak5RTUN3T3k0aTI5TlppNmVUbmhSXzlpZw?oc=5) |
-| 2026-07-31 | Robotics startup debuts humanoid housekeepers - Good Morning America | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2YUxtcEoyU3dYeFlLNU15SGhwb200bmk5eXlOX2dLTE5GTF9qU2p5Qk91ZktPbGw3ZGEzTHliQi1oRnJTREtGLW9yY1ltbURYUVNpaEpRSVF5VmV4Rklj0gFkQVVfeXFMTzVJUV9FcW5hWlhkNTB2a3BLSUNKdUtKak5wdnhsY3NqenFrYjNXM1dOdU1oOGRMRXpEbFRxbkJnaFlLSUFFT05uRGdFMHFfam45dHJvQlVHaUtOenR5SExNcGxwWQ?oc=5) |
-| 2026-07-31 | Company Says Robot Will Clean Your Home for $30 Per Hour - Newser | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1dDYmhvamhZX3Z6M3FPbEVMNTJpYTZPdC1aQkNsUENwLWNTbzVuVGx4QVF5OWV3ZmpuSC02M0lLOGJ4akVWOC16Qi1rZHBYVGs0b3EyRTl4SFBGTUlOUGM0VGY5ejFOUXYzLWdtbWtvRldrcEI5YjVFSzFpOERJYjJUTzEwOHNVelhIaC1JYWN0QlBsMkE?oc=5) |
+| 2026-07-31 | Company Says Robot Will Clean Your Home for $30 Per Hour - newser.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1dDYmhvamhZX3Z6M3FPbEVMNTJpYTZPdC1aQkNsUENwLWNTbzVuVGx4QVF5OWV3ZmpuSC02M0lLOGJ4akVWOC16Qi1rZHBYVGs0b3EyRTl4SFBGTUlOUGM0VGY5ejFOUXYzLWdtbWtvRldrcEI5YjVFSzFpOERJYjJUTzEwOHNVelhIaC1JYWN0QlBsMkE?oc=5) |
+| 2026-07-31 | Robotics startup debuts humanoid housekeepers - Yahoo | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2htOEswdEtCcTQwSkRqbXNJdFpQbnlZbDMzQU9VaHRMSUpRVVo0Q2tFQjd6RXFqdDd1NDFMSG53Qm9KaENDMG1ES1p2RmpRX1NiS09td1J6enljN2NLdzRzckpGc08xN2g5Z0s0SnA4ZUtlOTJJeDEtZ2lYSk5hWV9ndXczYkV6TlJjM0NuSWZ6VUtxZ1l6cjVB?oc=5) |
 | 2026-07-30 | AI startup moves headquarters to Roundhouse at Hazelwood Green - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOektfcmhuakZHbThYQU1oTmFUX002c09sNzNKSmNYank0S3Y2QjZGbWJ1amZ2Z2F5MlMyU0F6bGRQRkcyQzEwQ2lVeTVDeGJrM2dtRzFOXzh1SHdLc1BqbTFRSG4xYWtsTms0a3ZnbGcyOFMxZ3ZoRWN1UlZWRFl5MWQ5SUFNMnVxM19yc296ZndHQnRqdUpzejNmR3lpbkpVNXRnNkxkMlZvaWxX?oc=5) |
 
 ## Jobs

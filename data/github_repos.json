@@ -31,13 +31,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63274,
+    "stars": 63276,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-07-31",
     "topic": "robotics",
-    "score": 25309.7
+    "score": 25310.5
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -51,33 +51,33 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15580,
+    "stars": 15581,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-07-31",
     "topic": "robotics",
-    "score": 6232.1
+    "score": 6232.5
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14396,
+    "stars": 14399,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-07-31",
     "topic": "robotics",
-    "score": 5758.5
+    "score": 5759.7
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 12194,
+    "stars": 12210,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-31",
     "topic": "robotics",
-    "score": 4877.7
+    "score": 4884.1
   },
   {
     "repo": "rerun-io/rerun",
@@ -101,13 +101,13 @@
   },
   {
     "repo": "dora-rs/dora",
-    "stars": 3856,
+    "stars": 3857,
     "language": "Rust",
     "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
     "url": "https://github.com/dora-rs/dora",
     "date": "2026-07-31",
     "topic": "embodied-ai",
-    "score": 1542.5
+    "score": 1542.9
   },
   {
     "repo": "mani-skill/ManiSkill",
@@ -121,13 +121,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2944,
+    "stars": 2945,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-07-31",
     "topic": "embodied-ai",
-    "score": 1177.7
+    "score": 1178.1
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
@@ -151,13 +151,13 @@
   },
   {
     "repo": "flashrt-project/FlashRT",
-    "stars": 472,
+    "stars": 473,
     "language": "C++",
     "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
     "url": "https://github.com/flashrt-project/FlashRT",
     "date": "2026-07-31",
     "topic": "vla",
-    "score": 188.9
+    "score": 189.3
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -168,6 +168,16 @@
     "date": "2026-07-31",
     "topic": "robot-learning",
     "score": 183.7
+  },
+  {
+    "repo": "luohongk/Embodied-AI-Daily",
+    "stars": 392,
+    "language": "HTML",
+    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
+    "url": "https://github.com/luohongk/Embodied-AI-Daily",
+    "date": "2026-07-31",
+    "topic": "vla",
+    "score": 156.9
   },
   {
     "repo": "baidu-baige/LoongForge",
@@ -290,16 +300,6 @@
     "score": 506.1
   },
   {
-    "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 392,
-    "language": "HTML",
-    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
-    "url": "https://github.com/luohongk/Embodied-AI-Daily",
-    "date": "2026-07-30",
-    "topic": "vla",
-    "score": 156.9
-  },
-  {
     "repo": "NVlabs/ProtoMotions",
     "stars": 2216,
     "language": "Python",
@@ -401,13 +401,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS",
-    "stars": 1339,
+    "stars": 1342,
     "language": "Python",
     "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS",
     "date": "2026-07-28",
     "topic": "embodied-ai",
-    "score": 535.7
+    "score": 536.9
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -811,13 +811,13 @@
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
-    "stars": 3091,
+    "stars": 3094,
     "language": "HTML",
     "description": "BOM, STL files and instructions for PAROL6 3D printed robot arm",
     "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
     "date": "2026-07-07",
     "topic": "lerobot",
-    "score": 1236.5
+    "score": 1237.7
   },
   {
     "repo": "OpenDriveLab/RISE",
