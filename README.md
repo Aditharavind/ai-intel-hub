@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-31 21:53 UTC
+Last Updated: 2026-07-31 22:46 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -96,10 +96,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | mosaico-labs/mosaico | 897 | Python | 358.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63279 | Python | 25311.7 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 16079 | Python | 6431.7 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16080 | Python | 6432.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15582 | C++ | 6232.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14399 | C++ | 5759.7 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 12228 | JavaScript | 4891.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 12235 | JavaScript | 4894.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11223 | Rust | 4489.3 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
@@ -124,11 +124,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-31 | SK Telecom partners with physical AI startups - The Korea News Plus | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
 | 2026-07-31 | SK Telecom unites eight Korean physical AI startups to grow robotics ecosystem - CHOSUNBIZ - Chosunbiz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZTi1sb3poVG9kelVVNzdnRmota3ZMeW5fUTd6cnNWMmswQTdSUHVZYS1mWG5aOVBxMC1xZVlIeFczOTJ6WlhhSWZ1Zm00c3F6R2xuOE1yNnI5Y3NJMVNwR3pWb0JKVXF5TDBCbmY4WEhHYzZYcEdVT3hR0gGOAUFVX3lxTE51TERkQmQ1WGFFdmpxZjlYNDlJRmpTa1ZLQXlxVF9VamcxLUhxbk9Yekw3UkJfVEwwT0I4RWM5UmdwSzhHNGlkdUdGcGFqd0ZJb3U0d04taFBQRFBYUDc3MWxrMU5QdThEdG5sOElRVUszMXpUOXdOWWh2eTRyMFlXWFhyc0FtbTdJLWhUYWc?oc=5) |
 | 2026-07-31 | SKT Holds Physical AI Startup Meeting: "We Will Build an Open Ecosystem" - 아시아경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZEFVX3lxTE84X1ZrX3dNZlR6eldndDctVU5maVVPUnA0cVpodXRUWTlMUVppaVVycl9CcnFoTXF3djUyejRYWXhfQ3Jwa0lNdHlwMWNyQWlYYTY1SUxLeEZHXzNvT0hTbS1JSnY?oc=5) |
-| 2026-07-31 | SKT Teams Up With 8 Physical AI Startups to Expand Robotics Ecosystem - Seoul Economic Daily | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaVpudER5Vm02OFotbnZTUjItYmpLdWtEaFM1Y1VMVGxmSHBrOEJYQWpRSDhFTUNRdHVIMktsZGI4QjMxOEVvd1NMbF9XNnJZOTJhTXAyeVpwMEN1YjVQYnhsMV9FazhZX3htTDROdW1tdEQ1NE1NUWZZaVVOalpROC1qZjF3Vm50WGFrVEx3bHRJTkk1anZUMndWc3p2NDAzV2E2VEJZOA?oc=5) |
 | 2026-07-31 | Trump's robot ban aims to counter China. US startups fear it could leave them behind. - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxNMEdvUmhSZmFXdHhmX1RSVThrVVpaZGVkUFZZbF9CcGRxU0puX2VwOXE1Y3lpOGhUOXlmdlY3U3lXb3VCTlQxdzdHQ0dsLWpZdEVacWFUOUQwalZ5OXlYMkt3NmdPLXVIeW5mcEFYcDJDWUxfNzdpZldaX3NHTmRwbjRxV1V5ak5RTUN3T3k0aTI5TlppNmVUbmhSXzlpZw?oc=5) |
-| 2026-07-31 | Robotics startup debuts humanoid housekeepers - Good Morning America | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2YUxtcEoyU3dYeFlLNU15SGhwb200bmk5eXlOX2dLTE5GTF9qU2p5Qk91ZktPbGw3ZGEzTHliQi1oRnJTREtGLW9yY1ltbURYUVNpaEpRSVF5VmV4Rklj0gFkQVVfeXFMTzVJUV9FcW5hWlhkNTB2a3BLSUNKdUtKak5wdnhsY3NqenFrYjNXM1dOdU1oOGRMRXpEbFRxbkJnaFlLSUFFT05uRGdFMHFfam45dHJvQlVHaUtOenR5SExNcGxwWQ?oc=5) |
+| 2026-07-31 | Robotics startup debuts humanoid housekeepers - goodmorningamerica.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2YUxtcEoyU3dYeFlLNU15SGhwb200bmk5eXlOX2dLTE5GTF9qU2p5Qk91ZktPbGw3ZGEzTHliQi1oRnJTREtGLW9yY1ltbURYUVNpaEpRSVF5VmV4Rklj0gFkQVVfeXFMTzVJUV9FcW5hWlhkNTB2a3BLSUNKdUtKak5wdnhsY3NqenFrYjNXM1dOdU1oOGRMRXpEbFRxbkJnaFlLSUFFT05uRGdFMHFfam45dHJvQlVHaUtOenR5SExNcGxwWQ?oc=5) |
 | 2026-07-31 | Company Says Robot Will Clean Your Home for $30 Per Hour - Newser | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1dDYmhvamhZX3Z6M3FPbEVMNTJpYTZPdC1aQkNsUENwLWNTbzVuVGx4QVF5OWV3ZmpuSC02M0lLOGJ4akVWOC16Qi1rZHBYVGs0b3EyRTl4SFBGTUlOUGM0VGY5ejFOUXYzLWdtbWtvRldrcEI5YjVFSzFpOERJYjJUTzEwOHNVelhIaC1JYWN0QlBsMkE?oc=5) |
 | 2026-07-30 | AI startup moves headquarters to Roundhouse at Hazelwood Green - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOektfcmhuakZHbThYQU1oTmFUX002c09sNzNKSmNYank0S3Y2QjZGbWJ1amZ2Z2F5MlMyU0F6bGRQRkcyQzEwQ2lVeTVDeGJrM2dtRzFOXzh1SHdLc1BqbTFRSG4xYWtsTms0a3ZnbGcyOFMxZ3ZoRWN1UlZWRFl5MWQ5SUFNMnVxM19yc296ZndHQnRqdUpzejNmR3lpbkpVNXRnNkxkMlZvaWxX?oc=5) |
+| 2026-07-30 | You can hire these humanoid robots from Tau Robotics to clean your home in San Francisco - ABC7 Bay Area | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlh2ZGNFRkdmV1JaMGE3OE55YTlJdGRKeDRwTW5Oa1VEdTVFTTYzWDd4Z1VRNVdBaVlsRzkyNzJGdWVsR0lfUXkxSFNHb05UWm9hRF9BN1doeC1vLWxYUEl4SGVzSmFPN1NKS29PWUk4U0VCY0ZTU2JQQ24tZWtxLWU5NTFaLXNpME9kcTBpNUJqUlpYa05DYTU2SHZadGvSAaQBQVVfeXFMTXhlanNMblNPVi0tWjZMaEZMNzJEdTE1d21VWnZUSndkdnVHajFwT1Z0U243U2phRzVNUE1sNEt2R3Z3VHpUaFR6Mng4RHIxYThyd1ZsMnhFMXN1MUtGalRUTmhkUkd5a2ozcHZvaFI4TkdTbnV3cmdIOXEwY0lRek1fdFlWMGduRktMN2tCbUhuQ1pnS0owYzI2b2lCTkdjT0pHNFM?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
