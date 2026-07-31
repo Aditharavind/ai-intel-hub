@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-07-31 08:25 UTC
+Generated: 2026-07-31 11:14 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,29 +14,29 @@ Generated: 2026-07-31 08:25 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82839 | 33135.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82842 | 33136.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63273 | 25309.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44313 | 17725.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30196 | 12078.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16076 | 6430.5 | [link](https://github.com/zauberzeug/nicegui) |
+| NaiboWang/EasySpider | 44317 | 17726.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30197 | 12078.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16077 | 6430.9 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| tencent/Hy-Embodied-VLM-1.0 | 1028 | 312.9 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
-| jovaldivieso/double_integrator_casadi_diffusion_policy | 799 | 240.2 | [link](https://huggingface.co/jovaldivieso/double_integrator_casadi_diffusion_policy) |
-| SEU-PAISys/Embodied.cpp | 627 | 189.0 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
-| tsinghua-sigs-robot-lab/veriloop-coder-e1 | 413 | 127.4 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
-| zhijieq/directional-navigation | 417 | 125.2 | [link](https://huggingface.co/zhijieq/directional-navigation) |
+| tencent/Hy-Embodied-VLM-1.0 | 1054 | 320.7 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
+| SEU-PAISys/Embodied.cpp | 715 | 215.4 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
+| tsinghua-sigs-robot-lab/veriloop-coder-e1 | 493 | 151.4 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
+| zhijieq/directional-navigation | 418 | 125.5 | [link](https://huggingface.co/zhijieq/directional-navigation) |
+| tencent/Hy-Embodied-RxBrain-1.0 | 337 | 111.8 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-07-31 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQazRPbW5hem55NV9sQ1RpWE53YWFmTk00MWlvbXhKZ3ppdWVDVDFOVlhLQUxUUFdQRzNxVk5YNDRtbC0zWGVCcEM2YTU3SWVUbDMxU0ZEN2Q4U1p5Q2lPMmUwVGY5M2k4WHlGdndJVlBDRHo5TGZLS3FhYW9FcjNvaGZRbDgtQ2ZDWUt0RGNtWm1mMnRaamJYY3dMM2Zpd2o5b21XSg?oc=5) |
 | 2026-07-31 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWRwU1p1ODlONlRQVzV1NWR0ME1xcUV5dnB0S2lWeEFMVmwxS2lHU19kNFlLVC1YTmlkZS1lSlNQWU1kLVh4UHQ0ZjIxcndxWDZUUmpKS3NEbkdreENpYUEtYXZpNmdyeGRfTzc3WHhtYmtVSDIwT0huRFhhaXZ0bmdHcUhXX2Y20gGcAUFVX3lxTE9jZ2QtUFNqblFvWUp5V2ZyNWc0SkFOWlg4eHlpWWFXaTRwb3lqc2hTeTVRWGJIZEtOeGt0cno5VE9XcXdnUHVVOGVveEM2MC01Z2VwUldjS1AxZk51ODlVaVVlRGRDQy1kTmwxN2tUYlQ4aXRqd241X2hTV0hUd1M3dTI2djJ6bTdvRWZtWDI3ZjVjdkUwZGJtMzczWg?oc=5) |
 | 2026-07-30 | Unitree |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNEpXcjRXQkFMQjFxbVVCUnVGQnkyS3A5YVV0OTJXQlJOWmowZ0FHdGtTN0tldWo4c1pyam1HQVU3R1pleWNKdGNCUlliRW03ZTh2VTE0YnJqNEN5cDRvUzhQck4zcjlSX013SUN0bllqT2xkWkdHeUZvZ1JTcG1OYXRFcEJkR1djNDNGZThOTHVubkVDTFNfbUZPdlZBMlVnM0Y1em04N1dleTNYSkRmT1RYclh4OTA?oc=5) |
 | 2026-07-28 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjBTRmdXX0NXUlFrQ3lOa2ZuMHVKWXY4S3JKZVhIVXhBQUZUSE90eVVNX3ctQ3M4RDVQVXU0b3Q5NW5xZkhRMUNXdk44alp4VXFRcXZyQ2llZDlZdmNxcFdnWXpiOU5BLXotbXVxSGRkTjVudTJIX09udjg2cHB5cnpQZVBleUNoUWQ0eGp0WmlmQUxBb1ZYODdCY0NxT0htczdSOWxud196dzZxSU9F?oc=5) |
 | 2026-07-27 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMVdOTjZURFZMVlNVY2NPMEhuaW4wUW1Ka0VJMUllT0p4Wm5EbnV3QzV4cXlLLWhEWnU2RnBfVlc5SW1iVGlYTEVCR29UY1dscllYY3BxM2dWSHVBY280ZUl2U0xUTGdCMF9nNkZmcUxTMHg1WjhXUnEza1ZqRnRhTldFTzVzWUlWVEl6MjN1YmEwQTNSdGVPUzNHdHVGc2NIMENRc01zYjlnRGdZNExCV0N2X2U2UHpqRWw0?oc=5) |
-| 2026-07-25 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE83cDZaRUhtSl9ocmxQLWNmVXI2Y3lxTVF0allHUGJRNWhpbEZ2N3VUMDRLcEF5VGdhcVdraVJQZi0ycG5WcFM4TnpjR0JqcDZYdS1JMHQtMA?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
