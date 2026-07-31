@@ -54,6 +54,24 @@
     "score": 0.1
   },
   {
+    "model": "vladmandic/Mage-Flow-4B-Turbo",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladmandic/Mage-Flow-4B-Turbo",
+    "date": "2026-07-31",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vladmandic/Mage-Flow-4B",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladmandic/Mage-Flow-4B",
+    "date": "2026-07-31",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "sam-guided-vlas/pi05_rs-train_1_2-overlay-a075",
     "downloads": 0,
     "likes": 0,
@@ -69,6 +87,24 @@
     "url": "https://huggingface.co/sam-guided-vlas/pi05_rs-train_1_2-overlay-a050",
     "date": "2026-07-31",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "s1eepypillow/task1_act_policy",
+    "downloads": 49,
+    "likes": 0,
+    "url": "https://huggingface.co/s1eepypillow/task1_act_policy",
+    "date": "2026-07-31",
+    "keyword": "policy",
+    "score": 14.8
+  },
+  {
+    "model": "JWei05/gemma3-4b-pt-off-policy-distilled-from-27bptw20-step80",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/JWei05/gemma3-4b-pt-off-policy-distilled-from-27bptw20-step80",
+    "date": "2026-07-31",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -225,24 +261,6 @@
     "score": 0.1
   },
   {
-    "model": "xkwwwww/ota-vla",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/xkwwwww/ota-vla",
-    "date": "2026-07-30",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "flashrt/flashrt-vla-residual-gates",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/flashrt/flashrt-vla-residual-gates",
-    "date": "2026-07-30",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "flashrt/world-model-conv",
     "downloads": 0,
     "likes": 0,
@@ -304,24 +322,6 @@
     "date": "2026-07-30",
     "keyword": "policy",
     "score": 240.2
-  },
-  {
-    "model": "schronn/policy_pouring_blue_v3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/schronn/policy_pouring_blue_v3",
-    "date": "2026-07-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "muacha/my_overfit_pi05_policy",
-    "downloads": 68,
-    "likes": 0,
-    "url": "https://huggingface.co/muacha/my_overfit_pi05_policy",
-    "date": "2026-07-30",
-    "keyword": "policy",
-    "score": 20.5
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-v2",
