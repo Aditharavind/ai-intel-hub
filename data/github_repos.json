@@ -61,43 +61,43 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14395,
+    "stars": 14396,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-07-31",
     "topic": "robotics",
-    "score": 5758.1
+    "score": 5758.5
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 12185,
+    "stars": 12194,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-31",
     "topic": "robotics",
-    "score": 4874.1
+    "score": 4877.7
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11220,
+    "stars": 11222,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-07-31",
     "topic": "robotics",
-    "score": 4488.1
+    "score": 4488.9
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4361,
+    "stars": 4363,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-07-31",
     "topic": "embodied-ai",
-    "score": 1744.5
+    "score": 1745.3
   },
   {
     "repo": "dora-rs/dora",
@@ -181,13 +181,23 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5765,
+    "stars": 5766,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-31",
     "topic": "world-model",
-    "score": 2306.1
+    "score": 2306.5
+  },
+  {
+    "repo": "softmata/horus",
+    "stars": 400,
+    "language": "Rust",
+    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
+    "url": "https://github.com/softmata/horus",
+    "date": "2026-07-31",
+    "topic": "humanoid",
+    "score": 160.1
   },
   {
     "repo": "ROBOTIS-GIT/ai_worker",
@@ -251,13 +261,13 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 2746,
+    "stars": 2747,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-07-30",
     "topic": "physical-ai",
-    "score": 1098.5
+    "score": 1098.9
   },
   {
     "repo": "StanfordVL/BEHAVIOR-1K",
@@ -271,13 +281,13 @@
   },
   {
     "repo": "dexmal/dexbotic",
-    "stars": 1264,
+    "stars": 1265,
     "language": "Python",
     "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
     "url": "https://github.com/dexmal/dexbotic",
     "date": "2026-07-30",
     "topic": "vla",
-    "score": 505.7
+    "score": 506.1
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -291,13 +301,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2215,
+    "stars": 2216,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-07-30",
     "topic": "humanoid",
-    "score": 886.1
+    "score": 886.5
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -341,23 +351,13 @@
   },
   {
     "repo": "zli12321/Vision-Language-Models-Overview",
-    "stars": 682,
+    "stars": 683,
     "language": "HTML",
     "description": "A most Frontend Collection and survey of vision-language model papers, and models GitHub repository. Continuous updates.",
     "url": "https://github.com/zli12321/Vision-Language-Models-Overview",
     "date": "2026-07-29",
     "topic": "world-model",
-    "score": 272.9
-  },
-  {
-    "repo": "softmata/horus",
-    "stars": 399,
-    "language": "Rust",
-    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
-    "url": "https://github.com/softmata/horus",
-    "date": "2026-07-29",
-    "topic": "humanoid",
-    "score": 159.7
+    "score": 273.3
   },
   {
     "repo": "RobotControlStack/robot-control-stack",
@@ -401,13 +401,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS",
-    "stars": 1334,
+    "stars": 1339,
     "language": "Python",
     "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS",
     "date": "2026-07-28",
     "topic": "embodied-ai",
-    "score": 533.7
+    "score": 535.7
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -511,13 +511,13 @@
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2661,
+    "stars": 2662,
     "language": "Python",
     "description": "[ICML 2026] RoboTwin 2.0 Offical Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-07-25",
     "topic": "embodied-ai",
-    "score": 1064.5
+    "score": 1064.9
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
@@ -541,13 +541,13 @@
   },
   {
     "repo": "thu-ml/Causal-Forcing",
-    "stars": 893,
+    "stars": 892,
     "language": "Python",
     "description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\" & Causal Forcing++",
     "url": "https://github.com/thu-ml/Causal-Forcing",
     "date": "2026-07-23",
     "topic": "world-model",
-    "score": 357.3
+    "score": 356.9
   },
   {
     "repo": "Matrixchung/iFOC",
@@ -751,13 +751,13 @@
   },
   {
     "repo": "nicklashansen/tdmpc2",
-    "stars": 910,
+    "stars": 911,
     "language": "Python",
     "description": "Code for \"TD-MPC2: Scalable, Robust World Models for Continuous Control\"",
     "url": "https://github.com/nicklashansen/tdmpc2",
     "date": "2026-07-13",
     "topic": "world-model",
-    "score": 364.1
+    "score": 364.5
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -801,23 +801,23 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82845,
+    "stars": 82846,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 33138.1
+    "score": 33138.5
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
-    "stars": 3090,
+    "stars": 3091,
     "language": "HTML",
     "description": "BOM, STL files and instructions for PAROL6 3D printed robot arm",
     "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
     "date": "2026-07-07",
     "topic": "lerobot",
-    "score": 1236.1
+    "score": 1236.5
   },
   {
     "repo": "OpenDriveLab/RISE",
