@@ -1,5 +1,68 @@
 [
   {
+    "model": "AIBUILDAI-Inc/robot-world-model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/AIBUILDAI-Inc/robot-world-model",
+    "date": "2026-07-31",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_0728_Dispose_Low_Table_50K",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_0728_Dispose_Low_Table_50K",
+    "date": "2026-07-31",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_0728_Dispose_Low_Table_30K",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_0728_Dispose_Low_Table_30K",
+    "date": "2026-07-31",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_0728_Dispose_Low_Table_10K",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_0728_Dispose_Low_Table_10K",
+    "date": "2026-07-31",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "jovaldivieso/multi_robot_double_integrator_casadi_act",
+    "downloads": 36,
+    "likes": 0,
+    "url": "https://huggingface.co/jovaldivieso/multi_robot_double_integrator_casadi_act",
+    "date": "2026-07-31",
+    "keyword": "robot",
+    "score": 10.9
+  },
+  {
+    "model": "RobotisSW/N17_pick_chestnuts_70k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/N17_pick_chestnuts_70k",
+    "date": "2026-07-31",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/pi05_rs-train_1_2-overlay-a075",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/pi05_rs-train_1_2-overlay-a075",
+    "date": "2026-07-31",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "sam-guided-vlas/pi05_rs-train_1_2-overlay-a050",
     "downloads": 0,
     "likes": 0,
@@ -9,6 +72,42 @@
     "score": 0.1
   },
   {
+    "model": "3cda2225/record-demo0801_3_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/3cda2225/record-demo0801_3_act_policy",
+    "date": "2026-07-31",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "maitf/my_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/maitf/my_policy",
+    "date": "2026-07-31",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "LCPRZZL/act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/LCPRZZL/act_policy",
+    "date": "2026-07-31",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "zycsys/robocasa-cosmos-policy",
+    "downloads": 17,
+    "likes": 0,
+    "url": "https://huggingface.co/zycsys/robocasa-cosmos-policy",
+    "date": "2026-07-31",
+    "keyword": "policy",
+    "score": 5.2
+  },
+  {
     "model": "zolkin/robot_rl",
     "downloads": 0,
     "likes": 1,
@@ -16,15 +115,6 @@
     "date": "2026-07-30",
     "keyword": "robot",
     "score": 0.3
-  },
-  {
-    "model": "jovaldivieso/multi_robot_double_integrator_casadi_act",
-    "downloads": 36,
-    "likes": 0,
-    "url": "https://huggingface.co/jovaldivieso/multi_robot_double_integrator_casadi_act",
-    "date": "2026-07-30",
-    "keyword": "robot",
-    "score": 10.9
   },
   {
     "model": "puppet-robotics/golf-model-200-obs-rgb-4fps",
@@ -56,11 +146,11 @@
   {
     "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
     "downloads": 413,
-    "likes": 16,
+    "likes": 17,
     "url": "https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1",
     "date": "2026-07-30",
     "keyword": "robot",
-    "score": 127.2
+    "score": 127.4
   },
   {
     "model": "jovaldivieso/multi_robot_double_integrator_casadi_diffusion_policy",
@@ -69,60 +159,6 @@
     "url": "https://huggingface.co/jovaldivieso/multi_robot_double_integrator_casadi_diffusion_policy",
     "date": "2026-07-30",
     "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "NCDTech/real-robot-driving-mlp-numpy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/NCDTech/real-robot-driving-mlp-numpy",
-    "date": "2026-07-30",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlat_10k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlat_10k",
-    "date": "2026-07-30",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlat",
-    "downloads": 122,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlat",
-    "date": "2026-07-30",
-    "keyword": "robot",
-    "score": 36.7
-  },
-  {
-    "model": "zyegao/robot_learning_tutorial_act",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/zyegao/robot_learning_tutorial_act",
-    "date": "2026-07-30",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm",
-    "date": "2026-07-30",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/pi05_rs-train_1_2-overlay-a075",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/pi05_rs-train_1_2-overlay-a075",
-    "date": "2026-07-30",
-    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -286,42 +322,6 @@
     "date": "2026-07-30",
     "keyword": "policy",
     "score": 20.5
-  },
-  {
-    "model": "aakankshpanda/tissue_retraction_07_29_policy_state",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/aakankshpanda/tissue_retraction_07_29_policy_state",
-    "date": "2026-07-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "avijitsur1/Cosmos3-Edge-Policy-DROID",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/avijitsur1/Cosmos3-Edge-Policy-DROID",
-    "date": "2026-07-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "3cda2225/record-demo0801_2_act_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/3cda2225/record-demo0801_2_act_policy",
-    "date": "2026-07-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "rajavardhan-pai/pick_bottle_act_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/rajavardhan-pai/pick_bottle_act_policy",
-    "date": "2026-07-30",
-    "keyword": "policy",
-    "score": 0.1
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-v2",
@@ -610,15 +610,6 @@
     "date": "2026-07-22",
     "keyword": "physical ai",
     "score": 4.0
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp06-world-model-stage1-full-epoch3-stage2-lora-epoch3",
-    "downloads": 31,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp06-world-model-stage1-full-epoch3-stage2-lora-epoch3",
-    "date": "2026-07-21",
-    "keyword": "world model",
-    "score": 9.4
   },
   {
     "model": "Datawhale/every-embodied-act-mujoco-pnp",
