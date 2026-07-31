@@ -1,5 +1,19 @@
 [
   {
+    "title": "Hacking a Commercial Colorimeter to add RAL Color Code Support",
+    "source": "Hackaday",
+    "date": "2026-07-31",
+    "url": "https://hackaday.com/2026/07/31/hacking-a-commercial-colorimeter-to-add-ral-color-code-support/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"625\" src=\"https://hackaday.com/wp-content/uploads/2026/07/colors.png?w=625\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"625\" /></div>When you need to match paint colors, one of the tools you&#8217;ll reach for is a deck of reference colors. Another might be a colorimeter. But what if you want <a class=\"read-more\" href=\"https://hackaday.com/2026/07/31/hacking-a-commercial-colorimeter-to-add-ral-color-code-support/\">&#8230;read more</a>"
+  },
+  {
+    "title": "This Week in Security: What’s in a name, the AI Bugpocalypse Hits Everyone, OpenWRT flaws, and Duress Passwords",
+    "source": "Hackaday",
+    "date": "2026-07-31",
+    "url": "https://hackaday.com/2026/07/31/this-week-in-security-whats-in-a-name-the-ai-bugpocalypse-hits-everyone-openwrt-flaws-and-duress-passwords/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The great thing about standards is there&#8217;s so many to pick from, right?. (Insert obligatory XKCD #927 here.) Several companies have developed naming schemes to refer to groups of attacks, <a class=\"read-more\" href=\"https://hackaday.com/2026/07/31/this-week-in-security-whats-in-a-name-the-ai-bugpocalypse-hits-everyone-openwrt-flaws-and-duress-passwords/\">&#8230;read more</a>"
+  },
+  {
     "title": "Building a Reproduction PlayStation Motherboard",
     "source": "Hackaday",
     "date": "2026-07-31",
@@ -32,7 +46,7 @@
     "source": "CNX Software",
     "date": "2026-07-31",
     "url": "https://www.cnx-software.com/2026/07/31/nanopi-r28s-a-tiny-dual-gbe-rockchip-rk3528a-wireless-sbc-and-router-with-a-usb-c-console-port/",
-    "summary": "<div><img alt=\"NanoPi R28S Dual GbE router USB C Debug port\" class=\"attachment-medium size-medium wp-post-image\" height=\"443\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/NanoPi-R28S-Dual-GbE-router-USB-C-Debug-port-720x443.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>NanoPi R28S is yet another tiny dual Gigabit Ethernet single board computer or router (with a metal enclosure), and the first from FriendlyELEC to implement a USB-C console port, often requested by our readers. At just 49.5 x 49.5 x 24 mm in its metal case, the Rockchip RK3528A-powered router also features 1GB LPDDR4, a microSD card slot and an eMMC module socket for storage, WiFi 6 and Bluetooth 5.3 wireless connectivity. The USB-C ports are only used for power, eMMC firmware upgrades, and debugging, and the system doesn&#8217;t feature any USB port for data connectivity, nor any GPIO header for expansion. In other words, it&#8217;s mostly useful for networking (firewalls, soft routers), as well as IoT gateway applications. NanoPi R28S specifications: SoC – Rockchip RK3528A CPU – Quad-core ARM Cortex-A53 @ 1.8 GHz GPU – Arm Mali-450 GPU with support for OpenGL ES1.1, ES2.0, and OpenVG 1.1 APIs VPU [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/31/nanopi-r28s-a-tiny-dual-gbe-rockchip-rk3528a-wireless-sbc-and-router-with-a-usb-c-console-port/\">NanoPi R28S &#8211; A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"NanoPi R28S Dual GbE router USB C Debug port\" class=\"attachment-medium size-medium wp-post-image\" height=\"443\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/NanoPi-R28S-Dual-GbE-router-USB-C-Debug-port-720x443.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>NanoPi R28S is yet another tiny dual Gigabit Ethernet single board computer or router (with a metal enclosure), and the second from FriendlyELEC to implement a USB-C console port, often requested by our readers, after the NanoPi R2S Plus launched in 2024. At just 49.5 x 49.5 x 24 mm in its metal case, the Rockchip RK3528A-powered router also features 1GB LPDDR4, a microSD card slot and an eMMC module socket for storage, WiFi 6 and Bluetooth 5.3 wireless connectivity. The USB-C ports are only used for power, eMMC firmware upgrades, and debugging, and the system doesn&#8217;t feature any USB port for data connectivity, nor any GPIO header for expansion. In other words, it&#8217;s mostly useful for networking (firewalls, soft routers), as well as IoT gateway applications. NanoPi R28S specifications: SoC – Rockchip RK3528A CPU – Quad-core ARM Cortex-A53 @ 1.8 GHz GPU – Arm Mali-450 GPU with support for [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/31/nanopi-r28s-a-tiny-dual-gbe-rockchip-rk3528a-wireless-sbc-and-router-with-a-usb-c-console-port/\">NanoPi R28S &#8211; A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "reTerminal Sticky 3.97-inch touch ePaper display is supported by four open-source firmware projects (so far)",
@@ -56,53 +70,25 @@
     "summary": "<p>Mikroe has partnered with Swift Navigation to integrate the Skylark Precise Positioning Service into its GNSS 19 Click development board, providing users with a free six-month license to the cloud-based correction service. The collaboration is intended to simplify access to high-accuracy global navigation satellite system (GNSS) positioning for developers working on industrial, automotive, and IoT [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mikroe-integrates-swift-navigation-skylark-with-gnss-19-click/\">Mikroe Integrates Swift Navigation Skylark with GNSS 19 Click</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Amazon has Q2 sales of $200bn",
-    "source": "Electronics Weekly",
+    "title": "What to Make with Adafruit Fruit Jam Mini-Computer Kit",
+    "source": "Adafruit",
     "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/amazon-has-q2-sales-of-200bn-2026-07/",
-    "summary": "<p>Amazon reported Q2 sales up 20% y-o-y to $200.6bn. Operating  profit was up 43% y-o-y to $27.5bn. Net profit was $62.6bn up from $18.2bn in Q2 2025. AWS sales were [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/amazon-has-q2-sales-of-200bn-2026-07/\">Amazon has Q2 sales of $200bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/31/what-to-make-with-adafruit-fruit-jam-mini-computer-kit/",
+    "summary": "xxx Our Fruit Jam Mini-Computer Kit takes its inspiration from the self-contained electronic wonderland of our childhood computers that we could plug directly into a TV then blaze our eyes with 8-bit of glory. See what you can do with our Fruit Jam and our Mini-Computer Kit in the Adafruit Learning System. We suggest starting [&#8230;]"
   },
   {
-    "title": "First genuinely driverless robotaxi gets regulatory approval",
-    "source": "Electronics Weekly",
+    "title": "The world’s first hands-free touchpad",
+    "source": "Adafruit",
     "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/first-genuine-driverless-2026-07/",
-    "summary": "<p>The first company to get regulatory approval for a genuinely driverless robotaxi is Amazon’s Zoox (pictured). Zoox has been licensed to deploy 2,500 vehicles annually for two years The US [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/first-genuine-driverless-2026-07/\">First genuinely driverless robotaxi gets regulatory approval</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/31/the-worlds-first-hands-free-touchpad/",
+    "summary": "MouthPad is a custom-fit mouthpiece that turns subtle tongue and head movements into precise control of your phone, tablet, and computer. MouthPad translates small, natural movements into cursor control, clicks, scrolling, and dragging. No hands. No wires. Worn discreetly inside your mouth. Move the cursor with your tongue or head. Tap, swipe, sip, and hold to [&#8230;]"
   },
   {
-    "title": "Cook’s curtain call",
-    "source": "Electronics Weekly",
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
     "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/cooks-curtain-call-2026-07/",
-    "summary": "<p>At his final results call Tim Cook turned in some pretty good numbers in a tough consumer electronics market. Apple had fiscal Q3 (calendar Q2) revenues up 16.4% y-o-y at [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/cooks-curtain-call-2026-07/\">Cook’s curtain call</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Element14 poses home and healthcare design challenge",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/element14-poses-home-and-healthcare-design-challenge-2026-07/",
-    "summary": "<p>Element14 has launched a home and healthcare design challenge inviting engineers, makers and technology enthusiasts to design and build a prototype smart home or healthcare system designed to support a [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/element14-poses-home-and-healthcare-design-challenge-2026-07/\">Element14 poses home and healthcare design challenge</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Infineon shipping isolator ICs for high-volume applications",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/infineon-shipping-isolator-ics-for-high-volume-applications-2026-07/",
-    "summary": "<p>Infineon is shipping the ISSI20BxxF Solid State Isolator (SSI) family, bringing solid-state isolation technology into high-volume applications traditionally served by photovoltaic isolators, photovoltaic relays and electromechanical relays. Housed in aPG-DSO-8 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-shipping-isolator-ics-for-high-volume-applications-2026-07/\">Infineon shipping isolator ICs for high-volume applications</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Back-end AI datacentre network switches head for $1tn market",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/datacentre-switches-head-for-1trn-market-2026-07/",
-    "summary": "<p>Cumulative spending on datacentre switches deployed in AI back-end networks to support next generation AI infrastructure is forecast to approach $1tn over the next five years (2026-2030), says Dell’Oro. Scale-up [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/datacentre-switches-head-for-1trn-market-2026-07/\">Back-end AI datacentre network switches head for $1tn market</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Wildfire",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/wildfire-2026-07/",
-    "summary": "<p>Europe’s wildfire season used to typically run from July to September, but now data shows that it is getting longer and more intense. By July 22nd the  burned area in [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/wildfire-2026-07/\">Wildfire</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/07/31/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-31-2/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
     "title": "Raspberry Pi 5 Case for Pimoroni NVMe Base #3DThursday #3DPrinting",
@@ -112,25 +98,46 @@
     "summary": "tdack. shares: A dedicated case for the Raspberry Pi 5 with a Pimoroni NVMe base fitted. Uses the silicon dots from the Pimoroni parts package stuck to the bottom of the NVMe base as standoffs. Clean, purpose-built for one of the most popular NVMe expansion options for the Pi 5 download the files on: https://makerworld.com/en/models/170315 [&#8230;]"
   },
   {
+    "title": "Innodisk Introduces DDR5 12800 MT/s MRDIMM for AI and High-Performance Computing",
+    "source": "EE Journal",
+    "date": "2026-07-31",
+    "url": "https://www.eejournal.com/industry_news/innodisk-introduces-ddr5-12800-mt-s-mrdimm-for-ai-and-high-performance-computing/",
+    "summary": "Innodisk, a leading global AI solution provider, introduces the DDR5 12800 MT/s MRDIMM to support the rapid growth of generative AI, large language models (LLMs), and robotics applications. With an industry leading data rate of 12800 MT/s, this advanced memory module delivers exceptional bandwidth efficiency and scalability to meet the growing processing demands of AI-driven &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/innodisk-introduces-ddr5-12800-mt-s-mrdimm-for-ai-and-high-performance-computing/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Innodisk Introduces DDR5 12800 MT/s MRDIMM for AI and High-Performance Computing\"</span></a>"
+  },
+  {
+    "title": "New small DP12IP series current transducer from Danisense delivers ppm-class precision",
+    "source": "EE Journal",
+    "date": "2026-07-31",
+    "url": "https://www.eejournal.com/industry_news/new-small-dp12ip-series-current-transducer-from-danisense-delivers-ppm-class-precision/",
+    "summary": "Key points: DP12IP series current transducer from Danisense delivers ppm-class precisionwith maximum linearity error of just 10 ppm Compact PCB-mount package featuring a form factor of only 32mm and weighing only 250g Supports current measurement up to 18A and accommodates measurement resistors up to 100 Ω at full scale Danisense, the leader in high-accuracy current sense &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/new-small-dp12ip-series-current-transducer-from-danisense-delivers-ppm-class-precision/\">Read More &#8594;<span class=\"screen-reader-text\"> \"New small DP12IP series current transducer from Danisense delivers ppm-class precision\"</span></a>"
+  },
+  {
+    "title": "New UFS 5.0 Embedded Flash Memory Devices from KIOXIA Enable On-Device AI",
+    "source": "EE Journal",
+    "date": "2026-07-31",
+    "url": "https://www.eejournal.com/industry_news/new-ufs-5-0-embedded-flash-memory-devices-from-kioxia-enable-on-device-ai/",
+    "summary": "KIOXIA Europe GmbH today announced its UFS(1) 5.0 embedded flash memory solutions, designed to deliver the performance, efficiency and capacity required for the next generation of AI-enabled mobile and edge devices. The new solutions will be demonstrated next week at FMS: the Future of Memory and Storage and are now available as commercial samples in 1 TB and 512 &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/new-ufs-5-0-embedded-flash-memory-devices-from-kioxia-enable-on-device-ai/\">Read More &#8594;<span class=\"screen-reader-text\"> \"New UFS 5.0 Embedded Flash Memory Devices from KIOXIA Enable On-Device AI\"</span></a>"
+  },
+  {
+    "title": "IDS expands its range of rugged industrial cameras with Sony STARVIS 2 sensors",
+    "source": "EE Journal",
+    "date": "2026-07-31",
+    "url": "https://www.eejournal.com/industry_news/ids-expands-its-range-of-rugged-industrial-cameras-with-sony-starvis-2-sensors/",
+    "summary": "When production systems are cleaned using high-pressure jets, operate in dusty environments or are exposed to sub-zero temperatures, particularly robust machine vision solutions are required. The uEye FA series from IDS Imaging Development Systems GmbH has been specifically designed for such demanding environments, featuring IP69K protection. Starting in late July, the range will expand to &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/ids-expands-its-range-of-rugged-industrial-cameras-with-sony-starvis-2-sensors/\">Read More &#8594;<span class=\"screen-reader-text\"> \"IDS expands its range of rugged industrial cameras with Sony STARVIS 2 sensors\"</span></a>"
+  },
+  {
+    "title": "Math-First AI: How Kodamai Embeds Verification and Trust",
+    "source": "EE Journal",
+    "date": "2026-07-31",
+    "url": "https://www.eejournal.com/fish_fry/math-first-ai-how-kodamai-embeds-verification-and-trust/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-28-2026-01_41_46-PM-300x300.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />My podcast guest this week is Dr. Maha Achour, CEO and Founder of Kodamai. Maha and I chat about the shifting landscape of AI and how we can move beyond cloud and centralized data centers to a more distributed, agentic future. We discuss why governance must &#8216;travel&#8217; with AI agents, what it means for trust &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/fish_fry/math-first-ai-how-kodamai-embeds-verification-and-trust/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Math-First AI: How Kodamai Embeds Verification and Trust\"</span></a>"
+  },
+  {
     "title": "Rebuilding an Obsolete IC to Save a Betacam SP Tapedeck",
     "source": "Hackaday",
     "date": "2026-07-30",
     "url": "https://hackaday.com/2026/07/30/rebuilding-an-obsolete-ic-to-save-a-betacam-sp-tapedeck/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"487\" src=\"https://hackaday.com/wp-content/uploads/2026/07/toshiba_IC_replacement.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Betacam is not the Betamax you may have had at home&#8211; it was a professional format that lived on into the 21st century, in the &#8220;SP&#8221; form. In many places, <a class=\"read-more\" href=\"https://hackaday.com/2026/07/30/rebuilding-an-obsolete-ic-to-save-a-betacam-sp-tapedeck/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Fixing a JMicron-Based M.2 USB Enclosure That Stopped Working",
-    "source": "Hackaday",
-    "date": "2026-07-30",
-    "url": "https://hackaday.com/2026/07/30/fixing-a-jmicron-based-m-2-usb-enclosure-that-stopped-working/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"506\" src=\"https://hackaday.com/wp-content/uploads/2026/07/jmicron_orico_ssd_enclosure_fix_mark_furneaux_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As useful as USB-to-M.2 SSD adapters are, sometimes you come across a bit of a dud. A case in point is the Orico-branded TCM2-C3 that features both an attractive clear <a class=\"read-more\" href=\"https://hackaday.com/2026/07/30/fixing-a-jmicron-based-m-2-usb-enclosure-that-stopped-working/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Pizza Eye Surgery Saves Hemispherical Projector",
-    "source": "Hackaday",
-    "date": "2026-07-30",
-    "url": "https://hackaday.com/2026/07/30/pizza-eye-surgery-saves-hemispherical-projector/",
-    "summary": "<div><img alt=\"The newly surgerized internals\" class=\"attachment-large size-large wp-post-image\" height=\"451\" src=\"https://hackaday.com/wp-content/uploads/2026/07/eyeball2-e1785349172312.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you ever make it to DNA Pizza in San Francisco, you may feel as though you&#8217;re being watched. The Eye of the Pizza is Upon You. Or, it was, <a class=\"read-more\" href=\"https://hackaday.com/2026/07/30/pizza-eye-surgery-saves-hemispherical-projector/\">&#8230;read more</a>"
   },
   {
     "title": "ESP-KVM – An open-source IP KVM solution based on ESP32-P4 RISC-V MCU",
@@ -173,27 +180,6 @@
     "date": "2026-07-30",
     "url": "https://www.embedded.com/why-sustained-performance-defines-the-next-phase-of-edge-ai/",
     "summary": "<p>Avnet Silica details why sustained performance, not peak compute, will define the next phase of edge AI.</p>\n<p>The post <a href=\"https://www.embedded.com/why-sustained-performance-defines-the-next-phase-of-edge-ai/\">Why Sustained Performance Defines the Next Phase of Edge AI</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Fable: The Wise Laureate",
-    "source": "Electronics Weekly",
-    "date": "2026-07-30",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-wise-laureate-2026-07/",
-    "summary": "<p>A Nobel Physics Laureate who is 101 years old laid down five rules for being a successful researcher: Don&#8217;t allow yourself to be trapped by your past experiences. Don&#8217;t allow [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-wise-laureate-2026-07/\">Fable: The Wise Laureate</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Intel to license x86 RTL code",
-    "source": "Electronics Weekly",
-    "date": "2026-07-30",
-    "url": "https://www.electronicsweekly.com/news/business/intel-to-license-x86-rtl-code-2026-07/",
-    "summary": "<p>Intel is intending to ship RTL code for its x86 Atom processor to Rosaic Labs, a startup incorporated last May, reports Reuters. Rosaic CEO Amarjit Gill (pictured) and Intel CEO [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/intel-to-license-x86-rtl-code-2026-07/\">Intel to license x86 RTL code</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Samsung Q2 chip profit hits $62bn",
-    "source": "Electronics Weekly",
-    "date": "2026-07-30",
-    "url": "https://www.electronicsweekly.com/news/business/samsung-q2-chip-profit-hits-62bn-2026-07/",
-    "summary": "<p>Samsung reported a $62bn Q2 profit for its chip division up 250-fold y-o-y. The company had Q2 revenue of $119bn. “The supply shortage in 2027 is expected to worsen compared [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/samsung-q2-chip-profit-hits-62bn-2026-07/\">Samsung Q2 chip profit hits $62bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Modular Smart Lamp – E26 Bulb Base Configurator #3DThursday #3DPrinting",
@@ -252,27 +238,6 @@
     "summary": "There will be no John Park&#8217;s Workshop today as the internet seems to have gone *poof*. Please come back next week for a fresh new show! Join maker John Park in his workshop each week as he builds, demos, hacks, and mods projects live on air! “John Park’s Workshop — LIVE” is the place to [&#8230;]"
   },
   {
-    "title": "JST Plug Puller #3Dprinting #3DThursday",
-    "source": "Adafruit",
-    "date": "2026-07-30",
-    "url": "https://blog.adafruit.com/2026/07/30/jst-plug-puller-3dprinting-3dthursday/",
-    "summary": "kevr102 shared a tool for disconnecting the JST Connectors on the Lipo Battery Balance Leads when charging the batteries, disconnecting the plugs by pulling on the cables is not good practice, and a pain in the butt if you pull a wire out of the connector Download files: https://makerworld.com/en/models/3092288-jst-plug-puller#profileId-3484384 Every Thursday is #3dthursday here at [&#8230;]"
-  },
-  {
-    "title": "After 40 years, Aliens is still shaping the way video games are made",
-    "source": "Adafruit",
-    "date": "2026-07-30",
-    "url": "https://blog.adafruit.com/2026/07/30/after-40-years-aliens-is-still-shaping-the-way-video-games-are-made/",
-    "summary": "Super thoughtful piece by The Guardian&#8216;s Keith Stuart on how James Cameron&#8217;s Aliens is still influencing video game design 40 years on. It’s little wonder that the film has had such a profound effect on video game design. Take the colonial marines, for example. Although the concept of the space soldier had been around in [&#8230;]"
-  },
-  {
-    "title": "Gridfinity Resistor Bin – 7 Resistor Types #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-07-30",
-    "url": "https://blog.adafruit.com/2026/07/30/gridfinity-resistor-bin-7-resistor-types-3dthursday-3dprinting/",
-    "summary": "Remix by ondrejbek8 shares: gridfinity-resistor-binA Gridfinity bin sized for 7 different resistor types. Compact, minimalist third alternative for the resistor/organizer block. By ondrejbek download the files on: https://makerworld.com/en/models/686275-gridfinity-resistor-bin Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making solid objects from digital models. Recently, we have noticed [&#8230;]"
-  },
-  {
     "title": "EMASS Collaborates with Bosch Sensortec to Deliver Edge AI Asset Tracking Solution",
     "source": "EE Journal",
     "date": "2026-07-30",
@@ -306,34 +271,6 @@
     "date": "2026-07-30",
     "url": "https://www.eejournal.com/industry_news/synopsys-showcases-comprehensive-autonomous-engineering-workflows-from-silicon-to-systems-developed-with-nvidia-technology/",
     "summary": "Key Highlights Synopsys unveils a fully autonomous long-running design verification agent that orchestrates the entire chip verification cycle delivering up to 50X faster time-to-validated RTL while achieving 20% additional coverage improvement Demonstrating Synopsys&#8217; first fully autonomous computer-aided engineering (CAE) workflow for thermal management and electronic device cooling capable of autonomously executing set-up, pre-processing, and post-processing &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/synopsys-showcases-comprehensive-autonomous-engineering-workflows-from-silicon-to-systems-developed-with-nvidia-technology/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Synopsys Showcases Comprehensive Autonomous Engineering Workflows from Silicon to Systems, Developed with NVIDIA Technology\"</span></a>"
-  },
-  {
-    "title": "New Infineon SPOC™ Wire Guard 12V automotive eFuse supports software-defined vehicles",
-    "source": "EE Journal",
-    "date": "2026-07-30",
-    "url": "https://www.eejournal.com/industry_news/new-infineon-spoc-wire-guard-12v-automotive-efuse-supports-software-defined-vehicles/",
-    "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) has expanded its automotive power distribution portfolio with the SPOC™ Wire Guard BTS80009 SWPx 1ES, a highly integrated 12 V automotive eFuse with SPI interface. As the first member of a new smart power switch family, it combines a protected high-side switch with integrated I²t wire protection, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/new-infineon-spoc-wire-guard-12v-automotive-efuse-supports-software-defined-vehicles/\">Read More &#8594;<span class=\"screen-reader-text\"> \"New Infineon SPOC™ Wire Guard 12V automotive eFuse supports software-defined vehicles\"</span></a>"
-  },
-  {
-    "title": "Teledyne HiRel Semiconductors Introduces Isolated GaN Gate Driver  for High-Efficiency Power Conversion Systems",
-    "source": "EE Journal",
-    "date": "2026-07-30",
-    "url": "https://www.eejournal.com/industry_news/teledyne-hirel-semiconductors-introduces-isolated-gan-gate-driver-for-high-efficiency-power-conversion-systems/",
-    "summary": "Teledyne HiRel Semiconductors, a business unit of Teledyne Technologies  Incorporated and a leading supplier of high-reliability semiconductor solutions, with more than a decade of experience in gallium nitride (GaN) for aerospace, defense, space and industrial applications, today announced the release of the TDGD85110EP, an isolated, single-channel gate driver that simplifies the implementation of GaN transistors &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/teledyne-hirel-semiconductors-introduces-isolated-gan-gate-driver-for-high-efficiency-power-conversion-systems/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Teledyne HiRel Semiconductors Introduces Isolated GaN Gate Driver  for High-Efficiency Power Conversion Systems\"</span></a>"
-  },
-  {
-    "title": "ALL.SPACE Launches Hydra MAX Wideband Ka Platform for Resilient Multi-Orbit Operations",
-    "source": "EE Journal",
-    "date": "2026-07-30",
-    "url": "https://www.eejournal.com/industry_news/all-space-launches-hydra-max-wideband-ka-platform-for-resilient-multi-orbit-operations/",
-    "summary": "Hydra MAX unlocks next-generation wideband Ka networks while maintaining simultaneous multi-orbit connectivity on the move, delivering 500 MHz of instantaneous bandwidth per Ka beam Tested with government customers, Hydra MAX provides network-agnostic interoperability across leading commercial and government Ka-band networks, along with sovereign modem flexibility and optional DIFI-over-fiber connectivity The launch follows York Space Systems’ &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/all-space-launches-hydra-max-wideband-ka-platform-for-resilient-multi-orbit-operations/\">Read More &#8594;<span class=\"screen-reader-text\"> \"ALL.SPACE Launches Hydra MAX Wideband Ka Platform for Resilient Multi-Orbit Operations\"</span></a>"
-  },
-  {
-    "title": "When Chatbots Start Chatting to Each Other",
-    "source": "EE Journal",
-    "date": "2026-07-30",
-    "url": "https://www.eejournal.com/article/when-chatbots-start-chatting-to-each-other/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/07/max-0505-image-for-home-page-testmu-ai-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />One of the many things I haven’t really thought much about before is how people test websites these days. I know how we used to do it in the early days of the public-facing internet (when dinosaurs roamed the Earth). This was long before things like AI-assisted vibe coding were a twinkle in anyone’s eye. &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/when-chatbots-start-chatting-to-each-other/\">Read More &#8594;<span class=\"screen-reader-text\"> \"When Chatbots Start Chatting to Each Other\"</span></a>"
   },
   {
     "title": "NXP RW610FML Wi-Fi 6 and BLE 5.4 module features RW610 Cortex-M33 wireless MCU",
@@ -397,13 +334,6 @@
     "date": "2026-07-28",
     "url": "https://www.embedded.com/a-new-route-to-fault-tolerant-quantum-computers/",
     "summary": "<p>After early proof-of-concept demonstrations, quantum computing (QC) and quantum sensing (QS) are quickly moving toward practical technologies. While much focus is devoted to increasing the number of qubits to make quantum processors more capable, an equally important effort is directed at improving their quality. Quantum systems are extremely sensitive to the environment they interact with, [...]</p>\n<p>The post <a href=\"https://www.embedded.com/a-new-route-to-fault-tolerant-quantum-computers/\">A New Route to Fault-Tolerant Quantum Computers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Andes Technology and Mirabilis Design Announce Collaboration on System-Level Models for Andes RISC-V Processor IP",
-    "source": "EE Journal",
-    "date": "2026-07-28",
-    "url": "https://www.eejournal.com/industry_news/andes-technology-and-mirabilis-design-announce-collaboration-on-system-level-models-for-andes-risc-v-processor-ip/",
-    "summary": "Hsinchu, Taiwan / Santa Clara, CA – July 27th, 2026 – Andes Technology, a leading supplier of high-performance, energy-efficient RISC-V processor IP and a Founding Premier Member of RISC-V International, and Mirabilis Design today announced a strategic collaboration to deliver system-level architecture models for Andes RISC-V processors. This partnership empowers SoC architects to evaluate and optimize processor-based designs &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/andes-technology-and-mirabilis-design-announce-collaboration-on-system-level-models-for-andes-risc-v-processor-ip/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Andes Technology and Mirabilis Design Announce Collaboration on System-Level Models for Andes RISC-V Processor IP\"</span></a>"
   },
   {
     "title": "Synopsys, AMD, and Microsoft Expand Agentic AI for EDA",

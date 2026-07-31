@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-31 13:22 UTC
+Last Updated: 2026-07-31 15:51 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,6 +8,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-07-31 | Advancing responsible AI across Europe | OpenAI | [link](https://openai.com/index/advancing-responsible-ai-across-europe) |
+| 2026-07-31 | Building abundant intelligence | OpenAI | [link](https://openai.com/index/building-abundant-intelligence) |
 | 2026-07-31 | Univé builds an AI-ready workforce | OpenAI | [link](https://openai.com/index/unive) |
 | 2026-07-30 | Advancing the price-performance frontier with GPT-5.6 | OpenAI | [link](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6) |
 | 2026-07-30 | How avatarin built a 24/7 retail agent with GPT-Realtime | OpenAI | [link](https://openai.com/index/avatarin) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-29 | Accelerating scientific discovery with ChatGPT for Academic Researchers | OpenAI | [link](https://openai.com/index/chatgpt-for-academic-researchers) |
 | 2026-07-29 | How GPT-5.6 fuses frontier intelligence with frontier efficiency | OpenAI | [link](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency) |
 | 2026-07-28 | Scientific computing in the age of agentic AI | OpenAI | [link](https://openai.com/index/scientific-computing-agentic-ai) |
-| 2026-07-28 | The OlmoEarth Platform: Geospatial inference at planetary scale | Hugging Face | [link](https://huggingface.co/blog/allenai/olmoearth-infrastructure) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,6 +49,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-07-31 | Hacking a Commercial Colorimeter to add RAL Color Code Support | Hackaday | [link](https://hackaday.com/2026/07/31/hacking-a-commercial-colorimeter-to-add-ral-color-code-support/) |
+| 2026-07-31 | This Week in Security: What’s in a name, the AI Bugpocalypse Hits Everyone, OpenWRT flaws, and Duress Passwords | Hackaday | [link](https://hackaday.com/2026/07/31/this-week-in-security-whats-in-a-name-the-ai-bugpocalypse-hits-everyone-openwrt-flaws-and-duress-passwords/) |
 | 2026-07-31 | Building a Reproduction PlayStation Motherboard | Hackaday | [link](https://hackaday.com/2026/07/31/building-a-reproduction-playstation-motherboard/) |
 | 2026-07-31 | Using the Chimney Effect to Drop Passively Cooled PC Temperatures | Hackaday | [link](https://hackaday.com/2026/07/31/using-the-chimney-effect-to-drop-passively-cooled-pc-temperatures/) |
 | 2026-07-31 | Custom Beach Robot Handles the Hard Work | Hackaday | [link](https://hackaday.com/2026/07/30/custom-beach-robot-handles-the-hard-work/) |
@@ -57,8 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-31 | reTerminal Sticky 3.97-inch touch ePaper display is supported by four open-source firmware projects (so far) | CNX Software | [link](https://www.cnx-software.com/2026/07/31/reterminal-sticky-3-97-inch-magnetic-touch-epaper-display-is-supported-by-four-open-source-firmware-projects/) |
 | 2026-07-31 | Maker Go ESP32-C5-EVB board features RS-485 interface, four relays, four opto-isolated inputs | CNX Software | [link](https://www.cnx-software.com/2026/07/31/maker-go-esp32-c5-evb-board-features-rs-485-interface-four-relays-four-opto-isolated-inputs/) |
 | 2026-07-31 | Mikroe Integrates Swift Navigation Skylark with GNSS 19 Click | Embedded.com | [link](https://www.embedded.com/mikroe-integrates-swift-navigation-skylark-with-gnss-19-click/) |
-| 2026-07-31 | Amazon has Q2 sales of $200bn | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/amazon-has-q2-sales-of-200bn-2026-07/) |
-| 2026-07-31 | First genuinely driverless robotaxi gets regulatory approval | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/first-genuine-driverless-2026-07/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-31 | OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_New | 0 | 0 | [link](https://huggingface.co/OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_New) |
+| 2026-07-31 | access-robotics-team/so-p5-pp-ma-260731-v2 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-p5-pp-ma-260731-v2) |
 | 2026-07-31 | HarrisonPENG/M2W-VLA-RoboTwin | 361 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-07-31 | access-robotics-team/so-p5-pp-ma-260731 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-p5-pp-ma-260731) |
 | 2026-07-31 | JIANGdk0303/robot8_20260728_maopa_act_dinov3_all23_baseline | 0 | 0 | [link](https://huggingface.co/JIANGdk0303/robot8_20260728_maopa_act_dinov3_all23_baseline) |
@@ -85,22 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-31 | RobotisSW/Task_0728_Dispose_Low_Table_30K | 1 | 0 | [link](https://huggingface.co/RobotisSW/Task_0728_Dispose_Low_Table_30K) |
 | 2026-07-31 | RobotisSW/Task_0728_Dispose_Low_Table_10K | 1 | 0 | [link](https://huggingface.co/RobotisSW/Task_0728_Dispose_Low_Table_10K) |
 | 2026-07-31 | RobotisSW/N17_pick_chestnuts_70k | 0 | 0 | [link](https://huggingface.co/RobotisSW/N17_pick_chestnuts_70k) |
-| 2026-07-31 | vladmandic/SeFi-Image-5B-Turbo | 0 | 0 | [link](https://huggingface.co/vladmandic/SeFi-Image-5B-Turbo) |
-| 2026-07-31 | vladmandic/SeFi-Image-2B-Turbo | 0 | 0 | [link](https://huggingface.co/vladmandic/SeFi-Image-2B-Turbo) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1430 | Rust | 572.1 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 897 | Python | 358.9 | [link](https://github.com/mosaico-labs/mosaico) |
+| awslabs/awsome-distributed-ai | 468 | Shell | 187.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63274 | Python | 25309.7 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 16078 | Python | 6431.3 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16079 | Python | 6431.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15580 | C++ | 6232.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14395 | C++ | 5758.1 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 12185 | JavaScript | 4874.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11220 | Rust | 4488.1 | [link](https://github.com/rerun-io/rerun) |
-| RLinf/RLinf | 4360 | Python | 1744.1 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3857 | Rust | 1542.9 | [link](https://github.com/dora-rs/dora) |
-| mani-skill/ManiSkill | 3184 | Python | 1273.7 | [link](https://github.com/mani-skill/ManiSkill) |
+| RLinf/RLinf | 4361 | Python | 1744.5 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,16 +119,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-07-31 | SK Telecom partners with physical AI startups - The Korea News Plus | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
+| 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
+| 2026-07-31 | SK Telecom partners with physical AI startups - newsarticleinsiders.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
 | 2026-07-31 | SK Telecom will expand cooperation with domestic physical artificial intelligence (AI) startups to b.. - 매일경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4eG9vb1NXZ3o2TjlRbEZzODlFYVFSYmFKanVXc2kzR2p2dEtpREN4M21CMkZ3WWEtNlBvNms3T1FmemkycGtnVVl4Zw?oc=5) |
 | 2026-07-31 | SK Telecom unites eight Korean physical AI startups to grow robotics ecosystem - CHOSUNBIZ - Chosunbiz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZTi1sb3poVG9kelVVNzdnRmota3ZMeW5fUTd6cnNWMmswQTdSUHVZYS1mWG5aOVBxMC1xZVlIeFczOTJ6WlhhSWZ1Zm00c3F6R2xuOE1yNnI5Y3NJMVNwR3pWb0JKVXF5TDBCbmY4WEhHYzZYcEdVT3hR0gGOAUFVX3lxTE51TERkQmQ1WGFFdmpxZjlYNDlJRmpTa1ZLQXlxVF9VamcxLUhxbk9Yekw3UkJfVEwwT0I4RWM5UmdwSzhHNGlkdUdGcGFqd0ZJb3U0d04taFBQRFBYUDc3MWxrMU5QdThEdG5sOElRVUszMXpUOXdOWWh2eTRyMFlXWFhyc0FtbTdJLWhUYWc?oc=5) |
 | 2026-07-31 | SKT Holds Physical AI Startup Meeting: "We Will Build an Open Ecosystem" - 아시아경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZEFVX3lxTE84X1ZrX3dNZlR6eldndDctVU5maVVPUnA0cVpodXRUWTlMUVppaVVycl9CcnFoTXF3djUyejRYWXhfQ3Jwa0lNdHlwMWNyQWlYYTY1SUxLeEZHXzNvT0hTbS1JSnY?oc=5) |
 | 2026-07-31 | SKT Teams Up With 8 Physical AI Startups to Expand Robotics Ecosystem - Seoul Economic Daily | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaVpudER5Vm02OFotbnZTUjItYmpLdWtEaFM1Y1VMVGxmSHBrOEJYQWpRSDhFTUNRdHVIMktsZGI4QjMxOEVvd1NMbF9XNnJZOTJhTXAyeVpwMEN1YjVQYnhsMV9FazhZX3htTDROdW1tdEQ1NE1NUWZZaVVOalpROC1qZjF3Vm50WGFrVEx3bHRJTkk1anZUMndWc3p2NDAzV2E2VEJZOA?oc=5) |
 | 2026-07-31 | Trump's robot ban aims to counter China. US startups fear it could leave them behind. - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxNMEdvUmhSZmFXdHhmX1RSVThrVVpaZGVkUFZZbF9CcGRxU0puX2VwOXE1Y3lpOGhUOXlmdlY3U3lXb3VCTlQxdzdHQ0dsLWpZdEVacWFUOUQwalZ5OXlYMkt3NmdPLXVIeW5mcEFYcDJDWUxfNzdpZldaX3NHTmRwbjRxV1V5ak5RTUN3T3k0aTI5TlppNmVUbmhSXzlpZw?oc=5) |
+| 2026-07-31 | Startup Offers $30-Per-Hour Humanoid Robot Cleaners - Newser | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1dDYmhvamhZX3Z6M3FPbEVMNTJpYTZPdC1aQkNsUENwLWNTbzVuVGx4QVF5OWV3ZmpuSC02M0lLOGJ4akVWOC16Qi1rZHBYVGs0b3EyRTl4SFBGTUlOUGM0VGY5ejFOUXYzLWdtbWtvRldrcEI5YjVFSzFpOERJYjJUTzEwOHNVelhIaC1JYWN0QlBsMkE?oc=5) |
 | 2026-07-31 | Robotics startup debuts humanoid housekeepers - Yahoo | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2htOEswdEtCcTQwSkRqbXNJdFpQbnlZbDMzQU9VaHRMSUpRVVo0Q2tFQjd6RXFqdDd1NDFMSG53Qm9KaENDMG1ES1p2RmpRX1NiS09td1J6enljN2NLdzRzckpGc08xN2g5Z0s0SnA4ZUtlOTJJeDEtZ2lYSk5hWV9ndXczYkV6TlJjM0NuSWZ6VUtxZ1l6cjVB?oc=5) |
 | 2026-07-30 | AI startup moves headquarters to Roundhouse at Hazelwood Green - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOektfcmhuakZHbThYQU1oTmFUX002c09sNzNKSmNYank0S3Y2QjZGbWJ1amZ2Z2F5MlMyU0F6bGRQRkcyQzEwQ2lVeTVDeGJrM2dtRzFOXzh1SHdLc1BqbTFRSG4xYWtsTms0a3ZnbGcyOFMxZ3ZoRWN1UlZWRFl5MWQ5SUFNMnVxM19yc296ZndHQnRqdUpzejNmR3lpbkpVNXRnNkxkMlZvaWxX?oc=5) |
-| 2026-07-30 | You can hire these humanoid robots from Tau Robotics to clean your home in San Francisco - ABC7 Bay Area | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlh2ZGNFRkdmV1JaMGE3OE55YTlJdGRKeDRwTW5Oa1VEdTVFTTYzWDd4Z1VRNVdBaVlsRzkyNzJGdWVsR0lfUXkxSFNHb05UWm9hRF9BN1doeC1vLWxYUEl4SGVzSmFPN1NKS29PWUk4U0VCY0ZTU2JQQ24tZWtxLWU5NTFaLXNpME9kcTBpNUJqUlpYa05DYTU2SHZadGvSAaQBQVVfeXFMTXhlanNMblNPVi0tWjZMaEZMNzJEdTE1d21VWnZUSndkdnVHajFwT1Z0U243U2phRzVNUE1sNEt2R3Z3VHpUaFR6Mng4RHIxYThyd1ZsMnhFMXN1MUtGalRUTmhkUkd5a2ozcHZvaFI4TkdTbnV3cmdIOXEwY0lRek1fdFlWMGduRktMN2tCbUhuQ1pnS0owYzI2b2lCTkdjT0pHNFM?oc=5) |
-| 2026-07-30 | Chinese Startups Dominate Humanoid Robotics Patent Rankings - AI Business | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxQOW1PeHllX3loSmxRLW9oWnYwb3Z6b0tFWUVCZVAtbkVuNFRzQXZ0d3p2enRWekFmZ1pwdzFMSUtHSEJic3dQRDN4Q09MRFN5UExsTl8yM0JvOGZ6NTVleUpzcGQxX3ZYUUp4cEFfaWREYnJfZzBJVFpoRXFNOW5RVFIyLW5WdzJjc2c?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

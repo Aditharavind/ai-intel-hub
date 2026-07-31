@@ -1,5 +1,23 @@
 [
   {
+    "model": "OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_New",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_New",
+    "date": "2026-07-31",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "access-robotics-team/so-p5-pp-ma-260731-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/access-robotics-team/so-p5-pp-ma-260731-v2",
+    "date": "2026-07-31",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "HarrisonPENG/M2W-VLA-RoboTwin",
     "downloads": 361,
     "likes": 0,
@@ -72,6 +90,24 @@
     "score": 0.1
   },
   {
+    "model": "sam-guided-vlas/pi05_rs-train_1_2-overlay-a075",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/pi05_rs-train_1_2-overlay-a075",
+    "date": "2026-07-31",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "EmpathicRobotics/vla-1.7b-qwen3-v7",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/EmpathicRobotics/vla-1.7b-qwen3-v7",
+    "date": "2026-07-31",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "vladmandic/SeFi-Image-5B-Turbo",
     "downloads": 0,
     "likes": 0,
@@ -126,15 +162,6 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/pi05_rs-train_1_2-overlay-a075",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/pi05_rs-train_1_2-overlay-a075",
-    "date": "2026-07-31",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-stack-joint-2cam-yanZ",
     "downloads": 47,
     "likes": 0,
@@ -160,15 +187,6 @@
     "date": "2026-07-31",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/pi05_rs-train_1_2-overlay-a050",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/pi05_rs-train_1_2-overlay-a050",
-    "date": "2026-07-31",
-    "keyword": "vla",
-    "score": 1.9
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-stage2-lora-adapter-epoch3-v2",
@@ -231,6 +249,15 @@
     "url": "https://huggingface.co/ubr-physical-ai/UBR-Nav-E4B",
     "date": "2026-07-31",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "policyengine/policyengine-uk-data-private",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/policyengine/policyengine-uk-data-private",
+    "date": "2026-07-31",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -333,24 +360,6 @@
     "score": 0.1
   },
   {
-    "model": "GM717/cosmos3-edge-robotwin-aloha-agilex",
-    "downloads": 5,
-    "likes": 0,
-    "url": "https://huggingface.co/GM717/cosmos3-edge-robotwin-aloha-agilex",
-    "date": "2026-07-30",
-    "keyword": "robot",
-    "score": 1.6
-  },
-  {
-    "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
-    "downloads": 493,
-    "likes": 17,
-    "url": "https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1",
-    "date": "2026-07-30",
-    "keyword": "robot",
-    "score": 151.4
-  },
-  {
     "model": "flashrt/world-model-conv",
     "downloads": 0,
     "likes": 0,
@@ -385,15 +394,6 @@
     "date": "2026-07-30",
     "keyword": "policy",
     "score": 3.1
-  },
-  {
-    "model": "Archaive16/act_policy_base",
-    "downloads": 38,
-    "likes": 0,
-    "url": "https://huggingface.co/Archaive16/act_policy_base",
-    "date": "2026-07-30",
-    "keyword": "policy",
-    "score": 11.5
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-v2",
@@ -571,15 +571,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v4",
-    "date": "2026-07-23",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "silent666/robotics-vla-basic-cnn-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/silent666/robotics-vla-basic-cnn-v2",
     "date": "2026-07-23",
     "keyword": "robotics",
     "score": 0.1
