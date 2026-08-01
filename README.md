@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-01 11:10 UTC
+Last Updated: 2026-08-01 12:45 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-01 | Top 10 robotics stories of July 2026 | Robotics Business Review | [link](https://www.therobotreport.com/top-10-robotics-stories-july-2026/) |
 | 2026-07-31 | Procore Technologies acquires DroneDeploy for $845M | Robotics Business Review | [link](https://www.therobotreport.com/procore-technologies-acquires-dronedeploy-845m/) |
 | 2026-07-31 | KUKA deploys Automation Management Platform for North American automakers | Robotics Business Review | [link](https://www.therobotreport.com/kuka-deploys-automation-management-platform-north-american-automakers/) |
 | 2026-07-31 | FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing | Robotics Business Review | [link](https://www.therobotreport.com/fcc-robot-ruling-shines-spotlight-on-u-s-policy-how-next-gen-ai-can-help-warehousing/) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-29 | Experts react to FCC limits on U.S. imports of new humanoid and mobile robots | Robotics Business Review | [link](https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots/) |
 | 2026-07-29 | GMEX Robotics to acquire MediaMeta.ai for social intelligence | Robotics Business Review | [link](https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/) |
 | 2026-07-28 | How integrated actuators improve humanoid robot joint performance and system integration | Robotics Business Review | [link](https://www.therobotreport.com/how-integrated-actuators-improve-humanoid-robot-joint-performance-and-system-integration/) |
-| 2026-07-28 | Robot Finger Feels in Color | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/robot-finger) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -61,7 +61,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-31 | reTerminal Sticky 3.97-inch touch ePaper display is supported by four open-source firmware projects (so far) | CNX Software | [link](https://www.cnx-software.com/2026/07/31/reterminal-sticky-3-97-inch-magnetic-touch-epaper-display-is-supported-by-four-open-source-firmware-projects/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-07-30 | ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine | [link](https://arxiv.org/pdf/2607.28625v1) |
+| 2026-07-30 | PhiZero: A World Model Built Around Physical Language | [link](https://arxiv.org/pdf/2607.28624v1) |
+| 2026-07-30 | PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball | [link](https://arxiv.org/pdf/2607.28623v1) |
+| 2026-07-30 | AISPA: User-Centric System Prompt Auditing for Large Language Model Applications | [link](https://arxiv.org/pdf/2607.28617v1) |
+| 2026-07-30 | FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation | [link](https://arxiv.org/pdf/2607.28596v1) |
+| 2026-07-30 | ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation | [link](https://arxiv.org/pdf/2607.28581v1) |
+| 2026-07-30 | X-NavDP: Generalizing Navigation Diffusion Policy to Novel Behavior and Embodiments with Group Q-score Reweighted Matching | [link](https://arxiv.org/pdf/2607.28560v1) |
+| 2026-07-30 | AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans | [link](https://arxiv.org/pdf/2607.28487v1) |
+| 2026-07-30 | Improving Mental Health Screening and Early Risk Detection in Spanish | [link](https://arxiv.org/pdf/2607.28476v1) |
+| 2026-07-30 | TEA-AgriVLN: Traversability Estimation Alarm for Agricultural Vision-and-Language Navigation | [link](https://arxiv.org/pdf/2607.28474v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
@@ -81,21 +92,22 @@ _No items collected yet._
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 2757 | Python | 1102.9 | [link](https://github.com/NVIDIA/skills) |
-| commaai/openpilot | 63282 | Python | 25312.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63283 | Python | 25313.3 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16080 | Python | 6432.1 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15589 | C++ | 6235.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15590 | C++ | 6236.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14403 | C++ | 5761.3 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11298 | Python | 4519.3 | [link](https://github.com/kornia/kornia) |
 | dora-rs/dora | 3857 | Rust | 1542.9 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 2949 | Python | 1179.7 | [link](https://github.com/datawhalechina/every-embodied) |
 | flashrt-project/FlashRT | 476 | C++ | 190.5 | [link](https://github.com/flashrt-project/FlashRT) |
 | sou350121/VLA-Handbook | 459 | HTML | 183.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| luohongk/Embodied-AI-Daily | 393 | HTML | 157.3 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-07-31 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZzdWcHBCZmdvN2J3RTlqVUdmLXB3WUNjSEpQMHA0REduNVcyckdoeHg3LTZkd1pwOTF6cldiUEJ5SXBET2RqbEhPUFhVZHotXzVqTnlXV0tCQTlrOUJ6ZnhZQ1ZxRmIwamJ4WXNnbGR2U01EOUZzeW1JdEFuMWV4Y2dPMTlxbklkMmxJVVJLaDdWTnpwTVJRYzJHQ3MyMDl0Tlh6V2d2N3FxbGt6ck5faXRiQlZudDhVWEhhUGk5OFUzZG1tZGdHYzlfS0plREZHVnc?oc=5) |
 | 2026-07-31 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQazRPbW5hem55NV9sQ1RpWE53YWFmTk00MWlvbXhKZ3ppdWVDVDFOVlhLQUxUUFdQRzNxVk5YNDRtbC0zWGVCcEM2YTU3SWVUbDMxU0ZEN2Q4U1p5Q2lPMmUwVGY5M2k4WHlGdndJVlBDRHo5TGZLS3FhYW9FcjNvaGZRbDgtQ2ZDWUt0RGNtWm1mMnRaamJYY3dMM2Zpd2o5b21XSg?oc=5) |
+| 2026-07-31 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE8wOVpka205M25lMFJ6RWR3ZjZLX2phejdSNVVRTlRjb3FzeFd2SWtVcnVOdWlMcUlqdUVHNm5EUUFkeVBxV1lkSkh6Q2F1VXBWT2g3TzhaNHJhbkJYYWswZ1lhTlhaeHFpU1hKY2NaSndsYzhiZjlwalcxVzFrdw?oc=5) |
 | 2026-07-31 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWRwU1p1ODlONlRQVzV1NWR0ME1xcUV5dnB0S2lWeEFMVmwxS2lHU19kNFlLVC1YTmlkZS1lSlNQWU1kLVh4UHQ0ZjIxcndxWDZUUmpKS3NEbkdreENpYUEtYXZpNmdyeGRfTzc3WHhtYmtVSDIwT0huRFhhaXZ0bmdHcUhXX2Y20gGcAUFVX3lxTE9jZ2QtUFNqblFvWUp5V2ZyNWc0SkFOWlg4eHlpWWFXaTRwb3lqc2hTeTVRWGJIZEtOeGt0cno5VE9XcXdnUHVVOGVveEM2MC01Z2VwUldjS1AxZk51ODlVaVVlRGRDQy1kTmwxN2tUYlQ4aXRqd241X2hTV0hUd1M3dTI2djJ6bTdvRWZtWDI3ZjVjdkUwZGJtMzczWg?oc=5) |
 | 2026-07-30 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNEpXcjRXQkFMQjFxbVVCUnVGQnkyS3A5YVV0OTJXQlJOWmowZ0FHdGtTN0tldWo4c1pyam1HQVU3R1pleWNKdGNCUlliRW03ZTh2VTE0YnJqNEN5cDRvUzhQck4zcjlSX013SUN0bllqT2xkWkdHeUZvZ1JTcG1OYXRFcEJkR1djNDNGZThOTHVubkVDTFNfbUZPdlZBMlVnM0Y1em04N1dleTNYSkRmT1RYclh4OTA?oc=5) |
 | 2026-07-29 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE83cDZaRUhtSl9ocmxQLWNmVXI2Y3lxTVF0allHUGJRNWhpbEZ2N3VUMDRLcEF5VGdhcVdraVJQZi0ycG5WcFM4TnpjR0JqcDZYdS1JMHQtMA?oc=5) |
@@ -103,7 +115,6 @@ _No items collected yet._
 | 2026-07-27 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMVdOTjZURFZMVlNVY2NPMEhuaW4wUW1Ka0VJMUllT0p4Wm5EbnV3QzV4cXlLLWhEWnU2RnBfVlc5SW1iVGlYTEVCR29UY1dscllYY3BxM2dWSHVBY280ZUl2U0xUTGdCMF9nNkZmcUxTMHg1WjhXUnEza1ZqRnRhTldFTzVzWUlWVEl6MjN1YmEwQTNSdGVPUzNHdHVGc2NIMENRc01zYjlnRGdZNExCV0N2X2U2UHpqRWw0?oc=5) |
 | 2026-07-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaXNud1RkdkJLTDF5VVl4SW5QNEdzS3p1ak4zbFN5eUpqMXpLWjZ4Wno3bk5UV3habVdfcmxjZktuTmZWdDJLY3htZmlqSFg4d0FoUTB0cGZlUTlNeXJBbE1lbnVlYjVlWkROWlBzQ1oza0tDX0NKWFpwLWROR3lpbEVCTTJ0cC1vcXRj?oc=5) |
 | 2026-07-24 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
-| 2026-07-21 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPazNGXzVyYllBTTcxTEtONzU2anNoQTlCTDlHLVBGS2l0d3oxa0Ixdjk5N3pFVHBUNHhydlhVUzFqc2prU2gzVUFGdUxLbTd6cUpxaDZUTkxaQWVLaXNIRGhRbVJwd0dCMzJZYjZldi11SXZlN1dRbE9lOVlnRzhDYjF2UEZFeFBpSE9ZdjBJZk1YTkJORHhnUkJ3WncxdXFyclNGck9hdEZMRGdYM0I2Ni1MTFBpcW0yWGdKc1E2SXYwR2JyOGVzZ2lVZFQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -112,12 +123,12 @@ _No items collected yet._
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
 | 2026-07-31 | SK Telecom partners with physical AI startups - The Korea News Plus | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
 | 2026-07-31 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
+| 2026-07-31 | San Francisco company offers cleaning service using humanoid robots - abcnews.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPU09xRXh1cjdLQ3JaVW80MnVtcHhDLXp3dmFua2xfQnVodDVZbnVzVHpQMms5UzJra1ZjWFQtRE9ObFVpSnVtTmJDYkxrenRoelV6SlhibVdPSHhiYi00SE9OSHdqcHA5OEF4Rk1Ga2dKakVfWXEzOTZsUzhuc2g0QWYzbVl6LVZrMk04V0YzUjFBQlJJQ1NYcE1tTGJYMG1DWG9WYjhBZkEyc3Zkc1N1X9IBtgFBVV95cUxQTGZibk1YenNFTGRWLXJJMEZNMGVINUNLdzNUV0laX09zS19pa2Z1MjBiZjdzZU5JWl9lQUh3cDA5cGdxTTZKMnI5NkdIM2tZOUJBUnBBTVFjTFJWSFJ5c1AyTDN0cFFYUVZhaTBOM2Q0cWJtWl9CeGJPUXpaNGFnSWk3QmhDeW41TXRxUEdPTWhNT1JkSHRlMlItV19MbzJHWENDelpBSHN6ZkhheDQ0bjlpdGZLQQ?oc=5) |
 | 2026-07-31 | Trump's robot ban aims to counter China. US startups fear it could leave them behind. - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxNMEdvUmhSZmFXdHhmX1RSVThrVVpaZGVkUFZZbF9CcGRxU0puX2VwOXE1Y3lpOGhUOXlmdlY3U3lXb3VCTlQxdzdHQ0dsLWpZdEVacWFUOUQwalZ5OXlYMkt3NmdPLXVIeW5mcEFYcDJDWUxfNzdpZldaX3NHTmRwbjRxV1V5ak5RTUN3T3k0aTI5TlppNmVUbmhSXzlpZw?oc=5) |
-| 2026-07-31 | Robotics startup debuts humanoid housekeepers - goodmorningamerica.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2YUxtcEoyU3dYeFlLNU15SGhwb200bmk5eXlOX2dLTE5GTF9qU2p5Qk91ZktPbGw3ZGEzTHliQi1oRnJTREtGLW9yY1ltbURYUVNpaEpRSVF5VmV4Rklj0gFkQVVfeXFMTzVJUV9FcW5hWlhkNTB2a3BLSUNKdUtKak5wdnhsY3NqenFrYjNXM1dOdU1oOGRMRXpEbFRxbkJnaFlLSUFFT05uRGdFMHFfam45dHJvQlVHaUtOenR5SExNcGxwWQ?oc=5) |
+| 2026-07-31 | Robotics startup debuts humanoid housekeepers - Good Morning America | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2YUxtcEoyU3dYeFlLNU15SGhwb200bmk5eXlOX2dLTE5GTF9qU2p5Qk91ZktPbGw3ZGEzTHliQi1oRnJTREtGLW9yY1ltbURYUVNpaEpRSVF5VmV4Rklj0gFkQVVfeXFMTzVJUV9FcW5hWlhkNTB2a3BLSUNKdUtKak5wdnhsY3NqenFrYjNXM1dOdU1oOGRMRXpEbFRxbkJnaFlLSUFFT05uRGdFMHFfam45dHJvQlVHaUtOenR5SExNcGxwWQ?oc=5) |
 | 2026-07-31 | Company Says Robot Will Clean Your Home for $30 Per Hour - Newser | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1dDYmhvamhZX3Z6M3FPbEVMNTJpYTZPdC1aQkNsUENwLWNTbzVuVGx4QVF5OWV3ZmpuSC02M0lLOGJ4akVWOC16Qi1rZHBYVGs0b3EyRTl4SFBGTUlOUGM0VGY5ejFOUXYzLWdtbWtvRldrcEI5YjVFSzFpOERJYjJUTzEwOHNVelhIaC1JYWN0QlBsMkE?oc=5) |
 | 2026-07-30 | AI startup moves headquarters to Roundhouse at Hazelwood Green - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOektfcmhuakZHbThYQU1oTmFUX002c09sNzNKSmNYank0S3Y2QjZGbWJ1amZ2Z2F5MlMyU0F6bGRQRkcyQzEwQ2lVeTVDeGJrM2dtRzFOXzh1SHdLc1BqbTFRSG4xYWtsTms0a3ZnbGcyOFMxZ3ZoRWN1UlZWRFl5MWQ5SUFNMnVxM19yc296ZndHQnRqdUpzejNmR3lpbkpVNXRnNkxkMlZvaWxX?oc=5) |
 | 2026-07-30 | Jeff Bezos Backed Both AI Giants and Built a $41B L… - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGhiS3U1ZWtiNWNsYVNPYjFiNEliUHZiX3Z1elp4VDNZWlU1MWV3d2JmUGZtS3Y2cnZ3VkNCWnkxaTJMS1RJRzdPdUtyY0JrQ0YwVXg3ZkFTZzhPY0lCSVpIT3EwV2JQbHdLZy1nS28zeHRES2hwTDU2amE0c2o5ZTVkWEppUVQxelpMTlNjX1Z6Q0lSb2J1NDd4SURwZHoyN2Jxdks2TzY?oc=5) |
-| 2026-07-30 | You can hire these humanoid robots from Tau Robotics to clean your home in San Francisco - ABC7 Bay Area | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlh2ZGNFRkdmV1JaMGE3OE55YTlJdGRKeDRwTW5Oa1VEdTVFTTYzWDd4Z1VRNVdBaVlsRzkyNzJGdWVsR0lfUXkxSFNHb05UWm9hRF9BN1doeC1vLWxYUEl4SGVzSmFPN1NKS29PWUk4U0VCY0ZTU2JQQ24tZWtxLWU5NTFaLXNpME9kcTBpNUJqUlpYa05DYTU2SHZadGvSAaQBQVVfeXFMTXhlanNMblNPVi0tWjZMaEZMNzJEdTE1d21VWnZUSndkdnVHajFwT1Z0U243U2phRzVNUE1sNEt2R3Z3VHpUaFR6Mng4RHIxYThyd1ZsMnhFMXN1MUtGalRUTmhkUkd5a2ozcHZvaFI4TkdTbnV3cmdIOXEwY0lRek1fdFlWMGduRktMN2tCbUhuQ1pnS0owYzI2b2lCTkdjT0pHNFM?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

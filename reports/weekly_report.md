@@ -1,17 +1,23 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-01 11:10 UTC
+Generated: 2026-08-01 12:45 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-07-30 | ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine | [link](https://arxiv.org/pdf/2607.28625v1) |
+| 2026-07-30 | PhiZero: A World Model Built Around Physical Language | [link](https://arxiv.org/pdf/2607.28624v1) |
+| 2026-07-30 | PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball | [link](https://arxiv.org/pdf/2607.28623v1) |
+| 2026-07-30 | AISPA: User-Centric System Prompt Auditing for Large Language Model Applications | [link](https://arxiv.org/pdf/2607.28617v1) |
+| 2026-07-30 | FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation | [link](https://arxiv.org/pdf/2607.28596v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82858 | 33143.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63282 | 25312.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82860 | 33144.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63283 | 25313.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44320 | 17728.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30207 | 12082.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30208 | 12083.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16080 | 6432.1 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
@@ -28,9 +34,9 @@ _No items collected yet._
 | --- | --- | --- | --- |
 | 2026-07-31 | Unitree |  | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZzdWcHBCZmdvN2J3RTlqVUdmLXB3WUNjSEpQMHA0REduNVcyckdoeHg3LTZkd1pwOTF6cldiUEJ5SXBET2RqbEhPUFhVZHotXzVqTnlXV0tCQTlrOUJ6ZnhZQ1ZxRmIwamJ4WXNnbGR2U01EOUZzeW1JdEFuMWV4Y2dPMTlxbklkMmxJVVJLaDdWTnpwTVJRYzJHQ3MyMDl0Tlh6V2d2N3FxbGt6ck5faXRiQlZudDhVWEhhUGk5OFUzZG1tZGdHYzlfS0plREZHVnc?oc=5) |
 | 2026-07-31 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQazRPbW5hem55NV9sQ1RpWE53YWFmTk00MWlvbXhKZ3ppdWVDVDFOVlhLQUxUUFdQRzNxVk5YNDRtbC0zWGVCcEM2YTU3SWVUbDMxU0ZEN2Q4U1p5Q2lPMmUwVGY5M2k4WHlGdndJVlBDRHo5TGZLS3FhYW9FcjNvaGZRbDgtQ2ZDWUt0RGNtWm1mMnRaamJYY3dMM2Zpd2o5b21XSg?oc=5) |
+| 2026-07-31 | Unitree |  | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE8wOVpka205M25lMFJ6RWR3ZjZLX2phejdSNVVRTlRjb3FzeFd2SWtVcnVOdWlMcUlqdUVHNm5EUUFkeVBxV1lkSkh6Q2F1VXBWT2g3TzhaNHJhbkJYYWswZ1lhTlhaeHFpU1hKY2NaSndsYzhiZjlwalcxVzFrdw?oc=5) |
 | 2026-07-31 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWRwU1p1ODlONlRQVzV1NWR0ME1xcUV5dnB0S2lWeEFMVmwxS2lHU19kNFlLVC1YTmlkZS1lSlNQWU1kLVh4UHQ0ZjIxcndxWDZUUmpKS3NEbkdreENpYUEtYXZpNmdyeGRfTzc3WHhtYmtVSDIwT0huRFhhaXZ0bmdHcUhXX2Y20gGcAUFVX3lxTE9jZ2QtUFNqblFvWUp5V2ZyNWc0SkFOWlg4eHlpWWFXaTRwb3lqc2hTeTVRWGJIZEtOeGt0cno5VE9XcXdnUHVVOGVveEM2MC01Z2VwUldjS1AxZk51ODlVaVVlRGRDQy1kTmwxN2tUYlQ4aXRqd241X2hTV0hUd1M3dTI2djJ6bTdvRWZtWDI3ZjVjdkUwZGJtMzczWg?oc=5) |
 | 2026-07-30 | Unitree |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNEpXcjRXQkFMQjFxbVVCUnVGQnkyS3A5YVV0OTJXQlJOWmowZ0FHdGtTN0tldWo4c1pyam1HQVU3R1pleWNKdGNCUlliRW03ZTh2VTE0YnJqNEN5cDRvUzhQck4zcjlSX013SUN0bllqT2xkWkdHeUZvZ1JTcG1OYXRFcEJkR1djNDNGZThOTHVubkVDTFNfbUZPdlZBMlVnM0Y1em04N1dleTNYSkRmT1RYclh4OTA?oc=5) |
-| 2026-07-29 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiV0FVX3lxTE83cDZaRUhtSl9ocmxQLWNmVXI2Y3lxTVF0allHUGJRNWhpbEZ2N3VUMDRLcEF5VGdhcVdraVJQZi0ycG5WcFM4TnpjR0JqcDZYdS1JMHQtMA?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
@@ -39,4 +45,4 @@ _No items collected yet._
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
 | 2026-07-31 | SK Telecom partners with physical AI startups - The Korea News Plus | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
 | 2026-07-31 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
-| 2026-07-31 | Trump's robot ban aims to counter China. US startups fear it could leave them behind. - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxNMEdvUmhSZmFXdHhmX1RSVThrVVpaZGVkUFZZbF9CcGRxU0puX2VwOXE1Y3lpOGhUOXlmdlY3U3lXb3VCTlQxdzdHQ0dsLWpZdEVacWFUOUQwalZ5OXlYMkt3NmdPLXVIeW5mcEFYcDJDWUxfNzdpZldaX3NHTmRwbjRxV1V5ak5RTUN3T3k0aTI5TlppNmVUbmhSXzlpZw?oc=5) |
+| 2026-07-31 | San Francisco company offers cleaning service using humanoid robots - abcnews.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPU09xRXh1cjdLQ3JaVW80MnVtcHhDLXp3dmFua2xfQnVodDVZbnVzVHpQMms5UzJra1ZjWFQtRE9ObFVpSnVtTmJDYkxrenRoelV6SlhibVdPSHhiYi00SE9OSHdqcHA5OEF4Rk1Ga2dKakVfWXEzOTZsUzhuc2g0QWYzbVl6LVZrMk04V0YzUjFBQlJJQ1NYcE1tTGJYMG1DWG9WYjhBZkEyc3Zkc1N1X9IBtgFBVV95cUxQTGZibk1YenNFTGRWLXJJMEZNMGVINUNLdzNUV0laX09zS19pa2Z1MjBiZjdzZU5JWl9lQUh3cDA5cGdxTTZKMnI5NkdIM2tZOUJBUnBBTVFjTFJWSFJ5c1AyTDN0cFFYUVZhaTBOM2Q0cWJtWl9CeGJPUXpaNGFnSWk3QmhDeW41TXRxUEdPTWhNT1JkSHRlMlItV19MbzJHWENDelpBSHN6ZkhheDQ0bjlpdGZLQQ?oc=5) |
