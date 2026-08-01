@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-01 09:46 UTC
+Last Updated: 2026-08-01 11:10 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-01 | Testing a 3D Printed Cycloidal Gearbox Design | Hackaday | [link](https://hackaday.com/2026/08/01/testing-a-3d-printed-cycloidal-gearbox-design/) |
 | 2026-08-01 | A Compact Game Controller For Your Phone | Hackaday | [link](https://hackaday.com/2026/08/01/a-compact-game-controller-for-your-phone/) |
 | 2026-08-01 | Casual Repair and Maintenance on an Amiga 1000 | Hackaday | [link](https://hackaday.com/2026/07/31/casual-repair-and-maintenance-on-an-amiga-1000/) |
 | 2026-08-01 | Turning Glass Into a Touch-Sensitive Button | Hackaday | [link](https://hackaday.com/2026/07/31/turning-glass-into-a-touch-sensitive-button/) |
@@ -56,23 +57,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-31 | A Complex Way to Push a Button | Hackaday | [link](https://hackaday.com/2026/07/31/a-complex-way-to-push-a-button/) |
 | 2026-07-31 | Tiny Desktop Robot Has Radar | Hackaday | [link](https://hackaday.com/2026/07/31/tiny-desktop-robot-has-radar/) |
 | 2026-07-31 | NES Advantage Stick Gets Bluetooth Upgrade | Hackaday | [link](https://hackaday.com/2026/07/31/nes-advantage-stick-gets-bluetooth-upgrade/) |
-| 2026-07-31 | Hackaday Podcast Episode 380: 3D Printing the Rainbow, IR and IP Camera Hacks, and Americium 241 on the Loose | Hackaday | [link](https://hackaday.com/2026/07/31/hackaday-podcast-episode-380-3d-printing-the-rainbow-ir-and-ip-camera-hacks-and-americium-241-on-the-loose/) |
 | 2026-07-31 | NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port | CNX Software | [link](https://www.cnx-software.com/2026/07/31/nanopi-r28s-a-tiny-dual-gbe-rockchip-rk3528a-wireless-sbc-and-router-with-a-usb-c-console-port/) |
 | 2026-07-31 | reTerminal Sticky 3.97-inch touch ePaper display is supported by four open-source firmware projects (so far) | CNX Software | [link](https://www.cnx-software.com/2026/07/31/reterminal-sticky-3-97-inch-magnetic-touch-epaper-display-is-supported-by-four-open-source-firmware-projects/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-07-30 | ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine | [link](https://arxiv.org/pdf/2607.28625v1) |
-| 2026-07-30 | PhiZero: A World Model Built Around Physical Language | [link](https://arxiv.org/pdf/2607.28624v1) |
-| 2026-07-30 | PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball | [link](https://arxiv.org/pdf/2607.28623v1) |
-| 2026-07-30 | AISPA: User-Centric System Prompt Auditing for Large Language Model Applications | [link](https://arxiv.org/pdf/2607.28617v1) |
-| 2026-07-30 | FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation | [link](https://arxiv.org/pdf/2607.28596v1) |
-| 2026-07-30 | ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation | [link](https://arxiv.org/pdf/2607.28581v1) |
-| 2026-07-30 | X-NavDP: Generalizing Navigation Diffusion Policy to Novel Behavior and Embodiments with Group Q-score Reweighted Matching | [link](https://arxiv.org/pdf/2607.28560v1) |
-| 2026-07-30 | AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans | [link](https://arxiv.org/pdf/2607.28487v1) |
-| 2026-07-30 | Improving Mental Health Screening and Early Risk Detection in Spanish | [link](https://arxiv.org/pdf/2607.28476v1) |
-| 2026-07-30 | TEA-AgriVLN: Traversability Estimation Alarm for Agricultural Vision-and-Language Navigation | [link](https://arxiv.org/pdf/2607.28474v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
@@ -81,20 +70,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-01 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-01 | access-robotics-team/so-p5-ft-ma-100-260801 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-p5-ft-ma-100-260801) |
 | 2026-08-01 | HarrisonPENG/M2W-VLA-RoboTwin | 374 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
+| 2026-08-01 | IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ | 92 | 0 | [link](https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ) |
 | 2026-08-01 | ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc | 0 | 0 | [link](https://huggingface.co/ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc) |
 | 2026-08-01 | IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-lid-joint-2cam-yanZ | 54 | 0 | [link](https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-lid-joint-2cam-yanZ) |
 | 2026-08-01 | IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-cabinet-joint-2cam-yanZ | 101 | 0 | [link](https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-cabinet-joint-2cam-yanZ) |
 | 2026-08-01 | eugenehp/rlx-vlash | 48 | 0 | [link](https://huggingface.co/eugenehp/rlx-vlash) |
 | 2026-08-01 | SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-stage2-lora-epoch3-v1 | 0 | 0 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-stage2-lora-epoch3-v1) |
-| 2026-08-01 | SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-stage2-lora-epoch2-v1 | 0 | 0 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-stage2-lora-epoch2-v1) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2756 | Python | 1102.5 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2757 | Python | 1102.9 | [link](https://github.com/NVIDIA/skills) |
 | commaai/openpilot | 63282 | Python | 25312.9 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16080 | Python | 6432.1 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15588 | C++ | 6235.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15589 | C++ | 6235.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11298 | Python | 4519.3 | [link](https://github.com/kornia/kornia) |
 | dora-rs/dora | 3857 | Rust | 1542.9 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 2949 | Python | 1179.7 | [link](https://github.com/datawhalechina/every-embodied) |
@@ -122,13 +111,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-31 | Korean Physical AI Startups Face a Hard Truth: A 98% Accurate AI Model Can Still Fail Inside a Robot - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbm56aHN1cU9VNW02QnJBTTJDcmhQS19ITE9kX2w4VnVrREpUS0dWeW1Ya191UDB3SjBRcmd0U2kwYWFIUGZFVkJXOG9KVEZpcmVwNjYtYkJjRTFZT3BvMncwMV9BeUk4ejRrcl9yc2F4OHhPTEJCTHRtdnhRN0dzMUZxT3ZUZlZNa0E?oc=5) |
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
 | 2026-07-31 | SK Telecom partners with physical AI startups - The Korea News Plus | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
-| 2026-07-31 | SK Telecom unites eight Korean physical AI startups to grow robotics ecosystem - CHOSUNBIZ - Chosunbiz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZTi1sb3poVG9kelVVNzdnRmota3ZMeW5fUTd6cnNWMmswQTdSUHVZYS1mWG5aOVBxMC1xZVlIeFczOTJ6WlhhSWZ1Zm00c3F6R2xuOE1yNnI5Y3NJMVNwR3pWb0JKVXF5TDBCbmY4WEhHYzZYcEdVT3hR0gGOAUFVX3lxTE51TERkQmQ1WGFFdmpxZjlYNDlJRmpTa1ZLQXlxVF9VamcxLUhxbk9Yekw3UkJfVEwwT0I4RWM5UmdwSzhHNGlkdUdGcGFqd0ZJb3U0d04taFBQRFBYUDc3MWxrMU5QdThEdG5sOElRVUszMXpUOXdOWWh2eTRyMFlXWFhyc0FtbTdJLWhUYWc?oc=5) |
 | 2026-07-31 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
 | 2026-07-31 | Trump's robot ban aims to counter China. US startups fear it could leave them behind. - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxNMEdvUmhSZmFXdHhmX1RSVThrVVpaZGVkUFZZbF9CcGRxU0puX2VwOXE1Y3lpOGhUOXlmdlY3U3lXb3VCTlQxdzdHQ0dsLWpZdEVacWFUOUQwalZ5OXlYMkt3NmdPLXVIeW5mcEFYcDJDWUxfNzdpZldaX3NHTmRwbjRxV1V5ak5RTUN3T3k0aTI5TlppNmVUbmhSXzlpZw?oc=5) |
+| 2026-07-31 | Robotics startup debuts humanoid housekeepers - goodmorningamerica.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2YUxtcEoyU3dYeFlLNU15SGhwb200bmk5eXlOX2dLTE5GTF9qU2p5Qk91ZktPbGw3ZGEzTHliQi1oRnJTREtGLW9yY1ltbURYUVNpaEpRSVF5VmV4Rklj0gFkQVVfeXFMTzVJUV9FcW5hWlhkNTB2a3BLSUNKdUtKak5wdnhsY3NqenFrYjNXM1dOdU1oOGRMRXpEbFRxbkJnaFlLSUFFT05uRGdFMHFfam45dHJvQlVHaUtOenR5SExNcGxwWQ?oc=5) |
 | 2026-07-31 | Company Says Robot Will Clean Your Home for $30 Per Hour - Newser | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1dDYmhvamhZX3Z6M3FPbEVMNTJpYTZPdC1aQkNsUENwLWNTbzVuVGx4QVF5OWV3ZmpuSC02M0lLOGJ4akVWOC16Qi1rZHBYVGs0b3EyRTl4SFBGTUlOUGM0VGY5ejFOUXYzLWdtbWtvRldrcEI5YjVFSzFpOERJYjJUTzEwOHNVelhIaC1JYWN0QlBsMkE?oc=5) |
-| 2026-07-31 | Robotics startup debuts humanoid housekeepers - Good Morning America | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2YUxtcEoyU3dYeFlLNU15SGhwb200bmk5eXlOX2dLTE5GTF9qU2p5Qk91ZktPbGw3ZGEzTHliQi1oRnJTREtGLW9yY1ltbURYUVNpaEpRSVF5VmV4Rklj0gFkQVVfeXFMTzVJUV9FcW5hWlhkNTB2a3BLSUNKdUtKak5wdnhsY3NqenFrYjNXM1dOdU1oOGRMRXpEbFRxbkJnaFlLSUFFT05uRGdFMHFfam45dHJvQlVHaUtOenR5SExNcGxwWQ?oc=5) |
 | 2026-07-30 | AI startup moves headquarters to Roundhouse at Hazelwood Green - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOektfcmhuakZHbThYQU1oTmFUX002c09sNzNKSmNYank0S3Y2QjZGbWJ1amZ2Z2F5MlMyU0F6bGRQRkcyQzEwQ2lVeTVDeGJrM2dtRzFOXzh1SHdLc1BqbTFRSG4xYWtsTms0a3ZnbGcyOFMxZ3ZoRWN1UlZWRFl5MWQ5SUFNMnVxM19yc296ZndHQnRqdUpzejNmR3lpbkpVNXRnNkxkMlZvaWxX?oc=5) |
 | 2026-07-30 | Jeff Bezos Backed Both AI Giants and Built a $41B L… - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGhiS3U1ZWtiNWNsYVNPYjFiNEliUHZiX3Z1elp4VDNZWlU1MWV3d2JmUGZtS3Y2cnZ3VkNCWnkxaTJMS1RJRzdPdUtyY0JrQ0YwVXg3ZkFTZzhPY0lCSVpIT3EwV2JQbHdLZy1nS28zeHRES2hwTDU2amE0c2o5ZTVkWEppUVQxelpMTlNjX1Z6Q0lSb2J1NDd4SURwZHoyN2Jxdks2TzY?oc=5) |
+| 2026-07-30 | You can hire these humanoid robots from Tau Robotics to clean your home in San Francisco - ABC7 Bay Area | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlh2ZGNFRkdmV1JaMGE3OE55YTlJdGRKeDRwTW5Oa1VEdTVFTTYzWDd4Z1VRNVdBaVlsRzkyNzJGdWVsR0lfUXkxSFNHb05UWm9hRF9BN1doeC1vLWxYUEl4SGVzSmFPN1NKS29PWUk4U0VCY0ZTU2JQQ24tZWtxLWU5NTFaLXNpME9kcTBpNUJqUlpYa05DYTU2SHZadGvSAaQBQVVfeXFMTXhlanNMblNPVi0tWjZMaEZMNzJEdTE1d21VWnZUSndkdnVHajFwT1Z0U243U2phRzVNUE1sNEt2R3Z3VHpUaFR6Mng4RHIxYThyd1ZsMnhFMXN1MUtGalRUTmhkUkd5a2ozcHZvaFI4TkdTbnV3cmdIOXEwY0lRek1fdFlWMGduRktMN2tCbUhuQ1pnS0owYzI2b2lCTkdjT0pHNFM?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
