@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-01 20:02 UTC
+Generated: 2026-08-01 21:43 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,10 +14,10 @@ Generated: 2026-08-01 20:02 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82868 | 33147.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63283 | 25313.3 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 82872 | 33148.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63285 | 25314.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44322 | 17728.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30212 | 12084.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30213 | 12085.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16080 | 6432.1 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
@@ -45,4 +45,4 @@ Generated: 2026-08-01 20:02 UTC
 | 2026-08-01 | Mbodi AI Recruitment Drive Targets Research Engineers to Build Next Generation Robotics - chshyd.in | embodied ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlAtYXNMRnZ2MHUzOTR4WUtHSFNhN0Q4cUs5S2FGbk1fYUo4Wjd1aGlBU1JDc1JMRkUxS0x1RHZQWmE0YnA2UUxEU1MzTnZOOHVIWld3LTZ6bHgzN2lPbUJEc1BpOFFndGs1Q0ZpV1k4Wi1qU2dJRnFzd3hlZUs3U2F5WEtvQkZpVnpzZl8wSHJtN0pVUEVBejlFR2w?oc=5) |
 | 2026-07-31 | Korean Physical AI Startups Face a Hard Truth: A 98% Accurate AI Model Can Still Fail Inside a Robot - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbm56aHN1cU9VNW02QnJBTTJDcmhQS19ITE9kX2w4VnVrREpUS0dWeW1Ya191UDB3SjBRcmd0U2kwYWFIUGZFVkJXOG9KVEZpcmVwNjYtYkJjRTFZT3BvMncwMV9BeUk4ejRrcl9yc2F4OHhPTEJCTHRtdnhRN0dzMUZxT3ZUZlZNa0E?oc=5) |
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
-| 2026-07-31 | SK Telecom partners with physical AI startups - newsarticleinsiders.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
+| 2026-07-31 | SK Telecom partners with physical AI startups - The Korea News Plus | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
