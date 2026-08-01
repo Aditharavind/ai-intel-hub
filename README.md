@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-07-31 23:48 UTC
+Last Updated: 2026-08-01 01:22 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,6 +77,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-01 | IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-cabinet-joint-2cam-yanZ | 89 | 0 | [link](https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-cabinet-joint-2cam-yanZ) |
+| 2026-08-01 | eugenehp/rlx-vlash | 0 | 0 | [link](https://huggingface.co/eugenehp/rlx-vlash) |
+| 2026-08-01 | ntlfi/enpo-llama3-8b-eta-default-seed1-cuda13-iter1-policy | 0 | 0 | [link](https://huggingface.co/ntlfi/enpo-llama3-8b-eta-default-seed1-cuda13-iter1-policy) |
 | 2026-07-31 | puppet-robotics/golf-model-200-obs-rgb-4fps | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb-4fps) |
 | 2026-07-31 | HarrisonPENG/M2W-VLA-RoboTwin | 361 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-07-31 | OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_New | 0 | 0 | [link](https://huggingface.co/OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_New) |
@@ -84,14 +87,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-31 | access-robotics-team/so-p5-pp-ma-260731 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-p5-pp-ma-260731) |
 | 2026-07-31 | JIANGdk0303/robot8_20260728_maopa_act_dinov3_all23_baseline | 0 | 0 | [link](https://huggingface.co/JIANGdk0303/robot8_20260728_maopa_act_dinov3_all23_baseline) |
 | 2026-07-31 | AIBUILDAI-Inc/robot-world-model | 0 | 0 | [link](https://huggingface.co/AIBUILDAI-Inc/robot-world-model) |
-| 2026-07-31 | RobotisSW/Task_0728_Dispose_Low_Table_50K | 2 | 0 | [link](https://huggingface.co/RobotisSW/Task_0728_Dispose_Low_Table_50K) |
-| 2026-07-31 | RobotisSW/Task_0728_Dispose_Low_Table_30K | 1 | 0 | [link](https://huggingface.co/RobotisSW/Task_0728_Dispose_Low_Table_30K) |
-| 2026-07-31 | RobotisSW/Task_0728_Dispose_Low_Table_10K | 1 | 0 | [link](https://huggingface.co/RobotisSW/Task_0728_Dispose_Low_Table_10K) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2747 | Python | 1098.9 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2750 | Python | 1100.1 | [link](https://github.com/NVIDIA/skills) |
+| dora-rs/dora | 3857 | Rust | 1542.9 | [link](https://github.com/dora-rs/dora) |
+| isaac-sim/IsaacLab | 7813 | Python | 3125.3 | [link](https://github.com/isaac-sim/IsaacLab) |
 | copper-project/copper-rs | 1430 | Rust | 572.1 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 897 | Python | 358.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
@@ -99,8 +101,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | zauberzeug/nicegui | 16080 | Python | 6432.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15582 | C++ | 6232.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14400 | C++ | 5760.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 12238 | JavaScript | 4895.3 | [link](https://github.com/earthtojake/text-to-cad) |
-| rerun-io/rerun | 11223 | Rust | 4489.3 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -133,6 +133,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-07-31 | Shift Coordinator, Data Creators (SP)  | Figure AI | São Paulo, Brazil | [link](https://job-boards.greenhouse.io/figureai/jobs/4701747006) |
+| 2026-07-31 | Technical Coordinator, Data Creators (SP)  | Figure AI | São Paulo, Brazil | [link](https://job-boards.greenhouse.io/figureai/jobs/4701748006) |
 | 2026-07-30 | Engineering Support Technician  | Agility Robotics | Onsite- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6126850004) |
 | 2026-07-30 | Senior Administrative Assistant | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6131041004) |
 | 2026-07-30 | Senior Staff Mfg. Design Engineer | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6113722004) |
@@ -141,8 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-29 | Data Quality Analyst | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
 | 2026-07-29 | Helix AI Engineer, Backend  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4685172006) |
 | 2026-07-29 | Humanoid Robot Operator & Data Creator — Fontana, CA (Customer Site) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4700899006) |
-| 2026-07-29 | Lead, Data Quality - Partnerships | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696347006) |
-| 2026-07-29 | Lead Data Scientist, Robotics | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127729004) |
 
 ## Automation
 

@@ -1,13 +1,33 @@
 [
   {
     "repo": "NVIDIA/skills",
-    "stars": 2747,
+    "stars": 2750,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
-    "date": "2026-07-31",
+    "date": "2026-08-01",
     "topic": "physical-ai",
-    "score": 1098.9
+    "score": 1100.1
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3857,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-08-01",
+    "topic": "embodied-ai",
+    "score": 1542.9
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7813,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-08-01",
+    "topic": "robot-learning",
+    "score": 3125.3
   },
   {
     "repo": "copper-project/copper-rs",
@@ -81,23 +101,23 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 12238,
+    "stars": 12247,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-31",
     "topic": "robotics",
-    "score": 4895.3
+    "score": 4898.9
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11223,
+    "stars": 11225,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-07-31",
     "topic": "robotics",
-    "score": 4489.3
+    "score": 4490.1
   },
   {
     "repo": "RLinf/RLinf",
@@ -108,16 +128,6 @@
     "date": "2026-07-31",
     "topic": "embodied-ai",
     "score": 1745.3
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3857,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-07-31",
-    "topic": "embodied-ai",
-    "score": 1542.9
   },
   {
     "repo": "mani-skill/ManiSkill",
@@ -141,13 +151,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2199,
+    "stars": 2200,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-07-31",
     "topic": "robot-learning",
-    "score": 879.7
+    "score": 880.1
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -171,13 +181,13 @@
   },
   {
     "repo": "flashrt-project/FlashRT",
-    "stars": 473,
+    "stars": 474,
     "language": "C++",
     "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
     "url": "https://github.com/flashrt-project/FlashRT",
     "date": "2026-07-31",
     "topic": "vla",
-    "score": 189.3
+    "score": 189.7
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -211,13 +221,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5768,
+    "stars": 5769,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-07-31",
     "topic": "world-model",
-    "score": 2307.3
+    "score": 2307.7
   },
   {
     "repo": "NVlabs/ProtoMotions",
@@ -250,16 +260,6 @@
     "score": 62.1
   },
   {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7813,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-07-31",
-    "topic": "robot-learning",
-    "score": 3125.3
-  },
-  {
     "repo": "vikashplus/robohive",
     "stars": 631,
     "language": "Python",
@@ -281,13 +281,13 @@
   },
   {
     "repo": "Mr-C4T/AB-SO-BOT",
-    "stars": 66,
+    "stars": 67,
     "language": "Python",
     "description": "Aluminium Body for Standard Open Arm (SO-ARM100)",
     "url": "https://github.com/Mr-C4T/AB-SO-BOT",
     "date": "2026-07-31",
     "topic": "lerobot",
-    "score": 26.5
+    "score": 26.9
   },
   {
     "repo": "johnsutor/so101-nexus",
@@ -401,13 +401,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS",
-    "stars": 1350,
+    "stars": 1352,
     "language": "Python",
     "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS",
     "date": "2026-07-28",
     "topic": "embodied-ai",
-    "score": 540.1
+    "score": 540.9
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -501,13 +501,13 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13633,
+    "stars": 13634,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-07-25",
     "topic": "robotics",
-    "score": 5453.3
+    "score": 5453.7
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
@@ -741,13 +741,13 @@
   },
   {
     "repo": "hzxie/DynamicVLA",
-    "stars": 315,
+    "stars": 316,
     "language": "Python",
     "description": "The official implementation of \"DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation\". (arXiv 2601.22153)",
     "url": "https://github.com/hzxie/DynamicVLA",
     "date": "2026-07-13",
     "topic": "vla",
-    "score": 126.1
+    "score": 126.5
   },
   {
     "repo": "nicklashansen/tdmpc2",
@@ -801,23 +801,23 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82849,
+    "stars": 82852,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 33139.7
+    "score": 33140.9
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
-    "stars": 3094,
+    "stars": 3095,
     "language": "HTML",
     "description": "BOM, STL files and instructions for PAROL6 3D printed robot arm",
     "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
     "date": "2026-07-07",
     "topic": "lerobot",
-    "score": 1237.7
+    "score": 1238.1
   },
   {
     "repo": "OpenDriveLab/RISE",
@@ -860,6 +860,16 @@
     "score": 17726.9
   },
   {
+    "repo": "NJU-RLC/quadrupedal-agility",
+    "stars": 122,
+    "language": "Python",
+    "description": "Official implementation of \"Learning Diverse Natural Behaviors for Enhancing the Agility of Quadrupedal Robots\"",
+    "url": "https://github.com/NJU-RLC/quadrupedal-agility",
+    "date": "2026-07-02",
+    "topic": "robot-learning",
+    "score": 48.9
+  },
+  {
     "repo": "Tavish9/any4lerobot",
     "stars": 1120,
     "language": "Python",
@@ -868,15 +878,5 @@
     "date": "2026-07-02",
     "topic": "lerobot",
     "score": 448.1
-  },
-  {
-    "repo": "abizovnuralem/go2_omniverse",
-    "stars": 1054,
-    "language": "Python",
-    "description": "Unitree Go2, Unitree G1 support for Nvidia Isaac Lab (Isaac Gym / Isaac Sim)",
-    "url": "https://github.com/abizovnuralem/go2_omniverse",
-    "date": "2026-07-01",
-    "topic": "robot-learning",
-    "score": 421.7
   }
 ]
