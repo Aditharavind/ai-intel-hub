@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-01 01:22 UTC
+Last Updated: 2026-08-01 05:12 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-01 | Casual Repair and Maintenance on an Amiga 1000 | Hackaday | [link](https://hackaday.com/2026/07/31/casual-repair-and-maintenance-on-an-amiga-1000/) |
+| 2026-08-01 | Turning Glass Into a Touch-Sensitive Button | Hackaday | [link](https://hackaday.com/2026/07/31/turning-glass-into-a-touch-sensitive-button/) |
 | 2026-07-31 | A Complex Way to Push a Button | Hackaday | [link](https://hackaday.com/2026/07/31/a-complex-way-to-push-a-button/) |
 | 2026-07-31 | Tiny Desktop Robot Has Radar | Hackaday | [link](https://hackaday.com/2026/07/31/tiny-desktop-robot-has-radar/) |
 | 2026-07-31 | NES Advantage Stick Gets Bluetooth Upgrade | Hackaday | [link](https://hackaday.com/2026/07/31/nes-advantage-stick-gets-bluetooth-upgrade/) |
 | 2026-07-31 | Hackaday Podcast Episode 380: 3D Printing the Rainbow, IR and IP Camera Hacks, and Americium 241 on the Loose | Hackaday | [link](https://hackaday.com/2026/07/31/hackaday-podcast-episode-380-3d-printing-the-rainbow-ir-and-ip-camera-hacks-and-americium-241-on-the-loose/) |
 | 2026-07-31 | Hacking a Commercial Colorimeter to add RAL Color Code Support | Hackaday | [link](https://hackaday.com/2026/07/31/hacking-a-commercial-colorimeter-to-add-ral-color-code-support/) |
-| 2026-07-31 | This Week in Security: What’s in a name, the AI Bugpocalypse Hits Everyone, OpenWRT flaws, and Duress Passwords | Hackaday | [link](https://hackaday.com/2026/07/31/this-week-in-security-whats-in-a-name-the-ai-bugpocalypse-hits-everyone-openwrt-flaws-and-duress-passwords/) |
-| 2026-07-31 | Building a Reproduction PlayStation Motherboard | Hackaday | [link](https://hackaday.com/2026/07/31/building-a-reproduction-playstation-motherboard/) |
 | 2026-07-31 | NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port | CNX Software | [link](https://www.cnx-software.com/2026/07/31/nanopi-r28s-a-tiny-dual-gbe-rockchip-rk3528a-wireless-sbc-and-router-with-a-usb-c-console-port/) |
 | 2026-07-31 | reTerminal Sticky 3.97-inch touch ePaper display is supported by four open-source firmware projects (so far) | CNX Software | [link](https://www.cnx-software.com/2026/07/31/reterminal-sticky-3-97-inch-magnetic-touch-epaper-display-is-supported-by-four-open-source-firmware-projects/) |
 | 2026-07-31 | Maker Go ESP32-C5-EVB board features RS-485 interface, four relays, four opto-isolated inputs | CNX Software | [link](https://www.cnx-software.com/2026/07/31/maker-go-esp32-c5-evb-board-features-rs-485-interface-four-relays-four-opto-isolated-inputs/) |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-01 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-08-01 | access-robotics-team/so-p5-ft-ma-100-260801 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-p5-ft-ma-100-260801) |
+| 2026-08-01 | HarrisonPENG/M2W-VLA-RoboTwin | 361 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
+| 2026-08-01 | IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-lid-joint-2cam-yanZ | 48 | 0 | [link](https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-lid-joint-2cam-yanZ) |
 | 2026-08-01 | IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-cabinet-joint-2cam-yanZ | 89 | 0 | [link](https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-cabinet-joint-2cam-yanZ) |
 | 2026-08-01 | eugenehp/rlx-vlash | 0 | 0 | [link](https://huggingface.co/eugenehp/rlx-vlash) |
-| 2026-08-01 | ntlfi/enpo-llama3-8b-eta-default-seed1-cuda13-iter1-policy | 0 | 0 | [link](https://huggingface.co/ntlfi/enpo-llama3-8b-eta-default-seed1-cuda13-iter1-policy) |
-| 2026-07-31 | puppet-robotics/golf-model-200-obs-rgb-4fps | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb-4fps) |
-| 2026-07-31 | HarrisonPENG/M2W-VLA-RoboTwin | 361 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
-| 2026-07-31 | OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_New | 0 | 0 | [link](https://huggingface.co/OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_New) |
-| 2026-07-31 | access-robotics-team/so-p5-pp-ma-260731-v2 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-p5-pp-ma-260731-v2) |
-| 2026-07-31 | access-robotics-team/so-p5-pp-ma-260731 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-p5-pp-ma-260731) |
-| 2026-07-31 | JIANGdk0303/robot8_20260728_maopa_act_dinov3_all23_baseline | 0 | 0 | [link](https://huggingface.co/JIANGdk0303/robot8_20260728_maopa_act_dinov3_all23_baseline) |
-| 2026-07-31 | AIBUILDAI-Inc/robot-world-model | 0 | 0 | [link](https://huggingface.co/AIBUILDAI-Inc/robot-world-model) |
+| 2026-08-01 | LyricalOS/act_pick_eraser_merged_policy | 0 | 0 | [link](https://huggingface.co/LyricalOS/act_pick_eraser_merged_policy) |
+| 2026-08-01 | ntlfi/enpo-llama3-8b-eta-default-seed1-cuda13-iter3-policy | 0 | 0 | [link](https://huggingface.co/ntlfi/enpo-llama3-8b-eta-default-seed1-cuda13-iter3-policy) |
+| 2026-08-01 | ntlfi/enpo-llama3-8b-eta-default-seed1-cuda13-iter2-policy | 0 | 0 | [link](https://huggingface.co/ntlfi/enpo-llama3-8b-eta-default-seed1-cuda13-iter2-policy) |
+| 2026-08-01 | hiskiv/cosmos-policy-lam-v2 | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam-v2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2750 | Python | 1100.1 | [link](https://github.com/NVIDIA/skills) |
-| dora-rs/dora | 3857 | Rust | 1542.9 | [link](https://github.com/dora-rs/dora) |
-| isaac-sim/IsaacLab | 7813 | Python | 3125.3 | [link](https://github.com/isaac-sim/IsaacLab) |
-| copper-project/copper-rs | 1430 | Rust | 572.1 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 897 | Python | 358.9 | [link](https://github.com/mosaico-labs/mosaico) |
-| awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63279 | Python | 25311.7 | [link](https://github.com/commaai/openpilot) |
+| NVIDIA/skills | 2755 | Python | 1102.1 | [link](https://github.com/NVIDIA/skills) |
+| commaai/openpilot | 63281 | Python | 25312.5 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16080 | Python | 6432.1 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15582 | C++ | 6232.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14400 | C++ | 5760.1 | [link](https://github.com/google-deepmind/mujoco) |
+| ArduPilot/ardupilot | 15584 | C++ | 6233.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| kornia/kornia | 11297 | Python | 4518.9 | [link](https://github.com/kornia/kornia) |
+| dora-rs/dora | 3857 | Rust | 1542.9 | [link](https://github.com/dora-rs/dora) |
+| datawhalechina/every-embodied | 2945 | Python | 1178.1 | [link](https://github.com/datawhalechina/every-embodied) |
+| sou350121/VLA-Handbook | 459 | HTML | 183.7 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 5771 | Python | 2308.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| OpenHUTB/hutb | 551 | C++ | 220.5 | [link](https://github.com/OpenHUTB/hutb) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -121,14 +121,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-07-31 | Korean Physical AI Startups Face a Hard Truth: A 98% Accurate AI Model Can Still Fail Inside a Robot - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbm56aHN1cU9VNW02QnJBTTJDcmhQS19ITE9kX2w4VnVrREpUS0dWeW1Ya191UDB3SjBRcmd0U2kwYWFIUGZFVkJXOG9KVEZpcmVwNjYtYkJjRTFZT3BvMncwMV9BeUk4ejRrcl9yc2F4OHhPTEJCTHRtdnhRN0dzMUZxT3ZUZlZNa0E?oc=5) |
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
-| 2026-07-31 | SK Telecom will expand cooperation with domestic physical artificial intelligence (AI) startups to b.. - 매일경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4eG9vb1NXZ3o2TjlRbEZzODlFYVFSYmFKanVXc2kzR2p2dEtpREN4M21CMkZ3WWEtNlBvNms3T1FmemkycGtnVVl4Zw?oc=5) |
 | 2026-07-31 | SK Telecom partners with physical AI startups - The Korea News Plus | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
+| 2026-07-31 | SK Telecom will expand cooperation with domestic physical artificial intelligence (AI) startups to b.. - 매일경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4eG9vb1NXZ3o2TjlRbEZzODlFYVFSYmFKanVXc2kzR2p2dEtpREN4M21CMkZ3WWEtNlBvNms3T1FmemkycGtnVVl4Zw?oc=5) |
 | 2026-07-31 | SK Telecom unites eight Korean physical AI startups to grow robotics ecosystem - CHOSUNBIZ - Chosunbiz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZTi1sb3poVG9kelVVNzdnRmota3ZMeW5fUTd6cnNWMmswQTdSUHVZYS1mWG5aOVBxMC1xZVlIeFczOTJ6WlhhSWZ1Zm00c3F6R2xuOE1yNnI5Y3NJMVNwR3pWb0JKVXF5TDBCbmY4WEhHYzZYcEdVT3hR0gGOAUFVX3lxTE51TERkQmQ1WGFFdmpxZjlYNDlJRmpTa1ZLQXlxVF9VamcxLUhxbk9Yekw3UkJfVEwwT0I4RWM5UmdwSzhHNGlkdUdGcGFqd0ZJb3U0d04taFBQRFBYUDc3MWxrMU5QdThEdG5sOElRVUszMXpUOXdOWWh2eTRyMFlXWFhyc0FtbTdJLWhUYWc?oc=5) |
+| 2026-07-31 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
 | 2026-07-31 | Trump's robot ban aims to counter China. US startups fear it could leave them behind. - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxNMEdvUmhSZmFXdHhmX1RSVThrVVpaZGVkUFZZbF9CcGRxU0puX2VwOXE1Y3lpOGhUOXlmdlY3U3lXb3VCTlQxdzdHQ0dsLWpZdEVacWFUOUQwalZ5OXlYMkt3NmdPLXVIeW5mcEFYcDJDWUxfNzdpZldaX3NHTmRwbjRxV1V5ak5RTUN3T3k0aTI5TlppNmVUbmhSXzlpZw?oc=5) |
 | 2026-07-31 | Robotics startup debuts humanoid housekeepers - Good Morning America | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2YUxtcEoyU3dYeFlLNU15SGhwb200bmk5eXlOX2dLTE5GTF9qU2p5Qk91ZktPbGw3ZGEzTHliQi1oRnJTREtGLW9yY1ltbURYUVNpaEpRSVF5VmV4Rklj0gFkQVVfeXFMTzVJUV9FcW5hWlhkNTB2a3BLSUNKdUtKak5wdnhsY3NqenFrYjNXM1dOdU1oOGRMRXpEbFRxbkJnaFlLSUFFT05uRGdFMHFfam45dHJvQlVHaUtOenR5SExNcGxwWQ?oc=5) |
 | 2026-07-31 | Company Says Robot Will Clean Your Home for $30 Per Hour - Newser | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1dDYmhvamhZX3Z6M3FPbEVMNTJpYTZPdC1aQkNsUENwLWNTbzVuVGx4QVF5OWV3ZmpuSC02M0lLOGJ4akVWOC16Qi1rZHBYVGs0b3EyRTl4SFBGTUlOUGM0VGY5ejFOUXYzLWdtbWtvRldrcEI5YjVFSzFpOERJYjJUTzEwOHNVelhIaC1JYWN0QlBsMkE?oc=5) |
 | 2026-07-30 | AI startup moves headquarters to Roundhouse at Hazelwood Green - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOektfcmhuakZHbThYQU1oTmFUX002c09sNzNKSmNYank0S3Y2QjZGbWJ1amZ2Z2F5MlMyU0F6bGRQRkcyQzEwQ2lVeTVDeGJrM2dtRzFOXzh1SHdLc1BqbTFRSG4xYWtsTms0a3ZnbGcyOFMxZ3ZoRWN1UlZWRFl5MWQ5SUFNMnVxM19yc296ZndHQnRqdUpzejNmR3lpbkpVNXRnNkxkMlZvaWxX?oc=5) |
-| 2026-07-30 | You can hire these humanoid robots from Tau Robotics to clean your home in San Francisco - ABC7 Bay Area | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlh2ZGNFRkdmV1JaMGE3OE55YTlJdGRKeDRwTW5Oa1VEdTVFTTYzWDd4Z1VRNVdBaVlsRzkyNzJGdWVsR0lfUXkxSFNHb05UWm9hRF9BN1doeC1vLWxYUEl4SGVzSmFPN1NKS29PWUk4U0VCY0ZTU2JQQ24tZWtxLWU5NTFaLXNpME9kcTBpNUJqUlpYa05DYTU2SHZadGvSAaQBQVVfeXFMTXhlanNMblNPVi0tWjZMaEZMNzJEdTE1d21VWnZUSndkdnVHajFwT1Z0U243U2phRzVNUE1sNEt2R3Z3VHpUaFR6Mng4RHIxYThyd1ZsMnhFMXN1MUtGalRUTmhkUkd5a2ozcHZvaFI4TkdTbnV3cmdIOXEwY0lRek1fdFlWMGduRktMN2tCbUhuQ1pnS0owYzI2b2lCTkdjT0pHNFM?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
