@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-01 18:46 UTC
+Last Updated: 2026-08-01 20:02 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-01 | Open Source Stream Deck Targets Flexibility | Hackaday | [link](https://hackaday.com/2026/08/01/open-source-stream-deck-targets-flexibility/) |
 | 2026-08-01 | Browser-based 3D Editor Covers The Basics While Staying Local | Hackaday | [link](https://hackaday.com/2026/08/01/browser-based-3d-editor-covers-the-basics-while-staying-local/) |
 | 2026-08-01 | Commercialization and Innovation | Hackaday | [link](https://hackaday.com/2026/08/01/commercialization-and-innovation/) |
 | 2026-08-01 | Testing a 3D Printed Cycloidal Gearbox Design | Hackaday | [link](https://hackaday.com/2026/08/01/testing-a-3d-printed-cycloidal-gearbox-design/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-01 | Creality Falcon T1 review – A 5-in-1 modular laser engraver tested with 20W fiber and 40W diode laser modules | CNX Software | [link](https://www.cnx-software.com/2026/08/01/creality-falcon-t1-review-a-5-in-1-modular-laser-engraver-tested-with-20w-fiber-and-40w-diode-laser-modules/) |
 | 2026-08-01 | That Project: A Standalone Rubik’s Cube Solver | Adafruit | [link](https://blog.adafruit.com/2026/08/01/that-project-a-standalone-rubiks-cube-solver/) |
 | 2026-08-01 | August is Back to School Month!! #BackToSchool #BackToSchool2026 | Adafruit | [link](https://blog.adafruit.com/2026/08/01/august-is-back-to-school-month-backtoschool-backtoschool2026/) |
-| 2026-07-31 | A Complex Way to Push a Button | Hackaday | [link](https://hackaday.com/2026/07/31/a-complex-way-to-push-a-button/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -82,11 +82,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-01 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-01 | access-robotics-team/so-p5-ft-ma-100-260801 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-p5-ft-ma-100-260801) |
 | 2026-08-01 | HarrisonPENG/M2W-VLA-RoboTwin | 374 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
+| 2026-08-01 | mradermacher/Curious-VLA-i1-GGUF | 234 | 0 | [link](https://huggingface.co/mradermacher/Curious-VLA-i1-GGUF) |
 | 2026-08-01 | ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_60k | 0 | 0 | [link](https://huggingface.co/ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_60k) |
 | 2026-08-01 | ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_natural | 0 | 0 | [link](https://huggingface.co/ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_natural) |
 | 2026-08-01 | IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ | 92 | 0 | [link](https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-clutter-joint-2cam-yanZ) |
 | 2026-08-01 | ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc | 0 | 0 | [link](https://huggingface.co/ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc) |
-| 2026-08-01 | IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-lid-joint-2cam-yanZ | 54 | 0 | [link](https://huggingface.co/IDEAS-Lab-Northwestern/lingbot-vla2-datagen-v1-lid-joint-2cam-yanZ) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -123,11 +123,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-01 | Mbodi AI Recruitment Drive Targets Research Engineers to Build Next Generation Robotics - chshyd.in | embodied ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlAtYXNMRnZ2MHUzOTR4WUtHSFNhN0Q4cUs5S2FGbk1fYUo4Wjd1aGlBU1JDc1JMRkUxS0x1RHZQWmE0YnA2UUxEU1MzTnZOOHVIWld3LTZ6bHgzN2lPbUJEc1BpOFFndGs1Q0ZpV1k4Wi1qU2dJRnFzd3hlZUs3U2F5WEtvQkZpVnpzZl8wSHJtN0pVUEVBejlFR2w?oc=5) |
 | 2026-07-31 | Korean Physical AI Startups Face a Hard Truth: A 98% Accurate AI Model Can Still Fail Inside a Robot - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbm56aHN1cU9VNW02QnJBTTJDcmhQS19ITE9kX2w4VnVrREpUS0dWeW1Ya191UDB3SjBRcmd0U2kwYWFIUGZFVkJXOG9KVEZpcmVwNjYtYkJjRTFZT3BvMncwMV9BeUk4ejRrcl9yc2F4OHhPTEJCTHRtdnhRN0dzMUZxT3ZUZlZNa0E?oc=5) |
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
-| 2026-07-31 | SK Telecom partners with physical AI startups - The Korea News Plus | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
+| 2026-07-31 | SK Telecom partners with physical AI startups - newsarticleinsiders.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
 | 2026-07-31 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
 | 2026-07-31 | San Francisco company offers cleaning service using humanoid robots - ABC News - Breaking News, Latest News and Videos | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPU09xRXh1cjdLQ3JaVW80MnVtcHhDLXp3dmFua2xfQnVodDVZbnVzVHpQMms5UzJra1ZjWFQtRE9ObFVpSnVtTmJDYkxrenRoelV6SlhibVdPSHhiYi00SE9OSHdqcHA5OEF4Rk1Ga2dKakVfWXEzOTZsUzhuc2g0QWYzbVl6LVZrMk04V0YzUjFBQlJJQ1NYcE1tTGJYMG1DWG9WYjhBZkEyc3Zkc1N1X9IBtgFBVV95cUxQTGZibk1YenNFTGRWLXJJMEZNMGVINUNLdzNUV0laX09zS19pa2Z1MjBiZjdzZU5JWl9lQUh3cDA5cGdxTTZKMnI5NkdIM2tZOUJBUnBBTVFjTFJWSFJ5c1AyTDN0cFFYUVZhaTBOM2Q0cWJtWl9CeGJPUXpaNGFnSWk3QmhDeW41TXRxUEdPTWhNT1JkSHRlMlItV19MbzJHWENDelpBSHN6ZkhheDQ0bjlpdGZLQQ?oc=5) |
-| 2026-07-31 | Trump's robot ban aims to counter China. US startups fear it could leave them behind. - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxNMEdvUmhSZmFXdHhmX1RSVThrVVpaZGVkUFZZbF9CcGRxU0puX2VwOXE1Y3lpOGhUOXlmdlY3U3lXb3VCTlQxdzdHQ0dsLWpZdEVacWFUOUQwalZ5OXlYMkt3NmdPLXVIeW5mcEFYcDJDWUxfNzdpZldaX3NHTmRwbjRxV1V5ak5RTUN3T3k0aTI5TlppNmVUbmhSXzlpZw?oc=5) |
 | 2026-07-31 | Robotics startup debuts humanoid housekeepers - Good Morning America | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2YUxtcEoyU3dYeFlLNU15SGhwb200bmk5eXlOX2dLTE5GTF9qU2p5Qk91ZktPbGw3ZGEzTHliQi1oRnJTREtGLW9yY1ltbURYUVNpaEpRSVF5VmV4Rklj0gFkQVVfeXFMTzVJUV9FcW5hWlhkNTB2a3BLSUNKdUtKak5wdnhsY3NqenFrYjNXM1dOdU1oOGRMRXpEbFRxbkJnaFlLSUFFT05uRGdFMHFfam45dHJvQlVHaUtOenR5SExNcGxwWQ?oc=5) |
+| 2026-07-31 | Trump's robot ban aims to counter China. US startups fear it could leave them behind. - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxNMEdvUmhSZmFXdHhmX1RSVThrVVpaZGVkUFZZbF9CcGRxU0puX2VwOXE1Y3lpOGhUOXlmdlY3U3lXb3VCTlQxdzdHQ0dsLWpZdEVacWFUOUQwalZ5OXlYMkt3NmdPLXVIeW5mcEFYcDJDWUxfNzdpZldaX3NHTmRwbjRxV1V5ak5RTUN3T3k0aTI5TlppNmVUbmhSXzlpZw?oc=5) |
 | 2026-07-31 | Company Says Robot Will Clean Your Home for $30 Per Hour - Newser | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1dDYmhvamhZX3Z6M3FPbEVMNTJpYTZPdC1aQkNsUENwLWNTbzVuVGx4QVF5OWV3ZmpuSC02M0lLOGJ4akVWOC16Qi1rZHBYVGs0b3EyRTl4SFBGTUlOUGM0VGY5ejFOUXYzLWdtbWtvRldrcEI5YjVFSzFpOERJYjJUTzEwOHNVelhIaC1JYWN0QlBsMkE?oc=5) |
 
 ## Jobs
