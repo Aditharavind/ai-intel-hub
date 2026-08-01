@@ -1,5 +1,12 @@
 [
   {
+    "title": "Commercialization and Innovation",
+    "source": "Hackaday",
+    "date": "2026-08-01",
+    "url": "https://hackaday.com/2026/08/01/commercialization-and-innovation/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2018/05/printering.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The last year or two has seen relatively affordable multi-material printers hit the market, and the question that [Tom Nardi] and I were kicking around when he was writing up <a class=\"read-more\" href=\"https://hackaday.com/2026/08/01/commercialization-and-innovation/\">&#8230;read more</a>"
+  },
+  {
     "title": "Testing a 3D Printed Cycloidal Gearbox Design",
     "source": "Hackaday",
     "date": "2026-08-01",
@@ -35,6 +42,20 @@
     "summary": "<div><img alt=\"Creality Falcon T1 5-in-1 Laser Engraver review\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Creality-Falcon-T1-5-in-1-Laser-Engraver-review-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Creality sent us a sample of the Falcon T1 5-in-1 modular laser engraver for review. The company describes it as the world’s first 5-in-1 laser engraving and cutting machine that supports five types of laser modules in a single unit: 20W diode laser 20W, 40W diode laser, 20w fiber laser, 60W MOPA laser, and 5W UV Laser 5W. The laser heads can be swapped tool-free in just 15 seconds. It works with an HD camera and AI system and can engrave and cut a wide range of materials including wood, leather, acrylic, metal, glass, crystal, and plastic. Diode laser modules are ideal for cutting and engraving wood, leather, and acrylic, the fiber laser module is better suited for marking and engraving metal, the MOPA laser module supports color marking on metals such as stainless steel and titanium, and the UV laser module uses cold processing for high-precision work on glass, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/01/creality-falcon-t1-review-a-5-in-1-modular-laser-engraver-tested-with-20w-fiber-and-40w-diode-laser-modules/\">Creality Falcon T1 review &#8211; A 5-in-1 modular laser engraver tested with 20W fiber and 40W diode laser modules</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "That Project: A Standalone Rubik’s Cube Solver",
+    "source": "Adafruit",
+    "date": "2026-08-01",
+    "url": "https://blog.adafruit.com/2026/08/01/that-project-a-standalone-rubiks-cube-solver/",
+    "summary": "That Project made a screenless, standalone ESP32-S3 Rubik&#8217;s cube solver and shared the project on YouTube: This is a fully handheld, offline Rubik&#8217;s Cube solver powered by an ESP32-S3. It scans the cube using a built-in camera, detects colors with OpenCV, allows manual touch correction via an LVGL UI, and guides you through the solution [&#8230;]"
+  },
+  {
+    "title": "August is Back to School Month!! #BackToSchool #BackToSchool2026",
+    "source": "Adafruit",
+    "date": "2026-08-01",
+    "url": "https://blog.adafruit.com/2026/08/01/august-is-back-to-school-month-backtoschool-backtoschool2026/",
+    "summary": "Don&#8217;t get fooled by the pleasant weather, more heat and rain are on the way. It won&#8217;t be long, though, before false fall to come knocking, bringing shorter days and&#8230;a new school year approaching! August is Back to School Month so join us and get prepared for another scholastic voyage into the school year. We [&#8230;]"
+  },
+  {
     "title": "A Complex Way to Push a Button",
     "source": "Hackaday",
     "date": "2026-07-31",
@@ -47,13 +68,6 @@
     "date": "2026-07-31",
     "url": "https://hackaday.com/2026/07/31/tiny-desktop-robot-has-radar/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/6804301784523703780-e1785409638539.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One thing our futuristic world is largely lacking in is droids and robot companions and the like. [solitary dev] is helping to rectify that problem by building a little robot <a class=\"read-more\" href=\"https://hackaday.com/2026/07/31/tiny-desktop-robot-has-radar/\">&#8230;read more</a>"
-  },
-  {
-    "title": "NES Advantage Stick Gets Bluetooth Upgrade",
-    "source": "Hackaday",
-    "date": "2026-07-31",
-    "url": "https://hackaday.com/2026/07/31/nes-advantage-stick-gets-bluetooth-upgrade/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/07/392121785388293006-e1785410831248.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The NES Advantage was a cool bit of hardware back in 1987, bringing an arcade stick to the home console gaming experience. Naturally they don&#8217;t get much use these days, <a class=\"read-more\" href=\"https://hackaday.com/2026/07/31/nes-advantage-stick-gets-bluetooth-upgrade/\">&#8230;read more</a>"
   },
   {
     "title": "NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port",
@@ -89,62 +103,6 @@
     "date": "2026-07-31",
     "url": "https://www.embedded.com/mikroe-integrates-swift-navigation-skylark-with-gnss-19-click/",
     "summary": "<p>Mikroe has partnered with Swift Navigation to integrate the Skylark Precise Positioning Service into its GNSS 19 Click development board, providing users with a free six-month license to the cloud-based correction service. The collaboration is intended to simplify access to high-accuracy global navigation satellite system (GNSS) positioning for developers working on industrial, automotive, and IoT [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mikroe-integrates-swift-navigation-skylark-with-gnss-19-click/\">Mikroe Integrates Swift Navigation Skylark with GNSS 19 Click</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "When Phones Threatened PCs",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-phones-threatened-pcs-2026-07/",
-    "summary": "<p>At the 2000 ISS Taiwan the talk was about how the cell phone would impact the PC with the phone expected to become more datacentric and the PCs more portable, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-phones-threatened-pcs-2026-07/\">When Phones Threatened PCs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Amazon has Q2 sales of $200bn",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/amazon-has-q2-sales-of-200bn-2026-07/",
-    "summary": "<p>Amazon reported Q2 sales up 20% y-o-y to $200.6bn. Operating  profit was up 43% y-o-y to $27.5bn. Net profit was $62.6bn up from $18.2bn in Q2 2025. AWS sales were [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/amazon-has-q2-sales-of-200bn-2026-07/\">Amazon has Q2 sales of $200bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "First genuinely driverless robotaxi gets regulatory approval",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/first-genuine-driverless-2026-07/",
-    "summary": "<p>The first company to get regulatory approval for a genuinely driverless robotaxi is Amazon’s Zoox (pictured). Zoox has been licensed to deploy 2,500 vehicles annually for two years The US [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/first-genuine-driverless-2026-07/\">First genuinely driverless robotaxi gets regulatory approval</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Cook’s curtain call",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/cooks-curtain-call-2026-07/",
-    "summary": "<p>At his final results call Tim Cook turned in some pretty good numbers in a tough consumer electronics market. Apple had fiscal Q3 (calendar Q2) revenues up 16.4% y-o-y at [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/cooks-curtain-call-2026-07/\">Cook’s curtain call</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Element14 poses home and healthcare design challenge",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/element14-poses-home-and-healthcare-design-challenge-2026-07/",
-    "summary": "<p>Element14 has launched a home and healthcare design challenge inviting engineers, makers and technology enthusiasts to design and build a prototype smart home or healthcare system designed to support a [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/element14-poses-home-and-healthcare-design-challenge-2026-07/\">Element14 poses home and healthcare design challenge</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Infineon shipping isolator ICs for high-volume applications",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/infineon-shipping-isolator-ics-for-high-volume-applications-2026-07/",
-    "summary": "<p>Infineon is shipping the ISSI20BxxF Solid State Isolator (SSI) family, bringing solid-state isolation technology into high-volume applications traditionally served by photovoltaic isolators, photovoltaic relays and electromechanical relays. Housed in aPG-DSO-8 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-shipping-isolator-ics-for-high-volume-applications-2026-07/\">Infineon shipping isolator ICs for high-volume applications</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Back-end AI datacentre network switches head for $1tn market",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/datacentre-switches-head-for-1trn-market-2026-07/",
-    "summary": "<p>Cumulative spending on datacentre switches deployed in AI back-end networks to support next generation AI infrastructure is forecast to approach $1tn over the next five years (2026-2030), says Dell’Oro. Scale-up [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/datacentre-switches-head-for-1trn-market-2026-07/\">Back-end AI datacentre network switches head for $1tn market</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Wildfire",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/wildfire-2026-07/",
-    "summary": "<p>Europe’s wildfire season used to typically run from July to September, but now data shows that it is getting longer and more intense. By July 22nd the  burned area in [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/wildfire-2026-07/\">Wildfire</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Installing Docker on the Raspberry Pi",
@@ -273,20 +231,6 @@
     "summary": "<p>Avnet Silica details why sustained performance, not peak compute, will define the next phase of edge AI.</p>\n<p>The post <a href=\"https://www.embedded.com/why-sustained-performance-defines-the-next-phase-of-edge-ai/\">Why Sustained Performance Defines the Next Phase of Edge AI</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Fable: The Wise Laureate",
-    "source": "Electronics Weekly",
-    "date": "2026-07-30",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-wise-laureate-2026-07/",
-    "summary": "<p>A Nobel Physics Laureate who is 101 years old laid down five rules for being a successful researcher: Don&#8217;t allow yourself to be trapped by your past experiences. Don&#8217;t allow [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-wise-laureate-2026-07/\">Fable: The Wise Laureate</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Intel to license x86 RTL code",
-    "source": "Electronics Weekly",
-    "date": "2026-07-30",
-    "url": "https://www.electronicsweekly.com/news/business/intel-to-license-x86-rtl-code-2026-07/",
-    "summary": "<p>Intel is intending to ship RTL code for its x86 Atom processor to Rosaic Labs, a startup incorporated last May, reports Reuters. Rosaic CEO Amarjit Gill (pictured) and Intel CEO [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/intel-to-license-x86-rtl-code-2026-07/\">Intel to license x86 RTL code</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "Modular Smart Lamp – E26 Bulb Base Configurator #3DThursday #3DPrinting",
     "source": "Adafruit",
     "date": "2026-07-30",
@@ -306,20 +250,6 @@
     "date": "2026-07-30",
     "url": "https://blog.adafruit.com/2026/07/30/night-watchers-lamp-set-led-kit-001-large-a1-mini-size-3dthursday-3dprinting/",
     "summary": "Ymmit shares: A minimalist Scandinavian-styled lamp set with large and small variants (small fits the A1 Mini build plate perfectly). Designed for Bambu LED Kit 001 with a stabilizing base that presses in from below. Optional lid lets you fill the base with sand for a sturdier, premium feel. By T.H Made download the files [&#8230;]"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-07-30",
-    "url": "https://blog.adafruit.com/2026/07/30/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-30/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
-  },
-  {
-    "title": "Octolamp – GitHub-Inspired WLED Smart Sign / Lamp #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-07-30",
-    "url": "https://blog.adafruit.com/2026/07/30/octolamp-github-inspired-wled-smart-sign-lamp-3dthursday-3dprinting/",
-    "summary": "Shared by martinwoodward on MakerWorld: A 3D-printable, GitHub-inspired WiFi-enabled smart light powered by WLED and compatible with Home Assistant. Full assembly guide, wiring instructions, and BOM published on GitHub. A dev-culture-friendly Adafruit audience favorite. Download the files and learn more Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and [&#8230;]"
   },
   {
     "title": "EMASS Collaborates with Bosch Sensortec to Deliver Edge AI Asset Tracking Solution",
