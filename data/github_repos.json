@@ -1,13 +1,13 @@
 [
   {
     "repo": "NVIDIA/skills",
-    "stars": 2759,
+    "stars": 2760,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-01",
     "topic": "physical-ai",
-    "score": 1103.7
+    "score": 1104.1
   },
   {
     "repo": "commaai/openpilot",
@@ -31,13 +31,13 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15590,
+    "stars": 15591,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-01",
     "topic": "robotics",
-    "score": 6236.1
+    "score": 6236.5
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -111,13 +111,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5779,
+    "stars": 5780,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-01",
     "topic": "world-model",
-    "score": 2311.7
+    "score": 2312.1
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -148,6 +148,16 @@
     "date": "2026-08-01",
     "topic": "robot-learning",
     "score": 80.9
+  },
+  {
+    "repo": "aalmuzairee/squint",
+    "stars": 86,
+    "language": "Python",
+    "description": " Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics [PyTorch, SO-101 Robot Arm, ManiSkill3, Sim-to-Real] ",
+    "url": "https://github.com/aalmuzairee/squint",
+    "date": "2026-08-01",
+    "topic": "lerobot",
+    "score": 34.5
   },
   {
     "repo": "johnsutor/so101-nexus",
@@ -191,13 +201,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 12341,
+    "stars": 12348,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-07-31",
     "topic": "robotics",
-    "score": 4936.5
+    "score": 4939.3
   },
   {
     "repo": "rerun-io/rerun",
@@ -221,23 +231,23 @@
   },
   {
     "repo": "mani-skill/ManiSkill",
-    "stars": 3188,
+    "stars": 3189,
     "language": "Python",
     "description": "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
     "url": "https://github.com/mani-skill/ManiSkill",
     "date": "2026-07-31",
     "topic": "robot-learning",
-    "score": 1275.3
+    "score": 1275.7
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2204,
+    "stars": 2205,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-07-31",
     "topic": "robot-learning",
-    "score": 881.7
+    "score": 882.1
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -271,13 +281,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2218,
+    "stars": 2221,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-07-31",
     "topic": "humanoid",
-    "score": 887.3
+    "score": 888.5
   },
   {
     "repo": "softmata/horus",
@@ -291,13 +301,13 @@
   },
   {
     "repo": "ROBOTIS-GIT/ai_worker",
-    "stars": 155,
+    "stars": 156,
     "language": "Python",
     "description": "AI Worker: FFW (Freedom From Work)",
     "url": "https://github.com/ROBOTIS-GIT/ai_worker",
     "date": "2026-07-31",
     "topic": "humanoid",
-    "score": 62.1
+    "score": 62.5
   },
   {
     "repo": "vikashplus/robohive",
@@ -331,13 +341,13 @@
   },
   {
     "repo": "Edgenesis/shifu",
-    "stars": 1426,
+    "stars": 1427,
     "language": "Go",
     "description": "Kubernetes-native IoT gateway",
     "url": "https://github.com/Edgenesis/shifu",
     "date": "2026-07-29",
     "topic": "physical-ai",
-    "score": 570.5
+    "score": 570.9
   },
   {
     "repo": "nasa-jpl/open-source-rover",
@@ -401,13 +411,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS",
-    "stars": 1381,
+    "stars": 1384,
     "language": "Python",
     "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS",
     "date": "2026-07-28",
     "topic": "embodied-ai",
-    "score": 552.5
+    "score": 553.7
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -528,16 +538,6 @@
     "date": "2026-07-24",
     "topic": "humanoid",
     "score": 648.1
-  },
-  {
-    "repo": "fiveages-sim/lerobot_ros2",
-    "stars": 25,
-    "language": "Python",
-    "description": "LeRobot Robot and Camera for ROS2",
-    "url": "https://github.com/fiveages-sim/lerobot_ros2",
-    "date": "2026-07-24",
-    "topic": "lerobot",
-    "score": 10.1
   },
   {
     "repo": "thu-ml/Causal-Forcing",
@@ -751,13 +751,13 @@
   },
   {
     "repo": "nicklashansen/tdmpc2",
-    "stars": 911,
+    "stars": 912,
     "language": "Python",
     "description": "Code for \"TD-MPC2: Scalable, Robust World Models for Continuous Control\"",
     "url": "https://github.com/nicklashansen/tdmpc2",
     "date": "2026-07-13",
     "topic": "world-model",
-    "score": 364.5
+    "score": 364.9
   },
   {
     "repo": "ARISE-Initiative/robosuite",
@@ -801,13 +801,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82863,
+    "stars": 82866,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 33145.3
+    "score": 33146.5
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
@@ -851,13 +851,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44321,
+    "stars": 44322,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-07-03",
     "topic": "robotics",
-    "score": 17728.5
+    "score": 17728.9
   },
   {
     "repo": "NJU-RLC/quadrupedal-agility",
