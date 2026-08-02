@@ -1,5 +1,14 @@
 [
   {
+    "model": "H2Ozone/real_robot-gr00t",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/H2Ozone/real_robot-gr00t",
+    "date": "2026-08-02",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "mario-d-robot/QIE-2511-MP-AnyLight",
     "downloads": 0,
     "likes": 0,
@@ -16,6 +25,60 @@
     "date": "2026-08-02",
     "keyword": "robot",
     "score": 0.3
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0",
+    "date": "2026-08-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0",
+    "date": "2026-08-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0",
+    "date": "2026-08-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__blackout__sim__both_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout__sim__both_cameras__live__pi05__seed_0",
+    "date": "2026-08-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Aikwed/lingbot-vla-pick-and-place-toy-to-bucket",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Aikwed/lingbot-vla-pick-and-place-toy-to-bucket",
+    "date": "2026-08-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/pi05_rs-train_1_2-baseline",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/pi05_rs-train_1_2-baseline",
+    "date": "2026-08-02",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "sam-guided-vlas/train_1_2__mask__overlay_a75__sim__both_cameras__live__pi05__seed_1000",
@@ -45,15 +108,6 @@
     "score": 8.8
   },
   {
-    "model": "sam-guided-vlas/pi05_rs-train_1_2-baseline",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/pi05_rs-train_1_2-baseline",
-    "date": "2026-08-02",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "ezhoureal/lingbot-vla-v2-unibot-lora",
     "downloads": 0,
     "likes": 0,
@@ -81,13 +135,31 @@
     "score": 2.2
   },
   {
-    "model": "ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_60k",
-    "downloads": 18,
+    "model": "ntlfi/enpo-llama3-8b-tau-half-seed1-cuda13-iter3-policy",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_60k",
+    "url": "https://huggingface.co/ntlfi/enpo-llama3-8b-tau-half-seed1-cuda13-iter3-policy",
     "date": "2026-08-02",
-    "keyword": "vla",
-    "score": 5.5
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ntlfi/enpo-llama3-8b-tau-half-seed1-cuda13-iter2-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ntlfi/enpo-llama3-8b-tau-half-seed1-cuda13-iter2-policy",
+    "date": "2026-08-02",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Chaenn/act_policy_so101_cube_multitask_egde_0802",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Chaenn/act_policy_so101_cube_multitask_egde_0802",
+    "date": "2026-08-02",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "nosuke113/parc2026-policy",
@@ -151,42 +223,6 @@
     "date": "2026-08-01",
     "keyword": "robot",
     "score": 117.7
-  },
-  {
-    "model": "maximellerbach/omx_multicubes_lingbot_vla_v2",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/maximellerbach/omx_multicubes_lingbot_vla_v2",
-    "date": "2026-08-01",
-    "keyword": "vla",
-    "score": 5.2
-  },
-  {
-    "model": "VladShash/qwen3-feedback-grpo-fl0.05-step420",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/VladShash/qwen3-feedback-grpo-fl0.05-step420",
-    "date": "2026-08-01",
-    "keyword": "vla",
-    "score": 4.6
-  },
-  {
-    "model": "mradermacher/Curious-VLA-i1-GGUF",
-    "downloads": 1444,
-    "likes": 0,
-    "url": "https://huggingface.co/mradermacher/Curious-VLA-i1-GGUF",
-    "date": "2026-08-01",
-    "keyword": "vla",
-    "score": 433.3
-  },
-  {
-    "model": "ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_natural",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_natural",
-    "date": "2026-08-01",
-    "keyword": "vla",
-    "score": 4.0
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-stage2-lora-epoch3-v1",
@@ -270,33 +306,6 @@
     "score": 3.7
   },
   {
-    "model": "ntlfi/enpo-llama3-8b-eta-quarter-seed1-cuda13-iter2-policy",
-    "downloads": 11,
-    "likes": 0,
-    "url": "https://huggingface.co/ntlfi/enpo-llama3-8b-eta-quarter-seed1-cuda13-iter2-policy",
-    "date": "2026-08-01",
-    "keyword": "policy",
-    "score": 3.4
-  },
-  {
-    "model": "ntlfi/enpo-llama3-8b-eta-quarter-seed1-cuda13-iter1-policy",
-    "downloads": 11,
-    "likes": 0,
-    "url": "https://huggingface.co/ntlfi/enpo-llama3-8b-eta-quarter-seed1-cuda13-iter1-policy",
-    "date": "2026-08-01",
-    "keyword": "policy",
-    "score": 3.4
-  },
-  {
-    "model": "3cda2225/record-demo0802_act_policy",
-    "downloads": 25,
-    "likes": 0,
-    "url": "https://huggingface.co/3cda2225/record-demo0802_act_policy",
-    "date": "2026-08-01",
-    "keyword": "policy",
-    "score": 7.6
-  },
-  {
     "model": "OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_New",
     "downloads": 5,
     "likes": 0,
@@ -340,15 +349,6 @@
     "date": "2026-07-31",
     "keyword": "world model",
     "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Task_0728_Dispose_Low_Table_50K",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_0728_Dispose_Low_Table_50K",
-    "date": "2026-07-31",
-    "keyword": "robot",
-    "score": 3.7
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-stage2-lora-adapter-epoch3-v2",

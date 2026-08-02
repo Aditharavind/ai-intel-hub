@@ -42,6 +42,20 @@
     "summary": "<div><img alt=\"Octopus 16 biosignal device for gaming\" class=\"attachment-medium size-medium wp-post-image\" height=\"388\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Octopus-16-biosignal-device-for-gaming-720x388.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Octopus 16 is a wireless biosignal HID device for the XIAO ESP32-S3 board designed to let users play computer games using brain signals (EEG) with no hands (or implants) needed. The board packs 16 electrodes to measure biosignals, including EEG (electroencephalography), EMG (electromyography), and ECG (electrocardiography), and the coin-sized device is much more compact than other brain-computer interface (BCI) solutions, which typically require a cap kit with 8 to 16 electrodes and wires. Octopus 16 specifications: ADC &#8211; 2x Texas Instruments ADS131M08 24-bit, 8-channel, simultaneous-sampling, delta-sigma (ΔΣ) analog-to-digital converters Channels &#8211; 16x 24-bit channels (8x per ADC) Programmable gain (PGA) &#8211; x1 to x128 (set in firmware; default gain register 0x2222) Input high-pass / DC block &#8211; Integrated ADC DC-block filter enabled (≈ &#62;1 Hz) Host interface (to XIAO board) &#8211; Power + SPI via 2x 7-pin Brain interface 18x spring-loaded pogo pins 16x electrodes 1x  reference (AINREF) 1x Ground [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/\">Play games with your brain signals using Octopus 16 wireless EEG device</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Adafruit’s Top Ten Blog Posts of July 2026 #TopTen",
+    "source": "Adafruit",
+    "date": "2026-08-02",
+    "url": "https://blog.adafruit.com/2026/08/02/adafruits-top-ten-blog-posts-of-july-2026-topten/",
+    "summary": "ESP32-S31 now in mass production and available for purchase Replacing a $120k bowling center system with $1,600 in ESP32s Filament Spool Dry Box – Pelican-Style Latching #3DPrinting #3DThursday ESP32-S3 SuperMini + mmWave Sensor Enclosure (ESPHome) #3DPrinting #3DThursday Cassegotchi: Arduino Nano Tamagotchi Framework’s 10G Ethernet module exposes USB-C’s complexity CYD Desk Buddy – Bambu Lab + [&#8230;]"
+  },
+  {
+    "title": "Adafruit Weekly Editorial Round Up:  ESP32-S31 now in mass production, Jimothy & more!",
+    "source": "Adafruit",
+    "date": "2026-08-02",
+    "url": "https://blog.adafruit.com/2026/08/02/adafruit-weekly-editorial-round-up-esp32-s31-now-in-mass-production-jimothy-more/",
+    "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. ESP32-S31 now in mass production [&#8230;]"
+  },
+  {
     "title": "National Coloring Book Day 2026",
     "source": "Adafruit",
     "date": "2026-08-02",
@@ -126,62 +140,6 @@
     "summary": "<p>Mikroe has partnered with Swift Navigation to integrate the Skylark Precise Positioning Service into its GNSS 19 Click development board, providing users with a free six-month license to the cloud-based correction service. The collaboration is intended to simplify access to high-accuracy global navigation satellite system (GNSS) positioning for developers working on industrial, automotive, and IoT [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mikroe-integrates-swift-navigation-skylark-with-gnss-19-click/\">Mikroe Integrates Swift Navigation Skylark with GNSS 19 Click</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "When Phones Threatened PCs",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-phones-threatened-pcs-2026-07/",
-    "summary": "<p>At the 2000 ISS Taiwan the talk was about how the cell phone would impact the PC with the phone expected to become more datacentric and the PCs more portable, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-phones-threatened-pcs-2026-07/\">When Phones Threatened PCs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Amazon has Q2 sales of $200bn",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/amazon-has-q2-sales-of-200bn-2026-07/",
-    "summary": "<p>Amazon reported Q2 sales up 20% y-o-y to $200.6bn. Operating  profit was up 43% y-o-y to $27.5bn. Net profit was $62.6bn up from $18.2bn in Q2 2025. AWS sales were [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/amazon-has-q2-sales-of-200bn-2026-07/\">Amazon has Q2 sales of $200bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "First genuinely driverless robotaxi gets regulatory approval",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/first-genuine-driverless-2026-07/",
-    "summary": "<p>The first company to get regulatory approval for a genuinely driverless robotaxi is Amazon’s Zoox (pictured). Zoox has been licensed to deploy 2,500 vehicles annually for two years The US [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/first-genuine-driverless-2026-07/\">First genuinely driverless robotaxi gets regulatory approval</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Cook’s curtain call",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/cooks-curtain-call-2026-07/",
-    "summary": "<p>At his final results call Tim Cook turned in some pretty good numbers in a tough consumer electronics market. Apple had fiscal Q3 (calendar Q2) revenues up 16.4% y-o-y at [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/cooks-curtain-call-2026-07/\">Cook’s curtain call</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Element14 poses home and healthcare design challenge",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/element14-poses-home-and-healthcare-design-challenge-2026-07/",
-    "summary": "<p>Element14 has launched a home and healthcare design challenge inviting engineers, makers and technology enthusiasts to design and build a prototype smart home or healthcare system designed to support a [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/element14-poses-home-and-healthcare-design-challenge-2026-07/\">Element14 poses home and healthcare design challenge</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Infineon shipping isolator ICs for high-volume applications",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/infineon-shipping-isolator-ics-for-high-volume-applications-2026-07/",
-    "summary": "<p>Infineon is shipping the ISSI20BxxF Solid State Isolator (SSI) family, bringing solid-state isolation technology into high-volume applications traditionally served by photovoltaic isolators, photovoltaic relays and electromechanical relays. Housed in aPG-DSO-8 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-shipping-isolator-ics-for-high-volume-applications-2026-07/\">Infineon shipping isolator ICs for high-volume applications</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Back-end AI datacentre network switches head for $1tn market",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/datacentre-switches-head-for-1trn-market-2026-07/",
-    "summary": "<p>Cumulative spending on datacentre switches deployed in AI back-end networks to support next generation AI infrastructure is forecast to approach $1tn over the next five years (2026-2030), says Dell’Oro. Scale-up [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/datacentre-switches-head-for-1trn-market-2026-07/\">Back-end AI datacentre network switches head for $1tn market</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Wildfire",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/wildfire-2026-07/",
-    "summary": "<p>Europe’s wildfire season used to typically run from July to September, but now data shows that it is getting longer and more intense. By July 22nd the  burned area in [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/wildfire-2026-07/\">Wildfire</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "Installing Docker on the Raspberry Pi",
     "source": "Adafruit",
     "date": "2026-07-31",
@@ -222,13 +180,6 @@
     "date": "2026-07-31",
     "url": "https://blog.adafruit.com/2026/07/31/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-31-2/",
     "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
-  },
-  {
-    "title": "Raspberry Pi 5 Case for Pimoroni NVMe Base #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-07-31",
-    "url": "https://blog.adafruit.com/2026/07/30/raspberry-pi-5-case-for-pimoroni-nvme-base-3dthursday-3dprinting/",
-    "summary": "tdack. shares: A dedicated case for the Raspberry Pi 5 with a Pimoroni NVMe base fitted. Uses the silicon dots from the Pimoroni parts package stuck to the bottom of the NVMe base as standoffs. Clean, purpose-built for one of the most popular NVMe expansion options for the Pi 5 download the files on: https://makerworld.com/en/models/170315 [&#8230;]"
   },
   {
     "title": "Innodisk Introduces DDR5 12800 MT/s MRDIMM for AI and High-Performance Computing",
@@ -306,27 +257,6 @@
     "date": "2026-07-30",
     "url": "https://www.embedded.com/why-sustained-performance-defines-the-next-phase-of-edge-ai/",
     "summary": "<p>Avnet Silica details why sustained performance, not peak compute, will define the next phase of edge AI.</p>\n<p>The post <a href=\"https://www.embedded.com/why-sustained-performance-defines-the-next-phase-of-edge-ai/\">Why Sustained Performance Defines the Next Phase of Edge AI</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Fable: The Wise Laureate",
-    "source": "Electronics Weekly",
-    "date": "2026-07-30",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-wise-laureate-2026-07/",
-    "summary": "<p>A Nobel Physics Laureate who is 101 years old laid down five rules for being a successful researcher: Don&#8217;t allow yourself to be trapped by your past experiences. Don&#8217;t allow [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-wise-laureate-2026-07/\">Fable: The Wise Laureate</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Intel to license x86 RTL code",
-    "source": "Electronics Weekly",
-    "date": "2026-07-30",
-    "url": "https://www.electronicsweekly.com/news/business/intel-to-license-x86-rtl-code-2026-07/",
-    "summary": "<p>Intel is intending to ship RTL code for its x86 Atom processor to Rosaic Labs, a startup incorporated last May, reports Reuters. Rosaic CEO Amarjit Gill (pictured) and Intel CEO [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/intel-to-license-x86-rtl-code-2026-07/\">Intel to license x86 RTL code</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Modular Smart Lamp – E26 Bulb Base Configurator #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-07-30",
-    "url": "https://blog.adafruit.com/2026/07/30/modular-smart-lamp-e26-bulb-base-configurator-3dthursday-3dprinting/",
-    "summary": "Shared by Embrace Making on MakerWorld: A flexible modular smart lamp built around an E26 bulb base and collet system. Mix and match parts to make it funky, classy, or minimalist — swap looks quickly and easily. Fully customizable and remix-friendly. Download the files and learn more Every Thursday is #3dthursday here at Adafruit! The [&#8230;]"
   },
   {
     "title": "EMASS Collaborates with Bosch Sensortec to Deliver Edge AI Asset Tracking Solution",

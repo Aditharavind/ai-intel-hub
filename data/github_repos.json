@@ -10,14 +10,34 @@
     "score": 1108.5
   },
   {
+    "repo": "copper-project/copper-rs",
+    "stars": 1432,
+    "language": "Rust",
+    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
+    "url": "https://github.com/copper-project/copper-rs",
+    "date": "2026-08-02",
+    "topic": "physical-ai",
+    "score": 572.9
+  },
+  {
     "repo": "commaai/openpilot",
-    "stars": 63291,
+    "stars": 63293,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-02",
     "topic": "robotics",
-    "score": 25316.5
+    "score": 25317.3
+  },
+  {
+    "repo": "TianxingChen/Embodied-AI-Guide",
+    "stars": 15184,
+    "language": "",
+    "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
+    "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
+    "date": "2026-08-02",
+    "topic": "embodied-ai",
+    "score": 6073.7
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -31,13 +51,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 12467,
+    "stars": 12475,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-02",
     "topic": "robotics",
-    "score": 4986.9
+    "score": 4990.1
   },
   {
     "repo": "kornia/kornia",
@@ -48,6 +68,16 @@
     "date": "2026-08-02",
     "topic": "robotics",
     "score": 4519.3
+  },
+  {
+    "repo": "RLinf/RLinf",
+    "stars": 4375,
+    "language": "Python",
+    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
+    "url": "https://github.com/RLinf/RLinf",
+    "date": "2026-08-02",
+    "topic": "embodied-ai",
+    "score": 1750.1
   },
   {
     "repo": "dora-rs/dora",
@@ -91,13 +121,13 @@
   },
   {
     "repo": "sou350121/VLA-Handbook",
-    "stars": 460,
+    "stars": 461,
     "language": "HTML",
     "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
     "url": "https://github.com/sou350121/VLA-Handbook",
     "date": "2026-08-02",
     "topic": "robot-learning",
-    "score": 184.1
+    "score": 184.5
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -151,13 +181,13 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15597,
+    "stars": 15598,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-01",
     "topic": "robotics",
-    "score": 6238.9
+    "score": 6239.3
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -200,16 +230,6 @@
     "score": 11.3
   },
   {
-    "repo": "copper-project/copper-rs",
-    "stars": 1432,
-    "language": "Rust",
-    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
-    "url": "https://github.com/copper-project/copper-rs",
-    "date": "2026-07-31",
-    "topic": "physical-ai",
-    "score": 572.9
-  },
-  {
     "repo": "mosaico-labs/mosaico",
     "stars": 898,
     "language": "Python",
@@ -240,24 +260,14 @@
     "score": 4491.3
   },
   {
-    "repo": "RLinf/RLinf",
-    "stars": 4375,
-    "language": "Python",
-    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
-    "url": "https://github.com/RLinf/RLinf",
-    "date": "2026-07-31",
-    "topic": "embodied-ai",
-    "score": 1750.1
-  },
-  {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2214,
+    "stars": 2215,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-07-31",
     "topic": "robot-learning",
-    "score": 885.7
+    "score": 886.1
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -350,24 +360,14 @@
     "score": 570.9
   },
   {
-    "repo": "nasa-jpl/open-source-rover",
-    "stars": 9551,
-    "language": "Prolog",
-    "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
-    "url": "https://github.com/nasa-jpl/open-source-rover",
-    "date": "2026-07-29",
-    "topic": "robotics",
-    "score": 3820.5
-  },
-  {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 2079,
+    "stars": 2080,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-07-29",
     "topic": "world-model",
-    "score": 831.7
+    "score": 832.1
   },
   {
     "repo": "zli12321/Vision-Language-Models-Overview",
@@ -408,16 +408,6 @@
     "date": "2026-07-28",
     "topic": "embodied-ai",
     "score": 1301.7
-  },
-  {
-    "repo": "PhyAgentOS/PhyAgentOS",
-    "stars": 1443,
-    "language": "Python",
-    "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
-    "url": "https://github.com/PhyAgentOS/PhyAgentOS",
-    "date": "2026-07-28",
-    "topic": "embodied-ai",
-    "score": 577.3
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -471,13 +461,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30223,
+    "stars": 30226,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-07-27",
     "topic": "robotics",
-    "score": 12089.3
+    "score": 12090.5
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",
@@ -531,13 +521,13 @@
   },
   {
     "repo": "phi-monster/Galahad",
-    "stars": 123,
+    "stars": 124,
     "language": "Python",
     "description": "Instruction blindness in vision-language-action policies: diagnosis and a low-rank data cure. Paper, model, deconfounded datasets, generator, and the measurement battery.",
     "url": "https://github.com/phi-monster/Galahad",
     "date": "2026-07-25",
     "topic": "robot-learning",
-    "score": 49.3
+    "score": 49.7
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
@@ -711,13 +701,13 @@
   },
   {
     "repo": "amazon-far/abc",
-    "stars": 280,
+    "stars": 281,
     "language": "Python",
     "description": "ABC: Scalable Behavior Cloning with Open Data, Training, and Evaluation",
     "url": "https://github.com/amazon-far/abc",
     "date": "2026-07-17",
     "topic": "vla",
-    "score": 112.1
+    "score": 112.5
   },
   {
     "repo": "OpenDriveLab/RoboNaldo",
@@ -821,13 +811,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82888,
+    "stars": 82890,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 33155.3
+    "score": 33156.1
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
@@ -871,12 +861,12 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44324,
+    "stars": 44323,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-07-03",
     "topic": "robotics",
-    "score": 17729.7
+    "score": 17729.3
   }
 ]

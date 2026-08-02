@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-02 14:19 UTC
+Last Updated: 2026-08-02 15:49 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -55,10 +55,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-02 | UV Printer? 3D Printer? HeyGears says “Why Not Both”? | Hackaday | [link](https://hackaday.com/2026/08/01/uv-printer-3d-printer-heygears-says-why-not-both/) |
 | 2026-08-02 | Bike Trainers as Video Game Controllers | Hackaday | [link](https://hackaday.com/2026/08/01/bike-trainers-as-video-game-controllers/) |
 | 2026-08-02 | Play games with your brain signals using Octopus 16 wireless EEG device | CNX Software | [link](https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/) |
+| 2026-08-02 | Adafruit’s Top Ten Blog Posts of July 2026 #TopTen | Adafruit | [link](https://blog.adafruit.com/2026/08/02/adafruits-top-ten-blog-posts-of-july-2026-topten/) |
+| 2026-08-02 | Adafruit Weekly Editorial Round Up:  ESP32-S31 now in mass production, Jimothy & more! | Adafruit | [link](https://blog.adafruit.com/2026/08/02/adafruit-weekly-editorial-round-up-esp32-s31-now-in-mass-production-jimothy-more/) |
 | 2026-08-02 | National Coloring Book Day 2026 | Adafruit | [link](https://blog.adafruit.com/2026/08/02/national-coloring-book-day-2026/) |
 | 2026-08-01 | Stewart Platform Walker Gains Feeling In Legs From Resistors | Hackaday | [link](https://hackaday.com/2026/08/01/stewart-platform-walker-gains-feeling-in-legs-from-resistors/) |
-| 2026-08-01 | Open Source Stream Deck Targets Flexibility | Hackaday | [link](https://hackaday.com/2026/08/01/open-source-stream-deck-targets-flexibility/) |
-| 2026-08-01 | Creality Falcon T1 review – A 5-in-1 modular laser engraver tested with 20W fiber and 40W diode laser modules | CNX Software | [link](https://www.cnx-software.com/2026/08/01/creality-falcon-t1-review-a-5-in-1-modular-laser-engraver-tested-with-20w-fiber-and-40w-diode-laser-modules/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-02 | H2Ozone/real_robot-gr00t | 0 | 0 | [link](https://huggingface.co/H2Ozone/real_robot-gr00t) |
 | 2026-08-02 | mario-d-robot/QIE-2511-MP-AnyLight | 0 | 0 | [link](https://huggingface.co/mario-d-robot/QIE-2511-MP-AnyLight) |
 | 2026-08-02 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
-| 2026-08-02 | sam-guided-vlas/train_1_2__mask__overlay_a75__sim__both_cameras__live__pi05__seed_1000 | 10 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__both_cameras__live__pi05__seed_1000) |
-| 2026-08-02 | sam-guided-vlas/train_1_2__mask__overlay_a50__sim__both_cameras__live__pi05__seed_1000 | 7 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a50__sim__both_cameras__live__pi05__seed_1000) |
-| 2026-08-02 | sam-guided-vlas/train_1_2__mask__overlay_a25__sim__both_cameras__live__pi05__seed_1000 | 29 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a25__sim__both_cameras__live__pi05__seed_1000) |
+| 2026-08-02 | sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0) |
+| 2026-08-02 | sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0) |
+| 2026-08-02 | sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0) |
+| 2026-08-02 | sam-guided-vlas/train_1_2__mask__blackout__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout__sim__both_cameras__live__pi05__seed_0) |
+| 2026-08-02 | Aikwed/lingbot-vla-pick-and-place-toy-to-bucket | 0 | 0 | [link](https://huggingface.co/Aikwed/lingbot-vla-pick-and-place-toy-to-bucket) |
 | 2026-08-02 | sam-guided-vlas/pi05_rs-train_1_2-baseline | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/pi05_rs-train_1_2-baseline) |
-| 2026-08-02 | ezhoureal/lingbot-vla-v2-unibot-lora | 0 | 0 | [link](https://huggingface.co/ezhoureal/lingbot-vla-v2-unibot-lora) |
-| 2026-08-02 | vedantjadhav701/Agri_VLAM_0.8b | 0 | 0 | [link](https://huggingface.co/vedantjadhav701/Agri_VLAM_0.8b) |
-| 2026-08-02 | Aikwed/lingbot-vla-pick-and-place-toys-clean | 7 | 0 | [link](https://huggingface.co/Aikwed/lingbot-vla-pick-and-place-toys-clean) |
-| 2026-08-02 | ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_60k | 18 | 0 | [link](https://huggingface.co/ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_60k) |
+| 2026-08-02 | sam-guided-vlas/train_1_2__mask__overlay_a75__sim__both_cameras__live__pi05__seed_1000 | 10 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__both_cameras__live__pi05__seed_1000) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 2771 | Python | 1108.5 | [link](https://github.com/NVIDIA/skills) |
-| commaai/openpilot | 63291 | Python | 25316.5 | [link](https://github.com/commaai/openpilot) |
+| copper-project/copper-rs | 1432 | Rust | 572.9 | [link](https://github.com/copper-project/copper-rs) |
+| commaai/openpilot | 63293 | Python | 25317.3 | [link](https://github.com/commaai/openpilot) |
+| TianxingChen/Embodied-AI-Guide | 15184 |  | 6073.7 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 | google-deepmind/mujoco | 14412 | C++ | 5764.9 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 12467 | JavaScript | 4986.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 12475 | JavaScript | 4990.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11298 | Python | 4519.3 | [link](https://github.com/kornia/kornia) |
+| RLinf/RLinf | 4375 | Python | 1750.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3857 | Rust | 1542.9 | [link](https://github.com/dora-rs/dora) |
 | mani-skill/ManiSkill | 3194 | Python | 1277.7 | [link](https://github.com/mani-skill/ManiSkill) |
-| StanfordVL/BEHAVIOR-1K | 1608 | Python | 643.3 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| flashrt-project/FlashRT | 477 | C++ | 190.9 | [link](https://github.com/flashrt-project/FlashRT) |
-| sou350121/VLA-Handbook | 460 | HTML | 184.1 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

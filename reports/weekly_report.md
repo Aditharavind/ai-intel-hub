@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-02 14:19 UTC
+Generated: 2026-08-02 15:49 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-08-02 14:19 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82888 | 33155.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63291 | 25316.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44324 | 17729.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30223 | 12089.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 82890 | 33156.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63293 | 25317.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44323 | 17729.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30226 | 12090.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16080 | 6432.1 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| mradermacher/Curious-VLA-i1-GGUF | 1444 | 433.3 | [link](https://huggingface.co/mradermacher/Curious-VLA-i1-GGUF) |
 | tencent/Hy-Embodied-VLM-1.0 | 1065 | 324.0 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
 | SEU-PAISys/Embodied.cpp | 718 | 216.3 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
 | zhijieq/directional-navigation | 418 | 125.5 | [link](https://huggingface.co/zhijieq/directional-navigation) |
 | HarrisonPENG/M2W-VLA-RoboTwin | 392 | 117.7 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
+| tencent/Hy-Embodied-RxBrain-1.0 | 344 | 113.9 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
