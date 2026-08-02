@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-01 23:44 UTC
+Last Updated: 2026-08-02 01:19 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,13 +77,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-02 | sam-guided-vlas/pi05_rs-train_1_2-baseline | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/pi05_rs-train_1_2-baseline) |
 | 2026-08-01 | qj-robot/X-Chat-1.7B | 0 | 0 | [link](https://huggingface.co/qj-robot/X-Chat-1.7B) |
 | 2026-08-01 | puppet-robotics/golf-model-200-obs-rgb-4fps | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-200-obs-rgb-4fps) |
 | 2026-08-01 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-01 | access-robotics-team/so-p5-ft-ma-100-260801 | 0 | 0 | [link](https://huggingface.co/access-robotics-team/so-p5-ft-ma-100-260801) |
 | 2026-08-01 | HarrisonPENG/M2W-VLA-RoboTwin | 374 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-08-01 | maximellerbach/omx_multicubes_lingbot_vla_v2 | 0 | 0 | [link](https://huggingface.co/maximellerbach/omx_multicubes_lingbot_vla_v2) |
-| 2026-08-01 | sam-guided-vlas/pi05_rs-train_1_2-baseline | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/pi05_rs-train_1_2-baseline) |
 | 2026-08-01 | Aikwed/lingbot-vla-pick-and-place-toys-clean | 0 | 0 | [link](https://huggingface.co/Aikwed/lingbot-vla-pick-and-place-toys-clean) |
 | 2026-08-01 | VladShash/qwen3-feedback-grpo-fl0.05-step420 | 0 | 0 | [link](https://huggingface.co/VladShash/qwen3-feedback-grpo-fl0.05-step420) |
 | 2026-08-01 | mradermacher/Curious-VLA-i1-GGUF | 234 | 0 | [link](https://huggingface.co/mradermacher/Curious-VLA-i1-GGUF) |
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2761 | Python | 1104.5 | [link](https://github.com/NVIDIA/skills) |
 | commaai/openpilot | 63287 | Python | 25314.9 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 16080 | Python | 6432.1 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15592 | C++ | 6236.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14405 | C++ | 5762.1 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11298 | Python | 4519.3 | [link](https://github.com/kornia/kornia) |
 | dora-rs/dora | 3857 | Rust | 1542.9 | [link](https://github.com/dora-rs/dora) |
+| StanfordVL/BEHAVIOR-1K | 1607 | Python | 642.9 | [link](https://github.com/StanfordVL/BEHAVIOR-1K) |
+| NVIDIA/skills | 2762 | Python | 1104.9 | [link](https://github.com/NVIDIA/skills) |
+| zauberzeug/nicegui | 16080 | Python | 6432.1 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15593 | C++ | 6237.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14406 | C++ | 5762.5 | [link](https://github.com/google-deepmind/mujoco) |
+| kornia/kornia | 11298 | Python | 4519.3 | [link](https://github.com/kornia/kornia) |
 | datawhalechina/every-embodied | 2949 | Python | 1179.7 | [link](https://github.com/datawhalechina/every-embodied) |
 | flashrt-project/FlashRT | 476 | C++ | 190.5 | [link](https://github.com/flashrt-project/FlashRT) |
-| sou350121/VLA-Handbook | 459 | HTML | 183.7 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -123,7 +123,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-01 | Mbodi AI Recruitment Drive Targets Research Engineers to Build Next Generation Robotics - chshyd.in | embodied ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlAtYXNMRnZ2MHUzOTR4WUtHSFNhN0Q4cUs5S2FGbk1fYUo4Wjd1aGlBU1JDc1JMRkUxS0x1RHZQWmE0YnA2UUxEU1MzTnZOOHVIWld3LTZ6bHgzN2lPbUJEc1BpOFFndGs1Q0ZpV1k4Wi1qU2dJRnFzd3hlZUs3U2F5WEtvQkZpVnpzZl8wSHJtN0pVUEVBejlFR2w?oc=5) |
 | 2026-07-31 | Korean Physical AI Startups Face a Hard Truth: A 98% Accurate AI Model Can Still Fail Inside a Robot - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbm56aHN1cU9VNW02QnJBTTJDcmhQS19ITE9kX2w4VnVrREpUS0dWeW1Ya191UDB3SjBRcmd0U2kwYWFIUGZFVkJXOG9KVEZpcmVwNjYtYkJjRTFZT3BvMncwMV9BeUk4ejRrcl9yc2F4OHhPTEJCTHRtdnhRN0dzMUZxT3ZUZlZNa0E?oc=5) |
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
-| 2026-07-31 | SK Telecom partners with physical AI startups - newsarticleinsiders.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
+| 2026-07-31 | SK Telecom partners with physical AI startups - The Korea News Plus | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
 | 2026-07-31 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
 | 2026-07-31 | San Francisco company offers cleaning service using humanoid robots - ABC News - Breaking News, Latest News and Videos | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPU09xRXh1cjdLQ3JaVW80MnVtcHhDLXp3dmFua2xfQnVodDVZbnVzVHpQMms5UzJra1ZjWFQtRE9ObFVpSnVtTmJDYkxrenRoelV6SlhibVdPSHhiYi00SE9OSHdqcHA5OEF4Rk1Ga2dKakVfWXEzOTZsUzhuc2g0QWYzbVl6LVZrMk04V0YzUjFBQlJJQ1NYcE1tTGJYMG1DWG9WYjhBZkEyc3Zkc1N1X9IBtgFBVV95cUxQTGZibk1YenNFTGRWLXJJMEZNMGVINUNLdzNUV0laX09zS19pa2Z1MjBiZjdzZU5JWl9lQUh3cDA5cGdxTTZKMnI5NkdIM2tZOUJBUnBBTVFjTFJWSFJ5c1AyTDN0cFFYUVZhaTBOM2Q0cWJtWl9CeGJPUXpaNGFnSWk3QmhDeW41TXRxUEdPTWhNT1JkSHRlMlItV19MbzJHWENDelpBSHN6ZkhheDQ0bjlpdGZLQQ?oc=5) |
 | 2026-07-31 | Robotics startup debuts humanoid housekeepers - Good Morning America | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2YUxtcEoyU3dYeFlLNU15SGhwb200bmk5eXlOX2dLTE5GTF9qU2p5Qk91ZktPbGw3ZGEzTHliQi1oRnJTREtGLW9yY1ltbURYUVNpaEpRSVF5VmV4Rklj0gFkQVVfeXFMTzVJUV9FcW5hWlhkNTB2a3BLSUNKdUtKak5wdnhsY3NqenFrYjNXM1dOdU1oOGRMRXpEbFRxbkJnaFlLSUFFT05uRGdFMHFfam45dHJvQlVHaUtOenR5SExNcGxwWQ?oc=5) |
