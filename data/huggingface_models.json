@@ -54,15 +54,6 @@
     "score": 0.1
   },
   {
-    "model": "rl2-vla/rl2-vla-qam-bridge",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/rl2-vla/rl2-vla-qam-bridge",
-    "date": "2026-08-02",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -76,6 +67,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0",
+    "date": "2026-08-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "rl2-vla/rl2-vla-qam-bridge",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/rl2-vla/rl2-vla-qam-bridge",
     "date": "2026-08-02",
     "keyword": "vla",
     "score": 0.1
@@ -132,6 +132,24 @@
     "url": "https://huggingface.co/ezhoureal/lingbot-vla-v2-unibot-lora",
     "date": "2026-08-02",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "flashrt/world-model-conv",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/flashrt/world-model-conv",
+    "date": "2026-08-02",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "aakankshpanda/angle_peg_stereo_07_30_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/aakankshpanda/angle_peg_stereo_07_30_policy",
+    "date": "2026-08-02",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -288,15 +306,6 @@
     "score": 2.5
   },
   {
-    "model": "ntlfi/enpo-llama3-8b-eta-eighth-seed1-cuda13-iter2-policy",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/ntlfi/enpo-llama3-8b-eta-eighth-seed1-cuda13-iter2-policy",
-    "date": "2026-08-01",
-    "keyword": "policy",
-    "score": 2.8
-  },
-  {
     "model": "OpenWAM/SFT_Cotrain_Action_Supervision_Robotwin_Clean_New",
     "downloads": 5,
     "likes": 0,
@@ -402,15 +411,6 @@
     "url": "https://huggingface.co/ubr-physical-ai/UBR-Nav-E4B",
     "date": "2026-07-31",
     "keyword": "physical ai",
-    "score": 0.1
-  },
-  {
-    "model": "flashrt/world-model-conv",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/flashrt/world-model-conv",
-    "date": "2026-07-30",
-    "keyword": "world model",
     "score": 0.1
   },
   {
