@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-02 15:49 UTC
+Generated: 2026-08-02 16:41 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-08-02 15:49 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82890 | 33156.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63293 | 25317.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44323 | 17729.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30226 | 12090.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16080 | 6432.1 | [link](https://github.com/zauberzeug/nicegui) |
+| Developer-Y/cs-video-courses | 82893 | 33157.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63294 | 25317.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44324 | 17729.7 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30227 | 12090.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16081 | 6432.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |

@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-02 15:49 UTC
+Last Updated: 2026-08-02 16:41 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -93,14 +93,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 2771 | Python | 1108.5 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1432 | Rust | 572.9 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63293 | Python | 25317.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63294 | Python | 25317.7 | [link](https://github.com/commaai/openpilot) |
 | TianxingChen/Embodied-AI-Guide | 15184 |  | 6073.7 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
-| google-deepmind/mujoco | 14412 | C++ | 5764.9 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 12475 | JavaScript | 4990.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14415 | C++ | 5766.1 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 12478 | JavaScript | 4991.3 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11298 | Python | 4519.3 | [link](https://github.com/kornia/kornia) |
-| RLinf/RLinf | 4375 | Python | 1750.1 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3857 | Rust | 1542.9 | [link](https://github.com/dora-rs/dora) |
-| mani-skill/ManiSkill | 3194 | Python | 1277.7 | [link](https://github.com/mani-skill/ManiSkill) |
+| RLinf/RLinf | 4376 | Python | 1750.5 | [link](https://github.com/RLinf/RLinf) |
+| dora-rs/dora | 3858 | Rust | 1543.3 | [link](https://github.com/dora-rs/dora) |
+| mani-skill/ManiSkill | 3195 | Python | 1278.1 | [link](https://github.com/mani-skill/ManiSkill) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
