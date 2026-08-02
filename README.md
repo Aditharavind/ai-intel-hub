@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-02 17:48 UTC
+Last Updated: 2026-08-02 18:46 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -81,9 +81,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-02 | H2Ozone/real_robot-gr00t | 0 | 0 | [link](https://huggingface.co/H2Ozone/real_robot-gr00t) |
 | 2026-08-02 | mario-d-robot/QIE-2511-MP-AnyLight | 0 | 0 | [link](https://huggingface.co/mario-d-robot/QIE-2511-MP-AnyLight) |
 | 2026-08-02 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
-| 2026-08-02 | rl2-vla/rl2-vla-qam-bridge | 0 | 0 | [link](https://huggingface.co/rl2-vla/rl2-vla-qam-bridge) |
 | 2026-08-02 | sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0) |
 | 2026-08-02 | sam-guided-vlas/train_1_2__mask__blackout__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout__sim__both_cameras__live__pi05__seed_0) |
+| 2026-08-02 | rl2-vla/rl2-vla-qam-bridge | 0 | 0 | [link](https://huggingface.co/rl2-vla/rl2-vla-qam-bridge) |
 | 2026-08-02 | sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0) |
 | 2026-08-02 | sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0) |
 | 2026-08-02 | Aikwed/lingbot-vla-pick-and-place-toy-to-bucket | 0 | 0 | [link](https://huggingface.co/Aikwed/lingbot-vla-pick-and-place-toy-to-bucket) |
@@ -93,14 +93,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 2771 | Python | 1108.5 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1432 | Rust | 572.9 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63294 | Python | 25317.7 | [link](https://github.com/commaai/openpilot) |
-| TianxingChen/Embodied-AI-Guide | 15184 |  | 6073.7 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
+| commaai/openpilot | 63295 | Python | 25318.1 | [link](https://github.com/commaai/openpilot) |
+| TianxingChen/Embodied-AI-Guide | 15185 |  | 6074.1 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 | google-deepmind/mujoco | 14415 | C++ | 5766.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 12481 | JavaScript | 4992.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 12487 | JavaScript | 4994.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11298 | Python | 4519.3 | [link](https://github.com/kornia/kornia) |
 | RLinf/RLinf | 4376 | Python | 1750.5 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3858 | Rust | 1543.3 | [link](https://github.com/dora-rs/dora) |
-| mani-skill/ManiSkill | 3195 | Python | 1278.1 | [link](https://github.com/mani-skill/ManiSkill) |
+| mani-skill/ManiSkill | 3196 | Python | 1278.5 | [link](https://github.com/mani-skill/ManiSkill) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -114,12 +114,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-27 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMVdOTjZURFZMVlNVY2NPMEhuaW4wUW1Ka0VJMUllT0p4Wm5EbnV3QzV4cXlLLWhEWnU2RnBfVlc5SW1iVGlYTEVCR29UY1dscllYY3BxM2dWSHVBY280ZUl2U0xUTGdCMF9nNkZmcUxTMHg1WjhXUnEza1ZqRnRhTldFTzVzWUlWVEl6MjN1YmEwQTNSdGVPUzNHdHVGc2NIMENRc01zYjlnRGdZNExCV0N2X2U2UHpqRWw0?oc=5) |
 | 2026-07-24 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaXNud1RkdkJLTDF5VVl4SW5QNEdzS3p1ak4zbFN5eUpqMXpLWjZ4Wno3bk5UV3habVdfcmxjZktuTmZWdDJLY3htZmlqSFg4d0FoUTB0cGZlUTlNeXJBbE1lbnVlYjVlWkROWlBzQ1oza0tDX0NKWFpwLWROR3lpbEVCTTJ0cC1vcXRj?oc=5) |
 | 2026-07-24 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
-| 2026-07-21 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxQQjBvS2FjVDJaZkIxVGNGd0JiSlYyOFk5Tzc3RzdtbjBLU0NtRDc3MTdWVTRjTkdQWWR5cjBJT3FsMW9jSGJvYVd2YmJEMzZ1aE1sazBXXzFIaVBiMnF2ZEdxcmlodXZCb09veWRqQWZ6cElvdnQ5eDRRZExMSF8tbVpaYmpuQmItQ3UyZWF3d2JuX1ZJSVNKbzY3cG9tU2NCUmJmem1RajJ3UklxZHfSAbMBQVVfeXFMTlBYZGZHd1RXNEFIcVdwLW03bHg3Mm9zU1ZqRTNhTXFpeTk0OHZKUnI1NGVKZDJVTS1qZmhnYWRINFhBaHpKMXFIZVY5X3lPLXQzcFVwUzYwS1hNY19rM0xKNFZVWS1HamJCXzVoTEdUMWVkRENsb2JNSlJzRzNFdVVremRSeHpoRUpUWXNmNlhQSzV0dy1xb1AxZzJWSWw4NzNjb0hFUm5Hbk8tbTdRQjlGWTQ?oc=5) |
+| 2026-07-20 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxQQjBvS2FjVDJaZkIxVGNGd0JiSlYyOFk5Tzc3RzdtbjBLU0NtRDc3MTdWVTRjTkdQWWR5cjBJT3FsMW9jSGJvYVd2YmJEMzZ1aE1sazBXXzFIaVBiMnF2ZEdxcmlodXZCb09veWRqQWZ6cElvdnQ5eDRRZExMSF8tbVpaYmpuQmItQ3UyZWF3d2JuX1ZJSVNKbzY3cG9tU2NCUmJmem1RajJ3UklxZHfSAbMBQVVfeXFMTlBYZGZHd1RXNEFIcVdwLW03bHg3Mm9zU1ZqRTNhTXFpeTk0OHZKUnI1NGVKZDJVTS1qZmhnYWRINFhBaHpKMXFIZVY5X3lPLXQzcFVwUzYwS1hNY19rM0xKNFZVWS1HamJCXzVoTEdUMWVkRENsb2JNSlJzRzNFdVVremRSeHpoRUpUWXNmNlhQSzV0dy1xb1AxZzJWSWw4NzNjb0hFUm5Hbk8tbTdRQjlGWTQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
+| 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - kspost.biz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
 | 2026-08-01 | SKT Is Selling Robot Training, Not Gigawatts - Sebastian Barros Newsletter | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTFB5VHkwWnQ5LVFFQkpxY2ZySlk3d1lDWWtlVzBkVzlFRkZ6WXJLQWhKR0FqRHVXZm84eTllUl9IMlVFUmtFeXdnM2NpTHowZXU0M3JOQjJvUnhmZUtZUkJlYVNhdUZ2LWlmUHAweHFqWkxPTW1sbElVdkFvVEU?oc=5) |
 | 2026-07-31 | Korean Physical AI Startups Face a Hard Truth: A 98% Accurate AI Model Can Still Fail Inside a Robot - koreatechdesk.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbm56aHN1cU9VNW02QnJBTTJDcmhQS19ITE9kX2w4VnVrREpUS0dWeW1Ya191UDB3SjBRcmd0U2kwYWFIUGZFVkJXOG9KVEZpcmVwNjYtYkJjRTFZT3BvMncwMV9BeUk4ejRrcl9yc2F4OHhPTEJCTHRtdnhRN0dzMUZxT3ZUZlZNa0E?oc=5) |
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
