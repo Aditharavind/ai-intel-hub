@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-02 21:42 UTC
+Last Updated: 2026-08-02 22:43 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -57,8 +57,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-02 | UV Printer? 3D Printer? HeyGears says “Why Not Both”? | Hackaday | [link](https://hackaday.com/2026/08/01/uv-printer-3d-printer-heygears-says-why-not-both/) |
 | 2026-08-02 | Bike Trainers as Video Game Controllers | Hackaday | [link](https://hackaday.com/2026/08/01/bike-trainers-as-video-game-controllers/) |
 | 2026-08-02 | Play games with your brain signals using Octopus 16 wireless EEG device | CNX Software | [link](https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/) |
+| 2026-08-02 | Overwatch Prop Gun: Lucio’s Blaster #AdafruitLearnGuide | Adafruit | [link](https://blog.adafruit.com/2026/08/02/overwatch-prop-gun-lucios-blaster-adafruitlearnguide/) |
 | 2026-08-02 | Adafruit’s Top Ten Blog Posts of July 2026 #TopTen | Adafruit | [link](https://blog.adafruit.com/2026/08/02/adafruits-top-ten-blog-posts-of-july-2026-topten/) |
-| 2026-08-02 | Adafruit Weekly Editorial Round Up:  ESP32-S31 now in mass production, Jimothy & more! | Adafruit | [link](https://blog.adafruit.com/2026/08/02/adafruit-weekly-editorial-round-up-esp32-s31-now-in-mass-production-jimothy-more/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-02 | RobotisSW/n17_pick_chestnuts_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/n17_pick_chestnuts_100k) |
+| 2026-08-02 | RobotisSW/n17_pick_chestnuts_80k | 0 | 0 | [link](https://huggingface.co/RobotisSW/n17_pick_chestnuts_80k) |
+| 2026-08-02 | RobotisSW/n17_pick_chestnuts_60k | 0 | 0 | [link](https://huggingface.co/RobotisSW/n17_pick_chestnuts_60k) |
 | 2026-08-02 | HarrisonPENG/M2W-VLA-RoboTwin | 392 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-08-02 | H2Ozone/real_robot-gr00t | 0 | 0 | [link](https://huggingface.co/H2Ozone/real_robot-gr00t) |
 | 2026-08-02 | mario-d-robot/QIE-2511-MP-AnyLight | 0 | 0 | [link](https://huggingface.co/mario-d-robot/QIE-2511-MP-AnyLight) |
 | 2026-08-02 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
-| 2026-08-02 | sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0) |
-| 2026-08-02 | sam-guided-vlas/train_1_2__mask__blackout__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout__sim__both_cameras__live__pi05__seed_0) |
 | 2026-08-02 | sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0) |
 | 2026-08-02 | sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0) |
-| 2026-08-02 | rl2-vla/rl2-vla-qam-bridge | 0 | 0 | [link](https://huggingface.co/rl2-vla/rl2-vla-qam-bridge) |
-| 2026-08-02 | Aikwed/lingbot-vla-pick-and-place-toy-to-bucket | 0 | 0 | [link](https://huggingface.co/Aikwed/lingbot-vla-pick-and-place-toy-to-bucket) |
+| 2026-08-02 | sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2771 | Python | 1108.5 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2772 | Python | 1108.9 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1432 | Rust | 572.9 | [link](https://github.com/copper-project/copper-rs) |
 | commaai/openpilot | 63295 | Python | 25318.1 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15599 | C++ | 6239.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | TianxingChen/Embodied-AI-Guide | 15185 |  | 6074.1 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 | google-deepmind/mujoco | 14415 | C++ | 5766.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 12501 | JavaScript | 5000.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 12502 | JavaScript | 5000.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11298 | Python | 4519.3 | [link](https://github.com/kornia/kornia) |
 | RLinf/RLinf | 4376 | Python | 1750.5 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3858 | Rust | 1543.3 | [link](https://github.com/dora-rs/dora) |
-| mani-skill/ManiSkill | 3196 | Python | 1278.5 | [link](https://github.com/mani-skill/ManiSkill) |
 
 ## Startup Funding
 _No items collected yet._

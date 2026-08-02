@@ -56,6 +56,13 @@
     "summary": "<div><img alt=\"Octopus 16 biosignal device for gaming\" class=\"attachment-medium size-medium wp-post-image\" height=\"388\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Octopus-16-biosignal-device-for-gaming-720x388.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Octopus 16 is a wireless biosignal HID device for the XIAO ESP32-S3 board designed to let users play computer games using brain signals (EEG) with no hands (or implants) needed. The board packs 16 electrodes to measure biosignals, including EEG (electroencephalography), EMG (electromyography), and ECG (electrocardiography), and the coin-sized device is much more compact than other brain-computer interface (BCI) solutions, which typically require a cap kit with 8 to 16 electrodes and wires. Octopus 16 specifications: ADC &#8211; 2x Texas Instruments ADS131M08 24-bit, 8-channel, simultaneous-sampling, delta-sigma (ΔΣ) analog-to-digital converters Channels &#8211; 16x 24-bit channels (8x per ADC) Programmable gain (PGA) &#8211; x1 to x128 (set in firmware; default gain register 0x2222) Input high-pass / DC block &#8211; Integrated ADC DC-block filter enabled (≈ &#62;1 Hz) Host interface (to XIAO board) &#8211; Power + SPI via 2x 7-pin Brain interface 18x spring-loaded pogo pins 16x electrodes 1x  reference (AINREF) 1x Ground [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/\">Play games with your brain signals using Octopus 16 wireless EEG device</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Overwatch Prop Gun: Lucio’s Blaster #AdafruitLearnGuide",
+    "source": "Adafruit",
+    "date": "2026-08-02",
+    "url": "https://blog.adafruit.com/2026/08/02/overwatch-prop-gun-lucios-blaster-adafruitlearnguide/",
+    "summary": "Print and assemble the Overwatch Lucio blaster with this three-part guide from John Park: Overwatch Prop Gun: Lucio&#8217;s Blaster Pt. 1 &#8211; Lights, music, and sound effects prop circuit design Overwatch Prop Gun: Lucio&#8217;s Blaster Pt. 2 &#8211; Lights, music, and sound effects prop circuit integration Overwatch Prop Gun: Lucio&#8217;s Blaster Pt. 3 &#8211; Permanent [&#8230;]"
+  },
+  {
     "title": "Adafruit’s Top Ten Blog Posts of July 2026 #TopTen",
     "source": "Adafruit",
     "date": "2026-08-02",
@@ -229,13 +236,6 @@
     "date": "2026-07-31",
     "url": "https://blog.adafruit.com/2026/07/31/the-worlds-first-hands-free-touchpad/",
     "summary": "MouthPad is a custom-fit mouthpiece that turns subtle tongue and head movements into precise control of your phone, tablet, and computer. MouthPad translates small, natural movements into cursor control, clicks, scrolling, and dragging. No hands. No wires. Worn discreetly inside your mouth. Move the cursor with your tongue or head. Tap, swipe, sip, and hold to [&#8230;]"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-07-31",
-    "url": "https://blog.adafruit.com/2026/07/31/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-31-2/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
     "title": "Innodisk Introduces DDR5 12800 MT/s MRDIMM for AI and High-Performance Computing",

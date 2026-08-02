@@ -1,13 +1,13 @@
 [
   {
     "repo": "NVIDIA/skills",
-    "stars": 2771,
+    "stars": 2772,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-02",
     "topic": "physical-ai",
-    "score": 1108.5
+    "score": 1108.9
   },
   {
     "repo": "copper-project/copper-rs",
@@ -28,6 +28,16 @@
     "date": "2026-08-02",
     "topic": "robotics",
     "score": 25318.1
+  },
+  {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15599,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-08-02",
+    "topic": "robotics",
+    "score": 6239.7
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
@@ -51,13 +61,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 12501,
+    "stars": 12502,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-02",
     "topic": "robotics",
-    "score": 5000.5
+    "score": 5000.9
   },
   {
     "repo": "kornia/kornia",
@@ -131,13 +141,13 @@
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 394,
+    "stars": 395,
     "language": "HTML",
     "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
     "url": "https://github.com/luohongk/Embodied-AI-Daily",
     "date": "2026-08-02",
     "topic": "vla",
-    "score": 157.7
+    "score": 158.1
   },
   {
     "repo": "vllm-project/vllm-omni",
@@ -180,16 +190,6 @@
     "score": 6432.5
   },
   {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15599,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-08-01",
-    "topic": "robotics",
-    "score": 6239.7
-  },
-  {
     "repo": "datawhalechina/every-embodied",
     "stars": 2954,
     "language": "Python",
@@ -201,13 +201,13 @@
   },
   {
     "repo": "OpenHUTB/hutb",
-    "stars": 553,
+    "stars": 554,
     "language": "C++",
     "description": "人车模拟器（Human-vehicle Simulator）",
     "url": "https://github.com/OpenHUTB/hutb",
     "date": "2026-08-01",
     "topic": "humanoid",
-    "score": 221.3
+    "score": 221.7
   },
   {
     "repo": "aalmuzairee/squint",
@@ -251,13 +251,13 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11229,
+    "stars": 11230,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-07-31",
     "topic": "robotics",
-    "score": 4491.7
+    "score": 4492.1
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
@@ -291,13 +291,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2224,
+    "stars": 2225,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-07-31",
     "topic": "humanoid",
-    "score": 889.7
+    "score": 890.1
   },
   {
     "repo": "softmata/horus",
@@ -361,13 +361,13 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 2080,
+    "stars": 2081,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-07-29",
     "topic": "world-model",
-    "score": 832.1
+    "score": 832.5
   },
   {
     "repo": "zli12321/Vision-Language-Models-Overview",
@@ -421,13 +421,13 @@
   },
   {
     "repo": "PKU-YuanGroup/Helios",
-    "stars": 2018,
+    "stars": 2019,
     "language": "Python",
     "description": "Helios: Real Real-Time Long Video Generation Model",
     "url": "https://github.com/PKU-YuanGroup/Helios",
     "date": "2026-07-28",
     "topic": "world-model",
-    "score": 807.3
+    "score": 807.7
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -461,13 +461,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30230,
+    "stars": 30231,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-07-27",
     "topic": "robotics",
-    "score": 12092.1
+    "score": 12092.5
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",

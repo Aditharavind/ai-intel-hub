@@ -1,5 +1,32 @@
 [
   {
+    "model": "RobotisSW/n17_pick_chestnuts_100k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/n17_pick_chestnuts_100k",
+    "date": "2026-08-02",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/n17_pick_chestnuts_80k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/n17_pick_chestnuts_80k",
+    "date": "2026-08-02",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/n17_pick_chestnuts_60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/n17_pick_chestnuts_60k",
+    "date": "2026-08-02",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "HarrisonPENG/M2W-VLA-RoboTwin",
     "downloads": 392,
     "likes": 0,
@@ -36,24 +63,6 @@
     "score": 0.3
   },
   {
-    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0",
-    "date": "2026-08-02",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__mask__blackout__sim__both_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout__sim__both_cameras__live__pi05__seed_0",
-    "date": "2026-08-02",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -67,6 +76,24 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0",
+    "date": "2026-08-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0",
+    "date": "2026-08-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__blackout__sim__both_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout__sim__both_cameras__live__pi05__seed_0",
     "date": "2026-08-02",
     "keyword": "vla",
     "score": 0.1
@@ -141,6 +168,15 @@
     "url": "https://huggingface.co/flashrt/world-model-conv",
     "date": "2026-08-02",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "aakankshpanda/angle_peg_stereo_07_29_state_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/aakankshpanda/angle_peg_stereo_07_29_state_policy",
+    "date": "2026-08-02",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -243,15 +279,6 @@
     "score": 0.1
   },
   {
-    "model": "Chaenn/smolvla_policy_so101_cube_multitask_edge_0802",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Chaenn/smolvla_policy_so101_cube_multitask_edge_0802",
-    "date": "2026-08-02",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "qj-robot/X-Chat-1.7B",
     "downloads": 0,
     "likes": 0,
@@ -324,33 +351,6 @@
     "score": 4.3
   },
   {
-    "model": "access-robotics-team/so-p5-pp-ma-260731",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/access-robotics-team/so-p5-pp-ma-260731",
-    "date": "2026-07-31",
-    "keyword": "robotics",
-    "score": 3.7
-  },
-  {
-    "model": "JIANGdk0303/robot8_20260728_maopa_act_dinov3_all23_baseline",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/JIANGdk0303/robot8_20260728_maopa_act_dinov3_all23_baseline",
-    "date": "2026-07-31",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "AIBUILDAI-Inc/robot-world-model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/AIBUILDAI-Inc/robot-world-model",
-    "date": "2026-07-31",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-stage2-lora-adapter-epoch3-v2",
     "downloads": 18,
     "likes": 0,
@@ -405,6 +405,15 @@
     "score": 5.8
   },
   {
+    "model": "AIBUILDAI-Inc/robot-world-model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/AIBUILDAI-Inc/robot-world-model",
+    "date": "2026-07-31",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
     "model": "ubr-physical-ai/UBR-Nav-E4B",
     "downloads": 0,
     "likes": 0,
@@ -412,6 +421,15 @@
     "date": "2026-07-31",
     "keyword": "physical ai",
     "score": 0.1
+  },
+  {
+    "model": "access-robotics-team/so-p5-pp-ma-260731",
+    "downloads": 12,
+    "likes": 0,
+    "url": "https://huggingface.co/access-robotics-team/so-p5-pp-ma-260731",
+    "date": "2026-07-31",
+    "keyword": "robotics",
+    "score": 3.7
   },
   {
     "model": "ishantborsek2702/brain-tumor-mri-detection-model-trained-on-4500-real-world-mri-scans",
