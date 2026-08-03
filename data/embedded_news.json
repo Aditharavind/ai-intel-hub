@@ -1,5 +1,12 @@
 [
   {
+    "title": "Get a Remote Terminal With One Binary, One URL, and Zero Config",
+    "source": "Hackaday",
+    "date": "2026-08-03",
+    "url": "https://hackaday.com/2026/08/03/get-a-remote-terminal-with-one-binary-one-url-and-zero-config/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/reach-machines-behind-nat-from-a-browser-v0-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Launch a single static binary executable, send someone a QR code or URL (or failing that, text a numerical code or shout it across a room), and they&#8217;ll get an <a class=\"read-more\" href=\"https://hackaday.com/2026/08/03/get-a-remote-terminal-with-one-binary-one-url-and-zero-config/\">&#8230;read more</a>"
+  },
+  {
     "title": "Spotting Emacs in the Wild",
     "source": "Hackaday",
     "date": "2026-08-03",
@@ -21,6 +28,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/07/DSC_0001-e1785555019998.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Theremin is that classic electronic musical instrument that makes those weeee-ohhhhh noises which were so popular in mid-century science fiction movies. Mid-last-century, that is, because this century is just <a class=\"read-more\" href=\"https://hackaday.com/2026/08/02/easy-theremin-uses-esp32/\">&#8230;read more</a>"
   },
   {
+    "title": "28.9M-parameter LLM runs locally on ESP32-S3 at 9 tokens/s",
+    "source": "CNX Software",
+    "date": "2026-08-03",
+    "url": "https://www.cnx-software.com/2026/08/03/28-9m-parameter-llm-runs-locally-on-esp32-s3-at-9-tokens-s/",
+    "summary": "<div><img alt=\"ESP32-S3 local LLM\" class=\"attachment-medium size-medium wp-post-image\" height=\"451\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/ESP32-S3-local-LLM-720x451.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Slava S. (slvDev) has optimized a 28.9M-parameter LLM running locally on an ESP32-S3 development board at around 9 tokens/s while generating text, or more exactly, telling short stories. We&#8217;ve written about LLMs and ESP32 in the past, but usually the boards are used as low-power gateways to interact with online LLMs hosted on powerful servers in data centers. Such products or projects include HiWonderLLM &#8220;smart chat module&#8221;, the ESP-Claw framework, or the ESP32 Agent Dev Kit. Slava&#8217;s &#8220;esp32-ai&#8221; project is quite different, as everything runs on the ESP32-S3 microcontroller. This won&#8217;t work on all ESP32-S3 as you&#8217;ll need enough memory and storage to store the 14.9MB (4-bit) model file, and Slava tested his demo on an ~$8 ESP32-S3 board with 512KB SRAM+8MB SPRAM and 16MB flash connected to a small I2C display to display short stories. Dave Bennett already did something similar with the ESP32-LLM project, but it only relied [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/03/28-9m-parameter-llm-runs-locally-on-esp32-s3-at-9-tokens-s/\">28.9M-parameter LLM runs locally on ESP32-S3 at 9 tokens/s</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "$299.99 ASUS UGen300 USB AI accelerator combines 40 TOPS Hailo-10H chip with 8GB LPDDR4",
     "source": "CNX Software",
     "date": "2026-08-03",
@@ -33,6 +47,34 @@
     "date": "2026-08-03",
     "url": "https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/",
     "summary": "<div><img alt=\"Aliensense NXS sensor board for robots\" class=\"attachment-medium size-medium wp-post-image\" height=\"475\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Aliensense-NXS-sensor-board-for-robots-720x475.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Abu Dhabi-based Aliensense has introduced NXS, a compact sensor board designed to easily connect cameras and sensors to robots, without custom wiring or driver work. The board relies on a single GMSL 2/3 cable for power, video, and sensor data over up to 15 meters, extendable to 40 meters over CAN-FD (data only, reduced baudrate). The STM32G491 board is also compatible with the 2,000+ boards in MikroElektronika&#8217;s Click ecosystem thanks to a mikroBUS connector brought out through a Shuttle add-on board. This means you can use compatible sensors (via mikroBUS) in addition to, or instead of, a camera. NXS specifications: MCU &#8211; STMicro STM32G491 Cortex-M4F microcontroller with 112KB SRAM, up to 512KB flash Camera Interface &#8211; MIPI CSI-2 input, MAX96793 GMSL2/3 serializer, power-over-coax Connectivity &#8211; GMSL2/3, CAN-FD, Cyphal/serial, I2C register map Expansion &#8211; mikroBUS socket with I2C, SPI, UART, PWM, analog, INT, RST Recovery support &#8211; Signed A/B firmware, watchdog [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/\">Aliensense NXS is a plug-and-play GMSL 2/3 and CAN-FD sensor board for robots</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Wafer fab equipment market set to eexplode",
+    "source": "Electronics Weekly",
+    "date": "2026-08-03",
+    "url": "https://www.electronicsweekly.com/news/business/wafer-fab-equipment-market-set-to-eexplode-2026-08/",
+    "summary": "<p>Semiconductor equipment spending is entering a new growth cycle shaped by geopolitics, sovereignty strategies, and technology roadmaps, despite uneven end-market demand Wafer Fab Equipment (WFE) sales revenue is expected to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/wafer-fab-equipment-market-set-to-eexplode-2026-08/\">Wafer fab equipment market set to eexplode</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Mian Quddus to receive Jedec FMS lifetime achievement award",
+    "source": "Electronics Weekly",
+    "date": "2026-08-03",
+    "url": "https://www.electronicsweekly.com/news/mian-quddus-to-receive-jedec-fms-lifetime-achievement-award-2026-08/",
+    "summary": "<p>The longtime chairman of the Jedec standards body, Mian Quddus, is to receive the 2026 FMS Lifetime Achievement Award tomorrow. The award will be presented to Mr. Quddus, pictured, at [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/mian-quddus-to-receive-jedec-fms-lifetime-achievement-award-2026-08/\">Mian Quddus to receive Jedec FMS lifetime achievement award</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "London AI chip startup OLIX raises $312m",
+    "source": "Electronics Weekly",
+    "date": "2026-08-03",
+    "url": "https://www.electronicsweekly.com/news/business/london-ai-chip-startup-olix-raises-312m-2026-08/",
+    "summary": "<p>Earlier today, OLIX the two year-old London AI chip startup founded by James Dacombe (pictured) announced a $312m Series B financing round at a $3.3 billion valuation. The round included [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/london-ai-chip-startup-olix-raises-312m-2026-08/\">London AI chip startup OLIX raises $312m</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Neural network controls satellite bus in orbit",
+    "source": "Electronics Weekly",
+    "date": "2026-08-03",
+    "url": "https://www.electronicsweekly.com/news/neural-network-controls-satellite-bus-in-orbit-2026-08/",
+    "summary": "<p>The US Air Force Research Laboratory (AFRL) has demonstrated autonomous control of a satellite bus using a neural network. The organisation describes it as a pivotal shift for the use [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/neural-network-controls-satellite-bus-in-orbit-2026-08/\">Neural network controls satellite bus in orbit</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "TSMC ahead of schedule with 1.4nm fab",
@@ -77,6 +119,13 @@
     "summary": "<p>The FIFA wheeze to sell off a  proportion of the organisation’s marketing rights may have bitten the dust but I’m a connoisseur of  wicked wheezes and this one has triggered [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-fifa-2026-08/\">Ed Covets The FIFA Wheeze</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Mysterious Frequency Counter Twins from 1979",
+    "source": "EE Journal",
+    "date": "2026-08-03",
+    "url": "https://www.eejournal.com/article/mysterious-frequency-counter-twins-from-1979/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"187\" src=\"https://www.eejournal.com/wp-content/uploads/2026/08/TR1000-eBay-Listing-Image-Small-300x187.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />After repairing and upgrading two Heathkit IM-2420 frequency counters and two HP 5314A frequency counters, I have developed a deep obsession with these instruments. When a Trionyx TR-1000 counter appeared on eBay for $11 (plus $16 for tax and shipping), I snapped it up despite its obviously rough shape. The small form factor and industrial &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/mysterious-frequency-counter-twins-from-1979/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Mysterious Frequency Counter Twins from 1979\"</span></a>"
+  },
+  {
     "title": "Hackaday Links: August 2, 2026",
     "source": "Hackaday",
     "date": "2026-08-02",
@@ -96,13 +145,6 @@
     "date": "2026-08-02",
     "url": "https://hackaday.com/2026/08/02/turning-fruits-into-ethylene-and-ethane-refrigerant/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"455\" src=\"https://hackaday.com/wp-content/uploads/2026/07/fruit_mix_ethanol_refrigerant_hyperspace_pirate_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One of the best parts about DIY chemistry and physics projects is that you get to decide how early in the supply chain you want to begin, such as with <a class=\"read-more\" href=\"https://hackaday.com/2026/08/02/turning-fruits-into-ethylene-and-ethane-refrigerant/\">&#8230;read more</a>"
-  },
-  {
-    "title": "A KVM Without the V (Or the M)",
-    "source": "Hackaday",
-    "date": "2026-08-02",
-    "url": "https://hackaday.com/2026/08/02/a-kvm-without-the-v-or-the-m/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"250\" src=\"https://hackaday.com/wp-content/uploads/2026/07/picotty_feat.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Many of us will be used to the idea of a KVM, a device that pipes keyboard, video, and mouse over the network from a remote machine to your own. <a class=\"read-more\" href=\"https://hackaday.com/2026/08/02/a-kvm-without-the-v-or-the-m/\">&#8230;read more</a>"
   },
   {
     "title": "Play games with your brain signals using Octopus 16 wireless EEG device",
@@ -201,34 +243,6 @@
     "date": "2026-07-31",
     "url": "https://www.embedded.com/mikroe-integrates-swift-navigation-skylark-with-gnss-19-click/",
     "summary": "<p>Mikroe has partnered with Swift Navigation to integrate the Skylark Precise Positioning Service into its GNSS 19 Click development board, providing users with a free six-month license to the cloud-based correction service. The collaboration is intended to simplify access to high-accuracy global navigation satellite system (GNSS) positioning for developers working on industrial, automotive, and IoT [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mikroe-integrates-swift-navigation-skylark-with-gnss-19-click/\">Mikroe Integrates Swift Navigation Skylark with GNSS 19 Click</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "When Phones Threatened PCs",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-phones-threatened-pcs-2026-07/",
-    "summary": "<p>At the 2000 ISS Taiwan the talk was about how the cell phone would impact the PC with the phone expected to become more datacentric and the PCs more portable, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-phones-threatened-pcs-2026-07/\">When Phones Threatened PCs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Amazon has Q2 sales of $200bn",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/amazon-has-q2-sales-of-200bn-2026-07/",
-    "summary": "<p>Amazon reported Q2 sales up 20% y-o-y to $200.6bn. Operating  profit was up 43% y-o-y to $27.5bn. Net profit was $62.6bn up from $18.2bn in Q2 2025. AWS sales were [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/amazon-has-q2-sales-of-200bn-2026-07/\">Amazon has Q2 sales of $200bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "First genuinely driverless robotaxi gets regulatory approval",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/first-genuine-driverless-2026-07/",
-    "summary": "<p>The first company to get regulatory approval for a genuinely driverless robotaxi is Amazon’s Zoox (pictured). Zoox has been licensed to deploy 2,500 vehicles annually for two years The US [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/first-genuine-driverless-2026-07/\">First genuinely driverless robotaxi gets regulatory approval</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Cook’s curtain call",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/cooks-curtain-call-2026-07/",
-    "summary": "<p>At his final results call Tim Cook turned in some pretty good numbers in a tough consumer electronics market. Apple had fiscal Q3 (calendar Q2) revenues up 16.4% y-o-y at [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/cooks-curtain-call-2026-07/\">Cook’s curtain call</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Installing Docker on the Raspberry Pi",
@@ -369,20 +383,6 @@
     "date": "2026-07-30",
     "url": "https://www.eejournal.com/industry_news/focalpoint-and-stmicroelectronics-enter-into-a-commercial-agreement-to-deliver-enhanced-gnss-reliability-for-automotive-applications/",
     "summary": "Cambridge, UK – 14th July 2026: FocalPoint, a UK-based leader in GNSS (Global Navigation Satellite System) software for automotive, wearables, and smartphones, today announced that it has entered into a commercial agreement with STMicroelectronics. The agreement marks a major step towards delivering highly reliable vehicle positioning in challenging GNSS environments. Building on the collaboration first announced in &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/focalpoint-and-stmicroelectronics-enter-into-a-commercial-agreement-to-deliver-enhanced-gnss-reliability-for-automotive-applications/\">Read More &#8594;<span class=\"screen-reader-text\"> \"FocalPoint and STMicroelectronics enter into a commercial agreement to deliver enhanced GNSS reliability for automotive applications\"</span></a>"
-  },
-  {
-    "title": "Synopsys Showcases Comprehensive Autonomous Engineering Workflows from Silicon to Systems, Developed with NVIDIA Technology",
-    "source": "EE Journal",
-    "date": "2026-07-30",
-    "url": "https://www.eejournal.com/industry_news/synopsys-showcases-comprehensive-autonomous-engineering-workflows-from-silicon-to-systems-developed-with-nvidia-technology/",
-    "summary": "Key Highlights Synopsys unveils a fully autonomous long-running design verification agent that orchestrates the entire chip verification cycle delivering up to 50X faster time-to-validated RTL while achieving 20% additional coverage improvement Demonstrating Synopsys&#8217; first fully autonomous computer-aided engineering (CAE) workflow for thermal management and electronic device cooling capable of autonomously executing set-up, pre-processing, and post-processing &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/synopsys-showcases-comprehensive-autonomous-engineering-workflows-from-silicon-to-systems-developed-with-nvidia-technology/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Synopsys Showcases Comprehensive Autonomous Engineering Workflows from Silicon to Systems, Developed with NVIDIA Technology\"</span></a>"
-  },
-  {
-    "title": "NXP RW610FML Wi-Fi 6 and BLE 5.4 module features RW610 Cortex-M33 wireless MCU",
-    "source": "CNX Software",
-    "date": "2026-07-29",
-    "url": "https://www.cnx-software.com/2026/07/29/nxp-rw610fml-wi-fi-6-and-ble-5-4-module-features-rw610-cortex-m33-wireless-mcu/",
-    "summary": "<div><img alt=\"NXP RW610FML Scalable Wi Fi 6 and Bluetooth LE Combo Module\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/NXP-RW610FML-Scalable-Wi-Fi-6-and-Bluetooth-LE-Combo-Module-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>NXP has introduced the RW610FML, a compact, low-power, certified Wi-Fi 6 and Bluetooth Low Energy (BLE) 5.4 wireless module based on the company&#8217;s RW610 Cortex-M33 microcontroller, the little brother of the RW612 without an 802.15.4 radio. Designed for smart appliances, home automation, industrial gateways, and medical devices, the surface-mount module combines the 260 MHz Arm Cortex-M33 wireless SoC with 8MB of on-module NOR flash, a built-in antenna, an RF matching circuit, and a crystal oscillator. NXP RW610FML Specifications: Wireless MCU – NXP RW610 CPU Core – 260 MHz Arm Cortex-M33 core with Arm TrustZone-M Internal memory – 1.2 MB embedded on-chip SRAM Connectivity Wi-Fi – Dual-band 2.4 GHz and 5 GHz Wi-Fi 6 (IEEE 802.11a/b/g/n/ac/ax) SISO 20 MHz channel bandwidth Up to MCS9 (114 Mbps) peak data rate Bluetooth – Bluetooth Low Energy (LE) supporting 2 Mbit/s high-speed mode, long-range operation, and extended advertising Storage &#8211; 8 MB NOR flash Castellated [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/29/nxp-rw610fml-wi-fi-6-and-ble-5-4-module-features-rw610-cortex-m33-wireless-mcu/\">NXP RW610FML Wi-Fi 6 and BLE 5.4 module features RW610 Cortex-M33 wireless MCU</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "BrainChip Launches AKD1500 M.2 Module for Fanless Edge AI",
