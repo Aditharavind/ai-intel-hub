@@ -1,5 +1,12 @@
 [
   {
+    "title": "Child-Friendly Music Player Uses RFID",
+    "source": "Hackaday",
+    "date": "2026-08-03",
+    "url": "https://hackaday.com/2026/08/03/child-friendly-music-player-uses-rfid/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"451\" src=\"https://hackaday.com/wp-content/uploads/2026/07/mememe_munecos.Dj2rwg9o_Z20dDLt-e1785557184513.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[David] has a young child who is clever enough to use a computer to play music, but he doesn&#8217;t quite want to hand over the mouse just yet. Thus, he <a class=\"read-more\" href=\"https://hackaday.com/2026/08/03/child-friendly-music-player-uses-rfid/\">&#8230;read more</a>"
+  },
+  {
     "title": "Congratulations to the Frikkin Laser Winners!",
     "source": "Hackaday",
     "date": "2026-08-03",
@@ -40,13 +47,6 @@
     "date": "2026-08-03",
     "url": "https://hackaday.com/2026/08/02/making-a-retroish-game-console-from-scratch/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"513\" src=\"https://hackaday.com/wp-content/uploads/2026/07/game_console_pcbs_throaty_mumbo_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As easy as it is to make a late 1980s-style game console using a modern microcontroller, there&#8217;s arguably more fun in doing things the traditional way. This is the challenge <a class=\"read-more\" href=\"https://hackaday.com/2026/08/02/making-a-retroish-game-console-from-scratch/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Easy Theremin Uses ESP32",
-    "source": "Hackaday",
-    "date": "2026-08-03",
-    "url": "https://hackaday.com/2026/08/02/easy-theremin-uses-esp32/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/07/DSC_0001-e1785555019998.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Theremin is that classic electronic musical instrument that makes those weeee-ohhhhh noises which were so popular in mid-century science fiction movies. Mid-last-century, that is, because this century is just <a class=\"read-more\" href=\"https://hackaday.com/2026/08/02/easy-theremin-uses-esp32/\">&#8230;read more</a>"
   },
   {
     "title": "ChronoWatch X2040 – A DIY watch with off-the-shelf Raspberry Pi RP2040 round display, 3D printed case, and custom firmware",
@@ -147,6 +147,34 @@
     "summary": "<p>The deployment of 5G is projected to increase for another two years, boosting demand for microwave transmission equipment, says Dell’Oro. “We anticipate at least two more years of growth for [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/micriwave-2026-08/\">Microwave transmission equipment growth has two more years</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "BITNET – an autoregressive language model on the 6502 processor",
+    "source": "Adafruit",
+    "date": "2026-08-03",
+    "url": "https://blog.adafruit.com/2026/08/03/bitnet-an-autoregressive-language-model-on-the-6502-processor/",
+    "summary": "Matt Beton trained a tiny Mamba-based autoregressive language model and wrote an inference engine to run it on the 8-bit 6502 processor (from 1975, with 32KB RAM). The MOS 6502 is an 8-bit microprocessor released in 1975, powering the BBC Micro and the Apple II. I am lucky enough to have access to my dad&#8217;s [&#8230;]"
+  },
+  {
+    "title": "MeshDiff: see exactly what changed between two 3D models",
+    "source": "Adafruit",
+    "date": "2026-08-03",
+    "url": "https://blog.adafruit.com/2026/08/03/meshdiff-see-exactly-what-changed-between-two-3d-models/",
+    "summary": "Version control for 3D models has always been awkward, since a diff of two binary STLs tells you nothing useful. Meshdiff is a free browser-based tool that does the job properly, comparing two versions of a model and showing added material, removed material, and dimensional drift using voxel and surface-heatmap diffing. It handles STL, 3MF, [&#8230;]"
+  },
+  {
+    "title": "TinyNES – A Niche NES Console",
+    "source": "Adafruit",
+    "date": "2026-08-03",
+    "url": "https://blog.adafruit.com/2026/08/03/tinynes-a-niche-nes-console/",
+    "summary": "Lon Seidman reviews the TinyNES, an open-source Nintendo Entertainment System. What sets this apart from other NES clones is how it combines original hardware and open source design. If you are looking for an authentic NES experience, the TinyNES might be for you. What it uses from the original NES are the CPU and PPU [&#8230;]"
+  },
+  {
+    "title": "Evolution of Microphones at the BBC up through 1972",
+    "source": "Adafruit",
+    "date": "2026-08-03",
+    "url": "https://blog.adafruit.com/2026/08/03/evolution-of-microphones-at-the-bbc-up-through-1972/",
+    "summary": "We really enjoyed this video from the BBC Archive about the microphones he BBC employed in the earliest broadcasts. Via BBC Archives on YouTube: Veteran BBC radio broadcaster John Snagge &#8211; who first broadcast for the BBC in 1927 &#8211; discusses how microphones evolved throughout his career. Mr Snagge recalls the bulky &#8216;meat safe&#8217; microphones [&#8230;]"
+  },
+  {
     "title": "Audio Prank Gift Box #AdafruitLearnSystem",
     "source": "Adafruit",
     "date": "2026-08-03",
@@ -217,39 +245,11 @@
     "summary": "The 30mm arcade buttons in the Adafruit shop are excellent for retrogame projects. They&#8217;re also quite aesthetically pleasing. They feature a translucent body with a very slim micro switch, so it&#8217;s great for internal lighting effects. Although they do not have LEDs built in, you can actually fit NeoPixels into the body with a 3D [&#8230;]"
   },
   {
-    "title": "Adafruit’s Top Ten Blog Posts of July 2026 #TopTen",
-    "source": "Adafruit",
-    "date": "2026-08-02",
-    "url": "https://blog.adafruit.com/2026/08/02/adafruits-top-ten-blog-posts-of-july-2026-topten/",
-    "summary": "ESP32-S31 now in mass production and available for purchase Replacing a $120k bowling center system with $1,600 in ESP32s Filament Spool Dry Box – Pelican-Style Latching #3DPrinting #3DThursday ESP32-S3 SuperMini + mmWave Sensor Enclosure (ESPHome) #3DPrinting #3DThursday Cassegotchi: Arduino Nano Tamagotchi Framework’s 10G Ethernet module exposes USB-C’s complexity CYD Desk Buddy – Bambu Lab + [&#8230;]"
-  },
-  {
-    "title": "Adafruit Weekly Editorial Round Up:  ESP32-S31 now in mass production, Jimothy & more!",
-    "source": "Adafruit",
-    "date": "2026-08-02",
-    "url": "https://blog.adafruit.com/2026/08/02/adafruit-weekly-editorial-round-up-esp32-s31-now-in-mass-production-jimothy-more/",
-    "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. ESP32-S31 now in mass production [&#8230;]"
-  },
-  {
-    "title": "National Coloring Book Day 2026",
-    "source": "Adafruit",
-    "date": "2026-08-02",
-    "url": "https://blog.adafruit.com/2026/08/02/national-coloring-book-day-2026/",
-    "summary": "It’s National Coloring Book Day so now is the time to power up your pencils and let your creativity run wild! Whether you&#8217;re de-stressing or doodling with the littles, coloring is for everyone. Did you know Adafruit has its own? Check out Ladyada’s Coloring Book – R is for Robots! You can also get instant [&#8230;]"
-  },
-  {
     "title": "Creality Falcon T1 review – A 5-in-1 modular laser engraver tested with 20W fiber and 40W diode laser modules",
     "source": "CNX Software",
     "date": "2026-08-01",
     "url": "https://www.cnx-software.com/2026/08/01/creality-falcon-t1-review-a-5-in-1-modular-laser-engraver-tested-with-20w-fiber-and-40w-diode-laser-modules/",
     "summary": "<div><img alt=\"Creality Falcon T1 5-in-1 Laser Engraver review\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Creality-Falcon-T1-5-in-1-Laser-Engraver-review-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Creality sent us a sample of the Falcon T1 5-in-1 modular laser engraver for review. The company describes it as the world’s first 5-in-1 laser engraving and cutting machine that supports five types of laser modules in a single unit: 20W diode laser 20W, 40W diode laser, 20w fiber laser, 60W MOPA laser, and 5W UV Laser 5W. The laser heads can be swapped tool-free in just 15 seconds. It works with an HD camera and AI system and can engrave and cut a wide range of materials including wood, leather, acrylic, metal, glass, crystal, and plastic. Diode laser modules are ideal for cutting and engraving wood, leather, and acrylic, the fiber laser module is better suited for marking and engraving metal, the MOPA laser module supports color marking on metals such as stainless steel and titanium, and the UV laser module uses cold processing for high-precision work on glass, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/01/creality-falcon-t1-review-a-5-in-1-modular-laser-engraver-tested-with-20w-fiber-and-40w-diode-laser-modules/\">Creality Falcon T1 review &#8211; A 5-in-1 modular laser engraver tested with 20W fiber and 40W diode laser modules</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Star Wars™: The Experience at The Franklin Institute Philadelphia",
-    "source": "Adafruit",
-    "date": "2026-08-01",
-    "url": "https://blog.adafruit.com/2026/08/01/star-wars-the-experience-at-the-franklin-institute-philadelphia/",
-    "summary": "Star Wars™: The Experience &#8211; A Journey Through the Galaxy will be making its exclusive world premiere at The Franklin Institute in Philadelphia in February 2027. The exhibition will feature immersive environments, props, and original costumes. The all-new exhibition traces the legacy of Star Wars from its handcrafted beginnings to today&#8217;s groundbreaking digital frontiers, exploring [&#8230;]"
   },
   {
     "title": "NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port",

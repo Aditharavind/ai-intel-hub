@@ -189,6 +189,33 @@
     "score": 0.1
   },
   {
+    "model": "ntlfi/enpo-llama3-8b-runner-default-seed2-cuda13-iter3-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ntlfi/enpo-llama3-8b-runner-default-seed2-cuda13-iter3-policy",
+    "date": "2026-08-03",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ntlfi/enpo-llama3-8b-runner-default-seed2-cuda13-iter2-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ntlfi/enpo-llama3-8b-runner-default-seed2-cuda13-iter2-policy",
+    "date": "2026-08-03",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ntlfi/enpo-llama3-8b-runner-default-seed2-cuda13-iter1-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ntlfi/enpo-llama3-8b-runner-default-seed2-cuda13-iter1-policy",
+    "date": "2026-08-03",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "ismamNur/Joint-Embedding-Guided-Policy-Optimization-checkpoints",
     "downloads": 0,
     "likes": 0,
@@ -265,33 +292,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/cbrian/policy_pi05_libero_dataset_MDWC14_steps_50000_ctrl_cartesian",
-    "date": "2026-08-03",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Yewy/rollout_mahjong_staging_stand_pickup_224_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Yewy/rollout_mahjong_staging_stand_pickup_224_policy",
-    "date": "2026-08-03",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "MakinoKF/pich-the-nut-from-above_20260731_105505_diffusion-policy-v1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MakinoKF/pich-the-nut-from-above_20260731_105505_diffusion-policy-v1",
-    "date": "2026-08-03",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "nkalyank99/my_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/nkalyank99/my_policy",
     "date": "2026-08-03",
     "keyword": "policy",
     "score": 0.1
@@ -722,11 +722,11 @@
   {
     "model": "tencent/Hy-Embodied-VLM-1.0",
     "downloads": 1070,
-    "likes": 22,
+    "likes": 23,
     "url": "https://huggingface.co/tencent/Hy-Embodied-VLM-1.0",
     "date": "2026-07-15",
     "keyword": "embodied",
-    "score": 325.5
+    "score": 325.7
   },
   {
     "model": "physicalai-bmi/orbital-landing-tgo",

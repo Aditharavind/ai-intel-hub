@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-03 17:31 UTC
+Last Updated: 2026-08-03 19:12 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -37,6 +37,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-03 | Reimagine Robotics emerges from stealth with robots that ‘learn on the job’ | Robotics Business Review | [link](https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/) |
 | 2026-08-03 | Walden Robotics Partners With Toyota on Practical Humanoids | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota) |
+| 2026-08-03 | HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators | Robotics Business Review | [link](https://www.therobotreport.com/hebi-robotics-earns-nasa-sbir-grant-fast-track-miniaturized-actuators/) |
 | 2026-08-02 | Google DeepMind says Gemini Robotics 2 enables full body control | Robotics Business Review | [link](https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/) |
 | 2026-08-01 | Top 10 robotics stories of July 2026 | Robotics Business Review | [link](https://www.therobotreport.com/top-10-robotics-stories-july-2026/) |
 | 2026-07-31 | Procore Technologies acquires DroneDeploy for $845M | Robotics Business Review | [link](https://www.therobotreport.com/procore-technologies-acquires-dronedeploy-845m/) |
@@ -44,18 +45,17 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-31 | FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing | Robotics Business Review | [link](https://www.therobotreport.com/fcc-robot-ruling-shines-spotlight-on-u-s-policy-how-next-gen-ai-can-help-warehousing/) |
 | 2026-07-31 | Video Friday: Meet Google DeepMind’s Gemini Robotics 2 | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-robot-gemini2-ai-robot) |
 | 2026-07-30 | Teradyne Robotics revenue rises 33% year over year in Q2 | Robotics Business Review | [link](https://www.therobotreport.com/teradyne-robotics-revenue-rises-33-year-over-year-in-q2/) |
-| 2026-07-30 | DoorDash gains FAA certification to operate its own drone delivery program | Robotics Business Review | [link](https://www.therobotreport.com/doordash-gains-faa-certification-to-operate-its-own-drone-delivery-program/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-03 | Child-Friendly Music Player Uses RFID | Hackaday | [link](https://hackaday.com/2026/08/03/child-friendly-music-player-uses-rfid/) |
 | 2026-08-03 | Congratulations to the Frikkin Laser Winners! | Hackaday | [link](https://hackaday.com/2026/08/03/congratulations-to-the-frikkin-laser-winners/) |
 | 2026-08-03 | New File Manager is C64’s Answer to Norton Commander | Hackaday | [link](https://hackaday.com/2026/08/03/new-file-manager-is-c64s-answer-to-norton-commander/) |
 | 2026-08-03 | The 16K Display that Ate Las Vegas | Hackaday | [link](https://hackaday.com/2026/08/03/the-16k-display-that-ate-las-vegas/) |
 | 2026-08-03 | Get a Remote Terminal With One Binary, One URL, and Zero Config | Hackaday | [link](https://hackaday.com/2026/08/03/get-a-remote-terminal-with-one-binary-one-url-and-zero-config/) |
 | 2026-08-03 | Spotting Emacs in the Wild | Hackaday | [link](https://hackaday.com/2026/08/03/spotting-emacs-in-the-wild/) |
 | 2026-08-03 | Making a Retro(ish) Game Console From Scratch | Hackaday | [link](https://hackaday.com/2026/08/02/making-a-retroish-game-console-from-scratch/) |
-| 2026-08-03 | Easy Theremin Uses ESP32 | Hackaday | [link](https://hackaday.com/2026/08/02/easy-theremin-uses-esp32/) |
 | 2026-08-03 | ChronoWatch X2040 – A DIY watch with off-the-shelf Raspberry Pi RP2040 round display, 3D printed case, and custom firmware | CNX Software | [link](https://www.cnx-software.com/2026/08/03/chronowatch-x2040-a-diy-watch-with-off-the-shelf-raspberry-pi-rp2040-round-display-3d-printed-case-and-custom-firmware/) |
 | 2026-08-03 | 28.9M-parameter LLM runs locally on ESP32-S3 at 9 tokens/s | CNX Software | [link](https://www.cnx-software.com/2026/08/03/28-9m-parameter-llm-runs-locally-on-esp32-s3-at-9-tokens-s/) |
 | 2026-08-03 | $299.99 ASUS UGen300 USB AI accelerator combines 40 TOPS Hailo-10H chip with 8GB LPDDR4 | CNX Software | [link](https://www.cnx-software.com/2026/08/03/299-99-asus-ugen300-usb-ai-accelerator-hailo-10h-8gb-lpddr4/) |
@@ -97,10 +97,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | NVlabs/alpasim | 1152 | Python | 460.9 | [link](https://github.com/NVlabs/alpasim) |
 | mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | alireza787b/mavsdk_drone_show | 309 | Python | 123.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 63309 | Python | 25323.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63308 | Python | 25323.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15607 | C++ | 6242.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14426 | C++ | 5770.5 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 12655 | JavaScript | 5062.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 12662 | JavaScript | 5064.9 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -122,12 +122,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-03 | Ropedia Raises $30M to Scale Data Infrastructure for Physical AI - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3c4VW1OYWVWNmVDN3F6dVVJNzFVREFsMkZGV2s0bzF6SmV1WE5NR0QtNGQ4VERIMzJqaVZoZ0RZckJsc0JWaXRuNGhBRDlCT3VaelRqRlFuYlVydzNJcVBWOVE3V29kRXRkRVpYcl9vOFB3OGVhbDE3ZW9VQXpoTnpKQkp1c0RwMU9iSUFmdXRWYkxCVGJCa1RVLUdXQ2hreWFF?oc=5) |
 | 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
 | 2026-08-03 | The VC firm behind Shopify is doubling down on robotics and defense - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbVNpVE44QnpMNW5GWlkycDJwV1U5TUpsS1RsdzdYbFJiYVRUWjg1UG1mU2pLbi0tXzRfTERNWExoQ04tZXl3R1BDbWt6eXRYd283aEhaSUpzRmhjT19FaDFyd19hbmVSS3VROXlyZ0RNRTVQNkVieUNkd24tRHFobWs5UDJ0Z0lpOFNOVHJ5U3dwakpIbXl1aGJESlFLclJFMGhiXw?oc=5) |
-| 2026-08-03 | U.S. Startup Says It Would Arm Robot Soldiers If the Army Asks - Phandroid | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rOTc4RW55Q2NqTzJBZ0YwYlRRQXk0bzVhQzdTMTdHeUNocERJcC1rNUtRLUR2Y3piTkdIYnpuVjA5Mkd0QXVKSVYya19ZRzVqWFHSAVdBVV95cUxQMEFDdkRFQUV3T0IwZkU0NnM1LW50QW1tVnpXM0pJa2NFdTRwNGFCcEZ4QVhwZk8xR19KZ3ZfNGNJZ3dEbnNyVTR1NGEyMmx0VzdReUZjYlE?oc=5) |
+| 2026-08-03 | U.S. Startup Says It Would Arm Robot Soldiers If the Army Asks - phandroid.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rOTc4RW55Q2NqTzJBZ0YwYlRRQXk0bzVhQzdTMTdHeUNocERJcC1rNUtRLUR2Y3piTkdIYnpuVjA5Mkd0QXVKSVYya19ZRzVqWFHSAVdBVV95cUxQMEFDdkRFQUV3T0IwZkU0NnM1LW50QW1tVnpXM0pJa2NFdTRwNGFCcEZ4QVhwZk8xR19KZ3ZfNGNJZ3dEbnNyVTR1NGEyMmx0VzdReUZjYlE?oc=5) |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
-| 2026-08-02 | Robot soldiers are being built in America to fight tomorrow’s wars – and the alarm is growing - The Independent | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQZzJ4bWl6eTJSYjlTNWZQLVVxMlFfZEJsZExpdTVIdXI0cXR6akNnVDNzZDVJM3RoaXJKeDhXNVVqUENuYU5qbEJPNFNmMkh2OFpRR2p3RE51R1ExQzRZcXFucTh5ZzFGQ3p5SGFzMThhMGM2QVpPa0s4TXlmSU04Z3JFZXV5Y2FSc3JYNG5KU0daMWc?oc=5) |
+| 2026-08-02 | Robot soldiers are being built in America to fight tomorrow’s wars – and the alarm is growing - independent.co.uk | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQZzJ4bWl6eTJSYjlTNWZQLVVxMlFfZEJsZExpdTVIdXI0cXR6akNnVDNzZDVJM3RoaXJKeDhXNVVqUENuYU5qbEJPNFNmMkh2OFpRR2p3RE51R1ExQzRZcXFucTh5ZzFGQ3p5SGFzMThhMGM2QVpPa0s4TXlmSU04Z3JFZXV5Y2FSc3JYNG5KU0daMWc?oc=5) |
 | 2026-08-01 | SKT Is Selling Robot Training, Not Gigawatts - Sebastian Barros Newsletter | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTFB5VHkwWnQ5LVFFQkpxY2ZySlk3d1lDWWtlVzBkVzlFRkZ6WXJLQWhKR0FqRHVXZm84eTllUl9IMlVFUmtFeXdnM2NpTHowZXU0M3JOQjJvUnhmZUtZUkJlYVNhdUZ2LWlmUHAweHFqWkxPTW1sbElVdkFvVEU?oc=5) |
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
-| 2026-07-31 | SK Telecom partners with physical AI startups - newsarticleinsiders.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
+| 2026-07-31 | SK Telecom partners with physical AI startups - The Korea News Plus | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
 | 2026-07-31 | SK Telecom unites eight Korean physical AI startups to grow robotics ecosystem - CHOSUNBIZ - Chosunbiz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZTi1sb3poVG9kelVVNzdnRmota3ZMeW5fUTd6cnNWMmswQTdSUHVZYS1mWG5aOVBxMC1xZVlIeFczOTJ6WlhhSWZ1Zm00c3F6R2xuOE1yNnI5Y3NJMVNwR3pWb0JKVXF5TDBCbmY4WEhHYzZYcEdVT3hR0gGOAUFVX3lxTE51TERkQmQ1WGFFdmpxZjlYNDlJRmpTa1ZLQXlxVF9VamcxLUhxbk9Yekw3UkJfVEwwT0I4RWM5UmdwSzhHNGlkdUdGcGFqd0ZJb3U0d04taFBQRFBYUDc3MWxrMU5QdThEdG5sOElRVUszMXpUOXdOWWh2eTRyMFlXWFhyc0FtbTdJLWhUYWc?oc=5) |
 
 ## Jobs
