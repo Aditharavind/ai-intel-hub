@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-02 23:46 UTC
+Generated: 2026-08-03 01:20 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-30 | ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine | [link](https://arxiv.org/pdf/2607.28625v1) |
-| 2026-07-30 | PhiZero: A World Model Built Around Physical Language | [link](https://arxiv.org/pdf/2607.28624v1) |
-| 2026-07-30 | PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball | [link](https://arxiv.org/pdf/2607.28623v1) |
-| 2026-07-30 | AISPA: User-Centric System Prompt Auditing for Large Language Model Applications | [link](https://arxiv.org/pdf/2607.28617v1) |
-| 2026-07-30 | FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation | [link](https://arxiv.org/pdf/2607.28596v1) |
+| 2026-07-31 | Bootstrapping Self-Supervised Learning of Binary Classification Using Error Bounds: A Case Study on a Robotic Insertion Task | [link](https://arxiv.org/pdf/2607.29640v1) |
+| 2026-07-31 | Balancing of Humanoid with Object Mass: Trade-off Analyses and Lifting Control | [link](https://arxiv.org/pdf/2607.29625v1) |
+| 2026-07-31 | RayViT: Ray-Conditioned Visual Representations for Viewpoint-Robust Imitation Learning | [link](https://arxiv.org/pdf/2607.29622v1) |
+| 2026-07-31 | When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning | [link](https://arxiv.org/pdf/2607.29617v1) |
+| 2026-07-31 | WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning | [link](https://arxiv.org/pdf/2607.29613v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82897 | 33158.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 82900 | 33160.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63296 | 25318.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44325 | 17730.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30231 | 12092.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16082 | 6432.9 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15601 | 6240.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -42,7 +42,7 @@ Generated: 2026-08-02 23:46 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
-| 2026-08-01 | SKT Is Selling Robot Training, Not Gigawatts - Sebastian Barros Newsletter | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTFB5VHkwWnQ5LVFFQkpxY2ZySlk3d1lDWWtlVzBkVzlFRkZ6WXJLQWhKR0FqRHVXZm84eTllUl9IMlVFUmtFeXdnM2NpTHowZXU0M3JOQjJvUnhmZUtZUkJlYVNhdUZ2LWlmUHAweHFqWkxPTW1sbElVdkFvVEU?oc=5) |
+| 2026-08-01 | SKT Is Selling Robot Training, Not Gigawatts - sebastianbarros.substack.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTFB5VHkwWnQ5LVFFQkpxY2ZySlk3d1lDWWtlVzBkVzlFRkZ6WXJLQWhKR0FqRHVXZm84eTllUl9IMlVFUmtFeXdnM2NpTHowZXU0M3JOQjJvUnhmZUtZUkJlYVNhdUZ2LWlmUHAweHFqWkxPTW1sbElVdkFvVEU?oc=5) |
 | 2026-07-31 | Korean Physical AI Startups Face a Hard Truth: A 98% Accurate AI Model Can Still Fail Inside a Robot - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbm56aHN1cU9VNW02QnJBTTJDcmhQS19ITE9kX2w4VnVrREpUS0dWeW1Ya191UDB3SjBRcmd0U2kwYWFIUGZFVkJXOG9KVEZpcmVwNjYtYkJjRTFZT3BvMncwMV9BeUk4ejRrcl9yc2F4OHhPTEJCTHRtdnhRN0dzMUZxT3ZUZlZNa0E?oc=5) |
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
 | 2026-07-31 | SK Telecom partners with physical AI startups - The Korea News Plus | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |

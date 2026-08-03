@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-02 23:46 UTC
+Last Updated: 2026-08-03 01:20 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-03 | Aliensense NXS is a plug-and-play GMSL 2/3 and CAN-FD sensor board for robots | CNX Software | [link](https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/) |
+| 2026-08-03 | Ed Covets The FIFA Wheeze | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-fifa-2026-08/) |
 | 2026-08-02 | Hackaday Links: August 2, 2026 | Hackaday | [link](https://hackaday.com/2026/08/02/hackaday-links-august-2-2026/) |
 | 2026-08-02 | An Automated Water Tank Controller | Hackaday | [link](https://hackaday.com/2026/08/02/an-automated-water-tank-controller/) |
 | 2026-08-02 | Turning Fruits Into Ethylene and Ethane Refrigerant | Hackaday | [link](https://hackaday.com/2026/08/02/turning-fruits-into-ethylene-and-ethane-refrigerant/) |
@@ -57,26 +59,26 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-02 | The Seven Sensors and Breakout Boards to Avoid in a Product | Hackaday | [link](https://hackaday.com/2026/08/02/the-seven-sensors-and-breakout-boards-to-avoid-in-a-product/) |
 | 2026-08-02 | UV Printer? 3D Printer? HeyGears says “Why Not Both”? | Hackaday | [link](https://hackaday.com/2026/08/01/uv-printer-3d-printer-heygears-says-why-not-both/) |
 | 2026-08-02 | Play games with your brain signals using Octopus 16 wireless EEG device | CNX Software | [link](https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/) |
-| 2026-08-02 | Overwatch Prop Gun: Lucio’s Blaster #AdafruitLearnGuide | Adafruit | [link](https://blog.adafruit.com/2026/08/02/overwatch-prop-gun-lucios-blaster-adafruitlearnguide/) |
-| 2026-08-02 | Adafruit’s Top Ten Blog Posts of July 2026 #TopTen | Adafruit | [link](https://blog.adafruit.com/2026/08/02/adafruits-top-ten-blog-posts-of-july-2026-topten/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-07-30 | ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine | [link](https://arxiv.org/pdf/2607.28625v1) |
-| 2026-07-30 | PhiZero: A World Model Built Around Physical Language | [link](https://arxiv.org/pdf/2607.28624v1) |
-| 2026-07-30 | PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball | [link](https://arxiv.org/pdf/2607.28623v1) |
-| 2026-07-30 | AISPA: User-Centric System Prompt Auditing for Large Language Model Applications | [link](https://arxiv.org/pdf/2607.28617v1) |
-| 2026-07-30 | FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation | [link](https://arxiv.org/pdf/2607.28596v1) |
-| 2026-07-30 | ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation | [link](https://arxiv.org/pdf/2607.28581v1) |
-| 2026-07-30 | X-NavDP: Generalizing Navigation Diffusion Policy to Novel Behavior and Embodiments with Group Q-score Reweighted Matching | [link](https://arxiv.org/pdf/2607.28560v1) |
-| 2026-07-30 | AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans | [link](https://arxiv.org/pdf/2607.28487v1) |
-| 2026-07-30 | Improving Mental Health Screening and Early Risk Detection in Spanish | [link](https://arxiv.org/pdf/2607.28476v1) |
-| 2026-07-30 | TEA-AgriVLN: Traversability Estimation Alarm for Agricultural Vision-and-Language Navigation | [link](https://arxiv.org/pdf/2607.28474v1) |
+| 2026-07-31 | Bootstrapping Self-Supervised Learning of Binary Classification Using Error Bounds: A Case Study on a Robotic Insertion Task | [link](https://arxiv.org/pdf/2607.29640v1) |
+| 2026-07-31 | Balancing of Humanoid with Object Mass: Trade-off Analyses and Lifting Control | [link](https://arxiv.org/pdf/2607.29625v1) |
+| 2026-07-31 | RayViT: Ray-Conditioned Visual Representations for Viewpoint-Robust Imitation Learning | [link](https://arxiv.org/pdf/2607.29622v1) |
+| 2026-07-31 | When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning | [link](https://arxiv.org/pdf/2607.29617v1) |
+| 2026-07-31 | WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning | [link](https://arxiv.org/pdf/2607.29613v1) |
+| 2026-07-31 | HAM-VLN: Harnessing Hierarchical Agentic Memory for Zero-Shot Vision-and-Language Navigation | [link](https://arxiv.org/pdf/2607.29600v1) |
+| 2026-07-31 | FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling | [link](https://arxiv.org/pdf/2607.29596v1) |
+| 2026-07-31 | Safe Vision Language Action Models via Barrier Enhanced Flow Matching | [link](https://arxiv.org/pdf/2607.29569v1) |
+| 2026-07-31 | TransGraspNet: Physically and Geometrically Consistent Manipulation of Transparent Labware | [link](https://arxiv.org/pdf/2607.29567v1) |
+| 2026-07-31 | LEMUR: Learning to Align with Multi-Objective Reinforcement Learning from Preference Feedback | [link](https://arxiv.org/pdf/2607.29559v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-03 | TerryPei/gap-graph-as-policy | 0 | 0 | [link](https://huggingface.co/TerryPei/gap-graph-as-policy) |
+| 2026-08-03 | Gom-sy/policy_IDM_AUG_40000 | 0 | 0 | [link](https://huggingface.co/Gom-sy/policy_IDM_AUG_40000) |
 | 2026-08-02 | RobotisSW/n17_pick_chestnuts_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/n17_pick_chestnuts_100k) |
 | 2026-08-02 | RobotisSW/n17_pick_chestnuts_80k | 0 | 0 | [link](https://huggingface.co/RobotisSW/n17_pick_chestnuts_80k) |
 | 2026-08-02 | RobotisSW/n17_pick_chestnuts_60k | 0 | 0 | [link](https://huggingface.co/RobotisSW/n17_pick_chestnuts_60k) |
@@ -85,21 +87,19 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-02 | mario-d-robot/QIE-2511-MP-AnyLight | 0 | 0 | [link](https://huggingface.co/mario-d-robot/QIE-2511-MP-AnyLight) |
 | 2026-08-02 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-02 | sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0) |
-| 2026-08-02 | sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0) |
-| 2026-08-02 | sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2772 | Python | 1108.9 | [link](https://github.com/NVIDIA/skills) |
+| google-deepmind/mujoco | 14417 | C++ | 5766.9 | [link](https://github.com/google-deepmind/mujoco) |
+| kornia/kornia | 11298 | Python | 4519.3 | [link](https://github.com/kornia/kornia) |
+| RLinf/RLinf | 4377 | Python | 1750.9 | [link](https://github.com/RLinf/RLinf) |
+| NVIDIA/skills | 2773 | Python | 1109.3 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1432 | Rust | 572.9 | [link](https://github.com/copper-project/copper-rs) |
 | commaai/openpilot | 63296 | Python | 25318.5 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15601 | C++ | 6240.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | TianxingChen/Embodied-AI-Guide | 15186 |  | 6074.5 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
-| google-deepmind/mujoco | 14416 | C++ | 5766.5 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 12514 | JavaScript | 5005.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| kornia/kornia | 11298 | Python | 4519.3 | [link](https://github.com/kornia/kornia) |
-| RLinf/RLinf | 4376 | Python | 1750.5 | [link](https://github.com/RLinf/RLinf) |
+| earthtojake/text-to-cad | 12524 | JavaScript | 5009.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | dora-rs/dora | 3858 | Rust | 1543.3 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
@@ -120,7 +120,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
-| 2026-08-01 | SKT Is Selling Robot Training, Not Gigawatts - Sebastian Barros Newsletter | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTFB5VHkwWnQ5LVFFQkpxY2ZySlk3d1lDWWtlVzBkVzlFRkZ6WXJLQWhKR0FqRHVXZm84eTllUl9IMlVFUmtFeXdnM2NpTHowZXU0M3JOQjJvUnhmZUtZUkJlYVNhdUZ2LWlmUHAweHFqWkxPTW1sbElVdkFvVEU?oc=5) |
+| 2026-08-01 | SKT Is Selling Robot Training, Not Gigawatts - sebastianbarros.substack.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTFB5VHkwWnQ5LVFFQkpxY2ZySlk3d1lDWWtlVzBkVzlFRkZ6WXJLQWhKR0FqRHVXZm84eTllUl9IMlVFUmtFeXdnM2NpTHowZXU0M3JOQjJvUnhmZUtZUkJlYVNhdUZ2LWlmUHAweHFqWkxPTW1sbElVdkFvVEU?oc=5) |
 | 2026-07-31 | Korean Physical AI Startups Face a Hard Truth: A 98% Accurate AI Model Can Still Fail Inside a Robot - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbm56aHN1cU9VNW02QnJBTTJDcmhQS19ITE9kX2w4VnVrREpUS0dWeW1Ya191UDB3SjBRcmd0U2kwYWFIUGZFVkJXOG9KVEZpcmVwNjYtYkJjRTFZT3BvMncwMV9BeUk4ejRrcl9yc2F4OHhPTEJCTHRtdnhRN0dzMUZxT3ZUZlZNa0E?oc=5) |
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
 | 2026-07-31 | SK Telecom partners with physical AI startups - The Korea News Plus | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
@@ -142,7 +142,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-02 | Data Quality Analyst | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
 | 2026-08-02 | Data Strategy Associate | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4664781006) |
 | 2026-08-02 | Demand Planner | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4699238006) |
-| 2026-08-02 | Deployment Engineer - Commercial Site Team | Figure AI | Reno, NV | [link](https://job-boards.greenhouse.io/figureai/jobs/4674403006) |
+| 2026-08-02 | Deployment Engineer - Commercial Site Team | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4683846006) |
 
 ## Automation
 

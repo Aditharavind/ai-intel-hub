@@ -1,5 +1,19 @@
 [
   {
+    "title": "Aliensense NXS is a plug-and-play GMSL 2/3 and CAN-FD sensor board for robots",
+    "source": "CNX Software",
+    "date": "2026-08-03",
+    "url": "https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/",
+    "summary": "<div><img alt=\"Aliensense NXS sensor board for robots\" class=\"attachment-medium size-medium wp-post-image\" height=\"475\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Aliensense-NXS-sensor-board-for-robots-720x475.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Abu Dhabi-based Aliensense has introduced NXS, a compact sensor board designed to easily connect cameras and sensors to robots, without custom wiring or driver work. The board relies on a single GMSL 2/3 cable for power, video, and sensor data over up to 15 meters, extendable to 40 meters over CAN-FD (data only, reduced baudrate). The STM32G491 board is also compatible with the 2,000+ boards in MikroElektronika&#8217;s Click ecosystem thanks to a mikroBUS connector brought out through a Shuttle add-on board. This means you can use compatible sensors (via mikroBUS) in addition to, or instead of, a camera. NXS specifications: MCU &#8211; STMicro STM32G491 Cortex-M4F microcontroller with 112KB SRAM, up to 512KB flash Camera Interface &#8211; MIPI CSI-2 input, MAX96793 GMSL2/3 serializer, power-over-coax Connectivity &#8211; GMSL2/3, CAN-FD, Cyphal/serial, I2C register map Expansion &#8211; mikroBUS socket with I2C, SPI, UART, PWM, analog, INT, RST Recovery support &#8211; Signed A/B firmware, watchdog [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/\">Aliensense NXS is a plug-and-play GMSL 2/3 and CAN-FD sensor board for robots</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Ed Covets The FIFA Wheeze",
+    "source": "Electronics Weekly",
+    "date": "2026-08-03",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-fifa-2026-08/",
+    "summary": "<p>The FIFA wheeze to sell off a  proportion of the organisation’s marketing rights may have bitten the dust but I’m a connoisseur of  wicked wheezes and this one has triggered [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-fifa-2026-08/\">Ed Covets The FIFA Wheeze</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Hackaday Links: August 2, 2026",
     "source": "Hackaday",
     "date": "2026-08-02",
@@ -322,13 +336,6 @@
     "summary": "<p>A Nobel Physics Laureate who is 101 years old laid down five rules for being a successful researcher: Don&#8217;t allow yourself to be trapped by your past experiences. Don&#8217;t allow [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-wise-laureate-2026-07/\">Fable: The Wise Laureate</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Intel to license x86 RTL code",
-    "source": "Electronics Weekly",
-    "date": "2026-07-30",
-    "url": "https://www.electronicsweekly.com/news/business/intel-to-license-x86-rtl-code-2026-07/",
-    "summary": "<p>Intel is intending to ship RTL code for its x86 Atom processor to Rosaic Labs, a startup incorporated last May, reports Reuters. Rosaic CEO Amarjit Gill (pictured) and Intel CEO [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/intel-to-license-x86-rtl-code-2026-07/\">Intel to license x86 RTL code</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "EMASS Collaborates with Bosch Sensortec to Deliver Edge AI Asset Tracking Solution",
     "source": "EE Journal",
     "date": "2026-07-30",
@@ -376,13 +383,6 @@
     "date": "2026-07-29",
     "url": "https://www.cnx-software.com/2026/07/29/7-6-inch-square-hdmi-displays-with-usb-capacitive-touchscreen-offered-at-1200x1200-or-800x800-resolution/",
     "summary": "<div><img alt=\"7.6-inch square HDMI touch display\" class=\"attachment-medium size-medium wp-post-image\" height=\"387\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/7.6-inch-square-HDMI-touch-display-720x387.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>VIEWE UEDX12120076-HMD-RB-A and UEDX80800076-HMD-RB-A are 7.6-inch square HDMI capacitive touch displays with 1200&#215;1200 and 800&#215;800 resolution, respectively. We had previously seen 4-inch square HDMI +USB touch displays with 720×720 resolution for Raspberry Pi or other SBCs, but if you need something larger, VIEWE has now launched 7.6-inch variants with higher resolutions. VIEWE UEDX12120076-HMD-RB-A/UEDX80800076-HMD specifications: Display 7.6-inch MIPI DSI square IPS display Resolution UEDX80800076-HMD-RB-A &#8211; 800 x 800 UEDX12120076-HMD-RB-A &#8211; 1200 x 1200 Display driver ILI9881C for UEDX80800076-HMD-RB-A Potentially HX8279 for UEDX12120076-HMD-RB-A Brightness – 1,000 cd/㎡ Active area – 135.36 x 135.36 mm Touchscreen – Optional 5-point capacitive touchscreen via USB-C port (likely FT6336U touch IC) Video Input Mini HDMI 1.4 ITE HDMI input to MIPI DSI bridge based on the blurry photo of the controller. USB – USB-C port for power and touchscreen Misc &#8211; LED lifetime: 30,000 hours Power Supply &#8211; 5V via USB-C port Dimensions – 148.24 x [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/29/7-6-inch-square-hdmi-displays-with-usb-capacitive-touchscreen-offered-at-1200x1200-or-800x800-resolution/\">7.6-inch square HDMI displays with USB capacitive touchscreen offered at 1200&#215;1200 or 800&#215;800 resolution</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Sovol M1D hybrid IDEX 3D printer features 6 interchangeable toolheads for multi-color and multi-material prints (Crowdfunding)",
-    "source": "CNX Software",
-    "date": "2026-07-29",
-    "url": "https://www.cnx-software.com/2026/07/29/sovol-m1d-hybrid-idex-3d-printer-features-6-interchangeable-toolheads-for-multi-color-and-multi-material-prints/",
-    "summary": "<div><img alt=\"Sovol M1D IDEX Tool Changing 3D Printer\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/Sovol-M1D-IDEX-Tool-Changing-3D-Printer-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Sovol has launched the M1D, an open-source IDEX (Independent Dual Extruder) 3D printer with a fixed dual-extruder architecture and interchangeable toolheads that support up to seven independently heated toolheads (one fixed and six swappable). It comes in two variants: the open-frame M1D Essential and the M1D Advanced, which adds a full enclosure and a chamber heating module capable of reaching up to 60°C. The M1D uses a patented automatic tool changer for swapping print heads in as little as five seconds and supports Single, Multi-Head, Copy, and Mirror printing modes. It enables multi-material or/and multi-color prints, including adding water-soluble support to a print to remove the need to manually remove support (see video at the end of this post for demo). The printer targets makers, engineers, prototype development, and small-scale production by reducing purge waste while improving printing efficiency and material flexibility. Sovol M1D specifications: Printing technology – FDM (Fused Deposition Modeling) Storage – [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/29/sovol-m1d-hybrid-idex-3d-printer-features-6-interchangeable-toolheads-for-multi-color-and-multi-material-prints/\">Sovol M1D hybrid IDEX 3D printer features 6 interchangeable toolheads for multi-color and multi-material prints (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "BrainChip Launches AKD1500 M.2 Module for Fanless Edge AI",
