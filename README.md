@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-03 05:24 UTC
+Last Updated: 2026-08-03 08:53 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-03 | Reimagine Robotics emerges from stealth with robots that ‘learn on the job’ | Robotics Business Review | [link](https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/) |
 | 2026-08-02 | Google DeepMind says Gemini Robotics 2 enables full body control | Robotics Business Review | [link](https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/) |
 | 2026-08-01 | Top 10 robotics stories of July 2026 | Robotics Business Review | [link](https://www.therobotreport.com/top-10-robotics-stories-july-2026/) |
 | 2026-07-31 | Procore Technologies acquires DroneDeploy for $845M | Robotics Business Review | [link](https://www.therobotreport.com/procore-technologies-acquires-dronedeploy-845m/) |
@@ -44,21 +45,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-30 | Teradyne Robotics revenue rises 33% year over year in Q2 | Robotics Business Review | [link](https://www.therobotreport.com/teradyne-robotics-revenue-rises-33-year-over-year-in-q2/) |
 | 2026-07-30 | DoorDash gains FAA certification to operate its own drone delivery program | Robotics Business Review | [link](https://www.therobotreport.com/doordash-gains-faa-certification-to-operate-its-own-drone-delivery-program/) |
 | 2026-07-30 | 5 Physical AI infrastructure platforms shaping robotics in 2026 | Robotics Business Review | [link](https://www.therobotreport.com/5-physical-ai-infrastructure-platforms-shaping-robotics-in-2026/) |
-| 2026-07-29 | Experts react to FCC limits on U.S. imports of new humanoid and mobile robots | Robotics Business Review | [link](https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-03 | Spotting Emacs in the Wild | Hackaday | [link](https://hackaday.com/2026/08/03/spotting-emacs-in-the-wild/) |
 | 2026-08-03 | Making a Retro(ish) Game Console From Scratch | Hackaday | [link](https://hackaday.com/2026/08/02/making-a-retroish-game-console-from-scratch/) |
 | 2026-08-03 | Easy Theremin Uses ESP32 | Hackaday | [link](https://hackaday.com/2026/08/02/easy-theremin-uses-esp32/) |
 | 2026-08-03 | $299.99 ASUS UGen300 USB AI accelerator combines 40 TOPS Hailo-10H chip with 8GB LPDDR4 | CNX Software | [link](https://www.cnx-software.com/2026/08/03/299-99-asus-ugen300-usb-ai-accelerator-hailo-10h-8gb-lpddr4/) |
 | 2026-08-03 | Aliensense NXS is a plug-and-play GMSL 2/3 and CAN-FD sensor board for robots | CNX Software | [link](https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/) |
-| 2026-08-03 | Ed Covets The FIFA Wheeze | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-fifa-2026-08/) |
-| 2026-08-02 | Hackaday Links: August 2, 2026 | Hackaday | [link](https://hackaday.com/2026/08/02/hackaday-links-august-2-2026/) |
-| 2026-08-02 | An Automated Water Tank Controller | Hackaday | [link](https://hackaday.com/2026/08/02/an-automated-water-tank-controller/) |
-| 2026-08-02 | Turning Fruits Into Ethylene and Ethane Refrigerant | Hackaday | [link](https://hackaday.com/2026/08/02/turning-fruits-into-ethylene-and-ethane-refrigerant/) |
-| 2026-08-02 | A KVM Without the V (Or the M) | Hackaday | [link](https://hackaday.com/2026/08/02/a-kvm-without-the-v-or-the-m/) |
-| 2026-08-02 | Architectural LED Install Shows How To Do It With Style | Hackaday | [link](https://hackaday.com/2026/08/02/architectural-led-install-shows-how-to-do-it-with-style/) |
+| 2026-08-03 | TSMC ahead of schedule with 1.4nm fab | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/tsmc-ahead-of-schedule-with-1-4nm-fab-2026-08/) |
+| 2026-08-03 | Kioxia expects Q2 profit of $7.94 billion | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/kioxia-expects-q2-profit-of-7-94-billion-2026-08/) |
+| 2026-08-03 | Engineer Social Hub | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/engineer-social-hub-2026-08/) |
+| 2026-08-03 | Microwave transmission equipment growth has two more years | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/micriwave-2026-08/) |
+| 2026-08-03 | 1Tb and 512Gb UFS NAND samples available | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/kioxia-sampling-1tb-and-512gb-ufs-nand-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,35 +77,35 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-08-03 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 585 | 21 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
-| 2026-08-03 | zzh2026/robot_learning_tutorial_diffusion | 0 | 0 | [link](https://huggingface.co/zzh2026/robot_learning_tutorial_diffusion) |
+| 2026-08-03 | RobotisSW/Task0731_Pick_Up_Trash_On_The_Table_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task0731_Pick_Up_Trash_On_The_Table_50K) |
+| 2026-08-03 | RobotisSW/Task_255_PickUP_Jelly_50K_MCAP | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_255_PickUP_Jelly_50K_MCAP) |
+| 2026-08-03 | RobotisSW/Task_255_PickUP_Jelly_10K_MCAP | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_255_PickUP_Jelly_10K_MCAP) |
+| 2026-08-03 | wanderly0501/Llama-3.1-8B-no-robots-finetuned | 0 | 0 | [link](https://huggingface.co/wanderly0501/Llama-3.1-8B-no-robots-finetuned) |
+| 2026-08-03 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 634 | 21 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
+| 2026-08-03 | zzh2026/robot_learning_tutorial_diffusion | 12 | 0 | [link](https://huggingface.co/zzh2026/robot_learning_tutorial_diffusion) |
 | 2026-08-03 | sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0) |
 | 2026-08-03 | sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0) |
 | 2026-08-03 | ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_random_60k | 0 | 0 | [link](https://huggingface.co/ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_random_60k) |
-| 2026-08-03 | siliconperception/VLA | 133 | 0 | [link](https://huggingface.co/siliconperception/VLA) |
-| 2026-08-03 | DaoyuanLi/mini-verl-qwen3-0.6b-tool-policy-sft | 0 | 0 | [link](https://huggingface.co/DaoyuanLi/mini-verl-qwen3-0.6b-tool-policy-sft) |
-| 2026-08-03 | kilua77/policy_green_vial_bowl | 0 | 0 | [link](https://huggingface.co/kilua77/policy_green_vial_bowl) |
-| 2026-08-03 | lmerkle/my-dit-policy | 0 | 0 | [link](https://huggingface.co/lmerkle/my-dit-policy) |
-| 2026-08-03 | Heesung120/lerobot-policy | 0 | 0 | [link](https://huggingface.co/Heesung120/lerobot-policy) |
+| 2026-08-03 | siliconperception/VLA | 143 | 0 | [link](https://huggingface.co/siliconperception/VLA) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2774 | Python | 1109.7 | [link](https://github.com/NVIDIA/skills) |
-| Edgenesis/shifu | 1427 | Go | 570.9 | [link](https://github.com/Edgenesis/shifu) |
+| NVIDIA/skills | 2775 | Python | 1110.1 | [link](https://github.com/NVIDIA/skills) |
+| copper-project/copper-rs | 1432 | Rust | 572.9 | [link](https://github.com/copper-project/copper-rs) |
+| Edgenesis/shifu | 1428 | Go | 571.3 | [link](https://github.com/Edgenesis/shifu) |
 | alireza787b/mavsdk_drone_show | 309 | Python | 123.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | ArduPilot/ardupilot | 15603 | C++ | 6241.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14417 | C++ | 5766.9 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 12550 | JavaScript | 5020.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14421 | C++ | 5768.5 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 12581 | JavaScript | 5032.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11298 | Python | 4519.3 | [link](https://github.com/kornia/kornia) |
-| RLinf/RLinf | 4385 | Python | 1754.1 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3858 | Rust | 1543.3 | [link](https://github.com/dora-rs/dora) |
-| sou350121/VLA-Handbook | 461 | HTML | 184.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| rerun-io/rerun | 11234 | Rust | 4493.7 | [link](https://github.com/rerun-io/rerun) |
+| RLinf/RLinf | 4389 | Python | 1755.7 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
-| 2026-08-02 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxNS1pLN1IxYkk2aGJfY1pEblIxMGlUc3pCUFlGbmZpbGV2S29DYkI2RUFzemkwdjhodi1SaXZXby0yV1dobGR6LU1tN1pyNlR2MDQ5QVNiRWdqWnFqWVBSTXB0Q1pyY2NDSlg1SDBQUUVneHp5WG5xY1VIeDNlOF9aU3pzV21fQXpEcFNkV1h3?oc=5) |
+| 2026-08-03 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxNS1pLN1IxYkk2aGJfY1pEblIxMGlUc3pCUFlGbmZpbGV2S29DYkI2RUFzemkwdjhodi1SaXZXby0yV1dobGR6LU1tN1pyNlR2MDQ5QVNiRWdqWnFqWVBSTXB0Q1pyY2NDSlg1SDBQUUVneHp5WG5xY1VIeDNlOF9aU3pzV21fQXpEcFNkV1h3?oc=5) |
 | 2026-07-31 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZzdWcHBCZmdvN2J3RTlqVUdmLXB3WUNjSEpQMHA0REduNVcyckdoeHg3LTZkd1pwOTF6cldiUEJ5SXBET2RqbEhPUFhVZHotXzVqTnlXV0tCQTlrOUJ6ZnhZQ1ZxRmIwamJ4WXNnbGR2U01EOUZzeW1JdEFuMWV4Y2dPMTlxbklkMmxJVVJLaDdWTnpwTVJRYzJHQ3MyMDl0Tlh6V2d2N3FxbGt6ck5faXRiQlZudDhVWEhhUGk5OFUzZG1tZGdHYzlfS0plREZHVnc?oc=5) |
 | 2026-07-31 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQazRPbW5hem55NV9sQ1RpWE53YWFmTk00MWlvbXhKZ3ppdWVDVDFOVlhLQUxUUFdQRzNxVk5YNDRtbC0zWGVCcEM2YTU3SWVUbDMxU0ZEN2Q4U1p5Q2lPMmUwVGY5M2k4WHlGdndJVlBDRHo5TGZLS3FhYW9FcjNvaGZRbDgtQ2ZDWUt0RGNtWm1mMnRaamJYY3dMM2Zpd2o5b21XSg?oc=5) |
 | 2026-07-31 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE8wOVpka205M25lMFJ6RWR3ZjZLX2phejdSNVVRTlRjb3FzeFd2SWtVcnVOdWlMcUlqdUVHNm5EUUFkeVBxV1lkSkh6Q2F1VXBWT2g3TzhaNHJhbkJYYWswZ1lhTlhaeHFpU1hKY2NaSndsYzhiZjlwalcxVzFrdw?oc=5) |

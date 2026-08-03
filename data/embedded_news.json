@@ -1,5 +1,12 @@
 [
   {
+    "title": "Spotting Emacs in the Wild",
+    "source": "Hackaday",
+    "date": "2026-08-03",
+    "url": "https://hackaday.com/2026/08/03/spotting-emacs-in-the-wild/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"529\" src=\"https://hackaday.com/wp-content/uploads/2026/07/emacsmedia_feat.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Emacs is one of the big classic text editors, right up there next to vi. It&#8217;s famous for its interface and its ubiquity across the *nix world. It&#8217;s such a <a class=\"read-more\" href=\"https://hackaday.com/2026/08/03/spotting-emacs-in-the-wild/\">&#8230;read more</a>"
+  },
+  {
     "title": "Making a Retro(ish) Game Console From Scratch",
     "source": "Hackaday",
     "date": "2026-08-03",
@@ -26,6 +33,41 @@
     "date": "2026-08-03",
     "url": "https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/",
     "summary": "<div><img alt=\"Aliensense NXS sensor board for robots\" class=\"attachment-medium size-medium wp-post-image\" height=\"475\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Aliensense-NXS-sensor-board-for-robots-720x475.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Abu Dhabi-based Aliensense has introduced NXS, a compact sensor board designed to easily connect cameras and sensors to robots, without custom wiring or driver work. The board relies on a single GMSL 2/3 cable for power, video, and sensor data over up to 15 meters, extendable to 40 meters over CAN-FD (data only, reduced baudrate). The STM32G491 board is also compatible with the 2,000+ boards in MikroElektronika&#8217;s Click ecosystem thanks to a mikroBUS connector brought out through a Shuttle add-on board. This means you can use compatible sensors (via mikroBUS) in addition to, or instead of, a camera. NXS specifications: MCU &#8211; STMicro STM32G491 Cortex-M4F microcontroller with 112KB SRAM, up to 512KB flash Camera Interface &#8211; MIPI CSI-2 input, MAX96793 GMSL2/3 serializer, power-over-coax Connectivity &#8211; GMSL2/3, CAN-FD, Cyphal/serial, I2C register map Expansion &#8211; mikroBUS socket with I2C, SPI, UART, PWM, analog, INT, RST Recovery support &#8211; Signed A/B firmware, watchdog [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/\">Aliensense NXS is a plug-and-play GMSL 2/3 and CAN-FD sensor board for robots</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "TSMC ahead of schedule with 1.4nm fab",
+    "source": "Electronics Weekly",
+    "date": "2026-08-03",
+    "url": "https://www.electronicsweekly.com/news/business/tsmc-ahead-of-schedule-with-1-4nm-fab-2026-08/",
+    "summary": "<p>TSMC is ahead of schedule in the construction of its $49 billion 1.4nm fab in Taichung&#8217;s Central Taiwan Science Park, reports the Commercial Times. Construction started in November 2025. First [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-ahead-of-schedule-with-1-4nm-fab-2026-08/\">TSMC ahead of schedule with 1.4nm fab</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Kioxia expects Q2 profit of $7.94 billion",
+    "source": "Electronics Weekly",
+    "date": "2026-08-03",
+    "url": "https://www.electronicsweekly.com/news/business/kioxia-expects-q2-profit-of-7-94-billion-2026-08/",
+    "summary": "<p>Kioxia has forecast a $7.91 billion profit for Q3 and plans to buy back 5.5% of its shares. The $5 billion cost of the buy-back is 170% of its planned [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/kioxia-expects-q2-profit-of-7-94-billion-2026-08/\">Kioxia expects Q2 profit of $7.94 billion</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Engineer Social Hub",
+    "source": "Electronics Weekly",
+    "date": "2026-08-03",
+    "url": "https://www.electronicsweekly.com/news/business/engineer-social-hub-2026-08/",
+    "summary": "<p>Rohm has launched the English-language version of Engineer Social Hub, an online platform designed to make its technical information, know-how, and support more accessible to engineers. Engineer Social Hub brings [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/engineer-social-hub-2026-08/\">Engineer Social Hub</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Microwave transmission equipment growth has two more years",
+    "source": "Electronics Weekly",
+    "date": "2026-08-03",
+    "url": "https://www.electronicsweekly.com/news/business/micriwave-2026-08/",
+    "summary": "<p>The deployment of 5G is projected to increase for another two years, boosting demand for microwave transmission equipment, says Dell’Oro. “We anticipate at least two more years of growth for [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/micriwave-2026-08/\">Microwave transmission equipment growth has two more years</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "1Tb and 512Gb UFS NAND samples available",
+    "source": "Electronics Weekly",
+    "date": "2026-08-03",
+    "url": "https://www.electronicsweekly.com/news/business/kioxia-sampling-1tb-and-512gb-ufs-nand-2026-08/",
+    "summary": "<p>Kioxia is sampling UFS 5.0 NAND  in 1 TB and 512 GB capacities and plans mass production by the end of the year. Built on the JEDEC UFS 5.0 standard, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/kioxia-sampling-1tb-and-512gb-ufs-nand-2026-08/\">1Tb and 512Gb UFS NAND samples available</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Ed Covets The FIFA Wheeze",
@@ -61,13 +103,6 @@
     "date": "2026-08-02",
     "url": "https://hackaday.com/2026/08/02/a-kvm-without-the-v-or-the-m/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"250\" src=\"https://hackaday.com/wp-content/uploads/2026/07/picotty_feat.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Many of us will be used to the idea of a KVM, a device that pipes keyboard, video, and mouse over the network from a remote machine to your own. <a class=\"read-more\" href=\"https://hackaday.com/2026/08/02/a-kvm-without-the-v-or-the-m/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Architectural LED Install Shows How To Do It With Style",
-    "source": "Hackaday",
-    "date": "2026-08-02",
-    "url": "https://hackaday.com/2026/08/02/architectural-led-install-shows-how-to-do-it-with-style/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/07/IMG_4496-e1785554235185.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Anyone can string up some LED string lights in a space with mixed results. However, if you want to create a lighting environment that&#8217;s classy and stylish, it takes a <a class=\"read-more\" href=\"https://hackaday.com/2026/08/02/architectural-led-install-shows-how-to-do-it-with-style/\">&#8230;read more</a>"
   },
   {
     "title": "Play games with your brain signals using Octopus 16 wireless EEG device",
@@ -196,34 +231,6 @@
     "summary": "<p>At his final results call Tim Cook turned in some pretty good numbers in a tough consumer electronics market. Apple had fiscal Q3 (calendar Q2) revenues up 16.4% y-o-y at [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/cooks-curtain-call-2026-07/\">Cook’s curtain call</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Element14 poses home and healthcare design challenge",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/element14-poses-home-and-healthcare-design-challenge-2026-07/",
-    "summary": "<p>Element14 has launched a home and healthcare design challenge inviting engineers, makers and technology enthusiasts to design and build a prototype smart home or healthcare system designed to support a [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/element14-poses-home-and-healthcare-design-challenge-2026-07/\">Element14 poses home and healthcare design challenge</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Infineon shipping isolator ICs for high-volume applications",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/infineon-shipping-isolator-ics-for-high-volume-applications-2026-07/",
-    "summary": "<p>Infineon is shipping the ISSI20BxxF Solid State Isolator (SSI) family, bringing solid-state isolation technology into high-volume applications traditionally served by photovoltaic isolators, photovoltaic relays and electromechanical relays. Housed in aPG-DSO-8 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-shipping-isolator-ics-for-high-volume-applications-2026-07/\">Infineon shipping isolator ICs for high-volume applications</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Back-end AI datacentre network switches head for $1tn market",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/news/business/datacentre-switches-head-for-1trn-market-2026-07/",
-    "summary": "<p>Cumulative spending on datacentre switches deployed in AI back-end networks to support next generation AI infrastructure is forecast to approach $1tn over the next five years (2026-2030), says Dell’Oro. Scale-up [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/datacentre-switches-head-for-1trn-market-2026-07/\">Back-end AI datacentre network switches head for $1tn market</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Wildfire",
-    "source": "Electronics Weekly",
-    "date": "2026-07-31",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/wildfire-2026-07/",
-    "summary": "<p>Europe’s wildfire season used to typically run from July to September, but now data shows that it is getting longer and more intense. By July 22nd the  burned area in [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/wildfire-2026-07/\">Wildfire</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "Installing Docker on the Raspberry Pi",
     "source": "Adafruit",
     "date": "2026-07-31",
@@ -334,13 +341,6 @@
     "date": "2026-07-30",
     "url": "https://www.embedded.com/why-sustained-performance-defines-the-next-phase-of-edge-ai/",
     "summary": "<p>Avnet Silica details why sustained performance, not peak compute, will define the next phase of edge AI.</p>\n<p>The post <a href=\"https://www.embedded.com/why-sustained-performance-defines-the-next-phase-of-edge-ai/\">Why Sustained Performance Defines the Next Phase of Edge AI</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Fable: The Wise Laureate",
-    "source": "Electronics Weekly",
-    "date": "2026-07-30",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-wise-laureate-2026-07/",
-    "summary": "<p>A Nobel Physics Laureate who is 101 years old laid down five rules for being a successful researcher: Don&#8217;t allow yourself to be trapped by your past experiences. Don&#8217;t allow [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-wise-laureate-2026-07/\">Fable: The Wise Laureate</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "EMASS Collaborates with Bosch Sensortec to Deliver Edge AI Asset Tracking Solution",

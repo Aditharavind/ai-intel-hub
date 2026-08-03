@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-03 05:24 UTC
+Generated: 2026-08-03 08:53 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,25 +14,25 @@ Generated: 2026-08-03 05:24 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82901 | 33160.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63299 | 25319.7 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30231 | 12092.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16082 | 6432.9 | [link](https://github.com/zauberzeug/nicegui) |
+| Developer-Y/cs-video-courses | 82904 | 33161.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63303 | 25321.3 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30234 | 12093.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16084 | 6433.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15603 | 6241.3 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| tencent/Hy-Embodied-VLM-1.0 | 1065 | 324.0 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
-| SEU-PAISys/Embodied.cpp | 718 | 216.3 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
-| tsinghua-sigs-robot-lab/veriloop-coder-e1 | 585 | 179.8 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
-| zhijieq/directional-navigation | 418 | 125.5 | [link](https://huggingface.co/zhijieq/directional-navigation) |
-| HarrisonPENG/M2W-VLA-RoboTwin | 392 | 117.7 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
+| tencent/Hy-Embodied-VLM-1.0 | 1070 | 325.5 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
+| SEU-PAISys/Embodied.cpp | 726 | 218.7 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
+| tsinghua-sigs-robot-lab/veriloop-coder-e1 | 634 | 194.5 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
+| zhijieq/directional-navigation | 419 | 125.8 | [link](https://huggingface.co/zhijieq/directional-navigation) |
+| HarrisonPENG/M2W-VLA-RoboTwin | 400 | 120.1 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
-| 2026-08-02 | Unitree |  | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxNS1pLN1IxYkk2aGJfY1pEblIxMGlUc3pCUFlGbmZpbGV2S29DYkI2RUFzemkwdjhodi1SaXZXby0yV1dobGR6LU1tN1pyNlR2MDQ5QVNiRWdqWnFqWVBSTXB0Q1pyY2NDSlg1SDBQUUVneHp5WG5xY1VIeDNlOF9aU3pzV21fQXpEcFNkV1h3?oc=5) |
+| 2026-08-03 | Unitree |  | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxNS1pLN1IxYkk2aGJfY1pEblIxMGlUc3pCUFlGbmZpbGV2S29DYkI2RUFzemkwdjhodi1SaXZXby0yV1dobGR6LU1tN1pyNlR2MDQ5QVNiRWdqWnFqWVBSTXB0Q1pyY2NDSlg1SDBQUUVneHp5WG5xY1VIeDNlOF9aU3pzV21fQXpEcFNkV1h3?oc=5) |
 | 2026-07-31 | Unitree |  | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZzdWcHBCZmdvN2J3RTlqVUdmLXB3WUNjSEpQMHA0REduNVcyckdoeHg3LTZkd1pwOTF6cldiUEJ5SXBET2RqbEhPUFhVZHotXzVqTnlXV0tCQTlrOUJ6ZnhZQ1ZxRmIwamJ4WXNnbGR2U01EOUZzeW1JdEFuMWV4Y2dPMTlxbklkMmxJVVJLaDdWTnpwTVJRYzJHQ3MyMDl0Tlh6V2d2N3FxbGt6ck5faXRiQlZudDhVWEhhUGk5OFUzZG1tZGdHYzlfS0plREZHVnc?oc=5) |
 | 2026-07-31 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQazRPbW5hem55NV9sQ1RpWE53YWFmTk00MWlvbXhKZ3ppdWVDVDFOVlhLQUxUUFdQRzNxVk5YNDRtbC0zWGVCcEM2YTU3SWVUbDMxU0ZEN2Q4U1p5Q2lPMmUwVGY5M2k4WHlGdndJVlBDRHo5TGZLS3FhYW9FcjNvaGZRbDgtQ2ZDWUt0RGNtWm1mMnRaamJYY3dMM2Zpd2o5b21XSg?oc=5) |
 | 2026-07-31 | Unitree |  | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE8wOVpka205M25lMFJ6RWR3ZjZLX2phejdSNVVRTlRjb3FzeFd2SWtVcnVOdWlMcUlqdUVHNm5EUUFkeVBxV1lkSkh6Q2F1VXBWT2g3TzhaNHJhbkJYYWswZ1lhTlhaeHFpU1hKY2NaSndsYzhiZjlwalcxVzFrdw?oc=5) |
