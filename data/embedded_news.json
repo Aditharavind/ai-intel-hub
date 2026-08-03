@@ -1,5 +1,19 @@
 [
   {
+    "title": "New File Manager is C64’s Answer to Norton Commander",
+    "source": "Hackaday",
+    "date": "2026-08-03",
+    "url": "https://hackaday.com/2026/08/03/new-file-manager-is-c64s-answer-to-norton-commander/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"413\" src=\"https://hackaday.com/wp-content/uploads/2026/07/mfcwt_feat.png?w=722\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"722\" /></div>Norton was always a PC company &#8212; Norton Commander, the file manager that launched a thousand clones, was only ever available for DOS, like the rest of the company&#8217;s offerings <a class=\"read-more\" href=\"https://hackaday.com/2026/08/03/new-file-manager-is-c64s-answer-to-norton-commander/\">&#8230;read more</a>"
+  },
+  {
+    "title": "The 16K Display that Ate Las Vegas",
+    "source": "Hackaday",
+    "date": "2026-08-03",
+    "url": "https://hackaday.com/2026/08/03/the-16k-display-that-ate-las-vegas/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/07/Sphere.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>You may have a 4K television. Perhaps you have even bought an 8K screen, despite the shortage of things worth watching in 8K. A 16K display is, today, a rarity. <a class=\"read-more\" href=\"https://hackaday.com/2026/08/03/the-16k-display-that-ate-las-vegas/\">&#8230;read more</a>"
+  },
+  {
     "title": "Get a Remote Terminal With One Binary, One URL, and Zero Config",
     "source": "Hackaday",
     "date": "2026-08-03",
@@ -28,6 +42,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/07/DSC_0001-e1785555019998.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Theremin is that classic electronic musical instrument that makes those weeee-ohhhhh noises which were so popular in mid-century science fiction movies. Mid-last-century, that is, because this century is just <a class=\"read-more\" href=\"https://hackaday.com/2026/08/02/easy-theremin-uses-esp32/\">&#8230;read more</a>"
   },
   {
+    "title": "ChronoWatch X2040 – A DIY watch with off-the-shelf Raspberry Pi RP2040 round display, 3D printed case, and custom firmware",
+    "source": "CNX Software",
+    "date": "2026-08-03",
+    "url": "https://www.cnx-software.com/2026/08/03/chronowatch-x2040-a-diy-watch-with-off-the-shelf-raspberry-pi-rp2040-round-display-3d-printed-case-and-custom-firmware/",
+    "summary": "<div><img alt=\"Raspberry Pi RP2040 watch\" class=\"attachment-medium size-medium wp-post-image\" height=\"491\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Raspberry-Pi-RP2040-watch-720x491.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>If you&#8217;ve ever wanted to build your own watch, the ChronoWatch X2040 DIY watch allows you to do it the easy way with a Waveshare RP2040-Touch-LCD-1.28 touch LCD board, a 3D-printed case, a 3.7V LiPo battery, a few screws, and firmware using the Pico C/C++ SDK. When Vishal Soni decided he wanted to build a watch, he initially planned to design a custom board, but since there are already several round LCD boards based on Raspberry Pi RP2040 MCU, he went with a Waveshare board, preferring to spend more time on firmware programming. ChronoWatch X2040 parts: Waveshare RP2040-Touch-LCD-1.28 with Raspberry Pi RP2040 MCU and 1.28-inch round touch display &#8211; About $23 to $29 on Amazon, AliExpress, or the Waveshare store. 3D printed case designed with Tinkercad 3.7V 950mAh Lipo battery (35 x 25 x 10 mm) M2 4mm screw M2 heat inserts 2-pin MX1.25 connector 1mm heat shrink sleeve tube [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/03/chronowatch-x2040-a-diy-watch-with-off-the-shelf-raspberry-pi-rp2040-round-display-3d-printed-case-and-custom-firmware/\">ChronoWatch X2040 &#8211; A DIY watch with off-the-shelf Raspberry Pi RP2040 round display, 3D printed case, and custom firmware</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "28.9M-parameter LLM runs locally on ESP32-S3 at 9 tokens/s",
     "source": "CNX Software",
     "date": "2026-08-03",
@@ -49,74 +70,18 @@
     "summary": "<div><img alt=\"Aliensense NXS sensor board for robots\" class=\"attachment-medium size-medium wp-post-image\" height=\"475\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Aliensense-NXS-sensor-board-for-robots-720x475.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Abu Dhabi-based Aliensense has introduced NXS, a compact sensor board designed to easily connect cameras and sensors to robots, without custom wiring or driver work. The board relies on a single GMSL 2/3 cable for power, video, and sensor data over up to 15 meters, extendable to 40 meters over CAN-FD (data only, reduced baudrate). The STM32G491 board is also compatible with the 2,000+ boards in MikroElektronika&#8217;s Click ecosystem thanks to a mikroBUS connector brought out through a Shuttle add-on board. This means you can use compatible sensors (via mikroBUS) in addition to, or instead of, a camera. NXS specifications: MCU &#8211; STMicro STM32G491 Cortex-M4F microcontroller with 112KB SRAM, up to 512KB flash Camera Interface &#8211; MIPI CSI-2 input, MAX96793 GMSL2/3 serializer, power-over-coax Connectivity &#8211; GMSL2/3, CAN-FD, Cyphal/serial, I2C register map Expansion &#8211; mikroBUS socket with I2C, SPI, UART, PWM, analog, INT, RST Recovery support &#8211; Signed A/B firmware, watchdog [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/\">Aliensense NXS is a plug-and-play GMSL 2/3 and CAN-FD sensor board for robots</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Wafer fab equipment market set to eexplode",
-    "source": "Electronics Weekly",
+    "title": "Making a guitar tube amplifier from a turntable",
+    "source": "Adafruit",
     "date": "2026-08-03",
-    "url": "https://www.electronicsweekly.com/news/business/wafer-fab-equipment-market-set-to-eexplode-2026-08/",
-    "summary": "<p>Semiconductor equipment spending is entering a new growth cycle shaped by geopolitics, sovereignty strategies, and technology roadmaps, despite uneven end-market demand Wafer Fab Equipment (WFE) sales revenue is expected to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/wafer-fab-equipment-market-set-to-eexplode-2026-08/\">Wafer fab equipment market set to eexplode</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/08/03/making-a-guitar-tube-amplifier-from-a-turntable/",
+    "summary": "Davide Gironi found a junked turntable. It was not in a good condition, the plate was broken and enclosure has some cracks. The front cover is pretty, and also it&#8217;s powered by tubes, so Davide decided to convert it into a small practice tube guitar amplifier. Most important thing to notice when building tube guitar [&#8230;]"
   },
   {
-    "title": "Mian Quddus to receive Jedec FMS lifetime achievement award",
-    "source": "Electronics Weekly",
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
     "date": "2026-08-03",
-    "url": "https://www.electronicsweekly.com/news/mian-quddus-to-receive-jedec-fms-lifetime-achievement-award-2026-08/",
-    "summary": "<p>The longtime chairman of the Jedec standards body, Mian Quddus, is to receive the 2026 FMS Lifetime Achievement Award tomorrow. The award will be presented to Mr. Quddus, pictured, at [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/mian-quddus-to-receive-jedec-fms-lifetime-achievement-award-2026-08/\">Mian Quddus to receive Jedec FMS lifetime achievement award</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "London AI chip startup OLIX raises $312m",
-    "source": "Electronics Weekly",
-    "date": "2026-08-03",
-    "url": "https://www.electronicsweekly.com/news/business/london-ai-chip-startup-olix-raises-312m-2026-08/",
-    "summary": "<p>Earlier today, OLIX the two year-old London AI chip startup founded by James Dacombe (pictured) announced a $312m Series B financing round at a $3.3 billion valuation. The round included [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/london-ai-chip-startup-olix-raises-312m-2026-08/\">London AI chip startup OLIX raises $312m</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Neural network controls satellite bus in orbit",
-    "source": "Electronics Weekly",
-    "date": "2026-08-03",
-    "url": "https://www.electronicsweekly.com/news/neural-network-controls-satellite-bus-in-orbit-2026-08/",
-    "summary": "<p>The US Air Force Research Laboratory (AFRL) has demonstrated autonomous control of a satellite bus using a neural network. The organisation describes it as a pivotal shift for the use [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/neural-network-controls-satellite-bus-in-orbit-2026-08/\">Neural network controls satellite bus in orbit</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "TSMC ahead of schedule with 1.4nm fab",
-    "source": "Electronics Weekly",
-    "date": "2026-08-03",
-    "url": "https://www.electronicsweekly.com/news/business/tsmc-ahead-of-schedule-with-1-4nm-fab-2026-08/",
-    "summary": "<p>TSMC is ahead of schedule in the construction of its $49 billion 1.4nm fab in Taichung&#8217;s Central Taiwan Science Park, reports the Commercial Times. Construction started in November 2025. First [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-ahead-of-schedule-with-1-4nm-fab-2026-08/\">TSMC ahead of schedule with 1.4nm fab</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Kioxia expects Q2 profit of $7.94 billion",
-    "source": "Electronics Weekly",
-    "date": "2026-08-03",
-    "url": "https://www.electronicsweekly.com/news/business/kioxia-expects-q2-profit-of-7-94-billion-2026-08/",
-    "summary": "<p>Kioxia has forecast a $7.91 billion profit for Q3 and plans to buy back 5.5% of its shares. The $5 billion cost of the buy-back is 170% of its planned [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/kioxia-expects-q2-profit-of-7-94-billion-2026-08/\">Kioxia expects Q2 profit of $7.94 billion</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Engineer Social Hub",
-    "source": "Electronics Weekly",
-    "date": "2026-08-03",
-    "url": "https://www.electronicsweekly.com/news/business/engineer-social-hub-2026-08/",
-    "summary": "<p>Rohm has launched the English-language version of Engineer Social Hub, an online platform designed to make its technical information, know-how, and support more accessible to engineers. Engineer Social Hub brings [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/engineer-social-hub-2026-08/\">Engineer Social Hub</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Microwave transmission equipment growth has two more years",
-    "source": "Electronics Weekly",
-    "date": "2026-08-03",
-    "url": "https://www.electronicsweekly.com/news/business/micriwave-2026-08/",
-    "summary": "<p>The deployment of 5G is projected to increase for another two years, boosting demand for microwave transmission equipment, says Dell’Oro. “We anticipate at least two more years of growth for [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/micriwave-2026-08/\">Microwave transmission equipment growth has two more years</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "1Tb and 512Gb UFS NAND samples available",
-    "source": "Electronics Weekly",
-    "date": "2026-08-03",
-    "url": "https://www.electronicsweekly.com/news/business/kioxia-sampling-1tb-and-512gb-ufs-nand-2026-08/",
-    "summary": "<p>Kioxia is sampling UFS 5.0 NAND  in 1 TB and 512 GB capacities and plans mass production by the end of the year. Built on the JEDEC UFS 5.0 standard, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/kioxia-sampling-1tb-and-512gb-ufs-nand-2026-08/\">1Tb and 512Gb UFS NAND samples available</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Ed Covets The FIFA Wheeze",
-    "source": "Electronics Weekly",
-    "date": "2026-08-03",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-fifa-2026-08/",
-    "summary": "<p>The FIFA wheeze to sell off a  proportion of the organisation’s marketing rights may have bitten the dust but I’m a connoisseur of  wicked wheezes and this one has triggered [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-fifa-2026-08/\">Ed Covets The FIFA Wheeze</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/08/03/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-3/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
     "title": "Mysterious Frequency Counter Twins from 1979",
@@ -131,20 +96,6 @@
     "date": "2026-08-02",
     "url": "https://hackaday.com/2026/08/02/hackaday-links-august-2-2026/",
     "summary": "<div><img alt=\"Hackaday Links Column Banner\" class=\"attachment-large size-large wp-post-image\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>About a month ago, we brought you word that the commercial rescue mission designed by Katalyst Space to save NASA&#8217;s Swift gamma-ray observatory had reached orbit and early indicators were <a class=\"read-more\" href=\"https://hackaday.com/2026/08/02/hackaday-links-august-2-2026/\">&#8230;read more</a>"
-  },
-  {
-    "title": "An Automated Water Tank Controller",
-    "source": "Hackaday",
-    "date": "2026-08-02",
-    "url": "https://hackaday.com/2026/08/02/an-automated-water-tank-controller/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/Demo-Automated-Watertank-Controller-0-1-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Jumpor] lives in a part of India where the water infrastructure is a little frustrating to use. Water gets delivered to underground tanks outside of homes, and must then be <a class=\"read-more\" href=\"https://hackaday.com/2026/08/02/an-automated-water-tank-controller/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Turning Fruits Into Ethylene and Ethane Refrigerant",
-    "source": "Hackaday",
-    "date": "2026-08-02",
-    "url": "https://hackaday.com/2026/08/02/turning-fruits-into-ethylene-and-ethane-refrigerant/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"455\" src=\"https://hackaday.com/wp-content/uploads/2026/07/fruit_mix_ethanol_refrigerant_hyperspace_pirate_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One of the best parts about DIY chemistry and physics projects is that you get to decide how early in the supply chain you want to begin, such as with <a class=\"read-more\" href=\"https://hackaday.com/2026/08/02/turning-fruits-into-ethylene-and-ethane-refrigerant/\">&#8230;read more</a>"
   },
   {
     "title": "Play games with your brain signals using Octopus 16 wireless EEG device",
@@ -266,20 +217,6 @@
     "summary": "Today is the 27th annual System Administrator Appreciation Day. So give a little thanks to the folks keeping things running. Your network is secure, your computer is up and running, and your printer is jam-free. Why? Because you’ve got an awesome sysadmin (or maybe a whole IT department) keeping your business up and running. So [&#8230;]"
   },
   {
-    "title": "What to Make with Adafruit Fruit Jam Mini-Computer Kit",
-    "source": "Adafruit",
-    "date": "2026-07-31",
-    "url": "https://blog.adafruit.com/2026/07/31/what-to-make-with-adafruit-fruit-jam-mini-computer-kit/",
-    "summary": "&#160; Our Fruit Jam Mini-Computer Kit takes its inspiration from the self-contained electronic wonderland of our childhood computers that we could plug directly into a TV then blaze our eyes with 8-bit of glory. See what you can do with our Fruit Jam and our Mini-Computer Kit in the Adafruit Learning System. We suggest starting [&#8230;]"
-  },
-  {
-    "title": "The world’s first hands-free touchpad",
-    "source": "Adafruit",
-    "date": "2026-07-31",
-    "url": "https://blog.adafruit.com/2026/07/31/the-worlds-first-hands-free-touchpad/",
-    "summary": "MouthPad is a custom-fit mouthpiece that turns subtle tongue and head movements into precise control of your phone, tablet, and computer. MouthPad translates small, natural movements into cursor control, clicks, scrolling, and dragging. No hands. No wires. Worn discreetly inside your mouth. Move the cursor with your tongue or head. Tap, swipe, sip, and hold to [&#8230;]"
-  },
-  {
     "title": "Innodisk Introduces DDR5 12800 MT/s MRDIMM for AI and High-Performance Computing",
     "source": "EE Journal",
     "date": "2026-07-31",
@@ -334,13 +271,6 @@
     "date": "2026-07-30",
     "url": "https://www.cnx-software.com/2026/07/30/luxonis-m8-controller-box-adds-industrial-i-os-can-bus-and-relay-control-to-oak4-ai-vision-cameras/",
     "summary": "<div><img alt=\"OAK4 AI camera M8 Controller Box\" class=\"attachment-medium size-medium wp-post-image\" height=\"589\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/OAK4-AI-camera-M8-Controller-Box-720x589.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Luxonis has introduced a prototype of the M8 Controller Box, an industrial I/O expansion module for OAK4 AI vision edge AI cameras powered by a Qualcomm DragonWing QCS8550. Connected through the camera&#8217;s M8 interface, it adds GPIO, relay, CAN, serial, and USB connectivity, allowing OAK4-based systems to interface directly with sensors, actuators, PLCs, motors, and other industrial equipment for machine vision and automation applications. The prototype module features 16 GPIOs, four 16A relays, CAN 2.0, RS232, two USB 2.0 Type-A ports, an isolated strobe output, onboard audio, three buttons, and three status LEDs. It is powered directly from the OAK4 M8 connector, and supports DIN rail and VESA mounting. Luxonis M8 Controller Box specifications: MCU – Raspberry Pi RP2040 dual-core Arm Cortex M0+ @ 133 MHz with 264KB SRAM Host interface M8 connector for connecting Luxonis OAK4 cameras (standalone mode only) M8 passthrough port Audio 3.5mm headphone/AUX jack with mic input Onboard [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/30/luxonis-m8-controller-box-adds-industrial-i-os-can-bus-and-relay-control-to-oak4-ai-vision-cameras/\">Luxonis M8 Controller Box adds industrial I/Os, CAN Bus, and relay control to OAK4 AI vision cameras</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Credit card-sized Edge AI single board computers are powered by TI AM62A (2 TOPS) or AM68A (8 TOPS) SoC",
-    "source": "CNX Software",
-    "date": "2026-07-30",
-    "url": "https://www.cnx-software.com/2026/07/30/credit-card-sized-edge-ai-sbc-texas-instruments-am62a-2-tops-am68a-8-tops-soc/",
-    "summary": "<div><img alt=\"InHand Mo 62A SBC\" class=\"attachment-medium size-medium wp-post-image\" height=\"500\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/InHand-Mo-62A-SBC-720x500.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>InHand Mo 62A and Mo 68A are two credit card-sized Edge AI single board computers (SBCs) powered by Texas Instruments AM62A and AM68A processors, delivering respectively 2 TOPS and 8 TOPS of AI performance. Designed for AI Vision applications, the Mo 62A and Mo 68A SBCs support MIPI CSI camera input, Raspberry Pi HAT expansion boards, integrate 7th-generation ISP image processing capabilities, and handle H.264 / H.265 video encoding and decoding. However, they offer a different range of ports, as you&#8217;ll see in the specifications below. Target applications include industrial equipment, access control systems, robots, smart cameras, and visual inspection terminals. InHand Mo 62A Mo 62A specifications: SoC – Texas Instruments AM62A74 SoC Application processor – Up to four Arm Cortex- A53 cores @ 1.4GHz Real-time cores 1x Cortex-R5F @ 800MHz (MPU Channel with FFI) 1x Cortex-R5F @ 800MHz to support Device Management 3D GPU &#8211; None VPU &#8211; 4Kp30 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/30/credit-card-sized-edge-ai-sbc-texas-instruments-am62a-2-tops-am68a-8-tops-soc/\">Credit card-sized Edge AI single board computers are powered by TI AM62A (2 TOPS) or AM68A (8 TOPS) SoC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Renesas Upgrades DDR5 MRDIMM Chipset",

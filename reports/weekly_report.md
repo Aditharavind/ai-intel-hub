@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-03 12:08 UTC
+Generated: 2026-08-03 15:33 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-08-03 12:08 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82903 | 33161.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63307 | 25322.9 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30234 | 12093.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16084 | 6433.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15604 | 6241.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| Developer-Y/cs-video-courses | 82910 | 33164.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63306 | 25322.5 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30235 | 12094.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16083 | 6433.3 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15607 | 6242.9 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -27,7 +27,7 @@ Generated: 2026-08-03 12:08 UTC
 | SEU-PAISys/Embodied.cpp | 726 | 218.7 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 634 | 194.5 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 | zhijieq/directional-navigation | 419 | 125.8 | [link](https://huggingface.co/zhijieq/directional-navigation) |
-| HarrisonPENG/M2W-VLA-RoboTwin | 400 | 120.1 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
+| tencent/Hy-Embodied-RxBrain-1.0 | 346 | 114.5 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-08-03 12:08 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-03 | Ropedia Raises $30M to Scale Data Infrastructure for Physical AI - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3c4VW1OYWVWNmVDN3F6dVVJNzFVREFsMkZGV2s0bzF6SmV1WE5NR0QtNGQ4VERIMzJqaVZoZ0RZckJsc0JWaXRuNGhBRDlCT3VaelRqRlFuYlVydzNJcVBWOVE3V29kRXRkRVpYcl9vOFB3OGVhbDE3ZW9VQXpoTnpKQkp1c0RwMU9iSUFmdXRWYkxCVGJCa1RVLUdXQ2hreWFF?oc=5) |
+| 2026-08-03 | The VC firm behind Shopify is doubling down on robotics and defense - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbVNpVE44QnpMNW5GWlkycDJwV1U5TUpsS1RsdzdYbFJiYVRUWjg1UG1mU2pLbi0tXzRfTERNWExoQ04tZXl3R1BDbWt6eXRYd283aEhaSUpzRmhjT19FaDFyd19hbmVSS3VROXlyZ0RNRTVQNkVieUNkd24tRHFobWs5UDJ0Z0lpOFNOVHJ5U3dwakpIbXl1aGJESlFLclJFMGhiXw?oc=5) |
 | 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
+| 2026-08-03 | U.S. Startup Says It Would Arm Robot Soldiers If the Army Asks - Phandroid | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rOTc4RW55Q2NqTzJBZ0YwYlRRQXk0bzVhQzdTMTdHeUNocERJcC1rNUtRLUR2Y3piTkdIYnpuVjA5Mkd0QXVKSVYya19ZRzVqWFHSAVdBVV95cUxQMEFDdkRFQUV3T0IwZkU0NnM1LW50QW1tVnpXM0pJa2NFdTRwNGFCcEZ4QVhwZk8xR19KZ3ZfNGNJZ3dEbnNyVTR1NGEyMmx0VzdReUZjYlE?oc=5) |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
-| 2026-08-02 | Robot soldiers are being built in America to fight tomorrow’s wars – and the alarm is growing - The Independent | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQZzJ4bWl6eTJSYjlTNWZQLVVxMlFfZEJsZExpdTVIdXI0cXR6akNnVDNzZDVJM3RoaXJKeDhXNVVqUENuYU5qbEJPNFNmMkh2OFpRR2p3RE51R1ExQzRZcXFucTh5ZzFGQ3p5SGFzMThhMGM2QVpPa0s4TXlmSU04Z3JFZXV5Y2FSc3JYNG5KU0daMWc?oc=5) |
-| 2026-08-01 | SKT Is Selling Robot Training, Not Gigawatts - Sebastian Barros Newsletter | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTFB5VHkwWnQ5LVFFQkpxY2ZySlk3d1lDWWtlVzBkVzlFRkZ6WXJLQWhKR0FqRHVXZm84eTllUl9IMlVFUmtFeXdnM2NpTHowZXU0M3JOQjJvUnhmZUtZUkJlYVNhdUZ2LWlmUHAweHFqWkxPTW1sbElVdkFvVEU?oc=5) |
-| 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |

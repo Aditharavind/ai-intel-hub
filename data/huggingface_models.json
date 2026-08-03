@@ -1,5 +1,14 @@
 [
   {
+    "model": "x-tangle/robotomy",
+    "downloads": 68,
+    "likes": 1,
+    "url": "https://huggingface.co/x-tangle/robotomy",
+    "date": "2026-08-03",
+    "keyword": "robot",
+    "score": 20.7
+  },
+  {
     "model": "jungwook2358/rldx1-egopi-prq-robotonly-actlat-30k",
     "downloads": 0,
     "likes": 0,
@@ -70,6 +79,15 @@
     "date": "2026-08-03",
     "keyword": "robot",
     "score": 3.7
+  },
+  {
+    "model": "yuanzhang/GEAR-VLA",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/yuanzhang/GEAR-VLA",
+    "date": "2026-08-03",
+    "keyword": "vla",
+    "score": 0.3
   },
   {
     "model": "ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_random",
@@ -160,6 +178,15 @@
     "date": "2026-08-03",
     "keyword": "vla",
     "score": 43.0
+  },
+  {
+    "model": "ubr-physical-ai/UBR-Nav-E4B",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ubr-physical-ai/UBR-Nav-E4B",
+    "date": "2026-08-03",
+    "keyword": "physical ai",
+    "score": 0.1
   },
   {
     "model": "ismamNur/Joint-Embedding-Guided-Policy-Optimization-checkpoints",
@@ -297,24 +324,6 @@
     "score": 3.7
   },
   {
-    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
-    "downloads": 400,
-    "likes": 0,
-    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
-    "date": "2026-08-02",
-    "keyword": "robot",
-    "score": 120.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__both_cameras__live__pi05__seed_0",
-    "date": "2026-08-02",
-    "keyword": "vla",
-    "score": 3.7
-  },
-  {
     "model": "flashrt/world-model-conv",
     "downloads": 0,
     "likes": 0,
@@ -432,15 +441,6 @@
     "score": 0.1
   },
   {
-    "model": "ubr-physical-ai/UBR-Nav-E4B",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ubr-physical-ai/UBR-Nav-E4B",
-    "date": "2026-07-31",
-    "keyword": "physical ai",
-    "score": 0.1
-  },
-  {
     "model": "access-robotics-team/so-p5-pp-ma-260731-v2",
     "downloads": 19,
     "likes": 0,
@@ -513,15 +513,6 @@
     "score": 0.3
   },
   {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-1-5B",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-5B",
-    "date": "2026-07-28",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "arendjan/physical-ai-studio-environment-tar",
     "downloads": 0,
     "likes": 0,
@@ -583,6 +574,15 @@
     "date": "2026-07-24",
     "keyword": "robotics",
     "score": 0.1
+  },
+  {
+    "model": "wmkdfmk/robotics-vla-task-23-competitive-v7-rollout",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/wmkdfmk/robotics-vla-task-23-competitive-v7-rollout",
+    "date": "2026-07-24",
+    "keyword": "robotics",
+    "score": 0.3
   },
   {
     "model": "physicalai-bmi/efa-1",
