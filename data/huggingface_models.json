@@ -144,24 +144,6 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0",
-    "date": "2026-08-03",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0",
-    "date": "2026-08-03",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_random_60k",
     "downloads": 0,
     "likes": 0,
@@ -186,6 +168,15 @@
     "url": "https://huggingface.co/ubr-physical-ai/UBR-Nav-E4B",
     "date": "2026-08-03",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "ChristianZ97/satp-policy-v4.27",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
+    "date": "2026-08-03",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -288,15 +279,6 @@
     "score": 0.1
   },
   {
-    "model": "cbrian/policy_pi05_libero_dataset_MDWC14_steps_50000_ctrl_cartesian",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/cbrian/policy_pi05_libero_dataset_MDWC14_steps_50000_ctrl_cartesian",
-    "date": "2026-08-03",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "RobotisSW/n17_pick_chestnuts_100k",
     "downloads": 10,
     "likes": 0,
@@ -322,6 +304,24 @@
     "date": "2026-08-02",
     "keyword": "robot",
     "score": 3.7
+  },
+  {
+    "model": "rl2-vla/rl2-vla-qam-bridge",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/rl2-vla/rl2-vla-qam-bridge",
+    "date": "2026-08-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
+    "downloads": 400,
+    "likes": 0,
+    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
+    "date": "2026-08-02",
+    "keyword": "vla",
+    "score": 120.1
   },
   {
     "model": "flashrt/world-model-conv",

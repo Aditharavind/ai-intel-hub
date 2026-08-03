@@ -1,5 +1,12 @@
 [
   {
+    "title": "Circuit Bending, But Make It MIDI",
+    "source": "Hackaday",
+    "date": "2026-08-03",
+    "url": "https://hackaday.com/2026/08/03/circuit-bending-but-make-it-midi/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/Introducing-MIDI-To-Circuit-Bending-10-5-screenshot-1.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Circuit bending is a chaotic art. At its simplest, it can just involve making connections between random points on a circuit board to create weird sounds in musical hardware. Or, <a class=\"read-more\" href=\"https://hackaday.com/2026/08/03/circuit-bending-but-make-it-midi/\">&#8230;read more</a>"
+  },
+  {
     "title": "Child-Friendly Music Player Uses RFID",
     "source": "Hackaday",
     "date": "2026-08-03",
@@ -40,13 +47,6 @@
     "date": "2026-08-03",
     "url": "https://hackaday.com/2026/08/03/spotting-emacs-in-the-wild/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"529\" src=\"https://hackaday.com/wp-content/uploads/2026/07/emacsmedia_feat.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Emacs is one of the big classic text editors, right up there next to vi. It&#8217;s famous for its interface and its ubiquity across the *nix world. It&#8217;s such a <a class=\"read-more\" href=\"https://hackaday.com/2026/08/03/spotting-emacs-in-the-wild/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Making a Retro(ish) Game Console From Scratch",
-    "source": "Hackaday",
-    "date": "2026-08-03",
-    "url": "https://hackaday.com/2026/08/02/making-a-retroish-game-console-from-scratch/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"513\" src=\"https://hackaday.com/wp-content/uploads/2026/07/game_console_pcbs_throaty_mumbo_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As easy as it is to make a late 1980s-style game console using a modern microcontroller, there&#8217;s arguably more fun in doing things the traditional way. This is the challenge <a class=\"read-more\" href=\"https://hackaday.com/2026/08/02/making-a-retroish-game-console-from-scratch/\">&#8230;read more</a>"
   },
   {
     "title": "ChronoWatch X2040 – A DIY watch with off-the-shelf Raspberry Pi RP2040 round display, 3D printed case, and custom firmware",
@@ -147,11 +147,46 @@
     "summary": "<p>The deployment of 5G is projected to increase for another two years, boosting demand for microwave transmission equipment, says Dell’Oro. “We anticipate at least two more years of growth for [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/micriwave-2026-08/\">Microwave transmission equipment growth has two more years</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Before you buy that TV streaming stick",
+    "source": "Adafruit",
+    "date": "2026-08-03",
+    "url": "https://blog.adafruit.com/2026/08/03/before-you-buy-that-tv-streaming-stick/",
+    "summary": "Krebs on Security writes that security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user’s Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves [&#8230;]"
+  },
+  {
+    "title": "The world’s first watch featuring computer functions",
+    "source": "Adafruit",
+    "date": "2026-08-03",
+    "url": "https://blog.adafruit.com/2026/08/03/the-worlds-first-watch-featuring-computer-functions/",
+    "summary": "The world&#8217;s first wrist computer system, released in 1984, consisted of a Seiko watch part and a separate “controller” console with a built-in printer. The user could input BASIC programing with a keyboard (sold separately) and enjoy playing games. It also included a memo function, a telephone directory, an address book, and a scheduling function. [&#8230;]"
+  },
+  {
+    "title": "Rooting the TP-Link TL-841N router",
+    "source": "Adafruit",
+    "date": "2026-08-03",
+    "url": "https://blog.adafruit.com/2026/08/03/rooting-the-tp-link-tl-841n-router/",
+    "summary": "A nice hands-on hardware hacking write-up making the rounds on Hacker News. The author picked up a bottom-of-the-line $10 TP-Link TL-841N (EU) off Facebook Marketplace specifically to practice the full end-to-end process of tearing into an IoT device: locating the UART, getting a root shell, and extracting firmware. The interesting part is that the firmware [&#8230;]"
+  },
+  {
+    "title": "Zephyr on Raspberry Pi Zero 2W bare metal",
+    "source": "Adafruit",
+    "date": "2026-08-03",
+    "url": "https://blog.adafruit.com/2026/08/03/zephyr-on-raspberry-pi-zero-2w-bare-metal/",
+    "summary": "Jonathan Elliot Peace has posted a Zephyr fork with board support for the Raspberry Pi Zero 2 W, a 26-file commit adding about 1,300 lines. The Zero 2 W runs a Broadcom BCM2710A1, the same silicon as the original Pi 3, packaged in an RP3A0-AU SiP with 512MB of LPDDR2. Zephyr boots it single-core with [&#8230;]"
+  },
+  {
     "title": "BITNET – an autoregressive language model on the 6502 processor",
     "source": "Adafruit",
     "date": "2026-08-03",
     "url": "https://blog.adafruit.com/2026/08/03/bitnet-an-autoregressive-language-model-on-the-6502-processor/",
     "summary": "Matt Beton trained a tiny Mamba-based autoregressive language model and wrote an inference engine to run it on the 8-bit 6502 processor (from 1975, with 32KB RAM). The MOS 6502 is an 8-bit microprocessor released in 1975, powering the BBC Micro and the Apple II. I am lucky enough to have access to my dad&#8217;s [&#8230;]"
+  },
+  {
+    "title": "ICYMI – Adafruit IoT Monthly: Battery-Powered Sun Tracking, Mapping Data Centers, and more!",
+    "source": "Adafruit",
+    "date": "2026-08-03",
+    "url": "https://blog.adafruit.com/2026/08/03/icymi-adafruit-iot-monthly-battery-powered-sun-tracking-mapping-data-centers-and-more/",
+    "summary": "ICYMI (In case you missed it) – the IoT Monthly Newsletter from AdafruitDaily.com went out this morning! If you missed it, subscribe now! – You’ll get one newsletter each month. The next newsletter will be out in a month, and being subscribed is the best way to keep up with all things Internet of Things. There is no spam, no selling lists, and [&#8230;]"
   },
   {
     "title": "MeshDiff: see exactly what changed between two 3D models",
@@ -196,25 +231,32 @@
     "summary": "If you&#8217;ve got a spare single-board computer and a USB webcam sitting in a drawer, CheapSecurity from Giuseppe Marco Randazzo turns them into a full home surveillance setup with no cloud subscription attached. The whole premise is data sovereignty: footage stays local, on storage you control, with retention policies you set. It runs on Raspberry [&#8230;]"
   },
   {
-    "title": "libsm64 – Super Mario 64 as a C library",
-    "source": "Adafruit",
+    "title": "Renesas Gen 3 MRDIMM Chipset Solutions Advance DDR5 Memory Performance to 16,000 MT/s for Next-Gen AI and HPC Applications",
+    "source": "EE Journal",
     "date": "2026-08-03",
-    "url": "https://blog.adafruit.com/2026/08/03/libsm64-super-mario-64-as-a-c-library/",
-    "summary": "The libsm64 project provides a clean interface to the movement and rendering code which was reversed from SM64 by the SM64 decompilation project, so that Mario can be dropped in to existing game engines or other systems with minimal effort. This project produces a shared library file containing mostly code from the decompilation project, and [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/renesas-gen-3-mrdimm-chipset-solutions-advance-ddr5-memory-performance-to-16000-mt-s-for-next-gen-ai-and-hpc-applications-2/",
+    "summary": "Renesas Electronics Corporation (TSE: 6723), a premier supplier of advanced semiconductor solutions, today announced its third‑generation (Gen 3) DDR5 Multiplexed Rank Dual In‑Line Memory Module (MRDIMM) chipset solutions, delivering DDR5 server-class MRDIMM speeds up to 16,000 mega transfers per second (MT/s). The new solutions are designed to address the growing demand for higher memory bandwidth driven by artificial &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/renesas-gen-3-mrdimm-chipset-solutions-advance-ddr5-memory-performance-to-16000-mt-s-for-next-gen-ai-and-hpc-applications-2/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Renesas Gen 3 MRDIMM Chipset Solutions Advance DDR5 Memory Performance to 16,000 MT/s for Next-Gen AI and HPC Applications\"</span></a>"
   },
   {
-    "title": "Making a guitar tube amplifier from a turntable",
-    "source": "Adafruit",
+    "title": "Infineon SEMPER™ NOR Flash Memory strengthens data‑center server management; qualified for ASPEED AST2700 BMCs",
+    "source": "EE Journal",
     "date": "2026-08-03",
-    "url": "https://blog.adafruit.com/2026/08/03/making-a-guitar-tube-amplifier-from-a-turntable/",
-    "summary": "Davide Gironi found a junked turntable. It was not in a good condition, the plate was broken and enclosure has some cracks. The front cover is pretty, and also it&#8217;s powered by tubes, so Davide decided to convert it into a small practice tube guitar amplifier. Most important thing to notice when building tube guitar [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/infineon-semper-nor-flash-memory-strengthens-data-center-server-management-qualified-for-aspeed-ast2700-bmcs/",
+    "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) announced that its SEMPER™ NOR Flash Memory has been qualified for ASPEED Technology’s AST2700 Baseboard Management Controller (BMC) and is now included in the AST2700 Approved Vendor List (AVL). As firmware storage for the BMC, the SEMPER NOR Flash supports the server management infrastructure that enables resilient, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/infineon-semper-nor-flash-memory-strengthens-data-center-server-management-qualified-for-aspeed-ast2700-bmcs/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Infineon SEMPER™ NOR Flash Memory strengthens data‑center server management; qualified for ASPEED AST2700 BMCs\"</span></a>"
   },
   {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
+    "title": "AccelerComm Powers Eclipse Space’s 5G Physical Layer for Sovereign Satellite Constellations",
+    "source": "EE Journal",
     "date": "2026-08-03",
-    "url": "https://blog.adafruit.com/2026/08/03/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-3/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/accelercomm-powers-eclipse-spaces-5g-physical-layer-for-sovereign-satellite-constellations/",
+    "summary": "AccelerComm, a leading provider of high-performance physical layer solutions for 5G non-terrestrial networks (NTN), today announced the successful completion of two engineering engagements with Eclipse Space, a sovereign satellite infrastructure company founded by veterans of the Starlink program. Across the two successive engagements, AccelerComm supported Eclipse in defining the physical-layer architecture for its next-generation spacecraft, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/accelercomm-powers-eclipse-spaces-5g-physical-layer-for-sovereign-satellite-constellations/\">Read More &#8594;<span class=\"screen-reader-text\"> \"AccelerComm Powers Eclipse Space’s 5G Physical Layer for Sovereign Satellite Constellations\"</span></a>"
+  },
+  {
+    "title": "STMicroelectronics’ new galvanically isolated gate drivers simplify power design with advanced isolation",
+    "source": "EE Journal",
+    "date": "2026-08-03",
+    "url": "https://www.eejournal.com/industry_news/stmicroelectronics-new-galvanically-isolated-gate-drivers-simplify-power-design-with-advanced-isolation/",
+    "summary": "STMicroelectronics has extended the STGAP3S family of gate drivers that feature enhanced galvanic isolation for greater reliability, introducing an efficient and economical 3A series for circuits that need lower drive current. The new STGAP3S3S is optimized for silicon carbide (SiC) MOSFETs, while the STGAP3S3IF is suited to IGBTs. All STGAP3S drivers work with high-voltage rails up to 1200V in circuits such &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/stmicroelectronics-new-galvanically-isolated-gate-drivers-simplify-power-design-with-advanced-isolation/\">Read More &#8594;<span class=\"screen-reader-text\"> \"STMicroelectronics’ new galvanically isolated gate drivers simplify power design with advanced isolation\"</span></a>"
   },
   {
     "title": "Mysterious Frequency Counter Twins from 1979",
@@ -229,20 +271,6 @@
     "date": "2026-08-02",
     "url": "https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/",
     "summary": "<div><img alt=\"Octopus 16 biosignal device for gaming\" class=\"attachment-medium size-medium wp-post-image\" height=\"388\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Octopus-16-biosignal-device-for-gaming-720x388.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Octopus 16 is a wireless biosignal HID device for the XIAO ESP32-S3 board designed to let users play computer games using brain signals (EEG) with no hands (or implants) needed. The board packs 16 electrodes to measure biosignals, including EEG (electroencephalography), EMG (electromyography), and ECG (electrocardiography), and the coin-sized device is much more compact than other brain-computer interface (BCI) solutions, which typically require a cap kit with 8 to 16 electrodes and wires. Octopus 16 specifications: ADC &#8211; 2x Texas Instruments ADS131M08 24-bit, 8-channel, simultaneous-sampling, delta-sigma (ΔΣ) analog-to-digital converters Channels &#8211; 16x 24-bit channels (8x per ADC) Programmable gain (PGA) &#8211; x1 to x128 (set in firmware; default gain register 0x2222) Input high-pass / DC block &#8211; Integrated ADC DC-block filter enabled (≈ &#62;1 Hz) Host interface (to XIAO board) &#8211; Power + SPI via 2x 7-pin Brain interface 18x spring-loaded pogo pins 16x electrodes 1x  reference (AINREF) 1x Ground [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/\">Play games with your brain signals using Octopus 16 wireless EEG device</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Overwatch Prop Gun: Lucio’s Blaster #AdafruitLearnGuide",
-    "source": "Adafruit",
-    "date": "2026-08-02",
-    "url": "https://blog.adafruit.com/2026/08/02/overwatch-prop-gun-lucios-blaster-adafruitlearnguide/",
-    "summary": "Print and assemble the Overwatch Lucio blaster with this three-part guide from John Park: Overwatch Prop Gun: Lucio&#8217;s Blaster Pt. 1 &#8211; Lights, music, and sound effects prop circuit design Overwatch Prop Gun: Lucio&#8217;s Blaster Pt. 2 &#8211; Lights, music, and sound effects prop circuit integration Overwatch Prop Gun: Lucio&#8217;s Blaster Pt. 3 &#8211; Permanent [&#8230;]"
-  },
-  {
-    "title": "NeoPixel Arcade Buttons",
-    "source": "Adafruit",
-    "date": "2026-08-02",
-    "url": "https://blog.adafruit.com/2026/08/02/neopixel-arcade-buttons-2/",
-    "summary": "The 30mm arcade buttons in the Adafruit shop are excellent for retrogame projects. They&#8217;re also quite aesthetically pleasing. They feature a translucent body with a very slim micro switch, so it&#8217;s great for internal lighting effects. Although they do not have LEDs built in, you can actually fit NeoPixels into the body with a 3D [&#8230;]"
   },
   {
     "title": "Creality Falcon T1 review – A 5-in-1 modular laser engraver tested with 20W fiber and 40W diode laser modules",
@@ -355,34 +383,6 @@
     "date": "2026-07-30",
     "url": "https://www.embedded.com/why-sustained-performance-defines-the-next-phase-of-edge-ai/",
     "summary": "<p>Avnet Silica details why sustained performance, not peak compute, will define the next phase of edge AI.</p>\n<p>The post <a href=\"https://www.embedded.com/why-sustained-performance-defines-the-next-phase-of-edge-ai/\">Why Sustained Performance Defines the Next Phase of Edge AI</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "EMASS Collaborates with Bosch Sensortec to Deliver Edge AI Asset Tracking Solution",
-    "source": "EE Journal",
-    "date": "2026-07-30",
-    "url": "https://www.eejournal.com/industry_news/emass-collaborates-with-bosch-sensortec-to-deliver-edge-ai-asset-tracking-solution/",
-    "summary": "LOS ANGELES  – EMASS, a Nanoveu subsidiary specializing in ultra-efficient edge AI semiconductor technology, today announced a collaboration with Bosch Sensortec to develop an intelligent asset-tracking reference design that combines advanced sensing with ultra-low-power edge AI. The jointly developed platform enables battery-powered asset trackers to process data locally and transmit only meaningful events instead of &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/emass-collaborates-with-bosch-sensortec-to-deliver-edge-ai-asset-tracking-solution/\">Read More &#8594;<span class=\"screen-reader-text\"> \"EMASS Collaborates with Bosch Sensortec to Deliver Edge AI Asset Tracking Solution\"</span></a>"
-  },
-  {
-    "title": "ALL​.SPACE Launches Hydra MAX Wideband Ka Platform for Resilient Multi-Orbit Operations",
-    "source": "EE Journal",
-    "date": "2026-07-30",
-    "url": "https://www.eejournal.com/industry_news/all-space-launches-hydra-max-wideband-ka-platform-for-resilient-multi-orbit-operations-2/",
-    "summary": "Hydra MAX unlocks next-generation wideband Ka networks while maintaining simultaneous multi-orbit connectivity on the move, delivering 500 MHz of instantaneous bandwidth per Ka beam Tested with government customers, Hydra MAX provides network-agnostic interoperability across leading commercial and government Ka-band networks, along with sovereign modem flexibility and optional DIFI-over-fiber connectivity The launch follows York Space Systems&#8217; &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/all-space-launches-hydra-max-wideband-ka-platform-for-resilient-multi-orbit-operations-2/\">Read More &#8594;<span class=\"screen-reader-text\"> \"ALL​.SPACE Launches Hydra MAX Wideband Ka Platform for Resilient Multi-Orbit Operations\"</span></a>"
-  },
-  {
-    "title": "Renesas Gen 3 MRDIMM Chipset Solutions Advance DDR5 Memory Performance to 16,000 MT/s for Next-Gen AI and HPC Applications",
-    "source": "EE Journal",
-    "date": "2026-07-30",
-    "url": "https://www.eejournal.com/industry_news/renesas-gen-3-mrdimm-chipset-solutions-advance-ddr5-memory-performance-to-16000-mt-s-for-next-gen-ai-and-hpc-applications/",
-    "summary": "TOKYO, Japan — July 30, 2026 — Renesas Electronics Corporation (TSE: 6723), a premier supplier of advanced semiconductor solutions, today announced its third‑generation (Gen 3) DDR5 Multiplexed Rank Dual In‑Line Memory Module (MRDIMM) chipset solutions, delivering DDR5 server-class MRDIMM speeds up to 16,000 mega transfers per second (MT/s). The new solutions are designed to address the growing demand for &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/renesas-gen-3-mrdimm-chipset-solutions-advance-ddr5-memory-performance-to-16000-mt-s-for-next-gen-ai-and-hpc-applications/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Renesas Gen 3 MRDIMM Chipset Solutions Advance DDR5 Memory Performance to 16,000 MT/s for Next-Gen AI and HPC Applications\"</span></a>"
-  },
-  {
-    "title": "FocalPoint and STMicroelectronics enter into a commercial agreement to deliver enhanced GNSS reliability for automotive applications",
-    "source": "EE Journal",
-    "date": "2026-07-30",
-    "url": "https://www.eejournal.com/industry_news/focalpoint-and-stmicroelectronics-enter-into-a-commercial-agreement-to-deliver-enhanced-gnss-reliability-for-automotive-applications/",
-    "summary": "Cambridge, UK – 14th July 2026: FocalPoint, a UK-based leader in GNSS (Global Navigation Satellite System) software for automotive, wearables, and smartphones, today announced that it has entered into a commercial agreement with STMicroelectronics. The agreement marks a major step towards delivering highly reliable vehicle positioning in challenging GNSS environments. Building on the collaboration first announced in &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/focalpoint-and-stmicroelectronics-enter-into-a-commercial-agreement-to-deliver-enhanced-gnss-reliability-for-automotive-applications/\">Read More &#8594;<span class=\"screen-reader-text\"> \"FocalPoint and STMicroelectronics enter into a commercial agreement to deliver enhanced GNSS reliability for automotive applications\"</span></a>"
   },
   {
     "title": "BrainChip Launches AKD1500 M.2 Module for Fanless Edge AI",
