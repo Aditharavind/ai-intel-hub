@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-03 01:20 UTC
+Last Updated: 2026-08-03 05:24 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-03 | Making a Retro(ish) Game Console From Scratch | Hackaday | [link](https://hackaday.com/2026/08/02/making-a-retroish-game-console-from-scratch/) |
+| 2026-08-03 | Easy Theremin Uses ESP32 | Hackaday | [link](https://hackaday.com/2026/08/02/easy-theremin-uses-esp32/) |
+| 2026-08-03 | $299.99 ASUS UGen300 USB AI accelerator combines 40 TOPS Hailo-10H chip with 8GB LPDDR4 | CNX Software | [link](https://www.cnx-software.com/2026/08/03/299-99-asus-ugen300-usb-ai-accelerator-hailo-10h-8gb-lpddr4/) |
 | 2026-08-03 | Aliensense NXS is a plug-and-play GMSL 2/3 and CAN-FD sensor board for robots | CNX Software | [link](https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/) |
 | 2026-08-03 | Ed Covets The FIFA Wheeze | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-fifa-2026-08/) |
 | 2026-08-02 | Hackaday Links: August 2, 2026 | Hackaday | [link](https://hackaday.com/2026/08/02/hackaday-links-august-2-2026/) |
@@ -56,13 +59,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-02 | Turning Fruits Into Ethylene and Ethane Refrigerant | Hackaday | [link](https://hackaday.com/2026/08/02/turning-fruits-into-ethylene-and-ethane-refrigerant/) |
 | 2026-08-02 | A KVM Without the V (Or the M) | Hackaday | [link](https://hackaday.com/2026/08/02/a-kvm-without-the-v-or-the-m/) |
 | 2026-08-02 | Architectural LED Install Shows How To Do It With Style | Hackaday | [link](https://hackaday.com/2026/08/02/architectural-led-install-shows-how-to-do-it-with-style/) |
-| 2026-08-02 | The Seven Sensors and Breakout Boards to Avoid in a Product | Hackaday | [link](https://hackaday.com/2026/08/02/the-seven-sensors-and-breakout-boards-to-avoid-in-a-product/) |
-| 2026-08-02 | UV Printer? 3D Printer? HeyGears says “Why Not Both”? | Hackaday | [link](https://hackaday.com/2026/08/01/uv-printer-3d-printer-heygears-says-why-not-both/) |
-| 2026-08-02 | Play games with your brain signals using Octopus 16 wireless EEG device | CNX Software | [link](https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
+| 2026-07-31 | Diagnosing Compositional Generalization in Sequential Robot Tasks | [link](https://arxiv.org/pdf/2607.29687v1) |
 | 2026-07-31 | Bootstrapping Self-Supervised Learning of Binary Classification Using Error Bounds: A Case Study on a Robotic Insertion Task | [link](https://arxiv.org/pdf/2607.29640v1) |
 | 2026-07-31 | Balancing of Humanoid with Object Mass: Trade-off Analyses and Lifting Control | [link](https://arxiv.org/pdf/2607.29625v1) |
 | 2026-07-31 | RayViT: Ray-Conditioned Visual Representations for Viewpoint-Robust Imitation Learning | [link](https://arxiv.org/pdf/2607.29622v1) |
@@ -72,35 +73,34 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-31 | FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling | [link](https://arxiv.org/pdf/2607.29596v1) |
 | 2026-07-31 | Safe Vision Language Action Models via Barrier Enhanced Flow Matching | [link](https://arxiv.org/pdf/2607.29569v1) |
 | 2026-07-31 | TransGraspNet: Physically and Geometrically Consistent Manipulation of Transparent Labware | [link](https://arxiv.org/pdf/2607.29567v1) |
-| 2026-07-31 | LEMUR: Learning to Align with Multi-Objective Reinforcement Learning from Preference Feedback | [link](https://arxiv.org/pdf/2607.29559v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-08-03 | TerryPei/gap-graph-as-policy | 0 | 0 | [link](https://huggingface.co/TerryPei/gap-graph-as-policy) |
-| 2026-08-03 | Gom-sy/policy_IDM_AUG_40000 | 0 | 0 | [link](https://huggingface.co/Gom-sy/policy_IDM_AUG_40000) |
-| 2026-08-02 | RobotisSW/n17_pick_chestnuts_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/n17_pick_chestnuts_100k) |
-| 2026-08-02 | RobotisSW/n17_pick_chestnuts_80k | 0 | 0 | [link](https://huggingface.co/RobotisSW/n17_pick_chestnuts_80k) |
-| 2026-08-02 | RobotisSW/n17_pick_chestnuts_60k | 0 | 0 | [link](https://huggingface.co/RobotisSW/n17_pick_chestnuts_60k) |
-| 2026-08-02 | HarrisonPENG/M2W-VLA-RoboTwin | 392 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
-| 2026-08-02 | H2Ozone/real_robot-gr00t | 0 | 0 | [link](https://huggingface.co/H2Ozone/real_robot-gr00t) |
-| 2026-08-02 | mario-d-robot/QIE-2511-MP-AnyLight | 0 | 0 | [link](https://huggingface.co/mario-d-robot/QIE-2511-MP-AnyLight) |
-| 2026-08-02 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
-| 2026-08-02 | sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0) |
+| 2026-08-03 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 585 | 21 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
+| 2026-08-03 | zzh2026/robot_learning_tutorial_diffusion | 0 | 0 | [link](https://huggingface.co/zzh2026/robot_learning_tutorial_diffusion) |
+| 2026-08-03 | sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blackout__sim__both_cameras__live__pi05__seed_0) |
+| 2026-08-03 | sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a50__sim__both_cameras__live__pi05__seed_0) |
+| 2026-08-03 | ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_random_60k | 0 | 0 | [link](https://huggingface.co/ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_random_60k) |
+| 2026-08-03 | siliconperception/VLA | 133 | 0 | [link](https://huggingface.co/siliconperception/VLA) |
+| 2026-08-03 | DaoyuanLi/mini-verl-qwen3-0.6b-tool-policy-sft | 0 | 0 | [link](https://huggingface.co/DaoyuanLi/mini-verl-qwen3-0.6b-tool-policy-sft) |
+| 2026-08-03 | kilua77/policy_green_vial_bowl | 0 | 0 | [link](https://huggingface.co/kilua77/policy_green_vial_bowl) |
+| 2026-08-03 | lmerkle/my-dit-policy | 0 | 0 | [link](https://huggingface.co/lmerkle/my-dit-policy) |
+| 2026-08-03 | Heesung120/lerobot-policy | 0 | 0 | [link](https://huggingface.co/Heesung120/lerobot-policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| NVIDIA/skills | 2774 | Python | 1109.7 | [link](https://github.com/NVIDIA/skills) |
+| Edgenesis/shifu | 1427 | Go | 570.9 | [link](https://github.com/Edgenesis/shifu) |
+| alireza787b/mavsdk_drone_show | 309 | Python | 123.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
+| ArduPilot/ardupilot | 15603 | C++ | 6241.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14417 | C++ | 5766.9 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 12550 | JavaScript | 5020.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11298 | Python | 4519.3 | [link](https://github.com/kornia/kornia) |
-| RLinf/RLinf | 4377 | Python | 1750.9 | [link](https://github.com/RLinf/RLinf) |
-| NVIDIA/skills | 2773 | Python | 1109.3 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1432 | Rust | 572.9 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63296 | Python | 25318.5 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15601 | C++ | 6240.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| TianxingChen/Embodied-AI-Guide | 15186 |  | 6074.5 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
-| earthtojake/text-to-cad | 12524 | JavaScript | 5009.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| RLinf/RLinf | 4385 | Python | 1754.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3858 | Rust | 1543.3 | [link](https://github.com/dora-rs/dora) |
+| sou350121/VLA-Handbook | 461 | HTML | 184.5 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -120,15 +120,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
-| 2026-08-01 | SKT Is Selling Robot Training, Not Gigawatts - sebastianbarros.substack.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTFB5VHkwWnQ5LVFFQkpxY2ZySlk3d1lDWWtlVzBkVzlFRkZ6WXJLQWhKR0FqRHVXZm84eTllUl9IMlVFUmtFeXdnM2NpTHowZXU0M3JOQjJvUnhmZUtZUkJlYVNhdUZ2LWlmUHAweHFqWkxPTW1sbElVdkFvVEU?oc=5) |
-| 2026-07-31 | Korean Physical AI Startups Face a Hard Truth: A 98% Accurate AI Model Can Still Fail Inside a Robot - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbm56aHN1cU9VNW02QnJBTTJDcmhQS19ITE9kX2w4VnVrREpUS0dWeW1Ya191UDB3SjBRcmd0U2kwYWFIUGZFVkJXOG9KVEZpcmVwNjYtYkJjRTFZT3BvMncwMV9BeUk4ejRrcl9yc2F4OHhPTEJCTHRtdnhRN0dzMUZxT3ZUZlZNa0E?oc=5) |
+| 2026-08-02 | Robot soldiers are being built in America to fight tomorrow’s wars – and the alarm is growing - The Independent | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQZzJ4bWl6eTJSYjlTNWZQLVVxMlFfZEJsZExpdTVIdXI0cXR6akNnVDNzZDVJM3RoaXJKeDhXNVVqUENuYU5qbEJPNFNmMkh2OFpRR2p3RE51R1ExQzRZcXFucTh5ZzFGQ3p5SGFzMThhMGM2QVpPa0s4TXlmSU04Z3JFZXV5Y2FSc3JYNG5KU0daMWc?oc=5) |
+| 2026-08-01 | SKT Is Selling Robot Training, Not Gigawatts - Sebastian Barros Newsletter | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTFB5VHkwWnQ5LVFFQkpxY2ZySlk3d1lDWWtlVzBkVzlFRkZ6WXJLQWhKR0FqRHVXZm84eTllUl9IMlVFUmtFeXdnM2NpTHowZXU0M3JOQjJvUnhmZUtZUkJlYVNhdUZ2LWlmUHAweHFqWkxPTW1sbElVdkFvVEU?oc=5) |
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
 | 2026-07-31 | SK Telecom partners with physical AI startups - The Korea News Plus | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
+| 2026-07-31 | SK Telecom unites eight Korean physical AI startups to grow robotics ecosystem - CHOSUNBIZ - Chosunbiz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZTi1sb3poVG9kelVVNzdnRmota3ZMeW5fUTd6cnNWMmswQTdSUHVZYS1mWG5aOVBxMC1xZVlIeFczOTJ6WlhhSWZ1Zm00c3F6R2xuOE1yNnI5Y3NJMVNwR3pWb0JKVXF5TDBCbmY4WEhHYzZYcEdVT3hR0gGOAUFVX3lxTE51TERkQmQ1WGFFdmpxZjlYNDlJRmpTa1ZLQXlxVF9VamcxLUhxbk9Yekw3UkJfVEwwT0I4RWM5UmdwSzhHNGlkdUdGcGFqd0ZJb3U0d04taFBQRFBYUDc3MWxrMU5QdThEdG5sOElRVUszMXpUOXdOWWh2eTRyMFlXWFhyc0FtbTdJLWhUYWc?oc=5) |
 | 2026-07-31 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
 | 2026-07-31 | San Francisco company offers cleaning service using humanoid robots - ABC News - Breaking News, Latest News and Videos | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPU09xRXh1cjdLQ3JaVW80MnVtcHhDLXp3dmFua2xfQnVodDVZbnVzVHpQMms5UzJra1ZjWFQtRE9ObFVpSnVtTmJDYkxrenRoelV6SlhibVdPSHhiYi00SE9OSHdqcHA5OEF4Rk1Ga2dKakVfWXEzOTZsUzhuc2g0QWYzbVl6LVZrMk04V0YzUjFBQlJJQ1NYcE1tTGJYMG1DWG9WYjhBZkEyc3Zkc1N1X9IBtgFBVV95cUxQTGZibk1YenNFTGRWLXJJMEZNMGVINUNLdzNUV0laX09zS19pa2Z1MjBiZjdzZU5JWl9lQUh3cDA5cGdxTTZKMnI5NkdIM2tZOUJBUnBBTVFjTFJWSFJ5c1AyTDN0cFFYUVZhaTBOM2Q0cWJtWl9CeGJPUXpaNGFnSWk3QmhDeW41TXRxUEdPTWhNT1JkSHRlMlItV19MbzJHWENDelpBSHN6ZkhheDQ0bjlpdGZLQQ?oc=5) |
 | 2026-07-31 | Robotics startup debuts humanoid housekeepers - Good Morning America | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2YUxtcEoyU3dYeFlLNU15SGhwb200bmk5eXlOX2dLTE5GTF9qU2p5Qk91ZktPbGw3ZGEzTHliQi1oRnJTREtGLW9yY1ltbURYUVNpaEpRSVF5VmV4Rklj0gFkQVVfeXFMTzVJUV9FcW5hWlhkNTB2a3BLSUNKdUtKak5wdnhsY3NqenFrYjNXM1dOdU1oOGRMRXpEbFRxbkJnaFlLSUFFT05uRGdFMHFfam45dHJvQlVHaUtOenR5SExNcGxwWQ?oc=5) |
 | 2026-07-31 | Trump's robot ban aims to counter China. US startups fear it could leave them behind. - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxNMEdvUmhSZmFXdHhmX1RSVThrVVpaZGVkUFZZbF9CcGRxU0puX2VwOXE1Y3lpOGhUOXlmdlY3U3lXb3VCTlQxdzdHQ0dsLWpZdEVacWFUOUQwalZ5OXlYMkt3NmdPLXVIeW5mcEFYcDJDWUxfNzdpZldaX3NHTmRwbjRxV1V5ak5RTUN3T3k0aTI5TlppNmVUbmhSXzlpZw?oc=5) |
-| 2026-07-31 | Company Says Robot Will Clean Your Home for $30 Per Hour - Newser | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1dDYmhvamhZX3Z6M3FPbEVMNTJpYTZPdC1aQkNsUENwLWNTbzVuVGx4QVF5OWV3ZmpuSC02M0lLOGJ4akVWOC16Qi1rZHBYVGs0b3EyRTl4SFBGTUlOUGM0VGY5ejFOUXYzLWdtbWtvRldrcEI5YjVFSzFpOERJYjJUTzEwOHNVelhIaC1JYWN0QlBsMkE?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
