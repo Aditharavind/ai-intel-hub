@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-04 17:28 UTC
+Generated: 2026-08-04 19:14 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-08-04 17:28 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82919 | 33167.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63320 | 25328.1 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30239 | 12095.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 82918 | 33167.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63321 | 25328.5 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30240 | 12096.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16086 | 6434.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15614 | 6245.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15613 | 6245.3 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,8 +41,8 @@ Generated: 2026-08-04 17:28 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-04 | Saudi's Rime raises $2M+ seed to run AI agents on-site for retail chains - FWDStart | physical ai startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlFXWlktN0d5bmtnX0V0SGk2b2hyVkVzcFptTktnVW93WUN5OTlILWxHR3JkNnRqUDdHeU9HX3JQeGdmd2NSUjJfTGdtdUVkV25zYVVVeUI0VWxoaVRIaXJvZjJTanc5UjBjSFRNRjE5QlN3U0RIS2xjUmlTSlBJT04yR1NjaVVQVGR0R3JXY2wtZlB6eUlnLU53?oc=5) |
+| 2026-08-04 | Saudi's Rime raises $2M+ seed to run AI agents on-site for retail chains - fwdstart.me | physical ai startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlFXWlktN0d5bmtnX0V0SGk2b2hyVkVzcFptTktnVW93WUN5OTlILWxHR3JkNnRqUDdHeU9HX3JQeGdmd2NSUjJfTGdtdUVkV25zYVVVeUI0VWxoaVRIaXJvZjJTanc5UjBjSFRNRjE5QlN3U0RIS2xjUmlTSlBJT04yR1NjaVVQVGR0R3JXY2wtZlB6eUlnLU53?oc=5) |
+| 2026-08-04 | Korean Robot Startup Spotted by NVIDIA… RGA Robotics Accelerates Commercialization of Physical AI Robots - 벤처스퀘어 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE04a2s4MnYxUEdEUUdJS0pEd2dNYlFwMnRLZERpUkpKTVI5czdsUmpYSE4wdWJINEVjRGNIaGRlRHMxeTFyQjlpdWU4VnRtNjN0cWJJ?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
-| 2026-08-03 | Ropedia Raises $30M to Scale Data Infrastructure for Physical AI - theaiinsider.tech | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3c4VW1OYWVWNmVDN3F6dVVJNzFVREFsMkZGV2s0bzF6SmV1WE5NR0QtNGQ4VERIMzJqaVZoZ0RZckJsc0JWaXRuNGhBRDlCT3VaelRqRlFuYlVydzNJcVBWOVE3V29kRXRkRVpYcl9vOFB3OGVhbDE3ZW9VQXpoTnpKQkp1c0RwMU9iSUFmdXRWYkxCVGJCa1RVLUdXQ2hreWFF?oc=5) |
+| 2026-08-03 | Ropedia Raises $30M to Scale Data Infrastructure for Physical AI - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3c4VW1OYWVWNmVDN3F6dVVJNzFVREFsMkZGV2s0bzF6SmV1WE5NR0QtNGQ4VERIMzJqaVZoZ0RZckJsc0JWaXRuNGhBRDlCT3VaelRqRlFuYlVydzNJcVBWOVE3V29kRXRkRVpYcl9vOFB3OGVhbDE3ZW9VQXpoTnpKQkp1c0RwMU9iSUFmdXRWYkxCVGJCa1RVLUdXQ2hreWFF?oc=5) |
 | 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
-| 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |

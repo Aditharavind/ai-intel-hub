@@ -1,5 +1,14 @@
 [
   {
+    "model": "locht131/adjust_bottle_robot_only",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/locht131/adjust_bottle_robot_only",
+    "date": "2026-08-04",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "x-tangle/robotomy",
     "downloads": 107,
     "likes": 1,
@@ -90,6 +99,33 @@
     "score": 1.9
   },
   {
+    "model": "sam-guided-vlas/train_1_2__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "cong-lab/v-vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/cong-lab/v-vla",
+    "date": "2026-08-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "kurushun/dobot-vla-diffusion-b",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kurushun/dobot-vla-diffusion-b",
+    "date": "2026-08-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "kurushun/dobot-vla-diffusion-ab",
     "downloads": 0,
     "likes": 0,
@@ -169,33 +205,6 @@
     "date": "2026-08-04",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "KokTong/VLA-JEPA-Pretrain",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/KokTong/VLA-JEPA-Pretrain",
-    "date": "2026-08-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "hirosan6595/vla-260804-v1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hirosan6595/vla-260804-v1",
-    "date": "2026-08-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "ISdept/wiltechs-vla-moe-18k",
-    "downloads": 3,
-    "likes": 0,
-    "url": "https://huggingface.co/ISdept/wiltechs-vla-moe-18k",
-    "date": "2026-08-04",
-    "keyword": "vla",
-    "score": 1.0
   },
   {
     "model": "knightnemo/hdf-world-model-ogbench-cube-triple",
@@ -376,15 +385,6 @@
     "date": "2026-08-03",
     "keyword": "robot",
     "score": 3.1
-  },
-  {
-    "model": "greenery8848/shapley-vla-robotwin-legacy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/greenery8848/shapley-vla-robotwin-legacy",
-    "date": "2026-08-03",
-    "keyword": "robot",
-    "score": 0.1
   },
   {
     "model": "flashrt/world-model-conv",
