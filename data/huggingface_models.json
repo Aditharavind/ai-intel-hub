@@ -1,5 +1,14 @@
 [
   {
+    "model": "eonzhang/robotclaw-act-exp1-udisk-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/eonzhang/robotclaw-act-exp1-udisk-v2",
+    "date": "2026-08-04",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "locht131/adjust_bottle_robot_only",
     "downloads": 0,
     "likes": 0,
@@ -99,19 +108,28 @@
     "score": 1.9
   },
   {
-    "model": "sam-guided-vlas/train_1_2__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "model": "cong-lab/v-vla",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/cong-lab/v-vla",
     "date": "2026-08-04",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "cong-lab/v-vla",
+    "model": "kurushun/dobot-vla-smolvla-ab",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/cong-lab/v-vla",
+    "url": "https://huggingface.co/kurushun/dobot-vla-smolvla-ab",
+    "date": "2026-08-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-04",
     "keyword": "vla",
     "score": 0.1
@@ -193,15 +211,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/xiaomi-research/SpatioLM-Action-VLA0",
-    "date": "2026-08-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "KokTong/VLA-JEPA-LIBERO",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/KokTong/VLA-JEPA-LIBERO",
     "date": "2026-08-04",
     "keyword": "vla",
     "score": 0.1
@@ -376,15 +385,6 @@
     "date": "2026-08-04",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "jungwook2358/rldx1-egopi-prq-robotonly-actlat-30k",
-    "downloads": 10,
-    "likes": 0,
-    "url": "https://huggingface.co/jungwook2358/rldx1-egopi-prq-robotonly-actlat-30k",
-    "date": "2026-08-03",
-    "keyword": "robot",
-    "score": 3.1
   },
   {
     "model": "flashrt/world-model-conv",

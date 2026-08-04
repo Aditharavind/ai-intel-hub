@@ -1,5 +1,12 @@
 [
   {
+    "title": "Strengthening 3D Prints with a Carbon-Fiber Epidermis",
+    "source": "Hackaday",
+    "date": "2026-08-04",
+    "url": "https://hackaday.com/2026/08/04/strengthening-3d-prints-with-a-carbon-fiber-epidermis/",
+    "summary": "<div><img alt=\"A man&#039;s hands are shown holding a broken 3D-printed hook. The hook has a loop and hook, in a number 9-shape. The hook portion has broken, exposing carbon fibers.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/carbon_fiber_epidermis.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As strong and light as carbon fiber-epoxy composites are, the same can’t always be said of carbon-fiber reinforced 3D printer filaments. Of those that do improve over stock filament, the <a class=\"read-more\" href=\"https://hackaday.com/2026/08/04/strengthening-3d-prints-with-a-carbon-fiber-epidermis/\">&#8230;read more</a>"
+  },
+  {
     "title": "At Last! CP/M for Protected Mode",
     "source": "Hackaday",
     "date": "2026-08-04",
@@ -40,13 +47,6 @@
     "date": "2026-08-04",
     "url": "https://hackaday.com/2026/08/04/yellow-yag-produces-powerful-pulses-in-les-leftover-laser/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/Nd-Ce-YAG-laser-feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Les] likes lasing lasers, and who doesn&#8217;t? [Les] likes larger lasers than lots of folks, with his current project being an Nd:YAG (that&#8217;s Neodymium:Yttrium Aluminum Garnet) flash pumped laser intended <a class=\"read-more\" href=\"https://hackaday.com/2026/08/04/yellow-yag-produces-powerful-pulses-in-les-leftover-laser/\">&#8230;read more</a>"
-  },
-  {
-    "title": "A Versatile PDP-11/70 Emulator",
-    "source": "Hackaday",
-    "date": "2026-08-04",
-    "url": "https://hackaday.com/2026/08/03/a-versatile-pdp-11-70-emulator/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"451\" src=\"https://hackaday.com/wp-content/uploads/2026/07/chess-pdp-esp-e1785567266897.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The PDP-11 was a 16-bit minicomputer that was very influential in its time. That&#8217;s what inspired [vanheusden] to start working on an emulator for the machine in 2018, which has <a class=\"read-more\" href=\"https://hackaday.com/2026/08/03/a-versatile-pdp-11-70-emulator/\">&#8230;read more</a>"
   },
   {
     "title": "reComputer Mini J501 Edge AI computer features NVIDIA Jetson AGX Orin 64GB/32GB module, two FAKRA camera connectors",
@@ -140,6 +140,27 @@
     "summary": "<p>PYE&#8217;S plans to plant a foot firmly in the Common Market under the blue Italian sky follow a lead already made by a number of British firms in electronics. Indeed, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/pyes-plans-2026-08/\">Pye’s Plans</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "A drum style mechanical television you can build yourself",
+    "source": "Adafruit",
+    "date": "2026-08-04",
+    "url": "https://blog.adafruit.com/2026/08/04/a-drum-style-mechanical-television-you-can-build-yourself/",
+    "summary": "Scanwheel is a drum style mechanical television you can build yourself. It features five windows side by side, each taking advantage of the same scanning drum, but with separate LEDs to allow separate images. The windows are a luxurious 9mm x 8mm each, with 20 scan lines. The software uses the Raspberry Pi Pico&#8217;s PIO [&#8230;]"
+  },
+  {
+    "title": "An Arduino IMU daemon library for marine and robotics navigation",
+    "source": "Adafruit",
+    "date": "2026-08-04",
+    "url": "https://blog.adafruit.com/2026/08/04/an-arduino-imu-daemon-library-for-marine-and-robotics-navigation/",
+    "summary": "ImudClient is an Arduino client library for imud — an IMU daemon for marine and robotics navigation that fuses gyro/accel/ magnetometer data with a Kalman filter and publishes attitude (heading, roll, pitch, quaternion, rate of turn, heave, sea state…) over TCP or UDP. ImudClient receives, validates, and decodes imud&#8217;s binary packets on ESP32-class boards — [&#8230;]"
+  },
+  {
+    "title": "A simple 65C02 based computer for fun and learning",
+    "source": "Adafruit",
+    "date": "2026-08-04",
+    "url": "https://blog.adafruit.com/2026/08/04/a-simple-65c02-based-computer-for-fun-and-learning/",
+    "summary": "Memo-1 is a simple 65C02 based computer for fun and learning. The Memo-1 consists on a 65C02 CPU running at 1Mhz, crudely attached to 32K of ram, 16K of rom, and has a 65C22 via and a 6551 ACIA (NOT the W65C51). The system is thought to have 8k of rom available as extension, and [&#8230;]"
+  },
+  {
     "title": "Complete local text-to-waveform speech synthesis under 10M parameters",
     "source": "Adafruit",
     "date": "2026-08-04",
@@ -201,27 +222,6 @@
     "date": "2026-08-04",
     "url": "https://blog.adafruit.com/2026/08/04/rcade-the-arcade-cabinet-anyone-can-deploy-to/",
     "summary": "The RCade is a custom arcade cabinet built during the Fall, 2025 batch at the Recurse Center that runs games made by the community. It has a real CRT, a custom graphics card, spinner controllers, and a deploy pipeline where anyone can ship a game just by pushing to GitHub. It now has over 50 [&#8230;]"
-  },
-  {
-    "title": "ICYMI Python on Microcontrollers Newsletter: CircuitPython Day Announced, MicroPython TV, a Hack and More!",
-    "source": "Adafruit",
-    "date": "2026-08-04",
-    "url": "https://blog.adafruit.com/2026/08/04/icymi-python-on-microcontrollers-newsletter-circuitpython-day-announced-micropython-tv-a-hack-and-more/",
-    "summary": "If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,385 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep [&#8230;]"
-  },
-  {
-    "title": "Camp in NYC with the Urban Park Rangers",
-    "source": "Adafruit",
-    "date": "2026-08-04",
-    "url": "https://blog.adafruit.com/2026/08/04/camp-in-nyc-with-the-urban-park-rangers/",
-    "summary": "image via NYC Parks &#160; The family camping lottery is open through August 6 for an overnight stay in Central Park August 14. Check out the remaining events planned through September 18, which includes Orchard Beach and Rockaway Beach! Sleep under the stars! Camp overnight in our parks with our Urban Park Rangers as your [&#8230;]"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-08-04",
-    "url": "https://blog.adafruit.com/2026/08/04/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-4/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
     "title": "Synopsys Enables AMD Instinct™ MI455X GPU Design with Comprehensive Multi-Die Solution",
