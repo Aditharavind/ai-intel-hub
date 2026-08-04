@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-04 07:27 UTC
+Last Updated: 2026-08-04 10:23 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-04 | Yellow YAG Produces Powerful Pulses in Les’ Leftover Laser | Hackaday | [link](https://hackaday.com/2026/08/04/yellow-yag-produces-powerful-pulses-in-les-leftover-laser/) |
 | 2026-08-04 | A Versatile PDP-11/70 Emulator | Hackaday | [link](https://hackaday.com/2026/08/03/a-versatile-pdp-11-70-emulator/) |
 | 2026-08-04 | Sketching Temporary Circuits with a Light-Triggered Floquet Topological Insulator | Hackaday | [link](https://hackaday.com/2026/08/03/sketching-temporary-circuits-with-a-light-triggered-floquet-topological-insulator/) |
-| 2026-08-03 | Energizing a Vacuum Tube Flip-Flop Module of the IBM 604 | Hackaday | [link](https://hackaday.com/2026/08/03/energizing-a-vacuum-tube-flip-flop-module-of-the-ibm-604/) |
-| 2026-08-03 | Circuit Bending, But Make It MIDI | Hackaday | [link](https://hackaday.com/2026/08/03/circuit-bending-but-make-it-midi/) |
-| 2026-08-03 | Child-Friendly Music Player Uses RFID | Hackaday | [link](https://hackaday.com/2026/08/03/child-friendly-music-player-uses-rfid/) |
-| 2026-08-03 | Congratulations to the Frikkin Laser Winners! | Hackaday | [link](https://hackaday.com/2026/08/03/congratulations-to-the-frikkin-laser-winners/) |
-| 2026-08-03 | New File Manager is C64’s Answer to Norton Commander | Hackaday | [link](https://hackaday.com/2026/08/03/new-file-manager-is-c64s-answer-to-norton-commander/) |
-| 2026-08-03 | ChronoWatch X2040 – A DIY watch with off-the-shelf Raspberry Pi RP2040 round display, 3D printed case, and custom firmware | CNX Software | [link](https://www.cnx-software.com/2026/08/03/chronowatch-x2040-a-diy-watch-with-off-the-shelf-raspberry-pi-rp2040-round-display-3d-printed-case-and-custom-firmware/) |
-| 2026-08-03 | 28.9M-parameter LLM runs locally on ESP32-S3 at 9 tokens/s | CNX Software | [link](https://www.cnx-software.com/2026/08/03/28-9m-parameter-llm-runs-locally-on-esp32-s3-at-9-tokens-s/) |
-| 2026-08-03 | $299.99 ASUS UGen300 USB AI accelerator combines 40 TOPS Hailo-10H chip with 8GB LPDDR4 | CNX Software | [link](https://www.cnx-software.com/2026/08/03/299-99-asus-ugen300-usb-ai-accelerator-hailo-10h-8gb-lpddr4/) |
+| 2026-08-04 | Espressif ESP32-C61-MINI-1/1U Wi-Fi 6 and BLE IoT module launched for about $2 | CNX Software | [link](https://www.cnx-software.com/2026/08/04/espressif-esp32-c61-mini-1-1u-wi-fi-6-and-ble-iot-module-2-dollars/) |
+| 2026-08-04 | BG2B is the lowest-power Bluetooth LE SoC from Silicon Labs so far | CNX Software | [link](https://www.cnx-software.com/2026/08/04/bg2b-lowest-power-bluetooth-le-soc-from-silicon-labs/) |
+| 2026-08-04 | Themis reusable rocket moves one step closer to flight | Electronics Weekly | [link](https://www.electronicsweekly.com/news/themis-reusable-rocket-moves-one-step-closer-to-flight-2026-08/) |
+| 2026-08-04 | Japan taps Ukraine, US  and startups for defence drone capability | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/japan-taps-ukraine-us-and-startups-for-defence-drone-capability-2026-08/) |
+| 2026-08-04 | DeepX raises $30m Series D at $2.2bn valuation | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/deepx-raises-30m-series-d-at-2-2bn-valuation-2026-08/) |
+| 2026-08-04 | Q2 wafer shipments up 7.4% YoY | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/wafers-2026-08/) |
+| 2026-08-04 | 6 – 18 GHz Driver Amplifier | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/qorvo-2-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -79,28 +79,28 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-08-04 | robotaa/260804_grab_toy2 | 0 | 0 | [link](https://huggingface.co/robotaa/260804_grab_toy2) |
 | 2026-08-04 | RobotisSW/Task0804_PickUp_Jelly_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task0804_PickUp_Jelly_30K) |
-| 2026-08-04 | XiaomiRobotics/Xiaomi-Robotics-1-5B | 0 | 1 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-5B) |
-| 2026-08-04 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 634 | 22 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
+| 2026-08-04 | XiaomiRobotics/Xiaomi-Robotics-1-5B | 12 | 1 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-5B) |
+| 2026-08-04 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 727 | 22 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 | 2026-08-04 | RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora | 0 | 0 | [link](https://huggingface.co/RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora) |
-| 2026-08-04 | polarisai-robots/bento_v2_openarm_pi05 | 29 | 0 | [link](https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05) |
-| 2026-08-04 | RobotisSW/Groot-n17-pick_chestnuts_60k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Groot-n17-pick_chestnuts_60k) |
-| 2026-08-04 | RobotisSW/Groot-n17-pick_chestnuts_80k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Groot-n17-pick_chestnuts_80k) |
-| 2026-08-04 | RobotisSW/Groot-n17-pick_chestnuts_70k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Groot-n17-pick_chestnuts_70k) |
-| 2026-08-04 | hirosan6595/vla-260804-v1 | 0 | 0 | [link](https://huggingface.co/hirosan6595/vla-260804-v1) |
+| 2026-08-04 | polarisai-robots/bento_v2_openarm_pi05 | 30 | 0 | [link](https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05) |
+| 2026-08-04 | RobotisSW/Groot-n17-pick_chestnuts_60k | 7 | 0 | [link](https://huggingface.co/RobotisSW/Groot-n17-pick_chestnuts_60k) |
+| 2026-08-04 | RobotisSW/Groot-n17-pick_chestnuts_80k | 6 | 0 | [link](https://huggingface.co/RobotisSW/Groot-n17-pick_chestnuts_80k) |
+| 2026-08-04 | RobotisSW/Groot-n17-pick_chestnuts_70k | 6 | 0 | [link](https://huggingface.co/RobotisSW/Groot-n17-pick_chestnuts_70k) |
+| 2026-08-04 | xiaomi-research/SpatioLM-Action-VLA0 | 0 | 0 | [link](https://huggingface.co/xiaomi-research/SpatioLM-Action-VLA0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2785 | Python | 1114.1 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2787 | Python | 1114.9 | [link](https://github.com/NVIDIA/skills) |
+| mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 468 | Shell | 187.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63315 | Python | 25326.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63320 | Python | 25328.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15609 | C++ | 6243.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14434 | C++ | 5773.7 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14435 | C++ | 5774.1 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11299 | Python | 4519.7 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11241 | Rust | 4496.5 | [link](https://github.com/rerun-io/rerun) |
-| RLinf/RLinf | 4412 | Python | 1764.9 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3864 | Rust | 1545.7 | [link](https://github.com/dora-rs/dora) |
-| sou350121/VLA-Handbook | 468 | HTML | 187.3 | [link](https://github.com/sou350121/VLA-Handbook) |
+| rerun-io/rerun | 11242 | Rust | 4496.9 | [link](https://github.com/rerun-io/rerun) |
+| RLinf/RLinf | 4418 | Python | 1767.3 | [link](https://github.com/RLinf/RLinf) |
+| dora-rs/dora | 3865 | Rust | 1546.1 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,16 +119,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
 | 2026-08-03 | Ropedia Raises $30M to Scale Data Infrastructure for Physical AI - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3c4VW1OYWVWNmVDN3F6dVVJNzFVREFsMkZGV2s0bzF6SmV1WE5NR0QtNGQ4VERIMzJqaVZoZ0RZckJsc0JWaXRuNGhBRDlCT3VaelRqRlFuYlVydzNJcVBWOVE3V29kRXRkRVpYcl9vOFB3OGVhbDE3ZW9VQXpoTnpKQkp1c0RwMU9iSUFmdXRWYkxCVGJCa1RVLUdXQ2hreWFF?oc=5) |
-| 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
 | 2026-08-03 | The VC firm behind Shopify is doubling down on robotics and defense - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbVNpVE44QnpMNW5GWlkycDJwV1U5TUpsS1RsdzdYbFJiYVRUWjg1UG1mU2pLbi0tXzRfTERNWExoQ04tZXl3R1BDbWt6eXRYd283aEhaSUpzRmhjT19FaDFyd19hbmVSS3VROXlyZ0RNRTVQNkVieUNkd24tRHFobWs5UDJ0Z0lpOFNOVHJ5U3dwakpIbXl1aGJESlFLclJFMGhiXw?oc=5) |
+| 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - kspost.biz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
 | 2026-08-02 | Robot soldiers are being built in America to fight tomorrow’s wars – and the alarm is growing - The Independent | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQZzJ4bWl6eTJSYjlTNWZQLVVxMlFfZEJsZExpdTVIdXI0cXR6akNnVDNzZDVJM3RoaXJKeDhXNVVqUENuYU5qbEJPNFNmMkh2OFpRR2p3RE51R1ExQzRZcXFucTh5ZzFGQ3p5SGFzMThhMGM2QVpPa0s4TXlmSU04Z3JFZXV5Y2FSc3JYNG5KU0daMWc?oc=5) |
 | 2026-07-31 | Korean Physical AI Startups Face a Hard Truth: A 98% Accurate AI Model Can Still Fail Inside a Robot - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbm56aHN1cU9VNW02QnJBTTJDcmhQS19ITE9kX2w4VnVrREpUS0dWeW1Ya191UDB3SjBRcmd0U2kwYWFIUGZFVkJXOG9KVEZpcmVwNjYtYkJjRTFZT3BvMncwMV9BeUk4ejRrcl9yc2F4OHhPTEJCTHRtdnhRN0dzMUZxT3ZUZlZNa0E?oc=5) |
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
-| 2026-07-31 | SK Telecom partners with physical AI startups - The Korea News Plus | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
+| 2026-07-31 | SK Telecom partners with physical AI startups - newsarticleinsiders.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
 | 2026-07-31 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
-| 2026-07-31 | San Francisco company offers cleaning service using humanoid robots - ABC News - Breaking News, Latest News and Videos | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPU09xRXh1cjdLQ3JaVW80MnVtcHhDLXp3dmFua2xfQnVodDVZbnVzVHpQMms5UzJra1ZjWFQtRE9ObFVpSnVtTmJDYkxrenRoelV6SlhibVdPSHhiYi00SE9OSHdqcHA5OEF4Rk1Ga2dKakVfWXEzOTZsUzhuc2g0QWYzbVl6LVZrMk04V0YzUjFBQlJJQ1NYcE1tTGJYMG1DWG9WYjhBZkEyc3Zkc1N1X9IBtgFBVV95cUxQTGZibk1YenNFTGRWLXJJMEZNMGVINUNLdzNUV0laX09zS19pa2Z1MjBiZjdzZU5JWl9lQUh3cDA5cGdxTTZKMnI5NkdIM2tZOUJBUnBBTVFjTFJWSFJ5c1AyTDN0cFFYUVZhaTBOM2Q0cWJtWl9CeGJPUXpaNGFnSWk3QmhDeW41TXRxUEdPTWhNT1JkSHRlMlItV19MbzJHWENDelpBSHN6ZkhheDQ0bjlpdGZLQQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
