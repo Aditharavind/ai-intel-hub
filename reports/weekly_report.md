@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-04 01:17 UTC
+Generated: 2026-08-04 04:50 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-08-02 | OC-VLA++: Monocular Geometry-Guided Cross-View Consistency for Viewpoint-Robust Robotic Manipulation | [link](https://arxiv.org/pdf/2608.01066v1) |
-| 2026-08-02 | Extended KAFR: A kinematic-adaptive paradigm for the efficient analysis of surgical video | [link](https://arxiv.org/pdf/2608.01058v1) |
-| 2026-08-02 | FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds | [link](https://arxiv.org/pdf/2608.01049v1) |
-| 2026-08-02 | WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA | [link](https://arxiv.org/pdf/2608.01035v1) |
-| 2026-08-02 | Opt.Gear Technical Report | [link](https://arxiv.org/pdf/2608.01034v1) |
+| 2026-08-03 | WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity | [link](https://arxiv.org/pdf/2608.02603v1) |
+| 2026-08-03 | Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data | [link](https://arxiv.org/pdf/2608.02580v1) |
+| 2026-08-03 | CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs | [link](https://arxiv.org/pdf/2608.02578v1) |
+| 2026-08-03 | Foundation Models for Astrophysics | [link](https://arxiv.org/pdf/2608.02573v1) |
+| 2026-08-03 | Situation Aware Frontier Prioritization for Quadruped Search and Rescue | [link](https://arxiv.org/pdf/2608.02571v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82916 | 33166.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63309 | 25323.7 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30237 | 12094.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16085 | 6434.1 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15607 | 6242.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| Developer-Y/cs-video-courses | 82917 | 33166.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63312 | 25324.9 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30238 | 12095.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16086 | 6434.5 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15608 | 6243.3 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -27,7 +27,7 @@ Generated: 2026-08-04 01:17 UTC
 | SEU-PAISys/Embodied.cpp | 726 | 218.7 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 634 | 194.7 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 | zhijieq/directional-navigation | 419 | 125.8 | [link](https://huggingface.co/zhijieq/directional-navigation) |
-| HarrisonPENG/M2W-VLA-RoboTwin | 400 | 120.1 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
+| tencent/Hy-Embodied-RxBrain-1.0 | 346 | 114.5 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -43,6 +43,6 @@ Generated: 2026-08-04 01:17 UTC
 | --- | --- | --- | --- |
 | 2026-08-03 | Ropedia Raises $30M to Scale Data Infrastructure for Physical AI - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3c4VW1OYWVWNmVDN3F6dVVJNzFVREFsMkZGV2s0bzF6SmV1WE5NR0QtNGQ4VERIMzJqaVZoZ0RZckJsc0JWaXRuNGhBRDlCT3VaelRqRlFuYlVydzNJcVBWOVE3V29kRXRkRVpYcl9vOFB3OGVhbDE3ZW9VQXpoTnpKQkp1c0RwMU9iSUFmdXRWYkxCVGJCa1RVLUdXQ2hreWFF?oc=5) |
 | 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
-| 2026-08-03 | The VC firm behind Shopify is doubling down on robotics and defense - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbVNpVE44QnpMNW5GWlkycDJwV1U5TUpsS1RsdzdYbFJiYVRUWjg1UG1mU2pLbi0tXzRfTERNWExoQ04tZXl3R1BDbWt6eXRYd283aEhaSUpzRmhjT19FaDFyd19hbmVSS3VROXlyZ0RNRTVQNkVieUNkd24tRHFobWs5UDJ0Z0lpOFNOVHJ5U3dwakpIbXl1aGJESlFLclJFMGhiXw?oc=5) |
-| 2026-08-03 | U.S. Startup Says It Would Arm Robot Soldiers If the Army Asks - phandroid.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rOTc4RW55Q2NqTzJBZ0YwYlRRQXk0bzVhQzdTMTdHeUNocERJcC1rNUtRLUR2Y3piTkdIYnpuVjA5Mkd0QXVKSVYya19ZRzVqWFHSAVdBVV95cUxQMEFDdkRFQUV3T0IwZkU0NnM1LW50QW1tVnpXM0pJa2NFdTRwNGFCcEZ4QVhwZk8xR19KZ3ZfNGNJZ3dEbnNyVTR1NGEyMmx0VzdReUZjYlE?oc=5) |
+| 2026-08-03 | The VC firm behind Shopify is doubling down on robotics and defense - businessinsider.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbVNpVE44QnpMNW5GWlkycDJwV1U5TUpsS1RsdzdYbFJiYVRUWjg1UG1mU2pLbi0tXzRfTERNWExoQ04tZXl3R1BDbWt6eXRYd283aEhaSUpzRmhjT19FaDFyd19hbmVSS3VROXlyZ0RNRTVQNkVieUNkd24tRHFobWs5UDJ0Z0lpOFNOVHJ5U3dwakpIbXl1aGJESlFLclJFMGhiXw?oc=5) |
+| 2026-08-03 | U.S. Startup Says It Would Arm Robot Soldiers If the Army Asks - Phandroid | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rOTc4RW55Q2NqTzJBZ0YwYlRRQXk0bzVhQzdTMTdHeUNocERJcC1rNUtRLUR2Y3piTkdIYnpuVjA5Mkd0QXVKSVYya19ZRzVqWFHSAVdBVV95cUxQMEFDdkRFQUV3T0IwZkU0NnM1LW50QW1tVnpXM0pJa2NFdTRwNGFCcEZ4QVhwZk8xR19KZ3ZfNGNJZ3dEbnNyVTR1NGEyMmx0VzdReUZjYlE?oc=5) |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
