@@ -5,9 +5,59 @@
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "topic": "physical-ai",
     "score": 1111.7
+  },
+  {
+    "repo": "commaai/openpilot",
+    "stars": 63309,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-08-04",
+    "topic": "robotics",
+    "score": 25323.7
+  },
+  {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15607,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-08-04",
+    "topic": "robotics",
+    "score": 6242.9
+  },
+  {
+    "repo": "google-deepmind/mujoco",
+    "stars": 14428,
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "date": "2026-08-04",
+    "topic": "robotics",
+    "score": 5771.3
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3864,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-08-04",
+    "topic": "embodied-ai",
+    "score": 1545.7
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7826,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-08-04",
+    "topic": "robot-learning",
+    "score": 3130.5
   },
   {
     "repo": "NVlabs/alpamayo",
@@ -80,16 +130,6 @@
     "score": 123.7
   },
   {
-    "repo": "commaai/openpilot",
-    "stars": 63309,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-08-03",
-    "topic": "robotics",
-    "score": 25323.7
-  },
-  {
     "repo": "AtsushiSakai/PythonRobotics",
     "stars": 30237,
     "language": "Python",
@@ -100,34 +140,14 @@
     "score": 12094.9
   },
   {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15607,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-08-03",
-    "topic": "robotics",
-    "score": 6242.9
-  },
-  {
-    "repo": "google-deepmind/mujoco",
-    "stars": 14428,
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "url": "https://github.com/google-deepmind/mujoco",
-    "date": "2026-08-03",
-    "topic": "robotics",
-    "score": 5771.3
-  },
-  {
     "repo": "earthtojake/text-to-cad",
-    "stars": 12685,
+    "stars": 12692,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-03",
     "topic": "robotics",
-    "score": 5074.1
+    "score": 5076.9
   },
   {
     "repo": "kornia/kornia",
@@ -151,33 +171,23 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4399,
+    "stars": 4400,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-03",
     "topic": "embodied-ai",
-    "score": 1759.7
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3863,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-08-03",
-    "topic": "embodied-ai",
-    "score": 1545.3
+    "score": 1760.1
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2674,
+    "stars": 2675,
     "language": "Python",
     "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-08-03",
     "topic": "embodied-ai",
-    "score": 1069.7
+    "score": 1070.1
   },
   {
     "repo": "StanfordVL/BEHAVIOR-1K",
@@ -241,13 +251,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5816,
+    "stars": 5817,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-03",
     "topic": "world-model",
-    "score": 2326.5
+    "score": 2326.9
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -268,16 +278,6 @@
     "date": "2026-08-03",
     "topic": "world-model",
     "score": 835.7
-  },
-  {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7826,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-08-03",
-    "topic": "robot-learning",
-    "score": 3130.5
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -321,13 +321,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15213,
+    "stars": 15214,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6085.3
+    "score": 6085.7
   },
   {
     "repo": "mani-skill/ManiSkill",
@@ -811,23 +811,23 @@
   },
   {
     "repo": "robocasa/robocasa",
-    "stars": 1614,
+    "stars": 1615,
     "language": "Python",
     "description": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
     "url": "https://github.com/robocasa/robocasa",
     "date": "2026-07-08",
     "topic": "robot-learning",
-    "score": 645.7
+    "score": 646.1
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 82915,
+    "stars": 82916,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-07-07",
     "topic": "robotics",
-    "score": 33166.1
+    "score": 33166.5
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
