@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-04 12:50 UTC
+Last Updated: 2026-08-04 15:12 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-04 | Deploy local agents everywhere with LFM2.5-2.6B | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b) |
 | 2026-08-03 | Apple is getting this wrong | OpenAI | [link](https://openai.com/index/apple-is-getting-this-wrong) |
 | 2026-08-03 | How we built a realtime system for responsive voice AI in six months | OpenAI | [link](https://openai.com/index/continuous-voice-interaction-with-gpt-live) |
 | 2026-08-03 | Circles powers telco personalization with OpenAI technology | OpenAI | [link](https://openai.com/index/circles) |
@@ -16,11 +17,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-31 | Univé builds an AI-ready workforce | OpenAI | [link](https://openai.com/index/unive) |
 | 2026-07-31 | Disrupting a Criminal Scam Operation | OpenAI | [link](https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation) |
 | 2026-07-30 | Advancing the price-performance frontier with GPT-5.6 | OpenAI | [link](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6) |
-| 2026-07-30 | How avatarin built a 24/7 retail agent with GPT-Realtime | OpenAI | [link](https://openai.com/index/avatarin) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-04 | What Robotics Companies Think About the U.S. Foreign Robot Ban | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/fcc-covered-list-mobile-robots) |
 | 2026-08-03 | Walden Robotics Partners With Toyota on Practical Humanoids | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota) |
 | 2026-07-31 | Video Friday: Meet Google DeepMind’s Gemini Robotics 2 | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-robot-gemini2-ai-robot) |
 | 2026-07-20 | Boston Dynamics to discuss the art behind human-robot interaction | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-discuss-art-behind-human-robot-interaction/) |
@@ -30,11 +31,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-07 | NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/) |
 | 2026-07-06 | Boston Dynamics brings its legged robots to the FIFA World Cup | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-brings-its-legged-robots-to-the-fifa-world-cup/) |
 | 2026-07-04 | Japan Pioneered Humanoid Robots—Can It Now Catch China? | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/humanoid-robots-japan) |
-| 2026-07-03 | Video Friday: An Earthbound Mars Rover for the Moon | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-nasa-lunar-rover) |
 
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-04 | What Robotics Companies Think About the U.S. Foreign Robot Ban | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/fcc-covered-list-mobile-robots) |
 | 2026-08-03 | Reimagine Robotics emerges from stealth with robots that ‘learn on the job’ | Robotics Business Review | [link](https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/) |
 | 2026-08-03 | Walden Robotics Partners With Toyota on Practical Humanoids | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota) |
 | 2026-08-03 | HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators | Robotics Business Review | [link](https://www.therobotreport.com/hebi-robotics-earns-nasa-sbir-grant-fast-track-miniaturized-actuators/) |
@@ -44,21 +45,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-31 | Procore Technologies acquires DroneDeploy for $845M | Robotics Business Review | [link](https://www.therobotreport.com/procore-technologies-acquires-dronedeploy-845m/) |
 | 2026-07-31 | KUKA deploys Automation Management Platform for North American automakers | Robotics Business Review | [link](https://www.therobotreport.com/kuka-deploys-automation-management-platform-north-american-automakers/) |
 | 2026-07-31 | FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing | Robotics Business Review | [link](https://www.therobotreport.com/fcc-robot-ruling-shines-spotlight-on-u-s-policy-how-next-gen-ai-can-help-warehousing/) |
-| 2026-07-31 | Video Friday: Meet Google DeepMind’s Gemini Robotics 2 | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-robot-gemini2-ai-robot) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-04 | Road Trains Roam The Backroads of Australia | Hackaday | [link](https://hackaday.com/2026/08/04/road-trains-roam-the-backroads-of-australia/) |
 | 2026-08-04 | Testing Hundreds of Used LFP Cells Requires Some Automation | Hackaday | [link](https://hackaday.com/2026/08/04/testing-hundreds-of-used-lfp-cells-requires-some-automation/) |
 | 2026-08-04 | Yellow YAG Produces Powerful Pulses in Les’ Leftover Laser | Hackaday | [link](https://hackaday.com/2026/08/04/yellow-yag-produces-powerful-pulses-in-les-leftover-laser/) |
 | 2026-08-04 | A Versatile PDP-11/70 Emulator | Hackaday | [link](https://hackaday.com/2026/08/03/a-versatile-pdp-11-70-emulator/) |
 | 2026-08-04 | Sketching Temporary Circuits with a Light-Triggered Floquet Topological Insulator | Hackaday | [link](https://hackaday.com/2026/08/03/sketching-temporary-circuits-with-a-light-triggered-floquet-topological-insulator/) |
+| 2026-08-04 | reComputer Mini J501 Edge AI computer features NVIDIA Jetson AGX Orin 64GB/32GB module, two FAKRA camera connectors | CNX Software | [link](https://www.cnx-software.com/2026/08/04/recomputer-mini-j501-edge-ai-computer-features-nvidia-jetson-agx-orin-64gb-32gb-module-two-fakra-camera-connectors/) |
 | 2026-08-04 | Espressif ESP32-C61-MINI-1/1U Wi-Fi 6 and BLE IoT module launched for about $2 | CNX Software | [link](https://www.cnx-software.com/2026/08/04/espressif-esp32-c61-mini-1-1u-wi-fi-6-and-ble-iot-module-2-dollars/) |
 | 2026-08-04 | BG2B is the lowest-power Bluetooth LE SoC from Silicon Labs so far | CNX Software | [link](https://www.cnx-software.com/2026/08/04/bg2b-lowest-power-bluetooth-le-soc-from-silicon-labs/) |
+| 2026-08-04 | Cadence Develops Agentic AI Platform for PCB Design | Embedded.com | [link](https://www.embedded.com/cadence-develops-agentic-ai-platform-for-pcb-design/) |
 | 2026-08-04 | Optical Zonu Launches Miniature Ku-Band RFoF Transmitter | Embedded.com | [link](https://www.embedded.com/optical-zonu-launches-miniature-ku-band-rfof-transmitter/) |
-| 2026-08-04 | Themis reusable rocket moves one step closer to flight | Electronics Weekly | [link](https://www.electronicsweekly.com/news/themis-reusable-rocket-moves-one-step-closer-to-flight-2026-08/) |
-| 2026-08-04 | Japan taps Ukraine, US  and startups for defence drone capability | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/japan-taps-ukraine-us-and-startups-for-defence-drone-capability-2026-08/) |
-| 2026-08-04 | DeepX raises $30m Series D at $2.2bn valuation | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/deepx-raises-30m-series-d-at-2-2bn-valuation-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2787 | Python | 1114.9 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1435 | Rust | 574.1 | [link](https://github.com/copper-project/copper-rs) |
+| NVIDIA/skills | 2789 | Python | 1115.7 | [link](https://github.com/NVIDIA/skills) |
+| copper-project/copper-rs | 1436 | Rust | 574.5 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 309 | Python | 123.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | commaai/openpilot | 63319 | Python | 25327.7 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16086 | Python | 6434.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15610 | C++ | 6244.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14437 | C++ | 5774.9 | [link](https://github.com/google-deepmind/mujoco) |
-| kornia/kornia | 11299 | Python | 4519.7 | [link](https://github.com/kornia/kornia) |
+| ArduPilot/ardupilot | 15612 | C++ | 6244.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14438 | C++ | 5775.3 | [link](https://github.com/google-deepmind/mujoco) |
+| kornia/kornia | 11300 | Python | 4520.1 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,14 +119,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-04 | Saudi's Rime raises $2M+ seed to run AI agents on-site for retail chains - FWDStart | physical ai startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlFXWlktN0d5bmtnX0V0SGk2b2hyVkVzcFptTktnVW93WUN5OTlILWxHR3JkNnRqUDdHeU9HX3JQeGdmd2NSUjJfTGdtdUVkV25zYVVVeUI0VWxoaVRIaXJvZjJTanc5UjBjSFRNRjE5QlN3U0RIS2xjUmlTSlBJT04yR1NjaVVQVGR0R3JXY2wtZlB6eUlnLU53?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
 | 2026-08-03 | Ropedia Raises $30M to Scale Data Infrastructure for Physical AI - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3c4VW1OYWVWNmVDN3F6dVVJNzFVREFsMkZGV2s0bzF6SmV1WE5NR0QtNGQ4VERIMzJqaVZoZ0RZckJsc0JWaXRuNGhBRDlCT3VaelRqRlFuYlVydzNJcVBWOVE3V29kRXRkRVpYcl9vOFB3OGVhbDE3ZW9VQXpoTnpKQkp1c0RwMU9iSUFmdXRWYkxCVGJCa1RVLUdXQ2hreWFF?oc=5) |
 | 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
-| 2026-08-02 | Robot soldiers are being built in America to fight tomorrow’s wars – and the alarm is growing - The Independent | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQZzJ4bWl6eTJSYjlTNWZQLVVxMlFfZEJsZExpdTVIdXI0cXR6akNnVDNzZDVJM3RoaXJKeDhXNVVqUENuYU5qbEJPNFNmMkh2OFpRR2p3RE51R1ExQzRZcXFucTh5ZzFGQ3p5SGFzMThhMGM2QVpPa0s4TXlmSU04Z3JFZXV5Y2FSc3JYNG5KU0daMWc?oc=5) |
+| 2026-08-02 | Robot soldiers are being built in America to fight tomorrow’s wars – and the alarm is growing - independent.co.uk | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQZzJ4bWl6eTJSYjlTNWZQLVVxMlFfZEJsZExpdTVIdXI0cXR6akNnVDNzZDVJM3RoaXJKeDhXNVVqUENuYU5qbEJPNFNmMkh2OFpRR2p3RE51R1ExQzRZcXFucTh5ZzFGQ3p5SGFzMThhMGM2QVpPa0s4TXlmSU04Z3JFZXV5Y2FSc3JYNG5KU0daMWc?oc=5) |
 | 2026-07-31 | Korean Physical AI Startups Face a Hard Truth: A 98% Accurate AI Model Can Still Fail Inside a Robot - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbm56aHN1cU9VNW02QnJBTTJDcmhQS19ITE9kX2w4VnVrREpUS0dWeW1Ya191UDB3SjBRcmd0U2kwYWFIUGZFVkJXOG9KVEZpcmVwNjYtYkJjRTFZT3BvMncwMV9BeUk4ejRrcl9yc2F4OHhPTEJCTHRtdnhRN0dzMUZxT3ZUZlZNa0E?oc=5) |
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
-| 2026-07-31 | SK Telecom partners with physical AI startups - The Korea News Plus | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdXVQTDFPZXdoelJEWHo5V3lYY3JIV01McmlCVUNkTUxPWnFvWlZSbUZfQUxNQ0hHNVcySkxjN2tObl9ZX0JXdUw1cFB2cHRxbnVSQXpieURTb1JrczdMQkFuYzAzb0lhcHRaR1JnQXpmYWFyZUQ0?oc=5) |
 | 2026-07-31 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
 | 2026-07-31 | San Francisco company offers cleaning service using humanoid robots - ABC News - Breaking News, Latest News and Videos | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPU09xRXh1cjdLQ3JaVW80MnVtcHhDLXp3dmFua2xfQnVodDVZbnVzVHpQMms5UzJra1ZjWFQtRE9ObFVpSnVtTmJDYkxrenRoelV6SlhibVdPSHhiYi00SE9OSHdqcHA5OEF4Rk1Ga2dKakVfWXEzOTZsUzhuc2g0QWYzbVl6LVZrMk04V0YzUjFBQlJJQ1NYcE1tTGJYMG1DWG9WYjhBZkEyc3Zkc1N1X9IBtgFBVV95cUxQTGZibk1YenNFTGRWLXJJMEZNMGVINUNLdzNUV0laX09zS19pa2Z1MjBiZjdzZU5JWl9lQUh3cDA5cGdxTTZKMnI5NkdIM2tZOUJBUnBBTVFjTFJWSFJ5c1AyTDN0cFFYUVZhaTBOM2Q0cWJtWl9CeGJPUXpaNGFnSWk3QmhDeW41TXRxUEdPTWhNT1JkSHRlMlItV19MbzJHWENDelpBSHN6ZkhheDQ0bjlpdGZLQQ?oc=5) |
 

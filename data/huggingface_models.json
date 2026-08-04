@@ -90,6 +90,24 @@
     "score": 1.9
   },
   {
+    "model": "ethanCSL/svla_franka_pick_n_place_vla_steering_libero_three_cams_40k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ethanCSL/svla_franka_pick_n_place_vla_steering_libero_three_cams_40k",
+    "date": "2026-08-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "kurushun/dobot-vla-act-ab",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kurushun/dobot-vla-act-ab",
+    "date": "2026-08-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "kurushun/dobot-vla-act-b",
     "downloads": 0,
     "likes": 2,
@@ -216,6 +234,15 @@
     "score": 0.3
   },
   {
+    "model": "ntlfi/enpo-llama3-8b-eta-default-seed2-cuda13-iter1-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ntlfi/enpo-llama3-8b-eta-default-seed2-cuda13-iter1-policy",
+    "date": "2026-08-04",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "MakinoKF/put-the-nut-from-above_20260804_134155_act-policy-v1",
     "downloads": 0,
     "likes": 0,
@@ -315,15 +342,6 @@
     "score": 0.1
   },
   {
-    "model": "litert-community/LFM2.5-Encoder-350M-Policy-Linter",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/litert-community/LFM2.5-Encoder-350M-Policy-Linter",
-    "date": "2026-08-04",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "jungwook2358/rldx1-egopi-prq-robotonly-actlat-30k",
     "downloads": 10,
     "likes": 0,
@@ -367,24 +385,6 @@
     "date": "2026-08-03",
     "keyword": "vla",
     "score": 7.6
-  },
-  {
-    "model": "VladShash/qwen3-feedback-grpo-fl0.0-step460",
-    "downloads": 20,
-    "likes": 0,
-    "url": "https://huggingface.co/VladShash/qwen3-feedback-grpo-fl0.0-step460",
-    "date": "2026-08-03",
-    "keyword": "vla",
-    "score": 6.1
-  },
-  {
-    "model": "VladShash/qwen3-feedback-grpo-fl0.05-step450",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/VladShash/qwen3-feedback-grpo-fl0.05-step450",
-    "date": "2026-08-03",
-    "keyword": "vla",
-    "score": 6.7
   },
   {
     "model": "flashrt/world-model-conv",
