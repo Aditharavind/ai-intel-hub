@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-04 20:58 UTC
+Last Updated: 2026-08-04 22:07 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-04 | Third-party cyber evaluations involving OpenAI models | OpenAI | [link](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models) |
 | 2026-08-04 | New ways to learn and teach with ChatGPT Work and Codex | OpenAI | [link](https://openai.com/index/learn-teach-chatgpt-work-codex) |
 | 2026-08-04 | Deploy local agents everywhere with LFM2.5-2.6B | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b) |
 | 2026-08-03 | Apple is getting this wrong | OpenAI | [link](https://openai.com/index/apple-is-getting-this-wrong) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-31 | Advancing responsible AI across Europe | OpenAI | [link](https://openai.com/index/advancing-responsible-ai-across-europe) |
 | 2026-07-31 | Building abundant intelligence | OpenAI | [link](https://openai.com/index/building-abundant-intelligence) |
 | 2026-07-31 | Univé builds an AI-ready workforce | OpenAI | [link](https://openai.com/index/unive) |
-| 2026-07-31 | Disrupting a Criminal Scam Operation | OpenAI | [link](https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -96,11 +96,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 309 | Python | 123.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 63321 | Python | 25328.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63322 | Python | 25328.9 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16084 | Python | 6433.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15613 | C++ | 6245.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14438 | C++ | 5775.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 12809 | JavaScript | 5123.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14439 | C++ | 5775.7 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 12813 | JavaScript | 5125.3 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -122,13 +122,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-04 | Saudi's Rime raises $2M+ seed to run AI agents on-site for retail chains - FWDStart | physical ai startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlFXWlktN0d5bmtnX0V0SGk2b2hyVkVzcFptTktnVW93WUN5OTlILWxHR3JkNnRqUDdHeU9HX3JQeGdmd2NSUjJfTGdtdUVkV25zYVVVeUI0VWxoaVRIaXJvZjJTanc5UjBjSFRNRjE5QlN3U0RIS2xjUmlTSlBJT04yR1NjaVVQVGR0R3JXY2wtZlB6eUlnLU53?oc=5) |
 | 2026-08-04 | Korean Robot Startup Spotted by NVIDIA… RGA Robotics Accelerates Commercialization of Physical AI Robots - 벤처스퀘어 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE04a2s4MnYxUEdEUUdJS0pEd2dNYlFwMnRLZERpUkpKTVI5czdsUmpYSE4wdWJINEVjRGNIaGRlRHMxeTFyQjlpdWU4VnRtNjN0cWJJ?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
-| 2026-08-03 | Ropedia Raises $30M to Scale Data Infrastructure for Physical AI - theaiinsider.tech | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3c4VW1OYWVWNmVDN3F6dVVJNzFVREFsMkZGV2s0bzF6SmV1WE5NR0QtNGQ4VERIMzJqaVZoZ0RZckJsc0JWaXRuNGhBRDlCT3VaelRqRlFuYlVydzNJcVBWOVE3V29kRXRkRVpYcl9vOFB3OGVhbDE3ZW9VQXpoTnpKQkp1c0RwMU9iSUFmdXRWYkxCVGJCa1RVLUdXQ2hreWFF?oc=5) |
+| 2026-08-03 | Ropedia Raises $30M to Scale Data Infrastructure for Physical AI - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3c4VW1OYWVWNmVDN3F6dVVJNzFVREFsMkZGV2s0bzF6SmV1WE5NR0QtNGQ4VERIMzJqaVZoZ0RZckJsc0JWaXRuNGhBRDlCT3VaelRqRlFuYlVydzNJcVBWOVE3V29kRXRkRVpYcl9vOFB3OGVhbDE3ZW9VQXpoTnpKQkp1c0RwMU9iSUFmdXRWYkxCVGJCa1RVLUdXQ2hreWFF?oc=5) |
 | 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
-| 2026-08-03 | Tech Brief (Aug. 4): Alibaba Launches New Large Model to Power Enterprise-Facing AI Agent - inkl | embodied ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcnpVX1loSzRwc0I5SU9EUVFNblVKQ1VaMHRZZlVDNEh5Q256X01xUUxETzJqWlg2eEJuNGlJMWl2YTkwMTlMc0ZseUFnZXk1dXpBeThGOWVzemtXQzk1N0tYSVI5ODEwSmV3Q0Q2MzlSOEpRdEJ1a3BHdjJQRHM4aWRidjB4UnpiMGNrOVAzdXNPdHROWktPYUtTLWNleXlrRFBHdG5reGRVT3JmLUlTNw?oc=5) |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
 | 2026-07-31 | Korean Physical AI Startups Face a Hard Truth: A 98% Accurate AI Model Can Still Fail Inside a Robot - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbm56aHN1cU9VNW02QnJBTTJDcmhQS19ITE9kX2w4VnVrREpUS0dWeW1Ya191UDB3SjBRcmd0U2kwYWFIUGZFVkJXOG9KVEZpcmVwNjYtYkJjRTFZT3BvMncwMV9BeUk4ejRrcl9yc2F4OHhPTEJCTHRtdnhRN0dzMUZxT3ZUZlZNa0E?oc=5) |
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
 | 2026-07-31 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
+| 2026-07-31 | San Francisco company offers cleaning service using humanoid robots - ABC News - Breaking News, Latest News and Videos | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPU09xRXh1cjdLQ3JaVW80MnVtcHhDLXp3dmFua2xfQnVodDVZbnVzVHpQMms5UzJra1ZjWFQtRE9ObFVpSnVtTmJDYkxrenRoelV6SlhibVdPSHhiYi00SE9OSHdqcHA5OEF4Rk1Ga2dKakVfWXEzOTZsUzhuc2g0QWYzbVl6LVZrMk04V0YzUjFBQlJJQ1NYcE1tTGJYMG1DWG9WYjhBZkEyc3Zkc1N1X9IBtgFBVV95cUxQTGZibk1YenNFTGRWLXJJMEZNMGVINUNLdzNUV0laX09zS19pa2Z1MjBiZjdzZU5JWl9lQUh3cDA5cGdxTTZKMnI5NkdIM2tZOUJBUnBBTVFjTFJWSFJ5c1AyTDN0cFFYUVZhaTBOM2Q0cWJtWl9CeGJPUXpaNGFnSWk3QmhDeW41TXRxUEdPTWhNT1JkSHRlMlItV19MbzJHWENDelpBSHN6ZkhheDQ0bjlpdGZLQQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
