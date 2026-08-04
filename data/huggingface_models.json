@@ -1,5 +1,14 @@
 [
   {
+    "model": "x-tangle/robotomy",
+    "downloads": 107,
+    "likes": 1,
+    "url": "https://huggingface.co/x-tangle/robotomy",
+    "date": "2026-08-04",
+    "keyword": "robot",
+    "score": 32.4
+  },
+  {
     "model": "robotaa/260804_grab_toy2",
     "downloads": 0,
     "likes": 0,
@@ -81,6 +90,24 @@
     "score": 1.9
   },
   {
+    "model": "kurushun/dobot-vla-act-b",
+    "downloads": 0,
+    "likes": 2,
+    "url": "https://huggingface.co/kurushun/dobot-vla-act-b",
+    "date": "2026-08-04",
+    "keyword": "vla",
+    "score": 0.5
+  },
+  {
+    "model": "vladcat222/ntrMIXIllustriousXL_xiii_QNN2.28",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladcat222/ntrMIXIllustriousXL_xiii_QNN2.28",
+    "date": "2026-08-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "xiaomi-research/SpatioLM-Action-VLA0",
     "downloads": 0,
     "likes": 0,
@@ -112,33 +139,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/hirosan6595/vla-260804-v1",
-    "date": "2026-08-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__no_mask__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0",
     "date": "2026-08-04",
     "keyword": "vla",
     "score": 0.1
@@ -216,6 +216,15 @@
     "score": 0.3
   },
   {
+    "model": "MakinoKF/put-the-nut-from-above_20260804_134155_act-policy-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MakinoKF/put-the-nut-from-above_20260804_134155_act-policy-v1",
+    "date": "2026-08-04",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "zonglin11/act_bimanual_policy",
     "downloads": 0,
     "likes": 0,
@@ -270,15 +279,6 @@
     "score": 0.1
   },
   {
-    "model": "MakinoKF/put-the-nut-from-above_20260804_134155_act-policy-v1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MakinoKF/put-the-nut-from-above_20260804_134155_act-policy-v1",
-    "date": "2026-08-04",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "ntlfi/enpo-llama3-8b-eta-eighth-seed2-cuda13-iter3-policy",
     "downloads": 0,
     "likes": 0,
@@ -322,15 +322,6 @@
     "date": "2026-08-04",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "x-tangle/robotomy",
-    "downloads": 107,
-    "likes": 1,
-    "url": "https://huggingface.co/x-tangle/robotomy",
-    "date": "2026-08-03",
-    "keyword": "robot",
-    "score": 32.4
   },
   {
     "model": "jungwook2358/rldx1-egopi-prq-robotonly-actlat-30k",
@@ -385,6 +376,15 @@
     "date": "2026-08-03",
     "keyword": "vla",
     "score": 6.1
+  },
+  {
+    "model": "VladShash/qwen3-feedback-grpo-fl0.05-step450",
+    "downloads": 22,
+    "likes": 0,
+    "url": "https://huggingface.co/VladShash/qwen3-feedback-grpo-fl0.05-step450",
+    "date": "2026-08-03",
+    "keyword": "vla",
+    "score": 6.7
   },
   {
     "model": "flashrt/world-model-conv",
