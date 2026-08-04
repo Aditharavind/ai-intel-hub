@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-04 22:07 UTC
+Last Updated: 2026-08-04 23:50 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-04 | Tearing Down Aircraft Weather Radar Avionics | Hackaday | [link](https://hackaday.com/2026/08/04/tearing-down-aircraft-weather-radar-avionics/) |
 | 2026-08-04 | Strengthening 3D Prints with a Carbon-Fiber Epidermis | Hackaday | [link](https://hackaday.com/2026/08/04/strengthening-3d-prints-with-a-carbon-fiber-epidermis/) |
 | 2026-08-04 | At Last! CP/M for Protected Mode | Hackaday | [link](https://hackaday.com/2026/08/04/at-last-cp-m-for-protected-mode/) |
 | 2026-08-04 | BornHack Radio 102.8 FM, Playing Radio At A Hacker Camp | Hackaday | [link](https://hackaday.com/2026/08/04/bornhack-radio-102-8fm-playing-radio-at-a-hacker-camp/) |
 | 2026-08-04 | Un Ordinateur Pour Le Minitel-1 (A Computer For The Minitel-1) | Hackaday | [link](https://hackaday.com/2026/08/04/un-ordinateur-pour-le-minitel-1-a-computer-for-the-minitel-1/) |
 | 2026-08-04 | Road Trains Roam The Backroads of Australia | Hackaday | [link](https://hackaday.com/2026/08/04/road-trains-roam-the-backroads-of-australia/) |
 | 2026-08-04 | Testing Hundreds of Used LFP Cells Requires Some Automation | Hackaday | [link](https://hackaday.com/2026/08/04/testing-hundreds-of-used-lfp-cells-requires-some-automation/) |
-| 2026-08-04 | Yellow YAG Produces Powerful Pulses in Les’ Leftover Laser | Hackaday | [link](https://hackaday.com/2026/08/04/yellow-yag-produces-powerful-pulses-in-les-leftover-laser/) |
 | 2026-08-04 | reComputer Mini J501 Edge AI computer features NVIDIA Jetson AGX Orin 64GB/32GB module, two FAKRA camera connectors | CNX Software | [link](https://www.cnx-software.com/2026/08/04/recomputer-mini-j501-edge-ai-computer-features-nvidia-jetson-agx-orin-64gb-32gb-module-two-fakra-camera-connectors/) |
 | 2026-08-04 | Espressif ESP32-C61-MINI-1/1U Wi-Fi 6 and BLE IoT module launched for about $2 | CNX Software | [link](https://www.cnx-software.com/2026/08/04/espressif-esp32-c61-mini-1-1u-wi-fi-6-and-ble-iot-module-2-dollars/) |
 | 2026-08-04 | BG2B is the lowest-power Bluetooth LE SoC from Silicon Labs so far | CNX Software | [link](https://www.cnx-software.com/2026/08/04/bg2b-lowest-power-bluetooth-le-soc-from-silicon-labs/) |
@@ -91,15 +91,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2790 | Python | 1116.1 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1437 | Rust | 574.9 | [link](https://github.com/copper-project/copper-rs) |
+| NVIDIA/skills | 2791 | Python | 1116.5 | [link](https://github.com/NVIDIA/skills) |
+| copper-project/copper-rs | 1438 | Rust | 575.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 309 | Python | 123.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 63322 | Python | 25328.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63325 | Python | 25330.1 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16084 | Python | 6433.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15613 | C++ | 6245.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14439 | C++ | 5775.7 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14441 | C++ | 5776.5 | [link](https://github.com/google-deepmind/mujoco) |
 | earthtojake/text-to-cad | 12813 | JavaScript | 5125.3 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
@@ -135,14 +135,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-08-04 | CNC Machinist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4440430006) |
 | 2026-08-04 | Fabricator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4439202006) |
+| 2026-08-04 | Facilities Coordinator (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702533006) |
 | 2026-08-04 | Gear Machinist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4690458006) |
 | 2026-08-04 | Humanoid Robot Operator & Data Creator — Fontana, CA (Customer Site) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4700899006) |
+| 2026-08-04 | IT Coordinator (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702538006) |
+| 2026-08-04 | Operations & Logistics Coordinator (SP)  | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702541006) |
+| 2026-08-04 | People Coordinator (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702540006) |
+| 2026-08-04 | Shift Coordinator, Data Creators (CDMX) | Figure AI | Ciudad de México | [link](https://job-boards.greenhouse.io/figureai/jobs/4702544006) |
 | 2026-08-04 | Site Lead (Night Shift)- Commercial Site Team (LA) | Figure AI | Fontana, California | [link](https://job-boards.greenhouse.io/figureai/jobs/4702369006) |
-| 2026-08-04 | Lead Data Scientist, Robotics | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127729004) |
-| 2026-08-04 | Senior AI Software Engineer, Reinforcement Learning | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127693004) |
-| 2026-08-04 | Senior Technical Program Manager, Robot Skills Development | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127703004) |
-| 2026-08-03 | Deployment Engineer - Commercial Site Team | Figure AI | Fontana, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4683846006) |
-| 2026-08-03 | Field Service Technician - Commercial Site Team | Figure AI | Fontana, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4683847006) |
 
 ## Automation
 
