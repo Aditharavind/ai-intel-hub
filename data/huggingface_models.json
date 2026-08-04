@@ -29,11 +29,11 @@
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-1-5B",
     "downloads": 12,
-    "likes": 1,
+    "likes": 2,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-5B",
     "date": "2026-08-04",
     "keyword": "robotics",
-    "score": 3.9
+    "score": 4.1
   },
   {
     "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
@@ -88,6 +88,33 @@
     "date": "2026-08-04",
     "keyword": "robot",
     "score": 1.9
+  },
+  {
+    "model": "kurushun/dobot-vla-diffusion-ab",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kurushun/dobot-vla-diffusion-ab",
+    "date": "2026-08-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "kurushun/dobot-vla-smolvla-b",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kurushun/dobot-vla-smolvla-b",
+    "date": "2026-08-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "siliconperception/VLA",
+    "downloads": 144,
+    "likes": 0,
+    "url": "https://huggingface.co/siliconperception/VLA",
+    "date": "2026-08-04",
+    "keyword": "vla",
+    "score": 43.3
   },
   {
     "model": "ethanCSL/svla_franka_pick_n_place_vla_steering_libero_three_cams_40k",
@@ -234,6 +261,24 @@
     "score": 0.3
   },
   {
+    "model": "ntlfi/enpo-llama3-8b-eta-default-seed2-cuda13-iter3-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ntlfi/enpo-llama3-8b-eta-default-seed2-cuda13-iter3-policy",
+    "date": "2026-08-04",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ntlfi/enpo-llama3-8b-eta-default-seed2-cuda13-iter2-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ntlfi/enpo-llama3-8b-eta-default-seed2-cuda13-iter2-policy",
+    "date": "2026-08-04",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "ntlfi/enpo-llama3-8b-eta-default-seed2-cuda13-iter1-policy",
     "downloads": 0,
     "likes": 0,
@@ -324,24 +369,6 @@
     "score": 0.1
   },
   {
-    "model": "ntlfi/enpo-llama3-8b-eta-eighth-seed2-cuda13-iter1-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ntlfi/enpo-llama3-8b-eta-eighth-seed2-cuda13-iter1-policy",
-    "date": "2026-08-04",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "BabyAlex/act_so101_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/BabyAlex/act_so101_policy",
-    "date": "2026-08-04",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "jungwook2358/rldx1-egopi-prq-robotonly-actlat-30k",
     "downloads": 10,
     "likes": 0,
@@ -358,33 +385,6 @@
     "date": "2026-08-03",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "yuanzhang/GEAR-VLA",
-    "downloads": 9,
-    "likes": 1,
-    "url": "https://huggingface.co/yuanzhang/GEAR-VLA",
-    "date": "2026-08-03",
-    "keyword": "vla",
-    "score": 3.0
-  },
-  {
-    "model": "ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_random",
-    "downloads": 18,
-    "likes": 0,
-    "url": "https://huggingface.co/ethanCSL/svla_franka_pick_n_place_vla_steering_libero_osc_random",
-    "date": "2026-08-03",
-    "keyword": "vla",
-    "score": 5.5
-  },
-  {
-    "model": "VladShash/qwen3-feedback-grpo-fl0.0-other_reward-step360",
-    "downloads": 25,
-    "likes": 0,
-    "url": "https://huggingface.co/VladShash/qwen3-feedback-grpo-fl0.0-other_reward-step360",
-    "date": "2026-08-03",
-    "keyword": "vla",
-    "score": 7.6
   },
   {
     "model": "flashrt/world-model-conv",
