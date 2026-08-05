@@ -61,13 +61,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63338,
+    "stars": 63339,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-05",
     "topic": "robotics",
-    "score": 25335.3
+    "score": 25335.7
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -81,13 +81,13 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15624,
+    "stars": 15626,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-05",
     "topic": "robotics",
-    "score": 6249.7
+    "score": 6250.5
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -101,13 +101,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 12902,
+    "stars": 12905,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-05",
     "topic": "robotics",
-    "score": 5160.9
+    "score": 5162.1
   },
   {
     "repo": "kornia/kornia",
@@ -128,6 +128,16 @@
     "date": "2026-08-05",
     "topic": "robotics",
     "score": 4503.7
+  },
+  {
+    "repo": "nasa-jpl/open-source-rover",
+    "stars": 9558,
+    "language": "Prolog",
+    "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
+    "url": "https://github.com/nasa-jpl/open-source-rover",
+    "date": "2026-08-05",
+    "topic": "robotics",
+    "score": 3823.3
   },
   {
     "repo": "RLinf/RLinf",
@@ -151,13 +161,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3009,
+    "stars": 3010,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-05",
     "topic": "embodied-ai",
-    "score": 1203.7
+    "score": 1204.1
   },
   {
     "repo": "StanfordVL/BEHAVIOR-1K",
@@ -221,23 +231,23 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5880,
+    "stars": 5881,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-05",
     "topic": "world-model",
-    "score": 2352.1
+    "score": 2352.5
   },
   {
     "repo": "OpenHUTB/hutb",
-    "stars": 561,
+    "stars": 563,
     "language": "C++",
     "description": "人车模拟器（Human-vehicle Simulator）",
     "url": "https://github.com/OpenHUTB/hutb",
     "date": "2026-08-05",
     "topic": "humanoid",
-    "score": 224.5
+    "score": 225.3
   },
   {
     "repo": "softmata/horus",
@@ -270,6 +280,16 @@
     "score": 3136.9
   },
   {
+    "repo": "vikashplus/robohive",
+    "stars": 631,
+    "language": "Python",
+    "description": "A unified framework for robot learning",
+    "url": "https://github.com/vikashplus/robohive",
+    "date": "2026-08-05",
+    "topic": "robot-learning",
+    "score": 252.5
+  },
+  {
     "repo": "DexForce/EmbodiChain",
     "stars": 205,
     "language": "Python",
@@ -278,6 +298,16 @@
     "date": "2026-08-05",
     "topic": "robot-learning",
     "score": 82.1
+  },
+  {
+    "repo": "johnsutor/so101-nexus",
+    "stars": 31,
+    "language": "Python",
+    "description": "Full-stack robot learning for the SO-101 arm: teleoperation, imitation learning, and RL in MuJoCo.",
+    "url": "https://github.com/johnsutor/so101-nexus",
+    "date": "2026-08-05",
+    "topic": "lerobot",
+    "score": 12.5
   },
   {
     "repo": "alireza787b/mavsdk_drone_show",
@@ -338,16 +368,6 @@
     "date": "2026-08-04",
     "topic": "robot-learning",
     "score": 67.7
-  },
-  {
-    "repo": "johnsutor/so101-nexus",
-    "stars": 31,
-    "language": "Python",
-    "description": "Full-stack robot learning for the SO-101 arm: teleoperation, imitation learning, and RL in MuJoCo.",
-    "url": "https://github.com/johnsutor/so101-nexus",
-    "date": "2026-08-04",
-    "topic": "lerobot",
-    "score": 12.5
   },
   {
     "repo": "fiveages-sim/lerobot_ros2",
@@ -411,13 +431,13 @@
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
-    "stars": 2189,
+    "stars": 2190,
     "language": "",
     "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
     "url": "https://github.com/LMD0311/Awesome-World-Model",
     "date": "2026-08-03",
     "topic": "world-model",
-    "score": 875.7
+    "score": 876.1
   },
   {
     "repo": "galilai-group/stable-worldmodel",
@@ -431,23 +451,23 @@
   },
   {
     "repo": "PathOn-AI/pathon_opensource",
-    "stars": 126,
+    "stars": 127,
     "language": "Python",
     "description": "Collection of Materials on building and controlling real robots",
     "url": "https://github.com/PathOn-AI/pathon_opensource",
     "date": "2026-08-03",
     "topic": "lerobot",
-    "score": 50.5
+    "score": 50.9
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15260,
+    "stars": 15261,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6104.1
+    "score": 6104.5
   },
   {
     "repo": "aalmuzairee/squint",
@@ -490,16 +510,6 @@
     "score": 897.3
   },
   {
-    "repo": "vikashplus/robohive",
-    "stars": 631,
-    "language": "Python",
-    "description": "A unified framework for robot learning",
-    "url": "https://github.com/vikashplus/robohive",
-    "date": "2026-07-31",
-    "topic": "robot-learning",
-    "score": 252.5
-  },
-  {
     "repo": "Mr-C4T/AB-SO-BOT",
     "stars": 67,
     "language": "Python",
@@ -518,16 +528,6 @@
     "date": "2026-07-30",
     "topic": "vla",
     "score": 509.3
-  },
-  {
-    "repo": "nasa-jpl/open-source-rover",
-    "stars": 9557,
-    "language": "Prolog",
-    "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
-    "url": "https://github.com/nasa-jpl/open-source-rover",
-    "date": "2026-07-29",
-    "topic": "robotics",
-    "score": 3822.9
   },
   {
     "repo": "zli12321/Vision-Language-Models-Overview",
@@ -711,13 +711,13 @@
   },
   {
     "repo": "nv-tlabs/lyra",
-    "stars": 2203,
+    "stars": 2205,
     "language": "Python",
     "description": "Project Lyra: Open Generative 3D World Models",
     "url": "https://github.com/nv-tlabs/lyra",
     "date": "2026-07-20",
     "topic": "world-model",
-    "score": 881.3
+    "score": 882.1
   },
   {
     "repo": "OpenDriveLab/WorldEngine",
