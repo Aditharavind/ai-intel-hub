@@ -1,5 +1,14 @@
 [
   {
+    "model": "Myungkyu/hiwrld-baseline-ckpts-real-robot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Myungkyu/hiwrld-baseline-ckpts-real-robot",
+    "date": "2026-08-05",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "OpenWAM/RoboTwin_DualSystem_JointSelfAttn_Mutual",
     "downloads": 0,
     "likes": 0,
@@ -32,7 +41,7 @@
     "likes": 0,
     "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
     "date": "2026-08-05",
-    "keyword": "vla",
+    "keyword": "robot",
     "score": 120.1
   },
   {
@@ -99,6 +108,87 @@
     "score": 0.1
   },
   {
+    "model": "sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__no_mask__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "kurushun/dobot-vla-xvla-ab-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kurushun/dobot-vla-xvla-ab-v2",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "erl-hub/pls-vla-skill-predictor",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/erl-hub/pls-vla-skill-predictor",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "kurushun/dobot-vla-xvla-b-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kurushun/dobot-vla-xvla-b-v2",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "flashrt/flashrt-vla-residual-gates",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/flashrt/flashrt-vla-residual-gates",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "kurushun/dobot-vla-pi05-ab",
     "downloads": 0,
     "likes": 0,
@@ -126,75 +216,12 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0",
+    "model": "flashrt/world-model-conv",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0",
+    "url": "https://huggingface.co/flashrt/world-model-conv",
     "date": "2026-08-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__no_mask__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0",
-    "date": "2026-08-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "alecs-vlad24/cv-structuring-llm-2026-08-05_14.19",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/alecs-vlad24/cv-structuring-llm-2026-08-05_14.19",
-    "date": "2026-08-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "siliconperception/VLA",
-    "downloads": 144,
-    "likes": 0,
-    "url": "https://huggingface.co/siliconperception/VLA",
-    "date": "2026-08-05",
-    "keyword": "vla",
-    "score": 43.3
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__mask__blur__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blur__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Aikwed/lingbot-vla-pick-and-place-toy-to-bucket-epoch-3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Aikwed/lingbot-vla-pick-and-place-toy-to-bucket-epoch-3",
-    "date": "2026-08-05",
-    "keyword": "vla",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -351,15 +378,6 @@
     "score": 0.1
   },
   {
-    "model": "eonzhang/robotclaw-act-exp1-udisk-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/eonzhang/robotclaw-act-exp1-udisk-v2",
-    "date": "2026-08-04",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "knightnemo/hdf-world-model-ogbench-cube-triple",
     "downloads": 0,
     "likes": 0,
@@ -430,15 +448,6 @@
     "date": "2026-08-04",
     "keyword": "robotics",
     "score": 5.3
-  },
-  {
-    "model": "flashrt/world-model-conv",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/flashrt/world-model-conv",
-    "date": "2026-08-02",
-    "keyword": "world model",
-    "score": 0.1
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-stage2-lora-epoch3-v1",
