@@ -1,15 +1,9 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-04 23:50 UTC
+Generated: 2026-08-05 01:13 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-08-03 | WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity | [link](https://arxiv.org/pdf/2608.02603v1) |
-| 2026-08-03 | Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data | [link](https://arxiv.org/pdf/2608.02580v1) |
-| 2026-08-03 | CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs | [link](https://arxiv.org/pdf/2608.02578v1) |
-| 2026-08-03 | Foundation Models for Astrophysics | [link](https://arxiv.org/pdf/2608.02573v1) |
-| 2026-08-03 | Situation Aware Frontier Prioritization for Quadruped Search and Rescue | [link](https://arxiv.org/pdf/2608.02571v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |

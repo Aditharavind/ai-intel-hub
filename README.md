@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-04 23:50 UTC
+Last Updated: 2026-08-05 01:13 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-05 | Ambiq Launches heliaPROFILER for Edge AI Development | Embedded.com | [link](https://www.embedded.com/ambiq-launches-heliaprofiler-for-edge-ai-development/) |
+| 2026-08-05 | Ten Best Inventions This Year | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/ten-best-inventions-this-year-2026-08/) |
 | 2026-08-04 | Tearing Down Aircraft Weather Radar Avionics | Hackaday | [link](https://hackaday.com/2026/08/04/tearing-down-aircraft-weather-radar-avionics/) |
 | 2026-08-04 | Strengthening 3D Prints with a Carbon-Fiber Epidermis | Hackaday | [link](https://hackaday.com/2026/08/04/strengthening-3d-prints-with-a-carbon-fiber-epidermis/) |
 | 2026-08-04 | At Last! CP/M for Protected Mode | Hackaday | [link](https://hackaday.com/2026/08/04/at-last-cp-m-for-protected-mode/) |
@@ -57,50 +59,37 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-04 | Road Trains Roam The Backroads of Australia | Hackaday | [link](https://hackaday.com/2026/08/04/road-trains-roam-the-backroads-of-australia/) |
 | 2026-08-04 | Testing Hundreds of Used LFP Cells Requires Some Automation | Hackaday | [link](https://hackaday.com/2026/08/04/testing-hundreds-of-used-lfp-cells-requires-some-automation/) |
 | 2026-08-04 | reComputer Mini J501 Edge AI computer features NVIDIA Jetson AGX Orin 64GB/32GB module, two FAKRA camera connectors | CNX Software | [link](https://www.cnx-software.com/2026/08/04/recomputer-mini-j501-edge-ai-computer-features-nvidia-jetson-agx-orin-64gb-32gb-module-two-fakra-camera-connectors/) |
-| 2026-08-04 | Espressif ESP32-C61-MINI-1/1U Wi-Fi 6 and BLE IoT module launched for about $2 | CNX Software | [link](https://www.cnx-software.com/2026/08/04/espressif-esp32-c61-mini-1-1u-wi-fi-6-and-ble-iot-module-2-dollars/) |
-| 2026-08-04 | BG2B is the lowest-power Bluetooth LE SoC from Silicon Labs so far | CNX Software | [link](https://www.cnx-software.com/2026/08/04/bg2b-lowest-power-bluetooth-le-soc-from-silicon-labs/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-08-03 | WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity | [link](https://arxiv.org/pdf/2608.02603v1) |
-| 2026-08-03 | Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data | [link](https://arxiv.org/pdf/2608.02580v1) |
-| 2026-08-03 | CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs | [link](https://arxiv.org/pdf/2608.02578v1) |
-| 2026-08-03 | Foundation Models for Astrophysics | [link](https://arxiv.org/pdf/2608.02573v1) |
-| 2026-08-03 | Situation Aware Frontier Prioritization for Quadruped Search and Rescue | [link](https://arxiv.org/pdf/2608.02571v1) |
-| 2026-08-03 | Why Does Action Chunking Improve Behavioral Cloning Performance in Robotic Control? | [link](https://arxiv.org/pdf/2608.02547v1) |
-| 2026-08-03 | Probabilistic Reachable-Action Verification of Visuomotor Policies via Set-Based Training | [link](https://arxiv.org/pdf/2608.02545v1) |
-| 2026-08-03 | Safe and robust tube-based path-following for robot navigation | [link](https://arxiv.org/pdf/2608.02530v1) |
-| 2026-08-03 | Grounded Semantic Re-Binding for Robust Instruction Generalization in Vision-Language-Action Models | [link](https://arxiv.org/pdf/2608.02497v1) |
-| 2026-08-03 | Certifying Plans under Model Mismatch: A Trilemma for Reachability from Scarce Data | [link](https://arxiv.org/pdf/2608.02453v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-05 | chayen1/robotlegs-qwen3.5-4b-onnx | 0 | 0 | [link](https://huggingface.co/chayen1/robotlegs-qwen3.5-4b-onnx) |
+| 2026-08-05 | sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-05 | sam-guided-vlas/train_1_2__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-05 | sam-guided-vlas/train_1_2__mask__separate_channel__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__separate_channel__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-05 | sam-guided-vlas/train_1_2__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-05 | cbrian/policy_pi05_libero_dataset_MDWC15_steps_10000_ctrl_cartesian | 0 | 0 | [link](https://huggingface.co/cbrian/policy_pi05_libero_dataset_MDWC15_steps_10000_ctrl_cartesian) |
 | 2026-08-04 | eonzhang/robotclaw-act-exp1-udisk-v2 | 0 | 0 | [link](https://huggingface.co/eonzhang/robotclaw-act-exp1-udisk-v2) |
 | 2026-08-04 | locht131/adjust_bottle_robot_only | 0 | 0 | [link](https://huggingface.co/locht131/adjust_bottle_robot_only) |
 | 2026-08-04 | x-tangle/robotomy | 107 | 1 | [link](https://huggingface.co/x-tangle/robotomy) |
 | 2026-08-04 | robotaa/260804_grab_toy2 | 0 | 0 | [link](https://huggingface.co/robotaa/260804_grab_toy2) |
-| 2026-08-04 | RobotisSW/Task0804_PickUp_Jelly_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task0804_PickUp_Jelly_30K) |
-| 2026-08-04 | XiaomiRobotics/Xiaomi-Robotics-1-5B | 12 | 2 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-5B) |
-| 2026-08-04 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 727 | 22 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
-| 2026-08-04 | RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora | 0 | 0 | [link](https://huggingface.co/RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora) |
-| 2026-08-04 | polarisai-robots/bento_v2_openarm_pi05 | 30 | 0 | [link](https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05) |
-| 2026-08-04 | RobotisSW/Groot-n17-pick_chestnuts_60k | 7 | 0 | [link](https://huggingface.co/RobotisSW/Groot-n17-pick_chestnuts_60k) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| google-deepmind/mujoco | 14442 | C++ | 5776.9 | [link](https://github.com/google-deepmind/mujoco) |
+| dora-rs/dora | 3864 | Rust | 1545.7 | [link](https://github.com/dora-rs/dora) |
+| flashrt-project/FlashRT | 482 | C++ | 192.9 | [link](https://github.com/flashrt-project/FlashRT) |
+| ROBOTIS-GIT/ai_worker | 158 | Python | 63.3 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
+| isaac-sim/IsaacLab | 7834 | Python | 3133.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 | NVIDIA/skills | 2791 | Python | 1116.5 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1438 | Rust | 575.3 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 309 | Python | 123.7 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 63325 | Python | 25330.1 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 16084 | Python | 6433.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15613 | C++ | 6245.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14441 | C++ | 5776.5 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 12813 | JavaScript | 5125.3 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -124,25 +113,25 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
 | 2026-08-03 | Ropedia Raises $30M to Scale Data Infrastructure for Physical AI - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3c4VW1OYWVWNmVDN3F6dVVJNzFVREFsMkZGV2s0bzF6SmV1WE5NR0QtNGQ4VERIMzJqaVZoZ0RZckJsc0JWaXRuNGhBRDlCT3VaelRqRlFuYlVydzNJcVBWOVE3V29kRXRkRVpYcl9vOFB3OGVhbDE3ZW9VQXpoTnpKQkp1c0RwMU9iSUFmdXRWYkxCVGJCa1RVLUdXQ2hreWFF?oc=5) |
 | 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
+| 2026-08-03 | Tech Brief (Aug. 4): Alibaba Launches New Large Model to Power Enterprise-Facing AI Agent - inkl | embodied ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcnpVX1loSzRwc0I5SU9EUVFNblVKQ1VaMHRZZlVDNEh5Q256X01xUUxETzJqWlg2eEJuNGlJMWl2YTkwMTlMc0ZseUFnZXk1dXpBeThGOWVzemtXQzk1N0tYSVI5ODEwSmV3Q0Q2MzlSOEpRdEJ1a3BHdjJQRHM4aWRidjB4UnpiMGNrOVAzdXNPdHROWktPYUtTLWNleXlrRFBHdG5reGRVT3JmLUlTNw?oc=5) |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
 | 2026-07-31 | Korean Physical AI Startups Face a Hard Truth: A 98% Accurate AI Model Can Still Fail Inside a Robot - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbm56aHN1cU9VNW02QnJBTTJDcmhQS19ITE9kX2w4VnVrREpUS0dWeW1Ya191UDB3SjBRcmd0U2kwYWFIUGZFVkJXOG9KVEZpcmVwNjYtYkJjRTFZT3BvMncwMV9BeUk4ejRrcl9yc2F4OHhPTEJCTHRtdnhRN0dzMUZxT3ZUZlZNa0E?oc=5) |
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
 | 2026-07-31 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
-| 2026-07-31 | San Francisco company offers cleaning service using humanoid robots - ABC News - Breaking News, Latest News and Videos | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPU09xRXh1cjdLQ3JaVW80MnVtcHhDLXp3dmFua2xfQnVodDVZbnVzVHpQMms5UzJra1ZjWFQtRE9ObFVpSnVtTmJDYkxrenRoelV6SlhibVdPSHhiYi00SE9OSHdqcHA5OEF4Rk1Ga2dKakVfWXEzOTZsUzhuc2g0QWYzbVl6LVZrMk04V0YzUjFBQlJJQ1NYcE1tTGJYMG1DWG9WYjhBZkEyc3Zkc1N1X9IBtgFBVV95cUxQTGZibk1YenNFTGRWLXJJMEZNMGVINUNLdzNUV0laX09zS19pa2Z1MjBiZjdzZU5JWl9lQUh3cDA5cGdxTTZKMnI5NkdIM2tZOUJBUnBBTVFjTFJWSFJ5c1AyTDN0cFFYUVZhaTBOM2Q0cWJtWl9CeGJPUXpaNGFnSWk3QmhDeW41TXRxUEdPTWhNT1JkSHRlMlItV19MbzJHWENDelpBSHN6ZkhheDQ0bjlpdGZLQQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-04 | CNC Machinist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4440430006) |
 | 2026-08-04 | Fabricator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4439202006) |
+| 2026-08-04 | Facilities Coordinator (CDMX) | Figure AI | Mexico City, MX | [link](https://job-boards.greenhouse.io/figureai/jobs/4702553006) |
 | 2026-08-04 | Facilities Coordinator (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702533006) |
 | 2026-08-04 | Gear Machinist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4690458006) |
-| 2026-08-04 | Humanoid Robot Operator & Data Creator — Fontana, CA (Customer Site) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4700899006) |
+| 2026-08-04 | Humanoid Robot Operator & Data Creator — Fontana, CA (Customer Site) | Figure AI | Fontana, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4700899006) |
 | 2026-08-04 | IT Coordinator (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702538006) |
+| 2026-08-04 | Operations & Logistics Coordinator (CDMX) | Figure AI | Mexico City, CDMX | [link](https://job-boards.greenhouse.io/figureai/jobs/4702556006) |
 | 2026-08-04 | Operations & Logistics Coordinator (SP)  | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702541006) |
-| 2026-08-04 | People Coordinator (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702540006) |
-| 2026-08-04 | Shift Coordinator, Data Creators (CDMX) | Figure AI | Ciudad de México | [link](https://job-boards.greenhouse.io/figureai/jobs/4702544006) |
-| 2026-08-04 | Site Lead (Night Shift)- Commercial Site Team (LA) | Figure AI | Fontana, California | [link](https://job-boards.greenhouse.io/figureai/jobs/4702369006) |
+| 2026-08-04 | People Coordinator (CDMX) | Figure AI | Mexico City, MX | [link](https://job-boards.greenhouse.io/figureai/jobs/4702555006) |
 
 ## Automation
 

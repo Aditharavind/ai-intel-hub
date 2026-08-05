@@ -1,5 +1,59 @@
 [
   {
+    "model": "chayen1/robotlegs-qwen3.5-4b-onnx",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/chayen1/robotlegs-qwen3.5-4b-onnx",
+    "date": "2026-08-05",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "cbrian/policy_pi05_libero_dataset_MDWC15_steps_10000_ctrl_cartesian",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/cbrian/policy_pi05_libero_dataset_MDWC15_steps_10000_ctrl_cartesian",
+    "date": "2026-08-05",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "eonzhang/robotclaw-act-exp1-udisk-v2",
     "downloads": 0,
     "likes": 0,
@@ -99,55 +153,10 @@
     "score": 1.9
   },
   {
-    "model": "RobotisSW/Groot-n17-pick_chestnuts_70k",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Groot-n17-pick_chestnuts_70k",
-    "date": "2026-08-04",
-    "keyword": "robot",
-    "score": 1.9
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "ISdept/wiltechs-vla-moe-36k",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/ISdept/wiltechs-vla-moe-36k",
-    "date": "2026-08-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-04",
     "keyword": "vla",
     "score": 0.1
@@ -376,15 +385,6 @@
     "date": "2026-08-04",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "rdteteam/converted_test_bags_policy",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/rdteteam/converted_test_bags_policy",
-    "date": "2026-08-04",
-    "keyword": "policy",
-    "score": 6.7
   },
   {
     "model": "flashrt/world-model-conv",

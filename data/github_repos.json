@@ -1,5 +1,55 @@
 [
   {
+    "repo": "google-deepmind/mujoco",
+    "stars": 14442,
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "date": "2026-08-05",
+    "topic": "robotics",
+    "score": 5776.9
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3864,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-08-05",
+    "topic": "embodied-ai",
+    "score": 1545.7
+  },
+  {
+    "repo": "flashrt-project/FlashRT",
+    "stars": 482,
+    "language": "C++",
+    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
+    "url": "https://github.com/flashrt-project/FlashRT",
+    "date": "2026-08-05",
+    "topic": "vla",
+    "score": 192.9
+  },
+  {
+    "repo": "ROBOTIS-GIT/ai_worker",
+    "stars": 158,
+    "language": "Python",
+    "description": "AI Worker: FFW (Freedom From Work)",
+    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
+    "date": "2026-08-05",
+    "topic": "humanoid",
+    "score": 63.3
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7834,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-08-05",
+    "topic": "robot-learning",
+    "score": 3133.7
+  },
+  {
     "repo": "NVIDIA/skills",
     "stars": 2791,
     "language": "Python",
@@ -80,34 +130,24 @@
     "score": 6245.3
   },
   {
-    "repo": "google-deepmind/mujoco",
-    "stars": 14441,
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "url": "https://github.com/google-deepmind/mujoco",
-    "date": "2026-08-04",
-    "topic": "robotics",
-    "score": 5776.5
-  },
-  {
     "repo": "earthtojake/text-to-cad",
-    "stars": 12813,
+    "stars": 12816,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-04",
     "topic": "robotics",
-    "score": 5125.3
+    "score": 5126.5
   },
   {
     "repo": "kornia/kornia",
-    "stars": 11301,
+    "stars": 11302,
     "language": "Python",
     "description": "🐍 Geometric Computer Vision Library for Spatial AI",
     "url": "https://github.com/kornia/kornia",
     "date": "2026-08-04",
     "topic": "robotics",
-    "score": 4520.5
+    "score": 4520.9
   },
   {
     "repo": "rerun-io/rerun",
@@ -121,23 +161,13 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4422,
+    "stars": 4424,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-04",
     "topic": "embodied-ai",
-    "score": 1768.9
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3864,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-08-04",
-    "topic": "embodied-ai",
-    "score": 1545.7
+    "score": 1769.7
   },
   {
     "repo": "mani-skill/ManiSkill",
@@ -148,16 +178,6 @@
     "date": "2026-08-04",
     "topic": "robot-learning",
     "score": 1280.5
-  },
-  {
-    "repo": "flashrt-project/FlashRT",
-    "stars": 482,
-    "language": "C++",
-    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
-    "url": "https://github.com/flashrt-project/FlashRT",
-    "date": "2026-08-04",
-    "topic": "vla",
-    "score": 192.9
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -191,13 +211,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5848,
+    "stars": 5849,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-04",
     "topic": "world-model",
-    "score": 2339.3
+    "score": 2339.7
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -230,16 +250,6 @@
     "score": 162.1
   },
   {
-    "repo": "ROBOTIS-GIT/ai_worker",
-    "stars": 158,
-    "language": "Python",
-    "description": "AI Worker: FFW (Freedom From Work)",
-    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
-    "date": "2026-08-04",
-    "topic": "humanoid",
-    "score": 63.3
-  },
-  {
     "repo": "OpenDriveLab/RoboNaldo",
     "stars": 38,
     "language": "Python",
@@ -248,16 +258,6 @@
     "date": "2026-08-04",
     "topic": "humanoid",
     "score": 15.3
-  },
-  {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7834,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-08-04",
-    "topic": "robot-learning",
-    "score": 3133.7
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -271,13 +271,13 @@
   },
   {
     "repo": "emNavi/AirGym",
-    "stars": 168,
+    "stars": 169,
     "language": "Python",
     "description": "A high-performance drone deep reinforcement learning platform built upon IsaacGym.",
     "url": "https://github.com/emNavi/AirGym",
     "date": "2026-08-04",
     "topic": "robot-learning",
-    "score": 67.3
+    "score": 67.7
   },
   {
     "repo": "johnsutor/so101-nexus",
@@ -301,13 +301,13 @@
   },
   {
     "repo": "NVlabs/alpamayo",
-    "stars": 1964,
+    "stars": 1965,
     "language": "Python",
     "description": "NVIDIA Alpamayo 1 Nano is an open 10B reasoning VLA model for autonomous vehicles that pairs driving trajectories with Chain-of-Causation reasoning.",
     "url": "https://github.com/NVlabs/alpamayo",
     "date": "2026-08-03",
     "topic": "vla",
-    "score": 785.7
+    "score": 786.1
   },
   {
     "repo": "Edgenesis/shifu",
@@ -411,13 +411,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 2997,
+    "stars": 2999,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-01",
     "topic": "embodied-ai",
-    "score": 1198.9
+    "score": 1199.7
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -501,13 +501,13 @@
   },
   {
     "repo": "nasa-jpl/open-source-rover",
-    "stars": 9554,
+    "stars": 9555,
     "language": "Prolog",
     "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
     "url": "https://github.com/nasa-jpl/open-source-rover",
     "date": "2026-07-29",
     "topic": "robotics",
-    "score": 3821.7
+    "score": 3822.1
   },
   {
     "repo": "zli12321/Vision-Language-Models-Overview",
@@ -591,13 +591,13 @@
   },
   {
     "repo": "phi-monster/Galahad",
-    "stars": 144,
+    "stars": 145,
     "language": "Python",
     "description": "Instruction blindness in vision-language-action policies: diagnosis and a low-rank data cure. Paper, model, deconfounded datasets, generator, and the measurement battery.",
     "url": "https://github.com/phi-monster/Galahad",
     "date": "2026-07-25",
     "topic": "robot-learning",
-    "score": 57.7
+    "score": 58.1
   },
   {
     "repo": "thu-ml/Causal-Forcing",
@@ -840,6 +840,16 @@
     "score": 1242.9
   },
   {
+    "repo": "nik-55/world-models",
+    "stars": 245,
+    "language": "",
+    "description": "A curated list of research and projects on world models",
+    "url": "https://github.com/nik-55/world-models",
+    "date": "2026-07-06",
+    "topic": "physical-ai",
+    "score": 98.1
+  },
+  {
     "repo": "OpenDriveLab/RISE",
     "stars": 332,
     "language": "Python",
@@ -858,15 +868,5 @@
     "date": "2026-07-06",
     "topic": "lerobot",
     "score": 23.3
-  },
-  {
-    "repo": "cartesiancs/vessel",
-    "stars": 328,
-    "language": "TypeScript",
-    "description": "🦾 Runtime for Physical AI. Connect streams. Detect events. Control your world.",
-    "url": "https://github.com/cartesiancs/vessel",
-    "date": "2026-07-05",
-    "topic": "physical-ai",
-    "score": 131.3
   }
 ]
