@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-05 20:51 UTC
+Last Updated: 2026-08-05 22:02 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -93,13 +93,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 2798 | Python | 1119.3 | [link](https://github.com/NVIDIA/skills) |
 | NVlabs/alpamayo | 1968 | Python | 787.3 | [link](https://github.com/NVlabs/alpamayo) |
-| copper-project/copper-rs | 1440 | Rust | 576.1 | [link](https://github.com/copper-project/copper-rs) |
+| copper-project/copper-rs | 1441 | Rust | 576.5 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | NVlabs/alpamayo1.5 | 351 | Python | 140.5 | [link](https://github.com/NVlabs/alpamayo1.5) |
 | commaai/openpilot | 63338 | Python | 25335.3 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 16090 | Python | 6436.1 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15623 | C++ | 6249.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| zauberzeug/nicegui | 16091 | Python | 6436.5 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15624 | C++ | 6249.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14458 | C++ | 5783.3 | [link](https://github.com/google-deepmind/mujoco) |
 
 ## Startup Funding
@@ -107,6 +107,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-08-05 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbHJEd1BqVzk1VEFYRjRaUzdYbjdSSDRhTDB4Y2ZmUzFBLTFaR0dETW1MV1V4Uk4yeXlTaTBmZ2JxS3RFRThhSU43RWR4UFpieHAxX2ZYaWtPMXJOSzg4RjNyeFIycW9mWGl1ZzZCUFc4NFQ2VTIzbFdtRFFNbk93Y1RjajByMGNjR1Z2WDNGcjFHYlZVajlDWXNTVF9oUDZUYTEzby13MHNtMXlES1doejV1Z2JmQ0MxTFFEcW93MkM?oc=5) |
 | 2026-08-05 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE50TTk2WDl2Zy00emJXTmRNN0xoWjNGaWxnaWQwRDJLamRNMVVTZ2hrblBJcjhyWmxrZXdKOG1RM1N0T0hvYnpKM0dkS0FrVEIwQ25nMGt6YzJmOWZrLUNPM2pn?oc=5) |
+| 2026-08-05 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GZi1tRUktTHpxWXlQbGM2amxncms3U2hzUDFWZ2lCVkstb0s3RUtRR0hCb3doay1PdlllSnpDTW1La0h5d1FvMDBoaWhuRDBK?oc=5) |
 | 2026-08-05 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidEFVX3lxTFBfMmRTNTJ0NkZocDlIVVN2SzZvRFJZaVNwMFVVcjNZTG4xTU5oMEZoOHYyZU5QWXpaYjBjTGxyeGJZeGpteFNWaklyWUdkV0h1cEwxWjNHUy1HMEJ2MFhDWVhWMnEybG4zVE9lclFCS3VDMUxt?oc=5) |
 | 2026-08-04 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiZkFVX3lxTE44dVhWQmM1ZlZ1akcxRURzcDFGOGRXUGctZHY3NHdZTHlrRDBNUzdXZEUya3JKSTdac3dsSlhmQzBUeUx2Nk9ZTHJFSEZhTnBBZ0xzakVZOHVMRWJTd2c4Mm9ZODVLZw?oc=5) |
 | 2026-08-04 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeFI1US1Ka192d05hZGZpbkQ3S25oZ2JNSUN5Wi0xbG8wS25uWnB4UF9fNkRIV0lFOFU4eFY0Y2hMSWZWaHI4cm9Uazlsem5RZS1JMkNPNFViVTcxT1BDbFp1QjVSVlFpbzcyLVlBTWVpNDlFNXUzdERXM1BQS0Z2cGpnSkJpQWtzZjJQRmJqVE9YNXJ1MGdOMGhVdjZMQ2pOQ1BrLUNnZkRCaEIwWmRPVVFxSXFLcU1jd2dyYkgwNURpVkFLQjFWSnVzeGlmRnJYdDkyeHZGMUhQMWFYMEJJ?oc=5) |
@@ -114,12 +115,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-04 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmUwN2RkcUxlVDNLSllSYmtFNzdtLTdDZVd3cEV0UjNmYU1lX2xVMkp0M1pDeEw4RHFJSGg2M0NIUUx3V05oZW1Udml2a2ZxaE9ESVpDN2RKQjQyd2h0cC1ncWpWUHhRMzNGbFFyWFFRdEdTVkpJUWtqNmdWR1h3TEFXa0F2ZWlIU2dRZWFoTU5ZRGRQMkllQl82a3lBaDA?oc=5) |
 | 2026-08-04 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHRFbDFSRkw0dENJWGo1Qk5NZnBrM0E1cnIta0ctX2ZsZ1kya3ZxMTM2VHVCeFFVWDhDYnpuOEJmZlpCT2RtS1BxUnZMUnFSR1dDTHRFVXNad3Q2WmpsWmhnaV9LZkFEMFlQLVNXeVh6ZnRsd0xJVm93eF80U2lUeDI1OUpUdw?oc=5) |
 | 2026-07-31 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZzdWcHBCZmdvN2J3RTlqVUdmLXB3WUNjSEpQMHA0REduNVcyckdoeHg3LTZkd1pwOTF6cldiUEJ5SXBET2RqbEhPUFhVZHotXzVqTnlXV0tCQTlrOUJ6ZnhZQ1ZxRmIwamJ4WXNnbGR2U01EOUZzeW1JdEFuMWV4Y2dPMTlxbklkMmxJVVJLaDdWTnpwTVJRYzJHQ3MyMDl0Tlh6V2d2N3FxbGt6ck5faXRiQlZudDhVWEhhUGk5OFUzZG1tZGdHYzlfS0plREZHVnc?oc=5) |
-| 2026-07-31 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQazRPbW5hem55NV9sQ1RpWE53YWFmTk00MWlvbXhKZ3ppdWVDVDFOVlhLQUxUUFdQRzNxVk5YNDRtbC0zWGVCcEM2YTU3SWVUbDMxU0ZEN2Q4U1p5Q2lPMmUwVGY5M2k4WHlGdndJVlBDRHo5TGZLS3FhYW9FcjNvaGZRbDgtQ2ZDWUt0RGNtWm1mMnRaamJYY3dMM2Zpd2o5b21XSg?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-05 | Shelfmark raises $3.5M to scale physical AI and hire in Pittsburgh - Technical.ly | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0RmRnJhX2tKTzVpOTl3U2JYT3lUVHRuSER0MDdZdzRsRmtmamR0RU1zcDFfQWxjOE5VUEtDYV83X3BWSGFLMGxCYjVuT0QyREpIOGh4RS1rSG0tai0zaUR6Tk9MQTJaYmxGXzRiUjdpMFcxYnhTQWYzRWprQ0hubDdZNFk1RGFKOTh0UHhUSHYtZw?oc=5) |
+| 2026-08-05 | Felicis Bets Big on Physical AI and Robotics Expansion - AI CERTs | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVmJ2Qm5fZzdCbzlrRVo5MzBSMjRTakFHUlFqNGhqQUZZcEtjQXg5X2psaWlONWtKbjlDc3ltX2dLU0ZHUUhhMFBZbTNtdnhMRldPZGZ5V0FqdlJuajNBLVFXMGRyclppeDNZZ2tUVXR4TkJHV2pqWWhZVFhVX3hFTktSLWhuRVc0UnZr?oc=5) |
 | 2026-08-05 | Embodied-AI data infrastructure startup Kaiwang Data raises more than RMB100 million - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEQ1d1ItMXdNMGFZc01vd3NXU1Q4MENTXzNXRVZoVzlrNENpV1d2MXM5NEstOHBsTkxPdF9IWnNJMWg2blpBa2tQQnJYWUZHQWg0TGZ6Ym5qNzlhX2N4OG02cmtQUV9IWXZYaVVZaktIdk55YXVfOTJKS3hxaE55R3VGMEFxaFVtaHRzYmkyZGtWaVJfYXZVMmpuZXMyazU4SzNNZ0ZkaHBjcjdJVWVKVEF6OW9hcU1i?oc=5) |
 | 2026-08-05 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
@@ -128,11 +129,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-03 | The VC firm behind Shopify is doubling down on robotics and defense - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbVNpVE44QnpMNW5GWlkycDJwV1U5TUpsS1RsdzdYbFJiYVRUWjg1UG1mU2pLbi0tXzRfTERNWExoQ04tZXl3R1BDbWt6eXRYd283aEhaSUpzRmhjT19FaDFyd19hbmVSS3VROXlyZ0RNRTVQNkVieUNkd24tRHFobWs5UDJ0Z0lpOFNOVHJ5U3dwakpIbXl1aGJESlFLclJFMGhiXw?oc=5) |
 | 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - The Business Journals | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
-| 2026-07-31 | Korean Physical AI Startups Face a Hard Truth: A 98% Accurate AI Model Can Still Fail Inside a Robot - koreatechdesk.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbm56aHN1cU9VNW02QnJBTTJDcmhQS19ITE9kX2w4VnVrREpUS0dWeW1Ya191UDB3SjBRcmd0U2kwYWFIUGZFVkJXOG9KVEZpcmVwNjYtYkJjRTFZT3BvMncwMV9BeUk4ejRrcl9yc2F4OHhPTEJCTHRtdnhRN0dzMUZxT3ZUZlZNa0E?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-05 | IT Coordinator (CDMX) | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4702863006) |
 | 2026-08-05 | Logistics & Dispatch Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4702689006) |
 | 2026-08-04 | CNC Machinist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4440430006) |
 | 2026-08-04 | Fabricator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4439202006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-04 | Humanoid Robot Operator & Data Creator — Fontana, CA (Customer Site) | Figure AI | Fontana, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4700899006) |
 | 2026-08-04 | IT Coordinator (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702538006) |
 | 2026-08-04 | Operations & Logistics Coordinator (CDMX) | Figure AI | Mexico City, CDMX | [link](https://job-boards.greenhouse.io/figureai/jobs/4702556006) |
-| 2026-08-04 | Operations & Logistics Coordinator (SP)  | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702541006) |
 
 ## Automation
 
