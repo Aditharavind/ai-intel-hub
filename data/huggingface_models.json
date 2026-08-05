@@ -1,5 +1,14 @@
 [
   {
+    "model": "MINT-SJTU/Evo1_RoboTwin2_clean",
+    "downloads": 24,
+    "likes": 0,
+    "url": "https://huggingface.co/MINT-SJTU/Evo1_RoboTwin2_clean",
+    "date": "2026-08-05",
+    "keyword": "robot",
+    "score": 7.3
+  },
+  {
     "model": "RobotisSW/test_1",
     "downloads": 0,
     "likes": 0,
@@ -15,6 +24,60 @@
     "url": "https://huggingface.co/chayen1/robotlegs-qwen3.5-4b-onnx",
     "date": "2026-08-05",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__no_mask__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "kurushun/dobot-vla-xvla-ab",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kurushun/dobot-vla-xvla-ab",
+    "date": "2026-08-05",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -72,30 +135,12 @@
     "score": 0.1
   },
   {
-    "model": "vladcat222/ntrMIXIllustriousXL_xiii_QNN2.28",
+    "model": "RubetekRobotics/UR10e-LinearGripper-Jig-SimDist-WorldModel",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/vladcat222/ntrMIXIllustriousXL_xiii_QNN2.28",
+    "url": "https://huggingface.co/RubetekRobotics/UR10e-LinearGripper-Jig-SimDist-WorldModel",
     "date": "2026-08-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "kurushun/dobot-vla-xvla-ab",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kurushun/dobot-vla-xvla-ab",
-    "date": "2026-08-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-05",
-    "keyword": "vla",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -123,6 +168,24 @@
     "url": "https://huggingface.co/physicalairi/so101_1200ep_pi05_20260805",
     "date": "2026-08-05",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "garagelab-duesseldorf/pap_green_foam_in_box-policy-v4b",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/garagelab-duesseldorf/pap_green_foam_in_box-policy-v4b",
+    "date": "2026-08-05",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "cbrian/policy_pi05_libero_dataset_MDWC15_steps_20000_ctrl_cartesian",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/cbrian/policy_pi05_libero_dataset_MDWC15_steps_20000_ctrl_cartesian",
+    "date": "2026-08-05",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -245,11 +308,11 @@
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-1-5B",
     "downloads": 12,
-    "likes": 3,
+    "likes": 4,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-5B",
     "date": "2026-08-04",
     "keyword": "robotics",
-    "score": 4.3
+    "score": 4.5
   },
   {
     "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
@@ -277,42 +340,6 @@
     "date": "2026-08-04",
     "keyword": "robot",
     "score": 9.1
-  },
-  {
-    "model": "RobotisSW/Groot-n17-pick_chestnuts_60k",
-    "downloads": 7,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Groot-n17-pick_chestnuts_60k",
-    "date": "2026-08-04",
-    "keyword": "robot",
-    "score": 2.2
-  },
-  {
-    "model": "ISdept/wiltechs-vla-moe-36k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ISdept/wiltechs-vla-moe-36k",
-    "date": "2026-08-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "kurushun/dobot-vla-smolvla-ab",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kurushun/dobot-vla-smolvla-ab",
-    "date": "2026-08-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "kurushun/dobot-vla-diffusion-b",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kurushun/dobot-vla-diffusion-b",
-    "date": "2026-08-04",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "knightnemo/hdf-world-model-ogbench-cube-triple",
@@ -396,24 +423,6 @@
     "score": 0.1
   },
   {
-    "model": "stefhannisse/cube_placement_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/stefhannisse/cube_placement_policy",
-    "date": "2026-08-04",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ntlfi/enpo-llama3-8b-eta-default-seed2-cuda13-iter3-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ntlfi/enpo-llama3-8b-eta-default-seed2-cuda13-iter3-policy",
-    "date": "2026-08-04",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "flashrt/world-model-conv",
     "downloads": 0,
     "likes": 0,
@@ -475,15 +484,6 @@
     "date": "2026-07-31",
     "keyword": "world model",
     "score": 6.7
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-stage2-lora-adapter-epoch2-v2",
-    "downloads": 23,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-stage2-lora-adapter-epoch2-v2",
-    "date": "2026-07-31",
-    "keyword": "world model",
-    "score": 7.0
   },
   {
     "model": "access-robotics-team/so-p5-pp-ma-260731-v2",
