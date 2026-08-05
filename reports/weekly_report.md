@@ -1,18 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-05 01:13 UTC
+Generated: 2026-08-05 04:50 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-08-04 | Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation | [link](https://arxiv.org/pdf/2608.03990v1) |
+| 2026-08-04 | Stochastic Multiple Shooting Trajectory Optimization via Sequential Local Policy Evaluation | [link](https://arxiv.org/pdf/2608.03978v1) |
+| 2026-08-04 | Prithvi-Precip: Integrating Satellite Observations into an Atmospheric AI Foundation Model for Precipitation Forecasting | [link](https://arxiv.org/pdf/2608.03959v1) |
+| 2026-08-04 | A game theory for foundation models shows new paths to rational cooperation through similarity inference | [link](https://arxiv.org/pdf/2608.03958v1) |
+| 2026-08-04 | Bimanual Manipulation Within an 8 GB Budget: Zero-Copy Sensing and Quantized ACT on an Entry-Level Jetson | [link](https://arxiv.org/pdf/2608.03938v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82919 | 33167.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63325 | 25330.1 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30241 | 12096.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 82921 | 33168.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63328 | 25331.3 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30244 | 12097.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16084 | 6433.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15613 | 6245.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15616 | 6246.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -26,17 +32,17 @@ _No items collected yet._
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-08-05 | Unitree |  | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE9VTzJZUERzbXpocHdleVpMLWFZR1ZEdWl3TkVyQlZMRjB0NTllZk1sM001WHpJVG5ldGdTQmNSakFrS21heklOX2ZMSEVEOFNrQVZ2VEc3dDF5Q1pmdnNseG9ZRldxZ2lWMnFybmxERDRBMExQMmFSVHdUaw?oc=5) |
 | 2026-08-04 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiZkFVX3lxTE44dVhWQmM1ZlZ1akcxRURzcDFGOGRXUGctZHY3NHdZTHlrRDBNUzdXZEUya3JKSTdac3dsSlhmQzBUeUx2Nk9ZTHJFSEZhTnBBZ0xzakVZOHVMRWJTd2c4Mm9ZODVLZw?oc=5) |
+| 2026-08-04 | Unitree |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzBJcnRzZ0xGcE5fanRrcmlXZGFYUG9WMDc0cFdNQmJCX2plV1h5anNuYk1zZVBKS1lpd29TSU5BS2ZMMWNobzhHUTVGdXhYMnRBcWx6cGwzdkVHaEJ1eGY5NlktVDdRZGZYRXU0MDV2LWh3aWFyanBnUWlUSlJoeTV2WkNzYXBMNFZua056aXBFeUI1RmtRcWgxTGR4a2pLYWpBbTRobC16dzQ0dkg3aVFTZ2lWTVVzTDlkSGp3Wlk2MHJ1Mi1HZFZPSUFlYnlx?oc=5) |
+| 2026-08-04 | Unitree |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmUwN2RkcUxlVDNLSllSYmtFNzdtLTdDZVd3cEV0UjNmYU1lX2xVMkp0M1pDeEw4RHFJSGg2M0NIUUx3V05oZW1Udml2a2ZxaE9ESVpDN2RKQjQyd2h0cC1ncWpWUHhRMzNGbFFyWFFRdEdTVkpJUWtqNmdWR1h3TEFXa0F2ZWlIU2dRZWFoTU5ZRGRQMkllQl82a3lBaDA?oc=5) |
 | 2026-08-04 | Unitree |  | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHRFbDFSRkw0dENJWGo1Qk5NZnBrM0E1cnIta0ctX2ZsZ1kya3ZxMTM2VHVCeFFVWDhDYnpuOEJmZlpCT2RtS1BxUnZMUnFSR1dDTHRFVXNad3Q2WmpsWmhnaV9LZkFEMFlQLVNXeVh6ZnRsd0xJVm93eF80U2lUeDI1OUpUdw?oc=5) |
-| 2026-08-04 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE1WQTFoeWd5Q2pTaGNLZWRlaHE5Mmw0eU5uam0zU05GR2J4b2FGWlJoeDdlTUF0aVh3emZNUWFETHVzcHlKSHpNMERSYndSUDl0bW5tVGdsY1FYTU5RaFRYNl85Vzd3QlpESmxDWTdZU0dCaHpZT3p4RnRB?oc=5) |
-| 2026-08-03 | Unitree |  | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxNS1pLN1IxYkk2aGJfY1pEblIxMGlUc3pCUFlGbmZpbGV2S29DYkI2RUFzemkwdjhodi1SaXZXby0yV1dobGR6LU1tN1pyNlR2MDQ5QVNiRWdqWnFqWVBSTXB0Q1pyY2NDSlg1SDBQUUVneHp5WG5xY1VIeDNlOF9aU3pzV21fQXpEcFNkV1h3?oc=5) |
-| 2026-07-31 | Unitree |  | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZzdWcHBCZmdvN2J3RTlqVUdmLXB3WUNjSEpQMHA0REduNVcyckdoeHg3LTZkd1pwOTF6cldiUEJ5SXBET2RqbEhPUFhVZHotXzVqTnlXV0tCQTlrOUJ6ZnhZQ1ZxRmIwamJ4WXNnbGR2U01EOUZzeW1JdEFuMWV4Y2dPMTlxbklkMmxJVVJLaDdWTnpwTVJRYzJHQ3MyMDl0Tlh6V2d2N3FxbGt6ck5faXRiQlZudDhVWEhhUGk5OFUzZG1tZGdHYzlfS0plREZHVnc?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-04 | Saudi's Rime raises $2M+ seed to run AI agents on-site for retail chains - FWDStart | physical ai startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlFXWlktN0d5bmtnX0V0SGk2b2hyVkVzcFptTktnVW93WUN5OTlILWxHR3JkNnRqUDdHeU9HX3JQeGdmd2NSUjJfTGdtdUVkV25zYVVVeUI0VWxoaVRIaXJvZjJTanc5UjBjSFRNRjE5QlN3U0RIS2xjUmlTSlBJT04yR1NjaVVQVGR0R3JXY2wtZlB6eUlnLU53?oc=5) |
-| 2026-08-04 | Korean Robot Startup Spotted by NVIDIA… RGA Robotics Accelerates Commercialization of Physical AI Robots - 벤처스퀘어 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE04a2s4MnYxUEdEUUdJS0pEd2dNYlFwMnRLZERpUkpKTVI5czdsUmpYSE4wdWJINEVjRGNIaGRlRHMxeTFyQjlpdWU4VnRtNjN0cWJJ?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
 | 2026-08-03 | Ropedia Raises $30M to Scale Data Infrastructure for Physical AI - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3c4VW1OYWVWNmVDN3F6dVVJNzFVREFsMkZGV2s0bzF6SmV1WE5NR0QtNGQ4VERIMzJqaVZoZ0RZckJsc0JWaXRuNGhBRDlCT3VaelRqRlFuYlVydzNJcVBWOVE3V29kRXRkRVpYcl9vOFB3OGVhbDE3ZW9VQXpoTnpKQkp1c0RwMU9iSUFmdXRWYkxCVGJCa1RVLUdXQ2hreWFF?oc=5) |
 | 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
+| 2026-08-03 | Tech Brief (Aug. 4): Alibaba Launches New Large Model to Power Enterprise-Facing AI Agent - inkl | embodied ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcnpVX1loSzRwc0I5SU9EUVFNblVKQ1VaMHRZZlVDNEh5Q256X01xUUxETzJqWlg2eEJuNGlJMWl2YTkwMTlMc0ZseUFnZXk1dXpBeThGOWVzemtXQzk1N0tYSVI5ODEwSmV3Q0Q2MzlSOEpRdEJ1a3BHdjJQRHM4aWRidjB4UnpiMGNrOVAzdXNPdHROWktPYUtTLWNleXlrRFBHdG5reGRVT3JmLUlTNw?oc=5) |
+| 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - The Business Journals | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
