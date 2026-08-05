@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-05 07:29 UTC
+Last Updated: 2026-08-05 10:19 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -9,6 +9,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-04 | Third-party cyber evaluations involving OpenAI models | OpenAI | [link](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models) |
 | 2026-08-04 | New ways to learn and teach with ChatGPT Work and Codex | OpenAI | [link](https://openai.com/index/learn-teach-chatgpt-work-codex) |
+| 2026-08-04 | Deploy local agents everywhere with LFM2.5-2.6B | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b) |
 | 2026-08-03 | Apple is getting this wrong | OpenAI | [link](https://openai.com/index/apple-is-getting-this-wrong) |
 | 2026-08-03 | How we built a realtime system for responsive voice AI in six months | OpenAI | [link](https://openai.com/index/continuous-voice-interaction-with-gpt-live) |
 | 2026-08-03 | Circles powers telco personalization with OpenAI technology | OpenAI | [link](https://openai.com/index/circles) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-31 | Advancing responsible AI across Europe | OpenAI | [link](https://openai.com/index/advancing-responsible-ai-across-europe) |
 | 2026-07-31 | Building abundant intelligence | OpenAI | [link](https://openai.com/index/building-abundant-intelligence) |
 | 2026-07-31 | Univé builds an AI-ready workforce | OpenAI | [link](https://openai.com/index/unive) |
-| 2026-07-31 | Disrupting a Criminal Scam Operation | OpenAI | [link](https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-05 | Train Simulator Controller: July 2026 Progress Roundup | Hackaday | [link](https://hackaday.com/2026/08/05/train-simulator-controller-july-2026-progress-roundup/) |
 | 2026-08-05 | A Full Motion Video Codec For the Atari ST | Hackaday | [link](https://hackaday.com/2026/08/04/a-full-motion-video-codec-for-the-atari-st/) |
 | 2026-08-05 | Polystyrene Foam can be Gasoline With Some Help | Hackaday | [link](https://hackaday.com/2026/08/04/polystyrene-foam-can-be-gasoline-with-some-help/) |
+| 2026-08-05 | Large-scale LoRaWAN deployments become easier through QR codes and relays | CNX Software | [link](https://www.cnx-software.com/2026/08/05/large-scale-lorawan-deployments-become-easier-through-qr-codes-and-relays/) |
 | 2026-08-05 | ZecTrix Note 4 – A 4.2-inch ESP32-S3 wireless e-paper display for voice tasks | CNX Software | [link](https://www.cnx-software.com/2026/08/05/zectrix-note-4-a-4-2-inch-esp32-s3-wireless-e-paper-display-for-voice-tasks/) |
 | 2026-08-05 | CtrlVibe AI Console keypad – An OpenAI Codex Micro alternative for AI workflows (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/05/ctrlvibe-ai-console-keypad-an-openai-codex-micro-alternative-for-ai-workflows/) |
 | 2026-08-05 | Ambiq Launches heliaPROFILER for Edge AI Development | Embedded.com | [link](https://www.embedded.com/ambiq-launches-heliaprofiler-for-edge-ai-development/) |
+| 2026-08-05 | EnSilica progresses space ASICs contract | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/finance/ensilica-progresses-space-asics-contract-2026-08/) |
 | 2026-08-05 | Infineon forecast surges on AI datacentre PMIC demand | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/infineon-forecast-surges-on-ai-datacentre-pmic-demand-2026-08/) |
 | 2026-08-05 | SpaceX beats expectations | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/spacex-2-2026-08/) |
-| 2026-08-05 | Optical transceivers may follow US  import bans on robots, routers, inverters and drones | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/optical-transceivers-to-follow-us-import-bans-on-robots-routers-inverters-and-drones-2026-08/) |
-| 2026-08-05 | HP buys CXMT DRAM | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/hp-buys-cxmt-dram-2026-08/) |
-| 2026-08-05 | Astute signs Reyax | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/astute-signs-reyax-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -75,21 +75,32 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-04 | Design and Evaluation of an AI-Enabled Cloud-Edge Architecture for Connected Precision Agriculture Farms | [link](https://arxiv.org/pdf/2608.03816v1) |
 
 ## New Hugging Face Models
-_No items collected yet._
+| Date | Model | Downloads | Likes | URL |
+| --- | --- | --- | --- | --- |
+| 2026-08-05 | RobotisSW/test_1 | 0 | 0 | [link](https://huggingface.co/RobotisSW/test_1) |
+| 2026-08-05 | chayen1/robotlegs-qwen3.5-4b-onnx | 0 | 0 | [link](https://huggingface.co/chayen1/robotlegs-qwen3.5-4b-onnx) |
+| 2026-08-05 | kurushun/dobot-vla-xvla-b | 0 | 0 | [link](https://huggingface.co/kurushun/dobot-vla-xvla-b) |
+| 2026-08-05 | Dexmal/DM05-Vla-Arena | 0 | 0 | [link](https://huggingface.co/Dexmal/DM05-Vla-Arena) |
+| 2026-08-05 | sam-guided-vlas/train_1_2__mask__separate_channel__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__separate_channel__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-05 | sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-05 | cong-lab/v-vla | 0 | 0 | [link](https://huggingface.co/cong-lab/v-vla) |
+| 2026-08-05 | sam-guided-vlas/train_1_2__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-05 | vladcat222/ntrMIXIllustriousXL_xiii_QNN2.28 | 0 | 0 | [link](https://huggingface.co/vladcat222/ntrMIXIllustriousXL_xiii_QNN2.28) |
+| 2026-08-05 | kurushun/dobot-vla-xvla-ab | 0 | 0 | [link](https://huggingface.co/kurushun/dobot-vla-xvla-ab) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2792 | Python | 1116.9 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2793 | Python | 1117.3 | [link](https://github.com/NVIDIA/skills) |
 | awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63329 | Python | 25331.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63332 | Python | 25332.9 | [link](https://github.com/commaai/openpilot) |
+| zauberzeug/nicegui | 16087 | Python | 6434.9 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15616 | C++ | 6246.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14448 | C++ | 5779.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 12849 | JavaScript | 5139.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14451 | C++ | 5780.5 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 12861 | JavaScript | 5144.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11304 | Python | 4521.7 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11253 | Rust | 4501.3 | [link](https://github.com/rerun-io/rerun) |
-| RLinf/RLinf | 4432 | Python | 1772.9 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3865 | Rust | 1546.1 | [link](https://github.com/dora-rs/dora) |
+| rerun-io/rerun | 11255 | Rust | 4502.1 | [link](https://github.com/rerun-io/rerun) |
+| RLinf/RLinf | 4441 | Python | 1776.5 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

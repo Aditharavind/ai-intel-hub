@@ -1,5 +1,12 @@
 [
   {
+    "title": "Train Simulator Controller: July 2026 Progress Roundup",
+    "source": "Hackaday",
+    "date": "2026-08-05",
+    "url": "https://hackaday.com/2026/08/05/train-simulator-controller-july-2026-progress-roundup/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"567\" src=\"https://hackaday.com/wp-content/uploads/2026/08/br_800_cab_metalpanels_20260531a_christopher_mitchell.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>For the past three years [Christopher Mitchell] has been working on his replica of a British Rail Class 800 control cab for a physical train simulator, with the July blog <a class=\"read-more\" href=\"https://hackaday.com/2026/08/05/train-simulator-controller-july-2026-progress-roundup/\">&#8230;read more</a>"
+  },
+  {
     "title": "A Full Motion Video Codec For the Atari ST",
     "source": "Hackaday",
     "date": "2026-08-05",
@@ -12,6 +19,13 @@
     "date": "2026-08-05",
     "url": "https://hackaday.com/2026/08/04/polystyrene-foam-can-be-gasoline-with-some-help/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"512\" src=\"https://hackaday.com/wp-content/uploads/2026/08/polystyrene_dissolving_in_gasoline_lowered_expectations_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Styrofoam &#8211; or closed-cell extruded polystyrene (XPS) foam if you want to be precise &#8211; is one of those materials that is both super versatile for packaging and insulation, but <a class=\"read-more\" href=\"https://hackaday.com/2026/08/04/polystyrene-foam-can-be-gasoline-with-some-help/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Large-scale LoRaWAN deployments become easier through QR codes and relays",
+    "source": "CNX Software",
+    "date": "2026-08-05",
+    "url": "https://www.cnx-software.com/2026/08/05/large-scale-lorawan-deployments-become-easier-through-qr-codes-and-relays/",
+    "summary": "<div><img alt=\"LoRaWAN TS014 TS018 TR016 QR code\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/LoRaWAN-TS014-TS018-TR016-QR-code-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>LoRaWAN devices typically require users to enter parameters such as the DevEUI, JoinEUI (formerly AppEUI), AppKey, and potentially the DevAddr plus the session keys, depending on the activation mode (ABP vs OTAA). This is manageable for a handful of devices, but becomes time-consuming, error-prone, and costly at scale. To make the onboarding process easier and scale LoRaWAN networks more effectively, the LoRa Alliance has now introduced three new documents: the TS014 and TS018 specifications and the TR016 technical recommendations. They should all help users get a device onto a network quickly, securely, and with minimal manual work, such as scanning a QR code. Here are the links and summaries for all three documents: TS014-1.0.0 &#8211; LoRaWAN End-Device Capabilities API Specification &#8211; TS014 eliminates manual data entry and proprietary workarounds by enabling LoRaWAN networks to automatically pull device profiles. It specifically describes a standard interface which enables the hNS (Home Network [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/05/large-scale-lorawan-deployments-become-easier-through-qr-codes-and-relays/\">Large-scale LoRaWAN deployments become easier through QR codes and relays</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "ZecTrix Note 4 – A 4.2-inch ESP32-S3 wireless e-paper display for voice tasks",
@@ -33,6 +47,13 @@
     "date": "2026-08-05",
     "url": "https://www.embedded.com/ambiq-launches-heliaprofiler-for-edge-ai-development/",
     "summary": "<p>Ambiq has expanded its HELIA AI software ecosystem with the introduction of heliaPROFILER, an open-source profiling tool designed to accelerate the development and optimization of edge AI applications running on Apollo system-on-chips (SoCs). The software provides developers with cycle-accurate insight into AI model execution, enabling more efficient optimization of performance, memory usage, and energy consumption [...]</p>\n<p>The post <a href=\"https://www.embedded.com/ambiq-launches-heliaprofiler-for-edge-ai-development/\">Ambiq Launches heliaPROFILER for Edge AI Development</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "EnSilica progresses space ASICs contract",
+    "source": "Electronics Weekly",
+    "date": "2026-08-05",
+    "url": "https://www.electronicsweekly.com/news/business/finance/ensilica-progresses-space-asics-contract-2026-08/",
+    "summary": "<p>EnSilica is celebrating a €1.7 million second phase contract as part of a satellite payload communications ASIC programme. The award is from an undisclosed European satellite manufacturer. The contract follows [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/ensilica-progresses-space-asics-contract-2026-08/\">EnSilica progresses space ASICs contract</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Infineon forecast surges on AI datacentre PMIC demand",
@@ -112,13 +133,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/bornhack-radio-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Over the years I have been to many hacker camps and done a lot of very cool things, but BornHack 2026 brought me something entirely new: Radio. By which I <a class=\"read-more\" href=\"https://hackaday.com/2026/08/04/bornhack-radio-102-8fm-playing-radio-at-a-hacker-camp/\">&#8230;read more</a>"
   },
   {
-    "title": "Un Ordinateur Pour Le Minitel-1 (A Computer For The Minitel-1)",
-    "source": "Hackaday",
-    "date": "2026-08-04",
-    "url": "https://hackaday.com/2026/08/04/un-ordinateur-pour-le-minitel-1-a-computer-for-the-minitel-1/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/memo-1-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In the 1980s, France was the stage for one of the boldest public computing projects of the era. Minitel was the French take on viewdata, and instead of making it <a class=\"read-more\" href=\"https://hackaday.com/2026/08/04/un-ordinateur-pour-le-minitel-1-a-computer-for-the-minitel-1/\">&#8230;read more</a>"
-  },
-  {
     "title": "reComputer Mini J501 Edge AI computer features NVIDIA Jetson AGX Orin 64GB/32GB module, two FAKRA camera connectors",
     "source": "CNX Software",
     "date": "2026-08-04",
@@ -166,13 +180,6 @@
     "date": "2026-08-04",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/the-rise-of-the-humanoids-2026-08/",
     "summary": "<p>The U.S. government last week banned the import of new advanced robotic devices manufactured abroad.  The move is mostly aimed at China.   While the ban applies to state-of-the-art humanoid robots, the Federal [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/the-rise-of-the-humanoids-2026-08/\">The Rise Of The Humanoids</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Themis reusable rocket moves one step closer to flight",
-    "source": "Electronics Weekly",
-    "date": "2026-08-04",
-    "url": "https://www.electronicsweekly.com/news/themis-reusable-rocket-moves-one-step-closer-to-flight-2026-08/",
-    "summary": "<p>The European Space Agency&#8217;s (ESA) rocket prototype, Themis, has passed its first wet dress-rehearsal on the launch pad at the Esrange Space Center in Sweden. The ESA describes it as [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/themis-reusable-rocket-moves-one-step-closer-to-flight-2026-08/\">Themis reusable rocket moves one step closer to flight</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Negative electrical resistance",
@@ -369,13 +376,6 @@
     "date": "2026-08-01",
     "url": "https://www.cnx-software.com/2026/08/01/creality-falcon-t1-review-a-5-in-1-modular-laser-engraver-tested-with-20w-fiber-and-40w-diode-laser-modules/",
     "summary": "<div><img alt=\"Creality Falcon T1 5-in-1 Laser Engraver review\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Creality-Falcon-T1-5-in-1-Laser-Engraver-review-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Creality sent us a sample of the Falcon T1 5-in-1 modular laser engraver for review. The company describes it as the world’s first 5-in-1 laser engraving and cutting machine that supports five types of laser modules in a single unit: 20W diode laser 20W, 40W diode laser, 20w fiber laser, 60W MOPA laser, and 5W UV Laser 5W. The laser heads can be swapped tool-free in just 15 seconds. It works with an HD camera and AI system and can engrave and cut a wide range of materials including wood, leather, acrylic, metal, glass, crystal, and plastic. Diode laser modules are ideal for cutting and engraving wood, leather, and acrylic, the fiber laser module is better suited for marking and engraving metal, the MOPA laser module supports color marking on metals such as stainless steel and titanium, and the UV laser module uses cold processing for high-precision work on glass, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/01/creality-falcon-t1-review-a-5-in-1-modular-laser-engraver-tested-with-20w-fiber-and-40w-diode-laser-modules/\">Creality Falcon T1 review &#8211; A 5-in-1 modular laser engraver tested with 20W fiber and 40W diode laser modules</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port",
-    "source": "CNX Software",
-    "date": "2026-07-31",
-    "url": "https://www.cnx-software.com/2026/07/31/nanopi-r28s-a-tiny-dual-gbe-rockchip-rk3528a-wireless-sbc-and-router-with-a-usb-c-console-port/",
-    "summary": "<div><img alt=\"NanoPi R28S Dual GbE router USB C Debug port\" class=\"attachment-medium size-medium wp-post-image\" height=\"443\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/07/NanoPi-R28S-Dual-GbE-router-USB-C-Debug-port-720x443.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>NanoPi R28S is yet another tiny dual Gigabit Ethernet single board computer or router (with a metal enclosure), and the second from FriendlyELEC to implement a USB-C console port, often requested by our readers, after the NanoPi R2S Plus launched in 2024. At just 49.5 x 49.5 x 24 mm in its metal case, the Rockchip RK3528A-powered router also features 1GB LPDDR4, a microSD card slot and an eMMC module socket for storage, WiFi 6 and Bluetooth 5.3 wireless connectivity. The USB-C ports are only used for power, eMMC firmware upgrades, and debugging, and the system doesn&#8217;t feature any USB port for data connectivity, nor any GPIO header for expansion. In other words, it&#8217;s mostly useful for networking (firewalls, soft routers), as well as IoT gateway applications. NanoPi R28S specifications: SoC – Rockchip RK3528A CPU – Quad-core ARM Cortex-A53 @ 1.8 GHz GPU – Arm Mali-450 GPU with support for [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/07/31/nanopi-r28s-a-tiny-dual-gbe-rockchip-rk3528a-wireless-sbc-and-router-with-a-usb-c-console-port/\">NanoPi R28S &#8211; A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Fault-Tolerant Quantum Computers, Sustained Performance Defines the Next Phase of Edge AI, Agentic AI for EDA: Embedded Week Insights",

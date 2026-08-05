@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-05 07:29 UTC
+Generated: 2026-08-05 10:19 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,14 +14,20 @@ Generated: 2026-08-05 07:29 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82924 | 33169.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63329 | 25331.7 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30245 | 12098.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16085 | 6434.1 | [link](https://github.com/zauberzeug/nicegui) |
+| Developer-Y/cs-video-courses | 82925 | 33170.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63332 | 25332.9 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30246 | 12098.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16087 | 6434.9 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15616 | 6246.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
-_No items collected yet._
+| Model | Downloads | Score | URL |
+| --- | --- | --- | --- |
+| tencent/Hy-Embodied-VLM-1.0 | 1088 | 331.1 | [link](https://huggingface.co/tencent/Hy-Embodied-VLM-1.0) |
+| tsinghua-sigs-robot-lab/veriloop-coder-e1 | 727 | 222.6 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
+| SEU-PAISys/Embodied.cpp | 732 | 220.5 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
+| zhijieq/directional-navigation | 420 | 126.1 | [link](https://huggingface.co/zhijieq/directional-navigation) |
+| tencent/Hy-Embodied-RxBrain-1.0 | 353 | 116.6 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
