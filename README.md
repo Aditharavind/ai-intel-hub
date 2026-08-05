@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-05 04:50 UTC
+Last Updated: 2026-08-05 07:29 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -9,7 +9,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-04 | Third-party cyber evaluations involving OpenAI models | OpenAI | [link](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models) |
 | 2026-08-04 | New ways to learn and teach with ChatGPT Work and Codex | OpenAI | [link](https://openai.com/index/learn-teach-chatgpt-work-codex) |
-| 2026-08-04 | Deploy local agents everywhere with LFM2.5-2.6B | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b) |
 | 2026-08-03 | Apple is getting this wrong | OpenAI | [link](https://openai.com/index/apple-is-getting-this-wrong) |
 | 2026-08-03 | How we built a realtime system for responsive voice AI in six months | OpenAI | [link](https://openai.com/index/continuous-voice-interaction-with-gpt-live) |
 | 2026-08-03 | Circles powers telco personalization with OpenAI technology | OpenAI | [link](https://openai.com/index/circles) |
@@ -17,6 +16,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-31 | Advancing responsible AI across Europe | OpenAI | [link](https://openai.com/index/advancing-responsible-ai-across-europe) |
 | 2026-07-31 | Building abundant intelligence | OpenAI | [link](https://openai.com/index/building-abundant-intelligence) |
 | 2026-07-31 | Univé builds an AI-ready workforce | OpenAI | [link](https://openai.com/index/unive) |
+| 2026-07-31 | Disrupting a Criminal Scam Operation | OpenAI | [link](https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-05 | A Full Motion Video Codec For the Atari ST | Hackaday | [link](https://hackaday.com/2026/08/04/a-full-motion-video-codec-for-the-atari-st/) |
 | 2026-08-05 | Polystyrene Foam can be Gasoline With Some Help | Hackaday | [link](https://hackaday.com/2026/08/04/polystyrene-foam-can-be-gasoline-with-some-help/) |
+| 2026-08-05 | ZecTrix Note 4 – A 4.2-inch ESP32-S3 wireless e-paper display for voice tasks | CNX Software | [link](https://www.cnx-software.com/2026/08/05/zectrix-note-4-a-4-2-inch-esp32-s3-wireless-e-paper-display-for-voice-tasks/) |
 | 2026-08-05 | CtrlVibe AI Console keypad – An OpenAI Codex Micro alternative for AI workflows (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/05/ctrlvibe-ai-console-keypad-an-openai-codex-micro-alternative-for-ai-workflows/) |
 | 2026-08-05 | Ambiq Launches heliaPROFILER for Edge AI Development | Embedded.com | [link](https://www.embedded.com/ambiq-launches-heliaprofiler-for-edge-ai-development/) |
-| 2026-08-05 | Ten Best Inventions This Year | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/ten-best-inventions-this-year-2026-08/) |
-| 2026-08-04 | Tearing Down Aircraft Weather Radar Avionics | Hackaday | [link](https://hackaday.com/2026/08/04/tearing-down-aircraft-weather-radar-avionics/) |
-| 2026-08-04 | Strengthening 3D Prints with a Carbon-Fiber Epidermis | Hackaday | [link](https://hackaday.com/2026/08/04/strengthening-3d-prints-with-a-carbon-fiber-epidermis/) |
-| 2026-08-04 | At Last! CP/M for Protected Mode | Hackaday | [link](https://hackaday.com/2026/08/04/at-last-cp-m-for-protected-mode/) |
-| 2026-08-04 | BornHack Radio 102.8 FM, Playing Radio At A Hacker Camp | Hackaday | [link](https://hackaday.com/2026/08/04/bornhack-radio-102-8fm-playing-radio-at-a-hacker-camp/) |
-| 2026-08-04 | Un Ordinateur Pour Le Minitel-1 (A Computer For The Minitel-1) | Hackaday | [link](https://hackaday.com/2026/08/04/un-ordinateur-pour-le-minitel-1-a-computer-for-the-minitel-1/) |
-| 2026-08-04 | Road Trains Roam The Backroads of Australia | Hackaday | [link](https://hackaday.com/2026/08/04/road-trains-roam-the-backroads-of-australia/) |
+| 2026-08-05 | Infineon forecast surges on AI datacentre PMIC demand | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/infineon-forecast-surges-on-ai-datacentre-pmic-demand-2026-08/) |
+| 2026-08-05 | SpaceX beats expectations | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/spacex-2-2026-08/) |
+| 2026-08-05 | Optical transceivers may follow US  import bans on robots, routers, inverters and drones | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/optical-transceivers-to-follow-us-import-bans-on-robots-routers-inverters-and-drones-2026-08/) |
+| 2026-08-05 | HP buys CXMT DRAM | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/hp-buys-cxmt-dram-2026-08/) |
+| 2026-08-05 | Astute signs Reyax | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/astute-signs-reyax-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -75,37 +75,26 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-04 | Design and Evaluation of an AI-Enabled Cloud-Edge Architecture for Connected Precision Agriculture Farms | [link](https://arxiv.org/pdf/2608.03816v1) |
 
 ## New Hugging Face Models
-| Date | Model | Downloads | Likes | URL |
-| --- | --- | --- | --- | --- |
-| 2026-08-05 | RobotisSW/test_1 | 0 | 0 | [link](https://huggingface.co/RobotisSW/test_1) |
-| 2026-08-05 | chayen1/robotlegs-qwen3.5-4b-onnx | 0 | 0 | [link](https://huggingface.co/chayen1/robotlegs-qwen3.5-4b-onnx) |
-| 2026-08-05 | sam-guided-vlas/train_1_2__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0) |
-| 2026-08-05 | sam-guided-vlas/train_1_2__mask__separate_channel__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__separate_channel__sim__all_cameras__live__pi05__seed_0) |
-| 2026-08-05 | sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
-| 2026-08-05 | Dexmal/DM05-Vla-Arena | 0 | 0 | [link](https://huggingface.co/Dexmal/DM05-Vla-Arena) |
-| 2026-08-05 | vladcat222/ntrMIXIllustriousXL_xiii_QNN2.28 | 0 | 0 | [link](https://huggingface.co/vladcat222/ntrMIXIllustriousXL_xiii_QNN2.28) |
-| 2026-08-05 | kurushun/dobot-vla-xvla-ab | 0 | 0 | [link](https://huggingface.co/kurushun/dobot-vla-xvla-ab) |
-| 2026-08-05 | sam-guided-vlas/train_1_2__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0) |
-| 2026-08-05 | kurushun/dobot-vla-xvla-b | 0 | 0 | [link](https://huggingface.co/kurushun/dobot-vla-xvla-b) |
+_No items collected yet._
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| NVIDIA/skills | 2792 | Python | 1116.9 | [link](https://github.com/NVIDIA/skills) |
 | awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63328 | Python | 25331.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63329 | Python | 25331.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15616 | C++ | 6246.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14446 | C++ | 5778.5 | [link](https://github.com/google-deepmind/mujoco) |
-| RLinf/RLinf | 4427 | Python | 1770.9 | [link](https://github.com/RLinf/RLinf) |
+| google-deepmind/mujoco | 14448 | C++ | 5779.3 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 12849 | JavaScript | 5139.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| kornia/kornia | 11304 | Python | 4521.7 | [link](https://github.com/kornia/kornia) |
+| rerun-io/rerun | 11253 | Rust | 4501.3 | [link](https://github.com/rerun-io/rerun) |
+| RLinf/RLinf | 4432 | Python | 1772.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3865 | Rust | 1546.1 | [link](https://github.com/dora-rs/dora) |
-| flashrt-project/FlashRT | 483 | C++ | 193.3 | [link](https://github.com/flashrt-project/FlashRT) |
-| sou350121/VLA-Handbook | 470 | HTML | 188.1 | [link](https://github.com/sou350121/VLA-Handbook) |
-| syswonder/robonix | 288 | Rust | 115.3 | [link](https://github.com/syswonder/robonix) |
-| vllm-project/vllm-omni | 5856 | Python | 2342.5 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
-| 2026-08-05 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE9VTzJZUERzbXpocHdleVpMLWFZR1ZEdWl3TkVyQlZMRjB0NTllZk1sM001WHpJVG5ldGdTQmNSakFrS21heklOX2ZMSEVEOFNrQVZ2VEc3dDF5Q1pmdnNseG9ZRldxZ2lWMnFybmxERDRBMExQMmFSVHdUaw?oc=5) |
+| 2026-08-05 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidEFVX3lxTFBfMmRTNTJ0NkZocDlIVVN2SzZvRFJZaVNwMFVVcjNZTG4xTU5oMEZoOHYyZU5QWXpaYjBjTGxyeGJZeGpteFNWaklyWUdkV0h1cEwxWjNHUy1HMEJ2MFhDWVhWMnEybG4zVE9lclFCS3VDMUxt?oc=5) |
 | 2026-08-04 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiZkFVX3lxTE44dVhWQmM1ZlZ1akcxRURzcDFGOGRXUGctZHY3NHdZTHlrRDBNUzdXZEUya3JKSTdac3dsSlhmQzBUeUx2Nk9ZTHJFSEZhTnBBZ0xzakVZOHVMRWJTd2c4Mm9ZODVLZw?oc=5) |
 | 2026-08-04 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzBJcnRzZ0xGcE5fanRrcmlXZGFYUG9WMDc0cFdNQmJCX2plV1h5anNuYk1zZVBKS1lpd29TSU5BS2ZMMWNobzhHUTVGdXhYMnRBcWx6cGwzdkVHaEJ1eGY5NlktVDdRZGZYRXU0MDV2LWh3aWFyanBnUWlUSlJoeTV2WkNzYXBMNFZua056aXBFeUI1RmtRcWgxTGR4a2pLYWpBbTRobC16dzQ0dkg3aVFTZ2lWTVVzTDlkSGp3Wlk2MHJ1Mi1HZFZPSUFlYnlx?oc=5) |
 | 2026-08-04 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmUwN2RkcUxlVDNLSllSYmtFNzdtLTdDZVd3cEV0UjNmYU1lX2xVMkp0M1pDeEw4RHFJSGg2M0NIUUx3V05oZW1Udml2a2ZxaE9ESVpDN2RKQjQyd2h0cC1ncWpWUHhRMzNGbFFyWFFRdEdTVkpJUWtqNmdWR1h3TEFXa0F2ZWlIU2dRZWFoTU5ZRGRQMkllQl82a3lBaDA?oc=5) |
@@ -119,15 +108,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-05 | Embodied-AI data infrastructure startup Kaiwang Data raises more than RMB100 million - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEQ1d1ItMXdNMGFZc01vd3NXU1Q4MENTXzNXRVZoVzlrNENpV1d2MXM5NEstOHBsTkxPdF9IWnNJMWg2blpBa2tQQnJYWUZHQWg0TGZ6Ym5qNzlhX2N4OG02cmtQUV9IWXZYaVVZaktIdk55YXVfOTJKS3hxaE55R3VGMEFxaFVtaHRzYmkyZGtWaVJfYXZVMmpuZXMyazU4SzNNZ0ZkaHBjcjdJVWVKVEF6OW9hcU1i?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
 | 2026-08-03 | Ropedia Raises $30M to Scale Data Infrastructure for Physical AI - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3c4VW1OYWVWNmVDN3F6dVVJNzFVREFsMkZGV2s0bzF6SmV1WE5NR0QtNGQ4VERIMzJqaVZoZ0RZckJsc0JWaXRuNGhBRDlCT3VaelRqRlFuYlVydzNJcVBWOVE3V29kRXRkRVpYcl9vOFB3OGVhbDE3ZW9VQXpoTnpKQkp1c0RwMU9iSUFmdXRWYkxCVGJCa1RVLUdXQ2hreWFF?oc=5) |
 | 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
-| 2026-08-03 | Tech Brief (Aug. 4): Alibaba Launches New Large Model to Power Enterprise-Facing AI Agent - inkl | embodied ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcnpVX1loSzRwc0I5SU9EUVFNblVKQ1VaMHRZZlVDNEh5Q256X01xUUxETzJqWlg2eEJuNGlJMWl2YTkwMTlMc0ZseUFnZXk1dXpBeThGOWVzemtXQzk1N0tYSVI5ODEwSmV3Q0Q2MzlSOEpRdEJ1a3BHdjJQRHM4aWRidjB4UnpiMGNrOVAzdXNPdHROWktPYUtTLWNleXlrRFBHdG5reGRVT3JmLUlTNw?oc=5) |
 | 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - The Business Journals | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
 | 2026-07-31 | Korean Physical AI Startups Face a Hard Truth: A 98% Accurate AI Model Can Still Fail Inside a Robot - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbm56aHN1cU9VNW02QnJBTTJDcmhQS19ITE9kX2w4VnVrREpUS0dWeW1Ya191UDB3SjBRcmd0U2kwYWFIUGZFVkJXOG9KVEZpcmVwNjYtYkJjRTFZT3BvMncwMV9BeUk4ejRrcl9yc2F4OHhPTEJCTHRtdnhRN0dzMUZxT3ZUZlZNa0E?oc=5) |
 | 2026-07-31 | SK Telecom Forms 'Physical AI' Alliance with 8 Robotics Startups, Accelerating Commercialization via Digital Twin - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeTVSQXJtOXluRk02SzlrV2pDc0NXVVFUX2dKQjNFZzJPMk1DRjFLQ2V6SmlIZlJSYVI0UzNKRjRJQ2FlQkVCWVRkNFdiYlZzMjkwQUMyUk4xTG1yb0xfM0d4RVFiOGRkWEhsUDBIUlEwTHFoVmc?oc=5) |
-| 2026-07-31 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
+| 2026-07-31 | China’s AI-driven robotics boom faces IPO reality check - thinkchina.sg | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
 | 2026-07-31 | San Francisco company offers cleaning service using humanoid robots - ABC News - Breaking News, Latest News and Videos | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPU09xRXh1cjdLQ3JaVW80MnVtcHhDLXp3dmFua2xfQnVodDVZbnVzVHpQMms5UzJra1ZjWFQtRE9ObFVpSnVtTmJDYkxrenRoelV6SlhibVdPSHhiYi00SE9OSHdqcHA5OEF4Rk1Ga2dKakVfWXEzOTZsUzhuc2g0QWYzbVl6LVZrMk04V0YzUjFBQlJJQ1NYcE1tTGJYMG1DWG9WYjhBZkEyc3Zkc1N1X9IBtgFBVV95cUxQTGZibk1YenNFTGRWLXJJMEZNMGVINUNLdzNUV0laX09zS19pa2Z1MjBiZjdzZU5JWl9lQUh3cDA5cGdxTTZKMnI5NkdIM2tZOUJBUnBBTVFjTFJWSFJ5c1AyTDN0cFFYUVZhaTBOM2Q0cWJtWl9CeGJPUXpaNGFnSWk3QmhDeW41TXRxUEdPTWhNT1JkSHRlMlItV19MbzJHWENDelpBSHN6ZkhheDQ0bjlpdGZLQQ?oc=5) |
 
 ## Jobs
