@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-05 19:07 UTC
+Last Updated: 2026-08-05 20:51 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -38,30 +38,41 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-05 | Moove raises $250M to build infrastructure for autonomous vehicles | Robotics Business Review | [link](https://www.therobotreport.com/moove-raises-250m-to-build-infrastructure-for-autonomous-vehicles/) |
 | 2026-08-05 | Why perception is the key to scaling industrial autonomy | Robotics Business Review | [link](https://www.therobotreport.com/why-perception-is-the-key-to-scaling-industrial-autonomy/) |
 | 2026-08-05 | University of Florida opens new robotics lab dedicated to industrialized construction | Robotics Business Review | [link](https://www.therobotreport.com/university-of-florida-opens-new-robotics-lab-dedicated-to-industrialized-construction/) |
+| 2026-08-05 | Avnet and Weston Robot partner to launch edge AI inspection platform | Robotics Business Review | [link](https://www.therobotreport.com/avnet-and-weston-robot-partner-to-launch-edge-ai-inspection-platform/) |
+| 2026-08-05 | GAM Enterprises to produce Schaeffler’s PSC gear reducers | Robotics Business Review | [link](https://www.therobotreport.com/gam-enterprises-to-produce-schaefflers-psc-gear-reducers/) |
 | 2026-08-04 | What Robotics Companies Think About the U.S. Foreign Robot Ban | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/fcc-covered-list-mobile-robots) |
 | 2026-08-04 | Humanoids won’t scale on factory floors until costs drop | Robotics Business Review | [link](https://www.therobotreport.com/humanoids-wont-scale-on-factory-floors-until-costs-drop/) |
 | 2026-08-04 | Zoox unveils production-ready robotaxi for U.S. expansion | Robotics Business Review | [link](https://www.therobotreport.com/zoox-unveils-production-ready-robotaxi-for-u-s-expansion/) |
 | 2026-08-04 | U.S. Navy picks Blue Water Autonomy to use autonomous vessels for deep ocean surveys | Robotics Business Review | [link](https://www.therobotreport.com/u-s-navy-picks-blue-water-autonomy-to-use-autonomous-vessels-for-deep-ocean-surveys/) |
 | 2026-08-03 | Reimagine Robotics emerges from stealth with robots that ‘learn on the job’ | Robotics Business Review | [link](https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/) |
-| 2026-08-03 | Walden Robotics Partners With Toyota on Practical Humanoids | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota) |
-| 2026-08-03 | HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators | Robotics Business Review | [link](https://www.therobotreport.com/hebi-robotics-earns-nasa-sbir-grant-fast-track-miniaturized-actuators/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-05 | Addressable LEDs Make Giant 16×2 Character Display | Hackaday | [link](https://hackaday.com/2026/08/05/addressable-leds-make-giant-16x2-character-display/) |
 | 2026-08-05 | FLOSS Weekly Episode 878: A Tool With Opinions | Hackaday | [link](https://hackaday.com/2026/08/05/floss-weekly-episode-878-a-tool-with-opinions/) |
 | 2026-08-05 | Know Your Food: Our Daily Bread | Hackaday | [link](https://hackaday.com/2026/08/05/know-your-food-our-daily-bread/) |
 | 2026-08-05 | Reading a Thermocouple with Mercury and a Potentiometer | Hackaday | [link](https://hackaday.com/2026/08/05/reading-a-thermocouple-with-mercury-and-a-potentiometer/) |
 | 2026-08-05 | Cell Broadcast: The Modern Emergency Alert System | Hackaday | [link](https://hackaday.com/2026/08/05/cell-broadcast-the-modern-emergency-alert-system/) |
 | 2026-08-05 | Could Camera Hardware Be The Physical Equivalent to USB-C? | Hackaday | [link](https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/) |
 | 2026-08-05 | Train Simulator Controller: July 2026 Progress Roundup | Hackaday | [link](https://hackaday.com/2026/08/05/train-simulator-controller-july-2026-progress-roundup/) |
-| 2026-08-05 | A Full Motion Video Codec For the Atari ST | Hackaday | [link](https://hackaday.com/2026/08/04/a-full-motion-video-codec-for-the-atari-st/) |
 | 2026-08-05 | Large-scale LoRaWAN deployments become easier through QR codes and relays | CNX Software | [link](https://www.cnx-software.com/2026/08/05/large-scale-lorawan-deployments-become-easier-through-qr-codes-and-relays/) |
 | 2026-08-05 | ZecTrix Note 4 – A 4.2-inch ESP32-S3 wireless e-paper display for voice tasks | CNX Software | [link](https://www.cnx-software.com/2026/08/05/zectrix-note-4-a-4-2-inch-esp32-s3-wireless-e-paper-display-for-voice-tasks/) |
 | 2026-08-05 | CtrlVibe AI Console keypad – An OpenAI Codex Micro alternative for AI workflows (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/05/ctrlvibe-ai-console-keypad-an-openai-codex-micro-alternative-for-ai-workflows/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-08-04 | Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation | [link](https://arxiv.org/pdf/2608.03990v1) |
+| 2026-08-04 | Stochastic Multiple Shooting Trajectory Optimization via Sequential Local Policy Evaluation | [link](https://arxiv.org/pdf/2608.03978v1) |
+| 2026-08-04 | Prithvi-Precip: Integrating Satellite Observations into an Atmospheric AI Foundation Model for Precipitation Forecasting | [link](https://arxiv.org/pdf/2608.03959v1) |
+| 2026-08-04 | A game theory for foundation models shows new paths to rational cooperation through similarity inference | [link](https://arxiv.org/pdf/2608.03958v1) |
+| 2026-08-04 | Bimanual Manipulation Within an 8 GB Budget: Zero-Copy Sensing and Quantized ACT on an Entry-Level Jetson | [link](https://arxiv.org/pdf/2608.03938v1) |
+| 2026-08-04 | ETA: A New Agentic Paradigm for Embodied Tasks | [link](https://arxiv.org/pdf/2608.03924v1) |
+| 2026-08-04 | EvoHIL: Self-Evolving Reward and Flow-Matched Policy Optimization for Robust Human-in-the-Loop Reinforcement Learning | [link](https://arxiv.org/pdf/2608.03872v1) |
+| 2026-08-04 | LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation | [link](https://arxiv.org/pdf/2608.03851v1) |
+| 2026-08-04 | Designing Social Robots for Inclusive Child Wellbeing Assessment: Insights from Communities Supporting Developmental Language Disorder and Forced Migration | [link](https://arxiv.org/pdf/2608.03820v1) |
+| 2026-08-04 | Design and Evaluation of an AI-Enabled Cloud-Edge Architecture for Connected Precision Agriculture Farms | [link](https://arxiv.org/pdf/2608.03816v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
@@ -81,29 +92,29 @@ _No items collected yet._
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 2798 | Python | 1119.3 | [link](https://github.com/NVIDIA/skills) |
-| NVlabs/alpamayo | 1967 | Python | 786.9 | [link](https://github.com/NVlabs/alpamayo) |
+| NVlabs/alpamayo | 1968 | Python | 787.3 | [link](https://github.com/NVlabs/alpamayo) |
 | copper-project/copper-rs | 1440 | Rust | 576.1 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 467 | Shell | 186.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | NVlabs/alpamayo1.5 | 351 | Python | 140.5 | [link](https://github.com/NVlabs/alpamayo1.5) |
-| commaai/openpilot | 63337 | Python | 25334.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63338 | Python | 25335.3 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16090 | Python | 6436.1 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15622 | C++ | 6248.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15623 | C++ | 6249.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14458 | C++ | 5783.3 | [link](https://github.com/google-deepmind/mujoco) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
-| 2026-08-05 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE50TTk2WDl2Zy00emJXTmRNN0xoWjNGaWxnaWQwRDJLamRNMVVTZ2hrblBJcjhyWmxrZXdKOG1RM1N0T0hvYnpKM0dkS0FrVEIwQ25nMGt6YzJmOWZrLUNPM2pn?oc=5) |
 | 2026-08-05 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbHJEd1BqVzk1VEFYRjRaUzdYbjdSSDRhTDB4Y2ZmUzFBLTFaR0dETW1MV1V4Uk4yeXlTaTBmZ2JxS3RFRThhSU43RWR4UFpieHAxX2ZYaWtPMXJOSzg4RjNyeFIycW9mWGl1ZzZCUFc4NFQ2VTIzbFdtRFFNbk93Y1RjajByMGNjR1Z2WDNGcjFHYlZVajlDWXNTVF9oUDZUYTEzby13MHNtMXlES1doejV1Z2JmQ0MxTFFEcW93MkM?oc=5) |
+| 2026-08-05 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE50TTk2WDl2Zy00emJXTmRNN0xoWjNGaWxnaWQwRDJLamRNMVVTZ2hrblBJcjhyWmxrZXdKOG1RM1N0T0hvYnpKM0dkS0FrVEIwQ25nMGt6YzJmOWZrLUNPM2pn?oc=5) |
 | 2026-08-05 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidEFVX3lxTFBfMmRTNTJ0NkZocDlIVVN2SzZvRFJZaVNwMFVVcjNZTG4xTU5oMEZoOHYyZU5QWXpaYjBjTGxyeGJZeGpteFNWaklyWUdkV0h1cEwxWjNHUy1HMEJ2MFhDWVhWMnEybG4zVE9lclFCS3VDMUxt?oc=5) |
 | 2026-08-04 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiZkFVX3lxTE44dVhWQmM1ZlZ1akcxRURzcDFGOGRXUGctZHY3NHdZTHlrRDBNUzdXZEUya3JKSTdac3dsSlhmQzBUeUx2Nk9ZTHJFSEZhTnBBZ0xzakVZOHVMRWJTd2c4Mm9ZODVLZw?oc=5) |
 | 2026-08-04 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeFI1US1Ka192d05hZGZpbkQ3S25oZ2JNSUN5Wi0xbG8wS25uWnB4UF9fNkRIV0lFOFU4eFY0Y2hMSWZWaHI4cm9Uazlsem5RZS1JMkNPNFViVTcxT1BDbFp1QjVSVlFpbzcyLVlBTWVpNDlFNXUzdERXM1BQS0Z2cGpnSkJpQWtzZjJQRmJqVE9YNXJ1MGdOMGhVdjZMQ2pOQ1BrLUNnZkRCaEIwWmRPVVFxSXFLcU1jd2dyYkgwNURpVkFLQjFWSnVzeGlmRnJYdDkyeHZGMUhQMWFYMEJJ?oc=5) |
 | 2026-08-04 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzBJcnRzZ0xGcE5fanRrcmlXZGFYUG9WMDc0cFdNQmJCX2plV1h5anNuYk1zZVBKS1lpd29TSU5BS2ZMMWNobzhHUTVGdXhYMnRBcWx6cGwzdkVHaEJ1eGY5NlktVDdRZGZYRXU0MDV2LWh3aWFyanBnUWlUSlJoeTV2WkNzYXBMNFZua056aXBFeUI1RmtRcWgxTGR4a2pLYWpBbTRobC16dzQ0dkg3aVFTZ2lWTVVzTDlkSGp3Wlk2MHJ1Mi1HZFZPSUFlYnlx?oc=5) |
 | 2026-08-04 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmUwN2RkcUxlVDNLSllSYmtFNzdtLTdDZVd3cEV0UjNmYU1lX2xVMkp0M1pDeEw4RHFJSGg2M0NIUUx3V05oZW1Udml2a2ZxaE9ESVpDN2RKQjQyd2h0cC1ncWpWUHhRMzNGbFFyWFFRdEdTVkpJUWtqNmdWR1h3TEFXa0F2ZWlIU2dRZWFoTU5ZRGRQMkllQl82a3lBaDA?oc=5) |
 | 2026-08-04 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHRFbDFSRkw0dENJWGo1Qk5NZnBrM0E1cnIta0ctX2ZsZ1kya3ZxMTM2VHVCeFFVWDhDYnpuOEJmZlpCT2RtS1BxUnZMUnFSR1dDTHRFVXNad3Q2WmpsWmhnaV9LZkFEMFlQLVNXeVh6ZnRsd0xJVm93eF80U2lUeDI1OUpUdw?oc=5) |
-| 2026-08-03 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxNS1pLN1IxYkk2aGJfY1pEblIxMGlUc3pCUFlGbmZpbGV2S29DYkI2RUFzemkwdjhodi1SaXZXby0yV1dobGR6LU1tN1pyNlR2MDQ5QVNiRWdqWnFqWVBSTXB0Q1pyY2NDSlg1SDBQUUVneHp5WG5xY1VIeDNlOF9aU3pzV21fQXpEcFNkV1h3?oc=5) |
 | 2026-07-31 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZzdWcHBCZmdvN2J3RTlqVUdmLXB3WUNjSEpQMHA0REduNVcyckdoeHg3LTZkd1pwOTF6cldiUEJ5SXBET2RqbEhPUFhVZHotXzVqTnlXV0tCQTlrOUJ6ZnhZQ1ZxRmIwamJ4WXNnbGR2U01EOUZzeW1JdEFuMWV4Y2dPMTlxbklkMmxJVVJLaDdWTnpwTVJRYzJHQ3MyMDl0Tlh6V2d2N3FxbGt6ck5faXRiQlZudDhVWEhhUGk5OFUzZG1tZGdHYzlfS0plREZHVnc?oc=5) |
+| 2026-07-31 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQazRPbW5hem55NV9sQ1RpWE53YWFmTk00MWlvbXhKZ3ppdWVDVDFOVlhLQUxUUFdQRzNxVk5YNDRtbC0zWGVCcEM2YTU3SWVUbDMxU0ZEN2Q4U1p5Q2lPMmUwVGY5M2k4WHlGdndJVlBDRHo5TGZLS3FhYW9FcjNvaGZRbDgtQ2ZDWUt0RGNtWm1mMnRaamJYY3dMM2Zpd2o5b21XSg?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

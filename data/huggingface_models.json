@@ -108,6 +108,42 @@
     "score": 0.1
   },
   {
+    "model": "sam-guided-vlas/train_1_2__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "erl-hub/pls-vla-skill-predictor",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/erl-hub/pls-vla-skill-predictor",
+    "date": "2026-08-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -135,24 +171,6 @@
     "score": 0.1
   },
   {
-    "model": "erl-hub/pls-vla-skill-predictor",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/erl-hub/pls-vla-skill-predictor",
-    "date": "2026-08-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "kurushun/dobot-vla-xvla-b-v2",
     "downloads": 0,
     "likes": 0,
@@ -166,24 +184,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/flashrt/flashrt-vla-residual-gates",
-    "date": "2026-08-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__mask__blur__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blur__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-05",
     "keyword": "vla",
     "score": 0.1
@@ -267,6 +267,15 @@
     "url": "https://huggingface.co/physicalairi/so101_1200ep_pi05_20260805",
     "date": "2026-08-05",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-07-28_shake4it_bench_dragonfly_100kHz_nfft_4096",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-07-28_shake4it_bench_dragonfly_100kHz_nfft_4096",
+    "date": "2026-08-05",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -369,15 +378,6 @@
     "score": 0.1
   },
   {
-    "model": "garagelab-duesseldorf/pap_green_foam_in_box-policy-v4a",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/garagelab-duesseldorf/pap_green_foam_in_box-policy-v4a",
-    "date": "2026-08-05",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "knightnemo/hdf-world-model-ogbench-cube-triple",
     "downloads": 0,
     "likes": 0,
@@ -443,11 +443,11 @@
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-1-5B",
     "downloads": 12,
-    "likes": 8,
+    "likes": 9,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-5B",
     "date": "2026-08-04",
     "keyword": "robotics",
-    "score": 5.3
+    "score": 5.5
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-stage2-lora-epoch3-v1",
@@ -542,11 +542,11 @@
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-1-VLABench",
     "downloads": 8,
-    "likes": 1,
+    "likes": 2,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-VLABench",
     "date": "2026-07-28",
     "keyword": "robotics",
-    "score": 2.7
+    "score": 2.9
   },
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365",
