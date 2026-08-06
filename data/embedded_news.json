@@ -1,5 +1,12 @@
 [
   {
+    "title": "Only the Hottest Tunes Play on This Fire Organ",
+    "source": "Hackaday",
+    "date": "2026-08-06",
+    "url": "https://hackaday.com/2026/08/06/only-the-hottest-tunes-play-on-this-fire-organ/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/fire-organ-feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Most musical organs use air as their working fluid, but there&#8217;s nothing in the rule book that says they have to. Calliopes have used steam for 150 years now, while <a class=\"read-more\" href=\"https://hackaday.com/2026/08/06/only-the-hottest-tunes-play-on-this-fire-organ/\">&#8230;read more</a>"
+  },
+  {
     "title": "Hacking a Tenda AC1200 Wi-Fi Router with a CVE Combo",
     "source": "Hackaday",
     "date": "2026-08-06",
@@ -14,6 +21,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/airless-tire-main.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>For decades now, companies like Michelin have been teasing us with futuristic-looking automobile tires that don&#8217;t use air. Instead, they use a polymer mesh of sorts which maintains the same <a class=\"read-more\" href=\"https://hackaday.com/2026/08/05/3d-printing-a-usable-airless-tire/\">&#8230;read more</a>"
   },
   {
+    "title": "Espressif Systems releases ESP RainMaker Neo open-source device-to-cloud-to-phone IoT platform",
+    "source": "CNX Software",
+    "date": "2026-08-06",
+    "url": "https://www.cnx-software.com/2026/08/06/espressif-systems-releases-esp-rainmaker-neo-open-source-device-to-cloud-to-phone-iot-platform/",
+    "summary": "<div><img alt=\"ESP RainMaker Neo\" class=\"attachment-medium size-medium wp-post-image\" height=\"375\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/ESP-RainMaker-Neo-720x375.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Espressif Systems has just released ESP RainMaker Neo, providing a complete device-to-cloud-to-phone app stack, including the cloud backend, firmware SDK, firmware examples, phone app SDK, and reference phone app. If the name sounds familiar, it&#8217;s because it&#8217;s essentially the open-source version of ESP RainMaker cloud service introduced in 2020. Both are still built on AWS Serverless architecture, but while ESP RainMaker, now known as ESP RainMaker Classic, is managed by Espressif, ESP RainMaker Neo is hosted on the customer&#8217;s own AWS instance(s), providing more flexibility and control over the cloud architecture. While the company has made efforts to keep the same hybrid mobile app SDK and similar device-side APIs, RainMaker Neo is a new implementation with a different cloud architecture from ESP RainMaker Classic. That means existing ESP RainMaker Classic deployments cannot be directly migrated to Neo, and the open-source implementation is only recommended for new deployments. Released under the Apache [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/06/espressif-systems-releases-esp-rainmaker-neo-open-source-device-to-cloud-to-phone-iot-platform/\">Espressif Systems releases ESP RainMaker Neo open-source device-to-cloud-to-phone IoT platform</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Antmicro releases open-source hardware Thunderbolt to dual 10GbE adapter",
     "source": "CNX Software",
     "date": "2026-08-06",
@@ -21,46 +35,25 @@
     "summary": "<div><img alt=\"antmicro Thunderbolt to 10GbE adapter\" class=\"attachment-medium size-medium wp-post-image\" height=\"378\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/antmicro-Thunderbolt-to-10GbE-adapter-720x378.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Antmicro has just released an open-source hardware Thunderbolt to (dual) 10GbE adapter that serves as a reference design for a high-speed Ethernet accessory, further customizable for smart terminals, Point of Sale systems, smart cameras, IoT gateways, and more. The company has a history of releasing open-source hardware designs, and we previously covered a baseboard for Quectel SA800U-WF System-on-Module (Qualcomm Snapdragon 845) and an AMD Xilinx Kintex-7 K410T FPGA development board, both designed in KiCad. The Thunderbolt to 10GbE adapter adds to the list. Antmicro Thunderbolt to 10GbE adapter specifications: Networking &#8211; 2x 10GbE RJ45 ports via Intel X710-AT2 Ethernet controller Host interface &#8211; Thunderbolt 3 USB-C connector via Intel JHL6340SLLSQ Thunderbolt 3 controller (PCIe Gen3 x4) Misc Passive cooling via heatsink 4-pin PWM fan connector 3x LEDs Power Supply &#8211; 5V via USB-C port and DC jack Dimensions &#8211; 110 x 70 mm The company tested the adapter, I assume with iperf [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/06/antmicro-releases-open-source-hardware-thunderbolt-to-dual-10gbe-adapter/\">Antmicro releases open-source hardware Thunderbolt to dual 10GbE adapter</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "White House and AI leaders weigh regulation",
-    "source": "Electronics Weekly",
+    "title": "Magnetic PCB Vise – Carbon Fiber Rod Guides #3DThursday #3DPrinting",
+    "source": "Adafruit",
     "date": "2026-08-06",
-    "url": "https://www.electronicsweekly.com/news/business/us-ai-leaders-in-white-house-regulatory-meeting-2026-08/",
-    "summary": "<p>A  voluntary arrangement for reviewing AI models was discussed at the White House earlier this week, reports Politico.  OpenAI, Anthropic, Meta and Google were among companies attending the meeting to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/us-ai-leaders-in-white-house-regulatory-meeting-2026-08/\">White House and AI leaders weigh regulation</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/08/06/magnetic-pcb-vise-carbon-fiber-rod-guides-3dthursday-3dprinting/",
+    "summary": "perinski shares: A magnetic PCB vise using 4mm carbon fiber rods as guides (repurposed from another project). Simpler print-friendly version of a design originally sketched in aluminum. Pairs well with magnetic PCB holders on ferrous surfaces. YouTube walkthrough included. By Valera Perinski download the files on: https://makerworld.com/en/models/549873-magnetic-pcb-vise Every Thursday is #3dthursday here at Adafruit! The [&#8230;]"
   },
   {
-    "title": "Quantum sensors that inhabit cancer cells c",
-    "source": "Electronics Weekly",
+    "title": "Raspberry Pi5 with the Base NVME #3DThursday #3DPrinting",
+    "source": "Adafruit",
     "date": "2026-08-06",
-    "url": "https://www.electronicsweekly.com/news/business/quantum-sensors-that-inhabit-cancer-cells-c-2026-08/",
-    "summary": "<p>Researchers from Japan’s National Institutes for Quantum Science and Technology (QST) and the University of Tokyo have engineered Molecular Quantum Nanosensors (MoQNs).  These biocompatible quantum sensors use pentacene molecular spin [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/quantum-sensors-that-inhabit-cancer-cells-c-2026-08/\">Quantum sensors that inhabit cancer cells c</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/08/06/raspberry-pi5-with-the-base-nvme-3dthursday-3dprinting/",
+    "summary": "user_258400175 shares: A purpose-built Pi 5 case fitting the Pimoroni NVMe base and a Noctua 40×10mm 5V fan. Two versions — one with M3 heat-set inserts, one designed for M3 self-tapping screws. Shared case lid across both variants. Component links included. By seb7986 download the files on: https://makerworld.com/en/models/1812243-raspberry-pi5-case-with-base-nvme-and-fan Every Thursday is #3dthursday here at Adafruit! [&#8230;]"
   },
   {
-    "title": "China takes No.2 CIS slot",
-    "source": "Electronics Weekly",
+    "title": "NeoMatrix 16×16 Display – Adafruit Remix for Tiled 8×8 Matrices #3DThursday #3DPrinting",
+    "source": "Adafruit",
     "date": "2026-08-06",
-    "url": "https://www.electronicsweekly.com/news/business/china-takes-no-2-cis-slot-2026-08/",
-    "summary": "<p>Sony accounted for close to 50% of global CIS revenue in 2025 with China becoming the second-largest CIS supplier overtaking South Korea, with Omnivision, SmartSens, GalaxyCore, and Gpixel driving growth, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/china-takes-no-2-cis-slot-2026-08/\">China takes No.2 CIS slot</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Farnell signs RIGOL",
-    "source": "Electronics Weekly",
-    "date": "2026-08-06",
-    "url": "https://www.electronicsweekly.com/news/business/farnell-signs-rigol-2026-08/",
-    "summary": "<p>Farnell has signed a distribution agreement with RIGOL Technologies, giving customers across EMEA easier access to high-performance test and measurement equipment. The agreement will help design engineers, research institutions, and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/farnell-signs-rigol-2026-08/\">Farnell signs RIGOL</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Integrated power and signal connectors for humanoid robots",
-    "source": "Electronics Weekly",
-    "date": "2026-08-06",
-    "url": "https://www.electronicsweekly.com/news/business/integrated-power-and-signal-connectors-for-humanoid-robots-2026-08/",
-    "summary": "<p>Molex is sampling  MiniMix Hybrid Power and Signal Connectors for manufacturing and packaging applications in humanoid robotics, autonomous mobile robots (AMRs) and  industrial automation. Combining 15.0A power and high-speed Ethernet [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/integrated-power-and-signal-connectors-for-humanoid-robots-2026-08/\">Integrated power and signal connectors for humanoid robots</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Satellite Internet No Big Deal",
-    "source": "Electronics Weekly",
-    "date": "2026-08-06",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/satellite-internet-no-big-deal-2026-08/",
-    "summary": "<p>4%  of respondents in Germany to a survey by Statista Consumer Insights  reported using satellite internet in their homes. This share was similarly low in Japan and even lower in [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/satellite-internet-no-big-deal-2026-08/\">Satellite Internet No Big Deal</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/08/06/neomatrix-16x16-display-adafruit-remix-for-tiled-8x8-matrices-3dthursday-3dprinting/",
+    "summary": "jpark shares: A remix of Adafruit&#8217;s NeoMatrix Square LED Pixel Display, adapted to tile four 8×8 NeoMatrix NeoPixel displays into a 16×16 grid. 3D print the base, grid, and top, then optionally cut LED acrylic for diffusion. Direct-fit for Adafruit hardware. By jpark (Thingiverse) download the files on: https://www.thingiverse.com/thing:7113034 Every Thursday is #3dthursday here at [&#8230;]"
   },
   {
     "title": "Bambu Ball LED Lamp Kit 001 – Filament Display Inspiration #3DThursday #3DPrinting",
@@ -119,13 +112,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/07/Food.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It&#8217;s time to return to our no-punches-pulled look at food manufacture, and this time we&#8217;re looking at the humble loaf of bread. As before, we&#8217;re approaching the subject with a <a class=\"read-more\" href=\"https://hackaday.com/2026/08/05/know-your-food-our-daily-bread/\">&#8230;read more</a>"
   },
   {
-    "title": "Reading a Thermocouple with Mercury and a Potentiometer",
-    "source": "Hackaday",
-    "date": "2026-08-05",
-    "url": "https://hackaday.com/2026/08/05/reading-a-thermocouple-with-mercury-and-a-potentiometer/",
-    "summary": "<div><img alt=\"A man&#039;s hand is shown adjusting a black Bakelite dial on the front panel of an instrument. The instrument is contained in a wooden box, and to the left of the box, a thermocouple is inserted into the flame of an alcohol burner.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/potentiometer_thermocouple_measurement.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you’ve ever thought about the nomenclature of electrical components, potentiometer stands out as a strange name, etymologically suggesting something like a voltmeter. In fact, the component took its name <a class=\"read-more\" href=\"https://hackaday.com/2026/08/05/reading-a-thermocouple-with-mercury-and-a-potentiometer/\">&#8230;read more</a>"
-  },
-  {
     "title": "Large-scale LoRaWAN deployments become easier through QR codes and relays",
     "source": "CNX Software",
     "date": "2026-08-05",
@@ -168,34 +154,6 @@
     "summary": "<p>Ambiq has expanded its HELIA AI software ecosystem with the introduction of heliaPROFILER, an open-source profiling tool designed to accelerate the development and optimization of edge AI applications running on Apollo system-on-chips (SoCs). The software provides developers with cycle-accurate insight into AI model execution, enabling more efficient optimization of performance, memory usage, and energy consumption [...]</p>\n<p>The post <a href=\"https://www.embedded.com/ambiq-launches-heliaprofiler-for-edge-ai-development/\">Ambiq Launches heliaPROFILER for Edge AI Development</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Power Integrations demonstrates 2200V GaN technology",
-    "source": "Electronics Weekly",
-    "date": "2026-08-05",
-    "url": "https://www.electronicsweekly.com/news/power-integrations-demonstrates-2200v-gan-technology-2026-08/",
-    "summary": "<p>Another evolution in PowiGaN technology has been announced by Power Integrations. The company has announced that the proprietary semiconductor technology is now rated at up to 2200V. The previous highest [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/power-integrations-demonstrates-2200v-gan-technology-2026-08/\">Power Integrations demonstrates 2200V GaN technology</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Vishay infrared receiver modules for remote controls",
-    "source": "Electronics Weekly",
-    "date": "2026-08-05",
-    "url": "https://www.electronicsweekly.com/news/products/vishay-infrared-receiver-modules-for-remote-control-systems-2026-08/",
-    "summary": "<p>Vishay Intertechnology is introducing a series of infrared receiver modules for IR remote control applications. With modulation frequency acceptance from 30 kHz to 68 kHz, devices in the TSOP15300 series [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/vishay-infrared-receiver-modules-for-remote-control-systems-2026-08/\">Vishay infrared receiver modules for remote controls</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Smart Home Appliances",
-    "source": "Electronics Weekly",
-    "date": "2026-08-05",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/smart-home-appliances-2026-08/",
-    "summary": "<p>U.S. consumers have so far been relatively cautious when it comes to smart household appliances, as the latest issue of Statista Consumer Insights shows. This refers, for example, to robot [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/smart-home-appliances-2026-08/\">Smart Home Appliances</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
-    "source": "Electronics Weekly",
-    "date": "2026-08-05",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-08/",
-    "summary": "<p>Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-08/\">Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "Learn about birds with the Birduino: a card-triggered audio player",
     "source": "Adafruit",
     "date": "2026-08-05",
@@ -229,27 +187,6 @@
     "date": "2026-08-05",
     "url": "https://blog.adafruit.com/2026/08/05/experimental-linux-support-for-the-fairphone-6-wide-camera/",
     "summary": "nondescriptpointer discusses the Fairphone 6 is an interesting target for mainline Linux and postmarketOS. There are still two main blockers to making the device generally usable: onboard audio and camera support. I am working on a project that needs QR scanning, so I used that as an opportunity to see whether I could get at [&#8230;]"
-  },
-  {
-    "title": "Trim construction kit with Ableton Live",
-    "source": "Adafruit",
-    "date": "2026-08-05",
-    "url": "https://blog.adafruit.com/2026/08/05/trim-construction-kit-with-ableton-live/",
-    "summary": "Paul Drongowski has previously demonstrated the process of trimming audio stems for use on the Teenage Engineering EP-40 Riddim using (Cakewalk) SONAR Home Studio. Parenthetically, Paul thought that the same process could be applied in Ableton Live Intro. In Live, a new Live Set is created and the tempo set to 125 BPM before dragging loops and one-shots [&#8230;]"
-  },
-  {
-    "title": "New Gift Guide: Back to School 2026",
-    "source": "Adafruit",
-    "date": "2026-08-05",
-    "url": "https://blog.adafruit.com/2026/08/05/new-gift-guide-back-to-school-2026/",
-    "summary": "Back to School is on the horizon. Oi! Don’t wig out! School can be punk rock. We&#8217;re here to guide your way. Copyleft, lace up your Doc Martens, harness that Xerox-and-Scissors DIY spirit, and you’ll be pogo dancing your way to class come September. Check out the full guide here."
-  },
-  {
-    "title": "A clock that never needed setting",
-    "source": "Adafruit",
-    "date": "2026-08-05",
-    "url": "https://blog.adafruit.com/2026/08/05/a-clock-that-never-needed-setting/",
-    "summary": "Lee Hutchinson wanted a clock that, annoyingly, didn’t seem to exist. Since childhood, my bedside clocks have been a series of red, seven-segment LED clock-radio specials from Walmart or Target. They are invariably cheap, simple, and long-lived—but they require manual intervention at the start and end of Daylight Saving Time and whenever the power flickers. [&#8230;]"
   },
   {
     "title": "Calibre Vision AI: Accelerating Early Chip Integration and Debug — Siemens",
@@ -383,13 +320,6 @@
     "date": "2026-08-03",
     "url": "https://www.eejournal.com/industry_news/renesas-gen-3-mrdimm-chipset-solutions-advance-ddr5-memory-performance-to-16000-mt-s-for-next-gen-ai-and-hpc-applications-2/",
     "summary": "Renesas Electronics Corporation (TSE: 6723), a premier supplier of advanced semiconductor solutions, today announced its third‑generation (Gen 3) DDR5 Multiplexed Rank Dual In‑Line Memory Module (MRDIMM) chipset solutions, delivering DDR5 server-class MRDIMM speeds up to 16,000 mega transfers per second (MT/s). The new solutions are designed to address the growing demand for higher memory bandwidth driven by artificial &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/renesas-gen-3-mrdimm-chipset-solutions-advance-ddr5-memory-performance-to-16000-mt-s-for-next-gen-ai-and-hpc-applications-2/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Renesas Gen 3 MRDIMM Chipset Solutions Advance DDR5 Memory Performance to 16,000 MT/s for Next-Gen AI and HPC Applications\"</span></a>"
-  },
-  {
-    "title": "Play games with your brain signals using Octopus 16 wireless EEG device",
-    "source": "CNX Software",
-    "date": "2026-08-02",
-    "url": "https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/",
-    "summary": "<div><img alt=\"Octopus 16 biosignal device for gaming\" class=\"attachment-medium size-medium wp-post-image\" height=\"388\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Octopus-16-biosignal-device-for-gaming-720x388.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Octopus 16 is a wireless biosignal HID device for the XIAO ESP32-S3 board designed to let users play computer games using brain signals (EEG) with no hands (or implants) needed. The board packs 16 electrodes to measure biosignals, including EEG (electroencephalography), EMG (electromyography), and ECG (electrocardiography), and the coin-sized device is much more compact than other brain-computer interface (BCI) solutions, which typically require a cap kit with 8 to 16 electrodes and wires. Octopus 16 specifications: ADC &#8211; 2x Texas Instruments ADS131M08 24-bit, 8-channel, simultaneous-sampling, delta-sigma (ΔΣ) analog-to-digital converters Channels &#8211; 16x 24-bit channels (8x per ADC) Programmable gain (PGA) &#8211; x1 to x128 (set in firmware; default gain register 0x2222) Input high-pass / DC block &#8211; Integrated ADC DC-block filter enabled (≈ &#62;1 Hz) Host interface (to XIAO board) &#8211; Power + SPI via 2x 7-pin Brain interface 18x spring-loaded pogo pins 16x electrodes 1x  reference (AINREF) 1x Ground [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/\">Play games with your brain signals using Octopus 16 wireless EEG device</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Fault-Tolerant Quantum Computers, Sustained Performance Defines the Next Phase of Edge AI, Agentic AI for EDA: Embedded Week Insights",

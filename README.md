@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-06 07:29 UTC
+Last Updated: 2026-08-06 10:21 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-06 | Only the Hottest Tunes Play on This Fire Organ | Hackaday | [link](https://hackaday.com/2026/08/06/only-the-hottest-tunes-play-on-this-fire-organ/) |
 | 2026-08-06 | Hacking a Tenda AC1200 Wi-Fi Router with a CVE Combo | Hackaday | [link](https://hackaday.com/2026/08/05/hacking-a-tenda-ac1200-wi-fi-router-with-a-cve-combo/) |
 | 2026-08-06 | 3D Printing A Usable Airless Tire | Hackaday | [link](https://hackaday.com/2026/08/05/3d-printing-a-usable-airless-tire/) |
+| 2026-08-06 | Espressif Systems releases ESP RainMaker Neo open-source device-to-cloud-to-phone IoT platform | CNX Software | [link](https://www.cnx-software.com/2026/08/06/espressif-systems-releases-esp-rainmaker-neo-open-source-device-to-cloud-to-phone-iot-platform/) |
 | 2026-08-06 | Antmicro releases open-source hardware Thunderbolt to dual 10GbE adapter | CNX Software | [link](https://www.cnx-software.com/2026/08/06/antmicro-releases-open-source-hardware-thunderbolt-to-dual-10gbe-adapter/) |
-| 2026-08-06 | White House and AI leaders weigh regulation | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/us-ai-leaders-in-white-house-regulatory-meeting-2026-08/) |
-| 2026-08-06 | Quantum sensors that inhabit cancer cells c | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/quantum-sensors-that-inhabit-cancer-cells-c-2026-08/) |
-| 2026-08-06 | China takes No.2 CIS slot | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/china-takes-no-2-cis-slot-2026-08/) |
-| 2026-08-06 | Farnell signs RIGOL | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/farnell-signs-rigol-2026-08/) |
-| 2026-08-06 | Integrated power and signal connectors for humanoid robots | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/integrated-power-and-signal-connectors-for-humanoid-robots-2026-08/) |
-| 2026-08-06 | Satellite Internet No Big Deal | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/consumer/satellite-internet-no-big-deal-2026-08/) |
+| 2026-08-06 | Magnetic PCB Vise – Carbon Fiber Rod Guides #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/06/magnetic-pcb-vise-carbon-fiber-rod-guides-3dthursday-3dprinting/) |
+| 2026-08-06 | Raspberry Pi5 with the Base NVME #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/06/raspberry-pi5-with-the-base-nvme-3dthursday-3dprinting/) |
+| 2026-08-06 | NeoMatrix 16×16 Display – Adafruit Remix for Tiled 8×8 Matrices #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/06/neomatrix-16x16-display-adafruit-remix-for-tiled-8x8-matrices-3dthursday-3dprinting/) |
 | 2026-08-06 | Bambu Ball LED Lamp Kit 001 – Filament Display Inspiration #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/06/bambu-ball-led-lamp-kit-001-filament-display-inspiration-3dthursday-3dprinting/) |
+| 2026-08-06 | Pro PCB Vise – Sturdy 100mm-Wide Board Grip #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/06/pro-pcb-vise-sturdy-100mm-wide-board-grip-3dthursday-3dprinting/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-06 | NCDTech/real-robot-driving-mlp-numpy | 0 | 0 | [link](https://huggingface.co/NCDTech/real-robot-driving-mlp-numpy) |
+| 2026-08-06 | milab-robot/training-sample | 0 | 0 | [link](https://huggingface.co/milab-robot/training-sample) |
+| 2026-08-06 | locht131/robotwin_adjust_bottle | 0 | 0 | [link](https://huggingface.co/locht131/robotwin_adjust_bottle) |
 | 2026-08-06 | aria220/Xiaomi-Robotics-1-RoboCasa | 0 | 0 | [link](https://huggingface.co/aria220/Xiaomi-Robotics-1-RoboCasa) |
 | 2026-08-06 | zaleni/wsa-b-robotwin-abs-scratch-causal-no-g-to-a | 0 | 0 | [link](https://huggingface.co/zaleni/wsa-b-robotwin-abs-scratch-causal-no-g-to-a) |
 | 2026-08-06 | RobotisSW/Task_Dispose_General_Waste_On_The_Middle_Table_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_General_Waste_On_The_Middle_Table_50K) |
 | 2026-08-06 | RobotisSW/Task_Dispose_General_Waste_On_The_Middle_Table_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_General_Waste_On_The_Middle_Table_30K) |
 | 2026-08-06 | RobotisSW/Task_Dispose_General_Waste_On_The_Middle_Table_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_General_Waste_On_The_Middle_Table_10K) |
 | 2026-08-06 | RobotisSW/dispose_general_waste_1 | 0 | 0 | [link](https://huggingface.co/RobotisSW/dispose_general_waste_1) |
-| 2026-08-06 | sachinkhd1234/vla_test_modals | 0 | 0 | [link](https://huggingface.co/sachinkhd1234/vla_test_modals) |
-| 2026-08-06 | OpenRAL/rskill-xr1-franka_panda-vlabench-nf4 | 0 | 0 | [link](https://huggingface.co/OpenRAL/rskill-xr1-franka_panda-vlabench-nf4) |
-| 2026-08-06 | ISdept/wiltechs-vla-full-8k | 0 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-full-8k) |
-| 2026-08-06 | sam-guided-vlas/train_1_2__mask__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__blur__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-06 | ISdept/wiltechs-vla-full-12k | 0 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-full-12k) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | commaai/openpilot | 63341 | Python | 25336.5 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15627 | C++ | 6250.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 12926 | JavaScript | 5170.5 | [link](https://github.com/earthtojake/text-to-cad) |
-| kornia/kornia | 11303 | Python | 4521.3 | [link](https://github.com/kornia/kornia) |
+| ArduPilot/ardupilot | 15629 | C++ | 6251.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| earthtojake/text-to-cad | 12935 | JavaScript | 5174.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| kornia/kornia | 11304 | Python | 4521.7 | [link](https://github.com/kornia/kornia) |
+| RLinf/RLinf | 4455 | Python | 1782.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3867 | Rust | 1546.9 | [link](https://github.com/dora-rs/dora) |
-| sou350121/VLA-Handbook | 474 | HTML | 189.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| syswonder/robonix | 302 | Rust | 120.9 | [link](https://github.com/syswonder/robonix) |
-| vllm-project/vllm-omni | 5892 | Python | 2356.9 | [link](https://github.com/vllm-project/vllm-omni) |
-| softmata/horus | 406 | Rust | 162.5 | [link](https://github.com/softmata/horus) |
-| ROBOTIS-GIT/ai_worker | 159 | Python | 63.7 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
+| dexmal/dexbotic | 1273 | Python | 509.3 | [link](https://github.com/dexmal/dexbotic) |
+| flashrt-project/FlashRT | 489 | C++ | 195.7 | [link](https://github.com/flashrt-project/FlashRT) |
+| sou350121/VLA-Handbook | 475 | HTML | 190.1 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,6 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-06 | 36Kr Exclusive: Tsinghua-affiliated Physical AI Infrastructure Startup Secures Tens of Millions of US Dollars in New Financing Round, Global Large-scale Delivery of Its Data Equipment Launches - 36Kr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02LXEyc0pZcHU3S3ptaVZzM1E3UVFESk8xa2I0bnI0eF9wQWFLOEhnTVJuS2VfV3U4d21zQnNSeTg1X1hDeTdVSXl2NXh5WUpWV2Vj?oc=5) |
 | 2026-08-06 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
 | 2026-08-05 | Shelfmark raises $3.5M to scale physical AI and hire in Pittsburgh - Technical.ly | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0RmRnJhX2tKTzVpOTl3U2JYT3lUVHRuSER0MDdZdzRsRmtmamR0RU1zcDFfQWxjOE5VUEtDYV83X3BWSGFLMGxCYjVuT0QyREpIOGh4RS1rSG0tai0zaUR6Tk9MQTJaYmxGXzRiUjdpMFcxYnhTQWYzRWprQ0hubDdZNFk1RGFKOTh0UHhUSHYtZw?oc=5) |
 | 2026-08-05 | Embodied-AI data infrastructure startup Kaiwang Data raises more than RMB100 million - technode.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEQ1d1ItMXdNMGFZc01vd3NXU1Q4MENTXzNXRVZoVzlrNENpV1d2MXM5NEstOHBsTkxPdF9IWnNJMWg2blpBa2tQQnJYWUZHQWg0TGZ6Ym5qNzlhX2N4OG02cmtQUV9IWXZYaVVZaktIdk55YXVfOTJKS3hxaE55R3VGMEFxaFVtaHRzYmkyZGtWaVJfYXZVMmpuZXMyazU4SzNNZ0ZkaHBjcjdJVWVKVEF6OW9hcU1i?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
 | 2026-08-03 | The VC firm behind Shopify is doubling down on robotics and defense - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbVNpVE44QnpMNW5GWlkycDJwV1U5TUpsS1RsdzdYbFJiYVRUWjg1UG1mU2pLbi0tXzRfTERNWExoQ04tZXl3R1BDbWt6eXRYd283aEhaSUpzRmhjT19FaDFyd19hbmVSS3VROXlyZ0RNRTVQNkVieUNkd24tRHFobWs5UDJ0Z0lpOFNOVHJ5U3dwakpIbXl1aGJESlFLclJFMGhiXw?oc=5) |
 | 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - The Business Journals | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
-| 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
