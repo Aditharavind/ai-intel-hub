@@ -1,15 +1,15 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-05 23:44 UTC
+Generated: 2026-08-06 01:10 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-08-04 | Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation | [link](https://arxiv.org/pdf/2608.03990v1) |
-| 2026-08-04 | Stochastic Multiple Shooting Trajectory Optimization via Sequential Local Policy Evaluation | [link](https://arxiv.org/pdf/2608.03978v1) |
-| 2026-08-04 | Prithvi-Precip: Integrating Satellite Observations into an Atmospheric AI Foundation Model for Precipitation Forecasting | [link](https://arxiv.org/pdf/2608.03959v1) |
-| 2026-08-04 | A game theory for foundation models shows new paths to rational cooperation through similarity inference | [link](https://arxiv.org/pdf/2608.03958v1) |
-| 2026-08-04 | Bimanual Manipulation Within an 8 GB Budget: Zero-Copy Sensing and Quantized ACT on an Entry-Level Jetson | [link](https://arxiv.org/pdf/2608.03938v1) |
+| 2026-08-05 | When Do PEFT Adaptations Leak Structure? Measuring Black-Box Structural Bounds in Public-Base Model Services | [link](https://arxiv.org/pdf/2608.05036v1) |
+| 2026-08-05 | Scaling behavior in non-reciprocal and odd conserved dynamics near criticality | [link](https://arxiv.org/pdf/2608.05027v1) |
+| 2026-08-05 | Optimal Constrained sc-LTL Planning in MDPs via Switching Policies | [link](https://arxiv.org/pdf/2608.05021v1) |
+| 2026-08-05 | Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load | [link](https://arxiv.org/pdf/2608.05018v1) |
+| 2026-08-05 | Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes | [link](https://arxiv.org/pdf/2608.05000v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
@@ -34,7 +34,7 @@ Generated: 2026-08-05 23:44 UTC
 | --- | --- | --- | --- |
 | 2026-08-05 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbHJEd1BqVzk1VEFYRjRaUzdYbjdSSDRhTDB4Y2ZmUzFBLTFaR0dETW1MV1V4Uk4yeXlTaTBmZ2JxS3RFRThhSU43RWR4UFpieHAxX2ZYaWtPMXJOSzg4RjNyeFIycW9mWGl1ZzZCUFc4NFQ2VTIzbFdtRFFNbk93Y1RjajByMGNjR1Z2WDNGcjFHYlZVajlDWXNTVF9oUDZUYTEzby13MHNtMXlES1doejV1Z2JmQ0MxTFFEcW93MkM?oc=5) |
 | 2026-08-05 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE50TTk2WDl2Zy00emJXTmRNN0xoWjNGaWxnaWQwRDJLamRNMVVTZ2hrblBJcjhyWmxrZXdKOG1RM1N0T0hvYnpKM0dkS0FrVEIwQ25nMGt6YzJmOWZrLUNPM2pn?oc=5) |
-| 2026-08-05 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GZi1tRUktTHpxWXlQbGM2amxncms3U2hzUDFWZ2lCVkstb0s3RUtRR0hCb3doay1PdlllSnpDTW1La0h5d1FvMDBoaWhuRDBK?oc=5) |
+| 2026-08-05 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCa3Mta2ZVdlNGX1ZVbWF2T0xJMGdkVFRuYmZuMkYxSVpIekxLRU1KblIxeDI5WHA5eFNaM1lQOGNzdUpnbDFDeDR0alg2ZWN3?oc=5) |
 | 2026-08-05 | Unitree |  | [link](https://news.google.com/rss/articles/CBMidEFVX3lxTFBfMmRTNTJ0NkZocDlIVVN2SzZvRFJZaVNwMFVVcjNZTG4xTU5oMEZoOHYyZU5QWXpaYjBjTGxyeGJZeGpteFNWaklyWUdkV0h1cEwxWjNHUy1HMEJ2MFhDWVhWMnEybG4zVE9lclFCS3VDMUxt?oc=5) |
 | 2026-08-04 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiZkFVX3lxTE44dVhWQmM1ZlZ1akcxRURzcDFGOGRXUGctZHY3NHdZTHlrRDBNUzdXZEUya3JKSTdac3dsSlhmQzBUeUx2Nk9ZTHJFSEZhTnBBZ0xzakVZOHVMRWJTd2c4Mm9ZODVLZw?oc=5) |
 

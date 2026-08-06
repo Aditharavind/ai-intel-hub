@@ -1,5 +1,45 @@
 [
   {
+    "repo": "commaai/openpilot",
+    "stars": 63339,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-08-06",
+    "topic": "robotics",
+    "score": 25335.7
+  },
+  {
+    "repo": "kornia/kornia",
+    "stars": 11304,
+    "language": "Python",
+    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "url": "https://github.com/kornia/kornia",
+    "date": "2026-08-06",
+    "topic": "robotics",
+    "score": 4521.7
+  },
+  {
+    "repo": "vllm-project/vllm-omni",
+    "stars": 5883,
+    "language": "Python",
+    "description": "A framework for efficient model inference with omni-modality models",
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "date": "2026-08-06",
+    "topic": "world-model",
+    "score": 2353.3
+  },
+  {
+    "repo": "johnsutor/so101-nexus",
+    "stars": 31,
+    "language": "Python",
+    "description": "Full-stack robot learning for the SO-101 arm: teleoperation, imitation learning, and RL in MuJoCo.",
+    "url": "https://github.com/johnsutor/so101-nexus",
+    "date": "2026-08-06",
+    "topic": "lerobot",
+    "score": 12.5
+  },
+  {
     "repo": "NVIDIA/skills",
     "stars": 2798,
     "language": "Python",
@@ -60,16 +100,6 @@
     "score": 140.5
   },
   {
-    "repo": "commaai/openpilot",
-    "stars": 63339,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-08-05",
-    "topic": "robotics",
-    "score": 25335.7
-  },
-  {
     "repo": "zauberzeug/nicegui",
     "stars": 16091,
     "language": "Python",
@@ -91,33 +121,23 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14458,
+    "stars": 14459,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-05",
     "topic": "robotics",
-    "score": 5783.3
+    "score": 5783.7
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 12905,
+    "stars": 12907,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-05",
     "topic": "robotics",
-    "score": 5162.1
-  },
-  {
-    "repo": "kornia/kornia",
-    "stars": 11304,
-    "language": "Python",
-    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-    "url": "https://github.com/kornia/kornia",
-    "date": "2026-08-05",
-    "topic": "robotics",
-    "score": 4521.7
+    "score": 5162.9
   },
   {
     "repo": "rerun-io/rerun",
@@ -230,16 +250,6 @@
     "score": 119.7
   },
   {
-    "repo": "vllm-project/vllm-omni",
-    "stars": 5881,
-    "language": "Python",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "url": "https://github.com/vllm-project/vllm-omni",
-    "date": "2026-08-05",
-    "topic": "world-model",
-    "score": 2352.5
-  },
-  {
     "repo": "OpenHUTB/hutb",
     "stars": 563,
     "language": "C++",
@@ -300,14 +310,24 @@
     "score": 82.1
   },
   {
-    "repo": "johnsutor/so101-nexus",
-    "stars": 31,
+    "repo": "RobotControlStack/robot-control-stack",
+    "stars": 127,
     "language": "Python",
-    "description": "Full-stack robot learning for the SO-101 arm: teleoperation, imitation learning, and RL in MuJoCo.",
-    "url": "https://github.com/johnsutor/so101-nexus",
+    "description": "A lean, ROS-free sim-to-real framework for training and deploying Vision-Language-Action (VLA) models and RL agents. Native MuJoCo Gymnasium wrappers with synchronous execution for Franka, UR5e, xArm, and SO101.",
+    "url": "https://github.com/RobotControlStack/robot-control-stack",
+    "date": "2026-08-05",
+    "topic": "robot-learning",
+    "score": 50.9
+  },
+  {
+    "repo": "eust-w/amd-bigym-3dgs-rocm",
+    "stars": 16,
+    "language": "Python",
+    "description": "AMD Radeon ROCm reproduction of the DL3DV commercial-kitchen 3DGS shell for BiGym/MuJoCo, with verified W7900D artifacts.",
+    "url": "https://github.com/eust-w/amd-bigym-3dgs-rocm",
     "date": "2026-08-05",
     "topic": "lerobot",
-    "score": 12.5
+    "score": 6.5
   },
   {
     "repo": "alireza787b/mavsdk_drone_show",
@@ -530,6 +550,16 @@
     "score": 509.3
   },
   {
+    "repo": "NVIDIA-Omniverse/ovrtx",
+    "stars": 200,
+    "language": "Python",
+    "description": "A C and Python library for physically accurate, real-time, sensor simulation and visualization using NVIDIA Omniverse RTX",
+    "url": "https://github.com/NVIDIA-Omniverse/ovrtx",
+    "date": "2026-07-29",
+    "topic": "physical-ai",
+    "score": 80.1
+  },
+  {
     "repo": "zli12321/Vision-Language-Models-Overview",
     "stars": 688,
     "language": "HTML",
@@ -711,23 +741,33 @@
   },
   {
     "repo": "nv-tlabs/lyra",
-    "stars": 2205,
+    "stars": 2206,
     "language": "Python",
     "description": "Project Lyra: Open Generative 3D World Models",
     "url": "https://github.com/nv-tlabs/lyra",
     "date": "2026-07-20",
     "topic": "world-model",
-    "score": 882.1
+    "score": 882.5
   },
   {
     "repo": "OpenDriveLab/WorldEngine",
-    "stars": 482,
+    "stars": 483,
     "language": "Python",
     "description": "WorldEngine: Towards the Era of Post-Training for Autonomous Driving",
     "url": "https://github.com/OpenDriveLab/WorldEngine",
     "date": "2026-07-20",
     "topic": "world-model",
-    "score": 192.9
+    "score": 193.3
+  },
+  {
+    "repo": "amazon-far/abc",
+    "stars": 282,
+    "language": "Python",
+    "description": "ABC: Scalable Behavior Cloning with Open Data, Training, and Evaluation",
+    "url": "https://github.com/amazon-far/abc",
+    "date": "2026-07-17",
+    "topic": "vla",
+    "score": 112.9
   },
   {
     "repo": "LeCAR-Lab/BFM-Zero",
@@ -838,35 +878,5 @@
     "date": "2026-07-07",
     "topic": "lerobot",
     "score": 1246.5
-  },
-  {
-    "repo": "nik-55/world-models",
-    "stars": 246,
-    "language": "",
-    "description": "A curated list of research and projects on world models",
-    "url": "https://github.com/nik-55/world-models",
-    "date": "2026-07-06",
-    "topic": "physical-ai",
-    "score": 98.5
-  },
-  {
-    "repo": "OpenDriveLab/RISE",
-    "stars": 333,
-    "language": "Python",
-    "description": "[RSS 2026] Code for RISE: Self-Improving Robot Policy with Compositional World Model",
-    "url": "https://github.com/OpenDriveLab/RISE",
-    "date": "2026-07-06",
-    "topic": "robot-learning",
-    "score": 133.3
-  },
-  {
-    "repo": "jackvial/lerobot-data-studio",
-    "stars": 58,
-    "language": "TypeScript",
-    "description": "LeRobot Data Studio - Unofficial LeRobot Dataset Editor",
-    "url": "https://github.com/jackvial/lerobot-data-studio",
-    "date": "2026-07-06",
-    "topic": "lerobot",
-    "score": 23.3
   }
 ]
