@@ -1,5 +1,12 @@
 [
   {
+    "title": "FitzRoy’s Glass: Victorian Weather Marvel or Glorified Thermometer?",
+    "source": "Hackaday",
+    "date": "2026-08-06",
+    "url": "https://hackaday.com/2026/08/06/fitzroys-glass-victorian-weather-marvel-or-glorified-thermometer/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/08/Barometre_de_FitzRoy_01_featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Everyone talks about the weather. This is doubly true for sailors, where bad weather could mean a very bad day. So it isn&#8217;t surprising that navies around the world have <a class=\"read-more\" href=\"https://hackaday.com/2026/08/06/fitzroys-glass-victorian-weather-marvel-or-glorified-thermometer/\">&#8230;read more</a>"
+  },
+  {
     "title": "Amiga and Commodore, Back Together (Sort Of)",
     "source": "Hackaday",
     "date": "2026-08-06",
@@ -28,6 +35,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/airless-tire-main.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>For decades now, companies like Michelin have been teasing us with futuristic-looking automobile tires that don&#8217;t use air. Instead, they use a polymer mesh of sorts which maintains the same <a class=\"read-more\" href=\"https://hackaday.com/2026/08/05/3d-printing-a-usable-airless-tire/\">&#8230;read more</a>"
   },
   {
+    "title": "PICOTTY project enables multi-target serial remote management through Raspberry Pi Pico boards and Pi Zero 2 W SBC",
+    "source": "CNX Software",
+    "date": "2026-08-06",
+    "url": "https://www.cnx-software.com/2026/08/06/picotty-project-enables-multi-target-serial-remote-management-through-raspberry-pi-pico-boards-and-pi-zero-2-w-sbc/",
+    "summary": "<div><img alt=\"PICOTTY Node\" class=\"attachment-medium size-medium wp-post-image\" height=\"410\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/PICOTTY-Node-720x410.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>PICOTTY is an open-source project enabling serial-based remote management using a Raspberry Pi Zero 2W as a hub running a web server for the dashboard, and several Raspberry Pi Pico or Pico 2 boards with an Ethernet add-on to control and monitor the targets over serial. In some ways, it&#8217;s a multi-target IP KVM, but without video or mouse, so let&#8217;s call it an IP keyboard, since each Pico board acts as an Ethernet-connected USB keyboard, while the Pi Zero 2 W SBC manages all nodes attached to it over Ethernet. The developer, Chiranjeevi (morpheuslord), mostly uses it to control systems running Proxmox VE, but it could be useful for other headless applications where a keyboard is sufficient. Hardware for the project: Raspberry Pi Zero 2 W &#8211; Runs a web server on port 8080 and a TCP server on port 9000 to control the nodes Nodes Option 1 Raspberry [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/06/picotty-project-enables-multi-target-serial-remote-management-through-raspberry-pi-pico-boards-and-pi-zero-2-w-sbc/\">PICOTTY project enables multi-target serial remote management through Raspberry Pi Pico boards and Pi Zero 2 W SBC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Espressif Systems releases ESP RainMaker Neo open-source device-to-cloud-to-phone IoT platform",
     "source": "CNX Software",
     "date": "2026-08-06",
@@ -40,6 +54,27 @@
     "date": "2026-08-06",
     "url": "https://www.cnx-software.com/2026/08/06/antmicro-releases-open-source-hardware-thunderbolt-to-dual-10gbe-adapter/",
     "summary": "<div><img alt=\"antmicro Thunderbolt to 10GbE adapter\" class=\"attachment-medium size-medium wp-post-image\" height=\"378\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/antmicro-Thunderbolt-to-10GbE-adapter-720x378.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Antmicro has just released an open-source hardware Thunderbolt to (dual) 10GbE adapter that serves as a reference design for a high-speed Ethernet accessory, further customizable for smart terminals, Point of Sale systems, smart cameras, IoT gateways, and more. The company has a history of releasing open-source hardware designs, and we previously covered a baseboard for Quectel SA800U-WF System-on-Module (Qualcomm Snapdragon 845) and an AMD Xilinx Kintex-7 K410T FPGA development board, both designed in KiCad. The Thunderbolt to 10GbE adapter adds to the list. Antmicro Thunderbolt to 10GbE adapter specifications: Networking &#8211; 2x 10GbE RJ45 ports via Intel X710-AT2 Ethernet controller Host interface &#8211; Thunderbolt 3 USB-C connector via Intel JHL6340SLLSQ Thunderbolt 3 controller (PCIe Gen3 x4) Misc Passive cooling via heatsink 4-pin PWM fan connector 3x LEDs Power Supply &#8211; 5V via USB-C port and DC jack Dimensions &#8211; 110 x 70 mm The company tested the adapter, I assume with iperf [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/06/antmicro-releases-open-source-hardware-thunderbolt-to-dual-10gbe-adapter/\">Antmicro releases open-source hardware Thunderbolt to dual 10GbE adapter</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Partnership Delivers AI-Powered Design to Engineers",
+    "source": "Embedded.com",
+    "date": "2026-08-06",
+    "url": "https://www.embedded.com/partnership-delivers-ai-powered-design-to-engineers/",
+    "summary": "<p>Celus, an AI-powered electronic design automation company, announced a strategic partnership with Variscite that brings Variscite's system-on-module (SoM) portfolio into the CELUS Design Platform to accelerate embedded system development from concept to a prototype or production-ready design. Simplifying electronics design with AI, the integration combines Variscite's SoMs with Celus' AI Design Assistant to shorten time [...]</p>\n<p>The post <a href=\"https://www.embedded.com/partnership-delivers-ai-powered-design-to-engineers/\">Partnership Delivers AI-Powered Design to Engineers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Axiom charity golf day raises £3,500 for SSAFA",
+    "source": "Electronics Weekly",
+    "date": "2026-08-06",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/general-electronics/axiom-charity-golf-day-raises-3500-for-ssafa-2026-08/",
+    "summary": "<p>Axiom Manufacturing Services raises £3,500 for SSAFA, the Armed Forces charity, following a successful charity golf day at The Vale Resort.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/general-electronics/axiom-charity-golf-day-raises-3500-for-ssafa-2026-08/\">Axiom charity golf day raises £3,500 for SSAFA</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Fable: Not A High Flyer",
+    "source": "Electronics Weekly",
+    "date": "2026-08-06",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-not-a-high-flyer-2026-08/",
+    "summary": "<p>This was not a high-flier: Moral: All that flies does not fly high &#160;</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-not-a-high-flyer-2026-08/\">Fable: Not A High Flyer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "MAGPIE rover heads for lunar polar ice exploration",
@@ -98,11 +133,25 @@
     "summary": "<p>Molex is sampling  MiniMix Hybrid Power and Signal Connectors for manufacturing and packaging applications in humanoid robotics, autonomous mobile robots (AMRs) and  industrial automation. Combining 15.0A power and high-speed Ethernet [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/integrated-power-and-signal-connectors-for-humanoid-robots-2026-08/\">Integrated power and signal connectors for humanoid robots</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Satellite Internet No Big Deal",
-    "source": "Electronics Weekly",
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
     "date": "2026-08-06",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/satellite-internet-no-big-deal-2026-08/",
-    "summary": "<p>4%  of respondents in Germany to a survey by Statista Consumer Insights  reported using satellite internet in their homes. This share was similarly low in Japan and even lower in [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/satellite-internet-no-big-deal-2026-08/\">Satellite Internet No Big Deal</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/08/06/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-6-2/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+  },
+  {
+    "title": "New Guide! Voicebox FX",
+    "source": "Adafruit",
+    "date": "2026-08-06",
+    "url": "https://blog.adafruit.com/2026/08/06/new-guide-voicebox-fx/",
+    "summary": "Learn Guide – Voicebox FX Build a whismical audio recording device that features built-in effects. You can record an audio sample (20-second max) and play it back as a loop. During playback, you can change the pitch of the recording using a slider, and apply two effects: a reverb and a delay/echo using rotary potentiometers. [&#8230;]"
+  },
+  {
+    "title": "LED Lamp Kit – Adjustable Desk Lamp with Magnetic Glare Shield #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-08-06",
+    "url": "https://blog.adafruit.com/2026/08/06/led-lamp-kit-adjustable-desk-lamp-with-magnetic-glare-shield-3dthursday-3dprinting/",
+    "summary": "PrestigeProto shares: A minimalist Bambu LED Kit lamp with adjustable head and height, mounted on a 1-inch dowel with a thumbscrew for stable rotation lock. Three M3×10mm screws for bracket assembly. Optional print-without-bottom-layer + fill-with-plaster for extra base weight. Magnetic-mounted glare shield attaches with 5×3mm or 6×3mm magnets download the files on: https://makerworld.com/en/models/145041-led-lamp-kit-adjustable-desk-lamp Every Thursday [&#8230;]"
   },
   {
     "title": "Spider on Web Halloween Decor – Articulated Corner Piece #3DThursday #3DPrinting",
@@ -168,6 +217,13 @@
     "summary": "Remix by Mythmarco: A spooky-cute remix pairing a Blender-designed pumpkin head with an articulated spider body. AMS and No-AMS variants. Orange PLA for the pumpkin, black PETG for the spider frame (recommended for strength). Snap-together legs, no supports, brim needed for the pumpkin head. By Mythmarco download the files on: https://makerworld.com/en/models/1761813-articulated-pumpkin-spider Every Thursday is #3dthursday [&#8230;]"
   },
   {
+    "title": "Practical AI: Don’t Work Harder; Work Smarter",
+    "source": "EE Journal",
+    "date": "2026-08-06",
+    "url": "https://www.eejournal.com/article/practical-ai-dont-work-harder-work-smarter/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/08/max-0507-image-for-home-page-blaize-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />For the past three years, almost every discussion I&#8217;ve had about AI processors and accelerators has eventually devolved into someone jumping up and down (metaphorically speaking) waving around bigger and bigger numbers: more parameters, more memory bandwidth, more TOPS, more&#8230; well&#8230; you name it, and they&#8217;ve got more of it. After a while, it begins &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/practical-ai-dont-work-harder-work-smarter/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Practical AI: Don’t Work Harder; Work Smarter\"</span></a>"
+  },
+  {
     "title": "Full Teardown of a 2026 Amazon Fire Stick HD",
     "source": "Hackaday",
     "date": "2026-08-05",
@@ -180,13 +236,6 @@
     "date": "2026-08-05",
     "url": "https://hackaday.com/2026/08/05/addressable-leds-make-giant-16x2-character-display/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/Giant1602LCD-feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We&#8217;ve always taken a certain childlike joy in seeing tiny things made big, and big things tiny. Evidently [Uncle Stem] is the same way, if this 7x sized 16&#215;2 &#8220;LCD&#8221; <a class=\"read-more\" href=\"https://hackaday.com/2026/08/05/addressable-leds-make-giant-16x2-character-display/\">&#8230;read more</a>"
-  },
-  {
-    "title": "FLOSS Weekly Episode 878: A Tool With Opinions",
-    "source": "Hackaday",
-    "date": "2026-08-05",
-    "url": "https://hackaday.com/2026/08/05/floss-weekly-episode-878-a-tool-with-opinions/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>This week Jonathan chats with Jonathan Pallant about embedded Rust! Learn about the growing Rust driver library, the different ways to build a Rust stack on an embedded device, and <a class=\"read-more\" href=\"https://hackaday.com/2026/08/05/floss-weekly-episode-878-a-tool-with-opinions/\">&#8230;read more</a>"
   },
   {
     "title": "Large-scale LoRaWAN deployments become easier through QR codes and relays",
@@ -229,34 +278,6 @@
     "date": "2026-08-05",
     "url": "https://www.embedded.com/ambiq-launches-heliaprofiler-for-edge-ai-development/",
     "summary": "<p>Ambiq has expanded its HELIA AI software ecosystem with the introduction of heliaPROFILER, an open-source profiling tool designed to accelerate the development and optimization of edge AI applications running on Apollo system-on-chips (SoCs). The software provides developers with cycle-accurate insight into AI model execution, enabling more efficient optimization of performance, memory usage, and energy consumption [...]</p>\n<p>The post <a href=\"https://www.embedded.com/ambiq-launches-heliaprofiler-for-edge-ai-development/\">Ambiq Launches heliaPROFILER for Edge AI Development</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Power Integrations demonstrates 2200V GaN technology",
-    "source": "Electronics Weekly",
-    "date": "2026-08-05",
-    "url": "https://www.electronicsweekly.com/news/power-integrations-demonstrates-2200v-gan-technology-2026-08/",
-    "summary": "<p>Another evolution in PowiGaN technology has been announced by Power Integrations. The company has announced that the proprietary semiconductor technology is now rated at up to 2200V. The previous highest [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/power-integrations-demonstrates-2200v-gan-technology-2026-08/\">Power Integrations demonstrates 2200V GaN technology</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Learn about birds with the Birduino: a card-triggered audio player",
-    "source": "Adafruit",
-    "date": "2026-08-05",
-    "url": "https://blog.adafruit.com/2026/08/05/learn-about-birds-with-the-birduino-a-card-triggered-audio-player/",
-    "summary": "An NFC flash card game for bird songs. From Hannah Robertson: It consists of a deck of bird cards, an audio player, and a card reader. Tapping a card triggers playback of one of the vocalizations associated with that bird. You can trigger a bird-of-choice to learn its calls, or pick a random card and [&#8230;]"
-  },
-  {
-    "title": "JP’s Product Pick of the Week 8/4/26 @adafruit @johnedgarpark #adafruit #newproductpick",
-    "source": "Adafruit",
-    "date": "2026-08-05",
-    "url": "https://blog.adafruit.com/2026/08/05/jps-product-pick-of-the-week-8-4-26-adafruit-johnedgarpark-adafruit-newproductpick/",
-    "summary": "This week’s pick is the Adafruit High Power Infrared IR LED Emitter &#8211; STEMMA JST PH 2mm! Watch the video for a live demo and more. Want more JP’s Product Pick of the Week?! Tune in every Tuesday at 4pm ET and 1pm PT on Youtube LIVE, Twitch, Periscope (Twitter) and Facebook. LIVE TEXT CHAT [&#8230;]"
-  },
-  {
-    "title": "A reverse avalanche oscillator #EE",
-    "source": "Adafruit",
-    "date": "2026-08-05",
-    "url": "https://blog.adafruit.com/2026/08/05/a-reverse-avalanche-oscillator-ee/",
-    "summary": "Michal Zalewski&#8217; on the lcamtuf&#8217;s thing blog states that there’s no shortage of oscillator circuits on the internet, but many of them use unusual parts, need weird supply voltages, or don’t work well (if at all). But sometimes, bad rises to an art form. Above is probably the most puzzling bad oscillator you can assemble [&#8230;]"
   },
   {
     "title": "Calibre Vision AI: Accelerating Early Chip Integration and Debug — Siemens",
@@ -378,20 +399,6 @@
     "summary": "<div><img alt=\"ASUS UGen300 USB AI Accelerator\" class=\"attachment-medium size-medium wp-post-image\" height=\"463\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/ASUS-UGen300-USB-AI-Accelerator-720x463.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ASUS UGen300 USB AI accelerator features a 40 TOPS Hailo-10H AI processor and 8GB of LPDDR4 memory to support large language models (LLMs), vision language models (VLMs), and AI vision workloads while consuming less than 2.5 Watts. In some ways, the hardware is similar to the Raspberry Pi AI HAT+ 2, but in a slim dongle form factor (105 x 50 x 18mm) and a 10 Gbps USB 3.2 Gen1 USB-C Type-C port instead of a 5 or 8 GT/s PCIe interface. ASUS UGen300 USB AI accelerator (UGen300-USB-8G) specifications: AI accelerator – Hailo Hailo-10H delivering up to 40 TOPS (INT4) or 20 TOPS (INT8) inferencing performance Memory &#8211; 8GB LPDDR4 @ 4266 MT/s Host interface &#8211; USB 3.1 Gen2 (10 Gbps) Type-C port Power Supply &#8211; 5V via USB-C port Power Consumption &#8211; 2.5 Watts (typical) Dimensions – 105 x 50 x 18 mm Weight &#8211; 145 grams ASUS says the [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/03/299-99-asus-ugen300-usb-ai-accelerator-hailo-10h-8gb-lpddr4/\">$299.99 ASUS UGen300 USB AI accelerator combines 40 TOPS Hailo-10H chip with 8GB LPDDR4</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Aliensense NXS is a plug-and-play GMSL 2/3 and CAN-FD sensor board for robots",
-    "source": "CNX Software",
-    "date": "2026-08-03",
-    "url": "https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/",
-    "summary": "<div><img alt=\"Aliensense NXS sensor board for robots\" class=\"attachment-medium size-medium wp-post-image\" height=\"475\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Aliensense-NXS-sensor-board-for-robots-720x475.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Abu Dhabi-based Aliensense has introduced NXS, a compact sensor board designed to easily connect cameras and sensors to robots, without custom wiring or driver work. The board relies on a single GMSL 2/3 cable for power, video, and sensor data over up to 15 meters, extendable to 40 meters over CAN-FD (data only, reduced baudrate). The STM32G491 board is also compatible with the 2,000+ boards in MikroElektronika&#8217;s Click ecosystem thanks to a mikroBUS connector brought out through a Shuttle add-on board. This means you can use compatible sensors (via mikroBUS) in addition to, or instead of, a camera. NXS specifications: MCU &#8211; STMicro STM32G491 Cortex-M4F microcontroller with 112KB SRAM, up to 512KB flash Camera Interface &#8211; MIPI CSI-2 input, MAX96793 GMSL2/3 serializer, power-over-coax Connectivity &#8211; GMSL2/3, CAN-FD, Cyphal/serial, I2C register map Expansion &#8211; mikroBUS socket with I2C, SPI, UART, PWM, analog, INT, RST Recovery support &#8211; Signed A/B firmware, watchdog [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/\">Aliensense NXS is a plug-and-play GMSL 2/3 and CAN-FD sensor board for robots</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Renesas Gen 3 MRDIMM Chipset Solutions Advance DDR5 Memory Performance to 16,000 MT/s for Next-Gen AI and HPC Applications",
-    "source": "EE Journal",
-    "date": "2026-08-03",
-    "url": "https://www.eejournal.com/industry_news/renesas-gen-3-mrdimm-chipset-solutions-advance-ddr5-memory-performance-to-16000-mt-s-for-next-gen-ai-and-hpc-applications-2/",
-    "summary": "Renesas Electronics Corporation (TSE: 6723), a premier supplier of advanced semiconductor solutions, today announced its third‑generation (Gen 3) DDR5 Multiplexed Rank Dual In‑Line Memory Module (MRDIMM) chipset solutions, delivering DDR5 server-class MRDIMM speeds up to 16,000 mega transfers per second (MT/s). The new solutions are designed to address the growing demand for higher memory bandwidth driven by artificial &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/renesas-gen-3-mrdimm-chipset-solutions-advance-ddr5-memory-performance-to-16000-mt-s-for-next-gen-ai-and-hpc-applications-2/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Renesas Gen 3 MRDIMM Chipset Solutions Advance DDR5 Memory Performance to 16,000 MT/s for Next-Gen AI and HPC Applications\"</span></a>"
-  },
-  {
     "title": "Fault-Tolerant Quantum Computers, Sustained Performance Defines the Next Phase of Edge AI, Agentic AI for EDA: Embedded Week Insights",
     "source": "Embedded.com",
     "date": "2026-07-31",
@@ -418,12 +425,5 @@
     "date": "2026-07-30",
     "url": "https://www.embedded.com/why-sustained-performance-defines-the-next-phase-of-edge-ai/",
     "summary": "<p>Avnet Silica details why sustained performance, not peak compute, will define the next phase of edge AI.</p>\n<p>The post <a href=\"https://www.embedded.com/why-sustained-performance-defines-the-next-phase-of-edge-ai/\">Why Sustained Performance Defines the Next Phase of Edge AI</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "BrainChip Launches AKD1500 M.2 Module for Fanless Edge AI",
-    "source": "Embedded.com",
-    "date": "2026-07-29",
-    "url": "https://www.embedded.com/brainchip-launches-akd1500-m-2-module-for-fanless-edge-ai/",
-    "summary": "<p>BrainChip Inc. has introduced a new M.2 version of its AKD1500 edge AI accelerator, enabling compact, fanless, and plug-and-play deployment of neuromorphic artificial intelligence capabilities in industrial and commercial systems. Based on the Akida neuromorphic processor architecture, the module provides hardware designers with a low-power solution for adding on-device AI functionality to existing platforms without [...]</p>\n<p>The post <a href=\"https://www.embedded.com/brainchip-launches-akd1500-m-2-module-for-fanless-edge-ai/\">BrainChip Launches AKD1500 M.2 Module for Fanless Edge AI</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
