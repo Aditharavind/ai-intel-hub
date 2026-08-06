@@ -1,5 +1,23 @@
 [
   {
+    "model": "zolkin/robot_rl",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/zolkin/robot_rl",
+    "date": "2026-08-06",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
+    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
+    "downloads": 400,
+    "likes": 0,
+    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
+    "date": "2026-08-06",
+    "keyword": "vla",
+    "score": 120.1
+  },
+  {
     "model": "NCDTech/real-robot-driving-mlp-numpy",
     "downloads": 0,
     "likes": 0,
@@ -78,6 +96,15 @@
     "url": "https://huggingface.co/RobotisSW/dispose_general_waste_1",
     "date": "2026-08-06",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Mohamedd123321/Arabizi_Checkpoints_vlast_d6",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Mohamedd123321/Arabizi_Checkpoints_vlast_d6",
+    "date": "2026-08-06",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -162,6 +189,42 @@
     "score": 0.1
   },
   {
+    "model": "Schisttherock/so101-manufacturing-act-policy-all-videos",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Schisttherock/so101-manufacturing-act-policy-all-videos",
+    "date": "2026-08-06",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ChristianZ97/satp-policy-v4.27",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
+    "date": "2026-08-06",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Schisttherock/so101-manufacturing-act-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Schisttherock/so101-manufacturing-act-policy",
+    "date": "2026-08-06",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "muacha/my_overfit_pi05_policy",
+    "downloads": 148,
+    "likes": 0,
+    "url": "https://huggingface.co/muacha/my_overfit_pi05_policy",
+    "date": "2026-08-06",
+    "keyword": "policy",
+    "score": 44.5
+  },
+  {
     "model": "LCPRZZL/act_policy",
     "downloads": 17,
     "likes": 0,
@@ -169,6 +232,24 @@
     "date": "2026-08-06",
     "keyword": "policy",
     "score": 5.2
+  },
+  {
+    "model": "szaborego/panda_reach_act_policy_4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/szaborego/panda_reach_act_policy_4",
+    "date": "2026-08-06",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "nosuke113/parc2026-openvla-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/nosuke113/parc2026-openvla-policy",
+    "date": "2026-08-06",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "MakinoKF/put-the-nut-from-above_20260806_172353_act-policy-v1",
@@ -216,51 +297,6 @@
     "score": 0.1
   },
   {
-    "model": "mljn/mdeberta-v3-base-finetuned-policy-statement-detection-token-classification",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mljn/mdeberta-v3-base-finetuned-policy-statement-detection-token-classification",
-    "date": "2026-08-06",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "rdteteam/converted_test_bags_v3_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/rdteteam/converted_test_bags_v3_policy",
-    "date": "2026-08-06",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ChristianZ97/satp-policy-v4.27",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
-    "date": "2026-08-06",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "hiskiv/cosmos-policy-lam-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hiskiv/cosmos-policy-lam-v2",
-    "date": "2026-08-06",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "s1eepypillow/task1_act_policy_fixedleft",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/s1eepypillow/task1_act_policy_fixedleft",
-    "date": "2026-08-06",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "Myungkyu/hiwrld-baseline-ckpts-real-robot",
     "downloads": 0,
     "likes": 0,
@@ -268,24 +304,6 @@
     "date": "2026-08-05",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "OpenWAM/RoboTwin_DualSystem_JointSelfAttn_Mutual",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/RoboTwin_DualSystem_JointSelfAttn_Mutual",
-    "date": "2026-08-05",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm",
-    "downloads": 7,
-    "likes": 0,
-    "url": "https://huggingface.co/RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm",
-    "date": "2026-08-05",
-    "keyword": "robot",
-    "score": 2.2
   },
   {
     "model": "sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__pi05__seed_0",
@@ -301,24 +319,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/erl-hub/pls-vla-skill-predictor",
-    "date": "2026-08-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0",
-    "date": "2026-08-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__no_mask__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0",
     "date": "2026-08-05",
     "keyword": "vla",
     "score": 0.1
@@ -384,15 +384,6 @@
     "url": "https://huggingface.co/physicalairi/so101_1200ep_pi05_20260805",
     "date": "2026-08-05",
     "keyword": "physical ai",
-    "score": 0.1
-  },
-  {
-    "model": "jogarulfop/policy_2026-07-28_shake4it_bench_dragonfly_100kHz_nfft_4096",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-07-28_shake4it_bench_dragonfly_100kHz_nfft_4096",
-    "date": "2026-08-05",
-    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -704,11 +695,11 @@
   {
     "model": "tencent/Hy-Embodied-RxBrain-1.0",
     "downloads": 356,
-    "likes": 53,
+    "likes": 54,
     "url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
     "date": "2026-07-18",
     "keyword": "embodied",
-    "score": 117.5
+    "score": 117.7
   },
   {
     "model": "EmbodiedCity/Worldscape-MoE",
