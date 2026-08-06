@@ -1,5 +1,14 @@
 [
   {
+    "model": "aria220/Xiaomi-Robotics-1-RoboCasa",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/aria220/Xiaomi-Robotics-1-RoboCasa",
+    "date": "2026-08-06",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "zaleni/wsa-b-robotwin-abs-scratch-causal-no-g-to-a",
     "downloads": 0,
     "likes": 0,
@@ -45,6 +54,33 @@
     "score": 0.1
   },
   {
+    "model": "sachinkhd1234/vla_test_modals",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sachinkhd1234/vla_test_modals",
+    "date": "2026-08-06",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "OpenRAL/rskill-xr1-franka_panda-vlabench-nf4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenRAL/rskill-xr1-franka_panda-vlabench-nf4",
+    "date": "2026-08-06",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "ISdept/wiltechs-vla-full-8k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ISdept/wiltechs-vla-full-8k",
+    "date": "2026-08-06",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "sam-guided-vlas/train_1_2__mask__blur__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -78,6 +114,15 @@
     "url": "https://huggingface.co/physicalairi/so101_1200ep_pi05",
     "date": "2026-08-06",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "mljn/mdeberta-v3-base-finetuned-policy-statement-detection-token-classification",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mljn/mdeberta-v3-base-finetuned-policy-statement-detection-token-classification",
+    "date": "2026-08-06",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -158,7 +203,7 @@
     "likes": 0,
     "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
     "date": "2026-08-05",
-    "keyword": "vla",
+    "keyword": "robot",
     "score": 120.1
   },
   {
@@ -166,15 +211,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/TechnoBaptist/Xiaomi-Robotics-1-RoboCasa365",
-    "date": "2026-08-05",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "TechnoBaptist/Xiaomi-Robotics-1-5B",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/TechnoBaptist/Xiaomi-Robotics-1-5B",
     "date": "2026-08-05",
     "keyword": "robotics",
     "score": 0.1
@@ -232,24 +268,6 @@
     "date": "2026-08-05",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "alecs-vlad24/cv-structuring-llm-2026-08-05_14.19",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/alecs-vlad24/cv-structuring-llm-2026-08-05_14.19",
-    "date": "2026-08-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "siliconperception/VLA",
-    "downloads": 144,
-    "likes": 0,
-    "url": "https://huggingface.co/siliconperception/VLA",
-    "date": "2026-08-05",
-    "keyword": "vla",
-    "score": 43.3
   },
   {
     "model": "flashrt/world-model-conv",
@@ -378,13 +396,13 @@
     "score": 0.1
   },
   {
-    "model": "MakinoKF/pich-the-nut-from-above_20260731_105505_act-policy-v1",
-    "downloads": 36,
+    "model": "TechnoBaptist/Xiaomi-Robotics-1-5B",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/MakinoKF/pich-the-nut-from-above_20260731_105505_act-policy-v1",
+    "url": "https://huggingface.co/TechnoBaptist/Xiaomi-Robotics-1-5B",
     "date": "2026-08-05",
-    "keyword": "policy",
-    "score": 10.9
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "TechnoBaptist/Xiaomi-Robotics-1-RoboCasa",
@@ -470,11 +488,11 @@
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-1-5B",
     "downloads": 12,
-    "likes": 10,
+    "likes": 11,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-5B",
     "date": "2026-08-04",
     "keyword": "robotics",
-    "score": 5.7
+    "score": 5.9
   },
   {
     "model": "SaFD-00/qwen2.5-vl-3b-ac-exp07-world-model-stage1-lora-epoch1-stage2-lora-epoch3-v1",
@@ -583,15 +601,6 @@
     "date": "2026-07-28",
     "keyword": "robotics",
     "score": 4.3
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa",
-    "downloads": 10,
-    "likes": 5,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa",
-    "date": "2026-07-28",
-    "keyword": "robotics",
-    "score": 4.1
   },
   {
     "model": "arendjan/physical-ai-studio-environment-tar",
