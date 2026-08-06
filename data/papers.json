@@ -1,5 +1,128 @@
 [
   {
+    "title": "AI-based single-shot structured-light depth reconstruction for real-time laparoscopic surgical guidance",
+    "authors": [
+      "Wayne Wonseok Rodgers",
+      "Xiangyi Le",
+      "Seonghoon Jang",
+      "Shuwen Wei",
+      "Justin Opfermann",
+      "Michael Kam",
+      "Axel Krieger",
+      "Jin U. Kang"
+    ],
+    "published": "2026-08-05",
+    "summary": "Significance. Accurate intraoperative depth perception is important for autonomous and semi-autonomous robotic laparoscopic surgery. Conventional fringe projection profilometry can achieve millimeter-scale accuracy but often requires multi-shot acquisition, digital-micromirror-device projection, and projector-camera synchronization, complicating integration into compact laparoscopic systems. Aim. To develop a synchronization-free, single-shot depth-sensing platform using a passive LED-illuminated binary mask and a VQ-VAE prior with a custom U-Net depth head. Approach. A compact projection module was coupled to one channel of a dual-channel laparoscope, while the second channel imaged the fringe-illuminated target. A Zivid 3D camera acquired reference depth for 722 paired phantom images. Zivid depth maps were reprojected into the SSLE image frame for supervised training and evaluation. The VQ-VAE encoded each input into a discrete latent representation, and a latent-space U-Net predicted depth without a separate mask-prediction branch. Results. Using a fixed train/validation/test split, the proposed model achieved an MAE of 3.70 mm, AbsRel of 0.0326, delta=1.1 accuracy of 0.962, and delta=1.1^2 accuracy of 0.970. It achieved lower MAE than the dual U-Net MaskNet + DepthNet baseline and outperformed off-the-shelf monocular depth models in MAE, AbsRel, and threshold accuracy. The pipeline operated at 26.0 Hz over 301 consecutive frames on an NVIDIA A100 GPU. Conclusions. The LED-illuminated binary-pattern platform with latent-space depth reconstruction enables synchronization-free, video-rate endoscopic depth estimation. Results demonstrate Zivid-referenced phantom reconstruction without an explicit segmentation stage, while emphasizing the importance of dataset size and SSLE-Zivid calibration accuracy.",
+    "pdf_url": "https://arxiv.org/pdf/2608.05109v1"
+  },
+  {
+    "title": "Learning When to Stop: Prefix-Optimal Dynamic Diffusion Policies for Continuous Control",
+    "authors": [
+      "Rohit Kumar Salla",
+      "Manoj Saravanan",
+      "Simon Stepputtis"
+    ],
+    "published": "2026-08-05",
+    "summary": "Diffusion policies are a powerful policy class for continuous control, but their iterative denoising process creates a substantial computational bottleneck. Reducing this cost requires adapting the number of denoising steps to the difficulty of each action while preserving task performance. We introduce Prefix-Optimal Generative Policies (POGP), a framework that learns a prefix value function at every intermediate denoising step through a Bellman-style recursion over the denoising chain. The prefix value function serves two purposes: it provides an auxiliary training objective that encourages intermediate outputs to become high-quality actions, and it enables a test-time stopping rule that terminates denoising when additional steps are unlikely to produce meaningful improvement. Across four MuJoCo environments and comparisons with 12 baselines, POGP reduces the required number of denoising iterations by approximately 2.7-fold while retaining near-full task performance. Compared with state-of-the-art dynamic diffusion baselines, prefix training also improves final task performance by approximately 3.5%. These results indicate that supervising intermediate denoising steps is useful not only for adaptive early stopping, but also as an auxiliary objective that improves the learned policy.",
+    "pdf_url": "https://arxiv.org/pdf/2608.05084v1"
+  },
+  {
+    "title": "SpikingNav: Robust Embodied Navigation with Spiking Neural Policies",
+    "authors": [
+      "Jiahong Zhang",
+      "Sijun Shen",
+      "Dehua Wu",
+      "Yifan Lin",
+      "Xuechen Xia",
+      "Xu Chu",
+      "Youhui Zhang",
+      "GuoqiLi"
+    ],
+    "published": "2026-08-05",
+    "summary": "Embodied navigation requires an agent to make sequential decisions from egocentric observations in a physical environment. Existing Artificial Neural Network (ANN)-based navigation models have achieved strong performance, yet they often rely on dense computation and may degrade under visual corruptions. Spiking neural networks (SNNs) provide event-driven computation and intrinsic temporal dynamics, which are promising for compact and robust navigation on resource-constrained platforms. However, whether spike-based sensing and policy dynamics can improve robustness in visually rich embodied navigation remains an open problem. This paper proposes SpikingNav, a spiking framework for robust indoor embodied navigation. It contains a Spiking Sensing Encoder (SSE) and a Spiking Policy Network (SPN). The SSE extracts task-conditioned visual features with a spike-based backbone. The SPN maintains a recurrent policy state through membrane integration, thresholding, and spike-triggered reset. In this way, SpikingNav exploits the dynamic properties and spike activations of SNNs to improve navigation performance and robustness. We evaluate SpikingNav on PointNav and ObjectNav under clean observations and visual corruptions. SpikingNav achieves competitive clean performance and stronger robustness with fewer parameters and lower per-step computation than a matched ANN baseline. For instance, SpikingNav improves ObjectNav success from 31.05% to 34.12%, and raises the average success under visual corruptions from 8.45% to 13.71%, demonstrating the benefits of spike-based sensing and policy dynamics. We further validate the deployability of our spike-based sensing method on the Thruster-V2 neuromorphic chip. This physical hardware validation shows that SpikingNav can be instantiated on a real neuromorphic substrate for cyber-physical systems.",
+    "pdf_url": "https://arxiv.org/pdf/2608.05078v1"
+  },
+  {
+    "title": "MultiPathFormer: Towards a Foundation Model for Multipath Wireless Propagation",
+    "authors": [
+      "Blessed Guda",
+      "Kayley Sze",
+      "Carlee Joe-Wong"
+    ],
+    "published": "2026-08-05",
+    "summary": "Recent advances in machine learning have enabled training of wireless foundation models, which aim to support tasks such as channel estimation, beam prediction, and localization based on wireless signals. Existing wireless foundation models typically pretrain on channel tensors using masked reconstruction over subcarriers, antennas, or time but ignore the physical characteristics of wireless propagation. In this work, we propose to instead use multipath propagation as the fundamental pretraining object. We present MultiPathFormer, an autoregressive foundation model that represents each transmitter-receiver link as an ordered sequence of continuous-valued path tokens and pretrains with next-path prediction. We introduce an Environmental RAG (retrieval-augmented generation) mechanism and a first-path codebook on top of the transformer backbone, leveraging environment knowledge to improve path statistics estimation like delay and power by up to 59%. MultiPathFormer pretrained on 27 environments transfers to unseen users and, after scenario-specific fine-tuning, outperforms training the corresponding models from scratch in new environments. Across downstream tasks, it outperforms SOTA channel-based foundation models, achieving 5.57 m mean localization error, 0.914 top-3 beam accuracy, 0.994 line-of-sight classification accuracy, and 0.561 channel estimation NMSE. These results show that path-level pretraining can learn reusable representations of wireless propagation.",
+    "pdf_url": "https://arxiv.org/pdf/2608.05076v1"
+  },
+  {
+    "title": "Bag-of-Visual-Words for Spatial Mapping of Lung Adenocarcinoma Growth Patterns",
+    "authors": [
+      "Darya Ardan",
+      "Valentin Oreiller",
+      "Henning Müller"
+    ],
+    "published": "2026-08-05",
+    "summary": "Spatial mapping of lung adenocarcinoma (LUAD) growth patterns across whole slide images (WSIs) requires resolving architectural context at the region level, yet existing methods operate at the individual tile level and produce generic morphological clusters rather than clinically defined pattern maps. We propose a weakly supervised Bag-of-Visual-Words (BoVW) pipeline that learns a visual vocabulary from frozen foundation model embeddings extracted from a small set of annotated regions of interest (ROIs). Pattern prototypes are constructed as mean BoVW histograms of same-label ROIs and used for nearest-prototype classification of sliding-window regions under Jensen--Shannon divergence. The resulting predictions are projected onto the WSI tile grid to produce interpretable spatial pattern maps. We evaluate the method on 87 CPTAC-LUAD patients using three foundation model encoders and multiple vocabulary sizes on two clinically motivated tasks. For tumour/healthy classification, the best configuration achieves a balanced accuracy of $0.974$ with H-Optimus-1, approaching the $0.987$ obtained by a supervised SVM trained on mean-pooled WSI embeddings. For binary histologic grade classification, the BoVW pipeline achieves higher balanced accuracy than the supervised baseline for all encoders, suggesting that ROI-level pattern decomposition preserves grade-relevant heterogeneity that is attenuated by global mean pooling.",
+    "pdf_url": "https://arxiv.org/pdf/2608.05074v1"
+  },
+  {
+    "title": "HelloWorld: Enabling Socially Interactive Characters in Video World Models",
+    "authors": [
+      "Liangyang Ouyang",
+      "Ruicong Liu",
+      "Xuangeng Chu",
+      "Kaipeng Zhang",
+      "Yoichi Sato"
+    ],
+    "published": "2026-08-05",
+    "summary": "Despite the remarkable recent progress of video world models, social interaction between users and the characters within these worlds remains unsupported. To fill this gap, we present HelloWorld, a video world model that enables social interaction with in-world characters. With a single button press, users can prompt the on-screen character to respond toward the camera, e.g., turning to the viewer, waving, nodding, or speaking a short greeting. To make these interactions natural, we propose a self-distillation pipeline that finetunes the video generation model on data synthesized by itself. Each synthesized clip contains both social interactions and camera motion, allowing the model to learn camera-pose conditioning without degrading interaction quality. At inference, we further introduce a training-free module that determines when the interaction occurs. Upon a button press, it modulates the cross-attention masks of the DiT so that the interaction-related text prompt attends only to the frames within the press window, temporally localizing the character's response. We further build HelloWorldBench, a 400-sample benchmark with three social interaction metrics alongside three conventional metrics, for evaluation. Experiments demonstrate that HelloWorld surpasses a variety of baselines in interaction quality, while maintaining state-of-the-art picture aesthetics and camera-pose following. Project page: https://github.com/AlayaLab/HelloWorld",
+    "pdf_url": "https://arxiv.org/pdf/2608.05070v1"
+  },
+  {
+    "title": "MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres",
+    "authors": [
+      "M. L. Carroll",
+      "J. Li",
+      "S. D. Guzewich",
+      "G. Villanueva",
+      "J. A. Caraballo-Vega",
+      "M. J. Frost"
+    ],
+    "published": "2026-08-05",
+    "summary": "We investigate the transferability of Earth weather foundation models to planetary atmospheres by adapting the GraphCast graph neural weather forecasting model to Mars. While GraphCast achieves state-of-the-art performance for terrestrial forecasting, its applicability to non-Earth environments remains unexplored. Using the Mars Climate Database (MCD), which provides global atmospheric fields across vertical altitude levels (similar to Earth pressure levels), we evaluate zero-shot and fine-tuned GraphCast predictions of Martian temperature and wind fields. Zero-shot forecasts produce a surprisingly accurate depiction of current conditions but fail to reproduce diurnal variability and rapidly decay toward climatological mean states. To address this limitation, we fine-tune GraphCast using MCD variables and top-of-atmosphere solar radiation forcing while holding humidity constant. Fine-tuning enables rapid learning of Martian thermal variability. Within as few as 10 training epochs, the model begins to capture the diurnal cycle and forecasts up to 10 days reproduce seasonal and vertical temperature structure. Prediction quality improves with training sample size and exhibits sensitivity to seasonal initialization. These results demonstrate that Earth-trained AI weather models can be adapted to simulate Martian atmospheric dynamics, providing a pathway toward rapid planetary weather prediction to support mission operations, dust storm risk mitigation, and future human exploration.",
+    "pdf_url": "https://arxiv.org/pdf/2608.05054v1"
+  },
+  {
+    "title": "Exact Model-Free Policy Iteration for Co-safe LTL Planning",
+    "authors": [
+      "Zetong Xuan",
+      "Yu Wang"
+    ],
+    "published": "2026-08-05",
+    "summary": "This work studies model-free reinforcement learning for co-safe linear temporal logic (sc-LTL) objectives in finite Markov decision processes, which can be reduced to maximal reachability objectives via the standard product construction. For this problem, direct sample-based bootstrap methods (e.g., TD or Q-learning) may fail to converge to optimal policies due to the noncontractive nature and nonuniqueness of solutions to the Bellman equation. We develop a new two-step model-free reinforcement learning method that first uses a discounted surrogate to identify a clamp set that resolves this nonuniqueness, and then applies undiscounted policy evaluation and greedy policy improvement with guarantees of finding an optimal solution. We prove almost-sure convergence of the policy evaluation step and finite termination of the policy iteration algorithm at an optimal policy. These theoretical results are validated through numerical experiments on a stochastic grid world.",
+    "pdf_url": "https://arxiv.org/pdf/2608.05047v1"
+  },
+  {
+    "title": "BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation",
+    "authors": [
+      "Peiyan Li",
+      "Yuze Zhu",
+      "Yixiang Chen",
+      "Qisen Ma",
+      "Yuan Xu",
+      "Jiabing Yang",
+      "He Guan",
+      "Yan Huang",
+      "Hongtao Wu",
+      "Xiao Ma",
+      "Tao Kong",
+      "Liang Wang",
+      "Tieniu Tan"
+    ],
+    "published": "2026-08-05",
+    "summary": "Leveraging pre-trained vision-language models (VLMs) to construct vision-language-action (VLA) models has emerged as a promising paradigm for 3D robot manipulation. However, existing 3D VLA methods remain data-hungry, exhibit limited generalization under distribution shifts, and lack explicit memory of past observations. These limitations hinder their application to data-scarce, open-world, and memory-dependent manipulation scenarios. Our previous work, BridgeVLA, improves data efficiency and generalization by preserving the input--output alignment of a pre-trained VLM during 3D action learning: raw point clouds are projected into multi-view images, and intermediate heatmaps are predicted before generating robot actions. In this work, we develop BridgeVLA++ by equipping BridgeVLA with a unified spatio-temporal memory architecture that models persistent spatial context and temporal interaction history. The resulting memory-augmented framework can reason over observation histories while preserving BridgeVLA's data efficiency and generalization capabilities. Extensive experiments show that our framework achieves strong performance on spatial manipulation tasks while exhibiting robust generalization. BridgeVLA++ further achieves state-of-the-art performance on two challenging memory-dependent manipulation benchmarks without sacrificing the data efficiency and generalization of the original BridgeVLA. In addition, BridgeVLA++ performs effectively in bimanual manipulation settings and is validated on an additional real-world robotic platform, demonstrating its scalability across tasks, environments, and robotic platforms. These results establish BridgeVLA++ as a unified 3D vision-language-action framework that simultaneously supports data-efficient learning, robust generalization, and effective memory-aware robot manipulation. Project website: https://bridgevla-plus.github.io/.",
+    "pdf_url": "https://arxiv.org/pdf/2608.05042v1"
+  },
+  {
     "title": "When Do PEFT Adaptations Leak Structure? Measuring Black-Box Structural Bounds in Public-Base Model Services",
     "authors": [
       "Zhongjiang Yao",
@@ -361,141 +484,5 @@
     "published": "2026-08-05",
     "summary": "Federated adaptation of time-series foundation models (TSFMs) is attractive for building energy forecasting because meter data are private, distributed, and highly non-IID. However, a single parameter-sharing strategy is unlikely to serve all pretrained TSFMs or building clients: fully shared adapters can suppress building-specific temporal behavior, while fully local adaptation discards cross-building transfer. We propose a personalized federated sparse adaptation framework with a heterogeneous temporal mixture-of-experts (MoE) adapter placed after the pretrained TSFM representation. A sequence-level router maps each 168-hour context window to a top-$k$ subset of experts specialized for periodicity, long-range interactions, local variation, trend-residual structure, and multi-resolution behavior. We compare global FL, local training, and personalized FL variants with globally shared or client-private expert banks. Across 50 buildings and three TSFM backbones, personalization consistently outperforms Global FL-MoE and Local MoE, while the best sparse-adaptation strategy varies by backbone and metric. Routing behavior further reveals client-level expert specialization, expert concentration, and near-uniform routing across backbones, showing that federated TSFM adaptation should be both client-aware and backbone-aware.",
     "pdf_url": "https://arxiv.org/pdf/2608.04695v1"
-  },
-  {
-    "title": "Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies",
-    "authors": [
-      "Shaoguang Wang",
-      "Weiyu Guo",
-      "Rushi Dai",
-      "Yiren Zhao",
-      "Yandong Guo",
-      "Hui Xiong"
-    ],
-    "published": "2026-08-05",
-    "summary": "Task-vector arithmetic offers a closed-form way to modify a model, yet its behavioral locality remains unclear in closed-loop robot control. We present a target-and-control audit of per-skill task-vector subtraction from multitask vision-language-action (VLA) policies. Across all ten LIBERO-Goal skills, subtraction produces three qualitatively different regimes: target-control separation for five skills, resistance for three, and global collapse for two. On held-out initial states, the five suppressible targets remain at 0% success; however, mean baseline-normalized control retention is only 52%, and each target-suppressing edit materially harms at least one nominally unrelated control. Additional Goal panels show separation across tested policies with continuous-regression, discrete-token, and flow-matching action heads, whereas we observe no clean separation on Spatial and control collapse on the tested Object and Long-horizon panels. Mean task-vector cosine does not account for this variation. A matched-norm control identifies a local sign asymmetry around one Goal anchor, while multi-vector outcomes vary with anchor and scale. Retain-aware gradient baselines provide data-dependent comparators but require removal-time data and optimization; subtraction is data- and gradient-free only at edit time, assuming precomputed expert deltas. Finally, a single-skill relearning probe is consistent with behavioral masking, not certified unlearning. These results characterize task-vector subtraction as a fast but brittle intervention and underscore the need for closed-loop target-and-control evaluation when assessing locality in embodied model editing.",
-    "pdf_url": "https://arxiv.org/pdf/2608.04692v1"
-  },
-  {
-    "title": "Differential 6-DOF Pose Estimation with Provable First-Order Immunity to Camera Calibration Errors",
-    "authors": [
-      "Yueqiang Zhang",
-      "Liang Deng",
-      "Yi Zhang",
-      "Baoqiong Wang",
-      "Wenjun Chen",
-      "Shuixin Pan",
-      "Yulan Guo",
-      "Qifeng Yu"
-    ],
-    "published": "2026-08-05",
-    "summary": "Accurate six-degree-of-freedom (6-DOF) motion estimation is essential for robotic manipulation, autonomous systems, and structural displacement monitoring. Conventional 3D-2D methods estimate absolute camera poses independently at each time and recover platform motion through camera-to-platform extrinsics, making them sensitive to extrinsic calibration errors, especially for micromotion. We present a differential pose estimation method that directly recovers platform motion from inter-frame image displacements and known 3D control points. By differencing perspective projection equations, using a depth-invariance approximation, and modeling motion on SE(3), the method avoids independent absolute-pose estimation and supports both monocular and multi-camera systems. We prove that translational extrinsic errors cancel exactly, while rotational errors induce a bounded perturbation determined by calibration error, motion magnitude, and observation geometry. We also derive generic observability conditions, a Cramer-Rao lower bound, and a bias-eliminated consistent estimator, and characterize the validity limits of the approximations. Extensive synthetic and real-world experiments establish a new state of the art for 6-DOF platform micromotion estimation, outperforming representative PnP and generalized-PnP methods in accuracy, calibration robustness, and computational efficiency. With five control points and 0.5-pixel image noise, the monocular solver obtains a combined pitch-yaw rotation RMSE of 10.09 arcsec, a translation RMSE of 3.70 mm, and a runtime of 0.34 ms. The binocular solver achieves a rotation RMSE of 10.58 arcsec, a translation RMSE of 3.91 mm, and a runtime of 0.27 ms. Code will be released upon publication at https://github.com/zyoungszu/pami2026.",
-    "pdf_url": "https://arxiv.org/pdf/2608.04673v1"
-  },
-  {
-    "title": "MobileWAM: Bridging World Action Models to Mobile Manipulation with Chain-of-Foresight",
-    "authors": [
-      "Zehua Fan",
-      "Junjie He",
-      "Wenxuan Song",
-      "Xi Wang",
-      "Wenqi Lyu",
-      "Linge Zhao",
-      "Fuhao Li",
-      "Zihan You",
-      "Yifei Yang",
-      "Kaiming Xu",
-      "Qi Jiang",
-      "Yue Jiang",
-      "Haoang Li",
-      "Cheng Chi",
-      "Bailin Li",
-      "Yan Wang"
-    ],
-    "published": "2026-08-05",
-    "summary": "World action models (WAMs) built on video generation backbones are a rising recipe for robot learning, yet remain confined to tabletop manipulation. Mobile manipulation demands simultaneous locomotion and whole-body manipulation amid scene-scale dynamics, yet is still dominated by dynamics-blind visual encoders with hand-crafted coordination. We bridge this gap with MobileWAM, a mixture-of-transformers architecture that fuses a pretrained video diffusion transformer with a lightweight action expert through layerwise joint attention, translating internet-scale motion priors into whole-body control. To reconcile the heterogeneous dynamics of moving and manipulating, each feed-forward layer of the action expert becomes a three-expert mixture of shared, locomotion, and manipulation experts, softly routed by the motion intent in the action tokens. To densify supervision, we further propose Chain-of-Foresight (CoF): intermediate representations sequentially predict a chain of future latent chunks, each step conditioned on its predecessor. CoF pairs naturally with our decoupled video--action denoising scheme. At deployment, the WAM serves as a pure current-frame encoder; foresight acts only through gradients, so at inference the foresight chain and video generation are discarded, leaving only policy-level cost. MobileWAM surpasses state-of-the-art mobile manipulation policies on ManiSkill-HAB and fine-tunes to a real ARX Lift2 mobile manipulator across diverse tasks with strong generalization. Code will be released soon.",
-    "pdf_url": "https://arxiv.org/pdf/2608.04657v1"
-  },
-  {
-    "title": "Overcoming Statistical Bias in Action-Controllable World Models",
-    "authors": [
-      "Yuhong Shi",
-      "Zhenhao Chu",
-      "Jie Wei",
-      "Jun Hao",
-      "Jianyi Liu",
-      "Jingwen Fu"
-    ],
-    "published": "2026-08-05",
-    "summary": "Action-conditioned world models aim to predict how visual environments evolve under an agent's actions. Yet future frames are often highly predictable from visual inertia and recurring motion patterns alone. This creates a shortcut: models can fit the data by exploiting statistical biases without making their visible dynamics meaningfully depend on the action. As a result, different actions may produce similar futures, while motion may persist even under zero action. The key question is how to reduce reliance on statistical shortcuts from dominating action-conditioned prediction. We argue that action control requires more than injecting action features; it requires enforcing consistency under counterfactual changes to actions and observations. Based on this insight, we introduce CoCo, a Counterfactual Consistency framework to enhance action controllability through two complementary constraints. Multi-step counterfactual consistency constrains reference, inverse-action, and zero-action rollouts, while action-spatial counterfactual consistency enforces consistent predictions under mirrored scenes and transformed actions. Together, they reduce reliance on statistical shortcuts from substituting for action-dependent dynamics. We further introduce Action Response Consistency (ARC) and Drift Energy (DE) to assess action controllability, together with Mini-SSMB for same-state, multi-action counterfactual evaluation. On Mini-SSMB, our full model achieved ARC_inv of 0.412 and ARC_ref of 0.483, while reducing DE by 17.07% relative to the baseline. On VP2 visual planning, it achieves the highest average success rate among SOTA models, at 73.1%. Experiments on BAIR and RoboNet further show that these gains preserve video prediction quality and transfer across model settings.",
-    "pdf_url": "https://arxiv.org/pdf/2608.04653v1"
-  },
-  {
-    "title": "Mind-VLA: Instruction-Aware Spatial Representation Alignment for Vision-Language-Action Models",
-    "authors": [
-      "Xingyu Ding",
-      "Yuzhong Zhao",
-      "Yang Wu",
-      "Chaoyang Zhao",
-      "Chunhai Zhao",
-      "Yifan Zhang",
-      "Jian Cheng"
-    ],
-    "published": "2026-08-05",
-    "summary": "Recent Vision-Language-Action (VLA) methods improve generalization by aligning their representations with 3D scene geometry. However, these methods are fundamentally instruction-agnostic: the representations align the entire scene uniformly, neglecting the 3D geometry of the specific target object designated by the language instruction. This causes failures on fine-grained manipulation and target occlusion tasks, where success depends on accurate 3D understanding of the target object rather than the entire scene. To address this, we present Mind-VLA, an instruction-aware spatial representation alignment method for VLA models. Specifically, Mind-VLA first obtains the target object specified by the language instruction, then prepares its target-object tri-view and extracts the corresponding VAE and VGGT features. Finally, the latent representation of the VLA model is aligned with these features to enable instruction-aware 3D understanding. Mind-VLA reaches 93.9% on LIBERO and 4.47 on CALVIN with a compact 345M-parameter backbone. On real-robot tasks with target occlusion, Mind-VLA reaches 54% average success, outperforming the best-performing instruction-agnostic method in real-robot comparison by 32 percentage points. Code will be publicly available.",
-    "pdf_url": "https://arxiv.org/pdf/2608.04633v1"
-  },
-  {
-    "title": "An entropic explanation of insistence on sameness in autism",
-    "authors": [
-      "Przemysław Śliwiński"
-    ],
-    "published": "2026-08-05",
-    "summary": "An information theory-based framework is proposed in attempt to explain insistence on sameness in autism as an instance of a general behavior pattern in which an individual tries to reduce surprise and uncertainty. It offers a new definition of autism as an impairment in which cognitive functions are restricted to discrimination, memorization and prediction of tangible properties of the environment. An analogy between insistence on sameness and constrained minimization of the entropy metric is observed and examined for a set of assumptions that describe cognitive limitations of a person with autism. The metric is given by the formula $D_H(R, M) = H(R|M) + H(M|R)$, where $R$ represents sequences of random stimuli, $M$ is a memory that stores and retrieves them, and where $H(.|.)$ denotes their conditional entropies interpreted as surprise and uncertainty, respectively. It is first inferred that to minimize the metric an individual can learn about $R$ (and store that knowledge in $M$) or can restrict $R$ to the already known $M$. Then, it is concluded that insistence on sameness is a manifestation of the latter. Moreover, it is shown that the proposed framework: (1) Helps to quantify the concepts of surprise, uncertainty, sensory overload and deprivation, anxiety, comfort zone, disappointment, disorientation, pedantry, rigidness, observance or aberrant precision. (2) Leads to a list of guidelines for learning therapies and daily care routines, and allows them to be defined as optimization algorithms and implemented as programs for robotic live-in caregivers. (3) Can be validated with the help of a Turing test-like approach that requires no experiments involving individuals with autism. The framework-if positively validated-will provide formal foundations and design guidelines for therapies aimed at improving self-reliance of individuals with autism in basic activities of daily living.",
-    "pdf_url": "https://arxiv.org/pdf/2608.04616v1"
-  },
-  {
-    "title": "GASP: GPU-Accelerated Safe Planner for Real-Time Collision-Aware Motion Generation with Latent Trajectory Sampling",
-    "authors": [
-      "Colin Merk",
-      "Stefanos Charalambous",
-      "Peter Dürr",
-      "Farshad Khadivar"
-    ],
-    "published": "2026-08-05",
-    "summary": "We present GASP, a GPU-Accelerated Safe Planner for real-time, collision-aware joint-space motion generation in known environments. GASP combines a clamped B-spline trajectory parameterization with a convolutional residual neural network that predicts the free interior control points, while analytically inserted boundary control points enforce initial and final derivative constraints for collision-aware planning under non-stationary conditions. A conditional variational autoencoder samples multiple trajectory candidates, which are decoded and validated in parallel on the GPU, yielding a batched planner for collision-aware coupled joint-space motion with near-millisecond inference. We validate GASP as an online motion-generation module, where it achieves analytical-level success rates with high collision-aware feasibility and substantially reduces inference time relative to GPU-based trajectory optimization. We further deploy GASP as a reinforcement-learning reset planner in competitive robotic table tennis, matching the baseline return rate while roughly halving training-time collisions.",
-    "pdf_url": "https://arxiv.org/pdf/2608.04612v1"
-  },
-  {
-    "title": "Static Timing Orchestration for Tree-Structured Robot Control Firmware",
-    "authors": [
-      "Wang Xi",
-      "Feiran Wei",
-      "Mo Deng",
-      "Weiheng Lin",
-      "Pangkit Fong",
-      "Jianping He"
-    ],
-    "published": "2026-08-05",
-    "summary": "As robotic systems become increasingly complex, generating control firmware from structural description files has emerged as a promising paradigm for reducing development complexity and improving maintainability. Existing robot description formats naturally represent robotic systems as hierarchical tree structures, where devices are recursively composed into functional subsystems and eventually into the complete robot. However, such tree-structured organization also introduces structured data dependencies that affect perception-to-decision latency and, consequently, control performance. In this paper, we propose FineMote, a control firmware generation framework with a scheduling mechanism tailored for tree-structured device models. The framework objectifies heterogeneous low-level control logic and exposes unified scheduling units and execution entry points. Based on the resulting object hierarchy, the scheduling mechanism exploits compile-time information to statically determine execution order with minimal runtime overhead. We prove that the proposed mechanism satisfies deadline and precedence constraints, and further derive an upper bound on intra-tree decision latency. We implement the proposed framework and evaluate it on real robotic control platforms. The experimental results show improved timing behavior and runtime responsiveness, demonstrating the practical effectiveness of the proposed design.",
-    "pdf_url": "https://arxiv.org/pdf/2608.04600v1"
-  },
-  {
-    "title": "Retrieve in Time, Correct in Frequency",
-    "authors": [
-      "Yuze Fan",
-      "Yue Cao",
-      "Pengjie Gao",
-      "Haojia Gao",
-      "Guangqiu Guo",
-      "Ziyue Zhang",
-      "Junbo Tan",
-      "Bokui Chen",
-      "Zhuo Zou",
-      "Xueqian Wang"
-    ],
-    "published": "2026-08-05",
-    "summary": "Frozen vision-language-action (VLA) policies generate temporally extended action chunks, but long-horizon manipulation remains vulnerable to accumulated execution error and visual aliasing across task stages. Successful rollouts provide useful corrective evidence, yet current frame retrieval can return progress-misaligned actions,while direct replay or time-domain fusion can overwrite the reactive structure of the policy proposal. We introduce Retrieve in Time, Correct in Frequency (RTCF), a training-free test-time correction framework that improves frozen VLA performance with low model-side overhead.RTCF separates which experience to retrieve from which part of its action to transfer. Progressive Memory Alignment (PMA) causally aligns the growing visual execution history with complete successful trajectories through incrementally updated monotonic frontiers, jointly identifying a relevant memory and the current aligned memory position without stage labels. From the aligned action chunk,RTCF transfers a coefficient-wise-clipped low-frequency residual on motion channels. Higher-frequency components and gripper decisions remain inherited from the frozen policy. Across four LIBERO suites and 2,000 episodes per condition, RTCF raises aggregate success from 86.4% to 88.4% and improves LIBERO-Long from 61.6% to 68.6%.These gains require no parameter updates, repeated VLA inference, or additional GPU resources: correction can be performed on the client CPU after a single policy invocation, and the median latencies sum to only 10.99 ms per action chunk",
-    "pdf_url": "https://arxiv.org/pdf/2608.04527v1"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "title": "3D Printing A Usable Airless Tire",
+    "source": "Hackaday",
+    "date": "2026-08-06",
+    "url": "https://hackaday.com/2026/08/05/3d-printing-a-usable-airless-tire/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/airless-tire-main.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>For decades now, companies like Michelin have been teasing us with futuristic-looking automobile tires that don&#8217;t use air. Instead, they use a polymer mesh of sorts which maintains the same <a class=\"read-more\" href=\"https://hackaday.com/2026/08/05/3d-printing-a-usable-airless-tire/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Antmicro releases open-source hardware Thunderbolt to dual 10GbE adapter",
+    "source": "CNX Software",
+    "date": "2026-08-06",
+    "url": "https://www.cnx-software.com/2026/08/06/antmicro-releases-open-source-hardware-thunderbolt-to-dual-10gbe-adapter/",
+    "summary": "<div><img alt=\"antmicro Thunderbolt to 10GbE adapter\" class=\"attachment-medium size-medium wp-post-image\" height=\"378\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/antmicro-Thunderbolt-to-10GbE-adapter-720x378.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Antmicro has just released an open-source hardware Thunderbolt to (dual) 10GbE adapter that serves as a reference design for a high-speed Ethernet accessory, further customizable for smart terminals, Point of Sale systems, smart cameras, IoT gateways, and more. The company has a history of releasing open-source hardware designs, and we previously covered a baseboard for Quectel SA800U-WF System-on-Module (Qualcomm Snapdragon 845) and an AMD Xilinx Kintex-7 K410T FPGA development board, both designed in KiCad. The Thunderbolt to 10GbE adapter adds to the list. Antmicro Thunderbolt to 10GbE adapter specifications: Networking &#8211; 2x 10GbE RJ45 ports via Intel X710-AT2 Ethernet controller Host interface &#8211; Thunderbolt 3 USB-C connector via Intel JHL6340SLLSQ Thunderbolt 3 controller (PCIe Gen3 x4) Misc Passive cooling via heatsink 4-pin PWM fan connector 3x LEDs Power Supply &#8211; 5V via USB-C port and DC jack Dimensions &#8211; 110 x 70 mm The company tested the adapter, I assume with iperf [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/06/antmicro-releases-open-source-hardware-thunderbolt-to-dual-10gbe-adapter/\">Antmicro releases open-source hardware Thunderbolt to dual 10GbE adapter</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Satellite Internet No Big Deal",
     "source": "Electronics Weekly",
     "date": "2026-08-06",
@@ -47,13 +61,6 @@
     "date": "2026-08-05",
     "url": "https://hackaday.com/2026/08/05/cell-broadcast-the-modern-emergency-alert-system/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/07/CellBroadcast.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Once upon a time, telephones were primarily point-to-point communications systems. There were options for three-way and conference calls out there, but by and large the plain old telephone system was <a class=\"read-more\" href=\"https://hackaday.com/2026/08/05/cell-broadcast-the-modern-emergency-alert-system/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Could Camera Hardware Be The Physical Equivalent to USB-C?",
-    "source": "Hackaday",
-    "date": "2026-08-05",
-    "url": "https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"426\" src=\"https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Mansour] presents an interesting idea in his essay A Common Thread &#8212; just as USB-C has become the &#8220;One Connector To Rule Them All&#8221; in the world of electronics, so <a class=\"read-more\" href=\"https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/\">&#8230;read more</a>"
   },
   {
     "title": "Large-scale LoRaWAN deployments become easier through QR codes and relays",
@@ -383,13 +390,6 @@
     "date": "2026-08-02",
     "url": "https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/",
     "summary": "<div><img alt=\"Octopus 16 biosignal device for gaming\" class=\"attachment-medium size-medium wp-post-image\" height=\"388\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Octopus-16-biosignal-device-for-gaming-720x388.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Octopus 16 is a wireless biosignal HID device for the XIAO ESP32-S3 board designed to let users play computer games using brain signals (EEG) with no hands (or implants) needed. The board packs 16 electrodes to measure biosignals, including EEG (electroencephalography), EMG (electromyography), and ECG (electrocardiography), and the coin-sized device is much more compact than other brain-computer interface (BCI) solutions, which typically require a cap kit with 8 to 16 electrodes and wires. Octopus 16 specifications: ADC &#8211; 2x Texas Instruments ADS131M08 24-bit, 8-channel, simultaneous-sampling, delta-sigma (ΔΣ) analog-to-digital converters Channels &#8211; 16x 24-bit channels (8x per ADC) Programmable gain (PGA) &#8211; x1 to x128 (set in firmware; default gain register 0x2222) Input high-pass / DC block &#8211; Integrated ADC DC-block filter enabled (≈ &#62;1 Hz) Host interface (to XIAO board) &#8211; Power + SPI via 2x 7-pin Brain interface 18x spring-loaded pogo pins 16x electrodes 1x  reference (AINREF) 1x Ground [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/\">Play games with your brain signals using Octopus 16 wireless EEG device</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Creality Falcon T1 review – A 5-in-1 modular laser engraver tested with 20W fiber and 40W diode laser modules",
-    "source": "CNX Software",
-    "date": "2026-08-01",
-    "url": "https://www.cnx-software.com/2026/08/01/creality-falcon-t1-review-a-5-in-1-modular-laser-engraver-tested-with-20w-fiber-and-40w-diode-laser-modules/",
-    "summary": "<div><img alt=\"Creality Falcon T1 5-in-1 Laser Engraver review\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Creality-Falcon-T1-5-in-1-Laser-Engraver-review-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Creality sent us a sample of the Falcon T1 5-in-1 modular laser engraver for review. The company describes it as the world’s first 5-in-1 laser engraving and cutting machine that supports five types of laser modules in a single unit: 20W diode laser 20W, 40W diode laser, 20w fiber laser, 60W MOPA laser, and 5W UV Laser 5W. The laser heads can be swapped tool-free in just 15 seconds. It works with an HD camera and AI system and can engrave and cut a wide range of materials including wood, leather, acrylic, metal, glass, crystal, and plastic. Diode laser modules are ideal for cutting and engraving wood, leather, and acrylic, the fiber laser module is better suited for marking and engraving metal, the MOPA laser module supports color marking on metals such as stainless steel and titanium, and the UV laser module uses cold processing for high-precision work on glass, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/01/creality-falcon-t1-review-a-5-in-1-modular-laser-engraver-tested-with-20w-fiber-and-40w-diode-laser-modules/\">Creality Falcon T1 review &#8211; A 5-in-1 modular laser engraver tested with 20W fiber and 40W diode laser modules</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Fault-Tolerant Quantum Computers, Sustained Performance Defines the Next Phase of Edge AI, Agentic AI for EDA: Embedded Week Insights",
