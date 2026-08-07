@@ -70,6 +70,13 @@
     "summary": "<div><img alt=\"Proxmox VE 64-bit Arm\" class=\"attachment-medium size-medium wp-post-image\" height=\"449\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Proxmox-VE-64-bit-Arm-720x449.png\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Proxmox has recently announced the first official release of Proxmox Virtual Environment (VE) with support for 64-bit Arm (arm64/aarch64). Until now, the popular virtualization solution was only available for x86-64 (amd64). Proxmox VE 9.2 for arm64 is built on Debian 13.5 &#8220;Trixie&#8221; with Linux 7.0, and is otherwise based on the same code as the x86-64 version, and relies on the same configuration, tooling, and documentation, except for a few architecture-specific differences. The developers note that Proxmox VE for Arm fully supports NVIDIA Grace Hopper and NVIDIA Vera platforms, and &#8220;best-effort&#8221; support is available on other UEFI-based Armv8-A/Armv9-A hardware. However, device-tree-only single-board computers, such as the Raspberry Pi, are not supported, since the host must boot through UEFI and describe its hardware through ACPI. Having said that, we previously noted work on an UEFI+ACPI port for the Raspberry Pi 4, and users have already managed to have the release work [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/\">Proxmox VE now officially supports 64-bit Arm (Aarch64) targets</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "HBM, Agentic AI Platform for PCB Design, Ku-Band RFoF Transmitter: Embedded Week Insights",
+    "source": "Embedded.com",
+    "date": "2026-08-07",
+    "url": "https://www.embedded.com/hbm-agentic-ai-platform-for-pcb-design-ku-band-rfof-transmitter-embedded-week-insights/",
+    "summary": "<p>Here's a roundup of this week's must-read articles. We'll look into the latest developments in high-bandwidth memory, Cadence's agentic AI platform for PCB Design, and a Ku-Band RFoF transmitter. Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete list of news and articles from our website. NEWS Partnership Delivers AI-Powered Design to Engineers [...]</p>\n<p>The post <a href=\"https://www.embedded.com/hbm-agentic-ai-platform-for-pcb-design-ku-band-rfof-transmitter-embedded-week-insights/\">HBM, Agentic AI Platform for PCB Design, Ku-Band RFoF Transmitter: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
     "title": "Marvell Introduces New AI Memory Infrastructure Solutions",
     "source": "Embedded.com",
     "date": "2026-08-07",
@@ -145,6 +152,13 @@
     "date": "2026-08-07",
     "url": "https://www.electronicsweekly.com/news/business/and-buys-taalas-2026-08/",
     "summary": "<p>AMD is to buy Taalas, the Canadian inference chip specialist. The acquisition strengthens AMD&#8217;s long-term AI roadmap with differentiated inference technology. Last  February Taalas  raised $169 million taking total funding [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/and-buys-taalas-2026-08/\">AMD buys Taalas</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Is Now the Right Time to Build Your Own Raspberry Pi-Powered Retro Video Game Console #piday #raspberrypi",
+    "source": "Adafruit",
+    "date": "2026-08-07",
+    "url": "https://blog.adafruit.com/2026/08/07/is-now-the-right-time-to-build-your-own-raspberry-pi-powered-retro-video-game-console-piday-raspberrypi/",
+    "summary": "&#160; With modern game prices creeping up, and consoles doing away with physical media, it might be the perfect time to dive into some retro games! Will Greenwald and Jason Cohen at PCMag.com put together this handy guide. It also serves as a good reminder of huge back catalog of classic games waiting to be [&#8230;]"
   },
   {
     "title": "Subscribe to the Adafruit Youtube channel! #Youtube #AdafruitLearnSystem",
@@ -257,13 +271,6 @@
     "date": "2026-08-06",
     "url": "https://blog.adafruit.com/2026/08/06/john-parks-workshop-live-today-8-6-26/",
     "summary": "It&#8217;s JOHN PARK’S WORKSHOP — LIVE! &#8212; Coming up at 4pm ET / 1pm PT Today!  LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects &#8211; Intel 8080 Space Invaders Port to Fruit Jam CircuitPython Parsec Learn Guide Recap Tool Tips Retro Gear &#8211; picoBootloader &#38; PicoSNES on Fruit Jam and more! The [&#8230;]"
-  },
-  {
-    "title": "PCB Vise & Solder Station – 3-in-1 Bench Tool #3Dprinting #3DThursday",
-    "source": "Adafruit",
-    "date": "2026-08-06",
-    "url": "https://blog.adafruit.com/2026/08/06/pcb-vise-solder-station-3-in-1-bench-tool-3dprinting-3dthursday/",
-    "summary": "A compact 3-in-1 bench tool combining solder holder, cable clamp, and PCB holder in one. Parallel jaw closure with threaded screw for firm cable/PCB grip. Uses just 66g of filament (49g without the solder holder — a great filament-scrap use). Alternative maker tool. By Chefkoch Every Thursday is #3dthursday here at Adafruit! The DIY 3D [&#8230;]"
   },
   {
     "title": "Production-Ready Embedded Computing — Toradex, NXP and Mouser Electronics",
@@ -418,12 +425,5 @@
     "date": "2026-07-31",
     "url": "https://www.embedded.com/fault-tolerant-quantum-computers-sustained-performance-defines-the-next-phase-of-edge-ai-agentic-ai-for-eda-embedded-week-insights/",
     "summary": "<p>Here's a roundup of this week's must-read articles. We'll look into the latest developments on fault-tolerant quantum computers, why sustained performance will define the next phase of edge AI, and a partnership on agentic AI for EDA to automate complex engineering tasks. Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete list of [...]</p>\n<p>The post <a href=\"https://www.embedded.com/fault-tolerant-quantum-computers-sustained-performance-defines-the-next-phase-of-edge-ai-agentic-ai-for-eda-embedded-week-insights/\">Fault-Tolerant Quantum Computers, Sustained Performance Defines the Next Phase of Edge AI, Agentic AI for EDA: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Mikroe Integrates Swift Navigation Skylark with GNSS 19 Click",
-    "source": "Embedded.com",
-    "date": "2026-07-31",
-    "url": "https://www.embedded.com/mikroe-integrates-swift-navigation-skylark-with-gnss-19-click/",
-    "summary": "<p>Mikroe has partnered with Swift Navigation to integrate the Skylark Precise Positioning Service into its GNSS 19 Click development board, providing users with a free six-month license to the cloud-based correction service. The collaboration is intended to simplify access to high-accuracy global navigation satellite system (GNSS) positioning for developers working on industrial, automotive, and IoT [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mikroe-integrates-swift-navigation-skylark-with-gnss-19-click/\">Mikroe Integrates Swift Navigation Skylark with GNSS 19 Click</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]

@@ -72,6 +72,15 @@
     "score": 0.1
   },
   {
+    "model": "sam-guided-vlas/train_1_2__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -99,19 +108,19 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "model": "erl-hub/pls-vla-action-head",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/erl-hub/pls-vla-action-head",
     "date": "2026-08-07",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "model": "sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-07",
     "keyword": "vla",
     "score": 0.1
@@ -195,6 +204,15 @@
     "url": "https://huggingface.co/physicalairi/so101_1200ep_pi05",
     "date": "2026-08-07",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "ericvandergijp/act_eendje_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ericvandergijp/act_eendje_policy",
+    "date": "2026-08-07",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -333,15 +351,6 @@
     "score": 0.1
   },
   {
-    "model": "OpenRAL/rskill-xr1-franka_panda-vlabench-nf4",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenRAL/rskill-xr1-franka_panda-vlabench-nf4",
-    "date": "2026-08-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "Schisttherock/so101-manufacturing-act-policy-all-videos",
     "downloads": 0,
     "likes": 0,
@@ -355,15 +364,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
-    "date": "2026-08-06",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Schisttherock/so101-manufacturing-act-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Schisttherock/so101-manufacturing-act-policy",
     "date": "2026-08-06",
     "keyword": "policy",
     "score": 0.1
@@ -542,11 +542,11 @@
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-1-5B",
     "downloads": 12,
-    "likes": 12,
+    "likes": 13,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-5B",
     "date": "2026-08-04",
     "keyword": "robotics",
-    "score": 6.1
+    "score": 6.3
   },
   {
     "model": "puppet-robotics/golf-model-200-obs-rgb-4fps",
