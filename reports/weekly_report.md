@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-07 17:37 UTC
+Generated: 2026-08-07 18:34 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -27,7 +27,7 @@ Generated: 2026-08-07 17:37 UTC
 | zhijieq/directional-navigation | 420 | 126.1 | [link](https://huggingface.co/zhijieq/directional-navigation) |
 | HarrisonPENG/M2W-VLA-RoboTwin | 405 | 121.6 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | tencent/Hy-Embodied-RxBrain-1.0 | 360 | 118.9 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
-| muacha/my_overfit_pi05_policy | 148 | 44.5 | [link](https://huggingface.co/muacha/my_overfit_pi05_policy) |
+| physicalai-bmi/efa-1 | 123 | 37.0 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
