@@ -1,5 +1,12 @@
 [
   {
+    "title": "This Week in Security: Claude Gets Hacking, Hotel WiFi, and NPM Compromised Again",
+    "source": "Hackaday",
+    "date": "2026-08-07",
+    "url": "https://hackaday.com/2026/08/07/this-week-in-security-claude-gets-hacking-hotel-wifi-and-npm-compromised-again/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>kMaybe feeling left out from the questionable hype train of &#8220;Our AI models can&#8217;t be trusted&#8221;, Anthropic has released reports that their Claude model has &#8220;reached the Internet&#8221; and accessed <a class=\"read-more\" href=\"https://hackaday.com/2026/08/07/this-week-in-security-claude-gets-hacking-hotel-wifi-and-npm-compromised-again/\">&#8230;read more</a>"
+  },
+  {
     "title": "FlipBuddy is Borg, You Will Be Assimilated",
     "source": "Hackaday",
     "date": "2026-08-07",
@@ -47,6 +54,13 @@
     "date": "2026-08-07",
     "url": "https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/",
     "summary": "<div><img alt=\"Proxmox VE 64-bit Arm\" class=\"attachment-medium size-medium wp-post-image\" height=\"449\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Proxmox-VE-64-bit-Arm-720x449.png\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Proxmox has recently announced the first official release of Proxmox Virtual Environment (VE) with support for 64-bit Arm (arm64/aarch64). Until now, the popular virtualization solution was only available for x86-64 (amd64). Proxmox VE 9.2 for arm64 is built on Debian 13.5 &#8220;Trixie&#8221; with Linux 7.0, and is otherwise based on the same code as the x86-64 version, and relies on the same configuration, tooling, and documentation, except for a few architecture-specific differences. The developers note that Proxmox VE for Arm fully supports NVIDIA Grace Hopper and NVIDIA Vera platforms, and &#8220;best-effort&#8221; support is available on other UEFI-based Armv8-A/Armv9-A hardware. However, device-tree-only single-board computers, such as the Raspberry Pi, are not supported, since the host must boot through UEFI and describe its hardware through ACPI. Having said that, we previously noted work on an UEFI+ACPI port for the Raspberry Pi 4, and users have already managed to have the release work [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/\">Proxmox VE now officially supports 64-bit Arm (Aarch64) targets</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Marvell Introduces New AI Memory Infrastructure Solutions",
+    "source": "Embedded.com",
+    "date": "2026-08-07",
+    "url": "https://www.embedded.com/marvell-introduces-new-ai-memory-infrastructure-solutions/",
+    "summary": "<p>Marvell Technology has expanded its AI memory infrastructure portfolio with new solutions designed to address the growing memory requirements of large-scale agentic AI inference. The latest additions strengthen the company's offerings across AI storage, CXL-based memory expansion and pooling, and optical shared-memory architectures, enabling hyperscale cloud providers to scale memory resources more independently from compute. [...]</p>\n<p>The post <a href=\"https://www.embedded.com/marvell-introduces-new-ai-memory-infrastructure-solutions/\">Marvell Introduces New AI Memory Infrastructure Solutions</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "What caught your eye? EDA growth, SpaceX expectations, AI startup",
@@ -119,6 +133,13 @@
     "summary": "<p>Researchers at the University of Turku have demonstrated  a solid-state organic laser microcavity fabricated entirely by solution processing. The device operates in the strong light–matter coupling regime, where light and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/turku-university-researchers-2026-08/\">Turku  researchers demo solid-state organic laser microcavity fabricated entirely by solution processing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Get Creative with Robotics Using CRICKIT",
+    "source": "Adafruit",
+    "date": "2026-08-07",
+    "url": "https://blog.adafruit.com/2026/08/07/get-creative-with-robotics-using-crickit/",
+    "summary": "Make a robot friend with Adafruit&#8217;s CRICKIT, an add-on to our popular Circuit Playground Express, FEATHER and other platforms to make and program robots with CircuitPython, MakeCode, and Arduino. CRICKIT complements and extends your boards so you can still use all the goodies on the microcontroller, just with an additional robotics playground! See all that [&#8230;]"
+  },
+  {
     "title": "ESP32 DevKit 30-Pin USB-C Case #3DThursday #3DPrinting",
     "source": "Adafruit",
     "date": "2026-08-07",
@@ -138,13 +159,6 @@
     "date": "2026-08-06",
     "url": "https://hackaday.com/2026/08/06/phantomdrive-keeps-your-secrets-out-of-sight/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"253\" src=\"https://hackaday.com/wp-content/uploads/2026/08/phantom_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It&#8217;s a complex world out there, and more than ever folks may find themselves in a situation where they want to keep particular bits of information away from prying eyes. <a class=\"read-more\" href=\"https://hackaday.com/2026/08/06/phantomdrive-keeps-your-secrets-out-of-sight/\">&#8230;read more</a>"
-  },
-  {
-    "title": "CNC’d, CNC-inspired Adjustable Wrench Won’t Round Your Bolts",
-    "source": "Hackaday",
-    "date": "2026-08-06",
-    "url": "https://hackaday.com/2026/08/06/cncd-cnc-inspired-adjustable-wrench-wont-round-your-bolts/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/better-adjustable-wrench-feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We&#8217;ve probably all got one item in our toolboxes or chests that we really, really don&#8217;t like, but find too handy to toss. For [Someone Should Make That], that item <a class=\"read-more\" href=\"https://hackaday.com/2026/08/06/cncd-cnc-inspired-adjustable-wrench-wont-round-your-bolts/\">&#8230;read more</a>"
   },
   {
     "title": "PICOTTY project enables multi-target serial remote management through Raspberry Pi Pico boards and Pi Zero 2 W SBC",
@@ -250,13 +264,6 @@
     "date": "2026-08-06",
     "url": "https://blog.adafruit.com/2026/08/06/64x64-rgb-matrix-2-5mm-pitch-adafruit-panel-case-with-pi-mount-3dthursday-3dprinting/",
     "summary": "Davisan1001 shares: A simple case, stand, and Raspberry Pi mount for the Adafruit 64×64 RGB LED Matrix (2.5mm pitch). Designed with a lean-back angle for easy tabletop viewing. Fits the Raspberry Pi 3 B v1.2 (may work with similar models). Known issue: some USB I/O ports blocked when Pi 3 is mounted — one remains [&#8230;]"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-08-06",
-    "url": "https://blog.adafruit.com/2026/08/06/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-6-2/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
     "title": "Production-Ready Embedded Computing — Toradex, NXP and Mouser Electronics",
@@ -418,12 +425,5 @@
     "date": "2026-07-31",
     "url": "https://www.embedded.com/mikroe-integrates-swift-navigation-skylark-with-gnss-19-click/",
     "summary": "<p>Mikroe has partnered with Swift Navigation to integrate the Skylark Precise Positioning Service into its GNSS 19 Click development board, providing users with a free six-month license to the cloud-based correction service. The collaboration is intended to simplify access to high-accuracy global navigation satellite system (GNSS) positioning for developers working on industrial, automotive, and IoT [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mikroe-integrates-swift-navigation-skylark-with-gnss-19-click/\">Mikroe Integrates Swift Navigation Skylark with GNSS 19 Click</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Renesas Upgrades DDR5 MRDIMM Chipset",
-    "source": "Embedded.com",
-    "date": "2026-07-30",
-    "url": "https://www.embedded.com/renesas-upgrades-ddr5-mrdimm-chipset/",
-    "summary": "<p>Renesas Electronics Corp. has launched its third‑generation (Gen 3) DDR5 multiplexed rank dual in‑line memory module (MRDIMM) chipset solutions with server-class MRDIMM speeds up to 16,000 mega transfers per second (MT/s). The new devices include the RRG5013 multiplexed registering clock driver (MRCD) and RRG5103 multiplexed data buffer (MDB). Targeting increased demand for higher memory bandwidth driven by AI data centers, cloud infrastructure, and accelerated [...]</p>\n<p>The post <a href=\"https://www.embedded.com/renesas-upgrades-ddr5-mrdimm-chipset/\">Renesas Upgrades DDR5 MRDIMM Chipset</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
