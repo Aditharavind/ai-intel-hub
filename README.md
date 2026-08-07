@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-07 09:45 UTC
+Last Updated: 2026-08-07 10:39 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -52,13 +52,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-07 | Wrist Welcomes Wii Nunchuk As Gloriously Ergonomic Macropad | Hackaday | [link](https://hackaday.com/2026/08/07/wrist-welcomes-wii-nunchuk-as-gloriously-ergonomic-macropad/) |
 | 2026-08-07 | A 3D Printed Cycloidal Gearbox | Hackaday | [link](https://hackaday.com/2026/08/06/a-3d-printed-cycloidal-gearbox/) |
 | 2026-08-07 | NASA’s Just Prolonged Voyager 2’s Science Mission With a Big Bang | Hackaday | [link](https://hackaday.com/2026/08/06/nasas-just-prolonged-voyager-2s-science-mission-with-a-big-bang/) |
+| 2026-08-07 | GEEKOM IT13 Max mini PC review – Part 1: specifications, unboxing, teardown, and first boot | CNX Software | [link](https://www.cnx-software.com/2026/08/07/geekom-it13-max-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/) |
 | 2026-08-07 | Token Monitor – An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/) |
 | 2026-08-07 | Proxmox VE now officially supports 64-bit Arm (Aarch64) targets | CNX Software | [link](https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/) |
-| 2026-08-07 | ESP32 DevKit 30-Pin USB-C Case #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/06/esp32-devkit-30-pin-usb-c-case-3dthursday-3dprinting/) |
-| 2026-08-06 | Rubidium Frequency Standard Explained | Hackaday | [link](https://hackaday.com/2026/08/06/rubidium-frequency-standard-explained/) |
-| 2026-08-06 | Phantomdrive Keeps Your Secrets Out of Sight | Hackaday | [link](https://hackaday.com/2026/08/06/phantomdrive-keeps-your-secrets-out-of-sight/) |
-| 2026-08-06 | CNC’d, CNC-inspired Adjustable Wrench Won’t Round Your Bolts | Hackaday | [link](https://hackaday.com/2026/08/06/cncd-cnc-inspired-adjustable-wrench-wont-round-your-bolts/) |
-| 2026-08-06 | Calculus-Free PID (Almost) in a Spreadsheet | Hackaday | [link](https://hackaday.com/2026/08/06/calculus-free-pid-almost-in-a-spreadsheet/) |
+| 2026-08-07 | Most Read – AI chip startup, TSMC 1.4nm fab, HP buying CXMT DRAM | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-ai-chip-startup-tsmc-1-4nm-fab-hp-buying-cxmt-dram-2026-08/) |
+| 2026-08-07 | Telonic adds two Rigol RF analysers in 1.9kg chassis | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/test-measurement-products/telonic-adds-two-rigol-rf-analysers-in-1-9kg-chassis-2026-08/) |
+| 2026-08-07 | AMD buys Taalas | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/and-buys-taalas-2026-08/) |
+| 2026-08-07 | Lumilens raises $900m | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/lumilens-raises-900m-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -86,7 +86,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-07 | RobotisSW/dispose_general_waste_1_byGrootModel | 0 | 0 | [link](https://huggingface.co/RobotisSW/dispose_general_waste_1_byGrootModel) |
 | 2026-08-07 | whosricky/VLANeXt_HL1 | 0 | 0 | [link](https://huggingface.co/whosricky/VLANeXt_HL1) |
 | 2026-08-07 | ISdept/wiltechs-vla-moe-36k | 8 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-moe-36k) |
-| 2026-08-07 | NU-World-Model-Embodied-AI/phyjudge-9B | 20 | 0 | [link](https://huggingface.co/NU-World-Model-Embodied-AI/phyjudge-9B) |
+| 2026-08-07 | knightnemo/robocl-ogbench-mlp-world-model | 0 | 0 | [link](https://huggingface.co/knightnemo/robocl-ogbench-mlp-world-model) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -95,12 +95,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1442 | Rust | 576.9 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 468 | Shell | 187.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63355 | Python | 25342.1 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15634 | C++ | 6253.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 63354 | Python | 25341.7 | [link](https://github.com/commaai/openpilot) |
+| zauberzeug/nicegui | 16101 | Python | 6440.5 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15635 | C++ | 6254.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14475 | C++ | 5790.1 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11308 | Python | 4523.3 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11260 | Rust | 4504.1 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7855 | Python | 3142.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -108,13 +108,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzRRUmZZTTlqMHBVNk9ZYTRjUGM0X3N6Q2FhYXVaY1pKbDhwWTA5UjlwX0NicHVkRTJLRFlUUXNFalhwRFVMak1fTTNRUmhoVEF4YThKQUlBSnZsZ1ZwZmNKT3BkNXBrcUNRcXVMRkhBYVowWmFiY1BJNjRLOExaMG82Y2lfaFYxTlBkRzBBcHpQNm5POEUtcG9VVFBQdDRCTVp0ZHhUaW9RYWRPX0Y1OGJ3YzJ0a3lhdHR1TGRKcVVLRmhtTmw2dtIByAFBVV95cUxQOWRxV0dRV2NIWmxBLVFEOGN1el82TWYtcVhhSm5HY18yY0FyTkhkSWhtVGRvY0toN1RJd1ozSFFCdXRFX2VWNDluZWJCYmkwanhKNlhWSHYxRmFCZTJrQ2Ryc0RTWHFvT2Z5V2kzYlNlZzhNOGZBd044MlExMmduZ1Q3NDhDN0JwMXZJQ3AwV2FabDVTdFNRMTBXTS1kcEt4LUdzU1NpSU84eXdDdmR2dlcyeGw0NkUtdGxBb21LRUdDUktkU2UwRg?oc=5) |
 | 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsODYyYWVEVm9Oc2h5NkFSQTNYRWlJeDJkQzJDSlFvNDROYXRCb3BMaXl3cktmLTRNVWwxWkdjR2h4T21TeUF4MVBsN0ZsZFJs?oc=5) |
 | 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdC0ycjl6OGx6NndaN0lhS3NfTU5RNFBtZVBuQXEzTjJaX2hyM1BDbE5VR1ptQ0g1MlViLU9BS3FZM0dRcW5ubGpWMzNCb25GajVOWlJLRjAyUnQ4WHJuSnl0clAxREJrMHhab1lYd1NESHJfaTRWQUNZck1wNll6Z3BpYUJXNjNQ?oc=5) |
+| 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxNRUM1NllFTl9IV2Q0V20zLUZVZlRtTERsbDRCeGlkdnJzcE1pdGYyV1YtOF9jTFV2NU1pTEFpZHBLd2JmUGhPanF3WTdLOWhmN1ZyNnZyVjNuMEFzbWpQNmYyUkhzcjBjR3hHU3YtbTl4UzNFZ0VWTDY3QVNQRkYwODJNaWhpY0JXTFNlMnhMZ1ozeUMzb2VQc3NkREZtcmY0RHlGNTVCbkgtU24xTXFBWVNyakdINjdNX0RoZHpwM1liZU1oUUhzTy1VWlV3c0U?oc=5) |
 | 2026-08-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBrQWhpbzZHRmtfcHNqYWxvZ3htZm10OXFKdW9ZaEZmZDlRMzZaLUpJbkJDSGVWbnlPYWlTcUVjOTQ4YTlMNlBDVVdQb19GU1ZWRXZnYUxSSmlNNUc4Q09tNXRUQUxvOENwT0prd0dOa1Rja0RzX3c?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUk1Hd2d1WFRNOHpKUkJ0aGR4UE1RYnR0cFJZRVhZb0NkNWtUejlGVHpHcUtOVkNQS2d2ZXlCRnJMVmg0QlFfV3R5TGR0NzJCQ0xrbjVGcW91MDdwSEUxZTd0V2RDc29uMjkyYmxIRmtUdl9ja3VUMWZyMU1iUnZFWFZyM1p2ZzlpOGV3aGRfelVabFpjZXNIazYxYzNxWWQxLXNucjUxV29HakHSAbABQVVfeXFMTnJLeHg2MTNEVzRLVV8wYjFCdzl3clhjMjctX28yVU9sSzkyMHdLTDIzX3NVVUFpU3lFX3dVTENPVFViTlBwOUFsMVpqOFBnTHB2MWhwQ1RFejltRk44MmlmMUFIRGkwbFF5azVKYUdENDRjZTJNZmdsUk00NHdJajFiQXFZN0JiMEpyUng5bTh3Vl82a3N0M3FpYk01S1pmVk91OXA3LTlLbjI0dU82TFc?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWRuY0FETUdBUFY5SzQ2RjlWamlLNmZiTEttZnVfTjBrZmRpR3Y4a0dLaUNfRFZQX01RRkNCLVo3VG9ORUk5am02RUtkR19qeGdRY25WMEk0YV9lVllqX29pTzB4dUItakJpYnB5eUEtbjk5Ul9CNzFPS2hIMUhVbnd3?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGprdFZOc2Y3WnVwbmNEMXZ0a1JtejRhUXlXV2JYd1NDSmNGclhMdzZOOTZGaGRxcVl0VDl5NlB6ZlhUeHJwWVNYYVBXWXRqajc2U2VsUU9XWVk4bUNfdVlzd0kyRjVYQ0xIVkFxd01qbkxmQ2owLU1FRWVwTXNxUGhwZ1FlOVE3VHdjbVpuc3paV3ZhWXV0UTY0bHdreFFYeTdUSU42ZnJFRkREc1gzeHhnakM3bFBaLXdBSQ?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0phRVp0ZE9Vc3E1VFdfSGg3LTI2OHBwNGYtejNWdzEzLTBPcVpMVlhYaTAwMkZsS3J1RERQT2FGMlhlTjVBdlRpb1MzNlpEczUzRm1YOVQ3cS1fWFpuQkFyZ3RscWRxSGV0dThVekdpNU5tZjZOUXVIZGFIUWQtTi1kQ3FXQ3psd3hmRGR0X2EtRGM3VXRjVkNzcEd2UXpxMnc?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdm9GTU9HUGg5aUVGUmhRSjV3RmZOZjNFdmlIT1JNU3g5VnhteVRJa2RweFpfZk95YUFjR2oxT2YyRTE1X2UyMnd4MllMQU04MWNZYTlxRXBMRnBZUGxzWFo0U3FXNjVNNG04eWR5Vnh2TGhqMGZTNzJlSXRUUDMxZm9WbEd3dUxxOGNNdklkSE5GSDc0OTgwR1U4YzNfLW1yZko3b0pSMzJKMWFWaXpCc0ZyOU0?oc=5) |
-| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE9ETElOTVpZaU1GbWJKZEk1aUJYdlAzaVBkcEFIbVpfRFhsVkY1WnZQSU9FYkZ0RHJlRDJlNU4xWXRqRk1iTFRtVDZsNVZDS1BDR1pXWHBGN0ZiRDFMOHlhd2otUFI4OWJNTkc1MnBRTFRTWnRDWUtj?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

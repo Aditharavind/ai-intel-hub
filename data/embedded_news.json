@@ -21,6 +21,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"412\" src=\"https://hackaday.com/wp-content/uploads/2024/04/Voyager2.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Letting go is hard, especially when it concerns an irreplaceable space probe like the two Voyagers. Fortunately JPL engineers have managed to pull off a &#8216;big bang&#8217; switch on Voyager <a class=\"read-more\" href=\"https://hackaday.com/2026/08/06/nasas-just-prolonged-voyager-2s-science-mission-with-a-big-bang/\">&#8230;read more</a>"
   },
   {
+    "title": "GEEKOM IT13 Max mini PC review – Part 1: specifications, unboxing, teardown, and first boot",
+    "source": "CNX Software",
+    "date": "2026-08-07",
+    "url": "https://www.cnx-software.com/2026/08/07/geekom-it13-max-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/",
+    "summary": "<div><img alt=\"GEEKOM IT13 Max review\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/GEEKOM-IT13-Max-review-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We&#8217;ve just received a sample of the GEEKOM IT13 Max mini PC powered by an Intel Core Ultra 9 185H CPU for review. With up to 35 TOPS, sixteen cores clocked up to 5.1 GHz, and up to 24 GB LPDDR5 memory, the Meteor Lake mini PC is well-suited for AI workloads, creative tasks, coding, and heavy multitasking. Two configurations are available: one with 16 GB DDR5 SODIMM RAM and a 1 TB PCIe Gen4 SSD, and another with 24 GB soldered-on LPDDR5-5600 memory and a 500 GB SSD. Both feature two 40 Gbps USB4 ports, five USB 3.2 Gen 2 Type-A ports, two HDMI 2.0 ports, Wi-Fi 7, Bluetooth 5.4, and dual 2.5 GbE networking, and come pre-installed with Windows 11 Pro. GEEKOM specifically sent us the IT13 Max mini PC with 24 GB LPDDR5 and a 500 GB M.2 SSD for testing. In this article, we will cover [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/07/geekom-it13-max-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/\">GEEKOM IT13 Max mini PC review &#8211; Part 1: specifications, unboxing, teardown, and first boot</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Token Monitor – An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding)",
     "source": "CNX Software",
     "date": "2026-08-07",
@@ -33,6 +40,62 @@
     "date": "2026-08-07",
     "url": "https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/",
     "summary": "<div><img alt=\"Proxmox VE 64-bit Arm\" class=\"attachment-medium size-medium wp-post-image\" height=\"449\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Proxmox-VE-64-bit-Arm-720x449.png\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Proxmox has recently announced the first official release of Proxmox Virtual Environment (VE) with support for 64-bit Arm (arm64/aarch64). Until now, the popular virtualization solution was only available for x86-64 (amd64). Proxmox VE 9.2 for arm64 is built on Debian 13.5 &#8220;Trixie&#8221; with Linux 7.0, and is otherwise based on the same code as the x86-64 version, and relies on the same configuration, tooling, and documentation, except for a few architecture-specific differences. The developers note that Proxmox VE for Arm fully supports NVIDIA Grace Hopper and NVIDIA Vera platforms, and &#8220;best-effort&#8221; support is available on other UEFI-based Armv8-A/Armv9-A hardware. However, device-tree-only single-board computers, such as the Raspberry Pi, are not supported, since the host must boot through UEFI and describe its hardware through ACPI. Having said that, we previously noted work on an UEFI+ACPI port for the Raspberry Pi 4, and users have already managed to have the release work [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/\">Proxmox VE now officially supports 64-bit Arm (Aarch64) targets</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Most Read – AI chip startup, TSMC 1.4nm fab, HP buying CXMT DRAM",
+    "source": "Electronics Weekly",
+    "date": "2026-08-07",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-ai-chip-startup-tsmc-1-4nm-fab-hp-buying-cxmt-dram-2026-08/",
+    "summary": "<p>A London AI chip startup raising $312m, the wafer fab equipment market being set to explode, and Tesla reporting its revenue and deliveries rose again this quarter.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-ai-chip-startup-tsmc-1-4nm-fab-hp-buying-cxmt-dram-2026-08/\">Most Read &#8211; AI chip startup, TSMC 1.4nm fab, HP buying CXMT DRAM</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Telonic adds two Rigol RF analysers in 1.9kg chassis",
+    "source": "Electronics Weekly",
+    "date": "2026-08-07",
+    "url": "https://www.electronicsweekly.com/news/products/test-measurement-products/telonic-adds-two-rigol-rf-analysers-in-1-9kg-chassis-2026-08/",
+    "summary": "<p>Two RF instruments, the RSA800 series real-time spectrum analysers and DNA800 series vector network analysers, from Rigol are now available in the UK from Telonic Instruments. The instruments for bench-grade [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/test-measurement-products/telonic-adds-two-rigol-rf-analysers-in-1-9kg-chassis-2026-08/\">Telonic adds two Rigol RF analysers in 1.9kg chassis</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "AMD buys Taalas",
+    "source": "Electronics Weekly",
+    "date": "2026-08-07",
+    "url": "https://www.electronicsweekly.com/news/business/and-buys-taalas-2026-08/",
+    "summary": "<p>AMD is to buy Taalas,  the Canadian inference chip specialist. The acquisition strengthens AMD&#8217;s long-term AI roadmap with differentiated inference technology Last  February Taalas  raised $169 million taking total funding [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/and-buys-taalas-2026-08/\">AMD buys Taalas</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Lumilens raises $900m",
+    "source": "Electronics Weekly",
+    "date": "2026-08-07",
+    "url": "https://www.electronicsweekly.com/news/business/lumilens-raises-900m-2026-08/",
+    "summary": "<p>Two year-old Lumilens, the optical transceiver specialist, has raised a  $700 million Series C bringing total funding up to $900 million. The round included investment from: Addition, Aiconic, Alkeon, Atreides [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/lumilens-raises-900m-2026-08/\">Lumilens raises $900m</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Qinetiq teaches cyber security education to 200+ students",
+    "source": "Electronics Weekly",
+    "date": "2026-08-07",
+    "url": "https://www.electronicsweekly.com/news/business/qinetiq-teaches-cyber-security-education-to-200-students-2026-08/",
+    "summary": "<p>QinetiQ has delivered the National Cyber Security Centre’s ‘CyberFirst Advanced’ course to over 200 students across the United Kingdom, helping to upskill and inspire the next generation of cyber and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qinetiq-teaches-cyber-security-education-to-200-students-2026-08/\">Qinetiq teaches cyber security education to 200+ students</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "2026 a pause not a peak, says Yole",
+    "source": "Electronics Weekly",
+    "date": "2026-08-07",
+    "url": "https://www.electronicsweekly.com/news/2026-a-pause-not-a-peak-says-yole-2026-08/",
+    "summary": "<p>026 is a pause, not a peak in the RF market, says Yole.  Smartphones slow the market down. Defence and automotive pick up the pace. 6G and satellites open a [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/2026-a-pause-not-a-peak-says-yole-2026-08/\">2026 a pause not a peak, says Yole</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Turku  researchers demo solid-state organic laser microcavity fabricated entirely by solution processing",
+    "source": "Electronics Weekly",
+    "date": "2026-08-07",
+    "url": "https://www.electronicsweekly.com/news/business/turku-university-researchers-2026-08/",
+    "summary": "<p>Researchers at the University of Turku have demonstrated  a solid-state organic laser microcavity fabricated entirely by solution processing. The device operates in the strong light–matter coupling regime, where light and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/turku-university-researchers-2026-08/\">Turku  researchers demo solid-state organic laser microcavity fabricated entirely by solution processing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Prediction Seduction",
+    "source": "Electronics Weekly",
+    "date": "2026-08-07",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/delusions/prediction-2026-08/",
+    "summary": "<p>79% of prediction-market users are losing money, and half (51%) are betting with funds they borrowed, says a report from BadCredit.org. ‘Because Kalshi, Polymarket, and PredictIt have exploded this year, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/delusions/prediction-2026-08/\">Prediction Seduction</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "ESP32 DevKit 30-Pin USB-C Case #3DThursday #3DPrinting",
@@ -103,6 +166,20 @@
     "date": "2026-08-06",
     "url": "https://www.embedded.com/partnership-delivers-ai-powered-design-to-engineers/",
     "summary": "<p>Celus, an AI-powered electronic design automation company, announced a strategic partnership with Variscite that brings Variscite's system-on-module (SoM) portfolio into the CELUS Design Platform to accelerate embedded system development from concept to a prototype or production-ready design. Simplifying electronics design with AI, the integration combines Variscite's SoMs with Celus' AI Design Assistant to shorten time [...]</p>\n<p>The post <a href=\"https://www.embedded.com/partnership-delivers-ai-powered-design-to-engineers/\">Partnership Delivers AI-Powered Design to Engineers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Axiom charity golf day raises £3,500 for SSAFA",
+    "source": "Electronics Weekly",
+    "date": "2026-08-06",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/general-electronics/axiom-charity-golf-day-raises-3500-for-ssafa-2026-08/",
+    "summary": "<p>Axiom Manufacturing Services raises £3,500 for SSAFA, the Armed Forces charity, following a successful charity golf day at The Vale Resort.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/general-electronics/axiom-charity-golf-day-raises-3500-for-ssafa-2026-08/\">Axiom charity golf day raises £3,500 for SSAFA</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Fable: Not A High Flyer",
+    "source": "Electronics Weekly",
+    "date": "2026-08-06",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-not-a-high-flyer-2026-08/",
+    "summary": "<p>This was not a high-flier: Moral: All that flies does not fly high &#160;</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-not-a-high-flyer-2026-08/\">Fable: Not A High Flyer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Waveshare CM4 Case with GPIO #3DThursday #3DPrinting",
@@ -327,13 +404,6 @@
     "date": "2026-08-04",
     "url": "https://www.embedded.com/optical-zonu-launches-miniature-ku-band-rfof-transmitter/",
     "summary": "<p>Optical Zonu has introduced a miniature Ku-band RF-over-fiber (RFoF) transmitter designed for defense and aerospace platforms where installation space is limited and high-frequency RF signal integrity is critical. The compact OEM module enables direct conversion of RF signals to optical signals at the antenna, reducing transmission losses and simplifying system architectures compared with conventional coaxial [...]</p>\n<p>The post <a href=\"https://www.embedded.com/optical-zonu-launches-miniature-ku-band-rfof-transmitter/\">Optical Zonu Launches Miniature Ku-Band RFoF Transmitter</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "ChronoWatch X2040 – A DIY watch with off-the-shelf Raspberry Pi RP2040 round display, 3D printed case, and custom firmware",
-    "source": "CNX Software",
-    "date": "2026-08-03",
-    "url": "https://www.cnx-software.com/2026/08/03/chronowatch-x2040-a-diy-watch-with-off-the-shelf-raspberry-pi-rp2040-round-display-3d-printed-case-and-custom-firmware/",
-    "summary": "<div><img alt=\"Raspberry Pi RP2040 watch\" class=\"attachment-medium size-medium wp-post-image\" height=\"491\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Raspberry-Pi-RP2040-watch-720x491.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>If you&#8217;ve ever wanted to build your own watch, the ChronoWatch X2040 DIY watch allows you to do it the easy way with a Waveshare RP2040-Touch-LCD-1.28 touch LCD board, a 3D-printed case, a 3.7V LiPo battery, a few screws, and firmware using the Pico C/C++ SDK. When Vishal Soni decided he wanted to build a watch, he initially planned to design a custom board, but since there are already several round LCD boards based on Raspberry Pi RP2040 MCU, he went with a Waveshare board, preferring to spend more time on firmware programming. ChronoWatch X2040 parts: Waveshare RP2040-Touch-LCD-1.28 with Raspberry Pi RP2040 MCU and 1.28-inch round touch display &#8211; About $23 to $29 on Amazon, AliExpress, or the Waveshare store. 3D printed case designed with Tinkercad 3.7V 950mAh Lipo battery (35 x 25 x 10 mm) M2 4mm screw M2 heat inserts 2-pin MX1.25 connector 1mm heat shrink sleeve tube [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/03/chronowatch-x2040-a-diy-watch-with-off-the-shelf-raspberry-pi-rp2040-round-display-3d-printed-case-and-custom-firmware/\">ChronoWatch X2040 &#8211; A DIY watch with off-the-shelf Raspberry Pi RP2040 round display, 3D printed case, and custom firmware</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Fault-Tolerant Quantum Computers, Sustained Performance Defines the Next Phase of Edge AI, Agentic AI for EDA: Embedded Week Insights",

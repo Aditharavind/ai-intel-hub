@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-07 09:45 UTC
+Generated: 2026-08-07 10:39 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,10 +14,10 @@ Generated: 2026-08-07 09:45 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63355 | 25342.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63354 | 25341.7 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30260 | 12104.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16101 | 6440.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15634 | 6253.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15635 | 6254.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | TianxingChen/Embodied-AI-Guide | 15304 | 6121.7 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
@@ -35,8 +35,8 @@ Generated: 2026-08-07 09:45 UTC
 | 2026-08-07 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzRRUmZZTTlqMHBVNk9ZYTRjUGM0X3N6Q2FhYXVaY1pKbDhwWTA5UjlwX0NicHVkRTJLRFlUUXNFalhwRFVMak1fTTNRUmhoVEF4YThKQUlBSnZsZ1ZwZmNKT3BkNXBrcUNRcXVMRkhBYVowWmFiY1BJNjRLOExaMG82Y2lfaFYxTlBkRzBBcHpQNm5POEUtcG9VVFBQdDRCTVp0ZHhUaW9RYWRPX0Y1OGJ3YzJ0a3lhdHR1TGRKcVVLRmhtTmw2dtIByAFBVV95cUxQOWRxV0dRV2NIWmxBLVFEOGN1el82TWYtcVhhSm5HY18yY0FyTkhkSWhtVGRvY0toN1RJd1ozSFFCdXRFX2VWNDluZWJCYmkwanhKNlhWSHYxRmFCZTJrQ2Ryc0RTWHFvT2Z5V2kzYlNlZzhNOGZBd044MlExMmduZ1Q3NDhDN0JwMXZJQ3AwV2FabDVTdFNRMTBXTS1kcEt4LUdzU1NpSU84eXdDdmR2dlcyeGw0NkUtdGxBb21LRUdDUktkU2UwRg?oc=5) |
 | 2026-08-07 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsODYyYWVEVm9Oc2h5NkFSQTNYRWlJeDJkQzJDSlFvNDROYXRCb3BMaXl3cktmLTRNVWwxWkdjR2h4T21TeUF4MVBsN0ZsZFJs?oc=5) |
 | 2026-08-07 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdC0ycjl6OGx6NndaN0lhS3NfTU5RNFBtZVBuQXEzTjJaX2hyM1BDbE5VR1ptQ0g1MlViLU9BS3FZM0dRcW5ubGpWMzNCb25GajVOWlJLRjAyUnQ4WHJuSnl0clAxREJrMHhab1lYd1NESHJfaTRWQUNZck1wNll6Z3BpYUJXNjNQ?oc=5) |
+| 2026-08-07 | Unitree |  | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxNRUM1NllFTl9IV2Q0V20zLUZVZlRtTERsbDRCeGlkdnJzcE1pdGYyV1YtOF9jTFV2NU1pTEFpZHBLd2JmUGhPanF3WTdLOWhmN1ZyNnZyVjNuMEFzbWpQNmYyUkhzcjBjR3hHU3YtbTl4UzNFZ0VWTDY3QVNQRkYwODJNaWhpY0JXTFNlMnhMZ1ozeUMzb2VQc3NkREZtcmY0RHlGNTVCbkgtU24xTXFBWVNyakdINjdNX0RoZHpwM1liZU1oUUhzTy1VWlV3c0U?oc=5) |
 | 2026-08-06 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBrQWhpbzZHRmtfcHNqYWxvZ3htZm10OXFKdW9ZaEZmZDlRMzZaLUpJbkJDSGVWbnlPYWlTcUVjOTQ4YTlMNlBDVVdQb19GU1ZWRXZnYUxSSmlNNUc4Q09tNXRUQUxvOENwT0prd0dOa1Rja0RzX3c?oc=5) |
-| 2026-08-06 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUk1Hd2d1WFRNOHpKUkJ0aGR4UE1RYnR0cFJZRVhZb0NkNWtUejlGVHpHcUtOVkNQS2d2ZXlCRnJMVmg0QlFfV3R5TGR0NzJCQ0xrbjVGcW91MDdwSEUxZTd0V2RDc29uMjkyYmxIRmtUdl9ja3VUMWZyMU1iUnZFWFZyM1p2ZzlpOGV3aGRfelVabFpjZXNIazYxYzNxWWQxLXNucjUxV29HakHSAbABQVVfeXFMTnJLeHg2MTNEVzRLVV8wYjFCdzl3clhjMjctX28yVU9sSzkyMHdLTDIzX3NVVUFpU3lFX3dVTENPVFViTlBwOUFsMVpqOFBnTHB2MWhwQ1RFejltRk44MmlmMUFIRGkwbFF5azVKYUdENDRjZTJNZmdsUk00NHdJajFiQXFZN0JiMEpyUng5bTh3Vl82a3N0M3FpYk01S1pmVk91OXA3LTlLbjI0dU82TFc?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
