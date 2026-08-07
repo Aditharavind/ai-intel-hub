@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-07 16:37 UTC
+Last Updated: 2026-08-07 17:37 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-07 | Video Friday: Drones Go Heavy in DARPA Lift Challenge | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-heavy-lift-drone) |
 | 2026-08-06 | HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics | Robotics Business Review | [link](https://www.therobotreport.com/hii-signs-up-to-900m-agreement-with-path-robotics-graymatter-robotics/) |
 | 2026-08-06 | Report looks at advances in autonomous mobile robots | Robotics Business Review | [link](https://www.therobotreport.com/report-looks-at-advances-in-autonomous-mobile-robots/) |
 | 2026-08-06 | How Robin, the robotic companion, keeps patients calm during hospital visits | Robotics Business Review | [link](https://www.therobotreport.com/how-robin-robotic-companion-keeps-patients-calm-during-hospital-visits/) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-05 | University of Florida opens new robotics lab dedicated to industrialized construction | Robotics Business Review | [link](https://www.therobotreport.com/university-of-florida-opens-new-robotics-lab-dedicated-to-industrialized-construction/) |
 | 2026-08-05 | Avnet and Weston Robot partner to launch edge AI inspection platform | Robotics Business Review | [link](https://www.therobotreport.com/avnet-and-weston-robot-partner-to-launch-edge-ai-inspection-platform/) |
 | 2026-08-05 | GAM Enterprises to produce Schaeffler’s PSC gear reducers | Robotics Business Review | [link](https://www.therobotreport.com/gam-enterprises-to-produce-schaefflers-psc-gear-reducers/) |
-| 2026-08-04 | What Robotics Companies Think About the U.S. Foreign Robot Ban | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/fcc-covered-list-mobile-robots) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -86,7 +86,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-07 | RobotisSW/dispose_general_waste_1_byGrootModel_80000 | 0 | 0 | [link](https://huggingface.co/RobotisSW/dispose_general_waste_1_byGrootModel_80000) |
 | 2026-08-07 | RobotisSW/dispose_general_waste_1_byGrootModel | 0 | 0 | [link](https://huggingface.co/RobotisSW/dispose_general_waste_1_byGrootModel) |
 | 2026-08-07 | sam-guided-vlas/train_1_2__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0) |
-| 2026-08-07 | sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-07 | sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -113,8 +113,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUk1Hd2d1WFRNOHpKUkJ0aGR4UE1RYnR0cFJZRVhZb0NkNWtUejlGVHpHcUtOVkNQS2d2ZXlCRnJMVmg0QlFfV3R5TGR0NzJCQ0xrbjVGcW91MDdwSEUxZTd0V2RDc29uMjkyYmxIRmtUdl9ja3VUMWZyMU1iUnZFWFZyM1p2ZzlpOGV3aGRfelVabFpjZXNIazYxYzNxWWQxLXNucjUxV29HakHSAbABQVVfeXFMTnJLeHg2MTNEVzRLVV8wYjFCdzl3clhjMjctX28yVU9sSzkyMHdLTDIzX3NVVUFpU3lFX3dVTENPVFViTlBwOUFsMVpqOFBnTHB2MWhwQ1RFejltRk44MmlmMUFIRGkwbFF5azVKYUdENDRjZTJNZmdsUk00NHdJajFiQXFZN0JiMEpyUng5bTh3Vl82a3N0M3FpYk01S1pmVk91OXA3LTlLbjI0dU82TFc?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGprdFZOc2Y3WnVwbmNEMXZ0a1JtejRhUXlXV2JYd1NDSmNGclhMdzZOOTZGaGRxcVl0VDl5NlB6ZlhUeHJwWVNYYVBXWXRqajc2U2VsUU9XWVk4bUNfdVlzd0kyRjVYQ0xIVkFxd01qbkxmQ2owLU1FRWVwTXNxUGhwZ1FlOVE3VHdjbVpuc3paV3ZhWXV0UTY0bHdreFFYeTdUSU42ZnJFRkREc1gzeHhnakM3bFBaLXdBSQ?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWRuY0FETUdBUFY5SzQ2RjlWamlLNmZiTEttZnVfTjBrZmRpR3Y4a0dLaUNfRFZQX01RRkNCLVo3VG9ORUk5am02RUtkR19qeGdRY25WMEk0YV9lVllqX29pTzB4dUItakJpYnB5eUEtbjk5Ul9CNzFPS2hIMUhVbnd3?oc=5) |
+| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0phRVp0ZE9Vc3E1VFdfSGg3LTI2OHBwNGYtejNWdzEzLTBPcVpMVlhYaTAwMkZsS3J1RERQT2FGMlhlTjVBdlRpb1MzNlpEczUzRm1YOVQ3cS1fWFpuQkFyZ3RscWRxSGV0dThVekdpNU5tZjZOUXVIZGFIUWQtTi1kQ3FXQ3psd3hmRGR0X2EtRGM3VXRjVkNzcEd2UXpxMnc?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE84YThacGFHbml0eEhpczh1R3hnMldycHNJcUVPMlMxWVBmbXJGbDNZOWZZTWZValpVcThzNGNDRDBkNFNwdVVERGV0ZXRUOENzWVlJ?oc=5) |
-| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdm9GTU9HUGg5aUVGUmhRSjV3RmZOZjNFdmlIT1JNU3g5VnhteVRJa2RweFpfZk95YUFjR2oxT2YyRTE1X2UyMnd4MllMQU04MWNZYTlxRXBMRnBZUGxzWFo0U3FXNjVNNG04eWR5Vnh2TGhqMGZTNzJlSXRUUDMxZm9WbEd3dUxxOGNNdklkSE5GSDc0OTgwR1U4YzNfLW1yZko3b0pSMzJKMWFWaXpCc0ZyOU0?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -125,7 +125,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-06 | AI robot startup challenging future of warfare - Caliber.Az | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE8yRW4zTzBaX0dCUmc1Qk1xY2N3ZTdxYnJvaHdEaExMTklLU2J5Z2JSaG93dzAxT0JITERoenRQM20tWmtKUGR1YkNCaHJjVU82NXF4SXRTOWV0V2dwSVQtay0wd3FPX3ZqWHpaQ0t0cEd1dWJJb0VaWXpxS2FnZw?oc=5) |
 | 2026-08-05 | Shelfmark raises $3.5M to scale physical AI and hire in Pittsburgh - Technical.ly | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0RmRnJhX2tKTzVpOTl3U2JYT3lUVHRuSER0MDdZdzRsRmtmamR0RU1zcDFfQWxjOE5VUEtDYV83X3BWSGFLMGxCYjVuT0QyREpIOGh4RS1rSG0tai0zaUR6Tk9MQTJaYmxGXzRiUjdpMFcxYnhTQWYzRWprQ0hubDdZNFk1RGFKOTh0UHhUSHYtZw?oc=5) |
 | 2026-08-05 | Embodied-AI data infrastructure startup Kaiwang Data raises more than RMB100 million - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEQ1d1ItMXdNMGFZc01vd3NXU1Q4MENTXzNXRVZoVzlrNENpV1d2MXM5NEstOHBsTkxPdF9IWnNJMWg2blpBa2tQQnJYWUZHQWg0TGZ6Ym5qNzlhX2N4OG02cmtQUV9IWXZYaVVZaktIdk55YXVfOTJKS3hxaE55R3VGMEFxaFVtaHRzYmkyZGtWaVJfYXZVMmpuZXMyazU4SzNNZ0ZkaHBjcjdJVWVKVEF6OW9hcU1i?oc=5) |
-| 2026-08-05 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
+| 2026-08-05 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - foxweather.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
 | 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
 | 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - The Business Journals | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
