@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-07 11:35 UTC
+Generated: 2026-08-07 12:33 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,7 +14,7 @@ Generated: 2026-08-07 11:35 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63354 | 25341.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63355 | 25342.1 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30260 | 12104.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16101 | 6440.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15635 | 6254.1 | [link](https://github.com/ArduPilot/ardupilot) |
@@ -43,6 +43,6 @@ Generated: 2026-08-07 11:35 UTC
 | --- | --- | --- | --- |
 | 2026-08-06 | 36Kr Exclusive: Tsinghua-affiliated Physical AI Infrastructure Startup Secures Tens of Millions of US Dollars in New Financing Round, Global Large-scale Delivery of Its Data Equipment Launches - 36 Kr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02LXEyc0pZcHU3S3ptaVZzM1E3UVFESk8xa2I0bnI0eF9wQWFLOEhnTVJuS2VfV3U4d21zQnNSeTg1X1hDeTdVSXl2NXh5WUpWV2Vj?oc=5) |
 | 2026-08-06 | Vangrid raises $9M seed to build a decentralised spatial intelligence network for the Physical AI era - tech.eu | physical ai startup | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxPamNTaTVxYzNWbDV5QWp5MGFkU21UbDE3Q2xuVG13b2NXQTZJSTlPYnRTcU83VzN6cjlmNDExNTdsMGQ0Q2JRZmlJeURUMzY1WWctQ3dkSHM1YVRWQVBMV250Y1VWTzZuRXdiX3RQcjQzZnQ2NGluTGo1di1yd0JIWFdJOG1ObUxlWERqdjU3aXI1dW85RERuVlIzb3FCbzBTanpkWUNWWndOeXdIMTdCUnhDNTFvUXFJUjd4cE9wdkktS2ptbGlB?oc=5) |
-| 2026-08-06 | Diden Robotics Rides NVIDIA Ecosystem… Accelerating Commercialization of Industrial Physical AI - 벤처스퀘어 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JeU45X1JQY0EtTkpvUVpHZWZCdnlxU1pOZzNFaTlpcDdwRjN6cVdtc0l5Mjk1YUE3ai1BaDBfeHJBZnFyRnJORFFNRDNpUjFGSkJn?oc=5) |
 | 2026-08-06 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
 | 2026-08-06 | Unitree's Shanghai IPO Sets the First Real Valuation in Humanoid Robotics - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0phRVp0ZE9Vc3E1VFdfSGg3LTI2OHBwNGYtejNWdzEzLTBPcVpMVlhYaTAwMkZsS3J1RERQT2FGMlhlTjVBdlRpb1MzNlpEczUzRm1YOVQ3cS1fWFpuQkFyZ3RscWRxSGV0dThVekdpNU5tZjZOUXVIZGFIUWQtTi1kQ3FXQ3psd3hmRGR0X2EtRGM3VXRjVkNzcEd2UXpxMnc?oc=5) |
+| 2026-08-06 | AI robot startup challenging future of warfare - Caliber.Az | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE8yRW4zTzBaX0dCUmc1Qk1xY2N3ZTdxYnJvaHdEaExMTklLU2J5Z2JSaG93dzAxT0JITERoenRQM20tWmtKUGR1YkNCaHJjVU82NXF4SXRTOWV0V2dwSVQtay0wd3FPX3ZqWHpaQ0t0cEd1dWJJb0VaWXpxS2FnZw?oc=5) |
