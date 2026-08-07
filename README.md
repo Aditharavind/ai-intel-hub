@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-07 19:41 UTC
+Last Updated: 2026-08-07 20:25 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -36,6 +36,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-08-07 | Video Friday: Drones Go Heavy in DARPA Lift Challenge | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-heavy-lift-drone) |
+| 2026-08-07 | Avatar Robotics raises seed round to address industrial labor constraints | The Robot Report | [link](https://www.therobotreport.com/avatar-robotics-raises-6-5-m-seed-round-address-industrial-labor-constraints/) |
 | 2026-08-06 | HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics | Robotics Business Review | [link](https://www.therobotreport.com/hii-signs-up-to-900m-agreement-with-path-robotics-graymatter-robotics/) |
 | 2026-08-06 | Report looks at advances in autonomous mobile robots | Robotics Business Review | [link](https://www.therobotreport.com/report-looks-at-advances-in-autonomous-mobile-robots/) |
 | 2026-08-06 | How Robin, the robotic companion, keeps patients calm during hospital visits | Robotics Business Review | [link](https://www.therobotreport.com/how-robin-robotic-companion-keeps-patients-calm-during-hospital-visits/) |
@@ -44,18 +45,17 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-05 | Why perception is the key to scaling industrial autonomy | Robotics Business Review | [link](https://www.therobotreport.com/why-perception-is-the-key-to-scaling-industrial-autonomy/) |
 | 2026-08-05 | University of Florida opens new robotics lab dedicated to industrialized construction | Robotics Business Review | [link](https://www.therobotreport.com/university-of-florida-opens-new-robotics-lab-dedicated-to-industrialized-construction/) |
 | 2026-08-05 | Avnet and Weston Robot partner to launch edge AI inspection platform | Robotics Business Review | [link](https://www.therobotreport.com/avnet-and-weston-robot-partner-to-launch-edge-ai-inspection-platform/) |
-| 2026-08-05 | GAM Enterprises to produce Schaeffler’s PSC gear reducers | Robotics Business Review | [link](https://www.therobotreport.com/gam-enterprises-to-produce-schaefflers-psc-gear-reducers/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-07 | Hacking a $6000 Cotton Candy Machine to Fully Control It | Hackaday | [link](https://hackaday.com/2026/08/07/hacking-a-6000-cotton-candy-machine-to-fully-control-it/) |
 | 2026-08-07 | Chernobyl’s Robots, or the Hackathon From Hell | Hackaday | [link](https://hackaday.com/2026/08/07/chernobyls-robots-or-the-hackathon-from-hell/) |
 | 2026-08-07 | Hackaday Podcast Episode 381: Airless Tires, Full-color Prints, and 28 MW of LEDs | Hackaday | [link](https://hackaday.com/2026/08/07/hackaday-podcast-episode-381-airless-tires-full-color-prints-and-28-mw-of-leds/) |
 | 2026-08-07 | Music is Back on Optical Disk in This Plex Server | Hackaday | [link](https://hackaday.com/2026/08/07/music-is-back-on-optical-disk-in-this-plex-server/) |
 | 2026-08-07 | This Week in Security: Claude Gets Hacking, Hotel WiFi, and NPM Compromised Again | Hackaday | [link](https://hackaday.com/2026/08/07/this-week-in-security-claude-gets-hacking-hotel-wifi-and-npm-compromised-again/) |
 | 2026-08-07 | FlipBuddy is Borg, You Will Be Assimilated | Hackaday | [link](https://hackaday.com/2026/08/07/flipbuddy-is-borg-you-will-be-assimilated/) |
 | 2026-08-07 | Wrist Welcomes Wii Nunchuk As Gloriously Ergonomic Macropad | Hackaday | [link](https://hackaday.com/2026/08/07/wrist-welcomes-wii-nunchuk-as-gloriously-ergonomic-macropad/) |
-| 2026-08-07 | A 3D Printed Cycloidal Gearbox | Hackaday | [link](https://hackaday.com/2026/08/06/a-3d-printed-cycloidal-gearbox/) |
 | 2026-08-07 | GEEKOM IT13 Max mini PC review – Part 1: specifications, unboxing, teardown, and first boot | CNX Software | [link](https://www.cnx-software.com/2026/08/07/geekom-it13-max-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/) |
 | 2026-08-07 | Token Monitor – An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/) |
 | 2026-08-07 | Proxmox VE now officially supports 64-bit Arm (Aarch64) targets | CNX Software | [link](https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/) |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-07 | locht131/gr00t_robotwin_2hand_quat_tune_visual_s35k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_robotwin_2hand_quat_tune_visual_s35k_bs32) |
 | 2026-08-07 | HarrisonPENG/M2W-VLA-RoboTwin | 405 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-08-07 | RobotisSW/Dispose_general_waste_low_table_byGrootModel_80K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Dispose_general_waste_low_table_byGrootModel_80K) |
 | 2026-08-07 | RobotisSW/Dispose_general_waste_lowtable_byGrootModel_60K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Dispose_general_waste_lowtable_byGrootModel_60K) |
@@ -85,8 +86,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-07 | NU-World-Model-Embodied-AI/FlashWAM-RoboTwin | 0 | 0 | [link](https://huggingface.co/NU-World-Model-Embodied-AI/FlashWAM-RoboTwin) |
 | 2026-08-07 | RobotisSW/dispose_general_waste_1_byGrootModel_80000 | 0 | 0 | [link](https://huggingface.co/RobotisSW/dispose_general_waste_1_byGrootModel_80000) |
 | 2026-08-07 | RobotisSW/dispose_general_waste_1_byGrootModel | 0 | 0 | [link](https://huggingface.co/RobotisSW/dispose_general_waste_1_byGrootModel) |
-| 2026-08-07 | sam-guided-vlas/train_1_2__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0) |
-| 2026-08-07 | sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0) |
+| 2026-08-07 | sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -98,7 +98,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | commaai/openpilot | 63358 | Python | 25343.3 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16103 | Python | 6441.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15636 | C++ | 6254.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14477 | C++ | 5790.9 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14476 | C++ | 5790.5 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11310 | Python | 4524.1 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11259 | Rust | 4503.7 | [link](https://github.com/rerun-io/rerun) |
 
@@ -128,7 +128,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-05 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
 | 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
-| 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - The Business Journals | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
+| 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - bizjournals.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

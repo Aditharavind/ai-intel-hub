@@ -1,5 +1,14 @@
 [
   {
+    "model": "locht131/gr00t_robotwin_2hand_quat_tune_visual_s35k_bs32",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/locht131/gr00t_robotwin_2hand_quat_tune_visual_s35k_bs32",
+    "date": "2026-08-07",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "HarrisonPENG/M2W-VLA-RoboTwin",
     "downloads": 405,
     "likes": 0,
@@ -72,6 +81,33 @@
     "score": 0.1
   },
   {
+    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__overlay_a75__sim__agentview_camera__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__agentview_camera__live__pi05__seed_0",
+    "date": "2026-08-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "sam-guided-vlas/train_1_2__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -90,37 +126,10 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-07",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__mask__overlay_a75__sim__agentview_camera__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__agentview_camera__live__pi05__seed_0",
-    "date": "2026-08-07",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "erl-hub/pls-vla-action-head",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/erl-hub/pls-vla-action-head",
-    "date": "2026-08-07",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-07",
     "keyword": "vla",
     "score": 0.1
@@ -211,6 +220,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/ericvandergijp/act_eendje_policy",
+    "date": "2026-08-07",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Bekhzod/TASK_02_pi05_policy_20260721_v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Bekhzod/TASK_02_pi05_policy_20260721_v2",
     "date": "2026-08-07",
     "keyword": "policy",
     "score": 0.1
@@ -324,15 +342,6 @@
     "score": 0.1
   },
   {
-    "model": "locht131/robotwin_adjust_bottle",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/locht131/robotwin_adjust_bottle",
-    "date": "2026-08-06",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "Mohamedd123321/Arabizi_Checkpoints_vlast_d6",
     "downloads": 0,
     "likes": 0,
@@ -355,15 +364,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Schisttherock/so101-manufacturing-act-policy-all-videos",
-    "date": "2026-08-06",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ChristianZ97/satp-policy-v4.27",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
     "date": "2026-08-06",
     "keyword": "policy",
     "score": 0.1
