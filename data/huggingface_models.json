@@ -1,5 +1,23 @@
 [
   {
+    "model": "milab-robot/alm1-0716-amore",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/milab-robot/alm1-0716-amore",
+    "date": "2026-08-07",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Roboterr/pi05-j1hFAkh3wodQ",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Roboterr/pi05-j1hFAkh3wodQ",
+    "date": "2026-08-07",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "NU-World-Model-Embodied-AI/FlashWAM-RoboTwin",
     "downloads": 0,
     "likes": 0,
@@ -43,6 +61,33 @@
     "date": "2026-08-07",
     "keyword": "embodied",
     "score": 0.3
+  },
+  {
+    "model": "EmbodiedCity/Embodied-R",
+    "downloads": 0,
+    "likes": 2,
+    "url": "https://huggingface.co/EmbodiedCity/Embodied-R",
+    "date": "2026-08-07",
+    "keyword": "embodied",
+    "score": 0.5
+  },
+  {
+    "model": "EmbodiedCity/Airscape",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/EmbodiedCity/Airscape",
+    "date": "2026-08-07",
+    "keyword": "embodied",
+    "score": 0.3
+  },
+  {
+    "model": "LCPRZZL/act_policy",
+    "downloads": 17,
+    "likes": 0,
+    "url": "https://huggingface.co/LCPRZZL/act_policy",
+    "date": "2026-08-07",
+    "keyword": "policy",
+    "score": 5.2
   },
   {
     "model": "aakankshpanda/angle_peg_stereo_08_04_policy",
@@ -112,24 +157,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/zaleni/wsa-b-robotwin-abs-scratch-causal-no-g-to-a",
-    "date": "2026-08-06",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Task_Dispose_General_Waste_On_The_Middle_Table_50K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_Dispose_General_Waste_On_The_Middle_Table_50K",
-    "date": "2026-08-06",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Task_Dispose_General_Waste_On_The_Middle_Table_30K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_Dispose_General_Waste_On_The_Middle_Table_30K",
     "date": "2026-08-06",
     "keyword": "robot",
     "score": 0.1
@@ -259,15 +286,6 @@
     "date": "2026-08-06",
     "keyword": "policy",
     "score": 44.5
-  },
-  {
-    "model": "LCPRZZL/act_policy",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/LCPRZZL/act_policy",
-    "date": "2026-08-06",
-    "keyword": "policy",
-    "score": 5.2
   },
   {
     "model": "szaborego/panda_reach_act_policy_4",
@@ -693,15 +711,6 @@
     "score": 117.7
   },
   {
-    "model": "EmbodiedCity/Worldscape-MoE",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/EmbodiedCity/Worldscape-MoE",
-    "date": "2026-07-17",
-    "keyword": "embodied",
-    "score": 0.1
-  },
-  {
     "model": "kouylty/Isaac-Go2-Navigation-Rough-v0",
     "downloads": 0,
     "likes": 0,
@@ -709,15 +718,6 @@
     "date": "2026-07-17",
     "keyword": "navigation",
     "score": 0.1
-  },
-  {
-    "model": "tencent/Hy-Embodied-VLM-1.0",
-    "downloads": 1095,
-    "likes": 23,
-    "url": "https://huggingface.co/tencent/Hy-Embodied-VLM-1.0",
-    "date": "2026-07-15",
-    "keyword": "embodied",
-    "score": 333.2
   },
   {
     "model": "lyhisme/Navigation_Agent",
