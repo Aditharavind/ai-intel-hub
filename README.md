@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-07 06:02 UTC
+Last Updated: 2026-08-07 08:02 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,19 +49,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-07 | Wrist Welcomes Wii Nunchuk As Gloriously Ergonomic Macropad | Hackaday | [link](https://hackaday.com/2026/08/07/wrist-welcomes-wii-nunchuk-as-gloriously-ergonomic-macropad/) |
 | 2026-08-07 | A 3D Printed Cycloidal Gearbox | Hackaday | [link](https://hackaday.com/2026/08/06/a-3d-printed-cycloidal-gearbox/) |
 | 2026-08-07 | NASA’s Just Prolonged Voyager 2’s Science Mission With a Big Bang | Hackaday | [link](https://hackaday.com/2026/08/06/nasas-just-prolonged-voyager-2s-science-mission-with-a-big-bang/) |
+| 2026-08-07 | Token Monitor – An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/) |
 | 2026-08-07 | Proxmox VE now officially supports 64-bit Arm (Aarch64) targets | CNX Software | [link](https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/) |
 | 2026-08-07 | AMD buys Taalas | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/and-buys-taalas-2026-08/) |
 | 2026-08-07 | Lumilens raises $900m | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/lumilens-raises-900m-2026-08/) |
 | 2026-08-07 | Qinetiq teaches cyber security education to 200+ students | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/qinetiq-teaches-cyber-security-education-to-200-students-2026-08/) |
 | 2026-08-07 | 2026 a pause not a peak, says Yole | Electronics Weekly | [link](https://www.electronicsweekly.com/news/2026-a-pause-not-a-peak-says-yole-2026-08/) |
-| 2026-08-07 | Turku  researchers demo solid-state organic laser microcavity fabricated entirely by solution processing. | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/turku-university-researchers-2026-08/) |
-| 2026-08-07 | Prediction Seduction | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/delusions/prediction-2026-08/) |
-| 2026-08-07 | ESP32 DevKit 30-Pin USB-C Case #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/06/esp32-devkit-30-pin-usb-c-case-3dthursday-3dprinting/) |
+| 2026-08-07 | Turku  researchers demo solid-state organic laser microcavity fabricated entirely by solution processing | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/turku-university-researchers-2026-08/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-08-06 | $ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation | [link](https://arxiv.org/pdf/2608.06375v1) |
+| 2026-08-06 | DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation | [link](https://arxiv.org/pdf/2608.06374v1) |
+| 2026-08-06 | A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber | [link](https://arxiv.org/pdf/2608.06354v1) |
+| 2026-08-06 | GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions | [link](https://arxiv.org/pdf/2608.06332v1) |
+| 2026-08-06 | Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors | [link](https://arxiv.org/pdf/2608.06300v1) |
+| 2026-08-06 | RxnCLF: Contrastive Transformation-Aware Reaction Foundation Model for Improved Reactivity Prediction | [link](https://arxiv.org/pdf/2608.06259v1) |
+| 2026-08-06 | MASS: Multiplayer World Models with Authoritative Shared State | [link](https://arxiv.org/pdf/2608.06257v1) |
+| 2026-08-06 | A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance | [link](https://arxiv.org/pdf/2608.06246v1) |
+| 2026-08-06 | From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks | [link](https://arxiv.org/pdf/2608.06227v1) |
+| 2026-08-06 | Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation | [link](https://arxiv.org/pdf/2608.06221v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
@@ -71,53 +82,53 @@ _No items collected yet._
 | 2026-08-07 | NU-World-Model-Embodied-AI/FlashWAM-RoboTwin | 0 | 0 | [link](https://huggingface.co/NU-World-Model-Embodied-AI/FlashWAM-RoboTwin) |
 | 2026-08-07 | RobotisSW/dispose_general_waste_1_byGrootModel_80000 | 0 | 0 | [link](https://huggingface.co/RobotisSW/dispose_general_waste_1_byGrootModel_80000) |
 | 2026-08-07 | RobotisSW/dispose_general_waste_1_byGrootModel | 0 | 0 | [link](https://huggingface.co/RobotisSW/dispose_general_waste_1_byGrootModel) |
+| 2026-08-07 | whosricky/VLANeXt_HL1 | 0 | 0 | [link](https://huggingface.co/whosricky/VLANeXt_HL1) |
 | 2026-08-07 | ISdept/wiltechs-vla-moe-36k | 8 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-moe-36k) |
 | 2026-08-07 | NU-World-Model-Embodied-AI/phyjudge-9B | 20 | 0 | [link](https://huggingface.co/NU-World-Model-Embodied-AI/phyjudge-9B) |
 | 2026-08-07 | NU-World-Model-Embodied-AI/phyworld | 0 | 1 | [link](https://huggingface.co/NU-World-Model-Embodied-AI/phyworld) |
 | 2026-08-07 | EmbodiedCity/Embodied-R | 0 | 2 | [link](https://huggingface.co/EmbodiedCity/Embodied-R) |
-| 2026-08-07 | EmbodiedCity/Airscape | 0 | 1 | [link](https://huggingface.co/EmbodiedCity/Airscape) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 2817 | Python | 1126.9 | [link](https://github.com/NVIDIA/skills) |
+| mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | commaai/openpilot | 63353 | Python | 25341.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15634 | C++ | 6253.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14472 | C++ | 5788.9 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14475 | C++ | 5790.1 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11306 | Python | 4522.5 | [link](https://github.com/kornia/kornia) |
-| isaac-sim/IsaacLab | 7852 | Python | 3140.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4462 | Python | 1784.9 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3869 | Rust | 1547.7 | [link](https://github.com/dora-rs/dora) |
-| RoboTwin-Platform/RoboTwin | 2695 | Python | 1078.1 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
-| Octoday-Hub/Embodied-AI | 2262 |  | 904.9 | [link](https://github.com/Octoday-Hub/Embodied-AI) |
+| isaac-sim/IsaacLab | 7853 | Python | 3141.3 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 4468 | Python | 1787.3 | [link](https://github.com/RLinf/RLinf) |
+| dora-rs/dora | 3870 | Rust | 1548.1 | [link](https://github.com/dora-rs/dora) |
+| RoboTwin-Platform/RoboTwin | 2696 | Python | 1078.5 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzRRUmZZTTlqMHBVNk9ZYTRjUGM0X3N6Q2FhYXVaY1pKbDhwWTA5UjlwX0NicHVkRTJLRFlUUXNFalhwRFVMak1fTTNRUmhoVEF4YThKQUlBSnZsZ1ZwZmNKT3BkNXBrcUNRcXVMRkhBYVowWmFiY1BJNjRLOExaMG82Y2lfaFYxTlBkRzBBcHpQNm5POEUtcG9VVFBQdDRCTVp0ZHhUaW9RYWRPX0Y1OGJ3YzJ0a3lhdHR1TGRKcVVLRmhtTmw2dtIByAFBVV95cUxQOWRxV0dRV2NIWmxBLVFEOGN1el82TWYtcVhhSm5HY18yY0FyTkhkSWhtVGRvY0toN1RJd1ozSFFCdXRFX2VWNDluZWJCYmkwanhKNlhWSHYxRmFCZTJrQ2Ryc0RTWHFvT2Z5V2kzYlNlZzhNOGZBd044MlExMmduZ1Q3NDhDN0JwMXZJQ3AwV2FabDVTdFNRMTBXTS1kcEt4LUdzU1NpSU84eXdDdmR2dlcyeGw0NkUtdGxBb21LRUdDUktkU2UwRg?oc=5) |
+| 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsODYyYWVEVm9Oc2h5NkFSQTNYRWlJeDJkQzJDSlFvNDROYXRCb3BMaXl3cktmLTRNVWwxWkdjR2h4T21TeUF4MVBsN0ZsZFJs?oc=5) |
 | 2026-08-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBrQWhpbzZHRmtfcHNqYWxvZ3htZm10OXFKdW9ZaEZmZDlRMzZaLUpJbkJDSGVWbnlPYWlTcUVjOTQ4YTlMNlBDVVdQb19GU1ZWRXZnYUxSSmlNNUc4Q09tNXRUQUxvOENwT0prd0dOa1Rja0RzX3c?oc=5) |
-| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGNISE45RzhZZ0wySkR0VE5KeG9QbnhYNFRLTWhVSTNrX0FhLWlDX0d4enJpRWVKZmdoYzRyOUZabl9MQTF2ZVNybDdxb2UxYjJnUnRscW12dU13WWNhUmRhaE5vM2k0MnZLMWN1QVNSYlZBa0twTWdlSUpDeHdIRTVLODRBbVFGNUxHbHFxQjBqU2g1cnJMdzVZQWxhVmlfcEJ1ZA?oc=5) |
+| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUk1Hd2d1WFRNOHpKUkJ0aGR4UE1RYnR0cFJZRVhZb0NkNWtUejlGVHpHcUtOVkNQS2d2ZXlCRnJMVmg0QlFfV3R5TGR0NzJCQ0xrbjVGcW91MDdwSEUxZTd0V2RDc29uMjkyYmxIRmtUdl9ja3VUMWZyMU1iUnZFWFZyM1p2ZzlpOGV3aGRfelVabFpjZXNIazYxYzNxWWQxLXNucjUxV29HakHSAbABQVVfeXFMTnJLeHg2MTNEVzRLVV8wYjFCdzl3clhjMjctX28yVU9sSzkyMHdLTDIzX3NVVUFpU3lFX3dVTENPVFViTlBwOUFsMVpqOFBnTHB2MWhwQ1RFejltRk44MmlmMUFIRGkwbFF5azVKYUdENDRjZTJNZmdsUk00NHdJajFiQXFZN0JiMEpyUng5bTh3Vl82a3N0M3FpYk01S1pmVk91OXA3LTlLbjI0dU82TFc?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWRuY0FETUdBUFY5SzQ2RjlWamlLNmZiTEttZnVfTjBrZmRpR3Y4a0dLaUNfRFZQX01RRkNCLVo3VG9ORUk5am02RUtkR19qeGdRY25WMEk0YV9lVllqX29pTzB4dUItakJpYnB5eUEtbjk5Ul9CNzFPS2hIMUhVbnd3?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGprdFZOc2Y3WnVwbmNEMXZ0a1JtejRhUXlXV2JYd1NDSmNGclhMdzZOOTZGaGRxcVl0VDl5NlB6ZlhUeHJwWVNYYVBXWXRqajc2U2VsUU9XWVk4bUNfdVlzd0kyRjVYQ0xIVkFxd01qbkxmQ2owLU1FRWVwTXNxUGhwZ1FlOVE3VHdjbVpuc3paV3ZhWXV0UTY0bHdreFFYeTdUSU42ZnJFRkREc1gzeHhnakM3bFBaLXdBSQ?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0phRVp0ZE9Vc3E1VFdfSGg3LTI2OHBwNGYtejNWdzEzLTBPcVpMVlhYaTAwMkZsS3J1RERQT2FGMlhlTjVBdlRpb1MzNlpEczUzRm1YOVQ3cS1fWFpuQkFyZ3RscWRxSGV0dThVekdpNU5tZjZOUXVIZGFIUWQtTi1kQ3FXQ3psd3hmRGR0X2EtRGM3VXRjVkNzcEd2UXpxMnc?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE9ETElOTVpZaU1GbWJKZEk1aUJYdlAzaVBkcEFIbVpfRFhsVkY1WnZQSU9FYkZ0RHJlRDJlNU4xWXRqRk1iTFRtVDZsNVZDS1BDR1pXWHBGN0ZiRDFMOHlhd2otUFI4OWJNTkc1MnBRTFRTWnRDWUtj?oc=5) |
-| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdm9GTU9HUGg5aUVGUmhRSjV3RmZOZjNFdmlIT1JNU3g5VnhteVRJa2RweFpfZk95YUFjR2oxT2YyRTE1X2UyMnd4MllMQU04MWNZYTlxRXBMRnBZUGxzWFo0U3FXNjVNNG04eWR5Vnh2TGhqMGZTNzJlSXRUUDMxZm9WbEd3dUxxOGNNdklkSE5GSDc0OTgwR1U4YzNfLW1yZko3b0pSMzJKMWFWaXpCc0ZyOU0?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE84YThacGFHbml0eEhpczh1R3hnMldycHNJcUVPMlMxWVBmbXJGbDNZOWZZTWZValpVcThzNGNDRDBkNFNwdVVERGV0ZXRUOENzWVlJ?oc=5) |
-| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdnZVamFOLTE2TkVmWVUyOEY0eDZjcU5zX0dLRlh5R0h5REg0cTN3bGpaVHFpY3JrUDdGMlNzVWJyQV9OSTFyYjVHQVRVUmJZRzNtNnQ0WXdyR3lSaEVqNURONXFWcGNVbzZoaVVPTnpzMUNKZU9FZnJicDdLVmJIeTBVTHYtclR0MFllVkdrWXAzUmZ2ZlZyT0lMMkVDeElXT1c0eTFldVVhUkxLYVFqcEdzTWs5aU9VSU0zaWpJQjdnallMdEloSHhxWVFSellKSEw1eGhHVQ?oc=5) |
+| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdm9GTU9HUGg5aUVGUmhRSjV3RmZOZjNFdmlIT1JNU3g5VnhteVRJa2RweFpfZk95YUFjR2oxT2YyRTE1X2UyMnd4MllMQU04MWNZYTlxRXBMRnBZUGxzWFo0U3FXNjVNNG04eWR5Vnh2TGhqMGZTNzJlSXRUUDMxZm9WbEd3dUxxOGNNdklkSE5GSDc0OTgwR1U4YzNfLW1yZko3b0pSMzJKMWFWaXpCc0ZyOU0?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-06 | Vangrid raises $9M seed to build a decentralised spatial intelligence network for the Physical AI era - Tech.eu | physical ai startup | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxPamNTaTVxYzNWbDV5QWp5MGFkU21UbDE3Q2xuVG13b2NXQTZJSTlPYnRTcU83VzN6cjlmNDExNTdsMGQ0Q2JRZmlJeURUMzY1WWctQ3dkSHM1YVRWQVBMV250Y1VWTzZuRXdiX3RQcjQzZnQ2NGluTGo1di1yd0JIWFdJOG1ObUxlWERqdjU3aXI1dW85RERuVlIzb3FCbzBTanpkWUNWWndOeXdIMTdCUnhDNTFvUXFJUjd4cE9wdkktS2ptbGlB?oc=5) |
 | 2026-08-06 | 36Kr Exclusive: Tsinghua-affiliated Physical AI Infrastructure Startup Secures Tens of Millions of US Dollars in New Financing Round, Global Large-scale Delivery of Its Data Equipment Launches - 36 Kr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02LXEyc0pZcHU3S3ptaVZzM1E3UVFESk8xa2I0bnI0eF9wQWFLOEhnTVJuS2VfV3U4d21zQnNSeTg1X1hDeTdVSXl2NXh5WUpWV2Vj?oc=5) |
+| 2026-08-06 | Diden Robotics Rides NVIDIA Ecosystem… Accelerating Commercialization of Industrial Physical AI - 벤처스퀘어 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JeU45X1JQY0EtTkpvUVpHZWZCdnlxU1pOZzNFaTlpcDdwRjN6cVdtc0l5Mjk1YUE3ai1BaDBfeHJBZnFyRnJORFFNRDNpUjFGSkJn?oc=5) |
 | 2026-08-06 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
 | 2026-08-06 | Unitree's Shanghai IPO Sets the First Real Valuation in Humanoid Robotics - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0phRVp0ZE9Vc3E1VFdfSGg3LTI2OHBwNGYtejNWdzEzLTBPcVpMVlhYaTAwMkZsS3J1RERQT2FGMlhlTjVBdlRpb1MzNlpEczUzRm1YOVQ3cS1fWFpuQkFyZ3RscWRxSGV0dThVekdpNU5tZjZOUXVIZGFIUWQtTi1kQ3FXQ3psd3hmRGR0X2EtRGM3VXRjVkNzcEd2UXpxMnc?oc=5) |
 | 2026-08-06 | AI robot startup challenging future of warfare - Caliber.Az | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE8yRW4zTzBaX0dCUmc1Qk1xY2N3ZTdxYnJvaHdEaExMTklLU2J5Z2JSaG93dzAxT0JITERoenRQM20tWmtKUGR1YkNCaHJjVU82NXF4SXRTOWV0V2dwSVQtay0wd3FPX3ZqWHpaQ0t0cEd1dWJJb0VaWXpxS2FnZw?oc=5) |
 | 2026-08-05 | Shelfmark raises $3.5M to scale physical AI and hire in Pittsburgh - Technical.ly | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0RmRnJhX2tKTzVpOTl3U2JYT3lUVHRuSER0MDdZdzRsRmtmamR0RU1zcDFfQWxjOE5VUEtDYV83X3BWSGFLMGxCYjVuT0QyREpIOGh4RS1rSG0tai0zaUR6Tk9MQTJaYmxGXzRiUjdpMFcxYnhTQWYzRWprQ0hubDdZNFk1RGFKOTh0UHhUSHYtZw?oc=5) |
 | 2026-08-05 | Embodied-AI data infrastructure startup Kaiwang Data raises more than RMB100 million - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEQ1d1ItMXdNMGFZc01vd3NXU1Q4MENTXzNXRVZoVzlrNENpV1d2MXM5NEstOHBsTkxPdF9IWnNJMWg2blpBa2tQQnJYWUZHQWg0TGZ6Ym5qNzlhX2N4OG02cmtQUV9IWXZYaVVZaktIdk55YXVfOTJKS3hxaE55R3VGMEFxaFVtaHRzYmkyZGtWaVJfYXZVMmpuZXMyazU4SzNNZ0ZkaHBjcjdJVWVKVEF6OW9hcU1i?oc=5) |
-| 2026-08-05 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
+| 2026-08-05 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - foxweather.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
-| 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
