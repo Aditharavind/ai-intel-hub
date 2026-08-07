@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-07 20:25 UTC
+Last Updated: 2026-08-07 21:25 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -36,7 +36,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-08-07 | Video Friday: Drones Go Heavy in DARPA Lift Challenge | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-heavy-lift-drone) |
-| 2026-08-07 | Avatar Robotics raises seed round to address industrial labor constraints | The Robot Report | [link](https://www.therobotreport.com/avatar-robotics-raises-6-5-m-seed-round-address-industrial-labor-constraints/) |
+| 2026-08-07 | Avatar Robotics raises seed round to address industrial labor constraints | Robotics Business Review | [link](https://www.therobotreport.com/avatar-robotics-raises-6-5-m-seed-round-address-industrial-labor-constraints/) |
 | 2026-08-06 | HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics | Robotics Business Review | [link](https://www.therobotreport.com/hii-signs-up-to-900m-agreement-with-path-robotics-graymatter-robotics/) |
 | 2026-08-06 | Report looks at advances in autonomous mobile robots | Robotics Business Review | [link](https://www.therobotreport.com/report-looks-at-advances-in-autonomous-mobile-robots/) |
 | 2026-08-06 | How Robin, the robotic companion, keeps patients calm during hospital visits | Robotics Business Review | [link](https://www.therobotreport.com/how-robin-robotic-companion-keeps-patients-calm-during-hospital-visits/) |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-07 | OpenRAL/rskill-smolvla-aloha_agilex-robotwin-bf16 | 0 | 0 | [link](https://huggingface.co/OpenRAL/rskill-smolvla-aloha_agilex-robotwin-bf16) |
 | 2026-08-07 | locht131/gr00t_robotwin_2hand_quat_tune_visual_s35k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_robotwin_2hand_quat_tune_visual_s35k_bs32) |
 | 2026-08-07 | HarrisonPENG/M2W-VLA-RoboTwin | 405 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-08-07 | RobotisSW/Dispose_general_waste_low_table_byGrootModel_80K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Dispose_general_waste_low_table_byGrootModel_80K) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-07 | NU-World-Model-Embodied-AI/FlashWAM-RoboTwin | 0 | 0 | [link](https://huggingface.co/NU-World-Model-Embodied-AI/FlashWAM-RoboTwin) |
 | 2026-08-07 | RobotisSW/dispose_general_waste_1_byGrootModel_80000 | 0 | 0 | [link](https://huggingface.co/RobotisSW/dispose_general_waste_1_byGrootModel_80000) |
 | 2026-08-07 | RobotisSW/dispose_general_waste_1_byGrootModel | 0 | 0 | [link](https://huggingface.co/RobotisSW/dispose_general_waste_1_byGrootModel) |
-| 2026-08-07 | sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -95,18 +95,19 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1442 | Rust | 576.9 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 468 | Shell | 187.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63358 | Python | 25343.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63357 | Python | 25342.9 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16103 | Python | 6441.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15636 | C++ | 6254.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14476 | C++ | 5790.5 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13040 | JavaScript | 5216.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11310 | Python | 4524.1 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11259 | Rust | 4503.7 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzRRUmZZTTlqMHBVNk9ZYTRjUGM0X3N6Q2FhYXVaY1pKbDhwWTA5UjlwX0NicHVkRTJLRFlUUXNFalhwRFVMak1fTTNRUmhoVEF4YThKQUlBSnZsZ1ZwZmNKT3BkNXBrcUNRcXVMRkhBYVowWmFiY1BJNjRLOExaMG82Y2lfaFYxTlBkRzBBcHpQNm5POEUtcG9VVFBQdDRCTVp0ZHhUaW9RYWRPX0Y1OGJ3YzJ0a3lhdHR1TGRKcVVLRmhtTmw2dtIByAFBVV95cUxQOWRxV0dRV2NIWmxBLVFEOGN1el82TWYtcVhhSm5HY18yY0FyTkhkSWhtVGRvY0toN1RJd1ozSFFCdXRFX2VWNDluZWJCYmkwanhKNlhWSHYxRmFCZTJrQ2Ryc0RTWHFvT2Z5V2kzYlNlZzhNOGZBd044MlExMmduZ1Q3NDhDN0JwMXZJQ3AwV2FabDVTdFNRMTBXTS1kcEt4LUdzU1NpSU84eXdDdmR2dlcyeGw0NkUtdGxBb21LRUdDUktkU2UwRg?oc=5) |
 | 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaHM4TjBHTURCS2JaWjVyWVN5SDhCbTBNcnZveVg3SjRKS282MU1YbXNNN0FKVF9vQ2JUX19RYnZUSEhqS2Fza1hmMnZYZDByMGZjVk5KdEhoa25sZEJIZHIzT3VMeEV3d1RUNk9Fa01PM25QREJUd21NWnFCdlF2U1FCVGlEaVhiUGtWbktCZWJ6N0JqM1hwMlJFRFNRU0xMRW1QVmVDcHctSUVmNkhxMTZ6Q0ZvQ2xuU1QzckJFSGRUOEFfR0NRRVc1SW1UdUpJTWtabU52aVpQb1E?oc=5) |
+| 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWUlEVmZNRmc3WG0tbVFTbzY5OEZsYmFRcHdyRFpXcTBnU3BOWTJwRkl5XzJCWWgxUm5NRzUwWFV3aEdVRE42cWFiZUpfdEFfWEdDUnN1WVh3X0x6VXhQUFZKSzBaZkE0X0VhbjdzYVZrb1d5am9WSi10NjFxT0diMGVjREpaanJFeUc2QVV2SXA1SUdXX1ZOX2plcURoa0ZYYzlOaDl4dEpfbFBiTnhvYmYybkJ6T00wSWl0Z1ZNc0I1d0I0bUpLZ2hXNkhCUnNQeTlIMWppNNIB3AFBVV95cUxNaHZyOTZobVZiXzY3U290ZFRqU2s4RXZHNTNwZmpVZUt5emNobTBzNm5wZzE5dXZqOUdiNU1NWEtqNGszbUNuMUhoelFTZFdIVFd4bVF3WUxJNjQtT2R5V05MbElSbTJ4Qjd0NU41WW5fLXlUMVNKaklRN0Z6MTI3T1hnS3RvbndrNi1fOEd1WnM3Ym90X0VZN2NRVkNfMUxZRlRLZkRSR3gxZ2tVdGdzNFg2SW5sNTdkWi13eVJzWDlZTl9PaTlncG9waEZxMHFSb3VXRGRMUkhfWVZv?oc=5) |
 | 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUU1palNvcXBVNGhleFR2ampPYmJ3R1g2UmNSNUxUd0c1MTdETkwzemtubWRRazFaWWxfY3NKQ1lUTXFnbUhTQlgyWlNjQkZBM0J3QkFtRHYzWmlEZ19MVzNlVWZNd2JVb2ZTVklFQ0c0bDlJclNZcWFjT0prVVR2c1JHcUtHUV95YVBWYlJtZmw1ZVlLRjhZdXFKbHk3aTZFS3hXOWNJMTZaenJoSklxSmtHVlpocE9xY0c5RjdwVGJXdjkyOUNCUGFZX2w4dlU2Q3o3XzdvbWYybXZz?oc=5) |
 | 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DMlgzREd0dmtYWV9xSWoyZmtuc1NVZFlKdEZFelctRDBsMmhjWHlqNGdaUk9iQnQzbG1VbTFzbkF6TWxWOFBpSHpNTXEyejdsSXhDeA?oc=5) |
 | 2026-08-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBrQWhpbzZHRmtfcHNqYWxvZ3htZm10OXFKdW9ZaEZmZDlRMzZaLUpJbkJDSGVWbnlPYWlTcUVjOTQ4YTlMNlBDVVdQb19GU1ZWRXZnYUxSSmlNNUc4Q09tNXRUQUxvOENwT0prd0dOa1Rja0RzX3c?oc=5) |
@@ -114,7 +115,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGprdFZOc2Y3WnVwbmNEMXZ0a1JtejRhUXlXV2JYd1NDSmNGclhMdzZOOTZGaGRxcVl0VDl5NlB6ZlhUeHJwWVNYYVBXWXRqajc2U2VsUU9XWVk4bUNfdVlzd0kyRjVYQ0xIVkFxd01qbkxmQ2owLU1FRWVwTXNxUGhwZ1FlOVE3VHdjbVpuc3paV3ZhWXV0UTY0bHdreFFYeTdUSU42ZnJFRkREc1gzeHhnakM3bFBaLXdBSQ?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWRuY0FETUdBUFY5SzQ2RjlWamlLNmZiTEttZnVfTjBrZmRpR3Y4a0dLaUNfRFZQX01RRkNCLVo3VG9ORUk5am02RUtkR19qeGdRY25WMEk0YV9lVllqX29pTzB4dUItakJpYnB5eUEtbjk5Ul9CNzFPS2hIMUhVbnd3?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0phRVp0ZE9Vc3E1VFdfSGg3LTI2OHBwNGYtejNWdzEzLTBPcVpMVlhYaTAwMkZsS3J1RERQT2FGMlhlTjVBdlRpb1MzNlpEczUzRm1YOVQ3cS1fWFpuQkFyZ3RscWRxSGV0dThVekdpNU5tZjZOUXVIZGFIUWQtTi1kQ3FXQ3psd3hmRGR0X2EtRGM3VXRjVkNzcEd2UXpxMnc?oc=5) |
-| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE9ETElOTVpZaU1GbWJKZEk1aUJYdlAzaVBkcEFIbVpfRFhsVkY1WnZQSU9FYkZ0RHJlRDJlNU4xWXRqRk1iTFRtVDZsNVZDS1BDR1pXWHBGN0ZiRDFMOHlhd2otUFI4OWJNTkc1MnBRTFRTWnRDWUtj?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -128,13 +128,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-05 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
 | 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
-| 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - bizjournals.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
+| 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - The Business Journals | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-07 | Fleet Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696722006) |
 | 2026-08-07 | Principal Robotics Functional Safety Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6138236004) |
+| 2026-08-07 | Senior Technical Recruiter | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6139069004) |
 | 2026-08-06 | Mechanical Engineer, Softgoods/Plastics | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4596421006) |
 | 2026-08-06 | Staff Robotics Software Engineer, Teleoperations Architecture | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5972788004) |
 | 2026-08-05 | Humanoid Environment Staging Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4677955006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-05 | Logistics & Dispatch Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4702689006) |
 | 2026-08-05 | Shift Coordinator, Data Creators (SP)  | Figure AI | São Paulo, Brazil | [link](https://job-boards.greenhouse.io/figureai/jobs/4701747006) |
 | 2026-08-04 | CNC Machinist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4440430006) |
-| 2026-08-04 | Fabricator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4439202006) |
 
 ## Automation
 
