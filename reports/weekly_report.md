@@ -1,24 +1,18 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-07 04:15 UTC
+Generated: 2026-08-07 06:02 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-08-06 | $ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation | [link](https://arxiv.org/pdf/2608.06375v1) |
-| 2026-08-06 | DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation | [link](https://arxiv.org/pdf/2608.06374v1) |
-| 2026-08-06 | A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber | [link](https://arxiv.org/pdf/2608.06354v1) |
-| 2026-08-06 | GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions | [link](https://arxiv.org/pdf/2608.06332v1) |
-| 2026-08-06 | Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors | [link](https://arxiv.org/pdf/2608.06300v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63352 | 25340.9 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30258 | 12103.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| commaai/openpilot | 63353 | 25341.3 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30259 | 12103.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16099 | 6439.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15632 | 6252.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| TianxingChen/Embodied-AI-Guide | 15295 | 6118.1 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
+| ArduPilot/ardupilot | 15634 | 6253.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| TianxingChen/Embodied-AI-Guide | 15297 | 6118.9 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -32,11 +26,11 @@ Generated: 2026-08-07 04:15 UTC
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-08-07 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzRRUmZZTTlqMHBVNk9ZYTRjUGM0X3N6Q2FhYXVaY1pKbDhwWTA5UjlwX0NicHVkRTJLRFlUUXNFalhwRFVMak1fTTNRUmhoVEF4YThKQUlBSnZsZ1ZwZmNKT3BkNXBrcUNRcXVMRkhBYVowWmFiY1BJNjRLOExaMG82Y2lfaFYxTlBkRzBBcHpQNm5POEUtcG9VVFBQdDRCTVp0ZHhUaW9RYWRPX0Y1OGJ3YzJ0a3lhdHR1TGRKcVVLRmhtTmw2dtIByAFBVV95cUxQOWRxV0dRV2NIWmxBLVFEOGN1el82TWYtcVhhSm5HY18yY0FyTkhkSWhtVGRvY0toN1RJd1ozSFFCdXRFX2VWNDluZWJCYmkwanhKNlhWSHYxRmFCZTJrQ2Ryc0RTWHFvT2Z5V2kzYlNlZzhNOGZBd044MlExMmduZ1Q3NDhDN0JwMXZJQ3AwV2FabDVTdFNRMTBXTS1kcEt4LUdzU1NpSU84eXdDdmR2dlcyeGw0NkUtdGxBb21LRUdDUktkU2UwRg?oc=5) |
 | 2026-08-06 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBrQWhpbzZHRmtfcHNqYWxvZ3htZm10OXFKdW9ZaEZmZDlRMzZaLUpJbkJDSGVWbnlPYWlTcUVjOTQ4YTlMNlBDVVdQb19GU1ZWRXZnYUxSSmlNNUc4Q09tNXRUQUxvOENwT0prd0dOa1Rja0RzX3c?oc=5) |
 | 2026-08-06 | Unitree |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGNISE45RzhZZ0wySkR0VE5KeG9QbnhYNFRLTWhVSTNrX0FhLWlDX0d4enJpRWVKZmdoYzRyOUZabl9MQTF2ZVNybDdxb2UxYjJnUnRscW12dU13WWNhUmRhaE5vM2k0MnZLMWN1QVNSYlZBa0twTWdlSUpDeHdIRTVLODRBbVFGNUxHbHFxQjBqU2g1cnJMdzVZQWxhVmlfcEJ1ZA?oc=5) |
 | 2026-08-06 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWRuY0FETUdBUFY5SzQ2RjlWamlLNmZiTEttZnVfTjBrZmRpR3Y4a0dLaUNfRFZQX01RRkNCLVo3VG9ORUk5am02RUtkR19qeGdRY25WMEk0YV9lVllqX29pTzB4dUItakJpYnB5eUEtbjk5Ul9CNzFPS2hIMUhVbnd3?oc=5) |
 | 2026-08-06 | Unitree |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGprdFZOc2Y3WnVwbmNEMXZ0a1JtejRhUXlXV2JYd1NDSmNGclhMdzZOOTZGaGRxcVl0VDl5NlB6ZlhUeHJwWVNYYVBXWXRqajc2U2VsUU9XWVk4bUNfdVlzd0kyRjVYQ0xIVkFxd01qbkxmQ2owLU1FRWVwTXNxUGhwZ1FlOVE3VHdjbVpuc3paV3ZhWXV0UTY0bHdreFFYeTdUSU42ZnJFRkREc1gzeHhnakM3bFBaLXdBSQ?oc=5) |
-| 2026-08-06 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0phRVp0ZE9Vc3E1VFdfSGg3LTI2OHBwNGYtejNWdzEzLTBPcVpMVlhYaTAwMkZsS3J1RERQT2FGMlhlTjVBdlRpb1MzNlpEczUzRm1YOVQ3cS1fWFpuQkFyZ3RscWRxSGV0dThVekdpNU5tZjZOUXVIZGFIUWQtTi1kQ3FXQ3psd3hmRGR0X2EtRGM3VXRjVkNzcEd2UXpxMnc?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
