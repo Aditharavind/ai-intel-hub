@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-06 22:38 UTC
+Last Updated: 2026-08-07 01:39 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,72 +49,72 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-07 | Prediction Seduction | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/delusions/prediction-2026-08/) |
+| 2026-08-07 | ESP32 DevKit 30-Pin USB-C Case #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/06/esp32-devkit-30-pin-usb-c-case-3dthursday-3dprinting/) |
+| 2026-08-06 | Rubidium Frequency Standard Explained | Hackaday | [link](https://hackaday.com/2026/08/06/rubidium-frequency-standard-explained/) |
 | 2026-08-06 | Phantomdrive Keeps Your Secrets Out of Sight | Hackaday | [link](https://hackaday.com/2026/08/06/phantomdrive-keeps-your-secrets-out-of-sight/) |
 | 2026-08-06 | CNC’d, CNC-inspired Adjustable Wrench Won’t Round Your Bolts | Hackaday | [link](https://hackaday.com/2026/08/06/cncd-cnc-inspired-adjustable-wrench-wont-round-your-bolts/) |
 | 2026-08-06 | Calculus-Free PID (Almost) in a Spreadsheet | Hackaday | [link](https://hackaday.com/2026/08/06/calculus-free-pid-almost-in-a-spreadsheet/) |
 | 2026-08-06 | Going Full Fruity with Apple’s 1999 High-End Power Mac G3 | Hackaday | [link](https://hackaday.com/2026/08/06/going-full-fruity-with-apples-1999-high-end-power-mac-g3/) |
 | 2026-08-06 | FitzRoy’s Glass: Victorian Weather Marvel or Glorified Thermometer? | Hackaday | [link](https://hackaday.com/2026/08/06/fitzroys-glass-victorian-weather-marvel-or-glorified-thermometer/) |
 | 2026-08-06 | Amiga and Commodore, Back Together (Sort Of) | Hackaday | [link](https://hackaday.com/2026/08/06/amiga-and-commodore-back-together-sort-of/) |
-| 2026-08-06 | Only the Hottest Tunes Play on This Fire Organ | Hackaday | [link](https://hackaday.com/2026/08/06/only-the-hottest-tunes-play-on-this-fire-organ/) |
 | 2026-08-06 | PICOTTY project enables multi-target serial remote management through Raspberry Pi Pico boards and Pi Zero 2 W SBC | CNX Software | [link](https://www.cnx-software.com/2026/08/06/picotty-project-enables-multi-target-serial-remote-management-through-raspberry-pi-pico-boards-and-pi-zero-2-w-sbc/) |
-| 2026-08-06 | Espressif Systems releases ESP RainMaker Neo open-source device-to-cloud-to-phone IoT platform | CNX Software | [link](https://www.cnx-software.com/2026/08/06/espressif-systems-releases-esp-rainmaker-neo-open-source-device-to-cloud-to-phone-iot-platform/) |
-| 2026-08-06 | Antmicro releases open-source hardware Thunderbolt to dual 10GbE adapter | CNX Software | [link](https://www.cnx-software.com/2026/08/06/antmicro-releases-open-source-hardware-thunderbolt-to-dual-10gbe-adapter/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-08-05 | AI-based single-shot structured-light depth reconstruction for real-time laparoscopic surgical guidance | [link](https://arxiv.org/pdf/2608.05109v1) |
-| 2026-08-05 | Learning When to Stop: Prefix-Optimal Dynamic Diffusion Policies for Continuous Control | [link](https://arxiv.org/pdf/2608.05084v1) |
-| 2026-08-05 | SpikingNav: Robust Embodied Navigation with Spiking Neural Policies | [link](https://arxiv.org/pdf/2608.05078v1) |
-| 2026-08-05 | MultiPathFormer: Towards a Foundation Model for Multipath Wireless Propagation | [link](https://arxiv.org/pdf/2608.05076v1) |
-| 2026-08-05 | Bag-of-Visual-Words for Spatial Mapping of Lung Adenocarcinoma Growth Patterns | [link](https://arxiv.org/pdf/2608.05074v1) |
-| 2026-08-05 | HelloWorld: Enabling Socially Interactive Characters in Video World Models | [link](https://arxiv.org/pdf/2608.05070v1) |
-| 2026-08-05 | MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres | [link](https://arxiv.org/pdf/2608.05054v1) |
-| 2026-08-05 | Exact Model-Free Policy Iteration for Co-safe LTL Planning | [link](https://arxiv.org/pdf/2608.05047v1) |
-| 2026-08-05 | BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation | [link](https://arxiv.org/pdf/2608.05042v1) |
-| 2026-08-05 | When Do PEFT Adaptations Leak Structure? Measuring Black-Box Structural Bounds in Public-Base Model Services | [link](https://arxiv.org/pdf/2608.05036v1) |
+| 2026-08-06 | RxnCLF: Contrastive Transformation-Aware Reaction Foundation Model for Improved Reactivity Prediction | [link](https://arxiv.org/pdf/2608.06259v1) |
+| 2026-08-06 | MASS: Multiplayer World Models with Authoritative Shared State | [link](https://arxiv.org/pdf/2608.06257v1) |
+| 2026-08-06 | A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance | [link](https://arxiv.org/pdf/2608.06246v1) |
+| 2026-08-06 | From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks | [link](https://arxiv.org/pdf/2608.06227v1) |
+| 2026-08-06 | Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation | [link](https://arxiv.org/pdf/2608.06221v1) |
+| 2026-08-06 | Design and Evaluation of a Touchscreen-Based Teleoperation Interface for Robotic Manipulators | [link](https://arxiv.org/pdf/2608.06219v1) |
+| 2026-08-06 | VIDP: Variable Impedance Diffusion Policy for Compliant Robot Manipulation from Diverse Demonstrations | [link](https://arxiv.org/pdf/2608.06210v1) |
+| 2026-08-06 | ErgoSurf: Ergodic Control for the Coverage of Unknown Surfaces | [link](https://arxiv.org/pdf/2608.06208v1) |
+| 2026-08-06 | EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning | [link](https://arxiv.org/pdf/2608.06197v1) |
+| 2026-08-06 | Prior-SG: Task and Prior Driven Region Segmentation for Scene Graphs in Arbitrarily-Structured Environments | [link](https://arxiv.org/pdf/2608.06170v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-07 | NU-World-Model-Embodied-AI/FlashWAM-RoboTwin | 0 | 0 | [link](https://huggingface.co/NU-World-Model-Embodied-AI/FlashWAM-RoboTwin) |
+| 2026-08-07 | RobotisSW/dispose_general_waste_1_byGrootModel_80000 | 0 | 0 | [link](https://huggingface.co/RobotisSW/dispose_general_waste_1_byGrootModel_80000) |
+| 2026-08-07 | RobotisSW/dispose_general_waste_1_byGrootModel | 0 | 0 | [link](https://huggingface.co/RobotisSW/dispose_general_waste_1_byGrootModel) |
+| 2026-08-07 | NU-World-Model-Embodied-AI/phyjudge-9B | 20 | 0 | [link](https://huggingface.co/NU-World-Model-Embodied-AI/phyjudge-9B) |
+| 2026-08-07 | NU-World-Model-Embodied-AI/phyworld | 0 | 1 | [link](https://huggingface.co/NU-World-Model-Embodied-AI/phyworld) |
+| 2026-08-07 | aakankshpanda/angle_peg_stereo_08_04_policy | 0 | 0 | [link](https://huggingface.co/aakankshpanda/angle_peg_stereo_08_04_policy) |
 | 2026-08-06 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-08-06 | HarrisonPENG/M2W-VLA-RoboTwin | 400 | 0 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | 2026-08-06 | NCDTech/real-robot-driving-mlp-numpy | 0 | 0 | [link](https://huggingface.co/NCDTech/real-robot-driving-mlp-numpy) |
 | 2026-08-06 | milab-robot/training-sample | 0 | 0 | [link](https://huggingface.co/milab-robot/training-sample) |
-| 2026-08-06 | locht131/robotwin_adjust_bottle | 0 | 0 | [link](https://huggingface.co/locht131/robotwin_adjust_bottle) |
-| 2026-08-06 | aria220/Xiaomi-Robotics-1-RoboCasa | 0 | 0 | [link](https://huggingface.co/aria220/Xiaomi-Robotics-1-RoboCasa) |
-| 2026-08-06 | zaleni/wsa-b-robotwin-abs-scratch-causal-no-g-to-a | 0 | 0 | [link](https://huggingface.co/zaleni/wsa-b-robotwin-abs-scratch-causal-no-g-to-a) |
-| 2026-08-06 | RobotisSW/Task_Dispose_General_Waste_On_The_Middle_Table_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_General_Waste_On_The_Middle_Table_50K) |
-| 2026-08-06 | RobotisSW/Task_Dispose_General_Waste_On_The_Middle_Table_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_General_Waste_On_The_Middle_Table_30K) |
-| 2026-08-06 | RobotisSW/Task_Dispose_General_Waste_On_The_Middle_Table_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Dispose_General_Waste_On_The_Middle_Table_10K) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2810 | Python | 1124.1 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2814 | Python | 1125.7 | [link](https://github.com/NVIDIA/skills) |
+| commaai/openpilot | 63351 | Python | 25340.5 | [link](https://github.com/commaai/openpilot) |
+| google-deepmind/mujoco | 14470 | C++ | 5788.1 | [link](https://github.com/google-deepmind/mujoco) |
+| kornia/kornia | 11305 | Python | 4522.1 | [link](https://github.com/kornia/kornia) |
+| dora-rs/dora | 3867 | Rust | 1546.9 | [link](https://github.com/dora-rs/dora) |
+| sou350121/VLA-Handbook | 478 | HTML | 191.3 | [link](https://github.com/sou350121/VLA-Handbook) |
+| PathOn-AI/pathon_opensource | 127 | Python | 50.9 | [link](https://github.com/PathOn-AI/pathon_opensource) |
 | copper-project/copper-rs | 1442 | Rust | 576.9 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 468 | Shell | 187.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63347 | Python | 25338.9 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 16099 | Python | 6439.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15631 | C++ | 6252.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14470 | C++ | 5788.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 12970 | JavaScript | 5188.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| kornia/kornia | 11305 | Python | 4522.1 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-08-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBrQWhpbzZHRmtfcHNqYWxvZ3htZm10OXFKdW9ZaEZmZDlRMzZaLUpJbkJDSGVWbnlPYWlTcUVjOTQ4YTlMNlBDVVdQb19GU1ZWRXZnYUxSSmlNNUc4Q09tNXRUQUxvOENwT0prd0dOa1Rja0RzX3c?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGNISE45RzhZZ0wySkR0VE5KeG9QbnhYNFRLTWhVSTNrX0FhLWlDX0d4enJpRWVKZmdoYzRyOUZabl9MQTF2ZVNybDdxb2UxYjJnUnRscW12dU13WWNhUmRhaE5vM2k0MnZLMWN1QVNSYlZBa0twTWdlSUpDeHdIRTVLODRBbVFGNUxHbHFxQjBqU2g1cnJMdzVZQWxhVmlfcEJ1ZA?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWRuY0FETUdBUFY5SzQ2RjlWamlLNmZiTEttZnVfTjBrZmRpR3Y4a0dLaUNfRFZQX01RRkNCLVo3VG9ORUk5am02RUtkR19qeGdRY25WMEk0YV9lVllqX29pTzB4dUItakJpYnB5eUEtbjk5Ul9CNzFPS2hIMUhVbnd3?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGprdFZOc2Y3WnVwbmNEMXZ0a1JtejRhUXlXV2JYd1NDSmNGclhMdzZOOTZGaGRxcVl0VDl5NlB6ZlhUeHJwWVNYYVBXWXRqajc2U2VsUU9XWVk4bUNfdVlzd0kyRjVYQ0xIVkFxd01qbkxmQ2owLU1FRWVwTXNxUGhwZ1FlOVE3VHdjbVpuc3paV3ZhWXV0UTY0bHdreFFYeTdUSU42ZnJFRkREc1gzeHhnakM3bFBaLXdBSQ?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE9ETElOTVpZaU1GbWJKZEk1aUJYdlAzaVBkcEFIbVpfRFhsVkY1WnZQSU9FYkZ0RHJlRDJlNU4xWXRqRk1iTFRtVDZsNVZDS1BDR1pXWHBGN0ZiRDFMOHlhd2otUFI4OWJNTkc1MnBRTFRTWnRDWUtj?oc=5) |
-| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxOYWE4QktnaXVjdmtKdmJrVEhVVmlaLWNHUTJYUWJicjNtcUppQ0ZjTjc0WU45eElibVEzY3pZNFl1NEhvVjF6eXpfaGxuYlN2UFQzWU1CY3MzRThVZ0hFckRjOWJGbHRFTHhVNFV6YUZScTdCaXN2Qm13VmxlV2EybGEzc3BsUkg5R0dSb2MyUGZfbEdUNjVGdWFpeXhwWkd5aUpMQXRQT2djT3BpdU5ER3MydjhBVEpLaUI1OEpmVQ?oc=5) |
+| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdm9GTU9HUGg5aUVGUmhRSjV3RmZOZjNFdmlIT1JNU3g5VnhteVRJa2RweFpfZk95YUFjR2oxT2YyRTE1X2UyMnd4MllMQU04MWNZYTlxRXBMRnBZUGxzWFo0U3FXNjVNNG04eWR5Vnh2TGhqMGZTNzJlSXRUUDMxZm9WbEd3dUxxOGNNdklkSE5GSDc0OTgwR1U4YzNfLW1yZko3b0pSMzJKMWFWaXpCc0ZyOU0?oc=5) |
+| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE84YThacGFHbml0eEhpczh1R3hnMldycHNJcUVPMlMxWVBmbXJGbDNZOWZZTWZValpVcThzNGNDRDBkNFNwdVVERGV0ZXRUOENzWVlJ?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdnZVamFOLTE2TkVmWVUyOEY0eDZjcU5zX0dLRlh5R0h5REg0cTN3bGpaVHFpY3JrUDdGMlNzVWJyQV9OSTFyYjVHQVRVUmJZRzNtNnQ0WXdyR3lSaEVqNURONXFWcGNVbzZoaVVPTnpzMUNKZU9FZnJicDdLVmJIeTBVTHYtclR0MFllVkdrWXAzUmZ2ZlZyT0lMMkVDeElXT1c0eTFldVVhUkxLYVFqcEdzTWs5aU9VSU0zaWpJQjdnallMdEloSHhxWVFSellKSEw1eGhHVQ?oc=5) |
-| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BbUNMUDlvLU5RTUFqZ2JGa0NLc1BWYTUwa0tKaUs5ZW16dV9CU2dqMnN5RGFtMkZZNEsyUUlmYjIza1NNOV9rVUFOUnk3SFZDNGFLN2Fna0VJRU41WEtiQmcxNW1iZw?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxPRDV4dWQ4bDRPU2tlU3lJdDR0Si1neEFoN3hTM1hUdFR1QWRVVFpieGpLUGRRdldMZ1BVRVJVRDhxWWwtUWRzcFo2WUI4eDBiUzhjb0JyYWlQeVliSDBGeTdNdWVISl9VM0NITFNDSGtRSVJ5a3B3WXJpLU9va1Qzag?oc=5) |
-| 2026-08-05 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTE50TTk2WDl2Zy00emJXTmRNN0xoWjNGaWxnaWQwRDJLamRNMVVTZ2hrblBJcjhyWmxrZXdKOG1RM1N0T0hvYnpKM0dkS0FrVEIwQ25nMGt6YzJmOWZrLUNPM2pn?oc=5) |
-| 2026-08-04 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiZkFVX3lxTE44dVhWQmM1ZlZ1akcxRURzcDFGOGRXUGctZHY3NHdZTHlrRDBNUzdXZEUya3JKSTdac3dsSlhmQzBUeUx2Nk9ZTHJFSEZhTnBBZ0xzakVZOHVMRWJTd2c4Mm9ZODVLZw?oc=5) |
+| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BbUNMUDlvLU5RTUFqZ2JGa0NLc1BWYTUwa0tKaUs5ZW16dV9CU2dqMnN5RGFtMkZZNEsyUUlmYjIza1NNOV9rVUFOUnk3SFZDNGFLN2Fna0VJRU41WEtiQmcxNW1iZw?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -133,6 +133,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-06 | Mechanical Engineer, Softgoods/Plastics | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4596421006) |
 | 2026-08-06 | Staff Robotics Software Engineer, Teleoperations Architecture | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5972788004) |
 | 2026-08-05 | Humanoid Environment Staging Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4677955006) |
 | 2026-08-05 | IT Coordinator (CDMX) | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4702863006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-04 | Fabricator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4439202006) |
 | 2026-08-04 | Facilities Coordinator (CDMX) | Figure AI | Mexico City, MX | [link](https://job-boards.greenhouse.io/figureai/jobs/4702553006) |
 | 2026-08-04 | Facilities Coordinator (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702533006) |
-| 2026-08-04 | Gear Machinist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4690458006) |
 
 ## Automation
 

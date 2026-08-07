@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-06 22:38 UTC
+Generated: 2026-08-07 01:39 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-08-05 | AI-based single-shot structured-light depth reconstruction for real-time laparoscopic surgical guidance | [link](https://arxiv.org/pdf/2608.05109v1) |
-| 2026-08-05 | Learning When to Stop: Prefix-Optimal Dynamic Diffusion Policies for Continuous Control | [link](https://arxiv.org/pdf/2608.05084v1) |
-| 2026-08-05 | SpikingNav: Robust Embodied Navigation with Spiking Neural Policies | [link](https://arxiv.org/pdf/2608.05078v1) |
-| 2026-08-05 | MultiPathFormer: Towards a Foundation Model for Multipath Wireless Propagation | [link](https://arxiv.org/pdf/2608.05076v1) |
-| 2026-08-05 | Bag-of-Visual-Words for Spatial Mapping of Lung Adenocarcinoma Growth Patterns | [link](https://arxiv.org/pdf/2608.05074v1) |
+| 2026-08-06 | RxnCLF: Contrastive Transformation-Aware Reaction Foundation Model for Improved Reactivity Prediction | [link](https://arxiv.org/pdf/2608.06259v1) |
+| 2026-08-06 | MASS: Multiplayer World Models with Authoritative Shared State | [link](https://arxiv.org/pdf/2608.06257v1) |
+| 2026-08-06 | A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance | [link](https://arxiv.org/pdf/2608.06246v1) |
+| 2026-08-06 | From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks | [link](https://arxiv.org/pdf/2608.06227v1) |
+| 2026-08-06 | Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation | [link](https://arxiv.org/pdf/2608.06221v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 82947 | 33178.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63347 | 25338.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63351 | 25340.5 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30258 | 12103.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16099 | 6439.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15631 | 6252.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| TianxingChen/Embodied-AI-Guide | 15291 | 6116.5 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -32,11 +32,11 @@ Generated: 2026-08-06 22:38 UTC
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-08-06 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBrQWhpbzZHRmtfcHNqYWxvZ3htZm10OXFKdW9ZaEZmZDlRMzZaLUpJbkJDSGVWbnlPYWlTcUVjOTQ4YTlMNlBDVVdQb19GU1ZWRXZnYUxSSmlNNUc4Q09tNXRUQUxvOENwT0prd0dOa1Rja0RzX3c?oc=5) |
 | 2026-08-06 | Unitree |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGNISE45RzhZZ0wySkR0VE5KeG9QbnhYNFRLTWhVSTNrX0FhLWlDX0d4enJpRWVKZmdoYzRyOUZabl9MQTF2ZVNybDdxb2UxYjJnUnRscW12dU13WWNhUmRhaE5vM2k0MnZLMWN1QVNSYlZBa0twTWdlSUpDeHdIRTVLODRBbVFGNUxHbHFxQjBqU2g1cnJMdzVZQWxhVmlfcEJ1ZA?oc=5) |
 | 2026-08-06 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWRuY0FETUdBUFY5SzQ2RjlWamlLNmZiTEttZnVfTjBrZmRpR3Y4a0dLaUNfRFZQX01RRkNCLVo3VG9ORUk5am02RUtkR19qeGdRY25WMEk0YV9lVllqX29pTzB4dUItakJpYnB5eUEtbjk5Ul9CNzFPS2hIMUhVbnd3?oc=5) |
 | 2026-08-06 | Unitree |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGprdFZOc2Y3WnVwbmNEMXZ0a1JtejRhUXlXV2JYd1NDSmNGclhMdzZOOTZGaGRxcVl0VDl5NlB6ZlhUeHJwWVNYYVBXWXRqajc2U2VsUU9XWVk4bUNfdVlzd0kyRjVYQ0xIVkFxd01qbkxmQ2owLU1FRWVwTXNxUGhwZ1FlOVE3VHdjbVpuc3paV3ZhWXV0UTY0bHdreFFYeTdUSU42ZnJFRkREc1gzeHhnakM3bFBaLXdBSQ?oc=5) |
 | 2026-08-06 | Unitree |  | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE9ETElOTVpZaU1GbWJKZEk1aUJYdlAzaVBkcEFIbVpfRFhsVkY1WnZQSU9FYkZ0RHJlRDJlNU4xWXRqRk1iTFRtVDZsNVZDS1BDR1pXWHBGN0ZiRDFMOHlhd2otUFI4OWJNTkc1MnBRTFRTWnRDWUtj?oc=5) |
-| 2026-08-06 | Unitree |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxOYWE4QktnaXVjdmtKdmJrVEhVVmlaLWNHUTJYUWJicjNtcUppQ0ZjTjc0WU45eElibVEzY3pZNFl1NEhvVjF6eXpfaGxuYlN2UFQzWU1CY3MzRThVZ0hFckRjOWJGbHRFTHhVNFV6YUZScTdCaXN2Qm13VmxlV2EybGEzc3BsUkg5R0dSb2MyUGZfbEdUNjVGdWFpeXhwWkd5aUpMQXRQT2djT3BpdU5ER3MydjhBVEpLaUI1OEpmVQ?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
