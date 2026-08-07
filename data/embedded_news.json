@@ -1,5 +1,12 @@
 [
   {
+    "title": "FlipBuddy is Borg, You Will Be Assimilated",
+    "source": "Hackaday",
+    "date": "2026-08-07",
+    "url": "https://hackaday.com/2026/08/07/flipbuddy-is-borg-you-will-be-assimilated/",
+    "summary": "<div><img alt=\"A desktop Borg cube. Just kidding, it&#039;s a buttonless, cube-shaped timer with a really neat 3D-printed enclosure.\" class=\"attachment-large size-large wp-post-image\" height=\"580\" src=\"https://hackaday.com/wp-content/uploads/2026/08/flip-buddy-800.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When you think about it, time is all we&#8217;ve really got. Where to go from there is ultimately up to you. Maybe you use an app to track every task, <a class=\"read-more\" href=\"https://hackaday.com/2026/08/07/flipbuddy-is-borg-you-will-be-assimilated/\">&#8230;read more</a>"
+  },
+  {
     "title": "Wrist Welcomes Wii Nunchuk As Gloriously Ergonomic Macropad",
     "source": "Hackaday",
     "date": "2026-08-07",
@@ -42,6 +49,20 @@
     "summary": "<div><img alt=\"Proxmox VE 64-bit Arm\" class=\"attachment-medium size-medium wp-post-image\" height=\"449\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Proxmox-VE-64-bit-Arm-720x449.png\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Proxmox has recently announced the first official release of Proxmox Virtual Environment (VE) with support for 64-bit Arm (arm64/aarch64). Until now, the popular virtualization solution was only available for x86-64 (amd64). Proxmox VE 9.2 for arm64 is built on Debian 13.5 &#8220;Trixie&#8221; with Linux 7.0, and is otherwise based on the same code as the x86-64 version, and relies on the same configuration, tooling, and documentation, except for a few architecture-specific differences. The developers note that Proxmox VE for Arm fully supports NVIDIA Grace Hopper and NVIDIA Vera platforms, and &#8220;best-effort&#8221; support is available on other UEFI-based Armv8-A/Armv9-A hardware. However, device-tree-only single-board computers, such as the Raspberry Pi, are not supported, since the host must boot through UEFI and describe its hardware through ACPI. Having said that, we previously noted work on an UEFI+ACPI port for the Raspberry Pi 4, and users have already managed to have the release work [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/\">Proxmox VE now officially supports 64-bit Arm (Aarch64) targets</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Analogue v digital RF-over-Fibre: technical trade-offs",
+    "source": "Electronics Weekly",
+    "date": "2026-08-07",
+    "url": "https://www.electronicsweekly.com/news/business/analogue-v-digital-rf-over-fibre-technical-trade-offs-2026-08/",
+    "summary": "<p>Meir Bartur and Farzad Ghadooshahy look at the analogue and digital approaches to RFoF. Figure 1: Ground base location for NTN feeder link utilising RFoF transport The demand for transporting [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/analogue-v-digital-rf-over-fibre-technical-trade-offs-2026-08/\">Analogue v digital RF-over-Fibre: technical trade-offs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "ALL.SPACE unveils Hydra MAX wideband, multi-orbit SATCOM terminal",
+    "source": "Electronics Weekly",
+    "date": "2026-08-07",
+    "url": "https://www.electronicsweekly.com/news/products/all-space-unveils-hydra-max-wideband-multi-orbit-satcom-terminal-2026-08/",
+    "summary": "<p>ALL.SPACE, the UK satellite connectivity-on-the-move company, has unveiled its next-generation wideband, multi-orbit SATCOM terminal platform, Hydra MAX. Hydra MAX The Reading-based company, extending its existing Hydra family, says Hydra MAX [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/all-space-unveils-hydra-max-wideband-multi-orbit-satcom-terminal-2026-08/\">ALL.SPACE unveils Hydra MAX wideband, multi-orbit SATCOM terminal</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Most Read – AI chip startup, TSMC 1.4nm fab, HP buying CXMT DRAM",
     "source": "Electronics Weekly",
     "date": "2026-08-07",
@@ -60,14 +81,14 @@
     "source": "Electronics Weekly",
     "date": "2026-08-07",
     "url": "https://www.electronicsweekly.com/news/business/and-buys-taalas-2026-08/",
-    "summary": "<p>AMD is to buy Taalas,  the Canadian inference chip specialist. The acquisition strengthens AMD&#8217;s long-term AI roadmap with differentiated inference technology Last  February Taalas  raised $169 million taking total funding [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/and-buys-taalas-2026-08/\">AMD buys Taalas</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>AMD is to buy Taalas, the Canadian inference chip specialist. The acquisition strengthens AMD&#8217;s long-term AI roadmap with differentiated inference technology. Last  February Taalas  raised $169 million taking total funding [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/and-buys-taalas-2026-08/\">AMD buys Taalas</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Lumilens raises $900m",
     "source": "Electronics Weekly",
     "date": "2026-08-07",
     "url": "https://www.electronicsweekly.com/news/business/lumilens-raises-900m-2026-08/",
-    "summary": "<p>Two year-old Lumilens, the optical transceiver specialist, has raised a  $700 million Series C bringing total funding up to $900 million. The round included investment from: Addition, Aiconic, Alkeon, Atreides [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/lumilens-raises-900m-2026-08/\">Lumilens raises $900m</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Two year-old Lumilens, the optical transceiver specialist, has raised a $700 million Series C bringing total funding up to $900 million. The round included investment from: Addition, Aiconic, Alkeon, Atreides [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/lumilens-raises-900m-2026-08/\">Lumilens raises $900m</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Qinetiq teaches cyber security education to 200+ students",
@@ -126,13 +147,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/better-adjustable-wrench-feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We&#8217;ve probably all got one item in our toolboxes or chests that we really, really don&#8217;t like, but find too handy to toss. For [Someone Should Make That], that item <a class=\"read-more\" href=\"https://hackaday.com/2026/08/06/cncd-cnc-inspired-adjustable-wrench-wont-round-your-bolts/\">&#8230;read more</a>"
   },
   {
-    "title": "Calculus-Free PID (Almost) in a Spreadsheet",
-    "source": "Hackaday",
-    "date": "2026-08-06",
-    "url": "https://hackaday.com/2026/08/06/calculus-free-pid-almost-in-a-spreadsheet/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2025/12/Spreadsheets.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>PID controllers are everywhere. They regulate temperature, motor speed, power supplies, positioning systems, process equipment, and probably a dozen things within arm&#8217;s reach of you right now. They&#8217;re also frequently <a class=\"read-more\" href=\"https://hackaday.com/2026/08/06/calculus-free-pid-almost-in-a-spreadsheet/\">&#8230;read more</a>"
-  },
-  {
     "title": "PICOTTY project enables multi-target serial remote management through Raspberry Pi Pico boards and Pi Zero 2 W SBC",
     "source": "CNX Software",
     "date": "2026-08-06",
@@ -166,20 +180,6 @@
     "date": "2026-08-06",
     "url": "https://www.embedded.com/partnership-delivers-ai-powered-design-to-engineers/",
     "summary": "<p>Celus, an AI-powered electronic design automation company, announced a strategic partnership with Variscite that brings Variscite's system-on-module (SoM) portfolio into the CELUS Design Platform to accelerate embedded system development from concept to a prototype or production-ready design. Simplifying electronics design with AI, the integration combines Variscite's SoMs with Celus' AI Design Assistant to shorten time [...]</p>\n<p>The post <a href=\"https://www.embedded.com/partnership-delivers-ai-powered-design-to-engineers/\">Partnership Delivers AI-Powered Design to Engineers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Axiom charity golf day raises £3,500 for SSAFA",
-    "source": "Electronics Weekly",
-    "date": "2026-08-06",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/general-electronics/axiom-charity-golf-day-raises-3500-for-ssafa-2026-08/",
-    "summary": "<p>Axiom Manufacturing Services raises £3,500 for SSAFA, the Armed Forces charity, following a successful charity golf day at The Vale Resort.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/general-electronics/axiom-charity-golf-day-raises-3500-for-ssafa-2026-08/\">Axiom charity golf day raises £3,500 for SSAFA</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Fable: Not A High Flyer",
-    "source": "Electronics Weekly",
-    "date": "2026-08-06",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-not-a-high-flyer-2026-08/",
-    "summary": "<p>This was not a high-flier: Moral: All that flies does not fly high &#160;</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-not-a-high-flyer-2026-08/\">Fable: Not A High Flyer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Waveshare CM4 Case with GPIO #3DThursday #3DPrinting",
