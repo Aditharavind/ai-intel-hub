@@ -1,5 +1,14 @@
 [
   {
+    "model": "a5ilank/curious-robot",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/a5ilank/curious-robot",
+    "date": "2026-08-07",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
     "model": "OpenRAL/rskill-smolvla-aloha_agilex-robotwin-bf16",
     "downloads": 0,
     "likes": 0,
@@ -99,6 +108,15 @@
     "score": 0.1
   },
   {
+    "model": "sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "sam-guided-vlas/train_1_2__mask__overlay_a75__sim__agentview_camera__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -108,10 +126,10 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "model": "sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-07",
     "keyword": "vla",
     "score": 0.1
@@ -126,28 +144,19 @@
     "score": 0.1
   },
   {
+    "model": "sam-guided-vlas/train_1_2__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "OpenRAL/rskill-xr1-franka_panda-vlabench-nf4",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/OpenRAL/rskill-xr1-franka_panda-vlabench-nf4",
-    "date": "2026-08-07",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-07",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-07",
     "keyword": "vla",
     "score": 0.1
@@ -358,15 +367,6 @@
     "date": "2026-08-06",
     "keyword": "robot",
     "score": 0.3
-  },
-  {
-    "model": "NCDTech/real-robot-driving-mlp-numpy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/NCDTech/real-robot-driving-mlp-numpy",
-    "date": "2026-08-06",
-    "keyword": "robot",
-    "score": 0.1
   },
   {
     "model": "aria220/Xiaomi-Robotics-1-RoboCasa",
