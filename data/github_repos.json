@@ -20,6 +20,16 @@
     "score": 187.3
   },
   {
+    "repo": "alireza787b/mavsdk_drone_show",
+    "stars": 310,
+    "language": "Python",
+    "description": "Open-source MAVLink fleet operations for PX4: SITL, drone shows, search and rescue, cooperative autonomy, and field validation",
+    "url": "https://github.com/alireza787b/mavsdk_drone_show",
+    "date": "2026-08-08",
+    "topic": "physical-ai",
+    "score": 124.1
+  },
+  {
     "repo": "commaai/openpilot",
     "stars": 63370,
     "language": "Python",
@@ -31,13 +41,13 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15644,
+    "stars": 15645,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-08",
     "topic": "robotics",
-    "score": 6257.7
+    "score": 6258.1
   },
   {
     "repo": "kornia/kornia",
@@ -71,23 +81,23 @@
   },
   {
     "repo": "dora-rs/dora",
-    "stars": 3870,
+    "stars": 3869,
     "language": "Rust",
     "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
     "url": "https://github.com/dora-rs/dora",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1548.1
+    "score": 1547.7
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3048,
+    "stars": 3049,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1219.3
+    "score": 1219.7
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
@@ -151,13 +161,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5960,
+    "stars": 5961,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-08",
     "topic": "world-model",
-    "score": 2384.1
+    "score": 2384.5
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -201,23 +211,23 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 2823,
+    "stars": 2824,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-07",
     "topic": "physical-ai",
-    "score": 1129.3
+    "score": 1129.7
   },
   {
     "repo": "mosaico-labs/mosaico",
-    "stars": 898,
+    "stars": 899,
     "language": "Python",
     "description": "Mosaico - The data platform for Physical AI",
     "url": "https://github.com/mosaico-labs/mosaico",
     "date": "2026-08-07",
     "topic": "physical-ai",
-    "score": 359.3
+    "score": 359.7
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -231,23 +241,23 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14484,
+    "stars": 14485,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5793.7
+    "score": 5794.1
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13088,
+    "stars": 13090,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5235.3
+    "score": 5236.1
   },
   {
     "repo": "rerun-io/rerun",
@@ -430,16 +440,6 @@
     "score": 135.7
   },
   {
-    "repo": "alireza787b/mavsdk_drone_show",
-    "stars": 310,
-    "language": "Python",
-    "description": "Open-source MAVLink fleet operations for PX4: SITL, drone shows, search and rescue, cooperative autonomy, and field validation",
-    "url": "https://github.com/alireza787b/mavsdk_drone_show",
-    "date": "2026-08-04",
-    "topic": "physical-ai",
-    "score": 124.1
-  },
-  {
     "repo": "mani-skill/ManiSkill",
     "stars": 3208,
     "language": "Python",
@@ -581,13 +581,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2248,
+    "stars": 2249,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-07-31",
     "topic": "humanoid",
-    "score": 899.3
+    "score": 899.7
   },
   {
     "repo": "Mr-C4T/AB-SO-BOT",
@@ -691,13 +691,13 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13670,
+    "stars": 13671,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-07-25",
     "topic": "robotics",
-    "score": 5468.1
+    "score": 5468.5
   },
   {
     "repo": "thu-ml/Causal-Forcing",
@@ -781,13 +781,13 @@
   },
   {
     "repo": "nv-tlabs/lyra",
-    "stars": 2218,
+    "stars": 2219,
     "language": "Python",
     "description": "Project Lyra: Open Generative 3D World Models",
     "url": "https://github.com/nv-tlabs/lyra",
     "date": "2026-07-20",
     "topic": "world-model",
-    "score": 887.3
+    "score": 887.7
   },
   {
     "repo": "OpenDriveLab/WorldEngine",
@@ -841,13 +841,13 @@
   },
   {
     "repo": "ARISE-Initiative/robosuite",
-    "stars": 2554,
+    "stars": 2555,
     "language": "Python",
     "description": "robosuite: A Modular Simulation Framework and Benchmark for Robot Learning",
     "url": "https://github.com/ARISE-Initiative/robosuite",
     "date": "2026-07-11",
     "topic": "robot-learning",
-    "score": 1021.7
+    "score": 1022.1
   },
   {
     "repo": "Source-Robotics/MSG-compliant-AI-stepper-gripper",

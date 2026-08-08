@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-08 16:16 UTC
+Last Updated: 2026-08-08 17:18 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-08 | Robotic Screw and Bolt Sorter Seeks a New Challenge | Hackaday | [link](https://hackaday.com/2026/08/08/robotic-screw-and-bolt-sorter-seeks-a-new-challenge/) |
 | 2026-08-08 | Junkbin, a Way to Efficiently Reuse Your Old Electronics | Hackaday | [link](https://hackaday.com/2026/08/08/junkbin-a-way-to-efficiently-reuse-your-old-electronics/) |
 | 2026-08-08 | Tim Hunkin’s History Of Arcade Machines | Hackaday | [link](https://hackaday.com/2026/08/08/tim-hunkins-history-of-arcade-machines/) |
 | 2026-08-08 | Want Energy Efficiency? Dude, You’re Getting a Dell! | Hackaday | [link](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/) |
@@ -57,7 +58,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-08 | LILYGO T-Echo Card – A weatherproof, solar-powered, nRF52840-based LoRa + GPS development kit | CNX Software | [link](https://www.cnx-software.com/2026/08/08/lilygo-t-echo-card-a-weatherproof-solar-powered-nrf52840-based-lora-gps-development-kit/) |
 | 2026-08-08 | Happy International Cat Day 2026 🌎🐈 #CatsofEngineering #WorldCatDay | Adafruit | [link](https://blog.adafruit.com/2026/08/08/happy-international-cat-day-2026-%f0%9f%8c%8e%f0%9f%90%88-catsofengineering-worldcatday/) |
 | 2026-08-07 | This Filesystem is Born to Fail | Hackaday | [link](https://hackaday.com/2026/08/07/this-filesystem-is-born-to-fail/) |
-| 2026-08-07 | Hacking a $6000 Cotton Candy Machine to Fully Control It | Hackaday | [link](https://hackaday.com/2026/08/07/hacking-a-6000-cotton-candy-machine-to-fully-control-it/) |
 | 2026-08-07 | GEEKOM IT13 Max mini PC review – Part 1: specifications, unboxing, teardown, and first boot | CNX Software | [link](https://www.cnx-software.com/2026/08/07/geekom-it13-max-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/) |
 
 ## New Research Papers
@@ -66,6 +66,7 @@ _No items collected yet._
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-08 | milab-robot/alm1-0731-milab | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab) |
 | 2026-08-08 | locht131/gr00t_fa_robotwin_2hand_quat_tune_visual_s35k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_tune_visual_s35k_bs32) |
 | 2026-08-08 | Myungkyu/hiwrld-baseline-ckpts-real-robot | 0 | 0 | [link](https://huggingface.co/Myungkyu/hiwrld-baseline-ckpts-real-robot) |
 | 2026-08-08 | milab-robot/alm1-0724-milab | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0724-milab) |
@@ -75,21 +76,20 @@ _No items collected yet._
 | 2026-08-08 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
 | 2026-08-08 | sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-08 | khoavucao2511/so101_vla_jepa_08_08_26_v1 | 0 | 0 | [link](https://huggingface.co/khoavucao2511/so101_vla_jepa_08_08_26_v1) |
-| 2026-08-08 | sam-guided-vlas/train_1_2__no_mask__pi05__seed_0 | 5 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1442 | Rust | 576.9 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 468 | Shell | 187.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| alireza787b/mavsdk_drone_show | 310 | Python | 124.1 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | commaai/openpilot | 63370 | Python | 25348.1 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15644 | C++ | 6257.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15645 | C++ | 6258.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11311 | Python | 4524.5 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7861 | Python | 3144.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4481 | Python | 1792.5 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3870 | Rust | 1548.1 | [link](https://github.com/dora-rs/dora) |
-| datawhalechina/every-embodied | 3048 | Python | 1219.3 | [link](https://github.com/datawhalechina/every-embodied) |
-| RoboTwin-Platform/RoboTwin | 2702 | Python | 1080.9 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
+| dora-rs/dora | 3869 | Rust | 1547.7 | [link](https://github.com/dora-rs/dora) |
+| datawhalechina/every-embodied | 3049 | Python | 1219.7 | [link](https://github.com/datawhalechina/every-embodied) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -117,7 +117,7 @@ _No items collected yet._
 | 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
 | 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - The Business Journals | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
 | 2026-08-03 | CATL Invests in RoboParty: 22-Year-Old Harbin Institute of Technology Founder Huang Yi Steers Open-Source Full-Stack Bipedal Humanoid Startup Through 20x Valuation Growth - Pandaily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE9JSGlSLVJZS29EUWFNYkxKel93WGo1OER4cWF0NG02QzRncnhoQTBLYXNLZFkwVW5uNmxIX3BleGtGZTFMbVFWbVUwT3BmYUpGVjBSbGhNZlRrT2wxY0gydFR6enVWamFHMFJUUQ?oc=5) |
-| 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
+| 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - kspost.biz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
