@@ -1,5 +1,14 @@
 [
   {
+    "model": "Pq234/MiniCPM-RobotManip",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Pq234/MiniCPM-RobotManip",
+    "date": "2026-08-08",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "locht131/gr00t_fa_robotwin_2hand_quat_s35k_bs32",
     "downloads": 0,
     "likes": 0,
@@ -25,6 +34,24 @@
     "date": "2026-08-08",
     "keyword": "vla",
     "score": 1.6
+  },
+  {
+    "model": "geonmin-kim/VLA-JEPA-3B-SO101-D6231-step10000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-step10000",
+    "date": "2026-08-08",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "B111ue/fcl-vla-baseline-recovery",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/B111ue/fcl-vla-baseline-recovery",
+    "date": "2026-08-08",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "whosricky/VLANeXt_HL1",
@@ -58,15 +85,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "B111ue/fcl-vla-baseline-recovery",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/B111ue/fcl-vla-baseline-recovery",
     "date": "2026-08-08",
     "keyword": "vla",
     "score": 0.1
@@ -112,15 +130,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
-    "date": "2026-08-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-08",
     "keyword": "vla",
     "score": 0.1
@@ -367,15 +376,6 @@
     "date": "2026-08-07",
     "keyword": "policy",
     "score": 5.2
-  },
-  {
-    "model": "zolkin/robot_rl",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/zolkin/robot_rl",
-    "date": "2026-08-06",
-    "keyword": "robot",
-    "score": 0.3
   },
   {
     "model": "aria220/Xiaomi-Robotics-1-RoboCasa",
