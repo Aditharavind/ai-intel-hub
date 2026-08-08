@@ -1,5 +1,15 @@
 [
   {
+    "repo": "vllm-project/vllm-omni",
+    "stars": 5943,
+    "language": "Python",
+    "description": "A framework for efficient model inference with omni-modality models",
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "date": "2026-08-08",
+    "topic": "world-model",
+    "score": 2377.3
+  },
+  {
     "repo": "NVIDIA/skills",
     "stars": 2817,
     "language": "Python",
@@ -51,43 +61,43 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16104,
+    "stars": 16105,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 6441.7
+    "score": 6442.1
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15636,
+    "stars": 15637,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 6254.5
+    "score": 6254.9
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14476,
+    "stars": 14477,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5790.5
+    "score": 5790.9
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13045,
+    "stars": 13048,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5218.1
+    "score": 5219.3
   },
   {
     "repo": "kornia/kornia",
@@ -131,13 +141,13 @@
   },
   {
     "repo": "dora-rs/dora",
-    "stars": 3869,
+    "stars": 3870,
     "language": "Rust",
     "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
     "url": "https://github.com/dora-rs/dora",
     "date": "2026-08-07",
     "topic": "embodied-ai",
-    "score": 1547.7
+    "score": 1548.1
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
@@ -198,16 +208,6 @@
     "date": "2026-08-07",
     "topic": "vla",
     "score": 125.3
-  },
-  {
-    "repo": "vllm-project/vllm-omni",
-    "stars": 5941,
-    "language": "Python",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "url": "https://github.com/vllm-project/vllm-omni",
-    "date": "2026-08-07",
-    "topic": "world-model",
-    "score": 2376.5
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -291,13 +291,13 @@
   },
   {
     "repo": "OpenHUTB/hutb",
-    "stars": 565,
+    "stars": 567,
     "language": "C++",
     "description": "人车模拟器（Human-vehicle Simulator）",
     "url": "https://github.com/OpenHUTB/hutb",
     "date": "2026-08-06",
     "topic": "humanoid",
-    "score": 226.1
+    "score": 226.9
   },
   {
     "repo": "softmata/horus",
@@ -610,6 +610,16 @@
     "score": 275.7
   },
   {
+    "repo": "humanoidworkbench/Humanoid-Workbench",
+    "stars": 17,
+    "language": "",
+    "description": "Open source prior art disclosure — specialized workstation systems for AI robotic systems",
+    "url": "https://github.com/humanoidworkbench/Humanoid-Workbench",
+    "date": "2026-07-29",
+    "topic": "humanoid",
+    "score": 6.9
+  },
+  {
     "repo": "knightnemo/Awesome-World-Models",
     "stars": 3275,
     "language": "",
@@ -848,15 +858,5 @@
     "date": "2026-07-09",
     "topic": "lerobot",
     "score": 24.1
-  },
-  {
-    "repo": "zihanwang0422/legged_rl_lab",
-    "stars": 49,
-    "language": "Python",
-    "description": "Legged Robot Isaaclab Extention",
-    "url": "https://github.com/zihanwang0422/legged_rl_lab",
-    "date": "2026-07-08",
-    "topic": "humanoid",
-    "score": 19.7
   }
 ]
