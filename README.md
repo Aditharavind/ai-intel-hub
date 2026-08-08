@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-08 06:28 UTC
+Last Updated: 2026-08-08 07:38 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -51,6 +51,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-08 | The BBC Tetris Companion | Hackaday | [link](https://hackaday.com/2026/08/07/the-bbc-tetris-companion/) |
 | 2026-08-08 | Block, shmock — Just Pump Water Over The Chip | Hackaday | [link](https://hackaday.com/2026/08/07/block-shmock-just-pump-water-over-the-chip/) |
+| 2026-08-08 | LILYGO T-Echo Card – A weatherproof, solar-powered, nRF52840-based LoRa + GPS development kit | CNX Software | [link](https://www.cnx-software.com/2026/08/08/lilygo-t-echo-card-a-weatherproof-solar-powered-nrf52840-based-lora-gps-development-kit/) |
 | 2026-08-07 | This Filesystem is Born to Fail | Hackaday | [link](https://hackaday.com/2026/08/07/this-filesystem-is-born-to-fail/) |
 | 2026-08-07 | Hacking a $6000 Cotton Candy Machine to Fully Control It | Hackaday | [link](https://hackaday.com/2026/08/07/hacking-a-6000-cotton-candy-machine-to-fully-control-it/) |
 | 2026-08-07 | Chernobyl’s Robots, or the Hackathon From Hell | Hackaday | [link](https://hackaday.com/2026/08/07/chernobyls-robots-or-the-hackathon-from-hell/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-07 | Music is Back on Optical Disk in This Plex Server | Hackaday | [link](https://hackaday.com/2026/08/07/music-is-back-on-optical-disk-in-this-plex-server/) |
 | 2026-08-07 | GEEKOM IT13 Max mini PC review – Part 1: specifications, unboxing, teardown, and first boot | CNX Software | [link](https://www.cnx-software.com/2026/08/07/geekom-it13-max-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/) |
 | 2026-08-07 | Token Monitor – An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/) |
-| 2026-08-07 | Proxmox VE now officially supports 64-bit Arm (Aarch64) targets | CNX Software | [link](https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-08 | locht131/gr00t_fa_robotwin_2hand_quat_s35k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_s35k_bs32) |
 | 2026-08-08 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-08-08 | ISdept/wiltechs-vla-moe-36k | 8 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-moe-36k) |
+| 2026-08-08 | sam-guided-vlas/train_1_2__no_mask__pi05__seed_0 | 4 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0) |
+| 2026-08-08 | sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-08 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
 | 2026-08-08 | sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
-| 2026-08-08 | sam-guided-vlas/train_1_2__no_mask__pi05__seed_0 | 4 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0) |
 | 2026-08-08 | n5zhong/trace_vla_single | 0 | 0 | [link](https://huggingface.co/n5zhong/trace_vla_single) |
-| 2026-08-08 | sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-08 | yuuu94/W2-VLA | 0 | 1 | [link](https://huggingface.co/yuuu94/W2-VLA) |
 | 2026-08-08 | sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0) |
-| 2026-08-08 | sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
-| 2026-08-08 | geonmin-kim/VLA-JEPA-3B-SO101-D6231-step5000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-step5000) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | awslabs/awsome-distributed-ai | 468 | Shell | 187.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63361 | Python | 25344.5 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15639 | C++ | 6255.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 63362 | Python | 25344.9 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15640 | C++ | 6256.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | isaac-sim/IsaacLab | 7857 | Python | 3142.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4479 | Python | 1791.7 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 4480 | Python | 1792.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3870 | Rust | 1548.1 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 482 | HTML | 192.9 | [link](https://github.com/sou350121/VLA-Handbook) |
-| luohongk/Embodied-AI-Daily | 406 | HTML | 162.5 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
+| luohongk/Embodied-AI-Daily | 407 | HTML | 162.9 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 | syswonder/robonix | 314 | Rust | 125.7 | [link](https://github.com/syswonder/robonix) |
-| vllm-project/vllm-omni | 5951 | Python | 2380.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 5953 | Python | 2381.3 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
