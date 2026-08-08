@@ -31,23 +31,23 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15642,
+    "stars": 15644,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-08",
     "topic": "robotics",
-    "score": 6256.9
+    "score": 6257.7
   },
   {
     "repo": "kornia/kornia",
-    "stars": 11310,
+    "stars": 11311,
     "language": "Python",
     "description": "🐍 Geometric Computer Vision Library for Spatial AI",
     "url": "https://github.com/kornia/kornia",
     "date": "2026-08-08",
     "topic": "robotics",
-    "score": 4524.1
+    "score": 4524.5
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -100,6 +100,16 @@
     "score": 1080.9
   },
   {
+    "repo": "unrealcv/unrealcv",
+    "stars": 2206,
+    "language": "Python",
+    "description": "UnrealCV: Connecting Computer Vision to Unreal Engine",
+    "url": "https://github.com/unrealcv/unrealcv",
+    "date": "2026-08-08",
+    "topic": "embodied-ai",
+    "score": 882.5
+  },
+  {
     "repo": "flashrt-project/FlashRT",
     "stars": 495,
     "language": "C++",
@@ -141,13 +151,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5959,
+    "stars": 5960,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-08",
     "topic": "world-model",
-    "score": 2383.7
+    "score": 2384.1
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -191,13 +201,13 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 2822,
+    "stars": 2823,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-07",
     "topic": "physical-ai",
-    "score": 1128.9
+    "score": 1129.3
   },
   {
     "repo": "mosaico-labs/mosaico",
@@ -221,23 +231,23 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14483,
+    "stars": 14484,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5793.3
+    "score": 5793.7
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13087,
+    "stars": 13088,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5234.9
+    "score": 5235.3
   },
   {
     "repo": "rerun-io/rerun",
@@ -438,16 +448,6 @@
     "date": "2026-08-04",
     "topic": "robot-learning",
     "score": 1283.3
-  },
-  {
-    "repo": "PhyAgentOS-Dev/PhyAgentOS",
-    "stars": 1697,
-    "language": "Python",
-    "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
-    "url": "https://github.com/PhyAgentOS-Dev/PhyAgentOS",
-    "date": "2026-08-04",
-    "topic": "embodied-ai",
-    "score": 678.9
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",

@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-08 15:15 UTC
+Last Updated: 2026-08-08 16:16 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -61,22 +61,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-07 | GEEKOM IT13 Max mini PC review – Part 1: specifications, unboxing, teardown, and first boot | CNX Software | [link](https://www.cnx-software.com/2026/08/07/geekom-it13-max-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-08-06 | $ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation | [link](https://arxiv.org/pdf/2608.06375v1) |
-| 2026-08-06 | DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation | [link](https://arxiv.org/pdf/2608.06374v1) |
-| 2026-08-06 | A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber | [link](https://arxiv.org/pdf/2608.06354v1) |
-| 2026-08-06 | GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions | [link](https://arxiv.org/pdf/2608.06332v1) |
-| 2026-08-06 | Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors | [link](https://arxiv.org/pdf/2608.06300v1) |
-| 2026-08-06 | RxnCLF: Contrastive Transformation-Aware Reaction Foundation Model for Improved Reactivity Prediction | [link](https://arxiv.org/pdf/2608.06259v1) |
-| 2026-08-06 | MASS: Multiplayer World Models with Authoritative Shared State | [link](https://arxiv.org/pdf/2608.06257v1) |
-| 2026-08-06 | A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance | [link](https://arxiv.org/pdf/2608.06246v1) |
-| 2026-08-06 | From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks | [link](https://arxiv.org/pdf/2608.06227v1) |
-| 2026-08-06 | Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation | [link](https://arxiv.org/pdf/2608.06221v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-08 | locht131/gr00t_fa_robotwin_2hand_quat_tune_visual_s35k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_tune_visual_s35k_bs32) |
 | 2026-08-08 | Myungkyu/hiwrld-baseline-ckpts-real-robot | 0 | 0 | [link](https://huggingface.co/Myungkyu/hiwrld-baseline-ckpts-real-robot) |
 | 2026-08-08 | milab-robot/alm1-0724-milab | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0724-milab) |
 | 2026-08-08 | Pq234/MiniCPM-RobotManip | 0 | 0 | [link](https://huggingface.co/Pq234/MiniCPM-RobotManip) |
@@ -86,7 +76,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-08 | sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-08 | khoavucao2511/so101_vla_jepa_08_08_26_v1 | 0 | 0 | [link](https://huggingface.co/khoavucao2511/so101_vla_jepa_08_08_26_v1) |
 | 2026-08-08 | sam-guided-vlas/train_1_2__no_mask__pi05__seed_0 | 5 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0) |
-| 2026-08-08 | sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,8 +83,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1442 | Rust | 576.9 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 468 | Shell | 187.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63370 | Python | 25348.1 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15642 | C++ | 6256.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| kornia/kornia | 11310 | Python | 4524.1 | [link](https://github.com/kornia/kornia) |
+| ArduPilot/ardupilot | 15644 | C++ | 6257.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| kornia/kornia | 11311 | Python | 4524.5 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7861 | Python | 3144.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4481 | Python | 1792.5 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3870 | Rust | 1548.1 | [link](https://github.com/dora-rs/dora) |

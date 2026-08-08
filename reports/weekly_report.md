@@ -1,15 +1,9 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-08 15:15 UTC
+Generated: 2026-08-08 16:16 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-08-06 | $ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation | [link](https://arxiv.org/pdf/2608.06375v1) |
-| 2026-08-06 | DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation | [link](https://arxiv.org/pdf/2608.06374v1) |
-| 2026-08-06 | A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber | [link](https://arxiv.org/pdf/2608.06354v1) |
-| 2026-08-06 | GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions | [link](https://arxiv.org/pdf/2608.06332v1) |
-| 2026-08-06 | Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors | [link](https://arxiv.org/pdf/2608.06300v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
@@ -17,7 +11,7 @@ Generated: 2026-08-08 15:15 UTC
 | commaai/openpilot | 63370 | 25348.1 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30264 | 12105.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16104 | 6441.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15642 | 6256.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15644 | 6257.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | TianxingChen/Embodied-AI-Guide | 15315 | 6126.1 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
