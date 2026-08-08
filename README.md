@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-08 04:00 UTC
+Last Updated: 2026-08-08 04:56 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -79,11 +79,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-08-08 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-08 | sam-guided-vlas/train_1_2__no_mask__pi05__seed_0 | 4 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0) |
-| 2026-08-08 | sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-08 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
+| 2026-08-08 | sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-08 | sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-08 | yuuu94/W2-VLA | 0 | 1 | [link](https://huggingface.co/yuuu94/W2-VLA) |
 | 2026-08-08 | sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0) |
-| 2026-08-08 | sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-08 | sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-08 | geonmin-kim/VLA-JEPA-3B-SO101-D6231-step5000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-step5000) |
 | 2026-08-08 | nosuke113/parc2026-policy | 0 | 0 | [link](https://huggingface.co/nosuke113/parc2026-policy) |
@@ -93,14 +93,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | commaai/openpilot | 63360 | Python | 25344.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15639 | C++ | 6255.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| isaac-sim/IsaacLab | 7857 | Python | 3142.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4478 | Python | 1791.3 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3870 | Rust | 1548.1 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 482 | HTML | 192.9 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5948 | Python | 2379.3 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 5950 | Python | 2380.1 | [link](https://github.com/vllm-project/vllm-omni) |
 | OpenHUTB/hutb | 567 | C++ | 226.9 | [link](https://github.com/OpenHUTB/hutb) |
 | NVIDIA/skills | 2817 | Python | 1126.9 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1442 | Rust | 576.9 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
