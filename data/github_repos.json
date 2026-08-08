@@ -1,13 +1,53 @@
 [
   {
+    "repo": "commaai/openpilot",
+    "stars": 63359,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-08-08",
+    "topic": "robotics",
+    "score": 25343.7
+  },
+  {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15639,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-08-08",
+    "topic": "robotics",
+    "score": 6255.7
+  },
+  {
+    "repo": "RLinf/RLinf",
+    "stars": 4477,
+    "language": "Python",
+    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
+    "url": "https://github.com/RLinf/RLinf",
+    "date": "2026-08-08",
+    "topic": "embodied-ai",
+    "score": 1790.9
+  },
+  {
+    "repo": "sou350121/VLA-Handbook",
+    "stars": 482,
+    "language": "HTML",
+    "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
+    "url": "https://github.com/sou350121/VLA-Handbook",
+    "date": "2026-08-08",
+    "topic": "robot-learning",
+    "score": 192.9
+  },
+  {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5943,
+    "stars": 5946,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-08",
     "topic": "world-model",
-    "score": 2377.3
+    "score": 2378.5
   },
   {
     "repo": "NVIDIA/skills",
@@ -50,16 +90,6 @@
     "score": 187.3
   },
   {
-    "repo": "commaai/openpilot",
-    "stars": 63358,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-08-07",
-    "topic": "robotics",
-    "score": 25343.3
-  },
-  {
     "repo": "zauberzeug/nicegui",
     "stars": 16105,
     "language": "Python",
@@ -70,34 +100,24 @@
     "score": 6442.1
   },
   {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15637,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-08-07",
-    "topic": "robotics",
-    "score": 6254.9
-  },
-  {
     "repo": "google-deepmind/mujoco",
-    "stars": 14477,
+    "stars": 14479,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5790.9
+    "score": 5791.7
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13048,
+    "stars": 13049,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5219.3
+    "score": 5219.7
   },
   {
     "repo": "kornia/kornia",
@@ -130,16 +150,6 @@
     "score": 3142.9
   },
   {
-    "repo": "RLinf/RLinf",
-    "stars": 4477,
-    "language": "Python",
-    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
-    "url": "https://github.com/RLinf/RLinf",
-    "date": "2026-08-07",
-    "topic": "embodied-ai",
-    "score": 1790.9
-  },
-  {
     "repo": "dora-rs/dora",
     "stars": 3870,
     "language": "Rust",
@@ -161,13 +171,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2266,
+    "stars": 2263,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-07",
     "topic": "robot-learning",
-    "score": 906.5
+    "score": 905.3
   },
   {
     "repo": "flashrt-project/FlashRT",
@@ -178,16 +188,6 @@
     "date": "2026-08-07",
     "topic": "vla",
     "score": 197.7
-  },
-  {
-    "repo": "sou350121/VLA-Handbook",
-    "stars": 482,
-    "language": "HTML",
-    "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
-    "url": "https://github.com/sou350121/VLA-Handbook",
-    "date": "2026-08-07",
-    "topic": "robot-learning",
-    "score": 192.9
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -281,13 +281,13 @@
   },
   {
     "repo": "dexmal/dexbotic",
-    "stars": 1300,
+    "stars": 1303,
     "language": "Python",
     "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
     "url": "https://github.com/dexmal/dexbotic",
     "date": "2026-08-06",
     "topic": "vla",
-    "score": 520.1
+    "score": 521.3
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -481,13 +481,13 @@
   },
   {
     "repo": "NVlabs/alpasim",
-    "stars": 1163,
+    "stars": 1164,
     "language": "Python",
     "description": "AlpaSim is an open-source autonomous vehicle simulation platform designed for development and testing of end-to-end AV policies",
     "url": "https://github.com/NVlabs/alpasim",
     "date": "2026-08-03",
     "topic": "physical-ai",
-    "score": 465.3
+    "score": 465.7
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -531,13 +531,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15307,
+    "stars": 15308,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6122.9
+    "score": 6123.3
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
@@ -721,13 +721,13 @@
   },
   {
     "repo": "NVlabs/physical_ai_av",
-    "stars": 351,
+    "stars": 352,
     "language": "Python",
     "description": "Devkit and documentation for the NVIDIA Physical AI Autonomous Vehicles Dataset",
     "url": "https://github.com/NVlabs/physical_ai_av",
     "date": "2026-07-22",
     "topic": "physical-ai",
-    "score": 140.5
+    "score": 140.9
   },
   {
     "repo": "OpenEnvision/WorldFoundry",
