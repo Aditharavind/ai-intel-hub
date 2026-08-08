@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-08 04:56 UTC
+Last Updated: 2026-08-08 05:34 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-08 | The BBC Tetris Companion | Hackaday | [link](https://hackaday.com/2026/08/07/the-bbc-tetris-companion/) |
 | 2026-08-08 | Block, shmock — Just Pump Water Over The Chip | Hackaday | [link](https://hackaday.com/2026/08/07/block-shmock-just-pump-water-over-the-chip/) |
 | 2026-08-07 | This Filesystem is Born to Fail | Hackaday | [link](https://hackaday.com/2026/08/07/this-filesystem-is-born-to-fail/) |
 | 2026-08-07 | Hacking a $6000 Cotton Candy Machine to Fully Control It | Hackaday | [link](https://hackaday.com/2026/08/07/hacking-a-6000-cotton-candy-machine-to-fully-control-it/) |
 | 2026-08-07 | Chernobyl’s Robots, or the Hackathon From Hell | Hackaday | [link](https://hackaday.com/2026/08/07/chernobyls-robots-or-the-hackathon-from-hell/) |
 | 2026-08-07 | Hackaday Podcast Episode 381: Airless Tires, Full-color Prints, and 28 MW of LEDs | Hackaday | [link](https://hackaday.com/2026/08/07/hackaday-podcast-episode-381-airless-tires-full-color-prints-and-28-mw-of-leds/) |
 | 2026-08-07 | Music is Back on Optical Disk in This Plex Server | Hackaday | [link](https://hackaday.com/2026/08/07/music-is-back-on-optical-disk-in-this-plex-server/) |
-| 2026-08-07 | This Week in Security: Claude Gets Hacking, Hotel WiFi, and NPM Compromised Again | Hackaday | [link](https://hackaday.com/2026/08/07/this-week-in-security-claude-gets-hacking-hotel-wifi-and-npm-compromised-again/) |
 | 2026-08-07 | GEEKOM IT13 Max mini PC review – Part 1: specifications, unboxing, teardown, and first boot | CNX Software | [link](https://www.cnx-software.com/2026/08/07/geekom-it13-max-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/) |
 | 2026-08-07 | Token Monitor – An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/) |
 | 2026-08-07 | Proxmox VE now officially supports 64-bit Arm (Aarch64) targets | CNX Software | [link](https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/) |
@@ -86,7 +86,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-08 | sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0) |
 | 2026-08-08 | sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-08 | geonmin-kim/VLA-JEPA-3B-SO101-D6231-step5000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-step5000) |
-| 2026-08-08 | nosuke113/parc2026-policy | 0 | 0 | [link](https://huggingface.co/nosuke113/parc2026-policy) |
+| 2026-08-08 | yhc2222/tsp_policy_llama8b_step_r64_checkpoint_tokengen | 0 | 0 | [link](https://huggingface.co/yhc2222/tsp_policy_llama8b_step_r64_checkpoint_tokengen) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -97,10 +97,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | RLinf/RLinf | 4478 | Python | 1791.3 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3870 | Rust | 1548.1 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 482 | HTML | 192.9 | [link](https://github.com/sou350121/VLA-Handbook) |
+| syswonder/robonix | 314 | Rust | 125.7 | [link](https://github.com/syswonder/robonix) |
 | vllm-project/vllm-omni | 5950 | Python | 2380.1 | [link](https://github.com/vllm-project/vllm-omni) |
 | OpenHUTB/hutb | 567 | C++ | 226.9 | [link](https://github.com/OpenHUTB/hutb) |
-| NVIDIA/skills | 2817 | Python | 1126.9 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1442 | Rust | 576.9 | [link](https://github.com/copper-project/copper-rs) |
+| DexForce/EmbodiChain | 206 | Python | 82.5 | [link](https://github.com/DexForce/EmbodiChain) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,7 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-06 | 36Kr Exclusive: Tsinghua-affiliated Physical AI Infrastructure Startup Secures Tens of Millions of US Dollars in New Financing Round, Global Large-scale Delivery of Its Data Equipment Launches - 36 Kr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02LXEyc0pZcHU3S3ptaVZzM1E3UVFESk8xa2I0bnI0eF9wQWFLOEhnTVJuS2VfV3U4d21zQnNSeTg1X1hDeTdVSXl2NXh5WUpWV2Vj?oc=5) |
+| 2026-08-06 | 36Kr Exclusive: Tsinghua-affiliated Physical AI Infrastructure Startup Secures Tens of Millions of US Dollars in New Financing Round, Global Large-scale Delivery of Its Data Equipment Launches - eu.36kr.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02LXEyc0pZcHU3S3ptaVZzM1E3UVFESk8xa2I0bnI0eF9wQWFLOEhnTVJuS2VfV3U4d21zQnNSeTg1X1hDeTdVSXl2NXh5WUpWV2Vj?oc=5) |
 | 2026-08-06 | Unitree's Shanghai IPO Sets the First Real Valuation in Humanoid Robotics - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0phRVp0ZE9Vc3E1VFdfSGg3LTI2OHBwNGYtejNWdzEzLTBPcVpMVlhYaTAwMkZsS3J1RERQT2FGMlhlTjVBdlRpb1MzNlpEczUzRm1YOVQ3cS1fWFpuQkFyZ3RscWRxSGV0dThVekdpNU5tZjZOUXVIZGFIUWQtTi1kQ3FXQ3psd3hmRGR0X2EtRGM3VXRjVkNzcEd2UXpxMnc?oc=5) |
 | 2026-08-06 | AI robot startup challenging future of warfare - Caliber.Az | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE8yRW4zTzBaX0dCUmc1Qk1xY2N3ZTdxYnJvaHdEaExMTklLU2J5Z2JSaG93dzAxT0JITERoenRQM20tWmtKUGR1YkNCaHJjVU82NXF4SXRTOWV0V2dwSVQtay0wd3FPX3ZqWHpaQ0t0cEd1dWJJb0VaWXpxS2FnZw?oc=5) |
 | 2026-08-05 | Shelfmark raises $3.5M to scale physical AI and hire in Pittsburgh - Technical.ly | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0RmRnJhX2tKTzVpOTl3U2JYT3lUVHRuSER0MDdZdzRsRmtmamR0RU1zcDFfQWxjOE5VUEtDYV83X3BWSGFLMGxCYjVuT0QyREpIOGh4RS1rSG0tai0zaUR6Tk9MQTJaYmxGXzRiUjdpMFcxYnhTQWYzRWprQ0hubDdZNFk1RGFKOTh0UHhUSHYtZw?oc=5) |
