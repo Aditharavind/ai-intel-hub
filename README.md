@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-08 08:23 UTC
+Last Updated: 2026-08-08 09:24 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -79,12 +79,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-08-08 | locht131/gr00t_fa_robotwin_2hand_quat_s35k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_s35k_bs32) |
 | 2026-08-08 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-08-08 | sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-08 | sam-guided-vlas/train_1_2__no_mask__pi05__seed_0 | 5 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0) |
+| 2026-08-08 | sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-08 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
 | 2026-08-08 | mertalbaba/humanoid-vla-checkpoints | 0 | 0 | [link](https://huggingface.co/mertalbaba/humanoid-vla-checkpoints) |
 | 2026-08-08 | ISdept/wiltechs-vla-moe-36k | 9 | 0 | [link](https://huggingface.co/ISdept/wiltechs-vla-moe-36k) |
-| 2026-08-08 | sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0) |
-| 2026-08-08 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
-| 2026-08-08 | sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-08 | n5zhong/trace_vla_single | 0 | 0 | [link](https://huggingface.co/n5zhong/trace_vla_single) |
 | 2026-08-08 | yuuu94/W2-VLA | 0 | 1 | [link](https://huggingface.co/yuuu94/W2-VLA) |
 
@@ -92,15 +92,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | awslabs/awsome-distributed-ai | 468 | Shell | 187.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63363 | Python | 25345.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63365 | Python | 25346.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15640 | C++ | 6256.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| kornia/kornia | 11310 | Python | 4524.1 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7858 | Python | 3143.3 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4481 | Python | 1792.5 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3870 | Rust | 1548.1 | [link](https://github.com/dora-rs/dora) |
+| flashrt-project/FlashRT | 495 | C++ | 198.1 | [link](https://github.com/flashrt-project/FlashRT) |
 | sou350121/VLA-Handbook | 482 | HTML | 192.9 | [link](https://github.com/sou350121/VLA-Handbook) |
 | luohongk/Embodied-AI-Daily | 407 | HTML | 162.9 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| syswonder/robonix | 314 | Rust | 125.7 | [link](https://github.com/syswonder/robonix) |
-| vllm-project/vllm-omni | 5953 | Python | 2381.3 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -127,7 +127,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-05 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
 | 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
-| 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - The Business Journals | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
+| 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - bizjournals.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
 
 ## Jobs

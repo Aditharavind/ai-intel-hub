@@ -11,13 +11,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63363,
+    "stars": 63365,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-08",
     "topic": "robotics",
-    "score": 25345.3
+    "score": 25346.1
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -28,6 +28,16 @@
     "date": "2026-08-08",
     "topic": "robotics",
     "score": 6256.1
+  },
+  {
+    "repo": "kornia/kornia",
+    "stars": 11310,
+    "language": "Python",
+    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "url": "https://github.com/kornia/kornia",
+    "date": "2026-08-08",
+    "topic": "robotics",
+    "score": 4524.1
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -58,6 +68,16 @@
     "date": "2026-08-08",
     "topic": "embodied-ai",
     "score": 1548.1
+  },
+  {
+    "repo": "flashrt-project/FlashRT",
+    "stars": 495,
+    "language": "C++",
+    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
+    "url": "https://github.com/flashrt-project/FlashRT",
+    "date": "2026-08-08",
+    "topic": "vla",
+    "score": 198.1
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -91,13 +111,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5953,
+    "stars": 5954,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-08",
     "topic": "world-model",
-    "score": 2381.3
+    "score": 2381.7
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -121,13 +141,13 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 2819,
+    "stars": 2820,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-07",
     "topic": "physical-ai",
-    "score": 1127.7
+    "score": 1128.1
   },
   {
     "repo": "copper-project/copper-rs",
@@ -151,13 +171,13 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16106,
+    "stars": 16105,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 6442.5
+    "score": 6442.1
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -171,23 +191,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13067,
+    "stars": 13069,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5226.9
-  },
-  {
-    "repo": "kornia/kornia",
-    "stars": 11310,
-    "language": "Python",
-    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-    "url": "https://github.com/kornia/kornia",
-    "date": "2026-08-07",
-    "topic": "robotics",
-    "score": 4524.1
+    "score": 5227.7
   },
   {
     "repo": "rerun-io/rerun",
@@ -201,13 +211,13 @@
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2699,
+    "stars": 2700,
     "language": "Python",
     "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-08-07",
     "topic": "embodied-ai",
-    "score": 1079.7
+    "score": 1080.1
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
@@ -218,16 +228,6 @@
     "date": "2026-08-07",
     "topic": "robot-learning",
     "score": 906.5
-  },
-  {
-    "repo": "flashrt-project/FlashRT",
-    "stars": 495,
-    "language": "C++",
-    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
-    "url": "https://github.com/flashrt-project/FlashRT",
-    "date": "2026-08-07",
-    "topic": "vla",
-    "score": 198.1
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -291,13 +291,13 @@
   },
   {
     "repo": "dexmal/dexbotic",
-    "stars": 1315,
+    "stars": 1316,
     "language": "Python",
     "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
     "url": "https://github.com/dexmal/dexbotic",
     "date": "2026-08-06",
     "topic": "vla",
-    "score": 526.1
+    "score": 526.5
   },
   {
     "repo": "softmata/horus",
@@ -381,13 +381,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3046,
+    "stars": 3048,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-05",
     "topic": "embodied-ai",
-    "score": 1218.5
+    "score": 1219.3
   },
   {
     "repo": "baidu-baige/LoongForge",
@@ -421,13 +421,13 @@
   },
   {
     "repo": "PhyAgentOS-Dev/PhyAgentOS",
-    "stars": 1687,
+    "stars": 1692,
     "language": "Python",
     "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
     "url": "https://github.com/PhyAgentOS-Dev/PhyAgentOS",
     "date": "2026-08-04",
     "topic": "embodied-ai",
-    "score": 674.9
+    "score": 676.9
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
@@ -601,13 +601,13 @@
   },
   {
     "repo": "zli12321/Vision-Language-Models-Overview",
-    "stars": 689,
+    "stars": 690,
     "language": "HTML",
     "description": "A most Frontend Collection and survey of vision-language model papers, and models GitHub repository. Continuous updates.",
     "url": "https://github.com/zli12321/Vision-Language-Models-Overview",
     "date": "2026-07-29",
     "topic": "world-model",
-    "score": 275.7
+    "score": 276.1
   },
   {
     "repo": "humanoidworkbench/Humanoid-Workbench",
