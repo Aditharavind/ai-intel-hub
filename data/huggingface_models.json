@@ -1,5 +1,14 @@
 [
   {
+    "model": "milab-robot/alm1-0724-milab",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/milab-robot/alm1-0724-milab",
+    "date": "2026-08-08",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "Pq234/MiniCPM-RobotManip",
     "downloads": 0,
     "likes": 0,
@@ -36,6 +45,24 @@
     "score": 1.6
   },
   {
+    "model": "sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-08",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-08",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "geonmin-kim/VLA-JEPA-3B-SO101-D6231-step10000",
     "downloads": 0,
     "likes": 0,
@@ -67,24 +94,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-Mdrift-step5000",
-    "date": "2026-08-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-08",
     "keyword": "vla",
     "score": 0.1
@@ -229,15 +238,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/RobotisSW/dispose_general_waste_1_byGrootModel_80000",
-    "date": "2026-08-07",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/dispose_general_waste_1_byGrootModel",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/dispose_general_waste_1_byGrootModel",
     "date": "2026-08-07",
     "keyword": "robot",
     "score": 0.1

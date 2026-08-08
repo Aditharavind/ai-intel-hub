@@ -11,23 +11,23 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63367,
+    "stars": 63368,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-08",
     "topic": "robotics",
-    "score": 25346.9
+    "score": 25347.3
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15640,
+    "stars": 15641,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-08",
     "topic": "robotics",
-    "score": 6256.1
+    "score": 6256.5
   },
   {
     "repo": "kornia/kornia",
@@ -68,6 +68,16 @@
     "date": "2026-08-08",
     "topic": "embodied-ai",
     "score": 1548.1
+  },
+  {
+    "repo": "RoboTwin-Platform/RoboTwin",
+    "stars": 2700,
+    "language": "Python",
+    "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
+    "url": "https://github.com/RoboTwin-Platform/RoboTwin",
+    "date": "2026-08-08",
+    "topic": "embodied-ai",
+    "score": 1080.1
   },
   {
     "repo": "flashrt-project/FlashRT",
@@ -111,13 +121,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5955,
+    "stars": 5956,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-08",
     "topic": "world-model",
-    "score": 2382.1
+    "score": 2382.5
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -138,6 +148,16 @@
     "date": "2026-08-08",
     "topic": "robot-learning",
     "score": 82.5
+  },
+  {
+    "repo": "roboninecom/SO-ARM100-101-Parallel-Gripper",
+    "stars": 159,
+    "language": "Python",
+    "description": "3D-printed parallel gripper compatible with Feetech STS3215 and Waveshare ST3215 servos. Ready-to-use solution for the SO-ARM 100/SO-ARM 101.",
+    "url": "https://github.com/roboninecom/SO-ARM100-101-Parallel-Gripper",
+    "date": "2026-08-08",
+    "topic": "lerobot",
+    "score": 63.7
   },
   {
     "repo": "NVIDIA/skills",
@@ -191,13 +211,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13076,
+    "stars": 13079,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5230.5
+    "score": 5231.7
   },
   {
     "repo": "rerun-io/rerun",
@@ -210,24 +230,14 @@
     "score": 4504.9
   },
   {
-    "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2700,
-    "language": "Python",
-    "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
-    "url": "https://github.com/RoboTwin-Platform/RoboTwin",
-    "date": "2026-08-07",
-    "topic": "embodied-ai",
-    "score": 1080.1
-  },
-  {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2268,
+    "stars": 2269,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-07",
     "topic": "robot-learning",
-    "score": 907.3
+    "score": 907.7
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -351,23 +361,23 @@
   },
   {
     "repo": "eust-w/amd-bigym-3dgs-rocm",
-    "stars": 28,
+    "stars": 29,
     "language": "Python",
     "description": "AMD Radeon ROCm reproduction of the DL3DV commercial-kitchen 3DGS shell for BiGym/MuJoCo, with verified W7900D artifacts.",
     "url": "https://github.com/eust-w/amd-bigym-3dgs-rocm",
     "date": "2026-08-06",
     "topic": "lerobot",
-    "score": 11.3
+    "score": 11.7
   },
   {
     "repo": "NVlabs/alpamayo",
-    "stars": 1976,
+    "stars": 1977,
     "language": "Python",
     "description": "NVIDIA Alpamayo 1 Nano is an open 10B reasoning VLA model for autonomous vehicles that pairs driving trajectories with Chain-of-Causation reasoning.",
     "url": "https://github.com/NVlabs/alpamayo",
     "date": "2026-08-05",
     "topic": "vla",
-    "score": 790.5
+    "score": 790.9
   },
   {
     "repo": "NVlabs/alpamayo1.5",
@@ -421,13 +431,13 @@
   },
   {
     "repo": "PhyAgentOS-Dev/PhyAgentOS",
-    "stars": 1694,
+    "stars": 1695,
     "language": "Python",
     "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
     "url": "https://github.com/PhyAgentOS-Dev/PhyAgentOS",
     "date": "2026-08-04",
     "topic": "embodied-ai",
-    "score": 677.7
+    "score": 678.1
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
@@ -531,23 +541,23 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15312,
+    "stars": 15313,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6124.9
+    "score": 6125.3
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 291,
+    "stars": 292,
     "language": "",
     "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
     "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
     "date": "2026-08-02",
     "topic": "robot-learning",
-    "score": 116.5
+    "score": 116.9
   },
   {
     "repo": "aalmuzairee/squint",
@@ -758,16 +768,6 @@
     "date": "2026-07-22",
     "topic": "lerobot",
     "score": 64.5
-  },
-  {
-    "repo": "roboninecom/SO-ARM100-101-Parallel-Gripper",
-    "stars": 159,
-    "language": "Python",
-    "description": "3D-printed parallel gripper compatible with Feetech STS3215 and Waveshare ST3215 servos. Ready-to-use solution for the SO-ARM 100/SO-ARM 101.",
-    "url": "https://github.com/roboninecom/SO-ARM100-101-Parallel-Gripper",
-    "date": "2026-07-22",
-    "topic": "lerobot",
-    "score": 63.7
   },
   {
     "repo": "JereoZero/so101-real",
