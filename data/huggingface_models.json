@@ -18,22 +18,31 @@
     "score": 0.3
   },
   {
-    "model": "ISdept/wiltechs-vla-moe-36k",
-    "downloads": 8,
-    "likes": 0,
-    "url": "https://huggingface.co/ISdept/wiltechs-vla-moe-36k",
-    "date": "2026-08-08",
-    "keyword": "vla",
-    "score": 2.5
-  },
-  {
     "model": "sam-guided-vlas/train_1_2__no_mask__pi05__seed_0",
-    "downloads": 4,
+    "downloads": 5,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0",
     "date": "2026-08-08",
     "keyword": "vla",
-    "score": 1.3
+    "score": 1.6
+  },
+  {
+    "model": "mertalbaba/humanoid-vla-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mertalbaba/humanoid-vla-checkpoints",
+    "date": "2026-08-08",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "ISdept/wiltechs-vla-moe-36k",
+    "downloads": 9,
+    "likes": 0,
+    "url": "https://huggingface.co/ISdept/wiltechs-vla-moe-36k",
+    "date": "2026-08-08",
+    "keyword": "vla",
+    "score": 2.8
   },
   {
     "model": "sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0",
@@ -145,12 +154,12 @@
   },
   {
     "model": "HarrisonPENG/M2W-VLA-RoboTwin",
-    "downloads": 405,
+    "downloads": 407,
     "likes": 0,
     "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
     "date": "2026-08-07",
     "keyword": "robot",
-    "score": 121.6
+    "score": 122.2
   },
   {
     "model": "RobotisSW/Dispose_general_waste_low_table_byGrootModel_80K",
@@ -216,15 +225,6 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-07",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "knightnemo/robocl-ogbench-mlp-world-model",
     "downloads": 0,
     "likes": 0,
@@ -271,12 +271,12 @@
   },
   {
     "model": "physicalairi/so101_1200ep_pi05",
-    "downloads": 0,
+    "downloads": 6,
     "likes": 0,
     "url": "https://huggingface.co/physicalairi/so101_1200ep_pi05",
     "date": "2026-08-07",
     "keyword": "physical ai",
-    "score": 0.1
+    "score": 1.9
   },
   {
     "model": "InukaSilva/duck_policy_v2",
@@ -334,12 +334,12 @@
   },
   {
     "model": "parth-1/metaguard-policy-agent-v1",
-    "downloads": 76,
+    "downloads": 89,
     "likes": 1,
     "url": "https://huggingface.co/parth-1/metaguard-policy-agent-v1",
     "date": "2026-08-07",
     "keyword": "policy",
-    "score": 23.1
+    "score": 27.0
   },
   {
     "model": "Yewy/rollout_mahjong_table_pickup_finetune_v1_policy",
@@ -379,12 +379,12 @@
   },
   {
     "model": "aria220/Xiaomi-Robotics-1-RoboCasa",
-    "downloads": 0,
+    "downloads": 1,
     "likes": 0,
     "url": "https://huggingface.co/aria220/Xiaomi-Robotics-1-RoboCasa",
     "date": "2026-08-06",
     "keyword": "robotics",
-    "score": 0.1
+    "score": 0.4
   },
   {
     "model": "flashrt/world-model-conv",
@@ -415,39 +415,39 @@
   },
   {
     "model": "Fleurrr/Prophet-World-Model",
-    "downloads": 23,
+    "downloads": 35,
     "likes": 0,
     "url": "https://huggingface.co/Fleurrr/Prophet-World-Model",
     "date": "2026-08-05",
     "keyword": "world model",
-    "score": 7.0
+    "score": 10.6
   },
   {
     "model": "physicalairi/so101_1200ep_smolvla",
-    "downloads": 3,
+    "downloads": 33,
     "likes": 0,
     "url": "https://huggingface.co/physicalairi/so101_1200ep_smolvla",
     "date": "2026-08-05",
     "keyword": "physical ai",
-    "score": 1.0
+    "score": 10.0
   },
   {
     "model": "physicalairi/so101_1200ep_groot17_20260805",
-    "downloads": 5,
+    "downloads": 7,
     "likes": 0,
     "url": "https://huggingface.co/physicalairi/so101_1200ep_groot17_20260805",
     "date": "2026-08-05",
     "keyword": "physical ai",
-    "score": 1.6
+    "score": 2.2
   },
   {
     "model": "physicalairi/so101_1200ep_pi05_20260805",
-    "downloads": 7,
+    "downloads": 9,
     "likes": 0,
     "url": "https://huggingface.co/physicalairi/so101_1200ep_pi05_20260805",
     "date": "2026-08-05",
     "keyword": "physical ai",
-    "score": 2.2
+    "score": 2.8
   },
   {
     "model": "TechnoBaptist/Xiaomi-Robotics-1-RoboCasa365",
@@ -577,12 +577,12 @@
   },
   {
     "model": "access-robotics-team/so-p5-pp-ma-260731-v2",
-    "downloads": 20,
+    "downloads": 28,
     "likes": 0,
     "url": "https://huggingface.co/access-robotics-team/so-p5-pp-ma-260731-v2",
     "date": "2026-07-31",
     "keyword": "robotics",
-    "score": 6.1
+    "score": 8.5
   },
   {
     "model": "access-robotics-team/so-p5-pp-ma-260731",
@@ -613,21 +613,21 @@
   },
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-1-VLABench",
-    "downloads": 13,
+    "downloads": 17,
     "likes": 3,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-VLABench",
     "date": "2026-07-28",
     "keyword": "robotics",
-    "score": 4.6
+    "score": 5.8
   },
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365",
-    "downloads": 23,
+    "downloads": 36,
     "likes": 7,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365",
     "date": "2026-07-28",
     "keyword": "robotics",
-    "score": 8.4
+    "score": 12.3
   },
   {
     "model": "arendjan/physical-ai-studio-environment-tar",
@@ -703,12 +703,12 @@
   },
   {
     "model": "SEU-PAISys/Embodied.cpp",
-    "downloads": 694,
+    "downloads": 689,
     "likes": 4,
     "url": "https://huggingface.co/SEU-PAISys/Embodied.cpp",
     "date": "2026-07-19",
     "keyword": "embodied",
-    "score": 209.1
+    "score": 207.6
   },
   {
     "model": "sasa2000/Hy-Embodied-VLM-1.0-Text-Only",
@@ -757,21 +757,21 @@
   },
   {
     "model": "zhijieq/houseexpo-navigation-policy",
-    "downloads": 11,
+    "downloads": 8,
     "likes": 0,
     "url": "https://huggingface.co/zhijieq/houseexpo-navigation-policy",
     "date": "2026-07-08",
     "keyword": "navigation",
-    "score": 3.4
+    "score": 2.5
   },
   {
     "model": "zhijieq/houseexpo-navigation-env",
-    "downloads": 5,
+    "downloads": 4,
     "likes": 0,
     "url": "https://huggingface.co/zhijieq/houseexpo-navigation-env",
     "date": "2026-07-08",
     "keyword": "navigation",
-    "score": 1.6
+    "score": 1.3
   },
   {
     "model": "cy0307/ag-habitat-navigation",
