@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-08 19:19 UTC
+Last Updated: 2026-08-08 20:13 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-08 | Grading Tomatoes with an ESP32 and ML | Hackaday | [link](https://hackaday.com/2026/08/08/grading-tomatoes-with-an-esp32-and-ml/) |
 | 2026-08-08 | Robotic Screw and Bolt Sorter Seeks a New Challenge | Hackaday | [link](https://hackaday.com/2026/08/08/robotic-screw-and-bolt-sorter-seeks-a-new-challenge/) |
 | 2026-08-08 | Junkbin, a Way to Efficiently Reuse Your Old Electronics | Hackaday | [link](https://hackaday.com/2026/08/08/junkbin-a-way-to-efficiently-reuse-your-old-electronics/) |
 | 2026-08-08 | Tim Hunkin’s History Of Arcade Machines | Hackaday | [link](https://hackaday.com/2026/08/08/tim-hunkins-history-of-arcade-machines/) |
@@ -57,7 +58,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-08 | Block, shmock — Just Pump Water Over The Chip | Hackaday | [link](https://hackaday.com/2026/08/07/block-shmock-just-pump-water-over-the-chip/) |
 | 2026-08-08 | LILYGO T-Echo Card – A weatherproof, solar-powered, nRF52840-based LoRa + GPS development kit | CNX Software | [link](https://www.cnx-software.com/2026/08/08/lilygo-t-echo-card-a-weatherproof-solar-powered-nrf52840-based-lora-gps-development-kit/) |
 | 2026-08-08 | Happy International Cat Day 2026 🌎🐈 #CatsofEngineering #WorldCatDay | Adafruit | [link](https://blog.adafruit.com/2026/08/08/happy-international-cat-day-2026-%f0%9f%8c%8e%f0%9f%90%88-catsofengineering-worldcatday/) |
-| 2026-08-07 | This Filesystem is Born to Fail | Hackaday | [link](https://hackaday.com/2026/08/07/this-filesystem-is-born-to-fail/) |
 | 2026-08-07 | GEEKOM IT13 Max mini PC review – Part 1: specifications, unboxing, teardown, and first boot | CNX Software | [link](https://www.cnx-software.com/2026/08/07/geekom-it13-max-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/) |
 
 ## New Research Papers
