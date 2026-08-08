@@ -1,13 +1,23 @@
 [
   {
+    "repo": "awslabs/awsome-distributed-ai",
+    "stars": 468,
+    "language": "Shell",
+    "description": "Collection of best practices, reference architectures, model training examples and utilities to train large models on AWS. ",
+    "url": "https://github.com/awslabs/awsome-distributed-ai",
+    "date": "2026-08-08",
+    "topic": "physical-ai",
+    "score": 187.3
+  },
+  {
     "repo": "commaai/openpilot",
-    "stars": 63360,
+    "stars": 63361,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-08",
     "topic": "robotics",
-    "score": 25344.1
+    "score": 25344.5
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -31,13 +41,13 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4478,
+    "stars": 4479,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1791.3
+    "score": 1791.7
   },
   {
     "repo": "dora-rs/dora",
@@ -60,6 +70,16 @@
     "score": 192.9
   },
   {
+    "repo": "luohongk/Embodied-AI-Daily",
+    "stars": 406,
+    "language": "HTML",
+    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
+    "url": "https://github.com/luohongk/Embodied-AI-Daily",
+    "date": "2026-08-08",
+    "topic": "vla",
+    "score": 162.5
+  },
+  {
     "repo": "syswonder/robonix",
     "stars": 314,
     "language": "Rust",
@@ -71,13 +91,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5950,
+    "stars": 5951,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-08",
     "topic": "world-model",
-    "score": 2380.1
+    "score": 2380.5
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -101,13 +121,13 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 2817,
+    "stars": 2818,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-07",
     "topic": "physical-ai",
-    "score": 1126.9
+    "score": 1127.3
   },
   {
     "repo": "copper-project/copper-rs",
@@ -130,16 +150,6 @@
     "score": 359.3
   },
   {
-    "repo": "awslabs/awsome-distributed-ai",
-    "stars": 468,
-    "language": "Shell",
-    "description": "Collection of best practices, reference architectures, model training examples and utilities to train large models on AWS. ",
-    "url": "https://github.com/awslabs/awsome-distributed-ai",
-    "date": "2026-08-07",
-    "topic": "physical-ai",
-    "score": 187.3
-  },
-  {
     "repo": "zauberzeug/nicegui",
     "stars": 16105,
     "language": "Python",
@@ -151,23 +161,23 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14480,
+    "stars": 14481,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5792.1
+    "score": 5792.5
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13061,
+    "stars": 13062,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5224.5
+    "score": 5224.9
   },
   {
     "repo": "kornia/kornia",
@@ -181,13 +191,13 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11261,
+    "stars": 11262,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 4504.5
+    "score": 4504.9
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
@@ -201,33 +211,23 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2264,
+    "stars": 2265,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-07",
     "topic": "robot-learning",
-    "score": 905.7
+    "score": 906.1
   },
   {
     "repo": "flashrt-project/FlashRT",
-    "stars": 494,
+    "stars": 495,
     "language": "C++",
     "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
     "url": "https://github.com/flashrt-project/FlashRT",
     "date": "2026-08-07",
     "topic": "vla",
-    "score": 197.7
-  },
-  {
-    "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 405,
-    "language": "HTML",
-    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
-    "url": "https://github.com/luohongk/Embodied-AI-Daily",
-    "date": "2026-08-07",
-    "topic": "vla",
-    "score": 162.1
+    "score": 198.1
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -291,13 +291,13 @@
   },
   {
     "repo": "dexmal/dexbotic",
-    "stars": 1313,
+    "stars": 1314,
     "language": "Python",
     "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
     "url": "https://github.com/dexmal/dexbotic",
     "date": "2026-08-06",
     "topic": "vla",
-    "score": 525.3
+    "score": 525.7
   },
   {
     "repo": "softmata/horus",
@@ -381,13 +381,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3042,
+    "stars": 3043,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-05",
     "topic": "embodied-ai",
-    "score": 1216.9
+    "score": 1217.3
   },
   {
     "repo": "baidu-baige/LoongForge",
@@ -421,13 +421,13 @@
   },
   {
     "repo": "PhyAgentOS-Dev/PhyAgentOS",
-    "stars": 1676,
+    "stars": 1681,
     "language": "Python",
     "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
     "url": "https://github.com/PhyAgentOS-Dev/PhyAgentOS",
     "date": "2026-08-04",
     "topic": "embodied-ai",
-    "score": 670.5
+    "score": 672.5
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
