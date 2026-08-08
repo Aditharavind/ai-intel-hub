@@ -9,6 +9,24 @@
     "score": 0.3
   },
   {
+    "model": "sam-guided-vlas/train_1_2__no_mask__pi05__seed_0",
+    "downloads": 4,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0",
+    "date": "2026-08-08",
+    "keyword": "vla",
+    "score": 1.3
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-08",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "B111ue/fcl-vla-baseline-recovery",
     "downloads": 0,
     "likes": 0,
@@ -20,29 +38,11 @@
   {
     "model": "yuuu94/W2-VLA",
     "downloads": 0,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/yuuu94/W2-VLA",
     "date": "2026-08-08",
     "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "yuuu94/W2-VLA-LIBERO",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/yuuu94/W2-VLA-LIBERO",
-    "date": "2026-08-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__no_mask__pi05__seed_0",
-    "downloads": 4,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0",
-    "date": "2026-08-08",
-    "keyword": "vla",
-    "score": 1.3
+    "score": 0.3
   },
   {
     "model": "sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
@@ -58,15 +58,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-08",
     "keyword": "vla",
     "score": 0.1
@@ -202,6 +193,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/OpenRAL/rskill-xr1-franka_panda-vlabench-nf4",
+    "date": "2026-08-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "erl-hub/pls-vla-action-head",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/erl-hub/pls-vla-action-head",
     "date": "2026-08-07",
     "keyword": "vla",
     "score": 0.1

@@ -1,13 +1,13 @@
 [
   {
     "repo": "commaai/openpilot",
-    "stars": 63359,
+    "stars": 63360,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-08",
     "topic": "robotics",
-    "score": 25343.7
+    "score": 25344.1
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -21,13 +21,23 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4477,
+    "stars": 4478,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1790.9
+    "score": 1791.3
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3870,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-08-08",
+    "topic": "embodied-ai",
+    "score": 1548.1
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -41,13 +51,23 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5946,
+    "stars": 5948,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-08",
     "topic": "world-model",
-    "score": 2378.5
+    "score": 2379.3
+  },
+  {
+    "repo": "OpenHUTB/hutb",
+    "stars": 567,
+    "language": "C++",
+    "description": "人车模拟器（Human-vehicle Simulator）",
+    "url": "https://github.com/OpenHUTB/hutb",
+    "date": "2026-08-08",
+    "topic": "humanoid",
+    "score": 226.9
   },
   {
     "repo": "NVIDIA/skills",
@@ -111,13 +131,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13049,
+    "stars": 13052,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5219.7
+    "score": 5220.9
   },
   {
     "repo": "kornia/kornia",
@@ -150,34 +170,24 @@
     "score": 3142.9
   },
   {
-    "repo": "dora-rs/dora",
-    "stars": 3870,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-08-07",
-    "topic": "embodied-ai",
-    "score": 1548.1
-  },
-  {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2698,
+    "stars": 2699,
     "language": "Python",
     "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-08-07",
     "topic": "embodied-ai",
-    "score": 1079.3
+    "score": 1079.7
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2263,
+    "stars": 2264,
     "language": "",
     "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-07",
     "topic": "robot-learning",
-    "score": 905.3
+    "score": 905.7
   },
   {
     "repo": "flashrt-project/FlashRT",
@@ -281,23 +291,13 @@
   },
   {
     "repo": "dexmal/dexbotic",
-    "stars": 1303,
+    "stars": 1306,
     "language": "Python",
     "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
     "url": "https://github.com/dexmal/dexbotic",
     "date": "2026-08-06",
     "topic": "vla",
-    "score": 521.3
-  },
-  {
-    "repo": "OpenHUTB/hutb",
-    "stars": 567,
-    "language": "C++",
-    "description": "人车模拟器（Human-vehicle Simulator）",
-    "url": "https://github.com/OpenHUTB/hutb",
-    "date": "2026-08-06",
-    "topic": "humanoid",
-    "score": 226.9
+    "score": 522.5
   },
   {
     "repo": "softmata/horus",
@@ -491,13 +491,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30262,
+    "stars": 30261,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-08-03",
     "topic": "robotics",
-    "score": 12104.9
+    "score": 12104.5
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -521,23 +521,23 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 2108,
+    "stars": 2107,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-08-03",
     "topic": "world-model",
-    "score": 843.3
+    "score": 842.9
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15308,
+    "stars": 15310,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6123.3
+    "score": 6124.1
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
