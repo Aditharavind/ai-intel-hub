@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-08 18:17 UTC
+Last Updated: 2026-08-08 19:19 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -61,11 +61,23 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-07 | GEEKOM IT13 Max mini PC review – Part 1: specifications, unboxing, teardown, and first boot | CNX Software | [link](https://www.cnx-software.com/2026/08/07/geekom-it13-max-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-08-06 | $ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation | [link](https://arxiv.org/pdf/2608.06375v1) |
+| 2026-08-06 | DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation | [link](https://arxiv.org/pdf/2608.06374v1) |
+| 2026-08-06 | A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber | [link](https://arxiv.org/pdf/2608.06354v1) |
+| 2026-08-06 | GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions | [link](https://arxiv.org/pdf/2608.06332v1) |
+| 2026-08-06 | Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors | [link](https://arxiv.org/pdf/2608.06300v1) |
+| 2026-08-06 | RxnCLF: Contrastive Transformation-Aware Reaction Foundation Model for Improved Reactivity Prediction | [link](https://arxiv.org/pdf/2608.06259v1) |
+| 2026-08-06 | MASS: Multiplayer World Models with Authoritative Shared State | [link](https://arxiv.org/pdf/2608.06257v1) |
+| 2026-08-06 | A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance | [link](https://arxiv.org/pdf/2608.06246v1) |
+| 2026-08-06 | From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks | [link](https://arxiv.org/pdf/2608.06227v1) |
+| 2026-08-06 | Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation | [link](https://arxiv.org/pdf/2608.06221v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-08 | ziyin123/robotwin2_240k | 0 | 0 | [link](https://huggingface.co/ziyin123/robotwin2_240k) |
 | 2026-08-08 | milab-robot/alm1-0731-milab | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab) |
 | 2026-08-08 | locht131/gr00t_fa_robotwin_2hand_quat_tune_visual_s35k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_tune_visual_s35k_bs32) |
 | 2026-08-08 | Myungkyu/hiwrld-baseline-ckpts-real-robot | 0 | 0 | [link](https://huggingface.co/Myungkyu/hiwrld-baseline-ckpts-real-robot) |
@@ -75,7 +87,6 @@ _No items collected yet._
 | 2026-08-08 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-08 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
 | 2026-08-08 | sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0) |
-| 2026-08-08 | khoavucao2511/so101_vla_jepa_08_08_26_v1 | 0 | 0 | [link](https://huggingface.co/khoavucao2511/so101_vla_jepa_08_08_26_v1) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -83,13 +94,13 @@ _No items collected yet._
 | copper-project/copper-rs | 1442 | Rust | 576.9 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 468 | Shell | 187.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 310 | Python | 124.1 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 63370 | Python | 25348.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63369 | Python | 25347.7 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30264 | Python | 12105.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | ArduPilot/ardupilot | 15645 | C++ | 6258.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11311 | Python | 4524.5 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7860 | Python | 3144.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4481 | Python | 1792.5 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3869 | Rust | 1547.7 | [link](https://github.com/dora-rs/dora) |
-| datawhalechina/every-embodied | 3050 | Python | 1220.1 | [link](https://github.com/datawhalechina/every-embodied) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -114,10 +125,10 @@ _No items collected yet._
 | 2026-08-05 | Embodied-AI data infrastructure startup Kaiwang Data raises more than RMB100 million - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEQ1d1ItMXdNMGFZc01vd3NXU1Q4MENTXzNXRVZoVzlrNENpV1d2MXM5NEstOHBsTkxPdF9IWnNJMWg2blpBa2tQQnJYWUZHQWg0TGZ6Ym5qNzlhX2N4OG02cmtQUV9IWXZYaVVZaktIdk55YXVfOTJKS3hxaE55R3VGMEFxaFVtaHRzYmkyZGtWaVJfYXZVMmpuZXMyazU4SzNNZ0ZkaHBjcjdJVWVKVEF6OW9hcU1i?oc=5) |
 | 2026-08-05 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
-| 2026-08-03 | Physical AI's Biggest Problem? Teaching Machines How to Feel - analyticsindiamag.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFVfWXVVNVdiM0xuSlVlLXdvM1VrTVczT3REUlRQUWc0UE0xLWNiS3ZyR194ODhTaUJoVDZZMkdnc0hfVGZlTHkyVkdFZThsazRJbG5BNEhaU2JVMkpnT19vWnNyM0l4VmsxOXNQbVJXS3pILUxtRXB1ckVObi1oenBDUDNZemxnaFJNbndOZkV4ZW54U0w2dnFMekVST2J0N1E?oc=5) |
 | 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - The Business Journals | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
 | 2026-08-03 | CATL Invests in RoboParty: 22-Year-Old Harbin Institute of Technology Founder Huang Yi Steers Open-Source Full-Stack Bipedal Humanoid Startup Through 20x Valuation Growth - Pandaily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE9JSGlSLVJZS29EUWFNYkxKel93WGo1OER4cWF0NG02QzRncnhoQTBLYXNLZFkwVW5uNmxIX3BleGtGZTFMbVFWbVUwT3BmYUpGVjBSbGhNZlRrT2wxY0gydFR6enVWamFHMFJUUQ?oc=5) |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
+| 2026-07-31 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
