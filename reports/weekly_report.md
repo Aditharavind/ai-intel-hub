@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-08 22:13 UTC
+Generated: 2026-08-08 23:15 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -42,7 +42,7 @@ Generated: 2026-08-08 22:13 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-08 | CarbonSix accelerates Korea’s physical AI from PoC to mass production - CHOSUNBIZ - Chosunbiz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE40aTNmbWhmQmpyMXRUcFpIVkMwM2JOVDA3aEFtS3l1YnNiOVNmakhkejFlTjZMVWNQQXltYlY1ZXF3aC1ad0ZBVnNYRE9KMUdDQ1l6Um9aLUtlTFNucXhuX01PbFVvclM5alJxRXoyOGVZTU42QW0zb0pR0gGOAUFVX3lxTE1wekgzbzNDWWwyYmszMjZjSHZXSHgyY0xYa3VYdzE2QXpseDI4M240YmNiUTZVU0FkZndoS3BfWkhsSFE2cklRekR0dlMyZUw4SzVTdm1Gc1V4Yy0zSTRvVDllSF82TVg4SG9NU2FiQTZON3hTM0hvdmFSMmdlb1VnT0tUVk9nZGlvMEFTR0E?oc=5) |
-| 2026-08-06 | 36Kr Exclusive: Tsinghua-affiliated Physical AI Infrastructure Startup Secures Tens of Millions of US Dollars in New Financing Round, Global Large-scale Delivery of Its Data Equipment Launches - 36Kr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02LXEyc0pZcHU3S3ptaVZzM1E3UVFESk8xa2I0bnI0eF9wQWFLOEhnTVJuS2VfV3U4d21zQnNSeTg1X1hDeTdVSXl2NXh5WUpWV2Vj?oc=5) |
+| 2026-08-06 | 36Kr Exclusive: Tsinghua-affiliated Physical AI Infrastructure Startup Secures Tens of Millions of US Dollars in New Financing Round, Global Large-scale Delivery of Its Data Equipment Launches - 36 Kr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02LXEyc0pZcHU3S3ptaVZzM1E3UVFESk8xa2I0bnI0eF9wQWFLOEhnTVJuS2VfV3U4d21zQnNSeTg1X1hDeTdVSXl2NXh5WUpWV2Vj?oc=5) |
 | 2026-08-06 | AI robot startup challenging future of warfare - Caliber.Az | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE8yRW4zTzBaX0dCUmc1Qk1xY2N3ZTdxYnJvaHdEaExMTklLU2J5Z2JSaG93dzAxT0JITERoenRQM20tWmtKUGR1YkNCaHJjVU82NXF4SXRTOWV0V2dwSVQtay0wd3FPX3ZqWHpaQ0t0cEd1dWJJb0VaWXpxS2FnZw?oc=5) |
 | 2026-08-05 | Shelfmark raises $3.5M to scale physical AI and hire in Pittsburgh - Technical.ly | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0RmRnJhX2tKTzVpOTl3U2JYT3lUVHRuSER0MDdZdzRsRmtmamR0RU1zcDFfQWxjOE5VUEtDYV83X3BWSGFLMGxCYjVuT0QyREpIOGh4RS1rSG0tai0zaUR6Tk9MQTJaYmxGXzRiUjdpMFcxYnhTQWYzRWprQ0hubDdZNFk1RGFKOTh0UHhUSHYtZw?oc=5) |
 | 2026-08-05 | Embodied-AI data infrastructure startup Kaiwang Data raises more than RMB100 million - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEQ1d1ItMXdNMGFZc01vd3NXU1Q4MENTXzNXRVZoVzlrNENpV1d2MXM5NEstOHBsTkxPdF9IWnNJMWg2blpBa2tQQnJYWUZHQWg0TGZ6Ym5qNzlhX2N4OG02cmtQUV9IWXZYaVVZaktIdk55YXVfOTJKS3hxaE55R3VGMEFxaFVtaHRzYmkyZGtWaVJfYXZVMmpuZXMyazU4SzNNZ0ZkaHBjcjdJVWVKVEF6OW9hcU1i?oc=5) |
