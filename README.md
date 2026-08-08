@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-08 14:20 UTC
+Last Updated: 2026-08-08 15:15 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -82,9 +82,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-08 | Pq234/MiniCPM-RobotManip | 0 | 0 | [link](https://huggingface.co/Pq234/MiniCPM-RobotManip) |
 | 2026-08-08 | locht131/gr00t_fa_robotwin_2hand_quat_s35k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_s35k_bs32) |
 | 2026-08-08 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-08-08 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
 | 2026-08-08 | sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__blur__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-08 | khoavucao2511/so101_vla_jepa_08_08_26_v1 | 0 | 0 | [link](https://huggingface.co/khoavucao2511/so101_vla_jepa_08_08_26_v1) |
-| 2026-08-08 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
 | 2026-08-08 | sam-guided-vlas/train_1_2__no_mask__pi05__seed_0 | 5 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0) |
 | 2026-08-08 | sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
 
@@ -93,14 +93,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1442 | Rust | 576.9 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 468 | Shell | 187.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63369 | Python | 25347.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63370 | Python | 25348.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15642 | C++ | 6256.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11310 | Python | 4524.1 | [link](https://github.com/kornia/kornia) |
-| isaac-sim/IsaacLab | 7860 | Python | 3144.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| isaac-sim/IsaacLab | 7861 | Python | 3144.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4481 | Python | 1792.5 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3870 | Rust | 1548.1 | [link](https://github.com/dora-rs/dora) |
+| datawhalechina/every-embodied | 3048 | Python | 1219.3 | [link](https://github.com/datawhalechina/every-embodied) |
 | RoboTwin-Platform/RoboTwin | 2702 | Python | 1080.9 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
-| flashrt-project/FlashRT | 495 | C++ | 198.1 | [link](https://github.com/flashrt-project/FlashRT) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,7 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-06 | 36Kr Exclusive: Tsinghua-affiliated Physical AI Infrastructure Startup Secures Tens of Millions of US Dollars in New Financing Round, Global Large-scale Delivery of Its Data Equipment Launches - 36 Kr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02LXEyc0pZcHU3S3ptaVZzM1E3UVFESk8xa2I0bnI0eF9wQWFLOEhnTVJuS2VfV3U4d21zQnNSeTg1X1hDeTdVSXl2NXh5WUpWV2Vj?oc=5) |
+| 2026-08-06 | 36Kr Exclusive: Tsinghua-affiliated Physical AI Infrastructure Startup Secures Tens of Millions of US Dollars in New Financing Round, Global Large-scale Delivery of Its Data Equipment Launches - 36Kr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02LXEyc0pZcHU3S3ptaVZzM1E3UVFESk8xa2I0bnI0eF9wQWFLOEhnTVJuS2VfV3U4d21zQnNSeTg1X1hDeTdVSXl2NXh5WUpWV2Vj?oc=5) |
 | 2026-08-06 | AI robot startup challenging future of warfare - Caliber.Az | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE8yRW4zTzBaX0dCUmc1Qk1xY2N3ZTdxYnJvaHdEaExMTklLU2J5Z2JSaG93dzAxT0JITERoenRQM20tWmtKUGR1YkNCaHJjVU82NXF4SXRTOWV0V2dwSVQtay0wd3FPX3ZqWHpaQ0t0cEd1dWJJb0VaWXpxS2FnZw?oc=5) |
 | 2026-08-05 | Shelfmark raises $3.5M to scale physical AI and hire in Pittsburgh - Technical.ly | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0RmRnJhX2tKTzVpOTl3U2JYT3lUVHRuSER0MDdZdzRsRmtmamR0RU1zcDFfQWxjOE5VUEtDYV83X3BWSGFLMGxCYjVuT0QyREpIOGh4RS1rSG0tai0zaUR6Tk9MQTJaYmxGXzRiUjdpMFcxYnhTQWYzRWprQ0hubDdZNFk1RGFKOTh0UHhUSHYtZw?oc=5) |
 | 2026-08-05 | Embodied-AI data infrastructure startup Kaiwang Data raises more than RMB100 million - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEQ1d1ItMXdNMGFZc01vd3NXU1Q4MENTXzNXRVZoVzlrNENpV1d2MXM5NEstOHBsTkxPdF9IWnNJMWg2blpBa2tQQnJYWUZHQWg0TGZ6Ym5qNzlhX2N4OG02cmtQUV9IWXZYaVVZaktIdk55YXVfOTJKS3hxaE55R3VGMEFxaFVtaHRzYmkyZGtWaVJfYXZVMmpuZXMyazU4SzNNZ0ZkaHBjcjdJVWVKVEF6OW9hcU1i?oc=5) |

@@ -21,13 +21,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63369,
+    "stars": 63370,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-08",
     "topic": "robotics",
-    "score": 25347.7
+    "score": 25348.1
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -51,13 +51,13 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7860,
+    "stars": 7861,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-08-08",
     "topic": "robot-learning",
-    "score": 3144.1
+    "score": 3144.5
   },
   {
     "repo": "RLinf/RLinf",
@@ -78,6 +78,16 @@
     "date": "2026-08-08",
     "topic": "embodied-ai",
     "score": 1548.1
+  },
+  {
+    "repo": "datawhalechina/every-embodied",
+    "stars": 3048,
+    "language": "Python",
+    "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
+    "url": "https://github.com/datawhalechina/every-embodied",
+    "date": "2026-08-08",
+    "topic": "embodied-ai",
+    "score": 1219.3
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
@@ -131,13 +141,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5957,
+    "stars": 5959,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-08",
     "topic": "world-model",
-    "score": 2382.9
+    "score": 2383.7
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -181,13 +191,13 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 2820,
+    "stars": 2822,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-07",
     "topic": "physical-ai",
-    "score": 1128.1
+    "score": 1128.9
   },
   {
     "repo": "mosaico-labs/mosaico",
@@ -221,13 +231,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13085,
+    "stars": 13087,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5234.1
+    "score": 5234.9
   },
   {
     "repo": "rerun-io/rerun",
@@ -400,16 +410,6 @@
     "score": 140.9
   },
   {
-    "repo": "datawhalechina/every-embodied",
-    "stars": 3048,
-    "language": "Python",
-    "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
-    "url": "https://github.com/datawhalechina/every-embodied",
-    "date": "2026-08-05",
-    "topic": "embodied-ai",
-    "score": 1219.3
-  },
-  {
     "repo": "baidu-baige/LoongForge",
     "stars": 339,
     "language": "Python",
@@ -511,13 +511,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30263,
+    "stars": 30264,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-08-03",
     "topic": "robotics",
-    "score": 12105.3
+    "score": 12105.7
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -541,13 +541,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15313,
+    "stars": 15315,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6125.3
+    "score": 6126.1
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
@@ -611,13 +611,13 @@
   },
   {
     "repo": "zli12321/Vision-Language-Models-Overview",
-    "stars": 690,
+    "stars": 691,
     "language": "HTML",
     "description": "A most Frontend Collection and survey of vision-language model papers, and models GitHub repository. Continuous updates.",
     "url": "https://github.com/zli12321/Vision-Language-Models-Overview",
     "date": "2026-07-29",
     "topic": "world-model",
-    "score": 276.1
+    "score": 276.5
   },
   {
     "repo": "humanoidworkbench/Humanoid-Workbench",
@@ -691,23 +691,23 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13669,
+    "stars": 13670,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-07-25",
     "topic": "robotics",
-    "score": 5467.7
+    "score": 5468.1
   },
   {
     "repo": "thu-ml/Causal-Forcing",
-    "stars": 912,
+    "stars": 913,
     "language": "Python",
     "description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\" & Causal Forcing++",
     "url": "https://github.com/thu-ml/Causal-Forcing",
     "date": "2026-07-23",
     "topic": "world-model",
-    "score": 364.9
+    "score": 365.3
   },
   {
     "repo": "Matrixchung/iFOC",
@@ -781,13 +781,13 @@
   },
   {
     "repo": "nv-tlabs/lyra",
-    "stars": 2217,
+    "stars": 2218,
     "language": "Python",
     "description": "Project Lyra: Open Generative 3D World Models",
     "url": "https://github.com/nv-tlabs/lyra",
     "date": "2026-07-20",
     "topic": "world-model",
-    "score": 886.9
+    "score": 887.3
   },
   {
     "repo": "OpenDriveLab/WorldEngine",
@@ -821,13 +821,13 @@
   },
   {
     "repo": "hzxie/DynamicVLA",
-    "stars": 319,
+    "stars": 320,
     "language": "Python",
     "description": "The official implementation of \"DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation\". (arXiv 2601.22153)",
     "url": "https://github.com/hzxie/DynamicVLA",
     "date": "2026-07-13",
     "topic": "vla",
-    "score": 127.7
+    "score": 128.1
   },
   {
     "repo": "nicklashansen/tdmpc2",
