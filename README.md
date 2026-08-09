@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-09 12:20 UTC
+Last Updated: 2026-08-09 13:39 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-09 | Analog Devices returns as strategic sponsor to aid MassRobotics startups | Robotics Business Review | [link](https://www.therobotreport.com/analog-devices-returns-strategic-sponsor-aid-massrobotics-startups/) |
 | 2026-08-08 | Experts look ahead at the next 20 years of robotics at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/experts-look-ahead-at-the-next-20-years-of-robotics-at-robobusiness/) |
 | 2026-08-07 | Video Friday: Drones Go Heavy in DARPA Lift Challenge | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-heavy-lift-drone) |
 | 2026-08-07 | Avatar Robotics raises seed round to address industrial labor constraints | Robotics Business Review | [link](https://www.therobotreport.com/avatar-robotics-raises-6-5-m-seed-round-address-industrial-labor-constraints/) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-06 | Report looks at advances in autonomous mobile robots | Robotics Business Review | [link](https://www.therobotreport.com/report-looks-at-advances-in-autonomous-mobile-robots/) |
 | 2026-08-06 | How Robin, the robotic companion, keeps patients calm during hospital visits | Robotics Business Review | [link](https://www.therobotreport.com/how-robin-robotic-companion-keeps-patients-calm-during-hospital-visits/) |
 | 2026-08-06 | Into the Omniverse: How Open World Models Push the Frontier of Physical AI | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/open-world-models-physical-ai/) |
-| 2026-08-05 | Moove raises $250M to build infrastructure for autonomous vehicles | Robotics Business Review | [link](https://www.therobotreport.com/moove-raises-250m-to-build-infrastructure-for-autonomous-vehicles/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-09 | Myungkyu/hiwrld-baseline-ckpts-real-robot | 0 | 0 | [link](https://huggingface.co/Myungkyu/hiwrld-baseline-ckpts-real-robot) |
 | 2026-08-09 | wanderly0501/Llama-3.1-8B-no-robots-finetuned | 0 | 0 | [link](https://huggingface.co/wanderly0501/Llama-3.1-8B-no-robots-finetuned) |
 | 2026-08-09 | locht131/gr00t_fa_robotwin_3tasks_2hand_quat_s30k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_3tasks_2hand_quat_s30k_bs32) |
 | 2026-08-09 | locht131/gr00t_robotwin_3task_2hand_quat_s30k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_robotwin_3task_2hand_quat_s30k_bs32) |
 | 2026-08-09 | logits/pi05_baseline_robotwin | 0 | 0 | [link](https://huggingface.co/logits/pi05_baseline_robotwin) |
 | 2026-08-09 | polarisai-robots/bento_v2_openarm_pi05 | 39 | 0 | [link](https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05) |
+| 2026-08-09 | UNIC0RN-Zhu/universal-three-scene-sensor-policy-vla-v6 | 0 | 0 | [link](https://huggingface.co/UNIC0RN-Zhu/universal-three-scene-sensor-policy-vla-v6) |
+| 2026-08-09 | vlabki/mg-v4-finisher | 0 | 0 | [link](https://huggingface.co/vlabki/mg-v4-finisher) |
 | 2026-08-09 | whosricky/VLANeXt_HL1 | 0 | 0 | [link](https://huggingface.co/whosricky/VLANeXt_HL1) |
 | 2026-08-09 | geonmin-kim/VLA-JEPA-3B-SO101-D6231-step20000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-step20000) |
-| 2026-08-09 | geonmin-kim/VLA-JEPA-3B-SO101-D6231-Mdrift-step15000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-Mdrift-step15000) |
-| 2026-08-09 | n5zhong/trace_vla_moe_no_scene_drop | 0 | 0 | [link](https://huggingface.co/n5zhong/trace_vla_moe_no_scene_drop) |
-| 2026-08-09 | Alan0928/VLAwithVariousSpeed | 0 | 2 | [link](https://huggingface.co/Alan0928/VLAwithVariousSpeed) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 63374 | Python | 25349.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63375 | Python | 25350.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15653 | C++ | 6261.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14493 | C++ | 5797.3 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11311 | Python | 4524.5 | [link](https://github.com/kornia/kornia) |
-| isaac-sim/IsaacLab | 7864 | Python | 3145.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4489 | Python | 1795.7 | [link](https://github.com/RLinf/RLinf) |
+| isaac-sim/IsaacLab | 7865 | Python | 3146.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 4490 | Python | 1796.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3869 | Rust | 1547.7 | [link](https://github.com/dora-rs/dora) |
+| RoboTwin-Platform/RoboTwin | 2704 | Python | 1081.7 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
 | flashrt-project/FlashRT | 496 | C++ | 198.5 | [link](https://github.com/flashrt-project/FlashRT) |
 | sou350121/VLA-Handbook | 485 | HTML | 194.1 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5983 | Python | 2393.3 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
