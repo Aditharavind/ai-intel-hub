@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-09 05:38 UTC
+Generated: 2026-08-09 06:33 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -17,17 +17,17 @@ Generated: 2026-08-09 05:38 UTC
 | commaai/openpilot | 63370 | 25348.1 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30266 | 12106.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16106 | 6442.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15650 | 6260.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| TianxingChen/Embodied-AI-Guide | 15316 | 6126.5 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
+| ArduPilot/ardupilot | 15649 | 6259.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| TianxingChen/Embodied-AI-Guide | 15317 | 6126.9 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | SEU-PAISys/Embodied.cpp | 689 | 207.6 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
 | zhijieq/directional-navigation | 420 | 126.1 | [link](https://huggingface.co/zhijieq/directional-navigation) |
-| HarrisonPENG/M2W-VLA-RoboTwin | 407 | 122.2 | [link](https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin) |
 | tencent/Hy-Embodied-RxBrain-1.0 | 360 | 118.9 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
 | physicalai-bmi/efa-1 | 123 | 37.0 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
+| sasa2000/Hy-Embodied-VLM-1.0-Text-Only | 100 | 30.1 | [link](https://huggingface.co/sasa2000/Hy-Embodied-VLM-1.0-Text-Only) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

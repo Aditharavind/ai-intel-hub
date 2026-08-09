@@ -1,5 +1,14 @@
 [
   {
+    "model": "logits/pi05_baseline_robotwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/logits/pi05_baseline_robotwin",
+    "date": "2026-08-09",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "polarisai-robots/bento_v2_openarm_pi05",
     "downloads": 39,
     "likes": 0,
@@ -277,15 +286,6 @@
     "date": "2026-08-07",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "HarrisonPENG/M2W-VLA-RoboTwin",
-    "downloads": 407,
-    "likes": 0,
-    "url": "https://huggingface.co/HarrisonPENG/M2W-VLA-RoboTwin",
-    "date": "2026-08-07",
-    "keyword": "robot",
-    "score": 122.2
   },
   {
     "model": "knightnemo/robocl-ogbench-mlp-world-model",

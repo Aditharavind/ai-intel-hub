@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-09 05:38 UTC
+Last Updated: 2026-08-09 06:33 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-09 | logits/pi05_baseline_robotwin | 0 | 0 | [link](https://huggingface.co/logits/pi05_baseline_robotwin) |
 | 2026-08-09 | polarisai-robots/bento_v2_openarm_pi05 | 39 | 0 | [link](https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05) |
 | 2026-08-09 | Alan0928/VLAwithVariousSpeed | 0 | 2 | [link](https://huggingface.co/Alan0928/VLAwithVariousSpeed) |
 | 2026-08-09 | n5zhong/trace_vla_moe_no_perturb | 0 | 0 | [link](https://huggingface.co/n5zhong/trace_vla_moe_no_perturb) |
@@ -86,18 +87,17 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-08 | milab-robot/alm1-0731-milab | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab) |
 | 2026-08-08 | locht131/gr00t_fa_robotwin_2hand_quat_tune_visual_s35k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_tune_visual_s35k_bs32) |
 | 2026-08-08 | Myungkyu/hiwrld-baseline-ckpts-real-robot | 0 | 0 | [link](https://huggingface.co/Myungkyu/hiwrld-baseline-ckpts-real-robot) |
-| 2026-08-08 | milab-robot/alm1-0724-milab | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0724-milab) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | commaai/openpilot | 63370 | Python | 25348.1 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15650 | C++ | 6260.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15649 | C++ | 6259.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | isaac-sim/IsaacLab | 7862 | Python | 3144.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4484 | Python | 1793.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3869 | Rust | 1547.7 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 484 | HTML | 193.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5976 | Python | 2390.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 5977 | Python | 2390.9 | [link](https://github.com/vllm-project/vllm-omni) |
 | NucleoidAI/Nucleoid | 765 | Rust | 306.1 | [link](https://github.com/NucleoidAI/Nucleoid) |
 | OpenHUTB/hutb | 569 | C++ | 227.7 | [link](https://github.com/OpenHUTB/hutb) |
 | DexForce/EmbodiChain | 206 | Python | 82.5 | [link](https://github.com/DexForce/EmbodiChain) |
@@ -127,12 +127,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-05 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
 | 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - The Business Journals | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
+| 2026-08-03 | CATL Invests in RoboParty: 22-Year-Old Harbin Institute of Technology Founder Huang Yi Steers Open-Source Full-Stack Bipedal Humanoid Startup Through 20x Valuation Growth - Pandaily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE9JSGlSLVJZS29EUWFNYkxKel93WGo1OER4cWF0NG02QzRncnhoQTBLYXNLZFkwVW5uNmxIX3BleGtGZTFMbVFWbVUwT3BmYUpGVjBSbGhNZlRrT2wxY0gydFR6enVWamFHMFJUUQ?oc=5) |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
-| 2026-07-31 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-09 | IT Operation (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702538006) |
 | 2026-08-07 | Fleet Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696722006) |
 | 2026-08-07 | Principal Robotics Functional Safety Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6138236004) |
 | 2026-08-07 | Senior Technical Recruiter | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6139069004) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-05 | Humanoid Environment Staging Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4677955006) |
 | 2026-08-05 | IT Coordinator (CDMX) | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4702863006) |
 | 2026-08-05 | Logistics & Dispatch Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4702689006) |
-| 2026-08-05 | Shift Coordinator, Data Creators (SP)  | Figure AI | São Paulo, Brazil | [link](https://job-boards.greenhouse.io/figureai/jobs/4701747006) |
 
 ## Automation
 
