@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-09 20:16 UTC
+Last Updated: 2026-08-09 21:18 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -85,20 +85,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-09 | locht131/gr00t_robotwin_3task_2hand_quat_s30k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_robotwin_3task_2hand_quat_s30k_bs32) |
 | 2026-08-09 | logits/pi05_baseline_robotwin | 0 | 0 | [link](https://huggingface.co/logits/pi05_baseline_robotwin) |
 | 2026-08-09 | polarisai-robots/bento_v2_openarm_pi05 | 39 | 0 | [link](https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05) |
-| 2026-08-09 | Grigorij/Franka_WAMs_vla_jepa | 8 | 0 | [link](https://huggingface.co/Grigorij/Franka_WAMs_vla_jepa) |
 | 2026-08-09 | sam-guided-vlas/train_1_2__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0) |
+| 2026-08-09 | ethanCSL/svla_franka_pick_n_place_vla_steering_libero_height_two_cams | 0 | 0 | [link](https://huggingface.co/ethanCSL/svla_franka_pick_n_place_vla_steering_libero_height_two_cams) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 63379 | Python | 25351.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63377 | Python | 25350.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15654 | C++ | 6261.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14496 | C++ | 5798.5 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14495 | C++ | 5798.1 | [link](https://github.com/google-deepmind/mujoco) |
 | earthtojake/text-to-cad | 13147 | JavaScript | 5258.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11311 | Python | 4524.5 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7865 | Python | 3146.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4492 | Python | 1796.9 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3869 | Rust | 1547.7 | [link](https://github.com/dora-rs/dora) |
+| dora-rs/dora | 3868 | Rust | 1547.3 | [link](https://github.com/dora-rs/dora) |
 | RoboTwin-Platform/RoboTwin | 2705 | Python | 1082.1 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
 | flashrt-project/FlashRT | 496 | C++ | 198.5 | [link](https://github.com/flashrt-project/FlashRT) |
 
