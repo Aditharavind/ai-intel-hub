@@ -54,6 +54,15 @@
     "score": 0.1
   },
   {
+    "model": "voltyyy/WorldMM-Models",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/voltyyy/WorldMM-Models",
+    "date": "2026-08-09",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
     "model": "RubetekRobotics/UR10e-LinearGripper-Jig-SimDist-WorldModel",
     "downloads": 0,
     "likes": 0,
@@ -289,12 +298,12 @@
   },
   {
     "model": "locht131/gr00t_robotwin_2hand_quat_tune_visual_s35k_bs32",
-    "downloads": 0,
+    "downloads": 11,
     "likes": 0,
     "url": "https://huggingface.co/locht131/gr00t_robotwin_2hand_quat_tune_visual_s35k_bs32",
     "date": "2026-08-07",
     "keyword": "robot",
-    "score": 0.1
+    "score": 3.4
   },
   {
     "model": "knightnemo/robocl-ogbench-mlp-world-model",
@@ -352,39 +361,39 @@
   },
   {
     "model": "physicalairi/so101_1200ep_pi05",
-    "downloads": 6,
+    "downloads": 10,
     "likes": 0,
     "url": "https://huggingface.co/physicalairi/so101_1200ep_pi05",
     "date": "2026-08-07",
     "keyword": "physical ai",
-    "score": 1.9
+    "score": 3.1
   },
   {
     "model": "InukaSilva/duck_policy_v2",
-    "downloads": 0,
+    "downloads": 2,
     "likes": 0,
     "url": "https://huggingface.co/InukaSilva/duck_policy_v2",
     "date": "2026-08-07",
     "keyword": "policy",
-    "score": 0.1
+    "score": 0.7
   },
   {
     "model": "ericvandergijp/act_eendje_policy",
-    "downloads": 0,
+    "downloads": 3,
     "likes": 0,
     "url": "https://huggingface.co/ericvandergijp/act_eendje_policy",
     "date": "2026-08-07",
     "keyword": "policy",
-    "score": 0.1
+    "score": 1.0
   },
   {
     "model": "Bekhzod/TASK_02_pi05_policy_20260721_v2",
-    "downloads": 0,
+    "downloads": 6,
     "likes": 0,
     "url": "https://huggingface.co/Bekhzod/TASK_02_pi05_policy_20260721_v2",
     "date": "2026-08-07",
     "keyword": "policy",
-    "score": 0.1
+    "score": 1.9
   },
   {
     "model": "bravo1311/flow-matching-landing-policy",
@@ -424,12 +433,12 @@
   },
   {
     "model": "Fleurrr/Prophet-World-Model",
-    "downloads": 35,
+    "downloads": 48,
     "likes": 0,
     "url": "https://huggingface.co/Fleurrr/Prophet-World-Model",
     "date": "2026-08-05",
     "keyword": "world model",
-    "score": 10.6
+    "score": 14.5
   },
   {
     "model": "physicalairi/so101_1200ep_smolvla",
@@ -517,15 +526,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/knightnemo/hdf-world-model-ogbench-cube-single",
-    "date": "2026-08-04",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "knightnemo/hdf-world-model-furniture-3task",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/knightnemo/hdf-world-model-furniture-3task",
     "date": "2026-08-04",
     "keyword": "world model",
     "score": 0.1
@@ -622,21 +622,21 @@
   },
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-1-VLABench",
-    "downloads": 17,
+    "downloads": 23,
     "likes": 3,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-VLABench",
     "date": "2026-07-28",
     "keyword": "robotics",
-    "score": 5.8
+    "score": 7.6
   },
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365",
-    "downloads": 36,
+    "downloads": 50,
     "likes": 7,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365",
     "date": "2026-07-28",
     "keyword": "robotics",
-    "score": 12.3
+    "score": 16.5
   },
   {
     "model": "arendjan/physical-ai-studio-environment-tar",
@@ -667,21 +667,21 @@
   },
   {
     "model": "physicalai-bmi/efa-1",
-    "downloads": 123,
+    "downloads": 124,
     "likes": 0,
     "url": "https://huggingface.co/physicalai-bmi/efa-1",
     "date": "2026-07-23",
     "keyword": "physical ai",
-    "score": 37.0
+    "score": 37.3
   },
   {
     "model": "physicalai-bmi/efa-2-acrobot",
-    "downloads": 18,
+    "downloads": 19,
     "likes": 0,
     "url": "https://huggingface.co/physicalai-bmi/efa-2-acrobot",
     "date": "2026-07-23",
     "keyword": "physical ai",
-    "score": 5.5
+    "score": 5.8
   },
   {
     "model": "Datawhale/every-embodied-smolvla-mujoco-pnp",
@@ -712,12 +712,12 @@
   },
   {
     "model": "SEU-PAISys/Embodied.cpp",
-    "downloads": 689,
+    "downloads": 655,
     "likes": 4,
     "url": "https://huggingface.co/SEU-PAISys/Embodied.cpp",
     "date": "2026-07-19",
     "keyword": "embodied",
-    "score": 207.6
+    "score": 197.4
   },
   {
     "model": "sasa2000/Hy-Embodied-VLM-1.0-Text-Only",
@@ -730,12 +730,12 @@
   },
   {
     "model": "tencent/Hy-Embodied-RxBrain-1.0",
-    "downloads": 360,
+    "downloads": 365,
     "likes": 54,
     "url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
     "date": "2026-07-18",
     "keyword": "embodied",
-    "score": 118.9
+    "score": 120.4
   },
   {
     "model": "kouylty/Isaac-Go2-Navigation-Rough-v0",
@@ -766,12 +766,12 @@
   },
   {
     "model": "zhijieq/houseexpo-navigation-policy",
-    "downloads": 8,
+    "downloads": 7,
     "likes": 0,
     "url": "https://huggingface.co/zhijieq/houseexpo-navigation-policy",
     "date": "2026-07-08",
     "keyword": "navigation",
-    "score": 2.5
+    "score": 2.2
   },
   {
     "model": "zhijieq/houseexpo-navigation-env",

@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-09 07:42 UTC
+Generated: 2026-08-09 08:26 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -17,16 +17,16 @@ Generated: 2026-08-09 07:42 UTC
 | commaai/openpilot | 63371 | 25348.5 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30267 | 12106.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16106 | 6442.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15651 | 6260.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15652 | 6260.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | TianxingChen/Embodied-AI-Guide | 15318 | 6127.3 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| SEU-PAISys/Embodied.cpp | 689 | 207.6 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
+| SEU-PAISys/Embodied.cpp | 655 | 197.4 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
 | zhijieq/directional-navigation | 420 | 126.1 | [link](https://huggingface.co/zhijieq/directional-navigation) |
-| tencent/Hy-Embodied-RxBrain-1.0 | 360 | 118.9 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
-| physicalai-bmi/efa-1 | 123 | 37.0 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
+| tencent/Hy-Embodied-RxBrain-1.0 | 365 | 120.4 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
+| physicalai-bmi/efa-1 | 124 | 37.3 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
 | sasa2000/Hy-Embodied-VLM-1.0-Text-Only | 100 | 30.1 | [link](https://huggingface.co/sasa2000/Hy-Embodied-VLM-1.0-Text-Only) |
 
 ## Top Funding Rounds

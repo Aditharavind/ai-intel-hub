@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-09 07:42 UTC
+Last Updated: 2026-08-09 08:26 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-09 | Whatever Happened to the Computer of Tomorrow, Anyway? The Xerox Alto Story | Hackaday | [link](https://hackaday.com/2026/08/09/whatever-happened-to-the-computer-of-tomorrow-anyway-the-xerox-alto-story/) |
 | 2026-08-09 | Tracking Bees with a Stereo Camera | Hackaday | [link](https://hackaday.com/2026/08/08/tracking-bees-with-a-stereo-camera/) |
 | 2026-08-09 | High-Density Parchment Paper Papertronics with Laser-Carved Hydrophilic Channels | Hackaday | [link](https://hackaday.com/2026/08/08/high-density-parchment-paper-papertronics-with-laser-carved-hydrophilic-channels/) |
 | 2026-08-09 | MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging | CNX Software | [link](https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/) |
@@ -56,7 +57,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-08 | Grading Tomatoes with an ESP32 and ML | Hackaday | [link](https://hackaday.com/2026/08/08/grading-tomatoes-with-an-esp32-and-ml/) |
 | 2026-08-08 | Robotic Screw and Bolt Sorter Seeks a New Challenge | Hackaday | [link](https://hackaday.com/2026/08/08/robotic-screw-and-bolt-sorter-seeks-a-new-challenge/) |
 | 2026-08-08 | Junkbin, a Way to Efficiently Reuse Your Old Electronics | Hackaday | [link](https://hackaday.com/2026/08/08/junkbin-a-way-to-efficiently-reuse-your-old-electronics/) |
-| 2026-08-08 | Tim Hunkin’s History Of Arcade Machines | Hackaday | [link](https://hackaday.com/2026/08/08/tim-hunkins-history-of-arcade-machines/) |
 | 2026-08-08 | LILYGO T-Echo Card – A weatherproof, solar-powered, nRF52840-based LoRa + GPS development kit | CNX Software | [link](https://www.cnx-software.com/2026/08/08/lilygo-t-echo-card-a-weatherproof-solar-powered-nrf52840-based-lora-gps-development-kit/) |
 | 2026-08-08 | Adafruit New Products 8/07/2026 | Adafruit | [link](https://blog.adafruit.com/2026/08/08/adafruit-new-products-7-07-2026-2/) |
 
@@ -83,23 +83,23 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-09 | n5zhong/trace_vla_moe_no_scene_drop | 0 | 0 | [link](https://huggingface.co/n5zhong/trace_vla_moe_no_scene_drop) |
 | 2026-08-09 | Alan0928/VLAwithVariousSpeed | 0 | 2 | [link](https://huggingface.co/Alan0928/VLAwithVariousSpeed) |
 | 2026-08-09 | n5zhong/trace_vla_moe_no_perturb | 0 | 0 | [link](https://huggingface.co/n5zhong/trace_vla_moe_no_perturb) |
+| 2026-08-09 | voltyyy/WorldMM-Models | 0 | 0 | [link](https://huggingface.co/voltyyy/WorldMM-Models) |
 | 2026-08-09 | RubetekRobotics/UR10e-LinearGripper-Jig-SimDist-WorldModel | 0 | 0 | [link](https://huggingface.co/RubetekRobotics/UR10e-LinearGripper-Jig-SimDist-WorldModel) |
 | 2026-08-09 | kshirish3/act_pick_ball_policy_2 | 0 | 0 | [link](https://huggingface.co/kshirish3/act_pick_ball_policy_2) |
 | 2026-08-09 | hiskiv/cosmos-policy-lam-v2 | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam-v2) |
-| 2026-08-08 | ziyin123/robotwin2_240k | 0 | 0 | [link](https://huggingface.co/ziyin123/robotwin2_240k) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | commaai/openpilot | 63371 | Python | 25348.5 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15651 | C++ | 6260.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15652 | C++ | 6260.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11311 | Python | 4524.5 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7863 | Python | 3145.3 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4485 | Python | 1794.1 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 4486 | Python | 1794.5 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3869 | Rust | 1547.7 | [link](https://github.com/dora-rs/dora) |
 | flashrt-project/FlashRT | 495 | C++ | 198.1 | [link](https://github.com/flashrt-project/FlashRT) |
 | sou350121/VLA-Handbook | 484 | HTML | 193.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5977 | Python | 2390.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 5978 | Python | 2391.3 | [link](https://github.com/vllm-project/vllm-omni) |
 | NucleoidAI/Nucleoid | 765 | Rust | 306.1 | [link](https://github.com/NucleoidAI/Nucleoid) |
 
 ## Startup Funding
