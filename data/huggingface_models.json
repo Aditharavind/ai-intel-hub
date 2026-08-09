@@ -54,12 +54,21 @@
     "score": 11.8
   },
   {
-    "model": "UNIC0RN-Zhu/universal-three-scene-sensor-policy-vla-v6",
+    "model": "Grigorij/Franka_WAMs_vla_jepa",
+    "downloads": 8,
+    "likes": 0,
+    "url": "https://huggingface.co/Grigorij/Franka_WAMs_vla_jepa",
+    "date": "2026-08-09",
+    "keyword": "vla",
+    "score": 2.5
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/UNIC0RN-Zhu/universal-three-scene-sensor-policy-vla-v6",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
     "date": "2026-08-09",
-    "keyword": "policy",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -69,6 +78,15 @@
     "url": "https://huggingface.co/vlabki/mg-v4-finisher",
     "date": "2026-08-09",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "UNIC0RN-Zhu/universal-three-scene-sensor-policy-vla-v6",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/UNIC0RN-Zhu/universal-three-scene-sensor-policy-vla-v6",
+    "date": "2026-08-09",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -141,6 +159,15 @@
     "url": "https://huggingface.co/RubetekRobotics/UR10e-LinearGripper-Jig-SimDist-WorldModel",
     "date": "2026-08-09",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "stevenqian/red_block_smolvla_armcam_policy0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/stevenqian/red_block_smolvla_armcam_policy0",
+    "date": "2026-08-09",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -270,24 +297,6 @@
     "score": 0.1
   },
   {
-    "model": "geonmin-kim/VLA-JEPA-3B-SO101-D6231-step15000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-step15000",
-    "date": "2026-08-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "geonmin-kim/VLA-JEPA-3B-SO101-D6231-Mdrift-step10000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-Mdrift-step10000",
-    "date": "2026-08-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "Cochon123/clash-royale-policy-bc-v4",
     "downloads": 0,
     "likes": 0,
@@ -385,15 +394,6 @@
     "date": "2026-08-07",
     "keyword": "physical ai",
     "score": 3.1
-  },
-  {
-    "model": "InukaSilva/duck_policy_v2",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/InukaSilva/duck_policy_v2",
-    "date": "2026-08-07",
-    "keyword": "policy",
-    "score": 0.7
   },
   {
     "model": "aria220/Xiaomi-Robotics-1-RoboCasa",

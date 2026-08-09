@@ -1,5 +1,12 @@
 [
   {
+    "title": "Transmitting Analog Video Via Frikkin’ Laser Beams",
+    "source": "Hackaday",
+    "date": "2026-08-09",
+    "url": "https://hackaday.com/2026/08/09/transmitting-analog-video-via-frikkin-laser-beams/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"250\" src=\"https://hackaday.com/wp-content/uploads/2026/08/LYME-laser-2-e1786202967599.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Transmitting analog video via photons is old hat: that&#8217;s how everything started, after all, back in the day with over-the-air TV. Up the frequency of those photons from radio to <a class=\"read-more\" href=\"https://hackaday.com/2026/08/09/transmitting-analog-video-via-frikkin-laser-beams/\">&#8230;read more</a>"
+  },
+  {
     "title": "Continously Extruding 3D Printed Tubes with Compressed Air",
     "source": "Hackaday",
     "date": "2026-08-09",
@@ -35,6 +42,13 @@
     "summary": "<div><img alt=\"Makerfabs MaTouch ESP32 S3 3.95 inch UWB Display\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Makerfabs-MaTouch-ESP32-S3-3.95-inch-UWB-Display-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Makerfabs MaTouch ESP32-S3 MaUWB is a development board that combines an ESP32-S3 wireless MCU, a 3.95-inch touchscreen display, and a UWB module for indoor positioning and ranging applications. The board can be used as a portable positioning terminal. It uses a trilateration algorithm with up to three fixed UWB anchors to calculate the tag’s coordinates in real time. The MaUWB chipset operates on UWB Channel 5 (6489.6 MHz) and supports up to 8 anchors and 64 tags. For portable use, the board includes a LiPo battery connector, charging circuit, and battery level monitoring. MaTouch ESP32-S3 MaUWB specifications: Wireless Module – ESP32-S3-WROOM-1 SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM; 8MB PSRAM Wireless – WiFi 4 and Bluetooth LE 5 Storage – 16MB flash Antenna – PCB antenna Storage – MicroSD card slot for local data [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/\">MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Making a 16×2 LCD 7 Times Bigger",
+    "source": "Adafruit",
+    "date": "2026-08-09",
+    "url": "https://blog.adafruit.com/2026/08/09/making-a-16x2-lcd-7-times-bigger/",
+    "summary": "UncleStem leveled, er, scaled up 7 times in this video on YouTube: Instead of trying to manufacture a real liquid crystal display, I replaced every LCD pixel with an individually controllable LED and designed custom PCBs to recreate the original 16×2 layout. We&#8217;ve got a handful of tradionally sized 16&#215;2 LCDs here and guides too! [&#8230;]"
+  },
+  {
     "title": "Track Bird Visitors With a Raspberry Pi and a USB Mic",
     "source": "Hackaday",
     "date": "2026-08-08",
@@ -47,13 +61,6 @@
     "date": "2026-08-08",
     "url": "https://hackaday.com/2026/08/08/grading-tomatoes-with-an-esp32-and-ml/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"399\" src=\"https://hackaday.com/wp-content/uploads/2026/08/tom.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you&#8217;ve ever worked with produce, you might know about grading. In addition to deciding if, say, a strawberry is good or not, they also have to sort them by <a class=\"read-more\" href=\"https://hackaday.com/2026/08/08/grading-tomatoes-with-an-esp32-and-ml/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Robotic Screw and Bolt Sorter Seeks a New Challenge",
-    "source": "Hackaday",
-    "date": "2026-08-08",
-    "url": "https://hackaday.com/2026/08/08/robotic-screw-and-bolt-sorter-seeks-a-new-challenge/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/Robotic-sorter.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As someone who disassembles and repairs hardware, [Aad] eventually ended up with a huge collection of mixed bolts and screws. This led to creating the automatic bolt and screw sorting <a class=\"read-more\" href=\"https://hackaday.com/2026/08/08/robotic-screw-and-bolt-sorter-seeks-a-new-challenge/\">&#8230;read more</a>"
   },
   {
     "title": "LILYGO T-Echo Card – A weatherproof, solar-powered, nRF52840-based LoRa + GPS development kit",
@@ -278,13 +285,6 @@
     "date": "2026-08-06",
     "url": "https://blog.adafruit.com/2026/08/06/3d-printer-electronics-enclosure-v4-modular-controller-box-3dthursday-3dprinting/",
     "summary": "jonbourg shares: A large modular electronics enclosure for 3D printers, big enough (depending on controller board size) to hold the controller board, a Raspberry Pi, and other electronics. Long-running community project. Alternative for the electronics/enclosure block. By jonbourg (Thingiverse) download the files on: https://www.thingiverse.com/thing:4615105 Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing [&#8230;]"
-  },
-  {
-    "title": "DodecaLight – Modular Dodecagon Lamp / Torch Convertible #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-08-06",
-    "url": "https://blog.adafruit.com/2026/08/06/dodecalight-modular-dodecagon-lamp-torch-convertible-3dthursday-3dprinting/",
-    "summary": "Shared by SimonMakerForge on MakerWorld: A modular 3D-printed lamp based on a dodecagonal geometry that transforms from a table lamp into a handheld torch via a telescopic base that doubles as a handle. Stack 30mm segments (3mm gap between each for a distinctive light pattern) to whatever height you want. Compatible with Bambu Lab LED [&#8230;]"
   },
   {
     "title": "Production-Ready Embedded Computing — Toradex, NXP and Mouser Electronics",
