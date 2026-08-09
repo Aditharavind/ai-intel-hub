@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hackaday Links: August 9, 2026",
+    "source": "Hackaday",
+    "date": "2026-08-09",
+    "url": "https://hackaday.com/2026/08/09/hackaday-links-august-9-2026/",
+    "summary": "<div><img alt=\"Hackaday Links Column Banner\" class=\"attachment-large size-large wp-post-image\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Bad news for anyone who was hoping for some relief from the memory shortage &#8212; Digitimes is reporting that the production capacity of major players such as Samsung, Micron, and <a class=\"read-more\" href=\"https://hackaday.com/2026/08/09/hackaday-links-august-9-2026/\">&#8230;read more</a>"
+  },
+  {
     "title": "The Stages of Grief in Repairing a Trinitron Found in the Trash",
     "source": "Hackaday",
     "date": "2026-08-09",
@@ -42,18 +49,18 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/bee.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>For whatever reason, [Jeremy] wants to photograph bees in flight. This is one of those things that doesn&#8217;t seem that hard until you try to do it. He&#8217;s got the <a class=\"read-more\" href=\"https://hackaday.com/2026/08/08/tracking-bees-with-a-stereo-camera/\">&#8230;read more</a>"
   },
   {
-    "title": "High-Density Parchment Paper Papertronics with Laser-Carved Hydrophilic Channels",
-    "source": "Hackaday",
-    "date": "2026-08-09",
-    "url": "https://hackaday.com/2026/08/08/high-density-parchment-paper-papertronics-with-laser-carved-hydrophilic-channels/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"550\" src=\"https://hackaday.com/wp-content/uploads/2026/08/silicone_parchment_paper_papertronics_rafiee_et_al_appl_mater_interfaces_2026.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Paper as a substrate for electronic circuits is not very common, but promising for flexible circuits with low cost and easy recyclability. That said, paper is not an easy material <a class=\"read-more\" href=\"https://hackaday.com/2026/08/08/high-density-parchment-paper-papertronics-with-laser-carved-hydrophilic-channels/\">&#8230;read more</a>"
-  },
-  {
     "title": "MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging",
     "source": "CNX Software",
     "date": "2026-08-09",
     "url": "https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/",
     "summary": "<div><img alt=\"Makerfabs MaTouch ESP32 S3 3.95 inch UWB Display\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Makerfabs-MaTouch-ESP32-S3-3.95-inch-UWB-Display-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Makerfabs MaTouch ESP32-S3 MaUWB is a development board that combines an ESP32-S3 wireless MCU, a 3.95-inch touchscreen display, and a UWB module for indoor positioning and ranging applications. The board can be used as a portable positioning terminal. It uses a trilateration algorithm with up to three fixed UWB anchors to calculate the tag’s coordinates in real time. The MaUWB chipset operates on UWB Channel 5 (6489.6 MHz) and supports up to 8 anchors and 64 tags. For portable use, the board includes a LiPo battery connector, charging circuit, and battery level monitoring. MaTouch ESP32-S3 MaUWB specifications: Wireless Module – ESP32-S3-WROOM-1 SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM; 8MB PSRAM Wireless – WiFi 4 and Bluetooth LE 5 Storage – 16MB flash Antenna – PCB antenna Storage – MicroSD card slot for local data [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/\">MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Adafruit Weekly Editorial Round Up: Fruit Jam Library – Buttons, Hacking the Teenage Engineering EP-2350 Ting, NeoPixel LED Dress Tutorial and more!",
+    "source": "Adafruit",
+    "date": "2026-08-09",
+    "url": "https://blog.adafruit.com/2026/08/09/adafruit-weekly-editorial-round-up-fruit-jam-library-buttons-hacking-the-teenage-engineering-ep-2350-ting-neopixel-led-dress-tutorial-and-more/",
+    "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. John Park&#8217;s CircuitPython Parsec: Fruit [&#8230;]"
   },
   {
     "title": "Making a 16×2 LCD 7 Times Bigger",
@@ -285,13 +292,6 @@
     "date": "2026-08-06",
     "url": "https://blog.adafruit.com/2026/08/06/waveshare-cm4-case-with-gpio-3dthursday-3dprinting/",
     "summary": "Shared by Rasmussen on MakerWorld: A redesigned enclosure for the Waveshare CM4 IO board with Raspberry Pi 4 Compute Module, adapted to allow full GPIO connector access. Integrated 40mm fan design blows air across the top, around the sides, and out the bottom for effective cooling. Alternative Pi enclosure form-factor for those running Compute Module [&#8230;]"
-  },
-  {
-    "title": "3D Printer Electronics Enclosure V4 – Modular Controller Box #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-08-06",
-    "url": "https://blog.adafruit.com/2026/08/06/3d-printer-electronics-enclosure-v4-modular-controller-box-3dthursday-3dprinting/",
-    "summary": "jonbourg shares: A large modular electronics enclosure for 3D printers, big enough (depending on controller board size) to hold the controller board, a Raspberry Pi, and other electronics. Long-running community project. Alternative for the electronics/enclosure block. By jonbourg (Thingiverse) download the files on: https://www.thingiverse.com/thing:4615105 Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing [&#8230;]"
   },
   {
     "title": "Production-Ready Embedded Computing — Toradex, NXP and Mouser Electronics",

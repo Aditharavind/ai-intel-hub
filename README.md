@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-09 22:15 UTC
+Last Updated: 2026-08-09 23:17 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-09 | Hackaday Links: August 9, 2026 | Hackaday | [link](https://hackaday.com/2026/08/09/hackaday-links-august-9-2026/) |
 | 2026-08-09 | The Stages of Grief in Repairing a Trinitron Found in the Trash | Hackaday | [link](https://hackaday.com/2026/08/09/the-stages-of-grief-in-repairing-a-trinitron-found-in-the-trash/) |
 | 2026-08-09 | The Chinese Smart Glasses Proving that Smart Glasses can be Repairable | Hackaday | [link](https://hackaday.com/2026/08/09/the-chinese-smart-glasses-proving-that-smart-glasses-can-be-repairable/) |
 | 2026-08-09 | Transmitting Analog Video Via Frikkin’ Laser Beams | Hackaday | [link](https://hackaday.com/2026/08/09/transmitting-analog-video-via-frikkin-laser-beams/) |
 | 2026-08-09 | Continously Extruding 3D Printed Tubes with Compressed Air | Hackaday | [link](https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/) |
 | 2026-08-09 | Whatever Happened to the Computer of Tomorrow, Anyway? The Xerox Alto Story | Hackaday | [link](https://hackaday.com/2026/08/09/whatever-happened-to-the-computer-of-tomorrow-anyway-the-xerox-alto-story/) |
 | 2026-08-09 | Tracking Bees with a Stereo Camera | Hackaday | [link](https://hackaday.com/2026/08/08/tracking-bees-with-a-stereo-camera/) |
-| 2026-08-09 | High-Density Parchment Paper Papertronics with Laser-Carved Hydrophilic Channels | Hackaday | [link](https://hackaday.com/2026/08/08/high-density-parchment-paper-papertronics-with-laser-carved-hydrophilic-channels/) |
 | 2026-08-09 | MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging | CNX Software | [link](https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/) |
+| 2026-08-09 | Adafruit Weekly Editorial Round Up: Fruit Jam Library – Buttons, Hacking the Teenage Engineering EP-2350 Ting, NeoPixel LED Dress Tutorial and more! | Adafruit | [link](https://blog.adafruit.com/2026/08/09/adafruit-weekly-editorial-round-up-fruit-jam-library-buttons-hacking-the-teenage-engineering-ep-2350-ting-neopixel-led-dress-tutorial-and-more/) |
 | 2026-08-09 | Making a 16×2 LCD 7 Times Bigger | Adafruit | [link](https://blog.adafruit.com/2026/08/09/making-a-16x2-lcd-7-times-bigger/) |
-| 2026-08-08 | LILYGO T-Echo Card – A weatherproof, solar-powered, nRF52840-based LoRa + GPS development kit | CNX Software | [link](https://www.cnx-software.com/2026/08/08/lilygo-t-echo-card-a-weatherproof-solar-powered-nrf52840-based-lora-gps-development-kit/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -91,7 +91,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 63376 | Python | 25350.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63377 | Python | 25350.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15654 | C++ | 6261.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14495 | C++ | 5798.1 | [link](https://github.com/google-deepmind/mujoco) |
 | earthtojake/text-to-cad | 13150 | JavaScript | 5260.1 | [link](https://github.com/earthtojake/text-to-cad) |
