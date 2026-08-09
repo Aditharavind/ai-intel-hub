@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-09 08:26 UTC
+Last Updated: 2026-08-09 09:25 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -79,28 +79,28 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-08-09 | logits/pi05_baseline_robotwin | 0 | 0 | [link](https://huggingface.co/logits/pi05_baseline_robotwin) |
 | 2026-08-09 | polarisai-robots/bento_v2_openarm_pi05 | 39 | 0 | [link](https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05) |
+| 2026-08-09 | geonmin-kim/VLA-JEPA-3B-SO101-D6231-step20000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-step20000) |
 | 2026-08-09 | geonmin-kim/VLA-JEPA-3B-SO101-D6231-Mdrift-step15000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-Mdrift-step15000) |
 | 2026-08-09 | n5zhong/trace_vla_moe_no_scene_drop | 0 | 0 | [link](https://huggingface.co/n5zhong/trace_vla_moe_no_scene_drop) |
 | 2026-08-09 | Alan0928/VLAwithVariousSpeed | 0 | 2 | [link](https://huggingface.co/Alan0928/VLAwithVariousSpeed) |
 | 2026-08-09 | n5zhong/trace_vla_moe_no_perturb | 0 | 0 | [link](https://huggingface.co/n5zhong/trace_vla_moe_no_perturb) |
 | 2026-08-09 | voltyyy/WorldMM-Models | 0 | 0 | [link](https://huggingface.co/voltyyy/WorldMM-Models) |
 | 2026-08-09 | RubetekRobotics/UR10e-LinearGripper-Jig-SimDist-WorldModel | 0 | 0 | [link](https://huggingface.co/RubetekRobotics/UR10e-LinearGripper-Jig-SimDist-WorldModel) |
-| 2026-08-09 | kshirish3/act_pick_ball_policy_2 | 0 | 0 | [link](https://huggingface.co/kshirish3/act_pick_ball_policy_2) |
-| 2026-08-09 | hiskiv/cosmos-policy-lam-v2 | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam-v2) |
+| 2026-08-09 | soyames/arwen-policy-lora | 0 | 0 | [link](https://huggingface.co/soyames/arwen-policy-lora) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 63371 | Python | 25348.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63373 | Python | 25349.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15652 | C++ | 6260.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14492 | C++ | 5796.9 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11311 | Python | 4524.5 | [link](https://github.com/kornia/kornia) |
-| isaac-sim/IsaacLab | 7863 | Python | 3145.3 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4486 | Python | 1794.5 | [link](https://github.com/RLinf/RLinf) |
+| isaac-sim/IsaacLab | 7864 | Python | 3145.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 4487 | Python | 1794.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3869 | Rust | 1547.7 | [link](https://github.com/dora-rs/dora) |
 | flashrt-project/FlashRT | 495 | C++ | 198.1 | [link](https://github.com/flashrt-project/FlashRT) |
 | sou350121/VLA-Handbook | 484 | HTML | 193.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5978 | Python | 2391.3 | [link](https://github.com/vllm-project/vllm-omni) |
-| NucleoidAI/Nucleoid | 765 | Rust | 306.1 | [link](https://github.com/NucleoidAI/Nucleoid) |
+| vllm-project/vllm-omni | 5979 | Python | 2391.7 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
