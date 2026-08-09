@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-09 11:17 UTC
+Last Updated: 2026-08-09 12:20 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-09 | wanderly0501/Llama-3.1-8B-no-robots-finetuned | 0 | 0 | [link](https://huggingface.co/wanderly0501/Llama-3.1-8B-no-robots-finetuned) |
 | 2026-08-09 | locht131/gr00t_fa_robotwin_3tasks_2hand_quat_s30k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_3tasks_2hand_quat_s30k_bs32) |
 | 2026-08-09 | locht131/gr00t_robotwin_3task_2hand_quat_s30k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_robotwin_3task_2hand_quat_s30k_bs32) |
 | 2026-08-09 | logits/pi05_baseline_robotwin | 0 | 0 | [link](https://huggingface.co/logits/pi05_baseline_robotwin) |
 | 2026-08-09 | polarisai-robots/bento_v2_openarm_pi05 | 39 | 0 | [link](https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05) |
+| 2026-08-09 | whosricky/VLANeXt_HL1 | 0 | 0 | [link](https://huggingface.co/whosricky/VLANeXt_HL1) |
 | 2026-08-09 | geonmin-kim/VLA-JEPA-3B-SO101-D6231-step20000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-step20000) |
 | 2026-08-09 | geonmin-kim/VLA-JEPA-3B-SO101-D6231-Mdrift-step15000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-Mdrift-step15000) |
 | 2026-08-09 | n5zhong/trace_vla_moe_no_scene_drop | 0 | 0 | [link](https://huggingface.co/n5zhong/trace_vla_moe_no_scene_drop) |
 | 2026-08-09 | Alan0928/VLAwithVariousSpeed | 0 | 2 | [link](https://huggingface.co/Alan0928/VLAwithVariousSpeed) |
-| 2026-08-09 | n5zhong/trace_vla_moe_no_perturb | 0 | 0 | [link](https://huggingface.co/n5zhong/trace_vla_moe_no_perturb) |
-| 2026-08-09 | voltyyy/WorldMM-Models | 0 | 0 | [link](https://huggingface.co/voltyyy/WorldMM-Models) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 63373 | Python | 25349.3 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15652 | C++ | 6260.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14492 | C++ | 5796.9 | [link](https://github.com/google-deepmind/mujoco) |
+| commaai/openpilot | 63374 | Python | 25349.7 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15653 | C++ | 6261.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14493 | C++ | 5797.3 | [link](https://github.com/google-deepmind/mujoco) |
 | kornia/kornia | 11311 | Python | 4524.5 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7864 | Python | 3145.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4489 | Python | 1795.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3869 | Rust | 1547.7 | [link](https://github.com/dora-rs/dora) |
-| flashrt-project/FlashRT | 495 | C++ | 198.1 | [link](https://github.com/flashrt-project/FlashRT) |
+| flashrt-project/FlashRT | 496 | C++ | 198.5 | [link](https://github.com/flashrt-project/FlashRT) |
 | sou350121/VLA-Handbook | 485 | HTML | 194.1 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5981 | Python | 2392.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 5983 | Python | 2393.3 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -120,7 +120,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-08 | CarbonSix accelerates Korea’s physical AI from PoC to mass production - CHOSUNBIZ - Chosunbiz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE40aTNmbWhmQmpyMXRUcFpIVkMwM2JOVDA3aEFtS3l1YnNiOVNmakhkejFlTjZMVWNQQXltYlY1ZXF3aC1ad0ZBVnNYRE9KMUdDQ1l6Um9aLUtlTFNucXhuX01PbFVvclM5alJxRXoyOGVZTU42QW0zb0pR0gGOAUFVX3lxTE1wekgzbzNDWWwyYmszMjZjSHZXSHgyY0xYa3VYdzE2QXpseDI4M240YmNiUTZVU0FkZndoS3BfWkhsSFE2cklRekR0dlMyZUw4SzVTdm1Gc1V4Yy0zSTRvVDllSF82TVg4SG9NU2FiQTZON3hTM0hvdmFSMmdlb1VnT0tUVk9nZGlvMEFTR0E?oc=5) |
-| 2026-08-07 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - foxweather.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
+| 2026-08-07 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
 | 2026-08-06 | 36Kr Exclusive: Tsinghua-affiliated Physical AI Infrastructure Startup Secures Tens of Millions of US Dollars in New Financing Round, Global Large-scale Delivery of Its Data Equipment Launches - 36 Kr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02LXEyc0pZcHU3S3ptaVZzM1E3UVFESk8xa2I0bnI0eF9wQWFLOEhnTVJuS2VfV3U4d21zQnNSeTg1X1hDeTdVSXl2NXh5WUpWV2Vj?oc=5) |
 | 2026-08-06 | AI robot startup challenging future of warfare - Caliber.Az | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE8yRW4zTzBaX0dCUmc1Qk1xY2N3ZTdxYnJvaHdEaExMTklLU2J5Z2JSaG93dzAxT0JITERoenRQM20tWmtKUGR1YkNCaHJjVU82NXF4SXRTOWV0V2dwSVQtay0wd3FPX3ZqWHpaQ0t0cEd1dWJJb0VaWXpxS2FnZw?oc=5) |
 | 2026-08-05 | Shelfmark raises $3.5M to scale physical AI and hire in Pittsburgh - Technical.ly | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0RmRnJhX2tKTzVpOTl3U2JYT3lUVHRuSER0MDdZdzRsRmtmamR0RU1zcDFfQWxjOE5VUEtDYV83X3BWSGFLMGxCYjVuT0QyREpIOGh4RS1rSG0tai0zaUR6Tk9MQTJaYmxGXzRiUjdpMFcxYnhTQWYzRWprQ0hubDdZNFk1RGFKOTh0UHhUSHYtZw?oc=5) |
