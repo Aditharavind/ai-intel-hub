@@ -63,10 +63,19 @@
     "score": 11.8
   },
   {
-    "model": "B111ue/fcl-vla-baseline-recovery",
+    "model": "Grigorij/Franka_WAMs_vla_jepa",
+    "downloads": 8,
+    "likes": 0,
+    "url": "https://huggingface.co/Grigorij/Franka_WAMs_vla_jepa",
+    "date": "2026-08-09",
+    "keyword": "vla",
+    "score": 2.5
+  },
+  {
+    "model": "n5zhong/trace_vla_moe_no_scene_drop",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/B111ue/fcl-vla-baseline-recovery",
+    "url": "https://huggingface.co/n5zhong/trace_vla_moe_no_scene_drop",
     "date": "2026-08-09",
     "keyword": "vla",
     "score": 0.1
@@ -81,22 +90,13 @@
     "score": 0.1
   },
   {
-    "model": "n5zhong/trace_vla_moe_no_scene_drop",
+    "model": "B111ue/fcl-vla-baseline-recovery",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/n5zhong/trace_vla_moe_no_scene_drop",
+    "url": "https://huggingface.co/B111ue/fcl-vla-baseline-recovery",
     "date": "2026-08-09",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "Grigorij/Franka_WAMs_vla_jepa",
-    "downloads": 8,
-    "likes": 0,
-    "url": "https://huggingface.co/Grigorij/Franka_WAMs_vla_jepa",
-    "date": "2026-08-09",
-    "keyword": "vla",
-    "score": 2.5
   },
   {
     "model": "vlabki/mg-v4-finisher",
@@ -180,6 +180,33 @@
     "score": 0.1
   },
   {
+    "model": "nosuke113/parc2026-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/nosuke113/parc2026-policy",
+    "date": "2026-08-09",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "alirezaaminzadeh/nesting-placement-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/alirezaaminzadeh/nesting-placement-policy",
+    "date": "2026-08-09",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "alirezaaminzadeh/lastmile-reoptimization-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/alirezaaminzadeh/lastmile-reoptimization-policy",
+    "date": "2026-08-09",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "ismamNur/Joint-Embedding-Guided-Policy-Optimization-checkpoints",
     "downloads": 0,
     "likes": 0,
@@ -193,15 +220,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/stevenqian/red_block_smolvla_armcam_policy0",
-    "date": "2026-08-09",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "nosuke113/parc2026-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/nosuke113/parc2026-policy",
     "date": "2026-08-09",
     "keyword": "policy",
     "score": 0.1
@@ -310,24 +328,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Cochon123/clash-royale-policy-bc-v4",
-    "date": "2026-08-08",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Cochon123/clash-royale-policy-bc-v3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Cochon123/clash-royale-policy-bc-v3",
-    "date": "2026-08-08",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Cochon123/clash-royale-policy-bc",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Cochon123/clash-royale-policy-bc",
     "date": "2026-08-08",
     "keyword": "policy",
     "score": 0.1
