@@ -21,13 +21,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14494,
+    "stars": 14495,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-09",
     "topic": "robotics",
-    "score": 5797.7
+    "score": 5798.1
   },
   {
     "repo": "kornia/kornia",
@@ -91,23 +91,33 @@
   },
   {
     "repo": "sou350121/VLA-Handbook",
-    "stars": 485,
+    "stars": 486,
     "language": "HTML",
     "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
     "url": "https://github.com/sou350121/VLA-Handbook",
     "date": "2026-08-09",
     "topic": "robot-learning",
-    "score": 194.1
+    "score": 194.5
+  },
+  {
+    "repo": "syswonder/robonix",
+    "stars": 315,
+    "language": "Rust",
+    "description": "Embodied AI Operating System (EAIOS)",
+    "url": "https://github.com/syswonder/robonix",
+    "date": "2026-08-09",
+    "topic": "vla",
+    "score": 126.1
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5985,
+    "stars": 5984,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-09",
     "topic": "world-model",
-    "score": 2394.1
+    "score": 2393.7
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -128,6 +138,16 @@
     "date": "2026-08-09",
     "topic": "humanoid",
     "score": 227.7
+  },
+  {
+    "repo": "vikashplus/robohive",
+    "stars": 631,
+    "language": "Python",
+    "description": "A unified framework for robot learning",
+    "url": "https://github.com/vikashplus/robohive",
+    "date": "2026-08-09",
+    "topic": "robot-learning",
+    "score": 252.5
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -181,13 +201,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3058,
+    "stars": 3057,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1223.3
+    "score": 1222.9
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -210,16 +230,6 @@
     "score": 162.9
   },
   {
-    "repo": "syswonder/robonix",
-    "stars": 314,
-    "language": "Rust",
-    "description": "Embodied AI Operating System (EAIOS)",
-    "url": "https://github.com/syswonder/robonix",
-    "date": "2026-08-08",
-    "topic": "vla",
-    "score": 125.7
-  },
-  {
     "repo": "LMD0311/Awesome-World-Model",
     "stars": 2197,
     "language": "",
@@ -231,13 +241,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2250,
+    "stars": 2251,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-08-08",
     "topic": "humanoid",
-    "score": 900.1
+    "score": 900.5
   },
   {
     "repo": "roboninecom/SO-ARM100-101-Parallel-Gripper",
@@ -281,13 +291,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13117,
+    "stars": 13119,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5246.9
+    "score": 5247.7
   },
   {
     "repo": "rerun-io/rerun",
@@ -381,23 +391,13 @@
   },
   {
     "repo": "softmata/horus",
-    "stars": 407,
+    "stars": 408,
     "language": "Rust",
     "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
     "url": "https://github.com/softmata/horus",
     "date": "2026-08-06",
     "topic": "humanoid",
-    "score": 162.9
-  },
-  {
-    "repo": "vikashplus/robohive",
-    "stars": 631,
-    "language": "Python",
-    "description": "A unified framework for robot learning",
-    "url": "https://github.com/vikashplus/robohive",
-    "date": "2026-08-06",
-    "topic": "robot-learning",
-    "score": 252.5
+    "score": 163.3
   },
   {
     "repo": "RayYoh/Awesome-Robot-Learning",
@@ -441,13 +441,13 @@
   },
   {
     "repo": "NVlabs/alpamayo",
-    "stars": 1979,
+    "stars": 1980,
     "language": "Python",
     "description": "NVIDIA Alpamayo 1 Nano is an open 10B reasoning VLA model for autonomous vehicles that pairs driving trajectories with Chain-of-Causation reasoning.",
     "url": "https://github.com/NVlabs/alpamayo",
     "date": "2026-08-05",
     "topic": "vla",
-    "score": 791.7
+    "score": 792.1
   },
   {
     "repo": "NVlabs/alpamayo1.5",
@@ -561,23 +561,23 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15325,
+    "stars": 15324,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6130.1
+    "score": 6129.7
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 294,
+    "stars": 295,
     "language": "",
     "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
     "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
     "date": "2026-08-02",
     "topic": "robot-learning",
-    "score": 117.7
+    "score": 118.1
   },
   {
     "repo": "aalmuzairee/squint",
