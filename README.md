@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-09 19:22 UTC
+Last Updated: 2026-08-09 20:16 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-09 | The Stages of Grief in Repairing a Trinitron Found in the Trash | Hackaday | [link](https://hackaday.com/2026/08/09/the-stages-of-grief-in-repairing-a-trinitron-found-in-the-trash/) |
 | 2026-08-09 | The Chinese Smart Glasses Proving that Smart Glasses can be Repairable | Hackaday | [link](https://hackaday.com/2026/08/09/the-chinese-smart-glasses-proving-that-smart-glasses-can-be-repairable/) |
 | 2026-08-09 | Transmitting Analog Video Via Frikkin’ Laser Beams | Hackaday | [link](https://hackaday.com/2026/08/09/transmitting-analog-video-via-frikkin-laser-beams/) |
 | 2026-08-09 | Continously Extruding 3D Printed Tubes with Compressed Air | Hackaday | [link](https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/) |
@@ -57,7 +58,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-09 | High-Density Parchment Paper Papertronics with Laser-Carved Hydrophilic Channels | Hackaday | [link](https://hackaday.com/2026/08/08/high-density-parchment-paper-papertronics-with-laser-carved-hydrophilic-channels/) |
 | 2026-08-09 | MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging | CNX Software | [link](https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/) |
 | 2026-08-09 | Making a 16×2 LCD 7 Times Bigger | Adafruit | [link](https://blog.adafruit.com/2026/08/09/making-a-16x2-lcd-7-times-bigger/) |
-| 2026-08-08 | Track Bird Visitors With a Raspberry Pi and a USB Mic | Hackaday | [link](https://hackaday.com/2026/08/08/track-bird-visitors-with-a-raspberry-pi-and-a-usb-mic/) |
 | 2026-08-08 | LILYGO T-Echo Card – A weatherproof, solar-powered, nRF52840-based LoRa + GPS development kit | CNX Software | [link](https://www.cnx-software.com/2026/08/08/lilygo-t-echo-card-a-weatherproof-solar-powered-nrf52840-based-lora-gps-development-kit/) |
 
 ## New Research Papers
@@ -85,7 +85,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-09 | locht131/gr00t_robotwin_3task_2hand_quat_s30k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_robotwin_3task_2hand_quat_s30k_bs32) |
 | 2026-08-09 | logits/pi05_baseline_robotwin | 0 | 0 | [link](https://huggingface.co/logits/pi05_baseline_robotwin) |
 | 2026-08-09 | polarisai-robots/bento_v2_openarm_pi05 | 39 | 0 | [link](https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05) |
-| 2026-08-09 | geonmin-kim/VLA-JEPA-3B-SO101-D6231-step25000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-step25000) |
+| 2026-08-09 | Grigorij/Franka_WAMs_vla_jepa | 8 | 0 | [link](https://huggingface.co/Grigorij/Franka_WAMs_vla_jepa) |
 | 2026-08-09 | sam-guided-vlas/train_1_2__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0) |
 
 ## Trending GitHub Repositories
@@ -94,7 +94,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | commaai/openpilot | 63379 | Python | 25351.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15654 | C++ | 6261.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14496 | C++ | 5798.5 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13144 | JavaScript | 5257.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13147 | JavaScript | 5258.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11311 | Python | 4524.5 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7865 | Python | 3146.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4492 | Python | 1796.9 | [link](https://github.com/RLinf/RLinf) |
