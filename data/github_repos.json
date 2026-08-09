@@ -1,13 +1,13 @@
 [
   {
     "repo": "commaai/openpilot",
-    "stars": 63377,
+    "stars": 63378,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-09",
     "topic": "robotics",
-    "score": 25350.9
+    "score": 25351.3
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -28,6 +28,16 @@
     "date": "2026-08-09",
     "topic": "robotics",
     "score": 5798.1
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "stars": 13125,
+    "language": "JavaScript",
+    "description": "A library of agent skills for CAD, CAE and CAM",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "date": "2026-08-09",
+    "topic": "robotics",
+    "score": 5250.1
   },
   {
     "repo": "kornia/kornia",
@@ -110,6 +120,16 @@
     "score": 126.1
   },
   {
+    "repo": "RealXiaoze/humanoid-motion-intelligence",
+    "stars": 295,
+    "language": "",
+    "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
+    "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
+    "date": "2026-08-09",
+    "topic": "robot-learning",
+    "score": 118.1
+  },
+  {
     "repo": "vllm-project/vllm-omni",
     "stars": 5984,
     "language": "Python",
@@ -128,6 +148,16 @@
     "date": "2026-08-09",
     "topic": "world-model",
     "score": 306.1
+  },
+  {
+    "repo": "NVlabs/ProtoMotions",
+    "stars": 2251,
+    "language": "Python",
+    "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
+    "url": "https://github.com/NVlabs/ProtoMotions",
+    "date": "2026-08-09",
+    "topic": "humanoid",
+    "score": 900.5
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -240,16 +270,6 @@
     "score": 878.9
   },
   {
-    "repo": "NVlabs/ProtoMotions",
-    "stars": 2251,
-    "language": "Python",
-    "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
-    "url": "https://github.com/NVlabs/ProtoMotions",
-    "date": "2026-08-08",
-    "topic": "humanoid",
-    "score": 900.5
-  },
-  {
     "repo": "roboninecom/SO-ARM100-101-Parallel-Gripper",
     "stars": 159,
     "language": "Python",
@@ -261,13 +281,13 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 2828,
+    "stars": 2829,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-07",
     "topic": "physical-ai",
-    "score": 1131.3
+    "score": 1131.7
   },
   {
     "repo": "mosaico-labs/mosaico",
@@ -290,24 +310,14 @@
     "score": 6442.5
   },
   {
-    "repo": "earthtojake/text-to-cad",
-    "stars": 13119,
-    "language": "JavaScript",
-    "description": "A library of agent skills for CAD, CAE and CAM",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "date": "2026-08-07",
-    "topic": "robotics",
-    "score": 5247.7
-  },
-  {
     "repo": "rerun-io/rerun",
-    "stars": 11266,
+    "stars": 11267,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 4506.5
+    "score": 4506.9
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
@@ -570,16 +580,6 @@
     "score": 6129.7
   },
   {
-    "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 295,
-    "language": "",
-    "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
-    "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
-    "date": "2026-08-02",
-    "topic": "robot-learning",
-    "score": 118.1
-  },
-  {
     "repo": "aalmuzairee/squint",
     "stars": 88,
     "language": "Python",
@@ -611,13 +611,13 @@
   },
   {
     "repo": "NVIDIA-Omniverse/ovrtx",
-    "stars": 201,
+    "stars": 202,
     "language": "Python",
     "description": "A C and Python library for physically accurate, real-time, sensor simulation and visualization using NVIDIA Omniverse RTX",
     "url": "https://github.com/NVIDIA-Omniverse/ovrtx",
     "date": "2026-07-29",
     "topic": "physical-ai",
-    "score": 80.5
+    "score": 80.9
   },
   {
     "repo": "zli12321/Vision-Language-Models-Overview",
@@ -841,13 +841,13 @@
   },
   {
     "repo": "ispaik06/Panbot",
-    "stars": 11,
+    "stars": 12,
     "language": "Python",
     "description": "Pancake Cooking Robot",
     "url": "https://github.com/ispaik06/Panbot",
     "date": "2026-07-13",
     "topic": "lerobot",
-    "score": 4.5
+    "score": 4.9
   },
   {
     "repo": "ARISE-Initiative/robosuite",
