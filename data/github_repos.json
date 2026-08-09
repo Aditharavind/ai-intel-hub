@@ -1,43 +1,53 @@
 [
   {
     "repo": "commaai/openpilot",
-    "stars": 63370,
+    "stars": 63371,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-09",
     "topic": "robotics",
-    "score": 25348.1
+    "score": 25348.5
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15649,
+    "stars": 15651,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-09",
     "topic": "robotics",
-    "score": 6259.7
+    "score": 6260.5
+  },
+  {
+    "repo": "kornia/kornia",
+    "stars": 11311,
+    "language": "Python",
+    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "url": "https://github.com/kornia/kornia",
+    "date": "2026-08-09",
+    "topic": "robotics",
+    "score": 4524.5
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7862,
+    "stars": 7863,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-08-09",
     "topic": "robot-learning",
-    "score": 3144.9
+    "score": 3145.3
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4484,
+    "stars": 4485,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-09",
     "topic": "embodied-ai",
-    "score": 1793.7
+    "score": 1794.1
   },
   {
     "repo": "dora-rs/dora",
@@ -48,6 +58,16 @@
     "date": "2026-08-09",
     "topic": "embodied-ai",
     "score": 1547.7
+  },
+  {
+    "repo": "flashrt-project/FlashRT",
+    "stars": 495,
+    "language": "C++",
+    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
+    "url": "https://github.com/flashrt-project/FlashRT",
+    "date": "2026-08-09",
+    "topic": "vla",
+    "score": 198.1
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -131,43 +151,33 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30266,
+    "stars": 30267,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-08-08",
     "topic": "robotics",
-    "score": 12106.5
-  },
-  {
-    "repo": "kornia/kornia",
-    "stars": 11311,
-    "language": "Python",
-    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-    "url": "https://github.com/kornia/kornia",
-    "date": "2026-08-08",
-    "topic": "robotics",
-    "score": 4524.5
+    "score": 12106.9
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3052,
+    "stars": 3053,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1220.9
+    "score": 1221.3
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2703,
+    "stars": 2704,
     "language": "Python",
     "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1081.3
+    "score": 1081.7
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -178,16 +188,6 @@
     "date": "2026-08-08",
     "topic": "embodied-ai",
     "score": 882.5
-  },
-  {
-    "repo": "flashrt-project/FlashRT",
-    "stars": 495,
-    "language": "C++",
-    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
-    "url": "https://github.com/flashrt-project/FlashRT",
-    "date": "2026-08-08",
-    "topic": "vla",
-    "score": 198.1
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -211,13 +211,13 @@
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
-    "stars": 2195,
+    "stars": 2196,
     "language": "",
     "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
     "url": "https://github.com/LMD0311/Awesome-World-Model",
     "date": "2026-08-08",
     "topic": "world-model",
-    "score": 878.1
+    "score": 878.5
   },
   {
     "repo": "NVlabs/ProtoMotions",
@@ -271,23 +271,23 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14490,
+    "stars": 14492,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5796.1
+    "score": 5796.9
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13105,
+    "stars": 13109,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5242.1
+    "score": 5243.7
   },
   {
     "repo": "rerun-io/rerun",
@@ -301,13 +301,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2273,
+    "stars": 2274,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-07",
     "topic": "robot-learning",
-    "score": 909.3
+    "score": 909.7
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -561,13 +561,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15317,
+    "stars": 15318,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6126.9
+    "score": 6127.3
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
