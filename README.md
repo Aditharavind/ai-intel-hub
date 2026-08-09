@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-09 02:54 UTC
+Last Updated: 2026-08-09 04:06 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -50,6 +50,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-08-09 | High-Density Parchment Paper Papertronics with Laser-Carved Hydrophilic Channels | Hackaday | [link](https://hackaday.com/2026/08/08/high-density-parchment-paper-papertronics-with-laser-carved-hydrophilic-channels/) |
+| 2026-08-09 | MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging | CNX Software | [link](https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/) |
 | 2026-08-08 | Track Bird Visitors With a Raspberry Pi and a USB Mic | Hackaday | [link](https://hackaday.com/2026/08/08/track-bird-visitors-with-a-raspberry-pi-and-a-usb-mic/) |
 | 2026-08-08 | Grading Tomatoes with an ESP32 and ML | Hackaday | [link](https://hackaday.com/2026/08/08/grading-tomatoes-with-an-esp32-and-ml/) |
 | 2026-08-08 | Robotic Screw and Bolt Sorter Seeks a New Challenge | Hackaday | [link](https://hackaday.com/2026/08/08/robotic-screw-and-bolt-sorter-seeks-a-new-challenge/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-08 | Want Energy Efficiency? Dude, You’re Getting a Dell! | Hackaday | [link](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/) |
 | 2026-08-08 | LILYGO T-Echo Card – A weatherproof, solar-powered, nRF52840-based LoRa + GPS development kit | CNX Software | [link](https://www.cnx-software.com/2026/08/08/lilygo-t-echo-card-a-weatherproof-solar-powered-nrf52840-based-lora-gps-development-kit/) |
 | 2026-08-08 | Adafruit New Products 8/07/2026 | Adafruit | [link](https://blog.adafruit.com/2026/08/08/adafruit-new-products-7-07-2026-2/) |
-| 2026-08-08 | Happy International Cat Day 2026 🌎🐈 #CatsofEngineering #WorldCatDay | Adafruit | [link](https://blog.adafruit.com/2026/08/08/happy-international-cat-day-2026-%f0%9f%8c%8e%f0%9f%90%88-catsofengineering-worldcatday/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-09 | polarisai-robots/bento_v2_openarm_pi05 | 39 | 0 | [link](https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05) |
 | 2026-08-09 | Alan0928/VLAwithVariousSpeed | 0 | 2 | [link](https://huggingface.co/Alan0928/VLAwithVariousSpeed) |
 | 2026-08-09 | n5zhong/trace_vla_moe_no_perturb | 0 | 0 | [link](https://huggingface.co/n5zhong/trace_vla_moe_no_perturb) |
+| 2026-08-09 | RubetekRobotics/UR10e-LinearGripper-Jig-SimDist-WorldModel | 0 | 0 | [link](https://huggingface.co/RubetekRobotics/UR10e-LinearGripper-Jig-SimDist-WorldModel) |
 | 2026-08-09 | hiskiv/cosmos-policy-lam-v2 | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam-v2) |
 | 2026-08-08 | ziyin123/robotwin2_240k | 0 | 0 | [link](https://huggingface.co/ziyin123/robotwin2_240k) |
 | 2026-08-08 | milab-robot/alm1-0731-milab | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab) |
 | 2026-08-08 | locht131/gr00t_fa_robotwin_2hand_quat_tune_visual_s35k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_tune_visual_s35k_bs32) |
 | 2026-08-08 | Myungkyu/hiwrld-baseline-ckpts-real-robot | 0 | 0 | [link](https://huggingface.co/Myungkyu/hiwrld-baseline-ckpts-real-robot) |
 | 2026-08-08 | milab-robot/alm1-0724-milab | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0724-milab) |
-| 2026-08-08 | Pq234/MiniCPM-RobotManip | 0 | 0 | [link](https://huggingface.co/Pq234/MiniCPM-RobotManip) |
-| 2026-08-08 | locht131/gr00t_fa_robotwin_2hand_quat_s35k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_s35k_bs32) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 63369 | Python | 25347.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63370 | Python | 25348.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15648 | C++ | 6259.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | isaac-sim/IsaacLab | 7861 | Python | 3144.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3869 | Rust | 1547.7 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 484 | HTML | 193.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5972 | Python | 2388.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 5974 | Python | 2389.7 | [link](https://github.com/vllm-project/vllm-omni) |
+| NucleoidAI/Nucleoid | 765 | Rust | 306.1 | [link](https://github.com/NucleoidAI/Nucleoid) |
 | OpenHUTB/hutb | 569 | C++ | 227.7 | [link](https://github.com/OpenHUTB/hutb) |
+| DexForce/EmbodiChain | 206 | Python | 82.5 | [link](https://github.com/DexForce/EmbodiChain) |
 | copper-project/copper-rs | 1443 | Rust | 577.3 | [link](https://github.com/copper-project/copper-rs) |
-| awslabs/awsome-distributed-ai | 468 | Shell | 187.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| alireza787b/mavsdk_drone_show | 310 | Python | 124.1 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

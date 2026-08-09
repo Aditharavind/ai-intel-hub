@@ -1,13 +1,13 @@
 [
   {
     "repo": "commaai/openpilot",
-    "stars": 63369,
+    "stars": 63370,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-09",
     "topic": "robotics",
-    "score": 25347.7
+    "score": 25348.1
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -51,13 +51,23 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5972,
+    "stars": 5974,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-09",
     "topic": "world-model",
-    "score": 2388.9
+    "score": 2389.7
+  },
+  {
+    "repo": "NucleoidAI/Nucleoid",
+    "stars": 765,
+    "language": "Rust",
+    "description": "Logic Language for LLMs 🌱🐋 Build World Models 🌍",
+    "url": "https://github.com/NucleoidAI/Nucleoid",
+    "date": "2026-08-09",
+    "topic": "world-model",
+    "score": 306.1
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -68,6 +78,16 @@
     "date": "2026-08-09",
     "topic": "humanoid",
     "score": 227.7
+  },
+  {
+    "repo": "DexForce/EmbodiChain",
+    "stars": 206,
+    "language": "Python",
+    "description": "An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence.",
+    "url": "https://github.com/DexForce/EmbodiChain",
+    "date": "2026-08-09",
+    "topic": "robot-learning",
+    "score": 82.5
   },
   {
     "repo": "copper-project/copper-rs",
@@ -101,13 +121,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30265,
+    "stars": 30266,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-08-08",
     "topic": "robotics",
-    "score": 12106.1
+    "score": 12106.5
   },
   {
     "repo": "kornia/kornia",
@@ -210,16 +230,6 @@
     "score": 899.7
   },
   {
-    "repo": "DexForce/EmbodiChain",
-    "stars": 206,
-    "language": "Python",
-    "description": "An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence.",
-    "url": "https://github.com/DexForce/EmbodiChain",
-    "date": "2026-08-08",
-    "topic": "robot-learning",
-    "score": 82.5
-  },
-  {
     "repo": "roboninecom/SO-ARM100-101-Parallel-Gripper",
     "stars": 159,
     "language": "Python",
@@ -271,13 +281,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13099,
+    "stars": 13100,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5239.7
+    "score": 5240.1
   },
   {
     "repo": "rerun-io/rerun",
@@ -361,13 +371,13 @@
   },
   {
     "repo": "dexmal/dexbotic",
-    "stars": 1324,
+    "stars": 1333,
     "language": "Python",
     "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
     "url": "https://github.com/dexmal/dexbotic",
     "date": "2026-08-06",
     "topic": "vla",
-    "score": 529.7
+    "score": 533.3
   },
   {
     "repo": "softmata/horus",
@@ -551,13 +561,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15315,
+    "stars": 15316,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6126.1
+    "score": 6126.5
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
@@ -631,13 +641,13 @@
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3277,
+    "stars": 3278,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-07-28",
     "topic": "embodied-ai",
-    "score": 1310.9
+    "score": 1311.3
   },
   {
     "repo": "PKU-YuanGroup/Helios",
@@ -788,16 +798,6 @@
     "date": "2026-07-20",
     "topic": "world-model",
     "score": 888.5
-  },
-  {
-    "repo": "OpenDriveLab/WorldEngine",
-    "stars": 487,
-    "language": "Python",
-    "description": "WorldEngine: Towards the Era of Post-Training for Autonomous Driving",
-    "url": "https://github.com/OpenDriveLab/WorldEngine",
-    "date": "2026-07-20",
-    "topic": "world-model",
-    "score": 194.9
   },
   {
     "repo": "LeCAR-Lab/BFM-Zero",
