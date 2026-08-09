@@ -11,23 +11,33 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15648,
+    "stars": 15650,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-09",
     "topic": "robotics",
-    "score": 6259.3
+    "score": 6260.1
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7861,
+    "stars": 7862,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-08-09",
     "topic": "robot-learning",
-    "score": 3144.5
+    "score": 3144.9
+  },
+  {
+    "repo": "RLinf/RLinf",
+    "stars": 4484,
+    "language": "Python",
+    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
+    "url": "https://github.com/RLinf/RLinf",
+    "date": "2026-08-09",
+    "topic": "embodied-ai",
+    "score": 1793.7
   },
   {
     "repo": "dora-rs/dora",
@@ -51,13 +61,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 5974,
+    "stars": 5976,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-09",
     "topic": "world-model",
-    "score": 2389.7
+    "score": 2390.5
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -140,24 +150,14 @@
     "score": 4524.5
   },
   {
-    "repo": "RLinf/RLinf",
-    "stars": 4484,
-    "language": "Python",
-    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
-    "url": "https://github.com/RLinf/RLinf",
-    "date": "2026-08-08",
-    "topic": "embodied-ai",
-    "score": 1793.7
-  },
-  {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3050,
+    "stars": 3052,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1220.1
+    "score": 1220.9
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
@@ -271,23 +271,23 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14489,
+    "stars": 14490,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5795.7
+    "score": 5796.1
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13100,
+    "stars": 13103,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 5240.1
+    "score": 5241.3
   },
   {
     "repo": "rerun-io/rerun",
@@ -301,13 +301,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2272,
+    "stars": 2273,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-07",
     "topic": "robot-learning",
-    "score": 908.9
+    "score": 909.3
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -371,13 +371,13 @@
   },
   {
     "repo": "dexmal/dexbotic",
-    "stars": 1333,
+    "stars": 1336,
     "language": "Python",
     "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
     "url": "https://github.com/dexmal/dexbotic",
     "date": "2026-08-06",
     "topic": "vla",
-    "score": 533.3
+    "score": 534.5
   },
   {
     "repo": "softmata/horus",
@@ -551,13 +551,13 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 2107,
+    "stars": 2108,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-08-03",
     "topic": "world-model",
-    "score": 842.9
+    "score": 843.3
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
@@ -571,13 +571,13 @@
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 292,
+    "stars": 293,
     "language": "",
     "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
     "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
     "date": "2026-08-02",
     "topic": "robot-learning",
-    "score": 116.9
+    "score": 117.3
   },
   {
     "repo": "aalmuzairee/squint",
@@ -701,13 +701,13 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13672,
+    "stars": 13674,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-07-25",
     "topic": "robotics",
-    "score": 5468.9
+    "score": 5469.7
   },
   {
     "repo": "thu-ml/Causal-Forcing",
@@ -771,13 +771,13 @@
   },
   {
     "repo": "arpitg1304/forge",
-    "stars": 161,
+    "stars": 162,
     "language": "Python",
     "description": "Robotics Data Toolkit | Convert between robotics dataset formats (RLDS, LeRobot v2/v3, Zarr, HDF5, Rosbag). Inspect, visualize, and analyze datasets. Works with HuggingFace Hub. Built for OpenVLA, Octo, LeRobot, and Diffusion Policy workflows.",
     "url": "https://github.com/arpitg1304/forge",
     "date": "2026-07-22",
     "topic": "lerobot",
-    "score": 64.5
+    "score": 64.9
   },
   {
     "repo": "JereoZero/so101-real",

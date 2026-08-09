@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-09 04:06 UTC
+Last Updated: 2026-08-09 05:38 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-09 | Tracking Bees with a Stereo Camera | Hackaday | [link](https://hackaday.com/2026/08/08/tracking-bees-with-a-stereo-camera/) |
 | 2026-08-09 | High-Density Parchment Paper Papertronics with Laser-Carved Hydrophilic Channels | Hackaday | [link](https://hackaday.com/2026/08/08/high-density-parchment-paper-papertronics-with-laser-carved-hydrophilic-channels/) |
 | 2026-08-09 | MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging | CNX Software | [link](https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/) |
 | 2026-08-08 | Track Bird Visitors With a Raspberry Pi and a USB Mic | Hackaday | [link](https://hackaday.com/2026/08/08/track-bird-visitors-with-a-raspberry-pi-and-a-usb-mic/) |
@@ -56,7 +57,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-08 | Robotic Screw and Bolt Sorter Seeks a New Challenge | Hackaday | [link](https://hackaday.com/2026/08/08/robotic-screw-and-bolt-sorter-seeks-a-new-challenge/) |
 | 2026-08-08 | Junkbin, a Way to Efficiently Reuse Your Old Electronics | Hackaday | [link](https://hackaday.com/2026/08/08/junkbin-a-way-to-efficiently-reuse-your-old-electronics/) |
 | 2026-08-08 | Tim Hunkin’s History Of Arcade Machines | Hackaday | [link](https://hackaday.com/2026/08/08/tim-hunkins-history-of-arcade-machines/) |
-| 2026-08-08 | Want Energy Efficiency? Dude, You’re Getting a Dell! | Hackaday | [link](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/) |
 | 2026-08-08 | LILYGO T-Echo Card – A weatherproof, solar-powered, nRF52840-based LoRa + GPS development kit | CNX Software | [link](https://www.cnx-software.com/2026/08/08/lilygo-t-echo-card-a-weatherproof-solar-powered-nrf52840-based-lora-gps-development-kit/) |
 | 2026-08-08 | Adafruit New Products 8/07/2026 | Adafruit | [link](https://blog.adafruit.com/2026/08/08/adafruit-new-products-7-07-2026-2/) |
 
@@ -92,15 +92,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | commaai/openpilot | 63370 | Python | 25348.1 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15648 | C++ | 6259.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| isaac-sim/IsaacLab | 7861 | Python | 3144.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| ArduPilot/ardupilot | 15650 | C++ | 6260.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| isaac-sim/IsaacLab | 7862 | Python | 3144.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 4484 | Python | 1793.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3869 | Rust | 1547.7 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 484 | HTML | 193.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 5974 | Python | 2389.7 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 5976 | Python | 2390.5 | [link](https://github.com/vllm-project/vllm-omni) |
 | NucleoidAI/Nucleoid | 765 | Rust | 306.1 | [link](https://github.com/NucleoidAI/Nucleoid) |
 | OpenHUTB/hutb | 569 | C++ | 227.7 | [link](https://github.com/OpenHUTB/hutb) |
 | DexForce/EmbodiChain | 206 | Python | 82.5 | [link](https://github.com/DexForce/EmbodiChain) |
-| copper-project/copper-rs | 1443 | Rust | 577.3 | [link](https://github.com/copper-project/copper-rs) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -127,8 +127,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-05 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
 | 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - The Business Journals | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
-| 2026-08-03 | CATL Invests in RoboParty: 22-Year-Old Harbin Institute of Technology Founder Huang Yi Steers Open-Source Full-Stack Bipedal Humanoid Startup Through 20x Valuation Growth - Pandaily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTE9JSGlSLVJZS29EUWFNYkxKel93WGo1OER4cWF0NG02QzRncnhoQTBLYXNLZFkwVW5uNmxIX3BleGtGZTFMbVFWbVUwT3BmYUpGVjBSbGhNZlRrT2wxY0gydFR6enVWamFHMFJUUQ?oc=5) |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
+| 2026-07-31 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
