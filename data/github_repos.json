@@ -1,33 +1,33 @@
 [
   {
     "repo": "commaai/openpilot",
-    "stars": 63376,
+    "stars": 63377,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-10",
     "topic": "robotics",
-    "score": 25350.5
+    "score": 25350.9
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15654,
+    "stars": 15655,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-10",
     "topic": "robotics",
-    "score": 6261.7
+    "score": 6262.1
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13170,
+    "stars": 13176,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-10",
     "topic": "robotics",
-    "score": 5268.1
+    "score": 5270.5
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -38,6 +38,16 @@
     "date": "2026-08-10",
     "topic": "robot-learning",
     "score": 3147.3
+  },
+  {
+    "repo": "RLinf/RLinf",
+    "stars": 4498,
+    "language": "Python",
+    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
+    "url": "https://github.com/RLinf/RLinf",
+    "date": "2026-08-10",
+    "topic": "embodied-ai",
+    "score": 1799.3
   },
   {
     "repo": "dora-rs/dora",
@@ -71,23 +81,43 @@
   },
   {
     "repo": "baidu-baige/LoongForge",
-    "stars": 339,
+    "stars": 340,
     "language": "Python",
     "description": "A unified, high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.",
     "url": "https://github.com/baidu-baige/LoongForge",
     "date": "2026-08-10",
     "topic": "vla",
-    "score": 135.7
+    "score": 136.1
+  },
+  {
+    "repo": "RealXiaoze/humanoid-motion-intelligence",
+    "stars": 298,
+    "language": "",
+    "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
+    "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
+    "date": "2026-08-10",
+    "topic": "robot-learning",
+    "score": 119.3
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6001,
+    "stars": 6002,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-10",
     "topic": "world-model",
-    "score": 2400.5
+    "score": 2400.9
+  },
+  {
+    "repo": "softmata/horus",
+    "stars": 408,
+    "language": "Rust",
+    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
+    "url": "https://github.com/softmata/horus",
+    "date": "2026-08-10",
+    "topic": "humanoid",
+    "score": 163.3
   },
   {
     "repo": "ROBOTIS-GIT/ai_worker",
@@ -111,13 +141,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14498,
+    "stars": 14500,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-09",
     "topic": "robotics",
-    "score": 5799.3
+    "score": 5800.1
   },
   {
     "repo": "kornia/kornia",
@@ -130,24 +160,14 @@
     "score": 4524.1
   },
   {
-    "repo": "RLinf/RLinf",
-    "stars": 4495,
-    "language": "Python",
-    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
-    "url": "https://github.com/RLinf/RLinf",
-    "date": "2026-08-09",
-    "topic": "embodied-ai",
-    "score": 1798.1
-  },
-  {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2707,
+    "stars": 2709,
     "language": "Python",
     "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-08-09",
     "topic": "embodied-ai",
-    "score": 1082.9
+    "score": 1083.7
   },
   {
     "repo": "flashrt-project/FlashRT",
@@ -168,16 +188,6 @@
     "date": "2026-08-09",
     "topic": "vla",
     "score": 126.1
-  },
-  {
-    "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 298,
-    "language": "",
-    "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
-    "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
-    "date": "2026-08-09",
-    "topic": "robot-learning",
-    "score": 119.3
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -271,13 +281,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3063,
+    "stars": 3064,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1225.3
+    "score": 1225.7
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -291,13 +301,13 @@
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
-    "stars": 2199,
+    "stars": 2200,
     "language": "",
     "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
     "url": "https://github.com/LMD0311/Awesome-World-Model",
     "date": "2026-08-08",
     "topic": "world-model",
-    "score": 879.7
+    "score": 880.1
   },
   {
     "repo": "roboninecom/SO-ARM100-101-Parallel-Gripper",
@@ -331,33 +341,33 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16102,
+    "stars": 16103,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 6440.9
+    "score": 6441.3
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11269,
+    "stars": 11270,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-08-07",
     "topic": "robotics",
-    "score": 4507.7
+    "score": 4508.1
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2278,
+    "stars": 2280,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-07",
     "topic": "robot-learning",
-    "score": 911.3
+    "score": 912.1
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -401,23 +411,13 @@
   },
   {
     "repo": "dexmal/dexbotic",
-    "stars": 1337,
+    "stars": 1338,
     "language": "Python",
     "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
     "url": "https://github.com/dexmal/dexbotic",
     "date": "2026-08-06",
     "topic": "vla",
-    "score": 534.9
-  },
-  {
-    "repo": "softmata/horus",
-    "stars": 408,
-    "language": "Rust",
-    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
-    "url": "https://github.com/softmata/horus",
-    "date": "2026-08-06",
-    "topic": "humanoid",
-    "score": 163.3
+    "score": 535.3
   },
   {
     "repo": "RayYoh/Awesome-Robot-Learning",
@@ -571,13 +571,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15328,
+    "stars": 15329,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6131.3
+    "score": 6131.7
   },
   {
     "repo": "aalmuzairee/squint",
@@ -651,13 +651,13 @@
   },
   {
     "repo": "PKU-YuanGroup/Helios",
-    "stars": 2038,
+    "stars": 2040,
     "language": "Python",
     "description": "Helios: Real Real-Time Long Video Generation Model",
     "url": "https://github.com/PKU-YuanGroup/Helios",
     "date": "2026-07-28",
     "topic": "world-model",
-    "score": 815.3
+    "score": 816.1
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",
@@ -761,13 +761,13 @@
   },
   {
     "repo": "Tsinghua-MARS-Lab/OMG",
-    "stars": 104,
+    "stars": 105,
     "language": "Python",
     "description": "Official repository for \"OMG: Omni-Modal Motion Generation for Generalist Humanoid Control\", https://arxiv.org/abs/2606.10340.",
     "url": "https://github.com/Tsinghua-MARS-Lab/OMG",
     "date": "2026-07-22",
     "topic": "humanoid",
-    "score": 41.7
+    "score": 42.1
   },
   {
     "repo": "arpitg1304/forge",
@@ -811,13 +811,13 @@
   },
   {
     "repo": "zchoi/Awesome-Embodied-Robotics-and-Agent",
-    "stars": 1845,
+    "stars": 1847,
     "language": "",
     "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
     "url": "https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent",
     "date": "2026-07-14",
     "topic": "embodied-ai",
-    "score": 738.1
+    "score": 738.9
   },
   {
     "repo": "hzxie/DynamicVLA",
@@ -851,12 +851,12 @@
   },
   {
     "repo": "ARISE-Initiative/robosuite",
-    "stars": 2556,
+    "stars": 2555,
     "language": "Python",
     "description": "robosuite: A Modular Simulation Framework and Benchmark for Robot Learning",
     "url": "https://github.com/ARISE-Initiative/robosuite",
     "date": "2026-07-11",
     "topic": "robot-learning",
-    "score": 1022.5
+    "score": 1022.1
   }
 ]
