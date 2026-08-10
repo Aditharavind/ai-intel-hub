@@ -71,13 +71,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13225,
+    "stars": 13226,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-10",
     "topic": "robotics",
-    "score": 5290.1
+    "score": 5290.5
   },
   {
     "repo": "kornia/kornia",
@@ -91,13 +91,13 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11275,
+    "stars": 11276,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-08-10",
     "topic": "robotics",
-    "score": 4510.1
+    "score": 4510.5
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -141,13 +141,13 @@
   },
   {
     "repo": "flashrt-project/FlashRT",
-    "stars": 498,
+    "stars": 499,
     "language": "C++",
     "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
     "url": "https://github.com/flashrt-project/FlashRT",
     "date": "2026-08-10",
     "topic": "vla",
-    "score": 199.3
+    "score": 199.7
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -191,13 +191,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6020,
+    "stars": 6022,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-10",
     "topic": "world-model",
-    "score": 2408.1
+    "score": 2408.9
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -280,6 +280,16 @@
     "score": 63.7
   },
   {
+    "repo": "PathOn-AI/PathOnRoboticsOSS",
+    "stars": 129,
+    "language": "Python",
+    "description": "PathOn Robotics Open Source Repo on building and controlling real robots",
+    "url": "https://github.com/PathOn-AI/PathOnRoboticsOSS",
+    "date": "2026-08-10",
+    "topic": "lerobot",
+    "score": 51.7
+  },
+  {
     "repo": "johnsutor/so101-nexus",
     "stars": 33,
     "language": "Python",
@@ -311,13 +321,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2271,
+    "stars": 2272,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-08-09",
     "topic": "humanoid",
-    "score": 908.5
+    "score": 908.9
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -338,16 +348,6 @@
     "date": "2026-08-09",
     "topic": "robot-learning",
     "score": 252.5
-  },
-  {
-    "repo": "PathOn-AI/PathOnRoboticsOSS",
-    "stars": 129,
-    "language": "Python",
-    "description": "PathOn Robotics Open Source Repo on building and controlling real robots",
-    "url": "https://github.com/PathOn-AI/PathOnRoboticsOSS",
-    "date": "2026-08-09",
-    "topic": "lerobot",
-    "score": 51.7
   },
   {
     "repo": "awslabs/awsome-distributed-ai",
@@ -401,13 +401,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2212,
+    "stars": 2214,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-07",
     "topic": "robot-learning",
-    "score": 884.9
+    "score": 885.7
   },
   {
     "repo": "thanhndv212/figaroh-plus",
