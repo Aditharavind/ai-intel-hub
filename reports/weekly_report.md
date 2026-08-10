@@ -1,22 +1,16 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-10 22:23 UTC
+Generated: 2026-08-10 23:22 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-08-07 | MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation | [link](https://arxiv.org/pdf/2608.07463v1) |
-| 2026-08-07 | Active movement of foraging sea turtles generates anomalous looping | [link](https://arxiv.org/pdf/2608.07448v1) |
-| 2026-08-07 | Beyond Myopic World Models: Long-Horizon End-to-End Training for Direct Future Prediction | [link](https://arxiv.org/pdf/2608.07420v1) |
-| 2026-08-07 | UniJEPA: A Unified Joint-Embedding Predictive Architecture for Task-Agnostic Visual World Modeling | [link](https://arxiv.org/pdf/2608.07409v1) |
-| 2026-08-07 | Addressable Memory for Video World Models | [link](https://arxiv.org/pdf/2608.07408v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | commaai/openpilot | 63381 | 25352.5 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30278 | 12111.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16104 | 6441.7 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16105 | 6442.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15659 | 6263.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | TianxingChen/Embodied-AI-Guide | 15343 | 6137.3 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
@@ -33,10 +27,10 @@ Generated: 2026-08-10 22:23 UTC
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
 | 2026-08-10 | Unitree |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxONEdLRklEMWlxUlUyeW96WW81VldYQW1JTlk2bHEweFpjYkdfcGVmOFRPcC03NnpnSmhib3NoekJrcWVwM2pkRWF0aHQ2TmxmNm5UVk5RY2lxSjFUeHRkQjJMbVUyWHNKQ3d5Unctd0pZSTNxeEdPVzVxTnVQejFjNTZkeTZ0WmZ5YXd0VDFCUVpFSkhWU3FCb3FVODFGR1VCMXppamtnbXVjX25GalNHMjBndnFLWTQxZjJwaWEtMGlIVW5CanZVcVh4RHoxT3AwQ0EwMTZfUnFpZE4zcUh5U3JPVUI2OVZ3TDZYYg?oc=5) |
+| 2026-08-10 | Unitree |  | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxPSlR0UUFVVWo1anV4RWZPNnJ0TV9KNEQzbi01SjRXNDZOWDhUSmtwcDE0aDIyVDQ2Smt6ekxFUmZwOHJCaW5NUzBwbDB0ekRldURLR3FyYkczcFlTcjVPN0t5TnEzS2w5OHAyc3hYQkplSWdSZE5LVTYtNU5SenJ2LUpUYzJ6SXZiMWhkS2NB?oc=5) |
 | 2026-08-10 | Unitree |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxObUY0VWNuNVRvY2gwcUQ5LXNGckpTUmZtc01MNW5scDYtSUF1Mm45ejRMWjBUYWtLbG1xaUJKYmtyNWpaV1ZJakFST0p6bHRuWXZtX001b3I3OFBEVnNXU2xrYTZPSEZVX191RmwtakxBQ2VtZlJ0bzJidlhaYlVPUF9keklMVWtQUnZSSHNVek1fRVhhVGc0eGc0blRrVkE?oc=5) |
 | 2026-08-10 | Unitree |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFA4blhzd3MyR3dBSFVMSmVnbDF0VWxoUFk3cVIxU3dYWWk5clg5X3d6VjZ2eEEzMXNiNElONDRUOFBYbGhBUFRqU2l1YkFLSU5hLWN5NHNWS0Zha09Vd0E2TFMyam9qUEZ6NUtPR3RrSF84MTBQOUE?oc=5) |
 | 2026-08-09 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVlcxeVI1YnZoeC1BR19oUjdrMHRsRUltODhjYlZoSE03MnRHX0dGN0x0ZWFnek9QT3ZiZ0E1dHV1a05rd3NtWHVtNXBHWFBQNmxuaFhlajJDQQ?oc=5) |
-| 2026-08-07 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzRRUmZZTTlqMHBVNk9ZYTRjUGM0X3N6Q2FhYXVaY1pKbDhwWTA5UjlwX0NicHVkRTJLRFlUUXNFalhwRFVMak1fTTNRUmhoVEF4YThKQUlBSnZsZ1ZwZmNKT3BkNXBrcUNRcXVMRkhBYVowWmFiY1BJNjRLOExaMG82Y2lfaFYxTlBkRzBBcHpQNm5POEUtcG9VVFBQdDRCTVp0ZHhUaW9RYWRPX0Y1OGJ3YzJ0a3lhdHR1TGRKcVVLRmhtTmw2dtIByAFBVV95cUxQOWRxV0dRV2NIWmxBLVFEOGN1el82TWYtcVhhSm5HY18yY0FyTkhkSWhtVGRvY0toN1RJd1ozSFFCdXRFX2VWNDluZWJCYmkwanhKNlhWSHYxRmFCZTJrQ2Ryc0RTWHFvT2Z5V2kzYlNlZzhNOGZBd044MlExMmduZ1Q3NDhDN0JwMXZJQ3AwV2FabDVTdFNRMTBXTS1kcEt4LUdzU1NpSU84eXdDdmR2dlcyeGw0NkUtdGxBb21LRUdDUktkU2UwRg?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
@@ -45,4 +39,4 @@ Generated: 2026-08-10 22:23 UTC
 | 2026-08-10 | Backed by China Merchants Venture and NIO Capital, Acorn Robot Bets on a "Zero-Data" Path to Win the Embodied AI Race - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9vZFRJN3hNMmZKc3Z5LVh3Z2tQSzh3UW1PWEhMN1FTbG5td0pkYTAtc2c5ZE1kTEJIcmpiYVd0akVnME1mWXJvR3diZmlUTjNLNFpyWThySjQwOHcyUjNFNkJ4NkI3UDZ5dFZYUHZUSHExRElMMEE?oc=5) |
 | 2026-08-10 | Explainer-What is Unitree and why are China’s humanoid robot makers racing to list? - WTVB | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG03UFlKLTk1TEVuYWRZMEVsY01YY3I4MExPQWN0WGtMRjYwNlZpTHFJTEZuU00tOVRGa0VWbUhmSnhLR25qQW5RZF9BUHl1bUdrYXNvMzJKNFliM1piOXRwal9TcjNDeWpQdzVqYktpcUJqM1pQZ3lZLTZISVpxZVNzRmZYbjc0TTNsSGt2ajZMUmpKU2psOFR0UFhpajVnZzNOV3FMa09uUVVrNzQ1TGFB?oc=5) |
 | 2026-08-09 | Unitree's Shanghai IPO Prices China's First Humanoid Robot Maker at $9 Billion - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVVBMzdkdDd0UnlkcFgxTHk4eUdnLTJOTldZeEJuWkFOYU03NmN2MjIxUm9RcEtHWER5S1phZTNWaWhlY2kySFcxSFZxTFZNYjVIenpIWE9mTV9ucjNoNE0zU04xMXE2cWRLVHNVUmRhaENSdVJVaDN0amRIeU1VMi1yZXVZMzRDUlQ0d3VtVlZHQi1rV1c2Yk5hMFloSW1xc1FwRWtB?oc=5) |
-| 2026-08-07 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - foxweather.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
+| 2026-08-07 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
