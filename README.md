@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-10 19:45 UTC
+Last Updated: 2026-08-10 20:28 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-10 | Building a bicycle dropper seat post | Hackaday | [link](https://hackaday.com/2026/08/10/building-a-bicycle-dropper-seat-post/) |
 | 2026-08-10 | Teardown of an Oxford Nanopore MinION DNA Sequencer | Hackaday | [link](https://hackaday.com/2026/08/10/teardown-of-an-oxford-nanopore-minion-dna-sequencer/) |
 | 2026-08-10 | Linux Fu: Heads or Tails for VPN | Hackaday | [link](https://hackaday.com/2026/08/10/linux-fu-heads-or-tails-for-vpn/) |
 | 2026-08-10 | Functional Jumping Pokéball from an Ancient Pokémon World | Hackaday | [link](https://hackaday.com/2026/08/10/functional-jumping-pokeball-from-an-ancient-pokemon-world/) |
 | 2026-08-10 | The Physics of Keeping Thermal Power Stations Cool | Hackaday | [link](https://hackaday.com/2026/08/10/the-physics-of-keeping-thermal-power-stations-cool/) |
 | 2026-08-10 | Triggering Lightning with a Rocket | Hackaday | [link](https://hackaday.com/2026/08/10/triggering-lightning-with-a-rocket/) |
 | 2026-08-10 | Even on the Red Planet, Hexagons are the Bestagons | Hackaday | [link](https://hackaday.com/2026/08/10/even-on-the-red-planet-hexagons-are-the-bestagons/) |
-| 2026-08-10 | Creating a Supersonic Trebuchet | Hackaday | [link](https://hackaday.com/2026/08/09/creating-a-supersonic-trebuchet/) |
 | 2026-08-10 | PyBLE open-source MicroPython IDE works over Bluetooth LE for tablet and iPad users | CNX Software | [link](https://www.cnx-software.com/2026/08/10/pyble-open-source-micropython-ide-works-over-bluetooth-le-for-tablet-and-ipad-users/) |
 | 2026-08-10 | Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion | CNX Software | [link](https://www.cnx-software.com/2026/08/10/raspberry-pi-cm4-cm5-based-wisgate-connect-router-rak7392-offers-2-5gbe-mini-pcie-and-wisblock-expansion/) |
 | 2026-08-10 | Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port | CNX Software | [link](https://www.cnx-software.com/2026/08/10/comu-6-tiny-ch32v203-risc-v-development-board-that-fits-inside-a-usb-port/) |
@@ -93,12 +93,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1446 | Rust | 578.5 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
-| commaai/openpilot | 63379 | Python | 25351.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63381 | Python | 25352.5 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30278 | Python | 12111.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16103 | Python | 6441.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15658 | C++ | 6263.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14508 | C++ | 5803.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13222 | JavaScript | 5288.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13224 | JavaScript | 5289.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11311 | Python | 4524.5 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11274 | Rust | 4509.7 | [link](https://github.com/rerun-io/rerun) |
 
@@ -135,14 +135,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-08-10 | IT Operations Specialist (CDMX) | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4702863006) |
 | 2026-08-10 | People Lead (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702540006) |
+| 2026-08-10 | Business Intelligence Analyst | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6139707004) |
 | 2026-08-10 | Continuous Improvement Analyst | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5990022004) |
+| 2026-08-10 | Events Manager | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6133274004) |
 | 2026-08-10 | Master Production Scheduler | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6139191004) |
 | 2026-08-09 | IT Operation (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702538006) |
 | 2026-08-07 | Fleet Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696722006) |
 | 2026-08-07 | Principal Robotics Functional Safety Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6138236004) |
 | 2026-08-07 | Senior Technical Recruiter | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6139069004) |
-| 2026-08-07 | Senior Technical Sourcer (Contract) | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6134461004) |
-| 2026-08-06 | Mechanical Engineer, Softgoods/Plastics | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4596421006) |
 
 ## Automation
 
