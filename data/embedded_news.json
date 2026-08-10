@@ -1,5 +1,12 @@
 [
   {
+    "title": "Functional Jumping Pokéball from an Ancient Pokémon World",
+    "source": "Hackaday",
+    "date": "2026-08-10",
+    "url": "https://hackaday.com/2026/08/10/functional-jumping-pokeball-from-an-ancient-pokemon-world/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/I-built-a-functional-Arceus-ball.-kinda-11-4-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When playing a game about Pocket Monsters, there’s one thing you can’t avoid using no matter what you do, and that’s a pokeball. Whether it’s a new or old game, <a class=\"read-more\" href=\"https://hackaday.com/2026/08/10/functional-jumping-pokeball-from-an-ancient-pokemon-world/\">&#8230;read more</a>"
+  },
+  {
     "title": "The Physics of Keeping Thermal Power Stations Cool",
     "source": "Hackaday",
     "date": "2026-08-10",
@@ -63,74 +70,32 @@
     "summary": "<div><img alt=\"ThinkNode M9 MeshCore Communication Terminal\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/ThinkNode-M9-MeshCore-Communication-Terminal-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Elecrow ThinkNode M9 is a standalone LoRa terminal that runs MeshCore firmware and features a QWERTY keyboard, color display, GPS, LoRa connectivity, and a 2,300mAh battery, making it suitable for outdoor and emergency communication. The device is built around an ESP32-S3R8 and a Semtech LR1110 LoRa module supporting US915 and EU868 frequencies, while the esp32-s3 adds Wi-Fi 4 and Bluetooth 5.0/BLE connectivity. Additionally, it features a 2.4-inch 240 × 320 TFT LCD, a 37-key physical QWERTY keyboard, GPS/GNSS support, plus a magnetic compass for navigation and location sharing. Other features include a USB-C port for charging and programming, RTC, buzzer, built-in antennas, and a 2,300mAh/3.8V Li-Po battery rated for up to 2–3 days in standby. The M9 targets outdoor exploration, emergency and disaster communication, remote operations, scientific research, and offline community or privacy-focused communication. ThinkNode M9 specifications: SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/10/elecrow-thinknode-m9-a-standalone-esp32-s3-meshcore-communication-terminal-with-color-lcd-qwerty-keyboard/\">Elecrow ThinkNode M9 &#8211; A standalone ESP32-S3 MeshCore communication terminal with color LCD, QWERTY keyboard</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Intel to raise $15bn in share sale",
-    "source": "Electronics Weekly",
+    "title": "Code for forward error correction for SDR, space, and satellite applications",
+    "source": "Adafruit",
     "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/intel-to-raise-15bn-in-share-sale-2026-08/",
-    "summary": "<p>Intel today announced a $15 billion underwritten public offering of common stock. Intel shares have risen from around $20 to around $100 since LIp-Bu Tan took over in March last [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/intel-to-raise-15bn-in-share-sale-2026-08/\">Intel to raise $15bn in share sale</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/08/10/code-for-forward-error-correction-for-sdr-space-and-satellite-applications/",
+    "summary": "fec provides forward error correction for SDR, space, and satellite applications. fec implements two error-correcting codes that show up throughout software-defined radio and spacecraft links: Convolutional codes with a Viterbi decoder (hard and soft decision), including the common rate-1/2 k=7, rate-1/2 k=9, rate-1/3 k=9, and rate-1/6 k=15 codes. Supports any rate from 1/2 to 1/8 and any [&#8230;]"
   },
   {
-    "title": "Lane Electronics distributing Cinch-Fibreco JCON series beam adapters",
-    "source": "Electronics Weekly",
+    "title": "ESP RainMaker Neo may be your next IoT cloud",
+    "source": "Adafruit",
     "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/lane-electronics-distributing-cinch-fibreco-jcon-series-beam-adapters-2026-08/",
-    "summary": "<p>The newly released Cinch-Fibreco JCON series, the JCON Junior Bulkhead Expanded Beam Adapter, is now available from Lane Electronics. The design of the adaptor is to simplify panel-mount fibre-optic connectivity [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/lane-electronics-distributing-cinch-fibreco-jcon-series-beam-adapters-2026-08/\">Lane Electronics distributing Cinch-Fibreco JCON series beam adapters</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/08/10/esp-rainmaker-neo-may-be-your-next-iot-cloud/",
+    "summary": "ESP RainMaker Neo is a serverless, open-source IoT cloud for ESP devices that you deploy into your own AWS account. It scales with your fleet and is pay-as-you-go. Devices connect over MQTT through AWS IoT. Phone apps, the admin dashboard and voice assistants reach the same backend over REST APIs and MQTT. See this Apache-2.0 [&#8230;]"
   },
   {
-    "title": "Satellite SAR imaging services win NRO RCA contracts",
-    "source": "Electronics Weekly",
+    "title": "A MicroPython experimental port for the Dabao",
+    "source": "Adafruit",
     "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/satellite-sar-imaging-services-win-nro-rca-contracts-2026-08/",
-    "summary": "<p>Three companies have won Radar Commercial Augmentation (RCA) contracts from the US National Reconnaissance Office (NRO) involving Synthetic Aperture Radar (SAR) imaging. They are: Capella Space, ICEYE US and Umbra [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/satellite-sar-imaging-services-win-nro-rca-contracts-2026-08/\">Satellite SAR imaging services win NRO RCA contracts</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/08/10/micropython-experimental-port-for-the-dabao/",
+    "summary": "The Dabao is an awesome RISC-V evaluation board built around the Baochip-1x SoC, both created by @bunnie. @andrewleech and @mattytrentini have been working on a port for MicroPython for Dabao, building on @ArmstrongSubero&#8216;s daobao-sdk. The port is still experimental, but if you have a Dabao, Matt would love some testers! The DEFCON 34 badge may also work, [&#8230;]"
   },
   {
-    "title": "TSMC July revenue up 44.7% y-o-y",
-    "source": "Electronics Weekly",
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
     "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/tsmc-july-revenue-up-44-7-yoy-2026-08/",
-    "summary": "<p>TSMC’s revenue for July 2026 was approximately $14.5bn, an increase of 5.6% from June 2026 and an increase of 44.7% from July 2025. Revenue for January through July 2026 totalled [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-july-revenue-up-44-7-yoy-2026-08/\">TSMC July revenue up 44.7% y-o-y</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "UK gets taste for China’s BEVs",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/uk-gets-taste-for-chinas-bevs-2026-08/",
-    "summary": "<p>UK battery EV sales rose 44.5% in July to 43,106 says the Society of Motor Manufacturers and Traders, representing more than 25% of the total car market. 9,750 of the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/uk-gets-taste-for-chinas-bevs-2026-08/\">UK gets taste for China’s BEVs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Semi sales up 123%",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/q2-semi-sales-hit-403bn-says-sia-2026-08/",
-    "summary": "<p>June semi sales were up 123.6% at $134.5bn, says the SIA, and up 9.7% on May. Q2 semiconductor sales of  $403.3bn were up 35.1% compared to Q1. “Global chip sales [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/q2-semi-sales-hit-403bn-says-sia-2026-08/\">Semi sales up 123%</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "PON due for 844% growth",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/2026-pon-revenues-due-fo-r-844-growth-yoy-2026-08/",
-    "summary": "<p>2026 PON (Passive Optical Network) technology equipment revenues are expected to increase 844% YoY, driven by hyperscalers looking to use the point-to-multipoint technologies to reduce the cabling and power consumption [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/2026-pon-revenues-due-fo-r-844-growth-yoy-2026-08/\">PON due for 844% growth</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "High current and sense SPST switching family",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/spst-switching-family-2026-08/",
-    "summary": "<p>Pickering Interfaces of Clacton-on-Sea, the supplier of modular signal switching and simulation solutions for electronic test and verification, has introduced the 60-191 LXI high current and sense SPST switching family. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/spst-switching-family-2026-08/\">High current and sense SPST switching family</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Yamaichi launches right-angled PCB socket",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/yamaichi-2-2026-08/",
-    "summary": "<p>Yamaichi Electronics has expanded its Y-Circ P T-Series with a 90° PCB socket for demanding industrial applications. The new angled PCB socket offers high flexibility, IP68 protection and numerous variants [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/yamaichi-2-2026-08/\">Yamaichi launches right-angled PCB socket</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Ed Gets The Vibe",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-gets-the-vibe-2026-08/",
-    "summary": "<p>I’m rather swept up by this vibe coding thing, Ed confides to his diary. The fastest-growing tech startup in history &#8211; reaching $100 million annual recurring revenues in eight months [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-gets-the-vibe-2026-08/\">Ed Gets The Vibe</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/08/10/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-10/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
     "title": "Make a Voice Clock with MicroPython",
@@ -152,13 +117,6 @@
     "date": "2026-08-09",
     "url": "https://hackaday.com/2026/08/09/hackaday-links-august-9-2026/",
     "summary": "<div><img alt=\"Hackaday Links Column Banner\" class=\"attachment-large size-large wp-post-image\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Bad news for anyone who was hoping for some relief from the memory shortage &#8212; Digitimes is reporting that the production capacity of major players such as Samsung, Micron, and <a class=\"read-more\" href=\"https://hackaday.com/2026/08/09/hackaday-links-august-9-2026/\">&#8230;read more</a>"
-  },
-  {
-    "title": "The Stages of Grief in Repairing a Trinitron Found in the Trash",
-    "source": "Hackaday",
-    "date": "2026-08-09",
-    "url": "https://hackaday.com/2026/08/09/the-stages-of-grief-in-repairing-a-trinitron-found-in-the-trash/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"443\" src=\"https://hackaday.com/wp-content/uploads/2026/08/junk_tv_road_happychoice_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Sometimes you see a project just staring at you with proverbial puppy dog eyes and you just cannot look away. In the case of a once rather nice Sony TV <a class=\"read-more\" href=\"https://hackaday.com/2026/08/09/the-stages-of-grief-in-repairing-a-trinitron-found-in-the-trash/\">&#8230;read more</a>"
   },
   {
     "title": "MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging",
@@ -257,34 +215,6 @@
     "date": "2026-08-07",
     "url": "https://blog.adafruit.com/2026/08/07/john-parks-circuitpython-parsec-fruit-jam-library-buttons/",
     "summary": "#circuitpythonparsec Use the Fruit Jam Library peripherals module to easily check for button presses. Try out the code example To learn about CircuitPython: https://circuitpython.org &#160;"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-08-07",
-    "url": "https://blog.adafruit.com/2026/08/07/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-7-2/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
-  },
-  {
-    "title": "What to Make with Adafruit Feather RP2040 Adalogger",
-    "source": "Adafruit",
-    "date": "2026-08-07",
-    "url": "https://blog.adafruit.com/2026/08/07/what-to-make-with-adafruit-feather-rp2040-adalogger/",
-    "summary": "The Adafruit Feather RP2040 Adalogger is our take on an &#8216;all-in-one&#8217; RP2040 data-logger (or data-reader) with built-in USB, battery charging, and a microSD holder ready to rock! The RP2040 Adalogger is the same size and shape as a Feather and is intended to make your next data logging or data reading project super easy. Micro [&#8230;]"
-  },
-  {
-    "title": "Get Creative with Robotics Using CRICKIT",
-    "source": "Adafruit",
-    "date": "2026-08-07",
-    "url": "https://blog.adafruit.com/2026/08/07/get-creative-with-robotics-using-crickit/",
-    "summary": "Make a robot friend with Adafruit&#8217;s CRICKIT, an add-on to our popular Circuit Playground Express, FEATHER and other platforms to make and program robots with CircuitPython, MakeCode, and Arduino. CRICKIT complements and extends your boards so you can still use all the goodies on the microcontroller, just with an additional robotics playground! See all that [&#8230;]"
-  },
-  {
-    "title": "ESP32 DevKit 30-Pin USB-C Case #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-08-07",
-    "url": "https://blog.adafruit.com/2026/08/06/esp32-devkit-30-pin-usb-c-case-3dthursday-3dprinting/",
-    "summary": "kmccoy shares: A snap-fit case for the 30-pin ESP32 devkit with USB-C connector, presumably fits similar clone versions. Embossed &#8216;ESP32&#8217; and USB indicator on the inside, plus &#8216;EN&#8217; and &#8216;BOOT&#8217; labels on the top surface near access holes. July 2025 update added a bottom variant with bolt hole for Multiboard or OpenGrid mounting. &#8216;No text&#8217; [&#8230;]"
   },
   {
     "title": "Grounded AI: Making Agentic AI Work for Complex Engineering Systems",

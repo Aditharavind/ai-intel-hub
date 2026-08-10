@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-10 14:09 UTC
+Last Updated: 2026-08-10 15:45 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-10 | Functional Jumping Pokéball from an Ancient Pokémon World | Hackaday | [link](https://hackaday.com/2026/08/10/functional-jumping-pokeball-from-an-ancient-pokemon-world/) |
 | 2026-08-10 | The Physics of Keeping Thermal Power Stations Cool | Hackaday | [link](https://hackaday.com/2026/08/10/the-physics-of-keeping-thermal-power-stations-cool/) |
 | 2026-08-10 | Triggering Lightning with a Rocket | Hackaday | [link](https://hackaday.com/2026/08/10/triggering-lightning-with-a-rocket/) |
 | 2026-08-10 | Even on the Red Planet, Hexagons are the Bestagons | Hackaday | [link](https://hackaday.com/2026/08/10/even-on-the-red-planet-hexagons-are-the-bestagons/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion | CNX Software | [link](https://www.cnx-software.com/2026/08/10/raspberry-pi-cm4-cm5-based-wisgate-connect-router-rak7392-offers-2-5gbe-mini-pcie-and-wisblock-expansion/) |
 | 2026-08-10 | Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port | CNX Software | [link](https://www.cnx-software.com/2026/08/10/comu-6-tiny-ch32v203-risc-v-development-board-that-fits-inside-a-usb-port/) |
 | 2026-08-10 | Elecrow ThinkNode M9 – A standalone ESP32-S3 MeshCore communication terminal with color LCD, QWERTY keyboard | CNX Software | [link](https://www.cnx-software.com/2026/08/10/elecrow-thinknode-m9-a-standalone-esp32-s3-meshcore-communication-terminal-with-color-lcd-qwerty-keyboard/) |
-| 2026-08-10 | Intel to raise $15bn in share sale | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/intel-to-raise-15bn-in-share-sale-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -78,6 +78,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-10 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
+| 2026-08-10 | eurecat-robotics/g1-policies | 0 | 0 | [link](https://huggingface.co/eurecat-robotics/g1-policies) |
 | 2026-08-10 | RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_20K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_20K) |
 | 2026-08-10 | Myungkyu/hiwrld-baseline-ckpts-real-robot | 0 | 0 | [link](https://huggingface.co/Myungkyu/hiwrld-baseline-ckpts-real-robot) |
 | 2026-08-10 | RobotisSW/PickGreenCoffeeCan_WhiteShdlf_byGrootModel_80K | 0 | 0 | [link](https://huggingface.co/RobotisSW/PickGreenCoffeeCan_WhiteShdlf_byGrootModel_80K) |
@@ -85,19 +86,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_50K) |
 | 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_30K) |
 | 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_10K) |
-| 2026-08-10 | Grigorij/Tello_multifruit_sum_vla_jepa | 0 | 0 | [link](https://huggingface.co/Grigorij/Tello_multifruit_sum_vla_jepa) |
-| 2026-08-10 | khoavucao2511/so101_vla_jepa_09_08_26_freeze_Qwen3_UpChunkSizexnActionsteps | 0 | 0 | [link](https://huggingface.co/khoavucao2511/so101_vla_jepa_09_08_26_freeze_Qwen3_UpChunkSizexnActionsteps) |
+| 2026-08-10 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1445 | Rust | 578.1 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 899 | Python | 359.7 | [link](https://github.com/mosaico-labs/mosaico) |
-| commaai/openpilot | 63376 | Python | 25350.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63377 | Python | 25350.9 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16103 | Python | 6441.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15658 | C++ | 6263.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14505 | C++ | 5802.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13211 | JavaScript | 5284.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14506 | C++ | 5802.5 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13215 | JavaScript | 5286.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11310 | Python | 4524.1 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11274 | Rust | 4509.7 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7870 | Python | 3148.1 | [link](https://github.com/isaac-sim/IsaacLab) |
@@ -105,12 +105,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxONEdLRklEMWlxUlUyeW96WW81VldYQW1JTlk2bHEweFpjYkdfcGVmOFRPcC03NnpnSmhib3NoekJrcWVwM2pkRWF0aHQ2TmxmNm5UVk5RY2lxSjFUeHRkQjJMbVUyWHNKQ3d5Unctd0pZSTNxeEdPVzVxTnVQejFjNTZkeTZ0WmZ5YXd0VDFCUVpFSkhWU3FCb3FVODFGR1VCMXppamtnbXVjX25GalNHMjBndnFLWTQxZjJwaWEtMGlIVW5CanZVcVh4RHoxT3AwQ0EwMTZfUnFpZE4zcUh5U3JPVUI2OVZ3TDZYYg?oc=5) |
 | 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxObUY0VWNuNVRvY2gwcUQ5LXNGckpTUmZtc01MNW5scDYtSUF1Mm45ejRMWjBUYWtLbG1xaUJKYmtyNWpaV1ZJakFST0p6bHRuWXZtX001b3I3OFBEVnNXU2xrYTZPSEZVX191RmwtakxBQ2VtZlJ0bzJidlhaYlVPUF9keklMVWtQUnZSSHNVek1fRVhhVGc0eGc0blRrVkE?oc=5) |
 | 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1SeW5DcjhxcndHNHRHd3doWVctVHFrNXZHZWpwZW5NWmNCM2NoTDFXZU13ZF9CTG44a2dlSThlVDFIeUFsU0Y3UTlpUGtpZVZYbXUzTWJQVjZBRm54d1Z6S3NmTEIyWjhaR3Z6bmxGTERHWERpdlE?oc=5) |
 | 2026-08-09 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVlcxeVI1YnZoeC1BR19oUjdrMHRsRUltODhjYlZoSE03MnRHX0dGN0x0ZWFnek9QT3ZiZ0E1dHV1a05rd3NtWHVtNXBHWFBQNmxuaFhlajJDQQ?oc=5) |
 | 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzRRUmZZTTlqMHBVNk9ZYTRjUGM0X3N6Q2FhYXVaY1pKbDhwWTA5UjlwX0NicHVkRTJLRFlUUXNFalhwRFVMak1fTTNRUmhoVEF4YThKQUlBSnZsZ1ZwZmNKT3BkNXBrcUNRcXVMRkhBYVowWmFiY1BJNjRLOExaMG82Y2lfaFYxTlBkRzBBcHpQNm5POEUtcG9VVFBQdDRCTVp0ZHhUaW9RYWRPX0Y1OGJ3YzJ0a3lhdHR1TGRKcVVLRmhtTmw2dtIByAFBVV95cUxQOWRxV0dRV2NIWmxBLVFEOGN1el82TWYtcVhhSm5HY18yY0FyTkhkSWhtVGRvY0toN1RJd1ozSFFCdXRFX2VWNDluZWJCYmkwanhKNlhWSHYxRmFCZTJrQ2Ryc0RTWHFvT2Z5V2kzYlNlZzhNOGZBd044MlExMmduZ1Q3NDhDN0JwMXZJQ3AwV2FabDVTdFNRMTBXTS1kcEt4LUdzU1NpSU84eXdDdmR2dlcyeGw0NkUtdGxBb21LRUdDUktkU2UwRg?oc=5) |
 | 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaHM4TjBHTURCS2JaWjVyWVN5SDhCbTBNcnZveVg3SjRKS282MU1YbXNNN0FKVF9vQ2JUX19RYnZUSEhqS2Fza1hmMnZYZDByMGZjVk5KdEhoa25sZEJIZHIzT3VMeEV3d1RUNk9Fa01PM25QREJUd21NWnFCdlF2U1FCVGlEaVhiUGtWbktCZWJ6N0JqM1hwMlJFRFNRU0xMRW1QVmVDcHctSUVmNkhxMTZ6Q0ZvQ2xuU1QzckJFSGRUOEFfR0NRRVc1SW1UdUpJTWtabU52aVpQb1E?oc=5) |
-| 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWUlEVmZNRmc3WG0tbVFTbzY5OEZsYmFRcHdyRFpXcTBnU3BOWTJwRkl5XzJCWWgxUm5NRzUwWFV3aEdVRE42cWFiZUpfdEFfWEdDUnN1WVh3X0x6VXhQUFZKSzBaZkE0X0VhbjdzYVZrb1d5am9WSi10NjFxT0diMGVjREpaanJFeUc2QVV2SXA1SUdXX1ZOX2plcURoa0ZYYzlOaDl4dEpfbFBiTnhvYmYybkJ6T00wSWl0Z1ZNc0I1d0I0bUpLZ2hXNkhCUnNQeTlIMWppNNIB3AFBVV95cUxNaHZyOTZobVZiXzY3U290ZFRqU2s4RXZHNTNwZmpVZUt5emNobTBzNm5wZzE5dXZqOUdiNU1NWEtqNGszbUNuMUhoelFTZFdIVFd4bVF3WUxJNjQtT2R5V05MbElSbTJ4Qjd0NU41WW5fLXlUMVNKaklRN0Z6MTI3T1hnS3RvbndrNi1fOEd1WnM3Ym90X0VZN2NRVkNfMUxZRlRLZkRSR3gxZ2tVdGdzNFg2SW5sNTdkWi13eVJzWDlZTl9PaTlncG9waEZxMHFSb3VXRGRMUkhfWVZv?oc=5) |
 | 2026-08-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBrQWhpbzZHRmtfcHNqYWxvZ3htZm10OXFKdW9ZaEZmZDlRMzZaLUpJbkJDSGVWbnlPYWlTcUVjOTQ4YTlMNlBDVVdQb19GU1ZWRXZnYUxSSmlNNUc4Q09tNXRUQUxvOENwT0prd0dOa1Rja0RzX3c?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUk1Hd2d1WFRNOHpKUkJ0aGR4UE1RYnR0cFJZRVhZb0NkNWtUejlGVHpHcUtOVkNQS2d2ZXlCRnJMVmg0QlFfV3R5TGR0NzJCQ0xrbjVGcW91MDdwSEUxZTd0V2RDc29uMjkyYmxIRmtUdl9ja3VUMWZyMU1iUnZFWFZyM1p2ZzlpOGV3aGRfelVabFpjZXNIazYxYzNxWWQxLXNucjUxV29HakHSAbABQVVfeXFMTnJLeHg2MTNEVzRLVV8wYjFCdzl3clhjMjctX28yVU9sSzkyMHdLTDIzX3NVVUFpU3lFX3dVTENPVFViTlBwOUFsMVpqOFBnTHB2MWhwQ1RFejltRk44MmlmMUFIRGkwbFF5azVKYUdENDRjZTJNZmdsUk00NHdJajFiQXFZN0JiMEpyUng5bTh3Vl82a3N0M3FpYk01S1pmVk91OXA3LTlLbjI0dU82TFc?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzBJcnRzZ0xGcE5fanRrcmlXZGFYUG9WMDc0cFdNQmJCX2plV1h5anNuYk1zZVBKS1lpd29TSU5BS2ZMMWNobzhHUTVGdXhYMnRBcWx6cGwzdkVHaEJ1eGY5NlktVDdRZGZYRXU0MDV2LWh3aWFyanBnUWlUSlJoeTV2WkNzYXBMNFZua056aXBFeUI1RmtRcWgxTGR4a2pLYWpBbTRobC16dzQ0dkg3aVFTZ2lWTVVzTDlkSGp3Wlk2MHJ1Mi1HZFZPSUFlYnlx?oc=5) |
@@ -120,6 +120,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-10 | Backed by China Merchants Venture and NIO Capital, Acorn Robot Bets on a "Zero-Data" Path to Win the Embodied AI Race - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9vZFRJN3hNMmZKc3Z5LVh3Z2tQSzh3UW1PWEhMN1FTbG5td0pkYTAtc2c5ZE1kTEJIcmpiYVd0akVnME1mWXJvR3diZmlUTjNLNFpyWThySjQwOHcyUjNFNkJ4NkI3UDZ5dFZYUHZUSHExRElMMEE?oc=5) |
+| 2026-08-10 | Explainer-What is Unitree and why are China’s humanoid robot makers racing to list? - WTVB | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG03UFlKLTk1TEVuYWRZMEVsY01YY3I4MExPQWN0WGtMRjYwNlZpTHFJTEZuU00tOVRGa0VWbUhmSnhLR25qQW5RZF9BUHl1bUdrYXNvMzJKNFliM1piOXRwal9TcjNDeWpQdzVqYktpcUJqM1pQZ3lZLTZISVpxZVNzRmZYbjc0TTNsSGt2ajZMUmpKU2psOFR0UFhpajVnZzNOV3FMa09uUVVrNzQ1TGFB?oc=5) |
 | 2026-08-09 | Unitree's Shanghai IPO Prices China's First Humanoid Robot Maker at $9 Billion - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVVBMzdkdDd0UnlkcFgxTHk4eUdnLTJOTldZeEJuWkFOYU03NmN2MjIxUm9RcEtHWER5S1phZTNWaWhlY2kySFcxSFZxTFZNYjVIenpIWE9mTV9ucjNoNE0zU04xMXE2cWRLVHNVUmRhaENSdVJVaDN0amRIeU1VMi1yZXVZMzRDUlQ0d3VtVlZHQi1rV1c2Yk5hMFloSW1xc1FwRWtB?oc=5) |
 | 2026-08-07 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
 | 2026-08-06 | Defense Startup: AI Turns 2 Months Of Engineering Into 20 Minutes - Forbes | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXNSNm9OdHU3QzRZeUZUS0VZMmI1RHBXNUU3Y3lrU1NmX29BcFBsTG9oMjA0ZzBRVkpHUm9iaGNMa1F4Q3J6RF9tMU95eDRHVXVXLWhncTkxN056TXhqSkdIMHc0bDRrSENkS1d0N29WSGNMVE9VemZQLTU5eGZldUc2Skx3ZFBSQUtMMGtpaUVnbm41ZEFqWGJXeG1xTFNXRlpWZERsMVNsRjhkZTNkaUd3QnhuYUZKdVE?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-05 | Shelfmark raises $3.5M to scale physical AI and hire in Pittsburgh - Technical.ly | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0RmRnJhX2tKTzVpOTl3U2JYT3lUVHRuSER0MDdZdzRsRmtmamR0RU1zcDFfQWxjOE5VUEtDYV83X3BWSGFLMGxCYjVuT0QyREpIOGh4RS1rSG0tai0zaUR6Tk9MQTJaYmxGXzRiUjdpMFcxYnhTQWYzRWprQ0hubDdZNFk1RGFKOTh0UHhUSHYtZw?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
 | 2026-08-03 | China Sees Most Investments in Humanoid Robots - Statista | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNEEzYnVlckNDOXFoV1ljRk4zZzQ0dDFmOVl2WnlURnA0c3RDS1hCczh5NDBBbklYUV9NaE9UTzZRdnJLOVNZa2Nwb01keHdqMjZjcHJxWTA4c3Rxb2paNHR5RmFiUHA5N1JRMUM0bkFBbk9Ua005U1NaYTU5WjE5TFdWR3BwNnRvVG5weGpTNGtMZHNwU1luSUV5ckFNQ1Q0aTh4eXR2WWJObkQzVXZpZVR4VzPSAboBQVVfeXFMUGlvbUtKRmsweTdCY1Q5MlFJQjFPQXQ2STUwSmVxeDFsbnl3S1lsNzhTcUtnd1lHbFZjY0tBUm5lQVpuRm0wSi0wRTVRMWZrOEZ0NlhraE5tY3pkVm9xaFF2UW9xdzB4TjVIVjk3dDhVWFVkTF9TUk1DaTdUMHI5X3JBRVVWdURuZ0xmRW52WjBzWWw5RF9pNlNNSndFZEZtY2hyYVFPdmsyMnNrWmJoUlZBaUNqR1RNSE9n?oc=5) |
-| 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - The Business Journals | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
