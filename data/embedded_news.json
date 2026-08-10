@@ -1,5 +1,12 @@
 [
   {
+    "title": "Linux Fu: Heads or Tails for VPN",
+    "source": "Hackaday",
+    "date": "2026-08-10",
+    "url": "https://hackaday.com/2026/08/10/linux-fu-heads-or-tails-for-vpn/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2020/05/LinuxFu.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you&#8217;ve done much networking, you surely know the frustration of trying to connect to something, say a Raspberry Pi, that lives behind your consumer router. There are a number <a class=\"read-more\" href=\"https://hackaday.com/2026/08/10/linux-fu-heads-or-tails-for-vpn/\">&#8230;read more</a>"
+  },
+  {
     "title": "Functional Jumping Pokéball from an Ancient Pokémon World",
     "source": "Hackaday",
     "date": "2026-08-10",
@@ -70,74 +77,18 @@
     "summary": "<div><img alt=\"ThinkNode M9 MeshCore Communication Terminal\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/ThinkNode-M9-MeshCore-Communication-Terminal-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Elecrow ThinkNode M9 is a standalone LoRa terminal that runs MeshCore firmware and features a QWERTY keyboard, color display, GPS, LoRa connectivity, and a 2,300mAh battery, making it suitable for outdoor and emergency communication. The device is built around an ESP32-S3R8 and a Semtech LR1110 LoRa module supporting US915 and EU868 frequencies, while the esp32-s3 adds Wi-Fi 4 and Bluetooth 5.0/BLE connectivity. Additionally, it features a 2.4-inch 240 × 320 TFT LCD, a 37-key physical QWERTY keyboard, GPS/GNSS support, plus a magnetic compass for navigation and location sharing. Other features include a USB-C port for charging and programming, RTC, buzzer, built-in antennas, and a 2,300mAh/3.8V Li-Po battery rated for up to 2–3 days in standby. The M9 targets outdoor exploration, emergency and disaster communication, remote operations, scientific research, and offline community or privacy-focused communication. ThinkNode M9 specifications: SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/10/elecrow-thinknode-m9-a-standalone-esp32-s3-meshcore-communication-terminal-with-color-lcd-qwerty-keyboard/\">Elecrow ThinkNode M9 &#8211; A standalone ESP32-S3 MeshCore communication terminal with color LCD, QWERTY keyboard</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Keysight expands PDK for GlobalFoundries’ photonics process",
-    "source": "Electronics Weekly",
+    "title": "Run your GLSL headless on a GPU and puts the frames on different displays",
+    "source": "Adafruit",
     "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/products/software-products/rf-physics-design-software-2026-08/",
-    "summary": "<p>Keysight Technologies&#8217; Advanced Design System (ADS) Photonic Design process design kit (PDK) supports GlobalFoundries’ silicon photonics process technology. This allows designers to validate how photonics circuits perform at the optical [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/software-products/rf-physics-design-software-2026-08/\">Keysight expands PDK for GlobalFoundries&#8217; photonics process</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/08/10/runs-your-glsl-headless-on-the-gpu-and-puts-the-frames-on-different-displays/",
+    "summary": "ghee runs your GLSL headless on the GPU and puts the frames on an SPI/I2C panel, HDMI, image files, or an H264 stream. Multi-pass, Shadertoy-style, any Raspberry Pi. ghee renders with GLES2 through DRM/GBM on a stock Raspberry Pi OS Lite image, HDMI takes direct scanout. ghee teaches no GLSL, The Book of Shaders and Shadertoy have that covered. [&#8230;]"
   },
   {
-    "title": "Startup reinvents digital simulation to match chip size increases",
-    "source": "Electronics Weekly",
+    "title": "BABAI – DIY Interactive Desktop Robot Inspired by Dasai Mochi",
+    "source": "Adafruit",
     "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/products/software-products/startup-reinvents-digital-simulation-to-match-chip-size-increases-2026-08/",
-    "summary": "<p>One of the most intriguing startups at DAC 2026 was the Israeli, deep-tech EDA company, Hiveware. Its headline was that it is emerging from stealth mode with $24m in funding [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/software-products/startup-reinvents-digital-simulation-to-match-chip-size-increases-2026-08/\">Startup reinvents digital simulation to match chip size increases</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Europe’s Iris² satellite constellation to expand",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/europes-iris%c2%b2-satellite-constellation-to-expand-2026-08/",
-    "summary": "<p>The European Commission and the commercial SpaceRISE consortium have agreed to roll out an expanded IRIS², the EU&#8217;s flagship satellite constellation. It will add 66 LEO satellites to the programme, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/europes-iris%c2%b2-satellite-constellation-to-expand-2026-08/\">Europe&#8217;s Iris² satellite constellation to expand</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Starlink – Elon’s Cash Cow",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/starlink-elons-cash-cow-2026-08/",
-    "summary": "<p>SpaceX has significantly boosted its EBITDA driven primarily by its Starlink satellite internet service. In the second quarter of 2026, the company posted an unadjusted profit of $3.5 billion, up [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/markets/starlink-elons-cash-cow-2026-08/\">Starlink &#8211; Elon’s Cash Cow</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Intel to raise $15bn in share sale",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/intel-to-raise-15bn-in-share-sale-2026-08/",
-    "summary": "<p>Intel today announced a $15 billion underwritten public offering of common stock. Intel shares have risen from around $20 to around $100 since LIp-Bu Tan took over in March last [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/intel-to-raise-15bn-in-share-sale-2026-08/\">Intel to raise $15bn in share sale</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Lane Electronics distributing Cinch-Fibreco JCON series beam adapters",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/lane-electronics-distributing-cinch-fibreco-jcon-series-beam-adapters-2026-08/",
-    "summary": "<p>The newly released Cinch-Fibreco JCON series, the JCON Junior Bulkhead Expanded Beam Adapter, is now available from Lane Electronics. The design of the adaptor is to simplify panel-mount fibre-optic connectivity [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/lane-electronics-distributing-cinch-fibreco-jcon-series-beam-adapters-2026-08/\">Lane Electronics distributing Cinch-Fibreco JCON series beam adapters</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Satellite SAR imaging services win NRO RCA contracts",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/satellite-sar-imaging-services-win-nro-rca-contracts-2026-08/",
-    "summary": "<p>Three companies have won Radar Commercial Augmentation (RCA) contracts from the US National Reconnaissance Office (NRO) involving Synthetic Aperture Radar (SAR) imaging. They are: Capella Space, ICEYE US and Umbra [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/satellite-sar-imaging-services-win-nro-rca-contracts-2026-08/\">Satellite SAR imaging services win NRO RCA contracts</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "TSMC July revenue up 44.7% y-o-y",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/tsmc-july-revenue-up-44-7-yoy-2026-08/",
-    "summary": "<p>TSMC’s revenue for July 2026 was approximately $14.5bn, an increase of 5.6% from June 2026 and an increase of 44.7% from July 2025. Revenue for January through July 2026 totalled [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-july-revenue-up-44-7-yoy-2026-08/\">TSMC July revenue up 44.7% y-o-y</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "UK gets taste for China’s BEVs",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/uk-gets-taste-for-chinas-bevs-2026-08/",
-    "summary": "<p>UK battery EV sales rose 44.5% in July to 43,106 says the Society of Motor Manufacturers and Traders, representing more than 25% of the total car market. 9,750 of the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/uk-gets-taste-for-chinas-bevs-2026-08/\">UK gets taste for China’s BEVs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Semi sales up 123%",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/q2-semi-sales-hit-403bn-says-sia-2026-08/",
-    "summary": "<p>June semi sales were up 123.6% at $134.5bn, says the SIA, and up 9.7% on May. Q2 semiconductor sales of  $403.3bn were up 35.1% compared to Q1. “Global chip sales [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/q2-semi-sales-hit-403bn-says-sia-2026-08/\">Semi sales up 123%</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/08/10/babai-diy-interactive-desktop-robot-inspired-by-dasai-mochi/",
+    "summary": "Super cute project from Ukranian maker Gi_motion using a Seeed Studio XIAO ESP32-S3 and an oled display. BABAI – An Interactive Dashboard Companion BABAI is a fully custom interactive companion that I designed and built from scratch in Ukraine. From the 3D modeling and electronics to the firmware, animations, and enclosure, every part of this [&#8230;]"
   },
   {
     "title": "Code for forward error correction for SDR, space, and satellite applications",
@@ -180,13 +131,6 @@
     "date": "2026-08-10",
     "url": "https://www.eejournal.com/article/100w-class-d-subwoofer-amp-build-or-buy/",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/08/Subwoofer-Amp-Board-2-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I started working with electronics in high school, back in the 1960s. Heathkit got big in this era. Radio Shack was in its component prime during this time. Building electronic systems from component parts was where it was at. Fast forward 60 years and my how things have changed. Radio Shack is all but gone &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/100w-class-d-subwoofer-amp-build-or-buy/\">Read More &#8594;<span class=\"screen-reader-text\"> \"100W Class D Subwoofer amp: Build or Buy?\"</span></a>"
-  },
-  {
-    "title": "Hackaday Links: August 9, 2026",
-    "source": "Hackaday",
-    "date": "2026-08-09",
-    "url": "https://hackaday.com/2026/08/09/hackaday-links-august-9-2026/",
-    "summary": "<div><img alt=\"Hackaday Links Column Banner\" class=\"attachment-large size-large wp-post-image\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Bad news for anyone who was hoping for some relief from the memory shortage &#8212; Digitimes is reporting that the production capacity of major players such as Samsung, Micron, and <a class=\"read-more\" href=\"https://hackaday.com/2026/08/09/hackaday-links-august-9-2026/\">&#8230;read more</a>"
   },
   {
     "title": "MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging",
@@ -271,20 +215,6 @@
     "date": "2026-08-07",
     "url": "https://blog.adafruit.com/2026/08/07/is-now-the-right-time-to-build-your-own-raspberry-pi-powered-retro-video-game-console-piday-raspberrypi/",
     "summary": "&#160; With modern game prices creeping up, and consoles doing away with physical media, it might be the perfect time to dive into some retro games! Will Greenwald and Jason Cohen at PCMag.com put together this handy guide. It also serves as a good reminder of huge back catalog of classic games waiting to be [&#8230;]"
-  },
-  {
-    "title": "Subscribe to the Adafruit Youtube channel! #Youtube #AdafruitLearnSystem",
-    "source": "Adafruit",
-    "date": "2026-08-07",
-    "url": "https://blog.adafruit.com/2026/08/07/subscribe-to-the-adafruit-youtube-channel-youtube-adafruitlearnsystem-226-4-2/",
-    "summary": "﻿ Are you subscribed to the Adafruit Youtube channel? If you&#8217;re not already subscribed, click here! http://adafru.it/subscribe . It’s a free and easy way to keep up with our newest episodes. Here’s some of what we’re up to. Electronics Show and Tell Wednesdays 7:30pm Electronics show and tell every Wednesday at 7:30pm ET. Adafruit Ask [&#8230;]"
-  },
-  {
-    "title": "John Park’s CircuitPython Parsec: Fruit Jam Library – Buttons",
-    "source": "Adafruit",
-    "date": "2026-08-07",
-    "url": "https://blog.adafruit.com/2026/08/07/john-parks-circuitpython-parsec-fruit-jam-library-buttons/",
-    "summary": "#circuitpythonparsec Use the Fruit Jam Library peripherals module to easily check for button presses. Try out the code example To learn about CircuitPython: https://circuitpython.org &#160;"
   },
   {
     "title": "Grounded AI: Making Agentic AI Work for Complex Engineering Systems",

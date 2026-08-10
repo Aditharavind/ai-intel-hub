@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-10 16:39 UTC
+Last Updated: 2026-08-10 17:41 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -10,13 +10,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas | OpenAI | [link](https://openai.com/index/responsible-ai-infrastructure-texas) |
 | 2026-08-10 | Model ML completes finance work more efficiently with GPT-5.6 Sol | OpenAI | [link](https://openai.com/index/model-ml) |
 | 2026-08-10 | What building an AI-native finance function taught me | OpenAI | [link](https://openai.com/index/building-an-ai-native-finance-function) |
+| 2026-08-10 | Putting frontier cyber models in more trusted hands | OpenAI | [link](https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands) |
+| 2026-08-10 | Premium seats are coming to ChatGPT Business | OpenAI | [link](https://openai.com/index/premium-seats-chatgpt-business) |
 | 2026-08-10 | Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS | Hugging Face | [link](https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents) |
 | 2026-08-10 | Making Knowledge Distillation Cheap Enough to Run at Scale | Hugging Face | [link](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation) |
 | 2026-08-10 | Meta is back with Muse Glimmer: local, agentic, multimodal, and open source | Hugging Face | [link](https://huggingface.co/blog/muse-glimmer) |
 | 2026-08-07 | Responding to the next frontier of critical cyber capabilities | OpenAI | [link](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities) |
 | 2026-08-07 | How HSP GRUPPE builds AI capabilities for tax advisory | OpenAI | [link](https://openai.com/index/hsp-gruppe) |
-| 2026-08-07 | TutorMoments: Do AI tutors know when to help and when to hold back? | Hugging Face | [link](https://huggingface.co/blog/allenai/tutormoments) |
-| 2026-08-06 | Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users | OpenAI | [link](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-10 | VicOne releases free NVIDIA Isaac Sim cybersecurity extension based on DEF CON 34 research | Robotics Business Review | [link](https://www.therobotreport.com/vicone-releases-free-nviida-isaac-sim-cybersecurity-extension-based-def-con-34-research/) |
 | 2026-08-09 | Analog Devices returns as strategic sponsor to aid MassRobotics startups | Robotics Business Review | [link](https://www.therobotreport.com/analog-devices-returns-strategic-sponsor-aid-massrobotics-startups/) |
 | 2026-08-08 | Experts look ahead at the next 20 years of robotics at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/experts-look-ahead-at-the-next-20-years-of-robotics-at-robobusiness/) |
 | 2026-08-07 | Video Friday: Drones Go Heavy in DARPA Lift Challenge | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-heavy-lift-drone) |
@@ -44,11 +45,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-06 | HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics | Robotics Business Review | [link](https://www.therobotreport.com/hii-signs-up-to-900m-agreement-with-path-robotics-graymatter-robotics/) |
 | 2026-08-06 | Report looks at advances in autonomous mobile robots | Robotics Business Review | [link](https://www.therobotreport.com/report-looks-at-advances-in-autonomous-mobile-robots/) |
 | 2026-08-06 | How Robin, the robotic companion, keeps patients calm during hospital visits | Robotics Business Review | [link](https://www.therobotreport.com/how-robin-robotic-companion-keeps-patients-calm-during-hospital-visits/) |
-| 2026-08-06 | Into the Omniverse: How Open World Models Push the Frontier of Physical AI | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/open-world-models-physical-ai/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-10 | Linux Fu: Heads or Tails for VPN | Hackaday | [link](https://hackaday.com/2026/08/10/linux-fu-heads-or-tails-for-vpn/) |
 | 2026-08-10 | Functional Jumping Pokéball from an Ancient Pokémon World | Hackaday | [link](https://hackaday.com/2026/08/10/functional-jumping-pokeball-from-an-ancient-pokemon-world/) |
 | 2026-08-10 | The Physics of Keeping Thermal Power Stations Cool | Hackaday | [link](https://hackaday.com/2026/08/10/the-physics-of-keeping-thermal-power-stations-cool/) |
 | 2026-08-10 | Triggering Lightning with a Rocket | Hackaday | [link](https://hackaday.com/2026/08/10/triggering-lightning-with-a-rocket/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | PyBLE open-source MicroPython IDE works over Bluetooth LE for tablet and iPad users | CNX Software | [link](https://www.cnx-software.com/2026/08/10/pyble-open-source-micropython-ide-works-over-bluetooth-le-for-tablet-and-ipad-users/) |
 | 2026-08-10 | Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion | CNX Software | [link](https://www.cnx-software.com/2026/08/10/raspberry-pi-cm4-cm5-based-wisgate-connect-router-rak7392-offers-2-5gbe-mini-pcie-and-wisblock-expansion/) |
 | 2026-08-10 | Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port | CNX Software | [link](https://www.cnx-software.com/2026/08/10/comu-6-tiny-ch32v203-risc-v-development-board-that-fits-inside-a-usb-port/) |
-| 2026-08-10 | Elecrow ThinkNode M9 – A standalone ESP32-S3 MeshCore communication terminal with color LCD, QWERTY keyboard | CNX Software | [link](https://www.cnx-software.com/2026/08/10/elecrow-thinknode-m9-a-standalone-esp32-s3-meshcore-communication-terminal-with-color-lcd-qwerty-keyboard/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-10 | locht131/gr00t_robotwin_2hand_quat_5_tasks_s25k_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_robotwin_2hand_quat_5_tasks_s25k_bs64) |
 | 2026-08-10 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-10 | eurecat-robotics/g1-policies | 0 | 0 | [link](https://huggingface.co/eurecat-robotics/g1-policies) |
 | 2026-08-10 | RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_20K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_20K) |
@@ -86,18 +87,17 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_50K) |
 | 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_30K) |
 | 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_10K) |
-| 2026-08-10 | Grigorij/Isaac_franka_4_vla_jepa_2 | 0 | 0 | [link](https://huggingface.co/Grigorij/Isaac_franka_4_vla_jepa_2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1445 | Rust | 578.1 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
-| commaai/openpilot | 63377 | Python | 25350.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63378 | Python | 25351.3 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16103 | Python | 6441.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15658 | C++ | 6263.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14506 | C++ | 5802.5 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13218 | JavaScript | 5287.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13219 | JavaScript | 5287.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11311 | Python | 4524.5 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11274 | Rust | 4509.7 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7870 | Python | 3148.1 | [link](https://github.com/isaac-sim/IsaacLab) |
@@ -127,8 +127,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-06 | 36Kr Exclusive: Tsinghua-affiliated Physical AI Infrastructure Startup Secures Tens of Millions of US Dollars in New Financing Round, Global Large-scale Delivery of Its Data Equipment Launches - 36 Kr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02LXEyc0pZcHU3S3ptaVZzM1E3UVFESk8xa2I0bnI0eF9wQWFLOEhnTVJuS2VfV3U4d21zQnNSeTg1X1hDeTdVSXl2NXh5WUpWV2Vj?oc=5) |
 | 2026-08-06 | AI robot startup challenging future of warfare - Caliber.Az | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE8yRW4zTzBaX0dCUmc1Qk1xY2N3ZTdxYnJvaHdEaExMTklLU2J5Z2JSaG93dzAxT0JITERoenRQM20tWmtKUGR1YkNCaHJjVU82NXF4SXRTOWV0V2dwSVQtay0wd3FPX3ZqWHpaQ0t0cEd1dWJJb0VaWXpxS2FnZw?oc=5) |
 | 2026-08-05 | Shelfmark raises $3.5M to scale physical AI and hire in Pittsburgh - Technical.ly | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0RmRnJhX2tKTzVpOTl3U2JYT3lUVHRuSER0MDdZdzRsRmtmamR0RU1zcDFfQWxjOE5VUEtDYV83X3BWSGFLMGxCYjVuT0QyREpIOGh4RS1rSG0tai0zaUR6Tk9MQTJaYmxGXzRiUjdpMFcxYnhTQWYzRWprQ0hubDdZNFk1RGFKOTh0UHhUSHYtZw?oc=5) |
+| 2026-08-05 | Embodied-AI data infrastructure startup Kaiwang Data raises more than RMB100 million - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEQ1d1ItMXdNMGFZc01vd3NXU1Q4MENTXzNXRVZoVzlrNENpV1d2MXM5NEstOHBsTkxPdF9IWnNJMWg2blpBa2tQQnJYWUZHQWg0TGZ6Ym5qNzlhX2N4OG02cmtQUV9IWXZYaVVZaktIdk55YXVfOTJKS3hxaE55R3VGMEFxaFVtaHRzYmkyZGtWaVJfYXZVMmpuZXMyazU4SzNNZ0ZkaHBjcjdJVWVKVEF6OW9hcU1i?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
-| 2026-08-03 | China Sees Most Investments in Humanoid Robots - Statista | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNEEzYnVlckNDOXFoV1ljRk4zZzQ0dDFmOVl2WnlURnA0c3RDS1hCczh5NDBBbklYUV9NaE9UTzZRdnJLOVNZa2Nwb01keHdqMjZjcHJxWTA4c3Rxb2paNHR5RmFiUHA5N1JRMUM0bkFBbk9Ua005U1NaYTU5WjE5TFdWR3BwNnRvVG5weGpTNGtMZHNwU1luSUV5ckFNQ1Q0aTh4eXR2WWJObkQzVXZpZVR4VzPSAboBQVVfeXFMUGlvbUtKRmsweTdCY1Q5MlFJQjFPQXQ2STUwSmVxeDFsbnl3S1lsNzhTcUtnd1lHbFZjY0tBUm5lQVpuRm0wSi0wRTVRMWZrOEZ0NlhraE5tY3pkVm9xaFF2UW9xdzB4TjVIVjk3dDhVWFVkTF9TUk1DaTdUMHI5X3JBRVVWdURuZ0xmRW52WjBzWWw5RF9pNlNNSndFZEZtY2hyYVFPdmsyMnNrWmJoUlZBaUNqR1RNSE9n?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
