@@ -72,10 +72,28 @@
     "score": 0.1
   },
   {
-    "model": "priestoc/put_cube_plate_vla",
+    "model": "Grigorij/Tello_multifruit_sum_vla_jepa",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/priestoc/put_cube_plate_vla",
+    "url": "https://huggingface.co/Grigorij/Tello_multifruit_sum_vla_jepa",
+    "date": "2026-08-10",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vlapky/TeraTTSv2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vlapky/TeraTTSv2",
+    "date": "2026-08-10",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Grigorij/Isaac_franka_4_vla_jepa",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Grigorij/Isaac_franka_4_vla_jepa",
     "date": "2026-08-10",
     "keyword": "vla",
     "score": 0.1
@@ -85,6 +103,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/vlabki/gv-v1",
+    "date": "2026-08-10",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "priestoc/put_cube_plate_vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/priestoc/put_cube_plate_vla",
     "date": "2026-08-10",
     "keyword": "vla",
     "score": 0.1
@@ -153,30 +180,48 @@
     "score": 0.1
   },
   {
-    "model": "B111ue/fcl-vla-baseline-recovery",
+    "model": "ericvandergijp/act_sort_policy_chunk30_v2",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/B111ue/fcl-vla-baseline-recovery",
+    "url": "https://huggingface.co/ericvandergijp/act_sort_policy_chunk30_v2",
     "date": "2026-08-10",
-    "keyword": "vla",
+    "keyword": "policy",
     "score": 0.1
   },
   {
-    "model": "geonmin-kim/VLA-JEPA-3B-SO101-D6231-Mdrift-step25000",
+    "model": "chouziel/policy-sugar-cup-060826-best",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-Mdrift-step25000",
+    "url": "https://huggingface.co/chouziel/policy-sugar-cup-060826-best",
     "date": "2026-08-10",
-    "keyword": "vla",
+    "keyword": "policy",
     "score": 0.1
   },
   {
-    "model": "Shiki42/up-vla-action-chunk-checkpoints",
+    "model": "chouziel/policy-sugar-cup-060826",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Shiki42/up-vla-action-chunk-checkpoints",
+    "url": "https://huggingface.co/chouziel/policy-sugar-cup-060826",
     "date": "2026-08-10",
-    "keyword": "vla",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Datdanboi25/chess-transition-policy",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/Datdanboi25/chess-transition-policy",
+    "date": "2026-08-10",
+    "keyword": "policy",
+    "score": 0.3
+  },
+  {
+    "model": "zzh2026/act_pickcube_random_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zzh2026/act_pickcube_random_policy",
+    "date": "2026-08-10",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -294,51 +339,6 @@
     "url": "https://huggingface.co/RubetekRobotics/UR10e-LinearGripper-Jig-SimDist-WorldModel",
     "date": "2026-08-09",
     "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "cbrian/policy_pi05_libero_dataset_MDWC16_steps_50000_ctrl_cartesian3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/cbrian/policy_pi05_libero_dataset_MDWC16_steps_50000_ctrl_cartesian3",
-    "date": "2026-08-09",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "soyames/arwen-policy-lora",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/soyames/arwen-policy-lora",
-    "date": "2026-08-09",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "soyames/arwen-policy-base",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/soyames/arwen-policy-base",
-    "date": "2026-08-09",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ericvandergijp/act_sort_policy_chunk30_final",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ericvandergijp/act_sort_policy_chunk30_final",
-    "date": "2026-08-09",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "cbrian/policy_pi05_libero_dataset_MDWC17_steps_50000_ctrl_cartesian",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/cbrian/policy_pi05_libero_dataset_MDWC17_steps_50000_ctrl_cartesian",
-    "date": "2026-08-09",
-    "keyword": "policy",
     "score": 0.1
   },
   {
