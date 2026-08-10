@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-10 11:38 UTC
+Last Updated: 2026-08-10 12:36 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -57,8 +57,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion | CNX Software | [link](https://www.cnx-software.com/2026/08/10/raspberry-pi-cm4-cm5-based-wisgate-connect-router-rak7392-offers-2-5gbe-mini-pcie-and-wisblock-expansion/) |
 | 2026-08-10 | Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port | CNX Software | [link](https://www.cnx-software.com/2026/08/10/comu-6-tiny-ch32v203-risc-v-development-board-that-fits-inside-a-usb-port/) |
 | 2026-08-10 | Elecrow ThinkNode M9 – A standalone ESP32-S3 MeshCore communication terminal with color LCD, QWERTY keyboard | CNX Software | [link](https://www.cnx-software.com/2026/08/10/elecrow-thinknode-m9-a-standalone-esp32-s3-meshcore-communication-terminal-with-color-lcd-qwerty-keyboard/) |
+| 2026-08-10 | Lane Electronics distributing Cinch-Fibreco JCON series beam adapters | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/lane-electronics-distributing-cinch-fibreco-jcon-series-beam-adapters-2026-08/) |
 | 2026-08-10 | Satellite SAR imaging services win NRO RCA contracts | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/satellite-sar-imaging-services-win-nro-rca-contracts-2026-08/) |
-| 2026-08-10 | TSMC July revenue up 44.7% y-o-y | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/tsmc-july-revenue-up-44-7-yoy-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -85,8 +85,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_50K) |
 | 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_30K) |
 | 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_10K) |
-| 2026-08-10 | Grigorij/Isaac_franka_4_vla_jepa | 0 | 0 | [link](https://huggingface.co/Grigorij/Isaac_franka_4_vla_jepa) |
-| 2026-08-10 | Grigorij/Tello_multifruit_sum_vla_jepa | 0 | 0 | [link](https://huggingface.co/Grigorij/Tello_multifruit_sum_vla_jepa) |
+| 2026-08-10 | khoavucao2511/so101_vla_jepa_09_08_26_freeze_Qwen3_UpChunkSizexnActionsteps | 0 | 0 | [link](https://huggingface.co/khoavucao2511/so101_vla_jepa_09_08_26_freeze_Qwen3_UpChunkSizexnActionsteps) |
+| 2026-08-10 | Shiki42/up-vla-action-chunk-checkpoints | 0 | 0 | [link](https://huggingface.co/Shiki42/up-vla-action-chunk-checkpoints) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -95,12 +95,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | commaai/openpilot | 63376 | Python | 25350.5 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16103 | Python | 6441.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15657 | C++ | 6262.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14504 | C++ | 5801.7 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13197 | JavaScript | 5278.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14505 | C++ | 5802.1 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13203 | JavaScript | 5281.3 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11310 | Python | 4524.1 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11273 | Rust | 4509.3 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7868 | Python | 3147.3 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4498 | Python | 1799.3 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 4499 | Python | 1799.7 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -121,10 +121,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-09 | Unitree's Shanghai IPO Prices China's First Humanoid Robot Maker at $9 Billion - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVVBMzdkdDd0UnlkcFgxTHk4eUdnLTJOTldZeEJuWkFOYU03NmN2MjIxUm9RcEtHWER5S1phZTNWaWhlY2kySFcxSFZxTFZNYjVIenpIWE9mTV9ucjNoNE0zU04xMXE2cWRLVHNVUmRhaENSdVJVaDN0amRIeU1VMi1yZXVZMzRDUlQ0d3VtVlZHQi1rV1c2Yk5hMFloSW1xc1FwRWtB?oc=5) |
 | 2026-08-07 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
-| 2026-08-06 | Defense Startup: AI Turns 2 Months Of Engineering Into 20 Minutes - Forbes | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXNSNm9OdHU3QzRZeUZUS0VZMmI1RHBXNUU3Y3lrU1NmX29BcFBsTG9oMjA0ZzBRVkpHUm9iaGNMa1F4Q3J6RF9tMU95eDRHVXVXLWhncTkxN056TXhqSkdIMHc0bDRrSENkS1d0N29WSGNMVE9VemZQLTU5eGZldUc2Skx3ZFBSQUtMMGtpaUVnbm41ZEFqWGJXeG1xTFNXRlpWZERsMVNsRjhkZTNkaUd3QnhuYUZKdVE?oc=5) |
-| 2026-08-06 | 36Kr Exclusive: Tsinghua-affiliated Physical AI Infrastructure Startup Secures Tens of Millions of US Dollars in New Financing Round, Global Large-scale Delivery of Its Data Equipment Launches - eu.36kr.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02LXEyc0pZcHU3S3ptaVZzM1E3UVFESk8xa2I0bnI0eF9wQWFLOEhnTVJuS2VfV3U4d21zQnNSeTg1X1hDeTdVSXl2NXh5WUpWV2Vj?oc=5) |
+| 2026-08-06 | Defense Startup: AI Turns 2 Months Of Engineering Into 20 Minutes - forbes.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXNSNm9OdHU3QzRZeUZUS0VZMmI1RHBXNUU3Y3lrU1NmX29BcFBsTG9oMjA0ZzBRVkpHUm9iaGNMa1F4Q3J6RF9tMU95eDRHVXVXLWhncTkxN056TXhqSkdIMHc0bDRrSENkS1d0N29WSGNMVE9VemZQLTU5eGZldUc2Skx3ZFBSQUtMMGtpaUVnbm41ZEFqWGJXeG1xTFNXRlpWZERsMVNsRjhkZTNkaUd3QnhuYUZKdVE?oc=5) |
+| 2026-08-06 | 36Kr Exclusive: Tsinghua-affiliated Physical AI Infrastructure Startup Secures Tens of Millions of US Dollars in New Financing Round, Global Large-scale Delivery of Its Data Equipment Launches - 36Kr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02LXEyc0pZcHU3S3ptaVZzM1E3UVFESk8xa2I0bnI0eF9wQWFLOEhnTVJuS2VfV3U4d21zQnNSeTg1X1hDeTdVSXl2NXh5WUpWV2Vj?oc=5) |
 | 2026-08-06 | AI robot startup challenging future of warfare - Caliber.Az | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE8yRW4zTzBaX0dCUmc1Qk1xY2N3ZTdxYnJvaHdEaExMTklLU2J5Z2JSaG93dzAxT0JITERoenRQM20tWmtKUGR1YkNCaHJjVU82NXF4SXRTOWV0V2dwSVQtay0wd3FPX3ZqWHpaQ0t0cEd1dWJJb0VaWXpxS2FnZw?oc=5) |
-| 2026-08-05 | Shelfmark raises $3.5M to scale physical AI and hire in Pittsburgh - technical.ly | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0RmRnJhX2tKTzVpOTl3U2JYT3lUVHRuSER0MDdZdzRsRmtmamR0RU1zcDFfQWxjOE5VUEtDYV83X3BWSGFLMGxCYjVuT0QyREpIOGh4RS1rSG0tai0zaUR6Tk9MQTJaYmxGXzRiUjdpMFcxYnhTQWYzRWprQ0hubDdZNFk1RGFKOTh0UHhUSHYtZw?oc=5) |
+| 2026-08-05 | Shelfmark raises $3.5M to scale physical AI and hire in Pittsburgh - Technical.ly | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0RmRnJhX2tKTzVpOTl3U2JYT3lUVHRuSER0MDdZdzRsRmtmamR0RU1zcDFfQWxjOE5VUEtDYV83X3BWSGFLMGxCYjVuT0QyREpIOGh4RS1rSG0tai0zaUR6Tk9MQTJaYmxGXzRiUjdpMFcxYnhTQWYzRWprQ0hubDdZNFk1RGFKOTh0UHhUSHYtZw?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
 | 2026-08-03 | China Sees Most Investments in Humanoid Robots - Statista | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNEEzYnVlckNDOXFoV1ljRk4zZzQ0dDFmOVl2WnlURnA0c3RDS1hCczh5NDBBbklYUV9NaE9UTzZRdnJLOVNZa2Nwb01keHdqMjZjcHJxWTA4c3Rxb2paNHR5RmFiUHA5N1JRMUM0bkFBbk9Ua005U1NaYTU5WjE5TFdWR3BwNnRvVG5weGpTNGtMZHNwU1luSUV5ckFNQ1Q0aTh4eXR2WWJObkQzVXZpZVR4VzPSAboBQVVfeXFMUGlvbUtKRmsweTdCY1Q5MlFJQjFPQXQ2STUwSmVxeDFsbnl3S1lsNzhTcUtnd1lHbFZjY0tBUm5lQVpuRm0wSi0wRTVRMWZrOEZ0NlhraE5tY3pkVm9xaFF2UW9xdzB4TjVIVjk3dDhVWFVkTF9TUk1DaTdUMHI5X3JBRVVWdURuZ0xmRW52WjBzWWw5RF9pNlNNSndFZEZtY2hyYVFPdmsyMnNrWmJoUlZBaUNqR1RNSE9n?oc=5) |
 | 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - The Business Journals | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
