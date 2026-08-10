@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-10 00:41 UTC
+Last Updated: 2026-08-10 03:03 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-10 | Retrotechtacular: A View of the Moon from 1964 | Hackaday | [link](https://hackaday.com/2026/08/09/retrotechtacular-a-view-of-the-moon-from-1964/) |
 | 2026-08-10 | Elecrow ThinkNode M9 – A standalone ESP32-S3 MeshCore communication terminal with color LCD, QWERTY keyboard | CNX Software | [link](https://www.cnx-software.com/2026/08/10/elecrow-thinknode-m9-a-standalone-esp32-s3-meshcore-communication-terminal-with-color-lcd-qwerty-keyboard/) |
 | 2026-08-10 | Ed Gets The Vibe | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-gets-the-vibe-2026-08/) |
 | 2026-08-09 | Hackaday Links: August 9, 2026 | Hackaday | [link](https://hackaday.com/2026/08/09/hackaday-links-august-9-2026/) |
@@ -57,54 +58,54 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-09 | Transmitting Analog Video Via Frikkin’ Laser Beams | Hackaday | [link](https://hackaday.com/2026/08/09/transmitting-analog-video-via-frikkin-laser-beams/) |
 | 2026-08-09 | Continously Extruding 3D Printed Tubes with Compressed Air | Hackaday | [link](https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/) |
 | 2026-08-09 | Whatever Happened to the Computer of Tomorrow, Anyway? The Xerox Alto Story | Hackaday | [link](https://hackaday.com/2026/08/09/whatever-happened-to-the-computer-of-tomorrow-anyway-the-xerox-alto-story/) |
-| 2026-08-09 | Tracking Bees with a Stereo Camera | Hackaday | [link](https://hackaday.com/2026/08/08/tracking-bees-with-a-stereo-camera/) |
 | 2026-08-09 | MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging | CNX Software | [link](https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-08-06 | $ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation | [link](https://arxiv.org/pdf/2608.06375v1) |
-| 2026-08-06 | DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation | [link](https://arxiv.org/pdf/2608.06374v1) |
-| 2026-08-06 | A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber | [link](https://arxiv.org/pdf/2608.06354v1) |
-| 2026-08-06 | GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions | [link](https://arxiv.org/pdf/2608.06332v1) |
-| 2026-08-06 | Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors | [link](https://arxiv.org/pdf/2608.06300v1) |
-| 2026-08-06 | RxnCLF: Contrastive Transformation-Aware Reaction Foundation Model for Improved Reactivity Prediction | [link](https://arxiv.org/pdf/2608.06259v1) |
-| 2026-08-06 | MASS: Multiplayer World Models with Authoritative Shared State | [link](https://arxiv.org/pdf/2608.06257v1) |
-| 2026-08-06 | A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance | [link](https://arxiv.org/pdf/2608.06246v1) |
-| 2026-08-06 | From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks | [link](https://arxiv.org/pdf/2608.06227v1) |
-| 2026-08-06 | Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation | [link](https://arxiv.org/pdf/2608.06221v1) |
+| 2026-08-07 | MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation | [link](https://arxiv.org/pdf/2608.07463v1) |
+| 2026-08-07 | Active movement of foraging sea turtles generates anomalous looping | [link](https://arxiv.org/pdf/2608.07448v1) |
+| 2026-08-07 | Beyond Myopic World Models: Long-Horizon End-to-End Training for Direct Future Prediction | [link](https://arxiv.org/pdf/2608.07420v1) |
+| 2026-08-07 | UniJEPA: A Unified Joint-Embedding Predictive Architecture for Task-Agnostic Visual World Modeling | [link](https://arxiv.org/pdf/2608.07409v1) |
+| 2026-08-07 | Addressable Memory for Video World Models | [link](https://arxiv.org/pdf/2608.07408v1) |
+| 2026-08-07 | Depth-Wise Probing and Pruning of the Planning Token in a Driving Vision-Language-Action Model | [link](https://arxiv.org/pdf/2608.07361v1) |
+| 2026-08-07 | Learning Fault-Tolerant Locomotion with Adaptive Gait Timing | [link](https://arxiv.org/pdf/2608.07328v1) |
+| 2026-08-07 | TEMPO: Semantic-Action Decoupled RL Post-Training for Vision-Language-Action Models | [link](https://arxiv.org/pdf/2608.07314v1) |
+| 2026-08-07 | From Optimal Actions to World Models: Identifiability of Transition Kernels in Discounted MDPs | [link](https://arxiv.org/pdf/2608.07301v1) |
+| 2026-08-07 | Foundation Models Adaptation for Multi-View Multi-modal Cardiac MRI Segmentation and Direct Ejection Fraction Estimation | [link](https://arxiv.org/pdf/2608.07291v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-10 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
+| 2026-08-10 | Myungkyu/hiwrld-baseline-ckpts-real-robot | 0 | 0 | [link](https://huggingface.co/Myungkyu/hiwrld-baseline-ckpts-real-robot) |
 | 2026-08-10 | RobotisSW/PickGreenCoffeeCan_WhiteShdlf_byGrootModel_80K | 0 | 0 | [link](https://huggingface.co/RobotisSW/PickGreenCoffeeCan_WhiteShdlf_byGrootModel_80K) |
 | 2026-08-10 | RobotisSW/Pick_GreenCoffeeCan_WhiteShelf_byGrootModel_60K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_GreenCoffeeCan_WhiteShelf_byGrootModel_60K) |
 | 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_50K) |
 | 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_30K) |
 | 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_10K) |
+| 2026-08-10 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
 | 2026-08-10 | Shiki42/up-vla-action-chunk-checkpoints | 0 | 0 | [link](https://huggingface.co/Shiki42/up-vla-action-chunk-checkpoints) |
-| 2026-08-09 | dave7k/hunyuan15-robotwin-r64attn-r16ffn | 0 | 0 | [link](https://huggingface.co/dave7k/hunyuan15-robotwin-r64attn-r16ffn) |
-| 2026-08-09 | locht131/gr00t_robotwin_2hand_quat_s35k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_robotwin_2hand_quat_s35k_bs32) |
-| 2026-08-09 | Roboterr/pi05-WMpEAEHLkp69 | 0 | 0 | [link](https://huggingface.co/Roboterr/pi05-WMpEAEHLkp69) |
-| 2026-08-09 | Myungkyu/hiwrld-baseline-ckpts-real-robot | 0 | 0 | [link](https://huggingface.co/Myungkyu/hiwrld-baseline-ckpts-real-robot) |
+| 2026-08-10 | litert-community/LFM2.5-Encoder-350M-Policy-Linter | 16 | 0 | [link](https://huggingface.co/litert-community/LFM2.5-Encoder-350M-Policy-Linter) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | commaai/openpilot | 63377 | Python | 25350.9 | [link](https://github.com/commaai/openpilot) |
-| isaac-sim/IsaacLab | 7865 | Python | 3146.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| ArduPilot/ardupilot | 15655 | C++ | 6262.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| earthtojake/text-to-cad | 13165 | JavaScript | 5266.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| isaac-sim/IsaacLab | 7867 | Python | 3146.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3868 | Rust | 1547.3 | [link](https://github.com/dora-rs/dora) |
-| ArduPilot/ardupilot | 15654 | C++ | 6261.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14496 | C++ | 5798.5 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13155 | JavaScript | 5262.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| kornia/kornia | 11311 | Python | 4524.5 | [link](https://github.com/kornia/kornia) |
-| RLinf/RLinf | 4493 | Python | 1797.3 | [link](https://github.com/RLinf/RLinf) |
-| RoboTwin-Platform/RoboTwin | 2705 | Python | 1082.1 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
-| flashrt-project/FlashRT | 496 | C++ | 198.5 | [link](https://github.com/flashrt-project/FlashRT) |
+| luohongk/Embodied-AI-Daily | 408 | HTML | 163.3 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
+| vllm-project/vllm-omni | 5999 | Python | 2399.7 | [link](https://github.com/vllm-project/vllm-omni) |
+| ROBOTIS-GIT/ai_worker | 160 | Python | 64.1 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
+| DexForce/EmbodiChain | 206 | Python | 82.5 | [link](https://github.com/DexForce/EmbodiChain) |
+| google-deepmind/mujoco | 14497 | C++ | 5798.9 | [link](https://github.com/google-deepmind/mujoco) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-08-09 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE5JTXJGYnkwSFZ2VmtQdTR3eTJlcmxEa2Jwd3NTTzE5X25XZmZ1TF8wdE1DZ3d0NGNNcFBLUlc0RUp6WHZiMG1QWkhDaFRaRVZpbXdaWU5YeF9yUkR0c09SMWh4dUlPYjN6YU5EcUpyc3J5WHQyQ09Db3hvMjA5QQ?oc=5) |
 | 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzRRUmZZTTlqMHBVNk9ZYTRjUGM0X3N6Q2FhYXVaY1pKbDhwWTA5UjlwX0NicHVkRTJLRFlUUXNFalhwRFVMak1fTTNRUmhoVEF4YThKQUlBSnZsZ1ZwZmNKT3BkNXBrcUNRcXVMRkhBYVowWmFiY1BJNjRLOExaMG82Y2lfaFYxTlBkRzBBcHpQNm5POEUtcG9VVFBQdDRCTVp0ZHhUaW9RYWRPX0Y1OGJ3YzJ0a3lhdHR1TGRKcVVLRmhtTmw2dtIByAFBVV95cUxQOWRxV0dRV2NIWmxBLVFEOGN1el82TWYtcVhhSm5HY18yY0FyTkhkSWhtVGRvY0toN1RJd1ozSFFCdXRFX2VWNDluZWJCYmkwanhKNlhWSHYxRmFCZTJrQ2Ryc0RTWHFvT2Z5V2kzYlNlZzhNOGZBd044MlExMmduZ1Q3NDhDN0JwMXZJQ3AwV2FabDVTdFNRMTBXTS1kcEt4LUdzU1NpSU84eXdDdmR2dlcyeGw0NkUtdGxBb21LRUdDUktkU2UwRg?oc=5) |
 | 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaHM4TjBHTURCS2JaWjVyWVN5SDhCbTBNcnZveVg3SjRKS282MU1YbXNNN0FKVF9vQ2JUX19RYnZUSEhqS2Fza1hmMnZYZDByMGZjVk5KdEhoa25sZEJIZHIzT3VMeEV3d1RUNk9Fa01PM25QREJUd21NWnFCdlF2U1FCVGlEaVhiUGtWbktCZWJ6N0JqM1hwMlJFRFNRU0xMRW1QVmVDcHctSUVmNkhxMTZ6Q0ZvQ2xuU1QzckJFSGRUOEFfR0NRRVc1SW1UdUpJTWtabU52aVpQb1E?oc=5) |
 | 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWUlEVmZNRmc3WG0tbVFTbzY5OEZsYmFRcHdyRFpXcTBnU3BOWTJwRkl5XzJCWWgxUm5NRzUwWFV3aEdVRE42cWFiZUpfdEFfWEdDUnN1WVh3X0x6VXhQUFZKSzBaZkE0X0VhbjdzYVZrb1d5am9WSi10NjFxT0diMGVjREpaanJFeUc2QVV2SXA1SUdXX1ZOX2plcURoa0ZYYzlOaDl4dEpfbFBiTnhvYmYybkJ6T00wSWl0Z1ZNc0I1d0I0bUpLZ2hXNkhCUnNQeTlIMWppNNIB3AFBVV95cUxNaHZyOTZobVZiXzY3U290ZFRqU2s4RXZHNTNwZmpVZUt5emNobTBzNm5wZzE5dXZqOUdiNU1NWEtqNGszbUNuMUhoelFTZFdIVFd4bVF3WUxJNjQtT2R5V05MbElSbTJ4Qjd0NU41WW5fLXlUMVNKaklRN0Z6MTI3T1hnS3RvbndrNi1fOEd1WnM3Ym90X0VZN2NRVkNfMUxZRlRLZkRSR3gxZ2tVdGdzNFg2SW5sNTdkWi13eVJzWDlZTl9PaTlncG9waEZxMHFSb3VXRGRMUkhfWVZv?oc=5) |
@@ -114,7 +115,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWRuY0FETUdBUFY5SzQ2RjlWamlLNmZiTEttZnVfTjBrZmRpR3Y4a0dLaUNfRFZQX01RRkNCLVo3VG9ORUk5am02RUtkR19qeGdRY25WMEk0YV9lVllqX29pTzB4dUItakJpYnB5eUEtbjk5Ul9CNzFPS2hIMUhVbnd3?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGprdFZOc2Y3WnVwbmNEMXZ0a1JtejRhUXlXV2JYd1NDSmNGclhMdzZOOTZGaGRxcVl0VDl5NlB6ZlhUeHJwWVNYYVBXWXRqajc2U2VsUU9XWVk4bUNfdVlzd0kyRjVYQ0xIVkFxd01qbkxmQ2owLU1FRWVwTXNxUGhwZ1FlOVE3VHdjbVpuc3paV3ZhWXV0UTY0bHdreFFYeTdUSU42ZnJFRkREc1gzeHhnakM3bFBaLXdBSQ?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE9ETElOTVpZaU1GbWJKZEk1aUJYdlAzaVBkcEFIbVpfRFhsVkY1WnZQSU9FYkZ0RHJlRDJlNU4xWXRqRk1iTFRtVDZsNVZDS1BDR1pXWHBGN0ZiRDFMOHlhd2otUFI4OWJNTkc1MnBRTFRTWnRDWUtj?oc=5) |
-| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdm9GTU9HUGg5aUVGUmhRSjV3RmZOZjNFdmlIT1JNU3g5VnhteVRJa2RweFpfZk95YUFjR2oxT2YyRTE1X2UyMnd4MllMQU04MWNZYTlxRXBMRnBZUGxzWFo0U3FXNjVNNG04eWR5Vnh2TGhqMGZTNzJlSXRUUDMxZm9WbEd3dUxxOGNNdklkSE5GSDc0OTgwR1U4YzNfLW1yZko3b0pSMzJKMWFWaXpCc0ZyOU0?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -127,7 +127,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - The Business Journals | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
 | 2026-07-31 | San Francisco company offers cleaning service using humanoid robots - ABC News - Breaking News, Latest News and Videos | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPU09xRXh1cjdLQ3JaVW80MnVtcHhDLXp3dmFua2xfQnVodDVZbnVzVHpQMms5UzJra1ZjWFQtRE9ObFVpSnVtTmJDYkxrenRoelV6SlhibVdPSHhiYi00SE9OSHdqcHA5OEF4Rk1Ga2dKakVfWXEzOTZsUzhuc2g0QWYzbVl6LVZrMk04V0YzUjFBQlJJQ1NYcE1tTGJYMG1DWG9WYjhBZkEyc3Zkc1N1X9IBtgFBVV95cUxQTGZibk1YenNFTGRWLXJJMEZNMGVINUNLdzNUV0laX09zS19pa2Z1MjBiZjdzZU5JWl9lQUh3cDA5cGdxTTZKMnI5NkdIM2tZOUJBUnBBTVFjTFJWSFJ5c1AyTDN0cFFYUVZhaTBOM2Q0cWJtWl9CeGJPUXpaNGFnSWk3QmhDeW41TXRxUEdPTWhNT1JkSHRlMlItV19MbzJHWENDelpBSHN6ZkhheDQ0bjlpdGZLQQ?oc=5) |
-| 2026-07-30 | Pittsburgh AI startup inks 10-year lease at Hazelwood Green - post-gazette.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYXRCbHBVbnZiZjg0NmhSYmtHYXYtVW9hS2phY3BPdFZxclFwWlh6ZkNLVHN1TTJOd0FfVVUwV3hUV3daYi1vRGlJekNPd09FdGFKaVh2SlZONGRqdjlWdnJtWEtyaWNSR1U0aVhEbVpmV2xUa041cGNUWkQtSS11Q3pxdmlob2g3dEF6WTVZV3V3emw3ZHNnT0wyLVpZRjhFdFVnMjFhMWhpSGVRVzZOU1JTT1NRSkx4TXF2Ng?oc=5) |
+| 2026-07-30 | Pittsburgh AI startup inks 10-year lease at Hazelwood Green - Pittsburgh Post-Gazette | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYXRCbHBVbnZiZjg0NmhSYmtHYXYtVW9hS2phY3BPdFZxclFwWlh6ZkNLVHN1TTJOd0FfVVUwV3hUV3daYi1vRGlJekNPd09FdGFKaVh2SlZONGRqdjlWdnJtWEtyaWNSR1U0aVhEbVpmV2xUa041cGNUWkQtSS11Q3pxdmlob2g3dEF6WTVZV3V3emw3ZHNnT0wyLVpZRjhFdFVnMjFhMWhpSGVRVzZOU1JTT1NRSkx4TXF2Ng?oc=5) |
 | 2026-07-30 | Chinese Startups Dominate Humanoid Robotics Patent Rankings - AI Business | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxQOW1PeHllX3loSmxRLW9oWnYwb3Z6b0tFWUVCZVAtbkVuNFRzQXZ0d3p2enRWekFmZ1pwdzFMSUtHSEJic3dQRDN4Q09MRFN5UExsTl8yM0JvOGZ6NTVleUpzcGQxX3ZYUUp4cEFfaWREYnJfZzBJVFpoRXFNOW5RVFIyLW5WdzJjc2c?oc=5) |
 
 ## Jobs
