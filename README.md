@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-09 23:17 UTC
+Last Updated: 2026-08-10 00:41 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-10 | Elecrow ThinkNode M9 – A standalone ESP32-S3 MeshCore communication terminal with color LCD, QWERTY keyboard | CNX Software | [link](https://www.cnx-software.com/2026/08/10/elecrow-thinknode-m9-a-standalone-esp32-s3-meshcore-communication-terminal-with-color-lcd-qwerty-keyboard/) |
+| 2026-08-10 | Ed Gets The Vibe | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-gets-the-vibe-2026-08/) |
 | 2026-08-09 | Hackaday Links: August 9, 2026 | Hackaday | [link](https://hackaday.com/2026/08/09/hackaday-links-august-9-2026/) |
 | 2026-08-09 | The Stages of Grief in Repairing a Trinitron Found in the Trash | Hackaday | [link](https://hackaday.com/2026/08/09/the-stages-of-grief-in-repairing-a-trinitron-found-in-the-trash/) |
 | 2026-08-09 | The Chinese Smart Glasses Proving that Smart Glasses can be Repairable | Hackaday | [link](https://hackaday.com/2026/08/09/the-chinese-smart-glasses-proving-that-smart-glasses-can-be-repairable/) |
@@ -57,8 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-09 | Whatever Happened to the Computer of Tomorrow, Anyway? The Xerox Alto Story | Hackaday | [link](https://hackaday.com/2026/08/09/whatever-happened-to-the-computer-of-tomorrow-anyway-the-xerox-alto-story/) |
 | 2026-08-09 | Tracking Bees with a Stereo Camera | Hackaday | [link](https://hackaday.com/2026/08/08/tracking-bees-with-a-stereo-camera/) |
 | 2026-08-09 | MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging | CNX Software | [link](https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/) |
-| 2026-08-09 | Adafruit Weekly Editorial Round Up: Fruit Jam Library – Buttons, Hacking the Teenage Engineering EP-2350 Ting, NeoPixel LED Dress Tutorial and more! | Adafruit | [link](https://blog.adafruit.com/2026/08/09/adafruit-weekly-editorial-round-up-fruit-jam-library-buttons-hacking-the-teenage-engineering-ep-2350-ting-neopixel-led-dress-tutorial-and-more/) |
-| 2026-08-09 | Making a 16×2 LCD 7 Times Bigger | Adafruit | [link](https://blog.adafruit.com/2026/08/09/making-a-16x2-lcd-7-times-bigger/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,28 +77,28 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-10 | RobotisSW/PickGreenCoffeeCan_WhiteShdlf_byGrootModel_80K | 0 | 0 | [link](https://huggingface.co/RobotisSW/PickGreenCoffeeCan_WhiteShdlf_byGrootModel_80K) |
+| 2026-08-10 | RobotisSW/Pick_GreenCoffeeCan_WhiteShelf_byGrootModel_60K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_GreenCoffeeCan_WhiteShelf_byGrootModel_60K) |
+| 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_50K) |
+| 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_30K) |
+| 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_10K) |
+| 2026-08-10 | Shiki42/up-vla-action-chunk-checkpoints | 0 | 0 | [link](https://huggingface.co/Shiki42/up-vla-action-chunk-checkpoints) |
 | 2026-08-09 | dave7k/hunyuan15-robotwin-r64attn-r16ffn | 0 | 0 | [link](https://huggingface.co/dave7k/hunyuan15-robotwin-r64attn-r16ffn) |
 | 2026-08-09 | locht131/gr00t_robotwin_2hand_quat_s35k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_robotwin_2hand_quat_s35k_bs32) |
 | 2026-08-09 | Roboterr/pi05-WMpEAEHLkp69 | 0 | 0 | [link](https://huggingface.co/Roboterr/pi05-WMpEAEHLkp69) |
 | 2026-08-09 | Myungkyu/hiwrld-baseline-ckpts-real-robot | 0 | 0 | [link](https://huggingface.co/Myungkyu/hiwrld-baseline-ckpts-real-robot) |
-| 2026-08-09 | wanderly0501/Llama-3.1-8B-no-robots-finetuned | 0 | 0 | [link](https://huggingface.co/wanderly0501/Llama-3.1-8B-no-robots-finetuned) |
-| 2026-08-09 | locht131/gr00t_fa_robotwin_3tasks_2hand_quat_s30k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_3tasks_2hand_quat_s30k_bs32) |
-| 2026-08-09 | locht131/gr00t_robotwin_3task_2hand_quat_s30k_bs32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_robotwin_3task_2hand_quat_s30k_bs32) |
-| 2026-08-09 | logits/pi05_baseline_robotwin | 0 | 0 | [link](https://huggingface.co/logits/pi05_baseline_robotwin) |
-| 2026-08-09 | polarisai-robots/bento_v2_openarm_pi05 | 39 | 0 | [link](https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05) |
-| 2026-08-09 | sam-guided-vlas/train_1_2__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | commaai/openpilot | 63377 | Python | 25350.9 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15654 | C++ | 6261.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14495 | C++ | 5798.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13150 | JavaScript | 5260.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| kornia/kornia | 11311 | Python | 4524.5 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7865 | Python | 3146.1 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4492 | Python | 1796.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3868 | Rust | 1547.3 | [link](https://github.com/dora-rs/dora) |
+| ArduPilot/ardupilot | 15654 | C++ | 6261.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14496 | C++ | 5798.5 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13155 | JavaScript | 5262.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| kornia/kornia | 11311 | Python | 4524.5 | [link](https://github.com/kornia/kornia) |
+| RLinf/RLinf | 4493 | Python | 1797.3 | [link](https://github.com/RLinf/RLinf) |
 | RoboTwin-Platform/RoboTwin | 2705 | Python | 1082.1 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
 | flashrt-project/FlashRT | 496 | C++ | 198.5 | [link](https://github.com/flashrt-project/FlashRT) |
 
@@ -120,15 +120,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-07 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
-| 2026-08-06 | 36Kr Exclusive: Tsinghua-affiliated Physical AI Infrastructure Startup Secures Tens of Millions of US Dollars in New Financing Round, Global Large-scale Delivery of Its Data Equipment Launches - 36Kr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02LXEyc0pZcHU3S3ptaVZzM1E3UVFESk8xa2I0bnI0eF9wQWFLOEhnTVJuS2VfV3U4d21zQnNSeTg1X1hDeTdVSXl2NXh5WUpWV2Vj?oc=5) |
+| 2026-08-06 | 36Kr Exclusive: Tsinghua-affiliated Physical AI Infrastructure Startup Secures Tens of Millions of US Dollars in New Financing Round, Global Large-scale Delivery of Its Data Equipment Launches - 36 Kr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02LXEyc0pZcHU3S3ptaVZzM1E3UVFESk8xa2I0bnI0eF9wQWFLOEhnTVJuS2VfV3U4d21zQnNSeTg1X1hDeTdVSXl2NXh5WUpWV2Vj?oc=5) |
 | 2026-08-06 | AI robot startup challenging future of warfare - Caliber.Az | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE8yRW4zTzBaX0dCUmc1Qk1xY2N3ZTdxYnJvaHdEaExMTklLU2J5Z2JSaG93dzAxT0JITERoenRQM20tWmtKUGR1YkNCaHJjVU82NXF4SXRTOWV0V2dwSVQtay0wd3FPX3ZqWHpaQ0t0cEd1dWJJb0VaWXpxS2FnZw?oc=5) |
 | 2026-08-05 | Shelfmark raises $3.5M to scale physical AI and hire in Pittsburgh - Technical.ly | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0RmRnJhX2tKTzVpOTl3U2JYT3lUVHRuSER0MDdZdzRsRmtmamR0RU1zcDFfQWxjOE5VUEtDYV83X3BWSGFLMGxCYjVuT0QyREpIOGh4RS1rSG0tai0zaUR6Tk9MQTJaYmxGXzRiUjdpMFcxYnhTQWYzRWprQ0hubDdZNFk1RGFKOTh0UHhUSHYtZw?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
 | 2026-08-03 | Robotics startup Formic Technologies secures Oakland facility as it seeks to develop humanoid robots - The Business Journals | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXlodmlyY201ZlcxaTVoN2VPSkdTTElXM0JQQzVudU9yeHM0U2otYWhSRlNtNFhCN1BHRkRCZXVRMkNLTnQzMU4zVEd6WDNkclZCYWVCSHVYcW12SHRmN21TbU5Oa0RNVENZWkVGci1uYXJxeU9lTkxhTDN4WHh3VGZQeG9veS14T0RkeG55NDByWjVRaXA4ei0weGJkQTZaNmpRQQ?oc=5) |
 | 2026-08-02 | SKT Leads Physical AI Robot Innovation, Partners With 8 Startups - 코리아스타트업포스트 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX2FYbTZsTVhnVU1mSEhlSEJCdFNobkFmNnlkN1M5c1pONUh1UVYwMXdnRngzY3hBa1h2NHN3UkFxakltYUtnSTlxWkE3WmlER3h1QQ?oc=5) |
-| 2026-07-31 | China’s AI-driven robotics boom faces IPO reality check - ThinkChina | embodied ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzkyUHFrTy1ndmNrb2gyTW5mdnR5clp0TDIwcjQ3Vm5reHE0eGF3Z3JFOTA3WFNCTEFBWkg3ZEdOamZxTlJHdllEVnQ4Qm5lUU1EeHF1d3lPN3hZWllNalhrd3k4MXgwT0R5X3QyUlVsT3B2V1VtajVJZnpqbGloMEFBMVJJakZhblVHeUNjNzFwVmQ0Z3c?oc=5) |
 | 2026-07-31 | San Francisco company offers cleaning service using humanoid robots - ABC News - Breaking News, Latest News and Videos | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPU09xRXh1cjdLQ3JaVW80MnVtcHhDLXp3dmFua2xfQnVodDVZbnVzVHpQMms5UzJra1ZjWFQtRE9ObFVpSnVtTmJDYkxrenRoelV6SlhibVdPSHhiYi00SE9OSHdqcHA5OEF4Rk1Ga2dKakVfWXEzOTZsUzhuc2g0QWYzbVl6LVZrMk04V0YzUjFBQlJJQ1NYcE1tTGJYMG1DWG9WYjhBZkEyc3Zkc1N1X9IBtgFBVV95cUxQTGZibk1YenNFTGRWLXJJMEZNMGVINUNLdzNUV0laX09zS19pa2Z1MjBiZjdzZU5JWl9lQUh3cDA5cGdxTTZKMnI5NkdIM2tZOUJBUnBBTVFjTFJWSFJ5c1AyTDN0cFFYUVZhaTBOM2Q0cWJtWl9CeGJPUXpaNGFnSWk3QmhDeW41TXRxUEdPTWhNT1JkSHRlMlItV19MbzJHWENDelpBSHN6ZkhheDQ0bjlpdGZLQQ?oc=5) |
-| 2026-07-30 | Pittsburgh AI startup inks 10-year lease at Hazelwood Green - Pittsburgh Post-Gazette | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYXRCbHBVbnZiZjg0NmhSYmtHYXYtVW9hS2phY3BPdFZxclFwWlh6ZkNLVHN1TTJOd0FfVVUwV3hUV3daYi1vRGlJekNPd09FdGFKaVh2SlZONGRqdjlWdnJtWEtyaWNSR1U0aVhEbVpmV2xUa041cGNUWkQtSS11Q3pxdmlob2g3dEF6WTVZV3V3emw3ZHNnT0wyLVpZRjhFdFVnMjFhMWhpSGVRVzZOU1JTT1NRSkx4TXF2Ng?oc=5) |
+| 2026-07-30 | Pittsburgh AI startup inks 10-year lease at Hazelwood Green - post-gazette.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYXRCbHBVbnZiZjg0NmhSYmtHYXYtVW9hS2phY3BPdFZxclFwWlh6ZkNLVHN1TTJOd0FfVVUwV3hUV3daYi1vRGlJekNPd09FdGFKaVh2SlZONGRqdjlWdnJtWEtyaWNSR1U0aVhEbVpmV2xUa041cGNUWkQtSS11Q3pxdmlob2g3dEF6WTVZV3V3emw3ZHNnT0wyLVpZRjhFdFVnMjFhMWhpSGVRVzZOU1JTT1NRSkx4TXF2Ng?oc=5) |
+| 2026-07-30 | Chinese Startups Dominate Humanoid Robotics Patent Rankings - AI Business | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxQOW1PeHllX3loSmxRLW9oWnYwb3Z6b0tFWUVCZVAtbkVuNFRzQXZ0d3p2enRWekFmZ1pwdzFMSUtHSEJic3dQRDN4Q09MRFN5UExsTl8yM0JvOGZ6NTVleUpzcGQxX3ZYUUp4cEFfaWREYnJfZzBJVFpoRXFNOW5RVFIyLW5WdzJjc2c?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
