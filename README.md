@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-10 17:41 UTC
+Last Updated: 2026-08-10 18:38 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -10,13 +10,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas | OpenAI | [link](https://openai.com/index/responsible-ai-infrastructure-texas) |
 | 2026-08-10 | Model ML completes finance work more efficiently with GPT-5.6 Sol | OpenAI | [link](https://openai.com/index/model-ml) |
 | 2026-08-10 | What building an AI-native finance function taught me | OpenAI | [link](https://openai.com/index/building-an-ai-native-finance-function) |
+| 2026-08-10 | Expanding Daybreak as the Cyber Defense Window Narrows | OpenAI | [link](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows) |
 | 2026-08-10 | Putting frontier cyber models in more trusted hands | OpenAI | [link](https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands) |
 | 2026-08-10 | Premium seats are coming to ChatGPT Business | OpenAI | [link](https://openai.com/index/premium-seats-chatgpt-business) |
 | 2026-08-10 | Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS | Hugging Face | [link](https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents) |
 | 2026-08-10 | Making Knowledge Distillation Cheap Enough to Run at Scale | Hugging Face | [link](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation) |
 | 2026-08-10 | Meta is back with Muse Glimmer: local, agentic, multimodal, and open source | Hugging Face | [link](https://huggingface.co/blog/muse-glimmer) |
 | 2026-08-07 | Responding to the next frontier of critical cyber capabilities | OpenAI | [link](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities) |
-| 2026-08-07 | How HSP GRUPPE builds AI capabilities for tax advisory | OpenAI | [link](https://openai.com/index/hsp-gruppe) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-10 | Teardown of an Oxford Nanopore MinION DNA Sequencer | Hackaday | [link](https://hackaday.com/2026/08/10/teardown-of-an-oxford-nanopore-minion-dna-sequencer/) |
 | 2026-08-10 | Linux Fu: Heads or Tails for VPN | Hackaday | [link](https://hackaday.com/2026/08/10/linux-fu-heads-or-tails-for-vpn/) |
 | 2026-08-10 | Functional Jumping Pokéball from an Ancient Pokémon World | Hackaday | [link](https://hackaday.com/2026/08/10/functional-jumping-pokeball-from-an-ancient-pokemon-world/) |
 | 2026-08-10 | The Physics of Keeping Thermal Power Stations Cool | Hackaday | [link](https://hackaday.com/2026/08/10/the-physics-of-keeping-thermal-power-stations-cool/) |
 | 2026-08-10 | Triggering Lightning with a Rocket | Hackaday | [link](https://hackaday.com/2026/08/10/triggering-lightning-with-a-rocket/) |
 | 2026-08-10 | Even on the Red Planet, Hexagons are the Bestagons | Hackaday | [link](https://hackaday.com/2026/08/10/even-on-the-red-planet-hexagons-are-the-bestagons/) |
 | 2026-08-10 | Creating a Supersonic Trebuchet | Hackaday | [link](https://hackaday.com/2026/08/09/creating-a-supersonic-trebuchet/) |
-| 2026-08-10 | Retrotechtacular: A View of the Moon from 1964 | Hackaday | [link](https://hackaday.com/2026/08/09/retrotechtacular-a-view-of-the-moon-from-1964/) |
 | 2026-08-10 | PyBLE open-source MicroPython IDE works over Bluetooth LE for tablet and iPad users | CNX Software | [link](https://www.cnx-software.com/2026/08/10/pyble-open-source-micropython-ide-works-over-bluetooth-le-for-tablet-and-ipad-users/) |
 | 2026-08-10 | Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion | CNX Software | [link](https://www.cnx-software.com/2026/08/10/raspberry-pi-cm4-cm5-based-wisgate-connect-router-rak7392-offers-2-5gbe-mini-pcie-and-wisblock-expansion/) |
 | 2026-08-10 | Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port | CNX Software | [link](https://www.cnx-software.com/2026/08/10/comu-6-tiny-ch32v203-risc-v-development-board-that-fits-inside-a-usb-port/) |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-10 | L7-Robotics/pi05_so101_camera_setting_2026Aug_redcube_whitebowl_polarbear_greentray_merge_v1 | 0 | 0 | [link](https://huggingface.co/L7-Robotics/pi05_so101_camera_setting_2026Aug_redcube_whitebowl_polarbear_greentray_merge_v1) |
 | 2026-08-10 | locht131/gr00t_robotwin_2hand_quat_5_tasks_s25k_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_robotwin_2hand_quat_5_tasks_s25k_bs64) |
 | 2026-08-10 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-10 | eurecat-robotics/g1-policies | 0 | 0 | [link](https://huggingface.co/eurecat-robotics/g1-policies) |
@@ -86,18 +87,17 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | RobotisSW/Pick_GreenCoffeeCan_WhiteShelf_byGrootModel_60K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_GreenCoffeeCan_WhiteShelf_byGrootModel_60K) |
 | 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_50K) |
 | 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_30K) |
-| 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_10K) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| copper-project/copper-rs | 1445 | Rust | 578.1 | [link](https://github.com/copper-project/copper-rs) |
+| copper-project/copper-rs | 1446 | Rust | 578.5 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | commaai/openpilot | 63378 | Python | 25351.3 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16103 | Python | 6441.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15658 | C++ | 6263.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14506 | C++ | 5802.5 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13219 | JavaScript | 5287.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14507 | C++ | 5802.9 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13220 | JavaScript | 5288.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11311 | Python | 4524.5 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11274 | Rust | 4509.7 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7870 | Python | 3148.1 | [link](https://github.com/isaac-sim/IsaacLab) |
@@ -110,7 +110,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1SeW5DcjhxcndHNHRHd3doWVctVHFrNXZHZWpwZW5NWmNCM2NoTDFXZU13ZF9CTG44a2dlSThlVDFIeUFsU0Y3UTlpUGtpZVZYbXUzTWJQVjZBRm54d1Z6S3NmTEIyWjhaR3Z6bmxGTERHWERpdlE?oc=5) |
 | 2026-08-09 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVlcxeVI1YnZoeC1BR19oUjdrMHRsRUltODhjYlZoSE03MnRHX0dGN0x0ZWFnek9QT3ZiZ0E1dHV1a05rd3NtWHVtNXBHWFBQNmxuaFhlajJDQQ?oc=5) |
 | 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzRRUmZZTTlqMHBVNk9ZYTRjUGM0X3N6Q2FhYXVaY1pKbDhwWTA5UjlwX0NicHVkRTJLRFlUUXNFalhwRFVMak1fTTNRUmhoVEF4YThKQUlBSnZsZ1ZwZmNKT3BkNXBrcUNRcXVMRkhBYVowWmFiY1BJNjRLOExaMG82Y2lfaFYxTlBkRzBBcHpQNm5POEUtcG9VVFBQdDRCTVp0ZHhUaW9RYWRPX0Y1OGJ3YzJ0a3lhdHR1TGRKcVVLRmhtTmw2dtIByAFBVV95cUxQOWRxV0dRV2NIWmxBLVFEOGN1el82TWYtcVhhSm5HY18yY0FyTkhkSWhtVGRvY0toN1RJd1ozSFFCdXRFX2VWNDluZWJCYmkwanhKNlhWSHYxRmFCZTJrQ2Ryc0RTWHFvT2Z5V2kzYlNlZzhNOGZBd044MlExMmduZ1Q3NDhDN0JwMXZJQ3AwV2FabDVTdFNRMTBXTS1kcEt4LUdzU1NpSU84eXdDdmR2dlcyeGw0NkUtdGxBb21LRUdDUktkU2UwRg?oc=5) |
-| 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaHM4TjBHTURCS2JaWjVyWVN5SDhCbTBNcnZveVg3SjRKS282MU1YbXNNN0FKVF9vQ2JUX19RYnZUSEhqS2Fza1hmMnZYZDByMGZjVk5KdEhoa25sZEJIZHIzT3VMeEV3d1RUNk9Fa01PM25QREJUd21NWnFCdlF2U1FCVGlEaVhiUGtWbktCZWJ6N0JqM1hwMlJFRFNRU0xMRW1QVmVDcHctSUVmNkhxMTZ6Q0ZvQ2xuU1QzckJFSGRUOEFfR0NRRVc1SW1UdUpJTWtabU52aVpQb1E?oc=5) |
+| 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUU1palNvcXBVNGhleFR2ampPYmJ3R1g2UmNSNUxUd0c1MTdETkwzemtubWRRazFaWWxfY3NKQ1lUTXFnbUhTQlgyWlNjQkZBM0J3QkFtRHYzWmlEZ19MVzNlVWZNd2JVb2ZTVklFQ0c0bDlJclNZcWFjT0prVVR2c1JHcUtHUV95YVBWYlJtZmw1ZVlLRjhZdXFKbHk3aTZFS3hXOWNJMTZaenJoSklxSmtHVlpocE9xY0c5RjdwVGJXdjkyOUNCUGFZX2w4dlU2Q3o3XzdvbWYybXZz?oc=5) |
 | 2026-08-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBrQWhpbzZHRmtfcHNqYWxvZ3htZm10OXFKdW9ZaEZmZDlRMzZaLUpJbkJDSGVWbnlPYWlTcUVjOTQ4YTlMNlBDVVdQb19GU1ZWRXZnYUxSSmlNNUc4Q09tNXRUQUxvOENwT0prd0dOa1Rja0RzX3c?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUk1Hd2d1WFRNOHpKUkJ0aGR4UE1RYnR0cFJZRVhZb0NkNWtUejlGVHpHcUtOVkNQS2d2ZXlCRnJMVmg0QlFfV3R5TGR0NzJCQ0xrbjVGcW91MDdwSEUxZTd0V2RDc29uMjkyYmxIRmtUdl9ja3VUMWZyMU1iUnZFWFZyM1p2ZzlpOGV3aGRfelVabFpjZXNIazYxYzNxWWQxLXNucjUxV29HakHSAbABQVVfeXFMTnJLeHg2MTNEVzRLVV8wYjFCdzl3clhjMjctX28yVU9sSzkyMHdLTDIzX3NVVUFpU3lFX3dVTENPVFViTlBwOUFsMVpqOFBnTHB2MWhwQ1RFejltRk44MmlmMUFIRGkwbFF5azVKYUdENDRjZTJNZmdsUk00NHdJajFiQXFZN0JiMEpyUng5bTh3Vl82a3N0M3FpYk01S1pmVk91OXA3LTlLbjI0dU82TFc?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzBJcnRzZ0xGcE5fanRrcmlXZGFYUG9WMDc0cFdNQmJCX2plV1h5anNuYk1zZVBKS1lpd29TSU5BS2ZMMWNobzhHUTVGdXhYMnRBcWx6cGwzdkVHaEJ1eGY5NlktVDdRZGZYRXU0MDV2LWh3aWFyanBnUWlUSlJoeTV2WkNzYXBMNFZua056aXBFeUI1RmtRcWgxTGR4a2pLYWpBbTRobC16dzQ0dkg3aVFTZ2lWTVVzTDlkSGp3Wlk2MHJ1Mi1HZFZPSUFlYnlx?oc=5) |
@@ -127,13 +127,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-06 | 36Kr Exclusive: Tsinghua-affiliated Physical AI Infrastructure Startup Secures Tens of Millions of US Dollars in New Financing Round, Global Large-scale Delivery of Its Data Equipment Launches - 36 Kr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02LXEyc0pZcHU3S3ptaVZzM1E3UVFESk8xa2I0bnI0eF9wQWFLOEhnTVJuS2VfV3U4d21zQnNSeTg1X1hDeTdVSXl2NXh5WUpWV2Vj?oc=5) |
 | 2026-08-06 | AI robot startup challenging future of warfare - Caliber.Az | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE8yRW4zTzBaX0dCUmc1Qk1xY2N3ZTdxYnJvaHdEaExMTklLU2J5Z2JSaG93dzAxT0JITERoenRQM20tWmtKUGR1YkNCaHJjVU82NXF4SXRTOWV0V2dwSVQtay0wd3FPX3ZqWHpaQ0t0cEd1dWJJb0VaWXpxS2FnZw?oc=5) |
 | 2026-08-05 | Shelfmark raises $3.5M to scale physical AI and hire in Pittsburgh - Technical.ly | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0RmRnJhX2tKTzVpOTl3U2JYT3lUVHRuSER0MDdZdzRsRmtmamR0RU1zcDFfQWxjOE5VUEtDYV83X3BWSGFLMGxCYjVuT0QyREpIOGh4RS1rSG0tai0zaUR6Tk9MQTJaYmxGXzRiUjdpMFcxYnhTQWYzRWprQ0hubDdZNFk1RGFKOTh0UHhUSHYtZw?oc=5) |
-| 2026-08-05 | Embodied-AI data infrastructure startup Kaiwang Data raises more than RMB100 million - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEQ1d1ItMXdNMGFZc01vd3NXU1Q4MENTXzNXRVZoVzlrNENpV1d2MXM5NEstOHBsTkxPdF9IWnNJMWg2blpBa2tQQnJYWUZHQWg0TGZ6Ym5qNzlhX2N4OG02cmtQUV9IWXZYaVVZaktIdk55YXVfOTJKS3hxaE55R3VGMEFxaFVtaHRzYmkyZGtWaVJfYXZVMmpuZXMyazU4SzNNZ0ZkaHBjcjdJVWVKVEF6OW9hcU1i?oc=5) |
 | 2026-08-04 | Embodied-AI startup PaXini raises RMB1 billion to scale tactile-sensing technology - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVNYT0ZoWS1Rbkx0cVNJUmdQUWVDZlppSW1CSnBlM3Aybm9NSXJ4UDFMdXprNnJ4MXdJS1RVWHIxMTd2VDNOSHJLLTZkZmRrYnpYcXo3NUp1YkVveWJkYmtZalpsRHhOSkZEY3FhWWVmSmV0VXVDQXI3VFZ3XzJQQzFjRVdYbnM1RTlJcDNxdnhQR1hFdkEwZ2NleTEzT29weTMzMXVlSllucDRZa04tbFBuRFR2QQ?oc=5) |
+| 2026-08-03 | China Sees Most Investments in Humanoid Robots - Statista | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNEEzYnVlckNDOXFoV1ljRk4zZzQ0dDFmOVl2WnlURnA0c3RDS1hCczh5NDBBbklYUV9NaE9UTzZRdnJLOVNZa2Nwb01keHdqMjZjcHJxWTA4c3Rxb2paNHR5RmFiUHA5N1JRMUM0bkFBbk9Ua005U1NaYTU5WjE5TFdWR3BwNnRvVG5weGpTNGtMZHNwU1luSUV5ckFNQ1Q0aTh4eXR2WWJObkQzVXZpZVR4VzPSAboBQVVfeXFMUGlvbUtKRmsweTdCY1Q5MlFJQjFPQXQ2STUwSmVxeDFsbnl3S1lsNzhTcUtnd1lHbFZjY0tBUm5lQVpuRm0wSi0wRTVRMWZrOEZ0NlhraE5tY3pkVm9xaFF2UW9xdzB4TjVIVjk3dDhVWFVkTF9TUk1DaTdUMHI5X3JBRVVWdURuZ0xmRW52WjBzWWw5RF9pNlNNSndFZEZtY2hyYVFPdmsyMnNrWmJoUlZBaUNqR1RNSE9n?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-10 | People Lead (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702540006) |
+| 2026-08-10 | Continuous Improvement Analyst | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5990022004) |
 | 2026-08-09 | IT Operation (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702538006) |
 | 2026-08-07 | Fleet Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696722006) |
 | 2026-08-07 | Principal Robotics Functional Safety Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6138236004) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-06 | Mechanical Engineer, Softgoods/Plastics | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4596421006) |
 | 2026-08-06 | Staff Robotics Software Engineer, Teleoperations Architecture | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5972788004) |
 | 2026-08-05 | Humanoid Environment Staging Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4677955006) |
-| 2026-08-05 | IT Coordinator (CDMX) | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4702863006) |
 
 ## Automation
 
