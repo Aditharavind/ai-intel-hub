@@ -147,6 +147,41 @@
     "summary": "<p>UK battery EV sales rose 44.5% in July to 43,106 says the Society of Motor Manufacturers and Traders, representing more than 25% of the total car market. 9,750 of the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/uk-gets-taste-for-chinas-bevs-2026-08/\">UK gets taste for China’s BEVs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Wake up each day to a unique printout  @raspberry_pi",
+    "source": "Adafruit",
+    "date": "2026-08-10",
+    "url": "https://blog.adafruit.com/2026/08/10/wake-up-each-day-to-a-unique-printout-raspberry_pi/",
+    "summary": "Matt Horn wakes up to one original print, every morning. A thermal receipt printer in my kitchen wakes up each day and prints a piece of character art that has never existed before, designed minutes earlier by Claude, themed to the day: the weather outside, the season, whatever the news feels like. A short verse [&#8230;]"
+  },
+  {
+    "title": "TeddyCloud is an alternative server for your Toniebox",
+    "source": "Adafruit",
+    "date": "2026-08-10",
+    "url": "https://blog.adafruit.com/2026/08/10/teddycloud-is-an-alternative-server-for-your-toniebox/",
+    "summary": "teddyCloud is an alternative server for your Toniebox, allowing you to host the cloud services locally. This gives you the control about which data is sent to the original manufacturer’s cloud and allows you to host your own figurine audio files on e.g. your NAS or any other server. It provides an easy to use [&#8230;]"
+  },
+  {
+    "title": "An integrated timing belt loopback fastener",
+    "source": "Adafruit",
+    "date": "2026-08-10",
+    "url": "https://blog.adafruit.com/2026/08/10/an-integrated-timing-belt-loopback-fastener/",
+    "summary": "Daniel Mangum has recently been working on a mechatronics project that involves constructing an X-Y cartesian motion system. I opted to use stepper motors to drive each axis, and timing belts and pulleys for translating the rotational torque of the steppers into linear motion. The timing belts need to be anchored to the component that [&#8230;]"
+  },
+  {
+    "title": "How Blackwing Pencils Are Made",
+    "source": "Adafruit",
+    "date": "2026-08-10",
+    "url": "https://blog.adafruit.com/2026/08/10/how-blackwing-pencils-are-made/",
+    "summary": "Blackwing offers a thoughtful approach to the ordinary pencil. Made in Japan using &#8220;sustainably-sourced genuine California Incense-cedar and premium graphite,&#8221; a box of 12 will set you back $34.00! If you want to know what makes them special, you can head to their website or check out this 2yo r/pencil post (but be careful, you [&#8230;]"
+  },
+  {
+    "title": "A card-triggered audio player for [learning] the birds",
+    "source": "Adafruit",
+    "date": "2026-08-10",
+    "url": "https://blog.adafruit.com/2026/08/10/a-card-triggered-audio-player-for-learning-the-birds/",
+    "summary": "Birduino is Hannah Robertson&#8217;s card-triggered audio player for [learning] the birds. It consists of a deck of bird cards, an audio player, and a card reader. Tapping a card triggers playback of one of the vocalizations associated with that bird. You can trigger a bird-of-choice to learn its calls, or pick a random card and [&#8230;]"
+  },
+  {
     "title": "Play WAV sound effects on an ESP32 via I2S",
     "source": "Adafruit",
     "date": "2026-08-10",
@@ -196,13 +231,6 @@
     "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
-    "title": "Make a Voice Clock with MicroPython",
-    "source": "Adafruit",
-    "date": "2026-08-10",
-    "url": "https://blog.adafruit.com/2026/08/10/make-a-voice-clock-with-micropython/",
-    "summary": "image via ndenki, hackster.io &#160; Hackster.io user ndenki made a clock that sparkles, speaks the time, and to help beginners learn about async/await: While the device itself is a practical daily tool, I built it with a secondary, hidden purpose: to create a real-world tutorial for MicroPython&#8217;s async/await. Learning programming syntax from a textbook can [&#8230;]"
-  },
-  {
     "title": "100W Class D Subwoofer amp: Build or Buy?",
     "source": "EE Journal",
     "date": "2026-08-10",
@@ -217,39 +245,11 @@
     "summary": "<div><img alt=\"Makerfabs MaTouch ESP32 S3 3.95 inch UWB Display\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Makerfabs-MaTouch-ESP32-S3-3.95-inch-UWB-Display-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Makerfabs MaTouch ESP32-S3 MaUWB is a development board that combines an ESP32-S3 wireless MCU, a 3.95-inch touchscreen display, and a UWB module for indoor positioning and ranging applications. The board can be used as a portable positioning terminal. It uses a trilateration algorithm with up to three fixed UWB anchors to calculate the tag’s coordinates in real time. The MaUWB chipset operates on UWB Channel 5 (6489.6 MHz) and supports up to 8 anchors and 64 tags. For portable use, the board includes a LiPo battery connector, charging circuit, and battery level monitoring. MaTouch ESP32-S3 MaUWB specifications: Wireless Module – ESP32-S3-WROOM-1 SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM; 8MB PSRAM Wireless – WiFi 4 and Bluetooth LE 5 Storage – 16MB flash Antenna – PCB antenna Storage – MicroSD card slot for local data [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/\">MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Adafruit Weekly Editorial Round Up: Fruit Jam Library – Buttons, Hacking the Teenage Engineering EP-2350 Ting, NeoPixel LED Dress Tutorial and more!",
-    "source": "Adafruit",
-    "date": "2026-08-09",
-    "url": "https://blog.adafruit.com/2026/08/09/adafruit-weekly-editorial-round-up-fruit-jam-library-buttons-hacking-the-teenage-engineering-ep-2350-ting-neopixel-led-dress-tutorial-and-more/",
-    "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. John Park&#8217;s CircuitPython Parsec: Fruit [&#8230;]"
-  },
-  {
-    "title": "Making a 16×2 LCD 7 Times Bigger",
-    "source": "Adafruit",
-    "date": "2026-08-09",
-    "url": "https://blog.adafruit.com/2026/08/09/making-a-16x2-lcd-7-times-bigger/",
-    "summary": "UncleStem leveled, er, scaled up 7 times in this video on YouTube: Instead of trying to manufacture a real liquid crystal display, I replaced every LCD pixel with an individually controllable LED and designed custom PCBs to recreate the original 16×2 layout. We&#8217;ve got a handful of tradionally sized 16&#215;2 LCDs here and guides too! [&#8230;]"
-  },
-  {
     "title": "LILYGO T-Echo Card – A weatherproof, solar-powered, nRF52840-based LoRa + GPS development kit",
     "source": "CNX Software",
     "date": "2026-08-08",
     "url": "https://www.cnx-software.com/2026/08/08/lilygo-t-echo-card-a-weatherproof-solar-powered-nrf52840-based-lora-gps-development-kit/",
     "summary": "<div><img alt=\"LILYGO T-Echo Card\" class=\"attachment-medium size-medium wp-post-image\" height=\"510\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/LILYGO-T-Echo-Card-720x510.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>LILYGO T-Echo Card is a thin development kit based on Nordic Semi nRF52840 wireless MCU and a Semtech SX1262 LoRa transceiver with a solar panel for charging an 800 mAh battery. It supports Bluetooth 5, NFC, Bluetooth Mesh, ANT, 802.15.4 (Zigbee/Thread), LoRaWAN, and GNSS (L76K module) connectivity. The board also features a 0.42-inch OLED information display, a magnetic USB interface, a 9-axis motion sensor, a digital microphone, a speaker, and an RGB LED for status/notifications. It&#8217;s mainly useful for off-grid communication (text and audio), GNSS location sharing, personal/asset tracking, and as a compact mesh network node. T-Echo Card specifications: SoC – Nordic Semiconductor nRF52840 CPU – 32-bit Arm Cortex-M4F microcontroller @ 64 MHz Memory/Storage – 1 MB Flash, 256 KB RAM Wireless – Bluetooth 5, NFC, Bluetooth Mesh, 802.15.4 (Zigbee/Thread), ANT, 2.4 GHz proprietary Storage &#8211; 32 Mbit SPI flash (ZD25WQ32CEIGR) LoRa transceiver – Semtech SX1262 with global coverage support: [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/08/lilygo-t-echo-card-a-weatherproof-solar-powered-nrf52840-based-lora-gps-development-kit/\">LILYGO T-Echo Card &#8211; A weatherproof, solar-powered, nRF52840-based LoRa + GPS development kit</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Adafruit New Products 8/07/2026",
-    "source": "Adafruit",
-    "date": "2026-08-08",
-    "url": "https://blog.adafruit.com/2026/08/08/adafruit-new-products-7-07-2026-2/",
-    "summary": "We&#8217;ve got the New nEw NEW for you right here This week we debuted 2 New Products. Visit www.adafruit.com/new for more info. Want to get new products info beamed straight into your inbox? New nEw NEWs From Adafruit is an email newsletter sent once a week to subscribers only. It features new products, special offers, [&#8230;]"
-  },
-  {
-    "title": "Happy International Cat Day 2026 🌎🐈 #CatsofEngineering #WorldCatDay",
-    "source": "Adafruit",
-    "date": "2026-08-08",
-    "url": "https://blog.adafruit.com/2026/08/08/happy-international-cat-day-2026-%f0%9f%8c%8e%f0%9f%90%88-catsofengineering-worldcatday/",
-    "summary": "Today is International Cat Day! Every August 8 cats are celebrated globally! Checkout over 165+ Cats of Engineering! If you want to add your feline facilitator visit the “submit a cat” page – CLICK HERE! Make a project with your cat and help from the Adafruit Learning System: Automatic Cat Treat Dispenser Kitty Toe Bean Keypad [&#8230;]"
   },
   {
     "title": "GEEKOM IT13 Max mini PC review – Part 1: specifications, unboxing, teardown, and first boot",
