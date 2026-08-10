@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-10 15:45 UTC
+Last Updated: 2026-08-10 16:39 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -9,14 +9,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-10 | OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas | OpenAI | [link](https://openai.com/index/responsible-ai-infrastructure-texas) |
 | 2026-08-10 | Model ML completes finance work more efficiently with GPT-5.6 Sol | OpenAI | [link](https://openai.com/index/model-ml) |
+| 2026-08-10 | What building an AI-native finance function taught me | OpenAI | [link](https://openai.com/index/building-an-ai-native-finance-function) |
+| 2026-08-10 | Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS | Hugging Face | [link](https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents) |
 | 2026-08-10 | Making Knowledge Distillation Cheap Enough to Run at Scale | Hugging Face | [link](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation) |
 | 2026-08-10 | Meta is back with Muse Glimmer: local, agentic, multimodal, and open source | Hugging Face | [link](https://huggingface.co/blog/muse-glimmer) |
 | 2026-08-07 | Responding to the next frontier of critical cyber capabilities | OpenAI | [link](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities) |
 | 2026-08-07 | How HSP GRUPPE builds AI capabilities for tax advisory | OpenAI | [link](https://openai.com/index/hsp-gruppe) |
 | 2026-08-07 | TutorMoments: Do AI tutors know when to help and when to hold back? | Hugging Face | [link](https://huggingface.co/blog/allenai/tutormoments) |
 | 2026-08-06 | Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users | OpenAI | [link](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt) |
-| 2026-08-06 | Working with the American Psychological Association on youth mental health and AI | OpenAI | [link](https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai) |
-| 2026-08-06 | From asking to doing: How the world is putting ChatGPT to work | OpenAI | [link](https://openai.com/index/how-the-world-is-putting-chatgpt-to-work) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -86,19 +86,19 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_50K) |
 | 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_30K) |
 | 2026-08-10 | RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_10K) |
-| 2026-08-10 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
+| 2026-08-10 | Grigorij/Isaac_franka_4_vla_jepa_2 | 0 | 0 | [link](https://huggingface.co/Grigorij/Isaac_franka_4_vla_jepa_2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1445 | Rust | 578.1 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 899 | Python | 359.7 | [link](https://github.com/mosaico-labs/mosaico) |
+| mosaico-labs/mosaico | 898 | Python | 359.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | commaai/openpilot | 63377 | Python | 25350.9 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16103 | Python | 6441.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15658 | C++ | 6263.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14506 | C++ | 5802.5 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13215 | JavaScript | 5286.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| kornia/kornia | 11310 | Python | 4524.1 | [link](https://github.com/kornia/kornia) |
+| earthtojake/text-to-cad | 13218 | JavaScript | 5287.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| kornia/kornia | 11311 | Python | 4524.5 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11274 | Rust | 4509.7 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7870 | Python | 3148.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 
@@ -133,6 +133,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-10 | People Lead (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702540006) |
 | 2026-08-09 | IT Operation (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702538006) |
 | 2026-08-07 | Fleet Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696722006) |
 | 2026-08-07 | Principal Robotics Functional Safety Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6138236004) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-06 | Staff Robotics Software Engineer, Teleoperations Architecture | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5972788004) |
 | 2026-08-05 | Humanoid Environment Staging Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4677955006) |
 | 2026-08-05 | IT Coordinator (CDMX) | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4702863006) |
-| 2026-08-05 | Logistics & Dispatch Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4702689006) |
 
 ## Automation
 
