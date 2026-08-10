@@ -1,5 +1,14 @@
 [
   {
+    "model": "RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_20K",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_20K",
+    "date": "2026-08-10",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "fanzh03/robotwin_fewshot",
     "downloads": 0,
     "likes": 0,
@@ -63,10 +72,37 @@
     "score": 0.1
   },
   {
+    "model": "geonmin-kim/VLA-JEPA-3B-SO101-D6231-step30000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-step30000",
+    "date": "2026-08-10",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "B111ue/fcl-vla-baseline-recovery",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/B111ue/fcl-vla-baseline-recovery",
+    "date": "2026-08-10",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "geonmin-kim/VLA-JEPA-3B-SO101-D6231-Mdrift-step25000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-Mdrift-step25000",
+    "date": "2026-08-10",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "n5zhong/trace_vla_moe_no_trace_drop",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/n5zhong/trace_vla_moe_no_trace_drop",
     "date": "2026-08-10",
     "keyword": "vla",
     "score": 0.1
@@ -78,6 +114,15 @@
     "url": "https://huggingface.co/Shiki42/up-vla-action-chunk-checkpoints",
     "date": "2026-08-10",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "snaditya/aircut-rl-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/snaditya/aircut-rl-policy",
+    "date": "2026-08-10",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -121,15 +166,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/wanderly0501/Llama-3.1-8B-no-robots-finetuned",
-    "date": "2026-08-09",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "locht131/gr00t_fa_robotwin_3tasks_2hand_quat_s30k_bs32",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/locht131/gr00t_fa_robotwin_3tasks_2hand_quat_s30k_bs32",
     "date": "2026-08-09",
     "keyword": "robot",
     "score": 0.1
@@ -193,33 +229,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-D6231-Mdrift-step20000",
-    "date": "2026-08-09",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vlabki/mg-v4-finisher",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vlabki/mg-v4-finisher",
-    "date": "2026-08-09",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "UNIC0RN-Zhu/universal-three-scene-sensor-policy-vla-v6",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/UNIC0RN-Zhu/universal-three-scene-sensor-policy-vla-v6",
-    "date": "2026-08-09",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "whosricky/VLANeXt_HL1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/whosricky/VLANeXt_HL1",
     "date": "2026-08-09",
     "keyword": "vla",
     "score": 0.1
@@ -328,15 +337,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/alirezaaminzadeh/lastmile-reoptimization-policy",
-    "date": "2026-08-09",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ismamNur/Joint-Embedding-Guided-Policy-Optimization-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ismamNur/Joint-Embedding-Guided-Policy-Optimization-checkpoints",
     "date": "2026-08-09",
     "keyword": "policy",
     "score": 0.1
