@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-11 08:00 UTC
+Generated: 2026-08-11 08:53 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -17,17 +17,17 @@ Generated: 2026-08-11 08:00 UTC
 | commaai/openpilot | 63383 | 25353.3 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30279 | 12111.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16106 | 6442.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15662 | 6264.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| TianxingChen/Embodied-AI-Guide | 15359 | 6143.7 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
+| ArduPilot/ardupilot | 15663 | 6265.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| TianxingChen/Embodied-AI-Guide | 15363 | 6145.3 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| SEU-PAISys/Embodied.cpp | 629 | 189.6 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
+| SEU-PAISys/Embodied.cpp | 626 | 188.7 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
 | zhijieq/directional-navigation | 422 | 126.7 | [link](https://huggingface.co/zhijieq/directional-navigation) |
-| tencent/Hy-Embodied-RxBrain-1.0 | 367 | 121.0 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
-| physicalai-bmi/efa-1 | 124 | 37.3 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
-| sasa2000/Hy-Embodied-VLM-1.0-Text-Only | 102 | 30.7 | [link](https://huggingface.co/sasa2000/Hy-Embodied-VLM-1.0-Text-Only) |
+| tencent/Hy-Embodied-RxBrain-1.0 | 369 | 121.6 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
+| physicalai-bmi/efa-1 | 127 | 38.2 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
+| sasa2000/Hy-Embodied-VLM-1.0-Text-Only | 103 | 31.0 | [link](https://huggingface.co/sasa2000/Hy-Embodied-VLM-1.0-Text-Only) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
