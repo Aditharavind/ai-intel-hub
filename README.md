@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-11 05:44 UTC
+Last Updated: 2026-08-11 06:40 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-11 | A Keyboard with No Keys | Hackaday | [link](https://hackaday.com/2026/08/10/a-keyboard-with-no-keys/) |
+| 2026-08-11 | The PiShot Is Ready For Your Snaps | Hackaday | [link](https://hackaday.com/2026/08/10/the-pishot-is-ready-for-your-snaps/) |
 | 2026-08-11 | PewCB One Desktop PCB fabrication system enables rapid prototyping at home | CNX Software | [link](https://www.cnx-software.com/2026/08/11/pewcb-one-desktop-pcb-fabrication-system-enables-rapid-prototyping-at-home/) |
 | 2026-08-11 | Makerfabs Nomad Terminal features ESP32-S3 WiSoC, LR1121 LoRa transceiver, 3.5-inch touchscreen display | CNX Software | [link](https://www.cnx-software.com/2026/08/11/makerfabs-nomad-terminal-features-esp32-s3-wisoc-lr1121-lora-transceiver-3-5-inch-touchscreen-display/) |
 | 2026-08-11 | Silicon Motion Unveils PerformaShape Technology for AI SSDs | Embedded.com | [link](https://www.embedded.com/silicon-motion-unveils-performashape-technology-for-ai-ssds/) |
@@ -57,8 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | Smartphone margin squeeze | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/smartphone-margin-squeeze-2026-08/) |
 | 2026-08-11 | Anglia signs Silanna | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/anglia-signs-silanna-2026-08/) |
 | 2026-08-11 | Toshiba adds to digital isolators | Electronics Weekly | [link](https://www.electronicsweekly.com/news/toshiba-adds-to-digital-isolators-2-2026-08/) |
-| 2026-08-11 | Europe  Needs Government Support For Data Processing | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/europe-needs-government-support-for-data-processing-2026-08/) |
-| 2026-08-10 | PyBLE open-source MicroPython IDE works over Bluetooth LE for tablet and iPad users | CNX Software | [link](https://www.cnx-software.com/2026/08/10/pyble-open-source-micropython-ide-works-over-bluetooth-le-for-tablet-and-ipad-users/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -85,8 +85,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | RobotisSW/Fixed_PickGreenCoffeeCan_WhiteShelf_byGrootModel_80K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Fixed_PickGreenCoffeeCan_WhiteShelf_byGrootModel_80K) |
 | 2026-08-11 | RobotisSW/Fixed_PickGreenCoffeeCan_WhiteShelf_byGrootModel_60K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Fixed_PickGreenCoffeeCan_WhiteShelf_byGrootModel_60K) |
 | 2026-08-11 | locht131/gr00t_fa_robotwin_2hand_quat_5_tasks_s25k_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_5_tasks_s25k_bs64) |
-| 2026-08-11 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
 | 2026-08-11 | sam-guided-vlas/train_1_2__point__overlay_a100__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a100__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-11 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,12 +94,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | NVIDIA/skills | 2845 | Python | 1138.1 | [link](https://github.com/NVIDIA/skills) |
 | commaai/openpilot | 63383 | Python | 25353.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15662 | C++ | 6264.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| isaac-sim/IsaacLab | 7872 | Python | 3148.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4504 | Python | 1801.7 | [link](https://github.com/RLinf/RLinf) |
+| isaac-sim/IsaacLab | 7873 | Python | 3149.3 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 4505 | Python | 1802.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3866 | Rust | 1546.5 | [link](https://github.com/dora-rs/dora) |
-| sou350121/VLA-Handbook | 493 | HTML | 197.3 | [link](https://github.com/sou350121/VLA-Handbook) |
+| sou350121/VLA-Handbook | 494 | HTML | 197.7 | [link](https://github.com/sou350121/VLA-Handbook) |
 | luohongk/Embodied-AI-Daily | 409 | HTML | 163.7 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| vllm-project/vllm-omni | 6027 | Python | 2410.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 6028 | Python | 2411.3 | [link](https://github.com/vllm-project/vllm-omni) |
 | inclusionAI/AWorld | 1218 | Python | 487.3 | [link](https://github.com/inclusionAI/AWorld) |
 
 ## Startup Funding
