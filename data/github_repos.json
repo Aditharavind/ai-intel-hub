@@ -1,5 +1,55 @@
 [
   {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15659,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-08-11",
+    "topic": "robotics",
+    "score": 6263.7
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7870,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-08-11",
+    "topic": "robot-learning",
+    "score": 3148.1
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3866,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-08-11",
+    "topic": "embodied-ai",
+    "score": 1546.5
+  },
+  {
+    "repo": "vllm-project/vllm-omni",
+    "stars": 6023,
+    "language": "Python",
+    "description": "A framework for efficient model inference with omni-modality models",
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "date": "2026-08-11",
+    "topic": "world-model",
+    "score": 2409.3
+  },
+  {
+    "repo": "OpenHUTB/hutb",
+    "stars": 573,
+    "language": "C++",
+    "description": "人车模拟器（Human-vehicle Simulator）",
+    "url": "https://github.com/OpenHUTB/hutb",
+    "date": "2026-08-11",
+    "topic": "humanoid",
+    "score": 229.3
+  },
+  {
     "repo": "copper-project/copper-rs",
     "stars": 1446,
     "language": "Rust",
@@ -50,16 +100,6 @@
     "score": 6442.1
   },
   {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15659,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-08-10",
-    "topic": "robotics",
-    "score": 6263.7
-  },
-  {
     "repo": "google-deepmind/mujoco",
     "stars": 14509,
     "language": "C++",
@@ -100,16 +140,6 @@
     "score": 4510.9
   },
   {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7870,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-08-10",
-    "topic": "robot-learning",
-    "score": 3148.1
-  },
-  {
     "repo": "RLinf/RLinf",
     "stars": 4501,
     "language": "Python",
@@ -118,16 +148,6 @@
     "date": "2026-08-10",
     "topic": "embodied-ai",
     "score": 1800.5
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3866,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-08-10",
-    "topic": "embodied-ai",
-    "score": 1546.5
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
@@ -190,16 +210,6 @@
     "score": 121.7
   },
   {
-    "repo": "vllm-project/vllm-omni",
-    "stars": 6023,
-    "language": "Python",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "url": "https://github.com/vllm-project/vllm-omni",
-    "date": "2026-08-10",
-    "topic": "world-model",
-    "score": 2409.3
-  },
-  {
     "repo": "LMD0311/Awesome-World-Model",
     "stars": 2203,
     "language": "",
@@ -211,13 +221,13 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 2108,
+    "stars": 2109,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-08-10",
     "topic": "world-model",
-    "score": 843.3
+    "score": 843.7
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -328,16 +338,6 @@
     "date": "2026-08-09",
     "topic": "humanoid",
     "score": 908.9
-  },
-  {
-    "repo": "OpenHUTB/hutb",
-    "stars": 573,
-    "language": "C++",
-    "description": "人车模拟器（Human-vehicle Simulator）",
-    "url": "https://github.com/OpenHUTB/hutb",
-    "date": "2026-08-09",
-    "topic": "humanoid",
-    "score": 229.3
   },
   {
     "repo": "vikashplus/robohive",
@@ -661,13 +661,13 @@
   },
   {
     "repo": "PKU-YuanGroup/Helios",
-    "stars": 2043,
+    "stars": 2044,
     "language": "Python",
     "description": "Helios: Real Real-Time Long Video Generation Model",
     "url": "https://github.com/PKU-YuanGroup/Helios",
     "date": "2026-07-28",
     "topic": "world-model",
-    "score": 817.3
+    "score": 817.7
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",
@@ -718,6 +718,16 @@
     "date": "2026-07-25",
     "topic": "robotics",
     "score": 5470.1
+  },
+  {
+    "repo": "phi-monster/Galahad",
+    "stars": 151,
+    "language": "Python",
+    "description": "Instruction blindness in vision-language-action policies: diagnosis and a low-rank data cure. Paper, model, deconfounded datasets, generator, and the measurement battery.",
+    "url": "https://github.com/phi-monster/Galahad",
+    "date": "2026-07-25",
+    "topic": "robot-learning",
+    "score": 60.5
   },
   {
     "repo": "thu-ml/Causal-Forcing",
@@ -848,15 +858,5 @@
     "date": "2026-07-13",
     "topic": "lerobot",
     "score": 4.9
-  },
-  {
-    "repo": "ARISE-Initiative/robosuite",
-    "stars": 2555,
-    "language": "Python",
-    "description": "robosuite: A Modular Simulation Framework and Benchmark for Robot Learning",
-    "url": "https://github.com/ARISE-Initiative/robosuite",
-    "date": "2026-07-11",
-    "topic": "robot-learning",
-    "score": 1022.1
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "title": "Makerfabs Nomad Terminal features ESP32-S3 WiSoC, LR1121 LoRa transceiver, 3.5-inch touchscreen display",
+    "source": "CNX Software",
+    "date": "2026-08-11",
+    "url": "https://www.cnx-software.com/2026/08/11/makerfabs-nomad-terminal-features-esp32-s3-wisoc-lr1121-lora-transceiver-3-5-inch-touchscreen-display/",
+    "summary": "<div><img alt=\"Makerfabs Nomad Terminal – 3.5 inch LoRa GNSS Handheld\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Makerfabs-Nomad-Terminal-–-3.5-inch-LoRa-GNSS-Handheld-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Makerfabs Nomad Terminal handheld development platform is built around an ESP32-S3 MCU and a Semtech LR1121 LoRa transceiver for long-range wireless communication, as well as an ATGM336H GNSS module for positioning. The device can be used for applications such as LoRa messaging, GPS tracking, navigation, and remote sensor monitoring without a cellular connection. It also includes a 9-axis motion sensor, a microSD card slot, an RTC, and a 5,000 mAh rechargeable battery. Makerfabs Nomad Terminal specifications: Wireless Module – ESP32-S3-WROOM-1 SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM; 8MB PSRAM Wireless – WiFi 4 and Bluetooth LE 5 Storage – 16MB flash Antenna – PCB antenna Storage – MicroSD card slot for local data logging Display – 3.5-inch 480×320 TFT LCD (ILI9488 controller via SPI) with FT6236 capacitive touch panel Wireless WiFi 4 and Bluetooth [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/11/makerfabs-nomad-terminal-features-esp32-s3-wisoc-lr1121-lora-transceiver-3-5-inch-touchscreen-display/\">Makerfabs Nomad Terminal features ESP32-S3 WiSoC, LR1121 LoRa transceiver, 3.5-inch touchscreen display</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Silicon Motion Unveils PerformaShape Technology for AI SSDs",
+    "source": "Embedded.com",
+    "date": "2026-08-11",
+    "url": "https://www.embedded.com/silicon-motion-unveils-performashape-technology-for-ai-ssds/",
+    "summary": "<p>Silicon Motion Technology Corp. has introduced its MonTitan SSD reference design kit (RDK), incorporating the company's next-generation PerformaShape technology. Presented at FMS2026, the platform is designed for agentic AI infrastructure, where enterprise SSDs are increasingly required to operate as a persistent memory tier for applications such as key-value (KV) cache offload. The solution targets predictable [...]</p>\n<p>The post <a href=\"https://www.embedded.com/silicon-motion-unveils-performashape-technology-for-ai-ssds/\">Silicon Motion Unveils PerformaShape Technology for AI SSDs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
     "title": "Cotton-Fiberglass Composite Makes Lightweight RV Countertops",
     "source": "Hackaday",
     "date": "2026-08-10",
@@ -75,76 +89,6 @@
     "date": "2026-08-10",
     "url": "https://www.cnx-software.com/2026/08/10/elecrow-thinknode-m9-a-standalone-esp32-s3-meshcore-communication-terminal-with-color-lcd-qwerty-keyboard/",
     "summary": "<div><img alt=\"ThinkNode M9 MeshCore Communication Terminal\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/ThinkNode-M9-MeshCore-Communication-Terminal-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Elecrow ThinkNode M9 is a standalone LoRa terminal that runs MeshCore firmware and features a QWERTY keyboard, color display, GPS, LoRa connectivity, and a 2,300mAh battery, making it suitable for outdoor and emergency communication. The device is built around an ESP32-S3R8 and a Semtech LR1110 LoRa module supporting US915 and EU868 frequencies, while the esp32-s3 adds Wi-Fi 4 and Bluetooth 5.0/BLE connectivity. Additionally, it features a 2.4-inch 240 × 320 TFT LCD, a 37-key physical QWERTY keyboard, GPS/GNSS support, plus a magnetic compass for navigation and location sharing. Other features include a USB-C port for charging and programming, RTC, buzzer, built-in antennas, and a 2,300mAh/3.8V Li-Po battery rated for up to 2–3 days in standby. The M9 targets outdoor exploration, emergency and disaster communication, remote operations, scientific research, and offline community or privacy-focused communication. ThinkNode M9 specifications: SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/10/elecrow-thinknode-m9-a-standalone-esp32-s3-meshcore-communication-terminal-with-color-lcd-qwerty-keyboard/\">Elecrow ThinkNode M9 &#8211; A standalone ESP32-S3 MeshCore communication terminal with color LCD, QWERTY keyboard</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Mitsubishi Electric backs Array Labs radar payloads",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/finance/mitsubishi-electric-backs-array-labs-radar-payloads-2026-08/",
-    "summary": "<p>Array Labs, a Silicon Valley startup specialising in radar payloads for satellite buses, has raised $21 million in a strategic investment round. The funding was lead by Mitsubishi Electric. And [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/mitsubishi-electric-backs-array-labs-radar-payloads-2026-08/\">Mitsubishi Electric backs Array Labs radar payloads</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Keysight expands PDK for GlobalFoundries’ photonics process",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/products/software-products/rf-physics-design-software-2026-08/",
-    "summary": "<p>Keysight Technologies&#8217; Advanced Design System (ADS) Photonic Design process design kit (PDK) supports GlobalFoundries’ silicon photonics process technology. This allows designers to validate how photonics circuits perform at the optical [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/software-products/rf-physics-design-software-2026-08/\">Keysight expands PDK for GlobalFoundries&#8217; photonics process</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Startup reinvents digital simulation to match chip size increases",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/products/software-products/startup-reinvents-digital-simulation-to-match-chip-size-increases-2026-08/",
-    "summary": "<p>One of the most intriguing startups at DAC 2026 was the Israeli, deep-tech EDA company, Hiveware. Its headline was that it is emerging from stealth mode with $24m in funding [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/software-products/startup-reinvents-digital-simulation-to-match-chip-size-increases-2026-08/\">Startup reinvents digital simulation to match chip size increases</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Europe’s Iris² satellite constellation to expand",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/europes-iris%c2%b2-satellite-constellation-to-expand-2026-08/",
-    "summary": "<p>The European Commission and the commercial SpaceRISE consortium have agreed to roll out an expanded IRIS², the EU&#8217;s flagship satellite constellation. It will add 66 LEO satellites to the programme, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/europes-iris%c2%b2-satellite-constellation-to-expand-2026-08/\">Europe&#8217;s Iris² satellite constellation to expand</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Starlink – Elon’s Cash Cow",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/starlink-elons-cash-cow-2026-08/",
-    "summary": "<p>SpaceX has significantly boosted its EBITDA driven primarily by its Starlink satellite internet service. In the second quarter of 2026, the company posted an unadjusted profit of $3.5 billion, up [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/markets/starlink-elons-cash-cow-2026-08/\">Starlink &#8211; Elon’s Cash Cow</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Intel to raise $15bn in share sale",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/intel-to-raise-15bn-in-share-sale-2026-08/",
-    "summary": "<p>Intel today announced a $15 billion underwritten public offering of common stock. Intel shares have risen from around $20 to around $100 since LIp-Bu Tan took over in March last [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/intel-to-raise-15bn-in-share-sale-2026-08/\">Intel to raise $15bn in share sale</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Lane Electronics distributing Cinch-Fibreco JCON series beam adapters",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/lane-electronics-distributing-cinch-fibreco-jcon-series-beam-adapters-2026-08/",
-    "summary": "<p>The newly released Cinch-Fibreco JCON series, the JCON Junior Bulkhead Expanded Beam Adapter, is now available from Lane Electronics. The design of the adaptor is to simplify panel-mount fibre-optic connectivity [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/lane-electronics-distributing-cinch-fibreco-jcon-series-beam-adapters-2026-08/\">Lane Electronics distributing Cinch-Fibreco JCON series beam adapters</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Satellite SAR imaging services win NRO RCA contracts",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/satellite-sar-imaging-services-win-nro-rca-contracts-2026-08/",
-    "summary": "<p>Three companies have won Radar Commercial Augmentation (RCA) contracts from the US National Reconnaissance Office (NRO) involving Synthetic Aperture Radar (SAR) imaging. They are: Capella Space, ICEYE US and Umbra [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/satellite-sar-imaging-services-win-nro-rca-contracts-2026-08/\">Satellite SAR imaging services win NRO RCA contracts</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "TSMC July revenue up 44.7% y-o-y",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/tsmc-july-revenue-up-44-7-yoy-2026-08/",
-    "summary": "<p>TSMC’s revenue for July 2026 was approximately $14.5bn, an increase of 5.6% from June 2026 and an increase of 44.7% from July 2025. Revenue for January through July 2026 totalled [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-july-revenue-up-44-7-yoy-2026-08/\">TSMC July revenue up 44.7% y-o-y</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "UK gets taste for China’s BEVs",
-    "source": "Electronics Weekly",
-    "date": "2026-08-10",
-    "url": "https://www.electronicsweekly.com/news/business/uk-gets-taste-for-chinas-bevs-2026-08/",
-    "summary": "<p>UK battery EV sales rose 44.5% in July to 43,106 says the Society of Motor Manufacturers and Traders, representing more than 25% of the total car market. 9,750 of the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/uk-gets-taste-for-chinas-bevs-2026-08/\">UK gets taste for China’s BEVs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "ICYMI Python on Microcontrollers Newsletter: MicroPython for the bao, CircuitPython Day Soon, Coldcard and More!",
@@ -308,13 +252,6 @@
     "summary": "<div><img alt=\"ESP RainMaker Neo\" class=\"attachment-medium size-medium wp-post-image\" height=\"375\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/ESP-RainMaker-Neo-720x375.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Espressif Systems has just released ESP RainMaker Neo, providing a complete device-to-cloud-to-phone app stack, including the cloud backend, firmware SDK, firmware examples, phone app SDK, and reference phone app. If the name sounds familiar, it&#8217;s because it&#8217;s essentially the open-source version of ESP RainMaker cloud service introduced in 2020. Both are still built on AWS Serverless architecture, but while ESP RainMaker, now known as ESP RainMaker Classic, is managed by Espressif, ESP RainMaker Neo is hosted on the customer&#8217;s own AWS instance(s), providing more flexibility and control over the cloud architecture. While the company has made efforts to keep the same hybrid mobile app SDK and similar device-side APIs, RainMaker Neo is a new implementation with a different cloud architecture from ESP RainMaker Classic. That means existing ESP RainMaker Classic deployments cannot be directly migrated to Neo, and the open-source implementation is only recommended for new deployments. Released under the Apache [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/06/espressif-systems-releases-esp-rainmaker-neo-open-source-device-to-cloud-to-phone-iot-platform/\">Espressif Systems releases ESP RainMaker Neo open-source device-to-cloud-to-phone IoT platform</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Antmicro releases open-source hardware Thunderbolt to dual 10GbE adapter",
-    "source": "CNX Software",
-    "date": "2026-08-06",
-    "url": "https://www.cnx-software.com/2026/08/06/antmicro-releases-open-source-hardware-thunderbolt-to-dual-10gbe-adapter/",
-    "summary": "<div><img alt=\"antmicro Thunderbolt to 10GbE adapter\" class=\"attachment-medium size-medium wp-post-image\" height=\"378\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/antmicro-Thunderbolt-to-10GbE-adapter-720x378.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Antmicro has just released an open-source hardware Thunderbolt to (dual) 10GbE adapter that serves as a reference design for a high-speed Ethernet accessory, further customizable for smart terminals, Point of Sale systems, smart cameras, IoT gateways, and more. The company has a history of releasing open-source hardware designs, and we previously covered a baseboard for Quectel SA800U-WF System-on-Module (Qualcomm Snapdragon 845) and an AMD Xilinx Kintex-7 K410T FPGA development board, both designed in KiCad. The Thunderbolt to 10GbE adapter adds to the list. Antmicro Thunderbolt to 10GbE adapter specifications: Networking &#8211; 2x 10GbE RJ45 ports via Intel X710-AT2 Ethernet controller Host interface &#8211; Thunderbolt 3 USB-C connector via Intel JHL6340SLLSQ Thunderbolt 3 controller (PCIe Gen3 x4) Misc Passive cooling via heatsink 4-pin PWM fan connector 3x LEDs Power Supply &#8211; 5V via USB-C port and DC jack Dimensions &#8211; 110 x 70 mm The company tested the adapter, I assume with iperf [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/06/antmicro-releases-open-source-hardware-thunderbolt-to-dual-10gbe-adapter/\">Antmicro releases open-source hardware Thunderbolt to dual 10GbE adapter</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
     "title": "Last-Level Caches Matter Even More in the HBM Era",
     "source": "Embedded.com",
     "date": "2026-08-06",
@@ -418,12 +355,5 @@
     "date": "2026-08-04",
     "url": "https://www.embedded.com/optical-zonu-launches-miniature-ku-band-rfof-transmitter/",
     "summary": "<p>Optical Zonu has introduced a miniature Ku-band RF-over-fiber (RFoF) transmitter designed for defense and aerospace platforms where installation space is limited and high-frequency RF signal integrity is critical. The compact OEM module enables direct conversion of RF signals to optical signals at the antenna, reducing transmission losses and simplifying system architectures compared with conventional coaxial [...]</p>\n<p>The post <a href=\"https://www.embedded.com/optical-zonu-launches-miniature-ku-band-rfof-transmitter/\">Optical Zonu Launches Miniature Ku-Band RFoF Transmitter</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Fault-Tolerant Quantum Computers, Sustained Performance Defines the Next Phase of Edge AI, Agentic AI for EDA: Embedded Week Insights",
-    "source": "Embedded.com",
-    "date": "2026-07-31",
-    "url": "https://www.embedded.com/fault-tolerant-quantum-computers-sustained-performance-defines-the-next-phase-of-edge-ai-agentic-ai-for-eda-embedded-week-insights/",
-    "summary": "<p>Here's a roundup of this week's must-read articles. We'll look into the latest developments on fault-tolerant quantum computers, why sustained performance will define the next phase of edge AI, and a partnership on agentic AI for EDA to automate complex engineering tasks. Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete list of [...]</p>\n<p>The post <a href=\"https://www.embedded.com/fault-tolerant-quantum-computers-sustained-performance-defines-the-next-phase-of-edge-ai-agentic-ai-for-eda-embedded-week-insights/\">Fault-Tolerant Quantum Computers, Sustained Performance Defines the Next Phase of Edge AI, Agentic AI for EDA: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]

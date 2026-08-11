@@ -1,12 +1,66 @@
 [
   {
+    "model": "locht131/gr00t_fa_robotwin_2hand_quat_5_tasks_s25k_bs64",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_5_tasks_s25k_bs64",
+    "date": "2026-08-11",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "a5ilank/curious-robot",
     "downloads": 0,
     "likes": 1,
     "url": "https://huggingface.co/a5ilank/curious-robot",
-    "date": "2026-08-10",
+    "date": "2026-08-11",
     "keyword": "robot",
     "score": 0.3
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__point__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__point__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_50K",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_50K",
+    "date": "2026-08-10",
+    "keyword": "robot",
+    "score": 0.1
   },
   {
     "model": "L7-Robotics/pi05_so101_camera_setting_2026Aug_redcube_whitebowl_polarbear_greentray_merge_v1",
@@ -90,46 +144,19 @@
     "score": 0.1
   },
   {
-    "model": "RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_30K",
+    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_30K",
-    "date": "2026-08-10",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_10K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Low_Table_Task368_10K",
-    "date": "2026-08-10",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-10",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "model": "sam-guided-vlas/train_1_2__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-10",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__point__overlay_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-10",
     "keyword": "vla",
     "score": 0.1
@@ -139,15 +166,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Grigorij/Isaac_franka_4_vla_jepa_2",
-    "date": "2026-08-10",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-10",
     "keyword": "vla",
     "score": 0.1
@@ -193,24 +211,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Shiki42/up-vla-action-chunk-checkpoints",
-    "date": "2026-08-10",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Grigorij/Isaac_franka_4_vla_jepa",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Grigorij/Isaac_franka_4_vla_jepa",
-    "date": "2026-08-10",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vlapky/TeraTTSv2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vlapky/TeraTTSv2",
     "date": "2026-08-10",
     "keyword": "vla",
     "score": 0.1
