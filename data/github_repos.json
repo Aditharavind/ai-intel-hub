@@ -1,13 +1,13 @@
 [
   {
     "repo": "NVIDIA/skills",
-    "stars": 2846,
+    "stars": 2847,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-11",
     "topic": "physical-ai",
-    "score": 1138.5
+    "score": 1138.9
   },
   {
     "repo": "commaai/openpilot",
@@ -21,13 +21,13 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16106,
+    "stars": 16105,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-08-11",
     "topic": "robotics",
-    "score": 6442.5
+    "score": 6442.1
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -41,13 +41,13 @@
   },
   {
     "repo": "kornia/kornia",
-    "stars": 11312,
+    "stars": 11313,
     "language": "Python",
     "description": "🐍 Geometric Computer Vision Library for Spatial AI",
     "url": "https://github.com/kornia/kornia",
     "date": "2026-08-11",
     "topic": "robotics",
-    "score": 4524.9
+    "score": 4525.3
   },
   {
     "repo": "rerun-io/rerun",
@@ -111,13 +111,13 @@
   },
   {
     "repo": "sou350121/VLA-Handbook",
-    "stars": 497,
+    "stars": 498,
     "language": "HTML",
     "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
     "url": "https://github.com/sou350121/VLA-Handbook",
     "date": "2026-08-11",
     "topic": "robot-learning",
-    "score": 198.9
+    "score": 199.3
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -140,34 +140,44 @@
     "score": 128.5
   },
   {
+    "repo": "RealXiaoze/humanoid-motion-intelligence",
+    "stars": 310,
+    "language": "",
+    "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
+    "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
+    "date": "2026-08-11",
+    "topic": "robot-learning",
+    "score": 124.1
+  },
+  {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6036,
+    "stars": 6035,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-11",
     "topic": "world-model",
-    "score": 2414.5
+    "score": 2414.1
   },
   {
     "repo": "inclusionAI/AWorld",
-    "stars": 1218,
+    "stars": 1219,
     "language": "Python",
     "description": "Search, understand, reproduce, and improve an idea with ease",
     "url": "https://github.com/inclusionAI/AWorld",
     "date": "2026-08-11",
     "topic": "world-model",
-    "score": 487.3
+    "score": 487.7
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2281,
+    "stars": 2282,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-08-11",
     "topic": "humanoid",
-    "score": 912.5
+    "score": 912.9
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -231,13 +241,13 @@
   },
   {
     "repo": "mosaico-labs/mosaico",
-    "stars": 898,
+    "stars": 899,
     "language": "Python",
     "description": "Mosaico - The data platform for Physical AI",
     "url": "https://github.com/mosaico-labs/mosaico",
     "date": "2026-08-10",
     "topic": "physical-ai",
-    "score": 359.3
+    "score": 359.7
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -251,33 +261,33 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14510,
+    "stars": 14511,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-10",
     "topic": "robotics",
-    "score": 5804.1
+    "score": 5804.5
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13252,
+    "stars": 13253,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-10",
     "topic": "robotics",
-    "score": 5300.9
+    "score": 5301.3
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2712,
+    "stars": 2713,
     "language": "Python",
     "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-08-10",
     "topic": "embodied-ai",
-    "score": 1084.9
+    "score": 1085.3
   },
   {
     "repo": "baidu-baige/LoongForge",
@@ -288,16 +298,6 @@
     "date": "2026-08-10",
     "topic": "vla",
     "score": 136.5
-  },
-  {
-    "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 309,
-    "language": "",
-    "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
-    "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
-    "date": "2026-08-10",
-    "topic": "robot-learning",
-    "score": 123.7
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -391,13 +391,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3089,
+    "stars": 3091,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1235.7
+    "score": 1236.5
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -491,13 +491,13 @@
   },
   {
     "repo": "NVlabs/alpamayo",
-    "stars": 1983,
+    "stars": 1984,
     "language": "Python",
     "description": "NVIDIA Alpamayo 1 Nano is an open 10B reasoning VLA model for autonomous vehicles that pairs driving trajectories with Chain-of-Causation reasoning.",
     "url": "https://github.com/NVlabs/alpamayo",
     "date": "2026-08-05",
     "topic": "vla",
-    "score": 793.3
+    "score": 793.7
   },
   {
     "repo": "NVlabs/alpamayo1.5",
@@ -661,13 +661,13 @@
   },
   {
     "repo": "PKU-YuanGroup/Helios",
-    "stars": 2044,
+    "stars": 2047,
     "language": "Python",
     "description": "Helios: Real Real-Time Long Video Generation Model",
     "url": "https://github.com/PKU-YuanGroup/Helios",
     "date": "2026-07-28",
     "topic": "world-model",
-    "score": 817.7
+    "score": 818.9
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",

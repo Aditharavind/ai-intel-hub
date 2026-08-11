@@ -1,5 +1,14 @@
 [
   {
+    "model": "a5ilank/curious-robot",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/a5ilank/curious-robot",
+    "date": "2026-08-11",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
     "model": "RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_lerobot_30K",
     "downloads": 0,
     "likes": 0,
@@ -16,15 +25,6 @@
     "date": "2026-08-11",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "a5ilank/curious-robot",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/a5ilank/curious-robot",
-    "date": "2026-08-11",
-    "keyword": "robot",
-    "score": 0.3
   },
   {
     "model": "junbrro/gr1hp_robotonly_30000",
@@ -90,6 +90,24 @@
     "score": 0.1
   },
   {
+    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "B111ue/fcl-vla-baseline-recovery",
     "downloads": 0,
     "likes": 0,
@@ -121,24 +139,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/ISdept/wiltech-vla-moe-6k",
-    "date": "2026-08-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-11",
     "keyword": "vla",
     "score": 0.1
@@ -198,19 +198,19 @@
     "score": 0.1
   },
   {
-    "model": "kdh8156/cosmos3-policy-n-all-geomap-robocasa50-bsz512-16k-mlxp",
+    "model": "amanm10000/chess-policy-net",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/kdh8156/cosmos3-policy-n-all-geomap-robocasa50-bsz512-16k-mlxp",
+    "url": "https://huggingface.co/amanm10000/chess-policy-net",
     "date": "2026-08-11",
     "keyword": "policy",
     "score": 0.1
   },
   {
-    "model": "kdh8156/cosmos3-policy-n-pointflowmap-robocasa50-bsz512-16k-mlxp",
+    "model": "ducido/folding_shirt_flow_policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/kdh8156/cosmos3-policy-n-pointflowmap-robocasa50-bsz512-16k-mlxp",
+    "url": "https://huggingface.co/ducido/folding_shirt_flow_policy",
     "date": "2026-08-11",
     "keyword": "policy",
     "score": 0.1
@@ -225,10 +225,28 @@
     "score": 0.1
   },
   {
-    "model": "amanm10000/chess-policy-net",
+    "model": "Yewy/act_mahjong_table_pickup_v2_policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/amanm10000/chess-policy-net",
+    "url": "https://huggingface.co/Yewy/act_mahjong_table_pickup_v2_policy",
+    "date": "2026-08-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "kdh8156/cosmos3-policy-n-all-geomap-robocasa50-bsz512-16k-mlxp",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kdh8156/cosmos3-policy-n-all-geomap-robocasa50-bsz512-16k-mlxp",
+    "date": "2026-08-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "kdh8156/cosmos3-policy-n-pointflowmap-robocasa50-bsz512-16k-mlxp",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kdh8156/cosmos3-policy-n-pointflowmap-robocasa50-bsz512-16k-mlxp",
     "date": "2026-08-11",
     "keyword": "policy",
     "score": 0.1
@@ -274,15 +292,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
-    "date": "2026-08-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ismamNur/Joint-Embedding-Guided-Policy-Optimization-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ismamNur/Joint-Embedding-Guided-Policy-Optimization-checkpoints",
     "date": "2026-08-11",
     "keyword": "policy",
     "score": 0.1
@@ -340,15 +349,6 @@
     "date": "2026-08-10",
     "keyword": "physical ai",
     "score": 5.2
-  },
-  {
-    "model": "szaborego/panda_reach_act_policy_5",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/szaborego/panda_reach_act_policy_5",
-    "date": "2026-08-10",
-    "keyword": "policy",
-    "score": 0.1
   },
   {
     "model": "eurecat-robotics/g1-policies",
