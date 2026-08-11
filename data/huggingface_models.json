@@ -1,5 +1,14 @@
 [
   {
+    "model": "locht131/gr00t_fa_robotwin_2hand_quat_4_tasks_thirdview_s10k_bs64",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_4_tasks_thirdview_s10k_bs64",
+    "date": "2026-08-11",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "qualia-robotics/smolvla-smolvla-liftcube-franka-200-a0518875",
     "downloads": 0,
     "likes": 0,
@@ -99,12 +108,12 @@
     "score": 0.1
   },
   {
-    "model": "fanzh03/robotwin_fewshot",
+    "model": "B111ue/fcl-vla-baseline-recovery",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/fanzh03/robotwin_fewshot",
+    "url": "https://huggingface.co/B111ue/fcl-vla-baseline-recovery",
     "date": "2026-08-11",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -180,15 +189,6 @@
     "score": 17.3
   },
   {
-    "model": "B111ue/fcl-vla-baseline-recovery",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/B111ue/fcl-vla-baseline-recovery",
-    "date": "2026-08-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "sam-guided-vlas/train_1_2__point__overlay_a100__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -207,10 +207,28 @@
     "score": 0.1
   },
   {
+    "model": "ChristianZ97/satp-policy-v4.27",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
+    "date": "2026-08-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "nosuke113/parc2026-policy",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/nosuke113/parc2026-policy",
+    "date": "2026-08-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Neutrollized/act_so101_blockinbox_policy_fp_50k_twf",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Neutrollized/act_so101_blockinbox_policy_fp_50k_twf",
     "date": "2026-08-11",
     "keyword": "policy",
     "score": 0.1
@@ -238,15 +256,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Cochon123/clash-royale-policy-bc-v4-4",
-    "date": "2026-08-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ChristianZ97/satp-policy-v4.27",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
     "date": "2026-08-11",
     "keyword": "policy",
     "score": 0.1
@@ -301,15 +310,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/w12613/act_bimanual_policy",
-    "date": "2026-08-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ducido/folding_shirt_flow_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ducido/folding_shirt_flow_policy",
     "date": "2026-08-11",
     "keyword": "policy",
     "score": 0.1
