@@ -11,33 +11,43 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63383,
+    "stars": 63384,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-11",
     "topic": "robotics",
-    "score": 25353.3
+    "score": 25353.7
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15660,
+    "stars": 15661,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-11",
     "topic": "robotics",
-    "score": 6264.1
+    "score": 6264.5
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7870,
+    "stars": 7872,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-08-11",
     "topic": "robot-learning",
-    "score": 3148.1
+    "score": 3148.9
+  },
+  {
+    "repo": "RLinf/RLinf",
+    "stars": 4504,
+    "language": "Python",
+    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
+    "url": "https://github.com/RLinf/RLinf",
+    "date": "2026-08-11",
+    "topic": "embodied-ai",
+    "score": 1801.7
   },
   {
     "repo": "dora-rs/dora",
@@ -61,13 +71,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6024,
+    "stars": 6026,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-11",
     "topic": "world-model",
-    "score": 2409.7
+    "score": 2410.5
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -80,6 +90,16 @@
     "score": 487.3
   },
   {
+    "repo": "NVlabs/ProtoMotions",
+    "stars": 2277,
+    "language": "Python",
+    "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
+    "url": "https://github.com/NVlabs/ProtoMotions",
+    "date": "2026-08-11",
+    "topic": "humanoid",
+    "score": 910.9
+  },
+  {
     "repo": "OpenHUTB/hutb",
     "stars": 573,
     "language": "C++",
@@ -90,14 +110,34 @@
     "score": 229.3
   },
   {
+    "repo": "Tsinghua-MARS-Lab/OMG",
+    "stars": 105,
+    "language": "Python",
+    "description": "Official repository for \"OMG: Omni-Modal Motion Generation for Generalist Humanoid Control\", https://arxiv.org/abs/2606.10340.",
+    "url": "https://github.com/Tsinghua-MARS-Lab/OMG",
+    "date": "2026-08-11",
+    "topic": "humanoid",
+    "score": 42.1
+  },
+  {
+    "repo": "PathOn-AI/PathOnRoboticsOSS",
+    "stars": 129,
+    "language": "Python",
+    "description": "PathOn Robotics Open Source Repo on building and controlling real robots",
+    "url": "https://github.com/PathOn-AI/PathOnRoboticsOSS",
+    "date": "2026-08-11",
+    "topic": "lerobot",
+    "score": 51.7
+  },
+  {
     "repo": "copper-project/copper-rs",
-    "stars": 1446,
+    "stars": 1447,
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
     "date": "2026-08-10",
     "topic": "physical-ai",
-    "score": 578.5
+    "score": 578.9
   },
   {
     "repo": "mosaico-labs/mosaico",
@@ -141,13 +181,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13232,
+    "stars": 13236,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-10",
     "topic": "robotics",
-    "score": 5292.9
+    "score": 5294.5
   },
   {
     "repo": "kornia/kornia",
@@ -170,24 +210,14 @@
     "score": 4511.3
   },
   {
-    "repo": "RLinf/RLinf",
-    "stars": 4503,
-    "language": "Python",
-    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
-    "url": "https://github.com/RLinf/RLinf",
-    "date": "2026-08-10",
-    "topic": "embodied-ai",
-    "score": 1801.3
-  },
-  {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2709,
+    "stars": 2710,
     "language": "Python",
     "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-08-10",
     "topic": "embodied-ai",
-    "score": 1083.7
+    "score": 1084.1
   },
   {
     "repo": "flashrt-project/FlashRT",
@@ -221,13 +251,13 @@
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 304,
+    "stars": 306,
     "language": "",
     "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
     "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
     "date": "2026-08-10",
     "topic": "robot-learning",
-    "score": 121.7
+    "score": 122.5
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -270,16 +300,6 @@
     "score": 64.9
   },
   {
-    "repo": "Tsinghua-MARS-Lab/OMG",
-    "stars": 105,
-    "language": "Python",
-    "description": "Official repository for \"OMG: Omni-Modal Motion Generation for Generalist Humanoid Control\", https://arxiv.org/abs/2606.10340.",
-    "url": "https://github.com/Tsinghua-MARS-Lab/OMG",
-    "date": "2026-08-10",
-    "topic": "humanoid",
-    "score": 42.1
-  },
-  {
     "repo": "DexForce/EmbodiChain",
     "stars": 206,
     "language": "Python",
@@ -298,16 +318,6 @@
     "date": "2026-08-10",
     "topic": "lerobot",
     "score": 64.1
-  },
-  {
-    "repo": "PathOn-AI/PathOnRoboticsOSS",
-    "stars": 129,
-    "language": "Python",
-    "description": "PathOn Robotics Open Source Repo on building and controlling real robots",
-    "url": "https://github.com/PathOn-AI/PathOnRoboticsOSS",
-    "date": "2026-08-10",
-    "topic": "lerobot",
-    "score": 51.7
   },
   {
     "repo": "johnsutor/so101-nexus",
@@ -338,16 +348,6 @@
     "date": "2026-08-09",
     "topic": "world-model",
     "score": 306.1
-  },
-  {
-    "repo": "NVlabs/ProtoMotions",
-    "stars": 2276,
-    "language": "Python",
-    "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
-    "url": "https://github.com/NVlabs/ProtoMotions",
-    "date": "2026-08-09",
-    "topic": "humanoid",
-    "score": 910.5
   },
   {
     "repo": "vikashplus/robohive",
@@ -501,13 +501,13 @@
   },
   {
     "repo": "mani-skill/ManiSkill",
-    "stars": 3214,
+    "stars": 3215,
     "language": "Python",
     "description": "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
     "url": "https://github.com/mani-skill/ManiSkill",
     "date": "2026-08-04",
     "topic": "robot-learning",
-    "score": 1285.7
+    "score": 1286.1
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
@@ -781,13 +781,13 @@
   },
   {
     "repo": "arpitg1304/forge",
-    "stars": 165,
+    "stars": 166,
     "language": "Python",
     "description": "Robotics Data Toolkit | Convert between robotics dataset formats (RLDS, LeRobot v2/v3, Zarr, HDF5, Rosbag). Inspect, visualize, and analyze datasets. Works with HuggingFace Hub. Built for OpenVLA, Octo, LeRobot, and Diffusion Policy workflows.",
     "url": "https://github.com/arpitg1304/forge",
     "date": "2026-07-22",
     "topic": "lerobot",
-    "score": 66.1
+    "score": 66.5
   },
   {
     "repo": "JereoZero/so101-real",

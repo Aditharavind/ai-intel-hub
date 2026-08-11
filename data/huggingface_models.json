@@ -9,6 +9,15 @@
     "score": 0.3
   },
   {
+    "model": "fanzh03/robotwin_fewshot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/fanzh03/robotwin_fewshot",
+    "date": "2026-08-11",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "RobotisSW/Fixed_PickGreenCoffeeCan_WhiteShelf_byGrootModel_80K",
     "downloads": 0,
     "likes": 0,
@@ -36,6 +45,33 @@
     "score": 0.1
   },
   {
+    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "khoavucao2511/so101_vla_jepa_11_08_26_freeze_Qwen3_45000steps_batch16_chunk100",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/khoavucao2511/so101_vla_jepa_11_08_26_freeze_Qwen3_45000steps_batch16_chunk100",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "EmpathicRobotics/tokenizer-vla-qwen3-v3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/EmpathicRobotics/tokenizer-vla-qwen3-v3",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "sam-guided-vlas/train_1_2__point__overlay_a50__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -54,19 +90,19 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-11",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-11",
     "keyword": "vla",
     "score": 0.1
@@ -81,12 +117,21 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "model": "zycsys/robocasa-cosmos-policy",
+    "downloads": 17,
+    "likes": 0,
+    "url": "https://huggingface.co/zycsys/robocasa-cosmos-policy",
+    "date": "2026-08-11",
+    "keyword": "policy",
+    "score": 5.2
+  },
+  {
+    "model": "ismamNur/Joint-Embedding-Guided-Policy-Optimization-checkpoints",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/ismamNur/Joint-Embedding-Guided-Policy-Optimization-checkpoints",
     "date": "2026-08-11",
-    "keyword": "vla",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -112,15 +157,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/locht131/gr00t_robotwin_2hand_quat_5_tasks_s25k_bs64",
-    "date": "2026-08-10",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "fanzh03/robotwin_fewshot",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/fanzh03/robotwin_fewshot",
     "date": "2026-08-10",
     "keyword": "robot",
     "score": 0.1
@@ -193,24 +229,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Grigorij/Tello_multifruit_sum_vla_jepa",
-    "date": "2026-08-10",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "khoavucao2511/so101_vla_jepa_09_08_26_freeze_Qwen3_UpChunkSizexnActionsteps",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/khoavucao2511/so101_vla_jepa_09_08_26_freeze_Qwen3_UpChunkSizexnActionsteps",
-    "date": "2026-08-10",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Shiki42/up-vla-action-chunk-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Shiki42/up-vla-action-chunk-checkpoints",
     "date": "2026-08-10",
     "keyword": "vla",
     "score": 0.1
@@ -328,24 +346,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Cochon123/clash-royale-policy-bc-v6",
-    "date": "2026-08-10",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Cochon123/clash-royale-policy-bc-v5-smoke",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Cochon123/clash-royale-policy-bc-v5-smoke",
-    "date": "2026-08-10",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Cochon123/clash-royale-policy-bc-v5",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Cochon123/clash-royale-policy-bc-v5",
     "date": "2026-08-10",
     "keyword": "policy",
     "score": 0.1

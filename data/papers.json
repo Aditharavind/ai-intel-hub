@@ -1,5 +1,264 @@
 [
   {
+    "title": "Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning",
+    "authors": [
+      "Haodong Li",
+      "Shaoteng Liu",
+      "Tianyu Wang",
+      "Chongjian Ge",
+      "Sihui Ji",
+      "Jiahan Zhang",
+      "Xin Lin",
+      "Haolin Lu",
+      "Zhe Lin",
+      "Manmohan Chandraker"
+    ],
+    "published": "2026-08-10",
+    "summary": "The world evolves following its dynamics, i.e., its laws of motion. However, leading video diffusion models largely fit the pixels without modeling how the pixels transit over time. Thus, they render visually plausible frames but may not accurately obey the laws. To capture the dynamics purely from pixels, we introduce Latent Dynamics Reasoning (LDR). LDR casts the latent transition as an explicit kinematic integration, where the lower-order dynamics are integrated numerically and the model regresses only the third- and higher-order residual that drives the rollout. For this integration to extrapolate better, LDR runs it on a structured latent rather than dense convolutional features. Following PhyWorld, we validate LDR on a controlled white-box physics benchmark spanning five tasks (uniform motion, parabola, collision, bouncing, looming), focusing on out-of-distribution scenarios that reveal whether a model has truly learned the underlying dynamics. LDR extrapolates the learned dynamics far better: the gap between its in- and out-of-distribution error is over 20$\\times$ smaller than the video diffusion baseline's, under both single- and joint-task training at 256$^2$ resolution, while using 26$\\times$ fewer parameters and running 143$\\times$ faster. LDR can even generalize under severe shift: for example, trained only on red balls moving left-to-right, it correctly predicts the motion of a blue square moving right-to-left. To our knowledge, this is the first video world model that extrapolates learned dynamics beyond its training distribution. Project page: https://lat-dyn-reason.github.io/",
+    "pdf_url": "https://arxiv.org/pdf/2608.09926v1"
+  },
+  {
+    "title": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis",
+    "authors": [
+      "Alban Puech",
+      "Matteo Mazzonelli",
+      "Tamara R. Govindasamy",
+      "Mangaliso Mngomezulu",
+      "Héctor Maeso-García",
+      "Thomas Tolhurst",
+      "Javad Bayazi",
+      "Ali Moeini",
+      "Naomi Simumba",
+      "Celia Cintas",
+      "David Nelischer",
+      "Romeo Kienzler",
+      "Jonas Weiss",
+      "Anna Varbella",
+      "Florian Dörfler",
+      "Gabriela Hug",
+      "Martin Mevissen",
+      "Juan Bernabé-Moreno",
+      "François Mirallès",
+      "Hendrik F. Hamann",
+      "Etienne Vos",
+      "Thomas Brunschwiler"
+    ],
+    "published": "2026-08-10",
+    "summary": "Foundation models are transforming business workflows and boosting productivity, yet they remain largely absent from engineering domains such as power system analysis, where strict physical consistency must be enforced. We present GENCO (GEometric Neural Corrective Optimizer), a unified neural solver for steady-state transmission grid analysis that handles power flow (PF), optimal power flow (OPF), and state estimation (SE) within a single architecture and shared network representation. To support advances in neural power system solvers, we introduce the open-source GridFM Development Framework, which standardizes synthetic data generation and training in a low-code environment. We also release large-scale datasets with millions of PF and OPF scenarios across diverse grid topologies to support reproducible benchmarking. We evaluate GENCO on the PFDelta and OPFData benchmarks against state-of-the-art neural solvers and classical solvers, including Newton-Raphson and IPOPT, as well as on real-world Hydro-Québec SCADA data. For large-scale PF, GENCO recovers the full AC operating state, including voltage magnitudes and reactive power that DC-PF cannot provide, while matching DC-PF-level active power-balance residuals. It achieves up to 30x speedups over Newton-Raphson at only 2x the runtime of DC-PF. For OPF, it achieves up to 85x speedups over IPOPT while improving feasibility, optimality, and runtime over DC-OPF. For SE, GENCO is more robust than classical weighted least squares to noisy measurements and network parameter errors, and always returns a high-quality estimate even when weighted least squares fails to converge. Together, the unified architecture and development framework provide a new approach to large-scale steady-state grid analysis, lowering the barrier to entry for power system engineers and marking a step toward Grid Foundation Models.",
+    "pdf_url": "https://arxiv.org/pdf/2608.09921v1"
+  },
+  {
+    "title": "Detecting Behavioral Changes in Python Refactoring Implementations with Foundation Models",
+    "authors": [
+      "Jonhnanthan Oliveira",
+      "Rohit Gheyi",
+      "Márcio Ribeiro",
+      "Alessandro Garcia"
+    ],
+    "published": "2026-08-10",
+    "summary": "Python is a widely adopted programming language, valued for its simplicity and flexibility. However, automated refactoring for Python remains challenging, even though refactoring is an essential practice in software evolution aimed at improving internal code structure without changing external behavior. Understanding how behavioral changes are introduced during refactoring is crucial, as such issues can compromise software reliability and reduce developer productivity. We propose an approach based on a foundation model oracle that analyzes git-style diffs to identify behavioral changes introduced by Python refactorings. We evaluated our technique on Rope refactoring implementations, reusing 1,152 refactoring attempts from a prior study and analyzing 217 resulting transformation pairs with the oracle. Our model-based analysis uncovered 13 distinct bugs among the seven refactoring types studied. All reported bugs were submitted to the respective developers, and 12 of the 13 resulting issue reports were accepted according to issue-tracker evidence. These results highlight the need to improve the robustness of current Python refactoring tools to ensure the correctness of automated code transformations and support reliable software maintenance.",
+    "pdf_url": "https://arxiv.org/pdf/2608.09919v1"
+  },
+  {
+    "title": "Consilience for Verifier-Free Test-Time Scaling",
+    "authors": [
+      "Lecheng Kong",
+      "Like Hui",
+      "Haitao Mao",
+      "Jun Huan"
+    ],
+    "published": "2026-08-10",
+    "summary": "Test-time scaling often uses an external verifier, such as compilers and test cases in coding or trained value functions in robotics applications, to obtain high-quality rollouts. Verifier-free test-time scaling (or VF-TTS) is gaining extensive attention as a mechanism to enhance Large Language Model (LLM) reasoning, primarily because we do not have access to such high-quality verifiers in many real-world applications. Among existing VF-TTS methods, confidence-based VF-TTS methods, which compute and rank rollouts solely by confidence, are particularly promising. Such methods introduce near-zero overhead for sample evaluation and require minimal access to internal model states, making the methods highly flexible across models and tasks. In this paper, we demonstrate a critical limitation of existing confidence-based VF-TTS methods by showing that such methods catastrophically break down on complex tasks. We observe a very interesting phenomenon: uniformly high confidence frequently indicates a failure to explore, favoring confidently wrong answers. To address this, our core insight is that robust cognitive search requires a specific confidence trajectory pattern: such methods perform exploratory branching at the beginning, as manifested by low initial confidence, and converge to a high final confidence solution. To implement this insight, we introduce consilience, a novel selection framework that explicitly evaluates the temporal asymmetry of confidence in reasoning. We operationalize this via a combinatorial metric that actively penalizes high initial confidence while strictly demanding final certainty. Extensive experiments covering both graduate-level mathematics problems and free-form code generation demonstrate that consilience effectively outperforms existing baselines, validating our novel perspective on completion confidence.",
+    "pdf_url": "https://arxiv.org/pdf/2608.09898v1"
+  },
+  {
+    "title": "Nascent Embedded-protostar Survey in Taurus (NEST) II: Measuring Dust Mass, Disk Size, and Gas Mass",
+    "authors": [
+      "Noshin Yesmin",
+      "Patrick Sheehan",
+      "John Tobin",
+      "Aislinn Coleman-Plante",
+      "Nicholas P. Ballering",
+      "Tyler L. Bourke",
+      "Josh Eisner",
+      "Hauyu Baobab Liu",
+      "Zhi-Yun Li"
+    ],
+    "published": "2026-08-10",
+    "summary": "Envelope-embedded protostellar disks represent the earliest stage of protoplanetary disk evolution, but their masses and sizes are difficult to measure because disk emission is entangled with the envelope. We analyze 26 protostellar disk systems in Taurus using ALMA Band 7 (345 GHz; ~0.3'') and VLA Ka-band (33 GHz; ~0.2'') continuum observations, together with molecular-line data to constrain disk gas masses. At 345 GHz, the median flux density, dust mass, and radius are 71 mJy, 5.5 M_Mearth, and 28 AU, with 68% ranges of 54-107 mJy, 3.9-9.4 M_Mearth, and 25-39 AU. At 33 GHz, the corresponding medians are 0.43 mJy, 39 M_Mearth, and 32 AU, with ranges of 0.41-0.80 mJy, 34-52 M_Mearth, and 29-33 AU. Taurus Class I disks are fainter and less massive than those in Orion, comparable to Perseus Class I disks but fainter than Perseus Class 0 disks, and brighter and more massive than those in Ophiuchus. Within Taurus, Class 0/I disks are brighter than Class II disks at both frequencies, although their inferred dust masses are comparable at 345 GHz and slightly higher at 33 GHz. Radiative-transfer modeling of CO isotopologue emission yields a median gas mass of 6.7 x 10^-4 M_Msun. The resulting CO-inferred gas-to-dust ratios span a broad range, with a mean of 147 +/- 75, a median of 26, and a 16th-84th percentile range of 8-147. This distribution overlaps the Taurus Class II population at the low end and ISM-like or higher values, including the AGE-PRO Ophiuchus Class 0/I population, at the high end.",
+    "pdf_url": "https://arxiv.org/pdf/2608.09896v1"
+  },
+  {
+    "title": "XPolicyLab: A Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment",
+    "authors": [
+      "XPolicyLab Community",
+      "Tianxing Chen",
+      "Yue Chen",
+      "Tian Nian",
+      "Zijian Cai",
+      "Guangyu Chen",
+      "Wenwei Lin",
+      "Qiwei Liang",
+      "Peicheng Xiang",
+      "Kailun Su",
+      "Zixuan Li",
+      "Junyuan Tang",
+      "Yan Qin",
+      "Qiangyu Chen",
+      "Shaolong Zhu",
+      "Xiang Li",
+      "Jiahao Zhang",
+      "Weijie Wan",
+      "Baijun Chen",
+      "Honghao Su",
+      "Kehe Ye",
+      "Shujia Liu",
+      "Kaixuan Wang",
+      "Haotian Liang",
+      "Yunze Liu",
+      "Mingleyang Li",
+      "Yuran Wang",
+      "Boyu Chen",
+      "Hongzhe Bi",
+      "Shuhe Huang",
+      "Hengkai Tan",
+      "Jisong Cai",
+      "Yao Mu",
+      "Jun Guo",
+      "Xiaofeng Wang",
+      "Zheng Zhu",
+      "Weijie Ke",
+      "Hengtao Li",
+      "Yuhang Tang",
+      "Xiaofan Li",
+      "Ganlin Yang",
+      "Zhangzheng Tu",
+      "Shuai Yang",
+      "Wenxuan Song",
+      "Pengxiang Ding",
+      "Kaidong Zhang",
+      "Yu Sun",
+      "Junliang Guo",
+      "Tong Zhang",
+      "Yixing Chen",
+      "Rongxu Cui",
+      "Zongzheng Zhang",
+      "Haoxiang Ma",
+      "Junhao Cai",
+      "Haoyu Zhang",
+      "Senqiao Yang",
+      "Jinhui Ye",
+      "Pengguang Chen",
+      "Shu Liu",
+      "Xiu Su",
+      "Wenhan Fang",
+      "Wenhao Li",
+      "Yichao Cao",
+      "Chengyao Wang",
+      "Qiang Chen",
+      "Ping Luo",
+      "Wenbo Ding"
+    ],
+    "published": "2026-08-10",
+    "summary": "Robot policy evaluation and deployment remain fragmented by model-specific software dependencies, data representations, and runtime interfaces, so that connecting N policies to M evaluation environments requires O(NM) separate integrations. We present XPolicyLab, a unified standard and open ecosystem that reduces this cost to O(N+M). XPolicyLab specifies common observation, action, and trajectory schemas together with a minimal adapter interface for observation updates, action prediction, batched execution, and episode reset, while a dependency-isolated client/server architecture separates policy inference from environment execution, so that each side retains its native software stack and may run locally or remotely. The ecosystem integrates 42 robot policies and standardizes their installation, debugging, serving, and evaluation workflows. Across these adapters, model-specific code varies by an order of magnitude while the environment-facing loop stays within a few lines of a fixed reference, confirming that the contract confines heterogeneity to the policy side. In a controlled study, conforming to the standard reduces the integration effort of a representative policy from over five hours to two hours, and packaged agent skills reduce it further to thirty minutes. The same adapters serve RoboTwin, RoboDojo simulation, and standardized real-robot evaluation through one interface. XPolicyLab is released as shared infrastructure for reproducible policy comparison and standardized deployment across simulation and physical platforms. Project website: https://xpolicylab.github.io/.",
+    "pdf_url": "https://arxiv.org/pdf/2608.09892v1"
+  },
+  {
+    "title": "RoSE: A Robotic Soft Esophagus for Endoprosthetic Stent Testing",
+    "authors": [
+      "Dipankar Bhattacharya",
+      "Sherine Jesna V. A.",
+      "Leo K. Cheng",
+      "Weiliang Xu"
+    ],
+    "published": "2026-08-10",
+    "summary": "Soft robotic systems are well suited for developing devices for biomedical applications. A bio-mimicking robotic soft esophagus (RoSE) is developed as an in vitro testing device of endoprosthetic stents for dysphagia management. Endoprosthetic stent placement is an immediate and cost-effective therapy for dysphagia caused by malignant esophageal strictures from esophageal cancer. However, later stage complications, like stent migration, could weaken swallow efficacy in the esophagus. The stent radial force (RF) on the esophageal wall is pivotal in avoiding stent migration. Due to limited randomized controlled trials in patients, stent design and stenting guidelines remain incomplete. To address this knowledge deficit, we investigate RoSE by implanting two stents (A and B) of different radial stiffness characteristics, to measure stent RF and its effect on migration. Endoscopic manometry under peristalsis is also performed to study the impact of stenting and stent dysfunction on intra-bolus pressure signatures (IBPSs) and swallowing efficacy. Each implanted stent undergoes experiments with varied peristalsis velocity, wavelength, and bolus concentrations. The results show that stiffer stent B has a higher RF, whereas stent A maintains a lower RF profile due to lesser stiffness. High RF is necessary to minimize migration under prolonged peristaltic contractions in RoSE. For manometry, stent A slightly increases IBPS, but stiffer stent B significantly decreases IBPS, especially for higher-concentration boluses. If a stiffer stent buckles, it can reduce swallow efficacy and cause recurrent dysphagia. RoSE is therefore an innovative soft robotic platform for testing endoprosthetic stents and addressing clinical challenges in stent evaluation.",
+    "pdf_url": "https://arxiv.org/pdf/2608.09891v1"
+  },
+  {
+    "title": "Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning",
+    "authors": [
+      "Yapeng Liu",
+      "Yuanzhao Zhai",
+      "Bo Ding",
+      "Huaimin Wang",
+      "Lin Wang"
+    ],
+    "published": "2026-08-10",
+    "summary": "Physically consistent motion planning remains a fundamental challenge in embodied AI, as generated trajectories must strictly conform to real-world execution dynamics. While latent world models offer a promising approach by predicting these dynamics, existing methods learn unconstrained future representations where absorbed physics remains implicit. Therefore, they fail to form reusable physical knowledge, which compromises reliability in unpredictable open-world navigation. To address this, we propose a novel Energy-Structured Latent World Model (ELWM). Our key idea is to structure the ELWM latent state to explicitly carry energy and momentum, ensuring strictly causal transitions via dissipation and control ports. Trained on multimodal RGB-D and inertial interaction histories, our model guarantees physically consistent predictions. We further implement this for motion planning by constructing Physics-Conditioned Neural Time Fields (PC-NTF), a key technical cornerstone that integrates ELWM into an arrival time field via the Eikonal equation to yield a physically-informed navigation policy. Across held-out scenes, our evaluation reveals significant improvements. Compared to generic latent models, PC-NTF reduces 0.8-s motion-prediction NRMSE from 0.36 to 0.29. Against Active Neural Time Fields, it improves navigation success from 81.3% to 89.7% and SPL from 0.64 to 0.73, while cutting the physical collision rate from 12.1% to 5.8% and the Eikonal residual from 0.083 to 0.031. Beyond these targeted gains, our results demonstrate that embedding explicit physical structures into latent spaces intrinsically bridges the gap between predictive world models and safe, dynamically feasible motion planning.",
+    "pdf_url": "https://arxiv.org/pdf/2608.09876v1"
+  },
+  {
+    "title": "Entanglement-Free Trajectory Planning for Tethered Mobile Robots with a Slack Tether",
+    "authors": [
+      "Gianpietro Battocletti",
+      "Dimitris Boskos",
+      "Bart De Schutter"
+    ],
+    "published": "2026-08-10",
+    "summary": "In motion planning algorithms for tethered mobile robots, the entanglement state of the tether is a critical aspect to consider during the planning phase. This is particularly important in case of a slack tether, where the shape of the tether is not determined solely by the geometry of the environment and the location of the obstacles, but also by the dynamics of the tether, by the trajectory followed by the robot, and possibly by exogenous forces. In this scenario, preventing entanglement requires planning a robot trajectory that accounts for the entanglement definition and for the dynamics of the robot and of the tether. In this work, we propose a motion planning algorithm for tethered mobile robots with a slack tether that computes dynamically feasible entanglement-free trajectories to navigate through an environment with static obstacles. By considering the entanglement state during all the stages of the planning pipeline, we are able to compute safer trajectories that avoid entanglement during the motion of the robot. We achieve this through a three-step pipeline, which includes (i) the construction of a topological model of the entanglement-free configuration space of the tethered robot, (ii) the generation of a set of candidate paths using this model, and (iii) the computation of a dynamically feasible entanglement-free trajectory by solving a homotopy-constrained trajectory generation problem. The resulting trajectory can then be executed to lead the robot to its target location, while maintaining the tether in an entanglement-free configuration. We demonstrate the benefits of this algorithm in simulations, where we show how the planning algorithm avoids violations of the entanglement constraints, resulting in safer and more reliable trajectories.",
+    "pdf_url": "https://arxiv.org/pdf/2608.09860v1"
+  },
+  {
+    "title": "Agentic Harnesses: LLM-Driven Verification Layers for Robot Autonomy",
+    "authors": [
+      "Rohan Bhagra",
+      "Mahantesh Halapannavar",
+      "Uddhav Bhattarai"
+    ],
+    "published": "2026-08-10",
+    "summary": "Advances in advanced artificial intelligence tools have sparked research in robot autonomy, but the development of such systems has largely focused on execution rather than verifying the feasibility actions planning models propose. Like general-purpose LLMs, robotics planning models carry risks: biased toward user-specified goals, they may suggest actions misaligned with scientific ethics, they may be unsafe due to an inability to \"remember\" prior safety risks, or they may be vulnerable to adversarial attacks on the autonomy ecosystem. We propose a LLM-driven verification layer between planning and execution to evaluate action permissibility. Our LLM-as-a-Judge ensemble combines chain-of-thought reasoning across models and synthesizes those expert judge outputs, mirroring a combination of a mixture of experts and self-consistency approach. This layer serves as middleware, gating plans from the server's planning module before they reach the MCP server and therefore the robot's low-level controls: plans are approved, rejected for reformulation, or escalated for human review. With this system, we achieve near 85% precision across accept/escalate/reject categories 97% containment of adversarial attacks, with negligible errors between accepting and rejecting tasks, and errors mostly manifesting at the escalate boundary.",
+    "pdf_url": "https://arxiv.org/pdf/2608.09857v1"
+  },
+  {
+    "title": "RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance",
+    "authors": [
+      "Dongchi Huang",
+      "Hongyin Zhang",
+      "Bohan Hou",
+      "Siteng Huang",
+      "Zhian Su",
+      "Hang Guo",
+      "Tong Lu",
+      "Zhaofeng Xu",
+      "Jiahao Tang",
+      "Jianfei Yang",
+      "Donglin Wang",
+      "Peixi Peng",
+      "Mingxiu Chen",
+      "Deli Zhao",
+      "Xin Li"
+    ],
+    "published": "2026-08-10",
+    "summary": "General-purpose reward models are increasingly the bottleneck for scaling robot learning, yet the recipe for learning value-related capabilities from large-scale heterogeneous corpora remains underexplored. Existing approaches tie supervision to task-internal anchors such as preferences or normalized progress, none of which transfer cleanly across embodiments and data sources. We introduce RynnValue, an open-source value foundation model for robotic manipulation that replaces these anchors with temporal distance, the directed cost-to-go from an observation to the language-specified goal. Because temporal-distance labels can be derived directly from timestamps, RynnValue scales to over 7,000 hours and roughly 3M instruction-conditioned clips without preference or progress annotations. To make temporal-value learning reliable at scale, we combine random temporal sampling, temporal-order shuffling, and value-isolation attention, suppressing shortcuts that would leave predictions insensitive to failures and regressions. Trained without preference labels, RynnValue attains an average Kendall's tau_a of 0.675 on RBM-EVAL-OOD, surpassing the fully preference-supervised state of the art (0.655) and more than doubling a progress-only counterpart (0.292), while generalizing zero-shot to unseen tasks, embodiments, and viewpoints. Converted into dense rewards via potential-based shaping, it raises real-world policy success from 52.5% to 72.5% online and from 63.8% to 82.5% offline. These results establish temporal distance as a scalable supervision target and practical reward interface for generalist robot policies.",
+    "pdf_url": "https://arxiv.org/pdf/2608.09853v1"
+  },
+  {
+    "title": "Hierarchical Fast--Slow ReAct Agent for Zero-Shot Object-Goal Navigation",
+    "authors": [
+      "Zhaochen Lan",
+      "Zhi Yang",
+      "Yuxiang Fu",
+      "Mengxiang Lin"
+    ],
+    "published": "2026-08-10",
+    "summary": "Zero-shot object-goal navigation (ZSON) requires a robot to find a named object category in a building it has never entered. The prevailing approach scores frontiers with a vision--language \\emph{value map}: every decision is another argmax over the map as it currently stands, and the evidence behind that score is discarded the moment it is taken. Systems that place a large vision--language model inside the perception--action loop typically query it on a fixed schedule from the current view alone; a room the robot walked through minutes earlier is never reconsidered, and a failed call has no defined fallback. We turn what the robot has already seen into the object of deliberation. Our hierarchical fast--slow agent leaves the value-map controller running at every step and writes a \\emph{coordinate-anchored memory} as it moves: a semantic grid of room types and confirmed object instances, together with a bounded store of pose-tagged keyframes. A VLM screens each candidate detection before it is written. A deliberative layer reads this memory in a bounded reason--retrieve--act loop. It wakes on structural events the reactive layer computes, reasons first over text, and recalls a first-person view only for candidates that text alone cannot separate. Per-invocation and per-run caps bound its calls, a call-free first tier resolves the most frequent stall, and any failure returns control to the reactive controller. Our system reaches 68.75% SR on HM3D v1 \\texttt{val} and 47.29% on MP3D \\texttt{val}, the highest success rate among the zero-shot methods compared here. Choosing among far frontiers by argmax instead of deliberating costs 3.40 SR points in a paired comparison over all 2000 HM3D episodes (95\\% CI [1.70, 5.05]); deliberating over every frontier does not recover them.",
+    "pdf_url": "https://arxiv.org/pdf/2608.09816v1"
+  },
+  {
+    "title": "WRAP: Wasserstein-Robust Adaptive Plug-in for Robot Localization",
+    "authors": [
+      "Minhyuk Jang",
+      "Astghik Hakobyan",
+      "Jungjin Lee",
+      "Naira Hovakimyan",
+      "Insoon Yang"
+    ],
+    "published": "2026-08-10",
+    "summary": "Robotic localization under changing sensing conditions can suffer from biased errors and miscalibrated covariances. We present WRAP, an adapter-agnostic Wasserstein-robust plug-in for nonlinear extended Kalman filter (EKF) and error-state Kalman filter (ESKF) stacks. A causal module supplies time-varying effective process and measurement statistics; a mean-preserving Wasserstein local update then computes least-favorable covariances and a robust gain without changing the propagation model, residual, or retraction. This separates mean adaptation from covariance robustification and uses distinct radii for propagation and sensing. On 18 UWB--IMU sequences held out from adapter training, adapter-only and WRAP reduce mean 3-D position RMSE by $19.8\\%$ and $27.4\\%$ relative to the nominal ESKF; an isotropic ablation reaches $19.5\\%$, linking the incremental gain to directional process-covariance redistribution. An in-sample GNSS--INS study shows that mean adaptation provides most of the accuracy gain, while DR improves consistency and mitigates over-tightened classical covariance estimates. The robust solve takes 0.05 ms for UWB and 2.92 ms for GNSS on a Jetson Orin Nano.",
+    "pdf_url": "https://arxiv.org/pdf/2608.09807v1"
+  },
+  {
     "title": "RoboSeg: Online Part-Level Semantic Reconstruction for Robotic Manipulation via a Single Eye-in-Hand Camera",
     "authors": [
       "Zhaochen Lan",
@@ -320,168 +579,5 @@
     "published": "2026-08-10",
     "summary": "World Action Models (WAMs) jointly predict future actions and the evolution of the environment. At each inference, a WAM generates a chunk of actions and the robot executes a fixed prefix before replanning. We argue that this fixed execution horizon is poorly matched to execution dynamics: the chunk reliability varies across task stages, so when to replan depends on the result of accumulated execution, not on the step counts. We propose TempoWAM (Timing Execution by Monitoring Progress Online), a lightweight plug-and-play execution scheme for WAMs. A Recurrent Progress Monitor first estimates task progress from the current observation, task instruction, remaining actions, and execution history; and an Adaptive Execution Protocol then evaluates whether the chunk is advancing the task to decide if replanning is needed. To bridge the training-deployment gap, the protocol is calibrated by a task-dependent calibration factor with online adaptation. Experiments on LIBERO, RoboTwin, and real-world tasks show that TempoWAM consistently improves the efficiency-success trade-off of WAM execution. On real robots, it reduces WAM inferences by 26.9% on easy tasks while maintaining success, and improves success by 13.3 points on difficult tasks.",
     "pdf_url": "https://arxiv.org/pdf/2608.09492v1"
-  },
-  {
-    "title": "Graph-Guided Safe Diffuser: Topological Graph Guidance for Safe Diffusion Planning",
-    "authors": [
-      "Nakgyu Yang",
-      "KwangBin Lee",
-      "SooJean Han"
-    ],
-    "published": "2026-08-10",
-    "summary": "Many diffusion-based planners enforce safety through inference-time guidance, but such interleaved trajectory deformations often degrade kinematic feasibility due to manifold rupture. We propose Graph-Guided Safe Diffuser (G2SD), a hierarchical framework that leverages a high-level topological graph planner to guide a low-level diffusion model. G2SD enforces safety at a structural level by abstracting the data manifold into a learned latent graph, on which high-level planning is performed. Continuous trajectories are generated by diffusion planners, which are conditioned on the graph node representations selected by the high-level planner. Theoretical analyses demonstrate conditions under which manifold rupture occurs in diffusion planners, and show that G2SD improves safety by reducing the constraint violation probability as the number of segments increases. Experiments demonstrate that G2SD substantially outperforms baselines, increasing goal-reaching rate without any collision from 40-50% to 98% in Maze2D navigation and also achieving superior task scores in locomotion.",
-    "pdf_url": "https://arxiv.org/pdf/2608.09484v1"
-  },
-  {
-    "title": "Enabling Beyond-Visual-Line-of-Sight Drones Operation over Open RAN 5G Networks with Slicing",
-    "authors": [
-      "Pau Baguer",
-      "Esteban Municio",
-      "Gines Garcia-Aviles",
-      "Xavier Costa-Pérez"
-    ],
-    "published": "2026-08-10",
-    "summary": "Among the foretold claims of the transition from 5G to 6G, Beyond-Visual-Line-of-Sight (BVLoS) drone operation has emerged as a prominent Internet-of-Robots enabler. However, safety concerns have been raised since BVLoS imposes strict requirements on performance and dependability on the technology, and requires robust regulatory frameworks. While current 5G technologies promise to meet the performance requirements in terms of throughput and latency, there is a lack of studies regarding how to achieve full reliability in practice. To address this challenge, the research community is actively working on open-source projects that allow for experimental validation in the field. Fortunately, new Open RAN (O-RAN) standards are paving the way for such approaches in an integrated, native manner. In this work, we deploy a state-of-the-art 5G O-RAN open-source BVLoS operational system, report current limitations, and address them via advanced capabilities natively available in O-RAN: Slicing. Our proposed deployment minimizes trajectory errors due to 5G link congestion and keeps latency well below the 3GPP limits defined for BVLoS operation. Finally, we discuss on the challenges ahead and the opportunities that 5G O-RAN-enabled networks may bring to BVLoS drone operation.",
-    "pdf_url": "https://arxiv.org/pdf/2608.09481v1"
-  },
-  {
-    "title": "RecoverFly: A Failure-Aware Reinforcement Learning Post-Training Framework for Aerial Vision-Language Navigation",
-    "authors": [
-      "Boxiong Wang",
-      "Hui Kang",
-      "Geng Sun",
-      "Jiahui Li",
-      "Chao Yu",
-      "Daxin Tian"
-    ],
-    "published": "2026-08-10",
-    "summary": "Unmanned aerial vehicle vision-language navigation (UAV-VLN) requires agents to translate visual observations and language instructions into reliable flight actions in complex environments. Although recent end-to-end UAV vision-language-action (UAV-VLA) policies reduce reliance on separately designed perception, planning, and control modules, their behavior-cloning objectives provide limited corrective supervision for interactive closed-loop execution. Reinforcement learning (RL) offers a promising solution, while its effectiveness is constrained by inefficient use of samples, long-tailed scene distributions, and policy distribution shift during optimization. To this end, we propose RecoverFly, a failure-aware RL post-training framework for end-to-end UAV-VLA policies. Specifically, RecoverFly adapts token-level RL for stable optimization of grammar-constrained autoregressive UAV actions, revisits unresolved failure cases to strengthen corrective learning and sample utilization, and combines a two-stage long-tail scene curriculum with reference-policy regularization to improve scene adaptation while preserving acquired capabilities. Experiments on the TravelUAV benchmark demonstrate that RecoverFly achieves the best performance on the seen, unseen-map, and unseen-object splits. Moreover, compared to the AerialVLA initialization, RecoverFly improves success rate by 3.12 to 8.37 percentage points under a total rollout budget of about 30\\% of the training-set size, validating its effectiveness, robustness, and generalization capabilities.",
-    "pdf_url": "https://arxiv.org/pdf/2608.09467v1"
-  },
-  {
-    "title": "Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay",
-    "authors": [
-      "Yash Bagla"
-    ],
-    "published": "2026-08-10",
-    "summary": "This paper studies hidden-target localization from range-bearing packets reported by a relay beacon whose global position and yaw are unknown. The vehicle knows its own trajectory but never directly senses the target; the relay packet contains only local-frame range and bearing to the vehicle and to the hidden target. Unlike bearing-only network localization, relative-frame localization, and target-enclosing control, the target is neither directly observed in the vehicle frame nor treated as a node in a relative-sensing graph. The main result characterizes the minimal motion that removes the resulting calibration ambiguity: one vehicle pose leaves a continuous yaw/translation/target gauge, whereas two distinct vehicle-relative observations from one unknown-pose relay constructively determine relay yaw (modulo 2 pi), relay position, and the anchored target in the noiseless case. A local rank corollary, a shared-target multi-beacon extension, and a trajectory-spread conditioning lemma connect relay self-calibration to finite-window excitation and native range-bearing estimation. In Monte Carlo evaluation the estimator recovers the hidden target with 5.5 mm RMSE, five times below the 30 mm per-packet range noise and thirteen times more accurate than a naive EKF baseline; it converges to the same accuracy from 2 m target offsets and 2.4 rad yaw errors, and Huber weighting preserves millimeter accuracy under 10% outlier corruption that drops the unprotected estimator to a 0.10 success rate. Trajectory spread predicts estimator quality: the two weakly excited trajectories carry condition numbers above 100 with success rates of 0.82 and 0.70, while every well-excited trajectory attains full success.",
-    "pdf_url": "https://arxiv.org/pdf/2608.09464v1"
-  },
-  {
-    "title": "Sekai2: From World Exploration to Interactive World Modeling",
-    "authors": [
-      "Kang He",
-      "Wenshuo Peng",
-      "Zihui Gao",
-      "Jiaming Tan",
-      "Kaipeng Zhang",
-      "Yongtao Ge"
-    ],
-    "published": "2026-08-10",
-    "summary": "Video world models must capture how scenes evolve over time and across viewpoints. Training them for long-horizon generation and camera control therefore benefits from long videos paired with camera trajectories and temporally grounded semantics. Existing corpora rarely offer the three together: large-scale web video provides broad visual diversity but no trajectories or time-aligned text, while pose-annotated datasets are typically short-range or reconstruction-oriented. We introduce Sekai2, a multi-source real-world video dataset that carries the world-exploration footage of Sekai toward interactive world modeling. The release contains 128,892 clips totaling 2,826 hours from 10,428 source videos across 113 countries or regions, and is deliberately weighted toward sustained observation: under a common 120-second decomposition, 43,594 segments reach the full two minutes and account for 51.4% of all footage. Every clip includes a released camera trajectory and hierarchical annotations disentangling subject motion, environment dynamics, static scene content, and camera behavior, resulting in 649,597 temporally grounded segments. Crucially, we further introduce 982 panoramic sequences captured along non-linear trajectories with loops and revisits. These revisits provide repeated observations of the same locations across time and viewpoints, offering essential supervision for learning persistent scene representations, long-term spatial memory, and geometrically consistent world models. Corpus-scale analyses demonstrate complete pose-and-caption coverage, broad geographic and semantic diversity, varied camera trajectories, and highly non-redundant temporal descriptions. Together, these properties make Sekai2 a scalable resource for long-horizon video generation, camera-controllable synthesis, and interactive world-model pre-training.",
-    "pdf_url": "https://arxiv.org/pdf/2608.09449v1"
-  },
-  {
-    "title": "VANE: Reliable Test-Time Training for Vision-Language-Action Models via Future Visual Representation Prediction",
-    "authors": [
-      "Hongjin Ji",
-      "Guoyang Xia",
-      "Luoyang Sun",
-      "Fangxiang Feng",
-      "Lei Ren"
-    ],
-    "published": "2026-08-10",
-    "summary": "Test-time training (TTT) offers a lightweight way to adapt vision--language--action (VLA) policies from unlabeled deployment streams, but it remains difficult to use reliably in closed-loop manipulation. A shared adaptation space can mix incompatible task corrections, while an online update can alter subsequent actions before its consequences are known. We introduce a reliable TTT framework for VLA policies (VANE). VANE conditions prompt adaptation on the current vision--language context and learns from the future visual consequences of executed actions. Candidate updates are isolated from the live policy, evaluated on subsequent observations, and committed only when supported by future evidence, making adaptation selective and reversible. On SimplerEnv WidowX, VANE improves average success by $3.2$ percentage points over the corresponding TTT baseline. Results on Google Robot further show that deployment-time gains remain task- and embodiment-dependent. Together, these results demonstrate a constrained, evidence-based approach to adapting VLA policies during interaction.",
-    "pdf_url": "https://arxiv.org/pdf/2608.09448v1"
-  },
-  {
-    "title": "Foundation Models are Implicit Deepfake Detectors",
-    "authors": [
-      "Stefan Smeu",
-      "Dragos-Alexandru Boldisor",
-      "Elisabeta Oneata",
-      "Dan Oneata"
-    ],
-    "published": "2026-08-10",
-    "summary": "Pretrained self-supervised representations have emerged as a core component of current deepfake detection methods, yet it remains unclear which of their properties make real and fake media distinguishable. In this work, we uncover a surprisingly consistent phenomenon: across multiple pretrained models, datasets, and both image and video domains, fake samples systematically produce lower-magnitude representations than their real counterparts. Motivated by this finding, we formulate deepfake detection as an anomaly detection problem and show that simple statistics of feature magnitude achieve competitive performance with far more sophisticated deepfake detection methods. We further investigate the origin of this effect and demonstrate that reduced feature magnitude is primarily associated with semantic shifts introduced by fake content, while low-level generative fingerprints play a comparatively smaller role. Finally, we show that this discriminative signal strengthens as the size of the underlying foundation model grows, suggesting that advances in representation learning naturally translate into stronger zero-shot deepfake detectors.",
-    "pdf_url": "https://arxiv.org/pdf/2608.09427v1"
-  },
-  {
-    "title": "Skills in Weights, Memory in Code: Hybrid Learning for Memory-Dependent Robot Manipulation",
-    "authors": [
-      "Yunhao Zhao",
-      "Zhenyang Ni",
-      "Haoyang Chen",
-      "Ruohan Zhang",
-      "Qi Zhu"
-    ],
-    "published": "2026-08-10",
-    "summary": "Modern vision-language-action (VLA) policies have acquired broad manipulation skills, but typically generate each action chunk from the current observation or a short fixed-length history. However, real-world manipulation is often non-Markovian, requiring robots to retain and reason over task-relevant information from long-horizon interaction histories to determine the next action. To address this challenge, we propose HyMeS, a hybrid learning framework that leverages the reasoning and memory-management capabilities of coding agents to steer a Markovian VLA for memory-dependent manipulation. Specifically, HyMeS learns low-level motor skills through gradient-based imitation learning, while a coding agent acquires high-level memory-management strategies through heuristic learning by iteratively updating an executable heuristic system from rollout feedback. Furthermore, we close the loop between steering and execution through multimodal stage-completion verification, which updates memory using proprioceptive signals and multi-frame VLM judgments. Compared with end-to-end memory-augmented VLAs, HyMeS requires demonstrations only for reusable motor skills rather than for every history-dependent task configuration, enabling data-efficient compositional generalization. On RoboMemArena, HyMeS improves mean cumulative success from 52.5% to 66.2% and mean task success from 41.3% to 60.1% over pi0.5, while outperforming PrediMem by 4.5 points in cumulative success and 14.5 points in task success.",
-    "pdf_url": "https://arxiv.org/pdf/2608.09410v1"
-  },
-  {
-    "title": "Beyond the Plane: Coupling Planar Vehicle Dynamics with Three-Dimensional Road Geometry",
-    "authors": [
-      "Simon Sagmeister",
-      "Phillip Pitschi",
-      "Nico Haja",
-      "Markus Lienkamp"
-    ],
-    "published": "2026-08-10",
-    "summary": "Simulation is crucial for developing and testing autonomous driving systems. In particular, the development of localization and control algorithms relies on an accurate vehicle dynamics simulation. However, most vehicle dynamics models are two-dimensional while real-world roads are three-dimensional. For example, effects from the three-dimensional road geometry on the Las Vegas Motor Speedway can increase the normal forces on the tires by more than 66% compared to the nominal load at standstill. As a result, even highly detailed planar vehicle dynamics models struggle to accurately reproduce the real vehicle's behavior. While solutions for three-dimensional vehicle dynamics exist, they are rarely adopted, computationally expensive, and complex. To address this issue, we present a novel method to couple planar vehicle dynamics models with real-world three-dimensional road geometry. We transform the planar vehicle state from the vehicle model's two-dimensional plane to its corresponding representation in three-dimensional space. Additionally, we calculate road-geometry-induced forces and moments and apply them to the planar vehicle model. We validate our approach using high-speed data recorded with a full-scale race car on the banked Las Vegas Motor Speedway. Furthermore, on synthetic tracks, we show that our method yields accurate results even in edge cases. Together, our results demonstrate that the gap between planar simulation and real-world three-dimensional roads can be closed without abandoning simpler planar models. To simplify adoption of our method, we provide the implementation as open-source software on github.com/TUMFTM/3d-road-geometry-coupling.",
-    "pdf_url": "https://arxiv.org/pdf/2608.09402v1"
-  },
-  {
-    "title": "Efficient Human-Contact Representation for Human-Scene Interaction",
-    "authors": [
-      "Nghia Vu",
-      "Tuong Do",
-      "Binh X. Nguyen",
-      "Erman Tjiputra",
-      "Anh Nguyen"
-    ],
-    "published": "2026-08-10",
-    "summary": "Human-scene interaction is an active research topic with several industrial applications in virtual reality, gaming, robotics, and surveillance. Despite significant progress in network architectures to improve the results or optimize models' parameters for fast inference speed, the efficient representation of contact between humans and their environments remains an open challenge. In this paper, we propose a new efficient human-contact representation for human-scene interaction. Our primary contribution is the introduction of sparse contact masks that strategically select essential contact information, significantly reducing redundant data in high-dimensional inputs. Leveraging this efficient contact representation, we propose a suite of sparse operators to replace traditional dense operators within deep network layers for faster computation. Our approach not only enhances computational speed but also filters out non-essential contact data, thereby improving the precision of human-scene interaction models. To validate the effectiveness of our method, we conduct intensive experiments across three public benchmark datasets, focusing on two critical tasks for human-scene interaction: contact prediction and scene synthesis. The experimental results show that our approach outperforms state-of-the-art models in reconstruction accuracy and achieves a computation speed-up of at least 12 times over recent baselines.",
-    "pdf_url": "https://arxiv.org/pdf/2608.09388v1"
-  },
-  {
-    "title": "JEPA-WAM: Learning Vision-Language-Action Policies with Joint-Embedding World Modeling",
-    "authors": [
-      "Yihan Lin",
-      "Jiawei He",
-      "Shifeng Bao",
-      "Chen Zhao",
-      "Yang Li",
-      "Xiaobo Wang",
-      "Yan Wang",
-      "Cheng Chi",
-      "Jing Zhang"
-    ],
-    "published": "2026-08-10",
-    "summary": "Robust robot control benefits from explicitly modeling state transitions, but video-generation world action models (WAMs) introduce substantial deployment cost. Existing latent WAMs avoid explicit future generation, but often compress predictive representations or separate predictive modeling from the representations used for action generation. We introduce JEPA-WAM, a latent WAM built in a pretrained V-JEPA space, which couples latent transition prediction with continuous action generation through a shared predictor. JEPA-WAM predicts a spatially structured joint current-future target that captures task-shared visual temporal structure between current and future observations, while preserving dense patch-level correspondence. Through the shared predictor, transition supervision directly shapes the backbone, from which dedicated representations are extracted for action prediction. The same design can also be instantiated in pretrained VLA policies while preserving their original perception and action pathways. On LIBERO-Plus, JEPA-WAM achieves 79.2%, the best result without large-scale robot-policy pretraining, while its pretrained $π_{0.5}$ instantiation reaches 86.3%, achieving the best overall performance. Experiments on RoboTwin 2.0 and real-world bimanual manipulation further demonstrate strong generalization under visual and spatial shifts.",
-    "pdf_url": "https://arxiv.org/pdf/2608.09381v1"
-  },
-  {
-    "title": "Foundational values for foundation models",
-    "authors": [
-      "John S. H. Baxter",
-      "Elodie Germani"
-    ],
-    "published": "2026-08-10",
-    "summary": "Research values, properties with a distinctive normative dimension, often affect how technological research is performed in both direct and indirect ways by influencing how technical decisions are made. In machine learning for medical imaging, understanding these values can be important for understanding why particular researchers justify the decisions made in their publications and explain why certain technologies become ubiquitous (or not) in the scientific literature and in the clinic. This article explores one of these technologies, foundation models, finding detailed justifications both for their use and abstention from their use. By taking a Socratic approach to research values arising from this specific technical decision, this article aims to better illustrate how foundation models fit into the philosophy of machine learning in medicine.",
-    "pdf_url": "https://arxiv.org/pdf/2608.09377v1"
-  },
-  {
-    "title": "DH-VLM: Dual-Horizon Cooperative Latent Reasoning for Autonomous Driving",
-    "authors": [
-      "Ziyi Song",
-      "Chen Xia",
-      "Hang Yu",
-      "Sheng Zhou",
-      "Zhisheng Niu"
-    ],
-    "published": "2026-08-10",
-    "summary": "Large-scale language models for autonomous driving enable enhanced global understanding and long-horizon planning. However, when deployed in isolated vehicles, limited sensing range and occlusions restrict reliable decision-making, and the substantial computational and latency overhead makes on-board deployment impractical. Cooperative driving provides a potential solution by leveraging external agents for information exchange, but existing methods remain limited in semantic reasoning capability under practical constraints. To address these challenges, we propose DH-VLM, a dual-horizon cooperative latent reasoning framework that enables asymmetric semantic cooperation between the infrastructure and ego vehicle. The infrastructure aggregates multi-layer hidden states to form a global-reasoning horizon latent guidance, which is integrated into the ego model through an Infrastructure-Driven Latent Evolution mechanism for conditional latent refinement. This enables the ego vehicle to leverage long-range contextual understanding while preserving autonomous decision-making within its local planning horizon. Furthermore, we construct a cooperation-oriented question-answer (QA) dataset covering fundamental scene understanding and ego-personalized comprehension to support counterfactual and safety-aware reasoning. Extensive experiments demonstrate that DH-VLM achieves state-of-the-art planning performance, outperforming the previous state of the art by 14.6% in L2 error and 26.9% in collision rate. Compared with query-based end-to-end cooperative driving methods, our approach reduces the communication cost by 57.3% and GPU memory usage by 25.5%, while maintaining strong robustness against infrastructure guidance errors, providing a practical and robust paradigm for cooperative autonomous driving.",
-    "pdf_url": "https://arxiv.org/pdf/2608.09333v1"
   }
 ]
