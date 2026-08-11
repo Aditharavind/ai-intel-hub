@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-11 21:32 UTC
+Last Updated: 2026-08-11 22:28 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,6 +8,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-08-11 | Testing ads in ChatGPT | OpenAI | [link](https://openai.com/index/testing-ads-in-chatgpt) |
+| 2026-08-11 | Daybreak models are now available on AWS | OpenAI | [link](https://openai.com/index/daybreak-models-are-now-available-on-aws) |
 | 2026-08-11 | Thinking of ACE? We Can Do It with Fewer Tokens | Hugging Face | [link](https://huggingface.co/blog/ibm-research/altk-evolve-sldd) |
 | 2026-08-10 | OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas | OpenAI | [link](https://openai.com/index/responsible-ai-infrastructure-texas) |
 | 2026-08-10 | Model ML completes finance work more efficiently with GPT-5.6 Sol | OpenAI | [link](https://openai.com/index/model-ml) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | Putting frontier cyber models in more trusted hands | OpenAI | [link](https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands) |
 | 2026-08-10 | Premium seats are coming to ChatGPT Business | OpenAI | [link](https://openai.com/index/premium-seats-chatgpt-business) |
 | 2026-08-10 | How Zapier transformed core marketing processes with ChatGPT Work | OpenAI | [link](https://openai.com/index/zapier) |
-| 2026-08-10 | Virgin Atlantic sharpens customer journeys with ChatGPT Work | OpenAI | [link](https://openai.com/index/virgin-atlantic/chatgpt-work) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -61,7 +61,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | PewCB One Desktop PCB fabrication system enables rapid prototyping at home | CNX Software | [link](https://www.cnx-software.com/2026/08/11/pewcb-one-desktop-pcb-fabrication-system-enables-rapid-prototyping-at-home/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-08-10 | Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning | [link](https://arxiv.org/pdf/2608.09926v1) |
+| 2026-08-10 | GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis | [link](https://arxiv.org/pdf/2608.09921v1) |
+| 2026-08-10 | Detecting Behavioral Changes in Python Refactoring Implementations with Foundation Models | [link](https://arxiv.org/pdf/2608.09919v1) |
+| 2026-08-10 | Consilience for Verifier-Free Test-Time Scaling | [link](https://arxiv.org/pdf/2608.09898v1) |
+| 2026-08-10 | Nascent Embedded-protostar Survey in Taurus (NEST) II: Measuring Dust Mass, Disk Size, and Gas Mass | [link](https://arxiv.org/pdf/2608.09896v1) |
+| 2026-08-10 | XPolicyLab: A Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment | [link](https://arxiv.org/pdf/2608.09892v1) |
+| 2026-08-10 | RoSE: A Robotic Soft Esophagus for Endoprosthetic Stent Testing | [link](https://arxiv.org/pdf/2608.09891v1) |
+| 2026-08-10 | Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning | [link](https://arxiv.org/pdf/2608.09876v1) |
+| 2026-08-10 | Entanglement-Free Trajectory Planning for Tethered Mobile Robots with a Slack Tether | [link](https://arxiv.org/pdf/2608.09860v1) |
+| 2026-08-10 | Agentic Harnesses: LLM-Driven Verification Layers for Robot Autonomy | [link](https://arxiv.org/pdf/2608.09857v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
@@ -73,7 +84,7 @@ _No items collected yet._
 | 2026-08-11 | locht131/gr00t_robotwin_2hand_quat_4_tasks_thirdview_s10k_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_robotwin_2hand_quat_4_tasks_thirdview_s10k_bs64) |
 | 2026-08-11 | Roboterr/pi05-4xJrD6TomxRp | 0 | 0 | [link](https://huggingface.co/Roboterr/pi05-4xJrD6TomxRp) |
 | 2026-08-11 | locht131/gr00t_fa_robotwin_2hand_quat_4_tasks_s10k_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_4_tasks_s10k_bs64) |
-| 2026-08-11 | lerobot/hy_vla_robotwin | 34 | 1 | [link](https://huggingface.co/lerobot/hy_vla_robotwin) |
+| 2026-08-11 | lerobot/hy_vla_robotwin | 34 | 2 | [link](https://huggingface.co/lerobot/hy_vla_robotwin) |
 | 2026-08-11 | RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_lerobot_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_lerobot_30K) |
 | 2026-08-11 | maxs11/robot11 | 0 | 0 | [link](https://huggingface.co/maxs11/robot11) |
 
@@ -82,20 +93,20 @@ _No items collected yet._
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 2855 | Python | 1142.1 | [link](https://github.com/NVIDIA/skills) |
 | NVlabs/alpasim | 1169 | Python | 467.7 | [link](https://github.com/NVlabs/alpasim) |
-| commaai/openpilot | 63381 | Python | 25352.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63384 | Python | 25353.7 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16106 | Python | 6442.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15670 | C++ | 6268.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13271 | Python | 5308.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| ArduPilot/ardupilot | 15671 | C++ | 6268.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| earthtojake/text-to-cad | 13272 | Python | 5308.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11313 | Python | 4525.3 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11282 | Rust | 4512.9 | [link](https://github.com/rerun-io/rerun) |
+| rerun-io/rerun | 11283 | Rust | 4513.3 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7882 | Python | 3152.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4510 | Python | 1804.1 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
-| 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzBWZTdYcGJBX2JBZ0hTaUpNc253STkzZDBISGYyeGRNTUhwaV95UUttenNuWlE0RGJaUFctMUZTYjluM1JuQ2Q3RGxzNXRSTFphcXRtV1dvVDQtSWFnOFZiUnZTaUwwMGktZjcwOXVLRzBVNG9fRjZiTXNVVXhRUW41OU8?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcE5XeXdXbW9FbzVLanRUbjR1b25MTkpTYS1sWHdvWUZnQV8yLTUxeVUwTGJPcG5ZS2VkWmN2eHVsVzg0UUdtd1NBR0Iza0IySnlpWUdjMzUzX1R3Y1pTcEdfRkFEYmJZQXlFTk5TYXl5UFo1YkJ4RS1rSDFkUTVJckJZTEZVb09FN3pDN0hPTG1mc0F0aG4ySnNQS2kyamFiZjlNOFBZdjB2amYz?oc=5) |
+| 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzBWZTdYcGJBX2JBZ0hTaUpNc253STkzZDBISGYyeGRNTUhwaV95UUttenNuWlE0RGJaUFctMUZTYjluM1JuQ2Q3RGxzNXRSTFphcXRtV1dvVDQtSWFnOFZiUnZTaUwwMGktZjcwOXVLRzBVNG9fRjZiTXNVVXhRUW41OU8?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRzFpdHRwNlJtM1hDaDZlNXNuWW1iTmRCOUdGVUZKenFmSTh4Y2VZYU9xOW5mcHZ1Mjc5aDZMMU54YVN5TS1XcDdGYV9XZ1poaks0?oc=5) |
 | 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxONEdLRklEMWlxUlUyeW96WW81VldYQW1JTlk2bHEweFpjYkdfcGVmOFRPcC03NnpnSmhib3NoekJrcWVwM2pkRWF0aHQ2TmxmNm5UVk5RY2lxSjFUeHRkQjJMbVUyWHNKQ3d5Unctd0pZSTNxeEdPVzVxTnVQejFjNTZkeTZ0WmZ5YXd0VDFCUVpFSkhWU3FCb3FVODFGR1VCMXppamtnbXVjX25GalNHMjBndnFLWTQxZjJwaWEtMGlIVW5CanZVcVh4RHoxT3AwQ0EwMTZfUnFpZE4zcUh5U3JPVUI2OVZ3TDZYYg?oc=5) |
 | 2026-08-09 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53c25TTmNSX3pwQXZLajd4Wm8xUHB6MklTRUk0TVYtQl9tUFBoTzZ3YktKMWRCZzJxd0VkVW9JZXFwaVVSb0l3TUM2bFRiWGdUVVZTVGZn?oc=5) |
@@ -109,7 +120,6 @@ _No items collected yet._
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
-| 2026-08-11 | 17 physical AI startups to watch, according to VCs - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE9xYWVMNG5HSExFYUlFQlhsb0RaWUhRdnZLYTFsWXd6RkNSNFk1c01tdWdFTmZFUmlDcTBfekVHb1ZFbzZZUFM1ZW9KcFc2Ylk4bnljUk8wR3RpU19qR1VNZlJuMnlISU11aWpxRkx6UFhuUDk2WGpKU1owaGRCQQ?oc=5) |
 | 2026-08-11 | NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlUtQnQyZ1F3eXZqd1ZVMlNSN0M2U21FZlhmMHp3YnowOUVlbWI2ZnVRdUhrWVJGNVlwOFdKMV9XRHktUXRmd2hMQlNsLVU0eHlwYm9CUmY2eU85U19WTlIyajFJWlF0SV9FTHNSelRLRkpsb3ZEMUxrVVBzLTZmUzJFU1VLSEtsMmpfc0REcHA3eGJ3QTI1Xy1ielNNTENLLTNKRXhiN1h6WWlES2QwREgyV2dKQmxQaDBWU0xjYjE1TWRzQXQyWDdzZ1ZVZw?oc=5) |
 | 2026-08-11 | Ant Group Backs Hong Kong Robotics Startup Daimeng in New Funding - Asia Business Outlook | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0RNRTdBRTlNOHp0eEs3MUN2SGpPUTZtNWhBNmY1VGNsYmJzbjdxN3dsc1A3VUJPNm16VnczRTBFby1XM3RNLUJzT1pqanlRVUZnUmN1eHA3dXJtTmlyMi0zRjR1Ykxwb0VKNmk5RTIwSTg0VzUwb0NNQ0ZFRVlTdkFaRGRiRGZGVXpSRGN3N01IQlc5YXZ2bmlOYTc0VzRLQnZ3dl9RcTlwdjFpQUtJTGRNTDUtSVpLaVB3cFNZTQ?oc=5) |
 | 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
@@ -117,7 +127,8 @@ _No items collected yet._
 | 2026-08-10 | Holiday Robotics Raises ₩155B Series A to Accelerate Humanoid Robot Commercialization - AsiaTechDaily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUlHTmhXZ0d3OFF2MExMWVVXWHBzbkJ6djF1TnZsZzV5Z29KeWIyclhUcTZLSmtFdURpd2hiWElfWEVDWkdRRnV0ZENrM2ZsNHo3V0lfUnRmd19lNWxaQ3N6SGJ0aktwa1pZOGh2VlRyWldacXhpbVFxRVNQTFRPZVVuZWpkRmRFN3J1cmYtRGhkaHJ0cHBvSnZaa2hyaC00MVFOUjJrdFdfTzdTUmFCc1NFWkFiSm1sclVOVQ?oc=5) |
 | 2026-08-09 | Unitree's Shanghai IPO Prices China's First Humanoid Robot Maker at $9 Billion - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVVBMzdkdDd0UnlkcFgxTHk4eUdnLTJOTldZeEJuWkFOYU03NmN2MjIxUm9RcEtHWER5S1phZTNWaWhlY2kySFcxSFZxTFZNYjVIenpIWE9mTV9ucjNoNE0zU04xMXE2cWRLVHNVUmRhaENSdVJVaDN0amRIeU1VMi1yZXVZMzRDUlQ0d3VtVlZHQi1rV1c2Yk5hMFloSW1xc1FwRWtB?oc=5) |
 | 2026-08-07 | Why U.S. Robotics Startups Are Stuffing Parts From China in Luggage - The Information | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTXZ2ZE1ycXdub3lXM0RPcUpETGJvVWYwTWV0dUpJSkhCQkJIcUdKR3MxNm16SjVIYzY5TU1UUGRUNE8wZFp2R2hXdlVfNXRuXzhLQVZLSk1tMUJTOTNsRWdRMU84eHY4cG9IOVl3X200RmcyaW5wVlpJdkNDZ2xaN19rbUw3ZHk2U1J3dDVBa3JrZXdj?oc=5) |
-| 2026-08-07 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - foxweather.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
+| 2026-08-07 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
+| 2026-08-06 | Defense Startup: AI Turns 2 Months Of Engineering Into 20 Minutes - Forbes | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXNSNm9OdHU3QzRZeUZUS0VZMmI1RHBXNUU3Y3lrU1NmX29BcFBsTG9oMjA0ZzBRVkpHUm9iaGNMa1F4Q3J6RF9tMU95eDRHVXVXLWhncTkxN056TXhqSkdIMHc0bDRrSENkS1d0N29WSGNMVE9VemZQLTU5eGZldUc2Skx3ZFBSQUtMMGtpaUVnbm41ZEFqWGJXeG1xTFNXRlpWZERsMVNsRjhkZTNkaUd3QnhuYUZKdVE?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
