@@ -99,24 +99,6 @@
     "score": 0.1
   },
   {
-    "model": "khoavucao2511/so101_vla_jepa_11_08_26_freeze_Qwen3_22500steps_batch8_chunk64_v2_fixchunk7",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/khoavucao2511/so101_vla_jepa_11_08_26_freeze_Qwen3_22500steps_batch8_chunk64_v2_fixchunk7",
-    "date": "2026-08-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "lerobot/hy_vla_umi",
-    "downloads": 56,
-    "likes": 2,
-    "url": "https://huggingface.co/lerobot/hy_vla_umi",
-    "date": "2026-08-11",
-    "keyword": "vla",
-    "score": 17.3
-  },
-  {
     "model": "sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -133,6 +115,24 @@
     "date": "2026-08-11",
     "keyword": "vla",
     "score": 0.1
+  },
+  {
+    "model": "khoavucao2511/so101_vla_jepa_11_08_26_freeze_Qwen3_22500steps_batch8_chunk64_v2_fixchunk7",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/khoavucao2511/so101_vla_jepa_11_08_26_freeze_Qwen3_22500steps_batch8_chunk64_v2_fixchunk7",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "lerobot/hy_vla_umi",
+    "downloads": 56,
+    "likes": 2,
+    "url": "https://huggingface.co/lerobot/hy_vla_umi",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 17.3
   },
   {
     "model": "B111ue/fcl-vla-baseline-recovery",
@@ -198,10 +198,19 @@
     "score": 0.1
   },
   {
-    "model": "ismamNur/Joint-Embedding-Guided-Policy-Optimization-checkpoints",
+    "model": "amanm10000/chess-policy-net",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/ismamNur/Joint-Embedding-Guided-Policy-Optimization-checkpoints",
+    "url": "https://huggingface.co/amanm10000/chess-policy-net",
+    "date": "2026-08-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Gogul99/RoboMamba_DINO_ACT_Policy_Real",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Gogul99/RoboMamba_DINO_ACT_Policy_Real",
     "date": "2026-08-11",
     "keyword": "policy",
     "score": 0.1
@@ -211,6 +220,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/nosuke113/parc2026-policy",
+    "date": "2026-08-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ismamNur/Joint-Embedding-Guided-Policy-Optimization-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ismamNur/Joint-Embedding-Guided-Policy-Optimization-checkpoints",
     "date": "2026-08-11",
     "keyword": "policy",
     "score": 0.1
@@ -229,15 +247,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/w12613/act_bimanual_policy",
-    "date": "2026-08-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "amanm10000/chess-policy-net",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/amanm10000/chess-policy-net",
     "date": "2026-08-11",
     "keyword": "policy",
     "score": 0.1
@@ -292,15 +301,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/DimitarV/so101-teleop-policy",
-    "date": "2026-08-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "shima8823/my_test_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/shima8823/my_test_policy",
     "date": "2026-08-11",
     "keyword": "policy",
     "score": 0.1

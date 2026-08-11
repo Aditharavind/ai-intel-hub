@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-11 11:34 UTC
+Last Updated: 2026-08-11 12:33 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -92,13 +92,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 2848 | Python | 1139.3 | [link](https://github.com/NVIDIA/skills) |
-| commaai/openpilot | 63383 | Python | 25353.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63382 | Python | 25352.9 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16105 | Python | 6442.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15664 | C++ | 6265.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | kornia/kornia | 11313 | Python | 4525.3 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11279 | Rust | 4511.7 | [link](https://github.com/rerun-io/rerun) |
+| rerun-io/rerun | 11280 | Rust | 4512.1 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7877 | Python | 3150.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4506 | Python | 1802.5 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 4507 | Python | 1802.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3866 | Rust | 1546.5 | [link](https://github.com/dora-rs/dora) |
 | knightnemo/Awesome-World-Models | 3288 |  | 1315.3 | [link](https://github.com/knightnemo/Awesome-World-Models) |
 
@@ -107,7 +107,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcE5XeXdXbW9FbzVLanRUbjR1b25MTkpTYS1sWHdvWUZnQV8yLTUxeVUwTGJPcG5ZS2VkWmN2eHVsVzg0UUdtd1NBR0Iza0IySnlpWUdjMzUzX1R3Y1pTcEdfRkFEYmJZQXlFTk5TYXl5UFo1YkJ4RS1rSDFkUTVJckJZTEZVb09FN3pDN0hPTG1mc0F0aG4ySnNQS2kyamFiZjlNOFBZdjB2amYz?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRzFpdHRwNlJtM1hDaDZlNXNuWW1iTmRCOUdGVUZKenFmSTh4Y2VZYU9xOW5mcHZ1Mjc5aDZMMU54YVN5TS1XcDdGYV9XZ1poaks0?oc=5) |
-| 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVzNXYnlVWUd3LWVpVmN5eTFRZURoTm05Qkx3RTd3S1VQOWg2VVg0djJiVmIzSGVaMWdYcmJpNmxobThQbnNEMUJCSFhXcFMtcHMzYTljZEZ3NFFzbjJNMVlvQ05GLXl1NGRhUXhscFJhQ1lkV1pHb0JiODlsNGVTVV8yUF9zYk81Qm1FNVlIZkZHbzRfREFCbVByeXJ0eWRVMEJUVVN6WFgyQnJxX21DOWcxQkRkb0ptT0pr?oc=5) |
 | 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxONEdLRklEMWlxUlUyeW96WW81VldYQW1JTlk2bHEweFpjYkdfcGVmOFRPcC03NnpnSmhib3NoekJrcWVwM2pkRWF0aHQ2TmxmNm5UVk5RY2lxSjFUeHRkQjJMbVUyWHNKQ3d5Unctd0pZSTNxeEdPVzVxTnVQejFjNTZkeTZ0WmZ5YXd0VDFCUVpFSkhWU3FCb3FVODFGR1VCMXppamtnbXVjX25GalNHMjBndnFLWTQxZjJwaWEtMGlIVW5CanZVcVh4RHoxT3AwQ0EwMTZfUnFpZE4zcUh5U3JPVUI2OVZ3TDZYYg?oc=5) |
 | 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxPSlR0UUFVVWo1anV4RWZPNnJ0TV9KNEQzbi01SjRXNDZOWDhUSmtwcDE0aDIyVDQ2Smt6ekxFUmZwOHJCaW5NUzBwbDB0ekRldURLR3FyYkczcFlTcjVPN0t5TnEzS2w5OHAyc3hYQkplSWdSZE5LVTYtNU5SenJ2LUpUYzJ6SXZiMWhkS2NB?oc=5) |
 | 2026-08-09 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVlcxeVI1YnZoeC1BR19oUjdrMHRsRUltODhjYlZoSE03MnRHX0dGN0x0ZWFnek9QT3ZiZ0E1dHV1a05rd3NtWHVtNXBHWFBQNmxuaFhlajJDQQ?oc=5) |
@@ -115,6 +114,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBrQWhpbzZHRmtfcHNqYWxvZ3htZm10OXFKdW9ZaEZmZDlRMzZaLUpJbkJDSGVWbnlPYWlTcUVjOTQ4YTlMNlBDVVdQb19GU1ZWRXZnYUxSSmlNNUc4Q09tNXRUQUxvOENwT0prd0dOa1Rja0RzX3c?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUk1Hd2d1WFRNOHpKUkJ0aGR4UE1RYnR0cFJZRVhZb0NkNWtUejlGVHpHcUtOVkNQS2d2ZXlCRnJMVmg0QlFfV3R5TGR0NzJCQ0xrbjVGcW91MDdwSEUxZTd0V2RDc29uMjkyYmxIRmtUdl9ja3VUMWZyMU1iUnZFWFZyM1p2ZzlpOGV3aGRfelVabFpjZXNIazYxYzNxWWQxLXNucjUxV29HakHSAbABQVVfeXFMTnJLeHg2MTNEVzRLVV8wYjFCdzl3clhjMjctX28yVU9sSzkyMHdLTDIzX3NVVUFpU3lFX3dVTENPVFViTlBwOUFsMVpqOFBnTHB2MWhwQ1RFejltRk44MmlmMUFIRGkwbFF5azVKYUdENDRjZTJNZmdsUk00NHdJajFiQXFZN0JiMEpyUng5bTh3Vl82a3N0M3FpYk01S1pmVk91OXA3LTlLbjI0dU82TFc?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzBJcnRzZ0xGcE5fanRrcmlXZGFYUG9WMDc0cFdNQmJCX2plV1h5anNuYk1zZVBKS1lpd29TSU5BS2ZMMWNobzhHUTVGdXhYMnRBcWx6cGwzdkVHaEJ1eGY5NlktVDdRZGZYRXU0MDV2LWh3aWFyanBnUWlUSlJoeTV2WkNzYXBMNFZua056aXBFeUI1RmtRcWgxTGR4a2pLYWpBbTRobC16dzQ0dkg3aVFTZ2lWTVVzTDlkSGp3Wlk2MHJ1Mi1HZFZPSUFlYnlx?oc=5) |
+| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWRuY0FETUdBUFY5SzQ2RjlWamlLNmZiTEttZnVfTjBrZmRpR3Y4a0dLaUNfRFZQX01RRkNCLVo3VG9ORUk5am02RUtkR19qeGdRY25WMEk0YV9lVllqX29pTzB4dUItakJpYnB5eUEtbjk5Ul9CNzFPS2hIMUhVbnd3?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -128,7 +128,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-07 | Why U.S. Robotics Startups Are Stuffing Parts From China in Luggage - The Information | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTXZ2ZE1ycXdub3lXM0RPcUpETGJvVWYwTWV0dUpJSkhCQkJIcUdKR3MxNm16SjVIYzY5TU1UUGRUNE8wZFp2R2hXdlVfNXRuXzhLQVZLSk1tMUJTOTNsRWdRMU84eHY4cG9IOVl3X200RmcyaW5wVlpJdkNDZ2xaN19rbUw3ZHk2U1J3dDVBa3JrZXdj?oc=5) |
 | 2026-08-07 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
 | 2026-08-06 | Defense Startup: AI Turns 2 Months Of Engineering Into 20 Minutes - Forbes | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXNSNm9OdHU3QzRZeUZUS0VZMmI1RHBXNUU3Y3lrU1NmX29BcFBsTG9oMjA0ZzBRVkpHUm9iaGNMa1F4Q3J6RF9tMU95eDRHVXVXLWhncTkxN056TXhqSkdIMHc0bDRrSENkS1d0N29WSGNMVE9VemZQLTU5eGZldUc2Skx3ZFBSQUtMMGtpaUVnbm41ZEFqWGJXeG1xTFNXRlpWZERsMVNsRjhkZTNkaUd3QnhuYUZKdVE?oc=5) |
-| 2026-08-06 | AI robot startup challenging future of warfare - caliber.az | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE8yRW4zTzBaX0dCUmc1Qk1xY2N3ZTdxYnJvaHdEaExMTklLU2J5Z2JSaG93dzAxT0JITERoenRQM20tWmtKUGR1YkNCaHJjVU82NXF4SXRTOWV0V2dwSVQtay0wd3FPX3ZqWHpaQ0t0cEd1dWJJb0VaWXpxS2FnZw?oc=5) |
+| 2026-08-06 | AI robot startup challenging future of warfare - Caliber.Az | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE8yRW4zTzBaX0dCUmc1Qk1xY2N3ZTdxYnJvaHdEaExMTklLU2J5Z2JSaG93dzAxT0JITERoenRQM20tWmtKUGR1YkNCaHJjVU82NXF4SXRTOWV0V2dwSVQtay0wd3FPX3ZqWHpaQ0t0cEd1dWJJb0VaWXpxS2FnZw?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

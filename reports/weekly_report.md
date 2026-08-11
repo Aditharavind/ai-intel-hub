@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-11 11:34 UTC
+Generated: 2026-08-11 12:33 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-08-11 11:34 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63383 | 25353.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63382 | 25352.9 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30280 | 12112.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16105 | 6442.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15664 | 6265.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| TianxingChen/Embodied-AI-Guide | 15365 | 6146.1 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
+| TianxingChen/Embodied-AI-Guide | 15367 | 6146.9 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -34,9 +34,9 @@ Generated: 2026-08-11 11:34 UTC
 | --- | --- | --- | --- |
 | 2026-08-11 | Unitree |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcE5XeXdXbW9FbzVLanRUbjR1b25MTkpTYS1sWHdvWUZnQV8yLTUxeVUwTGJPcG5ZS2VkWmN2eHVsVzg0UUdtd1NBR0Iza0IySnlpWUdjMzUzX1R3Y1pTcEdfRkFEYmJZQXlFTk5TYXl5UFo1YkJ4RS1rSDFkUTVJckJZTEZVb09FN3pDN0hPTG1mc0F0aG4ySnNQS2kyamFiZjlNOFBZdjB2amYz?oc=5) |
 | 2026-08-11 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRzFpdHRwNlJtM1hDaDZlNXNuWW1iTmRCOUdGVUZKenFmSTh4Y2VZYU9xOW5mcHZ1Mjc5aDZMMU54YVN5TS1XcDdGYV9XZ1poaks0?oc=5) |
-| 2026-08-11 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVzNXYnlVWUd3LWVpVmN5eTFRZURoTm05Qkx3RTd3S1VQOWg2VVg0djJiVmIzSGVaMWdYcmJpNmxobThQbnNEMUJCSFhXcFMtcHMzYTljZEZ3NFFzbjJNMVlvQ05GLXl1NGRhUXhscFJhQ1lkV1pHb0JiODlsNGVTVV8yUF9zYk81Qm1FNVlIZkZHbzRfREFCbVByeXJ0eWRVMEJUVVN6WFgyQnJxX21DOWcxQkRkb0ptT0pr?oc=5) |
 | 2026-08-10 | Unitree |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxONEdLRklEMWlxUlUyeW96WW81VldYQW1JTlk2bHEweFpjYkdfcGVmOFRPcC03NnpnSmhib3NoekJrcWVwM2pkRWF0aHQ2TmxmNm5UVk5RY2lxSjFUeHRkQjJMbVUyWHNKQ3d5Unctd0pZSTNxeEdPVzVxTnVQejFjNTZkeTZ0WmZ5YXd0VDFCUVpFSkhWU3FCb3FVODFGR1VCMXppamtnbXVjX25GalNHMjBndnFLWTQxZjJwaWEtMGlIVW5CanZVcVh4RHoxT3AwQ0EwMTZfUnFpZE4zcUh5U3JPVUI2OVZ3TDZYYg?oc=5) |
 | 2026-08-10 | Unitree |  | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxPSlR0UUFVVWo1anV4RWZPNnJ0TV9KNEQzbi01SjRXNDZOWDhUSmtwcDE0aDIyVDQ2Smt6ekxFUmZwOHJCaW5NUzBwbDB0ekRldURLR3FyYkczcFlTcjVPN0t5TnEzS2w5OHAyc3hYQkplSWdSZE5LVTYtNU5SenJ2LUpUYzJ6SXZiMWhkS2NB?oc=5) |
+| 2026-08-09 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVlcxeVI1YnZoeC1BR19oUjdrMHRsRUltODhjYlZoSE03MnRHX0dGN0x0ZWFnek9QT3ZiZ0E1dHV1a05rd3NtWHVtNXBHWFBQNmxuaFhlajJDQQ?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
