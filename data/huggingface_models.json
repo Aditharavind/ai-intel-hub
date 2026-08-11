@@ -9,6 +9,15 @@
     "score": 0.3
   },
   {
+    "model": "locht131/gr00t_fa_robotwin_2hand_quat_4_tasks_s10k_bs64",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_4_tasks_s10k_bs64",
+    "date": "2026-08-11",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "lerobot/hy_vla_robotwin",
     "downloads": 34,
     "likes": 1,
@@ -99,13 +108,13 @@
     "score": 0.1
   },
   {
-    "model": "maximellerbach/folding_vla_jepa_refactor_lr_8799",
-    "downloads": 0,
+    "model": "siliconperception/VLA",
+    "downloads": 179,
     "likes": 0,
-    "url": "https://huggingface.co/maximellerbach/folding_vla_jepa_refactor_lr_8799",
+    "url": "https://huggingface.co/siliconperception/VLA",
     "date": "2026-08-11",
     "keyword": "vla",
-    "score": 0.1
+    "score": 53.8
   },
   {
     "model": "sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
@@ -121,6 +130,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "maximellerbach/folding_vla_jepa_refactor_lr_8799",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/maximellerbach/folding_vla_jepa_refactor_lr_8799",
     "date": "2026-08-11",
     "keyword": "vla",
     "score": 0.1
@@ -189,12 +207,12 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2__point__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "model": "Yewy/rollout_mahjong_table_pickup_finetune_v2_policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/Yewy/rollout_mahjong_table_pickup_finetune_v2_policy",
     "date": "2026-08-11",
-    "keyword": "vla",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -202,6 +220,33 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/nosuke113/parc2026-policy",
+    "date": "2026-08-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Cochon123/clash-royale-policy-bc-v4-4-1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Cochon123/clash-royale-policy-bc-v4-4-1",
+    "date": "2026-08-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Cochon123/clash-royale-policy-bc-v4-4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Cochon123/clash-royale-policy-bc-v4-4",
+    "date": "2026-08-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ChristianZ97/satp-policy-v4.27",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
     "date": "2026-08-11",
     "keyword": "policy",
     "score": 0.1
@@ -267,51 +312,6 @@
     "url": "https://huggingface.co/ducido/folding_shirt_flow_policy",
     "date": "2026-08-11",
     "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "kdh8156/cosmos3-policy-n-depthmap-robocasa50-bsz512-16k-mlxp",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kdh8156/cosmos3-policy-n-depthmap-robocasa50-bsz512-16k-mlxp",
-    "date": "2026-08-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Yewy/act_mahjong_table_pickup_v2_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Yewy/act_mahjong_table_pickup_v2_policy",
-    "date": "2026-08-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "kdh8156/cosmos3-policy-n-pointflowmap-robocasa50-bsz512-16k-mlxp",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kdh8156/cosmos3-policy-n-pointflowmap-robocasa50-bsz512-16k-mlxp",
-    "date": "2026-08-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "DimitarV/so101-teleop-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/DimitarV/so101-teleop-policy",
-    "date": "2026-08-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_50K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_50K",
-    "date": "2026-08-10",
-    "keyword": "robot",
     "score": 0.1
   },
   {

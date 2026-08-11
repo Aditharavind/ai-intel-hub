@@ -1,13 +1,13 @@
 [
   {
     "repo": "NVIDIA/skills",
-    "stars": 2850,
+    "stars": 2851,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-11",
     "topic": "physical-ai",
-    "score": 1140.1
+    "score": 1140.5
   },
   {
     "repo": "commaai/openpilot",
@@ -21,13 +21,13 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16106,
+    "stars": 16107,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-08-11",
     "topic": "robotics",
-    "score": 6442.5
+    "score": 6442.9
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -38,6 +38,16 @@
     "date": "2026-08-11",
     "topic": "robotics",
     "score": 6265.7
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "stars": 13269,
+    "language": "JavaScript",
+    "description": "A library of agent skills for CAD, CAE and CAM",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "date": "2026-08-11",
+    "topic": "robotics",
+    "score": 5307.7
   },
   {
     "repo": "kornia/kornia",
@@ -51,13 +61,13 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11280,
+    "stars": 11281,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-08-11",
     "topic": "robotics",
-    "score": 4512.1
+    "score": 4512.5
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -71,13 +81,13 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4508,
+    "stars": 4510,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-11",
     "topic": "embodied-ai",
-    "score": 1803.3
+    "score": 1804.1
   },
   {
     "repo": "dora-rs/dora",
@@ -91,13 +101,13 @@
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3288,
+    "stars": 3289,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-08-11",
     "topic": "embodied-ai",
-    "score": 1315.3
+    "score": 1315.7
   },
   {
     "repo": "flashrt-project/FlashRT",
@@ -121,23 +131,23 @@
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 409,
+    "stars": 410,
     "language": "HTML",
     "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
     "url": "https://github.com/luohongk/Embodied-AI-Daily",
     "date": "2026-08-11",
     "topic": "vla",
-    "score": 163.7
+    "score": 164.1
   },
   {
     "repo": "baidu-baige/LoongForge",
-    "stars": 342,
+    "stars": 343,
     "language": "Python",
     "description": "A unified, high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.",
     "url": "https://github.com/baidu-baige/LoongForge",
     "date": "2026-08-11",
     "topic": "vla",
-    "score": 136.9
+    "score": 137.3
   },
   {
     "repo": "syswonder/robonix",
@@ -151,23 +161,23 @@
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 310,
+    "stars": 311,
     "language": "",
     "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
     "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
     "date": "2026-08-11",
     "topic": "robot-learning",
-    "score": 124.1
+    "score": 124.5
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6037,
+    "stars": 6038,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-11",
     "topic": "world-model",
-    "score": 2414.9
+    "score": 2415.3
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -201,13 +211,13 @@
   },
   {
     "repo": "ROBOTIS-GIT/ai_worker",
-    "stars": 162,
+    "stars": 163,
     "language": "Python",
     "description": "AI Worker: FFW (Freedom From Work)",
     "url": "https://github.com/ROBOTIS-GIT/ai_worker",
     "date": "2026-08-11",
     "topic": "humanoid",
-    "score": 64.9
+    "score": 65.3
   },
   {
     "repo": "Tsinghua-MARS-Lab/OMG",
@@ -278,16 +288,6 @@
     "date": "2026-08-10",
     "topic": "robotics",
     "score": 5806.1
-  },
-  {
-    "repo": "earthtojake/text-to-cad",
-    "stars": 13263,
-    "language": "JavaScript",
-    "description": "A library of agent skills for CAD, CAE and CAM",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "date": "2026-08-10",
-    "topic": "robotics",
-    "score": 5305.3
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
@@ -391,13 +391,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3092,
+    "stars": 3093,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1236.9
+    "score": 1237.3
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -411,13 +411,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2222,
+    "stars": 2224,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-07",
     "topic": "robot-learning",
-    "score": 888.9
+    "score": 889.7
   },
   {
     "repo": "thanhndv212/figaroh-plus",
@@ -441,13 +441,13 @@
   },
   {
     "repo": "nasa-jpl/open-source-rover",
-    "stars": 9564,
+    "stars": 9565,
     "language": "Prolog",
     "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
     "url": "https://github.com/nasa-jpl/open-source-rover",
     "date": "2026-08-06",
     "topic": "robotics",
-    "score": 3825.7
+    "score": 3826.1
   },
   {
     "repo": "dexmal/dexbotic",
@@ -591,13 +591,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15370,
+    "stars": 15371,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6148.1
+    "score": 6148.5
   },
   {
     "repo": "aalmuzairee/squint",
