@@ -31,13 +31,13 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15663,
+    "stars": 15664,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-11",
     "topic": "robotics",
-    "score": 6265.3
+    "score": 6265.7
   },
   {
     "repo": "kornia/kornia",
@@ -48,6 +48,16 @@
     "date": "2026-08-11",
     "topic": "robotics",
     "score": 4524.9
+  },
+  {
+    "repo": "rerun-io/rerun",
+    "stars": 11279,
+    "language": "Rust",
+    "description": "Visualize, query, and stream to train on multimodal robotics data.",
+    "url": "https://github.com/rerun-io/rerun",
+    "date": "2026-08-11",
+    "topic": "robotics",
+    "score": 4511.7
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -131,13 +141,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6034,
+    "stars": 6036,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-11",
     "topic": "world-model",
-    "score": 2413.7
+    "score": 2414.5
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -151,13 +161,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2280,
+    "stars": 2281,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-08-11",
     "topic": "humanoid",
-    "score": 912.1
+    "score": 912.5
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -251,33 +261,23 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13249,
+    "stars": 13252,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-10",
     "topic": "robotics",
-    "score": 5299.7
-  },
-  {
-    "repo": "rerun-io/rerun",
-    "stars": 11279,
-    "language": "Rust",
-    "description": "Visualize, query, and stream to train on multimodal robotics data.",
-    "url": "https://github.com/rerun-io/rerun",
-    "date": "2026-08-10",
-    "topic": "robotics",
-    "score": 4511.7
+    "score": 5300.9
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2711,
+    "stars": 2712,
     "language": "Python",
     "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-08-10",
     "topic": "embodied-ai",
-    "score": 1084.5
+    "score": 1084.9
   },
   {
     "repo": "baidu-baige/LoongForge",
@@ -311,23 +311,23 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 2110,
+    "stars": 2111,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-08-10",
     "topic": "world-model",
-    "score": 844.1
+    "score": 844.5
   },
   {
     "repo": "softmata/horus",
-    "stars": 408,
+    "stars": 409,
     "language": "Rust",
     "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
     "url": "https://github.com/softmata/horus",
     "date": "2026-08-10",
     "topic": "humanoid",
-    "score": 163.3
+    "score": 163.7
   },
   {
     "repo": "roboninecom/SO-ARM100-101-Parallel-Gripper",
@@ -391,13 +391,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3086,
+    "stars": 3089,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1234.5
+    "score": 1235.7
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -411,13 +411,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2220,
+    "stars": 2221,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-07",
     "topic": "robot-learning",
-    "score": 888.1
+    "score": 888.5
   },
   {
     "repo": "thanhndv212/figaroh-plus",
@@ -551,13 +551,13 @@
   },
   {
     "repo": "fiveages-sim/lerobot_ros2",
-    "stars": 26,
+    "stars": 27,
     "language": "Python",
     "description": "LeRobot Robot and Camera for ROS2",
     "url": "https://github.com/fiveages-sim/lerobot_ros2",
     "date": "2026-08-04",
     "topic": "lerobot",
-    "score": 10.5
+    "score": 10.9
   },
   {
     "repo": "Edgenesis/shifu",
@@ -591,13 +591,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15363,
+    "stars": 15365,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6145.3
+    "score": 6146.1
   },
   {
     "repo": "aalmuzairee/squint",
