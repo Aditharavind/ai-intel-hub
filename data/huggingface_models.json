@@ -9,6 +9,33 @@
     "score": 0.3
   },
   {
+    "model": "junbrro/gr1hp_robotonly_30000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/junbrro/gr1hp_robotonly_30000",
+    "date": "2026-08-11",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "junbrro/hawor_fp24bneck_robotonly_delta_vlmfreeze_bsz64_30k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/junbrro/hawor_fp24bneck_robotonly_delta_vlmfreeze_bsz64_30k",
+    "date": "2026-08-11",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "junbrro/hawor_fp24kin_robotonly_delta_vlmfreeze_bsz64_30k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/junbrro/hawor_fp24kin_robotonly_delta_vlmfreeze_bsz64_30k",
+    "date": "2026-08-11",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "fanzh03/robotwin_fewshot",
     "downloads": 0,
     "likes": 0,
@@ -45,10 +72,55 @@
     "score": 0.1
   },
   {
+    "model": "B111ue/fcl-vla-baseline-recovery",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/B111ue/fcl-vla-baseline-recovery",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__point__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "sam-guided-vlas/train_1_2__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__point__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a50__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-11",
     "keyword": "vla",
     "score": 0.1
@@ -72,24 +144,6 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2__point__overlay_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a50__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__point__overlay_a100__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a100__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "sam-guided-vlas/train_1_2__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -99,21 +153,12 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "model": "ChristianZ97/satp-policy-v4.27",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
     "date": "2026-08-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-11",
-    "keyword": "vla",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -171,46 +216,10 @@
     "score": 0.1
   },
   {
-    "model": "RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_20K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_20K",
-    "date": "2026-08-10",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Myungkyu/hiwrld-baseline-ckpts-real-robot",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Myungkyu/hiwrld-baseline-ckpts-real-robot",
-    "date": "2026-08-10",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/PickGreenCoffeeCan_WhiteShdlf_byGrootModel_80K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/PickGreenCoffeeCan_WhiteShdlf_byGrootModel_80K",
-    "date": "2026-08-10",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "Grigorij/Isaac_franka_4_vla_jepa_2",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Grigorij/Isaac_franka_4_vla_jepa_2",
-    "date": "2026-08-10",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "B111ue/fcl-vla-baseline-recovery",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/B111ue/fcl-vla-baseline-recovery",
     "date": "2026-08-10",
     "keyword": "vla",
     "score": 0.1
@@ -265,15 +274,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/nosuke113/parc2026-policy",
-    "date": "2026-08-10",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ChristianZ97/satp-policy-v4.27",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
     "date": "2026-08-10",
     "keyword": "policy",
     "score": 0.1

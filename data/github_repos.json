@@ -1,33 +1,33 @@
 [
   {
     "repo": "NVIDIA/skills",
-    "stars": 2844,
+    "stars": 2845,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-11",
     "topic": "physical-ai",
-    "score": 1137.7
+    "score": 1138.1
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63384,
+    "stars": 63383,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-11",
     "topic": "robotics",
-    "score": 25353.7
+    "score": 25353.3
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15661,
+    "stars": 15662,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-11",
     "topic": "robotics",
-    "score": 6264.5
+    "score": 6264.9
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -70,14 +70,24 @@
     "score": 197.3
   },
   {
+    "repo": "luohongk/Embodied-AI-Daily",
+    "stars": 409,
+    "language": "HTML",
+    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
+    "url": "https://github.com/luohongk/Embodied-AI-Daily",
+    "date": "2026-08-11",
+    "topic": "vla",
+    "score": 163.7
+  },
+  {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6026,
+    "stars": 6027,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-11",
     "topic": "world-model",
-    "score": 2410.5
+    "score": 2410.9
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -91,13 +101,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2277,
+    "stars": 2278,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-08-11",
     "topic": "humanoid",
-    "score": 910.9
+    "score": 911.3
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -108,6 +118,16 @@
     "date": "2026-08-11",
     "topic": "humanoid",
     "score": 229.3
+  },
+  {
+    "repo": "ROBOTIS-GIT/ai_worker",
+    "stars": 162,
+    "language": "Python",
+    "description": "AI Worker: FFW (Freedom From Work)",
+    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
+    "date": "2026-08-11",
+    "topic": "humanoid",
+    "score": 64.9
   },
   {
     "repo": "Tsinghua-MARS-Lab/OMG",
@@ -181,13 +201,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13236,
+    "stars": 13238,
     "language": "JavaScript",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-10",
     "topic": "robotics",
-    "score": 5294.5
+    "score": 5295.3
   },
   {
     "repo": "kornia/kornia",
@@ -201,13 +221,13 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11278,
+    "stars": 11279,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-08-10",
     "topic": "robotics",
-    "score": 4511.3
+    "score": 4511.7
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
@@ -228,16 +248,6 @@
     "date": "2026-08-10",
     "topic": "vla",
     "score": 200.1
-  },
-  {
-    "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 408,
-    "language": "HTML",
-    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
-    "url": "https://github.com/luohongk/Embodied-AI-Daily",
-    "date": "2026-08-10",
-    "topic": "vla",
-    "score": 163.3
   },
   {
     "repo": "baidu-baige/LoongForge",
@@ -288,16 +298,6 @@
     "date": "2026-08-10",
     "topic": "humanoid",
     "score": 163.3
-  },
-  {
-    "repo": "ROBOTIS-GIT/ai_worker",
-    "stars": 162,
-    "language": "Python",
-    "description": "AI Worker: FFW (Freedom From Work)",
-    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
-    "date": "2026-08-10",
-    "topic": "humanoid",
-    "score": 64.9
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -401,13 +401,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2216,
+    "stars": 2217,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-07",
     "topic": "robot-learning",
-    "score": 886.5
+    "score": 886.9
   },
   {
     "repo": "thanhndv212/figaroh-plus",
@@ -581,13 +581,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15348,
+    "stars": 15349,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6139.3
+    "score": 6139.7
   },
   {
     "repo": "aalmuzairee/squint",
@@ -651,13 +651,13 @@
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3286,
+    "stars": 3287,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-07-28",
     "topic": "embodied-ai",
-    "score": 1314.5
+    "score": 1314.9
   },
   {
     "repo": "PKU-YuanGroup/Helios",

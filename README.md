@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-11 04:10 UTC
+Last Updated: 2026-08-11 05:44 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
-| 2026-08-11 | The PiShot Is Ready For Your Snaps | Hackaday | [link](https://hackaday.com/2026/08/10/the-pishot-is-ready-for-your-snaps/) |
+| 2026-08-11 | PewCB One Desktop PCB fabrication system enables rapid prototyping at home | CNX Software | [link](https://www.cnx-software.com/2026/08/11/pewcb-one-desktop-pcb-fabrication-system-enables-rapid-prototyping-at-home/) |
 | 2026-08-11 | Makerfabs Nomad Terminal features ESP32-S3 WiSoC, LR1121 LoRa transceiver, 3.5-inch touchscreen display | CNX Software | [link](https://www.cnx-software.com/2026/08/11/makerfabs-nomad-terminal-features-esp32-s3-wisoc-lr1121-lora-transceiver-3-5-inch-touchscreen-display/) |
 | 2026-08-11 | Silicon Motion Unveils PerformaShape Technology for AI SSDs | Embedded.com | [link](https://www.embedded.com/silicon-motion-unveils-performashape-technology-for-ai-ssds/) |
+| 2026-08-11 | Waymo extends driverless lead | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/waymo-extends-driverless-lead-2026-08/) |
+| 2026-08-11 | NEC’s new department staffed only by AI agents | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/nec-has-new-department-staffed-only-by-ai-agents-2026-08/) |
+| 2026-08-11 | Smartphone margin squeeze | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/smartphone-margin-squeeze-2026-08/) |
+| 2026-08-11 | Anglia signs Silanna | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/anglia-signs-silanna-2026-08/) |
+| 2026-08-11 | Toshiba adds to digital isolators | Electronics Weekly | [link](https://www.electronicsweekly.com/news/toshiba-adds-to-digital-isolators-2-2026-08/) |
 | 2026-08-11 | Europe  Needs Government Support For Data Processing | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/europe-needs-government-support-for-data-processing-2026-08/) |
-| 2026-08-10 | Cotton-Fiberglass Composite Makes Lightweight RV Countertops | Hackaday | [link](https://hackaday.com/2026/08/10/cotton-fiberglass-composite-makes-lightweight-rv-countertops/) |
-| 2026-08-10 | Building a bicycle dropper seat post | Hackaday | [link](https://hackaday.com/2026/08/10/building-a-bicycle-dropper-seat-post/) |
-| 2026-08-10 | Teardown of an Oxford Nanopore MinION DNA Sequencer | Hackaday | [link](https://hackaday.com/2026/08/10/teardown-of-an-oxford-nanopore-minion-dna-sequencer/) |
-| 2026-08-10 | Linux Fu: Heads or Tails for VPN | Hackaday | [link](https://hackaday.com/2026/08/10/linux-fu-heads-or-tails-for-vpn/) |
-| 2026-08-10 | Functional Jumping Pokéball from an Ancient Pokémon World | Hackaday | [link](https://hackaday.com/2026/08/10/functional-jumping-pokeball-from-an-ancient-pokemon-world/) |
-| 2026-08-10 | The Physics of Keeping Thermal Power Stations Cool | Hackaday | [link](https://hackaday.com/2026/08/10/the-physics-of-keeping-thermal-power-stations-cool/) |
+| 2026-08-10 | PyBLE open-source MicroPython IDE works over Bluetooth LE for tablet and iPad users | CNX Software | [link](https://www.cnx-software.com/2026/08/10/pyble-open-source-micropython-ide-works-over-bluetooth-le-for-tablet-and-ipad-users/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -78,29 +78,29 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-11 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-08-11 | junbrro/gr1hp_robotonly_30000 | 0 | 0 | [link](https://huggingface.co/junbrro/gr1hp_robotonly_30000) |
+| 2026-08-11 | junbrro/hawor_fp24bneck_robotonly_delta_vlmfreeze_bsz64_30k | 0 | 0 | [link](https://huggingface.co/junbrro/hawor_fp24bneck_robotonly_delta_vlmfreeze_bsz64_30k) |
+| 2026-08-11 | junbrro/hawor_fp24kin_robotonly_delta_vlmfreeze_bsz64_30k | 0 | 0 | [link](https://huggingface.co/junbrro/hawor_fp24kin_robotonly_delta_vlmfreeze_bsz64_30k) |
 | 2026-08-11 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-11 | RobotisSW/Fixed_PickGreenCoffeeCan_WhiteShelf_byGrootModel_80K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Fixed_PickGreenCoffeeCan_WhiteShelf_byGrootModel_80K) |
 | 2026-08-11 | RobotisSW/Fixed_PickGreenCoffeeCan_WhiteShelf_byGrootModel_60K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Fixed_PickGreenCoffeeCan_WhiteShelf_byGrootModel_60K) |
 | 2026-08-11 | locht131/gr00t_fa_robotwin_2hand_quat_5_tasks_s25k_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_5_tasks_s25k_bs64) |
-| 2026-08-11 | sam-guided-vlas/train_1_2__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0) |
-| 2026-08-11 | khoavucao2511/so101_vla_jepa_11_08_26_freeze_Qwen3_45000steps_batch16_chunk100 | 0 | 0 | [link](https://huggingface.co/khoavucao2511/so101_vla_jepa_11_08_26_freeze_Qwen3_45000steps_batch16_chunk100) |
-| 2026-08-11 | EmpathicRobotics/tokenizer-vla-qwen3-v3 | 0 | 0 | [link](https://huggingface.co/EmpathicRobotics/tokenizer-vla-qwen3-v3) |
-| 2026-08-11 | sam-guided-vlas/train_1_2__point__overlay_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a50__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-11 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
 | 2026-08-11 | sam-guided-vlas/train_1_2__point__overlay_a100__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a100__sim__all_cameras__live__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2844 | Python | 1137.7 | [link](https://github.com/NVIDIA/skills) |
-| commaai/openpilot | 63384 | Python | 25353.7 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15661 | C++ | 6264.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| NVIDIA/skills | 2845 | Python | 1138.1 | [link](https://github.com/NVIDIA/skills) |
+| commaai/openpilot | 63383 | Python | 25353.3 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15662 | C++ | 6264.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | isaac-sim/IsaacLab | 7872 | Python | 3148.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4504 | Python | 1801.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3866 | Rust | 1546.5 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 493 | HTML | 197.3 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 6026 | Python | 2410.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| luohongk/Embodied-AI-Daily | 409 | HTML | 163.7 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
+| vllm-project/vllm-omni | 6027 | Python | 2410.9 | [link](https://github.com/vllm-project/vllm-omni) |
 | inclusionAI/AWorld | 1218 | Python | 487.3 | [link](https://github.com/inclusionAI/AWorld) |
-| NVlabs/ProtoMotions | 2277 | Python | 910.9 | [link](https://github.com/NVlabs/ProtoMotions) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -123,7 +123,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | Naver D2SF Backs nDot Light Again in Push for Physical AI - Seoul Economic Daily | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVdaYW9qTU9oMlhfdFVGb2dGN0t5TG9VWUIxNi0wTElwUFFzOTQwZlpiUXN0NFV1b0dNM0gtVFFtZHNKTDdUU0RoODhDZTNKaUJMY2wza0J2YTktY3E0dEVrMWNnSUczX21hakNlT0ljSEZNX1lMaW16Q2VfajEwZGdzNXJaTDROWHVzMllVamhWSzl3cVFGU1hTNHFxQm9lMDFDSA?oc=5) |
 | 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
 | 2026-08-10 | Backed by China Merchants Venture and NIO Capital, Acorn Robot Bets on a "Zero-Data" Path to Win the Embodied AI Race - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9vZFRJN3hNMmZKc3Z5LVh3Z2tQSzh3UW1PWEhMN1FTbG5td0pkYTAtc2c5ZE1kTEJIcmpiYVd0akVnME1mWXJvR3diZmlUTjNLNFpyWThySjQwOHcyUjNFNkJ4NkI3UDZ5dFZYUHZUSHExRElMMEE?oc=5) |
-| 2026-08-10 | Explainer-What is Unitree and why are China’s humanoid robot makers racing to list? - wtvbam.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG03UFlKLTk1TEVuYWRZMEVsY01YY3I4MExPQWN0WGtMRjYwNlZpTHFJTEZuU00tOVRGa0VWbUhmSnhLR25qQW5RZF9BUHl1bUdrYXNvMzJKNFliM1piOXRwal9TcjNDeWpQdzVqYktpcUJqM1pQZ3lZLTZISVpxZVNzRmZYbjc0TTNsSGt2ajZMUmpKU2psOFR0UFhpajVnZzNOV3FMa09uUVVrNzQ1TGFB?oc=5) |
+| 2026-08-10 | Explainer-What is Unitree and why are China’s humanoid robot makers racing to list? - WTVB | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG03UFlKLTk1TEVuYWRZMEVsY01YY3I4MExPQWN0WGtMRjYwNlZpTHFJTEZuU00tOVRGa0VWbUhmSnhLR25qQW5RZF9BUHl1bUdrYXNvMzJKNFliM1piOXRwal9TcjNDeWpQdzVqYktpcUJqM1pQZ3lZLTZISVpxZVNzRmZYbjc0TTNsSGt2ajZMUmpKU2psOFR0UFhpajVnZzNOV3FMa09uUVVrNzQ1TGFB?oc=5) |
 | 2026-08-09 | Unitree's Shanghai IPO Prices China's First Humanoid Robot Maker at $9 Billion - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVVBMzdkdDd0UnlkcFgxTHk4eUdnLTJOTldZeEJuWkFOYU03NmN2MjIxUm9RcEtHWER5S1phZTNWaWhlY2kySFcxSFZxTFZNYjVIenpIWE9mTV9ucjNoNE0zU04xMXE2cWRLVHNVUmRhaENSdVJVaDN0amRIeU1VMi1yZXVZMzRDUlQ0d3VtVlZHQi1rV1c2Yk5hMFloSW1xc1FwRWtB?oc=5) |
 | 2026-08-07 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
 | 2026-08-06 | Defense Startup: AI Turns 2 Months Of Engineering Into 20 Minutes - Forbes | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXNSNm9OdHU3QzRZeUZUS0VZMmI1RHBXNUU3Y3lrU1NmX29BcFBsTG9oMjA0ZzBRVkpHUm9iaGNMa1F4Q3J6RF9tMU95eDRHVXVXLWhncTkxN056TXhqSkdIMHc0bDRrSENkS1d0N29WSGNMVE9VemZQLTU5eGZldUc2Skx3ZFBSQUtMMGtpaUVnbm41ZEFqWGJXeG1xTFNXRlpWZERsMVNsRjhkZTNkaUd3QnhuYUZKdVE?oc=5) |
