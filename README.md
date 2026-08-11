@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-11 22:28 UTC
+Last Updated: 2026-08-11 23:27 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-11 | Fixing a Dead Makita Battery with a 20 Cent Part | Hackaday | [link](https://hackaday.com/2026/08/11/fixing-a-dead-makita-battery-with-a-20-cent-part/) |
 | 2026-08-11 | Splitting a Ball Bearing to Cut Out Backlash | Hackaday | [link](https://hackaday.com/2026/08/11/splitting-a-ball-bearing-to-cut-out-backlash/) |
 | 2026-08-11 | Turning a Toy Game Boy into a Real Game Boy | Hackaday | [link](https://hackaday.com/2026/08/11/turning-a-toy-game-boy-into-a-real-game-boy/) |
 | 2026-08-11 | The PC OS That Would Have Blown Your Mind Back In 1984 | Hackaday | [link](https://hackaday.com/2026/08/11/the-pc-os-that-would-have-blown-your-mind-back-in-1984/) |
 | 2026-08-11 | PC-1: The 1954 Computer with no Tubes, Relays, or Transistors | Hackaday | [link](https://hackaday.com/2026/08/11/pc-1-the-1954-computer-with-no-tubes-relays-or-transistors/) |
 | 2026-08-11 | Running DOOM on a Cheap 104-in-One Handheld | Hackaday | [link](https://hackaday.com/2026/08/11/running-doom-on-a-cheap-104-in-one-handheld/) |
 | 2026-08-11 | The Code The British Government Doesn’t Want You To See (Any More) | Hackaday | [link](https://hackaday.com/2026/08/11/the-code-the-british-government-doesnt-want-you-to-see-any-more/) |
-| 2026-08-11 | A Keyboard with No Keys | Hackaday | [link](https://hackaday.com/2026/08/10/a-keyboard-with-no-keys/) |
 | 2026-08-11 | NXP FRDM-IMX95-PRO i.MX 95 board features 10GbE, faster 6400 MT/s LPDDR5 memory, dual M.2 expansion | CNX Software | [link](https://www.cnx-software.com/2026/08/11/nxp-frdm-imx95-pro-i-mx-95-board-features-10gbe-faster-6400-mt-s-lpddr5-memory-dual-m-2-expansion/) |
 | 2026-08-11 | GEEKOM IT13 Max review – Part 2: An Intel Core Ultra 9 185H mini PC tested with Windows 11 Pro (in 2026) | CNX Software | [link](https://www.cnx-software.com/2026/08/11/geekom-it13-max-review-part-2-an-intel-core-ultra-9-185h-mini-pc-tested-with-windows-11-pro-in-2026/) |
 | 2026-08-11 | PewCB One Desktop PCB fabrication system enables rapid prototyping at home | CNX Software | [link](https://www.cnx-software.com/2026/08/11/pewcb-one-desktop-pcb-fabrication-system-enables-rapid-prototyping-at-home/) |
@@ -91,22 +91,22 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2855 | Python | 1142.1 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2856 | Python | 1142.5 | [link](https://github.com/NVIDIA/skills) |
 | NVlabs/alpasim | 1169 | Python | 467.7 | [link](https://github.com/NVlabs/alpasim) |
-| commaai/openpilot | 63384 | Python | 25353.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63385 | Python | 25354.1 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16106 | Python | 6442.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15671 | C++ | 6268.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | earthtojake/text-to-cad | 13272 | Python | 5308.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11313 | Python | 4525.3 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11283 | Rust | 4513.3 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7882 | Python | 3152.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4510 | Python | 1804.1 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 4511 | Python | 1804.5 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
-| 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcE5XeXdXbW9FbzVLanRUbjR1b25MTkpTYS1sWHdvWUZnQV8yLTUxeVUwTGJPcG5ZS2VkWmN2eHVsVzg0UUdtd1NBR0Iza0IySnlpWUdjMzUzX1R3Y1pTcEdfRkFEYmJZQXlFTk5TYXl5UFo1YkJ4RS1rSDFkUTVJckJZTEZVb09FN3pDN0hPTG1mc0F0aG4ySnNQS2kyamFiZjlNOFBZdjB2amYz?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzBWZTdYcGJBX2JBZ0hTaUpNc253STkzZDBISGYyeGRNTUhwaV95UUttenNuWlE0RGJaUFctMUZTYjluM1JuQ2Q3RGxzNXRSTFphcXRtV1dvVDQtSWFnOFZiUnZTaUwwMGktZjcwOXVLRzBVNG9fRjZiTXNVVXhRUW41OU8?oc=5) |
+| 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcE5XeXdXbW9FbzVLanRUbjR1b25MTkpTYS1sWHdvWUZnQV8yLTUxeVUwTGJPcG5ZS2VkWmN2eHVsVzg0UUdtd1NBR0Iza0IySnlpWUdjMzUzX1R3Y1pTcEdfRkFEYmJZQXlFTk5TYXl5UFo1YkJ4RS1rSDFkUTVJckJZTEZVb09FN3pDN0hPTG1mc0F0aG4ySnNQS2kyamFiZjlNOFBZdjB2amYz?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRzFpdHRwNlJtM1hDaDZlNXNuWW1iTmRCOUdGVUZKenFmSTh4Y2VZYU9xOW5mcHZ1Mjc5aDZMMU54YVN5TS1XcDdGYV9XZ1poaks0?oc=5) |
 | 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxONEdLRklEMWlxUlUyeW96WW81VldYQW1JTlk2bHEweFpjYkdfcGVmOFRPcC03NnpnSmhib3NoekJrcWVwM2pkRWF0aHQ2TmxmNm5UVk5RY2lxSjFUeHRkQjJMbVUyWHNKQ3d5Unctd0pZSTNxeEdPVzVxTnVQejFjNTZkeTZ0WmZ5YXd0VDFCUVpFSkhWU3FCb3FVODFGR1VCMXppamtnbXVjX25GalNHMjBndnFLWTQxZjJwaWEtMGlIVW5CanZVcVh4RHoxT3AwQ0EwMTZfUnFpZE4zcUh5U3JPVUI2OVZ3TDZYYg?oc=5) |
 | 2026-08-09 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53c25TTmNSX3pwQXZLajd4Wm8xUHB6MklTRUk0TVYtQl9tUFBoTzZ3YktKMWRCZzJxd0VkVW9JZXFwaVVSb0l3TUM2bFRiWGdUVVZTVGZn?oc=5) |
@@ -121,14 +121,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
 | 2026-08-11 | NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlUtQnQyZ1F3eXZqd1ZVMlNSN0M2U21FZlhmMHp3YnowOUVlbWI2ZnVRdUhrWVJGNVlwOFdKMV9XRHktUXRmd2hMQlNsLVU0eHlwYm9CUmY2eU85U19WTlIyajFJWlF0SV9FTHNSelRLRkpsb3ZEMUxrVVBzLTZmUzJFU1VLSEtsMmpfc0REcHA3eGJ3QTI1Xy1ielNNTENLLTNKRXhiN1h6WWlES2QwREgyV2dKQmxQaDBWU0xjYjE1TWRzQXQyWDdzZ1ZVZw?oc=5) |
+| 2026-08-11 | Physical AI Awards: Apply for $150K in Compute - SynBioBeta | physical ai startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTkI2WjZla1Q3ejhYbkpGNF9YQm81b3dMZ2dleXVrZnZnZUlhM01JOXUxcVgyeU1BT2Nicm1wVHJZRTBEYTJKLW93SHdGSUhZY01QUTF2RDk4YTRuT0lsX2RldFAxeUVyLWE4dlY1elByY1VKcEZmSzR2Yl91bEhNYnN3?oc=5) |
+| 2026-08-11 | Eurobotics triples valuation as Korea robot boom fuels 40 billion won Series A - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTHAwb2JkOU5uOVlHdzhLWVljdGJJRnFqdU9jdFp4dWJ6TTZwR2tmeXNzZWV3V2Jial9zVU1vUnF1UlA5SC1mMlFaMWpoWDRoMkVqdnppNHBqQV82OEJRQmFuQlJ1Sm1pU1h4Zng4cHRPcnFTa0tQTmRRb0t0aXlJdNIBlAFBVV95cUxNblZ2bUJZYmNhaEpFYnVwUjlDMzBVU2k1VDZ6d09LdGthb0lWLXZya1U0Sm1HRmZoTVVLQkUwR0NFdDBUTUZ2ZG1UZWR2c084T3pKNy1oR2ZXS0V5UWZWcTk5d3BMZVEyUnA3b2VzN3duTG5kTlg2aEFiUlhYWXRVQzNjNUhUNGNITHlCdkVCeHpjOW9T?oc=5) |
 | 2026-08-11 | Ant Group Backs Hong Kong Robotics Startup Daimeng in New Funding - Asia Business Outlook | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0RNRTdBRTlNOHp0eEs3MUN2SGpPUTZtNWhBNmY1VGNsYmJzbjdxN3dsc1A3VUJPNm16VnczRTBFby1XM3RNLUJzT1pqanlRVUZnUmN1eHA3dXJtTmlyMi0zRjR1Ykxwb0VKNmk5RTIwSTg0VzUwb0NNQ0ZFRVlTdkFaRGRiRGZGVXpSRGN3N01IQlc5YXZ2bmlOYTc0VzRLQnZ3dl9RcTlwdjFpQUtJTGRNTDUtSVpLaVB3cFNZTQ?oc=5) |
 | 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
 | 2026-08-10 | Backed by China Merchants Venture and NIO Capital, Acorn Robot Bets on a "Zero-Data" Path to Win the Embodied AI Race - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9vZFRJN3hNMmZKc3Z5LVh3Z2tQSzh3UW1PWEhMN1FTbG5td0pkYTAtc2c5ZE1kTEJIcmpiYVd0akVnME1mWXJvR3diZmlUTjNLNFpyWThySjQwOHcyUjNFNkJ4NkI3UDZ5dFZYUHZUSHExRElMMEE?oc=5) |
 | 2026-08-10 | Holiday Robotics Raises ₩155B Series A to Accelerate Humanoid Robot Commercialization - AsiaTechDaily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUlHTmhXZ0d3OFF2MExMWVVXWHBzbkJ6djF1TnZsZzV5Z29KeWIyclhUcTZLSmtFdURpd2hiWElfWEVDWkdRRnV0ZENrM2ZsNHo3V0lfUnRmd19lNWxaQ3N6SGJ0aktwa1pZOGh2VlRyWldacXhpbVFxRVNQTFRPZVVuZWpkRmRFN3J1cmYtRGhkaHJ0cHBvSnZaa2hyaC00MVFOUjJrdFdfTzdTUmFCc1NFWkFiSm1sclVOVQ?oc=5) |
 | 2026-08-09 | Unitree's Shanghai IPO Prices China's First Humanoid Robot Maker at $9 Billion - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVVBMzdkdDd0UnlkcFgxTHk4eUdnLTJOTldZeEJuWkFOYU03NmN2MjIxUm9RcEtHWER5S1phZTNWaWhlY2kySFcxSFZxTFZNYjVIenpIWE9mTV9ucjNoNE0zU04xMXE2cWRLVHNVUmRhaENSdVJVaDN0amRIeU1VMi1yZXVZMzRDUlQ0d3VtVlZHQi1rV1c2Yk5hMFloSW1xc1FwRWtB?oc=5) |
 | 2026-08-07 | Why U.S. Robotics Startups Are Stuffing Parts From China in Luggage - The Information | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTXZ2ZE1ycXdub3lXM0RPcUpETGJvVWYwTWV0dUpJSkhCQkJIcUdKR3MxNm16SjVIYzY5TU1UUGRUNE8wZFp2R2hXdlVfNXRuXzhLQVZLSk1tMUJTOTNsRWdRMU84eHY4cG9IOVl3X200RmcyaW5wVlpJdkNDZ2xaN19rbUw3ZHk2U1J3dDVBa3JrZXdj?oc=5) |
-| 2026-08-07 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
-| 2026-08-06 | Defense Startup: AI Turns 2 Months Of Engineering Into 20 Minutes - Forbes | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXNSNm9OdHU3QzRZeUZUS0VZMmI1RHBXNUU3Y3lrU1NmX29BcFBsTG9oMjA0ZzBRVkpHUm9iaGNMa1F4Q3J6RF9tMU95eDRHVXVXLWhncTkxN056TXhqSkdIMHc0bDRrSENkS1d0N29WSGNMVE9VemZQLTU5eGZldUc2Skx3ZFBSQUtMMGtpaUVnbm41ZEFqWGJXeG1xTFNXRlpWZERsMVNsRjhkZTNkaUd3QnhuYUZKdVE?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
