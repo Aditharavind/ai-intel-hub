@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-11 16:42 UTC
+Generated: 2026-08-11 17:45 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,10 +14,10 @@ Generated: 2026-08-11 16:42 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63383 | 25353.3 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30281 | 12112.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| commaai/openpilot | 63384 | 25353.7 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30282 | 12112.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16107 | 6442.9 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15666 | 6266.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15669 | 6267.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | TianxingChen/Embodied-AI-Guide | 15372 | 6148.9 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
@@ -41,8 +41,8 @@ Generated: 2026-08-11 16:42 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - geekwire.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
 | 2026-08-11 | 17 physical AI startups to watch, according to VCs - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE9xYWVMNG5HSExFYUlFQlhsb0RaWUhRdnZLYTFsWXd6RkNSNFk1c01tdWdFTmZFUmlDcTBfekVHb1ZFbzZZUFM1ZW9KcFc2Ylk4bnljUk8wR3RpU19qR1VNZlJuMnlISU11aWpxRkx6UFhuUDk2WGpKU1owaGRCQQ?oc=5) |
-| 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
 | 2026-08-11 | NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlUtQnQyZ1F3eXZqd1ZVMlNSN0M2U21FZlhmMHp3YnowOUVlbWI2ZnVRdUhrWVJGNVlwOFdKMV9XRHktUXRmd2hMQlNsLVU0eHlwYm9CUmY2eU85U19WTlIyajFJWlF0SV9FTHNSelRLRkpsb3ZEMUxrVVBzLTZmUzJFU1VLSEtsMmpfc0REcHA3eGJ3QTI1Xy1ielNNTENLLTNKRXhiN1h6WWlES2QwREgyV2dKQmxQaDBWU0xjYjE1TWRzQXQyWDdzZ1ZVZw?oc=5) |
 | 2026-08-11 | Naver D2SF Backs nDot Light Again in Push for Physical AI - Seoul Economic Daily | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVdaYW9qTU9oMlhfdFVGb2dGN0t5TG9VWUIxNi0wTElwUFFzOTQwZlpiUXN0NFV1b0dNM0gtVFFtZHNKTDdUU0RoODhDZTNKaUJMY2wza0J2YTktY3E0dEVrMWNnSUczX21hakNlT0ljSEZNX1lMaW16Q2VfajEwZGdzNXJaTDROWHVzMllVamhWSzl3cVFGU1hTNHFxQm9lMDFDSA?oc=5) |
 | 2026-08-11 | Ant Group Backs Hong Kong Robotics Startup Daimeng in New Funding - Asia Business Outlook | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0RNRTdBRTlNOHp0eEs3MUN2SGpPUTZtNWhBNmY1VGNsYmJzbjdxN3dsc1A3VUJPNm16VnczRTBFby1XM3RNLUJzT1pqanlRVUZnUmN1eHA3dXJtTmlyMi0zRjR1Ykxwb0VKNmk5RTIwSTg0VzUwb0NNQ0ZFRVlTdkFaRGRiRGZGVXpSRGN3N01IQlc5YXZ2bmlOYTc0VzRLQnZ3dl9RcTlwdjFpQUtJTGRNTDUtSVpLaVB3cFNZTQ?oc=5) |

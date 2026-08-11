@@ -1,5 +1,14 @@
 [
   {
+    "model": "qualia-robotics/smolvla-smolvla-liftcube-franka-200-a0518875",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/qualia-robotics/smolvla-smolvla-liftcube-franka-200-a0518875",
+    "date": "2026-08-11",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "a5ilank/curious-robot",
     "downloads": 0,
     "likes": 1,
@@ -7,6 +16,15 @@
     "date": "2026-08-11",
     "keyword": "robot",
     "score": 0.3
+  },
+  {
+    "model": "locht131/gr00t_robotwin_2hand_quat_4_tasks_thirdview_s10k_bs64",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/locht131/gr00t_robotwin_2hand_quat_4_tasks_thirdview_s10k_bs64",
+    "date": "2026-08-11",
+    "keyword": "robot",
+    "score": 0.1
   },
   {
     "model": "Roboterr/pi05-4xJrD6TomxRp",
@@ -90,21 +108,30 @@
     "score": 0.1
   },
   {
-    "model": "RobotisSW/Fixed_PickGreenCoffeeCan_WhiteShelf_byGrootModel_80K",
+    "model": "vlabki/rr-tw3-bc",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Fixed_PickGreenCoffeeCan_WhiteShelf_byGrootModel_80K",
+    "url": "https://huggingface.co/vlabki/rr-tw3-bc",
     "date": "2026-08-11",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "RobotisSW/Fixed_PickGreenCoffeeCan_WhiteShelf_byGrootModel_60K",
+    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Fixed_PickGreenCoffeeCan_WhiteShelf_byGrootModel_60K",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-11",
-    "keyword": "robot",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-11",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -124,24 +151,6 @@
     "date": "2026-08-11",
     "keyword": "vla",
     "score": 53.8
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-11",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "maximellerbach/folding_vla_jepa_refactor_lr_8799",
@@ -193,15 +202,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/justintiensmith/molmoact2_VLA_Reasoning_Training_Dataset_1200",
-    "date": "2026-08-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "ISdept/wiltech-vla-moe-6k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ISdept/wiltech-vla-moe-6k",
     "date": "2026-08-11",
     "keyword": "vla",
     "score": 0.1
@@ -601,15 +601,6 @@
     "date": "2026-07-31",
     "keyword": "robotics",
     "score": 8.8
-  },
-  {
-    "model": "access-robotics-team/so-p5-pp-ma-260731",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/access-robotics-team/so-p5-pp-ma-260731",
-    "date": "2026-07-31",
-    "keyword": "robotics",
-    "score": 3.7
   },
   {
     "model": "jzcan/EmbodiedDF-diffusion",

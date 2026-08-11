@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-11 16:42 UTC
+Last Updated: 2026-08-11 17:45 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -37,6 +37,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-11 | Webinar to discuss safety and scaling robot fleets in the warehouse | Robotics Business Review | [link](https://www.therobotreport.com/webinar-to-discuss-safety-scaling-robot-fleets-warehouse/) |
 | 2026-08-11 | The 370-billion-dollar race: How integrated design can help humanoid manufacturers succeed in a rapidly growing market | Robotics Business Review | [link](https://www.therobotreport.com/the-370-billion-dollar-race-how-integrated-design-can-help-humanoid-manufacturers-succeed-in-a-rapidly-growing-market/) |
+| 2026-08-11 | PlusAI reaches key milestones ahead of launching its autonomous trucks | Robotics Business Review | [link](https://www.therobotreport.com/plusai-reaches-key-milestones-ahead-launch-autonomous-trucks/) |
 | 2026-08-10 | VicOne releases free NVIDIA Isaac Sim cybersecurity extension based on DEF CON 34 research | Robotics Business Review | [link](https://www.therobotreport.com/vicone-releases-free-nviida-isaac-sim-cybersecurity-extension-based-def-con-34-research/) |
 | 2026-08-10 | Tate deploys 58 Hirebotics cobot welders across multiple facilities | Robotics Business Review | [link](https://www.therobotreport.com/tate-deploys-58-hirebotics-cobot-welders-across-multiple-facilities/) |
 | 2026-08-10 | Robot Recycler Salvages Parts from Broken Machines | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/recycling-robot) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | RoboStore launches Robo Inc. to help U.S. organizations deploy robots | Robotics Business Review | [link](https://www.therobotreport.com/robostore-launches-robo-inc-to-help-u-s-organizations-deploy-robots/) |
 | 2026-08-09 | Analog Devices returns as strategic sponsor to aid MassRobotics startups | Robotics Business Review | [link](https://www.therobotreport.com/analog-devices-returns-strategic-sponsor-aid-massrobotics-startups/) |
 | 2026-08-08 | Experts look ahead at the next 20 years of robotics at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/experts-look-ahead-at-the-next-20-years-of-robotics-at-robobusiness/) |
-| 2026-08-07 | Video Friday: Drones Go Heavy in DARPA Lift Challenge | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-heavy-lift-drone) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -77,7 +77,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-11 | qualia-robotics/smolvla-smolvla-liftcube-franka-200-a0518875 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/smolvla-smolvla-liftcube-franka-200-a0518875) |
 | 2026-08-11 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-08-11 | locht131/gr00t_robotwin_2hand_quat_4_tasks_thirdview_s10k_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_robotwin_2hand_quat_4_tasks_thirdview_s10k_bs64) |
 | 2026-08-11 | Roboterr/pi05-4xJrD6TomxRp | 0 | 0 | [link](https://huggingface.co/Roboterr/pi05-4xJrD6TomxRp) |
 | 2026-08-11 | locht131/gr00t_fa_robotwin_2hand_quat_4_tasks_s10k_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_4_tasks_s10k_bs64) |
 | 2026-08-11 | lerobot/hy_vla_robotwin | 34 | 1 | [link](https://huggingface.co/lerobot/hy_vla_robotwin) |
@@ -85,17 +87,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | maxs11/robot11 | 0 | 0 | [link](https://huggingface.co/maxs11/robot11) |
 | 2026-08-11 | junbrro/gr1hp_robotonly_30000 | 0 | 0 | [link](https://huggingface.co/junbrro/gr1hp_robotonly_30000) |
 | 2026-08-11 | junbrro/hawor_fp24bneck_robotonly_delta_vlmfreeze_bsz64_30k | 0 | 0 | [link](https://huggingface.co/junbrro/hawor_fp24bneck_robotonly_delta_vlmfreeze_bsz64_30k) |
-| 2026-08-11 | junbrro/hawor_fp24kin_robotonly_delta_vlmfreeze_bsz64_30k | 0 | 0 | [link](https://huggingface.co/junbrro/hawor_fp24kin_robotonly_delta_vlmfreeze_bsz64_30k) |
-| 2026-08-11 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2851 | Python | 1140.5 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2852 | Python | 1140.9 | [link](https://github.com/NVIDIA/skills) |
 | NVlabs/alpasim | 1169 | Python | 467.7 | [link](https://github.com/NVlabs/alpasim) |
-| commaai/openpilot | 63383 | Python | 25353.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63384 | Python | 25353.7 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16107 | Python | 6442.9 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15666 | C++ | 6266.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15669 | C++ | 6267.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | earthtojake/text-to-cad | 13271 | JavaScript | 5308.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11313 | Python | 4525.3 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11281 | Rust | 4512.5 | [link](https://github.com/rerun-io/rerun) |
@@ -119,8 +119,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - geekwire.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
 | 2026-08-11 | 17 physical AI startups to watch, according to VCs - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE9xYWVMNG5HSExFYUlFQlhsb0RaWUhRdnZLYTFsWXd6RkNSNFk1c01tdWdFTmZFUmlDcTBfekVHb1ZFbzZZUFM1ZW9KcFc2Ylk4bnljUk8wR3RpU19qR1VNZlJuMnlISU11aWpxRkx6UFhuUDk2WGpKU1owaGRCQQ?oc=5) |
-| 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
 | 2026-08-11 | NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlUtQnQyZ1F3eXZqd1ZVMlNSN0M2U21FZlhmMHp3YnowOUVlbWI2ZnVRdUhrWVJGNVlwOFdKMV9XRHktUXRmd2hMQlNsLVU0eHlwYm9CUmY2eU85U19WTlIyajFJWlF0SV9FTHNSelRLRkpsb3ZEMUxrVVBzLTZmUzJFU1VLSEtsMmpfc0REcHA3eGJ3QTI1Xy1ielNNTENLLTNKRXhiN1h6WWlES2QwREgyV2dKQmxQaDBWU0xjYjE1TWRzQXQyWDdzZ1ZVZw?oc=5) |
 | 2026-08-11 | Naver D2SF Backs nDot Light Again in Push for Physical AI - Seoul Economic Daily | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVdaYW9qTU9oMlhfdFVGb2dGN0t5TG9VWUIxNi0wTElwUFFzOTQwZlpiUXN0NFV1b0dNM0gtVFFtZHNKTDdUU0RoODhDZTNKaUJMY2wza0J2YTktY3E0dEVrMWNnSUczX21hakNlT0ljSEZNX1lMaW16Q2VfajEwZGdzNXJaTDROWHVzMllVamhWSzl3cVFGU1hTNHFxQm9lMDFDSA?oc=5) |
 | 2026-08-11 | Ant Group Backs Hong Kong Robotics Startup Daimeng in New Funding - Asia Business Outlook | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0RNRTdBRTlNOHp0eEs3MUN2SGpPUTZtNWhBNmY1VGNsYmJzbjdxN3dsc1A3VUJPNm16VnczRTBFby1XM3RNLUJzT1pqanlRVUZnUmN1eHA3dXJtTmlyMi0zRjR1Ykxwb0VKNmk5RTIwSTg0VzUwb0NNQ0ZFRVlTdkFaRGRiRGZGVXpSRGN3N01IQlc5YXZ2bmlOYTc0VzRLQnZ3dl9RcTlwdjFpQUtJTGRNTDUtSVpLaVB3cFNZTQ?oc=5) |
@@ -133,6 +133,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-11 | Project Lead, Data Creators (CDMX) | Figure AI | Ciudad de México | [link](https://job-boards.greenhouse.io/figureai/jobs/4702544006) |
+| 2026-08-11 | Associate General Counsel, Corporate  | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6110896004) |
+| 2026-08-11 | Robotics Software Engineer III, Manipulation | Agility Robotics | Hybrid- Fremont, CA; Hybrid- Pittsburgh, PA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6132259004) |
 | 2026-08-10 | IT Operations Specialist (CDMX) | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4702863006) |
 | 2026-08-10 | IT Operations Specialist (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702538006) |
 | 2026-08-10 | People Lead (CDMX) | Figure AI | Mexico City, MX | [link](https://job-boards.greenhouse.io/figureai/jobs/4702555006) |
@@ -140,9 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | Reinforcement Learning Engineer – Whole Body Control | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4671442006) |
 | 2026-08-10 | Staging Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4677955006) |
 | 2026-08-10 | Systems Integration Engineer - Actuation Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4626247006) |
-| 2026-08-10 | Systems Integration Engineer - Hand Subsystem | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4612612006) |
-| 2026-08-10 | Test Development Engineer — Actuation Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4703944006) |
-| 2026-08-10 | User Support Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4703943006) |
 
 ## Automation
 
