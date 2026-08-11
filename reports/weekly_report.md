@@ -1,24 +1,18 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-11 20:30 UTC
+Generated: 2026-08-11 21:32 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-08-10 | Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning | [link](https://arxiv.org/pdf/2608.09926v1) |
-| 2026-08-10 | GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis | [link](https://arxiv.org/pdf/2608.09921v1) |
-| 2026-08-10 | Detecting Behavioral Changes in Python Refactoring Implementations with Foundation Models | [link](https://arxiv.org/pdf/2608.09919v1) |
-| 2026-08-10 | Consilience for Verifier-Free Test-Time Scaling | [link](https://arxiv.org/pdf/2608.09898v1) |
-| 2026-08-10 | Nascent Embedded-protostar Survey in Taurus (NEST) II: Measuring Dust Mass, Disk Size, and Gas Mass | [link](https://arxiv.org/pdf/2608.09896v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63383 | 25353.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63381 | 25352.5 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30283 | 12113.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16106 | 6442.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15670 | 6268.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| TianxingChen/Embodied-AI-Guide | 15374 | 6149.7 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
+| TianxingChen/Embodied-AI-Guide | 15376 | 6150.5 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
 | Model | Downloads | Score | URL |

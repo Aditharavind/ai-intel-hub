@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-11 20:30 UTC
+Last Updated: 2026-08-11 21:32 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -38,13 +38,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | Webinar to discuss safety and scaling robot fleets in the warehouse | Robotics Business Review | [link](https://www.therobotreport.com/webinar-to-discuss-safety-scaling-robot-fleets-warehouse/) |
 | 2026-08-11 | The 370-billion-dollar race: How integrated design can help humanoid manufacturers succeed in a rapidly growing market | Robotics Business Review | [link](https://www.therobotreport.com/the-370-billion-dollar-race-how-integrated-design-can-help-humanoid-manufacturers-succeed-in-a-rapidly-growing-market/) |
 | 2026-08-11 | PlusAI reaches key milestones ahead of launching its autonomous trucks | Robotics Business Review | [link](https://www.therobotreport.com/plusai-reaches-key-milestones-ahead-launch-autonomous-trucks/) |
+| 2026-08-11 | Defense drone developer Cambridge Aerospace raises $300M | Robotics Business Review | [link](https://www.therobotreport.com/defense-drone-developer-cambridge-aerospace-raises-300m/) |
 | 2026-08-10 | VicOne releases free NVIDIA Isaac Sim cybersecurity extension based on DEF CON 34 research | Robotics Business Review | [link](https://www.therobotreport.com/vicone-releases-free-nviida-isaac-sim-cybersecurity-extension-based-def-con-34-research/) |
 | 2026-08-10 | Tate deploys 58 Hirebotics cobot welders across multiple facilities | Robotics Business Review | [link](https://www.therobotreport.com/tate-deploys-58-hirebotics-cobot-welders-across-multiple-facilities/) |
 | 2026-08-10 | Robot Recycler Salvages Parts From Broken Machines | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/recycling-robot) |
 | 2026-08-10 | Hadrian raises $1.37B to accelerate U.S. defense, aerospace manufacturing | Robotics Business Review | [link](https://www.therobotreport.com/hadrian-raises-1-37b-accelerate-u-s-manufacturing/) |
 | 2026-08-10 | RoboStore launches Robo Inc. to help U.S. organizations deploy robots | Robotics Business Review | [link](https://www.therobotreport.com/robostore-launches-robo-inc-to-help-u-s-organizations-deploy-robots/) |
 | 2026-08-09 | Analog Devices returns as strategic sponsor to aid MassRobotics startups | Robotics Business Review | [link](https://www.therobotreport.com/analog-devices-returns-strategic-sponsor-aid-massrobotics-startups/) |
-| 2026-08-08 | Experts look ahead at the next 20 years of robotics at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/experts-look-ahead-at-the-next-20-years-of-robotics-at-robobusiness/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -61,18 +61,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | PewCB One Desktop PCB fabrication system enables rapid prototyping at home | CNX Software | [link](https://www.cnx-software.com/2026/08/11/pewcb-one-desktop-pcb-fabrication-system-enables-rapid-prototyping-at-home/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-08-10 | Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning | [link](https://arxiv.org/pdf/2608.09926v1) |
-| 2026-08-10 | GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis | [link](https://arxiv.org/pdf/2608.09921v1) |
-| 2026-08-10 | Detecting Behavioral Changes in Python Refactoring Implementations with Foundation Models | [link](https://arxiv.org/pdf/2608.09919v1) |
-| 2026-08-10 | Consilience for Verifier-Free Test-Time Scaling | [link](https://arxiv.org/pdf/2608.09898v1) |
-| 2026-08-10 | Nascent Embedded-protostar Survey in Taurus (NEST) II: Measuring Dust Mass, Disk Size, and Gas Mass | [link](https://arxiv.org/pdf/2608.09896v1) |
-| 2026-08-10 | XPolicyLab: A Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment | [link](https://arxiv.org/pdf/2608.09892v1) |
-| 2026-08-10 | RoSE: A Robotic Soft Esophagus for Endoprosthetic Stent Testing | [link](https://arxiv.org/pdf/2608.09891v1) |
-| 2026-08-10 | Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning | [link](https://arxiv.org/pdf/2608.09876v1) |
-| 2026-08-10 | Entanglement-Free Trajectory Planning for Tethered Mobile Robots with a Slack Tether | [link](https://arxiv.org/pdf/2608.09860v1) |
-| 2026-08-10 | Agentic Harnesses: LLM-Driven Verification Layers for Robot Autonomy | [link](https://arxiv.org/pdf/2608.09857v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
@@ -91,9 +80,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2854 | Python | 1141.7 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2855 | Python | 1142.1 | [link](https://github.com/NVIDIA/skills) |
 | NVlabs/alpasim | 1169 | Python | 467.7 | [link](https://github.com/NVlabs/alpasim) |
-| commaai/openpilot | 63383 | Python | 25353.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63381 | Python | 25352.5 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16106 | Python | 6442.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15670 | C++ | 6268.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | earthtojake/text-to-cad | 13271 | Python | 5308.5 | [link](https://github.com/earthtojake/text-to-cad) |
@@ -128,13 +117,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | Holiday Robotics Raises ₩155B Series A to Accelerate Humanoid Robot Commercialization - AsiaTechDaily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUlHTmhXZ0d3OFF2MExMWVVXWHBzbkJ6djF1TnZsZzV5Z29KeWIyclhUcTZLSmtFdURpd2hiWElfWEVDWkdRRnV0ZENrM2ZsNHo3V0lfUnRmd19lNWxaQ3N6SGJ0aktwa1pZOGh2VlRyWldacXhpbVFxRVNQTFRPZVVuZWpkRmRFN3J1cmYtRGhkaHJ0cHBvSnZaa2hyaC00MVFOUjJrdFdfTzdTUmFCc1NFWkFiSm1sclVOVQ?oc=5) |
 | 2026-08-09 | Unitree's Shanghai IPO Prices China's First Humanoid Robot Maker at $9 Billion - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVVBMzdkdDd0UnlkcFgxTHk4eUdnLTJOTldZeEJuWkFOYU03NmN2MjIxUm9RcEtHWER5S1phZTNWaWhlY2kySFcxSFZxTFZNYjVIenpIWE9mTV9ucjNoNE0zU04xMXE2cWRLVHNVUmRhaENSdVJVaDN0amRIeU1VMi1yZXVZMzRDUlQ0d3VtVlZHQi1rV1c2Yk5hMFloSW1xc1FwRWtB?oc=5) |
 | 2026-08-07 | Why U.S. Robotics Startups Are Stuffing Parts From China in Luggage - The Information | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTXZ2ZE1ycXdub3lXM0RPcUpETGJvVWYwTWV0dUpJSkhCQkJIcUdKR3MxNm16SjVIYzY5TU1UUGRUNE8wZFp2R2hXdlVfNXRuXzhLQVZLSk1tMUJTOTNsRWdRMU84eHY4cG9IOVl3X200RmcyaW5wVlpJdkNDZ2xaN19rbUw3ZHk2U1J3dDVBa3JrZXdj?oc=5) |
-| 2026-08-07 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - FOX Weather | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
+| 2026-08-07 | Meet Threehalves: The viral robot designed for Earth's most dangerous environments - foxweather.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFoyY0UtRjlSV3A4Yml1Z25UaktjbXZIbmg1QjRwZFdoQVRkRkhBaVRZOWxCcjAwRWUyTEZocGIxZEhKdVZ0aTJHN2RQLWdTR1QyN3ZmYVFzV1hrOWstY0tUWTcwQjFHTVRacUZRc0pQdFFjblNDWWtZNVRPZm5QQ3J4RDBpZXRVOVpqRzJKU2cyUmFoSnJxcXFKTHk2YVRr0gGmAUFVX3lxTE9oU2dMY3FRd2VScGMzamd3MlVQOVV5REEzY25EOWhmcTVwQ0Q0MDc4ay1oX2RfbXE1UVYxRUdTR3YwRVFDbk0wMlo3aEp0dEROSVB4OUlxUHZIUXdhVzFSX3Z3eEZFWDdOM3FCYktRRzJXMWV2aDU4VmhQWnYwOEk0dTgwTl9kaVhEbktDVnBpSjk4em1BT0xCaDJMRXZjX1lKcHlhdHc?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-11 | Project Lead, Data Creators (CDMX) | Figure AI | Ciudad de México | [link](https://job-boards.greenhouse.io/figureai/jobs/4702544006) |
 | 2026-08-11 | Recruiting Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4658691006) |
+| 2026-08-11 | User Support Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4703943006) |
 | 2026-08-11 | Associate General Counsel, Corporate  | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6110896004) |
 | 2026-08-11 | Recruiting Coordinator (Contract) | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6141052004) |
 | 2026-08-11 | Robotics Software Engineer III, Manipulation | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6132259004) |
@@ -142,7 +132,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | IT Operations Specialist (CDMX) | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4702863006) |
 | 2026-08-10 | IT Operations Specialist (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702538006) |
 | 2026-08-10 | People Lead (CDMX) | Figure AI | Mexico City, MX | [link](https://job-boards.greenhouse.io/figureai/jobs/4702555006) |
-| 2026-08-10 | People Lead (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702540006) |
 
 ## Automation
 
