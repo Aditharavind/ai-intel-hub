@@ -140,6 +140,27 @@
     "summary": "<p>MIKROE’s multi-architecture IDE, NECTO Studio, now supports over 10,000+ MCUs from 12 different vendors. This means that embedded developers can now easily trial around half of the different MCU variants [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/mikroe-2-2026-08/\">Mikroe supports 10k MCU types</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Pokémon Emerald running natively on a Raspberry Pi RP2350B",
+    "source": "Adafruit",
+    "date": "2026-08-12",
+    "url": "https://blog.adafruit.com/2026/08/12/pokemon-emerald-running-natively-on-a-raspberry-pi-rp2350b/",
+    "summary": "pokeemerald-rp2350 is Pokémon Emerald running natively on a $6 microcontroller — the full game, running at 60 fps, with HDMI video out, real buttons, and saves that survive a power cycle. No emulator: the pret decompilation is recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance&#8217;s video hardware is reimplemented in software on the second [&#8230;]"
+  },
+  {
+    "title": "Can you reverse engineer an ASIC?",
+    "source": "Adafruit",
+    "date": "2026-08-12",
+    "url": "https://blog.adafruit.com/2026/08/12/can-you-reverse-engineer-an-asic/",
+    "summary": "Anish Singhani and Benjamin Devlin have designed a puzzle, a chip, but they&#8217;re only providing the layout. We’ve designed an ASIC, and we’re giving you its final mask: all of its metal, routing, and active transistor layers, along with some sample inputs and outputs. Your job is to reverse engineer it. First, recover a netlist [&#8230;]"
+  },
+  {
+    "title": "Executable Emoji",
+    "source": "Adafruit",
+    "date": "2026-08-12",
+    "url": "https://blog.adafruit.com/2026/08/12/executable-emoji/",
+    "summary": "Daniel Balsom on Adventures in PC Emulation was playing around with a web application &#8211; an online disassembler for the x86 &#8211; when emoji were being encoded into the url. I pasted a goat emoji, 🐐  and I noticed the encoding %F0%9F%90%90. As it turns out, the vast majority of emoji graphemes, as they are called, start with [&#8230;]"
+  },
+  {
     "title": "The Python on Microcontrollers Newsletter: subscribe for free",
     "source": "Adafruit",
     "date": "2026-08-12",
@@ -327,27 +348,6 @@
     "date": "2026-08-10",
     "url": "https://blog.adafruit.com/2026/08/10/provenmetal-makes-pcbs-fast/",
     "summary": "ProvenMetal claim is they makes printed circuit boards (PCB) fast. Speed is our middle name. You ship hardware on a clock. 4 weeks ain&#8217;t cuttin it. We do it better. Boards back in as few as five days, or slower and cheaper when the schedule allows. You pick. Fast, and we can prove it. We [&#8230;]"
-  },
-  {
-    "title": "ChipTycoon: watch how chips are made, SimCity style",
-    "source": "Adafruit",
-    "date": "2026-08-10",
-    "url": "https://blog.adafruit.com/2026/08/10/chiptycoon-watch-how-chips-are-made-simcity-style/",
-    "summary": "ChipTycoon is a working chip factory laid out as a theme park, created by Laurentiu Raducu. A cart carries one silicon wafer along the roads and stops at each of the twenty buildings that turn ordinary sand into a computer chip. The cargo on the cart is the wafer itself, and it visibly changes at [&#8230;]"
-  },
-  {
-    "title": "Color Sensing Music Player #AdafruitLearningSystem",
-    "source": "Adafruit",
-    "date": "2026-08-10",
-    "url": "https://blog.adafruit.com/2026/08/10/color-sensing-music-player-adafruitlearningsystem/",
-    "summary": "Build a fun and playful 3D printed MP3 player with CircuitPython and an RP2040 PropMaker Feather! It&#8217;s a boombox for young makers, but with a twist: use a color sensor to detect a LEGO DUPLO brick and play a song, sound effect, or audio clip. Each colored brick plays a different audio file. You can [&#8230;]"
-  },
-  {
-    "title": "How to make a Nintendo 64 game in 2026",
-    "source": "Adafruit",
-    "date": "2026-08-10",
-    "url": "https://blog.adafruit.com/2026/08/10/how-to-make-a-nintendo-64-game-in-2026/",
-    "summary": "Two years ago, Dominic Szablewski was Porting his JavaScript Game Engine to C for No Reason. He have since found a reason: making a new N64 game. The result is Xibalba 64 – a Wolfenstein 3D-like FPS. Modretro agreed to publish the game as a physical launch title for their M64 (a modern N64 clone), [&#8230;]"
   },
   {
     "title": "Infineon collaborates with MediaTek to enable future automotive smart cockpit solutions",
