@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-12 10:47 UTC
+Last Updated: 2026-08-12 11:36 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-12 | DAF Trucks to integrate Einride Driver to scale autonomous electric freight | Robotics Business Review | [link](https://www.therobotreport.com/daf-trucks-integrates-einride-driver-scale-autonomous-electric-freight/) |
 | 2026-08-11 | Webinar to discuss safety and scaling robot fleets in the warehouse | Robotics Business Review | [link](https://www.therobotreport.com/webinar-to-discuss-safety-scaling-robot-fleets-warehouse/) |
 | 2026-08-11 | The 370-billion-dollar race: How integrated design can help humanoid manufacturers succeed in a rapidly growing market | Robotics Business Review | [link](https://www.therobotreport.com/the-370-billion-dollar-race-how-integrated-design-can-help-humanoid-manufacturers-succeed-in-a-rapidly-growing-market/) |
 | 2026-08-11 | PlusAI reaches key milestones ahead of launching its autonomous trucks | Robotics Business Review | [link](https://www.therobotreport.com/plusai-reaches-key-milestones-ahead-launch-autonomous-trucks/) |
@@ -44,21 +45,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | Robot Recycler Salvages Parts From Broken Machines | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/recycling-robot) |
 | 2026-08-10 | Hadrian raises $1.37B to accelerate U.S. defense, aerospace manufacturing | Robotics Business Review | [link](https://www.therobotreport.com/hadrian-raises-1-37b-accelerate-u-s-manufacturing/) |
 | 2026-08-10 | RoboStore launches Robo Inc. to help U.S. organizations deploy robots | Robotics Business Review | [link](https://www.therobotreport.com/robostore-launches-robo-inc-to-help-u-s-organizations-deploy-robots/) |
-| 2026-08-09 | Analog Devices returns as strategic sponsor to aid MassRobotics startups | Robotics Business Review | [link](https://www.therobotreport.com/analog-devices-returns-strategic-sponsor-aid-massrobotics-startups/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-12 | 3 KB Solitaire Fits in QR-Code, Runs in DOS | Hackaday | [link](https://hackaday.com/2026/08/12/3-kb-solitaire-fits-in-qr-code-runs-in-dos/) |
 | 2026-08-12 | Lighting 3D Printed Parts on Fire for Science | Hackaday | [link](https://hackaday.com/2026/08/12/lighting-3d-printed-parts-on-fire-for-science/) |
 | 2026-08-12 | Titanic-esqe Telegraph Keeps Relationship Afloat | Hackaday | [link](https://hackaday.com/2026/08/11/titanic-esqe-telegraph-keeps-relationship-afloat/) |
 | 2026-08-12 | Is Manual Filament Tuning Still Worth It? | Hackaday | [link](https://hackaday.com/2026/08/11/is-manual-filament-tuning-still-worth-it/) |
+| 2026-08-12 | Apollo Automation launches $40 official ESPHome Starter Kit with ESP32-C6 board, four FPC modules | CNX Software | [link](https://www.cnx-software.com/2026/08/12/apollo-automation-official-esphome-starter-kit-with-esp32-c6-board-four-fpc-modules/) |
 | 2026-08-12 | Forlinx AM62L32 Local EVM – A low-power industrial SBC powered by TI’s AM62L32 Cortex-A53/M4F SoC | CNX Software | [link](https://www.cnx-software.com/2026/08/12/forlinx-am62l32-local-evm-a-low-power-industrial-sbc-ti-am62l32-cortex-a53-m4f-soc/) |
 | 2026-08-12 | MINISFORUM Elite Mini M2 Air-304 barebone Wildcat Lake mini PC sells for $263 | CNX Software | [link](https://www.cnx-software.com/2026/08/12/minisforum-elite-mini-m2-air-304-barebone-wildcat-lake-mini-pc/) |
+| 2026-08-12 | Astrolight, ATMOS Space Cargo sign MoU for in-flight laser comms | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/astrolight-atmos-space-cargo-sign-mou-for-in-flight-laser-comms-2026-08/) |
 | 2026-08-12 | Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-08/) |
 | 2026-08-12 | PCB shortage  getting worse | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/pcb-shortage-getting-worse-2026-08/) |
-| 2026-08-12 | Imec proposes a mix of CMOS, BiCMOS and III-V for datacentre connectivity | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/imec-proposes-a-mix-of-cmos-bicmos-and-iii-v-for-datacentre-connectivity-2026-08/) |
-| 2026-08-12 | ITSA reports Q2 orders up 8% | Electronics Weekly | [link](https://www.electronicsweekly.com/news/etsis-two-halves-2026-08/) |
-| 2026-08-12 | New phase for O-RAN | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/new-phase-for-o-ran-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -78,26 +78,26 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-12 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
-| 2026-08-12 | rahul-ai-01/real_robot_sorting | 0 | 0 | [link](https://huggingface.co/rahul-ai-01/real_robot_sorting) |
 | 2026-08-12 | D-Robotics/LocateAnything-3B-BPU | 0 | 0 | [link](https://huggingface.co/D-Robotics/LocateAnything-3B-BPU) |
+| 2026-08-12 | L7-Robotics/pi05_so101_camera_setting_2026Aug_redcube_whitebowl_polarbear_greentray_merge_v1.1 | 0 | 0 | [link](https://huggingface.co/L7-Robotics/pi05_so101_camera_setting_2026Aug_redcube_whitebowl_polarbear_greentray_merge_v1.1) |
+| 2026-08-12 | rahul-ai-01/real_robot_sorting | 0 | 0 | [link](https://huggingface.co/rahul-ai-01/real_robot_sorting) |
 | 2026-08-12 | Shiki42/pi05-robotwin-place-dual-shoes-full-bf16-train50-val3-s42-r3-20260812 | 0 | 1 | [link](https://huggingface.co/Shiki42/pi05-robotwin-place-dual-shoes-full-bf16-train50-val3-s42-r3-20260812) |
 | 2026-08-12 | Shiki42/pi05-robotwin-scan-object-full-bf16-train50-val3-s42-r2-20260811 | 0 | 0 | [link](https://huggingface.co/Shiki42/pi05-robotwin-scan-object-full-bf16-train50-val3-s42-r2-20260811) |
 | 2026-08-12 | Icerm/gliner2-robot-multi-v11 | 0 | 0 | [link](https://huggingface.co/Icerm/gliner2-robot-multi-v11) |
 | 2026-08-12 | RobotisSW/Pick_MultipleColorCan_WhiteShelf_byGrootModel_100K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_MultipleColorCan_WhiteShelf_byGrootModel_100K) |
 | 2026-08-12 | RobotisSW/Pick_MultipleColorCan_WhiteShelf_byGrootModel_80K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_MultipleColorCan_WhiteShelf_byGrootModel_80K) |
 | 2026-08-12 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
-| 2026-08-12 | mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-no-memory | 0 | 0 | [link](https://huggingface.co/mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-no-memory) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | Edgenesis/shifu | 1430 | Go | 572.1 | [link](https://github.com/Edgenesis/shifu) |
 | NVlabs/alpasim | 1172 | Python | 468.9 | [link](https://github.com/NVlabs/alpasim) |
-| commaai/openpilot | 63389 | Python | 25355.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63390 | Python | 25356.1 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16108 | Python | 6443.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15676 | C++ | 6270.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14527 | C++ | 5810.9 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13301 | Python | 5320.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13302 | Python | 5320.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11285 | Rust | 4514.1 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7885 | Python | 3154.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4516 | Python | 1806.5 | [link](https://github.com/RLinf/RLinf) |
@@ -126,7 +126,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | Physical AI Awards: Apply for $150K in Compute - synbiobeta.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTkI2WjZla1Q3ejhYbkpGNF9YQm81b3dMZ2dleXVrZnZnZUlhM01JOXUxcVgyeU1BT2Nicm1wVHJZRTBEYTJKLW93SHdGSUhZY01QUTF2RDk4YTRuT0lsX2RldFAxeUVyLWE4dlY1elByY1VKcEZmSzR2Yl91bEhNYnN3?oc=5) |
 | 2026-08-11 | Eurobotics triples valuation as Korea robot boom fuels 40 billion won Series A - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTHAwb2JkOU5uOVlHdzhLWVljdGJJRnFqdU9jdFp4dWJ6TTZwR2tmeXNzZWV3V2Jial9zVU1vUnF1UlA5SC1mMlFaMWpoWDRoMkVqdnppNHBqQV82OEJRQmFuQlJ1Sm1pU1h4Zng4cHRPcnFTa0tQTmRRb0t0aXlJdNIBlAFBVV95cUxNblZ2bUJZYmNhaEpFYnVwUjlDMzBVU2k1VDZ6d09LdGthb0lWLXZya1U0Sm1HRmZoTVVLQkUwR0NFdDBUTUZ2ZG1UZWR2c084T3pKNy1oR2ZXS0V5UWZWcTk5d3BMZVEyUnA3b2VzN3duTG5kTlg2aEFiUlhYWXRVQzNjNUhUNGNITHlCdkVCeHpjOW9T?oc=5) |
 | 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
-| 2026-08-10 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
+| 2026-08-10 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - pandaily.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
 | 2026-08-10 | Backed by China Merchants Venture and NIO Capital, Acorn Robot Bets on a "Zero-Data" Path to Win the Embodied AI Race - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9vZFRJN3hNMmZKc3Z5LVh3Z2tQSzh3UW1PWEhMN1FTbG5td0pkYTAtc2c5ZE1kTEJIcmpiYVd0akVnME1mWXJvR3diZmlUTjNLNFpyWThySjQwOHcyUjNFNkJ4NkI3UDZ5dFZYUHZUSHExRElMMEE?oc=5) |
 | 2026-08-10 | Holiday Robotics Raises ₩155B Series A to Accelerate Humanoid Robot Commercialization - AsiaTechDaily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUlHTmhXZ0d3OFF2MExMWVVXWHBzbkJ6djF1TnZsZzV5Z29KeWIyclhUcTZLSmtFdURpd2hiWElfWEVDWkdRRnV0ZENrM2ZsNHo3V0lfUnRmd19lNWxaQ3N6SGJ0aktwa1pZOGh2VlRyWldacXhpbVFxRVNQTFRPZVVuZWpkRmRFN3J1cmYtRGhkaHJ0cHBvSnZaa2hyaC00MVFOUjJrdFdfTzdTUmFCc1NFWkFiSm1sclVOVQ?oc=5) |
 

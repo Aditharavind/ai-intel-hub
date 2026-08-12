@@ -21,13 +21,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63389,
+    "stars": 63390,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-12",
     "topic": "robotics",
-    "score": 25355.7
+    "score": 25356.1
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -61,13 +61,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13301,
+    "stars": 13302,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-12",
     "topic": "robotics",
-    "score": 5320.5
+    "score": 5320.9
   },
   {
     "repo": "rerun-io/rerun",
@@ -112,7 +112,7 @@
   {
     "repo": "unrealcv/unrealcv",
     "stars": 2207,
-    "language": "Python",
+    "language": "C++",
     "description": "UnrealCV: Connecting Computer Vision to Unreal Engine",
     "url": "https://github.com/unrealcv/unrealcv",
     "date": "2026-08-12",
@@ -130,14 +130,24 @@
     "score": 200.1
   },
   {
+    "repo": "luohongk/Embodied-AI-Daily",
+    "stars": 413,
+    "language": "HTML",
+    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
+    "url": "https://github.com/luohongk/Embodied-AI-Daily",
+    "date": "2026-08-12",
+    "topic": "vla",
+    "score": 165.3
+  },
+  {
     "repo": "baidu-baige/LoongForge",
-    "stars": 342,
+    "stars": 343,
     "language": "Python",
     "description": "A unified, high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.",
     "url": "https://github.com/baidu-baige/LoongForge",
     "date": "2026-08-12",
     "topic": "vla",
-    "score": 136.9
+    "score": 137.3
   },
   {
     "repo": "syswonder/robonix",
@@ -151,13 +161,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6057,
+    "stars": 6059,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-12",
     "topic": "world-model",
-    "score": 2422.9
+    "score": 2423.7
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -240,34 +250,24 @@
     "score": 201.3
   },
   {
-    "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 412,
-    "language": "HTML",
-    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
-    "url": "https://github.com/luohongk/Embodied-AI-Daily",
-    "date": "2026-08-11",
-    "topic": "vla",
-    "score": 164.9
-  },
-  {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 320,
+    "stars": 321,
     "language": "",
     "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
     "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
     "date": "2026-08-11",
     "topic": "robot-learning",
-    "score": 128.1
+    "score": 128.5
   },
   {
     "repo": "zli12321/Vision-Language-Models-Overview",
-    "stars": 694,
+    "stars": 695,
     "language": "HTML",
     "description": "A most Frontend Collection and survey of vision-language model papers, and models GitHub repository. Continuous updates.",
     "url": "https://github.com/zli12321/Vision-Language-Models-Overview",
     "date": "2026-08-11",
     "topic": "world-model",
-    "score": 277.7
+    "score": 278.1
   },
   {
     "repo": "NVlabs/ProtoMotions",
@@ -321,23 +321,23 @@
   },
   {
     "repo": "mosaico-labs/mosaico",
-    "stars": 906,
+    "stars": 909,
     "language": "Python",
     "description": "Mosaico - The data platform for Physical AI",
     "url": "https://github.com/mosaico-labs/mosaico",
     "date": "2026-08-10",
     "topic": "physical-ai",
-    "score": 362.5
+    "score": 363.7
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30287,
+    "stars": 30288,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-08-10",
     "topic": "robotics",
-    "score": 12114.9
+    "score": 12115.3
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
@@ -431,23 +431,23 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3113,
+    "stars": 3114,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1245.3
+    "score": 1245.7
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2235,
+    "stars": 2236,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-07",
     "topic": "robot-learning",
-    "score": 894.1
+    "score": 894.5
   },
   {
     "repo": "thanhndv212/figaroh-plus",
