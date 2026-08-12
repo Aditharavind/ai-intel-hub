@@ -1,9 +1,15 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-12 16:43 UTC
+Generated: 2026-08-12 17:46 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-08-11 | Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning | [link](https://arxiv.org/pdf/2608.11204v1) |
+| 2026-08-11 | Risk-Aware Kinodynamic Motion Planning Under Uncertainty For Safe Navigation on Planetary Environments | [link](https://arxiv.org/pdf/2608.11175v1) |
+| 2026-08-11 | VIScore: Diagnosing Planning-Relevant Quality in Latent World Models | [link](https://arxiv.org/pdf/2608.11174v1) |
+| 2026-08-11 | SAR2Agri: Learning SAR Intensity Representations for Agricultural Monitoring | [link](https://arxiv.org/pdf/2608.11142v1) |
+| 2026-08-11 | Cross-View Feature Matching: Survey, Benchmarking, and Foundation-Model Perspectives | [link](https://arxiv.org/pdf/2608.11093v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
@@ -11,7 +17,7 @@ _No items collected yet._
 | commaai/openpilot | 63392 | 25356.9 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30291 | 12116.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16110 | 6444.1 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15679 | 6271.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15680 | 6272.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | TianxingChen/Embodied-AI-Guide | 15396 | 6158.5 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
@@ -38,5 +44,5 @@ _No items collected yet._
 | 2026-08-12 | Employment immunity: the quiet revolution of robotics and physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lcURSMEFORUVpUHBsejVWMVhTYnZMbDJ6aUVVeVRNRDg5Tm12NDE3SnBDeGNhYmVCNC14TFFPVTJZcldIbUZwNzdNWXpBVllRTXhlRC1EV3hmQ0NNbnUyTnlOQ2hLR1pI?oc=5) |
 | 2026-08-12 | Former Alibaba Researcher Announces New Startup on Digital and Physical AI Agents - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS0yNmtES1hJM2JVdlhsN3ozemF5bnpqbjM3YUE2TXFmM1JuY2FtVEZ6NHl1MmpWclg5aV96LURKTER3bElQQTAxNE9CdDBva1Q3OE1yTFNfeV9lRHRPZTFHNFQtQWxXNnRiXzFUZzhIcTNuV3RWSXZkUWF4S0J5YjZZNHJqZUl5UjJVUHAyS3lhbU1pdTUycjRwcUpoM2J5b2VvRFR4dEowZG9oZVd0bzhETkNkUQ?oc=5) |
 | 2026-08-12 | Six Months, $74.1 Million: Westlake University Professor's Embodied AI Startup Secures Four Funding Rounds - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSm5lLTczQTE2eDNNdWZpQmppanBMYUNJSVlPOTlRUW1lbHNjSjh1UzI3UnBsQldXQnRhYS05YnVZbWZXbkF2MXNzMmZubW0wVDJwS19kYXA2SDdWTjZrR1ByZVpUN3NjMjlBZ1FGWFMwQ0J6dmc?oc=5) |
-| 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - geekwire.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
+| 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
 | 2026-08-11 | NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlUtQnQyZ1F3eXZqd1ZVMlNSN0M2U21FZlhmMHp3YnowOUVlbWI2ZnVRdUhrWVJGNVlwOFdKMV9XRHktUXRmd2hMQlNsLVU0eHlwYm9CUmY2eU85U19WTlIyajFJWlF0SV9FTHNSelRLRkpsb3ZEMUxrVVBzLTZmUzJFU1VLSEtsMmpfc0REcHA3eGJ3QTI1Xy1ielNNTENLLTNKRXhiN1h6WWlES2QwREgyV2dKQmxQaDBWU0xjYjE1TWRzQXQyWDdzZ1ZVZw?oc=5) |
