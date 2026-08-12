@@ -1,14 +1,5 @@
 [
   {
-    "model": "rahul-ai-01/real_robot_60000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/rahul-ai-01/real_robot_60000",
-    "date": "2026-08-12",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "a5ilank/curious-robot",
     "downloads": 0,
     "likes": 2,
@@ -16,6 +7,15 @@
     "date": "2026-08-12",
     "keyword": "robot",
     "score": 0.5
+  },
+  {
+    "model": "rahul-ai-01/real_robot_60000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/rahul-ai-01/real_robot_60000",
+    "date": "2026-08-12",
+    "keyword": "robot",
+    "score": 0.1
   },
   {
     "model": "D-Robotics/LocateAnything-3B-BPU",
@@ -153,6 +153,24 @@
     "score": 0.1
   },
   {
+    "model": "kdh8156/cosmos3-policy-n-pointflowmap-robocasa50-bsz512-16k-mlxp",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kdh8156/cosmos3-policy-n-pointflowmap-robocasa50-bsz512-16k-mlxp",
+    "date": "2026-08-12",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "MoAIBo/pick_place_merged_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MoAIBo/pick_place_merged_policy",
+    "date": "2026-08-12",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "nosuke113/parc2026-policy",
     "downloads": 0,
     "likes": 1,
@@ -216,15 +234,6 @@
     "score": 0.1
   },
   {
-    "model": "kdh8156/cosmos3-policy-n-pointflowmap-robocasa50-bsz512-16k-mlxp",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kdh8156/cosmos3-policy-n-pointflowmap-robocasa50-bsz512-16k-mlxp",
-    "date": "2026-08-12",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "kdh8156/cosmos3-policy-n-depthmap-robocasa50-bsz512-16k-mlxp",
     "downloads": 0,
     "likes": 0,
@@ -247,15 +256,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/s1eepypillow/task1_act_policy_chunk50_step15",
-    "date": "2026-08-12",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "hiskiv/cosmos-policy-lam-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hiskiv/cosmos-policy-lam-v2",
     "date": "2026-08-12",
     "keyword": "policy",
     "score": 0.1
