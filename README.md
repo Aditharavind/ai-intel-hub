@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-12 05:21 UTC
+Last Updated: 2026-08-12 07:01 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -52,13 +52,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-12 | Titanic-esqe Telegraph Keeps Relationship Afloat | Hackaday | [link](https://hackaday.com/2026/08/11/titanic-esqe-telegraph-keeps-relationship-afloat/) |
 | 2026-08-12 | Is Manual Filament Tuning Still Worth It? | Hackaday | [link](https://hackaday.com/2026/08/11/is-manual-filament-tuning-still-worth-it/) |
 | 2026-08-12 | MINISFORUM Elite Mini M2 Air-304 barebone Wildcat Lake mini PC sells for $263 | CNX Software | [link](https://www.cnx-software.com/2026/08/12/minisforum-elite-mini-m2-air-304-barebone-wildcat-lake-mini-pc/) |
+| 2026-08-12 | PCB shortage  getting worse | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/pcb-shortage-getting-worse-2026-08/) |
+| 2026-08-12 | Imec proposes a mix of CMOS, BiCMOS and III-V for datacentre connectivity | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/imec-proposes-a-mix-of-cmos-bicmos-and-iii-v-for-datacentre-connectivity-2026-08/) |
+| 2026-08-12 | ITSA reports Q2 orders up 8% | Electronics Weekly | [link](https://www.electronicsweekly.com/news/etsis-two-halves-2026-08/) |
+| 2026-08-12 | New phase for O-RAN | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/new-phase-for-o-ran-2026-08/) |
+| 2026-08-12 | Mikroe supports 10k MCU types | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/mikroe-2-2026-08/) |
 | 2026-08-12 | Top Ten (less 5) PC Companies In Q2 | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-pc-companies-in-q2-2-2026-08/) |
 | 2026-08-11 | Fixing a Dead Makita Battery with a 20 Cent Part | Hackaday | [link](https://hackaday.com/2026/08/11/fixing-a-dead-makita-battery-with-a-20-cent-part/) |
-| 2026-08-11 | Splitting a Ball Bearing to Cut Out Backlash | Hackaday | [link](https://hackaday.com/2026/08/11/splitting-a-ball-bearing-to-cut-out-backlash/) |
-| 2026-08-11 | Turning a Toy Game Boy into a Real Game Boy | Hackaday | [link](https://hackaday.com/2026/08/11/turning-a-toy-game-boy-into-a-real-game-boy/) |
-| 2026-08-11 | The PC OS That Would Have Blown Your Mind Back In 1984 | Hackaday | [link](https://hackaday.com/2026/08/11/the-pc-os-that-would-have-blown-your-mind-back-in-1984/) |
-| 2026-08-11 | PC-1: The 1954 Computer with no Tubes, Relays, or Transistors | Hackaday | [link](https://hackaday.com/2026/08/11/pc-1-the-1954-computer-with-no-tubes-relays-or-transistors/) |
-| 2026-08-11 | NXP FRDM-IMX95-PRO i.MX 95 board features 10GbE, faster 6400 MT/s LPDDR5 memory, dual M.2 expansion | CNX Software | [link](https://www.cnx-software.com/2026/08/11/nxp-frdm-imx95-pro-i-mx-95-board-features-10gbe-faster-6400-mt-s-lpddr5-memory-dual-m-2-expansion/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -82,7 +82,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-12 | RobotisSW/Pick_MultipleColorCan_WhiteShelf_byGrootModel_80K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_MultipleColorCan_WhiteShelf_byGrootModel_80K) |
 | 2026-08-12 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
 | 2026-08-12 | alakazam-robonet/so101-fd-worldmodel | 0 | 0 | [link](https://huggingface.co/alakazam-robonet/so101-fd-worldmodel) |
-| 2026-08-12 | nosuke113/parc2026-policy | 0 | 0 | [link](https://huggingface.co/nosuke113/parc2026-policy) |
+| 2026-08-12 | nosuke113/parc2026-policy | 0 | 1 | [link](https://huggingface.co/nosuke113/parc2026-policy) |
 | 2026-08-12 | litert-community/LFM2.5-Encoder-350M-Policy-Linter | 21 | 0 | [link](https://huggingface.co/litert-community/LFM2.5-Encoder-350M-Policy-Linter) |
 | 2026-08-12 | kdh8156/cosmos3-policy-n-all-geomap-robocasa50-bsz512-16k-mlxp | 0 | 0 | [link](https://huggingface.co/kdh8156/cosmos3-policy-n-all-geomap-robocasa50-bsz512-16k-mlxp) |
 | 2026-08-12 | s1eepypillow/task1_act_policy_chunk50_step15 | 0 | 0 | [link](https://huggingface.co/s1eepypillow/task1_act_policy_chunk50_step15) |
@@ -93,18 +93,19 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | Edgenesis/shifu | 1430 | Go | 572.1 | [link](https://github.com/Edgenesis/shifu) |
 | commaai/openpilot | 63387 | Python | 25354.9 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 13287 | Python | 5314.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13290 | Python | 5316.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| rerun-io/rerun | 11284 | Rust | 4513.7 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7883 | Python | 3153.3 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3866 | Rust | 1546.5 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 499 | HTML | 199.7 | [link](https://github.com/sou350121/VLA-Handbook) |
 | baidu-baige/LoongForge | 343 | Python | 137.3 | [link](https://github.com/baidu-baige/LoongForge) |
-| vllm-project/vllm-omni | 6051 | Python | 2420.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 6054 | Python | 2421.7 | [link](https://github.com/vllm-project/vllm-omni) |
 | inclusionAI/AWorld | 1218 | Python | 487.3 | [link](https://github.com/inclusionAI/AWorld) |
-| ROBOTIS-GIT/ai_worker | 163 | Python | 65.3 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-08-11 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcE5XeXdXbW9FbzVLanRUbjR1b25MTkpTYS1sWHdvWUZnQV8yLTUxeVUwTGJPcG5ZS2VkWmN2eHVsVzg0UUdtd1NBR0Iza0IySnlpWUdjMzUzX1R3Y1pTcEdfRkFEYmJZQXlFTk5TYXl5UFo1YkJ4RS1rSDFkUTVJckJZTEZVb09FN3pDN0hPTG1mc0F0aG4ySnNQS2kyamFiZjlNOFBZdjB2amYz?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzBWZTdYcGJBX2JBZ0hTaUpNc253STkzZDBISGYyeGRNTUhwaV95UUttenNuWlE0RGJaUFctMUZTYjluM1JuQ2Q3RGxzNXRSTFphcXRtV1dvVDQtSWFnOFZiUnZTaUwwMGktZjcwOXVLRzBVNG9fRjZiTXNVVXhRUW41OU8?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRzFpdHRwNlJtM1hDaDZlNXNuWW1iTmRCOUdGVUZKenFmSTh4Y2VZYU9xOW5mcHZ1Mjc5aDZMMU54YVN5TS1XcDdGYV9XZ1poaks0?oc=5) |
@@ -114,7 +115,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBrQWhpbzZHRmtfcHNqYWxvZ3htZm10OXFKdW9ZaEZmZDlRMzZaLUpJbkJDSGVWbnlPYWlTcUVjOTQ4YTlMNlBDVVdQb19GU1ZWRXZnYUxSSmlNNUc4Q09tNXRUQUxvOENwT0prd0dOa1Rja0RzX3c?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUk1Hd2d1WFRNOHpKUkJ0aGR4UE1RYnR0cFJZRVhZb0NkNWtUejlGVHpHcUtOVkNQS2d2ZXlCRnJMVmg0QlFfV3R5TGR0NzJCQ0xrbjVGcW91MDdwSEUxZTd0V2RDc29uMjkyYmxIRmtUdl9ja3VUMWZyMU1iUnZFWFZyM1p2ZzlpOGV3aGRfelVabFpjZXNIazYxYzNxWWQxLXNucjUxV29HakHSAbABQVVfeXFMTnJLeHg2MTNEVzRLVV8wYjFCdzl3clhjMjctX28yVU9sSzkyMHdLTDIzX3NVVUFpU3lFX3dVTENPVFViTlBwOUFsMVpqOFBnTHB2MWhwQ1RFejltRk44MmlmMUFIRGkwbFF5azVKYUdENDRjZTJNZmdsUk00NHdJajFiQXFZN0JiMEpyUng5bTh3Vl82a3N0M3FpYk01S1pmVk91OXA3LTlLbjI0dU82TFc?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzBJcnRzZ0xGcE5fanRrcmlXZGFYUG9WMDc0cFdNQmJCX2plV1h5anNuYk1zZVBKS1lpd29TSU5BS2ZMMWNobzhHUTVGdXhYMnRBcWx6cGwzdkVHaEJ1eGY5NlktVDdRZGZYRXU0MDV2LWh3aWFyanBnUWlUSlJoeTV2WkNzYXBMNFZua056aXBFeUI1RmtRcWgxTGR4a2pLYWpBbTRobC16dzQ0dkg3aVFTZ2lWTVVzTDlkSGp3Wlk2MHJ1Mi1HZFZPSUFlYnlx?oc=5) |
-| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWRuY0FETUdBUFY5SzQ2RjlWamlLNmZiTEttZnVfTjBrZmRpR3Y4a0dLaUNfRFZQX01RRkNCLVo3VG9ORUk5am02RUtkR19qeGdRY25WMEk0YV9lVllqX29pTzB4dUItakJpYnB5eUEtbjk5Ul9CNzFPS2hIMUhVbnd3?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
