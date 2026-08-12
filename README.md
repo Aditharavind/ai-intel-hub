@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-12 09:52 UTC
+Last Updated: 2026-08-12 10:47 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -61,7 +61,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-12 | New phase for O-RAN | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/new-phase-for-o-ran-2026-08/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-08-11 | Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning | [link](https://arxiv.org/pdf/2608.11204v1) |
+| 2026-08-11 | Risk-Aware Kinodynamic Motion Planning Under Uncertainty For Safe Navigation on Planetary Environments | [link](https://arxiv.org/pdf/2608.11175v1) |
+| 2026-08-11 | VIScore: Diagnosing Planning-Relevant Quality in Latent World Models | [link](https://arxiv.org/pdf/2608.11174v1) |
+| 2026-08-11 | SAR2Agri: Learning SAR Intensity Representations for Agricultural Monitoring | [link](https://arxiv.org/pdf/2608.11142v1) |
+| 2026-08-11 | Cross-View Feature Matching: Survey, Benchmarking, and Foundation-Model Perspectives | [link](https://arxiv.org/pdf/2608.11093v1) |
+| 2026-08-11 | Foundation Model-Enabled Efficient Data Sampling (FEEDS): A label-efficient training strategy for pan-cancer, multi-tracer PET/CT datasets | [link](https://arxiv.org/pdf/2608.11076v1) |
+| 2026-08-11 | Deployment Is Not Destiny: Robot Recomposition in the Field with Unseen Software, Hardware, and Compute Payloads | [link](https://arxiv.org/pdf/2608.11063v1) |
+| 2026-08-11 | HUI360: A 360° Egocentric Dataset and Baselines for Human-Robot Interaction Anticipation | [link](https://arxiv.org/pdf/2608.11051v1) |
+| 2026-08-11 | MAJEPPA: Morphing and Assessing in a Unified Piano Performance Space | [link](https://arxiv.org/pdf/2608.11026v1) |
+| 2026-08-11 | R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video | [link](https://arxiv.org/pdf/2608.11017v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
@@ -74,19 +85,19 @@ _No items collected yet._
 | 2026-08-12 | Icerm/gliner2-robot-multi-v11 | 0 | 0 | [link](https://huggingface.co/Icerm/gliner2-robot-multi-v11) |
 | 2026-08-12 | RobotisSW/Pick_MultipleColorCan_WhiteShelf_byGrootModel_100K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_MultipleColorCan_WhiteShelf_byGrootModel_100K) |
 | 2026-08-12 | RobotisSW/Pick_MultipleColorCan_WhiteShelf_byGrootModel_80K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_MultipleColorCan_WhiteShelf_byGrootModel_80K) |
-| 2026-08-12 | ISdept/wiltech-vla-moe-4k | 0 | 0 | [link](https://huggingface.co/ISdept/wiltech-vla-moe-4k) |
 | 2026-08-12 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
+| 2026-08-12 | mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-no-memory | 0 | 0 | [link](https://huggingface.co/mu-vla/mu-vla-openvla-oft-mikasa-robo-5-tasks-no-memory) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | Edgenesis/shifu | 1430 | Go | 572.1 | [link](https://github.com/Edgenesis/shifu) |
 | NVlabs/alpasim | 1172 | Python | 468.9 | [link](https://github.com/NVlabs/alpasim) |
-| commaai/openpilot | 63387 | Python | 25354.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63389 | Python | 25355.7 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16108 | Python | 6443.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15676 | C++ | 6270.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14527 | C++ | 5810.9 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13300 | Python | 5320.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13301 | Python | 5320.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11285 | Rust | 4514.1 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7885 | Python | 3154.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4516 | Python | 1806.5 | [link](https://github.com/RLinf/RLinf) |
