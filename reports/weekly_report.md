@@ -1,15 +1,15 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-12 00:46 UTC
+Generated: 2026-08-12 03:15 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-08-10 | Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning | [link](https://arxiv.org/pdf/2608.09926v1) |
-| 2026-08-10 | GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis | [link](https://arxiv.org/pdf/2608.09921v1) |
-| 2026-08-10 | Detecting Behavioral Changes in Python Refactoring Implementations with Foundation Models | [link](https://arxiv.org/pdf/2608.09919v1) |
-| 2026-08-10 | Consilience for Verifier-Free Test-Time Scaling | [link](https://arxiv.org/pdf/2608.09898v1) |
-| 2026-08-10 | Nascent Embedded-protostar Survey in Taurus (NEST) II: Measuring Dust Mass, Disk Size, and Gas Mass | [link](https://arxiv.org/pdf/2608.09896v1) |
+| 2026-08-11 | Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning | [link](https://arxiv.org/pdf/2608.11204v1) |
+| 2026-08-11 | Risk-Aware Kinodynamic Motion Planning Under Uncertainty For Safe Navigation on Planetary Environments | [link](https://arxiv.org/pdf/2608.11175v1) |
+| 2026-08-11 | VIScore: Diagnosing Planning-Relevant Quality in Latent World Models | [link](https://arxiv.org/pdf/2608.11174v1) |
+| 2026-08-11 | SAR2Agri: Learning SAR Intensity Representations for Agricultural Monitoring | [link](https://arxiv.org/pdf/2608.11142v1) |
+| 2026-08-11 | Cross-View Feature Matching: Survey, Benchmarking, and Foundation-Model Perspectives | [link](https://arxiv.org/pdf/2608.11093v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
@@ -17,8 +17,8 @@ Generated: 2026-08-12 00:46 UTC
 | commaai/openpilot | 63385 | 25354.1 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30284 | 12113.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16106 | 6442.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15673 | 6269.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| TianxingChen/Embodied-AI-Guide | 15376 | 6150.5 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
+| ArduPilot/ardupilot | 15674 | 6269.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| TianxingChen/Embodied-AI-Guide | 15380 | 6152.1 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -45,4 +45,4 @@ Generated: 2026-08-12 00:46 UTC
 | 2026-08-11 | NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlUtQnQyZ1F3eXZqd1ZVMlNSN0M2U21FZlhmMHp3YnowOUVlbWI2ZnVRdUhrWVJGNVlwOFdKMV9XRHktUXRmd2hMQlNsLVU0eHlwYm9CUmY2eU85U19WTlIyajFJWlF0SV9FTHNSelRLRkpsb3ZEMUxrVVBzLTZmUzJFU1VLSEtsMmpfc0REcHA3eGJ3QTI1Xy1ielNNTENLLTNKRXhiN1h6WWlES2QwREgyV2dKQmxQaDBWU0xjYjE1TWRzQXQyWDdzZ1ZVZw?oc=5) |
 | 2026-08-11 | Physical AI Awards: Apply for $150K in Compute - SynBioBeta | physical ai startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTkI2WjZla1Q3ejhYbkpGNF9YQm81b3dMZ2dleXVrZnZnZUlhM01JOXUxcVgyeU1BT2Nicm1wVHJZRTBEYTJKLW93SHdGSUhZY01QUTF2RDk4YTRuT0lsX2RldFAxeUVyLWE4dlY1elByY1VKcEZmSzR2Yl91bEhNYnN3?oc=5) |
 | 2026-08-11 | Eurobotics triples valuation as Korea robot boom fuels 40 billion won Series A - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTHAwb2JkOU5uOVlHdzhLWVljdGJJRnFqdU9jdFp4dWJ6TTZwR2tmeXNzZWV3V2Jial9zVU1vUnF1UlA5SC1mMlFaMWpoWDRoMkVqdnppNHBqQV82OEJRQmFuQlJ1Sm1pU1h4Zng4cHRPcnFTa0tQTmRRb0t0aXlJdNIBlAFBVV95cUxNblZ2bUJZYmNhaEpFYnVwUjlDMzBVU2k1VDZ6d09LdGthb0lWLXZya1U0Sm1HRmZoTVVLQkUwR0NFdDBUTUZ2ZG1UZWR2c084T3pKNy1oR2ZXS0V5UWZWcTk5d3BMZVEyUnA3b2VzN3duTG5kTlg2aEFiUlhYWXRVQzNjNUhUNGNITHlCdkVCeHpjOW9T?oc=5) |
-| 2026-08-11 | Ant Group Backs Hong Kong Robotics Startup Daimeng in New Funding - Asia Business Outlook | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0RNRTdBRTlNOHp0eEs3MUN2SGpPUTZtNWhBNmY1VGNsYmJzbjdxN3dsc1A3VUJPNm16VnczRTBFby1XM3RNLUJzT1pqanlRVUZnUmN1eHA3dXJtTmlyMi0zRjR1Ykxwb0VKNmk5RTIwSTg0VzUwb0NNQ0ZFRVlTdkFaRGRiRGZGVXpSRGN3N01IQlc5YXZ2bmlOYTc0VzRLQnZ3dl9RcTlwdjFpQUtJTGRNTDUtSVpLaVB3cFNZTQ?oc=5) |
+| 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
