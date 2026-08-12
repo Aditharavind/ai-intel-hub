@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-12 17:46 UTC
+Last Updated: 2026-08-12 18:42 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-12 | Read a USB Logitech Racing Wheel on an ESP32‑S3 | Hackaday | [link](https://hackaday.com/2026/08/12/read-a-usb-logitech-racing-wheel-on-an-esp32-s3/) |
 | 2026-08-12 | Procrastineers Rejoice! 2026 Supercon Call For Participation Extended | Hackaday | [link](https://hackaday.com/2026/08/12/procrastineers-rejoice-2026-supercon-call-for-participation-extended/) |
 | 2026-08-12 | Watch Today’s Eclipse at Home | Hackaday | [link](https://hackaday.com/2026/08/12/watch-todays-eclipse-at-home/) |
 | 2026-08-12 | Getting Back Into Resin Printing: First Results | Hackaday | [link](https://hackaday.com/2026/08/12/getting-back-into-resin-printing-first-results/) |
 | 2026-08-12 | 3 KB Solitaire Fits in QR-Code, Runs in DOS | Hackaday | [link](https://hackaday.com/2026/08/12/3-kb-solitaire-fits-in-qr-code-runs-in-dos/) |
 | 2026-08-12 | Lighting 3D Printed Parts on Fire for Science | Hackaday | [link](https://hackaday.com/2026/08/12/lighting-3d-printed-parts-on-fire-for-science/) |
 | 2026-08-12 | Titanic-esqe Telegraph Keeps Relationship Afloat | Hackaday | [link](https://hackaday.com/2026/08/11/titanic-esqe-telegraph-keeps-relationship-afloat/) |
-| 2026-08-12 | Is Manual Filament Tuning Still Worth It? | Hackaday | [link](https://hackaday.com/2026/08/11/is-manual-filament-tuning-still-worth-it/) |
 | 2026-08-12 | Apollo Automation launches $40 official ESPHome Starter Kit with ESP32-C6 board, four FPC modules | CNX Software | [link](https://www.cnx-software.com/2026/08/12/apollo-automation-official-esphome-starter-kit-with-esp32-c6-board-four-fpc-modules/) |
 | 2026-08-12 | Forlinx AM62L32 Local EVM – A low-power industrial SBC powered by TI’s AM62L32 Cortex-A53/M4F SoC | CNX Software | [link](https://www.cnx-software.com/2026/08/12/forlinx-am62l32-local-evm-a-low-power-industrial-sbc-ti-am62l32-cortex-a53-m4f-soc/) |
 | 2026-08-12 | MINISFORUM Elite Mini M2 Air-304 barebone Wildcat Lake mini PC sells for $263 | CNX Software | [link](https://www.cnx-software.com/2026/08/12/minisforum-elite-mini-m2-air-304-barebone-wildcat-lake-mini-pc/) |
@@ -92,7 +92,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 2873 | Python | 1149.3 | [link](https://github.com/NVIDIA/skills) |
-| Edgenesis/shifu | 1430 | Go | 572.1 | [link](https://github.com/Edgenesis/shifu) |
+| Edgenesis/shifu | 1431 | Go | 572.5 | [link](https://github.com/Edgenesis/shifu) |
 | NVlabs/alpasim | 1172 | Python | 468.9 | [link](https://github.com/NVlabs/alpasim) |
 | mosaico-labs/mosaico | 913 | Python | 365.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | RobotecAI/rai | 569 | Python | 227.7 | [link](https://github.com/RobotecAI/rai) |
@@ -100,7 +100,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | zauberzeug/nicegui | 16110 | Python | 6444.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15680 | C++ | 6272.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14530 | C++ | 5812.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13322 | Python | 5328.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13323 | Python | 5329.3 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

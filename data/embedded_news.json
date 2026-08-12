@@ -1,5 +1,12 @@
 [
   {
+    "title": "Read a USB Logitech Racing Wheel on an ESP32‑S3",
+    "source": "Hackaday",
+    "date": "2026-08-12",
+    "url": "https://hackaday.com/2026/08/12/read-a-usb-logitech-racing-wheel-on-an-esp32-s3/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"344\" src=\"https://hackaday.com/wp-content/uploads/2026/08/logiwheelhost_overview_github.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Now that MCUs like the ESP32-S3 are quite capable computer systems including USB host functionality, it only makes sense that you can connect USB peripherals like Logitech racing wheels to <a class=\"read-more\" href=\"https://hackaday.com/2026/08/12/read-a-usb-logitech-racing-wheel-on-an-esp32-s3/\">&#8230;read more</a>"
+  },
+  {
     "title": "Procrastineers Rejoice! 2026 Supercon Call For Participation Extended",
     "source": "Hackaday",
     "date": "2026-08-12",
@@ -42,13 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/marrage-telegraph-2.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When people say the key to a happy, long-lasting marriage is communication, they generally mean the verbal kind: talking things out with your spouse, sharing your feelings, and all that <a class=\"read-more\" href=\"https://hackaday.com/2026/08/11/titanic-esqe-telegraph-keeps-relationship-afloat/\">&#8230;read more</a>"
   },
   {
-    "title": "Is Manual Filament Tuning Still Worth It?",
-    "source": "Hackaday",
-    "date": "2026-08-12",
-    "url": "https://hackaday.com/2026/08/11/is-manual-filament-tuning-still-worth-it/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"444\" src=\"https://hackaday.com/wp-content/uploads/2026/08/print_comparison_slicer_profiles_mandicreally_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In this era of consumer-grade FDM printers that have automatic bed levelling, automatic pressure advance tuning, automatic temperature regulation and so on buttoned away behind bullet-proof presets and automation, something <a class=\"read-more\" href=\"https://hackaday.com/2026/08/11/is-manual-filament-tuning-still-worth-it/\">&#8230;read more</a>"
-  },
-  {
     "title": "Apollo Automation launches $40 official ESPHome Starter Kit with ESP32-C6 board, four FPC modules",
     "source": "CNX Software",
     "date": "2026-08-12",
@@ -68,6 +68,13 @@
     "date": "2026-08-12",
     "url": "https://www.cnx-software.com/2026/08/12/minisforum-elite-mini-m2-air-304-barebone-wildcat-lake-mini-pc/",
     "summary": "<div><img alt=\"MINISFORUM Elite Mini M2 Air 304\" class=\"attachment-medium size-medium wp-post-image\" height=\"491\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/MINISFORUM-Elite-Mini-M2-Air-304-720x491.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>MINISFORUM Elite Mini M2 Air-304 is a barebone mini PC powered by an Intel Core 3 304 Wildcat Lake penta-core processor with a DDR5 SO-DIMM slot and an M.2 PCIe Gen4 x4 socket for NVMe SSD storage. There&#8217;s currently a limited number of Wildcat Lake mini PCs which you can purchase or pre-order, such as the Beelink EQi Wildcat Lake and the BOSGAME E6 Eco. These are ready to use out of the box with memory, storage, and Windows 11 pre-loaded. The MINISFORUM model is the first Wildcat Lake barebone mini PC we&#8217;ve seen, where users can bring their own memory, storage, and OS. MINISFORUM Elite Mini M2 Air-304 specifications: SoC – Intel Core 3 304 “Wildcat Lake” 5-core CPU – 1x P-core @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) Cache – 6MB L3 cache GPU – 1-core Intel Xe3 Graphics @ 2.3 GHz (9 TOPS) [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/12/minisforum-elite-mini-m2-air-304-barebone-wildcat-lake-mini-pc/\">MINISFORUM Elite Mini M2 Air-304 barebone Wildcat Lake mini PC sells for $263</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "TI Unveils CAN XL Transceiver",
+    "source": "Embedded.com",
+    "date": "2026-08-12",
+    "url": "https://www.embedded.com/ti-unveils-can-xl-transceiver/",
+    "summary": "<p>Texas Instruments (TI) has claimed the industry's first commercially-available controller area network (CAN) extended data-field length (XL) transceiver for industrial systems including humanoid robots, industrial robots, and HMI systems that require more data at faster speeds. The TCAN6062 CAN XL transceiver supports payloads up to 2,048 bytes per frame and data rates as high as [...]</p>\n<p>The post <a href=\"https://www.embedded.com/ti-unveils-can-xl-transceiver/\">TI Unveils CAN XL Transceiver</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "Microchip Upgrades PolarFire FPGA Ethernet Sensor Bridge",
@@ -145,6 +152,20 @@
     "date": "2026-08-12",
     "url": "https://www.electronicsweekly.com/news/business/mikroe-2-2026-08/",
     "summary": "<p>MIKROE’s multi-architecture IDE, NECTO Studio, now supports over 10,000+ MCUs from 12 different vendors. This means that embedded developers can now easily trial around half of the different MCU variants [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/mikroe-2-2026-08/\">Mikroe supports 10k MCU types</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Alien Typeframe PS-85 cyberdeck – The Raspberry Pi Official Magazine, Issue 167 @rpimagazine",
+    "source": "Adafruit",
+    "date": "2026-08-12",
+    "url": "https://blog.adafruit.com/2026/08/12/alien-typeframe-ps-85-cyberdeck-the-raspberry-pi-official-magazine-issue-167-rpimagazine/",
+    "summary": "The Raspberry Pi Official Magazine – Issue 168 shows the Alien Typeframe PS-85 cyberdeck by Jeff Merrick: Starting with a set of Semiotic Symbols keycaps based on Ron Cobb’s futuristic symbols in Alien, cosplayer Jeff set about creating a cyberdeck inspired by the typewriter-like 1985 Epson PX-4 computer. For the Raspberry Pi 4-based design Jeff [&#8230;]"
+  },
+  {
+    "title": "The Raspberry Pi Official Magazine – Issue 168: Cyberdeck Projects @rpimagazine",
+    "source": "Adafruit",
+    "date": "2026-08-12",
+    "url": "https://blog.adafruit.com/2026/08/12/the-raspberry-pi-official-magazine-issue-168-cyberdeck-projects-rpimagazine/",
+    "summary": "The Raspberry Pi Official Magazine – Issue 168: Cyberdeck Projects In this issue: We love customising our computer setups – and anything else – so we’re thrilled to find that the cyberdeck has well and truly taken off. These portable, hackable, low-tech computers are the ultimate home-made computers, with each one serving a need (or a [&#8230;]"
   },
   {
     "title": "JP’s Product Pick of the Week 8/11/26 Adafruit FT232H Breakout – USB to GPIO/SPI/I2C",
@@ -266,13 +287,6 @@
     "summary": "image of The Last Museum &#160; The Last Museum is an absolutely massive museum art search engine with the goal to &#8220;index all museum art in the world&#8221;. Much of the art we index is in the public domain. Where works are still under copyright, we show them in accordance with fair use Get searching! [&#8230;]"
   },
   {
-    "title": "The Coldcard postmortem from MicroPython’s perspective",
-    "source": "Adafruit",
-    "date": "2026-08-11",
-    "url": "https://blog.adafruit.com/2026/08/11/the-coldcard-postmortem-from-micropythons-perspective/",
-    "summary": "Damien George, MicroPython&#8217;s creator, writes on the MicroPython discussion on GitHub: Coldcard is a Bitcoin hardware wallet, and it&#8217;s firmware is built using MicroPython. (Trezor is another hardware wallet also using MicroPython, but it&#8217;s not relevant here and not discussed further.) Recently a vulnerability in the Coldcard firmware was exploited to steal over $100M worth [&#8230;]"
-  },
-  {
     "title": "Build Your AI Robot Application on Day One with Advantech — Advantech and Mouser Electronics",
     "source": "EE Journal",
     "date": "2026-08-11",
@@ -343,13 +357,6 @@
     "summary": "<div><img alt=\"ThinkNode M9 MeshCore Communication Terminal\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/ThinkNode-M9-MeshCore-Communication-Terminal-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Elecrow ThinkNode M9 is a standalone LoRa terminal that runs MeshCore firmware and features a QWERTY keyboard, color display, GPS, LoRa connectivity, and a 2,300mAh battery, making it suitable for outdoor and emergency communication. The device is built around an ESP32-S3R8 and a Semtech LR1110 LoRa module supporting US915 and EU868 frequencies, while the esp32-s3 adds Wi-Fi 4 and Bluetooth 5.0/BLE connectivity. Additionally, it features a 2.4-inch 240 × 320 TFT LCD, a 37-key physical QWERTY keyboard, GPS/GNSS support, plus a magnetic compass for navigation and location sharing. Other features include a USB-C port for charging and programming, RTC, buzzer, built-in antennas, and a 2,300mAh/3.8V Li-Po battery rated for up to 2–3 days in standby. The M9 targets outdoor exploration, emergency and disaster communication, remote operations, scientific research, and offline community or privacy-focused communication. ThinkNode M9 specifications: SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/10/elecrow-thinknode-m9-a-standalone-esp32-s3-meshcore-communication-terminal-with-color-lcd-qwerty-keyboard/\">Elecrow ThinkNode M9 &#8211; A standalone ESP32-S3 MeshCore communication terminal with color LCD, QWERTY keyboard</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "ICYMI Python on Microcontrollers Newsletter: MicroPython for the bao, CircuitPython Day Soon, Coldcard and More!",
-    "source": "Adafruit",
-    "date": "2026-08-10",
-    "url": "https://blog.adafruit.com/2026/08/10/icymi-python-on-microcontrollers-newsletter-micropython-for-the-bao-circuitpython-day-soon-coldcard-and-more/",
-    "summary": "If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,386 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep [&#8230;]"
-  },
-  {
     "title": "Infineon collaborates with MediaTek to enable future automotive smart cockpit solutions",
     "source": "EE Journal",
     "date": "2026-08-10",
@@ -418,12 +425,5 @@
     "date": "2026-08-05",
     "url": "https://www.embedded.com/samsung-advances-ai-memory-with-new-3d-architecture/",
     "summary": "<p>Samsung Electronics presented its latest memory technologies and long-term roadmap for AI infrastructure at the Future of Memory and Storage (FMS) 2026 conference, introducing new 3D memory concepts with advances in high-bandwidth memory (HBM), NAND flash, and enterprise storage. The announcements reflect the company's strategy of improving memory bandwidth, density, and energy efficiency to support [...]</p>\n<p>The post <a href=\"https://www.embedded.com/samsung-advances-ai-memory-with-new-3d-architecture/\">Samsung Advances AI Memory with New 3D Architecture</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Silicon Labs Delivers its Lowest-Power Bluetooth LE SoC",
-    "source": "Embedded.com",
-    "date": "2026-08-05",
-    "url": "https://www.embedded.com/silicon-labs-delivers-its-lowest-power-bluetooth-le-soc/",
-    "summary": "<p>The BG2B Bluetooth LE wireless SoC delivers high power efficiency, security, and integration.</p>\n<p>The post <a href=\"https://www.embedded.com/silicon-labs-delivers-its-lowest-power-bluetooth-le-soc/\">Silicon Labs Delivers its Lowest-Power Bluetooth LE SoC</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
