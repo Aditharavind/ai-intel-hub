@@ -1,23 +1,63 @@
 [
   {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7882,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-08-12",
+    "topic": "robot-learning",
+    "score": 3152.9
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3866,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-08-12",
+    "topic": "embodied-ai",
+    "score": 1546.5
+  },
+  {
+    "repo": "vllm-project/vllm-omni",
+    "stars": 6045,
+    "language": "Python",
+    "description": "A framework for efficient model inference with omni-modality models",
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "date": "2026-08-12",
+    "topic": "world-model",
+    "score": 2418.1
+  },
+  {
     "repo": "NVIDIA/skills",
-    "stars": 2856,
+    "stars": 2858,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-11",
     "topic": "physical-ai",
-    "score": 1142.5
+    "score": 1143.3
   },
   {
     "repo": "NVlabs/alpasim",
-    "stars": 1169,
+    "stars": 1170,
     "language": "Python",
     "description": "AlpaSim is an open-source autonomous vehicle simulation platform designed for development and testing of end-to-end AV policies",
     "url": "https://github.com/NVlabs/alpasim",
     "date": "2026-08-11",
     "topic": "physical-ai",
-    "score": 467.7
+    "score": 468.1
+  },
+  {
+    "repo": "awslabs/awsome-distributed-ai",
+    "stars": 469,
+    "language": "Shell",
+    "description": "Collection of best practices, reference architectures, model training examples and utilities to train large models on AWS. ",
+    "url": "https://github.com/awslabs/awsome-distributed-ai",
+    "date": "2026-08-11",
+    "topic": "physical-ai",
+    "score": 187.7
   },
   {
     "repo": "commaai/openpilot",
@@ -41,23 +81,23 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15671,
+    "stars": 15673,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-11",
     "topic": "robotics",
-    "score": 6268.5
+    "score": 6269.3
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13272,
+    "stars": 13274,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-11",
     "topic": "robotics",
-    "score": 5308.9
+    "score": 5309.7
   },
   {
     "repo": "kornia/kornia",
@@ -80,34 +120,14 @@
     "score": 4513.3
   },
   {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7882,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-08-11",
-    "topic": "robot-learning",
-    "score": 3152.9
-  },
-  {
     "repo": "RLinf/RLinf",
-    "stars": 4511,
+    "stars": 4512,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-11",
     "topic": "embodied-ai",
-    "score": 1804.5
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3866,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-08-11",
-    "topic": "embodied-ai",
-    "score": 1546.5
+    "score": 1804.9
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
@@ -178,16 +198,6 @@
     "date": "2026-08-11",
     "topic": "robot-learning",
     "score": 124.9
-  },
-  {
-    "repo": "vllm-project/vllm-omni",
-    "stars": 6042,
-    "language": "Python",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "url": "https://github.com/vllm-project/vllm-omni",
-    "date": "2026-08-11",
-    "topic": "world-model",
-    "score": 2416.9
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -281,43 +291,43 @@
   },
   {
     "repo": "mosaico-labs/mosaico",
-    "stars": 904,
+    "stars": 905,
     "language": "Python",
     "description": "Mosaico - The data platform for Physical AI",
     "url": "https://github.com/mosaico-labs/mosaico",
     "date": "2026-08-10",
     "topic": "physical-ai",
-    "score": 361.7
+    "score": 362.1
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30283,
+    "stars": 30284,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-08-10",
     "topic": "robotics",
-    "score": 12113.3
+    "score": 12113.7
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14521,
+    "stars": 14522,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-10",
     "topic": "robotics",
-    "score": 5808.5
+    "score": 5808.9
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2715,
+    "stars": 2716,
     "language": "Python",
     "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-08-10",
     "topic": "embodied-ai",
-    "score": 1086.1
+    "score": 1086.5
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -390,16 +400,6 @@
     "score": 252.5
   },
   {
-    "repo": "awslabs/awsome-distributed-ai",
-    "stars": 469,
-    "language": "Shell",
-    "description": "Collection of best practices, reference architectures, model training examples and utilities to train large models on AWS. ",
-    "url": "https://github.com/awslabs/awsome-distributed-ai",
-    "date": "2026-08-08",
-    "topic": "physical-ai",
-    "score": 187.7
-  },
-  {
     "repo": "alireza787b/mavsdk_drone_show",
     "stars": 311,
     "language": "Python",
@@ -411,13 +411,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3095,
+    "stars": 3096,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1238.1
+    "score": 1238.5
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -431,13 +431,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2228,
+    "stars": 2229,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-07",
     "topic": "robot-learning",
-    "score": 891.3
+    "score": 891.7
   },
   {
     "repo": "thanhndv212/figaroh-plus",

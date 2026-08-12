@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-11 23:27 UTC
+Last Updated: 2026-08-12 00:46 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-12 | Top Ten (less 5) PC Companies In Q2 | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-pc-companies-in-q2-2-2026-08/) |
 | 2026-08-11 | Fixing a Dead Makita Battery with a 20 Cent Part | Hackaday | [link](https://hackaday.com/2026/08/11/fixing-a-dead-makita-battery-with-a-20-cent-part/) |
 | 2026-08-11 | Splitting a Ball Bearing to Cut Out Backlash | Hackaday | [link](https://hackaday.com/2026/08/11/splitting-a-ball-bearing-to-cut-out-backlash/) |
 | 2026-08-11 | Turning a Toy Game Boy into a Real Game Boy | Hackaday | [link](https://hackaday.com/2026/08/11/turning-a-toy-game-boy-into-a-real-game-boy/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | The Code The British Government Doesn’t Want You To See (Any More) | Hackaday | [link](https://hackaday.com/2026/08/11/the-code-the-british-government-doesnt-want-you-to-see-any-more/) |
 | 2026-08-11 | NXP FRDM-IMX95-PRO i.MX 95 board features 10GbE, faster 6400 MT/s LPDDR5 memory, dual M.2 expansion | CNX Software | [link](https://www.cnx-software.com/2026/08/11/nxp-frdm-imx95-pro-i-mx-95-board-features-10gbe-faster-6400-mt-s-lpddr5-memory-dual-m-2-expansion/) |
 | 2026-08-11 | GEEKOM IT13 Max review – Part 2: An Intel Core Ultra 9 185H mini PC tested with Windows 11 Pro (in 2026) | CNX Software | [link](https://www.cnx-software.com/2026/08/11/geekom-it13-max-review-part-2-an-intel-core-ultra-9-185h-mini-pc-tested-with-windows-11-pro-in-2026/) |
-| 2026-08-11 | PewCB One Desktop PCB fabrication system enables rapid prototyping at home | CNX Software | [link](https://www.cnx-software.com/2026/08/11/pewcb-one-desktop-pcb-fabrication-system-enables-rapid-prototyping-at-home/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,36 +77,36 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-08-11 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-08-12 | a5ilank/curious-robot | 0 | 1 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-08-12 | RobotisSW/Pick_MultipleColorCan_WhiteShelf_byGrootModel_100K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_MultipleColorCan_WhiteShelf_byGrootModel_100K) |
+| 2026-08-12 | RobotisSW/Pick_MultipleColorCan_WhiteShelf_byGrootModel_80K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_MultipleColorCan_WhiteShelf_byGrootModel_80K) |
+| 2026-08-12 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
+| 2026-08-12 | nosuke113/parc2026-policy | 0 | 0 | [link](https://huggingface.co/nosuke113/parc2026-policy) |
 | 2026-08-11 | qualia-robotics/smolvla-so101-candy-200ep-bs32-20k-s42-786bfd6b | 0 | 0 | [link](https://huggingface.co/qualia-robotics/smolvla-so101-candy-200ep-bs32-20k-s42-786bfd6b) |
 | 2026-08-11 | locht131/gr00t_fa_robotwin_2hand_quat_4_tasks_thirdview_s10k_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_4_tasks_thirdview_s10k_bs64) |
 | 2026-08-11 | qualia-robotics/smolvla-smolvla-liftcube-franka-200-a0518875 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/smolvla-smolvla-liftcube-franka-200-a0518875) |
 | 2026-08-11 | locht131/gr00t_robotwin_2hand_quat_4_tasks_thirdview_s10k_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_robotwin_2hand_quat_4_tasks_thirdview_s10k_bs64) |
 | 2026-08-11 | Roboterr/pi05-4xJrD6TomxRp | 0 | 0 | [link](https://huggingface.co/Roboterr/pi05-4xJrD6TomxRp) |
-| 2026-08-11 | locht131/gr00t_fa_robotwin_2hand_quat_4_tasks_s10k_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_4_tasks_s10k_bs64) |
-| 2026-08-11 | lerobot/hy_vla_robotwin | 34 | 2 | [link](https://huggingface.co/lerobot/hy_vla_robotwin) |
-| 2026-08-11 | RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_lerobot_30K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_lerobot_30K) |
-| 2026-08-11 | maxs11/robot11 | 0 | 0 | [link](https://huggingface.co/maxs11/robot11) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2856 | Python | 1142.5 | [link](https://github.com/NVIDIA/skills) |
-| NVlabs/alpasim | 1169 | Python | 467.7 | [link](https://github.com/NVlabs/alpasim) |
+| isaac-sim/IsaacLab | 7882 | Python | 3152.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| dora-rs/dora | 3866 | Rust | 1546.5 | [link](https://github.com/dora-rs/dora) |
+| vllm-project/vllm-omni | 6045 | Python | 2418.1 | [link](https://github.com/vllm-project/vllm-omni) |
+| NVIDIA/skills | 2858 | Python | 1143.3 | [link](https://github.com/NVIDIA/skills) |
+| NVlabs/alpasim | 1170 | Python | 468.1 | [link](https://github.com/NVlabs/alpasim) |
+| awslabs/awsome-distributed-ai | 469 | Shell | 187.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63385 | Python | 25354.1 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16106 | Python | 6442.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15671 | C++ | 6268.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13272 | Python | 5308.9 | [link](https://github.com/earthtojake/text-to-cad) |
-| kornia/kornia | 11313 | Python | 4525.3 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11283 | Rust | 4513.3 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7882 | Python | 3152.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4511 | Python | 1804.5 | [link](https://github.com/RLinf/RLinf) |
+| ArduPilot/ardupilot | 15673 | C++ | 6269.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| earthtojake/text-to-cad | 13274 | Python | 5309.7 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
-| 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzBWZTdYcGJBX2JBZ0hTaUpNc253STkzZDBISGYyeGRNTUhwaV95UUttenNuWlE0RGJaUFctMUZTYjluM1JuQ2Q3RGxzNXRSTFphcXRtV1dvVDQtSWFnOFZiUnZTaUwwMGktZjcwOXVLRzBVNG9fRjZiTXNVVXhRUW41OU8?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcE5XeXdXbW9FbzVLanRUbjR1b25MTkpTYS1sWHdvWUZnQV8yLTUxeVUwTGJPcG5ZS2VkWmN2eHVsVzg0UUdtd1NBR0Iza0IySnlpWUdjMzUzX1R3Y1pTcEdfRkFEYmJZQXlFTk5TYXl5UFo1YkJ4RS1rSDFkUTVJckJZTEZVb09FN3pDN0hPTG1mc0F0aG4ySnNQS2kyamFiZjlNOFBZdjB2amYz?oc=5) |
+| 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzBWZTdYcGJBX2JBZ0hTaUpNc253STkzZDBISGYyeGRNTUhwaV95UUttenNuWlE0RGJaUFctMUZTYjluM1JuQ2Q3RGxzNXRSTFphcXRtV1dvVDQtSWFnOFZiUnZTaUwwMGktZjcwOXVLRzBVNG9fRjZiTXNVVXhRUW41OU8?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRzFpdHRwNlJtM1hDaDZlNXNuWW1iTmRCOUdGVUZKenFmSTh4Y2VZYU9xOW5mcHZ1Mjc5aDZMMU54YVN5TS1XcDdGYV9XZ1poaks0?oc=5) |
 | 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxONEdLRklEMWlxUlUyeW96WW81VldYQW1JTlk2bHEweFpjYkdfcGVmOFRPcC03NnpnSmhib3NoekJrcWVwM2pkRWF0aHQ2TmxmNm5UVk5RY2lxSjFUeHRkQjJMbVUyWHNKQ3d5Unctd0pZSTNxeEdPVzVxTnVQejFjNTZkeTZ0WmZ5YXd0VDFCUVpFSkhWU3FCb3FVODFGR1VCMXppamtnbXVjX25GalNHMjBndnFLWTQxZjJwaWEtMGlIVW5CanZVcVh4RHoxT3AwQ0EwMTZfUnFpZE4zcUh5U3JPVUI2OVZ3TDZYYg?oc=5) |
 | 2026-08-09 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53c25TTmNSX3pwQXZLajd4Wm8xUHB6MklTRUk0TVYtQl9tUFBoTzZ3YktKMWRCZzJxd0VkVW9JZXFwaVVSb0l3TUM2bFRiWGdUVVZTVGZn?oc=5) |
