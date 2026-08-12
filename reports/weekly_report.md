@@ -1,23 +1,17 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-12 14:09 UTC
+Generated: 2026-08-12 15:46 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-08-11 | Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning | [link](https://arxiv.org/pdf/2608.11204v1) |
-| 2026-08-11 | Risk-Aware Kinodynamic Motion Planning Under Uncertainty For Safe Navigation on Planetary Environments | [link](https://arxiv.org/pdf/2608.11175v1) |
-| 2026-08-11 | VIScore: Diagnosing Planning-Relevant Quality in Latent World Models | [link](https://arxiv.org/pdf/2608.11174v1) |
-| 2026-08-11 | SAR2Agri: Learning SAR Intensity Representations for Agricultural Monitoring | [link](https://arxiv.org/pdf/2608.11142v1) |
-| 2026-08-11 | Cross-View Feature Matching: Survey, Benchmarking, and Foundation-Model Perspectives | [link](https://arxiv.org/pdf/2608.11093v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63391 | 25356.5 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30290 | 12116.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16108 | 6443.3 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15677 | 6270.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 63392 | 25356.9 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30291 | 12116.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16110 | 6444.1 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15679 | 6271.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | TianxingChen/Embodied-AI-Guide | 15396 | 6158.5 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
