@@ -2,11 +2,47 @@
   {
     "model": "a5ilank/curious-robot",
     "downloads": 0,
-    "likes": 1,
+    "likes": 2,
     "url": "https://huggingface.co/a5ilank/curious-robot",
     "date": "2026-08-12",
     "keyword": "robot",
+    "score": 0.5
+  },
+  {
+    "model": "D-Robotics/LocateAnything-3B-HBM-BPU",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/D-Robotics/LocateAnything-3B-HBM-BPU",
+    "date": "2026-08-12",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "Shiki42/pi05-robotwin-place-dual-shoes-full-bf16-train50-val3-s42-r3-20260812",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/Shiki42/pi05-robotwin-place-dual-shoes-full-bf16-train50-val3-s42-r3-20260812",
+    "date": "2026-08-12",
+    "keyword": "robot",
     "score": 0.3
+  },
+  {
+    "model": "Shiki42/pi05-robotwin-scan-object-full-bf16-train50-val3-s42-r2-20260811",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Shiki42/pi05-robotwin-scan-object-full-bf16-train50-val3-s42-r2-20260811",
+    "date": "2026-08-12",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Icerm/gliner2-robot-multi-v11",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Icerm/gliner2-robot-multi-v11",
+    "date": "2026-08-12",
+    "keyword": "robot",
+    "score": 0.1
   },
   {
     "model": "RobotisSW/Pick_MultipleColorCan_WhiteShelf_byGrootModel_100K",
@@ -52,6 +88,15 @@
     "date": "2026-08-12",
     "keyword": "policy",
     "score": 0.3
+  },
+  {
+    "model": "kdh8156/cosmos3-policy-n-depthmap-robocasa50-bsz512-16k-mlxp",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kdh8156/cosmos3-policy-n-depthmap-robocasa50-bsz512-16k-mlxp",
+    "date": "2026-08-12",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "litert-community/LFM2.5-Encoder-350M-Policy-Linter",
@@ -144,42 +189,6 @@
     "score": 0.1
   },
   {
-    "model": "locht131/gr00t_fa_robotwin_2hand_quat_4_tasks_s10k_bs64",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/locht131/gr00t_fa_robotwin_2hand_quat_4_tasks_s10k_bs64",
-    "date": "2026-08-11",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "lerobot/hy_vla_robotwin",
-    "downloads": 34,
-    "likes": 2,
-    "url": "https://huggingface.co/lerobot/hy_vla_robotwin",
-    "date": "2026-08-11",
-    "keyword": "vla",
-    "score": 10.7
-  },
-  {
-    "model": "RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_lerobot_30K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task373_Task379_Pick_GreenCoffeeCan_WhiteShelf_lerobot_30K",
-    "date": "2026-08-11",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "maxs11/robot11",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/maxs11/robot11",
-    "date": "2026-08-11",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "sam-guided-vlas/train_1_2__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -243,6 +252,15 @@
     "score": 0.1
   },
   {
+    "model": "lerobot/hy_vla_robotwin",
+    "downloads": 34,
+    "likes": 2,
+    "url": "https://huggingface.co/lerobot/hy_vla_robotwin",
+    "date": "2026-08-11",
+    "keyword": "vla",
+    "score": 10.7
+  },
+  {
     "model": "lerobot/hy_vla_umi",
     "downloads": 56,
     "likes": 3,
@@ -267,15 +285,6 @@
     "url": "https://huggingface.co/justintiensmith/molmoact2_VLA_Reasoning_Training_Dataset_1200",
     "date": "2026-08-11",
     "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "kdh8156/cosmos3-policy-n-depthmap-robocasa50-bsz512-16k-mlxp",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kdh8156/cosmos3-policy-n-depthmap-robocasa50-bsz512-16k-mlxp",
-    "date": "2026-08-11",
-    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -583,15 +592,6 @@
     "date": "2026-08-01",
     "keyword": "robotics",
     "score": 10.3
-  },
-  {
-    "model": "access-robotics-team/so-p5-ft-ma-100-260801",
-    "downloads": 26,
-    "likes": 0,
-    "url": "https://huggingface.co/access-robotics-team/so-p5-ft-ma-100-260801",
-    "date": "2026-08-01",
-    "keyword": "robotics",
-    "score": 7.9
   },
   {
     "model": "jzcan/EmbodiedDF-diffusion",
