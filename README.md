@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-12 03:15 UTC
+Last Updated: 2026-08-12 05:21 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-12 | Titanic-esqe Telegraph Keeps Relationship Afloat | Hackaday | [link](https://hackaday.com/2026/08/11/titanic-esqe-telegraph-keeps-relationship-afloat/) |
 | 2026-08-12 | Is Manual Filament Tuning Still Worth It? | Hackaday | [link](https://hackaday.com/2026/08/11/is-manual-filament-tuning-still-worth-it/) |
 | 2026-08-12 | MINISFORUM Elite Mini M2 Air-304 barebone Wildcat Lake mini PC sells for $263 | CNX Software | [link](https://www.cnx-software.com/2026/08/12/minisforum-elite-mini-m2-air-304-barebone-wildcat-lake-mini-pc/) |
+| 2026-08-12 | Top Ten (less 5) PC Companies In Q2 | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-pc-companies-in-q2-2-2026-08/) |
 | 2026-08-11 | Fixing a Dead Makita Battery with a 20 Cent Part | Hackaday | [link](https://hackaday.com/2026/08/11/fixing-a-dead-makita-battery-with-a-20-cent-part/) |
 | 2026-08-11 | Splitting a Ball Bearing to Cut Out Backlash | Hackaday | [link](https://hackaday.com/2026/08/11/splitting-a-ball-bearing-to-cut-out-backlash/) |
 | 2026-08-11 | Turning a Toy Game Boy into a Real Game Boy | Hackaday | [link](https://hackaday.com/2026/08/11/turning-a-toy-game-boy-into-a-real-game-boy/) |
 | 2026-08-11 | The PC OS That Would Have Blown Your Mind Back In 1984 | Hackaday | [link](https://hackaday.com/2026/08/11/the-pc-os-that-would-have-blown-your-mind-back-in-1984/) |
 | 2026-08-11 | PC-1: The 1954 Computer with no Tubes, Relays, or Transistors | Hackaday | [link](https://hackaday.com/2026/08/11/pc-1-the-1954-computer-with-no-tubes-relays-or-transistors/) |
-| 2026-08-11 | Running DOOM on a Cheap 104-in-One Handheld | Hackaday | [link](https://hackaday.com/2026/08/11/running-doom-on-a-cheap-104-in-one-handheld/) |
 | 2026-08-11 | NXP FRDM-IMX95-PRO i.MX 95 board features 10GbE, faster 6400 MT/s LPDDR5 memory, dual M.2 expansion | CNX Software | [link](https://www.cnx-software.com/2026/08/11/nxp-frdm-imx95-pro-i-mx-95-board-features-10gbe-faster-6400-mt-s-lpddr5-memory-dual-m-2-expansion/) |
-| 2026-08-11 | GEEKOM IT13 Max review – Part 2: An Intel Core Ultra 9 185H mini PC tested with Windows 11 Pro (in 2026) | CNX Software | [link](https://www.cnx-software.com/2026/08/11/geekom-it13-max-review-part-2-an-intel-core-ultra-9-185h-mini-pc-tested-with-windows-11-pro-in-2026/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -83,24 +83,24 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-12 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
 | 2026-08-12 | alakazam-robonet/so101-fd-worldmodel | 0 | 0 | [link](https://huggingface.co/alakazam-robonet/so101-fd-worldmodel) |
 | 2026-08-12 | nosuke113/parc2026-policy | 0 | 0 | [link](https://huggingface.co/nosuke113/parc2026-policy) |
+| 2026-08-12 | litert-community/LFM2.5-Encoder-350M-Policy-Linter | 21 | 0 | [link](https://huggingface.co/litert-community/LFM2.5-Encoder-350M-Policy-Linter) |
+| 2026-08-12 | kdh8156/cosmos3-policy-n-all-geomap-robocasa50-bsz512-16k-mlxp | 0 | 0 | [link](https://huggingface.co/kdh8156/cosmos3-policy-n-all-geomap-robocasa50-bsz512-16k-mlxp) |
 | 2026-08-12 | s1eepypillow/task1_act_policy_chunk50_step15 | 0 | 0 | [link](https://huggingface.co/s1eepypillow/task1_act_policy_chunk50_step15) |
 | 2026-08-12 | hiskiv/cosmos-policy-lam-v2 | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam-v2) |
-| 2026-08-12 | zzh2026/pick_cube_v1_policy | 0 | 0 | [link](https://huggingface.co/zzh2026/pick_cube_v1_policy) |
-| 2026-08-11 | qualia-robotics/smolvla-so101-candy-200ep-bs32-20k-s42-786bfd6b | 0 | 0 | [link](https://huggingface.co/qualia-robotics/smolvla-so101-candy-200ep-bs32-20k-s42-786bfd6b) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 63385 | Python | 25354.1 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 13284 | Python | 5313.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| Edgenesis/shifu | 1430 | Go | 572.1 | [link](https://github.com/Edgenesis/shifu) |
+| commaai/openpilot | 63387 | Python | 25354.9 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 13287 | Python | 5314.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | isaac-sim/IsaacLab | 7883 | Python | 3153.3 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3866 | Rust | 1546.5 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 499 | HTML | 199.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 6048 | Python | 2419.3 | [link](https://github.com/vllm-project/vllm-omni) |
+| baidu-baige/LoongForge | 343 | Python | 137.3 | [link](https://github.com/baidu-baige/LoongForge) |
+| vllm-project/vllm-omni | 6051 | Python | 2420.5 | [link](https://github.com/vllm-project/vllm-omni) |
 | inclusionAI/AWorld | 1218 | Python | 487.3 | [link](https://github.com/inclusionAI/AWorld) |
 | ROBOTIS-GIT/ai_worker | 163 | Python | 65.3 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| NVIDIA/skills | 2859 | Python | 1143.7 | [link](https://github.com/NVIDIA/skills) |
-| NVlabs/alpasim | 1171 | Python | 468.5 | [link](https://github.com/NVlabs/alpasim) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,6 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-12 | Former Alibaba Researcher Announces New Startup on Digital and Physical AI Agents - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS0yNmtES1hJM2JVdlhsN3ozemF5bnpqbjM3YUE2TXFmM1JuY2FtVEZ6NHl1MmpWclg5aV96LURKTER3bElQQTAxNE9CdDBva1Q3OE1yTFNfeV9lRHRPZTFHNFQtQWxXNnRiXzFUZzhIcTNuV3RWSXZkUWF4S0J5YjZZNHJqZUl5UjJVUHAyS3lhbU1pdTUycjRwcUpoM2J5b2VvRFR4dEowZG9oZVd0bzhETkNkUQ?oc=5) |
 | 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
 | 2026-08-11 | NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlUtQnQyZ1F3eXZqd1ZVMlNSN0M2U21FZlhmMHp3YnowOUVlbWI2ZnVRdUhrWVJGNVlwOFdKMV9XRHktUXRmd2hMQlNsLVU0eHlwYm9CUmY2eU85U19WTlIyajFJWlF0SV9FTHNSelRLRkpsb3ZEMUxrVVBzLTZmUzJFU1VLSEtsMmpfc0REcHA3eGJ3QTI1Xy1ielNNTENLLTNKRXhiN1h6WWlES2QwREgyV2dKQmxQaDBWU0xjYjE1TWRzQXQyWDdzZ1ZVZw?oc=5) |
 | 2026-08-11 | Physical AI Awards: Apply for $150K in Compute - SynBioBeta | physical ai startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTkI2WjZla1Q3ejhYbkpGNF9YQm81b3dMZ2dleXVrZnZnZUlhM01JOXUxcVgyeU1BT2Nicm1wVHJZRTBEYTJKLW93SHdGSUhZY01QUTF2RDk4YTRuT0lsX2RldFAxeUVyLWE4dlY1elByY1VKcEZmSzR2Yl91bEhNYnN3?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | Backed by China Merchants Venture and NIO Capital, Acorn Robot Bets on a "Zero-Data" Path to Win the Embodied AI Race - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9vZFRJN3hNMmZKc3Z5LVh3Z2tQSzh3UW1PWEhMN1FTbG5td0pkYTAtc2c5ZE1kTEJIcmpiYVd0akVnME1mWXJvR3diZmlUTjNLNFpyWThySjQwOHcyUjNFNkJ4NkI3UDZ5dFZYUHZUSHExRElMMEE?oc=5) |
 | 2026-08-10 | Holiday Robotics Raises ₩155B Series A to Accelerate Humanoid Robot Commercialization - AsiaTechDaily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUlHTmhXZ0d3OFF2MExMWVVXWHBzbkJ6djF1TnZsZzV5Z29KeWIyclhUcTZLSmtFdURpd2hiWElfWEVDWkdRRnV0ZENrM2ZsNHo3V0lfUnRmd19lNWxaQ3N6SGJ0aktwa1pZOGh2VlRyWldacXhpbVFxRVNQTFRPZVVuZWpkRmRFN3J1cmYtRGhkaHJ0cHBvSnZaa2hyaC00MVFOUjJrdFdfTzdTUmFCc1NFWkFiSm1sclVOVQ?oc=5) |
 | 2026-08-09 | Unitree's Shanghai IPO Prices China's First Humanoid Robot Maker at $9 Billion - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVVBMzdkdDd0UnlkcFgxTHk4eUdnLTJOTldZeEJuWkFOYU03NmN2MjIxUm9RcEtHWER5S1phZTNWaWhlY2kySFcxSFZxTFZNYjVIenpIWE9mTV9ucjNoNE0zU04xMXE2cWRLVHNVUmRhaENSdVJVaDN0amRIeU1VMi1yZXVZMzRDUlQ0d3VtVlZHQi1rV1c2Yk5hMFloSW1xc1FwRWtB?oc=5) |
-| 2026-08-07 | Why U.S. Robotics Startups Are Stuffing Parts From China in Luggage - The Information | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTXZ2ZE1ycXdub3lXM0RPcUpETGJvVWYwTWV0dUpJSkhCQkJIcUdKR3MxNm16SjVIYzY5TU1UUGRUNE8wZFp2R2hXdlVfNXRuXzhLQVZLSk1tMUJTOTNsRWdRMU84eHY4cG9IOVl3X200RmcyaW5wVlpJdkNDZ2xaN19rbUw3ZHk2U1J3dDVBa3JrZXdj?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
