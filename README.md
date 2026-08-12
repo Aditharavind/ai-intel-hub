@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-12 11:36 UTC
+Last Updated: 2026-08-12 12:36 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -97,15 +97,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | zauberzeug/nicegui | 16108 | Python | 6443.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15676 | C++ | 6270.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14527 | C++ | 5810.9 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13302 | Python | 5320.9 | [link](https://github.com/earthtojake/text-to-cad) |
-| rerun-io/rerun | 11285 | Rust | 4514.1 | [link](https://github.com/rerun-io/rerun) |
+| earthtojake/text-to-cad | 13304 | Python | 5321.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| rerun-io/rerun | 11286 | Rust | 4514.5 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7885 | Python | 3154.1 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4516 | Python | 1806.5 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 4517 | Python | 1806.9 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-08-11 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
+| 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQXUxSURENi0xdzIzME54OW9lYk1Wc0h4dzFlLUdReUhWWnNEbzBjMm1nbkx5Z2s3RHd6LXVMTnJ3TXdMY0MxT1lnMGs0T1JMQ2RkNXdPdzZ5bmVHT3had05Ga1lnVU5FWmYzMkkwQzkxRnY5bmFnN08yR2NoeU9PM2V5TnBndGVKRUdRX3VjMHpIXzZwdG9SZDBMeHNmRUt5WWhBTWx4dDNRMDBkX1BKRE1LUQ?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcE5XeXdXbW9FbzVLanRUbjR1b25MTkpTYS1sWHdvWUZnQV8yLTUxeVUwTGJPcG5ZS2VkWmN2eHVsVzg0UUdtd1NBR0Iza0IySnlpWUdjMzUzX1R3Y1pTcEdfRkFEYmJZQXlFTk5TYXl5UFo1YkJ4RS1rSDFkUTVJckJZTEZVb09FN3pDN0hPTG1mc0F0aG4ySnNQS2kyamFiZjlNOFBZdjB2amYz?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzBWZTdYcGJBX2JBZ0hTaUpNc253STkzZDBISGYyeGRNTUhwaV95UUttenNuWlE0RGJaUFctMUZTYjluM1JuQ2Q3RGxzNXRSTFphcXRtV1dvVDQtSWFnOFZiUnZTaUwwMGktZjcwOXVLRzBVNG9fRjZiTXNVVXhRUW41OU8?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRzFpdHRwNlJtM1hDaDZlNXNuWW1iTmRCOUdGVUZKenFmSTh4Y2VZYU9xOW5mcHZ1Mjc5aDZMMU54YVN5TS1XcDdGYV9XZ1poaks0?oc=5) |
@@ -114,7 +115,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzRRUmZZTTlqMHBVNk9ZYTRjUGM0X3N6Q2FhYXVaY1pKbDhwWTA5UjlwX0NicHVkRTJLRFlUUXNFalhwRFVMak1fTTNRUmhoVEF4YThKQUlBSnZsZ1ZwZmNKT3BkNXBrcUNRcXVMRkhBYVowWmFiY1BJNjRLOExaMG82Y2lfaFYxTlBkRzBBcHpQNm5POEUtcG9VVFBQdDRCTVp0ZHhUaW9RYWRPX0Y1OGJ3YzJ0a3lhdHR1TGRKcVVLRmhtTmw2dtIByAFBVV95cUxQOWRxV0dRV2NIWmxBLVFEOGN1el82TWYtcVhhSm5HY18yY0FyTkhkSWhtVGRvY0toN1RJd1ozSFFCdXRFX2VWNDluZWJCYmkwanhKNlhWSHYxRmFCZTJrQ2Ryc0RTWHFvT2Z5V2kzYlNlZzhNOGZBd044MlExMmduZ1Q3NDhDN0JwMXZJQ3AwV2FabDVTdFNRMTBXTS1kcEt4LUdzU1NpSU84eXdDdmR2dlcyeGw0NkUtdGxBb21LRUdDUktkU2UwRg?oc=5) |
 | 2026-08-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBrQWhpbzZHRmtfcHNqYWxvZ3htZm10OXFKdW9ZaEZmZDlRMzZaLUpJbkJDSGVWbnlPYWlTcUVjOTQ4YTlMNlBDVVdQb19GU1ZWRXZnYUxSSmlNNUc4Q09tNXRUQUxvOENwT0prd0dOa1Rja0RzX3c?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUk1Hd2d1WFRNOHpKUkJ0aGR4UE1RYnR0cFJZRVhZb0NkNWtUejlGVHpHcUtOVkNQS2d2ZXlCRnJMVmg0QlFfV3R5TGR0NzJCQ0xrbjVGcW91MDdwSEUxZTd0V2RDc29uMjkyYmxIRmtUdl9ja3VUMWZyMU1iUnZFWFZyM1p2ZzlpOGV3aGRfelVabFpjZXNIazYxYzNxWWQxLXNucjUxV29HakHSAbABQVVfeXFMTnJLeHg2MTNEVzRLVV8wYjFCdzl3clhjMjctX28yVU9sSzkyMHdLTDIzX3NVVUFpU3lFX3dVTENPVFViTlBwOUFsMVpqOFBnTHB2MWhwQ1RFejltRk44MmlmMUFIRGkwbFF5azVKYUdENDRjZTJNZmdsUk00NHdJajFiQXFZN0JiMEpyUng5bTh3Vl82a3N0M3FpYk01S1pmVk91OXA3LTlLbjI0dU82TFc?oc=5) |
-| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzBJcnRzZ0xGcE5fanRrcmlXZGFYUG9WMDc0cFdNQmJCX2plV1h5anNuYk1zZVBKS1lpd29TSU5BS2ZMMWNobzhHUTVGdXhYMnRBcWx6cGwzdkVHaEJ1eGY5NlktVDdRZGZYRXU0MDV2LWh3aWFyanBnUWlUSlJoeTV2WkNzYXBMNFZua056aXBFeUI1RmtRcWgxTGR4a2pLYWpBbTRobC16dzQ0dkg3aVFTZ2lWTVVzTDlkSGp3Wlk2MHJ1Mi1HZFZPSUFlYnlx?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -126,7 +126,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | Physical AI Awards: Apply for $150K in Compute - synbiobeta.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTkI2WjZla1Q3ejhYbkpGNF9YQm81b3dMZ2dleXVrZnZnZUlhM01JOXUxcVgyeU1BT2Nicm1wVHJZRTBEYTJKLW93SHdGSUhZY01QUTF2RDk4YTRuT0lsX2RldFAxeUVyLWE4dlY1elByY1VKcEZmSzR2Yl91bEhNYnN3?oc=5) |
 | 2026-08-11 | Eurobotics triples valuation as Korea robot boom fuels 40 billion won Series A - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTHAwb2JkOU5uOVlHdzhLWVljdGJJRnFqdU9jdFp4dWJ6TTZwR2tmeXNzZWV3V2Jial9zVU1vUnF1UlA5SC1mMlFaMWpoWDRoMkVqdnppNHBqQV82OEJRQmFuQlJ1Sm1pU1h4Zng4cHRPcnFTa0tQTmRRb0t0aXlJdNIBlAFBVV95cUxNblZ2bUJZYmNhaEpFYnVwUjlDMzBVU2k1VDZ6d09LdGthb0lWLXZya1U0Sm1HRmZoTVVLQkUwR0NFdDBUTUZ2ZG1UZWR2c084T3pKNy1oR2ZXS0V5UWZWcTk5d3BMZVEyUnA3b2VzN3duTG5kTlg2aEFiUlhYWXRVQzNjNUhUNGNITHlCdkVCeHpjOW9T?oc=5) |
 | 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
-| 2026-08-10 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - pandaily.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
+| 2026-08-10 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
 | 2026-08-10 | Backed by China Merchants Venture and NIO Capital, Acorn Robot Bets on a "Zero-Data" Path to Win the Embodied AI Race - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9vZFRJN3hNMmZKc3Z5LVh3Z2tQSzh3UW1PWEhMN1FTbG5td0pkYTAtc2c5ZE1kTEJIcmpiYVd0akVnME1mWXJvR3diZmlUTjNLNFpyWThySjQwOHcyUjNFNkJ4NkI3UDZ5dFZYUHZUSHExRElMMEE?oc=5) |
 | 2026-08-10 | Holiday Robotics Raises ₩155B Series A to Accelerate Humanoid Robot Commercialization - AsiaTechDaily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUlHTmhXZ0d3OFF2MExMWVVXWHBzbkJ6djF1TnZsZzV5Z29KeWIyclhUcTZLSmtFdURpd2hiWElfWEVDWkdRRnV0ZENrM2ZsNHo3V0lfUnRmd19lNWxaQ3N6SGJ0aktwa1pZOGh2VlRyWldacXhpbVFxRVNQTFRPZVVuZWpkRmRFN3J1cmYtRGhkaHJ0cHBvSnZaa2hyaC00MVFOUjJrdFdfTzdTUmFCc1NFWkFiSm1sclVOVQ?oc=5) |
 
