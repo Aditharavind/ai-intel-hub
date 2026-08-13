@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-13 11:36 UTC
+Last Updated: 2026-08-13 12:37 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -55,10 +55,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-13 | Have Scientists Stuck the Landing on the Glueball Discovery? | Hackaday | [link](https://hackaday.com/2026/08/12/have-scientists-stuck-the-landing-on-the-glueball-discovery/) |
 | 2026-08-13 | Qualcomm Snapdragon C Arm SoC outperforms an Intel N250 CPU by up to 67 percent in “unplugged” benchmarks | CNX Software | [link](https://www.cnx-software.com/2026/08/13/qualcomm-snapdragon-c-arm-soc-outperforms-an-intel-n250-cpu-by-up-to-67-percent-in-unplugged-benchmarks/) |
 | 2026-08-13 | WCH CH32V407/467 RISC-V MCU integrates Fast Ethernet MAC + PHY, 480 Mbps USB 2.0 PHY, up to 8 MB on-chip PSRAM | CNX Software | [link](https://www.cnx-software.com/2026/08/13/wch-ch32v407-467-risc-v-mcu-integrates-fast-ethernet-mac-phy-480-mbps-usb-2-0-phy-up-to-8-mb-on-chip-psram/) |
-| 2026-08-13 | Flexi Skeleton Snake – Articulated Support-Free Vertebrae #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/13/flexi-skeleton-snake-articulated-support-free-vertebrae-3dthursday-3dprinting/) |
-| 2026-08-13 | ESP32 DevKit Case – Sturdy Snap-On for ESPHome (USB-C + Micro USB) #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/13/esp32-devkit-case-sturdy-snap-on-for-esphome-usb-c-micro-usb-3dthursday-3dprinting/) |
-| 2026-08-13 | PixelTiles – Modular Smart LED Wall Panels with WLED #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/13/pixeltiles-modular-smart-led-wall-panels-with-wled-3dthursday-3dprinting/) |
-| 2026-08-13 | Modular Screwdriver Gridfinity Organizer – 10 Sizes, Half-Grid Compatible #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/13/modular-screwdriver-gridfinity-organizer-10-sizes-half-grid-compatible-3dthursday-3dprinting/) |
+| 2026-08-13 | OpenLight and Tower Accelerate Photonic IC Development | Embedded.com | [link](https://www.embedded.com/openlight-and-tower-accelerate-photonic-ic-development/) |
+| 2026-08-13 | The thermal side of power reliability | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/the-thermal-side-of-power-reliability-2026-08/) |
+| 2026-08-13 | The best we can hope for is a soft landing | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/the-best-we-can-hope-for-is-a-soft-landing-2026-08/) |
+| 2026-08-13 | British car beats world land speed record at 406mph | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/british-car-beats-world-land-speed-record-at-406-mph-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -78,6 +78,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-13 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-08-13 | OpenWAM/New_Pretrained_RoboTwin_Clean_SFT | 0 | 0 | [link](https://huggingface.co/OpenWAM/New_Pretrained_RoboTwin_Clean_SFT) |
+| 2026-08-13 | execbat/pi05-robot-finetuned | 0 | 0 | [link](https://huggingface.co/execbat/pi05-robot-finetuned) |
 | 2026-08-13 | yanshi-robotics/yanshi-unitree-g1-minimal | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-unitree-g1-minimal) |
 | 2026-08-13 | yanshi-robotics/yanshi-unitree-go2-default | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-unitree-go2-default) |
 | 2026-08-13 | yanshi-robotics/yanshi-isaaclab-ant-default | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-isaaclab-ant-default) |
@@ -85,22 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-13 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-13 | yanshi-robotics/yanshi-berkeley-humanoid_lite-humanoid | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-berkeley-humanoid_lite-humanoid) |
 | 2026-08-13 | yanshi-robotics/yanshi-agibot-x2-v1_4_0 | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-agibot-x2-v1_4_0) |
-| 2026-08-13 | yanshi-robotics/yanshi-unitree-g1-dof29 | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-unitree-g1-dof29) |
-| 2026-08-13 | MINT-SJTU/Evo1_RoboTwin2_datascale | 0 | 0 | [link](https://huggingface.co/MINT-SJTU/Evo1_RoboTwin2_datascale) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2889 | Python | 1155.7 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2893 | Python | 1157.3 | [link](https://github.com/NVIDIA/skills) |
 | mosaico-labs/mosaico | 916 | Python | 366.5 | [link](https://github.com/mosaico-labs/mosaico) |
 | alireza787b/mavsdk_drone_show | 311 | Python | 124.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 63401 | Python | 25360.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63403 | Python | 25361.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15683 | C++ | 6273.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | earthtojake/text-to-cad | 13359 | Python | 5343.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11295 | Rust | 4518.1 | [link](https://github.com/rerun-io/rerun) |
-| nasa-jpl/open-source-rover | 9572 | Prolog | 3828.9 | [link](https://github.com/nasa-jpl/open-source-rover) |
+| nasa-jpl/open-source-rover | 9573 | Prolog | 3829.3 | [link](https://github.com/nasa-jpl/open-source-rover) |
 | isaac-sim/IsaacLab | 7888 | Python | 3155.3 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4526 | Python | 1810.5 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 4527 | Python | 1810.9 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -114,20 +114,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzBWZTdYcGJBX2JBZ0hTaUpNc253STkzZDBISGYyeGRNTUhwaV95UUttenNuWlE0RGJaUFctMUZTYjluM1JuQ2Q3RGxzNXRSTFphcXRtV1dvVDQtSWFnOFZiUnZTaUwwMGktZjcwOXVLRzBVNG9fRjZiTXNVVXhRUW41OU8?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRzFpdHRwNlJtM1hDaDZlNXNuWW1iTmRCOUdGVUZKenFmSTh4Y2VZYU9xOW5mcHZ1Mjc5aDZMMU54YVN5TS1XcDdGYV9XZ1poaks0?oc=5) |
 | 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSFd0LTVPY3VyelFHbjNxek1ZdXpoY0JfZWdQWUkwODY5bFVrS3VCcE9ybnBjZGZVX0QzYnAwTkd0c0YtVTdoTlVyMGNRYUh2U3F5eWtDVjVibmFUVXk0Z0xoZDlSelVWOFd0YmFuaVYyZU5BZENHc1dwcDkyMldvcWJHSXF1ZUpzRVlRWEU1RmNBc1Rwdm11b09yZ3lXcU9kb0swUC1tXzBsaER0X0c5UFpna2d2dDdnSzBBNEdzOXdIbzAwTTN4WUlURUY?oc=5) |
-| 2026-08-09 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVlcxeVI1YnZoeC1BR19oUjdrMHRsRUltODhjYlZoSE03MnRHX0dGN0x0ZWFnek9QT3ZiZ0E1dHV1a05rd3NtWHVtNXBHWFBQNmxuaFhlajJDQQ?oc=5) |
+| 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxONEdLRklEMWlxUlUyeW96WW81VldYQW1JTlk2bHEweFpjYkdfcGVmOFRPcC03NnpnSmhib3NoekJrcWVwM2pkRWF0aHQ2TmxmNm5UVk5RY2lxSjFUeHRkQjJMbVUyWHNKQ3d5Unctd0pZSTNxeEdPVzVxTnVQejFjNTZkeTZ0WmZ5YXd0VDFCUVpFSkhWU3FCb3FVODFGR1VCMXppamtnbXVjX25GalNHMjBndnFLWTQxZjJwaWEtMGlIVW5CanZVcVh4RHoxT3AwQ0EwMTZfUnFpZE4zcUh5U3JPVUI2OVZ3TDZYYg?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-12 | Employment immunity: the quiet revolution of robotics and physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lcURSMEFORUVpUHBsejVWMVhTYnZMbDJ6aUVVeVRNRDg5Tm12NDE3SnBDeGNhYmVCNC14TFFPVTJZcldIbUZwNzdNWXpBVllRTXhlRC1EV3hmQ0NNbnUyTnlOQ2hLR1pI?oc=5) |
 | 2026-08-12 | Former Alibaba Researcher Announces New Startup on Digital and Physical AI Agents - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS0yNmtES1hJM2JVdlhsN3ozemF5bnpqbjM3YUE2TXFmM1JuY2FtVEZ6NHl1MmpWclg5aV96LURKTER3bElQQTAxNE9CdDBva1Q3OE1yTFNfeV9lRHRPZTFHNFQtQWxXNnRiXzFUZzhIcTNuV3RWSXZkUWF4S0J5YjZZNHJqZUl5UjJVUHAyS3lhbU1pdTUycjRwcUpoM2J5b2VvRFR4dEowZG9oZVd0bzhETkNkUQ?oc=5) |
-| 2026-08-12 | Chelsea Finn: The State of Physical Intelligence in Robotics - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVdVWVZtVElfYVFmUGYxMkptaENSMzFHTkJrcFJRakNfdGI1eTVfX3Yyc2pIeEEzSEpnQXl2N3BqdDczMnlKNERDcjVYeDBnMjVvVDFxS3B4ZWxSazJyZU4ya01xeEhDMUxqQV95c3hZbl9Da0EyTXZFajdlcjlwNF9XNXFCczBZUnl0R252QUJrUGczWkVrMncyVW5ubTNlSldRX1lxbUNfVlU?oc=5) |
+| 2026-08-12 | Chelsea Finn: The State of Physical Intelligence in Robotics - startuphub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVdVWVZtVElfYVFmUGYxMkptaENSMzFHTkJrcFJRakNfdGI1eTVfX3Yyc2pIeEEzSEpnQXl2N3BqdDczMnlKNERDcjVYeDBnMjVvVDFxS3B4ZWxSazJyZU4ya01xeEhDMUxqQV95c3hZbl9Da0EyTXZFajdlcjlwNF9XNXFCczBZUnl0R252QUJrUGczWkVrMncyVW5ubTNlSldRX1lxbUNfVlU?oc=5) |
 | 2026-08-12 | Six Months, $74.1 Million: Westlake University Professor's Embodied AI Startup Secures Four Funding Rounds - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSm5lLTczQTE2eDNNdWZpQmppanBMYUNJSVlPOTlRUW1lbHNjSjh1UzI3UnBsQldXQnRhYS05YnVZbWZXbkF2MXNzMmZubW0wVDJwS19kYXA2SDdWTjZrR1ByZVpUN3NjMjlBZ1FGWFMwQ0J6dmc?oc=5) |
 | 2026-08-12 | BYD Unveils Its Xiao Di Humanoid Robot Days After US Bans Chinese Robots - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDNYVVkyeU5iLWt2R3RVbnRqN2Qya1NIRkZKemhyMlhJbDFWRl9EanlyTjY1QWVTZERqcU1WODBpR016c1l6djN3NVBJOVZyV0trLTFwckE2M3o0aTZwSHdDSEFOdEFLaWl0SXdJRXdvTWtyRjhKRlZVMEgtZWtlY1Z6WEpudjQzdk5HRzgyTTdwOVNPUTJ5T3dLYnJuTDk3WGc?oc=5) |
 | 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
 | 2026-08-11 | NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlUtQnQyZ1F3eXZqd1ZVMlNSN0M2U21FZlhmMHp3YnowOUVlbWI2ZnVRdUhrWVJGNVlwOFdKMV9XRHktUXRmd2hMQlNsLVU0eHlwYm9CUmY2eU85U19WTlIyajFJWlF0SV9FTHNSelRLRkpsb3ZEMUxrVVBzLTZmUzJFU1VLSEtsMmpfc0REcHA3eGJ3QTI1Xy1ielNNTENLLTNKRXhiN1h6WWlES2QwREgyV2dKQmxQaDBWU0xjYjE1TWRzQXQyWDdzZ1ZVZw?oc=5) |
 | 2026-08-11 | Physical AI Awards: Apply for $150K in Compute - SynBioBeta | physical ai startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTkI2WjZla1Q3ejhYbkpGNF9YQm81b3dMZ2dleXVrZnZnZUlhM01JOXUxcVgyeU1BT2Nicm1wVHJZRTBEYTJKLW93SHdGSUhZY01QUTF2RDk4YTRuT0lsX2RldFAxeUVyLWE4dlY1elByY1VKcEZmSzR2Yl91bEhNYnN3?oc=5) |
-| 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - bizjournals.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
+| 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
 | 2026-08-10 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
 
 ## Jobs
