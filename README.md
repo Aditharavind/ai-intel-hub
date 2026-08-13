@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-13 00:49 UTC
+Last Updated: 2026-08-13 03:19 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-13 | Have Scientists Stuck the Landing on the Glueball Discovery? | Hackaday | [link](https://hackaday.com/2026/08/12/have-scientists-stuck-the-landing-on-the-glueball-discovery/) |
 | 2026-08-13 | UK Chain Hotels Fare Better Than Independents | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/consumer/uk-chain-hotels-fare-better-than-independents-2026-08/) |
 | 2026-08-12 | Your Laptop Keyboard, On Another Device | Hackaday | [link](https://hackaday.com/2026/08/12/your-laptop-keyboard-on-another-device/) |
 | 2026-08-12 | The Agony of Packaging Linux Apps | Hackaday | [link](https://hackaday.com/2026/08/12/the-agony-of-packaging-linux-apps/) |
@@ -56,51 +57,50 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-12 | Procrastineers Rejoice! 2026 Supercon Call For Participation Extended | Hackaday | [link](https://hackaday.com/2026/08/12/procrastineers-rejoice-2026-supercon-call-for-participation-extended/) |
 | 2026-08-12 | Watch Today’s Eclipse at Home | Hackaday | [link](https://hackaday.com/2026/08/12/watch-todays-eclipse-at-home/) |
 | 2026-08-12 | Getting Back Into Resin Printing: First Results | Hackaday | [link](https://hackaday.com/2026/08/12/getting-back-into-resin-printing-first-results/) |
-| 2026-08-12 | 3 KB Solitaire Fits in QR-Code, Runs in DOS | Hackaday | [link](https://hackaday.com/2026/08/12/3-kb-solitaire-fits-in-qr-code-runs-in-dos/) |
 | 2026-08-12 | Apollo Automation launches $40 official ESPHome Starter Kit with ESP32-C6 board, four FPC modules | CNX Software | [link](https://www.cnx-software.com/2026/08/12/apollo-automation-official-esphome-starter-kit-with-esp32-c6-board-four-fpc-modules/) |
 | 2026-08-12 | Forlinx AM62L32 Local EVM – A low-power industrial SBC powered by TI’s AM62L32 Cortex-A53/M4F SoC | CNX Software | [link](https://www.cnx-software.com/2026/08/12/forlinx-am62l32-local-evm-a-low-power-industrial-sbc-ti-am62l32-cortex-a53-m4f-soc/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-08-11 | Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning | [link](https://arxiv.org/pdf/2608.11204v1) |
-| 2026-08-11 | Risk-Aware Kinodynamic Motion Planning Under Uncertainty For Safe Navigation on Planetary Environments | [link](https://arxiv.org/pdf/2608.11175v1) |
-| 2026-08-11 | VIScore: Diagnosing Planning-Relevant Quality in Latent World Models | [link](https://arxiv.org/pdf/2608.11174v1) |
-| 2026-08-11 | SAR2Agri: Learning SAR Intensity Representations for Agricultural Monitoring | [link](https://arxiv.org/pdf/2608.11142v1) |
-| 2026-08-11 | Cross-View Feature Matching: Survey, Benchmarking, and Foundation-Model Perspectives | [link](https://arxiv.org/pdf/2608.11093v1) |
-| 2026-08-11 | Foundation Model-Enabled Efficient Data Sampling (FEEDS): A label-efficient training strategy for pan-cancer, multi-tracer PET/CT datasets | [link](https://arxiv.org/pdf/2608.11076v1) |
-| 2026-08-11 | Deployment Is Not Destiny: Robot Recomposition in the Field with Unseen Software, Hardware, and Compute Payloads | [link](https://arxiv.org/pdf/2608.11063v1) |
-| 2026-08-11 | HUI360: A 360° Egocentric Dataset and Baselines for Human-Robot Interaction Anticipation | [link](https://arxiv.org/pdf/2608.11051v1) |
-| 2026-08-11 | MAJEPPA: Morphing and Assessing in a Unified Piano Performance Space | [link](https://arxiv.org/pdf/2608.11026v1) |
-| 2026-08-11 | R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video | [link](https://arxiv.org/pdf/2608.11017v1) |
+| 2026-08-12 | DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation | [link](https://arxiv.org/pdf/2608.12308v1) |
+| 2026-08-12 | Redistribution-based Cost Inference Improves Sparse Safe Offline RL | [link](https://arxiv.org/pdf/2608.12306v1) |
+| 2026-08-12 | Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations | [link](https://arxiv.org/pdf/2608.12299v1) |
+| 2026-08-12 | PatternFormer: Learning Multiple Solution Patterns in Reaction--Diffusion Systems | [link](https://arxiv.org/pdf/2608.12286v1) |
+| 2026-08-12 | Earth observation embeddings are effective sub-grid descriptors for probabilistic weather downscaling | [link](https://arxiv.org/pdf/2608.12271v1) |
+| 2026-08-12 | ScreenShot: A Foundation Model for Few-Shot Combination Drug Screening | [link](https://arxiv.org/pdf/2608.12219v1) |
+| 2026-08-12 | Learning-Based Behavior Planning for Automated Driving: Real-World Integration and Deployment | [link](https://arxiv.org/pdf/2608.12198v1) |
+| 2026-08-12 | IF:CARGO: LLM-Based Semantic Compilation for Al-Native Rule Programming Games | [link](https://arxiv.org/pdf/2608.12195v1) |
+| 2026-08-12 | How to Spend Your Oracle Budget: Practical Guidance for Protein Structure Prediction Models | [link](https://arxiv.org/pdf/2608.12192v1) |
+| 2026-08-12 | Nascent Embedded-protostar Survey in Taurus (NEST) I: Protostellar Multiplicity | [link](https://arxiv.org/pdf/2608.12186v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-13 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-08-13 | RobotisSW/Task_Pick_Water_WhiteShelf_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Pick_Water_WhiteShelf_50K) |
+| 2026-08-13 | RobotisSW/Task_Pick_Water_WhiteShelf_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Pick_Water_WhiteShelf_10K) |
+| 2026-08-13 | rahul-ai-01/real_robot_69000 | 0 | 0 | [link](https://huggingface.co/rahul-ai-01/real_robot_69000) |
+| 2026-08-13 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
+| 2026-08-13 | Ryukijano/marl-world-model | 0 | 0 | [link](https://huggingface.co/Ryukijano/marl-world-model) |
 | 2026-08-13 | nosuke113/parc2026-policy | 0 | 1 | [link](https://huggingface.co/nosuke113/parc2026-policy) |
 | 2026-08-12 | rahul-ai-01/real_robot_60000 | 0 | 0 | [link](https://huggingface.co/rahul-ai-01/real_robot_60000) |
 | 2026-08-12 | D-Robotics/LocateAnything-3B-BPU | 0 | 0 | [link](https://huggingface.co/D-Robotics/LocateAnything-3B-BPU) |
 | 2026-08-12 | L7-Robotics/pi05_so101_camera_setting_2026Aug_redcube_whitebowl_polarbear_greentray_merge_v1.1 | 0 | 0 | [link](https://huggingface.co/L7-Robotics/pi05_so101_camera_setting_2026Aug_redcube_whitebowl_polarbear_greentray_merge_v1.1) |
-| 2026-08-12 | rahul-ai-01/real_robot_sorting | 0 | 0 | [link](https://huggingface.co/rahul-ai-01/real_robot_sorting) |
-| 2026-08-12 | Shiki42/pi05-robotwin-place-dual-shoes-full-bf16-train50-val3-s42-r3-20260812 | 0 | 1 | [link](https://huggingface.co/Shiki42/pi05-robotwin-place-dual-shoes-full-bf16-train50-val3-s42-r3-20260812) |
-| 2026-08-12 | Shiki42/pi05-robotwin-scan-object-full-bf16-train50-val3-s42-r2-20260811 | 0 | 0 | [link](https://huggingface.co/Shiki42/pi05-robotwin-scan-object-full-bf16-train50-val3-s42-r2-20260811) |
-| 2026-08-12 | Icerm/gliner2-robot-multi-v11 | 0 | 0 | [link](https://huggingface.co/Icerm/gliner2-robot-multi-v11) |
-| 2026-08-12 | RobotisSW/Pick_MultipleColorCan_WhiteShelf_byGrootModel_100K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_MultipleColorCan_WhiteShelf_byGrootModel_100K) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| NVIDIA/skills | 2877 | Python | 1150.9 | [link](https://github.com/NVIDIA/skills) |
+| commaai/openpilot | 63397 | Python | 25358.9 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15682 | C++ | 6272.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| earthtojake/text-to-cad | 13336 | Python | 5334.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| rerun-io/rerun | 11292 | Rust | 4516.9 | [link](https://github.com/rerun-io/rerun) |
+| nasa-jpl/open-source-rover | 9569 | Prolog | 3827.7 | [link](https://github.com/nasa-jpl/open-source-rover) |
 | isaac-sim/IsaacLab | 7887 | Python | 3154.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3868 | Rust | 1547.3 | [link](https://github.com/dora-rs/dora) |
-| vllm-project/vllm-omni | 6072 | Python | 2428.9 | [link](https://github.com/vllm-project/vllm-omni) |
-| vikashplus/robohive | 631 | Python | 252.5 | [link](https://github.com/vikashplus/robohive) |
-| NVIDIA/skills | 2874 | Python | 1149.7 | [link](https://github.com/NVIDIA/skills) |
-| Edgenesis/shifu | 1431 | Go | 572.5 | [link](https://github.com/Edgenesis/shifu) |
-| NVlabs/alpasim | 1172 | Python | 468.9 | [link](https://github.com/NVlabs/alpasim) |
-| mosaico-labs/mosaico | 914 | Python | 365.7 | [link](https://github.com/mosaico-labs/mosaico) |
-| RobotecAI/rai | 569 | Python | 227.7 | [link](https://github.com/RobotecAI/rai) |
-| commaai/openpilot | 63395 | Python | 25358.1 | [link](https://github.com/commaai/openpilot) |
+| dora-rs/dora | 3869 | Rust | 1547.7 | [link](https://github.com/dora-rs/dora) |
+| sou350121/VLA-Handbook | 501 | HTML | 200.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| syswonder/robonix | 323 | Rust | 129.3 | [link](https://github.com/syswonder/robonix) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -110,11 +110,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcE5XeXdXbW9FbzVLanRUbjR1b25MTkpTYS1sWHdvWUZnQV8yLTUxeVUwTGJPcG5ZS2VkWmN2eHVsVzg0UUdtd1NBR0Iza0IySnlpWUdjMzUzX1R3Y1pTcEdfRkFEYmJZQXlFTk5TYXl5UFo1YkJ4RS1rSDFkUTVJckJZTEZVb09FN3pDN0hPTG1mc0F0aG4ySnNQS2kyamFiZjlNOFBZdjB2amYz?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzBWZTdYcGJBX2JBZ0hTaUpNc253STkzZDBISGYyeGRNTUhwaV95UUttenNuWlE0RGJaUFctMUZTYjluM1JuQ2Q3RGxzNXRSTFphcXRtV1dvVDQtSWFnOFZiUnZTaUwwMGktZjcwOXVLRzBVNG9fRjZiTXNVVXhRUW41OU8?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRzFpdHRwNlJtM1hDaDZlNXNuWW1iTmRCOUdGVUZKenFmSTh4Y2VZYU9xOW5mcHZ1Mjc5aDZMMU54YVN5TS1XcDdGYV9XZ1poaks0?oc=5) |
+| 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxObUY0VWNuNVRvY2gwcUQ5LXNGckpTUmZtc01MNW5scDYtSUF1Mm45ejRMWjBUYWtLbG1xaUJKYmtyNWpaV1ZJakFST0p6bHRuWXZtX001b3I3OFBEVnNXU2xrYTZPSEZVX191RmwtakxBQ2VtZlJ0bzJidlhaYlVPUF9keklMVWtQUnZSSHNVek1fRVhhVGc0eGc0blRrVkE?oc=5) |
 | 2026-08-09 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVlcxeVI1YnZoeC1BR19oUjdrMHRsRUltODhjYlZoSE03MnRHX0dGN0x0ZWFnek9QT3ZiZ0E1dHV1a05rd3NtWHVtNXBHWFBQNmxuaFhlajJDQQ?oc=5) |
 | 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzRRUmZZTTlqMHBVNk9ZYTRjUGM0X3N6Q2FhYXVaY1pKbDhwWTA5UjlwX0NicHVkRTJLRFlUUXNFalhwRFVMak1fTTNRUmhoVEF4YThKQUlBSnZsZ1ZwZmNKT3BkNXBrcUNRcXVMRkhBYVowWmFiY1BJNjRLOExaMG82Y2lfaFYxTlBkRzBBcHpQNm5POEUtcG9VVFBQdDRCTVp0ZHhUaW9RYWRPX0Y1OGJ3YzJ0a3lhdHR1TGRKcVVLRmhtTmw2dtIByAFBVV95cUxQOWRxV0dRV2NIWmxBLVFEOGN1el82TWYtcVhhSm5HY18yY0FyTkhkSWhtVGRvY0toN1RJd1ozSFFCdXRFX2VWNDluZWJCYmkwanhKNlhWSHYxRmFCZTJrQ2Ryc0RTWHFvT2Z5V2kzYlNlZzhNOGZBd044MlExMmduZ1Q3NDhDN0JwMXZJQ3AwV2FabDVTdFNRMTBXTS1kcEt4LUdzU1NpSU84eXdDdmR2dlcyeGw0NkUtdGxBb21LRUdDUktkU2UwRg?oc=5) |
 | 2026-08-06 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBrQWhpbzZHRmtfcHNqYWxvZ3htZm10OXFKdW9ZaEZmZDlRMzZaLUpJbkJDSGVWbnlPYWlTcUVjOTQ4YTlMNlBDVVdQb19GU1ZWRXZnYUxSSmlNNUc4Q09tNXRUQUxvOENwT0prd0dOa1Rja0RzX3c?oc=5) |
 | 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUk1Hd2d1WFRNOHpKUkJ0aGR4UE1RYnR0cFJZRVhZb0NkNWtUejlGVHpHcUtOVkNQS2d2ZXlCRnJMVmg0QlFfV3R5TGR0NzJCQ0xrbjVGcW91MDdwSEUxZTd0V2RDc29uMjkyYmxIRmtUdl9ja3VUMWZyMU1iUnZFWFZyM1p2ZzlpOGV3aGRfelVabFpjZXNIazYxYzNxWWQxLXNucjUxV29HakHSAbABQVVfeXFMTnJLeHg2MTNEVzRLVV8wYjFCdzl3clhjMjctX28yVU9sSzkyMHdLTDIzX3NVVUFpU3lFX3dVTENPVFViTlBwOUFsMVpqOFBnTHB2MWhwQ1RFejltRk44MmlmMUFIRGkwbFF5azVKYUdENDRjZTJNZmdsUk00NHdJajFiQXFZN0JiMEpyUng5bTh3Vl82a3N0M3FpYk01S1pmVk91OXA3LTlLbjI0dU82TFc?oc=5) |
-| 2026-08-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzBJcnRzZ0xGcE5fanRrcmlXZGFYUG9WMDc0cFdNQmJCX2plV1h5anNuYk1zZVBKS1lpd29TSU5BS2ZMMWNobzhHUTVGdXhYMnRBcWx6cGwzdkVHaEJ1eGY5NlktVDdRZGZYRXU0MDV2LWh3aWFyanBnUWlUSlJoeTV2WkNzYXBMNFZua056aXBFeUI1RmtRcWgxTGR4a2pLYWpBbTRobC16dzQ0dkg3aVFTZ2lWTVVzTDlkSGp3Wlk2MHJ1Mi1HZFZPSUFlYnlx?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
