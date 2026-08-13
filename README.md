@@ -1,22 +1,22 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-13 16:41 UTC
+Last Updated: 2026-08-13 17:46 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-13 | Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed | OpenAI | [link](https://openai.com/index/previewing-ultrafast) |
 | 2026-08-13 | OpenAI appoints Dali Rajic as Chief Revenue Officer | OpenAI | [link](https://openai.com/index/dali-rajic-chief-revenue-officer) |
+| 2026-08-13 | Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets | Hugging Face | [link](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop) |
+| 2026-08-13 | What We Learned by Reproducing 2,200 papers from ICML | Hugging Face | [link](https://huggingface.co/blog/icml-2026-open-reproductions) |
 | 2026-08-12 | From assistance to execution: How enterprises put AI to work | OpenAI | [link](https://openai.com/index/how-enterprises-put-ai-to-work) |
 | 2026-08-12 | How RingCentral builds AI-native work from engineering to ops | OpenAI | [link](https://openai.com/index/ringcentral) |
 | 2026-08-12 | Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis | Hugging Face | [link](https://huggingface.co/blog/allenai/olmoearth-embeddings) |
 | 2026-08-12 | LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b) |
 | 2026-08-11 | Testing ads in ChatGPT | OpenAI | [link](https://openai.com/index/testing-ads-in-chatgpt) |
 | 2026-08-11 | Daybreak models are now available on AWS | OpenAI | [link](https://openai.com/index/daybreak-models-are-now-available-on-aws) |
-| 2026-08-11 | Thinking of ACE? We Can Do It with Fewer Tokens | Hugging Face | [link](https://huggingface.co/blog/ibm-research/altk-evolve-sldd) |
-| 2026-08-10 | OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas | OpenAI | [link](https://openai.com/index/responsible-ai-infrastructure-texas) |
-| 2026-08-10 | Model ML completes finance work more efficiently with GPT-5.6 Sol | OpenAI | [link](https://openai.com/index/model-ml) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-13 | Supercon Ten Tickets on Sale Now | Hackaday | [link](https://hackaday.com/2026/08/13/supercon-ten-tickets-on-sale-now/) |
 | 2026-08-13 | Holograms, From Your Plotter | Hackaday | [link](https://hackaday.com/2026/08/13/holograms-from-your-plotter/) |
 | 2026-08-13 | Bladerunners and the Mother of Invention | Hackaday | [link](https://hackaday.com/2026/08/13/bladerunners-and-the-mother-of-invention/) |
 | 2026-08-13 | Hacking Fiber To The Home | Hackaday | [link](https://hackaday.com/2026/08/13/hacking-fiber-to-the-home/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-13 | AAEON PICO-ADN2 – A low-profile Alder Lake-N Pico-ITX SBC for space-constrained applications | CNX Software | [link](https://www.cnx-software.com/2026/08/13/aaeon-pico-adn2-a-low-profile-alder-lake-n-pico-itx-sbc-for-space-constrained-applications/) |
 | 2026-08-13 | Qualcomm Snapdragon C Arm SoC outperforms an Intel N250 CPU by up to 67 percent in “unplugged” benchmarks | CNX Software | [link](https://www.cnx-software.com/2026/08/13/qualcomm-snapdragon-c-arm-soc-outperforms-an-intel-n250-cpu-by-up-to-67-percent-in-unplugged-benchmarks/) |
 | 2026-08-13 | WCH CH32V407/467 RISC-V MCU integrates Fast Ethernet MAC + PHY, 480 Mbps USB 2.0 PHY, up to 8 MB on-chip PSRAM | CNX Software | [link](https://www.cnx-software.com/2026/08/13/wch-ch32v407-467-risc-v-mcu-integrates-fast-ethernet-mac-phy-480-mbps-usb-2-0-phy-up-to-8-mb-on-chip-psram/) |
-| 2026-08-13 | Humanoid Robots Need a Real-Time, Distributed Nervous System | Embedded.com | [link](https://www.embedded.com/humanoid-robots-need-a-real-time-distributed-nervous-system/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,29 +77,29 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-08-13 | CoffeeBEEE/robotwin2_pi0_place_shoe_reproduction | 0 | 0 | [link](https://huggingface.co/CoffeeBEEE/robotwin2_pi0_place_shoe_reproduction) |
-| 2026-08-13 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-13 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
+| 2026-08-13 | qualia-robotics/pi05-so101-candy-b4d4ae76 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-so101-candy-b4d4ae76) |
+| 2026-08-13 | CoffeeBEEE/robotwin2_pi0_place_shoe_reproduction | 0 | 0 | [link](https://huggingface.co/CoffeeBEEE/robotwin2_pi0_place_shoe_reproduction) |
+| 2026-08-13 | huggingaccounttest/human-robot-translator-model-2-garment | 0 | 0 | [link](https://huggingface.co/huggingaccounttest/human-robot-translator-model-2-garment) |
+| 2026-08-13 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-13 | junbrro/hawor_fp24load_l2named_robotA4_human-box_vlmfreeze_bsz8_30k | 0 | 0 | [link](https://huggingface.co/junbrro/hawor_fp24load_l2named_robotA4_human-box_vlmfreeze_bsz8_30k) |
 | 2026-08-13 | OpenWAM/New_Pretrained_RoboTwin_Clean_SFT | 0 | 0 | [link](https://huggingface.co/OpenWAM/New_Pretrained_RoboTwin_Clean_SFT) |
 | 2026-08-13 | execbat/pi05-robot-finetuned | 0 | 0 | [link](https://huggingface.co/execbat/pi05-robot-finetuned) |
 | 2026-08-13 | yanshi-robotics/yanshi-unitree-g1-minimal | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-unitree-g1-minimal) |
 | 2026-08-13 | yanshi-robotics/yanshi-unitree-go2-default | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-unitree-go2-default) |
-| 2026-08-13 | yanshi-robotics/yanshi-isaaclab-ant-default | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-isaaclab-ant-default) |
-| 2026-08-13 | yanshi-robotics/yanshi-isaaclab-cartpole-default | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-isaaclab-cartpole-default) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2904 | Python | 1161.7 | [link](https://github.com/NVIDIA/skills) |
-| mosaico-labs/mosaico | 917 | Python | 366.9 | [link](https://github.com/mosaico-labs/mosaico) |
+| NVIDIA/skills | 2909 | Python | 1163.7 | [link](https://github.com/NVIDIA/skills) |
+| mosaico-labs/mosaico | 918 | Python | 367.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | alireza787b/mavsdk_drone_show | 311 | Python | 124.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | commaai/openpilot | 63402 | Python | 25360.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15684 | C++ | 6273.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13372 | Python | 5348.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13373 | Python | 5349.3 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11294 | Rust | 4517.7 | [link](https://github.com/rerun-io/rerun) |
 | nasa-jpl/open-source-rover | 9575 | Prolog | 3830.1 | [link](https://github.com/nasa-jpl/open-source-rover) |
-| isaac-sim/IsaacLab | 7891 | Python | 3156.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| isaac-sim/IsaacLab | 7892 | Python | 3156.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4528 | Python | 1811.3 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
@@ -124,11 +124,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-12 | Chelsea Finn: The State of Physical Intelligence in Robotics - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVdVWVZtVElfYVFmUGYxMkptaENSMzFHTkJrcFJRakNfdGI1eTVfX3Yyc2pIeEEzSEpnQXl2N3BqdDczMnlKNERDcjVYeDBnMjVvVDFxS3B4ZWxSazJyZU4ya01xeEhDMUxqQV95c3hZbl9Da0EyTXZFajdlcjlwNF9XNXFCczBZUnl0R252QUJrUGczWkVrMncyVW5ubTNlSldRX1lxbUNfVlU?oc=5) |
 | 2026-08-12 | Six Months, $74.1 Million: Westlake University Professor's Embodied AI Startup Secures Four Funding Rounds - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSm5lLTczQTE2eDNNdWZpQmppanBMYUNJSVlPOTlRUW1lbHNjSjh1UzI3UnBsQldXQnRhYS05YnVZbWZXbkF2MXNzMmZubW0wVDJwS19kYXA2SDdWTjZrR1ByZVpUN3NjMjlBZ1FGWFMwQ0J6dmc?oc=5) |
 | 2026-08-12 | BYD Unveils Its Xiao Di Humanoid Robot Days After US Bans Chinese Robots - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDNYVVkyeU5iLWt2R3RVbnRqN2Qya1NIRkZKemhyMlhJbDFWRl9EanlyTjY1QWVTZERqcU1WODBpR016c1l6djN3NVBJOVZyV0trLTFwckE2M3o0aTZwSHdDSEFOdEFLaWl0SXdJRXdvTWtyRjhKRlZVMEgtZWtlY1Z6WEpudjQzdk5HRzgyTTdwOVNPUTJ5T3dLYnJuTDk3WGc?oc=5) |
-| 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - geekwire.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
+| 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
 | 2026-08-11 | NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlUtQnQyZ1F3eXZqd1ZVMlNSN0M2U21FZlhmMHp3YnowOUVlbWI2ZnVRdUhrWVJGNVlwOFdKMV9XRHktUXRmd2hMQlNsLVU0eHlwYm9CUmY2eU85U19WTlIyajFJWlF0SV9FTHNSelRLRkpsb3ZEMUxrVVBzLTZmUzJFU1VLSEtsMmpfc0REcHA3eGJ3QTI1Xy1ielNNTENLLTNKRXhiN1h6WWlES2QwREgyV2dKQmxQaDBWU0xjYjE1TWRzQXQyWDdzZ1ZVZw?oc=5) |
-| 2026-08-11 | Physical AI Awards: Apply for $150K in Compute - SynBioBeta | physical ai startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTkI2WjZla1Q3ejhYbkpGNF9YQm81b3dMZ2dleXVrZnZnZUlhM01JOXUxcVgyeU1BT2Nicm1wVHJZRTBEYTJKLW93SHdGSUhZY01QUTF2RDk4YTRuT0lsX2RldFAxeUVyLWE4dlY1elByY1VKcEZmSzR2Yl91bEhNYnN3?oc=5) |
 | 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
 | 2026-08-10 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
+| 2026-08-10 | Explainer-What is Unitree and why are China’s humanoid robot makers racing to list? - WTVB | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG03UFlKLTk1TEVuYWRZMEVsY01YY3I4MExPQWN0WGtMRjYwNlZpTHFJTEZuU00tOVRGa0VWbUhmSnhLR25qQW5RZF9BUHl1bUdrYXNvMzJKNFliM1piOXRwal9TcjNDeWpQdzVqYktpcUJqM1pQZ3lZLTZISVpxZVNzRmZYbjc0TTNsSGt2ajZMUmpKU2psOFR0UFhpajVnZzNOV3FMa09uUVVrNzQ1TGFB?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
