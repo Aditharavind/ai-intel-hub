@@ -1,5 +1,14 @@
 [
   {
+    "model": "fanzh03/robotwin_fewshot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/fanzh03/robotwin_fewshot",
+    "date": "2026-08-13",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "a5ilank/curious-robot",
     "downloads": 0,
     "likes": 2,
@@ -60,15 +69,6 @@
     "url": "https://huggingface.co/yanshi-robotics/yanshi-isaaclab-cartpole-default",
     "date": "2026-08-13",
     "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "fanzh03/robotwin_fewshot",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/fanzh03/robotwin_fewshot",
-    "date": "2026-08-13",
-    "keyword": "robot",
     "score": 0.1
   },
   {
@@ -151,6 +151,15 @@
     "date": "2026-08-13",
     "keyword": "world model",
     "score": 0.1
+  },
+  {
+    "model": "litert-community/LFM2.5-Encoder-350M-Policy-Linter",
+    "downloads": 22,
+    "likes": 0,
+    "url": "https://huggingface.co/litert-community/LFM2.5-Encoder-350M-Policy-Linter",
+    "date": "2026-08-13",
+    "keyword": "policy",
+    "score": 6.7
   },
   {
     "model": "quineyu/multi_task_dit_policy",
@@ -292,15 +301,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/juyeonglee/my_custom_policy_eraser",
-    "date": "2026-08-12",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Yewy/rollout_mahjong_table_pickup_merged_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Yewy/rollout_mahjong_table_pickup_merged_policy",
     "date": "2026-08-12",
     "keyword": "policy",
     "score": 0.1
