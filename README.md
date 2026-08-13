@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-13 20:26 UTC
+Last Updated: 2026-08-13 21:32 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -91,12 +91,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2915 | Python | 1166.1 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2917 | Python | 1166.9 | [link](https://github.com/NVIDIA/skills) |
 | mosaico-labs/mosaico | 918 | Python | 367.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | alireza787b/mavsdk_drone_show | 311 | Python | 124.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | commaai/openpilot | 63402 | Python | 25360.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15685 | C++ | 6274.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13373 | Python | 5349.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13374 | Python | 5349.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11294 | Rust | 4517.7 | [link](https://github.com/rerun-io/rerun) |
 | nasa-jpl/open-source-rover | 9575 | Prolog | 3830.1 | [link](https://github.com/nasa-jpl/open-source-rover) |
 | isaac-sim/IsaacLab | 7893 | Python | 3157.3 | [link](https://github.com/isaac-sim/IsaacLab) |
@@ -133,16 +133,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-13 | Recruiting Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4658691006) |
+| 2026-08-13 | Director of Technical Accounting & Reporting | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6142438004) |
 | 2026-08-13 | Senior Solutions Engineer | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6132323004) |
 | 2026-08-11 | Project Lead, Data Creators (CDMX) | Figure AI | Ciudad de México | [link](https://job-boards.greenhouse.io/figureai/jobs/4702544006) |
-| 2026-08-11 | Recruiting Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4658691006) |
 | 2026-08-11 | User Support Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4703943006) |
 | 2026-08-11 | Associate General Counsel, Corporate  | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6110896004) |
 | 2026-08-11 | Recruiting Coordinator (Contract) | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6141052004) |
 | 2026-08-11 | Robotics Software Engineer III, Manipulation | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6132259004) |
 | 2026-08-11 | Senior AI Software Engineer, Reinforcement Learning | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127693004) |
 | 2026-08-10 | IT Operations Specialist (CDMX) | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4702863006) |
-| 2026-08-10 | IT Operations Specialist (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702538006) |
 
 ## Automation
 
