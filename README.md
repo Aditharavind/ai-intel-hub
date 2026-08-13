@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-13 10:55 UTC
+Last Updated: 2026-08-13 11:36 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-13 | Hacking Fiber To The Home | Hackaday | [link](https://hackaday.com/2026/08/13/hacking-fiber-to-the-home/) |
 | 2026-08-13 | The Chernobyl NPP and Forty Years of Robots for High Radiation Environments | Hackaday | [link](https://hackaday.com/2026/08/13/the-chernobyl-npp-and-forty-years-of-robots-for-high-radiation-environments/) |
 | 2026-08-13 | Smart Clock Helps With Medication Management | Hackaday | [link](https://hackaday.com/2026/08/12/smart-clock-helps-with-medication-management/) |
 | 2026-08-13 | Have Scientists Stuck the Landing on the Glueball Discovery? | Hackaday | [link](https://hackaday.com/2026/08/12/have-scientists-stuck-the-landing-on-the-glueball-discovery/) |
 | 2026-08-13 | Qualcomm Snapdragon C Arm SoC outperforms an Intel N250 CPU by up to 67 percent in “unplugged” benchmarks | CNX Software | [link](https://www.cnx-software.com/2026/08/13/qualcomm-snapdragon-c-arm-soc-outperforms-an-intel-n250-cpu-by-up-to-67-percent-in-unplugged-benchmarks/) |
 | 2026-08-13 | WCH CH32V407/467 RISC-V MCU integrates Fast Ethernet MAC + PHY, 480 Mbps USB 2.0 PHY, up to 8 MB on-chip PSRAM | CNX Software | [link](https://www.cnx-software.com/2026/08/13/wch-ch32v407-467-risc-v-mcu-integrates-fast-ethernet-mac-phy-480-mbps-usb-2-0-phy-up-to-8-mb-on-chip-psram/) |
-| 2026-08-13 | The Best We Can Hope For Is A Soft Landing | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/the-best-we-can-hope-for-is-a-soft-landing-2026-08/) |
-| 2026-08-13 | British car beats world land speed record at 406 mph | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/british-car-beats-world-land-speed-record-at-406-mph-2026-08/) |
-| 2026-08-13 | Detecting mines using RGB imagery | Electronics Weekly | [link](https://www.electronicsweekly.com/news/research-news/detecting-mines-using-rgb-imagery-2026-08/) |
-| 2026-08-13 | CAN XL transceiver supports data rates up to 20Mbps | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/can-xl-transceiver-supports-data-rates-up-to-20mbps-2026-08/) |
-| 2026-08-13 | Ceramic disc safety capacitors with a Y1 rating of 300 VAC and 1500 VDCin | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/passives-products/ceramic-disc-safety-capacitors-with-a-y1-rating-of-300-vac-and-1500-vdcin-2026-08/) |
+| 2026-08-13 | Flexi Skeleton Snake – Articulated Support-Free Vertebrae #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/13/flexi-skeleton-snake-articulated-support-free-vertebrae-3dthursday-3dprinting/) |
+| 2026-08-13 | ESP32 DevKit Case – Sturdy Snap-On for ESPHome (USB-C + Micro USB) #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/13/esp32-devkit-case-sturdy-snap-on-for-esphome-usb-c-micro-usb-3dthursday-3dprinting/) |
+| 2026-08-13 | PixelTiles – Modular Smart LED Wall Panels with WLED #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/13/pixeltiles-modular-smart-led-wall-panels-with-wled-3dthursday-3dprinting/) |
+| 2026-08-13 | Modular Screwdriver Gridfinity Organizer – 10 Sizes, Half-Grid Compatible #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/13/modular-screwdriver-gridfinity-organizer-10-sizes-half-grid-compatible-3dthursday-3dprinting/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-08-13 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-13 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-08-13 | yanshi-robotics/yanshi-unitree-g1-minimal | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-unitree-g1-minimal) |
+| 2026-08-13 | yanshi-robotics/yanshi-unitree-go2-default | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-unitree-go2-default) |
+| 2026-08-13 | yanshi-robotics/yanshi-isaaclab-ant-default | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-isaaclab-ant-default) |
+| 2026-08-13 | yanshi-robotics/yanshi-isaaclab-cartpole-default | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-isaaclab-cartpole-default) |
+| 2026-08-13 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-13 | yanshi-robotics/yanshi-berkeley-humanoid_lite-humanoid | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-berkeley-humanoid_lite-humanoid) |
 | 2026-08-13 | yanshi-robotics/yanshi-agibot-x2-v1_4_0 | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-agibot-x2-v1_4_0) |
 | 2026-08-13 | yanshi-robotics/yanshi-unitree-g1-dof29 | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-unitree-g1-dof29) |
 | 2026-08-13 | MINT-SJTU/Evo1_RoboTwin2_datascale | 0 | 0 | [link](https://huggingface.co/MINT-SJTU/Evo1_RoboTwin2_datascale) |
-| 2026-08-13 | zaleni/wsa-b-robotwin-abs-scratch-default | 0 | 0 | [link](https://huggingface.co/zaleni/wsa-b-robotwin-abs-scratch-default) |
-| 2026-08-13 | junbrro/hawor_fp24load_l1mean_robotA4_human-box_vlmfreeze_bsz8_30k | 0 | 0 | [link](https://huggingface.co/junbrro/hawor_fp24load_l1mean_robotA4_human-box_vlmfreeze_bsz8_30k) |
-| 2026-08-13 | zaleni/wsa-b-robotwin-abs-scratch-causal | 0 | 0 | [link](https://huggingface.co/zaleni/wsa-b-robotwin-abs-scratch-causal) |
-| 2026-08-13 | junbrro/hawor_fp24load_l3visionl8_robotA4_human-box_vlmfreeze_bsz8_30k | 0 | 0 | [link](https://huggingface.co/junbrro/hawor_fp24load_l3visionl8_robotA4_human-box_vlmfreeze_bsz8_30k) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2888 | Python | 1155.3 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2889 | Python | 1155.7 | [link](https://github.com/NVIDIA/skills) |
 | mosaico-labs/mosaico | 916 | Python | 366.5 | [link](https://github.com/mosaico-labs/mosaico) |
+| alireza787b/mavsdk_drone_show | 311 | Python | 124.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | commaai/openpilot | 63401 | Python | 25360.5 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15683 | C++ | 6273.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | earthtojake/text-to-cad | 13359 | Python | 5343.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11295 | Rust | 4518.1 | [link](https://github.com/rerun-io/rerun) |
-| nasa-jpl/open-source-rover | 9571 | Prolog | 3828.5 | [link](https://github.com/nasa-jpl/open-source-rover) |
+| nasa-jpl/open-source-rover | 9572 | Prolog | 3828.9 | [link](https://github.com/nasa-jpl/open-source-rover) |
 | isaac-sim/IsaacLab | 7888 | Python | 3155.3 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4525 | Python | 1810.1 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3868 | Rust | 1547.3 | [link](https://github.com/dora-rs/dora) |
+| RLinf/RLinf | 4526 | Python | 1810.5 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -127,7 +127,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
 | 2026-08-11 | NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlUtQnQyZ1F3eXZqd1ZVMlNSN0M2U21FZlhmMHp3YnowOUVlbWI2ZnVRdUhrWVJGNVlwOFdKMV9XRHktUXRmd2hMQlNsLVU0eHlwYm9CUmY2eU85U19WTlIyajFJWlF0SV9FTHNSelRLRkpsb3ZEMUxrVVBzLTZmUzJFU1VLSEtsMmpfc0REcHA3eGJ3QTI1Xy1ielNNTENLLTNKRXhiN1h6WWlES2QwREgyV2dKQmxQaDBWU0xjYjE1TWRzQXQyWDdzZ1ZVZw?oc=5) |
 | 2026-08-11 | Physical AI Awards: Apply for $150K in Compute - SynBioBeta | physical ai startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTkI2WjZla1Q3ejhYbkpGNF9YQm81b3dMZ2dleXVrZnZnZUlhM01JOXUxcVgyeU1BT2Nicm1wVHJZRTBEYTJKLW93SHdGSUhZY01QUTF2RDk4YTRuT0lsX2RldFAxeUVyLWE4dlY1elByY1VKcEZmSzR2Yl91bEhNYnN3?oc=5) |
-| 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
+| 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - bizjournals.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
 | 2026-08-10 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
 
 ## Jobs
