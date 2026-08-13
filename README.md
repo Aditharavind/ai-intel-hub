@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-13 15:45 UTC
+Last Updated: 2026-08-13 16:41 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-13 | OpenAI appoints Dali Rajic as Chief Revenue Officer | OpenAI | [link](https://openai.com/index/dali-rajic-chief-revenue-officer) |
 | 2026-08-12 | From assistance to execution: How enterprises put AI to work | OpenAI | [link](https://openai.com/index/how-enterprises-put-ai-to-work) |
 | 2026-08-12 | How RingCentral builds AI-native work from engineering to ops | OpenAI | [link](https://openai.com/index/ringcentral) |
 | 2026-08-12 | Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis | Hugging Face | [link](https://huggingface.co/blog/allenai/olmoearth-embeddings) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | Thinking of ACE? We Can Do It with Fewer Tokens | Hugging Face | [link](https://huggingface.co/blog/ibm-research/altk-evolve-sldd) |
 | 2026-08-10 | OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas | OpenAI | [link](https://openai.com/index/responsible-ai-infrastructure-texas) |
 | 2026-08-10 | Model ML completes finance work more efficiently with GPT-5.6 Sol | OpenAI | [link](https://openai.com/index/model-ml) |
-| 2026-08-10 | What building an AI-native finance function taught me | OpenAI | [link](https://openai.com/index/building-an-ai-native-finance-function) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -94,10 +94,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | NVIDIA/skills | 2904 | Python | 1161.7 | [link](https://github.com/NVIDIA/skills) |
 | mosaico-labs/mosaico | 917 | Python | 366.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | alireza787b/mavsdk_drone_show | 311 | Python | 124.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 63403 | Python | 25361.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63402 | Python | 25360.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15684 | C++ | 6273.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | earthtojake/text-to-cad | 13372 | Python | 5348.9 | [link](https://github.com/earthtojake/text-to-cad) |
-| rerun-io/rerun | 11295 | Rust | 4518.1 | [link](https://github.com/rerun-io/rerun) |
+| rerun-io/rerun | 11294 | Rust | 4517.7 | [link](https://github.com/rerun-io/rerun) |
 | nasa-jpl/open-source-rover | 9575 | Prolog | 3830.1 | [link](https://github.com/nasa-jpl/open-source-rover) |
 | isaac-sim/IsaacLab | 7891 | Python | 3156.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4528 | Python | 1811.3 | [link](https://github.com/RLinf/RLinf) |
@@ -124,7 +124,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-12 | Chelsea Finn: The State of Physical Intelligence in Robotics - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVdVWVZtVElfYVFmUGYxMkptaENSMzFHTkJrcFJRakNfdGI1eTVfX3Yyc2pIeEEzSEpnQXl2N3BqdDczMnlKNERDcjVYeDBnMjVvVDFxS3B4ZWxSazJyZU4ya01xeEhDMUxqQV95c3hZbl9Da0EyTXZFajdlcjlwNF9XNXFCczBZUnl0R252QUJrUGczWkVrMncyVW5ubTNlSldRX1lxbUNfVlU?oc=5) |
 | 2026-08-12 | Six Months, $74.1 Million: Westlake University Professor's Embodied AI Startup Secures Four Funding Rounds - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSm5lLTczQTE2eDNNdWZpQmppanBMYUNJSVlPOTlRUW1lbHNjSjh1UzI3UnBsQldXQnRhYS05YnVZbWZXbkF2MXNzMmZubW0wVDJwS19kYXA2SDdWTjZrR1ByZVpUN3NjMjlBZ1FGWFMwQ0J6dmc?oc=5) |
 | 2026-08-12 | BYD Unveils Its Xiao Di Humanoid Robot Days After US Bans Chinese Robots - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDNYVVkyeU5iLWt2R3RVbnRqN2Qya1NIRkZKemhyMlhJbDFWRl9EanlyTjY1QWVTZERqcU1WODBpR016c1l6djN3NVBJOVZyV0trLTFwckE2M3o0aTZwSHdDSEFOdEFLaWl0SXdJRXdvTWtyRjhKRlZVMEgtZWtlY1Z6WEpudjQzdk5HRzgyTTdwOVNPUTJ5T3dLYnJuTDk3WGc?oc=5) |
-| 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
+| 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - geekwire.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
 | 2026-08-11 | NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlUtQnQyZ1F3eXZqd1ZVMlNSN0M2U21FZlhmMHp3YnowOUVlbWI2ZnVRdUhrWVJGNVlwOFdKMV9XRHktUXRmd2hMQlNsLVU0eHlwYm9CUmY2eU85U19WTlIyajFJWlF0SV9FTHNSelRLRkpsb3ZEMUxrVVBzLTZmUzJFU1VLSEtsMmpfc0REcHA3eGJ3QTI1Xy1ielNNTENLLTNKRXhiN1h6WWlES2QwREgyV2dKQmxQaDBWU0xjYjE1TWRzQXQyWDdzZ1ZVZw?oc=5) |
 | 2026-08-11 | Physical AI Awards: Apply for $150K in Compute - SynBioBeta | physical ai startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTkI2WjZla1Q3ejhYbkpGNF9YQm81b3dMZ2dleXVrZnZnZUlhM01JOXUxcVgyeU1BT2Nicm1wVHJZRTBEYTJKLW93SHdGSUhZY01QUTF2RDk4YTRuT0lsX2RldFAxeUVyLWE4dlY1elByY1VKcEZmSzR2Yl91bEhNYnN3?oc=5) |
 | 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
