@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-13 05:24 UTC
+Last Updated: 2026-08-13 07:05 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -52,13 +52,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-13 | Smart Clock Helps With Medication Management | Hackaday | [link](https://hackaday.com/2026/08/12/smart-clock-helps-with-medication-management/) |
 | 2026-08-13 | Have Scientists Stuck the Landing on the Glueball Discovery? | Hackaday | [link](https://hackaday.com/2026/08/12/have-scientists-stuck-the-landing-on-the-glueball-discovery/) |
 | 2026-08-13 | WCH CH32V407/467 RISC-V MCU integrates Fast Ethernet MAC + PHY, 480 Mbps USB 2.0 PHY, up to 8 MB on-chip PSRAM | CNX Software | [link](https://www.cnx-software.com/2026/08/13/wch-ch32v407-467-risc-v-mcu-integrates-fast-ethernet-mac-phy-480-mbps-usb-2-0-phy-up-to-8-mb-on-chip-psram/) |
+| 2026-08-13 | The Best We Can Hope For Is A Soft Landing | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/the-best-we-can-hope-for-is-a-soft-landing-2026-08/) |
+| 2026-08-13 | British car beats world land speed record at 406 mph | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/british-car-beats-world-land-speed-record-at-406-mph-2026-08/) |
+| 2026-08-13 | Detecting mines using RGB imagery | Electronics Weekly | [link](https://www.electronicsweekly.com/news/research-news/detecting-mines-using-rgb-imagery-2026-08/) |
+| 2026-08-13 | CAN XL transceiver supports data rates up to 20Mbps | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/can-xl-transceiver-supports-data-rates-up-to-20mbps-2026-08/) |
+| 2026-08-13 | Ceramic disc safety capacitors with a Y1 rating of 300 VAC and 1500 VDCin | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/passives-products/ceramic-disc-safety-capacitors-with-a-y1-rating-of-300-vac-and-1500-vdcin-2026-08/) |
 | 2026-08-13 | UK Chain Hotels Fare Better Than Independents | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/consumer/uk-chain-hotels-fare-better-than-independents-2026-08/) |
-| 2026-08-13 | ESP32-C6 DevKitC V1.2 Modular Case – Snap-Fit with Magnetic Base #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/13/esp32-c6-devkitc-v1-2-modular-case-snap-fit-with-magnetic-base-3dthursday-3dprinting/) |
-| 2026-08-12 | Your Laptop Keyboard, On Another Device | Hackaday | [link](https://hackaday.com/2026/08/12/your-laptop-keyboard-on-another-device/) |
-| 2026-08-12 | The Agony of Packaging Linux Apps | Hackaday | [link](https://hackaday.com/2026/08/12/the-agony-of-packaging-linux-apps/) |
-| 2026-08-12 | Read a USB Logitech Racing Wheel on an ESP32‑S3 | Hackaday | [link](https://hackaday.com/2026/08/12/read-a-usb-logitech-racing-wheel-on-an-esp32-s3/) |
-| 2026-08-12 | Procrastineers Rejoice! 2026 Supercon Call For Participation Extended | Hackaday | [link](https://hackaday.com/2026/08/12/procrastineers-rejoice-2026-supercon-call-for-participation-extended/) |
-| 2026-08-12 | Watch Today’s Eclipse at Home | Hackaday | [link](https://hackaday.com/2026/08/12/watch-todays-eclipse-at-home/) |
+| 2026-08-13 | 32×32 LED Matrix Frame with Diffuser Grid – ESP-WROOM-32 Snap-Fit #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/13/32x32-led-matrix-frame-with-diffuser-grid-esp-wroom-32-snap-fit-3dthursday-3dprinting/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -78,27 +78,27 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-13 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-08-13 | zaleni/wsa-b-robotwin-abs-scratch-default | 0 | 0 | [link](https://huggingface.co/zaleni/wsa-b-robotwin-abs-scratch-default) |
+| 2026-08-13 | junbrro/hawor_fp24load_l1mean_robotA4_human-box_vlmfreeze_bsz8_30k | 0 | 0 | [link](https://huggingface.co/junbrro/hawor_fp24load_l1mean_robotA4_human-box_vlmfreeze_bsz8_30k) |
+| 2026-08-13 | zaleni/wsa-b-robotwin-abs-scratch-causal | 0 | 0 | [link](https://huggingface.co/zaleni/wsa-b-robotwin-abs-scratch-causal) |
+| 2026-08-13 | junbrro/hawor_fp24load_l3visionl8_robotA4_human-box_vlmfreeze_bsz8_30k | 0 | 0 | [link](https://huggingface.co/junbrro/hawor_fp24load_l3visionl8_robotA4_human-box_vlmfreeze_bsz8_30k) |
+| 2026-08-13 | junbrro/hawor_fp24load_h3zero_legacy_robotA4_human-box_vlmfreeze_bsz8_30k | 0 | 0 | [link](https://huggingface.co/junbrro/hawor_fp24load_h3zero_legacy_robotA4_human-box_vlmfreeze_bsz8_30k) |
+| 2026-08-13 | junbrro/hawor_fp24load_h2shuffle_legacy_robotA4_human-box_vlmfreeze_bsz8_30k | 0 | 0 | [link](https://huggingface.co/junbrro/hawor_fp24load_h2shuffle_legacy_robotA4_human-box_vlmfreeze_bsz8_30k) |
+| 2026-08-13 | junbrro/hawor_fp24load_h1correct_legacy_robotA4_human-box_vlmfreeze_bsz8_30k | 0 | 0 | [link](https://huggingface.co/junbrro/hawor_fp24load_h1correct_legacy_robotA4_human-box_vlmfreeze_bsz8_30k) |
+| 2026-08-13 | junbrro/hawor_fp24load_h0aux_legacy_robotA4_human-box_vlmfreeze_bsz8_30k | 0 | 0 | [link](https://huggingface.co/junbrro/hawor_fp24load_h0aux_legacy_robotA4_human-box_vlmfreeze_bsz8_30k) |
 | 2026-08-13 | RobotisSW/Task_Pick_Water_WhiteShelf_50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Pick_Water_WhiteShelf_50K) |
-| 2026-08-13 | RobotisSW/Task_Pick_Water_WhiteShelf_10K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_Pick_Water_WhiteShelf_10K) |
-| 2026-08-13 | rahul-ai-01/real_robot_69000 | 0 | 0 | [link](https://huggingface.co/rahul-ai-01/real_robot_69000) |
-| 2026-08-13 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
-| 2026-08-13 | Ryukijano/marl-world-model | 0 | 0 | [link](https://huggingface.co/Ryukijano/marl-world-model) |
-| 2026-08-13 | upna/action_stack3cam_action_policy_edge_2000 | 0 | 0 | [link](https://huggingface.co/upna/action_stack3cam_action_policy_edge_2000) |
-| 2026-08-13 | nosuke113/parc2026-policy | 0 | 1 | [link](https://huggingface.co/nosuke113/parc2026-policy) |
-| 2026-08-12 | rahul-ai-01/real_robot_60000 | 0 | 0 | [link](https://huggingface.co/rahul-ai-01/real_robot_60000) |
-| 2026-08-12 | D-Robotics/LocateAnything-3B-BPU | 0 | 0 | [link](https://huggingface.co/D-Robotics/LocateAnything-3B-BPU) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2877 | Python | 1150.9 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2881 | Python | 1152.5 | [link](https://github.com/NVIDIA/skills) |
 | commaai/openpilot | 63398 | Python | 25359.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15682 | C++ | 6272.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13345 | Python | 5338.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13351 | Python | 5340.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11293 | Rust | 4517.3 | [link](https://github.com/rerun-io/rerun) |
 | nasa-jpl/open-source-rover | 9569 | Prolog | 3827.7 | [link](https://github.com/nasa-jpl/open-source-rover) |
 | isaac-sim/IsaacLab | 7887 | Python | 3154.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4521 | Python | 1808.5 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 4522 | Python | 1808.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3869 | Rust | 1547.7 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 501 | HTML | 200.5 | [link](https://github.com/sou350121/VLA-Handbook) |
 
