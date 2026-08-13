@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-13 08:58 UTC
+Generated: 2026-08-13 09:57 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-08-13 08:58 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63399 | 25359.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63400 | 25360.1 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30298 | 12119.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16112 | 6444.9 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16113 | 6445.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15682 | 6272.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| TianxingChen/Embodied-AI-Guide | 15409 | 6163.7 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
+| TianxingChen/Embodied-AI-Guide | 15412 | 6164.9 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -45,4 +45,4 @@ Generated: 2026-08-13 08:58 UTC
 | 2026-08-12 | Chelsea Finn: The State of Physical Intelligence in Robotics - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVdVWVZtVElfYVFmUGYxMkptaENSMzFHTkJrcFJRakNfdGI1eTVfX3Yyc2pIeEEzSEpnQXl2N3BqdDczMnlKNERDcjVYeDBnMjVvVDFxS3B4ZWxSazJyZU4ya01xeEhDMUxqQV95c3hZbl9Da0EyTXZFajdlcjlwNF9XNXFCczBZUnl0R252QUJrUGczWkVrMncyVW5ubTNlSldRX1lxbUNfVlU?oc=5) |
 | 2026-08-12 | Former Alibaba Researcher Announces New Startup on Digital and Physical AI Agents - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS0yNmtES1hJM2JVdlhsN3ozemF5bnpqbjM3YUE2TXFmM1JuY2FtVEZ6NHl1MmpWclg5aV96LURKTER3bElQQTAxNE9CdDBva1Q3OE1yTFNfeV9lRHRPZTFHNFQtQWxXNnRiXzFUZzhIcTNuV3RWSXZkUWF4S0J5YjZZNHJqZUl5UjJVUHAyS3lhbU1pdTUycjRwcUpoM2J5b2VvRFR4dEowZG9oZVd0bzhETkNkUQ?oc=5) |
 | 2026-08-12 | Six Months, $74.1 Million: Westlake University Professor's Embodied AI Startup Secures Four Funding Rounds - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSm5lLTczQTE2eDNNdWZpQmppanBMYUNJSVlPOTlRUW1lbHNjSjh1UzI3UnBsQldXQnRhYS05YnVZbWZXbkF2MXNzMmZubW0wVDJwS19kYXA2SDdWTjZrR1ByZVpUN3NjMjlBZ1FGWFMwQ0J6dmc?oc=5) |
-| 2026-08-12 | BYD Unveils Its Xiao Di Humanoid Robot Days After US Bans Chinese Robots - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDNYVVkyeU5iLWt2R3RVbnRqN2Qya1NIRkZKemhyMlhJbDFWRl9EanlyTjY1QWVTZERqcU1WODBpR016c1l6djN3NVBJOVZyV0trLTFwckE2M3o0aTZwSHdDSEFOdEFLaWl0SXdJRXdvTWtyRjhKRlZVMEgtZWtlY1Z6WEpudjQzdk5HRzgyTTdwOVNPUTJ5T3dLYnJuTDk3WGc?oc=5) |
+| 2026-08-12 | BYD Unveils Its Xiao Di Humanoid Robot Days After US Bans Chinese Robots - startupfortune.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDNYVVkyeU5iLWt2R3RVbnRqN2Qya1NIRkZKemhyMlhJbDFWRl9EanlyTjY1QWVTZERqcU1WODBpR016c1l6djN3NVBJOVZyV0trLTFwckE2M3o0aTZwSHdDSEFOdEFLaWl0SXdJRXdvTWtyRjhKRlZVMEgtZWtlY1Z6WEpudjQzdk5HRzgyTTdwOVNPUTJ5T3dLYnJuTDk3WGc?oc=5) |
