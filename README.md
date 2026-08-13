@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-13 18:43 UTC
+Last Updated: 2026-08-13 19:48 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -38,13 +38,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-13 | ARM Institute calls for defense manufacturing technology projects | Robotics Business Review | [link](https://www.therobotreport.com/arm-institute-calls-for-defense-manufacturing-technology-project/) |
 | 2026-08-13 | Experts to discuss the state of humanoid robots at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/experts-discuss-state-humanoid-robots-robobusiness-2026/) |
 | 2026-08-13 | Mobile manipulators and humanoids: The future of robotics | Robotics Business Review | [link](https://www.therobotreport.com/mobile-manipulators-and-humanoids/) |
+| 2026-08-13 | BioflexBot robot hand aims to replicate key human hand motions | Robotics Business Review | [link](https://www.therobotreport.com/bioflexbot-robot-hand-aims-to-replicate-key-human-hand-motions/) |
 | 2026-08-12 | DAF Trucks to integrate Einride Driver to scale autonomous electric freight | Robotics Business Review | [link](https://www.therobotreport.com/daf-trucks-integrates-einride-driver-scale-autonomous-electric-freight/) |
 | 2026-08-12 | Strengthening U.S. Army sustainment: TALUS to deliver autonomous distribution | Robotics Business Review | [link](https://www.therobotreport.com/strengthening-u-s-army-sustainment-talus-to-deliver-autonomous-distribution/) |
 | 2026-08-12 | Q2 2026 robotics demand increased across industries, reports A3 | Robotics Business Review | [link](https://www.therobotreport.com/q2-2026-robotics-demand-increased-across-industries-reports-a3/) |
 | 2026-08-12 | SEW-EURODRIVE adds economy series to its planetary servo gear unit portfolio | Robotics Business Review | [link](https://www.therobotreport.com/sew-eurodrive-adds-economy-series-planetary-servo-gear-unit-portfolio/) |
 | 2026-08-12 | Celona launches Orion agentic wireless platform built for physical AI and robotics | Robotics Business Review | [link](https://www.therobotreport.com/celona-launches-orion-agentic-wireless-platform-built-for-physical-ai-robotics/) |
 | 2026-08-11 | Webinar to discuss safety and scaling robot fleets in the warehouse | Robotics Business Review | [link](https://www.therobotreport.com/webinar-to-discuss-safety-scaling-robot-fleets-warehouse/) |
-| 2026-08-11 | The 370-billion-dollar race: How integrated design can help humanoid manufacturers succeed in a rapidly growing market | Robotics Business Review | [link](https://www.therobotreport.com/the-370-billion-dollar-race-how-integrated-design-can-help-humanoid-manufacturers-succeed-in-a-rapidly-growing-market/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -77,12 +77,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-13 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-13 | mario-d-robot/qwen-image-edit-plus-nsfw-lora | 0 | 0 | [link](https://huggingface.co/mario-d-robot/qwen-image-edit-plus-nsfw-lora) |
 | 2026-08-13 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-13 | qualia-robotics/pi05-so101-candy-b4d4ae76 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-so101-candy-b4d4ae76) |
 | 2026-08-13 | CoffeeBEEE/robotwin2_pi0_place_shoe_reproduction | 0 | 0 | [link](https://huggingface.co/CoffeeBEEE/robotwin2_pi0_place_shoe_reproduction) |
 | 2026-08-13 | huggingaccounttest/human-robot-translator-model-2-garment | 0 | 0 | [link](https://huggingface.co/huggingaccounttest/human-robot-translator-model-2-garment) |
-| 2026-08-13 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-13 | junbrro/hawor_fp24load_l2named_robotA4_human-box_vlmfreeze_bsz8_30k | 0 | 0 | [link](https://huggingface.co/junbrro/hawor_fp24load_l2named_robotA4_human-box_vlmfreeze_bsz8_30k) |
 | 2026-08-13 | OpenWAM/New_Pretrained_RoboTwin_Clean_SFT | 0 | 0 | [link](https://huggingface.co/OpenWAM/New_Pretrained_RoboTwin_Clean_SFT) |
 | 2026-08-13 | execbat/pi05-robot-finetuned | 0 | 0 | [link](https://huggingface.co/execbat/pi05-robot-finetuned) |
@@ -91,11 +91,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2911 | Python | 1164.5 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2914 | Python | 1165.7 | [link](https://github.com/NVIDIA/skills) |
 | mosaico-labs/mosaico | 918 | Python | 367.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | alireza787b/mavsdk_drone_show | 311 | Python | 124.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | commaai/openpilot | 63402 | Python | 25360.9 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15684 | C++ | 6273.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15685 | C++ | 6274.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | earthtojake/text-to-cad | 13373 | Python | 5349.3 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11294 | Rust | 4517.7 | [link](https://github.com/rerun-io/rerun) |
 | nasa-jpl/open-source-rover | 9575 | Prolog | 3830.1 | [link](https://github.com/nasa-jpl/open-source-rover) |
@@ -120,8 +120,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-12 | Employment immunity: the quiet revolution of robotics and physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lcURSMEFORUVpUHBsejVWMVhTYnZMbDJ6aUVVeVRNRDg5Tm12NDE3SnBDeGNhYmVCNC14TFFPVTJZcldIbUZwNzdNWXpBVllRTXhlRC1EV3hmQ0NNbnUyTnlOQ2hLR1pI?oc=5) |
-| 2026-08-12 | Former Alibaba Researcher Announces New Startup on Digital and Physical AI Agents - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS0yNmtES1hJM2JVdlhsN3ozemF5bnpqbjM3YUE2TXFmM1JuY2FtVEZ6NHl1MmpWclg5aV96LURKTER3bElQQTAxNE9CdDBva1Q3OE1yTFNfeV9lRHRPZTFHNFQtQWxXNnRiXzFUZzhIcTNuV3RWSXZkUWF4S0J5YjZZNHJqZUl5UjJVUHAyS3lhbU1pdTUycjRwcUpoM2J5b2VvRFR4dEowZG9oZVd0bzhETkNkUQ?oc=5) |
-| 2026-08-12 | Chelsea Finn: The State of Physical Intelligence in Robotics - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVdVWVZtVElfYVFmUGYxMkptaENSMzFHTkJrcFJRakNfdGI1eTVfX3Yyc2pIeEEzSEpnQXl2N3BqdDczMnlKNERDcjVYeDBnMjVvVDFxS3B4ZWxSazJyZU4ya01xeEhDMUxqQV95c3hZbl9Da0EyTXZFajdlcjlwNF9XNXFCczBZUnl0R252QUJrUGczWkVrMncyVW5ubTNlSldRX1lxbUNfVlU?oc=5) |
+| 2026-08-12 | Former Alibaba Researcher Announces New Startup on Digital and Physical AI Agents - theinformation.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS0yNmtES1hJM2JVdlhsN3ozemF5bnpqbjM3YUE2TXFmM1JuY2FtVEZ6NHl1MmpWclg5aV96LURKTER3bElQQTAxNE9CdDBva1Q3OE1yTFNfeV9lRHRPZTFHNFQtQWxXNnRiXzFUZzhIcTNuV3RWSXZkUWF4S0J5YjZZNHJqZUl5UjJVUHAyS3lhbU1pdTUycjRwcUpoM2J5b2VvRFR4dEowZG9oZVd0bzhETkNkUQ?oc=5) |
 | 2026-08-12 | Six Months, $74.1 Million: Westlake University Professor's Embodied AI Startup Secures Four Funding Rounds - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSm5lLTczQTE2eDNNdWZpQmppanBMYUNJSVlPOTlRUW1lbHNjSjh1UzI3UnBsQldXQnRhYS05YnVZbWZXbkF2MXNzMmZubW0wVDJwS19kYXA2SDdWTjZrR1ByZVpUN3NjMjlBZ1FGWFMwQ0J6dmc?oc=5) |
 | 2026-08-12 | BYD Unveils Its Xiao Di Humanoid Robot Days After US Bans Chinese Robots - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDNYVVkyeU5iLWt2R3RVbnRqN2Qya1NIRkZKemhyMlhJbDFWRl9EanlyTjY1QWVTZERqcU1WODBpR016c1l6djN3NVBJOVZyV0trLTFwckE2M3o0aTZwSHdDSEFOdEFLaWl0SXdJRXdvTWtyRjhKRlZVMEgtZWtlY1Z6WEpudjQzdk5HRzgyTTdwOVNPUTJ5T3dLYnJuTDk3WGc?oc=5) |
 | 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
@@ -129,6 +128,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
 | 2026-08-10 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
 | 2026-08-10 | Explainer-What is Unitree and why are China’s humanoid robot makers racing to list? - WTVB | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG03UFlKLTk1TEVuYWRZMEVsY01YY3I4MExPQWN0WGtMRjYwNlZpTHFJTEZuU00tOVRGa0VWbUhmSnhLR25qQW5RZF9BUHl1bUdrYXNvMzJKNFliM1piOXRwal9TcjNDeWpQdzVqYktpcUJqM1pQZ3lZLTZISVpxZVNzRmZYbjc0TTNsSGt2ajZMUmpKU2psOFR0UFhpajVnZzNOV3FMa09uUVVrNzQ1TGFB?oc=5) |
+| 2026-08-10 | Holiday Robotics Raises ₩155B Series A to Accelerate Humanoid Robot Commercialization - AsiaTechDaily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUlHTmhXZ0d3OFF2MExMWVVXWHBzbkJ6djF1TnZsZzV5Z29KeWIyclhUcTZLSmtFdURpd2hiWElfWEVDWkdRRnV0ZENrM2ZsNHo3V0lfUnRmd19lNWxaQ3N6SGJ0aktwa1pZOGh2VlRyWldacXhpbVFxRVNQTFRPZVVuZWpkRmRFN3J1cmYtRGhkaHJ0cHBvSnZaa2hyaC00MVFOUjJrdFdfTzdTUmFCc1NFWkFiSm1sclVOVQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
