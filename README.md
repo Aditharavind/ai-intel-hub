@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-13 17:46 UTC
+Last Updated: 2026-08-13 18:43 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-13 | The builder’s guide to GPT‑5.6 | OpenAI | [link](https://openai.com/index/builders-guide-to-gpt-5-6) |
 | 2026-08-13 | Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed | OpenAI | [link](https://openai.com/index/previewing-ultrafast) |
 | 2026-08-13 | OpenAI appoints Dali Rajic as Chief Revenue Officer | OpenAI | [link](https://openai.com/index/dali-rajic-chief-revenue-officer) |
 | 2026-08-13 | Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets | Hugging Face | [link](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-12 | Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis | Hugging Face | [link](https://huggingface.co/blog/allenai/olmoearth-embeddings) |
 | 2026-08-12 | LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b) |
 | 2026-08-11 | Testing ads in ChatGPT | OpenAI | [link](https://openai.com/index/testing-ads-in-chatgpt) |
-| 2026-08-11 | Daybreak models are now available on AWS | OpenAI | [link](https://openai.com/index/daybreak-models-are-now-available-on-aws) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-13 | Bridging Older Tasmota Hardware Into Apple Home | Hackaday | [link](https://hackaday.com/2026/08/13/bridging-older-tasmota-hardware-into-apple-home/) |
 | 2026-08-13 | Supercon Ten Tickets on Sale Now | Hackaday | [link](https://hackaday.com/2026/08/13/supercon-ten-tickets-on-sale-now/) |
 | 2026-08-13 | Holograms, From Your Plotter | Hackaday | [link](https://hackaday.com/2026/08/13/holograms-from-your-plotter/) |
 | 2026-08-13 | Bladerunners and the Mother of Invention | Hackaday | [link](https://hackaday.com/2026/08/13/bladerunners-and-the-mother-of-invention/) |
 | 2026-08-13 | Hacking Fiber To The Home | Hackaday | [link](https://hackaday.com/2026/08/13/hacking-fiber-to-the-home/) |
 | 2026-08-13 | The Chernobyl NPP and Forty Years of Robots for High Radiation Environments | Hackaday | [link](https://hackaday.com/2026/08/13/the-chernobyl-npp-and-forty-years-of-robots-for-high-radiation-environments/) |
 | 2026-08-13 | Smart Clock Helps With Medication Management | Hackaday | [link](https://hackaday.com/2026/08/12/smart-clock-helps-with-medication-management/) |
-| 2026-08-13 | Have Scientists Stuck the Landing on the Glueball Discovery? | Hackaday | [link](https://hackaday.com/2026/08/12/have-scientists-stuck-the-landing-on-the-glueball-discovery/) |
 | 2026-08-13 | AAEON PICO-ADN2 – A low-profile Alder Lake-N Pico-ITX SBC for space-constrained applications | CNX Software | [link](https://www.cnx-software.com/2026/08/13/aaeon-pico-adn2-a-low-profile-alder-lake-n-pico-itx-sbc-for-space-constrained-applications/) |
 | 2026-08-13 | Qualcomm Snapdragon C Arm SoC outperforms an Intel N250 CPU by up to 67 percent in “unplugged” benchmarks | CNX Software | [link](https://www.cnx-software.com/2026/08/13/qualcomm-snapdragon-c-arm-soc-outperforms-an-intel-n250-cpu-by-up-to-67-percent-in-unplugged-benchmarks/) |
 | 2026-08-13 | WCH CH32V407/467 RISC-V MCU integrates Fast Ethernet MAC + PHY, 480 Mbps USB 2.0 PHY, up to 8 MB on-chip PSRAM | CNX Software | [link](https://www.cnx-software.com/2026/08/13/wch-ch32v407-467-risc-v-mcu-integrates-fast-ethernet-mac-phy-480-mbps-usb-2-0-phy-up-to-8-mb-on-chip-psram/) |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-13 | mario-d-robot/qwen-image-edit-plus-nsfw-lora | 0 | 0 | [link](https://huggingface.co/mario-d-robot/qwen-image-edit-plus-nsfw-lora) |
 | 2026-08-13 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-13 | qualia-robotics/pi05-so101-candy-b4d4ae76 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-so101-candy-b4d4ae76) |
 | 2026-08-13 | CoffeeBEEE/robotwin2_pi0_place_shoe_reproduction | 0 | 0 | [link](https://huggingface.co/CoffeeBEEE/robotwin2_pi0_place_shoe_reproduction) |
@@ -86,12 +87,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-13 | OpenWAM/New_Pretrained_RoboTwin_Clean_SFT | 0 | 0 | [link](https://huggingface.co/OpenWAM/New_Pretrained_RoboTwin_Clean_SFT) |
 | 2026-08-13 | execbat/pi05-robot-finetuned | 0 | 0 | [link](https://huggingface.co/execbat/pi05-robot-finetuned) |
 | 2026-08-13 | yanshi-robotics/yanshi-unitree-g1-minimal | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-unitree-g1-minimal) |
-| 2026-08-13 | yanshi-robotics/yanshi-unitree-go2-default | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-unitree-go2-default) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2909 | Python | 1163.7 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2911 | Python | 1164.5 | [link](https://github.com/NVIDIA/skills) |
 | mosaico-labs/mosaico | 918 | Python | 367.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | alireza787b/mavsdk_drone_show | 311 | Python | 124.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | commaai/openpilot | 63402 | Python | 25360.9 | [link](https://github.com/commaai/openpilot) |
@@ -99,7 +99,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | earthtojake/text-to-cad | 13373 | Python | 5349.3 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11294 | Rust | 4517.7 | [link](https://github.com/rerun-io/rerun) |
 | nasa-jpl/open-source-rover | 9575 | Prolog | 3830.1 | [link](https://github.com/nasa-jpl/open-source-rover) |
-| isaac-sim/IsaacLab | 7892 | Python | 3156.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| isaac-sim/IsaacLab | 7893 | Python | 3157.3 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4528 | Python | 1811.3 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
@@ -133,6 +133,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-13 | Senior Solutions Engineer | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6132323004) |
 | 2026-08-11 | Project Lead, Data Creators (CDMX) | Figure AI | Ciudad de México | [link](https://job-boards.greenhouse.io/figureai/jobs/4702544006) |
 | 2026-08-11 | Recruiting Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4658691006) |
 | 2026-08-11 | User Support Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4703943006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | Senior AI Software Engineer, Reinforcement Learning | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127693004) |
 | 2026-08-10 | IT Operations Specialist (CDMX) | Figure AI | Mexico City | [link](https://job-boards.greenhouse.io/figureai/jobs/4702863006) |
 | 2026-08-10 | IT Operations Specialist (SP) | Figure AI |  São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4702538006) |
-| 2026-08-10 | People Lead (CDMX) | Figure AI | Mexico City, MX | [link](https://job-boards.greenhouse.io/figureai/jobs/4702555006) |
 
 ## Automation
 
