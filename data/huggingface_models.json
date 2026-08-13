@@ -1,5 +1,14 @@
 [
   {
+    "model": "fanzh03/robotwin_fewshot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/fanzh03/robotwin_fewshot",
+    "date": "2026-08-13",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "a5ilank/curious-robot",
     "downloads": 0,
     "likes": 2,
@@ -9,12 +18,30 @@
     "score": 0.5
   },
   {
-    "model": "fanzh03/robotwin_fewshot",
+    "model": "yanshi-robotics/yanshi-berkeley-humanoid_lite-humanoid",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/fanzh03/robotwin_fewshot",
+    "url": "https://huggingface.co/yanshi-robotics/yanshi-berkeley-humanoid_lite-humanoid",
     "date": "2026-08-13",
-    "keyword": "robot",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "yanshi-robotics/yanshi-agibot-x2-v1_4_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yanshi-robotics/yanshi-agibot-x2-v1_4_0",
+    "date": "2026-08-13",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "yanshi-robotics/yanshi-unitree-g1-dof29",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yanshi-robotics/yanshi-unitree-g1-dof29",
+    "date": "2026-08-13",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -76,33 +103,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/junbrro/hawor_fp24load_h2shuffle_legacy_robotA4_human-box_vlmfreeze_bsz8_30k",
-    "date": "2026-08-13",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "junbrro/hawor_fp24load_h1correct_legacy_robotA4_human-box_vlmfreeze_bsz8_30k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/hawor_fp24load_h1correct_legacy_robotA4_human-box_vlmfreeze_bsz8_30k",
-    "date": "2026-08-13",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "junbrro/hawor_fp24load_h0aux_legacy_robotA4_human-box_vlmfreeze_bsz8_30k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/hawor_fp24load_h0aux_legacy_robotA4_human-box_vlmfreeze_bsz8_30k",
-    "date": "2026-08-13",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Task_Pick_Water_WhiteShelf_50K",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_Pick_Water_WhiteShelf_50K",
     "date": "2026-08-13",
     "keyword": "robot",
     "score": 0.1
@@ -567,24 +567,6 @@
     "score": 0.1
   },
   {
-    "model": "TechnoBaptist/Xiaomi-Robotics-1-RoboCasa",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/TechnoBaptist/Xiaomi-Robotics-1-RoboCasa",
-    "date": "2026-08-05",
-    "keyword": "robotics",
-    "score": 4.0
-  },
-  {
-    "model": "suryatmodulus/Xiaomi-Robotics-1-5B",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/suryatmodulus/Xiaomi-Robotics-1-5B",
-    "date": "2026-08-05",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "ubr-physical-ai/UBR-Nav-E4B",
     "downloads": 0,
     "likes": 0,
@@ -610,15 +592,6 @@
     "date": "2026-08-04",
     "keyword": "physical ai",
     "score": 0.3
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-1-5B",
-    "downloads": 15,
-    "likes": 14,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-5B",
-    "date": "2026-08-04",
-    "keyword": "robotics",
-    "score": 7.4
   },
   {
     "model": "jzcan/EmbodiedDF-diffusion",
