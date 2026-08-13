@@ -4,9 +4,18 @@
     "downloads": 0,
     "likes": 2,
     "url": "https://huggingface.co/a5ilank/curious-robot",
-    "date": "2026-08-12",
+    "date": "2026-08-13",
     "keyword": "robot",
     "score": 0.5
+  },
+  {
+    "model": "nosuke113/parc2026-policy",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/nosuke113/parc2026-policy",
+    "date": "2026-08-13",
+    "keyword": "policy",
+    "score": 0.3
   },
   {
     "model": "rahul-ai-01/real_robot_60000",
@@ -153,13 +162,22 @@
     "score": 0.1
   },
   {
-    "model": "MoAIBo/pick_place_merged_policy_vision_expert",
+    "model": "w12613/act_bimanual_policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/MoAIBo/pick_place_merged_policy_vision_expert",
+    "url": "https://huggingface.co/w12613/act_bimanual_policy",
     "date": "2026-08-12",
     "keyword": "policy",
     "score": 0.1
+  },
+  {
+    "model": "MoAIBo/pick_place_merged_policy_vision_expert",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/MoAIBo/pick_place_merged_policy_vision_expert",
+    "date": "2026-08-12",
+    "keyword": "policy",
+    "score": 0.3
   },
   {
     "model": "kdh8156/cosmos3-policy-n-pointflowmap-robocasa50-bsz512-16k-mlxp",
@@ -178,15 +196,6 @@
     "date": "2026-08-12",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "nosuke113/parc2026-policy",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/nosuke113/parc2026-policy",
-    "date": "2026-08-12",
-    "keyword": "policy",
-    "score": 0.3
   },
   {
     "model": "kdh8156/cosmos3-policy-n-all-geomap-robocasa50-bsz512-16k-mlxp",
@@ -250,15 +259,6 @@
     "date": "2026-08-12",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "litert-community/LFM2.5-Encoder-350M-Policy-Linter",
-    "downloads": 21,
-    "likes": 0,
-    "url": "https://huggingface.co/litert-community/LFM2.5-Encoder-350M-Policy-Linter",
-    "date": "2026-08-12",
-    "keyword": "policy",
-    "score": 6.4
   },
   {
     "model": "qualia-robotics/smolvla-so101-candy-200ep-bs32-20k-s42-786bfd6b",
