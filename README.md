@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-13 14:11 UTC
+Last Updated: 2026-08-13 15:45 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -37,6 +37,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-13 | ARM Institute calls for defense manufacturing technology projects | Robotics Business Review | [link](https://www.therobotreport.com/arm-institute-calls-for-defense-manufacturing-technology-project/) |
 | 2026-08-13 | Experts to discuss the state of humanoid robots at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/experts-discuss-state-humanoid-robots-robobusiness-2026/) |
+| 2026-08-13 | Mobile manipulators and humanoids: The future of robotics | Robotics Business Review | [link](https://www.therobotreport.com/mobile-manipulators-and-humanoids/) |
 | 2026-08-12 | DAF Trucks to integrate Einride Driver to scale autonomous electric freight | Robotics Business Review | [link](https://www.therobotreport.com/daf-trucks-integrates-einride-driver-scale-autonomous-electric-freight/) |
 | 2026-08-12 | Strengthening U.S. Army sustainment: TALUS to deliver autonomous distribution | Robotics Business Review | [link](https://www.therobotreport.com/strengthening-u-s-army-sustainment-talus-to-deliver-autonomous-distribution/) |
 | 2026-08-12 | Q2 2026 robotics demand increased across industries, reports A3 | Robotics Business Review | [link](https://www.therobotreport.com/q2-2026-robotics-demand-increased-across-industries-reports-a3/) |
@@ -44,11 +45,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-12 | Celona launches Orion agentic wireless platform built for physical AI and robotics | Robotics Business Review | [link](https://www.therobotreport.com/celona-launches-orion-agentic-wireless-platform-built-for-physical-ai-robotics/) |
 | 2026-08-11 | Webinar to discuss safety and scaling robot fleets in the warehouse | Robotics Business Review | [link](https://www.therobotreport.com/webinar-to-discuss-safety-scaling-robot-fleets-warehouse/) |
 | 2026-08-11 | The 370-billion-dollar race: How integrated design can help humanoid manufacturers succeed in a rapidly growing market | Robotics Business Review | [link](https://www.therobotreport.com/the-370-billion-dollar-race-how-integrated-design-can-help-humanoid-manufacturers-succeed-in-a-rapidly-growing-market/) |
-| 2026-08-11 | PlusAI reaches key milestones ahead of launching its autonomous trucks | Robotics Business Review | [link](https://www.therobotreport.com/plusai-reaches-key-milestones-ahead-launch-autonomous-trucks/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-13 | Holograms, From Your Plotter | Hackaday | [link](https://hackaday.com/2026/08/13/holograms-from-your-plotter/) |
+| 2026-08-13 | Bladerunners and the Mother of Invention | Hackaday | [link](https://hackaday.com/2026/08/13/bladerunners-and-the-mother-of-invention/) |
 | 2026-08-13 | Hacking Fiber To The Home | Hackaday | [link](https://hackaday.com/2026/08/13/hacking-fiber-to-the-home/) |
 | 2026-08-13 | The Chernobyl NPP and Forty Years of Robots for High Radiation Environments | Hackaday | [link](https://hackaday.com/2026/08/13/the-chernobyl-npp-and-forty-years-of-robots-for-high-radiation-environments/) |
 | 2026-08-13 | Smart Clock Helps With Medication Management | Hackaday | [link](https://hackaday.com/2026/08/12/smart-clock-helps-with-medication-management/) |
@@ -57,8 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-13 | Qualcomm Snapdragon C Arm SoC outperforms an Intel N250 CPU by up to 67 percent in “unplugged” benchmarks | CNX Software | [link](https://www.cnx-software.com/2026/08/13/qualcomm-snapdragon-c-arm-soc-outperforms-an-intel-n250-cpu-by-up-to-67-percent-in-unplugged-benchmarks/) |
 | 2026-08-13 | WCH CH32V407/467 RISC-V MCU integrates Fast Ethernet MAC + PHY, 480 Mbps USB 2.0 PHY, up to 8 MB on-chip PSRAM | CNX Software | [link](https://www.cnx-software.com/2026/08/13/wch-ch32v407-467-risc-v-mcu-integrates-fast-ethernet-mac-phy-480-mbps-usb-2-0-phy-up-to-8-mb-on-chip-psram/) |
 | 2026-08-13 | Humanoid Robots Need a Real-Time, Distributed Nervous System | Embedded.com | [link](https://www.embedded.com/humanoid-robots-need-a-real-time-distributed-nervous-system/) |
-| 2026-08-13 | OpenLight and Tower Accelerate Photonic IC Development | Embedded.com | [link](https://www.embedded.com/openlight-and-tower-accelerate-photonic-ic-development/) |
-| 2026-08-13 | Fable: The Turnaround Artist | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-turnaround-artist-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-08-13 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
+| 2026-08-13 | CoffeeBEEE/robotwin2_pi0_place_shoe_reproduction | 0 | 0 | [link](https://huggingface.co/CoffeeBEEE/robotwin2_pi0_place_shoe_reproduction) |
 | 2026-08-13 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-08-13 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
+| 2026-08-13 | junbrro/hawor_fp24load_l2named_robotA4_human-box_vlmfreeze_bsz8_30k | 0 | 0 | [link](https://huggingface.co/junbrro/hawor_fp24load_l2named_robotA4_human-box_vlmfreeze_bsz8_30k) |
 | 2026-08-13 | OpenWAM/New_Pretrained_RoboTwin_Clean_SFT | 0 | 0 | [link](https://huggingface.co/OpenWAM/New_Pretrained_RoboTwin_Clean_SFT) |
 | 2026-08-13 | execbat/pi05-robot-finetuned | 0 | 0 | [link](https://huggingface.co/execbat/pi05-robot-finetuned) |
 | 2026-08-13 | yanshi-robotics/yanshi-unitree-g1-minimal | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-unitree-g1-minimal) |
 | 2026-08-13 | yanshi-robotics/yanshi-unitree-go2-default | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-unitree-go2-default) |
 | 2026-08-13 | yanshi-robotics/yanshi-isaaclab-ant-default | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-isaaclab-ant-default) |
 | 2026-08-13 | yanshi-robotics/yanshi-isaaclab-cartpole-default | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-isaaclab-cartpole-default) |
-| 2026-08-13 | yanshi-robotics/yanshi-berkeley-humanoid_lite-humanoid | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-berkeley-humanoid_lite-humanoid) |
-| 2026-08-13 | yanshi-robotics/yanshi-agibot-x2-v1_4_0 | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/yanshi-agibot-x2-v1_4_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2899 | Python | 1159.7 | [link](https://github.com/NVIDIA/skills) |
-| mosaico-labs/mosaico | 916 | Python | 366.5 | [link](https://github.com/mosaico-labs/mosaico) |
+| NVIDIA/skills | 2904 | Python | 1161.7 | [link](https://github.com/NVIDIA/skills) |
+| mosaico-labs/mosaico | 917 | Python | 366.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | alireza787b/mavsdk_drone_show | 311 | Python | 124.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 63402 | Python | 25360.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63403 | Python | 25361.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15684 | C++ | 6273.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13366 | Python | 5346.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13372 | Python | 5348.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11295 | Rust | 4518.1 | [link](https://github.com/rerun-io/rerun) |
-| nasa-jpl/open-source-rover | 9574 | Prolog | 3829.7 | [link](https://github.com/nasa-jpl/open-source-rover) |
-| isaac-sim/IsaacLab | 7889 | Python | 3155.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4527 | Python | 1810.9 | [link](https://github.com/RLinf/RLinf) |
+| nasa-jpl/open-source-rover | 9575 | Prolog | 3830.1 | [link](https://github.com/nasa-jpl/open-source-rover) |
+| isaac-sim/IsaacLab | 7891 | Python | 3156.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| RLinf/RLinf | 4528 | Python | 1811.3 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
