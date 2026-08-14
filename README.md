@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-14 11:33 UTC
+Last Updated: 2026-08-14 12:33 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -56,9 +56,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-14 | EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition | CNX Software | [link](https://www.cnx-software.com/2026/08/14/eitwatch-open-source-esp32-s3-smartwatch-implements-planar-eit-hand-gesture-recognition/) |
 | 2026-08-14 | Giada DK320 digital signage player and Edge AI embedded PC supports up to the Intel Core 5 315 Wildcat Lake processor | CNX Software | [link](https://www.cnx-software.com/2026/08/14/giada-dk320-digital-signage-player-and-edge-ai-embedded-pc-supports-up-to-the-intel-core-5-315-wildcat-lake-processor/) |
 | 2026-08-14 | Gemma Translator multilingual interpreter runs locally on Raspberry Pi 5 with the LiteRT runtime | CNX Software | [link](https://www.cnx-software.com/2026/08/14/gemma-translator-multilingual-interpreter-runs-locally-on-raspberry-pi-5-with-the-litert-runtime/) |
-| 2026-08-14 | Raspberry Pi Pico Case with Sensor Cage – Snap-Fit + Wall Mount #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/13/raspberry-pi-pico-case-with-sensor-cage-snap-fit-wall-mount-3dthursday-3dprinting/) |
-| 2026-08-13 | Troubleshooting Video Delay On The Raspberry Pi | Hackaday | [link](https://hackaday.com/2026/08/13/troubleshooting-video-delay-on-the-raspberry-pi/) |
-| 2026-08-13 | Tearing Down A Cheap Digital Caliper | Hackaday | [link](https://hackaday.com/2026/08/13/tearing-down-a-cheap-digital-caliper/) |
+| 2026-08-14 | In-orbit services to generate $3 billion within a decade | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/in-orbit-services-to-generate-3-billion-within-a-decade-2026-08/) |
+| 2026-08-14 | ISS National Laboratory selects startups for Orbital Edge Accelerator | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/iss-national-laboratory-selects-startups-for-orbital-edge-accelerator-2026-08/) |
+| 2026-08-14 | Most Read – PCB shortage, Elon’s Cash Cow, Driverless cars | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-pcb-shortage-elons-cash-cow-driverless-cars-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -94,9 +94,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | mosaico-labs/mosaico | 918 | Python | 367.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 469 | Shell | 187.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 311 | Python | 124.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 63405 | Python | 25362.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63406 | Python | 25362.5 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15685 | C++ | 6274.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13400 | Python | 5360.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13405 | Python | 5362.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11297 | Rust | 4518.9 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7896 | Python | 3158.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3870 | Rust | 1548.1 | [link](https://github.com/dora-rs/dora) |
@@ -119,7 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-14 | Ropedia builds data pipeline for physical AI - Singapore Business Review | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTE1icUpyNGpZeXVJc3VJTmo1UE5BY3h4b3FPYnlsdlBXaEtrY0NtaC1wU0VRYlg5TmhfcUh2dDc1MjlOUmttUlFOc25Ud2owMGFwR3dqMGtiaXNFMkkxV0J1aV9kTEdUOTJBNWlaWVBSZW1KcDVSRkRKQThjQi1Fbld6el93R1FjZFJQUTE2SzUxbEVWbng0?oc=5) |
+| 2026-08-14 | Ropedia builds data pipeline for physical AI - sbr.com.sg | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTE1icUpyNGpZeXVJc3VJTmo1UE5BY3h4b3FPYnlsdlBXaEtrY0NtaC1wU0VRYlg5TmhfcUh2dDc1MjlOUmttUlFOc25Ud2owMGFwR3dqMGtiaXNFMkkxV0J1aV9kTEdUOTJBNWlaWVBSZW1KcDVSRkRKQThjQi1Fbld6el93R1FjZFJQUTE2SzUxbEVWbng0?oc=5) |
 | 2026-08-12 | Employment immunity: the quiet revolution of robotics and physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lcURSMEFORUVpUHBsejVWMVhTYnZMbDJ6aUVVeVRNRDg5Tm12NDE3SnBDeGNhYmVCNC14TFFPVTJZcldIbUZwNzdNWXpBVllRTXhlRC1EV3hmQ0NNbnUyTnlOQ2hLR1pI?oc=5) |
 | 2026-08-12 | Former Alibaba Researcher Announces New Startup on Digital and Physical AI Agents - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS0yNmtES1hJM2JVdlhsN3ozemF5bnpqbjM3YUE2TXFmM1JuY2FtVEZ6NHl1MmpWclg5aV96LURKTER3bElQQTAxNE9CdDBva1Q3OE1yTFNfeV9lRHRPZTFHNFQtQWxXNnRiXzFUZzhIcTNuV3RWSXZkUWF4S0J5YjZZNHJqZUl5UjJVUHAyS3lhbU1pdTUycjRwcUpoM2J5b2VvRFR4dEowZG9oZVd0bzhETkNkUQ?oc=5) |
 | 2026-08-12 | Chelsea Finn: The State of Physical Intelligence in Robotics - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVdVWVZtVElfYVFmUGYxMkptaENSMzFHTkJrcFJRakNfdGI1eTVfX3Yyc2pIeEEzSEpnQXl2N3BqdDczMnlKNERDcjVYeDBnMjVvVDFxS3B4ZWxSazJyZU4ya01xeEhDMUxqQV95c3hZbl9Da0EyTXZFajdlcjlwNF9XNXFCczBZUnl0R252QUJrUGczWkVrMncyVW5ubTNlSldRX1lxbUNfVlU?oc=5) |
