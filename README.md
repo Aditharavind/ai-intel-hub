@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-14 16:37 UTC
+Last Updated: 2026-08-14 17:41 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -36,6 +36,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-08-14 | Robots on Wall Street: Non-traditional paths to public markets for robotics companies | Robotics Business Review | [link](https://www.therobotreport.com/robots-on-wall-street-non-traditional-paths-public-markets-robotics-companies/) |
+| 2026-08-14 | Video Friday: Lift Happens | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge) |
 | 2026-08-13 | ARM Institute calls for defense manufacturing technology projects | Robotics Business Review | [link](https://www.therobotreport.com/arm-institute-calls-for-defense-manufacturing-technology-project/) |
 | 2026-08-13 | Experts to discuss the state of humanoid robots at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/experts-discuss-state-humanoid-robots-robobusiness-2026/) |
 | 2026-08-13 | Mobile manipulators and humanoids: The future of robotics | Robotics Business Review | [link](https://www.therobotreport.com/mobile-manipulators-and-humanoids/) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-12 | Strengthening U.S. Army sustainment: TALUS to deliver autonomous distribution | Robotics Business Review | [link](https://www.therobotreport.com/strengthening-u-s-army-sustainment-talus-to-deliver-autonomous-distribution/) |
 | 2026-08-12 | Q2 2026 robotics demand increased across industries, reports A3 | Robotics Business Review | [link](https://www.therobotreport.com/q2-2026-robotics-demand-increased-across-industries-reports-a3/) |
 | 2026-08-12 | SEW-EURODRIVE adds economy series to its planetary servo gear unit portfolio | Robotics Business Review | [link](https://www.therobotreport.com/sew-eurodrive-adds-economy-series-planetary-servo-gear-unit-portfolio/) |
-| 2026-08-12 | Celona launches Orion agentic wireless platform built for physical AI and robotics | Robotics Business Review | [link](https://www.therobotreport.com/celona-launches-orion-agentic-wireless-platform-built-for-physical-ai-robotics/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -97,14 +97,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | awslabs/awsome-distributed-ai | 469 | Shell | 187.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 311 | Python | 124.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | commaai/openpilot | 63407 | Python | 25362.9 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15686 | C++ | 6274.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13416 | Python | 5366.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| ArduPilot/ardupilot | 15687 | C++ | 6274.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| earthtojake/text-to-cad | 13417 | Python | 5366.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11315 | Python | 4526.1 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11297 | Rust | 4518.9 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-08-14 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEtYWmtXLU5Ka0MyTERicFprdjVwYlVvRDhveEdMaXpYVFY5c0Z0aWdnWkhlYVVKYlVLLUd5XzdjTDdaRm9XaFJuWHFxRU1aOGplX3d2QTVIRVNQNlh0b2Z1bVhDbkhUdXY3WmxEVFZDTkhwZ2tla0ZuTmpkZkdGSnYxSk1OUEpINFZHRG9kNA?oc=5) |
 | 2026-08-14 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xVUZmX3FsOWlDdWluOXc4TFUwYnczUDFEdUgtbi1qZU81anUwY2lvMUxQRXpEeFZ5WXhfMkctRHJQZXVlMHNhUEJqLVVFdUlS?oc=5) |
 | 2026-08-13 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa2FzRWt4SFh2VEJXbE9LbGQzTk94TTNmdE8yc0VRUS1yRkVjT1BtdzZhSnowamVDVUpiTU9CVXBmQjZnUDJBYUFqcndSaXZ1NGpISFdBcDEwZEtFVDc1Q1J1eE1odE4tSVFTcnlyX2tUczlHd0Q5WFRwSFluZnZXVjBnS2poWlJRRUVoV29KenpYc0hid25zMzFEUkpPOHNNZndrZ3VvRkM0VGVybEViYjFXOHMwMGdGOVlqRjNnMVI0R2pKXzFQV1NkUEZSUWJvVk96d2l5cjVabHM?oc=5) |
 | 2026-08-13 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSzZDdzVaU1FyV284WnF3QUNEbS1QSTFPdGszdTdsa01zRHBzM1ZOUkRvZndRTXVWOTRXMFk3dlViTThpTmdLeDZYdnk3cDBETUk0X3hxdndWa2RPSFBIbXBsa0NzVTVMTkxRVFo4dnVsbnpBaXI1cy1sQ0F5VmNkZzd4VjVzZw?oc=5) |
@@ -114,7 +115,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzBWZTdYcGJBX2JBZ0hTaUpNc253STkzZDBISGYyeGRNTUhwaV95UUttenNuWlE0RGJaUFctMUZTYjluM1JuQ2Q3RGxzNXRSTFphcXRtV1dvVDQtSWFnOFZiUnZTaUwwMGktZjcwOXVLRzBVNG9fRjZiTXNVVXhRUW41OU8?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRzFpdHRwNlJtM1hDaDZlNXNuWW1iTmRCOUdGVUZKenFmSTh4Y2VZYU9xOW5mcHZ1Mjc5aDZMMU54YVN5TS1XcDdGYV9XZ1poaks0?oc=5) |
 | 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSFd0LTVPY3VyelFHbjNxek1ZdXpoY0JfZWdQWUkwODY5bFVrS3VCcE9ybnBjZGZVX0QzYnAwTkd0c0YtVTdoTlVyMGNRYUh2U3F5eWtDVjVibmFUVXk0Z0xoZDlSelVWOFd0YmFuaVYyZU5BZENHc1dwcDkyMldvcWJHSXF1ZUpzRVlRWEU1RmNBc1Rwdm11b09yZ3lXcU9kb0swUC1tXzBsaER0X0c5UFpna2d2dDdnSzBBNEdzOXdIbzAwTTN4WUlURUY?oc=5) |
-| 2026-08-09 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVlcxeVI1YnZoeC1BR19oUjdrMHRsRUltODhjYlZoSE03MnRHX0dGN0x0ZWFnek9QT3ZiZ0E1dHV1a05rd3NtWHVtNXBHWFBQNmxuaFhlajJDQQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -133,6 +133,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-14 | Finance Manager (SP)  | Figure AI | São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4705464006) |
 | 2026-08-14 | Helix AI Engineer, Training Performance | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4705296006) |
 | 2026-08-13 | Recruiting Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4658691006) |
 | 2026-08-13 | CAD Administrator | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6138024004) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | User Support Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4703943006) |
 | 2026-08-11 | Associate General Counsel, Corporate  | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6110896004) |
 | 2026-08-11 | Recruiting Coordinator (Contract) | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6141052004) |
-| 2026-08-11 | Robotics Software Engineer III, Manipulation | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6132259004) |
 
 ## Automation
 
