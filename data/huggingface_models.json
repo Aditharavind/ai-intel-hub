@@ -108,15 +108,6 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
-    "date": "2026-08-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -130,6 +121,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-14",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
     "date": "2026-08-14",
     "keyword": "vla",
     "score": 0.1
@@ -202,6 +202,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/dggdagqgqeg/my_vla_policy",
+    "date": "2026-08-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Chaenn/act_policy_so101_cube_multitask_hil_0814",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Chaenn/act_policy_so101_cube_multitask_hil_0814",
     "date": "2026-08-14",
     "keyword": "policy",
     "score": 0.1
@@ -322,15 +331,6 @@
     "date": "2026-08-13",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "litert-community/LFM2.5-Encoder-350M-Policy-Linter",
-    "downloads": 36,
-    "likes": 0,
-    "url": "https://huggingface.co/litert-community/LFM2.5-Encoder-350M-Policy-Linter",
-    "date": "2026-08-13",
-    "keyword": "policy",
-    "score": 10.9
   },
   {
     "model": "qualia-robotics/pi05-so101-candy-b4d4ae76",
