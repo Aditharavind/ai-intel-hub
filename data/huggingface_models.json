@@ -9,6 +9,24 @@
     "score": 0.5
   },
   {
+    "model": "RobotisSW/Pick_OrangeCoffeeCan_WhiteShelf_byGrootModel_80K",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Pick_OrangeCoffeeCan_WhiteShelf_byGrootModel_80K",
+    "date": "2026-08-14",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Pick_OrangeCoffeeCan_WhiteShelf_byGrootModel_60K",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Pick_OrangeCoffeeCan_WhiteShelf_byGrootModel_60K",
+    "date": "2026-08-14",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora",
     "downloads": 0,
     "likes": 0,
@@ -36,6 +54,15 @@
     "score": 4.3
   },
   {
+    "model": "emu1215/so101-lingbot-vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/emu1215/so101-lingbot-vla",
+    "date": "2026-08-14",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "XYZPIT/gr00t_fixed_vlash_delay_0812_100000",
     "downloads": 0,
     "likes": 0,
@@ -61,6 +88,33 @@
     "date": "2026-08-14",
     "keyword": "vla",
     "score": 3.6
+  },
+  {
+    "model": "nvidia/Cosmos3-Edge-Policy-DROID",
+    "downloads": 1204,
+    "likes": 9,
+    "url": "https://huggingface.co/nvidia/Cosmos3-Edge-Policy-DROID",
+    "date": "2026-08-14",
+    "keyword": "policy",
+    "score": 363.1
+  },
+  {
+    "model": "hiskiv/cosmos-policy-lam-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/hiskiv/cosmos-policy-lam-v2",
+    "date": "2026-08-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Yewy/rollout_mahjong_table_pickup_v1.5_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Yewy/rollout_mahjong_table_pickup_v1.5_policy",
+    "date": "2026-08-14",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "mario-d-robot/qwen-image-edit-plus-nsfw-lora",
@@ -112,24 +166,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/junbrro/hawor_fp24load_l2named_robotA4_human-box_vlmfreeze_bsz8_30k",
-    "date": "2026-08-13",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "OpenWAM/New_Pretrained_RoboTwin_Clean_SFT",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/New_Pretrained_RoboTwin_Clean_SFT",
-    "date": "2026-08-13",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "execbat/pi05-robot-finetuned",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/execbat/pi05-robot-finetuned",
     "date": "2026-08-13",
     "keyword": "robot",
     "score": 0.1
@@ -378,33 +414,6 @@
     "score": 6.1
   },
   {
-    "model": "MoAIBo/pick_place_merged_policy_vision_expert",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/MoAIBo/pick_place_merged_policy_vision_expert",
-    "date": "2026-08-12",
-    "keyword": "policy",
-    "score": 0.3
-  },
-  {
-    "model": "kdh8156/cosmos3-policy-n-pointflowmap-robocasa50-bsz512-16k-mlxp",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kdh8156/cosmos3-policy-n-pointflowmap-robocasa50-bsz512-16k-mlxp",
-    "date": "2026-08-12",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "MoAIBo/pick_place_merged_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MoAIBo/pick_place_merged_policy",
-    "date": "2026-08-12",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "D-Robotics/LocateAnything-3B-BPU",
     "downloads": 0,
     "likes": 0,
@@ -439,15 +448,6 @@
     "date": "2026-08-11",
     "keyword": "vla",
     "score": 5.8
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 3,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-11",
-    "keyword": "vla",
-    "score": 1.0
   },
   {
     "model": "qualia-robotics/smolvla-so101-candy-200ep-bs32-20k-s42-786bfd6b",
@@ -722,11 +722,11 @@
   {
     "model": "tencent/Hy-Embodied-RxBrain-1.0",
     "downloads": 380,
-    "likes": 54,
+    "likes": 55,
     "url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
     "date": "2026-07-18",
     "keyword": "embodied",
-    "score": 124.9
+    "score": 125.1
   },
   {
     "model": "kouylty/Isaac-Go2-Navigation-Rough-v0",
