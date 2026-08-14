@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-14 00:48 UTC
+Last Updated: 2026-08-14 03:17 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,7 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
-| 2026-08-14 | $20bn is nice to have, but . . . . . . . | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/20bn-is-nice-but-2026-08/) |
+| 2026-08-14 | Removing Microplastics from Soil with Tumbling Magnetic Flakes | Hackaday | [link](https://hackaday.com/2026/08/13/removing-microplastics-from-soil-with-tumbling-magnetic-flakes/) |
 | 2026-08-14 | Raspberry Pi Pico Case with Sensor Cage – Snap-Fit + Wall Mount #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/13/raspberry-pi-pico-case-with-sensor-cage-snap-fit-wall-mount-3dthursday-3dprinting/) |
 | 2026-08-13 | Troubleshooting Video Delay On The Raspberry Pi | Hackaday | [link](https://hackaday.com/2026/08/13/troubleshooting-video-delay-on-the-raspberry-pi/) |
 | 2026-08-13 | Tearing Down A Cheap Digital Caliper | Hackaday | [link](https://hackaday.com/2026/08/13/tearing-down-a-cheap-digital-caliper/) |
@@ -57,54 +57,55 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-13 | Supercon Ten Tickets on Sale Now | Hackaday | [link](https://hackaday.com/2026/08/13/supercon-ten-tickets-on-sale-now/) |
 | 2026-08-13 | Holograms, From Your Plotter | Hackaday | [link](https://hackaday.com/2026/08/13/holograms-from-your-plotter/) |
 | 2026-08-13 | Bladerunners and the Mother of Invention | Hackaday | [link](https://hackaday.com/2026/08/13/bladerunners-and-the-mother-of-invention/) |
-| 2026-08-13 | Hacking Fiber To The Home | Hackaday | [link](https://hackaday.com/2026/08/13/hacking-fiber-to-the-home/) |
 | 2026-08-13 | AAEON PICO-ADN2 – A low-profile Alder Lake-N Pico-ITX SBC for space-constrained applications | CNX Software | [link](https://www.cnx-software.com/2026/08/13/aaeon-pico-adn2-a-low-profile-alder-lake-n-pico-itx-sbc-for-space-constrained-applications/) |
+| 2026-08-13 | Qualcomm Snapdragon C Arm SoC outperforms an Intel N250 CPU by up to 67 percent in “unplugged” benchmarks | CNX Software | [link](https://www.cnx-software.com/2026/08/13/qualcomm-snapdragon-c-arm-soc-outperforms-an-intel-n250-cpu-by-up-to-67-percent-in-unplugged-benchmarks/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-08-12 | DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation | [link](https://arxiv.org/pdf/2608.12308v1) |
-| 2026-08-12 | Redistribution-based Cost Inference Improves Sparse Safe Offline RL | [link](https://arxiv.org/pdf/2608.12306v1) |
-| 2026-08-12 | Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations | [link](https://arxiv.org/pdf/2608.12299v1) |
-| 2026-08-12 | PatternFormer: Learning Multiple Solution Patterns in Reaction--Diffusion Systems | [link](https://arxiv.org/pdf/2608.12286v1) |
-| 2026-08-12 | Earth observation embeddings are effective sub-grid descriptors for probabilistic weather downscaling | [link](https://arxiv.org/pdf/2608.12271v1) |
-| 2026-08-12 | ScreenShot: A Foundation Model for Few-Shot Combination Drug Screening | [link](https://arxiv.org/pdf/2608.12219v1) |
-| 2026-08-12 | Learning-Based Behavior Planning for Automated Driving: Real-World Integration and Deployment | [link](https://arxiv.org/pdf/2608.12198v1) |
-| 2026-08-12 | IF:CARGO: LLM-Based Semantic Compilation for Al-Native Rule Programming Games | [link](https://arxiv.org/pdf/2608.12195v1) |
-| 2026-08-12 | How to Spend Your Oracle Budget: Practical Guidance for Protein Structure Prediction Models | [link](https://arxiv.org/pdf/2608.12192v1) |
-| 2026-08-12 | Nascent Embedded-protostar Survey in Taurus (NEST) I: Protostellar Multiplicity | [link](https://arxiv.org/pdf/2608.12186v1) |
+| 2026-08-13 | OmniScientist: An Omni-Modal Omni-Discipline AI Scientist | [link](https://arxiv.org/pdf/2608.13558v1) |
+| 2026-08-13 | V-RAE: Rethinking Video Latent Spaces for Generation | [link](https://arxiv.org/pdf/2608.13556v1) |
+| 2026-08-13 | HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark | [link](https://arxiv.org/pdf/2608.13555v1) |
+| 2026-08-13 | PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives | [link](https://arxiv.org/pdf/2608.13552v1) |
+| 2026-08-13 | Alaya-EVOKE: From Linear-Scaling Supervision to Endless World | [link](https://arxiv.org/pdf/2608.13546v1) |
+| 2026-08-13 | Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology | [link](https://arxiv.org/pdf/2608.13518v1) |
+| 2026-08-13 | DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data | [link](https://arxiv.org/pdf/2608.13517v1) |
+| 2026-08-13 | A Browser-Native Digital Test Range for Benchmarking 4D Ocean-Glider Planning Algorithms | [link](https://arxiv.org/pdf/2608.13511v1) |
+| 2026-08-13 | Intern-S2-Preview: Scientific Agentic Foundation Model | [link](https://arxiv.org/pdf/2608.13505v1) |
+| 2026-08-13 | GS$^{2}$CI: Robust Gaussian Splatting For Snapshot Compressive Imaging via Large Vision Model Priors | [link](https://arxiv.org/pdf/2608.13502v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-14 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-08-14 | RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora | 0 | 0 | [link](https://huggingface.co/RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora) |
+| 2026-08-14 | quineyu/multitask-dit-your-robot | 0 | 0 | [link](https://huggingface.co/quineyu/multitask-dit-your-robot) |
 | 2026-08-14 | RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm | 14 | 0 | [link](https://huggingface.co/RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm) |
+| 2026-08-14 | XYZPIT/gr00t_fixed_vlash_delay_0812_100000 | 0 | 0 | [link](https://huggingface.co/XYZPIT/gr00t_fixed_vlash_delay_0812_100000) |
+| 2026-08-14 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
+| 2026-08-14 | yuanzhang/GEAR-VLA | 11 | 1 | [link](https://huggingface.co/yuanzhang/GEAR-VLA) |
 | 2026-08-13 | mario-d-robot/qwen-image-edit-plus-nsfw-lora | 0 | 0 | [link](https://huggingface.co/mario-d-robot/qwen-image-edit-plus-nsfw-lora) |
 | 2026-08-13 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-13 | qualia-robotics/pi05-so101-candy-b4d4ae76 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/pi05-so101-candy-b4d4ae76) |
-| 2026-08-13 | CoffeeBEEE/robotwin2_pi0_place_shoe_reproduction | 0 | 0 | [link](https://huggingface.co/CoffeeBEEE/robotwin2_pi0_place_shoe_reproduction) |
-| 2026-08-13 | huggingaccounttest/human-robot-translator-model-2-garment | 0 | 0 | [link](https://huggingface.co/huggingaccounttest/human-robot-translator-model-2-garment) |
-| 2026-08-13 | junbrro/hawor_fp24load_l2named_robotA4_human-box_vlmfreeze_bsz8_30k | 0 | 0 | [link](https://huggingface.co/junbrro/hawor_fp24load_l2named_robotA4_human-box_vlmfreeze_bsz8_30k) |
-| 2026-08-13 | OpenWAM/New_Pretrained_RoboTwin_Clean_SFT | 0 | 0 | [link](https://huggingface.co/OpenWAM/New_Pretrained_RoboTwin_Clean_SFT) |
-| 2026-08-13 | execbat/pi05-robot-finetuned | 0 | 0 | [link](https://huggingface.co/execbat/pi05-robot-finetuned) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| commaai/openpilot | 63402 | Python | 25360.9 | [link](https://github.com/commaai/openpilot) |
+| isaac-sim/IsaacLab | 7894 | Python | 3157.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3870 | Rust | 1548.1 | [link](https://github.com/dora-rs/dora) |
-| vllm-project/vllm-omni | 6097 | Python | 2438.9 | [link](https://github.com/vllm-project/vllm-omni) |
-| NVIDIA/skills | 2920 | Python | 1168.1 | [link](https://github.com/NVIDIA/skills) |
+| sou350121/VLA-Handbook | 504 | HTML | 201.7 | [link](https://github.com/sou350121/VLA-Handbook) |
+| syswonder/robonix | 324 | Rust | 129.7 | [link](https://github.com/syswonder/robonix) |
+| vllm-project/vllm-omni | 6099 | Python | 2439.7 | [link](https://github.com/vllm-project/vllm-omni) |
+| DexForce/EmbodiChain | 208 | Python | 83.3 | [link](https://github.com/DexForce/EmbodiChain) |
+| NVIDIA/skills | 2922 | Python | 1168.9 | [link](https://github.com/NVIDIA/skills) |
 | Edgenesis/shifu | 1431 | Go | 572.5 | [link](https://github.com/Edgenesis/shifu) |
 | mosaico-labs/mosaico | 918 | Python | 367.3 | [link](https://github.com/mosaico-labs/mosaico) |
-| awslabs/awsome-distributed-ai | 469 | Shell | 187.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| alireza787b/mavsdk_drone_show | 311 | Python | 124.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 63402 | Python | 25360.9 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15685 | C++ | 6274.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13378 | Python | 5351.3 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-08-14 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xVUZmX3FsOWlDdWluOXc4TFUwYnczUDFEdUgtbi1qZU81anUwY2lvMUxQRXpEeFZ5WXhfMkctRHJQZXVlMHNhUEJqLVVFdUlS?oc=5) |
 | 2026-08-13 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa2FzRWt4SFh2VEJXbE9LbGQzTk94TTNmdE8yc0VRUS1yRkVjT1BtdzZhSnowamVDVUpiTU9CVXBmQjZnUDJBYUFqcndSaXZ1NGpISFdBcDEwZEtFVDc1Q1J1eE1odE4tSVFTcnlyX2tUczlHd0Q5WFRwSFluZnZXVjBnS2poWlJRRUVoV29KenpYc0hid25zMzFEUkpPOHNNZndrZ3VvRkM0VGVybEViYjFXOHMwMGdGOVlqRjNnMVI0R2pKXzFQV1NkUEZSUWJvVk96d2l5cjVabHM?oc=5) |
 | 2026-08-13 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSzZDdzVaU1FyV284WnF3QUNEbS1QSTFPdGszdTdsa01zRHBzM1ZOUkRvZndRTXVWOTRXMFk3dlViTThpTmdLeDZYdnk3cDBETUk0X3hxdndWa2RPSFBIbXBsa0NzVTVMTkxRVFo4dnVsbnpBaXI1cy1sQ0F5VmNkZzd4VjVzZw?oc=5) |
 | 2026-08-11 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
@@ -114,7 +115,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRzFpdHRwNlJtM1hDaDZlNXNuWW1iTmRCOUdGVUZKenFmSTh4Y2VZYU9xOW5mcHZ1Mjc5aDZMMU54YVN5TS1XcDdGYV9XZ1poaks0?oc=5) |
 | 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSFd0LTVPY3VyelFHbjNxek1ZdXpoY0JfZWdQWUkwODY5bFVrS3VCcE9ybnBjZGZVX0QzYnAwTkd0c0YtVTdoTlVyMGNRYUh2U3F5eWtDVjVibmFUVXk0Z0xoZDlSelVWOFd0YmFuaVYyZU5BZENHc1dwcDkyMldvcWJHSXF1ZUpzRVlRWEU1RmNBc1Rwdm11b09yZ3lXcU9kb0swUC1tXzBsaER0X0c5UFpna2d2dDdnSzBBNEdzOXdIbzAwTTN4WUlURUY?oc=5) |
 | 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxONEdLRklEMWlxUlUyeW96WW81VldYQW1JTlk2bHEweFpjYkdfcGVmOFRPcC03NnpnSmhib3NoekJrcWVwM2pkRWF0aHQ2TmxmNm5UVk5RY2lxSjFUeHRkQjJMbVUyWHNKQ3d5Unctd0pZSTNxeEdPVzVxTnVQejFjNTZkeTZ0WmZ5YXd0VDFCUVpFSkhWU3FCb3FVODFGR1VCMXppamtnbXVjX25GalNHMjBndnFLWTQxZjJwaWEtMGlIVW5CanZVcVh4RHoxT3AwQ0EwMTZfUnFpZE4zcUh5U3JPVUI2OVZ3TDZYYg?oc=5) |
-| 2026-08-09 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVlcxeVI1YnZoeC1BR19oUjdrMHRsRUltODhjYlZoSE03MnRHX0dGN0x0ZWFnek9QT3ZiZ0E1dHV1a05rd3NtWHVtNXBHWFBQNmxuaFhlajJDQQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
