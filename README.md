@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-14 05:21 UTC
+Last Updated: 2026-08-14 07:01 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -78,29 +78,29 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-14 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-08-14 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-14 | RobotisSW/Pick_OrangeCoffeeCan_WhiteShelf_byGrootModel_80K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_OrangeCoffeeCan_WhiteShelf_byGrootModel_80K) |
 | 2026-08-14 | RobotisSW/Pick_OrangeCoffeeCan_WhiteShelf_byGrootModel_60K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_OrangeCoffeeCan_WhiteShelf_byGrootModel_60K) |
 | 2026-08-14 | RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora | 0 | 0 | [link](https://huggingface.co/RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora) |
 | 2026-08-14 | quineyu/multitask-dit-your-robot | 0 | 0 | [link](https://huggingface.co/quineyu/multitask-dit-your-robot) |
 | 2026-08-14 | RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm | 14 | 0 | [link](https://huggingface.co/RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm) |
+| 2026-08-14 | dggdagqgqeg/my_vla_policy | 0 | 0 | [link](https://huggingface.co/dggdagqgqeg/my_vla_policy) |
 | 2026-08-14 | emu1215/so101-lingbot-vla | 0 | 0 | [link](https://huggingface.co/emu1215/so101-lingbot-vla) |
 | 2026-08-14 | XYZPIT/gr00t_fixed_vlash_delay_0812_100000 | 0 | 0 | [link](https://huggingface.co/XYZPIT/gr00t_fixed_vlash_delay_0812_100000) |
-| 2026-08-14 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
-| 2026-08-14 | yuanzhang/GEAR-VLA | 11 | 1 | [link](https://huggingface.co/yuanzhang/GEAR-VLA) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | awslabs/awsome-distributed-ai | 469 | Shell | 187.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63403 | Python | 25361.3 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 13388 | Python | 5355.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13391 | Python | 5356.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | isaac-sim/IsaacLab | 7895 | Python | 3158.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3870 | Rust | 1548.1 | [link](https://github.com/dora-rs/dora) |
-| sou350121/VLA-Handbook | 504 | HTML | 201.7 | [link](https://github.com/sou350121/VLA-Handbook) |
+| sou350121/VLA-Handbook | 505 | HTML | 202.1 | [link](https://github.com/sou350121/VLA-Handbook) |
 | syswonder/robonix | 324 | Rust | 129.7 | [link](https://github.com/syswonder/robonix) |
-| hzxie/DynamicVLA | 321 | Python | 128.5 | [link](https://github.com/hzxie/DynamicVLA) |
-| vllm-project/vllm-omni | 6102 | Python | 2440.9 | [link](https://github.com/vllm-project/vllm-omni) |
-| DexForce/EmbodiChain | 208 | Python | 83.3 | [link](https://github.com/DexForce/EmbodiChain) |
+| hzxie/DynamicVLA | 322 | Python | 128.9 | [link](https://github.com/hzxie/DynamicVLA) |
+| vllm-project/vllm-omni | 6104 | Python | 2441.7 | [link](https://github.com/vllm-project/vllm-omni) |
+| NVlabs/ProtoMotions | 2298 | Python | 919.3 | [link](https://github.com/NVlabs/ProtoMotions) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -123,7 +123,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-12 | Former Alibaba Researcher Announces New Startup on Digital and Physical AI Agents - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS0yNmtES1hJM2JVdlhsN3ozemF5bnpqbjM3YUE2TXFmM1JuY2FtVEZ6NHl1MmpWclg5aV96LURKTER3bElQQTAxNE9CdDBva1Q3OE1yTFNfeV9lRHRPZTFHNFQtQWxXNnRiXzFUZzhIcTNuV3RWSXZkUWF4S0J5YjZZNHJqZUl5UjJVUHAyS3lhbU1pdTUycjRwcUpoM2J5b2VvRFR4dEowZG9oZVd0bzhETkNkUQ?oc=5) |
 | 2026-08-12 | Chelsea Finn: The State of Physical Intelligence in Robotics - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVdVWVZtVElfYVFmUGYxMkptaENSMzFHTkJrcFJRakNfdGI1eTVfX3Yyc2pIeEEzSEpnQXl2N3BqdDczMnlKNERDcjVYeDBnMjVvVDFxS3B4ZWxSazJyZU4ya01xeEhDMUxqQV95c3hZbl9Da0EyTXZFajdlcjlwNF9XNXFCczBZUnl0R252QUJrUGczWkVrMncyVW5ubTNlSldRX1lxbUNfVlU?oc=5) |
 | 2026-08-12 | Six Months, $74.1 Million: Westlake University Professor's Embodied AI Startup Secures Four Funding Rounds - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSm5lLTczQTE2eDNNdWZpQmppanBMYUNJSVlPOTlRUW1lbHNjSjh1UzI3UnBsQldXQnRhYS05YnVZbWZXbkF2MXNzMmZubW0wVDJwS19kYXA2SDdWTjZrR1ByZVpUN3NjMjlBZ1FGWFMwQ0J6dmc?oc=5) |
-| 2026-08-12 | BYD Unveils Its Xiao Di Humanoid Robot Days After US Bans Chinese Robots - startupfortune.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDNYVVkyeU5iLWt2R3RVbnRqN2Qya1NIRkZKemhyMlhJbDFWRl9EanlyTjY1QWVTZERqcU1WODBpR016c1l6djN3NVBJOVZyV0trLTFwckE2M3o0aTZwSHdDSEFOdEFLaWl0SXdJRXdvTWtyRjhKRlZVMEgtZWtlY1Z6WEpudjQzdk5HRzgyTTdwOVNPUTJ5T3dLYnJuTDk3WGc?oc=5) |
+| 2026-08-12 | BYD Unveils Its Xiao Di Humanoid Robot Days After US Bans Chinese Robots - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDNYVVkyeU5iLWt2R3RVbnRqN2Qya1NIRkZKemhyMlhJbDFWRl9EanlyTjY1QWVTZERqcU1WODBpR016c1l6djN3NVBJOVZyV0trLTFwckE2M3o0aTZwSHdDSEFOdEFLaWl0SXdJRXdvTWtyRjhKRlZVMEgtZWtlY1Z6WEpudjQzdk5HRzgyTTdwOVNPUTJ5T3dLYnJuTDk3WGc?oc=5) |
 | 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
 | 2026-08-11 | NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlUtQnQyZ1F3eXZqd1ZVMlNSN0M2U21FZlhmMHp3YnowOUVlbWI2ZnVRdUhrWVJGNVlwOFdKMV9XRHktUXRmd2hMQlNsLVU0eHlwYm9CUmY2eU85U19WTlIyajFJWlF0SV9FTHNSelRLRkpsb3ZEMUxrVVBzLTZmUzJFU1VLSEtsMmpfc0REcHA3eGJ3QTI1Xy1ielNNTENLLTNKRXhiN1h6WWlES2QwREgyV2dKQmxQaDBWU0xjYjE1TWRzQXQyWDdzZ1ZVZw?oc=5) |
 | 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
