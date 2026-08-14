@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-14 08:53 UTC
+Generated: 2026-08-14 09:47 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,10 +15,10 @@ Generated: 2026-08-14 08:53 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | commaai/openpilot | 63403 | 25361.3 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30305 | 12122.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30306 | 12122.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16116 | 6446.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15685 | 6274.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| TianxingChen/Embodied-AI-Guide | 15428 | 6171.3 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
+| TianxingChen/Embodied-AI-Guide | 15430 | 6172.1 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,7 +41,7 @@ Generated: 2026-08-14 08:53 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-14 | Ropedia builds data pipeline for physical AI - sbr.com.sg | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTE1icUpyNGpZeXVJc3VJTmo1UE5BY3h4b3FPYnlsdlBXaEtrY0NtaC1wU0VRYlg5TmhfcUh2dDc1MjlOUmttUlFOc25Ud2owMGFwR3dqMGtiaXNFMkkxV0J1aV9kTEdUOTJBNWlaWVBSZW1KcDVSRkRKQThjQi1Fbld6el93R1FjZFJQUTE2SzUxbEVWbng0?oc=5) |
+| 2026-08-14 | Ropedia builds data pipeline for physical AI - Singapore Business Review | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTE1icUpyNGpZeXVJc3VJTmo1UE5BY3h4b3FPYnlsdlBXaEtrY0NtaC1wU0VRYlg5TmhfcUh2dDc1MjlOUmttUlFOc25Ud2owMGFwR3dqMGtiaXNFMkkxV0J1aV9kTEdUOTJBNWlaWVBSZW1KcDVSRkRKQThjQi1Fbld6el93R1FjZFJQUTE2SzUxbEVWbng0?oc=5) |
 | 2026-08-12 | Employment immunity: the quiet revolution of robotics and physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lcURSMEFORUVpUHBsejVWMVhTYnZMbDJ6aUVVeVRNRDg5Tm12NDE3SnBDeGNhYmVCNC14TFFPVTJZcldIbUZwNzdNWXpBVllRTXhlRC1EV3hmQ0NNbnUyTnlOQ2hLR1pI?oc=5) |
 | 2026-08-12 | Former Alibaba Researcher Announces New Startup on Digital and Physical AI Agents - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS0yNmtES1hJM2JVdlhsN3ozemF5bnpqbjM3YUE2TXFmM1JuY2FtVEZ6NHl1MmpWclg5aV96LURKTER3bElQQTAxNE9CdDBva1Q3OE1yTFNfeV9lRHRPZTFHNFQtQWxXNnRiXzFUZzhIcTNuV3RWSXZkUWF4S0J5YjZZNHJqZUl5UjJVUHAyS3lhbU1pdTUycjRwcUpoM2J5b2VvRFR4dEowZG9oZVd0bzhETkNkUQ?oc=5) |
 | 2026-08-12 | Chelsea Finn: The State of Physical Intelligence in Robotics - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVdVWVZtVElfYVFmUGYxMkptaENSMzFHTkJrcFJRakNfdGI1eTVfX3Yyc2pIeEEzSEpnQXl2N3BqdDczMnlKNERDcjVYeDBnMjVvVDFxS3B4ZWxSazJyZU4ya01xeEhDMUxqQV95c3hZbl9Da0EyTXZFajdlcjlwNF9XNXFCczBZUnl0R252QUJrUGczWkVrMncyVW5ubTNlSldRX1lxbUNfVlU?oc=5) |
