@@ -9,6 +9,24 @@
     "score": 0.5
   },
   {
+    "model": "OpenWAM/New_Pretrained_RoboTwin_Full_SFT",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/New_Pretrained_RoboTwin_Full_SFT",
+    "date": "2026-08-14",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "OpenWAM/New_Pretrained_RoboTwin_Clean_SFT_20000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/New_Pretrained_RoboTwin_Clean_SFT_20000",
+    "date": "2026-08-14",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "snu-aidas/Dynin-Robotics",
     "downloads": 0,
     "likes": 0,
@@ -90,19 +108,28 @@
     "score": 0.1
   },
   {
-    "model": "RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm",
-    "downloads": 14,
-    "likes": 0,
-    "url": "https://huggingface.co/RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm",
-    "date": "2026-08-14",
-    "keyword": "robot",
-    "score": 4.3
-  },
-  {
     "model": "B111ue/fcl-vla-baseline-recovery",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/B111ue/fcl-vla-baseline-recovery",
+    "date": "2026-08-14",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "alexppppp/vla_jepa_lerobot-so100-new-gripper-multitask1ext3-top-wrist-20ksteps",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/alexppppp/vla_jepa_lerobot-so100-new-gripper-multitask1ext3-top-wrist-20ksteps",
+    "date": "2026-08-14",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "3CTeam/action-evidence-vla-2p2b-libero-long-15k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/3CTeam/action-evidence-vla-2p2b-libero-long-15k",
     "date": "2026-08-14",
     "keyword": "vla",
     "score": 0.1
@@ -171,6 +198,15 @@
     "score": 3.6
   },
   {
+    "model": "acleary/act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/acleary/act_policy",
+    "date": "2026-08-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "tannerfrancis11/record-test_20260814_062718_policy",
     "downloads": 0,
     "likes": 0,
@@ -225,15 +261,6 @@
     "score": 0.1
   },
   {
-    "model": "mario-d-robot/qwen-image-edit-plus-nsfw-lora",
-    "downloads": 662,
-    "likes": 0,
-    "url": "https://huggingface.co/mario-d-robot/qwen-image-edit-plus-nsfw-lora",
-    "date": "2026-08-13",
-    "keyword": "robot",
-    "score": 198.7
-  },
-  {
     "model": "3CTeam/action-evidence-vla-libero-joint-20k",
     "downloads": 0,
     "likes": 0,
@@ -241,24 +268,6 @@
     "date": "2026-08-13",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "ISdept/wiltech-vla-8k",
-    "downloads": 8,
-    "likes": 0,
-    "url": "https://huggingface.co/ISdept/wiltech-vla-8k",
-    "date": "2026-08-13",
-    "keyword": "vla",
-    "score": 2.5
-  },
-  {
-    "model": "XYZPIT/gr00t_fixed_vlash_delay_0812",
-    "downloads": 8,
-    "likes": 0,
-    "url": "https://huggingface.co/XYZPIT/gr00t_fixed_vlash_delay_0812",
-    "date": "2026-08-13",
-    "keyword": "vla",
-    "score": 2.5
   },
   {
     "model": "RubetekRobotics/UR10e-LinearGripper-Jig-SimDist-WorldModel",
@@ -322,15 +331,6 @@
     "date": "2026-08-13",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "MoAIBo/giver_policy_depth",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/MoAIBo/giver_policy_depth",
-    "date": "2026-08-13",
-    "keyword": "policy",
-    "score": 2.8
   },
   {
     "model": "qualia-robotics/pi05-so101-candy-b4d4ae76",
