@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-14 09:47 UTC
+Last Updated: 2026-08-14 10:44 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -52,13 +52,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-14 | Mauchly and Eckert’s Other Computers | Hackaday | [link](https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/) |
 | 2026-08-14 | Rare IBM PC Brought Back To Life | Hackaday | [link](https://hackaday.com/2026/08/13/rare-ibm-pc-brought-back-to-life/) |
 | 2026-08-14 | Removing Microplastics from Soil with Tumbling Magnetic Flakes | Hackaday | [link](https://hackaday.com/2026/08/13/removing-microplastics-from-soil-with-tumbling-magnetic-flakes/) |
+| 2026-08-14 | Giada DK320 digital signage player and Edge AI embedded PC supports up to the Intel Core 5 315 Wildcat Lake processor | CNX Software | [link](https://www.cnx-software.com/2026/08/14/giada-dk320-digital-signage-player-and-edge-ai-embedded-pc-supports-up-to-the-intel-core-5-315-wildcat-lake-processor/) |
 | 2026-08-14 | Gemma Translator multilingual interpreter runs locally on Raspberry Pi 5 with the LiteRT runtime | CNX Software | [link](https://www.cnx-software.com/2026/08/14/gemma-translator-multilingual-interpreter-runs-locally-on-raspberry-pi-5-with-the-litert-runtime/) |
-| 2026-08-14 | Most Read – PCB shortage, Elon’s Cash Cow, Driverless cars | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-pcb-shortage-elons-cash-cow-driverless-cars-2026-08/) |
-| 2026-08-14 | YMTC in Big 3 for NAND units | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/ymtc-in-big-3-for-nand-units-2026-08/) |
-| 2026-08-14 | xEV PMIC market to double to $14.5bn by 2031 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/xev-pmic-market-to-double-to-14-5bn-by-2031-2026-08/) |
-| 2026-08-14 | ASSBs moving to pilot production | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/solid-state-auto-batteries-2026-08/) |
-| 2026-08-14 | Obsolescence planning on long life-cycle programmes | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/obsolescence-planning-on-long-life-cycle-programmes-2026-08/) |
-| 2026-08-14 | Datacentre components to be a $1.8trn market by 2030 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/datacentre-components-to-be-a-1-8trn-market-by-2030-2026-08/) |
+| 2026-08-14 | Raspberry Pi Pico Case with Sensor Cage – Snap-Fit + Wall Mount #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/13/raspberry-pi-pico-case-with-sensor-cage-snap-fit-wall-mount-3dthursday-3dprinting/) |
+| 2026-08-13 | Troubleshooting Video Delay On The Raspberry Pi | Hackaday | [link](https://hackaday.com/2026/08/13/troubleshooting-video-delay-on-the-raspberry-pi/) |
+| 2026-08-13 | Tearing Down A Cheap Digital Caliper | Hackaday | [link](https://hackaday.com/2026/08/13/tearing-down-a-cheap-digital-caliper/) |
+| 2026-08-13 | Bridging Older Tasmota Hardware Into Apple Home | Hackaday | [link](https://hackaday.com/2026/08/13/bridging-older-tasmota-hardware-into-apple-home/) |
+| 2026-08-13 | Supercon Ten Tickets on Sale Now | Hackaday | [link](https://hackaday.com/2026/08/13/supercon-ten-tickets-on-sale-now/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -94,13 +94,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | mosaico-labs/mosaico | 918 | Python | 367.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 469 | Shell | 187.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 311 | Python | 124.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 63403 | Python | 25361.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63405 | Python | 25362.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15685 | C++ | 6274.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13398 | Python | 5359.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13400 | Python | 5360.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11297 | Rust | 4518.9 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7896 | Python | 3158.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3870 | Rust | 1548.1 | [link](https://github.com/dora-rs/dora) |
-| sou350121/VLA-Handbook | 506 | HTML | 202.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| Octoday-Hub/Embodied-AI | 2249 |  | 899.7 | [link](https://github.com/Octoday-Hub/Embodied-AI) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -125,7 +125,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-12 | Chelsea Finn: The State of Physical Intelligence in Robotics - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVdVWVZtVElfYVFmUGYxMkptaENSMzFHTkJrcFJRakNfdGI1eTVfX3Yyc2pIeEEzSEpnQXl2N3BqdDczMnlKNERDcjVYeDBnMjVvVDFxS3B4ZWxSazJyZU4ya01xeEhDMUxqQV95c3hZbl9Da0EyTXZFajdlcjlwNF9XNXFCczBZUnl0R252QUJrUGczWkVrMncyVW5ubTNlSldRX1lxbUNfVlU?oc=5) |
 | 2026-08-12 | Six Months, $74.1 Million: Westlake University Professor's Embodied AI Startup Secures Four Funding Rounds - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSm5lLTczQTE2eDNNdWZpQmppanBMYUNJSVlPOTlRUW1lbHNjSjh1UzI3UnBsQldXQnRhYS05YnVZbWZXbkF2MXNzMmZubW0wVDJwS19kYXA2SDdWTjZrR1ByZVpUN3NjMjlBZ1FGWFMwQ0J6dmc?oc=5) |
 | 2026-08-12 | BYD Unveils Its Xiao Di Humanoid Robot Days After US Bans Chinese Robots - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDNYVVkyeU5iLWt2R3RVbnRqN2Qya1NIRkZKemhyMlhJbDFWRl9EanlyTjY1QWVTZERqcU1WODBpR016c1l6djN3NVBJOVZyV0trLTFwckE2M3o0aTZwSHdDSEFOdEFLaWl0SXdJRXdvTWtyRjhKRlZVMEgtZWtlY1Z6WEpudjQzdk5HRzgyTTdwOVNPUTJ5T3dLYnJuTDk3WGc?oc=5) |
-| 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - geekwire.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
+| 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
 | 2026-08-11 | NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlUtQnQyZ1F3eXZqd1ZVMlNSN0M2U21FZlhmMHp3YnowOUVlbWI2ZnVRdUhrWVJGNVlwOFdKMV9XRHktUXRmd2hMQlNsLVU0eHlwYm9CUmY2eU85U19WTlIyajFJWlF0SV9FTHNSelRLRkpsb3ZEMUxrVVBzLTZmUzJFU1VLSEtsMmpfc0REcHA3eGJ3QTI1Xy1ielNNTENLLTNKRXhiN1h6WWlES2QwREgyV2dKQmxQaDBWU0xjYjE1TWRzQXQyWDdzZ1ZVZw?oc=5) |
 | 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
 | 2026-08-10 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
