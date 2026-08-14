@@ -1,5 +1,12 @@
 [
   {
+    "title": "This Week in Security: BugTraq, AI Hacks, and Being Dumb On Planes",
+    "source": "Hackaday",
+    "date": "2026-08-14",
+    "url": "https://hackaday.com/2026/08/14/this-week-in-security-bugtraq-ai-hacks-and-being-dumb-on-planes/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>After a multi-year hiatus, the venerable BugTraq mailing list is back! For decades, BugTraq was the place where vulnerabilities were disclosed, from the early days when nearly all vendors viewed <a class=\"read-more\" href=\"https://hackaday.com/2026/08/14/this-week-in-security-bugtraq-ai-hacks-and-being-dumb-on-planes/\">&#8230;read more</a>"
+  },
+  {
     "title": "ShieldFont: Bludgeoning AI Scrapers that Disrespect Robots.txt",
     "source": "Hackaday",
     "date": "2026-08-14",
@@ -47,6 +54,13 @@
     "date": "2026-08-14",
     "url": "https://www.cnx-software.com/2026/08/14/gemma-translator-multilingual-interpreter-runs-locally-on-raspberry-pi-5-with-the-litert-runtime/",
     "summary": "<div><img alt=\"Gemma Translator\" class=\"attachment-medium size-medium wp-post-image\" height=\"602\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Gemma-Translator-720x602.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Gemma Translator is an open-source project for the Raspberry Pi 5 that acts as a multilingual interpreter running locally without access to the cloud using Google Gemma 4 and LiteRT runtime. It&#8217;s a project built by three Google engineers with the help of Google Antigravity. It includes code to run an on-device, fully offline voice translator/interpreter using Gemma 4 E2B (2.3B effective / ~5.1B total parameters with per-layer embeddings) and the LiteRT runtime. The hardware is comprised of a few components: A Raspberry Pi 5 with 8GB of RAM Display &#8211; HDMI monitor or touchscreen display such as a 480&#215;320 kiosk display Audio Microphone or USB audio capture interface Speaker or headphone output device Keyboard  &#8211; The project demonstrated below appears to use a custom PCB (AX-4LABS-NEW) with a rotary encoder and four mechanical keys (of which only two are used) Optional 3D printed parts for the enclosure Software highlights: [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/14/gemma-translator-multilingual-interpreter-runs-locally-on-raspberry-pi-5-with-the-litert-runtime/\">Gemma Translator multilingual interpreter runs locally on Raspberry Pi 5 with the LiteRT runtime</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Altera Expands DDR5 and LPDDR5 Support Across Agilex FPGAs",
+    "source": "Embedded.com",
+    "date": "2026-08-14",
+    "url": "https://www.embedded.com/altera-expands-ddr5-and-lpddr5-support-across-agilex-fpgas/",
+    "summary": "<p>Altera Corp. has expanded memory support across its Agilex FPGA portfolio with Quartus Prime Pro Edition Software version 26.1.1. The release adds DDR5, LPDDR5, and LPDDR5X-compatible memory capabilities to additional Agilex devices, giving developers greater flexibility when optimizing system bandwidth, power consumption, PCB space, and component availability. For Agilex 7 M-Series devices, the latest software [...]</p>\n<p>The post <a href=\"https://www.embedded.com/altera-expands-ddr5-and-lpddr5-support-across-agilex-fpgas/\">Altera Expands DDR5 and LPDDR5 Support Across Agilex FPGAs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "In-orbit services to generate $3 billion within a decade",
@@ -112,6 +126,13 @@
     "summary": "<p>$20 billion is nice to have, but it’s not much when you’re trying to catch the market leader in your industry and he is spending three times that amount every [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/20bn-is-nice-but-2026-08/\">$20bn is nice to have, but . . . . . . .</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
+    "date": "2026-08-14",
+    "url": "https://blog.adafruit.com/2026/08/14/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-14-2/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+  },
+  {
     "title": "Raspberry Pi Pico Case with Sensor Cage – Snap-Fit + Wall Mount #3DThursday #3DPrinting",
     "source": "Adafruit",
     "date": "2026-08-14",
@@ -131,13 +152,6 @@
     "date": "2026-08-13",
     "url": "https://hackaday.com/2026/08/13/tearing-down-a-cheap-digital-caliper/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/Whats-inside-a-digital-caliper-3-19-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Most hackers and makers end up with a cheap pair of calipers in the toolbox at some point or another. [DiodeGoneWild] decided to take a particularly cheap plastic pair and <a class=\"read-more\" href=\"https://hackaday.com/2026/08/13/tearing-down-a-cheap-digital-caliper/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Bridging Older Tasmota Hardware Into Apple Home",
-    "source": "Hackaday",
-    "date": "2026-08-13",
-    "url": "https://hackaday.com/2026/08/13/bridging-older-tasmota-hardware-into-apple-home/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/doyleoaydsfasdfh.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Tasmota firmware is a popular choice for flashing to a range of Espressif microcontrollers to turn them into smart home devices. If you have such devices in your house, <a class=\"read-more\" href=\"https://hackaday.com/2026/08/13/bridging-older-tasmota-hardware-into-apple-home/\">&#8230;read more</a>"
   },
   {
     "title": "AAEON PICO-ADN2 – A low-profile Alder Lake-N Pico-ITX SBC for space-constrained applications",
@@ -250,13 +264,6 @@
     "date": "2026-08-13",
     "url": "https://blog.adafruit.com/2026/08/13/adjustable-arduino-uno-breadboard-workstation-original-with-hinge-3dthursday-3dprinting/",
     "summary": "DJL_3Designs shares: The original Adjustable Arduino UNO Breadboard Workstation — the model that the Modular Workstation at 2PM was built from. Simpler original version with adjustable hinge, ESP32 and Arduino Nano breakout brackets added in the July 2025 update. Alternative maker workstation if you prefer the original design download the files on: https://makerworld.com/en/models/864695-adjustable-arduino-uno-breadboard-workstation Every Thursday [&#8230;]"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-08-13",
-    "url": "https://blog.adafruit.com/2026/08/13/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-13-2/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
     "title": "Astrolight and ATMOS Space Cargo Aim for First In-Flight Laser Link Between Re-Entry Vehicle and Satellite",
@@ -418,12 +425,5 @@
     "date": "2026-08-07",
     "url": "https://www.embedded.com/marvell-introduces-new-ai-memory-infrastructure-solutions/",
     "summary": "<p>Marvell Technology has expanded its AI memory infrastructure portfolio with new solutions designed to address the growing memory requirements of large-scale agentic AI inference. The latest additions strengthen the company's offerings across AI storage, CXL-based memory expansion and pooling, and optical shared-memory architectures, enabling hyperscale cloud providers to scale memory resources more independently from compute. [...]</p>\n<p>The post <a href=\"https://www.embedded.com/marvell-introduces-new-ai-memory-infrastructure-solutions/\">Marvell Introduces New AI Memory Infrastructure Solutions</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Last-Level Caches Matter Even More in the HBM Era",
-    "source": "Embedded.com",
-    "date": "2026-08-06",
-    "url": "https://www.embedded.com/last-level-caches-matter-even-more-in-the-hbm-era/",
-    "summary": "<p>HBM dramatically increases bandwidth, but latency, power, and data locality still matter, so last-level caches have become more, not less, important.</p>\n<p>The post <a href=\"https://www.embedded.com/last-level-caches-matter-even-more-in-the-hbm-era/\">Last-Level Caches Matter Even More in the HBM Era</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]

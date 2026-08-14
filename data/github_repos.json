@@ -1,5 +1,15 @@
 [
   {
+    "repo": "copper-project/copper-rs",
+    "stars": 1452,
+    "language": "Rust",
+    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
+    "url": "https://github.com/copper-project/copper-rs",
+    "date": "2026-08-14",
+    "topic": "physical-ai",
+    "score": 580.9
+  },
+  {
     "repo": "mosaico-labs/mosaico",
     "stars": 918,
     "language": "Python",
@@ -31,13 +41,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63406,
+    "stars": 63405,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-14",
     "topic": "robotics",
-    "score": 25362.5
+    "score": 25362.1
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -51,53 +61,73 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13405,
+    "stars": 13413,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-14",
     "topic": "robotics",
-    "score": 5362.1
+    "score": 5365.3
+  },
+  {
+    "repo": "kornia/kornia",
+    "stars": 11315,
+    "language": "Python",
+    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "url": "https://github.com/kornia/kornia",
+    "date": "2026-08-14",
+    "topic": "robotics",
+    "score": 4526.1
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11297,
+    "stars": 11298,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-08-14",
     "topic": "robotics",
-    "score": 4518.9
+    "score": 4519.3
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7896,
+    "stars": 7897,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-08-14",
     "topic": "robot-learning",
-    "score": 3158.5
+    "score": 3158.9
   },
   {
     "repo": "dora-rs/dora",
-    "stars": 3870,
+    "stars": 3871,
     "language": "Rust",
     "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
     "url": "https://github.com/dora-rs/dora",
     "date": "2026-08-14",
     "topic": "embodied-ai",
-    "score": 1548.1
+    "score": 1548.5
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2249,
+    "stars": 2251,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-14",
     "topic": "robot-learning",
-    "score": 899.7
+    "score": 900.5
+  },
+  {
+    "repo": "zchoi/Awesome-Embodied-Robotics-and-Agent",
+    "stars": 1849,
+    "language": "",
+    "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
+    "url": "https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent",
+    "date": "2026-08-14",
+    "topic": "embodied-ai",
+    "score": 739.7
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -141,13 +171,13 @@
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 343,
+    "stars": 344,
     "language": "",
     "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
     "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
     "date": "2026-08-14",
     "topic": "robot-learning",
-    "score": 137.3
+    "score": 137.7
   },
   {
     "repo": "syswonder/robonix",
@@ -171,13 +201,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6108,
+    "stars": 6109,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-14",
     "topic": "world-model",
-    "score": 2443.3
+    "score": 2443.7
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -191,13 +221,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2301,
+    "stars": 2302,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-08-14",
     "topic": "humanoid",
-    "score": 920.5
+    "score": 920.9
   },
   {
     "repo": "softmata/horus",
@@ -208,6 +238,16 @@
     "date": "2026-08-14",
     "topic": "humanoid",
     "score": 164.9
+  },
+  {
+    "repo": "Matrixchung/iFOC",
+    "stars": 27,
+    "language": "C++",
+    "description": "iFOC - High Performance Field Oriented Control System, whose 'i' stands for Intelligent, Integrated and Instant.",
+    "url": "https://github.com/Matrixchung/iFOC",
+    "date": "2026-08-14",
+    "topic": "humanoid",
+    "score": 10.9
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -221,13 +261,13 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 2938,
+    "stars": 2939,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-13",
     "topic": "physical-ai",
-    "score": 1175.3
+    "score": 1175.7
   },
   {
     "repo": "Edgenesis/shifu",
@@ -251,13 +291,13 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4533,
+    "stars": 4535,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-13",
     "topic": "embodied-ai",
-    "score": 1813.3
+    "score": 1814.1
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
@@ -280,16 +320,6 @@
     "score": 882.9
   },
   {
-    "repo": "PhyAgentOS-dev/PhyAgentOS",
-    "stars": 1753,
-    "language": "Python",
-    "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
-    "url": "https://github.com/PhyAgentOS-dev/PhyAgentOS",
-    "date": "2026-08-13",
-    "topic": "embodied-ai",
-    "score": 701.3
-  },
-  {
     "repo": "OpenHUTB/hutb",
     "stars": 581,
     "language": "C++",
@@ -308,16 +338,6 @@
     "date": "2026-08-13",
     "topic": "humanoid",
     "score": 69.3
-  },
-  {
-    "repo": "Matrixchung/iFOC",
-    "stars": 27,
-    "language": "C++",
-    "description": "iFOC - High Performance Field Oriented Control System, whose 'i' stands for Intelligent, Integrated and Instant.",
-    "url": "https://github.com/Matrixchung/iFOC",
-    "date": "2026-08-13",
-    "topic": "humanoid",
-    "score": 10.9
   },
   {
     "repo": "vikashplus/robohive",
@@ -361,13 +381,13 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16116,
+    "stars": 16117,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-08-12",
     "topic": "robotics",
-    "score": 6446.5
+    "score": 6446.9
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -378,16 +398,6 @@
     "date": "2026-08-12",
     "topic": "robotics",
     "score": 5819.3
-  },
-  {
-    "repo": "kornia/kornia",
-    "stars": 11316,
-    "language": "Python",
-    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-    "url": "https://github.com/kornia/kornia",
-    "date": "2026-08-11",
-    "topic": "robotics",
-    "score": 4526.5
   },
   {
     "repo": "zli12321/Vision-Language-Models-Overview",
@@ -418,16 +428,6 @@
     "date": "2026-08-11",
     "topic": "lerobot",
     "score": 52.1
-  },
-  {
-    "repo": "copper-project/copper-rs",
-    "stars": 1451,
-    "language": "Rust",
-    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
-    "url": "https://github.com/copper-project/copper-rs",
-    "date": "2026-08-10",
-    "topic": "physical-ai",
-    "score": 580.5
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -461,13 +461,13 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 2118,
+    "stars": 2119,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-08-10",
     "topic": "world-model",
-    "score": 847.3
+    "score": 847.7
   },
   {
     "repo": "roboninecom/SO-ARM100-101-Parallel-Gripper",
@@ -751,13 +751,13 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13688,
+    "stars": 13689,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-07-25",
     "topic": "robotics",
-    "score": 5475.3
+    "score": 5475.7
   },
   {
     "repo": "phi-monster/Galahad",
@@ -771,13 +771,13 @@
   },
   {
     "repo": "thu-ml/Causal-Forcing",
-    "stars": 921,
+    "stars": 920,
     "language": "Python",
     "description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\" & Causal Forcing++",
     "url": "https://github.com/thu-ml/Causal-Forcing",
     "date": "2026-07-23",
     "topic": "world-model",
-    "score": 368.5
+    "score": 368.1
   },
   {
     "repo": "NVlabs/physical_ai_av",
