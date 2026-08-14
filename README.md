@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-14 22:09 UTC
+Last Updated: 2026-08-14 23:09 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -38,24 +38,24 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-14 | Robots on Wall Street: Non-traditional paths to public markets for robotics companies | Robotics Business Review | [link](https://www.therobotreport.com/robots-on-wall-street-non-traditional-paths-public-markets-robotics-companies/) |
 | 2026-08-14 | Video Friday: Lift Happens | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge) |
 | 2026-08-14 | Neros Technologies raises $250M to deploy its defense drones by the end of 2026 | Robotics Business Review | [link](https://www.therobotreport.com/neros-technologies-raises-250m-to-deploy-its-defense-drones-by-the-end-of-2026/) |
+| 2026-08-14 | How Protolabs turns CAD files into parts in under 24 hours | Robotics Business Review | [link](https://www.therobotreport.com/how-protolabs-turns-cad-files-into-parts-under-24-hours/) |
 | 2026-08-13 | ARM Institute calls for defense manufacturing technology projects | Robotics Business Review | [link](https://www.therobotreport.com/arm-institute-calls-for-defense-manufacturing-technology-project/) |
 | 2026-08-13 | Experts to discuss the state of humanoid robots at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/experts-discuss-state-humanoid-robots-robobusiness-2026/) |
 | 2026-08-13 | Mobile manipulators and humanoids: The future of robotics | Robotics Business Review | [link](https://www.therobotreport.com/mobile-manipulators-and-humanoids/) |
 | 2026-08-13 | BioflexBot robot hand aims to replicate key human hand motions | Robotics Business Review | [link](https://www.therobotreport.com/bioflexbot-robot-hand-aims-to-replicate-key-human-hand-motions/) |
 | 2026-08-12 | DAF Trucks to integrate Einride Driver to scale autonomous electric freight | Robotics Business Review | [link](https://www.therobotreport.com/daf-trucks-integrates-einride-driver-scale-autonomous-electric-freight/) |
 | 2026-08-12 | Strengthening U.S. Army sustainment: TALUS to deliver autonomous distribution | Robotics Business Review | [link](https://www.therobotreport.com/strengthening-u-s-army-sustainment-talus-to-deliver-autonomous-distribution/) |
-| 2026-08-12 | Q2 2026 robotics demand increased across industries, reports A3 | Robotics Business Review | [link](https://www.therobotreport.com/q2-2026-robotics-demand-increased-across-industries-reports-a3/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-14 | Submersible drone analyzes ice | Hackaday | [link](https://hackaday.com/2026/08/14/submersible-drone-analyzes-ice/) |
 | 2026-08-14 | Automatic Naptime with BabyBjorn Bouncing Servo | Hackaday | [link](https://hackaday.com/2026/08/14/automatic-naptime-with-babybjorn-bouncing-servo/) |
 | 2026-08-14 | Uninvasive EEG Interface Could Be Used To Play Games | Hackaday | [link](https://hackaday.com/2026/08/14/uninvasive-eeg-interface-could-be-used-to-play-games/) |
 | 2026-08-14 | Hackaday Podcast Episode 382: Glueballs, Borg Cubes, and Supersonic Trebuchets | Hackaday | [link](https://hackaday.com/2026/08/14/hackaday-podcast-episode-382-glueballs-borg-cubes-and-supersonic-trebuchets/) |
 | 2026-08-14 | Snooping Flume Water Monitor Data On The Wire | Hackaday | [link](https://hackaday.com/2026/08/14/snooping-flume-water-monitor-data-on-the-wire/) |
 | 2026-08-14 | This Week in Security: BugTraq, AI Hacks, and Being Dumb On Planes | Hackaday | [link](https://hackaday.com/2026/08/14/this-week-in-security-bugtraq-ai-hacks-and-being-dumb-on-planes/) |
 | 2026-08-14 | ShieldFont: Bludgeoning AI Scrapers that Disrespect Robots.txt | Hackaday | [link](https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/) |
-| 2026-08-14 | Mauchly and Eckert’s Other Computers | Hackaday | [link](https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/) |
 | 2026-08-14 | EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition | CNX Software | [link](https://www.cnx-software.com/2026/08/14/eitwatch-open-source-esp32-s3-smartwatch-implements-planar-eit-hand-gesture-recognition/) |
 | 2026-08-14 | Giada DK320 digital signage player and Edge AI embedded PC supports up to the Intel Core 5 315 Wildcat Lake processor | CNX Software | [link](https://www.cnx-software.com/2026/08/14/giada-dk320-digital-signage-player-and-edge-ai-embedded-pc-supports-up-to-the-intel-core-5-315-wildcat-lake-processor/) |
 | 2026-08-14 | Gemma Translator multilingual interpreter runs locally on Raspberry Pi 5 with the LiteRT runtime | CNX Software | [link](https://www.cnx-software.com/2026/08/14/gemma-translator-multilingual-interpreter-runs-locally-on-raspberry-pi-5-with-the-litert-runtime/) |
@@ -78,6 +78,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-14 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-08-14 | huggingaccounttest/ICRA2027_ROBOT_Spline_VLA | 0 | 0 | [link](https://huggingface.co/huggingaccounttest/ICRA2027_ROBOT_Spline_VLA) |
 | 2026-08-14 | OpenWAM/New_Pretrained_RoboTwin_Full_SFT | 0 | 0 | [link](https://huggingface.co/OpenWAM/New_Pretrained_RoboTwin_Full_SFT) |
 | 2026-08-14 | OpenWAM/New_Pretrained_RoboTwin_Clean_SFT_20000 | 0 | 0 | [link](https://huggingface.co/OpenWAM/New_Pretrained_RoboTwin_Clean_SFT_20000) |
 | 2026-08-14 | snu-aidas/Dynin-Robotics | 0 | 0 | [link](https://huggingface.co/snu-aidas/Dynin-Robotics) |
@@ -86,21 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-14 | XiaomiRobotics/Xiaomi-Robotics-1-5B | 17 | 14 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-5B) |
 | 2026-08-14 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-14 | RobotisSW/Pick_OrangeCoffeeCan_WhiteShelf_byGrootModel_80K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_OrangeCoffeeCan_WhiteShelf_byGrootModel_80K) |
-| 2026-08-14 | RobotisSW/Pick_OrangeCoffeeCan_WhiteShelf_byGrootModel_60K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_OrangeCoffeeCan_WhiteShelf_byGrootModel_60K) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 2945 | Python | 1178.1 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1451 | Rust | 580.5 | [link](https://github.com/copper-project/copper-rs) |
+| Edgenesis/shifu | 1431 | Go | 572.5 | [link](https://github.com/Edgenesis/shifu) |
 | mosaico-labs/mosaico | 919 | Python | 367.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 469 | Shell | 187.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | alireza787b/mavsdk_drone_show | 311 | Python | 124.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| commaai/openpilot | 63409 | Python | 25363.7 | [link](https://github.com/commaai/openpilot) |
+| NVIDIA-Omniverse/ovrtx | 207 | Python | 82.9 | [link](https://github.com/NVIDIA-Omniverse/ovrtx) |
+| commaai/openpilot | 63410 | Python | 25364.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15688 | C++ | 6275.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14550 | C++ | 5820.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13429 | Python | 5371.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| kornia/kornia | 11315 | Python | 4526.1 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -126,7 +126,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-12 | BYD Unveils Its Xiao Di Humanoid Robot Days After US Bans Chinese Robots - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDNYVVkyeU5iLWt2R3RVbnRqN2Qya1NIRkZKemhyMlhJbDFWRl9EanlyTjY1QWVTZERqcU1WODBpR016c1l6djN3NVBJOVZyV0trLTFwckE2M3o0aTZwSHdDSEFOdEFLaWl0SXdJRXdvTWtyRjhKRlZVMEgtZWtlY1Z6WEpudjQzdk5HRzgyTTdwOVNPUTJ5T3dLYnJuTDk3WGc?oc=5) |
 | 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
 | 2026-08-11 | NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlUtQnQyZ1F3eXZqd1ZVMlNSN0M2U21FZlhmMHp3YnowOUVlbWI2ZnVRdUhrWVJGNVlwOFdKMV9XRHktUXRmd2hMQlNsLVU0eHlwYm9CUmY2eU85U19WTlIyajFJWlF0SV9FTHNSelRLRkpsb3ZEMUxrVVBzLTZmUzJFU1VLSEtsMmpfc0REcHA3eGJ3QTI1Xy1ielNNTENLLTNKRXhiN1h6WWlES2QwREgyV2dKQmxQaDBWU0xjYjE1TWRzQXQyWDdzZ1ZVZw?oc=5) |
-| 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
+| 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - bizjournals.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
 | 2026-08-10 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
 | 2026-08-10 | Explainer-What is Unitree and why are China’s humanoid robot makers racing to list? - WTVB | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG03UFlKLTk1TEVuYWRZMEVsY01YY3I4MExPQWN0WGtMRjYwNlZpTHFJTEZuU00tOVRGa0VWbUhmSnhLR25qQW5RZF9BUHl1bUdrYXNvMzJKNFliM1piOXRwal9TcjNDeWpQdzVqYktpcUJqM1pQZ3lZLTZISVpxZVNzRmZYbjc0TTNsSGt2ajZMUmpKU2psOFR0UFhpajVnZzNOV3FMa09uUVVrNzQ1TGFB?oc=5) |
 
@@ -136,13 +136,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-14 | Finance Manager (SP)  | Figure AI | São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4705464006) |
 | 2026-08-14 | Helix AI Engineer, Training Performance | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4705296006) |
 | 2026-08-14 | Senior Staff Data Scientist, Robotics | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127729004) |
+| 2026-08-14 | Staff Software Engineer, Data Platform | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6144405004) |
 | 2026-08-13 | Recruiting Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4658691006) |
 | 2026-08-13 | CAD Administrator | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6138024004) |
 | 2026-08-13 | Director of Technical Accounting & Reporting | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6142438004) |
 | 2026-08-13 | Senior Solutions Engineer | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6132323004) |
 | 2026-08-11 | Project Lead, Data Creators (CDMX) | Figure AI | Ciudad de México | [link](https://job-boards.greenhouse.io/figureai/jobs/4702544006) |
 | 2026-08-11 | User Support Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4703943006) |
-| 2026-08-11 | Associate General Counsel, Corporate  | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6110896004) |
 
 ## Automation
 

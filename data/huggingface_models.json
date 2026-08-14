@@ -9,6 +9,15 @@
     "score": 0.5
   },
   {
+    "model": "huggingaccounttest/ICRA2027_ROBOT_Spline_VLA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/huggingaccounttest/ICRA2027_ROBOT_Spline_VLA",
+    "date": "2026-08-14",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "OpenWAM/New_Pretrained_RoboTwin_Full_SFT",
     "downloads": 0,
     "likes": 0,
@@ -99,12 +108,12 @@
     "score": 0.1
   },
   {
-    "model": "quineyu/multitask-dit-your-robot",
+    "model": "sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/quineyu/multitask-dit-your-robot",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-14",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -130,15 +139,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
-    "date": "2026-08-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-14",
     "keyword": "vla",
     "score": 0.1
@@ -198,15 +198,6 @@
     "score": 0.3
   },
   {
-    "model": "dggdagqgqeg/my_vla_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/dggdagqgqeg/my_vla_policy",
-    "date": "2026-08-14",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "Chaenn/act_policy_so101_cube_multitask_hil_0814",
     "downloads": 0,
     "likes": 0,
@@ -256,6 +247,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/tannerfrancis11/record-test_20260813_223817_policy",
+    "date": "2026-08-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "dggdagqgqeg/my_vla_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dggdagqgqeg/my_vla_policy",
     "date": "2026-08-14",
     "keyword": "policy",
     "score": 0.1

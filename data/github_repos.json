@@ -20,6 +20,16 @@
     "score": 580.5
   },
   {
+    "repo": "Edgenesis/shifu",
+    "stars": 1431,
+    "language": "Go",
+    "description": "Kubernetes-native IoT gateway",
+    "url": "https://github.com/Edgenesis/shifu",
+    "date": "2026-08-14",
+    "topic": "physical-ai",
+    "score": 572.5
+  },
+  {
     "repo": "mosaico-labs/mosaico",
     "stars": 919,
     "language": "Python",
@@ -50,14 +60,24 @@
     "score": 124.5
   },
   {
+    "repo": "NVIDIA-Omniverse/ovrtx",
+    "stars": 207,
+    "language": "Python",
+    "description": "A C and Python library for physically accurate, real-time, sensor simulation and visualization using NVIDIA Omniverse RTX",
+    "url": "https://github.com/NVIDIA-Omniverse/ovrtx",
+    "date": "2026-08-14",
+    "topic": "physical-ai",
+    "score": 82.9
+  },
+  {
     "repo": "commaai/openpilot",
-    "stars": 63409,
+    "stars": 63410,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-14",
     "topic": "robotics",
-    "score": 25363.7
+    "score": 25364.1
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -101,23 +121,23 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11299,
+    "stars": 11300,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-08-14",
     "topic": "robotics",
-    "score": 4519.7
+    "score": 4520.1
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7898,
+    "stars": 7899,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-08-14",
     "topic": "robot-learning",
-    "score": 3159.3
+    "score": 3159.7
   },
   {
     "repo": "dora-rs/dora",
@@ -221,13 +241,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6114,
+    "stars": 6115,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-14",
     "topic": "world-model",
-    "score": 2445.7
+    "score": 2446.1
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -298,16 +318,6 @@
     "date": "2026-08-14",
     "topic": "robot-learning",
     "score": 83.3
-  },
-  {
-    "repo": "Edgenesis/shifu",
-    "stars": 1431,
-    "language": "Go",
-    "description": "Kubernetes-native IoT gateway",
-    "url": "https://github.com/Edgenesis/shifu",
-    "date": "2026-08-13",
-    "topic": "physical-ai",
-    "score": 572.5
   },
   {
     "repo": "nasa-jpl/open-source-rover",
@@ -678,16 +688,6 @@
     "date": "2026-07-31",
     "topic": "lerobot",
     "score": 26.9
-  },
-  {
-    "repo": "NVIDIA-Omniverse/ovrtx",
-    "stars": 207,
-    "language": "Python",
-    "description": "A C and Python library for physically accurate, real-time, sensor simulation and visualization using NVIDIA Omniverse RTX",
-    "url": "https://github.com/NVIDIA-Omniverse/ovrtx",
-    "date": "2026-07-29",
-    "topic": "physical-ai",
-    "score": 82.9
   },
   {
     "repo": "humanoidworkbench/Humanoid-Workbench",
