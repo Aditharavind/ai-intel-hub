@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-14 07:01 UTC
+Last Updated: 2026-08-14 08:53 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-14 | Mauchly and Eckert’s Other Computers | Hackaday | [link](https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/) |
 | 2026-08-14 | Rare IBM PC Brought Back To Life | Hackaday | [link](https://hackaday.com/2026/08/13/rare-ibm-pc-brought-back-to-life/) |
 | 2026-08-14 | Removing Microplastics from Soil with Tumbling Magnetic Flakes | Hackaday | [link](https://hackaday.com/2026/08/13/removing-microplastics-from-soil-with-tumbling-magnetic-flakes/) |
+| 2026-08-14 | Gemma Translator multilingual interpreter runs locally on Raspberry Pi 5 with the LiteRT runtime | CNX Software | [link](https://www.cnx-software.com/2026/08/14/gemma-translator-multilingual-interpreter-runs-locally-on-raspberry-pi-5-with-the-litert-runtime/) |
 | 2026-08-14 | YMTC in Big 3 for NAND units | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/ymtc-in-big-3-for-nand-units-2026-08/) |
 | 2026-08-14 | xEV PMIC market to double to $14.5bn by 2031 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/xev-pmic-market-to-double-to-14-5bn-by-2031-2026-08/) |
 | 2026-08-14 | ASSBs moving to pilot production | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/solid-state-auto-batteries-2026-08/) |
 | 2026-08-14 | Obsolescence planning on long life-cycle programmes | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/obsolescence-planning-on-long-life-cycle-programmes-2026-08/) |
 | 2026-08-14 | Datacentre components to be a $1.8trn market by 2030 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/datacentre-components-to-be-a-1-8trn-market-by-2030-2026-08/) |
 | 2026-08-14 | $20bn is nice to have, but . . . . . . . | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/20bn-is-nice-but-2026-08/) |
-| 2026-08-14 | Raspberry Pi Pico Case with Sensor Cage – Snap-Fit + Wall Mount #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/13/raspberry-pi-pico-case-with-sensor-cage-snap-fit-wall-mount-3dthursday-3dprinting/) |
-| 2026-08-13 | Troubleshooting Video Delay On The Raspberry Pi | Hackaday | [link](https://hackaday.com/2026/08/13/troubleshooting-video-delay-on-the-raspberry-pi/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -78,29 +78,29 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-14 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-08-14 | XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa | 89 | 10 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa) |
+| 2026-08-14 | XiaomiRobotics/Xiaomi-Robotics-1-VLABench | 61 | 5 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-VLABench) |
+| 2026-08-14 | XiaomiRobotics/Xiaomi-Robotics-1-5B | 17 | 14 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-5B) |
 | 2026-08-14 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-14 | RobotisSW/Pick_OrangeCoffeeCan_WhiteShelf_byGrootModel_80K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_OrangeCoffeeCan_WhiteShelf_byGrootModel_80K) |
 | 2026-08-14 | RobotisSW/Pick_OrangeCoffeeCan_WhiteShelf_byGrootModel_60K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_OrangeCoffeeCan_WhiteShelf_byGrootModel_60K) |
 | 2026-08-14 | RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora | 0 | 0 | [link](https://huggingface.co/RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora) |
 | 2026-08-14 | quineyu/multitask-dit-your-robot | 0 | 0 | [link](https://huggingface.co/quineyu/multitask-dit-your-robot) |
 | 2026-08-14 | RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm | 14 | 0 | [link](https://huggingface.co/RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm) |
-| 2026-08-14 | dggdagqgqeg/my_vla_policy | 0 | 0 | [link](https://huggingface.co/dggdagqgqeg/my_vla_policy) |
-| 2026-08-14 | emu1215/so101-lingbot-vla | 0 | 0 | [link](https://huggingface.co/emu1215/so101-lingbot-vla) |
-| 2026-08-14 | XYZPIT/gr00t_fixed_vlash_delay_0812_100000 | 0 | 0 | [link](https://huggingface.co/XYZPIT/gr00t_fixed_vlash_delay_0812_100000) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | awslabs/awsome-distributed-ai | 469 | Shell | 187.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| alireza787b/mavsdk_drone_show | 311 | Python | 124.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
 | commaai/openpilot | 63403 | Python | 25361.3 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 13391 | Python | 5356.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13396 | Python | 5358.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | isaac-sim/IsaacLab | 7895 | Python | 3158.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3870 | Rust | 1548.1 | [link](https://github.com/dora-rs/dora) |
-| sou350121/VLA-Handbook | 505 | HTML | 202.1 | [link](https://github.com/sou350121/VLA-Handbook) |
-| syswonder/robonix | 324 | Rust | 129.7 | [link](https://github.com/syswonder/robonix) |
-| hzxie/DynamicVLA | 322 | Python | 128.9 | [link](https://github.com/hzxie/DynamicVLA) |
-| vllm-project/vllm-omni | 6104 | Python | 2441.7 | [link](https://github.com/vllm-project/vllm-omni) |
-| NVlabs/ProtoMotions | 2298 | Python | 919.3 | [link](https://github.com/NVlabs/ProtoMotions) |
+| sou350121/VLA-Handbook | 506 | HTML | 202.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| flashrt-project/FlashRT | 502 | C++ | 200.9 | [link](https://github.com/flashrt-project/FlashRT) |
+| baidu-baige/LoongForge | 396 | Python | 158.5 | [link](https://github.com/baidu-baige/LoongForge) |
+| syswonder/robonix | 325 | Rust | 130.1 | [link](https://github.com/syswonder/robonix) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,6 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-14 | Ropedia builds data pipeline for physical AI - sbr.com.sg | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTE1icUpyNGpZeXVJc3VJTmo1UE5BY3h4b3FPYnlsdlBXaEtrY0NtaC1wU0VRYlg5TmhfcUh2dDc1MjlOUmttUlFOc25Ud2owMGFwR3dqMGtiaXNFMkkxV0J1aV9kTEdUOTJBNWlaWVBSZW1KcDVSRkRKQThjQi1Fbld6el93R1FjZFJQUTE2SzUxbEVWbng0?oc=5) |
 | 2026-08-12 | Employment immunity: the quiet revolution of robotics and physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lcURSMEFORUVpUHBsejVWMVhTYnZMbDJ6aUVVeVRNRDg5Tm12NDE3SnBDeGNhYmVCNC14TFFPVTJZcldIbUZwNzdNWXpBVllRTXhlRC1EV3hmQ0NNbnUyTnlOQ2hLR1pI?oc=5) |
 | 2026-08-12 | Former Alibaba Researcher Announces New Startup on Digital and Physical AI Agents - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS0yNmtES1hJM2JVdlhsN3ozemF5bnpqbjM3YUE2TXFmM1JuY2FtVEZ6NHl1MmpWclg5aV96LURKTER3bElQQTAxNE9CdDBva1Q3OE1yTFNfeV9lRHRPZTFHNFQtQWxXNnRiXzFUZzhIcTNuV3RWSXZkUWF4S0J5YjZZNHJqZUl5UjJVUHAyS3lhbU1pdTUycjRwcUpoM2J5b2VvRFR4dEowZG9oZVd0bzhETkNkUQ?oc=5) |
 | 2026-08-12 | Chelsea Finn: The State of Physical Intelligence in Robotics - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVdVWVZtVElfYVFmUGYxMkptaENSMzFHTkJrcFJRakNfdGI1eTVfX3Yyc2pIeEEzSEpnQXl2N3BqdDczMnlKNERDcjVYeDBnMjVvVDFxS3B4ZWxSazJyZU4ya01xeEhDMUxqQV95c3hZbl9Da0EyTXZFajdlcjlwNF9XNXFCczBZUnl0R252QUJrUGczWkVrMncyVW5ubTNlSldRX1lxbUNfVlU?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlUtQnQyZ1F3eXZqd1ZVMlNSN0M2U21FZlhmMHp3YnowOUVlbWI2ZnVRdUhrWVJGNVlwOFdKMV9XRHktUXRmd2hMQlNsLVU0eHlwYm9CUmY2eU85U19WTlIyajFJWlF0SV9FTHNSelRLRkpsb3ZEMUxrVVBzLTZmUzJFU1VLSEtsMmpfc0REcHA3eGJ3QTI1Xy1ielNNTENLLTNKRXhiN1h6WWlES2QwREgyV2dKQmxQaDBWU0xjYjE1TWRzQXQyWDdzZ1ZVZw?oc=5) |
 | 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
 | 2026-08-10 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
-| 2026-08-10 | Explainer-What is Unitree and why are China’s humanoid robot makers racing to list? - WTVB | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG03UFlKLTk1TEVuYWRZMEVsY01YY3I4MExPQWN0WGtMRjYwNlZpTHFJTEZuU00tOVRGa0VWbUhmSnhLR25qQW5RZF9BUHl1bUdrYXNvMzJKNFliM1piOXRwal9TcjNDeWpQdzVqYktpcUJqM1pQZ3lZLTZISVpxZVNzRmZYbjc0TTNsSGt2ajZMUmpKU2psOFR0UFhpajVnZzNOV3FMa09uUVVrNzQ1TGFB?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

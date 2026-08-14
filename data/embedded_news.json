@@ -1,5 +1,12 @@
 [
   {
+    "title": "Mauchly and Eckert’s Other Computers",
+    "source": "Hackaday",
+    "date": "2026-08-14",
+    "url": "https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"373\" src=\"https://hackaday.com/wp-content/uploads/2026/08/sked.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you ask a random person who [John Mauchly] or [J. Presper Eckert] were, you&#8217;d probably get a blank stare. Ask a Hackaday reader, and you have a better shot. <a class=\"read-more\" href=\"https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/\">&#8230;read more</a>"
+  },
+  {
     "title": "Rare IBM PC Brought Back To Life",
     "source": "Hackaday",
     "date": "2026-08-14",
@@ -12,6 +19,13 @@
     "date": "2026-08-14",
     "url": "https://hackaday.com/2026/08/13/removing-microplastics-from-soil-with-tumbling-magnetic-flakes/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"463\" src=\"https://hackaday.com/wp-content/uploads/2026/08/magnetic_flakes_microplastics_kim_et_al_2026_npg_asia_materials.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>While in aquatic environments microplastics can be filtered out relatively easily, in soil it&#8217;s much harder to get to these microscopic particles. While you can certainly strip mine an entire <a class=\"read-more\" href=\"https://hackaday.com/2026/08/13/removing-microplastics-from-soil-with-tumbling-magnetic-flakes/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Gemma Translator multilingual interpreter runs locally on Raspberry Pi 5 with the LiteRT runtime",
+    "source": "CNX Software",
+    "date": "2026-08-14",
+    "url": "https://www.cnx-software.com/2026/08/14/gemma-translator-multilingual-interpreter-runs-locally-on-raspberry-pi-5-with-the-litert-runtime/",
+    "summary": "<div><img alt=\"Gemma Translator\" class=\"attachment-medium size-medium wp-post-image\" height=\"602\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Gemma-Translator-720x602.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Gemma Translator is an open-source project for the Raspberry Pi 5 that acts as a multilingual interpreter running locally without access to the cloud using Google Gemma 4 and LiteRT runtime. It&#8217;s a project built by three Google engineers with the help of Google Antigravity. It includes code to run an on-device, fully offline voice translator/interpreter using Gemma 4 E2B (2.3B effective / ~5.1B total parameters with per-layer embeddings) and the LiteRT runtime. The hardware is comprised of a few components: A Raspberry Pi 5 with 8GB of RAM Display &#8211; HDMI monitor or touchscreen display such as a 480&#215;320 kiosk display Audio Microphone or USB audio capture interface Speaker or headphone output device Keyboard  &#8211; The project demonstrated below appears to use a custom PCB (AX-4LABS-NEW) with a rotary encoder and four mechanical keys (of which only two are used) Optional 3D printed parts for the enclosure Software highlights: [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/14/gemma-translator-multilingual-interpreter-runs-locally-on-raspberry-pi-5-with-the-litert-runtime/\">Gemma Translator multilingual interpreter runs locally on Raspberry Pi 5 with the LiteRT runtime</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "YMTC in Big 3 for NAND units",
@@ -89,13 +103,6 @@
     "date": "2026-08-13",
     "url": "https://hackaday.com/2026/08/13/supercon-ten-tickets-on-sale-now/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/supercon_10_CFP.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Hackers, start your engines! We’re opening up ticket sales for our tenth, the 2026 Hackaday Supercon, to take place Nov 6-8 in Pasadena, CA. As always, because we haven’t announced <a class=\"read-more\" href=\"https://hackaday.com/2026/08/13/supercon-ten-tickets-on-sale-now/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Holograms, From Your Plotter",
-    "source": "Hackaday",
-    "date": "2026-08-13",
-    "url": "https://hackaday.com/2026/08/13/holograms-from-your-plotter/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/plotter-hologram-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When mass-printed holograms appeared on magazines in the 1980s they were a huge novelty, before degrading to the level of kids&#8217; stickers in the years since. At the time they <a class=\"read-more\" href=\"https://hackaday.com/2026/08/13/holograms-from-your-plotter/\">&#8230;read more</a>"
   },
   {
     "title": "AAEON PICO-ADN2 – A low-profile Alder Lake-N Pico-ITX SBC for space-constrained applications",
@@ -397,13 +404,6 @@
     "date": "2026-08-10",
     "url": "https://www.cnx-software.com/2026/08/10/pyble-open-source-micropython-ide-works-over-bluetooth-le-for-tablet-and-ipad-users/",
     "summary": "<div><img alt=\"PyBLE MicroPython IDE for Tablets\" class=\"attachment-medium size-medium wp-post-image\" height=\"540\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/PyBLE-MicroPython-IDE-for-Tablets-720x540.png\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>PyBLE is an open-source, MIT-licensed MicroPython IDE for programming microcontroller boards over Bluetooth Low Energy (BLE), which targets Android tablet and iPad users. PyBLE combines a Flutter-based IDE for iPad and Android with support for MicroPython and visual programming (Blockly), an open MicroPython agent firmware, and the PBLE/1 protocol fully documented by the developer. The IDE currently supports features such as editing and running Python, a live console, wireless file management, and initial firmware targets include ESP32, ESP32-S3, and ESP32-C3 wireless microcontrollers. PyBLE highlights: Flutter app Filtered BLE discovery and PBLE/1 open protocol support MicroPython editor with save, run, stop, soft reboot, and live console Wireless file browsing and transfer with integrity checks Offline Blockly workspace with GPIO and standard MicroPython NeoPixel blocks Editable beginner examples Exact Blockly sidecar reopening and a bounded Python-to-blocks importer Adaptive tablet interface for portrait and landscape use Local operation without an account, analytics, or [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/10/pyble-open-source-micropython-ide-works-over-bluetooth-le-for-tablet-and-ipad-users/\">PyBLE open-source MicroPython IDE works over Bluetooth LE for tablet and iPad users</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion",
-    "source": "CNX Software",
-    "date": "2026-08-10",
-    "url": "https://www.cnx-software.com/2026/08/10/raspberry-pi-cm4-cm5-based-wisgate-connect-router-rak7392-offers-2-5gbe-mini-pcie-and-wisblock-expansion/",
-    "summary": "<div><img alt=\"WisGate Connect Router RAK7392\" class=\"attachment-medium size-medium wp-post-image\" height=\"638\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/WisGate-Connect-Router-RAK7392-720x638.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>RAKwireless has just launched the WisGate Connect Router RAK7392 (not to be confused with the older WisGate Connect RAK7391), an industrial-grade edge router and gateway built around Raspberry Pi Compute Module 4/5 (CM4/CM5). The system features three Gigabit Ethernet ports, one 2.5GbE port, wireless expansion via a mini PCIe slot, and WisBlock connectors for sensors and I/O modules. The gateway is designed for industrial IoT applications such as edge computing, VPN, Modbus-to-MQTT conversion, and LoRaWAN packet forwarding, eliminating the need for multiple boards and USB adapters for complex deployments. WisGate Connect Router RAK7392 specifications: SoM options (one or the other) Raspberry Pi CM4 – Broadcom BCM2711 quad-core Cortex-A72 processor @ 1.5 GHz Raspberry Pi CM5 – Broadcom BCM2712 quad-core Cortex-A76 processor @ 2.4 GHz Storage and Memory will depend upon the module Storage – MicroSD card socket for CM4/CM5 Lite modules only Networking 3x Gigabit Ethernet ports (eth1, eth2, eth3) [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/10/raspberry-pi-cm4-cm5-based-wisgate-connect-router-rak7392-offers-2-5gbe-mini-pcie-and-wisblock-expansion/\">Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "HBM, Agentic AI Platform for PCB Design, Ku-Band RFoF Transmitter: Embedded Week Insights",
