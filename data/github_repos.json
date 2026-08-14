@@ -1,13 +1,33 @@
 [
   {
+    "repo": "dora-rs/dora",
+    "stars": 3870,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-08-14",
+    "topic": "embodied-ai",
+    "score": 1548.1
+  },
+  {
+    "repo": "vllm-project/vllm-omni",
+    "stars": 6097,
+    "language": "Python",
+    "description": "A framework for efficient model inference with omni-modality models",
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "date": "2026-08-14",
+    "topic": "world-model",
+    "score": 2438.9
+  },
+  {
     "repo": "NVIDIA/skills",
-    "stars": 2919,
+    "stars": 2920,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-13",
     "topic": "physical-ai",
-    "score": 1167.7
+    "score": 1168.1
   },
   {
     "repo": "Edgenesis/shifu",
@@ -120,14 +140,14 @@
     "score": 1811.3
   },
   {
-    "repo": "dora-rs/dora",
-    "stars": 3870,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
+    "repo": "knightnemo/Awesome-World-Models",
+    "stars": 3301,
+    "language": "",
+    "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
+    "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-08-13",
     "topic": "embodied-ai",
-    "score": 1548.1
+    "score": 1320.5
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -138,6 +158,16 @@
     "date": "2026-08-13",
     "topic": "embodied-ai",
     "score": 882.9
+  },
+  {
+    "repo": "PhyAgentOS/PhyAgentOS",
+    "stars": 1750,
+    "language": "Python",
+    "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
+    "url": "https://github.com/PhyAgentOS/PhyAgentOS",
+    "date": "2026-08-13",
+    "topic": "embodied-ai",
+    "score": 700.1
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -198,16 +228,6 @@
     "date": "2026-08-13",
     "topic": "vla",
     "score": 129.7
-  },
-  {
-    "repo": "vllm-project/vllm-omni",
-    "stars": 6095,
-    "language": "Python",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "url": "https://github.com/vllm-project/vllm-omni",
-    "date": "2026-08-13",
-    "topic": "world-model",
-    "score": 2438.1
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -350,16 +370,6 @@
     "score": 4526.5
   },
   {
-    "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3299,
-    "language": "",
-    "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
-    "url": "https://github.com/knightnemo/Awesome-World-Models",
-    "date": "2026-08-11",
-    "topic": "embodied-ai",
-    "score": 1319.7
-  },
-  {
     "repo": "zli12321/Vision-Language-Models-Overview",
     "stars": 696,
     "language": "HTML",
@@ -391,13 +401,13 @@
   },
   {
     "repo": "copper-project/copper-rs",
-    "stars": 1449,
+    "stars": 1450,
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
     "date": "2026-08-10",
     "topic": "physical-ai",
-    "score": 579.7
+    "score": 580.1
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -721,13 +731,13 @@
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",
-    "stars": 3439,
+    "stars": 3440,
     "language": "Python",
     "description": "Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction.",
     "url": "https://github.com/huangjunsen0406/py-xiaozhi",
     "date": "2026-07-26",
     "topic": "embodied-ai",
-    "score": 1375.7
+    "score": 1376.1
   },
   {
     "repo": "manumerous/wb_humanoid_mpc",
@@ -848,15 +858,5 @@
     "date": "2026-07-15",
     "topic": "humanoid",
     "score": 292.9
-  },
-  {
-    "repo": "zchoi/Awesome-Embodied-Robotics-and-Agent",
-    "stars": 1849,
-    "language": "",
-    "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
-    "url": "https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent",
-    "date": "2026-07-14",
-    "topic": "embodied-ai",
-    "score": 739.7
   }
 ]
