@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-14 10:44 UTC
+Last Updated: 2026-08-14 11:33 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-14 | ShieldFont: Bludgeoning AI Scrapers that Disrespect Robots.txt | Hackaday | [link](https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/) |
 | 2026-08-14 | Mauchly and Eckert’s Other Computers | Hackaday | [link](https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/) |
 | 2026-08-14 | Rare IBM PC Brought Back To Life | Hackaday | [link](https://hackaday.com/2026/08/13/rare-ibm-pc-brought-back-to-life/) |
 | 2026-08-14 | Removing Microplastics from Soil with Tumbling Magnetic Flakes | Hackaday | [link](https://hackaday.com/2026/08/13/removing-microplastics-from-soil-with-tumbling-magnetic-flakes/) |
+| 2026-08-14 | EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition | CNX Software | [link](https://www.cnx-software.com/2026/08/14/eitwatch-open-source-esp32-s3-smartwatch-implements-planar-eit-hand-gesture-recognition/) |
 | 2026-08-14 | Giada DK320 digital signage player and Edge AI embedded PC supports up to the Intel Core 5 315 Wildcat Lake processor | CNX Software | [link](https://www.cnx-software.com/2026/08/14/giada-dk320-digital-signage-player-and-edge-ai-embedded-pc-supports-up-to-the-intel-core-5-315-wildcat-lake-processor/) |
 | 2026-08-14 | Gemma Translator multilingual interpreter runs locally on Raspberry Pi 5 with the LiteRT runtime | CNX Software | [link](https://www.cnx-software.com/2026/08/14/gemma-translator-multilingual-interpreter-runs-locally-on-raspberry-pi-5-with-the-litert-runtime/) |
 | 2026-08-14 | Raspberry Pi Pico Case with Sensor Cage – Snap-Fit + Wall Mount #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/13/raspberry-pi-pico-case-with-sensor-cage-snap-fit-wall-mount-3dthursday-3dprinting/) |
 | 2026-08-13 | Troubleshooting Video Delay On The Raspberry Pi | Hackaday | [link](https://hackaday.com/2026/08/13/troubleshooting-video-delay-on-the-raspberry-pi/) |
 | 2026-08-13 | Tearing Down A Cheap Digital Caliper | Hackaday | [link](https://hackaday.com/2026/08/13/tearing-down-a-cheap-digital-caliper/) |
-| 2026-08-13 | Bridging Older Tasmota Hardware Into Apple Home | Hackaday | [link](https://hackaday.com/2026/08/13/bridging-older-tasmota-hardware-into-apple-home/) |
-| 2026-08-13 | Supercon Ten Tickets on Sale Now | Hackaday | [link](https://hackaday.com/2026/08/13/supercon-ten-tickets-on-sale-now/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -114,7 +114,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzBWZTdYcGJBX2JBZ0hTaUpNc253STkzZDBISGYyeGRNTUhwaV95UUttenNuWlE0RGJaUFctMUZTYjluM1JuQ2Q3RGxzNXRSTFphcXRtV1dvVDQtSWFnOFZiUnZTaUwwMGktZjcwOXVLRzBVNG9fRjZiTXNVVXhRUW41OU8?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRzFpdHRwNlJtM1hDaDZlNXNuWW1iTmRCOUdGVUZKenFmSTh4Y2VZYU9xOW5mcHZ1Mjc5aDZMMU54YVN5TS1XcDdGYV9XZ1poaks0?oc=5) |
 | 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSFd0LTVPY3VyelFHbjNxek1ZdXpoY0JfZWdQWUkwODY5bFVrS3VCcE9ybnBjZGZVX0QzYnAwTkd0c0YtVTdoTlVyMGNRYUh2U3F5eWtDVjVibmFUVXk0Z0xoZDlSelVWOFd0YmFuaVYyZU5BZENHc1dwcDkyMldvcWJHSXF1ZUpzRVlRWEU1RmNBc1Rwdm11b09yZ3lXcU9kb0swUC1tXzBsaER0X0c5UFpna2d2dDdnSzBBNEdzOXdIbzAwTTN4WUlURUY?oc=5) |
-| 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxONEdLRklEMWlxUlUyeW96WW81VldYQW1JTlk2bHEweFpjYkdfcGVmOFRPcC03NnpnSmhib3NoekJrcWVwM2pkRWF0aHQ2TmxmNm5UVk5RY2lxSjFUeHRkQjJMbVUyWHNKQ3d5Unctd0pZSTNxeEdPVzVxTnVQejFjNTZkeTZ0WmZ5YXd0VDFCUVpFSkhWU3FCb3FVODFGR1VCMXppamtnbXVjX25GalNHMjBndnFLWTQxZjJwaWEtMGlIVW5CanZVcVh4RHoxT3AwQ0EwMTZfUnFpZE4zcUh5U3JPVUI2OVZ3TDZYYg?oc=5) |
+| 2026-08-09 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVlcxeVI1YnZoeC1BR19oUjdrMHRsRUltODhjYlZoSE03MnRHX0dGN0x0ZWFnek9QT3ZiZ0E1dHV1a05rd3NtWHVtNXBHWFBQNmxuaFhlajJDQQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
