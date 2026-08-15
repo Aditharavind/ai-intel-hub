@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-15 21:09 UTC
+Last Updated: 2026-08-15 22:05 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -82,9 +82,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-15 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-15 | Jiahao28/stage-transformer-robot-manipulation | 0 | 0 | [link](https://huggingface.co/Jiahao28/stage-transformer-robot-manipulation) |
 | 2026-08-15 | huggingaccounttest/ICRA2027_ROBOT_Spline_VLA | 0 | 0 | [link](https://huggingface.co/huggingaccounttest/ICRA2027_ROBOT_Spline_VLA) |
+| 2026-08-15 | sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-15 | geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step10000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step10000) |
 | 2026-08-15 | VLABench/pifast-pretrain-vlabench-primitive-aligned | 0 | 0 | [link](https://huggingface.co/VLABench/pifast-pretrain-vlabench-primitive-aligned) |
-| 2026-08-15 | sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-15 | VLABench/pi05-posttrain-vlabench-primitive-aligned | 0 | 0 | [link](https://huggingface.co/VLABench/pi05-posttrain-vlabench-primitive-aligned) |
 | 2026-08-15 | VLABench/pi0-pretrain-vlabench-primitive-aligned | 0 | 0 | [link](https://huggingface.co/VLABench/pi0-pretrain-vlabench-primitive-aligned) |
 
