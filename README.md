@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-15 10:09 UTC
+Last Updated: 2026-08-15 11:07 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-15 | ESP32 Music Sequencer is Clearly Nailing the Y2K Aesthetic | Hackaday | [link](https://hackaday.com/2026/08/15/esp32-music-sequencer-is-clearly-nailing-the-y2k-aesthetic/) |
 | 2026-08-15 | A Tape Deck Gets a Service | Hackaday | [link](https://hackaday.com/2026/08/15/a-tape-deck-gets-a-service/) |
 | 2026-08-15 | Twin Guitar-Playing Robots Will Work for Tab | Hackaday | [link](https://hackaday.com/2026/08/14/twin-guitar-playing-robots-will-work-for-tab/) |
 | 2026-08-15 | Large-Scale Pokémon Eviction Looms with Pokémon Bank Server Shutdown | Hackaday | [link](https://hackaday.com/2026/08/14/large-scale-pokemon-eviction-looms-with-pokemon-bank-server-shutdown/) |
@@ -56,7 +57,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-14 | Submersible drone analyzes ice | Hackaday | [link](https://hackaday.com/2026/08/14/submersible-drone-analyzes-ice/) |
 | 2026-08-14 | Automatic Naptime with BabyBjorn Bouncing Servo | Hackaday | [link](https://hackaday.com/2026/08/14/automatic-naptime-with-babybjorn-bouncing-servo/) |
 | 2026-08-14 | Uninvasive EEG Interface Could Be Used To Play Games | Hackaday | [link](https://hackaday.com/2026/08/14/uninvasive-eeg-interface-could-be-used-to-play-games/) |
-| 2026-08-14 | Hackaday Podcast Episode 382: Glueballs, Borg Cubes, and Supersonic Trebuchets | Hackaday | [link](https://hackaday.com/2026/08/14/hackaday-podcast-episode-382-glueballs-borg-cubes-and-supersonic-trebuchets/) |
 | 2026-08-14 | EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition | CNX Software | [link](https://www.cnx-software.com/2026/08/14/eitwatch-open-source-esp32-s3-smartwatch-implements-planar-eit-hand-gesture-recognition/) |
 | 2026-08-14 | Giada DK320 digital signage player and Edge AI embedded PC supports up to the Intel Core 5 315 Wildcat Lake processor | CNX Software | [link](https://www.cnx-software.com/2026/08/14/giada-dk320-digital-signage-player-and-edge-ai-embedded-pc-supports-up-to-the-intel-core-5-315-wildcat-lake-processor/) |
 
@@ -81,10 +81,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-15 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-15 | Jiahao28/stage-transformer-robot-manipulation | 0 | 0 | [link](https://huggingface.co/Jiahao28/stage-transformer-robot-manipulation) |
 | 2026-08-15 | huggingaccounttest/ICRA2027_ROBOT_Spline_VLA | 0 | 0 | [link](https://huggingface.co/huggingaccounttest/ICRA2027_ROBOT_Spline_VLA) |
+| 2026-08-15 | sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-15 | sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-15 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
 | 2026-08-15 | ISdept/wiltech-vla-9k | 0 | 0 | [link](https://huggingface.co/ISdept/wiltech-vla-9k) |
-| 2026-08-15 | sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
-| 2026-08-15 | sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-15 | sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0) |
 | 2026-08-15 | sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0) |
 
@@ -93,14 +93,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | commaai/openpilot | 63414 | Python | 25365.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15689 | C++ | 6275.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14553 | C++ | 5821.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13448 | Python | 5379.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14557 | C++ | 5822.9 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13450 | Python | 5380.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | isaac-sim/IsaacLab | 7903 | Python | 3161.3 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4544 | Python | 1817.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3873 | Rust | 1549.3 | [link](https://github.com/dora-rs/dora) |
 | ace-trump-tech/MindPaw | 2388 | C++ | 955.3 | [link](https://github.com/ace-trump-tech/MindPaw) |
 | sou350121/VLA-Handbook | 511 | HTML | 204.5 | [link](https://github.com/sou350121/VLA-Handbook) |
-| RealXiaoze/humanoid-motion-intelligence | 348 |  | 139.3 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
+| flashrt-project/FlashRT | 504 | C++ | 201.7 | [link](https://github.com/flashrt-project/FlashRT) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

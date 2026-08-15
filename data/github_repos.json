@@ -21,23 +21,23 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14553,
+    "stars": 14557,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-15",
     "topic": "robotics",
-    "score": 5821.3
+    "score": 5822.9
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13448,
+    "stars": 13450,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-15",
     "topic": "robotics",
-    "score": 5379.3
+    "score": 5380.1
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -88,6 +88,16 @@
     "date": "2026-08-15",
     "topic": "robot-learning",
     "score": 204.5
+  },
+  {
+    "repo": "flashrt-project/FlashRT",
+    "stars": 504,
+    "language": "C++",
+    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
+    "url": "https://github.com/flashrt-project/FlashRT",
+    "date": "2026-08-15",
+    "topic": "vla",
+    "score": 201.7
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
@@ -161,13 +171,13 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 2951,
+    "stars": 2953,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-14",
     "topic": "physical-ai",
-    "score": 1180.5
+    "score": 1181.3
   },
   {
     "repo": "copper-project/copper-rs",
@@ -268,16 +278,6 @@
     "date": "2026-08-14",
     "topic": "embodied-ai",
     "score": 740.1
-  },
-  {
-    "repo": "flashrt-project/FlashRT",
-    "stars": 504,
-    "language": "C++",
-    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
-    "url": "https://github.com/flashrt-project/FlashRT",
-    "date": "2026-08-14",
-    "topic": "vla",
-    "score": 201.7
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -521,13 +521,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3175,
+    "stars": 3176,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1270.1
+    "score": 1270.5
   },
   {
     "repo": "thanhndv212/figaroh-plus",
@@ -631,13 +631,13 @@
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
-    "stars": 1632,
+    "stars": 1633,
     "language": "",
     "description": "A curated list of awesome robot descriptions (URDF, MJCF)",
     "url": "https://github.com/robot-descriptions/awesome-robot-descriptions",
     "date": "2026-08-04",
     "topic": "humanoid",
-    "score": 652.9
+    "score": 653.3
   },
   {
     "repo": "OpenDriveLab/RoboNaldo",
