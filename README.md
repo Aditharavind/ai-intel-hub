@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-15 15:08 UTC
+Last Updated: 2026-08-15 16:08 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -81,26 +81,26 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-15 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-15 | Jiahao28/stage-transformer-robot-manipulation | 0 | 0 | [link](https://huggingface.co/Jiahao28/stage-transformer-robot-manipulation) |
 | 2026-08-15 | huggingaccounttest/ICRA2027_ROBOT_Spline_VLA | 0 | 0 | [link](https://huggingface.co/huggingaccounttest/ICRA2027_ROBOT_Spline_VLA) |
+| 2026-08-15 | VLABench/pi0-pretrain-vlabench-primitive-aligned | 0 | 0 | [link](https://huggingface.co/VLABench/pi0-pretrain-vlabench-primitive-aligned) |
+| 2026-08-15 | VLABench/pi05-posttrain-vlabench-primitive-aligned | 0 | 0 | [link](https://huggingface.co/VLABench/pi05-posttrain-vlabench-primitive-aligned) |
+| 2026-08-15 | VLABench/pifast-pretrain-vlabench-primitive-aligned | 0 | 0 | [link](https://huggingface.co/VLABench/pifast-pretrain-vlabench-primitive-aligned) |
 | 2026-08-15 | sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-15 | sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0) |
 | 2026-08-15 | geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step5000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step5000) |
-| 2026-08-15 | sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
-| 2026-08-15 | sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
-| 2026-08-15 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1451 | Rust | 580.5 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63420 | Python | 25368.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63421 | Python | 25368.5 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15691 | C++ | 6276.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14559 | C++ | 5823.7 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13454 | Python | 5381.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| isaac-sim/IsaacLab | 7904 | Python | 3161.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| google-deepmind/mujoco | 14560 | C++ | 5824.1 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13455 | Python | 5382.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| isaac-sim/IsaacLab | 7905 | Python | 3162.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4544 | Python | 1817.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3873 | Rust | 1549.3 | [link](https://github.com/dora-rs/dora) |
 | unrealcv/unrealcv | 2207 | C++ | 882.9 | [link](https://github.com/unrealcv/unrealcv) |
-| ace-trump-tech/MindPaw | 2388 | C++ | 955.3 | [link](https://github.com/ace-trump-tech/MindPaw) |
+| ace-trump-tech/MindPaw | 2389 | C++ | 955.7 | [link](https://github.com/ace-trump-tech/MindPaw) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -110,11 +110,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-13 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa2FzRWt4SFh2VEJXbE9LbGQzTk94TTNmdE8yc0VRUS1yRkVjT1BtdzZhSnowamVDVUpiTU9CVXBmQjZnUDJBYUFqcndSaXZ1NGpISFdBcDEwZEtFVDc1Q1J1eE1odE4tSVFTcnlyX2tUczlHd0Q5WFRwSFluZnZXVjBnS2poWlJRRUVoV29KenpYc0hid25zMzFEUkpPOHNNZndrZ3VvRkM0VGVybEViYjFXOHMwMGdGOVlqRjNnMVI0R2pKXzFQV1NkUEZSUWJvVk96d2l5cjVabHM?oc=5) |
 | 2026-08-13 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSzZDdzVaU1FyV284WnF3QUNEbS1QSTFPdGszdTdsa01zRHBzM1ZOUkRvZndRTXVWOTRXMFk3dlViTThpTmdLeDZYdnk3cDBETUk0X3hxdndWa2RPSFBIbXBsa0NzVTVMTkxRVFo4dnVsbnpBaXI1cy1sQ0F5VmNkZzd4VjVzZw?oc=5) |
 | 2026-08-12 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
-| 2026-08-11 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQXUxSURENi0xdzIzME54OW9lYk1Wc0h4dzFlLUdReUhWWnNEbzBjMm1nbkx5Z2s3RHd6LXVMTnJ3TXdMY0MxT1lnMGs0T1JMQ2RkNXdPdzZ5bmVHT3had05Ga1lnVU5FWmYzMkkwQzkxRnY5bmFnN08yR2NoeU9PM2V5TnBndGVKRUdRX3VjMHpIXzZwdG9SZDBMeHNmRUt5WWhBTWx4dDNRMDBkX1BKRE1LUQ?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcE5XeXdXbW9FbzVLanRUbjR1b25MTkpTYS1sWHdvWUZnQV8yLTUxeVUwTGJPcG5ZS2VkWmN2eHVsVzg0UUdtd1NBR0Iza0IySnlpWUdjMzUzX1R3Y1pTcEdfRkFEYmJZQXlFTk5TYXl5UFo1YkJ4RS1rSDFkUTVJckJZTEZVb09FN3pDN0hPTG1mc0F0aG4ySnNQS2kyamFiZjlNOFBZdjB2amYz?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzBWZTdYcGJBX2JBZ0hTaUpNc253STkzZDBISGYyeGRNTUhwaV95UUttenNuWlE0RGJaUFctMUZTYjluM1JuQ2Q3RGxzNXRSTFphcXRtV1dvVDQtSWFnOFZiUnZTaUwwMGktZjcwOXVLRzBVNG9fRjZiTXNVVXhRUW41OU8?oc=5) |
 | 2026-08-10 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxONEdLRklEMWlxUlUyeW96WW81VldYQW1JTlk2bHEweFpjYkdfcGVmOFRPcC03NnpnSmhib3NoekJrcWVwM2pkRWF0aHQ2TmxmNm5UVk5RY2lxSjFUeHRkQjJMbVUyWHNKQ3d5Unctd0pZSTNxeEdPVzVxTnVQejFjNTZkeTZ0WmZ5YXd0VDFCUVpFSkhWU3FCb3FVODFGR1VCMXppamtnbXVjX25GalNHMjBndnFLWTQxZjJwaWEtMGlIVW5CanZVcVh4RHoxT3AwQ0EwMTZfUnFpZE4zcUh5U3JPVUI2OVZ3TDZYYg?oc=5) |
+| 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzRRUmZZTTlqMHBVNk9ZYTRjUGM0X3N6Q2FhYXVaY1pKbDhwWTA5UjlwX0NicHVkRTJLRFlUUXNFalhwRFVMak1fTTNRUmhoVEF4YThKQUlBSnZsZ1ZwZmNKT3BkNXBrcUNRcXVMRkhBYVowWmFiY1BJNjRLOExaMG82Y2lfaFYxTlBkRzBBcHpQNm5POEUtcG9VVFBQdDRCTVp0ZHhUaW9RYWRPX0Y1OGJ3YzJ0a3lhdHR1TGRKcVVLRmhtTmw2dtIByAFBVV95cUxQOWRxV0dRV2NIWmxBLVFEOGN1el82TWYtcVhhSm5HY18yY0FyTkhkSWhtVGRvY0toN1RJd1ozSFFCdXRFX2VWNDluZWJCYmkwanhKNlhWSHYxRmFCZTJrQ2Ryc0RTWHFvT2Z5V2kzYlNlZzhNOGZBd044MlExMmduZ1Q3NDhDN0JwMXZJQ3AwV2FabDVTdFNRMTBXTS1kcEt4LUdzU1NpSU84eXdDdmR2dlcyeGw0NkUtdGxBb21LRUdDUktkU2UwRg?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
