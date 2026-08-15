@@ -14,16 +14,7 @@
     "likes": 0,
     "url": "https://huggingface.co/huggingaccounttest/ICRA2027_ROBOT_Spline_VLA",
     "date": "2026-08-15",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-15",
-    "keyword": "vla",
+    "keyword": "robot",
     "score": 0.1
   },
   {
@@ -40,6 +31,42 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "VLABench/pi05-posttrain-vlabench-primitive-aligned",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VLABench/pi05-posttrain-vlabench-primitive-aligned",
+    "date": "2026-08-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "VLABench/pifast-pretrain-vlabench-primitive-aligned",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VLABench/pifast-pretrain-vlabench-primitive-aligned",
+    "date": "2026-08-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "VLABench/pi0-pretrain-vlabench-primitive-aligned",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VLABench/pi0-pretrain-vlabench-primitive-aligned",
+    "date": "2026-08-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-15",
     "keyword": "vla",
     "score": 0.1
@@ -99,12 +126,21 @@
     "score": 0.1
   },
   {
-    "model": "3CTeam/action-evidence-vla-2p2b-libero-long-chunk10-nobudget-frozen-15k",
+    "model": "novastar111/sokoban_easy_cot_chunk_k10_world_model",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/3CTeam/action-evidence-vla-2p2b-libero-long-chunk10-nobudget-frozen-15k",
+    "url": "https://huggingface.co/novastar111/sokoban_easy_cot_chunk_k10_world_model",
     "date": "2026-08-15",
-    "keyword": "vla",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "novastar111/sokoban_easy_cot_chunk_k5_world_model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/novastar111/sokoban_easy_cot_chunk_k5_world_model",
+    "date": "2026-08-15",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -222,15 +258,6 @@
     "url": "https://huggingface.co/RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora",
     "date": "2026-08-14",
     "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "alexppppp/vla_jepa_lerobot-so100-new-gripper-multitask1ext3-top-wrist-20ksteps",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/alexppppp/vla_jepa_lerobot-so100-new-gripper-multitask1ext3-top-wrist-20ksteps",
-    "date": "2026-08-14",
-    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -486,24 +513,6 @@
     "score": 0.1
   },
   {
-    "model": "NU-World-Model-Embodied-AI/phyjudge-9B",
-    "downloads": 20,
-    "likes": 0,
-    "url": "https://huggingface.co/NU-World-Model-Embodied-AI/phyjudge-9B",
-    "date": "2026-08-07",
-    "keyword": "embodied",
-    "score": 6.1
-  },
-  {
-    "model": "NU-World-Model-Embodied-AI/phyworld",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/NU-World-Model-Embodied-AI/phyworld",
-    "date": "2026-08-07",
-    "keyword": "embodied",
-    "score": 0.3
-  },
-  {
     "model": "EmbodiedCity/Embodied-R",
     "downloads": 0,
     "likes": 2,
@@ -517,6 +526,24 @@
     "downloads": 0,
     "likes": 1,
     "url": "https://huggingface.co/EmbodiedCity/Airscape",
+    "date": "2026-08-07",
+    "keyword": "embodied",
+    "score": 0.3
+  },
+  {
+    "model": "NU-World-Model-Embodied-AI/phyjudge-9B",
+    "downloads": 20,
+    "likes": 0,
+    "url": "https://huggingface.co/NU-World-Model-Embodied-AI/phyjudge-9B",
+    "date": "2026-08-07",
+    "keyword": "embodied",
+    "score": 6.1
+  },
+  {
+    "model": "NU-World-Model-Embodied-AI/phyworld",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/NU-World-Model-Embodied-AI/phyworld",
     "date": "2026-08-07",
     "keyword": "embodied",
     "score": 0.3
