@@ -1,5 +1,25 @@
 [
   {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15688,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-08-15",
+    "topic": "robotics",
+    "score": 6275.3
+  },
+  {
+    "repo": "sou350121/VLA-Handbook",
+    "stars": 509,
+    "language": "HTML",
+    "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
+    "url": "https://github.com/sou350121/VLA-Handbook",
+    "date": "2026-08-15",
+    "topic": "robot-learning",
+    "score": 203.7
+  },
+  {
     "repo": "NVIDIA/skills",
     "stars": 2946,
     "language": "Python",
@@ -71,43 +91,33 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63410,
+    "stars": 63411,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-14",
     "topic": "robotics",
-    "score": 25364.1
-  },
-  {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15688,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-08-14",
-    "topic": "robotics",
-    "score": 6275.3
+    "score": 25364.5
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14550,
+    "stars": 14551,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-14",
     "topic": "robotics",
-    "score": 5820.1
+    "score": 5820.5
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13430,
+    "stars": 13432,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-14",
     "topic": "robotics",
-    "score": 5372.1
+    "score": 5372.9
   },
   {
     "repo": "kornia/kornia",
@@ -168,16 +178,6 @@
     "date": "2026-08-14",
     "topic": "embodied-ai",
     "score": 739.7
-  },
-  {
-    "repo": "sou350121/VLA-Handbook",
-    "stars": 508,
-    "language": "HTML",
-    "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
-    "url": "https://github.com/sou350121/VLA-Handbook",
-    "date": "2026-08-14",
-    "topic": "robot-learning",
-    "score": 203.3
   },
   {
     "repo": "flashrt-project/FlashRT",
@@ -241,13 +241,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6115,
+    "stars": 6117,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-14",
     "topic": "world-model",
-    "score": 2446.1
+    "score": 2446.9
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -321,13 +321,13 @@
   },
   {
     "repo": "nasa-jpl/open-source-rover",
-    "stars": 9577,
+    "stars": 9578,
     "language": "Prolog",
     "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
     "url": "https://github.com/nasa-jpl/open-source-rover",
     "date": "2026-08-13",
     "topic": "robotics",
-    "score": 3830.9
+    "score": 3831.3
   },
   {
     "repo": "RLinf/RLinf",
@@ -511,13 +511,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3171,
+    "stars": 3172,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1268.5
+    "score": 1268.9
   },
   {
     "repo": "thanhndv212/figaroh-plus",
@@ -551,13 +551,13 @@
   },
   {
     "repo": "dexmal/dexbotic",
-    "stars": 1343,
+    "stars": 1345,
     "language": "Python",
     "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
     "url": "https://github.com/dexmal/dexbotic",
     "date": "2026-08-06",
     "topic": "vla",
-    "score": 537.3
+    "score": 538.1
   },
   {
     "repo": "RayYoh/Awesome-Robot-Learning",
