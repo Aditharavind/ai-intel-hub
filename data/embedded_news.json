@@ -1,5 +1,12 @@
 [
   {
+    "title": "Scanning for Lifesigns with ESP32 and Raspberry Pi",
+    "source": "Hackaday",
+    "date": "2026-08-15",
+    "url": "https://hackaday.com/2026/08/15/scanning-for-lifesigns-with-esp32-and-raspberry-pi-now-open-source/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"362\" src=\"https://hackaday.com/wp-content/uploads/2026/08/WifiSense-Pi-dashboard-feat.webp?w=644\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"644\" /></div>It&#8217;s a sci-fi trope that you can &#8216;scan for life signs&#8217; and detect if there are humans &#8212; or suspiciously human-shaped aliens &#8212; present, but in real life it&#8217;s harder <a class=\"read-more\" href=\"https://hackaday.com/2026/08/15/scanning-for-lifesigns-with-esp32-and-raspberry-pi-now-open-source/\">&#8230;read more</a>"
+  },
+  {
     "title": "Radio Shack Toy Returns to Life",
     "source": "Hackaday",
     "date": "2026-08-15",
@@ -49,13 +56,6 @@
     "summary": "<div><img alt=\"GEEKOM IT13 Max Mini PC review Ubuntu 26.04 Linux\" class=\"attachment-medium size-medium wp-post-image\" height=\"483\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/GEEKOM-IT13-Max-Mini-PC-review-Ubuntu-26.04-Linux-720x483.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We&#8217;ve already checked out the hardware with an unboxing and a teardown of the GEEKOM IT13 Max in the first part of the review, before testing the Intel Core Ultra 9 185H mini PC with Windows 11, so it&#8217;s now time to test Linux on the mini computer using Ubuntu 26.04. In this review, we will report our experience running Ubuntu 26.04 on the GEEKOM IT13 Max, after going through feature testing, running system benchmarks and AI benchmarks on the CPU, GPU, and NPU, checking out storage and USB performance, testing 2.5GbE and WiFi 6/7, stress testing the mini PC, and measuring the Meteor Lake mini PC&#8217;s fan noise and power consumption. Installing Ubuntu 26.04 We installed Ubuntu 26.04 alongside Windows 11 in dual boot configuration. We first shrank the Windows partition (C:) size by approximately half, before inserting a USB flash drive with Ubuntu 26.04 to start the installation [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/15/geekom-it13-max-review-part-3-ubuntu-26-04-on-an-intel-core-ultra-9-185h-mini-computer/\">GEEKOM IT13 Max Review &#8211; Part 3: Ubuntu 26.04 on an Intel Core Ultra 9 185H mini computer</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Submersible drone analyzes ice",
-    "source": "Hackaday",
-    "date": "2026-08-14",
-    "url": "https://hackaday.com/2026/08/14/submersible-drone-analyzes-ice/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/submarineFeatured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Doing anything on a frozen lake can carries some amount of risk. Nevertheless, every year events ranging from car racing to ice skating are held on them. As such, proper <a class=\"read-more\" href=\"https://hackaday.com/2026/08/14/submersible-drone-analyzes-ice/\">&#8230;read more</a>"
-  },
-  {
     "title": "EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition",
     "source": "CNX Software",
     "date": "2026-08-14",
@@ -89,76 +89,6 @@
     "date": "2026-08-14",
     "url": "https://www.embedded.com/altera-expands-ddr5-and-lpddr5-support-across-agilex-fpgas/",
     "summary": "<p>Altera Corp. has expanded memory support across its Agilex FPGA portfolio with Quartus Prime Pro Edition Software version 26.1.1. The release adds DDR5, LPDDR5, and LPDDR5X-compatible memory capabilities to additional Agilex devices, giving developers greater flexibility when optimizing system bandwidth, power consumption, PCB space, and component availability. For Agilex 7 M-Series devices, the latest software [...]</p>\n<p>The post <a href=\"https://www.embedded.com/altera-expands-ddr5-and-lpddr5-support-across-agilex-fpgas/\">Altera Expands DDR5 and LPDDR5 Support Across Agilex FPGAs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "How To: Develop Edge AI on a Raspberry Pi with LiteRT and Gemma",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/how-to-develop-edge-ai-on-a-raspberry-pi-with-litert-and-gemma-2026-08/",
-    "summary": "<p>This is an interesting one from Google's Developer blog: an example project on Edge AI using a Raspberry Pi along with LiteRT and Gemma.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/how-to-develop-edge-ai-on-a-raspberry-pi-with-litert-and-gemma-2026-08/\">How To: Develop Edge AI on a Raspberry Pi with LiteRT and Gemma</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Standards and AI will shape-shift EDA",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/news/design/eda-and-ip/standards-and-ai-will-shape-shift-eda-2026-08/",
-    "summary": "<p>As AI and machine learning are getting more and more integrated into the EDA workflows, there are new challenges emerging around areas such as interoperability, data exchange, trust, and reproducibility. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/design/eda-and-ip/standards-and-ai-will-shape-shift-eda-2026-08/\">Standards and AI will shape-shift EDA</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Google joins OpenROAD EDA initiative",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/news/design/eda-and-ip/google-joins-openroad-eda-initiative-2026-08/",
-    "summary": "<p>Google is joining the OpenROAD Initiative (ORI) as a principal member, for its open source electronic design automation (EDA). As is customary, Google&#8217;s Technical Program Manager, Aaron Cunningham, is joining [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/design/eda-and-ip/google-joins-openroad-eda-initiative-2026-08/\">Google joins OpenROAD EDA initiative</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "CHIIPS #37 – CHIIPs with DVCon’s Mark Burton",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-37-chiips-with-dvcons-mark-burton-2026-08/",
-    "summary": "<p>Don't miss the latest episode of our Electronics Weekly podcast, CHIIPS. It features Mark Burton - DVCon's technical programme chair.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-37-chiips-with-dvcons-mark-burton-2026-08/\">CHIIPS #37 &#8211; CHIIPs with DVCon&#8217;s Mark Burton</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "President Bush, Qualcomm, the CTIA, Broadcom and the ITC square up",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/president-bush-qualcomm-the-ctia-broadcom-and-the-itc-square-up-2026-08/",
-    "summary": "<p>19 years ago the tech industry was up to its old trick of roping in the government to fight its battles. ‘The CTIA Wireless Association in the US has backed [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/president-bush-qualcomm-the-ctia-broadcom-and-the-itc-square-up-2026-08/\">President Bush, Qualcomm, the CTIA, Broadcom and the ITC square up</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "In-orbit services to generate $3 billion within a decade",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/news/business/in-orbit-services-to-generate-3-billion-within-a-decade-2026-08/",
-    "summary": "<p>Novaspace, the space consulting and market intelligence firm, has released the latest version of its In-Orbit Services Markets report. The Paris-based analysts calculate that the space sector will generate $3 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/in-orbit-services-to-generate-3-billion-within-a-decade-2026-08/\">In-orbit services to generate $3 billion within a decade</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "ISS National Laboratory selects startups for Orbital Edge Accelerator",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/news/business/iss-national-laboratory-selects-startups-for-orbital-edge-accelerator-2026-08/",
-    "summary": "<p>The International Space Station (ISS) National Laboratory has announced eight early-stage startups selected for the 2026 Orbital Edge Accelerator programme. The accelerator provides the selected startups with access to low [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/iss-national-laboratory-selects-startups-for-orbital-edge-accelerator-2026-08/\">ISS National Laboratory selects startups for Orbital Edge Accelerator</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Most Read – PCB shortage, Elon’s Cash Cow, Driverless cars",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-pcb-shortage-elons-cash-cow-driverless-cars-2026-08/",
-    "summary": "<p>The most popular stories on the site cover the Israeli deep-tech EDA company Hiveware, the value of the Starlink satellite internet service, and Waymo, the Alphabet driverless car unit.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-pcb-shortage-elons-cash-cow-driverless-cars-2026-08/\">Most Read &#8211; PCB shortage, Elon’s Cash Cow, Driverless cars</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "YMTC in Big 3 for NAND units",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/news/business/ymtc-in-big-3-for-nand-units-2026-08/",
-    "summary": "<p>YMTC overtook Micron and Kioxia in Q2 to gain 14% NAND market share based on units and third place in the market behind Samsung and Hynix, reports Counterpoint Research. Samsung [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ymtc-in-big-3-for-nand-units-2026-08/\">YMTC in Big 3 for NAND units</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "xEV PMIC market to double to $14.5bn by 2031",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/news/business/xev-pmic-market-to-double-to-14-5bn-by-2031-2026-08/",
-    "summary": "<p>Following a “reality check” in 2024-2025, when hybrid vehicles gained ground and battery-electric growth slowed temporarily, the xEV industry is regaining momentum, says Yole. Yole forecasts xEV production to grow [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/xev-pmic-market-to-double-to-14-5bn-by-2031-2026-08/\">xEV PMIC market to double to $14.5bn by 2031</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Gemma Translator – Live Translating Offline on a Raspberry Pi 5   #piday #raspberrypi",

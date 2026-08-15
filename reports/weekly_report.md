@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-15 19:14 UTC
+Generated: 2026-08-15 20:07 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -30,7 +30,19 @@ Generated: 2026-08-15 19:14 UTC
 | sasa2000/Hy-Embodied-VLM-1.0-Text-Only | 107 | 32.2 | [link](https://huggingface.co/sasa2000/Hy-Embodied-VLM-1.0-Text-Only) |
 
 ## Top Funding Rounds
-_No items collected yet._
+| Date | Company | Amount | Source |
+| --- | --- | --- | --- |
+| 2026-08-15 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2VqMU1BYUxxMTNiMkRfN0N4WUhPZUVMS0lsRUZFZTBwTUVhNWFnTkcxVGlsUDM0VkRXTUI5WGg1UjN2RFZUZmlxeFhFMWtYOFZ3MWF1V1VNX0JlQUFhSFdnaEdBMmFWaG5RTl9MZ0ZyNldjSHMyRXNnaWpIemg5TkpxNkQ4NEtsTG8wTE9iYks2dVc5M3NiN0VIVXRfYXJpbUE?oc=5) |
+| 2026-08-14 | Unitree |  | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEtYWmtXLU5Ka0MyTERicFprdjVwYlVvRDhveEdMaXpYVFY5c0Z0aWdnWkhlYVVKYlVLLUd5XzdjTDdaRm9XaFJuWHFxRU1aOGplX3d2QTVIRVNQNlh0b2Z1bVhDbkhUdXY3WmxEVFZDTkhwZ2tla0ZuTmpkZkdGSnYxSk1OUEpINFZHRG9kNA?oc=5) |
+| 2026-08-14 | Unitree |  | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxOeHpzTnhKaUluMndseWpwb3dnaVp2OUxTMEpRcUZid0Z1WHoxMlNqQXh5aXJsNUMzbmpyaXNnZ0dLbjA5dXRpUVhraDJTZlhmanVpT3VhWmFUZDlWTEM2bjYxMEFzNG4yemNBWmlKdFg0cHRrNW9ObGpEd3NlLXUtYlh1Y21IYm9nenFEelk2a2hXZFhYUHp3V25aT3hOTG55d3pDWThRZDMydUhlMkFpRTN3?oc=5) |
+| 2026-08-13 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa2FzRWt4SFh2VEJXbE9LbGQzTk94TTNmdE8yc0VRUS1yRkVjT1BtdzZhSnowamVDVUpiTU9CVXBmQjZnUDJBYUFqcndSaXZ1NGpISFdBcDEwZEtFVDc1Q1J1eE1odE4tSVFTcnlyX2tUczlHd0Q5WFRwSFluZnZXVjBnS2poWlJRRUVoV29KenpYc0hid25zMzFEUkpPOHNNZndrZ3VvRkM0VGVybEViYjFXOHMwMGdGOVlqRjNnMVI0R2pKXzFQV1NkUEZSUWJvVk96d2l5cjVabHM?oc=5) |
+| 2026-08-13 | Unitree |  | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSzZDdzVaU1FyV284WnF3QUNEbS1QSTFPdGszdTdsa01zRHBzM1ZOUkRvZndRTXVWOTRXMFk3dlViTThpTmdLeDZYdnk3cDBETUk0X3hxdndWa2RPSFBIbXBsa0NzVTVMTkxRVFo4dnVsbnpBaXI1cy1sQ0F5VmNkZzd4VjVzZw?oc=5) |
 
 ## Most Active Companies
-_No items collected yet._
+| Date | Signal | Category | Source |
+| --- | --- | --- | --- |
+| 2026-08-12 | Employment immunity: the quiet revolution of robotics and physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lcURSMEFORUVpUHBsejVWMVhTYnZMbDJ6aUVVeVRNRDg5Tm12NDE3SnBDeGNhYmVCNC14TFFPVTJZcldIbUZwNzdNWXpBVllRTXhlRC1EV3hmQ0NNbnUyTnlOQ2hLR1pI?oc=5) |
+| 2026-08-12 | Former Alibaba Researcher Announces New Startup on Digital and Physical AI Agents - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS0yNmtES1hJM2JVdlhsN3ozemF5bnpqbjM3YUE2TXFmM1JuY2FtVEZ6NHl1MmpWclg5aV96LURKTER3bElQQTAxNE9CdDBva1Q3OE1yTFNfeV9lRHRPZTFHNFQtQWxXNnRiXzFUZzhIcTNuV3RWSXZkUWF4S0J5YjZZNHJqZUl5UjJVUHAyS3lhbU1pdTUycjRwcUpoM2J5b2VvRFR4dEowZG9oZVd0bzhETkNkUQ?oc=5) |
+| 2026-08-12 | Six Months, $74.1 Million: Westlake University Professor's Embodied AI Startup Secures Four Funding Rounds - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSm5lLTczQTE2eDNNdWZpQmppanBMYUNJSVlPOTlRUW1lbHNjSjh1UzI3UnBsQldXQnRhYS05YnVZbWZXbkF2MXNzMmZubW0wVDJwS19kYXA2SDdWTjZrR1ByZVpUN3NjMjlBZ1FGWFMwQ0J6dmc?oc=5) |
+| 2026-08-12 | BYD Unveils Its Xiao Di Humanoid Robot Days After US Bans Chinese Robots - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDNYVVkyeU5iLWt2R3RVbnRqN2Qya1NIRkZKemhyMlhJbDFWRl9EanlyTjY1QWVTZERqcU1WODBpR016c1l6djN3NVBJOVZyV0trLTFwckE2M3o0aTZwSHdDSEFOdEFLaWl0SXdJRXdvTWtyRjhKRlZVMEgtZWtlY1Z6WEpudjQzdk5HRzgyTTdwOVNPUTJ5T3dLYnJuTDk3WGc?oc=5) |
+| 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
