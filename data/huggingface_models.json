@@ -18,6 +18,42 @@
     "score": 0.1
   },
   {
+    "model": "siyuhsu/vla_arena_robustness_50k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/siyuhsu/vla_arena_robustness_50k",
+    "date": "2026-08-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
+    "date": "2026-08-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "B111ue/fcl-vla-baseline-recovery",
     "downloads": 0,
     "likes": 0,
@@ -60,6 +96,33 @@
     "url": "https://huggingface.co/3CTeam/action-evidence-vla-2p2b-libero-long-chunk10-nobudget-frozen-15k",
     "date": "2026-08-15",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "novastar111/sokoban_easy_cot_chunk_k3_world_model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/novastar111/sokoban_easy_cot_chunk_k3_world_model",
+    "date": "2026-08-15",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "stevenqian/red_block_smolvla_armcam_policy0",
+    "downloads": 62,
+    "likes": 0,
+    "url": "https://huggingface.co/stevenqian/red_block_smolvla_armcam_policy0",
+    "date": "2026-08-15",
+    "keyword": "policy",
+    "score": 18.7
+  },
+  {
+    "model": "tannerfrancis11/record-test_20260814_062718_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tannerfrancis11/record-test_20260814_062718_policy",
+    "date": "2026-08-15",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -153,15 +216,6 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
-    "date": "2026-08-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "alexppppp/vla_jepa_lerobot-so100-new-gripper-multitask1ext3-top-wrist-20ksteps",
     "downloads": 0,
     "likes": 0,
@@ -178,33 +232,6 @@
     "date": "2026-08-14",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "vlabki/rr-tw3-bc-ppo-separated-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vlabki/rr-tw3-bc-ppo-separated-v2",
-    "date": "2026-08-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "siyuhsu/vla_arena_robustness_50k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/siyuhsu/vla_arena_robustness_50k",
-    "date": "2026-08-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vlalabszoe/image",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/vlalabszoe/image",
-    "date": "2026-08-14",
-    "keyword": "vla",
-    "score": 0.3
   },
   {
     "model": "Chaenn/act_policy_so101_cube_multitask_hil_0814",
@@ -232,24 +259,6 @@
     "date": "2026-08-14",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "tannerfrancis11/record-test_20260814_062718_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tannerfrancis11/record-test_20260814_062718_policy",
-    "date": "2026-08-14",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "stevenqian/red_block_smolvla_armcam_policy0",
-    "downloads": 62,
-    "likes": 0,
-    "url": "https://huggingface.co/stevenqian/red_block_smolvla_armcam_policy0",
-    "date": "2026-08-14",
-    "keyword": "policy",
-    "score": 18.7
   },
   {
     "model": "tannerfrancis11/record-test_20260813_223817_policy",
@@ -495,15 +504,6 @@
     "score": 0.3
   },
   {
-    "model": "NU-World-Model-Embodied-AI/FlashWAM-RoboTwin",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/NU-World-Model-Embodied-AI/FlashWAM-RoboTwin",
-    "date": "2026-08-07",
-    "keyword": "embodied",
-    "score": 0.1
-  },
-  {
     "model": "EmbodiedCity/Embodied-R",
     "downloads": 0,
     "likes": 2,
@@ -520,6 +520,15 @@
     "date": "2026-08-07",
     "keyword": "embodied",
     "score": 0.3
+  },
+  {
+    "model": "NU-World-Model-Embodied-AI/FlashWAM-RoboTwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/NU-World-Model-Embodied-AI/FlashWAM-RoboTwin",
+    "date": "2026-08-07",
+    "keyword": "embodied",
+    "score": 0.1
   },
   {
     "model": "physicalairi/so101_1200ep_smolvla",

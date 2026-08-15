@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-15 02:05 UTC
+Last Updated: 2026-08-15 03:27 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -61,35 +61,46 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-14 | Gemma Translator multilingual interpreter runs locally on Raspberry Pi 5 with the LiteRT runtime | CNX Software | [link](https://www.cnx-software.com/2026/08/14/gemma-translator-multilingual-interpreter-runs-locally-on-raspberry-pi-5-with-the-litert-runtime/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-08-13 | OmniScientist: An Omni-Modal Omni-Discipline AI Scientist | [link](https://arxiv.org/pdf/2608.13558v1) |
+| 2026-08-13 | V-RAE: Rethinking Video Latent Spaces for Generation | [link](https://arxiv.org/pdf/2608.13556v1) |
+| 2026-08-13 | HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark | [link](https://arxiv.org/pdf/2608.13555v1) |
+| 2026-08-13 | PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives | [link](https://arxiv.org/pdf/2608.13552v1) |
+| 2026-08-13 | Alaya-EVOKE: From Linear-Scaling Supervision to Endless World | [link](https://arxiv.org/pdf/2608.13546v1) |
+| 2026-08-13 | Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology | [link](https://arxiv.org/pdf/2608.13518v1) |
+| 2026-08-13 | DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data | [link](https://arxiv.org/pdf/2608.13517v1) |
+| 2026-08-13 | A Browser-Native Digital Test Range for Benchmarking 4D Ocean-Glider Planning Algorithms | [link](https://arxiv.org/pdf/2608.13511v1) |
+| 2026-08-13 | Intern-S2-Preview: Scientific Agentic Foundation Model | [link](https://arxiv.org/pdf/2608.13505v1) |
+| 2026-08-13 | GS$^{2}$CI: Robust Gaussian Splatting For Snapshot Compressive Imaging via Large Vision Model Priors | [link](https://arxiv.org/pdf/2608.13502v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-15 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-15 | huggingaccounttest/ICRA2027_ROBOT_Spline_VLA | 0 | 0 | [link](https://huggingface.co/huggingaccounttest/ICRA2027_ROBOT_Spline_VLA) |
+| 2026-08-15 | siyuhsu/vla_arena_robustness_50k | 0 | 0 | [link](https://huggingface.co/siyuhsu/vla_arena_robustness_50k) |
+| 2026-08-15 | sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-15 | sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-15 | sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0) |
 | 2026-08-15 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
 | 2026-08-15 | sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-15 | sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-15 | sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0) |
-| 2026-08-15 | 3CTeam/action-evidence-vla-2p2b-libero-long-chunk10-nobudget-frozen-15k | 0 | 0 | [link](https://huggingface.co/3CTeam/action-evidence-vla-2p2b-libero-long-chunk10-nobudget-frozen-15k) |
-| 2026-08-14 | OpenWAM/New_Pretrained_RoboTwin_Full_SFT | 0 | 0 | [link](https://huggingface.co/OpenWAM/New_Pretrained_RoboTwin_Full_SFT) |
-| 2026-08-14 | OpenWAM/New_Pretrained_RoboTwin_Clean_SFT_20000 | 0 | 0 | [link](https://huggingface.co/OpenWAM/New_Pretrained_RoboTwin_Clean_SFT_20000) |
-| 2026-08-14 | snu-aidas/Dynin-Robotics | 0 | 0 | [link](https://huggingface.co/snu-aidas/Dynin-Robotics) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| commaai/openpilot | 63412 | Python | 25364.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15688 | C++ | 6275.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| isaac-sim/IsaacLab | 7899 | Python | 3159.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 | sou350121/VLA-Handbook | 509 | HTML | 203.7 | [link](https://github.com/sou350121/VLA-Handbook) |
+| softmata/horus | 412 | Rust | 164.9 | [link](https://github.com/softmata/horus) |
 | NVIDIA/skills | 2946 | Python | 1178.5 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1451 | Rust | 580.5 | [link](https://github.com/copper-project/copper-rs) |
 | Edgenesis/shifu | 1431 | Go | 572.5 | [link](https://github.com/Edgenesis/shifu) |
 | mosaico-labs/mosaico | 919 | Python | 367.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 469 | Shell | 187.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| alireza787b/mavsdk_drone_show | 311 | Python | 124.5 | [link](https://github.com/alireza787b/mavsdk_drone_show) |
-| NVIDIA-Omniverse/ovrtx | 207 | Python | 82.9 | [link](https://github.com/NVIDIA-Omniverse/ovrtx) |
-| commaai/openpilot | 63411 | Python | 25364.5 | [link](https://github.com/commaai/openpilot) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -112,10 +123,10 @@ _No items collected yet._
 | 2026-08-12 | Former Alibaba Researcher Announces New Startup on Digital and Physical AI Agents - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS0yNmtES1hJM2JVdlhsN3ozemF5bnpqbjM3YUE2TXFmM1JuY2FtVEZ6NHl1MmpWclg5aV96LURKTER3bElQQTAxNE9CdDBva1Q3OE1yTFNfeV9lRHRPZTFHNFQtQWxXNnRiXzFUZzhIcTNuV3RWSXZkUWF4S0J5YjZZNHJqZUl5UjJVUHAyS3lhbU1pdTUycjRwcUpoM2J5b2VvRFR4dEowZG9oZVd0bzhETkNkUQ?oc=5) |
 | 2026-08-12 | Chelsea Finn: The State of Physical Intelligence in Robotics - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVdVWVZtVElfYVFmUGYxMkptaENSMzFHTkJrcFJRakNfdGI1eTVfX3Yyc2pIeEEzSEpnQXl2N3BqdDczMnlKNERDcjVYeDBnMjVvVDFxS3B4ZWxSazJyZU4ya01xeEhDMUxqQV95c3hZbl9Da0EyTXZFajdlcjlwNF9XNXFCczBZUnl0R252QUJrUGczWkVrMncyVW5ubTNlSldRX1lxbUNfVlU?oc=5) |
 | 2026-08-12 | Six Months, $74.1 Million: Westlake University Professor's Embodied AI Startup Secures Four Funding Rounds - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSm5lLTczQTE2eDNNdWZpQmppanBMYUNJSVlPOTlRUW1lbHNjSjh1UzI3UnBsQldXQnRhYS05YnVZbWZXbkF2MXNzMmZubW0wVDJwS19kYXA2SDdWTjZrR1ByZVpUN3NjMjlBZ1FGWFMwQ0J6dmc?oc=5) |
-| 2026-08-12 | BYD Unveils Its Xiao Di Humanoid Robot Days After US Bans Chinese Robots - startupfortune.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDNYVVkyeU5iLWt2R3RVbnRqN2Qya1NIRkZKemhyMlhJbDFWRl9EanlyTjY1QWVTZERqcU1WODBpR016c1l6djN3NVBJOVZyV0trLTFwckE2M3o0aTZwSHdDSEFOdEFLaWl0SXdJRXdvTWtyRjhKRlZVMEgtZWtlY1Z6WEpudjQzdk5HRzgyTTdwOVNPUTJ5T3dLYnJuTDk3WGc?oc=5) |
-| 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
+| 2026-08-12 | BYD Unveils Its Xiao Di Humanoid Robot Days After US Bans Chinese Robots - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDNYVVkyeU5iLWt2R3RVbnRqN2Qya1NIRkZKemhyMlhJbDFWRl9EanlyTjY1QWVTZERqcU1WODBpR016c1l6djN3NVBJOVZyV0trLTFwckE2M3o0aTZwSHdDSEFOdEFLaWl0SXdJRXdvTWtyRjhKRlZVMEgtZWtlY1Z6WEpudjQzdk5HRzgyTTdwOVNPUTJ5T3dLYnJuTDk3WGc?oc=5) |
+| 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - geekwire.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
 | 2026-08-11 | NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlUtQnQyZ1F3eXZqd1ZVMlNSN0M2U21FZlhmMHp3YnowOUVlbWI2ZnVRdUhrWVJGNVlwOFdKMV9XRHktUXRmd2hMQlNsLVU0eHlwYm9CUmY2eU85U19WTlIyajFJWlF0SV9FTHNSelRLRkpsb3ZEMUxrVVBzLTZmUzJFU1VLSEtsMmpfc0REcHA3eGJ3QTI1Xy1ielNNTENLLTNKRXhiN1h6WWlES2QwREgyV2dKQmxQaDBWU0xjYjE1TWRzQXQyWDdzZ1ZVZw?oc=5) |
-| 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - bizjournals.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
+| 2026-08-10 | Project Prometheus, Jeff Bezos' stealth AI startup, finds a home in the East Bay - The Business Journals | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVBhNUNuWEQtSXBaN2JIVHVsb2Q5OW5rV0ZvVzNZZmppQVVSTWxNekx6NXFCeEg0QXRUZHZTdVI0cE5nNTNoam85T0lfdGVwSG1sdjc1LUdEeDJ0SnJwSS1vYjM1dThwQTVvdHQ2cm8xUFE3dTIzbmhRc1ZVTWZydWFBSklpejNXa3VkamZEN3ZHQVdZZVNrQWYtdlp6MUl5aUxHWkl2dWRFZWVlTG1aWA?oc=5) |
 | 2026-08-10 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
 | 2026-08-10 | Explainer-What is Unitree and why are China’s humanoid robot makers racing to list? - WTVB | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG03UFlKLTk1TEVuYWRZMEVsY01YY3I4MExPQWN0WGtMRjYwNlZpTHFJTEZuU00tOVRGa0VWbUhmSnhLR25qQW5RZF9BUHl1bUdrYXNvMzJKNFliM1piOXRwal9TcjNDeWpQdzVqYktpcUJqM1pQZ3lZLTZISVpxZVNzRmZYbjc0TTNsSGt2ajZMUmpKU2psOFR0UFhpajVnZzNOV3FMa09uUVVrNzQ1TGFB?oc=5) |
 
