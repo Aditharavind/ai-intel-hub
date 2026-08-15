@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-15 09:13 UTC
+Last Updated: 2026-08-15 10:09 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -52,13 +52,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-15 | A Tape Deck Gets a Service | Hackaday | [link](https://hackaday.com/2026/08/15/a-tape-deck-gets-a-service/) |
 | 2026-08-15 | Twin Guitar-Playing Robots Will Work for Tab | Hackaday | [link](https://hackaday.com/2026/08/14/twin-guitar-playing-robots-will-work-for-tab/) |
 | 2026-08-15 | Large-Scale Pokémon Eviction Looms with Pokémon Bank Server Shutdown | Hackaday | [link](https://hackaday.com/2026/08/14/large-scale-pokemon-eviction-looms-with-pokemon-bank-server-shutdown/) |
+| 2026-08-15 | GEEKOM IT13 Max Review – Part 3: Ubuntu 26.04 on an Intel Core Ultra 9 185H mini computer | CNX Software | [link](https://www.cnx-software.com/2026/08/15/geekom-it13-max-review-part-3-ubuntu-26-04-on-an-intel-core-ultra-9-185h-mini-computer/) |
 | 2026-08-14 | Submersible drone analyzes ice | Hackaday | [link](https://hackaday.com/2026/08/14/submersible-drone-analyzes-ice/) |
 | 2026-08-14 | Automatic Naptime with BabyBjorn Bouncing Servo | Hackaday | [link](https://hackaday.com/2026/08/14/automatic-naptime-with-babybjorn-bouncing-servo/) |
 | 2026-08-14 | Uninvasive EEG Interface Could Be Used To Play Games | Hackaday | [link](https://hackaday.com/2026/08/14/uninvasive-eeg-interface-could-be-used-to-play-games/) |
 | 2026-08-14 | Hackaday Podcast Episode 382: Glueballs, Borg Cubes, and Supersonic Trebuchets | Hackaday | [link](https://hackaday.com/2026/08/14/hackaday-podcast-episode-382-glueballs-borg-cubes-and-supersonic-trebuchets/) |
 | 2026-08-14 | EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition | CNX Software | [link](https://www.cnx-software.com/2026/08/14/eitwatch-open-source-esp32-s3-smartwatch-implements-planar-eit-hand-gesture-recognition/) |
 | 2026-08-14 | Giada DK320 digital signage player and Edge AI embedded PC supports up to the Intel Core 5 315 Wildcat Lake processor | CNX Software | [link](https://www.cnx-software.com/2026/08/14/giada-dk320-digital-signage-player-and-edge-ai-embedded-pc-supports-up-to-the-intel-core-5-315-wildcat-lake-processor/) |
-| 2026-08-14 | Gemma Translator multilingual interpreter runs locally on Raspberry Pi 5 with the LiteRT runtime | CNX Software | [link](https://www.cnx-software.com/2026/08/14/gemma-translator-multilingual-interpreter-runs-locally-on-raspberry-pi-5-with-the-litert-runtime/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -82,25 +82,25 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-15 | Jiahao28/stage-transformer-robot-manipulation | 0 | 0 | [link](https://huggingface.co/Jiahao28/stage-transformer-robot-manipulation) |
 | 2026-08-15 | huggingaccounttest/ICRA2027_ROBOT_Spline_VLA | 0 | 0 | [link](https://huggingface.co/huggingaccounttest/ICRA2027_ROBOT_Spline_VLA) |
 | 2026-08-15 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
+| 2026-08-15 | ISdept/wiltech-vla-9k | 0 | 0 | [link](https://huggingface.co/ISdept/wiltech-vla-9k) |
 | 2026-08-15 | sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-15 | sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
-| 2026-08-15 | sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-15 | sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0) |
-| 2026-08-15 | VLABench/pi05-posttrain-vlabench-primitive-aligned | 0 | 0 | [link](https://huggingface.co/VLABench/pi05-posttrain-vlabench-primitive-aligned) |
+| 2026-08-15 | sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 63413 | Python | 25365.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63414 | Python | 25365.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15689 | C++ | 6275.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14553 | C++ | 5821.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13445 | Python | 5378.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| isaac-sim/IsaacLab | 7902 | Python | 3160.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| earthtojake/text-to-cad | 13448 | Python | 5379.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| isaac-sim/IsaacLab | 7903 | Python | 3161.3 | [link](https://github.com/isaac-sim/IsaacLab) |
 | RLinf/RLinf | 4544 | Python | 1817.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3873 | Rust | 1549.3 | [link](https://github.com/dora-rs/dora) |
 | ace-trump-tech/MindPaw | 2388 | C++ | 955.3 | [link](https://github.com/ace-trump-tech/MindPaw) |
 | sou350121/VLA-Handbook | 511 | HTML | 204.5 | [link](https://github.com/sou350121/VLA-Handbook) |
-| RealXiaoze/humanoid-motion-intelligence | 347 |  | 138.9 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
+| RealXiaoze/humanoid-motion-intelligence | 348 |  | 139.3 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -121,7 +121,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-12 | Employment immunity: the quiet revolution of robotics and physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lcURSMEFORUVpUHBsejVWMVhTYnZMbDJ6aUVVeVRNRDg5Tm12NDE3SnBDeGNhYmVCNC14TFFPVTJZcldIbUZwNzdNWXpBVllRTXhlRC1EV3hmQ0NNbnUyTnlOQ2hLR1pI?oc=5) |
 | 2026-08-12 | Former Alibaba Researcher Announces New Startup on Digital and Physical AI Agents - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS0yNmtES1hJM2JVdlhsN3ozemF5bnpqbjM3YUE2TXFmM1JuY2FtVEZ6NHl1MmpWclg5aV96LURKTER3bElQQTAxNE9CdDBva1Q3OE1yTFNfeV9lRHRPZTFHNFQtQWxXNnRiXzFUZzhIcTNuV3RWSXZkUWF4S0J5YjZZNHJqZUl5UjJVUHAyS3lhbU1pdTUycjRwcUpoM2J5b2VvRFR4dEowZG9oZVd0bzhETkNkUQ?oc=5) |
-| 2026-08-12 | Chelsea Finn: The State of Physical Intelligence in Robotics - startuphub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVdVWVZtVElfYVFmUGYxMkptaENSMzFHTkJrcFJRakNfdGI1eTVfX3Yyc2pIeEEzSEpnQXl2N3BqdDczMnlKNERDcjVYeDBnMjVvVDFxS3B4ZWxSazJyZU4ya01xeEhDMUxqQV95c3hZbl9Da0EyTXZFajdlcjlwNF9XNXFCczBZUnl0R252QUJrUGczWkVrMncyVW5ubTNlSldRX1lxbUNfVlU?oc=5) |
+| 2026-08-12 | Chelsea Finn: The State of Physical Intelligence in Robotics - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVdVWVZtVElfYVFmUGYxMkptaENSMzFHTkJrcFJRakNfdGI1eTVfX3Yyc2pIeEEzSEpnQXl2N3BqdDczMnlKNERDcjVYeDBnMjVvVDFxS3B4ZWxSazJyZU4ya01xeEhDMUxqQV95c3hZbl9Da0EyTXZFajdlcjlwNF9XNXFCczBZUnl0R252QUJrUGczWkVrMncyVW5ubTNlSldRX1lxbUNfVlU?oc=5) |
 | 2026-08-12 | Six Months, $74.1 Million: Westlake University Professor's Embodied AI Startup Secures Four Funding Rounds - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSm5lLTczQTE2eDNNdWZpQmppanBMYUNJSVlPOTlRUW1lbHNjSjh1UzI3UnBsQldXQnRhYS05YnVZbWZXbkF2MXNzMmZubW0wVDJwS19kYXA2SDdWTjZrR1ByZVpUN3NjMjlBZ1FGWFMwQ0J6dmc?oc=5) |
 | 2026-08-12 | BYD Unveils Its Xiao Di Humanoid Robot Days After US Bans Chinese Robots - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDNYVVkyeU5iLWt2R3RVbnRqN2Qya1NIRkZKemhyMlhJbDFWRl9EanlyTjY1QWVTZERqcU1WODBpR016c1l6djN3NVBJOVZyV0trLTFwckE2M3o0aTZwSHdDSEFOdEFLaWl0SXdJRXdvTWtyRjhKRlZVMEgtZWtlY1Z6WEpudjQzdk5HRzgyTTdwOVNPUTJ5T3dLYnJuTDk3WGc?oc=5) |
 | 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
