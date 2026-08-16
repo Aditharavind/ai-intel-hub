@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-16 19:11 UTC
+Last Updated: 2026-08-16 20:06 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-16 | Another Radio on a Chip Design | Hackaday | [link](https://hackaday.com/2026/08/16/another-radio-on-a-chip-design/) |
 | 2026-08-16 | Laser Layers for (Almost) Isotropicly Strong Prints | Hackaday | [link](https://hackaday.com/2026/08/16/laser-layers-for-almost-isotropicly-strong-prints/) |
 | 2026-08-16 | Building an Actuator for a Walking Robot | Hackaday | [link](https://hackaday.com/2026/08/16/building-an-actuator-for-a-walking-robot/) |
 | 2026-08-16 | r-Selecting Tiny Probes to Shotgun Into Saturn’s Rings | Hackaday | [link](https://hackaday.com/2026/08/16/r-selecting-tiny-probes-to-shotgun-into-saturns-rings/) |
@@ -56,9 +57,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-16 | Machine Learning COFFIES “Hears” Sunspots Before We Can See Them | Hackaday | [link](https://hackaday.com/2026/08/15/machine-learning-coffies-hears-sunspots-before-we-can-see-them/) |
 | 2026-08-16 | Turning Energy Drinks Into Rocket Fuel | Hackaday | [link](https://hackaday.com/2026/08/15/turning-energy-drinks-into-rocket-fuel/) |
 | 2026-08-16 | Using the Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) on Ubuntu 26.04 | CNX Software | [link](https://www.cnx-software.com/2026/08/16/using-the-khadas-mind-graphics-2-nvidia-rtx-5060-ti-usb4-egpu-on-ubuntu-26-04/) |
+| 2026-08-16 | Adafruit Weekly Editorial Round Up: Back to School, LED Devil Horns, and more! | Adafruit | [link](https://blog.adafruit.com/2026/08/16/adafruit-weekly-editorial-round-up-back-to-school-led-devil-horns-and-more/) |
 | 2026-08-16 | It’s National Roller Coaster Day #NationalRollerCoasterDay #coasterday | Adafruit | [link](https://blog.adafruit.com/2026/08/16/its-national-roller-coaster-day-nationalrollercoasterday-coasterday/) |
-| 2026-08-15 | Peeling Fruit with the Power of Steam | Hackaday | [link](https://hackaday.com/2026/08/15/peeling-fruit-with-the-power-of-steam/) |
-| 2026-08-15 | GEEKOM IT13 Max Review – Part 3: Ubuntu 26.04 on an Intel Core Ultra 9 185H mini computer | CNX Software | [link](https://www.cnx-software.com/2026/08/15/geekom-it13-max-review-part-3-ubuntu-26-04-on-an-intel-core-ultra-9-185h-mini-computer/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -98,9 +98,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | earthtojake/text-to-cad | 13501 | Python | 5400.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11315 | Python | 4526.1 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11310 | Rust | 4524.1 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7905 | Python | 3162.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| isaac-sim/IsaacLab | 7906 | Python | 3162.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3878 | Rust | 1551.3 | [link](https://github.com/dora-rs/dora) |
-| Octoday-Hub/Embodied-AI | 2218 |  | 887.3 | [link](https://github.com/Octoday-Hub/Embodied-AI) |
+| Octoday-Hub/Embodied-AI | 2219 |  | 887.7 | [link](https://github.com/Octoday-Hub/Embodied-AI) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

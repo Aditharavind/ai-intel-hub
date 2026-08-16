@@ -1,5 +1,12 @@
 [
   {
+    "title": "Another Radio on a Chip Design",
+    "source": "Hackaday",
+    "date": "2026-08-16",
+    "url": "https://hackaday.com/2026/08/16/another-radio-on-a-chip-design/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"318\" src=\"https://hackaday.com/wp-content/uploads/2026/08/tea.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It used to be a rite of passage to build some sort of AM radio receiver. Many people started with a crystal radio, of course, but you&#8217;d graduate to maybe <a class=\"read-more\" href=\"https://hackaday.com/2026/08/16/another-radio-on-a-chip-design/\">&#8230;read more</a>"
+  },
+  {
     "title": "Laser Layers for (Almost) Isotropicly Strong Prints",
     "source": "Hackaday",
     "date": "2026-08-16",
@@ -49,18 +56,18 @@
     "summary": "<div><img alt=\"Khadas Mind Graphics 2 NVIDIA GeForce RTX 5060 Ti 16GB eGPU Ubuntu 26.04\" class=\"attachment-medium size-medium wp-post-image\" height=\"532\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Khadas-Mind-Graphics-2-NVIDIA-GeForce-RTX-5060-Ti-16GB-eGPU-Ubuntu-26.04-720x532.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>When we used the NVIDIA GeForce RTX 5060 Ti 16GB-based Khadas Mind Graphics 2 dock with a mini PC running Ubuntu 26.04 last week, the USB4-connected eGPU was detected and enabled automatically, but we encountered two issues: very poor performance and the mini PC failed to boot when the dock was removed. The solution is partially documented as part of a long GEEKOM IT13 Max Ubuntu 26.04 review, but I thought it might be useful to document everything in a shorter article for people who own the Khadas Mind Graphics 2 or another NVIDIA Blackwell eGPU connected over USB4/Thunderbolt. Fixing Khadas Mind Graphics 2 performance issues on Ubuntu The Khadas Mind Graphics 2 and NVIDIA graphics card were automatically detected when I connected the dock to an Ubuntu 26.04 mini PC</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/16/using-the-khadas-mind-graphics-2-nvidia-rtx-5060-ti-usb4-egpu-on-ubuntu-26-04/\">Using the Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) on Ubuntu 26.04</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Adafruit Weekly Editorial Round Up: Back to School, LED Devil Horns, and more!",
+    "source": "Adafruit",
+    "date": "2026-08-16",
+    "url": "https://blog.adafruit.com/2026/08/16/adafruit-weekly-editorial-round-up-back-to-school-led-devil-horns-and-more/",
+    "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG Back to School LEARN [&#8230;]"
+  },
+  {
     "title": "It’s National Roller Coaster Day #NationalRollerCoasterDay #coasterday",
     "source": "Adafruit",
     "date": "2026-08-16",
     "url": "https://blog.adafruit.com/2026/08/16/its-national-roller-coaster-day-nationalrollercoasterday-coasterday/",
     "summary": "Cyclone Roller Coaster, Coney Island, New York via Wikipedia &#160; Did you know every August 16 is National Roller Coaster Day? Ride out the summer, with all of the ups and downs, on a coaster of your choosing. If you can stomach them, coasters are marvels of engineering and have been teaching young engineers lessons [&#8230;]"
-  },
-  {
-    "title": "Peeling Fruit with the Power of Steam",
-    "source": "Hackaday",
-    "date": "2026-08-15",
-    "url": "https://hackaday.com/2026/08/15/peeling-fruit-with-the-power-of-steam/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/fruitPeeler.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Steam power is a staple of the steampunk aesthetic, thermodynamics, and a checkpoint for the budding mechanical engineer studying heat cycles. But because food is largely made of water, steam <a class=\"read-more\" href=\"https://hackaday.com/2026/08/15/peeling-fruit-with-the-power-of-steam/\">&#8230;read more</a>"
   },
   {
     "title": "GEEKOM IT13 Max Review – Part 3: Ubuntu 26.04 on an Intel Core Ultra 9 185H mini computer",
@@ -285,13 +292,6 @@
     "date": "2026-08-13",
     "url": "https://blog.adafruit.com/2026/08/13/smart-e-paper-desk-dashboard-esp32-c6-supermini-7-5-display-3dthursday-3dprinting/",
     "summary": "VoIP shares: An always-on ultra-low-power e-paper desk dashboard powered by the ESP32-C6 SuperMini (WiFi + Zigbee + battery in one). Use it for clock, weather, 3D printer status, Proxmox monitor, calendar events, shipment tracking, stock market, or Zigbee integrations. Partial-refresh optimization for responsive dashboard-style updates. Full GitHub repository with sample code. Requires minimum soldering skills. [&#8230;]"
-  },
-  {
-    "title": "8×8 WS2812B Matrix Diffuser #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-08-13",
-    "url": "https://blog.adafruit.com/2026/08/13/8x8-ws2812b-matrix-diffuser-3dthursday-3dprinting/",
-    "summary": "Shared by sutra on MakerWorld: Simple diffusers for the common approximately 65&#215;65 mm rigid PCB 8&#215;8 WS2812B matrix modules. The modules don&#8217;t quite have a square pixel pitch so it&#8217;s fudged a bit for an 8.5 mm square pixel pitch. Fit is snug so will likely require some flexing of the walls to push the [&#8230;]"
   },
   {
     "title": "Astrolight and ATMOS Space Cargo Aim for First In-Flight Laser Link Between Re-Entry Vehicle and Satellite",
