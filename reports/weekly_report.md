@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-16 10:10 UTC
+Generated: 2026-08-16 11:08 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -16,9 +16,9 @@ Generated: 2026-08-16 10:10 UTC
 | --- | --- | --- | --- |
 | commaai/openpilot | 63424 | 25369.7 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30309 | 12123.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16126 | 6450.5 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16127 | 6450.9 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15695 | 6278.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| TianxingChen/Embodied-AI-Guide | 15449 | 6179.7 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
+| TianxingChen/Embodied-AI-Guide | 15451 | 6180.5 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,7 +41,7 @@ Generated: 2026-08-16 10:10 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-16 | LG Bets Its Actuators and Batteries on a Humanoid Robot Built With Nvidia - startupfortune.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGtiLUJZdmhoZjNYaHBDS2g5dDlrSkJIenRuVV80Zm9paVJVdEFQb296dFd5VWpiNkNEYXRHZ1NnRFdKbXRMLXY1SnJCRE9NbzRGVV92UkVSbFlNUWVPLU94S2xILUhxOGt1RXFXMV9qQ3BFWjlQOWRIbWxxeUZEbXlGalFNNzlRTUNjZHNhNmdOUWZhenlVSXRzVW54SE1LdTJJ?oc=5) |
+| 2026-08-16 | LG Bets Its Actuators and Batteries on a Humanoid Robot Built With Nvidia - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGtiLUJZdmhoZjNYaHBDS2g5dDlrSkJIenRuVV80Zm9paVJVdEFQb296dFd5VWpiNkNEYXRHZ1NnRFdKbXRMLXY1SnJCRE9NbzRGVV92UkVSbFlNUWVPLU94S2xILUhxOGt1RXFXMV9qQ3BFWjlQOWRIbWxxeUZEbXlGalFNNzlRTUNjZHNhNmdOUWZhenlVSXRzVW54SE1LdTJJ?oc=5) |
 | 2026-08-12 | Employment immunity: the quiet revolution of robotics and physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lcURSMEFORUVpUHBsejVWMVhTYnZMbDJ6aUVVeVRNRDg5Tm12NDE3SnBDeGNhYmVCNC14TFFPVTJZcldIbUZwNzdNWXpBVllRTXhlRC1EV3hmQ0NNbnUyTnlOQ2hLR1pI?oc=5) |
 | 2026-08-12 | Former Alibaba Researcher Announces New Startup on Digital and Physical AI Agents - theinformation.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS0yNmtES1hJM2JVdlhsN3ozemF5bnpqbjM3YUE2TXFmM1JuY2FtVEZ6NHl1MmpWclg5aV96LURKTER3bElQQTAxNE9CdDBva1Q3OE1yTFNfeV9lRHRPZTFHNFQtQWxXNnRiXzFUZzhIcTNuV3RWSXZkUWF4S0J5YjZZNHJqZUl5UjJVUHAyS3lhbU1pdTUycjRwcUpoM2J5b2VvRFR4dEowZG9oZVd0bzhETkNkUQ?oc=5) |
 | 2026-08-12 | Chelsea Finn: The State of Physical Intelligence in Robotics - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVdVWVZtVElfYVFmUGYxMkptaENSMzFHTkJrcFJRakNfdGI1eTVfX3Yyc2pIeEEzSEpnQXl2N3BqdDczMnlKNERDcjVYeDBnMjVvVDFxS3B4ZWxSazJyZU4ya01xeEhDMUxqQV95c3hZbl9Da0EyTXZFajdlcjlwNF9XNXFCczBZUnl0R252QUJrUGczWkVrMncyVW5ubTNlSldRX1lxbUNfVlU?oc=5) |

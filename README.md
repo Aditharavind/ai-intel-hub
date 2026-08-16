@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-16 10:10 UTC
+Last Updated: 2026-08-16 11:08 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-16 | r-Selecting Tiny Probes to Shotgun Into Saturn’s Rings | Hackaday | [link](https://hackaday.com/2026/08/16/r-selecting-tiny-probes-to-shotgun-into-saturns-rings/) |
 | 2026-08-16 | Researchers Hack an Airline Analog | Hackaday | [link](https://hackaday.com/2026/08/16/how-to-hack-an-airliner/) |
 | 2026-08-16 | Machine Learning COFFIES “Hears” Sunspots Before We Can See Them | Hackaday | [link](https://hackaday.com/2026/08/15/machine-learning-coffies-hears-sunspots-before-we-can-see-them/) |
 | 2026-08-16 | Turning Energy Drinks Into Rocket Fuel | Hackaday | [link](https://hackaday.com/2026/08/15/turning-energy-drinks-into-rocket-fuel/) |
@@ -56,7 +57,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-15 | Peeling Fruit with the Power of Steam | Hackaday | [link](https://hackaday.com/2026/08/15/peeling-fruit-with-the-power-of-steam/) |
 | 2026-08-15 | Scanning for Lifesigns with ESP32 and Raspberry Pi | Hackaday | [link](https://hackaday.com/2026/08/15/scanning-for-lifesigns-with-esp32-and-raspberry-pi-now-open-source/) |
 | 2026-08-15 | Radio Shack Toy Returns to Life | Hackaday | [link](https://hackaday.com/2026/08/15/radio-shack-toy-returns-to-life/) |
-| 2026-08-15 | Fully Characterized Systems | Hackaday | [link](https://hackaday.com/2026/08/15/fully-characterized-systems/) |
 | 2026-08-15 | GEEKOM IT13 Max Review – Part 3: Ubuntu 26.04 on an Intel Core Ultra 9 185H mini computer | CNX Software | [link](https://www.cnx-software.com/2026/08/15/geekom-it13-max-review-part-3-ubuntu-26-04-on-an-intel-core-ultra-9-185h-mini-computer/) |
 | 2026-08-14 | EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition | CNX Software | [link](https://www.cnx-software.com/2026/08/14/eitwatch-open-source-esp32-s3-smartwatch-implements-planar-eit-hand-gesture-recognition/) |
 
@@ -80,13 +80,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-16 | weepiess2383/arc-robotwin | 0 | 0 | [link](https://huggingface.co/weepiess2383/arc-robotwin) |
 | 2026-08-16 | gangweix/next-forcing-posttrain-robotwin | 0 | 0 | [link](https://huggingface.co/gangweix/next-forcing-posttrain-robotwin) |
 | 2026-08-16 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
+| 2026-08-16 | B111ue/fcl-vla-r4-seed2-stage1-clients | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-r4-seed2-stage1-clients) |
+| 2026-08-16 | B111ue/fcl-vla-r4-seed2-global | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-r4-seed2-global) |
+| 2026-08-16 | B111ue/fcl-vla-r4-seed2-stage0-clients | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-r4-seed2-stage0-clients) |
+| 2026-08-16 | B111ue/fcl-vla-r4-seed0-clients | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-r4-seed0-clients) |
+| 2026-08-16 | B111ue/fcl-vla-baseline-recovery-aug16 | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery-aug16) |
 | 2026-08-16 | geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step20000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step20000) |
 | 2026-08-16 | B111ue/fcl-vla-baseline-recovery | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-baseline-recovery) |
-| 2026-08-16 | tae-roh/vla-pick-sft | 5 | 0 | [link](https://huggingface.co/tae-roh/vla-pick-sft) |
-| 2026-08-16 | vlabki/rr-tw3-bc-ppo-boost-v1 | 5 | 0 | [link](https://huggingface.co/vlabki/rr-tw3-bc-ppo-boost-v1) |
-| 2026-08-16 | geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step15000 | 6 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step15000) |
-| 2026-08-16 | stevenqian/red_block_pi05_armcam_policy0 | 0 | 0 | [link](https://huggingface.co/stevenqian/red_block_pi05_armcam_policy0) |
-| 2026-08-16 | s1eepypillow/task1_act_policy | 80 | 0 | [link](https://huggingface.co/s1eepypillow/task1_act_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,10 +94,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | commaai/openpilot | 63424 | Python | 25369.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15695 | C++ | 6278.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14563 | C++ | 5825.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13482 | Python | 5392.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13485 | Python | 5394.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11315 | Python | 4526.1 | [link](https://github.com/kornia/kornia) |
-| isaac-sim/IsaacLab | 7906 | Python | 3162.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3876 | Rust | 1550.5 | [link](https://github.com/dora-rs/dora) |
+| isaac-sim/IsaacLab | 7905 | Python | 3162.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| dora-rs/dora | 3877 | Rust | 1550.9 | [link](https://github.com/dora-rs/dora) |
 | Octoday-Hub/Embodied-AI | 2217 |  | 886.9 | [link](https://github.com/Octoday-Hub/Embodied-AI) |
 | unrealcv/unrealcv | 2207 | C++ | 882.9 | [link](https://github.com/unrealcv/unrealcv) |
 | sou350121/VLA-Handbook | 511 | HTML | 204.5 | [link](https://github.com/sou350121/VLA-Handbook) |
@@ -119,7 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-16 | LG Bets Its Actuators and Batteries on a Humanoid Robot Built With Nvidia - startupfortune.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGtiLUJZdmhoZjNYaHBDS2g5dDlrSkJIenRuVV80Zm9paVJVdEFQb296dFd5VWpiNkNEYXRHZ1NnRFdKbXRMLXY1SnJCRE9NbzRGVV92UkVSbFlNUWVPLU94S2xILUhxOGt1RXFXMV9qQ3BFWjlQOWRIbWxxeUZEbXlGalFNNzlRTUNjZHNhNmdOUWZhenlVSXRzVW54SE1LdTJJ?oc=5) |
+| 2026-08-16 | LG Bets Its Actuators and Batteries on a Humanoid Robot Built With Nvidia - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGtiLUJZdmhoZjNYaHBDS2g5dDlrSkJIenRuVV80Zm9paVJVdEFQb296dFd5VWpiNkNEYXRHZ1NnRFdKbXRMLXY1SnJCRE9NbzRGVV92UkVSbFlNUWVPLU94S2xILUhxOGt1RXFXMV9qQ3BFWjlQOWRIbWxxeUZEbXlGalFNNzlRTUNjZHNhNmdOUWZhenlVSXRzVW54SE1LdTJJ?oc=5) |
 | 2026-08-12 | Employment immunity: the quiet revolution of robotics and physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lcURSMEFORUVpUHBsejVWMVhTYnZMbDJ6aUVVeVRNRDg5Tm12NDE3SnBDeGNhYmVCNC14TFFPVTJZcldIbUZwNzdNWXpBVllRTXhlRC1EV3hmQ0NNbnUyTnlOQ2hLR1pI?oc=5) |
 | 2026-08-12 | Former Alibaba Researcher Announces New Startup on Digital and Physical AI Agents - theinformation.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS0yNmtES1hJM2JVdlhsN3ozemF5bnpqbjM3YUE2TXFmM1JuY2FtVEZ6NHl1MmpWclg5aV96LURKTER3bElQQTAxNE9CdDBva1Q3OE1yTFNfeV9lRHRPZTFHNFQtQWxXNnRiXzFUZzhIcTNuV3RWSXZkUWF4S0J5YjZZNHJqZUl5UjJVUHAyS3lhbU1pdTUycjRwcUpoM2J5b2VvRFR4dEowZG9oZVd0bzhETkNkUQ?oc=5) |
 | 2026-08-12 | Chelsea Finn: The State of Physical Intelligence in Robotics - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVdVWVZtVElfYVFmUGYxMkptaENSMzFHTkJrcFJRakNfdGI1eTVfX3Yyc2pIeEEzSEpnQXl2N3BqdDczMnlKNERDcjVYeDBnMjVvVDFxS3B4ZWxSazJyZU4ya01xeEhDMUxqQV95c3hZbl9Da0EyTXZFajdlcjlwNF9XNXFCczBZUnl0R252QUJrUGczWkVrMncyVW5ubTNlSldRX1lxbUNfVlU?oc=5) |
