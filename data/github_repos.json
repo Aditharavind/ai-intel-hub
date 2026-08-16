@@ -1,5 +1,15 @@
 [
   {
+    "repo": "commaai/openpilot",
+    "stars": 63424,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-08-16",
+    "topic": "robotics",
+    "score": 25369.7
+  },
+  {
     "repo": "ArduPilot/ardupilot",
     "stars": 15695,
     "language": "C++",
@@ -21,13 +31,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13478,
+    "stars": 13480,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-16",
     "topic": "robotics",
-    "score": 5391.3
+    "score": 5392.1
   },
   {
     "repo": "kornia/kornia",
@@ -41,33 +51,43 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7905,
+    "stars": 7906,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-08-16",
     "topic": "robot-learning",
-    "score": 3162.1
+    "score": 3162.5
   },
   {
     "repo": "dora-rs/dora",
-    "stars": 3874,
+    "stars": 3876,
     "language": "Rust",
     "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
     "url": "https://github.com/dora-rs/dora",
     "date": "2026-08-16",
     "topic": "embodied-ai",
-    "score": 1549.7
+    "score": 1550.5
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2216,
+    "stars": 2217,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-16",
     "topic": "robot-learning",
-    "score": 886.5
+    "score": 886.9
+  },
+  {
+    "repo": "unrealcv/unrealcv",
+    "stars": 2207,
+    "language": "C++",
+    "description": "UnrealCV: Connecting Computer Vision to Unreal Engine",
+    "url": "https://github.com/unrealcv/unrealcv",
+    "date": "2026-08-16",
+    "topic": "embodied-ai",
+    "score": 882.9
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -90,14 +110,24 @@
     "score": 202.9
   },
   {
+    "repo": "RealXiaoze/humanoid-motion-intelligence",
+    "stars": 349,
+    "language": "",
+    "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
+    "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
+    "date": "2026-08-16",
+    "topic": "robot-learning",
+    "score": 139.7
+  },
+  {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6140,
+    "stars": 6144,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-16",
     "topic": "world-model",
-    "score": 2456.1
+    "score": 2457.7
   },
   {
     "repo": "copper-project/copper-rs",
@@ -110,34 +140,14 @@
     "score": 580.5
   },
   {
-    "repo": "commaai/openpilot",
-    "stars": 63425,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-08-15",
-    "topic": "robotics",
-    "score": 25370.1
-  },
-  {
     "repo": "RLinf/RLinf",
-    "stars": 4546,
+    "stars": 4548,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-15",
     "topic": "embodied-ai",
-    "score": 1818.5
-  },
-  {
-    "repo": "unrealcv/unrealcv",
-    "stars": 2207,
-    "language": "C++",
-    "description": "UnrealCV: Connecting Computer Vision to Unreal Engine",
-    "url": "https://github.com/unrealcv/unrealcv",
-    "date": "2026-08-15",
-    "topic": "embodied-ai",
-    "score": 882.9
+    "score": 1819.3
   },
   {
     "repo": "ace-trump-tech/MindPaw",
@@ -158,16 +168,6 @@
     "date": "2026-08-15",
     "topic": "vla",
     "score": 168.9
-  },
-  {
-    "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 349,
-    "language": "",
-    "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
-    "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
-    "date": "2026-08-15",
-    "topic": "robot-learning",
-    "score": 139.7
   },
   {
     "repo": "syswonder/robonix",
@@ -191,13 +191,13 @@
   },
   {
     "repo": "OpenHUTB/hutb",
-    "stars": 568,
+    "stars": 569,
     "language": "C++",
     "description": "人车模拟器（Human-vehicle Simulator）",
     "url": "https://github.com/OpenHUTB/hutb",
     "date": "2026-08-15",
     "topic": "humanoid",
-    "score": 227.3
+    "score": 227.7
   },
   {
     "repo": "softmata/horus",
@@ -281,13 +281,13 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11305,
+    "stars": 11306,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-08-14",
     "topic": "robotics",
-    "score": 4522.1
+    "score": 4522.5
   },
   {
     "repo": "zchoi/Awesome-Embodied-Robotics-and-Agent",
@@ -521,13 +521,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3185,
+    "stars": 3186,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1274.1
+    "score": 1274.5
   },
   {
     "repo": "thanhndv212/figaroh-plus",
@@ -671,13 +671,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15447,
+    "stars": 15448,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6178.9
+    "score": 6179.3
   },
   {
     "repo": "aalmuzairee/squint",
@@ -711,13 +711,13 @@
   },
   {
     "repo": "humanoidworkbench/Humanoid-Workbench",
-    "stars": 17,
+    "stars": 18,
     "language": "",
     "description": "Open source prior art disclosure — specialized workstation systems for AI robotic systems",
     "url": "https://github.com/humanoidworkbench/Humanoid-Workbench",
     "date": "2026-07-29",
     "topic": "humanoid",
-    "score": 6.9
+    "score": 7.3
   },
   {
     "repo": "PKU-YuanGroup/Helios",
