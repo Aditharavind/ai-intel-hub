@@ -1,23 +1,23 @@
 [
   {
     "repo": "commaai/openpilot",
-    "stars": 63426,
+    "stars": 63427,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-16",
     "topic": "robotics",
-    "score": 25370.5
+    "score": 25370.9
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15698,
+    "stars": 15699,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-16",
     "topic": "robotics",
-    "score": 6279.3
+    "score": 6279.7
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -30,14 +30,24 @@
     "score": 5827.3
   },
   {
+    "repo": "DLR-RM/stable-baselines3",
+    "stars": 13697,
+    "language": "Python",
+    "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
+    "url": "https://github.com/DLR-RM/stable-baselines3",
+    "date": "2026-08-16",
+    "topic": "robotics",
+    "score": 5478.9
+  },
+  {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13496,
+    "stars": 13498,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-16",
     "topic": "robotics",
-    "score": 5398.5
+    "score": 5399.3
   },
   {
     "repo": "kornia/kornia",
@@ -531,13 +541,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3194,
+    "stars": 3195,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1277.7
+    "score": 1278.1
   },
   {
     "repo": "Evan-wyl/humanoid-robot-intelligence",
@@ -611,13 +621,13 @@
   },
   {
     "repo": "NVlabs/alpamayo",
-    "stars": 1989,
+    "stars": 1990,
     "language": "Python",
     "description": "NVIDIA Alpamayo 1 Nano is an open 10B reasoning VLA model for autonomous vehicles that pairs driving trajectories with Chain-of-Causation reasoning.",
     "url": "https://github.com/NVlabs/alpamayo",
     "date": "2026-08-05",
     "topic": "vla",
-    "score": 795.7
+    "score": 796.1
   },
   {
     "repo": "NVlabs/alpamayo1.5",
@@ -681,13 +691,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15457,
+    "stars": 15458,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6182.9
+    "score": 6183.3
   },
   {
     "repo": "aalmuzairee/squint",
@@ -701,13 +711,13 @@
   },
   {
     "repo": "leofan90/Awesome-World-Models",
-    "stars": 1961,
+    "stars": 1962,
     "language": "Python",
     "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
     "url": "https://github.com/leofan90/Awesome-World-Models",
     "date": "2026-07-31",
     "topic": "world-model",
-    "score": 784.5
+    "score": 784.9
   },
   {
     "repo": "Mr-C4T/AB-SO-BOT",
@@ -778,16 +788,6 @@
     "date": "2026-07-26",
     "topic": "humanoid",
     "score": 142.5
-  },
-  {
-    "repo": "DLR-RM/stable-baselines3",
-    "stars": 13697,
-    "language": "Python",
-    "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
-    "url": "https://github.com/DLR-RM/stable-baselines3",
-    "date": "2026-07-25",
-    "topic": "robotics",
-    "score": 5478.9
   },
   {
     "repo": "thu-ml/Causal-Forcing",
