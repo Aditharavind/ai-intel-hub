@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-16 06:16 UTC
+Generated: 2026-08-16 07:20 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-08-16 06:16 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63425 | 25370.1 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30308 | 12123.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| commaai/openpilot | 63426 | 25370.5 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30309 | 12123.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16124 | 6449.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15694 | 6277.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15695 | 6278.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | TianxingChen/Embodied-AI-Guide | 15447 | 6178.9 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| nvidia/Cosmos3-Edge-Policy-DROID | 1317 | 397.2 | [link](https://huggingface.co/nvidia/Cosmos3-Edge-Policy-DROID) |
 | SEU-PAISys/Embodied.cpp | 640 | 192.9 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
 | tencent/Hy-Embodied-RxBrain-1.0 | 276 | 93.9 | [link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
 | physicalai-bmi/efa-1 | 134 | 40.3 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
 | sasa2000/Hy-Embodied-VLM-1.0-Text-Only | 107 | 32.2 | [link](https://huggingface.co/sasa2000/Hy-Embodied-VLM-1.0-Text-Only) |
+| XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa | 99 | 31.8 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
