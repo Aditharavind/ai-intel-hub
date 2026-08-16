@@ -35,6 +35,13 @@
     "summary": "<div><img alt=\"Khadas Mind Graphics 2 NVIDIA GeForce RTX 5060 Ti 16GB eGPU Ubuntu 26.04\" class=\"attachment-medium size-medium wp-post-image\" height=\"532\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Khadas-Mind-Graphics-2-NVIDIA-GeForce-RTX-5060-Ti-16GB-eGPU-Ubuntu-26.04-720x532.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>When we used the NVIDIA GeForce RTX 5060 Ti 16GB-based Khadas Mind Graphics 2 dock with a mini PC running Ubuntu 26.04 last week, the USB4-connected eGPU was detected and enabled automatically, but we encountered two issues: very poor performance and the mini PC failed to boot when the dock was removed. The solution is partially documented as part of a long GEEKOM IT13 Max Ubuntu 26.04 review, but I thought it might be useful to document everything in a shorter article for people who own the Khadas Mind Graphics 2 or another NVIDIA Blackwell eGPU connected over USB4/Thunderbolt. Fixing Khadas Mind Graphics 2 performance issues on Ubuntu The Khadas Mind Graphics 2 and NVIDIA graphics card were automatically detected when I connected the dock to an Ubuntu 26.04 mini PC</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/16/using-the-khadas-mind-graphics-2-nvidia-rtx-5060-ti-usb4-egpu-on-ubuntu-26-04/\">Using the Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) on Ubuntu 26.04</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "It’s National Roller Coaster Day #NationalRollerCoasterDay #coasterday",
+    "source": "Adafruit",
+    "date": "2026-08-16",
+    "url": "https://blog.adafruit.com/2026/08/16/its-national-roller-coaster-day-nationalrollercoasterday-coasterday/",
+    "summary": "Cyclone Roller Coaster, Coney Island, New York via Wikipedia &#160; Did you know every August 16 is National Roller Coaster Day? Ride out the summer, with all of the ups and downs, on a coaster of your choosing. If you can stomach them, coasters are marvels of engineering and have been teaching young engineers lessons [&#8230;]"
+  },
+  {
     "title": "Peeling Fruit with the Power of Steam",
     "source": "Hackaday",
     "date": "2026-08-15",
@@ -96,76 +103,6 @@
     "date": "2026-08-14",
     "url": "https://www.embedded.com/altera-expands-ddr5-and-lpddr5-support-across-agilex-fpgas/",
     "summary": "<p>Altera Corp. has expanded memory support across its Agilex FPGA portfolio with Quartus Prime Pro Edition Software version 26.1.1. The release adds DDR5, LPDDR5, and LPDDR5X-compatible memory capabilities to additional Agilex devices, giving developers greater flexibility when optimizing system bandwidth, power consumption, PCB space, and component availability. For Agilex 7 M-Series devices, the latest software [...]</p>\n<p>The post <a href=\"https://www.embedded.com/altera-expands-ddr5-and-lpddr5-support-across-agilex-fpgas/\">Altera Expands DDR5 and LPDDR5 Support Across Agilex FPGAs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "How To: Develop Edge AI on a Raspberry Pi with LiteRT and Gemma",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/how-to-develop-edge-ai-on-a-raspberry-pi-with-litert-and-gemma-2026-08/",
-    "summary": "<p>This is an interesting one from Google's Developer blog: an example project on Edge AI using a Raspberry Pi along with LiteRT and Gemma.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/how-to-develop-edge-ai-on-a-raspberry-pi-with-litert-and-gemma-2026-08/\">How To: Develop Edge AI on a Raspberry Pi with LiteRT and Gemma</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Standards and AI will shape-shift EDA",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/news/design/eda-and-ip/standards-and-ai-will-shape-shift-eda-2026-08/",
-    "summary": "<p>As AI and machine learning are getting more and more integrated into the EDA workflows, there are new challenges emerging around areas such as interoperability, data exchange, trust, and reproducibility. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/design/eda-and-ip/standards-and-ai-will-shape-shift-eda-2026-08/\">Standards and AI will shape-shift EDA</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Google joins OpenROAD EDA initiative",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/news/design/eda-and-ip/google-joins-openroad-eda-initiative-2026-08/",
-    "summary": "<p>Google is joining the OpenROAD Initiative (ORI) as a principal member, for its open source electronic design automation (EDA). As is customary, Google&#8217;s Technical Program Manager, Aaron Cunningham, is joining [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/design/eda-and-ip/google-joins-openroad-eda-initiative-2026-08/\">Google joins OpenROAD EDA initiative</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "CHIIPS #37 – CHIIPs with DVCon’s Mark Burton",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-37-chiips-with-dvcons-mark-burton-2026-08/",
-    "summary": "<p>Don't miss the latest episode of our Electronics Weekly podcast, CHIIPS. It features Mark Burton - DVCon's technical programme chair.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-37-chiips-with-dvcons-mark-burton-2026-08/\">CHIIPS #37 &#8211; CHIIPs with DVCon&#8217;s Mark Burton</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "President Bush, Qualcomm, the CTIA, Broadcom and the ITC square up",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/president-bush-qualcomm-the-ctia-broadcom-and-the-itc-square-up-2026-08/",
-    "summary": "<p>19 years ago the tech industry was up to its old trick of roping in the government to fight its battles. ‘The CTIA Wireless Association in the US has backed [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/president-bush-qualcomm-the-ctia-broadcom-and-the-itc-square-up-2026-08/\">President Bush, Qualcomm, the CTIA, Broadcom and the ITC square up</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "In-orbit services to generate $3 billion within a decade",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/news/business/in-orbit-services-to-generate-3-billion-within-a-decade-2026-08/",
-    "summary": "<p>Novaspace, the space consulting and market intelligence firm, has released the latest version of its In-Orbit Services Markets report. The Paris-based analysts calculate that the space sector will generate $3 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/in-orbit-services-to-generate-3-billion-within-a-decade-2026-08/\">In-orbit services to generate $3 billion within a decade</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "ISS National Laboratory selects startups for Orbital Edge Accelerator",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/news/business/iss-national-laboratory-selects-startups-for-orbital-edge-accelerator-2026-08/",
-    "summary": "<p>The International Space Station (ISS) National Laboratory has announced eight early-stage startups selected for the 2026 Orbital Edge Accelerator programme. The accelerator provides the selected startups with access to low [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/iss-national-laboratory-selects-startups-for-orbital-edge-accelerator-2026-08/\">ISS National Laboratory selects startups for Orbital Edge Accelerator</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Most Read – PCB shortage, Elon’s Cash Cow, Driverless cars",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-pcb-shortage-elons-cash-cow-driverless-cars-2026-08/",
-    "summary": "<p>The most popular stories on the site cover the Israeli deep-tech EDA company Hiveware, the value of the Starlink satellite internet service, and Waymo, the Alphabet driverless car unit.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-pcb-shortage-elons-cash-cow-driverless-cars-2026-08/\">Most Read &#8211; PCB shortage, Elon’s Cash Cow, Driverless cars</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "YMTC in Big 3 for NAND units",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/news/business/ymtc-in-big-3-for-nand-units-2026-08/",
-    "summary": "<p>YMTC overtook Micron and Kioxia in Q2 to gain 14% NAND market share based on units and third place in the market behind Samsung and Hynix, reports Counterpoint Research. Samsung [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ymtc-in-big-3-for-nand-units-2026-08/\">YMTC in Big 3 for NAND units</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "xEV PMIC market to double to $14.5bn by 2031",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/news/business/xev-pmic-market-to-double-to-14-5bn-by-2031-2026-08/",
-    "summary": "<p>Following a “reality check” in 2024-2025, when hybrid vehicles gained ground and battery-electric growth slowed temporarily, the xEV industry is regaining momentum, says Yole. Yole forecasts xEV production to grow [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/xev-pmic-market-to-double-to-14-5bn-by-2031-2026-08/\">xEV PMIC market to double to $14.5bn by 2031</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Gemma Translator – Live Translating Offline on a Raspberry Pi 5   #piday #raspberrypi",
@@ -285,13 +222,6 @@
     "date": "2026-08-13",
     "url": "https://blog.adafruit.com/2026/08/13/8x8-ws2812b-matrix-diffuser-3dthursday-3dprinting/",
     "summary": "Shared by sutra on MakerWorld: Simple diffusers for the common approximately 65&#215;65 mm rigid PCB 8&#215;8 WS2812B matrix modules. The modules don&#8217;t quite have a square pixel pitch so it&#8217;s fudged a bit for an 8.5 mm square pixel pitch. Fit is snug so will likely require some flexing of the walls to push the [&#8230;]"
-  },
-  {
-    "title": "John Park’s Workshop — LIVE TODAY 8/13/26",
-    "source": "Adafruit",
-    "date": "2026-08-13",
-    "url": "https://blog.adafruit.com/2026/08/13/john-parks-workshop-live-today-8-13-26/",
-    "summary": "It&#8217;s JOHN PARK’S WORKSHOP — LIVE! &#8212; Coming up at 4pm ET / 1pm PT Today!  LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects  CircuitPython Parsec Learn Guide Recap Tool Tips Retro Gear and more! The live video will be on Youtube LIVE, Twitch, Periscope (Twitter) and Facebook. Join maker John Park [&#8230;]"
   },
   {
     "title": "Astrolight and ATMOS Space Cargo Aim for First In-Flight Laser Link Between Re-Entry Vehicle and Satellite",
