@@ -1,43 +1,43 @@
 [
   {
     "repo": "commaai/openpilot",
-    "stars": 63425,
+    "stars": 63426,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-16",
     "topic": "robotics",
-    "score": 25370.1
+    "score": 25370.5
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15697,
+    "stars": 15698,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-16",
     "topic": "robotics",
-    "score": 6278.9
+    "score": 6279.3
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14563,
+    "stars": 14564,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-16",
     "topic": "robotics",
-    "score": 5825.3
+    "score": 5825.7
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13492,
+    "stars": 13494,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-16",
     "topic": "robotics",
-    "score": 5396.9
+    "score": 5397.7
   },
   {
     "repo": "kornia/kornia",
@@ -141,13 +141,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6148,
+    "stars": 6149,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-16",
     "topic": "world-model",
-    "score": 2459.3
+    "score": 2459.7
   },
   {
     "repo": "softmata/horus",
@@ -158,6 +158,16 @@
     "date": "2026-08-16",
     "topic": "humanoid",
     "score": 164.9
+  },
+  {
+    "repo": "thanhndv212/figaroh-plus",
+    "stars": 53,
+    "language": "Python",
+    "description": "A system identification framework for robots",
+    "url": "https://github.com/thanhndv212/figaroh-plus",
+    "date": "2026-08-16",
+    "topic": "humanoid",
+    "score": 21.3
   },
   {
     "repo": "copper-project/copper-rs",
@@ -181,13 +191,13 @@
   },
   {
     "repo": "ace-trump-tech/MindPaw",
-    "stars": 2391,
+    "stars": 2392,
     "language": "C++",
     "description": "🐕 MindPaw — 基于 ESP8266 的桌面级四足机器狗，支持语音交互 (HLK-V20)、手势识别 (OV2640+轻量MLP)、AI 对话 (豆包大模型)、PAD 情感计算、WiFi 网页遥控。总物料成本 ≈¥50，代码/PCB/3D打印全开源，适合机器人入门、嵌入式AI、HRI 情感交互研究。",
     "url": "https://github.com/ace-trump-tech/MindPaw",
     "date": "2026-08-15",
     "topic": "vla",
-    "score": 956.5
+    "score": 956.9
   },
   {
     "repo": "syswonder/robonix",
@@ -321,13 +331,13 @@
   },
   {
     "repo": "inclusionAI/AWorld",
-    "stars": 1220,
+    "stars": 1221,
     "language": "Python",
     "description": "Search, understand, reproduce, and improve an idea with ease",
     "url": "https://github.com/inclusionAI/AWorld",
     "date": "2026-08-14",
     "topic": "world-model",
-    "score": 488.1
+    "score": 488.5
   },
   {
     "repo": "NVlabs/ProtoMotions",
@@ -361,13 +371,13 @@
   },
   {
     "repo": "nasa-jpl/open-source-rover",
-    "stars": 9578,
+    "stars": 9579,
     "language": "Prolog",
     "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
     "url": "https://github.com/nasa-jpl/open-source-rover",
     "date": "2026-08-13",
     "topic": "robotics",
-    "score": 3831.3
+    "score": 3831.7
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
@@ -461,23 +471,23 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30310,
+    "stars": 30309,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-08-10",
     "topic": "robotics",
-    "score": 12124.1
+    "score": 12123.7
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2727,
+    "stars": 2728,
     "language": "Python",
     "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-08-10",
     "topic": "embodied-ai",
-    "score": 1090.9
+    "score": 1091.3
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -528,16 +538,6 @@
     "date": "2026-08-08",
     "topic": "embodied-ai",
     "score": 1277.3
-  },
-  {
-    "repo": "thanhndv212/figaroh-plus",
-    "stars": 53,
-    "language": "Python",
-    "description": "A system identification framework for robots",
-    "url": "https://github.com/thanhndv212/figaroh-plus",
-    "date": "2026-08-07",
-    "topic": "humanoid",
-    "score": 21.3
   },
   {
     "repo": "Evan-wyl/humanoid-robot-intelligence",
@@ -681,13 +681,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15454,
+    "stars": 15455,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6181.7
+    "score": 6182.1
   },
   {
     "repo": "aalmuzairee/squint",
@@ -781,13 +781,13 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13695,
+    "stars": 13696,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-07-25",
     "topic": "robotics",
-    "score": 5478.1
+    "score": 5478.5
   },
   {
     "repo": "thu-ml/Causal-Forcing",
