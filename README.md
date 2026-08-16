@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-16 20:06 UTC
+Last Updated: 2026-08-16 21:07 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -95,7 +95,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | ArduPilot/ardupilot | 15699 | C++ | 6279.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14568 | C++ | 5827.3 | [link](https://github.com/google-deepmind/mujoco) |
 | DLR-RM/stable-baselines3 | 13698 | Python | 5479.3 | [link](https://github.com/DLR-RM/stable-baselines3) |
-| earthtojake/text-to-cad | 13501 | Python | 5400.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13502 | Python | 5400.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11315 | Python | 4526.1 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11310 | Rust | 4524.1 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7906 | Python | 3162.5 | [link](https://github.com/isaac-sim/IsaacLab) |
