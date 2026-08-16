@@ -1,5 +1,23 @@
 [
   {
+    "model": "fanzh03/robotwin_fewshot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/fanzh03/robotwin_fewshot",
+    "date": "2026-08-16",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "tae-roh/vla-pick-sft",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tae-roh/vla-pick-sft",
+    "date": "2026-08-16",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "vlabki/rr-tw3-bc-ppo-boost-v1",
     "downloads": 0,
     "likes": 0,
@@ -18,15 +36,6 @@
     "score": 0.1
   },
   {
-    "model": "tae-roh/vla-pick-sft",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tae-roh/vla-pick-sft",
-    "date": "2026-08-16",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "hiskiv/cosmos-policy-lam-v2",
     "downloads": 0,
     "likes": 0,
@@ -40,15 +49,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/huggingaccounttest/ICRA2027_ROBOT_Spline_Server_Inference_Weights",
-    "date": "2026-08-15",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "fanzh03/robotwin_fewshot",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/fanzh03/robotwin_fewshot",
     "date": "2026-08-15",
     "keyword": "robot",
     "score": 0.1
@@ -425,11 +425,11 @@
   {
     "model": "nvidia/Cosmos3-Edge-Policy-DROID",
     "downloads": 1317,
-    "likes": 9,
+    "likes": 10,
     "url": "https://huggingface.co/nvidia/Cosmos3-Edge-Policy-DROID",
     "date": "2026-08-14",
     "keyword": "policy",
-    "score": 397.0
+    "score": 397.2
   },
   {
     "model": "qualia-robotics/pi05-so101-candy-b4d4ae76",
