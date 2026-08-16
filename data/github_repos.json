@@ -11,13 +11,43 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13469,
+    "stars": 13471,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-16",
     "topic": "robotics",
-    "score": 5387.7
+    "score": 5388.5
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7905,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-08-16",
+    "topic": "robot-learning",
+    "score": 3162.1
+  },
+  {
+    "repo": "sou350121/VLA-Handbook",
+    "stars": 511,
+    "language": "HTML",
+    "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
+    "url": "https://github.com/sou350121/VLA-Handbook",
+    "date": "2026-08-16",
+    "topic": "robot-learning",
+    "score": 204.5
+  },
+  {
+    "repo": "vllm-project/vllm-omni",
+    "stars": 6133,
+    "language": "Python",
+    "description": "A framework for efficient model inference with omni-modality models",
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "date": "2026-08-16",
+    "topic": "world-model",
+    "score": 2453.3
   },
   {
     "repo": "copper-project/copper-rs",
@@ -41,23 +71,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14560,
+    "stars": 14561,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-15",
     "topic": "robotics",
-    "score": 5824.1
-  },
-  {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7905,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-08-15",
-    "topic": "robot-learning",
-    "score": 3162.1
+    "score": 5824.5
   },
   {
     "repo": "RLinf/RLinf",
@@ -71,13 +91,13 @@
   },
   {
     "repo": "dora-rs/dora",
-    "stars": 3873,
+    "stars": 3874,
     "language": "Rust",
     "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
     "url": "https://github.com/dora-rs/dora",
     "date": "2026-08-15",
     "topic": "embodied-ai",
-    "score": 1549.3
+    "score": 1549.7
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -100,24 +120,14 @@
     "score": 955.7
   },
   {
-    "repo": "sou350121/VLA-Handbook",
-    "stars": 511,
-    "language": "HTML",
-    "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
-    "url": "https://github.com/sou350121/VLA-Handbook",
-    "date": "2026-08-15",
-    "topic": "robot-learning",
-    "score": 204.5
-  },
-  {
     "repo": "flashrt-project/FlashRT",
-    "stars": 506,
+    "stars": 507,
     "language": "C++",
     "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
     "url": "https://github.com/flashrt-project/FlashRT",
     "date": "2026-08-15",
     "topic": "vla",
-    "score": 202.5
+    "score": 202.9
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -148,16 +158,6 @@
     "date": "2026-08-15",
     "topic": "vla",
     "score": 131.3
-  },
-  {
-    "repo": "vllm-project/vllm-omni",
-    "stars": 6132,
-    "language": "Python",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "url": "https://github.com/vllm-project/vllm-omni",
-    "date": "2026-08-15",
-    "topic": "world-model",
-    "score": 2452.9
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -201,13 +201,13 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 2961,
+    "stars": 2963,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-14",
     "topic": "physical-ai",
-    "score": 1184.5
+    "score": 1185.3
   },
   {
     "repo": "Edgenesis/shifu",
@@ -231,13 +231,13 @@
   },
   {
     "repo": "awslabs/awsome-distributed-ai",
-    "stars": 469,
+    "stars": 470,
     "language": "Shell",
     "description": "Collection of best practices, reference architectures, model training examples and utilities to train large models on AWS. ",
     "url": "https://github.com/awslabs/awsome-distributed-ai",
     "date": "2026-08-14",
     "topic": "physical-ai",
-    "score": 187.7
+    "score": 188.1
   },
   {
     "repo": "alireza787b/mavsdk_drone_show",
@@ -271,13 +271,13 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11304,
+    "stars": 11305,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-08-14",
     "topic": "robotics",
-    "score": 4521.7
+    "score": 4522.1
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
@@ -671,13 +671,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15445,
+    "stars": 15446,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6178.1
+    "score": 6178.5
   },
   {
     "repo": "aalmuzairee/squint",
@@ -791,13 +791,13 @@
   },
   {
     "repo": "thu-ml/Causal-Forcing",
-    "stars": 920,
+    "stars": 921,
     "language": "Python",
     "description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\" & Causal Forcing++",
     "url": "https://github.com/thu-ml/Causal-Forcing",
     "date": "2026-07-23",
     "topic": "world-model",
-    "score": 368.1
+    "score": 368.5
   },
   {
     "repo": "NVlabs/physical_ai_av",

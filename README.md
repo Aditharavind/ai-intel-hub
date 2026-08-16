@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-16 00:27 UTC
+Last Updated: 2026-08-16 02:13 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-16 | Turning Energy Drinks Into Rocket Fuel | Hackaday | [link](https://hackaday.com/2026/08/15/turning-energy-drinks-into-rocket-fuel/) |
 | 2026-08-15 | Peeling Fruit with the Power of Steam | Hackaday | [link](https://hackaday.com/2026/08/15/peeling-fruit-with-the-power-of-steam/) |
 | 2026-08-15 | Scanning for Lifesigns with ESP32 and Raspberry Pi | Hackaday | [link](https://hackaday.com/2026/08/15/scanning-for-lifesigns-with-esp32-and-raspberry-pi-now-open-source/) |
 | 2026-08-15 | Radio Shack Toy Returns to Life | Hackaday | [link](https://hackaday.com/2026/08/15/radio-shack-toy-returns-to-life/) |
 | 2026-08-15 | Fully Characterized Systems | Hackaday | [link](https://hackaday.com/2026/08/15/fully-characterized-systems/) |
 | 2026-08-15 | ESP32 Music Sequencer is Clearly Nailing the Y2K Aesthetic | Hackaday | [link](https://hackaday.com/2026/08/15/esp32-music-sequencer-is-clearly-nailing-the-y2k-aesthetic/) |
 | 2026-08-15 | A Tape Deck Gets a Service | Hackaday | [link](https://hackaday.com/2026/08/15/a-tape-deck-gets-a-service/) |
-| 2026-08-15 | Twin Guitar-Playing Robots Will Work for Tab | Hackaday | [link](https://hackaday.com/2026/08/14/twin-guitar-playing-robots-will-work-for-tab/) |
 | 2026-08-15 | GEEKOM IT13 Max Review – Part 3: Ubuntu 26.04 on an Intel Core Ultra 9 185H mini computer | CNX Software | [link](https://www.cnx-software.com/2026/08/15/geekom-it13-max-review-part-3-ubuntu-26-04-on-an-intel-core-ultra-9-185h-mini-computer/) |
 | 2026-08-14 | EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition | CNX Software | [link](https://www.cnx-software.com/2026/08/14/eitwatch-open-source-esp32-s3-smartwatch-implements-planar-eit-hand-gesture-recognition/) |
 | 2026-08-14 | Giada DK320 digital signage player and Edge AI embedded PC supports up to the Intel Core 5 315 Wildcat Lake processor | CNX Software | [link](https://www.cnx-software.com/2026/08/14/giada-dk320-digital-signage-player-and-edge-ai-embedded-pc-supports-up-to-the-intel-core-5-315-wildcat-lake-processor/) |
@@ -78,6 +78,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-16 | tae-roh/vla-pick-sft | 0 | 0 | [link](https://huggingface.co/tae-roh/vla-pick-sft) |
+| 2026-08-16 | hiskiv/cosmos-policy-lam-v2 | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam-v2) |
 | 2026-08-15 | huggingaccounttest/ICRA2027_ROBOT_Spline_Server_Inference_Weights | 0 | 0 | [link](https://huggingface.co/huggingaccounttest/ICRA2027_ROBOT_Spline_Server_Inference_Weights) |
 | 2026-08-15 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-15 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
@@ -86,21 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-15 | sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-15 | geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step10000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step10000) |
 | 2026-08-15 | VLABench/pifast-pretrain-vlabench-primitive-aligned | 0 | 0 | [link](https://huggingface.co/VLABench/pifast-pretrain-vlabench-primitive-aligned) |
-| 2026-08-15 | VLABench/pi05-posttrain-vlabench-primitive-aligned | 0 | 0 | [link](https://huggingface.co/VLABench/pi05-posttrain-vlabench-primitive-aligned) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | ArduPilot/ardupilot | 15692 | C++ | 6276.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13469 | Python | 5387.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13471 | Python | 5388.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| isaac-sim/IsaacLab | 7905 | Python | 3162.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| sou350121/VLA-Handbook | 511 | HTML | 204.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 6133 | Python | 2453.3 | [link](https://github.com/vllm-project/vllm-omni) |
 | copper-project/copper-rs | 1451 | Rust | 580.5 | [link](https://github.com/copper-project/copper-rs) |
 | commaai/openpilot | 63422 | Python | 25368.9 | [link](https://github.com/commaai/openpilot) |
-| google-deepmind/mujoco | 14560 | C++ | 5824.1 | [link](https://github.com/google-deepmind/mujoco) |
-| isaac-sim/IsaacLab | 7905 | Python | 3162.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| google-deepmind/mujoco | 14561 | C++ | 5824.5 | [link](https://github.com/google-deepmind/mujoco) |
 | RLinf/RLinf | 4544 | Python | 1817.7 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3873 | Rust | 1549.3 | [link](https://github.com/dora-rs/dora) |
-| unrealcv/unrealcv | 2207 | C++ | 882.9 | [link](https://github.com/unrealcv/unrealcv) |
-| ace-trump-tech/MindPaw | 2389 | C++ | 955.7 | [link](https://github.com/ace-trump-tech/MindPaw) |
+| dora-rs/dora | 3874 | Rust | 1549.7 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
