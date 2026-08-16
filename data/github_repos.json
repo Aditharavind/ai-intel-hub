@@ -1,5 +1,25 @@
 [
   {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15692,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-08-16",
+    "topic": "robotics",
+    "score": 6276.9
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "stars": 13469,
+    "language": "Python",
+    "description": "A library of agent skills for CAD, CAE and CAM",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "date": "2026-08-16",
+    "topic": "robotics",
+    "score": 5387.7
+  },
+  {
     "repo": "copper-project/copper-rs",
     "stars": 1451,
     "language": "Rust",
@@ -20,16 +40,6 @@
     "score": 25368.9
   },
   {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15692,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-08-15",
-    "topic": "robotics",
-    "score": 6276.9
-  },
-  {
     "repo": "google-deepmind/mujoco",
     "stars": 14560,
     "language": "C++",
@@ -38,16 +48,6 @@
     "date": "2026-08-15",
     "topic": "robotics",
     "score": 5824.1
-  },
-  {
-    "repo": "earthtojake/text-to-cad",
-    "stars": 13467,
-    "language": "Python",
-    "description": "A library of agent skills for CAD, CAE and CAM",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "date": "2026-08-15",
-    "topic": "robotics",
-    "score": 5386.9
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -151,13 +151,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6130,
+    "stars": 6132,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-15",
     "topic": "world-model",
-    "score": 2452.1
+    "score": 2452.9
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -201,13 +201,13 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 2960,
+    "stars": 2961,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-14",
     "topic": "physical-ai",
-    "score": 1184.1
+    "score": 1184.5
   },
   {
     "repo": "Edgenesis/shifu",
@@ -281,13 +281,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2265,
+    "stars": 2212,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-14",
     "topic": "robot-learning",
-    "score": 906.1
+    "score": 884.9
   },
   {
     "repo": "zchoi/Awesome-Embodied-Robotics-and-Agent",
@@ -591,13 +591,13 @@
   },
   {
     "repo": "eust-w/amd-bigym-3dgs-rocm",
-    "stars": 31,
+    "stars": 29,
     "language": "Python",
     "description": "AMD Radeon ROCm reproduction of the DL3DV commercial-kitchen 3DGS shell for BiGym/MuJoCo, with verified W7900D artifacts.",
     "url": "https://github.com/eust-w/amd-bigym-3dgs-rocm",
     "date": "2026-08-06",
     "topic": "lerobot",
-    "score": 12.5
+    "score": 11.7
   },
   {
     "repo": "NVlabs/alpamayo",
@@ -691,13 +691,13 @@
   },
   {
     "repo": "leofan90/Awesome-World-Models",
-    "stars": 1959,
+    "stars": 1960,
     "language": "Python",
     "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
     "url": "https://github.com/leofan90/Awesome-World-Models",
     "date": "2026-07-31",
     "topic": "world-model",
-    "score": 783.7
+    "score": 784.1
   },
   {
     "repo": "Mr-C4T/AB-SO-BOT",
