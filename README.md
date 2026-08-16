@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-16 03:38 UTC
+Last Updated: 2026-08-16 04:24 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| ArduPilot/ardupilot | 15692 | C++ | 6276.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13472 | Python | 5388.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| ArduPilot/ardupilot | 15693 | C++ | 6277.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| earthtojake/text-to-cad | 13474 | Python | 5389.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | isaac-sim/IsaacLab | 7905 | Python | 3162.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3874 | Rust | 1549.7 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 511 | HTML | 204.5 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 6133 | Python | 2453.3 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 6134 | Python | 2453.7 | [link](https://github.com/vllm-project/vllm-omni) |
 | copper-project/copper-rs | 1451 | Rust | 580.5 | [link](https://github.com/copper-project/copper-rs) |
 | commaai/openpilot | 63423 | Python | 25369.3 | [link](https://github.com/commaai/openpilot) |
-| google-deepmind/mujoco | 14561 | C++ | 5824.5 | [link](https://github.com/google-deepmind/mujoco) |
-| RLinf/RLinf | 4544 | Python | 1817.7 | [link](https://github.com/RLinf/RLinf) |
+| google-deepmind/mujoco | 14562 | C++ | 5824.9 | [link](https://github.com/google-deepmind/mujoco) |
+| RLinf/RLinf | 4545 | Python | 1818.1 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 _No items collected yet._
