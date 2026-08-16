@@ -31,13 +31,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13480,
+    "stars": 13482,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-16",
     "topic": "robotics",
-    "score": 5392.1
+    "score": 5392.9
   },
   {
     "repo": "kornia/kornia",
@@ -121,13 +121,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6144,
+    "stars": 6146,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-16",
     "topic": "world-model",
-    "score": 2457.7
+    "score": 2458.5
   },
   {
     "repo": "copper-project/copper-rs",
@@ -141,13 +141,13 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4548,
+    "stars": 4549,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-15",
     "topic": "embodied-ai",
-    "score": 1819.3
+    "score": 1819.7
   },
   {
     "repo": "ace-trump-tech/MindPaw",
@@ -221,13 +221,13 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 2966,
+    "stars": 2967,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-14",
     "topic": "physical-ai",
-    "score": 1186.5
+    "score": 1186.9
   },
   {
     "repo": "Edgenesis/shifu",
@@ -521,13 +521,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3186,
+    "stars": 3187,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-08",
     "topic": "embodied-ai",
-    "score": 1274.5
+    "score": 1274.9
   },
   {
     "repo": "thanhndv212/figaroh-plus",
@@ -580,6 +580,16 @@
     "score": 82.9
   },
   {
+    "repo": "zju3dv/INTACT-JEPA",
+    "stars": 151,
+    "language": "Python",
+    "description": "INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models.",
+    "url": "https://github.com/zju3dv/INTACT-JEPA",
+    "date": "2026-08-06",
+    "topic": "robot-learning",
+    "score": 60.5
+  },
+  {
     "repo": "Open-X-Humanoid/x-humanoid-training-toolchain",
     "stars": 75,
     "language": "Python",
@@ -621,13 +631,13 @@
   },
   {
     "repo": "mani-skill/ManiSkill",
-    "stars": 3227,
+    "stars": 3228,
     "language": "Python",
     "description": "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
     "url": "https://github.com/mani-skill/ManiSkill",
     "date": "2026-08-04",
     "topic": "robot-learning",
-    "score": 1290.9
+    "score": 1291.3
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
@@ -671,13 +681,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15448,
+    "stars": 15449,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6179.3
+    "score": 6179.7
   },
   {
     "repo": "aalmuzairee/squint",
@@ -751,13 +761,13 @@
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",
-    "stars": 3442,
+    "stars": 3443,
     "language": "Python",
     "description": "Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction.",
     "url": "https://github.com/huangjunsen0406/py-xiaozhi",
     "date": "2026-07-26",
     "topic": "embodied-ai",
-    "score": 1376.9
+    "score": 1377.3
   },
   {
     "repo": "manumerous/wb_humanoid_mpc",
@@ -778,16 +788,6 @@
     "date": "2026-07-25",
     "topic": "robotics",
     "score": 5478.5
-  },
-  {
-    "repo": "phi-monster/Galahad",
-    "stars": 151,
-    "language": "Python",
-    "description": "Instruction blindness in vision-language-action policies: diagnosis and a low-rank data cure. Paper, model, deconfounded datasets, generator, and the measurement battery.",
-    "url": "https://github.com/phi-monster/Galahad",
-    "date": "2026-07-25",
-    "topic": "robot-learning",
-    "score": 60.5
   },
   {
     "repo": "thu-ml/Causal-Forcing",
