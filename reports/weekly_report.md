@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-16 07:20 UTC
+Generated: 2026-08-16 08:13 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,9 +14,9 @@ Generated: 2026-08-16 07:20 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63426 | 25370.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63425 | 25370.1 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30309 | 12123.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16124 | 6449.7 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16126 | 6450.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15695 | 6278.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | TianxingChen/Embodied-AI-Guide | 15447 | 6178.9 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 

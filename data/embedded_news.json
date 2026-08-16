@@ -1,5 +1,12 @@
 [
   {
+    "title": "Researchers Hack an Airline Analog",
+    "source": "Hackaday",
+    "date": "2026-08-16",
+    "url": "https://hackaday.com/2026/08/16/how-to-hack-an-airliner/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"564\" src=\"https://hackaday.com/wp-content/uploads/2026/08/737HackFeat.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Modern airliners are rather complicated feats of engineering. Innumerable safety-critical components are connected with tens of miles of wiring, complex digital buses, and dozens (perhaps hundreds) of computers. But, as <a class=\"read-more\" href=\"https://hackaday.com/2026/08/16/how-to-hack-an-airliner/\">&#8230;read more</a>"
+  },
+  {
     "title": "Machine Learning COFFIES “Hears” Sunspots Before We Can See Them",
     "source": "Hackaday",
     "date": "2026-08-16",
@@ -12,6 +19,13 @@
     "date": "2026-08-16",
     "url": "https://hackaday.com/2026/08/15/turning-energy-drinks-into-rocket-fuel/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"469\" src=\"https://hackaday.com/wp-content/uploads/2026/08/energy_drink_as_rocket_fuel_nate_scovill_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Sometimes claimed to give you wings, energy drinks can, at the very least, be used to make rockets fly. This is what [Nate Scovill] did in a recent video, where <a class=\"read-more\" href=\"https://hackaday.com/2026/08/15/turning-energy-drinks-into-rocket-fuel/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Using the Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) on Ubuntu 26.04",
+    "source": "CNX Software",
+    "date": "2026-08-16",
+    "url": "https://www.cnx-software.com/2026/08/16/using-the-khadas-mind-graphics-2-nvidia-rtx-5060-ti-usb4-egpu-on-ubuntu-26-04/",
+    "summary": "<div><img alt=\"Khadas Mind Graphics 2 NVIDIA GeForce RTX 5060 Ti 16GB eGPU Ubuntu 26.04\" class=\"attachment-medium size-medium wp-post-image\" height=\"532\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Khadas-Mind-Graphics-2-NVIDIA-GeForce-RTX-5060-Ti-16GB-eGPU-Ubuntu-26.04-720x532.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>When we used the NVIDIA GeForce RTX 5060 Ti 16GB-based Khadas Mind Graphics 2 dock with a mini PC running Ubuntu 26.04 last week, the USB4-connected eGPU was detected and enabled automatically, but we encountered two issues: very poor performance and the mini PC failed to boot when the dock was removed. The solution is partially documented as part of a long GEEKOM IT13 Max Ubuntu 26.04 review, but I thought it might be useful to document everything in a shorter article for people who own the Khadas Mind Graphics 2 or another NVIDIA Blackwell eGPU connected over USB4/Thunderbolt. Fixing Khadas Mind Graphics 2 performance issues on Ubuntu The Khadas Mind Graphics 2 and NVIDIA graphics card were automatically detected when I connected the dock to an Ubuntu 26.04 mini PC</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/16/using-the-khadas-mind-graphics-2-nvidia-rtx-5060-ti-usb4-egpu-on-ubuntu-26-04/\">Using the Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) on Ubuntu 26.04</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Peeling Fruit with the Power of Steam",
@@ -40,13 +54,6 @@
     "date": "2026-08-15",
     "url": "https://hackaday.com/2026/08/15/fully-characterized-systems/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>A friend from my old hackerspace was in grad school for electrical engineering. He had a professor who would ask, when something went wrong with a student project, “Have you <a class=\"read-more\" href=\"https://hackaday.com/2026/08/15/fully-characterized-systems/\">&#8230;read more</a>"
-  },
-  {
-    "title": "ESP32 Music Sequencer is Clearly Nailing the Y2K Aesthetic",
-    "source": "Hackaday",
-    "date": "2026-08-15",
-    "url": "https://hackaday.com/2026/08/15/esp32-music-sequencer-is-clearly-nailing-the-y2k-aesthetic/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"251\" src=\"https://hackaday.com/wp-content/uploads/2026/08/SageSequencer2-e1786719337962.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Do you remember back when electronics came in clear cases? Back around the turn of the millennium, when translucency was chic. [3DSage] sure does, which is why he went to <a class=\"read-more\" href=\"https://hackaday.com/2026/08/15/esp32-music-sequencer-is-clearly-nailing-the-y2k-aesthetic/\">&#8230;read more</a>"
   },
   {
     "title": "GEEKOM IT13 Max Review – Part 3: Ubuntu 26.04 on an Intel Core Ultra 9 185H mini computer",
@@ -390,13 +397,6 @@
     "date": "2026-08-11",
     "url": "https://www.cnx-software.com/2026/08/11/nxp-frdm-imx95-pro-i-mx-95-board-features-10gbe-faster-6400-mt-s-lpddr5-memory-dual-m-2-expansion/",
     "summary": "<div><img alt=\"NXP FRDM IMX95 PRO i.MX 95 dev board with larger 19×19 mm package, 10GbE, Wi Fi 6 Tri Radio, and dual M.2 expansion\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/NXP-FRDM-IMX95-PRO-i.MX-95-dev-board-with-larger-19×19-mm-package-10GbE-Wi-Fi-6-Tri-Radio-and-dual-M.2-expansion-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>NXP has introduced the FRDM-IMX95-PRO, a compact development board based on the i.MX 95 application processor in the larger 19×19 mm package. It features a 10GbE interface, Wi-Fi 6, Bluetooth 5.4, and 802.15.4 tri-radio connectivity, and two M.2 Key-M slots for AI accelerator cards or SSDs. The board also comes with 16 GB LPDDR5-6400 memory, a 32 GB eMMC flash, and NXP’s GoPoint demo interface for robotics, industrial networking, and vision processing applications. FRDM-IMX95-PRO board specifications: SoC – NXP i.MX 95 CPU Up to 6x Arm Cortex-A55 application cores clocked at 1.8/2.0 GHz with 32KB I-cache and D-cache, 64KB L2 cache, and 512KB L3 cache 1x Arm Cortex-M7 real-time core clocked at 800 MHz 1x Arm Cortex-M33 safety core clocked at 333 MHz GPU – Arm Mali-G310 V2 GPU for 2D/3D acceleration with support for OpenGL ES 3.2, OpenCL 3.0 VPU 1080p60/4Kp30 H.265 and H.264 encode and decode JPEG Encoder, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/11/nxp-frdm-imx95-pro-i-mx-95-board-features-10gbe-faster-6400-mt-s-lpddr5-memory-dual-m-2-expansion/\">NXP FRDM-IMX95-PRO i.MX 95 board features 10GbE, faster 6400 MT/s LPDDR5 memory, dual M.2 expansion</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "GEEKOM IT13 Max review – Part 2: An Intel Core Ultra 9 185H mini PC tested with Windows 11 Pro (in 2026)",
-    "source": "CNX Software",
-    "date": "2026-08-11",
-    "url": "https://www.cnx-software.com/2026/08/11/geekom-it13-max-review-part-2-an-intel-core-ultra-9-185h-mini-pc-tested-with-windows-11-pro-in-2026/",
-    "summary": "<div><img alt=\"GEEKOM IT13 Max review windows 11\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/GEEKOM-IT13-Max-review-windows-11-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We previously checked out the hardware of the GEEKOM IT13 Max mini PC with an unboxing and a teardown of the 16-core Intel Core Ultra 9 185H mini PC in the first part of the review, before booting it up to Windows 11 Pro. We&#8217;ve now had time to test it in more detail. So we will report our experience with the GEEKOM IT13 Max on Windows 11 Pro, covering feature testing, system performance benchmarks, AI benchmarks, YouTube 4K and 8K video playback in Firefox, 2.5GbE and Wi-Fi 6 network performance testing, and thermal performance, as well as measurements of fan noise and power consumption. Since we had already reviewed the GEEKOM GT1 Mega mini PC with the same Intel Meteor Lake CPU in 2024, we&#8217;ll compare the results to report any improvements or regressions since then. Software Overview and Feature Testing The System-&#62;About window confirms we have an &#8220;IT13_Max&#8221; [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/11/geekom-it13-max-review-part-2-an-intel-core-ultra-9-185h-mini-pc-tested-with-windows-11-pro-in-2026/\">GEEKOM IT13 Max review &#8211; Part 2: An Intel Core Ultra 9 185H mini PC tested with Windows 11 Pro (in 2026)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Nordic nRF9151 Enables Cellular and Satellite IoT Devices",
