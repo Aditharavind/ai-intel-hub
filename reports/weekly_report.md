@@ -1,9 +1,15 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-17 22:10 UTC
+Generated: 2026-08-17 23:10 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-08-14 | Generation-Powered Inference for Distribution-Valued Outcomes | [link](https://arxiv.org/pdf/2608.14542v1) |
+| 2026-08-14 | Spatiotemporal Tube-Based Safety-Certificate for Autonomous Navigation of Articulated Vehicles | [link](https://arxiv.org/pdf/2608.14531v1) |
+| 2026-08-14 | Marionette: Predicting World States, Rendering Geometry, Painting Appearance | [link](https://arxiv.org/pdf/2608.14530v1) |
+| 2026-08-14 | Twin: Playing an Unknown Game with a Test-Time Digital Twin | [link](https://arxiv.org/pdf/2608.14490v1) |
+| 2026-08-14 | Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes | [link](https://arxiv.org/pdf/2608.14481v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |

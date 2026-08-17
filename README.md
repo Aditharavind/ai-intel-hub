@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-17 22:10 UTC
+Last Updated: 2026-08-17 23:10 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,23 +49,35 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-17 | One Man’s Perfect Retro-Style Monitor Takes All Inputs | Hackaday | [link](https://hackaday.com/2026/08/17/one-mans-perfect-retro-style-monitor-takes-all-inputs/) |
 | 2026-08-17 | OLEDs Have Gained Brightness, Not Burn-In Resistance | Hackaday | [link](https://hackaday.com/2026/08/17/oleds-have-gained-brightness-not-burn-in-resistance/) |
 | 2026-08-17 | Using Starlink’s Satellites to Study Earth’s Upper Atmosphere | Hackaday | [link](https://hackaday.com/2026/08/17/using-starlinks-satellites-to-study-earths-upper-atmosphere/) |
 | 2026-08-17 | Linux Fu: Improving FTP | Hackaday | [link](https://hackaday.com/2026/08/17/linux-fu-improving-ftp/) |
 | 2026-08-17 | Toy Computer Restored | Hackaday | [link](https://hackaday.com/2026/08/17/looking-at-an-old-toy-computer/) |
 | 2026-08-17 | Hackaday Europe 2026: Open Source Hardware Goes Underground, Literally | Hackaday | [link](https://hackaday.com/2026/08/17/hackaday-europe-2026-open-source-hardware-goes-underground-literally/) |
 | 2026-08-17 | Printing FDM Filaments that are just Plain Weird | Hackaday | [link](https://hackaday.com/2026/08/17/printing-fdm-filaments-that-are-just-plain-weird/) |
-| 2026-08-17 | May This Balloon Banjo Resonate With You | Hackaday | [link](https://hackaday.com/2026/08/17/may-this-balloon-banjo-resonate-with-you/) |
 | 2026-08-17 | SONOFF Hydro DUO review – A dual-zone BLE and Zigbee water valve tested with eWeLink and Home Assistant | CNX Software | [link](https://www.cnx-software.com/2026/08/17/sonoff-hydro-duo-review-a-dual-zone-ble-and-zigbee-water-valve-tested-with-ewelink-and-home-assistant/) |
 | 2026-08-17 | Pi-Ener-lite – A compact 18650 UPS board for Raspberry Pi Zero with RTC and fuel gauge | CNX Software | [link](https://www.cnx-software.com/2026/08/17/pi-ener-lite-a-compact-18650-ups-board-for-raspberry-pi-zero-with-rtc-and-fuel-gauge/) |
 | 2026-08-17 | Luckfox Lyra PLC – A Linux-based Rockchip RK3506B industrial controller with RS232, RS422, RS485, CAN bus, and relays | CNX Software | [link](https://www.cnx-software.com/2026/08/17/luckfox-lyra-plc-a-linux-based-rockchip-rk3506b-industrial-controller-with-rs232-rs422-rs485-can-bus-and-relays/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-08-14 | Generation-Powered Inference for Distribution-Valued Outcomes | [link](https://arxiv.org/pdf/2608.14542v1) |
+| 2026-08-14 | Spatiotemporal Tube-Based Safety-Certificate for Autonomous Navigation of Articulated Vehicles | [link](https://arxiv.org/pdf/2608.14531v1) |
+| 2026-08-14 | Marionette: Predicting World States, Rendering Geometry, Painting Appearance | [link](https://arxiv.org/pdf/2608.14530v1) |
+| 2026-08-14 | Twin: Playing an Unknown Game with a Test-Time Digital Twin | [link](https://arxiv.org/pdf/2608.14490v1) |
+| 2026-08-14 | Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes | [link](https://arxiv.org/pdf/2608.14481v1) |
+| 2026-08-14 | Expected Free Energy-based Informative Path Planning for Robotic Mars Exploration | [link](https://arxiv.org/pdf/2608.14466v1) |
+| 2026-08-14 | THRIVE: Therapeutic Humanoid Robot In Virtual Environment | [link](https://arxiv.org/pdf/2608.14462v1) |
+| 2026-08-14 | Control-Informed Constraint Adaptation in Minimum-Time Trajectory Planning for Autonomous Racing | [link](https://arxiv.org/pdf/2608.14448v1) |
+| 2026-08-14 | Surface Roughness and Filler Restructuring in Magneto-Active Elastomers: Magnetically Hard versus Magnetically Soft Particles | [link](https://arxiv.org/pdf/2608.14433v1) |
+| 2026-08-14 | CytoBERT: A Foundation Model for Cytometry Data | [link](https://arxiv.org/pdf/2608.14414v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-17 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp | 0 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp) |
 | 2026-08-17 | puppet-robotics/golf-model-mcap-test | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-mcap-test) |
 | 2026-08-17 | locht131/gr00t_n17_ot_ablation_adjustbottle_a_robot_only_ep25_adjust_bottle_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_ot_ablation_adjustbottle_a_robot_only_ep25_adjust_bottle_bs64) |
 | 2026-08-17 | sun-robot/smolvla_amazinghand_rps | 0 | 0 | [link](https://huggingface.co/sun-robot/smolvla_amazinghand_rps) |
@@ -75,7 +87,6 @@ _No items collected yet._
 | 2026-08-17 | RLinf/RLinf-Pi0-NEW-RoboTwin-SFT-adjust_bottle | 0 | 0 | [link](https://huggingface.co/RLinf/RLinf-Pi0-NEW-RoboTwin-SFT-adjust_bottle) |
 | 2026-08-17 | Codingpae/robotwin | 0 | 0 | [link](https://huggingface.co/Codingpae/robotwin) |
 | 2026-08-17 | sun-robot/pi05_amazinghand_rps | 0 | 0 | [link](https://huggingface.co/sun-robot/pi05_amazinghand_rps) |
-| 2026-08-17 | locht131/gr00t_n17_ot_ablation_adjustbottle_a_robot_only_25k_adjust_bottle_bs64 | 5 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_ot_ablation_adjustbottle_a_robot_only_25k_adjust_bottle_bs64) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -113,7 +124,7 @@ _No items collected yet._
 | 2026-08-17 | Indian startups chase emerging global market with physical AI robots - Business Standard | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmZRMVJKTHBzZnR2Z2djcmZRZU0waW5QcWpZLV9YVlVmMzhrT3A0bEp3cFI0RUc3cGRYSkk2b1JGakx5REpiQ3lyNURGQmNqeU1kWDVvQUhJLW5WeV9FaHJwZkhkYUxuX3lsa0JRdDNxd2RwR2tyLVBkZk96alZVWGpBN2tEMHpIM09rcHJOMWtQUWYwd3pGRzFlZzhIZld6Smp2Y1FXZTJuX2xjemxENndJTklVVkplYmRIMTBzY3plR1BxbGNDUTBIR3NyOVRGZkEwMmQtNXE3WWxpeE9ERm5B0gHiAUFVX3lxTE5uZlExUkpMcHNmdHZnZ2NyZlFlTTBpblBxalktX1hWVWYzOGtPcDRsSndwUjRFRzdwZFhKSTZvUkZqTHlESmJDeXI1REZCY2p5TWRYNW9BSEktblZ5X0VocnBmSGRhTG5feWxrQlF0M3F3ZHBHa3ItUGRmT3pqVlVYakE3a0QwekgzT2twck4xa1BRZjB3ekZHMWVnOEhmV3pKanZjUVdlMm5fbGN6bEQ2d0lOSVVWSmViZEgxMHNjemVHUHFsY0NRMEhHc3I5VEZmQTAyZC01cTdZbGl4T0RGbkE?oc=5) |
 | 2026-08-17 | Seoul AI Hub to Host Physical AI Hackathon with OpenAI, Team Human and Industry Partners - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yTjFZT1hBNS15WERNeW5xSDRyczA1cS1FaTFmZURaNEx1VFAtaE01SGMzSzVWSmJISzB4QklTZ0JoV2pHcWNVU0o3eW04WEdoTWU0?oc=5) |
 | 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZk1YcnhyaUhPVndxbUtySzVTbEtPNF9KbEU1RnhuNlkwR0laNlR2bmlEUW9JeWR6Q0wyTktvNDdSM2JlZzYwbEVEanhqVGpJZjcwNjJFTGVTYWt5MmFlMnBvYV9qSG5vN1dhckcteUtJOXZRendqU0dzeUY0WmpQUC01SGZMWFdK?oc=5) |
-| 2026-08-17 | Unitree Says Its New Superman Robot Just Outran Usain Bolt - startupfortune.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPMmhsXzNWQnlGV3RfbjlWc0E2YkJpQWVQS0I3UmwxOGhFLWhCTmsyS3gxUU1QWnVlVFN6b0p3N0lMOG5oS2UwZ2FaZ0FFTzRUM3NwajJZa01JdHYyaDNVTUJOVWItTFRVZWRVYkEtMmFmVE5yYUVqa0lnYzRVTW5adVN4UzBnUlRjNEEtY1JHcw?oc=5) |
+| 2026-08-17 | Unitree Says Its New Superman Robot Just Outran Usain Bolt - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPMmhsXzNWQnlGV3RfbjlWc0E2YkJpQWVQS0I3UmwxOGhFLWhCTmsyS3gxUU1QWnVlVFN6b0p3N0lMOG5oS2UwZ2FaZ0FFTzRUM3NwajJZa01JdHYyaDNVTUJOVWItTFRVZWRVYkEtMmFmVE5yYUVqa0lnYzRVTW5adVN4UzBnUlRjNEEtY1JHcw?oc=5) |
 | 2026-08-15 | China's Infiforce Raises Nearly $150M in Funding to Develop 'Ego Native World Model' for Robots - AI Insider | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjhWNkR2a19lSkphT296X1FvTVRKOS11SzNWc29HbUhXUl9oSGk5Wm4yNEtFcWxHVWh2Y3pBaFllNFQtQ0FyYm1NeFNEM2RyQVJJNXpyNTJGYWpBWUNiVjBCMmlRR0FBRUZ0dkw1cndSRjZlX0VKZEFiaFNMZDFqdFctNWRPNllwbXJJZmVBbU9MT3BfTjZ5d1RkajROdFVYTHJlZWlDNG91YWJaMGJJV0d1VF9WZXhPNHJMVmZKUWJFMTRnS3VOdA?oc=5) |
 | 2026-08-14 | Thai startup Amity Robotics closes US$7.0 million Seed round to build a globally competitive physical AI company - East Ventures | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2I0bzFuaWl6OVBLSFlYbzh5TC1hWVpIR2pvYUZUbGRNbjNHemFnT190MWhya2k3N2N4ZVU0VmhudzBqcEhkU3BLYTluRl9tbEh3V3hYX2VJeWZlM2o3N0xCYUhZZHJmQjlsWllQVVd4MEx3U2hMcGhTaUxFeXZETFFlVnlmVjRNZjdOYWtjTDUzbF9leEZR?oc=5) |
 | 2026-08-12 | Employment immunity: the quiet revolution of robotics and physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lcURSMEFORUVpUHBsejVWMVhTYnZMbDJ6aUVVeVRNRDg5Tm12NDE3SnBDeGNhYmVCNC14TFFPVTJZcldIbUZwNzdNWXpBVllRTXhlRC1EV3hmQ0NNbnUyTnlOQ2hLR1pI?oc=5) |
@@ -125,13 +136,13 @@ _No items collected yet._
 | 2026-08-17 | Director of Technical Accounting & Reporting | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6142438004) |
 | 2026-08-17 | Director, Operations Program Management | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6111228004) |
 | 2026-08-17 | Senior Staff Data Scientist, Robotics | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127729004) |
+| 2026-08-17 | Vice President, Strategic Program Management Office (SPMO) | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6139722004) |
 | 2026-08-14 | Finance Manager (SP)  | Figure AI | São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4705464006) |
 | 2026-08-14 | Helix AI Engineer, Training Performance | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4705296006) |
 | 2026-08-14 | Staff Software Engineer, Data Platform | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6144405004) |
 | 2026-08-13 | Recruiting Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4658691006) |
 | 2026-08-13 | CAD Administrator | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6138024004) |
 | 2026-08-13 | Senior Solutions Engineer | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6132323004) |
-| 2026-08-11 | Project Lead, Data Creators (CDMX) | Figure AI | Ciudad de México | [link](https://job-boards.greenhouse.io/figureai/jobs/4702544006) |
 
 ## Automation
 
