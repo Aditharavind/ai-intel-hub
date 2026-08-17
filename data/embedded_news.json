@@ -35,6 +35,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"474\" src=\"https://hackaday.com/wp-content/uploads/2026/08/famicom_network_system_installed_custom_card_throaty_mumbo_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Usually, the name &#8216;Famicom&#8217; and the associated Nintendo Entertainment System (NES) don&#8217;t exactly bring to mind downloadable content and online services. However, at least in Japan, a modem add-on for <a class=\"read-more\" href=\"https://hackaday.com/2026/08/16/using-the-famicom-network-system-in-2026/\">&#8230;read more</a>"
   },
   {
+    "title": "SONOFF Hydro DUO review – A dual-zone BLE and Zigbee water valve tested with eWeLink and Home Assistant",
+    "source": "CNX Software",
+    "date": "2026-08-17",
+    "url": "https://www.cnx-software.com/2026/08/17/sonoff-hydro-duo-review-a-dual-zone-ble-and-zigbee-water-valve-tested-with-ewelink-and-home-assistant/",
+    "summary": "<div><img alt=\"SONOFF Hydro DUO review eWeLink Home Assistant\" class=\"attachment-medium size-medium wp-post-image\" height=\"481\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/SONOFF-Hydro-DUO-review-eWeLink-Home-Assistant-720x481.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ITEAD has sent us a review sample of the SONOFF Hydro DUO (SWV-ZF2E) dual-channel Zigbee 3.0 and Bluetooth 5 LE smart water valve. The device supports up to 12 custom watering schedules, integrates a water flow meter, and features alert systems for leak risks, low battery, and insufficient water. The device has a maximum Zigbee communication range of 130 meters in open, unobstructed areas. It is primarily designed for the eWeLink app but also works with MQTT-compatible platforms such as Home Assistant. In this review, we will cover everything from unboxing, installation, and getting started with the SONOFF Hydro DUO via Bluetooth LE and Zigbee (through the SONOFF NSPanel Pro Gen2) using the eWeLink app, before switching to Home Assistant and creating an automation system leveraging moisture data from the XIAO Soil Moisture Sensor. SONOFF Hydro DUO unboxing We received the device in a retail package which clearly indicates we [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/sonoff-hydro-duo-review-a-dual-zone-ble-and-zigbee-water-valve-tested-with-ewelink-and-home-assistant/\">SONOFF Hydro DUO review &#8211; A dual-zone BLE and Zigbee water valve tested with eWeLink and Home Assistant</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Pi-Ener-lite – A compact 18650 UPS board for Raspberry Pi Zero with RTC and fuel gauge",
     "source": "CNX Software",
     "date": "2026-08-17",
@@ -53,7 +60,7 @@
     "source": "CNX Software",
     "date": "2026-08-17",
     "url": "https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/",
-    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a830f3fae1e5761796087/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a8324a9c3f89759875095/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "It’s All About Battery Life",
@@ -124,6 +131,13 @@
     "date": "2026-08-17",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-sorts-out-the-new-pm-2026-08/",
     "summary": "<p>The new PM has made made it clear to the Cabinet that, with the next general election due by mid-2029,  the No.1 task of the new government  is to be [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-sorts-out-the-new-pm-2026-08/\">Ed Becomes The PM’s Fixer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "SideQuestCrafting Made Mira’s Gok-Do!",
+    "source": "Adafruit",
+    "date": "2026-08-17",
+    "url": "https://blog.adafruit.com/2026/08/17/sidequestcrafting-made-miras-gok-do/",
+    "summary": "No visit with my 4 year old niece is complete without her explaining KPop Demon Hunters to her sister, 1, and cousin, 1 1/2. And she&#8217;s totally right to try to get the little ones on board &#8211; Rumi, Mira, and Zoe and awesome. Check out SideQuestCrafting&#8217;s take on Mira&#8217;s Gok-Do on YouTube Did you [&#8230;]"
   },
   {
     "title": "Hackaday Links: August 16, 2026",
@@ -308,13 +322,6 @@
     "summary": "Shared by Michele on MakerWorld: a spooky-cute twist on my popular Flexi Skeleton! The body keeps the same super-wiggly, ultra-poseable design everyone loves: articulated arms, legs, head, and pelvis for endless fidgeting and fun. The head has been completely redesigned to capture that iconic flower-shaped creature vibe… delightfully creepy and totally adorable. Download the files [&#8230;]"
   },
   {
-    "title": "Smart E-Paper Desk Dashboard – ESP32-C6 SuperMini + 7.5″ Display #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-08-13",
-    "url": "https://blog.adafruit.com/2026/08/13/smart-e-paper-desk-dashboard-esp32-c6-supermini-7-5-display-3dthursday-3dprinting/",
-    "summary": "VoIP shares: An always-on ultra-low-power e-paper desk dashboard powered by the ESP32-C6 SuperMini (WiFi + Zigbee + battery in one). Use it for clock, weather, 3D printer status, Proxmox monitor, calendar events, shipment tracking, stock market, or Zigbee integrations. Partial-refresh optimization for responsive dashboard-style updates. Full GitHub repository with sample code. Requires minimum soldering skills. [&#8230;]"
-  },
-  {
     "title": "Astrolight and ATMOS Space Cargo Aim for First In-Flight Laser Link Between Re-Entry Vehicle and Satellite",
     "source": "EE Journal",
     "date": "2026-08-13",
@@ -348,13 +355,6 @@
     "date": "2026-08-13",
     "url": "https://www.eejournal.com/article/verific-is-even-more-terrific-than-you-thought/",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/08/max-0509-image-for-home-page-verific-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />If you cast your mind back to the 1980s and 1990s, the electronic design automation (EDA) landscape was a very different place to the one we find ourselves in today. There were lots and lots of small EDA companies, each beavering away on some clever new tool or technology. It was an exciting time to &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/verific-is-even-more-terrific-than-you-thought/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Verific Is Even More Terrific Than You Thought\"</span></a>"
-  },
-  {
-    "title": "Apollo Automation launches $40 official ESPHome Starter Kit with ESP32-C6 board, four FPC modules",
-    "source": "CNX Software",
-    "date": "2026-08-12",
-    "url": "https://www.cnx-software.com/2026/08/12/apollo-automation-official-esphome-starter-kit-with-esp32-c6-board-four-fpc-modules/",
-    "summary": "<div><img alt=\"Official ESPHome Starter Kit\" class=\"attachment-medium size-medium wp-post-image\" height=\"687\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Official-ESPHome-Starter-Kit-720x687.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Apollo Automation&#8217;s ESPHome Starter Kit is the first official ESPHome starter kit designed and engineered by Apollo Automation in partnership with the Open Home Foundation. It features the ESPHome C6 board with the ESP32-C6-MINI-1 wireless module and two FPC expansion connectors for four modules part of the kit for PIR motion, temperature, and humidity sensing, as well as a button, a buzzer, and ten RGB LEDs. ESPHome Starter Kit highlights and specifications: Main board &#8211; ESPHome C6 Board Wireless Module &#8211; ESP32-C6-MINI-1 with 2.4GHz Wi-Fi 6, Bluetooth LE, and Thread/Zigbee connectivity Expansion &#8211; 2x 14-pin FPC connectors Misc Reset and Boot buttons RGB LED Power Supply 5V via USB-C port Optional rechargeable LiPo battery Dimensions  &#8211; TBD Modules MH-SR602 PIR motion module with 0 to 3.5 m range AHT20F temperature and humidity module with ±0.3 °C and ±2% RH accuracy 10x RGB LEDs and a piezo buzzer via ESPHome Casita [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/12/apollo-automation-official-esphome-starter-kit-with-esp32-c6-board-four-fpc-modules/\">Apollo Automation launches $40 official ESPHome Starter Kit with ESP32-C6 board, four FPC modules</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "TI Unveils CAN XL Transceiver",
