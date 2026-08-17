@@ -1,13 +1,13 @@
 [
   {
     "repo": "NVIDIA/skills",
-    "stars": 2983,
+    "stars": 2984,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-17",
     "topic": "physical-ai",
-    "score": 1193.3
+    "score": 1193.7
   },
   {
     "repo": "Edgenesis/shifu",
@@ -41,13 +41,13 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16129,
+    "stars": 16130,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-08-17",
     "topic": "robotics",
-    "score": 6451.7
+    "score": 6452.1
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -71,13 +71,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13538,
+    "stars": 13542,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-17",
     "topic": "robotics",
-    "score": 5415.3
+    "score": 5416.9
   },
   {
     "repo": "kornia/kornia",
@@ -91,13 +91,13 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11313,
+    "stars": 11314,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-08-17",
     "topic": "robotics",
-    "score": 4525.3
+    "score": 4525.7
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -300,6 +300,16 @@
     "score": 1260.1
   },
   {
+    "repo": "johnsutor/so101-nexus",
+    "stars": 35,
+    "language": "Python",
+    "description": "Full-stack robot learning for the SO-101 arm: teleoperation, imitation learning, and RL in MuJoCo.",
+    "url": "https://github.com/johnsutor/so101-nexus",
+    "date": "2026-08-17",
+    "topic": "lerobot",
+    "score": 14.1
+  },
+  {
     "repo": "DLR-RM/stable-baselines3",
     "stars": 13701,
     "language": "Python",
@@ -311,13 +321,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2225,
+    "stars": 2226,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-16",
     "topic": "robot-learning",
-    "score": 890.1
+    "score": 890.5
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -381,13 +391,13 @@
   },
   {
     "repo": "ace-trump-tech/MindPaw",
-    "stars": 2392,
+    "stars": 2391,
     "language": "C++",
     "description": "🐕 MindPaw — 基于 ESP8266 的桌面级四足机器狗，支持语音交互 (HLK-V20)、手势识别 (OV2640+轻量MLP)、AI 对话 (豆包大模型)、PAD 情感计算、WiFi 网页遥控。总物料成本 ≈¥50，代码/PCB/3D打印全开源，适合机器人入门、嵌入式AI、HRI 情感交互研究。",
     "url": "https://github.com/ace-trump-tech/MindPaw",
     "date": "2026-08-15",
     "topic": "vla",
-    "score": 956.9
+    "score": 956.5
   },
   {
     "repo": "syswonder/robonix",
@@ -570,16 +580,6 @@
     "score": 64.5
   },
   {
-    "repo": "johnsutor/so101-nexus",
-    "stars": 35,
-    "language": "Python",
-    "description": "Full-stack robot learning for the SO-101 arm: teleoperation, imitation learning, and RL in MuJoCo.",
-    "url": "https://github.com/johnsutor/so101-nexus",
-    "date": "2026-08-10",
-    "topic": "lerobot",
-    "score": 14.1
-  },
-  {
     "repo": "robocasa/robocasa",
     "stars": 1650,
     "language": "Python",
@@ -651,13 +651,13 @@
   },
   {
     "repo": "mani-skill/ManiSkill",
-    "stars": 3231,
+    "stars": 3232,
     "language": "Python",
     "description": "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
     "url": "https://github.com/mani-skill/ManiSkill",
     "date": "2026-08-04",
     "topic": "robot-learning",
-    "score": 1292.5
+    "score": 1292.9
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
@@ -701,13 +701,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15481,
+    "stars": 15482,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6192.5
+    "score": 6192.9
   },
   {
     "repo": "aalmuzairee/squint",

@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hackaday Europe 2026: Open Source Hardware Goes Underground, Literally",
+    "source": "Hackaday",
+    "date": "2026-08-17",
+    "url": "https://hackaday.com/2026/08/17/hackaday-europe-2026-open-source-hardware-goes-underground-literally/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/08/DSCF6867_featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>These days open source is everywhere, and frankly, we couldn&#8217;t be happier about it. But even with as prevalent as open software and hardware has become, we still occasionally hear <a class=\"read-more\" href=\"https://hackaday.com/2026/08/17/hackaday-europe-2026-open-source-hardware-goes-underground-literally/\">&#8230;read more</a>"
+  },
+  {
     "title": "Printing FDM Filaments that are just Plain Weird",
     "source": "Hackaday",
     "date": "2026-08-17",
@@ -46,7 +53,14 @@
     "source": "CNX Software",
     "date": "2026-08-17",
     "url": "https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/",
-    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a83054c0c96a300492448/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a830f3fae1e5761796087/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "It’s All About Battery Life",
+    "source": "Electronics Weekly",
+    "date": "2026-08-17",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/its-all-about-battery-life-2026-08/",
+    "summary": "<p>When asked by Statista Consumer Insights what matters most to U.S. smartphone users, the top answers are bluntly practical: 61% name battery life as a top criterion, followed by fast [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/its-all-about-battery-life-2026-08/\">It’s All About Battery Life</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Security challenges of neuromorphic intelligence on embedded systems",
@@ -126,13 +140,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"318\" src=\"https://hackaday.com/wp-content/uploads/2026/08/tea.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It used to be a rite of passage to build some sort of AM radio receiver. Many people started with a crystal radio, of course, but you&#8217;d graduate to maybe <a class=\"read-more\" href=\"https://hackaday.com/2026/08/16/another-radio-on-a-chip-design/\">&#8230;read more</a>"
   },
   {
-    "title": "Laser Layers for (Almost) Isotropicly Strong Prints",
-    "source": "Hackaday",
-    "date": "2026-08-16",
-    "url": "https://hackaday.com/2026/08/16/laser-layers-for-almost-isotropicly-strong-prints/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/laser-layer-3d-print.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If there&#8217;s one defining factor about 3D printing you have to account for when you&#8217;re making a design, it&#8217;s probably layer adhesion. Sure, there are a lot of factors to <a class=\"read-more\" href=\"https://hackaday.com/2026/08/16/laser-layers-for-almost-isotropicly-strong-prints/\">&#8230;read more</a>"
-  },
-  {
     "title": "Using the Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) on Ubuntu 26.04",
     "source": "CNX Software",
     "date": "2026-08-16",
@@ -194,13 +201,6 @@
     "date": "2026-08-14",
     "url": "https://www.embedded.com/altera-expands-ddr5-and-lpddr5-support-across-agilex-fpgas/",
     "summary": "<p>Altera Corp. has expanded memory support across its Agilex FPGA portfolio with Quartus Prime Pro Edition Software version 26.1.1. The release adds DDR5, LPDDR5, and LPDDR5X-compatible memory capabilities to additional Agilex devices, giving developers greater flexibility when optimizing system bandwidth, power consumption, PCB space, and component availability. For Agilex 7 M-Series devices, the latest software [...]</p>\n<p>The post <a href=\"https://www.embedded.com/altera-expands-ddr5-and-lpddr5-support-across-agilex-fpgas/\">Altera Expands DDR5 and LPDDR5 Support Across Agilex FPGAs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "How To: Develop Edge AI on a Raspberry Pi with LiteRT and Gemma",
-    "source": "Electronics Weekly",
-    "date": "2026-08-14",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/how-to-develop-edge-ai-on-a-raspberry-pi-with-litert-and-gemma-2026-08/",
-    "summary": "<p>This is an interesting one from Google's Developer blog: an example project on Edge AI using a Raspberry Pi along with LiteRT and Gemma.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/how-to-develop-edge-ai-on-a-raspberry-pi-with-litert-and-gemma-2026-08/\">How To: Develop Edge AI on a Raspberry Pi with LiteRT and Gemma</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Gemma Translator – Live Translating Offline on a Raspberry Pi 5   #piday #raspberrypi",
