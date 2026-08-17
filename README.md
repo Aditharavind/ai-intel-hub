@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-17 10:18 UTC
+Last Updated: 2026-08-17 11:13 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-17 | New policy ideas for the Intelligence Age | OpenAI | [link](https://openai.com/index/new-policy-ideas-for-the-intelligence-age) |
 | 2026-08-14 | State of Open Models: Summer 2026 Observations | Hugging Face | [link](https://huggingface.co/blog/state-of-open-models-summer-2026) |
 | 2026-08-13 | The builder’s guide to GPT‑5.6 | OpenAI | [link](https://openai.com/index/builders-guide-to-gpt-5-6) |
 | 2026-08-13 | Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed | OpenAI | [link](https://openai.com/index/previewing-ultrafast) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-12 | From assistance to execution: How enterprises put AI to work | OpenAI | [link](https://openai.com/index/how-enterprises-put-ai-to-work) |
 | 2026-08-12 | How RingCentral builds AI-native work from engineering to ops | OpenAI | [link](https://openai.com/index/ringcentral) |
 | 2026-08-12 | Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis | Hugging Face | [link](https://huggingface.co/blog/allenai/olmoearth-embeddings) |
-| 2026-08-12 | LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-17 | Printing FDM Filaments that are just Plain Weird | Hackaday | [link](https://hackaday.com/2026/08/17/printing-fdm-filaments-that-are-just-plain-weird/) |
 | 2026-08-17 | May This Balloon Banjo Resonate With You | Hackaday | [link](https://hackaday.com/2026/08/17/may-this-balloon-banjo-resonate-with-you/) |
 | 2026-08-17 | More On Wave Overhangs for 3D Printing | Hackaday | [link](https://hackaday.com/2026/08/16/more-on-wave-overhangs-for-3d-printing/) |
 | 2026-08-17 | Using the Famicom Network System in 2026 | Hackaday | [link](https://hackaday.com/2026/08/16/using-the-famicom-network-system-in-2026/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-17 | Dstl, Lancaster Uni research innovations for thermal cameras | Electronics Weekly | [link](https://www.electronicsweekly.com/news/research-news/dstl-lancaster-uni-research-innovations-for-thermal-cameras-2026-08/) |
 | 2026-08-17 | Nvidia books TSMC 1.6nm process for Feynman in H2 2028 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/nvidia-books-tsmc-1-6nm-process-for-feynman-in-h2-2028-2026-08/) |
 | 2026-08-17 | D2C phone calls get nearer | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/d2c-phone-calls-get-nearer-2026-08/) |
-| 2026-08-17 | XPU to CPU ratio in datacentres transitioning from 10:1 to 1:1 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/xpu-to-cpu-ratio-transitioning-from-101-to-11-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2979 | Python | 1191.7 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2981 | Python | 1192.5 | [link](https://github.com/NVIDIA/skills) |
 | Edgenesis/shifu | 1431 | Go | 572.5 | [link](https://github.com/Edgenesis/shifu) |
 | commaai/openpilot | 63431 | Python | 25372.5 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16129 | Python | 6451.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15699 | C++ | 6279.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13531 | Python | 5412.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14572 | C++ | 5828.9 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13535 | Python | 5414.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11314 | Python | 4525.7 | [link](https://github.com/kornia/kornia) |
 | rerun-io/rerun | 11313 | Rust | 4525.3 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7907 | Python | 3162.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3879 | Rust | 1551.7 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

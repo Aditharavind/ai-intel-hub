@@ -1,5 +1,12 @@
 [
   {
+    "title": "Printing FDM Filaments that are just Plain Weird",
+    "source": "Hackaday",
+    "date": "2026-08-17",
+    "url": "https://hackaday.com/2026/08/17/printing-fdm-filaments-that-are-just-plain-weird/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"503\" src=\"https://hackaday.com/wp-content/uploads/2026/08/canadian_filament_carbon_capture_pumpkin_spice_zack_freedman_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The fun thing about thermopolymers like PLA is that you can blend in additives, some of which are necessary to make it at all usable, while so many other additives <a class=\"read-more\" href=\"https://hackaday.com/2026/08/17/printing-fdm-filaments-that-are-just-plain-weird/\">&#8230;read more</a>"
+  },
+  {
     "title": "May This Balloon Banjo Resonate With You",
     "source": "Hackaday",
     "date": "2026-08-17",
@@ -39,7 +46,7 @@
     "source": "CNX Software",
     "date": "2026-08-17",
     "url": "https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/",
-    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a82d89bf0330790955250/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a82eb03e2ecd013553615/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Dstl, Lancaster Uni research innovations for thermal cameras",
@@ -60,7 +67,7 @@
     "source": "Electronics Weekly",
     "date": "2026-08-17",
     "url": "https://www.electronicsweekly.com/news/business/d2c-phone-calls-get-nearer-2026-08/",
-    "summary": "<p>Starlink has recently deployed its first batch of V3 satellites which deliver direct-to-cell (D2C) services. To avoid congestion, Starlink lowered the V3 satellites&#8217; operating altitude to about 350 km, aiming [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/d2c-phone-calls-get-nearer-2026-08/\">D2C phone calls get nearer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Starlink has recently deployed its first batch of V3 satellites, which deliver direct-to-cell (D2C) services. To avoid congestion, Starlink lowered the V3 satellites&#8217; operating altitude to about 350km, aiming to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/d2c-phone-calls-get-nearer-2026-08/\">D2C phone calls get nearer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "XPU to CPU ratio in datacentres transitioning from 10:1 to 1:1",
@@ -110,13 +117,6 @@
     "date": "2026-08-16",
     "url": "https://hackaday.com/2026/08/16/laser-layers-for-almost-isotropicly-strong-prints/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/laser-layer-3d-print.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If there&#8217;s one defining factor about 3D printing you have to account for when you&#8217;re making a design, it&#8217;s probably layer adhesion. Sure, there are a lot of factors to <a class=\"read-more\" href=\"https://hackaday.com/2026/08/16/laser-layers-for-almost-isotropicly-strong-prints/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Building an Actuator for a Walking Robot",
-    "source": "Hackaday",
-    "date": "2026-08-16",
-    "url": "https://hackaday.com/2026/08/16/building-an-actuator-for-a-walking-robot/",
-    "summary": "<div><img alt=\"A test setup for an actuator is shown on a benchtop. A power supply connects to a cylindrical actuator, which has an arm pressing against a load cell. The load cell&#039;s output is shown on a computer screen, which is labelled &quot;Torque&quot;.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/robot_actuator_test.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Unlike biological systems, which can use muscles, robots that try to imitate them don’t have particularly fast, powerful, compact linear actuators available. This puts walking robots at a particular disadvantage, <a class=\"read-more\" href=\"https://hackaday.com/2026/08/16/building-an-actuator-for-a-walking-robot/\">&#8230;read more</a>"
   },
   {
     "title": "Using the Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) on Ubuntu 26.04",
