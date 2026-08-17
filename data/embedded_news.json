@@ -77,6 +77,13 @@
     "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a833b24c416c176178802/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "SensiBel and Aizip Combine Optical MEMS and Edge AI Beamforming",
+    "source": "Embedded.com",
+    "date": "2026-08-17",
+    "url": "https://www.embedded.com/sensibel-and-aizip-combine-optical-mems-and-edge-ai-beamforming/",
+    "summary": "<p>SensiBel and Aizip are collaborating on a speech-processing solution that combines sensiBel's optical MEMS microphone technology with Aizip's edge AI beamforming algorithms. The companies aim to improve speech clarity and recognition in demanding acoustic environments, including smart glasses, true wireless stereo (TWS) earbuds, and industrial speech applications. Aizip's beamforming solution combines AI-based noise reduction, dereverberation [...]</p>\n<p>The post <a href=\"https://www.embedded.com/sensibel-and-aizip-combine-optical-mems-and-edge-ai-beamforming/\">SensiBel and Aizip Combine Optical MEMS and Edge AI Beamforming</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
     "title": "Energy Efficiency in the AI Age virtual event open for registration",
     "source": "Electronics Weekly",
     "date": "2026-08-17",
@@ -145,6 +152,20 @@
     "date": "2026-08-17",
     "url": "https://www.electronicsweekly.com/news/panasonic-proposes-thick-film-current-resistors-as-alternative-to-metal-shunt-resistors-2026-08/",
     "summary": "<p>Panasonic Industry offers its Thick Film Current Sensing Resistors as a cost-effective alternative to conventional metal shunt resistors for selected low- and medium-current sensing applications. Not all current-sensing applications require [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/panasonic-proposes-thick-film-current-resistors-as-alternative-to-metal-shunt-resistors-2026-08/\">Panasonic proposes thick film current resistors as alternative to metal shunt resistors</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
+    "date": "2026-08-17",
+    "url": "https://blog.adafruit.com/2026/08/17/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-17/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+  },
+  {
+    "title": "Miss Twisted’s Mermaid Ballgown Fin Prop",
+    "source": "Adafruit",
+    "date": "2026-08-17",
+    "url": "https://blog.adafruit.com/2026/08/17/mermaid-ballgown-fin-prop/",
+    "summary": "Miss Twisted made this incredible fin prop for their mermaid ballgown. If you&#8217;re working on your own mermaid costume and looking to add more props, check out these guides from Erin St. Blaine in the Adafruit Learn System. Glowing Scale Armor Light-Up Costumes in Harsh Environments Ursula&#8217;s Seashell Necklace"
   },
   {
     "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
@@ -357,20 +378,6 @@
     "summary": "<p>OpenLight and Tower Semiconductor Ltd. have expanded the design ecosystem for Tower's PH18DA indium phosphide (InP)-on-silicon photonics platform. OpenLight's photonic process design kit (PDK) is now available within Cadence Design Systems' electronic design automation (EDA) tools, enabling developers to design photonic integrated circuits (PICs) using an established IC design environment. The PDK has been developed [...]</p>\n<p>The post <a href=\"https://www.embedded.com/openlight-and-tower-accelerate-photonic-ic-development/\">OpenLight and Tower Accelerate Photonic IC Development</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Articulated Skeleton Halloween Flexy – Print-in-Place with Keychain #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-08-13",
-    "url": "https://blog.adafruit.com/2026/08/13/articulated-skeleton-halloween-flexy-print-in-place-with-keychain-3dthursday-3dprinting/",
-    "summary": "Shared by Printpals on MakerWorld: A funny human skeleton — articulated and flexible for easy posing, quick to print, and simple to assemble. Print-in-place, no supports. Includes a keychain hole on top of the head. Alternative Halloween skeleton variant. Download the files and learn more Every Thursday is #3dthursday here at Adafruit! The DIY 3D [&#8230;]"
-  },
-  {
-    "title": "Flexi Skeleton – Fun and Spooky with GITD + Magnet + Keychain #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-08-13",
-    "url": "https://blog.adafruit.com/2026/08/13/flexi-skeleton-fun-and-spooky-with-gitd-magnet-keychain-3dthursday-3dprinting/",
-    "summary": "michelem shares: A jiggly articulated skeleton with head, arms, torso, and legs that shake when moved. Print-in-place with only 27 minutes in single color or 1 hour multicolor. Glow-in-the-dark filament recommended. Includes magnet slot (fridge companion) and keyring hole. Alternative Halloween skeleton — GITD-friendly and fastest to print of the batch. By Michele download the [&#8230;]"
-  },
-  {
     "title": "Astrolight and ATMOS Space Cargo Aim for First In-Flight Laser Link Between Re-Entry Vehicle and Satellite",
     "source": "EE Journal",
     "date": "2026-08-13",
@@ -418,12 +425,5 @@
     "date": "2026-08-11",
     "url": "https://www.embedded.com/silicon-motion-unveils-performashape-technology-for-ai-ssds/",
     "summary": "<p>Silicon Motion Technology Corp. has introduced its MonTitan SSD reference design kit (RDK), incorporating the company's next-generation PerformaShape technology. Presented at FMS2026, the platform is designed for agentic AI infrastructure, where enterprise SSDs are increasingly required to operate as a persistent memory tier for applications such as key-value (KV) cache offload. The solution targets predictable [...]</p>\n<p>The post <a href=\"https://www.embedded.com/silicon-motion-unveils-performashape-technology-for-ai-ssds/\">Silicon Motion Unveils PerformaShape Technology for AI SSDs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "HBM, Agentic AI Platform for PCB Design, Ku-Band RFoF Transmitter: Embedded Week Insights",
-    "source": "Embedded.com",
-    "date": "2026-08-07",
-    "url": "https://www.embedded.com/hbm-agentic-ai-platform-for-pcb-design-ku-band-rfof-transmitter-embedded-week-insights/",
-    "summary": "<p>Here's a roundup of this week's must-read articles. We'll look into the latest developments in high-bandwidth memory, Cadence's agentic AI platform for PCB Design, and a Ku-Band RFoF transmitter. Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete list of news and articles from our website. NEWS Partnership Delivers AI-Powered Design to Engineers [...]</p>\n<p>The post <a href=\"https://www.embedded.com/hbm-agentic-ai-platform-for-pcb-design-ku-band-rfof-transmitter-embedded-week-insights/\">HBM, Agentic AI Platform for PCB Design, Ku-Band RFoF Transmitter: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
