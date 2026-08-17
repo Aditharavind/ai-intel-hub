@@ -1,5 +1,12 @@
 [
   {
+    "title": "Toy Computer Restored",
+    "source": "Hackaday",
+    "date": "2026-08-17",
+    "url": "https://hackaday.com/2026/08/17/looking-at-an-old-toy-computer/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/digicompFeat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In the 1960s, the home computer was barely a twinkle in anyone&#8217;s eye. This was the decade in which computers were used by a handful of companies and organizations and <a class=\"read-more\" href=\"https://hackaday.com/2026/08/17/looking-at-an-old-toy-computer/\">&#8230;read more</a>"
+  },
+  {
     "title": "Hackaday Europe 2026: Open Source Hardware Goes Underground, Literally",
     "source": "Hackaday",
     "date": "2026-08-17",
@@ -60,7 +67,7 @@
     "source": "CNX Software",
     "date": "2026-08-17",
     "url": "https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/",
-    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a8324a9c3f89759875095/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a832521c8ab0609441981/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "It’s All About Battery Life",
@@ -140,18 +147,53 @@
     "summary": "No visit with my 4 year old niece is complete without her explaining KPop Demon Hunters to her sister, 1, and cousin, 1 1/2. And she&#8217;s totally right to try to get the little ones on board &#8211; Rumi, Mira, and Zoe and awesome. Check out SideQuestCrafting&#8217;s take on Mira&#8217;s Gok-Do on YouTube Did you [&#8230;]"
   },
   {
+    "title": "From Prototype to Production: Building Connected Products with Particle – Digi and Mouser",
+    "source": "EE Journal",
+    "date": "2026-08-17",
+    "url": "https://www.eejournal.com/chalk_talks/from-prototype-to-production-building-connected-products-with-particle-digi-and-mouser/",
+    "summary": "&#160; In this episode of Chalk Talk, Erik Fasnacht from Digi and Amelia Dalton explore how Particle helps engineering teams streamline every stage of connected product development. They also investigate how Particle provides an integrated platform designed to simplify IoT development and accelerate time to market and examine how building with production in mind from &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/chalk_talks/from-prototype-to-production-building-connected-products-with-particle-digi-and-mouser/\">Read More &#8594;<span class=\"screen-reader-text\"> \"From Prototype to Production: Building Connected Products with Particle – Digi and Mouser\"</span></a>"
+  },
+  {
+    "title": "Highly rugged GAPS & HAPS aerospace proximity sensors from Honeywell now available through Powell Electronics",
+    "source": "EE Journal",
+    "date": "2026-08-17",
+    "url": "https://www.eejournal.com/industry_news/highly-rugged-gaps-haps-aerospace-proximity-sensors-from-honeywell-now-available-through-powell-electronics/",
+    "summary": "Now available through Powell Electronics, the supplier of connectors and more for high-rel applications including defence, aerospace and industrial, are the GAPS (General Aerospace Proximity Sensors) and HAPS (Harsh Application Proximity Sensors) proximity sensors from Honeywell. Both sensor series incorporate Honeywell’s patented integrated health monitoring functionality, however the products have some technical differences that allow them &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/highly-rugged-gaps-haps-aerospace-proximity-sensors-from-honeywell-now-available-through-powell-electronics/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Highly rugged GAPS &#038; HAPS aerospace proximity sensors from Honeywell now available through Powell Electronics\"</span></a>"
+  },
+  {
+    "title": "sensiBel and Aizip Deliver Superior Physical AI to Speech Applications, Improving Clarity and Intelligibility",
+    "source": "EE Journal",
+    "date": "2026-08-17",
+    "url": "https://www.eejournal.com/industry_news/sensibel-and-aizip-deliver-superior-physical-ai-to-speech-applications-improving-clarity-and-intelligibility/",
+    "summary": "sensiBel, the leader in optical MEMS sensing, and Aizip, the pioneer in artificial intelligence (AI) applications for endpoint and edge devices, today announced a technology collaboration that combines sensiBel’s industry-leading optical MEMS microphone with Aizip’s edge AI beamforming solution — to deliver dramatic improvements in speech clarity and recognition, even in the noisiest environments. “The best &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/sensibel-and-aizip-deliver-superior-physical-ai-to-speech-applications-improving-clarity-and-intelligibility/\">Read More &#8594;<span class=\"screen-reader-text\"> \"sensiBel and Aizip Deliver Superior Physical AI to Speech Applications, Improving Clarity and Intelligibility\"</span></a>"
+  },
+  {
+    "title": "Peraso Targets Defense and UAV Markets with New PRM2145 Jam-Resistant Communications Module",
+    "source": "EE Journal",
+    "date": "2026-08-17",
+    "url": "https://www.eejournal.com/industry_news/peraso-targets-defense-and-uav-markets-with-new-prm2145-jam-resistant-communications-module-2/",
+    "summary": "Peraso Inc. (NASDAQ: PRSO) (&#8220;Peraso&#8221; or the &#8220;Company&#8221;), a pioneer in mmWave wireless technology solutions, today announced the introduction of the “PRM2145,” a new wireless communications module specifically designed to address the requirements of unmanned aerial vehicles (UAV), autonomous systems, and defense communications applications. The launch of the PRM2145 marks an important expansion of Peraso&#8217;s product &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/peraso-targets-defense-and-uav-markets-with-new-prm2145-jam-resistant-communications-module-2/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Peraso Targets Defense and UAV Markets with New PRM2145 Jam-Resistant Communications Module\"</span></a>"
+  },
+  {
+    "title": "Cinch Adds Five MD801 Connector Configurations for Space- and Weight-Constrained Defense Applications",
+    "source": "EE Journal",
+    "date": "2026-08-17",
+    "url": "https://www.eejournal.com/industry_news/cinch-adds-five-md801-connector-configurations-for-space-and-weight-constrained-defense-applications/",
+    "summary": "Cinch Connectivity Solutions, a Bel group company and global leader in reliable connectivity solutions, today announced the expansion of its Mil/Aero Circular MD801 Series, adding five new configurations designed to meet the weight, space, and reliability demands of modern defense platforms. This expansion builds on Cinch’s proven MD801 portfolio, which includes a Picatinny CLIK-compliant and &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/cinch-adds-five-md801-connector-configurations-for-space-and-weight-constrained-defense-applications/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Cinch Adds Five MD801 Connector Configurations for Space- and Weight-Constrained Defense Applications\"</span></a>"
+  },
+  {
+    "title": "New 3D Flash Memory Technology from KIOXIA and Sandisk Achieves Industry’s Highest Bit Density for QLC NAND",
+    "source": "EE Journal",
+    "date": "2026-08-17",
+    "url": "https://www.eejournal.com/industry_news/new-3d-flash-memory-technology-from-kioxia-and-sandisk-achieves-industrys-highest-bit-density-for-qlc-nand/",
+    "summary": "KIOXIA Europe GmbH, announced that KIOXIA Corporation, a subsidiary of KIOXIA Holdings Corporation (TOKYO: 285A) and Sandisk Corporation (Nasdaq: SNDK) unveiled their next-generation Quad-Level-Cell (QLC) 3D flash memory technology, which delivers up to 60% increase in bit density compared to their 8th-generation, surpassing 37 Gb/mm² and setting the industry benchmark[1] for bit density, performance and power efficiency. Leveraging the companies’ revolutionary CMOS &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/new-3d-flash-memory-technology-from-kioxia-and-sandisk-achieves-industrys-highest-bit-density-for-qlc-nand/\">Read More &#8594;<span class=\"screen-reader-text\"> \"New 3D Flash Memory Technology from KIOXIA and Sandisk Achieves Industry’s Highest Bit Density for QLC NAND\"</span></a>"
+  },
+  {
     "title": "Hackaday Links: August 16, 2026",
     "source": "Hackaday",
     "date": "2026-08-16",
     "url": "https://hackaday.com/2026/08/16/hackaday-links-august-16-2026/",
     "summary": "<div><img alt=\"Hackaday Links Column Banner\" class=\"attachment-large size-large wp-post-image\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We&#8217;re no strangers to unusual hardware failures around these parts, but even so, a swarm of jellyfish clogging up the works is a new one to us. That&#8217;s exactly what <a class=\"read-more\" href=\"https://hackaday.com/2026/08/16/hackaday-links-august-16-2026/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Another Radio on a Chip Design",
-    "source": "Hackaday",
-    "date": "2026-08-16",
-    "url": "https://hackaday.com/2026/08/16/another-radio-on-a-chip-design/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"318\" src=\"https://hackaday.com/wp-content/uploads/2026/08/tea.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It used to be a rite of passage to build some sort of AM radio receiver. Many people started with a crystal radio, of course, but you&#8217;d graduate to maybe <a class=\"read-more\" href=\"https://hackaday.com/2026/08/16/another-radio-on-a-chip-design/\">&#8230;read more</a>"
   },
   {
     "title": "Using the Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) on Ubuntu 26.04",
@@ -343,20 +385,6 @@
     "summary": "Peraso Inc. (NASDAQ: PRSO) (&#8220;Peraso&#8221; or the &#8220;Company&#8221;), a pioneer in mmWave wireless technology solutions, today announced the introduction of the “PRM2145,” a new wireless communications module specifically designed to address the requirements of unmanned aerial vehicles (UAV), autonomous systems, and defense communications applications. The launch of the PRM2145 marks an important expansion of Peraso&#8217;s product portfolio &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/peraso-targets-defense-and-uav-markets-with-new-prm2145-jam-resistant-communications-module/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Peraso Targets Defense and UAV Markets with New PRM2145 Jam-Resistant Communications Module\"</span></a>"
   },
   {
-    "title": "Hackster launches Build the Autodesk University 2027 Product design challenge",
-    "source": "EE Journal",
-    "date": "2026-08-13",
-    "url": "https://www.eejournal.com/industry_news/hackster-launches-build-the-autodesk-university-2027-product-design-challenge/",
-    "summary": "Hackster.io, an Avnet community, in partnership with Autodesk, Arduino, Qualcomm and PCBWay, has launched a new competition challenging developers, engineers and makers to design the next official product for Autodesk University 2027. The winning concept will be manufactured and distributed to approximately 750 attendees at Autodesk University 2027. Using Autodesk Fusion, the Arduino® UNO™ Q &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/hackster-launches-build-the-autodesk-university-2027-product-design-challenge/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Hackster launches Build the Autodesk University 2027 Product design challenge\"</span></a>"
-  },
-  {
-    "title": "Verific Is Even More Terrific Than You Thought",
-    "source": "EE Journal",
-    "date": "2026-08-13",
-    "url": "https://www.eejournal.com/article/verific-is-even-more-terrific-than-you-thought/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/08/max-0509-image-for-home-page-verific-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />If you cast your mind back to the 1980s and 1990s, the electronic design automation (EDA) landscape was a very different place to the one we find ourselves in today. There were lots and lots of small EDA companies, each beavering away on some clever new tool or technology. It was an exciting time to &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/verific-is-even-more-terrific-than-you-thought/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Verific Is Even More Terrific Than You Thought\"</span></a>"
-  },
-  {
     "title": "TI Unveils CAN XL Transceiver",
     "source": "Embedded.com",
     "date": "2026-08-12",
@@ -369,34 +397,6 @@
     "date": "2026-08-12",
     "url": "https://www.embedded.com/microchip-upgrades-polarfire-fpga-ethernet-sensor-bridge/",
     "summary": "<p>Microchip Technology Inc. has introduced Revision 2.0 PolarFire FPGA Ethernet Sensor Bridge for Ethernet-based AI inferencing at the edge. The smaller, production-ready board for standardized sensor integration, leveraging Nvidia Holoscan Sensor Bridge (HSB) technology, supports twice the number of cameras and offers a lower price point than the first generation. Thanks to the power efficiency, security, and reliability [...]</p>\n<p>The post <a href=\"https://www.embedded.com/microchip-upgrades-polarfire-fpga-ethernet-sensor-bridge/\">Microchip Upgrades PolarFire FPGA Ethernet Sensor Bridge</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Mouser Explores the Future of Quantum Computing and Its Potential to Transform Engineering",
-    "source": "EE Journal",
-    "date": "2026-08-12",
-    "url": "https://www.eejournal.com/industry_news/mouser-explores-the-future-of-quantum-computing-and-its-potential-to-transform-engineering/",
-    "summary": "Mouser Electronics, Inc., the authorized global distributor with the newest electronic components and industrial automation products, today announced the latest installment of its Empowering Innovation Together (EIT) technology series, A Quantum Leap in Computer Processing. This installment explores the emerging field of quantum computing and examines how the principles of quantum mechanics could unlock new &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/mouser-explores-the-future-of-quantum-computing-and-its-potential-to-transform-engineering/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Mouser Explores the Future of Quantum Computing and Its Potential to Transform Engineering\"</span></a>"
-  },
-  {
-    "title": "Aalyria and ALL.SPACE bring Spacetime-Orchestrated Hydra MAX terminals into operational deployment for U.S. Government hybrid architectures",
-    "source": "EE Journal",
-    "date": "2026-08-12",
-    "url": "https://www.eejournal.com/industry_news/aalyria-and-all-space-bring-spacetime-orchestrated-hydra-max-terminals-into-operational-deployment-for-u-s-government-hybrid-architectures/",
-    "summary": "Deployment marks Hydra MAX’s move from strategic collaboration to operational demonstration in U.S. Government environments Terminals will run Aalyria’s Spacetime orchestration software integrated directly with the Hydra MAX platform Deployment supports U.S. Government  an expanding set of initiatives aligned to U.S. missile-defense and joint-force data-transport architectures Spacetime is hardware-agnostic and already runs across multiple terminal &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/aalyria-and-all-space-bring-spacetime-orchestrated-hydra-max-terminals-into-operational-deployment-for-u-s-government-hybrid-architectures/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Aalyria and ALL.SPACE bring Spacetime-Orchestrated Hydra MAX terminals into operational deployment for U.S. Government hybrid architectures\"</span></a>"
-  },
-  {
-    "title": "Cinch-Fibreco JCON Junior Bulkhead Expanded Beam Adapter now available from Lane Electronics",
-    "source": "EE Journal",
-    "date": "2026-08-12",
-    "url": "https://www.eejournal.com/industry_news/cinch-fibreco-jcon-junior-bulkhead-expanded-beam-adapter-now-available-from-lane-electronics/",
-    "summary": "Specialist connector distributor Lane Electronics has announced availability of the newly released Cinch-Fibreco JCON series. The JCON Junior Bulkhead Expanded Beam Adapter is designed to simplify panel-mounted fibre-optic connectivity by enabling standard patchcords to be used between the adapter and the transceiver. Until now, high-performance expanded beam connector panel adapters have not offered the same straightforward installation &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/cinch-fibreco-jcon-junior-bulkhead-expanded-beam-adapter-now-available-from-lane-electronics/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Cinch-Fibreco JCON Junior Bulkhead Expanded Beam Adapter now available from Lane Electronics\"</span></a>"
-  },
-  {
-    "title": "TDK introduces programmable DIN-rail mount isolated DC-DC converters with 120 W and 240 W outputs and wide conversion ratios",
-    "source": "EE Journal",
-    "date": "2026-08-12",
-    "url": "https://www.eejournal.com/industry_news/tdk-introduces-programmable-din-rail-mount-isolated-dc-dc-converters-with-120-w-and-240-w-outputs-and-wide-conversion-ratios/",
-    "summary": "TDK Corporation (TSE:6762) announces the introduction of the TDK-Lambda DDSM 120 W and 240 W programmable DC-DC converters. These products feature a wide input and output voltage range with an isolated design. The DDSM series also offers remote control and real time monitoring via Modbus over USB using the PowerCMC control and monitoring center. In &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/tdk-introduces-programmable-din-rail-mount-isolated-dc-dc-converters-with-120-w-and-240-w-outputs-and-wide-conversion-ratios/\">Read More &#8594;<span class=\"screen-reader-text\"> \"TDK introduces programmable DIN-rail mount isolated DC-DC converters with 120 W and 240 W outputs and wide conversion ratios\"</span></a>"
   },
   {
     "title": "Nordic nRF9151 Enables Cellular and Satellite IoT Devices",

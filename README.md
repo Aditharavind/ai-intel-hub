@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-17 15:12 UTC
+Last Updated: 2026-08-17 16:11 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-17 | Toy Computer Restored | Hackaday | [link](https://hackaday.com/2026/08/17/looking-at-an-old-toy-computer/) |
 | 2026-08-17 | Hackaday Europe 2026: Open Source Hardware Goes Underground, Literally | Hackaday | [link](https://hackaday.com/2026/08/17/hackaday-europe-2026-open-source-hardware-goes-underground-literally/) |
 | 2026-08-17 | Printing FDM Filaments that are just Plain Weird | Hackaday | [link](https://hackaday.com/2026/08/17/printing-fdm-filaments-that-are-just-plain-weird/) |
 | 2026-08-17 | May This Balloon Banjo Resonate With You | Hackaday | [link](https://hackaday.com/2026/08/17/may-this-balloon-banjo-resonate-with-you/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-17 | Pi-Ener-lite – A compact 18650 UPS board for Raspberry Pi Zero with RTC and fuel gauge | CNX Software | [link](https://www.cnx-software.com/2026/08/17/pi-ener-lite-a-compact-18650-ups-board-for-raspberry-pi-zero-with-rtc-and-fuel-gauge/) |
 | 2026-08-17 | Luckfox Lyra PLC – A Linux-based Rockchip RK3506B industrial controller with RS232, RS422, RS485, CAN bus, and relays | CNX Software | [link](https://www.cnx-software.com/2026/08/17/luckfox-lyra-plc-a-linux-based-rockchip-rk3506b-industrial-controller-with-rs232-rs422-rs485-can-bus-and-relays/) |
 | 2026-08-17 | Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5 | CNX Software | [link](https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/) |
-| 2026-08-17 | It’s All About Battery Life | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/consumer/its-all-about-battery-life-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -98,9 +98,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | zauberzeug/nicegui | 16130 | Python | 6452.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15700 | C++ | 6280.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14572 | C++ | 5828.9 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13542 | Python | 5416.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| DLR-RM/stable-baselines3 | 13701 | Python | 5480.5 | [link](https://github.com/DLR-RM/stable-baselines3) |
+| earthtojake/text-to-cad | 13545 | Python | 5418.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | kornia/kornia | 11314 | Python | 4525.7 | [link](https://github.com/kornia/kornia) |
-| rerun-io/rerun | 11314 | Rust | 4525.7 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -120,11 +120,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-17 | The 25 most promising robotics startups in 2026, according to investors - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZVNJSW5xMEFIa05WREJJd3ZUNVN1aUFXSkhIbUpwdmplUU9lN1lNcUdVLUZJeV9BS2VMeS1YZDBNU08zSnpsaWJaTTFjUE1ySkQ5VmVMSnMzWlh5YTlDemxCeGk5SU5DWXdic1pEVE5SMXA5YUJlc2VrY1BwMEkzREY5dGhPRmFia3c?oc=5) |
-| 2026-08-17 | Neura CEO: AI is the Key to Robotics' Future - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWVYVnJmYmM5YjFIS3J5YldFX2RTUzlwS3ZvT3NvTFRmd0x2X2RSUHF1NVdHdExTX3FDbDU1WGRFb1M1VVl5M2dCdGF3cVRVM1pfMndWY3pLWlFtQVUtQzVDOHh0WnRWSnBRYW56R0dQbzNCSTdhUjJVRUQ1bmVGY2tDaENUMmRTXzBrdFVGVkRiX0Ut?oc=5) |
+| 2026-08-17 | Neura CEO: AI is the Key to Robotics' Future - startuphub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWVYVnJmYmM5YjFIS3J5YldFX2RTUzlwS3ZvT3NvTFRmd0x2X2RSUHF1NVdHdExTX3FDbDU1WGRFb1M1VVl5M2dCdGF3cVRVM1pfMndWY3pLWlFtQVUtQzVDOHh0WnRWSnBRYW56R0dQbzNCSTdhUjJVRUQ1bmVGY2tDaENUMmRTXzBrdFVGVkRiX0Ut?oc=5) |
 | 2026-08-17 | Micron Launches a $250 Million Fund to Bankroll the AI Startups Buying Its Chips - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFNEcEtDMGo5cndmTld4YW5qLVNhcWVBLVp2NzdEbzVnZGVrbjZsc0Z5d2gzUUlPMjZEdXBiSkt1Nm1BSlEzNW93OWxybzJkZVNONlVNU1U2TnVKWldVT0xwai1kY0RhZ044UVQ5ZXlvVkZyNDd5SDM2SU93TkZldVpyYXJ0VlJZVFJINFEwaXoyY2N4RzlSaXBLUjcwNnItT2ZEbkItbUtuX2M?oc=5) |
 | 2026-08-17 | Indian startups chase emerging global market with physical AI robots - Business Standard | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmZRMVJKTHBzZnR2Z2djcmZRZU0waW5QcWpZLV9YVlVmMzhrT3A0bEp3cFI0RUc3cGRYSkk2b1JGakx5REpiQ3lyNURGQmNqeU1kWDVvQUhJLW5WeV9FaHJwZkhkYUxuX3lsa0JRdDNxd2RwR2tyLVBkZk96alZVWGpBN2tEMHpIM09rcHJOMWtQUWYwd3pGRzFlZzhIZld6Smp2Y1FXZTJuX2xjemxENndJTklVVkplYmRIMTBzY3plR1BxbGNDUTBIR3NyOVRGZkEwMmQtNXE3WWxpeE9ERm5B0gHiAUFVX3lxTE5uZlExUkpMcHNmdHZnZ2NyZlFlTTBpblBxalktX1hWVWYzOGtPcDRsSndwUjRFRzdwZFhKSTZvUkZqTHlESmJDeXI1REZCY2p5TWRYNW9BSEktblZ5X0VocnBmSGRhTG5feWxrQlF0M3F3ZHBHa3ItUGRmT3pqVlVYakE3a0QwekgzT2twck4xa1BRZjB3ekZHMWVnOEhmV3pKanZjUVdlMm5fbGN6bEQ2d0lOSVVWSmViZEgxMHNjemVHUHFsY0NRMEhHc3I5VEZmQTAyZC01cTdZbGl4T0RGbkE?oc=5) |
 | 2026-08-17 | Seoul AI Hub to Host Physical AI Hackathon with OpenAI, Team Human and Industry Partners - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yTjFZT1hBNS15WERNeW5xSDRyczA1cS1FaTFmZURaNEx1VFAtaE01SGMzSzVWSmJISzB4QklTZ0JoV2pHcWNVU0o3eW04WEdoTWU0?oc=5) |
-| 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZk1YcnhyaUhPVndxbUtySzVTbEtPNF9KbEU1RnhuNlkwR0laNlR2bmlEUW9JeWR6Q0wyTktvNDdSM2JlZzYwbEVEanhqVGpJZjcwNjJFTGVTYWt5MmFlMnBvYV9qSG5vN1dhckcteUtJOXZRendqU0dzeUY0WmpQUC01SGZMWFdK?oc=5) |
+| 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - techinasia.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZk1YcnhyaUhPVndxbUtySzVTbEtPNF9KbEU1RnhuNlkwR0laNlR2bmlEUW9JeWR6Q0wyTktvNDdSM2JlZzYwbEVEanhqVGpJZjcwNjJFTGVTYWt5MmFlMnBvYV9qSG5vN1dhckcteUtJOXZRendqU0dzeUY0WmpQUC01SGZMWFdK?oc=5) |
 | 2026-08-16 | LG Bets Its Actuators and Batteries on a Humanoid Robot Built With Nvidia - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGtiLUJZdmhoZjNYaHBDS2g5dDlrSkJIenRuVV80Zm9paVJVdEFQb296dFd5VWpiNkNEYXRHZ1NnRFdKbXRMLXY1SnJCRE9NbzRGVV92UkVSbFlNUWVPLU94S2xILUhxOGt1RXFXMV9qQ3BFWjlQOWRIbWxxeUZEbXlGalFNNzlRTUNjZHNhNmdOUWZhenlVSXRzVW54SE1LdTJJ?oc=5) |
 | 2026-08-15 | China's Infiforce Raises Nearly $150M in Funding to Develop 'Ego Native World Model' for Robots - AI Insider | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjhWNkR2a19lSkphT296X1FvTVRKOS11SzNWc29HbUhXUl9oSGk5Wm4yNEtFcWxHVWh2Y3pBaFllNFQtQ0FyYm1NeFNEM2RyQVJJNXpyNTJGYWpBWUNiVjBCMmlRR0FBRUZ0dkw1cndSRjZlX0VKZEFiaFNMZDFqdFctNWRPNllwbXJJZmVBbU9MT3BfTjZ5d1RkajROdFVYTHJlZWlDNG91YWJaMGJJV0d1VF9WZXhPNHJMVmZKUWJFMTRnS3VOdA?oc=5) |
 | 2026-08-14 | Thai startup Amity Robotics closes US$7.0 million Seed round to build a globally competitive physical AI company - East Ventures | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2I0bzFuaWl6OVBLSFlYbzh5TC1hWVpIR2pvYUZUbGRNbjNHemFnT190MWhya2k3N2N4ZVU0VmhudzBqcEhkU3BLYTluRl9tbEh3V3hYX2VJeWZlM2o3N0xCYUhZZHJmQjlsWllQVVd4MEx3U2hMcGhTaUxFeXZETFFlVnlmVjRNZjdOYWtjTDUzbF9leEZR?oc=5) |
