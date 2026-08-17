@@ -1,5 +1,14 @@
 [
   {
+    "model": "OpenWAM/New_OpenWAM_Robotwin_Clean_SFT_5epoch",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/New_OpenWAM_Robotwin_Clean_SFT_5epoch",
+    "date": "2026-08-17",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "OpenWAM/New_OpenWAM_Robotwin_Full_SFT_9890",
     "downloads": 0,
     "likes": 0,
@@ -72,6 +81,15 @@
     "score": 0.4
   },
   {
+    "model": "siyuhsu/vla_arena_robustness_50k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/siyuhsu/vla_arena_robustness_50k",
+    "date": "2026-08-17",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "Grigorij/Domino_sum_vla_jepa",
     "downloads": 0,
     "likes": 0,
@@ -124,6 +142,24 @@
     "date": "2026-08-17",
     "keyword": "vla",
     "score": 1.6
+  },
+  {
+    "model": "stevenqian/red_block_pi05_armcam_policy0",
+    "downloads": 9,
+    "likes": 0,
+    "url": "https://huggingface.co/stevenqian/red_block_pi05_armcam_policy0",
+    "date": "2026-08-17",
+    "keyword": "policy",
+    "score": 2.8
+  },
+  {
+    "model": "zonglin11/humanalite_smolvla_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zonglin11/humanalite_smolvla_policy",
+    "date": "2026-08-17",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "MichaelHui/kl4rc_policy",
@@ -198,15 +234,6 @@
     "score": 0.1
   },
   {
-    "model": "fanzh03/robotwin_fewshot",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/fanzh03/robotwin_fewshot",
-    "date": "2026-08-16",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step30000",
     "downloads": 6,
     "likes": 0,
@@ -252,15 +279,6 @@
     "score": 0.1
   },
   {
-    "model": "B111ue/fcl-vla-r4-seed0-clients",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/B111ue/fcl-vla-r4-seed0-clients",
-    "date": "2026-08-16",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "Pradheep1647/eagle3-speculative-decoding-policy",
     "downloads": 0,
     "likes": 0,
@@ -277,15 +295,6 @@
     "date": "2026-08-16",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "stevenqian/red_block_pi05_armcam_policy0",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/stevenqian/red_block_pi05_armcam_policy0",
-    "date": "2026-08-16",
-    "keyword": "policy",
-    "score": 2.8
   },
   {
     "model": "s1eepypillow/task1_act_policy",
@@ -421,15 +430,6 @@
     "date": "2026-08-15",
     "keyword": "policy",
     "score": 7.0
-  },
-  {
-    "model": "stevenqian/red_block_smolvla_armcam_policy0",
-    "downloads": 97,
-    "likes": 0,
-    "url": "https://huggingface.co/stevenqian/red_block_smolvla_armcam_policy0",
-    "date": "2026-08-15",
-    "keyword": "policy",
-    "score": 29.2
   },
   {
     "model": "snu-aidas/Dynin-Robotics",
