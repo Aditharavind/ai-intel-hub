@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-17 16:11 UTC
+Last Updated: 2026-08-17 17:14 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-17 | Linux Fu: Improving FTP | Hackaday | [link](https://hackaday.com/2026/08/17/linux-fu-improving-ftp/) |
 | 2026-08-17 | Toy Computer Restored | Hackaday | [link](https://hackaday.com/2026/08/17/looking-at-an-old-toy-computer/) |
 | 2026-08-17 | Hackaday Europe 2026: Open Source Hardware Goes Underground, Literally | Hackaday | [link](https://hackaday.com/2026/08/17/hackaday-europe-2026-open-source-hardware-goes-underground-literally/) |
 | 2026-08-17 | Printing FDM Filaments that are just Plain Weird | Hackaday | [link](https://hackaday.com/2026/08/17/printing-fdm-filaments-that-are-just-plain-weird/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-17 | SONOFF Hydro DUO review – A dual-zone BLE and Zigbee water valve tested with eWeLink and Home Assistant | CNX Software | [link](https://www.cnx-software.com/2026/08/17/sonoff-hydro-duo-review-a-dual-zone-ble-and-zigbee-water-valve-tested-with-ewelink-and-home-assistant/) |
 | 2026-08-17 | Pi-Ener-lite – A compact 18650 UPS board for Raspberry Pi Zero with RTC and fuel gauge | CNX Software | [link](https://www.cnx-software.com/2026/08/17/pi-ener-lite-a-compact-18650-ups-board-for-raspberry-pi-zero-with-rtc-and-fuel-gauge/) |
 | 2026-08-17 | Luckfox Lyra PLC – A Linux-based Rockchip RK3506B industrial controller with RS232, RS422, RS485, CAN bus, and relays | CNX Software | [link](https://www.cnx-software.com/2026/08/17/luckfox-lyra-plc-a-linux-based-rockchip-rk3506b-industrial-controller-with-rs232-rs422-rs485-can-bus-and-relays/) |
-| 2026-08-17 | Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5 | CNX Software | [link](https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -91,20 +91,21 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2984 | Python | 1193.7 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2985 | Python | 1194.1 | [link](https://github.com/NVIDIA/skills) |
 | Edgenesis/shifu | 1431 | Go | 572.5 | [link](https://github.com/Edgenesis/shifu) |
 | NVlabs/alpasim | 1183 | Python | 473.3 | [link](https://github.com/NVlabs/alpasim) |
-| commaai/openpilot | 63432 | Python | 25372.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63433 | Python | 25373.3 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16130 | Python | 6452.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15700 | C++ | 6280.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14572 | C++ | 5828.9 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14573 | C++ | 5829.3 | [link](https://github.com/google-deepmind/mujoco) |
 | DLR-RM/stable-baselines3 | 13701 | Python | 5480.5 | [link](https://github.com/DLR-RM/stable-baselines3) |
-| earthtojake/text-to-cad | 13545 | Python | 5418.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| kornia/kornia | 11314 | Python | 4525.7 | [link](https://github.com/kornia/kornia) |
+| earthtojake/text-to-cad | 13546 | Python | 5418.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| kornia/kornia | 11315 | Python | 4526.1 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-08-17 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHhzbm5ORngtN2xvWXlRemZBQ3ZwNUhKMHlZZkJNTG1ibUVVZm1JNUVXa1d6ZHVLOUY0X2hSZVpWMjV6Qlh6OC1UaThfMGFTaHpNMGZrZ19BXzdJR29KRWdjbDk1YnZYai1WX19aTlBJQmV1YXpGMmFndnRqeEdLWTBfWGNybWV0WHRBVVJZNTFYVk9HMzBFRHVCcVdJVE9pUGEzcFYwd093X3BfM0FYaVZ6c0V6NllfTVRJX1ZB?oc=5) |
 | 2026-08-16 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQelltOGZ4MmlTZG81cFRuQXVJaXlLVW5BbHduNlpMSGctYUt1bldOcHgxeVFqMHI1VWVEb0tQbHI3N2lfTXl4X1J1Vm1hdW1yNTlyZzdFSktFOHVhRlVhTkJ0RUgta3gwNTM5SlFWMThJMXR4QmNzXzV5UVRwUVJnSWJmLTl6R2dRTHd3YkhscXFmMk9oMkVkeEd5VHMwek9DcUpqdUE5Rno1Tkh0OF9NVU42dGhFbmM2TGdMdXo2Mzl0YXEzeWZwQjdnS2ZfNFhvZkJ5SWdKcVpmbHhHUWc?oc=5) |
 | 2026-08-16 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUlaMllFZ2ZCMUZYREdXWWRrYXI3N3VCZjRTZTdaMkE3bWhBTXVfX3hBbDFSaHFrN0ZJU3p3VF95TTVqMWdiMkkwQ1BaMkR0YkRXd1EtYkRJME15SVJ6NnZwWjhnWkFIVnBYVUk4N2VvcERERndicUxGRDhEY0J3bG5XWkNubk9FTU9OaVVoa2xTYWMzYnAyeEthVGRYbVJFbDlHbUs0aXN6QQ?oc=5) |
 | 2026-08-15 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxQdTM2aUgycHotSkI2ZlN3Uk5kSEpLT2xuZlVCaFplLURFLVZaWG4zTy15clBaWTF2dmxERFNzeHp5eG9tdzhTcUphS0pETGhSYnFpTTJxa2dUbkV6NmJLMzA0NWo4ZmQ3SFJzbVJuazU2dVVLNzNzdmxMRFFPT19HRlV1aXNxX2NPRFk4WmJoR0dzOUxkMGFsdUZsOVczVmNIOC14TWo1Njg2MHpocFhOZDU4T0dUeGR0T3FMekhHbFVfV2VhS09J?oc=5) |
@@ -114,17 +115,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-12 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQXUxSURENi0xdzIzME54OW9lYk1Wc0h4dzFlLUdReUhWWnNEbzBjMm1nbkx5Z2s3RHd6LXVMTnJ3TXdMY0MxT1lnMGs0T1JMQ2RkNXdPdzZ5bmVHT3had05Ga1lnVU5FWmYzMkkwQzkxRnY5bmFnN08yR2NoeU9PM2V5TnBndGVKRUdRX3VjMHpIXzZwdG9SZDBMeHNmRUt5WWhBTWx4dDNRMDBkX1BKRE1LUQ?oc=5) |
 | 2026-08-11 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcE5XeXdXbW9FbzVLanRUbjR1b25MTkpTYS1sWHdvWUZnQV8yLTUxeVUwTGJPcG5ZS2VkWmN2eHVsVzg0UUdtd1NBR0Iza0IySnlpWUdjMzUzX1R3Y1pTcEdfRkFEYmJZQXlFTk5TYXl5UFo1YkJ4RS1rSDFkUTVJckJZTEZVb09FN3pDN0hPTG1mc0F0aG4ySnNQS2kyamFiZjlNOFBZdjB2amYz?oc=5) |
-| 2026-08-07 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzRRUmZZTTlqMHBVNk9ZYTRjUGM0X3N6Q2FhYXVaY1pKbDhwWTA5UjlwX0NicHVkRTJLRFlUUXNFalhwRFVMak1fTTNRUmhoVEF4YThKQUlBSnZsZ1ZwZmNKT3BkNXBrcUNRcXVMRkhBYVowWmFiY1BJNjRLOExaMG82Y2lfaFYxTlBkRzBBcHpQNm5POEUtcG9VVFBQdDRCTVp0ZHhUaW9RYWRPX0Y1OGJ3YzJ0a3lhdHR1TGRKcVVLRmhtTmw2dtIByAFBVV95cUxQOWRxV0dRV2NIWmxBLVFEOGN1el82TWYtcVhhSm5HY18yY0FyTkhkSWhtVGRvY0toN1RJd1ozSFFCdXRFX2VWNDluZWJCYmkwanhKNlhWSHYxRmFCZTJrQ2Ryc0RTWHFvT2Z5V2kzYlNlZzhNOGZBd044MlExMmduZ1Q3NDhDN0JwMXZJQ3AwV2FabDVTdFNRMTBXTS1kcEt4LUdzU1NpSU84eXdDdmR2dlcyeGw0NkUtdGxBb21LRUdDUktkU2UwRg?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-17 | The 25 most promising robotics startups in 2026, according to investors - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZVNJSW5xMEFIa05WREJJd3ZUNVN1aUFXSkhIbUpwdmplUU9lN1lNcUdVLUZJeV9BS2VMeS1YZDBNU08zSnpsaWJaTTFjUE1ySkQ5VmVMSnMzWlh5YTlDemxCeGk5SU5DWXdic1pEVE5SMXA5YUJlc2VrY1BwMEkzREY5dGhPRmFia3c?oc=5) |
-| 2026-08-17 | Neura CEO: AI is the Key to Robotics' Future - startuphub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWVYVnJmYmM5YjFIS3J5YldFX2RTUzlwS3ZvT3NvTFRmd0x2X2RSUHF1NVdHdExTX3FDbDU1WGRFb1M1VVl5M2dCdGF3cVRVM1pfMndWY3pLWlFtQVUtQzVDOHh0WnRWSnBRYW56R0dQbzNCSTdhUjJVRUQ1bmVGY2tDaENUMmRTXzBrdFVGVkRiX0Ut?oc=5) |
+| 2026-08-17 | Neura CEO: AI is the Key to Robotics' Future - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWVYVnJmYmM5YjFIS3J5YldFX2RTUzlwS3ZvT3NvTFRmd0x2X2RSUHF1NVdHdExTX3FDbDU1WGRFb1M1VVl5M2dCdGF3cVRVM1pfMndWY3pLWlFtQVUtQzVDOHh0WnRWSnBRYW56R0dQbzNCSTdhUjJVRUQ1bmVGY2tDaENUMmRTXzBrdFVGVkRiX0Ut?oc=5) |
 | 2026-08-17 | Micron Launches a $250 Million Fund to Bankroll the AI Startups Buying Its Chips - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFNEcEtDMGo5cndmTld4YW5qLVNhcWVBLVp2NzdEbzVnZGVrbjZsc0Z5d2gzUUlPMjZEdXBiSkt1Nm1BSlEzNW93OWxybzJkZVNONlVNU1U2TnVKWldVT0xwai1kY0RhZ044UVQ5ZXlvVkZyNDd5SDM2SU93TkZldVpyYXJ0VlJZVFJINFEwaXoyY2N4RzlSaXBLUjcwNnItT2ZEbkItbUtuX2M?oc=5) |
-| 2026-08-17 | Indian startups chase emerging global market with physical AI robots - Business Standard | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmZRMVJKTHBzZnR2Z2djcmZRZU0waW5QcWpZLV9YVlVmMzhrT3A0bEp3cFI0RUc3cGRYSkk2b1JGakx5REpiQ3lyNURGQmNqeU1kWDVvQUhJLW5WeV9FaHJwZkhkYUxuX3lsa0JRdDNxd2RwR2tyLVBkZk96alZVWGpBN2tEMHpIM09rcHJOMWtQUWYwd3pGRzFlZzhIZld6Smp2Y1FXZTJuX2xjemxENndJTklVVkplYmRIMTBzY3plR1BxbGNDUTBIR3NyOVRGZkEwMmQtNXE3WWxpeE9ERm5B0gHiAUFVX3lxTE5uZlExUkpMcHNmdHZnZ2NyZlFlTTBpblBxalktX1hWVWYzOGtPcDRsSndwUjRFRzdwZFhKSTZvUkZqTHlESmJDeXI1REZCY2p5TWRYNW9BSEktblZ5X0VocnBmSGRhTG5feWxrQlF0M3F3ZHBHa3ItUGRmT3pqVlVYakE3a0QwekgzT2twck4xa1BRZjB3ekZHMWVnOEhmV3pKanZjUVdlMm5fbGN6bEQ2d0lOSVVWSmViZEgxMHNjemVHUHFsY0NRMEhHc3I5VEZmQTAyZC01cTdZbGl4T0RGbkE?oc=5) |
+| 2026-08-17 | Indian startups chase emerging global market with physical AI robots - business-standard.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmZRMVJKTHBzZnR2Z2djcmZRZU0waW5QcWpZLV9YVlVmMzhrT3A0bEp3cFI0RUc3cGRYSkk2b1JGakx5REpiQ3lyNURGQmNqeU1kWDVvQUhJLW5WeV9FaHJwZkhkYUxuX3lsa0JRdDNxd2RwR2tyLVBkZk96alZVWGpBN2tEMHpIM09rcHJOMWtQUWYwd3pGRzFlZzhIZld6Smp2Y1FXZTJuX2xjemxENndJTklVVkplYmRIMTBzY3plR1BxbGNDUTBIR3NyOVRGZkEwMmQtNXE3WWxpeE9ERm5B0gHiAUFVX3lxTE5uZlExUkpMcHNmdHZnZ2NyZlFlTTBpblBxalktX1hWVWYzOGtPcDRsSndwUjRFRzdwZFhKSTZvUkZqTHlESmJDeXI1REZCY2p5TWRYNW9BSEktblZ5X0VocnBmSGRhTG5feWxrQlF0M3F3ZHBHa3ItUGRmT3pqVlVYakE3a0QwekgzT2twck4xa1BRZjB3ekZHMWVnOEhmV3pKanZjUVdlMm5fbGN6bEQ2d0lOSVVWSmViZEgxMHNjemVHUHFsY0NRMEhHc3I5VEZmQTAyZC01cTdZbGl4T0RGbkE?oc=5) |
 | 2026-08-17 | Seoul AI Hub to Host Physical AI Hackathon with OpenAI, Team Human and Industry Partners - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yTjFZT1hBNS15WERNeW5xSDRyczA1cS1FaTFmZURaNEx1VFAtaE01SGMzSzVWSmJISzB4QklTZ0JoV2pHcWNVU0o3eW04WEdoTWU0?oc=5) |
-| 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - techinasia.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZk1YcnhyaUhPVndxbUtySzVTbEtPNF9KbEU1RnhuNlkwR0laNlR2bmlEUW9JeWR6Q0wyTktvNDdSM2JlZzYwbEVEanhqVGpJZjcwNjJFTGVTYWt5MmFlMnBvYV9qSG5vN1dhckcteUtJOXZRendqU0dzeUY0WmpQUC01SGZMWFdK?oc=5) |
+| 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZk1YcnhyaUhPVndxbUtySzVTbEtPNF9KbEU1RnhuNlkwR0laNlR2bmlEUW9JeWR6Q0wyTktvNDdSM2JlZzYwbEVEanhqVGpJZjcwNjJFTGVTYWt5MmFlMnBvYV9qSG5vN1dhckcteUtJOXZRendqU0dzeUY0WmpQUC01SGZMWFdK?oc=5) |
 | 2026-08-16 | LG Bets Its Actuators and Batteries on a Humanoid Robot Built With Nvidia - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGtiLUJZdmhoZjNYaHBDS2g5dDlrSkJIenRuVV80Zm9paVJVdEFQb296dFd5VWpiNkNEYXRHZ1NnRFdKbXRMLXY1SnJCRE9NbzRGVV92UkVSbFlNUWVPLU94S2xILUhxOGt1RXFXMV9qQ3BFWjlQOWRIbWxxeUZEbXlGalFNNzlRTUNjZHNhNmdOUWZhenlVSXRzVW54SE1LdTJJ?oc=5) |
 | 2026-08-15 | China's Infiforce Raises Nearly $150M in Funding to Develop 'Ego Native World Model' for Robots - AI Insider | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjhWNkR2a19lSkphT296X1FvTVRKOS11SzNWc29HbUhXUl9oSGk5Wm4yNEtFcWxHVWh2Y3pBaFllNFQtQ0FyYm1NeFNEM2RyQVJJNXpyNTJGYWpBWUNiVjBCMmlRR0FBRUZ0dkw1cndSRjZlX0VKZEFiaFNMZDFqdFctNWRPNllwbXJJZmVBbU9MT3BfTjZ5d1RkajROdFVYTHJlZWlDNG91YWJaMGJJV0d1VF9WZXhPNHJMVmZKUWJFMTRnS3VOdA?oc=5) |
 | 2026-08-14 | Thai startup Amity Robotics closes US$7.0 million Seed round to build a globally competitive physical AI company - East Ventures | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2I0bzFuaWl6OVBLSFlYbzh5TC1hWVpIR2pvYUZUbGRNbjNHemFnT190MWhya2k3N2N4ZVU0VmhudzBqcEhkU3BLYTluRl9tbEh3V3hYX2VJeWZlM2o3N0xCYUhZZHJmQjlsWllQVVd4MEx3U2hMcGhTaUxFeXZETFFlVnlmVjRNZjdOYWtjTDUzbF9leEZR?oc=5) |
@@ -133,6 +133,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-17 | Director of Technical Accounting & Reporting | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6142438004) |
 | 2026-08-17 | Director, Operations Program Management | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6111228004) |
 | 2026-08-14 | Finance Manager (SP)  | Figure AI | São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4705464006) |
 | 2026-08-14 | Helix AI Engineer, Training Performance | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4705296006) |
@@ -140,7 +141,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-14 | Staff Software Engineer, Data Platform | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6144405004) |
 | 2026-08-13 | Recruiting Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4658691006) |
 | 2026-08-13 | CAD Administrator | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6138024004) |
-| 2026-08-13 | Director of Technical Accounting & Reporting | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6142438004) |
 | 2026-08-13 | Senior Solutions Engineer | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6132323004) |
 | 2026-08-11 | Project Lead, Data Creators (CDMX) | Figure AI | Ciudad de México | [link](https://job-boards.greenhouse.io/figureai/jobs/4702544006) |
 

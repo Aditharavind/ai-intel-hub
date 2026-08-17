@@ -1,5 +1,12 @@
 [
   {
+    "title": "Linux Fu: Improving FTP",
+    "source": "Hackaday",
+    "date": "2026-08-17",
+    "url": "https://hackaday.com/2026/08/17/linux-fu-improving-ftp/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2020/05/LinuxFu.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>FTP isn&#8217;t exactly cutting-edge technology. These days, if you control both ends of a connection, you&#8217;re probably using scp, SFTP, rsync, or something even fancier. But FTP refuses to die, <a class=\"read-more\" href=\"https://hackaday.com/2026/08/17/linux-fu-improving-ftp/\">&#8230;read more</a>"
+  },
+  {
     "title": "Toy Computer Restored",
     "source": "Hackaday",
     "date": "2026-08-17",
@@ -67,77 +74,14 @@
     "source": "CNX Software",
     "date": "2026-08-17",
     "url": "https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/",
-    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a832521c8ab0609441981/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a833b24c416c176178802/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "It’s All About Battery Life",
-    "source": "Electronics Weekly",
+    "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+    "source": "Adafruit",
     "date": "2026-08-17",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/its-all-about-battery-life-2026-08/",
-    "summary": "<p>When asked by Statista Consumer Insights what matters most to U.S. smartphone users, the top answers are bluntly practical: 61% name battery life as a top criterion, followed by fast [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/its-all-about-battery-life-2026-08/\">It’s All About Battery Life</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Security challenges of neuromorphic intelligence on embedded systems",
-    "source": "Electronics Weekly",
-    "date": "2026-08-17",
-    "url": "https://www.electronicsweekly.com/news/design/eda-and-ip/security-challenges-of-neuromorphic-intelligence-on-embedded-systems-2026-08/",
-    "summary": "<p>While brain-inspired chips running embedded devices show remarkable processing efficiency, they are yet to mature in terms of security, says Venus Kohli. Conventional processors are built on the von Neumann [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/design/eda-and-ip/security-challenges-of-neuromorphic-intelligence-on-embedded-systems-2026-08/\">Security challenges of neuromorphic intelligence on embedded systems</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Iceye wins Scaleup Europe Fund’s first investment",
-    "source": "Electronics Weekly",
-    "date": "2026-08-17",
-    "url": "https://www.electronicsweekly.com/news/business/finance/iceye-wins-scaleup-europe-funds-first-investment-2026-08/",
-    "summary": "<p>The European Commission&#8217;s Scaleup Europe Fund has announced its first investment. It is in ICEYE, the specialist in satellite-based SAR imagery (Synthetic Aperture Radar). The investment saw it co-leading the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/iceye-wins-scaleup-europe-funds-first-investment-2026-08/\">Iceye wins Scaleup Europe Fund&#8217;s first investment</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Dstl, Lancaster Uni research innovations for thermal cameras",
-    "source": "Electronics Weekly",
-    "date": "2026-08-17",
-    "url": "https://www.electronicsweekly.com/news/research-news/dstl-lancaster-uni-research-innovations-for-thermal-cameras-2026-08/",
-    "summary": "<p>Working with Amethyst Research and Lancaster University, the UK&#8217;s Dstl (Defence Science and Technology Laboratory) has been designing a novel detector architecture for thermal cameras that boosts efficiency. Specifically, addressing [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/research-news/dstl-lancaster-uni-research-innovations-for-thermal-cameras-2026-08/\">Dstl, Lancaster Uni research innovations for thermal cameras</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Nvidia books TSMC 1.6nm process for Feynman in H2 2028",
-    "source": "Electronics Weekly",
-    "date": "2026-08-17",
-    "url": "https://www.electronicsweekly.com/news/business/nvidia-books-tsmc-1-6nm-process-for-feynman-in-h2-2028-2026-08/",
-    "summary": "<p>Nvidia is reported to have booked TSMC A16 capacity for Feynman, its post-Rubin architecture GPU. A16 is TSMC’s 1.6nm  successor to its 2nm process N2 with GAA transistors and backside [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nvidia-books-tsmc-1-6nm-process-for-feynman-in-h2-2028-2026-08/\">Nvidia books TSMC 1.6nm process for Feynman in H2 2028</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "D2C phone calls get nearer",
-    "source": "Electronics Weekly",
-    "date": "2026-08-17",
-    "url": "https://www.electronicsweekly.com/news/business/d2c-phone-calls-get-nearer-2026-08/",
-    "summary": "<p>Starlink has recently deployed its first batch of V3 satellites, which deliver direct-to-cell (D2C) services. To avoid congestion, Starlink lowered the V3 satellites&#8217; operating altitude to about 350km, aiming to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/d2c-phone-calls-get-nearer-2026-08/\">D2C phone calls get nearer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "XPU to CPU ratio in datacentres transitioning from 10:1 to 1:1",
-    "source": "Electronics Weekly",
-    "date": "2026-08-17",
-    "url": "https://www.electronicsweekly.com/news/business/xpu-to-cpu-ratio-transitioning-from-101-to-11-2026-08/",
-    "summary": "<p>The rise of inference workloads is driving new demand and introducing network requirements that differ from those associated with training workloads, says Dell’Oro. This shift is leading to significant expansion [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/xpu-to-cpu-ratio-transitioning-from-101-to-11-2026-08/\">XPU to CPU ratio in datacentres transitioning from 10:1 to 1:1</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Panasonic proposes thick film current resistors as alternative to metal shunt resistors",
-    "source": "Electronics Weekly",
-    "date": "2026-08-17",
-    "url": "https://www.electronicsweekly.com/news/panasonic-proposes-thick-film-current-resistors-as-alternative-to-metal-shunt-resistors-2026-08/",
-    "summary": "<p>Panasonic Industry offers its Thick Film Current Sensing Resistors as a cost-effective alternative to conventional metal shunt resistors for selected low- and medium-current sensing applications. Not all current-sensing applications require [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/panasonic-proposes-thick-film-current-resistors-as-alternative-to-metal-shunt-resistors-2026-08/\">Panasonic proposes thick film current resistors as alternative to metal shunt resistors</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Toshiba adds to digital isolators",
-    "source": "Electronics Weekly",
-    "date": "2026-08-17",
-    "url": "https://www.electronicsweekly.com/news/business/toshiba-adds-to-digital-isolators-3-2026-08/",
-    "summary": "<p>Toshiba has expanded its DCL34xx0B series of standard digital isolators with four new quad-channel devices for industrial automation equipment. The new devices achieve typical current consumption of 0.2mA per channel [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/toshiba-adds-to-digital-isolators-3-2026-08/\">Toshiba adds to digital isolators</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Ed Becomes The PM’s Fixer",
-    "source": "Electronics Weekly",
-    "date": "2026-08-17",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-sorts-out-the-new-pm-2026-08/",
-    "summary": "<p>The new PM has made made it clear to the Cabinet that, with the next general election due by mid-2029,  the No.1 task of the new government  is to be [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-sorts-out-the-new-pm-2026-08/\">Ed Becomes The PM’s Fixer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/08/17/agi-64-brings-sierra-adventures-to-the-commodore-64/",
+    "summary": "Space Quest running on a Commodore 64 from Mean Hamster &#160; Finally, after decades of waiting, you&#8217;ll be able to play Sierra On-Line&#8217;s classic adventure games on the Commodore 64. Developed for Sierra&#8217;s King&#8217;s Quest in 1984, Adventure Game Interpreter (AGI) was the game engine behind classic adventure games like Leisure Suit Larry, Space Quest [&#8230;]"
   },
   {
     "title": "SideQuestCrafting Made Mira’s Gok-Do!",
@@ -145,6 +89,13 @@
     "date": "2026-08-17",
     "url": "https://blog.adafruit.com/2026/08/17/sidequestcrafting-made-miras-gok-do/",
     "summary": "No visit with my 4 year old niece is complete without her explaining KPop Demon Hunters to her sister, 1, and cousin, 1 1/2. And she&#8217;s totally right to try to get the little ones on board &#8211; Rumi, Mira, and Zoe and awesome. Check out SideQuestCrafting&#8217;s take on Mira&#8217;s Gok-Do on YouTube Did you [&#8230;]"
+  },
+  {
+    "title": "56G MezzaWave Connectors and Cable Assemblies — TE Connectivity and Mouser Electronics",
+    "source": "EE Journal",
+    "date": "2026-08-17",
+    "url": "https://www.eejournal.com/chalk_talks/56g-mezzawave-connectors-and-cable-assemblies-te-connectivity-and-mouser-electronics/",
+    "summary": "&#160; In this episode of Chalk Talk, Christian Jacinto from TE Connectivity and I explore the benefits of 56G MezzaWave Connectors and Cable Assemblies family which include support for high-performance data rates up to 56Gbps PAM4, design flexibility, and reliable operation across a wide temperature range. We also discuss the common engineering questions surrounding these &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/chalk_talks/56g-mezzawave-connectors-and-cable-assemblies-te-connectivity-and-mouser-electronics/\">Read More &#8594;<span class=\"screen-reader-text\"> \"56G MezzaWave Connectors and Cable Assemblies &#8212; TE Connectivity and Mouser Electronics\"</span></a>"
   },
   {
     "title": "From Prototype to Production: Building Connected Products with Particle – Digi and Mouser",
@@ -187,13 +138,6 @@
     "date": "2026-08-17",
     "url": "https://www.eejournal.com/industry_news/new-3d-flash-memory-technology-from-kioxia-and-sandisk-achieves-industrys-highest-bit-density-for-qlc-nand/",
     "summary": "KIOXIA Europe GmbH, announced that KIOXIA Corporation, a subsidiary of KIOXIA Holdings Corporation (TOKYO: 285A) and Sandisk Corporation (Nasdaq: SNDK) unveiled their next-generation Quad-Level-Cell (QLC) 3D flash memory technology, which delivers up to 60% increase in bit density compared to their 8th-generation, surpassing 37 Gb/mm² and setting the industry benchmark[1] for bit density, performance and power efficiency. Leveraging the companies’ revolutionary CMOS &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/new-3d-flash-memory-technology-from-kioxia-and-sandisk-achieves-industrys-highest-bit-density-for-qlc-nand/\">Read More &#8594;<span class=\"screen-reader-text\"> \"New 3D Flash Memory Technology from KIOXIA and Sandisk Achieves Industry’s Highest Bit Density for QLC NAND\"</span></a>"
-  },
-  {
-    "title": "Hackaday Links: August 16, 2026",
-    "source": "Hackaday",
-    "date": "2026-08-16",
-    "url": "https://hackaday.com/2026/08/16/hackaday-links-august-16-2026/",
-    "summary": "<div><img alt=\"Hackaday Links Column Banner\" class=\"attachment-large size-large wp-post-image\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We&#8217;re no strangers to unusual hardware failures around these parts, but even so, a swarm of jellyfish clogging up the works is a new one to us. That&#8217;s exactly what <a class=\"read-more\" href=\"https://hackaday.com/2026/08/16/hackaday-links-august-16-2026/\">&#8230;read more</a>"
   },
   {
     "title": "Using the Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) on Ubuntu 26.04",
@@ -357,13 +301,6 @@
     "summary": "michelem shares: A jiggly articulated skeleton with head, arms, torso, and legs that shake when moved. Print-in-place with only 27 minutes in single color or 1 hour multicolor. Glow-in-the-dark filament recommended. Includes magnet slot (fridge companion) and keyring hole. Alternative Halloween skeleton — GITD-friendly and fastest to print of the batch. By Michele download the [&#8230;]"
   },
   {
-    "title": "Flexi Demogorgon Skeleton – Stranger Things Print-in-Place Fidget #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-08-13",
-    "url": "https://blog.adafruit.com/2026/08/13/flexi-demogorgon-skeleton-stranger-things-print-in-place-fidget-3dthursday-3dprinting/",
-    "summary": "Shared by Michele on MakerWorld: a spooky-cute twist on my popular Flexi Skeleton! The body keeps the same super-wiggly, ultra-poseable design everyone loves: articulated arms, legs, head, and pelvis for endless fidgeting and fun. The head has been completely redesigned to capture that iconic flower-shaped creature vibe… delightfully creepy and totally adorable. Download the files [&#8230;]"
-  },
-  {
     "title": "Astrolight and ATMOS Space Cargo Aim for First In-Flight Laser Link Between Re-Entry Vehicle and Satellite",
     "source": "EE Journal",
     "date": "2026-08-13",
@@ -376,13 +313,6 @@
     "date": "2026-08-13",
     "url": "https://www.eejournal.com/industry_news/eizo-rugged-solutions-launches-sosa-aligned-3u-vpx-single-board-computer-powered-by-nvidia-igx-thor-for-tactical-ai-edge-processing/",
     "summary": "Orlando, Florida, August 10, 2026 – EIZO Rugged Solutions Inc., a leading provider of ruggedized, high-performance embedded computing solutions, announced the Condor T5-IOX, a next-generation SOSA® aligned 3U VPX single board computer (SBC) powered by the NVIDIA IGX T5000 system-on-module. Engineered for mission-critical applications, the Condor T5-IOX enables rapid deployment of AI-driven capabilities at the tactical edge, supporting real-time &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/eizo-rugged-solutions-launches-sosa-aligned-3u-vpx-single-board-computer-powered-by-nvidia-igx-thor-for-tactical-ai-edge-processing/\">Read More &#8594;<span class=\"screen-reader-text\"> \"EIZO Rugged Solutions Launches SOSA® Aligned 3U VPX Single Board Computer Powered by NVIDIA IGX Thor for Tactical AI Edge Processing\"</span></a>"
-  },
-  {
-    "title": "Peraso Targets Defense and UAV Markets with New PRM2145 Jam-Resistant Communications Module",
-    "source": "EE Journal",
-    "date": "2026-08-13",
-    "url": "https://www.eejournal.com/industry_news/peraso-targets-defense-and-uav-markets-with-new-prm2145-jam-resistant-communications-module/",
-    "summary": "Peraso Inc. (NASDAQ: PRSO) (&#8220;Peraso&#8221; or the &#8220;Company&#8221;), a pioneer in mmWave wireless technology solutions, today announced the introduction of the “PRM2145,” a new wireless communications module specifically designed to address the requirements of unmanned aerial vehicles (UAV), autonomous systems, and defense communications applications. The launch of the PRM2145 marks an important expansion of Peraso&#8217;s product portfolio &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/peraso-targets-defense-and-uav-markets-with-new-prm2145-jam-resistant-communications-module/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Peraso Targets Defense and UAV Markets with New PRM2145 Jam-Resistant Communications Module\"</span></a>"
   },
   {
     "title": "TI Unveils CAN XL Transceiver",
