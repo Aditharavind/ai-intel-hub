@@ -63,6 +63,15 @@
     "score": 0.1
   },
   {
+    "model": "flashrt/flashrt-vla-video",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/flashrt/flashrt-vla-video",
+    "date": "2026-08-17",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "B111ue/fcl-vla-module-selective-r2",
     "downloads": 0,
     "likes": 0,
@@ -225,15 +234,6 @@
     "score": 0.1
   },
   {
-    "model": "B111ue/fcl-vla-baseline-recovery",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/B111ue/fcl-vla-baseline-recovery",
-    "date": "2026-08-16",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "Pradheep1647/eagle3-speculative-decoding-policy",
     "downloads": 0,
     "likes": 0,
@@ -376,6 +376,15 @@
     "date": "2026-08-15",
     "keyword": "world model",
     "score": 0.1
+  },
+  {
+    "model": "UnderTides/Embodied-Navigator-7B-GRPO-600",
+    "downloads": 3,
+    "likes": 0,
+    "url": "https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO-600",
+    "date": "2026-08-15",
+    "keyword": "embodied",
+    "score": 1.0
   },
   {
     "model": "tannerfrancis11/record-test_20260815_075835_policy",
@@ -736,15 +745,6 @@
     "date": "2026-07-18",
     "keyword": "embodied",
     "score": 32.5
-  },
-  {
-    "model": "tencent/Hy-Embodied-RxBrain-1.0",
-    "downloads": 238,
-    "likes": 55,
-    "url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
-    "date": "2026-07-18",
-    "keyword": "embodied",
-    "score": 82.5
   },
   {
     "model": "kouylty/Isaac-Go2-Navigation-Rough-v0",
