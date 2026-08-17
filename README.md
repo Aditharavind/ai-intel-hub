@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-17 04:28 UTC
+Last Updated: 2026-08-17 05:23 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,7 +49,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-17 | More On Wave Overhangs for 3D Printing | Hackaday | [link](https://hackaday.com/2026/08/16/more-on-wave-overhangs-for-3d-printing/) |
 | 2026-08-17 | Using the Famicom Network System in 2026 | Hackaday | [link](https://hackaday.com/2026/08/16/using-the-famicom-network-system-in-2026/) |
+| 2026-08-17 | Luckfox Lyra PLC – A Linux-based Rockchip RK3506B industrial controller with RS232, RS422, RS485, CAN bus, and relays | CNX Software | [link](https://www.cnx-software.com/2026/08/17/luckfox-lyra-plc-a-linux-based-rockchip-rk3506b-industrial-controller-with-rs232-rs422-rs485-can-bus-and-relays/) |
 | 2026-08-17 | Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5 | CNX Software | [link](https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/) |
 | 2026-08-17 | Ed Becomes The PM’s Fixer | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-sorts-out-the-new-pm-2026-08/) |
 | 2026-08-16 | Hackaday Links: August 16, 2026 | Hackaday | [link](https://hackaday.com/2026/08/16/hackaday-links-august-16-2026/) |
@@ -57,8 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-16 | Laser Layers for (Almost) Isotropicly Strong Prints | Hackaday | [link](https://hackaday.com/2026/08/16/laser-layers-for-almost-isotropicly-strong-prints/) |
 | 2026-08-16 | Building an Actuator for a Walking Robot | Hackaday | [link](https://hackaday.com/2026/08/16/building-an-actuator-for-a-walking-robot/) |
 | 2026-08-16 | r-Selecting Tiny Probes to Shotgun Into Saturn’s Rings | Hackaday | [link](https://hackaday.com/2026/08/16/r-selecting-tiny-probes-to-shotgun-into-saturns-rings/) |
-| 2026-08-16 | Researchers Hack an Airline Analog | Hackaday | [link](https://hackaday.com/2026/08/16/how-to-hack-an-airliner/) |
-| 2026-08-16 | Using the Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) on Ubuntu 26.04 | CNX Software | [link](https://www.cnx-software.com/2026/08/16/using-the-khadas-mind-graphics-2-nvidia-rtx-5060-ti-usb4-egpu-on-ubuntu-26-04/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-17 | sun-robot/pi05_amazinghand_rps | 0 | 0 | [link](https://huggingface.co/sun-robot/pi05_amazinghand_rps) |
 | 2026-08-17 | locht131/gr00t_n17_ot_ablation_adjustbottle_a_robot_only_25k_adjust_bottle_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_ot_ablation_adjustbottle_a_robot_only_25k_adjust_bottle_bs64) |
 | 2026-08-17 | junbrro/g24_dualhead_a5_robotA_nohuman_k4p2_30k | 0 | 0 | [link](https://huggingface.co/junbrro/g24_dualhead_a5_robotA_nohuman_k4p2_30k) |
 | 2026-08-17 | junbrro/g24_dualhead_a3_robotA_humanB_box_k4p2_30k | 0 | 0 | [link](https://huggingface.co/junbrro/g24_dualhead_a3_robotA_humanB_box_k4p2_30k) |
 | 2026-08-17 | junbrro/g24_dualhead_a1_robotA_humanB_box_k4p2_30k | 0 | 0 | [link](https://huggingface.co/junbrro/g24_dualhead_a1_robotA_humanB_box_k4p2_30k) |
 | 2026-08-17 | MotionforgeGroup/realtime-vla-flash-FC-80000 | 0 | 0 | [link](https://huggingface.co/MotionforgeGroup/realtime-vla-flash-FC-80000) |
 | 2026-08-17 | geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step35000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step35000) |
+| 2026-08-17 | zonglin11/humanalite_act_demo_policy | 0 | 0 | [link](https://huggingface.co/zonglin11/humanalite_act_demo_policy) |
 | 2026-08-17 | TerryPei/gap-graph-as-policy | 0 | 0 | [link](https://huggingface.co/TerryPei/gap-graph-as-policy) |
 | 2026-08-17 | hiskiv/cosmos-policy-lam-v2 | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam-v2) |
-| 2026-08-16 | Mayank022/Transformer-Vision-From-Image-Video-to-World-Models-and-Robotics-Book | 0 | 0 | [link](https://huggingface.co/Mayank022/Transformer-Vision-From-Image-Video-to-World-Models-and-Robotics-Book) |
-| 2026-08-16 | weepiess2383/arc-robotwin | 0 | 0 | [link](https://huggingface.co/weepiess2383/arc-robotwin) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 2973 | Python | 1189.3 | [link](https://github.com/NVIDIA/skills) |
+| Edgenesis/shifu | 1431 | Go | 572.5 | [link](https://github.com/Edgenesis/shifu) |
 | commaai/openpilot | 63429 | Python | 25371.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15699 | C++ | 6279.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13520 | Python | 5408.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13523 | Python | 5409.3 | [link](https://github.com/earthtojake/text-to-cad) |
 | dora-rs/dora | 3879 | Rust | 1551.7 | [link](https://github.com/dora-rs/dora) |
 | huangjunsen0406/py-xiaozhi | 3444 | Python | 1377.7 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
 | sou350121/VLA-Handbook | 515 | HTML | 206.1 | [link](https://github.com/sou350121/VLA-Handbook) |
 | luohongk/Embodied-AI-Daily | 424 | HTML | 169.7 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| RealXiaoze/humanoid-motion-intelligence | 352 |  | 140.9 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
-| vllm-project/vllm-omni | 6118 | Python | 2447.3 | [link](https://github.com/vllm-project/vllm-omni) |
+| RealXiaoze/humanoid-motion-intelligence | 353 |  | 141.3 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
