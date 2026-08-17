@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-17 08:27 UTC
+Generated: 2026-08-17 09:26 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,27 +14,27 @@ Generated: 2026-08-17 08:27 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63431 | 25372.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63430 | 25372.1 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30309 | 12123.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16129 | 6451.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15699 | 6279.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| TianxingChen/Embodied-AI-Guide | 15474 | 6189.7 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
+| TianxingChen/Embodied-AI-Guide | 15477 | 6190.9 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| SEU-PAISys/Embodied.cpp | 635 | 191.4 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
-| physicalai-bmi/efa-1 | 160 | 48.1 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
-| XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa | 104 | 33.3 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa) |
-| sasa2000/Hy-Embodied-VLM-1.0-Text-Only | 108 | 32.5 | [link](https://huggingface.co/sasa2000/Hy-Embodied-VLM-1.0-Text-Only) |
-| stevenqian/red_block_smolvla_armcam_policy0 | 93 | 28.0 | [link](https://huggingface.co/stevenqian/red_block_smolvla_armcam_policy0) |
+| SEU-PAISys/Embodied.cpp | 633 | 190.8 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
+| physicalai-bmi/efa-1 | 205 | 61.6 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
+| XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa | 105 | 33.6 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa) |
+| stevenqian/red_block_smolvla_armcam_policy0 | 97 | 29.2 | [link](https://huggingface.co/stevenqian/red_block_smolvla_armcam_policy0) |
+| s1eepypillow/task1_act_policy | 87 | 26.2 | [link](https://huggingface.co/s1eepypillow/task1_act_policy) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-08-16 | Unitree |  | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQelltOGZ4MmlTZG81cFRuQXVJaXlLVW5BbHduNlpMSGctYUt1bldOcHgxeVFqMHI1VWVEb0tQbHI3N2lfTXl4X1J1Vm1hdW1yNTlyZzdFSktFOHVhRlVhTkJ0RUgta3gwNTM5SlFWMThJMXR4QmNzXzV5UVRwUVJnSWJmLTl6R2dRTHd3YkhscXFmMk9oMkVkeEd5VHMwek9DcUpqdUE5Rno1Tkh0OF9NVU42dGhFbmM2TGdMdXo2Mzl0YXEzeWZwQjdnS2ZfNFhvZkJ5SWdKcVpmbHhHUWc?oc=5) |
 | 2026-08-16 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUlaMllFZ2ZCMUZYREdXWWRrYXI3N3VCZjRTZTdaMkE3bWhBTXVfX3hBbDFSaHFrN0ZJU3p3VF95TTVqMWdiMkkwQ1BaMkR0YkRXd1EtYkRJME15SVJ6NnZwWjhnWkFIVnBYVUk4N2VvcERERndicUxGRDhEY0J3bG5XWkNubk9FTU9OaVVoa2xTYWMzYnAyeEthVGRYbVJFbDlHbUs0aXN6QQ?oc=5) |
 | 2026-08-15 | Unitree |  | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxQdTM2aUgycHotSkI2ZlN3Uk5kSEpLT2xuZlVCaFplLURFLVZaWG4zTy15clBaWTF2dmxERFNzeHp5eG9tdzhTcUphS0pETGhSYnFpTTJxa2dUbkV6NmJLMzA0NWo4ZmQ3SFJzbVJuazU2dVVLNzNzdmxMRFFPT19HRlV1aXNxX2NPRFk4WmJoR0dzOUxkMGFsdUZsOVczVmNIOC14TWo1Njg2MHpocFhOZDU4T0dUeGR0T3FMekhHbFVfV2VhS09J?oc=5) |
-| 2026-08-14 | Unitree |  | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHowNUFfdlRvSktyMXpFaFVpS2pCUUpQZVp1N2QtejViZHJXMUJOSTc4Y2lxU2tSVWVkZUtpZ2RtZkt1TTZSWHNDNmg0bW9tQ3I1dGJiWkZBeUh6SklvckZvYWNqQm02VGlEM2JRaWMwVTkzVnlDa1NObnhLQ2xzdzVQcTh5ZGlVSzVfc9IBkgFBVV95cUxQb3NXTHJETk9mcWVwaTQ5aHBhX3RqVEplTzB4dWtfV2JTdzV6LUpkcFBaYjdXWkhrLW5XSnJjeE1aSUhwT2tnNGVNNXNfZ0ZvaTdYaXFXcGFVeFRlZVB5ZzN2bDA1dTM2NkJxaWpkdkM1bXlLM0FMWjFhVW9ZbS03TVNNejlIanNvalZHemNBdEhOdw?oc=5) |
 | 2026-08-14 | Unitree |  | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEtYWmtXLU5Ka0MyTERicFprdjVwYlVvRDhveEdMaXpYVFY5c0Z0aWdnWkhlYVVKYlVLLUd5XzdjTDdaRm9XaFJuWHFxRU1aOGplX3d2QTVIRVNQNlh0b2Z1bVhDbkhUdXY3WmxEVFZDTkhwZ2tla0ZuTmpkZkdGSnYxSk1OUEpINFZHRG9kNA?oc=5) |
 | 2026-08-13 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa2FzRWt4SFh2VEJXbE9LbGQzTk94TTNmdE8yc0VRUS1yRkVjT1BtdzZhSnowamVDVUpiTU9CVXBmQjZnUDJBYUFqcndSaXZ1NGpISFdBcDEwZEtFVDc1Q1J1eE1odE4tSVFTcnlyX2tUczlHd0Q5WFRwSFluZnZXVjBnS2poWlJRRUVoV29KenpYc0hid25zMzFEUkpPOHNNZndrZ3VvRkM0VGVybEViYjFXOHMwMGdGOVlqRjNnMVI0R2pKXzFQV1NkUEZSUWJvVk96d2l5cjVabHM?oc=5) |
 

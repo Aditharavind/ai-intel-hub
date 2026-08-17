@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-17 08:27 UTC
+Last Updated: 2026-08-17 09:26 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -52,13 +52,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-17 | May This Balloon Banjo Resonate With You | Hackaday | [link](https://hackaday.com/2026/08/17/may-this-balloon-banjo-resonate-with-you/) |
 | 2026-08-17 | More On Wave Overhangs for 3D Printing | Hackaday | [link](https://hackaday.com/2026/08/16/more-on-wave-overhangs-for-3d-printing/) |
 | 2026-08-17 | Using the Famicom Network System in 2026 | Hackaday | [link](https://hackaday.com/2026/08/16/using-the-famicom-network-system-in-2026/) |
+| 2026-08-17 | Pi-Ener-lite – A compact 18650 UPS board for Raspberry Pi Zero with RTC and fuel gauge | CNX Software | [link](https://www.cnx-software.com/2026/08/17/pi-ener-lite-a-compact-18650-ups-board-for-raspberry-pi-zero-with-rtc-and-fuel-gauge/) |
 | 2026-08-17 | Luckfox Lyra PLC – A Linux-based Rockchip RK3506B industrial controller with RS232, RS422, RS485, CAN bus, and relays | CNX Software | [link](https://www.cnx-software.com/2026/08/17/luckfox-lyra-plc-a-linux-based-rockchip-rk3506b-industrial-controller-with-rs232-rs422-rs485-can-bus-and-relays/) |
 | 2026-08-17 | Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5 | CNX Software | [link](https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/) |
 | 2026-08-17 | Nvidia books TSMC 1.6nm process for Feynman in H2 2028 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/nvidia-books-tsmc-1-6nm-process-for-feynman-in-h2-2028-2026-08/) |
 | 2026-08-17 | D2C phone calls get nearer | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/d2c-phone-calls-get-nearer-2026-08/) |
 | 2026-08-17 | XPU to CPU ratio in datacentres transitioning from 10:1 to 1:1 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/xpu-to-cpu-ratio-transitioning-from-101-to-11-2026-08/) |
 | 2026-08-17 | Panasonic proposes thick film current resistors as alternative to metal shunt resistors | Electronics Weekly | [link](https://www.electronicsweekly.com/news/panasonic-proposes-thick-film-current-resistors-as-alternative-to-metal-shunt-resistors-2026-08/) |
-| 2026-08-17 | Toshiba adds to digital isolators | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/toshiba-adds-to-digital-isolators-3-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,37 +77,37 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-17 | OpenWAM/New_OpenWAM_Robotwin_Full_SFT_9890 | 0 | 0 | [link](https://huggingface.co/OpenWAM/New_OpenWAM_Robotwin_Full_SFT_9890) |
 | 2026-08-17 | RLinf/RLinf-Pi0-NEW-RoboTwin-SFT-adjust_bottle | 0 | 0 | [link](https://huggingface.co/RLinf/RLinf-Pi0-NEW-RoboTwin-SFT-adjust_bottle) |
 | 2026-08-17 | Codingpae/robotwin | 0 | 0 | [link](https://huggingface.co/Codingpae/robotwin) |
 | 2026-08-17 | sun-robot/pi05_amazinghand_rps | 0 | 0 | [link](https://huggingface.co/sun-robot/pi05_amazinghand_rps) |
-| 2026-08-17 | locht131/gr00t_n17_ot_ablation_adjustbottle_a_robot_only_25k_adjust_bottle_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_ot_ablation_adjustbottle_a_robot_only_25k_adjust_bottle_bs64) |
-| 2026-08-17 | junbrro/g24_dualhead_a5_robotA_nohuman_k4p2_30k | 0 | 0 | [link](https://huggingface.co/junbrro/g24_dualhead_a5_robotA_nohuman_k4p2_30k) |
-| 2026-08-17 | junbrro/g24_dualhead_a3_robotA_humanB_box_k4p2_30k | 0 | 0 | [link](https://huggingface.co/junbrro/g24_dualhead_a3_robotA_humanB_box_k4p2_30k) |
-| 2026-08-17 | junbrro/g24_dualhead_a1_robotA_humanB_box_k4p2_30k | 0 | 0 | [link](https://huggingface.co/junbrro/g24_dualhead_a1_robotA_humanB_box_k4p2_30k) |
+| 2026-08-17 | locht131/gr00t_n17_ot_ablation_adjustbottle_a_robot_only_25k_adjust_bottle_bs64 | 5 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_ot_ablation_adjustbottle_a_robot_only_25k_adjust_bottle_bs64) |
+| 2026-08-17 | junbrro/g24_dualhead_a5_robotA_nohuman_k4p2_30k | 1 | 0 | [link](https://huggingface.co/junbrro/g24_dualhead_a5_robotA_nohuman_k4p2_30k) |
+| 2026-08-17 | junbrro/g24_dualhead_a3_robotA_humanB_box_k4p2_30k | 1 | 0 | [link](https://huggingface.co/junbrro/g24_dualhead_a3_robotA_humanB_box_k4p2_30k) |
+| 2026-08-17 | junbrro/g24_dualhead_a1_robotA_humanB_box_k4p2_30k | 1 | 0 | [link](https://huggingface.co/junbrro/g24_dualhead_a1_robotA_humanB_box_k4p2_30k) |
+| 2026-08-17 | geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step40000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step40000) |
 | 2026-08-17 | flashrt/flashrt-vla-video | 0 | 0 | [link](https://huggingface.co/flashrt/flashrt-vla-video) |
-| 2026-08-17 | B111ue/fcl-vla-module-selective-r2 | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-module-selective-r2) |
-| 2026-08-17 | MotionforgeGroup/realtime-vla-flash-FC-80000 | 0 | 0 | [link](https://huggingface.co/MotionforgeGroup/realtime-vla-flash-FC-80000) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2976 | Python | 1190.5 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2978 | Python | 1191.3 | [link](https://github.com/NVIDIA/skills) |
 | Edgenesis/shifu | 1431 | Go | 572.5 | [link](https://github.com/Edgenesis/shifu) |
-| commaai/openpilot | 63431 | Python | 25372.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63430 | Python | 25372.1 | [link](https://github.com/commaai/openpilot) |
+| zauberzeug/nicegui | 16129 | Python | 6451.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15699 | C++ | 6279.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13530 | Python | 5412.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| isaac-sim/IsaacLab | 7906 | Python | 3162.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| earthtojake/text-to-cad | 13531 | Python | 5412.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| isaac-sim/IsaacLab | 7907 | Python | 3162.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3879 | Rust | 1551.7 | [link](https://github.com/dora-rs/dora) |
 | huangjunsen0406/py-xiaozhi | 3445 | Python | 1378.1 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
-| MIV-XJTU/JanusVLN | 579 | Python | 231.7 | [link](https://github.com/MIV-XJTU/JanusVLN) |
-| sou350121/VLA-Handbook | 515 | HTML | 206.1 | [link](https://github.com/sou350121/VLA-Handbook) |
+| knightnemo/Awesome-World-Models | 3315 |  | 1326.1 | [link](https://github.com/knightnemo/Awesome-World-Models) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-08-16 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQelltOGZ4MmlTZG81cFRuQXVJaXlLVW5BbHduNlpMSGctYUt1bldOcHgxeVFqMHI1VWVEb0tQbHI3N2lfTXl4X1J1Vm1hdW1yNTlyZzdFSktFOHVhRlVhTkJ0RUgta3gwNTM5SlFWMThJMXR4QmNzXzV5UVRwUVJnSWJmLTl6R2dRTHd3YkhscXFmMk9oMkVkeEd5VHMwek9DcUpqdUE5Rno1Tkh0OF9NVU42dGhFbmM2TGdMdXo2Mzl0YXEzeWZwQjdnS2ZfNFhvZkJ5SWdKcVpmbHhHUWc?oc=5) |
 | 2026-08-16 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUlaMllFZ2ZCMUZYREdXWWRrYXI3N3VCZjRTZTdaMkE3bWhBTXVfX3hBbDFSaHFrN0ZJU3p3VF95TTVqMWdiMkkwQ1BaMkR0YkRXd1EtYkRJME15SVJ6NnZwWjhnWkFIVnBYVUk4N2VvcERERndicUxGRDhEY0J3bG5XWkNubk9FTU9OaVVoa2xTYWMzYnAyeEthVGRYbVJFbDlHbUs0aXN6QQ?oc=5) |
 | 2026-08-15 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxQdTM2aUgycHotSkI2ZlN3Uk5kSEpLT2xuZlVCaFplLURFLVZaWG4zTy15clBaWTF2dmxERFNzeHp5eG9tdzhTcUphS0pETGhSYnFpTTJxa2dUbkV6NmJLMzA0NWo4ZmQ3SFJzbVJuazU2dVVLNzNzdmxMRFFPT19HRlV1aXNxX2NPRFk4WmJoR0dzOUxkMGFsdUZsOVczVmNIOC14TWo1Njg2MHpocFhOZDU4T0dUeGR0T3FMekhHbFVfV2VhS09J?oc=5) |
-| 2026-08-14 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHowNUFfdlRvSktyMXpFaFVpS2pCUUpQZVp1N2QtejViZHJXMUJOSTc4Y2lxU2tSVWVkZUtpZ2RtZkt1TTZSWHNDNmg0bW9tQ3I1dGJiWkZBeUh6SklvckZvYWNqQm02VGlEM2JRaWMwVTkzVnlDa1NObnhLQ2xzdzVQcTh5ZGlVSzVfc9IBkgFBVV95cUxQb3NXTHJETk9mcWVwaTQ5aHBhX3RqVEplTzB4dWtfV2JTdzV6LUpkcFBaYjdXWkhrLW5XSnJjeE1aSUhwT2tnNGVNNXNfZ0ZvaTdYaXFXcGFVeFRlZVB5ZzN2bDA1dTM2NkJxaWpkdkM1bXlLM0FMWjFhVW9ZbS03TVNNejlIanNvalZHemNBdEhOdw?oc=5) |
 | 2026-08-14 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEtYWmtXLU5Ka0MyTERicFprdjVwYlVvRDhveEdMaXpYVFY5c0Z0aWdnWkhlYVVKYlVLLUd5XzdjTDdaRm9XaFJuWHFxRU1aOGplX3d2QTVIRVNQNlh0b2Z1bVhDbkhUdXY3WmxEVFZDTkhwZ2tla0ZuTmpkZkdGSnYxSk1OUEpINFZHRG9kNA?oc=5) |
 | 2026-08-13 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa2FzRWt4SFh2VEJXbE9LbGQzTk94TTNmdE8yc0VRUS1yRkVjT1BtdzZhSnowamVDVUpiTU9CVXBmQjZnUDJBYUFqcndSaXZ1NGpISFdBcDEwZEtFVDc1Q1J1eE1odE4tSVFTcnlyX2tUczlHd0Q5WFRwSFluZnZXVjBnS2poWlJRRUVoV29KenpYc0hid25zMzFEUkpPOHNNZndrZ3VvRkM0VGVybEViYjFXOHMwMGdGOVlqRjNnMVI0R2pKXzFQV1NkUEZSUWJvVk96d2l5cjVabHM?oc=5) |
 | 2026-08-13 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSzZDdzVaU1FyV284WnF3QUNEbS1QSTFPdGszdTdsa01zRHBzM1ZOUkRvZndRTXVWOTRXMFk3dlViTThpTmdLeDZYdnk3cDBETUk0X3hxdndWa2RPSFBIbXBsa0NzVTVMTkxRVFo4dnVsbnpBaXI1cy1sQ0F5VmNkZzd4VjVzZw?oc=5) |
