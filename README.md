@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-17 06:25 UTC
+Last Updated: 2026-08-17 07:40 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,28 +77,28 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-17 | RLinf/RLinf-Pi0-NEW-RoboTwin-SFT-adjust_bottle | 0 | 0 | [link](https://huggingface.co/RLinf/RLinf-Pi0-NEW-RoboTwin-SFT-adjust_bottle) |
+| 2026-08-17 | Codingpae/robotwin | 0 | 0 | [link](https://huggingface.co/Codingpae/robotwin) |
 | 2026-08-17 | sun-robot/pi05_amazinghand_rps | 0 | 0 | [link](https://huggingface.co/sun-robot/pi05_amazinghand_rps) |
 | 2026-08-17 | locht131/gr00t_n17_ot_ablation_adjustbottle_a_robot_only_25k_adjust_bottle_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_ot_ablation_adjustbottle_a_robot_only_25k_adjust_bottle_bs64) |
 | 2026-08-17 | junbrro/g24_dualhead_a5_robotA_nohuman_k4p2_30k | 0 | 0 | [link](https://huggingface.co/junbrro/g24_dualhead_a5_robotA_nohuman_k4p2_30k) |
 | 2026-08-17 | junbrro/g24_dualhead_a3_robotA_humanB_box_k4p2_30k | 0 | 0 | [link](https://huggingface.co/junbrro/g24_dualhead_a3_robotA_humanB_box_k4p2_30k) |
 | 2026-08-17 | junbrro/g24_dualhead_a1_robotA_humanB_box_k4p2_30k | 0 | 0 | [link](https://huggingface.co/junbrro/g24_dualhead_a1_robotA_humanB_box_k4p2_30k) |
+| 2026-08-17 | B111ue/fcl-vla-module-selective-r2 | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-module-selective-r2) |
 | 2026-08-17 | MotionforgeGroup/realtime-vla-flash-FC-80000 | 0 | 0 | [link](https://huggingface.co/MotionforgeGroup/realtime-vla-flash-FC-80000) |
 | 2026-08-17 | geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step35000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step35000) |
-| 2026-08-17 | zonglin11/humanalite_act_demo_policy | 0 | 0 | [link](https://huggingface.co/zonglin11/humanalite_act_demo_policy) |
-| 2026-08-17 | TerryPei/gap-graph-as-policy | 0 | 0 | [link](https://huggingface.co/TerryPei/gap-graph-as-policy) |
-| 2026-08-17 | hiskiv/cosmos-policy-lam-v2 | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam-v2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 2975 | Python | 1190.1 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 2976 | Python | 1190.5 | [link](https://github.com/NVIDIA/skills) |
 | Edgenesis/shifu | 1431 | Go | 572.5 | [link](https://github.com/Edgenesis/shifu) |
 | commaai/openpilot | 63430 | Python | 25372.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15699 | C++ | 6279.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13526 | Python | 5410.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13529 | Python | 5411.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | isaac-sim/IsaacLab | 7906 | Python | 3162.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3879 | Rust | 1551.7 | [link](https://github.com/dora-rs/dora) |
-| huangjunsen0406/py-xiaozhi | 3444 | Python | 1377.7 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
+| huangjunsen0406/py-xiaozhi | 3445 | Python | 1378.1 | [link](https://github.com/huangjunsen0406/py-xiaozhi) |
 | sou350121/VLA-Handbook | 515 | HTML | 206.1 | [link](https://github.com/sou350121/VLA-Handbook) |
 | luohongk/Embodied-AI-Daily | 424 | HTML | 169.7 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 
@@ -119,16 +119,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-17 | Seoul AI Hub to Host Physical AI Hackathon with OpenAI, Team Human and Industry Partners - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yTjFZT1hBNS15WERNeW5xSDRyczA1cS1FaTFmZURaNEx1VFAtaE01SGMzSzVWSmJISzB4QklTZ0JoV2pHcWNVU0o3eW04WEdoTWU0?oc=5) |
 | 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZk1YcnhyaUhPVndxbUtySzVTbEtPNF9KbEU1RnhuNlkwR0laNlR2bmlEUW9JeWR6Q0wyTktvNDdSM2JlZzYwbEVEanhqVGpJZjcwNjJFTGVTYWt5MmFlMnBvYV9qSG5vN1dhckcteUtJOXZRendqU0dzeUY0WmpQUC01SGZMWFdK?oc=5) |
 | 2026-08-16 | LG Bets Its Actuators and Batteries on a Humanoid Robot Built With Nvidia - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGtiLUJZdmhoZjNYaHBDS2g5dDlrSkJIenRuVV80Zm9paVJVdEFQb296dFd5VWpiNkNEYXRHZ1NnRFdKbXRMLXY1SnJCRE9NbzRGVV92UkVSbFlNUWVPLU94S2xILUhxOGt1RXFXMV9qQ3BFWjlQOWRIbWxxeUZEbXlGalFNNzlRTUNjZHNhNmdOUWZhenlVSXRzVW54SE1LdTJJ?oc=5) |
 | 2026-08-15 | China's Infiforce Raises Nearly $150M in Funding to Develop 'Ego Native World Model' for Robots - AI Insider | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjhWNkR2a19lSkphT296X1FvTVRKOS11SzNWc29HbUhXUl9oSGk5Wm4yNEtFcWxHVWh2Y3pBaFllNFQtQ0FyYm1NeFNEM2RyQVJJNXpyNTJGYWpBWUNiVjBCMmlRR0FBRUZ0dkw1cndSRjZlX0VKZEFiaFNMZDFqdFctNWRPNllwbXJJZmVBbU9MT3BfTjZ5d1RkajROdFVYTHJlZWlDNG91YWJaMGJJV0d1VF9WZXhPNHJMVmZKUWJFMTRnS3VOdA?oc=5) |
 | 2026-08-14 | Thai startup Amity Robotics closes US$7.0 million Seed round to build a globally competitive physical AI company - East Ventures | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2I0bzFuaWl6OVBLSFlYbzh5TC1hWVpIR2pvYUZUbGRNbjNHemFnT190MWhya2k3N2N4ZVU0VmhudzBqcEhkU3BLYTluRl9tbEh3V3hYX2VJeWZlM2o3N0xCYUhZZHJmQjlsWllQVVd4MEx3U2hMcGhTaUxFeXZETFFlVnlmVjRNZjdOYWtjTDUzbF9leEZR?oc=5) |
 | 2026-08-12 | Employment immunity: the quiet revolution of robotics and physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lcURSMEFORUVpUHBsejVWMVhTYnZMbDJ6aUVVeVRNRDg5Tm12NDE3SnBDeGNhYmVCNC14TFFPVTJZcldIbUZwNzdNWXpBVllRTXhlRC1EV3hmQ0NNbnUyTnlOQ2hLR1pI?oc=5) |
-| 2026-08-12 | Former Alibaba Researcher Announces New Startup on Digital and Physical AI Agents - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS0yNmtES1hJM2JVdlhsN3ozemF5bnpqbjM3YUE2TXFmM1JuY2FtVEZ6NHl1MmpWclg5aV96LURKTER3bElQQTAxNE9CdDBva1Q3OE1yTFNfeV9lRHRPZTFHNFQtQWxXNnRiXzFUZzhIcTNuV3RWSXZkUWF4S0J5YjZZNHJqZUl5UjJVUHAyS3lhbU1pdTUycjRwcUpoM2J5b2VvRFR4dEowZG9oZVd0bzhETkNkUQ?oc=5) |
+| 2026-08-12 | Former Alibaba Researcher Announces New Startup on Digital and Physical AI Agents - theinformation.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUS0yNmtES1hJM2JVdlhsN3ozemF5bnpqbjM3YUE2TXFmM1JuY2FtVEZ6NHl1MmpWclg5aV96LURKTER3bElQQTAxNE9CdDBva1Q3OE1yTFNfeV9lRHRPZTFHNFQtQWxXNnRiXzFUZzhIcTNuV3RWSXZkUWF4S0J5YjZZNHJqZUl5UjJVUHAyS3lhbU1pdTUycjRwcUpoM2J5b2VvRFR4dEowZG9oZVd0bzhETkNkUQ?oc=5) |
 | 2026-08-12 | Chelsea Finn: The State of Physical Intelligence in Robotics - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVdVWVZtVElfYVFmUGYxMkptaENSMzFHTkJrcFJRakNfdGI1eTVfX3Yyc2pIeEEzSEpnQXl2N3BqdDczMnlKNERDcjVYeDBnMjVvVDFxS3B4ZWxSazJyZU4ya01xeEhDMUxqQV95c3hZbl9Da0EyTXZFajdlcjlwNF9XNXFCczBZUnl0R252QUJrUGczWkVrMncyVW5ubTNlSldRX1lxbUNfVlU?oc=5) |
 | 2026-08-12 | Six Months, $74.1 Million: Westlake University Professor's Embodied AI Startup Secures Four Funding Rounds - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSm5lLTczQTE2eDNNdWZpQmppanBMYUNJSVlPOTlRUW1lbHNjSjh1UzI3UnBsQldXQnRhYS05YnVZbWZXbkF2MXNzMmZubW0wVDJwS19kYXA2SDdWTjZrR1ByZVpUN3NjMjlBZ1FGWFMwQ0J6dmc?oc=5) |
 | 2026-08-11 | Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeF94YlpfN1NQb2trRTN5RVRuOVVDa2F5dER1NV9XYlJoU1Ixb2N0azNnS3VHbE52QkoxY1JBaVkyQXZxQ0pjLUpKXzJxcUlYdU9FTVdod1Y3Y1gwY1Q4Snk0Q191bGUzQ3YxWktoR0UtMjB4aTdEUEFyTllXZk9XbnQ1UnB0S18wcWt2NXBaQlg4dURvUXBHN1FQNkFHLUo5ZjZON2ZmbGRILUNaNnVheXU2cnhmbGs5R3F5WFpxQTJnLVp2N0RadkpR?oc=5) |
-| 2026-08-11 | NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlUtQnQyZ1F3eXZqd1ZVMlNSN0M2U21FZlhmMHp3YnowOUVlbWI2ZnVRdUhrWVJGNVlwOFdKMV9XRHktUXRmd2hMQlNsLVU0eHlwYm9CUmY2eU85U19WTlIyajFJWlF0SV9FTHNSelRLRkpsb3ZEMUxrVVBzLTZmUzJFU1VLSEtsMmpfc0REcHA3eGJ3QTI1Xy1ielNNTENLLTNKRXhiN1h6WWlES2QwREgyV2dKQmxQaDBWU0xjYjE1TWRzQXQyWDdzZ1ZVZw?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
