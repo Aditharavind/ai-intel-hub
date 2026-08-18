@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-18 05:17 UTC
+Last Updated: 2026-08-18 06:19 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -51,14 +51,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-18 | Using Acoustic Resonators as Thrusters for Small Robots | Hackaday | [link](https://hackaday.com/2026/08/17/using-acoustic-resonators-as-thrusters-for-small-robots/) |
 | 2026-08-18 | Edison Motors Offering All-Mechanical Trucks, At Least to Start | Hackaday | [link](https://hackaday.com/2026/08/17/edison-motors-offering-all-mechanical-trucks-at-least-to-start/) |
+| 2026-08-18 | Samsung Foundry delays 1.4nm process for three years | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/samsung-foundry-delays-1-4nm-process-for-three-years-2026-08/) |
+| 2026-08-18 | Shares in humanoids on sale tomorrow | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/shares-in-humanoids-start-selling-tomorrow-2026-08/) |
+| 2026-08-18 | Kiwimoore to list on HKSE | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/kiwimoore-to-list-on-hkse-2026-08/) |
+| 2026-08-18 | Space Forge takes first step into US manufacturing | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/space-forge-2026-08/) |
+| 2026-08-18 | Avnet Silica Q326 Trendliner Reort | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/avnet-silica-trendliner-reort-2026-08/) |
 | 2026-08-18 | Kiev To solve Moscow’s Problems | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/kiev-to-solve-moscows-problems-2026-08/) |
 | 2026-08-17 | One Man’s Perfect Retro-Style Monitor Takes All Inputs | Hackaday | [link](https://hackaday.com/2026/08/17/one-mans-perfect-retro-style-monitor-takes-all-inputs/) |
 | 2026-08-17 | OLEDs Have Gained Brightness, Not Burn-In Resistance | Hackaday | [link](https://hackaday.com/2026/08/17/oleds-have-gained-brightness-not-burn-in-resistance/) |
-| 2026-08-17 | Using Starlink’s Satellites to Study Earth’s Upper Atmosphere | Hackaday | [link](https://hackaday.com/2026/08/17/using-starlinks-satellites-to-study-earths-upper-atmosphere/) |
-| 2026-08-17 | Linux Fu: Improving FTP | Hackaday | [link](https://hackaday.com/2026/08/17/linux-fu-improving-ftp/) |
-| 2026-08-17 | Toy Computer Restored | Hackaday | [link](https://hackaday.com/2026/08/17/looking-at-an-old-toy-computer/) |
-| 2026-08-17 | SONOFF Hydro DUO review – A dual-zone BLE and Zigbee water valve tested with eWeLink and Home Assistant | CNX Software | [link](https://www.cnx-software.com/2026/08/17/sonoff-hydro-duo-review-a-dual-zone-ble-and-zigbee-water-valve-tested-with-ewelink-and-home-assistant/) |
-| 2026-08-17 | Pi-Ener-lite – A compact 18650 UPS board for Raspberry Pi Zero with RTC and fuel gauge | CNX Software | [link](https://www.cnx-software.com/2026/08/17/pi-ener-lite-a-compact-18650-ups-board-for-raspberry-pi-zero-with-rtc-and-fuel-gauge/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -82,11 +82,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-18 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 1089 | 24 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 | 2026-08-18 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-08-18 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
+| 2026-08-18 | 3CTeam/action_evidence_vla_pi05_base_long_15k | 0 | 0 | [link](https://huggingface.co/3CTeam/action_evidence_vla_pi05_base_long_15k) |
 | 2026-08-18 | XYZPIT/vlash-random-gr00t-n1d6-160000 | 0 | 0 | [link](https://huggingface.co/XYZPIT/vlash-random-gr00t-n1d6-160000) |
 | 2026-08-18 | geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step55000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step55000) |
 | 2026-08-18 | vlabki/rr-tw3-bc-ppo-speed-v2 | 0 | 0 | [link](https://huggingface.co/vlabki/rr-tw3-bc-ppo-speed-v2) |
 | 2026-08-18 | UnderTides/Embodied-Navigator-7B-GRPO | 3 | 0 | [link](https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO) |
-| 2026-08-18 | jenyao/so101_act_policy | 0 | 0 | [link](https://huggingface.co/jenyao/so101_act_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,7 +94,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | NVlabs/alpasim | 1183 | Python | 473.3 | [link](https://github.com/NVlabs/alpasim) |
 | commaai/openpilot | 63443 | Python | 25377.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15703 | C++ | 6281.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13562 | Python | 5424.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13565 | Python | 5426.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11315 | Rust | 4526.1 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7910 | Python | 3164.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3880 | Rust | 1552.1 | [link](https://github.com/dora-rs/dora) |
@@ -120,11 +120,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-18 | Humanoid cleaning services chase data as Korea joins global robot race - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcmpjX094R0VKbGI4aE56U0M5MTNMM0tIZlp4N0padHloSHl4QTVvSWVUSFpWV2pZNDZqVVEtM0VNdmNSLUJCNTJJc19malFXTWViNWpmV1RhZVFkRHJEUTJvajNhaW0xR05vMEdRRFZmR0VXaTRBaWFpUnNsTHNRSE130gGWAUFVX3lxTE9jUXdocDdrYURIR3JWRTUySGFGY0VsTjNic1dnNUhrOFRkdWxIRkVBMVlDTmdJUVYtdzBLMjhVQkpPRXQzZllaYVRCQlFJMGxxelQ4MjZCaWh4czg2OHV5RkRkb3AtXzBCdFVubHZRektzSVJ4ZlFxaVpUX0ROYk03YUhaQkxZbk1wTUFpLW1rYkxvMk9vQQ?oc=5) |
-| 2026-08-17 | The 25 most promising robotics startups in 2026, according to investors - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZVNJSW5xMEFIa05WREJJd3ZUNVN1aUFXSkhIbUpwdmplUU9lN1lNcUdVLUZJeV9BS2VMeS1YZDBNU08zSnpsaWJaTTFjUE1ySkQ5VmVMSnMzWlh5YTlDemxCeGk5SU5DWXdic1pEVE5SMXA5YUJlc2VrY1BwMEkzREY5dGhPRmFia3c?oc=5) |
+| 2026-08-17 | The 25 most promising robotics startups in 2026, according to investors - businessinsider.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZVNJSW5xMEFIa05WREJJd3ZUNVN1aUFXSkhIbUpwdmplUU9lN1lNcUdVLUZJeV9BS2VMeS1YZDBNU08zSnpsaWJaTTFjUE1ySkQ5VmVMSnMzWlh5YTlDemxCeGk5SU5DWXdic1pEVE5SMXA5YUJlc2VrY1BwMEkzREY5dGhPRmFia3c?oc=5) |
 | 2026-08-17 | Neura CEO: AI is the Key to Robotics' Future - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWVYVnJmYmM5YjFIS3J5YldFX2RTUzlwS3ZvT3NvTFRmd0x2X2RSUHF1NVdHdExTX3FDbDU1WGRFb1M1VVl5M2dCdGF3cVRVM1pfMndWY3pLWlFtQVUtQzVDOHh0WnRWSnBRYW56R0dQbzNCSTdhUjJVRUQ1bmVGY2tDaENUMmRTXzBrdFVGVkRiX0Ut?oc=5) |
 | 2026-08-17 | Micron Launches a $250 Million Fund to Bankroll the AI Startups Buying Its Chips - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFNEcEtDMGo5cndmTld4YW5qLVNhcWVBLVp2NzdEbzVnZGVrbjZsc0Z5d2gzUUlPMjZEdXBiSkt1Nm1BSlEzNW93OWxybzJkZVNONlVNU1U2TnVKWldVT0xwai1kY0RhZ044UVQ5ZXlvVkZyNDd5SDM2SU93TkZldVpyYXJ0VlJZVFJINFEwaXoyY2N4RzlSaXBLUjcwNnItT2ZEbkItbUtuX2M?oc=5) |
 | 2026-08-17 | Indian startups chase emerging global market with physical AI robots - Business Standard | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmZRMVJKTHBzZnR2Z2djcmZRZU0waW5QcWpZLV9YVlVmMzhrT3A0bEp3cFI0RUc3cGRYSkk2b1JGakx5REpiQ3lyNURGQmNqeU1kWDVvQUhJLW5WeV9FaHJwZkhkYUxuX3lsa0JRdDNxd2RwR2tyLVBkZk96alZVWGpBN2tEMHpIM09rcHJOMWtQUWYwd3pGRzFlZzhIZld6Smp2Y1FXZTJuX2xjemxENndJTklVVkplYmRIMTBzY3plR1BxbGNDUTBIR3NyOVRGZkEwMmQtNXE3WWxpeE9ERm5B0gHiAUFVX3lxTE5uZlExUkpMcHNmdHZnZ2NyZlFlTTBpblBxalktX1hWVWYzOGtPcDRsSndwUjRFRzdwZFhKSTZvUkZqTHlESmJDeXI1REZCY2p5TWRYNW9BSEktblZ5X0VocnBmSGRhTG5feWxrQlF0M3F3ZHBHa3ItUGRmT3pqVlVYakE3a0QwekgzT2twck4xa1BRZjB3ekZHMWVnOEhmV3pKanZjUVdlMm5fbGN6bEQ2d0lOSVVWSmViZEgxMHNjemVHUHFsY0NRMEhHc3I5VEZmQTAyZC01cTdZbGl4T0RGbkE?oc=5) |
-| 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQTEUyN3R5REFQWl9PZXBwM3N5NUtRZTNsLTNfZE1zdm5SV2ZlWDczUEh4NVlZenl5V2tFOHpPeFdqbV9tZTY1NHpoMmtSOWUtMFJHQUJ2YzBsazhNUU9EWDhtVXJEQ3JaZXQ1ZE5qbGpKUGZJWVppendneDNKMHJRZU5BV0dLcDM1ejR1OFZabw?oc=5) |
+| 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - techinasia.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQTEUyN3R5REFQWl9PZXBwM3N5NUtRZTNsLTNfZE1zdm5SV2ZlWDczUEh4NVlZenl5V2tFOHpPeFdqbV9tZTY1NHpoMmtSOWUtMFJHQUJ2YzBsazhNUU9EWDhtVXJEQ3JaZXQ1ZE5qbGpKUGZJWVppendneDNKMHJRZU5BV0dLcDM1ejR1OFZabw?oc=5) |
 | 2026-08-17 | Unitree Says Its New Superman Robot Just Outran Usain Bolt - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPMmhsXzNWQnlGV3RfbjlWc0E2YkJpQWVQS0I3UmwxOGhFLWhCTmsyS3gxUU1QWnVlVFN6b0p3N0lMOG5oS2UwZ2FaZ0FFTzRUM3NwajJZa01JdHYyaDNVTUJOVWItTFRVZWRVYkEtMmFmVE5yYUVqa0lnYzRVTW5adVN4UzBnUlRjNEEtY1JHcw?oc=5) |
 | 2026-08-15 | China's Infiforce Raises Nearly $150M in Funding to Develop 'Ego Native World Model' for Robots - AI Insider | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjhWNkR2a19lSkphT296X1FvTVRKOS11SzNWc29HbUhXUl9oSGk5Wm4yNEtFcWxHVWh2Y3pBaFllNFQtQ0FyYm1NeFNEM2RyQVJJNXpyNTJGYWpBWUNiVjBCMmlRR0FBRUZ0dkw1cndSRjZlX0VKZEFiaFNMZDFqdFctNWRPNllwbXJJZmVBbU9MT3BfTjZ5d1RkajROdFVYTHJlZWlDNG91YWJaMGJJV0d1VF9WZXhPNHJMVmZKUWJFMTRnS3VOdA?oc=5) |
 | 2026-08-14 | Thai startup Amity Robotics closes US$7.0 million Seed round to build a globally competitive physical AI company - East Ventures | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2I0bzFuaWl6OVBLSFlYbzh5TC1hWVpIR2pvYUZUbGRNbjNHemFnT190MWhya2k3N2N4ZVU0VmhudzBqcEhkU3BLYTluRl9tbEh3V3hYX2VJeWZlM2o3N0xCYUhZZHJmQjlsWllQVVd4MEx3U2hMcGhTaUxFeXZETFFlVnlmVjRNZjdOYWtjTDUzbF9leEZR?oc=5) |
