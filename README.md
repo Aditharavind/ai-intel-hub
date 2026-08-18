@@ -1,12 +1,14 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-18 10:14 UTC
+Last Updated: 2026-08-18 11:13 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-18 | Partnering with CodeAI to prepare the first AI generation | OpenAI | [link](https://openai.com/index/partnering-with-codeai) |
+| 2026-08-18 | Introducing ChatGPT for Teens: Built for learning, backed by protections | OpenAI | [link](https://openai.com/index/chatgpt-for-teens) |
 | 2026-08-17 | The Defender’s Window | OpenAI | [link](https://openai.com/index/the-defenders-window) |
 | 2026-08-17 | OpenAI joins PORTS-Pike project | OpenAI | [link](https://openai.com/index/openai-joins-ports-pike-project) |
 | 2026-08-17 | New policy ideas for the Intelligence Age | OpenAI | [link](https://openai.com/index/new-policy-ideas-for-the-intelligence-age) |
@@ -15,8 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-13 | The builder’s guide to GPT‑5.6 | OpenAI | [link](https://openai.com/index/builders-guide-to-gpt-5-6) |
 | 2026-08-13 | Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed | OpenAI | [link](https://openai.com/index/previewing-ultrafast) |
 | 2026-08-13 | OpenAI appoints Dali Rajic as Chief Revenue Officer | OpenAI | [link](https://openai.com/index/dali-rajic-chief-revenue-officer) |
-| 2026-08-13 | Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets | Hugging Face | [link](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop) |
-| 2026-08-13 | What We Learned by Reproducing 2,200 papers from ICML | Hugging Face | [link](https://huggingface.co/blog/icml-2026-open-reproductions) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-18 | Watch Soldering Up Close and From Any Angle, in VR | Hackaday | [link](https://hackaday.com/2026/08/18/watch-soldering-up-close-and-from-any-angle-in-vr/) |
 | 2026-08-18 | Store Tunes on Paper and Stream Them Over LoRA | Hackaday | [link](https://hackaday.com/2026/08/18/store-tunes-on-paper-and-stream-them-over-lora/) |
 | 2026-08-18 | Using Acoustic Resonators as Thrusters for Small Robots | Hackaday | [link](https://hackaday.com/2026/08/17/using-acoustic-resonators-as-thrusters-for-small-robots/) |
 | 2026-08-18 | Edison Motors Offering All-Mechanical Trucks, At Least to Start | Hackaday | [link](https://hackaday.com/2026/08/17/edison-motors-offering-all-mechanical-trucks-at-least-to-start/) |
 | 2026-08-18 | LILYGO T-Echo Lite Kit adds a keyboard shield to the nrRF52840-based ePaper LoRa and GPS development board | CNX Software | [link](https://www.cnx-software.com/2026/08/18/lilygo-t-echo-lite-kit-adds-a-keyboard-shield-to-the-nrrf52840-based-epaper-lora-and-gps-development-board/) |
 | 2026-08-18 | USBridge-KVM 2.0 – An open-source IP-KVM with BIOS access over SSH, OCR, and AI support (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/18/usbridge-kvm-2-0-an-open-source-ip-kvm-with-bios-access-over-ssh-ocr-and-ai-support/) |
+| 2026-08-18 | Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-08/) |
 | 2026-08-18 | Quectel connects IoT with Android 16 smart modules | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/quectel-connects-iot-with-android-16-smart-modules-2026-08/) |
 | 2026-08-18 | Sponsored Content: Hamamatsu Photonics Europe strengthens advanced imaging solutions with Fairchild Imaging CMOS sensor technologies | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/hamamatsu-photonics-europe-strengthens-advanced-imaging-solutions-with-fairchild-imaging-cmos-sensor-technologies-2026-08/) |
 | 2026-08-18 | Samsung Foundry delays 1.4nm process for three years | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/samsung-foundry-delays-1-4nm-process-for-three-years-2026-08/) |
-| 2026-08-18 | Shares in humanoids on sale tomorrow | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/shares-in-humanoids-start-selling-tomorrow-2026-08/) |
-| 2026-08-18 | Kiwimoore to list on HKSE | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/kiwimoore-to-list-on-hkse-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -92,15 +92,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVlabs/alpasim | 1183 | Python | 473.3 | [link](https://github.com/NVlabs/alpasim) |
+| mosaico-labs/mosaico | 922 | Python | 368.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | commaai/openpilot | 63442 | Python | 25376.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15703 | C++ | 6281.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13584 | Python | 5433.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| rerun-io/rerun | 11318 | Rust | 4527.3 | [link](https://github.com/rerun-io/rerun) |
+| google-deepmind/mujoco | 14583 | C++ | 5833.3 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13587 | Python | 5434.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| rerun-io/rerun | 11319 | Rust | 4527.7 | [link](https://github.com/rerun-io/rerun) |
 | kornia/kornia | 11313 | Python | 4525.3 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7911 | Python | 3164.5 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3882 | Rust | 1552.9 | [link](https://github.com/dora-rs/dora) |
-| OpenDCAI/OpenWorldLib | 857 | Python | 342.9 | [link](https://github.com/OpenDCAI/OpenWorldLib) |
-| sou350121/VLA-Handbook | 519 | HTML | 207.7 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,16 +119,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-18 | VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape - news.crunchbase.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGdjZzRxUElYQXVyMVVmeE41NFpIeDlMMGZXSHdnNW5xVlpsa1dxLTdpSVlQeTdmeHBzN3hLODRhWUVjdFVRZ1g1Q2xsNGhlWWFYOUdjN2lsX1NOeDgyNzZKM3hwR2hiMGZXdWlYTW01T2VEd1dYOTJxUkhHY3FLdGtwX3NjYkhRb21pYXpDbVpuSlYtX1dF?oc=5) |
+| 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Bloomberg | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOenVYeUF4SkxXWmhQNmxha2VsaWFDNVU4anNVX1lZNEZYQkh6VDFMSnJHNlRid2ZoUVRCWjJ1ZVc4Y29rd3RjMjEwUlBBZjZlRWlKMW1FSkUtSXBzMk5vcGdoSndQbEYtT1U0RkhmSmZ6NnNGUVNoOHBDazI5NzhQVndUZkFqTXZLeE1Iam4xZFU2LUNGWDU5NkxtM2RqdDIwT0N5bHhmNE81YXExcFd4aHN6elJrNjg?oc=5) |
 | 2026-08-18 | Humanoid cleaning services chase data as Korea joins global robot race - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1F3aHA3a2FESEdyVkU1MkhhRmNFbE4zYnNXZzVIazhUZHVsSEZFQTFZQ05nSVFWLXcwSzI4VUJKT0V0M2ZZWmFUQkJRSTBscXpUODI2QmloeHM4Njh1eUZEZG9wLV8wQnRVbmx2UXpLc0lSeGZRcWlaVF9ETmJNN2FIWkJMWW5NcE1BaS1ta2JMbzJPb0HSAZYBQVVfeXFMT2NRd2hwN2thREhHclZFNTJIYUZjRWxOM2JzV2c1SGs4VGR1bEhGRUExWUNOZ0lRVi13MEsyOFVCSk9FdDNmWVphVEJCUUkwbHF6VDgyNkJpaHhzODY4dXlGRGRvcC1fMEJ0VW5sdlF6S3NJUnhmUXFpWlRfRE5iTTdhSFpCTFluTXBNQWktbWtiTG8yT29B?oc=5) |
 | 2026-08-17 | The 25 most promising robotics startups in 2026, according to investors - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZVNJSW5xMEFIa05WREJJd3ZUNVN1aUFXSkhIbUpwdmplUU9lN1lNcUdVLUZJeV9BS2VMeS1YZDBNU08zSnpsaWJaTTFjUE1ySkQ5VmVMSnMzWlh5YTlDemxCeGk5SU5DWXdic1pEVE5SMXA5YUJlc2VrY1BwMEkzREY5dGhPRmFia3c?oc=5) |
 | 2026-08-17 | Neura CEO: AI is the Key to Robotics' Future - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWVYVnJmYmM5YjFIS3J5YldFX2RTUzlwS3ZvT3NvTFRmd0x2X2RSUHF1NVdHdExTX3FDbDU1WGRFb1M1VVl5M2dCdGF3cVRVM1pfMndWY3pLWlFtQVUtQzVDOHh0WnRWSnBRYW56R0dQbzNCSTdhUjJVRUQ1bmVGY2tDaENUMmRTXzBrdFVGVkRiX0Ut?oc=5) |
 | 2026-08-17 | Micron Launches a $250 Million Fund to Bankroll the AI Startups Buying Its Chips - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFNEcEtDMGo5cndmTld4YW5qLVNhcWVBLVp2NzdEbzVnZGVrbjZsc0Z5d2gzUUlPMjZEdXBiSkt1Nm1BSlEzNW93OWxybzJkZVNONlVNU1U2TnVKWldVT0xwai1kY0RhZ044UVQ5ZXlvVkZyNDd5SDM2SU93TkZldVpyYXJ0VlJZVFJINFEwaXoyY2N4RzlSaXBLUjcwNnItT2ZEbkItbUtuX2M?oc=5) |
-| 2026-08-17 | Indian startups chase emerging global market with physical AI robots - Business Standard | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmZRMVJKTHBzZnR2Z2djcmZRZU0waW5QcWpZLV9YVlVmMzhrT3A0bEp3cFI0RUc3cGRYSkk2b1JGakx5REpiQ3lyNURGQmNqeU1kWDVvQUhJLW5WeV9FaHJwZkhkYUxuX3lsa0JRdDNxd2RwR2tyLVBkZk96alZVWGpBN2tEMHpIM09rcHJOMWtQUWYwd3pGRzFlZzhIZld6Smp2Y1FXZTJuX2xjemxENndJTklVVkplYmRIMTBzY3plR1BxbGNDUTBIR3NyOVRGZkEwMmQtNXE3WWxpeE9ERm5B0gHiAUFVX3lxTE5uZlExUkpMcHNmdHZnZ2NyZlFlTTBpblBxalktX1hWVWYzOGtPcDRsSndwUjRFRzdwZFhKSTZvUkZqTHlESmJDeXI1REZCY2p5TWRYNW9BSEktblZ5X0VocnBmSGRhTG5feWxrQlF0M3F3ZHBHa3ItUGRmT3pqVlVYakE3a0QwekgzT2twck4xa1BRZjB3ekZHMWVnOEhmV3pKanZjUVdlMm5fbGN6bEQ2d0lOSVVWSmViZEgxMHNjemVHUHFsY0NRMEhHc3I5VEZmQTAyZC01cTdZbGl4T0RGbkE?oc=5) |
 | 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQTEUyN3R5REFQWl9PZXBwM3N5NUtRZTNsLTNfZE1zdm5SV2ZlWDczUEh4NVlZenl5V2tFOHpPeFdqbV9tZTY1NHpoMmtSOWUtMFJHQUJ2YzBsazhNUU9EWDhtVXJEQ3JaZXQ1ZE5qbGpKUGZJWVppendneDNKMHJRZU5BV0dLcDM1ejR1OFZabw?oc=5) |
 | 2026-08-17 | Unitree Says Its New Superman Robot Just Outran Usain Bolt - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPMmhsXzNWQnlGV3RfbjlWc0E2YkJpQWVQS0I3UmwxOGhFLWhCTmsyS3gxUU1QWnVlVFN6b0p3N0lMOG5oS2UwZ2FaZ0FFTzRUM3NwajJZa01JdHYyaDNVTUJOVWItTFRVZWRVYkEtMmFmVE5yYUVqa0lnYzRVTW5adVN4UzBnUlRjNEEtY1JHcw?oc=5) |
 | 2026-08-15 | China's Infiforce Raises Nearly $150M in Funding to Develop 'Ego Native World Model' for Robots - AI Insider | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjhWNkR2a19lSkphT296X1FvTVRKOS11SzNWc29HbUhXUl9oSGk5Wm4yNEtFcWxHVWh2Y3pBaFllNFQtQ0FyYm1NeFNEM2RyQVJJNXpyNTJGYWpBWUNiVjBCMmlRR0FBRUZ0dkw1cndSRjZlX0VKZEFiaFNMZDFqdFctNWRPNllwbXJJZmVBbU9MT3BfTjZ5d1RkajROdFVYTHJlZWlDNG91YWJaMGJJV0d1VF9WZXhPNHJMVmZKUWJFMTRnS3VOdA?oc=5) |
 | 2026-08-14 | Thai startup Amity Robotics closes US$7.0 million Seed round to build a globally competitive physical AI company - East Ventures | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2I0bzFuaWl6OVBLSFlYbzh5TC1hWVpIR2pvYUZUbGRNbjNHemFnT190MWhya2k3N2N4ZVU0VmhudzBqcEhkU3BLYTluRl9tbEh3V3hYX2VJeWZlM2o3N0xCYUhZZHJmQjlsWllQVVd4MEx3U2hMcGhTaUxFeXZETFFlVnlmVjRNZjdOYWtjTDUzbF9leEZR?oc=5) |
-| 2026-08-12 | Employment immunity: the quiet revolution of robotics and physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lcURSMEFORUVpUHBsejVWMVhTYnZMbDJ6aUVVeVRNRDg5Tm12NDE3SnBDeGNhYmVCNC14TFFPVTJZcldIbUZwNzdNWXpBVllRTXhlRC1EV3hmQ0NNbnUyTnlOQ2hLR1pI?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
