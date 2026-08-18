@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-18 08:19 UTC
+Last Updated: 2026-08-18 09:19 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -52,13 +52,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-18 | Store Tunes on Paper and Stream Them Over LoRA | Hackaday | [link](https://hackaday.com/2026/08/18/store-tunes-on-paper-and-stream-them-over-lora/) |
 | 2026-08-18 | Using Acoustic Resonators as Thrusters for Small Robots | Hackaday | [link](https://hackaday.com/2026/08/17/using-acoustic-resonators-as-thrusters-for-small-robots/) |
 | 2026-08-18 | Edison Motors Offering All-Mechanical Trucks, At Least to Start | Hackaday | [link](https://hackaday.com/2026/08/17/edison-motors-offering-all-mechanical-trucks-at-least-to-start/) |
+| 2026-08-18 | LILYGO T-Echo Lite Kit adds a keyboard shield to the nrRF52840-based ePaper LoRa and GPS development board | CNX Software | [link](https://www.cnx-software.com/2026/08/18/lilygo-t-echo-lite-kit-adds-a-keyboard-shield-to-the-nrrf52840-based-epaper-lora-and-gps-development-board/) |
 | 2026-08-18 | USBridge-KVM 2.0 – An open-source IP-KVM with BIOS access over SSH, OCR, and AI support (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/18/usbridge-kvm-2-0-an-open-source-ip-kvm-with-bios-access-over-ssh-ocr-and-ai-support/) |
-| 2026-08-17 | One Man’s Perfect Retro-Style Monitor Takes All Inputs | Hackaday | [link](https://hackaday.com/2026/08/17/one-mans-perfect-retro-style-monitor-takes-all-inputs/) |
-| 2026-08-17 | OLEDs Have Gained Brightness, Not Burn-In Resistance | Hackaday | [link](https://hackaday.com/2026/08/17/oleds-have-gained-brightness-not-burn-in-resistance/) |
-| 2026-08-17 | Using Starlink’s Satellites to Study Earth’s Upper Atmosphere | Hackaday | [link](https://hackaday.com/2026/08/17/using-starlinks-satellites-to-study-earths-upper-atmosphere/) |
-| 2026-08-17 | Linux Fu: Improving FTP | Hackaday | [link](https://hackaday.com/2026/08/17/linux-fu-improving-ftp/) |
-| 2026-08-17 | SONOFF Hydro DUO review – A dual-zone BLE and Zigbee water valve tested with eWeLink and Home Assistant | CNX Software | [link](https://www.cnx-software.com/2026/08/17/sonoff-hydro-duo-review-a-dual-zone-ble-and-zigbee-water-valve-tested-with-ewelink-and-home-assistant/) |
-| 2026-08-17 | Pi-Ener-lite – A compact 18650 UPS board for Raspberry Pi Zero with RTC and fuel gauge | CNX Software | [link](https://www.cnx-software.com/2026/08/17/pi-ener-lite-a-compact-18650-ups-board-for-raspberry-pi-zero-with-rtc-and-fuel-gauge/) |
+| 2026-08-18 | Samsung Foundry delays 1.4nm process for three years | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/samsung-foundry-delays-1-4nm-process-for-three-years-2026-08/) |
+| 2026-08-18 | Shares in humanoids on sale tomorrow | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/shares-in-humanoids-start-selling-tomorrow-2026-08/) |
+| 2026-08-18 | Kiwimoore to list on HKSE | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/kiwimoore-to-list-on-hkse-2026-08/) |
+| 2026-08-18 | Space Forge takes first step into US manufacturing | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/space-forge-2026-08/) |
+| 2026-08-18 | Avnet Silica Q326 Trendliner Reort | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/avnet-silica-trendliner-reort-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,24 +77,24 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-18 | sun-robot/smolvla_amazinghand_rps_imi | 0 | 0 | [link](https://huggingface.co/sun-robot/smolvla_amazinghand_rps_imi) |
 | 2026-08-18 | chennana1028/fastwam-robotwin-openarm-sbint-step30000 | 0 | 0 | [link](https://huggingface.co/chennana1028/fastwam-robotwin-openarm-sbint-step30000) |
 | 2026-08-18 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 | 2026-08-18 | sun-robot/pi05_amazinghand_rps | 0 | 0 | [link](https://huggingface.co/sun-robot/pi05_amazinghand_rps) |
-| 2026-08-18 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 1089 | 24 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
+| 2026-08-18 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 1103 | 24 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 | 2026-08-18 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-08-18 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
+| 2026-08-18 | sii-research/tau-0-vla | 182 | 3 | [link](https://huggingface.co/sii-research/tau-0-vla) |
 | 2026-08-18 | 3CTeam/action_evidence_vla_pi05_base_long_15k | 0 | 0 | [link](https://huggingface.co/3CTeam/action_evidence_vla_pi05_base_long_15k) |
 | 2026-08-18 | XYZPIT/vlash-random-gr00t-n1d6-160000 | 0 | 0 | [link](https://huggingface.co/XYZPIT/vlash-random-gr00t-n1d6-160000) |
-| 2026-08-18 | geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step55000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step55000) |
-| 2026-08-18 | vlabki/rr-tw3-bc-ppo-speed-v2 | 0 | 0 | [link](https://huggingface.co/vlabki/rr-tw3-bc-ppo-speed-v2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVlabs/alpasim | 1183 | Python | 473.3 | [link](https://github.com/NVlabs/alpasim) |
-| commaai/openpilot | 63443 | Python | 25377.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63444 | Python | 25377.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15703 | C++ | 6281.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13574 | Python | 5429.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13579 | Python | 5431.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11317 | Rust | 4526.9 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7910 | Python | 3164.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | dora-rs/dora | 3881 | Rust | 1552.5 | [link](https://github.com/dora-rs/dora) |
@@ -107,11 +107,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hUXlDdmVHVTBXZVlwR3BMRWJ0M0FkRUNvQXBxNDFfMjhKVndNRWZvdjZJbWZEMC0xWFBDeG44bkxwak1PTXhmVDMxQmJhQjhSaVJ6b0g3clNGLTNtRm9FVHllYUlrZGFM?oc=5) |
 | 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XVXliUEVHQjNaejZHdU9GemlDdmlid2pWU2RxczZoZGduSmZiU285UXVpQk1nTXgwSHNvLVdIWHp4eDVjR0xWV1pab01jdjZURDZ0Vg?oc=5) |
+| 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRjhUQUZtTVNMY1FXMW9Hd1YyX2xvRmhLWnBLc3htVEFlZjQ5YWdQWktvZ1dDc05rMkk3U2s5bWNaZmhxb204a2VxaXU0XzVJQzdFUkR0VE14TDhOZlpaWlBFOFNnbXBSVjA4d3p1YlItaEFpYUE?oc=5) |
 | 2026-08-17 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS3dYb3NzZTFhbHJGZ2pQb1NYMXBfcERxTXlsanhNa1g1aFRHREZiSUVtUkw0YTBMa0ZrVUlNLWtkYS1YMTlzRVFWQ1pHRVhmaFdSVHc3TWJKWkdYV3ZqeUpRTG5HZ25ZMWRNOWtkdElMZWxzU2RQeU5iYk9iajNrRUxHd3FZX1hXVzN5MzF1akY5bjdxNFBqT2UtODh3NHJ3WkVRLTNsbE1SX1NOTnUySFc5RnRHaU1vSTFjUWdwVGJrSFk1MThWNGRwdkJ5SVp4RjNR?oc=5) |
 | 2026-08-17 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHhzbm5ORngtN2xvWXlRemZBQ3ZwNUhKMHlZZkJNTG1ibUVVZm1JNUVXa1d6ZHVLOUY0X2hSZVpWMjV6Qlh6OC1UaThfMGFTaHpNMGZrZ19BXzdJR29KRWdjbDk1YnZYai1WX19aTlBJQmV1YXpGMmFndnRqeEdLWTBfWGNybWV0WHRBVVJZNTFYVk9HMzBFRHVCcVdJVE9pUGEzcFYwd093X3BfM0FYaVZ6c0V6NllfTVRJX1ZB?oc=5) |
 | 2026-08-17 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxOY1lGSmwwd3RTV0FCS0d5bUU1U2pnck5xNG1qRjBaYnNUZ0QwSXZqQlVsYXU5MzBPODJvaVdFbk94cXNFeFd0YU1oR3Q1c0Rlc3k1M0RtRmhNTWJUR01YX1JVSWtlZEdrV3diV0ZrdGhwTU1RQ3hWdUlmNnF5QWhCend6UHhTVVo0TkJsdFlLNG1QSUVjZkVHclZyQjRzLUI0U1dKT29aV2I2cVJuRkNHaWQ5ZlhrQmIzaWZuWUFsaV9tY3VlVFBxUjd4aWU?oc=5) |
 | 2026-08-16 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQelltOGZ4MmlTZG81cFRuQXVJaXlLVW5BbHduNlpMSGctYUt1bldOcHgxeVFqMHI1VWVEb0tQbHI3N2lfTXl4X1J1Vm1hdW1yNTlyZzdFSktFOHVhRlVhTkJ0RUgta3gwNTM5SlFWMThJMXR4QmNzXzV5UVRwUVJnSWJmLTl6R2dRTHd3YkhscXFmMk9oMkVkeEd5VHMwek9DcUpqdUE5Rno1Tkh0OF9NVU42dGhFbmM2TGdMdXo2Mzl0YXEzeWZwQjdnS2ZfNFhvZkJ5SWdKcVpmbHhHUWc?oc=5) |
-| 2026-08-16 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUlaMllFZ2ZCMUZYREdXWWRrYXI3N3VCZjRTZTdaMkE3bWhBTXVfX3hBbDFSaHFrN0ZJU3p3VF95TTVqMWdiMkkwQ1BaMkR0YkRXd1EtYkRJME15SVJ6NnZwWjhnWkFIVnBYVUk4N2VvcERERndicUxGRDhEY0J3bG5XWkNubk9FTU9OaVVoa2xTYWMzYnAyeEthVGRYbVJFbDlHbUs0aXN6QQ?oc=5) |
 | 2026-08-15 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxQdTM2aUgycHotSkI2ZlN3Uk5kSEpLT2xuZlVCaFplLURFLVZaWG4zTy15clBaWTF2dmxERFNzeHp5eG9tdzhTcUphS0pETGhSYnFpTTJxa2dUbkV6NmJLMzA0NWo4ZmQ3SFJzbVJuazU2dVVLNzNzdmxMRFFPT19HRlV1aXNxX2NPRFk4WmJoR0dzOUxkMGFsdUZsOVczVmNIOC14TWo1Njg2MHpocFhOZDU4T0dUeGR0T3FMekhHbFVfV2VhS09J?oc=5) |
 | 2026-08-14 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHowNUFfdlRvSktyMXpFaFVpS2pCUUpQZVp1N2QtejViZHJXMUJOSTc4Y2lxU2tSVWVkZUtpZ2RtZkt1TTZSWHNDNmg0bW9tQ3I1dGJiWkZBeUh6SklvckZvYWNqQm02VGlEM2JRaWMwVTkzVnlDa1NObnhLQ2xzdzVQcTh5ZGlVSzVfc9IBkgFBVV95cUxQb3NXTHJETk9mcWVwaTQ5aHBhX3RqVEplTzB4dWtfV2JTdzV6LUpkcFBaYjdXWkhrLW5XSnJjeE1aSUhwT2tnNGVNNXNfZ0ZvaTdYaXFXcGFVeFRlZVB5ZzN2bDA1dTM2NkJxaWpkdkM1bXlLM0FMWjFhVW9ZbS03TVNNejlIanNvalZHemNBdEhOdw?oc=5) |
 | 2026-08-13 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa2FzRWt4SFh2VEJXbE9LbGQzTk94TTNmdE8yc0VRUS1yRkVjT1BtdzZhSnowamVDVUpiTU9CVXBmQjZnUDJBYUFqcndSaXZ1NGpISFdBcDEwZEtFVDc1Q1J1eE1odE4tSVFTcnlyX2tUczlHd0Q5WFRwSFluZnZXVjBnS2poWlJRRUVoV29KenpYc0hid25zMzFEUkpPOHNNZndrZ3VvRkM0VGVybEViYjFXOHMwMGdGOVlqRjNnMVI0R2pKXzFQV1NkUEZSUWJvVk96d2l5cjVabHM?oc=5) |
