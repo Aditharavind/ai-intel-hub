@@ -1,5 +1,15 @@
 [
   {
+    "repo": "commaai/openpilot",
+    "stars": 63435,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-08-18",
+    "topic": "robotics",
+    "score": 25374.1
+  },
+  {
     "repo": "NVIDIA/skills",
     "stars": 2987,
     "language": "Python",
@@ -30,16 +40,6 @@
     "score": 473.3
   },
   {
-    "repo": "commaai/openpilot",
-    "stars": 63435,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-08-17",
-    "topic": "robotics",
-    "score": 25374.1
-  },
-  {
     "repo": "AtsushiSakai/PythonRobotics",
     "stars": 30312,
     "language": "Python",
@@ -51,13 +51,13 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16132,
+    "stars": 16133,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-08-17",
     "topic": "robotics",
-    "score": 6452.9
+    "score": 6453.3
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -71,13 +71,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14574,
+    "stars": 14575,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-17",
     "topic": "robotics",
-    "score": 5829.7
+    "score": 5830.1
   },
   {
     "repo": "DLR-RM/stable-baselines3",
@@ -91,13 +91,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13552,
+    "stars": 13553,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-17",
     "topic": "robotics",
-    "score": 5420.9
+    "score": 5421.3
   },
   {
     "repo": "kornia/kornia",
@@ -181,13 +181,13 @@
   },
   {
     "repo": "sou350121/VLA-Handbook",
-    "stars": 517,
+    "stars": 518,
     "language": "HTML",
     "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
     "url": "https://github.com/sou350121/VLA-Handbook",
     "date": "2026-08-17",
     "topic": "robot-learning",
-    "score": 206.9
+    "score": 207.3
   },
   {
     "repo": "flashrt-project/FlashRT",
@@ -501,13 +501,13 @@
   },
   {
     "repo": "nasa-jpl/open-source-rover",
-    "stars": 9583,
+    "stars": 9584,
     "language": "Prolog",
     "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
     "url": "https://github.com/nasa-jpl/open-source-rover",
     "date": "2026-08-13",
     "topic": "robotics",
-    "score": 3833.3
+    "score": 3833.7
   },
   {
     "repo": "ROBOTIS-GIT/ai_worker",
@@ -830,6 +830,16 @@
     "score": 67.7
   },
   {
+    "repo": "JereoZero/so101-real",
+    "stars": 30,
+    "language": "Python",
+    "description": "实机部署so101流程和踩坑全记录，使用lerobot框架so101真机。在本地 ubuntu22+5070显卡 搭建环境，部署，录数据，训练smolvla，推理全流程。",
+    "url": "https://github.com/JereoZero/so101-real",
+    "date": "2026-07-22",
+    "topic": "lerobot",
+    "score": 12.1
+  },
+  {
     "repo": "nv-tlabs/lyra",
     "stars": 2244,
     "language": "Python",
@@ -848,15 +858,5 @@
     "date": "2026-07-20",
     "topic": "world-model",
     "score": 194.9
-  },
-  {
-    "repo": "carpit680/giraffe",
-    "stars": 47,
-    "language": "Python",
-    "description": "🦒 A cost-effective, ROS2-compatible robotic manipulator designed to lower the barriers of entry to Embodied AI.",
-    "url": "https://github.com/carpit680/giraffe",
-    "date": "2026-07-18",
-    "topic": "lerobot",
-    "score": 18.9
   }
 ]
