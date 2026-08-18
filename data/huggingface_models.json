@@ -90,19 +90,28 @@
     "score": 0.3
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "model": "B111ue/fcl-vla-functional-support-canary",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
     "date": "2026-08-18",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "B111ue/fcl-vla-functional-support-canary",
+    "model": "sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-18",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-18",
     "keyword": "vla",
     "score": 0.1
@@ -189,12 +198,39 @@
     "score": 0.1
   },
   {
-    "model": "vlabki/rr-tw3-bc-ppo-speed-v2",
+    "model": "novastar111/pacman_braidthin_noncot_chunk_kinf_world_model",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/vlabki/rr-tw3-bc-ppo-speed-v2",
+    "url": "https://huggingface.co/novastar111/pacman_braidthin_noncot_chunk_kinf_world_model",
     "date": "2026-08-18",
-    "keyword": "vla",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "novastar111/pacman_braidthin_cot_chunk_kinf_world_model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/novastar111/pacman_braidthin_cot_chunk_kinf_world_model",
+    "date": "2026-08-18",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "novastar111/pacman_braidthin_noncot_chunk_k10_world_model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/novastar111/pacman_braidthin_noncot_chunk_k10_world_model",
+    "date": "2026-08-18",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "novastar111/pacman_braidthin_cot_chunk_k10_world_model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/novastar111/pacman_braidthin_cot_chunk_k10_world_model",
+    "date": "2026-08-18",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -411,33 +447,6 @@
     "url": "https://huggingface.co/Mayank022/Transformer-Vision-From-Image-Video-to-World-Models-and-Robotics-Book",
     "date": "2026-08-16",
     "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "novastar111/pusht_cot_chunk_kinf_world_model_15k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/novastar111/pusht_cot_chunk_kinf_world_model_15k",
-    "date": "2026-08-15",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "novastar111/pusht_cot_chunk_kinf_world_model_10k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/novastar111/pusht_cot_chunk_kinf_world_model_10k",
-    "date": "2026-08-15",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "novastar111/pusht_noncot_chunk_k10_world_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/novastar111/pusht_noncot_chunk_k10_world_model",
-    "date": "2026-08-15",
-    "keyword": "world model",
     "score": 0.1
   },
   {
