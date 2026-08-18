@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-18 03:32 UTC
+Generated: 2026-08-18 04:21 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -17,8 +17,8 @@ Generated: 2026-08-18 03:32 UTC
 | commaai/openpilot | 63441 | 25376.5 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30311 | 12124.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16132 | 6452.9 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15702 | 6280.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| TianxingChen/Embodied-AI-Guide | 15485 | 6194.1 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
+| ArduPilot/ardupilot | 15703 | 6281.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| TianxingChen/Embodied-AI-Guide | 15486 | 6194.5 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -43,6 +43,6 @@ Generated: 2026-08-18 03:32 UTC
 | --- | --- | --- | --- |
 | 2026-08-18 | Humanoid cleaning services chase data as Korea joins global robot race - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcmpjX094R0VKbGI4aE56U0M5MTNMM0tIZlp4N0padHloSHl4QTVvSWVUSFpWV2pZNDZqVVEtM0VNdmNSLUJCNTJJc19malFXTWViNWpmV1RhZVFkRHJEUTJvajNhaW0xR05vMEdRRFZmR0VXaTRBaWFpUnNsTHNRSE130gGWAUFVX3lxTE9jUXdocDdrYURIR3JWRTUySGFGY0VsTjNic1dnNUhrOFRkdWxIRkVBMVlDTmdJUVYtdzBLMjhVQkpPRXQzZllaYVRCQlFJMGxxelQ4MjZCaWh4czg2OHV5RkRkb3AtXzBCdFVubHZRektzSVJ4ZlFxaVpUX0ROYk03YUhaQkxZbk1wTUFpLW1rYkxvMk9vQQ?oc=5) |
 | 2026-08-17 | The 25 most promising robotics startups in 2026, according to investors - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZVNJSW5xMEFIa05WREJJd3ZUNVN1aUFXSkhIbUpwdmplUU9lN1lNcUdVLUZJeV9BS2VMeS1YZDBNU08zSnpsaWJaTTFjUE1ySkQ5VmVMSnMzWlh5YTlDemxCeGk5SU5DWXdic1pEVE5SMXA5YUJlc2VrY1BwMEkzREY5dGhPRmFia3c?oc=5) |
-| 2026-08-17 | Micron Launches a $250 Million Fund to Bankroll the AI Startups Buying Its Chips - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFNEcEtDMGo5cndmTld4YW5qLVNhcWVBLVp2NzdEbzVnZGVrbjZsc0Z5d2gzUUlPMjZEdXBiSkt1Nm1BSlEzNW93OWxybzJkZVNONlVNU1U2TnVKWldVT0xwai1kY0RhZ044UVQ5ZXlvVkZyNDd5SDM2SU93TkZldVpyYXJ0VlJZVFJINFEwaXoyY2N4RzlSaXBLUjcwNnItT2ZEbkItbUtuX2M?oc=5) |
+| 2026-08-17 | This Embodied AI Startup Completes Series C Funding With A $2.94B Valuation - Sahm | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXFudFpCS3F3VGVMVzJySWVId0FYM0p2QkdMVXYyN2xlUlluOFlnZVB2UzBOYXl0UnBBRUJlVXBHWVMtTGRZLWdvRzRGMG9mbllkdmpleXppVWRWMHZ0cEdtYWwyUkZNWmR5Z2dFdFVJbTR5ZHp3N293XzB0ZmhQNzZReXEyTU14eXRQWUdrMWZwRGgzODZwU2N6dHJwdF9KS1V2V2o2RThqZ01ZUXVpNTRBNmVrVzFFdWVfSXIyelBKOEk?oc=5) |
 | 2026-08-17 | Neura CEO: AI is the Key to Robotics' Future - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWVYVnJmYmM5YjFIS3J5YldFX2RTUzlwS3ZvT3NvTFRmd0x2X2RSUHF1NVdHdExTX3FDbDU1WGRFb1M1VVl5M2dCdGF3cVRVM1pfMndWY3pLWlFtQVUtQzVDOHh0WnRWSnBRYW56R0dQbzNCSTdhUjJVRUQ1bmVGY2tDaENUMmRTXzBrdFVGVkRiX0Ut?oc=5) |
-| 2026-08-17 | Indian startups chase emerging global market with physical AI robots - Business Standard | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmZRMVJKTHBzZnR2Z2djcmZRZU0waW5QcWpZLV9YVlVmMzhrT3A0bEp3cFI0RUc3cGRYSkk2b1JGakx5REpiQ3lyNURGQmNqeU1kWDVvQUhJLW5WeV9FaHJwZkhkYUxuX3lsa0JRdDNxd2RwR2tyLVBkZk96alZVWGpBN2tEMHpIM09rcHJOMWtQUWYwd3pGRzFlZzhIZld6Smp2Y1FXZTJuX2xjemxENndJTklVVkplYmRIMTBzY3plR1BxbGNDUTBIR3NyOVRGZkEwMmQtNXE3WWxpeE9ERm5B0gHiAUFVX3lxTE5uZlExUkpMcHNmdHZnZ2NyZlFlTTBpblBxalktX1hWVWYzOGtPcDRsSndwUjRFRzdwZFhKSTZvUkZqTHlESmJDeXI1REZCY2p5TWRYNW9BSEktblZ5X0VocnBmSGRhTG5feWxrQlF0M3F3ZHBHa3ItUGRmT3pqVlVYakE3a0QwekgzT2twck4xa1BRZjB3ekZHMWVnOEhmV3pKanZjUVdlMm5fbGN6bEQ2d0lOSVVWSmViZEgxMHNjemVHUHFsY0NRMEhHc3I5VEZmQTAyZC01cTdZbGl4T0RGbkE?oc=5) |
+| 2026-08-17 | Micron Launches a $250 Million Fund to Bankroll the AI Startups Buying Its Chips - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFNEcEtDMGo5cndmTld4YW5qLVNhcWVBLVp2NzdEbzVnZGVrbjZsc0Z5d2gzUUlPMjZEdXBiSkt1Nm1BSlEzNW93OWxybzJkZVNONlVNU1U2TnVKWldVT0xwai1kY0RhZ044UVQ5ZXlvVkZyNDd5SDM2SU93TkZldVpyYXJ0VlJZVFJINFEwaXoyY2N4RzlSaXBLUjcwNnItT2ZEbkItbUtuX2M?oc=5) |

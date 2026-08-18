@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-18 03:32 UTC
+Last Updated: 2026-08-18 04:21 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -80,27 +80,27 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-18 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 1089 | 24 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 | 2026-08-18 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 | 2026-08-18 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
+| 2026-08-18 | geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step55000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step55000) |
+| 2026-08-18 | vlabki/rr-tw3-bc-ppo-speed-v2 | 0 | 0 | [link](https://huggingface.co/vlabki/rr-tw3-bc-ppo-speed-v2) |
 | 2026-08-18 | jaeikkim/fr3-cube-full10k-gaussian-policy | 0 | 0 | [link](https://huggingface.co/jaeikkim/fr3-cube-full10k-gaussian-policy) |
 | 2026-08-18 | killvung/orbit-chase-linear-sarsa-policy-weights | 0 | 0 | [link](https://huggingface.co/killvung/orbit-chase-linear-sarsa-policy-weights) |
 | 2026-08-17 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp | 0 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp) |
 | 2026-08-17 | puppet-robotics/golf-model-mcap-test | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-mcap-test) |
 | 2026-08-17 | locht131/gr00t_n17_ot_ablation_adjustbottle_a_robot_only_ep25_adjust_bottle_bs64 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_ot_ablation_adjustbottle_a_robot_only_ep25_adjust_bottle_bs64) |
-| 2026-08-17 | sun-robot/smolvla_amazinghand_rps | 0 | 0 | [link](https://huggingface.co/sun-robot/smolvla_amazinghand_rps) |
-| 2026-08-17 | OpenWAM/New_OpenWAM_Robotwin_Clean_SFT_5epoch | 0 | 0 | [link](https://huggingface.co/OpenWAM/New_OpenWAM_Robotwin_Clean_SFT_5epoch) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVlabs/alpasim | 1183 | Python | 473.3 | [link](https://github.com/NVlabs/alpasim) |
 | commaai/openpilot | 63441 | Python | 25376.5 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15702 | C++ | 6280.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13558 | Python | 5423.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| ArduPilot/ardupilot | 15703 | C++ | 6281.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| earthtojake/text-to-cad | 13559 | Python | 5423.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11314 | Rust | 4525.7 | [link](https://github.com/rerun-io/rerun) |
 | dora-rs/dora | 3880 | Rust | 1552.1 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 518 | HTML | 207.3 | [link](https://github.com/sou350121/VLA-Handbook) |
+| luohongk/Embodied-AI-Daily | 425 | HTML | 170.1 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 | vllm-project/vllm-omni | 6138 | Python | 2455.3 | [link](https://github.com/vllm-project/vllm-omni) |
 | inclusionAI/AWorld | 1222 | Python | 488.9 | [link](https://github.com/inclusionAI/AWorld) |
-| NVIDIA/skills | 2990 | Python | 1196.1 | [link](https://github.com/NVIDIA/skills) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -121,14 +121,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-18 | Humanoid cleaning services chase data as Korea joins global robot race - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcmpjX094R0VKbGI4aE56U0M5MTNMM0tIZlp4N0padHloSHl4QTVvSWVUSFpWV2pZNDZqVVEtM0VNdmNSLUJCNTJJc19malFXTWViNWpmV1RhZVFkRHJEUTJvajNhaW0xR05vMEdRRFZmR0VXaTRBaWFpUnNsTHNRSE130gGWAUFVX3lxTE9jUXdocDdrYURIR3JWRTUySGFGY0VsTjNic1dnNUhrOFRkdWxIRkVBMVlDTmdJUVYtdzBLMjhVQkpPRXQzZllaYVRCQlFJMGxxelQ4MjZCaWh4czg2OHV5RkRkb3AtXzBCdFVubHZRektzSVJ4ZlFxaVpUX0ROYk03YUhaQkxZbk1wTUFpLW1rYkxvMk9vQQ?oc=5) |
 | 2026-08-17 | The 25 most promising robotics startups in 2026, according to investors - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZVNJSW5xMEFIa05WREJJd3ZUNVN1aUFXSkhIbUpwdmplUU9lN1lNcUdVLUZJeV9BS2VMeS1YZDBNU08zSnpsaWJaTTFjUE1ySkQ5VmVMSnMzWlh5YTlDemxCeGk5SU5DWXdic1pEVE5SMXA5YUJlc2VrY1BwMEkzREY5dGhPRmFia3c?oc=5) |
-| 2026-08-17 | Micron Launches a $250 Million Fund to Bankroll the AI Startups Buying Its Chips - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFNEcEtDMGo5cndmTld4YW5qLVNhcWVBLVp2NzdEbzVnZGVrbjZsc0Z5d2gzUUlPMjZEdXBiSkt1Nm1BSlEzNW93OWxybzJkZVNONlVNU1U2TnVKWldVT0xwai1kY0RhZ044UVQ5ZXlvVkZyNDd5SDM2SU93TkZldVpyYXJ0VlJZVFJINFEwaXoyY2N4RzlSaXBLUjcwNnItT2ZEbkItbUtuX2M?oc=5) |
+| 2026-08-17 | This Embodied AI Startup Completes Series C Funding With A $2.94B Valuation - Sahm | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXFudFpCS3F3VGVMVzJySWVId0FYM0p2QkdMVXYyN2xlUlluOFlnZVB2UzBOYXl0UnBBRUJlVXBHWVMtTGRZLWdvRzRGMG9mbllkdmpleXppVWRWMHZ0cEdtYWwyUkZNWmR5Z2dFdFVJbTR5ZHp3N293XzB0ZmhQNzZReXEyTU14eXRQWUdrMWZwRGgzODZwU2N6dHJwdF9KS1V2V2o2RThqZ01ZUXVpNTRBNmVrVzFFdWVfSXIyelBKOEk?oc=5) |
 | 2026-08-17 | Neura CEO: AI is the Key to Robotics' Future - StartupHub.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWVYVnJmYmM5YjFIS3J5YldFX2RTUzlwS3ZvT3NvTFRmd0x2X2RSUHF1NVdHdExTX3FDbDU1WGRFb1M1VVl5M2dCdGF3cVRVM1pfMndWY3pLWlFtQVUtQzVDOHh0WnRWSnBRYW56R0dQbzNCSTdhUjJVRUQ1bmVGY2tDaENUMmRTXzBrdFVGVkRiX0Ut?oc=5) |
-| 2026-08-17 | Indian startups chase emerging global market with physical AI robots - Business Standard | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmZRMVJKTHBzZnR2Z2djcmZRZU0waW5QcWpZLV9YVlVmMzhrT3A0bEp3cFI0RUc3cGRYSkk2b1JGakx5REpiQ3lyNURGQmNqeU1kWDVvQUhJLW5WeV9FaHJwZkhkYUxuX3lsa0JRdDNxd2RwR2tyLVBkZk96alZVWGpBN2tEMHpIM09rcHJOMWtQUWYwd3pGRzFlZzhIZld6Smp2Y1FXZTJuX2xjemxENndJTklVVkplYmRIMTBzY3plR1BxbGNDUTBIR3NyOVRGZkEwMmQtNXE3WWxpeE9ERm5B0gHiAUFVX3lxTE5uZlExUkpMcHNmdHZnZ2NyZlFlTTBpblBxalktX1hWVWYzOGtPcDRsSndwUjRFRzdwZFhKSTZvUkZqTHlESmJDeXI1REZCY2p5TWRYNW9BSEktblZ5X0VocnBmSGRhTG5feWxrQlF0M3F3ZHBHa3ItUGRmT3pqVlVYakE3a0QwekgzT2twck4xa1BRZjB3ekZHMWVnOEhmV3pKanZjUVdlMm5fbGN6bEQ2d0lOSVVWSmViZEgxMHNjemVHUHFsY0NRMEhHc3I5VEZmQTAyZC01cTdZbGl4T0RGbkE?oc=5) |
+| 2026-08-17 | Micron Launches a $250 Million Fund to Bankroll the AI Startups Buying Its Chips - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFNEcEtDMGo5cndmTld4YW5qLVNhcWVBLVp2NzdEbzVnZGVrbjZsc0Z5d2gzUUlPMjZEdXBiSkt1Nm1BSlEzNW93OWxybzJkZVNONlVNU1U2TnVKWldVT0xwai1kY0RhZ044UVQ5ZXlvVkZyNDd5SDM2SU93TkZldVpyYXJ0VlJZVFJINFEwaXoyY2N4RzlSaXBLUjcwNnItT2ZEbkItbUtuX2M?oc=5) |
+| 2026-08-17 | Indian startups chase emerging global market with physical AI robots - business-standard.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmZRMVJKTHBzZnR2Z2djcmZRZU0waW5QcWpZLV9YVlVmMzhrT3A0bEp3cFI0RUc3cGRYSkk2b1JGakx5REpiQ3lyNURGQmNqeU1kWDVvQUhJLW5WeV9FaHJwZkhkYUxuX3lsa0JRdDNxd2RwR2tyLVBkZk96alZVWGpBN2tEMHpIM09rcHJOMWtQUWYwd3pGRzFlZzhIZld6Smp2Y1FXZTJuX2xjemxENndJTklVVkplYmRIMTBzY3plR1BxbGNDUTBIR3NyOVRGZkEwMmQtNXE3WWxpeE9ERm5B0gHiAUFVX3lxTE5uZlExUkpMcHNmdHZnZ2NyZlFlTTBpblBxalktX1hWVWYzOGtPcDRsSndwUjRFRzdwZFhKSTZvUkZqTHlESmJDeXI1REZCY2p5TWRYNW9BSEktblZ5X0VocnBmSGRhTG5feWxrQlF0M3F3ZHBHa3ItUGRmT3pqVlVYakE3a0QwekgzT2twck4xa1BRZjB3ekZHMWVnOEhmV3pKanZjUVdlMm5fbGN6bEQ2d0lOSVVWSmViZEgxMHNjemVHUHFsY0NRMEhHc3I5VEZmQTAyZC01cTdZbGl4T0RGbkE?oc=5) |
 | 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZk1YcnhyaUhPVndxbUtySzVTbEtPNF9KbEU1RnhuNlkwR0laNlR2bmlEUW9JeWR6Q0wyTktvNDdSM2JlZzYwbEVEanhqVGpJZjcwNjJFTGVTYWt5MmFlMnBvYV9qSG5vN1dhckcteUtJOXZRendqU0dzeUY0WmpQUC01SGZMWFdK?oc=5) |
 | 2026-08-17 | Unitree Says Its New Superman Robot Just Outran Usain Bolt - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPMmhsXzNWQnlGV3RfbjlWc0E2YkJpQWVQS0I3UmwxOGhFLWhCTmsyS3gxUU1QWnVlVFN6b0p3N0lMOG5oS2UwZ2FaZ0FFTzRUM3NwajJZa01JdHYyaDNVTUJOVWItTFRVZWRVYkEtMmFmVE5yYUVqa0lnYzRVTW5adVN4UzBnUlRjNEEtY1JHcw?oc=5) |
 | 2026-08-15 | China's Infiforce Raises Nearly $150M in Funding to Develop 'Ego Native World Model' for Robots - AI Insider | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjhWNkR2a19lSkphT296X1FvTVRKOS11SzNWc29HbUhXUl9oSGk5Wm4yNEtFcWxHVWh2Y3pBaFllNFQtQ0FyYm1NeFNEM2RyQVJJNXpyNTJGYWpBWUNiVjBCMmlRR0FBRUZ0dkw1cndSRjZlX0VKZEFiaFNMZDFqdFctNWRPNllwbXJJZmVBbU9MT3BfTjZ5d1RkajROdFVYTHJlZWlDNG91YWJaMGJJV0d1VF9WZXhPNHJMVmZKUWJFMTRnS3VOdA?oc=5) |
 | 2026-08-14 | Thai startup Amity Robotics closes US$7.0 million Seed round to build a globally competitive physical AI company - East Ventures | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2I0bzFuaWl6OVBLSFlYbzh5TC1hWVpIR2pvYUZUbGRNbjNHemFnT190MWhya2k3N2N4ZVU0VmhudzBqcEhkU3BLYTluRl9tbEh3V3hYX2VJeWZlM2o3N0xCYUhZZHJmQjlsWllQVVd4MEx3U2hMcGhTaUxFeXZETFFlVnlmVjRNZjdOYWtjTDUzbF9leEZR?oc=5) |
-| 2026-08-12 | Employment immunity: the quiet revolution of robotics and physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lcURSMEFORUVpUHBsejVWMVhTYnZMbDJ6aUVVeVRNRDg5Tm12NDE3SnBDeGNhYmVCNC14TFFPVTJZcldIbUZwNzdNWXpBVllRTXhlRC1EV3hmQ0NNbnUyTnlOQ2hLR1pI?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

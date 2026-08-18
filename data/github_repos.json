@@ -21,23 +21,23 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15702,
+    "stars": 15703,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-18",
     "topic": "robotics",
-    "score": 6280.9
+    "score": 6281.3
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13558,
+    "stars": 13559,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-18",
     "topic": "robotics",
-    "score": 5423.3
+    "score": 5423.7
   },
   {
     "repo": "rerun-io/rerun",
@@ -70,6 +70,16 @@
     "score": 207.3
   },
   {
+    "repo": "luohongk/Embodied-AI-Daily",
+    "stars": 425,
+    "language": "HTML",
+    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
+    "url": "https://github.com/luohongk/Embodied-AI-Daily",
+    "date": "2026-08-18",
+    "topic": "vla",
+    "score": 170.1
+  },
+  {
     "repo": "vllm-project/vllm-omni",
     "stars": 6138,
     "language": "Python",
@@ -90,14 +100,24 @@
     "score": 488.9
   },
   {
+    "repo": "DexForce/EmbodiChain",
+    "stars": 210,
+    "language": "Python",
+    "description": "An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence.",
+    "url": "https://github.com/DexForce/EmbodiChain",
+    "date": "2026-08-18",
+    "topic": "robot-learning",
+    "score": 84.1
+  },
+  {
     "repo": "NVIDIA/skills",
-    "stars": 2990,
+    "stars": 2991,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-17",
     "topic": "physical-ai",
-    "score": 1196.1
+    "score": 1196.5
   },
   {
     "repo": "Edgenesis/shifu",
@@ -191,13 +211,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3219,
+    "stars": 3220,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-17",
     "topic": "embodied-ai",
-    "score": 1287.7
+    "score": 1288.1
   },
   {
     "repo": "MIV-XJTU/JanusVLN",
@@ -220,16 +240,6 @@
     "score": 204.5
   },
   {
-    "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 425,
-    "language": "HTML",
-    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
-    "url": "https://github.com/luohongk/Embodied-AI-Daily",
-    "date": "2026-08-17",
-    "topic": "vla",
-    "score": 170.1
-  },
-  {
     "repo": "baidu-baige/LoongForge",
     "stars": 404,
     "language": "Python",
@@ -241,13 +251,13 @@
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 368,
+    "stars": 369,
     "language": "",
     "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
     "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
     "date": "2026-08-17",
     "topic": "robot-learning",
-    "score": 147.3
+    "score": 147.7
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -308,16 +318,6 @@
     "date": "2026-08-17",
     "topic": "humanoid",
     "score": 3.7
-  },
-  {
-    "repo": "DexForce/EmbodiChain",
-    "stars": 210,
-    "language": "Python",
-    "description": "An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence.",
-    "url": "https://github.com/DexForce/EmbodiChain",
-    "date": "2026-08-17",
-    "topic": "robot-learning",
-    "score": 84.1
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
@@ -401,13 +401,13 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4563,
+    "stars": 4564,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-15",
     "topic": "embodied-ai",
-    "score": 1825.3
+    "score": 1825.7
   },
   {
     "repo": "ace-trump-tech/MindPaw",
@@ -461,13 +461,13 @@
   },
   {
     "repo": "alireza787b/mavsdk_drone_show",
-    "stars": 311,
+    "stars": 312,
     "language": "Python",
     "description": "Open-source MAVLink fleet operations for PX4: SITL, drone shows, search and rescue, cooperative autonomy, and field validation",
     "url": "https://github.com/alireza787b/mavsdk_drone_show",
     "date": "2026-08-14",
     "topic": "physical-ai",
-    "score": 124.5
+    "score": 124.9
   },
   {
     "repo": "NVIDIA-Omniverse/ovrtx",
@@ -571,13 +571,13 @@
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2736,
+    "stars": 2738,
     "language": "Python",
     "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-08-10",
     "topic": "embodied-ai",
-    "score": 1094.5
+    "score": 1095.3
   },
   {
     "repo": "roboninecom/SO-ARM100-101-Parallel-Gripper",
@@ -711,13 +711,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15485,
+    "stars": 15486,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6194.1
+    "score": 6194.5
   },
   {
     "repo": "aalmuzairee/squint",
