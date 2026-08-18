@@ -11,13 +11,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63441,
+    "stars": 63443,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-18",
     "topic": "robotics",
-    "score": 25376.5
+    "score": 25377.3
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -31,23 +31,33 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13559,
+    "stars": 13562,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-18",
     "topic": "robotics",
-    "score": 5423.7
+    "score": 5424.9
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11314,
+    "stars": 11315,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-08-18",
     "topic": "robotics",
-    "score": 4525.7
+    "score": 4526.1
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7910,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-08-18",
+    "topic": "robot-learning",
+    "score": 3164.1
   },
   {
     "repo": "dora-rs/dora",
@@ -58,6 +68,16 @@
     "date": "2026-08-18",
     "topic": "embodied-ai",
     "score": 1552.1
+  },
+  {
+    "repo": "OpenDCAI/OpenWorldLib",
+    "stars": 856,
+    "language": "Python",
+    "description": "Unified Codebase for Advanced World Models.",
+    "url": "https://github.com/OpenDCAI/OpenWorldLib",
+    "date": "2026-08-18",
+    "topic": "world-model",
+    "score": 342.5
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -81,13 +101,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6138,
+    "stars": 6141,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-18",
     "topic": "world-model",
-    "score": 2455.3
+    "score": 2456.5
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -98,6 +118,16 @@
     "date": "2026-08-18",
     "topic": "world-model",
     "score": 488.9
+  },
+  {
+    "repo": "NVlabs/ProtoMotions",
+    "stars": 2314,
+    "language": "Python",
+    "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
+    "url": "https://github.com/NVlabs/ProtoMotions",
+    "date": "2026-08-18",
+    "topic": "humanoid",
+    "score": 925.7
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -131,23 +161,23 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30311,
+    "stars": 30312,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-08-17",
     "topic": "robotics",
-    "score": 12124.5
+    "score": 12124.9
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16132,
+    "stars": 16133,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-08-17",
     "topic": "robotics",
-    "score": 6452.9
+    "score": 6453.3
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -178,16 +208,6 @@
     "date": "2026-08-17",
     "topic": "robotics",
     "score": 4525.7
-  },
-  {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7910,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-08-17",
-    "topic": "robot-learning",
-    "score": 3164.1
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",
@@ -280,16 +300,6 @@
     "score": 852.9
   },
   {
-    "repo": "NVlabs/ProtoMotions",
-    "stars": 2314,
-    "language": "Python",
-    "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
-    "url": "https://github.com/NVlabs/ProtoMotions",
-    "date": "2026-08-17",
-    "topic": "humanoid",
-    "score": 925.7
-  },
-  {
     "repo": "OpenHUTB/hutb",
     "stars": 546,
     "language": "C++",
@@ -351,13 +361,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2232,
+    "stars": 2233,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-16",
     "topic": "robot-learning",
-    "score": 892.9
+    "score": 893.3
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -591,13 +601,13 @@
   },
   {
     "repo": "robocasa/robocasa",
-    "stars": 1651,
+    "stars": 1652,
     "language": "Python",
     "description": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
     "url": "https://github.com/robocasa/robocasa",
     "date": "2026-08-07",
     "topic": "robot-learning",
-    "score": 660.5
+    "score": 660.9
   },
   {
     "repo": "dexmal/dexbotic",
@@ -671,13 +681,13 @@
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
-    "stars": 1635,
+    "stars": 1636,
     "language": "",
     "description": "A curated list of awesome robot descriptions (URDF, MJCF)",
     "url": "https://github.com/robot-descriptions/awesome-robot-descriptions",
     "date": "2026-08-04",
     "topic": "humanoid",
-    "score": 654.1
+    "score": 654.5
   },
   {
     "repo": "OpenDriveLab/RoboNaldo",
@@ -700,24 +710,14 @@
     "score": 68.1
   },
   {
-    "repo": "OpenDCAI/OpenWorldLib",
-    "stars": 856,
-    "language": "Python",
-    "description": "Unified Codebase for Advanced World Models.",
-    "url": "https://github.com/OpenDCAI/OpenWorldLib",
-    "date": "2026-08-03",
-    "topic": "world-model",
-    "score": 342.5
-  },
-  {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15486,
+    "stars": 15487,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6194.5
+    "score": 6194.9
   },
   {
     "repo": "aalmuzairee/squint",
@@ -791,13 +791,13 @@
   },
   {
     "repo": "manumerous/wb_humanoid_mpc",
-    "stars": 357,
+    "stars": 358,
     "language": "C++",
     "description": "Whole-Body Nonlinear MPC for Realtime Humanoid Loco-Manipulation Planning and Control",
     "url": "https://github.com/manumerous/wb_humanoid_mpc",
     "date": "2026-07-26",
     "topic": "humanoid",
-    "score": 142.9
+    "score": 143.3
   },
   {
     "repo": "thu-ml/Causal-Forcing",

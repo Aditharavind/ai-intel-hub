@@ -1,5 +1,12 @@
 [
   {
+    "title": "Using Acoustic Resonators as Thrusters for Small Robots",
+    "source": "Hackaday",
+    "date": "2026-08-18",
+    "url": "https://hackaday.com/2026/08/17/using-acoustic-resonators-as-thrusters-for-small-robots/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"443\" src=\"https://hackaday.com/wp-content/uploads/2026/08/micro_resonator_flying_robot_junsun_hwang_et_al_science_advances_2026.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are quite a few rather unconventional methods of propulsion, but perhaps one of the more curious approaches involved Helmholtz resonance, as demonstrated by [Junsun Hwang] et al. with a <a class=\"read-more\" href=\"https://hackaday.com/2026/08/17/using-acoustic-resonators-as-thrusters-for-small-robots/\">&#8230;read more</a>"
+  },
+  {
     "title": "Edison Motors Offering All-Mechanical Trucks, At Least to Start",
     "source": "Hackaday",
     "date": "2026-08-18",
@@ -49,13 +56,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/digicompFeat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In the 1960s, the home computer was barely a twinkle in anyone&#8217;s eye. This was the decade in which computers were used by a handful of companies and organizations and <a class=\"read-more\" href=\"https://hackaday.com/2026/08/17/looking-at-an-old-toy-computer/\">&#8230;read more</a>"
   },
   {
-    "title": "Hackaday Europe 2026: Open Source Hardware Goes Underground, Literally",
-    "source": "Hackaday",
-    "date": "2026-08-17",
-    "url": "https://hackaday.com/2026/08/17/hackaday-europe-2026-open-source-hardware-goes-underground-literally/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/08/DSCF6867_featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>These days open source is everywhere, and frankly, we couldn&#8217;t be happier about it. But even with as prevalent as open software and hardware has become, we still occasionally hear <a class=\"read-more\" href=\"https://hackaday.com/2026/08/17/hackaday-europe-2026-open-source-hardware-goes-underground-literally/\">&#8230;read more</a>"
-  },
-  {
     "title": "SONOFF Hydro DUO review – A dual-zone BLE and Zigbee water valve tested with eWeLink and Home Assistant",
     "source": "CNX Software",
     "date": "2026-08-17",
@@ -81,7 +81,7 @@
     "source": "CNX Software",
     "date": "2026-08-17",
     "url": "https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/",
-    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a83d1fc4f252872197823/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a83e0e320b99492691842/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "SensiBel and Aizip Combine Optical MEMS and Edge AI Beamforming",

@@ -1,14 +1,5 @@
 [
   {
-    "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
-    "downloads": 1089,
-    "likes": 24,
-    "url": "https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1",
-    "date": "2026-08-18",
-    "keyword": "robot",
-    "score": 331.6
-  },
-  {
     "model": "Chipaipai/tcc-core-real-robot-policies",
     "downloads": 0,
     "likes": 0,
@@ -18,6 +9,24 @@
     "score": 0.1
   },
   {
+    "model": "sun-robot/pi05_amazinghand_rps",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sun-robot/pi05_amazinghand_rps",
+    "date": "2026-08-18",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
+    "downloads": 1089,
+    "likes": 24,
+    "url": "https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1",
+    "date": "2026-08-18",
+    "keyword": "robot",
+    "score": 331.6
+  },
+  {
     "model": "zolkin/robot_rl",
     "downloads": 0,
     "likes": 1,
@@ -25,6 +34,24 @@
     "date": "2026-08-18",
     "keyword": "robot",
     "score": 0.3
+  },
+  {
+    "model": "B111ue/fcl-vla-functional-support-canary",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
+    "date": "2026-08-18",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "XYZPIT/vlash-random-gr00t-n1d6-160000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/XYZPIT/vlash-random-gr00t-n1d6-160000",
+    "date": "2026-08-18",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step55000",
@@ -42,6 +69,33 @@
     "url": "https://huggingface.co/vlabki/rr-tw3-bc-ppo-speed-v2",
     "date": "2026-08-18",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "UnderTides/Embodied-Navigator-7B-GRPO",
+    "downloads": 3,
+    "likes": 0,
+    "url": "https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO",
+    "date": "2026-08-18",
+    "keyword": "embodied",
+    "score": 1.0
+  },
+  {
+    "model": "jenyao/so101_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jenyao/so101_act_policy",
+    "date": "2026-08-18",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "hpjchilin/policy_test",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/hpjchilin/policy_test",
+    "date": "2026-08-18",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -135,15 +189,6 @@
     "score": 0.1
   },
   {
-    "model": "Codingpae/robotwin",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Codingpae/robotwin",
-    "date": "2026-08-17",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step50000",
     "downloads": 0,
     "likes": 0,
@@ -214,15 +259,6 @@
     "date": "2026-08-17",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step35000",
-    "downloads": 5,
-    "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step35000",
-    "date": "2026-08-17",
-    "keyword": "vla",
-    "score": 1.6
   },
   {
     "model": "Fleurrr/A2World-World-Model",
@@ -306,39 +342,12 @@
     "score": 0.1
   },
   {
-    "model": "geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step30000",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step30000",
-    "date": "2026-08-16",
-    "keyword": "vla",
-    "score": 1.9
-  },
-  {
     "model": "Mayank022/Transformer-Vision-From-Image-Video-to-World-Models-and-Robotics-Book",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Mayank022/Transformer-Vision-From-Image-Video-to-World-Models-and-Robotics-Book",
     "date": "2026-08-16",
     "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "Pradheep1647/eagle3-speculative-decoding-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Pradheep1647/eagle3-speculative-decoding-policy",
-    "date": "2026-08-16",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "mysciz/patch-policy-repro",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mysciz/patch-policy-repro",
-    "date": "2026-08-16",
-    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -430,15 +439,6 @@
     "date": "2026-08-15",
     "keyword": "world model",
     "score": 0.1
-  },
-  {
-    "model": "UnderTides/Embodied-Navigator-7B-GRPO",
-    "downloads": 3,
-    "likes": 0,
-    "url": "https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO",
-    "date": "2026-08-15",
-    "keyword": "embodied",
-    "score": 1.0
   },
   {
     "model": "snu-aidas/Dynin-Robotics",
