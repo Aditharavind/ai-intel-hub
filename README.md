@@ -1,13 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-18 20:08 UTC
+Last Updated: 2026-08-18 21:11 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
-| 2026-08-18 | Strengthening Democratic Oversight in National Security | OpenAI | [link](https://openai.com/index/strengthening-democratic-oversight-in-national-security) |
+| 2026-08-18 | Strengthening democratic oversight in national security | OpenAI | [link](https://openai.com/index/strengthening-democratic-oversight-in-national-security) |
 | 2026-08-18 | Partnering with CodeAI to prepare the first AI generation | OpenAI | [link](https://openai.com/index/partnering-with-codeai) |
 | 2026-08-18 | Pacing model development in an era of cyber-critical capabilities | OpenAI | [link](https://openai.com/index/pacing-model-development-cyber-capabilities) |
 | 2026-08-18 | Introducing ChatGPT for Teens: Built for learning, backed by protections | OpenAI | [link](https://openai.com/index/chatgpt-for-teens) |
@@ -108,8 +108,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0U2OVlyZEFWVkZ4WGFMTHhDZzV3bzA2WFRzaWtYZl9paUdPNFB5bDl5aFM4Slllc2lKTU0xdjVIUTA1V3Ewc2FRTS05NVlSRGtZWXBBcVI0SWhrTUs1VTloQnhwbC1aZ25PekVkVGQ5ejQ3R3lOb1Q0Si1VX1ZkaE0yUTlJTGpoN0dHcDZmSXBtWGxEZGRlOHhZWlo2OEpJWHpkcUdwbUZtQQ?oc=5) |
 | 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZTBWaG40V1FyajFzdVlXRmhZS29sT0R0TWFJMk9OWDBkQWJxelZIZThmeU1hT2RVWnI2UHpPcVQ4TkRsVUotZjQ3eDFoc2VfUGRjU0d2QlBBVWFyWm1nWXMtRWtZZWpVNzZpYV9WOGRLeFlOeGo1bWEzTEZ0dzZLSE5BVW4taEN4RG1MUDJfaHI1RkU3WDY2NG9vdmlpaFVva3hncFVLcnA2QQ?oc=5) |
 | 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hUXlDdmVHVTBXZVlwR3BMRWJ0M0FkRUNvQXBxNDFfMjhKVndNRWZvdjZJbWZEMC0xWFBDeG44bkxwak1PTXhmVDMxQmJhQjhSaVJ6b0g3clNGLTNtRm9FVHllYUlrZGFM?oc=5) |
-| 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRjhUQUZtTVNMY1FXMW9Hd1YyX2xvRmhLWnBLc3htVEFlZjQ5YWdQWktvZ1dDc05rMkk3U2s5bWNaZmhxb204a2VxaXU0XzVJQzdFUkR0VE14TDhOZlpaWlBFOFNnbXBSVjA4d3p1YlItaEFpYUE?oc=5) |
 | 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XVXliUEVHQjNaejZHdU9GemlDdmlid2pWU2RxczZoZGduSmZiU285UXVpQk1nTXgwSHNvLVdIWHp4eDVjR0xWV1pab01jdjZURDZ0Vg?oc=5) |
+| 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRjhUQUZtTVNMY1FXMW9Hd1YyX2xvRmhLWnBLc3htVEFlZjQ5YWdQWktvZ1dDc05rMkk3U2s5bWNaZmhxb204a2VxaXU0XzVJQzdFUkR0VE14TDhOZlpaWlBFOFNnbXBSVjA4d3p1YlItaEFpYUE?oc=5) |
 | 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVVE4ZVhZV1pZR0tTYUVrSjYtVUlzUHBQdlRKUElicEszN0NnLWo4R3ZmVUxJeGJJZFUxbkhGcTROay1WVFZVRXFYcExMUmc1a1diczRpaWtjeEhtSEhvQmE3ckgtUk5qYWFKV29FS1h5cURMbjRLek1KNVc4ek1EaXByb0oycmtiQUhBbkZBb1RfeG1pMDFIaDByZnQxbEFnWnIxQjZnSnl4azJTWTRibTd1MXNLaTZtaWtwX09Xc0ZXNFBjTFpkRXo2dFBBeWlVbFB0cWRxSUk3bkVJZFZIYw?oc=5) |
 | 2026-08-17 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS3dYb3NzZTFhbHJGZ2pQb1NYMXBfcERxTXlsanhNa1g1aFRHREZiSUVtUkw0YTBMa0ZrVUlNLWtkYS1YMTlzRVFWQ1pHRVhmaFdSVHc3TWJKWkdYV3ZqeUpRTG5HZ25ZMWRNOWtkdElMZWxzU2RQeU5iYk9iajNrRUxHd3FZX1hXVzN5MzF1akY5bjdxNFBqT2UtODh3NHJ3WkVRLTNsbE1SX1NOTnUySFc5RnRHaU1vSTFjUWdwVGJrSFk1MThWNGRwdkJ5SVp4RjNR?oc=5) |
 | 2026-08-17 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHhzbm5ORngtN2xvWXlRemZBQ3ZwNUhKMHlZZkJNTG1ibUVVZm1JNUVXa1d6ZHVLOUY0X2hSZVpWMjV6Qlh6OC1UaThfMGFTaHpNMGZrZ19BXzdJR29KRWdjbDk1YnZYai1WX19aTlBJQmV1YXpGMmFndnRqeEdLWTBfWGNybWV0WHRBVVJZNTFYVk9HMzBFRHVCcVdJVE9pUGEzcFYwd093X3BfM0FYaVZ6c0V6NllfTVRJX1ZB?oc=5) |
@@ -126,7 +126,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-18 | Humanoid cleaning services chase data as Korea joins global robot race - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1F3aHA3a2FESEdyVkU1MkhhRmNFbE4zYnNXZzVIazhUZHVsSEZFQTFZQ05nSVFWLXcwSzI4VUJKT0V0M2ZZWmFUQkJRSTBscXpUODI2QmloeHM4Njh1eUZEZG9wLV8wQnRVbmx2UXpLc0lSeGZRcWlaVF9ETmJNN2FIWkJMWW5NcE1BaS1ta2JMbzJPb0HSAZYBQVVfeXFMT2NRd2hwN2thREhHclZFNTJIYUZjRWxOM2JzV2c1SGs4VGR1bEhGRUExWUNOZ0lRVi13MEsyOFVCSk9FdDNmWVphVEJCUUkwbHF6VDgyNkJpaHhzODY4dXlGRGRvcC1fMEJ0VW5sdlF6S3NJUnhmUXFpWlRfRE5iTTdhSFpCTFluTXBNQWktbWtiTG8yT29B?oc=5) |
 | 2026-08-17 | The 25 most promising robotics startups in 2026, according to investors - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZVNJSW5xMEFIa05WREJJd3ZUNVN1aUFXSkhIbUpwdmplUU9lN1lNcUdVLUZJeV9BS2VMeS1YZDBNU08zSnpsaWJaTTFjUE1ySkQ5VmVMSnMzWlh5YTlDemxCeGk5SU5DWXdic1pEVE5SMXA5YUJlc2VrY1BwMEkzREY5dGhPRmFia3c?oc=5) |
 | 2026-08-17 | This Embodied AI Startup Completes Series C Funding With A $2.94B Valuation - Sahm | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXFudFpCS3F3VGVMVzJySWVId0FYM0p2QkdMVXYyN2xlUlluOFlnZVB2UzBOYXl0UnBBRUJlVXBHWVMtTGRZLWdvRzRGMG9mbllkdmpleXppVWRWMHZ0cEdtYWwyUkZNWmR5Z2dFdFVJbTR5ZHp3N293XzB0ZmhQNzZReXEyTU14eXRQWUdrMWZwRGgzODZwU2N6dHJwdF9KS1V2V2o2RThqZ01ZUXVpNTRBNmVrVzFFdWVfSXIyelBKOEk?oc=5) |
-| 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - techinasia.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQTEUyN3R5REFQWl9PZXBwM3N5NUtRZTNsLTNfZE1zdm5SV2ZlWDczUEh4NVlZenl5V2tFOHpPeFdqbV9tZTY1NHpoMmtSOWUtMFJHQUJ2YzBsazhNUU9EWDhtVXJEQ3JaZXQ1ZE5qbGpKUGZJWVppendneDNKMHJRZU5BV0dLcDM1ejR1OFZabw?oc=5) |
+| 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQTEUyN3R5REFQWl9PZXBwM3N5NUtRZTNsLTNfZE1zdm5SV2ZlWDczUEh4NVlZenl5V2tFOHpPeFdqbV9tZTY1NHpoMmtSOWUtMFJHQUJ2YzBsazhNUU9EWDhtVXJEQ3JaZXQ1ZE5qbGpKUGZJWVppendneDNKMHJRZU5BV0dLcDM1ejR1OFZabw?oc=5) |
 | 2026-08-17 | Ban on Chinese robots leaves U.S. startups stranded - Rest of World | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTFBPYXJPYkRTbGtMYjllRUlEU2ZiN0s4OXR2amM2ZE90NEVvbkFxOW9lbjRra0dlRzRmbDZNYk0yUktOT2JfY1I4aXpGSmJmaE9ZcHl4RjhvQzZheFZpNHdqLUNfbzAwTm52RUN4ZA?oc=5) |
 | 2026-08-16 | LG Bets Its Actuators and Batteries on a Humanoid Robot Built With Nvidia - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGtiLUJZdmhoZjNYaHBDS2g5dDlrSkJIenRuVV80Zm9paVJVdEFQb296dFd5VWpiNkNEYXRHZ1NnRFdKbXRMLXY1SnJCRE9NbzRGVV92UkVSbFlNUWVPLU94S2xILUhxOGt1RXFXMV9qQ3BFWjlQOWRIbWxxeUZEbXlGalFNNzlRTUNjZHNhNmdOUWZhenlVSXRzVW54SE1LdTJJ?oc=5) |
 
