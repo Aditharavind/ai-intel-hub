@@ -21,23 +21,33 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63442,
+    "stars": 63444,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-18",
     "topic": "robotics",
-    "score": 25376.9
+    "score": 25377.7
+  },
+  {
+    "repo": "zauberzeug/nicegui",
+    "stars": 16135,
+    "language": "Python",
+    "description": "Create web-based user interfaces with Python. The nice way.",
+    "url": "https://github.com/zauberzeug/nicegui",
+    "date": "2026-08-18",
+    "topic": "robotics",
+    "score": 6454.1
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15703,
+    "stars": 15704,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-18",
     "topic": "robotics",
-    "score": 6281.3
+    "score": 6281.7
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -51,13 +61,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13587,
+    "stars": 13588,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-18",
     "topic": "robotics",
-    "score": 5434.9
+    "score": 5435.3
   },
   {
     "repo": "rerun-io/rerun",
@@ -98,6 +108,16 @@
     "date": "2026-08-18",
     "topic": "embodied-ai",
     "score": 1552.9
+  },
+  {
+    "repo": "datawhalechina/every-embodied",
+    "stars": 3230,
+    "language": "Python",
+    "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
+    "url": "https://github.com/datawhalechina/every-embodied",
+    "date": "2026-08-18",
+    "topic": "embodied-ai",
+    "score": 1292.1
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -151,13 +171,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6146,
+    "stars": 6147,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-18",
     "topic": "world-model",
-    "score": 2458.5
+    "score": 2458.9
   },
   {
     "repo": "galilai-group/stable-worldmodel",
@@ -250,16 +270,6 @@
     "score": 12126.5
   },
   {
-    "repo": "zauberzeug/nicegui",
-    "stars": 16134,
-    "language": "Python",
-    "description": "Create web-based user interfaces with Python. The nice way.",
-    "url": "https://github.com/zauberzeug/nicegui",
-    "date": "2026-08-17",
-    "topic": "robotics",
-    "score": 6453.7
-  },
-  {
     "repo": "DLR-RM/stable-baselines3",
     "stars": 13706,
     "language": "Python",
@@ -290,34 +300,24 @@
     "score": 1326.5
   },
   {
-    "repo": "datawhalechina/every-embodied",
-    "stars": 3231,
-    "language": "Python",
-    "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
-    "url": "https://github.com/datawhalechina/every-embodied",
-    "date": "2026-08-17",
-    "topic": "embodied-ai",
-    "score": 1292.5
-  },
-  {
     "repo": "MIV-XJTU/JanusVLN",
-    "stars": 579,
+    "stars": 580,
     "language": "Python",
     "description": "[ICLR2026] Official implementation for \"JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation\"",
     "url": "https://github.com/MIV-XJTU/JanusVLN",
     "date": "2026-08-17",
     "topic": "vla",
-    "score": 231.7
+    "score": 232.1
   },
   {
     "repo": "flashrt-project/FlashRT",
-    "stars": 513,
+    "stars": 514,
     "language": "C++",
     "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
     "url": "https://github.com/flashrt-project/FlashRT",
     "date": "2026-08-17",
     "topic": "vla",
-    "score": 205.3
+    "score": 205.7
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -381,13 +381,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2237,
+    "stars": 2238,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-16",
     "topic": "robot-learning",
-    "score": 894.9
+    "score": 895.3
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -711,13 +711,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15496,
+    "stars": 15497,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6198.5
+    "score": 6198.9
   },
   {
     "repo": "aalmuzairee/squint",
@@ -761,13 +761,13 @@
   },
   {
     "repo": "PKU-YuanGroup/Helios",
-    "stars": 2058,
+    "stars": 2059,
     "language": "Python",
     "description": "Helios: Real Real-Time Long Video Generation Model",
     "url": "https://github.com/PKU-YuanGroup/Helios",
     "date": "2026-07-28",
     "topic": "world-model",
-    "score": 823.3
+    "score": 823.7
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",
@@ -851,12 +851,12 @@
   },
   {
     "repo": "OpenDriveLab/WorldEngine",
-    "stars": 487,
+    "stars": 488,
     "language": "Python",
     "description": "WorldEngine: Towards the Era of Post-Training for Autonomous Driving",
     "url": "https://github.com/OpenDriveLab/WorldEngine",
     "date": "2026-07-20",
     "topic": "world-model",
-    "score": 194.9
+    "score": 195.3
   }
 ]
