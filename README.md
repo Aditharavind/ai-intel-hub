@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-18 09:19 UTC
+Last Updated: 2026-08-18 10:14 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -54,11 +54,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-18 | Edison Motors Offering All-Mechanical Trucks, At Least to Start | Hackaday | [link](https://hackaday.com/2026/08/17/edison-motors-offering-all-mechanical-trucks-at-least-to-start/) |
 | 2026-08-18 | LILYGO T-Echo Lite Kit adds a keyboard shield to the nrRF52840-based ePaper LoRa and GPS development board | CNX Software | [link](https://www.cnx-software.com/2026/08/18/lilygo-t-echo-lite-kit-adds-a-keyboard-shield-to-the-nrrf52840-based-epaper-lora-and-gps-development-board/) |
 | 2026-08-18 | USBridge-KVM 2.0 – An open-source IP-KVM with BIOS access over SSH, OCR, and AI support (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/18/usbridge-kvm-2-0-an-open-source-ip-kvm-with-bios-access-over-ssh-ocr-and-ai-support/) |
+| 2026-08-18 | Quectel connects IoT with Android 16 smart modules | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/quectel-connects-iot-with-android-16-smart-modules-2026-08/) |
+| 2026-08-18 | Sponsored Content: Hamamatsu Photonics Europe strengthens advanced imaging solutions with Fairchild Imaging CMOS sensor technologies | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/hamamatsu-photonics-europe-strengthens-advanced-imaging-solutions-with-fairchild-imaging-cmos-sensor-technologies-2026-08/) |
 | 2026-08-18 | Samsung Foundry delays 1.4nm process for three years | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/samsung-foundry-delays-1-4nm-process-for-three-years-2026-08/) |
 | 2026-08-18 | Shares in humanoids on sale tomorrow | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/shares-in-humanoids-start-selling-tomorrow-2026-08/) |
 | 2026-08-18 | Kiwimoore to list on HKSE | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/kiwimoore-to-list-on-hkse-2026-08/) |
-| 2026-08-18 | Space Forge takes first step into US manufacturing | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/space-forge-2026-08/) |
-| 2026-08-18 | Avnet Silica Q326 Trendliner Reort | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/avnet-silica-trendliner-reort-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -84,23 +84,23 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-18 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 1103 | 24 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 | 2026-08-18 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-08-18 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
+| 2026-08-18 | geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step60000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step60000) |
 | 2026-08-18 | sii-research/tau-0-vla | 182 | 3 | [link](https://huggingface.co/sii-research/tau-0-vla) |
 | 2026-08-18 | 3CTeam/action_evidence_vla_pi05_base_long_15k | 0 | 0 | [link](https://huggingface.co/3CTeam/action_evidence_vla_pi05_base_long_15k) |
-| 2026-08-18 | XYZPIT/vlash-random-gr00t-n1d6-160000 | 0 | 0 | [link](https://huggingface.co/XYZPIT/vlash-random-gr00t-n1d6-160000) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVlabs/alpasim | 1183 | Python | 473.3 | [link](https://github.com/NVlabs/alpasim) |
-| commaai/openpilot | 63444 | Python | 25377.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63442 | Python | 25376.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15703 | C++ | 6281.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13579 | Python | 5431.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| rerun-io/rerun | 11317 | Rust | 4526.9 | [link](https://github.com/rerun-io/rerun) |
-| isaac-sim/IsaacLab | 7910 | Python | 3164.1 | [link](https://github.com/isaac-sim/IsaacLab) |
-| dora-rs/dora | 3881 | Rust | 1552.5 | [link](https://github.com/dora-rs/dora) |
+| earthtojake/text-to-cad | 13584 | Python | 5433.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| rerun-io/rerun | 11318 | Rust | 4527.3 | [link](https://github.com/rerun-io/rerun) |
+| kornia/kornia | 11313 | Python | 4525.3 | [link](https://github.com/kornia/kornia) |
+| isaac-sim/IsaacLab | 7911 | Python | 3164.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| dora-rs/dora | 3882 | Rust | 1552.9 | [link](https://github.com/dora-rs/dora) |
 | OpenDCAI/OpenWorldLib | 857 | Python | 342.9 | [link](https://github.com/OpenDCAI/OpenWorldLib) |
 | sou350121/VLA-Handbook | 519 | HTML | 207.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| luohongk/Embodied-AI-Daily | 425 | HTML | 170.1 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
