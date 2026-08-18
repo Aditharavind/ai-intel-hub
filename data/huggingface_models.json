@@ -1,5 +1,23 @@
 [
   {
+    "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
+    "downloads": 1089,
+    "likes": 24,
+    "url": "https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1",
+    "date": "2026-08-18",
+    "keyword": "robot",
+    "score": 331.6
+  },
+  {
+    "model": "Chipaipai/tcc-core-real-robot-policies",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Chipaipai/tcc-core-real-robot-policies",
+    "date": "2026-08-18",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "zolkin/robot_rl",
     "downloads": 0,
     "likes": 1,
@@ -106,24 +124,6 @@
     "date": "2026-08-17",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "sun-robot/pi05_amazinghand_rps",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sun-robot/pi05_amazinghand_rps",
-    "date": "2026-08-17",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "locht131/gr00t_n17_ot_ablation_adjustbottle_a_robot_only_25k_adjust_bottle_bs64",
-    "downloads": 5,
-    "likes": 0,
-    "url": "https://huggingface.co/locht131/gr00t_n17_ot_ablation_adjustbottle_a_robot_only_25k_adjust_bottle_bs64",
-    "date": "2026-08-17",
-    "keyword": "robot",
-    "score": 1.6
   },
   {
     "model": "geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step50000",
@@ -432,10 +432,10 @@
     "score": 0.1
   },
   {
-    "model": "UnderTides/Embodied-Navigator-7B-GRPO-600",
+    "model": "UnderTides/Embodied-Navigator-7B-GRPO",
     "downloads": 3,
     "likes": 0,
-    "url": "https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO-600",
+    "url": "https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO",
     "date": "2026-08-15",
     "keyword": "embodied",
     "score": 1.0
