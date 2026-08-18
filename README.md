@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-18 15:18 UTC
+Last Updated: 2026-08-18 16:15 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -37,6 +37,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-18 | Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market | Robotics Business Review | [link](https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/) |
 | 2026-08-18 | Drones With Claws Perch on Arctic Icebergs | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/arctic-iceberg-drones) |
+| 2026-08-18 | FORT Robotics to take safety stack public via SPAC merger | Robotics Business Review | [link](https://www.therobotreport.com/fort-robotics-takes-safety-stack-public-via-spac-merger/) |
 | 2026-08-17 | Gravis Robotics raises $200M for autonomous construction | Robotics Business Review | [link](https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction/) |
 | 2026-08-17 | Is Shipyard Welding the Right First Job for Humanoid Robots? | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding) |
 | 2026-08-17 | How Generalist uses human demonstration data for robot learning | Robotics Business Review | [link](https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/) |
@@ -44,11 +45,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-17 | Five years of operation shape Diligent Robotics rollout of Moxi 2.0 | Robotics Business Review | [link](https://www.therobotreport.com/five-years-operation-shape-diligent-robotics-rollout-moxi-2-0/) |
 | 2026-08-16 | How robotics is revolutionizing stroke rehabilitation | Robotics Business Review | [link](https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation/) |
 | 2026-08-15 | Why robots that can’t communicate naturally won’t be adopted | Robotics Business Review | [link](https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/) |
-| 2026-08-14 | Robots on Wall Street: Non-traditional paths to public markets for robotics companies | Robotics Business Review | [link](https://www.therobotreport.com/robots-on-wall-street-non-traditional-paths-public-markets-robotics-companies/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-18 | So, You Want to Fix an Old Camera | Hackaday | [link](https://hackaday.com/2026/08/18/so-you-want-to-fix-an-old-camera/) |
 | 2026-08-18 | Smartphones and the Next Generation of Hearing Aids | Hackaday | [link](https://hackaday.com/2026/08/18/smartphones-and-the-next-generation-of-hearing-aids/) |
 | 2026-08-18 | Watch Soldering Up Close and From Any Angle, in VR | Hackaday | [link](https://hackaday.com/2026/08/18/watch-soldering-up-close-and-from-any-angle-in-vr/) |
 | 2026-08-18 | Store Tunes on Paper and Stream Them Over LoRA | Hackaday | [link](https://hackaday.com/2026/08/18/store-tunes-on-paper-and-stream-them-over-lora/) |
@@ -57,8 +58,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-18 | Waveshare PiRack-M6F 6-node rack unit for Raspberry Pi 4/5 brings all ports to the front | CNX Software | [link](https://www.cnx-software.com/2026/08/18/waveshare-pirack-m6f-6-node-rack-unit-for-raspberry-pi-4-5-brings-all-ports-to-the-front/) |
 | 2026-08-18 | LILYGO T-Echo Lite Kit adds a keyboard shield to the nrRF52840-based ePaper LoRa and GPS development board | CNX Software | [link](https://www.cnx-software.com/2026/08/18/lilygo-t-echo-lite-kit-adds-a-keyboard-shield-to-the-nrrf52840-based-epaper-lora-and-gps-development-board/) |
 | 2026-08-18 | USBridge-KVM 2.0 – An open-source IP-KVM with BIOS access over SSH, OCR, and AI support (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/18/usbridge-kvm-2-0-an-open-source-ip-kvm-with-bios-access-over-ssh-ocr-and-ai-support/) |
-| 2026-08-18 | Danube Gets The Blues | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/danube-gets-the-blues-2026-08/) |
-| 2026-08-18 | NRO expands use of HawkEye 360’s satellite data | Electronics Weekly | [link](https://www.electronicsweekly.com/news/nro-expands-use-of-hawkeye-360s-satellite-data-2026-08/) |
+| 2026-08-18 | Littelfuse TPSMD-FL TVS diodes for 12 V vehicle electronics | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/passives/littelfuse-tpsmd-fl-tvs-diodes-for-for-12-v-vehicle-electronics-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -93,11 +93,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | NVlabs/alpasim | 1186 | Python | 474.5 | [link](https://github.com/NVlabs/alpasim) |
 | mosaico-labs/mosaico | 922 | Python | 368.9 | [link](https://github.com/mosaico-labs/mosaico) |
-| commaai/openpilot | 63446 | Python | 25378.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63447 | Python | 25378.9 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16136 | Python | 6454.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15706 | C++ | 6282.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14586 | C++ | 5834.5 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13598 | Python | 5439.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14588 | C++ | 5835.3 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13601 | Python | 5440.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11319 | Rust | 4527.7 | [link](https://github.com/rerun-io/rerun) |
 | kornia/kornia | 11314 | Python | 4525.7 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7913 | Python | 3165.3 | [link](https://github.com/isaac-sim/IsaacLab) |
@@ -105,15 +105,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0U2OVlyZEFWVkZ4WGFMTHhDZzV3bzA2WFRzaWtYZl9paUdPNFB5bDl5aFM4Slllc2lKTU0xdjVIUTA1V3Ewc2FRTS05NVlSRGtZWXBBcVI0SWhrTUs1VTloQnhwbC1aZ25PekVkVGQ5ejQ3R3lOb1Q0Si1VX1ZkaE0yUTlJTGpoN0dHcDZmSXBtWGxEZGRlOHhZWlo2OEpJWHpkcUdwbUZtQQ?oc=5) |
 | 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZTBWaG40V1FyajFzdVlXRmhZS29sT0R0TWFJMk9OWDBkQWJxelZIZThmeU1hT2RVWnI2UHpPcVQ4TkRsVUotZjQ3eDFoc2VfUGRjU0d2QlBBVWFyWm1nWXMtRWtZZWpVNzZpYV9WOGRLeFlOeGo1bWEzTEZ0dzZLSE5BVW4taEN4RG1MUDJfaHI1RkU3WDY2NG9vdmlpaFVva3hncFVLcnA2QQ?oc=5) |
-| 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb2xSLTJzVE1qMzktcTd0b1lOd0tzczU3djl3WUx5OG96ajBQV2V5Nk1CWE1OeFpUU1MyR2lzYy1ndTBpMmVKNERrdE5ZWE1jUWRVVGhfVFVZaUlrOV9JTy1pUHpmaDREV0h0UDZLU2tIenJVbUs2QUJzUmJ0SnlUQ3Mwa2EwVUJfSmVJ?oc=5) |
 | 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hUXlDdmVHVTBXZVlwR3BMRWJ0M0FkRUNvQXBxNDFfMjhKVndNRWZvdjZJbWZEMC0xWFBDeG44bkxwak1PTXhmVDMxQmJhQjhSaVJ6b0g3clNGLTNtRm9FVHllYUlrZGFM?oc=5) |
 | 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRjhUQUZtTVNMY1FXMW9Hd1YyX2xvRmhLWnBLc3htVEFlZjQ5YWdQWktvZ1dDc05rMkk3U2s5bWNaZmhxb204a2VxaXU0XzVJQzdFUkR0VE14TDhOZlpaWlBFOFNnbXBSVjA4d3p1YlItaEFpYUE?oc=5) |
 | 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XVXliUEVHQjNaejZHdU9GemlDdmlid2pWU2RxczZoZGduSmZiU285UXVpQk1nTXgwSHNvLVdIWHp4eDVjR0xWV1pab01jdjZURDZ0Vg?oc=5) |
 | 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVVE4ZVhZV1pZR0tTYUVrSjYtVUlzUHBQdlRKUElicEszN0NnLWo4R3ZmVUxJeGJJZFUxbkhGcTROay1WVFZVRXFYcExMUmc1a1diczRpaWtjeEhtSEhvQmE3ckgtUk5qYWFKV29FS1h5cURMbjRLek1KNVc4ek1EaXByb0oycmtiQUhBbkZBb1RfeG1pMDFIaDByZnQxbEFnWnIxQjZnSnl4azJTWTRibTd1MXNLaTZtaWtwX09Xc0ZXNFBjTFpkRXo2dFBBeWlVbFB0cWRxSUk3bkVJZFZIYw?oc=5) |
 | 2026-08-17 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS3dYb3NzZTFhbHJGZ2pQb1NYMXBfcERxTXlsanhNa1g1aFRHREZiSUVtUkw0YTBMa0ZrVUlNLWtkYS1YMTlzRVFWQ1pHRVhmaFdSVHc3TWJKWkdYV3ZqeUpRTG5HZ25ZMWRNOWtkdElMZWxzU2RQeU5iYk9iajNrRUxHd3FZX1hXVzN5MzF1akY5bjdxNFBqT2UtODh3NHJ3WkVRLTNsbE1SX1NOTnUySFc5RnRHaU1vSTFjUWdwVGJrSFk1MThWNGRwdkJ5SVp4RjNR?oc=5) |
-| 2026-08-17 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHhzbm5ORngtN2xvWXlRemZBQ3ZwNUhKMHlZZkJNTG1ibUVVZm1JNUVXa1d6ZHVLOUY0X2hSZVpWMjV6Qlh6OC1UaThfMGFTaHpNMGZrZ19BXzdJR29KRWdjbDk1YnZYai1WX19aTlBJQmV1YXpGMmFndnRqeEdLWTBfWGNybWV0WHRBVVJZNTFYVk9HMzBFRHVCcVdJVE9pUGEzcFYwd093X3BfM0FYaVZ6c0V6NllfTVRJX1ZB?oc=5) |
 | 2026-08-17 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxOY1lGSmwwd3RTV0FCS0d5bUU1U2pnck5xNG1qRjBaYnNUZ0QwSXZqQlVsYXU5MzBPODJvaVdFbk94cXNFeFd0YU1oR3Q1c0Rlc3k1M0RtRmhNTWJUR01YX1JVSWtlZEdrV3diV0ZrdGhwTU1RQ3hWdUlmNnF5QWhCend6UHhTVVo0TkJsdFlLNG1QSUVjZkVHclZyQjRzLUI0U1dKT29aV2I2cVJuRkNHaWQ5ZlhrQmIzaWZuWUFsaV9tY3VlVFBxUjd4aWU?oc=5) |
+| 2026-08-17 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHhzbm5ORngtN2xvWXlRemZBQ3ZwNUhKMHlZZkJNTG1ibUVVZm1JNUVXa1d6ZHVLOUY0X2hSZVpWMjV6Qlh6OC1UaThfMGFTaHpNMGZrZ19BXzdJR29KRWdjbDk1YnZYai1WX19aTlBJQmV1YXpGMmFndnRqeEdLWTBfWGNybWV0WHRBVVJZNTFYVk9HMzBFRHVCcVdJVE9pUGEzcFYwd093X3BfM0FYaVZ6c0V6NllfTVRJX1ZB?oc=5) |
 | 2026-08-15 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxQdTM2aUgycHotSkI2ZlN3Uk5kSEpLT2xuZlVCaFplLURFLVZaWG4zTy15clBaWTF2dmxERFNzeHp5eG9tdzhTcUphS0pETGhSYnFpTTJxa2dUbkV6NmJLMzA0NWo4ZmQ3SFJzbVJuazU2dVVLNzNzdmxMRFFPT19HRlV1aXNxX2NPRFk4WmJoR0dzOUxkMGFsdUZsOVczVmNIOC14TWo1Njg2MHpocFhOZDU4T0dUeGR0T3FMekhHbFVfV2VhS09J?oc=5) |
 
 ## New Companies
@@ -128,7 +128,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-17 | This Embodied AI Startup Completes Series C Funding With A $2.94B Valuation - Sahm | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXFudFpCS3F3VGVMVzJySWVId0FYM0p2QkdMVXYyN2xlUlluOFlnZVB2UzBOYXl0UnBBRUJlVXBHWVMtTGRZLWdvRzRGMG9mbllkdmpleXppVWRWMHZ0cEdtYWwyUkZNWmR5Z2dFdFVJbTR5ZHp3N293XzB0ZmhQNzZReXEyTU14eXRQWUdrMWZwRGgzODZwU2N6dHJwdF9KS1V2V2o2RThqZ01ZUXVpNTRBNmVrVzFFdWVfSXIyelBKOEk?oc=5) |
 | 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQTEUyN3R5REFQWl9PZXBwM3N5NUtRZTNsLTNfZE1zdm5SV2ZlWDczUEh4NVlZenl5V2tFOHpPeFdqbV9tZTY1NHpoMmtSOWUtMFJHQUJ2YzBsazhNUU9EWDhtVXJEQ3JaZXQ1ZE5qbGpKUGZJWVppendneDNKMHJRZU5BV0dLcDM1ejR1OFZabw?oc=5) |
 | 2026-08-16 | LG Bets Its Actuators and Batteries on a Humanoid Robot Built With Nvidia - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGtiLUJZdmhoZjNYaHBDS2g5dDlrSkJIenRuVV80Zm9paVJVdEFQb296dFd5VWpiNkNEYXRHZ1NnRFdKbXRMLXY1SnJCRE9NbzRGVV92UkVSbFlNUWVPLU94S2xILUhxOGt1RXFXMV9qQ3BFWjlQOWRIbWxxeUZEbXlGalFNNzlRTUNjZHNhNmdOUWZhenlVSXRzVW54SE1LdTJJ?oc=5) |
-| 2026-08-15 | China's Infiforce Raises Nearly $150M in Funding to Develop 'Ego Native World Model' for Robots - AI Insider | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjhWNkR2a19lSkphT296X1FvTVRKOS11SzNWc29HbUhXUl9oSGk5Wm4yNEtFcWxHVWh2Y3pBaFllNFQtQ0FyYm1NeFNEM2RyQVJJNXpyNTJGYWpBWUNiVjBCMmlRR0FBRUZ0dkw1cndSRjZlX0VKZEFiaFNMZDFqdFctNWRPNllwbXJJZmVBbU9MT3BfTjZ5d1RkajROdFVYTHJlZWlDNG91YWJaMGJJV0d1VF9WZXhPNHJMVmZKUWJFMTRnS3VOdA?oc=5) |
+| 2026-08-15 | China's Infiforce Raises Nearly $150M in Funding to Develop 'Ego Native World Model' for Robots - theaiinsider.tech | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjhWNkR2a19lSkphT296X1FvTVRKOS11SzNWc29HbUhXUl9oSGk5Wm4yNEtFcWxHVWh2Y3pBaFllNFQtQ0FyYm1NeFNEM2RyQVJJNXpyNTJGYWpBWUNiVjBCMmlRR0FBRUZ0dkw1cndSRjZlX0VKZEFiaFNMZDFqdFctNWRPNllwbXJJZmVBbU9MT3BfTjZ5d1RkajROdFVYTHJlZWlDNG91YWJaMGJJV0d1VF9WZXhPNHJMVmZKUWJFMTRnS3VOdA?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

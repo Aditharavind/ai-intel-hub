@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-18 15:18 UTC
+Generated: 2026-08-18 16:15 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-08-18 15:18 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63446 | 25378.5 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30316 | 12126.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| commaai/openpilot | 63447 | 25378.9 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30318 | 12127.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16136 | 6454.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15706 | 6282.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| TianxingChen/Embodied-AI-Guide | 15503 | 6201.3 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
+| TianxingChen/Embodied-AI-Guide | 15505 | 6202.1 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -32,8 +32,8 @@ Generated: 2026-08-18 15:18 UTC
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-08-18 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0U2OVlyZEFWVkZ4WGFMTHhDZzV3bzA2WFRzaWtYZl9paUdPNFB5bDl5aFM4Slllc2lKTU0xdjVIUTA1V3Ewc2FRTS05NVlSRGtZWXBBcVI0SWhrTUs1VTloQnhwbC1aZ25PekVkVGQ5ejQ3R3lOb1Q0Si1VX1ZkaE0yUTlJTGpoN0dHcDZmSXBtWGxEZGRlOHhZWlo2OEpJWHpkcUdwbUZtQQ?oc=5) |
 | 2026-08-18 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZTBWaG40V1FyajFzdVlXRmhZS29sT0R0TWFJMk9OWDBkQWJxelZIZThmeU1hT2RVWnI2UHpPcVQ4TkRsVUotZjQ3eDFoc2VfUGRjU0d2QlBBVWFyWm1nWXMtRWtZZWpVNzZpYV9WOGRLeFlOeGo1bWEzTEZ0dzZLSE5BVW4taEN4RG1MUDJfaHI1RkU3WDY2NG9vdmlpaFVva3hncFVLcnA2QQ?oc=5) |
-| 2026-08-18 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb2xSLTJzVE1qMzktcTd0b1lOd0tzczU3djl3WUx5OG96ajBQV2V5Nk1CWE1OeFpUU1MyR2lzYy1ndTBpMmVKNERrdE5ZWE1jUWRVVGhfVFVZaUlrOV9JTy1pUHpmaDREV0h0UDZLU2tIenJVbUs2QUJzUmJ0SnlUQ3Mwa2EwVUJfSmVJ?oc=5) |
 | 2026-08-18 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hUXlDdmVHVTBXZVlwR3BMRWJ0M0FkRUNvQXBxNDFfMjhKVndNRWZvdjZJbWZEMC0xWFBDeG44bkxwak1PTXhmVDMxQmJhQjhSaVJ6b0g3clNGLTNtRm9FVHllYUlrZGFM?oc=5) |
 | 2026-08-18 | Unitree |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRjhUQUZtTVNMY1FXMW9Hd1YyX2xvRmhLWnBLc3htVEFlZjQ5YWdQWktvZ1dDc05rMkk3U2s5bWNaZmhxb204a2VxaXU0XzVJQzdFUkR0VE14TDhOZlpaWlBFOFNnbXBSVjA4d3p1YlItaEFpYUE?oc=5) |
 | 2026-08-18 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XVXliUEVHQjNaejZHdU9GemlDdmlid2pWU2RxczZoZGduSmZiU285UXVpQk1nTXgwSHNvLVdIWHp4eDVjR0xWV1pab01jdjZURDZ0Vg?oc=5) |
