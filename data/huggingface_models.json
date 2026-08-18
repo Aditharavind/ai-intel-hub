@@ -99,10 +99,10 @@
     "score": 0.3
   },
   {
-    "model": "geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step70000",
+    "model": "sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step70000",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-18",
     "keyword": "vla",
     "score": 0.1
@@ -117,10 +117,19 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "model": "Grigorij/PaP_objects_sum_vla_jepa",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/Grigorij/PaP_objects_sum_vla_jepa",
+    "date": "2026-08-18",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mattpidden/vla0-justin-epoch12",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mattpidden/vla0-justin-epoch12",
     "date": "2026-08-18",
     "keyword": "vla",
     "score": 0.1
@@ -135,10 +144,19 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
+    "model": "geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step70000",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step70000",
+    "date": "2026-08-18",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-18",
     "keyword": "vla",
     "score": 0.1
@@ -187,24 +205,6 @@
     "date": "2026-08-18",
     "keyword": "vla",
     "score": 55.3
-  },
-  {
-    "model": "3CTeam/action_evidence_vla_pi05_base_long_15k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/3CTeam/action_evidence_vla_pi05_base_long_15k",
-    "date": "2026-08-18",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "XYZPIT/vlash-random-gr00t-n1d6-160000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/XYZPIT/vlash-random-gr00t-n1d6-160000",
-    "date": "2026-08-18",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "novastar111/pacman_braidthin_noncot_chunk_kinf_world_model",
