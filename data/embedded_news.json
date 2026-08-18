@@ -77,6 +77,13 @@
     "summary": "<p>BrainChip Inc. has partnered with Atlanta-based Orama.AOI to develop AI-based automated optical inspection solutions using BrainChip's Akida neuromorphic AI platform. Orama.AOI has retrained and optimized Akida models using its industrial inspection datasets, demonstrating the platform's application to production-oriented defect detection. Orama.AOI provides AI-powered automated optical inspection technology for industrial applications with current use cases including [...]</p>\n<p>The post <a href=\"https://www.embedded.com/brainchip-orama-aoi-target-ai-based-industrial-defect-detection/\">BrainChip, Orama.AOI Target AI-Based Industrial Defect Detection</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
+    "title": "The Benchmark-pocalypse",
+    "source": "Adafruit",
+    "date": "2026-08-18",
+    "url": "https://blog.adafruit.com/2026/08/18/the-benchmark-pocalypse/",
+    "summary": "There&#8217;s been a lot of talk about the vuln-pocalypse, to which Dan Luu doesn&#8217;t have much to add because Dan isn&#8217;t not a security person. But there hasn&#8217;t been much discussion on the closely related (and to be fair, less serious, issue), the benchmark-pocalypse. While it&#8217;s become easier than ever to make serious performance gains, [&#8230;]"
+  },
+  {
     "title": "Wide format scanning using photography on a train or ferry",
     "source": "Adafruit",
     "date": "2026-08-18",
@@ -154,13 +161,6 @@
     "summary": "Adafruit last reported on Repair Cafés in 2017 where their popularity was growing. Repair Cafés are free meeting places and they’re all about repairing things (together). In the place where a Repair Café is located, you’ll find tools and materials to help you make any repairs you need. On clothes, furniture, electrical appliances, bicycles, crockery, [&#8230;]"
   },
   {
-    "title": "Shipping Alert: CircuitPython Day 2026 #CircuitPythonDay2026",
-    "source": "Adafruit",
-    "date": "2026-08-18",
-    "url": "https://blog.adafruit.com/2026/08/18/shipping-alert-circuitpython-day-2026-circuitpythonday2026/",
-    "summary": "🐍 Augusst is ssslipping away which can only mean itsss almost CircuitPython Day 2026! This Friday, August 21, 2026 we celebrate the snakiest of holidays! CircuitPython Day is an official holiday for the Adafruit team; We will still have folks ready to process orders but delays may occur, so plan accordingly! &#160;"
-  },
-  {
     "title": "Self-Publishing a Book Is Easier (and Harder) Than You Think (Part 1)",
     "source": "EE Journal",
     "date": "2026-08-18",
@@ -193,7 +193,7 @@
     "source": "CNX Software",
     "date": "2026-08-17",
     "url": "https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/",
-    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a84c37f8feea991134193/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a84d309a7e6c867873976/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "SensiBel and Aizip Combine Optical MEMS and Edge AI Beamforming",

@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-18 21:11 UTC
+Last Updated: 2026-08-18 22:08 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -38,13 +38,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-18 | Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market | Robotics Business Review | [link](https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/) |
 | 2026-08-18 | Drones With Claws Perch on Arctic Icebergs | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/arctic-iceberg-drones) |
 | 2026-08-18 | FORT Robotics to take safety stack public via SPAC merger | Robotics Business Review | [link](https://www.therobotreport.com/fort-robotics-takes-safety-stack-public-via-spac-merger/) |
+| 2026-08-18 | How to achieve high voltage in industrial systems without high complexity | Robotics Business Review | [link](https://www.therobotreport.com/how-achieve-high-voltage-industrial-systems-without-high-complexity/) |
 | 2026-08-17 | Gravis Robotics raises $200M for autonomous construction | Robotics Business Review | [link](https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction/) |
 | 2026-08-17 | Is Shipyard Welding the Right First Job for Humanoid Robots? | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding) |
 | 2026-08-17 | How Generalist uses human demonstration data for robot learning | Robotics Business Review | [link](https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/) |
 | 2026-08-17 | Surgeons use da Vinci surgical robot to perform common cardiac surgery | Robotics Business Review | [link](https://www.therobotreport.com/surgeons-use-da-vinci-surgical-robot-perform-common-cardiac-surgery/) |
 | 2026-08-17 | Five years of operation shape Diligent Robotics rollout of Moxi 2.0 | Robotics Business Review | [link](https://www.therobotreport.com/five-years-operation-shape-diligent-robotics-rollout-moxi-2-0/) |
 | 2026-08-16 | How robotics is revolutionizing stroke rehabilitation | Robotics Business Review | [link](https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation/) |
-| 2026-08-15 | Why robots that can’t communicate naturally won’t be adopted | Robotics Business Review | [link](https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-18 | ziyin123/robotwin2_ckpt | 0 | 0 | [link](https://huggingface.co/ziyin123/robotwin2_ckpt) |
 | 2026-08-18 | RobotsMali/soloni-ic-slot-fintech-v0 | 0 | 0 | [link](https://huggingface.co/RobotsMali/soloni-ic-slot-fintech-v0) |
 | 2026-08-18 | RobotsMali/quartznum-v0 | 0 | 0 | [link](https://huggingface.co/RobotsMali/quartznum-v0) |
 | 2026-08-18 | rahul-ai-01/real_robot_single_object_smoth_pick_and_place_octopus_and_brawon_basket | 0 | 0 | [link](https://huggingface.co/rahul-ai-01/real_robot_single_object_smoth_pick_and_place_octopus_and_brawon_basket) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-18 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 | 2026-08-18 | sun-robot/pi05_amazinghand_rps | 0 | 0 | [link](https://huggingface.co/sun-robot/pi05_amazinghand_rps) |
 | 2026-08-18 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 1103 | 24 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
-| 2026-08-18 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -97,7 +97,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | zauberzeug/nicegui | 16137 | Python | 6454.9 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15707 | C++ | 6282.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14589 | C++ | 5835.7 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13603 | Python | 5441.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13606 | Python | 5442.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11319 | Rust | 4527.7 | [link](https://github.com/rerun-io/rerun) |
 | kornia/kornia | 11314 | Python | 4525.7 | [link](https://github.com/kornia/kornia) |
 | isaac-sim/IsaacLab | 7914 | Python | 3165.7 | [link](https://github.com/isaac-sim/IsaacLab) |
@@ -121,12 +121,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Bloomberg | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOenVYeUF4SkxXWmhQNmxha2VsaWFDNVU4anNVX1lZNEZYQkh6VDFMSnJHNlRid2ZoUVRCWjJ1ZVc4Y29rd3RjMjEwUlBBZjZlRWlKMW1FSkUtSXBzMk5vcGdoSndQbEYtT1U0RkhmSmZ6NnNGUVNoOHBDazI5NzhQVndUZkFqTXZLeE1Iam4xZFU2LUNGWDU5NkxtM2RqdDIwT0N5bHhmNE81YXExcFd4aHN6elJrNjg?oc=5) |
 | 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmVpVnFGZTV6Z3RQS1E3N0NZa2dUTjN1ak5rRFdrbFhrLWJ6dk5peWVub0tiSkV4ckF0UURWVkNmVmQwVS1odTc4aXZhZzRNQU9STFRnRTFxYzBLU2xNUUd2RFBwSGJUNDQxT2lfcEQ2OVRJWXFaQnRWYU5QYU9xUVNGY1drS0lBUUswZnVnVlFaeU00eHctdQ?oc=5) |
-| 2026-08-18 | VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGdjZzRxUElYQXVyMVVmeE41NFpIeDlMMGZXSHdnNW5xVlpsa1dxLTdpSVlQeTdmeHBzN3hLODRhWUVjdFVRZ1g1Q2xsNGhlWWFYOUdjN2lsX1NOeDgyNzZKM3hwR2hiMGZXdWlYTW01T2VEd1dYOTJxUkhHY3FLdGtwX3NjYkhRb21pYXpDbVpuSlYtX1dF?oc=5) |
+| 2026-08-18 | VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape - news.crunchbase.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGdjZzRxUElYQXVyMVVmeE41NFpIeDlMMGZXSHdnNW5xVlpsa1dxLTdpSVlQeTdmeHBzN3hLODRhWUVjdFVRZ1g1Q2xsNGhlWWFYOUdjN2lsX1NOeDgyNzZKM3hwR2hiMGZXdWlYTW01T2VEd1dYOTJxUkhHY3FLdGtwX3NjYkhRb21pYXpDbVpuSlYtX1dF?oc=5) |
 | 2026-08-18 | Indian Startups Target Emerging Global Market With Physical AI Robots - Siliconindia | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN0hEMFRFMlFPclJGZU1GRmh4Z1lhX01RTV95OWZpUVFhYzdrdFBJbHpPNkpnOEVCVFRocEpYd2t5eHB4OVloVldFcWRxVGtsSUpoQjdUenpFU3FjeTM5clVDS3F6NXVCbTFUS2lndndrdEVRLW1ZdVo2VWIxclhWZ21PS0dGU3c5a2dDQmRyZW5HdGYxbGdHOFctLUhaUFk4SDQzZmY1UktXOFRtTUsyUFFrdGFQYnpONmZTTENrYWFKMUVoci1aV1hkZUdvU2ZG?oc=5) |
-| 2026-08-18 | Humanoid cleaning services chase data as Korea joins global robot race - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1F3aHA3a2FESEdyVkU1MkhhRmNFbE4zYnNXZzVIazhUZHVsSEZFQTFZQ05nSVFWLXcwSzI4VUJKT0V0M2ZZWmFUQkJRSTBscXpUODI2QmloeHM4Njh1eUZEZG9wLV8wQnRVbmx2UXpLc0lSeGZRcWlaVF9ETmJNN2FIWkJMWW5NcE1BaS1ta2JMbzJPb0HSAZYBQVVfeXFMT2NRd2hwN2thREhHclZFNTJIYUZjRWxOM2JzV2c1SGs4VGR1bEhGRUExWUNOZ0lRVi13MEsyOFVCSk9FdDNmWVphVEJCUUkwbHF6VDgyNkJpaHhzODY4dXlGRGRvcC1fMEJ0VW5sdlF6S3NJUnhmUXFpWlRfRE5iTTdhSFpCTFluTXBNQWktbWtiTG8yT29B?oc=5) |
+| 2026-08-18 | Humanoid cleaning services chase data as Korea joins global robot race - CHOSUNBIZ - biz.chosun.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1F3aHA3a2FESEdyVkU1MkhhRmNFbE4zYnNXZzVIazhUZHVsSEZFQTFZQ05nSVFWLXcwSzI4VUJKT0V0M2ZZWmFUQkJRSTBscXpUODI2QmloeHM4Njh1eUZEZG9wLV8wQnRVbmx2UXpLc0lSeGZRcWlaVF9ETmJNN2FIWkJMWW5NcE1BaS1ta2JMbzJPb0HSAZYBQVVfeXFMT2NRd2hwN2thREhHclZFNTJIYUZjRWxOM2JzV2c1SGs4VGR1bEhGRUExWUNOZ0lRVi13MEsyOFVCSk9FdDNmWVphVEJCUUkwbHF6VDgyNkJpaHhzODY4dXlGRGRvcC1fMEJ0VW5sdlF6S3NJUnhmUXFpWlRfRE5iTTdhSFpCTFluTXBNQWktbWtiTG8yT29B?oc=5) |
 | 2026-08-17 | The 25 most promising robotics startups in 2026, according to investors - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZVNJSW5xMEFIa05WREJJd3ZUNVN1aUFXSkhIbUpwdmplUU9lN1lNcUdVLUZJeV9BS2VMeS1YZDBNU08zSnpsaWJaTTFjUE1ySkQ5VmVMSnMzWlh5YTlDemxCeGk5SU5DWXdic1pEVE5SMXA5YUJlc2VrY1BwMEkzREY5dGhPRmFia3c?oc=5) |
 | 2026-08-17 | This Embodied AI Startup Completes Series C Funding With A $2.94B Valuation - Sahm | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXFudFpCS3F3VGVMVzJySWVId0FYM0p2QkdMVXYyN2xlUlluOFlnZVB2UzBOYXl0UnBBRUJlVXBHWVMtTGRZLWdvRzRGMG9mbllkdmpleXppVWRWMHZ0cEdtYWwyUkZNWmR5Z2dFdFVJbTR5ZHp3N293XzB0ZmhQNzZReXEyTU14eXRQWUdrMWZwRGgzODZwU2N6dHJwdF9KS1V2V2o2RThqZ01ZUXVpNTRBNmVrVzFFdWVfSXIyelBKOEk?oc=5) |
-| 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQTEUyN3R5REFQWl9PZXBwM3N5NUtRZTNsLTNfZE1zdm5SV2ZlWDczUEh4NVlZenl5V2tFOHpPeFdqbV9tZTY1NHpoMmtSOWUtMFJHQUJ2YzBsazhNUU9EWDhtVXJEQ3JaZXQ1ZE5qbGpKUGZJWVppendneDNKMHJRZU5BV0dLcDM1ejR1OFZabw?oc=5) |
+| 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - techinasia.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZk1YcnhyaUhPVndxbUtySzVTbEtPNF9KbEU1RnhuNlkwR0laNlR2bmlEUW9JeWR6Q0wyTktvNDdSM2JlZzYwbEVEanhqVGpJZjcwNjJFTGVTYWt5MmFlMnBvYV9qSG5vN1dhckcteUtJOXZRendqU0dzeUY0WmpQUC01SGZMWFdK?oc=5) |
 | 2026-08-17 | Ban on Chinese robots leaves U.S. startups stranded - Rest of World | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTFBPYXJPYkRTbGtMYjllRUlEU2ZiN0s4OXR2amM2ZE90NEVvbkFxOW9lbjRra0dlRzRmbDZNYk0yUktOT2JfY1I4aXpGSmJmaE9ZcHl4RjhvQzZheFZpNHdqLUNfbzAwTm52RUN4ZA?oc=5) |
 | 2026-08-16 | LG Bets Its Actuators and Batteries on a Humanoid Robot Built With Nvidia - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGtiLUJZdmhoZjNYaHBDS2g5dDlrSkJIenRuVV80Zm9paVJVdEFQb296dFd5VWpiNkNEYXRHZ1NnRFdKbXRMLXY1SnJCRE9NbzRGVV92UkVSbFlNUWVPLU94S2xILUhxOGt1RXFXMV9qQ3BFWjlQOWRIbWxxeUZEbXlGalFNNzlRTUNjZHNhNmdOUWZhenlVSXRzVW54SE1LdTJJ?oc=5) |
 
