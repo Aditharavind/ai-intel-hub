@@ -108,6 +108,15 @@
     "score": 0.1
   },
   {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-18",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step65000",
     "downloads": 0,
     "likes": 0,
@@ -186,6 +195,69 @@
     "url": "https://huggingface.co/vlabki/rr-tw3-bc-ppo-speed-v2",
     "date": "2026-08-18",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "novastar111/pacman_braidthin_noncot_chunk_k5_world_model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/novastar111/pacman_braidthin_noncot_chunk_k5_world_model",
+    "date": "2026-08-18",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "novastar111/pusht_noncot_chunk_k1_world_model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/novastar111/pusht_noncot_chunk_k1_world_model",
+    "date": "2026-08-18",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "novastar111/pacman_braidthin_cot_chunk_k5_world_model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/novastar111/pacman_braidthin_cot_chunk_k5_world_model",
+    "date": "2026-08-18",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "novastar111/pacman_braidthin_always_forward_kinf_world_model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/novastar111/pacman_braidthin_always_forward_kinf_world_model",
+    "date": "2026-08-18",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "novastar111/pacman_braidthin_noncot_chunk_k3_world_model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/novastar111/pacman_braidthin_noncot_chunk_k3_world_model",
+    "date": "2026-08-18",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "novastar111/pacman_braidthin_cot_chunk_k3_world_model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/novastar111/pacman_braidthin_cot_chunk_k3_world_model",
+    "date": "2026-08-18",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "novastar111/pacman_braidthin_noncot_chunk_k1_world_model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/novastar111/pacman_braidthin_noncot_chunk_k1_world_model",
+    "date": "2026-08-18",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -279,15 +351,6 @@
     "score": 1.3
   },
   {
-    "model": "geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step50000",
-    "downloads": 14,
-    "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step50000",
-    "date": "2026-08-17",
-    "keyword": "vla",
-    "score": 4.3
-  },
-  {
     "model": "Fleurrr/A2World-World-Model",
     "downloads": 38,
     "likes": 0,
@@ -373,69 +436,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/novastar111/pusht_noncot_chunk_k10_world_model",
-    "date": "2026-08-15",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "novastar111/pusht_noncot_chunk_k5_world_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/novastar111/pusht_noncot_chunk_k5_world_model",
-    "date": "2026-08-15",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "novastar111/pusht_noncot_chunk_k3_world_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/novastar111/pusht_noncot_chunk_k3_world_model",
-    "date": "2026-08-15",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "novastar111/pusht_cot_chunk_kinf_world_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/novastar111/pusht_cot_chunk_kinf_world_model",
-    "date": "2026-08-15",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "novastar111/pusht_cot_chunk_k10_world_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/novastar111/pusht_cot_chunk_k10_world_model",
-    "date": "2026-08-15",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "novastar111/pusht_cot_chunk_k5_world_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/novastar111/pusht_cot_chunk_k5_world_model",
-    "date": "2026-08-15",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "novastar111/pusht_cot_chunk_k3_world_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/novastar111/pusht_cot_chunk_k3_world_model",
-    "date": "2026-08-15",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "novastar111/pacman_hard_noncot_chunk_k10_world_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/novastar111/pacman_hard_noncot_chunk_k10_world_model",
     "date": "2026-08-15",
     "keyword": "world model",
     "score": 0.1

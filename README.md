@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-18 18:18 UTC
+Last Updated: 2026-08-18 19:18 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,6 +8,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-08-18 | Partnering with CodeAI to prepare the first AI generation | OpenAI | [link](https://openai.com/index/partnering-with-codeai) |
+| 2026-08-18 | Pacing model development in an era of cyber-critical capabilities | OpenAI | [link](https://openai.com/index/pacing-model-development-cyber-capabilities) |
 | 2026-08-18 | Introducing ChatGPT for Teens: Built for learning, backed by protections | OpenAI | [link](https://openai.com/index/chatgpt-for-teens) |
 | 2026-08-18 | Asana cleared 5 years of engineering work in 2 weeks with Codex | OpenAI | [link](https://openai.com/index/asana) |
 | 2026-08-18 | How Much Memory Does Your Agent Actually Need? | Hugging Face | [link](https://huggingface.co/blog/ibm-research/altk-evolve-hmm) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-17 | OpenAI joins PORTS-Pike project | OpenAI | [link](https://openai.com/index/openai-joins-ports-pike-project) |
 | 2026-08-17 | New policy ideas for the Intelligence Age | OpenAI | [link](https://openai.com/index/new-policy-ideas-for-the-intelligence-age) |
 | 2026-08-17 | Same Cluster, 33 Points More Utilization: What Changed Was the Order | Hugging Face | [link](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2) |
-| 2026-08-14 | State of Open Models: Summer 2026 Observations | Hugging Face | [link](https://huggingface.co/blog/state-of-open-models-summer-2026) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-18 | PolyShot Camera Focuses On Nostalgia | Hackaday | [link](https://hackaday.com/2026/08/18/polyshot-camera-focuses-on-nostalgia/) |
 | 2026-08-18 | Announcing the 2026 Hackaday Retrocomputing Challenge | Hackaday | [link](https://hackaday.com/2026/08/18/announcing-the-2026-hackaday-retrocomputing-challenge/) |
 | 2026-08-18 | So, You Want to Fix an Old Camera | Hackaday | [link](https://hackaday.com/2026/08/18/so-you-want-to-fix-an-old-camera/) |
 | 2026-08-18 | Smartphones and the Next Generation of Hearing Aids | Hackaday | [link](https://hackaday.com/2026/08/18/smartphones-and-the-next-generation-of-hearing-aids/) |
 | 2026-08-18 | Watch Soldering Up Close and From Any Angle, in VR | Hackaday | [link](https://hackaday.com/2026/08/18/watch-soldering-up-close-and-from-any-angle-in-vr/) |
 | 2026-08-18 | Store Tunes on Paper and Stream Them Over LoRA | Hackaday | [link](https://hackaday.com/2026/08/18/store-tunes-on-paper-and-stream-them-over-lora/) |
 | 2026-08-18 | Using Acoustic Resonators as Thrusters for Small Robots | Hackaday | [link](https://hackaday.com/2026/08/17/using-acoustic-resonators-as-thrusters-for-small-robots/) |
-| 2026-08-18 | Edison Motors Offering All-Mechanical Trucks, At Least to Start | Hackaday | [link](https://hackaday.com/2026/08/17/edison-motors-offering-all-mechanical-trucks-at-least-to-start/) |
 | 2026-08-18 | Waveshare PiRack-M6F 6-node rack unit for Raspberry Pi 4/5 brings all ports to the front | CNX Software | [link](https://www.cnx-software.com/2026/08/18/waveshare-pirack-m6f-6-node-rack-unit-for-raspberry-pi-4-5-brings-all-ports-to-the-front/) |
 | 2026-08-18 | LILYGO T-Echo Lite Kit adds a keyboard shield to the nrRF52840-based ePaper LoRa and GPS development board | CNX Software | [link](https://www.cnx-software.com/2026/08/18/lilygo-t-echo-lite-kit-adds-a-keyboard-shield-to-the-nrrf52840-based-epaper-lora-and-gps-development-board/) |
 | 2026-08-18 | USBridge-KVM 2.0 – An open-source IP-KVM with BIOS access over SSH, OCR, and AI support (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/18/usbridge-kvm-2-0-an-open-source-ip-kvm-with-bios-access-over-ssh-ocr-and-ai-support/) |
@@ -95,7 +95,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | mosaico-labs/mosaico | 922 | Python | 368.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | commaai/openpilot | 63447 | Python | 25378.9 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16137 | Python | 6454.9 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15706 | C++ | 6282.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15707 | C++ | 6282.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14589 | C++ | 5835.7 | [link](https://github.com/google-deepmind/mujoco) |
 | earthtojake/text-to-cad | 13602 | Python | 5440.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11319 | Rust | 4527.7 | [link](https://github.com/rerun-io/rerun) |
@@ -119,16 +119,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOenVYeUF4SkxXWmhQNmxha2VsaWFDNVU4anNVX1lZNEZYQkh6VDFMSnJHNlRid2ZoUVRCWjJ1ZVc4Y29rd3RjMjEwUlBBZjZlRWlKMW1FSkUtSXBzMk5vcGdoSndQbEYtT1U0RkhmSmZ6NnNGUVNoOHBDazI5NzhQVndUZkFqTXZLeE1Iam4xZFU2LUNGWDU5NkxtM2RqdDIwT0N5bHhmNE81YXExcFd4aHN6elJrNjg?oc=5) |
+| 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Bloomberg | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOenVYeUF4SkxXWmhQNmxha2VsaWFDNVU4anNVX1lZNEZYQkh6VDFMSnJHNlRid2ZoUVRCWjJ1ZVc4Y29rd3RjMjEwUlBBZjZlRWlKMW1FSkUtSXBzMk5vcGdoSndQbEYtT1U0RkhmSmZ6NnNGUVNoOHBDazI5NzhQVndUZkFqTXZLeE1Iam4xZFU2LUNGWDU5NkxtM2RqdDIwT0N5bHhmNE81YXExcFd4aHN6elJrNjg?oc=5) |
 | 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmVpVnFGZTV6Z3RQS1E3N0NZa2dUTjN1ak5rRFdrbFhrLWJ6dk5peWVub0tiSkV4ckF0UURWVkNmVmQwVS1odTc4aXZhZzRNQU9STFRnRTFxYzBLU2xNUUd2RFBwSGJUNDQxT2lfcEQ2OVRJWXFaQnRWYU5QYU9xUVNGY1drS0lBUUswZnVnVlFaeU00eHctdQ?oc=5) |
 | 2026-08-18 | VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGdjZzRxUElYQXVyMVVmeE41NFpIeDlMMGZXSHdnNW5xVlpsa1dxLTdpSVlQeTdmeHBzN3hLODRhWUVjdFVRZ1g1Q2xsNGhlWWFYOUdjN2lsX1NOeDgyNzZKM3hwR2hiMGZXdWlYTW01T2VEd1dYOTJxUkhHY3FLdGtwX3NjYkhRb21pYXpDbVpuSlYtX1dF?oc=5) |
 | 2026-08-18 | Indian Startups Target Emerging Global Market With Physical AI Robots - Siliconindia | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN0hEMFRFMlFPclJGZU1GRmh4Z1lhX01RTV95OWZpUVFhYzdrdFBJbHpPNkpnOEVCVFRocEpYd2t5eHB4OVloVldFcWRxVGtsSUpoQjdUenpFU3FjeTM5clVDS3F6NXVCbTFUS2lndndrdEVRLW1ZdVo2VWIxclhWZ21PS0dGU3c5a2dDQmRyZW5HdGYxbGdHOFctLUhaUFk4SDQzZmY1UktXOFRtTUsyUFFrdGFQYnpONmZTTENrYWFKMUVoci1aV1hkZUdvU2ZG?oc=5) |
-| 2026-08-18 | Humanoid cleaning services chase data as Korea joins global robot race - CHOSUNBIZ - biz.chosun.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1F3aHA3a2FESEdyVkU1MkhhRmNFbE4zYnNXZzVIazhUZHVsSEZFQTFZQ05nSVFWLXcwSzI4VUJKT0V0M2ZZWmFUQkJRSTBscXpUODI2QmloeHM4Njh1eUZEZG9wLV8wQnRVbmx2UXpLc0lSeGZRcWlaVF9ETmJNN2FIWkJMWW5NcE1BaS1ta2JMbzJPb0HSAZYBQVVfeXFMT2NRd2hwN2thREhHclZFNTJIYUZjRWxOM2JzV2c1SGs4VGR1bEhGRUExWUNOZ0lRVi13MEsyOFVCSk9FdDNmWVphVEJCUUkwbHF6VDgyNkJpaHhzODY4dXlGRGRvcC1fMEJ0VW5sdlF6S3NJUnhmUXFpWlRfRE5iTTdhSFpCTFluTXBNQWktbWtiTG8yT29B?oc=5) |
+| 2026-08-18 | Humanoid cleaning services chase data as Korea joins global robot race - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1F3aHA3a2FESEdyVkU1MkhhRmNFbE4zYnNXZzVIazhUZHVsSEZFQTFZQ05nSVFWLXcwSzI4VUJKT0V0M2ZZWmFUQkJRSTBscXpUODI2QmloeHM4Njh1eUZEZG9wLV8wQnRVbmx2UXpLc0lSeGZRcWlaVF9ETmJNN2FIWkJMWW5NcE1BaS1ta2JMbzJPb0HSAZYBQVVfeXFMT2NRd2hwN2thREhHclZFNTJIYUZjRWxOM2JzV2c1SGs4VGR1bEhGRUExWUNOZ0lRVi13MEsyOFVCSk9FdDNmWVphVEJCUUkwbHF6VDgyNkJpaHhzODY4dXlGRGRvcC1fMEJ0VW5sdlF6S3NJUnhmUXFpWlRfRE5iTTdhSFpCTFluTXBNQWktbWtiTG8yT29B?oc=5) |
 | 2026-08-17 | The 25 most promising robotics startups in 2026, according to investors - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZVNJSW5xMEFIa05WREJJd3ZUNVN1aUFXSkhIbUpwdmplUU9lN1lNcUdVLUZJeV9BS2VMeS1YZDBNU08zSnpsaWJaTTFjUE1ySkQ5VmVMSnMzWlh5YTlDemxCeGk5SU5DWXdic1pEVE5SMXA5YUJlc2VrY1BwMEkzREY5dGhPRmFia3c?oc=5) |
 | 2026-08-17 | This Embodied AI Startup Completes Series C Funding With A $2.94B Valuation - Sahm | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXFudFpCS3F3VGVMVzJySWVId0FYM0p2QkdMVXYyN2xlUlluOFlnZVB2UzBOYXl0UnBBRUJlVXBHWVMtTGRZLWdvRzRGMG9mbllkdmpleXppVWRWMHZ0cEdtYWwyUkZNWmR5Z2dFdFVJbTR5ZHp3N293XzB0ZmhQNzZReXEyTU14eXRQWUdrMWZwRGgzODZwU2N6dHJwdF9KS1V2V2o2RThqZ01ZUXVpNTRBNmVrVzFFdWVfSXIyelBKOEk?oc=5) |
-| 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZk1YcnhyaUhPVndxbUtySzVTbEtPNF9KbEU1RnhuNlkwR0laNlR2bmlEUW9JeWR6Q0wyTktvNDdSM2JlZzYwbEVEanhqVGpJZjcwNjJFTGVTYWt5MmFlMnBvYV9qSG5vN1dhckcteUtJOXZRendqU0dzeUY0WmpQUC01SGZMWFdK?oc=5) |
+| 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQTEUyN3R5REFQWl9PZXBwM3N5NUtRZTNsLTNfZE1zdm5SV2ZlWDczUEh4NVlZenl5V2tFOHpPeFdqbV9tZTY1NHpoMmtSOWUtMFJHQUJ2YzBsazhNUU9EWDhtVXJEQ3JaZXQ1ZE5qbGpKUGZJWVppendneDNKMHJRZU5BV0dLcDM1ejR1OFZabw?oc=5) |
+| 2026-08-17 | Ban on Chinese robots leaves U.S. startups stranded - Rest of World | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMibEFVX3lxTFBPYXJPYkRTbGtMYjllRUlEU2ZiN0s4OXR2amM2ZE90NEVvbkFxOW9lbjRra0dlRzRmbDZNYk0yUktOT2JfY1I4aXpGSmJmaE9ZcHl4RjhvQzZheFZpNHdqLUNfbzAwTm52RUN4ZA?oc=5) |
 | 2026-08-16 | LG Bets Its Actuators and Batteries on a Humanoid Robot Built With Nvidia - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGtiLUJZdmhoZjNYaHBDS2g5dDlrSkJIenRuVV80Zm9paVJVdEFQb296dFd5VWpiNkNEYXRHZ1NnRFdKbXRMLXY1SnJCRE9NbzRGVV92UkVSbFlNUWVPLU94S2xILUhxOGt1RXFXMV9qQ3BFWjlQOWRIbWxxeUZEbXlGalFNNzlRTUNjZHNhNmdOUWZhenlVSXRzVW54SE1LdTJJ?oc=5) |
-| 2026-08-15 | China's Infiforce Raises Nearly $150M in Funding to Develop 'Ego Native World Model' for Robots - AI Insider | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjhWNkR2a19lSkphT296X1FvTVRKOS11SzNWc29HbUhXUl9oSGk5Wm4yNEtFcWxHVWh2Y3pBaFllNFQtQ0FyYm1NeFNEM2RyQVJJNXpyNTJGYWpBWUNiVjBCMmlRR0FBRUZ0dkw1cndSRjZlX0VKZEFiaFNMZDFqdFctNWRPNllwbXJJZmVBbU9MT3BfTjZ5d1RkajROdFVYTHJlZWlDNG91YWJaMGJJV0d1VF9WZXhPNHJMVmZKUWJFMTRnS3VOdA?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

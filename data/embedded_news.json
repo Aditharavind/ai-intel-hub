@@ -1,5 +1,12 @@
 [
   {
+    "title": "PolyShot Camera Focuses On Nostalgia",
+    "source": "Hackaday",
+    "date": "2026-08-18",
+    "url": "https://hackaday.com/2026/08/18/polyshot-camera-focuses-on-nostalgia/",
+    "summary": "<div><img alt=\"An open-source, DIY, point-and-shoot digital camera.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/polyshot-800.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although we personally have yet to see anyone brandishing an old digital point-and-shoot camera, we hear they&#8217;re back in vogue. Why, though? People are nostalgic for that image quality. While <a class=\"read-more\" href=\"https://hackaday.com/2026/08/18/polyshot-camera-focuses-on-nostalgia/\">&#8230;read more</a>"
+  },
+  {
     "title": "Announcing the 2026 Hackaday Retrocomputing Challenge",
     "source": "Hackaday",
     "date": "2026-08-18",
@@ -42,13 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"443\" src=\"https://hackaday.com/wp-content/uploads/2026/08/micro_resonator_flying_robot_junsun_hwang_et_al_science_advances_2026.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are quite a few rather unconventional methods of propulsion, but perhaps one of the more curious approaches involved Helmholtz resonance, as demonstrated by [Junsun Hwang] et al. with a <a class=\"read-more\" href=\"https://hackaday.com/2026/08/17/using-acoustic-resonators-as-thrusters-for-small-robots/\">&#8230;read more</a>"
   },
   {
-    "title": "Edison Motors Offering All-Mechanical Trucks, At Least to Start",
-    "source": "Hackaday",
-    "date": "2026-08-18",
-    "url": "https://hackaday.com/2026/08/17/edison-motors-offering-all-mechanical-trucks-at-least-to-start/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/Edison-BDE.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We&#8217;ve been following Canadian startup Edison Motors for some time now, but their latest offering caught us a bit off guard &#8212; their BDE series truck will be offered first <a class=\"read-more\" href=\"https://hackaday.com/2026/08/17/edison-motors-offering-all-mechanical-trucks-at-least-to-start/\">&#8230;read more</a>"
-  },
-  {
     "title": "Waveshare PiRack-M6F 6-node rack unit for Raspberry Pi 4/5 brings all ports to the front",
     "source": "CNX Software",
     "date": "2026-08-18",
@@ -68,6 +68,13 @@
     "date": "2026-08-18",
     "url": "https://www.cnx-software.com/2026/08/18/usbridge-kvm-2-0-an-open-source-ip-kvm-with-bios-access-over-ssh-ocr-and-ai-support/",
     "summary": "<div><img alt=\"USBridge KVM 2.0 device only\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/USBridge-KVM-2.0-device-only-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>USBridge-KVM 2.0 is a compact open-source AI-enabled IP-KVM designed for remote management and troubleshooting of servers and PCs, including systems that are unresponsive or have not yet booted. It provides out-of-band BIOS access, remote display and input control, virtual media mounting, and hardware power management. Built around a Radxa Zero 3W single board computer, it also features a 240×240 IPS display, Wi-Fi 6 connectivity, two USB Type-C ports, a Micro HDMI video output (loop), and a MicroSD card slot. It supports hardware UVC video capture up to 1080p and uses Moonlight streaming to achieve 25–50 ms low-latency remote access. One of the most notable features is the BIOS-in-Terminal, which uses offline OCR to convert BIOS and pre-boot screens into text accessible over SSH. USBridge-KVM 2.0 specifications: Main SBC &#8211; Radxa Zero 3W with Rockchip RK3566, 1-2GB LPDDR4X RAM, and MicroSD storage for the OS and Btrfs snapshots Display &#8211; 240&#215;240 IPS [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/18/usbridge-kvm-2-0-an-open-source-ip-kvm-with-bios-access-over-ssh-ocr-and-ai-support/\">USBridge-KVM 2.0 – An open-source IP-KVM with BIOS access over SSH, OCR, and AI support (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "BrainChip, Orama.AOI Target AI-Based Industrial Defect Detection",
+    "source": "Embedded.com",
+    "date": "2026-08-18",
+    "url": "https://www.embedded.com/brainchip-orama-aoi-target-ai-based-industrial-defect-detection/",
+    "summary": "<p>BrainChip Inc. has partnered with Atlanta-based Orama.AOI to develop AI-based automated optical inspection solutions using BrainChip's Akida neuromorphic AI platform. Orama.AOI has retrained and optimized Akida models using its industrial inspection datasets, demonstrating the platform's application to production-oriented defect detection. Orama.AOI provides AI-powered automated optical inspection technology for industrial applications with current use cases including [...]</p>\n<p>The post <a href=\"https://www.embedded.com/brainchip-orama-aoi-target-ai-based-industrial-defect-detection/\">BrainChip, Orama.AOI Target AI-Based Industrial Defect Detection</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "Littelfuse TPSMD-FL TVS diodes for 12 V vehicle electronics",
@@ -140,6 +147,41 @@
     "summary": "<p>Space Forge of the UK, which makes semiconductor manufacturing materials in space, has signed an R&#38;D agreement with The Texas A&#38;M University System marking its first move into establishing its [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/space-forge-2026-08/\">Space Forge takes first step into US manufacturing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
+    "date": "2026-08-18",
+    "url": "https://blog.adafruit.com/2026/08/18/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-18/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+  },
+  {
+    "title": "Cursor launches Origin, a GitHub alternative",
+    "source": "Adafruit",
+    "date": "2026-08-18",
+    "url": "https://blog.adafruit.com/2026/08/18/cursor-launches-origin-a-github-alternative/",
+    "summary": "Origin begins rolling out today in early beta on all Cursor paid plans. They&#8217;re starting with the essentials, designed for agent scale: repos, pull requests, code browsing, and GitHub sync. Agent-native features ship soon. Click +New to create a new repo and name it. Once you do, a page shows you how to install the [&#8230;]"
+  },
+  {
+    "title": "Fixing a bricked Framework laptop",
+    "source": "Adafruit",
+    "date": "2026-08-18",
+    "url": "https://blog.adafruit.com/2026/08/18/fixing-a-bricked-framework-laptop/",
+    "summary": "Guanzhong Chen&#8217;s discusses the experience fixing their Framework 13” laptop with an AMD 7060 series processor that was bricked due to a failed BIOS update. It ended up taking US$20 worth of tools, instead of replacing the motherboard, as suggested by Framework support. In 2023, I was in need of a new laptop that should [&#8230;]"
+  },
+  {
+    "title": "DIY Remote Controlled Water Gun Robot",
+    "source": "Adafruit",
+    "date": "2026-08-18",
+    "url": "https://blog.adafruit.com/2026/08/18/diy-remote-controlled-water-gun-robot/",
+    "summary": "This project by an engineering student (CroissantPoisson) is the perfect blend of the DIY spirit and that summer feeling. See more details here on Instructables: Last summer, my friends showed up unannounced at my door and ambushed me with water guns. This summer, I made sure that I would be prepared. Water guns are a [&#8230;]"
+  },
+  {
+    "title": "At the Repair Café, you can fix your broken things",
+    "source": "Adafruit",
+    "date": "2026-08-18",
+    "url": "https://blog.adafruit.com/2026/08/18/at-the-repair-cafe-you-can-fix-your-broken-things/",
+    "summary": "Adafruit last reported on Repair Cafés in 2017 where their popularity was growing. Repair Cafés are free meeting places and they’re all about repairing things (together). In the place where a Repair Café is located, you’ll find tools and materials to help you make any repairs you need. On clothes, furniture, electrical appliances, bicycles, crockery, [&#8230;]"
+  },
+  {
     "title": "Shipping Alert: CircuitPython Day 2026 #CircuitPythonDay2026",
     "source": "Adafruit",
     "date": "2026-08-18",
@@ -187,41 +229,6 @@
     "date": "2026-08-18",
     "url": "https://blog.adafruit.com/2026/08/18/ibm-simon-1994-the-original-smartphone-explained-in-its-own-ad/",
     "summary": "Was IBM&#8217;s Simon from 1994 the original smartphone? The IBM Simon Personal Communicator (simply known as IBM Simon) is a cellular phone and personal digital assistant (PDA) designed by International Business Machines (IBM), released in 1994. Built on an x86 processor, the IBM Simon features a 4.5 inch resistive touchscreen display and runs an MS-DOS-compatible operating system with the ability to install additional software using its PCMCIA slot. The Simon also [&#8230;]"
-  },
-  {
-    "title": "How to disable or avoid intrusive AI",
-    "source": "Adafruit",
-    "date": "2026-08-18",
-    "url": "https://blog.adafruit.com/2026/08/18/how-to-disable-or-avoid-intrusive-ai/",
-    "summary": "One of the biggest questions Jessamyn West gets at Drop-In Time at the library (besides &#8220;what is taking up all my cloud storage?&#8221;) is how to disable or avoid intrusive AI that shows up where people don&#8217;t want it. Her guide is for people who would like less intrusive AI in their tech environment. Apps [&#8230;]"
-  },
-  {
-    "title": "Finger: the 1971 social network that never died",
-    "source": "Adafruit",
-    "date": "2026-08-18",
-    "url": "https://blog.adafruit.com/2026/08/18/finger-the-1971-social-network-that-never-died/",
-    "summary": "It will surprise more than a few of you to hear that the first social network dates back to 1971. No accounts, no algorithm, no central server. Your entire profile fits in a single plain text file that you control. John Carmack (co-founder of id Software and programmer of Doom and Quake) used it as [&#8230;]"
-  },
-  {
-    "title": "Quake Shareware, a CD-ROM just a little too full",
-    "source": "Adafruit",
-    "date": "2026-08-18",
-    "url": "https://blog.adafruit.com/2026/08/18/quake-shareware-a-cd-rom-just-a-little-too-full/",
-    "summary": "In the mid-90s the coolest thing to buy for a PC, besides the incredibly expensive Intel Pentium, was a CD-ROM drive. With their capacity of 640 MiB (three times the storage of PC HDD at the time), CDs allowed enthusiasts to step into a world of multimedia, made of high-resolution 640&#215;480 256 colors palette-indexed photos, [&#8230;]"
-  },
-  {
-    "title": "3D Printed Gary the Snail Inspired Speaker and Phone Charger",
-    "source": "Adafruit",
-    "date": "2026-08-18",
-    "url": "https://blog.adafruit.com/2026/08/18/3d-printed-gary-the-snail-inspired-speaker-and-phone-charger/",
-    "summary": "I&#8217;m ready! I&#8217;m ready! To 3D PRINT! momandeum created this delightfully fun Gary the Snail inspired housing for an existing phone charger and speaker situation and shared a vide of the process on YouTube While we don&#8217;t have any SpongeBob builds in the Adafruit Learning System, the Ruiz Brothers and Liz Clark did make this [&#8230;]"
-  },
-  {
-    "title": "ICYMI: Python on Microcontrollers Newsletter: openbricks your ESP32 robot, CircuitPython Day, Python Guitar Pedal and More!",
-    "source": "Adafruit",
-    "date": "2026-08-18",
-    "url": "https://blog.adafruit.com/2026/08/18/icymi-python-on-microcontrollers-newsletter-openbricks-your-esp32-robot-circuitpython-day-python-guitar-pedal-and-more/",
-    "summary": "If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,382 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep [&#8230;]"
   },
   {
     "title": "Self-Publishing a Book Is Easier (and Harder) Than You Think (Part 1)",
@@ -418,12 +425,5 @@
     "date": "2026-08-11",
     "url": "https://www.embedded.com/simplifying-embedded-system-design-with-a-modern-software-ecosystem/",
     "summary": "<p>ADI details how an open, modular software ecosystem, using its CodeFusion Studio, can reduce development effort in embedded system design.</p>\n<p>The post <a href=\"https://www.embedded.com/simplifying-embedded-system-design-with-a-modern-software-ecosystem/\">Simplifying Embedded System Design with a Modern Software Ecosystem</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Silicon Motion Unveils PerformaShape Technology for AI SSDs",
-    "source": "Embedded.com",
-    "date": "2026-08-11",
-    "url": "https://www.embedded.com/silicon-motion-unveils-performashape-technology-for-ai-ssds/",
-    "summary": "<p>Silicon Motion Technology Corp. has introduced its MonTitan SSD reference design kit (RDK), incorporating the company's next-generation PerformaShape technology. Presented at FMS2026, the platform is designed for agentic AI infrastructure, where enterprise SSDs are increasingly required to operate as a persistent memory tier for applications such as key-value (KV) cache offload. The solution targets predictable [...]</p>\n<p>The post <a href=\"https://www.embedded.com/silicon-motion-unveils-performashape-technology-for-ai-ssds/\">Silicon Motion Unveils PerformaShape Technology for AI SSDs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
