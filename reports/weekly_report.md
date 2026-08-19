@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-19 09:19 UTC
+Generated: 2026-08-19 10:14 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,10 +15,10 @@ Generated: 2026-08-19 09:19 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | commaai/openpilot | 63449 | 25379.7 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30321 | 12128.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16139 | 6455.7 | [link](https://github.com/zauberzeug/nicegui) |
+| AtsushiSakai/PythonRobotics | 30322 | 12128.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16141 | 6456.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15709 | 6283.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| TianxingChen/Embodied-AI-Guide | 15514 | 6205.7 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
+| TianxingChen/Embodied-AI-Guide | 15516 | 6206.5 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -44,5 +44,5 @@ Generated: 2026-08-19 09:19 UTC
 | 2026-08-19 | Opinion | India’s Physical AI Moment: Why Robots Could Define The Next Startup Revolution - News18 | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPclJGZHZINGRrMUJLeVlvTGVCVFlCYVl5MUdqVTZ1NXV3eVFUWGVjT3VwS3RHX2pHU2lLdDhPUmZUdnU4ejRmQU1LV3p4Wm1BZE1vLVZZby1EaC1NVm4ySldHdVlLb1duMWNZXzZVUVk4anhZX3pqaHRKdUpXVDItc1NMald6cm5aWEo1Q2VJNTJRNDh3dXlmdldpR0pKZndyMENFMVVoNEhiTW9HR3QwZkl6ZDdxbU10YzltN2dMNi1Qa08yNkNVMmN2YzJ1aFVM0gHWAUFVX3lxTE9FQlVHWmVPbC1aVlItUXF5anZCVDRFcFZ1S21UcF9Sa1FybVppRGZKUDRNaWwtaDY2dHNPM00wNHg1TThFWmNmOHI5d0syaEZvNW5iTjZEZVZOeFc0Tk9CZml6UDF4aFF6Y3FOY2tiNjBVaElCY09rbGZQMEdUS3RKeHNrVktoX0Y4UThDanRmVlNLQkFpWjVjOWZCUmRjY0l1RlhDV2NqTGhWX284YjlCZHZNR29VUjR3eXdNQXJCNHpkb0xWRXBpMlRQOTAzOVlmaHdtMUE?oc=5) |
 | 2026-08-19 | AI Startup Temporal in Talks for a Valuation of at Least $12 Billion - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcm5rQy1OTWVub2ZXeEdDaXJsdXkzbnBEUTA3TWJfWmswM1FtTGZkXzl3Q3NRWktMWU4xaFoxTTExcFV0R1RBd01wQTZSMU0tenFFNkV0aE1uaEJSVlNMNVBGV2tuZUxGUWxjUTgyY3JBUFFOWkFpYXpmYzBOZDRCX0dCTE8wTmRyZE9aUzhSd1dIdFVHR0Y2cWJiQzNBbEw2S2tkbnZDeUN0OHFHYTJyRzFUWHVMeC1CRUE?oc=5) |
 | 2026-08-19 | Humanoid robot drives a go-kart, Chinese embodied AI startup releases demo video of race - Chinese media - Record China | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaTRSNFJkWmVGbGtXZFVEeTUyR0dreko4N3ZKbGpzTGFZZG9OMjExd0dPNDZHbzlMYTg3WldORk1KZHl2OXJjVlJpVUdJN01GX2lpc2NVS1JyUkNwRHh6UlVhc2hxUDZ1YWg0?oc=5) |
-| 2026-08-19 | Unitree Robotics to debut after US$904 million Shanghai IPO, rides embodied AI wave - The Business Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkpxSGVfMDlFYmtFTmJ3N0R5NVU0dnJZTTZRM2V6a0pWSmlxMEU4TDh3WW5yRHhuMFhfN3VTYkVfWUpwVENGcEFhdFhLRjM0SjRFYnJ6a2JRZGlsOHFma011bzhYY09uWGJTdXRoaXoxRE1Bc0dJeTB1ZnRvRTF1T1hzeWRzYy03dzNrWTVrcU5aRzA0eVdNRzFGS2Q2Xzd6WktxNXB2Um5LNFdvcEFBdEVlVWFLSmJZNF9HQUZ6TzBRYUNmbnZZNQ?oc=5) |
+| 2026-08-19 | Unitree Robotics to debut after US$904 million Shanghai IPO, rides embodied AI wave - businesstimes.com.sg | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkpxSGVfMDlFYmtFTmJ3N0R5NVU0dnJZTTZRM2V6a0pWSmlxMEU4TDh3WW5yRHhuMFhfN3VTYkVfWUpwVENGcEFhdFhLRjM0SjRFYnJ6a2JRZGlsOHFma011bzhYY09uWGJTdXRoaXoxRE1Bc0dJeTB1ZnRvRTF1T1hzeWRzYy03dzNrWTVrcU5aRzA0eVdNRzFGS2Q2Xzd6WktxNXB2Um5LNFdvcEFBdEVlVWFLSmJZNF9HQUZ6TzBRYUNmbnZZNQ?oc=5) |
 | 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmVpVnFGZTV6Z3RQS1E3N0NZa2dUTjN1ak5rRFdrbFhrLWJ6dk5peWVub0tiSkV4ckF0UURWVkNmVmQwVS1odTc4aXZhZzRNQU9STFRnRTFxYzBLU2xNUUd2RFBwSGJUNDQxT2lfcEQ2OVRJWXFaQnRWYU5QYU9xUVNGY1drS0lBUUswZnVnVlFaeU00eHctdQ?oc=5) |
