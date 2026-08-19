@@ -1,17 +1,23 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-19 15:18 UTC
+Generated: 2026-08-19 16:15 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-08-18 | Hydra-0: Action Flow for Generalist World Modeling and Control | [link](https://arxiv.org/pdf/2608.18077v1) |
+| 2026-08-18 | Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving | [link](https://arxiv.org/pdf/2608.18035v1) |
+| 2026-08-18 | How Do AI Climate Models Respond to Warming Across Climate Zones? | [link](https://arxiv.org/pdf/2608.17986v1) |
+| 2026-08-18 | Recirculation | [link](https://arxiv.org/pdf/2608.17981v1) |
+| 2026-08-18 | PRISM: Precision and contact-rich Real-world Industrial Skill dataset with Multimodal sensing | [link](https://arxiv.org/pdf/2608.17962v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63452 | 25380.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44373 | 17749.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| commaai/openpilot | 63451 | 25380.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44372 | 17748.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30326 | 12130.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16144 | 6457.7 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16145 | 6458.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15710 | 6284.1 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
@@ -35,8 +41,8 @@ _No items collected yet._
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-19 | Opinion | India’s Physical AI Moment: Why Robots Could Define The Next Startup Revolution - news18.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPclJGZHZINGRrMUJLeVlvTGVCVFlCYVl5MUdqVTZ1NXV3eVFUWGVjT3VwS3RHX2pHU2lLdDhPUmZUdnU4ejRmQU1LV3p4Wm1BZE1vLVZZby1EaC1NVm4ySldHdVlLb1duMWNZXzZVUVk4anhZX3pqaHRKdUpXVDItc1NMald6cm5aWEo1Q2VJNTJRNDh3dXlmdldpR0pKZndyMENFMVVoNEhiTW9HR3QwZkl6ZDdxbU10YzltN2dMNi1Qa08yNkNVMmN2YzJ1aFVM0gHWAUFVX3lxTE9FQlVHWmVPbC1aVlItUXF5anZCVDRFcFZ1S21UcF9Sa1FybVppRGZKUDRNaWwtaDY2dHNPM00wNHg1TThFWmNmOHI5d0syaEZvNW5iTjZEZVZOeFc0Tk9CZml6UDF4aFF6Y3FOY2tiNjBVaElCY09rbGZQMEdUS3RKeHNrVktoX0Y4UThDanRmVlNLQkFpWjVjOWZCUmRjY0l1RlhDV2NqTGhWX284YjlCZHZNR29VUjR3eXdNQXJCNHpkb0xWRXBpMlRQOTAzOVlmaHdtMUE?oc=5) |
-| 2026-08-19 | Humanoid robot drives a go-kart, Chinese embodied AI startup releases demo video of race - Chinese media - Record China | embodied ai startup | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaTRSNFJkWmVGbGtXZFVEeTUyR0dreko4N3ZKbGpzTGFZZG9OMjExd0dPNDZHbzlMYTg3WldORk1KZHl2OXJjVlJpVUdJN01GX2lpc2NVS1JyUkNwRHh6UlVhc2hxUDZ1YWg0?oc=5) |
+| 2026-08-19 | Former Nvidia lab leader Sanja Fidler launches Veeda AI to tackle world models - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRreGNHRzNvY0NlNVdjdk9fUEtrakxxT3E3WWJPMmxLc2FBeXdpcjdXTElsV3FBX0pBYUpXWHYzYlAzZ3o4WXk2MVZNS2tJQWg2bzBIendlWm9qTldRTzFLaERSZDd5UFUxZmZ6MnV5T0FBaHhYdEpIaU1UN3ZZcTg1RFZFcE5aUDJRaE9LTHRoS3ZPUmJ6RkZmbWxReWNI?oc=5) |
+| 2026-08-19 | Opinion | India’s Physical AI Moment: Why Robots Could Define The Next Startup Revolution - News18 | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPclJGZHZINGRrMUJLeVlvTGVCVFlCYVl5MUdqVTZ1NXV3eVFUWGVjT3VwS3RHX2pHU2lLdDhPUmZUdnU4ejRmQU1LV3p4Wm1BZE1vLVZZby1EaC1NVm4ySldHdVlLb1duMWNZXzZVUVk4anhZX3pqaHRKdUpXVDItc1NMald6cm5aWEo1Q2VJNTJRNDh3dXlmdldpR0pKZndyMENFMVVoNEhiTW9HR3QwZkl6ZDdxbU10YzltN2dMNi1Qa08yNkNVMmN2YzJ1aFVM0gHWAUFVX3lxTE9FQlVHWmVPbC1aVlItUXF5anZCVDRFcFZ1S21UcF9Sa1FybVppRGZKUDRNaWwtaDY2dHNPM00wNHg1TThFWmNmOHI5d0syaEZvNW5iTjZEZVZOeFc0Tk9CZml6UDF4aFF6Y3FOY2tiNjBVaElCY09rbGZQMEdUS3RKeHNrVktoX0Y4UThDanRmVlNLQkFpWjVjOWZCUmRjY0l1RlhDV2NqTGhWX284YjlCZHZNR29VUjR3eXdNQXJCNHpkb0xWRXBpMlRQOTAzOVlmaHdtMUE?oc=5) |
+| 2026-08-19 | Humanoid robot drives a go-kart, Chinese embodied AI startup releases demo video of race - Chinese media - Record China | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaTRSNFJkWmVGbGtXZFVEeTUyR0dreko4N3ZKbGpzTGFZZG9OMjExd0dPNDZHbzlMYTg3WldORk1KZHl2OXJjVlJpVUdJN01GX2lpc2NVS1JyUkNwRHh6UlVhc2hxUDZ1YWg0?oc=5) |
 | 2026-08-19 | Unitree Robotics to debut after US$904 million Shanghai IPO, rides embodied AI wave - The Business Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkpxSGVfMDlFYmtFTmJ3N0R5NVU0dnJZTTZRM2V6a0pWSmlxMEU4TDh3WW5yRHhuMFhfN3VTYkVfWUpwVENGcEFhdFhLRjM0SjRFYnJ6a2JRZGlsOHFma011bzhYY09uWGJTdXRoaXoxRE1Bc0dJeTB1ZnRvRTF1T1hzeWRzYy03dzNrWTVrcU5aRzA0eVdNRzFGS2Q2Xzd6WktxNXB2Um5LNFdvcEFBdEVlVWFLSmJZNF9HQUZ6TzBRYUNmbnZZNQ?oc=5) |
 | 2026-08-19 | Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban - WSJ | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMktnNC1kMTFZTU5YWEI4RmxxZmRCMndOcV9vZVVqa2pjU2hmbkI0bFpYUVlGTDl2ZFNjTVpsam1jNHUzT2s1a3RNdWRobVdBMnpydDU1SVBJZGp6bGtRQThxSzJiNUMtN1YzVlBaTk9aWkZGajFzNEVHeUUzRnFuVExWZFhod1hYWXhydDB3a19ndVJ2Mm5lN19EN3Q?oc=5) |
-| 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - finance.yahoo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmVpVnFGZTV6Z3RQS1E3N0NZa2dUTjN1ak5rRFdrbFhrLWJ6dk5peWVub0tiSkV4ckF0UURWVkNmVmQwVS1odTc4aXZhZzRNQU9STFRnRTFxYzBLU2xNUUd2RFBwSGJUNDQxT2lfcEQ2OVRJWXFaQnRWYU5QYU9xUVNGY1drS0lBUUswZnVnVlFaeU00eHctdQ?oc=5) |

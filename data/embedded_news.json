@@ -1,5 +1,12 @@
 [
   {
+    "title": "Smarting Up a Doorbell with Zigbee",
+    "source": "Hackaday",
+    "date": "2026-08-19",
+    "url": "https://hackaday.com/2026/08/19/smarting-up-a-doorbell-with-zigbee/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"452\" src=\"https://hackaday.com/wp-content/uploads/2026/08/Klingelanlage-ESP32-H2-Zero-scaled-1-e1787037414977.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Once upon a time a doorbell was little more than a button, a transformer, and a bell tucked somewhere around the house. These days, they get a little bit fancier. <a class=\"read-more\" href=\"https://hackaday.com/2026/08/19/smarting-up-a-doorbell-with-zigbee/\">&#8230;read more</a>"
+  },
+  {
     "title": "Hackaday Europe 2026: The 1-Bit CPU That Ran Factories",
     "source": "Hackaday",
     "date": "2026-08-19",
@@ -140,6 +147,34 @@
     "summary": "<p>The Q2 revenues of the top five NAND producers rose 76% QoQ to $68.7 billion, reported TrendForce. Suppliers are generally prioritising capex  on DRAM and HBM, limiting new NAND Flash [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/q2-revenues-of-top-5-nand-producers-rose-77-qoq-2026-08/\">Q2 revenues of Top 5 NAND producers rose 77% QoQ</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Unexpected Maker FeatherS31",
+    "source": "Adafruit",
+    "date": "2026-08-19",
+    "url": "https://blog.adafruit.com/2026/08/19/unexpected-maker-feathers31/",
+    "summary": "Unexpected Maker has previewed a working FeatherS31 board based on the new Espressif ESP32-S31. Unfortunately, there are a few holes in ESP-IDF S31 support right now &#8211; some will get filled, and some likely won&#8217;t 🙁 Biggest show stopper right now is this (ESP32-S31 missing USB (OTG) CDC Console support). See the post on X/Twitter."
+  },
+  {
+    "title": "Graft gives your coding agent a map of your codebase",
+    "source": "Adafruit",
+    "date": "2026-08-19",
+    "url": "https://blog.adafruit.com/2026/08/19/graft-gives-your-coding-agent-a-map-of-your-codebase/",
+    "summary": "Here&#8217;s something that may sound familiar if you&#8217;ve been coding with an AI assistant. Every time you start a new session, the agent begins blind. It greps for a term, opens a file, follows an import, backs out, and tries again, rebuilding a picture of a codebase it already mapped an hour ago and then [&#8230;]"
+  },
+  {
+    "title": "GoldenEye 007 100% decompiled",
+    "source": "Adafruit",
+    "date": "2026-08-19",
+    "url": "https://blog.adafruit.com/2026/08/19/goldeneye-007-100-decompiled/",
+    "summary": "After roughly nine years in progress, Rare&#8217;s 1997 spy shooter GoldenEye 007 has successfully been 100% decompiled by KholdFuzion and co., exposing all the working code and microcode behind the landmark title, preserving it for generations to come, and opening the doors to a plethora of possibilities, such as more accurate and complex modifications (like Random-Eye-zer) and ports. [&#8230;]"
+  },
+  {
+    "title": "The Reticulum Network",
+    "source": "Adafruit",
+    "date": "2026-08-19",
+    "url": "https://blog.adafruit.com/2026/08/19/the-reticulum-network/",
+    "summary": "Reticulum is the cryptography-based networking stack for building local and wide-area networks with readily available hardware. Reticulum can continue to operate even in adverse conditions with very high latency and extremely low bandwidth. The vision of Reticulum is to allow anyone to operate their own sovereign communication networks, and to make it cheap and easy [&#8230;]"
+  },
+  {
     "title": "3D Hangouts on Friday for CircuitPython Day",
     "source": "Adafruit",
     "date": "2026-08-19",
@@ -159,13 +194,6 @@
     "date": "2026-08-18",
     "url": "https://hackaday.com/2026/08/18/a-hot-end-and-material-database-for-3d-printing/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"452\" src=\"https://hackaday.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-161611-e1787033799276.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When it comes to 3D printing in the FDM world, you can go a long way just relying on standard settings that ship with your 3D printer and/or slicer. If <a class=\"read-more\" href=\"https://hackaday.com/2026/08/18/a-hot-end-and-material-database-for-3d-printing/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Reverse Engineered Grill Controller Gets Open Firmware",
-    "source": "Hackaday",
-    "date": "2026-08-18",
-    "url": "https://hackaday.com/2026/08/18/reverse-engineered-grill-controller-gets-open-firmware/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"336\" src=\"https://hackaday.com/wp-content/uploads/2026/08/openSourceGrillFeat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you are a regular reader, then the odds are you have taken apart an electronic gadget, either for a fix, or simply because your curiosity got the better of <a class=\"read-more\" href=\"https://hackaday.com/2026/08/18/reverse-engineered-grill-controller-gets-open-firmware/\">&#8230;read more</a>"
   },
   {
     "title": "Waveshare PiRack-M6F 6-node rack unit for Raspberry Pi 4/5 brings all ports to the front",
@@ -238,34 +266,6 @@
     "summary": "James Bowman on the Excamera Labs Substack discusses that, unlike in the media, real inventors make prototypes. Some rules: At least one prototype before production Not too may prototypes You don’t ship the prototype I normally break prototyping into two parts. The “works-like” prototype is functionally the same as the final product, but doesn’t look [&#8230;]"
   },
   {
-    "title": "JP’s Product Pick of the Week — 6pm Eastern TODAY! 8/18/26 @adafruit #adafruit #newproductpick",
-    "source": "Adafruit",
-    "date": "2026-08-18",
-    "url": "https://blog.adafruit.com/2026/08/18/jps-product-pick-of-the-week-6pm-eastern-today-8-18-26-adafruit-adafruit-newproductpick/",
-    "summary": "Come on by for JP&#8217;s Product Pick of The Week ! A new product pick will be revealed. The show airs at 4pm ET / 1pm PT Check out the livestream right here inside this product page you won&#8217;t want to miss it because there will be a LARGE DISCOUNT during the show! Tune in [&#8230;]"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-08-18",
-    "url": "https://blog.adafruit.com/2026/08/18/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-18/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
-  },
-  {
-    "title": "Cursor launches Origin, a GitHub alternative",
-    "source": "Adafruit",
-    "date": "2026-08-18",
-    "url": "https://blog.adafruit.com/2026/08/18/cursor-launches-origin-a-github-alternative/",
-    "summary": "Origin begins rolling out today in early beta on all Cursor paid plans. They&#8217;re starting with the essentials, designed for agent scale: repos, pull requests, code browsing, and GitHub sync. Agent-native features ship soon. Click +New to create a new repo and name it. Once you do, a page shows you how to install the [&#8230;]"
-  },
-  {
-    "title": "Fixing a bricked Framework laptop",
-    "source": "Adafruit",
-    "date": "2026-08-18",
-    "url": "https://blog.adafruit.com/2026/08/18/fixing-a-bricked-framework-laptop/",
-    "summary": "Guanzhong Chen&#8217;s discusses the experience fixing their Framework 13” laptop with an AMD 7060 series processor that was bricked due to a failed BIOS update. It ended up taking US$20 worth of tools, instead of replacing the motherboard, as suggested by Framework support. In 2023, I was in need of a new laptop that should [&#8230;]"
-  },
-  {
     "title": "Stackpole’s RNCQ Thin Film Resistors Target High-Frequency Communications Infrastructure",
     "source": "EE Journal",
     "date": "2026-08-18",
@@ -326,7 +326,7 @@
     "source": "CNX Software",
     "date": "2026-08-17",
     "url": "https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/",
-    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a85c71cbcac3531334746/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a85d4f6abe23849286557/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "SensiBel and Aizip Combine Optical MEMS and Edge AI Beamforming",
