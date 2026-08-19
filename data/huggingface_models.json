@@ -1,5 +1,14 @@
 [
   {
+    "model": "zolkin/robot_rl",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/zolkin/robot_rl",
+    "date": "2026-08-19",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
     "model": "puppet-robotics/golf-model-2-8fps",
     "downloads": 0,
     "likes": 0,
@@ -99,19 +108,19 @@
     "score": 0.1
   },
   {
-    "model": "OpenWAM/New_OpenWAM_Robotwin_Full_SFT_1024bs",
-    "downloads": 4,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/New_OpenWAM_Robotwin_Full_SFT_1024bs",
-    "date": "2026-08-19",
-    "keyword": "robot",
-    "score": 1.3
-  },
-  {
     "model": "B111ue/fcl-vla-functional-support-canary",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
+    "date": "2026-08-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Grigorij/PaP_duck_vla_jepa",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Grigorij/PaP_duck_vla_jepa",
     "date": "2026-08-19",
     "keyword": "vla",
     "score": 0.1
@@ -139,15 +148,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Grigorij/PaP_objects_sum_vla_jepa",
-    "date": "2026-08-19",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Grigorij/PaP_duck_vla_jepa",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Grigorij/PaP_duck_vla_jepa",
     "date": "2026-08-19",
     "keyword": "vla",
     "score": 0.1
@@ -205,6 +205,15 @@
     "date": "2026-08-19",
     "keyword": "vla",
     "score": 1.0
+  },
+  {
+    "model": "novastar111/sokoban_easy_cot_chunk_k3_world_model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/novastar111/sokoban_easy_cot_chunk_k3_world_model",
+    "date": "2026-08-19",
+    "keyword": "world model",
+    "score": 0.1
   },
   {
     "model": "aDaikiKamata/patch_policy_libero_object",
@@ -421,15 +430,6 @@
     "date": "2026-08-18",
     "keyword": "policy",
     "score": 0.4
-  },
-  {
-    "model": "Fleurrr/A2World-World-Model",
-    "downloads": 49,
-    "likes": 0,
-    "url": "https://huggingface.co/Fleurrr/A2World-World-Model",
-    "date": "2026-08-17",
-    "keyword": "world model",
-    "score": 14.8
   },
   {
     "model": "Mayank022/Transformer-Vision-From-Image-Video-to-World-Models-and-Robotics-Book",
