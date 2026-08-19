@@ -1,13 +1,13 @@
 [
   {
     "repo": "mosaico-labs/mosaico",
-    "stars": 923,
+    "stars": 925,
     "language": "Python",
     "description": "Mosaico - The data platform for Physical AI",
     "url": "https://github.com/mosaico-labs/mosaico",
     "date": "2026-08-19",
     "topic": "physical-ai",
-    "score": 369.3
+    "score": 370.1
   },
   {
     "repo": "commaai/openpilot",
@@ -41,13 +41,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13637,
+    "stars": 13638,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 5454.9
+    "score": 5455.3
   },
   {
     "repo": "rerun-io/rerun",
@@ -108,6 +108,16 @@
     "date": "2026-08-19",
     "topic": "robot-learning",
     "score": 209.3
+  },
+  {
+    "repo": "flashrt-project/FlashRT",
+    "stars": 515,
+    "language": "C++",
+    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
+    "url": "https://github.com/flashrt-project/FlashRT",
+    "date": "2026-08-19",
+    "topic": "vla",
+    "score": 206.1
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -260,16 +270,6 @@
     "score": 342.9
   },
   {
-    "repo": "flashrt-project/FlashRT",
-    "stars": 515,
-    "language": "C++",
-    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
-    "url": "https://github.com/flashrt-project/FlashRT",
-    "date": "2026-08-18",
-    "topic": "vla",
-    "score": 206.1
-  },
-  {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
     "stars": 377,
     "language": "",
@@ -291,13 +291,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2315,
+    "stars": 2316,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-08-18",
     "topic": "humanoid",
-    "score": 926.1
+    "score": 926.5
   },
   {
     "repo": "NVIDIA/skills",
@@ -621,13 +621,13 @@
   },
   {
     "repo": "dexmal/dexbotic",
-    "stars": 1357,
+    "stars": 1359,
     "language": "Python",
     "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
     "url": "https://github.com/dexmal/dexbotic",
     "date": "2026-08-06",
     "topic": "vla",
-    "score": 542.9
+    "score": 543.7
   },
   {
     "repo": "RayYoh/Awesome-Robot-Learning",
@@ -721,13 +721,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15516,
+    "stars": 15517,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6206.5
+    "score": 6206.9
   },
   {
     "repo": "aalmuzairee/squint",
@@ -761,13 +761,13 @@
   },
   {
     "repo": "PKU-YuanGroup/Helios",
-    "stars": 2064,
+    "stars": 2065,
     "language": "Python",
     "description": "Helios: Real Real-Time Long Video Generation Model",
     "url": "https://github.com/PKU-YuanGroup/Helios",
     "date": "2026-07-28",
     "topic": "world-model",
-    "score": 825.7
+    "score": 826.1
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",
