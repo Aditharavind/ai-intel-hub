@@ -1,9 +1,45 @@
 [
   {
+    "model": "OpenWAM/New_OpenWAM_Robotwin_Full_SFT_1024bs",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/New_OpenWAM_Robotwin_Full_SFT_1024bs",
+    "date": "2026-08-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Robot-Haus/Qwen3.8-27B-original-oQ3.5e-mtp",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Robot-Haus/Qwen3.8-27B-original-oQ3.5e-mtp",
+    "date": "2026-08-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Robot-Haus/Qwen3.8-27B-original-oQ3.5e-fp16-mtp",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Robot-Haus/Qwen3.8-27B-original-oQ3.5e-fp16-mtp",
+    "date": "2026-08-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "B111ue/fcl-vla-functional-support-canary",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
+    "date": "2026-08-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
     "date": "2026-08-19",
     "keyword": "vla",
     "score": 0.1
@@ -15,6 +51,24 @@
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-19",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "hiskiv/cosmos-policy-lam-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/hiskiv/cosmos-policy-lam-v2",
+    "date": "2026-08-19",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Neutrollized/act_so101_legoinbowl_policy_fp_20k_twf_v0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Neutrollized/act_so101_legoinbowl_policy_fp_20k_twf_v0",
+    "date": "2026-08-19",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -31,15 +85,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp",
-    "date": "2026-08-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Robot-Haus/Qwen3.8-27B-original-oQ3.5e-fp16-mtp",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Robot-Haus/Qwen3.8-27B-original-oQ3.5e-fp16-mtp",
     "date": "2026-08-18",
     "keyword": "robot",
     "score": 0.1
@@ -103,24 +148,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/chennana1028/fastwam-robotwin-openarm-sbint-step30000",
-    "date": "2026-08-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Chipaipai/tcc-core-real-robot-policies",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Chipaipai/tcc-core-real-robot-policies",
-    "date": "2026-08-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "sun-robot/pi05_amazinghand_rps",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sun-robot/pi05_amazinghand_rps",
     "date": "2026-08-18",
     "keyword": "robot",
     "score": 0.1
@@ -202,15 +229,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/mertalbaba/humanoid-vla-checkpoints",
-    "date": "2026-08-18",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step60000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step60000",
     "date": "2026-08-18",
     "keyword": "vla",
     "score": 0.1
@@ -421,24 +439,6 @@
     "date": "2026-08-17",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "Neutrollized/act_so101_legoinbowl_policy_fp_20k_twf",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/Neutrollized/act_so101_legoinbowl_policy_fp_20k_twf",
-    "date": "2026-08-17",
-    "keyword": "policy",
-    "score": 3.7
-  },
-  {
-    "model": "stevenqian/red_block_pi05_armcam_policy0",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/stevenqian/red_block_pi05_armcam_policy0",
-    "date": "2026-08-17",
-    "keyword": "policy",
-    "score": 4.9
   },
   {
     "model": "puppet-robotics/golf-model-mcap-test",

@@ -10,14 +10,24 @@
     "score": 25378.9
   },
   {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15707,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-08-19",
+    "topic": "robotics",
+    "score": 6282.9
+  },
+  {
     "repo": "google-deepmind/mujoco",
-    "stars": 14589,
+    "stars": 14590,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 5835.7
+    "score": 5836.1
   },
   {
     "repo": "dora-rs/dora",
@@ -28,6 +38,46 @@
     "date": "2026-08-19",
     "topic": "embodied-ai",
     "score": 1553.7
+  },
+  {
+    "repo": "sou350121/VLA-Handbook",
+    "stars": 521,
+    "language": "HTML",
+    "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
+    "url": "https://github.com/sou350121/VLA-Handbook",
+    "date": "2026-08-19",
+    "topic": "robot-learning",
+    "score": 208.5
+  },
+  {
+    "repo": "syswonder/robonix",
+    "stars": 333,
+    "language": "Rust",
+    "description": "Embodied AI Operating System (EAIOS)",
+    "url": "https://github.com/syswonder/robonix",
+    "date": "2026-08-19",
+    "topic": "vla",
+    "score": 133.3
+  },
+  {
+    "repo": "ROBOTIS-GIT/ai_worker",
+    "stars": 177,
+    "language": "Python",
+    "description": "AI Worker: FFW (Freedom From Work)",
+    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
+    "date": "2026-08-19",
+    "topic": "humanoid",
+    "score": 70.9
+  },
+  {
+    "repo": "DexForce/EmbodiChain",
+    "stars": 210,
+    "language": "Python",
+    "description": "An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence.",
+    "url": "https://github.com/DexForce/EmbodiChain",
+    "date": "2026-08-19",
+    "topic": "robot-learning",
+    "score": 84.1
   },
   {
     "repo": "Edgenesis/shifu",
@@ -51,13 +101,13 @@
   },
   {
     "repo": "mosaico-labs/mosaico",
-    "stars": 922,
+    "stars": 923,
     "language": "Python",
     "description": "Mosaico - The data platform for Physical AI",
     "url": "https://github.com/mosaico-labs/mosaico",
     "date": "2026-08-18",
     "topic": "physical-ai",
-    "score": 368.9
+    "score": 369.3
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -70,24 +120,14 @@
     "score": 6454.9
   },
   {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15707,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-08-18",
-    "topic": "robotics",
-    "score": 6282.9
-  },
-  {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13611,
+    "stars": 13618,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-18",
     "topic": "robotics",
-    "score": 5444.5
+    "score": 5447.3
   },
   {
     "repo": "rerun-io/rerun",
@@ -121,13 +161,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3234,
+    "stars": 3238,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-18",
     "topic": "embodied-ai",
-    "score": 1293.7
+    "score": 1295.3
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -138,16 +178,6 @@
     "date": "2026-08-18",
     "topic": "world-model",
     "score": 342.9
-  },
-  {
-    "repo": "sou350121/VLA-Handbook",
-    "stars": 520,
-    "language": "HTML",
-    "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
-    "url": "https://github.com/sou350121/VLA-Handbook",
-    "date": "2026-08-18",
-    "topic": "robot-learning",
-    "score": 208.1
   },
   {
     "repo": "flashrt-project/FlashRT",
@@ -191,13 +221,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6157,
+    "stars": 6159,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-18",
     "topic": "world-model",
-    "score": 2462.9
+    "score": 2463.7
   },
   {
     "repo": "galilai-group/stable-worldmodel",
@@ -240,34 +270,14 @@
     "score": 218.5
   },
   {
-    "repo": "ROBOTIS-GIT/ai_worker",
-    "stars": 177,
-    "language": "Python",
-    "description": "AI Worker: FFW (Freedom From Work)",
-    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
-    "date": "2026-08-18",
-    "topic": "humanoid",
-    "score": 70.9
-  },
-  {
-    "repo": "DexForce/EmbodiChain",
-    "stars": 210,
-    "language": "Python",
-    "description": "An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence.",
-    "url": "https://github.com/DexForce/EmbodiChain",
-    "date": "2026-08-18",
-    "topic": "robot-learning",
-    "score": 84.1
-  },
-  {
     "repo": "NVIDIA/skills",
-    "stars": 2999,
+    "stars": 3001,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-17",
     "topic": "physical-ai",
-    "score": 1199.7
+    "score": 1200.5
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -281,23 +291,23 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13707,
+    "stars": 13708,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-08-17",
     "topic": "robotics",
-    "score": 5482.9
+    "score": 5483.3
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",
-    "stars": 3444,
+    "stars": 3445,
     "language": "Python",
     "description": "Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction.",
     "url": "https://github.com/huangjunsen0406/py-xiaozhi",
     "date": "2026-08-17",
     "topic": "embodied-ai",
-    "score": 1377.7
+    "score": 1378.1
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
@@ -381,13 +391,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2243,
+    "stars": 2246,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-16",
     "topic": "robot-learning",
-    "score": 897.3
+    "score": 898.5
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -421,23 +431,23 @@
   },
   {
     "repo": "copper-project/copper-rs",
-    "stars": 1456,
+    "stars": 1457,
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
     "date": "2026-08-15",
     "topic": "physical-ai",
-    "score": 582.5
+    "score": 582.9
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4569,
+    "stars": 4570,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-15",
     "topic": "embodied-ai",
-    "score": 1827.7
+    "score": 1828.1
   },
   {
     "repo": "ace-trump-tech/MindPaw",
@@ -448,16 +458,6 @@
     "date": "2026-08-15",
     "topic": "vla",
     "score": 958.1
-  },
-  {
-    "repo": "syswonder/robonix",
-    "stars": 333,
-    "language": "Rust",
-    "description": "Embodied AI Operating System (EAIOS)",
-    "url": "https://github.com/syswonder/robonix",
-    "date": "2026-08-15",
-    "topic": "vla",
-    "score": 133.3
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -711,13 +711,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15510,
+    "stars": 15511,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6204.1
+    "score": 6204.5
   },
   {
     "repo": "aalmuzairee/squint",
