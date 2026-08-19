@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-19 06:20 UTC
+Last Updated: 2026-08-19 07:27 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -51,14 +51,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-19 | Joy-Cons Plus WiiMotes Make for Switch 2 Wii-Cons | Hackaday | [link](https://hackaday.com/2026/08/18/joy-cons-plus-wiimotes-make-for-switch-2-wii-cons/) |
 | 2026-08-19 | Compress Links For Optimal QR Codes | Hackaday | [link](https://hackaday.com/2026/08/18/compress-links-for-optimal-qr-codes/) |
+| 2026-08-19 | Raspberry Pi Compute Module 5 gets an official programming jig | CNX Software | [link](https://www.cnx-software.com/2026/08/19/raspberry-pi-compute-module-5-gets-an-official-programming-jig/) |
 | 2026-08-19 | NXP MCX A5 Cortex-M33 MCU family supports 10BASE-T1S Single Pair Ethernet and Post-Quantum Cryptography | CNX Software | [link](https://www.cnx-software.com/2026/08/19/nxp-mcx-a5-cortex-m33-mcu-family-supports-10base-t1s-single-pair-ethernet-and-post-quantum-cryptography/) |
+| 2026-08-19 | Cerebras launches CS-4 rack | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/cerebras-launches-cs-4-rack-2026-08/) |
 | 2026-08-19 | Xiaomi’s Q2 profit halved | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/xiaomis-q2-profit-halved-2026-08/) |
 | 2026-08-19 | Velaura AI hits $1bn valuation | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/velaura-ai-raises-2026-08/) |
 | 2026-08-19 | Q2 revenues of Top 5 NAND producers rose 77% QoQ | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/q2-revenues-of-top-5-nand-producers-rose-77-qoq-2026-08/) |
 | 2026-08-19 | ECTC call for papers | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/ectc-call-for-papers-3-2026-08/) |
 | 2026-08-19 | Who’s Sending Most Support To Ukraine | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/whos-sending-most-support-to-ukraine-2026-08/) |
-| 2026-08-19 | Top Ten Smartphone Vendors In Q2 | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-smartphone-vendors-in-q2-2026-08/) |
-| 2026-08-18 | A Hot End And Material Database For 3D Printing | Hackaday | [link](https://hackaday.com/2026/08/18/a-hot-end-and-material-database-for-3d-printing/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -91,21 +91,23 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 63448 | Python | 25379.3 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15708 | C++ | 6283.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 63449 | Python | 25379.7 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15709 | C++ | 6283.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14590 | C++ | 5836.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13626 | Python | 5450.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13631 | Python | 5452.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11319 | Rust | 4527.7 | [link](https://github.com/rerun-io/rerun) |
 | isaac-sim/IsaacLab | 7914 | Python | 3165.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| RLinf/RLinf | 4570 | Python | 1828.1 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 4574 | Python | 1829.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3885 | Rust | 1554.1 | [link](https://github.com/dora-rs/dora) |
-| leofan90/Awesome-World-Models | 1965 | Python | 786.1 | [link](https://github.com/leofan90/Awesome-World-Models) |
+| leofan90/Awesome-World-Models | 1966 | Python | 786.5 | [link](https://github.com/leofan90/Awesome-World-Models) |
 | sou350121/VLA-Handbook | 522 | HTML | 208.9 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVVGZ3Q4aW0tRF9FZm9UN04xSlNudWRHcVFVX3ljNTJ1YlBfcF9RQ3hTSW5zQkpSZWJHeEpramdGX0VZcGFXWTlPYWczQlg3anhtSHJFbGJCVzU3dFlYSy1LX0hOc3FjUUtNUWxKbnR1Ty1PbnZaM3BTSjc0TVJlQWtGb05mbFJuZ2o2T2FvVDlzRm5UMG4zUWpTZm41ZDVtcmZtLXYtWUZCbzFFSU9Sb1dzbTFraEZUSDVsZXpsN3ZzREHSAcMBQVVfeXFMT0Y4bkNZdW9FdEJQYy0tRlplcGVzYjNfd0J0RjVjS2N5X0NFMVBuWmwxemNDaHpmdXlCdWx3TzNWVENSN2E5eUNibHB5aFkxMGxLdGRTS1JkWXdOZ1lvZjNpWDliS0FlaXJRcF8xWUlYQTlUa0d4MUlaRHRaQnhRNlYtZHhlTDFURGRXbERBTklJYndjalFrRXZibjFYUzl4eURXeno3dkVkZWFWMGVtTnRaNnA5UGJueWZDbUxYWWVPU1FV?oc=5) |
+| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFJKZmlaWUVYT050VDhEX05EQ1NnN2FVNXFFTFNabTM4a0ZrMUJheEQxMXpTSk5BRWx0dDV5TERGRDNnYW9qc205TDZyM25sZUxlWEkySm9VZEJETjhGWDAwZlFIbXpwbVlNaHFXU2p5U0hlY25falJDaUFPRlpOMXFLS3owckZISEFLREt2cFRuSkhYVWI1VXdNNF9Zajg4aUNxQnlGRXZTMDB4amc?oc=5) |
+| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRG5SQUVUeElSMng5bENYcURTTW5jcElyTzRIWjliZzJTVVZ4a01CR2xqckFEWDJ6eTNiME5uRHZxUlRucUdUUTg4ME15dkpHOGRobGpOZF9DOTczVkZSUWo0c0NEN25Ha0d3MUpvMEpwZ0RLaGlnUkN2VjZWMk1KZ3NQbVMtWGpqeWRB?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWNGUDJYMjkyWll1LXFiS1dRVWZ5Z05ydFNMSE1iY29Bd215b01sYmlTQ3ZZX3FUTVp3ZnQzN2JjSmg1cTZGd1NaY3ppQ1F2d3BYWFNsdHI3SkZWZjdMb0VOd0ZNeHViNDBVYW1FNzZCQjFVbm5ITmtRSjhoR0FJSHFqdFphRzdjMFplNVpzbzRrcFJJdDdWSFQtT1V1UXV6MHJ6a1FlX3V5WjhVT1JqeVZjenBsTGlZVE5JZw?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1YwZzNETk9CSENZVDNEUTktbXZ6akFKeVBPcm1SRVNDNXZtanRWc21TbEY0M21GTTRpRjFoREZtRjAwVWtSWXduRzJJU3RRbDIyVGVHY0JkMlh0QktXblNDSFc4WF9CbjRXMmEtZGZWNmxoSThtMEExQm9VeFJVYnlHYTRoeXFMVU5YTmo3S3J5X0ZPMjRDdU45dUdsclhDMDBWNU5zT05uNlJiQ2VFQzJBdkM?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lc3hjY3hRV0dpOTljWW5Yb05JT3d5Wkd3ZWY1enVRRnZPVS1FWjZvNTJ2Zy1PdmROLTZmM0RDZHJuT1RCTzdfcFJsVFFNMThTWjNwekNpSXI?oc=5) |
@@ -113,14 +115,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qc0xLUWRESFV5Yk55TkNvbWlfZVVQQk0zdTljN0dTYzBfRWxqTDF2aWhsNWZKNHRaWHU2aWxPTWZzeFVUc29wQXdBWlIwOVBITlZr?oc=5) |
 | 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0U2OVlyZEFWVkZ4WGFMTHhDZzV3bzA2WFRzaWtYZl9paUdPNFB5bDl5aFM4Slllc2lKTU0xdjVIUTA1V3Ewc2FRTS05NVlSRGtZWXBBcVI0SWhrTUs1VTloQnhwbC1aZ25PekVkVGQ5ejQ3R3lOb1Q0Si1VX1ZkaE0yUTlJTGpoN0dHcDZmSXBtWGxEZGRlOHhZWlo2OEpJWHpkcUdwbUZtQQ?oc=5) |
 | 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE0zSzY1cUhfcDJVRDZ2SFBvWEtFVGJHMm1JNGw3Wk96SFNfaHRNWEg4VU5aRHJ5UHZSVVFzRF9xNzJPWmtrWkdPeDIxTldrMVNrWmRhcGlGVjdrdmVkTHhHOE5YSWZweWRiY0ZjbHF6TGVTU1F5QUhwd1UxcEQxUQ?oc=5) |
-| 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZTBWaG40V1FyajFzdVlXRmhZS29sT0R0TWFJMk9OWDBkQWJxelZIZThmeU1hT2RVWnI2UHpPcVQ4TkRsVUotZjQ3eDFoc2VfUGRjU0d2QlBBVWFyWm1nWXMtRWtZZWpVNzZpYV9WOGRLeFlOeGo1bWEzTEZ0dzZLSE5BVW4taEN4RG1MUDJfaHI1RkU3WDY2NG9vdmlpaFVva3hncFVLcnA2QQ?oc=5) |
-| 2026-08-17 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS3dYb3NzZTFhbHJGZ2pQb1NYMXBfcERxTXlsanhNa1g1aFRHREZiSUVtUkw0YTBMa0ZrVUlNLWtkYS1YMTlzRVFWQ1pHRVhmaFdSVHc3TWJKWkdYV3ZqeUpRTG5HZ25ZMWRNOWtkdElMZWxzU2RQeU5iYk9iajNrRUxHd3FZX1hXVzN5MzF1akY5bjdxNFBqT2UtODh3NHJ3WkVRLTNsbE1SX1NOTnUySFc5RnRHaU1vSTFjUWdwVGJrSFk1MThWNGRwdkJ5SVp4RjNR?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-19 | AI Startup Temporal in Talks for a Valuation of at Least $12 Billion - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcm5rQy1OTWVub2ZXeEdDaXJsdXkzbnBEUTA3TWJfWmswM1FtTGZkXzl3Q3NRWktMWU4xaFoxTTExcFV0R1RBd01wQTZSMU0tenFFNkV0aE1uaEJSVlNMNVBGV2tuZUxGUWxjUTgyY3JBUFFOWkFpYXpmYzBOZDRCX0dCTE8wTmRyZE9aUzhSd1dIdFVHR0Y2cWJiQzNBbEw2S2tkbnZDeUN0OHFHYTJyRzFUWHVMeC1CRUE?oc=5) |
-| 2026-08-19 | Humanoid robot drives a go-kart, Chinese embodied AI startup releases demo video of race - Chinese media - Record China | embodied ai startup | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaTRSNFJkWmVGbGtXZFVEeTUyR0dreko4N3ZKbGpzTGFZZG9OMjExd0dPNDZHbzlMYTg3WldORk1KZHl2OXJjVlJpVUdJN01GX2lpc2NVS1JyUkNwRHh6UlVhc2hxUDZ1YWg0?oc=5) |
+| 2026-08-19 | Humanoid robot drives a go-kart, Chinese embodied AI startup releases demo video of race - Chinese media - Record China | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaTRSNFJkWmVGbGtXZFVEeTUyR0dreko4N3ZKbGpzTGFZZG9OMjExd0dPNDZHbzlMYTg3WldORk1KZHl2OXJjVlJpVUdJN01GX2lpc2NVS1JyUkNwRHh6UlVhc2hxUDZ1YWg0?oc=5) |
 | 2026-08-19 | Unitree Robotics to debut after US$904 million Shanghai IPO, rides embodied AI wave - The Business Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkpxSGVfMDlFYmtFTmJ3N0R5NVU0dnJZTTZRM2V6a0pWSmlxMEU4TDh3WW5yRHhuMFhfN3VTYkVfWUpwVENGcEFhdFhLRjM0SjRFYnJ6a2JRZGlsOHFma011bzhYY09uWGJTdXRoaXoxRE1Bc0dJeTB1ZnRvRTF1T1hzeWRzYy03dzNrWTVrcU5aRzA0eVdNRzFGS2Q2Xzd6WktxNXB2Um5LNFdvcEFBdEVlVWFLSmJZNF9HQUZ6TzBRYUNmbnZZNQ?oc=5) |
 | 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmVpVnFGZTV6Z3RQS1E3N0NZa2dUTjN1ak5rRFdrbFhrLWJ6dk5peWVub0tiSkV4ckF0UURWVkNmVmQwVS1odTc4aXZhZzRNQU9STFRnRTFxYzBLU2xNUUd2RFBwSGJUNDQxT2lfcEQ2OVRJWXFaQnRWYU5QYU9xUVNGY1drS0lBUUswZnVnVlFaeU00eHctdQ?oc=5) |
 | 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOenVYeUF4SkxXWmhQNmxha2VsaWFDNVU4anNVX1lZNEZYQkh6VDFMSnJHNlRid2ZoUVRCWjJ1ZVc4Y29rd3RjMjEwUlBBZjZlRWlKMW1FSkUtSXBzMk5vcGdoSndQbEYtT1U0RkhmSmZ6NnNGUVNoOHBDazI5NzhQVndUZkFqTXZLeE1Iam4xZFU2LUNGWDU5NkxtM2RqdDIwT0N5bHhmNE81YXExcFd4aHN6elJrNjg?oc=5) |
