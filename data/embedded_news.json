@@ -21,6 +21,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/hammr-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Link shorteners have been a staple of the online world for over two decades now, but they&#8217;ve got some issues&#8211; for one thing, it&#8217;s totally non-transparent where the link actually <a class=\"read-more\" href=\"https://hackaday.com/2026/08/18/compress-links-for-optimal-qr-codes/\">&#8230;read more</a>"
   },
   {
+    "title": "PwrBlock 323 – A USB-C PD programmable power supply for automated test fixtures (Crowdfunding)",
+    "source": "CNX Software",
+    "date": "2026-08-19",
+    "url": "https://www.cnx-software.com/2026/08/19/pwrblock-323-usb-c-pd-programmable-power-supply-for-automated-test-fixtures/",
+    "summary": "<div><img alt=\"Everypin PwrBlock 323 USB C PD programmable power supply for automated test fixtures\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Everypin-PwrBlock-323-USB-C-PD-programmable-power-supply-for-automated-test-fixtures-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Finland-based Everypin has introduced the PwrBlock 323, a programmable USB-C PD power supply designed specifically for automated test fixtures. It can provide 1 to 32V at up to 3A, with up to 92W output from a 100W USB-C PD source, and supports software-controlled power switching, voltage and current measurement, and power cycling for a device under test (DUT). The company highlights that the PwrBlock 323 can be mounted inside a test jig or stand using its mounting points and pin headers to control and power the DUT directly as part of the automated test sequence. It adds one more option to USB-C programmable lab power supplies such as Ampisu, PocketPD, and BenchVolt PD, PwrBlock 323 specifications: MCU – STMicro STM32G0C1CEU Arm Cortex-M0+ microcontroller USB 2x USB Type-C ports for power and control 10-pin IDC USB control connector (connects to a host computer or test controller over USB) Expansion – 40-pin [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/19/pwrblock-323-usb-c-pd-programmable-power-supply-for-automated-test-fixtures/\">PwrBlock 323 &#8211; A USB-C PD programmable power supply for automated test fixtures (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Raspberry Pi Compute Module 5 gets an official programming jig",
     "source": "CNX Software",
     "date": "2026-08-19",
@@ -33,55 +40,6 @@
     "date": "2026-08-19",
     "url": "https://www.cnx-software.com/2026/08/19/nxp-mcx-a5-cortex-m33-mcu-family-supports-10base-t1s-single-pair-ethernet-and-post-quantum-cryptography/",
     "summary": "<div><img alt=\"NXP MCX A5 Series Cortex M33 MCUs\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/NXP-MCX-A5-Series-Cortex-M33-MCUs-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>NXP has introduced the MCX A5 family of Cortex-M33 MCUs, which features a 10/100Mbps Ethernet MAC and an integrated 10BASE-T1S Single Pair Ethernet digital PHY. It targets industrial and networking applications such as controllers, PLCs, remote I/O, building and energy management systems, and other connected edge devices. The MCUs run at up to 240 MHz and feature up to 2 MB dual-bank Flash and 640 KB SRAM, along with multiple communication interfaces and analog peripherals. Security features include an EdgeLock accelerator, secure boot with PQC hybrid support, secure firmware updates, lifecycle management, secure debug, external Flash encryption, and anti-tamper monitoring. NXP MCX A5 Series (MCXA577) specifications: MCU Core Arm Cortex-M33 core clocked at up to 240 MHz Includes FPU, DSP, MPU, and TrustZone support Integrated SmartDMA co-processor for efficient data handling Delivers 988.8 CoreMark (4.12 CoreMark/MHz) Memory and Storage Up to 2 MB dual-bank Flash with ECC and read-while-write support [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/19/nxp-mcx-a5-cortex-m33-mcu-family-supports-10base-t1s-single-pair-ethernet-and-post-quantum-cryptography/\">NXP MCX A5 Cortex-M33 MCU family supports 10BASE-T1S Single Pair Ethernet and Post-Quantum Cryptography</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Cerebras launches CS-4 rack",
-    "source": "Electronics Weekly",
-    "date": "2026-08-19",
-    "url": "https://www.electronicsweekly.com/news/business/cerebras-launches-cs-4-rack-2026-08/",
-    "summary": "<p>Yesterday Cerebras, the loss-making waferscale chip developer,  launched a new rack-based system called CS-4 which increases the  performance of its existing silicon by running more power through it. Cerebras has [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/cerebras-launches-cs-4-rack-2026-08/\">Cerebras launches CS-4 rack</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Xiaomi’s Q2 profit halved",
-    "source": "Electronics Weekly",
-    "date": "2026-08-19",
-    "url": "https://www.electronicsweekly.com/news/business/xiaomis-q2-profit-halved-2026-08/",
-    "summary": "<p>Xiaomi’s Q2 profit of $923 million was nearly half that of Q2 2025, as the smartphone vendor and  EV manufacturer was hit by the double whammy of rising component costs and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/xiaomis-q2-profit-halved-2026-08/\">Xiaomi’s Q2 profit halved</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Velaura AI hits $1bn valuation",
-    "source": "Electronics Weekly",
-    "date": "2026-08-19",
-    "url": "https://www.electronicsweekly.com/news/business/velaura-ai-raises-2026-08/",
-    "summary": "<p>Velaura AI, focussed on energy-efficient computing infrastructure and physical AI, has raised $110 million in Series A financing, bringing its total valuation to more than $1 billion. Investors were Seligman [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/velaura-ai-raises-2026-08/\">Velaura AI hits $1bn valuation</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Q2 revenues of Top 5 NAND producers rose 77% QoQ",
-    "source": "Electronics Weekly",
-    "date": "2026-08-19",
-    "url": "https://www.electronicsweekly.com/news/business/q2-revenues-of-top-5-nand-producers-rose-77-qoq-2026-08/",
-    "summary": "<p>The Q2 revenues of the top five NAND producers rose 76% QoQ to $68.7 billion, reported TrendForce. Suppliers are generally prioritising capex  on DRAM and HBM, limiting new NAND Flash [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/q2-revenues-of-top-5-nand-producers-rose-77-qoq-2026-08/\">Q2 revenues of Top 5 NAND producers rose 77% QoQ</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "ECTC call for papers",
-    "source": "Electronics Weekly",
-    "date": "2026-08-19",
-    "url": "https://www.electronicsweekly.com/news/business/ectc-call-for-papers-3-2026-08/",
-    "summary": "<p>The 2027 IEEE Electronic Components and Technology Conference (ECTC), the technical conference and product exhibition for the semiconductor packaging industry, has announced a Call for Papers. ECTC 2027 will take [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ectc-call-for-papers-3-2026-08/\">ECTC call for papers</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Who’s Sending Most Support To Ukraine",
-    "source": "Electronics Weekly",
-    "date": "2026-08-19",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/whos-sending-most-support-to-ukraine-2026-08/",
-    "summary": "<p>As of June 30, support for  Ukraine over the last four and a half years totalled $133 billion from the USA and  $110 billion from EU countries says the Ukraine [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/whos-sending-most-support-to-ukraine-2026-08/\">Who’s Sending Most Support To Ukraine</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Top Ten Smartphone Vendors In Q2",
-    "source": "Electronics Weekly",
-    "date": "2026-08-19",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-smartphone-vendors-in-q2-2026-08/",
-    "summary": "<p>Thanks to Smart Analytics Global for this one &#8211; the top ten smartphone vendors measured by unit volume In Q2: Samsung Apple:  Xiaomi:  OPPO (including OnePlus &#38; Realme) vivo:  Huawei:  [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-smartphone-vendors-in-q2-2026-08/\">Top Ten Smartphone Vendors In Q2</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "A Hot End And Material Database For 3D Printing",
@@ -138,27 +96,6 @@
     "date": "2026-08-18",
     "url": "https://www.embedded.com/brainchip-orama-aoi-target-ai-based-industrial-defect-detection/",
     "summary": "<p>BrainChip Inc. has partnered with Atlanta-based Orama.AOI to develop AI-based automated optical inspection solutions using BrainChip's Akida neuromorphic AI platform. Orama.AOI has retrained and optimized Akida models using its industrial inspection datasets, demonstrating the platform's application to production-oriented defect detection. Orama.AOI provides AI-powered automated optical inspection technology for industrial applications with current use cases including [...]</p>\n<p>The post <a href=\"https://www.embedded.com/brainchip-orama-aoi-target-ai-based-industrial-defect-detection/\">BrainChip, Orama.AOI Target AI-Based Industrial Defect Detection</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Littelfuse TPSMD-FL TVS diodes for 12 V vehicle electronics",
-    "source": "Electronics Weekly",
-    "date": "2026-08-18",
-    "url": "https://www.electronicsweekly.com/news/products/passives/littelfuse-tpsmd-fl-tvs-diodes-for-for-12-v-vehicle-electronics-2026-08/",
-    "summary": "<p>Littelfuse is announcing the TPSMD-FL series of FlatSuppressX TVS diodes. The automotive-grade series &#8211; AEC-Q101 qualified &#8211; is designed to simplify ISO 7637-2 Pulse 5b load-dump protection for 12 V [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/passives/littelfuse-tpsmd-fl-tvs-diodes-for-for-12-v-vehicle-electronics-2026-08/\">Littelfuse TPSMD-FL TVS diodes for 12 V vehicle electronics</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Danube Gets The Blues",
-    "source": "Electronics Weekly",
-    "date": "2026-08-18",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/danube-gets-the-blues-2026-08/",
-    "summary": "<p>At the end of last month, 200 cruise passengers had to be evacuated when a Viking line river cruise ship ran aground near Vidin, Bulgaria. As of early August, cruise [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/danube-gets-the-blues-2026-08/\">Danube Gets The Blues</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "NRO expands use of HawkEye 360’s satellite data",
-    "source": "Electronics Weekly",
-    "date": "2026-08-18",
-    "url": "https://www.electronicsweekly.com/news/nro-expands-use-of-hawkeye-360s-satellite-data-2026-08/",
-    "summary": "<p>The US National Reconnaissance Office (NRO) is expanding its use of HawkEye 360’s satellite data. A new contract has been awarded to the space-based RF data and analytics specialist. Specifically, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/nro-expands-use-of-hawkeye-360s-satellite-data-2026-08/\">NRO expands use of HawkEye 360’s satellite data</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "The Benchmark-pocalypse",
@@ -305,7 +242,7 @@
     "source": "CNX Software",
     "date": "2026-08-17",
     "url": "https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/",
-    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a85612fbc604134513023/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a85748749c1f589810826/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "SensiBel and Aizip Combine Optical MEMS and Edge AI Beamforming",
@@ -362,13 +299,6 @@
     "date": "2026-08-15",
     "url": "https://www.cnx-software.com/2026/08/15/geekom-it13-max-review-part-3-ubuntu-26-04-on-an-intel-core-ultra-9-185h-mini-computer/",
     "summary": "<div><img alt=\"GEEKOM IT13 Max Mini PC review Ubuntu 26.04 Linux\" class=\"attachment-medium size-medium wp-post-image\" height=\"483\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/GEEKOM-IT13-Max-Mini-PC-review-Ubuntu-26.04-Linux-720x483.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We&#8217;ve already checked out the hardware with an unboxing and a teardown of the GEEKOM IT13 Max in the first part of the review, before testing the Intel Core Ultra 9 185H mini PC with Windows 11, so it&#8217;s now time to test Linux on the mini computer using Ubuntu 26.04. In this review, we will report our experience running Ubuntu 26.04 on the GEEKOM IT13 Max, after going through feature testing, running system benchmarks and AI benchmarks on the CPU, GPU, and NPU, checking out storage and USB performance, testing 2.5GbE and WiFi 6/7, stress testing the mini PC, and measuring the Meteor Lake mini PC&#8217;s fan noise and power consumption. Installing Ubuntu 26.04 We installed Ubuntu 26.04 alongside Windows 11 in dual boot configuration. We first shrank the Windows partition (C:) size by approximately half, before inserting a USB flash drive with Ubuntu 26.04 to start the installation [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/15/geekom-it13-max-review-part-3-ubuntu-26-04-on-an-intel-core-ultra-9-185h-mini-computer/\">GEEKOM IT13 Max Review &#8211; Part 3: Ubuntu 26.04 on an Intel Core Ultra 9 185H mini computer</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition",
-    "source": "CNX Software",
-    "date": "2026-08-14",
-    "url": "https://www.cnx-software.com/2026/08/14/eitwatch-open-source-esp32-s3-smartwatch-implements-planar-eit-hand-gesture-recognition/",
-    "summary": "<div><img alt=\"EITWatch\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/EITWatch-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Researchers from Northwestern University have introduced EITWatch, an open-source ESP32-S3-based EIT (Electrical Impedance Tomography) gesture-sensing system that fits within a standard smartwatch footprint. It relies on a Seeed Studio XIAO ESP32-S3 board and eight electrodes arranged on the back of the case to detect hand gestures via impedance changes caused by muscle and tendon movement beneath the skin. Unlike other wrist-EIT systems that use circumferential electrode bands, EITWatch places all eight electrodes on the back of the smartwatch case. The sensing area consists of a 31 mm electrode ring that fits within a standard 40 mm watch case, while a 20 mm PCB extension carries the discrete analog front end (AFE). EITWatch hardware specifications: Wireless board – XIAO ESP32-S3 SoC – Espressif ESP32-S3R8 CPU – Dual-core Tensilica LX7 microcontroller up to 240 MHz with vector instructions for AI acceleration Memory – 512KB SRAM, 8MB PSRAM Wireless – Wi-Fi 4 and [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/14/eitwatch-open-source-esp32-s3-smartwatch-implements-planar-eit-hand-gesture-recognition/\">EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Humanoid Robots, Simplifying Embedded System Design, Photonic IC Development: Embedded Week Insights",
