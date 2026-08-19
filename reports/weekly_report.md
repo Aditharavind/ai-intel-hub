@@ -1,18 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-19 12:17 UTC
+Generated: 2026-08-19 13:34 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-08-18 | Hydra-0: Action Flow for Generalist World Modeling and Control | [link](https://arxiv.org/pdf/2608.18077v1) |
+| 2026-08-18 | Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving | [link](https://arxiv.org/pdf/2608.18035v1) |
+| 2026-08-18 | How Do AI Climate Models Respond to Warming Across Climate Zones? | [link](https://arxiv.org/pdf/2608.17986v1) |
+| 2026-08-18 | Recirculation | [link](https://arxiv.org/pdf/2608.17981v1) |
+| 2026-08-18 | PRISM: Precision and contact-rich Real-world Industrial Skill dataset with Multimodal sensing | [link](https://arxiv.org/pdf/2608.17962v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63449 | 25379.7 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30323 | 12129.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16141 | 6456.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15709 | 6283.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| TianxingChen/Embodied-AI-Guide | 15517 | 6206.9 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
+| commaai/openpilot | 63450 | 25380.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44373 | 17749.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30324 | 12129.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16143 | 6457.3 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15710 | 6284.1 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
