@@ -1,5 +1,14 @@
 [
   {
+    "model": "sun-robot/pi05_amazinghand_rps_meanstd",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sun-robot/pi05_amazinghand_rps_meanstd",
+    "date": "2026-08-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "OpenWAM/New_OpenWAM_Robotwin_Full_SFT_1024bs",
     "downloads": 0,
     "likes": 0,
@@ -36,6 +45,15 @@
     "score": 0.1
   },
   {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -49,15 +67,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-19",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-19",
     "keyword": "vla",
     "score": 0.1
@@ -87,6 +96,15 @@
     "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step75000",
     "date": "2026-08-19",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "dnhan123/x-bfm-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dnhan123/x-bfm-policy",
+    "date": "2026-08-19",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -175,15 +193,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sun-robot/smolvla_amazinghand_rps_imi",
-    "date": "2026-08-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "chennana1028/fastwam-robotwin-openarm-sbint-step30000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/chennana1028/fastwam-robotwin-openarm-sbint-step30000",
     "date": "2026-08-18",
     "keyword": "robot",
     "score": 0.1
@@ -430,15 +439,6 @@
     "date": "2026-08-17",
     "keyword": "world model",
     "score": 11.5
-  },
-  {
-    "model": "TerryPei/gap-graph-as-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/TerryPei/gap-graph-as-policy",
-    "date": "2026-08-17",
-    "keyword": "policy",
-    "score": 0.1
   },
   {
     "model": "puppet-robotics/golf-model-mcap-test",
