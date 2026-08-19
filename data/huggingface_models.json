@@ -1,5 +1,41 @@
 [
   {
+    "model": "junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlatFt200k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlatFt200k",
+    "date": "2026-08-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlatVicregSplitdec",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlatVicregSplitdec",
+    "date": "2026-08-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "milab-robot/alm1-0818-amore",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/milab-robot/alm1-0818-amore",
+    "date": "2026-08-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "DouaaKDR/ROBOT_LEARNING_CHECKPOINTS",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/DouaaKDR/ROBOT_LEARNING_CHECKPOINTS",
+    "date": "2026-08-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "chanubc/robot-kitchen-nadir-yolo11s",
     "downloads": 0,
     "likes": 0,
@@ -72,6 +108,24 @@
     "score": 18.4
   },
   {
+    "model": "B111ue/fcl-vla-functional-support-canary",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
+    "date": "2026-08-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -85,15 +139,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Grigorij/PaP_objects_sum_vla_jepa",
-    "date": "2026-08-19",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "B111ue/fcl-vla-functional-support-canary",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
     "date": "2026-08-19",
     "keyword": "vla",
     "score": 0.1
@@ -250,51 +295,6 @@
     "date": "2026-08-19",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp",
-    "downloads": 64,
-    "likes": 0,
-    "url": "https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp",
-    "date": "2026-08-18",
-    "keyword": "robot",
-    "score": 19.3
-  },
-  {
-    "model": "Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp",
-    "date": "2026-08-18",
-    "keyword": "robot",
-    "score": 2.8
-  },
-  {
-    "model": "ziyin123/robotwin2_ckpt",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ziyin123/robotwin2_ckpt",
-    "date": "2026-08-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RobotsMali/soloni-ic-slot-fintech-v0",
-    "downloads": 5,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotsMali/soloni-ic-slot-fintech-v0",
-    "date": "2026-08-18",
-    "keyword": "robot",
-    "score": 1.6
-  },
-  {
-    "model": "mattpidden/vla0-justin-epoch12",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/mattpidden/vla0-justin-epoch12",
-    "date": "2026-08-18",
-    "keyword": "vla",
-    "score": 2.8
   },
   {
     "model": "novastar111/pacman_braidthin_noncot_chunk_kinf_world_model",
