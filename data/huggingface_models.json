@@ -81,6 +81,15 @@
     "score": 0.1
   },
   {
+    "model": "Grigorij/PaP_duck_vla_jepa",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Grigorij/PaP_duck_vla_jepa",
+    "date": "2026-08-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "vlabki/rr-tw3-bc-ppo-speed-v3-peak-last",
     "downloads": 0,
     "likes": 0,
@@ -96,15 +105,6 @@
     "url": "https://huggingface.co/muniker/vla-jepa-so101-sort-210base-65ft-frozen-vision",
     "date": "2026-08-19",
     "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Ekko55/vla-block-sort-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Ekko55/vla-block-sort-policy",
-    "date": "2026-08-19",
-    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -153,19 +153,19 @@
     "score": 1.0
   },
   {
-    "model": "Chaenn/act_policy_so101_cube_multitask_real_sim_0819",
+    "model": "aDaikiKamata/patch_policy_libero_object",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Chaenn/act_policy_so101_cube_multitask_real_sim_0819",
+    "url": "https://huggingface.co/aDaikiKamata/patch_policy_libero_object",
     "date": "2026-08-19",
     "keyword": "policy",
     "score": 0.1
   },
   {
-    "model": "aDaikiKamata/patch_policy_libero_object",
+    "model": "Chaenn/act_policy_so101_cube_multitask_real_sim_0819",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/aDaikiKamata/patch_policy_libero_object",
+    "url": "https://huggingface.co/Chaenn/act_policy_so101_cube_multitask_real_sim_0819",
     "date": "2026-08-19",
     "keyword": "policy",
     "score": 0.1
@@ -412,6 +412,15 @@
     "date": "2026-08-18",
     "keyword": "policy",
     "score": 0.4
+  },
+  {
+    "model": "latentforce/act_policy5",
+    "downloads": 8,
+    "likes": 0,
+    "url": "https://huggingface.co/latentforce/act_policy5",
+    "date": "2026-08-18",
+    "keyword": "policy",
+    "score": 2.5
   },
   {
     "model": "Fleurrr/A2World-World-Model",

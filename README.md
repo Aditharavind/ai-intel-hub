@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-19 16:15 UTC
+Last Updated: 2026-08-19 17:14 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-19 | Historical Hack: Henri Griffard’s Steam Injectors | Hackaday | [link](https://hackaday.com/2026/08/19/historical-hack-henri-griffards-steam-injectors/) |
 | 2026-08-19 | Smarting Up a Doorbell with Zigbee | Hackaday | [link](https://hackaday.com/2026/08/19/smarting-up-a-doorbell-with-zigbee/) |
 | 2026-08-19 | Hackaday Europe 2026: The 1-Bit CPU That Ran Factories | Hackaday | [link](https://hackaday.com/2026/08/19/hackaday-europe-2026-the-1-bit-cpu-that-ran-factories/) |
 | 2026-08-19 | Simple DIY STM32 Oscilloscope Project | Hackaday | [link](https://hackaday.com/2026/08/19/simple-diy-stm32-oscilloscope-project/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Pine64 hits pause on Linux devices due to RAM and eMMC shortage/high prices | CNX Software | [link](https://www.cnx-software.com/2026/08/19/pine64-hits-pause-on-linux-devices-due-to-ram-and-emmc-shortage-high-prices/) |
 | 2026-08-19 | PwrBlock 323 – A USB-C PD programmable power supply for automated test fixtures (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/19/pwrblock-323-usb-c-pd-programmable-power-supply-for-automated-test-fixtures/) |
 | 2026-08-19 | Raspberry Pi Compute Module 5 gets an official programming jig | CNX Software | [link](https://www.cnx-software.com/2026/08/19/raspberry-pi-compute-module-5-gets-an-official-programming-jig/) |
-| 2026-08-19 | NXP MCX A5 Cortex-M33 MCU family supports 10BASE-T1S Single Pair Ethernet and Post-Quantum Cryptography | CNX Software | [link](https://www.cnx-software.com/2026/08/19/nxp-mcx-a5-cortex-m33-mcu-family-supports-10base-t1s-single-pair-ethernet-and-post-quantum-cryptography/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -86,18 +86,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Robot-Haus/Qwen3.8-27B-original-oQ3.5e-mtp | 22 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.8-27B-original-oQ3.5e-mtp) |
 | 2026-08-19 | Robot-Haus/Qwen3.8-27B-original-oQ3.5e-fp16-mtp | 61 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.8-27B-original-oQ3.5e-fp16-mtp) |
 | 2026-08-19 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
-| 2026-08-19 | vlabki/rr-tw3-bc-ppo-speed-v3-peak-last | 0 | 0 | [link](https://huggingface.co/vlabki/rr-tw3-bc-ppo-speed-v3-peak-last) |
+| 2026-08-19 | Grigorij/PaP_duck_vla_jepa | 0 | 0 | [link](https://huggingface.co/Grigorij/PaP_duck_vla_jepa) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | mosaico-labs/mosaico | 925 | Python | 370.1 | [link](https://github.com/mosaico-labs/mosaico) |
-| commaai/openpilot | 63451 | Python | 25380.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44372 | JavaScript | 17748.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| zauberzeug/nicegui | 16145 | Python | 6458.1 | [link](https://github.com/zauberzeug/nicegui) |
+| commaai/openpilot | 63450 | Python | 25380.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44373 | JavaScript | 17749.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| zauberzeug/nicegui | 16146 | Python | 6458.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15710 | C++ | 6284.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14598 | C++ | 5839.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13658 | Python | 5463.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13660 | Python | 5464.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11323 | Rust | 4529.3 | [link](https://github.com/rerun-io/rerun) |
 | RLinf/RLinf | 4579 | Python | 1831.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3885 | Rust | 1554.1 | [link](https://github.com/dora-rs/dora) |
@@ -111,10 +111,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWNGUDJYMjkyWll1LXFiS1dRVWZ5Z05ydFNMSE1iY29Bd215b01sYmlTQ3ZZX3FUTVp3ZnQzN2JjSmg1cTZGd1NaY3ppQ1F2d3BYWFNsdHI3SkZWZjdMb0VOd0ZNeHViNDBVYW1FNzZCQjFVbm5ITmtRSjhoR0FJSHFqdFphRzdjMFplNVpzbzRrcFJJdDdWSFQtT1V1UXV6MHJ6a1FlX3V5WjhVT1JqeVZjenBsTGlZVE5JZw?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVU90emVCM05SQ0c3bXFtYk9TVnF6X0o4a0QtMHFvNjROZXpUVlpqME9LeXdLREVWc3ZFQm8wd1Zub2RhQmx3dVluSjJkQXR3M1pqcGRWeUZvaVZZZTBpcm43U0ZfSDcxV3JwdTloRFpVdk9zenBWMWExRDAwQUhHS2NybXlUNFNBYXRnNkgtWDJ4ZVZkMTFVX3JTc1dubF9sdkp3ejkyUnplQ3ozOGNMQVFIQkVPOFVMSmVMVmlCNmJuWk1OcmM5RnA1cjR5SmlyUkRJbQ?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1YwZzNETk9CSENZVDNEUTktbXZ6akFKeVBPcm1SRVNDNXZtanRWc21TbEY0M21GTTRpRjFoREZtRjAwVWtSWXduRzJJU3RRbDIyVGVHY0JkMlh0QktXblNDSFc4WF9CbjRXMmEtZGZWNmxoSThtMEExQm9VeFJVYnlHYTRoeXFMVU5YTmo3S3J5X0ZPMjRDdU45dUdsclhDMDBWNU5zT05uNlJiQ2VFQzJBdkM?oc=5) |
-| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeXJoR0gyX2hTUUhEZFBqUktQSlEyUkliYlhUU0xWVUFQcGJmRnlGSEZJWmRELTRLZk9odnRrQWtZY1Z5Q0pqb0toYU1Jc2FEaUtBVWJJbXI1MDU4V1hLMDRYUk11MGlVU1NCNU1NYW8wUnNZN3d0S3AxQl83b0NtbnBOVWkxRm1VeEtmX3F2NzE0SmdOS2NSS05zVlBaa0JWTGxhalhPSldQNjd1WHdMbXMxOFlCZk5kbXRBazVBOW9BRFh4cEpiR2FIajVDT2t4NERrSzFEN3lrTXhudl9VbktQNXhvYWwyS3c?oc=5) |
-| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhVzJ4WGNhOTZHMHBBcGVGRVg4QmNrdmRKYzVjTnVhMWl3VUx3ZEUyaU13VTN3MHN3WmxQZm5DNnBIY1d6WktHbXV0ck50dmVUOFJz?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ1JsSlczNUwzaENvLVlEamtJM3hRVXFzSC1LY2RLaTY0NXhydmlIYUtKQnE5QU1NRkw5MWRyOU1ZWXdYMnRRUmpJcTV3emhuLTl6TUdXUTJNcVBFeFBWVjNUMXpSOWg2Z3k5RC0tU2w2dFhVLW1zWEI2MWxYX3RySm94Z3Z1V0JKN1IyUU1UNnRhaDRDbVhJUlNPelJlNTcyVzdEMWcyNWhtRlRwTzFaT0trSGg1a3I5VlRBalZ0VjhGSHRtQ2UxS3J2NXFFZXU4QWlQbzV0bF8?oc=5) |
-| 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0U2OVlyZEFWVkZ4WGFMTHhDZzV3bzA2WFRzaWtYZl9paUdPNFB5bDl5aFM4Slllc2lKTU0xdjVIUTA1V3Ewc2FRTS05NVlSRGtZWXBBcVI0SWhrTUs1VTloQnhwbC1aZ25PekVkVGQ5ejQ3R3lOb1Q0Si1VX1ZkaE0yUTlJTGpoN0dHcDZmSXBtWGxEZGRlOHhZWlo2OEpJWHpkcUdwbUZtQQ?oc=5) |
+| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeXJoR0gyX2hTUUhEZFBqUktQSlEyUkliYlhUU0xWVUFQcGJmRnlGSEZJWmRELTRLZk9odnRrQWtZY1Z5Q0pqb0toYU1Jc2FEaUtBVWJJbXI1MDU4V1hLMDRYUk11MGlVU1NCNU1NYW8wUnNZN3d0S3AxQl83b0NtbnBOVWkxRm1VeEtmX3F2NzE0SmdOS2NSS05zVlBaa0JWTGxhalhPSldQNjd1WHdMbXMxOFlCZk5kbXRBazVBOW9BRFh4cEpiR2FIajVDT2t4NERrSzFEN3lrTXhudl9VbktQNXhvYWwyS3c?oc=5) |
+| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxOdFBQcW4tbXhBREdlcHVPQnp3aEZ0U0Z6UHItQXNwUVVDdF9NVUthdW92Yy1zZC1tTnN1SnpIRFQtaS1Gak5oOEU3YURJZzY3X043a1VZWEVJQjlFeGU2Y3lZcjM3X0RidEFGZjN6OGxhZzVIVzdlOFBzbnFoOTRsNnVnZ0VPOHpfZ0FCanZOU2tpdEJyVU1hMVpiZmd6c0hrbTJlX3JUQTZQMkJNQkE?oc=5) |
+| 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTE5fWXV0Qnl0S3RrR2ozZzI1X3FzdGxJU2gweHNIYXo1dmx5TkVkQmxyNXQxT2lYQW9YZFBMSTNuZHhsbkQ1dXV0ZnpJWFpoWjZ2Ykt4X0p3TUZuY0sxbnJmbzBiT2hyUXF4U21HOC10R2hpRkF4cG1LdzdiVmY?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -128,11 +128,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmVpVnFGZTV6Z3RQS1E3N0NZa2dUTjN1ak5rRFdrbFhrLWJ6dk5peWVub0tiSkV4ckF0UURWVkNmVmQwVS1odTc4aXZhZzRNQU9STFRnRTFxYzBLU2xNUUd2RFBwSGJUNDQxT2lfcEQ2OVRJWXFaQnRWYU5QYU9xUVNGY1drS0lBUUswZnVnVlFaeU00eHctdQ?oc=5) |
 | 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOenVYeUF4SkxXWmhQNmxha2VsaWFDNVU4anNVX1lZNEZYQkh6VDFMSnJHNlRid2ZoUVRCWjJ1ZVc4Y29rd3RjMjEwUlBBZjZlRWlKMW1FSkUtSXBzMk5vcGdoSndQbEYtT1U0RkhmSmZ6NnNGUVNoOHBDazI5NzhQVndUZkFqTXZLeE1Iam4xZFU2LUNGWDU5NkxtM2RqdDIwT0N5bHhmNE81YXExcFd4aHN6elJrNjg?oc=5) |
 | 2026-08-18 | VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGdjZzRxUElYQXVyMVVmeE41NFpIeDlMMGZXSHdnNW5xVlpsa1dxLTdpSVlQeTdmeHBzN3hLODRhWUVjdFVRZ1g1Q2xsNGhlWWFYOUdjN2lsX1NOeDgyNzZKM3hwR2hiMGZXdWlYTW01T2VEd1dYOTJxUkhHY3FLdGtwX3NjYkhRb21pYXpDbVpuSlYtX1dF?oc=5) |
-| 2026-08-18 | Physical AI startup Enigma raises $71M seed to make robots easy to use - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXRaZzc5UlVLblMzeDExb1E2RzU0bmJwd2JVWG9PclZvenRzLWIzZVdUVXhBNVhaLV8yOVdQbkNTQmJIN3JmLVdRaWF4bFUwb1hpVHh5S25HeVNGb0lsdFFHa1dKdGZxUWRqUWQ5b0V6d0FsQU5RWW9nTDllZ2V6MUpZS2lUR1VDOXU1NGo3bjBvYVlHLTlTQWt3ZzF5eGZhNV9aNmJ3?oc=5) |
+| 2026-08-18 | Chinese startup Unitree unveils ‘Superman’ robot, faster than Usain Bolt - The American Bazaar | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnVRV002VWVZeU5nUUM0YlQxSk1Oc3E5RFZ2eF93SGpiaHR0aWw1R3c3UGd4Q3R1WHV4NVdzTGR2MzF2XzU3bzhqQnF3M1hOYmxUekVDN3drMmhHMGMzM01vNk9ZWlVzcTFEYUJtLWVQX2pxejl1U0MwNC16WV80ekExV2Vpd0M3YlNXRG5xaFZOSFNIcDhDWFdYMUVXVXA1enpBX0tDOThpTFNHWk1jM08xNA?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-19 | Senior Manufacturing Engineer | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6131189004) |
 | 2026-08-19 | Staff Software Engineer, Hardware Interface | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6146407004) |
 | 2026-08-18 | State Estimation Engineer - Data Collection Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4706280006) |
 | 2026-08-17 | Senior Gear Design Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4705588006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-17 | Vice President, Strategic Program Management Office (SPMO) | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6139722004) |
 | 2026-08-14 | Finance Manager (SP)  | Figure AI | São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4705464006) |
 | 2026-08-14 | Helix AI Engineer, Training Performance | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4705296006) |
-| 2026-08-14 | Staff Software Engineer, Data Platform | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6144405004) |
 
 ## Automation
 

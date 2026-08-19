@@ -1,5 +1,12 @@
 [
   {
+    "title": "Historical Hack: Henri Griffard’s Steam Injectors",
+    "source": "Hackaday",
+    "date": "2026-08-19",
+    "url": "https://hackaday.com/2026/08/19/historical-hack-henri-griffards-steam-injectors/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/steam-injector-feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Here&#8217;s a historical hack for you: you have a big, rolling pressurized kettle, also known as a steam locomotive. It needs water to make up for the steam constantly chuff-chuff-chuffing <a class=\"read-more\" href=\"https://hackaday.com/2026/08/19/historical-hack-henri-griffards-steam-injectors/\">&#8230;read more</a>"
+  },
+  {
     "title": "Smarting Up a Doorbell with Zigbee",
     "source": "Hackaday",
     "date": "2026-08-19",
@@ -68,6 +75,13 @@
     "date": "2026-08-19",
     "url": "https://www.cnx-software.com/2026/08/19/nxp-mcx-a5-cortex-m33-mcu-family-supports-10base-t1s-single-pair-ethernet-and-post-quantum-cryptography/",
     "summary": "<div><img alt=\"NXP MCX A5 Series Cortex M33 MCUs\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/NXP-MCX-A5-Series-Cortex-M33-MCUs-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>NXP has introduced the MCX A5 family of Cortex-M33 MCUs, which features a 10/100Mbps Ethernet MAC and an integrated 10BASE-T1S Single Pair Ethernet digital PHY. It targets industrial and networking applications such as controllers, PLCs, remote I/O, building and energy management systems, and other connected edge devices. The MCUs run at up to 240 MHz and feature up to 2 MB dual-bank Flash and 640 KB SRAM, along with multiple communication interfaces and analog peripherals. Security features include an EdgeLock accelerator, secure boot with PQC hybrid support, secure firmware updates, lifecycle management, secure debug, external Flash encryption, and anti-tamper monitoring. NXP MCX A5 Series (MCXA577) specifications: MCU Core Arm Cortex-M33 core clocked at up to 240 MHz Includes FPU, DSP, MPU, and TrustZone support Integrated SmartDMA co-processor for efficient data handling Delivers 988.8 CoreMark (4.12 CoreMark/MHz) Memory and Storage Up to 2 MB dual-bank Flash with ECC and read-while-write support [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/19/nxp-mcx-a5-cortex-m33-mcu-family-supports-10base-t1s-single-pair-ethernet-and-post-quantum-cryptography/\">NXP MCX A5 Cortex-M33 MCU family supports 10BASE-T1S Single Pair Ethernet and Post-Quantum Cryptography</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Advanced RF Systems Power Next-Gen Mil-Aero Comms",
+    "source": "Embedded.com",
+    "date": "2026-08-19",
+    "url": "https://www.embedded.com/advanced-rf-systems-power-next-gen-mil-aero-comms/",
+    "summary": "<p>The radio-frequency (RF) industry, relying on established technologies for many years, is entering a significant phase of growth, driving the need for advanced solutions. Rising investment in defense and security systems and the expansion of the space economy are the two key drivers behind this growth. On the defense side, there is the demand for [...]</p>\n<p>The post <a href=\"https://www.embedded.com/advanced-rf-systems-power-next-gen-mil-aero-comms/\">Advanced RF Systems Power Next-Gen Mil-Aero Comms</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "Aetina Introduces Palm-Sized In-Vehicle Edge AI Platforms",
@@ -147,6 +161,20 @@
     "summary": "<p>The Q2 revenues of the top five NAND producers rose 76% QoQ to $68.7 billion, reported TrendForce. Suppliers are generally prioritising capex  on DRAM and HBM, limiting new NAND Flash [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/q2-revenues-of-top-5-nand-producers-rose-77-qoq-2026-08/\">Q2 revenues of Top 5 NAND producers rose 77% QoQ</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Resources for designing user interfaces",
+    "source": "Adafruit",
+    "date": "2026-08-19",
+    "url": "https://blog.adafruit.com/2026/08/19/resources-for-designing-user-interfaces/",
+    "summary": "Unsung writes that developer Matt Sephton and others compiled many of Apple’s human interface guidelines, starting from 1980 through 2014, including some goodies like early drafts, NeXT, Newton, and so on. Additional design lists are presented &#8211; if you&#8217;d like some good links to compiled resources, see the post here."
+  },
+  {
+    "title": "An open-source emulator + analysis toolkit for Nokia DCT3 phones",
+    "source": "Adafruit",
+    "date": "2026-08-19",
+    "url": "https://blog.adafruit.com/2026/08/19/an-open-source-emulator-analysis-toolkit-for-nokia-dct3-phones/",
+    "summary": "&#160; Nokia DCT3 Emulator is an open-source emulator and architectural-analysis toolkit for Nokia DCT3-era phones — the 3310, 3210, 3410, 5210, 6210, 6250, 7110, 8210, 8250, 8810, 8850 and their siblings. It boots real firmware in the browser and in a native SDL GUI, faithfully modelling the MAD2 platform ASIC, the CCONT power controller, the [&#8230;]"
+  },
+  {
     "title": "Unexpected Maker FeatherS31",
     "source": "Adafruit",
     "date": "2026-08-19",
@@ -187,13 +215,6 @@
     "date": "2026-08-19",
     "url": "https://blog.adafruit.com/2026/08/19/jps-product-pick-of-the-week-8-18-26/",
     "summary": "If you missed this week’s livestream of John Park’s Product Pick(s) of the Week, not to worry, here’s the video. This week’s pick is the NeoPixel Stick &#8211; 8 x 5050 WWA White LEDs with Integrated Drivers! Watch the video to find out about the NeoPixel Stick &#8211; 8 x 5050 WWA White LEDs with [&#8230;]"
-  },
-  {
-    "title": "A Hot End And Material Database For 3D Printing",
-    "source": "Hackaday",
-    "date": "2026-08-18",
-    "url": "https://hackaday.com/2026/08/18/a-hot-end-and-material-database-for-3d-printing/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"452\" src=\"https://hackaday.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-161611-e1787033799276.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When it comes to 3D printing in the FDM world, you can go a long way just relying on standard settings that ship with your 3D printer and/or slicer. If <a class=\"read-more\" href=\"https://hackaday.com/2026/08/18/a-hot-end-and-material-database-for-3d-printing/\">&#8230;read more</a>"
   },
   {
     "title": "Waveshare PiRack-M6F 6-node rack unit for Raspberry Pi 4/5 brings all ports to the front",
@@ -250,20 +271,6 @@
     "date": "2026-08-18",
     "url": "https://blog.adafruit.com/2026/08/18/data-centers-raise-nearby-temperatures-by-up-to-4-degrees-in-phoenix/",
     "summary": "A new paper in the Journal of Engineering for Sustainable Buildings and Cities entitled Data Center Waste Heat as an Emerging Urban Thermal Hazard: First Field Measurements of Neighborhood-Scale Air Temperature Impacts by David J. Sailor, Soroush Samareh Abolhassani, Eli P. Martin: Data centers are among the fastest-growing sources of concentrated anthropogenic heat in urban [&#8230;]"
-  },
-  {
-    "title": "Dean Millien’s Aluminum-Foil Animals #ArtTuesday",
-    "source": "Adafruit",
-    "date": "2026-08-18",
-    "url": "https://blog.adafruit.com/2026/08/18/dean-milliens-aluminum-foil-animals-arttuesday/",
-    "summary": "Dean Millien working at his studio in Bushwick, Brooklyn (image courtesy James Fisher-Smith) via Hyperallergic Hyperallergic highlights Brooklyn artist and self-taught sculptor Dean Millien. Millien recently made his debut in MoMA&#8217;s Greater New York. While Millien’s background as a self-taught artist might differ from that of figures like Duchamp, his recent inclusion in MoMA PS1’s [&#8230;]"
-  },
-  {
-    "title": "Works-like vs. looks-like prototypes",
-    "source": "Adafruit",
-    "date": "2026-08-18",
-    "url": "https://blog.adafruit.com/2026/08/18/works-like-vs-looks-like-prototypes/",
-    "summary": "James Bowman on the Excamera Labs Substack discusses that, unlike in the media, real inventors make prototypes. Some rules: At least one prototype before production Not too may prototypes You don’t ship the prototype I normally break prototyping into two parts. The “works-like” prototype is functionally the same as the final product, but doesn’t look [&#8230;]"
   },
   {
     "title": "Stackpole’s RNCQ Thin Film Resistors Target High-Frequency Communications Infrastructure",
@@ -326,7 +333,7 @@
     "source": "CNX Software",
     "date": "2026-08-17",
     "url": "https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/",
-    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a85d4f6abe23849286557/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a85e30fb5f55180698216/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "SensiBel and Aizip Combine Optical MEMS and Edge AI Beamforming",
@@ -418,12 +425,5 @@
     "date": "2026-08-12",
     "url": "https://www.embedded.com/microchip-upgrades-polarfire-fpga-ethernet-sensor-bridge/",
     "summary": "<p>Microchip Technology Inc. has introduced Revision 2.0 PolarFire FPGA Ethernet Sensor Bridge for Ethernet-based AI inferencing at the edge. The smaller, production-ready board for standardized sensor integration, leveraging Nvidia Holoscan Sensor Bridge (HSB) technology, supports twice the number of cameras and offers a lower price point than the first generation. Thanks to the power efficiency, security, and reliability [...]</p>\n<p>The post <a href=\"https://www.embedded.com/microchip-upgrades-polarfire-fpga-ethernet-sensor-bridge/\">Microchip Upgrades PolarFire FPGA Ethernet Sensor Bridge</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Nordic nRF9151 Enables Cellular and Satellite IoT Devices",
-    "source": "Embedded.com",
-    "date": "2026-08-11",
-    "url": "https://www.embedded.com/nordic-nrf9151-enables-cellular-and-satellite-iot-devices/",
-    "summary": "<p>Nordic Semiconductor is simplifying the development of IoT devices that require connectivity across both terrestrial cellular and satellite networks. LooUQ's MTC2-N9151 embedded modem has received Skylo non-terrestrial network (NTN) certification, building on the certification of Nordic's nRF9151 cellular IoT module. This enables developers to use a pre-certified hardware foundation for products that can switch between [...]</p>\n<p>The post <a href=\"https://www.embedded.com/nordic-nrf9151-enables-cellular-and-satellite-iot-devices/\">Nordic nRF9151 Enables Cellular and Satellite IoT Devices</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
