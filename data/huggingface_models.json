@@ -1,5 +1,23 @@
 [
   {
+    "model": "puppet-robotics/golf-model-2-8fps",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/golf-model-2-8fps",
+    "date": "2026-08-19",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "puppet-robotics/golf-model-mcap-test",
+    "downloads": 6,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/golf-model-mcap-test",
+    "date": "2026-08-19",
+    "keyword": "robotics",
+    "score": 1.9
+  },
+  {
     "model": "junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlatFt200k",
     "downloads": 0,
     "likes": 0,
@@ -88,24 +106,6 @@
     "date": "2026-08-19",
     "keyword": "robot",
     "score": 1.3
-  },
-  {
-    "model": "Robot-Haus/Qwen3.8-27B-original-oQ3.5e-mtp",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/Robot-Haus/Qwen3.8-27B-original-oQ3.5e-mtp",
-    "date": "2026-08-19",
-    "keyword": "robot",
-    "score": 6.7
-  },
-  {
-    "model": "Robot-Haus/Qwen3.8-27B-original-oQ3.5e-fp16-mtp",
-    "downloads": 61,
-    "likes": 0,
-    "url": "https://huggingface.co/Robot-Haus/Qwen3.8-27B-original-oQ3.5e-fp16-mtp",
-    "date": "2026-08-19",
-    "keyword": "robot",
-    "score": 18.4
   },
   {
     "model": "B111ue/fcl-vla-functional-support-canary",
@@ -207,19 +207,19 @@
     "score": 1.0
   },
   {
-    "model": "MoAIBo/pick_place_depth_vel_policy",
+    "model": "aDaikiKamata/patch_policy_libero_object",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/MoAIBo/pick_place_depth_vel_policy",
+    "url": "https://huggingface.co/aDaikiKamata/patch_policy_libero_object",
     "date": "2026-08-19",
     "keyword": "policy",
     "score": 0.1
   },
   {
-    "model": "aDaikiKamata/patch_policy_libero_object",
+    "model": "MoAIBo/pick_place_depth_vel_policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/aDaikiKamata/patch_policy_libero_object",
+    "url": "https://huggingface.co/MoAIBo/pick_place_depth_vel_policy",
     "date": "2026-08-19",
     "keyword": "policy",
     "score": 0.1
@@ -432,15 +432,6 @@
     "score": 14.8
   },
   {
-    "model": "puppet-robotics/golf-model-mcap-test",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-mcap-test",
-    "date": "2026-08-17",
-    "keyword": "robotics",
-    "score": 1.9
-  },
-  {
     "model": "Mayank022/Transformer-Vision-From-Image-Video-to-World-Models-and-Robotics-Book",
     "downloads": 0,
     "likes": 0,
@@ -517,15 +508,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/yanshi-robotics/yanshi-isaaclab-ant-default",
-    "date": "2026-08-13",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "yanshi-robotics/yanshi-isaaclab-cartpole-default",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/yanshi-robotics/yanshi-isaaclab-cartpole-default",
     "date": "2026-08-13",
     "keyword": "robotics",
     "score": 0.1

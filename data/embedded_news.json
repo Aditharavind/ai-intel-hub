@@ -1,5 +1,12 @@
 [
   {
+    "title": "Mini Blinking Barrels Keep Desktop Traffic in Check",
+    "source": "Hackaday",
+    "date": "2026-08-19",
+    "url": "https://hackaday.com/2026/08/19/mini-blinking-barrels-keep-desktop-traffic-in-check/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/08/blinkbarrel_feat.gif?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Your desk or bench is a work area, so why not make it look the part? That&#8217;s the idea behind the miniature blinking traffic barrels that [Glen Akins] recently put <a class=\"read-more\" href=\"https://hackaday.com/2026/08/19/mini-blinking-barrels-keep-desktop-traffic-in-check/\">&#8230;read more</a>"
+  },
+  {
     "title": "Historical Hack: Henri Griffard’s Steam Injectors",
     "source": "Hackaday",
     "date": "2026-08-19",
@@ -40,13 +47,6 @@
     "date": "2026-08-19",
     "url": "https://hackaday.com/2026/08/18/joy-cons-plus-wiimotes-make-for-switch-2-wii-cons/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"460\" src=\"https://hackaday.com/wp-content/uploads/2026/08/wiimote_joycon_combo_kouzex_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As popular as the Nintendo Switch and its sequel are, it&#8217;s hard to argue that its click-on Joy-Con controllers are ergonomic, barring you having very uniquely shaped hands. This thought <a class=\"read-more\" href=\"https://hackaday.com/2026/08/18/joy-cons-plus-wiimotes-make-for-switch-2-wii-cons/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Compress Links For Optimal QR Codes",
-    "source": "Hackaday",
-    "date": "2026-08-19",
-    "url": "https://hackaday.com/2026/08/18/compress-links-for-optimal-qr-codes/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/hammr-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Link shorteners have been a staple of the online world for over two decades now, but they&#8217;ve got some issues&#8211; for one thing, it&#8217;s totally non-transparent where the link actually <a class=\"read-more\" href=\"https://hackaday.com/2026/08/18/compress-links-for-optimal-qr-codes/\">&#8230;read more</a>"
   },
   {
     "title": "Pine64 hits pause on Linux devices due to RAM and eMMC shortage/high prices",
@@ -161,6 +161,20 @@
     "summary": "<p>The Q2 revenues of the top five NAND producers rose 76% QoQ to $68.7 billion, reported TrendForce. Suppliers are generally prioritising capex  on DRAM and HBM, limiting new NAND Flash [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/q2-revenues-of-top-5-nand-producers-rose-77-qoq-2026-08/\">Q2 revenues of Top 5 NAND producers rose 77% QoQ</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Arduino Spider-Man Web Shooter #WearableWednesday",
+    "source": "Adafruit",
+    "date": "2026-08-19",
+    "url": "https://blog.adafruit.com/2026/08/19/arduino-spider-man-web-shooter-wearablewednesday/",
+    "summary": "Built from cardboard, an Arduino, a motion sensor and some clever crafting, Barquinics created this web-shooter. Not quite ready to swing from the rooftops, but they it does look super fun! see the guide on Instructables: In this project, we&#8217;ll build a wearable, motion-triggered web-shooter using an Arduino Nano and an accelerometer. Just make a [&#8230;]"
+  },
+  {
+    "title": "Live TfL bus arrivals + weather departure board on a Pimoroni Badger 2350 e-ink badge",
+    "source": "Adafruit",
+    "date": "2026-08-19",
+    "url": "https://blog.adafruit.com/2026/08/19/live-tfl-bus-arrivals-weather-departure-board-on-a-pimoroni-badger-2350-e-ink-badge/",
+    "summary": "A £30 badge on the wall by the door that tells you whether to run for the bus. Marcio Lopes has created a MicroPython app for the Pimoroni Badger 2350 e-ink badge that turns it into a tiny live departures board for a London bus stop, using Transport for London&#8217;s (TfL) open arrivals API, with [&#8230;]"
+  },
+  {
     "title": "Google Chrome web browser for 64-bit Arm Linux and tested on Pi 5",
     "source": "Adafruit",
     "date": "2026-08-19",
@@ -229,20 +243,6 @@
     "date": "2026-08-19",
     "url": "https://blog.adafruit.com/2026/08/19/an-open-source-emulator-analysis-toolkit-for-nokia-dct3-phones/",
     "summary": "&#160; Nokia DCT3 Emulator is an open-source emulator and architectural-analysis toolkit for Nokia DCT3-era phones — the 3310, 3210, 3410, 5210, 6210, 6250, 7110, 8210, 8250, 8810, 8850 and their siblings. It boots real firmware in the browser and in a native SDL GUI, faithfully modelling the MAD2 platform ASIC, the CCONT power controller, the [&#8230;]"
-  },
-  {
-    "title": "Unexpected Maker FeatherS31",
-    "source": "Adafruit",
-    "date": "2026-08-19",
-    "url": "https://blog.adafruit.com/2026/08/19/unexpected-maker-feathers31/",
-    "summary": "Unexpected Maker has previewed a working FeatherS31 board based on the new Espressif ESP32-S31. Unfortunately, there are a few holes in ESP-IDF S31 support right now &#8211; some will get filled, and some likely won&#8217;t 🙁 Biggest show stopper right now is this (ESP32-S31 missing USB (OTG) CDC Console support). See the post on X/Twitter."
-  },
-  {
-    "title": "Graft gives your coding agent a map of your codebase",
-    "source": "Adafruit",
-    "date": "2026-08-19",
-    "url": "https://blog.adafruit.com/2026/08/19/graft-gives-your-coding-agent-a-map-of-your-codebase/",
-    "summary": "Here&#8217;s something that may sound familiar if you&#8217;ve been coding with an AI assistant. Every time you start a new session, the agent begins blind. It greps for a term, opens a file, follows an import, backs out, and tries again, rebuilding a picture of a codebase it already mapped an hour ago and then [&#8230;]"
   },
   {
     "title": "Waveshare PiRack-M6F 6-node rack unit for Raspberry Pi 4/5 brings all ports to the front",
