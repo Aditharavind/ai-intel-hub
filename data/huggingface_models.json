@@ -1,5 +1,50 @@
 [
   {
+    "model": "B111ue/fcl-vla-functional-support-canary",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
+    "date": "2026-08-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp",
+    "downloads": 18,
+    "likes": 0,
+    "url": "https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp",
+    "date": "2026-08-18",
+    "keyword": "robot",
+    "score": 5.5
+  },
+  {
+    "model": "Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp",
+    "date": "2026-08-18",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Robot-Haus/Qwen3.8-27B-original-oQ3.5e-fp16-mtp",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Robot-Haus/Qwen3.8-27B-original-oQ3.5e-fp16-mtp",
+    "date": "2026-08-18",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "ziyin123/robotwin2_ckpt",
     "downloads": 0,
     "likes": 0,
@@ -81,51 +126,6 @@
     "score": 0.1
   },
   {
-    "model": "tsinghua-sigs-robot-lab/veriloop-coder-e1",
-    "downloads": 1103,
-    "likes": 24,
-    "url": "https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1",
-    "date": "2026-08-18",
-    "keyword": "robot",
-    "score": 335.8
-  },
-  {
-    "model": "zolkin/robot_rl",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/zolkin/robot_rl",
-    "date": "2026-08-18",
-    "keyword": "robot",
-    "score": 0.3
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-18",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "B111ue/fcl-vla-functional-support-canary",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
-    "date": "2026-08-18",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Grigorij/PaP_objects_sum_vla_jepa",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Grigorij/PaP_objects_sum_vla_jepa",
-    "date": "2026-08-18",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "mattpidden/vla0-justin-epoch12",
     "downloads": 0,
     "likes": 0,
@@ -144,19 +144,37 @@
     "score": 0.1
   },
   {
-    "model": "geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step70000",
+    "model": "muniker/vla-jepa-so101-sort-210base-65ft",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step70000",
+    "url": "https://huggingface.co/muniker/vla-jepa-so101-sort-210base-65ft",
     "date": "2026-08-18",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "model": "sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-18",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Grigorij/PaP_objects_sum_vla_jepa",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Grigorij/PaP_objects_sum_vla_jepa",
+    "date": "2026-08-18",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step70000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step70000",
     "date": "2026-08-18",
     "keyword": "vla",
     "score": 0.1
@@ -196,15 +214,6 @@
     "date": "2026-08-18",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "sii-research/tau-0-vla",
-    "downloads": 182,
-    "likes": 3,
-    "url": "https://huggingface.co/sii-research/tau-0-vla",
-    "date": "2026-08-18",
-    "keyword": "vla",
-    "score": 55.3
   },
   {
     "model": "novastar111/pacman_braidthin_noncot_chunk_kinf_world_model",
@@ -315,6 +324,15 @@
     "score": 1.2
   },
   {
+    "model": "eineComadreja/Reinforce-cartpole-policy-from-scratch",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/eineComadreja/Reinforce-cartpole-policy-from-scratch",
+    "date": "2026-08-18",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "newuser8855/aham-cc-policy-qwen2.5-1.5b",
     "downloads": 0,
     "likes": 0,
@@ -387,15 +405,6 @@
     "score": 0.1
   },
   {
-    "model": "Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp",
-    "downloads": 18,
-    "likes": 0,
-    "url": "https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp",
-    "date": "2026-08-17",
-    "keyword": "robot",
-    "score": 5.5
-  },
-  {
     "model": "Fleurrr/A2World-World-Model",
     "downloads": 38,
     "likes": 0,
@@ -430,15 +439,6 @@
     "date": "2026-08-17",
     "keyword": "policy",
     "score": 4.9
-  },
-  {
-    "model": "zonglin11/humanalite_smolvla_policy",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/zonglin11/humanalite_smolvla_policy",
-    "date": "2026-08-17",
-    "keyword": "policy",
-    "score": 6.7
   },
   {
     "model": "puppet-robotics/golf-model-mcap-test",

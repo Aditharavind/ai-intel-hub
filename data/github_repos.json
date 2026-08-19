@@ -1,5 +1,35 @@
 [
   {
+    "repo": "commaai/openpilot",
+    "stars": 63447,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-08-19",
+    "topic": "robotics",
+    "score": 25378.9
+  },
+  {
+    "repo": "google-deepmind/mujoco",
+    "stars": 14589,
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "date": "2026-08-19",
+    "topic": "robotics",
+    "score": 5835.7
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3884,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-08-19",
+    "topic": "embodied-ai",
+    "score": 1553.7
+  },
+  {
     "repo": "Edgenesis/shifu",
     "stars": 1431,
     "language": "Go",
@@ -30,16 +60,6 @@
     "score": 368.9
   },
   {
-    "repo": "commaai/openpilot",
-    "stars": 63447,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-08-18",
-    "topic": "robotics",
-    "score": 25378.9
-  },
-  {
     "repo": "zauberzeug/nicegui",
     "stars": 16137,
     "language": "Python",
@@ -60,24 +80,14 @@
     "score": 6282.9
   },
   {
-    "repo": "google-deepmind/mujoco",
-    "stars": 14589,
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "url": "https://github.com/google-deepmind/mujoco",
-    "date": "2026-08-18",
-    "topic": "robotics",
-    "score": 5835.7
-  },
-  {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13608,
+    "stars": 13611,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-18",
     "topic": "robotics",
-    "score": 5443.3
+    "score": 5444.5
   },
   {
     "repo": "rerun-io/rerun",
@@ -91,13 +101,13 @@
   },
   {
     "repo": "kornia/kornia",
-    "stars": 11314,
+    "stars": 11315,
     "language": "Python",
     "description": "🐍 Geometric Computer Vision Library for Spatial AI",
     "url": "https://github.com/kornia/kornia",
     "date": "2026-08-18",
     "topic": "robotics",
-    "score": 4525.7
+    "score": 4526.1
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -108,16 +118,6 @@
     "date": "2026-08-18",
     "topic": "robot-learning",
     "score": 3165.7
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3884,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-08-18",
-    "topic": "embodied-ai",
-    "score": 1553.7
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -191,13 +191,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6156,
+    "stars": 6157,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-18",
     "topic": "world-model",
-    "score": 2462.5
+    "score": 2462.9
   },
   {
     "repo": "galilai-group/stable-worldmodel",
@@ -601,13 +601,13 @@
   },
   {
     "repo": "robocasa/robocasa",
-    "stars": 1655,
+    "stars": 1656,
     "language": "Python",
     "description": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
     "url": "https://github.com/robocasa/robocasa",
     "date": "2026-08-07",
     "topic": "robot-learning",
-    "score": 662.1
+    "score": 662.5
   },
   {
     "repo": "dexmal/dexbotic",
@@ -761,13 +761,13 @@
   },
   {
     "repo": "PKU-YuanGroup/Helios",
-    "stars": 2060,
+    "stars": 2061,
     "language": "Python",
     "description": "Helios: Real Real-Time Long Video Generation Model",
     "url": "https://github.com/PKU-YuanGroup/Helios",
     "date": "2026-07-28",
     "topic": "world-model",
-    "score": 824.1
+    "score": 824.5
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",

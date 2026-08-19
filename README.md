@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-18 23:10 UTC
+Last Updated: 2026-08-19 00:25 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-19 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
+| 2026-08-19 | sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-18 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp | 18 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp) |
+| 2026-08-18 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp | 0 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp) |
+| 2026-08-18 | Robot-Haus/Qwen3.8-27B-original-oQ3.5e-fp16-mtp | 0 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.8-27B-original-oQ3.5e-fp16-mtp) |
 | 2026-08-18 | ziyin123/robotwin2_ckpt | 0 | 0 | [link](https://huggingface.co/ziyin123/robotwin2_ckpt) |
 | 2026-08-18 | RobotsMali/soloni-ic-slot-fintech-v0 | 0 | 0 | [link](https://huggingface.co/RobotsMali/soloni-ic-slot-fintech-v0) |
 | 2026-08-18 | RobotsMali/quartznum-v0 | 0 | 0 | [link](https://huggingface.co/RobotsMali/quartznum-v0) |
 | 2026-08-18 | rahul-ai-01/real_robot_single_object_smoth_pick_and_place_octopus_and_brawon_basket | 0 | 0 | [link](https://huggingface.co/rahul-ai-01/real_robot_single_object_smoth_pick_and_place_octopus_and_brawon_basket) |
 | 2026-08-18 | rahul-ai-01/real_robot_sorting_object | 0 | 0 | [link](https://huggingface.co/rahul-ai-01/real_robot_sorting_object) |
-| 2026-08-18 | sun-robot/smolvla_amazinghand_rps_imi | 0 | 0 | [link](https://huggingface.co/sun-robot/smolvla_amazinghand_rps_imi) |
-| 2026-08-18 | chennana1028/fastwam-robotwin-openarm-sbint-step30000 | 0 | 0 | [link](https://huggingface.co/chennana1028/fastwam-robotwin-openarm-sbint-step30000) |
-| 2026-08-18 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
-| 2026-08-18 | sun-robot/pi05_amazinghand_rps | 0 | 0 | [link](https://huggingface.co/sun-robot/pi05_amazinghand_rps) |
-| 2026-08-18 | tsinghua-sigs-robot-lab/veriloop-coder-e1 | 1103 | 24 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| commaai/openpilot | 63447 | Python | 25378.9 | [link](https://github.com/commaai/openpilot) |
+| google-deepmind/mujoco | 14589 | C++ | 5835.7 | [link](https://github.com/google-deepmind/mujoco) |
+| dora-rs/dora | 3884 | Rust | 1553.7 | [link](https://github.com/dora-rs/dora) |
 | Edgenesis/shifu | 1431 | Go | 572.5 | [link](https://github.com/Edgenesis/shifu) |
 | NVlabs/alpasim | 1186 | Python | 474.5 | [link](https://github.com/NVlabs/alpasim) |
 | mosaico-labs/mosaico | 922 | Python | 368.9 | [link](https://github.com/mosaico-labs/mosaico) |
-| commaai/openpilot | 63447 | Python | 25378.9 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16137 | Python | 6454.9 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15707 | C++ | 6282.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14589 | C++ | 5835.7 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13608 | Python | 5443.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13611 | Python | 5444.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11319 | Rust | 4527.7 | [link](https://github.com/rerun-io/rerun) |
-| kornia/kornia | 11314 | Python | 4525.7 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -122,7 +122,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOenVYeUF4SkxXWmhQNmxha2VsaWFDNVU4anNVX1lZNEZYQkh6VDFMSnJHNlRid2ZoUVRCWjJ1ZVc4Y29rd3RjMjEwUlBBZjZlRWlKMW1FSkUtSXBzMk5vcGdoSndQbEYtT1U0RkhmSmZ6NnNGUVNoOHBDazI5NzhQVndUZkFqTXZLeE1Iam4xZFU2LUNGWDU5NkxtM2RqdDIwT0N5bHhmNE81YXExcFd4aHN6elJrNjg?oc=5) |
 | 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmVpVnFGZTV6Z3RQS1E3N0NZa2dUTjN1ak5rRFdrbFhrLWJ6dk5peWVub0tiSkV4ckF0UURWVkNmVmQwVS1odTc4aXZhZzRNQU9STFRnRTFxYzBLU2xNUUd2RFBwSGJUNDQxT2lfcEQ2OVRJWXFaQnRWYU5QYU9xUVNGY1drS0lBUUswZnVnVlFaeU00eHctdQ?oc=5) |
 | 2026-08-18 | VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGdjZzRxUElYQXVyMVVmeE41NFpIeDlMMGZXSHdnNW5xVlpsa1dxLTdpSVlQeTdmeHBzN3hLODRhWUVjdFVRZ1g1Q2xsNGhlWWFYOUdjN2lsX1NOeDgyNzZKM3hwR2hiMGZXdWlYTW01T2VEd1dYOTJxUkhHY3FLdGtwX3NjYkhRb21pYXpDbVpuSlYtX1dF?oc=5) |
-| 2026-08-18 | Indian Startups Target Emerging Global Market With Physical AI Robots - siliconindia.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN0hEMFRFMlFPclJGZU1GRmh4Z1lhX01RTV95OWZpUVFhYzdrdFBJbHpPNkpnOEVCVFRocEpYd2t5eHB4OVloVldFcWRxVGtsSUpoQjdUenpFU3FjeTM5clVDS3F6NXVCbTFUS2lndndrdEVRLW1ZdVo2VWIxclhWZ21PS0dGU3c5a2dDQmRyZW5HdGYxbGdHOFctLUhaUFk4SDQzZmY1UktXOFRtTUsyUFFrdGFQYnpONmZTTENrYWFKMUVoci1aV1hkZUdvU2ZG?oc=5) |
+| 2026-08-18 | Indian Startups Target Emerging Global Market With Physical AI Robots - Siliconindia | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN0hEMFRFMlFPclJGZU1GRmh4Z1lhX01RTV95OWZpUVFhYzdrdFBJbHpPNkpnOEVCVFRocEpYd2t5eHB4OVloVldFcWRxVGtsSUpoQjdUenpFU3FjeTM5clVDS3F6NXVCbTFUS2lndndrdEVRLW1ZdVo2VWIxclhWZ21PS0dGU3c5a2dDQmRyZW5HdGYxbGdHOFctLUhaUFk4SDQzZmY1UktXOFRtTUsyUFFrdGFQYnpONmZTTENrYWFKMUVoci1aV1hkZUdvU2ZG?oc=5) |
 | 2026-08-18 | Chinese startup Unitree unveils ‘Superman’ robot, faster than Usain Bolt - The American Bazaar | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnVRV002VWVZeU5nUUM0YlQxSk1Oc3E5RFZ2eF93SGpiaHR0aWw1R3c3UGd4Q3R1WHV4NVdzTGR2MzF2XzU3bzhqQnF3M1hOYmxUekVDN3drMmhHMGMzM01vNk9ZWlVzcTFEYUJtLWVQX2pxejl1U0MwNC16WV80ekExV2Vpd0M3YlNXRG5xaFZOSFNIcDhDWFdYMUVXVXA1enpBX0tDOThpTFNHWk1jM08xNA?oc=5) |
 | 2026-08-18 | Humanoid cleaning services chase data as Korea joins global robot race - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1F3aHA3a2FESEdyVkU1MkhhRmNFbE4zYnNXZzVIazhUZHVsSEZFQTFZQ05nSVFWLXcwSzI4VUJKT0V0M2ZZWmFUQkJRSTBscXpUODI2QmloeHM4Njh1eUZEZG9wLV8wQnRVbmx2UXpLc0lSeGZRcWlaVF9ETmJNN2FIWkJMWW5NcE1BaS1ta2JMbzJPb0HSAZYBQVVfeXFMT2NRd2hwN2thREhHclZFNTJIYUZjRWxOM2JzV2c1SGs4VGR1bEhGRUExWUNOZ0lRVi13MEsyOFVCSk9FdDNmWVphVEJCUUkwbHF6VDgyNkJpaHhzODY4dXlGRGRvcC1fMEJ0VW5sdlF6S3NJUnhmUXFpWlRfRE5iTTdhSFpCTFluTXBNQWktbWtiTG8yT29B?oc=5) |
 | 2026-08-17 | The 25 most promising robotics startups in 2026, according to investors - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZVNJSW5xMEFIa05WREJJd3ZUNVN1aUFXSkhIbUpwdmplUU9lN1lNcUdVLUZJeV9BS2VMeS1YZDBNU08zSnpsaWJaTTFjUE1ySkQ5VmVMSnMzWlh5YTlDemxCeGk5SU5DWXdic1pEVE5SMXA5YUJlc2VrY1BwMEkzREY5dGhPRmFia3c?oc=5) |

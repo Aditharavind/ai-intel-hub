@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-18 23:10 UTC
+Generated: 2026-08-19 00:25 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -23,11 +23,11 @@ Generated: 2026-08-18 23:10 UTC
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| tsinghua-sigs-robot-lab/veriloop-coder-e1 | 1103 | 335.8 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/veriloop-coder-e1) |
 | SEU-PAISys/Embodied.cpp | 613 | 184.8 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
 | physicalai-bmi/efa-1 | 228 | 68.5 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
-| sii-research/tau-0-vla | 182 | 55.3 | [link](https://huggingface.co/sii-research/tau-0-vla) |
 | XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa | 111 | 35.4 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa) |
+| physicalairi/so101_1200ep_smolvla | 87 | 26.2 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
+| XiaomiRobotics/Xiaomi-Robotics-1-VLABench | 82 | 25.7 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-VLABench) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -44,5 +44,5 @@ Generated: 2026-08-18 23:10 UTC
 | 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOenVYeUF4SkxXWmhQNmxha2VsaWFDNVU4anNVX1lZNEZYQkh6VDFMSnJHNlRid2ZoUVRCWjJ1ZVc4Y29rd3RjMjEwUlBBZjZlRWlKMW1FSkUtSXBzMk5vcGdoSndQbEYtT1U0RkhmSmZ6NnNGUVNoOHBDazI5NzhQVndUZkFqTXZLeE1Iam4xZFU2LUNGWDU5NkxtM2RqdDIwT0N5bHhmNE81YXExcFd4aHN6elJrNjg?oc=5) |
 | 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmVpVnFGZTV6Z3RQS1E3N0NZa2dUTjN1ak5rRFdrbFhrLWJ6dk5peWVub0tiSkV4ckF0UURWVkNmVmQwVS1odTc4aXZhZzRNQU9STFRnRTFxYzBLU2xNUUd2RFBwSGJUNDQxT2lfcEQ2OVRJWXFaQnRWYU5QYU9xUVNGY1drS0lBUUswZnVnVlFaeU00eHctdQ?oc=5) |
 | 2026-08-18 | VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGdjZzRxUElYQXVyMVVmeE41NFpIeDlMMGZXSHdnNW5xVlpsa1dxLTdpSVlQeTdmeHBzN3hLODRhWUVjdFVRZ1g1Q2xsNGhlWWFYOUdjN2lsX1NOeDgyNzZKM3hwR2hiMGZXdWlYTW01T2VEd1dYOTJxUkhHY3FLdGtwX3NjYkhRb21pYXpDbVpuSlYtX1dF?oc=5) |
-| 2026-08-18 | Indian Startups Target Emerging Global Market With Physical AI Robots - siliconindia.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN0hEMFRFMlFPclJGZU1GRmh4Z1lhX01RTV95OWZpUVFhYzdrdFBJbHpPNkpnOEVCVFRocEpYd2t5eHB4OVloVldFcWRxVGtsSUpoQjdUenpFU3FjeTM5clVDS3F6NXVCbTFUS2lndndrdEVRLW1ZdVo2VWIxclhWZ21PS0dGU3c5a2dDQmRyZW5HdGYxbGdHOFctLUhaUFk4SDQzZmY1UktXOFRtTUsyUFFrdGFQYnpONmZTTENrYWFKMUVoci1aV1hkZUdvU2ZG?oc=5) |
+| 2026-08-18 | Indian Startups Target Emerging Global Market With Physical AI Robots - Siliconindia | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN0hEMFRFMlFPclJGZU1GRmh4Z1lhX01RTV95OWZpUVFhYzdrdFBJbHpPNkpnOEVCVFRocEpYd2t5eHB4OVloVldFcWRxVGtsSUpoQjdUenpFU3FjeTM5clVDS3F6NXVCbTFUS2lndndrdEVRLW1ZdVo2VWIxclhWZ21PS0dGU3c5a2dDQmRyZW5HdGYxbGdHOFctLUhaUFk4SDQzZmY1UktXOFRtTUsyUFFrdGFQYnpONmZTTENrYWFKMUVoci1aV1hkZUdvU2ZG?oc=5) |
 | 2026-08-18 | Chinese startup Unitree unveils ‘Superman’ robot, faster than Usain Bolt - The American Bazaar | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnVRV002VWVZeU5nUUM0YlQxSk1Oc3E5RFZ2eF93SGpiaHR0aWw1R3c3UGd4Q3R1WHV4NVdzTGR2MzF2XzU3bzhqQnF3M1hOYmxUekVDN3drMmhHMGMzM01vNk9ZWlVzcTFEYUJtLWVQX2pxejl1U0MwNC16WV80ekExV2Vpd0M3YlNXRG5xaFZOSFNIcDhDWFdYMUVXVXA1enpBX0tDOThpTFNHWk1jM08xNA?oc=5) |
