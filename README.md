@@ -1,12 +1,14 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-19 13:34 UTC
+Last Updated: 2026-08-19 14:20 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-19 | Replit expands access to software creation with GPT-5.6 Luna | OpenAI | [link](https://openai.com/index/replit) |
+| 2026-08-19 | LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/qad) |
 | 2026-08-18 | ChatGPT Ads expands across Europe | OpenAI | [link](https://openai.com/index/chatgpt-ads-expands-across-europe) |
 | 2026-08-18 | Strengthening democratic oversight in national security | OpenAI | [link](https://openai.com/index/strengthening-democratic-oversight-in-national-security) |
 | 2026-08-18 | Partnering with CodeAI to prepare the first AI generation | OpenAI | [link](https://openai.com/index/partnering-with-codeai) |
@@ -15,8 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-18 | How NVIDIA scales expertise with ChatGPT Work | OpenAI | [link](https://openai.com/index/nvidia/chatgpt-work) |
 | 2026-08-18 | Asana cleared 5 years of engineering work in 2 weeks with Codex | OpenAI | [link](https://openai.com/index/asana) |
 | 2026-08-18 | How Much Memory Does Your Agent Actually Need? | Hugging Face | [link](https://huggingface.co/blog/ibm-research/altk-evolve-hmm) |
-| 2026-08-18 | Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers | Hugging Face | [link](https://huggingface.co/blog/multi-vector-encoder) |
-| 2026-08-17 | The Defender’s Window | OpenAI | [link](https://openai.com/index/the-defenders-window) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -36,6 +36,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-08-19 | Pudu Robotics launches new MP2000 autonomous forklift | Robotics Business Review | [link](https://www.therobotreport.com/pudu-robotics-launches-new-mp2000-autonomous-forklift/) |
+| 2026-08-19 | Serve Robotics to deploy its autonomous delivery robots with Grubhub | Robotics Business Review | [link](https://www.therobotreport.com/serve-robotics-deploys-autonomous-delivery-robots-grubhub/) |
 | 2026-08-18 | Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market | Robotics Business Review | [link](https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/) |
 | 2026-08-18 | Drones With Claws Perch on Arctic Icebergs | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/arctic-iceberg-drones) |
 | 2026-08-18 | FORT Robotics to take safety stack public via SPAC merger | Robotics Business Review | [link](https://www.therobotreport.com/fort-robotics-takes-safety-stack-public-via-spac-merger/) |
@@ -44,11 +45,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-17 | Is Shipyard Welding the Right First Job for Humanoid Robots? | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding) |
 | 2026-08-17 | How Generalist uses human demonstration data for robot learning | Robotics Business Review | [link](https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/) |
 | 2026-08-17 | Surgeons use da Vinci surgical robot to perform common cardiac surgery | Robotics Business Review | [link](https://www.therobotreport.com/surgeons-use-da-vinci-surgical-robot-perform-common-cardiac-surgery/) |
-| 2026-08-17 | Five years of operation shape Diligent Robotics rollout of Moxi 2.0 | Robotics Business Review | [link](https://www.therobotreport.com/five-years-operation-shape-diligent-robotics-rollout-moxi-2-0/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-19 | Hackaday Europe 2026: The 1-Bit CPU That Ran Factories | Hackaday | [link](https://hackaday.com/2026/08/19/hackaday-europe-2026-the-1-bit-cpu-that-ran-factories/) |
 | 2026-08-19 | Simple DIY STM32 Oscilloscope Project | Hackaday | [link](https://hackaday.com/2026/08/19/simple-diy-stm32-oscilloscope-project/) |
 | 2026-08-19 | Building Custom Backyard Solar Lights | Hackaday | [link](https://hackaday.com/2026/08/19/building-custom-backyard-solar-lights/) |
 | 2026-08-19 | Joy-Cons Plus WiiMotes Make for Switch 2 Wii-Cons | Hackaday | [link](https://hackaday.com/2026/08/18/joy-cons-plus-wiimotes-make-for-switch-2-wii-cons/) |
@@ -57,8 +58,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | PwrBlock 323 – A USB-C PD programmable power supply for automated test fixtures (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/19/pwrblock-323-usb-c-pd-programmable-power-supply-for-automated-test-fixtures/) |
 | 2026-08-19 | Raspberry Pi Compute Module 5 gets an official programming jig | CNX Software | [link](https://www.cnx-software.com/2026/08/19/raspberry-pi-compute-module-5-gets-an-official-programming-jig/) |
 | 2026-08-19 | NXP MCX A5 Cortex-M33 MCU family supports 10BASE-T1S Single Pair Ethernet and Post-Quantum Cryptography | CNX Software | [link](https://www.cnx-software.com/2026/08/19/nxp-mcx-a5-cortex-m33-mcu-family-supports-10base-t1s-single-pair-ethernet-and-post-quantum-cryptography/) |
-| 2026-08-19 | Starlink Keeps Expanding | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/telecoms/starlink-keeps-expanding-2026-08/) |
-| 2026-08-19 | How thermal constraints are changing the semiconductor design process | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/viewpoints/how-thermal-constraints-are-changing-the-semiconductor-design-process-2026-08/) |
+| 2026-08-19 | Aetina Introduces Palm-Sized In-Vehicle Edge AI Platforms | Embedded.com | [link](https://www.embedded.com/aetina-introduces-palm-sized-in-vehicle-edge-ai-platforms/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -86,18 +86,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Robot-Haus/Qwen3.8-27B-original-oQ3.5e-mtp | 22 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.8-27B-original-oQ3.5e-mtp) |
 | 2026-08-19 | Robot-Haus/Qwen3.8-27B-original-oQ3.5e-fp16-mtp | 61 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.8-27B-original-oQ3.5e-fp16-mtp) |
 | 2026-08-19 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
-| 2026-08-19 | sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0 | 9 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-19 | Ekko55/vla-block-sort-policy | 0 | 0 | [link](https://huggingface.co/Ekko55/vla-block-sort-policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | mosaico-labs/mosaico | 925 | Python | 370.1 | [link](https://github.com/mosaico-labs/mosaico) |
-| commaai/openpilot | 63450 | Python | 25380.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44373 | JavaScript | 17749.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| commaai/openpilot | 63451 | Python | 25380.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44372 | JavaScript | 17748.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | zauberzeug/nicegui | 16143 | Python | 6457.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15710 | C++ | 6284.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14596 | C++ | 5838.5 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13648 | Python | 5459.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14597 | C++ | 5838.9 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13650 | Python | 5460.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11322 | Rust | 4528.9 | [link](https://github.com/rerun-io/rerun) |
 | RLinf/RLinf | 4579 | Python | 1831.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3885 | Rust | 1554.1 | [link](https://github.com/dora-rs/dora) |
@@ -120,12 +120,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-19 | Opinion | India’s Physical AI Moment: Why Robots Could Define The Next Startup Revolution - News18 | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPclJGZHZINGRrMUJLeVlvTGVCVFlCYVl5MUdqVTZ1NXV3eVFUWGVjT3VwS3RHX2pHU2lLdDhPUmZUdnU4ejRmQU1LV3p4Wm1BZE1vLVZZby1EaC1NVm4ySldHdVlLb1duMWNZXzZVUVk4anhZX3pqaHRKdUpXVDItc1NMald6cm5aWEo1Q2VJNTJRNDh3dXlmdldpR0pKZndyMENFMVVoNEhiTW9HR3QwZkl6ZDdxbU10YzltN2dMNi1Qa08yNkNVMmN2YzJ1aFVM0gHWAUFVX3lxTE9FQlVHWmVPbC1aVlItUXF5anZCVDRFcFZ1S21UcF9Sa1FybVppRGZKUDRNaWwtaDY2dHNPM00wNHg1TThFWmNmOHI5d0syaEZvNW5iTjZEZVZOeFc0Tk9CZml6UDF4aFF6Y3FOY2tiNjBVaElCY09rbGZQMEdUS3RKeHNrVktoX0Y4UThDanRmVlNLQkFpWjVjOWZCUmRjY0l1RlhDV2NqTGhWX284YjlCZHZNR29VUjR3eXdNQXJCNHpkb0xWRXBpMlRQOTAzOVlmaHdtMUE?oc=5) |
-| 2026-08-19 | AI Startup Temporal in Talks for a Valuation of at Least $12 Billion - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcm5rQy1OTWVub2ZXeEdDaXJsdXkzbnBEUTA3TWJfWmswM1FtTGZkXzl3Q3NRWktMWU4xaFoxTTExcFV0R1RBd01wQTZSMU0tenFFNkV0aE1uaEJSVlNMNVBGV2tuZUxGUWxjUTgyY3JBUFFOWkFpYXpmYzBOZDRCX0dCTE8wTmRyZE9aUzhSd1dIdFVHR0Y2cWJiQzNBbEw2S2tkbnZDeUN0OHFHYTJyRzFUWHVMeC1CRUE?oc=5) |
 | 2026-08-19 | Humanoid robot drives a go-kart, Chinese embodied AI startup releases demo video of race - Chinese media - Record China | embodied ai startup | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaTRSNFJkWmVGbGtXZFVEeTUyR0dreko4N3ZKbGpzTGFZZG9OMjExd0dPNDZHbzlMYTg3WldORk1KZHl2OXJjVlJpVUdJN01GX2lpc2NVS1JyUkNwRHh6UlVhc2hxUDZ1YWg0?oc=5) |
 | 2026-08-19 | Unitree Robotics to debut after US$904 million Shanghai IPO, rides embodied AI wave - The Business Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkpxSGVfMDlFYmtFTmJ3N0R5NVU0dnJZTTZRM2V6a0pWSmlxMEU4TDh3WW5yRHhuMFhfN3VTYkVfWUpwVENGcEFhdFhLRjM0SjRFYnJ6a2JRZGlsOHFma011bzhYY09uWGJTdXRoaXoxRE1Bc0dJeTB1ZnRvRTF1T1hzeWRzYy03dzNrWTVrcU5aRzA0eVdNRzFGS2Q2Xzd6WktxNXB2Um5LNFdvcEFBdEVlVWFLSmJZNF9HQUZ6TzBRYUNmbnZZNQ?oc=5) |
 | 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmVpVnFGZTV6Z3RQS1E3N0NZa2dUTjN1ak5rRFdrbFhrLWJ6dk5peWVub0tiSkV4ckF0UURWVkNmVmQwVS1odTc4aXZhZzRNQU9STFRnRTFxYzBLU2xNUUd2RFBwSGJUNDQxT2lfcEQ2OVRJWXFaQnRWYU5QYU9xUVNGY1drS0lBUUswZnVnVlFaeU00eHctdQ?oc=5) |
 | 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOenVYeUF4SkxXWmhQNmxha2VsaWFDNVU4anNVX1lZNEZYQkh6VDFMSnJHNlRid2ZoUVRCWjJ1ZVc4Y29rd3RjMjEwUlBBZjZlRWlKMW1FSkUtSXBzMk5vcGdoSndQbEYtT1U0RkhmSmZ6NnNGUVNoOHBDazI5NzhQVndUZkFqTXZLeE1Iam4xZFU2LUNGWDU5NkxtM2RqdDIwT0N5bHhmNE81YXExcFd4aHN6elJrNjg?oc=5) |
-| 2026-08-18 | VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape - news.crunchbase.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGdjZzRxUElYQXVyMVVmeE41NFpIeDlMMGZXSHdnNW5xVlpsa1dxLTdpSVlQeTdmeHBzN3hLODRhWUVjdFVRZ1g1Q2xsNGhlWWFYOUdjN2lsX1NOeDgyNzZKM3hwR2hiMGZXdWlYTW01T2VEd1dYOTJxUkhHY3FLdGtwX3NjYkhRb21pYXpDbVpuSlYtX1dF?oc=5) |
+| 2026-08-18 | VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGdjZzRxUElYQXVyMVVmeE41NFpIeDlMMGZXSHdnNW5xVlpsa1dxLTdpSVlQeTdmeHBzN3hLODRhWUVjdFVRZ1g1Q2xsNGhlWWFYOUdjN2lsX1NOeDgyNzZKM3hwR2hiMGZXdWlYTW01T2VEd1dYOTJxUkhHY3FLdGtwX3NjYkhRb21pYXpDbVpuSlYtX1dF?oc=5) |
+| 2026-08-18 | Physical AI startup Enigma raises $71M seed to make robots easy to use - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXRaZzc5UlVLblMzeDExb1E2RzU0bmJwd2JVWG9PclZvenRzLWIzZVdUVXhBNVhaLV8yOVdQbkNTQmJIN3JmLVdRaWF4bFUwb1hpVHh5S25HeVNGb0lsdFFHa1dKdGZxUWRqUWQ5b0V6d0FsQU5RWW9nTDllZ2V6MUpZS2lUR1VDOXU1NGo3bjBvYVlHLTlTQWt3ZzF5eGZhNV9aNmJ3?oc=5) |
 | 2026-08-18 | Chinese startup Unitree unveils ‘Superman’ robot, faster than Usain Bolt - The American Bazaar | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnVRV002VWVZeU5nUUM0YlQxSk1Oc3E5RFZ2eF93SGpiaHR0aWw1R3c3UGd4Q3R1WHV4NVdzTGR2MzF2XzU3bzhqQnF3M1hOYmxUekVDN3drMmhHMGMzM01vNk9ZWlVzcTFEYUJtLWVQX2pxejl1U0MwNC16WV80ekExV2Vpd0M3YlNXRG5xaFZOSFNIcDhDWFdYMUVXVXA1enpBX0tDOThpTFNHWk1jM08xNA?oc=5) |
 | 2026-08-18 | Humanoid cleaning services chase data as Korea joins global robot race - CHOSUNBIZ - Chosunbiz | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1F3aHA3a2FESEdyVkU1MkhhRmNFbE4zYnNXZzVIazhUZHVsSEZFQTFZQ05nSVFWLXcwSzI4VUJKT0V0M2ZZWmFUQkJRSTBscXpUODI2QmloeHM4Njh1eUZEZG9wLV8wQnRVbmx2UXpLc0lSeGZRcWlaVF9ETmJNN2FIWkJMWW5NcE1BaS1ta2JMbzJPb0HSAZYBQVVfeXFMT2NRd2hwN2thREhHclZFNTJIYUZjRWxOM2JzV2c1SGs4VGR1bEhGRUExWUNOZ0lRVi13MEsyOFVCSk9FdDNmWVphVEJCUUkwbHF6VDgyNkJpaHhzODY4dXlGRGRvcC1fMEJ0VW5sdlF6S3NJUnhmUXFpWlRfRE5iTTdhSFpCTFluTXBNQWktbWtiTG8yT29B?oc=5) |
 | 2026-08-17 | The 25 most promising robotics startups in 2026, according to investors - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZVNJSW5xMEFIa05WREJJd3ZUNVN1aUFXSkhIbUpwdmplUU9lN1lNcUdVLUZJeV9BS2VMeS1YZDBNU08zSnpsaWJaTTFjUE1ySkQ5VmVMSnMzWlh5YTlDemxCeGk5SU5DWXdic1pEVE5SMXA5YUJlc2VrY1BwMEkzREY5dGhPRmFia3c?oc=5) |

@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hackaday Europe 2026: The 1-Bit CPU That Ran Factories",
+    "source": "Hackaday",
+    "date": "2026-08-19",
+    "url": "https://hackaday.com/2026/08/19/hackaday-europe-2026-the-1-bit-cpu-that-ran-factories/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/08/DSC09964_featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Powered machinery started the industrial revolution, and it was automation that kicked it up another notch in the 20th century. The ability for machines to make things by themselves spurred <a class=\"read-more\" href=\"https://hackaday.com/2026/08/19/hackaday-europe-2026-the-1-bit-cpu-that-ran-factories/\">&#8230;read more</a>"
+  },
+  {
     "title": "Simple DIY STM32 Oscilloscope Project",
     "source": "Hackaday",
     "date": "2026-08-19",
@@ -54,6 +61,13 @@
     "date": "2026-08-19",
     "url": "https://www.cnx-software.com/2026/08/19/nxp-mcx-a5-cortex-m33-mcu-family-supports-10base-t1s-single-pair-ethernet-and-post-quantum-cryptography/",
     "summary": "<div><img alt=\"NXP MCX A5 Series Cortex M33 MCUs\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/NXP-MCX-A5-Series-Cortex-M33-MCUs-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>NXP has introduced the MCX A5 family of Cortex-M33 MCUs, which features a 10/100Mbps Ethernet MAC and an integrated 10BASE-T1S Single Pair Ethernet digital PHY. It targets industrial and networking applications such as controllers, PLCs, remote I/O, building and energy management systems, and other connected edge devices. The MCUs run at up to 240 MHz and feature up to 2 MB dual-bank Flash and 640 KB SRAM, along with multiple communication interfaces and analog peripherals. Security features include an EdgeLock accelerator, secure boot with PQC hybrid support, secure firmware updates, lifecycle management, secure debug, external Flash encryption, and anti-tamper monitoring. NXP MCX A5 Series (MCXA577) specifications: MCU Core Arm Cortex-M33 core clocked at up to 240 MHz Includes FPU, DSP, MPU, and TrustZone support Integrated SmartDMA co-processor for efficient data handling Delivers 988.8 CoreMark (4.12 CoreMark/MHz) Memory and Storage Up to 2 MB dual-bank Flash with ECC and read-while-write support [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/19/nxp-mcx-a5-cortex-m33-mcu-family-supports-10base-t1s-single-pair-ethernet-and-post-quantum-cryptography/\">NXP MCX A5 Cortex-M33 MCU family supports 10BASE-T1S Single Pair Ethernet and Post-Quantum Cryptography</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Aetina Introduces Palm-Sized In-Vehicle Edge AI Platforms",
+    "source": "Embedded.com",
+    "date": "2026-08-19",
+    "url": "https://www.embedded.com/aetina-introduces-palm-sized-in-vehicle-edge-ai-platforms/",
+    "summary": "<p>Aetina Corporation introduced the DeviceEdge AIE-VN34/44 and AIE-VO24/34, its first palm-sized in-vehicle edge AI systems. Based on the Nvidia Jetson Orin NX and Jetson Orin Nano modules, the platforms provide up to 100 TOPS and 67 TOPS of AI performance, respectively, and support four GMSL2 camera connections. The systems target smart transportation, autonomous mobile robots [...]</p>\n<p>The post <a href=\"https://www.embedded.com/aetina-introduces-palm-sized-in-vehicle-edge-ai-platforms/\">Aetina Introduces Palm-Sized In-Vehicle Edge AI Platforms</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "Starlink Keeps Expanding",
@@ -138,13 +152,6 @@
     "date": "2026-08-18",
     "url": "https://hackaday.com/2026/08/18/reverse-engineered-grill-controller-gets-open-firmware/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"336\" src=\"https://hackaday.com/wp-content/uploads/2026/08/openSourceGrillFeat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you are a regular reader, then the odds are you have taken apart an electronic gadget, either for a fix, or simply because your curiosity got the better of <a class=\"read-more\" href=\"https://hackaday.com/2026/08/18/reverse-engineered-grill-controller-gets-open-firmware/\">&#8230;read more</a>"
-  },
-  {
-    "title": "PolyShot Camera Focuses On Nostalgia",
-    "source": "Hackaday",
-    "date": "2026-08-18",
-    "url": "https://hackaday.com/2026/08/18/polyshot-camera-focuses-on-nostalgia/",
-    "summary": "<div><img alt=\"An open-source, DIY, point-and-shoot digital camera.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/polyshot-800.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although we personally have yet to see anyone brandishing an old digital point-and-shoot camera, we hear they&#8217;re back in vogue. Why, though? People are nostalgic for that image quality. While <a class=\"read-more\" href=\"https://hackaday.com/2026/08/18/polyshot-camera-focuses-on-nostalgia/\">&#8230;read more</a>"
   },
   {
     "title": "Waveshare PiRack-M6F 6-node rack unit for Raspberry Pi 4/5 brings all ports to the front",
@@ -319,7 +326,7 @@
     "source": "CNX Software",
     "date": "2026-08-17",
     "url": "https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/",
-    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a85ae52d5868447273568/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a85ba0470255385854467/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "SensiBel and Aizip Combine Optical MEMS and Edge AI Beamforming",
@@ -418,12 +425,5 @@
     "date": "2026-08-11",
     "url": "https://www.embedded.com/nordic-nrf9151-enables-cellular-and-satellite-iot-devices/",
     "summary": "<p>Nordic Semiconductor is simplifying the development of IoT devices that require connectivity across both terrestrial cellular and satellite networks. LooUQ's MTC2-N9151 embedded modem has received Skylo non-terrestrial network (NTN) certification, building on the certification of Nordic's nRF9151 cellular IoT module. This enables developers to use a pre-certified hardware foundation for products that can switch between [...]</p>\n<p>The post <a href=\"https://www.embedded.com/nordic-nrf9151-enables-cellular-and-satellite-iot-devices/\">Nordic nRF9151 Enables Cellular and Satellite IoT Devices</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Simplifying Embedded System Design with a Modern Software Ecosystem",
-    "source": "Embedded.com",
-    "date": "2026-08-11",
-    "url": "https://www.embedded.com/simplifying-embedded-system-design-with-a-modern-software-ecosystem/",
-    "summary": "<p>ADI details how an open, modular software ecosystem, using its CodeFusion Studio, can reduce development effort in embedded system design.</p>\n<p>The post <a href=\"https://www.embedded.com/simplifying-embedded-system-design-with-a-modern-software-ecosystem/\">Simplifying Embedded System Design with a Modern Software Ecosystem</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
