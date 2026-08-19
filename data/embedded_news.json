@@ -161,6 +161,20 @@
     "summary": "<p>The Q2 revenues of the top five NAND producers rose 76% QoQ to $68.7 billion, reported TrendForce. Suppliers are generally prioritising capex  on DRAM and HBM, limiting new NAND Flash [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/q2-revenues-of-top-5-nand-producers-rose-77-qoq-2026-08/\">Q2 revenues of Top 5 NAND producers rose 77% QoQ</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
+    "date": "2026-08-19",
+    "url": "https://blog.adafruit.com/2026/08/19/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-19/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+  },
+  {
+    "title": "Monitoring Blood Pressure in ICU with Wearable Sensors and AI",
+    "source": "Adafruit",
+    "date": "2026-08-19",
+    "url": "https://blog.adafruit.com/2026/08/19/monitoring-blood-pressure-in-icu-with-wearable-sensors-and-ai/",
+    "summary": "Johns Hopkins University researchers have developed a system to continuously monitor blood pressure without the need for arterial lines. Familiar blood pressure cuffs that wrap around the arm aren&#8217;t invasive, but they only provide intermittent readings. The team created a system called MOSAIC based on two sensors—one placed on a patient&#8217;s chest, and the other [&#8230;]"
+  },
+  {
     "title": "Arduino Spider-Man Web Shooter #WearableWednesday",
     "source": "Adafruit",
     "date": "2026-08-19",
@@ -229,20 +243,6 @@
     "date": "2026-08-19",
     "url": "https://blog.adafruit.com/2026/08/19/tutorial-glow-up-your-festival-coat-with-wled/",
     "summary": "Glow up your festival wardrobe with programmable LEDs! In this new tutorial from Erin St Blaine, learn how to add colorful, animated lighting to a faux fur coat using WLED. The fur trim and oversized cuffs become glowing canvases for colorful animations, sound-reactive effects, and custom patterns. Different sections of the coat can run their [&#8230;]"
-  },
-  {
-    "title": "Resources for designing user interfaces",
-    "source": "Adafruit",
-    "date": "2026-08-19",
-    "url": "https://blog.adafruit.com/2026/08/19/resources-for-designing-user-interfaces/",
-    "summary": "Unsung writes that developer Matt Sephton and others compiled many of Apple’s human interface guidelines, starting from 1980 through 2014, including some goodies like early drafts, NeXT, Newton, and so on. Additional design lists are presented &#8211; if you&#8217;d like some good links to compiled resources, see the post here."
-  },
-  {
-    "title": "An open-source emulator + analysis toolkit for Nokia DCT3 phones",
-    "source": "Adafruit",
-    "date": "2026-08-19",
-    "url": "https://blog.adafruit.com/2026/08/19/an-open-source-emulator-analysis-toolkit-for-nokia-dct3-phones/",
-    "summary": "&#160; Nokia DCT3 Emulator is an open-source emulator and architectural-analysis toolkit for Nokia DCT3-era phones — the 3310, 3210, 3410, 5210, 6210, 6250, 7110, 8210, 8250, 8810, 8850 and their siblings. It boots real firmware in the browser and in a native SDL GUI, faithfully modelling the MAD2 platform ASIC, the CCONT power controller, the [&#8230;]"
   },
   {
     "title": "Waveshare PiRack-M6F 6-node rack unit for Raspberry Pi 4/5 brings all ports to the front",
@@ -333,7 +333,7 @@
     "source": "CNX Software",
     "date": "2026-08-17",
     "url": "https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/",
-    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a85e30fb5f55180698216/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a86157aecccf628439024/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "SensiBel and Aizip Combine Optical MEMS and Edge AI Beamforming",

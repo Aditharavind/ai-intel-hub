@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-19 20:11 UTC
+Last Updated: 2026-08-19 21:13 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -38,13 +38,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Pudu Robotics launches new MP2000 autonomous forklift | Robotics Business Review | [link](https://www.therobotreport.com/pudu-robotics-launches-new-mp2000-autonomous-forklift/) |
 | 2026-08-19 | Serve Robotics to deploy its autonomous delivery robots with Grubhub | Robotics Business Review | [link](https://www.therobotreport.com/serve-robotics-deploys-autonomous-delivery-robots-grubhub/) |
 | 2026-08-19 | What does Unitree Robotics’ IPO mean for the humanoid industry? | Robotics Business Review | [link](https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry/) |
+| 2026-08-19 | Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/kollmorgen-give-joint-by-joint-guide-humanoid-motion-robobusiness/) |
 | 2026-08-18 | Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market | Robotics Business Review | [link](https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/) |
 | 2026-08-18 | Drones With Claws Perch on Arctic Icebergs | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/arctic-iceberg-drones) |
 | 2026-08-18 | FORT Robotics to take safety stack public via SPAC merger | Robotics Business Review | [link](https://www.therobotreport.com/fort-robotics-takes-safety-stack-public-via-spac-merger/) |
 | 2026-08-18 | How to achieve high voltage in industrial systems without high complexity | Robotics Business Review | [link](https://www.therobotreport.com/how-achieve-high-voltage-industrial-systems-without-high-complexity/) |
 | 2026-08-17 | Gravis Robotics raises $200M for autonomous construction | Robotics Business Review | [link](https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction/) |
 | 2026-08-17 | Is Shipyard Welding the Right First Job for Humanoid Robots? | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding) |
-| 2026-08-17 | How Generalist uses human demonstration data for robot learning | Robotics Business Review | [link](https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -97,7 +97,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | zauberzeug/nicegui | 16145 | Python | 6458.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15710 | C++ | 6284.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14598 | C++ | 5839.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13666 | Python | 5466.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13671 | Python | 5468.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11323 | Rust | 4529.3 | [link](https://github.com/rerun-io/rerun) |
 | RLinf/RLinf | 4579 | Python | 1831.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3885 | Rust | 1554.1 | [link](https://github.com/dora-rs/dora) |
@@ -120,6 +120,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-19 | Former Nvidia lab leader Sanja Fidler launches Veeda AI to tackle world models - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRreGNHRzNvY0NlNVdjdk9fUEtrakxxT3E3WWJPMmxLc2FBeXdpcjdXTElsV3FBX0pBYUpXWHYzYlAzZ3o4WXk2MVZNS2tJQWg2bzBIendlWm9qTldRTzFLaERSZDd5UFUxZmZ6MnV5T0FBaHhYdEpIaU1UN3ZZcTg1RFZFcE5aUDJRaE9LTHRoS3ZPUmJ6RkZmbWxReWNI?oc=5) |
+| 2026-08-19 | Star researcher Sanja Fidler raises over US$90M for world model startup - The Logic | physical ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTE1LTEJEbDJEZ2pmV1VBeXNVQkVSLWc2c19ldUNzUUt2UzllMlN4R3J6dUNFS0o4ckdzdE1TMXhoZjI4Z0c1cVlNX1hoS3p0WnZsM3JBU1pncEtGamR4dnBUVEc2S3l2NERUb3dYSWp3b0R1dw?oc=5) |
 | 2026-08-19 | Veeda AI Raises $90M+ Seed Backed by Khosla and Radical to Build World Models for Physical AI - Unite.AI | physical ai startup | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE1NelhxZFdWSnR2Nm1yRnNrLURHNm84VjBHWnBsUm9fSzRETzhZa3ZUT0Rrb1gxUWNkbWtCRVpQcDB2dmFjRkhxOFV6Ymw1SEt1VEMzSkpFX2JYMnd0WVR5UkhabXY0RUNYQkN5bGMyOWhubFltMnE1LURTU2o3ZXhnV1lmR3RRZGczVW9sdHNrbnh4T2NTUEhVc24zYmdTWEkwT0lFZlpmZmRRYmJZdmtPTQ?oc=5) |
 | 2026-08-19 | Humanoid robot drives a go-kart, Chinese embodied AI startup releases demo video of race - Chinese media - Record China | embodied ai startup | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaTRSNFJkWmVGbGtXZFVEeTUyR0dreko4N3ZKbGpzTGFZZG9OMjExd0dPNDZHbzlMYTg3WldORk1KZHl2OXJjVlJpVUdJN01GX2lpc2NVS1JyUkNwRHh6UlVhc2hxUDZ1YWg0?oc=5) |
 | 2026-08-19 | Unitree Robotics to debut after US$904 million Shanghai IPO, rides embodied AI wave - The Business Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkpxSGVfMDlFYmtFTmJ3N0R5NVU0dnJZTTZRM2V6a0pWSmlxMEU4TDh3WW5yRHhuMFhfN3VTYkVfWUpwVENGcEFhdFhLRjM0SjRFYnJ6a2JRZGlsOHFma011bzhYY09uWGJTdXRoaXoxRE1Bc0dJeTB1ZnRvRTF1T1hzeWRzYy03dzNrWTVrcU5aRzA0eVdNRzFGS2Q2Xzd6WktxNXB2Um5LNFdvcEFBdEVlVWFLSmJZNF9HQUZ6TzBRYUNmbnZZNQ?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmVpVnFGZTV6Z3RQS1E3N0NZa2dUTjN1ak5rRFdrbFhrLWJ6dk5peWVub0tiSkV4ckF0UURWVkNmVmQwVS1odTc4aXZhZzRNQU9STFRnRTFxYzBLU2xNUUd2RFBwSGJUNDQxT2lfcEQ2OVRJWXFaQnRWYU5QYU9xUVNGY1drS0lBUUswZnVnVlFaeU00eHctdQ?oc=5) |
 | 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Bloomberg | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOenVYeUF4SkxXWmhQNmxha2VsaWFDNVU4anNVX1lZNEZYQkh6VDFMSnJHNlRid2ZoUVRCWjJ1ZVc4Y29rd3RjMjEwUlBBZjZlRWlKMW1FSkUtSXBzMk5vcGdoSndQbEYtT1U0RkhmSmZ6NnNGUVNoOHBDazI5NzhQVndUZkFqTXZLeE1Iam4xZFU2LUNGWDU5NkxtM2RqdDIwT0N5bHhmNE81YXExcFd4aHN6elJrNjg?oc=5) |
 | 2026-08-18 | VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGdjZzRxUElYQXVyMVVmeE41NFpIeDlMMGZXSHdnNW5xVlpsa1dxLTdpSVlQeTdmeHBzN3hLODRhWUVjdFVRZ1g1Q2xsNGhlWWFYOUdjN2lsX1NOeDgyNzZKM3hwR2hiMGZXdWlYTW01T2VEd1dYOTJxUkhHY3FLdGtwX3NjYkhRb21pYXpDbVpuSlYtX1dF?oc=5) |
-| 2026-08-18 | Physical AI startup Enigma raises $71M seed to make robots easy to use - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXRaZzc5UlVLblMzeDExb1E2RzU0bmJwd2JVWG9PclZvenRzLWIzZVdUVXhBNVhaLV8yOVdQbkNTQmJIN3JmLVdRaWF4bFUwb1hpVHh5S25HeVNGb0lsdFFHa1dKdGZxUWRqUWQ5b0V6d0FsQU5RWW9nTDllZ2V6MUpZS2lUR1VDOXU1NGo3bjBvYVlHLTlTQWt3ZzF5eGZhNV9aNmJ3?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

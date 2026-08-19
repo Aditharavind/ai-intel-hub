@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-19 20:11 UTC
+Generated: 2026-08-19 21:13 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -16,7 +16,7 @@ Generated: 2026-08-19 20:11 UTC
 | --- | --- | --- | --- |
 | commaai/openpilot | 63451 | 25380.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44373 | 17749.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30326 | 12130.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30325 | 12130.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16145 | 6458.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15710 | 6284.1 | [link](https://github.com/ArduPilot/ardupilot) |
 
@@ -42,7 +42,7 @@ Generated: 2026-08-19 20:11 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-19 | Former Nvidia lab leader Sanja Fidler launches Veeda AI to tackle world models - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRreGNHRzNvY0NlNVdjdk9fUEtrakxxT3E3WWJPMmxLc2FBeXdpcjdXTElsV3FBX0pBYUpXWHYzYlAzZ3o4WXk2MVZNS2tJQWg2bzBIendlWm9qTldRTzFLaERSZDd5UFUxZmZ6MnV5T0FBaHhYdEpIaU1UN3ZZcTg1RFZFcE5aUDJRaE9LTHRoS3ZPUmJ6RkZmbWxReWNI?oc=5) |
+| 2026-08-19 | Star researcher Sanja Fidler raises over US$90M for world model startup - The Logic | physical ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTE1LTEJEbDJEZ2pmV1VBeXNVQkVSLWc2c19ldUNzUUt2UzllMlN4R3J6dUNFS0o4ckdzdE1TMXhoZjI4Z0c1cVlNX1hoS3p0WnZsM3JBU1pncEtGamR4dnBUVEc2S3l2NERUb3dYSWp3b0R1dw?oc=5) |
 | 2026-08-19 | Veeda AI Raises $90M+ Seed Backed by Khosla and Radical to Build World Models for Physical AI - Unite.AI | physical ai startup | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE1NelhxZFdWSnR2Nm1yRnNrLURHNm84VjBHWnBsUm9fSzRETzhZa3ZUT0Rrb1gxUWNkbWtCRVpQcDB2dmFjRkhxOFV6Ymw1SEt1VEMzSkpFX2JYMnd0WVR5UkhabXY0RUNYQkN5bGMyOWhubFltMnE1LURTU2o3ZXhnV1lmR3RRZGczVW9sdHNrbnh4T2NTUEhVc24zYmdTWEkwT0lFZlpmZmRRYmJZdmtPTQ?oc=5) |
 | 2026-08-19 | Humanoid robot drives a go-kart, Chinese embodied AI startup releases demo video of race - Chinese media - Record China | embodied ai startup | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaTRSNFJkWmVGbGtXZFVEeTUyR0dreko4N3ZKbGpzTGFZZG9OMjExd0dPNDZHbzlMYTg3WldORk1KZHl2OXJjVlJpVUdJN01GX2lpc2NVS1JyUkNwRHh6UlVhc2hxUDZ1YWg0?oc=5) |
 | 2026-08-19 | Unitree Robotics to debut after US$904 million Shanghai IPO, rides embodied AI wave - The Business Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkpxSGVfMDlFYmtFTmJ3N0R5NVU0dnJZTTZRM2V6a0pWSmlxMEU4TDh3WW5yRHhuMFhfN3VTYkVfWUpwVENGcEFhdFhLRjM0SjRFYnJ6a2JRZGlsOHFma011bzhYY09uWGJTdXRoaXoxRE1Bc0dJeTB1ZnRvRTF1T1hzeWRzYy03dzNrWTVrcU5aRzA0eVdNRzFGS2Q2Xzd6WktxNXB2Um5LNFdvcEFBdEVlVWFLSmJZNF9HQUZ6TzBRYUNmbnZZNQ?oc=5) |
-| 2026-08-19 | Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban - WSJ | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMktnNC1kMTFZTU5YWEI4RmxxZmRCMndOcV9vZVVqa2pjU2hmbkI0bFpYUVlGTDl2ZFNjTVpsam1jNHUzT2s1a3RNdWRobVdBMnpydDU1SVBJZGp6bGtRQThxSzJiNUMtN1YzVlBaTk9aWkZGajFzNEVHeUUzRnFuVExWZFhod1hYWXhydDB3a19ndVJ2Mm5lN19EN3Q?oc=5) |
