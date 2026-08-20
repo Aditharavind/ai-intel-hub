@@ -27,6 +27,15 @@
     "score": 0.1
   },
   {
+    "model": "flex-pi/flexpi-robotwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/flex-pi/flexpi-robotwin",
+    "date": "2026-08-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "fanzh03/robotwin_fewshot",
     "downloads": 0,
     "likes": 0,
@@ -94,6 +103,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
+    "date": "2026-08-20",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-20",
     "keyword": "vla",
     "score": 0.1
@@ -180,6 +198,24 @@
     "score": 0.1
   },
   {
+    "model": "XXXXyu/Cosmos3-Nano-Policy-DROID-GenW8A8",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-GenW8A8",
+    "date": "2026-08-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Edge-Policy-DROID-GenW8A8",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Edge-Policy-DROID-GenW8A8",
+    "date": "2026-08-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "jaeikkim/fr3-cube-full10k-diffusion-policy",
     "downloads": 0,
     "likes": 0,
@@ -234,15 +270,6 @@
     "score": 0.1
   },
   {
-    "model": "puppet-robotics/golf-model-mcap-test",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-mcap-test",
-    "date": "2026-08-19",
-    "keyword": "robotics",
-    "score": 3.7
-  },
-  {
     "model": "muniker/vla-jepa-so101-sort-210base-65ft-unfrozen-50steps",
     "downloads": 0,
     "likes": 0,
@@ -259,15 +286,6 @@
     "date": "2026-08-19",
     "keyword": "vla",
     "score": 1.6
-  },
-  {
-    "model": "vlabki/rr-tw3-bc-ppo-speed-v3-peak-last",
-    "downloads": 18,
-    "likes": 0,
-    "url": "https://huggingface.co/vlabki/rr-tw3-bc-ppo-speed-v3-peak-last",
-    "date": "2026-08-19",
-    "keyword": "vla",
-    "score": 5.5
   },
   {
     "model": "novastar111/sokoban_easy_cot_chunk_k3_world_model",
@@ -333,22 +351,13 @@
     "score": 4.6
   },
   {
-    "model": "Yewy/rollout_mahjong_container_pickup_v1_policy",
-    "downloads": 13,
+    "model": "puppet-robotics/golf-model-mcap-test",
+    "downloads": 12,
     "likes": 0,
-    "url": "https://huggingface.co/Yewy/rollout_mahjong_container_pickup_v1_policy",
+    "url": "https://huggingface.co/puppet-robotics/golf-model-mcap-test",
     "date": "2026-08-19",
-    "keyword": "policy",
-    "score": 4.0
-  },
-  {
-    "model": "dnhan123/x-bfm-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/dnhan123/x-bfm-policy",
-    "date": "2026-08-19",
-    "keyword": "policy",
-    "score": 0.1
+    "keyword": "robotics",
+    "score": 3.7
   },
   {
     "model": "GEONWOO22/vla-robotics-modified",
