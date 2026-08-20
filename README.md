@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-20 20:14 UTC
+Last Updated: 2026-08-20 21:15 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -96,8 +96,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63458 | Python | 25383.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15714 | C++ | 6285.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14618 | C++ | 5847.3 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11332 | Rust | 4532.9 | [link](https://github.com/rerun-io/rerun) |
+| google-deepmind/mujoco | 14617 | C++ | 5846.9 | [link](https://github.com/google-deepmind/mujoco) |
+| rerun-io/rerun | 11330 | Rust | 4532.1 | [link](https://github.com/rerun-io/rerun) |
 | RLinf/RLinf | 4587 | Python | 1834.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3886 | Rust | 1554.5 | [link](https://github.com/dora-rs/dora) |
 | RoboTwin-Platform/RoboTwin | 2750 | Python | 1100.1 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
@@ -135,6 +135,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-08-20 | Project Coordinator, Data Creators | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696349006) |
 | 2026-08-20 | Warehouse Manager, Commercial Operations | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4706787006) |
+| 2026-08-20 | Senior Software Engineer, AI/ML Platform | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6148969004) |
 | 2026-08-19 | Senior Manufacturing Engineer | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6131189004) |
 | 2026-08-19 | Staff Software Engineer, Hardware Interface | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6146407004) |
 | 2026-08-18 | State Estimation Engineer - Data Collection Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4706280006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-17 | Director of Technical Accounting & Reporting | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6142438004) |
 | 2026-08-17 | Director, Operations Program Management | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6111228004) |
 | 2026-08-17 | Senior Staff Data Scientist, Robotics | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6127729004) |
-| 2026-08-17 | Vice President, Strategic Program Management Office (SPMO) | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6139722004) |
 
 ## Automation
 
