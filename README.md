@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-20 17:16 UTC
+Last Updated: 2026-08-20 18:18 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -36,6 +36,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-08-20 | Agtonomy releases new autonomous multi-point turning features | Robotics Business Review | [link](https://www.therobotreport.com/agtonomy-releases-new-autonomous-multi-point-turning-features/) |
+| 2026-08-20 | ATDev gives update on its journey building autonomous wheelchairs | Robotics Business Review | [link](https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs/) |
 | 2026-08-19 | Pudu Robotics launches new MP2000 autonomous forklift | Robotics Business Review | [link](https://www.therobotreport.com/pudu-robotics-launches-new-mp2000-autonomous-forklift/) |
 | 2026-08-19 | Serve Robotics to deploy its autonomous delivery robots with Grubhub | Robotics Business Review | [link](https://www.therobotreport.com/serve-robotics-deploys-autonomous-delivery-robots-grubhub/) |
 | 2026-08-19 | What does Unitree Robotics’ IPO mean for the humanoid industry? | Robotics Business Review | [link](https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry/) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-18 | Drones With Claws Perch on Arctic Icebergs | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/arctic-iceberg-drones) |
 | 2026-08-18 | FORT Robotics to take safety stack public via SPAC merger | Robotics Business Review | [link](https://www.therobotreport.com/fort-robotics-takes-safety-stack-public-via-spac-merger/) |
 | 2026-08-18 | How to achieve high voltage in industrial systems without high complexity | Robotics Business Review | [link](https://www.therobotreport.com/how-achieve-high-voltage-industrial-systems-without-high-complexity/) |
-| 2026-08-17 | Gravis Robotics raises $200M for autonomous construction | Robotics Business Review | [link](https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -100,7 +100,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | rerun-io/rerun | 11330 | Rust | 4532.1 | [link](https://github.com/rerun-io/rerun) |
 | RLinf/RLinf | 4587 | Python | 1834.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3886 | Rust | 1554.5 | [link](https://github.com/dora-rs/dora) |
-| RoboTwin-Platform/RoboTwin | 2749 | Python | 1099.7 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
+| RoboTwin-Platform/RoboTwin | 2750 | Python | 1100.1 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
