@@ -31,13 +31,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14604,
+    "stars": 14606,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-20",
     "topic": "robotics",
-    "score": 5841.7
+    "score": 5842.5
   },
   {
     "repo": "dora-rs/dora",
@@ -80,14 +80,24 @@
     "score": 176.9
   },
   {
+    "repo": "RealXiaoze/humanoid-motion-intelligence",
+    "stars": 385,
+    "language": "",
+    "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
+    "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
+    "date": "2026-08-20",
+    "topic": "robot-learning",
+    "score": 154.1
+  },
+  {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6189,
+    "stars": 6190,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-20",
     "topic": "world-model",
-    "score": 2475.7
+    "score": 2476.1
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -101,13 +111,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2317,
+    "stars": 2318,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-08-20",
     "topic": "humanoid",
-    "score": 926.9
+    "score": 927.3
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -221,23 +231,23 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4581,
+    "stars": 4582,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-19",
     "topic": "embodied-ai",
-    "score": 1832.5
+    "score": 1832.9
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3320,
+    "stars": 3322,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-08-19",
     "topic": "embodied-ai",
-    "score": 1328.1
+    "score": 1328.9
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -278,16 +288,6 @@
     "date": "2026-08-19",
     "topic": "vla",
     "score": 171.7
-  },
-  {
-    "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 385,
-    "language": "",
-    "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
-    "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
-    "date": "2026-08-19",
-    "topic": "robot-learning",
-    "score": 154.1
   },
   {
     "repo": "syswonder/robonix",
@@ -351,13 +351,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3266,
+    "stars": 3268,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-18",
     "topic": "embodied-ai",
-    "score": 1306.5
+    "score": 1307.3
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -371,33 +371,33 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 2138,
+    "stars": 2139,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-08-18",
     "topic": "world-model",
-    "score": 855.3
+    "score": 855.7
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 3026,
+    "stars": 3029,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-17",
     "topic": "physical-ai",
-    "score": 1210.5
+    "score": 1211.7
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30329,
+    "stars": 30330,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-08-17",
     "topic": "robotics",
-    "score": 12131.7
+    "score": 12132.1
   },
   {
     "repo": "DLR-RM/stable-baselines3",
@@ -441,13 +441,13 @@
   },
   {
     "repo": "softmata/horus",
-    "stars": 417,
+    "stars": 418,
     "language": "Rust",
     "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
     "url": "https://github.com/softmata/horus",
     "date": "2026-08-17",
     "topic": "humanoid",
-    "score": 166.9
+    "score": 167.3
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
