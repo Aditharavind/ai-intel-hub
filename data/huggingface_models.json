@@ -1,5 +1,14 @@
 [
   {
+    "model": "SereneC/AHA-WAM-RoboTwin2.0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SereneC/AHA-WAM-RoboTwin2.0",
+    "date": "2026-08-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "Chipaipai/tcc-core-real-robot-policies",
     "downloads": 0,
     "likes": 0,
@@ -72,13 +81,13 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 9,
+    "model": "kesnick/vlm-vla-test",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/kesnick/vlm-vla-test",
     "date": "2026-08-20",
     "keyword": "vla",
-    "score": 2.8
+    "score": 0.1
   },
   {
     "model": "sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
@@ -88,6 +97,15 @@
     "date": "2026-08-20",
     "keyword": "vla",
     "score": 1.9
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 9,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-20",
+    "keyword": "vla",
+    "score": 2.8
   },
   {
     "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
@@ -106,15 +124,6 @@
     "date": "2026-08-20",
     "keyword": "vla",
     "score": 2.5
-  },
-  {
-    "model": "kesnick/vlm-vla-test",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kesnick/vlm-vla-test",
-    "date": "2026-08-20",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "Grigorij/PaP_duck_vla_jepa",
@@ -232,15 +241,6 @@
     "date": "2026-08-19",
     "keyword": "robot",
     "score": 7.6
-  },
-  {
-    "model": "junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlatVicregSplitdec",
-    "downloads": 35,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlatVicregSplitdec",
-    "date": "2026-08-19",
-    "keyword": "robot",
-    "score": 10.6
   },
   {
     "model": "muniker/vla-jepa-so101-sort-210base-65ft-unfrozen-50steps",

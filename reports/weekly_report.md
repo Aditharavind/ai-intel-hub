@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-20 10:16 UTC
+Generated: 2026-08-20 11:14 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -16,9 +16,9 @@ Generated: 2026-08-20 10:16 UTC
 | --- | --- | --- | --- |
 | commaai/openpilot | 63456 | 25382.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44373 | 17749.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30330 | 12132.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30331 | 12132.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16145 | 6458.1 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15713 | 6285.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15712 | 6284.9 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -32,11 +32,11 @@ Generated: 2026-08-20 10:16 UTC
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-08-20 | Unitree |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGZiazk1S2hUWVk4QXlSY3FldjJ6VEhGS3FGUFhUbWRtdnFXUjdYRnp0YUZZMGNXNHUyaUxvazNsWGdrZFFGYllmNXJ5bUk3WDd6TlJqX2F1c1hSN3I4dDRsNVdabW1sOE0wRmRySWpjUWlkeGF0VlhDalF4bDhrd3JndkZfM2pJU1BQYU41UEF3U0ZlUVF5eTFfdE9oTl91WlJITQ?oc=5) |
 | 2026-08-20 | Unitree |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOU085RVRCdl9qV0pGcmdYWVZDdlFaQ2ZEMG54WmhHaWYtZUY1MWlJYlB6T2x5Z2trbENPSmZ6blhfbTFqNlNYNHJSYzFIRXBKbEtVVmNxaWItSGFnYkw5VExIVFVoUGoxNlFVM3phLVJCcENqcldRWERCaFpCR28xbTRfUk9PbVR6TUU4TTExR0c2ZlFtbExEYg?oc=5) |
 | 2026-08-19 | Unitree |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDJ3RXRVazJTNjZVUDg5SjZwWk5YdS13Snd5MVlwUnV5MVpsLWxBUjcyZ0dWcXVmQ3hQUFgzZ2RQbk5WUkVTUjV6UnRGZ0JpTU9lTU4zbFVSUG5wQjlDN3JvSDBpNFBYYzhQWkdGS3MyMHJ1bG9ab09GdUE0MDRINWhseDd3emZzWDNNM0JwUHVJTmFZX3N2d3k4M2Z4eU9IaHdrLU1MRllfYk83WkM5UWNLbVMxdVVXVjRGd2UwUQ?oc=5) |
 | 2026-08-19 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVVGZ3Q4aW0tRF9FZm9UN04xSlNudWRHcVFVX3ljNTJ1YlBfcF9RQ3hTSW5zQkpSZWJHeEpramdGX0VZcGFXWTlPYWczQlg3anhtSHJFbGJCVzU3dFlYSy1LX0hOc3FjUUtNUWxKbnR1Ty1PbnZaM3BTSjc0TVJlQWtGb05mbFJuZ2o2T2FvVDlzRm5UMG4zUWpTZm41ZDVtcmZtLXYtWUZCbzFFSU9Sb1dzbTFraEZUSDVsZXpsN3ZzREHSAcMBQVVfeXFMT0Y4bkNZdW9FdEJQYy0tRlplcGVzYjNfd0J0RjVjS2N5X0NFMVBuWmwxemNDaHpmdXlCdWx3TzNWVENSN2E5eUNibHB5aFkxMGxLdGRTS1JkWXdOZ1lvZjNpWDliS0FlaXJRcF8xWUlYQTlUa0d4MUlaRHRaQnhRNlYtZHhlTDFURGRXbERBTklJYndjalFrRXZibjFYUzl4eURXeno3dkVkZWFWMGVtTnRaNnA5UGJueWZDbUxYWWVPU1FV?oc=5) |
 | 2026-08-19 | Unitree |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWNGUDJYMjkyWll1LXFiS1dRVWZ5Z05ydFNMSE1iY29Bd215b01sYmlTQ3ZZX3FUTVp3ZnQzN2JjSmg1cTZGd1NaY3ppQ1F2d3BYWFNsdHI3SkZWZjdMb0VOd0ZNeHViNDBVYW1FNzZCQjFVbm5ITmtRSjhoR0FJSHFqdFphRzdjMFplNVpzbzRrcFJJdDdWSFQtT1V1UXV6MHJ6a1FlX3V5WjhVT1JqeVZjenBsTGlZVE5JZw?oc=5) |
-| 2026-08-19 | Unitree |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFJKZmlaWUVYT050VDhEX05EQ1NnN2FVNXFFTFNabTM4a0ZrMUJheEQxMXpTSk5BRWx0dDV5TERGRDNnYW9qc205TDZyM25sZUxlWEkySm9VZEJETjhGWDAwZlFIbXpwbVlNaHFXU2p5U0hlY25falJDaUFPRlpOMXFLS3owckZISEFLREt2cFRuSkhYVWI1VXdNNF9Zajg4aUNxQnlGRXZTMDB4amc?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
