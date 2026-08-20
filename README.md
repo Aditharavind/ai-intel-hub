@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-20 21:15 UTC
+Last Updated: 2026-08-20 22:13 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,7 +8,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-08-20 | Introducing AI Futures | OpenAI | [link](https://openai.com/index/introducing-ai-futures) |
-| 2026-08-20 | How ChatGPT Work helps Stampli move ideas to market | OpenAI | [link](https://openai.com/index/stampli) |
+| 2026-08-20 | Stampli cuts launch hours by 68% using ChatGPT Work | OpenAI | [link](https://openai.com/index/stampli) |
 | 2026-08-20 | Up to 3.2x Faster Inference with LFM2.5-DSpark | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/lfm25-dspark) |
 | 2026-08-19 | Offering Zero Data Retention for frontier models | OpenAI | [link](https://openai.com/index/offering-zero-data-retention-for-frontier-models) |
 | 2026-08-19 | Replit expands access to software creation with GPT-5.6 Luna | OpenAI | [link](https://openai.com/index/replit) |
@@ -37,6 +37,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-20 | Agtonomy releases new autonomous multi-point turning features | Robotics Business Review | [link](https://www.therobotreport.com/agtonomy-releases-new-autonomous-multi-point-turning-features/) |
 | 2026-08-20 | ATDev gives update on its journey building autonomous wheelchairs | Robotics Business Review | [link](https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs/) |
+| 2026-08-20 | Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026 | Robotics Business Review | [link](https://www.therobotreport.com/amazon-plans-expand-prime-air-nearly-500-cities-by-end-2026/) |
 | 2026-08-19 | Pudu Robotics launches new MP2000 autonomous forklift | Robotics Business Review | [link](https://www.therobotreport.com/pudu-robotics-launches-new-mp2000-autonomous-forklift/) |
 | 2026-08-19 | Serve Robotics to deploy its autonomous delivery robots with Grubhub | Robotics Business Review | [link](https://www.therobotreport.com/serve-robotics-deploys-autonomous-delivery-robots-grubhub/) |
 | 2026-08-19 | What does Unitree Robotics’ IPO mean for the humanoid industry? | Robotics Business Review | [link](https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry/) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-18 | Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market | Robotics Business Review | [link](https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/) |
 | 2026-08-18 | Drones With Claws Perch on Arctic Icebergs | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/arctic-iceberg-drones) |
 | 2026-08-18 | FORT Robotics to take safety stack public via SPAC merger | Robotics Business Review | [link](https://www.therobotreport.com/fort-robotics-takes-safety-stack-public-via-spac-merger/) |
-| 2026-08-18 | How to achieve high voltage in industrial systems without high complexity | Robotics Business Review | [link](https://www.therobotreport.com/how-achieve-high-voltage-industrial-systems-without-high-complexity/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -56,9 +56,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-20 | An Early History of Space Stations: The Brick Moon Made Real | Hackaday | [link](https://hackaday.com/2026/08/20/an-early-history-of-space-stations-the-brick-moon-made-real/) |
 | 2026-08-20 | Teardown Shows Low-Fi Microphone is Surprisingly Sophisticated | Hackaday | [link](https://hackaday.com/2026/08/20/teardown-shows-low-fi-microphone-is-surprisingly-sophisticated/) |
 | 2026-08-20 | Reading isn’t Rocket Science… But In This Case… | Hackaday | [link](https://hackaday.com/2026/08/20/reading-isnt-rocket-science-but-in-this-case/) |
+| 2026-08-20 | Linux 7.2 release – Main changes, Arm, RISC_V, amd MIPS architecture | CNX Software | [link](https://www.cnx-software.com/2026/08/21/linux-7-2-release-main-changes-arm-risc_v-amd-mips-architecture/) |
 | 2026-08-20 | Why are people suddenly adding Apple Lightning cables to Raspberry Pi Pico 2 boards? | CNX Software | [link](https://www.cnx-software.com/2026/08/20/why-are-people-suddenly-adding-apple-lightning-cables-to-raspberry-pi-pico-2-boards/) |
 | 2026-08-20 | Quectel SH602FA and SE505FE smart modules bring Android 16 to 4G LTE and 5G IoT devices | CNX Software | [link](https://www.cnx-software.com/2026/08/20/quectel-sh602fa-and-se505fe-smart-modules-bring-android-16-to-4g-lte-and-5g-iot-devices/) |
-| 2026-08-20 | KAGA FEI ES4L15MA1 is a ridiculously small, ready-to-use BLE 6.0 module based on Nordic nRF54L15 SoC | CNX Software | [link](https://www.cnx-software.com/2026/08/20/kaga-fei-es4l15ma1-is-a-ridiculously-small-ready-to-use-ble-6-0-module-based-on-nordic-nrf54l15-soc/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -96,9 +96,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63458 | Python | 25383.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15714 | C++ | 6285.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14617 | C++ | 5846.9 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14616 | C++ | 5846.5 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 11330 | Rust | 4532.1 | [link](https://github.com/rerun-io/rerun) |
-| RLinf/RLinf | 4587 | Python | 1834.9 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 4588 | Python | 1835.3 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3886 | Rust | 1554.5 | [link](https://github.com/dora-rs/dora) |
 | RoboTwin-Platform/RoboTwin | 2750 | Python | 1100.1 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
 

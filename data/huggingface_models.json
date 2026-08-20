@@ -108,15 +108,6 @@
     "score": 10.0
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-20",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "B111ue/fcl-vla-functional-support-canary",
     "downloads": 0,
     "likes": 0,
@@ -135,10 +126,10 @@
     "score": 0.1
   },
   {
-    "model": "CLM0215/rns-vla-runs",
+    "model": "sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/CLM0215/rns-vla-runs",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-20",
     "keyword": "vla",
     "score": 0.1
@@ -270,6 +261,15 @@
     "score": 0.1
   },
   {
+    "model": "trivien/act_so101_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/trivien/act_so101_policy",
+    "date": "2026-08-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "jayp132/beanbag-green-policy-combined-final",
     "downloads": 0,
     "likes": 0,
@@ -369,21 +369,21 @@
     "score": 0.1
   },
   {
+    "model": "muniker/vla-jepa-so101-sort-210base-65ft-unfrozen-50steps",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/muniker/vla-jepa-so101-sort-210base-65ft-unfrozen-50steps",
+    "date": "2026-08-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "novastar111/sokoban_easy_cot_chunk_k3_world_model",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/novastar111/sokoban_easy_cot_chunk_k3_world_model",
     "date": "2026-08-19",
     "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "aDaikiKamata/patch_policy_libero_object",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/aDaikiKamata/patch_policy_libero_object",
-    "date": "2026-08-19",
-    "keyword": "policy",
     "score": 0.1
   },
   {

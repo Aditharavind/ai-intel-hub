@@ -49,6 +49,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"351\" src=\"https://hackaday.com/wp-content/uploads/2026/08/nasabook.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>While Hackaday&#8217;s bread and butter is, of course, hacks, we sometimes cover things that most of us are interested in that are probably out of reach for the typical hacker. <a class=\"read-more\" href=\"https://hackaday.com/2026/08/20/reading-isnt-rocket-science-but-in-this-case/\">&#8230;read more</a>"
   },
   {
+    "title": "Linux 7.2 release – Main changes, Arm, RISC_V, amd MIPS architecture",
+    "source": "CNX Software",
+    "date": "2026-08-20",
+    "url": "https://www.cnx-software.com/2026/08/21/linux-7-2-release-main-changes-arm-risc_v-amd-mips-architecture/",
+    "summary": "<div><img alt=\"Linux 7.2 release\" class=\"attachment-medium size-medium wp-post-image\" height=\"450\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Linux-7.2-release-720x450.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Linus Torvalds released Linux 7.2 on LKML last Sunday: Well, this last week of the release was &#8211; once again &#8211; bigger than I would have wished for, but hey, with the whole &#8220;new normal&#8221; thing, if I delayed releases for that reason we&#8217;d probably never have a release at all. There are a number of fairly late reverts &#8211; the drm scheduling reverts stand out, but there&#8217;s a few other ones in here too. It may not be pretty, but it&#8217;s the correct way to deal with &#8220;oh, that code wasn&#8217;t ready and caused problems&#8221;. People will be trying that again later. But while the drm reverts stand out and are some of the bigger patches in here, there&#8217;s a lot of small fixes all over. Mostly in drivers, but networking remained fairly active this last week too. And then there are a few random patches to architecture files [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/21/linux-7-2-release-main-changes-arm-risc_v-amd-mips-architecture/\">Linux 7.2 release &#8211; Main changes, Arm, RISC_V, amd MIPS architecture</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Why are people suddenly adding Apple Lightning cables to Raspberry Pi Pico 2 boards?",
     "source": "CNX Software",
     "date": "2026-08-20",
@@ -147,6 +154,13 @@
     "summary": "<p>Toshiba has engineering samples of the TXZ+ Family Entry-Class M4V Group of standard microcontrollers. Featuring an Arm Cortex-M4 core with a floating-point unit (FPU) operating at up to 80MHz, the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/toshiba-sampling-arm-cortex-m4-mcus-2026-08/\">Toshiba sampling Arm Cortex-M4 MCUs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Pencil Sharpener Desk Organizer – Giant Pencil Sharpener-Style Pen Holder #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-08-20",
+    "url": "https://blog.adafruit.com/2026/08/20/pencil-sharpener-desk-organizer-giant-pencil-sharpener-style-pen-holder-3dthursday-3dprinting/",
+    "summary": "Shared by precisionprintpro on MakerWorld: Add a fun and functional twist to your workspace with this giant sharpener-style desk organizer, perfect for teachers, students, or anyone who loves stationery! This creative design brings the classic pencil sharpener to life as a stylish storage solution for pens, pencils, markers, and more. Download the files and learn [&#8230;]"
+  },
+  {
     "title": "The Python on Microcontrollers Newsletter: subscribe for free",
     "source": "Adafruit",
     "date": "2026-08-20",
@@ -222,13 +236,6 @@
     "date": "2026-08-20",
     "url": "https://blog.adafruit.com/2026/08/20/pine64-is-halting-its-linux-hardware-line-and-the-ai-bubble-is-to-blame/",
     "summary": "They are blaming DRAM and eMMC shortages, with nothing coming back before mid-2027. PINE64, the open hardware manufacturer, recently posted an update on its Mastodon account, and it&#8217;s not great news if you were hoping to grab new Linux-powered hardware. The disruptions in DRAM and eMMC supply are to blame, as PINE64 says its Linux [&#8230;]"
-  },
-  {
-    "title": "Hackaday Europe 2026: The 1-bit CPU that ran factories",
-    "source": "Adafruit",
-    "date": "2026-08-20",
-    "url": "https://blog.adafruit.com/2026/08/20/hackaday-europe-2026-the-1-bit-cpu-that-ran-factories/",
-    "summary": "Nicola Cimmino came to Hackaday Europe 2026 to speak about a remarkably simple 1-bit CPU that used to run factories. He used to frequent a facility that used to recycle electronic waste, which sold old bits and pieces of hardware by the kilo. Many times, Nicola would pick up odd boards with an eye to [&#8230;]"
   },
   {
     "title": "Tom Clancy’s Rainbow Six® Siege Cuts Critical Toxic Voice Chat by 50% with Modulate’s ToxMod",
@@ -376,13 +383,6 @@
     "date": "2026-08-18",
     "url": "https://www.embedded.com/brainchip-orama-aoi-target-ai-based-industrial-defect-detection/",
     "summary": "<p>BrainChip Inc. has partnered with Atlanta-based Orama.AOI to develop AI-based automated optical inspection solutions using BrainChip's Akida neuromorphic AI platform. Orama.AOI has retrained and optimized Akida models using its industrial inspection datasets, demonstrating the platform's application to production-oriented defect detection. Orama.AOI provides AI-powered automated optical inspection technology for industrial applications with current use cases including [...]</p>\n<p>The post <a href=\"https://www.embedded.com/brainchip-orama-aoi-target-ai-based-industrial-defect-detection/\">BrainChip, Orama.AOI Target AI-Based Industrial Defect Detection</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "SONOFF Hydro DUO review – A dual-zone BLE and Zigbee water valve tested with eWeLink and Home Assistant",
-    "source": "CNX Software",
-    "date": "2026-08-17",
-    "url": "https://www.cnx-software.com/2026/08/17/sonoff-hydro-duo-review-a-dual-zone-ble-and-zigbee-water-valve-tested-with-ewelink-and-home-assistant/",
-    "summary": "<div><img alt=\"SONOFF Hydro DUO review eWeLink Home Assistant\" class=\"attachment-medium size-medium wp-post-image\" height=\"481\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/SONOFF-Hydro-DUO-review-eWeLink-Home-Assistant-720x481.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ITEAD has sent us a review sample of the SONOFF Hydro DUO (SWV-ZF2E) dual-channel Zigbee 3.0 and Bluetooth 5 LE smart water valve. The device supports up to 12 custom watering schedules, integrates a water flow meter, and features alert systems for leak risks, low battery, and insufficient water. The device has a maximum Zigbee communication range of 130 meters in open, unobstructed areas. It is primarily designed for the eWeLink app but also works with MQTT-compatible platforms such as Home Assistant. In this review, we will cover everything from unboxing, installation, and getting started with the SONOFF Hydro DUO via Bluetooth LE and Zigbee (through the SONOFF NSPanel Pro Gen2) using the eWeLink app, before switching to Home Assistant and creating an automation system leveraging moisture data from the XIAO Soil Moisture Sensor. SONOFF Hydro DUO unboxing We received the device in a retail package which clearly indicates we [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/sonoff-hydro-duo-review-a-dual-zone-ble-and-zigbee-water-valve-tested-with-ewelink-and-home-assistant/\">SONOFF Hydro DUO review &#8211; A dual-zone BLE and Zigbee water valve tested with eWeLink and Home Assistant</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "SensiBel and Aizip Combine Optical MEMS and Edge AI Beamforming",
