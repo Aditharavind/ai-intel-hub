@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-20 19:21 UTC
+Last Updated: 2026-08-20 20:14 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-20 | Introducing AI Futures | OpenAI | [link](https://openai.com/index/introducing-ai-futures) |
 | 2026-08-20 | How ChatGPT Work helps Stampli move ideas to market | OpenAI | [link](https://openai.com/index/stampli) |
 | 2026-08-20 | Up to 3.2x Faster Inference with LFM2.5-DSpark | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/lfm25-dspark) |
 | 2026-08-19 | Offering Zero Data Retention for frontier models | OpenAI | [link](https://openai.com/index/offering-zero-data-retention-for-frontier-models) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-18 | Partnering with CodeAI to prepare the first AI generation | OpenAI | [link](https://openai.com/index/partnering-with-codeai) |
 | 2026-08-18 | Pacing model development in an era of cyber-critical capabilities | OpenAI | [link](https://openai.com/index/pacing-model-development-cyber-capabilities) |
 | 2026-08-18 | Introducing ChatGPT for Teens: Built for learning, backed by protections | OpenAI | [link](https://openai.com/index/chatgpt-for-teens) |
-| 2026-08-18 | How NVIDIA scales expertise with ChatGPT Work | OpenAI | [link](https://openai.com/index/nvidia/chatgpt-work) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-20 | Homebrew 68K Machine Has A PCI Bus | Hackaday | [link](https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/) |
 | 2026-08-20 | Foldable OLED Displays and the Bane of Dust | Hackaday | [link](https://hackaday.com/2026/08/20/foldable-oled-displays-and-the-bane-of-dust/) |
 | 2026-08-20 | 3D Printering: Why is my PLA so Brittle? | Hackaday | [link](https://hackaday.com/2026/08/20/3d-printering-why-is-my-pla-so-brittle/) |
 | 2026-08-20 | Miniaturizing the Atari 2600 Console | Hackaday | [link](https://hackaday.com/2026/08/20/miniaturizing-the-atari-2600-console/) |
 | 2026-08-20 | An Early History of Space Stations: The Brick Moon Made Real | Hackaday | [link](https://hackaday.com/2026/08/20/an-early-history-of-space-stations-the-brick-moon-made-real/) |
 | 2026-08-20 | Teardown Shows Low-Fi Microphone is Surprisingly Sophisticated | Hackaday | [link](https://hackaday.com/2026/08/20/teardown-shows-low-fi-microphone-is-surprisingly-sophisticated/) |
 | 2026-08-20 | Reading isn’t Rocket Science… But In This Case… | Hackaday | [link](https://hackaday.com/2026/08/20/reading-isnt-rocket-science-but-in-this-case/) |
-| 2026-08-20 | Quick Share Implemented On A Kindle | Hackaday | [link](https://hackaday.com/2026/08/19/quick-share-implemented-on-a-kindle/) |
 | 2026-08-20 | Why are people suddenly adding Apple Lightning cables to Raspberry Pi Pico 2 boards? | CNX Software | [link](https://www.cnx-software.com/2026/08/20/why-are-people-suddenly-adding-apple-lightning-cables-to-raspberry-pi-pico-2-boards/) |
 | 2026-08-20 | Quectel SH602FA and SE505FE smart modules bring Android 16 to 4G LTE and 5G IoT devices | CNX Software | [link](https://www.cnx-software.com/2026/08/20/quectel-sh602fa-and-se505fe-smart-modules-bring-android-16-to-4g-lte-and-5g-iot-devices/) |
 | 2026-08-20 | KAGA FEI ES4L15MA1 is a ridiculously small, ready-to-use BLE 6.0 module based on Nordic nRF54L15 SoC | CNX Software | [link](https://www.cnx-software.com/2026/08/20/kaga-fei-es4l15ma1-is-a-ridiculously-small-ready-to-use-ble-6-0-module-based-on-nordic-nrf54l15-soc/) |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-20 | milab-robot/alm1-0731-milab.NESW.T | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.NESW.T) |
 | 2026-08-20 | puppet-robotics/golf-model-2-8fps | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-2-8fps) |
 | 2026-08-20 | puppet-robotics/golf-model-mcap-test | 12 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-mcap-test) |
 | 2026-08-20 | ShuiJie/pi0.5_robotwin2 | 0 | 0 | [link](https://huggingface.co/ShuiJie/pi0.5_robotwin2) |
@@ -86,12 +87,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-20 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-20 | sun-robot/pi05_amazinghand_rps_meanstd | 12 | 0 | [link](https://huggingface.co/sun-robot/pi05_amazinghand_rps_meanstd) |
 | 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp | 10 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp) |
-| 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp | 8 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3034 | Python | 1213.7 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3035 | Python | 1214.1 | [link](https://github.com/NVIDIA/skills) |
 | mosaico-labs/mosaico | 936 | Python | 374.5 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63458 | Python | 25383.3 | [link](https://github.com/commaai/openpilot) |

@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-20 19:21 UTC
+Generated: 2026-08-20 20:14 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -26,8 +26,8 @@ Generated: 2026-08-20 19:21 UTC
 | SEU-PAISys/Embodied.cpp | 801 | 241.2 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
 | physicalai-bmi/efa-1 | 230 | 69.1 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
 | XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa | 125 | 39.6 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa) |
-| Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp | 115 | 34.6 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp) |
 | XiaomiRobotics/Xiaomi-Robotics-1-VLABench | 92 | 28.7 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-VLABench) |
+| physicalairi/so101_1200ep_smolvla | 87 | 26.2 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

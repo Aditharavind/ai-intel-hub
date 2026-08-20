@@ -1,5 +1,14 @@
 [
   {
+    "model": "milab-robot/alm1-0731-milab.NESW.T",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/milab-robot/alm1-0731-milab.NESW.T",
+    "date": "2026-08-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "puppet-robotics/golf-model-2-8fps",
     "downloads": 0,
     "likes": 0,
@@ -99,28 +108,19 @@
     "score": 10.0
   },
   {
-    "model": "Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp",
-    "downloads": 115,
+    "model": "sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-20",
-    "keyword": "robot",
-    "score": 34.6
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "B111ue/fcl-vla-functional-support-canary",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
-    "date": "2026-08-20",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-20",
     "keyword": "vla",
     "score": 0.1
@@ -270,6 +270,15 @@
     "score": 0.1
   },
   {
+    "model": "jayp132/beanbag-green-policy-combined-final",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jayp132/beanbag-green-policy-combined-final",
+    "date": "2026-08-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "Chaenn/smolvla_policy_so101_cube_multitask_real_0820",
     "downloads": 0,
     "likes": 0,
@@ -376,15 +385,6 @@
     "date": "2026-08-19",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "MoAIBo/pick_place_depth_vel_policy",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/MoAIBo/pick_place_depth_vel_policy",
-    "date": "2026-08-19",
-    "keyword": "policy",
-    "score": 2.8
   },
   {
     "model": "GEONWOO22/vla-robotics-modified",

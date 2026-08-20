@@ -1,5 +1,12 @@
 [
   {
+    "title": "Homebrew 68K Machine Has A PCI Bus",
+    "source": "Hackaday",
+    "date": "2026-08-20",
+    "url": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/08/img_20260819_215428_c-e1787210997954.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Peripheral Component Interconnect (PCI) bus was first introduced all the way back in 1992. It quickly became the standard way to interface add-on cards on the PC platform, supplanting <a class=\"read-more\" href=\"https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/\">&#8230;read more</a>"
+  },
+  {
     "title": "Foldable OLED Displays and the Bane of Dust",
     "source": "Hackaday",
     "date": "2026-08-20",
@@ -40,13 +47,6 @@
     "date": "2026-08-20",
     "url": "https://hackaday.com/2026/08/20/reading-isnt-rocket-science-but-in-this-case/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"351\" src=\"https://hackaday.com/wp-content/uploads/2026/08/nasabook.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>While Hackaday&#8217;s bread and butter is, of course, hacks, we sometimes cover things that most of us are interested in that are probably out of reach for the typical hacker. <a class=\"read-more\" href=\"https://hackaday.com/2026/08/20/reading-isnt-rocket-science-but-in-this-case/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Quick Share Implemented On A Kindle",
-    "source": "Hackaday",
-    "date": "2026-08-20",
-    "url": "https://hackaday.com/2026/08/19/quick-share-implemented-on-a-kindle/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/ssc2006-02a-0beaner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Quick Share is a useful tool for flipping files between Android smart phones in a fuss-free wireless manner. [unrealJune] has now implemented the feature on Kindle devices. You&#8217;ll need a <a class=\"read-more\" href=\"https://hackaday.com/2026/08/19/quick-share-implemented-on-a-kindle/\">&#8230;read more</a>"
   },
   {
     "title": "Why are people suddenly adding Apple Lightning cables to Raspberry Pi Pico 2 boards?",
@@ -147,6 +147,27 @@
     "summary": "<p>Toshiba has engineering samples of the TXZ+ Family Entry-Class M4V Group of standard microcontrollers. Featuring an Arm Cortex-M4 core with a floating-point unit (FPU) operating at up to 80MHz, the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/toshiba-sampling-arm-cortex-m4-mcus-2026-08/\">Toshiba sampling Arm Cortex-M4 MCUs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "LED Hexagon Panels and Shelfs – Reflector + Shelf-Lightcap Design #3Dprinting #3DThursday",
+    "source": "Adafruit",
+    "date": "2026-08-20",
+    "url": "https://blog.adafruit.com/2026/08/20/led-hexagon-panels-and-shelfs-reflector-shelf-lightcap-design-3dprinting-3dthursday/",
+    "summary": "Hexagon LED panels with a twist — includes shelf variants where clear/translucent &#8216;lightcaps&#8217; let the illuminated cell double as a display shelf. Cells print in any non-translucent material, windows in translucent white, shelf caps in clear or highly translucent. RGBIC LED strips recommended for per-cell color. YouTube demo on Engineericly&#8217;s channel. By FunkyArt Download files: [&#8230;]"
+  },
+  {
+    "title": "NEW PRODUCT – Adafruit GP8403 Breakout Board I2C DAC with 12V Booster + NVM – STEMMA QT / qwiic",
+    "source": "Adafruit",
+    "date": "2026-08-20",
+    "url": "https://blog.adafruit.com/2026/08/20/new-product-adafruit-gp8403-breakout-board-i2c-dac-with-12v-booster-nvm-stemma-qt-qwiic/",
+    "summary": "NEW PRODUCT &#8211; Adafruit GP8403 Breakout Board I2C DAC with 12V Booster+NVM &#8211; STEMMA QT/qwiic __________________________________________________________________________________________________ We stock a bunch of DAC boards here at the &#8216;fruit &#8211; these are chips that will take I2C or SPI and pop out an analog voltage. We have single channels like the MCP4725 and even quad channel like MCP4728, but one [&#8230;]"
+  },
+  {
+    "title": "John Park’s Workshop — LIVE TOMORROW CircuitPython Day 8/21/26",
+    "source": "Adafruit",
+    "date": "2026-08-20",
+    "url": "https://blog.adafruit.com/2026/08/20/john-parks-workshop-live-tomorrow-circuitpython-day-8-21-26/",
+    "summary": "There will be no John Park&#8217;s Workshop today &#8212; this week it&#8217;ll be on Friday, CircuitPython Day See you tomorrow! It&#8217;s JOHN PARK’S WORKSHOP — LIVE! &#8212; Coming up at 4pm ET / 1pm PT Friday, 8/21/26  LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects  CircuitPython Parsec Learn Guide Recap Tool Tips [&#8230;]"
+  },
+  {
     "title": "UPDATED PRODUCT – Adafruit Gemma Sequin Starter Pack",
     "source": "Adafruit",
     "date": "2026-08-20",
@@ -210,25 +231,53 @@
     "summary": "Finnish company Everypin has introduced PwrBlock 323, a programmable power supply designed to be integrated directly into automated test fixtures. The device provides a single non-isolated output from 1 to 32 V at up to 3 A, with a maximum output power of about 92 W when supplied by a 100-W USB-C Power Delivery source. [&#8230;]"
   },
   {
-    "title": "Free NASA e-books",
-    "source": "Adafruit",
+    "title": "Tom Clancy’s Rainbow Six® Siege Cuts Critical Toxic Voice Chat by 50% with Modulate’s ToxMod",
+    "source": "EE Journal",
     "date": "2026-08-20",
-    "url": "https://blog.adafruit.com/2026/08/20/free-nasa-books/",
-    "summary": "Space is undeniably cool, even though your chances of putting yourself or even your own rover on the Moon aren’t very good at the moment (but, of course, give it time). If you are looking for something to put on your e-reader and you are also interested in space, save your money and get some [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/tom-clancys-rainbow-six-siege-cuts-critical-toxic-voice-chat-by-50-with-modulates-toxmod/",
+    "summary": "Modulate, the frontier conversational voice intelligence company, today announced that Rainbow Six Siege has reduced critical toxic voice chat by 50% using ToxMod, Modulate&#8217;s AI-powered voice intelligence platform. Following a year of measurable improvements in player behavior and moderation outcomes, Ubisoft has renewed its partnership with Modulate to continue supporting healthier voice chat experiences across &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/tom-clancys-rainbow-six-siege-cuts-critical-toxic-voice-chat-by-50-with-modulates-toxmod/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Tom Clancy’s Rainbow Six® Siege Cuts Critical Toxic Voice Chat by 50% with Modulate’s ToxMod\"</span></a>"
   },
   {
-    "title": "Momo Creepy smile mask #3DThursday #3DPrinting",
-    "source": "Adafruit",
+    "title": "Allient Inc. Expands ElectroFlux Series Frameless Torque Motors With New Sizes",
+    "source": "EE Journal",
     "date": "2026-08-20",
-    "url": "https://blog.adafruit.com/2026/08/20/momo-creepy-smile-mask-3dthursday-3dprinting/",
-    "summary": "Every week we&#8217;ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Momo smile mask By cforms makerworld.com/en/models/1839027-creepy-smile-horror-mask-2-wearable Bambu X1C PolyMaker PLA 5hr 16mins X:176 Y:173 Z:67mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 102g 230mm/s Every Thursday is #3dthursday [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/allient-inc-expands-electroflux-series-frameless-torque-motors-with-new-sizes/",
+    "summary": "Allient Inc. (Nasdaq: ALNT) (“Allient” or the “Company”), a global designer and manufacturer of advanced specialty motor, Motion, Controls, and Power products and solutions for targeted industries and applications, has today announced the expansion of its ElectroFlux Series Frameless Torque Motors with the addition of new 25 mm and 38 mm sizes, supporting a wider &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/allient-inc-expands-electroflux-series-frameless-torque-motors-with-new-sizes/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Allient Inc. Expands ElectroFlux Series Frameless Torque Motors With New Sizes\"</span></a>"
   },
   {
-    "title": "A star racing at 15,000 miles per second tests Einstein theory of relativity",
-    "source": "Adafruit",
+    "title": "New interface simplifies management of Matter-powered smart homes",
+    "source": "EE Journal",
     "date": "2026-08-20",
-    "url": "https://blog.adafruit.com/2026/08/20/a-star-racing-at-15000-miles-per-second-tests-einstein-theory-of-relativity/",
-    "summary": "The Milky Way galaxy is anchored by a supermassive black hole named Sagittarius A*, that has a mass over four million times greater than the sun. While Sagittarius A* exerts an influence on everything inside its cosmic neighborhood, astronomers have detected one particular cosmic thrall that may offer a glimpse into some of the universe’s [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/new-interface-simplifies-management-of-matter-powered-smart-homes/",
+    "summary": "New services that enhance smart home experiences can now be developed and deployed faster, thanks to a new interface launched by the Broadband Forum. The “Matter Service API” is the first-ever standardized solution that gives the service provider a complete view of all Matter-powered devices on a smart home network regardless of the manufacturer. Instead &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/new-interface-simplifies-management-of-matter-powered-smart-homes/\">Read More &#8594;<span class=\"screen-reader-text\"> \"New interface simplifies management of Matter-powered smart homes\"</span></a>"
+  },
+  {
+    "title": "New cost-effective metallized polypropylene film capacitors for industrial and automotive applications",
+    "source": "EE Journal",
+    "date": "2026-08-20",
+    "url": "https://www.eejournal.com/industry_news/new-cost-effective-metallized-polypropylene-film-capacitors-for-industrial-and-automotive-applications/",
+    "summary": "Panasonic Industry Europe announces the release of its new ECWFJ series of metallized polypropylene film capacitors, developed to support cost-effective designs while maintaining a high level of safety and long-term reliability. The new series is aimed at engineers working across industrial and automotive power electronics (it is qualified to AEC-Q200 standards) who require dependable performance &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/new-cost-effective-metallized-polypropylene-film-capacitors-for-industrial-and-automotive-applications/\">Read More &#8594;<span class=\"screen-reader-text\"> \"New cost-effective metallized polypropylene film capacitors for industrial and automotive applications\"</span></a>"
+  },
+  {
+    "title": "TDK announces expansion of TDK SensEI edge intelligence portfolio with launch of edgeRX Pro sensor module",
+    "source": "EE Journal",
+    "date": "2026-08-20",
+    "url": "https://www.eejournal.com/industry_news/tdk-announces-expansion-of-tdk-sensei-edge-intelligence-portfolio-with-launch-of-edgerx-pro-sensor-module/",
+    "summary": "&#8211; The new edgeRX Pro sensor node expands the capabilities of TDK SensEI&#8217;s flagship edgeRX platform. &#8211; Enhanced performance delivers higher sampling frequency, stronger AI models, and broader sensor support. &#8211; Magnetometer and acoustic sensing unlock new opportunities for industrial monitoring and analytics. &#8211; Always-on operation is enabled through flexible wired or long-life battery power &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/tdk-announces-expansion-of-tdk-sensei-edge-intelligence-portfolio-with-launch-of-edgerx-pro-sensor-module/\">Read More &#8594;<span class=\"screen-reader-text\"> \"TDK announces expansion of TDK SensEI edge intelligence portfolio with launch of edgeRX Pro sensor module\"</span></a>"
+  },
+  {
+    "title": "Mouser Showcases Online Resource Center on Consumer Technology for Engineering Next-Generation Connected Devices",
+    "source": "EE Journal",
+    "date": "2026-08-20",
+    "url": "https://www.eejournal.com/industry_news/mouser-showcases-online-resource-center-on-consumer-technology-for-engineering-next-generation-connected-devices/",
+    "summary": "Mouser Electronics, Inc., the authorized global distributor with the newest electronic components and industrial automation products, highlights its new digital resource center for consumer technology, providing engineers with emerging technologies, reference designs, and implementation guidance to accelerate product development. This resource center supports faster prototyping, streamlined integration, and accelerated development of smarter consumer products. As &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/mouser-showcases-online-resource-center-on-consumer-technology-for-engineering-next-generation-connected-devices/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Mouser Showcases Online Resource Center on Consumer Technology for Engineering Next-Generation Connected Devices\"</span></a>"
+  },
+  {
+    "title": "Self-Publishing a Book Is Easier (and Harder) Than You Think (Part 2)",
+    "source": "EE Journal",
+    "date": "2026-08-20",
+    "url": "https://www.eejournal.com/article/self-publishing-a-book-is-easier-and-harder-than-you-think-part-2/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/08/max-0511-image-for-home-page-the-life-of-clive-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />As you may recall, we ended Part 1 of this two-part series in proud possession of our book manuscript in Word and our front and back covers as PNG files. All that remains is to actually publish the little scamp, a process with certain foibles that need to be overcome. In my case, I wished &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/self-publishing-a-book-is-easier-and-harder-than-you-think-part-2/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Self-Publishing a Book Is Easier (and Harder) Than You Think (Part 2)\"</span></a>"
   },
   {
     "title": "Pine64 hits pause on Linux devices due to RAM and eMMC shortage/high prices",
@@ -301,20 +350,6 @@
     "summary": "SECO S.p.A. (“SECO” or the “Company”), leader in edge AI solutions for industrial applications, today announces the introduction of its KarL4 contactless payment terminal to the United States market, marking a significant step in the international expansion of the Company’s payment technology portfolio. Following successful deployments in Germany, Austria and Switzerland, KarL4 is now being adopted in &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/seco-brings-karl4-contactless-payment-terminal-to-the-us-market/\">Read More &#8594;<span class=\"screen-reader-text\"> \"SECO brings KarL4 contactless payment terminal to the US market\"</span></a>"
   },
   {
-    "title": "Less Heat, More Speed: DELO Pushes Low Temperature Curing Further",
-    "source": "EE Journal",
-    "date": "2026-08-19",
-    "url": "https://www.eejournal.com/industry_news/less-heat-more-speed-delo-pushes-low-temperature-curing-further/",
-    "summary": "A new generation of super low temperature (SLT) curing adhesives enables reliable bonding in consumer electronics assembly at temperatures as low as 45°C, significantly below the range of conventional processes. The products are part of DELO’s DUALBOND LT family and cure in as little as 10 minutes at 60°C—or in one hour at 45°C. Traditional &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/less-heat-more-speed-delo-pushes-low-temperature-curing-further/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Less Heat, More Speed: DELO Pushes Low Temperature Curing Further\"</span></a>"
-  },
-  {
-    "title": "Aetina Launches Palm-Sized In-Vehicle Edge AI Systems with 4x GMSL2 for Demanding Mobility",
-    "source": "EE Journal",
-    "date": "2026-08-19",
-    "url": "https://www.eejournal.com/industry_news/aetina-launches-palm-sized-in-vehicle-edge-ai-systems-with-4x-gmsl2-for-demanding-mobility/",
-    "summary": "Aetina Corporation, a leading edge AI solution provider and an accelerator of edge AI infrastructure, today announced the DeviceEdge AIE-VN34/44 and AIE-VO24/34, Aetina’s first palm-sized in-vehicle edge AI systems, powered by NVIDIA Jetson Orin NX and NVIDIA Jetson Orin Nano modules. Delivering up to 100 TOPS of AI performance and supporting up to four GMSL2 &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/aetina-launches-palm-sized-in-vehicle-edge-ai-systems-with-4x-gmsl2-for-demanding-mobility/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Aetina Launches Palm-Sized In-Vehicle Edge AI Systems with 4x GMSL2 for Demanding Mobility\"</span></a>"
-  },
-  {
     "title": "Waveshare PiRack-M6F 6-node rack unit for Raspberry Pi 4/5 brings all ports to the front",
     "source": "CNX Software",
     "date": "2026-08-18",
@@ -341,41 +376,6 @@
     "date": "2026-08-18",
     "url": "https://www.embedded.com/brainchip-orama-aoi-target-ai-based-industrial-defect-detection/",
     "summary": "<p>BrainChip Inc. has partnered with Atlanta-based Orama.AOI to develop AI-based automated optical inspection solutions using BrainChip's Akida neuromorphic AI platform. Orama.AOI has retrained and optimized Akida models using its industrial inspection datasets, demonstrating the platform's application to production-oriented defect detection. Orama.AOI provides AI-powered automated optical inspection technology for industrial applications with current use cases including [...]</p>\n<p>The post <a href=\"https://www.embedded.com/brainchip-orama-aoi-target-ai-based-industrial-defect-detection/\">BrainChip, Orama.AOI Target AI-Based Industrial Defect Detection</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Stackpole’s RNCQ Thin Film Resistors Target High-Frequency Communications Infrastructure",
-    "source": "EE Journal",
-    "date": "2026-08-18",
-    "url": "https://www.eejournal.com/industry_news/stackpoles-rncq-thin-film-resistors-target-high-frequency-communications-infrastructure/",
-    "summary": "Stackpole Electronics’ RNCQ high-frequency thin film chip resistors provide predictable performance for communications infrastructure operating above 1 GHz, where the parasitic effects of conventional resistors can significantly impact circuit performance. The RNCQ Series is designed for RF and microwave applications, with frequency capability up to 70 GHz for the 0201 size and 50 GHz for &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/stackpoles-rncq-thin-film-resistors-target-high-frequency-communications-infrastructure/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Stackpole’s RNCQ Thin Film Resistors Target High-Frequency Communications Infrastructure\"</span></a>"
-  },
-  {
-    "title": "Rubicon Professional Services Surpasses One Gigawatt Of Battery Energy Storage Capacity As AI Accelerates Data Center Demand",
-    "source": "EE Journal",
-    "date": "2026-08-18",
-    "url": "https://www.eejournal.com/industry_news/rubicon-professional-services-surpasses-one-gigawatt-of-battery-energy-storage-capacity-as-ai-accelerates-data-center-demand/",
-    "summary": "As artificial intelligence (AI) fuels unprecedented demand for data centers and resilient electrical infrastructure, Rubicon Professional Services (RPS), a leading provider of engineering, procurement, and construction services for data centers and critical facilities, today announced it has surpassed one gigawatt (1 GW) of installed battery energy storage capacity across projects nationwide, reinforcing the company&#8217;s role as one &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/rubicon-professional-services-surpasses-one-gigawatt-of-battery-energy-storage-capacity-as-ai-accelerates-data-center-demand/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Rubicon Professional Services Surpasses One Gigawatt Of Battery Energy Storage Capacity As AI Accelerates Data Center Demand\"</span></a>"
-  },
-  {
-    "title": "Panasonic Thick Film Current Sense Resistors Enable Potential Cost Savings Up to 50% as an Alternative to Metal Shunts",
-    "source": "EE Journal",
-    "date": "2026-08-18",
-    "url": "https://www.eejournal.com/industry_news/panasonic-thick-film-current-sense-resistors-enable-potential-cost-savings-up-to-50-as-an-alternative-to-metal-shunts/",
-    "summary": "As AI infrastructure, industrial robotics, battery management systems (BMS) and advanced power electronics drive increasing power density and efficiency requirements, accurate current sensing is becoming increasingly critical. According to market analyses, the global current-sense resistor market is projected to expand at a CAGR of approximately 6% through the coming years, reflecting growing demand across battery management, motor control and &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/panasonic-thick-film-current-sense-resistors-enable-potential-cost-savings-up-to-50-as-an-alternative-to-metal-shunts/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Panasonic Thick Film Current Sense Resistors Enable Potential Cost Savings Up to 50% as an Alternative to Metal Shunts\"</span></a>"
-  },
-  {
-    "title": "Pixus Releases New MIL Rugged N310 Software Defined Radio With Extended Temperature Options",
-    "source": "EE Journal",
-    "date": "2026-08-18",
-    "url": "https://www.eejournal.com/industry_news/pixus-releases-new-mil-rugged-n310-software-defined-radio-with-extended-temperature-options/",
-    "summary": "Pixus Technologies, a provider of embedded computing and chassis solutions, has announced a MIL Ruggedized NI software defined radio (SDR) with extended temperature options. Now a part of Emerson, the NI SDR is based on the family of Ettus brand Universal Software Radio Peripherals (USRPs). Pixus ruggedizes various versions of NI SDRs in IP67 outdoor &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/pixus-releases-new-mil-rugged-n310-software-defined-radio-with-extended-temperature-options/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Pixus Releases New MIL Rugged N310 Software Defined Radio With Extended Temperature Options\"</span></a>"
-  },
-  {
-    "title": "Self-Publishing a Book Is Easier (and Harder) Than You Think (Part 1)",
-    "source": "EE Journal",
-    "date": "2026-08-18",
-    "url": "https://www.eejournal.com/article/self-publishing-a-book-is-easier-and-harder-than-you-think-part-1/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/08/max-0510-image-for-home-page-the-life-of-clive-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I have exciting news! Well, it’s exciting for me. As I pen these words, I’ve just self-published my first book: The Life of Clive. Now, this isn’t the first book I’ve had published (search for “Clive Maxfield” on Amazon if you want to see more), but it’s the first one I’ve published myself, a process &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/self-publishing-a-book-is-easier-and-harder-than-you-think-part-1/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Self-Publishing a Book Is Easier (and Harder) Than You Think (Part 1)\"</span></a>"
   },
   {
     "title": "SONOFF Hydro DUO review – A dual-zone BLE and Zigbee water valve tested with eWeLink and Home Assistant",
