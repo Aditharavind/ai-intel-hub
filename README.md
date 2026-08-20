@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-20 16:18 UTC
+Last Updated: 2026-08-20 17:16 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,9 +8,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-08-20 | How ChatGPT Work helps Stampli move ideas to market | OpenAI | [link](https://openai.com/index/stampli) |
+| 2026-08-20 | Up to 3.2x Faster Inference with LFM2.5-DSpark | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/lfm25-dspark) |
 | 2026-08-19 | Offering Zero Data Retention for frontier models | OpenAI | [link](https://openai.com/index/offering-zero-data-retention-for-frontier-models) |
 | 2026-08-19 | Replit expands access to software creation with GPT-5.6 Luna | OpenAI | [link](https://openai.com/index/replit) |
-| 2026-08-19 | LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/qad) |
 | 2026-08-18 | ChatGPT Ads expands across Europe | OpenAI | [link](https://openai.com/index/chatgpt-ads-expands-across-europe) |
 | 2026-08-18 | Strengthening democratic oversight in national security | OpenAI | [link](https://openai.com/index/strengthening-democratic-oversight-in-national-security) |
 | 2026-08-18 | Partnering with CodeAI to prepare the first AI generation | OpenAI | [link](https://openai.com/index/partnering-with-codeai) |
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-20 | 3D Printering: Why is my PLA so Brittle? | Hackaday | [link](https://hackaday.com/2026/08/20/3d-printering-why-is-my-pla-so-brittle/) |
 | 2026-08-20 | Miniaturizing the Atari 2600 Console | Hackaday | [link](https://hackaday.com/2026/08/20/miniaturizing-the-atari-2600-console/) |
 | 2026-08-20 | An Early History of Space Stations: The Brick Moon Made Real | Hackaday | [link](https://hackaday.com/2026/08/20/an-early-history-of-space-stations-the-brick-moon-made-real/) |
 | 2026-08-20 | Teardown Shows Low-Fi Microphone is Surprisingly Sophisticated | Hackaday | [link](https://hackaday.com/2026/08/20/teardown-shows-low-fi-microphone-is-surprisingly-sophisticated/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-20 | Why are people suddenly adding Apple Lightning cables to Raspberry Pi Pico 2 boards? | CNX Software | [link](https://www.cnx-software.com/2026/08/20/why-are-people-suddenly-adding-apple-lightning-cables-to-raspberry-pi-pico-2-boards/) |
 | 2026-08-20 | Quectel SH602FA and SE505FE smart modules bring Android 16 to 4G LTE and 5G IoT devices | CNX Software | [link](https://www.cnx-software.com/2026/08/20/quectel-sh602fa-and-se505fe-smart-modules-bring-android-16-to-4g-lte-and-5g-iot-devices/) |
 | 2026-08-20 | KAGA FEI ES4L15MA1 is a ridiculously small, ready-to-use BLE 6.0 module based on Nordic nRF54L15 SoC | CNX Software | [link](https://www.cnx-software.com/2026/08/20/kaga-fei-es4l15ma1-is-a-ridiculously-small-ready-to-use-ble-6-0-module-based-on-nordic-nrf54l15-soc/) |
-| 2026-08-20 | StarFive Dubhe-100 – A 64-bit, RVA23-compliant RISC-V core for high-performance applications | CNX Software | [link](https://www.cnx-software.com/2026/08/20/starfive-dubhe-100-a-64-bit-rva23-compliant-risc-v-core-for-high-performance-applications/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -92,13 +92,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 3033 | Python | 1213.3 | [link](https://github.com/NVIDIA/skills) |
-| mosaico-labs/mosaico | 934 | Python | 373.7 | [link](https://github.com/mosaico-labs/mosaico) |
+| mosaico-labs/mosaico | 935 | Python | 374.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63458 | Python | 25383.3 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15713 | C++ | 6285.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15714 | C++ | 6285.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14618 | C++ | 5847.3 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11329 | Rust | 4531.7 | [link](https://github.com/rerun-io/rerun) |
-| RLinf/RLinf | 4586 | Python | 1834.5 | [link](https://github.com/RLinf/RLinf) |
+| rerun-io/rerun | 11330 | Rust | 4532.1 | [link](https://github.com/rerun-io/rerun) |
+| RLinf/RLinf | 4587 | Python | 1834.9 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3886 | Rust | 1554.5 | [link](https://github.com/dora-rs/dora) |
 | RoboTwin-Platform/RoboTwin | 2749 | Python | 1099.7 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
 
