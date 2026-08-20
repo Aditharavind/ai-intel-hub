@@ -1,5 +1,14 @@
 [
   {
+    "model": "Chipaipai/tcc-core-real-robot-policies",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Chipaipai/tcc-core-real-robot-policies",
+    "date": "2026-08-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "fanzh03/robotwin_fewshot",
     "downloads": 0,
     "likes": 0,
@@ -63,6 +72,24 @@
     "score": 0.1
   },
   {
+    "model": "kesnick/vlm-vla-test",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kesnick/vlm-vla-test",
+    "date": "2026-08-20",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-20",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -76,15 +103,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-20",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-20",
     "keyword": "vla",
     "score": 0.1
@@ -144,6 +162,15 @@
     "score": 0.1
   },
   {
+    "model": "jaeikkim/fr3-cube-full10k-diffusion-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jaeikkim/fr3-cube-full10k-diffusion-policy",
+    "date": "2026-08-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "hiskiv/cosmos-policy-lam-v2",
     "downloads": 0,
     "likes": 0,
@@ -198,15 +225,6 @@
     "score": 0.1
   },
   {
-    "model": "milab-robot/alm1-0818-amore",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/milab-robot/alm1-0818-amore",
-    "date": "2026-08-19",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "muniker/vla-jepa-so101-sort-210base-65ft-unfrozen-50steps",
     "downloads": 0,
     "likes": 0,
@@ -229,15 +247,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/vlabki/rr-tw3-bc-ppo-speed-v3-peak-last",
-    "date": "2026-08-19",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "muniker/vla-jepa-so101-sort-210base-65ft-frozen-vision",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/muniker/vla-jepa-so101-sort-210base-65ft-frozen-vision",
     "date": "2026-08-19",
     "keyword": "vla",
     "score": 0.1
@@ -448,15 +457,6 @@
     "date": "2026-08-18",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "newuser8855/aham-cc-policy-qwen2.5-1.5b",
-    "downloads": 1,
-    "likes": 0,
-    "url": "https://huggingface.co/newuser8855/aham-cc-policy-qwen2.5-1.5b",
-    "date": "2026-08-18",
-    "keyword": "policy",
-    "score": 0.4
   },
   {
     "model": "Mayank022/Transformer-Vision-From-Image-Video-to-World-Models-and-Robotics-Book",

@@ -61,33 +61,43 @@
   },
   {
     "repo": "sou350121/VLA-Handbook",
-    "stars": 525,
+    "stars": 526,
     "language": "HTML",
     "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
     "url": "https://github.com/sou350121/VLA-Handbook",
     "date": "2026-08-20",
     "topic": "robot-learning",
-    "score": 210.1
+    "score": 210.5
   },
   {
     "repo": "baidu-baige/LoongForge",
-    "stars": 440,
+    "stars": 441,
     "language": "Python",
     "description": "A unified, high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.",
     "url": "https://github.com/baidu-baige/LoongForge",
     "date": "2026-08-20",
     "topic": "vla",
-    "score": 176.1
+    "score": 176.5
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6185,
+    "stars": 6187,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-20",
     "topic": "world-model",
-    "score": 2474.1
+    "score": 2474.9
+  },
+  {
+    "repo": "NucleoidAI/Nucleoid",
+    "stars": 767,
+    "language": "Rust",
+    "description": "Logic Language for LLMs 🌱🐋 Build World Models 🌍",
+    "url": "https://github.com/NucleoidAI/Nucleoid",
+    "date": "2026-08-20",
+    "topic": "world-model",
+    "score": 306.9
   },
   {
     "repo": "NVlabs/ProtoMotions",
@@ -191,13 +201,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13694,
+    "stars": 13696,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 5477.7
+    "score": 5478.5
   },
   {
     "repo": "rerun-io/rerun",
@@ -341,13 +351,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3264,
+    "stars": 3266,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-18",
     "topic": "embodied-ai",
-    "score": 1305.7
+    "score": 1306.5
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -371,13 +381,13 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 3025,
+    "stars": 3026,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-17",
     "topic": "physical-ai",
-    "score": 1210.1
+    "score": 1210.5
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -441,13 +451,13 @@
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
-    "stars": 3166,
+    "stars": 3167,
     "language": "HTML",
     "description": "BOM, STL files and instructions for PAROL6 3D printed robot arm",
     "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
     "date": "2026-08-17",
     "topic": "lerobot",
-    "score": 1266.5
+    "score": 1266.9
   },
   {
     "repo": "Tavish9/any4lerobot",
@@ -508,16 +518,6 @@
     "date": "2026-08-15",
     "topic": "vla",
     "score": 959.7
-  },
-  {
-    "repo": "NucleoidAI/Nucleoid",
-    "stars": 767,
-    "language": "Rust",
-    "description": "Logic Language for LLMs 🌱🐋 Build World Models 🌍",
-    "url": "https://github.com/NucleoidAI/Nucleoid",
-    "date": "2026-08-15",
-    "topic": "world-model",
-    "score": 306.9
   },
   {
     "repo": "datawhalechina/learn-world-model",
@@ -651,13 +651,13 @@
   },
   {
     "repo": "dexmal/dexbotic",
-    "stars": 1371,
+    "stars": 1374,
     "language": "Python",
     "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
     "url": "https://github.com/dexmal/dexbotic",
     "date": "2026-08-06",
     "topic": "vla",
-    "score": 548.5
+    "score": 549.7
   },
   {
     "repo": "zju3dv/INTACT-JEPA",
@@ -741,13 +741,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15530,
+    "stars": 15531,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6212.1
+    "score": 6212.5
   },
   {
     "repo": "aalmuzairee/squint",
