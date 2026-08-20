@@ -1,5 +1,50 @@
 [
   {
+    "model": "Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp",
+    "downloads": 9,
+    "likes": 0,
+    "url": "https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp",
+    "date": "2026-08-20",
+    "keyword": "robot",
+    "score": 2.8
+  },
+  {
+    "model": "Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp",
+    "downloads": 64,
+    "likes": 0,
+    "url": "https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp",
+    "date": "2026-08-20",
+    "keyword": "robot",
+    "score": 19.3
+  },
+  {
+    "model": "Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp",
+    "date": "2026-08-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp",
+    "date": "2026-08-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "B111ue/fcl-vla-functional-support-canary",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
+    "date": "2026-08-20",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "zolkin/robot_rl",
     "downloads": 0,
     "likes": 1,
@@ -72,55 +117,19 @@
     "score": 0.1
   },
   {
-    "model": "GEONWOO22/vla-robotics-modified",
+    "model": "muniker/vla-jepa-so101-sort-210base-65ft-unfrozen-50steps",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/GEONWOO22/vla-robotics-modified",
-    "date": "2026-08-19",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "sun-robot/pi05_amazinghand_rps_meanstd",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sun-robot/pi05_amazinghand_rps_meanstd",
-    "date": "2026-08-19",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "chomeed/mimicgen_square_d0_mtdit_flow_40k_robotstate9",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/chomeed/mimicgen_square_d0_mtdit_flow_40k_robotstate9",
-    "date": "2026-08-19",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "chomeed/mimicgen_square_d0_224x224_mtdit_flow_40k_robotstate9",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/chomeed/mimicgen_square_d0_224x224_mtdit_flow_40k_robotstate9",
-    "date": "2026-08-19",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "B111ue/fcl-vla-functional-support-canary",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
+    "url": "https://huggingface.co/muniker/vla-jepa-so101-sort-210base-65ft-unfrozen-50steps",
     "date": "2026-08-19",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "Grigorij/PaP_duck_vla_jepa",
+    "model": "Grigorij/PaP_objects_sum_vla_jepa",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Grigorij/PaP_duck_vla_jepa",
+    "url": "https://huggingface.co/Grigorij/PaP_objects_sum_vla_jepa",
     "date": "2026-08-19",
     "keyword": "vla",
     "score": 0.1
@@ -144,10 +153,10 @@
     "score": 0.1
   },
   {
-    "model": "Grigorij/PaP_objects_sum_vla_jepa",
+    "model": "Grigorij/PaP_duck_vla_jepa",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Grigorij/PaP_objects_sum_vla_jepa",
+    "url": "https://huggingface.co/Grigorij/PaP_duck_vla_jepa",
     "date": "2026-08-19",
     "keyword": "vla",
     "score": 0.1
@@ -168,6 +177,15 @@
     "url": "https://huggingface.co/muniker/vla-jepa-so101-sort-210base-65ft-frozen-vision",
     "date": "2026-08-19",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "GEONWOO22/vla-robotics-modified",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/GEONWOO22/vla-robotics-modified",
+    "date": "2026-08-19",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -196,15 +214,6 @@
     "date": "2026-08-19",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step75000",
-    "downloads": 3,
-    "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step75000",
-    "date": "2026-08-19",
-    "keyword": "vla",
-    "score": 1.0
   },
   {
     "model": "novastar111/sokoban_easy_cot_chunk_k3_world_model",

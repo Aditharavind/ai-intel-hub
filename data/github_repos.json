@@ -1,5 +1,15 @@
 [
   {
+    "repo": "commaai/openpilot",
+    "stars": 63452,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-08-20",
+    "topic": "robotics",
+    "score": 25380.9
+  },
+  {
     "repo": "mosaico-labs/mosaico",
     "stars": 925,
     "language": "Python",
@@ -8,16 +18,6 @@
     "date": "2026-08-19",
     "topic": "physical-ai",
     "score": 370.1
-  },
-  {
-    "repo": "commaai/openpilot",
-    "stars": 63451,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-08-19",
-    "topic": "robotics",
-    "score": 25380.5
   },
   {
     "repo": "NaiboWang/EasySpider",
@@ -51,13 +51,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14598,
+    "stars": 14599,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 5839.3
+    "score": 5839.7
   },
   {
     "repo": "earthtojake/text-to-cad",
@@ -71,13 +71,13 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11323,
+    "stars": 11324,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 4529.3
+    "score": 4529.7
   },
   {
     "repo": "RLinf/RLinf",
@@ -341,13 +341,13 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 3018,
+    "stars": 3020,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-17",
     "topic": "physical-ai",
-    "score": 1207.3
+    "score": 1208.1
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -498,6 +498,16 @@
     "date": "2026-08-15",
     "topic": "world-model",
     "score": 306.9
+  },
+  {
+    "repo": "datawhalechina/learn-world-model",
+    "stars": 369,
+    "language": "TypeScript",
+    "description": "Learn everything about world model",
+    "url": "https://github.com/datawhalechina/learn-world-model",
+    "date": "2026-08-15",
+    "topic": "world-model",
+    "score": 147.7
   },
   {
     "repo": "awslabs/awsome-distributed-ai",
@@ -830,6 +840,16 @@
     "score": 142.1
   },
   {
+    "repo": "OpenEnvision/WorldFoundry",
+    "stars": 309,
+    "language": "Python",
+    "description": "Unified World Model Inference & Evaluation Infrastructure",
+    "url": "https://github.com/OpenEnvision/WorldFoundry",
+    "date": "2026-07-22",
+    "topic": "world-model",
+    "score": 123.7
+  },
+  {
     "repo": "arpitg1304/forge",
     "stars": 170,
     "language": "Python",
@@ -848,25 +868,5 @@
     "date": "2026-07-22",
     "topic": "lerobot",
     "score": 12.1
-  },
-  {
-    "repo": "nv-tlabs/lyra",
-    "stars": 2247,
-    "language": "Python",
-    "description": "Project Lyra: Open Generative 3D World Models",
-    "url": "https://github.com/nv-tlabs/lyra",
-    "date": "2026-07-20",
-    "topic": "world-model",
-    "score": 898.9
-  },
-  {
-    "repo": "OpenDriveLab/WorldEngine",
-    "stars": 488,
-    "language": "Python",
-    "description": "WorldEngine: Towards the Era of Post-Training for Autonomous Driving",
-    "url": "https://github.com/OpenDriveLab/WorldEngine",
-    "date": "2026-07-20",
-    "topic": "world-model",
-    "score": 195.3
   }
 ]
