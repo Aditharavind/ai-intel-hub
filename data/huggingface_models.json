@@ -9,6 +9,15 @@
     "score": 0.1
   },
   {
+    "model": "sun-robot/pi05_amazinghand_rps_meanstd",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sun-robot/pi05_amazinghand_rps_meanstd",
+    "date": "2026-08-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp",
     "downloads": 0,
     "likes": 0,
@@ -45,10 +54,46 @@
     "score": 19.3
   },
   {
+    "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
+    "date": "2026-08-20",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "B111ue/fcl-vla-functional-support-canary",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
+    "date": "2026-08-20",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vlabki/rr-tw3-bc-ppo-speed-v3-peak-v2-best",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vlabki/rr-tw3-bc-ppo-speed-v3-peak-v2-best",
+    "date": "2026-08-20",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-20",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Grigorij/PaP_duck_vla_jepa",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Grigorij/PaP_duck_vla_jepa",
     "date": "2026-08-20",
     "keyword": "vla",
     "score": 0.1
@@ -67,15 +112,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-20",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
     "date": "2026-08-20",
     "keyword": "vla",
     "score": 0.1
@@ -162,15 +198,6 @@
     "score": 0.1
   },
   {
-    "model": "DouaaKDR/ROBOT_LEARNING_CHECKPOINTS",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/DouaaKDR/ROBOT_LEARNING_CHECKPOINTS",
-    "date": "2026-08-19",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "muniker/vla-jepa-so101-sort-210base-65ft-unfrozen-50steps",
     "downloads": 0,
     "likes": 0,
@@ -189,15 +216,6 @@
     "score": 0.1
   },
   {
-    "model": "Grigorij/PaP_duck_vla_jepa",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Grigorij/PaP_duck_vla_jepa",
-    "date": "2026-08-19",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "vlabki/rr-tw3-bc-ppo-speed-v3-peak-last",
     "downloads": 0,
     "likes": 0,
@@ -211,24 +229,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/muniker/vla-jepa-so101-sort-210base-65ft-frozen-vision",
-    "date": "2026-08-19",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "GEONWOO22/vla-robotics-modified",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/GEONWOO22/vla-robotics-modified",
-    "date": "2026-08-19",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step80000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/VLA-JEPA-3B-SO101-Mdrift-statpatch-DLounge80Office20-step80000",
     "date": "2026-08-19",
     "keyword": "vla",
     "score": 0.1
@@ -321,6 +321,15 @@
     "url": "https://huggingface.co/Neutrollized/act_so101_legoinbowl_policy_fp_20k_twf_v0",
     "date": "2026-08-19",
     "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "GEONWOO22/vla-robotics-modified",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/GEONWOO22/vla-robotics-modified",
+    "date": "2026-08-19",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
