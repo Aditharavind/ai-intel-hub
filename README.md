@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-20 08:21 UTC
+Last Updated: 2026-08-20 09:20 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -52,13 +52,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-20 | Reading isn’t Rocket Science… But In This Case… | Hackaday | [link](https://hackaday.com/2026/08/20/reading-isnt-rocket-science-but-in-this-case/) |
 | 2026-08-20 | Quick Share Implemented On A Kindle | Hackaday | [link](https://hackaday.com/2026/08/19/quick-share-implemented-on-a-kindle/) |
 | 2026-08-20 | NASA Tests Featherweight Radar Antenna for SkyFall Mars Helicopters | Hackaday | [link](https://hackaday.com/2026/08/19/nasa-tests-featherweight-radar-antenna-for-skyfall-mars-helicopters/) |
+| 2026-08-20 | Why are people suddenly adding Apple Lightning cables to Raspberry Pi Pico 2 boards? | CNX Software | [link](https://www.cnx-software.com/2026/08/20/why-are-people-suddenly-adding-apple-lightning-cables-to-raspberry-pi-pico-2-boards/) |
 | 2026-08-20 | Quectel SH602FA and SE505FE smart modules bring Android 16 to 4G LTE and 5G IoT devices | CNX Software | [link](https://www.cnx-software.com/2026/08/20/quectel-sh602fa-and-se505fe-smart-modules-bring-android-16-to-4g-lte-and-5g-iot-devices/) |
 | 2026-08-20 | KAGA FEI ES4L15MA1 is a ridiculously small, ready-to-use BLE 6.0 module based on Nordic nRF54L15 SoC | CNX Software | [link](https://www.cnx-software.com/2026/08/20/kaga-fei-es4l15ma1-is-a-ridiculously-small-ready-to-use-ble-6-0-module-based-on-nordic-nrf54l15-soc/) |
 | 2026-08-20 | StarFive Dubhe-100 – A 64-bit, RVA23-compliant RISC-V core for high-performance applications | CNX Software | [link](https://www.cnx-software.com/2026/08/20/starfive-dubhe-100-a-64-bit-rva23-compliant-risc-v-core-for-high-performance-applications/) |
 | 2026-08-20 | UK startup Callosum raises $100m | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/uk-startup-callosum-raises-100m-2026-08/) |
 | 2026-08-20 | Birmingham researchers create multi-responsive gel | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/birmingham-researchers-create-multi-responsive-gel-2026-08/) |
 | 2026-08-20 | Sensor detects users of smart glasses, earphones and AR/VR devices | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/sensor-detects-users-of-smart-glasses-earphones-and-ar-vr-devices-2026-08/) |
-| 2026-08-20 | Machine vision for robots, vehicles and construction equipment | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/machine-vision-for-robots-vehicles-and-construction-equipment-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -79,33 +79,32 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-08-20 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 | 2026-08-20 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
-| 2026-08-20 | sun-robot/pi05_amazinghand_rps_meanstd | 0 | 0 | [link](https://huggingface.co/sun-robot/pi05_amazinghand_rps_meanstd) |
-| 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp | 0 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp) |
-| 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp | 0 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp) |
-| 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp | 9 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp) |
-| 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp | 64 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp) |
+| 2026-08-20 | sun-robot/pi05_amazinghand_rps_meanstd | 12 | 0 | [link](https://huggingface.co/sun-robot/pi05_amazinghand_rps_meanstd) |
+| 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp | 10 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp) |
+| 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp | 8 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp) |
+| 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp | 33 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp) |
+| 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp | 115 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp) |
 | 2026-08-20 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
 | 2026-08-20 | kesnick/vlm-vla-test | 0 | 0 | [link](https://huggingface.co/kesnick/vlm-vla-test) |
-| 2026-08-20 | sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-20 | sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 9 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63455 | Python | 25382.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63456 | Python | 25382.5 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15713 | C++ | 6285.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14604 | C++ | 5841.7 | [link](https://github.com/google-deepmind/mujoco) |
-| dora-rs/dora | 3885 | Rust | 1554.1 | [link](https://github.com/dora-rs/dora) |
+| dora-rs/dora | 3886 | Rust | 1554.5 | [link](https://github.com/dora-rs/dora) |
 | Octoday-Hub/Embodied-AI | 2256 |  | 902.5 | [link](https://github.com/Octoday-Hub/Embodied-AI) |
 | sou350121/VLA-Handbook | 526 | HTML | 210.5 | [link](https://github.com/sou350121/VLA-Handbook) |
-| baidu-baige/LoongForge | 441 | Python | 176.5 | [link](https://github.com/baidu-baige/LoongForge) |
-| vllm-project/vllm-omni | 6187 | Python | 2474.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| baidu-baige/LoongForge | 442 | Python | 176.9 | [link](https://github.com/baidu-baige/LoongForge) |
+| vllm-project/vllm-omni | 6189 | Python | 2475.7 | [link](https://github.com/vllm-project/vllm-omni) |
 | NucleoidAI/Nucleoid | 767 | Rust | 306.9 | [link](https://github.com/NucleoidAI/Nucleoid) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
-| 2026-08-19 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1hiM1VrQ3VmZkp3TWRpaXpqVW93ZW9qN3NRdFJWcEdOZU9jTnFvb25ZY3BoVkhIMVo3NjZXYkxEbnlHU0stS1lsM042aWhvR0JNR0Z4RDV5c1hJWnprNmhzalRSUEdJSG5xdmtQWV9TcU5DV3ZHeXdoWkVuc01hMFA0d0ZZaW5EeVFFdlJ1OWd2UUlsNkt4RHVrdmxJYjJzelVjTE05eGtxV0RQcmpmdzdtX1NqZw?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDJ3RXRVazJTNjZVUDg5SjZwWk5YdS13Snd5MVlwUnV5MVpsLWxBUjcyZ0dWcXVmQ3hQUFgzZ2RQbk5WUkVTUjV6UnRGZ0JpTU9lTU4zbFVSUG5wQjlDN3JvSDBpNFBYYzhQWkdGS3MyMHJ1bG9ab09GdUE0MDRINWhseDd3emZzWDNNM0JwUHVJTmFZX3N2d3k4M2Z4eU9IaHdrLU1MRllfYk83WkM5UWNLbVMxdVVXVjRGd2UwUQ?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVVGZ3Q4aW0tRF9FZm9UN04xSlNudWRHcVFVX3ljNTJ1YlBfcF9RQ3hTSW5zQkpSZWJHeEpramdGX0VZcGFXWTlPYWczQlg3anhtSHJFbGJCVzU3dFlYSy1LX0hOc3FjUUtNUWxKbnR1Ty1PbnZaM3BTSjc0TVJlQWtGb05mbFJuZ2o2T2FvVDlzRm5UMG4zUWpTZm41ZDVtcmZtLXYtWUZCbzFFSU9Sb1dzbTFraEZUSDVsZXpsN3ZzREHSAcMBQVVfeXFMT0Y4bkNZdW9FdEJQYy0tRlplcGVzYjNfd0J0RjVjS2N5X0NFMVBuWmwxemNDaHpmdXlCdWx3TzNWVENSN2E5eUNibHB5aFkxMGxLdGRTS1JkWXdOZ1lvZjNpWDliS0FlaXJRcF8xWUlYQTlUa0d4MUlaRHRaQnhRNlYtZHhlTDFURGRXbERBTklJYndjalFrRXZibjFYUzl4eURXeno3dkVkZWFWMGVtTnRaNnA5UGJueWZDbUxYWWVPU1FV?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWNGUDJYMjkyWll1LXFiS1dRVWZ5Z05ydFNMSE1iY29Bd215b01sYmlTQ3ZZX3FUTVp3ZnQzN2JjSmg1cTZGd1NaY3ppQ1F2d3BYWFNsdHI3SkZWZjdMb0VOd0ZNeHViNDBVYW1FNzZCQjFVbm5ITmtRSjhoR0FJSHFqdFphRzdjMFplNVpzbzRrcFJJdDdWSFQtT1V1UXV6MHJ6a1FlX3V5WjhVT1JqeVZjenBsTGlZVE5JZw?oc=5) |
@@ -114,7 +113,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVU90emVCM05SQ0c3bXFtYk9TVnF6X0o4a0QtMHFvNjROZXpUVlpqME9LeXdLREVWc3ZFQm8wd1Zub2RhQmx3dVluSjJkQXR3M1pqcGRWeUZvaVZZZTBpcm43U0ZfSDcxV3JwdTloRFpVdk9zenBWMWExRDAwQUhHS2NybXlUNFNBYXRnNkgtWDJ4ZVZkMTFVX3JTc1dubF9sdkp3ejkyUnplQ3ozOGNMQVFIQkVPOFVMSmVMVmlCNmJuWk1OcmM5RnA1cjR5SmlyUkRJbQ?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1YwZzNETk9CSENZVDNEUTktbXZ6akFKeVBPcm1SRVNDNXZtanRWc21TbEY0M21GTTRpRjFoREZtRjAwVWtSWXduRzJJU3RRbDIyVGVHY0JkMlh0QktXblNDSFc4WF9CbjRXMmEtZGZWNmxoSThtMEExQm9VeFJVYnlHYTRoeXFMVU5YTmo3S3J5X0ZPMjRDdU45dUdsclhDMDBWNU5zT05uNlJiQ2VFQzJBdkM?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxOdFBQcW4tbXhBREdlcHVPQnp3aEZ0U0Z6UHItQXNwUVVDdF9NVUthdW92Yy1zZC1tTnN1SnpIRFQtaS1Gak5oOEU3YURJZzY3X043a1VZWEVJQjlFeGU2Y3lZcjM3X0RidEFGZjN6OGxhZzVIVzdlOFBzbnFoOTRsNnVnZ0VPOHpfZ0FCanZOU2tpdEJyVU1hMVpiZmd6c0hrbTJlX3JUQTZQMkJNQkE?oc=5) |
-| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ2dPUHRNNGR5SWJ3QlA1Z251QWhxRi03NHJid3dKQlNZU05LVnNvakRwWFhKdmpSUkhTRkhRTk9BRkVrT0dMRUtiZjJwU0pyODY3UkJrQWxTYmJwRVNWWWtOTTF0Y2tZSEFHbVB0Y3Z0LXRicVdnakJzV2NnNkdYTnpBNURSbWZkODB0eDFqQ2NZN0NyNm80WUxEQnl1ZE01c3B3UDM4UHhvX3dfcVlQZUxmaEFhcnk5Q2UyVXUwZzl5djhXX293T0VXaw?oc=5) |
+| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ1JsSlczNUwzaENvLVlEamtJM3hRVXFzSC1LY2RLaTY0NXhydmlIYUtKQnE5QU1NRkw5MWRyOU1ZWXdYMnRRUmpJcTV3emhuLTl6TUdXUTJNcVBFeFBWVjNUMXpSOWg2Z3k5RC0tU2w2dFhVLW1zWEI2MWxYX3RySm94Z3Z1V0JKN1IyUU1UNnRhaDRDbVhJUlNPelJlNTcyVzdEMWcyNWhtRlRwTzFaT0trSGg1a3I5VlRBalZ0VjhGSHRtQ2UxS3J2NXFFZXU4QWlQbzV0bF8?oc=5) |
+| 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0U2OVlyZEFWVkZ4WGFMTHhDZzV3bzA2WFRzaWtYZl9paUdPNFB5bDl5aFM4Slllc2lKTU0xdjVIUTA1V3Ewc2FRTS05NVlSRGtZWXBBcVI0SWhrTUs1VTloQnhwbC1aZ25PekVkVGQ5ejQ3R3lOb1Q0Si1VX1ZkaE0yUTlJTGpoN0dHcDZmSXBtWGxEZGRlOHhZWlo2OEpJWHpkcUdwbUZtQQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
