@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-20 14:22 UTC
+Last Updated: 2026-08-20 15:21 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -58,7 +58,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-20 | Quectel SH602FA and SE505FE smart modules bring Android 16 to 4G LTE and 5G IoT devices | CNX Software | [link](https://www.cnx-software.com/2026/08/20/quectel-sh602fa-and-se505fe-smart-modules-bring-android-16-to-4g-lte-and-5g-iot-devices/) |
 | 2026-08-20 | KAGA FEI ES4L15MA1 is a ridiculously small, ready-to-use BLE 6.0 module based on Nordic nRF54L15 SoC | CNX Software | [link](https://www.cnx-software.com/2026/08/20/kaga-fei-es4l15ma1-is-a-ridiculously-small-ready-to-use-ble-6-0-module-based-on-nordic-nrf54l15-soc/) |
 | 2026-08-20 | StarFive Dubhe-100 – A 64-bit, RVA23-compliant RISC-V core for high-performance applications | CNX Software | [link](https://www.cnx-software.com/2026/08/20/starfive-dubhe-100-a-64-bit-rva23-compliant-risc-v-core-for-high-performance-applications/) |
-| 2026-08-20 | How to choose connectors for eVTOL aircraft | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/how-to-choose-connectors-for-evtol-aircraft-2026-08/) |
+| 2026-08-20 | Fable: The Anti-Vision CEO | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-anti-vision-ceo-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-20 | puppet-robotics/golf-model-mcap-test | 12 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-mcap-test) |
 | 2026-08-20 | ShuiJie/pi0.5_robotwin2 | 0 | 0 | [link](https://huggingface.co/ShuiJie/pi0.5_robotwin2) |
 | 2026-08-20 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 | 2026-08-20 | SereneC/AHA-WAM-RoboTwin2.0 | 0 | 0 | [link](https://huggingface.co/SereneC/AHA-WAM-RoboTwin2.0) |
@@ -86,21 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp | 10 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp) |
 | 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp | 8 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp) |
 | 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp | 33 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp) |
-| 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp | 115 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3031 | Python | 1212.5 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3032 | Python | 1212.9 | [link](https://github.com/NVIDIA/skills) |
+| mosaico-labs/mosaico | 934 | Python | 373.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63458 | Python | 25383.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15712 | C++ | 6284.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14614 | C++ | 5845.7 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14616 | C++ | 5846.5 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 11329 | Rust | 4531.7 | [link](https://github.com/rerun-io/rerun) |
 | RLinf/RLinf | 4585 | Python | 1834.1 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3885 | Rust | 1554.1 | [link](https://github.com/dora-rs/dora) |
+| dora-rs/dora | 3886 | Rust | 1554.5 | [link](https://github.com/dora-rs/dora) |
 | RoboTwin-Platform/RoboTwin | 2749 | Python | 1099.7 | [link](https://github.com/RoboTwin-Platform/RoboTwin) |
-| Octoday-Hub/Embodied-AI | 2256 |  | 902.5 | [link](https://github.com/Octoday-Hub/Embodied-AI) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -108,13 +108,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-20 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxOLU9kZTRhZG95aFFQLU51bFN0elpRTUJMVVNRR1BsSGw1MlJRNDYweFdYdG5JNWtKQTJCQ1hNNGF5NmF4Wks4czN1NFNqcjFFOHJ5d1R2X0tPUTEzV0NjbXI1bFVFN3JTOXhSOXBkeUxHVEFPN3VFRVl1UnFqeGdreml6WDBYWTdjTWdnemttWks3M2Rv?oc=5) |
 | 2026-08-20 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGZiazk1S2hUWVk4QXlSY3FldjJ6VEhGS3FGUFhUbWRtdnFXUjdYRnp0YUZZMGNXNHUyaUxvazNsWGdrZFFGYllmNXJ5bUk3WDd6TlJqX2F1c1hSN3I4dDRsNVdabW1sOE0wRmRySWpjUWlkeGF0VlhDalF4bDhrd3JndkZfM2pJU1BQYU41UEF3U0ZlUVF5eTFfdE9oTl91WlJITQ?oc=5) |
 | 2026-08-20 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOU085RVRCdl9qV0pGcmdYWVZDdlFaQ2ZEMG54WmhHaWYtZUY1MWlJYlB6T2x5Z2trbENPSmZ6blhfbTFqNlNYNHJSYzFIRXBKbEtVVmNxaWItSGFnYkw5VExIVFVoUGoxNlFVM3phLVJCcENqcldRWERCaFpCR28xbTRfUk9PbVR6TUU4TTExR0c2ZlFtbExEYg?oc=5) |
+| 2026-08-19 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1hiM1VrQ3VmZkp3TWRpaXpqVW93ZW9qN3NRdFJWcEdOZU9jTnFvb25ZY3BoVkhIMVo3NjZXYkxEbnlHU0stS1lsM042aWhvR0JNR0Z4RDV5c1hJWnprNmhzalRSUEdJSG5xdmtQWV9TcU5DV3ZHeXdoWkVuc01hMFA0d0ZZaW5EeVFFdlJ1OWd2UUlsNkt4RHVrdmxJYjJzelVjTE05eGtxV0RQcmpmdzdtX1NqZw?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDJ3RXRVazJTNjZVUDg5SjZwWk5YdS13Snd5MVlwUnV5MVpsLWxBUjcyZ0dWcXVmQ3hQUFgzZ2RQbk5WUkVTUjV6UnRGZ0JpTU9lTU4zbFVSUG5wQjlDN3JvSDBpNFBYYzhQWkdGS3MyMHJ1bG9ab09GdUE0MDRINWhseDd3emZzWDNNM0JwUHVJTmFZX3N2d3k4M2Z4eU9IaHdrLU1MRllfYk83WkM5UWNLbVMxdVVXVjRGd2UwUQ?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVVGZ3Q4aW0tRF9FZm9UN04xSlNudWRHcVFVX3ljNTJ1YlBfcF9RQ3hTSW5zQkpSZWJHeEpramdGX0VZcGFXWTlPYWczQlg3anhtSHJFbGJCVzU3dFlYSy1LX0hOc3FjUUtNUWxKbnR1Ty1PbnZaM3BTSjc0TVJlQWtGb05mbFJuZ2o2T2FvVDlzRm5UMG4zUWpTZm41ZDVtcmZtLXYtWUZCbzFFSU9Sb1dzbTFraEZUSDVsZXpsN3ZzREHSAcMBQVVfeXFMT0Y4bkNZdW9FdEJQYy0tRlplcGVzYjNfd0J0RjVjS2N5X0NFMVBuWmwxemNDaHpmdXlCdWx3TzNWVENSN2E5eUNibHB5aFkxMGxLdGRTS1JkWXdOZ1lvZjNpWDliS0FlaXJRcF8xWUlYQTlUa0d4MUlaRHRaQnhRNlYtZHhlTDFURGRXbERBTklJYndjalFrRXZibjFYUzl4eURXeno3dkVkZWFWMGVtTnRaNnA5UGJueWZDbUxYWWVPU1FV?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWNGUDJYMjkyWll1LXFiS1dRVWZ5Z05ydFNMSE1iY29Bd215b01sYmlTQ3ZZX3FUTVp3ZnQzN2JjSmg1cTZGd1NaY3ppQ1F2d3BYWFNsdHI3SkZWZjdMb0VOd0ZNeHViNDBVYW1FNzZCQjFVbm5ITmtRSjhoR0FJSHFqdFphRzdjMFplNVpzbzRrcFJJdDdWSFQtT1V1UXV6MHJ6a1FlX3V5WjhVT1JqeVZjenBsTGlZVE5JZw?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFJKZmlaWUVYT050VDhEX05EQ1NnN2FVNXFFTFNabTM4a0ZrMUJheEQxMXpTSk5BRWx0dDV5TERGRDNnYW9qc205TDZyM25sZUxlWEkySm9VZEJETjhGWDAwZlFIbXpwbVlNaHFXU2p5U0hlY25falJDaUFPRlpOMXFLS3owckZISEFLREt2cFRuSkhYVWI1VXdNNF9Zajg4aUNxQnlGRXZTMDB4amc?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkFIY05HZmlhdVF2dG85cVVfQ21RZlZHdTl3YWM2MWoyOEVJZ3ctcmhGNTZXSkdMeFNjdGltSENxcU9hLU0zNV81a1ltTlJLVTNQRVFCS04zZkh4UUNrOW43eDRnM05Nc0U0Q1RXczUzTVJZX1BydG1zd2hER3R6Y3ZlTnJLSnpIQjE0d0VLYkJkZ0FoMmN0OFdtVktqNTg?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1YwZzNETk9CSENZVDNEUTktbXZ6akFKeVBPcm1SRVNDNXZtanRWc21TbEY0M21GTTRpRjFoREZtRjAwVWtSWXduRzJJU3RRbDIyVGVHY0JkMlh0QktXblNDSFc4WF9CbjRXMmEtZGZWNmxoSThtMEExQm9VeFJVYnlHYTRoeXFMVU5YTmo3S3J5X0ZPMjRDdU45dUdsclhDMDBWNU5zT05uNlJiQ2VFQzJBdkM?oc=5) |
-| 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0U2OVlyZEFWVkZ4WGFMTHhDZzV3bzA2WFRzaWtYZl9paUdPNFB5bDl5aFM4Slllc2lKTU0xdjVIUTA1V3Ewc2FRTS05NVlSRGtZWXBBcVI0SWhrTUs1VTloQnhwbC1aZ25PekVkVGQ5ejQ3R3lOb1Q0Si1VX1ZkaE0yUTlJTGpoN0dHcDZmSXBtWGxEZGRlOHhZWlo2OEpJWHpkcUdwbUZtQQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

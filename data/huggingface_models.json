@@ -1,5 +1,14 @@
 [
   {
+    "model": "puppet-robotics/golf-model-mcap-test",
+    "downloads": 12,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/golf-model-mcap-test",
+    "date": "2026-08-20",
+    "keyword": "robotics",
+    "score": 3.7
+  },
+  {
     "model": "ShuiJie/pi0.5_robotwin2",
     "downloads": 0,
     "likes": 0,
@@ -108,13 +117,13 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 6,
+    "model": "sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-20",
     "keyword": "vla",
-    "score": 1.9
+    "score": 0.1
   },
   {
     "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
@@ -133,6 +142,15 @@
     "date": "2026-08-20",
     "keyword": "vla",
     "score": 2.5
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 6,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-20",
+    "keyword": "vla",
+    "score": 1.9
   },
   {
     "model": "sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
@@ -270,15 +288,6 @@
     "score": 0.3
   },
   {
-    "model": "puppet-robotics/golf-model-2-8fps",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-2-8fps",
-    "date": "2026-08-19",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "muniker/vla-jepa-so101-sort-210base-65ft-unfrozen-50steps",
     "downloads": 0,
     "likes": 0,
@@ -286,15 +295,6 @@
     "date": "2026-08-19",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "Grigorij/PaP_objects_sum_vla_jepa",
-    "downloads": 5,
-    "likes": 0,
-    "url": "https://huggingface.co/Grigorij/PaP_objects_sum_vla_jepa",
-    "date": "2026-08-19",
-    "keyword": "vla",
-    "score": 1.6
   },
   {
     "model": "novastar111/sokoban_easy_cot_chunk_k3_world_model",
@@ -351,13 +351,13 @@
     "score": 1.9
   },
   {
-    "model": "puppet-robotics/golf-model-mcap-test",
-    "downloads": 12,
+    "model": "puppet-robotics/golf-model-2-8fps",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-mcap-test",
+    "url": "https://huggingface.co/puppet-robotics/golf-model-2-8fps",
     "date": "2026-08-19",
     "keyword": "robotics",
-    "score": 3.7
+    "score": 0.1
   },
   {
     "model": "GEONWOO22/vla-robotics-modified",
