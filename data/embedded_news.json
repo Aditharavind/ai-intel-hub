@@ -1,5 +1,12 @@
 [
   {
+    "title": "Quick Share Implemented On A Kindle",
+    "source": "Hackaday",
+    "date": "2026-08-20",
+    "url": "https://hackaday.com/2026/08/19/quick-share-implemented-on-a-kindle/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/ssc2006-02a-0beaner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Quick Share is a useful tool for flipping files between Android smart phones in a fuss-free wireless manner. [unrealJune] has now implemented the feature on Kindle devices. You&#8217;ll need a <a class=\"read-more\" href=\"https://hackaday.com/2026/08/19/quick-share-implemented-on-a-kindle/\">&#8230;read more</a>"
+  },
+  {
     "title": "NASA Tests Featherweight Radar Antenna for SkyFall Mars Helicopters",
     "source": "Hackaday",
     "date": "2026-08-20",
@@ -19,6 +26,13 @@
     "date": "2026-08-20",
     "url": "https://www.cnx-software.com/2026/08/20/starfive-dubhe-100-a-64-bit-rva23-compliant-risc-v-core-for-high-performance-applications/",
     "summary": "<div><img alt=\"Dubhe-100 RISC-V CPU IP\" class=\"attachment-medium size-medium wp-post-image\" height=\"324\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Dubhe-100-RISC-V-CPU-IP-720x324.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>StarFive has launched a new high-performance 64-bit RISC-V core from the Dubhe family with the RVA23-compliant Dubhe-100 designed for servers and HPC, as well as other high-performance applications. The new RISC-V IP core delivers a SPECint2006 score of 15/GHz, supports Vector and Vector Crypto extensions, and features a deep out-of-order design with a 15-stage pipeline and 6-wide issue. StarFive Dubhe-100 key features and specifications: ISA &#8211; RV64GCBVH 15-stage pipeline, 6-issue Superscalar, deep out-of-order execution Support Multi-core cache coherence Support instruction fusion Support AIA1.0 Performance SPECint2006: 15/GHz Dhrystone v2.2: 10.0/MHz (legal) HPM (Hardware Performance Monitor) RISC-V standard HPM support Micro-architecture level analysis and performance tuning PMP &#38; PMA (Physical Memory Protection / Physical Memory Attributes) Configurable 16/32/64 PMP supported regions, minimum 4096-byte region size Support predefined PMA and Svpbmt Debug &#38; Trace Standard debug module compliant with RISC-V Debug Spec Standard Trace module interface compliant with RISC-V Trace Spec Power Management [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/20/starfive-dubhe-100-a-64-bit-rva23-compliant-risc-v-core-for-high-performance-applications/\">StarFive Dubhe-100 &#8211; A 64-bit, RVA23-compliant RISC-V core for high-performance applications</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Articulated Skeleton Hand – Halloween Decor with Pumpkin Lantern #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-08-20",
+    "url": "https://blog.adafruit.com/2026/08/20/articulated-skeleton-hand-halloween-decor-with-pumpkin-lantern-3dthursday-3dprinting/",
+    "summary": "mingGY shares: A 3D-printed articulated skeleton hand paired with small accessories like pumpkin lanterns. Realistic joint detail and flexibly poseable. Print tolerances may cause joint looseness over time — restore damping with clear nail polish on joint heads. Great home decoration or holiday display. By MingGY download the files on: https://makerworld.com/en/models/1841827-articulated-skeleton-hand Every Thursday is #3dthursday [&#8230;]"
   },
   {
     "title": "HYDR8 Will Lead You to Water, But Will You Drink?",
@@ -54,13 +68,6 @@
     "date": "2026-08-19",
     "url": "https://hackaday.com/2026/08/19/hackaday-europe-2026-the-1-bit-cpu-that-ran-factories/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/08/DSC09964_featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Powered machinery started the industrial revolution, and it was automation that kicked it up another notch in the 20th century. The ability for machines to make things by themselves spurred <a class=\"read-more\" href=\"https://hackaday.com/2026/08/19/hackaday-europe-2026-the-1-bit-cpu-that-ran-factories/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Simple DIY STM32 Oscilloscope Project",
-    "source": "Hackaday",
-    "date": "2026-08-19",
-    "url": "https://hackaday.com/2026/08/19/simple-diy-stm32-oscilloscope-project/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"494\" src=\"https://hackaday.com/wp-content/uploads/2026/08/stm32_oscilloscope_F207_nucleo_board_bttlab_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In part one of what is intended to be a series on developing an STM32-based oscilloscope, [BTTLab] demonstrates a how to use the built-in ADC of an STM32F207 MCU to <a class=\"read-more\" href=\"https://hackaday.com/2026/08/19/simple-diy-stm32-oscilloscope-project/\">&#8230;read more</a>"
   },
   {
     "title": "Pine64 hits pause on Linux devices due to RAM and eMMC shortage/high prices",
@@ -250,13 +257,6 @@
     "date": "2026-08-19",
     "url": "https://blog.adafruit.com/2026/08/19/common-lisp-for-the-amiga-cl-amiga/",
     "summary": "Manfred Bergmann has created CL-Amiga, or Clamiga for short. It is a Common Lisp implementation built for the Amiga family &#8212; classic AmigaOS 3 on 68k and MorphOS as a fully native PPC build, AROS and AmigaOS 4 may be to come &#8212; but it also runs on macOS and Linux. Common Lisp is one [&#8230;]"
-  },
-  {
-    "title": "Cyber Trace Pad",
-    "source": "Adafruit",
-    "date": "2026-08-19",
-    "url": "https://blog.adafruit.com/2026/08/19/cyber-trace-pad/",
-    "summary": "Cyber Trace Pad is a new product by SuiLab. This LED gadget features a grid of 144 LEDs. When you touch the touchpad area, the LEDs at the top will light up according to where you touched. Additionally, performing specific actions will activate special LED motions. There are a total of 9 special motions in [&#8230;]"
   },
   {
     "title": "Aitech Announces New U-C6850 SOSA-Aligned Rugged High-Speed Ethernet Switch/Router",
