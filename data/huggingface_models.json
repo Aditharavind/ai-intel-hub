@@ -1,5 +1,23 @@
 [
   {
+    "model": "Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp",
+    "date": "2026-08-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp",
+    "date": "2026-08-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp",
     "downloads": 9,
     "likes": 0,
@@ -18,30 +36,57 @@
     "score": 19.3
   },
   {
-    "model": "Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp",
-    "date": "2026-08-20",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp",
-    "date": "2026-08-20",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "B111ue/fcl-vla-functional-support-canary",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
     "date": "2026-08-20",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-20",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
+    "date": "2026-08-20",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "XYZPIT/vlash-random4-gr00t-n1.6-160000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/XYZPIT/vlash-random4-gr00t-n1.6-160000",
+    "date": "2026-08-20",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "novastar111/pusht_cot_chunk_k3_world_model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/novastar111/pusht_cot_chunk_k3_world_model",
+    "date": "2026-08-20",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "hiskiv/cosmos-policy-lam-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/hiskiv/cosmos-policy-lam-v2",
+    "date": "2026-08-20",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -135,24 +180,6 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-19",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
-    "date": "2026-08-19",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "Grigorij/PaP_duck_vla_jepa",
     "downloads": 0,
     "likes": 0,
@@ -202,15 +229,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/MotionforgeGroup/X-VLA-FC-80000",
-    "date": "2026-08-19",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vlabki/rr-tw3-bc-ppo-speed-v3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vlabki/rr-tw3-bc-ppo-speed-v3",
     "date": "2026-08-19",
     "keyword": "vla",
     "score": 0.1
@@ -292,15 +310,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/dnhan123/x-bfm-policy",
-    "date": "2026-08-19",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "hiskiv/cosmos-policy-lam-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hiskiv/cosmos-policy-lam-v2",
     "date": "2026-08-19",
     "keyword": "policy",
     "score": 0.1
@@ -400,15 +409,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/novastar111/pacman_braidthin_cot_chunk_k3_world_model",
-    "date": "2026-08-18",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "novastar111/pacman_braidthin_noncot_chunk_k1_world_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/novastar111/pacman_braidthin_noncot_chunk_k1_world_model",
     "date": "2026-08-18",
     "keyword": "world model",
     "score": 0.1

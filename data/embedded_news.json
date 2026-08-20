@@ -1,5 +1,12 @@
 [
   {
+    "title": "NASA Tests Featherweight Radar Antenna for SkyFall Mars Helicopters",
+    "source": "Hackaday",
+    "date": "2026-08-20",
+    "url": "https://hackaday.com/2026/08/19/nasa-tests-featherweight-radar-antenna-for-skyfall-mars-helicopters/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"372\" src=\"https://hackaday.com/wp-content/uploads/2026/08/SkyFall_showing_GPR_stowed_and_deployed.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>After the little Mars helicopter Ingenuity blew everyone away with its performance, it was clear that a future Mars mission should involve more helicopters like it, with even more capabilities. <a class=\"read-more\" href=\"https://hackaday.com/2026/08/19/nasa-tests-featherweight-radar-antenna-for-skyfall-mars-helicopters/\">&#8230;read more</a>"
+  },
+  {
     "title": "StarFive Dubhe-100 – A 64-bit, RVA23-compliant RISC-V core for high-performance applications",
     "source": "CNX Software",
     "date": "2026-08-20",
@@ -47,13 +54,6 @@
     "date": "2026-08-19",
     "url": "https://hackaday.com/2026/08/19/simple-diy-stm32-oscilloscope-project/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"494\" src=\"https://hackaday.com/wp-content/uploads/2026/08/stm32_oscilloscope_F207_nucleo_board_bttlab_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In part one of what is intended to be a series on developing an STM32-based oscilloscope, [BTTLab] demonstrates a how to use the built-in ADC of an STM32F207 MCU to <a class=\"read-more\" href=\"https://hackaday.com/2026/08/19/simple-diy-stm32-oscilloscope-project/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Building Custom Backyard Solar Lights",
-    "source": "Hackaday",
-    "date": "2026-08-19",
-    "url": "https://hackaday.com/2026/08/19/building-custom-backyard-solar-lights/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/08/4-e1787036636172.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In this modern age, if you want a truly swish garden that makes your friends sad when they visit, you need good lighting. [technocraftStudio] has been working on just such a <a class=\"read-more\" href=\"https://hackaday.com/2026/08/19/building-custom-backyard-solar-lights/\">&#8230;read more</a>"
   },
   {
     "title": "Pine64 hits pause on Linux devices due to RAM and eMMC shortage/high prices",
@@ -375,7 +375,7 @@
     "source": "CNX Software",
     "date": "2026-08-17",
     "url": "https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/",
-    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a8643b46d260866043141/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"Google Chrome Arm Linux Raspberry Pi OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"415\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Google-Chrome-Arm-Linux-Raspberry-Pi-OS-720x415.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn&#8217;t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a86612e2938c232331093/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/\">Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "SensiBel and Aizip Combine Optical MEMS and Edge AI Beamforming",

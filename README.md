@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-20 00:25 UTC
+Last Updated: 2026-08-20 02:08 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-20 | NASA Tests Featherweight Radar Antenna for SkyFall Mars Helicopters | Hackaday | [link](https://hackaday.com/2026/08/19/nasa-tests-featherweight-radar-antenna-for-skyfall-mars-helicopters/) |
 | 2026-08-20 | StarFive Dubhe-100 – A 64-bit, RVA23-compliant RISC-V core for high-performance applications | CNX Software | [link](https://www.cnx-software.com/2026/08/20/starfive-dubhe-100-a-64-bit-rva23-compliant-risc-v-core-for-high-performance-applications/) |
 | 2026-08-19 | HYDR8 Will Lead You to Water, But Will You Drink? | Hackaday | [link](https://hackaday.com/2026/08/19/hydr8-will-lead-you-to-water-but-will-you-drink/) |
 | 2026-08-19 | Mini Blinking Barrels Keep Desktop Traffic in Check | Hackaday | [link](https://hackaday.com/2026/08/19/mini-blinking-barrels-keep-desktop-traffic-in-check/) |
@@ -56,51 +57,39 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Smarting Up a Doorbell with Zigbee | Hackaday | [link](https://hackaday.com/2026/08/19/smarting-up-a-doorbell-with-zigbee/) |
 | 2026-08-19 | Hackaday Europe 2026: The 1-Bit CPU That Ran Factories | Hackaday | [link](https://hackaday.com/2026/08/19/hackaday-europe-2026-the-1-bit-cpu-that-ran-factories/) |
 | 2026-08-19 | Simple DIY STM32 Oscilloscope Project | Hackaday | [link](https://hackaday.com/2026/08/19/simple-diy-stm32-oscilloscope-project/) |
-| 2026-08-19 | Building Custom Backyard Solar Lights | Hackaday | [link](https://hackaday.com/2026/08/19/building-custom-backyard-solar-lights/) |
 | 2026-08-19 | Pine64 hits pause on Linux devices due to RAM and eMMC shortage/high prices | CNX Software | [link](https://www.cnx-software.com/2026/08/19/pine64-hits-pause-on-linux-devices-due-to-ram-and-emmc-shortage-high-prices/) |
 | 2026-08-19 | PwrBlock 323 – A USB-C PD programmable power supply for automated test fixtures (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/19/pwrblock-323-usb-c-pd-programmable-power-supply-for-automated-test-fixtures/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-08-18 | Hydra-0: Action Flow for Generalist World Modeling and Control | [link](https://arxiv.org/pdf/2608.18077v1) |
-| 2026-08-18 | Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving | [link](https://arxiv.org/pdf/2608.18035v1) |
-| 2026-08-18 | How Do AI Climate Models Respond to Warming Across Climate Zones? | [link](https://arxiv.org/pdf/2608.17986v1) |
-| 2026-08-18 | Recirculation | [link](https://arxiv.org/pdf/2608.17981v1) |
-| 2026-08-18 | PRISM: Precision and contact-rich Real-world Industrial Skill dataset with Multimodal sensing | [link](https://arxiv.org/pdf/2608.17962v1) |
-| 2026-08-18 | Towards Zero-Shot Task Transfer with Neurosymbolic World Models | [link](https://arxiv.org/pdf/2608.17959v1) |
-| 2026-08-18 | Understanding the Surprising Generalization Properties of Tabular Foundation Models | [link](https://arxiv.org/pdf/2608.17957v1) |
-| 2026-08-18 | An Omitted Mode Is a Rare Rule: The Sampling-Verification Danger Law in Continuous Code World Models | [link](https://arxiv.org/pdf/2608.17956v1) |
-| 2026-08-18 | Observations of Disrupted CME Material Falling Back Into the Low Corona | [link](https://arxiv.org/pdf/2608.17951v1) |
-| 2026-08-18 | Beyond Instrument Motion: Recognizing Tissue Tension Toward Surgical Skill Assessment | [link](https://arxiv.org/pdf/2608.17935v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp | 0 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp) |
+| 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp | 0 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp) |
 | 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp | 9 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp) |
 | 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp | 64 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-fp16-mtp) |
-| 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp | 0 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp) |
-| 2026-08-20 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp | 0 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp) |
 | 2026-08-20 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
-| 2026-08-19 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
-| 2026-08-19 | puppet-robotics/golf-model-2-8fps | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-2-8fps) |
-| 2026-08-19 | puppet-robotics/golf-model-mcap-test | 6 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-mcap-test) |
-| 2026-08-19 | junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlatFt200k | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlatFt200k) |
-| 2026-08-19 | junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlatVicregSplitdec | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_prq_robotonly_208bal_bsz64_30k_vl1_sd0_h12m03_vlmfreeze_actlatVicregSplitdec) |
+| 2026-08-20 | sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
+| 2026-08-20 | sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0) |
+| 2026-08-20 | XYZPIT/vlash-random4-gr00t-n1.6-160000 | 0 | 0 | [link](https://huggingface.co/XYZPIT/vlash-random4-gr00t-n1.6-160000) |
+| 2026-08-20 | novastar111/pusht_cot_chunk_k3_world_model | 0 | 0 | [link](https://huggingface.co/novastar111/pusht_cot_chunk_k3_world_model) |
+| 2026-08-20 | hiskiv/cosmos-policy-lam-v2 | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam-v2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 63452 | Python | 25380.9 | [link](https://github.com/commaai/openpilot) |
-| mosaico-labs/mosaico | 925 | Python | 370.1 | [link](https://github.com/mosaico-labs/mosaico) |
-| NaiboWang/EasySpider | 44373 | JavaScript | 17749.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| zauberzeug/nicegui | 16145 | Python | 6458.1 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15711 | C++ | 6284.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14599 | C++ | 5839.7 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13675 | Python | 5470.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| rerun-io/rerun | 11324 | Rust | 4529.7 | [link](https://github.com/rerun-io/rerun) |
-| RLinf/RLinf | 4579 | Python | 1831.7 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3885 | Rust | 1554.1 | [link](https://github.com/dora-rs/dora) |
+| commaai/openpilot | 63453 | Python | 25381.3 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15712 | C++ | 6284.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14600 | C++ | 5840.1 | [link](https://github.com/google-deepmind/mujoco) |
+| sou350121/VLA-Handbook | 524 | HTML | 209.7 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 6181 | Python | 2472.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| NVlabs/ProtoMotions | 2316 | Python | 926.5 | [link](https://github.com/NVlabs/ProtoMotions) |
+| OpenHUTB/hutb | 546 | C++ | 218.5 | [link](https://github.com/OpenHUTB/hutb) |
+| ROBOTIS-GIT/ai_worker | 178 | Python | 71.3 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
+| Evan-wyl/humanoid-robot-intelligence | 9 |  | 3.7 | [link](https://github.com/Evan-wyl/humanoid-robot-intelligence) |
+| isaac-sim/IsaacLab | 7920 | Python | 3168.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -126,8 +115,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Humanoid robot drives a go-kart, Chinese embodied AI startup releases demo video of race - Chinese media - Record China | embodied ai startup | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaTRSNFJkWmVGbGtXZFVEeTUyR0dreko4N3ZKbGpzTGFZZG9OMjExd0dPNDZHbzlMYTg3WldORk1KZHl2OXJjVlJpVUdJN01GX2lpc2NVS1JyUkNwRHh6UlVhc2hxUDZ1YWg0?oc=5) |
 | 2026-08-19 | Unitree Robotics to debut after US$904 million Shanghai IPO, rides embodied AI wave - The Business Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkpxSGVfMDlFYmtFTmJ3N0R5NVU0dnJZTTZRM2V6a0pWSmlxMEU4TDh3WW5yRHhuMFhfN3VTYkVfWUpwVENGcEFhdFhLRjM0SjRFYnJ6a2JRZGlsOHFma011bzhYY09uWGJTdXRoaXoxRE1Bc0dJeTB1ZnRvRTF1T1hzeWRzYy03dzNrWTVrcU5aRzA0eVdNRzFGS2Q2Xzd6WktxNXB2Um5LNFdvcEFBdEVlVWFLSmJZNF9HQUZ6TzBRYUNmbnZZNQ?oc=5) |
 | 2026-08-19 | Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban - WSJ | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMktnNC1kMTFZTU5YWEI4RmxxZmRCMndOcV9vZVVqa2pjU2hmbkI0bFpYUVlGTDl2ZFNjTVpsam1jNHUzT2s1a3RNdWRobVdBMnpydDU1SVBJZGp6bGtRQThxSzJiNUMtN1YzVlBaTk9aWkZGajFzNEVHeUUzRnFuVExWZFhod1hYWXhydDB3a19ndVJ2Mm5lN19EN3Q?oc=5) |
-| 2026-08-19 | Shenzhen Robot Valley: Morning Design, Afternoon Sample - chosun.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRllIM1FDdjRPMWQ0ODcwUHFrSGlQNkswZGROX1JjWERDcXlzRk80YnR5MUhoRXVHNWlPWko0RWlxNUFEeWtKN3JrVEd5V2RoOG5pOEpuWWdqS3F1dUVNR19SMzA4SXZfRURLZ09TRkJ0dDRFUmUwcmZ4VmJ6QUVFWU12RnJxeHFL?oc=5) |
-| 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - finance.yahoo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmVpVnFGZTV6Z3RQS1E3N0NZa2dUTjN1ak5rRFdrbFhrLWJ6dk5peWVub0tiSkV4ckF0UURWVkNmVmQwVS1odTc4aXZhZzRNQU9STFRnRTFxYzBLU2xNUUd2RFBwSGJUNDQxT2lfcEQ2OVRJWXFaQnRWYU5QYU9xUVNGY1drS0lBUUswZnVnVlFaeU00eHctdQ?oc=5) |
+| 2026-08-19 | Shenzhen's Robot Valley: Design Morning, Sample Afternoon - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRllIM1FDdjRPMWQ0ODcwUHFrSGlQNkswZGROX1JjWERDcXlzRk80YnR5MUhoRXVHNWlPWko0RWlxNUFEeWtKN3JrVEd5V2RoOG5pOEpuWWdqS3F1dUVNR19SMzA4SXZfRURLZ09TRkJ0dDRFUmUwcmZ4VmJ6QUVFWU12RnJxeHFL?oc=5) |
+| 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmVpVnFGZTV6Z3RQS1E3N0NZa2dUTjN1ak5rRFdrbFhrLWJ6dk5peWVub0tiSkV4ckF0UURWVkNmVmQwVS1odTc4aXZhZzRNQU9STFRnRTFxYzBLU2xNUUd2RFBwSGJUNDQxT2lfcEQ2OVRJWXFaQnRWYU5QYU9xUVNGY1drS0lBUUswZnVnVlFaeU00eHctdQ?oc=5) |
 | 2026-08-18 | Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOenVYeUF4SkxXWmhQNmxha2VsaWFDNVU4anNVX1lZNEZYQkh6VDFMSnJHNlRid2ZoUVRCWjJ1ZVc4Y29rd3RjMjEwUlBBZjZlRWlKMW1FSkUtSXBzMk5vcGdoSndQbEYtT1U0RkhmSmZ6NnNGUVNoOHBDazI5NzhQVndUZkFqTXZLeE1Iam4xZFU2LUNGWDU5NkxtM2RqdDIwT0N5bHhmNE81YXExcFd4aHN6elJrNjg?oc=5) |
 
 ## Jobs
