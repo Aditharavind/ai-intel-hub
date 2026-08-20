@@ -1,5 +1,14 @@
 [
   {
+    "model": "puppet-robotics/golf-model-2-8fps",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/golf-model-2-8fps",
+    "date": "2026-08-20",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "puppet-robotics/golf-model-mcap-test",
     "downloads": 12,
     "likes": 0,
@@ -117,6 +126,15 @@
     "score": 0.1
   },
   {
+    "model": "CLM0215/rns-vla-runs",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/CLM0215/rns-vla-runs",
+    "date": "2026-08-20",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -216,6 +234,15 @@
     "score": 0.1
   },
   {
+    "model": "allen73/lunarlander-v3-dqn-physical-ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/allen73/lunarlander-v3-dqn-physical-ai",
+    "date": "2026-08-20",
+    "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
     "model": "Revolabs/cortex_agv_noyolo_test_policy",
     "downloads": 0,
     "likes": 0,
@@ -279,24 +306,6 @@
     "score": 0.1
   },
   {
-    "model": "zolkin/robot_rl",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/zolkin/robot_rl",
-    "date": "2026-08-19",
-    "keyword": "robot",
-    "score": 0.3
-  },
-  {
-    "model": "muniker/vla-jepa-so101-sort-210base-65ft-unfrozen-50steps",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/muniker/vla-jepa-so101-sort-210base-65ft-unfrozen-50steps",
-    "date": "2026-08-19",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "novastar111/sokoban_easy_cot_chunk_k3_world_model",
     "downloads": 0,
     "likes": 0,
@@ -349,15 +358,6 @@
     "date": "2026-08-19",
     "keyword": "policy",
     "score": 1.9
-  },
-  {
-    "model": "puppet-robotics/golf-model-2-8fps",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-2-8fps",
-    "date": "2026-08-19",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "GEONWOO22/vla-robotics-modified",
@@ -709,15 +709,6 @@
     "date": "2026-07-23",
     "keyword": "physical ai",
     "score": 69.1
-  },
-  {
-    "model": "physicalai-bmi/efa-2-acrobot",
-    "downloads": 19,
-    "likes": 0,
-    "url": "https://huggingface.co/physicalai-bmi/efa-2-acrobot",
-    "date": "2026-07-23",
-    "keyword": "physical ai",
-    "score": 5.8
   },
   {
     "model": "Datawhale/every-embodied-smolvla-mujoco-pnp",
