@@ -1,5 +1,15 @@
 [
   {
+    "repo": "NVIDIA/skills",
+    "stars": 3053,
+    "language": "Python",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "url": "https://github.com/NVIDIA/skills",
+    "date": "2026-08-21",
+    "topic": "physical-ai",
+    "score": 1221.3
+  },
+  {
     "repo": "copper-project/copper-rs",
     "stars": 1461,
     "language": "Rust",
@@ -61,13 +71,13 @@
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11334,
+    "stars": 11335,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-08-21",
     "topic": "robotics",
-    "score": 4533.7
+    "score": 4534.1
   },
   {
     "repo": "kornia/kornia",
@@ -101,13 +111,13 @@
   },
   {
     "repo": "leofan90/Awesome-World-Models",
-    "stars": 1972,
+    "stars": 1973,
     "language": "Python",
     "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
     "url": "https://github.com/leofan90/Awesome-World-Models",
     "date": "2026-08-21",
     "topic": "world-model",
-    "score": 788.9
+    "score": 789.3
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -151,13 +161,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6223,
+    "stars": 6224,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-21",
     "topic": "world-model",
-    "score": 2489.3
+    "score": 2489.7
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -238,16 +248,6 @@
     "date": "2026-08-21",
     "topic": "robot-learning",
     "score": 84.1
-  },
-  {
-    "repo": "NVIDIA/skills",
-    "stars": 3051,
-    "language": "Python",
-    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
-    "url": "https://github.com/NVIDIA/skills",
-    "date": "2026-08-20",
-    "topic": "physical-ai",
-    "score": 1220.5
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -341,23 +341,23 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44392,
+    "stars": 44393,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 17756.9
+    "score": 17757.3
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16149,
+    "stars": 16150,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 6459.7
+    "score": 6460.1
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
@@ -441,13 +441,13 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13715,
+    "stars": 13716,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-08-17",
     "topic": "robotics",
-    "score": 5486.1
+    "score": 5486.5
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",
