@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-21 20:10 UTC
+Generated: 2026-08-21 21:11 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,7 +15,7 @@ Generated: 2026-08-21 20:10 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | commaai/openpilot | 63466 | 25386.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44391 | 17756.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44392 | 17756.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30342 | 12136.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16149 | 6459.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15721 | 6288.5 | [link](https://github.com/ArduPilot/ardupilot) |
@@ -27,7 +27,7 @@ Generated: 2026-08-21 20:10 UTC
 | physicalairi/so101_1200ep_smolvla | 87 | 26.2 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
 | physicalairi/so101_1200ep_pi05 | 41 | 12.4 | [link](https://huggingface.co/physicalairi/so101_1200ep_pi05) |
 | Idan/fga-navigation | 41 | 12.4 | [link](https://huggingface.co/Idan/fga-navigation) |
-| XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W8A16 | 35 | 10.6 | [link](https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W8A16) |
+| physicalairi/so101_1200ep_pi05_20260805 | 27 | 8.2 | [link](https://huggingface.co/physicalairi/so101_1200ep_pi05_20260805) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

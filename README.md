@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-21 20:10 UTC
+Last Updated: 2026-08-21 21:11 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -36,6 +36,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-08-21 | Schaeffler plans to mass produce gearboxes for humanoid robots in 2027 | Robotics Business Review | [link](https://www.therobotreport.com/schaeffler-plans-to-mass-manufacture-gearboxes-for-humanoids-in-2027/) |
+| 2026-08-21 | Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch | Robotics Business Review | [link](https://www.therobotreport.com/amazons-bhavana-chandrashekhar-speaks-robobusiness-women-in-robotics-lunch/) |
 | 2026-08-20 | Agtonomy releases new autonomous multi-point turning features | Robotics Business Review | [link](https://www.therobotreport.com/agtonomy-releases-new-autonomous-multi-point-turning-features/) |
 | 2026-08-20 | ATDev gives update on its journey building autonomous wheelchairs | Robotics Business Review | [link](https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs/) |
 | 2026-08-20 | Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026 | Robotics Business Review | [link](https://www.therobotreport.com/amazon-plans-expand-prime-air-nearly-500-cities-by-end-2026/) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | What does Unitree Robotics’ IPO mean for the humanoid industry? | Robotics Business Review | [link](https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry/) |
 | 2026-08-19 | Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/kollmorgen-give-joint-by-joint-guide-humanoid-motion-robobusiness/) |
 | 2026-08-18 | Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market | Robotics Business Review | [link](https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/) |
-| 2026-08-18 | Drones With Claws Perch on Arctic Icebergs | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/arctic-iceberg-drones) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -98,7 +98,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | google-deepmind/mujoco | 14625 | C++ | 5850.1 | [link](https://github.com/google-deepmind/mujoco) |
 | earthtojake/text-to-cad | 13752 | Python | 5500.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11334 | Rust | 4533.7 | [link](https://github.com/rerun-io/rerun) |
-| kornia/kornia | 11321 | Python | 4528.5 | [link](https://github.com/kornia/kornia) |
+| kornia/kornia | 11322 | Python | 4528.9 | [link](https://github.com/kornia/kornia) |
 | dora-rs/dora | 3891 | Rust | 1556.5 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 3297 | Python | 1318.9 | [link](https://github.com/datawhalechina/every-embodied) |
 
