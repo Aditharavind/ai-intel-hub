@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-21 19:17 UTC
+Last Updated: 2026-08-21 20:10 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-21 | Schaeffler plans to mass produce gearboxes for humanoid robots in 2027 | Robotics Business Review | [link](https://www.therobotreport.com/schaeffler-plans-to-mass-manufacture-gearboxes-for-humanoids-in-2027/) |
 | 2026-08-20 | Agtonomy releases new autonomous multi-point turning features | Robotics Business Review | [link](https://www.therobotreport.com/agtonomy-releases-new-autonomous-multi-point-turning-features/) |
 | 2026-08-20 | ATDev gives update on its journey building autonomous wheelchairs | Robotics Business Review | [link](https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs/) |
 | 2026-08-20 | Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026 | Robotics Business Review | [link](https://www.therobotreport.com/amazon-plans-expand-prime-air-nearly-500-cities-by-end-2026/) |
@@ -44,18 +45,17 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/kollmorgen-give-joint-by-joint-guide-humanoid-motion-robobusiness/) |
 | 2026-08-18 | Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market | Robotics Business Review | [link](https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/) |
 | 2026-08-18 | Drones With Claws Perch on Arctic Icebergs | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/arctic-iceberg-drones) |
-| 2026-08-18 | FORT Robotics to take safety stack public via SPAC merger | Robotics Business Review | [link](https://www.therobotreport.com/fort-robotics-takes-safety-stack-public-via-spac-merger/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-21 | Thermoacoustic Sterling Engine is Now Fully 3D Printable | Hackaday | [link](https://hackaday.com/2026/08/21/thermoacoustic-sterling-engine-is-now-fully-3d-printable/) |
 | 2026-08-21 | PVC Pipe Turned DIY Digital Telescope | Hackaday | [link](https://hackaday.com/2026/08/21/pvc-pipe-turned-diy-digital-telescope/) |
 | 2026-08-21 | Hackaday Podcast Episode 383: QR Codes, Caving Gear, and the Old School Way to Learn Electronics | Hackaday | [link](https://hackaday.com/2026/08/21/hackaday-podcast-episode-383-qr-codes-caving-gear-and-the-old-school-way-to-learn-electronics/) |
 | 2026-08-21 | Building a Discrete Component 75 Baud Modem | Hackaday | [link](https://hackaday.com/2026/08/21/building-a-discrete-component-75-baud-modem/) |
 | 2026-08-21 | This Week in Security: Apple Warns Users, Stripe Merchants Leak Keys, Copilot Helps Hack Itself, and Comcast Senses Movement | Hackaday | [link](https://hackaday.com/2026/08/21/this-week-in-security-apple-warns-users-stripe-merchants-leak-keys-copilot-helps-hack-itself-and-comcast-senses-movement/) |
 | 2026-08-21 | Spoofed Serial Number Unlocks Cricut Machine | Hackaday | [link](https://hackaday.com/2026/08/21/spoofed-serial-number-unlocks-cricut-machine/) |
 | 2026-08-21 | Self-Hosting Offline Websites | Hackaday | [link](https://hackaday.com/2026/08/21/self-hosting-offline-websites/) |
-| 2026-08-21 | Running Zork On The Steam Controller | Hackaday | [link](https://hackaday.com/2026/08/20/running-zork-on-the-steam-controller/) |
 | 2026-08-21 | AAEON uCOM-Q6490 – A SMARC 2.1-compliant SoM powered by Qualcomm Dragonwing QCS6490 SoC | CNX Software | [link](https://www.cnx-software.com/2026/08/21/aaeon-ucom-q6490-a-smarc-2-1-qualcomm-dragonwing-qcs6490-som/) |
 | 2026-08-21 | M5Stack Paper Mono – An ESP32-S3 e-paper development board with 3.97-inch touchscreen, LoRa, and NFC | CNX Software | [link](https://www.cnx-software.com/2026/08/21/m5stack-paper-mono-an-esp32-s3-e-paper-development-board-with-3-97-inch-touchscreen-lora-and-nfc/) |
 | 2026-08-21 | NXP MCX C15 and C16 low-cost Cortex-M23 MCUs target IoT, analog, and motor control applications | CNX Software | [link](https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/) |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-21 | anna-smirnov/paper_022135633_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/anna-smirnov/paper_022135633_robotics_vision_language) |
+| 2026-08-21 | oozkanemre88/paper_022210137_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/oozkanemre88/paper_022210137_robotics_vision_language) |
 | 2026-08-21 | SEMVISSER/paper_022175325_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/SEMVISSER/paper_022175325_robotics_vision_language) |
 | 2026-08-21 | ziyin123/robotwin2_310k | 0 | 0 | [link](https://huggingface.co/ziyin123/robotwin2_310k) |
 | 2026-08-21 | ziyin123/robotwin2_300k | 0 | 0 | [link](https://huggingface.co/ziyin123/robotwin2_300k) |
@@ -85,8 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-21 | andrewhernandez/paper_022139643_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/andrewhernandez/paper_022139643_robotics_vision_language) |
 | 2026-08-21 | HarshDefy/paper_021511188_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/HarshDefy/paper_021511188_robotics_vision_language) |
 | 2026-08-21 | ryanyamasita/paper_022391343_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/ryanyamasita/paper_022391343_robotics_vision_language) |
-| 2026-08-21 | jennifercook/paper_021891815_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/jennifercook/paper_021891815_robotics_vision_language) |
-| 2026-08-21 | oliveiraberg/paper_022120861_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/oliveiraberg/paper_022120861_robotics_vision_language) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -96,7 +96,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63466 | Python | 25386.5 | [link](https://github.com/commaai/openpilot) |
 | google-deepmind/mujoco | 14625 | C++ | 5850.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13751 | Python | 5500.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13752 | Python | 5500.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11334 | Rust | 4533.7 | [link](https://github.com/rerun-io/rerun) |
 | kornia/kornia | 11321 | Python | 4528.5 | [link](https://github.com/kornia/kornia) |
 | dora-rs/dora | 3891 | Rust | 1556.5 | [link](https://github.com/dora-rs/dora) |
@@ -119,6 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-21 | Why Georgia Could Have an Edge in Physical AI - Hypepotamus | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ybXpLaldoTmdteTkzWWZZZDQ3VkdUalpmSU01UmRTSEZvN25USGFBYzJubGlEamJycDBTMW1qT3F4ZXFpZ3pEV0tyS2ZWcDBwQldYX1UtZkdIdkdRQTZLVkNrYUY0bVpB?oc=5) |
 | 2026-08-21 | Chinese visa impact hits Indian physical AI startups - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWtCajM1Y1N2TEJuRl8wX1kwcEtQb0RxQUV2SWJvOEtjaWpEWi1zcTYzazI2bUJhTEw4MTFZeU9mcFdVeWRld3o5Ry1EZExpbmg4aXVkOXY2dkUtb2dQREptZjVyNW1zUk5sVlozNWVzTVhJRktrTnU3RUJkRUQ1ZUlBUHRnbGRmUzNNREFNdGcyUmVaaVRnNGFOMVNvQmYtYkZsbTlfWDhITGIwSlU4U19mam5RemJtaE4xYXZXUDFjOTBwcG9yVkFXT21WdERo0gHWAUFVX3lxTE5ETlhmVW92dUZGR21ZX0RDX0s0MXE2YWYxMzZMZGRaVkZmTlg4MUhkOFJBdFRaUUJpWXZMZS1sTndPZ0VPRUFRamVaT0hTTndHNWhTSlhoVUFJVDRTdUxEMzBJT2wtM21GUktmRnlqQVR5SndydFpVUUU3TG0zeUFTVW5GR3F4U3JoRkFRemhGNFBRRWdqZVpWWjFHaGZ5alpESHBoM0dWSWpKYUFHR1RveWl4a0g4S1VUOEx5ampyTDM0eHVsSU8wTW80MkxxSnBTS3p1Q1E?oc=5) |
 | 2026-08-21 | Humanoid Robots Poised for Breakthrough in Embodied AI by 2024 - Devdiscourse | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4d9IBvwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4dw?oc=5) |
 | 2026-08-21 | ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027 | Gulf Times - Gulf Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxONk5McWd3N3ZHMHZGcnlvdUZFcEtRS01UcEt1cHR5NEdXaGxIMkVRNC1kVXVQRmpGVUhnQUo0dEUwOE5CWVVrOEQzZnU5MHREUHRLNjVmeldrLXNvMm9JNEI3d1JsZi1WSUYwN3J1OEhXdFJWOWFGVVVkMjNSTTU4S0ROSjNrcDZGanVuOGxsZFB1blM3amotLXlibmRrVG90cHYyMVNhdkFrRWltQmowZVFHVFdzaXVPOGtNZmp1SGdydUVPX0dCSmJn0gHPAUFVX3lxTE5ROWJzbDFMaDNrNnNHTUtLX1pUS2hXZThWd01kMDNobE1WSjdrSWJhZ2tfRFJUYXNzQkVOMDBObjhTc2g5eEtXQkd2d0RIbTBlVUd3OFVmU1psMzZmZ0dDMDhRTW9SQ2VIR1FzczR3c3dWODdSSmktQko4MEVMcldCTktpRkFJdVpZb2wtQVpyZV81cjQ2OFR0Vm5IcG8wbGZLb0xqTU9GdXB0M3p1VWY0enhsZFdndjF5Wm9qT2Z2QkxPM243YzI0eHFIdHN2OA?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Former Nvidia lab leader Sanja Fidler launches Veeda AI to tackle world models - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRreGNHRzNvY0NlNVdjdk9fUEtrakxxT3E3WWJPMmxLc2FBeXdpcjdXTElsV3FBX0pBYUpXWHYzYlAzZ3o4WXk2MVZNS2tJQWg2bzBIendlWm9qTldRTzFLaERSZDd5UFUxZmZ6MnV5T0FBaHhYdEpIaU1UN3ZZcTg1RFZFcE5aUDJRaE9LTHRoS3ZPUmJ6RkZmbWxReWNI?oc=5) |
 | 2026-08-19 | Physical AI startup Enigma raises $71M seed to make robots easy to use - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXRaZzc5UlVLblMzeDExb1E2RzU0bmJwd2JVWG9PclZvenRzLWIzZVdUVXhBNVhaLV8yOVdQbkNTQmJIN3JmLVdRaWF4bFUwb1hpVHh5S25HeVNGb0lsdFFHa1dKdGZxUWRqUWQ5b0V6d0FsQU5RWW9nTDllZ2V6MUpZS2lUR1VDOXU1NGo3bjBvYVlHLTlTQWt3ZzF5eGZhNV9aNmJ3?oc=5) |
 | 2026-08-19 | Star researcher Sanja Fidler raises over US$90M for world model startup - The Logic | physical ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTE1LTEJEbDJEZ2pmV1VBeXNVQkVSLWc2c19ldUNzUUt2UzllMlN4R3J6dUNFS0o4ckdzdE1TMXhoZjI4Z0c1cVlNX1hoS3p0WnZsM3JBU1pncEtGamR4dnBUVEc2S3l2NERUb3dYSWp3b0R1dw?oc=5) |
-| 2026-08-19 | AI researcher Sanja Fidler raises US$90-million for robotics startup - The Globe and Mail | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1hiM1VrQ3VmZkp3TWRpaXpqVW93ZW9qN3NRdFJWcEdOZU9jTnFvb25ZY3BoVkhIMVo3NjZXYkxEbnlHU0stS1lsM042aWhvR0JNR0Z4RDV5c1hJWnprNmhzalRSUEdJSG5xdmtQWV9TcU5DV3ZHeXdoWkVuc01hMFA0d0ZZaW5EeVFFdlJ1OWd2UUlsNkt4RHVrdmxJYjJzelVjTE05eGtxV0RQcmpmdzdtX1NqZw?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

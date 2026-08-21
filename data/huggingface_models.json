@@ -1,5 +1,23 @@
 [
   {
+    "model": "anna-smirnov/paper_022135633_robotics_vision_language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/anna-smirnov/paper_022135633_robotics_vision_language",
+    "date": "2026-08-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "oozkanemre88/paper_022210137_robotics_vision_language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/oozkanemre88/paper_022210137_robotics_vision_language",
+    "date": "2026-08-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "SEMVISSER/paper_022175325_robotics_vision_language",
     "downloads": 0,
     "likes": 0,
@@ -85,24 +103,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/oliveiraberg/paper_022120861_robotics_vision_language",
-    "date": "2026-08-21",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024-trt",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024-trt",
-    "date": "2026-08-21",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024",
     "date": "2026-08-21",
     "keyword": "robotics",
     "score": 0.1
@@ -360,10 +360,19 @@
     "score": 7.0
   },
   {
-    "model": "Roy229/ml-robotics-prime-aurelia",
+    "model": "ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024-trt",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Roy229/ml-robotics-prime-aurelia",
+    "url": "https://huggingface.co/ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024-trt",
+    "date": "2026-08-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024",
     "date": "2026-08-21",
     "keyword": "robotics",
     "score": 0.1
@@ -447,15 +456,6 @@
     "url": "https://huggingface.co/allen73/lunarlander-v3-dqn-physical-ai",
     "date": "2026-08-20",
     "keyword": "physical ai",
-    "score": 0.1
-  },
-  {
-    "model": "puppet-robotics/golf-model-2-8fps-peft",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-2-8fps-peft",
-    "date": "2026-08-20",
-    "keyword": "robotics",
     "score": 0.1
   },
   {
