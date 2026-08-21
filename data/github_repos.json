@@ -21,13 +21,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63463,
+    "stars": 63464,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-21",
     "topic": "robotics",
-    "score": 25385.3
+    "score": 25385.7
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -81,13 +81,13 @@
   },
   {
     "repo": "sou350121/VLA-Handbook",
-    "stars": 528,
+    "stars": 530,
     "language": "HTML",
     "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
     "url": "https://github.com/sou350121/VLA-Handbook",
     "date": "2026-08-21",
     "topic": "robot-learning",
-    "score": 211.3
+    "score": 212.1
   },
   {
     "repo": "worldbench/awesome-vla-for-ad",
@@ -111,13 +111,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6215,
+    "stars": 6216,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-21",
     "topic": "world-model",
-    "score": 2486.1
+    "score": 2486.5
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -140,6 +140,16 @@
     "score": 218.5
   },
   {
+    "repo": "softmata/horus",
+    "stars": 420,
+    "language": "Rust",
+    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
+    "url": "https://github.com/softmata/horus",
+    "date": "2026-08-21",
+    "topic": "humanoid",
+    "score": 168.1
+  },
+  {
     "repo": "ROBOTIS-GIT/ai_worker",
     "stars": 179,
     "language": "Python",
@@ -148,6 +158,16 @@
     "date": "2026-08-21",
     "topic": "humanoid",
     "score": 71.7
+  },
+  {
+    "repo": "Tsinghua-MARS-Lab/OMG",
+    "stars": 109,
+    "language": "Python",
+    "description": "Official repository for \"OMG: Omni-Modal Motion Generation for Generalist Humanoid Control\", https://arxiv.org/abs/2606.10340.",
+    "url": "https://github.com/Tsinghua-MARS-Lab/OMG",
+    "date": "2026-08-21",
+    "topic": "humanoid",
+    "score": 43.7
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -191,13 +211,13 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15719,
+    "stars": 15718,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-20",
     "topic": "robotics",
-    "score": 6287.7
+    "score": 6287.3
   },
   {
     "repo": "RLinf/RLinf",
@@ -251,13 +271,13 @@
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 387,
+    "stars": 388,
     "language": "",
     "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
     "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
     "date": "2026-08-20",
     "topic": "robot-learning",
-    "score": 154.9
+    "score": 155.3
   },
   {
     "repo": "NVlabs/ProtoMotions",
@@ -268,26 +288,6 @@
     "date": "2026-08-20",
     "topic": "humanoid",
     "score": 928.5
-  },
-  {
-    "repo": "softmata/horus",
-    "stars": 420,
-    "language": "Rust",
-    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
-    "url": "https://github.com/softmata/horus",
-    "date": "2026-08-20",
-    "topic": "humanoid",
-    "score": 168.1
-  },
-  {
-    "repo": "Tsinghua-MARS-Lab/OMG",
-    "stars": 109,
-    "language": "Python",
-    "description": "Official repository for \"OMG: Omni-Modal Motion Generation for Generalist Humanoid Control\", https://arxiv.org/abs/2606.10340.",
-    "url": "https://github.com/Tsinghua-MARS-Lab/OMG",
-    "date": "2026-08-20",
-    "topic": "humanoid",
-    "score": 43.7
   },
   {
     "repo": "Evan-wyl/humanoid-robot-intelligence",
@@ -311,23 +311,23 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44387,
+    "stars": 44388,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 17754.9
+    "score": 17755.3
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16146,
+    "stars": 16147,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 6458.5
+    "score": 6458.9
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
@@ -391,13 +391,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3294,
+    "stars": 3296,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-18",
     "topic": "embodied-ai",
-    "score": 1317.7
+    "score": 1318.5
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -581,13 +581,13 @@
   },
   {
     "repo": "nasa-jpl/open-source-rover",
-    "stars": 9593,
+    "stars": 9595,
     "language": "Prolog",
     "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
     "url": "https://github.com/nasa-jpl/open-source-rover",
     "date": "2026-08-13",
     "topic": "robotics",
-    "score": 3837.3
+    "score": 3838.1
   },
   {
     "repo": "ycheng517/lerobot-ros",

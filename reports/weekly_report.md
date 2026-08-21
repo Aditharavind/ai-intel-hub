@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-21 10:16 UTC
+Generated: 2026-08-21 11:14 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-08-21 10:16 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63463 | 25385.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44387 | 17754.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| commaai/openpilot | 63464 | 25385.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44388 | 17755.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30341 | 12136.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16146 | 6458.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15719 | 6287.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| zauberzeug/nicegui | 16147 | 6458.9 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15718 | 6287.3 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -42,7 +42,7 @@ Generated: 2026-08-21 10:16 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-21 | Chinese visa impact hits Indian physical AI startups - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWtCajM1Y1N2TEJuRl8wX1kwcEtQb0RxQUV2SWJvOEtjaWpEWi1zcTYzazI2bUJhTEw4MTFZeU9mcFdVeWRld3o5Ry1EZExpbmg4aXVkOXY2dkUtb2dQREptZjVyNW1zUk5sVlozNWVzTVhJRktrTnU3RUJkRUQ1ZUlBUHRnbGRmUzNNREFNdGcyUmVaaVRnNGFOMVNvQmYtYkZsbTlfWDhITGIwSlU4U19mam5RemJtaE4xYXZXUDFjOTBwcG9yVkFXT21WdERo0gHWAUFVX3lxTE5ETlhmVW92dUZGR21ZX0RDX0s0MXE2YWYxMzZMZGRaVkZmTlg4MUhkOFJBdFRaUUJpWXZMZS1sTndPZ0VPRUFRamVaT0hTTndHNWhTSlhoVUFJVDRTdUxEMzBJT2wtM21GUktmRnlqQVR5SndydFpVUUU3TG0zeUFTVW5GR3F4U3JoRkFRemhGNFBRRWdqZVpWWjFHaGZ5alpESHBoM0dWSWpKYUFHR1RveWl4a0g4S1VUOEx5ampyTDM0eHVsSU8wTW80MkxxSnBTS3p1Q1E?oc=5) |
+| 2026-08-21 | ACE Robotics CEO says robot brains will have ‘ChatGPT moment’ by end of 2027 - KELO-AM | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZkFENmRDcnU3UWpHbmY2aDlrTzhIWUo5S1lKbktJdlFJRnk5NGU4QmJiMFl0azVnUnk3LWxNMHR6cEhPaEV1MFdwaG1DMHhBTDZHX1lGNnV2Mjl3c05rTFdTNEh6UDRfS3Mzb1ZyRGdDcG1zWldnOWtBZXVYZEUwSkx3Qlg5SHR4Z0dKaW9SUnU0UXdyUDRMdWhSN0s5QVZLYjNMTDBB?oc=5) |
 | 2026-08-21 | Humanoid Robots Poised for Breakthrough in Embodied AI by 2024 - Devdiscourse | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcUZ0TEZOV3RId2lBTVRRTTNJTUFFbGgyMHUtVXQ0NmhBeTNKMnpxN0dzVWZjdDZndnNOa1hzUUh6TVJXT3FybjBTSGNoTktMbk82RFFNM20xWW90UW5hSnF2YWtYY1R2Q2dpOF9zQmJNaVRXRUxYNXBwTFZlNmJ3OEhwUHNLOWZFYjFmcWVfRW1hZXNHLVIySjlTM0hWa2pSZjdJNktNREVDWHQ5Z1ZROWpUUmx5S2thTWfSAb8BQVVfeXFMTzhZTHBHdUljTDhHSFA3RTYtZEdjS3E1bks2dktCYlVaS0xWelhlSWZlb1EtODVFbENoNFoyVkF5UTFMY2xXMWZHRzZZeWNrVUZZejlKYUY2YnpxUjdKTVN3UU45S0MxZ092eFo1N0FObF96bHRzNHV0N1ctTnJLRjNtcHA4TkZvRFNFX3BhSkxoZG1yWHY4bE85MWRXR1djdWctWnpHNVFMNTNMREZhcjJKTG95NmZYNW1xanV5OHc?oc=5) |
 | 2026-08-20 | Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUpET2g2MTNFVnVnRVY3U2hob2UwcnpTYnhOQVJ2RDdFQW4zTHI2LThnelJwZV9CTUh6U1J0WlJOdkRGVnM1MVVQQ1hST281VHdXWV9BekdXQ2lFdWwycGQta1N1X3RTS25YNnh3em9RT0ZZVE14TUJTOUZjRHNzM0tlU2lya0F0VHFLdDcwTG9LaUtvZFVyaXEzaHZySGRqb19EbldTNVpGQQ?oc=5) |
 | 2026-08-20 | Humanoid robot crashes after Beijing sprint - The American Bazaar | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGkxUUNMWFNmOUVybkkzVzJMd3hZcGszYTVhWTdrNlY2VU10b01KdlJMSmlzajkzZFBCSWpGY0Y1U3J2a1B6Y0ZuVDdCN0JCekE1U2lRQ1RZUTc4dUpVVVZoa1JZeF9nZGNRdXp4d0tBLTFyTXY1d3ZNWHUtcHpzbEN1S29hUEEzNUlLX0t6UjYwUQ?oc=5) |
-| 2026-08-20 | Chinese humanoids take center stage at World Robot Conference - Daily Sabah | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODFWS015SEdsUVZ1azNZYzhpWEltUmVxMUhUbWZzUlQ2UVh4WWdmLV9FbTlLcVlxUEgzcHE2OWZiazlIWVVSRU5UUTlEQVJMd2VJak43TzVtVWVwWHlBaUVwaGIxQjZPclZ0OWdUQVVWYklvclRKbVdwTXR2QllWd0Y4amtvVERQTU9NTThRUlNiUEgzU1NoMXFuTUw3OC1fNW9rRE5TY3UzQQ?oc=5) |

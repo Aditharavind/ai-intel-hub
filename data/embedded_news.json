@@ -1,5 +1,12 @@
 [
   {
+    "title": "Spoofed Serial Number Unlocks Cricut Machine",
+    "source": "Hackaday",
+    "date": "2026-08-21",
+    "url": "https://hackaday.com/2026/08/21/spoofed-serial-number-unlocks-cricut-machine/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/photo_2026-07-01-13.48.56-e1787211707856.jpeg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[xssfox] recently found a Cricut Maker in an e-waste disposal. A quick scan over the device indicated it was in moderately good condition, with merely some perished rollers to contend <a class=\"read-more\" href=\"https://hackaday.com/2026/08/21/spoofed-serial-number-unlocks-cricut-machine/\">&#8230;read more</a>"
+  },
+  {
     "title": "Self-Hosting Offline Websites",
     "source": "Hackaday",
     "date": "2026-08-21",
@@ -21,6 +28,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/high-temp-superconductor-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>An interesting type of superconductors available to us today are the ones that achieve this property at room temperature, with only the small snag that they require crushing pressures that <a class=\"read-more\" href=\"https://hackaday.com/2026/08/20/superconducting-temperature-record-set-at-ambient-pressure/\">&#8230;read more</a>"
   },
   {
+    "title": "AAEON uCOM-Q6490 – A SMARC 2.1-compliant SoM powered by Qualcomm Dragonwing QCS6490 SoC",
+    "source": "CNX Software",
+    "date": "2026-08-21",
+    "url": "https://www.cnx-software.com/2026/08/21/aaeon-ucom-q6490-a-smarc-2-1-qualcomm-dragonwing-qcs6490-som/",
+    "summary": "<div><img alt=\"AAEON uCOM Q6490 A SMARC 2.1 computer on module (COM) with Qualcomm Dragonwing QCS6490 processor\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/AAEON-uCOM-Q6490-A-SMARC-2.1-computer-on-module-COM-with-Qualcomm-Dragonwing-QCS6490-processor-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>AAEON uCOM-Q6490 is a SMARC 2.1-compliant System-on-Module (SoM) built around the Qualcomm Dragonwing QCS6490 octa-core SoC, designed for robotics, healthcare, industrial automation, and digital signage applications. The 82 × 50 mm module ships with up to 16GB LPDDR5 memory and 64GB UFS storage, and its standard MXM 3.0 edge connector exposes SDIO 3.0, PCIe 3.0, dual GbE, USB 3.1, and USB 2.0 interfaces, along with UARTs, SPI, I2C, I2S, GPIOs, and a DisplayPort 1.4 output supporting 2K at 60Hz. The module is designed for LiDAR sensors, IMUs, cameras, robotic controllers, smart displays, and other industrial peripherals. AAEON uCOM-Q6490 specifications: SoC – Qualcomm Dragonwing QCS6490 CPU – Octa-core Kryo 670 with 1x Gold Plus core (Cortex-A78) @ 2.7 GHz, 3x Gold cores (Cortex-A78) @ 2.4 GHz, 4x Silver cores (Cortex-A55) @ up to 1.9 GHz GPU – Adreno 643L GPU @ 812 MHz with support for Open GL ES 3.2, OpenCL 2.0, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/21/aaeon-ucom-q6490-a-smarc-2-1-qualcomm-dragonwing-qcs6490-som/\">AAEON uCOM-Q6490 &#8211; A SMARC 2.1-compliant SoM powered by Qualcomm Dragonwing QCS6490 SoC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "M5Stack Paper Mono – An ESP32-S3 e-paper development board with 3.97-inch touchscreen, LoRa, and NFC",
     "source": "CNX Software",
     "date": "2026-08-21",
@@ -33,6 +47,62 @@
     "date": "2026-08-21",
     "url": "https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/",
     "summary": "<div><img alt=\"MCX C15 and MCX C16 Arm Cortex M23 analog IoT MCUs\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/MCX-C15-and-MCX-C16-Arm-Cortex-M23-analog-IoT-MCUs-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We recently noted that NXP expanded its MCX A series with the MCX A5 Cortex-M33 family, integrating 10BASE-T1S Single Pair Ethernet, topology discovery, and PQC for industrial connectivity. However, it&#8217;s not the only recent announcement from the company, as NXP also expanded the lower-cost MCX C series with the MCX C15 and MCX C16 (C1 family) Cortex-M23 MCUs designed for industrial IoT and analog applications. The new C1 family provides a straightforward migration path from LPC800, LPC1100, and Kinetis MCUs, with full pin-to-pin compatibility with the newer MCX A Series. These low-cost entry-level devices feature a 16-bit SAR ADC, a high-speed comparator with DAC, an internal OpAmp, and FlexPWM for motor and power control. They also include up to 64 KB of flash, 12 KB of SRAM, LPI²C, LPSPI, up to four UARTs, up to 45 GPIOs, multiple timers, a low-power timer, an RTC, and a watchdog, with an operating [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/\">NXP MCX C15 and C16 low-cost Cortex-M23 MCUs target IoT, analog, and motor control applications</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "JEDEC to host Automotive Electronics Forum",
+    "source": "Electronics Weekly",
+    "date": "2026-08-21",
+    "url": "https://www.electronicsweekly.com/news/business/jedec-to-host-automotive-electronics-forum-2026-08/",
+    "summary": "<p>The JEDEC Solid State Technology Association has announced that it is hosting an Automotive Electronics Forum. The event will take place on 17 September 2026 in Santa Clara, California. The [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/jedec-to-host-automotive-electronics-forum-2026-08/\">JEDEC to host Automotive Electronics Forum</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices",
+    "source": "Electronics Weekly",
+    "date": "2026-08-21",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-feynman-gpu-vishay-sensor-optoelectronic-devices-2026-08/",
+    "summary": "<p>There's the next frontier of advanced optoelectronics, Samsung Foundry putting back its 1.4nm process to 2029, and Vishay sampling a short distance VCSEL-based proximity sensor...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-feynman-gpu-vishay-sensor-optoelectronic-devices-2026-08/\">Most Read &#8211; Feynman GPU, Vishay sensor, Optoelectronic devices</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "White House looking for 1000 rocket launches a year",
+    "source": "Electronics Weekly",
+    "date": "2026-08-21",
+    "url": "https://www.electronicsweekly.com/news/business/white-house-looking-for-1000-rocket-launches-a-year-2026-08/",
+    "summary": "<p>Yesterday US President Donald Trump  signed a memo aimed at enabling 1,000 US rocket  launches and re-entries a year &#8211; up from 178 launches in 2025. The memo requires agencies [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/white-house-looking-for-1000-rocket-launches-a-year-2026-08/\">White House looking for 1000 rocket launches a year</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Oshen raises £5m to track Russian subs",
+    "source": "Electronics Weekly",
+    "date": "2026-08-21",
+    "url": "https://www.electronicsweekly.com/news/business/oshen-raises-5m-to-track-russian-subs-2026-08/",
+    "summary": "<p>Oshen, the Plymouth developer of sailboats which track Russian submarines, has raised £5million to increase its fleet from 50 to 100 vessels. Investors include Lunar Ventures, Albion VC, Twin Track [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/oshen-raises-5m-to-track-russian-subs-2026-08/\">Oshen raises £5m to track Russian subs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Muon raises $250m and plans to build 500 satellites a year",
+    "source": "Electronics Weekly",
+    "date": "2026-08-21",
+    "url": "https://www.electronicsweekly.com/news/business/muon-raises-250m-and-plans-to-build-500-satellites-a-year-2026-08/",
+    "summary": "<p>Muon Space has completed a Series C round raising $250 million, valuing the company at $1.5 billion and taking its total funding to $386 million Muon has opened a factory [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/muon-raises-250m-and-plans-to-build-500-satellites-a-year-2026-08/\">Muon raises $250m and plans to build 500 satellites a year</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "RAN market has third consecutive quarter of growth",
+    "source": "Electronics Weekly",
+    "date": "2026-08-21",
+    "url": "https://www.electronicsweekly.com/news/business/__trashed-2-2026-08/",
+    "summary": "<p>The Q2 Radio Access Network (RAN) market continued to stabilise with modest YoY growth marking the third consecutive quarter of growth following more than two years of contraction says Dell’Oro. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/__trashed-2-2026-08/\">RAN market has third consecutive quarter of growth</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Consumer wearables market to have 12% CAGR 2026-32",
+    "source": "Electronics Weekly",
+    "date": "2026-08-21",
+    "url": "https://www.electronicsweekly.com/news/business/consumer-wearables-market-to-have-12-cagr-2026-08/",
+    "summary": "<p>The consumer wearables revenue is expected to grow at 12% CAGR between 2026 and 2032, says Counterpoint Research. Smart eyewear is projected to account for nearly one-fifth of total consumer [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/consumer-wearables-market-to-have-12-cagr-2026-08/\">Consumer wearables market to have 12% CAGR 2026-32</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "No One’s No.1 Problem",
+    "source": "Electronics Weekly",
+    "date": "2026-08-21",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/no-ones-no-1-problem-2026-08/",
+    "summary": "<p>New records for  high temperatures keep getting set but climate change has still not reached the top of the agenda for many people. None of the respondents in the 32 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/no-ones-no-1-problem-2026-08/\">No One’s No.1 Problem</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Deskbuddy – ESP32 Touchscreen Personal Desk Dashboard #3DThursday #3DPrinting",
@@ -61,13 +131,6 @@
     "date": "2026-08-20",
     "url": "https://hackaday.com/2026/08/20/foldable-oled-displays-and-the-bane-of-dust/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"458\" src=\"https://hackaday.com/wp-content/uploads/2026/08/folding_phone_uv_dust_on_hinge_ifixit_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Much like Apple&#8217;s once vaunted super-slim butterfly keyboard, today&#8217;s range of portable devices featuring flexible OLED displays &#8211; which can fold said display into a much smaller form factor &#8211; <a class=\"read-more\" href=\"https://hackaday.com/2026/08/20/foldable-oled-displays-and-the-bane-of-dust/\">&#8230;read more</a>"
-  },
-  {
-    "title": "3D Printering: Why is my PLA so Brittle?",
-    "source": "Hackaday",
-    "date": "2026-08-20",
-    "url": "https://hackaday.com/2026/08/20/3d-printering-why-is-my-pla-so-brittle/",
-    "summary": "<div><img alt=\"Art of 3D printer in the middle of printing a Hackaday Jolly Wrencher logo\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2020/02/3D-Printering-Header-New.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Over the years poly(lactic acid) (PLA) &#8211; also known as polylactide &#8211; has become a popular thermoplastic for a variety of reasons. One of these reasons is that it&#8217;s easily <a class=\"read-more\" href=\"https://hackaday.com/2026/08/20/3d-printering-why-is-my-pla-so-brittle/\">&#8230;read more</a>"
   },
   {
     "title": "Linux 7.2 release – Main changes, Arm, RISC-V, and MIPS architectures",
@@ -110,6 +173,20 @@
     "date": "2026-08-20",
     "url": "https://www.embedded.com/basler-syslogic-deliver-industrial-machine-vision-solutions/",
     "summary": "<p>Basler and Syslogic are expanding their partnership to enable machine vision and edge AI in industrial applications that require high-performance cameras and rugged AI computing platforms. The partnership leverages Basler's ace 2 GMSL cameras and Syslogic's rugged computers to deliver machine vision to applications such as autonomous mobile robots, agricultural vehicles, construction equipment, and intelligent [...]</p>\n<p>The post <a href=\"https://www.embedded.com/basler-syslogic-deliver-industrial-machine-vision-solutions/\">Basler, Syslogic Deliver Industrial Machine Vision Solutions</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Quantum technologies rush out of US labs to match China’s growth",
+    "source": "Electronics Weekly",
+    "date": "2026-08-20",
+    "url": "https://www.electronicsweekly.com/news/research-news/quantum-technologies-rush-out-of-us-labs-to-match-chinas-growth-2026-08/",
+    "summary": "<p>The Trump administration is pushing US quantum information science and technologies (QISTs) out of the lab as the first products mature, more private investment arrives, and Washington strives to match [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/research-news/quantum-technologies-rush-out-of-us-labs-to-match-chinas-growth-2026-08/\">Quantum technologies rush out of US labs to match China&#8217;s growth</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Fable: The Anti-Vision CEO",
+    "source": "Electronics Weekly",
+    "date": "2026-08-20",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-anti-vision-ceo-2026-08/",
+    "summary": "<p>Over 30 years ago, the incoming CEO of a company which had just made the largest loss in US history declared that the last thing the company needed was a [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-anti-vision-ceo-2026-08/\">Fable: The Anti-Vision CEO</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Arduino R3 + Breadboard Holder – Sticky-Back or Hot-Glue Mount #3DThursday #3DPrinting",
@@ -299,13 +376,6 @@
     "date": "2026-08-19",
     "url": "https://www.eejournal.com/industry_news/seco-brings-karl4-contactless-payment-terminal-to-the-us-market/",
     "summary": "SECO S.p.A. (“SECO” or the “Company”), leader in edge AI solutions for industrial applications, today announces the introduction of its KarL4 contactless payment terminal to the United States market, marking a significant step in the international expansion of the Company’s payment technology portfolio. Following successful deployments in Germany, Austria and Switzerland, KarL4 is now being adopted in &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/seco-brings-karl4-contactless-payment-terminal-to-the-us-market/\">Read More &#8594;<span class=\"screen-reader-text\"> \"SECO brings KarL4 contactless payment terminal to the US market\"</span></a>"
-  },
-  {
-    "title": "Waveshare PiRack-M6F 6-node rack unit for Raspberry Pi 4/5 brings all ports to the front",
-    "source": "CNX Software",
-    "date": "2026-08-18",
-    "url": "https://www.cnx-software.com/2026/08/18/waveshare-pirack-m6f-6-node-rack-unit-for-raspberry-pi-4-5-brings-all-ports-to-the-front/",
-    "summary": "<div><img alt=\"Waveshare PiRack M6F multi-node server cluster kit raspberry pi 4/5\" class=\"attachment-medium size-medium wp-post-image\" height=\"440\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Waveshare-PiRack-M6F-multi-node-server-cluster-kit-raspberry-pi-4-5-720x440.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Waveshare PiRack-M6F is a multi-node server cluster kit for Raspberry Pi 4/5 designed for 10-inch 2U racks and supporting up to six Model B SBCs with all ports brought to the front panel. We wrote about rack mounts for Raspberry Pi SBCs before with products such as KKSB 10-inch and 19-inch rack panels and MyElectronics&#8217; 19-inch 2U &#38; 3U rack mounts, but those are mostly mechanical solutions. The PiRack-M6F adds some add-on boards to bring all Raspberry Pi ports to the front, add a debug connector (Pi 5 only), and a screw terminal at the back for 5V power. It also supports HAT and add-on boards, for instance, to add PoE support. Waveshare PiRack-M6F kit content and highlights: PiRack-M6F aluminum alloy rack with 2U height mounting space Designed for 6x Raspberry Pi 4/5 Dimensions &#8211; Fits in 254 x 88 x 85 mm volume 6x Pi 5 Connector Adapter (D) [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/18/waveshare-pirack-m6f-6-node-rack-unit-for-raspberry-pi-4-5-brings-all-ports-to-the-front/\">Waveshare PiRack-M6F 6-node rack unit for Raspberry Pi 4/5 brings all ports to the front</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "BrainChip, Orama.AOI Target AI-Based Industrial Defect Detection",
