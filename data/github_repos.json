@@ -1,13 +1,13 @@
 [
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13732,
+    "stars": 13735,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-21",
     "topic": "robotics",
-    "score": 5492.9
+    "score": 5494.1
   },
   {
     "repo": "dora-rs/dora",
@@ -51,13 +51,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6206,
+    "stars": 6207,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-21",
     "topic": "world-model",
-    "score": 2482.5
+    "score": 2482.9
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -70,14 +70,24 @@
     "score": 306.9
   },
   {
+    "repo": "ROBOTIS-GIT/ai_worker",
+    "stars": 179,
+    "language": "Python",
+    "description": "AI Worker: FFW (Freedom From Work)",
+    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
+    "date": "2026-08-21",
+    "topic": "humanoid",
+    "score": 71.7
+  },
+  {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7925,
+    "stars": 7927,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-08-21",
     "topic": "robot-learning",
-    "score": 3170.1
+    "score": 3170.9
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -91,23 +101,23 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 3038,
+    "stars": 3040,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-20",
     "topic": "physical-ai",
-    "score": 1215.3
+    "score": 1216.1
   },
   {
     "repo": "mosaico-labs/mosaico",
-    "stars": 939,
+    "stars": 940,
     "language": "Python",
     "description": "Mosaico - The data platform for Physical AI",
     "url": "https://github.com/mosaico-labs/mosaico",
     "date": "2026-08-20",
     "topic": "physical-ai",
-    "score": 375.7
+    "score": 376.1
   },
   {
     "repo": "awslabs/awsome-distributed-ai",
@@ -131,13 +141,13 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15716,
+    "stars": 15717,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-20",
     "topic": "robotics",
-    "score": 6286.5
+    "score": 6286.9
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -260,16 +270,6 @@
     "score": 168.1
   },
   {
-    "repo": "ROBOTIS-GIT/ai_worker",
-    "stars": 179,
-    "language": "Python",
-    "description": "AI Worker: FFW (Freedom From Work)",
-    "url": "https://github.com/ROBOTIS-GIT/ai_worker",
-    "date": "2026-08-20",
-    "topic": "humanoid",
-    "score": 71.7
-  },
-  {
     "repo": "Tsinghua-MARS-Lab/OMG",
     "stars": 109,
     "language": "Python",
@@ -321,13 +321,13 @@
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3325,
+    "stars": 3326,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-08-19",
     "topic": "embodied-ai",
-    "score": 1330.1
+    "score": 1330.5
   },
   {
     "repo": "flashrt-project/FlashRT",
@@ -361,13 +361,13 @@
   },
   {
     "repo": "NVlabs/alpasim",
-    "stars": 1189,
+    "stars": 1190,
     "language": "Python",
     "description": "AlpaSim is an open-source autonomous vehicle simulation platform designed for development and testing of end-to-end AV policies",
     "url": "https://github.com/NVlabs/alpasim",
     "date": "2026-08-18",
     "topic": "physical-ai",
-    "score": 475.7
+    "score": 476.1
   },
   {
     "repo": "kornia/kornia",
@@ -381,13 +381,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3286,
+    "stars": 3288,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-18",
     "topic": "embodied-ai",
-    "score": 1314.5
+    "score": 1315.3
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -411,13 +411,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30337,
+    "stars": 30338,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-08-17",
     "topic": "robotics",
-    "score": 12134.9
+    "score": 12135.3
   },
   {
     "repo": "DLR-RM/stable-baselines3",
@@ -701,13 +701,13 @@
   },
   {
     "repo": "mani-skill/ManiSkill",
-    "stars": 3246,
+    "stars": 3247,
     "language": "Python",
     "description": "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
     "url": "https://github.com/mani-skill/ManiSkill",
     "date": "2026-08-04",
     "topic": "robot-learning",
-    "score": 1298.5
+    "score": 1298.9
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
@@ -741,13 +741,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15546,
+    "stars": 15547,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6218.5
+    "score": 6218.9
   },
   {
     "repo": "aalmuzairee/squint",
@@ -791,13 +791,13 @@
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",
-    "stars": 791,
+    "stars": 792,
     "language": "Python",
     "description": "A curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources",
     "url": "https://github.com/robotlearning123/awesome-isaac-gym",
     "date": "2026-07-28",
     "topic": "robot-learning",
-    "score": 316.5
+    "score": 316.9
   },
   {
     "repo": "Peter-cuhk/robot-data-studio",

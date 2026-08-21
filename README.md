@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-21 05:20 UTC
+Last Updated: 2026-08-21 06:21 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -51,14 +51,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-21 | Running Zork On The Steam Controller | Hackaday | [link](https://hackaday.com/2026/08/20/running-zork-on-the-steam-controller/) |
 | 2026-08-21 | Superconducting Temperature Record set at Ambient Pressure | Hackaday | [link](https://hackaday.com/2026/08/20/superconducting-temperature-record-set-at-ambient-pressure/) |
+| 2026-08-21 | White House looking for 1000 rocket launches a year | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/white-house-looking-for-1000-rocket-launches-a-year-2026-08/) |
+| 2026-08-21 | Oshen raises £5m to track Russian subs | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/oshen-raises-5m-to-track-russian-subs-2026-08/) |
+| 2026-08-21 | Muon raises $250m and plans to build 500 satellites a year | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/muon-raises-250m-and-plans-to-build-500-satellites-a-year-2026-08/) |
+| 2026-08-21 | RAN market has third consecutive quarter of growth | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/__trashed-2-2026-08/) |
+| 2026-08-21 | Consumer wearables market to have 12% CAGR 2026-32 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/consumer-wearables-market-to-have-12-cagr-2026-08/) |
 | 2026-08-21 | No One’s No.1 Problem | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/no-ones-no-1-problem-2026-08/) |
 | 2026-08-21 | Deskbuddy – ESP32 Touchscreen Personal Desk Dashboard #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/20/deskbuddy-esp32-touchscreen-personal-desk-dashboard-3dthursday-3dprinting/) |
 | 2026-08-20 | Samsung Printer is the Next Frontier Of Minecraft Servers | Hackaday | [link](https://hackaday.com/2026/08/20/samsung-printer-is-the-next-frontier-of-minecraft-servers/) |
-| 2026-08-20 | Homebrew 68K Machine Has A PCI Bus | Hackaday | [link](https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/) |
-| 2026-08-20 | Foldable OLED Displays and the Bane of Dust | Hackaday | [link](https://hackaday.com/2026/08/20/foldable-oled-displays-and-the-bane-of-dust/) |
-| 2026-08-20 | 3D Printering: Why is my PLA so Brittle? | Hackaday | [link](https://hackaday.com/2026/08/20/3d-printering-why-is-my-pla-so-brittle/) |
-| 2026-08-20 | Miniaturizing the Atari 2600 Console | Hackaday | [link](https://hackaday.com/2026/08/20/miniaturizing-the-atari-2600-console/) |
-| 2026-08-20 | Linux 7.2 release – Main changes, Arm, RISC-V, and MIPS architectures | CNX Software | [link](https://www.cnx-software.com/2026/08/21/linux-7-2-release-main-changes-arm-risc_v-amd-mips-architecture/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -80,27 +80,27 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-21 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-21 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-21 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
+| 2026-08-21 | kesnick/vlm-vla-test | 0 | 0 | [link](https://huggingface.co/kesnick/vlm-vla-test) |
 | 2026-08-21 | MotionforgeGroup/X-VLA-FC-80000 | 0 | 0 | [link](https://huggingface.co/MotionforgeGroup/X-VLA-FC-80000) |
 | 2026-08-21 | kemjensak/unlv_vla_policy | 0 | 0 | [link](https://huggingface.co/kemjensak/unlv_vla_policy) |
+| 2026-08-21 | HayatoNakamura/act-policy-test | 0 | 0 | [link](https://huggingface.co/HayatoNakamura/act-policy-test) |
+| 2026-08-21 | jayp132/beanbag-green-red-policy-experiment | 0 | 0 | [link](https://huggingface.co/jayp132/beanbag-green-red-policy-experiment) |
 | 2026-08-21 | XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W8A16 | 31 | 0 | [link](https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W8A16) |
 | 2026-08-21 | XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16 | 22 | 1 | [link](https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16) |
-| 2026-08-21 | XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-AttnW8 | 21 | 0 | [link](https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-AttnW8) |
-| 2026-08-21 | XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-GenW8 | 22 | 0 | [link](https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-GenW8) |
-| 2026-08-21 | XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16 | 44 | 0 | [link](https://huggingface.co/XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| earthtojake/text-to-cad | 13732 | Python | 5492.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13735 | Python | 5494.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | dora-rs/dora | 3888 | Rust | 1555.3 | [link](https://github.com/dora-rs/dora) |
 | leofan90/Awesome-World-Models | 1971 | Python | 788.5 | [link](https://github.com/leofan90/Awesome-World-Models) |
 | sou350121/VLA-Handbook | 527 | HTML | 210.9 | [link](https://github.com/sou350121/VLA-Handbook) |
 | worldbench/awesome-vla-for-ad | 464 | HTML | 185.7 | [link](https://github.com/worldbench/awesome-vla-for-ad) |
-| vllm-project/vllm-omni | 6206 | Python | 2482.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 6207 | Python | 2482.9 | [link](https://github.com/vllm-project/vllm-omni) |
 | NucleoidAI/Nucleoid | 767 | Rust | 306.9 | [link](https://github.com/NucleoidAI/Nucleoid) |
-| isaac-sim/IsaacLab | 7925 | Python | 3170.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| ROBOTIS-GIT/ai_worker | 179 | Python | 71.7 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
+| isaac-sim/IsaacLab | 7927 | Python | 3170.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 | DexForce/EmbodiChain | 210 | Python | 84.1 | [link](https://github.com/DexForce/EmbodiChain) |
-| NVIDIA/skills | 3038 | Python | 1215.3 | [link](https://github.com/NVIDIA/skills) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -110,9 +110,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-20 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGZiazk1S2hUWVk4QXlSY3FldjJ6VEhGS3FGUFhUbWRtdnFXUjdYRnp0YUZZMGNXNHUyaUxvazNsWGdrZFFGYllmNXJ5bUk3WDd6TlJqX2F1c1hSN3I4dDRsNVdabW1sOE0wRmRySWpjUWlkeGF0VlhDalF4bDhrd3JndkZfM2pJU1BQYU41UEF3U0ZlUVF5eTFfdE9oTl91WlJITQ?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDJ3RXRVazJTNjZVUDg5SjZwWk5YdS13Snd5MVlwUnV5MVpsLWxBUjcyZ0dWcXVmQ3hQUFgzZ2RQbk5WUkVTUjV6UnRGZ0JpTU9lTU4zbFVSUG5wQjlDN3JvSDBpNFBYYzhQWkdGS3MyMHJ1bG9ab09GdUE0MDRINWhseDd3emZzWDNNM0JwUHVJTmFZX3N2d3k4M2Z4eU9IaHdrLU1MRllfYk83WkM5UWNLbVMxdVVXVjRGd2UwUQ?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVVGZ3Q4aW0tRF9FZm9UN04xSlNudWRHcVFVX3ljNTJ1YlBfcF9RQ3hTSW5zQkpSZWJHeEpramdGX0VZcGFXWTlPYWczQlg3anhtSHJFbGJCVzU3dFlYSy1LX0hOc3FjUUtNUWxKbnR1Ty1PbnZaM3BTSjc0TVJlQWtGb05mbFJuZ2o2T2FvVDlzRm5UMG4zUWpTZm41ZDVtcmZtLXYtWUZCbzFFSU9Sb1dzbTFraEZUSDVsZXpsN3ZzREHSAcMBQVVfeXFMT0Y4bkNZdW9FdEJQYy0tRlplcGVzYjNfd0J0RjVjS2N5X0NFMVBuWmwxemNDaHpmdXlCdWx3TzNWVENSN2E5eUNibHB5aFkxMGxLdGRTS1JkWXdOZ1lvZjNpWDliS0FlaXJRcF8xWUlYQTlUa0d4MUlaRHRaQnhRNlYtZHhlTDFURGRXbERBTklJYndjalFrRXZibjFYUzl4eURXeno3dkVkZWFWMGVtTnRaNnA5UGJueWZDbUxYWWVPU1FV?oc=5) |
+| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wcVBCUWFNbEJ1LVVoVDBFTEtvLUs2SHl5NUdVR19kUFExVWpBYjFhZ2FjSmxabWtQZ2hPRnEwSW5OaERaajg1ZE5ZUW5SMXp0ZE1OYXdaUjNwb25QbEFHTXJCN0g5dU5pa1g0WW90WHJYd0FmcVdRdmNuNA?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWNGUDJYMjkyWll1LXFiS1dRVWZ5Z05ydFNMSE1iY29Bd215b01sYmlTQ3ZZX3FUTVp3ZnQzN2JjSmg1cTZGd1NaY3ppQ1F2d3BYWFNsdHI3SkZWZjdMb0VOd0ZNeHViNDBVYW1FNzZCQjFVbm5ITmtRSjhoR0FJSHFqdFphRzdjMFplNVpzbzRrcFJJdDdWSFQtT1V1UXV6MHJ6a1FlX3V5WjhVT1JqeVZjenBsTGlZVE5JZw?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFJKZmlaWUVYT050VDhEX05EQ1NnN2FVNXFFTFNabTM4a0ZrMUJheEQxMXpTSk5BRWx0dDV5TERGRDNnYW9qc205TDZyM25sZUxlWEkySm9VZEJETjhGWDAwZlFIbXpwbVlNaHFXU2p5U0hlY25falJDaUFPRlpOMXFLS3owckZISEFLREt2cFRuSkhYVWI1VXdNNF9Zajg4aUNxQnlGRXZTMDB4amc?oc=5) |
-| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wcVBCUWFNbEJ1LVVoVDBFTEtvLUs2SHl5NUdVR19kUFExVWpBYjFhZ2FjSmxabWtQZ2hPRnEwSW5OaERaajg1ZE5ZUW5SMXp0ZE1OYXdaUjNwb25QbEFHTXJCN0g5dU5pa1g0WW90WHJYd0FmcVdRdmNuNA?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkFIY05HZmlhdVF2dG85cVVfQ21RZlZHdTl3YWM2MWoyOEVJZ3ctcmhGNTZXSkdMeFNjdGltSENxcU9hLU0zNV81a1ltTlJLVTNQRVFCS04zZkh4UUNrOW43eDRnM05Nc0U0Q1RXczUzTVJZX1BydG1zd2hER3R6Y3ZlTnJLSnpIQjE0d0VLYkJkZ0FoMmN0OFdtVktqNTg?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1YwZzNETk9CSENZVDNEUTktbXZ6akFKeVBPcm1SRVNDNXZtanRWc21TbEY0M21GTTRpRjFoREZtRjAwVWtSWXduRzJJU3RRbDIyVGVHY0JkMlh0QktXblNDSFc4WF9CbjRXMmEtZGZWNmxoSThtMEExQm9VeFJVYnlHYTRoeXFMVU5YTmo3S3J5X0ZPMjRDdU45dUdsclhDMDBWNU5zT05uNlJiQ2VFQzJBdkM?oc=5) |
 
