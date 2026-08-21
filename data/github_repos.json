@@ -1,13 +1,13 @@
 [
   {
     "repo": "copper-project/copper-rs",
-    "stars": 1459,
+    "stars": 1460,
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
     "date": "2026-08-21",
     "topic": "physical-ai",
-    "score": 583.7
+    "score": 584.1
   },
   {
     "repo": "mosaico-labs/mosaico",
@@ -21,13 +21,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63464,
+    "stars": 63465,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-21",
     "topic": "robotics",
-    "score": 25385.7
+    "score": 25386.1
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -41,13 +41,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13745,
+    "stars": 13747,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-21",
     "topic": "robotics",
-    "score": 5498.1
+    "score": 5498.9
   },
   {
     "repo": "rerun-io/rerun",
@@ -68,6 +68,16 @@
     "date": "2026-08-21",
     "topic": "embodied-ai",
     "score": 1556.1
+  },
+  {
+    "repo": "datawhalechina/every-embodied",
+    "stars": 3296,
+    "language": "Python",
+    "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
+    "url": "https://github.com/datawhalechina/every-embodied",
+    "date": "2026-08-21",
+    "topic": "embodied-ai",
+    "score": 1318.5
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -111,13 +121,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6216,
+    "stars": 6217,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-21",
     "topic": "world-model",
-    "score": 2486.5
+    "score": 2486.9
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -211,13 +221,13 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15718,
+    "stars": 15719,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-20",
     "topic": "robotics",
-    "score": 6287.3
+    "score": 6287.7
   },
   {
     "repo": "RLinf/RLinf",
@@ -231,13 +241,13 @@
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2754,
+    "stars": 2755,
     "language": "Python",
     "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-08-20",
     "topic": "embodied-ai",
-    "score": 1101.7
+    "score": 1102.1
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
@@ -281,13 +291,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2321,
+    "stars": 2322,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-08-20",
     "topic": "humanoid",
-    "score": 928.5
+    "score": 928.9
   },
   {
     "repo": "Evan-wyl/humanoid-robot-intelligence",
@@ -311,13 +321,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44388,
+    "stars": 44387,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 17755.3
+    "score": 17754.9
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -388,16 +398,6 @@
     "date": "2026-08-18",
     "topic": "robotics",
     "score": 4526.9
-  },
-  {
-    "repo": "datawhalechina/every-embodied",
-    "stars": 3296,
-    "language": "Python",
-    "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
-    "url": "https://github.com/datawhalechina/every-embodied",
-    "date": "2026-08-18",
-    "topic": "embodied-ai",
-    "score": 1318.5
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -581,13 +581,13 @@
   },
   {
     "repo": "nasa-jpl/open-source-rover",
-    "stars": 9595,
+    "stars": 9596,
     "language": "Prolog",
     "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
     "url": "https://github.com/nasa-jpl/open-source-rover",
     "date": "2026-08-13",
     "topic": "robotics",
-    "score": 3838.1
+    "score": 3838.5
   },
   {
     "repo": "ycheng517/lerobot-ros",
@@ -701,13 +701,13 @@
   },
   {
     "repo": "mani-skill/ManiSkill",
-    "stars": 3249,
+    "stars": 3250,
     "language": "Python",
     "description": "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
     "url": "https://github.com/mani-skill/ManiSkill",
     "date": "2026-08-04",
     "topic": "robot-learning",
-    "score": 1299.7
+    "score": 1300.1
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
@@ -741,13 +741,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15561,
+    "stars": 15560,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6224.5
+    "score": 6224.1
   },
   {
     "repo": "aalmuzairee/squint",
