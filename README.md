@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-21 03:38 UTC
+Last Updated: 2026-08-21 04:25 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -50,7 +50,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-08-21 | Superconducting Temperature Record set at Ambient Pressure | Hackaday | [link](https://hackaday.com/2026/08/20/superconducting-temperature-record-set-at-ambient-pressure/) |
-| 2026-08-21 | No One’s No.1 Problem | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/no-ones-no-1-problem-2026-08/) |
 | 2026-08-21 | Deskbuddy – ESP32 Touchscreen Personal Desk Dashboard #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/20/deskbuddy-esp32-touchscreen-personal-desk-dashboard-3dthursday-3dprinting/) |
 | 2026-08-20 | Samsung Printer is the Next Frontier Of Minecraft Servers | Hackaday | [link](https://hackaday.com/2026/08/20/samsung-printer-is-the-next-frontier-of-minecraft-servers/) |
 | 2026-08-20 | Homebrew 68K Machine Has A PCI Bus | Hackaday | [link](https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/) |
@@ -59,6 +58,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-20 | Miniaturizing the Atari 2600 Console | Hackaday | [link](https://hackaday.com/2026/08/20/miniaturizing-the-atari-2600-console/) |
 | 2026-08-20 | An Early History of Space Stations: The Brick Moon Made Real | Hackaday | [link](https://hackaday.com/2026/08/20/an-early-history-of-space-stations-the-brick-moon-made-real/) |
 | 2026-08-20 | Linux 7.2 release – Main changes, Arm, RISC-V, and MIPS architectures | CNX Software | [link](https://www.cnx-software.com/2026/08/21/linux-7-2-release-main-changes-arm-risc_v-amd-mips-architecture/) |
+| 2026-08-20 | Why are people suddenly adding Apple Lightning cables to Raspberry Pi Pico 2 boards? | CNX Software | [link](https://www.cnx-software.com/2026/08/20/why-are-people-suddenly-adding-apple-lightning-cables-to-raspberry-pi-pico-2-boards/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -79,6 +79,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-08-21 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-21 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
+| 2026-08-21 | MotionforgeGroup/X-VLA-FC-80000 | 0 | 0 | [link](https://huggingface.co/MotionforgeGroup/X-VLA-FC-80000) |
 | 2026-08-21 | kemjensak/unlv_vla_policy | 0 | 0 | [link](https://huggingface.co/kemjensak/unlv_vla_policy) |
 | 2026-08-21 | XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W8A16 | 31 | 0 | [link](https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W8A16) |
 | 2026-08-21 | XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16 | 22 | 1 | [link](https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16) |
@@ -86,16 +87,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-21 | XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-GenW8 | 22 | 0 | [link](https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-GenW8) |
 | 2026-08-21 | XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16 | 44 | 0 | [link](https://huggingface.co/XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16) |
 | 2026-08-21 | XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W8A16 | 50 | 1 | [link](https://huggingface.co/XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W8A16) |
-| 2026-08-21 | XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16-AttnW8 | 38 | 0 | [link](https://huggingface.co/XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16-AttnW8) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| earthtojake/text-to-cad | 13727 | Python | 5490.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13729 | Python | 5491.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | dora-rs/dora | 3888 | Rust | 1555.3 | [link](https://github.com/dora-rs/dora) |
 | leofan90/Awesome-World-Models | 1971 | Python | 788.5 | [link](https://github.com/leofan90/Awesome-World-Models) |
 | sou350121/VLA-Handbook | 527 | HTML | 210.9 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 6205 | Python | 2482.1 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 6206 | Python | 2482.5 | [link](https://github.com/vllm-project/vllm-omni) |
 | NucleoidAI/Nucleoid | 767 | Rust | 306.9 | [link](https://github.com/NucleoidAI/Nucleoid) |
 | isaac-sim/IsaacLab | 7925 | Python | 3170.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 | DexForce/EmbodiChain | 210 | Python | 84.1 | [link](https://github.com/DexForce/EmbodiChain) |
