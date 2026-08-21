@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-21 07:32 UTC
+Generated: 2026-08-21 08:22 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,10 +15,10 @@ Generated: 2026-08-21 07:32 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | commaai/openpilot | 63460 | 25384.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44382 | 17752.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44384 | 17753.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30339 | 12135.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16146 | 6458.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15718 | 6287.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15719 | 6287.7 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,7 +41,7 @@ Generated: 2026-08-21 07:32 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-21 | Chinese visa impact hits Indian physical AI startups - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugJBVV95cUxNRW5UOEJha2x4ZGtaZXR3STlvWVBnSEFEaWQzRC0xQ1UteTIwcXVaOUlibmE0OW9qSXhNUU1TSzc0bnk5eTQzWW00cmdCMTFRT3NvM0dKVE5YMExEZmRrWFhGaktqQjVUMll1TWZsMVU3dnlqbFpsTW5CUUdaMDROTlFlaUNibHNUNEpvc3lXSEdDTkNvaGJITWVQV0p3QzFkREJ6QnJ3X2xZWmxKSWVFS0RyUkhmeTRtYnh0UV9TazhJSFh2U2tNdW9uTldPZjlEX2tmOU4yblZ3STE1UEJOTXQ4TEpuTjRvUVFNWkNpVHVfNWdOcWtYUlhhZUc1SW56LW5UOEhjQ3podE9lcGRWc3doMUdCN3BqeWVCUUhTQm9fRG1xenNBanNUXzRzVVB6N1ducEFiLW9OZ9IB1gFBVV95cUxORE5YZlVvdnVGRkdtWV9EQ19LNDFxNmFmMTM2TGRkWlZGZk5YODFIZDhSQXRUWlFCaVl2TGUtbE53T2dFT0VBUWplWk9IU053RzVoU0pYaFVBSVQ0U3VMRDMwSU9sLTNtRlJLZkZ5akFUeUp3cnRaVVFFN0xtM3lBU1VuRkdxeFNyaEZBUXpoRjRQUUVnamVaVloxR2hmeWpaREhwaDNHVklqSmFBR0dUb3lpeGtIOEtVVDhMeWpqckwzNHh1bElPME1vNDJMcUpwU0t6dUNR?oc=5) |
+| 2026-08-21 | Chinese visa impact hits Indian physical AI startups - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWtCajM1Y1N2TEJuRl8wX1kwcEtQb0RxQUV2SWJvOEtjaWpEWi1zcTYzazI2bUJhTEw4MTFZeU9mcFdVeWRld3o5Ry1EZExpbmg4aXVkOXY2dkUtb2dQREptZjVyNW1zUk5sVlozNWVzTVhJRktrTnU3RUJkRUQ1ZUlBUHRnbGRmUzNNREFNdGcyUmVaaVRnNGFOMVNvQmYtYkZsbTlfWDhITGIwSlU4U19mam5RemJtaE4xYXZXUDFjOTBwcG9yVkFXT21WdERo0gHWAUFVX3lxTE5ETlhmVW92dUZGR21ZX0RDX0s0MXE2YWYxMzZMZGRaVkZmTlg4MUhkOFJBdFRaUUJpWXZMZS1sTndPZ0VPRUFRamVaT0hTTndHNWhTSlhoVUFJVDRTdUxEMzBJT2wtM21GUktmRnlqQVR5SndydFpVUUU3TG0zeUFTVW5GR3F4U3JoRkFRemhGNFBRRWdqZVpWWjFHaGZ5alpESHBoM0dWSWpKYUFHR1RveWl4a0g4S1VUOEx5ampyTDM0eHVsSU8wTW80MkxxSnBTS3p1Q1E?oc=5) |
 | 2026-08-20 | Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUpET2g2MTNFVnVnRVY3U2hob2UwcnpTYnhOQVJ2RDdFQW4zTHI2LThnelJwZV9CTUh6U1J0WlJOdkRGVnM1MVVQQ1hST281VHdXWV9BekdXQ2lFdWwycGQta1N1X3RTS25YNnh3em9RT0ZZVE14TUJTOUZjRHNzM0tlU2lya0F0VHFLdDcwTG9LaUtvZFVyaXEzaHZySGRqb19EbldTNVpGQQ?oc=5) |
 | 2026-08-20 | Humanoid robot crashes after Beijing sprint - The American Bazaar | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGkxUUNMWFNmOUVybkkzVzJMd3hZcGszYTVhWTdrNlY2VU10b01KdlJMSmlzajkzZFBCSWpGY0Y1U3J2a1B6Y0ZuVDdCN0JCekE1U2lRQ1RZUTc4dUpVVVZoa1JZeF9nZGNRdXp4d0tBLTFyTXY1d3ZNWHUtcHpzbEN1S29hUEEzNUlLX0t6UjYwUQ?oc=5) |
 | 2026-08-20 | Chinese humanoids take center stage at World Robot Conference - Daily Sabah | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODFWS015SEdsUVZ1azNZYzhpWEltUmVxMUhUbWZzUlQ2UVh4WWdmLV9FbTlLcVlxUEgzcHE2OWZiazlIWVVSRU5UUTlEQVJMd2VJak43TzVtVWVwWHlBaUVwaGIxQjZPclZ0OWdUQVVWYklvclRKbVdwTXR2QllWd0Y4amtvVERQTU9NTThRUlNiUEgzU1NoMXFuTUw3OC1fNW9rRE5TY3UzQQ?oc=5) |

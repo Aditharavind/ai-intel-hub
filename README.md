@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-21 07:32 UTC
+Last Updated: 2026-08-21 08:22 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-21 | Self-Hosting Offline Websites | Hackaday | [link](https://hackaday.com/2026/08/21/self-hosting-offline-websites/) |
 | 2026-08-21 | Running Zork On The Steam Controller | Hackaday | [link](https://hackaday.com/2026/08/20/running-zork-on-the-steam-controller/) |
 | 2026-08-21 | Superconducting Temperature Record set at Ambient Pressure | Hackaday | [link](https://hackaday.com/2026/08/20/superconducting-temperature-record-set-at-ambient-pressure/) |
-| 2026-08-21 | White House looking for 1000 rocket launches a year | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/white-house-looking-for-1000-rocket-launches-a-year-2026-08/) |
-| 2026-08-21 | Oshen raises £5m to track Russian subs | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/oshen-raises-5m-to-track-russian-subs-2026-08/) |
-| 2026-08-21 | Muon raises $250m and plans to build 500 satellites a year | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/muon-raises-250m-and-plans-to-build-500-satellites-a-year-2026-08/) |
-| 2026-08-21 | RAN market has third consecutive quarter of growth | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/__trashed-2-2026-08/) |
-| 2026-08-21 | Consumer wearables market to have 12% CAGR 2026-32 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/consumer-wearables-market-to-have-12-cagr-2026-08/) |
-| 2026-08-21 | No One’s No.1 Problem | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/no-ones-no-1-problem-2026-08/) |
+| 2026-08-21 | NXP MCX C15 and C16 low-cost Cortex-M23 MCUs target IoT, analog, and motor control applications | CNX Software | [link](https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/) |
 | 2026-08-21 | Deskbuddy – ESP32 Touchscreen Personal Desk Dashboard #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/20/deskbuddy-esp32-touchscreen-personal-desk-dashboard-3dthursday-3dprinting/) |
 | 2026-08-20 | Samsung Printer is the Next Frontier Of Minecraft Servers | Hackaday | [link](https://hackaday.com/2026/08/20/samsung-printer-is-the-next-frontier-of-minecraft-servers/) |
+| 2026-08-20 | Homebrew 68K Machine Has A PCI Bus | Hackaday | [link](https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/) |
+| 2026-08-20 | Foldable OLED Displays and the Bane of Dust | Hackaday | [link](https://hackaday.com/2026/08/20/foldable-oled-displays-and-the-bane-of-dust/) |
+| 2026-08-20 | 3D Printering: Why is my PLA so Brittle? | Hackaday | [link](https://hackaday.com/2026/08/20/3d-printering-why-is-my-pla-so-brittle/) |
+| 2026-08-20 | Linux 7.2 release – Main changes, Arm, RISC-V, and MIPS architectures | CNX Software | [link](https://www.cnx-software.com/2026/08/21/linux-7-2-release-main-changes-arm-risc_v-amd-mips-architecture/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| google-deepmind/mujoco | 14620 | C++ | 5848.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13737 | Python | 5494.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| copper-project/copper-rs | 1459 | Rust | 583.7 | [link](https://github.com/copper-project/copper-rs) |
+| mosaico-labs/mosaico | 942 | Python | 376.9 | [link](https://github.com/mosaico-labs/mosaico) |
+| google-deepmind/mujoco | 14622 | C++ | 5848.9 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13740 | Python | 5496.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | dora-rs/dora | 3889 | Rust | 1555.7 | [link](https://github.com/dora-rs/dora) |
 | leofan90/Awesome-World-Models | 1971 | Python | 788.5 | [link](https://github.com/leofan90/Awesome-World-Models) |
-| sou350121/VLA-Handbook | 527 | HTML | 210.9 | [link](https://github.com/sou350121/VLA-Handbook) |
+| sou350121/VLA-Handbook | 528 | HTML | 211.3 | [link](https://github.com/sou350121/VLA-Handbook) |
 | worldbench/awesome-vla-for-ad | 464 | HTML | 185.7 | [link](https://github.com/worldbench/awesome-vla-for-ad) |
 | luohongk/Embodied-AI-Daily | 430 | HTML | 172.1 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| vllm-project/vllm-omni | 6211 | Python | 2484.5 | [link](https://github.com/vllm-project/vllm-omni) |
-| NucleoidAI/Nucleoid | 767 | Rust | 306.9 | [link](https://github.com/NucleoidAI/Nucleoid) |
-| ROBOTIS-GIT/ai_worker | 179 | Python | 71.7 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
+| vllm-project/vllm-omni | 6212 | Python | 2484.9 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,7 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-21 | Chinese visa impact hits Indian physical AI startups - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugJBVV95cUxNRW5UOEJha2x4ZGtaZXR3STlvWVBnSEFEaWQzRC0xQ1UteTIwcXVaOUlibmE0OW9qSXhNUU1TSzc0bnk5eTQzWW00cmdCMTFRT3NvM0dKVE5YMExEZmRrWFhGaktqQjVUMll1TWZsMVU3dnlqbFpsTW5CUUdaMDROTlFlaUNibHNUNEpvc3lXSEdDTkNvaGJITWVQV0p3QzFkREJ6QnJ3X2xZWmxKSWVFS0RyUkhmeTRtYnh0UV9TazhJSFh2U2tNdW9uTldPZjlEX2tmOU4yblZ3STE1UEJOTXQ4TEpuTjRvUVFNWkNpVHVfNWdOcWtYUlhhZUc1SW56LW5UOEhjQ3podE9lcGRWc3doMUdCN3BqeWVCUUhTQm9fRG1xenNBanNUXzRzVVB6N1ducEFiLW9OZ9IB1gFBVV95cUxORE5YZlVvdnVGRkdtWV9EQ19LNDFxNmFmMTM2TGRkWlZGZk5YODFIZDhSQXRUWlFCaVl2TGUtbE53T2dFT0VBUWplWk9IU053RzVoU0pYaFVBSVQ0U3VMRDMwSU9sLTNtRlJLZkZ5akFUeUp3cnRaVVFFN0xtM3lBU1VuRkdxeFNyaEZBUXpoRjRQUUVnamVaVloxR2hmeWpaREhwaDNHVklqSmFBR0dUb3lpeGtIOEtVVDhMeWpqckwzNHh1bElPME1vNDJMcUpwU0t6dUNR?oc=5) |
+| 2026-08-21 | Chinese visa impact hits Indian physical AI startups - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWtCajM1Y1N2TEJuRl8wX1kwcEtQb0RxQUV2SWJvOEtjaWpEWi1zcTYzazI2bUJhTEw4MTFZeU9mcFdVeWRld3o5Ry1EZExpbmg4aXVkOXY2dkUtb2dQREptZjVyNW1zUk5sVlozNWVzTVhJRktrTnU3RUJkRUQ1ZUlBUHRnbGRmUzNNREFNdGcyUmVaaVRnNGFOMVNvQmYtYkZsbTlfWDhITGIwSlU4U19mam5RemJtaE4xYXZXUDFjOTBwcG9yVkFXT21WdERo0gHWAUFVX3lxTE5ETlhmVW92dUZGR21ZX0RDX0s0MXE2YWYxMzZMZGRaVkZmTlg4MUhkOFJBdFRaUUJpWXZMZS1sTndPZ0VPRUFRamVaT0hTTndHNWhTSlhoVUFJVDRTdUxEMzBJT2wtM21GUktmRnlqQVR5SndydFpVUUU3TG0zeUFTVW5GR3F4U3JoRkFRemhGNFBRRWdqZVpWWjFHaGZ5alpESHBoM0dWSWpKYUFHR1RveWl4a0g4S1VUOEx5ampyTDM0eHVsSU8wTW80MkxxSnBTS3p1Q1E?oc=5) |
 | 2026-08-20 | Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUpET2g2MTNFVnVnRVY3U2hob2UwcnpTYnhOQVJ2RDdFQW4zTHI2LThnelJwZV9CTUh6U1J0WlJOdkRGVnM1MVVQQ1hST281VHdXWV9BekdXQ2lFdWwycGQta1N1X3RTS25YNnh3em9RT0ZZVE14TUJTOUZjRHNzM0tlU2lya0F0VHFLdDcwTG9LaUtvZFVyaXEzaHZySGRqb19EbldTNVpGQQ?oc=5) |
 | 2026-08-20 | Humanoid robot crashes after Beijing sprint - The American Bazaar | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGkxUUNMWFNmOUVybkkzVzJMd3hZcGszYTVhWTdrNlY2VU10b01KdlJMSmlzajkzZFBCSWpGY0Y1U3J2a1B6Y0ZuVDdCN0JCekE1U2lRQ1RZUTc4dUpVVVZoa1JZeF9nZGNRdXp4d0tBLTFyTXY1d3ZNWHUtcHpzbEN1S29hUEEzNUlLX0t6UjYwUQ?oc=5) |
 | 2026-08-20 | Chinese humanoids take center stage at World Robot Conference - Daily Sabah | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODFWS015SEdsUVZ1azNZYzhpWEltUmVxMUhUbWZzUlQ2UVh4WWdmLV9FbTlLcVlxUEgzcHE2OWZiazlIWVVSRU5UUTlEQVJMd2VJak43TzVtVWVwWHlBaUVwaGIxQjZPclZ0OWdUQVVWYklvclRKbVdwTXR2QllWd0Y4amtvVERQTU9NTThRUlNiUEgzU1NoMXFuTUw3OC1fNW9rRE5TY3UzQQ?oc=5) |
