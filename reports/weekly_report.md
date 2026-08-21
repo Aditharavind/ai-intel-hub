@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-21 08:22 UTC
+Generated: 2026-08-21 09:22 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,19 +14,19 @@ Generated: 2026-08-21 08:22 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63460 | 25384.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44384 | 17753.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30339 | 12135.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| commaai/openpilot | 63462 | 25384.9 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44385 | 17754.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30340 | 12136.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16146 | 6458.5 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15719 | 6287.7 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| SEU-PAISys/Embodied.cpp | 801 | 241.2 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
-| physicalai-bmi/efa-1 | 230 | 69.1 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
-| XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa | 125 | 39.6 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa) |
-| XiaomiRobotics/Xiaomi-Robotics-1-VLABench | 92 | 28.7 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-VLABench) |
+| SEU-PAISys/Embodied.cpp | 804 | 242.1 | [link](https://huggingface.co/SEU-PAISys/Embodied.cpp) |
+| physicalai-bmi/efa-1 | 236 | 70.9 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
+| XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa | 132 | 41.7 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa) |
+| XiaomiRobotics/Xiaomi-Robotics-1-VLABench | 93 | 29.0 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-VLABench) |
 | physicalairi/so101_1200ep_smolvla | 87 | 26.2 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
 
 ## Top Funding Rounds
@@ -34,9 +34,9 @@ Generated: 2026-08-21 08:22 UTC
 | --- | --- | --- | --- |
 | 2026-08-20 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhLOS1OTWxZdzBsWFYxXzBybFo0dU1LdTVLLTgzWEtlNDlMRm1uRjQ0R3lSOWpna0dkanhMR0dGV0RVOUVzRFZWbFZJejNMWEQ5NXRKaFc5MTVrN3ZIdnpmQ1p5UUVrV3lOMUI0X0ktTjQ0MEM1bTFzaXg3d1dBT1NXY2FmZkRnRW03ZUo4VEx3cFU3SVVFdVQzZUtVSWpWZlFYM0diQi1Wb1lJVGZn?oc=5) |
 | 2026-08-20 | Unitree |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxOLU9kZTRhZG95aFFQLU51bFN0elpRTUJMVVNRR1BsSGw1MlJRNDYweFdYdG5JNWtKQTJCQ1hNNGF5NmF4Wks4czN1NFNqcjFFOHJ5d1R2X0tPUTEzV0NjbXI1bFVFN3JTOXhSOXBkeUxHVEFPN3VFRVl1UnFqeGdreml6WDBYWTdjTWdnemttWks3M2Rv?oc=5) |
-| 2026-08-20 | Unitree |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGZiazk1S2hUWVk4QXlSY3FldjJ6VEhGS3FGUFhUbWRtdnFXUjdYRnp0YUZZMGNXNHUyaUxvazNsWGdrZFFGYllmNXJ5bUk3WDd6TlJqX2F1c1hSN3I4dDRsNVdabW1sOE0wRmRySWpjUWlkeGF0VlhDalF4bDhrd3JndkZfM2pJU1BQYU41UEF3U0ZlUVF5eTFfdE9oTl91WlJITQ?oc=5) |
 | 2026-08-19 | Unitree |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDJ3RXRVazJTNjZVUDg5SjZwWk5YdS13Snd5MVlwUnV5MVpsLWxBUjcyZ0dWcXVmQ3hQUFgzZ2RQbk5WUkVTUjV6UnRGZ0JpTU9lTU4zbFVSUG5wQjlDN3JvSDBpNFBYYzhQWkdGS3MyMHJ1bG9ab09GdUE0MDRINWhseDd3emZzWDNNM0JwUHVJTmFZX3N2d3k4M2Z4eU9IaHdrLU1MRllfYk83WkM5UWNLbVMxdVVXVjRGd2UwUQ?oc=5) |
 | 2026-08-19 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVVGZ3Q4aW0tRF9FZm9UN04xSlNudWRHcVFVX3ljNTJ1YlBfcF9RQ3hTSW5zQkpSZWJHeEpramdGX0VZcGFXWTlPYWczQlg3anhtSHJFbGJCVzU3dFlYSy1LX0hOc3FjUUtNUWxKbnR1Ty1PbnZaM3BTSjc0TVJlQWtGb05mbFJuZ2o2T2FvVDlzRm5UMG4zUWpTZm41ZDVtcmZtLXYtWUZCbzFFSU9Sb1dzbTFraEZUSDVsZXpsN3ZzREHSAcMBQVVfeXFMT0Y4bkNZdW9FdEJQYy0tRlplcGVzYjNfd0J0RjVjS2N5X0NFMVBuWmwxemNDaHpmdXlCdWx3TzNWVENSN2E5eUNibHB5aFkxMGxLdGRTS1JkWXdOZ1lvZjNpWDliS0FlaXJRcF8xWUlYQTlUa0d4MUlaRHRaQnhRNlYtZHhlTDFURGRXbERBTklJYndjalFrRXZibjFYUzl4eURXeno3dkVkZWFWMGVtTnRaNnA5UGJueWZDbUxYWWVPU1FV?oc=5) |
+| 2026-08-19 | Unitree |  | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wcVBCUWFNbEJ1LVVoVDBFTEtvLUs2SHl5NUdVR19kUFExVWpBYjFhZ2FjSmxabWtQZ2hPRnEwSW5OaERaajg1ZE5ZUW5SMXp0ZE1OYXdaUjNwb25QbEFHTXJCN0g5dU5pa1g0WW90WHJYd0FmcVdRdmNuNA?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |

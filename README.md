@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-21 08:22 UTC
+Last Updated: 2026-08-21 09:22 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,37 +77,36 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-21 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 | 2026-08-21 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-21 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-21 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
 | 2026-08-21 | vladmandic/sdnext-upscalers | 0 | 5 | [link](https://huggingface.co/vladmandic/sdnext-upscalers) |
 | 2026-08-21 | vlabki/daisy-circuit-shadow-v1 | 0 | 0 | [link](https://huggingface.co/vlabki/daisy-circuit-shadow-v1) |
-| 2026-08-21 | kesnick/vlm-vla-test | 0 | 0 | [link](https://huggingface.co/kesnick/vlm-vla-test) |
+| 2026-08-21 | kesnick/vlm-vla-test | 7 | 0 | [link](https://huggingface.co/kesnick/vlm-vla-test) |
 | 2026-08-21 | MotionforgeGroup/X-VLA-FC-80000 | 0 | 0 | [link](https://huggingface.co/MotionforgeGroup/X-VLA-FC-80000) |
-| 2026-08-21 | kemjensak/unlv_vla_policy | 0 | 0 | [link](https://huggingface.co/kemjensak/unlv_vla_policy) |
+| 2026-08-21 | kemjensak/unlv_vla_policy | 12 | 0 | [link](https://huggingface.co/kemjensak/unlv_vla_policy) |
 | 2026-08-21 | yhyhyhyh1/act_stage0_v2_policy | 0 | 0 | [link](https://huggingface.co/yhyhyhyh1/act_stage0_v2_policy) |
-| 2026-08-21 | Tron-Hayato/act-policy-test | 0 | 0 | [link](https://huggingface.co/Tron-Hayato/act-policy-test) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1459 | Rust | 583.7 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 942 | Python | 376.9 | [link](https://github.com/mosaico-labs/mosaico) |
-| google-deepmind/mujoco | 14622 | C++ | 5848.9 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13740 | Python | 5496.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| commaai/openpilot | 63462 | Python | 25384.9 | [link](https://github.com/commaai/openpilot) |
+| google-deepmind/mujoco | 14624 | C++ | 5849.7 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13743 | Python | 5497.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| rerun-io/rerun | 11333 | Rust | 4533.3 | [link](https://github.com/rerun-io/rerun) |
 | dora-rs/dora | 3889 | Rust | 1555.7 | [link](https://github.com/dora-rs/dora) |
-| leofan90/Awesome-World-Models | 1971 | Python | 788.5 | [link](https://github.com/leofan90/Awesome-World-Models) |
+| leofan90/Awesome-World-Models | 1972 | Python | 788.9 | [link](https://github.com/leofan90/Awesome-World-Models) |
 | sou350121/VLA-Handbook | 528 | HTML | 211.3 | [link](https://github.com/sou350121/VLA-Handbook) |
 | worldbench/awesome-vla-for-ad | 464 | HTML | 185.7 | [link](https://github.com/worldbench/awesome-vla-for-ad) |
-| luohongk/Embodied-AI-Daily | 430 | HTML | 172.1 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| vllm-project/vllm-omni | 6212 | Python | 2484.9 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-08-20 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhLOS1OTWxZdzBsWFYxXzBybFo0dU1LdTVLLTgzWEtlNDlMRm1uRjQ0R3lSOWpna0dkanhMR0dGV0RVOUVzRFZWbFZJejNMWEQ5NXRKaFc5MTVrN3ZIdnpmQ1p5UUVrV3lOMUI0X0ktTjQ0MEM1bTFzaXg3d1dBT1NXY2FmZkRnRW03ZUo4VEx3cFU3SVVFdVQzZUtVSWpWZlFYM0diQi1Wb1lJVGZn?oc=5) |
 | 2026-08-20 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxOLU9kZTRhZG95aFFQLU51bFN0elpRTUJMVVNRR1BsSGw1MlJRNDYweFdYdG5JNWtKQTJCQ1hNNGF5NmF4Wks4czN1NFNqcjFFOHJ5d1R2X0tPUTEzV0NjbXI1bFVFN3JTOXhSOXBkeUxHVEFPN3VFRVl1UnFqeGdreml6WDBYWTdjTWdnemttWks3M2Rv?oc=5) |
-| 2026-08-20 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGZiazk1S2hUWVk4QXlSY3FldjJ6VEhGS3FGUFhUbWRtdnFXUjdYRnp0YUZZMGNXNHUyaUxvazNsWGdrZFFGYllmNXJ5bUk3WDd6TlJqX2F1c1hSN3I4dDRsNVdabW1sOE0wRmRySWpjUWlkeGF0VlhDalF4bDhrd3JndkZfM2pJU1BQYU41UEF3U0ZlUVF5eTFfdE9oTl91WlJITQ?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDJ3RXRVazJTNjZVUDg5SjZwWk5YdS13Snd5MVlwUnV5MVpsLWxBUjcyZ0dWcXVmQ3hQUFgzZ2RQbk5WUkVTUjV6UnRGZ0JpTU9lTU4zbFVSUG5wQjlDN3JvSDBpNFBYYzhQWkdGS3MyMHJ1bG9ab09GdUE0MDRINWhseDd3emZzWDNNM0JwUHVJTmFZX3N2d3k4M2Z4eU9IaHdrLU1MRllfYk83WkM5UWNLbVMxdVVXVjRGd2UwUQ?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVVGZ3Q4aW0tRF9FZm9UN04xSlNudWRHcVFVX3ljNTJ1YlBfcF9RQ3hTSW5zQkpSZWJHeEpramdGX0VZcGFXWTlPYWczQlg3anhtSHJFbGJCVzU3dFlYSy1LX0hOc3FjUUtNUWxKbnR1Ty1PbnZaM3BTSjc0TVJlQWtGb05mbFJuZ2o2T2FvVDlzRm5UMG4zUWpTZm41ZDVtcmZtLXYtWUZCbzFFSU9Sb1dzbTFraEZUSDVsZXpsN3ZzREHSAcMBQVVfeXFMT0Y4bkNZdW9FdEJQYy0tRlplcGVzYjNfd0J0RjVjS2N5X0NFMVBuWmwxemNDaHpmdXlCdWx3TzNWVENSN2E5eUNibHB5aFkxMGxLdGRTS1JkWXdOZ1lvZjNpWDliS0FlaXJRcF8xWUlYQTlUa0d4MUlaRHRaQnhRNlYtZHhlTDFURGRXbERBTklJYndjalFrRXZibjFYUzl4eURXeno3dkVkZWFWMGVtTnRaNnA5UGJueWZDbUxYWWVPU1FV?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wcVBCUWFNbEJ1LVVoVDBFTEtvLUs2SHl5NUdVR19kUFExVWpBYjFhZ2FjSmxabWtQZ2hPRnEwSW5OaERaajg1ZE5ZUW5SMXp0ZE1OYXdaUjNwb25QbEFHTXJCN0g5dU5pa1g0WW90WHJYd0FmcVdRdmNuNA?oc=5) |
@@ -115,6 +114,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFJKZmlaWUVYT050VDhEX05EQ1NnN2FVNXFFTFNabTM4a0ZrMUJheEQxMXpTSk5BRWx0dDV5TERGRDNnYW9qc205TDZyM25sZUxlWEkySm9VZEJETjhGWDAwZlFIbXpwbVlNaHFXU2p5U0hlY25falJDaUFPRlpOMXFLS3owckZISEFLREt2cFRuSkhYVWI1VXdNNF9Zajg4aUNxQnlGRXZTMDB4amc?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkFIY05HZmlhdVF2dG85cVVfQ21RZlZHdTl3YWM2MWoyOEVJZ3ctcmhGNTZXSkdMeFNjdGltSENxcU9hLU0zNV81a1ltTlJLVTNQRVFCS04zZkh4UUNrOW43eDRnM05Nc0U0Q1RXczUzTVJZX1BydG1zd2hER3R6Y3ZlTnJLSnpIQjE0d0VLYkJkZ0FoMmN0OFdtVktqNTg?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1YwZzNETk9CSENZVDNEUTktbXZ6akFKeVBPcm1SRVNDNXZtanRWc21TbEY0M21GTTRpRjFoREZtRjAwVWtSWXduRzJJU3RRbDIyVGVHY0JkMlh0QktXblNDSFc4WF9CbjRXMmEtZGZWNmxoSThtMEExQm9VeFJVYnlHYTRoeXFMVU5YTmo3S3J5X0ZPMjRDdU45dUdsclhDMDBWNU5zT05uNlJiQ2VFQzJBdkM?oc=5) |
+| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ1JsSlczNUwzaENvLVlEamtJM3hRVXFzSC1LY2RLaTY0NXhydmlIYUtKQnE5QU1NRkw5MWRyOU1ZWXdYMnRRUmpJcTV3emhuLTl6TUdXUTJNcVBFeFBWVjNUMXpSOWg2Z3k5RC0tU2w2dFhVLW1zWEI2MWxYX3RySm94Z3Z1V0JKN1IyUU1UNnRhaDRDbVhJUlNPelJlNTcyVzdEMWcyNWhtRlRwTzFaT0trSGg1a3I5VlRBalZ0VjhGSHRtQ2UxS3J2NXFFZXU4QWlQbzV0bF8?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
