@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-21 09:22 UTC
+Last Updated: 2026-08-21 10:16 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -52,13 +52,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-21 | Self-Hosting Offline Websites | Hackaday | [link](https://hackaday.com/2026/08/21/self-hosting-offline-websites/) |
 | 2026-08-21 | Running Zork On The Steam Controller | Hackaday | [link](https://hackaday.com/2026/08/20/running-zork-on-the-steam-controller/) |
 | 2026-08-21 | Superconducting Temperature Record set at Ambient Pressure | Hackaday | [link](https://hackaday.com/2026/08/20/superconducting-temperature-record-set-at-ambient-pressure/) |
+| 2026-08-21 | M5Stack Paper Mono – An ESP32-S3 e-paper development board with 3.97-inch touchscreen, LoRa, and NFC | CNX Software | [link](https://www.cnx-software.com/2026/08/21/m5stack-paper-mono-an-esp32-s3-e-paper-development-board-with-3-97-inch-touchscreen-lora-and-nfc/) |
 | 2026-08-21 | NXP MCX C15 and C16 low-cost Cortex-M23 MCUs target IoT, analog, and motor control applications | CNX Software | [link](https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/) |
 | 2026-08-21 | Deskbuddy – ESP32 Touchscreen Personal Desk Dashboard #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/20/deskbuddy-esp32-touchscreen-personal-desk-dashboard-3dthursday-3dprinting/) |
 | 2026-08-20 | Samsung Printer is the Next Frontier Of Minecraft Servers | Hackaday | [link](https://hackaday.com/2026/08/20/samsung-printer-is-the-next-frontier-of-minecraft-servers/) |
 | 2026-08-20 | Homebrew 68K Machine Has A PCI Bus | Hackaday | [link](https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/) |
 | 2026-08-20 | Foldable OLED Displays and the Bane of Dust | Hackaday | [link](https://hackaday.com/2026/08/20/foldable-oled-displays-and-the-bane-of-dust/) |
 | 2026-08-20 | 3D Printering: Why is my PLA so Brittle? | Hackaday | [link](https://hackaday.com/2026/08/20/3d-printering-why-is-my-pla-so-brittle/) |
-| 2026-08-20 | Linux 7.2 release – Main changes, Arm, RISC-V, and MIPS architectures | CNX Software | [link](https://www.cnx-software.com/2026/08/21/linux-7-2-release-main-changes-arm-risc_v-amd-mips-architecture/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -86,18 +86,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-21 | kesnick/vlm-vla-test | 7 | 0 | [link](https://huggingface.co/kesnick/vlm-vla-test) |
 | 2026-08-21 | MotionforgeGroup/X-VLA-FC-80000 | 0 | 0 | [link](https://huggingface.co/MotionforgeGroup/X-VLA-FC-80000) |
 | 2026-08-21 | kemjensak/unlv_vla_policy | 12 | 0 | [link](https://huggingface.co/kemjensak/unlv_vla_policy) |
-| 2026-08-21 | yhyhyhyh1/act_stage0_v2_policy | 0 | 0 | [link](https://huggingface.co/yhyhyhyh1/act_stage0_v2_policy) |
+| 2026-08-21 | Neutrollized/act_so101_legoinbowl_policy_fp_100k_200eps_twf_v1 | 0 | 0 | [link](https://huggingface.co/Neutrollized/act_so101_legoinbowl_policy_fp_100k_200eps_twf_v1) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1459 | Rust | 583.7 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 942 | Python | 376.9 | [link](https://github.com/mosaico-labs/mosaico) |
-| commaai/openpilot | 63462 | Python | 25384.9 | [link](https://github.com/commaai/openpilot) |
+| mosaico-labs/mosaico | 943 | Python | 377.3 | [link](https://github.com/mosaico-labs/mosaico) |
+| commaai/openpilot | 63463 | Python | 25385.3 | [link](https://github.com/commaai/openpilot) |
 | google-deepmind/mujoco | 14624 | C++ | 5849.7 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13743 | Python | 5497.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13745 | Python | 5498.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11333 | Rust | 4533.3 | [link](https://github.com/rerun-io/rerun) |
-| dora-rs/dora | 3889 | Rust | 1555.7 | [link](https://github.com/dora-rs/dora) |
+| dora-rs/dora | 3890 | Rust | 1556.1 | [link](https://github.com/dora-rs/dora) |
 | leofan90/Awesome-World-Models | 1972 | Python | 788.9 | [link](https://github.com/leofan90/Awesome-World-Models) |
 | sou350121/VLA-Handbook | 528 | HTML | 211.3 | [link](https://github.com/sou350121/VLA-Handbook) |
 | worldbench/awesome-vla-for-ad | 464 | HTML | 185.7 | [link](https://github.com/worldbench/awesome-vla-for-ad) |
@@ -120,6 +120,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-21 | Chinese visa impact hits Indian physical AI startups - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWtCajM1Y1N2TEJuRl8wX1kwcEtQb0RxQUV2SWJvOEtjaWpEWi1zcTYzazI2bUJhTEw4MTFZeU9mcFdVeWRld3o5Ry1EZExpbmg4aXVkOXY2dkUtb2dQREptZjVyNW1zUk5sVlozNWVzTVhJRktrTnU3RUJkRUQ1ZUlBUHRnbGRmUzNNREFNdGcyUmVaaVRnNGFOMVNvQmYtYkZsbTlfWDhITGIwSlU4U19mam5RemJtaE4xYXZXUDFjOTBwcG9yVkFXT21WdERo0gHWAUFVX3lxTE5ETlhmVW92dUZGR21ZX0RDX0s0MXE2YWYxMzZMZGRaVkZmTlg4MUhkOFJBdFRaUUJpWXZMZS1sTndPZ0VPRUFRamVaT0hTTndHNWhTSlhoVUFJVDRTdUxEMzBJT2wtM21GUktmRnlqQVR5SndydFpVUUU3TG0zeUFTVW5GR3F4U3JoRkFRemhGNFBRRWdqZVpWWjFHaGZ5alpESHBoM0dWSWpKYUFHR1RveWl4a0g4S1VUOEx5ampyTDM0eHVsSU8wTW80MkxxSnBTS3p1Q1E?oc=5) |
+| 2026-08-21 | Humanoid Robots Poised for Breakthrough in Embodied AI by 2024 - Devdiscourse | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcUZ0TEZOV3RId2lBTVRRTTNJTUFFbGgyMHUtVXQ0NmhBeTNKMnpxN0dzVWZjdDZndnNOa1hzUUh6TVJXT3FybjBTSGNoTktMbk82RFFNM20xWW90UW5hSnF2YWtYY1R2Q2dpOF9zQmJNaVRXRUxYNXBwTFZlNmJ3OEhwUHNLOWZFYjFmcWVfRW1hZXNHLVIySjlTM0hWa2pSZjdJNktNREVDWHQ5Z1ZROWpUUmx5S2thTWfSAb8BQVVfeXFMTzhZTHBHdUljTDhHSFA3RTYtZEdjS3E1bks2dktCYlVaS0xWelhlSWZlb1EtODVFbENoNFoyVkF5UTFMY2xXMWZHRzZZeWNrVUZZejlKYUY2YnpxUjdKTVN3UU45S0MxZ092eFo1N0FObF96bHRzNHV0N1ctTnJLRjNtcHA4TkZvRFNFX3BhSkxoZG1yWHY4bE85MWRXR1djdWctWnpHNVFMNTNMREZhcjJKTG95NmZYNW1xanV5OHc?oc=5) |
 | 2026-08-20 | Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUpET2g2MTNFVnVnRVY3U2hob2UwcnpTYnhOQVJ2RDdFQW4zTHI2LThnelJwZV9CTUh6U1J0WlJOdkRGVnM1MVVQQ1hST281VHdXWV9BekdXQ2lFdWwycGQta1N1X3RTS25YNnh3em9RT0ZZVE14TUJTOUZjRHNzM0tlU2lya0F0VHFLdDcwTG9LaUtvZFVyaXEzaHZySGRqb19EbldTNVpGQQ?oc=5) |
 | 2026-08-20 | Humanoid robot crashes after Beijing sprint - The American Bazaar | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGkxUUNMWFNmOUVybkkzVzJMd3hZcGszYTVhWTdrNlY2VU10b01KdlJMSmlzajkzZFBCSWpGY0Y1U3J2a1B6Y0ZuVDdCN0JCekE1U2lRQ1RZUTc4dUpVVVZoa1JZeF9nZGNRdXp4d0tBLTFyTXY1d3ZNWHUtcHpzbEN1S29hUEEzNUlLX0t6UjYwUQ?oc=5) |
 | 2026-08-20 | Chinese humanoids take center stage at World Robot Conference - Daily Sabah | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODFWS015SEdsUVZ1azNZYzhpWEltUmVxMUhUbWZzUlQ2UVh4WWdmLV9FbTlLcVlxUEgzcHE2OWZiazlIWVVSRU5UUTlEQVJMd2VJak43TzVtVWVwWHlBaUVwaGIxQjZPclZ0OWdUQVVWYklvclRKbVdwTXR2QllWd0Y4amtvVERQTU9NTThRUlNiUEgzU1NoMXFuTUw3OC1fNW9rRE5TY3UzQQ?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Star researcher Sanja Fidler raises over US$90M for world model startup - The Logic | physical ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTE1LTEJEbDJEZ2pmV1VBeXNVQkVSLWc2c19ldUNzUUt2UzllMlN4R3J6dUNFS0o4ckdzdE1TMXhoZjI4Z0c1cVlNX1hoS3p0WnZsM3JBU1pncEtGamR4dnBUVEc2S3l2NERUb3dYSWp3b0R1dw?oc=5) |
 | 2026-08-19 | AI researcher Sanja Fidler raises US$90-million for robotics startup - The Globe and Mail | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1hiM1VrQ3VmZkp3TWRpaXpqVW93ZW9qN3NRdFJWcEdOZU9jTnFvb25ZY3BoVkhIMVo3NjZXYkxEbnlHU0stS1lsM042aWhvR0JNR0Z4RDV5c1hJWnprNmhzalRSUEdJSG5xdmtQWV9TcU5DV3ZHeXdoWkVuc01hMFA0d0ZZaW5EeVFFdlJ1OWd2UUlsNkt4RHVrdmxJYjJzelVjTE05eGtxV0RQcmpmdzdtX1NqZw?oc=5) |
 | 2026-08-19 | Unitree Robotics to debut after US$904 million Shanghai IPO, rides embodied AI wave - The Business Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkpxSGVfMDlFYmtFTmJ3N0R5NVU0dnJZTTZRM2V6a0pWSmlxMEU4TDh3WW5yRHhuMFhfN3VTYkVfWUpwVENGcEFhdFhLRjM0SjRFYnJ6a2JRZGlsOHFma011bzhYY09uWGJTdXRoaXoxRE1Bc0dJeTB1ZnRvRTF1T1hzeWRzYy03dzNrWTVrcU5aRzA0eVdNRzFGS2Q2Xzd6WktxNXB2Um5LNFdvcEFBdEVlVWFLSmJZNF9HQUZ6TzBRYUNmbnZZNQ?oc=5) |
-| 2026-08-19 | Humanoid robot drives a go-kart, Chinese embodied AI startup releases demo video of race - Chinese media - Record China | embodied ai startup | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaTRSNFJkWmVGbGtXZFVEeTUyR0dreko4N3ZKbGpzTGFZZG9OMjExd0dPNDZHbzlMYTg3WldORk1KZHl2OXJjVlJpVUdJN01GX2lpc2NVS1JyUkNwRHh6UlVhc2hxUDZ1YWg0?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
