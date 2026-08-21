@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-21 14:21 UTC
+Last Updated: 2026-08-21 15:20 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -58,7 +58,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-21 | M5Stack Paper Mono – An ESP32-S3 e-paper development board with 3.97-inch touchscreen, LoRa, and NFC | CNX Software | [link](https://www.cnx-software.com/2026/08/21/m5stack-paper-mono-an-esp32-s3-e-paper-development-board-with-3-97-inch-touchscreen-lora-and-nfc/) |
 | 2026-08-21 | NXP MCX C15 and C16 low-cost Cortex-M23 MCUs target IoT, analog, and motor control applications | CNX Software | [link](https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/) |
 | 2026-08-21 | Vector Brings Natural-Language AI Automation to CANoe | Embedded.com | [link](https://www.embedded.com/vector-brings-natural-language-ai-automation-to-canoe/) |
-| 2026-08-21 | Saildrone, Lockheed Martin demonstrate live-fire from USV platform | Electronics Weekly | [link](https://www.electronicsweekly.com/news/saildrone-lockheed-martin-demonstrate-live-fire-from-usv-platform-2026-08/) |
+| 2026-08-21 | Android XR advances as Jetpack XR SDK core libraries reach beta | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/software-products/android-xr-advances-as-jetpack-xr-sdk-core-libraries-reach-beta-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-21 | jennifercook/paper_021891815_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/jennifercook/paper_021891815_robotics_vision_language) |
 | 2026-08-21 | oliveiraberg/paper_022120861_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/oliveiraberg/paper_022120861_robotics_vision_language) |
 | 2026-08-21 | Roy229/ml-robotics-prime-aurelia | 0 | 0 | [link](https://huggingface.co/Roy229/ml-robotics-prime-aurelia) |
 | 2026-08-21 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-21 | vladisavjovanovic/structural_intelligence_SI | 0 | 1 | [link](https://huggingface.co/vladisavjovanovic/structural_intelligence_SI) |
 | 2026-08-21 | vladmandic/sdnext-upscalers | 0 | 5 | [link](https://huggingface.co/vladmandic/sdnext-upscalers) |
 | 2026-08-21 | mertalbaba/humanoid-vla-checkpoints | 0 | 0 | [link](https://huggingface.co/mertalbaba/humanoid-vla-checkpoints) |
-| 2026-08-21 | vlabki/daisy-circuit-shadow-v1 | 0 | 0 | [link](https://huggingface.co/vlabki/daisy-circuit-shadow-v1) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -96,11 +96,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63465 | Python | 25386.1 | [link](https://github.com/commaai/openpilot) |
 | google-deepmind/mujoco | 14625 | C++ | 5850.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13745 | Python | 5498.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13747 | Python | 5498.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11333 | Rust | 4533.3 | [link](https://github.com/rerun-io/rerun) |
+| kornia/kornia | 11319 | Python | 4527.7 | [link](https://github.com/kornia/kornia) |
 | dora-rs/dora | 3890 | Rust | 1556.1 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 3297 | Python | 1318.9 | [link](https://github.com/datawhalechina/every-embodied) |
-| leofan90/Awesome-World-Models | 1972 | Python | 788.9 | [link](https://github.com/leofan90/Awesome-World-Models) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -120,7 +120,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-21 | Chinese visa impact hits Indian physical AI startups - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWtCajM1Y1N2TEJuRl8wX1kwcEtQb0RxQUV2SWJvOEtjaWpEWi1zcTYzazI2bUJhTEw4MTFZeU9mcFdVeWRld3o5Ry1EZExpbmg4aXVkOXY2dkUtb2dQREptZjVyNW1zUk5sVlozNWVzTVhJRktrTnU3RUJkRUQ1ZUlBUHRnbGRmUzNNREFNdGcyUmVaaVRnNGFOMVNvQmYtYkZsbTlfWDhITGIwSlU4U19mam5RemJtaE4xYXZXUDFjOTBwcG9yVkFXT21WdERo0gHWAUFVX3lxTE5ETlhmVW92dUZGR21ZX0RDX0s0MXE2YWYxMzZMZGRaVkZmTlg4MUhkOFJBdFRaUUJpWXZMZS1sTndPZ0VPRUFRamVaT0hTTndHNWhTSlhoVUFJVDRTdUxEMzBJT2wtM21GUktmRnlqQVR5SndydFpVUUU3TG0zeUFTVW5GR3F4U3JoRkFRemhGNFBRRWdqZVpWWjFHaGZ5alpESHBoM0dWSWpKYUFHR1RveWl4a0g4S1VUOEx5ampyTDM0eHVsSU8wTW80MkxxSnBTS3p1Q1E?oc=5) |
-| 2026-08-21 | ACE Robotics CEO says robot brains will have ‘ChatGPT moment’ by end of 2027 - KELO-AM | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZkFENmRDcnU3UWpHbmY2aDlrTzhIWUo5S1lKbktJdlFJRnk5NGU4QmJiMFl0azVnUnk3LWxNMHR6cEhPaEV1MFdwaG1DMHhBTDZHX1lGNnV2Mjl3c05rTFdTNEh6UDRfS3Mzb1ZyRGdDcG1zWldnOWtBZXVYZEUwSkx3Qlg5SHR4Z0dKaW9SUnU0UXdyUDRMdWhSN0s5QVZLYjNMTDBB?oc=5) |
+| 2026-08-21 | ACE Robotics chairman says robot brains will have ‘ChatGPT moment’ by end of 2027 - KWSN | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxON3hUcUpFam1rcEJvUmIwU25rbWg3ZmJhWU5NZVRsUGIzQ25haDhQTWlscEEzNUhkNVlnajl5R1Iwa0lZRk1iYkhsdUxhbTRvSGtKY05MVjViTkhQaFdmMHN0Vi1keGNKOVJCc1lEdnRFRnJoRGUwZmRVMUpZcGRCZXhYenNFb2ZDRkRoNng1MnVyN2dDeW40aGhLSWpDLW8xdVBGZ3lR?oc=5) |
 | 2026-08-21 | Humanoid Robots Poised for Breakthrough in Embodied AI by 2024 - Devdiscourse | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4d9IBvwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4dw?oc=5) |
 | 2026-08-20 | Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUpET2g2MTNFVnVnRVY3U2hob2UwcnpTYnhOQVJ2RDdFQW4zTHI2LThnelJwZV9CTUh6U1J0WlJOdkRGVnM1MVVQQ1hST281VHdXWV9BekdXQ2lFdWwycGQta1N1X3RTS25YNnh3em9RT0ZZVE14TUJTOUZjRHNzM0tlU2lya0F0VHFLdDcwTG9LaUtvZFVyaXEzaHZySGRqb19EbldTNVpGQQ?oc=5) |
 | 2026-08-20 | Humanoid robot crashes after Beijing sprint - The American Bazaar | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGkxUUNMWFNmOUVybkkzVzJMd3hZcGszYTVhWTdrNlY2VU10b01KdlJMSmlzajkzZFBCSWpGY0Y1U3J2a1B6Y0ZuVDdCN0JCekE1U2lRQ1RZUTc4dUpVVVZoa1JZeF9nZGNRdXp4d0tBLTFyTXY1d3ZNWHUtcHpzbEN1S29hUEEzNUlLX0t6UjYwUQ?oc=5) |
