@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-21 22:09 UTC
+Last Updated: 2026-08-21 23:11 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-21 | Building a Hammond Organ to Understand How They Work | Hackaday | [link](https://hackaday.com/2026/08/21/building-a-hammond-organ-to-understand-how-they-work/) |
 | 2026-08-21 | Thermoacoustic Sterling Engine is Now Fully 3D Printable | Hackaday | [link](https://hackaday.com/2026/08/21/thermoacoustic-sterling-engine-is-now-fully-3d-printable/) |
 | 2026-08-21 | PVC Pipe Turned DIY Digital Telescope | Hackaday | [link](https://hackaday.com/2026/08/21/pvc-pipe-turned-diy-digital-telescope/) |
 | 2026-08-21 | Hackaday Podcast Episode 383: QR Codes, Caving Gear, and the Old School Way to Learn Electronics | Hackaday | [link](https://hackaday.com/2026/08/21/hackaday-podcast-episode-383-qr-codes-caving-gear-and-the-old-school-way-to-learn-electronics/) |
 | 2026-08-21 | Building a Discrete Component 75 Baud Modem | Hackaday | [link](https://hackaday.com/2026/08/21/building-a-discrete-component-75-baud-modem/) |
 | 2026-08-21 | This Week in Security: Apple Warns Users, Stripe Merchants Leak Keys, Copilot Helps Hack Itself, and Comcast Senses Movement | Hackaday | [link](https://hackaday.com/2026/08/21/this-week-in-security-apple-warns-users-stripe-merchants-leak-keys-copilot-helps-hack-itself-and-comcast-senses-movement/) |
 | 2026-08-21 | Spoofed Serial Number Unlocks Cricut Machine | Hackaday | [link](https://hackaday.com/2026/08/21/spoofed-serial-number-unlocks-cricut-machine/) |
-| 2026-08-21 | Self-Hosting Offline Websites | Hackaday | [link](https://hackaday.com/2026/08/21/self-hosting-offline-websites/) |
 | 2026-08-21 | AAEON uCOM-Q6490 – A SMARC 2.1-compliant SoM powered by Qualcomm Dragonwing QCS6490 SoC | CNX Software | [link](https://www.cnx-software.com/2026/08/21/aaeon-ucom-q6490-a-smarc-2-1-qualcomm-dragonwing-qcs6490-som/) |
 | 2026-08-21 | M5Stack Paper Mono – An ESP32-S3 e-paper development board with 3.97-inch touchscreen, LoRa, and NFC | CNX Software | [link](https://www.cnx-software.com/2026/08/21/m5stack-paper-mono-an-esp32-s3-e-paper-development-board-with-3-97-inch-touchscreen-lora-and-nfc/) |
 | 2026-08-21 | NXP MCX C15 and C16 low-cost Cortex-M23 MCUs target IoT, analog, and motor control applications | CNX Software | [link](https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/) |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-21 | puppet-robotics/golf-model-2-8fps-peft | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-2-8fps-peft) |
 | 2026-08-21 | subramanianno/paper_021822677_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/subramanianno/paper_021822677_robotics_vision_language) |
 | 2026-08-21 | anna-smirnov/paper_022135633_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/anna-smirnov/paper_022135633_robotics_vision_language) |
 | 2026-08-21 | oozkanemre88/paper_022210137_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/oozkanemre88/paper_022210137_robotics_vision_language) |
@@ -86,16 +87,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-21 | szwagner/paper_022216806_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/szwagner/paper_022216806_robotics_vision_language) |
 | 2026-08-21 | Rachelwhitenah/paper_022398354_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/Rachelwhitenah/paper_022398354_robotics_vision_language) |
 | 2026-08-21 | andrewhernandez/paper_022139643_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/andrewhernandez/paper_022139643_robotics_vision_language) |
-| 2026-08-21 | HarshDefy/paper_021511188_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/HarshDefy/paper_021511188_robotics_vision_language) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3053 | Python | 1221.3 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1461 | Rust | 584.5 | [link](https://github.com/copper-project/copper-rs) |
+| NVIDIA/skills | 3054 | Python | 1221.7 | [link](https://github.com/NVIDIA/skills) |
+| copper-project/copper-rs | 1462 | Rust | 584.9 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 944 | Python | 377.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63466 | Python | 25386.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63467 | Python | 25386.9 | [link](https://github.com/commaai/openpilot) |
 | google-deepmind/mujoco | 14625 | C++ | 5850.1 | [link](https://github.com/google-deepmind/mujoco) |
 | earthtojake/text-to-cad | 13752 | Python | 5500.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11335 | Rust | 4534.1 | [link](https://github.com/rerun-io/rerun) |
@@ -121,8 +121,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-21 | Why Georgia Could Have an Edge in Physical AI - Hypepotamus | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ybXpLaldoTmdteTkzWWZZZDQ3VkdUalpmSU01UmRTSEZvN25USGFBYzJubGlEamJycDBTMW1qT3F4ZXFpZ3pEV0tyS2ZWcDBwQldYX1UtZkdIdkdRQTZLVkNrYUY0bVpB?oc=5) |
 | 2026-08-21 | Chinese visa impact hits Indian physical AI startups - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWtCajM1Y1N2TEJuRl8wX1kwcEtQb0RxQUV2SWJvOEtjaWpEWi1zcTYzazI2bUJhTEw4MTFZeU9mcFdVeWRld3o5Ry1EZExpbmg4aXVkOXY2dkUtb2dQREptZjVyNW1zUk5sVlozNWVzTVhJRktrTnU3RUJkRUQ1ZUlBUHRnbGRmUzNNREFNdGcyUmVaaVRnNGFOMVNvQmYtYkZsbTlfWDhITGIwSlU4U19mam5RemJtaE4xYXZXUDFjOTBwcG9yVkFXT21WdERo0gHWAUFVX3lxTE5ETlhmVW92dUZGR21ZX0RDX0s0MXE2YWYxMzZMZGRaVkZmTlg4MUhkOFJBdFRaUUJpWXZMZS1sTndPZ0VPRUFRamVaT0hTTndHNWhTSlhoVUFJVDRTdUxEMzBJT2wtM21GUktmRnlqQVR5SndydFpVUUU3TG0zeUFTVW5GR3F4U3JoRkFRemhGNFBRRWdqZVpWWjFHaGZ5alpESHBoM0dWSWpKYUFHR1RveWl4a0g4S1VUOEx5ampyTDM0eHVsSU8wTW80MkxxSnBTS3p1Q1E?oc=5) |
-| 2026-08-21 | ACE Robotics chairman says robot brains will have ‘ChatGPT moment’ by end of 2027 - 93.3 The Drive | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxPNnpCbUtXcVdNOVZ2Ymg5ZTZmcjJLLXdVUy1wUXMyaVRoUnk5Z3pJMXJRc3Vpc3hGU0dOMHo0ODNiSXhHa1RjWlBIR3RTQlY3UTBoVGRCZVlabXFycWwwSUo0R3pPNnNEWVFPNFZLOG9jbjF2a2Q0QXJLVXpDY3hMcUFkUTBsU3NkYTZubFh4X0d3alEtY2ZNNGpoMjg5RWx4ejB0OER6S1dFdDBOUGRiNHZkdHI?oc=5) |
 | 2026-08-21 | Humanoid Robots Poised for Breakthrough in Embodied AI by 2024 - Devdiscourse | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4d9IBvwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4dw?oc=5) |
+| 2026-08-21 | ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027 | Gulf Times - Gulf Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxONk5McWd3N3ZHMHZGcnlvdUZFcEtRS01UcEt1cHR5NEdXaGxIMkVRNC1kVXVQRmpGVUhnQUo0dEUwOE5CWVVrOEQzZnU5MHREUHRLNjVmeldrLXNvMm9JNEI3d1JsZi1WSUYwN3J1OEhXdFJWOWFGVVVkMjNSTTU4S0ROSjNrcDZGanVuOGxsZFB1blM3amotLXlibmRrVG90cHYyMVNhdkFrRWltQmowZVFHVFdzaXVPOGtNZmp1SGdydUVPX0dCSmJn0gHPAUFVX3lxTE5ROWJzbDFMaDNrNnNHTUtLX1pUS2hXZThWd01kMDNobE1WSjdrSWJhZ2tfRFJUYXNzQkVOMDBObjhTc2g5eEtXQkd2d0RIbTBlVUd3OFVmU1psMzZmZ0dDMDhRTW9SQ2VIR1FzczR3c3dWODdSSmktQko4MEVMcldCTktpRkFJdVpZb2wtQVpyZV81cjQ2OFR0Vm5IcG8wbGZLb0xqTU9GdXB0M3p1VWY0enhsZFdndjF5Wm9qT2Z2QkxPM243YzI0eHFIdHN2OA?oc=5) |
 | 2026-08-20 | Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUpET2g2MTNFVnVnRVY3U2hob2UwcnpTYnhOQVJ2RDdFQW4zTHI2LThnelJwZV9CTUh6U1J0WlJOdkRGVnM1MVVQQ1hST281VHdXWV9BekdXQ2lFdWwycGQta1N1X3RTS25YNnh3em9RT0ZZVE14TUJTOUZjRHNzM0tlU2lya0F0VHFLdDcwTG9LaUtvZFVyaXEzaHZySGRqb19EbldTNVpGQQ?oc=5) |
 | 2026-08-20 | Chinese humanoids take center stage at World Robot Conference - Daily Sabah | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODFWS015SEdsUVZ1azNZYzhpWEltUmVxMUhUbWZzUlQ2UVh4WWdmLV9FbTlLcVlxUEgzcHE2OWZiazlIWVVSRU5UUTlEQVJMd2VJak43TzVtVWVwWHlBaUVwaGIxQjZPclZ0OWdUQVVWYklvclRKbVdwTXR2QllWd0Y4amtvVERQTU9NTThRUlNiUEgzU1NoMXFuTUw3OC1fNW9rRE5TY3UzQQ?oc=5) |
 | 2026-08-20 | Humanoid robot crashes after Beijing sprint - The American Bazaar | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGkxUUNMWFNmOUVybkkzVzJMd3hZcGszYTVhWTdrNlY2VU10b01KdlJMSmlzajkzZFBCSWpGY0Y1U3J2a1B6Y0ZuVDdCN0JCekE1U2lRQ1RZUTc4dUpVVVZoa1JZeF9nZGNRdXp4d0tBLTFyTXY1d3ZNWHUtcHpzbEN1S29hUEEzNUlLX0t6UjYwUQ?oc=5) |

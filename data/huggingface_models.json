@@ -1,5 +1,14 @@
 [
   {
+    "model": "puppet-robotics/golf-model-2-8fps-peft",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/golf-model-2-8fps-peft",
+    "date": "2026-08-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "subramanianno/paper_021822677_robotics_vision_language",
     "downloads": 0,
     "likes": 0,
@@ -99,15 +108,6 @@
     "score": 0.1
   },
   {
-    "model": "jennifercook/paper_021891815_robotics_vision_language",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jennifercook/paper_021891815_robotics_vision_language",
-    "date": "2026-08-21",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "B111ue/fcl-vla-functional-support-canary",
     "downloads": 0,
     "likes": 0,
@@ -189,6 +189,33 @@
     "score": 3.7
   },
   {
+    "model": "noahdejong/paper_020747779_embodied_ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/noahdejong/paper_020747779_embodied_ai",
+    "date": "2026-08-21",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "Josep-hdavi/paper_020539998_embodied_ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Josep-hdavi/paper_020539998_embodied_ai",
+    "date": "2026-08-21",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "santosrafael/paper_021123403_embodied_ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/santosrafael/paper_021123403_embodied_ai",
+    "date": "2026-08-21",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
     "model": "marcusho0509/paper_020663490_embodied_ai",
     "downloads": 0,
     "likes": 0,
@@ -265,15 +292,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/georgecevans/paper_021132819_embodied_ai",
-    "date": "2026-08-21",
-    "keyword": "embodied",
-    "score": 0.1
-  },
-  {
-    "model": "Brittanybrown/paper_020923619_embodied_ai",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Brittanybrown/paper_020923619_embodied_ai",
     "date": "2026-08-21",
     "keyword": "embodied",
     "score": 0.1
@@ -387,19 +405,19 @@
     "score": 0.1
   },
   {
-    "model": "oliveiraberg/paper_022120861_robotics_vision_language",
+    "model": "jennifercook/paper_021891815_robotics_vision_language",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/oliveiraberg/paper_022120861_robotics_vision_language",
+    "url": "https://huggingface.co/jennifercook/paper_021891815_robotics_vision_language",
     "date": "2026-08-21",
     "keyword": "robotics",
     "score": 0.1
   },
   {
-    "model": "ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024-trt",
+    "model": "oliveiraberg/paper_022120861_robotics_vision_language",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024-trt",
+    "url": "https://huggingface.co/oliveiraberg/paper_022120861_robotics_vision_language",
     "date": "2026-08-21",
     "keyword": "robotics",
     "score": 0.1
@@ -465,15 +483,6 @@
     "url": "https://huggingface.co/novastar111/pusht_cot_chunk_k3_world_model",
     "date": "2026-08-20",
     "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "EmbodiedCity/ANWM",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/EmbodiedCity/ANWM",
-    "date": "2026-08-20",
-    "keyword": "embodied",
     "score": 0.1
   },
   {
@@ -556,15 +565,6 @@
     "date": "2026-08-18",
     "keyword": "world model",
     "score": 0.1
-  },
-  {
-    "model": "UnderTides/Embodied-Navigator-7B-GRPO",
-    "downloads": 23,
-    "likes": 1,
-    "url": "https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO",
-    "date": "2026-08-18",
-    "keyword": "embodied",
-    "score": 7.2
   },
   {
     "model": "physicalairi/so101_1200ep_pi05",
