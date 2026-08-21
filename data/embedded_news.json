@@ -1,5 +1,12 @@
 [
   {
+    "title": "This Week in Security: Apple Warns Users, Stripe Merchants Leak Keys, Copilot Helps Hack Itself, and Comcast Senses Movement",
+    "source": "Hackaday",
+    "date": "2026-08-21",
+    "url": "https://hackaday.com/2026/08/21/this-week-in-security-apple-warns-users-stripe-merchants-leak-keys-copilot-helps-hack-itself-and-comcast-senses-movement/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Apple has started sending some users push notifications warning that they have been targeted with specific malware. No specific information about the threat Apple detected is available. While multiple iOS <a class=\"read-more\" href=\"https://hackaday.com/2026/08/21/this-week-in-security-apple-warns-users-stripe-merchants-leak-keys-copilot-helps-hack-itself-and-comcast-senses-movement/\">&#8230;read more</a>"
+  },
+  {
     "title": "Spoofed Serial Number Unlocks Cricut Machine",
     "source": "Hackaday",
     "date": "2026-08-21",
@@ -47,6 +54,13 @@
     "date": "2026-08-21",
     "url": "https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/",
     "summary": "<div><img alt=\"MCX C15 and MCX C16 Arm Cortex M23 analog IoT MCUs\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/MCX-C15-and-MCX-C16-Arm-Cortex-M23-analog-IoT-MCUs-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We recently noted that NXP expanded its MCX A series with the MCX A5 Cortex-M33 family, integrating 10BASE-T1S Single Pair Ethernet, topology discovery, and PQC for industrial connectivity. However, it&#8217;s not the only recent announcement from the company, as NXP also expanded the lower-cost MCX C series with the MCX C15 and MCX C16 (C1 family) Cortex-M23 MCUs designed for industrial IoT and analog applications. The new C1 family provides a straightforward migration path from LPC800, LPC1100, and Kinetis MCUs, with full pin-to-pin compatibility with the newer MCX A Series. These low-cost entry-level devices feature a 16-bit SAR ADC, a high-speed comparator with DAC, an internal OpAmp, and FlexPWM for motor and power control. They also include up to 64 KB of flash, 12 KB of SRAM, LPI²C, LPSPI, up to four UARTs, up to 45 GPIOs, multiple timers, a low-power timer, an RTC, and a watchdog, with an operating [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/\">NXP MCX C15 and C16 low-cost Cortex-M23 MCUs target IoT, analog, and motor control applications</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Vector Brings Natural-Language AI Automation to CANoe",
+    "source": "Embedded.com",
+    "date": "2026-08-21",
+    "url": "https://www.embedded.com/vector-brings-natural-language-ai-automation-to-canoe/",
+    "summary": "<p>Vector Informatik GmbH has expanded its CANoe development and testing environment with AI agents and Model Context Protocol (MCP) capabilities. The new functions allow users to describe development, analysis, and testing tasks using natural-language prompts, after which specialized AI agents can determine the required steps and execute complete workflows automatically. The CANoe AI Package and [...]</p>\n<p>The post <a href=\"https://www.embedded.com/vector-brings-natural-language-ai-automation-to-canoe/\">Vector Brings Natural-Language AI Automation to CANoe</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform",
@@ -138,13 +152,6 @@
     "date": "2026-08-20",
     "url": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/08/img_20260819_215428_c-e1787210997954.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Peripheral Component Interconnect (PCI) bus was first introduced all the way back in 1992. It quickly became the standard way to interface add-on cards on the PC platform, supplanting <a class=\"read-more\" href=\"https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Foldable OLED Displays and the Bane of Dust",
-    "source": "Hackaday",
-    "date": "2026-08-20",
-    "url": "https://hackaday.com/2026/08/20/foldable-oled-displays-and-the-bane-of-dust/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"458\" src=\"https://hackaday.com/wp-content/uploads/2026/08/folding_phone_uv_dust_on_hinge_ifixit_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Much like Apple&#8217;s once vaunted super-slim butterfly keyboard, today&#8217;s range of portable devices featuring flexible OLED displays &#8211; which can fold said display into a much smaller form factor &#8211; <a class=\"read-more\" href=\"https://hackaday.com/2026/08/20/foldable-oled-displays-and-the-bane-of-dust/\">&#8230;read more</a>"
   },
   {
     "title": "Linux 7.2 release – Main changes, Arm, RISC-V, and MIPS architectures",
@@ -418,12 +425,5 @@
     "date": "2026-08-13",
     "url": "https://www.embedded.com/openlight-and-tower-accelerate-photonic-ic-development/",
     "summary": "<p>OpenLight and Tower Semiconductor Ltd. have expanded the design ecosystem for Tower's PH18DA indium phosphide (InP)-on-silicon photonics platform. OpenLight's photonic process design kit (PDK) is now available within Cadence Design Systems' electronic design automation (EDA) tools, enabling developers to design photonic integrated circuits (PICs) using an established IC design environment. The PDK has been developed [...]</p>\n<p>The post <a href=\"https://www.embedded.com/openlight-and-tower-accelerate-photonic-ic-development/\">OpenLight and Tower Accelerate Photonic IC Development</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "TI Unveils CAN XL Transceiver",
-    "source": "Embedded.com",
-    "date": "2026-08-12",
-    "url": "https://www.embedded.com/ti-unveils-can-xl-transceiver/",
-    "summary": "<p>Texas Instruments (TI) has claimed the industry's first commercially-available controller area network (CAN) extended data-field length (XL) transceiver for industrial systems including humanoid robots, industrial robots, and HMI systems that require more data at faster speeds. The TCAN6062 CAN XL transceiver supports payloads up to 2,048 bytes per frame and data rates as high as [...]</p>\n<p>The post <a href=\"https://www.embedded.com/ti-unveils-can-xl-transceiver/\">TI Unveils CAN XL Transceiver</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
