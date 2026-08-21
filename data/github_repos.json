@@ -1,5 +1,25 @@
 [
   {
+    "repo": "dora-rs/dora",
+    "stars": 3886,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-08-21",
+    "topic": "embodied-ai",
+    "score": 1554.5
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7924,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-08-21",
+    "topic": "robot-learning",
+    "score": 3169.7
+  },
+  {
     "repo": "NVIDIA/skills",
     "stars": 3035,
     "language": "Python",
@@ -11,13 +31,13 @@
   },
   {
     "repo": "mosaico-labs/mosaico",
-    "stars": 936,
+    "stars": 937,
     "language": "Python",
     "description": "Mosaico - The data platform for Physical AI",
     "url": "https://github.com/mosaico-labs/mosaico",
     "date": "2026-08-20",
     "topic": "physical-ai",
-    "score": 374.5
+    "score": 374.9
   },
   {
     "repo": "awslabs/awsome-distributed-ai",
@@ -31,33 +51,33 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63458,
+    "stars": 63459,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-20",
     "topic": "robotics",
-    "score": 25383.3
+    "score": 25383.7
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15714,
+    "stars": 15715,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-20",
     "topic": "robotics",
-    "score": 6285.7
+    "score": 6286.1
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14616,
+    "stars": 14618,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-20",
     "topic": "robotics",
-    "score": 5846.5
+    "score": 5847.3
   },
   {
     "repo": "rerun-io/rerun",
@@ -80,16 +100,6 @@
     "score": 1835.3
   },
   {
-    "repo": "dora-rs/dora",
-    "stars": 3886,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-08-20",
-    "topic": "embodied-ai",
-    "score": 1554.5
-  },
-  {
     "repo": "RoboTwin-Platform/RoboTwin",
     "stars": 2750,
     "language": "Python",
@@ -101,13 +111,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2257,
+    "stars": 2258,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-20",
     "topic": "robot-learning",
-    "score": 902.9
+    "score": 903.3
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -161,13 +171,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6200,
+    "stars": 6202,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-20",
     "topic": "world-model",
-    "score": 2480.1
+    "score": 2480.9
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -240,16 +250,6 @@
     "score": 3.7
   },
   {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7924,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-08-20",
-    "topic": "robot-learning",
-    "score": 3169.7
-  },
-  {
     "repo": "DexForce/EmbodiChain",
     "stars": 210,
     "language": "Python",
@@ -271,13 +271,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44377,
+    "stars": 44378,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 17750.9
+    "score": 17751.3
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -291,13 +291,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13717,
+    "stars": 13719,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 5486.9
+    "score": 5487.7
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
@@ -681,13 +681,13 @@
   },
   {
     "repo": "NVlabs/alpamayo",
-    "stars": 1994,
+    "stars": 1995,
     "language": "Python",
     "description": "NVIDIA Alpamayo 1 Nano is an open 10B reasoning VLA model for autonomous vehicles that pairs driving trajectories with Chain-of-Causation reasoning.",
     "url": "https://github.com/NVlabs/alpamayo",
     "date": "2026-08-05",
     "topic": "vla",
-    "score": 797.7
+    "score": 798.1
   },
   {
     "repo": "NVlabs/alpamayo1.5",

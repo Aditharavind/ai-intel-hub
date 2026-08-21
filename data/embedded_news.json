@@ -1,5 +1,12 @@
 [
   {
+    "title": "Deskbuddy – ESP32 Touchscreen Personal Desk Dashboard #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-08-21",
+    "url": "https://blog.adafruit.com/2026/08/20/deskbuddy-esp32-touchscreen-personal-desk-dashboard-3dthursday-3dprinting/",
+    "summary": "LextZip shares: A customizable mini dashboard combining a touchscreen ESP32 board with simple software widgets: time, weather, notes, timers, and other useful modules. Compact always-visible display so you don&#8217;t need to check your phone or open extra apps. Works as clock, weather display, focus timer, notes panel, or general desk status screen. Project still in [&#8230;]"
+  },
+  {
     "title": "Samsung Printer is the Next Frontier Of Minecraft Servers",
     "source": "Hackaday",
     "date": "2026-08-20",
@@ -49,11 +56,11 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/Teenage-Engineering-Ting-FX-EP-2350-Teardown-0-21-screenshot-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Ting FX EP-2350 by Teenage Engineering is a standalone microphone with a few extras, including samples and built-in effect presets that can be modified by the user. It also <a class=\"read-more\" href=\"https://hackaday.com/2026/08/20/teardown-shows-low-fi-microphone-is-surprisingly-sophisticated/\">&#8230;read more</a>"
   },
   {
-    "title": "Linux 7.2 release – Main changes, Arm, RISC_V, amd MIPS architecture",
+    "title": "Linux 7.2 release – Main changes, Arm, RISC-V, and MIPS architectures",
     "source": "CNX Software",
     "date": "2026-08-20",
     "url": "https://www.cnx-software.com/2026/08/21/linux-7-2-release-main-changes-arm-risc_v-amd-mips-architecture/",
-    "summary": "<div><img alt=\"Linux 7.2 release\" class=\"attachment-medium size-medium wp-post-image\" height=\"450\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Linux-7.2-release-720x450.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Linus Torvalds released Linux 7.2 on LKML last Sunday: Well, this last week of the release was &#8211; once again &#8211; bigger than I would have wished for, but hey, with the whole &#8220;new normal&#8221; thing, if I delayed releases for that reason we&#8217;d probably never have a release at all. There are a number of fairly late reverts &#8211; the drm scheduling reverts stand out, but there&#8217;s a few other ones in here too. It may not be pretty, but it&#8217;s the correct way to deal with &#8220;oh, that code wasn&#8217;t ready and caused problems&#8221;. People will be trying that again later. But while the drm reverts stand out and are some of the bigger patches in here, there&#8217;s a lot of small fixes all over. Mostly in drivers, but networking remained fairly active this last week too. And then there are a few random patches to architecture files [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/21/linux-7-2-release-main-changes-arm-risc_v-amd-mips-architecture/\">Linux 7.2 release &#8211; Main changes, Arm, RISC_V, amd MIPS architecture</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"Linux 7.2 release\" class=\"attachment-medium size-medium wp-post-image\" height=\"450\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Linux-7.2-release-720x450.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Linus Torvalds released Linux 7.2 on LKML last Sunday: Well, this last week of the release was &#8211; once again &#8211; bigger than I would have wished for, but hey, with the whole &#8220;new normal&#8221; thing, if I delayed releases for that reason we&#8217;d probably never have a release at all. There are a number of fairly late reverts &#8211; the drm scheduling reverts stand out, but there&#8217;s a few other ones in here too. It may not be pretty, but it&#8217;s the correct way to deal with &#8220;oh, that code wasn&#8217;t ready and caused problems&#8221;. People will be trying that again later. But while the drm reverts stand out and are some of the bigger patches in here, there&#8217;s a lot of small fixes all over. Mostly in drivers, but networking remained fairly active this last week too. And then there are a few random patches to architecture files [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/21/linux-7-2-release-main-changes-arm-risc_v-amd-mips-architecture/\">Linux 7.2 release &#8211; Main changes, Arm, RISC-V, and MIPS architectures</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Why are people suddenly adding Apple Lightning cables to Raspberry Pi Pico 2 boards?",
@@ -154,6 +161,13 @@
     "summary": "<p>Toshiba has engineering samples of the TXZ+ Family Entry-Class M4V Group of standard microcontrollers. Featuring an Arm Cortex-M4 core with a floating-point unit (FPU) operating at up to 80MHz, the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/toshiba-sampling-arm-cortex-m4-mcus-2026-08/\">Toshiba sampling Arm Cortex-M4 MCUs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Arduino R3 + Breadboard Holder – Sticky-Back or Hot-Glue Mount #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-08-20",
+    "url": "https://blog.adafruit.com/2026/08/20/arduino-r3-breadboard-holder-sticky-back-or-hot-glue-mount-3dthursday-3dprinting/",
+    "summary": "Shared by TheGadge on MakerWorld: I wanted something to hold the Arduino Uno R3 (in my case, an Elegoo one) along with a breadboard &#8211; standard size. The breadboard I buy have a sticky back which makes a permanent fixture, or you could just hot glue etc. I&#8217;ve designed this to be printed without supports. [&#8230;]"
+  },
+  {
     "title": "Pencil Sharpener Desk Organizer – Giant Pencil Sharpener-Style Pen Holder #3DThursday #3DPrinting",
     "source": "Adafruit",
     "date": "2026-08-20",
@@ -222,20 +236,6 @@
     "date": "2026-08-20",
     "url": "https://blog.adafruit.com/2026/08/20/circuitpython-day-will-be-august-21-2026-tomorrow/",
     "summary": "It’s that time of year! Adafruit has determined that this Friday, August 21, 2025, is the snakiest day of the year and designated it CircuitPython Day! Adafruit will have special video shows and more throughout the day. All times US Eastern: Time (Eastern) Presenter Format Title 11:00 AM Noe &#38; Pedro livestream 3D Hangouts Special [&#8230;]"
-  },
-  {
-    "title": "Why are people suddenly adding Apple Lightning cables to Raspberry Pi Pico 2 boards?",
-    "source": "Adafruit",
-    "date": "2026-08-20",
-    "url": "https://blog.adafruit.com/2026/08/20/why-are-people-suddenly-adding-apple-lightning-cables-to-raspberry-pi-pico-2-boards/",
-    "summary": "People have been popping up in various maker forums asking about Raspberry Pi Pico 2 boards and adding an Apple Lightning cable. The reasons: jailbreaking/bypassing iDevices with Apple A12/A13 CPUs using the usbliter8 boot ROM exploit by Paradigm Shift. One X user (stacksmashing) even replied: “I literally have this on my desk right now”. The [&#8230;]"
-  },
-  {
-    "title": "PINE64 is halting its Linux hardware line, and the AI bubble is to blame",
-    "source": "Adafruit",
-    "date": "2026-08-20",
-    "url": "https://blog.adafruit.com/2026/08/20/pine64-is-halting-its-linux-hardware-line-and-the-ai-bubble-is-to-blame/",
-    "summary": "They are blaming DRAM and eMMC shortages, with nothing coming back before mid-2027. PINE64, the open hardware manufacturer, recently posted an update on its Mastodon account, and it&#8217;s not great news if you were hoping to grab new Linux-powered hardware. The disruptions in DRAM and eMMC supply are to blame, as PINE64 says its Linux [&#8230;]"
   },
   {
     "title": "Tom Clancy’s Rainbow Six® Siege Cuts Critical Toxic Voice Chat by 50% with Modulate’s ToxMod",
