@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-21 15:20 UTC
+Last Updated: 2026-08-21 16:16 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-21 | Building a Discrete Component 75 Baud Modem | Hackaday | [link](https://hackaday.com/2026/08/21/building-a-discrete-component-75-baud-modem/) |
 | 2026-08-21 | This Week in Security: Apple Warns Users, Stripe Merchants Leak Keys, Copilot Helps Hack Itself, and Comcast Senses Movement | Hackaday | [link](https://hackaday.com/2026/08/21/this-week-in-security-apple-warns-users-stripe-merchants-leak-keys-copilot-helps-hack-itself-and-comcast-senses-movement/) |
 | 2026-08-21 | Spoofed Serial Number Unlocks Cricut Machine | Hackaday | [link](https://hackaday.com/2026/08/21/spoofed-serial-number-unlocks-cricut-machine/) |
 | 2026-08-21 | Self-Hosting Offline Websites | Hackaday | [link](https://hackaday.com/2026/08/21/self-hosting-offline-websites/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-21 | M5Stack Paper Mono – An ESP32-S3 e-paper development board with 3.97-inch touchscreen, LoRa, and NFC | CNX Software | [link](https://www.cnx-software.com/2026/08/21/m5stack-paper-mono-an-esp32-s3-e-paper-development-board-with-3-97-inch-touchscreen-lora-and-nfc/) |
 | 2026-08-21 | NXP MCX C15 and C16 low-cost Cortex-M23 MCUs target IoT, analog, and motor control applications | CNX Software | [link](https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/) |
 | 2026-08-21 | Vector Brings Natural-Language AI Automation to CANoe | Embedded.com | [link](https://www.embedded.com/vector-brings-natural-language-ai-automation-to-canoe/) |
-| 2026-08-21 | Android XR advances as Jetpack XR SDK core libraries reach beta | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/software-products/android-xr-advances-as-jetpack-xr-sdk-core-libraries-reach-beta-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,16 +77,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-21 | ryanyamasita/paper_022391343_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/ryanyamasita/paper_022391343_robotics_vision_language) |
 | 2026-08-21 | jennifercook/paper_021891815_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/jennifercook/paper_021891815_robotics_vision_language) |
 | 2026-08-21 | oliveiraberg/paper_022120861_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/oliveiraberg/paper_022120861_robotics_vision_language) |
+| 2026-08-21 | ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024-trt | 0 | 0 | [link](https://huggingface.co/ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024-trt) |
+| 2026-08-21 | ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024 | 0 | 0 | [link](https://huggingface.co/ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024) |
 | 2026-08-21 | Roy229/ml-robotics-prime-aurelia | 0 | 0 | [link](https://huggingface.co/Roy229/ml-robotics-prime-aurelia) |
 | 2026-08-21 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 | 2026-08-21 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-21 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-21 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
-| 2026-08-21 | vladisavjovanovic/structural_intelligence_SI | 0 | 1 | [link](https://huggingface.co/vladisavjovanovic/structural_intelligence_SI) |
-| 2026-08-21 | vladmandic/sdnext-upscalers | 0 | 5 | [link](https://huggingface.co/vladmandic/sdnext-upscalers) |
-| 2026-08-21 | mertalbaba/humanoid-vla-checkpoints | 0 | 0 | [link](https://huggingface.co/mertalbaba/humanoid-vla-checkpoints) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -96,7 +96,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63465 | Python | 25386.1 | [link](https://github.com/commaai/openpilot) |
 | google-deepmind/mujoco | 14625 | C++ | 5850.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13747 | Python | 5498.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13748 | Python | 5499.3 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11333 | Rust | 4533.3 | [link](https://github.com/rerun-io/rerun) |
 | kornia/kornia | 11319 | Python | 4527.7 | [link](https://github.com/kornia/kornia) |
 | dora-rs/dora | 3890 | Rust | 1556.1 | [link](https://github.com/dora-rs/dora) |

@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-21 15:20 UTC
+Generated: 2026-08-21 16:16 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -18,16 +18,16 @@ Generated: 2026-08-21 15:20 UTC
 | NaiboWang/EasySpider | 44387 | 17754.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30342 | 12136.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16148 | 6459.3 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15719 | 6287.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15720 | 6288.1 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | physicalai-bmi/efa-1 | 236 | 70.9 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
-| XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa | 132 | 41.7 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa) |
-| XiaomiRobotics/Xiaomi-Robotics-1-VLABench | 93 | 29.0 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-VLABench) |
 | physicalairi/so101_1200ep_smolvla | 87 | 26.2 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
 | puppet-robotics/golf-model-mcap-test | 41 | 12.4 | [link](https://huggingface.co/puppet-robotics/golf-model-mcap-test) |
+| physicalairi/so101_1200ep_pi05 | 41 | 12.4 | [link](https://huggingface.co/physicalairi/so101_1200ep_pi05) |
+| Idan/fga-navigation | 41 | 12.4 | [link](https://huggingface.co/Idan/fga-navigation) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

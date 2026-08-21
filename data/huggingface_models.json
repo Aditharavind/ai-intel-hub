@@ -1,5 +1,14 @@
 [
   {
+    "model": "ryanyamasita/paper_022391343_robotics_vision_language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ryanyamasita/paper_022391343_robotics_vision_language",
+    "date": "2026-08-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "jennifercook/paper_021891815_robotics_vision_language",
     "downloads": 0,
     "likes": 0,
@@ -13,6 +22,24 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/oliveiraberg/paper_022120861_robotics_vision_language",
+    "date": "2026-08-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024-trt",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024-trt",
+    "date": "2026-08-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024",
     "date": "2026-08-21",
     "keyword": "robotics",
     "score": 0.1
@@ -124,6 +151,24 @@
     "date": "2026-08-21",
     "keyword": "vla",
     "score": 3.7
+  },
+  {
+    "model": "advaitsharma/paper_020442611_embodied_ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/advaitsharma/paper_020442611_embodied_ai",
+    "date": "2026-08-21",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "georgecevans/paper_021132819_embodied_ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/georgecevans/paper_021132819_embodied_ai",
+    "date": "2026-08-21",
+    "keyword": "embodied",
+    "score": 0.1
   },
   {
     "model": "Brittanybrown/paper_020923619_embodied_ai",
@@ -270,33 +315,6 @@
     "score": 9.1
   },
   {
-    "model": "puppet-robotics/golf-model-mcap-test",
-    "downloads": 41,
-    "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-mcap-test",
-    "date": "2026-08-20",
-    "keyword": "robotics",
-    "score": 12.4
-  },
-  {
-    "model": "ShuiJie/pi0.5_robotwin2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ShuiJie/pi0.5_robotwin2",
-    "date": "2026-08-20",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "SereneC/AHA-WAM-RoboTwin2.0",
-    "downloads": 8,
-    "likes": 0,
-    "url": "https://huggingface.co/SereneC/AHA-WAM-RoboTwin2.0",
-    "date": "2026-08-20",
-    "keyword": "robot",
-    "score": 2.5
-  },
-  {
     "model": "sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
     "downloads": 13,
     "likes": 0,
@@ -385,6 +403,15 @@
     "date": "2026-08-20",
     "keyword": "physical ai",
     "score": 0.1
+  },
+  {
+    "model": "puppet-robotics/golf-model-mcap-test",
+    "downloads": 41,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/golf-model-mcap-test",
+    "date": "2026-08-20",
+    "keyword": "robotics",
+    "score": 12.4
   },
   {
     "model": "novastar111/sokoban_easy_cot_chunk_k3_world_model",
@@ -493,33 +520,6 @@
     "date": "2026-08-14",
     "keyword": "robotics",
     "score": 0.1
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa",
-    "downloads": 132,
-    "likes": 10,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa",
-    "date": "2026-08-14",
-    "keyword": "robotics",
-    "score": 41.7
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-1-VLABench",
-    "downloads": 93,
-    "likes": 5,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-VLABench",
-    "date": "2026-08-14",
-    "keyword": "robotics",
-    "score": 29.0
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-1-5B",
-    "downloads": 18,
-    "likes": 15,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-5B",
-    "date": "2026-08-14",
-    "keyword": "robotics",
-    "score": 8.5
   },
   {
     "model": "physicalairi/so101_1200ep_pi05",
@@ -689,24 +689,6 @@
     "likes": 0,
     "url": "https://huggingface.co/Datawhale/every-embodied-smolvla-mujoco-pnp",
     "date": "2026-07-22",
-    "keyword": "embodied",
-    "score": 0.1
-  },
-  {
-    "model": "Datawhale/every-embodied-act-mujoco-pnp",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Datawhale/every-embodied-act-mujoco-pnp",
-    "date": "2026-07-20",
-    "keyword": "embodied",
-    "score": 0.1
-  },
-  {
-    "model": "Datawhale/every-embodied-pi0-mujoco-pnp",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Datawhale/every-embodied-pi0-mujoco-pnp",
-    "date": "2026-07-20",
     "keyword": "embodied",
     "score": 0.1
   },
