@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-21 00:28 UTC
+Generated: 2026-08-21 02:14 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-08-19 | PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views | [link](https://arxiv.org/pdf/2608.19188v1) |
-| 2026-08-19 | ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning | [link](https://arxiv.org/pdf/2608.19182v1) |
-| 2026-08-19 | Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication | [link](https://arxiv.org/pdf/2608.19161v1) |
-| 2026-08-19 | DA-WAM: Decision-Aligned Future Latents for Driving World Models | [link](https://arxiv.org/pdf/2608.19085v1) |
-| 2026-08-19 | Subgroup performance analysis of adaptation strategies for chest X-ray foundation models | [link](https://arxiv.org/pdf/2608.19078v1) |
+| 2026-08-20 | DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery | [link](https://arxiv.org/pdf/2608.20308v1) |
+| 2026-08-20 | Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning | [link](https://arxiv.org/pdf/2608.20284v1) |
+| 2026-08-20 | DART-S: Reachability-Audited Active-Suspension Preconditioning for Off-Road Vehicle Jumps | [link](https://arxiv.org/pdf/2608.20275v1) |
+| 2026-08-20 | Video2DoorTraversal: Push Door Traversal via Simulated Door Twins | [link](https://arxiv.org/pdf/2608.20251v1) |
+| 2026-08-20 | Growth Without Us: Machine Consumers, Corporate Circularity, and the Decoupling of GDP from Humanity after AGI | [link](https://arxiv.org/pdf/2608.20231v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63459 | 25383.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44378 | 17751.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| commaai/openpilot | 63460 | 25384.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44380 | 17752.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30336 | 12134.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16146 | 6458.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15715 | 6286.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15716 | 6286.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,8 +41,8 @@ Generated: 2026-08-21 00:28 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-21 | Chinese visa impact hits Indian physical AI startups - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugJBVV95cUxNRW5UOEJha2x4ZGtaZXR3STlvWVBnSEFEaWQzRC0xQ1UteTIwcXVaOUlibmE0OW9qSXhNUU1TSzc0bnk5eTQzWW00cmdCMTFRT3NvM0dKVE5YMExEZmRrWFhGaktqQjVUMll1TWZsMVU3dnlqbFpsTW5CUUdaMDROTlFlaUNibHNUNEpvc3lXSEdDTkNvaGJITWVQV0p3QzFkREJ6QnJ3X2xZWmxKSWVFS0RyUkhmeTRtYnh0UV9TazhJSFh2U2tNdW9uTldPZjlEX2tmOU4yblZ3STE1UEJOTXQ4TEpuTjRvUVFNWkNpVHVfNWdOcWtYUlhhZUc1SW56LW5UOEhjQ3podE9lcGRWc3doMUdCN3BqeWVCUUhTQm9fRG1xenNBanNUXzRzVVB6N1ducEFiLW9OZ9IB1gFBVV95cUxORE5YZlVvdnVGRkdtWV9EQ19LNDFxNmFmMTM2TGRkWlZGZk5YODFIZDhSQXRUWlFCaVl2TGUtbE53T2dFT0VBUWplWk9IU053RzVoU0pYaFVBSVQ0U3VMRDMwSU9sLTNtRlJLZkZ5akFUeUp3cnRaVVFFN0xtM3lBU1VuRkdxeFNyaEZBUXpoRjRQUUVnamVaVloxR2hmeWpaREhwaDNHVklqSmFBR0dUb3lpeGtIOEtVVDhMeWpqckwzNHh1bElPME1vNDJMcUpwU0t6dUNR?oc=5) |
 | 2026-08-20 | Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUpET2g2MTNFVnVnRVY3U2hob2UwcnpTYnhOQVJ2RDdFQW4zTHI2LThnelJwZV9CTUh6U1J0WlJOdkRGVnM1MVVQQ1hST281VHdXWV9BekdXQ2lFdWwycGQta1N1X3RTS25YNnh3em9RT0ZZVE14TUJTOUZjRHNzM0tlU2lya0F0VHFLdDcwTG9LaUtvZFVyaXEzaHZySGRqb19EbldTNVpGQQ?oc=5) |
 | 2026-08-20 | Chinese humanoids take center stage at World Robot Conference - Daily Sabah | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODFWS015SEdsUVZ1azNZYzhpWEltUmVxMUhUbWZzUlQ2UVh4WWdmLV9FbTlLcVlxUEgzcHE2OWZiazlIWVVSRU5UUTlEQVJMd2VJak43TzVtVWVwWHlBaUVwaGIxQjZPclZ0OWdUQVVWYklvclRKbVdwTXR2QllWd0Y4amtvVERQTU9NTThRUlNiUEgzU1NoMXFuTUw3OC1fNW9rRE5TY3UzQQ?oc=5) |
-| 2026-08-19 | Physical AI startup Enigma raises $71M seed to make robots easy to use - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXRaZzc5UlVLblMzeDExb1E2RzU0bmJwd2JVWG9PclZvenRzLWIzZVdUVXhBNVhaLV8yOVdQbkNTQmJIN3JmLVdRaWF4bFUwb1hpVHh5S25HeVNGb0lsdFFHa1dKdGZxUWRqUWQ5b0V6d0FsQU5RWW9nTDllZ2V6MUpZS2lUR1VDOXU1NGo3bjBvYVlHLTlTQWt3ZzF5eGZhNV9aNmJ3?oc=5) |
 | 2026-08-19 | Former Nvidia lab leader Sanja Fidler launches Veeda AI to tackle world models - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRreGNHRzNvY0NlNVdjdk9fUEtrakxxT3E3WWJPMmxLc2FBeXdpcjdXTElsV3FBX0pBYUpXWHYzYlAzZ3o4WXk2MVZNS2tJQWg2bzBIendlWm9qTldRTzFLaERSZDd5UFUxZmZ6MnV5T0FBaHhYdEpIaU1UN3ZZcTg1RFZFcE5aUDJRaE9LTHRoS3ZPUmJ6RkZmbWxReWNI?oc=5) |
-| 2026-08-19 | Star researcher Sanja Fidler raises over US$90M for world model startup - The Logic | physical ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTE1LTEJEbDJEZ2pmV1VBeXNVQkVSLWc2c19ldUNzUUt2UzllMlN4R3J6dUNFS0o4ckdzdE1TMXhoZjI4Z0c1cVlNX1hoS3p0WnZsM3JBU1pncEtGamR4dnBUVEc2S3l2NERUb3dYSWp3b0R1dw?oc=5) |
+| 2026-08-19 | Physical AI startup Enigma raises $71M seed to make robots easy to use - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXRaZzc5UlVLblMzeDExb1E2RzU0bmJwd2JVWG9PclZvenRzLWIzZVdUVXhBNVhaLV8yOVdQbkNTQmJIN3JmLVdRaWF4bFUwb1hpVHh5S25HeVNGb0lsdFFHa1dKdGZxUWRqUWQ5b0V6d0FsQU5RWW9nTDllZ2V6MUpZS2lUR1VDOXU1NGo3bjBvYVlHLTlTQWt3ZzF5eGZhNV9aNmJ3?oc=5) |

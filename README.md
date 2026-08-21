@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-21 00:28 UTC
+Last Updated: 2026-08-21 02:14 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-21 | Superconducting Temperature Record set at Ambient Pressure | Hackaday | [link](https://hackaday.com/2026/08/20/superconducting-temperature-record-set-at-ambient-pressure/) |
+| 2026-08-21 | No One’s No.1 Problem | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/no-ones-no-1-problem-2026-08/) |
 | 2026-08-21 | Deskbuddy – ESP32 Touchscreen Personal Desk Dashboard #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/20/deskbuddy-esp32-touchscreen-personal-desk-dashboard-3dthursday-3dprinting/) |
 | 2026-08-20 | Samsung Printer is the Next Frontier Of Minecraft Servers | Hackaday | [link](https://hackaday.com/2026/08/20/samsung-printer-is-the-next-frontier-of-minecraft-servers/) |
 | 2026-08-20 | Homebrew 68K Machine Has A PCI Bus | Hackaday | [link](https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/) |
@@ -56,28 +58,27 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-20 | 3D Printering: Why is my PLA so Brittle? | Hackaday | [link](https://hackaday.com/2026/08/20/3d-printering-why-is-my-pla-so-brittle/) |
 | 2026-08-20 | Miniaturizing the Atari 2600 Console | Hackaday | [link](https://hackaday.com/2026/08/20/miniaturizing-the-atari-2600-console/) |
 | 2026-08-20 | An Early History of Space Stations: The Brick Moon Made Real | Hackaday | [link](https://hackaday.com/2026/08/20/an-early-history-of-space-stations-the-brick-moon-made-real/) |
-| 2026-08-20 | Teardown Shows Low-Fi Microphone is Surprisingly Sophisticated | Hackaday | [link](https://hackaday.com/2026/08/20/teardown-shows-low-fi-microphone-is-surprisingly-sophisticated/) |
 | 2026-08-20 | Linux 7.2 release – Main changes, Arm, RISC-V, and MIPS architectures | CNX Software | [link](https://www.cnx-software.com/2026/08/21/linux-7-2-release-main-changes-arm-risc_v-amd-mips-architecture/) |
-| 2026-08-20 | Why are people suddenly adding Apple Lightning cables to Raspberry Pi Pico 2 boards? | CNX Software | [link](https://www.cnx-software.com/2026/08/20/why-are-people-suddenly-adding-apple-lightning-cables-to-raspberry-pi-pico-2-boards/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-08-19 | PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views | [link](https://arxiv.org/pdf/2608.19188v1) |
-| 2026-08-19 | ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning | [link](https://arxiv.org/pdf/2608.19182v1) |
-| 2026-08-19 | Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication | [link](https://arxiv.org/pdf/2608.19161v1) |
-| 2026-08-19 | DA-WAM: Decision-Aligned Future Latents for Driving World Models | [link](https://arxiv.org/pdf/2608.19085v1) |
-| 2026-08-19 | Subgroup performance analysis of adaptation strategies for chest X-ray foundation models | [link](https://arxiv.org/pdf/2608.19078v1) |
-| 2026-08-19 | GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting | [link](https://arxiv.org/pdf/2608.19066v1) |
-| 2026-08-19 | LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding | [link](https://arxiv.org/pdf/2608.19059v1) |
-| 2026-08-19 | Harness Continual Learning: Continual Adaptation Beyond Model Parameters | [link](https://arxiv.org/pdf/2608.19013v1) |
-| 2026-08-19 | Extremes on Rewind: Generating 1,000-Member Ensembles Initialized at a Final Condition | [link](https://arxiv.org/pdf/2608.19008v1) |
-| 2026-08-19 | Autonomous Agricultural Tractor: Integrated Weed Detection and LiDAR Navigation for Precision Paddy Farming | [link](https://arxiv.org/pdf/2608.19004v1) |
+| 2026-08-20 | DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery | [link](https://arxiv.org/pdf/2608.20308v1) |
+| 2026-08-20 | Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning | [link](https://arxiv.org/pdf/2608.20284v1) |
+| 2026-08-20 | DART-S: Reachability-Audited Active-Suspension Preconditioning for Off-Road Vehicle Jumps | [link](https://arxiv.org/pdf/2608.20275v1) |
+| 2026-08-20 | Video2DoorTraversal: Push Door Traversal via Simulated Door Twins | [link](https://arxiv.org/pdf/2608.20251v1) |
+| 2026-08-20 | Growth Without Us: Machine Consumers, Corporate Circularity, and the Decoupling of GDP from Humanity after AGI | [link](https://arxiv.org/pdf/2608.20231v1) |
+| 2026-08-20 | RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation | [link](https://arxiv.org/pdf/2608.20208v1) |
+| 2026-08-20 | RMWorld: Task-Aware Radio World Models with Value-of-Information Guided Multi-Trial Learning for Multi-UAV Communication Control | [link](https://arxiv.org/pdf/2608.20126v1) |
+| 2026-08-20 | DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation | [link](https://arxiv.org/pdf/2608.20114v1) |
+| 2026-08-20 | Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms | [link](https://arxiv.org/pdf/2608.20111v1) |
+| 2026-08-20 | Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking | [link](https://arxiv.org/pdf/2608.20087v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-21 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
+| 2026-08-21 | kemjensak/unlv_vla_policy | 0 | 0 | [link](https://huggingface.co/kemjensak/unlv_vla_policy) |
 | 2026-08-20 | puppet-robotics/golf-model-2-8fps-peft | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-2-8fps-peft) |
 | 2026-08-20 | milab-robot/alm1-0731-milab.NESW.T | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.NESW.T) |
 | 2026-08-20 | puppet-robotics/golf-model-2-8fps | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-2-8fps) |
@@ -86,21 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-20 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 | 2026-08-20 | SereneC/AHA-WAM-RoboTwin2.0 | 0 | 0 | [link](https://huggingface.co/SereneC/AHA-WAM-RoboTwin2.0) |
 | 2026-08-20 | flex-pi/flexpi-robotwin | 0 | 0 | [link](https://huggingface.co/flex-pi/flexpi-robotwin) |
-| 2026-08-20 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| dora-rs/dora | 3886 | Rust | 1554.5 | [link](https://github.com/dora-rs/dora) |
-| isaac-sim/IsaacLab | 7924 | Python | 3169.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| NVIDIA/skills | 3035 | Python | 1214.1 | [link](https://github.com/NVIDIA/skills) |
+| dora-rs/dora | 3887 | Rust | 1554.9 | [link](https://github.com/dora-rs/dora) |
+| sou350121/VLA-Handbook | 526 | HTML | 210.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 6203 | Python | 2481.3 | [link](https://github.com/vllm-project/vllm-omni) |
+| isaac-sim/IsaacLab | 7925 | Python | 3170.1 | [link](https://github.com/isaac-sim/IsaacLab) |
+| NVIDIA/skills | 3036 | Python | 1214.5 | [link](https://github.com/NVIDIA/skills) |
 | mosaico-labs/mosaico | 937 | Python | 374.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63459 | Python | 25383.7 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15715 | C++ | 6286.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 63460 | Python | 25384.1 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15716 | C++ | 6286.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14618 | C++ | 5847.3 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11331 | Rust | 4532.5 | [link](https://github.com/rerun-io/rerun) |
-| RLinf/RLinf | 4588 | Python | 1835.3 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,16 +119,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-21 | Chinese visa impact hits Indian physical AI startups - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugJBVV95cUxNRW5UOEJha2x4ZGtaZXR3STlvWVBnSEFEaWQzRC0xQ1UteTIwcXVaOUlibmE0OW9qSXhNUU1TSzc0bnk5eTQzWW00cmdCMTFRT3NvM0dKVE5YMExEZmRrWFhGaktqQjVUMll1TWZsMVU3dnlqbFpsTW5CUUdaMDROTlFlaUNibHNUNEpvc3lXSEdDTkNvaGJITWVQV0p3QzFkREJ6QnJ3X2xZWmxKSWVFS0RyUkhmeTRtYnh0UV9TazhJSFh2U2tNdW9uTldPZjlEX2tmOU4yblZ3STE1UEJOTXQ4TEpuTjRvUVFNWkNpVHVfNWdOcWtYUlhhZUc1SW56LW5UOEhjQ3podE9lcGRWc3doMUdCN3BqeWVCUUhTQm9fRG1xenNBanNUXzRzVVB6N1ducEFiLW9OZ9IB1gFBVV95cUxORE5YZlVvdnVGRkdtWV9EQ19LNDFxNmFmMTM2TGRkWlZGZk5YODFIZDhSQXRUWlFCaVl2TGUtbE53T2dFT0VBUWplWk9IU053RzVoU0pYaFVBSVQ0U3VMRDMwSU9sLTNtRlJLZkZ5akFUeUp3cnRaVVFFN0xtM3lBU1VuRkdxeFNyaEZBUXpoRjRQUUVnamVaVloxR2hmeWpaREhwaDNHVklqSmFBR0dUb3lpeGtIOEtVVDhMeWpqckwzNHh1bElPME1vNDJMcUpwU0t6dUNR?oc=5) |
 | 2026-08-20 | Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUpET2g2MTNFVnVnRVY3U2hob2UwcnpTYnhOQVJ2RDdFQW4zTHI2LThnelJwZV9CTUh6U1J0WlJOdkRGVnM1MVVQQ1hST281VHdXWV9BekdXQ2lFdWwycGQta1N1X3RTS25YNnh3em9RT0ZZVE14TUJTOUZjRHNzM0tlU2lya0F0VHFLdDcwTG9LaUtvZFVyaXEzaHZySGRqb19EbldTNVpGQQ?oc=5) |
 | 2026-08-20 | Chinese humanoids take center stage at World Robot Conference - Daily Sabah | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODFWS015SEdsUVZ1azNZYzhpWEltUmVxMUhUbWZzUlQ2UVh4WWdmLV9FbTlLcVlxUEgzcHE2OWZiazlIWVVSRU5UUTlEQVJMd2VJak43TzVtVWVwWHlBaUVwaGIxQjZPclZ0OWdUQVVWYklvclRKbVdwTXR2QllWd0Y4amtvVERQTU9NTThRUlNiUEgzU1NoMXFuTUw3OC1fNW9rRE5TY3UzQQ?oc=5) |
-| 2026-08-19 | Physical AI startup Enigma raises $71M seed to make robots easy to use - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXRaZzc5UlVLblMzeDExb1E2RzU0bmJwd2JVWG9PclZvenRzLWIzZVdUVXhBNVhaLV8yOVdQbkNTQmJIN3JmLVdRaWF4bFUwb1hpVHh5S25HeVNGb0lsdFFHa1dKdGZxUWRqUWQ5b0V6d0FsQU5RWW9nTDllZ2V6MUpZS2lUR1VDOXU1NGo3bjBvYVlHLTlTQWt3ZzF5eGZhNV9aNmJ3?oc=5) |
 | 2026-08-19 | Former Nvidia lab leader Sanja Fidler launches Veeda AI to tackle world models - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRreGNHRzNvY0NlNVdjdk9fUEtrakxxT3E3WWJPMmxLc2FBeXdpcjdXTElsV3FBX0pBYUpXWHYzYlAzZ3o4WXk2MVZNS2tJQWg2bzBIendlWm9qTldRTzFLaERSZDd5UFUxZmZ6MnV5T0FBaHhYdEpIaU1UN3ZZcTg1RFZFcE5aUDJRaE9LTHRoS3ZPUmJ6RkZmbWxReWNI?oc=5) |
+| 2026-08-19 | Physical AI startup Enigma raises $71M seed to make robots easy to use - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXRaZzc5UlVLblMzeDExb1E2RzU0bmJwd2JVWG9PclZvenRzLWIzZVdUVXhBNVhaLV8yOVdQbkNTQmJIN3JmLVdRaWF4bFUwb1hpVHh5S25HeVNGb0lsdFFHa1dKdGZxUWRqUWQ5b0V6d0FsQU5RWW9nTDllZ2V6MUpZS2lUR1VDOXU1NGo3bjBvYVlHLTlTQWt3ZzF5eGZhNV9aNmJ3?oc=5) |
 | 2026-08-19 | Star researcher Sanja Fidler raises over US$90M for world model startup - The Logic | physical ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTE1LTEJEbDJEZ2pmV1VBeXNVQkVSLWc2c19ldUNzUUt2UzllMlN4R3J6dUNFS0o4ckdzdE1TMXhoZjI4Z0c1cVlNX1hoS3p0WnZsM3JBU1pncEtGamR4dnBUVEc2S3l2NERUb3dYSWp3b0R1dw?oc=5) |
 | 2026-08-19 | AI researcher Sanja Fidler raises US$90-million for robotics startup - The Globe and Mail | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1hiM1VrQ3VmZkp3TWRpaXpqVW93ZW9qN3NRdFJWcEdOZU9jTnFvb25ZY3BoVkhIMVo3NjZXYkxEbnlHU0stS1lsM042aWhvR0JNR0Z4RDV5c1hJWnprNmhzalRSUEdJSG5xdmtQWV9TcU5DV3ZHeXdoWkVuc01hMFA0d0ZZaW5EeVFFdlJ1OWd2UUlsNkt4RHVrdmxJYjJzelVjTE05eGtxV0RQcmpmdzdtX1NqZw?oc=5) |
 | 2026-08-19 | Unitree Robotics to debut after US$904 million Shanghai IPO, rides embodied AI wave - The Business Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkpxSGVfMDlFYmtFTmJ3N0R5NVU0dnJZTTZRM2V6a0pWSmlxMEU4TDh3WW5yRHhuMFhfN3VTYkVfWUpwVENGcEFhdFhLRjM0SjRFYnJ6a2JRZGlsOHFma011bzhYY09uWGJTdXRoaXoxRE1Bc0dJeTB1ZnRvRTF1T1hzeWRzYy03dzNrWTVrcU5aRzA0eVdNRzFGS2Q2Xzd6WktxNXB2Um5LNFdvcEFBdEVlVWFLSmJZNF9HQUZ6TzBRYUNmbnZZNQ?oc=5) |
 | 2026-08-19 | Humanoid robot drives a go-kart, Chinese embodied AI startup releases demo video of race - Chinese media - Record China | embodied ai startup | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaTRSNFJkWmVGbGtXZFVEeTUyR0dreko4N3ZKbGpzTGFZZG9OMjExd0dPNDZHbzlMYTg3WldORk1KZHl2OXJjVlJpVUdJN01GX2lpc2NVS1JyUkNwRHh6UlVhc2hxUDZ1YWg0?oc=5) |
 | 2026-08-19 | Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban - WSJ | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMktnNC1kMTFZTU5YWEI4RmxxZmRCMndOcV9vZVVqa2pjU2hmbkI0bFpYUVlGTDl2ZFNjTVpsam1jNHUzT2s1a3RNdWRobVdBMnpydDU1SVBJZGp6bGtRQThxSzJiNUMtN1YzVlBaTk9aWkZGajFzNEVHeUUzRnFuVExWZFhod1hYWXhydDB3a19ndVJ2Mm5lN19EN3Q?oc=5) |
-| 2026-08-19 | Shenzhen's Robot Valley: Morning Design to Afternoon Sample - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRllIM1FDdjRPMWQ0ODcwUHFrSGlQNkswZGROX1JjWERDcXlzRk80YnR5MUhoRXVHNWlPWko0RWlxNUFEeWtKN3JrVEd5V2RoOG5pOEpuWWdqS3F1dUVNR19SMzA4SXZfRURLZ09TRkJ0dDRFUmUwcmZ4VmJ6QUVFWU12RnJxeHFL?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
