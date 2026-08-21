@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-21 16:16 UTC
+Last Updated: 2026-08-21 17:19 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-21 | Hackaday Podcast Episode 383: QR Codes, Caving Gear, and the Old School Way to Learn Electronics | Hackaday | [link](https://hackaday.com/2026/08/21/hackaday-podcast-episode-383-qr-codes-caving-gear-and-the-old-school-way-to-learn-electronics/) |
 | 2026-08-21 | Building a Discrete Component 75 Baud Modem | Hackaday | [link](https://hackaday.com/2026/08/21/building-a-discrete-component-75-baud-modem/) |
 | 2026-08-21 | This Week in Security: Apple Warns Users, Stripe Merchants Leak Keys, Copilot Helps Hack Itself, and Comcast Senses Movement | Hackaday | [link](https://hackaday.com/2026/08/21/this-week-in-security-apple-warns-users-stripe-merchants-leak-keys-copilot-helps-hack-itself-and-comcast-senses-movement/) |
 | 2026-08-21 | Spoofed Serial Number Unlocks Cricut Machine | Hackaday | [link](https://hackaday.com/2026/08/21/spoofed-serial-number-unlocks-cricut-machine/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-21 | AAEON uCOM-Q6490 – A SMARC 2.1-compliant SoM powered by Qualcomm Dragonwing QCS6490 SoC | CNX Software | [link](https://www.cnx-software.com/2026/08/21/aaeon-ucom-q6490-a-smarc-2-1-qualcomm-dragonwing-qcs6490-som/) |
 | 2026-08-21 | M5Stack Paper Mono – An ESP32-S3 e-paper development board with 3.97-inch touchscreen, LoRa, and NFC | CNX Software | [link](https://www.cnx-software.com/2026/08/21/m5stack-paper-mono-an-esp32-s3-e-paper-development-board-with-3-97-inch-touchscreen-lora-and-nfc/) |
 | 2026-08-21 | NXP MCX C15 and C16 low-cost Cortex-M23 MCUs target IoT, analog, and motor control applications | CNX Software | [link](https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/) |
-| 2026-08-21 | Vector Brings Natural-Language AI Automation to CANoe | Embedded.com | [link](https://www.embedded.com/vector-brings-natural-language-ai-automation-to-canoe/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-21 | andrewhernandez/paper_022139643_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/andrewhernandez/paper_022139643_robotics_vision_language) |
+| 2026-08-21 | HarshDefy/paper_021511188_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/HarshDefy/paper_021511188_robotics_vision_language) |
 | 2026-08-21 | ryanyamasita/paper_022391343_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/ryanyamasita/paper_022391343_robotics_vision_language) |
 | 2026-08-21 | jennifercook/paper_021891815_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/jennifercook/paper_021891815_robotics_vision_language) |
 | 2026-08-21 | oliveiraberg/paper_022120861_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/oliveiraberg/paper_022120861_robotics_vision_language) |
@@ -85,8 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-21 | Roy229/ml-robotics-prime-aurelia | 0 | 0 | [link](https://huggingface.co/Roy229/ml-robotics-prime-aurelia) |
 | 2026-08-21 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 | 2026-08-21 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
-| 2026-08-21 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
-| 2026-08-21 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,12 +94,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | copper-project/copper-rs | 1461 | Rust | 584.5 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 944 | Python | 377.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63465 | Python | 25386.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63466 | Python | 25386.5 | [link](https://github.com/commaai/openpilot) |
 | google-deepmind/mujoco | 14625 | C++ | 5850.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13748 | Python | 5499.3 | [link](https://github.com/earthtojake/text-to-cad) |
-| rerun-io/rerun | 11333 | Rust | 4533.3 | [link](https://github.com/rerun-io/rerun) |
-| kornia/kornia | 11319 | Python | 4527.7 | [link](https://github.com/kornia/kornia) |
-| dora-rs/dora | 3890 | Rust | 1556.1 | [link](https://github.com/dora-rs/dora) |
+| earthtojake/text-to-cad | 13749 | Python | 5499.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| rerun-io/rerun | 11334 | Rust | 4533.7 | [link](https://github.com/rerun-io/rerun) |
+| kornia/kornia | 11321 | Python | 4528.5 | [link](https://github.com/kornia/kornia) |
+| dora-rs/dora | 3891 | Rust | 1556.5 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 3297 | Python | 1318.9 | [link](https://github.com/datawhalechina/every-embodied) |
 
 ## Startup Funding
@@ -113,8 +113,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWNGUDJYMjkyWll1LXFiS1dRVWZ5Z05ydFNMSE1iY29Bd215b01sYmlTQ3ZZX3FUTVp3ZnQzN2JjSmg1cTZGd1NaY3ppQ1F2d3BYWFNsdHI3SkZWZjdMb0VOd0ZNeHViNDBVYW1FNzZCQjFVbm5ITmtRSjhoR0FJSHFqdFphRzdjMFplNVpzbzRrcFJJdDdWSFQtT1V1UXV6MHJ6a1FlX3V5WjhVT1JqeVZjenBsTGlZVE5JZw?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFJKZmlaWUVYT050VDhEX05EQ1NnN2FVNXFFTFNabTM4a0ZrMUJheEQxMXpTSk5BRWx0dDV5TERGRDNnYW9qc205TDZyM25sZUxlWEkySm9VZEJETjhGWDAwZlFIbXpwbVlNaHFXU2p5U0hlY25falJDaUFPRlpOMXFLS3owckZISEFLREt2cFRuSkhYVWI1VXdNNF9Zajg4aUNxQnlGRXZTMDB4amc?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkFIY05HZmlhdVF2dG85cVVfQ21RZlZHdTl3YWM2MWoyOEVJZ3ctcmhGNTZXSkdMeFNjdGltSENxcU9hLU0zNV81a1ltTlJLVTNQRVFCS04zZkh4UUNrOW43eDRnM05Nc0U0Q1RXczUzTVJZX1BydG1zd2hER3R6Y3ZlTnJLSnpIQjE0d0VLYkJkZ0FoMmN0OFdtVktqNTg?oc=5) |
-| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1YwZzNETk9CSENZVDNEUTktbXZ6akFKeVBPcm1SRVNDNXZtanRWc21TbEY0M21GTTRpRjFoREZtRjAwVWtSWXduRzJJU3RRbDIyVGVHY0JkMlh0QktXblNDSFc4WF9CbjRXMmEtZGZWNmxoSThtMEExQm9VeFJVYnlHYTRoeXFMVU5YTmo3S3J5X0ZPMjRDdU45dUdsclhDMDBWNU5zT05uNlJiQ2VFQzJBdkM?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ1JsSlczNUwzaENvLVlEamtJM3hRVXFzSC1LY2RLaTY0NXhydmlIYUtKQnE5QU1NRkw5MWRyOU1ZWXdYMnRRUmpJcTV3emhuLTl6TUdXUTJNcVBFeFBWVjNUMXpSOWg2Z3k5RC0tU2w2dFhVLW1zWEI2MWxYX3RySm94Z3Z1V0JKN1IyUU1UNnRhaDRDbVhJUlNPelJlNTcyVzdEMWcyNWhtRlRwTzFaT0trSGg1a3I5VlRBalZ0VjhGSHRtQ2UxS3J2NXFFZXU4QWlQbzV0bF8?oc=5) |
+| 2026-08-18 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0U2OVlyZEFWVkZ4WGFMTHhDZzV3bzA2WFRzaWtYZl9paUdPNFB5bDl5aFM4Slllc2lKTU0xdjVIUTA1V3Ewc2FRTS05NVlSRGtZWXBBcVI0SWhrTUs1VTloQnhwbC1aZ25PekVkVGQ5ejQ3R3lOb1Q0Si1VX1ZkaE0yUTlJTGpoN0dHcDZmSXBtWGxEZGRlOHhZWlo2OEpJWHpkcUdwbUZtQQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -128,7 +128,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Former Nvidia lab leader Sanja Fidler launches Veeda AI to tackle world models - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRreGNHRzNvY0NlNVdjdk9fUEtrakxxT3E3WWJPMmxLc2FBeXdpcjdXTElsV3FBX0pBYUpXWHYzYlAzZ3o4WXk2MVZNS2tJQWg2bzBIendlWm9qTldRTzFLaERSZDd5UFUxZmZ6MnV5T0FBaHhYdEpIaU1UN3ZZcTg1RFZFcE5aUDJRaE9LTHRoS3ZPUmJ6RkZmbWxReWNI?oc=5) |
 | 2026-08-19 | Physical AI startup Enigma raises $71M seed to make robots easy to use - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXRaZzc5UlVLblMzeDExb1E2RzU0bmJwd2JVWG9PclZvenRzLWIzZVdUVXhBNVhaLV8yOVdQbkNTQmJIN3JmLVdRaWF4bFUwb1hpVHh5S25HeVNGb0lsdFFHa1dKdGZxUWRqUWQ5b0V6d0FsQU5RWW9nTDllZ2V6MUpZS2lUR1VDOXU1NGo3bjBvYVlHLTlTQWt3ZzF5eGZhNV9aNmJ3?oc=5) |
 | 2026-08-19 | Star researcher Sanja Fidler raises over US$90M for world model startup - The Logic | physical ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTE1LTEJEbDJEZ2pmV1VBeXNVQkVSLWc2c19ldUNzUUt2UzllMlN4R3J6dUNFS0o4ckdzdE1TMXhoZjI4Z0c1cVlNX1hoS3p0WnZsM3JBU1pncEtGamR4dnBUVEc2S3l2NERUb3dYSWp3b0R1dw?oc=5) |
-| 2026-08-19 | AI researcher Sanja Fidler raises US$90-million for robotics startup - The Globe and Mail | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1hiM1VrQ3VmZkp3TWRpaXpqVW93ZW9qN3NRdFJWcEdOZU9jTnFvb25ZY3BoVkhIMVo3NjZXYkxEbnlHU0stS1lsM042aWhvR0JNR0Z4RDV5c1hJWnprNmhzalRSUEdJSG5xdmtQWV9TcU5DV3ZHeXdoWkVuc01hMFA0d0ZZaW5EeVFFdlJ1OWd2UUlsNkt4RHVrdmxJYjJzelVjTE05eGtxV0RQcmpmdzdtX1NqZw?oc=5) |
+| 2026-08-19 | Unitree Robotics to debut after US$904 million Shanghai IPO, rides embodied AI wave - The Business Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkpxSGVfMDlFYmtFTmJ3N0R5NVU0dnJZTTZRM2V6a0pWSmlxMEU4TDh3WW5yRHhuMFhfN3VTYkVfWUpwVENGcEFhdFhLRjM0SjRFYnJ6a2JRZGlsOHFma011bzhYY09uWGJTdXRoaXoxRE1Bc0dJeTB1ZnRvRTF1T1hzeWRzYy03dzNrWTVrcU5aRzA0eVdNRzFGS2Q2Xzd6WktxNXB2Um5LNFdvcEFBdEVlVWFLSmJZNF9HQUZ6TzBRYUNmbnZZNQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
