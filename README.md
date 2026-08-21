@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-21 18:17 UTC
+Last Updated: 2026-08-21 19:17 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-21 | PVC Pipe Turned DIY Digital Telescope | Hackaday | [link](https://hackaday.com/2026/08/21/pvc-pipe-turned-diy-digital-telescope/) |
 | 2026-08-21 | Hackaday Podcast Episode 383: QR Codes, Caving Gear, and the Old School Way to Learn Electronics | Hackaday | [link](https://hackaday.com/2026/08/21/hackaday-podcast-episode-383-qr-codes-caving-gear-and-the-old-school-way-to-learn-electronics/) |
 | 2026-08-21 | Building a Discrete Component 75 Baud Modem | Hackaday | [link](https://hackaday.com/2026/08/21/building-a-discrete-component-75-baud-modem/) |
 | 2026-08-21 | This Week in Security: Apple Warns Users, Stripe Merchants Leak Keys, Copilot Helps Hack Itself, and Comcast Senses Movement | Hackaday | [link](https://hackaday.com/2026/08/21/this-week-in-security-apple-warns-users-stripe-merchants-leak-keys-copilot-helps-hack-itself-and-comcast-senses-movement/) |
 | 2026-08-21 | Spoofed Serial Number Unlocks Cricut Machine | Hackaday | [link](https://hackaday.com/2026/08/21/spoofed-serial-number-unlocks-cricut-machine/) |
 | 2026-08-21 | Self-Hosting Offline Websites | Hackaday | [link](https://hackaday.com/2026/08/21/self-hosting-offline-websites/) |
 | 2026-08-21 | Running Zork On The Steam Controller | Hackaday | [link](https://hackaday.com/2026/08/20/running-zork-on-the-steam-controller/) |
-| 2026-08-21 | Superconducting Temperature Record set at Ambient Pressure | Hackaday | [link](https://hackaday.com/2026/08/20/superconducting-temperature-record-set-at-ambient-pressure/) |
 | 2026-08-21 | AAEON uCOM-Q6490 – A SMARC 2.1-compliant SoM powered by Qualcomm Dragonwing QCS6490 SoC | CNX Software | [link](https://www.cnx-software.com/2026/08/21/aaeon-ucom-q6490-a-smarc-2-1-qualcomm-dragonwing-qcs6490-som/) |
 | 2026-08-21 | M5Stack Paper Mono – An ESP32-S3 e-paper development board with 3.97-inch touchscreen, LoRa, and NFC | CNX Software | [link](https://www.cnx-software.com/2026/08/21/m5stack-paper-mono-an-esp32-s3-e-paper-development-board-with-3-97-inch-touchscreen-lora-and-nfc/) |
 | 2026-08-21 | NXP MCX C15 and C16 low-cost Cortex-M23 MCUs target IoT, analog, and motor control applications | CNX Software | [link](https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/) |
@@ -77,16 +77,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-21 | SEMVISSER/paper_022175325_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/SEMVISSER/paper_022175325_robotics_vision_language) |
+| 2026-08-21 | ziyin123/robotwin2_310k | 0 | 0 | [link](https://huggingface.co/ziyin123/robotwin2_310k) |
+| 2026-08-21 | ziyin123/robotwin2_300k | 0 | 0 | [link](https://huggingface.co/ziyin123/robotwin2_300k) |
+| 2026-08-21 | szwagner/paper_022216806_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/szwagner/paper_022216806_robotics_vision_language) |
 | 2026-08-21 | Rachelwhitenah/paper_022398354_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/Rachelwhitenah/paper_022398354_robotics_vision_language) |
 | 2026-08-21 | andrewhernandez/paper_022139643_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/andrewhernandez/paper_022139643_robotics_vision_language) |
 | 2026-08-21 | HarshDefy/paper_021511188_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/HarshDefy/paper_021511188_robotics_vision_language) |
 | 2026-08-21 | ryanyamasita/paper_022391343_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/ryanyamasita/paper_022391343_robotics_vision_language) |
 | 2026-08-21 | jennifercook/paper_021891815_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/jennifercook/paper_021891815_robotics_vision_language) |
 | 2026-08-21 | oliveiraberg/paper_022120861_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/oliveiraberg/paper_022120861_robotics_vision_language) |
-| 2026-08-21 | ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024-trt | 0 | 0 | [link](https://huggingface.co/ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024-trt) |
-| 2026-08-21 | ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024 | 0 | 0 | [link](https://huggingface.co/ElysiumX-Robotics/segformer-b5-finetuned-cityscapes-1024-1024) |
-| 2026-08-21 | Roy229/ml-robotics-prime-aurelia | 0 | 0 | [link](https://huggingface.co/Roy229/ml-robotics-prime-aurelia) |
-| 2026-08-21 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -96,7 +96,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63466 | Python | 25386.5 | [link](https://github.com/commaai/openpilot) |
 | google-deepmind/mujoco | 14625 | C++ | 5850.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13750 | Python | 5500.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13751 | Python | 5500.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11334 | Rust | 4533.7 | [link](https://github.com/rerun-io/rerun) |
 | kornia/kornia | 11321 | Python | 4528.5 | [link](https://github.com/kornia/kornia) |
 | dora-rs/dora | 3891 | Rust | 1556.5 | [link](https://github.com/dora-rs/dora) |
@@ -128,7 +128,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Former Nvidia lab leader Sanja Fidler launches Veeda AI to tackle world models - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRreGNHRzNvY0NlNVdjdk9fUEtrakxxT3E3WWJPMmxLc2FBeXdpcjdXTElsV3FBX0pBYUpXWHYzYlAzZ3o4WXk2MVZNS2tJQWg2bzBIendlWm9qTldRTzFLaERSZDd5UFUxZmZ6MnV5T0FBaHhYdEpIaU1UN3ZZcTg1RFZFcE5aUDJRaE9LTHRoS3ZPUmJ6RkZmbWxReWNI?oc=5) |
 | 2026-08-19 | Physical AI startup Enigma raises $71M seed to make robots easy to use - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXRaZzc5UlVLblMzeDExb1E2RzU0bmJwd2JVWG9PclZvenRzLWIzZVdUVXhBNVhaLV8yOVdQbkNTQmJIN3JmLVdRaWF4bFUwb1hpVHh5S25HeVNGb0lsdFFHa1dKdGZxUWRqUWQ5b0V6d0FsQU5RWW9nTDllZ2V6MUpZS2lUR1VDOXU1NGo3bjBvYVlHLTlTQWt3ZzF5eGZhNV9aNmJ3?oc=5) |
 | 2026-08-19 | Star researcher Sanja Fidler raises over US$90M for world model startup - The Logic | physical ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTE1LTEJEbDJEZ2pmV1VBeXNVQkVSLWc2c19ldUNzUUt2UzllMlN4R3J6dUNFS0o4ckdzdE1TMXhoZjI4Z0c1cVlNX1hoS3p0WnZsM3JBU1pncEtGamR4dnBUVEc2S3l2NERUb3dYSWp3b0R1dw?oc=5) |
-| 2026-08-19 | Unitree Robotics to debut after US$904 million Shanghai IPO, rides embodied AI wave - The Business Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkpxSGVfMDlFYmtFTmJ3N0R5NVU0dnJZTTZRM2V6a0pWSmlxMEU4TDh3WW5yRHhuMFhfN3VTYkVfWUpwVENGcEFhdFhLRjM0SjRFYnJ6a2JRZGlsOHFma011bzhYY09uWGJTdXRoaXoxRE1Bc0dJeTB1ZnRvRTF1T1hzeWRzYy03dzNrWTVrcU5aRzA0eVdNRzFGS2Q2Xzd6WktxNXB2Um5LNFdvcEFBdEVlVWFLSmJZNF9HQUZ6TzBRYUNmbnZZNQ?oc=5) |
+| 2026-08-19 | AI researcher Sanja Fidler raises US$90-million for robotics startup - The Globe and Mail | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1hiM1VrQ3VmZkp3TWRpaXpqVW93ZW9qN3NRdFJWcEdOZU9jTnFvb25ZY3BoVkhIMVo3NjZXYkxEbnlHU0stS1lsM042aWhvR0JNR0Z4RDV5c1hJWnprNmhzalRSUEdJSG5xdmtQWV9TcU5DV3ZHeXdoWkVuc01hMFA0d0ZZaW5EeVFFdlJ1OWd2UUlsNkt4RHVrdmxJYjJzelVjTE05eGtxV0RQcmpmdzdtX1NqZw?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

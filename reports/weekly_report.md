@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-21 18:17 UTC
+Generated: 2026-08-21 19:17 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,7 +15,7 @@ Generated: 2026-08-21 18:17 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | commaai/openpilot | 63466 | 25386.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44387 | 17754.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44390 | 17756.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30342 | 12136.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16149 | 6459.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15721 | 6288.5 | [link](https://github.com/ArduPilot/ardupilot) |
@@ -25,9 +25,9 @@ Generated: 2026-08-21 18:17 UTC
 | --- | --- | --- | --- |
 | physicalai-bmi/efa-1 | 236 | 70.9 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
 | physicalairi/so101_1200ep_smolvla | 87 | 26.2 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
-| puppet-robotics/golf-model-mcap-test | 41 | 12.4 | [link](https://huggingface.co/puppet-robotics/golf-model-mcap-test) |
 | physicalairi/so101_1200ep_pi05 | 41 | 12.4 | [link](https://huggingface.co/physicalairi/so101_1200ep_pi05) |
 | Idan/fga-navigation | 41 | 12.4 | [link](https://huggingface.co/Idan/fga-navigation) |
+| XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W8A16 | 35 | 10.6 | [link](https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W8A16) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
