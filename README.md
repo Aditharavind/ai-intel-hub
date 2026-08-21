@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-21 06:21 UTC
+Last Updated: 2026-08-21 07:32 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -80,27 +80,27 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-21 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-08-21 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-21 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
+| 2026-08-21 | vladmandic/sdnext-upscalers | 0 | 5 | [link](https://huggingface.co/vladmandic/sdnext-upscalers) |
+| 2026-08-21 | vlabki/daisy-circuit-shadow-v1 | 0 | 0 | [link](https://huggingface.co/vlabki/daisy-circuit-shadow-v1) |
 | 2026-08-21 | kesnick/vlm-vla-test | 0 | 0 | [link](https://huggingface.co/kesnick/vlm-vla-test) |
 | 2026-08-21 | MotionforgeGroup/X-VLA-FC-80000 | 0 | 0 | [link](https://huggingface.co/MotionforgeGroup/X-VLA-FC-80000) |
 | 2026-08-21 | kemjensak/unlv_vla_policy | 0 | 0 | [link](https://huggingface.co/kemjensak/unlv_vla_policy) |
-| 2026-08-21 | HayatoNakamura/act-policy-test | 0 | 0 | [link](https://huggingface.co/HayatoNakamura/act-policy-test) |
-| 2026-08-21 | jayp132/beanbag-green-red-policy-experiment | 0 | 0 | [link](https://huggingface.co/jayp132/beanbag-green-red-policy-experiment) |
-| 2026-08-21 | XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W8A16 | 31 | 0 | [link](https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W8A16) |
-| 2026-08-21 | XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16 | 22 | 1 | [link](https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16) |
+| 2026-08-21 | yhyhyhyh1/act_stage0_v2_policy | 0 | 0 | [link](https://huggingface.co/yhyhyhyh1/act_stage0_v2_policy) |
+| 2026-08-21 | Tron-Hayato/act-policy-test | 0 | 0 | [link](https://huggingface.co/Tron-Hayato/act-policy-test) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| earthtojake/text-to-cad | 13735 | Python | 5494.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| dora-rs/dora | 3888 | Rust | 1555.3 | [link](https://github.com/dora-rs/dora) |
+| google-deepmind/mujoco | 14620 | C++ | 5848.1 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13737 | Python | 5494.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| dora-rs/dora | 3889 | Rust | 1555.7 | [link](https://github.com/dora-rs/dora) |
 | leofan90/Awesome-World-Models | 1971 | Python | 788.5 | [link](https://github.com/leofan90/Awesome-World-Models) |
 | sou350121/VLA-Handbook | 527 | HTML | 210.9 | [link](https://github.com/sou350121/VLA-Handbook) |
 | worldbench/awesome-vla-for-ad | 464 | HTML | 185.7 | [link](https://github.com/worldbench/awesome-vla-for-ad) |
-| vllm-project/vllm-omni | 6207 | Python | 2482.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| luohongk/Embodied-AI-Daily | 430 | HTML | 172.1 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
+| vllm-project/vllm-omni | 6211 | Python | 2484.5 | [link](https://github.com/vllm-project/vllm-omni) |
 | NucleoidAI/Nucleoid | 767 | Rust | 306.9 | [link](https://github.com/NucleoidAI/Nucleoid) |
 | ROBOTIS-GIT/ai_worker | 179 | Python | 71.7 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| isaac-sim/IsaacLab | 7927 | Python | 3170.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| DexForce/EmbodiChain | 210 | Python | 84.1 | [link](https://github.com/DexForce/EmbodiChain) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,7 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-21 | Chinese visa impact hits Indian physical AI startups - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWtCajM1Y1N2TEJuRl8wX1kwcEtQb0RxQUV2SWJvOEtjaWpEWi1zcTYzazI2bUJhTEw4MTFZeU9mcFdVeWRld3o5Ry1EZExpbmg4aXVkOXY2dkUtb2dQREptZjVyNW1zUk5sVlozNWVzTVhJRktrTnU3RUJkRUQ1ZUlBUHRnbGRmUzNNREFNdGcyUmVaaVRnNGFOMVNvQmYtYkZsbTlfWDhITGIwSlU4U19mam5RemJtaE4xYXZXUDFjOTBwcG9yVkFXT21WdERo0gHWAUFVX3lxTE5ETlhmVW92dUZGR21ZX0RDX0s0MXE2YWYxMzZMZGRaVkZmTlg4MUhkOFJBdFRaUUJpWXZMZS1sTndPZ0VPRUFRamVaT0hTTndHNWhTSlhoVUFJVDRTdUxEMzBJT2wtM21GUktmRnlqQVR5SndydFpVUUU3TG0zeUFTVW5GR3F4U3JoRkFRemhGNFBRRWdqZVpWWjFHaGZ5alpESHBoM0dWSWpKYUFHR1RveWl4a0g4S1VUOEx5ampyTDM0eHVsSU8wTW80MkxxSnBTS3p1Q1E?oc=5) |
+| 2026-08-21 | Chinese visa impact hits Indian physical AI startups - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugJBVV95cUxNRW5UOEJha2x4ZGtaZXR3STlvWVBnSEFEaWQzRC0xQ1UteTIwcXVaOUlibmE0OW9qSXhNUU1TSzc0bnk5eTQzWW00cmdCMTFRT3NvM0dKVE5YMExEZmRrWFhGaktqQjVUMll1TWZsMVU3dnlqbFpsTW5CUUdaMDROTlFlaUNibHNUNEpvc3lXSEdDTkNvaGJITWVQV0p3QzFkREJ6QnJ3X2xZWmxKSWVFS0RyUkhmeTRtYnh0UV9TazhJSFh2U2tNdW9uTldPZjlEX2tmOU4yblZ3STE1UEJOTXQ4TEpuTjRvUVFNWkNpVHVfNWdOcWtYUlhhZUc1SW56LW5UOEhjQ3podE9lcGRWc3doMUdCN3BqeWVCUUhTQm9fRG1xenNBanNUXzRzVVB6N1ducEFiLW9OZ9IB1gFBVV95cUxORE5YZlVvdnVGRkdtWV9EQ19LNDFxNmFmMTM2TGRkWlZGZk5YODFIZDhSQXRUWlFCaVl2TGUtbE53T2dFT0VBUWplWk9IU053RzVoU0pYaFVBSVQ0U3VMRDMwSU9sLTNtRlJLZkZ5akFUeUp3cnRaVVFFN0xtM3lBU1VuRkdxeFNyaEZBUXpoRjRQUUVnamVaVloxR2hmeWpaREhwaDNHVklqSmFBR0dUb3lpeGtIOEtVVDhMeWpqckwzNHh1bElPME1vNDJMcUpwU0t6dUNR?oc=5) |
 | 2026-08-20 | Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUpET2g2MTNFVnVnRVY3U2hob2UwcnpTYnhOQVJ2RDdFQW4zTHI2LThnelJwZV9CTUh6U1J0WlJOdkRGVnM1MVVQQ1hST281VHdXWV9BekdXQ2lFdWwycGQta1N1X3RTS25YNnh3em9RT0ZZVE14TUJTOUZjRHNzM0tlU2lya0F0VHFLdDcwTG9LaUtvZFVyaXEzaHZySGRqb19EbldTNVpGQQ?oc=5) |
 | 2026-08-20 | Humanoid robot crashes after Beijing sprint - The American Bazaar | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGkxUUNMWFNmOUVybkkzVzJMd3hZcGszYTVhWTdrNlY2VU10b01KdlJMSmlzajkzZFBCSWpGY0Y1U3J2a1B6Y0ZuVDdCN0JCekE1U2lRQ1RZUTc4dUpVVVZoa1JZeF9nZGNRdXp4d0tBLTFyTXY1d3ZNWHUtcHpzbEN1S29hUEEzNUlLX0t6UjYwUQ?oc=5) |
 | 2026-08-20 | Chinese humanoids take center stage at World Robot Conference - Daily Sabah | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODFWS015SEdsUVZ1azNZYzhpWEltUmVxMUhUbWZzUlQ2UVh4WWdmLV9FbTlLcVlxUEgzcHE2OWZiazlIWVVSRU5UUTlEQVJMd2VJak43TzVtVWVwWHlBaUVwaGIxQjZPclZ0OWdUQVVWYklvclRKbVdwTXR2QllWd0Y4amtvVERQTU9NTThRUlNiUEgzU1NoMXFuTUw3OC1fNW9rRE5TY3UzQQ?oc=5) |
