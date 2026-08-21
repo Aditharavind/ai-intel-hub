@@ -1,5 +1,14 @@
 [
   {
+    "model": "fanzh03/robotwin_fewshot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/fanzh03/robotwin_fewshot",
+    "date": "2026-08-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "B111ue/fcl-vla-functional-support-canary",
     "downloads": 0,
     "likes": 0,
@@ -13,6 +22,105 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/kemjensak/unlv_vla_policy",
+    "date": "2026-08-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W8A16",
+    "downloads": 31,
+    "likes": 0,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W8A16",
+    "date": "2026-08-21",
+    "keyword": "policy",
+    "score": 9.4
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16",
+    "downloads": 22,
+    "likes": 1,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16",
+    "date": "2026-08-21",
+    "keyword": "policy",
+    "score": 6.9
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-AttnW8",
+    "downloads": 21,
+    "likes": 0,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-AttnW8",
+    "date": "2026-08-21",
+    "keyword": "policy",
+    "score": 6.4
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-GenW8",
+    "downloads": 22,
+    "likes": 0,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-Marlin-W4A16-GenW8",
+    "date": "2026-08-21",
+    "keyword": "policy",
+    "score": 6.7
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16",
+    "downloads": 44,
+    "likes": 0,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16",
+    "date": "2026-08-21",
+    "keyword": "policy",
+    "score": 13.3
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W8A16",
+    "downloads": 50,
+    "likes": 1,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W8A16",
+    "date": "2026-08-21",
+    "keyword": "policy",
+    "score": 15.3
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16-AttnW8",
+    "downloads": 38,
+    "likes": 0,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16-AttnW8",
+    "date": "2026-08-21",
+    "keyword": "policy",
+    "score": 11.5
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16-GenW8",
+    "downloads": 35,
+    "likes": 0,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Edge-Policy-DROID-Marlin-W4A16-GenW8",
+    "date": "2026-08-21",
+    "keyword": "policy",
+    "score": 10.6
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Nano-Policy-DROID-GenW8A8",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-GenW8A8",
+    "date": "2026-08-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "XXXXyu/Cosmos3-Edge-Policy-DROID-GenW8A8",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/XXXXyu/Cosmos3-Edge-Policy-DROID-GenW8A8",
+    "date": "2026-08-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "yhyhyhyh1/act_stage0_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yhyhyhyh1/act_stage0_policy",
     "date": "2026-08-21",
     "keyword": "policy",
     "score": 0.1
@@ -85,15 +193,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/flex-pi/flexpi-robotwin",
-    "date": "2026-08-20",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "fanzh03/robotwin_fewshot",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/fanzh03/robotwin_fewshot",
     "date": "2026-08-20",
     "keyword": "robot",
     "score": 0.1
@@ -267,105 +366,6 @@
     "url": "https://huggingface.co/allen73/lunarlander-v3-dqn-physical-ai",
     "date": "2026-08-20",
     "keyword": "physical ai",
-    "score": 0.1
-  },
-  {
-    "model": "policyengine/policyengine-uk-data-private",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/policyengine/policyengine-uk-data-private",
-    "date": "2026-08-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "trivien/act_so101_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/trivien/act_so101_policy",
-    "date": "2026-08-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jayp132/beanbag-green-policy-combined-final",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jayp132/beanbag-green-policy-combined-final",
-    "date": "2026-08-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Chaenn/smolvla_policy_so101_cube_multitask_real_0820",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Chaenn/smolvla_policy_so101_cube_multitask_real_0820",
-    "date": "2026-08-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Chaenn/smolvla_policy_so101_cube_multitask_sim_0820",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Chaenn/smolvla_policy_so101_cube_multitask_sim_0820",
-    "date": "2026-08-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Chaenn/smolvla_policy_so101_cube_multitask_simreal_0820",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Chaenn/smolvla_policy_so101_cube_multitask_simreal_0820",
-    "date": "2026-08-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Revolabs/cortex_agv_noyolo_test_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Revolabs/cortex_agv_noyolo_test_policy",
-    "date": "2026-08-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "XXXXyu/Cosmos3-Nano-Policy-DROID-GenW8A8",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/XXXXyu/Cosmos3-Nano-Policy-DROID-GenW8A8",
-    "date": "2026-08-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "XXXXyu/Cosmos3-Edge-Policy-DROID-GenW8A8",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/XXXXyu/Cosmos3-Edge-Policy-DROID-GenW8A8",
-    "date": "2026-08-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jaeikkim/fr3-cube-full10k-diffusion-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jaeikkim/fr3-cube-full10k-diffusion-policy",
-    "date": "2026-08-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "TerryPei/gap-graph-as-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/TerryPei/gap-graph-as-policy",
-    "date": "2026-08-20",
-    "keyword": "policy",
     "score": 0.1
   },
   {
