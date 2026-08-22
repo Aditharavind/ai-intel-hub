@@ -1,5 +1,85 @@
 [
   {
+    "repo": "commaai/openpilot",
+    "stars": 63467,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-08-22",
+    "topic": "robotics",
+    "score": 25386.9
+  },
+  {
+    "repo": "google-deepmind/mujoco",
+    "stars": 14625,
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "date": "2026-08-22",
+    "topic": "robotics",
+    "score": 5850.1
+  },
+  {
+    "repo": "sou350121/VLA-Handbook",
+    "stars": 530,
+    "language": "HTML",
+    "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
+    "url": "https://github.com/sou350121/VLA-Handbook",
+    "date": "2026-08-22",
+    "topic": "robot-learning",
+    "score": 212.1
+  },
+  {
+    "repo": "vllm-project/vllm-omni",
+    "stars": 6227,
+    "language": "Python",
+    "description": "A framework for efficient model inference with omni-modality models",
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "date": "2026-08-22",
+    "topic": "world-model",
+    "score": 2490.9
+  },
+  {
+    "repo": "zli12321/Vision-Language-Models-Overview",
+    "stars": 698,
+    "language": "HTML",
+    "description": "A most Frontend Collection and survey of vision-language model papers, and models GitHub repository. Continuous updates.",
+    "url": "https://github.com/zli12321/Vision-Language-Models-Overview",
+    "date": "2026-08-22",
+    "topic": "world-model",
+    "score": 279.3
+  },
+  {
+    "repo": "OpenHUTB/hutb",
+    "stars": 546,
+    "language": "C++",
+    "description": "人车模拟器（Human-vehicle Simulator）",
+    "url": "https://github.com/OpenHUTB/hutb",
+    "date": "2026-08-22",
+    "topic": "humanoid",
+    "score": 218.5
+  },
+  {
+    "repo": "softmata/horus",
+    "stars": 420,
+    "language": "Rust",
+    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
+    "url": "https://github.com/softmata/horus",
+    "date": "2026-08-22",
+    "topic": "humanoid",
+    "score": 168.1
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7931,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-08-22",
+    "topic": "robot-learning",
+    "score": 3172.5
+  },
+  {
     "repo": "NVIDIA/skills",
     "stars": 3054,
     "language": "Python",
@@ -40,16 +120,6 @@
     "score": 188.1
   },
   {
-    "repo": "commaai/openpilot",
-    "stars": 63467,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-08-21",
-    "topic": "robotics",
-    "score": 25386.9
-  },
-  {
     "repo": "ArduPilot/ardupilot",
     "stars": 15721,
     "language": "C++",
@@ -60,24 +130,14 @@
     "score": 6288.5
   },
   {
-    "repo": "google-deepmind/mujoco",
-    "stars": 14625,
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "url": "https://github.com/google-deepmind/mujoco",
-    "date": "2026-08-21",
-    "topic": "robotics",
-    "score": 5850.1
-  },
-  {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13754,
+    "stars": 13757,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-21",
     "topic": "robotics",
-    "score": 5501.7
+    "score": 5502.9
   },
   {
     "repo": "rerun-io/rerun",
@@ -111,13 +171,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3297,
+    "stars": 3299,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-21",
     "topic": "embodied-ai",
-    "score": 1318.9
+    "score": 1319.7
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -128,16 +188,6 @@
     "date": "2026-08-21",
     "topic": "world-model",
     "score": 789.3
-  },
-  {
-    "repo": "sou350121/VLA-Handbook",
-    "stars": 530,
-    "language": "HTML",
-    "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
-    "url": "https://github.com/sou350121/VLA-Handbook",
-    "date": "2026-08-21",
-    "topic": "robot-learning",
-    "score": 212.1
   },
   {
     "repo": "worldbench/awesome-vla-for-ad",
@@ -161,23 +211,13 @@
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 391,
+    "stars": 392,
     "language": "",
     "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
     "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
     "date": "2026-08-21",
     "topic": "robot-learning",
-    "score": 156.5
-  },
-  {
-    "repo": "vllm-project/vllm-omni",
-    "stars": 6226,
-    "language": "Python",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "url": "https://github.com/vllm-project/vllm-omni",
-    "date": "2026-08-21",
-    "topic": "world-model",
-    "score": 2490.5
+    "score": 156.9
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -188,26 +228,6 @@
     "date": "2026-08-21",
     "topic": "world-model",
     "score": 306.9
-  },
-  {
-    "repo": "OpenHUTB/hutb",
-    "stars": 546,
-    "language": "C++",
-    "description": "人车模拟器（Human-vehicle Simulator）",
-    "url": "https://github.com/OpenHUTB/hutb",
-    "date": "2026-08-21",
-    "topic": "humanoid",
-    "score": 218.5
-  },
-  {
-    "repo": "softmata/horus",
-    "stars": 420,
-    "language": "Rust",
-    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
-    "url": "https://github.com/softmata/horus",
-    "date": "2026-08-21",
-    "topic": "humanoid",
-    "score": 168.1
   },
   {
     "repo": "ROBOTIS-GIT/ai_worker",
@@ -228,16 +248,6 @@
     "date": "2026-08-21",
     "topic": "humanoid",
     "score": 43.7
-  },
-  {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7931,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-08-21",
-    "topic": "robot-learning",
-    "score": 3172.5
   },
   {
     "repo": "robocasa/robocasa",
@@ -281,13 +291,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2263,
+    "stars": 2264,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-20",
     "topic": "robot-learning",
-    "score": 905.3
+    "score": 905.7
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -431,23 +441,23 @@
   },
   {
     "repo": "MirroS-Lab/HarnessEval-W",
-    "stars": 241,
+    "stars": 242,
     "language": "Python",
     "description": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
     "url": "https://github.com/MirroS-Lab/HarnessEval-W",
     "date": "2026-08-18",
     "topic": "world-model",
-    "score": 96.5
+    "score": 96.9
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30343,
+    "stars": 30344,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-08-17",
     "topic": "robotics",
-    "score": 12137.3
+    "score": 12137.7
   },
   {
     "repo": "DLR-RM/stable-baselines3",
@@ -591,13 +601,13 @@
   },
   {
     "repo": "vikashplus/robohive",
-    "stars": 630,
+    "stars": 631,
     "language": "Python",
     "description": "A unified framework for robot learning",
     "url": "https://github.com/vikashplus/robohive",
     "date": "2026-08-14",
     "topic": "robot-learning",
-    "score": 252.1
+    "score": 252.5
   },
   {
     "repo": "nasa-jpl/open-source-rover",
@@ -628,16 +638,6 @@
     "date": "2026-08-12",
     "topic": "physical-ai",
     "score": 228.9
-  },
-  {
-    "repo": "zli12321/Vision-Language-Models-Overview",
-    "stars": 698,
-    "language": "HTML",
-    "description": "A most Frontend Collection and survey of vision-language model papers, and models GitHub repository. Continuous updates.",
-    "url": "https://github.com/zli12321/Vision-Language-Models-Overview",
-    "date": "2026-08-11",
-    "topic": "world-model",
-    "score": 279.3
   },
   {
     "repo": "PathOn-AI/PathOnRoboticsOSS",
