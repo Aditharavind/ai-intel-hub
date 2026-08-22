@@ -1,10 +1,24 @@
 [
   {
+    "title": "Hacking A Cat Litter Box",
+    "source": "Hackaday",
+    "date": "2026-08-22",
+    "url": "https://hackaday.com/2026/08/21/hacking-a-cat-litter-box/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/I-Hacked-My-Cats-Litter-Box-0-3-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Joseph DiGiovanni] is the owner of a Litter Robot 4. It&#8217;s a convenient mechanized litter box for cats that can clean itself to reduce unwelcome odors inside the home. He <a class=\"read-more\" href=\"https://hackaday.com/2026/08/21/hacking-a-cat-litter-box/\">&#8230;read more</a>"
+  },
+  {
     "title": "How the Grid’s Harmonic Filters Keep the Power Clean",
     "source": "Hackaday",
     "date": "2026-08-22",
     "url": "https://hackaday.com/2026/08/21/how-the-grids-harmonic-filters-keep-the-power-clean/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"490\" src=\"https://hackaday.com/wp-content/uploads/2026/08/hvdc_converter_station_the_electric_brit_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>A fun way to think about a national electrical grid is as a massively upscaled electrical circuit, one in which you have multiple power supplies injecting AC power, with various <a class=\"read-more\" href=\"https://hackaday.com/2026/08/21/how-the-grids-harmonic-filters-keep-the-power-clean/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor",
+    "source": "CNX Software",
+    "date": "2026-08-22",
+    "url": "https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/",
+    "summary": "<div><img alt=\"ESP32-S31 Linux\" class=\"attachment-medium size-medium wp-post-image\" height=\"432\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/ESP32-S31-Linux-720x432.png\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The ESP32-S31 microprocessor is getting Linux support from Espressif Systems. The ESP32-S31 dual-core RISC-V microprocessor was first unveiled in March, two ESP32-S31 development boards followed in May, and mass production was announced a few weeks ago. The new RISC-V chip features an MMU (Memory Management Unit), which makes Linux much easier to handle, and the development boards also come with 16MB PSRAM, so a minimal Linux image is possible. Moving from theory to practice, Espressif Systems has now released a developer preview version of the ESP Linux BSP for ESP32-S31, and some community Linux ports are also in the works (more on that at the end of the article). Let&#8217;s focus on the official ESP Linux BSP. The aforementioned repo only contains the image layout and packaging tools used by the ESP32-S31 Buildroot integration, and the core of the project can be found in the esp-buildroot-external repo with ESP32-S31 NOR boot [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/\">Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Building a Hammond Organ to Understand How They Work",
@@ -40,13 +54,6 @@
     "date": "2026-08-21",
     "url": "https://hackaday.com/2026/08/21/building-a-discrete-component-75-baud-modem/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/75-baud-discrete-components-modem-extension-for-the-CB2-micro-3-29-screenshot-2.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>These days, modems are pretty fancy bits of kit, what with to keep up with the speeds of cable, VDSL, and fiber connections. At lower speeds, though, it&#8217;s entirely possible <a class=\"read-more\" href=\"https://hackaday.com/2026/08/21/building-a-discrete-component-75-baud-modem/\">&#8230;read more</a>"
-  },
-  {
-    "title": "This Week in Security: Apple Warns Users, Stripe Merchants Leak Keys, Copilot Helps Hack Itself, and Comcast Senses Movement",
-    "source": "Hackaday",
-    "date": "2026-08-21",
-    "url": "https://hackaday.com/2026/08/21/this-week-in-security-apple-warns-users-stripe-merchants-leak-keys-copilot-helps-hack-itself-and-comcast-senses-movement/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Apple has started sending some users push notifications warning that they have been targeted with specific malware. No specific information about the threat Apple detected is available. While multiple iOS <a class=\"read-more\" href=\"https://hackaday.com/2026/08/21/this-week-in-security-apple-warns-users-stripe-merchants-leak-keys-copilot-helps-hack-itself-and-comcast-senses-movement/\">&#8230;read more</a>"
   },
   {
     "title": "AAEON uCOM-Q6490 – A SMARC 2.1-compliant SoM powered by Qualcomm Dragonwing QCS6490 SoC",
@@ -369,13 +376,6 @@
     "date": "2026-08-19",
     "url": "https://www.cnx-software.com/2026/08/19/raspberry-pi-compute-module-5-gets-an-official-programming-jig/",
     "summary": "<div><img alt=\"Raspberry Pi Compute Module 5 Programming Jig\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Raspberry-Pi-Compute-Module-5-Programming-Jig-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The Raspberry Pi Compute Module 5 Programming Jig is a single-head provisioning system designed to easily flash an OS to the Raspberry Pi CM5 without a carrier board. The jig connects to the provisioning network via Ethernet or Wi-Fi and also features a second Ethernet port for the Compute Module. The CM5 is kept in place by a mechanical clamping mechanism, and the jig relies on pogo pins to interface with the Compute Module. Specifications: Features Provisioning head Pogo pin interface Mechanical clamping mechanism Compatible with Raspberry Pi Compute Module 5 Connectivity JIG ETH &#8211; Gigabit Ethernet RJ45 jack for connecting the jig to the network; note DUT ETH &#8211; Gigabit Ethernet RJ45 jack for connecting the CM5 to the network WiFi with external antenna, as an alternative to JIG ETH USB-C boot connector to connect to the host Misc &#8211; LED status indicators Power &#8211; 12V/2A (24W) DC via power [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/19/raspberry-pi-compute-module-5-gets-an-official-programming-jig/\">Raspberry Pi Compute Module 5 gets an official programming jig</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "NXP MCX A5 Cortex-M33 MCU family supports 10BASE-T1S Single Pair Ethernet and Post-Quantum Cryptography",
-    "source": "CNX Software",
-    "date": "2026-08-19",
-    "url": "https://www.cnx-software.com/2026/08/19/nxp-mcx-a5-cortex-m33-mcu-family-supports-10base-t1s-single-pair-ethernet-and-post-quantum-cryptography/",
-    "summary": "<div><img alt=\"NXP MCX A5 Series Cortex M33 MCUs\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/NXP-MCX-A5-Series-Cortex-M33-MCUs-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>NXP has introduced the MCX A5 family of Cortex-M33 MCUs, which features a 10/100Mbps Ethernet MAC and an integrated 10BASE-T1S Single Pair Ethernet digital PHY. It targets industrial and networking applications such as controllers, PLCs, remote I/O, building and energy management systems, and other connected edge devices. The MCUs run at up to 240 MHz and feature up to 2 MB dual-bank Flash and 640 KB SRAM, along with multiple communication interfaces and analog peripherals. Security features include an EdgeLock accelerator, secure boot with PQC hybrid support, secure firmware updates, lifecycle management, secure debug, external Flash encryption, and anti-tamper monitoring. NXP MCX A5 Series (MCXA577) specifications: MCU Core Arm Cortex-M33 core clocked at up to 240 MHz Includes FPU, DSP, MPU, and TrustZone support Integrated SmartDMA co-processor for efficient data handling Delivers 988.8 CoreMark (4.12 CoreMark/MHz) Memory and Storage Up to 2 MB dual-bank Flash with ECC and read-while-write support [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/19/nxp-mcx-a5-cortex-m33-mcu-family-supports-10base-t1s-single-pair-ethernet-and-post-quantum-cryptography/\">NXP MCX A5 Cortex-M33 MCU family supports 10BASE-T1S Single Pair Ethernet and Post-Quantum Cryptography</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Advanced RF Systems Power Next-Gen Mil-Aero Comms",
