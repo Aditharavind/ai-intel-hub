@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-22 03:30 UTC
+Last Updated: 2026-08-22 04:19 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-22 | Aleksanderszyma/paper_022036027_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/Aleksanderszyma/paper_022036027_robotics_vision_language) |
 | 2026-08-22 | Alinealmeidagin/paper_022405165_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/Alinealmeidagin/paper_022405165_robotics_vision_language) |
 | 2026-08-22 | kevinevans/paper_021574478_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/kevinevans/paper_021574478_robotics_vision_language) |
 | 2026-08-22 | sunilchopra/paper_021856383_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/sunilchopra/paper_021856383_robotics_vision_language) |
@@ -86,21 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-22 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp | 38 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-mtp) |
 | 2026-08-22 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp | 28 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ4e-fp16-mtp) |
 | 2026-08-22 | Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp | 16 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp) |
-| 2026-08-22 | jojames92k/paper_021508553_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/jojames92k/paper_021508553_robotics_vision_language) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | commaai/openpilot | 63468 | Python | 25387.3 | [link](https://github.com/commaai/openpilot) |
-| google-deepmind/mujoco | 14625 | C++ | 5850.1 | [link](https://github.com/google-deepmind/mujoco) |
+| ArduPilot/ardupilot | 15722 | C++ | 6288.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14626 | C++ | 5850.5 | [link](https://github.com/google-deepmind/mujoco) |
 | dora-rs/dora | 3891 | Rust | 1556.5 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 530 | HTML | 212.1 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 6227 | Python | 2490.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 6228 | Python | 2491.3 | [link](https://github.com/vllm-project/vllm-omni) |
 | zli12321/Vision-Language-Models-Overview | 698 | HTML | 279.3 | [link](https://github.com/zli12321/Vision-Language-Models-Overview) |
 | OpenHUTB/hutb | 546 | C++ | 218.5 | [link](https://github.com/OpenHUTB/hutb) |
 | softmata/horus | 420 | Rust | 168.1 | [link](https://github.com/softmata/horus) |
 | isaac-sim/IsaacLab | 7931 | Python | 3172.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| NVIDIA/skills | 3054 | Python | 1221.7 | [link](https://github.com/NVIDIA/skills) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
