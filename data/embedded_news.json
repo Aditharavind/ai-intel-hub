@@ -56,6 +56,13 @@
     "summary": "<div><img alt=\"ESP32-S31 Linux\" class=\"attachment-medium size-medium wp-post-image\" height=\"432\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/ESP32-S31-Linux-720x432.png\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The ESP32-S31 microprocessor is getting Linux support from Espressif Systems. The ESP32-S31 dual-core RISC-V microprocessor was first unveiled in March, two ESP32-S31 development boards followed in May, and mass production was announced a few weeks ago. The new RISC-V chip features an MMU (Memory Management Unit), which makes Linux much easier to handle, and the development boards also come with 16MB PSRAM, so a minimal Linux image is possible. Moving from theory to practice, Espressif Systems has now released a developer preview version of the ESP Linux BSP for ESP32-S31, and some community Linux ports are also in the works (more on that at the end of the article). Let&#8217;s focus on the official ESP Linux BSP. The aforementioned repo only contains the image layout and packaging tools used by the ESP32-S31 Buildroot integration, and the core of the project can be found in the esp-buildroot-external repo with ESP32-S31 NOR boot [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/\">Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "The Perfect Cold Water  #piday #raspberrypi",
+    "source": "Adafruit",
+    "date": "2026-08-22",
+    "url": "https://blog.adafruit.com/2026/08/22/the-perfect-cold-water-piday-raspberrypi/",
+    "summary": "ethan1110lin got tired of lukewarm water and designed a device that notifies them when their water reaches the perfect temperature. Check out the project details on instructables. So what can you do? Or, as a matter of fact, what can a Raspberry Pi do? As it turns out, quite a lot. This single-board computer — [&#8230;]"
+  },
+  {
     "title": "The Brooklyn Museum Presents Art of Manga #​ArtOfManga",
     "source": "Adafruit",
     "date": "2026-08-22",
@@ -236,13 +243,6 @@
     "date": "2026-08-21",
     "url": "https://blog.adafruit.com/2026/08/21/more-gta-6-leaks-reveal-new-gameplay-and-the-entire-map/",
     "summary": "Rockstar Games is being held for ransom again after a leaker reveals GTA 6 gameplay and threatens to continue if demands aren&#8217;t met. GTA 6 has leaked yet again, revealing new gameplay and the entire map of Leonida, with the hacker group Cyberleek claiming responsibility for the breach. Insider Gaming also reports that the footage [&#8230;]"
-  },
-  {
-    "title": "Today is CircuitPython Day 2026! Live stream schedule  #CircuitPythonDay2026",
-    "source": "Adafruit",
-    "date": "2026-08-21",
-    "url": "https://blog.adafruit.com/2026/08/21/today-is-circuitpython-day-2026-live-stream-schedule-circuitpythonday2026/",
-    "summary": "Today is the day! Friday, August 21, 2025 is the snakiest day of the year &#8211; CircuitPython Day! Adafruit will have special video shows and more throughout the day. All times US Eastern: Time (Eastern) Presenter Format Title 11:00 AM Noe &#38; Pedro livestream 3D Hangouts Special Edition 1:00 PM Cooper aka relic-se livestream Making [&#8230;]"
   },
   {
     "title": "Aratas America LLC Introduces G3VH Relay",
