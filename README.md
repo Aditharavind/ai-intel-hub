@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-22 13:22 UTC
+Last Updated: 2026-08-22 14:08 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-22 | You Gotta Want It | Hackaday | [link](https://hackaday.com/2026/08/22/you-gotta-want-it/) |
 | 2026-08-22 | Building an Analog Geiger Counter | Hackaday | [link](https://hackaday.com/2026/08/22/building-an-analog-geiger-counter/) |
 | 2026-08-22 | Sleeper E-bike has Solenoid Display | Hackaday | [link](https://hackaday.com/2026/08/22/sleeper-e-bike-has-solenoid-display/) |
 | 2026-08-22 | Hacking A Cat Litter Box | Hackaday | [link](https://hackaday.com/2026/08/21/hacking-a-cat-litter-box/) |
 | 2026-08-22 | How the Grid’s Harmonic Filters Keep the Power Clean | Hackaday | [link](https://hackaday.com/2026/08/21/how-the-grids-harmonic-filters-keep-the-power-clean/) |
 | 2026-08-22 | Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor | CNX Software | [link](https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/) |
+| 2026-08-22 | The Digi-Comp I, a plastic mechanical computer from 1963 | Adafruit | [link](https://blog.adafruit.com/2026/08/22/the-digi-comp-i-a-plastic-mechanical-computer-from-1963/) |
 | 2026-08-21 | Building a Hammond Organ to Understand How They Work | Hackaday | [link](https://hackaday.com/2026/08/21/building-a-hammond-organ-to-understand-how-they-work/) |
 | 2026-08-21 | Thermoacoustic Sterling Engine is Now Fully 3D Printable | Hackaday | [link](https://hackaday.com/2026/08/21/thermoacoustic-sterling-engine-is-now-fully-3d-printable/) |
-| 2026-08-21 | PVC Pipe Turned DIY Digital Telescope | Hackaday | [link](https://hackaday.com/2026/08/21/pvc-pipe-turned-diy-digital-telescope/) |
 | 2026-08-21 | AAEON uCOM-Q6490 – A SMARC 2.1-compliant SoM powered by Qualcomm Dragonwing QCS6490 SoC | CNX Software | [link](https://www.cnx-software.com/2026/08/21/aaeon-ucom-q6490-a-smarc-2-1-qualcomm-dragonwing-qcs6490-som/) |
-| 2026-08-21 | M5Stack Paper Mono – An ESP32-S3 e-paper development board with 3.97-inch touchscreen, LoRa, and NFC | CNX Software | [link](https://www.cnx-software.com/2026/08/21/m5stack-paper-mono-an-esp32-s3-e-paper-development-board-with-3-97-inch-touchscreen-lora-and-nfc/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -95,9 +95,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | ArduPilot/ardupilot | 15724 | C++ | 6289.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14630 | C++ | 5852.1 | [link](https://github.com/google-deepmind/mujoco) |
 | RLinf/RLinf | 4609 | Python | 1843.7 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3892 | Rust | 1556.9 | [link](https://github.com/dora-rs/dora) |
+| dora-rs/dora | 3893 | Rust | 1557.3 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 532 | HTML | 212.9 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 6238 | Python | 2495.3 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 6241 | Python | 2496.5 | [link](https://github.com/vllm-project/vllm-omni) |
 | NucleoidAI/Nucleoid | 767 | Rust | 306.9 | [link](https://github.com/NucleoidAI/Nucleoid) |
 | zli12321/Vision-Language-Models-Overview | 698 | HTML | 279.3 | [link](https://github.com/zli12321/Vision-Language-Models-Overview) |
 | OpenHUTB/hutb | 546 | C++ | 218.5 | [link](https://github.com/OpenHUTB/hutb) |
@@ -120,9 +120,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-22 | An Espoo robotics startup just raised €6.4 million to put “physical AI” into infrastructure factories — robotic 3D printers that monitor their own production, paired with a new concrete mix being developed to become carbon-negative rather than carbon-heavy. - Silicon Canals | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU3VCQmFIb0tncXVZd1VmLWhub0ZGWlY1VWVVSWtQeTR3OWt2Q0dxVDducVFVX3BHQlVWSmJrN2o2bTJwN01iSW1qcXoxdGdnWVJfakNCWDZLelEtTFhpUHp4eW5hZXBEQVBOLTV6bktTam84ejhkeUJfMTZaLWZubTJFU3VPLXNiV1lr?oc=5) |
-| 2026-08-22 | ACE Robotics chairman says robot brains will have ‘ChatGPT moment’ by end of 2027 - 95 KQDS | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0VqdldiOUt6Y2cxaFBSd1FkUkk3YlRxajlmZThlMHU2MWJEcmtZTzlmRmFZckh5el83V1BYUGV6QWJhMEJfMlJaemM0VkdjYUItX0MzYXpTRGdrV09fcTFpdkhPclQxQzN3NjFQY2lvVXdXVUI5YWl5MFpySUpWOU5xUzhaZ21SOHJXM0xSaFd6TEFDSDV3elp2cnFUYlNSVlNMclN3Zk0?oc=5) |
 | 2026-08-21 | Why Georgia Could Have an Edge in Physical AI - Hypepotamus | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ybXpLaldoTmdteTkzWWZZZDQ3VkdUalpmSU01UmRTSEZvN25USGFBYzJubGlEamJycDBTMW1qT3F4ZXFpZ3pEV0tyS2ZWcDBwQldYX1UtZkdIdkdRQTZLVkNrYUY0bVpB?oc=5) |
 | 2026-08-21 | Humanoid Robots Poised for Breakthrough in Embodied AI by 2024 - Devdiscourse | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4d9IBvwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4dw?oc=5) |
+| 2026-08-21 | ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027 | Gulf Times - Gulf Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxONk5McWd3N3ZHMHZGcnlvdUZFcEtRS01UcEt1cHR5NEdXaGxIMkVRNC1kVXVQRmpGVUhnQUo0dEUwOE5CWVVrOEQzZnU5MHREUHRLNjVmeldrLXNvMm9JNEI3d1JsZi1WSUYwN3J1OEhXdFJWOWFGVVVkMjNSTTU4S0ROSjNrcDZGanVuOGxsZFB1blM3amotLXlibmRrVG90cHYyMVNhdkFrRWltQmowZVFHVFdzaXVPOGtNZmp1SGdydUVPX0dCSmJn0gHPAUFVX3lxTE5ROWJzbDFMaDNrNnNHTUtLX1pUS2hXZThWd01kMDNobE1WSjdrSWJhZ2tfRFJUYXNzQkVOMDBObjhTc2g5eEtXQkd2d0RIbTBlVUd3OFVmU1psMzZmZ0dDMDhRTW9SQ2VIR1FzczR3c3dWODdSSmktQko4MEVMcldCTktpRkFJdVpZb2wtQVpyZV81cjQ2OFR0Vm5IcG8wbGZLb0xqTU9GdXB0M3p1VWY0enhsZFdndjF5Wm9qT2Z2QkxPM243YzI0eHFIdHN2OA?oc=5) |
 | 2026-08-20 | Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUpET2g2MTNFVnVnRVY3U2hob2UwcnpTYnhOQVJ2RDdFQW4zTHI2LThnelJwZV9CTUh6U1J0WlJOdkRGVnM1MVVQQ1hST281VHdXWV9BekdXQ2lFdWwycGQta1N1X3RTS25YNnh3em9RT0ZZVE14TUJTOUZjRHNzM0tlU2lya0F0VHFLdDcwTG9LaUtvZFVyaXEzaHZySGRqb19EbldTNVpGQQ?oc=5) |
 | 2026-08-20 | Chinese humanoids take center stage at World Robot Conference - Daily Sabah | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODFWS015SEdsUVZ1azNZYzhpWEltUmVxMUhUbWZzUlQ2UVh4WWdmLV9FbTlLcVlxUEgzcHE2OWZiazlIWVVSRU5UUTlEQVJMd2VJak43TzVtVWVwWHlBaUVwaGIxQjZPclZ0OWdUQVVWYklvclRKbVdwTXR2QllWd0Y4amtvVERQTU9NTThRUlNiUEgzU1NoMXFuTUw3OC1fNW9rRE5TY3UzQQ?oc=5) |
 | 2026-08-20 | Humanoid robot crashes after Beijing sprint - The American Bazaar | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGkxUUNMWFNmOUVybkkzVzJMd3hZcGszYTVhWTdrNlY2VU10b01KdlJMSmlzajkzZFBCSWpGY0Y1U3J2a1B6Y0ZuVDdCN0JCekE1U2lRQ1RZUTc4dUpVVVZoa1JZeF9nZGNRdXp4d0tBLTFyTXY1d3ZNWHUtcHpzbEN1S29hUEEzNUlLX0t6UjYwUQ?oc=5) |

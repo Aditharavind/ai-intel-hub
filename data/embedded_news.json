@@ -1,5 +1,12 @@
 [
   {
+    "title": "You Gotta Want It",
+    "source": "Hackaday",
+    "date": "2026-08-22",
+    "url": "https://hackaday.com/2026/08/22/you-gotta-want-it/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>On Hackaday last week, and on the podcast, we were talking about one of the educational toys of yesteryear that launched a thousand careers, at least if the comment section <a class=\"read-more\" href=\"https://hackaday.com/2026/08/22/you-gotta-want-it/\">&#8230;read more</a>"
+  },
+  {
     "title": "Building an Analog Geiger Counter",
     "source": "Hackaday",
     "date": "2026-08-22",
@@ -35,6 +42,13 @@
     "summary": "<div><img alt=\"ESP32-S31 Linux\" class=\"attachment-medium size-medium wp-post-image\" height=\"432\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/ESP32-S31-Linux-720x432.png\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The ESP32-S31 microprocessor is getting Linux support from Espressif Systems. The ESP32-S31 dual-core RISC-V microprocessor was first unveiled in March, two ESP32-S31 development boards followed in May, and mass production was announced a few weeks ago. The new RISC-V chip features an MMU (Memory Management Unit), which makes Linux much easier to handle, and the development boards also come with 16MB PSRAM, so a minimal Linux image is possible. Moving from theory to practice, Espressif Systems has now released a developer preview version of the ESP Linux BSP for ESP32-S31, and some community Linux ports are also in the works (more on that at the end of the article). Let&#8217;s focus on the official ESP Linux BSP. The aforementioned repo only contains the image layout and packaging tools used by the ESP32-S31 Buildroot integration, and the core of the project can be found in the esp-buildroot-external repo with ESP32-S31 NOR boot [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/\">Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "The Digi-Comp I, a plastic mechanical computer from 1963",
+    "source": "Adafruit",
+    "date": "2026-08-22",
+    "url": "https://blog.adafruit.com/2026/08/22/the-digi-comp-i-a-plastic-mechanical-computer-from-1963/",
+    "summary": "Chris Staecker on YouTube presents the Digi-Comp I, a plastic mechanical computer from 1963. This educational toy used logic rods and tubes to simulate binary computation, offering a tangible introduction to programming for kids during the space race era. More resources: Scans of Digi-Comp I documents Digi-Comp I manual scan See the video below:"
+  },
+  {
     "title": "Building a Hammond Organ to Understand How They Work",
     "source": "Hackaday",
     "date": "2026-08-21",
@@ -47,13 +61,6 @@
     "date": "2026-08-21",
     "url": "https://hackaday.com/2026/08/21/thermoacoustic-sterling-engine-is-now-fully-3d-printable/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"238\" src=\"https://hackaday.com/wp-content/uploads/2026/08/sterling-engine-feat-e1787243009107.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Would you like to make your own energy? Why, who doesn&#8217;t in this era of rising costs! A sterling engine always looks like a good fit for that: highly efficient, <a class=\"read-more\" href=\"https://hackaday.com/2026/08/21/thermoacoustic-sterling-engine-is-now-fully-3d-printable/\">&#8230;read more</a>"
-  },
-  {
-    "title": "PVC Pipe Turned DIY Digital Telescope",
-    "source": "Hackaday",
-    "date": "2026-08-21",
-    "url": "https://hackaday.com/2026/08/21/pvc-pipe-turned-diy-digital-telescope/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/I-Made-a-DIY-Smart-Telescope-At-Home-14-11-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Makestreme] had always wanted to own a nice telescope, but found that budget would not stretch to anything above a cheap model with a limited 50 mm aperture. Wanting a <a class=\"read-more\" href=\"https://hackaday.com/2026/08/21/pvc-pipe-turned-diy-digital-telescope/\">&#8230;read more</a>"
   },
   {
     "title": "AAEON uCOM-Q6490 – A SMARC 2.1-compliant SoM powered by Qualcomm Dragonwing QCS6490 SoC",
@@ -327,13 +334,6 @@
     "date": "2026-08-20",
     "url": "https://www.embedded.com/basler-syslogic-deliver-industrial-machine-vision-solutions/",
     "summary": "<p>Basler and Syslogic are expanding their partnership to enable machine vision and edge AI in industrial applications that require high-performance cameras and rugged AI computing platforms. The partnership leverages Basler's ace 2 GMSL cameras and Syslogic's rugged computers to deliver machine vision to applications such as autonomous mobile robots, agricultural vehicles, construction equipment, and intelligent [...]</p>\n<p>The post <a href=\"https://www.embedded.com/basler-syslogic-deliver-industrial-machine-vision-solutions/\">Basler, Syslogic Deliver Industrial Machine Vision Solutions</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Arduino R3 + Breadboard Holder – Sticky-Back or Hot-Glue Mount #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-08-20",
-    "url": "https://blog.adafruit.com/2026/08/20/arduino-r3-breadboard-holder-sticky-back-or-hot-glue-mount-3dthursday-3dprinting/",
-    "summary": "Shared by TheGadge on MakerWorld: I wanted something to hold the Arduino Uno R3 (in my case, an Elegoo one) along with a breadboard &#8211; standard size. The breadboard I buy have a sticky back which makes a permanent fixture, or you could just hot glue etc. I&#8217;ve designed this to be printed without supports. [&#8230;]"
   },
   {
     "title": "Tom Clancy’s Rainbow Six® Siege Cuts Critical Toxic Voice Chat by 50% with Modulate’s ToxMod",
