@@ -21,43 +21,53 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14627,
+    "stars": 14628,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-22",
     "topic": "robotics",
-    "score": 5850.9
+    "score": 5851.3
+  },
+  {
+    "repo": "RLinf/RLinf",
+    "stars": 4607,
+    "language": "Python",
+    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
+    "url": "https://github.com/RLinf/RLinf",
+    "date": "2026-08-22",
+    "topic": "embodied-ai",
+    "score": 1842.9
   },
   {
     "repo": "dora-rs/dora",
-    "stars": 3891,
+    "stars": 3892,
     "language": "Rust",
     "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
     "url": "https://github.com/dora-rs/dora",
     "date": "2026-08-22",
     "topic": "embodied-ai",
-    "score": 1556.5
+    "score": 1556.9
   },
   {
     "repo": "sou350121/VLA-Handbook",
-    "stars": 531,
+    "stars": 532,
     "language": "HTML",
     "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
     "url": "https://github.com/sou350121/VLA-Handbook",
     "date": "2026-08-22",
     "topic": "robot-learning",
-    "score": 212.5
+    "score": 212.9
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6230,
+    "stars": 6233,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-22",
     "topic": "world-model",
-    "score": 2492.1
+    "score": 2493.3
   },
   {
     "repo": "zli12321/Vision-Language-Models-Overview",
@@ -141,13 +151,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13760,
+    "stars": 13762,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-21",
     "topic": "robotics",
-    "score": 5504.1
+    "score": 5504.9
   },
   {
     "repo": "rerun-io/rerun",
@@ -181,13 +191,13 @@
   },
   {
     "repo": "leofan90/Awesome-World-Models",
-    "stars": 1973,
+    "stars": 1974,
     "language": "Python",
     "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
     "url": "https://github.com/leofan90/Awesome-World-Models",
     "date": "2026-08-21",
     "topic": "world-model",
-    "score": 789.3
+    "score": 789.7
   },
   {
     "repo": "worldbench/awesome-vla-for-ad",
@@ -270,16 +280,6 @@
     "score": 84.1
   },
   {
-    "repo": "RLinf/RLinf",
-    "stars": 4607,
-    "language": "Python",
-    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
-    "url": "https://github.com/RLinf/RLinf",
-    "date": "2026-08-20",
-    "topic": "embodied-ai",
-    "score": 1842.9
-  },
-  {
     "repo": "RoboTwin-Platform/RoboTwin",
     "stars": 2755,
     "language": "Python",
@@ -291,13 +291,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2269,
+    "stars": 2270,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-20",
     "topic": "robot-learning",
-    "score": 907.7
+    "score": 908.1
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -361,13 +361,13 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16151,
+    "stars": 16152,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 6460.5
+    "score": 6460.9
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
@@ -441,13 +441,13 @@
   },
   {
     "repo": "MirroS-Lab/HarnessEval-W",
-    "stars": 243,
+    "stars": 244,
     "language": "Python",
     "description": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
     "url": "https://github.com/MirroS-Lab/HarnessEval-W",
     "date": "2026-08-18",
     "topic": "world-model",
-    "score": 97.3
+    "score": 97.7
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -661,13 +661,13 @@
   },
   {
     "repo": "dexmal/dexbotic",
-    "stars": 1396,
+    "stars": 1397,
     "language": "Python",
     "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
     "url": "https://github.com/dexmal/dexbotic",
     "date": "2026-08-06",
     "topic": "vla",
-    "score": 558.5
+    "score": 558.9
   },
   {
     "repo": "zju3dv/INTACT-JEPA",
