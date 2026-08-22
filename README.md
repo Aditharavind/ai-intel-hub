@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-22 11:08 UTC
+Last Updated: 2026-08-22 12:11 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -61,18 +61,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-21 | M5Stack Paper Mono – An ESP32-S3 e-paper development board with 3.97-inch touchscreen, LoRa, and NFC | CNX Software | [link](https://www.cnx-software.com/2026/08/21/m5stack-paper-mono-an-esp32-s3-e-paper-development-board-with-3-97-inch-touchscreen-lora-and-nfc/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-08-20 | DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery | [link](https://arxiv.org/pdf/2608.20308v1) |
-| 2026-08-20 | Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning | [link](https://arxiv.org/pdf/2608.20284v1) |
-| 2026-08-20 | DART-S: Reachability-Audited Active-Suspension Preconditioning for Off-Road Vehicle Jumps | [link](https://arxiv.org/pdf/2608.20275v1) |
-| 2026-08-20 | Video2DoorTraversal: Push Door Traversal via Simulated Door Twins | [link](https://arxiv.org/pdf/2608.20251v1) |
-| 2026-08-20 | Growth Without Us: Machine Consumers, Corporate Circularity, and the Decoupling of GDP from Humanity after AGI | [link](https://arxiv.org/pdf/2608.20231v1) |
-| 2026-08-20 | RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation | [link](https://arxiv.org/pdf/2608.20208v1) |
-| 2026-08-20 | RMWorld: Task-Aware Radio World Models with Value-of-Information Guided Multi-Trial Learning for Multi-UAV Communication Control | [link](https://arxiv.org/pdf/2608.20126v1) |
-| 2026-08-20 | DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation | [link](https://arxiv.org/pdf/2608.20114v1) |
-| 2026-08-20 | Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms | [link](https://arxiv.org/pdf/2608.20111v1) |
-| 2026-08-20 | Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking | [link](https://arxiv.org/pdf/2608.20087v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
@@ -91,13 +80,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 63468 | Python | 25387.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63469 | Python | 25387.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15724 | C++ | 6289.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14629 | C++ | 5851.7 | [link](https://github.com/google-deepmind/mujoco) |
-| RLinf/RLinf | 4608 | Python | 1843.3 | [link](https://github.com/RLinf/RLinf) |
+| RLinf/RLinf | 4609 | Python | 1843.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3892 | Rust | 1556.9 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 532 | HTML | 212.9 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 6235 | Python | 2494.1 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 6236 | Python | 2494.5 | [link](https://github.com/vllm-project/vllm-omni) |
 | NucleoidAI/Nucleoid | 767 | Rust | 306.9 | [link](https://github.com/NucleoidAI/Nucleoid) |
 | zli12321/Vision-Language-Models-Overview | 698 | HTML | 279.3 | [link](https://github.com/zli12321/Vision-Language-Models-Overview) |
 | OpenHUTB/hutb | 546 | C++ | 218.5 | [link](https://github.com/OpenHUTB/hutb) |

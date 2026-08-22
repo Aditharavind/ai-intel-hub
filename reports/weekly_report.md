@@ -1,22 +1,16 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-22 11:08 UTC
+Generated: 2026-08-22 12:11 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-08-20 | DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery | [link](https://arxiv.org/pdf/2608.20308v1) |
-| 2026-08-20 | Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning | [link](https://arxiv.org/pdf/2608.20284v1) |
-| 2026-08-20 | DART-S: Reachability-Audited Active-Suspension Preconditioning for Off-Road Vehicle Jumps | [link](https://arxiv.org/pdf/2608.20275v1) |
-| 2026-08-20 | Video2DoorTraversal: Push Door Traversal via Simulated Door Twins | [link](https://arxiv.org/pdf/2608.20251v1) |
-| 2026-08-20 | Growth Without Us: Machine Consumers, Corporate Circularity, and the Decoupling of GDP from Humanity after AGI | [link](https://arxiv.org/pdf/2608.20231v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63468 | 25387.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63469 | 25387.7 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44398 | 17759.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30346 | 12138.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30347 | 12138.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16153 | 6461.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15724 | 6289.7 | [link](https://github.com/ArduPilot/ardupilot) |
 
