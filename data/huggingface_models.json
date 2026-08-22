@@ -1,5 +1,50 @@
 [
   {
+    "model": "abdel-lall-31/robot-arm-voice-command-classifier",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/abdel-lall-31/robot-arm-voice-command-classifier",
+    "date": "2026-08-22",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "B111ue/fcl-vla-functional-support-canary",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
+    "date": "2026-08-22",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "UCSC-VLAA/openvision2-vit-huge-patch14-224-vision-only",
+    "downloads": 9,
+    "likes": 1,
+    "url": "https://huggingface.co/UCSC-VLAA/openvision2-vit-huge-patch14-224-vision-only",
+    "date": "2026-08-22",
+    "keyword": "vla",
+    "score": 3.0
+  },
+  {
+    "model": "giabaohoka/paper_020308951_embodied_ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/giabaohoka/paper_020308951_embodied_ai",
+    "date": "2026-08-22",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "nicolemoore/paper_021961853_robotics_vision_language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/nicolemoore/paper_021961853_robotics_vision_language",
+    "date": "2026-08-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "puppet-robotics/golf-model-2-8fps-peft",
     "downloads": 0,
     "likes": 0,
@@ -90,28 +135,10 @@
     "score": 0.1
   },
   {
-    "model": "HarshDefy/paper_021511188_robotics_vision_language",
+    "model": "justintiensmith/groot_n17_vla_reasoning_bs32_1ep",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/HarshDefy/paper_021511188_robotics_vision_language",
-    "date": "2026-08-21",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "ryanyamasita/paper_022391343_robotics_vision_language",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ryanyamasita/paper_022391343_robotics_vision_language",
-    "date": "2026-08-21",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "B111ue/fcl-vla-functional-support-canary",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
+    "url": "https://huggingface.co/justintiensmith/groot_n17_vla_reasoning_bs32_1ep",
     "date": "2026-08-21",
     "keyword": "vla",
     "score": 0.1
@@ -288,15 +315,6 @@
     "score": 0.1
   },
   {
-    "model": "georgecevans/paper_021132819_embodied_ai",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/georgecevans/paper_021132819_embodied_ai",
-    "date": "2026-08-21",
-    "keyword": "embodied",
-    "score": 0.1
-  },
-  {
     "model": "evidence-for-climate-solutions/climatebert-policyinstruments-expost_exante",
     "downloads": 3,
     "likes": 0,
@@ -405,19 +423,28 @@
     "score": 0.1
   },
   {
-    "model": "jennifercook/paper_021891815_robotics_vision_language",
+    "model": "HarshDefy/paper_021511188_robotics_vision_language",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/jennifercook/paper_021891815_robotics_vision_language",
+    "url": "https://huggingface.co/HarshDefy/paper_021511188_robotics_vision_language",
     "date": "2026-08-21",
     "keyword": "robotics",
     "score": 0.1
   },
   {
-    "model": "oliveiraberg/paper_022120861_robotics_vision_language",
+    "model": "ryanyamasita/paper_022391343_robotics_vision_language",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/oliveiraberg/paper_022120861_robotics_vision_language",
+    "url": "https://huggingface.co/ryanyamasita/paper_022391343_robotics_vision_language",
+    "date": "2026-08-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "jennifercook/paper_021891815_robotics_vision_language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jennifercook/paper_021891815_robotics_vision_language",
     "date": "2026-08-21",
     "keyword": "robotics",
     "score": 0.1
@@ -430,24 +457,6 @@
     "date": "2026-08-20",
     "keyword": "vla",
     "score": 4.0
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-20",
-    "keyword": "vla",
-    "score": 5.2
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0",
-    "date": "2026-08-20",
-    "keyword": "vla",
-    "score": 6.7
   },
   {
     "model": "novastar111/pusht_cot_chunk_kinf_world_model",

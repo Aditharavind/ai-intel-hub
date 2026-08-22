@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-21 23:11 UTC
+Last Updated: 2026-08-22 00:25 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-22 | abdel-lall-31/robot-arm-voice-command-classifier | 0 | 0 | [link](https://huggingface.co/abdel-lall-31/robot-arm-voice-command-classifier) |
+| 2026-08-22 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
+| 2026-08-22 | UCSC-VLAA/openvision2-vit-huge-patch14-224-vision-only | 9 | 1 | [link](https://huggingface.co/UCSC-VLAA/openvision2-vit-huge-patch14-224-vision-only) |
+| 2026-08-22 | giabaohoka/paper_020308951_embodied_ai | 0 | 0 | [link](https://huggingface.co/giabaohoka/paper_020308951_embodied_ai) |
+| 2026-08-21 | nicolemoore/paper_021961853_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/nicolemoore/paper_021961853_robotics_vision_language) |
 | 2026-08-21 | puppet-robotics/golf-model-2-8fps-peft | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-2-8fps-peft) |
 | 2026-08-21 | subramanianno/paper_021822677_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/subramanianno/paper_021822677_robotics_vision_language) |
 | 2026-08-21 | anna-smirnov/paper_022135633_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/anna-smirnov/paper_022135633_robotics_vision_language) |
 | 2026-08-21 | oozkanemre88/paper_022210137_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/oozkanemre88/paper_022210137_robotics_vision_language) |
 | 2026-08-21 | SEMVISSER/paper_022175325_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/SEMVISSER/paper_022175325_robotics_vision_language) |
-| 2026-08-21 | ziyin123/robotwin2_310k | 0 | 0 | [link](https://huggingface.co/ziyin123/robotwin2_310k) |
-| 2026-08-21 | ziyin123/robotwin2_300k | 0 | 0 | [link](https://huggingface.co/ziyin123/robotwin2_300k) |
-| 2026-08-21 | szwagner/paper_022216806_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/szwagner/paper_022216806_robotics_vision_language) |
-| 2026-08-21 | Rachelwhitenah/paper_022398354_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/Rachelwhitenah/paper_022398354_robotics_vision_language) |
-| 2026-08-21 | andrewhernandez/paper_022139643_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/andrewhernandez/paper_022139643_robotics_vision_language) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 3054 | Python | 1221.7 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1462 | Rust | 584.9 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 944 | Python | 377.7 | [link](https://github.com/mosaico-labs/mosaico) |
+| mosaico-labs/mosaico | 945 | Python | 378.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63467 | Python | 25386.9 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15721 | C++ | 6288.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14625 | C++ | 5850.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13752 | Python | 5500.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13754 | Python | 5501.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11335 | Rust | 4534.1 | [link](https://github.com/rerun-io/rerun) |
 | kornia/kornia | 11322 | Python | 4528.9 | [link](https://github.com/kornia/kornia) |
-| dora-rs/dora | 3891 | Rust | 1556.5 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -120,15 +120,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-21 | Why Georgia Could Have an Edge in Physical AI - Hypepotamus | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ybXpLaldoTmdteTkzWWZZZDQ3VkdUalpmSU01UmRTSEZvN25USGFBYzJubGlEamJycDBTMW1qT3F4ZXFpZ3pEV0tyS2ZWcDBwQldYX1UtZkdIdkdRQTZLVkNrYUY0bVpB?oc=5) |
-| 2026-08-21 | Chinese visa impact hits Indian physical AI startups - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWtCajM1Y1N2TEJuRl8wX1kwcEtQb0RxQUV2SWJvOEtjaWpEWi1zcTYzazI2bUJhTEw4MTFZeU9mcFdVeWRld3o5Ry1EZExpbmg4aXVkOXY2dkUtb2dQREptZjVyNW1zUk5sVlozNWVzTVhJRktrTnU3RUJkRUQ1ZUlBUHRnbGRmUzNNREFNdGcyUmVaaVRnNGFOMVNvQmYtYkZsbTlfWDhITGIwSlU4U19mam5RemJtaE4xYXZXUDFjOTBwcG9yVkFXT21WdERo0gHWAUFVX3lxTE5ETlhmVW92dUZGR21ZX0RDX0s0MXE2YWYxMzZMZGRaVkZmTlg4MUhkOFJBdFRaUUJpWXZMZS1sTndPZ0VPRUFRamVaT0hTTndHNWhTSlhoVUFJVDRTdUxEMzBJT2wtM21GUktmRnlqQVR5SndydFpVUUU3TG0zeUFTVW5GR3F4U3JoRkFRemhGNFBRRWdqZVpWWjFHaGZ5alpESHBoM0dWSWpKYUFHR1RveWl4a0g4S1VUOEx5ampyTDM0eHVsSU8wTW80MkxxSnBTS3p1Q1E?oc=5) |
+| 2026-08-21 | ACE Robotics chairman says robot brains will have ‘ChatGPT moment’ by end of 2027 - BNN Bloomberg | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY2pZTGhpYVkyUmRpVXZkTHhrcFBWTUkySF95SzE2MmhUSWpUcTBidzlqcTljeEw0V3BLSUJjODlRSU5NdGdaNDFIelk1ODRBM3lYYUoyRGtfTkh1MmEtMkt2U21fdHc2UHl4VGJXMTY2cDNkQnY5ODc5RmR6N2x6VEpDSjdCOGFzR2QybGdCZG51R2JxM2RPdmZsZUlpNk9XeXlLSUpOWFIwa19JZWw4Nll3VjJSY3hlQ2t5RVNPbnFLSTBsNW90MERCM1BYeFVFY2g0YkdVSFk?oc=5) |
 | 2026-08-21 | Humanoid Robots Poised for Breakthrough in Embodied AI by 2024 - Devdiscourse | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4d9IBvwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4dw?oc=5) |
-| 2026-08-21 | ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027 | Gulf Times - Gulf Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxONk5McWd3N3ZHMHZGcnlvdUZFcEtRS01UcEt1cHR5NEdXaGxIMkVRNC1kVXVQRmpGVUhnQUo0dEUwOE5CWVVrOEQzZnU5MHREUHRLNjVmeldrLXNvMm9JNEI3d1JsZi1WSUYwN3J1OEhXdFJWOWFGVVVkMjNSTTU4S0ROSjNrcDZGanVuOGxsZFB1blM3amotLXlibmRrVG90cHYyMVNhdkFrRWltQmowZVFHVFdzaXVPOGtNZmp1SGdydUVPX0dCSmJn0gHPAUFVX3lxTE5ROWJzbDFMaDNrNnNHTUtLX1pUS2hXZThWd01kMDNobE1WSjdrSWJhZ2tfRFJUYXNzQkVOMDBObjhTc2g5eEtXQkd2d0RIbTBlVUd3OFVmU1psMzZmZ0dDMDhRTW9SQ2VIR1FzczR3c3dWODdSSmktQko4MEVMcldCTktpRkFJdVpZb2wtQVpyZV81cjQ2OFR0Vm5IcG8wbGZLb0xqTU9GdXB0M3p1VWY0enhsZFdndjF5Wm9qT2Z2QkxPM243YzI0eHFIdHN2OA?oc=5) |
 | 2026-08-20 | Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUpET2g2MTNFVnVnRVY3U2hob2UwcnpTYnhOQVJ2RDdFQW4zTHI2LThnelJwZV9CTUh6U1J0WlJOdkRGVnM1MVVQQ1hST281VHdXWV9BekdXQ2lFdWwycGQta1N1X3RTS25YNnh3em9RT0ZZVE14TUJTOUZjRHNzM0tlU2lya0F0VHFLdDcwTG9LaUtvZFVyaXEzaHZySGRqb19EbldTNVpGQQ?oc=5) |
 | 2026-08-20 | Chinese humanoids take center stage at World Robot Conference - Daily Sabah | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODFWS015SEdsUVZ1azNZYzhpWEltUmVxMUhUbWZzUlQ2UVh4WWdmLV9FbTlLcVlxUEgzcHE2OWZiazlIWVVSRU5UUTlEQVJMd2VJak43TzVtVWVwWHlBaUVwaGIxQjZPclZ0OWdUQVVWYklvclRKbVdwTXR2QllWd0Y4amtvVERQTU9NTThRUlNiUEgzU1NoMXFuTUw3OC1fNW9rRE5TY3UzQQ?oc=5) |
 | 2026-08-20 | Humanoid robot crashes after Beijing sprint - The American Bazaar | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGkxUUNMWFNmOUVybkkzVzJMd3hZcGszYTVhWTdrNlY2VU10b01KdlJMSmlzajkzZFBCSWpGY0Y1U3J2a1B6Y0ZuVDdCN0JCekE1U2lRQ1RZUTc4dUpVVVZoa1JZeF9nZGNRdXp4d0tBLTFyTXY1d3ZNWHUtcHpzbEN1S29hUEEzNUlLX0t6UjYwUQ?oc=5) |
 | 2026-08-19 | Former Nvidia lab leader Sanja Fidler launches Veeda AI to tackle world models - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRreGNHRzNvY0NlNVdjdk9fUEtrakxxT3E3WWJPMmxLc2FBeXdpcjdXTElsV3FBX0pBYUpXWHYzYlAzZ3o4WXk2MVZNS2tJQWg2bzBIendlWm9qTldRTzFLaERSZDd5UFUxZmZ6MnV5T0FBaHhYdEpIaU1UN3ZZcTg1RFZFcE5aUDJRaE9LTHRoS3ZPUmJ6RkZmbWxReWNI?oc=5) |
 | 2026-08-19 | Physical AI startup Enigma raises $71M seed to make robots easy to use - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXRaZzc5UlVLblMzeDExb1E2RzU0bmJwd2JVWG9PclZvenRzLWIzZVdUVXhBNVhaLV8yOVdQbkNTQmJIN3JmLVdRaWF4bFUwb1hpVHh5S25HeVNGb0lsdFFHa1dKdGZxUWRqUWQ5b0V6d0FsQU5RWW9nTDllZ2V6MUpZS2lUR1VDOXU1NGo3bjBvYVlHLTlTQWt3ZzF5eGZhNV9aNmJ3?oc=5) |
 | 2026-08-19 | Star researcher Sanja Fidler raises over US$90M for world model startup - The Logic | physical ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTE1LTEJEbDJEZ2pmV1VBeXNVQkVSLWc2c19ldUNzUUt2UzllMlN4R3J6dUNFS0o4ckdzdE1TMXhoZjI4Z0c1cVlNX1hoS3p0WnZsM3JBU1pncEtGamR4dnBUVEc2S3l2NERUb3dYSWp3b0R1dw?oc=5) |
+| 2026-08-19 | AI researcher Sanja Fidler raises US$90-million for robotics startup - The Globe and Mail | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1hiM1VrQ3VmZkp3TWRpaXpqVW93ZW9qN3NRdFJWcEdOZU9jTnFvb25ZY3BoVkhIMVo3NjZXYkxEbnlHU0stS1lsM042aWhvR0JNR0Z4RDV5c1hJWnprNmhzalRSUEdJSG5xdmtQWV9TcU5DV3ZHeXdoWkVuc01hMFA0d0ZZaW5EeVFFdlJ1OWd2UUlsNkt4RHVrdmxJYjJzelVjTE05eGtxV0RQcmpmdzdtX1NqZw?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
