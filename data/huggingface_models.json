@@ -1,5 +1,32 @@
 [
   {
+    "model": "fanzh03/robotwin_fewshot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/fanzh03/robotwin_fewshot",
+    "date": "2026-08-22",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "srilubis/paper_021725602_robotics_vision_language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/srilubis/paper_021725602_robotics_vision_language",
+    "date": "2026-08-22",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "xzhang82/paper_021710796_robotics_vision_language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/xzhang82/paper_021710796_robotics_vision_language",
+    "date": "2026-08-22",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "Aleksanderszyma/paper_022036027_robotics_vision_language",
     "downloads": 0,
     "likes": 0,
@@ -81,33 +108,6 @@
     "score": 8.5
   },
   {
-    "model": "Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/Robot-Haus/Qwen3.6-35B-A3B-MAYA-oQ3.5e-mtp",
-    "date": "2026-08-22",
-    "keyword": "robot",
-    "score": 4.9
-  },
-  {
-    "model": "jojames92k/paper_021508553_robotics_vision_language",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jojames92k/paper_021508553_robotics_vision_language",
-    "date": "2026-08-22",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "abdel-lall-31/robot-arm-voice-command-classifier",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/abdel-lall-31/robot-arm-voice-command-classifier",
-    "date": "2026-08-22",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "B111ue/fcl-vla-functional-support-canary",
     "downloads": 0,
     "likes": 0,
@@ -178,6 +178,15 @@
     "date": "2026-08-22",
     "keyword": "vla",
     "score": 3.0
+  },
+  {
+    "model": "Dimios45/yam-world-model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Dimios45/yam-world-model",
+    "date": "2026-08-22",
+    "keyword": "world model",
+    "score": 0.1
   },
   {
     "model": "davicarvalho/paper_020705477_embodied_ai",
@@ -252,6 +261,24 @@
     "score": 0.1
   },
   {
+    "model": "Roy229/equipment-return-policy-3410",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Roy229/equipment-return-policy-3410",
+    "date": "2026-08-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ChristianZ97/satp-policy-v4.27",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
+    "date": "2026-08-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "hiskiv/cosmos-policy-lam-v2",
     "downloads": 0,
     "likes": 0,
@@ -285,6 +312,15 @@
     "url": "https://huggingface.co/makkold/hf_act_policy",
     "date": "2026-08-22",
     "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jojames92k/paper_021508553_robotics_vision_language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jojames92k/paper_021508553_robotics_vision_language",
+    "date": "2026-08-22",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -414,24 +450,6 @@
     "score": 1.0
   },
   {
-    "model": "evidence-for-climate-solutions/climatebert-policyinstruments-instrument-i",
-    "downloads": 4,
-    "likes": 0,
-    "url": "https://huggingface.co/evidence-for-climate-solutions/climatebert-policyinstruments-instrument-i",
-    "date": "2026-08-21",
-    "keyword": "policy",
-    "score": 1.3
-  },
-  {
-    "model": "evidence-for-climate-solutions/climatebert-policyinstruments-relevant",
-    "downloads": 4,
-    "likes": 0,
-    "url": "https://huggingface.co/evidence-for-climate-solutions/climatebert-policyinstruments-relevant",
-    "date": "2026-08-21",
-    "keyword": "policy",
-    "score": 1.3
-  },
-  {
     "model": "nicolemoore/paper_021961853_robotics_vision_language",
     "downloads": 0,
     "likes": 0,
@@ -454,24 +472,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/subramanianno/paper_021822677_robotics_vision_language",
-    "date": "2026-08-21",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "anna-smirnov/paper_022135633_robotics_vision_language",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/anna-smirnov/paper_022135633_robotics_vision_language",
-    "date": "2026-08-21",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "oozkanemre88/paper_022210137_robotics_vision_language",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/oozkanemre88/paper_022210137_robotics_vision_language",
     "date": "2026-08-21",
     "keyword": "robotics",
     "score": 0.1
@@ -580,15 +580,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/novastar111/pusht_noncot_chunk_k1_world_model",
-    "date": "2026-08-18",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "novastar111/pacman_braidthin_cot_chunk_k5_world_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/novastar111/pacman_braidthin_cot_chunk_k5_world_model",
     "date": "2026-08-18",
     "keyword": "world model",
     "score": 0.1
