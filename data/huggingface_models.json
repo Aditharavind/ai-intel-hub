@@ -1,5 +1,14 @@
 [
   {
+    "model": "YMmim/qwen2.5-0.5b-robot-cot-lora",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/YMmim/qwen2.5-0.5b-robot-cot-lora",
+    "date": "2026-08-22",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "walk-er88/paper_021859239_robotics_vision_language",
     "downloads": 0,
     "likes": 0,
@@ -99,15 +108,6 @@
     "score": 0.1
   },
   {
-    "model": "Rohitiyerpan/paper_022001300_robotics_vision_language",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Rohitiyerpan/paper_022001300_robotics_vision_language",
-    "date": "2026-08-22",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "B111ue/fcl-vla-functional-support-canary",
     "downloads": 0,
     "likes": 0,
@@ -118,66 +118,84 @@
   },
   {
     "model": "UCSC-VLAA/openvision2-vit-large-patch14-224-vision-only",
-    "downloads": 80,
+    "downloads": 86,
     "likes": 1,
     "url": "https://huggingface.co/UCSC-VLAA/openvision2-vit-large-patch14-224-vision-only",
     "date": "2026-08-22",
     "keyword": "vla",
-    "score": 24.3
+    "score": 26.1
   },
   {
     "model": "UCSC-VLAA/openvision2-vit-large-patch14-336-vision-only",
-    "downloads": 4,
+    "downloads": 8,
     "likes": 0,
     "url": "https://huggingface.co/UCSC-VLAA/openvision2-vit-large-patch14-336-vision-only",
     "date": "2026-08-22",
     "keyword": "vla",
-    "score": 1.3
+    "score": 2.5
   },
   {
     "model": "UCSC-VLAA/openvision2-vit-giant-patch14-224-vision-only",
-    "downloads": 5,
+    "downloads": 6,
     "likes": 1,
     "url": "https://huggingface.co/UCSC-VLAA/openvision2-vit-giant-patch14-224-vision-only",
     "date": "2026-08-22",
     "keyword": "vla",
-    "score": 1.8
+    "score": 2.1
   },
   {
     "model": "UCSC-VLAA/openvision2-vit-huge-patch14-448-vision-only",
-    "downloads": 4,
+    "downloads": 9,
     "likes": 1,
     "url": "https://huggingface.co/UCSC-VLAA/openvision2-vit-huge-patch14-448-vision-only",
     "date": "2026-08-22",
     "keyword": "vla",
-    "score": 1.5
+    "score": 3.0
   },
   {
     "model": "UCSC-VLAA/openvision2-vit-huge-patch14-336-vision-only",
-    "downloads": 4,
+    "downloads": 13,
     "likes": 0,
     "url": "https://huggingface.co/UCSC-VLAA/openvision2-vit-huge-patch14-336-vision-only",
     "date": "2026-08-22",
     "keyword": "vla",
-    "score": 1.3
+    "score": 4.0
   },
   {
     "model": "UCSC-VLAA/openvision2-vit-so400m-patch14-384-vision-only",
-    "downloads": 12,
+    "downloads": 16,
     "likes": 1,
     "url": "https://huggingface.co/UCSC-VLAA/openvision2-vit-so400m-patch14-384-vision-only",
+    "date": "2026-08-22",
+    "keyword": "vla",
+    "score": 5.1
+  },
+  {
+    "model": "UCSC-VLAA/openvision2-vit-huge-patch14-224-vision-only",
+    "downloads": 12,
+    "likes": 1,
+    "url": "https://huggingface.co/UCSC-VLAA/openvision2-vit-huge-patch14-224-vision-only",
     "date": "2026-08-22",
     "keyword": "vla",
     "score": 3.9
   },
   {
-    "model": "UCSC-VLAA/openvision2-vit-huge-patch14-224-vision-only",
-    "downloads": 9,
-    "likes": 1,
-    "url": "https://huggingface.co/UCSC-VLAA/openvision2-vit-huge-patch14-224-vision-only",
+    "model": "novastar111/pacman_braidthin_forward_v2_cutoff50_kinf_world_model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/novastar111/pacman_braidthin_forward_v2_cutoff50_kinf_world_model",
     "date": "2026-08-22",
-    "keyword": "vla",
-    "score": 3.0
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "novastar111/pacman_braidthin_forward_v3_mixed_kinf_world_model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/novastar111/pacman_braidthin_forward_v3_mixed_kinf_world_model",
+    "date": "2026-08-22",
+    "keyword": "world model",
+    "score": 0.1
   },
   {
     "model": "Dimios45/yam-world-model",
@@ -186,6 +204,24 @@
     "url": "https://huggingface.co/Dimios45/yam-world-model",
     "date": "2026-08-22",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "jiyoungleehog/paper_020568542_embodied_ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jiyoungleehog/paper_020568542_embodied_ai",
+    "date": "2026-08-22",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "felixhayashi/paper_021042017_embodied_ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/felixhayashi/paper_021042017_embodied_ai",
+    "date": "2026-08-22",
+    "keyword": "embodied",
     "score": 0.1
   },
   {
@@ -261,19 +297,19 @@
     "score": 0.1
   },
   {
-    "model": "samithva/cosmos_policy_acwam_18k",
+    "model": "Roy229/equipment-return-policy-3410",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/samithva/cosmos_policy_acwam_18k",
+    "url": "https://huggingface.co/Roy229/equipment-return-policy-3410",
     "date": "2026-08-22",
     "keyword": "policy",
     "score": 0.1
   },
   {
-    "model": "Roy229/equipment-return-policy-3410",
+    "model": "samithva/cosmos_policy_acwam_18k",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Roy229/equipment-return-policy-3410",
+    "url": "https://huggingface.co/samithva/cosmos_policy_acwam_18k",
     "date": "2026-08-22",
     "keyword": "policy",
     "score": 0.1
@@ -321,6 +357,15 @@
     "url": "https://huggingface.co/makkold/hf_act_policy",
     "date": "2026-08-22",
     "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Rohitiyerpan/paper_022001300_robotics_vision_language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Rohitiyerpan/paper_022001300_robotics_vision_language",
+    "date": "2026-08-22",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -387,67 +432,49 @@
     "score": 0.1
   },
   {
-    "model": "santosrafael/paper_021123403_embodied_ai",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/santosrafael/paper_021123403_embodied_ai",
-    "date": "2026-08-21",
-    "keyword": "embodied",
-    "score": 0.1
-  },
-  {
-    "model": "marcusho0509/paper_020663490_embodied_ai",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/marcusho0509/paper_020663490_embodied_ai",
-    "date": "2026-08-21",
-    "keyword": "embodied",
-    "score": 0.1
-  },
-  {
     "model": "evidence-for-climate-solutions/climatebert-policyinstruments-expost_exante",
-    "downloads": 3,
+    "downloads": 12,
     "likes": 0,
     "url": "https://huggingface.co/evidence-for-climate-solutions/climatebert-policyinstruments-expost_exante",
     "date": "2026-08-21",
     "keyword": "policy",
-    "score": 1.0
+    "score": 3.7
   },
   {
     "model": "evidence-for-climate-solutions/climatebert-policyinstruments-govlevel",
-    "downloads": 4,
+    "downloads": 14,
     "likes": 0,
     "url": "https://huggingface.co/evidence-for-climate-solutions/climatebert-policyinstruments-govlevel",
     "date": "2026-08-21",
     "keyword": "policy",
-    "score": 1.3
+    "score": 4.3
   },
   {
     "model": "evidence-for-climate-solutions/climatebert-policyinstruments-evidencetype",
-    "downloads": 4,
+    "downloads": 11,
     "likes": 0,
     "url": "https://huggingface.co/evidence-for-climate-solutions/climatebert-policyinstruments-evidencetype",
     "date": "2026-08-21",
     "keyword": "policy",
-    "score": 1.3
+    "score": 3.4
   },
   {
     "model": "evidence-for-climate-solutions/climatebert-policyinstruments-sector",
-    "downloads": 6,
+    "downloads": 12,
     "likes": 0,
     "url": "https://huggingface.co/evidence-for-climate-solutions/climatebert-policyinstruments-sector",
     "date": "2026-08-21",
     "keyword": "policy",
-    "score": 1.9
+    "score": 3.7
   },
   {
     "model": "evidence-for-climate-solutions/climatebert-policyinstruments-instrument-iii",
-    "downloads": 4,
+    "downloads": 8,
     "likes": 0,
     "url": "https://huggingface.co/evidence-for-climate-solutions/climatebert-policyinstruments-instrument-iii",
     "date": "2026-08-21",
     "keyword": "policy",
-    "score": 1.3
+    "score": 2.5
   },
   {
     "model": "nicolemoore/paper_021961853_robotics_vision_language",
@@ -553,24 +580,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/novastar111/pacman_braidthin_cot_chunk_k10_world_model",
-    "date": "2026-08-18",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "novastar111/pacman_braidthin_noncot_chunk_k5_world_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/novastar111/pacman_braidthin_noncot_chunk_k5_world_model",
-    "date": "2026-08-18",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "novastar111/pusht_noncot_chunk_k1_world_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/novastar111/pusht_noncot_chunk_k1_world_model",
     "date": "2026-08-18",
     "keyword": "world model",
     "score": 0.1

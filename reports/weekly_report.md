@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-22 07:21 UTC
+Generated: 2026-08-22 08:14 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,9 +15,9 @@ Generated: 2026-08-22 07:21 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | commaai/openpilot | 63468 | 25387.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44398 | 17759.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44399 | 17759.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30345 | 12138.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16152 | 6460.9 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16153 | 6461.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15723 | 6289.3 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
@@ -25,7 +25,7 @@ Generated: 2026-08-22 07:21 UTC
 | --- | --- | --- | --- |
 | physicalai-bmi/efa-1 | 236 | 70.9 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
 | physicalairi/so101_1200ep_smolvla | 87 | 26.2 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
-| UCSC-VLAA/openvision2-vit-large-patch14-224-vision-only | 80 | 24.3 | [link](https://huggingface.co/UCSC-VLAA/openvision2-vit-large-patch14-224-vision-only) |
+| UCSC-VLAA/openvision2-vit-large-patch14-224-vision-only | 86 | 26.1 | [link](https://huggingface.co/UCSC-VLAA/openvision2-vit-large-patch14-224-vision-only) |
 | physicalairi/so101_1200ep_pi05 | 41 | 12.4 | [link](https://huggingface.co/physicalairi/so101_1200ep_pi05) |
 | Idan/fga-navigation | 41 | 12.4 | [link](https://huggingface.co/Idan/fga-navigation) |
 
@@ -42,7 +42,7 @@ Generated: 2026-08-22 07:21 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-22 | An Espoo robotics startup just raised €6.4 million to put “physical AI” into infrastructure factories — robotic 3D printers that monitor their own production, paired with a new concrete mix being developed to become carbon-negative rather than carbon-heavy. - Silicon Canals | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU3VCQmFIb0tncXVZd1VmLWhub0ZGWlY1VWVVSWtQeTR3OWt2Q0dxVDducVFVX3BHQlVWSmJrN2o2bTJwN01iSW1qcXoxdGdnWVJfakNCWDZLelEtTFhpUHp4eW5hZXBEQVBOLTV6bktTam84ejhkeUJfMTZaLWZubTJFU3VPLXNiV1lr?oc=5) |
+| 2026-08-22 | ACE Robotics chairman says robot brains will have ‘ChatGPT moment’ by end of 2027 - 95 KQDS | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0VqdldiOUt6Y2cxaFBSd1FkUkk3YlRxajlmZThlMHU2MWJEcmtZTzlmRmFZckh5el83V1BYUGV6QWJhMEJfMlJaemM0VkdjYUItX0MzYXpTRGdrV09fcTFpdkhPclQxQzN3NjFQY2lvVXdXVUI5YWl5MFpySUpWOU5xUzhaZ21SOHJXM0xSaFd6TEFDSDV3elp2cnFUYlNSVlNMclN3Zk0?oc=5) |
 | 2026-08-21 | Why Georgia Could Have an Edge in Physical AI - Hypepotamus | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ybXpLaldoTmdteTkzWWZZZDQ3VkdUalpmSU01UmRTSEZvN25USGFBYzJubGlEamJycDBTMW1qT3F4ZXFpZ3pEV0tyS2ZWcDBwQldYX1UtZkdIdkdRQTZLVkNrYUY0bVpB?oc=5) |
 | 2026-08-21 | Humanoid Robots Poised for Breakthrough in Embodied AI by 2024 - Devdiscourse | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4d9IBvwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4dw?oc=5) |
-| 2026-08-21 | ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027 | Gulf Times - Gulf Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxONk5McWd3N3ZHMHZGcnlvdUZFcEtRS01UcEt1cHR5NEdXaGxIMkVRNC1kVXVQRmpGVUhnQUo0dEUwOE5CWVVrOEQzZnU5MHREUHRLNjVmeldrLXNvMm9JNEI3d1JsZi1WSUYwN3J1OEhXdFJWOWFGVVVkMjNSTTU4S0ROSjNrcDZGanVuOGxsZFB1blM3amotLXlibmRrVG90cHYyMVNhdkFrRWltQmowZVFHVFdzaXVPOGtNZmp1SGdydUVPX0dCSmJn0gHPAUFVX3lxTE5ROWJzbDFMaDNrNnNHTUtLX1pUS2hXZThWd01kMDNobE1WSjdrSWJhZ2tfRFJUYXNzQkVOMDBObjhTc2g5eEtXQkd2d0RIbTBlVUd3OFVmU1psMzZmZ0dDMDhRTW9SQ2VIR1FzczR3c3dWODdSSmktQko4MEVMcldCTktpRkFJdVpZb2wtQVpyZV81cjQ2OFR0Vm5IcG8wbGZLb0xqTU9GdXB0M3p1VWY0enhsZFdndjF5Wm9qT2Z2QkxPM243YzI0eHFIdHN2OA?oc=5) |
 | 2026-08-20 | Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUpET2g2MTNFVnVnRVY3U2hob2UwcnpTYnhOQVJ2RDdFQW4zTHI2LThnelJwZV9CTUh6U1J0WlJOdkRGVnM1MVVQQ1hST281VHdXWV9BekdXQ2lFdWwycGQta1N1X3RTS25YNnh3em9RT0ZZVE14TUJTOUZjRHNzM0tlU2lya0F0VHFLdDcwTG9LaUtvZFVyaXEzaHZySGRqb19EbldTNVpGQQ?oc=5) |
