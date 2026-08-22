@@ -1,13 +1,13 @@
 [
   {
     "repo": "commaai/openpilot",
-    "stars": 63467,
+    "stars": 63468,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-22",
     "topic": "robotics",
-    "score": 25386.9
+    "score": 25387.3
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -18,6 +18,16 @@
     "date": "2026-08-22",
     "topic": "robotics",
     "score": 5850.1
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3891,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-08-22",
+    "topic": "embodied-ai",
+    "score": 1556.5
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -121,63 +131,53 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15721,
+    "stars": 15722,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-21",
     "topic": "robotics",
-    "score": 6288.5
+    "score": 6288.9
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13757,
+    "stars": 13758,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-21",
     "topic": "robotics",
-    "score": 5502.9
+    "score": 5503.3
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11335,
+    "stars": 11336,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-08-21",
     "topic": "robotics",
-    "score": 4534.1
+    "score": 4534.5
   },
   {
     "repo": "kornia/kornia",
-    "stars": 11322,
+    "stars": 11323,
     "language": "Python",
     "description": "🐍 Geometric Computer Vision Library for Spatial AI",
     "url": "https://github.com/kornia/kornia",
     "date": "2026-08-21",
     "topic": "robotics",
-    "score": 4528.9
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3891,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-08-21",
-    "topic": "embodied-ai",
-    "score": 1556.5
+    "score": 4529.3
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3299,
+    "stars": 3300,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-21",
     "topic": "embodied-ai",
-    "score": 1319.7
+    "score": 1320.1
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -271,13 +271,13 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4605,
+    "stars": 4606,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-20",
     "topic": "embodied-ai",
-    "score": 1842.1
+    "score": 1842.5
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
@@ -291,13 +291,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2264,
+    "stars": 2266,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-20",
     "topic": "robot-learning",
-    "score": 905.7
+    "score": 906.5
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -351,13 +351,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44395,
+    "stars": 44398,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 17758.1
+    "score": 17759.3
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -441,13 +441,13 @@
   },
   {
     "repo": "MirroS-Lab/HarnessEval-W",
-    "stars": 242,
+    "stars": 243,
     "language": "Python",
     "description": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
     "url": "https://github.com/MirroS-Lab/HarnessEval-W",
     "date": "2026-08-18",
     "topic": "world-model",
-    "score": 96.9
+    "score": 97.3
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -661,13 +661,13 @@
   },
   {
     "repo": "dexmal/dexbotic",
-    "stars": 1390,
+    "stars": 1391,
     "language": "Python",
     "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
     "url": "https://github.com/dexmal/dexbotic",
     "date": "2026-08-06",
     "topic": "vla",
-    "score": 556.1
+    "score": 556.5
   },
   {
     "repo": "zju3dv/INTACT-JEPA",
@@ -721,13 +721,13 @@
   },
   {
     "repo": "NVlabs/alpamayo2",
-    "stars": 199,
+    "stars": 200,
     "language": "Python",
     "description": "NVIDIA Alpamayo 2 Super is an open 34B multi-task foundation model designed to supercharge autonomous vehicle development.",
     "url": "https://github.com/NVlabs/alpamayo2",
     "date": "2026-08-05",
     "topic": "physical-ai",
-    "score": 79.7
+    "score": 80.1
   },
   {
     "repo": "mani-skill/ManiSkill",
@@ -781,13 +781,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15566,
+    "stars": 15565,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6226.5
+    "score": 6226.1
   },
   {
     "repo": "aalmuzairee/squint",
