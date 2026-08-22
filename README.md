@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-22 16:08 UTC
+Last Updated: 2026-08-22 17:09 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -37,6 +37,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-22 | How software-defined manufacturing fits into real factory operations | Robotics Business Review | [link](https://www.therobotreport.com/how-software-defined-manufacturing-fits-into-real-factory-operations/) |
 | 2026-08-22 | The technology that could bring robot mowers to one in two American lawns | Robotics Business Review | [link](https://www.therobotreport.com/technology-could-bring-robot-mowers-one-half-american-lawns/) |
+| 2026-08-22 | Robots don’t run themselves: The workforce powering physical AI | Robotics Business Review | [link](https://www.therobotreport.com/robots-dont-run-themselves-workforce-powering-physical-ai/) |
 | 2026-08-21 | Schaeffler plans to mass produce gearboxes for humanoid robots in 2027 | Robotics Business Review | [link](https://www.therobotreport.com/schaeffler-plans-to-mass-manufacture-gearboxes-for-humanoids-in-2027/) |
 | 2026-08-21 | Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch | Robotics Business Review | [link](https://www.therobotreport.com/amazons-bhavana-chandrashekhar-speaks-robobusiness-women-in-robotics-lunch/) |
 | 2026-08-20 | Agtonomy releases new autonomous multi-point turning features | Robotics Business Review | [link](https://www.therobotreport.com/agtonomy-releases-new-autonomous-multi-point-turning-features/) |
@@ -44,11 +45,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-20 | Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026 | Robotics Business Review | [link](https://www.therobotreport.com/amazon-plans-expand-prime-air-nearly-500-cities-by-end-2026/) |
 | 2026-08-19 | Pudu Robotics launches new MP2000 autonomous forklift | Robotics Business Review | [link](https://www.therobotreport.com/pudu-robotics-launches-new-mp2000-autonomous-forklift/) |
 | 2026-08-19 | Serve Robotics to deploy its autonomous delivery robots with Grubhub | Robotics Business Review | [link](https://www.therobotreport.com/serve-robotics-deploys-autonomous-delivery-robots-grubhub/) |
-| 2026-08-19 | What does Unitree Robotics’ IPO mean for the humanoid industry? | Robotics Business Review | [link](https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-22 | 555 Makes a Useful Beat Frequency Oscillator | Hackaday | [link](https://hackaday.com/2026/08/22/555-makes-a-useful-beat-frequency-oscillator/) |
 | 2026-08-22 | You Gotta Want It | Hackaday | [link](https://hackaday.com/2026/08/22/you-gotta-want-it/) |
 | 2026-08-22 | Building an Analog Geiger Counter | Hackaday | [link](https://hackaday.com/2026/08/22/building-an-analog-geiger-counter/) |
 | 2026-08-22 | Sleeper E-bike has Solenoid Display | Hackaday | [link](https://hackaday.com/2026/08/22/sleeper-e-bike-has-solenoid-display/) |
@@ -57,7 +58,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-22 | Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor | CNX Software | [link](https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/) |
 | 2026-08-22 | The Digi-Comp I, a plastic mechanical computer from 1963 | Adafruit | [link](https://blog.adafruit.com/2026/08/22/the-digi-comp-i-a-plastic-mechanical-computer-from-1963/) |
 | 2026-08-21 | Building a Hammond Organ to Understand How They Work | Hackaday | [link](https://hackaday.com/2026/08/21/building-a-hammond-organ-to-understand-how-they-work/) |
-| 2026-08-21 | Thermoacoustic Sterling Engine is Now Fully 3D Printable | Hackaday | [link](https://hackaday.com/2026/08/21/thermoacoustic-sterling-engine-is-now-fully-3d-printable/) |
 | 2026-08-21 | AAEON uCOM-Q6490 – A SMARC 2.1-compliant SoM powered by Qualcomm Dragonwing QCS6490 SoC | CNX Software | [link](https://www.cnx-software.com/2026/08/21/aaeon-ucom-q6490-a-smarc-2-1-qualcomm-dragonwing-qcs6490-som/) |
 
 ## New Research Papers
@@ -97,10 +97,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | RLinf/RLinf | 4609 | Python | 1843.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3893 | Rust | 1557.3 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 532 | HTML | 212.9 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 6244 | Python | 2497.7 | [link](https://github.com/vllm-project/vllm-omni) |
+| luohongk/Embodied-AI-Daily | 430 | HTML | 172.1 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
+| vllm-project/vllm-omni | 6245 | Python | 2498.1 | [link](https://github.com/vllm-project/vllm-omni) |
 | NucleoidAI/Nucleoid | 767 | Rust | 306.9 | [link](https://github.com/NucleoidAI/Nucleoid) |
 | zli12321/Vision-Language-Models-Overview | 698 | HTML | 279.3 | [link](https://github.com/zli12321/Vision-Language-Models-Overview) |
-| OpenHUTB/hutb | 546 | C++ | 218.5 | [link](https://github.com/OpenHUTB/hutb) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
