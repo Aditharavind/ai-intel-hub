@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-23 09:14 UTC
+Last Updated: 2026-08-23 10:10 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-23 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
+| 2026-08-23 | jmichalskipog/paper_021445162_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/jmichalskipog/paper_021445162_robotics_vision_language) |
 | 2026-08-23 | deepakmukherjee/paper_021393628_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/deepakmukherjee/paper_021393628_robotics_vision_language) |
 | 2026-08-23 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-23 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
@@ -85,22 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-23 | 7-in-days/vla_background_400_0818 | 1 | 0 | [link](https://huggingface.co/7-in-days/vla_background_400_0818) |
 | 2026-08-23 | cz22edd/vlaselect_test | 0 | 0 | [link](https://huggingface.co/cz22edd/vlaselect_test) |
 | 2026-08-23 | Dimios45/yam-world-model | 0 | 0 | [link](https://huggingface.co/Dimios45/yam-world-model) |
-| 2026-08-23 | jaeikkim/fr3-cube-mimicgen10k-diffusion-policy | 0 | 0 | [link](https://huggingface.co/jaeikkim/fr3-cube-mimicgen10k-diffusion-policy) |
-| 2026-08-23 | Revolabs/cortex_agv_noyolo_test_policy_1 | 4 | 0 | [link](https://huggingface.co/Revolabs/cortex_agv_noyolo_test_policy_1) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 3070 | Python | 1228.1 | [link](https://github.com/NVIDIA/skills) |
 | commaai/openpilot | 63475 | Python | 25390.1 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15726 | C++ | 6290.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| dora-rs/dora | 3892 | Rust | 1556.9 | [link](https://github.com/dora-rs/dora) |
+| ArduPilot/ardupilot | 15727 | C++ | 6290.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| dora-rs/dora | 3893 | Rust | 1557.3 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 533 | HTML | 213.3 | [link](https://github.com/sou350121/VLA-Handbook) |
 | RealXiaoze/humanoid-motion-intelligence | 397 |  | 158.9 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
 | vllm-project/vllm-omni | 6258 | Python | 2503.3 | [link](https://github.com/vllm-project/vllm-omni) |
 | softmata/horus | 422 | Rust | 168.9 | [link](https://github.com/softmata/horus) |
 | Tsinghua-MARS-Lab/OMG | 109 | Python | 43.7 | [link](https://github.com/Tsinghua-MARS-Lab/OMG) |
-| isaac-sim/IsaacLab | 7939 | Python | 3175.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| isaac-sim/IsaacLab | 7940 | Python | 3176.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
