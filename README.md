@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-23 10:10 UTC
+Last Updated: 2026-08-23 11:09 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-23 | Bluetooth Shock Collar Keeps Wearer On Task | Hackaday | [link](https://hackaday.com/2026/08/23/bluetooth-shock-collar-keeps-wearer-on-task/) |
 | 2026-08-23 | So, You Found a Foden Steam Lorry in a Field. What Next? | Hackaday | [link](https://hackaday.com/2026/08/23/so-you-found-a-foden-steam-lorry-in-a-field-what-next/) |
 | 2026-08-23 | Turning Corroded, Bug-Loving WiiMotes into a Working One | Hackaday | [link](https://hackaday.com/2026/08/22/turning-corroded-bug-loving-wiimotes-into-a-working-one/) |
 | 2026-08-23 | An Atari Desktop On A Sega | Hackaday | [link](https://hackaday.com/2026/08/22/an-atari-desktop-on-a-sega/) |
@@ -56,7 +57,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-22 | Open-Source ExpressLRS Receiver Reaches for Range | Hackaday | [link](https://hackaday.com/2026/08/22/open-source-expresslrs-receiver-reaches-for-range/) |
 | 2026-08-22 | The Shutter Makes This 3D Printed Camera Special | Hackaday | [link](https://hackaday.com/2026/08/22/the-shutter-makes-this-3d-printed-camera-special/) |
 | 2026-08-22 | 555 Makes a Useful Beat Frequency Oscillator | Hackaday | [link](https://hackaday.com/2026/08/22/555-makes-a-useful-beat-frequency-oscillator/) |
-| 2026-08-22 | You Gotta Want It | Hackaday | [link](https://hackaday.com/2026/08/22/you-gotta-want-it/) |
 | 2026-08-22 | Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor | CNX Software | [link](https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/) |
 | 2026-08-22 | The Perfect Cold Water  #piday #raspberrypi | Adafruit | [link](https://blog.adafruit.com/2026/08/22/the-perfect-cold-water-piday-raspberrypi/) |
 
@@ -92,12 +92,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 3070 | Python | 1228.1 | [link](https://github.com/NVIDIA/skills) |
-| commaai/openpilot | 63475 | Python | 25390.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63476 | Python | 25390.5 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15727 | C++ | 6290.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | dora-rs/dora | 3893 | Rust | 1557.3 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 533 | HTML | 213.3 | [link](https://github.com/sou350121/VLA-Handbook) |
 | RealXiaoze/humanoid-motion-intelligence | 397 |  | 158.9 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
-| vllm-project/vllm-omni | 6258 | Python | 2503.3 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 6260 | Python | 2504.1 | [link](https://github.com/vllm-project/vllm-omni) |
 | softmata/horus | 422 | Rust | 168.9 | [link](https://github.com/softmata/horus) |
 | Tsinghua-MARS-Lab/OMG | 109 | Python | 43.7 | [link](https://github.com/Tsinghua-MARS-Lab/OMG) |
 | isaac-sim/IsaacLab | 7940 | Python | 3176.1 | [link](https://github.com/isaac-sim/IsaacLab) |
@@ -119,8 +119,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-22 | ACE Robotics chairman says robot brains will have ‘ChatGPT moment’ by end of 2027 - WDEZ | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxOZXlxbEt2ZnM3c21uSm1zcGQ1TFRTemNRRjdhTWlYRU9CNXEtVkUzUVV5VmRPdS1xQ3QwS2dqTEtJMDhfTDZaZmFWNzIwNTRUemhKcFRYT2ozSkdXQlNIdmxDb0FfWUwxckVoNXE3dnFUZnpzdDlOQU10NnI2eW9wOTB0WVEyeDFlS0hyczhGdnY0YUdrOHB4ckNWM3NRYWc2dlZfZHRn?oc=5) |
 | 2026-08-21 | Why Georgia Could Have an Edge in Physical AI - Hypepotamus | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ybXpLaldoTmdteTkzWWZZZDQ3VkdUalpmSU01UmRTSEZvN25USGFBYzJubGlEamJycDBTMW1qT3F4ZXFpZ3pEV0tyS2ZWcDBwQldYX1UtZkdIdkdRQTZLVkNrYUY0bVpB?oc=5) |
-| 2026-08-21 | ACE Robotics chairman says robot brains will have ‘ChatGPT moment’ by end of 2027 - Y100 WNCY | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRFF6d1VSUkFqSVdSNjNQU2RaNWdVT0RwZmJSZHY0d0VJTUFyb1daWkRFelNqUm04MHRoSms4VjE0Y0lmTTJUT1hOeTkxM0FwZWQ1NmZZMlVxdE9MeDB2clRqQjRQcFdseXNpYXFWVnZnZ0VaLVdadFpidVhfVkhzT2oyTW5ZYTg2dExnRnhSZWtPSlNUZDQ2c3hBV0lXbnlFTXpRNl9n?oc=5) |
 | 2026-08-21 | Humanoid Robots Poised for Breakthrough in Embodied AI by 2024 - Devdiscourse | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4d9IBvwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4dw?oc=5) |
 | 2026-08-20 | Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUpET2g2MTNFVnVnRVY3U2hob2UwcnpTYnhOQVJ2RDdFQW4zTHI2LThnelJwZV9CTUh6U1J0WlJOdkRGVnM1MVVQQ1hST281VHdXWV9BekdXQ2lFdWwycGQta1N1X3RTS25YNnh3em9RT0ZZVE14TUJTOUZjRHNzM0tlU2lya0F0VHFLdDcwTG9LaUtvZFVyaXEzaHZySGRqb19EbldTNVpGQQ?oc=5) |
 | 2026-08-20 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
