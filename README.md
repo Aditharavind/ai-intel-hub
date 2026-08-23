@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-23 03:39 UTC
+Last Updated: 2026-08-23 04:24 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -78,6 +78,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-08-23 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
+| 2026-08-23 | MotionforgeGroup/X-VLA-CM-80000 | 0 | 0 | [link](https://huggingface.co/MotionforgeGroup/X-VLA-CM-80000) |
 | 2026-08-23 | 7-in-days/vla_background_400_0818 | 0 | 0 | [link](https://huggingface.co/7-in-days/vla_background_400_0818) |
 | 2026-08-23 | cz22edd/vlaselect_test | 0 | 0 | [link](https://huggingface.co/cz22edd/vlaselect_test) |
 | 2026-08-23 | Dimios45/yam-world-model | 0 | 0 | [link](https://huggingface.co/Dimios45/yam-world-model) |
@@ -86,21 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-22 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 | 2026-08-22 | YMmim/qwen2.5-0.5b-robot-cot-lora | 0 | 0 | [link](https://huggingface.co/YMmim/qwen2.5-0.5b-robot-cot-lora) |
 | 2026-08-22 | walk-er88/paper_021859239_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/walk-er88/paper_021859239_robotics_vision_language) |
-| 2026-08-22 | milab-robot/alm1-0818-amore | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0818-amore) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3068 | Python | 1227.3 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3069 | Python | 1227.7 | [link](https://github.com/NVIDIA/skills) |
 | ArduPilot/ardupilot | 15725 | C++ | 6290.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | dora-rs/dora | 3892 | Rust | 1556.9 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 533 | HTML | 213.3 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 6252 | Python | 2500.9 | [link](https://github.com/vllm-project/vllm-omni) |
 | softmata/horus | 421 | Rust | 168.5 | [link](https://github.com/softmata/horus) |
+| Tsinghua-MARS-Lab/OMG | 109 | Python | 43.7 | [link](https://github.com/Tsinghua-MARS-Lab/OMG) |
 | commaai/openpilot | 63476 | Python | 25390.5 | [link](https://github.com/commaai/openpilot) |
 | google-deepmind/mujoco | 14634 | C++ | 5853.7 | [link](https://github.com/google-deepmind/mujoco) |
 | RLinf/RLinf | 4612 | Python | 1844.9 | [link](https://github.com/RLinf/RLinf) |
-| luohongk/Embodied-AI-Daily | 430 | HTML | 172.1 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| vllm-project/vllm-omni | 6251 | Python | 2500.5 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
