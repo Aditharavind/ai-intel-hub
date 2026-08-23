@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-23 18:10 UTC
+Last Updated: 2026-08-23 19:12 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -92,9 +92,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 3076 | Python | 1230.5 | [link](https://github.com/NVIDIA/skills) |
-| commaai/openpilot | 63476 | Python | 25390.5 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15728 | C++ | 6291.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13802 | Python | 5520.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| commaai/openpilot | 63477 | Python | 25390.9 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15729 | C++ | 6291.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| earthtojake/text-to-cad | 13803 | Python | 5521.3 | [link](https://github.com/earthtojake/text-to-cad) |
 | dora-rs/dora | 3893 | Rust | 1557.3 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 3314 | Python | 1325.7 | [link](https://github.com/datawhalechina/every-embodied) |
 | OpenDCAI/OpenWorldLib | 860 | Python | 344.1 | [link](https://github.com/OpenDCAI/OpenWorldLib) |
@@ -119,10 +119,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-23 | Physical AI Funding Hits $47.4B in H1 2026, Up 80%: The Capital Shift - Machine Brief | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWUdkc0p5eXpWdmUzbHhYOFZjTjRLNWJFQmZQblFZMkt5SUdQT09mcFNFai03T1U3RUZBblJhR3k2VGdyN0lrWUVUM2ZwT1QwcGVCVFVpU21VWFhwOWdBdUNoVUt0LXl5Nl8tOVpUbU9jc3lBbUxRT0I1d0M5MDE5aU01RDhEVTRTQVE?oc=5) |
 | 2026-08-21 | Why Georgia Could Have an Edge in Physical AI - Hypepotamus | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ybXpLaldoTmdteTkzWWZZZDQ3VkdUalpmSU01UmRTSEZvN25USGFBYzJubGlEamJycDBTMW1qT3F4ZXFpZ3pEV0tyS2ZWcDBwQldYX1UtZkdIdkdRQTZLVkNrYUY0bVpB?oc=5) |
 | 2026-08-21 | ACE Robotics chairman says robot brains will have ‘ChatGPT moment’ by end of 2027 - Y100 WNCY | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRFF6d1VSUkFqSVdSNjNQU2RaNWdVT0RwZmJSZHY0d0VJTUFyb1daWkRFelNqUm04MHRoSms4VjE0Y0lmTTJUT1hOeTkxM0FwZWQ1NmZZMlVxdE9MeDB2clRqQjRQcFdseXNpYXFWVnZnZ0VaLVdadFpidVhfVkhzT2oyTW5ZYTg2dExnRnhSZWtPSlNUZDQ2c3hBV0lXbnlFTXpRNl9n?oc=5) |
 | 2026-08-21 | Humanoid Robots Poised for Breakthrough in Embodied AI by 2024 - Devdiscourse | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4d9IBvwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4dw?oc=5) |
-| 2026-08-20 | Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUpET2g2MTNFVnVnRVY3U2hob2UwcnpTYnhOQVJ2RDdFQW4zTHI2LThnelJwZV9CTUh6U1J0WlJOdkRGVnM1MVVQQ1hST281VHdXWV9BekdXQ2lFdWwycGQta1N1X3RTS25YNnh3em9RT0ZZVE14TUJTOUZjRHNzM0tlU2lya0F0VHFLdDcwTG9LaUtvZFVyaXEzaHZySGRqb19EbldTNVpGQQ?oc=5) |
 | 2026-08-20 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
 | 2026-08-20 | Humanoid robot crashes after Beijing sprint - The American Bazaar | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGkxUUNMWFNmOUVybkkzVzJMd3hZcGszYTVhWTdrNlY2VU10b01KdlJMSmlzajkzZFBCSWpGY0Y1U3J2a1B6Y0ZuVDdCN0JCekE1U2lRQ1RZUTc4dUpVVVZoa1JZeF9nZGNRdXp4d0tBLTFyTXY1d3ZNWHUtcHpzbEN1S29hUEEzNUlLX0t6UjYwUQ?oc=5) |
 | 2026-08-19 | Former Nvidia lab leader Sanja Fidler launches Veeda AI to tackle world models - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRreGNHRzNvY0NlNVdjdk9fUEtrakxxT3E3WWJPMmxLc2FBeXdpcjdXTElsV3FBX0pBYUpXWHYzYlAzZ3o4WXk2MVZNS2tJQWg2bzBIendlWm9qTldRTzFLaERSZDd5UFUxZmZ6MnV5T0FBaHhYdEpIaU1UN3ZZcTg1RFZFcE5aUDJRaE9LTHRoS3ZPUmJ6RkZmbWxReWNI?oc=5) |
