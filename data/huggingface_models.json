@@ -45,19 +45,37 @@
     "score": 0.1
   },
   {
-    "model": "vladlinv/ru-pii-ner",
+    "model": "B111ue/fcl-vla-functional-support-canary",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/vladlinv/ru-pii-ner",
+    "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
     "date": "2026-08-23",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "B111ue/fcl-vla-functional-support-canary",
+    "model": "vladotpad/gpt2-one-euler-steering-denoiser",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
+    "url": "https://huggingface.co/vladotpad/gpt2-one-euler-steering-denoiser",
+    "date": "2026-08-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vladotpad/looped-qwen3-huginn-fineweb",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladotpad/looped-qwen3-huginn-fineweb",
+    "date": "2026-08-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vladlinv/ru-pii-ner",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladlinv/ru-pii-ner",
     "date": "2026-08-23",
     "keyword": "vla",
     "score": 0.1
@@ -241,24 +259,6 @@
     "date": "2026-08-22",
     "keyword": "vla",
     "score": 3.6
-  },
-  {
-    "model": "UCSC-VLAA/openvision2-vit-huge-patch14-448-vision-only",
-    "downloads": 10,
-    "likes": 1,
-    "url": "https://huggingface.co/UCSC-VLAA/openvision2-vit-huge-patch14-448-vision-only",
-    "date": "2026-08-22",
-    "keyword": "vla",
-    "score": 3.3
-  },
-  {
-    "model": "UCSC-VLAA/openvision2-vit-huge-patch14-336-vision-only",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/UCSC-VLAA/openvision2-vit-huge-patch14-336-vision-only",
-    "date": "2026-08-22",
-    "keyword": "vla",
-    "score": 4.0
   },
   {
     "model": "novastar111/pacman_braidthin_forward_v2_cutoff50_kinf_world_model",
