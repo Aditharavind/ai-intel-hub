@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-23 13:22 UTC
+Last Updated: 2026-08-23 14:11 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-23 | Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi | Hackaday | [link](https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/) |
 | 2026-08-23 | Bluetooth Shock Collar Keeps Wearer On Task | Hackaday | [link](https://hackaday.com/2026/08/23/bluetooth-shock-collar-keeps-wearer-on-task/) |
 | 2026-08-23 | So, You Found a Foden Steam Lorry in a Field. What Next? | Hackaday | [link](https://hackaday.com/2026/08/23/so-you-found-a-foden-steam-lorry-in-a-field-what-next/) |
 | 2026-08-23 | Turning Corroded, Bug-Loving WiiMotes into a Working One | Hackaday | [link](https://hackaday.com/2026/08/22/turning-corroded-bug-loving-wiimotes-into-a-working-one/) |
@@ -56,7 +57,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-23 | Framework Laptop 12 repairable, convertible laptop gets Wildcat Lake motherboard, ships with Fedora 44 or Windows 11 | CNX Software | [link](https://www.cnx-software.com/2026/08/23/framework-laptop-12-repairable-convertible-laptop-gets-wildcat-lake-motherboard-ships-with-fedora-44-or-windows-11/) |
 | 2026-08-22 | Open-Source ExpressLRS Receiver Reaches for Range | Hackaday | [link](https://hackaday.com/2026/08/22/open-source-expresslrs-receiver-reaches-for-range/) |
 | 2026-08-22 | The Shutter Makes This 3D Printed Camera Special | Hackaday | [link](https://hackaday.com/2026/08/22/the-shutter-makes-this-3d-printed-camera-special/) |
-| 2026-08-22 | 555 Makes a Useful Beat Frequency Oscillator | Hackaday | [link](https://hackaday.com/2026/08/22/555-makes-a-useful-beat-frequency-oscillator/) |
 | 2026-08-22 | Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor | CNX Software | [link](https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/) |
 | 2026-08-22 | The Perfect Cold Water  #piday #raspberrypi | Adafruit | [link](https://blog.adafruit.com/2026/08/22/the-perfect-cold-water-piday-raspberrypi/) |
 
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3073 | Python | 1229.3 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3074 | Python | 1229.7 | [link](https://github.com/NVIDIA/skills) |
 | commaai/openpilot | 63475 | Python | 25390.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15727 | C++ | 6290.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | dora-rs/dora | 3893 | Rust | 1557.3 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 3314 | Python | 1325.7 | [link](https://github.com/datawhalechina/every-embodied) |
+| OpenDCAI/OpenWorldLib | 860 | Python | 344.1 | [link](https://github.com/OpenDCAI/OpenWorldLib) |
 | sou350121/VLA-Handbook | 534 | HTML | 213.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| RealXiaoze/humanoid-motion-intelligence | 398 |  | 159.3 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
+| RealXiaoze/humanoid-motion-intelligence | 399 |  | 159.7 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
 | vllm-project/vllm-omni | 6262 | Python | 2504.9 | [link](https://github.com/vllm-project/vllm-omni) |
 | softmata/horus | 422 | Rust | 168.9 | [link](https://github.com/softmata/horus) |
-| Tsinghua-MARS-Lab/OMG | 109 | Python | 43.7 | [link](https://github.com/Tsinghua-MARS-Lab/OMG) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -110,10 +110,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-20 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxOLU9kZTRhZG95aFFQLU51bFN0elpRTUJMVVNRR1BsSGw1MlJRNDYweFdYdG5JNWtKQTJCQ1hNNGF5NmF4Wks4czN1NFNqcjFFOHJ5d1R2X0tPUTEzV0NjbXI1bFVFN3JTOXhSOXBkeUxHVEFPN3VFRVl1UnFqeGdreml6WDBYWTdjTWdnemttWks3M2Rv?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDJ3RXRVazJTNjZVUDg5SjZwWk5YdS13Snd5MVlwUnV5MVpsLWxBUjcyZ0dWcXVmQ3hQUFgzZ2RQbk5WUkVTUjV6UnRGZ0JpTU9lTU4zbFVSUG5wQjlDN3JvSDBpNFBYYzhQWkdGS3MyMHJ1bG9ab09GdUE0MDRINWhseDd3emZzWDNNM0JwUHVJTmFZX3N2d3k4M2Z4eU9IaHdrLU1MRllfYk83WkM5UWNLbVMxdVVXVjRGd2UwUQ?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVVGZ3Q4aW0tRF9FZm9UN04xSlNudWRHcVFVX3ljNTJ1YlBfcF9RQ3hTSW5zQkpSZWJHeEpramdGX0VZcGFXWTlPYWczQlg3anhtSHJFbGJCVzU3dFlYSy1LX0hOc3FjUUtNUWxKbnR1Ty1PbnZaM3BTSjc0TVJlQWtGb05mbFJuZ2o2T2FvVDlzRm5UMG4zUWpTZm41ZDVtcmZtLXYtWUZCbzFFSU9Sb1dzbTFraEZUSDVsZXpsN3ZzREHSAcMBQVVfeXFMT0Y4bkNZdW9FdEJQYy0tRlplcGVzYjNfd0J0RjVjS2N5X0NFMVBuWmwxemNDaHpmdXlCdWx3TzNWVENSN2E5eUNibHB5aFkxMGxLdGRTS1JkWXdOZ1lvZjNpWDliS0FlaXJRcF8xWUlYQTlUa0d4MUlaRHRaQnhRNlYtZHhlTDFURGRXbERBTklJYndjalFrRXZibjFYUzl4eURXeno3dkVkZWFWMGVtTnRaNnA5UGJueWZDbUxYWWVPU1FV?oc=5) |
+| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWx4dUhBckpyUko4NGppNk8tLWtCbzdhaHVaQzdKanVIZFVxdXJsWXhUZi12c2pMRGg2VFc5MVhIR184UkFTa3FWZTBtaTI0SXNjSllfS3dIMjltTVdnYWFsQS1XZVBKM2lvME5JdGJrTE5qNG5KVXMtWWE5QUxfV1pxdTJYZ0U4RGFnTDAzR1hmUQ?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wcVBCUWFNbEJ1LVVoVDBFTEtvLUs2SHl5NUdVR19kUFExVWpBYjFhZ2FjSmxabWtQZ2hPRnEwSW5OaERaajg1ZE5ZUW5SMXp0ZE1OYXdaUjNwb25QbEFHTXJCN0g5dU5pa1g0WW90WHJYd0FmcVdRdmNuNA?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWNGUDJYMjkyWll1LXFiS1dRVWZ5Z05ydFNMSE1iY29Bd215b01sYmlTQ3ZZX3FUTVp3ZnQzN2JjSmg1cTZGd1NaY3ppQ1F2d3BYWFNsdHI3SkZWZjdMb0VOd0ZNeHViNDBVYW1FNzZCQjFVbm5ITmtRSjhoR0FJSHFqdFphRzdjMFplNVpzbzRrcFJJdDdWSFQtT1V1UXV6MHJ6a1FlX3V5WjhVT1JqeVZjenBsTGlZVE5JZw?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFJKZmlaWUVYT050VDhEX05EQ1NnN2FVNXFFTFNabTM4a0ZrMUJheEQxMXpTSk5BRWx0dDV5TERGRDNnYW9qc205TDZyM25sZUxlWEkySm9VZEJETjhGWDAwZlFIbXpwbVlNaHFXU2p5U0hlY25falJDaUFPRlpOMXFLS3owckZISEFLREt2cFRuSkhYVWI1VXdNNF9Zajg4aUNxQnlGRXZTMDB4amc?oc=5) |
-| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxPSDRTcmQwb1phS2tMdHZ5Ry1WWm12Z3U2cl90Uk50R1phRWZSQkFtUXEwWk50Qjg2TUZFYk1Ga1dlNDNodHYxY3hSWVpyOVFqOWphZE13NnRpc2xVSlMzbE8yVmFjUnpnXzBscmRpTFhUUTBNbG1RQThrTWktdldod0VucDc3bkEzaDcyc1B1N1ZIREtsVlR5RklBSlVZUQ?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVU90emVCM05SQ0c3bXFtYk9TVnF6X0o4a0QtMHFvNjROZXpUVlpqME9LeXdLREVWc3ZFQm8wd1Zub2RhQmx3dVluSjJkQXR3M1pqcGRWeUZvaVZZZTBpcm43U0ZfSDcxV3JwdTloRFpVdk9zenBWMWExRDAwQUhHS2NybXlUNFNBYXRnNkgtWDJ4ZVZkMTFVX3JTc1dubF9sdkp3ejkyUnplQ3ozOGNMQVFIQkVPOFVMSmVMVmlCNmJuWk1OcmM5RnA1cjR5SmlyUkRJbQ?oc=5) |
 
 ## New Companies
