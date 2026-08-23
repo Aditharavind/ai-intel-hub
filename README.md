@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-23 17:09 UTC
+Last Updated: 2026-08-23 18:10 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -55,10 +55,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-23 | So, You Found a Foden Steam Lorry in a Field. What Next? | Hackaday | [link](https://hackaday.com/2026/08/23/so-you-found-a-foden-steam-lorry-in-a-field-what-next/) |
 | 2026-08-23 | Turning Corroded, Bug-Loving WiiMotes into a Working One | Hackaday | [link](https://hackaday.com/2026/08/22/turning-corroded-bug-loving-wiimotes-into-a-working-one/) |
 | 2026-08-23 | An Atari Desktop On A Sega | Hackaday | [link](https://hackaday.com/2026/08/22/an-atari-desktop-on-a-sega/) |
+| 2026-08-23 | Openterface KeyMod turns your smartphone into a USB keyboard, mouse, gamepad, or SSH client (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/24/openterface-keymod-turns-your-smartphone-into-a-usb-keyboard-mouse-gamepad-or-ssh-client/) |
 | 2026-08-23 | Framework Laptop 12 repairable, convertible laptop gets Wildcat Lake motherboard, ships with Fedora 44 or Windows 11 | CNX Software | [link](https://www.cnx-software.com/2026/08/23/framework-laptop-12-repairable-convertible-laptop-gets-wildcat-lake-motherboard-ships-with-fedora-44-or-windows-11/) |
 | 2026-08-22 | Open-Source ExpressLRS Receiver Reaches for Range | Hackaday | [link](https://hackaday.com/2026/08/22/open-source-expresslrs-receiver-reaches-for-range/) |
 | 2026-08-22 | Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor | CNX Software | [link](https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/) |
-| 2026-08-22 | The Perfect Cold Water  #piday #raspberrypi | Adafruit | [link](https://blog.adafruit.com/2026/08/22/the-perfect-cold-water-piday-raspberrypi/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3075 | Python | 1230.1 | [link](https://github.com/NVIDIA/skills) |
-| commaai/openpilot | 63475 | Python | 25390.1 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15727 | C++ | 6290.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| NVIDIA/skills | 3076 | Python | 1230.5 | [link](https://github.com/NVIDIA/skills) |
+| commaai/openpilot | 63476 | Python | 25390.5 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15728 | C++ | 6291.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| earthtojake/text-to-cad | 13802 | Python | 5520.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | dora-rs/dora | 3893 | Rust | 1557.3 | [link](https://github.com/dora-rs/dora) |
 | datawhalechina/every-embodied | 3314 | Python | 1325.7 | [link](https://github.com/datawhalechina/every-embodied) |
 | OpenDCAI/OpenWorldLib | 860 | Python | 344.1 | [link](https://github.com/OpenDCAI/OpenWorldLib) |
 | sou350121/VLA-Handbook | 534 | HTML | 213.7 | [link](https://github.com/sou350121/VLA-Handbook) |
+| flashrt-project/FlashRT | 522 | C++ | 208.9 | [link](https://github.com/flashrt-project/FlashRT) |
 | luohongk/Embodied-AI-Daily | 431 | HTML | 172.5 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| RealXiaoze/humanoid-motion-intelligence | 399 |  | 159.7 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
-| vllm-project/vllm-omni | 6264 | Python | 2505.7 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
