@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-23 21:09 UTC
+Last Updated: 2026-08-23 22:07 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -83,20 +83,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-23 | deepakmukherjee/paper_021393628_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/deepakmukherjee/paper_021393628_robotics_vision_language) |
 | 2026-08-23 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-23 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
+| 2026-08-23 | muniker/vla-jepa-so101-sort-150-white-mat-unfrozen | 0 | 0 | [link](https://huggingface.co/muniker/vla-jepa-so101-sort-150-white-mat-unfrozen) |
 | 2026-08-23 | vladotpad/gpt2-one-euler-steering-denoiser | 0 | 0 | [link](https://huggingface.co/vladotpad/gpt2-one-euler-steering-denoiser) |
 | 2026-08-23 | vladotpad/looped-qwen3-huginn-fineweb | 0 | 0 | [link](https://huggingface.co/vladotpad/looped-qwen3-huginn-fineweb) |
 | 2026-08-23 | vladlinv/ru-pii-ner | 0 | 0 | [link](https://huggingface.co/vladlinv/ru-pii-ner) |
-| 2026-08-23 | cz22edd/vlaselect_test | 0 | 0 | [link](https://huggingface.co/cz22edd/vlaselect_test) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3077 | Python | 1230.9 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3078 | Python | 1231.3 | [link](https://github.com/NVIDIA/skills) |
 | commaai/openpilot | 63477 | Python | 25390.9 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15729 | C++ | 6291.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13806 | Python | 5522.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| ArduPilot/ardupilot | 15730 | C++ | 6292.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| earthtojake/text-to-cad | 13808 | Python | 5523.3 | [link](https://github.com/earthtojake/text-to-cad) |
 | dora-rs/dora | 3893 | Rust | 1557.3 | [link](https://github.com/dora-rs/dora) |
-| knightnemo/Awesome-World-Models | 3331 |  | 1332.5 | [link](https://github.com/knightnemo/Awesome-World-Models) |
+| knightnemo/Awesome-World-Models | 3332 |  | 1332.9 | [link](https://github.com/knightnemo/Awesome-World-Models) |
 | datawhalechina/every-embodied | 3315 | Python | 1326.1 | [link](https://github.com/datawhalechina/every-embodied) |
 | OpenDCAI/OpenWorldLib | 860 | Python | 344.1 | [link](https://github.com/OpenDCAI/OpenWorldLib) |
 | sou350121/VLA-Handbook | 534 | HTML | 213.7 | [link](https://github.com/sou350121/VLA-Handbook) |
@@ -128,7 +128,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Former Nvidia lab leader Sanja Fidler launches Veeda AI to tackle world models - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRreGNHRzNvY0NlNVdjdk9fUEtrakxxT3E3WWJPMmxLc2FBeXdpcjdXTElsV3FBX0pBYUpXWHYzYlAzZ3o4WXk2MVZNS2tJQWg2bzBIendlWm9qTldRTzFLaERSZDd5UFUxZmZ6MnV5T0FBaHhYdEpIaU1UN3ZZcTg1RFZFcE5aUDJRaE9LTHRoS3ZPUmJ6RkZmbWxReWNI?oc=5) |
 | 2026-08-19 | Physical AI startup Enigma raises $71M seed to make robots easy to use - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXRaZzc5UlVLblMzeDExb1E2RzU0bmJwd2JVWG9PclZvenRzLWIzZVdUVXhBNVhaLV8yOVdQbkNTQmJIN3JmLVdRaWF4bFUwb1hpVHh5S25HeVNGb0lsdFFHa1dKdGZxUWRqUWQ5b0V6d0FsQU5RWW9nTDllZ2V6MUpZS2lUR1VDOXU1NGo3bjBvYVlHLTlTQWt3ZzF5eGZhNV9aNmJ3?oc=5) |
 | 2026-08-19 | Star researcher Sanja Fidler raises over US$90M for world model startup - The Logic | physical ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTE1LTEJEbDJEZ2pmV1VBeXNVQkVSLWc2c19ldUNzUUt2UzllMlN4R3J6dUNFS0o4ckdzdE1TMXhoZjI4Z0c1cVlNX1hoS3p0WnZsM3JBU1pncEtGamR4dnBUVEc2S3l2NERUb3dYSWp3b0R1dw?oc=5) |
-| 2026-08-19 | Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban - WSJ | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMktnNC1kMTFZTU5YWEI4RmxxZmRCMndOcV9vZVVqa2pjU2hmbkI0bFpYUVlGTDl2ZFNjTVpsam1jNHUzT2s1a3RNdWRobVdBMnpydDU1SVBJZGp6bGtRQThxSzJiNUMtN1YzVlBaTk9aWkZGajFzNEVHeUUzRnFuVExWZFhod1hYWXhydDB3a19ndVJ2Mm5lN19EN3Q?oc=5) |
+| 2026-08-19 | AI researcher Sanja Fidler raises US$90-million for robotics startup - The Globe and Mail | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1hiM1VrQ3VmZkp3TWRpaXpqVW93ZW9qN3NRdFJWcEdOZU9jTnFvb25ZY3BoVkhIMVo3NjZXYkxEbnlHU0stS1lsM042aWhvR0JNR0Z4RDV5c1hJWnprNmhzalRSUEdJSG5xdmtQWV9TcU5DV3ZHeXdoWkVuc01hMFA0d0ZZaW5EeVFFdlJ1OWd2UUlsNkt4RHVrdmxJYjJzelVjTE05eGtxV0RQcmpmdzdtX1NqZw?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

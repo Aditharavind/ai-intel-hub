@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-23 21:09 UTC
+Generated: 2026-08-23 22:07 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -18,7 +18,7 @@ Generated: 2026-08-23 21:09 UTC
 | NaiboWang/EasySpider | 44406 | 17762.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30351 | 12140.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16158 | 6463.3 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15729 | 6291.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15730 | 6292.1 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
