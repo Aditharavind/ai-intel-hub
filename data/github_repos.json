@@ -1,13 +1,33 @@
 [
   {
+    "repo": "dora-rs/dora",
+    "stars": 3892,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-08-23",
+    "topic": "embodied-ai",
+    "score": 1556.9
+  },
+  {
+    "repo": "softmata/horus",
+    "stars": 420,
+    "language": "Rust",
+    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
+    "url": "https://github.com/softmata/horus",
+    "date": "2026-08-23",
+    "topic": "humanoid",
+    "score": 168.1
+  },
+  {
     "repo": "commaai/openpilot",
-    "stars": 63473,
+    "stars": 63474,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-22",
     "topic": "robotics",
-    "score": 25389.3
+    "score": 25389.7
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -21,13 +41,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14631,
+    "stars": 14630,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-22",
     "topic": "robotics",
-    "score": 5852.5
+    "score": 5852.1
   },
   {
     "repo": "RLinf/RLinf",
@@ -38,16 +58,6 @@
     "date": "2026-08-22",
     "topic": "embodied-ai",
     "score": 1844.5
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3892,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-08-22",
-    "topic": "embodied-ai",
-    "score": 1556.9
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -71,13 +81,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6248,
+    "stars": 6249,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-22",
     "topic": "world-model",
-    "score": 2499.3
+    "score": 2499.7
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -108,16 +118,6 @@
     "date": "2026-08-22",
     "topic": "humanoid",
     "score": 218.5
-  },
-  {
-    "repo": "softmata/horus",
-    "stars": 420,
-    "language": "Rust",
-    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
-    "url": "https://github.com/softmata/horus",
-    "date": "2026-08-22",
-    "topic": "humanoid",
-    "score": 168.1
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -161,13 +161,13 @@
   },
   {
     "repo": "mosaico-labs/mosaico",
-    "stars": 945,
+    "stars": 946,
     "language": "Python",
     "description": "Mosaico - The data platform for Physical AI",
     "url": "https://github.com/mosaico-labs/mosaico",
     "date": "2026-08-21",
     "topic": "physical-ai",
-    "score": 378.1
+    "score": 378.5
   },
   {
     "repo": "awslabs/awsome-distributed-ai",
@@ -181,13 +181,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13777,
+    "stars": 13779,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-21",
     "topic": "robotics",
-    "score": 5510.9
+    "score": 5511.7
   },
   {
     "repo": "rerun-io/rerun",
@@ -351,13 +351,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44403,
+    "stars": 44404,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 17761.3
+    "score": 17761.7
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -860,13 +860,13 @@
     "score": 144.5
   },
   {
-    "repo": "thu-ml/Causal-Forcing",
-    "stars": 931,
-    "language": "Python",
-    "description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\" & Causal Forcing++",
-    "url": "https://github.com/thu-ml/Causal-Forcing",
-    "date": "2026-07-23",
+    "repo": "Meterless/Meterless",
+    "stars": 224,
+    "language": "TypeScript",
+    "description": "Local-first context layer for AI agents. Open-source memory, reasoning, world state, intent, and swarm engines.",
+    "url": "https://github.com/Meterless/Meterless",
+    "date": "2026-07-24",
     "topic": "world-model",
-    "score": 372.5
+    "score": 89.7
   }
 ]
