@@ -1,13 +1,23 @@
 [
   {
     "repo": "NVIDIA/skills",
-    "stars": 3069,
+    "stars": 3070,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-23",
     "topic": "physical-ai",
-    "score": 1227.7
+    "score": 1228.1
+  },
+  {
+    "repo": "commaai/openpilot",
+    "stars": 63475,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-08-23",
+    "topic": "robotics",
+    "score": 25390.1
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -41,33 +51,33 @@
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 396,
+    "stars": 397,
     "language": "",
     "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
     "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
     "date": "2026-08-23",
     "topic": "robot-learning",
-    "score": 158.5
+    "score": 158.9
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6255,
+    "stars": 6258,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-23",
     "topic": "world-model",
-    "score": 2502.1
+    "score": 2503.3
   },
   {
     "repo": "softmata/horus",
-    "stars": 421,
+    "stars": 422,
     "language": "Rust",
     "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
     "url": "https://github.com/softmata/horus",
     "date": "2026-08-23",
     "topic": "humanoid",
-    "score": 168.5
+    "score": 168.9
   },
   {
     "repo": "Tsinghua-MARS-Lab/OMG",
@@ -90,34 +100,24 @@
     "score": 3175.7
   },
   {
-    "repo": "commaai/openpilot",
-    "stars": 63475,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-08-22",
-    "topic": "robotics",
-    "score": 25390.1
-  },
-  {
     "repo": "google-deepmind/mujoco",
-    "stars": 14634,
+    "stars": 14635,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-22",
     "topic": "robotics",
-    "score": 5853.7
+    "score": 5854.1
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4613,
+    "stars": 4614,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-22",
     "topic": "embodied-ai",
-    "score": 1845.3
+    "score": 1845.7
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -201,13 +201,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13791,
+    "stars": 13792,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-21",
     "topic": "robotics",
-    "score": 5516.5
+    "score": 5516.9
   },
   {
     "repo": "rerun-io/rerun",
@@ -221,13 +221,13 @@
   },
   {
     "repo": "kornia/kornia",
-    "stars": 11323,
+    "stars": 11324,
     "language": "Python",
     "description": "🐍 Geometric Computer Vision Library for Spatial AI",
     "url": "https://github.com/kornia/kornia",
     "date": "2026-08-21",
     "topic": "robotics",
-    "score": 4529.3
+    "score": 4529.7
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -271,23 +271,23 @@
   },
   {
     "repo": "robocasa/robocasa",
-    "stars": 1663,
+    "stars": 1664,
     "language": "Python",
     "description": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
     "url": "https://github.com/robocasa/robocasa",
     "date": "2026-08-21",
     "topic": "robot-learning",
-    "score": 665.3
+    "score": 665.7
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2757,
+    "stars": 2758,
     "language": "Python",
     "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-08-20",
     "topic": "embodied-ai",
-    "score": 1102.9
+    "score": 1103.3
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
@@ -311,13 +311,13 @@
   },
   {
     "repo": "baidu-baige/LoongForge",
-    "stars": 452,
+    "stars": 455,
     "language": "Python",
     "description": "A unified, high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.",
     "url": "https://github.com/baidu-baige/LoongForge",
     "date": "2026-08-20",
     "topic": "vla",
-    "score": 180.9
+    "score": 182.1
   },
   {
     "repo": "NVlabs/ProtoMotions",
@@ -781,13 +781,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15576,
+    "stars": 15577,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6230.5
+    "score": 6230.9
   },
   {
     "repo": "aalmuzairee/squint",
@@ -851,13 +851,13 @@
   },
   {
     "repo": "manumerous/wb_humanoid_mpc",
-    "stars": 361,
+    "stars": 362,
     "language": "C++",
     "description": "Whole-Body Nonlinear MPC for Realtime Humanoid Loco-Manipulation Planning and Control",
     "url": "https://github.com/manumerous/wb_humanoid_mpc",
     "date": "2026-07-26",
     "topic": "humanoid",
-    "score": 144.5
+    "score": 144.9
   },
   {
     "repo": "Meterless/Meterless",

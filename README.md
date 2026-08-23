@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-23 08:14 UTC
+Last Updated: 2026-08-23 09:14 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-23 | deepakmukherjee/paper_021393628_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/deepakmukherjee/paper_021393628_robotics_vision_language) |
 | 2026-08-23 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-23 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
 | 2026-08-23 | kesnick/vlm-vla-test | 10 | 0 | [link](https://huggingface.co/kesnick/vlm-vla-test) |
 | 2026-08-23 | MotionforgeGroup/X-VLA-CM-80000 | 0 | 0 | [link](https://huggingface.co/MotionforgeGroup/X-VLA-CM-80000) |
-| 2026-08-23 | 7-in-days/vla_background_400_0818 | 0 | 0 | [link](https://huggingface.co/7-in-days/vla_background_400_0818) |
+| 2026-08-23 | 7-in-days/vla_background_400_0818 | 1 | 0 | [link](https://huggingface.co/7-in-days/vla_background_400_0818) |
 | 2026-08-23 | cz22edd/vlaselect_test | 0 | 0 | [link](https://huggingface.co/cz22edd/vlaselect_test) |
 | 2026-08-23 | Dimios45/yam-world-model | 0 | 0 | [link](https://huggingface.co/Dimios45/yam-world-model) |
 | 2026-08-23 | jaeikkim/fr3-cube-mimicgen10k-diffusion-policy | 0 | 0 | [link](https://huggingface.co/jaeikkim/fr3-cube-mimicgen10k-diffusion-policy) |
-| 2026-08-23 | Revolabs/cortex_agv_noyolo_test_policy_1 | 0 | 0 | [link](https://huggingface.co/Revolabs/cortex_agv_noyolo_test_policy_1) |
-| 2026-08-22 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
+| 2026-08-23 | Revolabs/cortex_agv_noyolo_test_policy_1 | 4 | 0 | [link](https://huggingface.co/Revolabs/cortex_agv_noyolo_test_policy_1) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3069 | Python | 1227.7 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3070 | Python | 1228.1 | [link](https://github.com/NVIDIA/skills) |
+| commaai/openpilot | 63475 | Python | 25390.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15726 | C++ | 6290.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | dora-rs/dora | 3892 | Rust | 1556.9 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 533 | HTML | 213.3 | [link](https://github.com/sou350121/VLA-Handbook) |
-| RealXiaoze/humanoid-motion-intelligence | 396 |  | 158.5 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
-| vllm-project/vllm-omni | 6255 | Python | 2502.1 | [link](https://github.com/vllm-project/vllm-omni) |
-| softmata/horus | 421 | Rust | 168.5 | [link](https://github.com/softmata/horus) |
+| RealXiaoze/humanoid-motion-intelligence | 397 |  | 158.9 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
+| vllm-project/vllm-omni | 6258 | Python | 2503.3 | [link](https://github.com/vllm-project/vllm-omni) |
+| softmata/horus | 422 | Rust | 168.9 | [link](https://github.com/softmata/horus) |
 | Tsinghua-MARS-Lab/OMG | 109 | Python | 43.7 | [link](https://github.com/Tsinghua-MARS-Lab/OMG) |
 | isaac-sim/IsaacLab | 7939 | Python | 3175.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| commaai/openpilot | 63475 | Python | 25390.1 | [link](https://github.com/commaai/openpilot) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,8 +119,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-22 | ACE Robotics chairman says robot brains will have ‘ChatGPT moment’ by end of 2027 - 102.7 WBOW | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORk9QdC02OEVsVzBaWDBYSDZER1AyN2pPdFo3azJfLUZSTjF6THF2Y2tQOWdMaEJfYzhBaU9tbldkRkdIVFV0Nzk3blZHT3VqdkVReWtYRUpqUkRlZlV1SDNISXBYNkhMdjJUQ21va3VtTU1iN0FvVVdJTExKZlBnSHg5UUtfcS0xQWNTSDh4SUN0N3JEa3BEcmpfU2RqY3pINk0xVlQtYmNUcjA?oc=5) |
 | 2026-08-21 | Why Georgia Could Have an Edge in Physical AI - Hypepotamus | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ybXpLaldoTmdteTkzWWZZZDQ3VkdUalpmSU01UmRTSEZvN25USGFBYzJubGlEamJycDBTMW1qT3F4ZXFpZ3pEV0tyS2ZWcDBwQldYX1UtZkdIdkdRQTZLVkNrYUY0bVpB?oc=5) |
+| 2026-08-21 | ACE Robotics chairman says robot brains will have ‘ChatGPT moment’ by end of 2027 - Y100 WNCY | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRFF6d1VSUkFqSVdSNjNQU2RaNWdVT0RwZmJSZHY0d0VJTUFyb1daWkRFelNqUm04MHRoSms4VjE0Y0lmTTJUT1hOeTkxM0FwZWQ1NmZZMlVxdE9MeDB2clRqQjRQcFdseXNpYXFWVnZnZ0VaLVdadFpidVhfVkhzT2oyTW5ZYTg2dExnRnhSZWtPSlNUZDQ2c3hBV0lXbnlFTXpRNl9n?oc=5) |
 | 2026-08-21 | Humanoid Robots Poised for Breakthrough in Embodied AI by 2024 - Devdiscourse | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4d9IBvwFBVV95cUxPOFlMcEd1SWNMOEdIUDdFNi1kR2NLcTVuSzZ2S0JiVVpLTFZ6WGVJZmVvUS04NUVsQ2g0WjJWQXlRMUxjbFcxZkdHNll5Y2tVRll6OUphRjZienFSN0pNU3dRTjlLQzFnT3Z4WjU3QU5sX3psdHM0dXQ3Vy1OcktGM21wcDhORm9EU0VfcGFKTGhkbXJYdjhsTzkxZFdHV2N1Zy1aekc1UUw1M0xERmFyMkpMb3k2Zlg1bXFqdXk4dw?oc=5) |
 | 2026-08-20 | Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUpET2g2MTNFVnVnRVY3U2hob2UwcnpTYnhOQVJ2RDdFQW4zTHI2LThnelJwZV9CTUh6U1J0WlJOdkRGVnM1MVVQQ1hST281VHdXWV9BekdXQ2lFdWwycGQta1N1X3RTS25YNnh3em9RT0ZZVE14TUJTOUZjRHNzM0tlU2lya0F0VHFLdDcwTG9LaUtvZFVyaXEzaHZySGRqb19EbldTNVpGQQ?oc=5) |
 | 2026-08-20 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
