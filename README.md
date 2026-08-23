@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-23 07:22 UTC
+Last Updated: 2026-08-23 08:14 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-23 | So, You Found a Foden Steam Lorry in a Field. What Next? | Hackaday | [link](https://hackaday.com/2026/08/23/so-you-found-a-foden-steam-lorry-in-a-field-what-next/) |
 | 2026-08-23 | Turning Corroded, Bug-Loving WiiMotes into a Working One | Hackaday | [link](https://hackaday.com/2026/08/22/turning-corroded-bug-loving-wiimotes-into-a-working-one/) |
 | 2026-08-23 | An Atari Desktop On A Sega | Hackaday | [link](https://hackaday.com/2026/08/22/an-atari-desktop-on-a-sega/) |
 | 2026-08-23 | Framework Laptop 12 repairable, convertible laptop gets Wildcat Lake motherboard, ships with Fedora 44 or Windows 11 | CNX Software | [link](https://www.cnx-software.com/2026/08/23/framework-laptop-12-repairable-convertible-laptop-gets-wildcat-lake-motherboard-ships-with-fedora-44-or-windows-11/) |
@@ -56,7 +57,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-22 | The Shutter Makes This 3D Printed Camera Special | Hackaday | [link](https://hackaday.com/2026/08/22/the-shutter-makes-this-3d-printed-camera-special/) |
 | 2026-08-22 | 555 Makes a Useful Beat Frequency Oscillator | Hackaday | [link](https://hackaday.com/2026/08/22/555-makes-a-useful-beat-frequency-oscillator/) |
 | 2026-08-22 | You Gotta Want It | Hackaday | [link](https://hackaday.com/2026/08/22/you-gotta-want-it/) |
-| 2026-08-22 | Building an Analog Geiger Counter | Hackaday | [link](https://hackaday.com/2026/08/22/building-an-analog-geiger-counter/) |
 | 2026-08-22 | Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor | CNX Software | [link](https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/) |
 | 2026-08-22 | The Perfect Cold Water  #piday #raspberrypi | Adafruit | [link](https://blog.adafruit.com/2026/08/22/the-perfect-cold-water-piday-raspberrypi/) |
 
@@ -96,10 +96,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | dora-rs/dora | 3892 | Rust | 1556.9 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 533 | HTML | 213.3 | [link](https://github.com/sou350121/VLA-Handbook) |
 | RealXiaoze/humanoid-motion-intelligence | 396 |  | 158.5 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
-| vllm-project/vllm-omni | 6254 | Python | 2501.7 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 6255 | Python | 2502.1 | [link](https://github.com/vllm-project/vllm-omni) |
 | softmata/horus | 421 | Rust | 168.5 | [link](https://github.com/softmata/horus) |
 | Tsinghua-MARS-Lab/OMG | 109 | Python | 43.7 | [link](https://github.com/Tsinghua-MARS-Lab/OMG) |
-| isaac-sim/IsaacLab | 7938 | Python | 3175.3 | [link](https://github.com/isaac-sim/IsaacLab) |
+| isaac-sim/IsaacLab | 7939 | Python | 3175.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 | commaai/openpilot | 63475 | Python | 25390.1 | [link](https://github.com/commaai/openpilot) |
 
 ## Startup Funding

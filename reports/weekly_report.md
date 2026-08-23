@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-23 07:22 UTC
+Generated: 2026-08-23 08:14 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,7 +15,7 @@ Generated: 2026-08-23 07:22 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | commaai/openpilot | 63475 | 25390.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44409 | 17763.7 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44408 | 17763.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30351 | 12140.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16155 | 6462.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15726 | 6290.5 | [link](https://github.com/ArduPilot/ardupilot) |
@@ -25,7 +25,7 @@ Generated: 2026-08-23 07:22 UTC
 | --- | --- | --- | --- |
 | physicalai-bmi/efa-1 | 119 | 35.8 | [link](https://huggingface.co/physicalai-bmi/efa-1) |
 | physicalairi/so101_1200ep_smolvla | 87 | 26.2 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
-| UCSC-VLAA/openvision2-vit-large-patch14-224-vision-only | 86 | 26.1 | [link](https://huggingface.co/UCSC-VLAA/openvision2-vit-large-patch14-224-vision-only) |
+| UCSC-VLAA/openvision2-vit-large-patch14-224-vision-only | 85 | 25.8 | [link](https://huggingface.co/UCSC-VLAA/openvision2-vit-large-patch14-224-vision-only) |
 | yangsamy/yangsamy_pi0_policy | 56 | 16.9 | [link](https://huggingface.co/yangsamy/yangsamy_pi0_policy) |
 | physicalairi/so101_1200ep_pi05 | 42 | 12.7 | [link](https://huggingface.co/physicalairi/so101_1200ep_pi05) |
 
