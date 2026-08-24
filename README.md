@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-24 00:26 UTC
+Last Updated: 2026-08-24 02:14 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-24 | 3D Printing a Railway Pump Car | Hackaday | [link](https://hackaday.com/2026/08/23/3d-printing-a-railway-pump-car/) |
 | 2026-08-24 | Ed And The Prodigal | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-and-the-prodigal-2026-08/) |
 | 2026-08-23 | Hackaday Links: August 23, 2026 | Hackaday | [link](https://hackaday.com/2026/08/23/hackaday-links-august-23-2026/) |
 | 2026-08-23 | Using the Basic SNES Hardware to Play Minecraft | Hackaday | [link](https://hackaday.com/2026/08/23/using-the-basic-snes-hardware-to-play-minecraft/) |
@@ -56,51 +57,50 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-23 | Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi | Hackaday | [link](https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/) |
 | 2026-08-23 | Bluetooth Shock Collar Keeps Wearer On Task | Hackaday | [link](https://hackaday.com/2026/08/23/bluetooth-shock-collar-keeps-wearer-on-task/) |
 | 2026-08-23 | So, You Found a Foden Steam Lorry in a Field. What Next? | Hackaday | [link](https://hackaday.com/2026/08/23/so-you-found-a-foden-steam-lorry-in-a-field-what-next/) |
-| 2026-08-23 | Turning Corroded, Bug-Loving WiiMotes into a Working One | Hackaday | [link](https://hackaday.com/2026/08/22/turning-corroded-bug-loving-wiimotes-into-a-working-one/) |
 | 2026-08-23 | Rockchip RV1126B-based Forlinx FCU3101 fanless edge AI system targets IIoT and smart security applications | CNX Software | [link](https://www.cnx-software.com/2026/08/24/rockchip-rv1126b-based-forlinx-fcu3101-fanless-edge-ai-system-targets-iiot-and-smart-security-applications/) |
 | 2026-08-23 | Openterface KeyMod turns your smartphone into a USB keyboard, mouse, gamepad, or SSH client (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/24/openterface-keymod-turns-your-smartphone-into-a-usb-keyboard-mouse-gamepad-or-ssh-client/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-08-20 | DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery | [link](https://arxiv.org/pdf/2608.20308v1) |
-| 2026-08-20 | Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning | [link](https://arxiv.org/pdf/2608.20284v1) |
-| 2026-08-20 | DART-S: Reachability-Audited Active-Suspension Preconditioning for Off-Road Vehicle Jumps | [link](https://arxiv.org/pdf/2608.20275v1) |
-| 2026-08-20 | Video2DoorTraversal: Push Door Traversal via Simulated Door Twins | [link](https://arxiv.org/pdf/2608.20251v1) |
-| 2026-08-20 | Growth Without Us: Machine Consumers, Corporate Circularity, and the Decoupling of GDP from Humanity after AGI | [link](https://arxiv.org/pdf/2608.20231v1) |
-| 2026-08-20 | RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation | [link](https://arxiv.org/pdf/2608.20208v1) |
-| 2026-08-20 | RMWorld: Task-Aware Radio World Models with Value-of-Information Guided Multi-Trial Learning for Multi-UAV Communication Control | [link](https://arxiv.org/pdf/2608.20126v1) |
-| 2026-08-20 | DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation | [link](https://arxiv.org/pdf/2608.20114v1) |
-| 2026-08-20 | Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms | [link](https://arxiv.org/pdf/2608.20111v1) |
-| 2026-08-20 | Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking | [link](https://arxiv.org/pdf/2608.20087v1) |
+| 2026-08-21 | Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction | [link](https://arxiv.org/pdf/2608.21358v1) |
+| 2026-08-21 | ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations | [link](https://arxiv.org/pdf/2608.21355v1) |
+| 2026-08-21 | Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation | [link](https://arxiv.org/pdf/2608.21332v1) |
+| 2026-08-21 | NeSAM: Neuro-Symbolic Kinodynamics with Soil Adaptation for Off-Road Mobility | [link](https://arxiv.org/pdf/2608.21330v1) |
+| 2026-08-21 | VLASS Discovery of a Luminous Galactic Radio Transient Evolving on Decade Timescales | [link](https://arxiv.org/pdf/2608.21320v1) |
+| 2026-08-21 | Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets | [link](https://arxiv.org/pdf/2608.21319v1) |
+| 2026-08-21 | When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning | [link](https://arxiv.org/pdf/2608.21300v1) |
+| 2026-08-21 | VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation | [link](https://arxiv.org/pdf/2608.21290v1) |
+| 2026-08-21 | Assessing Triple Modular Redundancy for Wide-Link, Low-Latency NoC Routers: Reliability and Physical Design Challenges | [link](https://arxiv.org/pdf/2608.21288v1) |
+| 2026-08-21 | WildFin: An In-the-Wild Dataset for Fish Behavioral Recognition | [link](https://arxiv.org/pdf/2608.21281v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-24 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
+| 2026-08-24 | armanakbari4/fastwam-robotwin-joint-50k | 0 | 0 | [link](https://huggingface.co/armanakbari4/fastwam-robotwin-joint-50k) |
 | 2026-08-24 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-08-24 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
+| 2026-08-24 | XYZPIT/vlash-random4-ee-gr00t-n1.6-160000 | 0 | 0 | [link](https://huggingface.co/XYZPIT/vlash-random4-ee-gr00t-n1.6-160000) |
+| 2026-08-24 | hiskiv/cosmos-policy-lam-v2 | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam-v2) |
 | 2026-08-23 | sun-robot/pi05_color_sort_v1_qu_frozen | 0 | 0 | [link](https://huggingface.co/sun-robot/pi05_color_sort_v1_qu_frozen) |
 | 2026-08-23 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 | 2026-08-23 | jmichalskipog/paper_021445162_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/jmichalskipog/paper_021445162_robotics_vision_language) |
 | 2026-08-23 | deepakmukherjee/paper_021393628_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/deepakmukherjee/paper_021393628_robotics_vision_language) |
-| 2026-08-23 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
-| 2026-08-23 | muniker/vla-jepa-so101-sort-150-white-mat-unfrozen | 0 | 0 | [link](https://huggingface.co/muniker/vla-jepa-so101-sort-150-white-mat-unfrozen) |
-| 2026-08-23 | vladotpad/gpt2-one-euler-steering-denoiser | 0 | 0 | [link](https://huggingface.co/vladotpad/gpt2-one-euler-steering-denoiser) |
-| 2026-08-23 | vladotpad/looped-qwen3-huginn-fineweb | 0 | 0 | [link](https://huggingface.co/vladotpad/looped-qwen3-huginn-fineweb) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| ArduPilot/ardupilot | 15731 | C++ | 6292.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14640 | C++ | 5856.1 | [link](https://github.com/google-deepmind/mujoco) |
 | dora-rs/dora | 3893 | Rust | 1557.3 | [link](https://github.com/dora-rs/dora) |
-| NVIDIA/skills | 3078 | Python | 1231.3 | [link](https://github.com/NVIDIA/skills) |
+| isaac-sim/IsaacLab | 7941 | Python | 3176.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| DexForce/EmbodiChain | 212 | Python | 84.9 | [link](https://github.com/DexForce/EmbodiChain) |
+| NVIDIA/skills | 3079 | Python | 1231.7 | [link](https://github.com/NVIDIA/skills) |
 | commaai/openpilot | 63477 | Python | 25390.9 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15730 | C++ | 6292.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 13808 | Python | 5523.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13812 | Python | 5524.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | knightnemo/Awesome-World-Models | 3333 |  | 1333.3 | [link](https://github.com/knightnemo/Awesome-World-Models) |
-| datawhalechina/every-embodied | 3315 | Python | 1326.1 | [link](https://github.com/datawhalechina/every-embodied) |
-| OpenDCAI/OpenWorldLib | 860 | Python | 344.1 | [link](https://github.com/OpenDCAI/OpenWorldLib) |
-| sou350121/VLA-Handbook | 534 | HTML | 213.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| flashrt-project/FlashRT | 522 | C++ | 208.9 | [link](https://github.com/flashrt-project/FlashRT) |
+| datawhalechina/every-embodied | 3319 | Python | 1327.7 | [link](https://github.com/datawhalechina/every-embodied) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
