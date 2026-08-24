@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-24 15:26 UTC
+Last Updated: 2026-08-24 16:20 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -21,6 +21,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Physical AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-21 | Video Friday: Do We Need Superhuman Humanoid Robots? | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-unitree-superhuman) |
 | 2026-08-19 | What does Unitree Robotics’ IPO mean for the humanoid industry? | Robotics Business Review | [link](https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry/) |
 | 2026-08-13 | Experts to discuss the state of humanoid robots at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/experts-discuss-state-humanoid-robots-robobusiness-2026/) |
 | 2026-08-10 | RoboStore launches Robo Inc. to help U.S. organizations deploy robots | Robotics Business Review | [link](https://www.therobotreport.com/robostore-launches-robo-inc-to-help-u-s-organizations-deploy-robots/) |
@@ -30,7 +31,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-07-20 | Boston Dynamics to discuss the art behind human-robot interaction | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-discuss-art-behind-human-robot-interaction/) |
 | 2026-07-17 | Video Friday: Your Robot Surgeon Will See You Now | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robotic-surgery) |
 | 2026-07-10 | Video Friday: A World Cup for Robots | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-robot-world-cup) |
-| 2026-07-08 | NVIDIA and Hugging Face bring new models and frameworks to LeRobot | Robotics Business Review | [link](https://www.therobotreport.com/nvidia-hugging-face-bring-new-models-frameworks-lerobot/) |
 
 ## Robotics News
 | Date | Title | Source | URL |
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-24 | Combining Photogrammetry Utilities into a Simple GUI Tool | Hackaday | [link](https://hackaday.com/2026/08/24/combining-photogrammetry-utilities-into-a-simple-gui-tool/) |
 | 2026-08-24 | An Early History of Space Stations: Where’s My Wheel? | Hackaday | [link](https://hackaday.com/2026/08/24/an-early-history-of-space-stations-wheres-my-wheel/) |
 | 2026-08-24 | Making Better Rubies At Home | Hackaday | [link](https://hackaday.com/2026/08/24/making-better-rubies-at-home/) |
 | 2026-08-24 | The Casio F-91W As A Contactless Payment Device. | Hackaday | [link](https://hackaday.com/2026/08/24/the-casio-f-91w-as-a-contactless-payment-device/) |
@@ -58,21 +59,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-24 | $60+ Nordic Semi nRF93M1 Development Kit (DK) targets LTE Cat 1 bis IoT applications | CNX Software | [link](https://www.cnx-software.com/2026/08/24/60-nordic-semi-nrf93m1-development-kit-dk-targets-lte-cat-1-bis-iot-applications/) |
 | 2026-08-24 | Mikroe Releases RTLS UWB Click Board | Embedded.com | [link](https://www.embedded.com/mikroe-releases-rtls-uwb-click-board/) |
 | 2026-08-24 | Social Media’s Negative Effects On The Young | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/social-medias-negative-effects-on-the-young-2026-08/) |
-| 2026-08-24 | Infineon buys C2i Semiconductors | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/infineon-buys-c2i-semiconductors-2026-08/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-08-21 | Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction | [link](https://arxiv.org/pdf/2608.21358v1) |
-| 2026-08-21 | ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations | [link](https://arxiv.org/pdf/2608.21355v1) |
-| 2026-08-21 | Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation | [link](https://arxiv.org/pdf/2608.21332v1) |
-| 2026-08-21 | NeSAM: Neuro-Symbolic Kinodynamics with Soil Adaptation for Off-Road Mobility | [link](https://arxiv.org/pdf/2608.21330v1) |
-| 2026-08-21 | VLASS Discovery of a Luminous Galactic Radio Transient Evolving on Decade Timescales | [link](https://arxiv.org/pdf/2608.21320v1) |
-| 2026-08-21 | Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets | [link](https://arxiv.org/pdf/2608.21319v1) |
-| 2026-08-21 | When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning | [link](https://arxiv.org/pdf/2608.21300v1) |
-| 2026-08-21 | VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation | [link](https://arxiv.org/pdf/2608.21290v1) |
-| 2026-08-21 | Assessing Triple Modular Redundancy for Wide-Link, Low-Latency NoC Routers: Reliability and Physical Design Challenges | [link](https://arxiv.org/pdf/2608.21288v1) |
-| 2026-08-21 | WildFin: An In-the-Wild Dataset for Fish Behavioral Recognition | [link](https://arxiv.org/pdf/2608.21281v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
@@ -85,20 +74,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-24 | junbrro/egopi_directfk_domain_robotonly_208bal_bsz64_30k_vlmfreeze | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_directfk_domain_robotonly_208bal_bsz64_30k_vlmfreeze) |
 | 2026-08-24 | armanakbari4/fastwam-robotwin-joint-50k | 0 | 0 | [link](https://huggingface.co/armanakbari4/fastwam-robotwin-joint-50k) |
 | 2026-08-24 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
+| 2026-08-24 | LejuRobotics/LET-KUAVO-VLA-1.0-models | 0 | 0 | [link](https://huggingface.co/LejuRobotics/LET-KUAVO-VLA-1.0-models) |
 | 2026-08-24 | vladlen-beilik/Qwen3-TTS-12Hz-1.7B-Base | 0 | 0 | [link](https://huggingface.co/vladlen-beilik/Qwen3-TTS-12Hz-1.7B-Base) |
-| 2026-08-24 | kesnick/vlm-vla-test | 14 | 0 | [link](https://huggingface.co/kesnick/vlm-vla-test) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3082 | Python | 1232.9 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3084 | Python | 1233.7 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1462 | Rust | 584.9 | [link](https://github.com/copper-project/copper-rs) |
 | NVlabs/alpasim | 1192 | Python | 476.9 | [link](https://github.com/NVlabs/alpasim) |
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63484 | Python | 25393.7 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15734 | C++ | 6293.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 63483 | Python | 25393.3 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15735 | C++ | 6294.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14647 | C++ | 5858.9 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13839 | Python | 5535.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13842 | Python | 5536.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11342 | Rust | 4536.9 | [link](https://github.com/rerun-io/rerun) |
 | dora-rs/dora | 3894 | Rust | 1557.7 | [link](https://github.com/dora-rs/dora) |
 
@@ -119,16 +108,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-24 | Seedcamp leads $2.7M round for Ukrainian-founded physical AI startup Embedd - Tech Funding News | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzlXWjJwWk96QlN5dm5XZXduVW9ZS2RQQ3NTNm9SdWgxb2k2d2lyMTNjVWR5UllobWk5cllyRE5zUGdwQmNDTzVoQ19kLUdjNkJwa254Y3ZZSDh2eV9HX29vSVBLQlJmR0tfWXhDRXVYbjI3MVdzVG5tUXJKLUZoa1daTmljY0RqMkx1R1dqZ3AycU1xTmtzT19GbmdCZzdNMVIybExB?oc=5) |
+| 2026-08-24 | Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbncxd3NuTzh6dVBpYzZtb25BdlhWUnhjQ0lobHNCSFppV1M0aDQ3Rm83Tk9tRHNZNlIxX3JkTE1XWTZzdVkyNW9kMGdFTm1CcWtSQTVBT3RJWkxzNXNyMm5ueDg0MUZ0OVdTX2ZET1h4OHNqVTg0VncwMFM0QjRYNDhyRG90ZGdIU3R4UjN6V1p5UTkzUURobERIS19qMUhxSTlXWGkzbTFDdWlpN2hacWU5clhJTmNBMi1LaXNMVQ?oc=5) |
 | 2026-08-24 | Nio reportedly to invest in embodied AI startup founded by Ren Shaoqing, who will remain smart-driving chief - CnEVPost | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNEc3WllNcVBDOGt1T2VnY0hxd3ltb1ZmWEVubnVjeWNxNTlJRFdzM3NmSUJicFIzMVZYb19wWVpnYnRMX05XVWtHeUlPUlJXU1VhNWEzTExSM205MWloM3Z4UkNJMU5MakJReWtUUVpEZjg5N1EzS1JRYmN3WVQ2czBjUDNLa0E?oc=5) |
-| 2026-08-24 | Physical AI startup WATER raises $2.5 million in funding from Endiya Partners, others - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94N9IByAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94Nw?oc=5) |
+| 2026-08-24 | Seedcamp leads $2.7M round for Ukrainian-founded physical AI startup Embedd - Tech Funding News | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzlXWjJwWk96QlN5dm5XZXduVW9ZS2RQQ3NTNm9SdWgxb2k2d2lyMTNjVWR5UllobWk5cllyRE5zUGdwQmNDTzVoQ19kLUdjNkJwa254Y3ZZSDh2eV9HX29vSVBLQlJmR0tfWXhDRXVYbjI3MVdzVG5tUXJKLUZoa1daTmljY0RqMkx1R1dqZ3AycU1xTmtzT19GbmdCZzdNMVIybExB?oc=5) |
 | 2026-08-24 | London-based Embedd raises €2.3 million to build the software infrastructure for physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdzJRX0pSYTJhS0U4WWxJMTJTZ2xlcS14S1VETzE2emYzV2xBdURkcUFoVkxFSmx4cHN3UGU3MHcxdG5QMXVrT1VrRjlONmNnWUpCQmV6RUw2MnROb2ViZ1psME8tVXpSOXB3TE16S3JYVzU1ZENmVEl3VWdVeHY4WkpCSWhzellQcGxDQzJDYW15V1RUYzNZNDBDbThWRUxXLTd0UWNvamtFOVdBbFlNYUt6a29JWk5JRzBRM0dYcFdTS3Zna1pNcA?oc=5) |
+| 2026-08-24 | Physical AI startup WATER raises $2.5 million in funding from Endiya Partners, others - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94N9IByAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94Nw?oc=5) |
 | 2026-08-24 | Endiya Partners leads $2.5 Mn seed round in bio physical AI startup WATER - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UdIBqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UQ?oc=5) |
 | 2026-08-24 | $2.7 million funding round for Embedd’s physical AI - Startupbusiness.it | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGJUWThyOEtqRHd0LTlDd2NmMGxuRUNZajhyMlFXeTc1RnNjeTlCX1k5UWhqVGNtQzZiS1NHT0xmU1JLZkRsc3ZCZ2l2TENQT2d5LWVTMFprWmZXV3dlVG5KOEEwWDRNWVhFY09UZUQwVDJHczh1bzZkNGJtTzE3N200SVB5MXdVaFF3c3pJV3o0TUpOZ0E?oc=5) |
+| 2026-08-24 | Xpeng’s robotics unit valued at over $6.3 billion after record funding round - The Mighty 790 KFGO | embodied ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXBINzFQZURyd3RqaWE1UjJkMXVGTF81bnBEN3lxdkpaWktMNGJpT3IxYl9ZUjJkc29JaVNoTUp1OGVGQzZTVzRpRWJlWkZKV0N6NlZBWkdGd09TOHU5ekk4VE1DajBIckVlWkswbGQ1MURFcDI5WUxtMTdTdFA1OHJweHg4dHV1ZmdsdmozUGdNMndRNnYwRFVYLXFqLS11M1JDcWE4M2d2M1pD?oc=5) |
+| 2026-08-24 | General Intuition raises $6B for AI robotics foundation model - The Tech Buzz | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2VFampBSlJkTWFjZkhwRmRHSTl6dk9ZTFhkNThOQlFlNkpaYk5BeHhIOGlGZ0ZuZnlZOS1fbWFhSXJmNk05LVVDSndubUdpYmhqZzlvMkhHaDZic013QjdNUjgyRUNSZnZCdEEzV2M1Q1FTUlM2WmtSVGlYSUhQTG5sZEhEWkZFNEJCNUQxc3ZLeE82RDRzZw?oc=5) |
 | 2026-08-24 | Chinese Robot Tiangong Ultra Beat Usain Bolt's 100m Record Then Crashed - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXJpaG52X1NRUVlTYy1RZ09IeG8yUUNjaEZWYU5Rd0FtdVRCYk1GNmh4eEVoMFI2aGRYd2t2b29kNkgtZ2RJdUtpalNXY3ZBVTMzOEZGblVBcHByQWRRSjJMQWE4ZGRVNng4SmI3X0RBNEs5RENZQ0lEZkE5MVJja0ZtTlU4OXB0TnR3alE3TkY5QW9oLWVqU2E0d0FVRU0?oc=5) |
-| 2026-08-24 | Xpeng's robotics unit valued at over US$6.3 billion after record funding round - The Standard (HK) | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGx6NTVYNnRIRk9EOUFtSTI2UnB5V2pucDkyRlNDVDJSZ2RjQ05JOG96N3pvYWV2czlteUx0akpTWFlGZnBPZHYyUExXLUJsN0lMOENxSENjSkt6REU1RW5sOWRTa1prLXZ4QVhHa28wbzVSc0pGaFpqa3ZVbFF1TXRLRThuTnVmRl90aV9uTzdPcWI3ckdpZ0QydkFFNjBBTEhkLTZYMXJ1MVhTVDl6ZUxqUzRtdGNRdWQwN01UY205Tm1DRk9EcQ?oc=5) |
-| 2026-08-23 | Humanoid by Korean Startup to Serve as Teaching Tool in Nvidia Program - Seoul Economic Daily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUVxM1dEazV5Z1ltcWJkbE9LQ0N4U0Fab1dJNklWWFdZUWZFZnpLUmlVTGRwemZCTDZ6OW04aUNWUVZqdUF6NldSeHNHQmNOb0lsT0x0UXlEbGs5MTM1MFpVNGU3eHh6aHh5dzg3NDlKUUZHZ2NDMUxEeUl1aUVqazJQX3VFR2ZwbjAwTGlVTGMwRFZUUW9FZXVyaHlkRVBkclE?oc=5) |
-| 2026-08-22 | ACE Robotics chairman says robot brains will have ‘ChatGPT moment’ by end of 2027 - WDEZ | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxOZXlxbEt2ZnM3c21uSm1zcGQ1TFRTemNRRjdhTWlYRU9CNXEtVkUzUVV5VmRPdS1xQ3QwS2dqTEtJMDhfTDZaZmFWNzIwNTRUemhKcFRYT2ozSkdXQlNIdmxDb0FfWUwxckVoNXE3dnFUZnpzdDlOQU10NnI2eW9wOTB0WVEyeDFlS0hyczhGdnY0YUdrOHB4ckNWM3NRYWc2dlZfZHRn?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

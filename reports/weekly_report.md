@@ -1,33 +1,27 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-24 15:26 UTC
+Generated: 2026-08-24 16:20 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-08-21 | Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction | [link](https://arxiv.org/pdf/2608.21358v1) |
-| 2026-08-21 | ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations | [link](https://arxiv.org/pdf/2608.21355v1) |
-| 2026-08-21 | Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation | [link](https://arxiv.org/pdf/2608.21332v1) |
-| 2026-08-21 | NeSAM: Neuro-Symbolic Kinodynamics with Soil Adaptation for Off-Road Mobility | [link](https://arxiv.org/pdf/2608.21330v1) |
-| 2026-08-21 | VLASS Discovery of a Luminous Galactic Radio Transient Evolving on Decade Timescales | [link](https://arxiv.org/pdf/2608.21320v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63484 | 25393.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44409 | 17763.7 | [link](https://github.com/NaiboWang/EasySpider) |
+| commaai/openpilot | 63483 | 25393.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44408 | 17763.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30355 | 12142.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16158 | 6463.3 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15734 | 6293.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15735 | 6294.1 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | physicalairi/so101_1200ep_smolvla | 87 | 26.2 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
 | jagwang/mungkeul-physical-ai | 79 | 23.8 | [link](https://huggingface.co/jagwang/mungkeul-physical-ai) |
-| LCPRZZL/act_policy | 75 | 22.6 | [link](https://huggingface.co/LCPRZZL/act_policy) |
 | UnderTides/Embodied-Navigator-7B-GRPO | 48 | 14.7 | [link](https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO) |
 | physicalairi/so101_1200ep_pi05 | 43 | 13.0 | [link](https://huggingface.co/physicalairi/so101_1200ep_pi05) |
+| Idan/fga-navigation | 43 | 13.0 | [link](https://huggingface.co/Idan/fga-navigation) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +35,8 @@ Generated: 2026-08-24 15:26 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-24 | Seedcamp leads $2.7M round for Ukrainian-founded physical AI startup Embedd - Tech Funding News | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzlXWjJwWk96QlN5dm5XZXduVW9ZS2RQQ3NTNm9SdWgxb2k2d2lyMTNjVWR5UllobWk5cllyRE5zUGdwQmNDTzVoQ19kLUdjNkJwa254Y3ZZSDh2eV9HX29vSVBLQlJmR0tfWXhDRXVYbjI3MVdzVG5tUXJKLUZoa1daTmljY0RqMkx1R1dqZ3AycU1xTmtzT19GbmdCZzdNMVIybExB?oc=5) |
+| 2026-08-24 | Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbncxd3NuTzh6dVBpYzZtb25BdlhWUnhjQ0lobHNCSFppV1M0aDQ3Rm83Tk9tRHNZNlIxX3JkTE1XWTZzdVkyNW9kMGdFTm1CcWtSQTVBT3RJWkxzNXNyMm5ueDg0MUZ0OVdTX2ZET1h4OHNqVTg0VncwMFM0QjRYNDhyRG90ZGdIU3R4UjN6V1p5UTkzUURobERIS19qMUhxSTlXWGkzbTFDdWlpN2hacWU5clhJTmNBMi1LaXNMVQ?oc=5) |
 | 2026-08-24 | Nio reportedly to invest in embodied AI startup founded by Ren Shaoqing, who will remain smart-driving chief - CnEVPost | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNEc3WllNcVBDOGt1T2VnY0hxd3ltb1ZmWEVubnVjeWNxNTlJRFdzM3NmSUJicFIzMVZYb19wWVpnYnRMX05XVWtHeUlPUlJXU1VhNWEzTExSM205MWloM3Z4UkNJMU5MakJReWtUUVpEZjg5N1EzS1JRYmN3WVQ2czBjUDNLa0E?oc=5) |
-| 2026-08-24 | Physical AI startup WATER raises $2.5 million in funding from Endiya Partners, others - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94N9IByAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94Nw?oc=5) |
+| 2026-08-24 | Seedcamp leads $2.7M round for Ukrainian-founded physical AI startup Embedd - Tech Funding News | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzlXWjJwWk96QlN5dm5XZXduVW9ZS2RQQ3NTNm9SdWgxb2k2d2lyMTNjVWR5UllobWk5cllyRE5zUGdwQmNDTzVoQ19kLUdjNkJwa254Y3ZZSDh2eV9HX29vSVBLQlJmR0tfWXhDRXVYbjI3MVdzVG5tUXJKLUZoa1daTmljY0RqMkx1R1dqZ3AycU1xTmtzT19GbmdCZzdNMVIybExB?oc=5) |
 | 2026-08-24 | London-based Embedd raises €2.3 million to build the software infrastructure for physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdzJRX0pSYTJhS0U4WWxJMTJTZ2xlcS14S1VETzE2emYzV2xBdURkcUFoVkxFSmx4cHN3UGU3MHcxdG5QMXVrT1VrRjlONmNnWUpCQmV6RUw2MnROb2ViZ1psME8tVXpSOXB3TE16S3JYVzU1ZENmVEl3VWdVeHY4WkpCSWhzellQcGxDQzJDYW15V1RUYzNZNDBDbThWRUxXLTd0UWNvamtFOVdBbFlNYUt6a29JWk5JRzBRM0dYcFdTS3Zna1pNcA?oc=5) |
-| 2026-08-24 | Endiya Partners leads $2.5 Mn seed round in bio physical AI startup WATER - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UdIBqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UQ?oc=5) |
+| 2026-08-24 | Physical AI startup WATER raises $2.5 million in funding from Endiya Partners, others - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94N9IByAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94Nw?oc=5) |
