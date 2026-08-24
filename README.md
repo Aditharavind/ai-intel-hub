@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-24 02:14 UTC
+Last Updated: 2026-08-24 03:41 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -80,27 +80,27 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-24 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-24 | armanakbari4/fastwam-robotwin-joint-50k | 0 | 0 | [link](https://huggingface.co/armanakbari4/fastwam-robotwin-joint-50k) |
 | 2026-08-24 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
+| 2026-08-24 | MotionforgeGroup/VLA-Adapter-CM-80000 | 0 | 0 | [link](https://huggingface.co/MotionforgeGroup/VLA-Adapter-CM-80000) |
 | 2026-08-24 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
 | 2026-08-24 | XYZPIT/vlash-random4-ee-gr00t-n1.6-160000 | 0 | 0 | [link](https://huggingface.co/XYZPIT/vlash-random4-ee-gr00t-n1.6-160000) |
+| 2026-08-24 | Tron-Hayato/act-policy-test | 2 | 0 | [link](https://huggingface.co/Tron-Hayato/act-policy-test) |
 | 2026-08-24 | hiskiv/cosmos-policy-lam-v2 | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam-v2) |
 | 2026-08-23 | sun-robot/pi05_color_sort_v1_qu_frozen | 0 | 0 | [link](https://huggingface.co/sun-robot/pi05_color_sort_v1_qu_frozen) |
 | 2026-08-23 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
-| 2026-08-23 | jmichalskipog/paper_021445162_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/jmichalskipog/paper_021445162_robotics_vision_language) |
-| 2026-08-23 | deepakmukherjee/paper_021393628_robotics_vision_language | 0 | 0 | [link](https://huggingface.co/deepakmukherjee/paper_021393628_robotics_vision_language) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | ArduPilot/ardupilot | 15731 | C++ | 6292.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14640 | C++ | 5856.1 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14642 | C++ | 5856.9 | [link](https://github.com/google-deepmind/mujoco) |
 | dora-rs/dora | 3893 | Rust | 1557.3 | [link](https://github.com/dora-rs/dora) |
-| isaac-sim/IsaacLab | 7941 | Python | 3176.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| leofan90/Awesome-World-Models | 1978 | Python | 791.3 | [link](https://github.com/leofan90/Awesome-World-Models) |
+| luohongk/Embodied-AI-Daily | 432 | HTML | 172.9 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
+| vllm-project/vllm-omni | 6273 | Python | 2509.3 | [link](https://github.com/vllm-project/vllm-omni) |
+| isaac-sim/IsaacLab | 7942 | Python | 3176.9 | [link](https://github.com/isaac-sim/IsaacLab) |
 | DexForce/EmbodiChain | 212 | Python | 84.9 | [link](https://github.com/DexForce/EmbodiChain) |
+| Hebbian-Robotics/hflow | 123 | Python | 49.3 | [link](https://github.com/Hebbian-Robotics/hflow) |
 | NVIDIA/skills | 3079 | Python | 1231.7 | [link](https://github.com/NVIDIA/skills) |
-| commaai/openpilot | 63477 | Python | 25390.9 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 13812 | Python | 5524.9 | [link](https://github.com/earthtojake/text-to-cad) |
-| knightnemo/Awesome-World-Models | 3333 |  | 1333.3 | [link](https://github.com/knightnemo/Awesome-World-Models) |
-| datawhalechina/every-embodied | 3319 | Python | 1327.7 | [link](https://github.com/datawhalechina/every-embodied) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -113,8 +113,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVVGZ3Q4aW0tRF9FZm9UN04xSlNudWRHcVFVX3ljNTJ1YlBfcF9RQ3hTSW5zQkpSZWJHeEpramdGX0VZcGFXWTlPYWczQlg3anhtSHJFbGJCVzU3dFlYSy1LX0hOc3FjUUtNUWxKbnR1Ty1PbnZaM3BTSjc0TVJlQWtGb05mbFJuZ2o2T2FvVDlzRm5UMG4zUWpTZm41ZDVtcmZtLXYtWUZCbzFFSU9Sb1dzbTFraEZUSDVsZXpsN3ZzREHSAcMBQVVfeXFMT0Y4bkNZdW9FdEJQYy0tRlplcGVzYjNfd0J0RjVjS2N5X0NFMVBuWmwxemNDaHpmdXlCdWx3TzNWVENSN2E5eUNibHB5aFkxMGxLdGRTS1JkWXdOZ1lvZjNpWDliS0FlaXJRcF8xWUlYQTlUa0d4MUlaRHRaQnhRNlYtZHhlTDFURGRXbERBTklJYndjalFrRXZibjFYUzl4eURXeno3dkVkZWFWMGVtTnRaNnA5UGJueWZDbUxYWWVPU1FV?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wcVBCUWFNbEJ1LVVoVDBFTEtvLUs2SHl5NUdVR19kUFExVWpBYjFhZ2FjSmxabWtQZ2hPRnEwSW5OaERaajg1ZE5ZUW5SMXp0ZE1OYXdaUjNwb25QbEFHTXJCN0g5dU5pa1g0WW90WHJYd0FmcVdRdmNuNA?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWNGUDJYMjkyWll1LXFiS1dRVWZ5Z05ydFNMSE1iY29Bd215b01sYmlTQ3ZZX3FUTVp3ZnQzN2JjSmg1cTZGd1NaY3ppQ1F2d3BYWFNsdHI3SkZWZjdMb0VOd0ZNeHViNDBVYW1FNzZCQjFVbm5ITmtRSjhoR0FJSHFqdFphRzdjMFplNVpzbzRrcFJJdDdWSFQtT1V1UXV6MHJ6a1FlX3V5WjhVT1JqeVZjenBsTGlZVE5JZw?oc=5) |
-| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFJKZmlaWUVYT050VDhEX05EQ1NnN2FVNXFFTFNabTM4a0ZrMUJheEQxMXpTSk5BRWx0dDV5TERGRDNnYW9qc205TDZyM25sZUxlWEkySm9VZEJETjhGWDAwZlFIbXpwbVlNaHFXU2p5U0hlY25falJDaUFPRlpOMXFLS3owckZISEFLREt2cFRuSkhYVWI1VXdNNF9Zajg4aUNxQnlGRXZTMDB4amc?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxPSDRTcmQwb1phS2tMdHZ5Ry1WWm12Z3U2cl90Uk50R1phRWZSQkFtUXEwWk50Qjg2TUZFYk1Ga1dlNDNodHYxY3hSWVpyOVFqOWphZE13NnRpc2xVSlMzbE8yVmFjUnpnXzBscmRpTFhUUTBNbG1RQThrTWktdldod0VucDc3bkEzaDcyc1B1N1ZIREtsVlR5RklBSlVZUQ?oc=5) |
+| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVU90emVCM05SQ0c3bXFtYk9TVnF6X0o4a0QtMHFvNjROZXpUVlpqME9LeXdLREVWc3ZFQm8wd1Zub2RhQmx3dVluSjJkQXR3M1pqcGRWeUZvaVZZZTBpcm43U0ZfSDcxV3JwdTloRFpVdk9zenBWMWExRDAwQUhHS2NybXlUNFNBYXRnNkgtWDJ4ZVZkMTFVX3JTc1dubF9sdkp3ejkyUnplQ3ozOGNMQVFIQkVPOFVMSmVMVmlCNmJuWk1OcmM5RnA1cjR5SmlyUkRJbQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
