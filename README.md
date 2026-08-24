@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-24 18:19 UTC
+Last Updated: 2026-08-24 19:20 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-24 | At Last, A Gameboy Advance With Decent Audio | Hackaday | [link](https://hackaday.com/2026/08/24/at-last-a-gameboy-advance-with-decent-audio/) |
 | 2026-08-24 | Tech in Plain Sight: Vacuum Blood Collection | Hackaday | [link](https://hackaday.com/2026/08/24/tech-in-plain-sight-vacuum-blood-collection/) |
 | 2026-08-24 | Combining Photogrammetry Utilities into a Simple GUI Tool | Hackaday | [link](https://hackaday.com/2026/08/24/combining-photogrammetry-utilities-into-a-simple-gui-tool/) |
 | 2026-08-24 | An Early History of Space Stations: Where’s My Wheel? | Hackaday | [link](https://hackaday.com/2026/08/24/an-early-history-of-space-stations-wheres-my-wheel/) |
 | 2026-08-24 | Making Better Rubies At Home | Hackaday | [link](https://hackaday.com/2026/08/24/making-better-rubies-at-home/) |
 | 2026-08-24 | The Casio F-91W As A Contactless Payment Device. | Hackaday | [link](https://hackaday.com/2026/08/24/the-casio-f-91w-as-a-contactless-payment-device/) |
 | 2026-08-24 | Neo-Cyclostyle: Automatic Document Copying Devices in 1890 | Hackaday | [link](https://hackaday.com/2026/08/23/neo-cyclostyle-automatic-document-copying-devices-in-1890/) |
-| 2026-08-24 | 3D Printing a Railway Pump Car | Hackaday | [link](https://hackaday.com/2026/08/23/3d-printing-a-railway-pump-car/) |
+| 2026-08-24 | Jetway PIC-TWL1 Intel N150 Pico-ITX motherboard is made for industrial automation and embedded systems | CNX Software | [link](https://www.cnx-software.com/2026/08/25/jetway-pic-twl1-intel-n150-pico-itx-motherboard-is-made-for-industrial-automation-and-embedded-systems/) |
 | 2026-08-24 | MNT Station fanless, modular open-hardware computer supports a choice of 10+ Arm CPU or FPGA modules (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/24/mnt-station-fanless-modular-open-hardware-computer-supports-a-choice-of-10-arm-cpu-or-fpga-modules/) |
 | 2026-08-24 | $60+ Nordic Semi nRF93M1 Development Kit (DK) targets LTE Cat 1 bis IoT applications | CNX Software | [link](https://www.cnx-software.com/2026/08/24/60-nordic-semi-nrf93m1-development-kit-dk-targets-lte-cat-1-bis-iot-applications/) |
-| 2026-08-24 | Completing the Audit Trail: Why Embedded Teams Need Runtime Observability | Embedded.com | [link](https://www.embedded.com/completing-the-audit-trail-why-embedded-teams-need-runtime-observability/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -96,11 +96,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | NVlabs/alpasim | 1192 | Python | 476.9 | [link](https://github.com/NVlabs/alpasim) |
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63482 | Python | 25392.9 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30355 | Python | 12142.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | ArduPilot/ardupilot | 15735 | C++ | 6294.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14648 | C++ | 5859.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13845 | Python | 5538.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14649 | C++ | 5859.7 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13846 | Python | 5538.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11342 | Rust | 4536.9 | [link](https://github.com/rerun-io/rerun) |
-| kornia/kornia | 11324 | Python | 4529.7 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -124,11 +124,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-24 | Nio reportedly to invest in embodied AI startup founded by Ren Shaoqing, who will remain smart-driving chief - CnEVPost | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNEc3WllNcVBDOGt1T2VnY0hxd3ltb1ZmWEVubnVjeWNxNTlJRFdzM3NmSUJicFIzMVZYb19wWVpnYnRMX05XVWtHeUlPUlJXU1VhNWEzTExSM205MWloM3Z4UkNJMU5MakJReWtUUVpEZjg5N1EzS1JRYmN3WVQ2czBjUDNLa0E?oc=5) |
 | 2026-08-24 | London-based Embedd raises €2.3 million to build the software infrastructure for physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdzJRX0pSYTJhS0U4WWxJMTJTZ2xlcS14S1VETzE2emYzV2xBdURkcUFoVkxFSmx4cHN3UGU3MHcxdG5QMXVrT1VrRjlONmNnWUpCQmV6RUw2MnROb2ViZ1psME8tVXpSOXB3TE16S3JYVzU1ZENmVEl3VWdVeHY4WkpCSWhzellQcGxDQzJDYW15V1RUYzNZNDBDbThWRUxXLTd0UWNvamtFOVdBbFlNYUt6a29JWk5JRzBRM0dYcFdTS3Zna1pNcA?oc=5) |
 | 2026-08-24 | Physical AI startup WATER raises $2.5 million in funding from Endiya Partners, others - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94N9IByAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94Nw?oc=5) |
-| 2026-08-24 | Endiya Partners leads $2.5 Mn seed round in bio physical AI startup WATER - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UdIBqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UQ?oc=5) |
 | 2026-08-24 | $2.7 million funding round for Embedd’s physical AI - Startupbusiness.it | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGJUWThyOEtqRHd0LTlDd2NmMGxuRUNZajhyMlFXeTc1RnNjeTlCX1k5UWhqVGNtQzZiS1NHT0xmU1JLZkRsc3ZCZ2l2TENQT2d5LWVTMFprWmZXV3dlVG5KOEEwWDRNWVhFY09UZUQwVDJHczh1bzZkNGJtTzE3N200SVB5MXdVaFF3c3pJV3o0TUpOZ0E?oc=5) |
 | 2026-08-24 | Xpeng’s robotics unit valued at over $6.3 billion after record funding round - The Mighty 790 KFGO | embodied ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXBINzFQZURyd3RqaWE1UjJkMXVGTF81bnBEN3lxdkpaWktMNGJpT3IxYl9ZUjJkc29JaVNoTUp1OGVGQzZTVzRpRWJlWkZKV0N6NlZBWkdGd09TOHU5ekk4VE1DajBIckVlWkswbGQ1MURFcDI5WUxtMTdTdFA1OHJweHg4dHV1ZmdsdmozUGdNMndRNnYwRFVYLXFqLS11M1JDcWE4M2d2M1pD?oc=5) |
 | 2026-08-24 | General Intuition raises $6B for AI robotics foundation model - The Tech Buzz | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2VFampBSlJkTWFjZkhwRmRHSTl6dk9ZTFhkNThOQlFlNkpaYk5BeHhIOGlGZ0ZuZnlZOS1fbWFhSXJmNk05LVVDSndubUdpYmhqZzlvMkhHaDZic013QjdNUjgyRUNSZnZCdEEzV2M1Q1FTUlM2WmtSVGlYSUhQTG5sZEhEWkZFNEJCNUQxc3ZLeE82RDRzZw?oc=5) |
 | 2026-08-24 | Chinese Robot Tiangong Ultra Beat Usain Bolt's 100m Record Then Crashed - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXJpaG52X1NRUVlTYy1RZ09IeG8yUUNjaEZWYU5Rd0FtdVRCYk1GNmh4eEVoMFI2aGRYd2t2b29kNkgtZ2RJdUtpalNXY3ZBVTMzOEZGblVBcHByQWRRSjJMQWE4ZGRVNng4SmI3X0RBNEs5RENZQ0lEZkE5MVJja0ZtTlU4OXB0TnR3alE3TkY5QW9oLWVqU2E0d0FVRU0?oc=5) |
+| 2026-08-24 | Xpeng's robotics unit valued at over US$6.3 billion after record funding round - The Standard (HK) | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGx6NTVYNnRIRk9EOUFtSTI2UnB5V2pucDkyRlNDVDJSZ2RjQ05JOG96N3pvYWV2czlteUx0akpTWFlGZnBPZHYyUExXLUJsN0lMOENxSENjSkt6REU1RW5sOWRTa1prLXZ4QVhHa28wbzVSc0pGaFpqa3ZVbFF1TXRLRThuTnVmRl90aV9uTzdPcWI3ckdpZ0QydkFFNjBBTEhkLTZYMXJ1MVhTVDl6ZUxqUzRtdGNRdWQwN01UY205Tm1DRk9EcQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
