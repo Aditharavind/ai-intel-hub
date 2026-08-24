@@ -1,13 +1,13 @@
 [
   {
     "repo": "NVIDIA/skills",
-    "stars": 3085,
+    "stars": 3086,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-24",
     "topic": "physical-ai",
-    "score": 1234.1
+    "score": 1234.5
   },
   {
     "repo": "copper-project/copper-rs",
@@ -71,23 +71,23 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14649,
+    "stars": 14650,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-24",
     "topic": "robotics",
-    "score": 5859.7
+    "score": 5860.1
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13846,
+    "stars": 13847,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-24",
     "topic": "robotics",
-    "score": 5538.5
+    "score": 5538.9
   },
   {
     "repo": "rerun-io/rerun",
@@ -111,13 +111,13 @@
   },
   {
     "repo": "dora-rs/dora",
-    "stars": 3894,
+    "stars": 3896,
     "language": "Rust",
     "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
     "url": "https://github.com/dora-rs/dora",
     "date": "2026-08-24",
     "topic": "embodied-ai",
-    "score": 1557.7
+    "score": 1558.5
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -191,13 +191,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6296,
+    "stars": 6297,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-24",
     "topic": "world-model",
-    "score": 2518.5
+    "score": 2518.9
   },
   {
     "repo": "PKU-YuanGroup/Helios",
@@ -228,6 +228,16 @@
     "date": "2026-08-24",
     "topic": "world-model",
     "score": 372.9
+  },
+  {
+    "repo": "mll-lab-nu/VAGEN",
+    "stars": 493,
+    "language": "Python",
+    "description": "World model reinforcement learning for multi-turn VLM agents. RL for vision framework (NeurIPS 2025).",
+    "url": "https://github.com/mll-lab-nu/VAGEN",
+    "date": "2026-08-24",
+    "topic": "world-model",
+    "score": 197.3
   },
   {
     "repo": "datawhalechina/learn-world-model",
@@ -271,13 +281,13 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7949,
+    "stars": 7950,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-08-24",
     "topic": "robot-learning",
-    "score": 3179.7
+    "score": 3180.1
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -301,13 +311,13 @@
   },
   {
     "repo": "Hebbian-Robotics/hflow",
-    "stars": 136,
+    "stars": 137,
     "language": "Python",
     "description": "Open source SDK for building multimodal data-quality, processing, enrichment, and curation pipelines for robotics and Physical AI.",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "date": "2026-08-24",
     "topic": "lerobot",
-    "score": 54.5
+    "score": 54.9
   },
   {
     "repo": "Source-Robotics/MSG-compliant-AI-stepper-gripper",
@@ -348,16 +358,6 @@
     "date": "2026-08-23",
     "topic": "world-model",
     "score": 343.7
-  },
-  {
-    "repo": "mll-lab-nu/VAGEN",
-    "stars": 493,
-    "language": "Python",
-    "description": "World model reinforcement learning for multi-turn VLM agents. RL for vision framework (NeurIPS 2025).",
-    "url": "https://github.com/mll-lab-nu/VAGEN",
-    "date": "2026-08-23",
-    "topic": "world-model",
-    "score": 197.3
   },
   {
     "repo": "Tsinghua-MARS-Lab/OMG",
@@ -441,13 +441,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2300,
+    "stars": 2301,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-20",
     "topic": "robot-learning",
-    "score": 920.1
+    "score": 920.5
   },
   {
     "repo": "unrealcv/unrealcv",
