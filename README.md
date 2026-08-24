@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-24 05:26 UTC
+Last Updated: 2026-08-24 06:29 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -52,13 +52,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-24 | Neo-Cyclostyle: Automatic Document Copying Devices in 1890 | Hackaday | [link](https://hackaday.com/2026/08/23/neo-cyclostyle-automatic-document-copying-devices-in-1890/) |
 | 2026-08-24 | 3D Printing a Railway Pump Car | Hackaday | [link](https://hackaday.com/2026/08/23/3d-printing-a-railway-pump-car/) |
 | 2026-08-24 | $60+ Nordic Semi nRF93M1 Development Kit (DK) targets LTE Cat 1 bis IoT applications | CNX Software | [link](https://www.cnx-software.com/2026/08/24/60-nordic-semi-nrf93m1-development-kit-dk-targets-lte-cat-1-bis-iot-applications/) |
+| 2026-08-24 | INTERVIEW: Mahdi Mekic Head of Foundry at amsOsram | Electronics Weekly | [link](https://www.electronicsweekly.com/news/interview-mahdi-mekic-head-of-foundry-at-amsosram-2026-08/) |
+| 2026-08-24 | Clas-SiC Wafer Fab gets Scottish Enterprise Capital Grant | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/clas-sic-wafer-fab-gets-scottish-enterprise-capital-grant-2026-08/) |
+| 2026-08-24 | Hexseed raises £600,00 to cool datacentres | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/hexseed-raises-60000-to-cool-datacentres-2026-08/) |
+| 2026-08-24 | AMD takes 30% of x86 PC CPU market; Arm takes 15% of PC CPU market | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/amd-takes-30-of-x86-pc-cpu-market-arm-takes-15-of-pc-cpu-market-2026-08/) |
 | 2026-08-24 | Wi-Fi Halow USB dongle reference designs | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/wifi-halow-usb-dongle-reference-designs-2026-08/) |
 | 2026-08-24 | Ed And The Prodigal | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-and-the-prodigal-2026-08/) |
 | 2026-08-23 | Hackaday Links: August 23, 2026 | Hackaday | [link](https://hackaday.com/2026/08/23/hackaday-links-august-23-2026/) |
-| 2026-08-23 | Using the Basic SNES Hardware to Play Minecraft | Hackaday | [link](https://hackaday.com/2026/08/23/using-the-basic-snes-hardware-to-play-minecraft/) |
-| 2026-08-23 | Making LEDs in the Home Fab | Hackaday | [link](https://hackaday.com/2026/08/23/making-leds-in-the-home-fab/) |
-| 2026-08-23 | Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi | Hackaday | [link](https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/) |
-| 2026-08-23 | Bluetooth Shock Collar Keeps Wearer On Task | Hackaday | [link](https://hackaday.com/2026/08/23/bluetooth-shock-collar-keeps-wearer-on-task/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-24 | GT-111/lawam-robotwin-steps68000 | 0 | 0 | [link](https://huggingface.co/GT-111/lawam-robotwin-steps68000) |
+| 2026-08-24 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 | 2026-08-24 | junbrro/egopi_directfk_domain_robotonly_208bal_bsz64_30k_vlmfreeze | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_directfk_domain_robotonly_208bal_bsz64_30k_vlmfreeze) |
 | 2026-08-24 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-24 | armanakbari4/fastwam-robotwin-joint-50k | 0 | 0 | [link](https://huggingface.co/armanakbari4/fastwam-robotwin-joint-50k) |
@@ -85,8 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-24 | MotionforgeGroup/VLA-Adapter-CM-80000 | 0 | 0 | [link](https://huggingface.co/MotionforgeGroup/VLA-Adapter-CM-80000) |
 | 2026-08-24 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
 | 2026-08-24 | XYZPIT/vlash-random4-ee-gr00t-n1.6-160000 | 0 | 0 | [link](https://huggingface.co/XYZPIT/vlash-random4-ee-gr00t-n1.6-160000) |
-| 2026-08-24 | Tron-Hayato/act-policy-test | 2 | 0 | [link](https://huggingface.co/Tron-Hayato/act-policy-test) |
-| 2026-08-24 | hiskiv/cosmos-policy-lam-v2 | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam-v2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -97,10 +97,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | leofan90/Awesome-World-Models | 1978 | Python | 791.3 | [link](https://github.com/leofan90/Awesome-World-Models) |
 | sou350121/VLA-Handbook | 534 | HTML | 213.7 | [link](https://github.com/sou350121/VLA-Handbook) |
 | luohongk/Embodied-AI-Daily | 432 | HTML | 172.9 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| vllm-project/vllm-omni | 6276 | Python | 2510.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 6279 | Python | 2511.7 | [link](https://github.com/vllm-project/vllm-omni) |
 | inclusionAI/AWorld | 1225 | Python | 490.1 | [link](https://github.com/inclusionAI/AWorld) |
 | thu-ml/Causal-Forcing | 932 | Python | 372.9 | [link](https://github.com/thu-ml/Causal-Forcing) |
-| isaac-sim/IsaacLab | 7942 | Python | 3176.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| softmata/horus | 422 | Rust | 168.9 | [link](https://github.com/softmata/horus) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,16 +119,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-24 | Endiya Partners leads $2.5 Mn seed round in physical AI startup WATER - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UdIBqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UQ?oc=5) |
 | 2026-08-23 | Physical AI Funding Hits $47.4B in H1 2026, Up 80%: The Capital Shift - Machine Brief | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWUdkc0p5eXpWdmUzbHhYOFZjTjRLNWJFQmZQblFZMkt5SUdQT09mcFNFai03T1U3RUZBblJhR3k2VGdyN0lrWUVUM2ZwT1QwcGVCVFVpU21VWFhwOWdBdUNoVUt0LXl5Nl8tOVpUbU9jc3lBbUxRT0I1d0M5MDE5aU01RDhEVTRTQVE?oc=5) |
 | 2026-08-21 | Why Georgia Could Have an Edge in Physical AI - Hypepotamus | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ybXpLaldoTmdteTkzWWZZZDQ3VkdUalpmSU01UmRTSEZvN25USGFBYzJubGlEamJycDBTMW1qT3F4ZXFpZ3pEV0tyS2ZWcDBwQldYX1UtZkdIdkdRQTZLVkNrYUY0bVpB?oc=5) |
-| 2026-08-21 | ACE Robotics chairman says robot brains will have ‘ChatGPT moment’ by end of 2027 - Y100 WNCY | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRFF6d1VSUkFqSVdSNjNQU2RaNWdVT0RwZmJSZHY0d0VJTUFyb1daWkRFelNqUm04MHRoSms4VjE0Y0lmTTJUT1hOeTkxM0FwZWQ1NmZZMlVxdE9MeDB2clRqQjRQcFdseXNpYXFWVnZnZ0VaLVdadFpidVhfVkhzT2oyTW5ZYTg2dExnRnhSZWtPSlNUZDQ2c3hBV0lXbnlFTXpRNl9n?oc=5) |
-| 2026-08-20 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
+| 2026-08-21 | ACE Robotics chairman says robot brains will have ‘ChatGPT moment’ by end of 2027 - BNN Bloomberg | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY2pZTGhpYVkyUmRpVXZkTHhrcFBWTUkySF95SzE2MmhUSWpUcTBidzlqcTljeEw0V3BLSUJjODlRSU5NdGdaNDFIelk1ODRBM3lYYUoyRGtfTkh1MmEtMkt2U21fdHc2UHl4VGJXMTY2cDNkQnY5ODc5RmR6N2x6VEpDSjdCOGFzR2QybGdCZG51R2JxM2RPdmZsZUlpNk9XeXlLSUpOWFIwa19JZWw4Nll3VjJSY3hlQ2t5RVNPbnFLSTBsNW90MERCM1BYeFVFY2g0YkdVSFk?oc=5) |
+| 2026-08-21 | Humanoid Robots Poised for Breakthrough in Embodied AI by 2024 - Devdiscourse | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcUZ0TEZOV3RId2lBTVRRTTNJTUFFbGgyMHUtVXQ0NmhBeTNKMnpxN0dzVWZjdDZndnNOa1hzUUh6TVJXT3FybjBTSGNoTktMbk82RFFNM20xWW90UW5hSnF2YWtYY1R2Q2dpOF9zQmJNaVRXRUxYNXBwTFZlNmJ3OEhwUHNLOWZFYjFmcWVfRW1hZXNHLVIySjlTM0hWa2pSZjdJNktNREVDWHQ5Z1ZROWpUUmx5S2thTWfSAb8BQVVfeXFMTzhZTHBHdUljTDhHSFA3RTYtZEdjS3E1bks2dktCYlVaS0xWelhlSWZlb1EtODVFbENoNFoyVkF5UTFMY2xXMWZHRzZZeWNrVUZZejlKYUY2YnpxUjdKTVN3UU45S0MxZ092eFo1N0FObF96bHRzNHV0N1ctTnJLRjNtcHA4TkZvRFNFX3BhSkxoZG1yWHY4bE85MWRXR1djdWctWnpHNVFMNTNMREZhcjJKTG95NmZYNW1xanV5OHc?oc=5) |
 | 2026-08-20 | Chinese Startup Shows Off Robot Horse You Can Actually Ride - Futurism | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa0I1UUZmenNFQS0zR0hyRUNrVlB3TFN5WTYyUU1OdTNXZ21OWU55YU9TelByZEl4Qi1IMzdQWEk5cTV0SWkxUnFQMTV0WVo0RjFiMmpHbkoyZTdUb0VWVkJVTW5KYU5qMnYxdEN1YngtVkVaOUdqbzBTOG9COXJpUEZTV2hZWjNzbXFF?oc=5) |
 | 2026-08-20 | Humanoid robot crashes after Beijing sprint - The American Bazaar | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGkxUUNMWFNmOUVybkkzVzJMd3hZcGszYTVhWTdrNlY2VU10b01KdlJMSmlzajkzZFBCSWpGY0Y1U3J2a1B6Y0ZuVDdCN0JCekE1U2lRQ1RZUTc4dUpVVVZoa1JZeF9nZGNRdXp4d0tBLTFyTXY1d3ZNWHUtcHpzbEN1S29hUEEzNUlLX0t6UjYwUQ?oc=5) |
 | 2026-08-19 | Former Nvidia lab leader Sanja Fidler launches Veeda AI to tackle world models - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRreGNHRzNvY0NlNVdjdk9fUEtrakxxT3E3WWJPMmxLc2FBeXdpcjdXTElsV3FBX0pBYUpXWHYzYlAzZ3o4WXk2MVZNS2tJQWg2bzBIendlWm9qTldRTzFLaERSZDd5UFUxZmZ6MnV5T0FBaHhYdEpIaU1UN3ZZcTg1RFZFcE5aUDJRaE9LTHRoS3ZPUmJ6RkZmbWxReWNI?oc=5) |
 | 2026-08-19 | Physical AI startup Enigma raises $71M seed to make robots easy to use - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXRaZzc5UlVLblMzeDExb1E2RzU0bmJwd2JVWG9PclZvenRzLWIzZVdUVXhBNVhaLV8yOVdQbkNTQmJIN3JmLVdRaWF4bFUwb1hpVHh5S25HeVNGb0lsdFFHa1dKdGZxUWRqUWQ5b0V6d0FsQU5RWW9nTDllZ2V6MUpZS2lUR1VDOXU1NGo3bjBvYVlHLTlTQWt3ZzF5eGZhNV9aNmJ3?oc=5) |
 | 2026-08-19 | Star researcher Sanja Fidler raises over US$90M for world model startup - The Logic | physical ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTE1LTEJEbDJEZ2pmV1VBeXNVQkVSLWc2c19ldUNzUUt2UzllMlN4R3J6dUNFS0o4ckdzdE1TMXhoZjI4Z0c1cVlNX1hoS3p0WnZsM3JBU1pncEtGamR4dnBUVEc2S3l2NERUb3dYSWp3b0R1dw?oc=5) |
-| 2026-08-19 | Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban - WSJ | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMktnNC1kMTFZTU5YWEI4RmxxZmRCMndOcV9vZVVqa2pjU2hmbkI0bFpYUVlGTDl2ZFNjTVpsam1jNHUzT2s1a3RNdWRobVdBMnpydDU1SVBJZGp6bGtRQThxSzJiNUMtN1YzVlBaTk9aWkZGajFzNEVHeUUzRnFuVExWZFhod1hYWXhydDB3a19ndVJ2Mm5lN19EN3Q?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
