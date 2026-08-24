@@ -11,23 +11,23 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15731,
+    "stars": 15732,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-24",
     "topic": "robotics",
-    "score": 6292.5
+    "score": 6292.9
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14646,
+    "stars": 14647,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-24",
     "topic": "robotics",
-    "score": 5858.5
+    "score": 5858.9
   },
   {
     "repo": "rerun-io/rerun",
@@ -41,23 +41,23 @@
   },
   {
     "repo": "dora-rs/dora",
-    "stars": 3893,
+    "stars": 3894,
     "language": "Rust",
     "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
     "url": "https://github.com/dora-rs/dora",
     "date": "2026-08-24",
     "topic": "embodied-ai",
-    "score": 1557.3
+    "score": 1557.7
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3329,
+    "stars": 3330,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-24",
     "topic": "embodied-ai",
-    "score": 1331.7
+    "score": 1332.1
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -78,6 +78,16 @@
     "date": "2026-08-24",
     "topic": "robot-learning",
     "score": 214.1
+  },
+  {
+    "repo": "flashrt-project/FlashRT",
+    "stars": 524,
+    "language": "C++",
+    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
+    "url": "https://github.com/flashrt-project/FlashRT",
+    "date": "2026-08-24",
+    "topic": "vla",
+    "score": 209.7
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -201,13 +211,13 @@
   },
   {
     "repo": "Hebbian-Robotics/hflow",
-    "stars": 133,
+    "stars": 134,
     "language": "Python",
     "description": "Open source SDK for building multimodal data-quality, processing, enrichment, and curation pipelines for robotics and Physical AI.",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "date": "2026-08-24",
     "topic": "lerobot",
-    "score": 53.3
+    "score": 53.7
   },
   {
     "repo": "NVIDIA/skills",
@@ -221,13 +231,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13826,
+    "stars": 13828,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-23",
     "topic": "robotics",
-    "score": 5530.5
+    "score": 5531.3
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
@@ -248,16 +258,6 @@
     "date": "2026-08-23",
     "topic": "world-model",
     "score": 344.1
-  },
-  {
-    "repo": "flashrt-project/FlashRT",
-    "stars": 524,
-    "language": "C++",
-    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
-    "url": "https://github.com/flashrt-project/FlashRT",
-    "date": "2026-08-23",
-    "topic": "vla",
-    "score": 209.7
   },
   {
     "repo": "mll-lab-nu/VAGEN",
@@ -381,13 +381,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2296,
+    "stars": 2298,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-20",
     "topic": "robot-learning",
-    "score": 918.5
+    "score": 919.3
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -401,13 +401,13 @@
   },
   {
     "repo": "baidu-baige/LoongForge",
-    "stars": 475,
+    "stars": 484,
     "language": "Python",
     "description": "A unified, high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.",
     "url": "https://github.com/baidu-baige/LoongForge",
     "date": "2026-08-20",
     "topic": "vla",
-    "score": 190.1
+    "score": 193.7
   },
   {
     "repo": "NVlabs/ProtoMotions",
@@ -441,13 +441,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44406,
+    "stars": 44407,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 17762.5
+    "score": 17762.9
   },
   {
     "repo": "zauberzeug/nicegui",
