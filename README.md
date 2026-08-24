@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-24 22:12 UTC
+Last Updated: 2026-08-24 23:11 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-24 | A 1990s Homebrew OS With GUI And Web Browser, In AM29000 Machine Code | Hackaday | [link](https://hackaday.com/2026/08/24/a-1990s-homebrew-os-with-gui-and-web-browser-in-am29000-machine-code/) |
 | 2026-08-24 | An Electronic Explanation Of 1960s Fuzz Boxes | Hackaday | [link](https://hackaday.com/2026/08/24/an-electronic-explanation-of-1960s-fuzz-boxes/) |
 | 2026-08-24 | At Last, A Gameboy Advance With Decent Audio | Hackaday | [link](https://hackaday.com/2026/08/24/at-last-a-gameboy-advance-with-decent-audio/) |
 | 2026-08-24 | Tech in Plain Sight: Vacuum Blood Collection | Hackaday | [link](https://hackaday.com/2026/08/24/tech-in-plain-sight-vacuum-blood-collection/) |
 | 2026-08-24 | Combining Photogrammetry Utilities into a Simple GUI Tool | Hackaday | [link](https://hackaday.com/2026/08/24/combining-photogrammetry-utilities-into-a-simple-gui-tool/) |
 | 2026-08-24 | An Early History of Space Stations: Where’s My Wheel? | Hackaday | [link](https://hackaday.com/2026/08/24/an-early-history-of-space-stations-wheres-my-wheel/) |
 | 2026-08-24 | Making Better Rubies At Home | Hackaday | [link](https://hackaday.com/2026/08/24/making-better-rubies-at-home/) |
-| 2026-08-24 | The Casio F-91W As A Contactless Payment Device. | Hackaday | [link](https://hackaday.com/2026/08/24/the-casio-f-91w-as-a-contactless-payment-device/) |
 | 2026-08-24 | Jetway PIC-TWL1 Intel N150 Pico-ITX motherboard is made for industrial automation and embedded systems | CNX Software | [link](https://www.cnx-software.com/2026/08/25/jetway-pic-twl1-intel-n150-pico-itx-motherboard-is-made-for-industrial-automation-and-embedded-systems/) |
 | 2026-08-24 | MNT Station fanless, modular open-hardware computer supports a choice of 10+ Arm CPU or FPGA modules (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/24/mnt-station-fanless-modular-open-hardware-computer-supports-a-choice-of-10-arm-cpu-or-fpga-modules/) |
 | 2026-08-24 | $60+ Nordic Semi nRF93M1 Development Kit (DK) targets LTE Cat 1 bis IoT applications | CNX Software | [link](https://www.cnx-software.com/2026/08/24/60-nordic-semi-nrf93m1-development-kit-dk-targets-lte-cat-1-bis-iot-applications/) |
@@ -91,7 +91,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3087 | Python | 1234.9 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3089 | Python | 1235.7 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1462 | Rust | 584.9 | [link](https://github.com/copper-project/copper-rs) |
 | NVlabs/alpasim | 1192 | Python | 476.9 | [link](https://github.com/NVlabs/alpasim) |
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
