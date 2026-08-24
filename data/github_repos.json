@@ -10,6 +10,16 @@
     "score": 584.9
   },
   {
+    "repo": "NVlabs/alpasim",
+    "stars": 1192,
+    "language": "Python",
+    "description": "AlpaSim is an open-source autonomous vehicle simulation platform designed for development and testing of end-to-end AV policies",
+    "url": "https://github.com/NVlabs/alpasim",
+    "date": "2026-08-24",
+    "topic": "physical-ai",
+    "score": 476.9
+  },
+  {
     "repo": "commaai/openpilot",
     "stars": 63481,
     "language": "Python",
@@ -21,13 +31,13 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15732,
+    "stars": 15734,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-24",
     "topic": "robotics",
-    "score": 6292.9
+    "score": 6293.7
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -61,13 +71,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3332,
+    "stars": 3333,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-24",
     "topic": "embodied-ai",
-    "score": 1332.9
+    "score": 1333.3
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -100,34 +110,44 @@
     "score": 209.7
   },
   {
+    "repo": "baidu-baige/LoongForge",
+    "stars": 493,
+    "language": "Python",
+    "description": "A unified, high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.",
+    "url": "https://github.com/baidu-baige/LoongForge",
+    "date": "2026-08-24",
+    "topic": "vla",
+    "score": 197.3
+  },
+  {
     "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 433,
+    "stars": 434,
     "language": "HTML",
     "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
     "url": "https://github.com/luohongk/Embodied-AI-Daily",
     "date": "2026-08-24",
     "topic": "vla",
-    "score": 173.3
+    "score": 173.7
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 408,
+    "stars": 409,
     "language": "",
     "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
     "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
     "date": "2026-08-24",
     "topic": "robot-learning",
-    "score": 163.3
+    "score": 163.7
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6289,
+    "stars": 6290,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-24",
     "topic": "world-model",
-    "score": 2515.7
+    "score": 2516.1
   },
   {
     "repo": "PKU-YuanGroup/Helios",
@@ -251,13 +271,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13829,
+    "stars": 13832,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-23",
     "topic": "robotics",
-    "score": 5531.7
+    "score": 5532.9
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
@@ -291,23 +311,23 @@
   },
   {
     "repo": "Tsinghua-MARS-Lab/OMG",
-    "stars": 110,
+    "stars": 112,
     "language": "Python",
     "description": "Official repository for \"OMG: Omni-Modal Motion Generation for Generalist Humanoid Control\", https://arxiv.org/abs/2606.10340.",
     "url": "https://github.com/Tsinghua-MARS-Lab/OMG",
     "date": "2026-08-23",
     "topic": "humanoid",
-    "score": 44.1
+    "score": 44.9
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4621,
+    "stars": 4622,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-22",
     "topic": "embodied-ai",
-    "score": 1848.5
+    "score": 1848.9
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -381,13 +401,13 @@
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2761,
+    "stars": 2762,
     "language": "Python",
     "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-08-20",
     "topic": "embodied-ai",
-    "score": 1104.5
+    "score": 1104.9
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
@@ -408,16 +428,6 @@
     "date": "2026-08-20",
     "topic": "embodied-ai",
     "score": 883.7
-  },
-  {
-    "repo": "baidu-baige/LoongForge",
-    "stars": 492,
-    "language": "Python",
-    "description": "A unified, high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.",
-    "url": "https://github.com/baidu-baige/LoongForge",
-    "date": "2026-08-20",
-    "topic": "vla",
-    "score": 196.9
   },
   {
     "repo": "NVlabs/ProtoMotions",
@@ -451,13 +461,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44408,
+    "stars": 44409,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 17763.3
+    "score": 17763.7
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -480,16 +490,6 @@
     "score": 572.5
   },
   {
-    "repo": "NVlabs/alpasim",
-    "stars": 1192,
-    "language": "Python",
-    "description": "AlpaSim is an open-source autonomous vehicle simulation platform designed for development and testing of end-to-end AV policies",
-    "url": "https://github.com/NVlabs/alpasim",
-    "date": "2026-08-18",
-    "topic": "physical-ai",
-    "score": 476.9
-  },
-  {
     "repo": "galilai-group/stable-worldmodel",
     "stars": 2145,
     "language": "Python",
@@ -501,13 +501,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30352,
+    "stars": 30353,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-08-17",
     "topic": "robotics",
-    "score": 12140.9
+    "score": 12141.3
   },
   {
     "repo": "DLR-RM/stable-baselines3",
@@ -591,13 +591,13 @@
   },
   {
     "repo": "Matrixchung/iFOC",
-    "stars": 27,
+    "stars": 28,
     "language": "C++",
     "description": "iFOC - High Performance Field Oriented Control System, whose 'i' stands for Intelligent, Integrated and Instant.",
     "url": "https://github.com/Matrixchung/iFOC",
     "date": "2026-08-16",
     "topic": "humanoid",
-    "score": 10.9
+    "score": 11.3
   },
   {
     "repo": "ace-trump-tech/MindPaw",
@@ -661,13 +661,13 @@
   },
   {
     "repo": "ycheng517/lerobot-ros",
-    "stars": 212,
+    "stars": 213,
     "language": "Python",
     "description": "Lightweight interface for controlling ROS-based robotic arms using LeRobot",
     "url": "https://github.com/ycheng517/lerobot-ros",
     "date": "2026-08-13",
     "topic": "lerobot",
-    "score": 84.9
+    "score": 85.3
   },
   {
     "repo": "RobotecAI/rai",
@@ -761,13 +761,13 @@
   },
   {
     "repo": "mani-skill/ManiSkill",
-    "stars": 3255,
+    "stars": 3256,
     "language": "Python",
     "description": "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
     "url": "https://github.com/mani-skill/ManiSkill",
     "date": "2026-08-04",
     "topic": "robot-learning",
-    "score": 1302.1
+    "score": 1302.5
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
@@ -801,13 +801,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15590,
+    "stars": 15592,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6236.1
+    "score": 6236.9
   },
   {
     "repo": "aalmuzairee/squint",
