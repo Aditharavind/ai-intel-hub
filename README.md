@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-24 16:20 UTC
+Last Updated: 2026-08-24 17:19 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-24 | Tech in Plain Sight: Vacuum Blood Collection | Hackaday | [link](https://hackaday.com/2026/08/24/tech-in-plain-sight-vacuum-blood-collection/) |
 | 2026-08-24 | Combining Photogrammetry Utilities into a Simple GUI Tool | Hackaday | [link](https://hackaday.com/2026/08/24/combining-photogrammetry-utilities-into-a-simple-gui-tool/) |
 | 2026-08-24 | An Early History of Space Stations: Where’s My Wheel? | Hackaday | [link](https://hackaday.com/2026/08/24/an-early-history-of-space-stations-wheres-my-wheel/) |
 | 2026-08-24 | Making Better Rubies At Home | Hackaday | [link](https://hackaday.com/2026/08/24/making-better-rubies-at-home/) |
@@ -58,10 +59,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-24 | MNT Station fanless, modular open-hardware computer supports a choice of 10+ Arm CPU or FPGA modules (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/24/mnt-station-fanless-modular-open-hardware-computer-supports-a-choice-of-10-arm-cpu-or-fpga-modules/) |
 | 2026-08-24 | $60+ Nordic Semi nRF93M1 Development Kit (DK) targets LTE Cat 1 bis IoT applications | CNX Software | [link](https://www.cnx-software.com/2026/08/24/60-nordic-semi-nrf93m1-development-kit-dk-targets-lte-cat-1-bis-iot-applications/) |
 | 2026-08-24 | Mikroe Releases RTLS UWB Click Board | Embedded.com | [link](https://www.embedded.com/mikroe-releases-rtls-uwb-click-board/) |
-| 2026-08-24 | Social Media’s Negative Effects On The Young | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/social-medias-negative-effects-on-the-young-2026-08/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-08-21 | Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction | [link](https://arxiv.org/pdf/2608.21358v1) |
+| 2026-08-21 | ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations | [link](https://arxiv.org/pdf/2608.21355v1) |
+| 2026-08-21 | Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation | [link](https://arxiv.org/pdf/2608.21332v1) |
+| 2026-08-21 | NeSAM: Neuro-Symbolic Kinodynamics with Soil Adaptation for Off-Road Mobility | [link](https://arxiv.org/pdf/2608.21330v1) |
+| 2026-08-21 | VLASS Discovery of a Luminous Galactic Radio Transient Evolving on Decade Timescales | [link](https://arxiv.org/pdf/2608.21320v1) |
+| 2026-08-21 | Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets | [link](https://arxiv.org/pdf/2608.21319v1) |
+| 2026-08-21 | When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning | [link](https://arxiv.org/pdf/2608.21300v1) |
+| 2026-08-21 | VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation | [link](https://arxiv.org/pdf/2608.21290v1) |
+| 2026-08-21 | Assessing Triple Modular Redundancy for Wide-Link, Low-Latency NoC Routers: Reliability and Physical Design Challenges | [link](https://arxiv.org/pdf/2608.21288v1) |
+| 2026-08-21 | WildFin: An In-the-Wild Dataset for Fish Behavioral Recognition | [link](https://arxiv.org/pdf/2608.21281v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
@@ -84,10 +95,10 @@ _No items collected yet._
 | copper-project/copper-rs | 1462 | Rust | 584.9 | [link](https://github.com/copper-project/copper-rs) |
 | NVlabs/alpasim | 1192 | Python | 476.9 | [link](https://github.com/NVlabs/alpasim) |
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63483 | Python | 25393.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63482 | Python | 25392.9 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15735 | C++ | 6294.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14647 | C++ | 5858.9 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13842 | Python | 5536.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14646 | C++ | 5858.5 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13845 | Python | 5538.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11342 | Rust | 4536.9 | [link](https://github.com/rerun-io/rerun) |
 | dora-rs/dora | 3894 | Rust | 1557.7 | [link](https://github.com/dora-rs/dora) |
 
@@ -96,6 +107,7 @@ _No items collected yet._
 | --- | --- | --- | --- | --- |
 | 2026-08-24 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0sxLXN0Nm5BMnVDMHlUMGtZOG96R01tMjgwZWtGTjd0MTJEclhGNDE5MmxaSXFfdDBGaEZ0OVM4aUtsbm4zRmVVbThabUVRZ0FUUjZHWE5CRk1DdkpxN0U4QVIteTFJYWJReG9yWFlTZkdjcGI4T05pWXRFa3NPbmFFQjE5U3ZDeWJYNDlDNENCWG9lemhoaV9rcmRNWldXa1BYU1RB?oc=5) |
 | 2026-08-24 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxPOE9IcF8xbGtzM25uYUg2VkhxbzJmbXl2R29jczkwV3VSWmdEOWFPUWluNWk0My1wZmwxQzNCVGVWZlhQOFR4LXk2U0RVWkpMa1EzLV9PSkpFU21KQ3g5U2hRekp0dmRtOEpYZ05ZVDNBOEFuTTk0WW1xWmY4Rm1LRmFKa1lCTV8teDNpMzJsNGJpNEJPaTB2VmtZdkUwcFpDc0dDVWVpd195dHEzN1Q3bXNSeXpVcFFwUVJzV085dFJXeGs2?oc=5) |
+| 2026-08-24 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlROdnFoR0Q2ZXkxS21CbHZCTktXYmRXS25xaFFHLVJSYktBLXRVVk13Tk5xTi12NjhwaXIxcGpacTJoSU9kZVZvMk5pajNscDFGTk9yNTdqSEVxU0dPTkxTcUVBRWg4SW1BQm9WTTdodmlOZk1zTDlLdDNVRWxaVHdPdldoM21sZHp0d3lDNnExbmxmamt2bnh1M3llQXN2RVlHOXVxYWR6MXV3T2VqVTQwdEVRSGs?oc=5) |
 | 2026-08-24 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9PcW5tZHFHSF9UU0FwNGRLZHAxY2lVOG9CMzRxdnhXMldwcTFBcU5qZk1JdDFmREpYU3BZWWI2dEhRRld4cHpKTUcwbWhOakR2U0dwQ2h6WnlrSzFEdlJvNzVpWTJxU0JPNDhGUmxkUXY0WlNNWHc?oc=5) |
 | 2026-08-22 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzdQNU5NQnZJRU5JeS1DWFdVcDFqVVp4VlhMTXNxaUVadTJ2WXJPWWJmdXJBYW0xZkY4VnBQaUpWWnlHdVBJTkI3S21sUXE4NkQ1dVUybVUwb3E3ZjhPR3c5TXZrQVcyTWpjX0w0elE0SnJ4SlQ2cFRFQkJWRElFSk1PUXhhM21GYkZ2RlJwRGFFSllZQXJZ?oc=5) |
 | 2026-08-20 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhLOS1OTWxZdzBsWFYxXzBybFo0dU1LdTVLLTgzWEtlNDlMRm1uRjQ0R3lSOWpna0dkanhMR0dGV0RVOUVzRFZWbFZJejNMWEQ5NXRKaFc5MTVrN3ZIdnpmQ1p5UUVrV3lOMUI0X0ktTjQ0MEM1bTFzaXg3d1dBT1NXY2FmZkRnRW03ZUo4VEx3cFU3SVVFdVQzZUtVSWpWZlFYM0diQi1Wb1lJVGZn?oc=5) |
@@ -103,7 +115,6 @@ _No items collected yet._
 | 2026-08-19 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWx4dUhBckpyUko4NGppNk8tLWtCbzdhaHVaQzdKanVIZFVxdXJsWXhUZi12c2pMRGg2VFc5MVhIR184UkFTa3FWZTBtaTI0SXNjSllfS3dIMjltTVdnYWFsQS1XZVBKM2lvME5JdGJrTE5qNG5KVXMtWWE5QUxfV1pxdTJYZ0U4RGFnTDAzR1hmUQ?oc=5) |
 | 2026-08-19 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1hiM1VrQ3VmZkp3TWRpaXpqVW93ZW9qN3NRdFJWcEdOZU9jTnFvb25ZY3BoVkhIMVo3NjZXYkxEbnlHU0stS1lsM042aWhvR0JNR0Z4RDV5c1hJWnprNmhzalRSUEdJSG5xdmtQWV9TcU5DV3ZHeXdoWkVuc01hMFA0d0ZZaW5EeVFFdlJ1OWd2UUlsNkt4RHVrdmxJYjJzelVjTE05eGtxV0RQcmpmdzdtX1NqZw?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDJ3RXRVazJTNjZVUDg5SjZwWk5YdS13Snd5MVlwUnV5MVpsLWxBUjcyZ0dWcXVmQ3hQUFgzZ2RQbk5WUkVTUjV6UnRGZ0JpTU9lTU4zbFVSUG5wQjlDN3JvSDBpNFBYYzhQWkdGS3MyMHJ1bG9ab09GdUE0MDRINWhseDd3emZzWDNNM0JwUHVJTmFZX3N2d3k4M2Z4eU9IaHdrLU1MRllfYk83WkM5UWNLbVMxdVVXVjRGd2UwUQ?oc=5) |
-| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVVGZ3Q4aW0tRF9FZm9UN04xSlNudWRHcVFVX3ljNTJ1YlBfcF9RQ3hTSW5zQkpSZWJHeEpramdGX0VZcGFXWTlPYWczQlg3anhtSHJFbGJCVzU3dFlYSy1LX0hOc3FjUUtNUWxKbnR1Ty1PbnZaM3BTSjc0TVJlQWtGb05mbFJuZ2o2T2FvVDlzRm5UMG4zUWpTZm41ZDVtcmZtLXYtWUZCbzFFSU9Sb1dzbTFraEZUSDVsZXpsN3ZzREHSAcMBQVVfeXFMT0Y4bkNZdW9FdEJQYy0tRlplcGVzYjNfd0J0RjVjS2N5X0NFMVBuWmwxemNDaHpmdXlCdWx3TzNWVENSN2E5eUNibHB5aFkxMGxLdGRTS1JkWXdOZ1lvZjNpWDliS0FlaXJRcF8xWUlYQTlUa0d4MUlaRHRaQnhRNlYtZHhlTDFURGRXbERBTklJYndjalFrRXZibjFYUzl4eURXeno3dkVkZWFWMGVtTnRaNnA5UGJueWZDbUxYWWVPU1FV?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

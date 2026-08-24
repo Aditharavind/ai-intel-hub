@@ -1,14 +1,20 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-24 16:20 UTC
+Generated: 2026-08-24 17:19 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-08-21 | Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction | [link](https://arxiv.org/pdf/2608.21358v1) |
+| 2026-08-21 | ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations | [link](https://arxiv.org/pdf/2608.21355v1) |
+| 2026-08-21 | Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation | [link](https://arxiv.org/pdf/2608.21332v1) |
+| 2026-08-21 | NeSAM: Neuro-Symbolic Kinodynamics with Soil Adaptation for Off-Road Mobility | [link](https://arxiv.org/pdf/2608.21330v1) |
+| 2026-08-21 | VLASS Discovery of a Luminous Galactic Radio Transient Evolving on Decade Timescales | [link](https://arxiv.org/pdf/2608.21320v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| commaai/openpilot | 63483 | 25393.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63482 | 25392.9 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44408 | 17763.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30355 | 12142.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16158 | 6463.3 | [link](https://github.com/zauberzeug/nicegui) |
@@ -28,9 +34,9 @@ _No items collected yet._
 | --- | --- | --- | --- |
 | 2026-08-24 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0sxLXN0Nm5BMnVDMHlUMGtZOG96R01tMjgwZWtGTjd0MTJEclhGNDE5MmxaSXFfdDBGaEZ0OVM4aUtsbm4zRmVVbThabUVRZ0FUUjZHWE5CRk1DdkpxN0U4QVIteTFJYWJReG9yWFlTZkdjcGI4T05pWXRFa3NPbmFFQjE5U3ZDeWJYNDlDNENCWG9lemhoaV9rcmRNWldXa1BYU1RB?oc=5) |
 | 2026-08-24 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxPOE9IcF8xbGtzM25uYUg2VkhxbzJmbXl2R29jczkwV3VSWmdEOWFPUWluNWk0My1wZmwxQzNCVGVWZlhQOFR4LXk2U0RVWkpMa1EzLV9PSkpFU21KQ3g5U2hRekp0dmRtOEpYZ05ZVDNBOEFuTTk0WW1xWmY4Rm1LRmFKa1lCTV8teDNpMzJsNGJpNEJPaTB2VmtZdkUwcFpDc0dDVWVpd195dHEzN1Q3bXNSeXpVcFFwUVJzV085dFJXeGs2?oc=5) |
+| 2026-08-24 | Skild AI |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlROdnFoR0Q2ZXkxS21CbHZCTktXYmRXS25xaFFHLVJSYktBLXRVVk13Tk5xTi12NjhwaXIxcGpacTJoSU9kZVZvMk5pajNscDFGTk9yNTdqSEVxU0dPTkxTcUVBRWg4SW1BQm9WTTdodmlOZk1zTDlLdDNVRWxaVHdPdldoM21sZHp0d3lDNnExbmxmamt2bnh1M3llQXN2RVlHOXVxYWR6MXV3T2VqVTQwdEVRSGs?oc=5) |
 | 2026-08-24 | Unitree |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9PcW5tZHFHSF9UU0FwNGRLZHAxY2lVOG9CMzRxdnhXMldwcTFBcU5qZk1JdDFmREpYU3BZWWI2dEhRRld4cHpKTUcwbWhOakR2U0dwQ2h6WnlrSzFEdlJvNzVpWTJxU0JPNDhGUmxkUXY0WlNNWHc?oc=5) |
 | 2026-08-22 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzdQNU5NQnZJRU5JeS1DWFdVcDFqVVp4VlhMTXNxaUVadTJ2WXJPWWJmdXJBYW0xZkY4VnBQaUpWWnlHdVBJTkI3S21sUXE4NkQ1dVUybVUwb3E3ZjhPR3c5TXZrQVcyTWpjX0w0elE0SnJ4SlQ2cFRFQkJWRElFSk1PUXhhM21GYkZ2RlJwRGFFSllZQXJZ?oc=5) |
-| 2026-08-20 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhLOS1OTWxZdzBsWFYxXzBybFo0dU1LdTVLLTgzWEtlNDlMRm1uRjQ0R3lSOWpna0dkanhMR0dGV0RVOUVzRFZWbFZJejNMWEQ5NXRKaFc5MTVrN3ZIdnpmQ1p5UUVrV3lOMUI0X0ktTjQ0MEM1bTFzaXg3d1dBT1NXY2FmZkRnRW03ZUo4VEx3cFU3SVVFdVQzZUtVSWpWZlFYM0diQi1Wb1lJVGZn?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
