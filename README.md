@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-24 10:24 UTC
+Last Updated: 2026-08-24 11:15 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-24 | Making Better Rubies At Home | Hackaday | [link](https://hackaday.com/2026/08/24/making-better-rubies-at-home/) |
 | 2026-08-24 | The Casio F-91W As A Contactless Payment Device. | Hackaday | [link](https://hackaday.com/2026/08/24/the-casio-f-91w-as-a-contactless-payment-device/) |
 | 2026-08-24 | Neo-Cyclostyle: Automatic Document Copying Devices in 1890 | Hackaday | [link](https://hackaday.com/2026/08/23/neo-cyclostyle-automatic-document-copying-devices-in-1890/) |
 | 2026-08-24 | 3D Printing a Railway Pump Car | Hackaday | [link](https://hackaday.com/2026/08/23/3d-printing-a-railway-pump-car/) |
 | 2026-08-24 | MNT Station fanless, modular open-hardware computer supports a choice of 10+ Arm CPU or FPGA modules (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/24/mnt-station-fanless-modular-open-hardware-computer-supports-a-choice-of-10-arm-cpu-or-fpga-modules/) |
 | 2026-08-24 | $60+ Nordic Semi nRF93M1 Development Kit (DK) targets LTE Cat 1 bis IoT applications | CNX Software | [link](https://www.cnx-software.com/2026/08/24/60-nordic-semi-nrf93m1-development-kit-dk-targets-lte-cat-1-bis-iot-applications/) |
+| 2026-08-24 | Iceye India forms in New Delhi | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/iceye-india-forms-in-new-delhi-2026-08/) |
 | 2026-08-24 | Castelion raises $1bn Series C for hypersonic defence | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/finance/castelion-raises-1bn-series-c-for-hypersonic-defence-2026-08/) |
 | 2026-08-24 | Sponsored Content: Welcome to the era of trustworthy AI for IC signoff and manufacturing | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/sponsored-content-welcome-to-the-era-of-trustworthy-ai-for-ic-signoff-and-manufacturing-2026-08/) |
 | 2026-08-24 | INTERVIEW: Mahdi Mekic, head of foundry at ams OSRAM | Electronics Weekly | [link](https://www.electronicsweekly.com/news/interview-mahdi-mekic-head-of-foundry-at-amsosram-2026-08/) |
-| 2026-08-24 | Clas-SiC Wafer Fab gets Scottish Enterprise Capital Grant | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/clas-sic-wafer-fab-gets-scottish-enterprise-capital-grant-2026-08/) |
-| 2026-08-24 | Hexseed raises £600,00 to cool datacentres | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/hexseed-raises-60000-to-cool-datacentres-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -86,21 +86,21 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-24 | armanakbari4/fastwam-robotwin-joint-50k | 0 | 0 | [link](https://huggingface.co/armanakbari4/fastwam-robotwin-joint-50k) |
 | 2026-08-24 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-08-24 | vladlen-beilik/Qwen3-TTS-12Hz-1.7B-Base | 0 | 0 | [link](https://huggingface.co/vladlen-beilik/Qwen3-TTS-12Hz-1.7B-Base) |
-| 2026-08-24 | kamusarj/VLA-JEPA_finetune | 0 | 0 | [link](https://huggingface.co/kamusarj/VLA-JEPA_finetune) |
+| 2026-08-24 | kesnick/vlm-vla-test | 14 | 0 | [link](https://huggingface.co/kesnick/vlm-vla-test) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| copper-project/copper-rs | 1462 | Rust | 584.9 | [link](https://github.com/copper-project/copper-rs) |
 | commaai/openpilot | 63481 | Python | 25392.5 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15732 | C++ | 6292.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14647 | C++ | 5858.9 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 11341 | Rust | 4536.5 | [link](https://github.com/rerun-io/rerun) |
 | dora-rs/dora | 3894 | Rust | 1557.7 | [link](https://github.com/dora-rs/dora) |
-| datawhalechina/every-embodied | 3330 | Python | 1332.1 | [link](https://github.com/datawhalechina/every-embodied) |
+| datawhalechina/every-embodied | 3331 | Python | 1332.5 | [link](https://github.com/datawhalechina/every-embodied) |
 | leofan90/Awesome-World-Models | 1979 | Python | 791.7 | [link](https://github.com/leofan90/Awesome-World-Models) |
 | sou350121/VLA-Handbook | 535 | HTML | 214.1 | [link](https://github.com/sou350121/VLA-Handbook) |
 | flashrt-project/FlashRT | 524 | C++ | 209.7 | [link](https://github.com/flashrt-project/FlashRT) |
-| luohongk/Embodied-AI-Daily | 433 | HTML | 173.3 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
