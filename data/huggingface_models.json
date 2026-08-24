@@ -1,5 +1,23 @@
 [
   {
+    "model": "zolkin/robot_rl",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/zolkin/robot_rl",
+    "date": "2026-08-24",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
+    "model": "B111ue/fcl-vla-functional-support-canary",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
+    "date": "2026-08-24",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "sun-robot/pi05_color_sort_v1_qu_frozen",
     "downloads": 0,
     "likes": 0,
@@ -42,15 +60,6 @@
     "url": "https://huggingface.co/fanzh03/robotwin_fewshot",
     "date": "2026-08-23",
     "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "B111ue/fcl-vla-functional-support-canary",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/B111ue/fcl-vla-functional-support-canary",
-    "date": "2026-08-23",
-    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -153,19 +162,28 @@
     "score": 0.1
   },
   {
-    "model": "muacha/my_overfit_pi05_policy_expert_only",
+    "model": "TheLaughingHeart/ball-in-cup-act-policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/muacha/my_overfit_pi05_policy_expert_only",
+    "url": "https://huggingface.co/TheLaughingHeart/ball-in-cup-act-policy",
     "date": "2026-08-23",
     "keyword": "policy",
     "score": 0.1
   },
   {
-    "model": "TheLaughingHeart/ball-in-cup-act-policy",
+    "model": "bloodmoon3929/cosmos-policy-robocasa-full54-100k",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/TheLaughingHeart/ball-in-cup-act-policy",
+    "url": "https://huggingface.co/bloodmoon3929/cosmos-policy-robocasa-full54-100k",
+    "date": "2026-08-23",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "muacha/my_overfit_pi05_policy_expert_only",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/muacha/my_overfit_pi05_policy_expert_only",
     "date": "2026-08-23",
     "keyword": "policy",
     "score": 0.1
@@ -187,15 +205,6 @@
     "date": "2026-08-23",
     "keyword": "policy",
     "score": 1.3
-  },
-  {
-    "model": "zolkin/robot_rl",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/zolkin/robot_rl",
-    "date": "2026-08-22",
-    "keyword": "robot",
-    "score": 0.3
   },
   {
     "model": "YMmim/qwen2.5-0.5b-robot-cot-lora",
@@ -448,15 +457,6 @@
     "date": "2026-08-22",
     "keyword": "policy",
     "score": 0.7
-  },
-  {
-    "model": "ChristianZ97/satp-policy-v4.27",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ChristianZ97/satp-policy-v4.27",
-    "date": "2026-08-22",
-    "keyword": "policy",
-    "score": 0.1
   },
   {
     "model": "Alinealmeidagin/paper_022405165_robotics_vision_language",
