@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-24 04:32 UTC
+Last Updated: 2026-08-24 05:26 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-24 | Neo-Cyclostyle: Automatic Document Copying Devices in 1890 | Hackaday | [link](https://hackaday.com/2026/08/23/neo-cyclostyle-automatic-document-copying-devices-in-1890/) |
 | 2026-08-24 | 3D Printing a Railway Pump Car | Hackaday | [link](https://hackaday.com/2026/08/23/3d-printing-a-railway-pump-car/) |
 | 2026-08-24 | $60+ Nordic Semi nRF93M1 Development Kit (DK) targets LTE Cat 1 bis IoT applications | CNX Software | [link](https://www.cnx-software.com/2026/08/24/60-nordic-semi-nrf93m1-development-kit-dk-targets-lte-cat-1-bis-iot-applications/) |
+| 2026-08-24 | Wi-Fi Halow USB dongle reference designs | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/wifi-halow-usb-dongle-reference-designs-2026-08/) |
 | 2026-08-24 | Ed And The Prodigal | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-and-the-prodigal-2026-08/) |
 | 2026-08-23 | Hackaday Links: August 23, 2026 | Hackaday | [link](https://hackaday.com/2026/08/23/hackaday-links-august-23-2026/) |
 | 2026-08-23 | Using the Basic SNES Hardware to Play Minecraft | Hackaday | [link](https://hackaday.com/2026/08/23/using-the-basic-snes-hardware-to-play-minecraft/) |
 | 2026-08-23 | Making LEDs in the Home Fab | Hackaday | [link](https://hackaday.com/2026/08/23/making-leds-in-the-home-fab/) |
 | 2026-08-23 | Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi | Hackaday | [link](https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/) |
 | 2026-08-23 | Bluetooth Shock Collar Keeps Wearer On Task | Hackaday | [link](https://hackaday.com/2026/08/23/bluetooth-shock-collar-keeps-wearer-on-task/) |
-| 2026-08-23 | So, You Found a Foden Steam Lorry in a Field. What Next? | Hackaday | [link](https://hackaday.com/2026/08/23/so-you-found-a-foden-steam-lorry-in-a-field-what-next/) |
-| 2026-08-23 | Rockchip RV1126B-based Forlinx FCU3101 fanless edge AI system targets IIoT and smart security applications | CNX Software | [link](https://www.cnx-software.com/2026/08/24/rockchip-rv1126b-based-forlinx-fcu3101-fanless-edge-ai-system-targets-iiot-and-smart-security-applications/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -81,12 +81,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-24 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-24 | armanakbari4/fastwam-robotwin-joint-50k | 0 | 0 | [link](https://huggingface.co/armanakbari4/fastwam-robotwin-joint-50k) |
 | 2026-08-24 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
+| 2026-08-24 | cz22edd/vlaselect_test | 0 | 0 | [link](https://huggingface.co/cz22edd/vlaselect_test) |
 | 2026-08-24 | MotionforgeGroup/VLA-Adapter-CM-80000 | 0 | 0 | [link](https://huggingface.co/MotionforgeGroup/VLA-Adapter-CM-80000) |
 | 2026-08-24 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
 | 2026-08-24 | XYZPIT/vlash-random4-ee-gr00t-n1.6-160000 | 0 | 0 | [link](https://huggingface.co/XYZPIT/vlash-random4-ee-gr00t-n1.6-160000) |
 | 2026-08-24 | Tron-Hayato/act-policy-test | 2 | 0 | [link](https://huggingface.co/Tron-Hayato/act-policy-test) |
 | 2026-08-24 | hiskiv/cosmos-policy-lam-v2 | 0 | 0 | [link](https://huggingface.co/hiskiv/cosmos-policy-lam-v2) |
-| 2026-08-23 | sun-robot/pi05_color_sort_v1_qu_frozen | 0 | 0 | [link](https://huggingface.co/sun-robot/pi05_color_sort_v1_qu_frozen) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -97,10 +97,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | leofan90/Awesome-World-Models | 1978 | Python | 791.3 | [link](https://github.com/leofan90/Awesome-World-Models) |
 | sou350121/VLA-Handbook | 534 | HTML | 213.7 | [link](https://github.com/sou350121/VLA-Handbook) |
 | luohongk/Embodied-AI-Daily | 432 | HTML | 172.9 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| vllm-project/vllm-omni | 6274 | Python | 2509.7 | [link](https://github.com/vllm-project/vllm-omni) |
+| vllm-project/vllm-omni | 6276 | Python | 2510.5 | [link](https://github.com/vllm-project/vllm-omni) |
 | inclusionAI/AWorld | 1225 | Python | 490.1 | [link](https://github.com/inclusionAI/AWorld) |
+| thu-ml/Causal-Forcing | 932 | Python | 372.9 | [link](https://github.com/thu-ml/Causal-Forcing) |
 | isaac-sim/IsaacLab | 7942 | Python | 3176.9 | [link](https://github.com/isaac-sim/IsaacLab) |
-| DexForce/EmbodiChain | 212 | Python | 84.9 | [link](https://github.com/DexForce/EmbodiChain) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
