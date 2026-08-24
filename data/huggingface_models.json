@@ -90,6 +90,15 @@
     "score": 0.3
   },
   {
+    "model": "openroboto-ai/lingbot-vla-v2-6b-libero-goal7",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/openroboto-ai/lingbot-vla-v2-6b-libero-goal7",
+    "date": "2026-08-24",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "muniker/vla-jepa-so101-sort-210base-65ft-unfrozen-50steps-2camera",
     "downloads": 0,
     "likes": 0,
@@ -189,6 +198,24 @@
     "score": 0.1
   },
   {
+    "model": "nvidia/Cosmos3-Edge-Policy-DROID",
+    "downloads": 1541,
+    "likes": 10,
+    "url": "https://huggingface.co/nvidia/Cosmos3-Edge-Policy-DROID",
+    "date": "2026-08-24",
+    "keyword": "policy",
+    "score": 464.4
+  },
+  {
+    "model": "Chaenn/smolvla_policy_so101_cube_multitask_sim_0824",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Chaenn/smolvla_policy_so101_cube_multitask_sim_0824",
+    "date": "2026-08-24",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "MoAIBo/pick_place_depth_posvel_policy_vision_expert",
     "downloads": 0,
     "likes": 0,
@@ -279,24 +306,6 @@
     "score": 0.1
   },
   {
-    "model": "schronn/policy_baseline",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/schronn/policy_baseline",
-    "date": "2026-08-24",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "rkdals2779/shin_pick_and_place_260626_1_act_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/rkdals2779/shin_pick_and_place_260626_1_act_policy",
-    "date": "2026-08-24",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "sun-robot/pi05_color_sort_v1_qu_frozen",
     "downloads": 0,
     "likes": 0,
@@ -322,15 +331,6 @@
     "date": "2026-08-23",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "vladotpad/gpt2-one-euler-steering-denoiser",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/vladotpad/gpt2-one-euler-steering-denoiser",
-    "date": "2026-08-23",
-    "keyword": "vla",
-    "score": 2.8
   },
   {
     "model": "Dimios45/yam-world-model",

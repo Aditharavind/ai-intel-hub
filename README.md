@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-24 21:16 UTC
+Last Updated: 2026-08-24 22:12 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3086 | Python | 1234.5 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3087 | Python | 1234.9 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1462 | Rust | 584.9 | [link](https://github.com/copper-project/copper-rs) |
 | NVlabs/alpasim | 1192 | Python | 476.9 | [link](https://github.com/NVlabs/alpasim) |
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63482 | Python | 25392.9 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30355 | Python | 12142.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30356 | Python | 12142.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | ArduPilot/ardupilot | 15735 | C++ | 6294.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14651 | C++ | 5860.5 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14653 | C++ | 5861.3 | [link](https://github.com/google-deepmind/mujoco) |
 | earthtojake/text-to-cad | 13848 | Python | 5539.3 | [link](https://github.com/earthtojake/text-to-cad) |
-| rerun-io/rerun | 11344 | Rust | 4537.7 | [link](https://github.com/rerun-io/rerun) |
+| rerun-io/rerun | 11345 | Rust | 4538.1 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -124,7 +124,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-24 | Nio reportedly to invest in embodied AI startup founded by Ren Shaoqing, who will remain smart-driving chief - CnEVPost | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNEc3WllNcVBDOGt1T2VnY0hxd3ltb1ZmWEVubnVjeWNxNTlJRFdzM3NmSUJicFIzMVZYb19wWVpnYnRMX05XVWtHeUlPUlJXU1VhNWEzTExSM205MWloM3Z4UkNJMU5MakJReWtUUVpEZjg5N1EzS1JRYmN3WVQ2czBjUDNLa0E?oc=5) |
 | 2026-08-24 | London-based Embedd raises €2.3 million to build the software infrastructure for physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdzJRX0pSYTJhS0U4WWxJMTJTZ2xlcS14S1VETzE2emYzV2xBdURkcUFoVkxFSmx4cHN3UGU3MHcxdG5QMXVrT1VrRjlONmNnWUpCQmV6RUw2MnROb2ViZ1psME8tVXpSOXB3TE16S3JYVzU1ZENmVEl3VWdVeHY4WkpCSWhzellQcGxDQzJDYW15V1RUYzNZNDBDbThWRUxXLTd0UWNvamtFOVdBbFlNYUt6a29JWk5JRzBRM0dYcFdTS3Zna1pNcA?oc=5) |
 | 2026-08-24 | Physical AI startup WATER raises $2.5 million in funding from Endiya Partners, others - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94N9IByAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94Nw?oc=5) |
-| 2026-08-24 | $2.7 million funding round for Embedd’s physical AI - Startupbusiness.it | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGJUWThyOEtqRHd0LTlDd2NmMGxuRUNZajhyMlFXeTc1RnNjeTlCX1k5UWhqVGNtQzZiS1NHT0xmU1JLZkRsc3ZCZ2l2TENQT2d5LWVTMFprWmZXV3dlVG5KOEEwWDRNWVhFY09UZUQwVDJHczh1bzZkNGJtTzE3N200SVB5MXdVaFF3c3pJV3o0TUpOZ0E?oc=5) |
+| 2026-08-24 | Endiya Partners leads $2.5 Mn seed round in bio physical AI startup WATER - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UdIBqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UQ?oc=5) |
 | 2026-08-24 | Xpeng’s robotics unit valued at over $6.3 billion after record funding round - The Mighty 790 KFGO | embodied ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXBINzFQZURyd3RqaWE1UjJkMXVGTF81bnBEN3lxdkpaWktMNGJpT3IxYl9ZUjJkc29JaVNoTUp1OGVGQzZTVzRpRWJlWkZKV0N6NlZBWkdGd09TOHU5ekk4VE1DajBIckVlWkswbGQ1MURFcDI5WUxtMTdTdFA1OHJweHg4dHV1ZmdsdmozUGdNMndRNnYwRFVYLXFqLS11M1JDcWE4M2d2M1pD?oc=5) |
 | 2026-08-24 | General Intuition raises $6B for AI robotics foundation model - The Tech Buzz | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2VFampBSlJkTWFjZkhwRmRHSTl6dk9ZTFhkNThOQlFlNkpaYk5BeHhIOGlGZ0ZuZnlZOS1fbWFhSXJmNk05LVVDSndubUdpYmhqZzlvMkhHaDZic013QjdNUjgyRUNSZnZCdEEzV2M1Q1FTUlM2WmtSVGlYSUhQTG5sZEhEWkZFNEJCNUQxc3ZLeE82RDRzZw?oc=5) |
 | 2026-08-24 | Chinese Robot Tiangong Ultra Beat Usain Bolt's 100m Record Then Crashed - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXJpaG52X1NRUVlTYy1RZ09IeG8yUUNjaEZWYU5Rd0FtdVRCYk1GNmh4eEVoMFI2aGRYd2t2b29kNkgtZ2RJdUtpalNXY3ZBVTMzOEZGblVBcHByQWRRSjJMQWE4ZGRVNng4SmI3X0RBNEs5RENZQ0lEZkE5MVJja0ZtTlU4OXB0TnR3alE3TkY5QW9oLWVqU2E0d0FVRU0?oc=5) |
@@ -133,6 +133,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-24 | Deployment Logistics Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4666290006) |
 | 2026-08-24 | Logistics & Dispatch Manager | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4702689006) |
 | 2026-08-21 | Technical Program Manager, Security & Privacy | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4707189006) |
 | 2026-08-20 | Project Coordinator, Data Creators | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696349006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-19 | Staff Software Engineer, Hardware Interface | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6146407004) |
 | 2026-08-18 | State Estimation Engineer - Data Collection Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4706280006) |
 | 2026-08-17 | Senior Gear Design Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4705588006) |
-| 2026-08-17 | Director of Technical Accounting & Reporting | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6142438004) |
 
 ## Automation
 
