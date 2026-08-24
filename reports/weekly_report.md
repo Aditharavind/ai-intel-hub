@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-24 20:14 UTC
+Generated: 2026-08-24 21:16 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,9 +15,9 @@ Generated: 2026-08-24 20:14 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | commaai/openpilot | 63482 | 25392.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44408 | 17763.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44410 | 17764.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30355 | 12142.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16158 | 6463.3 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16159 | 6463.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15735 | 6294.1 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
@@ -25,9 +25,9 @@ Generated: 2026-08-24 20:14 UTC
 | --- | --- | --- | --- |
 | physicalairi/so101_1200ep_smolvla | 87 | 26.2 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
 | jagwang/mungkeul-physical-ai | 79 | 23.8 | [link](https://huggingface.co/jagwang/mungkeul-physical-ai) |
+| polarisai-robots/bento_v2_openarm_pi05 | 52 | 15.7 | [link](https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05) |
 | UnderTides/Embodied-Navigator-7B-GRPO | 48 | 14.7 | [link](https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO) |
 | physicalairi/so101_1200ep_pi05 | 43 | 13.0 | [link](https://huggingface.co/physicalairi/so101_1200ep_pi05) |
-| Idan/fga-navigation | 43 | 13.0 | [link](https://huggingface.co/Idan/fga-navigation) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

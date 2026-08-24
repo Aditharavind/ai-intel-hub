@@ -1,5 +1,23 @@
 [
   {
+    "model": "polarisai-robots/bento_v2_openarm_pi05",
+    "downloads": 52,
+    "likes": 0,
+    "url": "https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05",
+    "date": "2026-08-24",
+    "keyword": "robot",
+    "score": 15.7
+  },
+  {
+    "model": "RobotsMali/Wuro",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotsMali/Wuro",
+    "date": "2026-08-24",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "fanzh03/robotwin_fewshot",
     "downloads": 0,
     "likes": 0,
@@ -171,6 +189,15 @@
     "score": 0.1
   },
   {
+    "model": "MoAIBo/pick_place_depth_posvel_policy_vision_expert",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MoAIBo/pick_place_depth_posvel_policy_vision_expert",
+    "date": "2026-08-24",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "Mye0n9/cskd-core-h1-h2-on_policy",
     "downloads": 0,
     "likes": 0,
@@ -270,15 +297,6 @@
     "score": 0.1
   },
   {
-    "model": "prajwalpujari16/EdgeSLM-smollm2-lora-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/prajwalpujari16/EdgeSLM-smollm2-lora-policy",
-    "date": "2026-08-24",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "sun-robot/pi05_color_sort_v1_qu_frozen",
     "downloads": 0,
     "likes": 0,
@@ -292,15 +310,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/jmichalskipog/paper_021445162_robotics_vision_language",
-    "date": "2026-08-23",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "deepakmukherjee/paper_021393628_robotics_vision_language",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/deepakmukherjee/paper_021393628_robotics_vision_language",
     "date": "2026-08-23",
     "keyword": "robotics",
     "score": 0.1
@@ -342,13 +351,13 @@
     "score": 23.8
   },
   {
-    "model": "YMmim/qwen2.5-0.5b-robot-cot-lora",
-    "downloads": 15,
+    "model": "deepakmukherjee/paper_021393628_robotics_vision_language",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/YMmim/qwen2.5-0.5b-robot-cot-lora",
-    "date": "2026-08-22",
-    "keyword": "robot",
-    "score": 4.6
+    "url": "https://huggingface.co/deepakmukherjee/paper_021393628_robotics_vision_language",
+    "date": "2026-08-23",
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "novastar111/pacman_braidthin_forward_v2_cutoff50_kinf_world_model",

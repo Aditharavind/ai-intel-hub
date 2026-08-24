@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-24 20:14 UTC
+Last Updated: 2026-08-24 21:16 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-24 | XPeng Motors humanoid robot unit Dogotix raises $900M | Robotics Business Review | [link](https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m/) |
 | 2026-08-23 | Use a digital twin to explore automation before committing capital | Robotics Business Review | [link](https://www.therobotreport.com/use-digital-twin-explore-automation-before-committing-capital/) |
 | 2026-08-22 | How software-defined manufacturing fits into real factory operations | Robotics Business Review | [link](https://www.therobotreport.com/how-software-defined-manufacturing-fits-into-real-factory-operations/) |
 | 2026-08-22 | The technology that could bring robot mowers to one in two American lawns | Robotics Business Review | [link](https://www.therobotreport.com/technology-could-bring-robot-mowers-one-half-american-lawns/) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-21 | Video Friday: Do We Need Superhuman Humanoid Robots? | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-unitree-superhuman) |
 | 2026-08-20 | Agtonomy releases new autonomous multi-point turning features | Robotics Business Review | [link](https://www.therobotreport.com/agtonomy-releases-new-autonomous-multi-point-turning-features/) |
 | 2026-08-20 | ATDev gives update on its journey building autonomous wheelchairs | Robotics Business Review | [link](https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs/) |
-| 2026-08-20 | Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026 | Robotics Business Review | [link](https://www.therobotreport.com/amazon-plans-expand-prime-air-nearly-500-cities-by-end-2026/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-24 | polarisai-robots/bento_v2_openarm_pi05 | 52 | 0 | [link](https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05) |
+| 2026-08-24 | RobotsMali/Wuro | 0 | 0 | [link](https://huggingface.co/RobotsMali/Wuro) |
 | 2026-08-24 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-24 | robotchip/vlarl-ckpts-pub | 0 | 0 | [link](https://huggingface.co/robotchip/vlarl-ckpts-pub) |
 | 2026-08-24 | sun-robot/pi05_color_sort_v1_qu_frozen_050k | 0 | 0 | [link](https://huggingface.co/sun-robot/pi05_color_sort_v1_qu_frozen_050k) |
@@ -85,8 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-24 | junbrro/egopi_directfk_domain_robotonly_208bal_bsz64_30k_vlmfreeze | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_directfk_domain_robotonly_208bal_bsz64_30k_vlmfreeze) |
 | 2026-08-24 | armanakbari4/fastwam-robotwin-joint-50k | 0 | 0 | [link](https://huggingface.co/armanakbari4/fastwam-robotwin-joint-50k) |
 | 2026-08-24 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
-| 2026-08-24 | muniker/vla-jepa-so101-sort-210base-65ft-unfrozen-50steps-2camera | 0 | 0 | [link](https://huggingface.co/muniker/vla-jepa-so101-sort-210base-65ft-unfrozen-50steps-2camera) |
-| 2026-08-24 | LejuRobotics/LET-KUAVO-VLA-1.0-models | 0 | 0 | [link](https://huggingface.co/LejuRobotics/LET-KUAVO-VLA-1.0-models) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -98,9 +98,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | commaai/openpilot | 63482 | Python | 25392.9 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30355 | Python | 12142.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | ArduPilot/ardupilot | 15735 | C++ | 6294.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14650 | C++ | 5860.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13847 | Python | 5538.9 | [link](https://github.com/earthtojake/text-to-cad) |
-| rerun-io/rerun | 11342 | Rust | 4536.9 | [link](https://github.com/rerun-io/rerun) |
+| google-deepmind/mujoco | 14651 | C++ | 5860.5 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13848 | Python | 5539.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| rerun-io/rerun | 11344 | Rust | 4537.7 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
