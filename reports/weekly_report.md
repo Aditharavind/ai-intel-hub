@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-24 11:15 UTC
+Generated: 2026-08-24 12:19 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,7 +15,7 @@ Generated: 2026-08-24 11:15 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | commaai/openpilot | 63481 | 25392.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44407 | 17762.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44408 | 17763.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30352 | 12140.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16158 | 6463.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15732 | 6292.9 | [link](https://github.com/ArduPilot/ardupilot) |
@@ -41,8 +41,8 @@ Generated: 2026-08-24 11:15 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-24 | Seedcamp leads $2.7M round for Ukrainian-founded physical AI startup Embedd - Tech Funding News | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzlXWjJwWk96QlN5dm5XZXduVW9ZS2RQQ3NTNm9SdWgxb2k2d2lyMTNjVWR5UllobWk5cllyRE5zUGdwQmNDTzVoQ19kLUdjNkJwa254Y3ZZSDh2eV9HX29vSVBLQlJmR0tfWXhDRXVYbjI3MVdzVG5tUXJKLUZoa1daTmljY0RqMkx1R1dqZ3AycU1xTmtzT19GbmdCZzdNMVIybExB?oc=5) |
+| 2026-08-24 | Nio reportedly to invest in embodied AI startup founded by Ren Shaoqing, who will remain smart-driving chief - CnEVPost | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNEc3WllNcVBDOGt1T2VnY0hxd3ltb1ZmWEVubnVjeWNxNTlJRFdzM3NmSUJicFIzMVZYb19wWVpnYnRMX05XVWtHeUlPUlJXU1VhNWEzTExSM205MWloM3Z4UkNJMU5MakJReWtUUVpEZjg5N1EzS1JRYmN3WVQ2czBjUDNLa0E?oc=5) |
 | 2026-08-24 | Physical AI startup WATER raises $2.5 million in funding from Endiya Partners, others - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94N9IByAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94Nw?oc=5) |
+| 2026-08-24 | London-based Embedd raises €2.3 million to build the software infrastructure for physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdzJRX0pSYTJhS0U4WWxJMTJTZ2xlcS14S1VETzE2emYzV2xBdURkcUFoVkxFSmx4cHN3UGU3MHcxdG5QMXVrT1VrRjlONmNnWUpCQmV6RUw2MnROb2ViZ1psME8tVXpSOXB3TE16S3JYVzU1ZENmVEl3VWdVeHY4WkpCSWhzellQcGxDQzJDYW15V1RUYzNZNDBDbThWRUxXLTd0UWNvamtFOVdBbFlNYUt6a29JWk5JRzBRM0dYcFdTS3Zna1pNcA?oc=5) |
 | 2026-08-24 | Endiya Partners leads $2.5 Mn seed round in bio physical AI startup WATER - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UdIBqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UQ?oc=5) |
-| 2026-08-23 | Physical AI Funding Hits $47.4B in H1 2026, Up 80%: The Capital Shift - Machine Brief | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWUdkc0p5eXpWdmUzbHhYOFZjTjRLNWJFQmZQblFZMkt5SUdQT09mcFNFai03T1U3RUZBblJhR3k2VGdyN0lrWUVUM2ZwT1QwcGVCVFVpU21VWFhwOWdBdUNoVUt0LXl5Nl8tOVpUbU9jc3lBbUxRT0I1d0M5MDE5aU01RDhEVTRTQVE?oc=5) |
-| 2026-08-23 | Humanoid by Korean Startup to Serve as Teaching Tool in Nvidia Program - Seoul Economic Daily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUVxM1dEazV5Z1ltcWJkbE9LQ0N4U0Fab1dJNklWWFdZUWZFZnpLUmlVTGRwemZCTDZ6OW04aUNWUVZqdUF6NldSeHNHQmNOb0lsT0x0UXlEbGs5MTM1MFpVNGU3eHh6aHh5dzg3NDlKUUZHZ2NDMUxEeUl1aUVqazJQX3VFR2ZwbjAwTGlVTGMwRFZUUW9FZXVyaHlkRVBkclE?oc=5) |
-| 2026-08-21 | Why Georgia Could Have an Edge in Physical AI - Hypepotamus | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ybXpLaldoTmdteTkzWWZZZDQ3VkdUalpmSU01UmRTSEZvN25USGFBYzJubGlEamJycDBTMW1qT3F4ZXFpZ3pEV0tyS2ZWcDBwQldYX1UtZkdIdkdRQTZLVkNrYUY0bVpB?oc=5) |
