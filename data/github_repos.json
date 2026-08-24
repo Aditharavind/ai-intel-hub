@@ -1,13 +1,13 @@
 [
   {
     "repo": "NVIDIA/skills",
-    "stars": 3084,
+    "stars": 3085,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-24",
     "topic": "physical-ai",
-    "score": 1233.7
+    "score": 1234.1
   },
   {
     "repo": "copper-project/copper-rs",
@@ -61,13 +61,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14646,
+    "stars": 14648,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-24",
     "topic": "robotics",
-    "score": 5858.5
+    "score": 5859.3
   },
   {
     "repo": "earthtojake/text-to-cad",
@@ -88,6 +88,16 @@
     "date": "2026-08-24",
     "topic": "robotics",
     "score": 4536.9
+  },
+  {
+    "repo": "kornia/kornia",
+    "stars": 11324,
+    "language": "Python",
+    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "url": "https://github.com/kornia/kornia",
+    "date": "2026-08-24",
+    "topic": "robotics",
+    "score": 4529.7
   },
   {
     "repo": "dora-rs/dora",
@@ -171,13 +181,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6295,
+    "stars": 6296,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-24",
     "topic": "world-model",
-    "score": 2518.1
+    "score": 2518.5
   },
   {
     "repo": "PKU-YuanGroup/Helios",
@@ -251,13 +261,13 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7948,
+    "stars": 7949,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-08-24",
     "topic": "robot-learning",
-    "score": 3179.3
+    "score": 3179.7
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -281,13 +291,13 @@
   },
   {
     "repo": "Hebbian-Robotics/hflow",
-    "stars": 135,
+    "stars": 136,
     "language": "Python",
     "description": "Open source SDK for building multimodal data-quality, processing, enrichment, and curation pipelines for robotics and Physical AI.",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "date": "2026-08-24",
     "topic": "lerobot",
-    "score": 54.1
+    "score": 54.5
   },
   {
     "repo": "johnsutor/so101-nexus",
@@ -301,13 +311,13 @@
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3336,
+    "stars": 3337,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-08-23",
     "topic": "embodied-ai",
-    "score": 1334.5
+    "score": 1334.9
   },
   {
     "repo": "OpenDCAI/OpenWorldLib",
@@ -341,13 +351,13 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4625,
+    "stars": 4626,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-22",
     "topic": "embodied-ai",
-    "score": 1850.1
+    "score": 1850.5
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -378,16 +388,6 @@
     "date": "2026-08-21",
     "topic": "physical-ai",
     "score": 378.9
-  },
-  {
-    "repo": "kornia/kornia",
-    "stars": 11324,
-    "language": "Python",
-    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-    "url": "https://github.com/kornia/kornia",
-    "date": "2026-08-21",
-    "topic": "robotics",
-    "score": 4529.7
   },
   {
     "repo": "worldbench/awesome-vla-for-ad",
