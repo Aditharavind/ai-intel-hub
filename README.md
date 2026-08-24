@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-24 14:29 UTC
+Last Updated: 2026-08-24 15:26 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -41,10 +41,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-22 | Robots don’t run themselves: The workforce powering physical AI | Robotics Business Review | [link](https://www.therobotreport.com/robots-dont-run-themselves-workforce-powering-physical-ai/) |
 | 2026-08-21 | Schaeffler plans to mass produce gearboxes for humanoid robots in 2027 | Robotics Business Review | [link](https://www.therobotreport.com/schaeffler-plans-to-mass-manufacture-gearboxes-for-humanoids-in-2027/) |
 | 2026-08-21 | Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch | Robotics Business Review | [link](https://www.therobotreport.com/amazons-bhavana-chandrashekhar-speaks-robobusiness-women-in-robotics-lunch/) |
+| 2026-08-21 | Video Friday: Do We Need Superhuman Humanoid Robots? | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-unitree-superhuman) |
 | 2026-08-20 | Agtonomy releases new autonomous multi-point turning features | Robotics Business Review | [link](https://www.therobotreport.com/agtonomy-releases-new-autonomous-multi-point-turning-features/) |
 | 2026-08-20 | ATDev gives update on its journey building autonomous wheelchairs | Robotics Business Review | [link](https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs/) |
 | 2026-08-20 | Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026 | Robotics Business Review | [link](https://www.therobotreport.com/amazon-plans-expand-prime-air-nearly-500-cities-by-end-2026/) |
-| 2026-08-19 | Pudu Robotics launches new MP2000 autonomous forklift | Robotics Business Review | [link](https://www.therobotreport.com/pudu-robotics-launches-new-mp2000-autonomous-forklift/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -56,9 +56,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-24 | 3D Printing a Railway Pump Car | Hackaday | [link](https://hackaday.com/2026/08/23/3d-printing-a-railway-pump-car/) |
 | 2026-08-24 | MNT Station fanless, modular open-hardware computer supports a choice of 10+ Arm CPU or FPGA modules (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/24/mnt-station-fanless-modular-open-hardware-computer-supports-a-choice-of-10-arm-cpu-or-fpga-modules/) |
 | 2026-08-24 | $60+ Nordic Semi nRF93M1 Development Kit (DK) targets LTE Cat 1 bis IoT applications | CNX Software | [link](https://www.cnx-software.com/2026/08/24/60-nordic-semi-nrf93m1-development-kit-dk-targets-lte-cat-1-bis-iot-applications/) |
-| 2026-08-24 | Elegant Domino Clock | Adafruit | [link](https://blog.adafruit.com/2026/08/24/elegant-domino-clock/) |
-| 2026-08-24 | Hexagon LED Lights – Modular Panel with Glue or M4 Connections #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/08/24/hexagon-led-lights-modular-panel-with-glue-or-m4-connections-3dthursday-3dprinting/) |
-| 2026-08-23 | Hackaday Links: August 23, 2026 | Hackaday | [link](https://hackaday.com/2026/08/23/hackaday-links-august-23-2026/) |
+| 2026-08-24 | Mikroe Releases RTLS UWB Click Board | Embedded.com | [link](https://www.embedded.com/mikroe-releases-rtls-uwb-click-board/) |
+| 2026-08-24 | Social Media’s Negative Effects On The Young | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/social-medias-negative-effects-on-the-young-2026-08/) |
+| 2026-08-24 | Infineon buys C2i Semiconductors | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/infineon-buys-c2i-semiconductors-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,12 +77,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-24 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-24 | robotchip/vlarl-ckpts-pub | 0 | 0 | [link](https://huggingface.co/robotchip/vlarl-ckpts-pub) |
 | 2026-08-24 | sun-robot/pi05_color_sort_v1_qu_frozen_050k | 0 | 0 | [link](https://huggingface.co/sun-robot/pi05_color_sort_v1_qu_frozen_050k) |
 | 2026-08-24 | GT-111/lawam-robotwin-steps68000 | 0 | 0 | [link](https://huggingface.co/GT-111/lawam-robotwin-steps68000) |
 | 2026-08-24 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 | 2026-08-24 | junbrro/egopi_directfk_domain_robotonly_208bal_bsz64_30k_vlmfreeze | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_directfk_domain_robotonly_208bal_bsz64_30k_vlmfreeze) |
-| 2026-08-24 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-24 | armanakbari4/fastwam-robotwin-joint-50k | 0 | 0 | [link](https://huggingface.co/armanakbari4/fastwam-robotwin-joint-50k) |
 | 2026-08-24 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-08-24 | vladlen-beilik/Qwen3-TTS-12Hz-1.7B-Base | 0 | 0 | [link](https://huggingface.co/vladlen-beilik/Qwen3-TTS-12Hz-1.7B-Base) |
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3081 | Python | 1232.5 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3082 | Python | 1232.9 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1462 | Rust | 584.9 | [link](https://github.com/copper-project/copper-rs) |
 | NVlabs/alpasim | 1192 | Python | 476.9 | [link](https://github.com/NVlabs/alpasim) |
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63481 | Python | 25392.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63484 | Python | 25393.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15734 | C++ | 6293.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14647 | C++ | 5858.9 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11341 | Rust | 4536.5 | [link](https://github.com/rerun-io/rerun) |
+| earthtojake/text-to-cad | 13839 | Python | 5535.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| rerun-io/rerun | 11342 | Rust | 4536.9 | [link](https://github.com/rerun-io/rerun) |
 | dora-rs/dora | 3894 | Rust | 1557.7 | [link](https://github.com/dora-rs/dora) |
-| datawhalechina/every-embodied | 3333 | Python | 1333.3 | [link](https://github.com/datawhalechina/every-embodied) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -124,7 +124,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-24 | Physical AI startup WATER raises $2.5 million in funding from Endiya Partners, others - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94N9IByAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94Nw?oc=5) |
 | 2026-08-24 | London-based Embedd raises €2.3 million to build the software infrastructure for physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdzJRX0pSYTJhS0U4WWxJMTJTZ2xlcS14S1VETzE2emYzV2xBdURkcUFoVkxFSmx4cHN3UGU3MHcxdG5QMXVrT1VrRjlONmNnWUpCQmV6RUw2MnROb2ViZ1psME8tVXpSOXB3TE16S3JYVzU1ZENmVEl3VWdVeHY4WkpCSWhzellQcGxDQzJDYW15V1RUYzNZNDBDbThWRUxXLTd0UWNvamtFOVdBbFlNYUt6a29JWk5JRzBRM0dYcFdTS3Zna1pNcA?oc=5) |
 | 2026-08-24 | Endiya Partners leads $2.5 Mn seed round in bio physical AI startup WATER - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UdIBqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UQ?oc=5) |
-| 2026-08-24 | Physical AI startup WATER raises $2.5 m - BusinessLine | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxPWDBsSFRaQzllaWRfUEZJQ2RSSWFiVk5rUEpjeXZiMUpRdGJ5Y2xsNVJicG1wbUxyODExTnpnVGMxY2dOeU1VODA5WktHM21KOHVLWFFvYUtSUXhPLWlZVnBWSjl4aTRkbmxic3ZFLXBpTmdtenllenlaYUhkM3pHenBFOGxtSVRtZnNWNnMteThYUDFBd2pIelZseEFoUHZibmhlM3FhQdIBrgFBVV95cUxPY01rMklWSHdqU3RkQTlaRHBYOW9vbWlWTFdVa3NkaEFqVzFyb1pUSHZZRUVNTHB6REkxYVR2S1dqTGlQTFhIU3pYckpZY1BMZXNKbkIwQ1psZDlCMk9VZGtIMld4ZDY3c19mX0V1MzQxSXVsSnQxSVg0dkZoaW1IT1IyZ25Lb0VRZHdCX3dMVXpfcXJMblJSQ2tCNXoxWk1uOU83UW9TczdzbTRQd2c?oc=5) |
+| 2026-08-24 | $2.7 million funding round for Embedd’s physical AI - Startupbusiness.it | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGJUWThyOEtqRHd0LTlDd2NmMGxuRUNZajhyMlFXeTc1RnNjeTlCX1k5UWhqVGNtQzZiS1NHT0xmU1JLZkRsc3ZCZ2l2TENQT2d5LWVTMFprWmZXV3dlVG5KOEEwWDRNWVhFY09UZUQwVDJHczh1bzZkNGJtTzE3N200SVB5MXdVaFF3c3pJV3o0TUpOZ0E?oc=5) |
 | 2026-08-24 | Chinese Robot Tiangong Ultra Beat Usain Bolt's 100m Record Then Crashed - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXJpaG52X1NRUVlTYy1RZ09IeG8yUUNjaEZWYU5Rd0FtdVRCYk1GNmh4eEVoMFI2aGRYd2t2b29kNkgtZ2RJdUtpalNXY3ZBVTMzOEZGblVBcHByQWRRSjJMQWE4ZGRVNng4SmI3X0RBNEs5RENZQ0lEZkE5MVJja0ZtTlU4OXB0TnR3alE3TkY5QW9oLWVqU2E0d0FVRU0?oc=5) |
 | 2026-08-24 | Xpeng's robotics unit valued at over US$6.3 billion after record funding round - The Standard (HK) | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGx6NTVYNnRIRk9EOUFtSTI2UnB5V2pucDkyRlNDVDJSZ2RjQ05JOG96N3pvYWV2czlteUx0akpTWFlGZnBPZHYyUExXLUJsN0lMOENxSENjSkt6REU1RW5sOWRTa1prLXZ4QVhHa28wbzVSc0pGaFpqa3ZVbFF1TXRLRThuTnVmRl90aV9uTzdPcWI3ckdpZ0QydkFFNjBBTEhkLTZYMXJ1MVhTVDl6ZUxqUzRtdGNRdWQwN01UY205Tm1DRk9EcQ?oc=5) |
 | 2026-08-23 | Humanoid by Korean Startup to Serve as Teaching Tool in Nvidia Program - Seoul Economic Daily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUVxM1dEazV5Z1ltcWJkbE9LQ0N4U0Fab1dJNklWWFdZUWZFZnpLUmlVTGRwemZCTDZ6OW04aUNWUVZqdUF6NldSeHNHQmNOb0lsT0x0UXlEbGs5MTM1MFpVNGU3eHh6aHh5dzg3NDlKUUZHZ2NDMUxEeUl1aUVqazJQX3VFR2ZwbjAwTGlVTGMwRFZUUW9FZXVyaHlkRVBkclE?oc=5) |
