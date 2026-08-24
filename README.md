@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-24 07:46 UTC
+Last Updated: 2026-08-24 08:32 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-24 | The Casio F-91W As A Contactless Payment Device. | Hackaday | [link](https://hackaday.com/2026/08/24/the-casio-f-91w-as-a-contactless-payment-device/) |
 | 2026-08-24 | Neo-Cyclostyle: Automatic Document Copying Devices in 1890 | Hackaday | [link](https://hackaday.com/2026/08/23/neo-cyclostyle-automatic-document-copying-devices-in-1890/) |
 | 2026-08-24 | 3D Printing a Railway Pump Car | Hackaday | [link](https://hackaday.com/2026/08/23/3d-printing-a-railway-pump-car/) |
 | 2026-08-24 | $60+ Nordic Semi nRF93M1 Development Kit (DK) targets LTE Cat 1 bis IoT applications | CNX Software | [link](https://www.cnx-software.com/2026/08/24/60-nordic-semi-nrf93m1-development-kit-dk-targets-lte-cat-1-bis-iot-applications/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-24 | AMD takes 30% of x86 PC CPU market; Arm takes 15% of PC CPU market | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/amd-takes-30-of-x86-pc-cpu-market-arm-takes-15-of-pc-cpu-market-2026-08/) |
 | 2026-08-24 | Wi-Fi Halow USB dongle reference designs | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/wifi-halow-usb-dongle-reference-designs-2026-08/) |
 | 2026-08-24 | Ed And The Prodigal | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-and-the-prodigal-2026-08/) |
-| 2026-08-23 | Hackaday Links: August 23, 2026 | Hackaday | [link](https://hackaday.com/2026/08/23/hackaday-links-august-23-2026/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-24 | robotchip/vlarl-ckpts-pub | 0 | 0 | [link](https://huggingface.co/robotchip/vlarl-ckpts-pub) |
+| 2026-08-24 | sun-robot/pi05_color_sort_v1_qu_frozen_050k | 0 | 0 | [link](https://huggingface.co/sun-robot/pi05_color_sort_v1_qu_frozen_050k) |
 | 2026-08-24 | GT-111/lawam-robotwin-steps68000 | 0 | 0 | [link](https://huggingface.co/GT-111/lawam-robotwin-steps68000) |
 | 2026-08-24 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 | 2026-08-24 | junbrro/egopi_directfk_domain_robotonly_208bal_bsz64_30k_vlmfreeze | 0 | 0 | [link](https://huggingface.co/junbrro/egopi_directfk_domain_robotonly_208bal_bsz64_30k_vlmfreeze) |
@@ -85,8 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-24 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-08-24 | cz22edd/vlaselect_test | 0 | 0 | [link](https://huggingface.co/cz22edd/vlaselect_test) |
 | 2026-08-24 | MotionforgeGroup/VLA-Adapter-CM-80000 | 0 | 0 | [link](https://huggingface.co/MotionforgeGroup/VLA-Adapter-CM-80000) |
-| 2026-08-24 | B111ue/fcl-vla-functional-support-canary | 0 | 0 | [link](https://huggingface.co/B111ue/fcl-vla-functional-support-canary) |
-| 2026-08-24 | XYZPIT/vlash-random4-ee-gr00t-n1.6-160000 | 0 | 0 | [link](https://huggingface.co/XYZPIT/vlash-random4-ee-gr00t-n1.6-160000) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,10 +94,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | ArduPilot/ardupilot | 15731 | C++ | 6292.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14644 | C++ | 5857.7 | [link](https://github.com/google-deepmind/mujoco) |
 | dora-rs/dora | 3893 | Rust | 1557.3 | [link](https://github.com/dora-rs/dora) |
-| leofan90/Awesome-World-Models | 1978 | Python | 791.3 | [link](https://github.com/leofan90/Awesome-World-Models) |
+| leofan90/Awesome-World-Models | 1979 | Python | 791.7 | [link](https://github.com/leofan90/Awesome-World-Models) |
 | sou350121/VLA-Handbook | 535 | HTML | 214.1 | [link](https://github.com/sou350121/VLA-Handbook) |
-| luohongk/Embodied-AI-Daily | 432 | HTML | 172.9 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| RealXiaoze/humanoid-motion-intelligence | 406 |  | 162.5 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
+| luohongk/Embodied-AI-Daily | 433 | HTML | 173.3 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
+| RealXiaoze/humanoid-motion-intelligence | 407 |  | 162.9 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
 | vllm-project/vllm-omni | 6285 | Python | 2514.1 | [link](https://github.com/vllm-project/vllm-omni) |
 | PKU-YuanGroup/Helios | 2072 | Python | 828.9 | [link](https://github.com/PKU-YuanGroup/Helios) |
 | inclusionAI/AWorld | 1225 | Python | 490.1 | [link](https://github.com/inclusionAI/AWorld) |
@@ -119,7 +119,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-24 | Endiya Partners leads $2.5 Mn seed round in physical AI startup WATER - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UdIBqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UQ?oc=5) |
+| 2026-08-24 | Physical AI startup WATER raises $2.5 million in funding from Endiya Partners, others - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94N9IByAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94Nw?oc=5) |
+| 2026-08-24 | Endiya Partners leads $2.5 Mn seed round in bio physical AI startup WATER - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UdIBqgFBVV95cUxQTXFiWXhmbXZhMi1CSlZZUjhiWTlWVngwWVhaNUNHZnd4OHdlYWdnUjBxdWxwcGp6ZmxOY2FLZGJ5V3RwMU1CMGtjUVpyd2F5NE1rNHdraEtsc1plM2FrTlVZTWdfSTM0WDZCcGpaVUxHbDdla3R2VDlJVlB3Mks2bzFwRkJXVHoyUVNjSUMzWFBDS09Fc0NvUG91RDVMVGFvZnRxeGU2WDg1UQ?oc=5) |
 | 2026-08-23 | Physical AI Funding Hits $47.4B in H1 2026, Up 80%: The Capital Shift - Machine Brief | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWUdkc0p5eXpWdmUzbHhYOFZjTjRLNWJFQmZQblFZMkt5SUdQT09mcFNFai03T1U3RUZBblJhR3k2VGdyN0lrWUVUM2ZwT1QwcGVCVFVpU21VWFhwOWdBdUNoVUt0LXl5Nl8tOVpUbU9jc3lBbUxRT0I1d0M5MDE5aU01RDhEVTRTQVE?oc=5) |
 | 2026-08-23 | Humanoid by Korean Startup to Serve as Teaching Tool in Nvidia Program - Seoul Economic Daily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUVxM1dEazV5Z1ltcWJkbE9LQ0N4U0Fab1dJNklWWFdZUWZFZnpLUmlVTGRwemZCTDZ6OW04aUNWUVZqdUF6NldSeHNHQmNOb0lsT0x0UXlEbGs5MTM1MFpVNGU3eHh6aHh5dzg3NDlKUUZHZ2NDMUxEeUl1aUVqazJQX3VFR2ZwbjAwTGlVTGMwRFZUUW9FZXVyaHlkRVBkclE?oc=5) |
 | 2026-08-21 | Why Georgia Could Have an Edge in Physical AI - Hypepotamus | physical ai startup | [link](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ybXpLaldoTmdteTkzWWZZZDQ3VkdUalpmSU01UmRTSEZvN25USGFBYzJubGlEamJycDBTMW1qT3F4ZXFpZ3pEV0tyS2ZWcDBwQldYX1UtZkdIdkdRQTZLVkNrYUY0bVpB?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-20 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
 | 2026-08-20 | Chinese Startup Shows Off Robot Horse You Can Actually Ride - Futurism | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa0I1UUZmenNFQS0zR0hyRUNrVlB3TFN5WTYyUU1OdTNXZ21OWU55YU9TelByZEl4Qi1IMzdQWEk5cTV0SWkxUnFQMTV0WVo0RjFiMmpHbkoyZTdUb0VWVkJVTW5KYU5qMnYxdEN1YngtVkVaOUdqbzBTOG9COXJpUEZTV2hZWjNzbXFF?oc=5) |
 | 2026-08-20 | Humanoid robot crashes after Beijing sprint - The American Bazaar | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGkxUUNMWFNmOUVybkkzVzJMd3hZcGszYTVhWTdrNlY2VU10b01KdlJMSmlzajkzZFBCSWpGY0Y1U3J2a1B6Y0ZuVDdCN0JCekE1U2lRQ1RZUTc4dUpVVVZoa1JZeF9nZGNRdXp4d0tBLTFyTXY1d3ZNWHUtcHpzbEN1S29hUEEzNUlLX0t6UjYwUQ?oc=5) |
-| 2026-08-19 | Former Nvidia lab leader Sanja Fidler launches Veeda AI to tackle world models - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRreGNHRzNvY0NlNVdjdk9fUEtrakxxT3E3WWJPMmxLc2FBeXdpcjdXTElsV3FBX0pBYUpXWHYzYlAzZ3o4WXk2MVZNS2tJQWg2bzBIendlWm9qTldRTzFLaERSZDd5UFUxZmZ6MnV5T0FBaHhYdEpIaU1UN3ZZcTg1RFZFcE5aUDJRaE9LTHRoS3ZPUmJ6RkZmbWxReWNI?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

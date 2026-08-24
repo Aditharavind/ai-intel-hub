@@ -1,5 +1,23 @@
 [
   {
+    "model": "robotchip/vlarl-ckpts-pub",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotchip/vlarl-ckpts-pub",
+    "date": "2026-08-24",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sun-robot/pi05_color_sort_v1_qu_frozen_050k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sun-robot/pi05_color_sort_v1_qu_frozen_050k",
+    "date": "2026-08-24",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "GT-111/lawam-robotwin-steps68000",
     "downloads": 0,
     "likes": 0,
@@ -87,6 +105,15 @@
     "url": "https://huggingface.co/XYZPIT/vlash-random4-ee-gr00t-n1.6-160000",
     "date": "2026-08-24",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "IKOBO/act_so101_red_cube_test003_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/IKOBO/act_so101_red_cube_test003_policy",
+    "date": "2026-08-24",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -207,15 +234,6 @@
     "score": 0.1
   },
   {
-    "model": "7-in-days/vla_background_400_0818",
-    "downloads": 1,
-    "likes": 0,
-    "url": "https://huggingface.co/7-in-days/vla_background_400_0818",
-    "date": "2026-08-23",
-    "keyword": "vla",
-    "score": 0.4
-  },
-  {
     "model": "Dimios45/yam-world-model",
     "downloads": 0,
     "likes": 0,
@@ -286,24 +304,6 @@
     "date": "2026-08-22",
     "keyword": "robot",
     "score": 4.6
-  },
-  {
-    "model": "walk-er88/paper_021859239_robotics_vision_language",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/walk-er88/paper_021859239_robotics_vision_language",
-    "date": "2026-08-22",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "milab-robot/alm1-0818-amore",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/milab-robot/alm1-0818-amore",
-    "date": "2026-08-22",
-    "keyword": "robot",
-    "score": 0.1
   },
   {
     "model": "novastar111/pacman_braidthin_forward_v2_cutoff50_kinf_world_model",
@@ -450,13 +450,13 @@
     "score": 19.6
   },
   {
-    "model": "MoAIBo/pick_place_depth_vel_policy_vision_expert",
-    "downloads": 11,
+    "model": "walk-er88/paper_021859239_robotics_vision_language",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/MoAIBo/pick_place_depth_vel_policy_vision_expert",
+    "url": "https://huggingface.co/walk-er88/paper_021859239_robotics_vision_language",
     "date": "2026-08-22",
-    "keyword": "policy",
-    "score": 3.4
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "srilubis/paper_021725602_robotics_vision_language",
