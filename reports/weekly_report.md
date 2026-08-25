@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-25 03:36 UTC
+Generated: 2026-08-25 04:25 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,7 +15,7 @@ Generated: 2026-08-25 03:36 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | commaai/openpilot | 63484 | 25393.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44414 | 17765.7 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44415 | 17766.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30358 | 12143.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16162 | 6464.9 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15736 | 6294.5 | [link](https://github.com/ArduPilot/ardupilot) |
@@ -24,19 +24,19 @@ Generated: 2026-08-25 03:36 UTC
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | nvidia/Cosmos3-Edge-Policy-DROID | 1541 | 464.4 | [link](https://huggingface.co/nvidia/Cosmos3-Edge-Policy-DROID) |
+| XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365 | 1062 | 320.5 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365) |
 | physicalairi/so101_1200ep_smolvla | 87 | 26.2 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
 | jagwang/mungkeul-physical-ai | 79 | 23.8 | [link](https://huggingface.co/jagwang/mungkeul-physical-ai) |
 | polarisai-robots/bento_v2_openarm_pi05 | 52 | 15.7 | [link](https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05) |
-| UnderTides/Embodied-Navigator-7B-GRPO | 48 | 14.7 | [link](https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
-| 2026-08-25 | Unitree |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxNb3lSblQxalhOT0V3YXNIc1lMLTljVGp0c2pSRllBSGZSVnY4czMyLWl3RGtpYkN3MEJkY1B3X0pyRFcwX2VFWUlycllMOHRuSDlyRFhrY1NCeVBfdW1lR0hHSktnS3dBYVFsa0JNN1lVaER3OHI3UlhOX1BCUkdjUklaUkVCQmd0SWwzcmR3NE05X09NSTBDeW82VGN2QXR2bGxndzE4NFpwc1F6TC1KV3V5NTBVWFoxbDFYenhRZw?oc=5) |
+| 2026-08-25 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SOUROMURZQXFMUFNDcW1Lc3NXb2ZIblQ3eVc1cHRCNk5GZDFEcThGWXJCZk5UYlNucUE5NDVrV0k0eEdkTGtHS19FdHIyOGZnN1Bn?oc=5) |
+| 2026-08-25 | Unitree |  | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSXpucDJ1d0dDT1d0ZW5JV0pCMFJkNXlRdGExeUtZUmdyemxCREF2QXNRdWJVZGI1NGZYQnlfWlZURnZXc3pPNnVmSVZ6MkZTdGYwbXpaQ2hwS0tJTERDdGw0VGxQYUxta0o3dFlTbkdOVVdGcTB3bmJ1TUlPajdIQnJDTXNXSl91M3c4ZlVPcFlDNkhTU094WW13?oc=5) |
 | 2026-08-24 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0sxLXN0Nm5BMnVDMHlUMGtZOG96R01tMjgwZWtGTjd0MTJEclhGNDE5MmxaSXFfdDBGaEZ0OVM4aUtsbm4zRmVVbThabUVRZ0FUUjZHWE5CRk1DdkpxN0U4QVIteTFJYWJReG9yWFlTZkdjcGI4T05pWXRFa3NPbmFFQjE5U3ZDeWJYNDlDNENCWG9lemhoaV9rcmRNWldXa1BYU1RB?oc=5) |
 | 2026-08-24 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxPOE9IcF8xbGtzM25uYUg2VkhxbzJmbXl2R29jczkwV3VSWmdEOWFPUWluNWk0My1wZmwxQzNCVGVWZlhQOFR4LXk2U0RVWkpMa1EzLV9PSkpFU21KQ3g5U2hRekp0dmRtOEpYZ05ZVDNBOEFuTTk0WW1xWmY4Rm1LRmFKa1lCTV8teDNpMzJsNGJpNEJPaTB2VmtZdkUwcFpDc0dDVWVpd195dHEzN1Q3bXNSeXpVcFFwUVJzV085dFJXeGs2?oc=5) |
 | 2026-08-24 | Skild AI |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlROdnFoR0Q2ZXkxS21CbHZCTktXYmRXS25xaFFHLVJSYktBLXRVVk13Tk5xTi12NjhwaXIxcGpacTJoSU9kZVZvMk5pajNscDFGTk9yNTdqSEVxU0dPTkxTcUVBRWg4SW1BQm9WTTdodmlOZk1zTDlLdDNVRWxaVHdPdldoM21sZHp0d3lDNnExbmxmamt2bnh1M3llQXN2RVlHOXVxYWR6MXV3T2VqVTQwdEVRSGs?oc=5) |
-| 2026-08-24 | Unitree |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9PcW5tZHFHSF9UU0FwNGRLZHAxY2lVOG9CMzRxdnhXMldwcTFBcU5qZk1JdDFmREpYU3BZWWI2dEhRRld4cHpKTUcwbWhOakR2U0dwQ2h6WnlrSzFEdlJvNzVpWTJxU0JPNDhGUmxkUXY0WlNNWHc?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |

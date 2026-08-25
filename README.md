@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-25 03:36 UTC
+Last Updated: 2026-08-25 04:25 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,16 +77,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-25 | jungwook2358/actlat-gr1-1000demos-segpix-robotmask-promptv2-vla60000-tok100000 | 0 | 0 | [link](https://huggingface.co/jungwook2358/actlat-gr1-1000demos-segpix-robotmask-promptv2-vla60000-tok100000) |
+| 2026-08-25 | XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365 | 1062 | 9 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365) |
 | 2026-08-25 | robotchip/vlarl-ckpts-pub | 0 | 0 | [link](https://huggingface.co/robotchip/vlarl-ckpts-pub) |
 | 2026-08-25 | worldboss/my-model | 0 | 0 | [link](https://huggingface.co/worldboss/my-model) |
 | 2026-08-25 | SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch1 | 0 | 0 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch1) |
 | 2026-08-25 | SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch0.75 | 0 | 0 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch0.75) |
 | 2026-08-25 | SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch0.5 | 0 | 0 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch0.5) |
 | 2026-08-25 | SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch0.25 | 0 | 0 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch0.25) |
+| 2026-08-25 | Tingarius/my_smolvla_aloha_policy | 0 | 0 | [link](https://huggingface.co/Tingarius/my_smolvla_aloha_policy) |
 | 2026-08-25 | Tingarius/my_smolvla_policy | 0 | 0 | [link](https://huggingface.co/Tingarius/my_smolvla_policy) |
-| 2026-08-25 | muacha/my_overfit_pi05_policy_expert_only15k | 0 | 0 | [link](https://huggingface.co/muacha/my_overfit_pi05_policy_expert_only15k) |
-| 2026-08-25 | geonmin-kim/Cosmos3-Edge-Policy-DROID-FastWAM-v1-step25000 | 0 | 0 | [link](https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-DROID-FastWAM-v1-step25000) |
-| 2026-08-25 | rkdals2779/shin_pick_and_place_260626_1_act_policy | 0 | 0 | [link](https://huggingface.co/rkdals2779/shin_pick_and_place_260626_1_act_policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -100,19 +100,19 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | dora-rs/dora | 3896 | Rust | 1558.5 | [link](https://github.com/dora-rs/dora) |
 | knightnemo/Awesome-World-Models | 3340 |  | 1336.1 | [link](https://github.com/knightnemo/Awesome-World-Models) |
 | sou350121/VLA-Handbook | 538 | HTML | 215.3 | [link](https://github.com/sou350121/VLA-Handbook) |
-| baidu-baige/LoongForge | 500 | Python | 200.1 | [link](https://github.com/baidu-baige/LoongForge) |
+| baidu-baige/LoongForge | 504 | Python | 201.7 | [link](https://github.com/baidu-baige/LoongForge) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
-| 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxNb3lSblQxalhOT0V3YXNIc1lMLTljVGp0c2pSRllBSGZSVnY4czMyLWl3RGtpYkN3MEJkY1B3X0pyRFcwX2VFWUlycllMOHRuSDlyRFhrY1NCeVBfdW1lR0hHSktnS3dBYVFsa0JNN1lVaER3OHI3UlhOX1BCUkdjUklaUkVCQmd0SWwzcmR3NE05X09NSTBDeW82VGN2QXR2bGxndzE4NFpwc1F6TC1KV3V5NTBVWFoxbDFYenhRZw?oc=5) |
+| 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SOUROMURZQXFMUFNDcW1Lc3NXb2ZIblQ3eVc1cHRCNk5GZDFEcThGWXJCZk5UYlNucUE5NDVrV0k0eEdkTGtHS19FdHIyOGZnN1Bn?oc=5) |
+| 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSXpucDJ1d0dDT1d0ZW5JV0pCMFJkNXlRdGExeUtZUmdyemxCREF2QXNRdWJVZGI1NGZYQnlfWlZURnZXc3pPNnVmSVZ6MkZTdGYwbXpaQ2hwS0tJTERDdGw0VGxQYUxta0o3dFlTbkdOVVdGcTB3bmJ1TUlPajdIQnJDTXNXSl91M3c4ZlVPcFlDNkhTU094WW13?oc=5) |
 | 2026-08-24 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0sxLXN0Nm5BMnVDMHlUMGtZOG96R01tMjgwZWtGTjd0MTJEclhGNDE5MmxaSXFfdDBGaEZ0OVM4aUtsbm4zRmVVbThabUVRZ0FUUjZHWE5CRk1DdkpxN0U4QVIteTFJYWJReG9yWFlTZkdjcGI4T05pWXRFa3NPbmFFQjE5U3ZDeWJYNDlDNENCWG9lemhoaV9rcmRNWldXa1BYU1RB?oc=5) |
 | 2026-08-24 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxPOE9IcF8xbGtzM25uYUg2VkhxbzJmbXl2R29jczkwV3VSWmdEOWFPUWluNWk0My1wZmwxQzNCVGVWZlhQOFR4LXk2U0RVWkpMa1EzLV9PSkpFU21KQ3g5U2hRekp0dmRtOEpYZ05ZVDNBOEFuTTk0WW1xWmY4Rm1LRmFKa1lCTV8teDNpMzJsNGJpNEJPaTB2VmtZdkUwcFpDc0dDVWVpd195dHEzN1Q3bXNSeXpVcFFwUVJzV085dFJXeGs2?oc=5) |
 | 2026-08-24 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlROdnFoR0Q2ZXkxS21CbHZCTktXYmRXS25xaFFHLVJSYktBLXRVVk13Tk5xTi12NjhwaXIxcGpacTJoSU9kZVZvMk5pajNscDFGTk9yNTdqSEVxU0dPTkxTcUVBRWg4SW1BQm9WTTdodmlOZk1zTDlLdDNVRWxaVHdPdldoM21sZHp0d3lDNnExbmxmamt2bnh1M3llQXN2RVlHOXVxYWR6MXV3T2VqVTQwdEVRSGs?oc=5) |
 | 2026-08-24 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9PcW5tZHFHSF9UU0FwNGRLZHAxY2lVOG9CMzRxdnhXMldwcTFBcU5qZk1JdDFmREpYU3BZWWI2dEhRRld4cHpKTUcwbWhOakR2U0dwQ2h6WnlrSzFEdlJvNzVpWTJxU0JPNDhGUmxkUXY0WlNNWHc?oc=5) |
 | 2026-08-22 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzdQNU5NQnZJRU5JeS1DWFdVcDFqVVp4VlhMTXNxaUVadTJ2WXJPWWJmdXJBYW0xZkY4VnBQaUpWWnlHdVBJTkI3S21sUXE4NkQ1dVUybVUwb3E3ZjhPR3c5TXZrQVcyTWpjX0w0elE0SnJ4SlQ2cFRFQkJWRElFSk1PUXhhM21GYkZ2RlJwRGFFSllZQXJZ?oc=5) |
 | 2026-08-20 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhLOS1OTWxZdzBsWFYxXzBybFo0dU1LdTVLLTgzWEtlNDlMRm1uRjQ0R3lSOWpna0dkanhMR0dGV0RVOUVzRFZWbFZJejNMWEQ5NXRKaFc5MTVrN3ZIdnpmQ1p5UUVrV3lOMUI0X0ktTjQ0MEM1bTFzaXg3d1dBT1NXY2FmZkRnRW03ZUo4VEx3cFU3SVVFdVQzZUtVSWpWZlFYM0diQi1Wb1lJVGZn?oc=5) |
-| 2026-08-20 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxOLU9kZTRhZG95aFFQLU51bFN0elpRTUJMVVNRR1BsSGw1MlJRNDYweFdYdG5JNWtKQTJCQ1hNNGF5NmF4Wks4czN1NFNqcjFFOHJ5d1R2X0tPUTEzV0NjbXI1bFVFN3JTOXhSOXBkeUxHVEFPN3VFRVl1UnFqeGdreml6WDBYWTdjTWdnemttWks3M2Rv?oc=5) |
 | 2026-08-19 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWx4dUhBckpyUko4NGppNk8tLWtCbzdhaHVaQzdKanVIZFVxdXJsWXhUZi12c2pMRGg2VFc5MVhIR184UkFTa3FWZTBtaTI0SXNjSllfS3dIMjltTVdnYWFsQS1XZVBKM2lvME5JdGJrTE5qNG5KVXMtWWE5QUxfV1pxdTJYZ0U4RGFnTDAzR1hmUQ?oc=5) |
 | 2026-08-19 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1hiM1VrQ3VmZkp3TWRpaXpqVW93ZW9qN3NRdFJWcEdOZU9jTnFvb25ZY3BoVkhIMVo3NjZXYkxEbnlHU0stS1lsM042aWhvR0JNR0Z4RDV5c1hJWnprNmhzalRSUEdJSG5xdmtQWV9TcU5DV3ZHeXdoWkVuc01hMFA0d0ZZaW5EeVFFdlJ1OWd2UUlsNkt4RHVrdmxJYjJzelVjTE05eGtxV0RQcmpmdzdtX1NqZw?oc=5) |
 
