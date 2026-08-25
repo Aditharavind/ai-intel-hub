@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-25 13:38 UTC
+Last Updated: 2026-08-25 14:32 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-25 | Anatomy of an SLA Resin Printing Disaster | Hackaday | [link](https://hackaday.com/2026/08/25/anatomy-of-an-sla-resin-printing-disaster/) |
 | 2026-08-25 | Quest VR Headset Becomes Unlocked Hardware | Hackaday | [link](https://hackaday.com/2026/08/25/quest-vr-headset-becomes-unlocked-hardware/) |
 | 2026-08-25 | The Days Of Broadcast Digital TV Could Be Numbered | Hackaday | [link](https://hackaday.com/2026/08/25/the-days-of-broadcast-digital-tv-could-be-numbered/) |
 | 2026-08-25 | Straight Talk on 3D Printing Footwear At Home | Hackaday | [link](https://hackaday.com/2026/08/24/straight-talk-on-3d-printing-footwear-at-home/) |
@@ -57,8 +58,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | Firehat is an open-source FireWire DV capture HAT for SBCs with Raspberry Pi PCIe FFC connector (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/25/firehat-open-source-firewire-dv-capture-hat-pcie-sbc-raspberry-pi-5-radxa-rock-2f/) |
 | 2026-08-25 | Advantech AOM-6741 AI Vision SMARC module features 100 TOPS Qualcomm IQ-9075 SoC, up to 36 GB LPDDR5 | CNX Software | [link](https://www.cnx-software.com/2026/08/25/advantech-aom-6741-qualcomm-iq-9075-smarc-module/) |
 | 2026-08-25 | Viavi Vertex 6.0 Targets 6G and Wi-Fi 7/8 RF Testing | Embedded.com | [link](https://www.embedded.com/viavi-vertex-6-0-targets-6g-and-wi-fi-7-8-rf-testing/) |
-| 2026-08-25 | Could Nvidia Default? | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/could-nvidia-default-2026-08/) |
-| 2026-08-25 | Optocouplers tame EMI in wide-bandgap designs | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/optocouplers-tame-emi-in-wide-bandgap-designs-2026-08/) |
+| 2026-08-25 | nRF93M1-LABA smart modem for Cat 1 bis IoT devices | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/nrf93m1-laba-smart-modem-for-cat-1-bis-iot-devices-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -86,21 +86,21 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | Voyager466920/ahin-real-robot-pi0.5-eight-tasks | 0 | 0 | [link](https://huggingface.co/Voyager466920/ahin-real-robot-pi0.5-eight-tasks) |
 | 2026-08-25 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 | 2026-08-25 | jungwook2358/actlat-gr1-1000demos-segpix-robotmask-promptv2-vla60000-tok100000 | 0 | 0 | [link](https://huggingface.co/jungwook2358/actlat-gr1-1000demos-segpix-robotmask-promptv2-vla60000-tok100000) |
-| 2026-08-25 | XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365 | 1083 | 9 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365) |
+| 2026-08-25 | XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365 | 1083 | 10 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 3096 | Python | 1238.5 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1464 | Rust | 585.7 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 948 | Python | 379.3 | [link](https://github.com/mosaico-labs/mosaico) |
+| mosaico-labs/mosaico | 949 | Python | 379.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 471 | Shell | 188.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | autonomous-ai/autonomous-os | 204 | Python | 81.7 | [link](https://github.com/autonomous-ai/autonomous-os) |
-| commaai/openpilot | 63491 | Python | 25396.5 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15739 | C++ | 6295.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 63492 | Python | 25396.9 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15740 | C++ | 6296.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14663 | C++ | 5865.3 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 11349 | Rust | 4539.7 | [link](https://github.com/rerun-io/rerun) |
-| RLinf/RLinf | 4636 | Python | 1854.5 | [link](https://github.com/RLinf/RLinf) |
+| kornia/kornia | 11324 | Python | 4529.7 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -122,10 +122,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | NEC CVC fund invests in US humanoid robot and Physical AI startup - Telecompaper | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNckpiU0xUckpFWUFySHVYT2M5Z2VsYlBVRXN2bzd6amdOOUtYaEdqWGhacDEwSXVDSDFZNWt3NllEWENFMGxYbkxCZjA5akxKTm5hdmVxb0gxdlNCVjVjU08tODVjSlhKQ1pQQnJEdlM4QWhCOTJjeGJXM3RQVEdLdWRaQkNkbXljcTlHd1NmUC13X1dXWFU4ZXRWTUIxUFh1ZlVocngxc3VnT2E4?oc=5) |
 | 2026-08-25 | NEC Orchestrating Future Fund Invests in U.S.-based Humanoid Robot & Physical AI Developer Dexmate - AI Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxQVjJyTVlrdHN2TkdoNFNSYmFUVy1Gd2JSSlZUMEVUbUFTUjlsUm5sN2kwRC1hM0NLcUctRkxZMXZqU1RWQllOa2JtSWp2NG8xbW9hRVkwYm5jM2ZyZ0JxTm85MDF5TVFQWXRXMVV4MG1iMXlxM04yUDlMTWJybzlZbkNaUnJyOWtUNmw2NFk4WXU1VjlQTzdUY2pQSzExVk84WHFtRHBNNVNlSThPbUlOWUpQcjQ4a2VpMkd1bUQ3UmlqYzhUeEVWMUl1T1NpQQ?oc=5) |
 | 2026-08-25 | NEC invests in US-based robotics startup Dexmate - Robotics & Automation News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOak5OZVJ6bGxrSmV1QXN3S0lfTjlDV3JtZjZSQUdrYzk1d0hnMlNMaGI3TkNER2tCRlhOUk5rckRXam1TY0p3Z2ladFZiQ3FVUndvZV9UZjF3NWx3anhmNEkwSjNWNUhrcDdQZlpPd1gwWnZKdnIxOFZvblRsY2dzTEdwVzBZWGtBRFd4aXBpUmNoeEZERVhPU0RVSllmNWpYQ0FDOGpvNjM?oc=5) |
-| 2026-08-25 | General Intuition in talks to raise at $6B valuation as physical AI race accelerates - Tech Funding News | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2w2bVNWTnI1eEF4ZWFnd3Jfa0ctZV9JV09DZzIxZVRWenlRV1hzSFREMkxKZUdMNkhjb0tsWktmYi13NE1FTmZtTW1CTzFHVnJubnpEYl82NUVJNFBqQjFqbmF1QUFqaUV2YXo1NVExQU9wTUVxUlBtWmRFdFZsUG5ybVZVdDhQeVJGR2FJcVQ4YXFHa09aU0cyU2dIV1Q1TGhFOVU5V3oxMGhSU040UU9R?oc=5) |
-| 2026-08-25 | Generalist AI Raises $200 Million to Revolutionize Physical AI Robotics - Ventureburn | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUG1obUhRLV9FMVk5Q1FhcFMxMXotNU9ReGZxa2oxVzhaZVk1eW5rNC14aTgydWdtMWV0eG1fcWlQcmg0aE50M3JnNnluX0IzRmJOaEJvVk02WXRROFFEdUFGUUhEQnNiX2xoZjVFOHBzQnh2eUVpUklMSWE0cVZTR2NnMWhkWlRxbWdZVGU1a2xid9IBkgFBVV95cUxNUG1obUhRLV9FMVk5Q1FhcFMxMXotNU9ReGZxa2oxVzhaZVk1eW5rNC14aTgydWdtMWV0eG1fcWlQcmg0aE50M3JnNnluX0IzRmJOaEJvVk02WXRROFFEdUFGUUhEQnNiX2xoZjVFOHBzQnh2eUVpUklMSWE0cVZTR2NnMWhkWlRxbWdZVGU1a2xidw?oc=5) |
 | 2026-08-25 | NEC's venture fund backs US humanoid robot startup Dexmate - Dealroom | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXdtVkJvanJOQjBYcktsSHNDZG92a3hzeThXQ0NhdjdRSkdoOWYxM2VPSGxQM2RPZFI5Qkh2SHNLLVdaT0pXdGYyTDJuNC1TU0J3bUh5aXMweU03XzQ1M1p1RmZpNmVUbDR4NWtFbHJCWE5MaFc2bWVXLW1YSS1lZjMtQmxUS0FPd2kzbk0wZnd6dmVjXzZN?oc=5) |
 | 2026-08-24 | Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbncxd3NuTzh6dVBpYzZtb25BdlhWUnhjQ0lobHNCSFppV1M0aDQ3Rm83Tk9tRHNZNlIxX3JkTE1XWTZzdVkyNW9kMGdFTm1CcWtSQTVBT3RJWkxzNXNyMm5ueDg0MUZ0OVdTX2ZET1h4OHNqVTg0VncwMFM0QjRYNDhyRG90ZGdIU3R4UjN6V1p5UTkzUURobERIS19qMUhxSTlXWGkzbTFDdWlpN2hacWU5clhJTmNBMi1LaXNMVQ?oc=5) |
+| 2026-08-24 | Seedcamp leads $2.7M round for Ukrainian-founded physical AI startup Embedd - Tech Funding News | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzlXWjJwWk96QlN5dm5XZXduVW9ZS2RQQ3NTNm9SdWgxb2k2d2lyMTNjVWR5UllobWk5cllyRE5zUGdwQmNDTzVoQ19kLUdjNkJwa254Y3ZZSDh2eV9HX29vSVBLQlJmR0tfWXhDRXVYbjI3MVdzVG5tUXJKLUZoa1daTmljY0RqMkx1R1dqZ3AycU1xTmtzT19GbmdCZzdNMVIybExB?oc=5) |
+| 2026-08-24 | Physical AI startup WATER raises $2.5 million in funding from Endiya Partners, others - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94N9IByAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94Nw?oc=5) |
 | 2026-08-24 | Nio reportedly to invest in embodied AI startup founded by Ren Shaoqing, who will remain smart-driving chief - CnEVPost | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNEc3WllNcVBDOGt1T2VnY0hxd3ltb1ZmWEVubnVjeWNxNTlJRFdzM3NmSUJicFIzMVZYb19wWVpnYnRMX05XVWtHeUlPUlJXU1VhNWEzTExSM205MWloM3Z4UkNJMU5MakJReWtUUVpEZjg5N1EzS1JRYmN3WVQ2czBjUDNLa0E?oc=5) |
 | 2026-08-24 | Xpeng’s robotics unit valued at over $6.3 billion after record funding round - The Mighty 790 KFGO | embodied ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXBINzFQZURyd3RqaWE1UjJkMXVGTF81bnBEN3lxdkpaWktMNGJpT3IxYl9ZUjJkc29JaVNoTUp1OGVGQzZTVzRpRWJlWkZKV0N6NlZBWkdGd09TOHU5ekk4VE1DajBIckVlWkswbGQ1MURFcDI5WUxtMTdTdFA1OHJweHg4dHV1ZmdsdmozUGdNMndRNnYwRFVYLXFqLS11M1JDcWE4M2d2M1pD?oc=5) |
 | 2026-08-24 | General Intuition raises $6B for AI robotics foundation model - The Tech Buzz | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2VFampBSlJkTWFjZkhwRmRHSTl6dk9ZTFhkNThOQlFlNkpaYk5BeHhIOGlGZ0ZuZnlZOS1fbWFhSXJmNk05LVVDSndubUdpYmhqZzlvMkhHaDZic013QjdNUjgyRUNSZnZCdEEzV2M1Q1FTUlM2WmtSVGlYSUhQTG5sZEhEWkZFNEJCNUQxc3ZLeE82RDRzZw?oc=5) |
