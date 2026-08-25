@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-25 20:13 UTC
+Last Updated: 2026-08-25 21:14 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-25 | blair129/robot_learning_tutorial_act | 0 | 0 | [link](https://huggingface.co/blair129/robot_learning_tutorial_act) |
+| 2026-08-25 | logits/sana_rwm_policy_from_pretrained_robotwin_epoch1_step21500 | 0 | 0 | [link](https://huggingface.co/logits/sana_rwm_policy_from_pretrained_robotwin_epoch1_step21500) |
 | 2026-08-25 | robotcpp/starvla-qwen25-fast-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen25-fast-bridge-bf16) |
 | 2026-08-25 | robotcpp/starvla-qwen25-pi-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen25-pi-bridge-bf16) |
 | 2026-08-25 | robotcpp/starvla-qwen25-groot-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen25-groot-bridge-bf16) |
@@ -85,8 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | robotcpp/starvla-qwen3-groot-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen3-groot-bridge-bf16) |
 | 2026-08-25 | robotcpp/starvla-qwen3-oft-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen3-oft-bridge-bf16) |
 | 2026-08-25 | hvsr-robotics/wojtek-quiet-locomotion | 0 | 1 | [link](https://huggingface.co/hvsr-robotics/wojtek-quiet-locomotion) |
-| 2026-08-25 | junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0_vid1 | 4 | 0 | [link](https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0_vid1) |
-| 2026-08-25 | junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.5_vid1 | 3 | 0 | [link](https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.5_vid1) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -96,7 +96,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | mosaico-labs/mosaico | 951 | Python | 380.5 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 471 | Shell | 188.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | wadeKeith/Awesome-Embodied-AI | 239 | Python | 95.7 | [link](https://github.com/wadeKeith/Awesome-Embodied-AI) |
-| Developer-Y/cs-video-courses | 83174 |  | 33269.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83175 |  | 33270.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63496 | Python | 25398.5 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15741 | C++ | 6296.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14666 | C++ | 5866.5 | [link](https://github.com/google-deepmind/mujoco) |
@@ -119,6 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-25 | Physical AI startup Antioch files to raise $32M - Axios | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaE4waTJoaVgyQjUza3dndlZnV3J1U1lwSDNBay1LUlhnblEzek43cHdSc1dRVWtOUXhaZ3Q1TmNVNUc1eHlrcjhubV9xbElOLVdMMmNxdEg2cHZMempJeWdxeWU5QkhDT1BMWWl0bmtqM3VPdUNldkNObWxfZUpRTzFlZ0NrWUoyNVZlOWxuR1Q0bms5ZXhKcA?oc=5) |
 | 2026-08-25 | NEC CVC fund invests in US humanoid robot and Physical AI startup - Telecompaper | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNckpiU0xUckpFWUFySHVYT2M5Z2VsYlBVRXN2bzd6amdOOUtYaEdqWGhacDEwSXVDSDFZNWt3NllEWENFMGxYbkxCZjA5akxKTm5hdmVxb0gxdlNCVjVjU08tODVjSlhKQ1pQQnJEdlM4QWhCOTJjeGJXM3RQVEdLdWRaQkNkbXljcTlHd1NmUC13X1dXWFU4ZXRWTUIxUFh1ZlVocngxc3VnT2E4?oc=5) |
 | 2026-08-25 | NEC fund invests in California robot startup Dexmate, maker of VEGA - International Business Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxOcVc1WmpxdFFlRVZ3YUNlZFVPQkxHRjIydlBxWFljMFdkLURDWUVSZzNmVjVvNkdxeFBfOFRmNjVhaU9rTTNoaEpSRUpibWN3dTdNWnY1R2ExSkhZV3pLWE42dl9TZk9abGI3RkNSRnR4bmJOVXlvckYyMmUzbVFtSC1MNTJQSlVncUhHZ0tibHNxRXZR?oc=5) |
 | 2026-08-25 | NEC Orchestrating Future Fund Invests in U.S.-based Humanoid Robot & Physical AI Developer Dexmate - AI Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxQVjJyTVlrdHN2TkdoNFNSYmFUVy1Gd2JSSlZUMEVUbUFTUjlsUm5sN2kwRC1hM0NLcUctRkxZMXZqU1RWQllOa2JtSWp2NG8xbW9hRVkwYm5jM2ZyZ0JxTm85MDF5TVFQWXRXMVV4MG1iMXlxM04yUDlMTWJybzlZbkNaUnJyOWtUNmw2NFk4WXU1VjlQTzdUY2pQSzExVk84WHFtRHBNNVNlSThPbUlOWUpQcjQ4a2VpMkd1bUQ3UmlqYzhUeEVWMUl1T1NpQQ?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-24 | Seedcamp leads $2.7M round for Ukrainian-founded physical AI startup Embedd - Tech Funding News | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzlXWjJwWk96QlN5dm5XZXduVW9ZS2RQQ3NTNm9SdWgxb2k2d2lyMTNjVWR5UllobWk5cllyRE5zUGdwQmNDTzVoQ19kLUdjNkJwa254Y3ZZSDh2eV9HX29vSVBLQlJmR0tfWXhDRXVYbjI3MVdzVG5tUXJKLUZoa1daTmljY0RqMkx1R1dqZ3AycU1xTmtzT19GbmdCZzdNMVIybExB?oc=5) |
 | 2026-08-24 | Physical AI startup WATER raises $2.5 million in funding from Endiya Partners, others - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94N9IByAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94Nw?oc=5) |
 | 2026-08-24 | Nio reportedly to invest in embodied AI startup founded by Ren Shaoqing, who will remain smart-driving chief - CnEVPost | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNEc3WllNcVBDOGt1T2VnY0hxd3ltb1ZmWEVubnVjeWNxNTlJRFdzM3NmSUJicFIzMVZYb19wWVpnYnRMX05XVWtHeUlPUlJXU1VhNWEzTExSM205MWloM3Z4UkNJMU5MakJReWtUUVpEZjg5N1EzS1JRYmN3WVQ2czBjUDNLa0E?oc=5) |
-| 2026-08-24 | Xpeng’s robotics unit valued at over $6.3 billion after record funding round - The Mighty 790 KFGO | embodied ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXBINzFQZURyd3RqaWE1UjJkMXVGTF81bnBEN3lxdkpaWktMNGJpT3IxYl9ZUjJkc29JaVNoTUp1OGVGQzZTVzRpRWJlWkZKV0N6NlZBWkdGd09TOHU5ekk4VE1DajBIckVlWkswbGQ1MURFcDI5WUxtMTdTdFA1OHJweHg4dHV1ZmdsdmozUGdNMndRNnYwRFVYLXFqLS11M1JDcWE4M2d2M1pD?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
@@ -141,8 +141,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-21 | Technical Program Manager, Security & Privacy | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4707189006) |
 | 2026-08-20 | Project Coordinator, Data Creators | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696349006) |
 | 2026-08-20 | Warehouse Manager, Commercial Operations | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4706787006) |
-| 2026-08-20 | Senior Software Engineer, AI/ML Platform | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6148969004) |
 | 2026-08-19 | Senior Manufacturing Engineer | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6131189004) |
+| 2026-08-19 | Staff Software Engineer, Hardware Interface | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6146407004) |
 
 ## Automation
 

@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-25 20:13 UTC
+Generated: 2026-08-25 21:14 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-08-25 20:13 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83174 | 33269.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83175 | 33270.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63496 | 25398.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44431 | 17772.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30363 | 12145.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16161 | 6464.5 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16162 | 6464.9 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,8 +41,8 @@ Generated: 2026-08-25 20:13 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-25 | Physical AI startup Antioch files to raise $32M - Axios | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaE4waTJoaVgyQjUza3dndlZnV3J1U1lwSDNBay1LUlhnblEzek43cHdSc1dRVWtOUXhaZ3Q1TmNVNUc1eHlrcjhubV9xbElOLVdMMmNxdEg2cHZMempJeWdxeWU5QkhDT1BMWWl0bmtqM3VPdUNldkNObWxfZUpRTzFlZ0NrWUoyNVZlOWxuR1Q0bms5ZXhKcA?oc=5) |
 | 2026-08-25 | NEC CVC fund invests in US humanoid robot and Physical AI startup - Telecompaper | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNckpiU0xUckpFWUFySHVYT2M5Z2VsYlBVRXN2bzd6amdOOUtYaEdqWGhacDEwSXVDSDFZNWt3NllEWENFMGxYbkxCZjA5akxKTm5hdmVxb0gxdlNCVjVjU08tODVjSlhKQ1pQQnJEdlM4QWhCOTJjeGJXM3RQVEdLdWRaQkNkbXljcTlHd1NmUC13X1dXWFU4ZXRWTUIxUFh1ZlVocngxc3VnT2E4?oc=5) |
 | 2026-08-25 | NEC fund invests in California robot startup Dexmate, maker of VEGA - International Business Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxOcVc1WmpxdFFlRVZ3YUNlZFVPQkxHRjIydlBxWFljMFdkLURDWUVSZzNmVjVvNkdxeFBfOFRmNjVhaU9rTTNoaEpSRUpibWN3dTdNWnY1R2ExSkhZV3pLWE42dl9TZk9abGI3RkNSRnR4bmJOVXlvckYyMmUzbVFtSC1MNTJQSlVncUhHZ0tibHNxRXZR?oc=5) |
 | 2026-08-25 | NEC Orchestrating Future Fund Invests in U.S.-based Humanoid Robot & Physical AI Developer Dexmate - AI Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxQVjJyTVlrdHN2TkdoNFNSYmFUVy1Gd2JSSlZUMEVUbUFTUjlsUm5sN2kwRC1hM0NLcUctRkxZMXZqU1RWQllOa2JtSWp2NG8xbW9hRVkwYm5jM2ZyZ0JxTm85MDF5TVFQWXRXMVV4MG1iMXlxM04yUDlMTWJybzlZbkNaUnJyOWtUNmw2NFk4WXU1VjlQTzdUY2pQSzExVk84WHFtRHBNNVNlSThPbUlOWUpQcjQ4a2VpMkd1bUQ3UmlqYzhUeEVWMUl1T1NpQQ?oc=5) |
 | 2026-08-25 | NEC invests in US-based robotics startup Dexmate - Robotics & Automation News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOak5OZVJ6bGxrSmV1QXN3S0lfTjlDV3JtZjZSQUdrYzk1d0hnMlNMaGI3TkNER2tCRlhOUk5rckRXam1TY0p3Z2ladFZiQ3FVUndvZV9UZjF3NWx3anhmNEkwSjNWNUhrcDdQZlpPd1gwWnZKdnIxOFZvblRsY2dzTEdwVzBZWGtBRFd4aXBpUmNoeEZERVhPU0RVSllmNWpYQ0FDOGpvNjM?oc=5) |
-| 2026-08-25 | NEC's venture fund backs US humanoid robot startup Dexmate - Dealroom | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXdtVkJvanJOQjBYcktsSHNDZG92a3hzeThXQ0NhdjdRSkdoOWYxM2VPSGxQM2RPZFI5Qkh2SHNLLVdaT0pXdGYyTDJuNC1TU0J3bUh5aXMweU03XzQ1M1p1RmZpNmVUbDR4NWtFbHJCWE5MaFc2bWVXLW1YSS1lZjMtQmxUS0FPd2kzbk0wZnd6dmVjXzZN?oc=5) |
