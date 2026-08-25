@@ -21,23 +21,23 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63488,
+    "stars": 63489,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-25",
     "topic": "robotics",
-    "score": 25395.3
+    "score": 25395.7
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15736,
+    "stars": 15737,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-25",
     "topic": "robotics",
-    "score": 6294.5
+    "score": 6294.9
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -50,14 +50,24 @@
     "score": 5863.3
   },
   {
+    "repo": "rerun-io/rerun",
+    "stars": 11347,
+    "language": "Rust",
+    "description": "Visualize, query, and stream to train on multimodal robotics data.",
+    "url": "https://github.com/rerun-io/rerun",
+    "date": "2026-08-25",
+    "topic": "robotics",
+    "score": 4538.9
+  },
+  {
     "repo": "RLinf/RLinf",
-    "stars": 4632,
+    "stars": 4634,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-25",
     "topic": "embodied-ai",
-    "score": 1852.9
+    "score": 1853.7
   },
   {
     "repo": "dora-rs/dora",
@@ -101,13 +111,13 @@
   },
   {
     "repo": "baidu-baige/LoongForge",
-    "stars": 511,
+    "stars": 512,
     "language": "Python",
     "description": "A unified, high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.",
     "url": "https://github.com/baidu-baige/LoongForge",
     "date": "2026-08-25",
     "topic": "vla",
-    "score": 204.5
+    "score": 204.9
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -121,23 +131,23 @@
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 415,
+    "stars": 417,
     "language": "",
     "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
     "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
     "date": "2026-08-25",
     "topic": "robot-learning",
-    "score": 166.1
+    "score": 166.9
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6307,
+    "stars": 6309,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-25",
     "topic": "world-model",
-    "score": 2522.9
+    "score": 2523.7
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -171,13 +181,13 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7955,
+    "stars": 7956,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-08-25",
     "topic": "robot-learning",
-    "score": 3182.1
+    "score": 3182.5
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -251,23 +261,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13867,
+    "stars": 13872,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-24",
     "topic": "robotics",
-    "score": 5546.9
-  },
-  {
-    "repo": "rerun-io/rerun",
-    "stars": 11346,
-    "language": "Rust",
-    "description": "Visualize, query, and stream to train on multimodal robotics data.",
-    "url": "https://github.com/rerun-io/rerun",
-    "date": "2026-08-24",
-    "topic": "robotics",
-    "score": 4538.5
+    "score": 5548.9
   },
   {
     "repo": "kornia/kornia",
@@ -491,13 +491,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2332,
+    "stars": 2333,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-08-20",
     "topic": "humanoid",
-    "score": 932.9
+    "score": 933.3
   },
   {
     "repo": "Evan-wyl/humanoid-robot-intelligence",
@@ -521,13 +521,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44416,
+    "stars": 44415,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 17766.5
+    "score": 17766.1
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -811,13 +811,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15601,
+    "stars": 15602,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6240.5
+    "score": 6240.9
   },
   {
     "repo": "aalmuzairee/squint",

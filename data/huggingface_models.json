@@ -1,5 +1,14 @@
 [
   {
+    "model": "locht131/gr00t_n17_mt3_a_robot_only_kgbridge",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/locht131/gr00t_n17_mt3_a_robot_only_kgbridge",
+    "date": "2026-08-25",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "Voyager466920/ahin-real-robot-smolvla-eight-tasks",
     "downloads": 0,
     "likes": 0,
@@ -52,6 +61,24 @@
     "date": "2026-08-25",
     "keyword": "vla",
     "score": 0.1
+  },
+  {
+    "model": "team-sobits/sobit_home_pickup_block_left_abs_vla_jepa_vlmlora-steps60k-decay60k",
+    "downloads": 12,
+    "likes": 0,
+    "url": "https://huggingface.co/team-sobits/sobit_home_pickup_block_left_abs_vla_jepa_vlmlora-steps60k-decay60k",
+    "date": "2026-08-25",
+    "keyword": "vla",
+    "score": 3.7
+  },
+  {
+    "model": "team-sobits/sobit_home_pickup_block_left_abs_vla_jepa-steps30k-decay30k",
+    "downloads": 4,
+    "likes": 0,
+    "url": "https://huggingface.co/team-sobits/sobit_home_pickup_block_left_abs_vla_jepa-steps30k-decay30k",
+    "date": "2026-08-25",
+    "keyword": "vla",
+    "score": 1.3
   },
   {
     "model": "B111ue/fcl-vla-functional-support-canary",
@@ -225,15 +252,6 @@
     "score": 0.1
   },
   {
-    "model": "junbrro/egopi_directfk_domain_robotonly_208bal_bsz64_30k_vlmfreeze",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/egopi_directfk_domain_robotonly_208bal_bsz64_30k_vlmfreeze",
-    "date": "2026-08-24",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "openroboto-ai/lingbot-vla-v2-6b-libero-goal7",
     "downloads": 0,
     "likes": 0,
@@ -277,24 +295,6 @@
     "date": "2026-08-24",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "MotionforgeGroup/VLA-Adapter-CM-80000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MotionforgeGroup/VLA-Adapter-CM-80000",
-    "date": "2026-08-24",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "XYZPIT/vlash-random4-ee-gr00t-n1.6-160000",
-    "downloads": 4,
-    "likes": 0,
-    "url": "https://huggingface.co/XYZPIT/vlash-random4-ee-gr00t-n1.6-160000",
-    "date": "2026-08-24",
-    "keyword": "vla",
-    "score": 1.3
   },
   {
     "model": "hfunknown/qwen3-8b-navigation-lora-stateless",
