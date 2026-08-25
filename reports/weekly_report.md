@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-25 00:26 UTC
+Generated: 2026-08-25 02:09 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-08-21 | Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction | [link](https://arxiv.org/pdf/2608.21358v1) |
-| 2026-08-21 | ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations | [link](https://arxiv.org/pdf/2608.21355v1) |
-| 2026-08-21 | Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation | [link](https://arxiv.org/pdf/2608.21332v1) |
-| 2026-08-21 | NeSAM: Neuro-Symbolic Kinodynamics with Soil Adaptation for Off-Road Mobility | [link](https://arxiv.org/pdf/2608.21330v1) |
-| 2026-08-21 | VLASS Discovery of a Luminous Galactic Radio Transient Evolving on Decade Timescales | [link](https://arxiv.org/pdf/2608.21320v1) |
+| 2026-08-24 | ReWorld: An Interactive World Model with Long-Horizon Memory | [link](https://arxiv.org/pdf/2608.23565v1) |
+| 2026-08-24 | Interpretable AI with Local Distillation | [link](https://arxiv.org/pdf/2608.23538v1) |
+| 2026-08-24 | The ALMA EGO-10 Survey of Massive Protoclusters: Correlation of 1.3 mm Continuum Source Clustering with Evolutionary State | [link](https://arxiv.org/pdf/2608.23527v1) |
+| 2026-08-24 | Correcting a learned physical invariant improves world-model rollouts | [link](https://arxiv.org/pdf/2608.23526v1) |
+| 2026-08-24 | GeoWAM: Visual Geometry World Action Models for Autonomous Driving | [link](https://arxiv.org/pdf/2608.23486v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | commaai/openpilot | 63482 | 25392.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44412 | 17764.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30356 | 12142.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| NaiboWang/EasySpider | 44413 | 17765.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30357 | 12142.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16162 | 6464.9 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15735 | 6294.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15736 | 6294.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
