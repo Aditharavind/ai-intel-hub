@@ -108,10 +108,28 @@
     "score": 0.1
   },
   {
-    "model": "Fisher-Wang/lingbot-vla-v2-6b-libero-goal",
+    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Fisher-Wang/lingbot-vla-v2-6b-libero-goal",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
+    "date": "2026-08-25",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
+    "date": "2026-08-25",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-25",
     "keyword": "vla",
     "score": 0.1
@@ -126,10 +144,10 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
+    "model": "Fisher-Wang/lingbot-vla-v2-6b-libero-goal",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/Fisher-Wang/lingbot-vla-v2-6b-libero-goal",
     "date": "2026-08-25",
     "keyword": "vla",
     "score": 0.1
@@ -187,24 +205,6 @@
     "date": "2026-08-25",
     "keyword": "vla",
     "score": 6.4
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 20,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-25",
-    "keyword": "vla",
-    "score": 6.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-25",
-    "keyword": "vla",
-    "score": 4.9
   },
   {
     "model": "wuff-mann/CIDM-SIM-World-Model-v1.1",
@@ -268,6 +268,15 @@
     "date": "2026-08-25",
     "keyword": "world model",
     "score": 3.1
+  },
+  {
+    "model": "Mye0n9/cskd-core-h1-h2-on_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Mye0n9/cskd-core-h1-h2-on_policy",
+    "date": "2026-08-25",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "MoAIBo/handover_scene1_2_giver_receiver_merged_pos_vel_policy_vision_expert",
@@ -394,15 +403,6 @@
     "date": "2026-08-24",
     "keyword": "policy",
     "score": 4.9
-  },
-  {
-    "model": "MoAIBo/pick_place_depth_posvel_policy_vision_expert",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/MoAIBo/pick_place_depth_posvel_policy_vision_expert",
-    "date": "2026-08-24",
-    "keyword": "policy",
-    "score": 2.8
   },
   {
     "model": "Dimios45/yam-world-model",

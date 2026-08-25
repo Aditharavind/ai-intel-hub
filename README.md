@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-25 12:19 UTC
+Last Updated: 2026-08-25 13:38 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-25 | AI Companion Robots Are Closing the Human Connection in Modern Homes | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/ollobot-ai-companion-robot) |
 | 2026-08-24 | XPeng Motors humanoid robot unit Dogotix raises $900M | Robotics Business Review | [link](https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m/) |
 | 2026-08-24 | The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn | Robotics Business Review | [link](https://www.therobotreport.com/the-next-big-ai-play-isnt-apps-or-humanoids-its-machines-with-brains-and-brawn/) |
 | 2026-08-23 | Use a digital twin to explore automation before committing capital | Robotics Business Review | [link](https://www.therobotreport.com/use-digital-twin-explore-automation-before-committing-capital/) |
@@ -44,7 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-21 | Schaeffler plans to mass produce gearboxes for humanoid robots in 2027 | Robotics Business Review | [link](https://www.therobotreport.com/schaeffler-plans-to-mass-manufacture-gearboxes-for-humanoids-in-2027/) |
 | 2026-08-21 | Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch | Robotics Business Review | [link](https://www.therobotreport.com/amazons-bhavana-chandrashekhar-speaks-robobusiness-women-in-robotics-lunch/) |
 | 2026-08-21 | Video Friday: Do We Need Superhuman Humanoid Robots? | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-unitree-superhuman) |
-| 2026-08-20 | Agtonomy releases new autonomous multi-point turning features | Robotics Business Review | [link](https://www.therobotreport.com/agtonomy-releases-new-autonomous-multi-point-turning-features/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -56,9 +56,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU | CNX Software | [link](https://www.cnx-software.com/2026/08/25/299-arduino-ventuno-q-sbc-combines-qualcomm-dragonwing-iq8-soc-and-stm32h5-mcu/) |
 | 2026-08-25 | Firehat is an open-source FireWire DV capture HAT for SBCs with Raspberry Pi PCIe FFC connector (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/25/firehat-open-source-firewire-dv-capture-hat-pcie-sbc-raspberry-pi-5-radxa-rock-2f/) |
 | 2026-08-25 | Advantech AOM-6741 AI Vision SMARC module features 100 TOPS Qualcomm IQ-9075 SoC, up to 36 GB LPDDR5 | CNX Software | [link](https://www.cnx-software.com/2026/08/25/advantech-aom-6741-qualcomm-iq-9075-smarc-module/) |
-| 2026-08-25 | Space Invaders for Fruit Jam New Learn Guide | Adafruit | [link](https://blog.adafruit.com/2026/08/24/space-invaders-for-fruit-jam-new-learn-guide/) |
-| 2026-08-24 | A 1990s Homebrew OS With GUI And Web Browser, In AM29000 Machine Code | Hackaday | [link](https://hackaday.com/2026/08/24/a-1990s-homebrew-os-with-gui-and-web-browser-in-am29000-machine-code/) |
-| 2026-08-24 | An Electronic Explanation Of 1960s Fuzz Boxes | Hackaday | [link](https://hackaday.com/2026/08/24/an-electronic-explanation-of-1960s-fuzz-boxes/) |
+| 2026-08-25 | Viavi Vertex 6.0 Targets 6G and Wi-Fi 7/8 RF Testing | Embedded.com | [link](https://www.embedded.com/viavi-vertex-6-0-targets-6g-and-wi-fi-7-8-rf-testing/) |
+| 2026-08-25 | Could Nvidia Default? | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/could-nvidia-default-2026-08/) |
+| 2026-08-25 | Optocouplers tame EMI in wide-bandgap designs | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/optocouplers-tame-emi-in-wide-bandgap-designs-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3095 | Python | 1238.1 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3096 | Python | 1238.5 | [link](https://github.com/NVIDIA/skills) |
+| copper-project/copper-rs | 1464 | Rust | 585.7 | [link](https://github.com/copper-project/copper-rs) |
+| mosaico-labs/mosaico | 948 | Python | 379.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 471 | Shell | 188.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | autonomous-ai/autonomous-os | 204 | Python | 81.7 | [link](https://github.com/autonomous-ai/autonomous-os) |
 | commaai/openpilot | 63491 | Python | 25396.5 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15738 | C++ | 6295.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14662 | C++ | 5864.9 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11348 | Rust | 4539.3 | [link](https://github.com/rerun-io/rerun) |
-| RLinf/RLinf | 4635 | Python | 1854.1 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3898 | Rust | 1559.3 | [link](https://github.com/dora-rs/dora) |
-| knightnemo/Awesome-World-Models | 3342 |  | 1336.9 | [link](https://github.com/knightnemo/Awesome-World-Models) |
+| ArduPilot/ardupilot | 15739 | C++ | 6295.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14663 | C++ | 5865.3 | [link](https://github.com/google-deepmind/mujoco) |
+| rerun-io/rerun | 11349 | Rust | 4539.7 | [link](https://github.com/rerun-io/rerun) |
+| RLinf/RLinf | 4636 | Python | 1854.5 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -121,7 +121,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-25 | NEC CVC fund invests in US humanoid robot and Physical AI startup - Telecompaper | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNckpiU0xUckpFWUFySHVYT2M5Z2VsYlBVRXN2bzd6amdOOUtYaEdqWGhacDEwSXVDSDFZNWt3NllEWENFMGxYbkxCZjA5akxKTm5hdmVxb0gxdlNCVjVjU08tODVjSlhKQ1pQQnJEdlM4QWhCOTJjeGJXM3RQVEdLdWRaQkNkbXljcTlHd1NmUC13X1dXWFU4ZXRWTUIxUFh1ZlVocngxc3VnT2E4?oc=5) |
 | 2026-08-25 | NEC Orchestrating Future Fund Invests in U.S.-based Humanoid Robot & Physical AI Developer Dexmate - AI Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxQVjJyTVlrdHN2TkdoNFNSYmFUVy1Gd2JSSlZUMEVUbUFTUjlsUm5sN2kwRC1hM0NLcUctRkxZMXZqU1RWQllOa2JtSWp2NG8xbW9hRVkwYm5jM2ZyZ0JxTm85MDF5TVFQWXRXMVV4MG1iMXlxM04yUDlMTWJybzlZbkNaUnJyOWtUNmw2NFk4WXU1VjlQTzdUY2pQSzExVk84WHFtRHBNNVNlSThPbUlOWUpQcjQ4a2VpMkd1bUQ3UmlqYzhUeEVWMUl1T1NpQQ?oc=5) |
-| 2026-08-25 | NEC invests in US-based robotics startup Dexmate - Robotics & Automation News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOak5OZVJ6bGxrSmV1QXN3S0lfTjlDV3JtZjZSQUdrYzk1d0hnMlNMaGI3TkNER2tCRlhOUk5rckRXam1TY0p3Z2ladFZiQ3FVUndvZV9UZjF3NWx3anhmNEkwSjNWNUhrcDdQZlpPd1gwWnZKdnIxOFZvblRsY2dzTEdwVzBZWGtBRFd4aXBpUmNoeEZERVhPU0RVSllmNWpYQ0FDOGpvNjM?oc=5) |
+| 2026-08-25 | NEC invests in US-based robotics startup Dexmate - Robotics & Automation News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOak5OZVJ6bGxrSmV1QXN3S0lfTjlDV3JtZjZSQUdrYzk1d0hnMlNMaGI3TkNER2tCRlhOUk5rckRXam1TY0p3Z2ladFZiQ3FVUndvZV9UZjF3NWx3anhmNEkwSjNWNUhrcDdQZlpPd1gwWnZKdnIxOFZvblRsY2dzTEdwVzBZWGtBRFd4aXBpUmNoeEZERVhPU0RVSllmNWpYQ0FDOGpvNjM?oc=5) |
 | 2026-08-25 | General Intuition in talks to raise at $6B valuation as physical AI race accelerates - Tech Funding News | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2w2bVNWTnI1eEF4ZWFnd3Jfa0ctZV9JV09DZzIxZVRWenlRV1hzSFREMkxKZUdMNkhjb0tsWktmYi13NE1FTmZtTW1CTzFHVnJubnpEYl82NUVJNFBqQjFqbmF1QUFqaUV2YXo1NVExQU9wTUVxUlBtWmRFdFZsUG5ybVZVdDhQeVJGR2FJcVQ4YXFHa09aU0cyU2dIV1Q1TGhFOVU5V3oxMGhSU040UU9R?oc=5) |
 | 2026-08-25 | Generalist AI Raises $200 Million to Revolutionize Physical AI Robotics - Ventureburn | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUG1obUhRLV9FMVk5Q1FhcFMxMXotNU9ReGZxa2oxVzhaZVk1eW5rNC14aTgydWdtMWV0eG1fcWlQcmg0aE50M3JnNnluX0IzRmJOaEJvVk02WXRROFFEdUFGUUhEQnNiX2xoZjVFOHBzQnh2eUVpUklMSWE0cVZTR2NnMWhkWlRxbWdZVGU1a2xid9IBkgFBVV95cUxNUG1obUhRLV9FMVk5Q1FhcFMxMXotNU9ReGZxa2oxVzhaZVk1eW5rNC14aTgydWdtMWV0eG1fcWlQcmg0aE50M3JnNnluX0IzRmJOaEJvVk02WXRROFFEdUFGUUhEQnNiX2xoZjVFOHBzQnh2eUVpUklMSWE0cVZTR2NnMWhkWlRxbWdZVGU1a2xidw?oc=5) |
 | 2026-08-25 | NEC's venture fund backs US humanoid robot startup Dexmate - Dealroom | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXdtVkJvanJOQjBYcktsSHNDZG92a3hzeThXQ0NhdjdRSkdoOWYxM2VPSGxQM2RPZFI5Qkh2SHNLLVdaT0pXdGYyTDJuNC1TU0J3bUh5aXMweU03XzQ1M1p1RmZpNmVUbDR4NWtFbHJCWE5MaFc2bWVXLW1YSS1lZjMtQmxUS0FPd2kzbk0wZnd6dmVjXzZN?oc=5) |
