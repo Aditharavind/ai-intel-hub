@@ -21,13 +21,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63484,
+    "stars": 63485,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-08-25",
     "topic": "robotics",
-    "score": 25393.7
+    "score": 25394.1
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -41,23 +41,23 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14655,
+    "stars": 14657,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-25",
     "topic": "robotics",
-    "score": 5862.1
+    "score": 5862.9
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4628,
+    "stars": 4629,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-08-25",
     "topic": "embodied-ai",
-    "score": 1851.3
+    "score": 1851.7
   },
   {
     "repo": "dora-rs/dora",
@@ -91,13 +91,23 @@
   },
   {
     "repo": "baidu-baige/LoongForge",
-    "stars": 507,
+    "stars": 510,
     "language": "Python",
     "description": "A unified, high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.",
     "url": "https://github.com/baidu-baige/LoongForge",
     "date": "2026-08-25",
     "topic": "vla",
-    "score": 202.9
+    "score": 204.1
+  },
+  {
+    "repo": "luohongk/Embodied-AI-Daily",
+    "stars": 435,
+    "language": "HTML",
+    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
+    "url": "https://github.com/luohongk/Embodied-AI-Daily",
+    "date": "2026-08-25",
+    "topic": "vla",
+    "score": 174.1
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
@@ -141,13 +151,13 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 7954,
+    "stars": 7955,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-08-25",
     "topic": "robot-learning",
-    "score": 3181.7
+    "score": 3182.1
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -170,6 +180,16 @@
     "score": 56.9
   },
   {
+    "repo": "Open-X-Humanoid/x-humanoid-training-toolchain",
+    "stars": 76,
+    "language": "Python",
+    "description": "This project provides a training toolchain for adapting TienKung humanoid robots and RoboMIND dataset with the open-source LeRobot framework.",
+    "url": "https://github.com/Open-X-Humanoid/x-humanoid-training-toolchain",
+    "date": "2026-08-25",
+    "topic": "lerobot",
+    "score": 30.5
+  },
+  {
     "repo": "copper-project/copper-rs",
     "stars": 1462,
     "language": "Rust",
@@ -181,13 +201,13 @@
   },
   {
     "repo": "NVlabs/alpasim",
-    "stars": 1193,
+    "stars": 1194,
     "language": "Python",
     "description": "AlpaSim is an open-source autonomous vehicle simulation platform designed for development and testing of end-to-end AV policies",
     "url": "https://github.com/NVlabs/alpasim",
     "date": "2026-08-24",
     "topic": "physical-ai",
-    "score": 477.3
+    "score": 477.7
   },
   {
     "repo": "NVlabs/alpamayo1.5",
@@ -211,13 +231,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13860,
+    "stars": 13863,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-24",
     "topic": "robotics",
-    "score": 5544.1
+    "score": 5545.3
   },
   {
     "repo": "rerun-io/rerun",
@@ -241,13 +261,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3339,
+    "stars": 3340,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-24",
     "topic": "embodied-ai",
-    "score": 1335.7
+    "score": 1336.1
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -261,23 +281,13 @@
   },
   {
     "repo": "flashrt-project/FlashRT",
-    "stars": 526,
+    "stars": 528,
     "language": "C++",
     "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
     "url": "https://github.com/flashrt-project/FlashRT",
     "date": "2026-08-24",
     "topic": "vla",
-    "score": 210.5
-  },
-  {
-    "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 434,
-    "language": "HTML",
-    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
-    "url": "https://github.com/luohongk/Embodied-AI-Daily",
-    "date": "2026-08-24",
-    "topic": "vla",
-    "score": 173.7
+    "score": 211.3
   },
   {
     "repo": "PKU-YuanGroup/Helios",
@@ -441,23 +451,23 @@
   },
   {
     "repo": "robocasa/robocasa",
-    "stars": 1669,
+    "stars": 1670,
     "language": "Python",
     "description": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
     "url": "https://github.com/robocasa/robocasa",
     "date": "2026-08-21",
     "topic": "robot-learning",
-    "score": 667.7
+    "score": 668.1
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2764,
+    "stars": 2766,
     "language": "Python",
     "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-08-20",
     "topic": "embodied-ai",
-    "score": 1105.7
+    "score": 1106.5
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
@@ -571,13 +581,13 @@
   },
   {
     "repo": "MIV-XJTU/JanusVLN",
-    "stars": 580,
+    "stars": 581,
     "language": "Python",
     "description": "[ICLR2026] Official implementation for \"JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation\"",
     "url": "https://github.com/MIV-XJTU/JanusVLN",
     "date": "2026-08-17",
     "topic": "vla",
-    "score": 232.1
+    "score": 232.5
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -721,13 +731,13 @@
   },
   {
     "repo": "dexmal/opendm",
-    "stars": 359,
+    "stars": 369,
     "language": "Python",
     "description": "An Open-World Foundation Model for General-Purpose Embodied Intelligence.",
     "url": "https://github.com/dexmal/opendm",
     "date": "2026-08-06",
     "topic": "vla",
-    "score": 143.7
+    "score": 147.7
   },
   {
     "repo": "zju3dv/INTACT-JEPA",
@@ -738,16 +748,6 @@
     "date": "2026-08-06",
     "topic": "robot-learning",
     "score": 66.9
-  },
-  {
-    "repo": "Open-X-Humanoid/x-humanoid-training-toolchain",
-    "stars": 76,
-    "language": "Python",
-    "description": "This project provides a training toolchain for adapting TienKung humanoid robots and RoboMIND dataset with the open-source LeRobot framework.",
-    "url": "https://github.com/Open-X-Humanoid/x-humanoid-training-toolchain",
-    "date": "2026-08-06",
-    "topic": "lerobot",
-    "score": 30.5
   },
   {
     "repo": "NVlabs/alpamayo",
@@ -811,13 +811,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15598,
+    "stars": 15601,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-02",
     "topic": "embodied-ai",
-    "score": 6239.3
+    "score": 6240.5
   },
   {
     "repo": "aalmuzairee/squint",

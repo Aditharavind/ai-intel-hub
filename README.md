@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-25 05:21 UTC
+Last Updated: 2026-08-25 06:21 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -52,13 +52,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | Straight Talk on 3D Printing Footwear At Home | Hackaday | [link](https://hackaday.com/2026/08/24/straight-talk-on-3d-printing-footwear-at-home/) |
 | 2026-08-25 | 3D-Printed Skin Gives Robots the Sensation of Touch | Hackaday | [link](https://hackaday.com/2026/08/24/3d-printed-skin-gives-robots-the-sensation-of-touch/) |
 | 2026-08-25 | Advantech AOM-6741 AI Vision SMARC module features 100 TOPS Qualcomm IQ-9075 SoC, up to 36 GB LPDDR5 | CNX Software | [link](https://www.cnx-software.com/2026/08/25/advantech-aom-6741-qualcomm-iq-9075-smarc-module/) |
+| 2026-08-25 | Nvidia and SpaceXAI adapting terrestrial datacentre infrastructure for space | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/nvidia-and-spacexai-adapting-terrestrial-datacentre-infrastructure-for-space-2026-08/) |
+| 2026-08-25 | IBM and Arm designing dual architecture processor | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/ibm-and-arm-designing-dual-architecture-processor-2026-08/) |
+| 2026-08-25 | $1.6trn semi market, says Gartner | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/1-6trn-semi-market-says-gartner-2026-08/) |
+| 2026-08-25 | Can China’s Humanoid Robots be useful? | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/can-chinas-humanoid-robots-be-useful-2026-08/) |
+| 2026-08-25 | Anglia signs OptoMedia | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/anglia-signs-optomedia-2026-08/) |
 | 2026-08-25 | IEE Christmas Lectures For Children | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/iee-christmas-lectures-for-children-2026-08/) |
 | 2026-08-25 | Space Invaders for Fruit Jam New Learn Guide | Adafruit | [link](https://blog.adafruit.com/2026/08/24/space-invaders-for-fruit-jam-new-learn-guide/) |
-| 2026-08-24 | A 1990s Homebrew OS With GUI And Web Browser, In AM29000 Machine Code | Hackaday | [link](https://hackaday.com/2026/08/24/a-1990s-homebrew-os-with-gui-and-web-browser-in-am29000-machine-code/) |
-| 2026-08-24 | An Electronic Explanation Of 1960s Fuzz Boxes | Hackaday | [link](https://hackaday.com/2026/08/24/an-electronic-explanation-of-1960s-fuzz-boxes/) |
-| 2026-08-24 | At Last, A Gameboy Advance With Decent Audio | Hackaday | [link](https://hackaday.com/2026/08/24/at-last-a-gameboy-advance-with-decent-audio/) |
-| 2026-08-24 | Tech in Plain Sight: Vacuum Blood Collection | Hackaday | [link](https://hackaday.com/2026/08/24/tech-in-plain-sight-vacuum-blood-collection/) |
-| 2026-08-24 | Combining Photogrammetry Utilities into a Simple GUI Tool | Hackaday | [link](https://hackaday.com/2026/08/24/combining-photogrammetry-utilities-into-a-simple-gui-tool/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,37 +77,37 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-25 | Voyager466920/ahin-real-robot-smolvla-eight-tasks | 0 | 0 | [link](https://huggingface.co/Voyager466920/ahin-real-robot-smolvla-eight-tasks) |
+| 2026-08-25 | Voyager466920/ahin-real-robot-pi0.5-eight-tasks | 0 | 0 | [link](https://huggingface.co/Voyager466920/ahin-real-robot-pi0.5-eight-tasks) |
 | 2026-08-25 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 | 2026-08-25 | jungwook2358/actlat-gr1-1000demos-segpix-robotmask-promptv2-vla60000-tok100000 | 0 | 0 | [link](https://huggingface.co/jungwook2358/actlat-gr1-1000demos-segpix-robotmask-promptv2-vla60000-tok100000) |
 | 2026-08-25 | XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365 | 1062 | 9 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365) |
 | 2026-08-25 | robotchip/vlarl-ckpts-pub | 0 | 0 | [link](https://huggingface.co/robotchip/vlarl-ckpts-pub) |
 | 2026-08-25 | cz22edd/vlaselect_test | 0 | 0 | [link](https://huggingface.co/cz22edd/vlaselect_test) |
+| 2026-08-25 | kesnick/vlm-vla-test | 14 | 0 | [link](https://huggingface.co/kesnick/vlm-vla-test) |
 | 2026-08-25 | worldboss/my-model | 0 | 0 | [link](https://huggingface.co/worldboss/my-model) |
 | 2026-08-25 | SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch1 | 0 | 0 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch1) |
-| 2026-08-25 | SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch0.75 | 0 | 0 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch0.75) |
-| 2026-08-25 | SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch0.5 | 0 | 0 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch0.5) |
-| 2026-08-25 | SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch0.25 | 0 | 0 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch0.25) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 3093 | Python | 1237.3 | [link](https://github.com/NVIDIA/skills) |
 | awslabs/awsome-distributed-ai | 470 | Shell | 188.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63484 | Python | 25393.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63485 | Python | 25394.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15736 | C++ | 6294.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14655 | C++ | 5862.1 | [link](https://github.com/google-deepmind/mujoco) |
-| RLinf/RLinf | 4628 | Python | 1851.3 | [link](https://github.com/RLinf/RLinf) |
+| google-deepmind/mujoco | 14657 | C++ | 5862.9 | [link](https://github.com/google-deepmind/mujoco) |
+| RLinf/RLinf | 4629 | Python | 1851.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3896 | Rust | 1558.5 | [link](https://github.com/dora-rs/dora) |
 | knightnemo/Awesome-World-Models | 3340 |  | 1336.1 | [link](https://github.com/knightnemo/Awesome-World-Models) |
 | sou350121/VLA-Handbook | 541 | HTML | 216.5 | [link](https://github.com/sou350121/VLA-Handbook) |
-| baidu-baige/LoongForge | 507 | Python | 202.9 | [link](https://github.com/baidu-baige/LoongForge) |
+| baidu-baige/LoongForge | 510 | Python | 204.1 | [link](https://github.com/baidu-baige/LoongForge) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SOUROMURZQXFMUFNDcW1Lc3NXb2ZIblQ3eVc1cHRCNk5GZDFEcThGWXJCZk5UYlNucUE5NDVrV0k0eEdkTGtHS19FdHIyOGZnN1Bn?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMikAJBVV95cUxQNXRYUm90QTQ5ek1JQkNJLTcyTTBPWFpYcjZLMHpXdmthdU1NcUtWZXhBU2hWaXJFeWlRbFFzMnUyR3B5NV9JaGhIaEpCb281WjkyUzlxVnpaT09YN1FFYlN0eFZCcVJBOWt3UXppeVRZdTFSdldtVVBnTWZ3NFk1TVNxd3BNd2hucDN1ejlVcXVHWFEwdTBaYWpLY29abFRJcURNMFFxVWp1MzEtT3ZEdy1mZTZFOWcwLWowbXZRalg0QVpwM2w0TjhlSE9aREpuZGhSdlNlcWNLaGhLcGZmRHBiRjczS3YxMk52STBsR2hIUXdjWEhBanJlaXhCQm8xd0FNa09rZ2dsMUNBSXNRQtIBlgJBVV95cUxNOG9WcnAwSWllT0c3TU5vX1c5SHhRNFF2c3ZWNllOSFRvV2taWmNONFJZMldsTVAzUTZHUXJvdi0wcGp3eVVxTU4ta3h0RGhwdXFRcE9Ec0lJa0xDWEptSWlrSFNPeWRHZ3pRYlV0SWZHOEFLRDZMam5WRGFyY0xmZUNqU1FCNm95S2dXb0ZJOUptZ3ZGbUxGd3hYOGdOZnZ4U3ZFbzdmWHd1WGZZb05iTUd5YzBpWWlmQWNsNG9IT0pwbWdjc2h4UEZNUndIaElsXzRydTZ3VUV2ai1WcGprUzVIRXhWc2NaZ0p3cUJyWjV3VGp0WUVWT2RRNWRtcjYwQUlqNkFZckNCME9lRlkzLWZwMGY0UQ?oc=5) |
-| 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMDhXenBUdzItaEpGRjcwOFFPdDQzamtlaF9FLTU1YlJSNGRzYS1wY1R5bGgwNG1sWFp5N2REOVhUNkZvRWozVFBmWUpXOEQxUVZfYXlDaUhNM1I4MU1qdmdVLXFlYkt1MzIzNXpRME1nYTRkQnZyWF9jSkRYVlppRDZ5cnQ5YWVRZjJIeS1iVGpuSWxFc0dpWnFUTWdvQkJOWVJVZk1hQlVGZktQdEdsdUdzcjBJUXhvSnFqXzgyQ2FwRTZscFE0QkVSVlV4bVluZFJGNWdfZFhpeUF2dUNqaWJzc0FJV2M?oc=5) |
+| 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbXdZQ01uSnZNTm02Y0JaeWliUHZGR0tBMjhzT1NsNDUtSms1TF94NkM0V0ptNkdmUWMzazU2UWxxdkpiYXVGX0lkQTJod01FMXA0eGVfeW9TTlRhZWRpbUVMMW5oTkVWX3FLSG1pMUxwSXVMbTBJQXMzWmUtTHQtQWZLeDZTMXN3VVFaOHJrdTJmWkVObjZJTFc1OFhfMHdDVml1RVdjeWdOdnJ3UUtwRU9TcF80cEtkTTlpc2syZFlkTFctRXE4MUhRX0pOa043M1dwQVItZ0ZOMzkwelZfZnJLaThwZjdkMXZCMGNGQ2VYbUpnbUNqdQ?oc=5) |
 | 2026-08-24 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0sxLXN0Nm5BMnVDMHlUMGtZOG96R01tMjgwZWtGTjd0MTJEclhGNDE5MmxaSXFfdDBGaEZ0OVM4aUtsbm4zRmVVbThabUVRZ0FUUjZHWE5CRk1DdkpxN0U4QVIteTFJYWJReG9yWFlTZkdjcGI4T05pWXRFa3NPbmFFQjE5U3ZDeWJYNDlDNENCWG9lemhoaV9rcmRNWldXa1BYU1RB?oc=5) |
 | 2026-08-24 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxPOE9IcF8xbGtzM25uYUg2VkhxbzJmbXl2R29jczkwV3VSWmdEOWFPUWluNWk0My1wZmwxQzNCVGVWZlhQOFR4LXk2U0RVWkpMa1EzLV9PSkpFU21KQ3g5U2hRekp0dmRtOEpYZ05ZVDNBOEFuTTk0WW1xWmY4Rm1LRmFKa1lCTV8teDNpMzJsNGJpNEJPaTB2VmtZdkUwcFpDc0dDVWVpd195dHEzN1Q3bXNSeXpVcFFwUVJzV085dFJXeGs2?oc=5) |
 | 2026-08-24 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlROdnFoR0Q2ZXkxS21CbHZCTktXYmRXS25xaFFHLVJSYktBLXRVVk13Tk5xTi12NjhwaXIxcGpacTJoSU9kZVZvMk5pajNscDFGTk9yNTdqSEVxU0dPTkxTcUVBRWg4SW1BQm9WTTdodmlOZk1zTDlLdDNVRWxaVHdPdldoM21sZHp0d3lDNnExbmxmamt2bnh1M3llQXN2RVlHOXVxYWR6MXV3T2VqVTQwdEVRSGs?oc=5) |
@@ -119,6 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-25 | NEC CVC fund invests in US humanoid robot and Physical AI startup - Telecompaper | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNckpiU0xUckpFWUFySHVYT2M5Z2VsYlBVRXN2bzd6amdOOUtYaEdqWGhacDEwSXVDSDFZNWt3NllEWENFMGxYbkxCZjA5akxKTm5hdmVxb0gxdlNCVjVjU08tODVjSlhKQ1pQQnJEdlM4QWhCOTJjeGJXM3RQVEdLdWRaQkNkbXljcTlHd1NmUC13X1dXWFU4ZXRWTUIxUFh1ZlVocngxc3VnT2E4?oc=5) |
 | 2026-08-25 | NEC's venture fund backs US humanoid robot startup Dexmate - Dealroom | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXdtVkJvanJOQjBYcktsSHNDZG92a3hzeThXQ0NhdjdRSkdoOWYxM2VPSGxQM2RPZFI5Qkh2SHNLLVdaT0pXdGYyTDJuNC1TU0J3bUh5aXMweU03XzQ1M1p1RmZpNmVUbDR4NWtFbHJCWE5MaFc2bWVXLW1YSS1lZjMtQmxUS0FPd2kzbk0wZnd6dmVjXzZN?oc=5) |
 | 2026-08-24 | Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbncxd3NuTzh6dVBpYzZtb25BdlhWUnhjQ0lobHNCSFppV1M0aDQ3Rm83Tk9tRHNZNlIxX3JkTE1XWTZzdVkyNW9kMGdFTm1CcWtSQTVBT3RJWkxzNXNyMm5ueDg0MUZ0OVdTX2ZET1h4OHNqVTg0VncwMFM0QjRYNDhyRG90ZGdIU3R4UjN6V1p5UTkzUURobERIS19qMUhxSTlXWGkzbTFDdWlpN2hacWU5clhJTmNBMi1LaXNMVQ?oc=5) |
 | 2026-08-24 | Seedcamp leads $2.7M round for Ukrainian-founded physical AI startup Embedd - Tech Funding News | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzlXWjJwWk96QlN5dm5XZXduVW9ZS2RQQ3NTNm9SdWgxb2k2d2lyMTNjVWR5UllobWk5cllyRE5zUGdwQmNDTzVoQ19kLUdjNkJwa254Y3ZZSDh2eV9HX29vSVBLQlJmR0tfWXhDRXVYbjI3MVdzVG5tUXJKLUZoa1daTmljY0RqMkx1R1dqZ3AycU1xTmtzT19GbmdCZzdNMVIybExB?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-24 | Xpeng’s robotics unit valued at over $6.3 billion after record funding round - The Mighty 790 KFGO | embodied ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXBINzFQZURyd3RqaWE1UjJkMXVGTF81bnBEN3lxdkpaWktMNGJpT3IxYl9ZUjJkc29JaVNoTUp1OGVGQzZTVzRpRWJlWkZKV0N6NlZBWkdGd09TOHU5ekk4VE1DajBIckVlWkswbGQ1MURFcDI5WUxtMTdTdFA1OHJweHg4dHV1ZmdsdmozUGdNMndRNnYwRFVYLXFqLS11M1JDcWE4M2d2M1pD?oc=5) |
 | 2026-08-24 | General Intuition raises $6B for AI robotics foundation model - The Tech Buzz | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2VFampBSlJkTWFjZkhwRmRHSTl6dk9ZTFhkNThOQlFlNkpaYk5BeHhIOGlGZ0ZuZnlZOS1fbWFhSXJmNk05LVVDSndubUdpYmhqZzlvMkhHaDZic013QjdNUjgyRUNSZnZCdEEzV2M1Q1FTUlM2WmtSVGlYSUhQTG5sZEhEWkZFNEJCNUQxc3ZLeE82RDRzZw?oc=5) |
 | 2026-08-24 | Chinese Robot Tiangong Ultra Beat Usain Bolt's 100m Record Then Crashed - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXJpaG52X1NRUVlTYy1RZ09IeG8yUUNjaEZWYU5Rd0FtdVRCYk1GNmh4eEVoMFI2aGRYd2t2b29kNkgtZ2RJdUtpalNXY3ZBVTMzOEZGblVBcHByQWRRSjJMQWE4ZGRVNng4SmI3X0RBNEs5RENZQ0lEZkE5MVJja0ZtTlU4OXB0TnR3alE3TkY5QW9oLWVqU2E0d0FVRU0?oc=5) |
-| 2026-08-24 | Xpeng's robotics unit valued at over US$6.3 billion after record funding round - The Standard (HK) | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGx6NTVYNnRIRk9EOUFtSTI2UnB5V2pucDkyRlNDVDJSZ2RjQ05JOG96N3pvYWV2czlteUx0akpTWFlGZnBPZHYyUExXLUJsN0lMOENxSENjSkt6REU1RW5sOWRTa1prLXZ4QVhHa28wbzVSc0pGaFpqa3ZVbFF1TXRLRThuTnVmRl90aV9uTzdPcWI3ckdpZ0QydkFFNjBBTEhkLTZYMXJ1MVhTVDl6ZUxqUzRtdGNRdWQwN01UY205Tm1DRk9EcQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
