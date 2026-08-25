@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-25 11:14 UTC
+Last Updated: 2026-08-25 12:19 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,15 +8,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-08-25 | Disrupting a new covert influence campaign from Russia | OpenAI | [link](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia) |
+| 2026-08-25 | Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original | Hugging Face | [link](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing) |
 | 2026-08-25 | Wire It, Run It, Deploy It: AI Workflows in Gradio | Hugging Face | [link](https://huggingface.co/blog/gradio-workflow-guide) |
 | 2026-08-24 | Advancing price-performance for developers with GPT‑5.6 in Kiro | OpenAI | [link](https://openai.com/index/gpt-5-6-in-kiro) |
+| 2026-08-21 | How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code | Hugging Face | [link](https://huggingface.co/blog/pwc-search) |
 | 2026-08-21 | Measuring benchmark optimization in speech recognition | Hugging Face | [link](https://huggingface.co/blog/asr-benchmark-optimization) |
 | 2026-08-20 | Introducing AI Futures | OpenAI | [link](https://openai.com/index/introducing-ai-futures) |
 | 2026-08-20 | Stampli cuts launch hours by 68% using ChatGPT Work | OpenAI | [link](https://openai.com/index/stampli) |
 | 2026-08-20 | Up to 3.2x Faster Inference with LFM2.5-DSpark | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/lfm25-dspark) |
 | 2026-08-19 | Offering Zero Data Retention for frontier models | OpenAI | [link](https://openai.com/index/offering-zero-data-retention-for-frontier-models) |
-| 2026-08-19 | Replit expands access to software creation with GPT-5.6 Luna | OpenAI | [link](https://openai.com/index/replit) |
-| 2026-08-18 | ChatGPT Ads expands across Europe | OpenAI | [link](https://openai.com/index/chatgpt-ads-expands-across-europe) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -56,9 +56,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU | CNX Software | [link](https://www.cnx-software.com/2026/08/25/299-arduino-ventuno-q-sbc-combines-qualcomm-dragonwing-iq8-soc-and-stm32h5-mcu/) |
 | 2026-08-25 | Firehat is an open-source FireWire DV capture HAT for SBCs with Raspberry Pi PCIe FFC connector (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/25/firehat-open-source-firewire-dv-capture-hat-pcie-sbc-raspberry-pi-5-radxa-rock-2f/) |
 | 2026-08-25 | Advantech AOM-6741 AI Vision SMARC module features 100 TOPS Qualcomm IQ-9075 SoC, up to 36 GB LPDDR5 | CNX Software | [link](https://www.cnx-software.com/2026/08/25/advantech-aom-6741-qualcomm-iq-9075-smarc-module/) |
-| 2026-08-25 | Image sensor startup raises funding for SPAD sensors | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/finance/image-sensor-startup-raises-funding-for-spad-sensors-2026-08/) |
-| 2026-08-25 | Nvidia and SpaceXAI adapting terrestrial datacentre infrastructure for space | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/nvidia-and-spacexai-adapting-terrestrial-datacentre-infrastructure-for-space-2026-08/) |
-| 2026-08-25 | IBM and Arm designing dual architecture processor | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/ibm-and-arm-designing-dual-architecture-processor-2026-08/) |
+| 2026-08-25 | Space Invaders for Fruit Jam New Learn Guide | Adafruit | [link](https://blog.adafruit.com/2026/08/24/space-invaders-for-fruit-jam-new-learn-guide/) |
+| 2026-08-24 | A 1990s Homebrew OS With GUI And Web Browser, In AM29000 Machine Code | Hackaday | [link](https://hackaday.com/2026/08/24/a-1990s-homebrew-os-with-gui-and-web-browser-in-am29000-machine-code/) |
+| 2026-08-24 | An Electronic Explanation Of 1960s Fuzz Boxes | Hackaday | [link](https://hackaday.com/2026/08/24/an-electronic-explanation-of-1960s-fuzz-boxes/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-25 | locht131/gr00t_n17_mt3_a_robot_only_bs64_kgbridge | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_mt3_a_robot_only_bs64_kgbridge) |
+| 2026-08-25 | milab-robot/alm1-0731-milab.NESW | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.NESW) |
 | 2026-08-25 | D-Robotics/LocateAnything-3B-BPU-Balance | 0 | 0 | [link](https://huggingface.co/D-Robotics/LocateAnything-3B-BPU-Balance) |
 | 2026-08-25 | RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_Task462_Task480_TaskStay_merged_filtered | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_Task462_Task480_TaskStay_merged_filtered) |
 | 2026-08-25 | locht131/gr00t_n17_mt3_a_robot_only_kgbridge | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_mt3_a_robot_only_kgbridge) |
@@ -85,22 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | Chipaipai/tcc-core-real-robot-policies | 0 | 0 | [link](https://huggingface.co/Chipaipai/tcc-core-real-robot-policies) |
 | 2026-08-25 | jungwook2358/actlat-gr1-1000demos-segpix-robotmask-promptv2-vla60000-tok100000 | 0 | 0 | [link](https://huggingface.co/jungwook2358/actlat-gr1-1000demos-segpix-robotmask-promptv2-vla60000-tok100000) |
 | 2026-08-25 | XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365 | 1083 | 9 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365) |
-| 2026-08-25 | robotchip/vlarl-ckpts-pub | 0 | 0 | [link](https://huggingface.co/robotchip/vlarl-ckpts-pub) |
-| 2026-08-25 | sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 20 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__point__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 3095 | Python | 1238.1 | [link](https://github.com/NVIDIA/skills) |
 | awslabs/awsome-distributed-ai | 471 | Shell | 188.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63489 | Python | 25395.7 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15737 | C++ | 6294.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| autonomous-ai/autonomous-os | 204 | Python | 81.7 | [link](https://github.com/autonomous-ai/autonomous-os) |
+| commaai/openpilot | 63491 | Python | 25396.5 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15738 | C++ | 6295.3 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14662 | C++ | 5864.9 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 11348 | Rust | 4539.3 | [link](https://github.com/rerun-io/rerun) |
 | RLinf/RLinf | 4635 | Python | 1854.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3898 | Rust | 1559.3 | [link](https://github.com/dora-rs/dora) |
 | knightnemo/Awesome-World-Models | 3342 |  | 1336.9 | [link](https://github.com/knightnemo/Awesome-World-Models) |
-| leofan90/Awesome-World-Models | 1983 | Python | 793.3 | [link](https://github.com/leofan90/Awesome-World-Models) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -123,12 +123,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | NEC Orchestrating Future Fund Invests in U.S.-based Humanoid Robot & Physical AI Developer Dexmate - AI Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxQVjJyTVlrdHN2TkdoNFNSYmFUVy1Gd2JSSlZUMEVUbUFTUjlsUm5sN2kwRC1hM0NLcUctRkxZMXZqU1RWQllOa2JtSWp2NG8xbW9hRVkwYm5jM2ZyZ0JxTm85MDF5TVFQWXRXMVV4MG1iMXlxM04yUDlMTWJybzlZbkNaUnJyOWtUNmw2NFk4WXU1VjlQTzdUY2pQSzExVk84WHFtRHBNNVNlSThPbUlOWUpQcjQ4a2VpMkd1bUQ3UmlqYzhUeEVWMUl1T1NpQQ?oc=5) |
 | 2026-08-25 | NEC invests in US-based robotics startup Dexmate - Robotics & Automation News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOak5OZVJ6bGxrSmV1QXN3S0lfTjlDV3JtZjZSQUdrYzk1d0hnMlNMaGI3TkNER2tCRlhOUk5rckRXam1TY0p3Z2ladFZiQ3FVUndvZV9UZjF3NWx3anhmNEkwSjNWNUhrcDdQZlpPd1gwWnZKdnIxOFZvblRsY2dzTEdwVzBZWGtBRFd4aXBpUmNoeEZERVhPU0RVSllmNWpYQ0FDOGpvNjM?oc=5) |
 | 2026-08-25 | General Intuition in talks to raise at $6B valuation as physical AI race accelerates - Tech Funding News | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2w2bVNWTnI1eEF4ZWFnd3Jfa0ctZV9JV09DZzIxZVRWenlRV1hzSFREMkxKZUdMNkhjb0tsWktmYi13NE1FTmZtTW1CTzFHVnJubnpEYl82NUVJNFBqQjFqbmF1QUFqaUV2YXo1NVExQU9wTUVxUlBtWmRFdFZsUG5ybVZVdDhQeVJGR2FJcVQ4YXFHa09aU0cyU2dIV1Q1TGhFOVU5V3oxMGhSU040UU9R?oc=5) |
+| 2026-08-25 | Generalist AI Raises $200 Million to Revolutionize Physical AI Robotics - Ventureburn | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUG1obUhRLV9FMVk5Q1FhcFMxMXotNU9ReGZxa2oxVzhaZVk1eW5rNC14aTgydWdtMWV0eG1fcWlQcmg0aE50M3JnNnluX0IzRmJOaEJvVk02WXRROFFEdUFGUUhEQnNiX2xoZjVFOHBzQnh2eUVpUklMSWE0cVZTR2NnMWhkWlRxbWdZVGU1a2xid9IBkgFBVV95cUxNUG1obUhRLV9FMVk5Q1FhcFMxMXotNU9ReGZxa2oxVzhaZVk1eW5rNC14aTgydWdtMWV0eG1fcWlQcmg0aE50M3JnNnluX0IzRmJOaEJvVk02WXRROFFEdUFGUUhEQnNiX2xoZjVFOHBzQnh2eUVpUklMSWE0cVZTR2NnMWhkWlRxbWdZVGU1a2xidw?oc=5) |
 | 2026-08-25 | NEC's venture fund backs US humanoid robot startup Dexmate - Dealroom | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXdtVkJvanJOQjBYcktsSHNDZG92a3hzeThXQ0NhdjdRSkdoOWYxM2VPSGxQM2RPZFI5Qkh2SHNLLVdaT0pXdGYyTDJuNC1TU0J3bUh5aXMweU03XzQ1M1p1RmZpNmVUbDR4NWtFbHJCWE5MaFc2bWVXLW1YSS1lZjMtQmxUS0FPd2kzbk0wZnd6dmVjXzZN?oc=5) |
 | 2026-08-24 | Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbncxd3NuTzh6dVBpYzZtb25BdlhWUnhjQ0lobHNCSFppV1M0aDQ3Rm83Tk9tRHNZNlIxX3JkTE1XWTZzdVkyNW9kMGdFTm1CcWtSQTVBT3RJWkxzNXNyMm5ueDg0MUZ0OVdTX2ZET1h4OHNqVTg0VncwMFM0QjRYNDhyRG90ZGdIU3R4UjN6V1p5UTkzUURobERIS19qMUhxSTlXWGkzbTFDdWlpN2hacWU5clhJTmNBMi1LaXNMVQ?oc=5) |
 | 2026-08-24 | Nio reportedly to invest in embodied AI startup founded by Ren Shaoqing, who will remain smart-driving chief - CnEVPost | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNEc3WllNcVBDOGt1T2VnY0hxd3ltb1ZmWEVubnVjeWNxNTlJRFdzM3NmSUJicFIzMVZYb19wWVpnYnRMX05XVWtHeUlPUlJXU1VhNWEzTExSM205MWloM3Z4UkNJMU5MakJReWtUUVpEZjg5N1EzS1JRYmN3WVQ2czBjUDNLa0E?oc=5) |
 | 2026-08-24 | Xpeng’s robotics unit valued at over $6.3 billion after record funding round - The Mighty 790 KFGO | embodied ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXBINzFQZURyd3RqaWE1UjJkMXVGTF81bnBEN3lxdkpaWktMNGJpT3IxYl9ZUjJkc29JaVNoTUp1OGVGQzZTVzRpRWJlWkZKV0N6NlZBWkdGd09TOHU5ekk4VE1DajBIckVlWkswbGQ1MURFcDI5WUxtMTdTdFA1OHJweHg4dHV1ZmdsdmozUGdNMndRNnYwRFVYLXFqLS11M1JDcWE4M2d2M1pD?oc=5) |
 | 2026-08-24 | General Intuition raises $6B for AI robotics foundation model - The Tech Buzz | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2VFampBSlJkTWFjZkhwRmRHSTl6dk9ZTFhkNThOQlFlNkpaYk5BeHhIOGlGZ0ZuZnlZOS1fbWFhSXJmNk05LVVDSndubUdpYmhqZzlvMkhHaDZic013QjdNUjgyRUNSZnZCdEEzV2M1Q1FTUlM2WmtSVGlYSUhQTG5sZEhEWkZFNEJCNUQxc3ZLeE82RDRzZw?oc=5) |
-| 2026-08-24 | Chinese Robot Tiangong Ultra Beat Usain Bolt's 100m Record Then Crashed - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXJpaG52X1NRUVlTYy1RZ09IeG8yUUNjaEZWYU5Rd0FtdVRCYk1GNmh4eEVoMFI2aGRYd2t2b29kNkgtZ2RJdUtpalNXY3ZBVTMzOEZGblVBcHByQWRRSjJMQWE4ZGRVNng4SmI3X0RBNEs5RENZQ0lEZkE5MVJja0ZtTlU4OXB0TnR3alE3TkY5QW9oLWVqU2E0d0FVRU0?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
