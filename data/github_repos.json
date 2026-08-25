@@ -5,9 +5,59 @@
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
-    "date": "2026-08-24",
+    "date": "2026-08-25",
     "topic": "physical-ai",
     "score": 1235.7
+  },
+  {
+    "repo": "awslabs/awsome-distributed-ai",
+    "stars": 470,
+    "language": "Shell",
+    "description": "Collection of best practices, reference architectures, model training examples and utilities to train large models on AWS. ",
+    "url": "https://github.com/awslabs/awsome-distributed-ai",
+    "date": "2026-08-25",
+    "topic": "physical-ai",
+    "score": 188.1
+  },
+  {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15735,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-08-25",
+    "topic": "robotics",
+    "score": 6294.1
+  },
+  {
+    "repo": "google-deepmind/mujoco",
+    "stars": 14653,
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "date": "2026-08-25",
+    "topic": "robotics",
+    "score": 5861.3
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3896,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-08-25",
+    "topic": "embodied-ai",
+    "score": 1558.5
+  },
+  {
+    "repo": "vllm-project/vllm-omni",
+    "stars": 6299,
+    "language": "Python",
+    "description": "A framework for efficient model inference with omni-modality models",
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "date": "2026-08-25",
+    "topic": "world-model",
+    "score": 2519.7
   },
   {
     "repo": "copper-project/copper-rs",
@@ -30,14 +80,14 @@
     "score": 476.9
   },
   {
-    "repo": "awslabs/awsome-distributed-ai",
-    "stars": 470,
-    "language": "Shell",
-    "description": "Collection of best practices, reference architectures, model training examples and utilities to train large models on AWS. ",
-    "url": "https://github.com/awslabs/awsome-distributed-ai",
+    "repo": "NVlabs/alpamayo1.5",
+    "stars": 355,
+    "language": "Python",
+    "description": "NVIDIA Alpamayo 1.5 Nano is an open 10B reasoning VLA model for autonomous vehicles with reinforcement-learning enhanced reasoning, navigation guidance, and visual question answering.",
+    "url": "https://github.com/NVlabs/alpamayo1.5",
     "date": "2026-08-24",
-    "topic": "physical-ai",
-    "score": 188.1
+    "topic": "vla",
+    "score": 142.1
   },
   {
     "repo": "commaai/openpilot",
@@ -60,34 +110,14 @@
     "score": 12142.5
   },
   {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15735,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-08-24",
-    "topic": "robotics",
-    "score": 6294.1
-  },
-  {
-    "repo": "google-deepmind/mujoco",
-    "stars": 14653,
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "url": "https://github.com/google-deepmind/mujoco",
-    "date": "2026-08-24",
-    "topic": "robotics",
-    "score": 5861.3
-  },
-  {
     "repo": "earthtojake/text-to-cad",
-    "stars": 13848,
+    "stars": 13850,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-24",
     "topic": "robotics",
-    "score": 5539.3
+    "score": 5540.1
   },
   {
     "repo": "rerun-io/rerun",
@@ -101,23 +131,13 @@
   },
   {
     "repo": "kornia/kornia",
-    "stars": 11325,
+    "stars": 11324,
     "language": "Python",
     "description": "🐍 Geometric Computer Vision Library for Spatial AI",
     "url": "https://github.com/kornia/kornia",
     "date": "2026-08-24",
     "topic": "robotics",
-    "score": 4530.1
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3896,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-08-24",
-    "topic": "embodied-ai",
-    "score": 1558.5
+    "score": 4529.7
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -188,16 +208,6 @@
     "date": "2026-08-24",
     "topic": "robot-learning",
     "score": 163.7
-  },
-  {
-    "repo": "vllm-project/vllm-omni",
-    "stars": 6298,
-    "language": "Python",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "url": "https://github.com/vllm-project/vllm-omni",
-    "date": "2026-08-24",
-    "topic": "world-model",
-    "score": 2519.3
   },
   {
     "repo": "PKU-YuanGroup/Helios",
@@ -321,13 +331,13 @@
   },
   {
     "repo": "Hebbian-Robotics/hflow",
-    "stars": 137,
+    "stars": 138,
     "language": "Python",
     "description": "Open source SDK for building multimodal data-quality, processing, enrichment, and curation pipelines for robotics and Physical AI.",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "date": "2026-08-24",
     "topic": "lerobot",
-    "score": 54.9
+    "score": 55.3
   },
   {
     "repo": "Source-Robotics/MSG-compliant-AI-stepper-gripper",
@@ -451,13 +461,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2302,
+    "stars": 2303,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-20",
     "topic": "robot-learning",
-    "score": 920.9
+    "score": 921.3
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -501,13 +511,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44410,
+    "stars": 44412,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 17764.1
+    "score": 17764.9
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -738,16 +748,6 @@
     "date": "2026-08-05",
     "topic": "vla",
     "score": 801.7
-  },
-  {
-    "repo": "NVlabs/alpamayo1.5",
-    "stars": 355,
-    "language": "Python",
-    "description": "NVIDIA Alpamayo 1.5 Nano is an open 10B reasoning VLA model for autonomous vehicles with reinforcement-learning enhanced reasoning, navigation guidance, and visual question answering.",
-    "url": "https://github.com/NVlabs/alpamayo1.5",
-    "date": "2026-08-05",
-    "topic": "vla",
-    "score": 142.1
   },
   {
     "repo": "NVlabs/alpamayo2",
