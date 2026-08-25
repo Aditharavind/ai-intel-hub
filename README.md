@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-25 16:21 UTC
+Last Updated: 2026-08-25 17:20 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-25 | AI Book Scanning: Just What Is A Rare Book? | Hackaday | [link](https://hackaday.com/2026/08/25/ai-book-scanning-just-what-is-a-rare-book/) |
 | 2026-08-25 | Artificial Intelligence as It Once Was | Hackaday | [link](https://hackaday.com/2026/08/25/artificial-intelligence-as-it-once-was/) |
 | 2026-08-25 | Anatomy of an SLA Resin Printing Disaster | Hackaday | [link](https://hackaday.com/2026/08/25/anatomy-of-an-sla-resin-printing-disaster/) |
 | 2026-08-25 | Quest VR Headset Becomes Unlocked Hardware | Hackaday | [link](https://hackaday.com/2026/08/25/quest-vr-headset-becomes-unlocked-hardware/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU | CNX Software | [link](https://www.cnx-software.com/2026/08/25/299-arduino-ventuno-q-sbc-combines-qualcomm-dragonwing-iq8-soc-and-stm32h5-mcu/) |
 | 2026-08-25 | Firehat is an open-source FireWire DV capture HAT for SBCs with Raspberry Pi PCIe FFC connector (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/25/firehat-open-source-firewire-dv-capture-hat-pcie-sbc-raspberry-pi-5-radxa-rock-2f/) |
 | 2026-08-25 | Advantech AOM-6741 AI Vision SMARC module features 100 TOPS Qualcomm IQ-9075 SoC, up to 36 GB LPDDR5 | CNX Software | [link](https://www.cnx-software.com/2026/08/25/advantech-aom-6741-qualcomm-iq-9075-smarc-module/) |
-| 2026-08-25 | Why Sensor Fusion Matters for Drone Navigation and Detection | Embedded.com | [link](https://www.embedded.com/why-sensor-fusion-matters-for-drone-navigation-and-detection/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -93,13 +93,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 3099 | Python | 1239.7 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1465 | Rust | 586.1 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 950 | Python | 380.1 | [link](https://github.com/mosaico-labs/mosaico) |
+| mosaico-labs/mosaico | 951 | Python | 380.5 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 471 | Shell | 188.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| autonomous-ai/autonomous-os | 206 | Python | 82.5 | [link](https://github.com/autonomous-ai/autonomous-os) |
-| Developer-Y/cs-video-courses | 83172 |  | 33268.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63492 | Python | 25396.9 | [link](https://github.com/commaai/openpilot) |
+| wadeKeith/Awesome-Embodied-AI | 239 | Python | 95.7 | [link](https://github.com/wadeKeith/Awesome-Embodied-AI) |
+| Developer-Y/cs-video-courses | 83173 |  | 33269.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63494 | Python | 25397.7 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15741 | C++ | 6296.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14664 | C++ | 5865.7 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14666 | C++ | 5866.5 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 11351 | Rust | 4540.5 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
