@@ -1,5 +1,23 @@
 [
   {
+    "model": "robotcpp/starvla-qwen3-groot-bridge-gguf",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotcpp/starvla-qwen3-groot-bridge-gguf",
+    "date": "2026-08-25",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "robotcpp/starvla-qwen3-oft-bridge-gguf",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotcpp/starvla-qwen3-oft-bridge-gguf",
+    "date": "2026-08-25",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "hvsr-robotics/wojtek-quiet-locomotion",
     "downloads": 0,
     "likes": 1,
@@ -90,28 +108,19 @@
     "score": 0.1
   },
   {
-    "model": "Voyager466920/ahin-real-robot-smolvla-eight-tasks",
+    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Voyager466920/ahin-real-robot-smolvla-eight-tasks",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
     "date": "2026-08-25",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "Voyager466920/ahin-real-robot-pi0.5-eight-tasks",
+    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Voyager466920/ahin-real-robot-pi0.5-eight-tasks",
-    "date": "2026-08-25",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "cz22edd/vlaselect_test",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/cz22edd/vlaselect_test",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
     "date": "2026-08-25",
     "keyword": "vla",
     "score": 0.1
@@ -135,15 +144,6 @@
     "score": 0.1
   },
   {
-    "model": "vladlinv/ru-pii-ner",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladlinv/ru-pii-ner",
-    "date": "2026-08-25",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "sam-guided-vlas/train_1_2_pile__mask__blackout__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -153,19 +153,19 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
+    "model": "cz22edd/vlaselect_test",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
+    "url": "https://huggingface.co/cz22edd/vlaselect_test",
     "date": "2026-08-25",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
+    "model": "vladlinv/ru-pii-ner",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
+    "url": "https://huggingface.co/vladlinv/ru-pii-ner",
     "date": "2026-08-25",
     "keyword": "vla",
     "score": 0.1
@@ -277,6 +277,15 @@
     "date": "2026-08-25",
     "keyword": "world model",
     "score": 3.1
+  },
+  {
+    "model": "Mye0n9/cskd-core-h1-h2-off_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Mye0n9/cskd-core-h1-h2-off_policy",
+    "date": "2026-08-25",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "Mye0n9/cskd-core-h1-h2-on_policy",
@@ -403,15 +412,6 @@
     "date": "2026-08-24",
     "keyword": "navigation",
     "score": 9.4
-  },
-  {
-    "model": "Chaenn/smolvla_policy_so101_cube_multitask_realsim_0824",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/Chaenn/smolvla_policy_so101_cube_multitask_realsim_0824",
-    "date": "2026-08-24",
-    "keyword": "policy",
-    "score": 4.6
   },
   {
     "model": "Dimios45/yam-world-model",

@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-25 17:20 UTC
+Last Updated: 2026-08-25 18:19 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -10,13 +10,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | The full stack behind abundant intelligence | OpenAI | [link](https://openai.com/index/the-full-stack-behind-abundant-intelligence) |
 | 2026-08-25 | Jalapeño’s first results show industry-leading speed and efficiency in AI inference | OpenAI | [link](https://openai.com/index/jalapeno-first-results) |
 | 2026-08-25 | Disrupting a new covert influence campaign from Russia | OpenAI | [link](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia) |
+| 2026-08-25 | Introducing the Admin plugin for ChatGPT Work and Codex | OpenAI | [link](https://openai.com/index/introducing-admin-plugin) |
 | 2026-08-25 | Granite 4.2 LLMs: How They're Built | Hugging Face | [link](https://huggingface.co/blog/ibm-granite/granite-4-2) |
 | 2026-08-25 | Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original | Hugging Face | [link](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing) |
 | 2026-08-25 | Wire It, Run It, Deploy It: AI Workflows in Gradio | Hugging Face | [link](https://huggingface.co/blog/gradio-workflow-guide) |
 | 2026-08-24 | Advancing price-performance for developers with GPT‑5.6 in Kiro | OpenAI | [link](https://openai.com/index/gpt-5-6-in-kiro) |
 | 2026-08-21 | How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code | Hugging Face | [link](https://huggingface.co/blog/pwc-search) |
 | 2026-08-21 | Measuring benchmark optimization in speech recognition | Hugging Face | [link](https://huggingface.co/blog/asr-benchmark-optimization) |
-| 2026-08-20 | Introducing AI Futures | OpenAI | [link](https://openai.com/index/introducing-ai-futures) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -38,13 +38,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | AI Companion Robots Are Closing the Human Connection in Modern Homes | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/ollobot-ai-companion-robot) |
 | 2026-08-25 | Humans in the loop are still needed for robotaxi fleet safety, says Guident | Robotics Business Review | [link](https://www.therobotreport.com/humans-loop-are-still-needed-robotaxi-fleet-safety-says-guident/) |
 | 2026-08-25 | Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA | Robotics Business Review | [link](https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/) |
+| 2026-08-25 | Early bird pricing for RoboBusiness 2026 ends August 31 | Robotics Business Review | [link](https://www.therobotreport.com/early-bird-pricing-for-robobusiness-2026-ends-august-31/) |
 | 2026-08-24 | XPeng Motors humanoid robot unit Dogotix raises $900M | Robotics Business Review | [link](https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m/) |
 | 2026-08-24 | The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn | Robotics Business Review | [link](https://www.therobotreport.com/the-next-big-ai-play-isnt-apps-or-humanoids-its-machines-with-brains-and-brawn/) |
 | 2026-08-23 | Use a digital twin to explore automation before committing capital | Robotics Business Review | [link](https://www.therobotreport.com/use-digital-twin-explore-automation-before-committing-capital/) |
 | 2026-08-22 | How software-defined manufacturing fits into real factory operations | Robotics Business Review | [link](https://www.therobotreport.com/how-software-defined-manufacturing-fits-into-real-factory-operations/) |
 | 2026-08-22 | The technology that could bring robot mowers to one in two American lawns | Robotics Business Review | [link](https://www.therobotreport.com/technology-could-bring-robot-mowers-one-half-american-lawns/) |
 | 2026-08-22 | Robots don’t run themselves: The workforce powering physical AI | Robotics Business Review | [link](https://www.therobotreport.com/robots-dont-run-themselves-workforce-powering-physical-ai/) |
-| 2026-08-21 | Schaeffler plans to mass produce gearboxes for humanoid robots in 2027 | Robotics Business Review | [link](https://www.therobotreport.com/schaeffler-plans-to-mass-manufacture-gearboxes-for-humanoids-in-2027/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-25 | robotcpp/starvla-qwen3-groot-bridge-gguf | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen3-groot-bridge-gguf) |
+| 2026-08-25 | robotcpp/starvla-qwen3-oft-bridge-gguf | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen3-oft-bridge-gguf) |
 | 2026-08-25 | hvsr-robotics/wojtek-quiet-locomotion | 0 | 1 | [link](https://huggingface.co/hvsr-robotics/wojtek-quiet-locomotion) |
 | 2026-08-25 | junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0_vid1 | 4 | 0 | [link](https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0_vid1) |
 | 2026-08-25 | junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.5_vid1 | 3 | 0 | [link](https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.5_vid1) |
@@ -85,8 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | locht131/gr00t_n17_mt3_a_robot_only_bs64_kgbridge | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_mt3_a_robot_only_bs64_kgbridge) |
 | 2026-08-25 | milab-robot/alm1-0731-milab.NESW | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.NESW) |
 | 2026-08-25 | D-Robotics/LocateAnything-3B-BPU-Balance | 0 | 0 | [link](https://huggingface.co/D-Robotics/LocateAnything-3B-BPU-Balance) |
-| 2026-08-25 | RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_Task462_Task480_TaskStay_merged_filtered | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_Task462_Task480_TaskStay_merged_filtered) |
-| 2026-08-25 | locht131/gr00t_n17_mt3_a_robot_only_kgbridge | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_mt3_a_robot_only_kgbridge) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -97,10 +97,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | awslabs/awsome-distributed-ai | 471 | Shell | 188.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | wadeKeith/Awesome-Embodied-AI | 239 | Python | 95.7 | [link](https://github.com/wadeKeith/Awesome-Embodied-AI) |
 | Developer-Y/cs-video-courses | 83173 |  | 33269.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63494 | Python | 25397.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63495 | Python | 25398.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15741 | C++ | 6296.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14666 | C++ | 5866.5 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11351 | Rust | 4540.5 | [link](https://github.com/rerun-io/rerun) |
+| rerun-io/rerun | 11352 | Rust | 4540.9 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -110,11 +110,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWi0xVVZXSXFwSXhIbUVLVnJTXzFnMmdrRlo0YTR6Z18yYXNCbm5RYkFwam1hWVVQVXB2MlBkb29mY3lfNFk2dGliZnc3bW5DM3ZvZ0xuUlJITHNFS2lhY0hJXzhCY0J2UXJvaGFzTGpvSHUtY2hfUWExdjg1cG01WENab2plQ2VLTnVvVGpOamIyV3owd19mcW9RNDhIaGpCWWJLMnN5MEltSGZpREQyR0FsTzZWc3NVREhPNTY5cG5iVWRuVzEwVDc1MEFnLWln?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcm9WTVFwbkVJNmlSTEw5cVhyV251TGh6X05PM3dPSklsOXBtSzNUbXE1cmFXT1k0aGQtU1RGSUg0UFpqb1V1OHZuakZxWm8wZkItRmNlalloeGRHM05ONlhONktNcFlveE1iblI5Y25ubjF5REVibzdfT3M4SUVmYkgxcmhCMWFGMjE5MVdycWdwZlJMa1dzZzBpTFNnYWJpTmlDelpicTRHc3pMR3FxcC13b00?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SOUROMURZQXFMUFNDcW1Lc3NXb2ZIblQ3eVc1cHRCNk5GZDFEcThGWXJCZk5UYlNucUE5NDVrV0k0eEdkTGtHS19FdHIyOGZnN1Bn?oc=5) |
+| 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxONUZoQVdPa1NBVEtfUUg0a3A0ek90R0taYWxmaGxDS29DNFFNSXdRQ0d5aXIzVkxEQ2lHX05GSDNyUXJiTVdlSEdzOU1mc0k0ci1SWHNBeXotaGdsbWpVNTh2N1I1aFNFa3BfVk1FZFBFbFR5eGJxaXoyZThXb1cxbWtnWjNjX1ZjdnM0RWR1UWRvRXExTHNBU3NVcHA3dE5PaXNsTjQ1RmJmb1dJYlZUMNIBsAFBVV95cUxONUZoQVdPa1NBVEtfUUg0a3A0ek90R0taYWxmaGxDS29DNFFNSXdRQ0d5aXIzVkxEQ2lHX05GSDNyUXJiTVdlSEdzOU1mc0k0ci1SWHNBeXotaGdsbWpVNTh2N1I1aFNFa3BfVk1FZFBFbFR5eGJxaXoyZThXb1cxbWtnWjNjX1ZjdnM0RWR1UWRvRXExTHNBU3NVcHA3dE5PaXNsTjQ1RmJmb1dJYlZUMA?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMikAJBVV95cUxQNXRYUm90QTQ5ek1JQkNJLTcyTTBPWFpYcjZLMHpXdmthdU1NcUtWZXhBU2hWaXJFeWlRbFFzMnUyR3B5NV9JaGhIaEpCb281WjkyUzlxVnpaT09YN1FFYlN0eFZCcVJBOWt3UXppeVRZdTFSdldtVVBnTWZ3NFk1TVNxd3BNd2hucDN1ejlVcXVHWFEwdTBaYWpLY29abFRJcURNMFFxVWp1MzEtT3ZEdy1mZTZFOWcwLWowbXZRalg0QVpwM2w0TjhlSE9aREpuZGhSdlNlcWNLaGhLcGZmRHBiRjczS3YxMk52STBsR2hIUXdjWEhBanJlaXhCQm8xd0FNa09rZ2dsMUNBSXNRQtIBlgJBVV95cUxNOG9WcnAwSWllT0c3TU5vX1c5SHhRNFF2c3ZWNllOSFRvV2taWmNONFJZMldsTVAzUTZHUXJvdi0wcGp3eVVxTU4ta3h0RGhwdXFRcE9Ec0lJa0xDWEptSWlrSFNPeWRHZ3pRYlV0SWZHOEFLRDZMam5WRGFyY0xmZUNqU1FCNm95S2dXb0ZJOUptZ3ZGbUxGd3hYOGdOZnZ4U3ZFbzdmWHd1WGZZb05iTUd5YzBpWWlmQWNsNG9IT0pwbWdjc2h4UEZNUndIaElsXzRydTZ3VUV2ai1WcGprUzVIRXhWc2NaZ0p3cUJyWjV3VGp0WUVWT2RRNWRtcjYwQUlqNkFZckNCME9lRlkzLWZwMGY0UQ?oc=5) |
 | 2026-08-24 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlROdnFoR0Q2ZXkxS21CbHZCTktXYmRXS25xaFFHLVJSYktBLXRVVk13Tk5xTi12NjhwaXIxcGpacTJoSU9kZVZvMk5pajNscDFGTk9yNTdqSEVxU0dPTkxTcUVBRWg4SW1BQm9WTTdodmlOZk1zTDlLdDNVRWxaVHdPdldoM21sZHp0d3lDNnExbmxmamt2bnh1M3llQXN2RVlHOXVxYWR6MXV3T2VqVTQwdEVRSGs?oc=5) |
 | 2026-08-22 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzdQNU5NQnZJRU5JeS1DWFdVcDFqVVp4VlhMTXNxaUVadTJ2WXJPWWJmdXJBYW0xZkY4VnBQaUpWWnlHdVBJTkI3S21sUXE4NkQ1dVUybVUwb3E3ZjhPR3c5TXZrQVcyTWpjX0w0elE0SnJ4SlQ2cFRFQkJWRElFSk1PUXhhM21GYkZ2RlJwRGFFSllZQXJZ?oc=5) |
 | 2026-08-20 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhLOS1OTWxZdzBsWFYxXzBybFo0dU1LdTVLLTgzWEtlNDlMRm1uRjQ0R3lSOWpna0dkanhMR0dGV0RVOUVzRFZWbFZJejNMWEQ5NXRKaFc5MTVrN3ZIdnpmQ1p5UUVrV3lOMUI0X0ktTjQ0MEM1bTFzaXg3d1dBT1NXY2FmZkRnRW03ZUo4VEx3cFU3SVVFdVQzZUtVSWpWZlFYM0diQi1Wb1lJVGZn?oc=5) |
-| 2026-08-19 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWx4dUhBckpyUko4NGppNk8tLWtCbzdhaHVaQzdKanVIZFVxdXJsWXhUZi12c2pMRGg2VFc5MVhIR184UkFTa3FWZTBtaTI0SXNjSllfS3dIMjltTVdnYWFsQS1XZVBKM2lvME5JdGJrTE5qNG5KVXMtWWE5QUxfV1pxdTJYZ0U4RGFnTDAzR1hmUQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
