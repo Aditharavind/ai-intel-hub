@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-25 18:19 UTC
+Last Updated: 2026-08-25 19:20 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-08-25 | robotcpp/starvla-qwen3-groot-bridge-gguf | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen3-groot-bridge-gguf) |
-| 2026-08-25 | robotcpp/starvla-qwen3-oft-bridge-gguf | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen3-oft-bridge-gguf) |
+| 2026-08-25 | robotcpp/starvla-qwen25-fast-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen25-fast-bridge-bf16) |
+| 2026-08-25 | robotcpp/starvla-qwen25-pi-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen25-pi-bridge-bf16) |
+| 2026-08-25 | robotcpp/starvla-qwen25-groot-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen25-groot-bridge-bf16) |
+| 2026-08-25 | robotcpp/starvla-qwen25-oft-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen25-oft-bridge-bf16) |
+| 2026-08-25 | robotcpp/starvla-qwen3-pi-v3-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen3-pi-v3-bridge-bf16) |
+| 2026-08-25 | robotcpp/starvla-qwen3-groot-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen3-groot-bridge-bf16) |
+| 2026-08-25 | robotcpp/starvla-qwen3-oft-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen3-oft-bridge-bf16) |
 | 2026-08-25 | hvsr-robotics/wojtek-quiet-locomotion | 0 | 1 | [link](https://huggingface.co/hvsr-robotics/wojtek-quiet-locomotion) |
 | 2026-08-25 | junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0_vid1 | 4 | 0 | [link](https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0_vid1) |
 | 2026-08-25 | junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.5_vid1 | 3 | 0 | [link](https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.5_vid1) |
-| 2026-08-25 | junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.8_vid1 | 4 | 0 | [link](https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.8_vid1) |
-| 2026-08-25 | junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.3_vid1 | 4 | 0 | [link](https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.3_vid1) |
-| 2026-08-25 | locht131/gr00t_n17_mt3_a_robot_only_bs64_kgbridge | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_mt3_a_robot_only_bs64_kgbridge) |
-| 2026-08-25 | milab-robot/alm1-0731-milab.NESW | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.NESW) |
-| 2026-08-25 | D-Robotics/LocateAnything-3B-BPU-Balance | 0 | 0 | [link](https://huggingface.co/D-Robotics/LocateAnything-3B-BPU-Balance) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3099 | Python | 1239.7 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3102 | Python | 1240.9 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1465 | Rust | 586.1 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 951 | Python | 380.5 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 471 | Shell | 188.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | wadeKeith/Awesome-Embodied-AI | 239 | Python | 95.7 | [link](https://github.com/wadeKeith/Awesome-Embodied-AI) |
-| Developer-Y/cs-video-courses | 83173 |  | 33269.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83174 |  | 33269.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63495 | Python | 25398.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15741 | C++ | 6296.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14666 | C++ | 5866.5 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11352 | Rust | 4540.9 | [link](https://github.com/rerun-io/rerun) |
+| earthtojake/text-to-cad | 13890 | Python | 5556.1 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
