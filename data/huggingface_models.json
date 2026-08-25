@@ -1,5 +1,50 @@
 [
   {
+    "model": "hvsr-robotics/wojtek-quiet-locomotion",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/hvsr-robotics/wojtek-quiet-locomotion",
+    "date": "2026-08-25",
+    "keyword": "robotics",
+    "score": 0.3
+  },
+  {
+    "model": "junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0_vid1",
+    "downloads": 4,
+    "likes": 0,
+    "url": "https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0_vid1",
+    "date": "2026-08-25",
+    "keyword": "robot",
+    "score": 1.3
+  },
+  {
+    "model": "junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.5_vid1",
+    "downloads": 3,
+    "likes": 0,
+    "url": "https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.5_vid1",
+    "date": "2026-08-25",
+    "keyword": "robot",
+    "score": 1.0
+  },
+  {
+    "model": "junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.8_vid1",
+    "downloads": 4,
+    "likes": 0,
+    "url": "https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.8_vid1",
+    "date": "2026-08-25",
+    "keyword": "robot",
+    "score": 1.3
+  },
+  {
+    "model": "junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.3_vid1",
+    "downloads": 4,
+    "likes": 0,
+    "url": "https://huggingface.co/junbrro/robotonly_openarmv3_bsz64_30000_vlmfreeze_sd0.3_vid1",
+    "date": "2026-08-25",
+    "keyword": "robot",
+    "score": 1.3
+  },
+  {
     "model": "locht131/gr00t_n17_mt3_a_robot_only_bs64_kgbridge",
     "downloads": 0,
     "likes": 0,
@@ -63,46 +108,10 @@
     "score": 0.1
   },
   {
-    "model": "Chipaipai/tcc-core-real-robot-policies",
+    "model": "vladlinv/ru-pii-ner",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Chipaipai/tcc-core-real-robot-policies",
-    "date": "2026-08-25",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "jungwook2358/actlat-gr1-1000demos-segpix-robotmask-promptv2-vla60000-tok100000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jungwook2358/actlat-gr1-1000demos-segpix-robotmask-promptv2-vla60000-tok100000",
-    "date": "2026-08-25",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365",
-    "downloads": 1083,
-    "likes": 10,
-    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365",
-    "date": "2026-08-25",
-    "keyword": "robotics",
-    "score": 327.0
-  },
-  {
-    "model": "robotchip/vlarl-ckpts-pub",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/robotchip/vlarl-ckpts-pub",
-    "date": "2026-08-25",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__blackout__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blackout__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/vladlinv/ru-pii-ner",
     "date": "2026-08-25",
     "keyword": "vla",
     "score": 0.1
@@ -126,15 +135,6 @@
     "score": 0.1
   },
   {
-    "model": "vladfatu/telerobot-pick-toy-7-model-act-1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladfatu/telerobot-pick-toy-7-model-act-1",
-    "date": "2026-08-25",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -153,19 +153,28 @@
     "score": 0.1
   },
   {
-    "model": "Fisher-Wang/lingbot-vla-v2-6b-libero-goal",
+    "model": "sam-guided-vlas/train_1_2_pile__mask__blackout__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Fisher-Wang/lingbot-vla-v2-6b-libero-goal",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blackout__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-08-25",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "vladlinv/ru-pii-ner",
+    "model": "vladfatu/telerobot-pick-toy-7-model-act-1",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/vladlinv/ru-pii-ner",
+    "url": "https://huggingface.co/vladfatu/telerobot-pick-toy-7-model-act-1",
+    "date": "2026-08-25",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Fisher-Wang/lingbot-vla-v2-6b-libero-goal",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Fisher-Wang/lingbot-vla-v2-6b-libero-goal",
     "date": "2026-08-25",
     "keyword": "vla",
     "score": 0.1
@@ -279,6 +288,15 @@
     "score": 0.1
   },
   {
+    "model": "Immerwinter/gbert-large-privacy-policy-context",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Immerwinter/gbert-large-privacy-policy-context",
+    "date": "2026-08-25",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "szaborego/panda_reach_act_policy_6.1",
     "downloads": 0,
     "likes": 0,
@@ -360,13 +378,13 @@
     "score": 4.3
   },
   {
-    "model": "polarisai-robots/bento_v2_openarm_pi05",
-    "downloads": 63,
-    "likes": 0,
-    "url": "https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05",
-    "date": "2026-08-24",
-    "keyword": "robot",
-    "score": 19.0
+    "model": "XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365",
+    "downloads": 1083,
+    "likes": 10,
+    "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365",
+    "date": "2026-08-25",
+    "keyword": "robotics",
+    "score": 327.0
   },
   {
     "model": "hfunknown/qwen3-8b-navigation-lora-stateless",
@@ -394,15 +412,6 @@
     "date": "2026-08-24",
     "keyword": "policy",
     "score": 4.6
-  },
-  {
-    "model": "nvidia/Cosmos3-Edge-Policy-DROID",
-    "downloads": 1774,
-    "likes": 10,
-    "url": "https://huggingface.co/nvidia/Cosmos3-Edge-Policy-DROID",
-    "date": "2026-08-24",
-    "keyword": "policy",
-    "score": 534.3
   },
   {
     "model": "Dimios45/yam-world-model",
@@ -616,15 +625,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sunilchopra/paper_021856383_robotics_vision_language",
-    "date": "2026-08-22",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "Cdsmith95/paper_022484211_robotics_vision_language",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Cdsmith95/paper_022484211_robotics_vision_language",
     "date": "2026-08-22",
     "keyword": "robotics",
     "score": 0.1

@@ -1,5 +1,12 @@
 [
   {
+    "title": "Artificial Intelligence as It Once Was",
+    "source": "Hackaday",
+    "date": "2026-08-25",
+    "url": "https://hackaday.com/2026/08/25/artificial-intelligence-as-it-once-was/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"507\" src=\"https://hackaday.com/wp-content/uploads/2026/08/eliza.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One day, people will look back at what we call Artificial Intelligence and laugh. We do the same thing today, as chat bots totally outstrip what the computer industry called <a class=\"read-more\" href=\"https://hackaday.com/2026/08/25/artificial-intelligence-as-it-once-was/\">&#8230;read more</a>"
+  },
+  {
     "title": "Anatomy of an SLA Resin Printing Disaster",
     "source": "Hackaday",
     "date": "2026-08-25",
@@ -140,6 +147,27 @@
     "summary": "<p>Humanoid robots in China are beginning to be deployed across a wider range of applications—automotive, 3C electronics, aerospace, logistics, and energy—putting their commercial viability to the test, says TrendForce . [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/can-chinas-humanoid-robots-be-useful-2026-08/\">Can China’s Humanoid Robots be useful?</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "os8088 spotlight: new programs and features",
+    "source": "Adafruit",
+    "date": "2026-08-25",
+    "url": "https://blog.adafruit.com/2026/08/25/os8088-spotlight-new-programs-and-features/",
+    "summary": "os8088 new items: what was added, what it does, screenshots of it running on an Intel 8086, and the video that goes with it, by Jorge Gonzalez. os8088 now fetches real web pages and lays them out as text and tables, over an Ethernet card or a parallel cable to a DOS machine standing next [&#8230;]"
+  },
+  {
+    "title": "The new MCP roadmap",
+    "source": "Adafruit",
+    "date": "2026-08-25",
+    "url": "https://blog.adafruit.com/2026/08/25/the-new-mcp-roadmap/",
+    "summary": "An update on the Model Context Protocol roadmap and focus areas for upcoming specification releases. Today we’re excited to publish an updated roadmap for the Model Context Protocol (MCP), covering the next specification release and beyond. It sets the direction for protocol work over the coming months and was developed by the Core Maintainers together [&#8230;]"
+  },
+  {
+    "title": "RetroESP32-P4: The beloved RetroESP32 ported to the new P4",
+    "source": "Adafruit",
+    "date": "2026-08-25",
+    "url": "https://blog.adafruit.com/2026/08/25/retroesp32-p4-the-beloved-retroesp32-ported-to-the-new-p4/",
+    "summary": "The beloved RetroESP32 ported to the new P4. Contribute to giltal/RetroESP32-P4 development by creating an account on GitHub. RetroESP32-P4 is an open-source retro-gaming and application platform built on the ESP32-P4 — a dual-core RISC-V microcontroller with no dedicated GPU. Grown out of a revival of the original RetroESP32, it brings a modern touchscreen launcher, HDMI [&#8230;]"
+  },
+  {
     "title": "Espressif posts a Linux BSP for the ESP32-S31",
     "source": "Adafruit",
     "date": "2026-08-25",
@@ -238,13 +266,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/am29000-os-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The AM29000 series of processors were AMD&#8217;s entry into the world of super-fast next-generation silicon of the late 1980s. It was a time when ARM was still a niche architecture <a class=\"read-more\" href=\"https://hackaday.com/2026/08/24/a-1990s-homebrew-os-with-gui-and-web-browser-in-am29000-machine-code/\">&#8230;read more</a>"
   },
   {
-    "title": "An Electronic Explanation Of 1960s Fuzz Boxes",
-    "source": "Hackaday",
-    "date": "2026-08-24",
-    "url": "https://hackaday.com/2026/08/24/an-electronic-explanation-of-1960s-fuzz-boxes/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/fuzz-box-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It&#8217;s likely that even those of us who have never picked up a guitar in our lives will recognize the sound of an electric guitar with a fuzz box effects <a class=\"read-more\" href=\"https://hackaday.com/2026/08/24/an-electronic-explanation-of-1960s-fuzz-boxes/\">&#8230;read more</a>"
-  },
-  {
     "title": "Jetway PIC-TWL1 Intel N150 Pico-ITX motherboard is made for industrial automation and embedded systems",
     "source": "CNX Software",
     "date": "2026-08-24",
@@ -292,27 +313,6 @@
     "date": "2026-08-24",
     "url": "https://blog.adafruit.com/2026/08/24/a-dithered-qr-code-generator/",
     "summary": "A QR code is really just a way of encoding a few bytes of data in a way that can be easily read from a photo by a smartphone or similar device. They&#8217;re designed to be very robust to bad focus, bad printing, funny angles, and missing areas. Exactly how they work isn&#8217;t terribly important, [&#8230;]"
-  },
-  {
-    "title": "Everything about my smart home and homelab setup",
-    "source": "Adafruit",
-    "date": "2026-08-24",
-    "url": "https://blog.adafruit.com/2026/08/24/everything-about-my-smart-home-and-homelab-setup/",
-    "summary": "So many people are looking to set up homelabs and also looking to automate their home. But actual examples are not so easy to find. Bruno Rocha writes about his home network and home automation setup is laid out and has changed over time. I’m very satisfied with my hardware and setup choices. As I [&#8230;]"
-  },
-  {
-    "title": "Celebrating 45 years of Kermit with the first new C-Kermit release in 15 years",
-    "source": "Adafruit",
-    "date": "2026-08-24",
-    "url": "https://blog.adafruit.com/2026/08/24/celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years/",
-    "summary": "John Goerzen writes on The Changelog that 1981 was a different time for computing. It was expensive (both hardware and software), and it was far from a given that machines from one vendor would be able to talk to those from another. In fact, Columbia University had just such a problem, so in 1981, Frank [&#8230;]"
-  },
-  {
-    "title": "A portable, sensitive, low power, analog Geiger counter",
-    "source": "Adafruit",
-    "date": "2026-08-24",
-    "url": "https://blog.adafruit.com/2026/08/24/a-portable-sensitive-low-power-analog-geiger-counter/",
-    "summary": "Manfred Mornhinweg bought a Chinese J306β Geiger-Müller counter tube, the glass version, which is rated to give 88 counts per minute at average background radiation, or 8 counts per second at a radiation intensity of 1µSv/h. This tube is nearly 20cm long, and about 18mm in diameter. I took quite some time to decide whether [&#8230;]"
   },
   {
     "title": "Anomalous Charging Current (ACC) in Polymer Tantalum Capacitors — KYOCERA and Mouser Electronics",
