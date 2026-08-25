@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-25 19:20 UTC
+Generated: 2026-08-25 20:13 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,7 +15,7 @@ Generated: 2026-08-25 19:20 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83174 | 33269.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63495 | 25398.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63496 | 25398.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44431 | 17772.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30363 | 12145.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16161 | 6464.5 | [link](https://github.com/zauberzeug/nicegui) |
@@ -33,10 +33,10 @@ Generated: 2026-08-25 19:20 UTC
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
 | 2026-08-25 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxObXBJbUlia19faFRtRHd3UE5kUGlKRWdBUWRiSmlfTTYyTnRPVExndkE0ZXZ6YURodk5kSnpJTDJkc2doN01UZFk4VUI5RUFnbjd3TXJFVlo5YlJmWENIM0pra1E5bF9uT3NPOTFkaWwtNnFUd0p1WG93blBfZ241UnhabEJRbXprb0RvZjlYeDRsSlc4MkRKaTRSQ295RnVYX05mMThtRTRaR2pCM29sbWZvTThKVUtaWEE?oc=5) |
+| 2026-08-25 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbngwc2NoMVVfZUt3OURhbkxvRmV1WTRVUlZWX3VXcHVnVkpsY0lMSjBRZ3huXzBCZWE0anZyeENERjR2MmhGS3RDVGRmV1dkakM3U2xEdlBEeVVSZE1EQnlLSjYxZlQyRElDNmxCdHNWZWVORk5GSkNCaXg4Q0xvN1FFNUdzanQtNDBr?oc=5) |
 | 2026-08-25 | Unitree |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGRhNDZiQ3o1VTRUTzJELTV5SkZ6U202dVlhYVFWZUF2UmRrbVdMUGd5Z0dGa0VPRjBUNWFqVmtqWkVGYmhIU0NzbGlGUHlfY0xhOVVhT3pHc2wtMVJsVk1Ha2JzRUxwazFBNlk1cDN6TWR6MW1odTdTN0djQXdWWkZMMEM5bVl1RVpCdkFab2I0VWI2LU1wNE4ySTIzTkVpT0REVzBNaEE1c3g4RUE?oc=5) |
 | 2026-08-25 | Unitree |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWi0xVVZXSXFwSXhIbUVLVnJTXzFnMmdrRlo0YTR6Z18yYXNCbm5RYkFwam1hWVVQVXB2MlBkb29mY3lfNFk2dGliZnc3bW5DM3ZvZ0xuUlJITHNFS2lhY0hJXzhCY0J2UXJvaGFzTGpvSHUtY2hfUWExdjg1cG01WENab2plQ2VLTnVvVGpOamIyV3owd19mcW9RNDhIaGpCWWJLMnN5MEltSGZpREQyR0FsTzZWc3NVREhPNTY5cG5iVWRuVzEwVDc1MEFnLWln?oc=5) |
 | 2026-08-25 | Unitree |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcm9WTVFwbkVJNmlSTEw5cVhyV251TGh6X05PM3dPSklsOXBtSzNUbXE1cmFXT1k0aGQtU1RGSUg0UFpqb1V1OHZuakZxWm8wZkItRmNlalloeGRHM05ONlhONktNcFlveE1iblI5Y25ubjF5REVibzdfT3M4SUVmYkgxcmhCMWFGMjE5MVdycWdwZlJMa1dzZzBpTFNnYWJpTmlDelpicTRHc3pMR3FxcC13b00?oc=5) |
-| 2026-08-25 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SOUROMURZQXFMUFNDcW1Lc3NXb2ZIblQ3eVc1cHRCNk5GZDFEcThGWXJCZk5UYlNucUE5NDVrV0k0eEdkTGtHS19FdHIyOGZnN1Bn?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |

@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-25 19:20 UTC
+Last Updated: 2026-08-25 20:13 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-25 | Native SMB3 Client Brings Modern NAS Access To 20-Year-Old PowerPC Macs | Hackaday | [link](https://hackaday.com/2026/08/25/native-smb3-client-brings-modern-nas-access-to-20-year-old-powerpc-macs/) |
 | 2026-08-25 | AI Book Scanning: Just What Is A Rare Book? | Hackaday | [link](https://hackaday.com/2026/08/25/ai-book-scanning-just-what-is-a-rare-book/) |
 | 2026-08-25 | Artificial Intelligence as It Once Was | Hackaday | [link](https://hackaday.com/2026/08/25/artificial-intelligence-as-it-once-was/) |
 | 2026-08-25 | Anatomy of an SLA Resin Printing Disaster | Hackaday | [link](https://hackaday.com/2026/08/25/anatomy-of-an-sla-resin-printing-disaster/) |
 | 2026-08-25 | Quest VR Headset Becomes Unlocked Hardware | Hackaday | [link](https://hackaday.com/2026/08/25/quest-vr-headset-becomes-unlocked-hardware/) |
 | 2026-08-25 | The Days Of Broadcast Digital TV Could Be Numbered | Hackaday | [link](https://hackaday.com/2026/08/25/the-days-of-broadcast-digital-tv-could-be-numbered/) |
 | 2026-08-25 | Straight Talk on 3D Printing Footwear At Home | Hackaday | [link](https://hackaday.com/2026/08/24/straight-talk-on-3d-printing-footwear-at-home/) |
-| 2026-08-25 | 3D-Printed Skin Gives Robots the Sensation of Touch | Hackaday | [link](https://hackaday.com/2026/08/24/3d-printed-skin-gives-robots-the-sensation-of-touch/) |
 | 2026-08-25 | $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU | CNX Software | [link](https://www.cnx-software.com/2026/08/25/299-arduino-ventuno-q-sbc-combines-qualcomm-dragonwing-iq8-soc-and-stm32h5-mcu/) |
 | 2026-08-25 | Firehat is an open-source FireWire DV capture HAT for SBCs with Raspberry Pi PCIe FFC connector (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/25/firehat-open-source-firewire-dv-capture-hat-pcie-sbc-raspberry-pi-5-radxa-rock-2f/) |
 | 2026-08-25 | Advantech AOM-6741 AI Vision SMARC module features 100 TOPS Qualcomm IQ-9075 SoC, up to 36 GB LPDDR5 | CNX Software | [link](https://www.cnx-software.com/2026/08/25/advantech-aom-6741-qualcomm-iq-9075-smarc-module/) |
@@ -91,13 +91,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3102 | Python | 1240.9 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3104 | Python | 1241.7 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1465 | Rust | 586.1 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 951 | Python | 380.5 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 471 | Shell | 188.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | wadeKeith/Awesome-Embodied-AI | 239 | Python | 95.7 | [link](https://github.com/wadeKeith/Awesome-Embodied-AI) |
 | Developer-Y/cs-video-courses | 83174 |  | 33269.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63495 | Python | 25398.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63496 | Python | 25398.5 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15741 | C++ | 6296.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14666 | C++ | 5866.5 | [link](https://github.com/google-deepmind/mujoco) |
 | earthtojake/text-to-cad | 13890 | Python | 5556.1 | [link](https://github.com/earthtojake/text-to-cad) |
@@ -106,12 +106,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxObXBJbUlia19faFRtRHd3UE5kUGlKRWdBUWRiSmlfTTYyTnRPVExndkE0ZXZ6YURodk5kSnpJTDJkc2doN01UZFk4VUI5RUFnbjd3TXJFVlo5YlJmWENIM0pra1E5bF9uT3NPOTFkaWwtNnFUd0p1WG93blBfZ241UnhabEJRbXprb0RvZjlYeDRsSlc4MkRKaTRSQ295RnVYX05mMThtRTRaR2pCM29sbWZvTThKVUtaWEE?oc=5) |
+| 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbngwc2NoMVVfZUt3OURhbkxvRmV1WTRVUlZWX3VXcHVnVkpsY0lMSjBRZ3huXzBCZWE0anZyeENERjR2MmhGS3RDVGRmV1dkakM3U2xEdlBEeVVSZE1EQnlLSjYxZlQyRElDNmxCdHNWZWVORk5GSkNCaXg4Q0xvN1FFNUdzanQtNDBr?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGRhNDZiQ3o1VTRUTzJELTV5SkZ6U202dVlhYVFWZUF2UmRrbVdMUGd5Z0dGa0VPRjBUNWFqVmtqWkVGYmhIU0NzbGlGUHlfY0xhOVVhT3pHc2wtMVJsVk1Ha2JzRUxwazFBNlk1cDN6TWR6MW1odTdTN0djQXdWWkZMMEM5bVl1RVpCdkFab2I0VWI2LU1wNE4ySTIzTkVpT0REVzBNaEE1c3g4RUE?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWi0xVVZXSXFwSXhIbUVLVnJTXzFnMmdrRlo0YTR6Z18yYXNCbm5RYkFwam1hWVVQVXB2MlBkb29mY3lfNFk2dGliZnc3bW5DM3ZvZ0xuUlJITHNFS2lhY0hJXzhCY0J2UXJvaGFzTGpvSHUtY2hfUWExdjg1cG01WENab2plQ2VLTnVvVGpOamIyV3owd19mcW9RNDhIaGpCWWJLMnN5MEltSGZpREQyR0FsTzZWc3NVREhPNTY5cG5iVWRuVzEwVDc1MEFnLWln?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcm9WTVFwbkVJNmlSTEw5cVhyV251TGh6X05PM3dPSklsOXBtSzNUbXE1cmFXT1k0aGQtU1RGSUg0UFpqb1V1OHZuakZxWm8wZkItRmNlalloeGRHM05ONlhONktNcFlveE1iblI5Y25ubjF5REVibzdfT3M4SUVmYkgxcmhCMWFGMjE5MVdycWdwZlJMa1dzZzBpTFNnYWJpTmlDelpicTRHc3pMR3FxcC13b00?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SOUROMURZQXFMUFNDcW1Lc3NXb2ZIblQ3eVc1cHRCNk5GZDFEcThGWXJCZk5UYlNucUE5NDVrV0k0eEdkTGtHS19FdHIyOGZnN1Bn?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxONUZoQVdPa1NBVEtfUUg0a3A0ek90R0taYWxmaGxDS29DNFFNSXdRQ0d5aXIzVkxEQ2lHX05GSDNyUXJiTVdlSEdzOU1mc0k0ci1SWHNBeXotaGdsbWpVNTh2N1I1aFNFa3BfVk1FZFBFbFR5eGJxaXoyZThXb1cxbWtnWjNjX1ZjdnM0RWR1UWRvRXExTHNBU3NVcHA3dE5PaXNsTjQ1RmJmb1dJYlZUMNIBsAFBVV95cUxONUZoQVdPa1NBVEtfUUg0a3A0ek90R0taYWxmaGxDS29DNFFNSXdRQ0d5aXIzVkxEQ2lHX05GSDNyUXJiTVdlSEdzOU1mc0k0ci1SWHNBeXotaGdsbWpVNTh2N1I1aFNFa3BfVk1FZFBFbFR5eGJxaXoyZThXb1cxbWtnWjNjX1ZjdnM0RWR1UWRvRXExTHNBU3NVcHA3dE5PaXNsTjQ1RmJmb1dJYlZUMA?oc=5) |
-| 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMikAJBVV95cUxQNXRYUm90QTQ5ek1JQkNJLTcyTTBPWFpYcjZLMHpXdmthdU1NcUtWZXhBU2hWaXJFeWlRbFFzMnUyR3B5NV9JaGhIaEpCb281WjkyUzlxVnpaT09YN1FFYlN0eFZCcVJBOWt3UXppeVRZdTFSdldtVVBnTWZ3NFk1TVNxd3BNd2hucDN1ejlVcXVHWFEwdTBaYWpLY29abFRJcURNMFFxVWp1MzEtT3ZEdy1mZTZFOWcwLWowbXZRalg0QVpwM2w0TjhlSE9aREpuZGhSdlNlcWNLaGhLcGZmRHBiRjczS3YxMk52STBsR2hIUXdjWEhBanJlaXhCQm8xd0FNa09rZ2dsMUNBSXNRQtIBlgJBVV95cUxNOG9WcnAwSWllT0c3TU5vX1c5SHhRNFF2c3ZWNllOSFRvV2taWmNONFJZMldsTVAzUTZHUXJvdi0wcGp3eVVxTU4ta3h0RGhwdXFRcE9Ec0lJa0xDWEptSWlrSFNPeWRHZ3pRYlV0SWZHOEFLRDZMam5WRGFyY0xmZUNqU1FCNm95S2dXb0ZJOUptZ3ZGbUxGd3hYOGdOZnZ4U3ZFbzdmWHd1WGZZb05iTUd5YzBpWWlmQWNsNG9IT0pwbWdjc2h4UEZNUndIaElsXzRydTZ3VUV2ai1WcGprUzVIRXhWc2NaZ0p3cUJyWjV3VGp0WUVWT2RRNWRtcjYwQUlqNkFZckNCME9lRlkzLWZwMGY0UQ?oc=5) |
 | 2026-08-24 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlROdnFoR0Q2ZXkxS21CbHZCTktXYmRXS25xaFFHLVJSYktBLXRVVk13Tk5xTi12NjhwaXIxcGpacTJoSU9kZVZvMk5pajNscDFGTk9yNTdqSEVxU0dPTkxTcUVBRWg4SW1BQm9WTTdodmlOZk1zTDlLdDNVRWxaVHdPdldoM21sZHp0d3lDNnExbmxmamt2bnh1M3llQXN2RVlHOXVxYWR6MXV3T2VqVTQwdEVRSGs?oc=5) |
 | 2026-08-22 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzdQNU5NQnZJRU5JeS1DWFdVcDFqVVp4VlhMTXNxaUVadTJ2WXJPWWJmdXJBYW0xZkY4VnBQaUpWWnlHdVBJTkI3S21sUXE4NkQ1dVUybVUwb3E3ZjhPR3c5TXZrQVcyTWpjX0w0elE0SnJ4SlQ2cFRFQkJWRElFSk1PUXhhM21GYkZ2RlJwRGFFSllZQXJZ?oc=5) |
 | 2026-08-20 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhLOS1OTWxZdzBsWFYxXzBybFo0dU1LdTVLLTgzWEtlNDlMRm1uRjQ0R3lSOWpna0dkanhMR0dGV0RVOUVzRFZWbFZJejNMWEQ5NXRKaFc5MTVrN3ZIdnpmQ1p5UUVrV3lOMUI0X0ktTjQ0MEM1bTFzaXg3d1dBT1NXY2FmZkRnRW03ZUo4VEx3cFU3SVVFdVQzZUtVSWpWZlFYM0diQi1Wb1lJVGZn?oc=5) |
