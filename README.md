@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-25 21:14 UTC
+Last Updated: 2026-08-25 22:12 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -56,9 +56,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | Quest VR Headset Becomes Unlocked Hardware | Hackaday | [link](https://hackaday.com/2026/08/25/quest-vr-headset-becomes-unlocked-hardware/) |
 | 2026-08-25 | The Days Of Broadcast Digital TV Could Be Numbered | Hackaday | [link](https://hackaday.com/2026/08/25/the-days-of-broadcast-digital-tv-could-be-numbered/) |
 | 2026-08-25 | Straight Talk on 3D Printing Footwear At Home | Hackaday | [link](https://hackaday.com/2026/08/24/straight-talk-on-3d-printing-footwear-at-home/) |
+| 2026-08-25 | Lantronix Open-M 720G/520G – Ultra-compact LGA system-on-module based on MediaTek Genio 720 and Genio 520 SoCs | CNX Software | [link](https://www.cnx-software.com/2026/08/26/lantronix-open-m-720g-520g-ultra-compact-lga-system-on-module-based-on-mediatek-genio-720-and-genio-520-socs/) |
 | 2026-08-25 | $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU | CNX Software | [link](https://www.cnx-software.com/2026/08/25/299-arduino-ventuno-q-sbc-combines-qualcomm-dragonwing-iq8-soc-and-stm32h5-mcu/) |
 | 2026-08-25 | Firehat is an open-source FireWire DV capture HAT for SBCs with Raspberry Pi PCIe FFC connector (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/25/firehat-open-source-firewire-dv-capture-hat-pcie-sbc-raspberry-pi-5-radxa-rock-2f/) |
-| 2026-08-25 | Advantech AOM-6741 AI Vision SMARC module features 100 TOPS Qualcomm IQ-9075 SoC, up to 36 GB LPDDR5 | CNX Software | [link](https://www.cnx-software.com/2026/08/25/advantech-aom-6741-qualcomm-iq-9075-smarc-module/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,8 +77,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-08-25 | blair129/robot_learning_tutorial_act | 0 | 0 | [link](https://huggingface.co/blair129/robot_learning_tutorial_act) |
+| 2026-08-25 | milab-robot/alm1-0731-milab.NESW | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.NESW) |
 | 2026-08-25 | logits/sana_rwm_policy_from_pretrained_robotwin_epoch1_step21500 | 0 | 0 | [link](https://huggingface.co/logits/sana_rwm_policy_from_pretrained_robotwin_epoch1_step21500) |
+| 2026-08-25 | blair129/robot_learning_tutorial_act | 0 | 0 | [link](https://huggingface.co/blair129/robot_learning_tutorial_act) |
 | 2026-08-25 | robotcpp/starvla-qwen25-fast-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen25-fast-bridge-bf16) |
 | 2026-08-25 | robotcpp/starvla-qwen25-pi-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen25-pi-bridge-bf16) |
 | 2026-08-25 | robotcpp/starvla-qwen25-groot-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen25-groot-bridge-bf16) |
@@ -86,7 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | robotcpp/starvla-qwen3-pi-v3-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen3-pi-v3-bridge-bf16) |
 | 2026-08-25 | robotcpp/starvla-qwen3-groot-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen3-groot-bridge-bf16) |
 | 2026-08-25 | robotcpp/starvla-qwen3-oft-bridge-bf16 | 0 | 0 | [link](https://huggingface.co/robotcpp/starvla-qwen3-oft-bridge-bf16) |
-| 2026-08-25 | hvsr-robotics/wojtek-quiet-locomotion | 0 | 1 | [link](https://huggingface.co/hvsr-robotics/wojtek-quiet-locomotion) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -96,11 +96,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | mosaico-labs/mosaico | 951 | Python | 380.5 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 471 | Shell | 188.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | wadeKeith/Awesome-Embodied-AI | 239 | Python | 95.7 | [link](https://github.com/wadeKeith/Awesome-Embodied-AI) |
-| Developer-Y/cs-video-courses | 83175 |  | 33270.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83174 |  | 33269.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63496 | Python | 25398.5 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15741 | C++ | 6296.5 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14666 | C++ | 5866.5 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13890 | Python | 5556.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13891 | Python | 5556.5 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
