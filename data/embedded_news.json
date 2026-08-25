@@ -56,11 +56,25 @@
     "summary": "<div><img alt=\"Advantech AOM-6741\" class=\"attachment-medium size-medium wp-post-image\" height=\"432\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Advantech-AOM-6741-720x432.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Advantech AOM-6741 is a SMARC 2.2 Full Size module powered by a Qualcomm Dragonwing IQ-9075 octa-core SoC with up to 100 TOPS (INT8) of AI performance, up to 36 GB LPDDR5 memory, and 128GB UFS storage. The module also features two MIPI DSI connectors, at least one MIPI CSI connector, and exposes all I/Os through a standard 314-pin MXM 3.0 edge connector, including four DisplayPort interfaces, dual 2.5GbE, two USB 3.2 Gen2, PCIe Gen3 x2 and x4 interfaces, and more. With support for up to 16 concurrent cameras, the OAM-06741 SoM mainly targets industrial-grade vision intelligence applications. Advantech AOM-6741 specifications: SoC – Qualcomm DragonWing IQ-9075 CPU Octa-core Kryo Gen 6 (Cortex-A78C-based) application cores @ up to 3.2 GHz (according to Advantech, conflicts with earlier announcements mentioning up to 2.36 GHz) Quad-core Cortex-R52 real-time cores @ up to 1.85GHz GPU – Adreno 663 GPU delivering up to 1.2 TFLOPS FP32 with secure [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/25/advantech-aom-6741-qualcomm-iq-9075-smarc-module/\">Advantech AOM-6741 AI Vision SMARC module features 100 TOPS Qualcomm IQ-9075 SoC, up to 36 GB LPDDR5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Why Sensor Fusion Matters for Drone Navigation and Detection",
+    "source": "Embedded.com",
+    "date": "2026-08-25",
+    "url": "https://www.embedded.com/why-sensor-fusion-matters-for-drone-navigation-and-detection/",
+    "summary": "<p>A variety of sensors are used on drones for spatial awareness, terrain and target mapping, obstacle navigation, and optimizing flight paths to the target. Anti-drone defense systems similarly rely on many sensors for detection, flight-path tracking, and drone classification. Each sensor has its strengths and weaknesses. Sensor fusion involves merging the multiple sensor data input [...]</p>\n<p>The post <a href=\"https://www.embedded.com/why-sensor-fusion-matters-for-drone-navigation-and-detection/\">Why Sensor Fusion Matters for Drone Navigation and Detection</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
     "title": "Viavi Vertex 6.0 Targets 6G and Wi-Fi 7/8 RF Testing",
     "source": "Embedded.com",
     "date": "2026-08-25",
     "url": "https://www.embedded.com/viavi-vertex-6-0-targets-6g-and-wi-fi-7-8-rf-testing/",
     "summary": "<p>Viavi Solutions has introduced Vertex 6.0, an enhanced version of its channel emulation platform designed to reproduce real-world RF propagation conditions in laboratory environments. The new platform targets next-generation cellular, Wi-Fi, military, and aerospace technologies and is well-positioned to test emerging 6G and Wi-Fi 7/8 systems. Vertex 6.0 provides 400 MHz of instantaneous bandwidth and [...]</p>\n<p>The post <a href=\"https://www.embedded.com/viavi-vertex-6-0-targets-6g-and-wi-fi-7-8-rf-testing/\">Viavi Vertex 6.0 Targets 6G and Wi-Fi 7/8 RF Testing</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "NanoAvionics introduces flagship MP42H microsatellite bus",
+    "source": "Electronics Weekly",
+    "date": "2026-08-25",
+    "url": "https://www.electronicsweekly.com/news/business/nanoavionics-introduces-flagship-mp42h-microsatellite-bus-2026-08/",
+    "summary": "<p>Kongsberg NanoAvionics, a European manufacturer of small satellites, is introducing its Gen-2 MP42 family of modular, microsatellite buses. Designed for optical or SAR imaging missions, the family consists of the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nanoavionics-introduces-flagship-mp42h-microsatellite-bus-2026-08/\">NanoAvionics introduces flagship MP42H microsatellite bus</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "nRF93M1-LABA smart modem for Cat 1 bis IoT devices",
@@ -126,11 +140,25 @@
     "summary": "<p>Humanoid robots in China are beginning to be deployed across a wider range of applications—automotive, 3C electronics, aerospace, logistics, and energy—putting their commercial viability to the test, says TrendForce . [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/can-chinas-humanoid-robots-be-useful-2026-08/\">Can China’s Humanoid Robots be useful?</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Anglia signs OptoMedia",
-    "source": "Electronics Weekly",
+    "title": "Espressif posts a Linux BSP for the ESP32-S31",
+    "source": "Adafruit",
     "date": "2026-08-25",
-    "url": "https://www.electronicsweekly.com/news/business/anglia-signs-optomedia-2026-08/",
-    "summary": "<p>Anglia Components has signed afranchise agreement with Taiwanese manufacturer OptoMedia to distribute its range of fibre optic transceivers for industrial defence and video applications. “OptoMedia has the products and technologies [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/anglia-signs-optomedia-2026-08/\">Anglia signs OptoMedia</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/08/25/espressif-posts-a-linux-bsp-for-the-esp32-s31/",
+    "summary": "The ESP32-S31 is getting Linux support from Espressif. The dual-core RISC-V part was unveiled in March, two development boards followed in May, and mass production was announced a few weeks ago. The chip includes an MMU, which makes Linux far more tractable, and the boards carry 16MB PSRAM — enough for a minimal Linux image. [&#8230;]"
+  },
+  {
+    "title": "The new Pibow frame for the 10.1″ Raspberry Pi Touch Display 2",
+    "source": "Adafruit",
+    "date": "2026-08-25",
+    "url": "https://blog.adafruit.com/2026/08/25/the-new-pibow-frame-for-the-10-1-raspberry-pi-touch-display-2/",
+    "summary": "Pimoroni has released their new Pibow frame for the 10.1&#8243; Raspberry Pi Touch Display 2.  Use it in portrait or landscape, standing upright or reclining. It attaches directly to the display using the stock fixings. No need for extra hardware. 3 layers provide support and protection to the back of the screen 2 legs let [&#8230;]"
+  },
+  {
+    "title": "Everything I own, owned",
+    "source": "Adafruit",
+    "date": "2026-08-25",
+    "url": "https://blog.adafruit.com/2026/08/25/everything-i-own-owned/",
+    "summary": "Chaz Schlarp has been doing agent-driven reverse engineering of peripherals that happen to be within arm’s reach. What Chaz has determined is rather unexpected. I’ve come away with a full plaintext command shell inside my microphone, a webcam whose activity LED I can switch off while it records, and a key light that hands out [&#8230;]"
   },
   {
     "title": "Fixing an eMachines EL1200 BIOS bug with Claude",
@@ -287,25 +315,11 @@
     "summary": "Manfred Mornhinweg bought a Chinese J306β Geiger-Müller counter tube, the glass version, which is rated to give 88 counts per minute at average background radiation, or 8 counts per second at a radiation intensity of 1µSv/h. This tube is nearly 20cm long, and about 18mm in diameter. I took quite some time to decide whether [&#8230;]"
   },
   {
-    "title": "sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector",
-    "source": "Adafruit",
+    "title": "Anomalous Charging Current (ACC) in Polymer Tantalum Capacitors — KYOCERA and Mouser Electronics",
+    "source": "EE Journal",
     "date": "2026-08-24",
-    "url": "https://blog.adafruit.com/2026/08/24/sectorforth-is-a-16-bit-x86-forth-that-fits-in-a-512-byte-boot-sector/",
-    "summary": "sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector. Inspiration to write sectorforth came from a 1996 Usenet thread (in particular, Bernd Paysan&#8217;s first post on the thread). sectorforth contains only the eight primitives outlined in the Usenet post above, five variables for manipulating internal state, and two I/O primitives. With [&#8230;]"
-  },
-  {
-    "title": "RideLinkBLE: Arduino ESP32 BLE library for e-bike controllers",
-    "source": "Adafruit",
-    "date": "2026-08-24",
-    "url": "https://blog.adafruit.com/2026/08/24/ridelinkble-arduino-esp32-ble-library-for-e-bike-controllers/",
-    "summary": "RideLinkBLE is an Arduino ESP32 BLE library for controlling and reading telemetry from compatible e-bike controllers by ToasterForSale. RideLinkBLE requires an ESP32-family board with Bluetooth Low Energy support. Classic AVR-based Arduino Uno, Nano, and Mega boards cannot run this library without separate BLE hardware and a different BLE implementation. Install the Espressif ESP32 board package, [&#8230;]"
-  },
-  {
-    "title": "How to Mentally Calculate the Day of the Week for Any Date",
-    "source": "Adafruit",
-    "date": "2026-08-24",
-    "url": "https://blog.adafruit.com/2026/08/24/how-to-mentally-calculate-the-day-of-the-week-for-any-date/",
-    "summary": "&#160; Tinker &#38; See share tools to master the impressive party trick of naming the day of the week for any date. There is some math and memorization but A LOT less than you would guess. The &#8220;secrets&#8221; come down to the days of the week being a circle of 7 and a squad of [&#8230;]"
+    "url": "https://www.eejournal.com/chalk_talks/anomalous-charging-current-acc-in-polymer-tantalum-capacitors-kyocera-and-mouser-electronics/",
+    "summary": "&#160; In this episode of Chalk Talk, Hannah Hairston from KYOCERA AVX and Amelia Dalton explore the what, where and how of anomalous charging current. They also investigate the potential effects of ACC in switching power supplies and satellite power conversion, and KYOCERA AVX capacitor solutions that have made ACC concerns a thing of the &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/chalk_talks/anomalous-charging-current-acc-in-polymer-tantalum-capacitors-kyocera-and-mouser-electronics/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Anomalous Charging Current (ACC) in Polymer Tantalum Capacitors &#8212; KYOCERA and Mouser Electronics\"</span></a>"
   },
   {
     "title": "eCAV: Electric Commercial Agricultural Vehicles — onsemi and Mouser Electronics",
@@ -327,13 +341,6 @@
     "date": "2026-08-24",
     "url": "https://www.eejournal.com/industry_news/new-xteink-x3-ereader-launch-offers-a-distraction-free-solution-for-all-book-lovers/",
     "summary": "Millions of people love to read. Being able to pick up a book and fall into a story of unrequited love or fantasy realms is a wonderful break from the hustle and bustle of daily living. The trouble is, not everyone can fit a library of books in their backpack. That is, until products like &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/new-xteink-x3-ereader-launch-offers-a-distraction-free-solution-for-all-book-lovers/\">Read More &#8594;<span class=\"screen-reader-text\"> \"New Xteink X3 eReader Launch Offers a Distraction-Free Solution for All Book Lovers\"</span></a>"
-  },
-  {
-    "title": "Epson to Showcase Quartz MEMS IMU Technology at Small Satellite Conference 2026",
-    "source": "EE Journal",
-    "date": "2026-08-24",
-    "url": "https://www.eejournal.com/industry_news/epson-to-showcase-quartz-mems-imu-technology-at-small-satellite-conference-2026/",
-    "summary": "Epson will showcase its high-performance Quartz MEMS inertial measurement unit (IMU) technology for next-generation small spacecraft at the Small Satellite Conference (SmallSat) 2026, taking place August 23–26 in Salt Lake City, Utah. Visitors can meet Epson’s inertial sensing specialists at Booth #2005. As small satellites take on increasingly demanding missions, accurate and dependable inertial sensing &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/epson-to-showcase-quartz-mems-imu-technology-at-small-satellite-conference-2026/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Epson to Showcase Quartz MEMS IMU Technology at Small Satellite Conference 2026\"</span></a>"
   },
   {
     "title": "Rockchip RV1126B-based Forlinx FCU3101 fanless edge AI system targets IIoT and smart security applications",
@@ -418,12 +425,5 @@
     "date": "2026-08-18",
     "url": "https://www.embedded.com/brainchip-orama-aoi-target-ai-based-industrial-defect-detection/",
     "summary": "<p>BrainChip Inc. has partnered with Atlanta-based Orama.AOI to develop AI-based automated optical inspection solutions using BrainChip's Akida neuromorphic AI platform. Orama.AOI has retrained and optimized Akida models using its industrial inspection datasets, demonstrating the platform's application to production-oriented defect detection. Orama.AOI provides AI-powered automated optical inspection technology for industrial applications with current use cases including [...]</p>\n<p>The post <a href=\"https://www.embedded.com/brainchip-orama-aoi-target-ai-based-industrial-defect-detection/\">BrainChip, Orama.AOI Target AI-Based Industrial Defect Detection</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "SensiBel and Aizip Combine Optical MEMS and Edge AI Beamforming",
-    "source": "Embedded.com",
-    "date": "2026-08-17",
-    "url": "https://www.embedded.com/sensibel-and-aizip-combine-optical-mems-and-edge-ai-beamforming/",
-    "summary": "<p>SensiBel and Aizip are collaborating on a speech-processing solution that combines sensiBel's optical MEMS microphone technology with Aizip's edge AI beamforming algorithms. The companies aim to improve speech clarity and recognition in demanding acoustic environments, including smart glasses, true wireless stereo (TWS) earbuds, and industrial speech applications. Aizip's beamforming solution combines AI-based noise reduction, dereverberation [...]</p>\n<p>The post <a href=\"https://www.embedded.com/sensibel-and-aizip-combine-optical-mems-and-edge-ai-beamforming/\">SensiBel and Aizip Combine Optical MEMS and Edge AI Beamforming</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]

@@ -1,13 +1,15 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-25 14:32 UTC
+Last Updated: 2026-08-25 15:30 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-25 | Jalapeño’s first results show industry-leading speed and efficiency in AI inference | OpenAI | [link](https://openai.com/index/jalapeno-first-results) |
 | 2026-08-25 | Disrupting a new covert influence campaign from Russia | OpenAI | [link](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia) |
+| 2026-08-25 | Granite 4.2 LLMs: How They're Built | Hugging Face | [link](https://huggingface.co/blog/ibm-granite/granite-4-2) |
 | 2026-08-25 | Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original | Hugging Face | [link](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing) |
 | 2026-08-25 | Wire It, Run It, Deploy It: AI Workflows in Gradio | Hugging Face | [link](https://huggingface.co/blog/gradio-workflow-guide) |
 | 2026-08-24 | Advancing price-performance for developers with GPT‑5.6 in Kiro | OpenAI | [link](https://openai.com/index/gpt-5-6-in-kiro) |
@@ -15,8 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-21 | Measuring benchmark optimization in speech recognition | Hugging Face | [link](https://huggingface.co/blog/asr-benchmark-optimization) |
 | 2026-08-20 | Introducing AI Futures | OpenAI | [link](https://openai.com/index/introducing-ai-futures) |
 | 2026-08-20 | Stampli cuts launch hours by 68% using ChatGPT Work | OpenAI | [link](https://openai.com/index/stampli) |
-| 2026-08-20 | Up to 3.2x Faster Inference with LFM2.5-DSpark | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/lfm25-dspark) |
-| 2026-08-19 | Offering Zero Data Retention for frontier models | OpenAI | [link](https://openai.com/index/offering-zero-data-retention-for-frontier-models) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -36,6 +36,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-08-25 | AI Companion Robots Are Closing the Human Connection in Modern Homes | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/ollobot-ai-companion-robot) |
+| 2026-08-25 | Humans in the loop are still needed for robotaxi fleet safety, says Guident | Robotics Business Review | [link](https://www.therobotreport.com/humans-loop-are-still-needed-robotaxi-fleet-safety-says-guident/) |
+| 2026-08-25 | Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA | Robotics Business Review | [link](https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/) |
 | 2026-08-24 | XPeng Motors humanoid robot unit Dogotix raises $900M | Robotics Business Review | [link](https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m/) |
 | 2026-08-24 | The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn | Robotics Business Review | [link](https://www.therobotreport.com/the-next-big-ai-play-isnt-apps-or-humanoids-its-machines-with-brains-and-brawn/) |
 | 2026-08-23 | Use a digital twin to explore automation before committing capital | Robotics Business Review | [link](https://www.therobotreport.com/use-digital-twin-explore-automation-before-committing-capital/) |
@@ -43,8 +45,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-22 | The technology that could bring robot mowers to one in two American lawns | Robotics Business Review | [link](https://www.therobotreport.com/technology-could-bring-robot-mowers-one-half-american-lawns/) |
 | 2026-08-22 | Robots don’t run themselves: The workforce powering physical AI | Robotics Business Review | [link](https://www.therobotreport.com/robots-dont-run-themselves-workforce-powering-physical-ai/) |
 | 2026-08-21 | Schaeffler plans to mass produce gearboxes for humanoid robots in 2027 | Robotics Business Review | [link](https://www.therobotreport.com/schaeffler-plans-to-mass-manufacture-gearboxes-for-humanoids-in-2027/) |
-| 2026-08-21 | Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch | Robotics Business Review | [link](https://www.therobotreport.com/amazons-bhavana-chandrashekhar-speaks-robobusiness-women-in-robotics-lunch/) |
-| 2026-08-21 | Video Friday: Do We Need Superhuman Humanoid Robots? | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-unitree-superhuman) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
@@ -57,8 +57,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU | CNX Software | [link](https://www.cnx-software.com/2026/08/25/299-arduino-ventuno-q-sbc-combines-qualcomm-dragonwing-iq8-soc-and-stm32h5-mcu/) |
 | 2026-08-25 | Firehat is an open-source FireWire DV capture HAT for SBCs with Raspberry Pi PCIe FFC connector (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/25/firehat-open-source-firewire-dv-capture-hat-pcie-sbc-raspberry-pi-5-radxa-rock-2f/) |
 | 2026-08-25 | Advantech AOM-6741 AI Vision SMARC module features 100 TOPS Qualcomm IQ-9075 SoC, up to 36 GB LPDDR5 | CNX Software | [link](https://www.cnx-software.com/2026/08/25/advantech-aom-6741-qualcomm-iq-9075-smarc-module/) |
+| 2026-08-25 | Why Sensor Fusion Matters for Drone Navigation and Detection | Embedded.com | [link](https://www.embedded.com/why-sensor-fusion-matters-for-drone-navigation-and-detection/) |
 | 2026-08-25 | Viavi Vertex 6.0 Targets 6G and Wi-Fi 7/8 RF Testing | Embedded.com | [link](https://www.embedded.com/viavi-vertex-6-0-targets-6g-and-wi-fi-7-8-rf-testing/) |
-| 2026-08-25 | nRF93M1-LABA smart modem for Cat 1 bis IoT devices | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/nrf93m1-laba-smart-modem-for-cat-1-bis-iot-devices-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -91,15 +91,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3096 | Python | 1238.5 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1464 | Rust | 585.7 | [link](https://github.com/copper-project/copper-rs) |
+| NVIDIA/skills | 3098 | Python | 1239.3 | [link](https://github.com/NVIDIA/skills) |
+| copper-project/copper-rs | 1465 | Rust | 586.1 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 949 | Python | 379.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 471 | Shell | 188.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| autonomous-ai/autonomous-os | 204 | Python | 81.7 | [link](https://github.com/autonomous-ai/autonomous-os) |
+| autonomous-ai/autonomous-os | 205 | Python | 82.1 | [link](https://github.com/autonomous-ai/autonomous-os) |
 | commaai/openpilot | 63492 | Python | 25396.9 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15740 | C++ | 6296.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14663 | C++ | 5865.3 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11349 | Rust | 4539.7 | [link](https://github.com/rerun-io/rerun) |
+| ArduPilot/ardupilot | 15741 | C++ | 6296.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14664 | C++ | 5865.7 | [link](https://github.com/google-deepmind/mujoco) |
+| rerun-io/rerun | 11350 | Rust | 4540.1 | [link](https://github.com/rerun-io/rerun) |
 | kornia/kornia | 11324 | Python | 4529.7 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
