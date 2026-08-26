@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-26 08:26 UTC
+Generated: 2026-08-26 09:27 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,19 +15,19 @@ Generated: 2026-08-26 08:26 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83175 | 33270.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63500 | 25400.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63501 | 25400.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44435 | 17774.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30377 | 12150.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30378 | 12151.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16162 | 6464.9 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365 | 1083 | 327.0 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365) |
-| physicalairi/so101_1200ep_smolvla | 95 | 28.6 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
-| LCPRZZL/act_policy | 86 | 25.9 | [link](https://huggingface.co/LCPRZZL/act_policy) |
-| jagwang/mungkeul-physical-ai | 84 | 25.3 | [link](https://huggingface.co/jagwang/mungkeul-physical-ai) |
-| UnderTides/Embodied-Navigator-7B-GRPO | 60 | 18.3 | [link](https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO) |
+| XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365 | 1169 | 352.8 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365) |
+| physicalairi/so101_1200ep_smolvla | 113 | 34.0 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
+| robotcpp/starvla-qwen25-fast-bridge-bf16 | 111 | 33.4 | [link](https://huggingface.co/robotcpp/starvla-qwen25-fast-bridge-bf16) |
+| robotcpp/starvla-qwen25-pi-bridge-bf16 | 111 | 33.4 | [link](https://huggingface.co/robotcpp/starvla-qwen25-pi-bridge-bf16) |
+| LCPRZZL/act_policy | 93 | 28.0 | [link](https://huggingface.co/LCPRZZL/act_policy) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

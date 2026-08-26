@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-26 08:26 UTC
+Last Updated: 2026-08-26 09:27 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -52,13 +52,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-26 | New Controller Makes Heavy Machinery Intuitive | Hackaday | [link](https://hackaday.com/2026/08/26/new-controller-makes-heavy-machinery-intuitive/) |
 | 2026-08-26 | Blow Those Pyros With A Telephone! | Hackaday | [link](https://hackaday.com/2026/08/25/blow-those-pyros-with-a-telephone/) |
 | 2026-08-26 | Cheap AI Token Resellers: The Secret Ingredient is Fraud | Hackaday | [link](https://hackaday.com/2026/08/25/cheap-ai-token-resellers-the-secret-ingredient-is-fraud/) |
-| 2026-08-26 | SpaceX to build $100bn Starship launch site in Louisiana | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/spacex-to-build-starship-launch-site-in-louisiana-2026-08/) |
-| 2026-08-26 | BYD is BEV global leader with Tesla No.2 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/byd-is-global-leader-in-bevs-with-tesla-no-2-2026-08/) |
-| 2026-08-26 | Si-Five’s Big Sky | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/si-fives-big-sky-2026-08/) |
-| 2026-08-26 | Melexis signs Master Purchase Agreement With BYD | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/melexis-signs-master-purchase-agreement-with-byd-2026-08/) |
-| 2026-08-26 | Quantum adoption tie-up for FormationQ and Hartree Centre | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/quantum-adoption-tie-up-for-formationq-and-hartree-centre-2026-08/) |
-| 2026-08-26 | Top Ten Semiconductor Companies in Q2 | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-semiconductor-companies-in-q2-2026-08/) |
 | 2026-08-25 | Reject Fluid Simulations, Return To Rheoscopic Fluid | Hackaday | [link](https://hackaday.com/2026/08/25/reject-fluid-simulations-return-to-rheoscopic-fluid/) |
+| 2026-08-25 | Native SMB3 Client Brings Modern NAS Access To 20-Year-Old PowerPC Macs | Hackaday | [link](https://hackaday.com/2026/08/25/native-smb3-client-brings-modern-nas-access-to-20-year-old-powerpc-macs/) |
+| 2026-08-25 | AI Book Scanning: Just What Is A Rare Book? | Hackaday | [link](https://hackaday.com/2026/08/25/ai-book-scanning-just-what-is-a-rare-book/) |
+| 2026-08-25 | Artificial Intelligence as It Once Was | Hackaday | [link](https://hackaday.com/2026/08/25/artificial-intelligence-as-it-once-was/) |
+| 2026-08-25 | Lantronix Open-M 720G/520G – Ultra-compact LGA system-on-modules based on MediaTek Genio 720 and Genio 520 SoCs | CNX Software | [link](https://www.cnx-software.com/2026/08/26/lantronix-open-m-720g-520g-ultra-compact-lga-system-on-module-based-on-mediatek-genio-720-and-genio-520-socs/) |
+| 2026-08-25 | $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU | CNX Software | [link](https://www.cnx-software.com/2026/08/25/299-arduino-ventuno-q-sbc-combines-qualcomm-dragonwing-iq8-soc-and-stm32h5-mcu/) |
+| 2026-08-25 | Firehat is an open-source FireWire DV capture HAT for SBCs with Raspberry Pi PCIe FFC connector (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/25/firehat-open-source-firewire-dv-capture-hat-pcie-sbc-raspberry-pi-5-radxa-rock-2f/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,16 +77,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-08-26 | kyledavis/robotics-vision-language-v3 | 0 | 0 | [link](https://huggingface.co/kyledavis/robotics-vision-language-v3) |
 | 2026-08-26 | milab-robot/alm1-0731-milab.NESW | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.NESW) |
+| 2026-08-26 | meyernadine/project-robotics-vision-language73 | 0 | 0 | [link](https://huggingface.co/meyernadine/project-robotics-vision-language73) |
+| 2026-08-26 | RobotisSW/Middle_Table_recycling_General_Plastic_60k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Middle_Table_recycling_General_Plastic_60k) |
+| 2026-08-26 | kyledavis/robotics-vision-language-v3 | 0 | 0 | [link](https://huggingface.co/kyledavis/robotics-vision-language-v3) |
 | 2026-08-26 | Adityadas5350/review-robotics-vision-language33 | 0 | 0 | [link](https://huggingface.co/Adityadas5350/review-robotics-vision-language33) |
 | 2026-08-26 | RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_groot | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_groot) |
 | 2026-08-26 | openEuler/IB_Robot_ACT_banana_pick_distill | 28 | 0 | [link](https://huggingface.co/openEuler/IB_Robot_ACT_banana_pick_distill) |
-| 2026-08-26 | sun-robot/pi05_amazinghand_color_sort_v2 | 0 | 0 | [link](https://huggingface.co/sun-robot/pi05_amazinghand_color_sort_v2) |
+| 2026-08-26 | sun-robot/pi05_amazinghand_color_sort_v2 | 9 | 0 | [link](https://huggingface.co/sun-robot/pi05_amazinghand_color_sort_v2) |
 | 2026-08-26 | sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0) |
 | 2026-08-26 | sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0) |
-| 2026-08-26 | LejuRobotics/LET-KUAVO-VLA-1.0-models | 0 | 0 | [link](https://huggingface.co/LejuRobotics/LET-KUAVO-VLA-1.0-models) |
-| 2026-08-26 | sam-guided-vlas/train_1_2_pile__bbox__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__bbox__blur__sim__all_cameras__live__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,13 +94,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Edgenesis/shifu | 1432 | Go | 572.9 | [link](https://github.com/Edgenesis/shifu) |
 | mosaico-labs/mosaico | 951 | Python | 380.5 | [link](https://github.com/mosaico-labs/mosaico) |
 | autonomous-ai/autonomous-os | 212 | Python | 84.9 | [link](https://github.com/autonomous-ai/autonomous-os) |
-| commaai/openpilot | 63500 | Python | 25400.1 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15745 | C++ | 6298.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 63501 | Python | 25400.5 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15747 | C++ | 6298.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14676 | C++ | 5870.5 | [link](https://github.com/google-deepmind/mujoco) |
 | earthtojake/text-to-cad | 13906 | Python | 5562.5 | [link](https://github.com/earthtojake/text-to-cad) |
-| kornia/kornia | 11325 | Python | 4530.1 | [link](https://github.com/kornia/kornia) |
-| RLinf/RLinf | 4644 | Python | 1857.7 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3899 | Rust | 1559.7 | [link](https://github.com/dora-rs/dora) |
+| rerun-io/rerun | 11359 | Rust | 4543.7 | [link](https://github.com/rerun-io/rerun) |
+| kornia/kornia | 11326 | Python | 4530.5 | [link](https://github.com/kornia/kornia) |
+| RLinf/RLinf | 4647 | Python | 1858.9 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
