@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-26 07:35 UTC
+Last Updated: 2026-08-26 08:26 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-26 | New Controller Makes Heavy Machinery Intuitive | Hackaday | [link](https://hackaday.com/2026/08/26/new-controller-makes-heavy-machinery-intuitive/) |
 | 2026-08-26 | Blow Those Pyros With A Telephone! | Hackaday | [link](https://hackaday.com/2026/08/25/blow-those-pyros-with-a-telephone/) |
 | 2026-08-26 | Cheap AI Token Resellers: The Secret Ingredient is Fraud | Hackaday | [link](https://hackaday.com/2026/08/25/cheap-ai-token-resellers-the-secret-ingredient-is-fraud/) |
 | 2026-08-26 | SpaceX to build $100bn Starship launch site in Louisiana | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/spacex-to-build-starship-launch-site-in-louisiana-2026-08/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-26 | Quantum adoption tie-up for FormationQ and Hartree Centre | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/quantum-adoption-tie-up-for-formationq-and-hartree-centre-2026-08/) |
 | 2026-08-26 | Top Ten Semiconductor Companies in Q2 | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-semiconductor-companies-in-q2-2026-08/) |
 | 2026-08-25 | Reject Fluid Simulations, Return To Rheoscopic Fluid | Hackaday | [link](https://hackaday.com/2026/08/25/reject-fluid-simulations-return-to-rheoscopic-fluid/) |
-| 2026-08-25 | Native SMB3 Client Brings Modern NAS Access To 20-Year-Old PowerPC Macs | Hackaday | [link](https://hackaday.com/2026/08/25/native-smb3-client-brings-modern-nas-access-to-20-year-old-powerpc-macs/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-08-26 | RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_groot | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_groot) |
+| 2026-08-26 | kyledavis/robotics-vision-language-v3 | 0 | 0 | [link](https://huggingface.co/kyledavis/robotics-vision-language-v3) |
 | 2026-08-26 | milab-robot/alm1-0731-milab.NESW | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.NESW) |
+| 2026-08-26 | Adityadas5350/review-robotics-vision-language33 | 0 | 0 | [link](https://huggingface.co/Adityadas5350/review-robotics-vision-language33) |
+| 2026-08-26 | RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_groot | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_groot) |
 | 2026-08-26 | openEuler/IB_Robot_ACT_banana_pick_distill | 28 | 0 | [link](https://huggingface.co/openEuler/IB_Robot_ACT_banana_pick_distill) |
 | 2026-08-26 | sun-robot/pi05_amazinghand_color_sort_v2 | 0 | 0 | [link](https://huggingface.co/sun-robot/pi05_amazinghand_color_sort_v2) |
 | 2026-08-26 | sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0) |
 | 2026-08-26 | sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0) |
 | 2026-08-26 | LejuRobotics/LET-KUAVO-VLA-1.0-models | 0 | 0 | [link](https://huggingface.co/LejuRobotics/LET-KUAVO-VLA-1.0-models) |
 | 2026-08-26 | sam-guided-vlas/train_1_2_pile__bbox__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__bbox__blur__sim__all_cameras__live__pi05__seed_0) |
-| 2026-08-26 | sam-guided-vlas/train_1_2_pile__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0) |
-| 2026-08-26 | jayp132/beanbag-discrimination-policy-v2 | 0 | 0 | [link](https://huggingface.co/jayp132/beanbag-discrimination-policy-v2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | Edgenesis/shifu | 1432 | Go | 572.9 | [link](https://github.com/Edgenesis/shifu) |
-| autonomous-ai/autonomous-os | 211 | Python | 84.5 | [link](https://github.com/autonomous-ai/autonomous-os) |
-| commaai/openpilot | 63499 | Python | 25399.7 | [link](https://github.com/commaai/openpilot) |
+| mosaico-labs/mosaico | 951 | Python | 380.5 | [link](https://github.com/mosaico-labs/mosaico) |
+| autonomous-ai/autonomous-os | 212 | Python | 84.9 | [link](https://github.com/autonomous-ai/autonomous-os) |
+| commaai/openpilot | 63500 | Python | 25400.1 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15745 | C++ | 6298.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14676 | C++ | 5870.5 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13904 | Python | 5561.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| RLinf/RLinf | 4643 | Python | 1857.3 | [link](https://github.com/RLinf/RLinf) |
+| earthtojake/text-to-cad | 13906 | Python | 5562.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| kornia/kornia | 11325 | Python | 4530.1 | [link](https://github.com/kornia/kornia) |
+| RLinf/RLinf | 4644 | Python | 1857.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3899 | Rust | 1559.7 | [link](https://github.com/dora-rs/dora) |
-| Octoday-Hub/Embodied-AI | 2314 |  | 925.7 | [link](https://github.com/Octoday-Hub/Embodied-AI) |
-| leofan90/Awesome-World-Models | 1985 | Python | 794.1 | [link](https://github.com/leofan90/Awesome-World-Models) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -109,12 +109,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbngwc2NoMVVfZUt3OURhbkxvRmV1WTRVUlZWX3VXcHVnVkpsY0lMSjBRZ3huXzBCZWE0anZyeENERjR2MmhGS3RDVGRmV1dkakM3U2xEdlBEeVVSZE1EQnlLSjYxZlQyRElDNmxCdHNWZWVORk5GSkNCaXg4Q0xvN1FFNUdzanQtNDBr?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGRhNDZiQ3o1VTRUTzJELTV5SkZ6U202dVlhYVFWZUF2UmRrbVdMUGd5Z0dGa0VPRjBUNWFqVmtqWkVGYmhIU0NzbGlGUHlfY0xhOVVhT3pHc2wtMVJsVk1Ha2JzRUxwazFBNlk1cDN6TWR6MW1odTdTN0djQXdWWkZMMEM5bVl1RVpCdkFab2I0VWI2LU1wNE4ySTIzTkVpT0REVzBNaEE1c3g4RUE?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWi0xVVZXSXFwSXhIbUVLVnJTXzFnMmdrRlo0YTR6Z18yYXNCbm5RYkFwam1hWVVQVXB2MlBkb29mY3lfNFk2dGliZnc3bW5DM3ZvZ0xuUlJITHNFS2lhY0hJXzhCY0J2UXJvaGFzTGpvSHUtY2hfUWExdjg1cG01WENab2plQ2VLTnVvVGpOamIyV3owd19mcW9RNDhIaGpCWWJLMnN5MEltSGZpREQyR0FsTzZWc3NVREhPNTY5cG5iVWRuVzEwVDc1MEFnLWln?oc=5) |
-| 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcm9WTVFwbkVJNmlSTEw5cVhyV251TGh6X05PM3dPSklsOXBtSzNUbXE1cmFXT1k0aGQtU1RGSUg0UFpqb1V1OHZuakZxWm8wZkItRmNlalloeGRHM05ONlhONktNcFlveE1iblI5Y25ubjF5REVibzdfT3M4SUVmYkgxcmhCMWFGMjE5MVdycWdwZlJMa1dzZzBpTFNnYWJpTmlDelpicTRHc3pMR3FxcC13b00?oc=5) |
-| 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxONUZoQVdPa1NBVEtfUUg0a3A0ek90R0taYWxmaGxDS29DNFFNSXdRQ0d5aXIzVkxEQ2lHX05GSDNyUXJiTVdlSEdzOU1mc0k0ci1SWHNBeXotaGdsbWpVNTh2N1I1aFNFa3BfVk1FZFBFbFR5eGJxaXoyZThXb1cxbWtnWjNjX1ZjdnM0RWR1UWRvRXExTHNBU3NVcHA3dE5PaXNsTjQ1RmJmb1dJYlZUMNIBsAFBVV95cUxONUZoQVdPa1NBVEtfUUg0a3A0ek90R0taYWxmaGxDS29DNFFNSXdRQ0d5aXIzVkxEQ2lHX05GSDNyUXJiTVdlSEdzOU1mc0k0ci1SWHNBeXotaGdsbWpVNTh2N1I1aFNFa3BfVk1FZFBFbFR5eGJxaXoyZThXb1cxbWtnWjNjX1ZjdnM0RWR1UWRvRXExTHNBU3NVcHA3dE5PaXNsTjQ1RmJmb1dJYlZUMA?oc=5) |
 | 2026-08-24 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlROdnFoR0Q2ZXkxS21CbHZCTktXYmRXS25xaFFHLVJSYktBLXRVVk13Tk5xTi12NjhwaXIxcGpacTJoSU9kZVZvMk5pajNscDFGTk9yNTdqSEVxU0dPTkxTcUVBRWg4SW1BQm9WTTdodmlOZk1zTDlLdDNVRWxaVHdPdldoM21sZHp0d3lDNnExbmxmamt2bnh1M3llQXN2RVlHOXVxYWR6MXV3T2VqVTQwdEVRSGs?oc=5) |
+| 2026-08-24 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9PcW5tZHFHSF9UU0FwNGRLZHAxY2lVOG9CMzRxdnhXMldwcTFBcU5qZk1JdDFmREpYU3BZWWI2dEhRRld4cHpKTUcwbWhOakR2U0dwQ2h6WnlrSzFEdlJvNzVpWTJxU0JPNDhGUmxkUXY0WlNNWHc?oc=5) |
 | 2026-08-22 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzdQNU5NQnZJRU5JeS1DWFdVcDFqVVp4VlhMTXNxaUVadTJ2WXJPWWJmdXJBYW0xZkY4VnBQaUpWWnlHdVBJTkI3S21sUXE4NkQ1dVUybVUwb3E3ZjhPR3c5TXZrQVcyTWpjX0w0elE0SnJ4SlQ2cFRFQkJWRElFSk1PUXhhM21GYkZ2RlJwRGFFSllZQXJZ?oc=5) |
 | 2026-08-20 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhLOS1OTWxZdzBsWFYxXzBybFo0dU1LdTVLLTgzWEtlNDlMRm1uRjQ0R3lSOWpna0dkanhMR0dGV0RVOUVzRFZWbFZJejNMWEQ5NXRKaFc5MTVrN3ZIdnpmQ1p5UUVrV3lOMUI0X0ktTjQ0MEM1bTFzaXg3d1dBT1NXY2FmZkRnRW03ZUo4VEx3cFU3SVVFdVQzZUtVSWpWZlFYM0diQi1Wb1lJVGZn?oc=5) |
 | 2026-08-19 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1hiM1VrQ3VmZkp3TWRpaXpqVW93ZW9qN3NRdFJWcEdOZU9jTnFvb25ZY3BoVkhIMVo3NjZXYkxEbnlHU0stS1lsM042aWhvR0JNR0Z4RDV5c1hJWnprNmhzalRSUEdJSG5xdmtQWV9TcU5DV3ZHeXdoWkVuc01hMFA0d0ZZaW5EeVFFdlJ1OWd2UUlsNkt4RHVrdmxJYjJzelVjTE05eGtxV0RQcmpmdzdtX1NqZw?oc=5) |
+| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDJ3RXRVazJTNjZVUDg5SjZwWk5YdS13Snd5MVlwUnV5MVpsLWxBUjcyZ0dWcXVmQ3hQUFgzZ2RQbk5WUkVTUjV6UnRGZ0JpTU9lTU4zbFVSUG5wQjlDN3JvSDBpNFBYYzhQWkdGS3MyMHJ1bG9ab09GdUE0MDRINWhseDd3emZzWDNNM0JwUHVJTmFZX3N2d3k4M2Z4eU9IaHdrLU1MRllfYk83WkM5UWNLbVMxdVVXVjRGd2UwUQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

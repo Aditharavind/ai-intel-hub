@@ -1,11 +1,11 @@
 [
   {
-    "model": "RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_groot",
+    "model": "kyledavis/robotics-vision-language-v3",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_groot",
+    "url": "https://huggingface.co/kyledavis/robotics-vision-language-v3",
     "date": "2026-08-26",
-    "keyword": "robot",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -13,6 +13,24 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/milab-robot/alm1-0731-milab.NESW",
+    "date": "2026-08-26",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Adityadas5350/review-robotics-vision-language33",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Adityadas5350/review-robotics-vision-language33",
+    "date": "2026-08-26",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_groot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_groot",
     "date": "2026-08-26",
     "keyword": "robot",
     "score": 0.1
@@ -78,6 +96,33 @@
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0",
     "date": "2026-08-26",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch1.5",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch1.5",
+    "date": "2026-08-26",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "KosmoCHE/worldmodel-audit",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/KosmoCHE/worldmodel-audit",
+    "date": "2026-08-26",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "joshuawcv/study-embodied-ai82",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/joshuawcv/study-embodied-ai82",
+    "date": "2026-08-26",
+    "keyword": "embodied",
     "score": 0.1
   },
   {
@@ -166,24 +211,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/robotcpp/starvla-qwen25-oft-bridge-bf16",
-    "date": "2026-08-25",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "robotcpp/starvla-qwen3-pi-v3-bridge-bf16",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/robotcpp/starvla-qwen3-pi-v3-bridge-bf16",
-    "date": "2026-08-25",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "robotcpp/starvla-qwen3-groot-bridge-bf16",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/robotcpp/starvla-qwen3-groot-bridge-bf16",
     "date": "2026-08-25",
     "keyword": "robot",
     "score": 0.1
@@ -618,51 +645,6 @@
     "url": "https://huggingface.co/Alinealmeidagin/paper_022405165_robotics_vision_language",
     "date": "2026-08-22",
     "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "kevinevans/paper_021574478_robotics_vision_language",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kevinevans/paper_021574478_robotics_vision_language",
-    "date": "2026-08-22",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "sunilchopra/paper_021856383_robotics_vision_language",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sunilchopra/paper_021856383_robotics_vision_language",
-    "date": "2026-08-22",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "noahdejong/paper_020747779_embodied_ai",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/noahdejong/paper_020747779_embodied_ai",
-    "date": "2026-08-21",
-    "keyword": "embodied",
-    "score": 0.1
-  },
-  {
-    "model": "novastar111/pusht_cot_chunk_kinf_world_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/novastar111/pusht_cot_chunk_kinf_world_model",
-    "date": "2026-08-20",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "novastar111/pusht_cot_chunk_k5_world_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/novastar111/pusht_cot_chunk_k5_world_model",
-    "date": "2026-08-20",
-    "keyword": "world model",
     "score": 0.1
   },
   {
