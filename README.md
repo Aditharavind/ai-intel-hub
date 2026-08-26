@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-26 12:21 UTC
+Last Updated: 2026-08-26 13:42 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -54,11 +54,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-26 | Blow Those Pyros With A Telephone! | Hackaday | [link](https://hackaday.com/2026/08/25/blow-those-pyros-with-a-telephone/) |
 | 2026-08-26 | Cheap AI Token Resellers: The Secret Ingredient is Fraud | Hackaday | [link](https://hackaday.com/2026/08/25/cheap-ai-token-resellers-the-secret-ingredient-is-fraud/) |
 | 2026-08-26 | Banana Pi BPI-AI2N – A Renesas RZ/V2N-based SoM and carrier board for Vision AI applications | CNX Software | [link](https://www.cnx-software.com/2026/08/26/banana-pi-bpi-ai2n-a-renesas-rz-v2n-based-som-and-carrier-board-for-vision-ai-applications/) |
+| 2026-08-26 | Altera Expands Agilex 9 Direct RF FPGA Ecosystem for Defense | Embedded.com | [link](https://www.embedded.com/altera-expands-agilex-9-direct-rf-fpga-ecosystem-for-defense/) |
+| 2026-08-26 | Well Cooked | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/genius/good-cooking-2026-08/) |
 | 2026-08-26 | F C Lane’s compact connectors target evolving drone market | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/connectors/f-c-lanes-compact-connectors-target-evolving-drone-market-2026-08/) |
 | 2026-08-26 | Nvidia unleashes robotics computer set for entry-level edge AI | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/bus-systems-sbcs/nvidia-unleashes-robotics-computer-set-for-entry-level-edge-ai-2026-08/) |
 | 2026-08-26 | Redwire launches Seeker navigation sensors and space cameras | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/sensors-products/redwire-launches-seeker-navigation-sensors-and-space-cameras-2026-08/) |
-| 2026-08-26 | SpaceX to build $100bn Starship launch site in Louisiana | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/spacex-to-build-starship-launch-site-in-louisiana-2026-08/) |
-| 2026-08-26 | BYD is BEV global leader with Tesla No.2 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/byd-is-global-leader-in-bevs-with-tesla-no-2-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,28 +77,28 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | bhatr-eyansh/robotics-vision-language-lab | 0 | 0 | [link](https://huggingface.co/bhatr-eyansh/robotics-vision-language-lab) |
+| 2026-08-26 | weepiess2383/arc-v3podc-fullft-robotonly | 0 | 0 | [link](https://huggingface.co/weepiess2383/arc-v3podc-fullft-robotonly) |
+| 2026-08-26 | robotastronaut/courses-six-digit-modernbert-base-onnx | 11 | 0 | [link](https://huggingface.co/robotastronaut/courses-six-digit-modernbert-base-onnx) |
+| 2026-08-26 | robotastronaut/courses-four-digit-modernbert-base-onnx | 9 | 0 | [link](https://huggingface.co/robotastronaut/courses-four-digit-modernbert-base-onnx) |
+| 2026-08-26 | robotastronaut/courses-two-digit-modernbert-base-onnx | 10 | 0 | [link](https://huggingface.co/robotastronaut/courses-two-digit-modernbert-base-onnx) |
+| 2026-08-26 | jankowskipawel/robotics-vision-language-study | 0 | 0 | [link](https://huggingface.co/jankowskipawel/robotics-vision-language-study) |
 | 2026-08-26 | fionakcej/notes-robotics-vision-language | 0 | 0 | [link](https://huggingface.co/fionakcej/notes-robotics-vision-language) |
 | 2026-08-26 | jungwook2358/gr1-segpix-robotmask-promptv2-vla256-ckpt60000 | 0 | 0 | [link](https://huggingface.co/jungwook2358/gr1-segpix-robotmask-promptv2-vla256-ckpt60000) |
 | 2026-08-26 | Cclarkejames5/robotics-vision-language-study-2024 | 0 | 0 | [link](https://huggingface.co/Cclarkejames5/robotics-vision-language-study-2024) |
 | 2026-08-26 | rahulsharmaiah/robotics-vision-language-colab | 0 | 0 | [link](https://huggingface.co/rahulsharmaiah/robotics-vision-language-colab) |
-| 2026-08-26 | milab-robot/alm1-0731-milab.NESW | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.NESW) |
-| 2026-08-26 | meyernadine/project-robotics-vision-language73 | 0 | 0 | [link](https://huggingface.co/meyernadine/project-robotics-vision-language73) |
-| 2026-08-26 | RobotisSW/Middle_Table_recycling_General_Plastic_60k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Middle_Table_recycling_General_Plastic_60k) |
-| 2026-08-26 | kyledavis/robotics-vision-language-v3 | 0 | 0 | [link](https://huggingface.co/kyledavis/robotics-vision-language-v3) |
-| 2026-08-26 | Adityadas5350/review-robotics-vision-language33 | 0 | 0 | [link](https://huggingface.co/Adityadas5350/review-robotics-vision-language33) |
-| 2026-08-26 | RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_groot | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_groot) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | Edgenesis/shifu | 1432 | Go | 572.9 | [link](https://github.com/Edgenesis/shifu) |
 | mosaico-labs/mosaico | 951 | Python | 380.5 | [link](https://github.com/mosaico-labs/mosaico) |
-| autonomous-ai/autonomous-os | 213 | Python | 85.3 | [link](https://github.com/autonomous-ai/autonomous-os) |
+| autonomous-ai/autonomous-os | 214 | Python | 85.7 | [link](https://github.com/autonomous-ai/autonomous-os) |
 | commaai/openpilot | 63503 | Python | 25401.3 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 16162 | Python | 6464.9 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16163 | Python | 6465.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15747 | C++ | 6298.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14675 | C++ | 5870.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13910 | Python | 5564.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14676 | C++ | 5870.5 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 13912 | Python | 5564.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11360 | Rust | 4544.1 | [link](https://github.com/rerun-io/rerun) |
 | kornia/kornia | 11327 | Python | 4530.9 | [link](https://github.com/kornia/kornia) |
 
