@@ -1,5 +1,12 @@
 [
   {
+    "title": "Claude Plays DOOM",
+    "source": "Hackaday",
+    "date": "2026-08-26",
+    "url": "https://hackaday.com/2026/08/26/claude-plays-doom/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/🤖-Claude-Sonnet-plays-DOOM-on-an-ESP32-P4-0-54-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Large language models (LLMs) are generally thought of as machines that accept textual prompts and spit out textual content. However, if you&#8217;re creative in the way you interface with them, <a class=\"read-more\" href=\"https://hackaday.com/2026/08/26/claude-plays-doom/\">&#8230;read more</a>"
+  },
+  {
     "title": "New Controller Makes Heavy Machinery Intuitive",
     "source": "Hackaday",
     "date": "2026-08-26",
@@ -19,6 +26,13 @@
     "date": "2026-08-26",
     "url": "https://hackaday.com/2026/08/25/cheap-ai-token-resellers-the-secret-ingredient-is-fraud/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2019/03/botnet.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Matt Lenhard] has an interesting writeup explaining exactly how fraudsters offer access to cutting-edge AI models at a tenth of the price. Perhaps unsurprisingly, the secret is to get tokens <a class=\"read-more\" href=\"https://hackaday.com/2026/08/25/cheap-ai-token-resellers-the-secret-ingredient-is-fraud/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Banana Pi BPI-AI2N – A Renesas RZ/V2N-based SoM and carrier board for Vision AI applications",
+    "source": "CNX Software",
+    "date": "2026-08-26",
+    "url": "https://www.cnx-software.com/2026/08/26/banana-pi-bpi-ai2n-a-renesas-rz-v2n-based-som-and-carrier-board-for-vision-ai-applications/",
+    "summary": "<div><img alt=\"Banana Pi BPI-AI2N Renesas RZ/V2N SoM and carrier board\" class=\"attachment-medium size-medium wp-post-image\" height=\"481\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Banana-Pi-BPI-AI2N-Renesas-RZ-V2N-som-carrier-board-720x481.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Banana Pi BPI-AI2N is a system-on-module (SoM) powered by a Renesas RZ/V2N quad-core Cortex-A55 microprocessor with a 15 TOPS (sparse) DRP-AI3 accelerator for Vision AI workloads. The module features 8GB LPDDR4x, 32GB eMMC flash, 64MB SPI flash, two Gigabit Ethernet controllers, a PMIC, and exposes all I/Os through a 260-pin SO-DIMM connector. The company also provides a Jetson Nano-inspired carrier board with a MIPI DSI connector, two MIPI CSI connectors, two GbE RJ45 ports, two USB 3.0 ports, an M.2 socket for NVMe SSD storage, a 40-pin GPIO header, and more. Banana Pi BPI-AI2N-Core SoM specifications: SoC &#8211; Renesas RZ/V2N CPU Quad-core Arm Cortex-A55 @ 1.8 GHz Arm Cortex-M33 @ 200 MHz GPU – Arm Mali-G31 3D graphics engine (GE3D) with OpenGL ES 3.2 and OpenCL 2.0 FP VPU – Encode &#38; decode H.264 – Up to 1920×1080 @ 60 fps (Renesas specs, but SOMDEVICES also mentions up to 4K @ [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/26/banana-pi-bpi-ai2n-a-renesas-rz-v2n-based-som-and-carrier-board-for-vision-ai-applications/\">Banana Pi BPI-AI2N &#8211; A Renesas RZ/V2N-based SoM and carrier board for Vision AI applications</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Nvidia unleashes robotics computer set for entry level edge AI",
@@ -96,13 +110,6 @@
     "date": "2026-08-25",
     "url": "https://hackaday.com/2026/08/25/ai-book-scanning-just-what-is-a-rare-book/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/rare-book-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One of the stories of the last few weeks has been that AI companies have been scanning books in very large numbers in order to train their models with content <a class=\"read-more\" href=\"https://hackaday.com/2026/08/25/ai-book-scanning-just-what-is-a-rare-book/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Artificial Intelligence as It Once Was",
-    "source": "Hackaday",
-    "date": "2026-08-25",
-    "url": "https://hackaday.com/2026/08/25/artificial-intelligence-as-it-once-was/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"507\" src=\"https://hackaday.com/wp-content/uploads/2026/08/eliza.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One day, people will look back at what we call Artificial Intelligence and laugh. We do the same thing today, as chat bots totally outstrip what the computer industry called <a class=\"read-more\" href=\"https://hackaday.com/2026/08/25/artificial-intelligence-as-it-once-was/\">&#8230;read more</a>"
   },
   {
     "title": "Lantronix Open-M 720G/520G – Ultra-compact LGA system-on-modules based on MediaTek Genio 720 and Genio 520 SoCs",
@@ -383,13 +390,6 @@
     "date": "2026-08-22",
     "url": "https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/",
     "summary": "<div><img alt=\"ESP32-S31 Linux\" class=\"attachment-medium size-medium wp-post-image\" height=\"432\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/ESP32-S31-Linux-720x432.png\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The ESP32-S31 microprocessor is getting Linux support from Espressif Systems. The ESP32-S31 dual-core RISC-V microprocessor was first unveiled in March, two ESP32-S31 development boards followed in May, and mass production was announced a few weeks ago. The new RISC-V chip features an MMU (Memory Management Unit), which makes Linux much easier to handle, and the development boards also come with 16MB PSRAM, so a minimal Linux image is possible. Moving from theory to practice, Espressif Systems has now released a developer preview version of the ESP Linux BSP for ESP32-S31, and some community Linux ports are also in the works (more on that at the end of the article). Let&#8217;s focus on the official ESP Linux BSP. The aforementioned repo only contains the image layout and packaging tools used by the ESP32-S31 Buildroot integration, and the core of the project can be found in the esp-buildroot-external repo with ESP32-S31 NOR boot [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/\">Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "AAEON uCOM-Q6490 – A SMARC 2.1-compliant SoM powered by Qualcomm Dragonwing QCS6490 SoC",
-    "source": "CNX Software",
-    "date": "2026-08-21",
-    "url": "https://www.cnx-software.com/2026/08/21/aaeon-ucom-q6490-a-smarc-2-1-qualcomm-dragonwing-qcs6490-som/",
-    "summary": "<div><img alt=\"AAEON uCOM Q6490 A SMARC 2.1 computer on module (COM) with Qualcomm Dragonwing QCS6490 processor\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/AAEON-uCOM-Q6490-A-SMARC-2.1-computer-on-module-COM-with-Qualcomm-Dragonwing-QCS6490-processor-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>AAEON uCOM-Q6490 is a SMARC 2.1-compliant System-on-Module (SoM) built around the Qualcomm Dragonwing QCS6490 octa-core SoC, designed for robotics, healthcare, industrial automation, and digital signage applications. The 82 × 50 mm module ships with up to 16GB LPDDR5 memory and 64GB UFS storage, and its standard MXM 3.0 edge connector exposes SDIO 3.0, PCIe 3.0, dual GbE, USB 3.1, and USB 2.0 interfaces, along with UARTs, SPI, I2C, I2S, GPIOs, and a DisplayPort 1.4 output supporting 2K at 60Hz. The module is designed for LiDAR sensors, IMUs, cameras, robotic controllers, smart displays, and other industrial peripherals. AAEON uCOM-Q6490 specifications: SoC – Qualcomm Dragonwing QCS6490 CPU – Octa-core Kryo 670 with 1x Gold Plus core (Cortex-A78) @ 2.7 GHz, 3x Gold cores (Cortex-A78) @ 2.4 GHz, 4x Silver cores (Cortex-A55) @ up to 1.9 GHz GPU – Adreno 643L GPU @ 812 MHz with support for Open GL ES 3.2, OpenCL 2.0, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/21/aaeon-ucom-q6490-a-smarc-2-1-qualcomm-dragonwing-qcs6490-som/\">AAEON uCOM-Q6490 &#8211; A SMARC 2.1-compliant SoM powered by Qualcomm Dragonwing QCS6490 SoC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Advanced RF Systems, Agilex FPGAs, a Neuromorphic Chip for AI Optical Inspection: Embedded Week Insights",
