@@ -1,5 +1,14 @@
 [
   {
+    "model": "milab-robot/alm1-0731-milab.NESW",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/milab-robot/alm1-0731-milab.NESW",
+    "date": "2026-08-26",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "openEuler/IB_Robot_ACT_banana_pick_distill",
     "downloads": 28,
     "likes": 0,
@@ -18,19 +27,10 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
+    "model": "LejuRobotics/LET-KUAVO-VLA-1.0-models",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
-    "date": "2026-08-26",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
+    "url": "https://huggingface.co/LejuRobotics/LET-KUAVO-VLA-1.0-models",
     "date": "2026-08-26",
     "keyword": "vla",
     "score": 0.1
@@ -54,10 +54,19 @@
     "score": 0.1
   },
   {
-    "model": "LejuRobotics/LET-KUAVO-VLA-1.0-models",
+    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/LejuRobotics/LET-KUAVO-VLA-1.0-models",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
+    "date": "2026-08-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
     "date": "2026-08-26",
     "keyword": "vla",
     "score": 0.1
@@ -78,15 +87,6 @@
     "url": "https://huggingface.co/justinchuby/act-aloha-policy-onnx-catalogue",
     "date": "2026-08-26",
     "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "milab-robot/alm1-0731-milab.NESW",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/milab-robot/alm1-0731-milab.NESW",
-    "date": "2026-08-25",
-    "keyword": "robot",
     "score": 0.1
   },
   {
