@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-26 18:31 UTC
+Last Updated: 2026-08-26 21:20 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -9,6 +9,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-26 | Bringing ChatGPT for Teachers to more U.S. school districts | OpenAI | [link](https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts) |
 | 2026-08-26 | Learning never stops: How AI makes learning continuous | OpenAI | [link](https://openai.com/index/learning-never-stops) |
+| 2026-08-26 | The Hugging Face incident and the road ahead | OpenAI | [link](https://openai.com/index/hugging-face-incident-and-the-road-ahead) |
 | 2026-08-26 | How loveholidays is making everyone a builder with Codex | OpenAI | [link](https://openai.com/index/loveholidays) |
 | 2026-08-26 | Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers | Hugging Face | [link](https://huggingface.co/blog/train-multi-vector-encoder) |
 | 2026-08-25 | The full stack behind abundant intelligence | OpenAI | [link](https://openai.com/index/the-full-stack-behind-abundant-intelligence) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | Disrupting a new covert influence campaign from Russia | OpenAI | [link](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia) |
 | 2026-08-25 | Introducing the Admin plugin for ChatGPT Work and Codex | OpenAI | [link](https://openai.com/index/introducing-admin-plugin) |
 | 2026-08-25 | Granite 4.2 LLMs: How They're Built | Hugging Face | [link](https://huggingface.co/blog/ibm-granite/granite-4-2) |
-| 2026-08-25 | Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original | Hugging Face | [link](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-26 | Emulating the iPod | Hackaday | [link](https://hackaday.com/2026/08/26/emulating-the-ipod/) |
 | 2026-08-26 | FLOSS Weekly Episode 879: Easy Like Butter | Hackaday | [link](https://hackaday.com/2026/08/26/floss-weekly-episode-879-easy-like-butter/) |
 | 2026-08-26 | How Packaging Can Kill An Electronics Microbusiness | Hackaday | [link](https://hackaday.com/2026/08/26/how-packaging-can-kill-an-electronics-microbusiness/) |
 | 2026-08-26 | Hackaday Europe 2026: PCBs With A Plot | Hackaday | [link](https://hackaday.com/2026/08/26/hackaday-europe-2026-pcbs-with-a-plot/) |
 | 2026-08-26 | Claude Plays DOOM | Hackaday | [link](https://hackaday.com/2026/08/26/claude-plays-doom/) |
 | 2026-08-26 | New Controller Makes Heavy Machinery Intuitive | Hackaday | [link](https://hackaday.com/2026/08/26/new-controller-makes-heavy-machinery-intuitive/) |
 | 2026-08-26 | Blow Those Pyros With A Telephone! | Hackaday | [link](https://hackaday.com/2026/08/25/blow-those-pyros-with-a-telephone/) |
-| 2026-08-26 | Cheap AI Token Resellers: The Secret Ingredient is Fraud | Hackaday | [link](https://hackaday.com/2026/08/25/cheap-ai-token-resellers-the-secret-ingredient-is-fraud/) |
 | 2026-08-26 | HomeMaster MiniPLC – An ESP32 DIN-rail PLC controller for Home Assistant | CNX Software | [link](https://www.cnx-software.com/2026/08/26/homemaster-miniplc-an-esp32-din-rail-plc-controller-for-home-assistant/) |
 | 2026-08-26 | Banana Pi BPI-AI2N – A Renesas RZ/V2N-based SoM and carrier board for Vision AI applications | CNX Software | [link](https://www.cnx-software.com/2026/08/26/banana-pi-bpi-ai2n-a-renesas-rz-v2n-based-som-and-carrier-board-for-vision-ai-applications/) |
 | 2026-08-26 | Altera Expands Agilex 9 Direct RF FPGA Ecosystem for Defense | Embedded.com | [link](https://www.embedded.com/altera-expands-agilex-9-direct-rf-fpga-ecosystem-for-defense/) |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | milab-robot/alm1-0731-milab.NESW | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.NESW) |
+| 2026-08-26 | polarisai-robots/bento_v2_openarm_pi05 | 65 | 0 | [link](https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05) |
 | 2026-08-26 | emmawilsonbeck/robotics-vision-language-rc135 | 0 | 0 | [link](https://huggingface.co/emmawilsonbeck/robotics-vision-language-rc135) |
 | 2026-08-26 | bhatr-eyansh/robotics-vision-language-lab | 0 | 0 | [link](https://huggingface.co/bhatr-eyansh/robotics-vision-language-lab) |
 | 2026-08-26 | weepiess2383/arc-v3podc-fullft-robotonly | 0 | 0 | [link](https://huggingface.co/weepiess2383/arc-v3podc-fullft-robotonly) |
@@ -85,22 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-26 | robotastronaut/courses-two-digit-modernbert-base-onnx | 10 | 0 | [link](https://huggingface.co/robotastronaut/courses-two-digit-modernbert-base-onnx) |
 | 2026-08-26 | jankowskipawel/robotics-vision-language-study | 0 | 0 | [link](https://huggingface.co/jankowskipawel/robotics-vision-language-study) |
 | 2026-08-26 | fionakcej/notes-robotics-vision-language | 0 | 0 | [link](https://huggingface.co/fionakcej/notes-robotics-vision-language) |
-| 2026-08-26 | jungwook2358/gr1-segpix-robotmask-promptv2-vla256-ckpt60000 | 0 | 0 | [link](https://huggingface.co/jungwook2358/gr1-segpix-robotmask-promptv2-vla256-ckpt60000) |
-| 2026-08-26 | Cclarkejames5/robotics-vision-language-study-2024 | 0 | 0 | [link](https://huggingface.co/Cclarkejames5/robotics-vision-language-study-2024) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| copper-project/copper-rs | 1466 | Rust | 586.5 | [link](https://github.com/copper-project/copper-rs) |
+| copper-project/copper-rs | 1467 | Rust | 586.9 | [link](https://github.com/copper-project/copper-rs) |
 | Edgenesis/shifu | 1432 | Go | 572.9 | [link](https://github.com/Edgenesis/shifu) |
 | mosaico-labs/mosaico | 951 | Python | 380.5 | [link](https://github.com/mosaico-labs/mosaico) |
 | wadeKeith/Awesome-Embodied-AI | 240 | Python | 96.1 | [link](https://github.com/wadeKeith/Awesome-Embodied-AI) |
 | autonomous-ai/autonomous-os | 215 | Python | 86.1 | [link](https://github.com/autonomous-ai/autonomous-os) |
 | Developer-Y/cs-video-courses | 83182 |  | 33272.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63505 | Python | 25402.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63509 | Python | 25403.7 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16164 | Python | 6465.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15747 | C++ | 6298.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14680 | C++ | 5872.1 | [link](https://github.com/google-deepmind/mujoco) |
+| TianxingChen/Embodied-AI-Guide | 15637 |  | 6254.9 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,21 +119,23 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-26 | Ex-Meta scientists want to bring visual AI to the factory floor - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdE5obFRWRzVJRDJxbThWYzh6eFZ6N2c2Z2xyYnJkMjFSUGdFR1dFa3lKTVBXaFV3cTg4eXNJS0ljU1BzY0kwV24yd0FyOHY3RFpibVlFbTBxU3VObVNSTDhHTjAyUktjOWJLRzl2b3Jhclo4WUJsdlJXVU9OOWotbjN4d0thMmhjUzdMUWNYUFFreEs3QXRmSmdpNWVNMTQ?oc=5) |
 | 2026-08-26 | Robotics startup Generalist reaches $3B valuation, sources say - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5) |
 | 2026-08-25 | Physical AI startup Antioch files to raise $32M - Axios | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaE4waTJoaVgyQjUza3dndlZnV3J1U1lwSDNBay1LUlhnblEzek43cHdSc1dRVWtOUXhaZ3Q1TmNVNUc1eHlrcjhubV9xbElOLVdMMmNxdEg2cHZMempJeWdxeWU5QkhDT1BMWWl0bmtqM3VPdUNldkNObWxfZUpRTzFlZ0NrWUoyNVZlOWxuR1Q0bms5ZXhKcA?oc=5) |
 | 2026-08-25 | NEC CVC fund invests in US humanoid robot and Physical AI startup - Telecompaper | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNckpiU0xUckpFWUFySHVYT2M5Z2VsYlBVRXN2bzd6amdOOUtYaEdqWGhacDEwSXVDSDFZNWt3NllEWENFMGxYbkxCZjA5akxKTm5hdmVxb0gxdlNCVjVjU08tODVjSlhKQ1pQQnJEdlM4QWhCOTJjeGJXM3RQVEdLdWRaQkNkbXljcTlHd1NmUC13X1dXWFU4ZXRWTUIxUFh1ZlVocngxc3VnT2E4?oc=5) |
+| 2026-08-25 | NEC Orchestrating Future Fund Invests in U.S.-based Humanoid Robot & Physical AI Developer Dexmate - AI Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxQVjJyTVlrdHN2TkdoNFNSYmFUVy1Gd2JSSlZUMEVUbUFTUjlsUm5sN2kwRC1hM0NLcUctRkxZMXZqU1RWQllOa2JtSWp2NG8xbW9hRVkwYm5jM2ZyZ0JxTm85MDF5TVFQWXRXMVV4MG1iMXlxM04yUDlMTWJybzlZbkNaUnJyOWtUNmw2NFk4WXU1VjlQTzdUY2pQSzExVk84WHFtRHBNNVNlSThPbUlOWUpQcjQ4a2VpMkd1bUQ3UmlqYzhUeEVWMUl1T1NpQQ?oc=5) |
 | 2026-08-25 | NEC's venture fund backs US humanoid robot startup Dexmate - Dealroom | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXdtVkJvanJOQjBYcktsSHNDZG92a3hzeThXQ0NhdjdRSkdoOWYxM2VPSGxQM2RPZFI5Qkh2SHNLLVdaT0pXdGYyTDJuNC1TU0J3bUh5aXMweU03XzQ1M1p1RmZpNmVUbDR4NWtFbHJCWE5MaFc2bWVXLW1YSS1lZjMtQmxUS0FPd2kzbk0wZnd6dmVjXzZN?oc=5) |
 | 2026-08-25 | NEC fund invests in California robot startup Dexmate, maker of VEGA - International Business Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxOcVc1WmpxdFFlRVZ3YUNlZFVPQkxHRjIydlBxWFljMFdkLURDWUVSZzNmVjVvNkdxeFBfOFRmNjVhaU9rTTNoaEpSRUpibWN3dTdNWnY1R2ExSkhZV3pLWE42dl9TZk9abGI3RkNSRnR4bmJOVXlvckYyMmUzbVFtSC1MNTJQSlVncUhHZ0tibHNxRXZR?oc=5) |
-| 2026-08-25 | NEC Orchestrating Future Fund Invests in U.S.-based Humanoid Robot & Physical AI Developer Dexmate - AI Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxQVjJyTVlrdHN2TkdoNFNSYmFUVy1Gd2JSSlZUMEVUbUFTUjlsUm5sN2kwRC1hM0NLcUctRkxZMXZqU1RWQllOa2JtSWp2NG8xbW9hRVkwYm5jM2ZyZ0JxTm85MDF5TVFQWXRXMVV4MG1iMXlxM04yUDlMTWJybzlZbkNaUnJyOWtUNmw2NFk4WXU1VjlQTzdUY2pQSzExVk84WHFtRHBNNVNlSThPbUlOWUpQcjQ4a2VpMkd1bUQ3UmlqYzhUeEVWMUl1T1NpQQ?oc=5) |
 | 2026-08-25 | NEC invests in US-based robotics startup Dexmate - Robotics & Automation News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOak5OZVJ6bGxrSmV1QXN3S0lfTjlDV3JtZjZSQUdrYzk1d0hnMlNMaGI3TkNER2tCRlhOUk5rckRXam1TY0p3Z2ladFZiQ3FVUndvZV9UZjF3NWx3anhmNEkwSjNWNUhrcDdQZlpPd1gwWnZKdnIxOFZvblRsY2dzTEdwVzBZWGtBRFd4aXBpUmNoeEZERVhPU0RVSllmNWpYQ0FDOGpvNjM?oc=5) |
 | 2026-08-24 | Seedcamp leads $2.7M round for Ukrainian-founded physical AI startup Embedd - Tech Funding News | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzlXWjJwWk96QlN5dm5XZXduVW9ZS2RQQ3NTNm9SdWgxb2k2d2lyMTNjVWR5UllobWk5cllyRE5zUGdwQmNDTzVoQ19kLUdjNkJwa254Y3ZZSDh2eV9HX29vSVBLQlJmR0tfWXhDRXVYbjI3MVdzVG5tUXJKLUZoa1daTmljY0RqMkx1R1dqZ3AycU1xTmtzT19GbmdCZzdNMVIybExB?oc=5) |
 | 2026-08-24 | Physical AI startup WATER raises $2.5 million in funding from Endiya Partners, others - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94N9IByAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94Nw?oc=5) |
+| 2026-08-24 | Nio reportedly to invest in embodied AI startup founded by Ren Shaoqing, who will remain smart-driving chief - CnEVPost | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNEc3WllNcVBDOGt1T2VnY0hxd3ltb1ZmWEVubnVjeWNxNTlJRFdzM3NmSUJicFIzMVZYb19wWVpnYnRMX05XVWtHeUlPUlJXU1VhNWEzTExSM205MWloM3Z4UkNJMU5MakJReWtUUVpEZjg5N1EzS1JRYmN3WVQ2czBjUDNLa0E?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | Prototype Development Technician | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4589484006) |
 | 2026-08-26 | Manager, Accounting | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6145295004) |
+| 2026-08-26 | Senior Manager, Learning from Demonstration | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6164697004) |
 | 2026-08-26 | Senior Service Technician II | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6155870004) |
 | 2026-08-26 | Senior Software Engineer, AI/ML Platform | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6148969004) |
 | 2026-08-25 | Helix Data Creator (SP)  | Figure AI | São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4708450006) |
@@ -141,8 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | Senior Technical Program Manager | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6154494004) |
 | 2026-08-25 | Technical Program Manager | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6155073004) |
 | 2026-08-24 | Deployment Logistics Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4666290006) |
-| 2026-08-24 | Logistics & Dispatch Manager | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4702689006) |
-| 2026-08-21 | Technical Program Manager, Security & Privacy | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4707189006) |
 
 ## Automation
 
