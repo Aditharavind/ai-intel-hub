@@ -1,5 +1,12 @@
 [
   {
+    "title": "How Packaging Can Kill An Electronics Microbusiness",
+    "source": "Hackaday",
+    "date": "2026-08-26",
+    "url": "https://hackaday.com/2026/08/26/how-packaging-can-kill-an-electronics-microbusiness/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/recycling-logo-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Quite a few in our community make a bit of cash on the side by selling our creations, and it&#8217;s not uncommon to find that a project which catches your <a class=\"read-more\" href=\"https://hackaday.com/2026/08/26/how-packaging-can-kill-an-electronics-microbusiness/\">&#8230;read more</a>"
+  },
+  {
     "title": "Hackaday Europe 2026: PCBs With A Plot",
     "source": "Hackaday",
     "date": "2026-08-26",
@@ -54,6 +61,13 @@
     "date": "2026-08-26",
     "url": "https://www.embedded.com/altera-expands-agilex-9-direct-rf-fpga-ecosystem-for-defense/",
     "summary": "<p>Altera Corp. has recently expanded its Agilex 9 Direct RF FPGA ecosystem through collaborations with Mercury Systems and VadaTech, introducing commercial off-the-shelf (COTS) solutions for next-generation defense platforms. The partnerships combine Agilex 9 medium-band Direct RF FPGAs with open-architecture hardware to help defense system developers reduce size, weight, power, and cost (SWaP-C), shorten development cycles, [...]</p>\n<p>The post <a href=\"https://www.embedded.com/altera-expands-agilex-9-direct-rf-fpga-ecosystem-for-defense/\">Altera Expands Agilex 9 Direct RF FPGA Ecosystem for Defense</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Deadline approaching for Elektra Awards 2026 entries",
+    "source": "Electronics Weekly",
+    "date": "2026-08-26",
+    "url": "https://www.electronicsweekly.com/news/elektra-awards-news/deadline-approaching-for-elektra-awards-2026-entries-2026-08/",
+    "summary": "<p>There is now less than one week left remaining until the Elektra Awards free entry deadline, which is Wednesday 2 September 2026. Entrants for the Elektras are encouraged to complete [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/elektra-awards-news/deadline-approaching-for-elektra-awards-2026-entries-2026-08/\">Deadline approaching for Elektra Awards 2026 entries</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Well Cooked",
@@ -119,11 +133,67 @@
     "summary": "<p>FormationQ and the Hartree Centre, part of the Science and Technology Facilities Council (STFC) and UK Research and Innovation (UKRI), have partnered  to accelerate the adoption of advanced quantum computing [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/quantum-adoption-tie-up-for-formationq-and-hartree-centre-2026-08/\">Quantum adoption tie-up for FormationQ and Hartree Centre</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Top Ten Semiconductor Companies in Q2",
-    "source": "Electronics Weekly",
+    "title": "Making a time and temperature gadget",
+    "source": "Adafruit",
     "date": "2026-08-26",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-semiconductor-companies-in-q2-2026-08/",
-    "summary": "<p>NVIDIA USA $125.7 Billion AI GPUs &#38; Data Center Accelerators Samsung Electronics South Korea $72.7 Billion (Memory/DS Division) DRAM, NAND Flash, &#38; Logic Chips TSMC Taiwan $69.3 Billion (Pure Foundry [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-semiconductor-companies-in-q2-2026-08/\">Top Ten Semiconductor Companies in Q2</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/08/26/making-a-time-and-temperature-gadget/",
+    "summary": "Clóvis Fritzen discusses making a time and temperature gadget. It is a beautiful four digits display that shows temperature and time. I like to make and bring to you simple and useful projects, most of them involving sensors. This is no different, we will use the well known TM1637 display to implement a temperature reading. [&#8230;]"
+  },
+  {
+    "title": "ESP32 deep sleep power: S3 vs C3 vs C6, measured",
+    "source": "Adafruit",
+    "date": "2026-08-26",
+    "url": "https://blog.adafruit.com/2026/08/26/esp32-deep-sleep-power-s3-vs-c3-vs-c6-measured/",
+    "summary": "Qoitech tests the datasheet and published figures for the minimum current drawn from three Espressif microcontrollers. This series starts with three ESP32-family boards on the bench — the dual-core Xtensa ESP32-S3, the RISC-V ESP32-C3, and the 802.15.4-capable ESP32-C6. They aren’t interchangeable parts; different cores, different memory, different radios. But that’s not what we’re testing here. [&#8230;]"
+  },
+  {
+    "title": "An ESP32-S31 GameCube emulator does hardware MJPEG decoding",
+    "source": "Adafruit",
+    "date": "2026-08-26",
+    "url": "https://blog.adafruit.com/2026/08/26/an-esp32-s31-gamecube-emulator-does-hardware-mjpeg-decoding/",
+    "summary": "Greg from Laser Bear Industries on X posts: LCDJewel is finally making progress! (A) new MCU with double buffered 60fps! MJPEG video playback and GameID are working. Redesigning the setting menus next. (The) hardware seems to be in good shape. A little bit of waiting for the ESP32-S31 to be in mass production, but the [&#8230;]"
+  },
+  {
+    "title": "NEW PRODUCT – Adafruit Stereo I2S 3W Amplifier Breakout – Dual MAX98357A",
+    "source": "Adafruit",
+    "date": "2026-08-26",
+    "url": "https://blog.adafruit.com/2026/08/26/new-product-adafruit-stereo-i2s-3w-amplifier-breakout-dual-max98357a/",
+    "summary": "NEW PRODUCT &#8211; Adafruit Stereo I2S 3W Amplifier Breakout &#8211; Dual MAX98357A __________________________________________________________________________________________________ Listen to this good news &#8211; we now have an all in one digital audio amp breakout board that works incredibly well with the Raspberry Pi or any other microcontroller with I2S output! If you&#8217;re looking for an easy and low cost way to [&#8230;]"
+  },
+  {
+    "title": "DefCon 34: Stalking the Wily Hacker: 40 years later – Cliff Stoll",
+    "source": "Adafruit",
+    "date": "2026-08-26",
+    "url": "https://blog.adafruit.com/2026/08/26/defcon-34-stalking-the-wily-hacker-40-years-later-cliff-stoll/",
+    "summary": "40 years ago today, Cliff Stoll tripped over a 75-cent accounting glitch in a Unix system. That tiny clue led to a year-long chase across networks, modem banks, and international borders, ultimately uncovering a crew of German hackers working for the East German Stasi and the Soviet KGB. We had no budget, no roadmap, and [&#8230;]"
+  },
+  {
+    "title": "Visualizing binary files",
+    "source": "Adafruit",
+    "date": "2026-08-26",
+    "url": "https://blog.adafruit.com/2026/08/26/visualizing-binary-files/",
+    "summary": "It&#8217;s all black and white, basically. A while ago, Vim&#8217;s xxd gained the ability to color the output. movq.de posts about wanting wanted to have this feature in bine as well. So I started implementing it. An early draft can be seen here (above). I think this is already an improvement, because it&#8217;s easier to [&#8230;]"
+  },
+  {
+    "title": "LIVE! 3D Hangouts with Noe and Pedro",
+    "source": "Adafruit",
+    "date": "2026-08-26",
+    "url": "https://blog.adafruit.com/2026/08/26/live-3d-hangouts-with-noe-and-pedro-82/",
+    "summary": "This week @adafruit Noe and Pedro are working on new projects. Pedro is designing an IoT e-ink project while Noe is working on a candy dispenser for the upcoming halloween season. Tricolor Eink 4.2in https://www.adafruit.com/product/6382 Feather ESP32-S3: https://www.adafruit.com/product/5477 Eink Feather Friend: https://www.adafruit.com/product/4446 RFM95W Lora Radio: https://www.adafruit.com/product/3072 Feather RP2040 PropMaker https://www.adafruit.com/product/5768 Timelapse Tuesday: Mewtwo Skull Mask [&#8230;]"
+  },
+  {
+    "title": "Making a Train Simulator, an update",
+    "source": "Adafruit",
+    "date": "2026-08-26",
+    "url": "https://blog.adafruit.com/2026/08/26/making-a-train-simulator-an-update/",
+    "summary": "For over three years, Christopher Mitchell has been building a physical train simulator in my apartment, modeled on the UK Class 80x (Class 800/801/802/805/810) passenger train. I’ve been trying to replicate the instruments and controls in the real cab as closely as possible, in many cases managing to acquire real components, and in others building [&#8230;]"
+  },
+  {
+    "title": "Six quintessential movies to watch in honor of Dolly Parton",
+    "source": "Adafruit",
+    "date": "2026-08-26",
+    "url": "https://blog.adafruit.com/2026/08/26/six-quintessential-movies-to-watch-in-honor-of-dolly-parton/",
+    "summary": "Dolly Parton&#8217;s roles in two of the best films of the 1980s are so important to our cultural memories of that decade—and are so darn good—that it&#8217;s hard to remember that she made that impact in just a handful of films over a decades-long career. Lifehacker lists the best of them. There are so few [&#8230;]"
   },
   {
     "title": "MIT engineers design a more intuitive controller for operating construction diggers",
@@ -147,32 +217,39 @@
     "summary": "It took me longer than I&#8217;d like to admit to visualize what the title of soiboi soft&#8217;s video meant &#8211; I clearly haven&#8217;t seen the previous videos in this series. Don&#8217;t worry if you&#8217;re in the same boat, clicking play will show you exactly how this delightfully tactile 8&#215;8 dot matrix was made. We have&#8230; [&#8230;]"
   },
   {
-    "title": "A Colecovision emulator running on the Adafruit Fruit Jam",
-    "source": "Adafruit",
+    "title": "Mouser Electronics Stocking Newest Connectivity Solutions from Nordic Semiconductor",
+    "source": "EE Journal",
     "date": "2026-08-26",
-    "url": "https://blog.adafruit.com/2026/08/26/a-colecovision-emulator-running-on-the-adafruit-fruit-jam/",
-    "summary": "Dan The Geek has created ColecoJam, a Colecovision emulator running on the Adafruit Fruit Jam. The ColecoVision was a second-generation home video game console released by Coleco Industries in 1982. It became one of the most successful competitors to the Atari 2600 and is remembered for bringing surprisingly arcade-like graphics and gameplay into the home [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/mouser-electronics-stocking-newest-connectivity-solutions-from-nordic-semiconductor/",
+    "summary": "Mouser Electronics, Inc., the New Product Introduction (NPI) leader™ empowering innovation, stocks a wide range of authorized products from Nordic Semiconductor, a leading manufacturer of low-power, high-performance wireless technologies and development tools. Since 2011, Mouser&#8217;s distribution partnership with Nordic Semiconductor has served engineers&#8217; component and solution needs across industrial, medical, and consumer wireless applications. The Nordic Semiconductor nRF54L15 development kit, available from Mouser, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/mouser-electronics-stocking-newest-connectivity-solutions-from-nordic-semiconductor/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Mouser Electronics Stocking Newest Connectivity Solutions from Nordic Semiconductor\"</span></a>"
   },
   {
-    "title": "Claude Sonnet plays DOOM on an ESP32-P4",
-    "source": "Adafruit",
+    "title": "KYOCERA AVX Releases Vibration-Proof Aluminum Electrolytic Capacitors",
+    "source": "EE Journal",
     "date": "2026-08-26",
-    "url": "https://blog.adafruit.com/2026/08/26/claude-sonnet-plays-doom-on-an-esp32-p4/",
-    "summary": "Andrea Ricci ported DOOM to SCINTIX P4 (an ESP32-P4 + ESP32-C6 module in the Raspberry Pi CM4/CM5 form factor) and then let Claude Sonnet play it. The game runs on a 1024×600 MIPI-DSI panel, hardware-scaled to 30 FPS by the P4&#8217;s PPA. A small WebSocket &#8220;lockstep&#8221; API + an MCP server expose the running game [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/kyocera-avx-releases-vibration-proof-aluminum-electrolytic-capacitors/",
+    "summary": "KYOCERA AVX, a leading global manufacturer of advanced electronic components engineered to accelerate technological innovation and build a better future, released two new series of compact, vibration-proof aluminum electrolytic capacitors engineered for harsh industrial environments. Designed to overcome the mechanical stress challenges that have limited the application of aluminum electrolytic capacitors in industrial applications, the &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/kyocera-avx-releases-vibration-proof-aluminum-electrolytic-capacitors/\">Read More &#8594;<span class=\"screen-reader-text\"> \"KYOCERA AVX Releases Vibration-Proof Aluminum Electrolytic Capacitors\"</span></a>"
   },
   {
-    "title": "JP’s Product Pick of the Week 8/25/26",
-    "source": "Adafruit",
+    "title": "­ Taoglas Expands Outdoor and Industrial Connectivity Capabilities with Acquisition of QuWireless",
+    "source": "EE Journal",
     "date": "2026-08-26",
-    "url": "https://blog.adafruit.com/2026/08/26/jps-product-pick-of-the-week-8-25-26/",
-    "summary": "New time, same John Park. Be sure to tune in at noon pacific and 3 eastern to catch the livestream moving forward. And now to the main reason you&#8217;re here &#8211; this week&#8217;s pick! Learn about Adafruit APDS9999 Proximity, Lux Light &#038; Color Sensor and how to use it, catch a live demo, and more [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/taoglas-expands-outdoor-and-industrial-connectivity-capabilities-with-acquisition-of-quwireless/",
+    "summary": "Taoglas®, a trusted provider of antennas and advanced RF solutions, today announced it has completed the acquisition of Wireless Instruments Sp. z o.o. (&#8220;QuWireless&#8221;), a specialist in high-performance antennas and antenna-enclosure systems for wireless communication devices. Headquartered in Poland, QuWireless has built a strong reputation for antenna enclosure products that perform reliably in real-world outdoor installations &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/taoglas-expands-outdoor-and-industrial-connectivity-capabilities-with-acquisition-of-quwireless/\">Read More &#8594;<span class=\"screen-reader-text\"> \"­ Taoglas Expands Outdoor and Industrial Connectivity Capabilities with Acquisition of QuWireless\"</span></a>"
   },
   {
-    "title": "Happy Women’s Equality Day 2026 #WomensEqualityDay #WED #WED2026",
-    "source": "Adafruit",
+    "title": "Rackspace Technology Launches Rackspace Cloud, Among the First Fully Managed Multitenant Cloud Platforms Built on VMware Cloud Foundation 9.1",
+    "source": "EE Journal",
     "date": "2026-08-26",
-    "url": "https://blog.adafruit.com/2026/08/26/happy-womens-equality-day-2026/",
-    "summary": "Women’s Equality Day honors the ratification of the 19th Amendment, continuing efforts toward equality, and the ongoing fight for the adoption of the Equal Rights Amendment. Resources, events, and additional information: National Women&#8217;s History Alliance: Women&#8217;s Equality Day 2026 New York Almanack: Women’s Equality Day Events: 250 Years of Marching Toward Equality Hudson County, New [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/rackspace-technology-launches-rackspace-cloud-among-the-first-fully-managed-multitenant-cloud-platforms-built-on-vmware-cloud-foundation-9-1/",
+    "summary": "Rackspace Technology® (NASDAQ: RXT), a global enterprise AI infrastructure and solutions provider, today announced the launch of Rackspace Cloud, a fully managed, multitenant cloud platform powered by Broadcom&#8217;s VMware Cloud Foundation 9.1 (VCF 9.1), initially available in Dallas, followed soon by North Virginia and Chicago areas. Rackspace is among the first providers to bring a fully managed multitenant platform to &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/rackspace-technology-launches-rackspace-cloud-among-the-first-fully-managed-multitenant-cloud-platforms-built-on-vmware-cloud-foundation-9-1/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Rackspace Technology Launches Rackspace Cloud, Among the First Fully Managed Multitenant Cloud Platforms Built on VMware Cloud Foundation 9.1\"</span></a>"
+  },
+  {
+    "title": "Aetina Supports NVIDIA Jetson Orin Nano 2 for Next-Generation Physical AI Edge Applications",
+    "source": "EE Journal",
+    "date": "2026-08-26",
+    "url": "https://www.eejournal.com/industry_news/aetina-supports-nvidia-jetson-orin-nano-2-for-next-generation-physical-ai-edge-applications/",
+    "summary": "Aetina Corporation, &#8211; a leading edge AI solution provider and accelerator of edge AI infrastructure, today announced its support for the new NVIDIA Jetson Orin Nano 2, further expanding Aetina&#8217;s presence within the NVIDIA Jetson edge AI ecosystem. As the next generation of entry-level edge AI robotics computers, Jetson Orin Nano 2 brings more powerful &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/aetina-supports-nvidia-jetson-orin-nano-2-for-next-generation-physical-ai-edge-applications/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Aetina Supports NVIDIA Jetson Orin Nano 2 for Next-Generation Physical AI Edge Applications\"</span></a>"
   },
   {
     "title": "Reject Fluid Simulations, Return To Rheoscopic Fluid",
@@ -180,13 +257,6 @@
     "date": "2026-08-25",
     "url": "https://hackaday.com/2026/08/25/reject-fluid-simulations-return-to-rheoscopic-fluid/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/rheoscopic-sim-feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Fluid simulations are one of the &#8220;killer apps&#8221; of high-performance computing, but if you can&#8217;t afford the performance, they can take a depressingly long time to run. Depending on your <a class=\"read-more\" href=\"https://hackaday.com/2026/08/25/reject-fluid-simulations-return-to-rheoscopic-fluid/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Native SMB3 Client Brings Modern NAS Access To 20-Year-Old PowerPC Macs",
-    "source": "Hackaday",
-    "date": "2026-08-25",
-    "url": "https://hackaday.com/2026/08/25/native-smb3-client-brings-modern-nas-access-to-20-year-old-powerpc-macs/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2020/06/apple-hardware-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As software updates cease for operating systems, they eventually begin to lose access to parts of the LAN and internet due to out of date encryption features, as well as <a class=\"read-more\" href=\"https://hackaday.com/2026/08/25/native-smb3-client-brings-modern-nas-access-to-20-year-old-powerpc-macs/\">&#8230;read more</a>"
   },
   {
     "title": "Lantronix Open-M 720G/520G – Ultra-compact LGA system-on-modules based on MediaTek Genio 720 and Genio 520 SoCs",
@@ -238,41 +308,6 @@
     "summary": "<p>Viavi Solutions has introduced Vertex 6.0, an enhanced version of its channel emulation platform designed to reproduce real-world RF propagation conditions in laboratory environments. The new platform targets next-generation cellular, Wi-Fi, military, and aerospace technologies and is well-positioned to test emerging 6G and Wi-Fi 7/8 systems. Vertex 6.0 provides 400 MHz of instantaneous bandwidth and [...]</p>\n<p>The post <a href=\"https://www.embedded.com/viavi-vertex-6-0-targets-6g-and-wi-fi-7-8-rf-testing/\">Viavi Vertex 6.0 Targets 6G and Wi-Fi 7/8 RF Testing</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "32×32 Square Pixel Art Animation Display #ArtTuesday",
-    "source": "Adafruit",
-    "date": "2026-08-25",
-    "url": "https://blog.adafruit.com/2026/08/25/32x32-square-pixel-art-animation-display-arttuesday/",
-    "summary": "This is a square pixel display that uses an 32&#215;32 RGB matrix display. It&#8217;s powered by the Feather RP2040 and RGB Matrix FeatherWing. This runs CircuitPython and the Matrix Portal Library to play animated sprite sheets on the display. Check out the guide from the Ruiz Brothers."
-  },
-  {
-    "title": "Tiny Telco",
-    "source": "Adafruit",
-    "date": "2026-08-25",
-    "url": "https://blog.adafruit.com/2026/08/25/tiny-telco/",
-    "summary": "Evan Grove&#8217;s goal is to design a from-scratch, modular, hobbyist-friendly interconnect for analog telephones. It’s like a little phone company in a box that fits on your desk. If you’re new here, the goal is to design a from-scratch, modular, hobbyist-friendly interconnect for analog telephones. It’s like a little phone company in a box that [&#8230;]"
-  },
-  {
-    "title": "San Francisco’s Exploratorium turns STEM learning into hands-on play",
-    "source": "Adafruit",
-    "date": "2026-08-25",
-    "url": "https://blog.adafruit.com/2026/08/25/san-franciscos-exploratorium-turns-stem-learning-into-hands-on-play/",
-    "summary": "On Pier 15 in San Francisco is the Exploratorium, looking out onto the Bay that characterizes a city equally defined by art and culture as it is by technological prowess. This is a museum, but not one with pieces that hang on the walls only to be observed with the eyes. It’s a didactic playground [&#8230;]"
-  },
-  {
-    "title": "WeatherPaper: a smart weather station using an e-paper display",
-    "source": "Adafruit",
-    "date": "2026-08-25",
-    "url": "https://blog.adafruit.com/2026/08/25/weatherpaper-a-smart-weather-station-using-an-e-paper-display/",
-    "summary": "WeatherPaper is a health and comfort-focused smart weather station designed around a 4.2-inch e-paper display and a custom PCB. It lasts over a year and a half on a single charge. Features 500 Days Battery Life: WiFi fetching uptime cuts to a fraction of a second, driven by aggressive power management in software optimisation and firmware [&#8230;]"
-  },
-  {
-    "title": "libtmt – a simple terminal emulation library",
-    "source": "Adafruit",
-    "date": "2026-08-25",
-    "url": "https://blog.adafruit.com/2026/08/25/libtmt-a-simple-terminal-emulation-library/",
-    "summary": "libtmt is Rob King&#8217;s Tiny Mock Terminal Library. It provides emulation of a classic smart text terminal, by maintaining an in-memory screen image. Sending text and command sequences to libtmt causes it to update this in-memory image, which can then be examined and rendered however the user sees fit. The imagined primary goal for libtmt [&#8230;]"
-  },
-  {
     "title": "EX-i SFC3000 Flow Computer Brings Advanced Flow Measurement to Water and Energy Applications",
     "source": "EE Journal",
     "date": "2026-08-25",
@@ -308,13 +343,6 @@
     "summary": "The industry is converging on Arm as the platform for modern cloud computing, reflected in the next-generation cloud and AI infrastructure being built and deployed by companies including AWS, Google, Meta, Microsoft, NVIDIA and OpenAI. That momentum – reinforced by a software ecosystem of more than 22 million developers worldwide – is now extending into &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/ibm-and-arm-expanding-the-arm-ecosystem-for-the-next-era-of-enterprise-computing/\">Read More &#8594;<span class=\"screen-reader-text\"> \"IBM and Arm: Expanding the Arm ecosystem for the next era of enterprise computing\"</span></a>"
   },
   {
-    "title": "Can Metaspectral Analysis Help Save the Planet?",
-    "source": "EE Journal",
-    "date": "2026-08-25",
-    "url": "https://www.eejournal.com/article/can-metaspectral-analysis-help-save-the-planet/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/08/max-0512-image-for-home-page-eco-crisis-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I think it’s fair to say that I’ve been blessed with a cheerful and optimistic disposition. I fully relate to the classic Always Look on the Bright Side of Life song from Monty Python’s Life of Brian movie. If you ever wondered about the origin of this song, I recommend Always Look on the Bright &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/can-metaspectral-analysis-help-save-the-planet/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Can Metaspectral Analysis Help Save the Planet?\"</span></a>"
-  },
-  {
     "title": "Jetway PIC-TWL1 Intel N150 Pico-ITX motherboard is made for industrial automation and embedded systems",
     "source": "CNX Software",
     "date": "2026-08-24",
@@ -348,34 +376,6 @@
     "date": "2026-08-24",
     "url": "https://www.embedded.com/mikroe-releases-rtls-uwb-click-board/",
     "summary": "<p>Mikroe has launched its latest Click board addition, the real-time location system (RTLS) ultra-wideband (UWB) add-on board for high-precision real-time location, distance measurement, and motion-aware tracking. The new board is suited for applications such as asset tracking, indoor positioning, personnel and equipment localization, smart logistics, and industrial monitoring. It can be used for indoor navigation [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mikroe-releases-rtls-uwb-click-board/\">Mikroe Releases RTLS UWB Click Board</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Anomalous Charging Current (ACC) in Polymer Tantalum Capacitors — KYOCERA and Mouser Electronics",
-    "source": "EE Journal",
-    "date": "2026-08-24",
-    "url": "https://www.eejournal.com/chalk_talks/anomalous-charging-current-acc-in-polymer-tantalum-capacitors-kyocera-and-mouser-electronics/",
-    "summary": "&#160; In this episode of Chalk Talk, Hannah Hairston from KYOCERA AVX and Amelia Dalton explore the what, where and how of anomalous charging current. They also investigate the potential effects of ACC in switching power supplies and satellite power conversion, and KYOCERA AVX capacitor solutions that have made ACC concerns a thing of the &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/chalk_talks/anomalous-charging-current-acc-in-polymer-tantalum-capacitors-kyocera-and-mouser-electronics/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Anomalous Charging Current (ACC) in Polymer Tantalum Capacitors &#8212; KYOCERA and Mouser Electronics\"</span></a>"
-  },
-  {
-    "title": "eCAV: Electric Commercial Agricultural Vehicles — onsemi and Mouser Electronics",
-    "source": "EE Journal",
-    "date": "2026-08-24",
-    "url": "https://www.eejournal.com/chalk_talks/ecav-electric-commercial-agricultural-vehicles-onsemi-and-mouser-electronics/",
-    "summary": "&#160; In this episode of Chalk Talk, Youssef Bouguerba from onsemi and Amelia Dalton explore the eCAV landscape, break down the core architecture that distinguishes these vehicles from standard EVs, and check out how onsemi’s portfolio of power modules, image sensors, and connectivity solutions can help you optimize your next design. Click here for more &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/chalk_talks/ecav-electric-commercial-agricultural-vehicles-onsemi-and-mouser-electronics/\">Read More &#8594;<span class=\"screen-reader-text\"> \"eCAV: Electric Commercial Agricultural Vehicles &#8212; onsemi and Mouser Electronics\"</span></a>"
-  },
-  {
-    "title": "TDK acquires assets from OQmented to advance AR display technologies",
-    "source": "EE Journal",
-    "date": "2026-08-24",
-    "url": "https://www.eejournal.com/industry_news/tdk-acquires-assets-from-oqmented-to-advance-ar-display-technologies/",
-    "summary": "&#8211; TDK acquired assets from OQmented to strengthen AR display technology portfolio. &#8211; The acquisition adds valuable IP, engineering expertise, and MEMS-based laser beam scanning technology. &#8211; Purchase supports TDK’s strategy to develop advanced, vertically integrated display solutions for future smart glasses, combining TDK’s eye intent technology, Full-color Laser Module (FCLM), MEMS mirror, and other &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/tdk-acquires-assets-from-oqmented-to-advance-ar-display-technologies/\">Read More &#8594;<span class=\"screen-reader-text\"> \"TDK acquires assets from OQmented to advance AR display technologies\"</span></a>"
-  },
-  {
-    "title": "New Xteink X3 eReader Launch Offers a Distraction-Free Solution for All Book Lovers",
-    "source": "EE Journal",
-    "date": "2026-08-24",
-    "url": "https://www.eejournal.com/industry_news/new-xteink-x3-ereader-launch-offers-a-distraction-free-solution-for-all-book-lovers/",
-    "summary": "Millions of people love to read. Being able to pick up a book and fall into a story of unrequited love or fantasy realms is a wonderful break from the hustle and bustle of daily living. The trouble is, not everyone can fit a library of books in their backpack. That is, until products like &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/new-xteink-x3-ereader-launch-offers-a-distraction-free-solution-for-all-book-lovers/\">Read More &#8594;<span class=\"screen-reader-text\"> \"New Xteink X3 eReader Launch Offers a Distraction-Free Solution for All Book Lovers\"</span></a>"
   },
   {
     "title": "Rockchip RV1126B-based Forlinx FCU3101 fanless edge AI system targets IIoT and smart security applications",
