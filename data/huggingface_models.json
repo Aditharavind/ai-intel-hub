@@ -1,5 +1,14 @@
 [
   {
+    "model": "RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_groot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_groot",
+    "date": "2026-08-26",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "milab-robot/alm1-0731-milab.NESW",
     "downloads": 0,
     "likes": 0,
@@ -24,6 +33,24 @@
     "url": "https://huggingface.co/sun-robot/pi05_amazinghand_color_sort_v2",
     "date": "2026-08-26",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
+    "date": "2026-08-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
+    "date": "2026-08-26",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -54,21 +81,12 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
+    "model": "jayp132/beanbag-discrimination-policy-v2",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
+    "url": "https://huggingface.co/jayp132/beanbag-discrimination-policy-v2",
     "date": "2026-08-26",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
-    "date": "2026-08-26",
-    "keyword": "vla",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -166,15 +184,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/robotcpp/starvla-qwen3-groot-bridge-bf16",
-    "date": "2026-08-25",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "robotcpp/starvla-qwen3-oft-bridge-bf16",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/robotcpp/starvla-qwen3-oft-bridge-bf16",
     "date": "2026-08-25",
     "keyword": "robot",
     "score": 0.1
@@ -364,15 +373,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/jayp132/beanbag-discrimination-policy-clean",
-    "date": "2026-08-25",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Chaenn/smolvla_policy_so101_cube_multitask_sim_ft_real_0826",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Chaenn/smolvla_policy_so101_cube_multitask_sim_ft_real_0826",
     "date": "2026-08-25",
     "keyword": "policy",
     "score": 0.1
