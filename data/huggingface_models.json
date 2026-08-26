@@ -1,11 +1,29 @@
 [
   {
+    "model": "openEuler/IB_Robot_ACT_banana_pick_distill",
+    "downloads": 28,
+    "likes": 0,
+    "url": "https://huggingface.co/openEuler/IB_Robot_ACT_banana_pick_distill",
+    "date": "2026-08-26",
+    "keyword": "robot",
+    "score": 8.5
+  },
+  {
     "model": "sun-robot/pi05_amazinghand_color_sort_v2",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sun-robot/pi05_amazinghand_color_sort_v2",
     "date": "2026-08-26",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0",
+    "date": "2026-08-26",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -45,12 +63,12 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0",
+    "model": "yangsamy/yangsamy_pi0_policy2",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0",
+    "url": "https://huggingface.co/yangsamy/yangsamy_pi0_policy2",
     "date": "2026-08-26",
-    "keyword": "vla",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -151,15 +169,6 @@
     "date": "2026-08-25",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "hvsr-robotics/wojtek-quiet-locomotion",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/hvsr-robotics/wojtek-quiet-locomotion",
-    "date": "2026-08-25",
-    "keyword": "robotics",
-    "score": 0.3
   },
   {
     "model": "abhishekkaushik/dual-system-vla-libero",
@@ -369,13 +378,13 @@
     "score": 0.1
   },
   {
-    "model": "Mye0n9/cskd-core-h1-h2-on_policy",
+    "model": "hvsr-robotics/wojtek-quiet-locomotion",
     "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Mye0n9/cskd-core-h1-h2-on_policy",
+    "likes": 1,
+    "url": "https://huggingface.co/hvsr-robotics/wojtek-quiet-locomotion",
     "date": "2026-08-25",
-    "keyword": "policy",
-    "score": 0.1
+    "keyword": "robotics",
+    "score": 0.3
   },
   {
     "model": "D-Robotics/LocateAnything-3B-BPU-Balance",

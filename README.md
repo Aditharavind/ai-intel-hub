@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-26 02:16 UTC
+Last Updated: 2026-08-26 03:42 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -50,6 +50,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-08-26 | Cheap AI Token Resellers: The Secret Ingredient is Fraud | Hackaday | [link](https://hackaday.com/2026/08/25/cheap-ai-token-resellers-the-secret-ingredient-is-fraud/) |
+| 2026-08-26 | Top Ten Semiconductor Companies in Q2 | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-semiconductor-companies-in-q2-2026-08/) |
 | 2026-08-25 | Reject Fluid Simulations, Return To Rheoscopic Fluid | Hackaday | [link](https://hackaday.com/2026/08/25/reject-fluid-simulations-return-to-rheoscopic-fluid/) |
 | 2026-08-25 | Native SMB3 Client Brings Modern NAS Access To 20-Year-Old PowerPC Macs | Hackaday | [link](https://hackaday.com/2026/08/25/native-smb3-client-brings-modern-nas-access-to-20-year-old-powerpc-macs/) |
 | 2026-08-25 | AI Book Scanning: Just What Is A Rare Book? | Hackaday | [link](https://hackaday.com/2026/08/25/ai-book-scanning-just-what-is-a-rare-book/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | Quest VR Headset Becomes Unlocked Hardware | Hackaday | [link](https://hackaday.com/2026/08/25/quest-vr-headset-becomes-unlocked-hardware/) |
 | 2026-08-25 | Lantronix Open-M 720G/520G – Ultra-compact LGA system-on-modules based on MediaTek Genio 720 and Genio 520 SoCs | CNX Software | [link](https://www.cnx-software.com/2026/08/26/lantronix-open-m-720g-520g-ultra-compact-lga-system-on-module-based-on-mediatek-genio-720-and-genio-520-socs/) |
 | 2026-08-25 | $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU | CNX Software | [link](https://www.cnx-software.com/2026/08/25/299-arduino-ventuno-q-sbc-combines-qualcomm-dragonwing-iq8-soc-and-stm32h5-mcu/) |
-| 2026-08-25 | Firehat is an open-source FireWire DV capture HAT for SBCs with Raspberry Pi PCIe FFC connector (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/08/25/firehat-open-source-firewire-dv-capture-hat-pcie-sbc-raspberry-pi-5-radxa-rock-2f/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | openEuler/IB_Robot_ACT_banana_pick_distill | 28 | 0 | [link](https://huggingface.co/openEuler/IB_Robot_ACT_banana_pick_distill) |
 | 2026-08-26 | sun-robot/pi05_amazinghand_color_sort_v2 | 0 | 0 | [link](https://huggingface.co/sun-robot/pi05_amazinghand_color_sort_v2) |
+| 2026-08-26 | sam-guided-vlas/train_1_2_pile__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0) |
 | 2026-08-26 | sam-guided-vlas/train_1_2_pile__bbox__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__bbox__blur__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-26 | LejuRobotics/LET-KUAVO-VLA-1.0-models | 0 | 0 | [link](https://huggingface.co/LejuRobotics/LET-KUAVO-VLA-1.0-models) |
 | 2026-08-26 | sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__agentview_camera__static__pi05__seed_0) |
 | 2026-08-26 | sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0) |
-| 2026-08-26 | sam-guided-vlas/train_1_2_pile__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0) |
+| 2026-08-26 | yangsamy/yangsamy_pi0_policy2 | 0 | 0 | [link](https://huggingface.co/yangsamy/yangsamy_pi0_policy2) |
 | 2026-08-26 | justinchuby/act-aloha-policy-onnx-catalogue | 0 | 0 | [link](https://huggingface.co/justinchuby/act-aloha-policy-onnx-catalogue) |
 | 2026-08-25 | milab-robot/alm1-0731-milab.NESW | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.NESW) |
-| 2026-08-25 | logits/sana_rwm_policy_from_pretrained_robotwin_epoch1_step21500 | 0 | 0 | [link](https://huggingface.co/logits/sana_rwm_policy_from_pretrained_robotwin_epoch1_step21500) |
-| 2026-08-25 | blair129/robot_learning_tutorial_act | 0 | 0 | [link](https://huggingface.co/blair129/robot_learning_tutorial_act) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 63497 | Python | 25398.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63498 | Python | 25399.3 | [link](https://github.com/commaai/openpilot) |
 | google-deepmind/mujoco | 14668 | C++ | 5867.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 13895 | Python | 5558.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 13899 | Python | 5559.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | dora-rs/dora | 3899 | Rust | 1559.7 | [link](https://github.com/dora-rs/dora) |
-| sou350121/VLA-Handbook | 543 | HTML | 217.3 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 6332 | Python | 2532.9 | [link](https://github.com/vllm-project/vllm-omni) |
-| isaac-sim/IsaacLab | 7962 | Python | 3184.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| sou350121/VLA-Handbook | 544 | HTML | 217.7 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 6338 | Python | 2535.3 | [link](https://github.com/vllm-project/vllm-omni) |
+| isaac-sim/IsaacLab | 7961 | Python | 3184.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| DexForce/EmbodiChain | 212 | Python | 84.9 | [link](https://github.com/DexForce/EmbodiChain) |
 | Hebbian-Robotics/hflow | 146 | Python | 58.5 | [link](https://github.com/Hebbian-Robotics/hflow) |
-| NVIDIA/skills | 3105 | Python | 1242.1 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1465 | Rust | 586.1 | [link](https://github.com/copper-project/copper-rs) |
+| NVIDIA/skills | 3106 | Python | 1242.5 | [link](https://github.com/NVIDIA/skills) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -121,8 +121,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-26 | ATINUM Investment announced on the 26th that it held a "KDB Next Round – Physical AI" event with the.. - 매일경제 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RWW9aOUl4Q2pqcUJoQ1RibFktSXR2bHNYb1hxZVF0SnNhR2x6c3BLalJoZkQ4ZFFrZFlycjZ2ejQxQlVKLWFYSFVycw?oc=5) |
 | 2026-08-25 | Physical AI startup Antioch files to raise $32M - Axios | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaE4waTJoaVgyQjUza3dndlZnV3J1U1lwSDNBay1LUlhnblEzek43cHdSc1dRVWtOUXhaZ3Q1TmNVNUc1eHlrcjhubV9xbElOLVdMMmNxdEg2cHZMempJeWdxeWU5QkhDT1BMWWl0bmtqM3VPdUNldkNObWxfZUpRTzFlZ0NrWUoyNVZlOWxuR1Q0bms5ZXhKcA?oc=5) |
-| 2026-08-25 | NEC CVC fund invests in US humanoid robot and Physical AI startup - Telecompaper | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNckpiU0xUckpFWUFySHVYT2M5Z2VsYlBVRXN2bzd6amdOOUtYaEdqWGhacDEwSXVDSDFZNWt3NllEWENFMGxYbkxCZjA5akxKTm5hdmVxb0gxdlNCVjVjU08tODVjSlhKQ1pQQnJEdlM4QWhCOTJjeGJXM3RQVEdLdWRaQkNkbXljcTlHd1NmUC13X1dXWFU4ZXRWTUIxUFh1ZlVocngxc3VnT2E4?oc=5) |
 | 2026-08-25 | NEC fund invests in California robot startup Dexmate, maker of VEGA - International Business Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxOcVc1WmpxdFFlRVZ3YUNlZFVPQkxHRjIydlBxWFljMFdkLURDWUVSZzNmVjVvNkdxeFBfOFRmNjVhaU9rTTNoaEpSRUpibWN3dTdNWnY1R2ExSkhZV3pLWE42dl9TZk9abGI3RkNSRnR4bmJOVXlvckYyMmUzbVFtSC1MNTJQSlVncUhHZ0tibHNxRXZR?oc=5) |
+| 2026-08-25 | NEC CVC fund invests in US humanoid robot and Physical AI startup - Telecompaper | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNckpiU0xUckpFWUFySHVYT2M5Z2VsYlBVRXN2bzd6amdOOUtYaEdqWGhacDEwSXVDSDFZNWt3NllEWENFMGxYbkxCZjA5akxKTm5hdmVxb0gxdlNCVjVjU08tODVjSlhKQ1pQQnJEdlM4QWhCOTJjeGJXM3RQVEdLdWRaQkNkbXljcTlHd1NmUC13X1dXWFU4ZXRWTUIxUFh1ZlVocngxc3VnT2E4?oc=5) |
 | 2026-08-25 | NEC Orchestrating Future Fund Invests in U.S.-based Humanoid Robot & Physical AI Developer Dexmate - AI Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxQVjJyTVlrdHN2TkdoNFNSYmFUVy1Gd2JSSlZUMEVUbUFTUjlsUm5sN2kwRC1hM0NLcUctRkxZMXZqU1RWQllOa2JtSWp2NG8xbW9hRVkwYm5jM2ZyZ0JxTm85MDF5TVFQWXRXMVV4MG1iMXlxM04yUDlMTWJybzlZbkNaUnJyOWtUNmw2NFk4WXU1VjlQTzdUY2pQSzExVk84WHFtRHBNNVNlSThPbUlOWUpQcjQ4a2VpMkd1bUQ3UmlqYzhUeEVWMUl1T1NpQQ?oc=5) |
 | 2026-08-25 | NEC invests in US-based robotics startup Dexmate - Robotics & Automation News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOak5OZVJ6bGxrSmV1QXN3S0lfTjlDV3JtZjZSQUdrYzk1d0hnMlNMaGI3TkNER2tCRlhOUk5rckRXam1TY0p3Z2ladFZiQ3FVUndvZV9UZjF3NWx3anhmNEkwSjNWNUhrcDdQZlpPd1gwWnZKdnIxOFZvblRsY2dzTEdwVzBZWGtBRFd4aXBpUmNoeEZERVhPU0RVSllmNWpYQ0FDOGpvNjM?oc=5) |
 | 2026-08-25 | NEC's venture fund backs US humanoid robot startup Dexmate - Dealroom | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXdtVkJvanJOQjBYcktsSHNDZG92a3hzeThXQ0NhdjdRSkdoOWYxM2VPSGxQM2RPZFI5Qkh2SHNLLVdaT0pXdGYyTDJuNC1TU0J3bUh5aXMweU03XzQ1M1p1RmZpNmVUbDR4NWtFbHJCWE5MaFc2bWVXLW1YSS1lZjMtQmxUS0FPd2kzbk0wZnd6dmVjXzZN?oc=5) |
