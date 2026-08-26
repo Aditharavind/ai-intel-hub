@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hackaday Europe 2026: PCBs With A Plot",
+    "source": "Hackaday",
+    "date": "2026-08-26",
+    "url": "https://hackaday.com/2026/08/26/hackaday-europe-2026-pcbs-with-a-plot/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/hackaday-europe-2026-katrin-dietzsch-pcbs-with-a-plot-mp4-shot0002.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Printed circuit boards were developed first for function over form. They were a way to mount components and connect them in a stable, robust fashion, while taking into regard things <a class=\"read-more\" href=\"https://hackaday.com/2026/08/26/hackaday-europe-2026-pcbs-with-a-plot/\">&#8230;read more</a>"
+  },
+  {
     "title": "Claude Plays DOOM",
     "source": "Hackaday",
     "date": "2026-08-26",
@@ -26,6 +33,13 @@
     "date": "2026-08-26",
     "url": "https://hackaday.com/2026/08/25/cheap-ai-token-resellers-the-secret-ingredient-is-fraud/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2019/03/botnet.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Matt Lenhard] has an interesting writeup explaining exactly how fraudsters offer access to cutting-edge AI models at a tenth of the price. Perhaps unsurprisingly, the secret is to get tokens <a class=\"read-more\" href=\"https://hackaday.com/2026/08/25/cheap-ai-token-resellers-the-secret-ingredient-is-fraud/\">&#8230;read more</a>"
+  },
+  {
+    "title": "HomeMaster MiniPLC – An ESP32 DIN-rail PLC controller for Home Assistant",
+    "source": "CNX Software",
+    "date": "2026-08-26",
+    "url": "https://www.cnx-software.com/2026/08/26/homemaster-miniplc-an-esp32-din-rail-plc-controller-for-home-assistant/",
+    "summary": "<div><img alt=\"MiniPLC — ESP32 DIN Rail PLC for Home Assistant\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/MiniPLC-—-ESP32-DIN-Rail-PLC-for-Home-Assistant-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The HomeMaster MiniPLC is an ESP32 PLC controller in a compact DIN-rail form factor with ESPHome pre-installed for Home Assistant integration, and designed for residential and light industrial automation. The device features relay outputs, four isolated 24V digital inputs, 0–10V analog inputs, one 0–10V analog output, PT100/PT1000 RTD channels, 1-Wire buses, and an RS-485 Modbus RTU interface. It also includes a 128 × 64 OLED display, four buttons, 12 LEDs, a buzzer, RTC, microSD slot, and optional 10/100Mbps Ethernet, with support for 24 V DC or 85–265 V AC power. HomeMaster MiniPLC specifications: Wireless Module  – ESP32-WROOM-32D-N16 (soldered on the backside of the PCB) SoC –  ESP32 dual-core wireless microcontroller CPU – Dual-core Xtensa 32-bit microprocessor @ 240MHz Memory –  520KB internal SRAM Storage – 16 MB flash Wireless – Wi-Fi 802.11b/g/n, and Bluetooth (4.2 and BLE) External Wi-Fi antenna (SMA) Storage – MicroSD card slot Display – 128 × 64 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/26/homemaster-miniplc-an-esp32-din-rail-plc-controller-for-home-assistant/\">HomeMaster MiniPLC &#8211; An ESP32 DIN-rail PLC controller for Home Assistant</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Banana Pi BPI-AI2N – A Renesas RZ/V2N-based SoM and carrier board for Vision AI applications",
@@ -112,6 +126,41 @@
     "summary": "<p>NVIDIA USA $125.7 Billion AI GPUs &#38; Data Center Accelerators Samsung Electronics South Korea $72.7 Billion (Memory/DS Division) DRAM, NAND Flash, &#38; Logic Chips TSMC Taiwan $69.3 Billion (Pure Foundry [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-semiconductor-companies-in-q2-2026-08/\">Top Ten Semiconductor Companies in Q2</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "MIT engineers design a more intuitive controller for operating construction diggers",
+    "source": "Adafruit",
+    "date": "2026-08-26",
+    "url": "https://blog.adafruit.com/2026/08/26/mit-engineers-design-a-more-intuitive-controller-for-operating-construction-diggers/",
+    "summary": "Anyone who’s ever wrestled with a claw machine at an arcade can appreciate the difficulty in pulling and pushing on joysticks, in just the right way, to get a mechanical arm to scoop up that one special toy. In fact, the mechanics of a claw machine are broadly similar to driving an excavator: An operator [&#8230;]"
+  },
+  {
+    "title": "Digg v4 and lessons not learned",
+    "source": "Adafruit",
+    "date": "2026-08-26",
+    "url": "https://blog.adafruit.com/2026/08/26/digg-v4-and-lessons-not-learned/",
+    "summary": "Digg basically became a front page for Reddit as it circled the drain Digg was a high flying news aggregation site from the early web 2.0 era that still exists today, but really in name only. It serves as a cautionary too for why high profile websites tend not to make major changes overnight. A [&#8230;]"
+  },
+  {
+    "title": "Making an Air Powered Dot Display",
+    "source": "Adafruit",
+    "date": "2026-08-26",
+    "url": "https://blog.adafruit.com/2026/08/26/making-an-air-powered-dot-display/",
+    "summary": "It took me longer than I&#8217;d like to admit to visualize what the title of soiboi soft&#8217;s video meant &#8211; I clearly haven&#8217;t seen the previous videos in this series. Don&#8217;t worry if you&#8217;re in the same boat, clicking play will show you exactly how this delightfully tactile 8&#215;8 dot matrix was made. We have&#8230; [&#8230;]"
+  },
+  {
+    "title": "A Colecovision emulator running on the Adafruit Fruit Jam",
+    "source": "Adafruit",
+    "date": "2026-08-26",
+    "url": "https://blog.adafruit.com/2026/08/26/a-colecovision-emulator-running-on-the-adafruit-fruit-jam/",
+    "summary": "Dan The Geek has created ColecoJam, a Colecovision emulator running on the Adafruit Fruit Jam. The ColecoVision was a second-generation home video game console released by Coleco Industries in 1982. It became one of the most successful competitors to the Atari 2600 and is remembered for bringing surprisingly arcade-like graphics and gameplay into the home [&#8230;]"
+  },
+  {
+    "title": "Claude Sonnet plays DOOM on an ESP32-P4",
+    "source": "Adafruit",
+    "date": "2026-08-26",
+    "url": "https://blog.adafruit.com/2026/08/26/claude-sonnet-plays-doom-on-an-esp32-p4/",
+    "summary": "Andrea Ricci ported DOOM to SCINTIX P4 (an ESP32-P4 + ESP32-C6 module in the Raspberry Pi CM4/CM5 form factor) and then let Claude Sonnet play it. The game runs on a 1024×600 MIPI-DSI panel, hardware-scaled to 30 FPS by the P4&#8217;s PPA. A small WebSocket &#8220;lockstep&#8221; API + an MCP server expose the running game [&#8230;]"
+  },
+  {
     "title": "JP’s Product Pick of the Week 8/25/26",
     "source": "Adafruit",
     "date": "2026-08-26",
@@ -138,13 +187,6 @@
     "date": "2026-08-25",
     "url": "https://hackaday.com/2026/08/25/native-smb3-client-brings-modern-nas-access-to-20-year-old-powerpc-macs/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2020/06/apple-hardware-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As software updates cease for operating systems, they eventually begin to lose access to parts of the LAN and internet due to out of date encryption features, as well as <a class=\"read-more\" href=\"https://hackaday.com/2026/08/25/native-smb3-client-brings-modern-nas-access-to-20-year-old-powerpc-macs/\">&#8230;read more</a>"
-  },
-  {
-    "title": "AI Book Scanning: Just What Is A Rare Book?",
-    "source": "Hackaday",
-    "date": "2026-08-25",
-    "url": "https://hackaday.com/2026/08/25/ai-book-scanning-just-what-is-a-rare-book/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/rare-book-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One of the stories of the last few weeks has been that AI companies have been scanning books in very large numbers in order to train their models with content <a class=\"read-more\" href=\"https://hackaday.com/2026/08/25/ai-book-scanning-just-what-is-a-rare-book/\">&#8230;read more</a>"
   },
   {
     "title": "Lantronix Open-M 720G/520G – Ultra-compact LGA system-on-modules based on MediaTek Genio 720 and Genio 520 SoCs",
@@ -229,41 +271,6 @@
     "date": "2026-08-25",
     "url": "https://blog.adafruit.com/2026/08/25/libtmt-a-simple-terminal-emulation-library/",
     "summary": "libtmt is Rob King&#8217;s Tiny Mock Terminal Library. It provides emulation of a classic smart text terminal, by maintaining an in-memory screen image. Sending text and command sequences to libtmt causes it to update this in-memory image, which can then be examined and rendered however the user sees fit. The imagined primary goal for libtmt [&#8230;]"
-  },
-  {
-    "title": "DuckDuckGo survey highlights how much personal information users share with AI",
-    "source": "Adafruit",
-    "date": "2026-08-25",
-    "url": "https://blog.adafruit.com/2026/08/25/duckduckgo-survey-highlights-how-much-personal-information-users-share-with-ai/",
-    "summary": "Private search company DuckDuckGo has released a new survey highlighting just how much personal information people are sharing with AI chatbots, and how little many understand about what happens to those conversations. Here are the details. DuckDuckGo highlights several privacy-related aspects around how people use AI chatbots, including the fact that nearly one in three [&#8230;]"
-  },
-  {
-    "title": "The Art and Beauty of Blade Runner  #ArtTuesday",
-    "source": "Adafruit",
-    "date": "2026-08-25",
-    "url": "https://blog.adafruit.com/2026/08/25/the-art-and-beauty-of-blade-runner/",
-    "summary": "T.R. Napper&#8217;s popular article on the art and beauty of Blade Runner is a classic. Currently 404 on the official site, it is still available on the Internet Archive Wayback Machine. Blade Runner is one of the most visually haunting and memorable movies in the history of cinema. It has inspired art, and is a [&#8230;]"
-  },
-  {
-    "title": "World Humanoid Robot Games",
-    "source": "Adafruit",
-    "date": "2026-08-25",
-    "url": "https://blog.adafruit.com/2026/08/25/world-humanoid-robot-games/",
-    "summary": "Are you following the action sports of the World Humanoid Robot Games. Coming out of Beijing for the second year in a row, the events set humanoid robots into human-like events. Sometimes comical and sometimes frightening, the 2,000 robots competing from 16 countries are breaking records. The Tiangong Ultra ran the 100 meter in 8.86 [&#8230;]"
-  },
-  {
-    "title": "How Europe is killing makers and micro-entrepreneurs",
-    "source": "Adafruit",
-    "date": "2026-08-25",
-    "url": "https://blog.adafruit.com/2026/08/25/how-europe-is-killing-makers-and-micro-entrepreneurs/",
-    "summary": "European Union&#8217;s new packaging rules threaten to kill the world of makers and micro-entrepreneurs, putting jobs, livelihoods and an entire ecosystem of innovation at risk. Lectronz is a marketplace for open-source hardware makers and DIY electronics. Most of their sellers are not factories or well-funded startups. They are engineers, independent designers, and hardware enthusiasts working [&#8230;]"
-  },
-  {
-    "title": "JP’s Product Pick of the Week — New Earlier Time!! 3pm Eastern TODAY 8/25/26 and Beyond! @adafruit #adafruit #newproductpick",
-    "source": "Adafruit",
-    "date": "2026-08-25",
-    "url": "https://blog.adafruit.com/2026/08/25/jps-product-pick-of-the-week-new-earlier-time-3pm-eastern-today-8-25-26-and-beyond-adafruit-adafruit-newproductpick/",
-    "summary": "Product Picks come earlier now! One hour earlier in fact. Come on by for JP&#8217;s Product Pick of The Week ! A new product pick will be revealed. The show airs at 3pm ET / 12pm PT We&#8217;re making changes to some show schedules at Adafruit, so this will be the new time slot for [&#8230;]"
   },
   {
     "title": "EX-i SFC3000 Flow Computer Brings Advanced Flow Measurement to Water and Energy Applications",
@@ -390,13 +397,6 @@
     "date": "2026-08-23",
     "url": "https://www.cnx-software.com/2026/08/23/framework-laptop-12-repairable-convertible-laptop-gets-wildcat-lake-motherboard-ships-with-fedora-44-or-windows-11/",
     "summary": "<div><img alt=\"Framework Laptop 12\" class=\"attachment-medium size-medium wp-post-image\" height=\"540\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Framework-Laptop-12-720x540.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>First introduced in 2025, the Framework Laptop 12 upgradable and repairable laptop has just gotten a new motherboard offered with a choice of Wildcat Lake (Intel Core Series 3) processors from the Core 3 304 up to the Core 7 350. The Wildcat Lake-based convertible Laptop 12 features a 12.2-inch display with 1920 x 1200 resolution, a SO-DIMM slot supporting up to 64GB DDR5, an M.2 2230 NVMe SSD slot, and high-speed connectivity with Thunderbolt 4, WiFi 7, and more. Framework Laptop 12 (Intel Core Series 3) specifications: Wildcat Lake SoC (one or the other) Intel Core 3 304 5-core CPU – 1x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) GPU – 1-core Intel Xe3 Graphics @ 2.3 GHz (9 TOPS) NPU – 15 TOPS Intel Core 5 320 6-core CPU – 2x P-cores @ 1.5/4.6 GHz (Turbo) + 4x LPE-cores @ 1.4/3.4 GHz (Turbo) [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/23/framework-laptop-12-repairable-convertible-laptop-gets-wildcat-lake-motherboard-ships-with-fedora-44-or-windows-11/\">Framework Laptop 12 repairable, convertible laptop gets Wildcat Lake motherboard, ships with Fedora 44 or Windows 11</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor",
-    "source": "CNX Software",
-    "date": "2026-08-22",
-    "url": "https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/",
-    "summary": "<div><img alt=\"ESP32-S31 Linux\" class=\"attachment-medium size-medium wp-post-image\" height=\"432\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/ESP32-S31-Linux-720x432.png\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The ESP32-S31 microprocessor is getting Linux support from Espressif Systems. The ESP32-S31 dual-core RISC-V microprocessor was first unveiled in March, two ESP32-S31 development boards followed in May, and mass production was announced a few weeks ago. The new RISC-V chip features an MMU (Memory Management Unit), which makes Linux much easier to handle, and the development boards also come with 16MB PSRAM, so a minimal Linux image is possible. Moving from theory to practice, Espressif Systems has now released a developer preview version of the ESP Linux BSP for ESP32-S31, and some community Linux ports are also in the works (more on that at the end of the article). Let&#8217;s focus on the official ESP Linux BSP. The aforementioned repo only contains the image layout and packaging tools used by the ESP32-S31 Buildroot integration, and the core of the project can be found in the esp-buildroot-external repo with ESP32-S31 NOR boot [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/\">Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Advanced RF Systems, Agilex FPGAs, a Neuromorphic Chip for AI Optical Inspection: Embedded Week Insights",
