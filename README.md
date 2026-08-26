@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-26 11:17 UTC
+Last Updated: 2026-08-26 12:21 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -54,11 +54,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-26 | Blow Those Pyros With A Telephone! | Hackaday | [link](https://hackaday.com/2026/08/25/blow-those-pyros-with-a-telephone/) |
 | 2026-08-26 | Cheap AI Token Resellers: The Secret Ingredient is Fraud | Hackaday | [link](https://hackaday.com/2026/08/25/cheap-ai-token-resellers-the-secret-ingredient-is-fraud/) |
 | 2026-08-26 | Banana Pi BPI-AI2N – A Renesas RZ/V2N-based SoM and carrier board for Vision AI applications | CNX Software | [link](https://www.cnx-software.com/2026/08/26/banana-pi-bpi-ai2n-a-renesas-rz-v2n-based-som-and-carrier-board-for-vision-ai-applications/) |
-| 2026-08-26 | Nvidia unleashes robotics computer set for entry level edge AI | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/bus-systems-sbcs/nvidia-unleashes-robotics-computer-set-for-entry-level-edge-ai-2026-08/) |
+| 2026-08-26 | F C Lane’s compact connectors target evolving drone market | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/connectors/f-c-lanes-compact-connectors-target-evolving-drone-market-2026-08/) |
+| 2026-08-26 | Nvidia unleashes robotics computer set for entry-level edge AI | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/bus-systems-sbcs/nvidia-unleashes-robotics-computer-set-for-entry-level-edge-ai-2026-08/) |
 | 2026-08-26 | Redwire launches Seeker navigation sensors and space cameras | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/sensors-products/redwire-launches-seeker-navigation-sensors-and-space-cameras-2026-08/) |
 | 2026-08-26 | SpaceX to build $100bn Starship launch site in Louisiana | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/spacex-to-build-starship-launch-site-in-louisiana-2026-08/) |
 | 2026-08-26 | BYD is BEV global leader with Tesla No.2 | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/byd-is-global-leader-in-bevs-with-tesla-no-2-2026-08/) |
-| 2026-08-26 | Si-Five’s Big Sky | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/si-fives-big-sky-2026-08/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | fionakcej/notes-robotics-vision-language | 0 | 0 | [link](https://huggingface.co/fionakcej/notes-robotics-vision-language) |
+| 2026-08-26 | jungwook2358/gr1-segpix-robotmask-promptv2-vla256-ckpt60000 | 0 | 0 | [link](https://huggingface.co/jungwook2358/gr1-segpix-robotmask-promptv2-vla256-ckpt60000) |
 | 2026-08-26 | Cclarkejames5/robotics-vision-language-study-2024 | 0 | 0 | [link](https://huggingface.co/Cclarkejames5/robotics-vision-language-study-2024) |
 | 2026-08-26 | rahulsharmaiah/robotics-vision-language-colab | 0 | 0 | [link](https://huggingface.co/rahulsharmaiah/robotics-vision-language-colab) |
 | 2026-08-26 | milab-robot/alm1-0731-milab.NESW | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.NESW) |
@@ -85,8 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-26 | kyledavis/robotics-vision-language-v3 | 0 | 0 | [link](https://huggingface.co/kyledavis/robotics-vision-language-v3) |
 | 2026-08-26 | Adityadas5350/review-robotics-vision-language33 | 0 | 0 | [link](https://huggingface.co/Adityadas5350/review-robotics-vision-language33) |
 | 2026-08-26 | RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_groot | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_groot) |
-| 2026-08-26 | openEuler/IB_Robot_ACT_banana_pick_distill | 28 | 0 | [link](https://huggingface.co/openEuler/IB_Robot_ACT_banana_pick_distill) |
-| 2026-08-26 | sun-robot/pi05_amazinghand_color_sort_v2 | 9 | 0 | [link](https://huggingface.co/sun-robot/pi05_amazinghand_color_sort_v2) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -94,13 +94,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Edgenesis/shifu | 1432 | Go | 572.9 | [link](https://github.com/Edgenesis/shifu) |
 | mosaico-labs/mosaico | 951 | Python | 380.5 | [link](https://github.com/mosaico-labs/mosaico) |
 | autonomous-ai/autonomous-os | 213 | Python | 85.3 | [link](https://github.com/autonomous-ai/autonomous-os) |
-| commaai/openpilot | 63501 | Python | 25400.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63503 | Python | 25401.3 | [link](https://github.com/commaai/openpilot) |
 | zauberzeug/nicegui | 16162 | Python | 6464.9 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15746 | C++ | 6298.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 15747 | C++ | 6298.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 14675 | C++ | 5870.1 | [link](https://github.com/google-deepmind/mujoco) |
 | earthtojake/text-to-cad | 13910 | Python | 5564.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11360 | Rust | 4544.1 | [link](https://github.com/rerun-io/rerun) |
-| kornia/kornia | 11326 | Python | 4530.5 | [link](https://github.com/kornia/kornia) |
+| kornia/kornia | 11327 | Python | 4530.9 | [link](https://github.com/kornia/kornia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -110,11 +110,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGRhNDZiQ3o1VTRUTzJELTV5SkZ6U202dVlhYVFWZUF2UmRrbVdMUGd5Z0dGa0VPRjBUNWFqVmtqWkVGYmhIU0NzbGlGUHlfY0xhOVVhT3pHc2wtMVJsVk1Ha2JzRUxwazFBNlk1cDN6TWR6MW1odTdTN0djQXdWWkZMMEM5bVl1RVpCdkFab2I0VWI2LU1wNE4ySTIzTkVpT0REVzBNaEE1c3g4RUE?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWi0xVVZXSXFwSXhIbUVLVnJTXzFnMmdrRlo0YTR6Z18yYXNCbm5RYkFwam1hWVVQVXB2MlBkb29mY3lfNFk2dGliZnc3bW5DM3ZvZ0xuUlJITHNFS2lhY0hJXzhCY0J2UXJvaGFzTGpvSHUtY2hfUWExdjg1cG01WENab2plQ2VLTnVvVGpOamIyV3owd19mcW9RNDhIaGpCWWJLMnN5MEltSGZpREQyR0FsTzZWc3NVREhPNTY5cG5iVWRuVzEwVDc1MEFnLWln?oc=5) |
 | 2026-08-24 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlROdnFoR0Q2ZXkxS21CbHZCTktXYmRXS25xaFFHLVJSYktBLXRVVk13Tk5xTi12NjhwaXIxcGpacTJoSU9kZVZvMk5pajNscDFGTk9yNTdqSEVxU0dPTkxTcUVBRWg4SW1BQm9WTTdodmlOZk1zTDlLdDNVRWxaVHdPdldoM21sZHp0d3lDNnExbmxmamt2bnh1M3llQXN2RVlHOXVxYWR6MXV3T2VqVTQwdEVRSGs?oc=5) |
-| 2026-08-24 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9PcW5tZHFHSF9UU0FwNGRLZHAxY2lVOG9CMzRxdnhXMldwcTFBcU5qZk1JdDFmREpYU3BZWWI2dEhRRld4cHpKTUcwbWhOakR2U0dwQ2h6WnlrSzFEdlJvNzVpWTJxU0JPNDhGUmxkUXY0WlNNWHc?oc=5) |
 | 2026-08-22 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzdQNU5NQnZJRU5JeS1DWFdVcDFqVVp4VlhMTXNxaUVadTJ2WXJPWWJmdXJBYW0xZkY4VnBQaUpWWnlHdVBJTkI3S21sUXE4NkQ1dVUybVUwb3E3ZjhPR3c5TXZrQVcyTWpjX0w0elE0SnJ4SlQ2cFRFQkJWRElFSk1PUXhhM21GYkZ2RlJwRGFFSllZQXJZ?oc=5) |
 | 2026-08-20 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhLOS1OTWxZdzBsWFYxXzBybFo0dU1LdTVLLTgzWEtlNDlMRm1uRjQ0R3lSOWpna0dkanhMR0dGV0RVOUVzRFZWbFZJejNMWEQ5NXRKaFc5MTVrN3ZIdnpmQ1p5UUVrV3lOMUI0X0ktTjQ0MEM1bTFzaXg3d1dBT1NXY2FmZkRnRW03ZUo4VEx3cFU3SVVFdVQzZUtVSWpWZlFYM0diQi1Wb1lJVGZn?oc=5) |
 | 2026-08-19 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1hiM1VrQ3VmZkp3TWRpaXpqVW93ZW9qN3NRdFJWcEdOZU9jTnFvb25ZY3BoVkhIMVo3NjZXYkxEbnlHU0stS1lsM042aWhvR0JNR0Z4RDV5c1hJWnprNmhzalRSUEdJSG5xdmtQWV9TcU5DV3ZHeXdoWkVuc01hMFA0d0ZZaW5EeVFFdlJ1OWd2UUlsNkt4RHVrdmxJYjJzelVjTE05eGtxV0RQcmpmdzdtX1NqZw?oc=5) |
 | 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDJ3RXRVazJTNjZVUDg5SjZwWk5YdS13Snd5MVlwUnV5MVpsLWxBUjcyZ0dWcXVmQ3hQUFgzZ2RQbk5WUkVTUjV6UnRGZ0JpTU9lTU4zbFVSUG5wQjlDN3JvSDBpNFBYYzhQWkdGS3MyMHJ1bG9ab09GdUE0MDRINWhseDd3emZzWDNNM0JwUHVJTmFZX3N2d3k4M2Z4eU9IaHdrLU1MRllfYk83WkM5UWNLbVMxdVVXVjRGd2UwUQ?oc=5) |
+| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVVGZ3Q4aW0tRF9FZm9UN04xSlNudWRHcVFVX3ljNTJ1YlBfcF9RQ3hTSW5zQkpSZWJHeEpramdGX0VZcGFXWTlPYWczQlg3anhtSHJFbGJCVzU3dFlYSy1LX0hOc3FjUUtNUWxKbnR1Ty1PbnZaM3BTSjc0TVJlQWtGb05mbFJuZ2o2T2FvVDlzRm5UMG4zUWpTZm41ZDVtcmZtLXYtWUZCbzFFSU9Sb1dzbTFraEZUSDVsZXpsN3ZzREHSAcMBQVVfeXFMT0Y4bkNZdW9FdEJQYy0tRlplcGVzYjNfd0J0RjVjS2N5X0NFMVBuWmwxemNDaHpmdXlCdWx3TzNWVENSN2E5eUNibHB5aFkxMGxLdGRTS1JkWXdOZ1lvZjNpWDliS0FlaXJRcF8xWUlYQTlUa0d4MUlaRHRaQnhRNlYtZHhlTDFURGRXbERBTklJYndjalFrRXZibjFYUzl4eURXeno3dkVkZWFWMGVtTnRaNnA5UGJueWZDbUxYWWVPU1FV?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
