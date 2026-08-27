@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-26 21:20 UTC
+Last Updated: 2026-08-27 02:17 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,68 +49,68 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-27 | Sloan Digital Sky Survey Releases New Map of Supermassive Black Holes | Hackaday | [link](https://hackaday.com/2026/08/26/sloan-digital-sky-survey-releases-new-map-of-supermassive-black-holes/) |
+| 2026-08-27 | Humanoid Robot Investment Is Booming | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/start-ups/humanoid-robot-investment-is-booming-2026-08/) |
+| 2026-08-26 | Making An LCD UI Look More Like Classic Indicator Lamps | Hackaday | [link](https://hackaday.com/2026/08/26/making-an-lcd-ui-look-more-like-classic-indicator-lamps/) |
 | 2026-08-26 | Emulating the iPod | Hackaday | [link](https://hackaday.com/2026/08/26/emulating-the-ipod/) |
 | 2026-08-26 | FLOSS Weekly Episode 879: Easy Like Butter | Hackaday | [link](https://hackaday.com/2026/08/26/floss-weekly-episode-879-easy-like-butter/) |
 | 2026-08-26 | How Packaging Can Kill An Electronics Microbusiness | Hackaday | [link](https://hackaday.com/2026/08/26/how-packaging-can-kill-an-electronics-microbusiness/) |
 | 2026-08-26 | Hackaday Europe 2026: PCBs With A Plot | Hackaday | [link](https://hackaday.com/2026/08/26/hackaday-europe-2026-pcbs-with-a-plot/) |
 | 2026-08-26 | Claude Plays DOOM | Hackaday | [link](https://hackaday.com/2026/08/26/claude-plays-doom/) |
-| 2026-08-26 | New Controller Makes Heavy Machinery Intuitive | Hackaday | [link](https://hackaday.com/2026/08/26/new-controller-makes-heavy-machinery-intuitive/) |
-| 2026-08-26 | Blow Those Pyros With A Telephone! | Hackaday | [link](https://hackaday.com/2026/08/25/blow-those-pyros-with-a-telephone/) |
 | 2026-08-26 | HomeMaster MiniPLC – An ESP32 DIN-rail PLC controller for Home Assistant | CNX Software | [link](https://www.cnx-software.com/2026/08/26/homemaster-miniplc-an-esp32-din-rail-plc-controller-for-home-assistant/) |
 | 2026-08-26 | Banana Pi BPI-AI2N – A Renesas RZ/V2N-based SoM and carrier board for Vision AI applications | CNX Software | [link](https://www.cnx-software.com/2026/08/26/banana-pi-bpi-ai2n-a-renesas-rz-v2n-based-som-and-carrier-board-for-vision-ai-applications/) |
-| 2026-08-26 | Altera Expands Agilex 9 Direct RF FPGA Ecosystem for Defense | Embedded.com | [link](https://www.embedded.com/altera-expands-agilex-9-direct-rf-fpga-ecosystem-for-defense/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-08-25 | Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning | [link](https://arxiv.org/pdf/2608.24885v1) |
-| 2026-08-25 | Latent Action as Intention Enables Efficient Future Imagination for World Action Models | [link](https://arxiv.org/pdf/2608.24882v1) |
-| 2026-08-25 | LeFlow: Generative Latent Flow Planning for World Models | [link](https://arxiv.org/pdf/2608.24855v1) |
-| 2026-08-25 | $(\text{DNN})^2$: Doubly Non-Negative Relaxations for Deep Neural Networks | [link](https://arxiv.org/pdf/2608.24743v1) |
-| 2026-08-25 | One-Shot Learning from Demonstration of Contact-Rich Robotic Manipulation by Identifying Physical Interactions | [link](https://arxiv.org/pdf/2608.24741v1) |
-| 2026-08-25 | Parameter-Efficient Self-Supervised Adaptation for EEG-FM under Fixed Computational Budgets | [link](https://arxiv.org/pdf/2608.24727v1) |
-| 2026-08-25 | Fiber Bragg Grating Whiskers for Bioinspired Hydrodynamic Perception on Underwater Robots | [link](https://arxiv.org/pdf/2608.24724v1) |
-| 2026-08-25 | GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models | [link](https://arxiv.org/pdf/2608.24714v1) |
-| 2026-08-25 | A Multimodal Foundation Model for Longitudinal Patient Representation and Scalable Insight Generation in Oncology | [link](https://arxiv.org/pdf/2608.24688v1) |
-| 2026-08-25 | Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training | [link](https://arxiv.org/pdf/2608.24680v1) |
+| 2026-08-26 | VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning | [link](https://arxiv.org/pdf/2608.26105v1) |
+| 2026-08-26 | Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization | [link](https://arxiv.org/pdf/2608.26103v1) |
+| 2026-08-26 | MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching | [link](https://arxiv.org/pdf/2608.26094v1) |
+| 2026-08-26 | Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders | [link](https://arxiv.org/pdf/2608.26090v1) |
+| 2026-08-26 | Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings | [link](https://arxiv.org/pdf/2608.26088v1) |
+| 2026-08-26 | Fast Generative Grasping via Lie Group-Constrained MeanFlow | [link](https://arxiv.org/pdf/2608.26076v1) |
+| 2026-08-26 | Gating Before Commitment: Anticipating Intent Divergence to Prevent Post-Interaction Decision Failures in Autonomous Driving | [link](https://arxiv.org/pdf/2608.26074v1) |
+| 2026-08-26 | StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models | [link](https://arxiv.org/pdf/2608.26067v1) |
+| 2026-08-26 | VirTooS: A ROS 2 - Unity Virtualization Toolkit for Fleet Management of Autonomous Mobile Robots | [link](https://arxiv.org/pdf/2608.26066v1) |
+| 2026-08-26 | Fine-Tuning Whisper for Automatic Speech Recognition in Baniwa: A Preliminary Study | [link](https://arxiv.org/pdf/2608.26060v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-08-26 | milab-robot/alm1-0731-milab.NESW | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.NESW) |
-| 2026-08-26 | polarisai-robots/bento_v2_openarm_pi05 | 65 | 0 | [link](https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05) |
-| 2026-08-26 | emmawilsonbeck/robotics-vision-language-rc135 | 0 | 0 | [link](https://huggingface.co/emmawilsonbeck/robotics-vision-language-rc135) |
-| 2026-08-26 | bhatr-eyansh/robotics-vision-language-lab | 0 | 0 | [link](https://huggingface.co/bhatr-eyansh/robotics-vision-language-lab) |
-| 2026-08-26 | weepiess2383/arc-v3podc-fullft-robotonly | 0 | 0 | [link](https://huggingface.co/weepiess2383/arc-v3podc-fullft-robotonly) |
-| 2026-08-26 | robotastronaut/courses-six-digit-modernbert-base-onnx | 11 | 0 | [link](https://huggingface.co/robotastronaut/courses-six-digit-modernbert-base-onnx) |
-| 2026-08-26 | robotastronaut/courses-four-digit-modernbert-base-onnx | 9 | 0 | [link](https://huggingface.co/robotastronaut/courses-four-digit-modernbert-base-onnx) |
-| 2026-08-26 | robotastronaut/courses-two-digit-modernbert-base-onnx | 10 | 0 | [link](https://huggingface.co/robotastronaut/courses-two-digit-modernbert-base-onnx) |
-| 2026-08-26 | jankowskipawel/robotics-vision-language-study | 0 | 0 | [link](https://huggingface.co/jankowskipawel/robotics-vision-language-study) |
-| 2026-08-26 | fionakcej/notes-robotics-vision-language | 0 | 0 | [link](https://huggingface.co/fionakcej/notes-robotics-vision-language) |
+| 2026-08-27 | RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_8bit_groot50K | 0 | 0 | [link](https://huggingface.co/RobotisSW/Pick_Up_Trash_On_The_Middle_Table_Task347_433_462_480_8bit_groot50K) |
+| 2026-08-27 | RobotisSW/Middle_Table_recycling_General_Plastic_80k_tune | 0 | 0 | [link](https://huggingface.co/RobotisSW/Middle_Table_recycling_General_Plastic_80k_tune) |
+| 2026-08-27 | RobotisSW/Middle_Table_recycling_General_Plastic_100k_tune | 0 | 0 | [link](https://huggingface.co/RobotisSW/Middle_Table_recycling_General_Plastic_100k_tune) |
+| 2026-08-27 | sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0__steps_60k | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0__steps_60k) |
+| 2026-08-27 | sam-guided-vlas/train_1_2__no_mask__pi05__seed_0__steps_45k | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0__steps_45k) |
+| 2026-08-27 | sam-guided-vlas/train_1_2__no_mask__pi05__seed_0__steps_60k | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0__steps_60k) |
+| 2026-08-27 | sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0__steps_45k | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0__steps_45k) |
+| 2026-08-27 | sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0__steps_30k | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0__steps_30k) |
+| 2026-08-27 | SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch3 | 0 | 0 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch3) |
+| 2026-08-27 | hugging-apps/zing-0-5-world-model-aoti | 0 | 0 | [link](https://huggingface.co/hugging-apps/zing-0-5-world-model-aoti) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| copper-project/copper-rs | 1467 | Rust | 586.9 | [link](https://github.com/copper-project/copper-rs) |
 | Edgenesis/shifu | 1432 | Go | 572.9 | [link](https://github.com/Edgenesis/shifu) |
-| mosaico-labs/mosaico | 951 | Python | 380.5 | [link](https://github.com/mosaico-labs/mosaico) |
-| wadeKeith/Awesome-Embodied-AI | 240 | Python | 96.1 | [link](https://github.com/wadeKeith/Awesome-Embodied-AI) |
-| autonomous-ai/autonomous-os | 215 | Python | 86.1 | [link](https://github.com/autonomous-ai/autonomous-os) |
-| Developer-Y/cs-video-courses | 83182 |  | 33272.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63509 | Python | 25403.7 | [link](https://github.com/commaai/openpilot) |
-| zauberzeug/nicegui | 16164 | Python | 6465.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15747 | C++ | 6298.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| TianxingChen/Embodied-AI-Guide | 15637 |  | 6254.9 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
+| autonomous-ai/autonomous-os | 218 | Python | 87.3 | [link](https://github.com/autonomous-ai/autonomous-os) |
+| commaai/openpilot | 63513 | Python | 25405.3 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15748 | C++ | 6299.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| dora-rs/dora | 3900 | Rust | 1560.1 | [link](https://github.com/dora-rs/dora) |
+| sou350121/VLA-Handbook | 551 | HTML | 220.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 6372 | Python | 2548.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| DexForce/EmbodiChain | 212 | Python | 84.9 | [link](https://github.com/DexForce/EmbodiChain) |
+| Hebbian-Robotics/hflow | 157 | Python | 62.9 | [link](https://github.com/Hebbian-Robotics/hflow) |
+| copper-project/copper-rs | 1467 | Rust | 586.9 | [link](https://github.com/copper-project/copper-rs) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-08-26 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5) |
+| 2026-08-26 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFpYOGFLOGp4b3NDZml1U1hYVGoyZUtXX0xOeW1HRW1fMDAzb0lTaFJOZWs1Y2dyaGI3X2hvZTVGLU80b2VJS19Obm9xZHJrVXZZSDRJMDZwQ1oyTkt4NXJnRERxaGgzV3lyMW1rUEQxTUhyVl9NUGxhcmx4X1FjVVRjYm4wVzF1RGdkYXMxb2hMV1A1LVVVT1VZX2M?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxObXBJbUlia19faFRtRHd3UE5kUGlKRWdBUWRiSmlfTTYyTnRPVExndkE0ZXZ6YURodk5kSnpJTDJkc2doN01UZFk4VUI5RUFnbjd3TXJFVlo5YlJmWENIM0pra1E5bF9uT3NPOTFkaWwtNnFUd0p1WG93blBfZ241UnhabEJRbXprb0RvZjlYeDRsSlc4MkRKaTRSQ295RnVYX05mMThtRTRaR2pCM29sbWZvTThKVUtaWEE?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbngwc2NoMVVfZUt3OURhbkxvRmV1WTRVUlZWX3VXcHVnVkpsY0lMSjBRZ3huXzBCZWE0anZyeENERjR2MmhGS3RDVGRmV1dkakM3U2xEdlBEeVVSZE1EQnlLSjYxZlQyRElDNmxCdHNWZWVORk5GSkNCaXg4Q0xvN1FFNUdzanQtNDBr?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGRhNDZiQ3o1VTRUTzJELTV5SkZ6U202dVlhYVFWZUF2UmRrbVdMUGd5Z0dGa0VPRjBUNWFqVmtqWkVGYmhIU0NzbGlGUHlfY0xhOVVhT3pHc2wtMVJsVk1Ha2JzRUxwazFBNlk1cDN6TWR6MW1odTdTN0djQXdWWkZMMEM5bVl1RVpCdkFab2I0VWI2LU1wNE4ySTIzTkVpT0REVzBNaEE1c3g4RUE?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWi0xVVZXSXFwSXhIbUVLVnJTXzFnMmdrRlo0YTR6Z18yYXNCbm5RYkFwam1hWVVQVXB2MlBkb29mY3lfNFk2dGliZnc3bW5DM3ZvZ0xuUlJITHNFS2lhY0hJXzhCY0J2UXJvaGFzTGpvSHUtY2hfUWExdjg1cG01WENab2plQ2VLTnVvVGpOamIyV3owd19mcW9RNDhIaGpCWWJLMnN5MEltSGZpREQyR0FsTzZWc3NVREhPNTY5cG5iVWRuVzEwVDc1MEFnLWln?oc=5) |
-| 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SOUROMURZQXFMUFNDcW1Lc3NXb2ZIblQ3eVc1cHRCNk5GZDFEcThGWXJCZk5UYlNucUE5NDVrV0k0eEdkTGtHS19FdHIyOGZnN1Bn?oc=5) |
 | 2026-08-24 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlROdnFoR0Q2ZXkxS21CbHZCTktXYmRXS25xaFFHLVJSYktBLXRVVk13Tk5xTi12NjhwaXIxcGpacTJoSU9kZVZvMk5pajNscDFGTk9yNTdqSEVxU0dPTkxTcUVBRWg4SW1BQm9WTTdodmlOZk1zTDlLdDNVRWxaVHdPdldoM21sZHp0d3lDNnExbmxmamt2bnh1M3llQXN2RVlHOXVxYWR6MXV3T2VqVTQwdEVRSGs?oc=5) |
 | 2026-08-24 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9PcW5tZHFHSF9UU0FwNGRLZHAxY2lVOG9CMzRxdnhXMldwcTFBcU5qZk1JdDFmREpYU3BZWWI2dEhRRld4cHpKTUcwbWhOakR2U0dwQ2h6WnlrSzFEdlJvNzVpWTJxU0JPNDhGUmxkUXY0WlNNWHc?oc=5) |
 | 2026-08-22 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzdQNU5NQnZJRU5JeS1DWFdVcDFqVVp4VlhMTXNxaUVadTJ2WXJPWWJmdXJBYW0xZkY4VnBQaUpWWnlHdVBJTkI3S21sUXE4NkQ1dVUybVUwb3E3ZjhPR3c5TXZrQVcyTWpjX0w0elE0SnJ4SlQ2cFRFQkJWRElFSk1PUXhhM21GYkZ2RlJwRGFFSllZQXJZ?oc=5) |
@@ -133,16 +133,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-08-26 | People Operations Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4708751006) |
 | 2026-08-26 | Prototype Development Technician | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4589484006) |
+| 2026-08-26 | Recruiting Coordinator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4658691006) |
+| 2026-08-26 | Senior People Operations Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4708750006) |
 | 2026-08-26 | Manager, Accounting | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6145295004) |
 | 2026-08-26 | Senior Manager, Learning from Demonstration | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6164697004) |
 | 2026-08-26 | Senior Service Technician II | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6155870004) |
 | 2026-08-26 | Senior Software Engineer, AI/ML Platform | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6148969004) |
 | 2026-08-25 | Helix Data Creator (SP)  | Figure AI | São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4708450006) |
 | 2026-08-25 | Financial Planning and Analysis Manager | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5985355004) |
-| 2026-08-25 | Senior Technical Program Manager | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6154494004) |
-| 2026-08-25 | Technical Program Manager | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6155073004) |
-| 2026-08-24 | Deployment Logistics Lead | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4666290006) |
 
 ## Automation
 

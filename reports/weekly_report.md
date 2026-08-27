@@ -1,42 +1,42 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-26 21:20 UTC
+Generated: 2026-08-27 02:17 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-08-25 | Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning | [link](https://arxiv.org/pdf/2608.24885v1) |
-| 2026-08-25 | Latent Action as Intention Enables Efficient Future Imagination for World Action Models | [link](https://arxiv.org/pdf/2608.24882v1) |
-| 2026-08-25 | LeFlow: Generative Latent Flow Planning for World Models | [link](https://arxiv.org/pdf/2608.24855v1) |
-| 2026-08-25 | $(\text{DNN})^2$: Doubly Non-Negative Relaxations for Deep Neural Networks | [link](https://arxiv.org/pdf/2608.24743v1) |
-| 2026-08-25 | One-Shot Learning from Demonstration of Contact-Rich Robotic Manipulation by Identifying Physical Interactions | [link](https://arxiv.org/pdf/2608.24741v1) |
+| 2026-08-26 | VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning | [link](https://arxiv.org/pdf/2608.26105v1) |
+| 2026-08-26 | Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization | [link](https://arxiv.org/pdf/2608.26103v1) |
+| 2026-08-26 | MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching | [link](https://arxiv.org/pdf/2608.26094v1) |
+| 2026-08-26 | Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders | [link](https://arxiv.org/pdf/2608.26090v1) |
+| 2026-08-26 | Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings | [link](https://arxiv.org/pdf/2608.26088v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83182 | 33272.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63509 | 25403.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44442 | 17776.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30385 | 12154.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16164 | 6465.7 | [link](https://github.com/zauberzeug/nicegui) |
+| Developer-Y/cs-video-courses | 83186 | 33274.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63513 | 25405.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44445 | 17778.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30386 | 12154.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16163 | 6465.3 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
+| nvidia/Cosmos3-Edge-Policy-DROID | 1801 | 542.4 | [link](https://huggingface.co/nvidia/Cosmos3-Edge-Policy-DROID) |
 | XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365 | 1169 | 352.8 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-1-RoboCasa365) |
+| nvidia/Cosmos3-Nano-Policy-DROID | 931 | 286.0 | [link](https://huggingface.co/nvidia/Cosmos3-Nano-Policy-DROID) |
 | physicalairi/so101_1200ep_smolvla | 113 | 34.0 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
 | jagwang/mungkeul-physical-ai | 84 | 25.3 | [link](https://huggingface.co/jagwang/mungkeul-physical-ai) |
-| polarisai-robots/bento_v2_openarm_pi05 | 65 | 19.6 | [link](https://huggingface.co/polarisai-robots/bento_v2_openarm_pi05) |
-| UnderTides/Embodied-Navigator-7B-GRPO | 64 | 19.5 | [link](https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
 | 2026-08-26 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5) |
+| 2026-08-26 | Unitree |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFpYOGFLOGp4b3NDZml1U1hYVGoyZUtXX0xOeW1HRW1fMDAzb0lTaFJOZWs1Y2dyaGI3X2hvZTVGLU80b2VJS19Obm9xZHJrVXZZSDRJMDZwQ1oyTkt4NXJnRERxaGgzV3lyMW1rUEQxTUhyVl9NUGxhcmx4X1FjVVRjYm4wVzF1RGdkYXMxb2hMV1A1LVVVT1VZX2M?oc=5) |
 | 2026-08-25 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxObXBJbUlia19faFRtRHd3UE5kUGlKRWdBUWRiSmlfTTYyTnRPVExndkE0ZXZ6YURodk5kSnpJTDJkc2doN01UZFk4VUI5RUFnbjd3TXJFVlo5YlJmWENIM0pra1E5bF9uT3NPOTFkaWwtNnFUd0p1WG93blBfZ241UnhabEJRbXprb0RvZjlYeDRsSlc4MkRKaTRSQ295RnVYX05mMThtRTRaR2pCM29sbWZvTThKVUtaWEE?oc=5) |
 | 2026-08-25 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbngwc2NoMVVfZUt3OURhbkxvRmV1WTRVUlZWX3VXcHVnVkpsY0lMSjBRZ3huXzBCZWE0anZyeENERjR2MmhGS3RDVGRmV1dkakM3U2xEdlBEeVVSZE1EQnlLSjYxZlQyRElDNmxCdHNWZWVORk5GSkNCaXg4Q0xvN1FFNUdzanQtNDBr?oc=5) |
 | 2026-08-25 | Unitree |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGRhNDZiQ3o1VTRUTzJELTV5SkZ6U202dVlhYVFWZUF2UmRrbVdMUGd5Z0dGa0VPRjBUNWFqVmtqWkVGYmhIU0NzbGlGUHlfY0xhOVVhT3pHc2wtMVJsVk1Ha2JzRUxwazFBNlk1cDN6TWR6MW1odTdTN0djQXdWWkZMMEM5bVl1RVpCdkFab2I0VWI2LU1wNE4ySTIzTkVpT0REVzBNaEE1c3g4RUE?oc=5) |
-| 2026-08-25 | Unitree |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWi0xVVZXSXFwSXhIbUVLVnJTXzFnMmdrRlo0YTR6Z18yYXNCbm5RYkFwam1hWVVQVXB2MlBkb29mY3lfNFk2dGliZnc3bW5DM3ZvZ0xuUlJITHNFS2lhY0hJXzhCY0J2UXJvaGFzTGpvSHUtY2hfUWExdjg1cG01WENab2plQ2VLTnVvVGpOamIyV3owd19mcW9RNDhIaGpCWWJLMnN5MEltSGZpREQyR0FsTzZWc3NVREhPNTY5cG5iVWRuVzEwVDc1MEFnLWln?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
