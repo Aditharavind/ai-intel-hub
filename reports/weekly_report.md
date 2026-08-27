@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-27 13:09 UTC
+Generated: 2026-08-27 23:15 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,19 +15,19 @@ Generated: 2026-08-27 13:09 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83187 | 33274.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63521 | 25408.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44454 | 17781.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30393 | 12157.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16165 | 6466.1 | [link](https://github.com/zauberzeug/nicegui) |
+| commaai/openpilot | 63525 | 25410.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44457 | 17782.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30398 | 12159.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16166 | 6466.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | physicalairi/so101_1200ep_smolvla | 113 | 34.0 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
+| LCPRZZL/act_policy | 102 | 30.7 | [link](https://huggingface.co/LCPRZZL/act_policy) |
 | jagwang/mungkeul-physical-ai | 84 | 25.3 | [link](https://huggingface.co/jagwang/mungkeul-physical-ai) |
 | litert-community/LFM2.5-Encoder-350M-Policy-Linter | 80 | 24.1 | [link](https://huggingface.co/litert-community/LFM2.5-Encoder-350M-Policy-Linter) |
-| UnderTides/Embodied-Navigator-7B-GRPO | 72 | 21.9 | [link](https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO) |
-| physicalairi/so101_1200ep_pi05_20260805 | 54 | 16.3 | [link](https://huggingface.co/physicalairi/so101_1200ep_pi05_20260805) |
+| vladlinv/ru-pii-ner | 54 | 16.3 | [link](https://huggingface.co/vladlinv/ru-pii-ner) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -42,7 +42,7 @@ Generated: 2026-08-27 13:09 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-27 | Five Japanese Companies Launch Physical AI Data Collection Center - News On Japan | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ba3pCNjdKLVFpOThuOGNLcWsyN0YwSnZ5ZzdUb1JoWGUzLUtqRENsZlJPV21WbmJ3UmdfbWdzZnlfSkVpQ0N4ZkVXOHZkU1l4ckhFZQ?oc=5) |
-| 2026-08-27 | Generalist AI Funding: Ex-DeepMind Robotics Startup Hits $3B Valuation - Intelligent Living | physical ai startup | [link](https://news.google.com/rss/articles/CBMid0FVX3lxTE1vUU5TRXc5X2RaVFhCak9ZeDFueHV2NlU3QTVRWG1WS1BfVk9QU1JLQzd6RWJRMzNLVVNaOHV4RXlPWTJPR00xTHhfUEdZbzE3ck1jTFZESUxGNE55ZDBxQ2o1eC13VTR0c2k1WWxqaE5HTlRNNE5n?oc=5) |
+| 2026-08-27 | SoftBank in Talks to Buy Majority Stake in Humanoid Maker 1X at $6 Billion Valuation - The Information | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDZmYU9rOVJvZGhKUjRSM0ZWSklJaGd6ZkJCVGNvdm1fZ09XVTd6dDlrNHczUWFjV1lReGVER2xVT08zRlJNV2pJVnRhVHZYd29OOXBIVXFEaUR6MU1qcWNnZW1TcHlSRk9pMjl6X3JEOTBTQVRNRkM3ZncxU0RtWnpIS01sUlZ1VDFPTE5LRVMxZWpMazVBS0dpUzVJT2xGel9BV3k0dTBLVnRJYWFTYg?oc=5) |
 | 2026-08-27 | SoftBank in talks for majority stake in humanoid robotics startup 1X- The Information - Investing.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMUNUd2M5Mk1IVEs3YnFfeFBqZnhtSVc0VzU2dk9uWFBtMmZQUnFQRThiZDdkeTBxam1YQy04WHVvZmIyX21YYW1Gc1NVQVllc3hsbHd0U3V1M2kxYUd0WU45S0t5ZlplNFJKTDZfQWgxbDR0YU10LTBOLS1iXzVVRFp2aWNZNkh2X3JmUFNjbzJ0NXFZZDZmc2N3cWtQOFVaX3dKVll0VHlDMk5XX2NSdWw1YTFwbXQyRnhXR0Y5cDhFd0dJR0s3NDAwX19TUTdVTUVic2wtUUxXS2NKaW5SU3ZDRzZ6bG4zS0E?oc=5) |
-| 2026-08-26 | Robotics startup Generalist reaches $3B valuation, sources say - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5) |
+| 2026-08-26 | Transfyr Launches Physical AI Platform for Science with $25M Seed Funding - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVG1hRHFMb0Qya2lURmRjQUFJWUx1aHB4aDV2aDJQT3FncWFXREJfaDA1cXM3SklBbzlCTFZXLUVVTncwTXR2WXBYamhEaTVLc3lSZ3lqODR6ZTZHTkJDQW9GaWs5UndMbFE2b0xwaVhCVmlHdjNpVmw4U2Z4Qkg1UHNydkczQU1Xc1V4NXBuS21FVGVkY3ZWVWtUbFpmWVR2SUFfdzFSRUlNZjBqeUlvM2ptNGNSemdieWR4dzJNOThMekoydlk3Q3NYLTk?oc=5) |
 | 2026-08-25 | Physical AI startup Antioch files to raise $32M - Axios | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaE4waTJoaVgyQjUza3dndlZnV3J1U1lwSDNBay1LUlhnblEzek43cHdSc1dRVWtOUXhaZ3Q1TmNVNUc1eHlrcjhubV9xbElOLVdMMmNxdEg2cHZMempJeWdxeWU5QkhDT1BMWWl0bmtqM3VPdUNldkNObWxfZUpRTzFlZ0NrWUoyNVZlOWxuR1Q0bms5ZXhKcA?oc=5) |
