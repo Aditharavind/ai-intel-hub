@@ -27,6 +27,69 @@
     "score": 0.1
   },
   {
+    "model": "vlabki/TF_item_v1r",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vlabki/TF_item_v1r",
+    "date": "2026-08-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vlabki/KC_item_v1r",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vlabki/KC_item_v1r",
+    "date": "2026-08-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vlabki/MR_item_v1r",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vlabki/MR_item_v1r",
+    "date": "2026-08-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vlabki/GMC_item_v1r",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vlabki/GMC_item_v1r",
+    "date": "2026-08-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vlabki/JP_item_v1r",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vlabki/JP_item_v1r",
+    "date": "2026-08-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "jungwook2358/vla-dexjoco-base-gb32-single30k-dual60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jungwook2358/vla-dexjoco-base-gb32-single30k-dual60k",
+    "date": "2026-08-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-08-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "sam-guided-vlas/train_1_2__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -72,75 +135,93 @@
     "score": 0.1
   },
   {
-    "model": "vlabki/GV2_item_v1r",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vlabki/GV2_item_v1r",
-    "date": "2026-08-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vlabki/MC_item_v1r",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vlabki/MC_item_v1r",
-    "date": "2026-08-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__point__separate_channel__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__point__separate_channel__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-08-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vlabki/MT_item_v1r",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vlabki/MT_item_v1r",
-    "date": "2026-08-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vlabki/BC3_item_v1r",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vlabki/BC3_item_v1r",
-    "date": "2026-08-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vlabki/LC_item_v1r",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vlabki/LC_item_v1r",
-    "date": "2026-08-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "clementpetit/embodied-ai-review",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/clementpetit/embodied-ai-review",
     "date": "2026-08-29",
     "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "Bekhzod/TASK_02_act_policy_20260721",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Bekhzod/TASK_02_act_policy_20260721",
+    "date": "2026-08-29",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "KillerBoss/s26-diffusion-policy-npu",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/KillerBoss/s26-diffusion-policy-npu",
+    "date": "2026-08-29",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "egcfwong/cf_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/egcfwong/cf_policy",
+    "date": "2026-08-29",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "LCPRZZL/act_policy",
+    "downloads": 118,
+    "likes": 0,
+    "url": "https://huggingface.co/LCPRZZL/act_policy",
+    "date": "2026-08-29",
+    "keyword": "policy",
+    "score": 35.5
+  },
+  {
+    "model": "aDaikiKamata/patch_policy_libero_object_tipsv2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/aDaikiKamata/patch_policy_libero_object_tipsv2",
+    "date": "2026-08-29",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "dontKnow23456/WAM-Policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dontKnow23456/WAM-Policy",
+    "date": "2026-08-29",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "szaborego/panda_reach_act_policy_7",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/szaborego/panda_reach_act_policy_7",
+    "date": "2026-08-29",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "tianSeconds/goai-2026-arx-flow-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tianSeconds/goai-2026-arx-flow-policy",
+    "date": "2026-08-29",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "MichaelHui/cf_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MichaelHui/cf_policy",
+    "date": "2026-08-29",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -166,24 +247,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sooyeon1/pfsp_policy_llama8b_candscore_r128_k24_sampled",
-    "date": "2026-08-29",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jayp132/red-only-115-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jayp132/red-only-115-policy",
-    "date": "2026-08-29",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "hiskiv/cosmos-policy-lam-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hiskiv/cosmos-policy-lam-v2",
     "date": "2026-08-29",
     "keyword": "policy",
     "score": 0.1
@@ -430,69 +493,6 @@
     "date": "2026-08-28",
     "keyword": "physical ai",
     "score": 0.1
-  },
-  {
-    "model": "policyengine/policyengine-uk-data-private",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/policyengine/policyengine-uk-data-private",
-    "date": "2026-08-28",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "tetraengnrng/smolvla_piper_policy",
-    "downloads": 18,
-    "likes": 0,
-    "url": "https://huggingface.co/tetraengnrng/smolvla_piper_policy",
-    "date": "2026-08-28",
-    "keyword": "policy",
-    "score": 5.5
-  },
-  {
-    "model": "sojeong-grotto/omx_act_policy",
-    "downloads": 10,
-    "likes": 0,
-    "url": "https://huggingface.co/sojeong-grotto/omx_act_policy",
-    "date": "2026-08-28",
-    "keyword": "policy",
-    "score": 3.1
-  },
-  {
-    "model": "Immerwinter/gbert-large-privacy-policy-content-userrights",
-    "downloads": 32,
-    "likes": 0,
-    "url": "https://huggingface.co/Immerwinter/gbert-large-privacy-policy-content-userrights",
-    "date": "2026-08-28",
-    "keyword": "policy",
-    "score": 9.7
-  },
-  {
-    "model": "Immerwinter/gbert-large-privacy-policy-content-thirdparty",
-    "downloads": 32,
-    "likes": 0,
-    "url": "https://huggingface.co/Immerwinter/gbert-large-privacy-policy-content-thirdparty",
-    "date": "2026-08-28",
-    "keyword": "policy",
-    "score": 9.7
-  },
-  {
-    "model": "Immerwinter/gottbert-privacy-policy-content-sharing",
-    "downloads": 31,
-    "likes": 0,
-    "url": "https://huggingface.co/Immerwinter/gottbert-privacy-policy-content-sharing",
-    "date": "2026-08-28",
-    "keyword": "policy",
-    "score": 9.4
-  },
-  {
-    "model": "Immerwinter/roberta-wechsel-privacy-policy-content-selling",
-    "downloads": 33,
-    "likes": 0,
-    "url": "https://huggingface.co/Immerwinter/roberta-wechsel-privacy-policy-content-selling",
-    "date": "2026-08-28",
-    "keyword": "policy",
-    "score": 10.0
   },
   {
     "model": "arpawlowski/learn-robotics-vision-language",
