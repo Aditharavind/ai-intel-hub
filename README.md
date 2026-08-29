@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-29 17:56 UTC
+Last Updated: 2026-08-29 20:07 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-29 | Wikipedia on a Cheap Yellow Display | Hackaday | [link](https://hackaday.com/2026/08/29/wikipedia-on-a-cheap-yellow-display/) |
 | 2026-08-29 | Motorized Planer Height Adjustment Dials In | Hackaday | [link](https://hackaday.com/2026/08/29/motorized-planer-height-adjustment-dials-in/) |
 | 2026-08-29 | Same As It Ever Was | Hackaday | [link](https://hackaday.com/2026/08/29/same-as-it-ever-was/) |
 | 2026-08-29 | Wear Your Way Out Of AI Surveilance | Hackaday | [link](https://hackaday.com/2026/08/29/wear-your-way-out-of-ai-surveilance/) |
 | 2026-08-29 | 3D Printed Piano Action Faithful to the Original | Hackaday | [link](https://hackaday.com/2026/08/29/3d-printed-piano-action-faithful-to-the-original/) |
 | 2026-08-29 | Playing Snake with a Pneumatic Display | Hackaday | [link](https://hackaday.com/2026/08/28/playing-snake-with-a-pneumatic-display/) |
 | 2026-08-29 | This Library Needs to Be At Least… Three Times Bigger | Hackaday | [link](https://hackaday.com/2026/08/28/this-library-needs-to-be-at-least-three-times-bigger/) |
+| 2026-08-29 | Why Are Rivers So Mathematical? | Adafruit | [link](https://blog.adafruit.com/2026/08/29/why-are-rivers-so-mathematical/) |
 | 2026-08-29 | Firehat brings FireWire capture to Raspberry Pi | Adafruit | [link](https://blog.adafruit.com/2026/08/29/firehat-brings-firewire-capture-to-raspberry-pi/) |
 | 2026-08-29 | The Python on Microcontrollers Newsletter: subscribe for free | Adafruit | [link](https://blog.adafruit.com/2026/08/29/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-29-3/) |
-| 2026-08-29 | The Kodak DC50 camera is now usable on the Apple II | Adafruit | [link](https://blog.adafruit.com/2026/08/29/the-kodak-dc50-camera-is-now-usable-on-the-apple-ii/) |
-| 2026-08-28 | Reviving an SD Card With Shorted Capacitors | Hackaday | [link](https://hackaday.com/2026/08/28/reviving-an-sd-card-with-shorted-capacitors/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -80,27 +80,27 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-29 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-29 | FabianOvalle/Robot_IA_Gen_v8 | 0 | 0 | [link](https://huggingface.co/FabianOvalle/Robot_IA_Gen_v8) |
 | 2026-08-29 | FabianOvalle/Robot_IA_Gen_v7 | 0 | 0 | [link](https://huggingface.co/FabianOvalle/Robot_IA_Gen_v7) |
+| 2026-08-29 | sam-guided-vlas/train_1_2_pile__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0) |
 | 2026-08-29 | Vladniag/Bormokrut | 0 | 0 | [link](https://huggingface.co/Vladniag/Bormokrut) |
 | 2026-08-29 | vlabki/TF_item_v1r | 0 | 0 | [link](https://huggingface.co/vlabki/TF_item_v1r) |
 | 2026-08-29 | vlabki/KC_item_v1r | 0 | 0 | [link](https://huggingface.co/vlabki/KC_item_v1r) |
 | 2026-08-29 | vlabki/MR_item_v1r | 0 | 0 | [link](https://huggingface.co/vlabki/MR_item_v1r) |
 | 2026-08-29 | vlabki/GMC_item_v1r | 0 | 0 | [link](https://huggingface.co/vlabki/GMC_item_v1r) |
 | 2026-08-29 | vlabki/JP_item_v1r | 0 | 0 | [link](https://huggingface.co/vlabki/JP_item_v1r) |
-| 2026-08-29 | jungwook2358/vla-dexjoco-base-gb32-single30k-dual60k | 0 | 0 | [link](https://huggingface.co/jungwook2358/vla-dexjoco-base-gb32-single30k-dual60k) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3137 | Python | 1254.9 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3138 | Python | 1255.3 | [link](https://github.com/NVIDIA/skills) |
 | NVlabs/alpamayo | 2007 | Python | 802.9 | [link](https://github.com/NVlabs/alpamayo) |
-| mosaico-labs/mosaico | 974 | Python | 389.7 | [link](https://github.com/mosaico-labs/mosaico) |
+| mosaico-labs/mosaico | 975 | Python | 390.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 472 | Shell | 188.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | NVlabs/alpamayo1.5 | 358 | Python | 143.3 | [link](https://github.com/NVlabs/alpamayo1.5) |
+| Developer-Y/cs-video-courses | 83216 |  | 33286.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63529 | Python | 25411.7 | [link](https://github.com/commaai/openpilot) |
-| google-deepmind/mujoco | 14775 | C++ | 5910.1 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 14778 | C++ | 5911.3 | [link](https://github.com/google-deepmind/mujoco) |
 | earthtojake/text-to-cad | 14014 | Python | 5605.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| rerun-io/rerun | 11370 | Rust | 4548.1 | [link](https://github.com/rerun-io/rerun) |
-| kornia/kornia | 11334 | Python | 4533.7 | [link](https://github.com/kornia/kornia) |
+| rerun-io/rerun | 11372 | Rust | 4548.9 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -124,11 +124,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-28 | Embodied-AI startup PsiBot raises over $100 million with industrial investors joining - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjVueXdiTUJKUVVBRXU5ckJIV2JKZkVpTVBOdzZXZUdoX0swMFdLb09rbXFJMlp1QWJlMS1VWk5CWlVWM3ZCTmIyVWt1WEVDT0JkZ0RMemZHcTBxZFF4a0hfcHJNVjM0NHB6TWFEY3NMcFdqejZnVUJZZEEtdmtHdjhQc2FRamhWeXNjQjc2QVh1NllYc0lzWVVCU1hLREc2VmFnb2NHOFUzLTdLcEVMUC1BWlJDVnBh?oc=5) |
 | 2026-08-27 | SoftBank in Talks to Buy Majority Stake in Humanoid Maker 1X at $6 Billion Valuation - The Information | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDZmYU9rOVJvZGhKUjRSM0ZWSklJaGd6ZkJCVGNvdm1fZ09XVTd6dDlrNHczUWFjV1lReGVER2xVT08zRlJNV2pJVnRhVHZYd29OOXBIVXFEaUR6MU1qcWNnZW1TcHlSRk9pMjl6X3JEOTBTQVRNRkM3ZncxU0RtWnpIS01sUlZ1VDFPTE5LRVMxZWpMazVBS0dpUzVJT2xGel9BV3k0dTBLVnRJYWFTYg?oc=5) |
 | 2026-08-27 | SoftBank in talks to buy stake in 1X at $6 billion valuation, The Information reports - Reuters | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEF3WERUeVhaYmdFTXNpQUx1RUZpTWNjTlRRckJkZEZIM3MwNHZaRDI4QV9MWHpHSDMxYjZPZFhmalItV1FwNmp5Znd2NEVhOURkZW9McWh1eEo1TlNELXJxTVFldm9FSDdPS3Z2TTkzb0phSXpGSjE0ZXNkX1VCdklTZ0dYemZabTB6Q3JNSUxISHZJbW1pSTBoOF94dk4xSVdCMzdpT0oyai1RSlZJMDI1TDNpRndlM0drdDRYM0U?oc=5) |
-| 2026-08-27 | SoftBank in talks for majority stake in humanoid robotics startup 1X- The Information - Investing.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMUNUd2M5Mk1IVEs3YnFfeFBqZnhtSVc0VzU2dk9uWFBtMmZQUnFQRThiZDdkeTBxam1YQy04WHVvZmIyX21YYW1Gc1NVQVllc3hsbHd0U3V1M2kxYUd0WU45S0t5ZlplNFJKTDZfQWgxbDR0YU10LTBOLS1iXzVVRFp2aWNZNkh2X3JmUFNjbzJ0NXFZZDZmc2N3cWtQOFVaX3dKVll0VHlDMk5XX2NSdWw1YTFwbXQyRnhXR0Y5cDhFd0dJR0s3NDAwX19TUTdVTUVic2wtUUxXS2NKaW5SU3ZDRzZ6bG4zS0E?oc=5) |
 | 2026-08-26 | Robotics startup Generalist reaches $3B valuation, sources say - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5) |
 | 2026-08-26 | Transfyr Launches Physical AI Platform for Science with $25M Seed Funding - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVG1hRHFMb0Qya2lURmRjQUFJWUx1aHB4aDV2aDJQT3FncWFXREJfaDA1cXM3SklBbzlCTFZXLUVVTncwTXR2WXBYamhEaTVLc3lSZ3lqODR6ZTZHTkJDQW9GaWs5UndMbFE2b0xwaVhCVmlHdjNpVmw4U2Z4Qkg1UHNydkczQU1Xc1V4NXBuS21FVGVkY3ZWVWtUbFpmWVR2SUFfdzFSRUlNZjBqeUlvM2ptNGNSemdieWR4dzJNOThMekoydlk3Q3NYLTk?oc=5) |
 | 2026-08-26 | Why higher education institutions should leap towards teaching physical AI - The Hindu | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSTB5dmpQa2FUdnRzVHBTWFVuZXlOcndRcHU2aHowU0xOREtiOXRXQ0VWWHliTThhYTRjYll6Q2tWc2pmeTJCSFpYN3ladWtadFVIbmk2RGdzTzhaNW4xNEVJOTFUM0NzRU51ajk2SkJBaVBKbGdiZmZKZkVXdm1GOExfUWNWN2RwLU9NTHB1ZUJtOGExczFsdlpQVVE1eVZLR0dYQy0wSEZ3eFFxU3dVZmVsQTRSYWs0djhZVTM3VWJ3dTNjYUJaU9IBzwFBVV95cUxPdTktcHBNOFRiUEVKYlJ0MGNHNHg1eVJ1UzFRaTI3NEFiT3p5Snp4OW5ETjVmN0lDM1pGZXRVUGdJekk5MXNHd0FSQTN6cWFpTGUtM0RuQTl0dVZ3UktTelNGeFMwQmx5QTNDd2V0RVdqeGFtRFF6T1ZHREpfYzJVdmYtbnJjdmlDdHFsRTVabHd5MFh3QnlrMjNVLVFTTk10MXFpMVdKbklKVzl1Z1FCWW83dDY2R25GVVhSb3B4SFliaC1tS1VMZlVWdlBLcmM?oc=5) |
 | 2026-08-25 | Physical AI startup Antioch files to raise $32M - Axios | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaE4waTJoaVgyQjUza3dndlZnV3J1U1lwSDNBay1LUlhnblEzek43cHdSc1dRVWtOUXhaZ3Q1TmNVNUc1eHlrcjhubV9xbElOLVdMMmNxdEg2cHZMempJeWdxeWU5QkhDT1BMWWl0bmtqM3VPdUNldkNObWxfZUpRTzFlZ0NrWUoyNVZlOWxuR1Q0bms5ZXhKcA?oc=5) |
+| 2026-08-25 | NEC CVC fund invests in US humanoid robot and Physical AI startup - Telecompaper | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNckpiU0xUckpFWUFySHVYT2M5Z2VsYlBVRXN2bzd6amdOOUtYaEdqWGhacDEwSXVDSDFZNWt3NllEWENFMGxYbkxCZjA5akxKTm5hdmVxb0gxdlNCVjVjU08tODVjSlhKQ1pQQnJEdlM4QWhCOTJjeGJXM3RQVEdLdWRaQkNkbXljcTlHd1NmUC13X1dXWFU4ZXRWTUIxUFh1ZlVocngxc3VnT2E4?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
