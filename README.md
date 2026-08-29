@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-29 14:43 UTC
+Last Updated: 2026-08-29 17:56 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-29 | Motorized Planer Height Adjustment Dials In | Hackaday | [link](https://hackaday.com/2026/08/29/motorized-planer-height-adjustment-dials-in/) |
 | 2026-08-29 | Same As It Ever Was | Hackaday | [link](https://hackaday.com/2026/08/29/same-as-it-ever-was/) |
 | 2026-08-29 | Wear Your Way Out Of AI Surveilance | Hackaday | [link](https://hackaday.com/2026/08/29/wear-your-way-out-of-ai-surveilance/) |
 | 2026-08-29 | 3D Printed Piano Action Faithful to the Original | Hackaday | [link](https://hackaday.com/2026/08/29/3d-printed-piano-action-faithful-to-the-original/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-29 | The Python on Microcontrollers Newsletter: subscribe for free | Adafruit | [link](https://blog.adafruit.com/2026/08/29/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-29-3/) |
 | 2026-08-29 | The Kodak DC50 camera is now usable on the Apple II | Adafruit | [link](https://blog.adafruit.com/2026/08/29/the-kodak-dc50-camera-is-now-usable-on-the-apple-ii/) |
 | 2026-08-28 | Reviving an SD Card With Shorted Capacitors | Hackaday | [link](https://hackaday.com/2026/08/28/reviving-an-sd-card-with-shorted-capacitors/) |
-| 2026-08-28 | DOOM Played on Series of 555 Timers | Hackaday | [link](https://hackaday.com/2026/08/28/doom-played-on-series-of-555-timers/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -80,33 +80,33 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-29 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-08-29 | FabianOvalle/Robot_IA_Gen_v8 | 0 | 0 | [link](https://huggingface.co/FabianOvalle/Robot_IA_Gen_v8) |
 | 2026-08-29 | FabianOvalle/Robot_IA_Gen_v7 | 0 | 0 | [link](https://huggingface.co/FabianOvalle/Robot_IA_Gen_v7) |
+| 2026-08-29 | Vladniag/Bormokrut | 0 | 0 | [link](https://huggingface.co/Vladniag/Bormokrut) |
 | 2026-08-29 | vlabki/TF_item_v1r | 0 | 0 | [link](https://huggingface.co/vlabki/TF_item_v1r) |
 | 2026-08-29 | vlabki/KC_item_v1r | 0 | 0 | [link](https://huggingface.co/vlabki/KC_item_v1r) |
 | 2026-08-29 | vlabki/MR_item_v1r | 0 | 0 | [link](https://huggingface.co/vlabki/MR_item_v1r) |
 | 2026-08-29 | vlabki/GMC_item_v1r | 0 | 0 | [link](https://huggingface.co/vlabki/GMC_item_v1r) |
 | 2026-08-29 | vlabki/JP_item_v1r | 0 | 0 | [link](https://huggingface.co/vlabki/JP_item_v1r) |
 | 2026-08-29 | jungwook2358/vla-dexjoco-base-gb32-single30k-dual60k | 0 | 0 | [link](https://huggingface.co/jungwook2358/vla-dexjoco-base-gb32-single30k-dual60k) |
-| 2026-08-29 | sam-guided-vlas/train_1_2_pile__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3136 | Python | 1254.5 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3137 | Python | 1254.9 | [link](https://github.com/NVIDIA/skills) |
 | NVlabs/alpamayo | 2007 | Python | 802.9 | [link](https://github.com/NVlabs/alpamayo) |
 | mosaico-labs/mosaico | 974 | Python | 389.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 472 | Shell | 188.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | NVlabs/alpamayo1.5 | 358 | Python | 143.3 | [link](https://github.com/NVlabs/alpamayo1.5) |
 | commaai/openpilot | 63529 | Python | 25411.7 | [link](https://github.com/commaai/openpilot) |
-| google-deepmind/mujoco | 14771 | C++ | 5908.5 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 14011 | Python | 5604.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14775 | C++ | 5910.1 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 14014 | Python | 5605.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| rerun-io/rerun | 11370 | Rust | 4548.1 | [link](https://github.com/rerun-io/rerun) |
 | kornia/kornia | 11334 | Python | 4533.7 | [link](https://github.com/kornia/kornia) |
-| dora-rs/dora | 3905 | Rust | 1562.1 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-08-29 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUE5uUjBJdWtWanlWTy1VRW1xV3NKNmdlVmZ3QUI2alRESUYtdWhSQmZGX3dneTNPTWtNSkdUbGNzRW5kLWM5WjBxYmJ6am9lbjJtMGhPUFdsWFprOU9LZ3R2MElNaUs2ZHNWdGk0YTVTWFdnUHVxSlo3TnVQSUkxVWN0c3VueHNiNklv0gGQAUFVX3lxTE1iQUdNX0QzVTNWek92YWg2dzloNl95MUlnaE9YS3czWExUNWF2c0dtQ2tiMzNsM2s5ZU5PdkFMZHpMMWUzMlZnWHVpZXBEU0N6S2xHMC1QQl9QNmt3MlMxUGJDRjJmT2xrU3NGbzQ3cHdIRndib282Wmc0SjFMdTVpak13VndmcWtSeU1hR1dBcQ?oc=5) |
-| 2026-08-28 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQODBSdjZncWQzc1ExX1lxZzJMbHEyT0ZyMEJmclBnbmlUeGRkRlFoUWRSZC1jRHdIM0x0dUw5TlZhSnlWaHNpME9QTzFrOW02SzZxbWlWbkk5bzRnTFdDMElBR1c4X1N1TFBSVlZkQXBRS2tDNHlMVG9FekhrNHNWaUVFNTVrYTNfaERIajRBNGI4OEUtTm0zR285LXFRSE02V1RndUgwVWswUdIBrwFBVV95cUxQVTF0WU5jVTdJOTREUy13UmJsekZ4RDljNUtMRGtLNVdXdXgxWkhGTmZ2WlV2aEFURWE3MXQ1R2toc3FLRjd3WWVVbHp2azJzdHdhUmFPUmtMY2RKbUxlZUp0OGtkQ0VDazBLXzJmS0lEazAtbUZXVjViYjIzRENKZ296ZG1ZMlViT2tuck80ajFNaXBjNmRrTzZYSzZzY3pvclVwWVVtTDFBcXB5NjJ3?oc=5) |
+| 2026-08-28 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTF0WU5jVTdJOTREUy13UmJsekZ4RDljNUtMRGtLNVdXdXgxWkhGTmZ2WlV2aEFURWE3MXQ1R2toc3FLRjd3WWVVbHp2azJzdHdhUmFPUmtMY2RKbUxlZUp0OGtkQ0VDazBLXzJmS0lEazAtbUZXVjViYjIzRENKZ296ZG1ZMlViT2tuck80ajFNaXBjNmRrTzZYSzZzY3pvclVwWVVtTDFBcXB5NjJ30gGvAUFVX3lxTFBVMXRZTmNVN0k5NERTLXdSYmx6RnhEOWM1S0xEa0s1V1d1eDFaSEZOZnZaVXZoQVRFYTcxdDVHa2hzcUtGN3dZZVVsenZrMnN0d2FSYU9Sa0xjZEptTGVlSnQ4a2RDRUNrMEtfMmZLSURrMC1tRldWNWJiMjNEQ0pnb3pkbVkyVWJPa25yTzRqMU1pcGM2ZGtPNlhLNnNjem9yVXBZVW1MMUFxcHk2Mnc?oc=5) |
 | 2026-08-27 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTVk3b1RFZzhTenN5SDFFV1lYWHBCVTczNmowLVBBdUZNSHdyN2pFMlNsYjdmd2k4TS0zbUx0bjFYQjhQZ0s4ai10VThxWTB6LTlvb3ROVVM3bGlRRFRRc1RZSU9mcndUaTU4WlVyRzQ4OGtRUWJZTlhtWnBmWUxBdkx4RDZQYm5X?oc=5) |
 | 2026-08-26 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5) |
 | 2026-08-25 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2Z0SE1HMGJxVVEtaFZtSnNoQnEyR3lzR1lGNmZVZjBlTzFHZi1IMEdVajFDVUJ0NjlGeW5JRVJiOGU1Z1Y4bVMzc3gtQXNNRWpPXzhmRFJwN1VNUnhUYjdKUEkxdnZicVlVWW5ESk5BLTEzNzhjUk1iTGpsWEU0N1J3U2xfYXVRY2JfYXNEMkszb0dndnNiekU2NE0xcXNJWTJDNXFrYTBrYThmeFE?oc=5) |
@@ -121,7 +121,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-08-29 | A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEhEdUxOLWhXMjJQbGFrSk9aWi1mak9aWk1mV1JtcGEtVncwSV96ek1FRExUalJXNzBSakEtaU1QczhjWm1CcWJxY0pwS2NzQ2d5OElXeTR5cG5hdDFYWHQ3T2s4UnFFWUpITmFzWlNHTzNSeTlqSHdjdHN2eVNPa0pRclBzU09wQy16b0VxeUtsR29TamptdFdXbGEwZzFQ?oc=5) |
 | 2026-08-28 | Anthropic Previews Standard for AI Control of Physical Devices - PYMNTS.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEFlQ0lJd2dJNnczcjRXTE5NVTlXcm5Yam9tQmtpUVpxclBUMVFGREtSODllRDB0a2hfSkpWc2dWeGtXTmlJd0pycFdlbWxSTGFwazQ5ZHIyb21LNXVOcHNWa05iaXlac19CcXF2UVBMalh1TnBPVGIzY3pZVGdyYXM4dFk3VzNxRFVUUTNmZnhKazY2TXNTQ2hlTXFwNEY0YzRqWXVsdUw4d1dfcWtiUlZGOGR5T1JDYXRTSA?oc=5) |
-| 2026-08-28 | Andreessen Horowitz Raises $1.1B to Fund Hardware Startups as AI Racks Near 1 Megawatt - Tech Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxOa1BWYVRxY0k4Q2tuVlRzS2ZCWFB6bnNGOG93VC05M2lNS1lCdkZSQnhZSlM2NWplVzdFWXJmRWQ0c2NjdnU0TUFldW9QOWdKYkFyLXhzM0EzSFNHUlJHaFo5UnlLVUMtYTdxSU12bWFha3cxbTF6UkU2Rm9MeHE1aThHb2lfbDY0N3Z3WF85NnNIVmt2Q3pnaFB1azVwSUlvbnotalpORXh1bE9OdFdRcXROTVpGaUJMRDR2TmMtY01wWHluZHRfUlBkdVkydw?oc=5) |
 | 2026-08-28 | Embodied-AI startup PsiBot raises over $100 million with industrial investors joining - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjVueXdiTUJKUVVBRXU5ckJIV2JKZkVpTVBOdzZXZUdoX0swMFdLb09rbXFJMlp1QWJlMS1VWk5CWlVWM3ZCTmIyVWt1WEVDT0JkZ0RMemZHcTBxZFF4a0hfcHJNVjM0NHB6TWFEY3NMcFdqejZnVUJZZEEtdmtHdjhQc2FRamhWeXNjQjc2QVh1NllYc0lzWVVCU1hLREc2VmFnb2NHOFUzLTdLcEVMUC1BWlJDVnBh?oc=5) |
 | 2026-08-27 | SoftBank in Talks to Buy Majority Stake in Humanoid Maker 1X at $6 Billion Valuation - The Information | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDZmYU9rOVJvZGhKUjRSM0ZWSklJaGd6ZkJCVGNvdm1fZ09XVTd6dDlrNHczUWFjV1lReGVER2xVT08zRlJNV2pJVnRhVHZYd29OOXBIVXFEaUR6MU1qcWNnZW1TcHlSRk9pMjl6X3JEOTBTQVRNRkM3ZncxU0RtWnpIS01sUlZ1VDFPTE5LRVMxZWpMazVBS0dpUzVJT2xGel9BV3k0dTBLVnRJYWFTYg?oc=5) |
 | 2026-08-27 | SoftBank in talks to buy stake in 1X at $6 billion valuation, The Information reports - Reuters | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEF3WERUeVhaYmdFTXNpQUx1RUZpTWNjTlRRckJkZEZIM3MwNHZaRDI4QV9MWHpHSDMxYjZPZFhmalItV1FwNmp5Znd2NEVhOURkZW9McWh1eEo1TlNELXJxTVFldm9FSDdPS3Z2TTkzb0phSXpGSjE0ZXNkX1VCdklTZ0dYemZabTB6Q3JNSUxISHZJbW1pSTBoOF94dk4xSVdCMzdpT0oyai1RSlZJMDI1TDNpRndlM0drdDRYM0U?oc=5) |
@@ -129,6 +128,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-26 | Robotics startup Generalist reaches $3B valuation, sources say - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5) |
 | 2026-08-26 | Transfyr Launches Physical AI Platform for Science with $25M Seed Funding - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVG1hRHFMb0Qya2lURmRjQUFJWUx1aHB4aDV2aDJQT3FncWFXREJfaDA1cXM3SklBbzlCTFZXLUVVTncwTXR2WXBYamhEaTVLc3lSZ3lqODR6ZTZHTkJDQW9GaWs5UndMbFE2b0xwaVhCVmlHdjNpVmw4U2Z4Qkg1UHNydkczQU1Xc1V4NXBuS21FVGVkY3ZWVWtUbFpmWVR2SUFfdzFSRUlNZjBqeUlvM2ptNGNSemdieWR4dzJNOThMekoydlk3Q3NYLTk?oc=5) |
 | 2026-08-26 | Why higher education institutions should leap towards teaching physical AI - The Hindu | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSTB5dmpQa2FUdnRzVHBTWFVuZXlOcndRcHU2aHowU0xOREtiOXRXQ0VWWHliTThhYTRjYll6Q2tWc2pmeTJCSFpYN3ladWtadFVIbmk2RGdzTzhaNW4xNEVJOTFUM0NzRU51ajk2SkJBaVBKbGdiZmZKZkVXdm1GOExfUWNWN2RwLU9NTHB1ZUJtOGExczFsdlpQVVE1eVZLR0dYQy0wSEZ3eFFxU3dVZmVsQTRSYWs0djhZVTM3VWJ3dTNjYUJaU9IBzwFBVV95cUxPdTktcHBNOFRiUEVKYlJ0MGNHNHg1eVJ1UzFRaTI3NEFiT3p5Snp4OW5ETjVmN0lDM1pGZXRVUGdJekk5MXNHd0FSQTN6cWFpTGUtM0RuQTl0dVZ3UktTelNGeFMwQmx5QTNDd2V0RVdqeGFtRFF6T1ZHREpfYzJVdmYtbnJjdmlDdHFsRTVabHd5MFh3QnlrMjNVLVFTTk10MXFpMVdKbklKVzl1Z1FCWW83dDY2R25GVVhSb3B4SFliaC1tS1VMZlVWdlBLcmM?oc=5) |
+| 2026-08-25 | Physical AI startup Antioch files to raise $32M - Axios | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaE4waTJoaVgyQjUza3dndlZnV3J1U1lwSDNBay1LUlhnblEzek43cHdSc1dRVWtOUXhaZ3Q1TmNVNUc1eHlrcjhubV9xbElOLVdMMmNxdEg2cHZMempJeWdxeWU5QkhDT1BMWWl0bmtqM3VPdUNldkNObWxfZUpRTzFlZ0NrWUoyNVZlOWxuR1Q0bms5ZXhKcA?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
