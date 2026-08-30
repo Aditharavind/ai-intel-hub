@@ -1,5 +1,12 @@
 [
   {
+    "title": "Dissecting a Lethal Universal Travel Adapter",
+    "source": "Hackaday",
+    "date": "2026-08-30",
+    "url": "https://hackaday.com/2026/08/30/dissecting-a-lethal-universal-travel-adapter/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"477\" src=\"https://hackaday.com/wp-content/uploads/2026/08/universal_travel_adapter_insides_brainiac75_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The world&#8217;s refusal to standardize on a single type of mains power outlet has led to a vibrant market of so-called travel adapters, all of which try to outdo each <a class=\"read-more\" href=\"https://hackaday.com/2026/08/30/dissecting-a-lethal-universal-travel-adapter/\">&#8230;read more</a>"
+  },
+  {
     "title": "LLM Moats Quickly Evaporating",
     "source": "Hackaday",
     "date": "2026-08-30",
@@ -49,6 +56,13 @@
     "summary": "<div><img alt=\"Radxa Linkr IP KVM\" class=\"attachment-medium size-medium wp-post-image\" height=\"424\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Radxa-Linkr-IP-KVM-720x424.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Radxa Linkr is a compact, USB flash drive-sized IP KVM that connects to the target through HDMI and USB for video, keyboard, and mouse emulation. The user can control it over USB-C, Ethernet, or WiFi client/access point, even before the OS is booted. The device does not require any specific apps, since all you need is a web browser. The company also highlights support for Tailscale VPN, two-factor authentication, and  AI agents such as OpenClaw and Hermes. Radxa Linkr specifications: SoC – Rockchip RV1106G3 CPU – Arm Cortex A7 @ 1.2GHz with an integrated RISC-V co-processor. NPU – 1 TOPS 4th-gen Rockchip NPU with hybrid quantization (int4, int8, int16) ISP – 3rd-gen 5MP high-performance ISP VPU – 3072×1728 (5MP) @ 30fps H.265/H.264 encoding, 16MP @ 60FPS JPEG snapshot System Memory –  256MB DDR3L on-chip memory Storage for OS and virtual media images Optional 16 GB eMMC flash MicroSD card slot Display Input &#8211; [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/30/radxa-linkr-a-usb-drive-sized-ip-kvm-with-usb-c-ethernet-and-wifi-support/\">Radxa Linkr &#8211; A USB drive-sized IP KVM with USB-C, Ethernet, and WiFi support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Hand-Crank Flashlight",
+    "source": "Adafruit",
+    "date": "2026-08-30",
+    "url": "https://blog.adafruit.com/2026/08/30/hand-crank-flashlight/",
+    "summary": "You can never be too prepared for a situation that requires light.CrazyScience shared how they built a hand-crank flashlight. For this project, I took a small SG90 micro servo, modified it for continuous rotation, and turned it into the heart of a compact hand-crank flashlight. You can check out the details of their build on [&#8230;]"
+  },
+  {
     "title": "USB C CC Resistor Fixer Case",
     "source": "Adafruit",
     "date": "2026-08-30",
@@ -75,13 +89,6 @@
     "date": "2026-08-30",
     "url": "https://blog.adafruit.com/2026/08/29/adafruit-weekly-editorial-round-up-adafruit-wippersnapper-firmware-1-0-0-beta-132-now-on-github-attachecade-more/",
     "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. New component added SCD43👃Adafruit IO [&#8230;]"
-  },
-  {
-    "title": "Compact PCB Vise Uses Up That Leftover Filament",
-    "source": "Hackaday",
-    "date": "2026-08-29",
-    "url": "https://hackaday.com/2026/08/29/compact-pcb-vise-uses-up-that-leftover-filament/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/solder-station-DIY-reconfigurable.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Needing less than 70 grams of filament, [Chefkoch]&#8217;s 3D printed PCB vise solder station might be a good way to use up some filament spool leftovers and get yourself a <a class=\"read-more\" href=\"https://hackaday.com/2026/08/29/compact-pcb-vise-uses-up-that-leftover-filament/\">&#8230;read more</a>"
   },
   {
     "title": "ACEMAGIC Kron Mini K5 (Core 3 304) review – Part 1: Specifications, unboxing, teardown, and first boot",
@@ -243,13 +250,6 @@
     "date": "2026-08-28",
     "url": "https://blog.adafruit.com/2026/08/28/set-up-a-vpn-on-your-raspberry-pi/",
     "summary": "Looking for some privacy? Here are some ways to set up a VPN on your Pi. PiMyLifeUp shows you how to set up WireGuard VPN on your RaspberryPi. WireGuard is a new VPN protocol that has recently been gaining a lot of popularity. There are a couple of advantages to using the WireGuard VPN on [&#8230;]"
-  },
-  {
-    "title": "John Park’s CircuitPython Parsec: Fruit Jam Infrared IR Receiver",
-    "source": "Adafruit",
-    "date": "2026-08-28",
-    "url": "https://blog.adafruit.com/2026/08/28/john-parks-circuitpython-parsec-fruit-jam-infrared-ir-receiver/",
-    "summary": "#circuitpythonparsec Control your Fruit Jam with an infrared IR remote control, using the built-in IR receiver. Try out the code example To learn about CircuitPython: https://circuitpython.org &#160;"
   },
   {
     "title": "FSP Launches Next-Gen 3200W CRPS Power Solutions to Fully Power AI Edge and Next-Generation Data Centers",

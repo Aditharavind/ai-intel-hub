@@ -1,5 +1,23 @@
 [
   {
+    "model": "milab-robot/alm1-0731-milab.160.T",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/milab-robot/alm1-0731-milab.160.T",
+    "date": "2026-08-30",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "atxharris/robotics-vision-language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/atxharris/robotics-vision-language",
+    "date": "2026-08-30",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "Robot-Haus/Qwen3.8-Flash-Next-oQ4e-fp16-mtp",
     "downloads": 0,
     "likes": 0,
@@ -45,10 +63,28 @@
     "score": 0.1
   },
   {
-    "model": "jungwook2358/actlat-vla",
+    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/jungwook2358/actlat-vla",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__agentview_camera__static__pi05__seed_0",
+    "date": "2026-08-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__wrist_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__wrist_cameras__live__pi05__seed_0",
+    "date": "2026-08-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vladlinv/ru-pii-ner-gliner",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladlinv/ru-pii-ner-gliner",
     "date": "2026-08-30",
     "keyword": "vla",
     "score": 0.1
@@ -58,6 +94,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2__bbox__overlay_a75__sim__agentview_camera__live__pi05__seed_0",
+    "date": "2026-08-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "jungwook2358/actlat-vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jungwook2358/actlat-vla",
     "date": "2026-08-30",
     "keyword": "vla",
     "score": 0.1
@@ -117,24 +162,6 @@
     "score": 0.1
   },
   {
-    "model": "vlabki/rr-speed-item-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vlabki/rr-speed-item-v2",
-    "date": "2026-08-30",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "jungwook2358/gr1-v4-dino-maskonly-promptv2-vla-ckpt60000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jungwook2358/gr1-v4-dino-maskonly-promptv2-vla-ckpt60000",
-    "date": "2026-08-30",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "Ricardo-H/BehR-WorldModel-Textworld-Llama3.1-8B",
     "downloads": 200,
     "likes": 1,
@@ -177,6 +204,33 @@
     "url": "https://huggingface.co/huggsook/connect-ai-lerobot-physical-ai",
     "date": "2026-08-30",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "strawberryroboticsinc/bp-e03__syn_swp__10hz-bcexpert-pv__d7243e56__flow-c06__bc__pre_to_policy__x8ba84be",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/strawberryroboticsinc/bp-e03__syn_swp__10hz-bcexpert-pv__d7243e56__flow-c06__bc__pre_to_policy__x8ba84be",
+    "date": "2026-08-30",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "tetraengnrng/smolvla_piper_policy_manual",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tetraengnrng/smolvla_piper_policy_manual",
+    "date": "2026-08-30",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "tetraengnrng/smolvla_piper_policy_v3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tetraengnrng/smolvla_piper_policy_v3",
+    "date": "2026-08-30",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -261,33 +315,6 @@
     "score": 0.1
   },
   {
-    "model": "unsk/parc2026-cosmos-policy-lp40base-submission-zip",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/unsk/parc2026-cosmos-policy-lp40base-submission-zip",
-    "date": "2026-08-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "thiendmm/policy_test_1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/thiendmm/policy_test_1",
-    "date": "2026-08-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "unsk/parc2026-cosmos-policy-full40-submission-zip",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/unsk/parc2026-cosmos-policy-full40-submission-zip",
-    "date": "2026-08-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "FabianOvalle/Robot_IA_Gen_v8",
     "downloads": 0,
     "likes": 0,
@@ -303,15 +330,6 @@
     "url": "https://huggingface.co/FabianOvalle/Robot_IA_Gen_v7",
     "date": "2026-08-29",
     "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "cz22edd/vlaselect_test",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/cz22edd/vlaselect_test",
-    "date": "2026-08-29",
-    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -358,24 +376,6 @@
     "date": "2026-08-28",
     "keyword": "robotics",
     "score": 2.2
-  },
-  {
-    "model": "michaelwilsonmu/reading-robotics-vision-language",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/michaelwilsonmu/reading-robotics-vision-language",
-    "date": "2026-08-28",
-    "keyword": "robotics",
-    "score": 3.7
-  },
-  {
-    "model": "StarVLA/VLAct_Qwen3GR00T_Robotwin_Finetune",
-    "downloads": 19,
-    "likes": 0,
-    "url": "https://huggingface.co/StarVLA/VLAct_Qwen3GR00T_Robotwin_Finetune",
-    "date": "2026-08-28",
-    "keyword": "robot",
-    "score": 5.8
   },
   {
     "model": "hyeonsjung/so101-world-model-v1",
@@ -504,6 +504,15 @@
     "score": 0.1
   },
   {
+    "model": "michaelwilsonmu/reading-robotics-vision-language",
+    "downloads": 12,
+    "likes": 0,
+    "url": "https://huggingface.co/michaelwilsonmu/reading-robotics-vision-language",
+    "date": "2026-08-28",
+    "keyword": "robotics",
+    "score": 3.7
+  },
+  {
     "model": "arpawlowski/learn-robotics-vision-language",
     "downloads": 13,
     "likes": 0,
@@ -601,15 +610,6 @@
     "date": "2026-08-27",
     "keyword": "world model",
     "score": 5.5
-  },
-  {
-    "model": "DanielParkerora/study-robotics-vision-language23",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/DanielParkerora/study-robotics-vision-language23",
-    "date": "2026-08-27",
-    "keyword": "robotics",
-    "score": 2.8
   },
   {
     "model": "KosmoCHE/worldmodel-audit",
