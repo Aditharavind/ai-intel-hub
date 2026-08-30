@@ -1,13 +1,13 @@
 [
   {
     "repo": "NVIDIA/skills",
-    "stars": 3146,
+    "stars": 3148,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-30",
     "topic": "physical-ai",
-    "score": 1258.5
+    "score": 1259.3
   },
   {
     "repo": "copper-project/copper-rs",
@@ -21,23 +21,23 @@
   },
   {
     "repo": "autonomous-ai/autonomous-os",
-    "stars": 247,
+    "stars": 248,
     "language": "Python",
     "description": "The open-source operating system for robots — install it and your robot comes alive",
     "url": "https://github.com/autonomous-ai/autonomous-os",
     "date": "2026-08-30",
     "topic": "physical-ai",
-    "score": 98.9
+    "score": 99.3
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 83278,
+    "stars": 83288,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-08-30",
     "topic": "robotics",
-    "score": 33311.3
+    "score": 33315.3
   },
   {
     "repo": "commaai/openpilot",
@@ -51,23 +51,33 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15770,
+    "stars": 15771,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-30",
     "topic": "robotics",
-    "score": 6308.1
+    "score": 6308.5
+  },
+  {
+    "repo": "google-deepmind/mujoco",
+    "stars": 14800,
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "date": "2026-08-30",
+    "topic": "robotics",
+    "score": 5920.1
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 14047,
+    "stars": 14050,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-30",
     "topic": "robotics",
-    "score": 5618.9
+    "score": 5620.1
   },
   {
     "repo": "kornia/kornia",
@@ -78,6 +88,16 @@
     "date": "2026-08-30",
     "topic": "robotics",
     "score": 4534.5
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3907,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-08-30",
+    "topic": "embodied-ai",
+    "score": 1562.9
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -91,13 +111,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS-core",
-    "stars": 1915,
+    "stars": 1917,
     "language": "Python",
     "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
     "date": "2026-08-30",
     "topic": "embodied-ai",
-    "score": 766.1
+    "score": 766.9
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -141,13 +161,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6486,
+    "stars": 6488,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-30",
     "topic": "world-model",
-    "score": 2594.5
+    "score": 2595.3
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -161,13 +181,13 @@
   },
   {
     "repo": "deeplethe/utopia",
-    "stars": 719,
+    "stars": 722,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-08-30",
     "topic": "world-model",
-    "score": 287.7
+    "score": 288.9
   },
   {
     "repo": "mll-lab-nu/VAGEN",
@@ -191,13 +211,13 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 8002,
+    "stars": 8004,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-08-30",
     "topic": "robot-learning",
-    "score": 3200.9
+    "score": 3201.7
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -260,16 +280,6 @@
     "score": 143.3
   },
   {
-    "repo": "google-deepmind/mujoco",
-    "stars": 14799,
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "url": "https://github.com/google-deepmind/mujoco",
-    "date": "2026-08-29",
-    "topic": "robotics",
-    "score": 5919.7
-  },
-  {
     "repo": "rerun-io/rerun",
     "stars": 11375,
     "language": "Rust",
@@ -278,16 +288,6 @@
     "date": "2026-08-29",
     "topic": "robotics",
     "score": 4550.1
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3907,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-08-29",
-    "topic": "embodied-ai",
-    "score": 1562.9
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -331,13 +331,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2383,
+    "stars": 2384,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-08-28",
     "topic": "robot-learning",
-    "score": 953.3
+    "score": 953.7
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -461,13 +461,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15683,
+    "stars": 15684,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-26",
     "topic": "embodied-ai",
-    "score": 6273.3
+    "score": 6273.7
   },
   {
     "repo": "ace-trump-tech/MindPaw",

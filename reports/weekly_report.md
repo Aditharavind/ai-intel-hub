@@ -1,14 +1,20 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-30 21:40 UTC
+Generated: 2026-08-30 23:57 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-08-27 | Reconstructing Humans and Objects in Interaction using Large Reconstruction Models | [link](https://arxiv.org/pdf/2608.27407v1) |
+| 2026-08-27 | CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators | [link](https://arxiv.org/pdf/2608.27406v1) |
+| 2026-08-27 | FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference | [link](https://arxiv.org/pdf/2608.27384v1) |
+| 2026-08-27 | Embodied Scene Rearrangement Planning | [link](https://arxiv.org/pdf/2608.27371v1) |
+| 2026-08-27 | Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models | [link](https://arxiv.org/pdf/2608.27367v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83278 | 33311.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83288 | 33315.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63533 | 25413.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44473 | 17789.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30408 | 12163.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
@@ -36,7 +42,7 @@ _No items collected yet._
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-08-30 | Tyler Raciti & Chet Ellis On Volumes, Their Startup Building Superintelligent Data for Physical AI - Medium | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLXhNSU90NEpuTzVOclhreGs3dEhnT0NVc2xNUlgxYTRGTERjUGI1UVp2RjJXSE9KdE1GcDhvR2l0X19paU5pU2lQTG9mRHhzcGFhTTBTUDFnUGc4c0htX3RuSGE4UndoOUtQdVpaMGZXQl8xVDVLVHhUM2JLNllSYXNYQllmcHp6ajFleUM0WlNhYmlScXI1Q0F3bGdEQ29kVklDUHpSVEpBNExFUG10QVpZV2g1SXVCSHhFQlduSlRMV3hBck55aWxyMm1rNldwR2IzTl8tblAtWHlQU1B3?oc=5) |
+| 2026-08-30 | Big tech steps up push into physical AI - 디지털투데이 | physical ai startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZjdVcmw4akRkV1B6cC04UHNGalU0QUpEajc1UXNLQ0dNeTJnd1JjZE9HWEd2eGhlVEFmVUZFX2NaQlZhT0x2aVQ3ampaTTY3dG5UTHU4bldoS1A2N2NQUkNFb190aGtoM2p4M214Y0hZZW1lWUlZdUMxMnlMV0dxT3NpRHlLbWl1NnBQYg?oc=5) |
 | 2026-08-30 | humanoid robot walk on Mars before human at 50% - StartupHub.ai | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNlBnYVItOXhxd05xNk9hOFdLdlBNYWRxa2l6eDBsYlFYX3dYSGVSWjdGTDZMMVB4WWlBVkd5NWFqR3BpazgtRGEtN3FGQzZjNm1rUHRIT1JYUmZDckdqbFl6RzdBOENsbXptTVdxT29Ra3Jub2psSk1tbExvLWZ2Z1N3Z0R1eExoZnpuZXJueHpiczFZVlg4U3Z4ZThyT0pseUtiNmZORQ?oc=5) |
 | 2026-08-30 | For 30 Dollars an Hour, a Robot Cleans Your Home: “Slow, but Satisfying” - 아시아경제 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qd0h1S2NTdEU5Q1o5cjE4TEhyM3MweC1TY1ZGcEE0STJxSkFZa2hJVTUwaXBuOTJJM1pJOTh1TU5LdEdoWDJpOUktSG11N0lfWld4Nlg3SnBKV083d1NCZmFnX0E?oc=5) |
 | 2026-08-29 | A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEhEdUxOLWhXMjJQbGFrSk9aWi1mak9aWk1mV1JtcGEtVncwSV96ek1FRExUalJXNzBSakEtaU1QczhjWm1CcWJxY0pwS2NzQ2d5OElXeTR5cG5hdDFYWHQ3T2s4UnFFWUpITmFzWlNHTzNSeTlqSHdjdHN2eVNPa0pRclBzU09wQy16b0VxeUtsR29TamptdFdXbGEwZzFQ?oc=5) |
-| 2026-08-28 | Anthropic Previews Standard for AI Control of Physical Devices - PYMNTS.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEFlQ0lJd2dJNnczcjRXTE5NVTlXcm5Yam9tQmtpUVpxclBUMVFGREtSODllRDB0a2hfSkpWc2dWeGtXTmlJd0pycFdlbWxSTGFwazQ5ZHIyb21LNXVOcHNWa05iaXlac19CcXF2UVBMalh1TnBPVGIzY3pZVGdyYXM4dFk3VzNxRFVUUTNmZnhKazY2TXNTQ2hlTXFwNEY0YzRqWXVsdUw4d1dfcWtiUlZGOGR5T1JDYXRTSA?oc=5) |
