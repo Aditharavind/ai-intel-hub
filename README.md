@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-29 22:50 UTC
+Last Updated: 2026-08-30 00:48 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-29 | Compact PCB Vise Uses Up That Leftover Filament | Hackaday | [link](https://hackaday.com/2026/08/29/compact-pcb-vise-uses-up-that-leftover-filament/) |
 | 2026-08-29 | Wikipedia on a Cheap Yellow Display | Hackaday | [link](https://hackaday.com/2026/08/29/wikipedia-on-a-cheap-yellow-display/) |
 | 2026-08-29 | Motorized Planer Height Adjustment Dials In | Hackaday | [link](https://hackaday.com/2026/08/29/motorized-planer-height-adjustment-dials-in/) |
 | 2026-08-29 | Same As It Ever Was | Hackaday | [link](https://hackaday.com/2026/08/29/same-as-it-ever-was/) |
 | 2026-08-29 | Wear Your Way Out Of AI Surveilance | Hackaday | [link](https://hackaday.com/2026/08/29/wear-your-way-out-of-ai-surveilance/) |
 | 2026-08-29 | 3D Printed Piano Action Faithful to the Original | Hackaday | [link](https://hackaday.com/2026/08/29/3d-printed-piano-action-faithful-to-the-original/) |
 | 2026-08-29 | Playing Snake with a Pneumatic Display | Hackaday | [link](https://hackaday.com/2026/08/28/playing-snake-with-a-pneumatic-display/) |
-| 2026-08-29 | This Library Needs to Be At Least… Three Times Bigger | Hackaday | [link](https://hackaday.com/2026/08/28/this-library-needs-to-be-at-least-three-times-bigger/) |
+| 2026-08-29 | New Products 8/29/2026 | Adafruit | [link](https://blog.adafruit.com/2026/08/29/new-products-8-29-2026/) |
 | 2026-08-29 | Prepare for NASA’s Roman Launch | Adafruit | [link](https://blog.adafruit.com/2026/08/29/prepare-for-nasas-roman-launch/) |
 | 2026-08-29 | Why Are Rivers So Mathematical? | Adafruit | [link](https://blog.adafruit.com/2026/08/29/why-are-rivers-so-mathematical/) |
-| 2026-08-29 | Firehat brings FireWire capture to Raspberry Pi | Adafruit | [link](https://blog.adafruit.com/2026/08/29/firehat-brings-firewire-capture-to-raspberry-pi/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -91,22 +91,22 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3138 | Python | 1255.3 | [link](https://github.com/NVIDIA/skills) |
+| isaac-sim/IsaacLab | 7998 | Python | 3199.3 | [link](https://github.com/isaac-sim/IsaacLab) |
+| NVIDIA/skills | 3139 | Python | 1255.7 | [link](https://github.com/NVIDIA/skills) |
 | NVlabs/alpamayo | 2007 | Python | 802.9 | [link](https://github.com/NVlabs/alpamayo) |
 | mosaico-labs/mosaico | 975 | Python | 390.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 472 | Shell | 188.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | NVlabs/alpamayo1.5 | 358 | Python | 143.3 | [link](https://github.com/NVlabs/alpamayo1.5) |
-| Developer-Y/cs-video-courses | 83225 |  | 33290.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83234 |  | 33293.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63531 | Python | 25412.5 | [link](https://github.com/commaai/openpilot) |
-| google-deepmind/mujoco | 14780 | C++ | 5912.1 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 14016 | Python | 5606.5 | [link](https://github.com/earthtojake/text-to-cad) |
-| rerun-io/rerun | 11373 | Rust | 4549.3 | [link](https://github.com/rerun-io/rerun) |
+| google-deepmind/mujoco | 14782 | C++ | 5912.9 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 14017 | Python | 5606.9 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-08-29 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUE5uUjBJdWtWanlWTy1VRW1xV3NKNmdlVmZ3QUI2alRESUYtdWhSQmZGX3dneTNPTWtNSkdUbGNzRW5kLWM5WjBxYmJ6am9lbjJtMGhPUFdsWFprOU9LZ3R2MElNaUs2ZHNWdGk0YTVTWFdnUHVxSlo3TnVQSUkxVWN0c3VueHNiNklv0gGQAUFVX3lxTE1iQUdNX0QzVTNWek92YWg2dzloNl95MUlnaE9YS3czWExUNWF2c0dtQ2tiMzNsM2s5ZU5PdkFMZHpMMWUzMlZnWHVpZXBEU0N6S2xHMC1QQl9QNmt3MlMxUGJDRjJmT2xrU3NGbzQ3cHdIRndib282Wmc0SjFMdTVpak13VndmcWtSeU1hR1dBcQ?oc=5) |
-| 2026-08-28 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQODBSdjZncWQzc1ExX1lxZzJMbHEyT0ZyMEJmclBnbmlUeGRkRlFoUWRSZC1jRHdIM0x0dUw5TlZhSnlWaHNpME9QTzFrOW02SzZxbWlWbkk5bzRnTFdDMElBR1c4X1N1TFBSVlZkQXBRS2tDNHlMVG9FekhrNHNWaUVFNTVrYTNfaERIajRBNGI4OEUtTm0zR285LXFRSE02V1RndUgwVWswUdIBrwFBVV95cUxQVTF0WU5jVTdJOTREUy13UmJsekZ4RDljNUtMRGtLNVdXdXgxWkhGTmZ2WlV2aEFURWE3MXQ1R2toc3FLRjd3WWVVbHp2azJzdHdhUmFPUmtMY2RKbUxlZUp0OGtkQ0VDazBLXzJmS0lEazAtbUZXVjViYjIzRENKZ296ZG1ZMlViT2tuck80ajFNaXBjNmRrTzZYSzZzY3pvclVwWVVtTDFBcXB5NjJ3?oc=5) |
+| 2026-08-28 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTF0WU5jVTdJOTREUy13UmJsekZ4RDljNUtMRGtLNVdXdXgxWkhGTmZ2WlV2aEFURWE3MXQ1R2toc3FLRjd3WWVVbHp2azJzdHdhUmFPUmtMY2RKbUxlZUp0OGtkQ0VDazBLXzJmS0lEazAtbUZXVjViYjIzRENKZ296ZG1ZMlViT2tuck80ajFNaXBjNmRrTzZYSzZzY3pvclVwWVVtTDFBcXB5NjJ30gGvAUFVX3lxTFBVMXRZTmNVN0k5NERTLXdSYmx6RnhEOWM1S0xEa0s1V1d1eDFaSEZOZnZaVXZoQVRFYTcxdDVHa2hzcUtGN3dZZVVsenZrMnN0d2FSYU9Sa0xjZEptTGVlSnQ4a2RDRUNrMEtfMmZLSURrMC1tRldWNWJiMjNEQ0pnb3pkbVkyVWJPa25yTzRqMU1pcGM2ZGtPNlhLNnNjem9yVXBZVW1MMUFxcHk2Mnc?oc=5) |
 | 2026-08-27 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTVk3b1RFZzhTenN5SDFFV1lYWHBCVTczNmowLVBBdUZNSHdyN2pFMlNsYjdmd2k4TS0zbUx0bjFYQjhQZ0s4ai10VThxWTB6LTlvb3ROVVM3bGlRRFRRc1RZSU9mcndUaTU4WlVyRzQ4OGtRUWJZTlhtWnBmWUxBdkx4RDZQYm5X?oc=5) |
 | 2026-08-26 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5) |
 | 2026-08-25 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2Z0SE1HMGJxVVEtaFZtSnNoQnEyR3lzR1lGNmZVZjBlTzFHZi1IMEdVajFDVUJ0NjlGeW5JRVJiOGU1Z1Y4bVMzc3gtQXNNRWpPXzhmRFJwN1VNUnhUYjdKUEkxdnZicVlVWW5ESk5BLTEzNzhjUk1iTGpsWEU0N1J3U2xfYXVRY2JfYXNEMkszb0dndnNiekU2NE0xcXNJWTJDNXFrYTBrYThmeFE?oc=5) |

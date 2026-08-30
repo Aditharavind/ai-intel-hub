@@ -1,13 +1,23 @@
 [
   {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 7998,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-08-30",
+    "topic": "robot-learning",
+    "score": 3199.3
+  },
+  {
     "repo": "NVIDIA/skills",
-    "stars": 3138,
+    "stars": 3139,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-08-29",
     "topic": "physical-ai",
-    "score": 1255.3
+    "score": 1255.7
   },
   {
     "repo": "NVlabs/alpamayo",
@@ -51,13 +61,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 83225,
+    "stars": 83234,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-08-29",
     "topic": "robotics",
-    "score": 33290.1
+    "score": 33293.7
   },
   {
     "repo": "commaai/openpilot",
@@ -71,23 +81,23 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14780,
+    "stars": 14782,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-08-29",
     "topic": "robotics",
-    "score": 5912.1
+    "score": 5912.9
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 14016,
+    "stars": 14017,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-08-29",
     "topic": "robotics",
-    "score": 5606.5
+    "score": 5606.9
   },
   {
     "repo": "rerun-io/rerun",
@@ -121,13 +131,13 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3403,
+    "stars": 3404,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-08-29",
     "topic": "embodied-ai",
-    "score": 1361.3
+    "score": 1361.7
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -141,13 +151,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS-core",
-    "stars": 1890,
+    "stars": 1892,
     "language": "Python",
     "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
     "date": "2026-08-29",
     "topic": "embodied-ai",
-    "score": 756.1
+    "score": 756.9
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -181,23 +191,23 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6459,
+    "stars": 6460,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-08-29",
     "topic": "world-model",
-    "score": 2583.7
+    "score": 2584.1
   },
   {
     "repo": "deeplethe/utopia",
-    "stars": 661,
+    "stars": 663,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-08-29",
     "topic": "world-model",
-    "score": 264.5
+    "score": 265.3
   },
   {
     "repo": "softmata/horus",
@@ -218,16 +228,6 @@
     "date": "2026-08-29",
     "topic": "humanoid",
     "score": 72.5
-  },
-  {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 7996,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-08-29",
-    "topic": "robot-learning",
-    "score": 3198.5
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -271,13 +271,13 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15765,
+    "stars": 15767,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-08-28",
     "topic": "robotics",
-    "score": 6306.1
+    "score": 6306.9
   },
   {
     "repo": "RLinf/RLinf",
@@ -441,23 +441,23 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15670,
+    "stars": 15671,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-26",
     "topic": "embodied-ai",
-    "score": 6268.1
+    "score": 6268.5
   },
   {
     "repo": "ace-trump-tech/MindPaw",
-    "stars": 2442,
+    "stars": 2443,
     "language": "C++",
     "description": "🐕 MindPaw — 基于 ESP8266 的开源桌面四足机器狗，支持语音、手势、网页遥控、豆包 AI 对话与 PAD 情感交互。可选 AI Infra 网关，适合机器人入门、嵌入式 AI、边缘 Agent 与 HRI 研究。",
     "url": "https://github.com/ace-trump-tech/MindPaw",
     "date": "2026-08-26",
     "topic": "vla",
-    "score": 976.9
+    "score": 977.3
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",
@@ -721,13 +721,13 @@
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
-    "stars": 3192,
+    "stars": 3193,
     "language": "HTML",
     "description": "BOM, STL files and instructions for PAROL6 3D printed robot arm",
     "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
     "date": "2026-08-17",
     "topic": "lerobot",
-    "score": 1276.9
+    "score": 1277.3
   },
   {
     "repo": "Tavish9/any4lerobot",
