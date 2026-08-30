@@ -1,5 +1,12 @@
 [
   {
+    "title": "Low(er)-Cost Humanoid Robot Leverages DIY Actuators",
+    "source": "Hackaday",
+    "date": "2026-08-30",
+    "url": "https://hackaday.com/2026/08/30/lower-cost-humanoid-robot-leverages-diy-actuators/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/berkeley-humaonid-lite-cover-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Humanoid robots, even scaled-down ones, tend to be expensive. The Berkeley Humanoid Lite offers a more accessible and economical option by centering the design around 3D printed actuators that make <a class=\"read-more\" href=\"https://hackaday.com/2026/08/30/lower-cost-humanoid-robot-leverages-diy-actuators/\">&#8230;read more</a>"
+  },
+  {
     "title": "Giving the NES an Optical Data Storage Add-On",
     "source": "Hackaday",
     "date": "2026-08-30",
@@ -35,6 +42,20 @@
     "summary": "<div><img alt=\"Radxa Linkr IP KVM\" class=\"attachment-medium size-medium wp-post-image\" height=\"424\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Radxa-Linkr-IP-KVM-720x424.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Radxa Linkr is a compact, USB flash drive-sized IP KVM that connects to the target through HDMI and USB for video, keyboard, and mouse emulation. The user can control it over USB-C, Ethernet, or WiFi client/access point, even before the OS is booted. The device does not require any specific apps, since all you need is a web browser. The company also highlights support for Tailscale VPN, two-factor authentication, and  AI agents such as OpenClaw and Hermes. Radxa Linkr specifications: SoC – Rockchip RV1106G3 CPU – Arm Cortex A7 @ 1.2GHz with an integrated RISC-V co-processor. NPU – 1 TOPS 4th-gen Rockchip NPU with hybrid quantization (int4, int8, int16) ISP – 3rd-gen 5MP high-performance ISP VPU – 3072×1728 (5MP) @ 30fps H.265/H.264 encoding, 16MP @ 60FPS JPEG snapshot System Memory –  256MB DDR3L on-chip memory Storage for OS and virtual media images Optional 16 GB eMMC flash MicroSD card slot Display Input &#8211; [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/30/radxa-linkr-a-usb-drive-sized-ip-kvm-with-usb-c-ethernet-and-wifi-support/\">Radxa Linkr &#8211; A USB drive-sized IP KVM with USB-C, Ethernet, and WiFi support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Building a backyard office, the build and cost breakdown",
+    "source": "Adafruit",
+    "date": "2026-08-30",
+    "url": "https://blog.adafruit.com/2026/08/30/building-a-backyard-office-the-build-and-cost-breakdown/",
+    "summary": "Kyle Lambert had worked remotely for most of his career and always dreamed of having his own backyard office. A place on the property but completely separate from the home. Until this year, that idea seemed too unnecessary… then our baby grew into a toddler. We have a small house in Portland. We love it, [&#8230;]"
+  },
+  {
+    "title": "MIT: AI helps design new materials that work in the real world",
+    "source": "Adafruit",
+    "date": "2026-08-30",
+    "url": "https://blog.adafruit.com/2026/08/30/mit-ai-helps-design-new-materials-that-work-in-the-real-world/",
+    "summary": "Today, anyone with a large enough artificial intelligence model can generate millions of new material designs in minutes. Unfortunately, that hasn’t led to a huge leap in the number of new materials being used to improve the performance of products like computer chips and rockets. One reason for the translation gap is that current models [&#8230;]"
+  },
+  {
     "title": "Adafruit Weekly Editorial Round Up: Adafruit WipperSnapper Firmware 1.0.0 beta 132 now on GitHub, Attachécade, & more!",
     "source": "Adafruit",
     "date": "2026-08-30",
@@ -54,13 +75,6 @@
     "date": "2026-08-29",
     "url": "https://hackaday.com/2026/08/29/wikipedia-on-a-cheap-yellow-display/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/cyd-wikipedia-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Cheap Yellow Display (CYD) is a board carrying a slightly older ESP32 variant, a display with a resistive touchscreen, an SD card, and not much else. It&#8217;s often used <a class=\"read-more\" href=\"https://hackaday.com/2026/08/29/wikipedia-on-a-cheap-yellow-display/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Motorized Planer Height Adjustment Dials In",
-    "source": "Hackaday",
-    "date": "2026-08-29",
-    "url": "https://hackaday.com/2026/08/29/motorized-planer-height-adjustment-dials-in/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/planer-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Having access to a planer opens up a lot of options for woodworking. It enables a craftsman to work with much rougher lumber and the finished results generally have tighter <a class=\"read-more\" href=\"https://hackaday.com/2026/08/29/motorized-planer-height-adjustment-dials-in/\">&#8230;read more</a>"
   },
   {
     "title": "ACEMAGIC Kron Mini K5 (Core 3 304) review – Part 1: Specifications, unboxing, teardown, and first boot",
@@ -236,20 +250,6 @@
     "date": "2026-08-28",
     "url": "https://blog.adafruit.com/2026/08/28/detect-skin-cancer-with-raspberry-pi-piday-raspberrypi/",
     "summary": "A photograph is taken of a skin lesion using an interface designed to be as user-friendly as possible. The system is a demonstration of TinyM, image via Raspberry Pi LesionIQ is a project that aims to aid in early detection of skin cancer. Using a Raspberry Pi based machine learning system, patients can take a [&#8230;]"
-  },
-  {
-    "title": "Observe the Moon with NASA September 19, 2026",
-    "source": "Adafruit",
-    "date": "2026-08-28",
-    "url": "https://blog.adafruit.com/2026/08/28/observe-the-moon-with-nasa-september-19-2026/",
-    "summary": "September 19 is International Observe the Moon Night, an annual celebration of observation, science and exploration. Head over to NASA&#8216;s landing page where you&#8217;ll access ways to observe, Moons maps and guide and so much more. Read more Keep your eyes on the moon all the time with a DIY build in the Adafruit Learning [&#8230;]"
-  },
-  {
-    "title": "NEW GUIDE: Adafruit GP8403 I2C DAC with 12V Booster #AdafruitLearningSystem @Adafruit",
-    "source": "Adafruit",
-    "date": "2026-08-28",
-    "url": "https://blog.adafruit.com/2026/08/28/new-guide-adafruit-gp8403-i2c-dac-with-12v-booster-adafruitlearningsystem-adafruit/",
-    "summary": "The Adafruit GP8403 Breakout Board has the ability to output 0-10V analog voltages, so it&#8217;s useful for devices that have wide voltage input ranges &#8211; like audio or op-amps. The GP8402 chip has a built-in I2C-to-analog signal converter that linearly converts 12-bit digital values from 0x000 to 0xFFF into two independent analog voltage outputs of [&#8230;]"
   },
   {
     "title": "FSP Launches Next-Gen 3200W CRPS Power Solutions to Fully Power AI Edge and Next-Generation Data Centers",

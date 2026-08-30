@@ -1,5 +1,23 @@
 [
   {
+    "model": "Robot-Haus/Qwen3.8-Flash-Next-oQ4e-fp16-mtp",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Robot-Haus/Qwen3.8-Flash-Next-oQ4e-fp16-mtp",
+    "date": "2026-08-30",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "JackieMM/RoboTwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/JackieMM/RoboTwin",
+    "date": "2026-08-30",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "Chipaipai/tcc-core-real-robot-policies",
     "downloads": 0,
     "likes": 0,
@@ -18,28 +36,19 @@
     "score": 0.1
   },
   {
-    "model": "mafangniu/Behavior-Skill-VLA-Checkpoints",
+    "model": "sam-guided-vlas/train_1_2__mask__overlay_a75__sim__wrist_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/mafangniu/Behavior-Skill-VLA-Checkpoints",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__wrist_cameras__live__pi05__seed_0",
     "date": "2026-08-30",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "vlabki/rr-speed-item-4p-v1",
+    "model": "vladihavr/RisottoNeroJoJo",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/vlabki/rr-speed-item-4p-v1",
-    "date": "2026-08-30",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vlabki/rr-speed-item-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vlabki/rr-speed-item-v2",
+    "url": "https://huggingface.co/vladihavr/RisottoNeroJoJo",
     "date": "2026-08-30",
     "keyword": "vla",
     "score": 0.1
@@ -54,6 +63,51 @@
     "score": 0.1
   },
   {
+    "model": "manual-cognition/lingbot-vla2-astribot-all-bins-absolute-tool-position",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/manual-cognition/lingbot-vla2-astribot-all-bins-absolute-tool-position",
+    "date": "2026-08-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vlabki/rr-speed-item-4p-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vlabki/rr-speed-item-4p-v1",
+    "date": "2026-08-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "VladDrakula/Masha",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VladDrakula/Masha",
+    "date": "2026-08-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mafangniu/Behavior-Skill-VLA-Checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mafangniu/Behavior-Skill-VLA-Checkpoints",
+    "date": "2026-08-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vlabki/rr-speed-item-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vlabki/rr-speed-item-v2",
+    "date": "2026-08-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "jungwook2358/gr1-v4-dino-maskonly-promptv2-vla-ckpt60000",
     "downloads": 0,
     "likes": 0,
@@ -63,12 +117,102 @@
     "score": 0.1
   },
   {
+    "model": "Ricardo-H/BehR-WorldModel-Textworld-Llama3.1-8B",
+    "downloads": 200,
+    "likes": 1,
+    "url": "https://huggingface.co/Ricardo-H/BehR-WorldModel-Textworld-Llama3.1-8B",
+    "date": "2026-08-30",
+    "keyword": "world model",
+    "score": 60.3
+  },
+  {
+    "model": "Ricardo-H/BehR-WorldModel-Webshop-Llama3.1-8B",
+    "downloads": 200,
+    "likes": 1,
+    "url": "https://huggingface.co/Ricardo-H/BehR-WorldModel-Webshop-Llama3.1-8B",
+    "date": "2026-08-30",
+    "keyword": "world model",
+    "score": 60.3
+  },
+  {
+    "model": "Ricardo-H/BehR-WorldModel-Textworld-Qwen2.5-7B",
+    "downloads": 199,
+    "likes": 1,
+    "url": "https://huggingface.co/Ricardo-H/BehR-WorldModel-Textworld-Qwen2.5-7B",
+    "date": "2026-08-30",
+    "keyword": "world model",
+    "score": 60.0
+  },
+  {
+    "model": "Ricardo-H/BehR-WorldModel-Webshop-Qwen2.5-7B",
+    "downloads": 195,
+    "likes": 1,
+    "url": "https://huggingface.co/Ricardo-H/BehR-WorldModel-Webshop-Qwen2.5-7B",
+    "date": "2026-08-30",
+    "keyword": "world model",
+    "score": 58.8
+  },
+  {
     "model": "huggsook/connect-ai-lerobot-physical-ai",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/huggsook/connect-ai-lerobot-physical-ai",
     "date": "2026-08-30",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "jaeikkim/fr3-cube-mimicgen-native10hz-87aac180-diffusion-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jaeikkim/fr3-cube-mimicgen-native10hz-87aac180-diffusion-policy",
+    "date": "2026-08-30",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "policyengine/policyengine-uk-data-private",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/policyengine/policyengine-uk-data-private",
+    "date": "2026-08-30",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "unsk/parc2026-cosmos-policy-decay-submission-zip",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/unsk/parc2026-cosmos-policy-decay-submission-zip",
+    "date": "2026-08-30",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "eh-cosmos-ai/policy_pick_and_place_black_v3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/eh-cosmos-ai/policy_pick_and_place_black_v3",
+    "date": "2026-08-30",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Myungkyu/hiwrld-hl-policy-ckpts",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Myungkyu/hiwrld-hl-policy-ckpts",
+    "date": "2026-08-30",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "eh-cosmos-ai/policy_pick_and_place_v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/eh-cosmos-ai/policy_pick_and_place_v2",
+    "date": "2026-08-30",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -126,15 +270,6 @@
     "score": 0.1
   },
   {
-    "model": "thiendmm/policy_test",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/thiendmm/policy_test",
-    "date": "2026-08-30",
-    "keyword": "policy",
-    "score": 1.9
-  },
-  {
     "model": "FabianOvalle/Robot_IA_Gen_v8",
     "downloads": 0,
     "likes": 0,
@@ -180,42 +315,6 @@
     "score": 156.1
   },
   {
-    "model": "vlabki/TF_item_v1r",
-    "downloads": 26,
-    "likes": 0,
-    "url": "https://huggingface.co/vlabki/TF_item_v1r",
-    "date": "2026-08-29",
-    "keyword": "vla",
-    "score": 7.9
-  },
-  {
-    "model": "vlabki/KC_item_v1r",
-    "downloads": 26,
-    "likes": 0,
-    "url": "https://huggingface.co/vlabki/KC_item_v1r",
-    "date": "2026-08-29",
-    "keyword": "vla",
-    "score": 7.9
-  },
-  {
-    "model": "vlabki/MR_item_v1r",
-    "downloads": 27,
-    "likes": 0,
-    "url": "https://huggingface.co/vlabki/MR_item_v1r",
-    "date": "2026-08-29",
-    "keyword": "vla",
-    "score": 8.2
-  },
-  {
-    "model": "vlabki/GMC_item_v1r",
-    "downloads": 25,
-    "likes": 0,
-    "url": "https://huggingface.co/vlabki/GMC_item_v1r",
-    "date": "2026-08-29",
-    "keyword": "vla",
-    "score": 7.6
-  },
-  {
     "model": "clementpetit/embodied-ai-review",
     "downloads": 16,
     "likes": 0,
@@ -223,51 +322,6 @@
     "date": "2026-08-29",
     "keyword": "embodied",
     "score": 4.9
-  },
-  {
-    "model": "jinhern424/my_policy",
-    "downloads": 24,
-    "likes": 0,
-    "url": "https://huggingface.co/jinhern424/my_policy",
-    "date": "2026-08-29",
-    "keyword": "policy",
-    "score": 7.3
-  },
-  {
-    "model": "mkche9/my_so101_policy",
-    "downloads": 20,
-    "likes": 0,
-    "url": "https://huggingface.co/mkche9/my_so101_policy",
-    "date": "2026-08-29",
-    "keyword": "policy",
-    "score": 6.1
-  },
-  {
-    "model": "Bekhzod/TASK_02_act_policy_20260721",
-    "downloads": 25,
-    "likes": 0,
-    "url": "https://huggingface.co/Bekhzod/TASK_02_act_policy_20260721",
-    "date": "2026-08-29",
-    "keyword": "policy",
-    "score": 7.6
-  },
-  {
-    "model": "KillerBoss/s26-diffusion-policy-npu",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/KillerBoss/s26-diffusion-policy-npu",
-    "date": "2026-08-29",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "egcfwong/cf_policy",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/egcfwong/cf_policy",
-    "date": "2026-08-29",
-    "keyword": "policy",
-    "score": 3.7
   },
   {
     "model": "nqkowalczyk/robotics-vision-language-review",
@@ -324,24 +378,6 @@
     "score": 5.8
   },
   {
-    "model": "StarVLA/VLAct_Qwen3PI_Robotwin_all_Finetune",
-    "downloads": 24,
-    "likes": 0,
-    "url": "https://huggingface.co/StarVLA/VLAct_Qwen3PI_Robotwin_all_Finetune",
-    "date": "2026-08-28",
-    "keyword": "robot",
-    "score": 7.3
-  },
-  {
-    "model": "StarVLA/VLAct_Qwen3PI_Robotwin_Finetune",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/StarVLA/VLAct_Qwen3PI_Robotwin_Finetune",
-    "date": "2026-08-28",
-    "keyword": "robot",
-    "score": 6.7
-  },
-  {
     "model": "hyeonsjung/so101-world-model-v1",
     "downloads": 0,
     "likes": 1,
@@ -358,42 +394,6 @@
     "date": "2026-08-28",
     "keyword": "world model",
     "score": 0.1
-  },
-  {
-    "model": "Ricardo-H/BehR-WorldModel-Textworld-Llama3.1-8B",
-    "downloads": 200,
-    "likes": 1,
-    "url": "https://huggingface.co/Ricardo-H/BehR-WorldModel-Textworld-Llama3.1-8B",
-    "date": "2026-08-28",
-    "keyword": "world model",
-    "score": 60.3
-  },
-  {
-    "model": "Ricardo-H/BehR-WorldModel-Textworld-Qwen2.5-7B",
-    "downloads": 199,
-    "likes": 1,
-    "url": "https://huggingface.co/Ricardo-H/BehR-WorldModel-Textworld-Qwen2.5-7B",
-    "date": "2026-08-28",
-    "keyword": "world model",
-    "score": 60.0
-  },
-  {
-    "model": "Ricardo-H/BehR-WorldModel-Webshop-Llama3.1-8B",
-    "downloads": 200,
-    "likes": 1,
-    "url": "https://huggingface.co/Ricardo-H/BehR-WorldModel-Webshop-Llama3.1-8B",
-    "date": "2026-08-28",
-    "keyword": "world model",
-    "score": 60.3
-  },
-  {
-    "model": "Ricardo-H/BehR-WorldModel-Webshop-Qwen2.5-7B",
-    "downloads": 195,
-    "likes": 1,
-    "url": "https://huggingface.co/Ricardo-H/BehR-WorldModel-Webshop-Qwen2.5-7B",
-    "date": "2026-08-28",
-    "keyword": "world model",
-    "score": 58.8
   },
   {
     "model": "satoshisaito/embodied-ai-notes",
