@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-30 15:31 UTC
+Generated: 2026-08-30 18:51 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-08-30 15:31 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83263 | 33305.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83270 | 33308.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63532 | 25412.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44472 | 17788.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44473 | 17789.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30406 | 12162.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16167 | 6466.9 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16168 | 6467.3 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| Vladniag/Bormokrut | 520 | 156.1 | [link](https://huggingface.co/Vladniag/Bormokrut) |
 | Ricardo-H/BehR-WorldModel-Textworld-Llama3.1-8B | 200 | 60.3 | [link](https://huggingface.co/Ricardo-H/BehR-WorldModel-Textworld-Llama3.1-8B) |
 | Ricardo-H/BehR-WorldModel-Webshop-Llama3.1-8B | 200 | 60.3 | [link](https://huggingface.co/Ricardo-H/BehR-WorldModel-Webshop-Llama3.1-8B) |
 | Ricardo-H/BehR-WorldModel-Textworld-Qwen2.5-7B | 199 | 60.0 | [link](https://huggingface.co/Ricardo-H/BehR-WorldModel-Textworld-Qwen2.5-7B) |
 | Ricardo-H/BehR-WorldModel-Webshop-Qwen2.5-7B | 195 | 58.8 | [link](https://huggingface.co/Ricardo-H/BehR-WorldModel-Webshop-Qwen2.5-7B) |
+| physicalairi/so101_1200ep_smolvla | 115 | 34.6 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

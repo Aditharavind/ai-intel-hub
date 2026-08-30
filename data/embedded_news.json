@@ -1,5 +1,12 @@
 [
   {
+    "title": "LLM Moats Quickly Evaporating",
+    "source": "Hackaday",
+    "date": "2026-08-30",
+    "url": "https://hackaday.com/2026/08/30/llm-moats-quickly-evaporating/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/mac-studio-main.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In the business world, a moat is a quality of a business that makes it difficult for competitors to take that company&#8217;s profits. With how hard it is to train <a class=\"read-more\" href=\"https://hackaday.com/2026/08/30/llm-moats-quickly-evaporating/\">&#8230;read more</a>"
+  },
+  {
     "title": "Low(er)-Cost Humanoid Robot Leverages DIY Actuators",
     "source": "Hackaday",
     "date": "2026-08-30",
@@ -42,6 +49,13 @@
     "summary": "<div><img alt=\"Radxa Linkr IP KVM\" class=\"attachment-medium size-medium wp-post-image\" height=\"424\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Radxa-Linkr-IP-KVM-720x424.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Radxa Linkr is a compact, USB flash drive-sized IP KVM that connects to the target through HDMI and USB for video, keyboard, and mouse emulation. The user can control it over USB-C, Ethernet, or WiFi client/access point, even before the OS is booted. The device does not require any specific apps, since all you need is a web browser. The company also highlights support for Tailscale VPN, two-factor authentication, and  AI agents such as OpenClaw and Hermes. Radxa Linkr specifications: SoC – Rockchip RV1106G3 CPU – Arm Cortex A7 @ 1.2GHz with an integrated RISC-V co-processor. NPU – 1 TOPS 4th-gen Rockchip NPU with hybrid quantization (int4, int8, int16) ISP – 3rd-gen 5MP high-performance ISP VPU – 3072×1728 (5MP) @ 30fps H.265/H.264 encoding, 16MP @ 60FPS JPEG snapshot System Memory –  256MB DDR3L on-chip memory Storage for OS and virtual media images Optional 16 GB eMMC flash MicroSD card slot Display Input &#8211; [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/30/radxa-linkr-a-usb-drive-sized-ip-kvm-with-usb-c-ethernet-and-wifi-support/\">Radxa Linkr &#8211; A USB drive-sized IP KVM with USB-C, Ethernet, and WiFi support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "USB C CC Resistor Fixer Case",
+    "source": "Adafruit",
+    "date": "2026-08-30",
+    "url": "https://blog.adafruit.com/2026/08/30/usb-c-cc-resistor-fixer-case/",
+    "summary": "&#160; Do you have any devices with USB C connections that don&#8217;t seem to power or work when plugged into a USB C Power Delivery port? Chances are, the designers skimped a few pennies or just forgot to put in the two 5.1K CC resistors required for C-to-C connections at 5V. It can drive you batty because [&#8230;]"
+  },
+  {
     "title": "Building a backyard office, the build and cost breakdown",
     "source": "Adafruit",
     "date": "2026-08-30",
@@ -68,13 +82,6 @@
     "date": "2026-08-29",
     "url": "https://hackaday.com/2026/08/29/compact-pcb-vise-uses-up-that-leftover-filament/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/solder-station-DIY-reconfigurable.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Needing less than 70 grams of filament, [Chefkoch]&#8217;s 3D printed PCB vise solder station might be a good way to use up some filament spool leftovers and get yourself a <a class=\"read-more\" href=\"https://hackaday.com/2026/08/29/compact-pcb-vise-uses-up-that-leftover-filament/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Wikipedia on a Cheap Yellow Display",
-    "source": "Hackaday",
-    "date": "2026-08-29",
-    "url": "https://hackaday.com/2026/08/29/wikipedia-on-a-cheap-yellow-display/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/cyd-wikipedia-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Cheap Yellow Display (CYD) is a board carrying a slightly older ESP32 variant, a display with a resistive touchscreen, an SD card, and not much else. It&#8217;s often used <a class=\"read-more\" href=\"https://hackaday.com/2026/08/29/wikipedia-on-a-cheap-yellow-display/\">&#8230;read more</a>"
   },
   {
     "title": "ACEMAGIC Kron Mini K5 (Core 3 304) review – Part 1: Specifications, unboxing, teardown, and first boot",
@@ -243,13 +250,6 @@
     "date": "2026-08-28",
     "url": "https://blog.adafruit.com/2026/08/28/john-parks-circuitpython-parsec-fruit-jam-infrared-ir-receiver/",
     "summary": "#circuitpythonparsec Control your Fruit Jam with an infrared IR remote control, using the built-in IR receiver. Try out the code example To learn about CircuitPython: https://circuitpython.org &#160;"
-  },
-  {
-    "title": "Detect Skin Cancer with Raspberry Pi #piday #raspberrypi",
-    "source": "Adafruit",
-    "date": "2026-08-28",
-    "url": "https://blog.adafruit.com/2026/08/28/detect-skin-cancer-with-raspberry-pi-piday-raspberrypi/",
-    "summary": "A photograph is taken of a skin lesion using an interface designed to be as user-friendly as possible. The system is a demonstration of TinyM, image via Raspberry Pi LesionIQ is a project that aims to aid in early detection of skin cancer. Using a Raspberry Pi based machine learning system, patients can take a [&#8230;]"
   },
   {
     "title": "FSP Launches Next-Gen 3200W CRPS Power Solutions to Fully Power AI Edge and Next-Generation Data Centers",
