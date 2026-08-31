@@ -1,32 +1,26 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-31 08:56 UTC
+Generated: 2026-08-31 16:30 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-08-28 | Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning | [link](https://arxiv.org/pdf/2608.28578v1) |
-| 2026-08-28 | ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos | [link](https://arxiv.org/pdf/2608.28570v1) |
-| 2026-08-28 | GeBDA: Building Damage Assessment as Text-Based Sequence Prediction | [link](https://arxiv.org/pdf/2608.28567v1) |
-| 2026-08-28 | An Enclosed Mode Is a Gauge Choice: Topology Relative to Reach in Certified Code World Models | [link](https://arxiv.org/pdf/2608.28541v1) |
-| 2026-08-28 | When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI | [link](https://arxiv.org/pdf/2608.28518v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83316 | 33326.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63537 | 25414.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44476 | 17790.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30415 | 12166.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16171 | 6468.5 | [link](https://github.com/zauberzeug/nicegui) |
+| Developer-Y/cs-video-courses | 83337 | 33334.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63540 | 25416.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44479 | 17791.7 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30419 | 12167.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16173 | 6469.3 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| Ricardo-H/BehR-WorldModel-Textworld-Llama3.1-8B | 200 | 60.3 | [link](https://huggingface.co/Ricardo-H/BehR-WorldModel-Textworld-Llama3.1-8B) |
-| Ricardo-H/BehR-WorldModel-Webshop-Llama3.1-8B | 200 | 60.3 | [link](https://huggingface.co/Ricardo-H/BehR-WorldModel-Webshop-Llama3.1-8B) |
-| Ricardo-H/BehR-WorldModel-Textworld-Qwen2.5-7B | 199 | 60.0 | [link](https://huggingface.co/Ricardo-H/BehR-WorldModel-Textworld-Qwen2.5-7B) |
-| Ricardo-H/BehR-WorldModel-Webshop-Qwen2.5-7B | 195 | 58.8 | [link](https://huggingface.co/Ricardo-H/BehR-WorldModel-Webshop-Qwen2.5-7B) |
+| Ricardo-H/BehR-WorldModel-Textworld-Llama3.1-8B | 310 | 93.3 | [link](https://huggingface.co/Ricardo-H/BehR-WorldModel-Textworld-Llama3.1-8B) |
+| Ricardo-H/BehR-WorldModel-Webshop-Llama3.1-8B | 309 | 93.0 | [link](https://huggingface.co/Ricardo-H/BehR-WorldModel-Webshop-Llama3.1-8B) |
+| Ricardo-H/BehR-WorldModel-Textworld-Qwen2.5-7B | 304 | 91.5 | [link](https://huggingface.co/Ricardo-H/BehR-WorldModel-Textworld-Qwen2.5-7B) |
+| Ricardo-H/BehR-WorldModel-Webshop-Qwen2.5-7B | 297 | 89.4 | [link](https://huggingface.co/Ricardo-H/BehR-WorldModel-Webshop-Qwen2.5-7B) |
 | physicalairi/so101_1200ep_smolvla | 115 | 34.6 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
 
 ## Top Funding Rounds
@@ -41,8 +35,8 @@ Generated: 2026-08-31 08:56 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-08-31 | Veeda AI Raises $90M Seed to Build "The Matrix" for Physical AI - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BTlVVcXo0aFNKck02Tjc1RWVGWXlJRnRrcVVmRHFtT09BLVppdHJUZ1NOZU40QUl6ZWxZdURYb19yNTBIdzNUNmRoZ0VkUTNJWTdJ?oc=5) |
+| 2026-08-31 | Renesas Opens Physical AI & Robotics Lab in Beijing - Electronics For You BUSINESS | physical ai startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdW1NUjhzM04tcnZMLU5zNUxCczFtbVNzalQ2OU4zeWZfR2tMa0dBekNZdjljUVdJZmJkNWdid1J5QjZfeWo5ZGZzMUo0R0t4V1hKNFkwc2NKRkVtQWc1djEwMVBaaUFCUW1PSjBKS0l3SG84bmdydnhyazBfaDFfU2ZkQjFIdkFQQm00a3FEb3RFUmJ6SVVoaDFTeFlIQ2c?oc=5) |
 | 2026-08-30 | Tyler Raciti & Chet Ellis On Volumes, Their Startup Building Superintelligent Data for Physical AI - Medium | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLXhNSU90NEpuTzVOclhreGs3dEhnT0NVc2xNUlgxYTRGTERjUGI1UVp2RjJXSE9KdE1GcDhvR2l0X19paU5pU2lQTG9mRHhzcGFhTTBTUDFnUGc4c0htX3RuSGE4UndoOUtQdVpaMGZXQl8xVDVLVHhUM2JLNllSYXNYQllmcHp6ajFleUM0WlNhYmlScXI1Q0F3bGdEQ29kVklDUHpSVEpBNExFUG10QVpZV2g1SXVCSHhFQlduSlRMV3hBck55aWxyMm1rNldwR2IzTl8tblAtWHlQU1B3?oc=5) |
 | 2026-08-30 | Big tech steps up push into physical AI - 디지털투데이 | physical ai startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZjdVcmw4akRkV1B6cC04UHNGalU0QUpEajc1UXNLQ0dNeTJnd1JjZE9HWEd2eGhlVEFmVUZFX2NaQlZhT0x2aVQ3ampaTTY3dG5UTHU4bldoS1A2N2NQUkNFb190aGtoM2p4M214Y0hZZW1lWUlZdUMxMnlMV0dxT3NpRHlLbWl1NnBQYg?oc=5) |
 | 2026-08-30 | humanoid robot walk on Mars before human at 50% - StartupHub.ai | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNlBnYVItOXhxd05xNk9hOFdLdlBNYWRxa2l6eDBsYlFYX3dYSGVSWjdGTDZMMVB4WWlBVkd5NWFqR3BpazgtRGEtN3FGQzZjNm1rUHRIT1JYUmZDckdqbFl6RzdBOENsbXptTVdxT29Ra3Jub2psSk1tbExvLWZ2Z1N3Z0R1eExoZnpuZXJueHpiczFZVlg4U3Z4ZThyT0pseUtiNmZORQ?oc=5) |
-| 2026-08-29 | A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEhEdUxOLWhXMjJQbGFrSk9aWi1mak9aWk1mV1JtcGEtVncwSV96ek1FRExUalJXNzBSakEtaU1QczhjWm1CcWJxY0pwS2NzQ2d5OElXeTR5cG5hdDFYWHQ3T2s4UnFFWUpITmFzWlNHTzNSeTlqSHdjdHN2eVNPa0pRclBzU09wQy16b0VxeUtsR29TamptdFdXbGEwZzFQ?oc=5) |
-| 2026-08-28 | Anthropic Previews Standard for AI Control of Physical Devices - PYMNTS.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEFlQ0lJd2dJNnczcjRXTE5NVTlXcm5Yam9tQmtpUVpxclBUMVFGREtSODllRDB0a2hfSkpWc2dWeGtXTmlJd0pycFdlbWxSTGFwazQ5ZHIyb21LNXVOcHNWa05iaXlac19CcXF2UVBMalh1TnBPVGIzY3pZVGdyYXM4dFk3VzNxRFVUUTNmZnhKazY2TXNTQ2hlTXFwNEY0YzRqWXVsdUw4d1dfcWtiUlZGOGR5T1JDYXRTSA?oc=5) |
