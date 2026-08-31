@@ -1,24 +1,18 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-08-30 23:57 UTC
+Generated: 2026-08-31 02:31 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-08-27 | Reconstructing Humans and Objects in Interaction using Large Reconstruction Models | [link](https://arxiv.org/pdf/2608.27407v1) |
-| 2026-08-27 | CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators | [link](https://arxiv.org/pdf/2608.27406v1) |
-| 2026-08-27 | FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference | [link](https://arxiv.org/pdf/2608.27384v1) |
-| 2026-08-27 | Embodied Scene Rearrangement Planning | [link](https://arxiv.org/pdf/2608.27371v1) |
-| 2026-08-27 | Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models | [link](https://arxiv.org/pdf/2608.27367v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83288 | 33315.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63533 | 25413.3 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83297 | 33318.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63535 | 25414.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44473 | 17789.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30408 | 12163.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16168 | 6467.3 | [link](https://github.com/zauberzeug/nicegui) |
+| AtsushiSakai/PythonRobotics | 30410 | 12164.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16169 | 6467.7 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
