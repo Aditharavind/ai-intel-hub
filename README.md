@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-31 02:31 UTC
+Last Updated: 2026-08-31 08:56 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,47 +49,58 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-31 | A Flip Disc Display That Does It Slow And Steady | Hackaday | [link](https://hackaday.com/2026/08/31/a-flip-disc-display-that-does-it-slow-and-steady/) |
+| 2026-08-31 | Making a Robot to Serve Some Mean Badminton Shuttlecocks | Hackaday | [link](https://hackaday.com/2026/08/30/making-a-robot-to-serve-some-mean-badminton-shuttlecocks/) |
 | 2026-08-31 | Get Your Monitor Transmitting VHF with a Browser Tool | Hackaday | [link](https://hackaday.com/2026/08/30/get-your-monitor-transmitting-vhf-with-a-browser-tool/) |
-| 2026-08-31 | Ed Spots A Space-Based Datacentre Gig | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-spots-a-space-based-datacentre-gig-2026-08/) |
-| 2026-08-30 | Hackaday Links: August 30, 2026 | Hackaday | [link](https://hackaday.com/2026/08/30/hackaday-links-august-30-2026/) |
-| 2026-08-30 | Dissecting a Lethal Universal Travel Adapter | Hackaday | [link](https://hackaday.com/2026/08/30/dissecting-a-lethal-universal-travel-adapter/) |
-| 2026-08-30 | LLM Moats Quickly Evaporating | Hackaday | [link](https://hackaday.com/2026/08/30/llm-moats-quickly-evaporating/) |
-| 2026-08-30 | Low(er)-Cost Humanoid Robot Leverages DIY Actuators | Hackaday | [link](https://hackaday.com/2026/08/30/lower-cost-humanoid-robot-leverages-diy-actuators/) |
-| 2026-08-30 | Giving the NES an Optical Data Storage Add-On | Hackaday | [link](https://hackaday.com/2026/08/30/giving-the-nes-an-optical-data-storage-add-on/) |
-| 2026-08-30 | Woodstove Assistant Keeps the Heat on Safely | Hackaday | [link](https://hackaday.com/2026/08/30/woodstove-assistant-keeps-the-heat-on-safely/) |
-| 2026-08-30 | Radxa Linkr – A USB drive-sized IP KVM with USB-C, Ethernet, and WiFi support | CNX Software | [link](https://www.cnx-software.com/2026/08/30/radxa-linkr-a-usb-drive-sized-ip-kvm-with-usb-c-ethernet-and-wifi-support/) |
-| 2026-08-30 | Hand-Crank Flashlight | Adafruit | [link](https://blog.adafruit.com/2026/08/30/hand-crank-flashlight/) |
+| 2026-08-31 | D-Robotics RDK S100P – A 128 TOPS alternative to NVIDIA Jetson Orin NX 16GB with Cortex-A78AE/R52+ cores | CNX Software | [link](https://www.cnx-software.com/2026/08/31/d-robotics-rdk-s100p-a-128-tops-alternative-to-nvidia-jetson-orin-nx-16gb-with-cortex-a78ae-r52-cores/) |
+| 2026-08-31 | Orange Pi Zero 4 – Compact Allwinner A733 SBC offers HDMI, USB-C DP, GbE, WiFI 6, PCIe FFC connector for $26.5 and up | CNX Software | [link](https://www.cnx-software.com/2026/08/31/orange-pi-zero-4-allwinner-a733-sbc-offers-hdmi-usb-c-dp-gbe-wifi-6-pcie-ffc-connector/) |
+| 2026-08-31 | Hynix looking for NAND jv fab site in Japan | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/hynix-looking-for-nand-jv-fab-site-in-japan-2026-08/) |
+| 2026-08-31 | CXMT sues the Pentagon | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/cxmt-sues-the-pentagon-2026-08/) |
+| 2026-08-31 | Grim for smartphones | Electronics Weekly | [link](https://www.electronicsweekly.com/news/grim-for-smartphones-2026-08/) |
+| 2026-08-31 | Elastocaloric cooling could replace aircon | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/elastocaloric-cooling-could-replace-aircon-2026-08/) |
+| 2026-08-31 | A solid H1 for China chips | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/a-solid-h1-for-china-chips-2026-08/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-08-28 | Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning | [link](https://arxiv.org/pdf/2608.28578v1) |
+| 2026-08-28 | ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos | [link](https://arxiv.org/pdf/2608.28570v1) |
+| 2026-08-28 | GeBDA: Building Damage Assessment as Text-Based Sequence Prediction | [link](https://arxiv.org/pdf/2608.28567v1) |
+| 2026-08-28 | An Enclosed Mode Is a Gauge Choice: Topology Relative to Reach in Certified Code World Models | [link](https://arxiv.org/pdf/2608.28541v1) |
+| 2026-08-28 | When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI | [link](https://arxiv.org/pdf/2608.28518v1) |
+| 2026-08-28 | AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction | [link](https://arxiv.org/pdf/2608.28491v1) |
+| 2026-08-28 | Prompt-Guided Interactive Segmentation of Interstitial Lung Disease in Thoracic CT | [link](https://arxiv.org/pdf/2608.28453v1) |
+| 2026-08-28 | LUCID: An Agentic AI Framework on Digital-Twin in the Loop for QoS-Guaranteeing Robotic Control | [link](https://arxiv.org/pdf/2608.28437v1) |
+| 2026-08-28 | Linear Temporal Logic Translation via Human-Inspired Self-Constrained Reasoning for Robot Task Specification | [link](https://arxiv.org/pdf/2608.28435v1) |
+| 2026-08-28 | Cooperative Risk-Aware Exploration in Heterogeneous Multi-Robot Systems Using Algorithmic Altruism | [link](https://arxiv.org/pdf/2608.28409v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-08-31 | ShijieSKY/history-pi05-robotwin | 0 | 0 | [link](https://huggingface.co/ShijieSKY/history-pi05-robotwin) |
+| 2026-08-31 | GT-111/bi-lawm-robotwin-finetune-from-stage2only | 0 | 0 | [link](https://huggingface.co/GT-111/bi-lawm-robotwin-finetune-from-stage2only) |
 | 2026-08-31 | ShijieSKY/pi05-robotwin | 0 | 0 | [link](https://huggingface.co/ShijieSKY/pi05-robotwin) |
+| 2026-08-31 | GT-111/bi-lawm-robotwin-stage3-only | 0 | 0 | [link](https://huggingface.co/GT-111/bi-lawm-robotwin-stage3-only) |
+| 2026-08-31 | hxma/pi05-robotwin-delta-60k | 0 | 0 | [link](https://huggingface.co/hxma/pi05-robotwin-delta-60k) |
+| 2026-08-31 | StarVLA/VLAct_Qwen3GR00T_Robotwin_all_Finetune | 0 | 0 | [link](https://huggingface.co/StarVLA/VLAct_Qwen3GR00T_Robotwin_all_Finetune) |
+| 2026-08-31 | ShijieSKY/history-pi05-robotwin | 0 | 0 | [link](https://huggingface.co/ShijieSKY/history-pi05-robotwin) |
 | 2026-08-31 | JackieMM/RoboTwin | 0 | 0 | [link](https://huggingface.co/JackieMM/RoboTwin) |
+| 2026-08-31 | sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__wrist_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__wrist_cameras__live__pi05__seed_0) |
+| 2026-08-31 | sam-guided-vlas/train_1_2__point__overlay_a75__sim__wrist_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__wrist_cameras__live__pi05__seed_0) |
 | 2026-08-31 | sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__agentview_camera__static__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__agentview_camera__static__pi05__seed_0) |
-| 2026-08-31 | sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__agentview_camera__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__bbox__overlay_a75__sim__agentview_camera__live__pi05__seed_0) |
-| 2026-08-31 | Damirchik/vla-grounder-qwen3.5-9b-rl4vla-pi0 | 0 | 0 | [link](https://huggingface.co/Damirchik/vla-grounder-qwen3.5-9b-rl4vla-pi0) |
-| 2026-08-31 | Damirchik/vla-grounder-qwen3.5-9b-vl-think-openvla | 0 | 0 | [link](https://huggingface.co/Damirchik/vla-grounder-qwen3.5-9b-vl-think-openvla) |
-| 2026-08-31 | Damirchik/vla-grounder-qwen3.5-9b-vl-think-pi0 | 0 | 0 | [link](https://huggingface.co/Damirchik/vla-grounder-qwen3.5-9b-vl-think-pi0) |
-| 2026-08-31 | sam-guided-vlas/train_1_2__point__overlay_a75__sim__agentview_camera__static__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__agentview_camera__static__pi05__seed_0) |
-| 2026-08-31 | sam-guided-vlas/train_1_2__point__overlay_a75__sim__agentview_camera__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__point__overlay_a75__sim__agentview_camera__live__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| commaai/openpilot | 63535 | Python | 25414.1 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 15772 | C++ | 6308.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 14052 | Python | 5620.9 | [link](https://github.com/earthtojake/text-to-cad) |
-| vllm-project/vllm-omni | 6491 | Python | 2596.5 | [link](https://github.com/vllm-project/vllm-omni) |
-| inclusionAI/AWorld | 1227 | Python | 490.9 | [link](https://github.com/inclusionAI/AWorld) |
-| deeplethe/utopia | 728 | Rust | 291.3 | [link](https://github.com/deeplethe/utopia) |
-| softmata/horus | 428 | Rust | 171.3 | [link](https://github.com/softmata/horus) |
-| isaac-sim/IsaacLab | 8004 | Python | 3201.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| DexForce/EmbodiChain | 214 | Python | 85.7 | [link](https://github.com/DexForce/EmbodiChain) |
-| NVIDIA/skills | 3148 | Python | 1259.3 | [link](https://github.com/NVIDIA/skills) |
+| Edgenesis/shifu | 1433 | Go | 573.3 | [link](https://github.com/Edgenesis/shifu) |
+| mosaico-labs/mosaico | 979 | Python | 391.7 | [link](https://github.com/mosaico-labs/mosaico) |
+| awslabs/awsome-distributed-ai | 472 | Shell | 188.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| commaai/openpilot | 63537 | Python | 25414.9 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 15774 | C++ | 6309.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| earthtojake/text-to-cad | 14065 | Python | 5626.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| kornia/kornia | 11338 | Python | 4535.3 | [link](https://github.com/kornia/kornia) |
+| RLinf/RLinf | 4684 | Python | 1873.7 | [link](https://github.com/RLinf/RLinf) |
+| dora-rs/dora | 3906 | Rust | 1562.5 | [link](https://github.com/dora-rs/dora) |
+| PhyAgentOS/PhyAgentOS-core | 1921 | Python | 768.5 | [link](https://github.com/PhyAgentOS/PhyAgentOS-core) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -111,13 +122,13 @@ _No items collected yet._
 | 2026-08-30 | Tyler Raciti & Chet Ellis On Volumes, Their Startup Building Superintelligent Data for Physical AI - Medium | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLXhNSU90NEpuTzVOclhreGs3dEhnT0NVc2xNUlgxYTRGTERjUGI1UVp2RjJXSE9KdE1GcDhvR2l0X19paU5pU2lQTG9mRHhzcGFhTTBTUDFnUGc4c0htX3RuSGE4UndoOUtQdVpaMGZXQl8xVDVLVHhUM2JLNllSYXNYQllmcHp6ajFleUM0WlNhYmlScXI1Q0F3bGdEQ29kVklDUHpSVEpBNExFUG10QVpZV2g1SXVCSHhFQlduSlRMV3hBck55aWxyMm1rNldwR2IzTl8tblAtWHlQU1B3?oc=5) |
 | 2026-08-30 | Big tech steps up push into physical AI - 디지털투데이 | physical ai startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZjdVcmw4akRkV1B6cC04UHNGalU0QUpEajc1UXNLQ0dNeTJnd1JjZE9HWEd2eGhlVEFmVUZFX2NaQlZhT0x2aVQ3ampaTTY3dG5UTHU4bldoS1A2N2NQUkNFb190aGtoM2p4M214Y0hZZW1lWUlZdUMxMnlMV0dxT3NpRHlLbWl1NnBQYg?oc=5) |
 | 2026-08-30 | humanoid robot walk on Mars before human at 50% - StartupHub.ai | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNlBnYVItOXhxd05xNk9hOFdLdlBNYWRxa2l6eDBsYlFYX3dYSGVSWjdGTDZMMVB4WWlBVkd5NWFqR3BpazgtRGEtN3FGQzZjNm1rUHRIT1JYUmZDckdqbFl6RzdBOENsbXptTVdxT29Ra3Jub2psSk1tbExvLWZ2Z1N3Z0R1eExoZnpuZXJueHpiczFZVlg4U3Z4ZThyT0pseUtiNmZORQ?oc=5) |
-| 2026-08-30 | For 30 Dollars an Hour, a Robot Cleans Your Home: “Slow, but Satisfying” - 아시아경제 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qd0h1S2NTdEU5Q1o5cjE4TEhyM3MweC1TY1ZGcEE0STJxSkFZa2hJVTUwaXBuOTJJM1pJOTh1TU5LdEdoWDJpOUktSG11N0lfWld4Nlg3SnBKV083d1NCZmFnX0E?oc=5) |
 | 2026-08-29 | A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEhEdUxOLWhXMjJQbGFrSk9aWi1mak9aWk1mV1JtcGEtVncwSV96ek1FRExUalJXNzBSakEtaU1QczhjWm1CcWJxY0pwS2NzQ2d5OElXeTR5cG5hdDFYWHQ3T2s4UnFFWUpITmFzWlNHTzNSeTlqSHdjdHN2eVNPa0pRclBzU09wQy16b0VxeUtsR29TamptdFdXbGEwZzFQ?oc=5) |
 | 2026-08-28 | Anthropic Previews Standard for AI Control of Physical Devices - PYMNTS.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEFlQ0lJd2dJNnczcjRXTE5NVTlXcm5Yam9tQmtpUVpxclBUMVFGREtSODllRDB0a2hfSkpWc2dWeGtXTmlJd0pycFdlbWxSTGFwazQ5ZHIyb21LNXVOcHNWa05iaXlac19CcXF2UVBMalh1TnBPVGIzY3pZVGdyYXM4dFk3VzNxRFVUUTNmZnhKazY2TXNTQ2hlTXFwNEY0YzRqWXVsdUw4d1dfcWtiUlZGOGR5T1JDYXRTSA?oc=5) |
 | 2026-08-28 | Embodied-AI startup PsiBot raises over $100 million with industrial investors joining - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjVueXdiTUJKUVVBRXU5ckJIV2JKZkVpTVBOdzZXZUdoX0swMFdLb09rbXFJMlp1QWJlMS1VWk5CWlVWM3ZCTmIyVWt1WEVDT0JkZ0RMemZHcTBxZFF4a0hfcHJNVjM0NHB6TWFEY3NMcFdqejZnVUJZZEEtdmtHdjhQc2FRamhWeXNjQjc2QVh1NllYc0lzWVVCU1hLREc2VmFnb2NHOFUzLTdLcEVMUC1BWlJDVnBh?oc=5) |
 | 2026-08-27 | SoftBank in Talks to Buy Majority Stake in Humanoid Maker 1X at $6 Billion Valuation - The Information | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDZmYU9rOVJvZGhKUjRSM0ZWSklJaGd6ZkJCVGNvdm1fZ09XVTd6dDlrNHczUWFjV1lReGVER2xVT08zRlJNV2pJVnRhVHZYd29OOXBIVXFEaUR6MU1qcWNnZW1TcHlSRk9pMjl6X3JEOTBTQVRNRkM3ZncxU0RtWnpIS01sUlZ1VDFPTE5LRVMxZWpMazVBS0dpUzVJT2xGel9BV3k0dTBLVnRJYWFTYg?oc=5) |
 | 2026-08-26 | Robotics startup Generalist reaches $3B valuation, sources say - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5) |
 | 2026-08-26 | Transfyr Launches Physical AI Platform for Science with $25M Seed Funding - Business Wire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVG1hRHFMb0Qya2lURmRjQUFJWUx1aHB4aDV2aDJQT3FncWFXREJfaDA1cXM3SklBbzlCTFZXLUVVTncwTXR2WXBYamhEaTVLc3lSZ3lqODR6ZTZHTkJDQW9GaWs5UndMbFE2b0xwaVhCVmlHdjNpVmw4U2Z4Qkg1UHNydkczQU1Xc1V4NXBuS21FVGVkY3ZWVWtUbFpmWVR2SUFfdzFSRUlNZjBqeUlvM2ptNGNSemdieWR4dzJNOThMekoydlk3Q3NYLTk?oc=5) |
+| 2026-08-25 | Physical AI startup Antioch files to raise $32M - Axios | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaE4waTJoaVgyQjUza3dndlZnV3J1U1lwSDNBay1LUlhnblEzek43cHdSc1dRVWtOUXhaZ3Q1TmNVNUc1eHlrcjhubV9xbElOLVdMMmNxdEg2cHZMempJeWdxeWU5QkhDT1BMWWl0bmtqM3VPdUNldkNObWxfZUpRTzFlZ0NrWUoyNVZlOWxuR1Q0bms5ZXhKcA?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
