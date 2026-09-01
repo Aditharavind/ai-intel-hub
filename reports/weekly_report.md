@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-01 00:49 UTC
+Generated: 2026-09-01 05:46 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-08-28 | Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning | [link](https://arxiv.org/pdf/2608.28578v1) |
-| 2026-08-28 | ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos | [link](https://arxiv.org/pdf/2608.28570v1) |
-| 2026-08-28 | GeBDA: Building Damage Assessment as Text-Based Sequence Prediction | [link](https://arxiv.org/pdf/2608.28567v1) |
-| 2026-08-28 | An Enclosed Mode Is a Gauge Choice: Topology Relative to Reach in Certified Code World Models | [link](https://arxiv.org/pdf/2608.28541v1) |
-| 2026-08-28 | When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI | [link](https://arxiv.org/pdf/2608.28518v1) |
+| 2026-08-31 | SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies | [link](https://arxiv.org/pdf/2608.31167v1) |
+| 2026-08-31 | VeriCam: A Verification Baseline for the Classification of Unknown Data | [link](https://arxiv.org/pdf/2608.31107v1) |
+| 2026-08-31 | OmniRAS: Standardizing Foundation Model Training and Evaluation in Robot-Assisted Surgery | [link](https://arxiv.org/pdf/2608.31048v1) |
+| 2026-08-31 | Driving on Memory | [link](https://arxiv.org/pdf/2608.31029v1) |
+| 2026-08-31 | TSPFN: A Temporal Tabular Foundation Model for Physiological Time Series Classification | [link](https://arxiv.org/pdf/2608.31013v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83352 | 33340.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63543 | 25417.3 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83356 | 33342.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63546 | 25418.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44479 | 17791.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30422 | 12168.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16174 | 6469.7 | [link](https://github.com/zauberzeug/nicegui) |
+| AtsushiSakai/PythonRobotics | 30428 | 12171.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16173 | 6469.3 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -35,14 +35,14 @@ Generated: 2026-09-01 00:49 UTC
 | 2026-08-31 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3YxWXNDYXFmdU5XXzNsYlJIbFFzVnFzcEdHVVZ3SlJ6YVZUTVNVOGRwSFhQWVBjUlZhQkNoRmZGa0RVS3JVd28weHVVWGhDN0hFZnlOeWVUQ0RqVTNvVGdEYnMwRjhHSGlSWGtxdUl2YUNPTmQzU1RTbXl0WUltUnNzblVvbGVtaENYbFBhWGYyU1BEVlE?oc=5) |
 | 2026-08-29 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiakFVX3lxTE4taTBUaElRQ3RjRHZFUHItTUtkS1NMdHhEVjM2UGxJZEdqY0h3RmtiMF9LZHpJSUY1Y3NBR2VmZHJCT0lOLXdKb21pOS1fV243Q1NuRnhhZmpVekhfZVM1d2ZoN2ZGandDdGfSAW9BVV95cUxQd0prTUpzb1pBTXVaUnNvOWpBQjF6N3RsYVBqUGhKdEE3NXNyQ0dJbHNvTUxPTFBDUXl0V3RCNUNwcEtUSG5BOS1ZRGUxcjlsOHVjdWxpVDQtZkxDOTBsYjRMbHR6b1NkODdrT3NXSmM?oc=5) |
 | 2026-08-28 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQODBSdjZncWQzc1ExX1lxZzJMbHEyT0ZyMEJmclBnbmlUeGRkRlFoUWRSZC1jRHdIM0x0dUw5TlZhSnlWaHNpME9QTzFrOW02SzZxbWlWbkk5bzRnTFdDMElBR1c4X1N1TFBSVlZkQXBRS2tDNHlMVG9FekhrNHNWaUVFNTVrYTNfaERIajRBNGI4OEUtTm0zR285LXFRSE02V1RndUgwVWswUdIBrwFBVV95cUxQVTF0WU5jVTdJOTREUy13UmJsekZ4RDljNUtMRGtLNVdXdXgxWkhGTmZ2WlV2aEFURWE3MXQ1R2toc3FLRjd3WWVVbHp2azJzdHdhUmFPUmtMY2RKbUxlZUp0OGtkQ0VDazBLXzJmS0lEazAtbUZXVjViYjIzRENKZ296ZG1ZMlViT2tuck80ajFNaXBjNmRrTzZYSzZzY3pvclVwWVVtTDFBcXB5NjJ3?oc=5) |
-| 2026-08-27 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTVk3b1RFZzhTenN5SDFFV1lYWHBCVTczNmowLVBBdUZNSHdyN2pFMlNsYjdmd2k4TS0zbUx0bjFYQjhQZ0s4ai10VThxWTB6LTlvb3ROVVM3bGlRRFRRc1RZSU9mcndUaTU4WlVyRzQ4OGtRUWJZTlhtWnBmWUxBdkx4RDZQYm5X?oc=5) |
 | 2026-08-26 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5) |
+| 2026-08-25 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2Z0SE1HMGJxVVEtaFZtSnNoQnEyR3lzR1lGNmZVZjBlTzFHZi1IMEdVajFDVUJ0NjlGeW5JRVJiOGU1Z1Y4bVMzc3gtQXNNRWpPXzhmRFJwN1VNUnhUYjdKUEkxdnZicVlVWW5ESk5BLTEzNzhjUk1iTGpsWEU0N1J3U2xfYXVRY2JfYXNEMkszb0dndnNiekU2NE0xcXNJWTJDNXFrYTBrYThmeFE?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-08-31 | Veeda AI Raises $90M Seed to Build "The Matrix" for Physical AI - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BTlVVcXo0aFNKck02Tjc1RWVGWXlJRnRrcVVmRHFtT09BLVppdHJUZ1NOZU40QUl6ZWxZdURYb19yNTBIdzNUNmRoZ0VkUTNJWTdJ?oc=5) |
-| 2026-08-31 | Renesas Opens Physical AI & Robotics Lab in Beijing - Electronics For You BUSINESS | physical ai startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdW1NUjhzM04tcnZMLU5zNUxCczFtbVNzalQ2OU4zeWZfR2tMa0dBekNZdjljUVdJZmJkNWdid1J5QjZfeWo5ZGZzMUo0R0t4V1hKNFkwc2NKRkVtQWc1djEwMVBaaUFCUW1PSjBKS0l3SG84bmdydnhyazBfaDFfU2ZkQjFIdkFQQm00a3FEb3RFUmJ6SVVoaDFTeFlIQ2c?oc=5) |
+| 2026-08-31 | Veeda AI Raises $90M Seed to Build "The Matrix" for Physical AI - en.wowtale.net | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BTlVVcXo0aFNKck02Tjc1RWVGWXlJRnRrcVVmRHFtT09BLVppdHJUZ1NOZU40QUl6ZWxZdURYb19yNTBIdzNUNmRoZ0VkUTNJWTdJ?oc=5) |
 | 2026-08-30 | Tyler Raciti & Chet Ellis On Volumes, Their Startup Building Superintelligent Data for Physical AI - Medium | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLXhNSU90NEpuTzVOclhreGs3dEhnT0NVc2xNUlgxYTRGTERjUGI1UVp2RjJXSE9KdE1GcDhvR2l0X19paU5pU2lQTG9mRHhzcGFhTTBTUDFnUGc4c0htX3RuSGE4UndoOUtQdVpaMGZXQl8xVDVLVHhUM2JLNllSYXNYQllmcHp6ajFleUM0WlNhYmlScXI1Q0F3bGdEQ29kVklDUHpSVEpBNExFUG10QVpZV2g1SXVCSHhFQlduSlRMV3hBck55aWxyMm1rNldwR2IzTl8tblAtWHlQU1B3?oc=5) |
 | 2026-08-30 | humanoid robot walk on Mars before human at 50% - StartupHub.ai | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNlBnYVItOXhxd05xNk9hOFdLdlBNYWRxa2l6eDBsYlFYX3dYSGVSWjdGTDZMMVB4WWlBVkd5NWFqR3BpazgtRGEtN3FGQzZjNm1rUHRIT1JYUmZDckdqbFl6RzdBOENsbXptTVdxT29Ra3Jub2psSk1tbExvLWZ2Z1N3Z0R1eExoZnpuZXJueHpiczFZVlg4U3Z4ZThyT0pseUtiNmZORQ?oc=5) |
 | 2026-08-29 | A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEhEdUxOLWhXMjJQbGFrSk9aWi1mak9aWk1mV1JtcGEtVncwSV96ek1FRExUalJXNzBSakEtaU1QczhjWm1CcWJxY0pwS2NzQ2d5OElXeTR5cG5hdDFYWHQ3T2s4UnFFWUpITmFzWlNHTzNSeTlqSHdjdHN2eVNPa0pRclBzU09wQy16b0VxeUtsR29TamptdFdXbGEwZzFQ?oc=5) |
+| 2026-08-28 | Anthropic Previews Standard for AI Control of Physical Devices - PYMNTS.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEFlQ0lJd2dJNnczcjRXTE5NVTlXcm5Yam9tQmtpUVpxclBUMVFGREtSODllRDB0a2hfSkpWc2dWeGtXTmlJd0pycFdlbWxSTGFwazQ5ZHIyb21LNXVOcHNWa05iaXlac19CcXF2UVBMalh1TnBPVGIzY3pZVGdyYXM4dFk3VzNxRFVUUTNmZnhKazY2TXNTQ2hlTXFwNEY0YzRqWXVsdUw4d1dfcWtiUlZGOGR5T1JDYXRTSA?oc=5) |
