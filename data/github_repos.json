@@ -21,13 +21,13 @@
   },
   {
     "repo": "mosaico-labs/mosaico",
-    "stars": 995,
+    "stars": 996,
     "language": "Python",
     "description": "Mosaico - The data platform for Physical AI",
     "url": "https://github.com/mosaico-labs/mosaico",
     "date": "2026-09-01",
     "topic": "physical-ai",
-    "score": 398.1
+    "score": 398.5
   },
   {
     "repo": "awslabs/awsome-distributed-ai",
@@ -61,23 +61,23 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14856,
+    "stars": 14858,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-09-01",
     "topic": "robotics",
-    "score": 5942.5
+    "score": 5943.3
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 14109,
+    "stars": 14110,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-09-01",
     "topic": "robotics",
-    "score": 5643.7
+    "score": 5644.1
   },
   {
     "repo": "rerun-io/rerun",
@@ -181,33 +181,43 @@
   },
   {
     "repo": "dexmal/opendm",
-    "stars": 454,
+    "stars": 455,
     "language": "Python",
     "description": "An Open-World Foundation Model for General-Purpose Embodied Intelligence.",
     "url": "https://github.com/dexmal/opendm",
     "date": "2026-09-01",
     "topic": "vla",
-    "score": 181.7
+    "score": 182.1
+  },
+  {
+    "repo": "luohongk/Embodied-AI-Daily",
+    "stars": 441,
+    "language": "HTML",
+    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
+    "url": "https://github.com/luohongk/Embodied-AI-Daily",
+    "date": "2026-09-01",
+    "topic": "vla",
+    "score": 176.5
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6541,
+    "stars": 6543,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-09-01",
     "topic": "world-model",
-    "score": 2616.5
+    "score": 2617.3
   },
   {
     "repo": "deeplethe/utopia",
-    "stars": 1312,
+    "stars": 1322,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-09-01",
     "topic": "world-model",
-    "score": 524.9
+    "score": 528.9
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -270,14 +280,24 @@
     "score": 318.5
   },
   {
+    "repo": "vikashplus/robohive",
+    "stars": 631,
+    "language": "Python",
+    "description": "A unified framework for robot learning",
+    "url": "https://github.com/vikashplus/robohive",
+    "date": "2026-09-01",
+    "topic": "robot-learning",
+    "score": 252.5
+  },
+  {
     "repo": "Hebbian-Robotics/hflow",
-    "stars": 223,
+    "stars": 224,
     "language": "Python",
     "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "date": "2026-09-01",
     "topic": "lerobot",
-    "score": 89.3
+    "score": 89.7
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -321,13 +341,13 @@
   },
   {
     "repo": "NVlabs/alpasim",
-    "stars": 1207,
+    "stars": 1208,
     "language": "Python",
     "description": "AlpaSim is an open-source autonomous vehicle simulation platform designed for development and testing of end-to-end AV policies",
     "url": "https://github.com/NVlabs/alpasim",
     "date": "2026-08-31",
     "topic": "physical-ai",
-    "score": 482.9
+    "score": 483.3
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -390,16 +410,6 @@
     "score": 215.3
   },
   {
-    "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 441,
-    "language": "HTML",
-    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
-    "url": "https://github.com/luohongk/Embodied-AI-Daily",
-    "date": "2026-08-31",
-    "topic": "vla",
-    "score": 176.5
-  },
-  {
     "repo": "ROBOTIS-GIT/ai_worker",
     "stars": 181,
     "language": "Python",
@@ -441,13 +451,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 83367,
+    "stars": 83371,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-08-30",
     "topic": "robotics",
-    "score": 33346.9
+    "score": 33348.5
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -518,16 +528,6 @@
     "date": "2026-08-28",
     "topic": "humanoid",
     "score": 225.7
-  },
-  {
-    "repo": "vikashplus/robohive",
-    "stars": 631,
-    "language": "Python",
-    "description": "A unified framework for robot learning",
-    "url": "https://github.com/vikashplus/robohive",
-    "date": "2026-08-28",
-    "topic": "robot-learning",
-    "score": 252.5
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -691,13 +691,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2358,
+    "stars": 2359,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-08-20",
     "topic": "humanoid",
-    "score": 943.3
+    "score": 943.7
   },
   {
     "repo": "RayYoh/Awesome-Robot-Learning",
@@ -711,13 +711,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44483,
+    "stars": 44484,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-08-19",
     "topic": "robotics",
-    "score": 17793.3
+    "score": 17793.7
   },
   {
     "repo": "DLR-RM/stable-baselines3",

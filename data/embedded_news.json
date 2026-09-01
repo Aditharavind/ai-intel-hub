@@ -1,5 +1,12 @@
 [
   {
+    "title": "How Gold Plastic Syndrome is Killing Toys and Game Consoles",
+    "source": "Hackaday",
+    "date": "2026-09-01",
+    "url": "https://hackaday.com/2026/09/01/how-gold-plastic-syndrome-is-killing-toys-and-game-consoles/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"413\" src=\"https://hackaday.com/wp-content/uploads/2026/08/brittle_plastic_nintendo_ds_sqwerks_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In a recent video [Sqwerks] does a deep-dive into the problem of disintegrating plastic enclosures of Nintendo DS consoles. These original NDS handheld consoles have a metallic-like coating that appears <a class=\"read-more\" href=\"https://hackaday.com/2026/09/01/how-gold-plastic-syndrome-is-killing-toys-and-game-consoles/\">&#8230;read more</a>"
+  },
+  {
     "title": "Reactive Heat and Wind Come to VR, Thanks to Smart Plugs",
     "source": "Hackaday",
     "date": "2026-09-01",
@@ -40,13 +47,6 @@
     "date": "2026-09-01",
     "url": "https://hackaday.com/2026/09/01/sliding-into-perfection-the-open-task-light/",
     "summary": "<div><img alt=\"open task light\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-7.57.49-PM-16-9.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>A few years ago Dyson released a desk lamp that could slide up and down, in and out, balancing itself at every position. [Steven Bennett] saw that lamp and wanted <a class=\"read-more\" href=\"https://hackaday.com/2026/09/01/sliding-into-perfection-the-open-task-light/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Tricking an Air Conditioner Into Cooling",
-    "source": "Hackaday",
-    "date": "2026-09-01",
-    "url": "https://hackaday.com/2026/08/31/tricking-an-air-conditioner-into-cooling/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/ac-trick-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Modern heat pumps, of which air conditioners are a subset, seem like simple machines in theory. They just move heat from one place to another. But in order to operate <a class=\"read-more\" href=\"https://hackaday.com/2026/08/31/tricking-an-air-conditioner-into-cooling/\">&#8230;read more</a>"
   },
   {
     "title": "Qualcomm introduces Dragonwing Q-2390 and IQ-2390 for consumer and industrial AIoT applications",
@@ -147,6 +147,55 @@
     "summary": "<p>Here is Tim Cook’s final memo to Apple employees: Team, Today is my last day as CEO of Apple. This is a moment I always knew would come one day, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/tim-cooks-farewell-memo-2026-09/\">Tim Cook’s farewell memo</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Discover the Rare First Printed Don Quixote Illustrations",
+    "source": "Adafruit",
+    "date": "2026-09-01",
+    "url": "https://blog.adafruit.com/2026/09/01/discover-the-rare-first-printed-don-quixote-illustrations/",
+    "summary": "I&#8217;m not sure if Don Quixote is still required reading in high school but I&#8217;m certain it is still one of the most influential works of literature to this day. The The Laredo Center for the Arts will be presenting The Quest to Dream III: A Rare Collection of the First Printed Don Quixote Illustrations [&#8230;]"
+  },
+  {
+    "title": "A flip disc display that does it slow and steady",
+    "source": "Adafruit",
+    "date": "2026-09-01",
+    "url": "https://blog.adafruit.com/2026/09/01/a-flip-disc-display-that-does-it-slow-and-steady/",
+    "summary": "Zoe Skyforest writing at Hackaday covered a flip disc display by Zimm that throws out the usual electromagnet per pixel. The array is 37 by 18 square discs, black on one side and blue on the other, with no actuator behind any of them. Instead, a CNC machine does the flipping. A tool head scans [&#8230;]"
+  },
+  {
+    "title": "Linux was first announced August 25, 1991",
+    "source": "Adafruit",
+    "date": "2026-09-01",
+    "url": "https://blog.adafruit.com/2026/09/01/linux-was-first-announced-august-25-1991/",
+    "summary": "Dave Farquhar looks back at the Usenet post that started Linux, writing on The Silicon Underground. On August 25, 1991, Linus Torvalds posted to comp.os.minix to describe a free hobby operating system for 386 and 486 PCs. He had been working on it since April. He had the bash shell and the gcc compiler running [&#8230;]"
+  },
+  {
+    "title": "Cobalt: apps and an SDK for Kobo e-readers",
+    "source": "Adafruit",
+    "date": "2026-09-01",
+    "url": "https://blog.adafruit.com/2026/09/01/cobalt-apps-and-an-sdk-for-kobo-e-readers/",
+    "summary": "Cobalt is an open source application platform for Kobo e-readers, published at bandarlabs.github.io. It includes a launcher, a signed app store, a Rust SDK, and a runtime that keeps each app in its own unprivileged process. Install it once over USB, then install, update, and remove apps on the reader itself over WiFi. A reboot [&#8230;]"
+  },
+  {
+    "title": "CrossPoint e-reader firmware for ESP32-based ePaper devices",
+    "source": "Adafruit",
+    "date": "2026-09-01",
+    "url": "https://blog.adafruit.com/2026/09/01/crosspoint-e-reader-firmware-for-esp32-based-epaper-devices/",
+    "summary": "LWN published a look at CrossPoint Reader, replacement firmware for the small ESP32-based e-readers that have been showing up from Chinese vendors over the past year. Dave Allie released the first version soon after the Xteink 4 went global. The MIT-licensed project now has more than 200 contributors and supports six devices built around the [&#8230;]"
+  },
+  {
+    "title": "Microsoft’s WinUI becomes fully open-source",
+    "source": "Adafruit",
+    "date": "2026-09-01",
+    "url": "https://blog.adafruit.com/2026/09/01/microsofts-winui-becomes-fully-open-source/",
+    "summary": "Ananthu Ashok, writing at Open Source For You, reports that Microsoft has finished moving WinUI to open source. WinUI is the native user interface framework behind Windows 11 applications. Mainline development now happens publicly on GitHub, where branches, pull requests and code reviews can be followed by anyone. The switch completes a four phase migration [&#8230;]"
+  },
+  {
+    "title": "The Most Efficient Origami Donut",
+    "source": "Adafruit",
+    "date": "2026-09-01",
+    "url": "https://blog.adafruit.com/2026/09/01/the-most-efficient-origami-donut/",
+    "summary": "A non-paper torus via Wikimedia commons by Dave Crosby &#160; Mathematicians are always up to something. Richard Schwartz of Brown University wasn&#8217;t satisfied with simply making an origami donut from a sheet of paper; he wanted to make sure it was the most efficient folded donut possible. The donut shape is called a torus. Schwartz [&#8230;]"
+  },
+  {
     "title": "RL training environments for Microduck",
     "source": "Adafruit",
     "date": "2026-09-01",
@@ -180,55 +229,6 @@
     "date": "2026-09-01",
     "url": "https://blog.adafruit.com/2026/09/01/shipping-alert-labor-day-2026-monday-september-7/",
     "summary": "Monday, September 7, is Labor Day. This is a federal Holiday as well as a holiday for the Adafruit team. While some of the team will be shipping orders there will be no carrier pickups. Expedited orders placed after 11am EST Friday, September 4, will not go out until Tuesday, September 2. Please allow extra [&#8230;]"
-  },
-  {
-    "title": "The core memory module from a 1980 Spacelab computer",
-    "source": "Adafruit",
-    "date": "2026-09-01",
-    "url": "https://blog.adafruit.com/2026/09/01/the-core-memory-module-from-a-1980-spacelab-computer/",
-    "summary": "Spacelab was a European built laboratory module that flew in the Space Shuttle&#8217;s cargo bay. It carried three French made Mitra 125 MS minicomputers, not the Shuttle&#8217;s IBM machines. A teardown by Ken Shirriff posted at righto.com looks at the memory in one of those computers: 128 kilobytes of magnetic core, built in 1980. The [&#8230;]"
-  },
-  {
-    "title": "History Workbench brings Git powered file versioning to FreeCAD",
-    "source": "Adafruit",
-    "date": "2026-09-01",
-    "url": "https://blog.adafruit.com/2026/09/01/history-workbench-brings-git-powered-file-versioning-to-freecad/",
-    "summary": "The FreeCAD blog has posted a talk from the FreeCAD North American meetup 2026 covering the History Workbench, developed by Ephi. The workbench adds file versioning to a locally stored FreeCAD project folder, so a project keeps a record of changes over time. It also lets you roll back a change that breaks something. It [&#8230;]"
-  },
-  {
-    "title": "Adafruit’s Top 10 Blog Posts of August 2026 #StateOfTheFruit #AdafruitTopTen",
-    "source": "Adafruit",
-    "date": "2026-09-01",
-    "url": "https://blog.adafruit.com/2026/09/01/adafruits-top-10-blog-posts-of-august-2026-stateofthefruit-adafruittopten/",
-    "summary": "More GTA 6 leaks reveal new gameplay and the entire map Why are people suddenly adding Apple Lightning cables to Raspberry Pi Pico 2 boards? Deskbuddy – ESP32 Touchscreen Personal Desk Dashboard #3DThursday #3DPrinting TinyNES – A Niche NES Console ESP32-S3 WALL-E is the Perfect Desk Companion Smart E-Paper Desk Dashboard – ESP32-C6 SuperMini + [&#8230;]"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-09-01",
-    "url": "https://blog.adafruit.com/2026/09/01/the-python-on-microcontrollers-newsletter-subscribe-for-free-9-1/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
-  },
-  {
-    "title": "The smallest possible complete Windows application",
-    "source": "Adafruit",
-    "date": "2026-09-01",
-    "url": "https://blog.adafruit.com/2026/09/01/the-smallest-possible-complete-windows-application/",
-    "summary": "PlummersSoftwareLLC has posted HelloAssembly on GitHub, a project to build the smallest possible complete Windows application in x86 assembly, without compression. It came out of the Dave&#8217;s Garage episode &#8220;Hello, Assembly! Retrocoding the World&#8217;s Smallest Windows App in x86 ASM&#8221; and a follow-up episode comparing C and assembly versions. The repository holds several takes on [&#8230;]"
-  },
-  {
-    "title": "StreetSense: know what you’re breathing",
-    "source": "Adafruit",
-    "date": "2026-09-01",
-    "url": "https://blog.adafruit.com/2026/09/01/streetsense-know-what-youre-breathing/",
-    "summary": "StreetSense, a project posted on Hackster.io, is a clip-on sensor node that logs what you are breathing while you run, ride, or walk. The node uses a Sensirion SEN54 plus a microphone to sample particulate matter, volatile organic compounds, and noise once a second, then pushes each reading to an Android phone over Bluetooth Low Energy [&#8230;]"
-  },
-  {
-    "title": "Math, Physics, and Engineering graphical applets",
-    "source": "Adafruit",
-    "date": "2026-09-01",
-    "url": "https://blog.adafruit.com/2026/09/01/math-physics-and-engineering-graphical-applets/",
-    "summary": "Falstad.com hosts a long-running collection of educational applets built to help visualize concepts in math, physics, and engineering. Originally written in Java, most of them have since been converted to JavaScript, so they run in a modern browser without any Java plugin. The lineup covers wave behavior with a ripple tank that shows interference, diffraction, [&#8230;]"
   },
   {
     "title": "ARK Just A Pi – A tiny NDAA-compliant Raspberry Pi CM5 carrier board for drones and robots",

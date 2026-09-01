@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-01 18:54 UTC
+Generated: 2026-09-01 21:27 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,9 +14,9 @@ Generated: 2026-09-01 18:54 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83367 | 33346.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83371 | 33348.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63549 | 25419.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44483 | 17793.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44484 | 17793.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30429 | 12171.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | zauberzeug/nicegui | 16173 | 6469.3 | [link](https://github.com/zauberzeug/nicegui) |
 
@@ -41,7 +41,7 @@ Generated: 2026-09-01 18:54 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-01 | Busan accelerator deploys $1.7M into 19 deep tech startups, led by physical AI - app.dealroom.co | physical ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxOQTJPM1FfbWdnN2xtWF91cFU4ZTVfdDQ5dklXRDlGb0RfSXRrc2E3c0RMNUhQaVZlU1Q4ckR0eVNwSzNKaFJaSzd2dGpkOWppM1lwQlRrSjU2N1N2ejBib1lLbDR0U2pITF9yRDZGeGtOQ0tCUGdvSHh0SV9ZblVxVjNlR3cyT2ktTGFHNWlrQlVteWFEdTZLeG5LSGJLYkdfb1BlYWR1N21uOVhMYk44?oc=5) |
+| 2026-09-01 | Busan accelerator deploys $1.7M into 19 deep tech startups, led by physical AI - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxOQTJPM1FfbWdnN2xtWF91cFU4ZTVfdDQ5dklXRDlGb0RfSXRrc2E3c0RMNUhQaVZlU1Q4ckR0eVNwSzNKaFJaSzd2dGpkOWppM1lwQlRrSjU2N1N2ejBib1lLbDR0U2pITF9yRDZGeGtOQ0tCUGdvSHh0SV9ZblVxVjNlR3cyT2ktTGFHNWlrQlVteWFEdTZLeG5LSGJLYkdfb1BlYWR1N21uOVhMYk44?oc=5) |
 | 2026-09-01 | Physical Superintelligence Raises $58M Seed Round - Unite.AI | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE0xMlp2OTFMb1lVTDFCV1NrWmotWXVRQXc5VElNdVFEZmJ3ZnI5ZmZwZDJsa0ZmU040cXduQ2xaajNMUHYzdmZlOHk5ZVlKYlpVSmQwUEY3YWZsWlphMGFYNXBzdTA4NGR2XzdRYjBoNjFuTmhhOHEzdU1B?oc=5) |
 | 2026-08-31 | Veeda AI Raises $90M Seed to Build "The Matrix" for Physical AI - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BTlVVcXo0aFNKck02Tjc1RWVGWXlJRnRrcVVmRHFtT09BLVppdHJUZ1NOZU40QUl6ZWxZdURYb19yNTBIdzNUNmRoZ0VkUTNJWTdJ?oc=5) |
 | 2026-08-30 | Tyler Raciti & Chet Ellis On Volumes, Their Startup Building Superintelligent Data for Physical AI - Medium | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLXhNSU90NEpuTzVOclhreGs3dEhnT0NVc2xNUlgxYTRGTERjUGI1UVp2RjJXSE9KdE1GcDhvR2l0X19paU5pU2lQTG9mRHhzcGFhTTBTUDFnUGc4c0htX3RuSGE4UndoOUtQdVpaMGZXQl8xVDVLVHhUM2JLNllSYXNYQllmcHp6ajFleUM0WlNhYmlScXI1Q0F3bGdEQ29kVklDUHpSVEpBNExFUG10QVpZV2g1SXVCSHhFQlduSlRMV3hBck55aWxyMm1rNldwR2IzTl8tblAtWHlQU1B3?oc=5) |
