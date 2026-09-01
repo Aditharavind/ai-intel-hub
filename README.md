@@ -1,22 +1,22 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-08-31 21:40 UTC
+Last Updated: 2026-09-01 00:49 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-31 | Polimill builds Japan's next-generation public AI infrastructure | OpenAI | [link](https://openai.com/index/polimill) |
 | 2026-08-31 | A milestone in expanding access to AI | OpenAI | [link](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads) |
 | 2026-08-28 | Our decision on Cursor following its acquisition by SpaceX | OpenAI | [link](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex) |
 | 2026-08-28 | Supporting Thailand’s next generation of AI startups | OpenAI | [link](https://openai.com/index/supporting-next-generation-ai-startups-thailand) |
 | 2026-08-28 | The Open ASR Leaderboard Adds Its First Global South Language | Hugging Face | [link](https://huggingface.co/blog/open-asr-leaderboard-global-south) |
 | 2026-08-27 | Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training | OpenAI | [link](https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training) |
 | 2026-08-27 | Expanding OpenAI’s presence in Brazil | OpenAI | [link](https://openai.com/index/expanding-our-presence-in-brazil) |
-| 2026-08-26 | Bringing ChatGPT for Teachers to more U.S. school districts | OpenAI | [link](https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts) |
 | 2026-08-26 | Learning never stops: How AI makes learning continuous | OpenAI | [link](https://openai.com/index/learning-never-stops) |
+| 2026-08-26 | Bringing ChatGPT for Teachers to more U.S. school districts | OpenAI | [link](https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts) |
 | 2026-08-26 | The Hugging Face incident and the road ahead | OpenAI | [link](https://openai.com/index/hugging-face-incident-and-the-road-ahead) |
-| 2026-08-26 | How loveholidays is making everyone a builder with Codex | OpenAI | [link](https://openai.com/index/loveholidays) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-08-31 | Fixing an Expensive Amprobe Cable Tracer With Mystery Fault | Hackaday | [link](https://hackaday.com/2026/08/31/fixing-an-expensive-amprobe-cable-tracer-with-mystery-fault/) |
 | 2026-08-31 | Building An Energy-Harvesting Business Card | Hackaday | [link](https://hackaday.com/2026/08/31/building-an-energy-harvesting-business-card/) |
 | 2026-08-31 | Simulating UAVs In Unreal Engine | Hackaday | [link](https://hackaday.com/2026/08/31/simulating-uavs-in-unreal-engine/) |
 | 2026-08-31 | Defeating Bacteria In Hot Water Systems With A Heat Exchanger | Hackaday | [link](https://hackaday.com/2026/08/31/defeating-bacteria-in-hot-water-systems-with-a-heat-exchanger/) |
 | 2026-08-31 | USB-C Adapted for Legacy Sprinkler Systems | Hackaday | [link](https://hackaday.com/2026/08/31/usb-c-adapted-for-legacy-sprinkler-systems/) |
 | 2026-08-31 | What’s Mu Metal? | Hackaday | [link](https://hackaday.com/2026/08/31/whats-mu-metal/) |
 | 2026-08-31 | Digital “Film” For Your Pi Camera | Hackaday | [link](https://hackaday.com/2026/08/31/digital-film-for-your-pi-camera/) |
-| 2026-08-31 | A Flip Disc Display That Does It Slow And Steady | Hackaday | [link](https://hackaday.com/2026/08/31/a-flip-disc-display-that-does-it-slow-and-steady/) |
 | 2026-08-31 | ARK Just A Pi – A tiny NDAA-compliant Raspberry Pi CM5 carrier board for drones and robots | CNX Software | [link](https://www.cnx-software.com/2026/08/31/ark-just-a-pi-a-tiny-ndaa-compliant-raspberry-pi-cm5-carrier-board-for-drones-and-robots/) |
 | 2026-08-31 | D-Robotics RDK S100P – A 128 TOPS alternative to NVIDIA Jetson Orin NX 16GB with Cortex-A78AE/R52+ cores | CNX Software | [link](https://www.cnx-software.com/2026/08/31/d-robotics-rdk-s100p-a-128-tops-alternative-to-nvidia-jetson-orin-nx-16gb-with-cortex-a78ae-r52-cores/) |
 | 2026-08-31 | Orange Pi Zero 4 – Compact Allwinner A733 SBC offers HDMI, USB-C DP, GbE, WiFI 6, PCIe FFC connector for $26.5 and up | CNX Software | [link](https://www.cnx-software.com/2026/08/31/orange-pi-zero-4-allwinner-a733-sbc-offers-hdmi-usb-c-dp-gbe-wifi-6-pcie-ffc-connector/) |
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3161 | Python | 1264.5 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1476 | Rust | 590.5 | [link](https://github.com/copper-project/copper-rs) |
-| Edgenesis/shifu | 1433 | Go | 573.3 | [link](https://github.com/Edgenesis/shifu) |
-| NVlabs/alpasim | 1205 | Python | 482.1 | [link](https://github.com/NVlabs/alpasim) |
-| mosaico-labs/mosaico | 991 | Python | 396.5 | [link](https://github.com/mosaico-labs/mosaico) |
+| NVIDIA/skills | 3162 | Python | 1264.9 | [link](https://github.com/NVIDIA/skills) |
 | awslabs/awsome-distributed-ai | 473 | Shell | 189.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63542 | Python | 25416.9 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30421 | Python | 12168.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| commaai/openpilot | 63543 | Python | 25417.3 | [link](https://github.com/commaai/openpilot) |
 | ArduPilot/ardupilot | 15780 | C++ | 6312.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14834 | C++ | 5933.7 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 14081 | Python | 5632.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| vllm-project/vllm-omni | 6512 | Python | 2604.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| deeplethe/utopia | 762 | Rust | 304.9 | [link](https://github.com/deeplethe/utopia) |
+| softmata/horus | 428 | Rust | 171.3 | [link](https://github.com/softmata/horus) |
+| isaac-sim/IsaacLab | 8013 | Python | 3205.3 | [link](https://github.com/isaac-sim/IsaacLab) |
+| copper-project/copper-rs | 1477 | Rust | 590.9 | [link](https://github.com/copper-project/copper-rs) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -113,7 +113,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2Z0SE1HMGJxVVEtaFZtSnNoQnEyR3lzR1lGNmZVZjBlTzFHZi1IMEdVajFDVUJ0NjlGeW5JRVJiOGU1Z1Y4bVMzc3gtQXNNRWpPXzhmRFJwN1VNUnhUYjdKUEkxdnZicVlVWW5ESk5BLTEzNzhjUk1iTGpsWEU0N1J3U2xfYXVRY2JfYXNEMkszb0dndnNiekU2NE0xcXNJWTJDNXFrYTBrYThmeFE?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxObXBJbUlia19faFRtRHd3UE5kUGlKRWdBUWRiSmlfTTYyTnRPVExndkE0ZXZ6YURodk5kSnpJTDJkc2doN01UZFk4VUI5RUFnbjd3TXJFVlo5YlJmWENIM0pra1E5bF9uT3NPOTFkaWwtNnFUd0p1WG93blBfZ241UnhabEJRbXprb0RvZjlYeDRsSlc4MkRKaTRSQ295RnVYX05mMThtRTRaR2pCM29sbWZvTThKVUtaWEE?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbngwc2NoMVVfZUt3OURhbkxvRmV1WTRVUlZWX3VXcHVnVkpsY0lMSjBRZ3huXzBCZWE0anZyeENERjR2MmhGS3RDVGRmV1dkakM3U2xEdlBEeVVSZE1EQnlLSjYxZlQyRElDNmxCdHNWZWVORk5GSkNCaXg4Q0xvN1FFNUdzanQtNDBr?oc=5) |
-| 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxQNVdhVV9sQ19COVBLaF9BMi1adTlva0lWSHBWOXcyV1VEaXA1U3lpN3JnV2RIM1BMOVhSN1hMUW9qclhhOWVKVVNteWUxcFhRVzY3OUdTZVpxVjRNc1FKUFk0VTF3Z1BxUXVXb3BlRUVrMk5BMTlsalZaRUZtOWZKTS16cXF4d0dkLUJZaFFnS2hjQm9FSmJvRE1zcDFUb2Q1aWQySTU3ZURWWkdLbjJwME5uQVBmd0h0VlpaOGdHY0w0VTRPRDVfYzBfLUNEdW8?oc=5) |
+| 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWi0xVVZXSXFwSXhIbUVLVnJTXzFnMmdrRlo0YTR6Z18yYXNCbm5RYkFwam1hWVVQVXB2MlBkb29mY3lfNFk2dGliZnc3bW5DM3ZvZ0xuUlJITHNFS2lhY0hJXzhCY0J2UXJvaGFzTGpvSHUtY2hfUWExdjg1cG01WENab2plQ2VLTnVvVGpOamIyV3owd19mcW9RNDhIaGpCWWJLMnN5MEltSGZpREQyR0FsTzZWc3NVREhPNTY5cG5iVWRuVzEwVDc1MEFnLWln?oc=5) |
 | 2026-08-20 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhLOS1OTWxZdzBsWFYxXzBybFo0dU1LdTVLLTgzWEtlNDlMRm1uRjQ0R3lSOWpna0dkanhMR0dGV0RVOUVzRFZWbFZJejNMWEQ5NXRKaFc5MTVrN3ZIdnpmQ1p5UUVrV3lOMUI0X0ktTjQ0MEM1bTFzaXg3d1dBT1NXY2FmZkRnRW03ZUo4VEx3cFU3SVVFdVQzZUtVSWpWZlFYM0diQi1Wb1lJVGZn?oc=5) |
 
 ## New Companies
@@ -128,7 +128,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-28 | Anthropic Previews Standard for AI Control of Physical Devices - PYMNTS.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEFlQ0lJd2dJNnczcjRXTE5NVTlXcm5Yam9tQmtpUVpxclBUMVFGREtSODllRDB0a2hfSkpWc2dWeGtXTmlJd0pycFdlbWxSTGFwazQ5ZHIyb21LNXVOcHNWa05iaXlac19CcXF2UVBMalh1TnBPVGIzY3pZVGdyYXM4dFk3VzNxRFVUUTNmZnhKazY2TXNTQ2hlTXFwNEY0YzRqWXVsdUw4d1dfcWtiUlZGOGR5T1JDYXRTSA?oc=5) |
 | 2026-08-28 | Embodied-AI startup PsiBot raises over $100 million with industrial investors joining - technode.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjVueXdiTUJKUVVBRXU5ckJIV2JKZkVpTVBOdzZXZUdoX0swMFdLb09rbXFJMlp1QWJlMS1VWk5CWlVWM3ZCTmIyVWt1WEVDT0JkZ0RMemZHcTBxZFF4a0hfcHJNVjM0NHB6TWFEY3NMcFdqejZnVUJZZEEtdmtHdjhQc2FRamhWeXNjQjc2QVh1NllYc0lzWVVCU1hLREc2VmFnb2NHOFUzLTdLcEVMUC1BWlJDVnBh?oc=5) |
 | 2026-08-27 | SoftBank in Talks to Buy Majority Stake in Humanoid Maker 1X at $6 Billion Valuation - The Information | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDZmYU9rOVJvZGhKUjRSM0ZWSklJaGd6ZkJCVGNvdm1fZ09XVTd6dDlrNHczUWFjV1lReGVER2xVT08zRlJNV2pJVnRhVHZYd29OOXBIVXFEaUR6MU1qcWNnZW1TcHlSRk9pMjl6X3JEOTBTQVRNRkM3ZncxU0RtWnpIS01sUlZ1VDFPTE5LRVMxZWpMazVBS0dpUzVJT2xGel9BV3k0dTBLVnRJYWFTYg?oc=5) |
-| 2026-08-27 | SoftBank in talks to buy stake in 1X at $6 billion valuation, The Information reports - Reuters | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEF3WERUeVhaYmdFTXNpQUx1RUZpTWNjTlRRckJkZEZIM3MwNHZaRDI4QV9MWHpHSDMxYjZPZFhmalItV1FwNmp5Znd2NEVhOURkZW9McWh1eEo1TlNELXJxTVFldm9FSDdPS3Z2TTkzb0phSXpGSjE0ZXNkX1VCdklTZ0dYemZabTB6Q3JNSUxISHZJbW1pSTBoOF94dk4xSVdCMzdpT0oyai1RSlZJMDI1TDNpRndlM0drdDRYM0U?oc=5) |
+| 2026-08-26 | Ex-Meta scientists want to bring visual AI to the factory floor - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdE5obFRWRzVJRDJxbThWYzh6eFZ6N2c2Z2xyYnJkMjFSUGdFR1dFa3lKTVBXaFV3cTg4eXNJS0ljU1BzY0kwV24yd0FyOHY3RFpibVlFbTBxU3VObVNSTDhHTjAyUktjOWJLRzl2b3Jhclo4WUJsdlJXVU9OOWotbjN4d0thMmhjUzdMUWNYUFFreEs3QXRmSmdpNWVNMTQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
