@@ -1,5 +1,19 @@
 [
   {
+    "title": "FLOSS Weekly Episode 880: The Two Wolves",
+    "source": "Hackaday",
+    "date": "2026-09-02",
+    "url": "https://hackaday.com/2026/09/02/floss-weekly-episode-880-the-two-wolves/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>This week Jonathan chats with Benjamin Samuels of Trail of Bits! The conversation focuses on Patch the Planet, a new initiative to help Open Source projects deal with the fallout <a class=\"read-more\" href=\"https://hackaday.com/2026/09/02/floss-weekly-episode-880-the-two-wolves/\">&#8230;read more</a>"
+  },
+  {
+    "title": "How a 1981 RAM Expansion Worked",
+    "source": "Hackaday",
+    "date": "2026-09-02",
+    "url": "https://hackaday.com/2026/09/02/how-a-1981-ram-expansion-worked/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/ram-pack-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Sir Clive Sinclair and his company were notorious for pushing the limits of electronic parts in search of a low price, and his ZX series 8-bit computers were fine examples <a class=\"read-more\" href=\"https://hackaday.com/2026/09/02/how-a-1981-ram-expansion-worked/\">&#8230;read more</a>"
+  },
+  {
     "title": "“I’m Not Dead Yet!” Reverse Polish Notation Calculators You Can Still Buy",
     "source": "Hackaday",
     "date": "2026-09-02",
@@ -56,81 +70,165 @@
     "summary": "<div><img alt=\"Circuit Valley CHC5 Open Camera\" class=\"attachment-medium size-medium wp-post-image\" height=\"425\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Circuit-Valley-CHC5-Open-Camera-720x425.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Circuit Valley&#8217;s CHC5 is a modular camera system based on a Core board powered by an AMD/Xilinx Zynq-7020 SoC FPGA, a range of interface boards with USB, HDMI, or Ethernet (PoE), various sensor boards, and a metal enclosure. The solution can be customized with different lens objectives and different sensors with MIPI D-PHY, LVDS, Sub-LVDS, Low Voltage LVDS, or SLVS interfaces. The Zynq-7020&#8217;s Cortex-A9 cores can handle complex tasks, while the FPGA fabric takes care of high-speed calculation and correction on the image, and can also be leveraged for  AI/machine-vision-specific algorithms or complex low-latency hardware acceleration. CHC5 specifications: Core board SoC &#8211; Xilinx AMD Zynq-7020 SoC FPGA CPU &#8211; Dual-core Arm Cortex-A9 processor FPGA &#8211; 85K logic cells, 4.9Mb Block RAM, 220 DSP slices System Memory &#8211; 1GB DDR3 Storage 1 Gbit flash memory MicroSD card slot ISP &#8211; Full-fledged ISP implemented on FPGA fabric Multiple interface boards with 10Gbps [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/02/circuit-valley-chc5-a-modular-usb-hdmi-and-ethernet-camera-system/\">Circuit Valley CHC5 &#8211; A modular USB, HDMI, and Ethernet camera system (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "HDMI For the Tandy/Radio Shack Color Computer 2",
+    "title": "Unlocking Autonomy in Military Drones Goes Beyond SWaP-C",
+    "source": "Embedded.com",
+    "date": "2026-09-02",
+    "url": "https://www.embedded.com/unlocking-autonomy-in-military-drones-goes-beyond-swap-c/",
+    "summary": "<p>Global defense spending has increased amidst rising geopolitical tensions and de-globalization to strengthen national security. The Trump administration's hefty defense budget request this June allocates $2.4 billion just to drones. Resulting from this paradigm shift in warfare, global spending also follows this trend. Further fueled by technological advances, it has converged into a boon for [...]</p>\n<p>The post <a href=\"https://www.embedded.com/unlocking-autonomy-in-military-drones-goes-beyond-swap-c/\">Unlocking Autonomy in Military Drones Goes Beyond SWaP-C</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Picture of the Day: MAGPIE signs up to be ESA’s first lunar rover",
+    "source": "Electronics Weekly",
+    "date": "2026-09-02",
+    "url": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-magpie-signs-up-to-be-esas-first-lunar-rover-2026-09/",
+    "summary": "<p>This is what a MAGPIE will look like. At least an artist's impression. Of ESA’s first lunar rover, that is. The European Space Agency (ESA) and ispace-Europe officially sign an agreement for MAGPIE to be the first European rover on the Moon...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-magpie-signs-up-to-be-esas-first-lunar-rover-2026-09/\">Picture of the Day: MAGPIE signs up to be ESA&#8217;s first lunar rover</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Anritsu AH15203A wideband linear amplifier for optical comms",
+    "source": "Electronics Weekly",
+    "date": "2026-09-02",
+    "url": "https://www.electronicsweekly.com/news/products/anritsu-ah15203a-wideband-linear-amplifier-for-optical-comms-2026-09/",
+    "summary": "<p>Anritsu is launching a 140 Gbaud wideband linear amplifier with integrated bias tee, the AH15203A/B, for optical communications. Aimed at developers of optical transmission devices, the company says the new [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/anritsu-ah15203a-wideband-linear-amplifier-for-optical-comms-2026-09/\">Anritsu AH15203A wideband linear amplifier for optical comms</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Memory Mania",
+    "source": "Electronics Weekly",
+    "date": "2026-09-02",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/memory-mania-2026-09/",
+    "summary": "<p>According to WSTS global memory chip revenue is projected to surge 250% to $804 billion this year and could exceed $1 trillion in 2027. Meanwhile, memory’s share of the overall [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/markets/memory-mania-2026-09/\">Memory Mania</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "EPC ePower Stage ICs target high-performance motor drives",
+    "source": "Electronics Weekly",
+    "date": "2026-09-02",
+    "url": "https://www.electronicsweekly.com/news/products/power-supplies/epc-epower-stage-ics-target-high-performance-motor-drives-2026-09/",
+    "summary": "<p>Efficient Power Conversion (EPC) is announcing mass production of its 100 V integrated GaN ePower Stage devices, for high-performance motor drives. The family comprises EPC23108, EPC23109, EPC23110 and EPC23111, and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/power-supplies/epc-epower-stage-ics-target-high-performance-motor-drives-2026-09/\">EPC ePower Stage ICs target high-performance motor drives</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "HyImpulse raises €50 million Series A Extension for rocket launch",
+    "source": "Electronics Weekly",
+    "date": "2026-09-02",
+    "url": "https://www.electronicsweekly.com/news/business/finance/hyimpulse-raises-e50-million-series-a-extension-for-rocket-launch-2026-09/",
+    "summary": "<p>The European space launch company HyImpulse has announced Series A Extension financing of €50 million for its hybrid propulsion rocket technology. With the maiden flight of its SR75 launch vehicle [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/hyimpulse-raises-e50-million-series-a-extension-for-rocket-launch-2026-09/\">HyImpulse raises €50 million Series A Extension for rocket launch</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
+    "source": "Electronics Weekly",
+    "date": "2026-09-02",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-09/",
+    "summary": "<p>Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-09/\">Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Arm shareholders to vote for CEO pay package next week",
+    "source": "Electronics Weekly",
+    "date": "2026-09-02",
+    "url": "https://www.electronicsweekly.com/news/business/arm-shareholders-to-vote-for-ceo-pay-package-next-week-2026-09/",
+    "summary": "<p> Next week (on Sept 9) Arm shareholders will vote on the pay package of CEO Rene Haas (pictured) which was announced last May. Although shareholder advisory groups are advising Arm [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/arm-shareholders-to-vote-for-ceo-pay-package-next-week-2026-09/\">Arm shareholders to vote for CEO pay package next week</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "The Designless Semiconductor Industry",
+    "source": "Electronics Weekly",
+    "date": "2026-09-02",
+    "url": "https://www.electronicsweekly.com/news/business/the-designless-semiconductor-industry-2026-09/",
+    "summary": "<p>Architect Labs of Palo Alto has raised $24 million to build an AI system that designs and verifies chips end-to-end, transforming workloads into production-ready silicon while accelerating development time. Investors [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/the-designless-semiconductor-industry-2026-09/\">The Designless Semiconductor Industry</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Multiaxial coreless Hall-effect current sensor for EVs",
+    "source": "Electronics Weekly",
+    "date": "2026-09-02",
+    "url": "https://www.electronicsweekly.com/news/business/multiaxial-coreless-hall-effect-current-sensor-for-evs-2026-09/",
+    "summary": "<p>TI claims to be first to bring out a multiaxial coreless Hall-effect current sensor designed for all hybrid electric vehicle and electric vehicle (HEV/EV) traction inverter applications. The TMCS2100-Q1 sensor [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/multiaxial-coreless-hall-effect-current-sensor-for-evs-2026-09/\">Multiaxial coreless Hall-effect current sensor for EVs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Melexis sampling low-power, cost-sensitive 3D magnetometer",
+    "source": "Electronics Weekly",
+    "date": "2026-09-02",
+    "url": "https://www.electronicsweekly.com/news/business/melexis-sampling-low-power-cost-sensitive-3d-magnetometer-2026-09/",
+    "summary": "<p>Melexis is sampling a low-power 3D magnetometer for cost-sensitive, high-volume applications. Delivering on-the-fly flexibility and wide selectable ranges, the MLX90391 provides smart utility meters with robust tampering protection up to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/melexis-sampling-low-power-cost-sensitive-3d-magnetometer-2026-09/\">Melexis sampling low-power, cost-sensitive 3D magnetometer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "A Safari extension that hides YouTube AI-labeled videos",
     "source": "Adafruit",
     "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/hdmi-for-the-tandy-radio-shack-color-computer-2/",
-    "summary": "sbelectronics has published a build for HDMI output on the TRS-80 Color Computer 2, written up at smbaker.com. The design is an interposer PCB that sits between the CoCo motherboard and its MC6847 video chip. The real 6847 goes into a socket on top of the interposer and stays in circuit, so the RF output [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/02/a-safari-extension-that-hides-youtube-ai-labeled-videos/",
+    "summary": "Weedout is a Safari extension that removes videos YouTube has labeled &#8220;Made with AI&#8221; from what you see. Instead of covering them with a warning screen, it takes them out of the home feed, search results, related videos and Shorts. Detection uses YouTube&#8217;s own &#8220;Made with AI&#8221; disclosure badge, so there is no guessing and [&#8230;]"
   },
   {
-    "title": "LIVE! 3D Hangouts with Noe and Liz",
+    "title": "Creating green clothing with living fungi",
     "source": "Adafruit",
     "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/live-3d-hangouts-with-noe-and-liz-2/",
-    "summary": "3D Hangouts – Candy Dispenser and Eyes with Co-Host Liz https://www.youtube.com/watch?v=zDCbYEXGvAU This week @adafruit special co-host Liz Clark will be joining Noe to discuss their latest collaboration, Franky Candy Dispenser. Chatting about work-in-progress projects, community makes and more. Feather RP2040 PropMaker: https://www.adafruit.com/product/5768 LED Glasses Starter Kit https://www.adafruit.com/product/5255 Timelapse Tuesday: Halloween Davy Jones Tentacles Mask By [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/02/creating-green-clothing-with-living-fungi/",
+    "summary": "Maya Posch, writing at Hackaday, covers a Science Advances paper from Ke Li and colleagues on a fungal platform for living textiles. Most fabric is dead tissue, or was never part of an organism at all. This work falls under engineered living materials, where the fabric itself stays alive. The base material is the fungus [&#8230;]"
   },
   {
-    "title": "Input-Remapper Key Macros",
+    "title": "JP’s Product Pick of the Week  9/1/26 @adafruit @johnedgarpark #adafruit #newproductpick",
     "source": "Adafruit",
     "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/input-remapper-key-macros/",
-    "summary": "Ed at The Smell of Molten Projects in the Morning has written up the input-remapper settings he uses for the pointing devices on his desk. Input-remapper is a Linux tool that reassigns buttons and keys, and it can fire off whole macros of keystrokes from a single button press. On a Huion H610Pro V2 tablet, [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/02/jps-product-pick-of-the-week-9-1-26-adafruit-johnedgarpark-adafruit-newproductpick/",
+    "summary": "If you missed this week’s livestream of John Park’s Product Pick of the Week, not to worry, here’s the video . This week’s pick is the Adafruit I2S 3W Stereo Speaker Bonnet! Watch the video to find out about the Adafruit I2S 3W Stereo Speaker Bonnet, how to use it, a live demo, and more. [&#8230;]"
   },
   {
-    "title": "FBI investigates as hackers sell digital scans of 153M drivers licenses",
+    "title": "Apple tells Mac App Store developers they can now drop Intel support",
     "source": "Adafruit",
     "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/fbi-investigates-as-hackers-sell-digital-scans-of-153m-drivers-licenses/",
-    "summary": "Ben Lovejoy reports at 9to5Mac that the FBI has opened an inquiry into a dark web service selling digital scans of more than 153 million driver&#8217;s licenses. The licenses belong to people in the United States and Canada. Medical cards and residence cards are also on offer. The service, called Nexus, launched this week. Krebs [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/02/apple-tells-mac-app-store-developers-they-can-now-drop-intel-support/",
+    "summary": "Apple started informing developers today that universal macOS apps on the Mac App Store that require macOS 13 or later can now drop support for Intel-based Macs. In the email, Apple says: We’re reaching out to let you know that universal macOS apps on the Mac App Store that require macOS 13 or later can [&#8230;]"
   },
   {
-    "title": "Anthropic makes changes to stop AI agents running amok, again",
+    "title": "UPDATED GUIDE: Adafruit Sparkle Motion Mini #AdafruitLearningSystem #WipperSnapper @Adafruit",
     "source": "Adafruit",
     "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/anthropic-makes-changes-to-stop-ai-agents-running-amok-again/",
-    "summary": "InfoWorld reports that Anthropic is changing how it tests pre-release models after three incidents in which Claude models reached computer systems they should not have touched. The models involved were Opus 4.7, Mythos 5, and an internal research model. They were running without cyber safeguards, a common practice in early testing, and exploited misconfigurations in [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/02/updated-guide-adafruit-sparkle-motion-mini-adafruitlearningsystem-wippersnapper-adafruit/",
+    "summary": "UPDATE GUIDE: Adafruit Sparkle Motion Mini The Adafruit Sparkle Motion Mini is part of our series of &#8220;Sparkle Motion&#8221; boards, that are our attempt to make the best small WLED-friendly smart LED driving board in the whole world. Our resident mermaid, firepixie makes a lot of projects with WLED and she loves it! The Adafruit Sparkle Motion Mini guide has everything [&#8230;]"
   },
   {
-    "title": "The curiosity that is Minecraft: Pi Edition",
+    "title": "TIME Trailblazers: Designing and Making the Future",
     "source": "Adafruit",
     "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/the-curiosity-that-is-minecraft-pi-edition/",
-    "summary": "Declan Chidlow documented the history of Minecraft: Pi Edition, the free Raspberry Pi port that Mojang announced in November 2012 and released on February 11th, 2013. Development was led by Aron Nieminen and Daniel Frisk. It was based on Pocket Edition v0.6.1 alpha, and v0.1.1 alpha was the only version ever released. The post covers [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/02/time-trailblazers-designing-and-making-the-future/",
+    "summary": "Alex Honnold is one of the TIME Trailblazers, image via Wikipedia Commons: Alex Honnold in 2023 in Antarctica by Christopher Michel &#160; TIME Magazine has released a list of their TIME Trailblazers: Designing and Making the Future recognizing leaders who are building towards the future through engineering, design and more.  The list appears to be [&#8230;]"
   },
   {
-    "title": "3D Print a Minecraft Jukebox",
+    "title": "How to change Raspberry Pi WiFi details from the SD card",
     "source": "Adafruit",
     "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/3d-print-a-minecraft-jukebox/",
-    "summary": "MateoTechLab and teammate Logan made a childhood dream reality when they made this Minecraft jukebox: Using NFC technology, 3D printed parts, and carefully coded electronics, my teammate Logan and I built a jukebox capable of recognizing the different music discs and playing their corresponding songs, just like in the game. What started as a school [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/02/how-to-change-raspberry-pi-wifi-details-from-the-sd-card/",
+    "summary": "Abhishek Prakash at It&#8217;s FOSS wrote up a way to fix a Raspberry Pi that can no longer reach your network: edit the WiFi settings straight from the microSD card. This is handy when the router changed, the SSID and password are new, and hooking the Pi up to a monitor and keyboard is more [&#8230;]"
   },
   {
-    "title": "A Windows 98 disk defrag simulator in your browser",
+    "title": "I vibecoded Morrowind, Duke Nukem, and Serious Sam onto an iPhone",
     "source": "Adafruit",
     "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/a-windows-98-disk-defrag-simulator-in-your-browser/",
-    "summary": "Dennis Morello has built a web-based simulator of Microsoft&#8217;s Disk Defragmenter, the version that shipped with Windows 98. It doesn&#8217;t touch your drive. It just replays the look and sound of the original: rows of little squares, blue for unoptimized data, dark blue for defragmented data, white for free space. There is a progress bar [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/02/664081/",
+    "summary": "Arjun Krishna Lal, writing at TechSpot, describes how he got Morrowind, Duke Nukem 3D, and Serious Sam: The First Encounter running natively on an iPhone without knowing how to code. He used AI coding agents and a $100 ChatGPT Pro account. He also had no Mac, so the builds were compiled on a GitHub macOS [&#8230;]"
   },
   {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "title": "Smart Phone Mittens #AdafruitLearnSystem",
     "source": "Adafruit",
     "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/the-python-on-microcontrollers-newsletter-subscribe-for-free-9-2/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/02/smart-phone-mittens-adafruitlearnsystem/",
+    "summary": "Believe it or not its that time of year and sweater weather is just around the corner. Its never too early to start knitting up a pair of conductive mittens for when the seasons change. Have you missed a call because you couldn&#8217;t get your gloves off fast enough? Maybe you&#8217;ve tried a pair of [&#8230;]"
   },
   {
-    "title": "Building An Airsoft Claymore Mine",
-    "source": "Hackaday",
-    "date": "2026-09-01",
-    "url": "https://hackaday.com/2026/09/01/building-an-airsoft-claymore-mine/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/08/IMG_0518-e1788133082699.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Claymore mine is a rather fearsome weapon of war, using explosives to blast a cone of shrapnel towards advancing enemies. It&#8217;s not really something you should try and build <a class=\"read-more\" href=\"https://hackaday.com/2026/09/01/building-an-airsoft-claymore-mine/\">&#8230;read more</a>"
+    "title": "GPIBee (UsbGpib V3) USB-to-GPIB adapter gains PoE Ethernet",
+    "source": "Adafruit",
+    "date": "2026-09-02",
+    "url": "https://blog.adafruit.com/2026/09/02/gpibee-usbgpib-v3-usb-to-gpib-adapter-gains-poe-ethernet/",
+    "summary": "Jean-Luc Aufranc writes at CNX Software that XyphroLabs has released the third revision of its UsbGpib adapter, now called GPIBee. The adapter connects legacy GPIB/IEEE-488 test instruments to modern computers. V3 adds an Ethernet RJ45 port with PoE, an aluminum enclosure, and USB 2.0 at 480 Mbps. That speed supports the VXI-11 protocol over a [&#8230;]"
   },
   {
-    "title": "How Gold Plastic Syndrome is Killing Toys and Game Consoles",
-    "source": "Hackaday",
-    "date": "2026-09-01",
-    "url": "https://hackaday.com/2026/09/01/how-gold-plastic-syndrome-is-killing-toys-and-game-consoles/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"413\" src=\"https://hackaday.com/wp-content/uploads/2026/08/brittle_plastic_nintendo_ds_sqwerks_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In a recent video [Sqwerks] does a deep-dive into the problem of disintegrating plastic enclosures of Nintendo DS consoles. These original NDS handheld consoles have a metallic-like coating that appears <a class=\"read-more\" href=\"https://hackaday.com/2026/09/01/how-gold-plastic-syndrome-is-killing-toys-and-game-consoles/\">&#8230;read more</a>"
+    "title": "Where will RISC-V be in 20 Years? Poll results",
+    "source": "Adafruit",
+    "date": "2026-09-02",
+    "url": "https://blog.adafruit.com/2026/09/02/where-will-risc-v-be-in-20-years-poll-results/",
+    "summary": "Babbage, writing at The Chip Letter, re-ran a reader poll asking where RISC-V will be in 20 years. The first poll ran in August 2023, during a series of posts on the architecture. It was framed around a line from Krste Asanović and David Patterson: that RISC-V could become &#8220;the standard ISA for all computing [&#8230;]"
+  },
+  {
+    "title": "Atari Lynx: the first color handheld game console",
+    "source": "Adafruit",
+    "date": "2026-09-02",
+    "url": "https://blog.adafruit.com/2026/09/02/atari-lynx-the-first-color-handheld-game-console/",
+    "summary": "Dave Farquhar has written a history of the Atari Lynx, which just turned 37 years old, at The Silicon Underground. It was the first handheld game console with a color screen. It reached the market on September 1, 1989, about two months after the Nintendo Game Boy. The design came from three Amiga veterans: Dave [&#8230;]"
   },
   {
     "title": "Qualcomm introduces Dragonwing Q-2390 and IQ-2390 for consumer and industrial AIoT applications",
@@ -166,27 +264,6 @@
     "date": "2026-09-01",
     "url": "https://www.embedded.com/achronix-adds-jesd204c-ip-core-for-speedster7t-fpgas/",
     "summary": "<p>Achronix Semiconductor Corp. has introduced a high-performance JESD204C IP core for its family of Speedster7t FPGAs. The IP core is designed to connect advanced analog-to-digital converters and digital-to-analog converters to programmable logic. Each core supports data rates of up to 32 Gbits/s per lane and up to eight lanes per link, which translates into an [...]</p>\n<p>The post <a href=\"https://www.embedded.com/achronix-adds-jesd204c-ip-core-for-speedster7t-fpgas/\">Achronix Adds JESD204C IP Core for Speedster7t FPGAs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Discover the Rare First Printed Don Quixote Illustrations",
-    "source": "Adafruit",
-    "date": "2026-09-01",
-    "url": "https://blog.adafruit.com/2026/09/01/discover-the-rare-first-printed-don-quixote-illustrations/",
-    "summary": "I&#8217;m not sure if Don Quixote is still required reading in high school but I&#8217;m certain it is still one of the most influential works of literature to this day. The The Laredo Center for the Arts will be presenting The Quest to Dream III: A Rare Collection of the First Printed Don Quixote Illustrations [&#8230;]"
-  },
-  {
-    "title": "A flip disc display that does it slow and steady",
-    "source": "Adafruit",
-    "date": "2026-09-01",
-    "url": "https://blog.adafruit.com/2026/09/01/a-flip-disc-display-that-does-it-slow-and-steady/",
-    "summary": "Zoe Skyforest writing at Hackaday covered a flip disc display by Zimm that throws out the usual electromagnet per pixel. The array is 37 by 18 square discs, black on one side and blue on the other, with no actuator behind any of them. Instead, a CNC machine does the flipping. A tool head scans [&#8230;]"
-  },
-  {
-    "title": "Linux was first announced August 25, 1991",
-    "source": "Adafruit",
-    "date": "2026-09-01",
-    "url": "https://blog.adafruit.com/2026/09/01/linux-was-first-announced-august-25-1991/",
-    "summary": "Dave Farquhar looks back at the Usenet post that started Linux, writing on The Silicon Underground. On August 25, 1991, Linus Torvalds posted to comp.os.minix to describe a free hobby operating system for 386 and 486 PCs. He had been working on it since April. He had the bash shell and the gcc compiler running [&#8230;]"
   },
   {
     "title": "ARK Just A Pi – A tiny NDAA-compliant Raspberry Pi CM5 carrier board for drones and robots",
@@ -348,12 +425,5 @@
     "date": "2026-08-26",
     "url": "https://www.embedded.com/altera-expands-agilex-9-direct-rf-fpga-ecosystem-for-defense/",
     "summary": "<p>Altera Corp. has recently expanded its Agilex 9 Direct RF FPGA ecosystem through collaborations with Mercury Systems and VadaTech, introducing commercial off-the-shelf (COTS) solutions for next-generation defense platforms. The partnerships combine Agilex 9 medium-band Direct RF FPGAs with open-architecture hardware to help defense system developers reduce size, weight, power, and cost; shorten development cycles; and deploy more [...]</p>\n<p>The post <a href=\"https://www.embedded.com/altera-expands-agilex-9-direct-rf-fpga-ecosystem-for-defense/\">Altera Expands Agilex 9 Direct RF FPGA Ecosystem for Defense</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Nvidia Unveils Jetson Orin Nano 2 for Robotics and Edge AI",
-    "source": "Embedded.com",
-    "date": "2026-08-25",
-    "url": "https://www.embedded.com/nvidia-unveils-jetson-orin-nano-2-for-robotics-and-edge-ai/",
-    "summary": "<p>Nvidia claims to redefine entry-level edge AI with the launch of the Jetson Orin Nano 2 robotics computer, making frontier-class AI models available to millions of developers. Advancing generative AI at the edge, the new AI supercomputer targets applications such as robots, delivery and inspection drones, and vision AI systems that need small, energy-efficient robotics [...]</p>\n<p>The post <a href=\"https://www.embedded.com/nvidia-unveils-jetson-orin-nano-2-for-robotics-and-edge-ai/\">Nvidia Unveils Jetson Orin Nano 2 for Robotics and Edge AI</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
