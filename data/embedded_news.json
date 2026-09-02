@@ -1,5 +1,19 @@
 [
   {
+    "title": "HDMI For the Color Computer 2",
+    "source": "Hackaday",
+    "date": "2026-09-02",
+    "url": "https://hackaday.com/2026/09/02/hdmi-for-the-color-computer-2/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/HDMI-on-the-TRS-80-Color-Computer-2-COCO2-Vintage-Computer-0-10-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Scott Baker] bought a TRS-80 Color Computer off eBay some five years ago. He&#8217;d always intended to add a CoCoVGA or CoCoDV upgrade to hook it up to a monitor, <a class=\"read-more\" href=\"https://hackaday.com/2026/09/02/hdmi-for-the-color-computer-2/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Creating the Greenest Possible Clothing with Living Fungi",
+    "source": "Hackaday",
+    "date": "2026-09-02",
+    "url": "https://hackaday.com/2026/09/02/creating-the-greenest-possible-clothing-with-living-fungi/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"462\" src=\"https://hackaday.com/wp-content/uploads/2026/08/living_textiles_ke_li_et_al_science_advances_2026.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Despite the wide variety of fabrics used for our clothing, they all share the property of not being living tissues. This could be due to them never having been part <a class=\"read-more\" href=\"https://hackaday.com/2026/09/02/creating-the-greenest-possible-clothing-with-living-fungi/\">&#8230;read more</a>"
+  },
+  {
     "title": "A Defrag Simulator In Your Browser",
     "source": "Hackaday",
     "date": "2026-09-02",
@@ -14,11 +28,53 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"507\" src=\"https://hackaday.com/wp-content/uploads/2026/09/firefox_on_haiku_r1_beta_6_action_retro_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>After just a little over 25 years of the Haiku project trying to keep the BeOS spirit alive, the team has now released Beta 6. The spicy details of what <a class=\"read-more\" href=\"https://hackaday.com/2026/09/01/haiku-os-releases-beta-6/\">&#8230;read more</a>"
   },
   {
+    "title": "LightMake L4 3D printer features four independent heads for simultaneous or multi-color printing (Crowdfunding)",
+    "source": "CNX Software",
+    "date": "2026-09-02",
+    "url": "https://www.cnx-software.com/2026/09/02/lightmake-l4-3d-printer-features-four-independent-printing-heads/",
+    "summary": "<div><img alt=\"LightMake L4 3D printer four printing heads\" class=\"attachment-medium size-medium wp-post-image\" height=\"536\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/LightMake-L4-3D-printer-four-printing-heads-1-720x536.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The LightMake L4 is a desktop 3D printer with four independent printing heads for high-throughput multi-color, multi-material, and batch production. It uses four independently controlled printheads and linear-motor motion instead of conventional belts, allowing users to print four identical models simultaneously, produce complex multi-color parts with minimal purge waste, or combine up to four materials in a single print. Typically, multi-color FDM 3D printers like the Bambu Lab X1 or Geeetech A20M use a single-nozzle purge material during every color change, which leads to a lot of material waste and longer print times. The LightMake L4 takes a different approach by keeping four filaments loaded and heated in four completely separate extruders. According to the company, this allows for one-second toolhead changes and near-zero purge waste. The linear motor system also promises ±1µm motion precision and speeds of up to 500 mm/s. LightMake L4 and L1 specifications: Printing technology – [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/02/lightmake-l4-3d-printer-features-four-independent-printing-heads/\">LightMake L4 3D printer features four independent heads for simultaneous or multi-color printing (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "GPIBee (UsbGpib V3) USB-to-GPIB adapter gains Ethernet (PoE), but launches as closed-source hardware",
+    "source": "CNX Software",
+    "date": "2026-09-02",
+    "url": "https://www.cnx-software.com/2026/09/02/gpibee-usbgpib-v3-usb-to-gpib-adapter-gains-ethernet-poe-but-launches-as-closed-source-hardware/",
+    "summary": "<div><img alt=\"GPIBee PoE to GPIB adapter\" class=\"attachment-medium size-medium wp-post-image\" height=\"370\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/GPIBee-PoE-to-GPIB-adapter-720x370.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Last December, we wrote about XyphroLabs’s UsbGpib open-source hardware, affordable, and portable USB-to-GPIB adapter designed for legacy GPIB/IEEE-488 instruments and offering modern hardware and software. At the time, the UsbGpib V3 was also in the works with Ethernet (PoE) support, and the good news is that it&#8217;s now available, renamed as GPIBee. The less good news is that while V1 and V2 were both open-source hardware products (and still are), the GPIBee has been released as closed-source hardware for reasons we&#8217;ll explain below. GPIBee specifications: Microcontroller – Not disclosed. But not the Microchip ATMega32U4 8-bit AVR MCU found in V2 since its USB interface is limited to 12 Mbps Host interfaces USB 2.0 (480 Mbps) Type-C port with support for four modes Full USBTMC (USB Test and Measurement Class) VXI-11 over USB-Ethernet (CDC NCM) linux-gpib native interface Prologix-compatible (++ commands) via CDC UART (virtual COM port) 10/100Mbps Ethernet RJ45 port [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/02/gpibee-usbgpib-v3-usb-to-gpib-adapter-gains-ethernet-poe-but-launches-as-closed-source-hardware/\">GPIBee (UsbGpib V3) USB-to-GPIB adapter gains Ethernet (PoE), but launches as closed-source hardware</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Circuit Valley CHC5 – A modular USB, HDMI, and Ethernet camera system (Crowdfunding)",
+    "source": "CNX Software",
+    "date": "2026-09-02",
+    "url": "https://www.cnx-software.com/2026/09/02/circuit-valley-chc5-a-modular-usb-hdmi-and-ethernet-camera-system/",
+    "summary": "<div><img alt=\"Circuit Valley CHC5 Open Camera\" class=\"attachment-medium size-medium wp-post-image\" height=\"425\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Circuit-Valley-CHC5-Open-Camera-720x425.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Circuit Valley&#8217;s CHC5 is a modular camera system based on a Core board powered by an AMD/Xilinx Zynq-7020 SoC FPGA, a range of interface boards with USB, HDMI, or Ethernet (PoE), various sensor boards, and a metal enclosure. The solution can be customized with different lens objectives and different sensors with MIPI D-PHY, LVDS, Sub-LVDS, Low Voltage LVDS, or SLVS interfaces. The Zynq-7020&#8217;s Cortex-A9 cores can handle complex tasks, while the FPGA fabric takes care of high-speed calculation and correction on the image, and can also be leveraged for  AI/machine-vision-specific algorithms or complex low-latency hardware acceleration. CHC5 specifications: Core board SoC &#8211; Xilinx AMD Zynq-7020 SoC FPGA CPU &#8211; Dual-core Arm Cortex-A9 processor FPGA &#8211; 85K logic cells, 4.9Mb Block RAM, 220 DSP slices System Memory &#8211; 1GB DDR3 Storage 1 Gbit flash memory MicroSD card slot ISP &#8211; Full-fledged ISP implemented on FPGA fabric Multiple interface boards with 10Gbps [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/02/circuit-valley-chc5-a-modular-usb-hdmi-and-ethernet-camera-system/\">Circuit Valley CHC5 &#8211; A modular USB, HDMI, and Ethernet camera system (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "EPC ePower Stage ICs target high-performance motor drives",
+    "source": "Electronics Weekly",
+    "date": "2026-09-02",
+    "url": "https://www.electronicsweekly.com/news/products/power-supplies/epc-epower-stage-ics-target-high-performance-motor-drives-2026-09/",
+    "summary": "<p>Efficient Power Conversion (EPC) is announcing mass production of its 100 V integrated GaN ePower Stage devices, for high-performance motor drives. The family comprises EPC23108, EPC23109, EPC23110 and EPC23111, and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/power-supplies/epc-epower-stage-ics-target-high-performance-motor-drives-2026-09/\">EPC ePower Stage ICs target high-performance motor drives</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "HyImpulse raises €50 million Series A Extension for rocket launch",
+    "source": "Electronics Weekly",
+    "date": "2026-09-02",
+    "url": "https://www.electronicsweekly.com/news/business/finance/hyimpulse-raises-e50-million-series-a-extension-for-rocket-launch-2026-09/",
+    "summary": "<p>The European space launch company HyImpulse has announced Series A Extension financing of €50 million for its hybrid propulsion rocket technology. With the maiden flight of its SR75 launch vehicle [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/hyimpulse-raises-e50-million-series-a-extension-for-rocket-launch-2026-09/\">HyImpulse raises €50 million Series A Extension for rocket launch</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
+    "source": "Electronics Weekly",
+    "date": "2026-09-02",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-09/",
+    "summary": "<p>Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-09/\">Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Arm shareholders to vote for CEO pay package next week",
     "source": "Electronics Weekly",
     "date": "2026-09-02",
     "url": "https://www.electronicsweekly.com/news/business/arm-shareholders-to-vote-for-ceo-pay-package-next-week-2026-09/",
-    "summary": "<p> Next week (on Sept 9) Arm shareholders will vote on the pay package of  CEO Rene Haas (pictured) which was announced last May. Although shareholder advisory groups are advising Arm [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/arm-shareholders-to-vote-for-ceo-pay-package-next-week-2026-09/\">Arm shareholders to vote for CEO pay package next week</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p> Next week (on Sept 9) Arm shareholders will vote on the pay package of CEO Rene Haas (pictured) which was announced last May. Although shareholder advisory groups are advising Arm [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/arm-shareholders-to-vote-for-ceo-pay-package-next-week-2026-09/\">Arm shareholders to vote for CEO pay package next week</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "The Designless Semiconductor Industry",
@@ -77,20 +133,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/Fallout-VR-Heat-and-Wind.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Want to feel the heat of nearby fire, explosions, or radiation? Or even just the gentle warmth and breeze of a sunny day in the wasteland? If you said yes, <a class=\"read-more\" href=\"https://hackaday.com/2026/09/01/reactive-heat-and-wind-come-to-vr-thanks-to-smart-plugs/\">&#8230;read more</a>"
   },
   {
-    "title": "Hackaday Europe 2026: Playstation 4 to Psychometer",
-    "source": "Hackaday",
-    "date": "2026-09-01",
-    "url": "https://hackaday.com/2026/09/01/hackaday-europe-2026-playstation-4-to-psychometer/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"480\" src=\"https://hackaday.com/wp-content/uploads/2026/09/DSCF6838_featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are many ways to detect stress in an individual. You can use self-reporting checklists, you could try and measure various vital signs like respiratory rate and pulse and infer <a class=\"read-more\" href=\"https://hackaday.com/2026/09/01/hackaday-europe-2026-playstation-4-to-psychometer/\">&#8230;read more</a>"
-  },
-  {
-    "title": "It’s Teletext, But On The Radio",
-    "source": "Hackaday",
-    "date": "2026-09-01",
-    "url": "https://hackaday.com/2026/09/01/its-teletext-but-on-the-radio/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/08/ceefax-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Old-school teletext with its pixelated text and block graphics may now be largely a thing of the past, but that doesn&#8217;t mean it&#8217;s without enthusiasts or there&#8217;s no more life <a class=\"read-more\" href=\"https://hackaday.com/2026/09/01/its-teletext-but-on-the-radio/\">&#8230;read more</a>"
-  },
-  {
     "title": "Qualcomm introduces Dragonwing Q-2390 and IQ-2390 for consumer and industrial AIoT applications",
     "source": "CNX Software",
     "date": "2026-09-01",
@@ -131,27 +173,6 @@
     "date": "2026-09-01",
     "url": "https://www.electronicsweekly.com/blogs/gadget-master/displayscreen/pixel-art-robot-offers-one-flipped-squisk-at-a-time-2026-09/",
     "summary": "<p>There's so much to learn. In my case, what exactly is a flip-squisk?! I learnt this one when reading about an Arduino-based flip-squisk display, to be precise.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/displayscreen/pixel-art-robot-offers-one-flipped-squisk-at-a-time-2026-09/\">Pixel Art Robot draws one flipped squisk at a time</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "SpaceWERX backs 11 companies for space innovation",
-    "source": "Electronics Weekly",
-    "date": "2026-09-01",
-    "url": "https://www.electronicsweekly.com/news/business/finance/spacewerx-backs-11-companies-for-space-innovation-2026-09/",
-    "summary": "<p>SpaceWERX, the U.S. Air Force space technology accelerator programme, will be investing in another 11 companies to develop innovative space technologies. Specifically, the funding will be via its Program Year [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/spacewerx-backs-11-companies-for-space-innovation-2026-09/\">SpaceWERX backs 11 companies for space innovation</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Tendeg showcases NewTen two-axis steerable reflector antenna",
-    "source": "Electronics Weekly",
-    "date": "2026-09-01",
-    "url": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/tendeg-showcases-newten-two-axis-steerable-reflector-antenna-2026-09/",
-    "summary": "<p>Tendeg, the antenna specialist, has released NewTEN, its two-axis steerable reflector antenna for small spacecraft. It was showcased at the 40th Annual Small Satellite Conference in Salt Lake City. Reflector [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/tendeg-showcases-newten-two-axis-steerable-reflector-antenna-2026-09/\">Tendeg showcases NewTen two-axis steerable reflector antenna</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "To Pay Or Not To Pay",
-    "source": "Electronics Weekly",
-    "date": "2026-09-01",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/to-pay-or-not-to-pay-2026-09/",
-    "summary": "<p>Much of the AI economy still looks suspiciously circular. Hyperscalers are  investing hundreds of billions of dollars to build AI data center using Nvidia’s chips. Nvidia partially invests its billions [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/markets/to-pay-or-not-to-pay-2026-09/\">To Pay Or Not To Pay</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Discover the Rare First Printed Don Quixote Illustrations",
@@ -329,20 +350,6 @@
     "summary": "<div><img alt=\"Fanless AMD Ryzen Embedded 8000 Edge AI computer\" class=\"attachment-medium size-medium wp-post-image\" height=\"433\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Fanless-AMD-Ryzen-Embedded-8000-Edge-AI-computer-720x433.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>IBASE AA400-N is an &#8220;ultra-compact&#8221; fanless edge AI computer powered by an AMD Ryzen Embedded 8840U/8640U processor with up to 8 cores, 16 threads, and a combined 39 TOPS of AI performance for machine and robotic vision, autonomous inspection, smart retail, industrial automation, and other data-intensive, space-constrained applications. The most intriguing part of the specs and announcement is the claim of up to 256GB DDR5 capacity through two SO-DIMM modules, implying availability of 128GB DDR5 SO-DIMM memory modules. The system also comes with a 256GB M.2 NVMe SSD, features 8K-capable HDMI and DisplayPort video interfaces, two 2.5GbE jacks, M.2 sockets for optional WiFi, Bluetooth and 4G/5G cellular connectivity, a few USB ports and a COM port. &#160; IBASE AA400-N specifications: AMD Ryzen Embedded 8000 Series processors AA400-NM  – AMD Ryzen Embedded 8840U CPU – 8-core/16-thread Zen4 &#8220;Hawk Point&#8221; processor up to 3.3 GHz / 5.1 GHz (Turbo) GPU – AMD [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/28/fanless-amd-ryzen-embedded-8840u-8640u-edge-ai-computer-supports-up-to-256gb-ddr5-so-dimm-memory/\">Fanless AMD Ryzen Embedded 8840U/8640U Edge AI Computer supports up to 256GB DDR5 SO-DIMM memory</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Spark Solder one-handed USB-C soldering iron supports TS100 tips, integrates solder feeder (Crowdfunding)",
-    "source": "CNX Software",
-    "date": "2026-08-28",
-    "url": "https://www.cnx-software.com/2026/08/28/spark-solder-one-handed-usb-c-soldering-iron-ts100-tips-automated-solder-feeder/",
-    "summary": "<div><img alt=\"Spark Solder one handed soldering iron\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Spark-Solder-one-handed-soldering-iron-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Spark Solder is a compact, USB-C-powered one-handed soldering iron with a built-in motorized solder feeder for convenient one-handed operation. It supports standard TS100 tips, delivers up to 45W of heating power, and features a 1-inch LCD for adjusting the temperature and solder feed speed. While smart, portable soldering irons are very common these days, using one can still be tricky when you have to handle the iron, solder wire, and components at the same time. Spark Solder solves this by adding a replaceable solder capsule and a two-axis motorized feeding system to the handle, leaving one hand free for easier assembly, prototyping, and repairs. Spark Solder specifications: Display – 1-inch TFT display for adjusting temperature, solder extrusion speed, and tip profiles Soldering Power output – Up to 45W Temperature Range – 200°C to 450°C Heat-Up Time – Reaches 300°C in 6 seconds Temperature Stability – ±2°C (via PID control) Tip [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/28/spark-solder-one-handed-usb-c-soldering-iron-ts100-tips-automated-solder-feeder/\">Spark Solder one-handed USB-C soldering iron supports TS100 tips, integrates solder feeder (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Microduck – A duck-like biped robot designed for physical AI experimentation and fun",
-    "source": "CNX Software",
-    "date": "2026-08-28",
-    "url": "https://www.cnx-software.com/2026/08/28/microduck-a-duck-like-biped-robot-designed-for-physical-ai-experimentation-and-fun/",
-    "summary": "<div><img alt=\"Microduck\" class=\"attachment-medium size-medium wp-post-image\" height=\"388\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Microduck-720x388.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Pollen Robotics and Hugging Face have unveiled the Microduck, a 25 cm tall biped robot with 15 motors, a camera, a depth sensor, two motion sensors, and an articulated beak that can pick up objects. This follows the launch of the Reachy Mini desktop robot earlier this year that featured a Raspberry Pi CM4 module or could interface to a computer instead. In some ways, we may think of the Microduck as a Reachy Mini with legs, but the company says both are different products. The Reachy Mini targets human-robot interaction, while the Microduck focuses on motion/action, although it also features a microphone and a speaker for audio interaction. Microduck specifications: SoC – Rockchip RK3566 CPU – Quad-core Cortex-A55 processor @ up to 1.8 GHz GPU – Arm Mali-G52 NPU – 0.8 TOPS AI accelerator VPU 4Kp60 H.265/H.264/VP9 video decoder 1080p60 H.264/H.265 video encoder System Memory – 1GB RAM Storage [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/28/microduck-a-duck-like-biped-robot-designed-for-physical-ai-experimentation-and-fun/\">Microduck &#8211; A duck-like biped robot designed for physical AI experimentation and fun</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
     "title": "Embedded Systems Runtime Observability, Sensor Fusion for Drones, Embedded Design for Mil/Aero: Embedded Week Insights",
     "source": "Embedded.com",
     "date": "2026-08-28",
@@ -383,13 +390,6 @@
     "date": "2026-08-28",
     "url": "https://www.eejournal.com/fish_fry/from-lab-to-battlefield-navigating-hardware-trls-and-the-edge-in-defense/",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/08/AD-082826-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />My podcast guest this week is David Jedynak, Vice President of Strategic Planning at Curtiss-Wright Defense Solutions. David and I chat about the complexities of &#8220;New Defense&#8221; innovation and what founders must understand about translating tech to the tactical environment. We also examine the similarities and differences between the defense sector and the tech industry &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/fish_fry/from-lab-to-battlefield-navigating-hardware-trls-and-the-edge-in-defense/\">Read More &#8594;<span class=\"screen-reader-text\"> \"From Lab to Battlefield: Navigating Hardware, TRLs, and the Edge in Defense\"</span></a>"
-  },
-  {
-    "title": "USB-C Deskradar – An ESP32-C3 ADS-B flight tracker with a 1.28-inch round display",
-    "source": "CNX Software",
-    "date": "2026-08-27",
-    "url": "https://www.cnx-software.com/2026/08/27/usb-c-deskradar-an-esp32-c3-ads-b-flight-tracker-with-a-1-28-inch-round-display/",
-    "summary": "<div><img alt=\"USB C Deskradar, Live ADS B Flight Tracker\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/USB-C-Deskradar-Live-ADS-B-Flight-Tracker-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The USB-C Deskradar is an ESP32-C3-based, aviation-themed ADS-B flight tracker that tracks and displays live aircraft positions around your location on a sonar-style circular grid. A 1.28-inch round display and a 3D-printed enclosure provide a real-time view of flights around a configured location. As we&#8217;ll see further below, it appears to be an open-source project that was picked up by Chinese vendors and started popping up on AliExpress as an inexpensive desk gadget. USB-C Deskradar specifications: Wireless module –16-pin ESP32-C3 Super Mini module SoC – Espressif Systems ESP32-C3FH4, single-core 32-bit RISC-V microcontroller @ up to 160 MHz; 400 KB SRAM; 4MB flash USB – USB Type-C port for programming Ceramic antenna Display – 1.28-inch round TFT color LCD with GC9A01 controller; 240×240 resolution; driven via SPI Misc Hardware button (connected to GPIO 9 / BOOT pin, active LOW) Short tap – Cycles radar range presets (e.g., 5, 10, 15, 25 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/27/usb-c-deskradar-an-esp32-c3-ads-b-flight-tracker-with-a-1-28-inch-round-display/\">USB-C Deskradar &#8211; An ESP32-C3 ADS-B flight tracker with a 1.28-inch round display</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Engineering Embedded Systems for Aerospace and Defense",
