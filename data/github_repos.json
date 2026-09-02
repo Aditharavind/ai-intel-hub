@@ -11,13 +11,13 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 3180,
+    "stars": 3181,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-09-02",
     "topic": "physical-ai",
-    "score": 1272.1
+    "score": 1272.5
   },
   {
     "repo": "copper-project/copper-rs",
@@ -71,13 +71,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63553,
+    "stars": 63554,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-09-02",
     "topic": "robotics",
-    "score": 25421.3
+    "score": 25421.7
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -101,43 +101,43 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15791,
+    "stars": 15792,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-09-02",
     "topic": "robotics",
-    "score": 6316.5
+    "score": 6316.9
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14882,
+    "stars": 14883,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-09-02",
     "topic": "robotics",
-    "score": 5952.9
+    "score": 5953.3
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 14154,
+    "stars": 14157,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-09-02",
     "topic": "robotics",
-    "score": 5661.7
+    "score": 5662.9
   },
   {
     "repo": "rerun-io/rerun",
-    "stars": 11386,
+    "stars": 11387,
     "language": "Rust",
     "description": "Visualize, query, and stream to train on multimodal robotics data.",
     "url": "https://github.com/rerun-io/rerun",
     "date": "2026-09-02",
     "topic": "robotics",
-    "score": 4554.5
+    "score": 4554.9
   },
   {
     "repo": "RLinf/RLinf",
@@ -231,23 +231,33 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6591,
+    "stars": 6593,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-09-02",
     "topic": "world-model",
-    "score": 2636.5
+    "score": 2637.3
   },
   {
     "repo": "deeplethe/utopia",
-    "stars": 2160,
+    "stars": 2247,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-09-02",
     "topic": "world-model",
-    "score": 864.1
+    "score": 898.9
+  },
+  {
+    "repo": "galilai-group/stable-worldmodel",
+    "stars": 2170,
+    "language": "Python",
+    "description": "A platform for reproducible world model research and evaluation",
+    "url": "https://github.com/galilai-group/stable-worldmodel",
+    "date": "2026-09-02",
+    "topic": "world-model",
+    "score": 868.1
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -258,6 +268,16 @@
     "date": "2026-09-02",
     "topic": "world-model",
     "score": 490.9
+  },
+  {
+    "repo": "simchowitzlabpublic/nano-world-model",
+    "stars": 723,
+    "language": "Python",
+    "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science.",
+    "url": "https://github.com/simchowitzlabpublic/nano-world-model",
+    "date": "2026-09-02",
+    "topic": "world-model",
+    "score": 289.3
   },
   {
     "repo": "softmata/horus",
@@ -361,33 +381,33 @@
   },
   {
     "repo": "rokbenko/quackd",
-    "stars": 120,
+    "stars": 121,
     "language": "Python",
     "description": "🦆🧠 Give your small robot a brain. Tell a Microduck, a Reachy Mini, a LeRobot arm or any ROS base what you want in plain language. An LLM (Claude, OpenAI, Gemini, Grok, or a local model via Ollama, vLLM or llama.cpp) uses the skills it already has. Simulator, .duck task files, MCP, and flocks where different robots cooperate. Apache 2.0.",
     "url": "https://github.com/rokbenko/quackd",
     "date": "2026-09-02",
     "topic": "lerobot",
-    "score": 48.1
+    "score": 48.5
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3378,
+    "stars": 3380,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-09-01",
     "topic": "embodied-ai",
-    "score": 1351.3
+    "score": 1352.1
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2412,
+    "stars": 2414,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-09-01",
     "topic": "robot-learning",
-    "score": 964.9
+    "score": 965.7
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
@@ -481,13 +501,13 @@
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
-    "stars": 3199,
+    "stars": 3200,
     "language": "HTML",
     "description": "BOM, STL files and instructions for PAROL6 3D printed robot arm",
     "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
     "date": "2026-08-31",
     "topic": "lerobot",
-    "score": 1279.7
+    "score": 1280.1
   },
   {
     "repo": "Developer-Y/cs-video-courses",
@@ -508,16 +528,6 @@
     "date": "2026-08-30",
     "topic": "world-model",
     "score": 891.3
-  },
-  {
-    "repo": "mll-lab-nu/VAGEN",
-    "stars": 494,
-    "language": "Python",
-    "description": "World model reinforcement learning for multi-turn VLM agents. RL for vision framework (NeurIPS 2025).",
-    "url": "https://github.com/mll-lab-nu/VAGEN",
-    "date": "2026-08-30",
-    "topic": "world-model",
-    "score": 197.7
   },
   {
     "repo": "NVlabs/alpamayo",
@@ -598,16 +608,6 @@
     "date": "2026-08-26",
     "topic": "embodied-ai",
     "score": 6298.9
-  },
-  {
-    "repo": "galilai-group/stable-worldmodel",
-    "stars": 2169,
-    "language": "Python",
-    "description": "A platform for reproducible world model research and evaluation",
-    "url": "https://github.com/galilai-group/stable-worldmodel",
-    "date": "2026-08-25",
-    "topic": "world-model",
-    "score": 867.7
   },
   {
     "repo": "Open-X-Humanoid/x-humanoid-training-toolchain",

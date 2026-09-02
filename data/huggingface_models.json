@@ -1,5 +1,14 @@
 [
   {
+    "model": "puppet-robotics/golf-model-2-8fps-30",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/golf-model-2-8fps-30",
+    "date": "2026-09-02",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "dreamdifferent/vam-cross-level5-panda-robotiq-widowx-texture-video-lora-iter400",
     "downloads": 0,
     "likes": 0,
@@ -65,11 +74,11 @@
   {
     "model": "pollen-robotics/microduck-policies",
     "downloads": 0,
-    "likes": 4,
+    "likes": 5,
     "url": "https://huggingface.co/pollen-robotics/microduck-policies",
     "date": "2026-09-02",
     "keyword": "robotics",
-    "score": 0.9
+    "score": 1.1
   },
   {
     "model": "mjuicem/tom24-postsim-robotwin",
@@ -94,15 +103,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/XiaohuaWang/robotwin-vjepa21-predictor",
-    "date": "2026-09-02",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Yhw1234/smolVLA_robotwin",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Yhw1234/smolVLA_robotwin",
     "date": "2026-09-02",
     "keyword": "robot",
     "score": 0.1
@@ -270,6 +270,15 @@
     "score": 0.1
   },
   {
+    "model": "Jycccc111/Go-Policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Jycccc111/Go-Policy",
+    "date": "2026-09-02",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "mkche9/sponge_policy",
     "downloads": 0,
     "likes": 0,
@@ -283,15 +292,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/jogarulfop/policy_2026-09-02_shake4it_bench_5sensors_v2_dragonfly_10kHz_nfft_512",
-    "date": "2026-09-02",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Jycccc111/Go-Policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Jycccc111/Go-Policy",
     "date": "2026-09-02",
     "keyword": "policy",
     "score": 0.1
@@ -655,15 +655,6 @@
     "date": "2026-08-28",
     "keyword": "robotics",
     "score": 4.0
-  },
-  {
-    "model": "Omeryg2464/work-robotics-vision-language",
-    "downloads": 11,
-    "likes": 0,
-    "url": "https://huggingface.co/Omeryg2464/work-robotics-vision-language",
-    "date": "2026-08-28",
-    "keyword": "robotics",
-    "score": 3.4
   },
   {
     "model": "hfunknown/qwen3-8b-navigation-lora-stateless",
