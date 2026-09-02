@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-02 01:31 UTC
+Generated: 2026-09-02 06:28 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-09-01 | DNC-IMM: Early Lane-Change Intention Recognition via Neural Calibration Based on Driving Context Information | [link](https://arxiv.org/pdf/2609.01120v1) |
-| 2026-09-01 | Modelpedia: A Catalog of Model Findings for the Meta-Science of AI | [link](https://arxiv.org/pdf/2609.01090v1) |
-| 2026-09-01 | Adaptive Depth-Map-Guided Bundle Adjustment for Correspondence-Free Multi-View Point Cloud Registration | [link](https://arxiv.org/pdf/2609.01089v1) |
-| 2026-09-01 | World Model-Guided Reinforcement Learning via Counterfactual User Engagement Simulation | [link](https://arxiv.org/pdf/2609.01067v1) |
-| 2026-09-01 | Accelerating Reinforcement Learning via MPC Solver-Gradient Guidance for Weights-varying MPC | [link](https://arxiv.org/pdf/2609.01061v1) |
+| 2026-09-01 | Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation | [link](https://arxiv.org/pdf/2609.01596v1) |
+| 2026-09-01 | SG-AMP: Scene-Graph-Guided Active Perception and Semantics-Aware Motion Planning for Pepper Plants | [link](https://arxiv.org/pdf/2609.01579v1) |
+| 2026-09-01 | H3-World: Turning Language Understanding into World Control | [link](https://arxiv.org/pdf/2609.01560v1) |
+| 2026-09-01 | What, Where, and How: Probing Spatiotemporal Representations in Video Foundation Models | [link](https://arxiv.org/pdf/2609.01551v1) |
+| 2026-09-01 | A System for Fast, Resilient, and Adaptable Loco-Manipulation Behaviors on Humanoid Robots | [link](https://arxiv.org/pdf/2609.01518v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83375 | 33350.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63549 | 25419.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44485 | 17794.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30430 | 12172.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| zauberzeug/nicegui | 16173 | 6469.3 | [link](https://github.com/zauberzeug/nicegui) |
+| Developer-Y/cs-video-courses | 83382 | 33352.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63551 | 25420.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44487 | 17794.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30431 | 12172.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| zauberzeug/nicegui | 16174 | 6469.7 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -42,7 +42,7 @@ Generated: 2026-09-02 01:31 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-09-01 | Busan accelerator deploys $1.7M into 19 deep tech startups, led by physical AI - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxOQTJPM1FfbWdnN2xtWF91cFU4ZTVfdDQ5dklXRDlGb0RfSXRrc2E3c0RMNUhQaVZlU1Q4ckR0eVNwSzNKaFJaSzd2dGpkOWppM1lwQlRrSjU2N1N2ejBib1lLbDR0U2pITF9yRDZGeGtOQ0tCUGdvSHh0SV9ZblVxVjNlR3cyT2ktTGFHNWlrQlVteWFEdTZLeG5LSGJLYkdfb1BlYWR1N21uOVhMYk44?oc=5) |
-| 2026-08-31 | Veeda AI Raises $90M Seed to Build "The Matrix" for Physical AI - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BTlVVcXo0aFNKck02Tjc1RWVGWXlJRnRrcVVmRHFtT09BLVppdHJUZ1NOZU40QUl6ZWxZdURYb19yNTBIdzNUNmRoZ0VkUTNJWTdJ?oc=5) |
+| 2026-09-01 | Physical Superintelligence Raises $58M Seed Round - Unite.AI | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE0xMlp2OTFMb1lVTDFCV1NrWmotWXVRQXc5VElNdVFEZmJ3ZnI5ZmZwZDJsa0ZmU040cXduQ2xaajNMUHYzdmZlOHk5ZVlKYlpVSmQwUEY3YWZsWlphMGFYNXBzdTA4NGR2XzdRYjBoNjFuTmhhOHEzdU1B?oc=5) |
 | 2026-08-30 | Tyler Raciti & Chet Ellis On Volumes, Their Startup Building Superintelligent Data for Physical AI - Medium | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLXhNSU90NEpuTzVOclhreGs3dEhnT0NVc2xNUlgxYTRGTERjUGI1UVp2RjJXSE9KdE1GcDhvR2l0X19paU5pU2lQTG9mRHhzcGFhTTBTUDFnUGc4c0htX3RuSGE4UndoOUtQdVpaMGZXQl8xVDVLVHhUM2JLNllSYXNYQllmcHp6ajFleUM0WlNhYmlScXI1Q0F3bGdEQ29kVklDUHpSVEpBNExFUG10QVpZV2g1SXVCSHhFQlduSlRMV3hBck55aWxyMm1rNldwR2IzTl8tblAtWHlQU1B3?oc=5) |
 | 2026-08-30 | humanoid robot walk on Mars before human at 50% - StartupHub.ai | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNlBnYVItOXhxd05xNk9hOFdLdlBNYWRxa2l6eDBsYlFYX3dYSGVSWjdGTDZMMVB4WWlBVkd5NWFqR3BpazgtRGEtN3FGQzZjNm1rUHRIT1JYUmZDckdqbFl6RzdBOENsbXptTVdxT29Ra3Jub2psSk1tbExvLWZ2Z1N3Z0R1eExoZnpuZXJueHpiczFZVlg4U3Z4ZThyT0pseUtiNmZORQ?oc=5) |
 | 2026-08-29 | A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEhEdUxOLWhXMjJQbGFrSk9aWi1mak9aWk1mV1JtcGEtVncwSV96ek1FRExUalJXNzBSakEtaU1QczhjWm1CcWJxY0pwS2NzQ2d5OElXeTR5cG5hdDFYWHQ3T2s4UnFFWUpITmFzWlNHTzNSeTlqSHdjdHN2eVNPa0pRclBzU09wQy16b0VxeUtsR29TamptdFdXbGEwZzFQ?oc=5) |
