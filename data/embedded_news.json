@@ -1,5 +1,12 @@
 [
   {
+    "title": "Harvesting Namib Desert Fog with High Voltage",
+    "source": "Hackaday",
+    "date": "2026-09-02",
+    "url": "https://hackaday.com/2026/09/02/harvesting-namib-desert-fog-with-high-voltage/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"470\" src=\"https://hackaday.com/wp-content/uploads/2026/09/field_testing_atmospheric_water_harvesting_plasma_channel_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As fun as mucking about with simulated environments in a laboratory is, at some point you have to do those field tests to demonstrate that your prototype actually works in <a class=\"read-more\" href=\"https://hackaday.com/2026/09/02/harvesting-namib-desert-fog-with-high-voltage/\">&#8230;read more</a>"
+  },
+  {
     "title": "FLOSS Weekly Episode 880: The Two Wolves",
     "source": "Hackaday",
     "date": "2026-09-02",
@@ -42,13 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/08/Screenshot-2026-08-30-222128-1-e1788092561337.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Disk Defragmenter was a wonderful utility that Microsoft included with Windows back in the day. Back then, you&#8217;d use it to theoretically speed up disk access. Today, you can run <a class=\"read-more\" href=\"https://hackaday.com/2026/09/01/a-defrag-simulator-in-your-browser/\">&#8230;read more</a>"
   },
   {
-    "title": "Haiku OS Releases Beta 6",
-    "source": "Hackaday",
-    "date": "2026-09-02",
-    "url": "https://hackaday.com/2026/09/01/haiku-os-releases-beta-6/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"507\" src=\"https://hackaday.com/wp-content/uploads/2026/09/firefox_on_haiku_r1_beta_6_action_retro_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>After just a little over 25 years of the Haiku project trying to keep the BeOS spirit alive, the team has now released Beta 6. The spicy details of what <a class=\"read-more\" href=\"https://hackaday.com/2026/09/01/haiku-os-releases-beta-6/\">&#8230;read more</a>"
-  },
-  {
     "title": "LightMake L4 3D printer features four independent heads for simultaneous or multi-color printing (Crowdfunding)",
     "source": "CNX Software",
     "date": "2026-09-02",
@@ -68,6 +68,13 @@
     "date": "2026-09-02",
     "url": "https://www.cnx-software.com/2026/09/02/circuit-valley-chc5-a-modular-usb-hdmi-and-ethernet-camera-system/",
     "summary": "<div><img alt=\"Circuit Valley CHC5 Open Camera\" class=\"attachment-medium size-medium wp-post-image\" height=\"425\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Circuit-Valley-CHC5-Open-Camera-720x425.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Circuit Valley&#8217;s CHC5 is a modular camera system based on a Core board powered by an AMD/Xilinx Zynq-7020 SoC FPGA, a range of interface boards with USB, HDMI, or Ethernet (PoE), various sensor boards, and a metal enclosure. The solution can be customized with different lens objectives and different sensors with MIPI D-PHY, LVDS, Sub-LVDS, Low Voltage LVDS, or SLVS interfaces. The Zynq-7020&#8217;s Cortex-A9 cores can handle complex tasks, while the FPGA fabric takes care of high-speed calculation and correction on the image, and can also be leveraged for  AI/machine-vision-specific algorithms or complex low-latency hardware acceleration. CHC5 specifications: Core board SoC &#8211; Xilinx AMD Zynq-7020 SoC FPGA CPU &#8211; Dual-core Arm Cortex-A9 processor FPGA &#8211; 85K logic cells, 4.9Mb Block RAM, 220 DSP slices System Memory &#8211; 1GB DDR3 Storage 1 Gbit flash memory MicroSD card slot ISP &#8211; Full-fledged ISP implemented on FPGA fabric Multiple interface boards with 10Gbps [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/02/circuit-valley-chc5-a-modular-usb-hdmi-and-ethernet-camera-system/\">Circuit Valley CHC5 &#8211; A modular USB, HDMI, and Ethernet camera system (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "NXP MCX A5 MCUs Bring 10BASE-T1S Ethernet to Industrial Edge Nodes",
+    "source": "Embedded.com",
+    "date": "2026-09-02",
+    "url": "https://www.embedded.com/nxp-mcx-a5-mcus-bring-10base-t1s-ethernet-to-industrial-edge-nodes/",
+    "summary": "<p>The MCX A5 MCUs combine 10BASE-T1S Ethernet, topology discovery, and post-quantum security to extend Ethernet deeper into industrial networks.</p>\n<p>The post <a href=\"https://www.embedded.com/nxp-mcx-a5-mcus-bring-10base-t1s-ethernet-to-industrial-edge-nodes/\">NXP MCX A5 MCUs Bring 10BASE-T1S Ethernet to Industrial Edge Nodes</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "Unlocking Autonomy in Military Drones Goes Beyond SWaP-C",
@@ -147,6 +154,48 @@
     "summary": "<p>Melexis is sampling a low-power 3D magnetometer for cost-sensitive, high-volume applications. Delivering on-the-fly flexibility and wide selectable ranges, the MLX90391 provides smart utility meters with robust tampering protection up to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/melexis-sampling-low-power-cost-sensitive-3d-magnetometer-2026-09/\">Melexis sampling low-power, cost-sensitive 3D magnetometer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Fine, I’ll build my own text editor",
+    "source": "Adafruit",
+    "date": "2026-09-02",
+    "url": "https://blog.adafruit.com/2026/09/02/fine-ill-build-my-own-text-editor/",
+    "summary": "David Bushell set out to build his own browser based text editor. His first attempt drew everything to a &#60;canvas&#62; element at 60 to 120 frames per second. It worked, but canvas gives nothing for free: no text selection, no scrollbars, and no accessibility. He faked scrolling with a hidden overflow &#60;div&#62; sized to match the text, then [&#8230;]"
+  },
+  {
+    "title": "The WT | Wearable Tech Conference is Happening this Month",
+    "source": "Adafruit",
+    "date": "2026-09-02",
+    "url": "https://blog.adafruit.com/2026/09/02/the-wt-wearable-tech-conference-is-happening-this-month/",
+    "summary": "The WT &#124; Wearable Technologies Conference is happening this month on the 15the and 16th. Interested to see what&#8217;s to come in the wearable world. The WT &#124; Wearable Technologies Conference is the world&#8217;s leading event for anyone building the future of wearable tech. Since 2006, we&#8217;ve brought together top industry leaders, innovators, and researchers [&#8230;]"
+  },
+  {
+    "title": "3D PCB previews are a delight",
+    "source": "Adafruit",
+    "date": "2026-09-02",
+    "url": "https://blog.adafruit.com/2026/09/02/3d-pcb-previews-are-a-delight/",
+    "summary": "James Bowman has added 3D board previews to cuflow, his Python-based PCB design tool, and wrote about it on the Excamera Labs Substack. When he designed the TermDriver hardware, parts showed up only as silkscreen outlines, so picturing the finished board was guesswork. The new previews render in a web page using three.js, with a [&#8230;]"
+  },
+  {
+    "title": "A GeoJSON map viewer",
+    "source": "Adafruit",
+    "date": "2026-09-02",
+    "url": "https://blog.adafruit.com/2026/09/02/a-geojson-map-viewer/",
+    "summary": "Simon Willison built a GeoJSON map viewer. He needed it while helping gather maps of local political boundaries for the Granada Community Services District and the Midcoast Community Council. The requirement was simple: display GeoJSON files on a map and export the result as a PNG. He asked GPT-5.6-Sol for tool suggestions and it built [&#8230;]"
+  },
+  {
+    "title": "Sounds of the 1980s: NES",
+    "source": "Adafruit",
+    "date": "2026-09-02",
+    "url": "https://blog.adafruit.com/2026/09/02/sounds-of-the-1980s-nes/",
+    "summary": "The Computer History Museum posted a 15 second short on YouTube featuring the sounds of Nintendo&#8217;s first home gaming console. Not game sounds but sounds as one uses the machine. The console started out in Japan as the Famicom in 1983. It arrived in the United States as the Nintendo Entertainment System in 1985. See [&#8230;]"
+  },
+  {
+    "title": "How Gold Plastic Syndrome is killing toys and game consoles",
+    "source": "Adafruit",
+    "date": "2026-09-02",
+    "url": "https://blog.adafruit.com/2026/09/02/how-gold-plastic-syndrome-is-killing-toys-and-game-consoles/",
+    "summary": "The Transformers Wiki keeps a detailed entry on Gold Plastic Syndrome (GPS), a fan term for plastic that decomposes and then crumbles to bits under almost no force. It differs from ordinary stress fracturing. Normal breaks show stress marks first, and the broken piece still bends. A part with GPS keeps cracking apart like a [&#8230;]"
+  },
+  {
     "title": "A Safari extension that hides YouTube AI-labeled videos",
     "source": "Adafruit",
     "date": "2026-09-02",
@@ -187,48 +236,6 @@
     "date": "2026-09-02",
     "url": "https://blog.adafruit.com/2026/09/02/time-trailblazers-designing-and-making-the-future/",
     "summary": "Alex Honnold is one of the TIME Trailblazers, image via Wikipedia Commons: Alex Honnold in 2023 in Antarctica by Christopher Michel &#160; TIME Magazine has released a list of their TIME Trailblazers: Designing and Making the Future recognizing leaders who are building towards the future through engineering, design and more.  The list appears to be [&#8230;]"
-  },
-  {
-    "title": "How to change Raspberry Pi WiFi details from the SD card",
-    "source": "Adafruit",
-    "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/how-to-change-raspberry-pi-wifi-details-from-the-sd-card/",
-    "summary": "Abhishek Prakash at It&#8217;s FOSS wrote up a way to fix a Raspberry Pi that can no longer reach your network: edit the WiFi settings straight from the microSD card. This is handy when the router changed, the SSID and password are new, and hooking the Pi up to a monitor and keyboard is more [&#8230;]"
-  },
-  {
-    "title": "I vibecoded Morrowind, Duke Nukem, and Serious Sam onto an iPhone",
-    "source": "Adafruit",
-    "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/664081/",
-    "summary": "Arjun Krishna Lal, writing at TechSpot, describes how he got Morrowind, Duke Nukem 3D, and Serious Sam: The First Encounter running natively on an iPhone without knowing how to code. He used AI coding agents and a $100 ChatGPT Pro account. He also had no Mac, so the builds were compiled on a GitHub macOS [&#8230;]"
-  },
-  {
-    "title": "Smart Phone Mittens #AdafruitLearnSystem",
-    "source": "Adafruit",
-    "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/smart-phone-mittens-adafruitlearnsystem/",
-    "summary": "Believe it or not its that time of year and sweater weather is just around the corner. Its never too early to start knitting up a pair of conductive mittens for when the seasons change. Have you missed a call because you couldn&#8217;t get your gloves off fast enough? Maybe you&#8217;ve tried a pair of [&#8230;]"
-  },
-  {
-    "title": "GPIBee (UsbGpib V3) USB-to-GPIB adapter gains PoE Ethernet",
-    "source": "Adafruit",
-    "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/gpibee-usbgpib-v3-usb-to-gpib-adapter-gains-poe-ethernet/",
-    "summary": "Jean-Luc Aufranc writes at CNX Software that XyphroLabs has released the third revision of its UsbGpib adapter, now called GPIBee. The adapter connects legacy GPIB/IEEE-488 test instruments to modern computers. V3 adds an Ethernet RJ45 port with PoE, an aluminum enclosure, and USB 2.0 at 480 Mbps. That speed supports the VXI-11 protocol over a [&#8230;]"
-  },
-  {
-    "title": "Where will RISC-V be in 20 Years? Poll results",
-    "source": "Adafruit",
-    "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/where-will-risc-v-be-in-20-years-poll-results/",
-    "summary": "Babbage, writing at The Chip Letter, re-ran a reader poll asking where RISC-V will be in 20 years. The first poll ran in August 2023, during a series of posts on the architecture. It was framed around a line from Krste Asanović and David Patterson: that RISC-V could become &#8220;the standard ISA for all computing [&#8230;]"
-  },
-  {
-    "title": "Atari Lynx: the first color handheld game console",
-    "source": "Adafruit",
-    "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/atari-lynx-the-first-color-handheld-game-console/",
-    "summary": "Dave Farquhar has written a history of the Atari Lynx, which just turned 37 years old, at The Silicon Underground. It was the first handheld game console with a color screen. It reached the market on September 1, 1989, about two months after the Nintendo Game Boy. The design came from three Amiga veterans: Dave [&#8230;]"
   },
   {
     "title": "Qualcomm introduces Dragonwing Q-2390 and IQ-2390 for consumer and industrial AIoT applications",
@@ -418,12 +425,5 @@
     "date": "2026-08-27",
     "url": "https://www.eejournal.com/industry_news/infineon-supplies-silicon-carbide-technology-to-fox-ess-enhancing-efficiency-of-residential-energy-storage-systems/",
     "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) supplies silicon carbide (SiC) power semiconductors to Fox ESS, a leading provider of renewable energy solutions, to enhance the efficiency of its residential energy storage systems (ESS). Leveraging Infineon&#8217;s CoolSiC™ MOSFETs 1200 V G2 in the Q-DPAK package, Fox ESS has reduced switching losses by 70 percent. &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/infineon-supplies-silicon-carbide-technology-to-fox-ess-enhancing-efficiency-of-residential-energy-storage-systems/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Infineon supplies silicon carbide technology to Fox ESS, enhancing efficiency of residential energy storage systems\"</span></a>"
-  },
-  {
-    "title": "Altera Expands Agilex 9 Direct RF FPGA Ecosystem for Defense",
-    "source": "Embedded.com",
-    "date": "2026-08-26",
-    "url": "https://www.embedded.com/altera-expands-agilex-9-direct-rf-fpga-ecosystem-for-defense/",
-    "summary": "<p>Altera Corp. has recently expanded its Agilex 9 Direct RF FPGA ecosystem through collaborations with Mercury Systems and VadaTech, introducing commercial off-the-shelf (COTS) solutions for next-generation defense platforms. The partnerships combine Agilex 9 medium-band Direct RF FPGAs with open-architecture hardware to help defense system developers reduce size, weight, power, and cost; shorten development cycles; and deploy more [...]</p>\n<p>The post <a href=\"https://www.embedded.com/altera-expands-agilex-9-direct-rf-fpga-ecosystem-for-defense/\">Altera Expands Agilex 9 Direct RF FPGA Ecosystem for Defense</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
