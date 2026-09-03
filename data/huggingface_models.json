@@ -1,5 +1,68 @@
 [
   {
+    "model": "Rice-RobotPI-Lab/robotok-public",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Rice-RobotPI-Lab/robotok-public",
+    "date": "2026-09-03",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotsMali/bam-vits-pseudo-ipa-train",
+    "downloads": 9,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotsMali/bam-vits-pseudo-ipa-train",
+    "date": "2026-09-03",
+    "keyword": "robot",
+    "score": 2.8
+  },
+  {
+    "model": "RobotsMali/bam-vits-pseudo-ipa",
+    "downloads": 27,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotsMali/bam-vits-pseudo-ipa",
+    "date": "2026-09-03",
+    "keyword": "robot",
+    "score": 8.2
+  },
+  {
+    "model": "RobotsMali/bam-vits-pseudo-ipa-fintech",
+    "downloads": 26,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotsMali/bam-vits-pseudo-ipa-fintech",
+    "date": "2026-09-03",
+    "keyword": "robot",
+    "score": 7.9
+  },
+  {
+    "model": "RobotsMali/bam-vits-fintech",
+    "downloads": 28,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotsMali/bam-vits-fintech",
+    "date": "2026-09-03",
+    "keyword": "robot",
+    "score": 8.5
+  },
+  {
+    "model": "RobotsMali/bam-vits-train",
+    "downloads": 7,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotsMali/bam-vits-train",
+    "date": "2026-09-03",
+    "keyword": "robot",
+    "score": 2.2
+  },
+  {
+    "model": "RobotsMali/bam-vits",
+    "downloads": 41,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotsMali/bam-vits",
+    "date": "2026-09-03",
+    "keyword": "robot",
+    "score": 12.4
+  },
+  {
     "model": "puppet-robotics/golf-model-2-8fps-30",
     "downloads": 0,
     "likes": 0,
@@ -45,67 +108,49 @@
     "score": 3.1
   },
   {
-    "model": "RobotsMali/soloni-114m-tdt-ctc-v3",
-    "downloads": 69,
+    "model": "sam-guided-vlas/train_1_2_hard_items__no_mask__pi05__seed_0__steps_45k",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RobotsMali/soloni-114m-tdt-ctc-v3",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__no_mask__pi05__seed_0__steps_45k",
     "date": "2026-09-03",
-    "keyword": "robot",
-    "score": 20.8
+    "keyword": "vla",
+    "score": 0.1
   },
   {
-    "model": "RobotsMali/soloni-114m-tdt-ctc-v2",
-    "downloads": 19,
+    "model": "sam-guided-vlas/train_1_2_hard_items__no_mask__pi05__seed_0__steps_30k",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RobotsMali/soloni-114m-tdt-ctc-v2",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__no_mask__pi05__seed_0__steps_30k",
     "date": "2026-09-03",
-    "keyword": "robot",
-    "score": 5.8
+    "keyword": "vla",
+    "score": 0.1
   },
   {
-    "model": "RobotsMali/soloni-114m-tdt-ctc-v1",
-    "downloads": 29,
+    "model": "sam-guided-vlas/train_1_2_hard_items__no_mask__pi05__seed_0__steps_15k",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RobotsMali/soloni-114m-tdt-ctc-v1",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__no_mask__pi05__seed_0__steps_15k",
     "date": "2026-09-03",
-    "keyword": "robot",
-    "score": 8.8
+    "keyword": "vla",
+    "score": 0.1
   },
   {
-    "model": "RobotsMali/soloni-114m-tdt-ctc-v0",
-    "downloads": 66,
-    "likes": 3,
-    "url": "https://huggingface.co/RobotsMali/soloni-114m-tdt-ctc-v0",
+    "model": "VladShash/checkpoint-8b-classic",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VladShash/checkpoint-8b-classic",
     "date": "2026-09-03",
-    "keyword": "robot",
-    "score": 20.5
+    "keyword": "vla",
+    "score": 0.1
   },
   {
-    "model": "RobotsMali/soloba-tdt-0.6b-v1.5",
-    "downloads": 13,
+    "model": "VladShash/checkpoint-4b-feedback",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RobotsMali/soloba-tdt-0.6b-v1.5",
+    "url": "https://huggingface.co/VladShash/checkpoint-4b-feedback",
     "date": "2026-09-03",
-    "keyword": "robot",
-    "score": 4.0
-  },
-  {
-    "model": "RobotsMali/soloba-tdt-0.6b-v0.5",
-    "downloads": 26,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotsMali/soloba-tdt-0.6b-v0.5",
-    "date": "2026-09-03",
-    "keyword": "robot",
-    "score": 7.9
-  },
-  {
-    "model": "RobotsMali/soloba-ctc-0.6b-v3",
-    "downloads": 10,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotsMali/soloba-ctc-0.6b-v3",
-    "date": "2026-09-03",
-    "keyword": "robot",
-    "score": 3.1
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "0xjaysmth/lingbot-vla-2.0-afBJhgBJD6KZ",
@@ -171,51 +216,6 @@
     "score": 27.4
   },
   {
-    "model": "vladlinv/ru-pii-ner-gliner2.5",
-    "downloads": 42,
-    "likes": 0,
-    "url": "https://huggingface.co/vladlinv/ru-pii-ner-gliner2.5",
-    "date": "2026-09-03",
-    "keyword": "vla",
-    "score": 12.7
-  },
-  {
-    "model": "VladShash/checkpoint-8b-classic",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/VladShash/checkpoint-8b-classic",
-    "date": "2026-09-03",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "VladShash/checkpoint-4b-feedback",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/VladShash/checkpoint-4b-feedback",
-    "date": "2026-09-03",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "MoAIBo/pick_place_depth_vel_vla_jepa_all_cameras",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/MoAIBo/pick_place_depth_vel_vla_jepa_all_cameras",
-    "date": "2026-09-03",
-    "keyword": "vla",
-    "score": 4.0
-  },
-  {
-    "model": "jungwook2358/actlat-vla",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jungwook2358/actlat-vla",
-    "date": "2026-09-03",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "austi-nlewi/embodied-ai-study32",
     "downloads": 0,
     "likes": 0,
@@ -243,10 +243,10 @@
     "score": 0.1
   },
   {
-    "model": "jogarulfop/policy_2026-09-02_shake4it_bench_5sensors_v3_dragonfly_10kHz_nfft_512",
+    "model": "geonmin-kim/Cosmos3-Edge-Policy-DROID-FastWAM-v3",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-09-02_shake4it_bench_5sensors_v3_dragonfly_10kHz_nfft_512",
+    "url": "https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-DROID-FastWAM-v3",
     "date": "2026-09-03",
     "keyword": "policy",
     "score": 0.1
@@ -261,10 +261,10 @@
     "score": 0.1
   },
   {
-    "model": "geonmin-kim/Cosmos3-Edge-Policy-DROID-FastWAM-v3",
+    "model": "jogarulfop/policy_2026-09-02_shake4it_bench_5sensors_v3_dragonfly_10kHz_nfft_512",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-DROID-FastWAM-v3",
+    "url": "https://huggingface.co/jogarulfop/policy_2026-09-02_shake4it_bench_5sensors_v3_dragonfly_10kHz_nfft_512",
     "date": "2026-09-03",
     "keyword": "policy",
     "score": 0.1
