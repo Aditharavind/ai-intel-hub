@@ -1,5 +1,12 @@
 [
   {
+    "title": "From a Ten-Line Script to a Real Utility with Codex",
+    "source": "Hackaday",
+    "date": "2026-09-03",
+    "url": "https://hackaday.com/2026/09/03/from-a-ten-line-script-to-a-real-utility-with-codex/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>I’m an experienced programmer, and I’ve worked in many different languages. Sometimes being a programmer is a two-edged sword. You want to accomplish something, and you can do it easily <a class=\"read-more\" href=\"https://hackaday.com/2026/09/03/from-a-ten-line-script-to-a-real-utility-with-codex/\">&#8230;read more</a>"
+  },
+  {
     "title": "Rescuing a Rescue Device With a DIY Battery Pack",
     "source": "Hackaday",
     "date": "2026-09-03",
@@ -24,8 +31,15 @@
     "title": "Has FDM 3D Printing Hit Its Peak?",
     "source": "Hackaday",
     "date": "2026-09-03",
-    "url": "https://hackaday.com/2026/09/02/__trashed-8/",
-    "summary": "<div><img alt=\"Art of 3D printer in the middle of printing a Hackaday Jolly Wrencher logo\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2020/02/3D-Printering-Header-New.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Over the time Hackaday has been in existence, the art of 3D printing has evolved from a relatively crude hit-and-miss affair to something approaching what we all imagined back then. <a class=\"read-more\" href=\"https://hackaday.com/2026/09/02/__trashed-8/\">&#8230;read more</a>"
+    "url": "https://hackaday.com/2026/09/02/has-fdm-3d-printing-hit-its-peak/",
+    "summary": "<div><img alt=\"Art of 3D printer in the middle of printing a Hackaday Jolly Wrencher logo\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2020/02/3D-Printering-Header-New.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Over the time Hackaday has been in existence, the art of 3D printing has evolved from a relatively crude hit-and-miss affair to something approaching what we all imagined back then. <a class=\"read-more\" href=\"https://hackaday.com/2026/09/02/has-fdm-3d-printing-hit-its-peak/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Amlogic A311Y3 Cortex-A78/A55 Edge AI system-on-module delivers up to 8 TOPS",
+    "source": "CNX Software",
+    "date": "2026-09-03",
+    "url": "https://www.cnx-software.com/2026/09/03/amlogic-a311y3-cortex-a78-a55-edge-ai-system-on-module-delivers-up-to-8-tops/",
+    "summary": "<div><img alt=\"Amlogic A311Y3 SoM\" class=\"attachment-medium size-medium wp-post-image\" height=\"360\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Amlogic-A311Y3-SoM-720x360.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Boardcon CM311Y3 system-on-module (SoM) is powered by an Amlogic A311Y3 octa-core Cortex-A78/A55 SoC with an 8 TOPS NPU and targets 4K video surveillance systems, AI edge computing devices, interactive terminals, enterprise thin clients, and autonomous robots. The module comes with up to 16GB LPDDR5 and up to 256 GB eMMC flash, exposes 210 pins through castellated edges, and a development board is also provided for evaluation and early software development. We don&#8217;t often see new SoMs or SBCs based on Amlogic SoCs these days, so let&#8217;s have a closer look. Boardcon CM311Y3 System-on-Module CM311Y3 specifications: SoC &#8211; Amlogic A311Y3 CPU 2x ARM Cortex-A78 cores @ 2.4GHx 6x ARM Cortex-A55 cores @ 2.0GHz RISC-V core for system control processing RISC-V core for Always-on power management and Sensor Hub GPU &#8211; Arm Mali-G625 MC1 with support for OpenGL ES 3.2, Vulkan 1.4, and OpenCL 3.0 VPU Video Decoder &#8211; H.264 up to [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/03/amlogic-a311y3-cortex-a78-a55-edge-ai-system-on-module-delivers-up-to-8-tops/\">Amlogic A311Y3 Cortex-A78/A55 Edge AI system-on-module delivers up to 8 TOPS</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Artery AT32F406 and AT32F408 Cortex-M4F MCUs feature optional high-speed USB OTG PHY",
@@ -49,60 +63,67 @@
     "summary": "<div><img alt=\"DIY ESP32-P4 Weather Station Air and Quality Monitor\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/DIY-ESP32-P4-Weather-Station-Air-Quality-Monitor-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Harald Kreuzer has built an ESP32-P4 weather station and air quality monitor that features a 10.1-inch dashboard display and a built-in Sensirion SEN66 sensor for particulate matter, CO2, VOC, and NOX, and connects to wireless LoRa and ESP-NOW sensors. The project is entirely made of off-the-shelf boards, so no custom hardware is used, and it should be relatively easy to reproduce. It doesn&#8217;t require any cloud or user account, although it can connect to a choice of weather APIs (Open-Meteo, OpenWeatherMap or Visual Crossing) to display weather forecasts. The build is fully documented in a long blog post, so we&#8217;ll highlight the key features of the project in this article. Hardware specifications for the main unit: Based on ESP32-P4-Module-DEV-KIT-C Credit card-sized ESP32-P4-Module-DEV-KIT SBC based on an ESP32-P4NRW32 module with ESP32-P4 with 32MB PSRAM and ESP32-C6 for WiFi and BLE 10.1-inch IPS panel with 1280 x 800 resolution, 800:1 contrast ratio, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/03/diy-esp32-p4-weather-station-air-quality-monitor-connects-to-lora-and-esp-now-sensors-various-weather-apis/\">DIY ESP32-P4 weather station &#038; air quality monitor connects to LoRa and ESP-NOW sensors, various weather APIs</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Edinburgh’s pureLiFi enters administration",
-    "source": "Electronics Weekly",
+    "title": "SomDevices, Celus Bring μSMARC Modules to Design Platform",
+    "source": "Embedded.com",
     "date": "2026-09-03",
-    "url": "https://www.electronicsweekly.com/news/business/finance/edinburghs-purelifi-enters-administration-2026-09/",
-    "summary": "<p>The 14-year-old Scottish telecoms firm pureLiFi is entering administration, with 42 jobs affected. The company &#8211; established by Professor Harald Haas who remained a director of the business &#8211; was [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/edinburghs-purelifi-enters-administration-2026-09/\">Edinburgh&#8217;s pureLiFi enters administration</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.embedded.com/somdevices-celus-bring-%ce%bcsmarc-modules-to-design-platform/",
+    "summary": "<p>Seven NXP i.MX-based modules will become reusable CUBOs, helping engineers evaluate interfaces and implementation requirements earlier.</p>\n<p>The post <a href=\"https://www.embedded.com/somdevices-celus-bring-%ce%bcsmarc-modules-to-design-platform/\">SomDevices, Celus Bring μSMARC Modules to Design Platform</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Today Wayve starts robotaxi service in London",
-    "source": "Electronics Weekly",
+    "title": "3D Hangouts – Candy Dispenser and Eyes with Co-Host Liz",
+    "source": "Adafruit",
     "date": "2026-09-03",
-    "url": "https://www.electronicsweekly.com/news/business/today-wayve-starts-robotaxi-service-in-london-2026-09/",
-    "summary": "<p>Today Wayve, the UK self-driving car developer, starts offering robotaxi rides in London. Uber users will be offered the option of a Wayve ride at the same price as a [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/today-wayve-starts-robotaxi-service-in-london-2026-09/\">Today Wayve starts robotaxi service in London</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/03/3d-hangouts-candy-dispenser-and-eyes-with-co-host-liz/",
+    "summary": "3D Hangouts – Candy Dispenser and Eyes with Co-Host Liz https://www.youtube.com/watch?v=zDCbYEXGvAU This week @adafruit special co-host Liz Clark will be joining Noe to discuss their latest collaboration, Franky Candy Dispenser. Chatting about work-in-progress projects, community makes and more. Feather RP2040 PropMaker: https://www.adafruit.com/product/5768 LED Glasses Starter Kit https://www.adafruit.com/product/5255 Timelapse Tuesday: Halloween Davy Jones Tentacles Mask By [&#8230;]"
   },
   {
-    "title": "Google increases TPU roll-out cadence by  4x",
-    "source": "Electronics Weekly",
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
     "date": "2026-09-03",
-    "url": "https://www.electronicsweekly.com/news/business/google-increases-tpu-roll-out-cadence-by-4x-2026-09/",
-    "summary": "<p>Google has accelerated its cadence for TPU roll-outs from one every two years to two a year. &#8220;We at Google went from releasing a TPU every two years or so [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/google-increases-tpu-roll-out-cadence-by-4x-2026-09/\">Google increases TPU roll-out cadence by  4x</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/03/the-python-on-microcontrollers-newsletter-subscribe-for-free-9-3/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
-    "title": "Opportunities, capabilities and effects of emerging technologies by Elon Musk",
-    "source": "Electronics Weekly",
+    "title": "This tiny space mission wants to reach Alpha Centauri, in about 80,000 years",
+    "source": "Adafruit",
     "date": "2026-09-03",
-    "url": "https://www.electronicsweekly.com/news/business/opportunities-benefits-and-2026-09/",
-    "summary": "<p>At the G20 Innovation Ministerial  meeting in Chapel Hill, North Carolina on Tuesday, Elon Musk gave an upbeat view on how today’s emerging technologies will change the world. “I think [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/opportunities-benefits-and-2026-09/\">Opportunities, capabilities and effects of emerging technologies by Elon Musk</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/03/this-tiny-space-mission-wants-to-reach-alpha-centauri-in-about-80000-years/",
+    "summary": "Shawn Knight, writing for TechSpot, reports on a small non-profit that says it will launch humanity&#8217;s first mission to another star. The Fermi Explorer Mission aims to launch in three years and reach Alpha Centauri in roughly 80,000 years, for less than $15 million. It was co-founded by Philip Johnston, Ezra Feilden and Adi Oltean, [&#8230;]"
   },
   {
-    "title": "Skeleton and Infineon hook up on SSTs",
-    "source": "Electronics Weekly",
+    "title": "NEW PRODUCT – Adafruit TMF8806 Time of Flight Distance Sensor – 10mm to 5m",
+    "source": "Adafruit",
     "date": "2026-09-03",
-    "url": "https://www.electronicsweekly.com/news/business/skeleton-and-infineon-hook-up-on-ssts-2026-09/",
-    "summary": "<p>Infineon and supercapacitor specialist Skeleton Technologies have signed an MoU to collaborate on high-efficiency, resilient power solutions for modern datacentres. The rapid growth of AI, increasing power demand and the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/skeleton-and-infineon-hook-up-on-ssts-2026-09/\">Skeleton and Infineon hook up on SSTs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/03/new-product-adafruit-tmf8806-time-of-flight-distance-sensor-10mm-to-5m/",
+    "summary": "NEW PRODUCT &#8211; Adafruit TMF8806 Time of Flight Distance Sensor &#8211; 10mm to 5m __________________________________________________________________________________________________ The Adafruit TMF8806 Time of Flight Sensor is a great Time of Flight distance sensor from ams Osram in the TMF series of chips. The TMF8806 in particular can do 20mm to 5 meters at up to 30 Hz update rate, and a dedicated low-power 200mm mode. It [&#8230;]"
   },
   {
-    "title": "Vector Photonics to promote PCSELs in datacentres",
-    "source": "Electronics Weekly",
+    "title": "NEW PRODUCT – Adafruit TMF8801 Time of Flight Distance Sensor – 20mm to 2.5m",
+    "source": "Adafruit",
     "date": "2026-09-03",
-    "url": "https://www.electronicsweekly.com/news/business/vector-photonics-to-promote-pcsels-in-datacentres-2026-09/",
-    "summary": "<p>Vector Photonics, the Glasgow PCSEL pioneer will show, at ECOC 2026, the European Conference on Optical Communication, how its PCSEL laser technology can eliminate communications bottlenecks in AI datacentres. “Optical [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/vector-photonics-to-promote-pcsels-in-datacentres-2026-09/\">Vector Photonics to promote PCSELs in datacentres</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/03/new-product-adafruit-tmf8801-time-of-flight-distance-sensor-20mm-to-2-5m/",
+    "summary": "NEW PRODUCT &#8211; Adafruit TMF8801 Time of Flight Distance Sensor &#8211; 20mm to 2.5m __________________________________________________________________________________________________ The Adafruit TMF8801 Time of Flight Sensor is a great Time of Flight distance sensor from ams Osram in the TMF series of chips. The TMF8801 in particular can do 20mm to 2.5 meters at 33 Hz update rate. The sensor contains a very tiny invisible [&#8230;]"
   },
   {
-    "title": "Secondary protection IC for 2 to 4 lithium cells connected in series",
-    "source": "Electronics Weekly",
+    "title": "Tentacles Mask #3DThursday #3DPrinting",
+    "source": "Adafruit",
     "date": "2026-09-03",
-    "url": "https://www.electronicsweekly.com/news/business/secondary-protection-ic-for-2-to-4-lithium-cells-connected-in-series-2026-09/",
-    "summary": "<p>Nisshinbo Micro Devices has launched secondary protection IC designed for 2 to 4 lithium-ion or lithium-polymer battery cells connected in series. Engineered with a high-voltage tolerant process and precise voltage [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/secondary-protection-ic-for-2-to-4-lithium-cells-connected-in-series-2026-09/\">Secondary protection IC for 2 to 4 lithium cells connected in series</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/03/tentacles-mask-3dthursday-3dprinting/",
+    "summary": "Every week we&#8217;ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Halloween Davy Jones Tentacles Mask By RALAR3D makerworld.com/en/models/1883397-halloween-davy-jones-tentacles-mask-flexi Bambu X1C PolyMaker PLA 6hr 28mins X:152 Y:171 Z:92mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 150g 230mm/s Every Thursday [&#8230;]"
   },
   {
-    "title": "AI’s Effect On Consumer Electronics  Prices",
-    "source": "Electronics Weekly",
+    "title": "Flipper One features dual Gigabit Ethernet and WiFi 6E",
+    "source": "Adafruit",
     "date": "2026-09-03",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/ais-effect-on-consumer-electronics-prices-2026-09/",
-    "summary": "<p>The massive investments in AI infrastructure have spillover effects on other markets. One of these markets is consumer electronics. As component costs rise, major manufacturers have increased U.S. list prices [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/markets/ais-effect-on-consumer-electronics-prices-2026-09/\">AI’s Effect On Consumer Electronics  Prices</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/03/flipper-one-features-dual-gigabit-ethernet-and-wifi-6e/",
+    "summary": "Julian Horsey at Geeky Gadgets writes about the Flipper One, a Linux based portable device aimed at network engineers and penetration testers. Where the Flipper Zero worked with offline access control protocols, the Flipper One targets IP connected environments. The hardware includes dual gigabit Ethernet ports, WiFi 6E and an M.2 slot for expansion cards [&#8230;]"
+  },
+  {
+    "title": "Cube Connector Brackets for 2020 Extrusions #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-09-03",
+    "url": "https://blog.adafruit.com/2026/09/03/cube-connector-brackets-for-2020-extrusions-3dthursday-3dprinting/",
+    "summary": "BasementLAB shares: 2020 3Ways Connector CUBE Corner Bracket download the files on: https://www.printables.com/model/1801679-2020-3ways-connector-cube-corner-bracket-for-item Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making solid objects from digital models. Recently, we have noticed electronics projects integrated with 3D printed enclosures, brackets, and sculptures, so each Thursday we celebrate [&#8230;]"
   },
   {
     "title": "USB Cable Organizer #3DThursday #3DPrinting",
@@ -133,34 +154,6 @@
     "summary": "fifindr shares: Miniature school locker with three storage compartments, assembled using a simple filament hinge for the door download the files on: https://www.printables.com/model/1795296-mini-school-locker Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making solid objects from digital models. Recently, we have noticed electronics projects integrated with 3D [&#8230;]"
   },
   {
-    "title": "Black Hole Lamp #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-09-03",
-    "url": "https://blog.adafruit.com/2026/09/03/black-hole-lamp-3dthursday-3dprinting/",
-    "summary": "NAM3Designs shares: This is a light up display lamp that looks like a black hole. It requires an LED Lamp Kit 001 download the files on: https://www.printables.com/model/1817533-black-hole-lamp Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making solid objects from digital models. Recently, we have noticed electronics [&#8230;]"
-  },
-  {
-    "title": "Moire Disc Illusion #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-09-03",
-    "url": "https://blog.adafruit.com/2026/09/03/moire-disc-illusion-3dthursday-3dprinting/",
-    "summary": "KineticPrint_3231843 shares: Stepper motor take on the classic Moire disc illusion. Quiet microstepping drivers on a custom PCB. Fully printed discs. download the files on: https://www.printables.com/model/1817999-moire-disc-illusion Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making solid objects from digital models. Recently, we have noticed electronics projects [&#8230;]"
-  },
-  {
-    "title": "From the mail bag…",
-    "source": "Adafruit",
-    "date": "2026-09-03",
-    "url": "https://blog.adafruit.com/2026/09/03/from-the-mail-bag-803/",
-    "summary": "From the mail bag! I want to say I really appreciate this excellent customer support. I like buying from Adafruit because you guys put interesting tutorials up. Just this weekend my 4 year old and I made an iron man arc reactor from one of your tutorials. He loves it. &#8230;. I like the maker [&#8230;]"
-  },
-  {
-    "title": "Manly Third Hand – Oversized Helping-Hand for Serious Work #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-09-03",
-    "url": "https://blog.adafruit.com/2026/09/03/manly-third-hand-oversized-helping-hand-for-serious-work-3dthursday-3dprinting/",
-    "summary": "hypnoziil shares: Helping hand. Simply needed a tool and all others were wimpy and did not scale up well &#8211; so made my own, can be mounted with M6 bolt or screw. download the files on: https://makerworld.com/en/models/377279 Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making [&#8230;]"
-  },
-  {
     "title": "Doubling Thermal Printer Resolution by Wiggling",
     "source": "Hackaday",
     "date": "2026-09-02",
@@ -175,13 +168,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"470\" src=\"https://hackaday.com/wp-content/uploads/2026/09/field_testing_atmospheric_water_harvesting_plasma_channel_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As fun as mucking about with simulated environments in a laboratory is, at some point you have to do those field tests to demonstrate that your prototype actually works in <a class=\"read-more\" href=\"https://hackaday.com/2026/09/02/harvesting-namib-desert-fog-with-high-voltage/\">&#8230;read more</a>"
   },
   {
-    "title": "FLOSS Weekly Episode 880: The Two Wolves",
-    "source": "Hackaday",
-    "date": "2026-09-02",
-    "url": "https://hackaday.com/2026/09/02/floss-weekly-episode-880-the-two-wolves/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>This week Jonathan chats with Benjamin Samuels of Trail of Bits! The conversation focuses on Patch the Planet, a new initiative to help Open Source projects deal with the fallout <a class=\"read-more\" href=\"https://hackaday.com/2026/09/02/floss-weekly-episode-880-the-two-wolves/\">&#8230;read more</a>"
-  },
-  {
     "title": "LightMake L4 3D printer features four independent heads for simultaneous or multi-color printing (Crowdfunding)",
     "source": "CNX Software",
     "date": "2026-09-02",
@@ -193,7 +179,7 @@
     "source": "CNX Software",
     "date": "2026-09-02",
     "url": "https://www.cnx-software.com/2026/09/02/gpibee-usbgpib-v3-usb-to-gpib-adapter-gains-ethernet-poe-but-launches-as-closed-source-hardware/",
-    "summary": "<div><img alt=\"GPIBee PoE to GPIB adapter\" class=\"attachment-medium size-medium wp-post-image\" height=\"370\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/GPIBee-PoE-to-GPIB-adapter-720x370.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Last December, we wrote about XyphroLabs’s UsbGpib open-source hardware, affordable, and portable USB-to-GPIB adapter designed for legacy GPIB/IEEE-488 instruments and offering modern hardware and software. At the time, the UsbGpib V3 was also in the works with Ethernet (PoE) support, and the good news is that it&#8217;s now available, renamed as GPIBee. The less good news is that while V1 and V2 were both open-source hardware products (and still are), the GPIBee has been released as closed-source hardware for reasons we&#8217;ll explain below. GPIBee specifications: Microcontroller – Not disclosed. But not the Microchip ATMega32U4 8-bit AVR MCU found in V2 since its USB interface is limited to 12 Mbps Host interfaces USB 2.0 (480 Mbps) Type-C port with support for four modes Full USBTMC (USB Test and Measurement Class) VXI-11 over USB-Ethernet (CDC NCM) linux-gpib native interface Prologix-compatible (++ commands) via CDC UART (virtual COM port) 10/100Mbps Ethernet RJ45 port [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/02/gpibee-usbgpib-v3-usb-to-gpib-adapter-gains-ethernet-poe-but-launches-as-closed-source-hardware/\">GPIBee (UsbGpib V3) USB-to-GPIB adapter gains Ethernet (PoE), but launches as closed-source hardware</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"GPIBee PoE to GPIB adapter\" class=\"attachment-medium size-medium wp-post-image\" height=\"370\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/GPIBee-PoE-to-GPIB-adapter-720x370.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Last December, we wrote about XyphroLabs’s UsbGpib open-source hardware, affordable, and portable USB-to-GPIB adapter designed for legacy GPIB/IEEE-488 instruments and offering modern hardware and software. At the time, the UsbGpib V3 was also in the works with Ethernet (PoE) support, and the good news is that it&#8217;s now available, but named GPIBee. The less good news is that while V1 and V2 were both open-source hardware products (and still are), the GPIBee has been released as closed-source hardware for reasons we&#8217;ll explain below. GPIBee specifications: Microcontroller – Not disclosed. But not the Microchip ATMega32U4 8-bit AVR MCU found in V2 since its USB interface is limited to 12 Mbps Host interfaces USB 2.0 (480 Mbps) Type-C port with support for four modes Full USBTMC (USB Test and Measurement Class) VXI-11 over USB-Ethernet (CDC NCM) linux-gpib native interface Prologix-compatible (++ commands) via CDC UART (virtual COM port) 10/100Mbps Ethernet RJ45 port [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/02/gpibee-usbgpib-v3-usb-to-gpib-adapter-gains-ethernet-poe-but-launches-as-closed-source-hardware/\">GPIBee (UsbGpib V3) USB-to-GPIB adapter gains Ethernet (PoE), but launches as closed-source hardware</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Circuit Valley CHC5 – A modular USB, HDMI, and Ethernet camera system (Crowdfunding)",
@@ -215,48 +201,6 @@
     "date": "2026-09-02",
     "url": "https://www.embedded.com/unlocking-autonomy-in-military-drones-goes-beyond-swap-c/",
     "summary": "<p>Global defense spending has increased amidst rising geopolitical tensions and de-globalization to strengthen national security. The Trump administration's hefty defense budget request this June allocates $2.4 billion just to drones. Resulting from this paradigm shift in warfare, global spending also follows this trend. Further fueled by technological advances, it has converged into a boon for [...]</p>\n<p>The post <a href=\"https://www.embedded.com/unlocking-autonomy-in-military-drones-goes-beyond-swap-c/\">Unlocking Autonomy in Military Drones Goes Beyond SWaP-C</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Picture of the Day: MAGPIE signs up to be ESA’s first lunar rover",
-    "source": "Electronics Weekly",
-    "date": "2026-09-02",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-magpie-signs-up-to-be-esas-first-lunar-rover-2026-09/",
-    "summary": "<p>This is what a MAGPIE will look like. At least an artist's impression. Of ESA’s first lunar rover, that is. The European Space Agency (ESA) and ispace-Europe officially sign an agreement for MAGPIE to be the first European rover on the Moon...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-magpie-signs-up-to-be-esas-first-lunar-rover-2026-09/\">Picture of the Day: MAGPIE signs up to be ESA&#8217;s first lunar rover</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Anritsu AH15203A wideband linear amplifier for optical comms",
-    "source": "Electronics Weekly",
-    "date": "2026-09-02",
-    "url": "https://www.electronicsweekly.com/news/products/anritsu-ah15203a-wideband-linear-amplifier-for-optical-comms-2026-09/",
-    "summary": "<p>Anritsu is launching a 140 Gbaud wideband linear amplifier with integrated bias tee, the AH15203A/B, for optical communications. Aimed at developers of optical transmission devices, the company says the new [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/anritsu-ah15203a-wideband-linear-amplifier-for-optical-comms-2026-09/\">Anritsu AH15203A wideband linear amplifier for optical comms</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Fine, I’ll build my own text editor",
-    "source": "Adafruit",
-    "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/fine-ill-build-my-own-text-editor/",
-    "summary": "David Bushell set out to build his own browser based text editor. His first attempt drew everything to a &#60;canvas&#62; element at 60 to 120 frames per second. It worked, but canvas gives nothing for free: no text selection, no scrollbars, and no accessibility. He faked scrolling with a hidden overflow &#60;div&#62; sized to match the text, then [&#8230;]"
-  },
-  {
-    "title": "The WT | Wearable Tech Conference is Happening this Month",
-    "source": "Adafruit",
-    "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/the-wt-wearable-tech-conference-is-happening-this-month/",
-    "summary": "The WT &#124; Wearable Technologies Conference is happening this month on the 15the and 16th. Interested to see what&#8217;s to come in the wearable world. The WT &#124; Wearable Technologies Conference is the world&#8217;s leading event for anyone building the future of wearable tech. Since 2006, we&#8217;ve brought together top industry leaders, innovators, and researchers [&#8230;]"
-  },
-  {
-    "title": "3D PCB previews are a delight",
-    "source": "Adafruit",
-    "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/3d-pcb-previews-are-a-delight/",
-    "summary": "James Bowman has added 3D board previews to cuflow, his Python-based PCB design tool, and wrote about it on the Excamera Labs Substack. When he designed the TermDriver hardware, parts showed up only as silkscreen outlines, so picturing the finished board was guesswork. The new previews render in a web page using three.js, with a [&#8230;]"
-  },
-  {
-    "title": "A GeoJSON map viewer",
-    "source": "Adafruit",
-    "date": "2026-09-02",
-    "url": "https://blog.adafruit.com/2026/09/02/a-geojson-map-viewer/",
-    "summary": "Simon Willison built a GeoJSON map viewer. He needed it while helping gather maps of local political boundaries for the Granada Community Services District and the Midcoast Community Council. The requirement was simple: display GeoJSON files on a map and export the result as a PNG. He asked GPT-5.6-Sol for tool suggestions and it built [&#8230;]"
   },
   {
     "title": "Qualcomm introduces Dragonwing Q-2390 and IQ-2390 for consumer and industrial AIoT applications",
@@ -306,13 +250,6 @@
     "date": "2026-08-31",
     "url": "https://www.cnx-software.com/2026/08/31/d-robotics-rdk-s100p-a-128-tops-alternative-to-nvidia-jetson-orin-nx-16gb-with-cortex-a78ae-r52-cores/",
     "summary": "<div><img alt=\"RDK S100P Development Kit\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/RDK-S100P-Development-Kit-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>D-Robotics RDK S100P development kit is a robotics SBC built around an S100P-based module providing an alternative to NVIDIA Jetson Orin NX 16GB with a 6-core Cortex-A78AE application cluster, a 4-core Cortex-R52+ MCU domain, a Nash BPU rated at 128 TOPS INT8, a Mali-G78AE GPU, and 24 GB of LPDDR5. The four R52+ cores can be configured for reliable real-time control: two cores run in lockstep for safety, and the other two support split-lock operation. In practice, the A78AE CPU and BPU can handle Linux and vision processing, while the MCU handles time-critical tasks such as motor and sensor I/O. This can reduce the need for a separate real-time controller, although whether it eliminates one depends on the robot and its requirements. RDK S100P specifications: SoC – D-Robotics S100P CPU – 6x Arm Cortex-A78AE @ 2.0 GHz (safety-capable AE cores) MCU – 4x Arm Cortex-R52+ @ 1.2 GHz (1x DCLS [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/31/d-robotics-rdk-s100p-a-128-tops-alternative-to-nvidia-jetson-orin-nx-16gb-with-cortex-a78ae-r52-cores/\">D-Robotics RDK S100P &#8211; A 128 TOPS alternative to NVIDIA Jetson Orin NX 16GB with Cortex-A78AE/R52+ cores</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Orange Pi Zero 4 – Compact Allwinner A733 SBC offers HDMI, USB-C DP, GbE, WiFI 6, PCIe FFC connector for $26.5 and up",
-    "source": "CNX Software",
-    "date": "2026-08-31",
-    "url": "https://www.cnx-software.com/2026/08/31/orange-pi-zero-4-allwinner-a733-sbc-offers-hdmi-usb-c-dp-gbe-wifi-6-pcie-ffc-connector/",
-    "summary": "<div><img alt=\"Orange Pi Zero 4\" class=\"attachment-medium size-medium wp-post-image\" height=\"498\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/Orange-Pi-Zero-4-720x498.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Orange Pi Zero 4 is an affordable yet feature-rich Allwinner A733 single board computer (SBC) with up to 8GB RAM, eMMC/UFS storage footprint, a microSD card slot, and plenty of I/Os. The board packs mini HDMI and USB-C DisplayPort, Gigabit Ethernet, WiFi 6 and Bluetooth 5.4, two MIPI CSI camera connectors, a Raspberry Pi-style PCIe FFC connector, and two GPIO headers into a compact 55x50mm form factor. Orange Pi Zero 4 specifications: SoC – Allwinner A733 CPU Dual-core Arm Cortex-A76 @ up to 2.00 GHz Hexa-core Arm Cortex-A55 @ up to 1.79 GHz Single-core RISC-V E902 real-time core up to 200 MHz GPU – Imagination Technologies BXM-4-64 MC1 GPU with support for OpenGL ES 3.2, Vulkan 1.3, OpenCL 3.0 VPU 8Kp24 H.265/VP9/AVS2 decoding 4Kp30 H.265/H.264 encoding AI accelerator – 3 TOPS NPU System Memory – 1GB, 2GB, 4GB, 6GB, or 8GB LPDDR5/LPDDR4/LPDDR4x; note: 16GB is also listed in the specs, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/08/31/orange-pi-zero-4-allwinner-a733-sbc-offers-hdmi-usb-c-dp-gbe-wifi-6-pcie-ffc-connector/\">Orange Pi Zero 4 &#8211; Compact Allwinner A733 SBC offers HDMI, USB-C DP, GbE, WiFI 6, PCIe FFC connector for $26.5 and up</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "SensiBel Launches 84-dBA SNR Optical MEMS Microphone",
@@ -411,13 +348,6 @@
     "date": "2026-08-27",
     "url": "https://www.embedded.com/engineering-embedded-systems-for-aerospace-and-defense/",
     "summary": "<p>For years, electronics for military and aerospace applications have been built around hardware that could tolerate harsh environments far beyond those encountered by commercial and industrial machinery. Such systems include satellites, planetary rovers, combat vehicles, naval platforms, avionics, and electronic warfare equipment. Ruggedized packaging, military-grade components, and rigorous qualification testing ensured that systems remained operational [...]</p>\n<p>The post <a href=\"https://www.embedded.com/engineering-embedded-systems-for-aerospace-and-defense/\">Engineering Embedded Systems for Aerospace and Defense</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "RAIN Alliance Launches RFID Sensor Working Group",
-    "source": "Embedded.com",
-    "date": "2026-08-27",
-    "url": "https://www.embedded.com/rain-alliance-launches-rfid-sensor-working-group/",
-    "summary": "<p>The RAIN Alliance has established a new RFID Sensor Working Group to support the development and adoption of sensor-enabled RAIN RFID technologies. The group will bring together technology providers, end users, and industry stakeholders to address emerging applications, deployment challenges, and standards requirements across industrial IoT, asset management, and digital product passport (DPP) use cases. [...]</p>\n<p>The post <a href=\"https://www.embedded.com/rain-alliance-launches-rfid-sensor-working-group/\">RAIN Alliance Launches RFID Sensor Working Group</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "Infineon supplies silicon carbide technology to Fox ESS, enhancing efficiency of residential energy storage systems",

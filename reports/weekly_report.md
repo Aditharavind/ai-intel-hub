@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-03 11:46 UTC
+Generated: 2026-09-03 15:16 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,9 +14,9 @@ Generated: 2026-09-03 11:46 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83386 | 33354.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63560 | 25424.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44498 | 17799.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| Developer-Y/cs-video-courses | 83390 | 33356.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63559 | 25423.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44500 | 17800.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30435 | 12174.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | questdb/questdb | 17296 | 6918.5 | [link](https://github.com/questdb/questdb) |
 
@@ -27,22 +27,22 @@ Generated: 2026-09-03 11:46 UTC
 | Ricardo-H/BehR-WorldModel-Webshop-Llama3.1-8B | 312 | 93.9 | [link](https://huggingface.co/Ricardo-H/BehR-WorldModel-Webshop-Llama3.1-8B) |
 | Ricardo-H/BehR-WorldModel-Textworld-Qwen2.5-7B | 308 | 92.7 | [link](https://huggingface.co/Ricardo-H/BehR-WorldModel-Textworld-Qwen2.5-7B) |
 | physicalairi/so101_1200ep_smolvla | 117 | 35.2 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
-| jagwang/mungkeul-physical-ai | 86 | 25.9 | [link](https://huggingface.co/jagwang/mungkeul-physical-ai) |
+| vladlinv/ru-pii-ner | 91 | 27.4 | [link](https://huggingface.co/vladlinv/ru-pii-ner) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
-| 2026-08-29 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUE5uUjBJdWtWanlWTy1VRW1xV3NKNmdlVmZ3QUI2alRESUYtdWhSQmZGX3dneTNPTWtNSkdUbGNzRW5kLWM5WjBxYmJ6am9lbjJtMGhPUFdsWFprOU9LZ3R2MElNaUs2ZHNWdGk0YTVTWFdnUHVxSlo3TnVQSUkxVWN0c3VueHNiNklv0gGQAUFVX3lxTE1iQUdNX0QzVTNWek92YWg2dzloNl95MUlnaE9YS3czWExUNWF2c0dtQ2tiMzNsM2s5ZU5PdkFMZHpMMWUzMlZnWHVpZXBEU0N6S2xHMC1QQl9QNmt3MlMxUGJDRjJmT2xrU3NGbzQ3cHdIRndib282Wmc0SjFMdTVpak13VndmcWtSeU1hR1dBcQ?oc=5) |
 | 2026-08-28 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQODBSdjZncWQzc1ExX1lxZzJMbHEyT0ZyMEJmclBnbmlUeGRkRlFoUWRSZC1jRHdIM0x0dUw5TlZhSnlWaHNpME9QTzFrOW02SzZxbWlWbkk5bzRnTFdDMElBR1c4X1N1TFBSVlZkQXBRS2tDNHlMVG9FekhrNHNWaUVFNTVrYTNfaERIajRBNGI4OEUtTm0zR285LXFRSE02V1RndUgwVWswUdIBrwFBVV95cUxQVTF0WU5jVTdJOTREUy13UmJsekZ4RDljNUtMRGtLNVdXdXgxWkhGTmZ2WlV2aEFURWE3MXQ1R2toc3FLRjd3WWVVbHp2azJzdHdhUmFPUmtMY2RKbUxlZUp0OGtkQ0VDazBLXzJmS0lEazAtbUZXVjViYjIzRENKZ296ZG1ZMlViT2tuck80ajFNaXBjNmRrTzZYSzZzY3pvclVwWVVtTDFBcXB5NjJ3?oc=5) |
-| 2026-08-27 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVG1Md29BVnl6V2JmMURqeUJHR2FSV0puVWg4VlVBbEdZc1g2bVc4cUY1UW5rNnJiN3poaFNQN1FxNFZfUE55NDhaQzhIMndzQ20zYUlRQi1QT0J2RmlBRDB1OS1OYWEyZThzS2lzRXBfMjU1SmVkTmVCbnJNREtJdTdrSC14MzliYnRCamI1QW1qUGQtTHB4c3JFclZUSGRiMk9mcUx4UmRuTWRoQ1gyUS1JM2RNX1VrTzN0Mk9EaUZBZ9IBwgFBVV95cUxQc3ZndEVjSXZ1YnBRN1NkLWo2djFtTXFRZ2RiYW9TTmNRVDVlbWNvTXAzcldSX0hseDR0Z21BMFNOVmI4eGwtN3VqWTJzbFZaN1VoVHYtZTZPLXNwc0VSNC1yNmQ1bjVERzZ6dVVEMEtXZmJXcUZwSlAzRGZrZk5aZldUVjNqbkVidmIwZ1ItMkcyU01Ub180WHpnZHNCemNsS2poWFY2WWM4RHdqbTRkTWhvTGd0YmN0dkdXVURDNGR0dw?oc=5) |
 | 2026-08-25 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2Z0SE1HMGJxVVEtaFZtSnNoQnEyR3lzR1lGNmZVZjBlTzFHZi1IMEdVajFDVUJ0NjlGeW5JRVJiOGU1Z1Y4bVMzc3gtQXNNRWpPXzhmRFJwN1VNUnhUYjdKUEkxdnZicVlVWW5ESk5BLTEzNzhjUk1iTGpsWEU0N1J3U2xfYXVRY2JfYXNEMkszb0dndnNiekU2NE0xcXNJWTJDNXFrYTBrYThmeFE?oc=5) |
-| 2026-08-25 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxObXBJbUlia19faFRtRHd3UE5kUGlKRWdBUWRiSmlfTTYyTnRPVExndkE0ZXZ6YURodk5kSnpJTDJkc2doN01UZFk4VUI5RUFnbjd3TXJFVlo5YlJmWENIM0pra1E5bF9uT3NPOTFkaWwtNnFUd0p1WG93blBfZ241UnhabEJRbXprb0RvZjlYeDRsSlc4MkRKaTRSQ295RnVYX05mMThtRTRaR2pCM29sbWZvTThKVUtaWEE?oc=5) |
+| 2026-07-31 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZzdWcHBCZmdvN2J3RTlqVUdmLXB3WUNjSEpQMHA0REduNVcyckdoeHg3LTZkd1pwOTF6cldiUEJ5SXBET2RqbEhPUFhVZHotXzVqTnlXV0tCQTlrOUJ6ZnhZQ1ZxRmIwamJ4WXNnbGR2U01EOUZzeW1JdEFuMWV4Y2dPMTlxbklkMmxJVVJLaDdWTnpwTVJRYzJHQ3MyMDl0Tlh6V2d2N3FxbGt6ck5faXRiQlZudDhVWEhhUGk5OFUzZG1tZGdHYzlfS0plREZHVnc?oc=5) |
+| 2026-07-22 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXJrRlB4WUJFc2hEaV8tV1d1Zkx3SmlZUkMzT0d6YUdfQWtzbzZtbFgtcXJMQkV4UlpWenNMQTZhc1kycjRQaWQzNnNFZnJuMGE5eUpzb3pLa2NvRHNqbWUxSXozQzAtM1p6QThRdTBDR2NKZmtBSnYweGZneDhnNFY4aTY3dlljaWtSYmRQVFFKajhHN1NRdlhRa1Q5MFhsMWxyQklHeFNNX2tGMzJLaXltVHdHSldj?oc=5) |
+| 2026-07-21 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMizAFBVV95cUxPazNGXzVyYllBTTcxTEtONzU2anNoQTlCTDlHLVBGS2l0d3oxa0Ixdjk5N3pFVHBUNHhydlhVUzFqc2prU2gzVUFGdUxLbTd6cUpxaDZUTkxaQWVLaXNIRGhRbVJwd0dCMzJZYjZldi11SXZlN1dRbE9lOVlnRzhDYjF2UEZFeFBpSE9ZdjBJZk1YTkJORHhnUkJ3WncxdXFyclNGck9hdEZMRGdYM0I2Ni1MTFBpcW0yWGdKc1E2SXYwR2JyOGVzZ2lVZFQ?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-02 | German robot startup Agile expects humanoid robot market to overtake auto industry - Devdiscourse | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQU1aN29Kb3I5NGRaM2xmTlNsU3Z3TDdHaXFtRmE3T2owcHpBMmMxTFowdHhfc1lscWs3NUJKUC1pa3lFZjVKSEpiYUZGbkF1aUdfcWgyMG5vcThncDYwUDFOSFVTQTNsSkZJQThVa0ZjM1c0WDlac0t0Q2pvMm1ENml5MkRnWDhZb3BiM2IxVHlUQzZCYWotdkJCakQxUkQwbjN2UnBHazBRZGxQTWxWdzE1elZXcHJhS1FOWkZUTFRQYURYQWFfaVV6MEFoNHRSaWk3aks5dklEOG5tUmfSAd4BQVVfeXFMTUFNWjdvSm9yOTRkWjNsZk5TbFN2d0w3R2lxbUZhN09qMHB6QTJjMUxaMHR4X3NZbHFrNzVCSlAtaWt5RWY1SkhKYmFGRm5BdWlHX3FoMjBub3E4Z3A2MFAxTkhVU0EzbEpGSUE4VWtGYzNXNFg5WnNLdENqbzJtRDZpeTJEZ1g4WW9wYjNiMVR5VEM2QmFqLXZCQmpEMVJEMG4zdlJwR2swUWRsUE1sVncxNXpWV3ByYUtRTlpGVExUUGFEWEFhX2lVejBBaDR0UmlpN2pLOXZJRDhubVJn?oc=5) |
-| 2026-08-28 | Embodied-AI startup PsiBot raises over $100 million with industrial investors joining - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjVueXdiTUJKUVVBRXU5ckJIV2JKZkVpTVBOdzZXZUdoX0swMFdLb09rbXFJMlp1QWJlMS1VWk5CWlVWM3ZCTmIyVWt1WEVDT0JkZ0RMemZHcTBxZFF4a0hfcHJNVjM0NHB6TWFEY3NMcFdqejZnVUJZZEEtdmtHdjhQc2FRamhWeXNjQjc2QVh1NllYc0lzWVVCU1hLREc2VmFnb2NHOFUzLTdLcEVMUC1BWlJDVnBh?oc=5) |
-| 2026-08-27 | NEC Orchestrating Future Fund Invests in U.S.-based Dexmate, Provider of Humanoid Robot "VEGA" and Physical AI Platform - TradingView | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimwJBVV95cUxPVWpMOUhvdEJ2X2lZd2oxYnN5c203eHcza3Y0dldyaU4tb2ZOaU4zM1gyYWtJY1RzWWJCOERBYWpSTFNkc280T0dTR3g0VHpwSllXY0hxQWxSbThsUExybFlmT18wTWF3NG5qQ1RxcW5hMGlnd05fcVBEd0FzRUtWSTNyb0Y3RjdlN0tJQWJmNXJ1OTJsbXVwU0RzQUVOeGpGTG4tX2Vfa3g1Mms2U0Rjcng5QTBzWjVqaDJzeTQ2RlVJNUhibGo2MUQ2TUV5RmpTMVh1YTZmSTB0WExKUUNuMlExM2lQa1k1YktZYUdoVlEzM1NOTFBadlZwY05JNGZxUWpHTDVJTENINTd6OXhxbDQ3bDlpeUU3eDMw?oc=5) |
-| 2026-08-24 | Nio Reportedly to Invest in Embodied AI Startup Founded by Ren Shaoqing, Who Will Remain Smart-driving Chief - Moomoo | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYUVwUVNneVpkNlRrU04tUU9lY3ZjNjZIc1ZHRmlpZ2NScTJvZFZjeVJrQThlcXJGYXVSM3lFWW5zM3B6VUdRamYtSV90cWZ0NEo4SVZILTBhYmppMkxIUUhLczZIdm9SMjBQbmhVX0Y4WGo1eW8yNDY1TV9naVk1Vl8ya0o1WVpiYUNkMTNJQkhlLVNvY19IV1dGVHE2YzRGSWc?oc=5) |
-| 2026-08-21 | ACE Robotics chairman says robot brains will have ‘ChatGPT moment’ by end of 2027 - KELO-AM | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZkFENmRDcnU3UWpHbmY2aDlrTzhIWUo5S1lKbktJdlFJRnk5NGU4QmJiMFl0azVnUnk3LWxNMHR6cEhPaEV1MFdwaG1DMHhBTDZHX1lGNnV2Mjl3c05rTFdTNEh6UDRfS3Mzb1ZyRGdDcG1zWldnOWtBZXVYZEUwSkx3Qlg5SHR4Z0dKaW9SUnU0UXdyUDRMdWhSN0s5QVZLYjNMTDBB?oc=5) |
+| 2026-08-24 | General Intuition raises $6B for AI robotics foundation model - The Tech Buzz | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2VFampBSlJkTWFjZkhwRmRHSTl6dk9ZTFhkNThOQlFlNkpaYk5BeHhIOGlGZ0ZuZnlZOS1fbWFhSXJmNk05LVVDSndubUdpYmhqZzlvMkhHaDZic013QjdNUjgyRUNSZnZCdEEzV2M1Q1FTUlM2WmtSVGlYSUhQTG5sZEhEWkZFNEJCNUQxc3ZLeE82RDRzZw?oc=5) |
+| 2026-07-26 | Genesis AI is in talks to raise $500 million at a $3 billion valuation just a year after emerging from stealth - Startup Fortune | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOG81aXpQdEo0UnQ4SmtJenVVRjl4enZVeFNwd2pMQzBtdG55ZUthaGNtajA5N2M4RTlCTHhXNmhScjJ6U0txS0lpYUtNbmswU3BXUE5EMGI1ekp6ZjNLSzR1enJyRmxZQVBnWTZKT0pHWmJOcC1OV1FlQWdTbTM0TXhYQ29lMWg3UGQyVV95dE1aR2FlY1N0UEg3cEgzTkdlZFZuM3RJSDZSM2o3RzVXM0xwZGs5aHJ0NmItRUNidDVjaUNtSlpoTFBEaktXdVgteUE?oc=5) |
+| 2026-06-02 | RLWRLD Debuts Robotics Foundation Model ‘RLDX-1’ at NVIDIA GTC Taipei 2026 - AI Insider | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0d6RUp1dkdMampqR1hLclg5cmxLbmJFdWctd1ctYnN6YU9waVRtTTdPOUNTOGFXVGRuaXNQVHlVRl9CR1VoMFEzLXpVMWo5eGZSWjh1N2NqV3JsSTV1dmIwTlJPcVhCOVNlQVRCWFNBZG95UFppWkZHOTRVd0JuMmZXM3JzQ1NPaUV4VVcyQkNuaWR1UUU1R1h3RTRwVUxpUXBFQ1FzbXcyOVJVNDJn?oc=5) |
+| 2026-05-12 | Config Raises $27M Seed Round to Become the "TSMC of Robot Data" - Wowtale | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kSGM5N0V3MTNGX21kT3c4QnZRZUtBbUNpaGNBYUp2ZS1rR0syY1RVRXQzaDFGZkM2RW5xXzliVFNTMGZLZDZoTzZmRG5vLVk5ZzVj?oc=5) |
+| 2026-05-09 | Genesis AI unveils full-stack robotics platform with human-like manipulation - Manufacturing Today India | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdE5mbVcwdE5acnVzOG9ZU3JaNHc3b1RWUlhPU2R0TjhndmFUR0RoYk56aGFGSzNzYjdaMmYzYjJzOENUdFdsQlhqVkVneGpTblZyYWd3c3hvT2JQMUxaV2RHSEtlTWlyc1Y1REdtQ09Bem5BQnVBVEx2QmdUd0d6bUREeGdtT3kxMkh1X0NDTF8zNjZHZUVPWld5ZnZmQTRoTnBJS1QxVElKbEVGUGdkTFpONFJsT00?oc=5) |
