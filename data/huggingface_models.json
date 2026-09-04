@@ -99,6 +99,42 @@
     "score": 2.8
   },
   {
+    "model": "mattpidden/vla0-500eps-context-trace-epoch-28",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mattpidden/vla0-500eps-context-trace-epoch-28",
+    "date": "2026-09-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mattpidden/vla0-500eps-context-5frames-epoch-28",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mattpidden/vla0-500eps-context-5frames-epoch-28",
+    "date": "2026-09-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "dent1s2/lingbot-vla-2.0-GnpXYUCfFLVu",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dent1s2/lingbot-vla-2.0-GnpXYUCfFLVu",
+    "date": "2026-09-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile_random_pose__no_mask__pi05__seed_0__steps_60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__no_mask__pi05__seed_0__steps_60k",
+    "date": "2026-09-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "SeonghoonYu/RACE_gauss_vlabench",
     "downloads": 0,
     "likes": 0,
@@ -121,15 +157,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2_3_4_hard_items__no_mask__pi05__seed_0__steps_60k",
-    "date": "2026-09-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile_random_pose__no_mask__pi05__seed_0__steps_60k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__no_mask__pi05__seed_0__steps_60k",
     "date": "2026-09-04",
     "keyword": "vla",
     "score": 0.1
@@ -180,33 +207,6 @@
     "score": 0.1
   },
   {
-    "model": "VladShash/checkpoint-8b-classic",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/VladShash/checkpoint-8b-classic",
-    "date": "2026-09-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_3_4_hard_items__no_mask__pi05__seed_0__steps_45k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_3_4_hard_items__no_mask__pi05__seed_0__steps_45k",
-    "date": "2026-09-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile_random_pose__no_mask__pi05__seed_0__steps_45k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__no_mask__pi05__seed_0__steps_45k",
-    "date": "2026-09-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "JIANGJINGZHE/heat-treatment-world-model",
     "downloads": 0,
     "likes": 0,
@@ -243,10 +243,19 @@
     "score": 0.1
   },
   {
-    "model": "jogarulfop/policy_2026-08-31_shake4it_bench_5sensors_pastille_pzt_10kHz_nfft_512",
+    "model": "litert-community/LFM2.5-Encoder-350M-Policy-Linter",
+    "downloads": 223,
+    "likes": 0,
+    "url": "https://huggingface.co/litert-community/LFM2.5-Encoder-350M-Policy-Linter",
+    "date": "2026-09-04",
+    "keyword": "policy",
+    "score": 67.0
+  },
+  {
+    "model": "policyengine/policyengine-uk-data-private",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-08-31_shake4it_bench_5sensors_pastille_pzt_10kHz_nfft_512",
+    "url": "https://huggingface.co/policyengine/policyengine-uk-data-private",
     "date": "2026-09-04",
     "keyword": "policy",
     "score": 0.1
@@ -256,6 +265,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Jycccc111/Go-Policy",
+    "date": "2026-09-04",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-08-31_shake4it_bench_5sensors_pastille_pzt_10kHz_nfft_512",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-08-31_shake4it_bench_5sensors_pastille_pzt_10kHz_nfft_512",
     "date": "2026-09-04",
     "keyword": "policy",
     "score": 0.1
@@ -328,24 +346,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/127-0-0-1/s101_ACT_Policy_v3",
-    "date": "2026-09-04",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "cnbaluramesh/healthcare-policy-model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/cnbaluramesh/healthcare-policy-model",
-    "date": "2026-09-04",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "eh-cosmos-ai/policy_pick_and_place_black_v6",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/eh-cosmos-ai/policy_pick_and_place_black_v6",
     "date": "2026-09-04",
     "keyword": "policy",
     "score": 0.1
