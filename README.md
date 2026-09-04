@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-04 18:35 UTC
+Last Updated: 2026-09-04 21:05 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,8 +8,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-09-03 | Daybreak for Frontline Defenders: $1B to protect essential services | OpenAI | [link](https://openai.com/index/daybreak-for-frontline-defenders) |
-| 2026-09-03 | Legora reviewed 41 documents in minutes with GPT-6 Astra | OpenAI | [link](https://openai.com/index/legora-financial-statement-review-with-astra) |
 | 2026-09-03 | Playco cut manual fixes 50% prototyping games with GPT-6 Astra | OpenAI | [link](https://openai.com/index/playco-game-prototyping-with-astra) |
+| 2026-09-03 | Legora reviewed 41 documents in minutes with GPT-6 Astra | OpenAI | [link](https://openai.com/index/legora-financial-statement-review-with-astra) |
 | 2026-09-03 | Safety overview: GPT-6 Astra | OpenAI | [link](https://openai.com/index/safety-overview-gpt-6-astra) |
 | 2026-09-03 | NeoMME: an efficient Multimodal-native and Multilingual Encoder | Hugging Face | [link](https://huggingface.co/blog/Hcompany/neomme) |
 | 2026-09-03 | Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps | Hugging Face | [link](https://huggingface.co/blog/grpo-with-trl-ifstruct) |
@@ -37,7 +37,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-09-04 | Lyte raises $165M to help robots better sense their surroundings | Robotics Business Review | [link](https://www.therobotreport.com/lyte-raises-165m-help-robots-better-sense-their-surroundings/) |
 | 2026-09-04 | Robot.com partners with Sodexo to roll out more sidewalk delivery robots | Robotics Business Review | [link](https://www.therobotreport.com/robot-com-partners-sodexo-rolls-out-more-sidewalk-delivery-robots/) |
-| 2026-09-04 | How FPGAs become the gatekeepers of physical AI security | The Robot Report | [link](https://www.therobotreport.com/how-fpgas-become-the-gatekeepers-of-physical-ai-security/) |
+| 2026-09-04 | How FPGAs become the gatekeepers of physical AI security | Robotics Business Review | [link](https://www.therobotreport.com/how-fpgas-become-the-gatekeepers-of-physical-ai-security/) |
 | 2026-09-04 | Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar | Robotics Business Review | [link](https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/) |
 | 2026-09-03 | PlusAI to take autonomous trucking public via a SPAC deal | Robotics Business Review | [link](https://www.therobotreport.com/plusai-takes-autonomous-trucking-public-via-spac-deal/) |
 | 2026-09-03 | Protecting Dynamic Industrial Robot Cable Carriers | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/industrial-robot-cable-carrier-protection) |
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-04 | Making a Pole Balance Itself With Propellers | Hackaday | [link](https://hackaday.com/2026/09/04/making-a-pole-balance-itself-with-propellers/) |
 | 2026-09-04 | Repairing Traces on a Delidded Pentium III CPU Gone Wrong | Hackaday | [link](https://hackaday.com/2026/09/04/repairing-traces-on-a-delidded-pentium-iii-cpu-gone-wrong/) |
 | 2026-09-04 | Hackaday Podcast Ep 385: 3D Printers with Lasers, Wicked RAM Prices, and Reverse Polish Notation | Hackaday | [link](https://hackaday.com/2026/09/04/hackaday-podcast-ep-385-3d-printers-with-lasers-wicked-ram-prices-and-reverse-polish-notation/) |
 | 2026-09-04 | 3D Printed Cubes Provide Passive Cooling | Hackaday | [link](https://hackaday.com/2026/09/04/3d-printed-cubes-provide-passive-cooling/) |
 | 2026-09-04 | This Week in Security: Baked-in Malware, Freezers Not Freezing, Zoom Snoops Clipboards, and AI Makes Things Worse, Faster | Hackaday | [link](https://hackaday.com/2026/09/04/this-week-in-security-baked-in-malware-freezers-not-freezing-zoom-snoops-clipboards-and-ai-makes-things-worse-faster/) |
 | 2026-09-04 | Take Tool Photo, Generate Custom Gridfinity Bin | Hackaday | [link](https://hackaday.com/2026/09/04/take-tool-photo-generate-custom-gridfinity-bin/) |
 | 2026-09-04 | The Birds Outside, Drawn For You Automatically | Hackaday | [link](https://hackaday.com/2026/09/04/the-birds-outside-drawn-for-you-automatically/) |
-| 2026-09-04 | Tube Launch Boosts Rocket’s Performance | Hackaday | [link](https://hackaday.com/2026/09/03/tube-launch-boosts-rockets-performance/) |
 | 2026-09-04 | ArduinoCore-Zephyr 1.0.0 adds support for Arduino VENTUNO Q, updates to Zephyr 4.4.1, and more | CNX Software | [link](https://www.cnx-software.com/2026/09/04/arduinocore-zephyr-1-0-0-adds-support-for-arduino-ventuno-q-updates-to-zephyr-4-4-1-and-more/) |
 | 2026-09-04 | Petoi Quaddle – A mini robot dog for physical AI experimentation (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/09/04/petoi-quaddle-a-mini-robot-dog-for-physical-ai-experimentation/) |
 | 2026-09-04 | TinyGo 0.42 adds support for 87 Puya PY32 MCU variants and two EmbedFire boards | CNX Software | [link](https://www.cnx-software.com/2026/09/04/tinygo-0-42-adds-support-for-87-puya-py32-mcu-variants-and-two-embedfire-boards/) |
@@ -77,64 +77,65 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-09-04 | RobotsMali/bam-vits-pseudo-ipa-fintech | 34 | 0 | [link](https://huggingface.co/RobotsMali/bam-vits-pseudo-ipa-fintech) |
-| 2026-09-04 | RobotsMali/bam-vits-fintech | 38 | 0 | [link](https://huggingface.co/RobotsMali/bam-vits-fintech) |
-| 2026-09-04 | pavelmikhailov/hw2-robotics-vision-language | 0 | 0 | [link](https://huggingface.co/pavelmikhailov/hw2-robotics-vision-language) |
-| 2026-09-04 | locht131/gr00t_n17_mt5_aprime_robot_only_b32 | 0 | 0 | [link](https://huggingface.co/locht131/gr00t_n17_mt5_aprime_robot_only_b32) |
-| 2026-09-04 | StarVLA/Qwen3-VL-OFT-Robotwin2 | 111 | 0 | [link](https://huggingface.co/StarVLA/Qwen3-VL-OFT-Robotwin2) |
-| 2026-09-04 | StarVLA/Qwen3-VL-OFT-RoboTwin2-All | 128 | 2 | [link](https://huggingface.co/StarVLA/Qwen3-VL-OFT-RoboTwin2-All) |
-| 2026-09-04 | liuxuetao/MachEmbodied-Dex1.0-RoboTwin-Clean2Random-Leaderboard | 0 | 0 | [link](https://huggingface.co/liuxuetao/MachEmbodied-Dex1.0-RoboTwin-Clean2Random-Leaderboard) |
-| 2026-09-04 | Jason2Jason/lawam-actionvae-robotwin-teachers | 0 | 0 | [link](https://huggingface.co/Jason2Jason/lawam-actionvae-robotwin-teachers) |
-| 2026-09-04 | Rice-RobotPI-Lab/robotok-public | 0 | 0 | [link](https://huggingface.co/Rice-RobotPI-Lab/robotok-public) |
-| 2026-09-04 | kimtaey/cosmos3-robotwin-latent4-b256-16k | 1 | 0 | [link](https://huggingface.co/kimtaey/cosmos3-robotwin-latent4-b256-16k) |
+| 2026-09-04 | OpenWAM/robotwin_dual_system_joint_self_attention_isolated | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_isolated) |
+| 2026-09-04 | OpenWAM/robotwin_tri_system_joint_self_attention | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_tri_system_joint_self_attention) |
+| 2026-09-04 | OpenWAM/robotwin_single_system_vanilla | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_single_system_vanilla) |
+| 2026-09-04 | OpenWAM/robotwin_single_system_moe | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_single_system_moe) |
+| 2026-09-04 | OpenWAM/robotwin_dual_system_joint_self_attention | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention) |
+| 2026-09-04 | OpenWAM/robotwin_dual_system_joint_cross_attention_detach | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_dual_system_joint_cross_attention_detach) |
+| 2026-09-04 | OpenWAM/robotwin_dual_system_joint_cross_attention | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_dual_system_joint_cross_attention) |
+| 2026-09-04 | OpenWAM/robotwin_dual_system_idm | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_dual_system_idm) |
+| 2026-09-04 | OpenWAM/OpenWAM-Alpha-Sim-RoboTwin-Full | 0 | 0 | [link](https://huggingface.co/OpenWAM/OpenWAM-Alpha-Sim-RoboTwin-Full) |
+| 2026-09-04 | OpenWAM/OpenWAM-Alpha-Sim-RoboTwin-Clean2Random | 0 | 0 | [link](https://huggingface.co/OpenWAM/OpenWAM-Alpha-Sim-RoboTwin-Clean2Random) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3201 | Python | 1280.5 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3203 | Python | 1281.3 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1479 | Rust | 591.7 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 1006 | Python | 402.5 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 473 | Shell | 189.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63574 | Python | 25429.7 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63573 | Python | 25429.3 | [link](https://github.com/commaai/openpilot) |
 | questdb/questdb | 17300 | Java | 6920.1 | [link](https://github.com/questdb/questdb) |
-| ArduPilot/ardupilot | 15806 | C++ | 6322.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14927 | C++ | 5970.9 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 14331 | Python | 5732.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| ArduPilot/ardupilot | 15807 | C++ | 6322.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 14928 | C++ | 5971.3 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 14334 | Python | 5733.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11400 | Rust | 4560.1 | [link](https://github.com/rerun-io/rerun) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
-| 2026-08-31 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3YxWXNDYXFmdU5XXzNsYlJIbFFzVnFzcEdHVVZ3SlJ6YVZUTVNVOGRwSFhQWVBjUlZhQkNoRmZGa0RVS3JVd28weHVVWGhDN0hFZnlOeWVUQ0RqVTNvVGdEYnMwRjhHSGlSWGtxdUl2YUNPTmQzU1RTbXl0WUltUnNzblVvbGVtaENYbFBhWGYyU1BEVlE?oc=5) |
-| 2026-08-29 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUE5uUjBJdWtWanlWTy1VRW1xV3NKNmdlVmZ3QUI2alRESUYtdWhSQmZGX3dneTNPTWtNSkdUbGNzRW5kLWM5WjBxYmJ6am9lbjJtMGhPUFdsWFprOU9LZ3R2MElNaUs2ZHNWdGk0YTVTWFdnUHVxSlo3TnVQSUkxVWN0c3VueHNiNklv0gGQAUFVX3lxTE1iQUdNX0QzVTNWek92YWg2dzloNl95MUlnaE9YS3czWExUNWF2c0dtQ2tiMzNsM2s5ZU5PdkFMZHpMMWUzMlZnWHVpZXBEU0N6S2xHMC1QQl9QNmt3MlMxUGJDRjJmT2xrU3NGbzQ3cHdIRndib282Wmc0SjFMdTVpak13VndmcWtSeU1hR1dBcQ?oc=5) |
-| 2026-08-28 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQODBSdjZncWQzc1ExX1lxZzJMbHEyT0ZyMEJmclBnbmlUeGRkRlFoUWRSZC1jRHdIM0x0dUw5TlZhSnlWaHNpME9QTzFrOW02SzZxbWlWbkk5bzRnTFdDMElBR1c4X1N1TFBSVlZkQXBRS2tDNHlMVG9FekhrNHNWaUVFNTVrYTNfaERIajRBNGI4OEUtTm0zR285LXFRSE02V1RndUgwVWswUdIBrwFBVV95cUxQVTF0WU5jVTdJOTREUy13UmJsekZ4RDljNUtMRGtLNVdXdXgxWkhGTmZ2WlV2aEFURWE3MXQ1R2toc3FLRjd3WWVVbHp2azJzdHdhUmFPUmtMY2RKbUxlZUp0OGtkQ0VDazBLXzJmS0lEazAtbUZXVjViYjIzRENKZ296ZG1ZMlViT2tuck80ajFNaXBjNmRrTzZYSzZzY3pvclVwWVVtTDFBcXB5NjJ3?oc=5) |
 | 2026-08-27 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVG1Md29BVnl6V2JmMURqeUJHR2FSV0puVWg4VlVBbEdZc1g2bVc4cUY1UW5rNnJiN3poaFNQN1FxNFZfUE55NDhaQzhIMndzQ20zYUlRQi1QT0J2RmlBRDB1OS1OYWEyZThzS2lzRXBfMjU1SmVkTmVCbnJNREtJdTdrSC14MzliYnRCamI1QW1qUGQtTHB4c3JFclZUSGRiMk9mcUx4UmRuTWRoQ1gyUS1JM2RNX1VrTzN0Mk9EaUZBZ9IBwgFBVV95cUxQc3ZndEVjSXZ1YnBRN1NkLWo2djFtTXFRZ2RiYW9TTmNRVDVlbWNvTXAzcldSX0hseDR0Z21BMFNOVmI4eGwtN3VqWTJzbFZaN1VoVHYtZTZPLXNwc0VSNC1yNmQ1bjVERzZ6dVVEMEtXZmJXcUZwSlAzRGZrZk5aZldUVjNqbkVidmIwZ1ItMkcyU01Ub180WHpnZHNCemNsS2poWFY2WWM4RHdqbTRkTWhvTGd0YmN0dkdXVURDNGR0dw?oc=5) |
-| 2026-08-25 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxObXBJbUlia19faFRtRHd3UE5kUGlKRWdBUWRiSmlfTTYyTnRPVExndkE0ZXZ6YURodk5kSnpJTDJkc2doN01UZFk4VUI5RUFnbjd3TXJFVlo5YlJmWENIM0pra1E5bF9uT3NPOTFkaWwtNnFUd0p1WG93blBfZ241UnhabEJRbXprb0RvZjlYeDRsSlc4MkRKaTRSQ295RnVYX05mMThtRTRaR2pCM29sbWZvTThKVUtaWEE?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxQNVdhVV9sQ19COVBLaF9BMi1adTlva0lWSHBWOXcyV1VEaXA1U3lpN3JnV2RIM1BMOVhSN1hMUW9qclhhOWVKVVNteWUxcFhRVzY3OUdTZVpxVjRNc1FKUFk0VTF3Z1BxUXVXb3BlRUVrMk5BMTlsalZaRUZtOWZKTS16cXF4d0dkLUJZaFFnS2hjQm9FSmJvRE1zcDFUb2Q1aWQySTU3ZURWWkdLbjJwME5uQVBmd0h0VlpaOGdHY0w0VTRPRDVfYzBfLUNEdW8?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbngwc2NoMVVfZUt3OURhbkxvRmV1WTRVUlZWX3VXcHVnVkpsY0lMSjBRZ3huXzBCZWE0anZyeENERjR2MmhGS3RDVGRmV1dkakM3U2xEdlBEeVVSZE1EQnlLSjYxZlQyRElDNmxCdHNWZWVORk5GSkNCaXg4Q0xvN1FFNUdzanQtNDBr?oc=5) |
-| 2026-08-21 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxPZS1YZUwzYTV0RFowdThSZmJldmdYa3VINHVZZjJZdXo3b3MxMHdnV2lsWTU2UEc5M01WUlktR2pSWUVTcjRZQUttcEVsWGZrTmVLMndjVUFaWlFvelQzZmpDMm9Pc0ZsdGlvZV9YMExUdVFVVTF5cXJ5b3hpXzBRdTExYUdLOW5Cczc5RWo0Y20yd0RNVFpSenJJR2podFJBNXhXV2c2N1BQenNadDhXbWhpS1ZNeUpZY3NMUkV6U2NvVTgz?oc=5) |
 | 2026-08-21 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxOLU9kZTRhZG95aFFQLU51bFN0elpRTUJMVVNRR1BsSGw1MlJRNDYweFdYdG5JNWtKQTJCQ1hNNGF5NmF4Wks4czN1NFNqcjFFOHJ5d1R2X0tPUTEzV0NjbXI1bFVFN3JTOXhSOXBkeUxHVEFPN3VFRVl1UnFqeGdreml6WDBYWTdjTWdnemttWks3M2Rv?oc=5) |
+| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWx4dUhBckpyUko4NGppNk8tLWtCbzdhaHVaQzdKanVIZFVxdXJsWXhUZi12c2pMRGg2VFc5MVhIR184UkFTa3FWZTBtaTI0SXNjSllfS3dIMjltTVdnYWFsQS1XZVBKM2lvME5JdGJrTE5qNG5KVXMtWWE5QUxfV1pxdTJYZ0U4RGFnTDAzR1hmUQ?oc=5) |
+| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE0zSzY1cUhfcDJVRDZ2SFBvWEtFVGJHMm1JNGw3Wk96SFNfaHRNWEg4VU5aRHJ5UHZSVVFzRF9xNzJPWmtrWkdPeDIxTldrMVNrWmRhcGlGVjdrdmVkTHhHOE5YSWZweWRiY0ZjbHF6TGVTU1F5QUhwd1UxcEQxUQ?oc=5) |
+| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wcVBCUWFNbEJ1LVVoVDBFTEtvLUs2SHl5NUdVR19kUFExVWpBYjFhZ2FjSmxabWtQZ2hPRnEwSW5OaERaajg1ZE5ZUW5SMXp0ZE1OYXdaUjNwb25QbEFHTXJCN0g5dU5pa1g0WW90WHJYd0FmcVdRdmNuNA?oc=5) |
+| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVU90emVCM05SQ0c3bXFtYk9TVnF6X0o4a0QtMHFvNjROZXpUVlpqME9LeXdLREVWc3ZFQm8wd1Zub2RhQmx3dVluSjJkQXR3M1pqcGRWeUZvaVZZZTBpcm43U0ZfSDcxV3JwdTloRFpVdk9zenBWMWExRDAwQUhHS2NybXlUNFNBYXRnNkgtWDJ4ZVZkMTFVX3JTc1dubF9sdkp3ejkyUnplQ3ozOGNMQVFIQkVPOFVMSmVMVmlCNmJuWk1OcmM5RnA1cjR5SmlyUkRJbQ?oc=5) |
+| 2026-08-17 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS3dYb3NzZTFhbHJGZ2pQb1NYMXBfcERxTXlsanhNa1g1aFRHREZiSUVtUkw0YTBMa0ZrVUlNLWtkYS1YMTlzRVFWQ1pHRVhmaFdSVHc3TWJKWkdYV3ZqeUpRTG5HZ25ZMWRNOWtkdElMZWxzU2RQeU5iYk9iajNrRUxHd3FZX1hXVzN5MzF1akY5bjdxNFBqT2UtODh3NHJ3WkVRLTNsbE1SX1NOTnUySFc5RnRHaU1vSTFjUWdwVGJrSFk1MThWNGRwdkJ5SVp4RjNR?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-04 | Nvidia-Backed Japanese Startup Pushes Ahead in Physical AI - News On Japan | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CX2ZzSkFMclhGaHExUVZwanYxLVNCTEVfbmJMWjVnUnBlTVV0dnVaZHRsdTlBb284c3ltd2VsVUdiNkhWa3kyZExxZzdoVlh1MTZhVA?oc=5) |
-| 2026-09-03 | Robot startups are trying everything they can think of to get more data - understandingai.org | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKYXpFMmlDWXdUNWYyaHppZHhMblphTFRXYzk2SHpZTWFMNmRDRG10VTZmYUdad1ZRaE1aeFNjLTUtUkpON2Nwd3gwWkFEVkJoeWlSODE5R183dVI3TmZ0a0s5S2FDREN3MGx2cDRNUERFOC1Sd0VhZHh3?oc=5) |
-| 2026-09-03 | German robot startup Agile expects humanoid robot market to overtake auto industry - ET Auto | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZTVMUmg0LXV1ZkZhSGI3N0dCU3drYmhTSy11MEZaeEZKQ0tQX3o0d3FYSVNNU3RKRWtXSE9TX0ZGY05HTEx5TFdPN3JqMU5FYkhGRDFjN2JZRlZ0OW1OU1VtQjNUUENvM0F2N0VZNUVSV3ZqZ3FuREJDd215RUxyUE1FMjhKb0FfcnYzbWFHNWt4OWMxNGU3c05nVzZobTVrRVkxNUd0SEZ2cUJRRFJNcWFhTUN1TjhJRW5QUzZiVUZ2U2VCeVdEdWpvQVRVMUlqQk1VNmFMQnU2N3pKRGd0RFQ0a0VTQmhyN1c40gHwAUFVX3lxTE1EdHlvOXlwNEQwTlpIQ240elNITVo2ZGVTSUhqdVhEb3FDVEU2d2NKZy1ZLWwzVGxOSFBDS0N2Z3BrOEtzcEVfYUpjeG9oQTZlSkliamFxdmZ0YnZaSDEzd1JtakJES2IySjlxVUt6eWd3eS1uUDFMcVU4VG9RdGVGVk14MmF5cG9VWFNpc2JRTDJ0RzZhakZmRFNGb0QwWGFFT0pfbm5JUEZiZVhLV0JFYVlRdHpiQll5NzQwcmhwbnNUVDRwWVd1c0czTTV4aC0wNjNWX0FYb3VFdHg1X0U1TzUyOWhDRm9xQ1lCTjZpbg?oc=5) |
-| 2026-09-02 | Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQXh1MVAzU0F0YTc1RUtmRHJLb1R3alkxSlVaOTBiMEpFZVVNWDF4OU9YUnEwVkhDdVJKV1FHbXpkQmlKaTBPcGtBMkhObU5RZHF5bVhwWnlqbTVCQko1MEp1U0hpUjZzSHNnZldON0ZqdU0xNXVZQm1jdEZxMVpRTjN5cVlLVDI1Q3dxUg?oc=5) |
-| 2026-09-02 | Lyte raises $165 million at $1.6 billion valuation as investors pile into physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVjRhZi1ZcFhBVFA5aXhnbWFIOGpTUDRrRVdONVBjZGF1SEZlZE5ab1hJOGM5WEJOajlXZUt4QnAtZ1NuZnIzVHNnMk5LcGlYR1luUW1xbnRMU2xzWkZTR0ZNZklsVHM?oc=5) |
 | 2026-09-02 | Nio CEO Says Bet on VP’s Robotics Startup Allows Tracking Physical AI Without Hitting P&L - eletric-vehicles.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxQS1BKSWZ5OXc1NE82UVNBblZSOUx3alN3Y0JPeFZCcXd3RHI3WVNrMXJNU0hFc2NTR1dSZjlnYmxuMnpyVGhEM3M3NUkwWXpKb00wMTRfU2dEQTg2R3hEc2NHaUpBalBhYUQwQnlxeUFJYU83ckpiVTk1YUpZem1VbEI2ZjJNM0tPWG5JbExQNk04UHhQV01oLU02cmZuemRpWlNUV2pocU95cVBJb1JyNV92Z3JXOHlGdmNSWk13?oc=5) |
-| 2026-09-02 | Indian Startup HrdWyr Builds AI-Native SoCs for the Physical World - eetimes.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmJEN1FzVkhEQk9PMWFaeWRldnFpMktUTlZ1TTBOX2h1dTlVT1BHNUtkdmNQLVpXYVhpV2VlbzRYQU9oNmpJZTJPNjExYnVLbktaXzJBYTNVQ1BqdUdyYi1VbEJ1akRlcllIdWtUN1lPWWRpa1dRYVdrZ0l1MDZHSWZyLXZjNEFyN3hmSlBYVWVYMWVBOWc?oc=5) |
-| 2026-09-02 | Humanoid robot market ‘will be 10x the size of auto industry within years’ - The Independent | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUS1iWDQzRl9xanRUTXJpblVrUTJSN1J0cmJiYl9tVVdQdFZXN2hDRXVsNWFkbFVpaWN6M0hqU3ZOM3ZKVFVJWTEwZVNBVHg4VHV6MWFTdFFqOFpuQXJTX2J2RmRHZVNUdXZxUlNLZ0dVYm1yM05WM0RZWlVCd18yZ1QzN3ZRT3lIY09WT2NKaWRvS2Zh?oc=5) |
-| 2026-09-02 | German robot startup Agile expects humanoid robot market to overtake auto industry - Devdiscourse | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQU1aN29Kb3I5NGRaM2xmTlNsU3Z3TDdHaXFtRmE3T2owcHpBMmMxTFowdHhfc1lscWs3NUJKUC1pa3lFZjVKSEpiYUZGbkF1aUdfcWgyMG5vcThncDYwUDFOSFVTQTNsSkZJQThVa0ZjM1c0WDlac0t0Q2pvMm1ENml5MkRnWDhZb3BiM2IxVHlUQzZCYWotdkJCakQxUkQwbjN2UnBHazBRZGxQTWxWdzE1elZXcHJhS1FOWkZUTFRQYURYQWFfaVV6MEFoNHRSaWk3aks5dklEOG5tUmfSAd4BQVVfeXFMTUFNWjdvSm9yOTRkWjNsZk5TbFN2d0w3R2lxbUZhN09qMHB6QTJjMUxaMHR4X3NZbHFrNzVCSlAtaWt5RWY1SkhKYmFGRm5BdWlHX3FoMjBub3E4Z3A2MFAxTkhVU0EzbEpGSUE4VWtGYzNXNFg5WnNLdENqbzJtRDZpeTJEZ1g4WW9wYjNiMVR5VEM2QmFqLXZCQmpEMVJEMG4zdlJwR2swUWRsUE1sVncxNXpWV3ByYUtRTlpGVExUUGFEWEFhX2lVejBBaDR0UmlpN2pLOXZJRDhubVJn?oc=5) |
-| 2026-08-30 | Tyler Raciti & Chet Ellis On Volumes, Their Startup Building Superintelligent Data for Physical AI - Medium | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLXhNSU90NEpuTzVOclhreGs3dEhnT0NVc2xNUlgxYTRGTERjUGI1UVp2RjJXSE9KdE1GcDhvR2l0X19paU5pU2lQTG9mRHhzcGFhTTBTUDFnUGc4c0htX3RuSGE4UndoOUtQdVpaMGZXQl8xVDVLVHhUM2JLNllSYXNYQllmcHp6ajFleUM0WlNhYmlScXI1Q0F3bGdEQ29kVklDUHpSVEpBNExFUG10QVpZV2g1SXVCSHhFQlduSlRMV3hBck55aWxyMm1rNldwR2IzTl8tblAtWHlQU1B3?oc=5) |
+| 2026-08-24 | Nio reportedly to invest in embodied AI startup founded by Ren Shaoqing, who will remain smart-driving chief - CnEVPost | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNEc3WllNcVBDOGt1T2VnY0hxd3ltb1ZmWEVubnVjeWNxNTlJRFdzM3NmSUJicFIzMVZYb19wWVpnYnRMX05XVWtHeUlPUlJXU1VhNWEzTExSM205MWloM3Z4UkNJMU5MakJReWtUUVpEZjg5N1EzS1JRYmN3WVQ2czBjUDNLa0E?oc=5) |
+| 2026-08-21 | ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027 - Reuters | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWDBxcmZmdGdPSTkzWHdLVTN5d3VIbU9mbDdrMDE5enl4MlNGa3RuTnFJQjJZWFpMX3k0Q3g0MWVlcTdTbGZwSFJNY2ZZN3VLRzBpWEdiYXRGZmgxRmlJZVVuRG45bUNHdlg4UnA5WWhFbzJPc29hT1hLcHM4d09fUjE4TS1rUVFlTkhsVlN1Mk9xY0pRakZUTlJ6enpZT0VlSlN5djk1cTNySVhodFM1a1NLa2Z2bUZhYWc?oc=5) |
+| 2026-08-20 | A Robot That Learns from Short Videos in 29 Seconds — X Square Robot's HOST Changes the Embodied-AI Recipe - Pandaily | embodied ai startup | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmVMYjlmbUlod2kwYUFST2pkMTdONVFic0JpbVozbmh3Q1R1ZmlsTnQ4aGhVWG5GOENPdnRZdlBRRl92a3ZpQTJ0WHNCbHpvUWdVTWhORkNocWJiQjlreGZqQk5BODduSk5BVDBNNHNKNUJkUWpSUGR3VGxnd3BrT3pwdjl0Zw?oc=5) |
+| 2026-08-17 | China Telecom leads embodied AI startup Mifeng funding - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQTEUyN3R5REFQWl9PZXBwM3N5NUtRZTNsLTNfZE1zdm5SV2ZlWDczUEh4NVlZenl5V2tFOHpPeFdqbV9tZTY1NHpoMmtSOWUtMFJHQUJ2YzBsazhNUU9EWDhtVXJEQ3JaZXQ1ZE5qbGpKUGZJWVppendneDNKMHJRZU5BV0dLcDM1ejR1OFZabw?oc=5) |
+| 2026-07-26 | Genesis AI is in talks to raise $500 million at a $3 billion valuation just a year after emerging from stealth - Startup Fortune | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOG81aXpQdEo0UnQ4SmtJenVVRjl4enZVeFNwd2pMQzBtdG55ZUthaGNtajA5N2M4RTlCTHhXNmhScjJ6U0txS0lpYUtNbmswU3BXUE5EMGI1ekp6ZjNLSzR1enJyRmxZQVBnWTZKT0pHWmJOcC1OV1FlQWdTbTM0TXhYQ29lMWg3UGQyVV95dE1aR2FlY1N0UEg3cEgzTkdlZFZuM3RJSDZSM2o3RzVXM0xwZGs5aHJ0NmItRUNidDVjaUNtSlpoTFBEaktXdVgteUE?oc=5) |
+| 2026-07-24 | Genesis AI is in talks to raise about $500m for its robot brains - The Next Web | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxOTVJ0SE83aExRYTN5OHdwS19iWEZKOTFPdVZlQWFrTzdTU0FBT3o3QVVlbjhWZ2E4LV9SS2JhR1FzMVZwY3FSZnNmVkp4cVV1d2dEY0tPLVVTTnF4Zi0zNVpOZzBEYWpRbk1VNmNJQURZSllGLS0ya3Y0T3VtblpHMA?oc=5) |
+| 2026-07-22 | Microagi to Build Future of AI Robotics on Google Cloud - PR Newswire | embodied ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxPVDJ0RzUtNjZ1YzNuM3Y0VExnamx4dHdVRUxmWFROR1RDcUdSa1E1YzU0R2h0cW9FTWJvQkFBcVVWcVV0ekFYLVhHQlhCRnVMMEY0dWJEMUFCZWdFLWV4a3RIWnIyaHFvYWFHVDctakRabDFRWUpqd3k4LUJfUGJhWk9GTjUtbjJ2dF9FMVVUbDRWOVJ0N3RxOFM4dUo0VWtCelVXZU85UTdvWmxPRW9mQw?oc=5) |
+| 2026-07-22 | Google Cloud and NVIDIA power microagi's embodied AI ambitions - Tech.eu | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRU9kWmJsNmx6R2hJOG43bmVQRWpCcG1jcEJCYV9hZ3QxckI2RUxDZ0FsdFhwaU80UFRBWUJoQzBOelpoUHRjejVrQ3MyZm1hZmNyT2ZqbUR4SUJtZXpLSVFrc0RHaUNRTTlYREtoNHBWVGh5dk9uM3JhS0dWSVlnaWJoOWUyZ1FiX2hXLVJpWHdkWk0?oc=5) |
+| 2026-07-02 | Chinese Embodied AI Startup JoyIn Raises USD73.6 Million From Ant Group, Other Investors - 一财全球Yicai Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRGg5elI1eVgyb05SMWQ5N0xVNGZKWmtzNWd5OGxlUGoxNDV0MWhkNkdvSGdBWGw2aGRzOE0yWU5CWTBQeFZWeFlLSWI3ZmljQVlSZ2FWeDByeUtvdFBuNDA1RWx0aklkdWRnTnJxUjhlcWtIYkhLdXBhVTRUYWlERDlWeDFfRGFOaU84cmNGeXFJaUMzekQ4V3dSX0txMFRITGRyaEk4N1BQSWhYV3pkVTZCQkYyWEtsX2p4YzBLNzVsZw?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-04 | Data Quality Analyst | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
+| 2026-09-04 | Helix Data Creator (SP)  | Figure AI | São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4708450006) |
 | 2026-09-04 | Senior Engineering Technician | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4711258006) |
-| 2026-09-03 | Data Quality Analyst | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
 | 2026-09-03 | Business Intelligence Analyst | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6139707004) |
 | 2026-09-03 | Senior Systems Administrator, IT | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6180281004) |
 | 2026-09-03 | Staff Systems Validation Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5833376004) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-02 | Senior Manager, Legal Operations | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6174264004) |
 | 2026-09-02 | Senior Supplier Quality Engineer | Agility Robotics | Hybrid- Salem, OR or Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5973865004) |
 | 2026-09-01 | IT Client Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4710288006) |
-| 2026-09-01 | Material Handler, Commercial Operations | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4710235006) |
 
 ## Automation
 
