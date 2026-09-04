@@ -1,23 +1,23 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-04 01:29 UTC
+Generated: 2026-09-04 06:34 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-09-03 | Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models | [link](https://arxiv.org/pdf/2609.03927v1) |
-| 2026-09-03 | Revisiting Topological Graphs for Macro Action based Closed-loop Reinforcement Learning of Vision Language Navigation in Continuous Environment | [link](https://arxiv.org/pdf/2609.03906v1) |
-| 2026-09-03 | GraFT: A Training-Free Framework for Spatial Reasoning in Multimodal Large Language Models via 3D Scene Graphs | [link](https://arxiv.org/pdf/2609.03892v1) |
-| 2026-09-03 | A hybrid pipeline for dynamic ontology-based semantic mapping | [link](https://arxiv.org/pdf/2609.03891v1) |
-| 2026-09-03 | FWBC-VLA: Force-Aware Whole-Body Compensation for Contact-Rich Loco-Manipulation | [link](https://arxiv.org/pdf/2609.03889v1) |
+| 2026-09-03 | GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation | [link](https://arxiv.org/pdf/2609.04193v1) |
+| 2026-09-03 | Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations | [link](https://arxiv.org/pdf/2609.04174v1) |
+| 2026-09-03 | Reciprocity can halve what a mechanical network can learn | [link](https://arxiv.org/pdf/2609.04169v1) |
+| 2026-09-03 | Formation Matrix and Energy-based Control of Multi-Agent Systems | [link](https://arxiv.org/pdf/2609.04158v1) |
+| 2026-09-03 | Persistent Identity Preservation in Generative Image Models: A Benchmark and Evaluation System | [link](https://arxiv.org/pdf/2609.04151v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83394 | 33357.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63565 | 25426.1 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83397 | 33358.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63567 | 25426.9 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44499 | 17799.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30437 | 12174.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30439 | 12175.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | questdb/questdb | 17298 | 6919.3 | [link](https://github.com/questdb/questdb) |
 
 ## Top Models
@@ -32,11 +32,11 @@ Generated: 2026-09-04 01:29 UTC
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
-| 2026-09-01 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZmdUVG1FeUw5eUlENHlKRGxGTUFzN0xtOXRZejV1VDRfdTZFcjl2RVdLMDFIOXJCNllkc1RsODE2TFJoTHhjRXd0MXpuM1lhOFo1SHpEcC11Q2VQRzJ6aS1UQXBKV3Q0eHFuSXEwMjNWZndXQTlVWHpqTUkzX1pIQ0ttTWhMd2dJYWJHMnlTRjFwMkNiQmYzYzNyeVB1MXhlZ0lpNVZEUkFoTkEtUjRuMXpWU3drQ2FYRGhz?oc=5) |
 | 2026-08-31 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3YxWXNDYXFmdU5XXzNsYlJIbFFzVnFzcEdHVVZ3SlJ6YVZUTVNVOGRwSFhQWVBjUlZhQkNoRmZGa0RVS3JVd28weHVVWGhDN0hFZnlOeWVUQ0RqVTNvVGdEYnMwRjhHSGlSWGtxdUl2YUNPTmQzU1RTbXl0WUltUnNzblVvbGVtaENYbFBhWGYyU1BEVlE?oc=5) |
 | 2026-08-29 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUE5uUjBJdWtWanlWTy1VRW1xV3NKNmdlVmZ3QUI2alRESUYtdWhSQmZGX3dneTNPTWtNSkdUbGNzRW5kLWM5WjBxYmJ6am9lbjJtMGhPUFdsWFprOU9LZ3R2MElNaUs2ZHNWdGk0YTVTWFdnUHVxSlo3TnVQSUkxVWN0c3VueHNiNklv0gGQAUFVX3lxTE1iQUdNX0QzVTNWek92YWg2dzloNl95MUlnaE9YS3czWExUNWF2c0dtQ2tiMzNsM2s5ZU5PdkFMZHpMMWUzMlZnWHVpZXBEU0N6S2xHMC1QQl9QNmt3MlMxUGJDRjJmT2xrU3NGbzQ3cHdIRndib282Wmc0SjFMdTVpak13VndmcWtSeU1hR1dBcQ?oc=5) |
 | 2026-08-28 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQODBSdjZncWQzc1ExX1lxZzJMbHEyT0ZyMEJmclBnbmlUeGRkRlFoUWRSZC1jRHdIM0x0dUw5TlZhSnlWaHNpME9QTzFrOW02SzZxbWlWbkk5bzRnTFdDMElBR1c4X1N1TFBSVlZkQXBRS2tDNHlMVG9FekhrNHNWaUVFNTVrYTNfaERIajRBNGI4OEUtTm0zR285LXFRSE02V1RndUgwVWswUdIBrwFBVV95cUxQVTF0WU5jVTdJOTREUy13UmJsekZ4RDljNUtMRGtLNVdXdXgxWkhGTmZ2WlV2aEFURWE3MXQ1R2toc3FLRjd3WWVVbHp2azJzdHdhUmFPUmtMY2RKbUxlZUp0OGtkQ0VDazBLXzJmS0lEazAtbUZXVjViYjIzRENKZ296ZG1ZMlViT2tuck80ajFNaXBjNmRrTzZYSzZzY3pvclVwWVVtTDFBcXB5NjJ3?oc=5) |
 | 2026-08-27 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVG1Md29BVnl6V2JmMURqeUJHR2FSV0puVWg4VlVBbEdZc1g2bVc4cUY1UW5rNnJiN3poaFNQN1FxNFZfUE55NDhaQzhIMndzQ20zYUlRQi1QT0J2RmlBRDB1OS1OYWEyZThzS2lzRXBfMjU1SmVkTmVCbnJNREtJdTdrSC14MzliYnRCamI1QW1qUGQtTHB4c3JFclZUSGRiMk9mcUx4UmRuTWRoQ1gyUS1JM2RNX1VrTzN0Mk9EaUZBZ9IBwgFBVV95cUxQc3ZndEVjSXZ1YnBRN1NkLWo2djFtTXFRZ2RiYW9TTmNRVDVlbWNvTXAzcldSX0hseDR0Z21BMFNOVmI4eGwtN3VqWTJzbFZaN1VoVHYtZTZPLXNwc0VSNC1yNmQ1bjVERzZ6dVVEMEtXZmJXcUZwSlAzRGZrZk5aZldUVjNqbkVidmIwZ1ItMkcyU01Ub180WHpnZHNCemNsS2poWFY2WWM4RHdqbTRkTWhvTGd0YmN0dkdXVURDNGR0dw?oc=5) |
+| 2026-08-25 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
