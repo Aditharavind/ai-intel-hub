@@ -1,111 +1,111 @@
 [
   {
-    "model": "OpenWAM/robotwin_dual_system_joint_self_attention_isolated",
+    "model": "OpenWAM/sft_robot_only_robotwin_clean",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_isolated",
+    "url": "https://huggingface.co/OpenWAM/sft_robot_only_robotwin_clean",
     "date": "2026-09-04",
     "keyword": "robot",
     "score": 0.1
   },
   {
-    "model": "OpenWAM/robotwin_tri_system_joint_self_attention",
+    "model": "OpenWAM/sft_from_scratch_robotwin_clean",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/robotwin_tri_system_joint_self_attention",
+    "url": "https://huggingface.co/OpenWAM/sft_from_scratch_robotwin_clean",
     "date": "2026-09-04",
     "keyword": "robot",
     "score": 0.1
   },
   {
-    "model": "OpenWAM/robotwin_single_system_vanilla",
+    "model": "OpenWAM/sft_ego_robot_cotrain_robotwin_full_mutual",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/robotwin_single_system_vanilla",
+    "url": "https://huggingface.co/OpenWAM/sft_ego_robot_cotrain_robotwin_full_mutual",
     "date": "2026-09-04",
     "keyword": "robot",
     "score": 0.1
   },
   {
-    "model": "OpenWAM/robotwin_single_system_moe",
+    "model": "OpenWAM/sft_ego_robot_cotrain_robotwin_full_action_sees_video",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/robotwin_single_system_moe",
+    "url": "https://huggingface.co/OpenWAM/sft_ego_robot_cotrain_robotwin_full_action_sees_video",
     "date": "2026-09-04",
     "keyword": "robot",
     "score": 0.1
   },
   {
-    "model": "OpenWAM/robotwin_dual_system_joint_self_attention",
+    "model": "OpenWAM/sft_ego_robot_cotrain_robotwin_clean_mutual",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention",
+    "url": "https://huggingface.co/OpenWAM/sft_ego_robot_cotrain_robotwin_clean_mutual",
     "date": "2026-09-04",
     "keyword": "robot",
     "score": 0.1
   },
   {
-    "model": "OpenWAM/robotwin_dual_system_joint_cross_attention_detach",
+    "model": "OpenWAM/sft_ego_robot_cotrain_robotwin_clean_action_sees_video",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_cross_attention_detach",
+    "url": "https://huggingface.co/OpenWAM/sft_ego_robot_cotrain_robotwin_clean_action_sees_video",
     "date": "2026-09-04",
     "keyword": "robot",
     "score": 0.1
   },
   {
-    "model": "OpenWAM/robotwin_dual_system_joint_cross_attention",
+    "model": "OpenWAM/pretrain_two_stage_robot",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_cross_attention",
+    "url": "https://huggingface.co/OpenWAM/pretrain_two_stage_robot",
     "date": "2026-09-04",
     "keyword": "robot",
     "score": 0.1
   },
   {
-    "model": "OpenWAM/robotwin_dual_system_idm",
+    "model": "OpenWAM/pretrain_robot_only",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_idm",
+    "url": "https://huggingface.co/OpenWAM/pretrain_robot_only",
     "date": "2026-09-04",
     "keyword": "robot",
     "score": 0.1
   },
   {
-    "model": "OpenWAM/OpenWAM-Alpha-Sim-RoboTwin-Full",
+    "model": "OpenWAM/pretrain_ego_robot_cotrain_mutual",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/OpenWAM-Alpha-Sim-RoboTwin-Full",
+    "url": "https://huggingface.co/OpenWAM/pretrain_ego_robot_cotrain_mutual",
     "date": "2026-09-04",
     "keyword": "robot",
     "score": 0.1
   },
   {
-    "model": "OpenWAM/OpenWAM-Alpha-Sim-RoboTwin-Clean2Random",
+    "model": "OpenWAM/pretrain_ego_robot_cotrain_action_sees_video",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/OpenWAM-Alpha-Sim-RoboTwin-Clean2Random",
+    "url": "https://huggingface.co/OpenWAM/pretrain_ego_robot_cotrain_action_sees_video",
     "date": "2026-09-04",
     "keyword": "robot",
     "score": 0.1
   },
   {
-    "model": "StarVLA/VLAct_Qwen3GR00T_Robotwin_all_Finetune",
-    "downloads": 14,
+    "model": "OpenWAM/robotwin_dual_system_joint_self_attention_video_sees_action",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/StarVLA/VLAct_Qwen3GR00T_Robotwin_all_Finetune",
+    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_video_sees_action",
     "date": "2026-09-04",
-    "keyword": "vla",
-    "score": 4.3
+    "keyword": "robot",
+    "score": 0.1
   },
   {
-    "model": "StarVLA/VLAct_Qwen3GR00T_Robotwin_Finetune",
-    "downloads": 27,
+    "model": "OpenWAM/robotwin_dual_system_joint_self_attention_mutual_new",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/StarVLA/VLAct_Qwen3GR00T_Robotwin_Finetune",
+    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_mutual_new",
     "date": "2026-09-04",
-    "keyword": "vla",
-    "score": 8.2
+    "keyword": "robot",
+    "score": 0.1
   },
   {
     "model": "research-vla/future-opend4rt-v0-blockcausal",
@@ -151,6 +151,24 @@
     "date": "2026-09-04",
     "keyword": "vla",
     "score": 10.0
+  },
+  {
+    "model": "StarVLA/VLAct_Qwen3GR00T_Robotwin_all_Finetune",
+    "downloads": 14,
+    "likes": 0,
+    "url": "https://huggingface.co/StarVLA/VLAct_Qwen3GR00T_Robotwin_all_Finetune",
+    "date": "2026-09-04",
+    "keyword": "vla",
+    "score": 4.3
+  },
+  {
+    "model": "StarVLA/VLAct_Qwen3GR00T_Robotwin_Finetune",
+    "downloads": 27,
+    "likes": 0,
+    "url": "https://huggingface.co/StarVLA/VLAct_Qwen3GR00T_Robotwin_Finetune",
+    "date": "2026-09-04",
+    "keyword": "vla",
+    "score": 8.2
   },
   {
     "model": "StarVLA/VLAct_Qwen3PI_Robotwin_all_Finetune",
@@ -222,6 +240,15 @@
     "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch1-stage2-lora-epoch1",
     "date": "2026-09-04",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "clementpetit/embodied-ai57-2024",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/clementpetit/embodied-ai57-2024",
+    "date": "2026-09-04",
+    "keyword": "embodied",
     "score": 0.1
   },
   {
@@ -646,15 +673,6 @@
     "date": "2026-08-28",
     "keyword": "embodied",
     "score": 2.8
-  },
-  {
-    "model": "dani-elldl/embodied-ai",
-    "downloads": 11,
-    "likes": 0,
-    "url": "https://huggingface.co/dani-elldl/embodied-ai",
-    "date": "2026-08-28",
-    "keyword": "embodied",
-    "score": 3.4
   },
   {
     "model": "lookarooka/Physical-ai-humanoid-v5-ppo",
