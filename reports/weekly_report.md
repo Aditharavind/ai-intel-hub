@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-05 01:30 UTC
+Generated: 2026-09-05 06:21 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-09-05 01:30 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83413 | 33365.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63574 | 25429.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44500 | 17800.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30446 | 12178.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| questdb/questdb | 17301 | 6920.5 | [link](https://github.com/questdb/questdb) |
+| Developer-Y/cs-video-courses | 83415 | 33366.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63576 | 25430.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44503 | 17801.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30447 | 12178.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| questdb/questdb | 17302 | 6920.9 | [link](https://github.com/questdb/questdb) |
 
 ## Top Models
 | Model | Downloads | Score | URL |

@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-05 01:30 UTC
+Last Updated: 2026-09-05 06:21 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -10,13 +10,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-03 | Daybreak for Frontline Defenders: $1B to protect essential services | OpenAI | [link](https://openai.com/index/daybreak-for-frontline-defenders) |
 | 2026-09-03 | Playco cut manual fixes 50% prototyping games with GPT-6 Astra | OpenAI | [link](https://openai.com/index/playco-game-prototyping-with-astra) |
 | 2026-09-03 | Legora reviewed 41 documents in minutes with GPT-6 Astra | OpenAI | [link](https://openai.com/index/legora-financial-statement-review-with-astra) |
+| 2026-09-03 | GPT-6 Astra: A new generation of intelligence | OpenAI | [link](https://openai.com/index/gpt-6-astra) |
 | 2026-09-03 | Safety overview: GPT-6 Astra | OpenAI | [link](https://openai.com/index/safety-overview-gpt-6-astra) |
 | 2026-09-03 | NeoMME: an efficient Multimodal-native and Multilingual Encoder | Hugging Face | [link](https://huggingface.co/blog/Hcompany/neomme) |
 | 2026-09-03 | Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps | Hugging Face | [link](https://huggingface.co/blog/grpo-with-trl-ifstruct) |
 | 2026-09-03 | Give Your Coding Agents a Memory You Own | Hugging Face | [link](https://huggingface.co/blog/funes) |
 | 2026-09-03 | Training a coding model to paint watercolours with TRL and OpenEnv | Hugging Face | [link](https://huggingface.co/blog/train-to-paint-with-code) |
 | 2026-09-02 | ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT | OpenAI | [link](https://openai.com/index/atv-big-air-tour) |
-| 2026-09-02 | Real-Time Intelligence with IBM Time Series Models on Confluent | Hugging Face | [link](https://huggingface.co/blog/ibm-research/real-time-intelligence) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-05 | COSMAC Elf Turns 50 | Hackaday | [link](https://hackaday.com/2026/09/04/cosmac-elf-turns-50/) |
+| 2026-09-05 | Parchment Paper Paired With 3D-Printed Grid Gives a Nice Glow | Hackaday | [link](https://hackaday.com/2026/09/04/parchment-paper-paired-with-3d-printed-grid-gives-a-nice-glow/) |
 | 2026-09-04 | Fixing an Expensive Seagate LaCie Hard Drive Array | Hackaday | [link](https://hackaday.com/2026/09/04/fixing-an-expensive-seagate-lacie-hard-drive-array/) |
 | 2026-09-04 | Making a Pole Balance Itself With Propellers | Hackaday | [link](https://hackaday.com/2026/09/04/making-a-pole-balance-itself-with-propellers/) |
 | 2026-09-04 | Repairing Traces on a Delidded Pentium III CPU Gone Wrong | Hackaday | [link](https://hackaday.com/2026/09/04/repairing-traces-on-a-delidded-pentium-iii-cpu-gone-wrong/) |
 | 2026-09-04 | Hackaday Podcast Ep 385: 3D Printers with Lasers, Wicked RAM Prices, and Reverse Polish Notation | Hackaday | [link](https://hackaday.com/2026/09/04/hackaday-podcast-ep-385-3d-printers-with-lasers-wicked-ram-prices-and-reverse-polish-notation/) |
 | 2026-09-04 | 3D Printed Cubes Provide Passive Cooling | Hackaday | [link](https://hackaday.com/2026/09/04/3d-printed-cubes-provide-passive-cooling/) |
-| 2026-09-04 | This Week in Security: Baked-in Malware, Freezers Not Freezing, Zoom Snoops Clipboards, and AI Makes Things Worse, Faster | Hackaday | [link](https://hackaday.com/2026/09/04/this-week-in-security-baked-in-malware-freezers-not-freezing-zoom-snoops-clipboards-and-ai-makes-things-worse-faster/) |
-| 2026-09-04 | Take Tool Photo, Generate Custom Gridfinity Bin | Hackaday | [link](https://hackaday.com/2026/09/04/take-tool-photo-generate-custom-gridfinity-bin/) |
 | 2026-09-04 | ArduinoCore-Zephyr 1.0.0 adds support for Arduino VENTUNO Q, updates to Zephyr 4.4.1, and more | CNX Software | [link](https://www.cnx-software.com/2026/09/04/arduinocore-zephyr-1-0-0-adds-support-for-arduino-ventuno-q-updates-to-zephyr-4-4-1-and-more/) |
 | 2026-09-04 | Petoi Quaddle – A mini robot dog for physical AI experimentation (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/09/04/petoi-quaddle-a-mini-robot-dog-for-physical-ai-experimentation/) |
 | 2026-09-04 | TinyGo 0.42 adds support for 87 Puya PY32 MCU variants and two EmbedFire boards | CNX Software | [link](https://www.cnx-software.com/2026/09/04/tinygo-0-42-adds-support-for-87-puya-py32-mcu-variants-and-two-embedfire-boards/) |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-05 | OpenWAM/robotwin_dual_system_joint_self_attention_wan22_vae | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_wan22_vae) |
+| 2026-09-05 | OpenWAM/robotwin_dual_system_joint_self_attention_vjepa21_svae | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_vjepa21_svae) |
+| 2026-09-05 | OpenWAM/robotwin_dual_system_joint_self_attention_vjepa21 | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_vjepa21) |
+| 2026-09-05 | OpenWAM/robotwin_dual_system_joint_self_attention_flux2 | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_flux2) |
+| 2026-09-05 | OpenWAM/robotwin_dual_system_joint_self_attention_dinov3_svae | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_dinov3_svae) |
+| 2026-09-05 | Myxcl/RoboTwin2.0_Pi05_9task | 0 | 0 | [link](https://huggingface.co/Myxcl/RoboTwin2.0_Pi05_9task) |
+| 2026-09-05 | OpenWAM/robotwin_dual_system_joint_self_attention_dinov3 | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_dinov3) |
+| 2026-09-05 | OpenWAM/robotwin_dual_system_joint_self_attention_wan21_vace_1_3b | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_wan21_vace_1_3b) |
 | 2026-09-05 | OpenWAM/robotwin_dual_system_joint_self_attention_wan21_i2v_14b | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_wan21_i2v_14b) |
-| 2026-09-05 | OpenWAM/robotwin_dual_system_joint_self_attention_cosmos3 | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_cosmos3) |
-| 2026-09-05 | OpenWAM/robotwin_dual_system_joint_self_attention_cosmos25 | 0 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_cosmos25) |
-| 2026-09-05 | OpenWAM/sft_two_stage_robotwin_clean | 0 | 0 | [link](https://huggingface.co/OpenWAM/sft_two_stage_robotwin_clean) |
-| 2026-09-04 | OpenWAM/sft_robot_only_robotwin_clean | 0 | 0 | [link](https://huggingface.co/OpenWAM/sft_robot_only_robotwin_clean) |
-| 2026-09-04 | OpenWAM/sft_from_scratch_robotwin_clean | 0 | 0 | [link](https://huggingface.co/OpenWAM/sft_from_scratch_robotwin_clean) |
-| 2026-09-04 | OpenWAM/sft_ego_robot_cotrain_robotwin_full_mutual | 0 | 0 | [link](https://huggingface.co/OpenWAM/sft_ego_robot_cotrain_robotwin_full_mutual) |
-| 2026-09-04 | OpenWAM/sft_ego_robot_cotrain_robotwin_full_action_sees_video | 0 | 0 | [link](https://huggingface.co/OpenWAM/sft_ego_robot_cotrain_robotwin_full_action_sees_video) |
-| 2026-09-04 | OpenWAM/sft_ego_robot_cotrain_robotwin_clean_mutual | 0 | 0 | [link](https://huggingface.co/OpenWAM/sft_ego_robot_cotrain_robotwin_clean_mutual) |
-| 2026-09-04 | OpenWAM/sft_ego_robot_cotrain_robotwin_clean_action_sees_video | 0 | 0 | [link](https://huggingface.co/OpenWAM/sft_ego_robot_cotrain_robotwin_clean_action_sees_video) |
+| 2026-09-05 | milab-robot/alm1-0731-milab.60 | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.60) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3206 | Python | 1282.5 | [link](https://github.com/NVIDIA/skills) |
-| questdb/questdb | 17301 | Java | 6920.5 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 14346 | Python | 5738.5 | [link](https://github.com/earthtojake/text-to-cad) |
-| deeplethe/utopia | 3913 | Rust | 1565.3 | [link](https://github.com/deeplethe/utopia) |
-| softmata/horus | 433 | Rust | 173.3 | [link](https://github.com/softmata/horus) |
-| isaac-sim/IsaacLab | 8041 | Python | 3216.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| copper-project/copper-rs | 1479 | Rust | 591.7 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 1006 | Python | 402.5 | [link](https://github.com/mosaico-labs/mosaico) |
-| awslabs/awsome-distributed-ai | 473 | Shell | 189.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63574 | Python | 25429.7 | [link](https://github.com/commaai/openpilot) |
+| NVIDIA/skills | 3207 | Python | 1282.9 | [link](https://github.com/NVIDIA/skills) |
+| commaai/openpilot | 63576 | Python | 25430.5 | [link](https://github.com/commaai/openpilot) |
+| questdb/questdb | 17302 | Java | 6920.9 | [link](https://github.com/questdb/questdb) |
+| ArduPilot/ardupilot | 15808 | C++ | 6323.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| earthtojake/text-to-cad | 14376 | Python | 5750.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| dora-rs/dora | 3922 | Rust | 1568.9 | [link](https://github.com/dora-rs/dora) |
+| datawhalechina/every-embodied | 3534 | Python | 1413.7 | [link](https://github.com/datawhalechina/every-embodied) |
+| PhyAgentOS/PhyAgentOS-core | 2050 | Python | 820.1 | [link](https://github.com/PhyAgentOS/PhyAgentOS-core) |
+| sou350121/VLA-Handbook | 590 | HTML | 236.1 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 6665 | Python | 2666.1 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -126,7 +126,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-02 | Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQXh1MVAzU0F0YTc1RUtmRHJLb1R3alkxSlVaOTBiMEpFZVVNWDF4OU9YUnEwVkhDdVJKV1FHbXpkQmlKaTBPcGtBMkhObU5RZHF5bVhwWnlqbTVCQko1MEp1U0hpUjZzSHNnZldON0ZqdU0xNXVZQm1jdEZxMVpRTjN5cVlLVDI1Q3dxUg?oc=5) |
 | 2026-09-02 | Lyte raises $165 million at $1.6 billion valuation as investors pile into physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVjRhZi1ZcFhBVFA5aXhnbWFIOGpTUDRrRVdONVBjZGF1SEZlZE5ab1hJOGM5WEJOajlXZUt4QnAtZ1NuZnIzVHNnMk5LcGlYR1luUW1xbnRMU2xzWkZTR0ZNZklsVHM?oc=5) |
 | 2026-09-02 | Nio CEO Says Bet on VP’s Robotics Startup Allows Tracking Physical AI Without Hitting P&L - eletric-vehicles.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxQS1BKSWZ5OXc1NE82UVNBblZSOUx3alN3Y0JPeFZCcXd3RHI3WVNrMXJNU0hFc2NTR1dSZjlnYmxuMnpyVGhEM3M3NUkwWXpKb00wMTRfU2dEQTg2R3hEc2NHaUpBalBhYUQwQnlxeUFJYU83ckpiVTk1YUpZem1VbEI2ZjJNM0tPWG5JbExQNk04UHhQV01oLU02cmZuemRpWlNUV2pocU95cVBJb1JyNV92Z3JXOHlGdmNSWk13?oc=5) |
-| 2026-09-02 | Indian Startup HrdWyr Builds AI-Native SoCs for the Physical World - EE Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmJEN1FzVkhEQk9PMWFaeWRldnFpMktUTlZ1TTBOX2h1dTlVT1BHNUtkdmNQLVpXYVhpV2VlbzRYQU9oNmpJZTJPNjExYnVLbktaXzJBYTNVQ1BqdUdyYi1VbEJ1akRlcllIdWtUN1lPWWRpa1dRYVdrZ0l1MDZHSWZyLXZjNEFyN3hmSlBYVWVYMWVBOWc?oc=5) |
+| 2026-09-02 | Indian Startup HrdWyr Builds AI-Native SoCs for the Physical World - eetimes.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmJEN1FzVkhEQk9PMWFaeWRldnFpMktUTlZ1TTBOX2h1dTlVT1BHNUtkdmNQLVpXYVhpV2VlbzRYQU9oNmpJZTJPNjExYnVLbktaXzJBYTNVQ1BqdUdyYi1VbEJ1akRlcllIdWtUN1lPWWRpa1dRYVdrZ0l1MDZHSWZyLXZjNEFyN3hmSlBYVWVYMWVBOWc?oc=5) |
 | 2026-09-02 | Humanoid robot market ‘will be 10x the size of auto industry within years’ - The Independent | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUS1iWDQzRl9xanRUTXJpblVrUTJSN1J0cmJiYl9tVVdQdFZXN2hDRXVsNWFkbFVpaWN6M0hqU3ZOM3ZKVFVJWTEwZVNBVHg4VHV6MWFTdFFqOFpuQXJTX2J2RmRHZVNUdXZxUlNLZ0dVYm1yM05WM0RZWlVCd18yZ1QzN3ZRT3lIY09WT2NKaWRvS2Zh?oc=5) |
 | 2026-09-02 | German robot startup Agile expects humanoid robot market to overtake auto industry - Devdiscourse | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQU1aN29Kb3I5NGRaM2xmTlNsU3Z3TDdHaXFtRmE3T2owcHpBMmMxTFowdHhfc1lscWs3NUJKUC1pa3lFZjVKSEpiYUZGbkF1aUdfcWgyMG5vcThncDYwUDFOSFVTQTNsSkZJQThVa0ZjM1c0WDlac0t0Q2pvMm1ENml5MkRnWDhZb3BiM2IxVHlUQzZCYWotdkJCakQxUkQwbjN2UnBHazBRZGxQTWxWdzE1elZXcHJhS1FOWkZUTFRQYURYQWFfaVV6MEFoNHRSaWk3aks5dklEOG5tUmfSAd4BQVVfeXFMTUFNWjdvSm9yOTRkWjNsZk5TbFN2d0w3R2lxbUZhN09qMHB6QTJjMUxaMHR4X3NZbHFrNzVCSlAtaWt5RWY1SkhKYmFGRm5BdWlHX3FoMjBub3E4Z3A2MFAxTkhVU0EzbEpGSUE4VWtGYzNXNFg5WnNLdENqbzJtRDZpeTJEZ1g4WW9wYjNiMVR5VEM2QmFqLXZCQmpEMVJEMG4zdlJwR2swUWRsUE1sVncxNXpWV3ByYUtRTlpGVExUUGFEWEFhX2lVejBBaDR0UmlpN2pLOXZJRDhubVJn?oc=5) |
 
