@@ -1,5 +1,23 @@
 [
   {
+    "model": "dreamdifferent/vam-cross-level5-panda-robotiq-widowx-texture-ur5e-contact-v2-video-lora-iter400",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dreamdifferent/vam-cross-level5-panda-robotiq-widowx-texture-ur5e-contact-v2-video-lora-iter400",
+    "date": "2026-09-05",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "dreamdifferent/vam-cross-level-panda-robotiq-widowx-texture-ur5e-contact-v2-video-lora-iter200",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dreamdifferent/vam-cross-level-panda-robotiq-widowx-texture-ur5e-contact-v2-video-lora-iter200",
+    "date": "2026-09-05",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "milab-robot/alm1-0818-amore",
     "downloads": 0,
     "likes": 0,
@@ -88,24 +106,6 @@
     "date": "2026-09-05",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "Myxcl/RoboTwin2.0_Pi05_9task",
-    "downloads": 27,
-    "likes": 0,
-    "url": "https://huggingface.co/Myxcl/RoboTwin2.0_Pi05_9task",
-    "date": "2026-09-05",
-    "keyword": "robot",
-    "score": 8.2
-  },
-  {
-    "model": "OpenWAM/robotwin_dual_system_joint_self_attention_dinov3",
-    "downloads": 3,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_dinov3",
-    "date": "2026-09-05",
-    "keyword": "robot",
-    "score": 1.0
   },
   {
     "model": "sam-guided-vlas/train_1_2_pile_random_pose__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
@@ -261,6 +261,15 @@
     "score": 0.1
   },
   {
+    "model": "shubhdotai/my_first_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/shubhdotai/my_first_policy",
+    "date": "2026-09-05",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "KeXJJJ/origami-policy-checkpoint-5200",
     "downloads": 0,
     "likes": 0,
@@ -412,15 +421,6 @@
     "date": "2026-09-04",
     "keyword": "policy",
     "score": 66.4
-  },
-  {
-    "model": "policyengine/policyengine-uk-data-private",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/policyengine/policyengine-uk-data-private",
-    "date": "2026-09-04",
-    "keyword": "policy",
-    "score": 0.1
   },
   {
     "model": "pavelmikhailov/hw2-robotics-vision-language",
