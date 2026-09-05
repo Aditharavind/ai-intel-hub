@@ -1,5 +1,41 @@
 [
   {
+    "model": "OpenWAM/robotwin_dual_system_joint_self_attention_wan21_i2v_14b",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_wan21_i2v_14b",
+    "date": "2026-09-05",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "OpenWAM/robotwin_dual_system_joint_self_attention_cosmos3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_cosmos3",
+    "date": "2026-09-05",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "OpenWAM/robotwin_dual_system_joint_self_attention_cosmos25",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_cosmos25",
+    "date": "2026-09-05",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "OpenWAM/sft_two_stage_robotwin_clean",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/sft_two_stage_robotwin_clean",
+    "date": "2026-09-05",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "OpenWAM/sft_robot_only_robotwin_clean",
     "downloads": 0,
     "likes": 0,
@@ -67,42 +103,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/OpenWAM/pretrain_robot_only",
-    "date": "2026-09-04",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "OpenWAM/pretrain_ego_robot_cotrain_mutual",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/pretrain_ego_robot_cotrain_mutual",
-    "date": "2026-09-04",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "OpenWAM/pretrain_ego_robot_cotrain_action_sees_video",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/pretrain_ego_robot_cotrain_action_sees_video",
-    "date": "2026-09-04",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "OpenWAM/robotwin_dual_system_joint_self_attention_video_sees_action",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_video_sees_action",
-    "date": "2026-09-04",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "OpenWAM/robotwin_dual_system_joint_self_attention_mutual_new",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_mutual_new",
     "date": "2026-09-04",
     "keyword": "robot",
     "score": 0.1
@@ -270,6 +270,15 @@
     "score": 0.1
   },
   {
+    "model": "Jycccc111/Go-Policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Jycccc111/Go-Policy",
+    "date": "2026-09-04",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "geonmin-kim/Cosmos3-Edge-Policy-DROID-FastWAM-v3",
     "downloads": 0,
     "likes": 0,
@@ -310,15 +319,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/policyengine/policyengine-uk-data-private",
-    "date": "2026-09-04",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Jycccc111/Go-Policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Jycccc111/Go-Policy",
     "date": "2026-09-04",
     "keyword": "policy",
     "score": 0.1

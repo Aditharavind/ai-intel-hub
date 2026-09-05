@@ -1,13 +1,63 @@
 [
   {
     "repo": "NVIDIA/skills",
-    "stars": 3205,
+    "stars": 3206,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
-    "date": "2026-09-04",
+    "date": "2026-09-05",
     "topic": "physical-ai",
-    "score": 1282.1
+    "score": 1282.5
+  },
+  {
+    "repo": "questdb/questdb",
+    "stars": 17301,
+    "language": "Java",
+    "description": "QuestDB is a high performance, open-source, time-series database",
+    "url": "https://github.com/questdb/questdb",
+    "date": "2026-09-05",
+    "topic": "robotics",
+    "score": 6920.5
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "stars": 14346,
+    "language": "Python",
+    "description": "A library of agent skills for CAD, CAE and CAM",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "date": "2026-09-05",
+    "topic": "robotics",
+    "score": 5738.5
+  },
+  {
+    "repo": "deeplethe/utopia",
+    "stars": 3913,
+    "language": "Rust",
+    "description": "World's first open-source enterprise world model.",
+    "url": "https://github.com/deeplethe/utopia",
+    "date": "2026-09-05",
+    "topic": "world-model",
+    "score": 1565.3
+  },
+  {
+    "repo": "softmata/horus",
+    "stars": 433,
+    "language": "Rust",
+    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
+    "url": "https://github.com/softmata/horus",
+    "date": "2026-09-05",
+    "topic": "humanoid",
+    "score": 173.3
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 8041,
+    "language": "Python",
+    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-09-05",
+    "topic": "robot-learning",
+    "score": 3216.5
   },
   {
     "repo": "copper-project/copper-rs",
@@ -50,44 +100,24 @@
     "score": 25429.7
   },
   {
-    "repo": "questdb/questdb",
-    "stars": 17301,
-    "language": "Java",
-    "description": "QuestDB is a high performance, open-source, time-series database",
-    "url": "https://github.com/questdb/questdb",
-    "date": "2026-09-04",
-    "topic": "robotics",
-    "score": 6920.5
-  },
-  {
     "repo": "ArduPilot/ardupilot",
-    "stars": 15807,
+    "stars": 15808,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-09-04",
     "topic": "robotics",
-    "score": 6322.9
+    "score": 6323.3
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14928,
+    "stars": 14929,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-09-04",
     "topic": "robotics",
-    "score": 5971.3
-  },
-  {
-    "repo": "earthtojake/text-to-cad",
-    "stars": 14337,
-    "language": "Python",
-    "description": "A library of agent skills for CAD, CAE and CAM",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "date": "2026-09-04",
-    "topic": "robotics",
-    "score": 5734.9
+    "score": 5971.7
   },
   {
     "repo": "rerun-io/rerun",
@@ -121,23 +151,23 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3532,
+    "stars": 3533,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-09-04",
     "topic": "embodied-ai",
-    "score": 1412.9
+    "score": 1413.3
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2433,
+    "stars": 2436,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-09-04",
     "topic": "robot-learning",
-    "score": 973.3
+    "score": 974.5
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -211,23 +241,13 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6663,
+    "stars": 6664,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-09-04",
     "topic": "world-model",
-    "score": 2665.3
-  },
-  {
-    "repo": "deeplethe/utopia",
-    "stars": 3841,
-    "language": "Rust",
-    "description": "World's first open-source enterprise world model.",
-    "url": "https://github.com/deeplethe/utopia",
-    "date": "2026-09-04",
-    "topic": "world-model",
-    "score": 1536.5
+    "score": 2665.7
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -250,16 +270,6 @@
     "score": 491.7
   },
   {
-    "repo": "softmata/horus",
-    "stars": 433,
-    "language": "Rust",
-    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
-    "url": "https://github.com/softmata/horus",
-    "date": "2026-09-04",
-    "topic": "humanoid",
-    "score": 173.3
-  },
-  {
     "repo": "ROBOTIS-GIT/ai_worker",
     "stars": 181,
     "language": "Python",
@@ -278,16 +288,6 @@
     "date": "2026-09-04",
     "topic": "humanoid",
     "score": 20.9
-  },
-  {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 8041,
-    "language": "Python",
-    "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-09-04",
-    "topic": "robot-learning",
-    "score": 3216.5
   },
   {
     "repo": "Hebbian-Robotics/hflow",
@@ -451,13 +451,13 @@
   },
   {
     "repo": "robocasa/robocasa",
-    "stars": 1701,
+    "stars": 1703,
     "language": "Python",
     "description": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
     "url": "https://github.com/robocasa/robocasa",
     "date": "2026-09-02",
     "topic": "robot-learning",
-    "score": 680.5
+    "score": 681.3
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",
@@ -581,23 +581,23 @@
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
-    "stars": 3207,
+    "stars": 3208,
     "language": "HTML",
     "description": "BOM, STL files and instructions for PAROL6 3D printed robot arm",
     "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
     "date": "2026-08-31",
     "topic": "lerobot",
-    "score": 1282.9
+    "score": 1283.3
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 83410,
+    "stars": 83413,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-08-30",
     "topic": "robotics",
-    "score": 33364.1
+    "score": 33365.3
   },
   {
     "repo": "NVlabs/alpamayo",
@@ -641,13 +641,13 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16186,
+    "stars": 16187,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-08-27",
     "topic": "robotics",
-    "score": 6474.5
+    "score": 6474.9
   },
   {
     "repo": "HansZ8/RoboJuDo",
@@ -661,13 +661,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15788,
+    "stars": 15790,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-26",
     "topic": "embodied-ai",
-    "score": 6315.3
+    "score": 6316.1
   },
   {
     "repo": "Open-X-Humanoid/x-humanoid-training-toolchain",
