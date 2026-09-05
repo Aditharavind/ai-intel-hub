@@ -1,5 +1,32 @@
 [
   {
+    "model": "zaleni/Internvla-A1_5-Robotwin-60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zaleni/Internvla-A1_5-Robotwin-60k",
+    "date": "2026-09-05",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "robotensor/bpp-libero-genesis",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotensor/bpp-libero-genesis",
+    "date": "2026-09-05",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "OpenWAM/robotwin_dual_system_joint_self_attention_cosmos25",
+    "downloads": 6,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_cosmos25",
+    "date": "2026-09-05",
+    "keyword": "robot",
+    "score": 1.9
+  },
+  {
     "model": "milab-robot/alm1-0731-milab.60",
     "downloads": 0,
     "likes": 0,
@@ -81,31 +108,13 @@
     "score": 1.9
   },
   {
-    "model": "OpenWAM/robotwin_dual_system_joint_self_attention_wan21_i2v_14b",
-    "downloads": 6,
+    "model": "vlabki/rr-v2",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_wan21_i2v_14b",
+    "url": "https://huggingface.co/vlabki/rr-v2",
     "date": "2026-09-05",
-    "keyword": "robot",
-    "score": 1.9
-  },
-  {
-    "model": "OpenWAM/robotwin_dual_system_joint_self_attention_cosmos3",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_cosmos3",
-    "date": "2026-09-05",
-    "keyword": "robot",
-    "score": 1.9
-  },
-  {
-    "model": "OpenWAM/robotwin_dual_system_joint_self_attention_cosmos25",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_cosmos25",
-    "date": "2026-09-05",
-    "keyword": "robot",
-    "score": 1.9
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "zenaiturbo/lingbot-vla-2.0-3CMtXFSpMnkK",
@@ -207,13 +216,40 @@
     "score": 0.1
   },
   {
-    "model": "yiyiyi066/11_sep_nosta-lan-frozen-wm-vla",
-    "downloads": 6,
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch3-stage2-full-epoch1",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/yiyiyi066/11_sep_nosta-lan-frozen-wm-vla",
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch3-stage2-full-epoch1",
     "date": "2026-09-05",
-    "keyword": "vla",
-    "score": 1.9
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch3-stage2-full-epoch0.75",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch3-stage2-full-epoch0.75",
+    "date": "2026-09-05",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch3-stage2-full-epoch0.5",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch3-stage2-full-epoch0.5",
+    "date": "2026-09-05",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch3-stage2-full-epoch0.25",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-stage1-full-epoch3-stage2-full-epoch0.25",
+    "date": "2026-09-05",
+    "keyword": "world model",
+    "score": 0.1
   },
   {
     "model": "Jycccc111/Go-Policy",
@@ -531,15 +567,6 @@
     "score": 1.7
   },
   {
-    "model": "commaai/worldmodel-4B",
-    "downloads": 0,
-    "likes": 2,
-    "url": "https://huggingface.co/commaai/worldmodel-4B",
-    "date": "2026-09-01",
-    "keyword": "world model",
-    "score": 0.5
-  },
-  {
     "model": "haozhou994795/embodied-ai-study",
     "downloads": 11,
     "likes": 0,
@@ -574,33 +601,6 @@
     "date": "2026-09-01",
     "keyword": "robotics",
     "score": 0.1
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-action-only-stage1-full-epoch2",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-action-only-stage1-full-epoch2",
-    "date": "2026-08-31",
-    "keyword": "world model",
-    "score": 4.6
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-action-only-stage1-full-epoch1",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-action-only-stage1-full-epoch1",
-    "date": "2026-08-31",
-    "keyword": "world model",
-    "score": 5.2
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-action-only-stage1-full-epoch3",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-action-only-stage1-full-epoch3",
-    "date": "2026-08-31",
-    "keyword": "world model",
-    "score": 5.2
   },
   {
     "model": "Jessicarodriguez/embodied-ai-int498",
