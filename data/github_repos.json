@@ -31,23 +31,23 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44504,
+    "stars": 44502,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-09-05",
     "topic": "robotics",
-    "score": 17801.7
+    "score": 17800.9
   },
   {
     "repo": "questdb/questdb",
-    "stars": 17304,
+    "stars": 17305,
     "language": "Java",
     "description": "QuestDB is a high performance, open-source, time-series database",
     "url": "https://github.com/questdb/questdb",
     "date": "2026-09-05",
     "topic": "robotics",
-    "score": 6921.7
+    "score": 6922.1
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -71,13 +71,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 14424,
+    "stars": 14433,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-09-05",
     "topic": "robotics",
-    "score": 5769.7
+    "score": 5773.3
   },
   {
     "repo": "rerun-io/rerun",
@@ -91,23 +91,23 @@
   },
   {
     "repo": "dora-rs/dora",
-    "stars": 3922,
+    "stars": 3923,
     "language": "Rust",
     "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
     "url": "https://github.com/dora-rs/dora",
     "date": "2026-09-05",
     "topic": "embodied-ai",
-    "score": 1568.9
+    "score": 1569.3
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3541,
+    "stars": 3542,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-09-05",
     "topic": "embodied-ai",
-    "score": 1416.5
+    "score": 1416.9
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
@@ -121,13 +121,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS-core",
-    "stars": 2059,
+    "stars": 2060,
     "language": "Python",
     "description": "PhyAgentOS is a Recursive Self-Improving (RSI)  physical agent operating system that enables agents to recursively self-improve through agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
     "date": "2026-09-05",
     "topic": "embodied-ai",
-    "score": 823.7
+    "score": 824.1
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -136,7 +136,7 @@
     "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
     "url": "https://github.com/leofan90/Awesome-World-Models",
     "date": "2026-09-05",
-    "topic": "world-model",
+    "topic": "embodied-ai",
     "score": 799.3
   },
   {
@@ -158,26 +158,6 @@
     "date": "2026-09-05",
     "topic": "vla",
     "score": 179.7
-  },
-  {
-    "repo": "vllm-project/vllm-omni",
-    "stars": 6669,
-    "language": "Python",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "url": "https://github.com/vllm-project/vllm-omni",
-    "date": "2026-09-05",
-    "topic": "world-model",
-    "score": 2667.7
-  },
-  {
-    "repo": "deeplethe/utopia",
-    "stars": 4504,
-    "language": "Rust",
-    "description": "World's first open-source enterprise world model.",
-    "url": "https://github.com/deeplethe/utopia",
-    "date": "2026-09-05",
-    "topic": "world-model",
-    "score": 1801.7
   },
   {
     "repo": "NVlabs/ProtoMotions",
@@ -330,26 +310,6 @@
     "score": 218.5
   },
   {
-    "repo": "LMD0311/Awesome-World-Model",
-    "stars": 2235,
-    "language": "",
-    "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
-    "url": "https://github.com/LMD0311/Awesome-World-Model",
-    "date": "2026-09-04",
-    "topic": "world-model",
-    "score": 894.1
-  },
-  {
-    "repo": "inclusionAI/AWorld",
-    "stars": 1229,
-    "language": "Python",
-    "description": "Search, understand, reproduce, and improve an idea with ease",
-    "url": "https://github.com/inclusionAI/AWorld",
-    "date": "2026-09-04",
-    "topic": "world-model",
-    "score": 491.7
-  },
-  {
     "repo": "ImIntheMiddle/EmLoco",
     "stars": 52,
     "language": "Python",
@@ -421,13 +381,13 @@
   },
   {
     "repo": "PetoiCamp/OpenCat-Quadruped-Robot",
-    "stars": 5262,
+    "stars": 5263,
     "language": "C++",
     "description": "An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development. ",
     "url": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot",
     "date": "2026-09-02",
     "topic": "physical-ai",
-    "score": 2104.9
+    "score": 2105.3
   },
   {
     "repo": "PetoiCamp/OpenCat-Old",
@@ -451,13 +411,13 @@
   },
   {
     "repo": "PetoiCamp/OpenCatEsp32-Quadruped-Robot",
-    "stars": 339,
+    "stars": 340,
     "language": "C++",
     "description": "An ESP32-based open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.",
     "url": "https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot",
     "date": "2026-09-02",
     "topic": "physical-ai",
-    "score": 135.7
+    "score": 136.1
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -468,26 +428,6 @@
     "date": "2026-09-02",
     "topic": "robotics",
     "score": 12180.1
-  },
-  {
-    "repo": "galilai-group/stable-worldmodel",
-    "stars": 2175,
-    "language": "Python",
-    "description": "A platform for reproducible world model research and evaluation",
-    "url": "https://github.com/galilai-group/stable-worldmodel",
-    "date": "2026-09-02",
-    "topic": "world-model",
-    "score": 870.1
-  },
-  {
-    "repo": "simchowitzlabpublic/nano-world-model",
-    "stars": 725,
-    "language": "Python",
-    "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science.",
-    "url": "https://github.com/simchowitzlabpublic/nano-world-model",
-    "date": "2026-09-02",
-    "topic": "world-model",
-    "score": 290.1
   },
   {
     "repo": "robocasa/robocasa",
@@ -531,13 +471,13 @@
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3393,
+    "stars": 3394,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-09-01",
     "topic": "embodied-ai",
-    "score": 1357.3
+    "score": 1357.7
   },
   {
     "repo": "worldbench/awesome-vla-for-ad",
@@ -650,16 +590,6 @@
     "score": 145.3
   },
   {
-    "repo": "thu-ml/Causal-Forcing",
-    "stars": 948,
-    "language": "Python",
-    "description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\" & Causal Forcing++",
-    "url": "https://github.com/thu-ml/Causal-Forcing",
-    "date": "2026-08-28",
-    "topic": "world-model",
-    "score": 379.3
-  },
-  {
     "repo": "OpenHUTB/hutb",
     "stars": 565,
     "language": "C++",
@@ -671,13 +601,13 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16187,
+    "stars": 16188,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-08-27",
     "topic": "robotics",
-    "score": 6474.9
+    "score": 6475.3
   },
   {
     "repo": "HansZ8/RoboJuDo",
@@ -710,16 +640,6 @@
     "score": 30.9
   },
   {
-    "repo": "PKU-YuanGroup/Helios",
-    "stars": 2135,
-    "language": "Python",
-    "description": "Helios: Real Real-Time Long Video Generation Model",
-    "url": "https://github.com/PKU-YuanGroup/Helios",
-    "date": "2026-08-24",
-    "topic": "world-model",
-    "score": 854.1
-  },
-  {
     "repo": "roboninecom/SO-ARM100-101-Parallel-Gripper",
     "stars": 169,
     "language": "Python",
@@ -746,7 +666,7 @@
     "description": "Unified Codebase for Advanced World Models.",
     "url": "https://github.com/OpenDCAI/OpenWorldLib",
     "date": "2026-08-23",
-    "topic": "world-model",
+    "topic": "vla",
     "score": 346.1
   },
   {
@@ -758,26 +678,6 @@
     "date": "2026-08-23",
     "topic": "humanoid",
     "score": 46.5
-  },
-  {
-    "repo": "NucleoidAI/Nucleoid",
-    "stars": 769,
-    "language": "Rust",
-    "description": "Logic Language for LLMs 🌱🐋 Build World Models 🌍",
-    "url": "https://github.com/NucleoidAI/Nucleoid",
-    "date": "2026-08-22",
-    "topic": "world-model",
-    "score": 307.7
-  },
-  {
-    "repo": "zli12321/Vision-Language-Models-Overview",
-    "stars": 706,
-    "language": "HTML",
-    "description": "A most Frontend Collection and survey of vision-language model papers, and models GitHub repository. Continuous updates.",
-    "url": "https://github.com/zli12321/Vision-Language-Models-Overview",
-    "date": "2026-08-22",
-    "topic": "world-model",
-    "score": 282.5
   },
   {
     "repo": "RayYoh/Awesome-Robot-Learning",
