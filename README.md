@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-05 16:18 UTC
+Last Updated: 2026-09-05 18:37 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-05 | Voicebox FX is a Blueprint for CircuitPython I2S Audio | Hackaday | [link](https://hackaday.com/2026/09/05/voicebox-fx-is-a-blueprint-for-circuitpython-i2s-audio/) |
 | 2026-09-05 | If at First You Don’t Succeed… | Hackaday | [link](https://hackaday.com/2026/09/05/if-at-first-you-dont-succeed/) |
 | 2026-09-05 | Running Generative AI on an RP2350 | Hackaday | [link](https://hackaday.com/2026/09/05/running-generative-ai-on-an-rp2350/) |
 | 2026-09-05 | Free Your Rotary Telephone From Its Wire | Hackaday | [link](https://hackaday.com/2026/09/05/free-your-rotary-telephone-from-its-wire/) |
@@ -56,9 +57,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-05 | Parchment Paper Paired With 3D-Printed Grid Gives a Nice Glow | Hackaday | [link](https://hackaday.com/2026/09/04/parchment-paper-paired-with-3d-printed-grid-gives-a-nice-glow/) |
 | 2026-09-05 | OpenTrailPaper transforms LILYGO T5 E-Paper S3 Pro devkit into a DIY e‑paper bike computer | CNX Software | [link](https://www.cnx-software.com/2026/09/05/opentrailpaper-transforms-lilygo-t5-e-paper-s3-pro-devkit-into-a-diy-e-paper-bike-computer/) |
 | 2026-09-05 | Microchip, Marelli Target Software-Defined Vehicle Display Systems | Embedded.com | [link](https://www.embedded.com/microchip-marelli-target-software-defined-vehicle-display-systems/) |
+| 2026-09-05 | The Business Card That Lights Up Without Batteries | Adafruit | [link](https://blog.adafruit.com/2026/09/05/the-business-card-that-lights-up-without-batteries/) |
 | 2026-09-05 | Refurbishing a Tektronix TDS7104 oscilloscope | Adafruit | [link](https://blog.adafruit.com/2026/09/05/refurbishing-a-tektronix-tds7104-oscilloscope/) |
-| 2026-09-04 | Fixing an Expensive Seagate LaCie Hard Drive Array | Hackaday | [link](https://hackaday.com/2026/09/04/fixing-an-expensive-seagate-lacie-hard-drive-array/) |
-| 2026-09-04 | Making a Pole Balance Itself With Propellers | Hackaday | [link](https://hackaday.com/2026/09/04/making-a-pole-balance-itself-with-propellers/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -93,12 +93,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 3210 | Python | 1284.1 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1479 | Rust | 591.7 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63580 | Python | 25432.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44503 | JavaScript | 17801.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| commaai/openpilot | 63579 | Python | 25431.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44504 | JavaScript | 17801.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | questdb/questdb | 17304 | Java | 6921.7 | [link](https://github.com/questdb/questdb) |
 | ArduPilot/ardupilot | 15811 | C++ | 6324.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 14933 | C++ | 5973.3 | [link](https://github.com/google-deepmind/mujoco) |
-| earthtojake/text-to-cad | 14418 | Python | 5767.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 14937 | C++ | 5974.9 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 14424 | Python | 5769.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | rerun-io/rerun | 11401 | Rust | 4560.5 | [link](https://github.com/rerun-io/rerun) |
 | dora-rs/dora | 3922 | Rust | 1568.9 | [link](https://github.com/dora-rs/dora) |
 
@@ -127,8 +127,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-02 | Lyte raises $165 million at $1.6 billion valuation as investors pile into physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVjRhZi1ZcFhBVFA5aXhnbWFIOGpTUDRrRVdONVBjZGF1SEZlZE5ab1hJOGM5WEJOajlXZUt4QnAtZ1NuZnIzVHNnMk5LcGlYR1luUW1xbnRMU2xzWkZTR0ZNZklsVHM?oc=5) |
 | 2026-09-02 | Nio CEO Says Bet on VP’s Robotics Startup Allows Tracking Physical AI Without Hitting P&L - eletric-vehicles.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxQS1BKSWZ5OXc1NE82UVNBblZSOUx3alN3Y0JPeFZCcXd3RHI3WVNrMXJNU0hFc2NTR1dSZjlnYmxuMnpyVGhEM3M3NUkwWXpKb00wMTRfU2dEQTg2R3hEc2NHaUpBalBhYUQwQnlxeUFJYU83ckpiVTk1YUpZem1VbEI2ZjJNM0tPWG5JbExQNk04UHhQV01oLU02cmZuemRpWlNUV2pocU95cVBJb1JyNV92Z3JXOHlGdmNSWk13?oc=5) |
 | 2026-09-02 | Humanoid robot market ‘will be 10x the size of auto industry within years’ - The Independent | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUS1iWDQzRl9xanRUTXJpblVrUTJSN1J0cmJiYl9tVVdQdFZXN2hDRXVsNWFkbFVpaWN6M0hqU3ZOM3ZKVFVJWTEwZVNBVHg4VHV6MWFTdFFqOFpuQXJTX2J2RmRHZVNUdXZxUlNLZ0dVYm1yM05WM0RZWlVCd18yZ1QzN3ZRT3lIY09WT2NKaWRvS2Zh?oc=5) |
-| 2026-09-01 | From Computer Vision to Physical AI – The Next Frontier for 3D Metrology - metrology.news | physical ai startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxNNERXekpncGxUSjNOeGJ4OGplSW5Cc3ZNSFo4MjcwejZsQ3l1T2ZpSjg3N1FmU1Y0cEpPYmxta1RiVXlsRUNDeTViZV84alFIa25HR21OMWRELWdMV1Y5SnZlM3lwN2lfcVVMaVY5NHJhMVJVREMtVXdEUzhfbXotT0ZQWXVSU3hPQW1ZbGxzN0FCNHVvTzR1U0Fn?oc=5) |
-| 2026-08-30 | Tyler Raciti & Chet Ellis On Volumes, Their Startup Building Superintelligent Data for Physical AI - medium.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLXhNSU90NEpuTzVOclhreGs3dEhnT0NVc2xNUlgxYTRGTERjUGI1UVp2RjJXSE9KdE1GcDhvR2l0X19paU5pU2lQTG9mRHhzcGFhTTBTUDFnUGc4c0htX3RuSGE4UndoOUtQdVpaMGZXQl8xVDVLVHhUM2JLNllSYXNYQllmcHp6ajFleUM0WlNhYmlScXI1Q0F3bGdEQ29kVklDUHpSVEpBNExFUG10QVpZV2g1SXVCSHhFQlduSlRMV3hBck55aWxyMm1rNldwR2IzTl8tblAtWHlQU1B3?oc=5) |
+| 2026-09-01 | From Computer Vision to Physical AI – The Next Frontier for 3D Metrology - Metrology and Quality News | physical ai startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxNNERXekpncGxUSjNOeGJ4OGplSW5Cc3ZNSFo4MjcwejZsQ3l1T2ZpSjg3N1FmU1Y0cEpPYmxta1RiVXlsRUNDeTViZV84alFIa25HR21OMWRELWdMV1Y5SnZlM3lwN2lfcVVMaVY5NHJhMVJVREMtVXdEUzhfbXotT0ZQWXVSU3hPQW1ZbGxzN0FCNHVvTzR1U0Fn?oc=5) |
+| 2026-08-30 | Tyler Raciti & Chet Ellis On Volumes, Their Startup Building Superintelligent Data for Physical AI - Medium | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLXhNSU90NEpuTzVOclhreGs3dEhnT0NVc2xNUlgxYTRGTERjUGI1UVp2RjJXSE9KdE1GcDhvR2l0X19paU5pU2lQTG9mRHhzcGFhTTBTUDFnUGc4c0htX3RuSGE4UndoOUtQdVpaMGZXQl8xVDVLVHhUM2JLNllSYXNYQllmcHp6ajFleUM0WlNhYmlScXI1Q0F3bGdEQ29kVklDUHpSVEpBNExFUG10QVpZV2g1SXVCSHhFQlduSlRMV3hBck55aWxyMm1rNldwR2IzTl8tblAtWHlQU1B3?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

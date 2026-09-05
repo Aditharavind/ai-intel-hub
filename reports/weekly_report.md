@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-05 16:18 UTC
+Generated: 2026-09-05 18:37 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,9 +15,9 @@ Generated: 2026-09-05 16:18 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83418 | 33367.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63580 | 25432.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44503 | 17801.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30449 | 12179.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| commaai/openpilot | 63579 | 25431.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44504 | 17801.7 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30450 | 12180.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | questdb/questdb | 17304 | 6921.7 | [link](https://github.com/questdb/questdb) |
 
 ## Top Models
@@ -26,8 +26,8 @@ Generated: 2026-09-05 16:18 UTC
 | litert-community/LFM2.5-Encoder-350M-Policy-Linter | 221 | 66.4 | [link](https://huggingface.co/litert-community/LFM2.5-Encoder-350M-Policy-Linter) |
 | jagwang/mungkeul-physical-ai | 87 | 26.2 | [link](https://huggingface.co/jagwang/mungkeul-physical-ai) |
 | physicalairi/so101_1200ep_smolvla | 55 | 16.6 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
-| jogarulfop/policy_2026-08-31_shake4it_bench_5sensors_pastille_pzt_10kHz_nfft_512 | 45 | 13.6 | [link](https://huggingface.co/jogarulfop/policy_2026-08-31_shake4it_bench_5sensors_pastille_pzt_10kHz_nfft_512) |
 | hfunknown/qwen3-8b-navigation-lora-persistent | 40 | 12.1 | [link](https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-persistent) |
+| hfunknown/qwen3-8b-navigation-lora-stateless | 37 | 11.2 | [link](https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-stateless) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
