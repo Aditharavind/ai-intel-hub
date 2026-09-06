@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-06 09:44 UTC
+Last Updated: 2026-09-06 13:12 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-06 | Pressure sensors can help improve robotic gripping accuracy | Robotics Business Review | [link](https://www.therobotreport.com/pressure-sensors-can-help-improve-robotic-gripping-accuracy/) |
 | 2026-09-05 | Cyborg Roaches Can Stab You With Needles | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/cyborg-rescue-roach) |
 | 2026-09-05 | Enovis to acquire surgical tech provider eCential Robotics for $180M | Robotics Business Review | [link](https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/) |
 | 2026-09-05 | ARM Institute gets $90M for 10 projects to modernize military manufacturing | Robotics Business Review | [link](https://www.therobotreport.com/arm-institute-gets-90m-for-10-projects-to-modernize-military-manufacturing/) |
@@ -44,11 +45,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-04 | Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar | Robotics Business Review | [link](https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/) |
 | 2026-09-04 | Video Friday: Digit Redecorates | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-agility-robotics-digit) |
 | 2026-09-03 | PlusAI to take autonomous trucking public via a SPAC deal | Robotics Business Review | [link](https://www.therobotreport.com/plusai-takes-autonomous-trucking-public-via-spac-deal/) |
-| 2026-09-03 | Protecting Dynamic Industrial Robot Cable Carriers | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/industrial-robot-cable-carrier-protection) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-06 | Printing Micron-Scale Benchies With Resin and Turmeric | Hackaday | [link](https://hackaday.com/2026/09/06/printing-micron-scale-benchies-with-resin-and-turmeric/) |
 | 2026-09-06 | WordStar Lives Again (and Again) | Hackaday | [link](https://hackaday.com/2026/09/06/wordstar-lives-again-and-again/) |
 | 2026-09-06 | There’s Whole Computer Inside This Mouse | Hackaday | [link](https://hackaday.com/2026/09/05/theres-whole-computer-inside-this-mouse/) |
 | 2026-09-06 | Can AI Now Design PCBs That Just Work? | Hackaday | [link](https://hackaday.com/2026/09/05/can-ai-now-design-pcbs-that-just-work/) |
@@ -56,7 +57,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-05 | Running Apple ][ Software on a Commodore 64 — Silently | Hackaday | [link](https://hackaday.com/2026/09/05/running-apple-software-on-a-commodore-64-silently/) |
 | 2026-09-05 | Pixel Watch 5 Demonstrates Good Repairability | Hackaday | [link](https://hackaday.com/2026/09/05/pixel-watch-5-demonstrates-good-repairability/) |
 | 2026-09-05 | Voicebox FX is a Blueprint for CircuitPython I2S Audio | Hackaday | [link](https://hackaday.com/2026/09/05/voicebox-fx-is-a-blueprint-for-circuitpython-i2s-audio/) |
-| 2026-09-05 | If at First You Don’t Succeed… | Hackaday | [link](https://hackaday.com/2026/09/05/if-at-first-you-dont-succeed/) |
 | 2026-09-05 | OpenTrailPaper transforms LILYGO T5 E-Paper S3 Pro devkit into a DIY e‑paper bike computer | CNX Software | [link](https://www.cnx-software.com/2026/09/05/opentrailpaper-transforms-lilygo-t5-e-paper-s3-pro-devkit-into-a-diy-e-paper-bike-computer/) |
 | 2026-09-05 | Microchip, Marelli Target Software-Defined Vehicle Display Systems | Embedded.com | [link](https://www.embedded.com/microchip-marelli-target-software-defined-vehicle-display-systems/) |
 
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-06 | Ryan-77/lancewam-robotwin | 0 | 0 | [link](https://huggingface.co/Ryan-77/lancewam-robotwin) |
+| 2026-09-06 | dreamdifferent/vam-cross-level4-panda-robotiq-widowx-texture-ur5e-contact-v2-video-lora-iter400 | 0 | 0 | [link](https://huggingface.co/dreamdifferent/vam-cross-level4-panda-robotiq-widowx-texture-ur5e-contact-v2-video-lora-iter400) |
 | 2026-09-06 | OpenWAM/robotwin_tri_system_joint_self_attention | 7 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_tri_system_joint_self_attention) |
 | 2026-09-06 | dreamdifferent/vam-cross-level4-panda-robotiq-widowx-texture-ur5e-contact-v2-video-lora-iter200 | 0 | 0 | [link](https://huggingface.co/dreamdifferent/vam-cross-level4-panda-robotiq-widowx-texture-ur5e-contact-v2-video-lora-iter200) |
 | 2026-09-06 | milab-robot/alm1-0818-amore | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0818-amore) |
 | 2026-09-06 | milab-robot/alm1-0731-milab.60 | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.60) |
-| 2026-09-06 | sam-guided-vlas/train_1_2_pile_random_pose__point__separate_channel__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__point__separate_channel__sim__all_cameras__live__pi05__seed_0) |
-| 2026-09-06 | sam-guided-vlas/train_1_2_pile_random_pose__bbox__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__blur__sim__all_cameras__live__pi05__seed_0) |
-| 2026-09-06 | sam-guided-vlas/train_1_2_pile_random_pose__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0) |
-| 2026-09-06 | astonishingwolf/blorptron-qzx9-vla-scratchpile-7k2f | 0 | 0 | [link](https://huggingface.co/astonishingwolf/blorptron-qzx9-vla-scratchpile-7k2f) |
+| 2026-09-06 | sam-guided-vlas/train_1_2_pile_random_pose__mask__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__mask__blur__sim__all_cameras__live__pi05__seed_0) |
 | 2026-09-06 | sam-guided-vlas/train_1_2_pile_random_pose__mask__blur_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__mask__blur_a50__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-06 | khoavucao2511/so101_vla_jepa_openQwen3_openWM_22500steps_batch1_chunk16 | 0 | 0 | [link](https://huggingface.co/khoavucao2511/so101_vla_jepa_openQwen3_openWM_22500steps_batch1_chunk16) |
 | 2026-09-06 | sam-guided-vlas/train_1_2_pile_random_pose__mask__blackout__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__mask__blackout__sim__all_cameras__live__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3212 | Python | 1284.9 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3213 | Python | 1285.3 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1480 | Rust | 592.1 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63582 | Python | 25432.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63583 | Python | 25433.3 | [link](https://github.com/commaai/openpilot) |
+| questdb/questdb | 17308 | Java | 6923.3 | [link](https://github.com/questdb/questdb) |
 | dora-rs/dora | 3924 | Rust | 1569.7 | [link](https://github.com/dora-rs/dora) |
-| datawhalechina/every-embodied | 3544 | Python | 1417.7 | [link](https://github.com/datawhalechina/every-embodied) |
+| datawhalechina/every-embodied | 3545 | Python | 1418.1 | [link](https://github.com/datawhalechina/every-embodied) |
 | sou350121/VLA-Handbook | 591 | HTML | 236.5 | [link](https://github.com/sou350121/VLA-Handbook) |
 | vllm-project/vllm-omni | 6682 | Python | 2672.9 | [link](https://github.com/vllm-project/vllm-omni) |
-| deeplethe/utopia | 4913 | Rust | 1965.3 | [link](https://github.com/deeplethe/utopia) |
+| deeplethe/utopia | 5049 | Rust | 2019.7 | [link](https://github.com/deeplethe/utopia) |
 | softmata/horus | 433 | Rust | 173.3 | [link](https://github.com/softmata/horus) |
-| isaac-sim/IsaacLab | 8050 | Python | 3220.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -114,13 +114,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-08-25 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5) |
 | 2026-08-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxQNVdhVV9sQ19COVBLaF9BMi1adTlva0lWSHBWOXcyV1VEaXA1U3lpN3JnV2RIM1BMOVhSN1hMUW9qclhhOWVKVVNteWUxcFhRVzY3OUdTZVpxVjRNc1FKUFk0VTF3Z1BxUXVXb3BlRUVrMk5BMTlsalZaRUZtOWZKTS16cXF4d0dkLUJZaFFnS2hjQm9FSmJvRE1zcDFUb2Q1aWQySTU3ZURWWkdLbjJwME5uQVBmd0h0VlpaOGdHY0w0VTRPRDVfYzBfLUNEdW8?oc=5) |
 | 2026-08-21 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxPZS1YZUwzYTV0RFowdThSZmJldmdYa3VINHVZZjJZdXo3b3MxMHdnV2lsWTU2UEc5M01WUlktR2pSWUVTcjRZQUttcEVsWGZrTmVLMndjVUFaWlFvelQzZmpDMm9Pc0ZsdGlvZV9YMExUdVFVVTF5cXJ5b3hpXzBRdTExYUdLOW5Cczc5RWo0Y20yd0RNVFpSenJJR2podFJBNXhXV2c2N1BQenNadDhXbWhpS1ZNeUpZY3NMUkV6U2NvVTgz?oc=5) |
-| 2026-08-20 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhLOS1OTWxZdzBsWFYxXzBybFo0dU1LdTVLLTgzWEtlNDlMRm1uRjQ0R3lSOWpna0dkanhMR0dGV0RVOUVzRFZWbFZJejNMWEQ5NXRKaFc5MTVrN3ZIdnpmQ1p5UUVrV3lOMUI0X0ktTjQ0MEM1bTFzaXg3d1dBT1NXY2FmZkRnRW03ZUo4VEx3cFU3SVVFdVQzZUtVSWpWZlFYM0diQi1Wb1lJVGZn?oc=5) |
+| 2026-08-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWx4dUhBckpyUko4NGppNk8tLWtCbzdhaHVaQzdKanVIZFVxdXJsWXhUZi12c2pMRGg2VFc5MVhIR184UkFTa3FWZTBtaTI0SXNjSllfS3dIMjltTVdnYWFsQS1XZVBKM2lvME5JdGJrTE5qNG5KVXMtWWE5QUxfV1pxdTJYZ0U4RGFnTDAzR1hmUQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-05 | Korea Bets Its Physical AI Advantage on Manufacturing Depth - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0tMWTJjLV9XZXRsOVVFU2d4OEx6c3BvX2F2NHV2MXFtYkNsY0w1Wjd2VDlaYUp4ZzRzX3JhWm4yTGt5amM5R0Vscm5ENmYxRjhQcHFPZEZIQ0VvU3NQZXlGU21lbnc3V3VXUzJmRkdjOWJVOHAtNmExT1FER01DTFBmSVVIM1Ju?oc=5) |
-| 2026-09-04 | Nvidia-Backed Japanese Startup Pushes Ahead in Physical AI - newsonjapan.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CX2ZzSkFMclhGaHExUVZwanYxLVNCTEVfbmJMWjVnUnBlTVV0dnVaZHRsdTlBb284c3ltd2VsVUdiNkhWa3kyZExxZzdoVlh1MTZhVA?oc=5) |
+| 2026-09-05 | Korea Bets Its Physical AI Advantage on Manufacturing Depth - koreatechdesk.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0tMWTJjLV9XZXRsOVVFU2d4OEx6c3BvX2F2NHV2MXFtYkNsY0w1Wjd2VDlaYUp4ZzRzX3JhWm4yTGt5amM5R0Vscm5ENmYxRjhQcHFPZEZIQ0VvU3NQZXlGU21lbnc3V3VXUzJmRkdjOWJVOHAtNmExT1FER01DTFBmSVVIM1Ju?oc=5) |
+| 2026-09-04 | Nvidia-Backed Japanese Startup Pushes Ahead in Physical AI - News On Japan | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CX2ZzSkFMclhGaHExUVZwanYxLVNCTEVfbmJMWjVnUnBlTVV0dnVaZHRsdTlBb284c3ltd2VsVUdiNkhWa3kyZExxZzdoVlh1MTZhVA?oc=5) |
 | 2026-09-03 | German robot startup Agile expects humanoid robot market to overtake auto industry - ET Auto | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZTVMUmg0LXV1ZkZhSGI3N0dCU3drYmhTSy11MEZaeEZKQ0tQX3o0d3FYSVNNU3RKRWtXSE9TX0ZGY05HTEx5TFdPN3JqMU5FYkhGRDFjN2JZRlZ0OW1OU1VtQjNUUENvM0F2N0VZNUVSV3ZqZ3FuREJDd215RUxyUE1FMjhKb0FfcnYzbWFHNWt4OWMxNGU3c05nVzZobTVrRVkxNUd0SEZ2cUJRRFJNcWFhTUN1TjhJRW5QUzZiVUZ2U2VCeVdEdWpvQVRVMUlqQk1VNmFMQnU2N3pKRGd0RFQ0a0VTQmhyN1c40gHwAUFVX3lxTE1EdHlvOXlwNEQwTlpIQ240elNITVo2ZGVTSUhqdVhEb3FDVEU2d2NKZy1ZLWwzVGxOSFBDS0N2Z3BrOEtzcEVfYUpjeG9oQTZlSkliamFxdmZ0YnZaSDEzd1JtakJES2IySjlxVUt6eWd3eS1uUDFMcVU4VG9RdGVGVk14MmF5cG9VWFNpc2JRTDJ0RzZhakZmRFNGb0QwWGFFT0pfbm5JUEZiZVhLV0JFYVlRdHpiQll5NzQwcmhwbnNUVDRwWVd1c0czTTV4aC0wNjNWX0FYb3VFdHg1X0U1TzUyOWhDRm9xQ1lCTjZpbg?oc=5) |
 | 2026-09-02 | Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQXh1MVAzU0F0YTc1RUtmRHJLb1R3alkxSlVaOTBiMEpFZVVNWDF4OU9YUnEwVkhDdVJKV1FHbXpkQmlKaTBPcGtBMkhObU5RZHF5bVhwWnlqbTVCQko1MEp1U0hpUjZzSHNnZldON0ZqdU0xNXVZQm1jdEZxMVpRTjN5cVlLVDI1Q3dxUg?oc=5) |
 | 2026-09-02 | Lyte raises $165 million at $1.6 billion valuation as investors pile into physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVjRhZi1ZcFhBVFA5aXhnbWFIOGpTUDRrRVdONVBjZGF1SEZlZE5ab1hJOGM5WEJOajlXZUt4QnAtZ1NuZnIzVHNnMk5LcGlYR1luUW1xbnRMU2xzWkZTR0ZNZklsVHM?oc=5) |
