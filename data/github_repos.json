@@ -1,21 +1,11 @@
 [
   {
-    "repo": "NVIDIA/skills",
-    "stars": 3210,
-    "language": "Python",
-    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
-    "url": "https://github.com/NVIDIA/skills",
-    "date": "2026-09-05",
-    "topic": "physical-ai",
-    "score": 1284.1
-  },
-  {
     "repo": "copper-project/copper-rs",
     "stars": 1479,
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
-    "date": "2026-09-05",
+    "date": "2026-09-06",
     "topic": "physical-ai",
     "score": 591.7
   },
@@ -25,9 +15,59 @@
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
-    "date": "2026-09-05",
+    "date": "2026-09-06",
     "topic": "robotics",
     "score": 25431.7
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3923,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-09-06",
+    "topic": "embodied-ai",
+    "score": 1569.3
+  },
+  {
+    "repo": "deeplethe/utopia",
+    "stars": 4526,
+    "language": "Rust",
+    "description": "World's first open-source enterprise world model.",
+    "url": "https://github.com/deeplethe/utopia",
+    "date": "2026-09-06",
+    "topic": "world-model",
+    "score": 1810.5
+  },
+  {
+    "repo": "softmata/horus",
+    "stars": 433,
+    "language": "Rust",
+    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
+    "url": "https://github.com/softmata/horus",
+    "date": "2026-09-06",
+    "topic": "humanoid",
+    "score": 173.3
+  },
+  {
+    "repo": "johnsutor/so101-nexus",
+    "stars": 38,
+    "language": "Python",
+    "description": "Full-stack robot learning for the SO-101 arm: teleoperation, imitation learning, and RL in MuJoCo.",
+    "url": "https://github.com/johnsutor/so101-nexus",
+    "date": "2026-09-06",
+    "topic": "lerobot",
+    "score": 15.3
+  },
+  {
+    "repo": "NVIDIA/skills",
+    "stars": 3211,
+    "language": "Python",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "url": "https://github.com/NVIDIA/skills",
+    "date": "2026-09-05",
+    "topic": "physical-ai",
+    "score": 1284.5
   },
   {
     "repo": "NaiboWang/EasySpider",
@@ -71,13 +111,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 14441,
+    "stars": 14449,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-09-05",
     "topic": "robotics",
-    "score": 5776.5
+    "score": 5779.7
   },
   {
     "repo": "rerun-io/rerun",
@@ -88,16 +128,6 @@
     "date": "2026-09-05",
     "topic": "robotics",
     "score": 4560.5
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3923,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-09-05",
-    "topic": "embodied-ai",
-    "score": 1569.3
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -170,16 +200,6 @@
     "score": 2668.1
   },
   {
-    "repo": "deeplethe/utopia",
-    "stars": 4518,
-    "language": "Rust",
-    "description": "World's first open-source enterprise world model.",
-    "url": "https://github.com/deeplethe/utopia",
-    "date": "2026-09-05",
-    "topic": "world-model",
-    "score": 1807.3
-  },
-  {
     "repo": "NVlabs/ProtoMotions",
     "stars": 2367,
     "language": "Python",
@@ -188,16 +208,6 @@
     "date": "2026-09-05",
     "topic": "humanoid",
     "score": 946.9
-  },
-  {
-    "repo": "softmata/horus",
-    "stars": 433,
-    "language": "Rust",
-    "description": "Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.",
-    "url": "https://github.com/softmata/horus",
-    "date": "2026-09-05",
-    "topic": "humanoid",
-    "score": 173.3
   },
   {
     "repo": "ROBOTIS-GIT/ai_worker",
@@ -211,13 +221,13 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 8047,
+    "stars": 8048,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-09-05",
     "topic": "robot-learning",
-    "score": 3218.9
+    "score": 3219.3
   },
   {
     "repo": "Hebbian-Robotics/hflow",
@@ -238,6 +248,16 @@
     "date": "2026-09-05",
     "topic": "robot-learning",
     "score": 86.5
+  },
+  {
+    "repo": "RobotControlStack/robot-control-stack",
+    "stars": 155,
+    "language": "Python",
+    "description": "A lean, ROS-free sim-to-real framework for training and deploying Vision-Language-Action (VLA) models and RL agents. Native MuJoCo Gymnasium wrappers with synchronous execution for Franka, UR5e, xArm, SO101 and YAM.",
+    "url": "https://github.com/RobotControlStack/robot-control-stack",
+    "date": "2026-09-05",
+    "topic": "robot-learning",
+    "score": 62.1
   },
   {
     "repo": "rokbenko/quackd",
@@ -291,13 +311,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2439,
+    "stars": 2441,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-09-04",
     "topic": "robot-learning",
-    "score": 975.7
+    "score": 976.5
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -421,13 +441,13 @@
   },
   {
     "repo": "PetoiCamp/OpenCat-Quadruped-Robot",
-    "stars": 5263,
+    "stars": 5264,
     "language": "C++",
     "description": "An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development. ",
     "url": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot",
     "date": "2026-09-02",
     "topic": "physical-ai",
-    "score": 2105.3
+    "score": 2105.7
   },
   {
     "repo": "PetoiCamp/OpenCat-Old",
@@ -451,23 +471,23 @@
   },
   {
     "repo": "PetoiCamp/OpenCatEsp32-Quadruped-Robot",
-    "stars": 341,
+    "stars": 346,
     "language": "C++",
     "description": "An ESP32-based open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.",
     "url": "https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot",
     "date": "2026-09-02",
     "topic": "physical-ai",
-    "score": 136.5
+    "score": 138.5
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30450,
+    "stars": 30449,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-09-02",
     "topic": "robotics",
-    "score": 12180.1
+    "score": 12179.7
   },
   {
     "repo": "galilai-group/stable-worldmodel",
@@ -570,16 +590,6 @@
     "score": 3.7
   },
   {
-    "repo": "johnsutor/so101-nexus",
-    "stars": 38,
-    "language": "Python",
-    "description": "Full-stack robot learning for the SO-101 arm: teleoperation, imitation learning, and RL in MuJoCo.",
-    "url": "https://github.com/johnsutor/so101-nexus",
-    "date": "2026-09-01",
-    "topic": "lerobot",
-    "score": 15.3
-  },
-  {
     "repo": "Edgenesis/shifu",
     "stars": 1433,
     "language": "Go",
@@ -621,13 +631,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 83419,
+    "stars": 83422,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-08-30",
     "topic": "robotics",
-    "score": 33367.7
+    "score": 33368.9
   },
   {
     "repo": "NVlabs/alpamayo",
@@ -688,6 +698,16 @@
     "date": "2026-08-27",
     "topic": "humanoid",
     "score": 228.5
+  },
+  {
+    "repo": "una-auxme/ros2smolvla_docker",
+    "stars": 19,
+    "language": "",
+    "description": "Docker container definitions for running the LeRobot Framework on the Universal Robotics family of collaborative robots",
+    "url": "https://github.com/una-auxme/ros2smolvla_docker",
+    "date": "2026-08-27",
+    "topic": "lerobot",
+    "score": 7.7
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
@@ -858,25 +878,5 @@
     "date": "2026-08-12",
     "topic": "physical-ai",
     "score": 232.5
-  },
-  {
-    "repo": "zju3dv/INTACT-JEPA",
-    "stars": 178,
-    "language": "Python",
-    "description": "INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models.",
-    "url": "https://github.com/zju3dv/INTACT-JEPA",
-    "date": "2026-08-06",
-    "topic": "robot-learning",
-    "score": 71.3
-  },
-  {
-    "repo": "eust-w/amd-bigym-3dgs-rocm",
-    "stars": 29,
-    "language": "Python",
-    "description": "AMD Radeon ROCm reproduction of the DL3DV commercial-kitchen 3DGS shell for BiGym/MuJoCo, with verified W7900D artifacts.",
-    "url": "https://github.com/eust-w/amd-bigym-3dgs-rocm",
-    "date": "2026-08-06",
-    "topic": "lerobot",
-    "score": 11.7
   }
 ]
