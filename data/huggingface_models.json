@@ -1,5 +1,23 @@
 [
   {
+    "model": "dreamdifferent/vam-cross-level2-panda-robotiq-widowx-texture-ur5e-contact-v2-video-lora-iter200",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dreamdifferent/vam-cross-level2-panda-robotiq-widowx-texture-ur5e-contact-v2-video-lora-iter200",
+    "date": "2026-09-06",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "robotensor/bpp-genesis",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotensor/bpp-genesis",
+    "date": "2026-09-06",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "Ryan-77/lancewam-robotwin",
     "downloads": 0,
     "likes": 0,
@@ -54,6 +72,42 @@
     "score": 0.1
   },
   {
+    "model": "sam-guided-vlas/train_1_2_hard_items__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-06",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-06",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-06",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-06",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "sam-guided-vlas/train_1_2_hard_items__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -99,46 +153,10 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_hard_items__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "sam-guided-vlas/train_1_2_pile_random_pose__bbox__blur__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__blur__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-09-06",
     "keyword": "vla",
     "score": 0.1
@@ -349,24 +367,6 @@
     "date": "2026-09-05",
     "keyword": "robot",
     "score": 1.9
-  },
-  {
-    "model": "OpenWAM/robotwin_dual_system_joint_self_attention_cosmos25",
-    "downloads": 14,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_cosmos25",
-    "date": "2026-09-05",
-    "keyword": "robot",
-    "score": 4.3
-  },
-  {
-    "model": "OpenWAM/robotwin_dual_system_joint_self_attention_wan22_vae",
-    "downloads": 5,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenWAM/robotwin_dual_system_joint_self_attention_wan22_vae",
-    "date": "2026-09-05",
-    "keyword": "robot",
-    "score": 1.6
   },
   {
     "model": "justinles/embodied-ai-survey",
