@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-06 05:11 UTC
+Last Updated: 2026-09-06 09:44 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-06 | WordStar Lives Again (and Again) | Hackaday | [link](https://hackaday.com/2026/09/06/wordstar-lives-again-and-again/) |
 | 2026-09-06 | There’s Whole Computer Inside This Mouse | Hackaday | [link](https://hackaday.com/2026/09/05/theres-whole-computer-inside-this-mouse/) |
 | 2026-09-06 | Can AI Now Design PCBs That Just Work? | Hackaday | [link](https://hackaday.com/2026/09/05/can-ai-now-design-pcbs-that-just-work/) |
+| 2026-09-06 | ACEMAGIC Kron Mini K5 Review – Part 2: A $400 Intel Core 3 304 Wildcat Lake mini PC tested with Windows 11 Pro | CNX Software | [link](https://www.cnx-software.com/2026/09/06/acemagic-kron-mini-k5-review-part-2-a-400-intel-core-3-304-wildcat-lake-mini-pc-tested-with-windows-11-pro/) |
 | 2026-09-05 | Running Apple ][ Software on a Commodore 64 — Silently | Hackaday | [link](https://hackaday.com/2026/09/05/running-apple-software-on-a-commodore-64-silently/) |
 | 2026-09-05 | Pixel Watch 5 Demonstrates Good Repairability | Hackaday | [link](https://hackaday.com/2026/09/05/pixel-watch-5-demonstrates-good-repairability/) |
 | 2026-09-05 | Voicebox FX is a Blueprint for CircuitPython I2S Audio | Hackaday | [link](https://hackaday.com/2026/09/05/voicebox-fx-is-a-blueprint-for-circuitpython-i2s-audio/) |
 | 2026-09-05 | If at First You Don’t Succeed… | Hackaday | [link](https://hackaday.com/2026/09/05/if-at-first-you-dont-succeed/) |
-| 2026-09-05 | Running Generative AI on an RP2350 | Hackaday | [link](https://hackaday.com/2026/09/05/running-generative-ai-on-an-rp2350/) |
 | 2026-09-05 | OpenTrailPaper transforms LILYGO T5 E-Paper S3 Pro devkit into a DIY e‑paper bike computer | CNX Software | [link](https://www.cnx-software.com/2026/09/05/opentrailpaper-transforms-lilygo-t5-e-paper-s3-pro-devkit-into-a-diy-e-paper-bike-computer/) |
 | 2026-09-05 | Microchip, Marelli Target Software-Defined Vehicle Display Systems | Embedded.com | [link](https://www.embedded.com/microchip-marelli-target-software-defined-vehicle-display-systems/) |
-| 2026-09-05 | Developing Safer Alternatives to Lithium Batteries | Adafruit | [link](https://blog.adafruit.com/2026/09/05/developing-safer-alternatives-to-lithium-batteries/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-06 | OpenWAM/robotwin_tri_system_joint_self_attention | 7 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_tri_system_joint_self_attention) |
+| 2026-09-06 | dreamdifferent/vam-cross-level4-panda-robotiq-widowx-texture-ur5e-contact-v2-video-lora-iter200 | 0 | 0 | [link](https://huggingface.co/dreamdifferent/vam-cross-level4-panda-robotiq-widowx-texture-ur5e-contact-v2-video-lora-iter200) |
 | 2026-09-06 | milab-robot/alm1-0818-amore | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0818-amore) |
 | 2026-09-06 | milab-robot/alm1-0731-milab.60 | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.60) |
+| 2026-09-06 | sam-guided-vlas/train_1_2_pile_random_pose__point__separate_channel__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__point__separate_channel__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-06 | sam-guided-vlas/train_1_2_pile_random_pose__bbox__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__blur__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-06 | sam-guided-vlas/train_1_2_pile_random_pose__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-06 | astonishingwolf/blorptron-qzx9-vla-scratchpile-7k2f | 0 | 0 | [link](https://huggingface.co/astonishingwolf/blorptron-qzx9-vla-scratchpile-7k2f) |
+| 2026-09-06 | sam-guided-vlas/train_1_2_pile_random_pose__mask__blur_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__mask__blur_a50__sim__all_cameras__live__pi05__seed_0) |
 | 2026-09-06 | sam-guided-vlas/train_1_2_pile_random_pose__mask__blackout__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__mask__blackout__sim__all_cameras__live__pi05__seed_0) |
-| 2026-09-06 | sam-guided-vlas/train_1_2_pile_random_pose__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0) |
-| 2026-09-06 | sam-guided-vlas/train_1_2_pile_random_pose__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0) |
-| 2026-09-06 | sam-guided-vlas/train_1_2_pile_random_pose__mask__separate_channel__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__mask__separate_channel__sim__all_cameras__live__pi05__seed_0) |
-| 2026-09-06 | eliasab16/vla_jepa_right_arm_test_1_v2_1.5ep | 0 | 0 | [link](https://huggingface.co/eliasab16/vla_jepa_right_arm_test_1_v2_1.5ep) |
-| 2026-09-06 | sam-guided-vlas/train_1_2_pile_random_pose__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
-| 2026-09-06 | sam-guided-vlas/train_1_2_pile_random_pose__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0) |
-| 2026-09-06 | sam-guided-vlas/train_1_2_pile_random_pose__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3211 | Python | 1284.5 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1479 | Rust | 591.7 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63581 | Python | 25432.5 | [link](https://github.com/commaai/openpilot) |
+| NVIDIA/skills | 3212 | Python | 1284.9 | [link](https://github.com/NVIDIA/skills) |
+| copper-project/copper-rs | 1480 | Rust | 592.1 | [link](https://github.com/copper-project/copper-rs) |
+| commaai/openpilot | 63582 | Python | 25432.9 | [link](https://github.com/commaai/openpilot) |
 | dora-rs/dora | 3924 | Rust | 1569.7 | [link](https://github.com/dora-rs/dora) |
+| datawhalechina/every-embodied | 3544 | Python | 1417.7 | [link](https://github.com/datawhalechina/every-embodied) |
 | sou350121/VLA-Handbook | 591 | HTML | 236.5 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 6676 | Python | 2670.5 | [link](https://github.com/vllm-project/vllm-omni) |
-| deeplethe/utopia | 4700 | Rust | 1880.1 | [link](https://github.com/deeplethe/utopia) |
+| vllm-project/vllm-omni | 6682 | Python | 2672.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| deeplethe/utopia | 4913 | Rust | 1965.3 | [link](https://github.com/deeplethe/utopia) |
 | softmata/horus | 433 | Rust | 173.3 | [link](https://github.com/softmata/horus) |
-| isaac-sim/IsaacLab | 8049 | Python | 3219.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| Hebbian-Robotics/hflow | 236 | Python | 94.5 | [link](https://github.com/Hebbian-Robotics/hflow) |
+| isaac-sim/IsaacLab | 8050 | Python | 3220.1 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -120,15 +120,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-09-05 | Korea Bets Its Physical AI Advantage on Manufacturing Depth - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0tMWTJjLV9XZXRsOVVFU2d4OEx6c3BvX2F2NHV2MXFtYkNsY0w1Wjd2VDlaYUp4ZzRzX3JhWm4yTGt5amM5R0Vscm5ENmYxRjhQcHFPZEZIQ0VvU3NQZXlGU21lbnc3V3VXUzJmRkdjOWJVOHAtNmExT1FER01DTFBmSVVIM1Ju?oc=5) |
-| 2026-09-04 | Nvidia-Backed Japanese Startup Pushes Ahead in Physical AI - News On Japan | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CX2ZzSkFMclhGaHExUVZwanYxLVNCTEVfbmJMWjVnUnBlTVV0dnVaZHRsdTlBb284c3ltd2VsVUdiNkhWa3kyZExxZzdoVlh1MTZhVA?oc=5) |
-| 2026-09-03 | Robot startups are trying everything they can think of to get more data - understandingai.org | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKYXpFMmlDWXdUNWYyaHppZHhMblphTFRXYzk2SHpZTWFMNmRDRG10VTZmYUdad1ZRaE1aeFNjLTUtUkpON2Nwd3gwWkFEVkJoeWlSODE5R183dVI3TmZ0a0s5S2FDREN3MGx2cDRNUERFOC1Sd0VhZHh3?oc=5) |
+| 2026-09-04 | Nvidia-Backed Japanese Startup Pushes Ahead in Physical AI - newsonjapan.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CX2ZzSkFMclhGaHExUVZwanYxLVNCTEVfbmJMWjVnUnBlTVV0dnVaZHRsdTlBb284c3ltd2VsVUdiNkhWa3kyZExxZzdoVlh1MTZhVA?oc=5) |
 | 2026-09-03 | German robot startup Agile expects humanoid robot market to overtake auto industry - ET Auto | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZTVMUmg0LXV1ZkZhSGI3N0dCU3drYmhTSy11MEZaeEZKQ0tQX3o0d3FYSVNNU3RKRWtXSE9TX0ZGY05HTEx5TFdPN3JqMU5FYkhGRDFjN2JZRlZ0OW1OU1VtQjNUUENvM0F2N0VZNUVSV3ZqZ3FuREJDd215RUxyUE1FMjhKb0FfcnYzbWFHNWt4OWMxNGU3c05nVzZobTVrRVkxNUd0SEZ2cUJRRFJNcWFhTUN1TjhJRW5QUzZiVUZ2U2VCeVdEdWpvQVRVMUlqQk1VNmFMQnU2N3pKRGd0RFQ0a0VTQmhyN1c40gHwAUFVX3lxTE1EdHlvOXlwNEQwTlpIQ240elNITVo2ZGVTSUhqdVhEb3FDVEU2d2NKZy1ZLWwzVGxOSFBDS0N2Z3BrOEtzcEVfYUpjeG9oQTZlSkliamFxdmZ0YnZaSDEzd1JtakJES2IySjlxVUt6eWd3eS1uUDFMcVU4VG9RdGVGVk14MmF5cG9VWFNpc2JRTDJ0RzZhakZmRFNGb0QwWGFFT0pfbm5JUEZiZVhLV0JFYVlRdHpiQll5NzQwcmhwbnNUVDRwWVd1c0czTTV4aC0wNjNWX0FYb3VFdHg1X0U1TzUyOWhDRm9xQ1lCTjZpbg?oc=5) |
 | 2026-09-02 | Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQXh1MVAzU0F0YTc1RUtmRHJLb1R3alkxSlVaOTBiMEpFZVVNWDF4OU9YUnEwVkhDdVJKV1FHbXpkQmlKaTBPcGtBMkhObU5RZHF5bVhwWnlqbTVCQko1MEp1U0hpUjZzSHNnZldON0ZqdU0xNXVZQm1jdEZxMVpRTjN5cVlLVDI1Q3dxUg?oc=5) |
 | 2026-09-02 | Lyte raises $165 million at $1.6 billion valuation as investors pile into physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVjRhZi1ZcFhBVFA5aXhnbWFIOGpTUDRrRVdONVBjZGF1SEZlZE5ab1hJOGM5WEJOajlXZUt4QnAtZ1NuZnIzVHNnMk5LcGlYR1luUW1xbnRMU2xzWkZTR0ZNZklsVHM?oc=5) |
 | 2026-09-02 | Nio CEO Says Bet on VP’s Robotics Startup Allows Tracking Physical AI Without Hitting P&L - eletric-vehicles.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxQS1BKSWZ5OXc1NE82UVNBblZSOUx3alN3Y0JPeFZCcXd3RHI3WVNrMXJNU0hFc2NTR1dSZjlnYmxuMnpyVGhEM3M3NUkwWXpKb00wMTRfU2dEQTg2R3hEc2NHaUpBalBhYUQwQnlxeUFJYU83ckpiVTk1YUpZem1VbEI2ZjJNM0tPWG5JbExQNk04UHhQV01oLU02cmZuemRpWlNUV2pocU95cVBJb1JyNV92Z3JXOHlGdmNSWk13?oc=5) |
 | 2026-09-02 | Humanoid robot market ‘will be 10x the size of auto industry within years’ - The Independent | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUS1iWDQzRl9xanRUTXJpblVrUTJSN1J0cmJiYl9tVVdQdFZXN2hDRXVsNWFkbFVpaWN6M0hqU3ZOM3ZKVFVJWTEwZVNBVHg4VHV6MWFTdFFqOFpuQXJTX2J2RmRHZVNUdXZxUlNLZ0dVYm1yM05WM0RZWlVCd18yZ1QzN3ZRT3lIY09WT2NKaWRvS2Zh?oc=5) |
-| 2026-09-01 | From Computer Vision to Physical AI – The Next Frontier for 3D Metrology - metrology.news | physical ai startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxNNERXekpncGxUSjNOeGJ4OGplSW5Cc3ZNSFo4MjcwejZsQ3l1T2ZpSjg3N1FmU1Y0cEpPYmxta1RiVXlsRUNDeTViZV84alFIa25HR21OMWRELWdMV1Y5SnZlM3lwN2lfcVVMaVY5NHJhMVJVREMtVXdEUzhfbXotT0ZQWXVSU3hPQW1ZbGxzN0FCNHVvTzR1U0Fn?oc=5) |
-| 2026-08-30 | Tyler Raciti & Chet Ellis On Volumes, Their Startup Building Superintelligent Data for Physical AI - Medium | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLXhNSU90NEpuTzVOclhreGs3dEhnT0NVc2xNUlgxYTRGTERjUGI1UVp2RjJXSE9KdE1GcDhvR2l0X19paU5pU2lQTG9mRHhzcGFhTTBTUDFnUGc4c0htX3RuSGE4UndoOUtQdVpaMGZXQl8xVDVLVHhUM2JLNllSYXNYQllmcHp6ajFleUM0WlNhYmlScXI1Q0F3bGdEQ29kVklDUHpSVEpBNExFUG10QVpZV2g1SXVCSHhFQlduSlRMV3hBck55aWxyMm1rNldwR2IzTl8tblAtWHlQU1B3?oc=5) |
+| 2026-09-01 | From Computer Vision to Physical AI – The Next Frontier for 3D Metrology - Metrology and Quality News | physical ai startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxNNERXekpncGxUSjNOeGJ4OGplSW5Cc3ZNSFo4MjcwejZsQ3l1T2ZpSjg3N1FmU1Y0cEpPYmxta1RiVXlsRUNDeTViZV84alFIa25HR21OMWRELWdMV1Y5SnZlM3lwN2lfcVVMaVY5NHJhMVJVREMtVXdEUzhfbXotT0ZQWXVSU3hPQW1ZbGxzN0FCNHVvTzR1U0Fn?oc=5) |
+| 2026-08-29 | A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEhEdUxOLWhXMjJQbGFrSk9aWi1mak9aWk1mV1JtcGEtVncwSV96ek1FRExUalJXNzBSakEtaU1QczhjWm1CcWJxY0pwS2NzQ2d5OElXeTR5cG5hdDFYWHQ3T2s4UnFFWUpITmFzWlNHTzNSeTlqSHdjdHN2eVNPa0pRclBzU09wQy16b0VxeUtsR29TamptdFdXbGEwZzFQ?oc=5) |
+| 2026-08-28 | Embodied-AI startup PsiBot raises over $100 million with industrial investors joining - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjVueXdiTUJKUVVBRXU5ckJIV2JKZkVpTVBOdzZXZUdoX0swMFdLb09rbXFJMlp1QWJlMS1VWk5CWlVWM3ZCTmIyVWt1WEVDT0JkZ0RMemZHcTBxZFF4a0hfcHJNVjM0NHB6TWFEY3NMcFdqejZnVUJZZEEtdmtHdjhQc2FRamhWeXNjQjc2QVh1NllYc0lzWVVCU1hLREc2VmFnb2NHOFUzLTdLcEVMUC1BWlJDVnBh?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

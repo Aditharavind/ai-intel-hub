@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-06 05:11 UTC
+Generated: 2026-09-06 09:44 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-09-06 05:11 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83428 | 33371.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63581 | 25432.5 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83432 | 33372.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63582 | 25432.9 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44503 | 17801.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30449 | 12179.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| questdb/questdb | 17305 | 6922.1 | [link](https://github.com/questdb/questdb) |
+| questdb/questdb | 17308 | 6923.3 | [link](https://github.com/questdb/questdb) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | jagwang/mungkeul-physical-ai | 87 | 26.2 | [link](https://huggingface.co/jagwang/mungkeul-physical-ai) |
-| physicalairi/so101_1200ep_smolvla | 55 | 16.6 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
+| physicalairi/so101_1200ep_smolvla | 48 | 14.5 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
 | hfunknown/qwen3-8b-navigation-lora-persistent | 40 | 12.1 | [link](https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-persistent) |
-| hfunknown/qwen3-8b-navigation-lora-stateless | 37 | 11.2 | [link](https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-stateless) |
-| physicalairi/so101_1200ep_pi05 | 34 | 10.3 | [link](https://huggingface.co/physicalairi/so101_1200ep_pi05) |
+| hfunknown/qwen3-8b-navigation-lora-stateless | 38 | 11.5 | [link](https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-stateless) |
+| physicalairi/so101_1200ep_pi05_20260805 | 33 | 10.0 | [link](https://huggingface.co/physicalairi/so101_1200ep_pi05_20260805) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -42,7 +42,7 @@ Generated: 2026-09-06 05:11 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-09-05 | Korea Bets Its Physical AI Advantage on Manufacturing Depth - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0tMWTJjLV9XZXRsOVVFU2d4OEx6c3BvX2F2NHV2MXFtYkNsY0w1Wjd2VDlaYUp4ZzRzX3JhWm4yTGt5amM5R0Vscm5ENmYxRjhQcHFPZEZIQ0VvU3NQZXlGU21lbnc3V3VXUzJmRkdjOWJVOHAtNmExT1FER01DTFBmSVVIM1Ju?oc=5) |
-| 2026-09-04 | Nvidia-Backed Japanese Startup Pushes Ahead in Physical AI - News On Japan | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CX2ZzSkFMclhGaHExUVZwanYxLVNCTEVfbmJMWjVnUnBlTVV0dnVaZHRsdTlBb284c3ltd2VsVUdiNkhWa3kyZExxZzdoVlh1MTZhVA?oc=5) |
-| 2026-09-03 | Robot startups are trying everything they can think of to get more data - understandingai.org | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKYXpFMmlDWXdUNWYyaHppZHhMblphTFRXYzk2SHpZTWFMNmRDRG10VTZmYUdad1ZRaE1aeFNjLTUtUkpON2Nwd3gwWkFEVkJoeWlSODE5R183dVI3TmZ0a0s5S2FDREN3MGx2cDRNUERFOC1Sd0VhZHh3?oc=5) |
+| 2026-09-04 | Nvidia-Backed Japanese Startup Pushes Ahead in Physical AI - newsonjapan.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CX2ZzSkFMclhGaHExUVZwanYxLVNCTEVfbmJMWjVnUnBlTVV0dnVaZHRsdTlBb284c3ltd2VsVUdiNkhWa3kyZExxZzdoVlh1MTZhVA?oc=5) |
 | 2026-09-03 | German robot startup Agile expects humanoid robot market to overtake auto industry - ET Auto | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZTVMUmg0LXV1ZkZhSGI3N0dCU3drYmhTSy11MEZaeEZKQ0tQX3o0d3FYSVNNU3RKRWtXSE9TX0ZGY05HTEx5TFdPN3JqMU5FYkhGRDFjN2JZRlZ0OW1OU1VtQjNUUENvM0F2N0VZNUVSV3ZqZ3FuREJDd215RUxyUE1FMjhKb0FfcnYzbWFHNWt4OWMxNGU3c05nVzZobTVrRVkxNUd0SEZ2cUJRRFJNcWFhTUN1TjhJRW5QUzZiVUZ2U2VCeVdEdWpvQVRVMUlqQk1VNmFMQnU2N3pKRGd0RFQ0a0VTQmhyN1c40gHwAUFVX3lxTE1EdHlvOXlwNEQwTlpIQ240elNITVo2ZGVTSUhqdVhEb3FDVEU2d2NKZy1ZLWwzVGxOSFBDS0N2Z3BrOEtzcEVfYUpjeG9oQTZlSkliamFxdmZ0YnZaSDEzd1JtakJES2IySjlxVUt6eWd3eS1uUDFMcVU4VG9RdGVGVk14MmF5cG9VWFNpc2JRTDJ0RzZhakZmRFNGb0QwWGFFT0pfbm5JUEZiZVhLV0JFYVlRdHpiQll5NzQwcmhwbnNUVDRwWVd1c0czTTV4aC0wNjNWX0FYb3VFdHg1X0U1TzUyOWhDRm9xQ1lCTjZpbg?oc=5) |
 | 2026-09-02 | Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQXh1MVAzU0F0YTc1RUtmRHJLb1R3alkxSlVaOTBiMEpFZVVNWDF4OU9YUnEwVkhDdVJKV1FHbXpkQmlKaTBPcGtBMkhObU5RZHF5bVhwWnlqbTVCQko1MEp1U0hpUjZzSHNnZldON0ZqdU0xNXVZQm1jdEZxMVpRTjN5cVlLVDI1Q3dxUg?oc=5) |
+| 2026-09-02 | Lyte raises $165 million at $1.6 billion valuation as investors pile into physical AI - calcalistech.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVjRhZi1ZcFhBVFA5aXhnbWFIOGpTUDRrRVdONVBjZGF1SEZlZE5ab1hJOGM5WEJOajlXZUt4QnAtZ1NuZnIzVHNnMk5LcGlYR1luUW1xbnRMU2xzWkZTR0ZNZklsVHM?oc=5) |
