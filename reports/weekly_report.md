@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-07 20:12 UTC
+Generated: 2026-09-07 23:03 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -27,7 +27,7 @@ Generated: 2026-09-07 20:12 UTC
 | physicalairi/so101_1200ep_smolvla | 48 | 14.5 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
 | hfunknown/qwen3-8b-navigation-lora-persistent | 42 | 12.7 | [link](https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-persistent) |
 | hfunknown/qwen3-8b-navigation-lora-stateless | 40 | 12.1 | [link](https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-stateless) |
-| physicalairi/so101_1200ep_pi05_20260805 | 34 | 10.3 | [link](https://huggingface.co/physicalairi/so101_1200ep_pi05_20260805) |
+| Wravn/privacy-policy-content-legalbasis | 34 | 10.3 | [link](https://huggingface.co/Wravn/privacy-policy-content-legalbasis) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-09-07 20:12 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-07 | Commercial Robotics Starts Where the Camera Stops - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTFBJV2xXV3BvYmY3QlhONmFueVZOWVlvS2M3aDBTYm01alZUbHNHU281cldCS3UzTWR5VGwtSGFTVXNIdHZLcFczM2RnUnk0NmhnaFBtUmkzbU93UnRIV3M4bTRrelVfNG1tamFpR0tJQXNmUmVRNDF2dE9KTlU?oc=5) |
 | 2026-09-07 | IdeaBaaz Co-founder Mudit Kumar Sees Physical AI Leading India’s Next Deeptech Growth Wave - BW Disrupt | physical ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUJHVTVtOXlQUTZudlhFMXhIeUxLNnJMUXRXSjFpX2lTcTFuRkIwQTBaaFNYVmU2Zlgxakc1T1BuSFpMMkliZWhqa0FTOVRCM1JxYUZNN0lmb3dBV0hKc0VtbGZWbU5JZ01RTWs4cVBRaEoybThCYTdQay1LVkNiMklqN0ktZExiV0FFLUJCeTMxY25lR1V0aWNOMEpSbExxWXJuTlRfSFgwWTZXUFpvNUZjRmZ5YW0yQnpaZExFZFpsSzVhblR3WnRvNA?oc=5) |
+| 2026-09-05 | Korea Bets Its Physical AI Advantage on Manufacturing Depth - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0tMWTJjLV9XZXRsOVVFU2d4OEx6c3BvX2F2NHV2MXFtYkNsY0w1Wjd2VDlaYUp4ZzRzX3JhWm4yTGt5amM5R0Vscm5ENmYxRjhQcHFPZEZIQ0VvU3NQZXlGU21lbnc3V3VXUzJmRkdjOWJVOHAtNmExT1FER01DTFBmSVVIM1Ju?oc=5) |
 | 2026-09-03 | Robot startups are trying everything they can think of to get more data - understandingai.org | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKYXpFMmlDWXdUNWYyaHppZHhMblphTFRXYzk2SHpZTWFMNmRDRG10VTZmYUdad1ZRaE1aeFNjLTUtUkpON2Nwd3gwWkFEVkJoeWlSODE5R183dVI3TmZ0a0s5S2FDREN3MGx2cDRNUERFOC1Sd0VhZHh3?oc=5) |
-| 2026-09-03 | German robot startup Agile expects humanoid robot market to overtake auto industry - auto.economictimes.indiatimes.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZTVMUmg0LXV1ZkZhSGI3N0dCU3drYmhTSy11MEZaeEZKQ0tQX3o0d3FYSVNNU3RKRWtXSE9TX0ZGY05HTEx5TFdPN3JqMU5FYkhGRDFjN2JZRlZ0OW1OU1VtQjNUUENvM0F2N0VZNUVSV3ZqZ3FuREJDd215RUxyUE1FMjhKb0FfcnYzbWFHNWt4OWMxNGU3c05nVzZobTVrRVkxNUd0SEZ2cUJRRFJNcWFhTUN1TjhJRW5QUzZiVUZ2U2VCeVdEdWpvQVRVMUlqQk1VNmFMQnU2N3pKRGd0RFQ0a0VTQmhyN1c40gHwAUFVX3lxTE1EdHlvOXlwNEQwTlpIQ240elNITVo2ZGVTSUhqdVhEb3FDVEU2d2NKZy1ZLWwzVGxOSFBDS0N2Z3BrOEtzcEVfYUpjeG9oQTZlSkliamFxdmZ0YnZaSDEzd1JtakJES2IySjlxVUt6eWd3eS1uUDFMcVU4VG9RdGVGVk14MmF5cG9VWFNpc2JRTDJ0RzZhakZmRFNGb0QwWGFFT0pfbm5JUEZiZVhLV0JFYVlRdHpiQll5NzQwcmhwbnNUVDRwWVd1c0czTTV4aC0wNjNWX0FYb3VFdHg1X0U1TzUyOWhDRm9xQ1lCTjZpbg?oc=5) |
+| 2026-09-03 | German robot startup Agile expects humanoid robot market to overtake auto industry - ET Auto | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZTVMUmg0LXV1ZkZhSGI3N0dCU3drYmhTSy11MEZaeEZKQ0tQX3o0d3FYSVNNU3RKRWtXSE9TX0ZGY05HTEx5TFdPN3JqMU5FYkhGRDFjN2JZRlZ0OW1OU1VtQjNUUENvM0F2N0VZNUVSV3ZqZ3FuREJDd215RUxyUE1FMjhKb0FfcnYzbWFHNWt4OWMxNGU3c05nVzZobTVrRVkxNUd0SEZ2cUJRRFJNcWFhTUN1TjhJRW5QUzZiVUZ2U2VCeVdEdWpvQVRVMUlqQk1VNmFMQnU2N3pKRGd0RFQ0a0VTQmhyN1c40gHwAUFVX3lxTE1EdHlvOXlwNEQwTlpIQ240elNITVo2ZGVTSUhqdVhEb3FDVEU2d2NKZy1ZLWwzVGxOSFBDS0N2Z3BrOEtzcEVfYUpjeG9oQTZlSkliamFxdmZ0YnZaSDEzd1JtakJES2IySjlxVUt6eWd3eS1uUDFMcVU4VG9RdGVGVk14MmF5cG9VWFNpc2JRTDJ0RzZhakZmRFNGb0QwWGFFT0pfbm5JUEZiZVhLV0JFYVlRdHpiQll5NzQwcmhwbnNUVDRwWVd1c0czTTV4aC0wNjNWX0FYb3VFdHg1X0U1TzUyOWhDRm9xQ1lCTjZpbg?oc=5) |
 | 2026-09-02 | Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQXh1MVAzU0F0YTc1RUtmRHJLb1R3alkxSlVaOTBiMEpFZVVNWDF4OU9YUnEwVkhDdVJKV1FHbXpkQmlKaTBPcGtBMkhObU5RZHF5bVhwWnlqbTVCQko1MEp1U0hpUjZzSHNnZldON0ZqdU0xNXVZQm1jdEZxMVpRTjN5cVlLVDI1Q3dxUg?oc=5) |

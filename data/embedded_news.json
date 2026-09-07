@@ -1,5 +1,12 @@
 [
   {
+    "title": "ESP32-P4 Powers Video Alarm Clock",
+    "source": "Hackaday",
+    "date": "2026-09-07",
+    "url": "https://hackaday.com/2026/09/07/esp32-p4-powers-video-alarm-clock/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/esp32-p4-video-alarm-e1788809896621.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Once upon a time, you had the option of waking up to a bell, a harsh buzzer, or whatever happened to be on the radio that morning. Now that it&#8217;s <a class=\"read-more\" href=\"https://hackaday.com/2026/09/07/esp32-p4-powers-video-alarm-clock/\">&#8230;read more</a>"
+  },
+  {
     "title": "A Vacuum Tube Computer For The Home",
     "source": "Hackaday",
     "date": "2026-09-07",
@@ -42,13 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/NES-radar-feat.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Air traffic visualizers seem to be having a bit of a moment right now, and now that moment has come to the venerable NES thanks to [k6lcm]&#8217;s NES Radar project, <a class=\"read-more\" href=\"https://hackaday.com/2026/09/06/nes-radar-tracks-flights-at-9600-baud/\">&#8230;read more</a>"
   },
   {
-    "title": "How Charged Water Drops Induce Corrosion",
-    "source": "Hackaday",
-    "date": "2026-09-07",
-    "url": "https://hackaday.com/2026/09/06/how-charged-water-drops-induce-corrosion/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"404\" src=\"https://hackaday.com/wp-content/uploads/2026/09/charged_water_drops_corrosion_zhongyuan_ni_et_al_nature_2026.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Generally, we do not look at the gentle patter of raindrops on a surface with much concern, but according to a study by [Zhongyuan Ni] et al. in Nature, we should <a class=\"read-more\" href=\"https://hackaday.com/2026/09/06/how-charged-water-drops-induce-corrosion/\">&#8230;read more</a>"
-  },
-  {
     "title": "YuzukiNeko – A Linux-capable Allwinner F101 RISC-V SBC with Raspberry Pi Pico form factor",
     "source": "CNX Software",
     "date": "2026-09-07",
@@ -70,74 +70,39 @@
     "summary": "<div><img alt=\"XIAO SAMD21 Plus\" class=\"attachment-medium size-medium wp-post-image\" height=\"494\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/XIAO-SAMD21-Plus-720x494.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Seeed Studio has expanded its XIAO Plus Series introduced in 2025, with the XIAO SAMD21 Plus and XIAO RP2040 Plus USB-C boards adding several GPIOs and integrated Li-ion battery management to the XIAO (SAMD21) and XIAO RP2040, launched in 2020 and 2021, respectively, while keeping the same form factor. XIAO SAMD21 Plus Specifications: MCU – Microchip SAMD21G18 Arm Cortex-M0+ microcontroller at up to 48MHz with 256KB Flash,32KB SRAM USB – 1x USB Type-C port for power and programming Expansion I/Os 2x 7-pin &#8220;legacy&#8221; headers with 11x analog inputs, 11x digital I/Os, 1x DAC, SPI, UART, and I2C Castellated holes and pads with 16x digital I/Os, I2C,and I2S 3.3V I/O voltage (not 5V tolerant) Misc Reset and Boot buttons RGB LED Charge LED Power Supply 5V via USB-C port Pads for battery On-board PMIC Dimensions – 23.5×17.5 mm Temperature Range &#8211; -40°C ~ 85°C The upgraded variant of the XIAO SAMD21 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/07/xiao-samd21-plus-and-rp2040-plus-usb-c-boards-get-additional-gpio-pins-integrated-li-ion-battery-management/\">XIAO SAMD21 Plus and RP2040 Plus USB-C boards get additional GPIO pins, integrated Li-ion battery management</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Pixxel raises $100m in Series C for hyperspectral imaging satellites",
-    "source": "Electronics Weekly",
+    "title": "Is this the year of the Linux… television?",
+    "source": "Adafruit",
     "date": "2026-09-07",
-    "url": "https://www.electronicsweekly.com/news/business/finance/pixxel-raises-100m-in-series-c-for-hyperspectral-imaging-satellites-2026-09/",
-    "summary": "<p>Pixxel, the Indian-based space data company, has raised $100 million in a Series C funding round co-led by Temasek and Seraphim Capital, a London-based investment group focused on the Space [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/pixxel-raises-100m-in-series-c-for-hyperspectral-imaging-satellites-2026-09/\">Pixxel raises $100m in Series C for hyperspectral imaging satellites</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/07/is-this-the-year-of-the-linux-television/",
+    "summary": "WayDroid-ATV has published a set of Waydroid Android TV builds on GitHub. The images run Android TV on top of an existing Linux install rather than replacing it, so a desktop or server keeps doing its normal work while the TV interface runs alongside. The point is resource use. Android TV x86 ROMs like LineageOS [&#8230;]"
   },
   {
-    "title": "Nvidia Results Keep The AI Ball Rolling",
-    "source": "Electronics Weekly",
+    "title": "What it took to triple software engineering output in 18 months",
+    "source": "Adafruit",
     "date": "2026-09-07",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/nvidia-results-keep-the-ai-ball-rolling-2026-09/",
-    "summary": "<p>Nvidia&#8217;s Q2 earnings announcement followed a familiar script: the results  beat expectations, Jensen Huang made the bull case for Al and Wall Street breathed a collective sigh of relief. Where [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/markets/nvidia-results-keep-the-ai-ball-rolling-2026-09/\">Nvidia Results Keep The AI Ball Rolling</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/07/what-it-took-to-triple-software-engineering-output-in-18-months/",
+    "summary": "A technology leader writing in InfoWorld describes what changed at a legal software company after it rebuilt its product development life cycle around AI over 18 months. Output per engineer roughly tripled, deployments went from 82 to more than 155, and customer reported defects fell 65% per million lines of code. Progress was tracked with [&#8230;]"
   },
   {
-    "title": "Phytec’s phyVIP to speed embedded AI-based vision development",
-    "source": "Electronics Weekly",
+    "title": "The ill-fated HP-Compaq merger",
+    "source": "Adafruit",
     "date": "2026-09-07",
-    "url": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/phytecs-phyvip-to-speed-embedded-ai-based-vision-development-2026-09/",
-    "summary": "<p>Phytec will be showcasing its phyVIP platform &#8211; for embedded vision development with onboard AI &#8211; at the Vision trade fair in Stuttgart. phyVIP adds a layer of integration on [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/bus-systems-sbcs/phytecs-phyvip-to-speed-embedded-ai-based-vision-development-2026-09/\">Phytec&#8217;s phyVIP to speed embedded AI-based vision development</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/07/the-ill-fated-hp-compaq-merger/",
+    "summary": "Dave Farquhar looks back at the HP-Compaq merger on his blog, The Silicon Underground. HP announced the $25 billion acquisition on September 6, 2001. At the time it was the largest technology merger in history. HP retired the Compaq brand in May 2012. Farquhar traces Compaq&#8217;s weakness to its own 1997 purchase of Digital Equipment [&#8230;]"
   },
   {
-    "title": "EW BrightSparks 2025 profile: Katherine Taberer, Leonardo",
-    "source": "Electronics Weekly",
+    "title": "Making a Python interpreter in 1024 bytes",
+    "source": "Adafruit",
     "date": "2026-09-07",
-    "url": "https://www.electronicsweekly.com/news/ew-brightsparks-2025-profile-katherine-taberer-leonardo-2026-09/",
-    "summary": "<p>Now in its eighth year, the EW BrightSparks awards see Electronics Weekly celebrate some of the brightest and most talented young engineers in the UK today. In the next in our series on [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/ew-brightsparks-2025-profile-katherine-taberer-leonardo-2026-09/\">EW BrightSparks 2025 profile: Katherine Taberer, Leonardo</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/07/making-a-python-interpreter-in-1024-bytes/",
+    "summary": "Austin Z. Henley set himself a weekend challenge on his blog at austinhenley.com: write a Python interpreter in 1024 bytes of C, with no macro tricks and no libraries. The original target was 512 bytes. A basic calculator that handled x = 1 + 2 * 3 and a single if statement already blew past that, so [&#8230;]"
   },
   {
-    "title": "Everspin Technologies partners with Teledyne HiRel for MRAM in mil-aero",
-    "source": "Electronics Weekly",
+    "title": "The CircuitPython Show Episode 64 – CircuitPython Day 2026",
+    "source": "Adafruit",
     "date": "2026-09-07",
-    "url": "https://www.electronicsweekly.com/news/business/everspin-technologies-partners-with-teledyne-hirel-for-mram-in-mil-aero-2026-09/",
-    "summary": "<p>A strategic partnership between MRAM manufacturer, Everspin Technologies and Teledyne HiRel Semiconductors will mean that the 256Mb Persyst spin-transfer torque MRAM (STT-MRAM) will be used in Teledyne HiRel&#8217;s memory products [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/everspin-technologies-partners-with-teledyne-hirel-for-mram-in-mil-aero-2026-09/\">Everspin Technologies partners with Teledyne HiRel for MRAM in mil-aero</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Strong H1 for IQE",
-    "source": "Electronics Weekly",
-    "date": "2026-09-07",
-    "url": "https://www.electronicsweekly.com/news/business/strong-h1-for-iqe-2026-09/",
-    "summary": "<p>IQE reported a strong first-half performance, with revenue growth of more than 40% year-on-year driving a step change in profitability. Revenue increased 43% year-on-year to £64.6m. There was adjusted EBITDA [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/strong-h1-for-iqe-2026-09/\">Strong H1 for IQE</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "July semi sales up 135% y-o-y",
-    "source": "Electronics Weekly",
-    "date": "2026-09-07",
-    "url": "https://www.electronicsweekly.com/news/business/july-semi-sales-up-135-yoy-2026-09/",
-    "summary": "<p>July semiconductor sales of $146.8bn were up 6.4% on June’s $137.9bn and up 135.1% on the $62.5bn of July 2025. “The global semiconductor market grew on a month-to-month basis for [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/july-semi-sales-up-135-yoy-2026-09/\">July semi sales up 135% y-o-y</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Korean August semi exports up 209% y-o-y",
-    "source": "Electronics Weekly",
-    "date": "2026-09-07",
-    "url": "https://www.electronicsweekly.com/news/business/korean-semi-exports-in-august-up-209-yoy-2026-09/",
-    "summary": "<p>Korea’s semiconductor exports in August were up 209% y-o-y to a record $46.65bn, accounting for 47.5% of the country&#8217;s $98.25bn exports, according to the Ministry of Trade, Industry and Resources. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/korean-semi-exports-in-august-up-209-yoy-2026-09/\">Korean August semi exports up 209% y-o-y</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "103% q-o-q surge in SSD revenue",
-    "source": "Electronics Weekly",
-    "date": "2026-09-07",
-    "url": "https://www.electronicsweekly.com/news/business/103-qoq-surge-in-ssd-revenue-2026-09/",
-    "summary": "<p>The top five enterprise SSD brands doubled revenue in Q2 over Q1 to $37.59bn — a 103.6% increase, reports TrendForce. Samsung had Q2 revenue of $14.35bn. Hynix had $8.63bn. Micron [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/103-qoq-surge-in-ssd-revenue-2026-09/\">103% q-o-q surge in SSD revenue</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "AI back-end network switch sales overtake front-end sales",
-    "source": "Electronics Weekly",
-    "date": "2026-09-07",
-    "url": "https://www.electronicsweekly.com/news/business/switch-sales-in-ai-back-end-networks-overtake-those-in-front-end-networks-2026-09/",
-    "summary": "<p>2Q 2026 marked a major inflection point as switch sales in AI back-end networks surpassed those in front-end networks for the first time, reports Dell’Oro. Meanwhile, Ethernet further extended its [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/switch-sales-in-ai-back-end-networks-overtake-those-in-front-end-networks-2026-09/\">AI back-end network switch sales overtake front-end sales</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/07/the-circuitpython-show-episode-64-circuitpython-day-2026/",
+    "summary": "Episode 64 of The CircuitPython Show is a replay of The Bootloader livestream that ran on Adafruit&#8217;s YouTube channel for CircuitPython Day. Host Paul Cutler and co-host Tod Kurt look back at the past year of CircuitPython releases and community projects. The episode uses screen sharing, so the video version is the one to watch. [&#8230;]"
   },
   {
     "title": "Transmit unsigned 8-bit audio samples as analog FM using a CC1101 module",
@@ -187,41 +152,6 @@
     "date": "2026-09-07",
     "url": "https://blog.adafruit.com/2026/09/07/stopping-the-unstoppable/",
     "summary": "Practical Engineering looks at how railroads try to stop a train that has run out of track. The starting point is the 2016 New Jersey Transit crash at Hoboken Terminal, where a commuter train hit the terminal wall at about 21 miles per hour, killing one person and injuring 110. A Long Island Railroad train [&#8230;]"
-  },
-  {
-    "title": "Flipper One Alternative? Free Wili 2 Multitool packs dual RP2350 chips and FPGA",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/flipper-one-alternative-free-wili-2-multitool-packs-dual-rp2350-chips-and-fpga/",
-    "summary": "Julian Horsey writing at Geeky Gadgets covers the Free Wili 2, an open source handheld multi tool that Talking Sasquatch put through its paces on video. It runs dual RP2350 processors with FPGA support, and it is aimed at hardware development, security testing and prototyping work. The front has a 3.5-inch capacitive touchscreen, a D-pad, [&#8230;]"
-  },
-  {
-    "title": "ESP32-Bus-Expander: Expand the radio capabilities of the ESP32 Bit Pirate with 5GHz Wi-Fi and 802.15.4 protocols",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/esp32-bus-expander-expand-the-radio-capabilities-of-the-esp32-bit-pirate-with-5ghz-wi-fi-and-802-15-4-protocols/",
-    "summary": "ESP32 Bus Expander is a companion firmware designed to extend the capabilities of the ESP32 Bit Pirate. It runs on an ESP32-C5 or ESP32-C6 and connects to the main Bit Pirate device via UART, adding hardware features that are not available on the primary board. The first goal of this expansion module is to extend [&#8230;]"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/the-python-on-microcontrollers-newsletter-subscribe-for-free-9-7/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
-  },
-  {
-    "title": "New gpclk overlays for Raspberry Pis",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/new-gpclk-overlays-for-raspberry-pis/",
-    "summary": "Raspberry Pi has added a pair of device tree overlays that turn one of the general purpose clock outputs, GPCLK, into a clock signal on a GPIO pin. The pint can stand in for a crystal in a project. The trick was possible years ago with a custom dt-blob.bin, which is no longer supported. One [&#8230;]"
-  },
-  {
-    "title": "NOMAD: a Cyberpunk2077 inspired guitar project",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/nomad-a-cyberpunk2077-inspired-guitar-project/",
-    "summary": "Pio has spent over a year building NOMAD, a Cyberpunk 2077 inspired electric guitar posted on the PJRC forum. The base is a Harley Benton JA DIY kit, rebuilt around custom electronics. The pickguard is itself a large PCB running a Cypress PSoC5LP, handling pickup buffers, active hum cancelling, capacitive touch buttons, an X-Y touch [&#8230;]"
   },
   {
     "title": "An HP 3478A DMM Rescue, Part 1: RIFA Madness",

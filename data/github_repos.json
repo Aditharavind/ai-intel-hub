@@ -21,13 +21,23 @@
   },
   {
     "repo": "mosaico-labs/mosaico",
-    "stars": 1011,
+    "stars": 1012,
     "language": "Python",
     "description": "Mosaico - The data platform for Physical AI",
     "url": "https://github.com/mosaico-labs/mosaico",
     "date": "2026-09-07",
     "topic": "physical-ai",
-    "score": 404.5
+    "score": 404.9
+  },
+  {
+    "repo": "RobotecAI/rai",
+    "stars": 581,
+    "language": "Python",
+    "description": "RAI is a vendor agnostic agentic framework for Physical AI robotics, utilizing ROS 2 tools to perform complex actions, defined scenarios, free interface execution, log summaries, voice interaction and more.",
+    "url": "https://github.com/RobotecAI/rai",
+    "date": "2026-09-07",
+    "topic": "physical-ai",
+    "score": 232.5
   },
   {
     "repo": "awslabs/awsome-distributed-ai",
@@ -81,23 +91,23 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 14973,
+    "stars": 14974,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-09-07",
     "topic": "robotics",
-    "score": 5989.3
+    "score": 5989.7
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 14567,
+    "stars": 14580,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-09-07",
     "topic": "robotics",
-    "score": 5826.9
+    "score": 5832.1
   },
   {
     "repo": "DLR-RM/stable-baselines3",
@@ -121,33 +131,33 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 4837,
+    "stars": 4838,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-09-07",
     "topic": "embodied-ai",
-    "score": 1934.9
+    "score": 1935.3
   },
   {
     "repo": "dora-rs/dora",
-    "stars": 3923,
+    "stars": 3924,
     "language": "Rust",
     "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
     "url": "https://github.com/dora-rs/dora",
     "date": "2026-09-07",
     "topic": "embodied-ai",
-    "score": 1569.3
+    "score": 1569.7
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS-core",
-    "stars": 2097,
+    "stars": 2099,
     "language": "Python",
     "description": "PhyAgentOS is a Recursive Self-Improving (RSI)  physical agent operating system that enables agents to recursively self-improve through agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
     "date": "2026-09-07",
     "topic": "embodied-ai",
-    "score": 838.9
+    "score": 839.7
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -201,23 +211,23 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6704,
+    "stars": 6705,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-09-07",
     "topic": "world-model",
-    "score": 2681.7
+    "score": 2682.1
   },
   {
     "repo": "deeplethe/utopia",
-    "stars": 5431,
+    "stars": 5443,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-09-07",
     "topic": "world-model",
-    "score": 2172.5
+    "score": 2177.3
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -281,33 +291,33 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 8062,
+    "stars": 8064,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-09-07",
     "topic": "robot-learning",
-    "score": 3224.9
+    "score": 3225.7
   },
   {
     "repo": "wadeKeith/Awesome-Embodied-AI",
-    "stars": 241,
+    "stars": 242,
     "language": "Python",
     "description": "Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot learning, and safety resources.",
     "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
     "date": "2026-09-07",
     "topic": "robot-learning",
-    "score": 96.5
+    "score": 96.9
   },
   {
     "repo": "Hebbian-Robotics/hflow",
-    "stars": 241,
+    "stars": 242,
     "language": "Python",
     "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "date": "2026-09-07",
     "topic": "lerobot",
-    "score": 96.5
+    "score": 96.9
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -341,13 +351,13 @@
   },
   {
     "repo": "rokbenko/quackd",
-    "stars": 169,
+    "stars": 171,
     "language": "Python",
     "description": "Give your small robot a brain. It knows its moves but not how to connect them. Say a goal in a chat and any LLM plans and runs the steps. Microduck, Open Duck Mini, LeRobot, XLeRobot, Aloha Mini, or any ROS base. Claude, OpenAI, Gemini, Grok, or local via Ollama or vLLM. Simulator, .duck safety contracts, MCP server, memory between runs, flocks.",
     "url": "https://github.com/rokbenko/quackd",
     "date": "2026-09-07",
     "topic": "lerobot",
-    "score": 67.7
+    "score": 68.5
   },
   {
     "repo": "johnsutor/so101-nexus",
@@ -421,13 +431,13 @@
   },
   {
     "repo": "RoboTwin-Platform/RoboTwin",
-    "stars": 2817,
+    "stars": 2818,
     "language": "Python",
     "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
     "url": "https://github.com/RoboTwin-Platform/RoboTwin",
     "date": "2026-09-05",
     "topic": "embodied-ai",
-    "score": 1126.9
+    "score": 1127.3
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -561,13 +571,13 @@
   },
   {
     "repo": "PetoiCamp/OpenCatEsp32-Quadruped-Robot",
-    "stars": 380,
+    "stars": 381,
     "language": "C++",
     "description": "An ESP32-based open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.",
     "url": "https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot",
     "date": "2026-09-02",
     "topic": "physical-ai",
-    "score": 152.1
+    "score": 152.5
   },
   {
     "repo": "galilai-group/stable-worldmodel",
@@ -741,13 +751,13 @@
   },
   {
     "repo": "PKU-YuanGroup/Helios",
-    "stars": 2136,
+    "stars": 2137,
     "language": "Python",
     "description": "Helios: Real Real-Time Long Video Generation Model",
     "url": "https://github.com/PKU-YuanGroup/Helios",
     "date": "2026-08-24",
     "topic": "world-model",
-    "score": 854.5
+    "score": 854.9
   },
   {
     "repo": "roboninecom/SO-ARM100-101-Parallel-Gripper",
@@ -868,15 +878,5 @@
     "date": "2026-08-13",
     "topic": "lerobot",
     "score": 85.7
-  },
-  {
-    "repo": "RobotecAI/rai",
-    "stars": 581,
-    "language": "Python",
-    "description": "RAI is a vendor agnostic agentic framework for Physical AI robotics, utilizing ROS 2 tools to perform complex actions, defined scenarios, free interface execution, log summaries, voice interaction and more.",
-    "url": "https://github.com/RobotecAI/rai",
-    "date": "2026-08-12",
-    "topic": "physical-ai",
-    "score": 232.5
   }
 ]
