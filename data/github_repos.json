@@ -1,5 +1,25 @@
 [
   {
+    "repo": "dora-rs/dora",
+    "stars": 3924,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-09-07",
+    "topic": "embodied-ai",
+    "score": 1569.7
+  },
+  {
+    "repo": "Hebbian-Robotics/hflow",
+    "stars": 236,
+    "language": "Python",
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "date": "2026-09-07",
+    "topic": "lerobot",
+    "score": 94.5
+  },
+  {
     "repo": "NVIDIA/skills",
     "stars": 3218,
     "language": "Python",
@@ -21,13 +41,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 83436,
+    "stars": 83435,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-09-06",
     "topic": "robotics",
-    "score": 33374.5
+    "score": 33374.1
   },
   {
     "repo": "commaai/openpilot",
@@ -50,24 +70,34 @@
     "score": 6923.3
   },
   {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15815,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-09-06",
+    "topic": "robotics",
+    "score": 6326.1
+  },
+  {
+    "repo": "google-deepmind/mujoco",
+    "stars": 14950,
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "date": "2026-09-06",
+    "topic": "robotics",
+    "score": 5980.1
+  },
+  {
     "repo": "earthtojake/text-to-cad",
-    "stars": 14502,
+    "stars": 14504,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-09-06",
     "topic": "robotics",
-    "score": 5800.9
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3924,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-09-06",
-    "topic": "embodied-ai",
-    "score": 1569.7
+    "score": 5801.7
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -131,13 +161,23 @@
   },
   {
     "repo": "deeplethe/utopia",
-    "stars": 5074,
+    "stars": 5081,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-09-06",
     "topic": "world-model",
-    "score": 2029.7
+    "score": 2032.5
+  },
+  {
+    "repo": "OpenHUTB/hutb",
+    "stars": 565,
+    "language": "C++",
+    "description": "人车模拟器（Human-vehicle Simulator）",
+    "url": "https://github.com/OpenHUTB/hutb",
+    "date": "2026-09-06",
+    "topic": "humanoid",
+    "score": 226.1
   },
   {
     "repo": "softmata/horus",
@@ -170,16 +210,6 @@
     "score": 96.1
   },
   {
-    "repo": "Hebbian-Robotics/hflow",
-    "stars": 236,
-    "language": "Python",
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "date": "2026-09-06",
-    "topic": "lerobot",
-    "score": 94.5
-  },
-  {
     "repo": "DexForce/EmbodiChain",
     "stars": 216,
     "language": "Python",
@@ -188,6 +218,16 @@
     "date": "2026-09-06",
     "topic": "robot-learning",
     "score": 86.5
+  },
+  {
+    "repo": "Tavish9/any4lerobot",
+    "stars": 1147,
+    "language": "Python",
+    "description": "🎁 A collection of utilities for LeRobot.",
+    "url": "https://github.com/Tavish9/any4lerobot",
+    "date": "2026-09-06",
+    "topic": "lerobot",
+    "score": 458.9
   },
   {
     "repo": "rokbenko/quackd",
@@ -228,26 +268,6 @@
     "date": "2026-09-05",
     "topic": "robotics",
     "score": 17803.3
-  },
-  {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15815,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-09-05",
-    "topic": "robotics",
-    "score": 6326.1
-  },
-  {
-    "repo": "google-deepmind/mujoco",
-    "stars": 14949,
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "url": "https://github.com/google-deepmind/mujoco",
-    "date": "2026-09-05",
-    "topic": "robotics",
-    "score": 5979.7
   },
   {
     "repo": "rerun-io/rerun",
@@ -351,13 +371,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2452,
+    "stars": 2451,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-09-04",
     "topic": "robot-learning",
-    "score": 980.9
+    "score": 980.5
   },
   {
     "repo": "unrealcv/unrealcv",
@@ -381,13 +401,13 @@
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
-    "stars": 2238,
+    "stars": 2239,
     "language": "",
     "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
     "url": "https://github.com/LMD0311/Awesome-World-Model",
     "date": "2026-09-04",
     "topic": "world-model",
-    "score": 895.3
+    "score": 895.7
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -460,24 +480,14 @@
     "score": 188.9
   },
   {
-    "repo": "Tavish9/any4lerobot",
-    "stars": 1147,
-    "language": "Python",
-    "description": "🎁 A collection of utilities for LeRobot.",
-    "url": "https://github.com/Tavish9/any4lerobot",
-    "date": "2026-09-03",
-    "topic": "lerobot",
-    "score": 458.9
-  },
-  {
     "repo": "PetoiCamp/OpenCat-Quadruped-Robot",
-    "stars": 5275,
+    "stars": 5276,
     "language": "C++",
     "description": "An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development. ",
     "url": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot",
     "date": "2026-09-02",
     "topic": "physical-ai",
-    "score": 2110.1
+    "score": 2110.5
   },
   {
     "repo": "PetoiCamp/OpenCat-Old",
@@ -680,16 +690,6 @@
     "score": 379.3
   },
   {
-    "repo": "OpenHUTB/hutb",
-    "stars": 565,
-    "language": "C++",
-    "description": "人车模拟器（Human-vehicle Simulator）",
-    "url": "https://github.com/OpenHUTB/hutb",
-    "date": "2026-08-28",
-    "topic": "humanoid",
-    "score": 226.1
-  },
-  {
     "repo": "zauberzeug/nicegui",
     "stars": 16189,
     "language": "Python",
@@ -711,13 +711,13 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 15809,
+    "stars": 15810,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-08-26",
     "topic": "embodied-ai",
-    "score": 6323.7
+    "score": 6324.1
   },
   {
     "repo": "Open-X-Humanoid/x-humanoid-training-toolchain",
