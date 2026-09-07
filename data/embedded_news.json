@@ -1,5 +1,12 @@
 [
   {
+    "title": "Comparing PETG and PCTG Filaments",
+    "source": "Hackaday",
+    "date": "2026-09-07",
+    "url": "https://hackaday.com/2026/09/07/comparing-petg-and-pctg-filaments/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"460\" src=\"https://hackaday.com/wp-content/uploads/2026/09/petg_vs_pctg_my_tech_fun_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The average 3D printer owner knows a few types of filaments &#8211; PLA, ABS, somewhere in the middle, PETG.  PCTG is another option that can be confusingly similar to PETG. <a class=\"read-more\" href=\"https://hackaday.com/2026/09/07/comparing-petg-and-pctg-filaments/\">&#8230;read more</a>"
+  },
+  {
     "title": "NES Radar Tracks Flights at 9600 Baud",
     "source": "Hackaday",
     "date": "2026-09-07",
@@ -14,18 +21,18 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"404\" src=\"https://hackaday.com/wp-content/uploads/2026/09/charged_water_drops_corrosion_zhongyuan_ni_et_al_nature_2026.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Generally, we do not look at the gentle patter of raindrops on a surface with much concern, but according to a study by [Zhongyuan Ni] et al. in Nature, we should <a class=\"read-more\" href=\"https://hackaday.com/2026/09/06/how-charged-water-drops-induce-corrosion/\">&#8230;read more</a>"
   },
   {
-    "title": "XIAO SAMD21 Plus and RP2350 Plus USB-C boards get additional GPIO pins, integrated Li-ion battery management",
+    "title": "Reverse Engineering Without CAD Data: How MetroY Ultra Turns Physical Parts into Digital Designs (Sponsored)",
     "source": "CNX Software",
     "date": "2026-09-07",
-    "url": "https://www.cnx-software.com/2026/09/07/xiao-samd21-plus-and-rp2350-plus-usb-c-boards-get-additional-gpio-pins-integrated-li-ion-battery-management/",
-    "summary": "<div><img alt=\"XIAO SAMD21 Plus\" class=\"attachment-medium size-medium wp-post-image\" height=\"494\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/XIAO-SAMD21-Plus-720x494.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Seeed Studio has expanded its XIAO Plus Series introduced in 2025, with the XIAO SAMD21 Plus and XIAO RP2350 Plus USB-C boards adding several GPIOs and integrated Li-ion battery management to the XIAO (SAMD21) and XIAO RP2040, launched in 2020 and 2021, respectively, while keeping the same form factor. XIAO SAMD21 Plus Specifications: MCU – Microchip SAMD21G18 Arm Cortex-M0+ microcontroller at up to 48MHz with 256KB Flash,32KB SRAM USB – 1x USB Type-C port for power and programming Expansion I/Os 2x 7-pin &#8220;legacy&#8221; headers with 11x analog inputs, 11x digital I/Os, 1x DAC, SPI, UART, and I2C Castellated holes and pads with 16x digital I/Os, I2C,and I2S 3.3V I/O voltage (not 5V tolerant) Misc Reset and Boot buttons RGB LED Charge LED Power Supply 5V via USB-C port Pads for battery On-board PMIC Dimensions – 23.5×17.5 mm Temperature Range &#8211; -40°C ~ 85°C The upgraded variant of the XIAO SAMD21 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/07/xiao-samd21-plus-and-rp2350-plus-usb-c-boards-get-additional-gpio-pins-integrated-li-ion-battery-management/\">XIAO SAMD21 Plus and RP2350 Plus USB-C boards get additional GPIO pins, integrated Li-ion battery management</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "url": "https://www.cnx-software.com/2026/09/07/reverse-engineering-without-cad-data-how-metroy-ultra-turns-physical-parts-into-digital-designs/",
+    "summary": "<div><img alt=\"MetroY Ultra Scan\" class=\"attachment-medium size-medium wp-post-image\" height=\"405\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/MetroY-Ultra-Scan-720x405.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>When the Part Exists, but the Data Doesn’t Reverse engineering often starts with a physical part but no reliable digital data. In restoration and customization, manual measurement can provide basic dimensions, but it becomes limiting when complex curves, mounting points, and tight clearances need to be captured accurately. MetroY Ultra captures the actual three-dimensional geometry of a part, providing a reliable digital reference for reverse engineering, custom design, and manufacturing. Designing a Custom Motorcycle Seat Tray from Accurate Scan Data In a custom 1984 Honda CB400 build, the builder needed to create a seat tray and seat pan for a custom seat while integrating the rear fender into the modified rear subframe. The challenge was not simply designing a new part, but making that part accurately fit a motorcycle whose geometry had already been modified. Traditionally, this kind of work is often done with welded sheet metal or fiberglass layup. [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/07/reverse-engineering-without-cad-data-how-metroy-ultra-turns-physical-parts-into-digital-designs/\">Reverse Engineering Without CAD Data: How MetroY Ultra Turns Physical Parts into Digital Designs (Sponsored)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Ed’s Vulture Fund",
-    "source": "Electronics Weekly",
+    "title": "XIAO SAMD21 Plus and RP2040 Plus USB-C boards get additional GPIO pins, integrated Li-ion battery management",
+    "source": "CNX Software",
     "date": "2026-09-07",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/eds-vulture-fund-2026-09/",
-    "summary": "<p>My Vulture Fund for buying distressed AI assets is growing nicely, Ed confides to his diary. My assumptions are that, in an AI bust,  pure-play AI companies like OpenAI and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/eds-vulture-fund-2026-09/\">Ed’s Vulture Fund</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.cnx-software.com/2026/09/07/xiao-samd21-plus-and-rp2040-plus-usb-c-boards-get-additional-gpio-pins-integrated-li-ion-battery-management/",
+    "summary": "<div><img alt=\"XIAO SAMD21 Plus\" class=\"attachment-medium size-medium wp-post-image\" height=\"494\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/XIAO-SAMD21-Plus-720x494.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Seeed Studio has expanded its XIAO Plus Series introduced in 2025, with the XIAO SAMD21 Plus and XIAO RP2040 Plus USB-C boards adding several GPIOs and integrated Li-ion battery management to the XIAO (SAMD21) and XIAO RP2040, launched in 2020 and 2021, respectively, while keeping the same form factor. XIAO SAMD21 Plus Specifications: MCU – Microchip SAMD21G18 Arm Cortex-M0+ microcontroller at up to 48MHz with 256KB Flash,32KB SRAM USB – 1x USB Type-C port for power and programming Expansion I/Os 2x 7-pin &#8220;legacy&#8221; headers with 11x analog inputs, 11x digital I/Os, 1x DAC, SPI, UART, and I2C Castellated holes and pads with 16x digital I/Os, I2C,and I2S 3.3V I/O voltage (not 5V tolerant) Misc Reset and Boot buttons RGB LED Charge LED Power Supply 5V via USB-C port Pads for battery On-board PMIC Dimensions – 23.5×17.5 mm Temperature Range &#8211; -40°C ~ 85°C The upgraded variant of the XIAO SAMD21 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/07/xiao-samd21-plus-and-rp2040-plus-usb-c-boards-get-additional-gpio-pins-integrated-li-ion-battery-management/\">XIAO SAMD21 Plus and RP2040 Plus USB-C boards get additional GPIO pins, integrated Li-ion battery management</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Hackaday Links: September 6, 2026",
@@ -54,13 +61,6 @@
     "date": "2026-09-06",
     "url": "https://hackaday.com/2026/09/06/this-clavichord-is-a-well-tempered-project/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"310\" src=\"https://hackaday.com/wp-content/uploads/2026/09/Screenshot-2026-09-05-at-15-17-23-Making-a-Clavichord-YouTube.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Clavichord needs no introduction to fans of Early Music, and a lengthy one to literally everyone else. Even classical music buffs who have heard of Bach&#8217;s works for the <a class=\"read-more\" href=\"https://hackaday.com/2026/09/06/this-clavichord-is-a-well-tempered-project/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Printing Micron-Scale Benchies With Resin and Turmeric",
-    "source": "Hackaday",
-    "date": "2026-09-06",
-    "url": "https://hackaday.com/2026/09/06/printing-micron-scale-benchies-with-resin-and-turmeric/",
-    "summary": "<div><img alt=\"A white background is shown, with a grey metal plate at the base of the image. On the plate are three tiny green Benchy models. Above the Benchies is a glass cylinder. Below one of the Benchy models, text says &quot;250 µm&quot;.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/micron_benchies.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Resin 3D printing has opened up a whole new scale of resolution for hackers, but the technology can go still finer; commercial micro-SLA and two-photon polymerization printers can print items <a class=\"read-more\" href=\"https://hackaday.com/2026/09/06/printing-micron-scale-benchies-with-resin-and-turmeric/\">&#8230;read more</a>"
   },
   {
     "title": "ACEMAGIC Kron Mini K5 Review – Part 2: A $400 Intel Core 3 304 Wildcat Lake mini PC tested with Windows 11 Pro",
@@ -166,69 +166,6 @@
     "date": "2026-09-04",
     "url": "https://www.embedded.com/everspin-teledyne-hirel-partner-on-mission-critical-mram/",
     "summary": "<p>Everspin Technologies and Teledyne HiRel Semiconductors have announced a strategic partnership to expand the use of magnetoresistive random-access memory (MRAM) in aerospace, defense, and other mission-critical applications. The collaboration will initially focus on Everspin's 256-Mb PERSYST spin-transfer torque MRAM (STT-MRAM), combining RAM-like access performance with non-volatile data retention. Under the agreement, Teledyne HiRel will offer [...]</p>\n<p>The post <a href=\"https://www.embedded.com/everspin-teledyne-hirel-partner-on-mission-critical-mram/\">Everspin, Teledyne HiRel Partner on Mission-Critical MRAM</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "iSpace leading ESA’s first lunar polar ice exploration rover mission",
-    "source": "Electronics Weekly",
-    "date": "2026-09-04",
-    "url": "https://www.electronicsweekly.com/news/ispace-leading-esas-first-lunar-polar-ice-exploration-rover-mission-2026-09/",
-    "summary": "<p>iSpace-Europe and the European Space Agency (ESA) have officially agreed the MAGPIE mission, Europe&#8217;s first lunar polar ice exploration rover. MAGPIE stands for the “Mission for Advanced Geophysics and Polar [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/ispace-leading-esas-first-lunar-polar-ice-exploration-rover-mission-2026-09/\">iSpace leading ESA&#8217;s first lunar polar ice exploration rover mission</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Open Cosmos becomes approved provider for UK sovereign comms",
-    "source": "Electronics Weekly",
-    "date": "2026-09-04",
-    "url": "https://www.electronicsweekly.com/news/business/open-cosmos-becomes-approved-provider-for-uk-sovereign-comms-2026-09/",
-    "summary": "<p>Open Cosmos, the Harwell, Oxfordshire-based company, has been selected as an approved supplier &#8211; via the UK&#8217;s Government Commercial Agency (GCA) &#8211; to provide satellite connectivity through its low Earth [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/open-cosmos-becomes-approved-provider-for-uk-sovereign-comms-2026-09/\">Open Cosmos becomes approved provider for UK sovereign comms</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Staccato UWB",
-    "source": "Electronics Weekly",
-    "date": "2026-09-04",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/staccato-uwb-2026-09/",
-    "summary": "<p>19 years ago, as now, UWB looked like a pronising technology. ‘Staccato Communications, an Ultra Wideband (UWB) wireless technology pioneer and Wireless USB leader, today announced that its Ripcord SC3500 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/staccato-uwb-2026-09/\">Staccato UWB</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "What caught your eye? Chip design, Nvidia Hugging Face, pureLiFi",
-    "source": "Electronics Weekly",
-    "date": "2026-09-04",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-2-2026-09/",
-    "summary": "<p>What caught our eye this last week? A new business model for AI-based chip design, the sheer craziness of AI's circular financing, and Edinburgh's pureLiFi going into administration...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-2-2026-09/\">What caught your eye? Chip design, Nvidia Hugging Face, pureLiFi</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Midas Displays partners with CLAF to widen range of power supplies",
-    "source": "Electronics Weekly",
-    "date": "2026-09-04",
-    "url": "https://www.electronicsweekly.com/news/business/distribution/midas-displays-partners-with-claf-to-widen-range-of-power-supplies-2026-09/",
-    "summary": "<p>Midas Displays, the display specialist based in Great Yarmouth, is partnering with CLAF Guangzhou Science and Technology, for the latter&#8217;s range of power supply systems. CLAF &#8220;We’re excited to add [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/distribution/midas-displays-partners-with-claf-to-widen-range-of-power-supplies-2026-09/\">Midas Displays partners with CLAF to widen range of power supplies</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Most Read – Cook’s farewell, Hynix NAND fab, GaN-on-Si transistor",
-    "source": "Electronics Weekly",
-    "date": "2026-09-04",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-cooks-farewell-hynix-nand-fab-gan-on-si-transistor-2026-09/",
-    "summary": "<p>Considering only the news articles written in the last week, the most popular articles on the site cover Tim Cook’s final memo to Apple employees, a solid H1 for Chinese chip companies, and another example of Nvidia being ‘The Central Bank Of AI.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-cooks-farewell-hynix-nand-fab-gan-on-si-transistor-2026-09/\">Most Read &#8211; Cook’s farewell, Hynix NAND fab, GaN-on-Si transistor</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "China 15 years behind in IC process technology",
-    "source": "Electronics Weekly",
-    "date": "2026-09-04",
-    "url": "https://www.electronicsweekly.com/news/business/china-15-years-behind-in-ic-process-technology-2026-09/",
-    "summary": "<p>China is 15 years behind in chip manufacturing, according to Frank Rohmund (pictured) who heads up the Semiconductor Manufacturing Technology at Zeiss. Zeiss is the only source of the optical [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/china-15-years-behind-in-ic-process-technology-2026-09/\">China 15 years behind in IC process technology</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Simoco and Antevia Networks hook up for private 5G deployment",
-    "source": "Electronics Weekly",
-    "date": "2026-09-04",
-    "url": "https://www.electronicsweekly.com/news/business/simoco-and-antevia-networks-hook-up-for-private-5g-deployment-2026-09/",
-    "summary": "<p>Simoco and Antevia Networks, the UK developer of the 5G SHIFT private 5G platform, will integrate rapidly deployable private 5G capability into Simoco&#8217;s INEOS Grenadier mission-critical communications platform. The partnership [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/simoco-and-antevia-networks-hook-up-for-private-5g-deployment-2026-09/\">Simoco and Antevia Networks hook up for private 5G deployment</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Imec examines biomanufacturing innovations for therapeutics",
-    "source": "Electronics Weekly",
-    "date": "2026-09-04",
-    "url": "https://www.electronicsweekly.com/news/business/imec-examines-biomanufacturing-innovations-for-therapeutics-2026-09/",
-    "summary": "<p>Imec’s Bioconvergence Forum: ‘Specialty Silicon Driving Deeptech Life Sciences &#38; Medtech’, agreed that the future of biomanufacturing depends not just on better sensors, but on a more open and collaborative [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/imec-examines-biomanufacturing-innovations-for-therapeutics-2026-09/\">Imec examines biomanufacturing innovations for therapeutics</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Halloween Costume Detector #Raspberry Pi",
@@ -369,13 +306,6 @@
     "date": "2026-09-02",
     "url": "https://www.cnx-software.com/2026/09/02/lightmake-l4-3d-printer-features-four-independent-printing-heads/",
     "summary": "<div><img alt=\"LightMake L4 3D printer four printing heads\" class=\"attachment-medium size-medium wp-post-image\" height=\"536\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/LightMake-L4-3D-printer-four-printing-heads-1-720x536.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The LightMake L4 is a desktop 3D printer with four independent printing heads for high-throughput multi-color, multi-material, and batch production. It uses four independently controlled printheads and linear-motor motion instead of conventional belts, allowing users to print four identical models simultaneously, produce complex multi-color parts with minimal purge waste, or combine up to four materials in a single print. Typically, multi-color FDM 3D printers like the Bambu Lab X1 or Geeetech A20M use a single-nozzle purge material during every color change, which leads to a lot of material waste and longer print times. The LightMake L4 takes a different approach by keeping four filaments loaded and heated in four completely separate extruders. According to the company, this allows for one-second toolhead changes and near-zero purge waste. The linear motor system also promises ±1µm motion precision and speeds of up to 500 mm/s. LightMake L4 and L1 specifications: Printing technology – [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/02/lightmake-l4-3d-printer-features-four-independent-printing-heads/\">LightMake L4 3D printer features four independent heads for simultaneous or multi-color printing (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "GPIBee (UsbGpib V3) USB-to-GPIB adapter gains Ethernet (PoE), but launches as closed-source hardware",
-    "source": "CNX Software",
-    "date": "2026-09-02",
-    "url": "https://www.cnx-software.com/2026/09/02/gpibee-usbgpib-v3-usb-to-gpib-adapter-gains-ethernet-poe-but-launches-as-closed-source-hardware/",
-    "summary": "<div><img alt=\"GPIBee PoE to GPIB adapter\" class=\"attachment-medium size-medium wp-post-image\" height=\"370\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/GPIBee-PoE-to-GPIB-adapter-720x370.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Last December, we wrote about XyphroLabs’s UsbGpib open-source hardware, affordable, and portable USB-to-GPIB adapter designed for legacy GPIB/IEEE-488 instruments and offering modern hardware and software. At the time, the UsbGpib V3 was also in the works with Ethernet (PoE) support, and the good news is that it&#8217;s now available, but named GPIBee. The less good news is that while V1 and V2 were both open-source hardware products (and still are), the GPIBee has been released as closed-source hardware for reasons we&#8217;ll explain below. GPIBee specifications: Microcontroller – Not disclosed. But not the Microchip ATMega32U4 8-bit AVR MCU found in V2 since its USB interface is limited to 12 Mbps Host interfaces USB 2.0 (480 Mbps) Type-C port with support for four modes Full USBTMC (USB Test and Measurement Class) VXI-11 over USB-Ethernet (CDC NCM) linux-gpib native interface Prologix-compatible (++ commands) via CDC UART (virtual COM port) 10/100Mbps Ethernet RJ45 port [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/02/gpibee-usbgpib-v3-usb-to-gpib-adapter-gains-ethernet-poe-but-launches-as-closed-source-hardware/\">GPIBee (UsbGpib V3) USB-to-GPIB adapter gains Ethernet (PoE), but launches as closed-source hardware</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "NXP MCX A5 MCUs Bring 10BASE-T1S Ethernet to Industrial Edge Nodes",
