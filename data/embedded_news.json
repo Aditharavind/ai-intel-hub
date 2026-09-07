@@ -1,5 +1,19 @@
 [
   {
+    "title": "A Vacuum Tube Computer For The Home",
+    "source": "Hackaday",
+    "date": "2026-09-07",
+    "url": "https://hackaday.com/2026/09/07/a-vacuum-tube-computer-for-the-home/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/tube-computer-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The earliest all-electronic computers used vacuum tubes, and most of us will know about machines such as ENIAC or Colossus. Vast machines that required the budget of a country at <a class=\"read-more\" href=\"https://hackaday.com/2026/09/07/a-vacuum-tube-computer-for-the-home/\">&#8230;read more</a>"
+  },
+  {
+    "title": "The Helicopter with Radioactive Blades",
+    "source": "Hackaday",
+    "date": "2026-09-07",
+    "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"486\" src=\"https://hackaday.com/wp-content/uploads/2026/09/CH-53D_Sea_Stallion_of_HMH-362_in_Afghanistan_on_26_May_2012.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Sometimes you find gold in unexpected places. In this case, it&#8217;s from a video about the CH-53 helicopter. The CH-53 Sea Stallion first entered service in 1966. It&#8217;s a huge <a class=\"read-more\" href=\"https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/\">&#8230;read more</a>"
+  },
+  {
     "title": "How To Talk To A Machine Without Anthropomorphising It",
     "source": "Hackaday",
     "date": "2026-09-07",
@@ -35,6 +49,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"404\" src=\"https://hackaday.com/wp-content/uploads/2026/09/charged_water_drops_corrosion_zhongyuan_ni_et_al_nature_2026.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Generally, we do not look at the gentle patter of raindrops on a surface with much concern, but according to a study by [Zhongyuan Ni] et al. in Nature, we should <a class=\"read-more\" href=\"https://hackaday.com/2026/09/06/how-charged-water-drops-induce-corrosion/\">&#8230;read more</a>"
   },
   {
+    "title": "YuzukiNeko – A Linux-capable Allwinner F101 RISC-V SBC with Raspberry Pi Pico form factor",
+    "source": "CNX Software",
+    "date": "2026-09-07",
+    "url": "https://www.cnx-software.com/2026/09/08/yuzukineko-a-linux-capable-allwinner-f101-64-bit-risc-v-sbc-with-raspberry-pi-pico-form-factor/",
+    "summary": "<div><img alt=\"YuzukiNeko Allwinner F101 SBC\" class=\"attachment-medium size-medium wp-post-image\" height=\"476\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/YuzukiNeko-Allwinner-F101-SBC-720x476.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>YuzukiHD has made another open-source hardware Linux SBC. YuzukiNeko is a Raspberry Pi Pico-sized single board computer powered by a new Allwinner F101 RISC-V SoC. The Allwinner F101 processor features a single 1.008 GHz C907 RISC-V core, 8MB or 16 MB PSRAM, and support for various display interfaces such as MIPI DSI, 24-bit RGB, and LVDS. The YuzukiNeko board itself features the F101 SoC, an SPI NOR flash, a microSD card for storage, a USB-C port, and two 20-pin GPIO headers. YuzukiNeko specifications: SoC &#8211; Allwinner F101 CPU &#8211; T-head C907 RISC-V core up to 1.008 GHz Memory &#8211; 8MB or 16MB PSRAM @ 252 MHz Package &#8211; QFN-68 Storage 128 Mbit NOR flash (PY25Q128HA-SUH-IT) MicroSD card slot USB &#8211; USB Type-C port for data, power, and programming Expansion 2x 20-pin expansion headers with GPIOs, ADC, 5V, 3.3V, and GND 5x pads with HP out (analog speaker output) and four [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/08/yuzukineko-a-linux-capable-allwinner-f101-64-bit-risc-v-sbc-with-raspberry-pi-pico-form-factor/\">YuzukiNeko &#8211; A Linux-capable Allwinner F101 RISC-V SBC with Raspberry Pi Pico form factor</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Reverse Engineering Without CAD Data: How MetroY Ultra Turns Physical Parts into Digital Designs (Sponsored)",
     "source": "CNX Software",
     "date": "2026-09-07",
@@ -47,6 +68,13 @@
     "date": "2026-09-07",
     "url": "https://www.cnx-software.com/2026/09/07/xiao-samd21-plus-and-rp2040-plus-usb-c-boards-get-additional-gpio-pins-integrated-li-ion-battery-management/",
     "summary": "<div><img alt=\"XIAO SAMD21 Plus\" class=\"attachment-medium size-medium wp-post-image\" height=\"494\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/XIAO-SAMD21-Plus-720x494.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Seeed Studio has expanded its XIAO Plus Series introduced in 2025, with the XIAO SAMD21 Plus and XIAO RP2040 Plus USB-C boards adding several GPIOs and integrated Li-ion battery management to the XIAO (SAMD21) and XIAO RP2040, launched in 2020 and 2021, respectively, while keeping the same form factor. XIAO SAMD21 Plus Specifications: MCU – Microchip SAMD21G18 Arm Cortex-M0+ microcontroller at up to 48MHz with 256KB Flash,32KB SRAM USB – 1x USB Type-C port for power and programming Expansion I/Os 2x 7-pin &#8220;legacy&#8221; headers with 11x analog inputs, 11x digital I/Os, 1x DAC, SPI, UART, and I2C Castellated holes and pads with 16x digital I/Os, I2C,and I2S 3.3V I/O voltage (not 5V tolerant) Misc Reset and Boot buttons RGB LED Charge LED Power Supply 5V via USB-C port Pads for battery On-board PMIC Dimensions – 23.5×17.5 mm Temperature Range &#8211; -40°C ~ 85°C The upgraded variant of the XIAO SAMD21 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/07/xiao-samd21-plus-and-rp2040-plus-usb-c-boards-get-additional-gpio-pins-integrated-li-ion-battery-management/\">XIAO SAMD21 Plus and RP2040 Plus USB-C boards get additional GPIO pins, integrated Li-ion battery management</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Pixxel raises $100m in Series C for hyperspectral imaging satellites",
+    "source": "Electronics Weekly",
+    "date": "2026-09-07",
+    "url": "https://www.electronicsweekly.com/news/business/finance/pixxel-raises-100m-in-series-c-for-hyperspectral-imaging-satellites-2026-09/",
+    "summary": "<p>Pixxel, the Indian-based space data company, has raised $100 million in a Series C funding round co-led by Temasek and Seraphim Capital, a London-based investment group focused on the Space [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/pixxel-raises-100m-in-series-c-for-hyperspectral-imaging-satellites-2026-09/\">Pixxel raises $100m in Series C for hyperspectral imaging satellites</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Nvidia Results Keep The AI Ball Rolling",
@@ -112,11 +140,60 @@
     "summary": "<p>2Q 2026 marked a major inflection point as switch sales in AI back-end networks surpassed those in front-end networks for the first time, reports Dell’Oro. Meanwhile, Ethernet further extended its [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/switch-sales-in-ai-back-end-networks-overtake-those-in-front-end-networks-2026-09/\">AI back-end network switch sales overtake front-end sales</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Quectel chip supports FRMCS",
-    "source": "Electronics Weekly",
+    "title": "Transmit unsigned 8-bit audio samples as analog FM using a CC1101 module",
+    "source": "Adafruit",
     "date": "2026-09-07",
-    "url": "https://www.electronicsweekly.com/news/business/quectel-chip-supports-frmcs-2026-09/",
-    "summary": "<p>Quectel Wireless Solutions, a Belgrade IoT specialist, has announced an LGA version of its RG660Qx 5G module series, a  sub-6GHz 5G module platform that includes support for the Future Railway [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/quectel-chip-supports-frmcs-2026-09/\">Quectel chip supports FRMCS</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/07/transmit-unsigned-8-bit-audio-samples-as-analog-fm-using-a-cc1101-module/",
+    "summary": "ktauchathuranga has published a library on GitHub called cc1101-analogfm that transmits unsigned 8-bit audio samples as analog FM using a CC1101 radio module. The stream() function takes bytes from any Arduino Stream and treats each one as an audio sample: 0 is the negative peak, 128 is the carrier center, and 255 is the positive [&#8230;]"
+  },
+  {
+    "title": "CHC5 open Camera System Image Sensor Specification comparison",
+    "source": "Adafruit",
+    "date": "2026-09-07",
+    "url": "https://blog.adafruit.com/2026/09/07/chc5-open-camera-system-image-sensor-specification-comparison/",
+    "summary": "Gaurav Singh has posted the first part of a series on the CHC5 open camera system at circuitvalley.com, and it starts with picking a sensor. The post is a side by side technical reference for nine candidates: the Sony IMX477, IMX678, IMX485, IMX585, IMX283, IMX294, IMX568 and IMX565, plus the OmniVision OX08B40. The comparison covers [&#8230;]"
+  },
+  {
+    "title": "Raspberry Pi CM4 bindings for JDI LT070ME05000 1200×1920 IPS display",
+    "source": "Adafruit",
+    "date": "2026-09-07",
+    "url": "https://blog.adafruit.com/2026/09/07/raspberry-pi-cm4-bindings-for-jdi-lt070me05000-1200x1920-ips-display/",
+    "summary": "harlab has published a project that connects the JDI LT070ME05000 display to the Raspberry Pi Compute Module. The panel is the 7 inch 1200&#215;1920 IPS screen from the 2013 Asus/Google Nexus 7 tablet. Some suppliers still have them for around $20 shipped. The display uses a 4-lane DSI interface, so it needs a Compute Module [&#8230;]"
+  },
+  {
+    "title": "nes-radar: Live ADS-B air traffic radar for the original Nintendo Entertainment System",
+    "source": "Adafruit",
+    "date": "2026-09-07",
+    "url": "https://blog.adafruit.com/2026/09/07/nes-radar-live-ads-b-air-traffic-radar-for-the-original-nintendo-entertainment-system/",
+    "summary": "Developer k6lcm has published NES Radar which turns an original Nintendo Entertainment System into a live air traffic scope. Enter any airport&#8217;s four-letter ICAO code on the NES controller, press Start, and aircraft flying near that airport show up as moving targets on the TV. It works for airports worldwide, so a quiet local field [&#8230;]"
+  },
+  {
+    "title": "wordstar: The original, unmodified MicroPro WordStar Professional Release 4 from 1987",
+    "source": "Adafruit",
+    "date": "2026-09-07",
+    "url": "https://blog.adafruit.com/2026/09/07/wordstar-the-original-unmodified-micropro-wordstar-professional-release-4-from-1987/",
+    "summary": "GitHub user nampara-ai has posted a GitHub project that runs MicroPro WordStar Professional Release 4 from 1987 on modern computers. The files in the repo are the original, unmodified binaries, not a clone or a rewrite. WordStar is 16-bit MS-DOS code, so the desktop version wraps it in DOSBox Staging, which is already bundled for [&#8230;]"
+  },
+  {
+    "title": "T3CAD: An agent-driven electronics workspace with KiCad PCB, schematic, Gerber, 3D, library, and more",
+    "source": "Adafruit",
+    "date": "2026-09-07",
+    "url": "https://blog.adafruit.com/2026/09/07/t3cad-an-agent-driven-electronics-workspace-with-kicad-pcb-schematic-gerber-3d-library-and-more/",
+    "summary": "Developer i2cjak has published T3CAD, an agent-driven electronics workspace forked from T3 Code. It pairs coding-agent conversations with KiCad PCB, schematic, Gerber, and 3D inspection. It runs on web, desktop, and mobile. Inside the KiCad viewer there are optional tabs for BOM, footprint, symbol, and EMerge / Analysis. The BOM follows the project&#8217;s saved KiCad [&#8230;]"
+  },
+  {
+    "title": "Stopping the unstoppable",
+    "source": "Adafruit",
+    "date": "2026-09-07",
+    "url": "https://blog.adafruit.com/2026/09/07/stopping-the-unstoppable/",
+    "summary": "Practical Engineering looks at how railroads try to stop a train that has run out of track. The starting point is the 2016 New Jersey Transit crash at Hoboken Terminal, where a commuter train hit the terminal wall at about 21 miles per hour, killing one person and injuring 110. A Long Island Railroad train [&#8230;]"
+  },
+  {
+    "title": "Flipper One Alternative? Free Wili 2 Multitool packs dual RP2350 chips and FPGA",
+    "source": "Adafruit",
+    "date": "2026-09-07",
+    "url": "https://blog.adafruit.com/2026/09/07/flipper-one-alternative-free-wili-2-multitool-packs-dual-rp2350-chips-and-fpga/",
+    "summary": "Julian Horsey writing at Geeky Gadgets covers the Free Wili 2, an open source handheld multi tool that Talking Sasquatch put through its paces on video. It runs dual RP2350 processors with FPGA support, and it is aimed at hardware development, security testing and prototyping work. The front has a 3.5-inch capacitive touchscreen, a D-pad, [&#8230;]"
   },
   {
     "title": "ESP32-Bus-Expander: Expand the radio capabilities of the ESP32 Bit Pirate with 5GHz Wi-Fi and 802.15.4 protocols",
@@ -147,41 +224,6 @@
     "summary": "Pio has spent over a year building NOMAD, a Cyberpunk 2077 inspired electric guitar posted on the PJRC forum. The base is a Harley Benton JA DIY kit, rebuilt around custom electronics. The pickguard is itself a large PCB running a Cypress PSoC5LP, handling pickup buffers, active hum cancelling, capacitive touch buttons, an X-Y touch [&#8230;]"
   },
   {
-    "title": "The 2026 Ig Nobel Awards awards nods to some different achievements",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/the-2026-ig-nobel-awards-awards-nods-to-some-different-achievements/",
-    "summary": "Adam Kovac, writing for Scientific American, covered the 2026 Ig Nobel Prizes, handed out at a ceremony in Zurich on September 3. The awards go to research that sounds absurd on first hearing. The chemistry prize went to Leonard Chavas of DECTRIS Japan and Subramanian Ramaswamy of Purdue University for measuring the calorie content of [&#8230;]"
-  },
-  {
-    "title": "Rebuilding a 1995 GPS Time Server with Raspberry Pi and Python",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/rebuilding-a-1995-gps-time-server-with-raspberry-pi-and-python/",
-    "summary": "A 1995 TrueTime XL-AK GPS time server has been rebuilt around a Raspberry Pi 5, and the writeup was published on jeffgeerling.com. The original unit was bought in June to learn about the history of GPS-based time. Sixteen days later, a similar GPS time server took down Australia&#8217;s cell service for 12 hours. The restomod [&#8230;]"
-  },
-  {
-    "title": "Decompiler Explorer: try 13 decompilers on code",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/decompiler-explorer-try-13-decompilers-on-code/",
-    "summary": "Decompiler Explorer is a web tool at dogbolt.org that runs one binary through many decompilers at once and shows the C-like output side by side. Upload a file, pick which decompilers to run, and compare how each one reads the same code. The current lineup includes angr, Binary Ninja, Boomerang, dewolf, Ghidra, Hex-Rays, Kuna, RecStudio, [&#8230;]"
-  },
-  {
-    "title": "Building an interactive instrument for a one-of-a-kind festival",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/building-an-interactive-instrument-for-a-one-of-a-kind-festival/",
-    "summary": "Ben Holmen built a playable chime instrument for the Eaux Claires festival in Eau Claire, Wisconsin. He calls it Halfmoon Chimes, named for nearby Halfmoon Lake, and the 37 chimes are arranged in a half moon around the player. The notes are aluminum pipe, cut long and then shaved down millimeter by millimeter to tune [&#8230;]"
-  },
-  {
-    "title": "Microsoft 6502 Basic released as open source a year ago",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/microsoft-6502-basic-released-as-open-source-a-year-ago/",
-    "summary": "Dave Farquhar writes at The Silicon Underground that Microsoft released version 1.1 of its 6502 Basic as open source on September 3, 2025. The code went up on GitHub under an MIT license, so it is free to modify and reuse. It is 6,955 lines, written between 1976 and 1978. This is the code behind [&#8230;]"
-  },
-  {
     "title": "An HP 3478A DMM Rescue, Part 1: RIFA Madness",
     "source": "EE Journal",
     "date": "2026-09-07",
@@ -189,46 +231,11 @@
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"214\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/Hero-Image-Part-1-300x214.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I really wasn’t planning on buying another DMM, but the forlorn, tattered and torn HP 3478A with a beat up case and cracked display window called out to me like a sad-eyed puppy or kitten in an animal shelter. Listed at $58 including free shipping, my autonomic nervous system clicked on the “buy it now” &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/an-hp-3478a-dmm-rescue-part-1-rifa-madness/\">Read More &#8594;<span class=\"screen-reader-text\"> \"An HP 3478A DMM Rescue, Part 1: RIFA Madness\"</span></a>"
   },
   {
-    "title": "Hackaday Links: September 6, 2026",
-    "source": "Hackaday",
-    "date": "2026-09-06",
-    "url": "https://hackaday.com/2026/09/06/hackaday-links-september-6-2026/",
-    "summary": "<div><img alt=\"Hackaday Links Column Banner\" class=\"attachment-large size-large wp-post-image\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Yesterday, Isar Aerospace secured its place in the history books when the upper stage of their Spectrum rocket put a payload of CubeSats into low Earth orbit (LEO). Not only <a class=\"read-more\" href=\"https://hackaday.com/2026/09/06/hackaday-links-september-6-2026/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Saturn’s South Pole is Apparently Decagon-Shaped",
-    "source": "Hackaday",
-    "date": "2026-09-06",
-    "url": "https://hackaday.com/2026/09/06/saturns-south-pole-is-apparently-decagon-shaped/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"351\" src=\"https://hackaday.com/wp-content/uploads/2026/09/saturn_south_pole_decagon_sanchez-lavega_et_al_science_adv_2026.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although some would argue that the hexagon is the bestagon, astronomers have discovered that Saturn appears to favor the ten-sided decagon on its south pole. This comes as its south <a class=\"read-more\" href=\"https://hackaday.com/2026/09/06/saturns-south-pole-is-apparently-decagon-shaped/\">&#8230;read more</a>"
-  },
-  {
     "title": "ACEMAGIC Kron Mini K5 Review – Part 2: A $400 Intel Core 3 304 Wildcat Lake mini PC tested with Windows 11 Pro",
     "source": "CNX Software",
     "date": "2026-09-06",
     "url": "https://www.cnx-software.com/2026/09/06/acemagic-kron-mini-k5-review-part-2-a-400-intel-core-3-304-wildcat-lake-mini-pc-tested-with-windows-11-pro/",
     "summary": "<div><img alt=\"ACEMAGIC Kron Mini K5 Intel Core 3 304 review windows 11\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/ACEMAGIC-Kron-Mini-K5-Intel-Core-3-304-review-windows-11-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>After checking out the hardware of the ACEMAGIC Kron Mini K5 with an unboxing and a teardown in the first part of the review, we&#8217;ve now had time to test the Intel Core 3 304 Wildcat Lake mini PC in more depth with Windows 11 Pro. So in this article, we&#8217;ll report our experience with the penta-core mini PC, testing features, running system and AI benchmarks, playing 4K and 8K YouTube videos on Firefox, measuring network throughput (2.5GbE and WiFi 6), evaluating thermal performance, and measuring fan noise and power consumption. Software overview and feature testing The System &#62; About window confirms we have a 1.5 GHz (base frequency) Intel Core 3 304 computer paired with 12GB of RAM and 477GB of storage, running Windows 11 Pro 25H2 build 26200.9168. HWiNFO 64 provides additional details about the 15W Intel Core 3 304 penta-core (1P+4E) Wildcat Lake-U processor, the motherboard with [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/06/acemagic-kron-mini-k5-review-part-2-a-400-intel-core-3-304-wildcat-lake-mini-pc-tested-with-windows-11-pro/\">ACEMAGIC Kron Mini K5 Review &#8211; Part 2: A $400 Intel Core 3 304 Wildcat Lake mini PC tested with Windows 11 Pro</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Ubisoft decides Linux isn’t worth the effort",
-    "source": "Adafruit",
-    "date": "2026-09-06",
-    "url": "https://blog.adafruit.com/2026/09/06/ubisoft-decides-linux-isnt-worth-the-effort/",
-    "summary": "Sourav Rudra reports at It&#8217;s FOSS that Ubisoft is dropping Linux support for its melee fighting game For Honor. Starting September 10, the game will no longer be playable on Linux desktops or the Steam Deck. The cutoff lands the same day the game&#8217;s Ranked Dominion and Ranked Duel modes go live. Ubisoft says the [&#8230;]"
-  },
-  {
-    "title": "1960s Theory That Stonehenge Was a Prehistoric Computer",
-    "source": "Adafruit",
-    "date": "2026-09-06",
-    "url": "https://blog.adafruit.com/2026/09/06/1960s-theory-that-stonehenge-was-a-prehistoric-computer/",
-    "summary": "One of the earliest near-accurate depictions of Stonehenge by Lucas de Heere, image via Wikipedia Commons &#160; Though now debunked, in 1966 Gerald Hawkins put forth the theory that Stonehenge was actually an ancient computer and the ring of circles could have been used to follow the Moon, and predict eclipses. Even though future research [&#8230;]"
-  },
-  {
-    "title": "Surprisingly STEM: Telescope Engineer",
-    "source": "Adafruit",
-    "date": "2026-09-06",
-    "url": "https://blog.adafruit.com/2026/09/06/surprisingly-stem-telescope-engineer/",
-    "summary": "In this episode of Surprisingly STEM from Learn with NASA, Mechanical Engineer Caroline Griffin gives viewers an inside look at the Nancy Grace Roman Space Telescope. Set your path to the stars with the Adafruit Learning System. In this project we&#8217;ll build the iconic SpaceX helmet! This helmet features an articulating top half that allows [&#8230;]"
   },
   {
     "title": "OpenTrailPaper transforms LILYGO T5 E-Paper S3 Pro devkit into a DIY e‑paper bike computer",
@@ -376,13 +383,6 @@
     "date": "2026-09-03",
     "url": "https://www.eejournal.com/article/are-you-conversing-with-a-human-or-an-ai/",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/max-0515-image-for-home-page-modulate-scam-ai-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I just received a phone call from a famous company whose name we shall not speak lest they turn their corporate frowny face in my general direction. At first, I thought I was talking to a person, but his (or its) responses to some of my questions sounded a bit “glitchy.” Eventually I posed my &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/are-you-conversing-with-a-human-or-an-ai/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Are You Conversing with a Human or an AI?\"</span></a>"
-  },
-  {
-    "title": "LightMake L4 3D printer features four independent heads for simultaneous or multi-color printing (Crowdfunding)",
-    "source": "CNX Software",
-    "date": "2026-09-02",
-    "url": "https://www.cnx-software.com/2026/09/02/lightmake-l4-3d-printer-features-four-independent-printing-heads/",
-    "summary": "<div><img alt=\"LightMake L4 3D printer four printing heads\" class=\"attachment-medium size-medium wp-post-image\" height=\"536\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/LightMake-L4-3D-printer-four-printing-heads-1-720x536.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The LightMake L4 is a desktop 3D printer with four independent printing heads for high-throughput multi-color, multi-material, and batch production. It uses four independently controlled printheads and linear-motor motion instead of conventional belts, allowing users to print four identical models simultaneously, produce complex multi-color parts with minimal purge waste, or combine up to four materials in a single print. Typically, multi-color FDM 3D printers like the Bambu Lab X1 or Geeetech A20M use a single-nozzle purge material during every color change, which leads to a lot of material waste and longer print times. The LightMake L4 takes a different approach by keeping four filaments loaded and heated in four completely separate extruders. According to the company, this allows for one-second toolhead changes and near-zero purge waste. The linear motor system also promises ±1µm motion precision and speeds of up to 500 mm/s. LightMake L4 and L1 specifications: Printing technology – [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/02/lightmake-l4-3d-printer-features-four-independent-printing-heads/\">LightMake L4 3D printer features four independent heads for simultaneous or multi-color printing (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "NXP MCX A5 MCUs Bring 10BASE-T1S Ethernet to Industrial Edge Nodes",
