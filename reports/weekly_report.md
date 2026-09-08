@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-08 06:34 UTC
+Generated: 2026-09-08 11:48 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-09-08 06:34 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83441 | 33376.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63598 | 25439.3 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83442 | 33376.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63600 | 25440.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44508 | 17803.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30465 | 12186.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| questdb/questdb | 17310 | 6924.1 | [link](https://github.com/questdb/questdb) |
+| AtsushiSakai/PythonRobotics | 30468 | 12187.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| questdb/questdb | 17312 | 6924.9 | [link](https://github.com/questdb/questdb) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
+| Wravn/privacy-policy-content-control | 117 | 35.2 | [link](https://huggingface.co/Wravn/privacy-policy-content-control) |
+| Wravn/privacy-policy-content-selling | 116 | 34.9 | [link](https://huggingface.co/Wravn/privacy-policy-content-selling) |
 | jagwang/mungkeul-physical-ai | 87 | 26.2 | [link](https://huggingface.co/jagwang/mungkeul-physical-ai) |
-| physicalairi/so101_1200ep_smolvla | 48 | 14.5 | [link](https://huggingface.co/physicalairi/so101_1200ep_smolvla) |
-| hfunknown/qwen3-8b-navigation-lora-persistent | 42 | 12.7 | [link](https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-persistent) |
-| hfunknown/qwen3-8b-navigation-lora-stateless | 40 | 12.1 | [link](https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-stateless) |
-| physicalairi/so101_1200ep_pi05_20260805 | 34 | 10.3 | [link](https://huggingface.co/physicalairi/so101_1200ep_pi05_20260805) |
+| hfunknown/qwen3-8b-navigation-lora-persistent | 44 | 13.3 | [link](https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-persistent) |
+| hfunknown/qwen3-8b-navigation-lora-stateless | 43 | 13.0 | [link](https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-stateless) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-09-08 06:34 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-08 | CATL leads DeepCtrls Series B extension for physical AI - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFp0a1NGZ3JtV3BJTjNpemR0YlFHNUtYbmU3bXoyMmRPQl82STI2VTlMX2JyWjczSUxZd3RFUVREZ2dqRmVGQVpzSmUtVGdvelBCTGhfbF8wXzhQRTcxaTN0RHVSUHBlRjJxQ1JKOU1ueXJVd1VieG9RM1dlanpHbXpXSXp3Y3Fqb1BuYnVhV0tOVE0?oc=5) |
 | 2026-09-08 | Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus - CnEVPost | physical ai startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE5paGtCdFl4cE13UjYyQlF6U1Fyc3BkYlZPQ0c5MUotU3hrRFJLS1h0ZVlKS1ZuNDBsN0dvdzZYcXpkNlpiNFpkMlZTaUs1ZHRfYVZURzF6dk5pU0V1UVg3VzVIMEltRzkyQ1B6Uk1icUl4TGQ4QmNjSg?oc=5) |
+| 2026-09-08 | CATL leads DeepCtrls Series B extension for physical AI - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFp0a1NGZ3JtV3BJTjNpemR0YlFHNUtYbmU3bXoyMmRPQl82STI2VTlMX2JyWjczSUxZd3RFUVREZ2dqRmVGQVpzSmUtVGdvelBCTGhfbF8wXzhQRTcxaTN0RHVSUHBlRjJxQ1JKOU1ueXJVd1VieG9RM1dlanpHbXpXSXp3Y3Fqb1BuYnVhV0tOVE0?oc=5) |
+| 2026-09-08 | Chinese robotics startup Simple AI completes pre-A+ round - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTklySmp5SjY4M0FLNWV3aEt0U085N2lTOU9LeElpa0xhTmFUM1F1MnZsY2l5QUdqQVZmcDVpaERxeXRhNTFEUU11ejVVaDFDSTJuV0tpREp1NVUwbEEzamZ2cVR5b2ZFZmpDZGxLd1ZyQmJZRUU5bXN2b2RGMUwweGhBYmdaX2xa?oc=5) |
+| 2026-09-08 | China’s Humanoid Robot Boom, Part II: Startups Move From Robot Shows to Real Jobs - TechNode | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmxzSzJXS1pJdEh2eXVSVThIZXR0RFNEYWJwS2NMMlF1SHZsZjVDRjlobWg0WXkzMVhLblZaU21fY1lLS2VRZDRaLUdtX2pkX2VqaUJQZ0tiVzZtLXduaGo1M3ZEdjJlNzZjYURKWnFNWFZPZVRzaC1vclBtcVJZR09mWlA0RGxrMFFmWkZBOExadjNhSFJpRS1VM0pPRWlZenpqdmRFRnZILXBRU250Nw?oc=5) |
 | 2026-09-05 | Korea Bets Its Physical AI Advantage on Manufacturing Depth - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0tMWTJjLV9XZXRsOVVFU2d4OEx6c3BvX2F2NHV2MXFtYkNsY0w1Wjd2VDlaYUp4ZzRzX3JhWm4yTGt5amM5R0Vscm5ENmYxRjhQcHFPZEZIQ0VvU3NQZXlGU21lbnc3V3VXUzJmRkdjOWJVOHAtNmExT1FER01DTFBmSVVIM1Ju?oc=5) |
-| 2026-09-04 | Nvidia-Backed Japanese Startup Pushes Ahead in Physical AI - News On Japan | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CX2ZzSkFMclhGaHExUVZwanYxLVNCTEVfbmJMWjVnUnBlTVV0dnVaZHRsdTlBb284c3ltd2VsVUdiNkhWa3kyZExxZzdoVlh1MTZhVA?oc=5) |
-| 2026-09-03 | Robot startups are trying everything they can think of to get more data - understandingai.org | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKYXpFMmlDWXdUNWYyaHppZHhMblphTFRXYzk2SHpZTWFMNmRDRG10VTZmYUdad1ZRaE1aeFNjLTUtUkpON2Nwd3gwWkFEVkJoeWlSODE5R183dVI3TmZ0a0s5S2FDREN3MGx2cDRNUERFOC1Sd0VhZHh3?oc=5) |
