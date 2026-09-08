@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-08 15:24 UTC
+Generated: 2026-09-08 19:01 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-09-08 15:24 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83448 | 33379.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63600 | 25440.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44510 | 17804.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30469 | 12187.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| questdb/questdb | 17312 | 6924.9 | [link](https://github.com/questdb/questdb) |
+| Developer-Y/cs-video-courses | 83447 | 33378.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63604 | 25441.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44511 | 17804.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30468 | 12187.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| questdb/questdb | 17311 | 6924.5 | [link](https://github.com/questdb/questdb) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,7 +41,7 @@ Generated: 2026-09-08 15:24 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-08 | Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus - CnEVPost | physical ai startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE5paGtCdFl4cE13UjYyQlF6U1Fyc3BkYlZPQ0c5MUotU3hrRFJLS1h0ZVlKS1ZuNDBsN0dvdzZYcXpkNlpiNFpkMlZTaUs1ZHRfYVZURzF6dk5pU0V1UVg3VzVIMEltRzkyQ1B6Uk1icUl4TGQ4QmNjSg?oc=5) |
+| 2026-09-08 | Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus - cnevpost.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE5paGtCdFl4cE13UjYyQlF6U1Fyc3BkYlZPQ0c5MUotU3hrRFJLS1h0ZVlKS1ZuNDBsN0dvdzZYcXpkNlpiNFpkMlZTaUs1ZHRfYVZURzF6dk5pU0V1UVg3VzVIMEltRzkyQ1B6Uk1icUl4TGQ4QmNjSg?oc=5) |
 | 2026-09-08 | CATL leads DeepCtrls Series B extension for physical AI - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFp0a1NGZ3JtV3BJTjNpemR0YlFHNUtYbmU3bXoyMmRPQl82STI2VTlMX2JyWjczSUxZd3RFUVREZ2dqRmVGQVpzSmUtVGdvelBCTGhfbF8wXzhQRTcxaTN0RHVSUHBlRjJxQ1JKOU1ueXJVd1VieG9RM1dlanpHbXpXSXp3Y3Fqb1BuYnVhV0tOVE0?oc=5) |
 | 2026-09-08 | Chinese robotics startup Simple AI completes pre-A+ round - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTklySmp5SjY4M0FLNWV3aEt0U085N2lTOU9LeElpa0xhTmFUM1F1MnZsY2l5QUdqQVZmcDVpaERxeXRhNTFEUU11ejVVaDFDSTJuV0tpREp1NVUwbEEzamZ2cVR5b2ZFZmpDZGxLd1ZyQmJZRUU5bXN2b2RGMUwweGhBYmdaX2xa?oc=5) |
 | 2026-09-08 | China’s Humanoid Robot Boom, Part II: Startups Move From Robot Shows to Real Jobs - TechNode | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmxzSzJXS1pJdEh2eXVSVThIZXR0RFNEYWJwS2NMMlF1SHZsZjVDRjlobWg0WXkzMVhLblZaU21fY1lLS2VRZDRaLUdtX2pkX2VqaUJQZ0tiVzZtLXduaGo1M3ZEdjJlNzZjYURKWnFNWFZPZVRzaC1vclBtcVJZR09mWlA0RGxrMFFmWkZBOExadjNhSFJpRS1VM0pPRWlZenpqdmRFRnZILXBRU250Nw?oc=5) |

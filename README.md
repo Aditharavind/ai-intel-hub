@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-08 15:24 UTC
+Last Updated: 2026-09-08 19:01 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,15 +8,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-09-08 | The Work Now Within Reach | OpenAI | [link](https://openai.com/index/the-work-now-within-reach) |
+| 2026-09-08 | Introducing ChatGPT Images 2.5 | OpenAI | [link](https://openai.com/index/introducing-chatgpt-images-2-5) |
+| 2026-09-08 | On the Navier–Stokes Millennium Prize Problem | OpenAI | [link](https://openai.com/index/navier-stokes-solution) |
+| 2026-09-08 | Funding grants for new research into AI and teen development | OpenAI | [link](https://openai.com/index/teen-development-research-grants) |
 | 2026-09-08 | OpenAI expands initiatives to support journalism from classrooms to newsrooms | OpenAI | [link](https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms) |
 | 2026-09-08 | Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic | Hugging Face | [link](https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom) |
 | 2026-09-07 | Supporting independent journalism in Ukraine | OpenAI | [link](https://openai.com/index/supporting-independent-journalism-in-ukraine) |
 | 2026-09-06 | An Alien Mind | OpenAI | [link](https://openai.com/index/an-alien-mind) |
 | 2026-09-06 | Research acceleration: The view inside OpenAI | OpenAI | [link](https://openai.com/index/research-acceleration-view-inside-openai) |
 | 2026-09-03 | Daybreak for Frontline Defenders: $1B to protect essential services | OpenAI | [link](https://openai.com/index/daybreak-for-frontline-defenders) |
-| 2026-09-03 | Playco cut manual fixes 50% prototyping games with GPT-6 Astra | OpenAI | [link](https://openai.com/index/playco-game-prototyping-with-astra) |
-| 2026-09-03 | Legora reviewed 41 documents in minutes with GPT-6 Astra | OpenAI | [link](https://openai.com/index/legora-financial-statement-review-with-astra) |
-| 2026-09-03 | GPT-6 Astra: A new generation of intelligence | OpenAI | [link](https://openai.com/index/gpt-6-astra) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-08 | Why vision AI is the safety backbone of the automated job site | Robotics Business Review | [link](https://www.therobotreport.com/why-vision-ai-is-safety-backbone-of-automated-job-site/) |
 | 2026-09-07 | This Robot Will Draw Your Blood Now | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta) |
 | 2026-09-07 | Inbolt to discuss physical AI’s deployment problem at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/inbolt-ceo-to-discuss-physical-ais-deployment-problem-at-robobusiness/) |
 | 2026-09-07 | Agility Robotics reports $1.8M revenue ahead of humanoid SPAC | Robotics Business Review | [link](https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/) |
@@ -44,11 +45,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-05 | Cyborg Roaches Can Stab You With Needles | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/cyborg-rescue-roach) |
 | 2026-09-05 | Enovis to acquire surgical tech provider eCential Robotics for $180M | Robotics Business Review | [link](https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/) |
 | 2026-09-05 | ARM Institute gets $90M for 10 projects to modernize military manufacturing | Robotics Business Review | [link](https://www.therobotreport.com/arm-institute-gets-90m-for-10-projects-to-modernize-military-manufacturing/) |
-| 2026-09-04 | Lyte raises $165M to help robots better sense their surroundings | Robotics Business Review | [link](https://www.therobotreport.com/lyte-raises-165m-help-robots-better-sense-their-surroundings/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-08 | Fixing a 1990s LEGO Electric Train Speed Regulator | Hackaday | [link](https://hackaday.com/2026/09/08/fixing-a-1990s-lego-electric-train-speed-regulator/) |
+| 2026-09-08 | Hackaday Europe 2026: Outdoors with Robots | Hackaday | [link](https://hackaday.com/2026/09/08/hackaday-europe-2026-outdoors-with-robots/) |
+| 2026-09-08 | Disassembling a Mini Air Blower to Make RC Airplanes | Hackaday | [link](https://hackaday.com/2026/09/08/disassembling-a-mini-air-blower-to-make-rc-airplanes/) |
 | 2026-09-08 | A 1024 Byte Python Interpreter | Hackaday | [link](https://hackaday.com/2026/09/08/a-1024-byte-python-interpreter/) |
 | 2026-09-08 | Old iPad Keyboard Makes For a Modern Netbook | Hackaday | [link](https://hackaday.com/2026/09/08/old-ipad-keyboard-makes-for-a-modern-netbook/) |
 | 2026-09-08 | How Bats Prevent Doppler Acoustic Interference | Hackaday | [link](https://hackaday.com/2026/09/07/how-bats-prevent-doppler-acoustic-interference/) |
@@ -56,9 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-08 | Arm CSS for Mobile 2 “AI-Native” platform: Arm C2-Ultra and C2-Pro CPU cores, Mali G2-Ultra NX GPU | CNX Software | [link](https://www.cnx-software.com/2026/09/08/arm-css-for-mobile-2-ai-native-platform-arm-c2-ultra-and-c2-pro-cpu-cores-mali-g2-ultra-nx-gpu/) |
 | 2026-09-08 | Mission-Critical Systems: MCUs vs. FPGAs vs. SoCs | Embedded.com | [link](https://www.embedded.com/mission-critical-systems-mcus-vs-fpgas-vs-socs/) |
 | 2026-09-08 | AEye’s Apollo lidar wins Pegasus lunar vehicle contract | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/aeyes-apollo-lidar-wins-pegasus-lunar-terrain-vehicle-contract-2026-09/) |
-| 2026-09-08 | OKW offers customised rotary potentiometer and encoder knobs | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/emech-enclosures/okw-offers-customised-rotary-potentiometer-and-encoder-knobs-2026-09/) |
-| 2026-09-08 | Get the Gadget Master newsletter! | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-09/) |
-| 2026-09-08 | EnSilica eyes EU growth with Space & Communications centre in Milan | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/ensilica-eyes-eu-growth-with-space-communications-centre-in-milan-2026-09/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-08 | fam1123234141/internvla_robotwin_lora_6w | 0 | 0 | [link](https://huggingface.co/fam1123234141/internvla_robotwin_lora_6w) |
+| 2026-09-08 | easylearning/recap-robot-models | 0 | 0 | [link](https://huggingface.co/easylearning/recap-robot-models) |
 | 2026-09-08 | milab-robot/alm1-0818-amore.T | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0818-amore.T) |
 | 2026-09-08 | Datawhale/hello-robotics-chapter16 | 0 | 0 | [link](https://huggingface.co/Datawhale/hello-robotics-chapter16) |
 | 2026-09-08 | milab-robot/alm1-0731-milab.60.T | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.60.T) |
@@ -85,8 +87,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-08 | djbob/balance_robot | 0 | 0 | [link](https://huggingface.co/djbob/balance_robot) |
 | 2026-09-08 | snu-aidas/Dynin-Robotics | 0 | 0 | [link](https://huggingface.co/snu-aidas/Dynin-Robotics) |
 | 2026-09-08 | AaronHuangWei/long-wam-robotwin2.0-m4k2-32s-robot-s-co-denoise | 0 | 0 | [link](https://huggingface.co/AaronHuangWei/long-wam-robotwin2.0-m4k2-32s-robot-s-co-denoise) |
-| 2026-09-08 | openEuler/IB_Robot_ACT_dual_arm_banana_pick | 0 | 0 | [link](https://huggingface.co/openEuler/IB_Robot_ACT_dual_arm_banana_pick) |
-| 2026-09-08 | openEuler/IB_Robot_ACT_banana_pick | 0 | 0 | [link](https://huggingface.co/openEuler/IB_Robot_ACT_banana_pick) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -100,7 +100,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | RobotecAI/rai | 583 | Python | 233.3 | [link](https://github.com/RobotecAI/rai) |
 | awslabs/awsome-distributed-ai | 473 | Shell | 189.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | PetoiCamp/OpenCatEsp32-Quadruped-Robot | 387 | C++ | 154.9 | [link](https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot) |
-| commaai/openpilot | 63600 | Python | 25440.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63604 | Python | 25441.7 | [link](https://github.com/commaai/openpilot) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,7 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-08 | Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus - CnEVPost | physical ai startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE5paGtCdFl4cE13UjYyQlF6U1Fyc3BkYlZPQ0c5MUotU3hrRFJLS1h0ZVlKS1ZuNDBsN0dvdzZYcXpkNlpiNFpkMlZTaUs1ZHRfYVZURzF6dk5pU0V1UVg3VzVIMEltRzkyQ1B6Uk1icUl4TGQ4QmNjSg?oc=5) |
+| 2026-09-08 | Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus - cnevpost.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE5paGtCdFl4cE13UjYyQlF6U1Fyc3BkYlZPQ0c5MUotU3hrRFJLS1h0ZVlKS1ZuNDBsN0dvdzZYcXpkNlpiNFpkMlZTaUs1ZHRfYVZURzF6dk5pU0V1UVg3VzVIMEltRzkyQ1B6Uk1icUl4TGQ4QmNjSg?oc=5) |
 | 2026-09-08 | CATL leads DeepCtrls Series B extension for physical AI - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFp0a1NGZ3JtV3BJTjNpemR0YlFHNUtYbmU3bXoyMmRPQl82STI2VTlMX2JyWjczSUxZd3RFUVREZ2dqRmVGQVpzSmUtVGdvelBCTGhfbF8wXzhQRTcxaTN0RHVSUHBlRjJxQ1JKOU1ueXJVd1VieG9RM1dlanpHbXpXSXp3Y3Fqb1BuYnVhV0tOVE0?oc=5) |
 | 2026-09-08 | Chinese robotics startup Simple AI completes pre-A+ round - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTklySmp5SjY4M0FLNWV3aEt0U085N2lTOU9LeElpa0xhTmFUM1F1MnZsY2l5QUdqQVZmcDVpaERxeXRhNTFEUU11ejVVaDFDSTJuV0tpREp1NVUwbEEzamZ2cVR5b2ZFZmpDZGxLd1ZyQmJZRUU5bXN2b2RGMUwweGhBYmdaX2xa?oc=5) |
 | 2026-09-08 | China’s Humanoid Robot Boom, Part II: Startups Move From Robot Shows to Real Jobs - TechNode | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmxzSzJXS1pJdEh2eXVSVThIZXR0RFNEYWJwS2NMMlF1SHZsZjVDRjlobWg0WXkzMVhLblZaU21fY1lLS2VRZDRaLUdtX2pkX2VqaUJQZ0tiVzZtLXduaGo1M3ZEdjJlNzZjYURKWnFNWFZPZVRzaC1vclBtcVJZR09mWlA0RGxrMFFmWkZBOExadjNhSFJpRS1VM0pPRWlZenpqdmRFRnZILXBRU250Nw?oc=5) |
