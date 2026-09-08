@@ -32,7 +32,21 @@
     "source": "CNX Software",
     "date": "2026-09-08",
     "url": "https://www.cnx-software.com/2026/09/08/arm-css-for-mobile-2-ai-native-platform-arm-c2-ultra-and-c2-pro-cpu-cores-mali-g2-ultra-nx-gpu/",
-    "summary": "<div><img alt=\"Arm CSS for Mobile 2\" class=\"attachment-medium size-medium wp-post-image\" height=\"405\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Arm-CSS-for-Mobile-2-720x405.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Arm has introduced the CSS for Mobile 2 platform as an AI-native compute foundation comprised of the Arm C2-Ultra and C2-Pro CPUs with SME2 (Scalable Matrix Extension 2) units and the Mali G2-Ultra NX GPU with dedicated neural accelerators that enable neural graphics to run natively on the GPU. Arm C2-Ultra and C2-Pro CPUs Arm C2-Ultra specifications: Architecture &#8211; Armv9.3-A Extensions Armv9.4-A (Some key features) SME2 Extensions SVE2 Extensions Cryptography Extensions RAS Extensions ISA support &#8211; AArch64 Microarchitecture Pipeline &#8211; Out-of-order Superscalar Neon and SVE2 Optional Cryptography Unit Up to 14x CPUs in cluster 40-bit Physical Addressing Memory System and External Interfaces 64KB (I-Cache), 128KB (D-Cache) 2MB or 3MB L2 Cache Optional, 256KB to 32MB L3 Cache ECC Support Bus interfaces &#8211; AMBA AXI5 or CHI.E Optional ACP Optional Peripheral Port Security &#8211; TrustZone, Secure-EL2 Interrupts &#8211; GIC interface, GICv4.1 PMU &#8211; PMUv3 CoreSight &#8211; CoreSightv3 Embedded Trace Extension &#8211; ETEv1.0 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/08/arm-css-for-mobile-2-ai-native-platform-arm-c2-ultra-and-c2-pro-cpu-cores-mali-g2-ultra-nx-gpu/\">Arm CSS for Mobile 2 &#8220;AI-Native&#8221; platform: Arm C2-Ultra and C2-Pro CPU cores, Mali G2-Ultra NX GPU</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"Arm CSS for Mobile 2\" class=\"attachment-medium size-medium wp-post-image\" height=\"405\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Arm-CSS-for-Mobile-2-720x405.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Arm has introduced the CSS for Mobile 2 platform as an AI-native compute foundation comprised of the Arm C2-Ultra and C2-Pro CPUs with SME2 (Scalable Matrix Extension 2) units and the Mali G2-Ultra NX GPU with dedicated neural accelerators that enable neural graphics to run natively on the GPU. Arm C2-Ultra and C2-Pro CPUs Arm C2-Ultra specifications: Architecture &#8211; Armv9.3-A Extensions Armv9.4-A (Some key features) SME2 Extensions SVE2 Extensions Cryptography Extensions RAS Extensions ISA support &#8211; AArch64 Microarchitecture Pipeline &#8211; Out-of-order Superscalar Neon and SVE2 Optional Cryptography Unit Up to 14x CPUs in cluster 40-bit Physical Addressing Memory System and External Interfaces 64KB (I-Cache), 128KB (D-Cache) 2MB or 3MB L2 Cache Optional, 256KB to 32MB L3 Cache ECC Support Bus interfaces &#8211; AMBA AXI5 or CHI.E Optional ACP Optional Peripheral Port Security &#8211; TrustZone, Secure-EL2 Interrupts &#8211; GIC interface, GICv4.1 PMU &#8211; PMUv3 CoreSight &#8211; CoreSightv3 Embedded Trace Extension &#8211; [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/08/arm-css-for-mobile-2-ai-native-platform-arm-c2-ultra-and-c2-pro-cpu-cores-mali-g2-ultra-nx-gpu/\">Arm CSS for Mobile 2 &#8220;AI-Native&#8221; platform: Arm C2-Ultra and C2-Pro CPU cores, Mali G2-Ultra NX GPU</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Mission-Critical Systems: MCUs vs. FPGAs vs. SoCs",
+    "source": "Embedded.com",
+    "date": "2026-09-08",
+    "url": "https://www.embedded.com/mission-critical-systems-mcus-vs-fpgas-vs-socs/",
+    "summary": "<p>Applications in aerospace and defense as well as heavy industry and energy place long-term reliability requirements that go far beyond the specifications of commercial electronics. The presence of ionizing radiation and extreme temperatures profoundly influences the choice between microcontrollers (MCUs), field-programmable gate arrays (FPGAs), and system-on-chips (SoCs). When the environment becomes the main design constraint [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mission-critical-systems-mcus-vs-fpgas-vs-socs/\">Mission-Critical Systems: MCUs vs. FPGAs vs. SoCs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "AEye’s Apollo lidar wins Pegasus lunar vehicle contract",
+    "source": "Electronics Weekly",
+    "date": "2026-09-08",
+    "url": "https://www.electronicsweekly.com/news/business/aeyes-apollo-lidar-wins-pegasus-lunar-terrain-vehicle-contract-2026-09/",
+    "summary": "<p>AEye&#8217;s Apollo long-range lidar (Light Detection and Ranging) has been has been selected by Lunar Outpost for integrating into its Pegasus LTV (Lunar Terrain Vehicle). This is the vehicle that [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/aeyes-apollo-lidar-wins-pegasus-lunar-terrain-vehicle-contract-2026-09/\">AEye&#8217;s Apollo lidar wins Pegasus lunar vehicle contract</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "OKW offers customised rotary potentiometer and encoder knobs",
@@ -98,11 +112,102 @@
     "summary": "<p>Vishay’s new series of thin film chip resistors in 0402 and 0603 case sizes are built on an AlN substrate in SMT footprints. The Sfernice CHEP series deliver standard power [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/thin-film-resistors-enabling-higher-power-density-in-smaller-footprints-2026-09/\">Thin film resistors enable higher power density in smaller footprints</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "IPO Proceeds Rising",
-    "source": "Electronics Weekly",
+    "title": "The 92-Year-Old Mathematician and the Teenage Apprentice",
+    "source": "Adafruit",
     "date": "2026-09-08",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/ipo-proceeds-rising-2026-09/",
-    "summary": "<p>Global IPO proceeds have been on the rise and stock markets in Mainland China and Hong Kong are booming especially, reports EY. While in 2024, Chinese IPO proceeds stood at $9.3 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/markets/ipo-proceeds-rising-2026-09/\">IPO Proceeds Rising</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/08/the-92-year-old-mathematician-and-the-teenage-apprentice/",
+    "summary": "(image via Barnard College) Such a great piece by Gregory Barber that chronicles the unlikely yet wonderful collaboration between a renowned mathematician and an aspiring pupil, published in last weekend&#8217;s New York Times: Dr. Gabai quickly saw, however, that Vasudha’s work with Dr. Birman had molded her differently. “She’s mature enough to recognize if you [&#8230;]"
+  },
+  {
+    "title": "The fastest-growing physical music format so far in 2026 isn’t vinyl or CD  #ArtTuesday",
+    "source": "Adafruit",
+    "date": "2026-09-08",
+    "url": "https://blog.adafruit.com/2026/09/08/the-fastest-growing-physical-music-format-so-far-in-2026-isnt-vinyl-or-cd-arttuesday/",
+    "summary": "Colin Toh, writing at Headphonesty, dug into the RIAA&#8217;s mid-year report and found the fastest-growing physical music format in the US is not vinyl or CD. It is a catch-all bucket the RIAA labels &#8220;Other Physical,&#8221; which shipped 1.6 million units in the first half of 2026, up 73.4 percent. CDs grew 45.7 percent by [&#8230;]"
+  },
+  {
+    "title": "What happened to Compuserve?",
+    "source": "Adafruit",
+    "date": "2026-09-08",
+    "url": "https://blog.adafruit.com/2026/09/08/what-happened-to-compuserve/",
+    "summary": "Dave Farquhar traces the rise and slow disappearance of CompuServe in a post on The Silicon Underground. Founded in 1969 on a time sharing system, CompuServe opened to consumers on September 24, 1979 and led the US online market through the 1980s with message boards, file downloads, games, shopping, and email. Access was billed by [&#8230;]"
+  },
+  {
+    "title": "Local AI hardware requirements: more RAM vs big GPU",
+    "source": "Adafruit",
+    "date": "2026-09-08",
+    "url": "https://blog.adafruit.com/2026/09/08/local-ai-hardware-requirements-more-ram-vs-big-gpu/",
+    "summary": "Julian Horsey at Geeky Gadgets looks at a question that comes up when running large language models at home: buy more system RAM, or buy a bigger GPU. The example is Qwen 3.8 Flash Next, a 125 billion parameter model. It recommends 96 GB of system memory and gives no GPU memory figure at all. [&#8230;]"
+  },
+  {
+    "title": "A radio treasure hunt for National Coding Week",
+    "source": "Adafruit",
+    "date": "2026-09-08",
+    "url": "https://blog.adafruit.com/2026/09/08/a-radio-treasure-hunt-for-national-coding-week/",
+    "summary": "Steven J. Murdoch has released a radio direction finding game for the BBC micro:bit, written up on Bentham&#8217;s Gaze for National Coding Week, 14 to 20 September. Radio amateurs call this kind of activity a fox hunt: one board hides and transmits, and the others report signal strength but not direction. The hidden board is [&#8230;]"
+  },
+  {
+    "title": "ICYMI Python on Microcontrollers Newsletter: CircuitPython 10.3.0 Out, PyMCU, ROS for MicroPython and More!",
+    "source": "Adafruit",
+    "date": "2026-09-08",
+    "url": "https://blog.adafruit.com/2026/09/08/icymi-python-on-microcontrollers-newsletter-circuitpython-10-3-0-out-pymcu-ros-for-micropython-and-more/",
+    "summary": "If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,374 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep [&#8230;]"
+  },
+  {
+    "title": "Library House Week at NYPL Starts Thursday",
+    "source": "Adafruit",
+    "date": "2026-09-08",
+    "url": "https://blog.adafruit.com/2026/09/08/library-house-week-at-nypl-starts-thursday/",
+    "summary": "image via NYPL &#160; Thursday 9/10 is the first day of public school here in NYC. It&#8217;s also the first day of Library Open House Week! Discover our 92 locations across the Bronx, Manhattan, and Staten Island during this special week to find out all the Library has to offer, including fun activities, events, and [&#8230;]"
+  },
+  {
+    "title": "Programming is Art",
+    "source": "Adafruit",
+    "date": "2026-09-08",
+    "url": "https://blog.adafruit.com/2026/09/08/programming-is-art/",
+    "summary": "Orchid, writing at orchidfiles.com, splits programmers into two groups in a post titled &#8220;Programming is Art.&#8221; Orchid describes starting out fascinated by the idea that learning a language meant being able to build anything: PHP for back ends, HTML and CSS for websites. That interest later turned into a job, and then into a way [&#8230;]"
+  },
+  {
+    "title": "Welcome to the Materials Age (We Hope You’ll Enjoy Your Stay)",
+    "source": "EE Journal",
+    "date": "2026-09-08",
+    "url": "https://www.eejournal.com/article/welcome-to-the-materials-age-we-hope-youll-enjoy-your-stay/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/max-0516-image-for-home-page-matlantis-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />When you come to think about it, many of the early ages of human development were defined by the materials people used, such as the Stone Age, the Bronze Age, and the Iron Age. Much later came the Industrial Revolution and the Industrial Age. This was followed by a succession of increasingly overlapping technological eras—the &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/welcome-to-the-materials-age-we-hope-youll-enjoy-your-stay/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Welcome to the Materials Age (We Hope You’ll Enjoy Your Stay)\"</span></a>"
+  },
+  {
+    "title": "Fujitsu develops diamond-spin quantum computer prototype",
+    "source": "EE Journal",
+    "date": "2026-09-08",
+    "url": "https://www.eejournal.com/industry_news/fujitsu-develops-diamond-spin-quantum-computer-prototype/",
+    "summary": "Fujitsu today announced that it has developed the world’s first working prototype of a diamond-spin quantum computer incorporating tin-vacancy (SnV) centers into photonic integrated circuits [1] [2]. The prototype can be operated at -271.6°C, higher than the typical operating temperature of superconducting quantum computers (-273.13°C) and Fujitsu has demonstrated in a test environment that it &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/fujitsu-develops-diamond-spin-quantum-computer-prototype/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Fujitsu develops diamond-spin quantum computer prototype\"</span></a>"
+  },
+  {
+    "title": "IK Multimedia Launches TONEX Board",
+    "source": "EE Journal",
+    "date": "2026-09-08",
+    "url": "https://www.eejournal.com/industry_news/ik-multimedia-launches-tonex-board/",
+    "summary": "IK Multimedia today launches TONEX Board, its most advanced TONEX hardware platform to date and the centerpiece of the expanding TONEX ecosystem. Combining IK&#8217;s award-winning AI Machine Modeling™ technology with AmpliTube studio-grade effects, dual signal paths, advanced routing, extensive connectivity, and intuitive touchscreen control, TONEX Board puts one of the most advanced and best-sounding complete guitar &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/ik-multimedia-launches-tonex-board/\">Read More &#8594;<span class=\"screen-reader-text\"> \"IK Multimedia Launches TONEX Board\"</span></a>"
+  },
+  {
+    "title": "Up to 100 Meters Between Vehicle and Charging Station: Vector Launches vSECC.InPlug for Bus and Truck Depots",
+    "source": "EE Journal",
+    "date": "2026-09-08",
+    "url": "https://www.eejournal.com/industry_news/up-to-100-meters-between-vehicle-and-charging-station-vector-launches-vsecc-inplug-for-bus-and-truck-depots/",
+    "summary": "Vector is introducing vSECC.InPlug, a new communication controller board for DC charging infrastructures. By relocating charging communication directly into the DC charging connector, the solution enables cable runs of up to 100 meters between vehicle and charging station. This gives bus and truck depot operators greater flexibility when planning and building their charging infrastructure. Moreover, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/up-to-100-meters-between-vehicle-and-charging-station-vector-launches-vsecc-inplug-for-bus-and-truck-depots/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Up to 100 Meters Between Vehicle and Charging Station: Vector Launches vSECC.InPlug for Bus and Truck Depots\"</span></a>"
+  },
+  {
+    "title": "Imec advances scalable superconducting technology with world-first NbTiN circuits and 30nm interconnects",
+    "source": "EE Journal",
+    "date": "2026-09-08",
+    "url": "https://www.eejournal.com/industry_news/imec-advances-scalable-superconducting-technology-with-world-first-nbtin-circuits-and-30nm-interconnects/",
+    "summary": "• At the 2026 Applied Superconductivity Conference, imec demonstrates two world-firsts: (1) a three-metal-level (3ML) niobium-titanium-nitride (NbTiN)-based Josephson junction circuit, achieving circuit design densities of 3.8 million junctions per cm2; and (2) 3ML NbTiN routing with superconducting wires scaled down to an unprecedented 30nm linewidth for superconducting digital (SCD) applications. • The achievements extend imec’s &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/imec-advances-scalable-superconducting-technology-with-world-first-nbtin-circuits-and-30nm-interconnects/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Imec advances scalable superconducting technology with world-first NbTiN circuits and 30nm interconnects\"</span></a>"
+  },
+  {
+    "title": "NEURA Robotics and SECO Join Forces to Scale Physical AI from Europe",
+    "source": "EE Journal",
+    "date": "2026-09-08",
+    "url": "https://www.eejournal.com/industry_news/neura-robotics-and-seco-join-forces-to-scale-physical-ai-from-europe/",
+    "summary": "•     Partnership combines NEURA&#8217;s Physical AI architecture, which leverages Qualcomm Technologies&#8217; advanced computing platforms and SECO&#8217;s embedded engineering and manufacturing expertise, while jointly developing Physical AI solutions for the semiconductor industry •     NEURA and SECO will collaborate on electronic compute modules for NEURA&#8217;s cognitive robots, including the humanoid 4NE1, supporting scalable series production in Europe •     The collaboration &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/neura-robotics-and-seco-join-forces-to-scale-physical-ai-from-europe/\">Read More &#8594;<span class=\"screen-reader-text\"> \"NEURA Robotics and SECO Join Forces to Scale Physical AI from Europe\"</span></a>"
   },
   {
     "title": "ESP32-P4 Powers Video Alarm Clock",
@@ -175,67 +280,32 @@
     "summary": "Austin Z. Henley set himself a weekend challenge on his blog at austinhenley.com: write a Python interpreter in 1024 bytes of C, with no macro tricks and no libraries. The original target was 512 bytes. A basic calculator that handled x = 1 + 2 * 3 and a single if statement already blew past that, so [&#8230;]"
   },
   {
-    "title": "The CircuitPython Show Episode 64 – CircuitPython Day 2026",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/the-circuitpython-show-episode-64-circuitpython-day-2026/",
-    "summary": "Episode 64 of The CircuitPython Show is a replay of The Bootloader livestream that ran on Adafruit&#8217;s YouTube channel for CircuitPython Day. Host Paul Cutler and co-host Tod Kurt look back at the past year of CircuitPython releases and community projects. The episode uses screen sharing, so the video version is the one to watch. [&#8230;]"
-  },
-  {
-    "title": "Transmit unsigned 8-bit audio samples as analog FM using a CC1101 module",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/transmit-unsigned-8-bit-audio-samples-as-analog-fm-using-a-cc1101-module/",
-    "summary": "ktauchathuranga has published a library on GitHub called cc1101-analogfm that transmits unsigned 8-bit audio samples as analog FM using a CC1101 radio module. The stream() function takes bytes from any Arduino Stream and treats each one as an audio sample: 0 is the negative peak, 128 is the carrier center, and 255 is the positive [&#8230;]"
-  },
-  {
-    "title": "CHC5 open Camera System Image Sensor Specification comparison",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/chc5-open-camera-system-image-sensor-specification-comparison/",
-    "summary": "Gaurav Singh has posted the first part of a series on the CHC5 open camera system at circuitvalley.com, and it starts with picking a sensor. The post is a side by side technical reference for nine candidates: the Sony IMX477, IMX678, IMX485, IMX585, IMX283, IMX294, IMX568 and IMX565, plus the OmniVision OX08B40. The comparison covers [&#8230;]"
-  },
-  {
-    "title": "Raspberry Pi CM4 bindings for JDI LT070ME05000 1200×1920 IPS display",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/raspberry-pi-cm4-bindings-for-jdi-lt070me05000-1200x1920-ips-display/",
-    "summary": "harlab has published a project that connects the JDI LT070ME05000 display to the Raspberry Pi Compute Module. The panel is the 7 inch 1200&#215;1920 IPS screen from the 2013 Asus/Google Nexus 7 tablet. Some suppliers still have them for around $20 shipped. The display uses a 4-lane DSI interface, so it needs a Compute Module [&#8230;]"
-  },
-  {
-    "title": "nes-radar: Live ADS-B air traffic radar for the original Nintendo Entertainment System",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/nes-radar-live-ads-b-air-traffic-radar-for-the-original-nintendo-entertainment-system/",
-    "summary": "Developer k6lcm has published NES Radar which turns an original Nintendo Entertainment System into a live air traffic scope. Enter any airport&#8217;s four-letter ICAO code on the NES controller, press Start, and aircraft flying near that airport show up as moving targets on the TV. It works for airports worldwide, so a quiet local field [&#8230;]"
-  },
-  {
-    "title": "wordstar: The original, unmodified MicroPro WordStar Professional Release 4 from 1987",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/wordstar-the-original-unmodified-micropro-wordstar-professional-release-4-from-1987/",
-    "summary": "GitHub user nampara-ai has posted a GitHub project that runs MicroPro WordStar Professional Release 4 from 1987 on modern computers. The files in the repo are the original, unmodified binaries, not a clone or a rewrite. WordStar is 16-bit MS-DOS code, so the desktop version wraps it in DOSBox Staging, which is already bundled for [&#8230;]"
-  },
-  {
-    "title": "T3CAD: An agent-driven electronics workspace with KiCad PCB, schematic, Gerber, 3D, library, and more",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/t3cad-an-agent-driven-electronics-workspace-with-kicad-pcb-schematic-gerber-3d-library-and-more/",
-    "summary": "Developer i2cjak has published T3CAD, an agent-driven electronics workspace forked from T3 Code. It pairs coding-agent conversations with KiCad PCB, schematic, Gerber, and 3D inspection. It runs on web, desktop, and mobile. Inside the KiCad viewer there are optional tabs for BOM, footprint, symbol, and EMerge / Analysis. The BOM follows the project&#8217;s saved KiCad [&#8230;]"
-  },
-  {
-    "title": "Stopping the unstoppable",
-    "source": "Adafruit",
-    "date": "2026-09-07",
-    "url": "https://blog.adafruit.com/2026/09/07/stopping-the-unstoppable/",
-    "summary": "Practical Engineering looks at how railroads try to stop a train that has run out of track. The starting point is the 2016 New Jersey Transit crash at Hoboken Terminal, where a commuter train hit the terminal wall at about 21 miles per hour, killing one person and injuring 110. A Long Island Railroad train [&#8230;]"
-  },
-  {
-    "title": "An HP 3478A DMM Rescue, Part 1: RIFA Madness",
+    "title": "New PerleCLOUD Platform Accelerates Deployment and Management of Remote Infrastructure Assets",
     "source": "EE Journal",
     "date": "2026-09-07",
-    "url": "https://www.eejournal.com/article/an-hp-3478a-dmm-rescue-part-1-rifa-madness/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"214\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/Hero-Image-Part-1-300x214.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I really wasn’t planning on buying another DMM, but the forlorn, tattered and torn HP 3478A with a beat up case and cracked display window called out to me like a sad-eyed puppy or kitten in an animal shelter. Listed at $58 including free shipping, my autonomic nervous system clicked on the “buy it now” &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/an-hp-3478a-dmm-rescue-part-1-rifa-madness/\">Read More &#8594;<span class=\"screen-reader-text\"> \"An HP 3478A DMM Rescue, Part 1: RIFA Madness\"</span></a>"
+    "url": "https://www.eejournal.com/industry_news/new-perlecloud-platform-accelerates-deployment-and-management-of-remote-infrastructure-assets/",
+    "summary": "Perle Systems, a global provider of secure device networking hardware, today announced the launch of PerleCLOUD™, a cloud-based management platform that enables organizations to centrally manage, monitor, and access Perle IOLAN SCR Console Servers and connected infrastructure through a single interface. Designed for data centers and distributed environments, PerleCLOUD simplifies remote infrastructure operations while improving visibility, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/new-perlecloud-platform-accelerates-deployment-and-management-of-remote-infrastructure-assets/\">Read More &#8594;<span class=\"screen-reader-text\"> \"New PerleCLOUD Platform Accelerates Deployment and Management of Remote Infrastructure Assets\"</span></a>"
+  },
+  {
+    "title": "Ambarella Engages Capgemini to Help Accelerate Enterprise Adoption of Edge and Physical AI",
+    "source": "EE Journal",
+    "date": "2026-09-07",
+    "url": "https://www.eejournal.com/industry_news/ambarella-engages-capgemini-to-help-accelerate-enterprise-adoption-of-edge-and-physical-ai/",
+    "summary": "Ambarella, Inc. (NASDAQ: AMBA), an edge AI semiconductor company, and Capgemini (Euronext Paris: CAP), the global AI-driven business and technology transformation company, today announced their engagement to accelerate the development and deployment of Edge and Physical AI solutions across smart infrastructure, retail and logistics, industrial automation, healthcare, and automotive sectors. Under the agreement, Capgemini will &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/ambarella-engages-capgemini-to-help-accelerate-enterprise-adoption-of-edge-and-physical-ai/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Ambarella Engages Capgemini to Help Accelerate Enterprise Adoption of Edge and Physical AI\"</span></a>"
+  },
+  {
+    "title": "Powell Electronics shows latest highly reliable connector solutions for rail applications at Innotrans 2026",
+    "source": "EE Journal",
+    "date": "2026-09-07",
+    "url": "https://www.eejournal.com/industry_news/powell-electronics-shows-latest-highly-reliable-connector-solutions-for-rail-applications-at-innotrans-2026/",
+    "summary": "At Innotrans 2026 in Berlin, Germany from 22nd to 25th Sept 2026, Powell Electronics will be showing the latest hi-reliability connector solutions for harsh environment rail applications from its key franchises, e.g. Amphenol, Glenair, Honeywell, Samtec and ITT Cannon. Visitors to Powell’s stand in Hall 14.1 Stand 210 will be able to talk to the technical experts &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/powell-electronics-shows-latest-highly-reliable-connector-solutions-for-rail-applications-at-innotrans-2026/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Powell Electronics shows latest highly reliable connector solutions for rail applications at Innotrans 2026\"</span></a>"
+  },
+  {
+    "title": "TriLite and AAC Technologies Advance LBS Toward Industrial-Scale Deployment",
+    "source": "EE Journal",
+    "date": "2026-09-07",
+    "url": "https://www.eejournal.com/industry_news/trilite-and-aac-technologies-advance-lbs-toward-industrial-scale-deployment/",
+    "summary": "TriLite Technologies GmbH, developer of the world’s smallest laser beam scanning (LBS) projection displays for AR smart glasses and automotive applications, has signed a long-term cooperation agreement with AAC Technologies Pte Ltd. The agreement focuses on the joint development, manufacturing and commercialization of TriLite’s LBS technology for consumer AR/MR/VR devices and automotive applications, leveraging AAC &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/trilite-and-aac-technologies-advance-lbs-toward-industrial-scale-deployment/\">Read More &#8594;<span class=\"screen-reader-text\"> \"TriLite and AAC Technologies Advance LBS Toward Industrial-Scale Deployment\"</span></a>"
   },
   {
     "title": "ACEMAGIC Kron Mini K5 Review – Part 2: A $400 Intel Core 3 304 Wildcat Lake mini PC tested with Windows 11 Pro",
@@ -294,27 +364,6 @@
     "summary": "<p>Everspin Technologies and Teledyne HiRel Semiconductors have announced a strategic partnership to expand the use of magnetoresistive random-access memory (MRAM) in aerospace, defense, and other mission-critical applications. The collaboration will initially focus on Everspin's 256-Mb PERSYST spin-transfer torque MRAM (STT-MRAM), combining RAM-like access performance with non-volatile data retention. Under the agreement, Teledyne HiRel will offer [...]</p>\n<p>The post <a href=\"https://www.embedded.com/everspin-teledyne-hirel-partner-on-mission-critical-mram/\">Everspin, Teledyne HiRel Partner on Mission-Critical MRAM</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Bio-Inspired AI: How The Biological Computing Co. is Using Living Neurons to Supercharge Generative Models",
-    "source": "EE Journal",
-    "date": "2026-09-04",
-    "url": "https://www.eejournal.com/fish_fry/bio-inspired-ai-how-the-biological-computing-co-is-using-living-neurons-to-supercharge-generative-models/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/AD-090426-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />My podcast guest this week Alex Ksendzovsky, co-founder of The Biological Computing Co. Alex and his team are doing something that sounds straight out of science fiction: they’re extracting computational principles from living neurons and translating them into software that runs on standard silicon. Alex and I chat about The Biological Computing Co. is bridging &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/fish_fry/bio-inspired-ai-how-the-biological-computing-co-is-using-living-neurons-to-supercharge-generative-models/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Bio-Inspired AI: How The Biological Computing Co. is Using Living Neurons to Supercharge Generative Models\"</span></a>"
-  },
-  {
-    "title": "Fully integrated, baseplate-cooled 320W full-brick AC-DC power supplies for sealed, space-constrained systems",
-    "source": "EE Journal",
-    "date": "2026-09-04",
-    "url": "https://www.eejournal.com/industry_news/fully-integrated-baseplate-cooled-320w-full-brick-ac-dc-power-supplies-for-sealed-space-constrained-systems/",
-    "summary": "XP Power introduces the ASB320 series of 320W fully integrated, baseplate-cooled AC-DC power supplies offering single output from 12V to 54VDC in a compact, encapsulated brick format. Global ITE safety approvals, Class B emissions and a low-profile rugged mechanical design make these power supplies an ideal choice for space-constrained industrial automation, communications, test and measurement, and analytical &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/fully-integrated-baseplate-cooled-320w-full-brick-ac-dc-power-supplies-for-sealed-space-constrained-systems/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Fully integrated, baseplate-cooled 320W full-brick AC-DC power supplies for sealed, space-constrained systems\"</span></a>"
-  },
-  {
-    "title": "Chronova Corp Comes Out of Stealth, Announces Acquisition of Intel Precision Timing Project",
-    "source": "EE Journal",
-    "date": "2026-09-04",
-    "url": "https://www.eejournal.com/industry_news/chronova-corp-comes-out-of-stealth-announces-acquisition-of-intel-precision-timing-project-2/",
-    "summary": "Chronova Corp formed silently last year with a mission to provide the most accurate, reliable, and efficient timing solutions to the most demanding electronics customers. Today Chronova came out of stealth mode to announce their successful acquisition of the foundational patents, trade secrets, and AI training data from Intel’s seven-year R&#38;D effort to redefine how &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/chronova-corp-comes-out-of-stealth-announces-acquisition-of-intel-precision-timing-project-2/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Chronova Corp Comes Out of Stealth, Announces Acquisition of Intel Precision Timing Project\"</span></a>"
-  },
-  {
     "title": "Amlogic A311Y3 Cortex-A78/A55 Edge AI system-on-module delivers up to 8 TOPS",
     "source": "CNX Software",
     "date": "2026-09-03",
@@ -341,48 +390,6 @@
     "date": "2026-09-03",
     "url": "https://www.embedded.com/somdevices-celus-bring-%ce%bcsmarc-modules-to-design-platform/",
     "summary": "<p>Seven NXP i.MX-based modules will become reusable CUBOs, helping engineers evaluate interfaces and implementation requirements earlier.</p>\n<p>The post <a href=\"https://www.embedded.com/somdevices-celus-bring-%ce%bcsmarc-modules-to-design-platform/\">SomDevices, Celus Bring μSMARC Modules to Design Platform</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Push long-haul network reach to 2,400km  with new ProLabs coherent transceivers",
-    "source": "EE Journal",
-    "date": "2026-09-03",
-    "url": "https://www.eejournal.com/industry_news/push-long-haul-network-reach-to-2400km-with-new-prolabs-coherent-transceivers/",
-    "summary": "Both QSFP-DD 800G ZR LH and QSFP-DD 400G ZR ULH are purpose built for carriers, service-providers, and large-scale backbone networks across the United Kingdom requiring ultra-long-haul coherent transmission. The transceivers enable operators to extend the reach of 400G and 800G networks across national and cross-continental infrastructure without compromising performance. “We are delighted to have expanded our &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/push-long-haul-network-reach-to-2400km-with-new-prolabs-coherent-transceivers/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Push long-haul network reach to 2,400km  with new ProLabs coherent transceivers\"</span></a>"
-  },
-  {
-    "title": "Sensata Technologies Launches R290 Pressure + Temperature Sensor to Enable Adoption of Low-GWP and PFAS-free Refrigerants in EV Thermal Management Systems",
-    "source": "EE Journal",
-    "date": "2026-09-03",
-    "url": "https://www.eejournal.com/industry_news/sensata-technologies-launches-r290-pressure-temperature-sensor-to-enable-adoption-of-low-gwp-and-pfas-free-refrigerants-in-ev-thermal-management-systems/",
-    "summary": "Sensata’s R290 Pressure + Temperature (P+T) sensor enables automotive OEMs to adopt propane as a refrigerant in EV thermal management systems while addressing safety, leakage and regulatory challenges. Supports the transition to low-GWP and PFAS-free refrigerants with accurate, reliable pressure and temperature sensing. Offers flexible integration with Analog and LIN output options, backed by Sensata’s &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/sensata-technologies-launches-r290-pressure-temperature-sensor-to-enable-adoption-of-low-gwp-and-pfas-free-refrigerants-in-ev-thermal-management-systems/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Sensata Technologies Launches R290 Pressure + Temperature Sensor to Enable Adoption of Low-GWP and PFAS-free Refrigerants in EV Thermal Management Systems\"</span></a>"
-  },
-  {
-    "title": "SECO launches Industrial HMI and SBC Powered by Qualcomm Dragonwing IQ-2390",
-    "source": "EE Journal",
-    "date": "2026-09-03",
-    "url": "https://www.eejournal.com/industry_news/seco-launches-industrial-hmi-and-sbc-powered-by-qualcomm-dragonwing-iq-2390/",
-    "summary": "Following the launch of Qualcomm Dragonwing™ IQ-2390, SECO today expands its portfolio with Compact Vision 5 Dragonwing IQ-2390, a 5-inch industrial HMI, and SBC-Dragonwing-IQ-2390, a compact single-board computer built on the new platform. The two solutions are designed to modernize connected industrial devices across HMI, control, vending, building automation, industrial vision, and other compact embedded applications. Supporting the modernization &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/seco-launches-industrial-hmi-and-sbc-powered-by-qualcomm-dragonwing-iq-2390/\">Read More &#8594;<span class=\"screen-reader-text\"> \"SECO launches Industrial HMI and SBC Powered by Qualcomm Dragonwing IQ-2390\"</span></a>"
-  },
-  {
-    "title": "Hirose Develops High-Speed Automotive Ethernet Connector for Compact Applications",
-    "source": "EE Journal",
-    "date": "2026-09-03",
-    "url": "https://www.eejournal.com/industry_news/hirose-develops-high-speed-automotive-ethernet-connector-for-compact-applications/",
-    "summary": "Hirose has unveiled the GT37 Series wire-to-board connector designed for high-speed automotive Ethernet applications. As vehicle architectures incorporate more electronic control units, cameras, sensors, displays, communication modules, and advanced driver-assistance systems (ADAS), protecting sensitive signals from electromagnetic interference (EMI) has become a critical design consideration. The GT37 Series addresses this challenge with a fully shielded &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/hirose-develops-high-speed-automotive-ethernet-connector-for-compact-applications/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Hirose Develops High-Speed Automotive Ethernet Connector for Compact Applications\"</span></a>"
-  },
-  {
-    "title": "Mouser Releases New Qorvo eBook on RF Solutions for Drones, SATCOM and IIoT Next-Generation Markets",
-    "source": "EE Journal",
-    "date": "2026-09-03",
-    "url": "https://www.eejournal.com/industry_news/mouser-releases-new-qorvo-ebook-on-rf-solutions-for-drones-satcom-and-iiot-next-generation-markets/",
-    "summary": "Mouser Electronics, Inc., the New Product Introduction (NPI) leader™ empowering innovation, announces a new eBook in collaboration with Qorvo, exploring next-generation RF wireless designs for drones, satellite communications and industrial IoT. High-Performance RF Solutions for Agile New Markets addresses time-to-market pressures, coexistence issues, power-efficiency demands, and system complexity by leveraging wideband components and proven off-the-shelf &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/mouser-releases-new-qorvo-ebook-on-rf-solutions-for-drones-satcom-and-iiot-next-generation-markets/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Mouser Releases New Qorvo eBook on RF Solutions for Drones, SATCOM and IIoT Next-Generation Markets\"</span></a>"
-  },
-  {
-    "title": "Are You Conversing with a Human or an AI?",
-    "source": "EE Journal",
-    "date": "2026-09-03",
-    "url": "https://www.eejournal.com/article/are-you-conversing-with-a-human-or-an-ai/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/max-0515-image-for-home-page-modulate-scam-ai-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I just received a phone call from a famous company whose name we shall not speak lest they turn their corporate frowny face in my general direction. At first, I thought I was talking to a person, but his (or its) responses to some of my questions sounded a bit “glitchy.” Eventually I posed my &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/are-you-conversing-with-a-human-or-an-ai/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Are You Conversing with a Human or an AI?\"</span></a>"
   },
   {
     "title": "NXP MCX A5 MCUs Bring 10BASE-T1S Ethernet to Industrial Edge Nodes",
@@ -418,12 +425,5 @@
     "date": "2026-08-31",
     "url": "https://www.embedded.com/sensibel-launches-84-dba-snr-optical-mems-microphone/",
     "summary": "<p>SensiBel has introduced the SBM140B, an optical MEMS microphone designed to provide high-fidelity audio capture across a wide acoustic range. The company claims it is the first MEMS microphone to combine an 84-dBA signal-to-noise ratio (SNR) with a 146-dB sound pressure level (SPL) acoustic overload point (AOP), resulting in a specified dynamic range of 136 [...]</p>\n<p>The post <a href=\"https://www.embedded.com/sensibel-launches-84-dba-snr-optical-mems-microphone/\">SensiBel Launches 84-dBA SNR Optical MEMS Microphone</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Building an Upgrade Path for Safety-Critical Aerospace Computing",
-    "source": "Embedded.com",
-    "date": "2026-08-31",
-    "url": "https://www.embedded.com/building-an-upgrade-path-for-safety-critical-aerospace-computing/",
-    "summary": "<p>Avionic systems are expected to operate for decades. But the processors inside them have much shorter lifecycles. This creates an expensive problem for avionics engineers because replacing the processor may also force changes to the surrounding computing hardware and software. For instance, advanced drones and autonomous aerial systems need more computing power for perception, sensor [...]</p>\n<p>The post <a href=\"https://www.embedded.com/building-an-upgrade-path-for-safety-critical-aerospace-computing/\">Building an Upgrade Path for Safety-Critical Aerospace Computing</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
