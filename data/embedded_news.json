@@ -1,5 +1,12 @@
 [
   {
+    "title": "Sick of Wayland vs. Xorg? How about GEM?",
+    "source": "Hackaday",
+    "date": "2026-09-09",
+    "url": "https://hackaday.com/2026/09/09/sick-of-wayland-vs-xorg-how-about-gem/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/09/gem_desktop_linux_169.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Between lawsuits from Apple, and Microsoft being Microsoft, Digital Research&#8217;s GEM desktop for DOS never really had a chance. It did have another life on Atari home computers, but it&#8217;s <a class=\"read-more\" href=\"https://hackaday.com/2026/09/09/sick-of-wayland-vs-xorg-how-about-gem/\">&#8230;read more</a>"
+  },
+  {
     "title": "One Bit Sound with the ZX Spectrum",
     "source": "Hackaday",
     "date": "2026-09-09",
@@ -14,11 +21,67 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/negative-resistance.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[lcamtuf] has an in-depth look at the concept of negative resistance that goes somewhat further than one might expect. Normally, as voltage across a resistance increases so too does the <a class=\"read-more\" href=\"https://hackaday.com/2026/09/08/the-different-ways-to-look-at-negative-resistance/\">&#8230;read more</a>"
   },
   {
+    "title": "ESP32-C5 Pico board follows Raspberry Pi Pico form factor, ships with on-board or external antenna",
+    "source": "CNX Software",
+    "date": "2026-09-09",
+    "url": "https://www.cnx-software.com/2026/09/09/esp32-c5-pico-board-follows-raspberry-pi-pico-form-factor-ships-with-on-board-or-external-antenna/",
+    "summary": "<div><img alt=\"ESP32-C5 Pico\" class=\"attachment-medium size-medium wp-post-image\" height=\"498\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/ESP32-C5-Pico-720x498.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Waveshare ESP32-C5 Pico board brings the ESP32-C5 dual-band WiFi 6, Bluetooth LE, and 802.15.4 (Zigbee/Thread) SoC to the Raspberry Pi Pico form factor. The board features an ESP32-C5-MINI-1 Series module with PCB or external antenna, two 20-pin GPIO headers, a USB-C port for power and programming, Reset and Boot buttons, and a few LEDs. It also supports Li-Ion battery charging and discharging. Waveshare ESP32-C5 Pico specifications: Wireless module – ESP32-C5-MINI-1 or ESP32-C5-MINI-1U Wireless MCU –  Espressif Systems ESP32-C5HF4 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 48 MHz acting as the main processor for power-sensitive applications Memory – 384 KB SRAM on-chip Storage – 320 KB ROM, 4MB SPI flash Wireless Dual-band (2.4/5 GHz) 802.11ax WiFi 6, 802.11b/g/n WiFi 4 backward compatibility WiFi modes: Station mode, SoftAP mode, SoftAP + Station mode, and promiscuous mode Bluetooth 5.0 Low Energy (LE) with Mesh support, up [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/09/esp32-c5-pico-board-follows-raspberry-pi-pico-form-factor-ships-with-on-board-or-external-antenna/\">ESP32-C5 Pico board follows Raspberry Pi Pico form factor, ships with on-board or external antenna</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "FREE-WILi 2 portable hacking multitool features two RP2350 MCUs, ESP32-C5, ICE40 FPGA, and Raspberry Pi CM0",
     "source": "CNX Software",
     "date": "2026-09-09",
     "url": "https://www.cnx-software.com/2026/09/09/free-wili-2-portable-hacking-multitool-features-two-rp2350-mcus-esp32-c5-ice40-fpga-and-raspberry-pi-cm0/",
     "summary": "<div><img alt=\"FREE WILi 2 portable hacking multitool\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/FREE-WILi-2-portable-hacking-multitool-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The FREE-WILi 2 (Founder Edition) is an open-hardware, portable hacking multitool and lab designed for hardware hackers, pentesters, and embedded system developers. Designed as an “open electronics multitool,” it combines a range of chips and modules into a handheld device, including two Raspberry Pi RP2350 MCUs, an ESP32-C5 for wireless connectivity, a Lattice ICE40UP5K FPGA, and a Raspberry Pi CM0 for running a full Linux OS. The device also features a 3.5-inch capacitive touchscreen, a 14-button physical interface, and modular “Orca” headers for hardware expansion. Its wireless features include 2.4/5GHz Wi-Fi, Bluetooth, LoRa, sub-GHz RF, NFC, 125kHz RFID, and IR. These features make it very suitable for wireless testing, embedded hardware debugging, real-time control, electronics development, and retro gaming, with support for Adafruit Fruit Jam, PICO-8, and Doom. FREE-WILi 2 specifications: Compute Main MCUs – 2x Raspberry Pi RP2350B (One for main controls, one dedicated to display) SoM – Raspberry [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/09/free-wili-2-portable-hacking-multitool-features-two-rp2350-mcus-esp32-c5-ice40-fpga-and-raspberry-pi-cm0/\">FREE-WILi 2 portable hacking multitool features two RP2350 MCUs, ESP32-C5, ICE40 FPGA, and Raspberry Pi CM0</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "1.2V-output LVCMOS clock buffers tackle clock distribution challenges",
+    "source": "Electronics Weekly",
+    "date": "2026-09-09",
+    "url": "https://www.electronicsweekly.com/news/products/1-2v-output-lvcmos-clock-buffers-tackle-clock-distribution-challenges-2026-09/",
+    "summary": "<p>Microchip Technology is introducing its SY757xx family of 1.2V-output LVCMOS clock buffers. According to Microchip, the new devices simplify system design by eliminating the need for traditional discrete-component implementations while [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/1-2v-output-lvcmos-clock-buffers-tackle-clock-distribution-challenges-2026-09/\">1.2V-output LVCMOS clock buffers tackle clock distribution challenges</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "PLD Space extends Series C to €288m for reusable Miura 5 launcher",
+    "source": "Electronics Weekly",
+    "date": "2026-09-09",
+    "url": "https://www.electronicsweekly.com/news/business/finance/pld-space-extends-series-c-to-e288m-for-reusable-miura-5-launcher-2026-09/",
+    "summary": "<p>The Spanish startup PLD Space has announced extending its Series C funding round, originally launched in March 2026. It has received an additional €108 million investment, bringing the total round [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/pld-space-extends-series-c-to-e288m-for-reusable-miura-5-launcher-2026-09/\">PLD Space extends Series C to €288m for reusable Miura 5 launcher</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "ASML breaks ground on  new campus",
+    "source": "Electronics Weekly",
+    "date": "2026-09-09",
+    "url": "https://www.electronicsweekly.com/news/business/asml-breaks-ground-on-new-campus-2026-09/",
+    "summary": "<p>ASML has started building its second major industrial campus in the Brainport region of the Netherlands. The company celebrated the occasion with a groundbreaking ceremony at Brainport Industries Campus (BIC) [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/asml-breaks-ground-on-new-campus-2026-09/\">ASML breaks ground on  new campus</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Kioxia CEO dismisses idea of Hynix tie-up",
+    "source": "Electronics Weekly",
+    "date": "2026-09-09",
+    "url": "https://www.electronicsweekly.com/news/business/kioxia-ceo-dismisses-idea-of-hynix-tie-up-2026-09/",
+    "summary": "<p>Kioxia CEO Hiroo Ota (pictured) has dismissed talks of a tie-up with Hynix on NAND production. Last week Hynix chairman Chey Tae-Won said Hynix is looking for a site in [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/kioxia-ceo-dismisses-idea-of-hynix-tie-up-2026-09/\">Kioxia CEO dismisses idea of Hynix tie-up</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Mistral has $3bn Series D",
+    "source": "Electronics Weekly",
+    "date": "2026-09-09",
+    "url": "https://www.electronicsweekly.com/news/business/mistral-has-3bn-series-d-2026-09/",
+    "summary": "<p>Mistral, the three year-old French AI company, has raised €3 billion in a Series D funding round at a valuation of more than €21 billion, the largest equity fundraising round [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/mistral-has-3bn-series-d-2026-09/\">Mistral has $3bn Series D</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "PCBAA urges Pentagon to act on PCBs",
+    "source": "Electronics Weekly",
+    "date": "2026-09-09",
+    "url": "https://www.electronicsweekly.com/news/business/pcbaa-urges-pentagon-to-act-on-pcbs-2026-09/",
+    "summary": "<p>Five years ago, the US Congress provided guidance to the Pentagon to create a plan to remove Chinese, Russian, Iranian, and North Korean content from critical defense supply chains: certainly [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/pcbaa-urges-pentagon-to-act-on-pcbs-2026-09/\">PCBAA urges Pentagon to act on PCBs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Pulsiv appoints new CEO",
+    "source": "Electronics Weekly",
+    "date": "2026-09-09",
+    "url": "https://www.electronicsweekly.com/news/business/pulse-appoints-new-ceo-2026-09/",
+    "summary": "<p>Pulsiv, the UK power electronics specialist, today announced the appointment of Tim Joyce as CEO and a member of the Board of Directors. Tim succeeds outgoing CEO Darrel Kingham, who [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/pulse-appoints-new-ceo-2026-09/\">Pulsiv appoints new CEO</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Top Ten AI Startups",
@@ -56,13 +119,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"457\" src=\"https://hackaday.com/wp-content/uploads/2026/09/hackaday-europe-2026-erin-kennedy-outdoors-with-robots-mp4-shot0005_featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Erin Kennedy has been building robots for over a decade now, with a focus on smaller bots that interact with, or maybe even clean up, the outdoor environment. Still other <a class=\"read-more\" href=\"https://hackaday.com/2026/09/08/hackaday-europe-2026-outdoors-with-robots/\">&#8230;read more</a>"
   },
   {
-    "title": "Disassembling a Mini Air Blower to Make RC Airplanes",
-    "source": "Hackaday",
-    "date": "2026-09-08",
-    "url": "https://hackaday.com/2026/09/08/disassembling-a-mini-air-blower-to-make-rc-airplanes/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"506\" src=\"https://hackaday.com/wp-content/uploads/2026/09/air_blower_disassembled_rcmarkerslab_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As a certified RC airplane fan, the [RCMakerLab] on YouTube found themselves looking at one of those nifty mini air blowers that provide an alternative to a compressor and canned <a class=\"read-more\" href=\"https://hackaday.com/2026/09/08/disassembling-a-mini-air-blower-to-make-rc-airplanes/\">&#8230;read more</a>"
-  },
-  {
     "title": "Arm CSS for Mobile 2 “AI-Native” platform: Arm C2-Ultra and C2-Pro CPU cores, Mali G2-Ultra NX GPU",
     "source": "CNX Software",
     "date": "2026-09-08",
@@ -89,55 +145,6 @@
     "date": "2026-09-08",
     "url": "https://www.electronicsweekly.com/news/products/emech-enclosures/okw-offers-customised-rotary-potentiometer-and-encoder-knobs-2026-09/",
     "summary": "<p>OKW is announcing customised and ‘Production Line Ready’ control knobs for rotary potentiometers and encoders, The Fareham-based enclosure specialist says the CONTROL-KNOBS can now be specified custom machined and printed [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/emech-enclosures/okw-offers-customised-rotary-potentiometer-and-encoder-knobs-2026-09/\">OKW offers customised rotary potentiometer and encoder knobs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Get the Gadget Master newsletter!",
-    "source": "Electronics Weekly",
-    "date": "2026-09-08",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-09/",
-    "summary": "<p>Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox!</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-09/\">Get the Gadget Master newsletter!</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "EnSilica eyes EU growth with Space & Communications centre in Milan",
-    "source": "Electronics Weekly",
-    "date": "2026-09-08",
-    "url": "https://www.electronicsweekly.com/news/business/ensilica-eyes-eu-growth-with-space-communications-centre-in-milan-2026-09/",
-    "summary": "<p>EnSilica, the mixed-signal asic specialist, is opening its Space &#38; Communications Semiconductor Centre of Excellence in Milan. The centre will initially recruit 20 specialist modem and mmWave engineers over the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ensilica-eyes-eu-growth-with-space-communications-centre-in-milan-2026-09/\">EnSilica eyes EU growth with Space &#038; Communications centre in Milan</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "ASML and TSMC to lead transition to 12-inch photomasks for High-NA EUV",
-    "source": "Electronics Weekly",
-    "date": "2026-09-08",
-    "url": "https://www.electronicsweekly.com/news/business/asml-and-tsmc-to-lead-transition-to-12-inch-photomasks-for-high-na-euv-2026-09/",
-    "summary": "<p>ASML and TSMC have announced a collaborative initiative to lead the semiconductor industry’s transition to a larger-format Extreme Ultraviolet (EUV) lithography photomask. While High NA EUV will be adopted for [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/asml-and-tsmc-to-lead-transition-to-12-inch-photomasks-for-high-na-euv-2026-09/\">ASML and TSMC to lead transition to 12-inch photomasks for High-NA EUV</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "JJ IC has 3.8m junctions per cm2",
-    "source": "Electronics Weekly",
-    "date": "2026-09-08",
-    "url": "https://www.electronicsweekly.com/news/business/jj-ic-has-3-8m-junctions-per-cm2-2026-09/",
-    "summary": "<p>This week, at the 2026 Applied Superconductivity Conference (ASC), imec presents a three-metal-level (3ML) niobium-titanium-nitride (NbTiN)-based Josephson junction circuit, achieving circuit design densities of 3.8 million junctions per cm2 – [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/jj-ic-has-3-8m-junctions-per-cm2-2026-09/\">JJ IC has 3.8m junctions per cm2</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "US DoE has $12m funding opportunity for space-based PV R&D",
-    "source": "Electronics Weekly",
-    "date": "2026-09-08",
-    "url": "https://www.electronicsweekly.com/news/business/us-doe-has-12m-funding-opportunity-for-space-based-pv-rd-2026-09/",
-    "summary": "<p>The U.S. Department of Energy (DOE) Integrated Energy Systems Office (IESO) announced the Space Photovoltaics Research and Development Partnership Intermediary Agreement (PIA) opportunity which will award up to $12 million [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/us-doe-has-12m-funding-opportunity-for-space-based-pv-rd-2026-09/\">US DoE has $12m funding opportunity for space-based PV R&amp;D</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Astute Group transitions leadership",
-    "source": "Electronics Weekly",
-    "date": "2026-09-08",
-    "url": "https://www.electronicsweekly.com/news/astute-group-transitions-leadership-2026-09/",
-    "summary": "<p>Astute Group has announced a leadership transition. Geoff Hill, founder and Managing Director, becomes Chairman. In this role, Geoff will continue to shape the Group’s long-term strategy, providing guidance and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/astute-group-transitions-leadership-2026-09/\">Astute Group transitions leadership</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Q2 DRAM contract price up 59.5% QoQ",
-    "source": "Electronics Weekly",
-    "date": "2026-09-08",
-    "url": "https://www.electronicsweekly.com/news/business/q2-dram-contract-price-up-59-5-qoq-2026-09/",
-    "summary": "<p>Q2 DRAM contract prices were up 59.5% QoQ pushing DRAM quarterly revenue to nearly $154.73 billion, reports TrendForce. Suppliers’ inventories remain at historic lows, with additional supply mainly allocated for [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/q2-dram-contract-price-up-59-5-qoq-2026-09/\">Q2 DRAM contract price up 59.5% QoQ</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Celebrate 100 Years of Winnie-the-Pooh with the NYPL",
@@ -376,13 +383,6 @@
     "date": "2026-09-03",
     "url": "https://www.cnx-software.com/2026/09/03/amlogic-a311y3-cortex-a78-a55-edge-ai-system-on-module-delivers-up-to-8-tops/",
     "summary": "<div><img alt=\"Amlogic A311Y3 SoM\" class=\"attachment-medium size-medium wp-post-image\" height=\"360\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Amlogic-A311Y3-SoM-720x360.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Boardcon CM311Y3 system-on-module (SoM) is powered by an Amlogic A311Y3 octa-core Cortex-A78/A55 SoC with an 8 TOPS NPU and targets 4K video surveillance systems, AI edge computing devices, interactive terminals, enterprise thin clients, and autonomous robots. The module comes with up to 16GB LPDDR5 and up to 256 GB eMMC flash, exposes 210 pins through castellated edges, and a development board is also provided for evaluation and early software development. We don&#8217;t often see new SoMs or SBCs based on Amlogic SoCs these days, so let&#8217;s have a closer look. Boardcon CM311Y3 System-on-Module CM311Y3 specifications: SoC &#8211; Amlogic A311Y3 CPU 2x ARM Cortex-A78 cores @ 2.4GHx 6x ARM Cortex-A55 cores @ 2.0GHz RISC-V core for system control processing RISC-V core for Always-on power management and Sensor Hub GPU &#8211; Arm Mali-G625 MC1 with support for OpenGL ES 3.2, Vulkan 1.4, and OpenCL 3.0 VPU Video Decoder &#8211; H.264 up to [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/03/amlogic-a311y3-cortex-a78-a55-edge-ai-system-on-module-delivers-up-to-8-tops/\">Amlogic A311Y3 Cortex-A78/A55 Edge AI system-on-module delivers up to 8 TOPS</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Artery AT32F406 and AT32F408 Cortex-M4F MCUs feature optional high-speed USB OTG PHY",
-    "source": "CNX Software",
-    "date": "2026-09-03",
-    "url": "https://www.cnx-software.com/2026/09/03/artery-at32f406-and-at32f408-cortex-m4f-mcus-feature-optional-high-speed-usb-otg-phy/",
-    "summary": "<div><img alt=\"Artery AT32F406 and AT32F408 MCU\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Artery-AT32F406-and-AT32F408-MCU-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Artery Technology AT32F406 and AT32F408 are two new Arm Cortex-M4F MCUs running at up to 216 MHz, with the F408 adding USB OTG High-Speed and an integrated PHY for industrial automation, IoT, USB accessories, and gaming peripherals. The AT32F406/F408 series both offer DSP instructions and a floating-point unit (FPU), integrate up to 512 KB Flash and 192 KB SRAM, and a 4 KB OTP memory for critical data and parameters. The microcontrollers also offer a QSPI interface for external Flash or RAM expansion, and a range of digital and analog peripheral interfaces. Artery AT32F406/AT32F408 specifications: MCU &#8211; 32-bit Arm Cortex-M4F CPU up to 216 MHz; also features Memory Protection Unit (MPU) and DSP instructions Memory/Storage 128 KB to 192 KB SRAM 256 KB to 512 KB Flash memory 26 KB boot memory (configurable as a bootloader or general instruction/data memory) 4 KB OTP (one-time programmable) memory QSPI interface for external SPI [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/03/artery-at32f406-and-at32f408-cortex-m4f-mcus-feature-optional-high-speed-usb-otg-phy/\">Artery AT32F406 and AT32F408 Cortex-M4F MCUs feature optional high-speed USB OTG PHY</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "SomDevices, Celus Bring μSMARC Modules to Design Platform",

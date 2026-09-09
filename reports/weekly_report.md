@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-09 05:25 UTC
+Generated: 2026-09-09 10:10 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,10 +14,10 @@ Generated: 2026-09-09 05:25 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83451 | 33380.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63611 | 25444.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44513 | 17805.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30469 | 12187.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 83452 | 33380.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63614 | 25445.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44517 | 17806.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30471 | 12188.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | questdb/questdb | 17311 | 6924.5 | [link](https://github.com/questdb/questdb) |
 
 ## Top Models
@@ -41,8 +41,8 @@ Generated: 2026-09-09 05:25 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-09 | Upping the Antioch: Kiwi-founded physical AI startup's $54m round - nbr.co.nz | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxOOUpBSy1KamVvVTFkaGVsS291NWk4VnlNQ3dPMFZUZ2FsS2d6aldPZUpiTnREUTNnS0JJeGRET2JPOHR2TXpzdmNHLUpRQ21MeXV6WW8tVm5YTTNfYlRBS3RuOFJXQUg3bnFocENDeG9MTkNza05GSjlUZy1BbXN6VWJwUmk5VnFoY3B2RFdFU0pRNUZQ?oc=5) |
-| 2026-09-09 | IDG Capital leads near-$100m seed round for nascent embodied AI startup PHYMI - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTFBrRGlXUUs1dDNpcUx6TDJBaUF5ZjFya2UzY3Rpdk5wVmpRSF81bXMyZzlGalprb01lTEY3dVNZaGNyRXozdDBXSnFieWkyQzBXMjYzRnhaenBlSDRXd09mVzZBYW9VVVQydnc3cWNOX3dIZw?oc=5) |
-| 2026-09-09 | Intelligent Driving Industry Veteran Liu Nianqiu Launches Startup, Secures Nearly $100 Million in Series A Financing - 36 Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqNTdoRGNaUG1PRjJRT05lR1luQVJuODd1X3h6VHNUNUwzU2ZTbkN0azdkTVBNS2M2X3dVTWM2ZGp2Q1VSaF9kNzJaOE5aVTM0ZU1n?oc=5) |
+| 2026-09-09 | Upping the Antioch: Kiwi-founded physical AI startup's $54m round - National Business Review | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxOOUpBSy1KamVvVTFkaGVsS291NWk4VnlNQ3dPMFZUZ2FsS2d6aldPZUpiTnREUTNnS0JJeGRET2JPOHR2TXpzdmNHLUpRQ21MeXV6WW8tVm5YTTNfYlRBS3RuOFJXQUg3bnFocENDeG9MTkNza05GSjlUZy1BbXN6VWJwUmk5VnFoY3B2RFdFU0pRNUZQ?oc=5) |
+| 2026-09-09 | IDG Capital leads near-$100m seed round for nascent embodied AI startup PHYMI - dealstreetasia.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTFBrRGlXUUs1dDNpcUx6TDJBaUF5ZjFya2UzY3Rpdk5wVmpRSF81bXMyZzlGalprb01lTEY3dVNZaGNyRXozdDBXSnFieWkyQzBXMjYzRnhaenBlSDRXd09mVzZBYW9VVVQydnc3cWNOX3dIZw?oc=5) |
+| 2026-09-09 | Intelligent Driving Industry Veteran Liu Nianqiu Launches Startup, Secures Nearly $100 Million in Series A Financing - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqNTdoRGNaUG1PRjJRT05lR1luQVJuODd1X3h6VHNUNUwzU2ZTbkN0azdkTVBNS2M2X3dVTWM2ZGp2Q1VSaF9kNzJaOE5aVTM0ZU1n?oc=5) |
 | 2026-09-08 | Runway buys France's Kinetix, crosses $200M ARR in physical AI push - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbmRQQTNmTGZuYUc3NXZsREdjTTdNRmU0VWFNSWRIaEczakd0cWNDMTkza3FTbUVGSnBCenBIRVVMWG5kNFRiV0EyYTRjZlN3WjlNMmI1bFA1V3FoN21aV01NOHBYb0Nrcm5TUzAwS0N0ZkhmX2Y1ZGZuVHc0S0stVFh2OG16N2FOSWdPZG1jbkF3TGVsTjA5cm9BRVV5aW5u?oc=5) |
-| 2026-09-08 | Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus - CnEVPost | physical ai startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE5paGtCdFl4cE13UjYyQlF6U1Fyc3BkYlZPQ0c5MUotU3hrRFJLS1h0ZVlKS1ZuNDBsN0dvdzZYcXpkNlpiNFpkMlZTaUs1ZHRfYVZURzF6dk5pU0V1UVg3VzVIMEltRzkyQ1B6Uk1icUl4TGQ4QmNjSg?oc=5) |
+| 2026-09-08 | Travis Kalanick jumps back into the robotaxi race with Atoms, his new physical AI startup - Capmad | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNemJtdTVmUDVNTERWcGp4NUxuMGtLbHlQdnptek94NU5lWktiTkFrUlVad0NLOGhWeUsxT0RBc0g0b1dlOTI0eGduUXNfcXhPY0Zad0JxY2tiNzJYNlFXVFFiR0tqYnFhakE0LTMzbFczMDZITVotY0Q2YjROV2NKWElRdzR2Z2U2bjcwUzY0OEVMZ2ZtTE1IMzR4d1ZLX0JrM2ZKdjIyY1BLbDBQdXZhS0t6Z0tLQjg?oc=5) |

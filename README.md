@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-09 05:25 UTC
+Last Updated: 2026-09-09 10:10 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-09 | Sick of Wayland vs. Xorg? How about GEM? | Hackaday | [link](https://hackaday.com/2026/09/09/sick-of-wayland-vs-xorg-how-about-gem/) |
 | 2026-09-09 | One Bit Sound with the ZX Spectrum | Hackaday | [link](https://hackaday.com/2026/09/08/one-bit-sound-with-the-zx-spectrum/) |
 | 2026-09-09 | The Different Ways To Look at Negative Resistance | Hackaday | [link](https://hackaday.com/2026/09/08/the-different-ways-to-look-at-negative-resistance/) |
+| 2026-09-09 | ESP32-C5 Pico board follows Raspberry Pi Pico form factor, ships with on-board or external antenna | CNX Software | [link](https://www.cnx-software.com/2026/09/09/esp32-c5-pico-board-follows-raspberry-pi-pico-form-factor-ships-with-on-board-or-external-antenna/) |
 | 2026-09-09 | FREE-WILi 2 portable hacking multitool features two RP2350 MCUs, ESP32-C5, ICE40 FPGA, and Raspberry Pi CM0 | CNX Software | [link](https://www.cnx-software.com/2026/09/09/free-wili-2-portable-hacking-multitool-features-two-rp2350-mcus-esp32-c5-ice40-fpga-and-raspberry-pi-cm0/) |
-| 2026-09-09 | Top Ten AI Startups | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-ai-startups-2026-09/) |
-| 2026-09-08 | Anti-Doomscroll Tamagotchi Only Lives if You Do | Hackaday | [link](https://hackaday.com/2026/09/08/anti-doomscroll-tamagotchi-only-lives-if-you-do/) |
-| 2026-09-08 | Are Desktop PC-ABS Prints Outperformed by Industrial FDM? Not Really | Hackaday | [link](https://hackaday.com/2026/09/08/are-desktop-pc-abs-prints-outperformed-by-industrial-fdm-not-really/) |
-| 2026-09-08 | Fixing a 1990s LEGO Electric Train Speed Regulator | Hackaday | [link](https://hackaday.com/2026/09/08/fixing-a-1990s-lego-electric-train-speed-regulator/) |
-| 2026-09-08 | Hackaday Europe 2026: Outdoors with Robots | Hackaday | [link](https://hackaday.com/2026/09/08/hackaday-europe-2026-outdoors-with-robots/) |
-| 2026-09-08 | Disassembling a Mini Air Blower to Make RC Airplanes | Hackaday | [link](https://hackaday.com/2026/09/08/disassembling-a-mini-air-blower-to-make-rc-airplanes/) |
-| 2026-09-08 | Arm CSS for Mobile 2 “AI-Native” platform: Arm C2-Ultra and C2-Pro CPU cores, Mali G2-Ultra NX GPU | CNX Software | [link](https://www.cnx-software.com/2026/09/08/arm-css-for-mobile-2-ai-native-platform-arm-c2-ultra-and-c2-pro-cpu-cores-mali-g2-ultra-nx-gpu/) |
+| 2026-09-09 | 1.2V-output LVCMOS clock buffers tackle clock distribution challenges | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/1-2v-output-lvcmos-clock-buffers-tackle-clock-distribution-challenges-2026-09/) |
+| 2026-09-09 | PLD Space extends Series C to €288m for reusable Miura 5 launcher | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/finance/pld-space-extends-series-c-to-e288m-for-reusable-miura-5-launcher-2026-09/) |
+| 2026-09-09 | ASML breaks ground on  new campus | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/asml-breaks-ground-on-new-campus-2026-09/) |
+| 2026-09-09 | Kioxia CEO dismisses idea of Hynix tie-up | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/kioxia-ceo-dismisses-idea-of-hynix-tie-up-2026-09/) |
+| 2026-09-09 | Mistral has $3bn Series D | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/mistral-has-3bn-series-d-2026-09/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-09-09 | 2026-Human-Video-Robot-Manipulation-Data/realmirror | 0 | 0 | [link](https://huggingface.co/2026-Human-Video-Robot-Manipulation-Data/realmirror) |
 | 2026-09-09 | LhLuke/robot_models | 0 | 1 | [link](https://huggingface.co/LhLuke/robot_models) |
-| 2026-09-09 | Datawhale/hello-robotics-chapter16 | 0 | 0 | [link](https://huggingface.co/Datawhale/hello-robotics-chapter16) |
-| 2026-09-09 | Richard-ZZZZZ/robotwin-bihub-joint-wam-v3-step2000 | 0 | 0 | [link](https://huggingface.co/Richard-ZZZZZ/robotwin-bihub-joint-wam-v3-step2000) |
-| 2026-09-09 | Richard-ZZZZZ/robotwin-bihub-joint-wam-v3-step9000 | 0 | 0 | [link](https://huggingface.co/Richard-ZZZZZ/robotwin-bihub-joint-wam-v3-step9000) |
-| 2026-09-09 | robotensor/bpp-genesis | 0 | 0 | [link](https://huggingface.co/robotensor/bpp-genesis) |
-| 2026-09-09 | sam-guided-vlas/train_1_2_pile_random_pose__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0) |
-| 2026-09-09 | sam-guided-vlas/train_1_2_hard_items__point__overlay_a25__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__point__overlay_a25__sim__all_cameras__live__pi05__seed_0) |
-| 2026-09-09 | vlabki/poscat-gv2-dual-policy | 30 | 0 | [link](https://huggingface.co/vlabki/poscat-gv2-dual-policy) |
-| 2026-09-09 | sam-guided-vlas/train_1_2_hard_items__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-09 | OpenWAM/sft_two_stage_robotwin_clean | 14 | 0 | [link](https://huggingface.co/OpenWAM/sft_two_stage_robotwin_clean) |
+| 2026-09-09 | OpenWAM/sft_robot_only_robotwin_clean | 9 | 0 | [link](https://huggingface.co/OpenWAM/sft_robot_only_robotwin_clean) |
+| 2026-09-09 | OpenWAM/sft_from_scratch_robotwin_clean | 14 | 0 | [link](https://huggingface.co/OpenWAM/sft_from_scratch_robotwin_clean) |
+| 2026-09-09 | OpenWAM/sft_ego_robot_cotrain_robotwin_full_mutual | 11 | 0 | [link](https://huggingface.co/OpenWAM/sft_ego_robot_cotrain_robotwin_full_mutual) |
+| 2026-09-09 | OpenWAM/sft_ego_robot_cotrain_robotwin_full_action_sees_video | 12 | 0 | [link](https://huggingface.co/OpenWAM/sft_ego_robot_cotrain_robotwin_full_action_sees_video) |
+| 2026-09-09 | OpenWAM/sft_ego_robot_cotrain_robotwin_clean_mutual | 11 | 0 | [link](https://huggingface.co/OpenWAM/sft_ego_robot_cotrain_robotwin_clean_mutual) |
+| 2026-09-09 | OpenWAM/sft_ego_robot_cotrain_robotwin_clean_action_sees_video | 11 | 0 | [link](https://huggingface.co/OpenWAM/sft_ego_robot_cotrain_robotwin_clean_action_sees_video) |
+| 2026-09-09 | OpenWAM/robotwin_tri_system_joint_self_attention | 24 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_tri_system_joint_self_attention) |
+| 2026-09-09 | OpenWAM/robotwin_single_system_vanilla | 13 | 0 | [link](https://huggingface.co/OpenWAM/robotwin_single_system_vanilla) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | copper-project/copper-rs | 1483 | Rust | 593.3 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 473 | Shell | 189.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63611 | Python | 25444.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63614 | Python | 25445.7 | [link](https://github.com/commaai/openpilot) |
 | questdb/questdb | 17311 | Java | 6924.5 | [link](https://github.com/questdb/questdb) |
+| zauberzeug/nicegui | 16188 | Python | 6475.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15827 | C++ | 6330.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 14794 | Python | 5917.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| dora-rs/dora | 3926 | Rust | 1570.5 | [link](https://github.com/dora-rs/dora) |
-| PhyAgentOS/PhyAgentOS-core | 2122 | Python | 848.9 | [link](https://github.com/PhyAgentOS/PhyAgentOS-core) |
-| sou350121/VLA-Handbook | 601 | HTML | 240.5 | [link](https://github.com/sou350121/VLA-Handbook) |
-| vllm-project/vllm-omni | 6725 | Python | 2690.1 | [link](https://github.com/vllm-project/vllm-omni) |
+| google-deepmind/mujoco | 15013 | C++ | 6005.3 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 14805 | Python | 5922.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| rerun-io/rerun | 11416 | Rust | 4566.5 | [link](https://github.com/rerun-io/rerun) |
+| dora-rs/dora | 3928 | Rust | 1571.3 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,16 +119,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-09 | Upping the Antioch: Kiwi-founded physical AI startup's $54m round - nbr.co.nz | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxOOUpBSy1KamVvVTFkaGVsS291NWk4VnlNQ3dPMFZUZ2FsS2d6aldPZUpiTnREUTNnS0JJeGRET2JPOHR2TXpzdmNHLUpRQ21MeXV6WW8tVm5YTTNfYlRBS3RuOFJXQUg3bnFocENDeG9MTkNza05GSjlUZy1BbXN6VWJwUmk5VnFoY3B2RFdFU0pRNUZQ?oc=5) |
-| 2026-09-09 | IDG Capital leads near-$100m seed round for nascent embodied AI startup PHYMI - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTFBrRGlXUUs1dDNpcUx6TDJBaUF5ZjFya2UzY3Rpdk5wVmpRSF81bXMyZzlGalprb01lTEY3dVNZaGNyRXozdDBXSnFieWkyQzBXMjYzRnhaenBlSDRXd09mVzZBYW9VVVQydnc3cWNOX3dIZw?oc=5) |
-| 2026-09-09 | Intelligent Driving Industry Veteran Liu Nianqiu Launches Startup, Secures Nearly $100 Million in Series A Financing - 36 Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqNTdoRGNaUG1PRjJRT05lR1luQVJuODd1X3h6VHNUNUwzU2ZTbkN0azdkTVBNS2M2X3dVTWM2ZGp2Q1VSaF9kNzJaOE5aVTM0ZU1n?oc=5) |
+| 2026-09-09 | Upping the Antioch: Kiwi-founded physical AI startup's $54m round - National Business Review | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxOOUpBSy1KamVvVTFkaGVsS291NWk4VnlNQ3dPMFZUZ2FsS2d6aldPZUpiTnREUTNnS0JJeGRET2JPOHR2TXpzdmNHLUpRQ21MeXV6WW8tVm5YTTNfYlRBS3RuOFJXQUg3bnFocENDeG9MTkNza05GSjlUZy1BbXN6VWJwUmk5VnFoY3B2RFdFU0pRNUZQ?oc=5) |
+| 2026-09-09 | IDG Capital leads near-$100m seed round for nascent embodied AI startup PHYMI - dealstreetasia.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTFBrRGlXUUs1dDNpcUx6TDJBaUF5ZjFya2UzY3Rpdk5wVmpRSF81bXMyZzlGalprb01lTEY3dVNZaGNyRXozdDBXSnFieWkyQzBXMjYzRnhaenBlSDRXd09mVzZBYW9VVVQydnc3cWNOX3dIZw?oc=5) |
+| 2026-09-09 | Intelligent Driving Industry Veteran Liu Nianqiu Launches Startup, Secures Nearly $100 Million in Series A Financing - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqNTdoRGNaUG1PRjJRT05lR1luQVJuODd1X3h6VHNUNUwzU2ZTbkN0azdkTVBNS2M2X3dVTWM2ZGp2Q1VSaF9kNzJaOE5aVTM0ZU1n?oc=5) |
 | 2026-09-08 | Runway buys France's Kinetix, crosses $200M ARR in physical AI push - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbmRQQTNmTGZuYUc3NXZsREdjTTdNRmU0VWFNSWRIaEczakd0cWNDMTkza3FTbUVGSnBCenBIRVVMWG5kNFRiV0EyYTRjZlN3WjlNMmI1bFA1V3FoN21aV01NOHBYb0Nrcm5TUzAwS0N0ZkhmX2Y1ZGZuVHc0S0stVFh2OG16N2FOSWdPZG1jbkF3TGVsTjA5cm9BRVV5aW5u?oc=5) |
+| 2026-09-08 | Travis Kalanick jumps back into the robotaxi race with Atoms, his new physical AI startup - Capmad | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNemJtdTVmUDVNTERWcGp4NUxuMGtLbHlQdnptek94NU5lWktiTkFrUlVad0NLOGhWeUsxT0RBc0g0b1dlOTI0eGduUXNfcXhPY0Zad0JxY2tiNzJYNlFXVFFiR0tqYnFhakE0LTMzbFczMDZITVotY0Q2YjROV2NKWElRdzR2Z2U2bjcwUzY0OEVMZ2ZtTE1IMzR4d1ZLX0JrM2ZKdjIyY1BLbDBQdXZhS0t6Z0tLQjg?oc=5) |
 | 2026-09-08 | Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus - CnEVPost | physical ai startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE5paGtCdFl4cE13UjYyQlF6U1Fyc3BkYlZPQ0c5MUotU3hrRFJLS1h0ZVlKS1ZuNDBsN0dvdzZYcXpkNlpiNFpkMlZTaUs1ZHRfYVZURzF6dk5pU0V1UVg3VzVIMEltRzkyQ1B6Uk1icUl4TGQ4QmNjSg?oc=5) |
 | 2026-09-08 | Chinese robotics startup Simple AI completes pre-A+ round - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTklySmp5SjY4M0FLNWV3aEt0U085N2lTOU9LeElpa0xhTmFUM1F1MnZsY2l5QUdqQVZmcDVpaERxeXRhNTFEUU11ejVVaDFDSTJuV0tpREp1NVUwbEEzamZ2cVR5b2ZFZmpDZGxLd1ZyQmJZRUU5bXN2b2RGMUwweGhBYmdaX2xa?oc=5) |
 | 2026-09-08 | China’s Humanoid Robot Boom, Part II: Startups Move From Robot Shows to Real Jobs - TechNode | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmxzSzJXS1pJdEh2eXVSVThIZXR0RFNEYWJwS2NMMlF1SHZsZjVDRjlobWg0WXkzMVhLblZaU21fY1lLS2VRZDRaLUdtX2pkX2VqaUJQZ0tiVzZtLXduaGo1M3ZEdjJlNzZjYURKWnFNWFZPZVRzaC1vclBtcVJZR09mWlA0RGxrMFFmWkZBOExadjNhSFJpRS1VM0pPRWlZenpqdmRFRnZILXBRU250Nw?oc=5) |
-| 2026-09-08 | Samsung SDI, LG and SK On Race to Build Batteries for Humanoid Robots - startupfortune.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0N3M3FUV3ZPaEdveUhPRjBxS1lCX3F5bXRHMVBOTHRGQlFibW8xQ2xlN2tRZUNGQU1lVUo4UkJkV0xIOEZROUJkY2VncWYzTF9zdGVOMzNDWjBfZ3BMZktRNExFSFJFV3NlRVdfVkd4SkdDOEJfZzRvUU9BcWE2QS1TVXdQVXBJOVh6RjlCaExRY1RyYnBtdkRuWG8?oc=5) |
+| 2026-09-08 | Samsung SDI, LG and SK On Race to Build Batteries for Humanoid Robots - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0N3M3FUV3ZPaEdveUhPRjBxS1lCX3F5bXRHMVBOTHRGQlFibW8xQ2xlN2tRZUNGQU1lVUo4UkJkV0xIOEZROUJkY2VncWYzTF9zdGVOMzNDWjBfZ3BMZktRNExFSFJFV3NlRVdfVkd4SkdDOEJfZzRvUU9BcWE2QS1TVXdQVXBJOVh6RjlCaExRY1RyYnBtdkRuWG8?oc=5) |
 | 2026-09-05 | Korea Bets Its Physical AI Advantage on Manufacturing Depth - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0tMWTJjLV9XZXRsOVVFU2d4OEx6c3BvX2F2NHV2MXFtYkNsY0w1Wjd2VDlaYUp4ZzRzX3JhWm4yTGt5amM5R0Vscm5ENmYxRjhQcHFPZEZIQ0VvU3NQZXlGU21lbnc3V3VXUzJmRkdjOWJVOHAtNmExT1FER01DTFBmSVVIM1Ju?oc=5) |
-| 2026-09-03 | Robot startups are trying everything they can think of to get more data - understandingai.org | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKYXpFMmlDWXdUNWYyaHppZHhMblphTFRXYzk2SHpZTWFMNmRDRG10VTZmYUdad1ZRaE1aeFNjLTUtUkpON2Nwd3gwWkFEVkJoeWlSODE5R183dVI3TmZ0a0s5S2FDREN3MGx2cDRNUERFOC1Sd0VhZHh3?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
