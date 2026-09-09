@@ -47,11 +47,11 @@
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-U0-4B",
     "downloads": 0,
-    "likes": 3,
+    "likes": 4,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-4B",
     "date": "2026-09-09",
     "keyword": "robotics",
-    "score": 0.7
+    "score": 0.9
   },
   {
     "model": "djbob/balance_robot",
@@ -108,6 +108,51 @@
     "score": 3.4
   },
   {
+    "model": "sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__steps_60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__steps_60k",
+    "date": "2026-09-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__steps_30k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__steps_30k",
+    "date": "2026-09-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "dsaddsaf/lingbot-vla-2.0-JiGksyB1yCUG",
+    "downloads": 13,
+    "likes": 0,
+    "url": "https://huggingface.co/dsaddsaf/lingbot-vla-2.0-JiGksyB1yCUG",
+    "date": "2026-09-09",
+    "keyword": "vla",
+    "score": 4.0
+  },
+  {
+    "model": "jidaxian010/vla-feedback-sim",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jidaxian010/vla-feedback-sim",
+    "date": "2026-09-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_hard_items__point__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__point__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "tungduong261204/lingbot-vla-2.0-Rnk2wWkfuVYN",
     "downloads": 0,
     "likes": 0,
@@ -153,15 +198,6 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_hard_items__point__overlay_a100__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__point__overlay_a100__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-09",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "VladHong/Ling-3.0-Tiny-APEQ-SubMini",
     "downloads": 0,
     "likes": 0,
@@ -180,40 +216,22 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_hard_items__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
+    "model": "jaeminkimvab/hw2-embodied-ai",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/jaeminkimvab/hw2-embodied-ai",
     "date": "2026-09-09",
-    "keyword": "vla",
+    "keyword": "embodied",
     "score": 0.1
   },
   {
-    "model": "vlabki/poscat-gv2-dual-policy",
-    "downloads": 30,
+    "model": "ubr-physical-ai/rescue-target-yolo26n",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/vlabki/poscat-gv2-dual-policy",
+    "url": "https://huggingface.co/ubr-physical-ai/rescue-target-yolo26n",
     "date": "2026-09-09",
-    "keyword": "policy",
-    "score": 9.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 18,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-09",
-    "keyword": "vla",
-    "score": 5.5
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile_random_pose__bbox__blackout_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 20,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__blackout_a50__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-09",
-    "keyword": "vla",
-    "score": 6.1
+    "keyword": "physical ai",
+    "score": 0.1
   },
   {
     "model": "ubr-physical-ai/UBR-Rescue-Spotter",
@@ -225,10 +243,10 @@
     "score": 0.1
   },
   {
-    "model": "JanPhilipp/policy_test",
+    "model": "geonmin-kim/Cosmos3-Edge-Policy-DROID-FastWAM-K1",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/JanPhilipp/policy_test",
+    "url": "https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-DROID-FastWAM-K1",
     "date": "2026-09-09",
     "keyword": "policy",
     "score": 0.1
@@ -243,13 +261,22 @@
     "score": 0.1
   },
   {
-    "model": "geonmin-kim/Cosmos3-Edge-Policy-DROID-FastWAM-K1",
+    "model": "JanPhilipp/policy_test",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-DROID-FastWAM-K1",
+    "url": "https://huggingface.co/JanPhilipp/policy_test",
     "date": "2026-09-09",
     "keyword": "policy",
     "score": 0.1
+  },
+  {
+    "model": "vlabki/poscat-gv2-dual-policy",
+    "downloads": 30,
+    "likes": 0,
+    "url": "https://huggingface.co/vlabki/poscat-gv2-dual-policy",
+    "date": "2026-09-09",
+    "keyword": "policy",
+    "score": 9.1
   },
   {
     "model": "IXDLI/AIRO-Doffy-WRM-Grasp-WRM-policy-consensus-lambda01",
@@ -666,15 +693,6 @@
     "score": 3.4
   },
   {
-    "model": "Leonyly7970/embodied-ai-aug",
-    "downloads": 14,
-    "likes": 0,
-    "url": "https://huggingface.co/Leonyly7970/embodied-ai-aug",
-    "date": "2026-08-28",
-    "keyword": "embodied",
-    "score": 4.3
-  },
-  {
     "model": "lookarooka/Physical-ai-humanoid-v5-ppo",
     "downloads": 0,
     "likes": 0,
@@ -745,15 +763,6 @@
     "date": "2026-08-05",
     "keyword": "physical ai",
     "score": 3.1
-  },
-  {
-    "model": "physicalairi/so101_1200ep_pi05_20260805",
-    "downloads": 33,
-    "likes": 0,
-    "url": "https://huggingface.co/physicalairi/so101_1200ep_pi05_20260805",
-    "date": "2026-08-05",
-    "keyword": "physical ai",
-    "score": 10.0
   },
   {
     "model": "Idan/fga-navigation",

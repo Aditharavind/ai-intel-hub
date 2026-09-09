@@ -1,5 +1,19 @@
 [
   {
+    "title": "Reverse Engineering The Philips PM5139",
+    "source": "Hackaday",
+    "date": "2026-09-09",
+    "url": "https://hackaday.com/2026/09/09/reverse-engineering-the-philips-pm5139/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-202135-1.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Philips PM5139 is not famous. It won no great victories on the battlefield, nor was instrumental in changing the political landscape. It was just a useful function generator that <a class=\"read-more\" href=\"https://hackaday.com/2026/09/09/reverse-engineering-the-philips-pm5139/\">&#8230;read more</a>"
+  },
+  {
+    "title": "FLOSS Weekly Episode 881: Eating Its Own Tail",
+    "source": "Hackaday",
+    "date": "2026-09-09",
+    "url": "https://hackaday.com/2026/09/09/floss-weekly-episode-881-eating-its-own-tail/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>This week Jonathan chats with Olivier Vernin of Updatecli, the tool that helps you update everything! Need to roll out dependency updates intelligently? Or even automatically deploy to a server <a class=\"read-more\" href=\"https://hackaday.com/2026/09/09/floss-weekly-episode-881-eating-its-own-tail/\">&#8230;read more</a>"
+  },
+  {
     "title": "It’s GNU Radio Companion, But in the Browser",
     "source": "Hackaday",
     "date": "2026-09-09",
@@ -35,13 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"318\" src=\"https://hackaday.com/wp-content/uploads/2026/09/zx.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Michael] has a thing for playing audio over beepers using a single bit. He&#8217;s done it with the Apple ][ and the IBM PC. This time he turns to the <a class=\"read-more\" href=\"https://hackaday.com/2026/09/08/one-bit-sound-with-the-zx-spectrum/\">&#8230;read more</a>"
   },
   {
-    "title": "The Different Ways To Look at Negative Resistance",
-    "source": "Hackaday",
-    "date": "2026-09-09",
-    "url": "https://hackaday.com/2026/09/08/the-different-ways-to-look-at-negative-resistance/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/negative-resistance.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[lcamtuf] has an in-depth look at the concept of negative resistance that goes somewhat further than one might expect. Normally, as voltage across a resistance increases so too does the <a class=\"read-more\" href=\"https://hackaday.com/2026/09/08/the-different-ways-to-look-at-negative-resistance/\">&#8230;read more</a>"
-  },
-  {
     "title": "ESP32-C5 Pico board follows Raspberry Pi Pico form factor, ships with on-board or external antenna",
     "source": "CNX Software",
     "date": "2026-09-09",
@@ -54,6 +61,13 @@
     "date": "2026-09-09",
     "url": "https://www.cnx-software.com/2026/09/09/free-wili-2-portable-hacking-multitool-features-two-rp2350-mcus-esp32-c5-ice40-fpga-and-raspberry-pi-cm0/",
     "summary": "<div><img alt=\"FREE WILi 2 portable hacking multitool\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/FREE-WILi-2-portable-hacking-multitool-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The FREE-WILi 2 (Founder Edition) is an open-hardware, portable hacking multitool and lab designed for hardware hackers, pentesters, and embedded system developers. Designed as an “open electronics multitool,” it combines a range of chips and modules into a handheld device, including two Raspberry Pi RP2350 MCUs, an ESP32-C5 for wireless connectivity, a Lattice ICE40UP5K FPGA, and a Raspberry Pi CM0 for running a full Linux OS. The device also features a 3.5-inch capacitive touchscreen, a 14-button physical interface, and modular “Orca” headers for hardware expansion. Its wireless features include 2.4/5GHz Wi-Fi, Bluetooth, LoRa, sub-GHz RF, NFC, 125kHz RFID, and IR. These features make it very suitable for wireless testing, embedded hardware debugging, real-time control, electronics development, and retro gaming, with support for Adafruit Fruit Jam, PICO-8, and Doom. FREE-WILi 2 specifications: Compute Main MCUs – 2x Raspberry Pi RP2350B (One for main controls, one dedicated to display) SoM – Raspberry [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/09/free-wili-2-portable-hacking-multitool-features-two-rp2350-mcus-esp32-c5-ice40-fpga-and-raspberry-pi-cm0/\">FREE-WILi 2 portable hacking multitool features two RP2350 MCUs, ESP32-C5, ICE40 FPGA, and Raspberry Pi CM0</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Morse Micro Introduces Wi-Fi HaLow USB Network Adapters",
+    "source": "Embedded.com",
+    "date": "2026-09-09",
+    "url": "https://www.embedded.com/morse-micro-introduces-wi-fi-halow-usb-network-adapters/",
+    "summary": "<p>Morse Micro has introduced a range of Wi-Fi HaLow USB network adapters that give computers, laptops, and access points direct connectivity to Wi-Fi HaLow networks. Available in both USB-A and USB-C formats, the adapters give developers and device manufacturers a practical way to evaluate and integrate long-range wireless technology across multiple host platforms. The adapters [...]</p>\n<p>The post <a href=\"https://www.embedded.com/morse-micro-introduces-wi-fi-halow-usb-network-adapters/\">Morse Micro Introduces Wi-Fi HaLow USB Network Adapters</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "Neura Robotics and Seco Partner to Scale Physical AI",
@@ -133,6 +147,20 @@
     "summary": "<p>Mistral, the three year-old French AI company, has raised €3 billion in a Series D funding round at a valuation of more than €21 billion, the largest equity fundraising round [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/mistral-has-3bn-series-d-2026-09/\">Mistral has $3bn Series D</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
+    "date": "2026-09-09",
+    "url": "https://blog.adafruit.com/2026/09/09/the-python-on-microcontrollers-newsletter-subscribe-for-free-9-9/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+  },
+  {
+    "title": "Autonomous Mouse Droid with Party Mode #StarWars",
+    "source": "Adafruit",
+    "date": "2026-09-09",
+    "url": "https://blog.adafruit.com/2026/09/09/autonomous-mouse-droid-with-party-mode-starwars/",
+    "summary": "Chaos Theory built this fully autonomous, 3D-printed Star Wars Mouse Droid. The open source project uses an Arduino Uno, an ultrasonic sensor, some strobing LEDs, and a DFPlayer Mini. Like any good mouse-droid, it has two modes: Party and Panic. Great build and video walking through the whole process. Thanks for Sharing! The idea behind [&#8230;]"
+  },
+  {
     "title": "JP’s Product Pick of the Week 9/8/26 @adafruit @johnedgarpark #adafruit #newproductpick",
     "source": "Adafruit",
     "date": "2026-09-09",
@@ -152,13 +180,6 @@
     "date": "2026-09-09",
     "url": "https://blog.adafruit.com/2026/09/09/polymo-doesnt-want-you-to-doomscroll/",
     "summary": "PolyMO is brenpoly&#8217;s offline AI virtual pet that gets sick if you doomscroll for too long. It is a real object: a palm-sized creature with a bright AMOLED face that sits on your desk and blinks at you. It gets hungry, it gets bored, and it grows up. Spend too long in an app it [&#8230;]"
-  },
-  {
-    "title": "Anti-Doomscroll Tamagotchi Only Lives if You Do",
-    "source": "Hackaday",
-    "date": "2026-09-08",
-    "url": "https://hackaday.com/2026/09/08/anti-doomscroll-tamagotchi-only-lives-if-you-do/",
-    "summary": "<div><img alt=\"The virtual pet showing a distressed face while a phone is in use\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/ESP32virtual-pet-phone-feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The odds are, you have a device deliberately designed to be addictive in your pocket or on the table next to you if you aren&#8217;t staring at it right now&#8211; <a class=\"read-more\" href=\"https://hackaday.com/2026/09/08/anti-doomscroll-tamagotchi-only-lives-if-you-do/\">&#8230;read more</a>"
   },
   {
     "title": "Arm CSS for Mobile 2 “AI-Native” platform: Arm C2-Ultra and C2-Pro CPU cores, Mali G2-Ultra NX GPU",
@@ -222,20 +243,6 @@
     "date": "2026-09-08",
     "url": "https://blog.adafruit.com/2026/09/08/rooftop-solar-four-winters-later-an-analysis/",
     "summary": "Martin has published four years of measured data from his rooftop solar install on harizanov.com. The system went up in June 2022 in Sofia: 6.4 kWp of panels, a Fronius GEN24 inverter, a 7.7 kWh BYD battery, an Ohmpilot water heating diverter and a Wattpilot car charger. Total cost was about 14,800 €, with zero [&#8230;]"
-  },
-  {
-    "title": "Factoring the RSA keys of an (old) certificate authority",
-    "source": "Adafruit",
-    "date": "2026-09-08",
-    "url": "https://blog.adafruit.com/2026/09/08/factoring-the-rsa-keys-of-an-old-certificate-authority/",
-    "summary": "Matthew McPherrin went looking for RSA keys small enough to break on a desktop, and found them in the root certificate stores of 1990s browsers. Writing on mcpherrin.ca, he describes pulling old Internet Explorer and Netscape installers from archive.org and extracting every root CA they shipped. The target: Netscape 4.51, released March 1999, trusted two [&#8230;]"
-  },
-  {
-    "title": "Audacity 4.0.0 released",
-    "source": "Adafruit",
-    "date": "2026-09-08",
-    "url": "https://blog.adafruit.com/2026/09/08/audacity-4-0-0-released/",
-    "summary": "The Audacity project has published Audacity 4.0.0 on GitHub. The release rebuilds the application interface on Qt and adds a new clip-editing model. Most Audacity 3 workflows still work, though some controls have moved or changed. The biggest change for longtime users: the separate Select, Envelope, Draw and Multi-tool modes are gone. Those functions are [&#8230;]"
   },
   {
     "title": "Welcome to the Materials Age (We Hope You’ll Enjoy Your Stay)",
@@ -418,12 +425,5 @@
     "date": "2026-09-01",
     "url": "https://www.embedded.com/iar-adds-native-linux-support-to-cross-platform-embedded-ide/",
     "summary": "<p>IAR has expanded the cross-platform capabilities of its certified embedded development environment by adding native Linux support alongside Windows. Developed using the Qt Framework, the new IAR cross-platform IDE is designed to provide a development environment across operating systems for safety- and compliance-critical embedded software projects. The platform also integrates directly with Visual Studio Code [...]</p>\n<p>The post <a href=\"https://www.embedded.com/iar-adds-native-linux-support-to-cross-platform-embedded-ide/\">IAR Adds Native Linux Support to Cross-Platform Embedded IDE</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Achronix Adds JESD204C IP Core for Speedster7t FPGAs",
-    "source": "Embedded.com",
-    "date": "2026-09-01",
-    "url": "https://www.embedded.com/achronix-adds-jesd204c-ip-core-for-speedster7t-fpgas/",
-    "summary": "<p>Achronix Semiconductor Corp. has introduced a high-performance JESD204C IP core for its family of Speedster7t FPGAs. The IP core is designed to connect advanced analog-to-digital converters and digital-to-analog converters to programmable logic. Each core supports data rates of up to 32 Gbits/s per lane and up to eight lanes per link, which translates into an [...]</p>\n<p>The post <a href=\"https://www.embedded.com/achronix-adds-jesd204c-ip-core-for-speedster7t-fpgas/\">Achronix Adds JESD204C IP Core for Speedster7t FPGAs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
