@@ -1,9 +1,108 @@
 [
   {
-    "model": "sam-guided-vlas/train_1_2__no_mask__pi05__seed_1__steps_45k",
+    "model": "2026-Human-Video-Robot-Manipulation-Data/realmirror",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_1__steps_45k",
+    "url": "https://huggingface.co/2026-Human-Video-Robot-Manipulation-Data/realmirror",
+    "date": "2026-09-09",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "LhLuke/robot_models",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/LhLuke/robot_models",
+    "date": "2026-09-09",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
+    "model": "Datawhale/hello-robotics-chapter16",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Datawhale/hello-robotics-chapter16",
+    "date": "2026-09-09",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "Richard-ZZZZZ/robotwin-bihub-joint-wam-v3-step2000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Richard-ZZZZZ/robotwin-bihub-joint-wam-v3-step2000",
+    "date": "2026-09-09",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Richard-ZZZZZ/robotwin-bihub-joint-wam-v3-step9000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Richard-ZZZZZ/robotwin-bihub-joint-wam-v3-step9000",
+    "date": "2026-09-09",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "robotensor/bpp-genesis",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotensor/bpp-genesis",
+    "date": "2026-09-09",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile_random_pose__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_hard_items__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vlabki/poscat-gv2-dual-policy",
+    "downloads": 30,
+    "likes": 0,
+    "url": "https://huggingface.co/vlabki/poscat-gv2-dual-policy",
+    "date": "2026-09-09",
+    "keyword": "policy",
+    "score": 9.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_hard_items__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2__no_mask__pi05__seed_1__steps_60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_1__steps_60k",
+    "date": "2026-09-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_hard_items__bbox__blackout__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__bbox__blackout__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-09-09",
     "keyword": "vla",
     "score": 0.1
@@ -24,6 +123,51 @@
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-09-09",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0__steps_10k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0__steps_10k",
+    "date": "2026-09-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "jungwook2358/gr00t-dexjoco-dual-vla-soup4recondino-tok400k-60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jungwook2358/gr00t-dexjoco-dual-vla-soup4recondino-tok400k-60k",
+    "date": "2026-09-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "jungwook2358/gr00t-gr1-vla-soup4recondino-tok400k-60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jungwook2358/gr00t-gr1-vla-soup4recondino-tok400k-60k",
+    "date": "2026-09-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "jungwook2358/gr00t-dexjoco-dual-vla-trirecondino-tok150k-60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jungwook2358/gr00t-dexjoco-dual-vla-trirecondino-tok150k-60k",
+    "date": "2026-09-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "MakinoKF/pick_place_nut_to_scale_20260908_174123_act-policy-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MakinoKF/pick_place_nut_to_scale_20260908_174123_act-policy-v1",
+    "date": "2026-09-09",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -87,141 +231,6 @@
     "url": "https://huggingface.co/tony-yip/robotics-vision-language-v132",
     "date": "2026-09-08",
     "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "fam1123234141/internvla_robotwin_lora_6w",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/fam1123234141/internvla_robotwin_lora_6w",
-    "date": "2026-09-08",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "milab-robot/alm1-0818-amore.T",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/milab-robot/alm1-0818-amore.T",
-    "date": "2026-09-08",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Datawhale/hello-robotics-chapter16",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Datawhale/hello-robotics-chapter16",
-    "date": "2026-09-08",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "milab-robot/alm1-0731-milab.60.T",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/milab-robot/alm1-0731-milab.60.T",
-    "date": "2026-09-08",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "robotensor/bpp-genesis",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/robotensor/bpp-genesis",
-    "date": "2026-09-08",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Nico-robot/duckjam-cc8",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Nico-robot/duckjam-cc8",
-    "date": "2026-09-08",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile_random_pose__bbox__blackout_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 20,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__blackout_a50__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-08",
-    "keyword": "vla",
-    "score": 6.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 18,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-08",
-    "keyword": "vla",
-    "score": 5.5
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0__steps_5k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0__steps_5k",
-    "date": "2026-09-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__no_mask__pi05__seed_1__steps_60k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_1__steps_60k",
-    "date": "2026-09-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "whosricky/VLAReplica_pi05_v4_chunk32_bs16_SFT_ft_merged",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/whosricky/VLAReplica_pi05_v4_chunk32_bs16_SFT_ft_merged",
-    "date": "2026-09-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0__steps_3k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0__steps_3k",
-    "date": "2026-09-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__flicker_p10__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__flicker_p10__pi05__seed_0",
-    "date": "2026-09-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_hard_items__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_hard_items__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-08",
-    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -337,24 +346,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/svenschreiber/clean-toilet-policy-smolvla",
-    "date": "2026-09-08",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "jayp132/green-fresh-150-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jayp132/green-fresh-150-policy",
-    "date": "2026-09-08",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "stefhannisse/policy_IL_pick_cube_box",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/stefhannisse/policy_IL_pick_cube_box",
     "date": "2026-09-08",
     "keyword": "policy",
     "score": 0.1

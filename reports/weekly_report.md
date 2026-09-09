@@ -1,23 +1,23 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-09 00:45 UTC
+Generated: 2026-09-09 05:25 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-09-04 | WorldSculpt: Generating Compositional Worlds from Grounded Videos | [link](https://arxiv.org/pdf/2609.05416v1) |
-| 2026-09-04 | UniMate: One Unified Model to Animate Diverse Skeletons | [link](https://arxiv.org/pdf/2609.05415v1) |
-| 2026-09-04 | Towards Scaling Quantum Fine-Tuning of Foundational Time Series Models for Classification | [link](https://arxiv.org/pdf/2609.05408v1) |
-| 2026-09-04 | Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models | [link](https://arxiv.org/pdf/2609.05401v1) |
-| 2026-09-04 | A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks | [link](https://arxiv.org/pdf/2609.05400v1) |
+| 2026-09-08 | TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model | [link](https://arxiv.org/pdf/2609.09158v1) |
+| 2026-09-08 | SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators | [link](https://arxiv.org/pdf/2609.09155v1) |
+| 2026-09-08 | Proxy Policy Steering | [link](https://arxiv.org/pdf/2609.09148v1) |
+| 2026-09-08 | A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes | [link](https://arxiv.org/pdf/2609.09137v1) |
+| 2026-09-08 | DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination | [link](https://arxiv.org/pdf/2609.09119v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83448 | 33379.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63608 | 25443.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44511 | 17804.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30468 | 12187.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 83451 | 33380.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63611 | 25444.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44513 | 17805.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30469 | 12187.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | questdb/questdb | 17311 | 6924.5 | [link](https://github.com/questdb/questdb) |
 
 ## Top Models
@@ -41,8 +41,8 @@ Generated: 2026-09-09 00:45 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-09-09 | Upping the Antioch: Kiwi-founded physical AI startup's $54m round - nbr.co.nz | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxOOUpBSy1KamVvVTFkaGVsS291NWk4VnlNQ3dPMFZUZ2FsS2d6aldPZUpiTnREUTNnS0JJeGRET2JPOHR2TXpzdmNHLUpRQ21MeXV6WW8tVm5YTTNfYlRBS3RuOFJXQUg3bnFocENDeG9MTkNza05GSjlUZy1BbXN6VWJwUmk5VnFoY3B2RFdFU0pRNUZQ?oc=5) |
+| 2026-09-09 | IDG Capital leads near-$100m seed round for nascent embodied AI startup PHYMI - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTFBrRGlXUUs1dDNpcUx6TDJBaUF5ZjFya2UzY3Rpdk5wVmpRSF81bXMyZzlGalprb01lTEY3dVNZaGNyRXozdDBXSnFieWkyQzBXMjYzRnhaenBlSDRXd09mVzZBYW9VVVQydnc3cWNOX3dIZw?oc=5) |
+| 2026-09-09 | Intelligent Driving Industry Veteran Liu Nianqiu Launches Startup, Secures Nearly $100 Million in Series A Financing - 36 Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqNTdoRGNaUG1PRjJRT05lR1luQVJuODd1X3h6VHNUNUwzU2ZTbkN0azdkTVBNS2M2X3dVTWM2ZGp2Q1VSaF9kNzJaOE5aVTM0ZU1n?oc=5) |
 | 2026-09-08 | Runway buys France's Kinetix, crosses $200M ARR in physical AI push - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbmRQQTNmTGZuYUc3NXZsREdjTTdNRmU0VWFNSWRIaEczakd0cWNDMTkza3FTbUVGSnBCenBIRVVMWG5kNFRiV0EyYTRjZlN3WjlNMmI1bFA1V3FoN21aV01NOHBYb0Nrcm5TUzAwS0N0ZkhmX2Y1ZGZuVHc0S0stVFh2OG16N2FOSWdPZG1jbkF3TGVsTjA5cm9BRVV5aW5u?oc=5) |
 | 2026-09-08 | Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus - CnEVPost | physical ai startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE5paGtCdFl4cE13UjYyQlF6U1Fyc3BkYlZPQ0c5MUotU3hrRFJLS1h0ZVlKS1ZuNDBsN0dvdzZYcXpkNlpiNFpkMlZTaUs1ZHRfYVZURzF6dk5pU0V1UVg3VzVIMEltRzkyQ1B6Uk1icUl4TGQ4QmNjSg?oc=5) |
-| 2026-09-08 | Chinese robotics startup Simple AI completes pre-A+ round - techinasia.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTklySmp5SjY4M0FLNWV3aEt0U085N2lTOU9LeElpa0xhTmFUM1F1MnZsY2l5QUdqQVZmcDVpaERxeXRhNTFEUU11ejVVaDFDSTJuV0tpREp1NVUwbEEzamZ2cVR5b2ZFZmpDZGxLd1ZyQmJZRUU5bXN2b2RGMUwweGhBYmdaX2xa?oc=5) |
-| 2026-09-08 | China’s Humanoid Robot Boom, Part II: Startups Move From Robot Shows to Real Jobs - TechNode | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmxzSzJXS1pJdEh2eXVSVThIZXR0RFNEYWJwS2NMMlF1SHZsZjVDRjlobWg0WXkzMVhLblZaU21fY1lLS2VRZDRaLUdtX2pkX2VqaUJQZ0tiVzZtLXduaGo1M3ZEdjJlNzZjYURKWnFNWFZPZVRzaC1vclBtcVJZR09mWlA0RGxrMFFmWkZBOExadjNhSFJpRS1VM0pPRWlZenpqdmRFRnZILXBRU250Nw?oc=5) |
-| 2026-09-08 | Samsung SDI, LG and SK On Race to Build Batteries for Humanoid Robots - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0N3M3FUV3ZPaEdveUhPRjBxS1lCX3F5bXRHMVBOTHRGQlFibW8xQ2xlN2tRZUNGQU1lVUo4UkJkV0xIOEZROUJkY2VncWYzTF9zdGVOMzNDWjBfZ3BMZktRNExFSFJFV3NlRVdfVkd4SkdDOEJfZzRvUU9BcWE2QS1TVXdQVXBJOVh6RjlCaExRY1RyYnBtdkRuWG8?oc=5) |
