@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-08 22:03 UTC
+Generated: 2026-09-09 00:45 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,7 +15,7 @@ Generated: 2026-09-08 22:03 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83448 | 33379.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63605 | 25442.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63608 | 25443.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44511 | 17804.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30468 | 12187.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | questdb/questdb | 17311 | 6924.5 | [link](https://github.com/questdb/questdb) |
@@ -41,8 +41,8 @@ Generated: 2026-09-08 22:03 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-09-08 | Runway buys France's Kinetix, crosses $200M ARR in physical AI push - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbmRQQTNmTGZuYUc3NXZsREdjTTdNRmU0VWFNSWRIaEczakd0cWNDMTkza3FTbUVGSnBCenBIRVVMWG5kNFRiV0EyYTRjZlN3WjlNMmI1bFA1V3FoN21aV01NOHBYb0Nrcm5TUzAwS0N0ZkhmX2Y1ZGZuVHc0S0stVFh2OG16N2FOSWdPZG1jbkF3TGVsTjA5cm9BRVV5aW5u?oc=5) |
 | 2026-09-08 | Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus - CnEVPost | physical ai startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE5paGtCdFl4cE13UjYyQlF6U1Fyc3BkYlZPQ0c5MUotU3hrRFJLS1h0ZVlKS1ZuNDBsN0dvdzZYcXpkNlpiNFpkMlZTaUs1ZHRfYVZURzF6dk5pU0V1UVg3VzVIMEltRzkyQ1B6Uk1icUl4TGQ4QmNjSg?oc=5) |
-| 2026-09-08 | CATL leads DeepCtrls Series B extension for physical AI - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFp0a1NGZ3JtV3BJTjNpemR0YlFHNUtYbmU3bXoyMmRPQl82STI2VTlMX2JyWjczSUxZd3RFUVREZ2dqRmVGQVpzSmUtVGdvelBCTGhfbF8wXzhQRTcxaTN0RHVSUHBlRjJxQ1JKOU1ueXJVd1VieG9RM1dlanpHbXpXSXp3Y3Fqb1BuYnVhV0tOVE0?oc=5) |
-| 2026-09-08 | Chinese robotics startup Simple AI completes pre-A+ round - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTklySmp5SjY4M0FLNWV3aEt0U085N2lTOU9LeElpa0xhTmFUM1F1MnZsY2l5QUdqQVZmcDVpaERxeXRhNTFEUU11ejVVaDFDSTJuV0tpREp1NVUwbEEzamZ2cVR5b2ZFZmpDZGxLd1ZyQmJZRUU5bXN2b2RGMUwweGhBYmdaX2xa?oc=5) |
+| 2026-09-08 | Chinese robotics startup Simple AI completes pre-A+ round - techinasia.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTklySmp5SjY4M0FLNWV3aEt0U085N2lTOU9LeElpa0xhTmFUM1F1MnZsY2l5QUdqQVZmcDVpaERxeXRhNTFEUU11ejVVaDFDSTJuV0tpREp1NVUwbEEzamZ2cVR5b2ZFZmpDZGxLd1ZyQmJZRUU5bXN2b2RGMUwweGhBYmdaX2xa?oc=5) |
 | 2026-09-08 | China’s Humanoid Robot Boom, Part II: Startups Move From Robot Shows to Real Jobs - TechNode | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmxzSzJXS1pJdEh2eXVSVThIZXR0RFNEYWJwS2NMMlF1SHZsZjVDRjlobWg0WXkzMVhLblZaU21fY1lLS2VRZDRaLUdtX2pkX2VqaUJQZ0tiVzZtLXduaGo1M3ZEdjJlNzZjYURKWnFNWFZPZVRzaC1vclBtcVJZR09mWlA0RGxrMFFmWkZBOExadjNhSFJpRS1VM0pPRWlZenpqdmRFRnZILXBRU250Nw?oc=5) |
 | 2026-09-08 | Samsung SDI, LG and SK On Race to Build Batteries for Humanoid Robots - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0N3M3FUV3ZPaEdveUhPRjBxS1lCX3F5bXRHMVBOTHRGQlFibW8xQ2xlN2tRZUNGQU1lVUo4UkJkV0xIOEZROUJkY2VncWYzTF9zdGVOMzNDWjBfZ3BMZktRNExFSFJFV3NlRVdfVkd4SkdDOEJfZzRvUU9BcWE2QS1TVXdQVXBJOVh6RjlCaExRY1RyYnBtdkRuWG8?oc=5) |

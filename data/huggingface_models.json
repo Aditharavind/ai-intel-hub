@@ -1,5 +1,86 @@
 [
   {
+    "model": "sam-guided-vlas/train_1_2__no_mask__pi05__seed_1__steps_45k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_1__steps_45k",
+    "date": "2026-09-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_hard_items__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_hard_items__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "SourORZ/cosmos-policy-piper-sponge-overfit",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SourORZ/cosmos-policy-piper-sponge-overfit",
+    "date": "2026-09-09",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "easylearning/recap-robot-models",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/easylearning/recap-robot-models",
+    "date": "2026-09-08",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/clean_table_100k_base",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/clean_table_100k_base",
+    "date": "2026-09-08",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/clean_table_80k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/clean_table_80k",
+    "date": "2026-09-08",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/clean_table_60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/clean_table_60k",
+    "date": "2026-09-08",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Siqi2022/robotwin-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Siqi2022/robotwin-checkpoints",
+    "date": "2026-09-08",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "tony-yip/robotics-vision-language-v132",
     "downloads": 0,
     "likes": 0,
@@ -13,15 +94,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/fam1123234141/internvla_robotwin_lora_6w",
-    "date": "2026-09-08",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "easylearning/recap-robot-models",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/easylearning/recap-robot-models",
     "date": "2026-09-08",
     "keyword": "robot",
     "score": 0.1
@@ -72,46 +144,37 @@
     "score": 0.1
   },
   {
-    "model": "djbob/balance_robot",
+    "model": "sam-guided-vlas/train_1_2_pile_random_pose__bbox__blackout_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 20,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__blackout_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-08",
+    "keyword": "vla",
+    "score": 6.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 18,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-08",
+    "keyword": "vla",
+    "score": 5.5
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0__steps_5k",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/djbob/balance_robot",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0__steps_5k",
     "date": "2026-09-08",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "snu-aidas/Dynin-Robotics",
+    "model": "sam-guided-vlas/train_1_2__no_mask__pi05__seed_1__steps_60k",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/snu-aidas/Dynin-Robotics",
-    "date": "2026-09-08",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "AaronHuangWei/long-wam-robotwin2.0-m4k2-32s-robot-s-co-denoise",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/AaronHuangWei/long-wam-robotwin2.0-m4k2-32s-robot-s-co-denoise",
-    "date": "2026-09-08",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "openEuler/IB_Robot_ACT_dual_arm_banana_pick",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/openEuler/IB_Robot_ACT_dual_arm_banana_pick",
-    "date": "2026-09-08",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__no_mask__pi05__seed_1__steps_45k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_1__steps_45k",
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_1__steps_60k",
     "date": "2026-09-08",
     "keyword": "vla",
     "score": 0.1
@@ -144,15 +207,6 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_hard_items__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "sam-guided-vlas/train_1_2_hard_items__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -162,55 +216,10 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_hard_items__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__point__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "sam-guided-vlas/train_1_2_hard_items__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0__steps_1k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__no_mask__pi05__seed_0__steps_1k",
-    "date": "2026-09-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile_random_pose__bbox__blackout_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 20,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile_random_pose__bbox__blackout_a50__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-08",
-    "keyword": "vla",
-    "score": 6.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2__no_mask__pi05__seed_0__steps_10k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2__no_mask__pi05__seed_0__steps_10k",
-    "date": "2026-09-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_hard_items__bbox__blackout__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__bbox__blackout__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-09-08",
     "keyword": "vla",
     "score": 0.1
@@ -315,15 +324,6 @@
     "score": 0.1
   },
   {
-    "model": "SourORZ/cosmos-policy-piper-sponge-overfit",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SourORZ/cosmos-policy-piper-sponge-overfit",
-    "date": "2026-09-08",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "MakinoKF/rebot_pickplace_bolt_dataset_20260908_162503_act-policy-v1",
     "downloads": 0,
     "likes": 0,
@@ -357,6 +357,15 @@
     "url": "https://huggingface.co/stefhannisse/policy_IL_pick_cube_box",
     "date": "2026-09-08",
     "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "snu-aidas/Dynin-Robotics",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/snu-aidas/Dynin-Robotics",
+    "date": "2026-09-08",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
