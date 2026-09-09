@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-09 21:17 UTC
+Generated: 2026-09-09 23:34 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,10 +14,10 @@ Generated: 2026-09-09 21:17 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83455 | 33382.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83457 | 33382.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63617 | 25446.9 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44519 | 17807.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30476 | 12190.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30477 | 12190.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | questdb/questdb | 17313 | 6925.3 | [link](https://github.com/questdb/questdb) |
 
 ## Top Models
@@ -44,5 +44,5 @@ Generated: 2026-09-09 21:17 UTC
 | 2026-09-09 | Runway buys France's Kinetix, crosses $200M ARR in physical AI push - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbmRQQTNmTGZuYUc3NXZsREdjTTdNRmU0VWFNSWRIaEczakd0cWNDMTkza3FTbUVGSnBCenBIRVVMWG5kNFRiV0EyYTRjZlN3WjlNMmI1bFA1V3FoN21aV01NOHBYb0Nrcm5TUzAwS0N0ZkhmX2Y1ZGZuVHc0S0stVFh2OG16N2FOSWdPZG1jbkF3TGVsTjA5cm9BRVV5aW5u?oc=5) |
 | 2026-09-09 | Physical AI Simulation Startup Antioch Raises $32M Series A Led by Greylock - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIT3J3cHRxTUpJVXNvb3B0NUJEWjhlZTRfS2Q4LUdBTXY4TDR3NmZQVHlaVWN5Qkp3OU0xRWhzaDhwMUpaWmZyVG14Wlpyb3N0VkVF?oc=5) |
 | 2026-09-09 | IDG Capital leads near-$100m seed round for nascent embodied AI startup PHYMI - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE1mNHNMMmdnSkd2WGp2NTJmbVZfbXRpcmRNSDZzbFlNbTZEbDVGN3B1dE1IZFdQZFJuRFI1QXhCSHB5ZDc4aEFMandpYm5NV1MzZ3pMWFVpYjdjX0JQTmhPNFo0UmItUnBRaXpNQktwV0U?oc=5) |
-| 2026-09-09 | Intelligent Driving Industry Veteran Liu Nianqiu Launches Startup, Secures Nearly $100 Million in Series A Financing - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqNTdoRGNaUG1PRjJRT05lR1luQVJuODd1X3h6VHNUNUwzU2ZTbkN0azdkTVBNS2M2X3dVTWM2ZGp2Q1VSaF9kNzJaOE5aVTM0ZU1n?oc=5) |
-| 2026-09-08 | Travis Kalanick jumps back into the robotaxi race with Atoms, his new physical AI startup - capmad.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNemJtdTVmUDVNTERWcGp4NUxuMGtLbHlQdnptek94NU5lWktiTkFrUlVad0NLOGhWeUsxT0RBc0g0b1dlOTI0eGduUXNfcXhPY0Zad0JxY2tiNzJYNlFXVFFiR0tqYnFhakE0LTMzbFczMDZITVotY0Q2YjROV2NKWElRdzR2Z2U2bjcwUzY0OEVMZ2ZtTE1IMzR4d1ZLX0JrM2ZKdjIyY1BLbDBQdXZhS0t6Z0tLQjg?oc=5) |
+| 2026-09-09 | Intelligent Driving Industry Veteran Liu Nianqiu Launches Startup, Secures Nearly $100 Million in Series A Financing - 36 Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqNTdoRGNaUG1PRjJRT05lR1luQVJuODd1X3h6VHNUNUwzU2ZTbkN0azdkTVBNS2M2X3dVTWM2ZGp2Q1VSaF9kNzJaOE5aVTM0ZU1n?oc=5) |
+| 2026-09-08 | Travis Kalanick jumps back into the robotaxi race with Atoms, his new physical AI startup - Capmad | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNemJtdTVmUDVNTERWcGp4NUxuMGtLbHlQdnptek94NU5lWktiTkFrUlVad0NLOGhWeUsxT0RBc0g0b1dlOTI0eGduUXNfcXhPY0Zad0JxY2tiNzJYNlFXVFFiR0tqYnFhakE0LTMzbFczMDZITVotY0Q2YjROV2NKWElRdzR2Z2U2bjcwUzY0OEVMZ2ZtTE1IMzR4d1ZLX0JrM2ZKdjIyY1BLbDBQdXZhS0t6Z0tLQjg?oc=5) |

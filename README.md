@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-09 21:17 UTC
+Last Updated: 2026-09-09 23:34 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-09 | GPT-6 Astra: The next generation in intelligence for work | OpenAI | [link](https://openai.com/index/gpt-6-astra-next-generation-work) |
 | 2026-09-09 | Paul Christiano joins OpenAI Foundation Board | OpenAI | [link](https://openai.com/index/paul-christiano-joins-openai-foundation-board) |
 | 2026-09-09 | IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license | Hugging Face | [link](https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series) |
 | 2026-09-08 | How GPT-5.6 Sol helps run quantum computing experiments | OpenAI | [link](https://openai.com/index/codex-quantum-computing-experiments) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-08 | Funding grants for new research into AI and teen development | OpenAI | [link](https://openai.com/index/teen-development-research-grants) |
 | 2026-09-08 | OpenAI expands initiatives to support journalism from classrooms to newsrooms | OpenAI | [link](https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms) |
 | 2026-09-08 | 1Password increases engineering productivity 21% with Codex | OpenAI | [link](https://openai.com/index/1password) |
-| 2026-09-08 | Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic | Hugging Face | [link](https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-09 | Local LLMs Can Work Better Than Claude, At Least For Some | Hackaday | [link](https://hackaday.com/2026/09/09/local-llms-can-work-better-than-claude-at-least-for-some/) |
 | 2026-09-09 | Reverse Engineering The Philips PM5139 | Hackaday | [link](https://hackaday.com/2026/09/09/reverse-engineering-the-philips-pm5139/) |
 | 2026-09-09 | FLOSS Weekly Episode 881: Eating Its Own Tail | Hackaday | [link](https://hackaday.com/2026/09/09/floss-weekly-episode-881-eating-its-own-tail/) |
 | 2026-09-09 | It’s GNU Radio Companion, But in the Browser | Hackaday | [link](https://hackaday.com/2026/09/09/its-gnu-radio-companion-but-in-the-browser/) |
 | 2026-09-09 | Hunting the Wild Vibrotruck | Hackaday | [link](https://hackaday.com/2026/09/09/hunting-the-wild-vibrotruck/) |
 | 2026-09-09 | Decoding the NEC V20 Microcode ROM | Hackaday | [link](https://hackaday.com/2026/09/09/decoding-the-nec-v20-microcode-rom/) |
 | 2026-09-09 | Sick of Wayland vs. Xorg? How about GEM? | Hackaday | [link](https://hackaday.com/2026/09/09/sick-of-wayland-vs-xorg-how-about-gem/) |
-| 2026-09-09 | One Bit Sound with the ZX Spectrum | Hackaday | [link](https://hackaday.com/2026/09/08/one-bit-sound-with-the-zx-spectrum/) |
 | 2026-09-09 | ESP32-C5 Pico board follows Raspberry Pi Pico form factor, ships with on-board or external antenna | CNX Software | [link](https://www.cnx-software.com/2026/09/09/esp32-c5-pico-board-follows-raspberry-pi-pico-form-factor-ships-with-on-board-or-external-antenna/) |
 | 2026-09-09 | FREE-WILi 2 portable hacking multitool features two RP2350 MCUs, ESP32-C5, ICE40 FPGA, and Raspberry Pi CM0 | CNX Software | [link](https://www.cnx-software.com/2026/09/09/free-wili-2-portable-hacking-multitool-features-two-rp2350-mcus-esp32-c5-ice40-fpga-and-raspberry-pi-cm0/) |
 | 2026-09-09 | Morse Micro Introduces Wi-Fi HaLow USB Network Adapters | Embedded.com | [link](https://www.embedded.com/morse-micro-introduces-wi-fi-halow-usb-network-adapters/) |
@@ -100,7 +100,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | questdb/questdb | 17313 | Java | 6925.3 | [link](https://github.com/questdb/questdb) |
 | zauberzeug/nicegui | 16188 | Python | 6475.3 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15833 | C++ | 6333.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 15018 | C++ | 6007.3 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 15021 | Python | 6008.5 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -122,8 +122,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-09 | Runway buys France's Kinetix, crosses $200M ARR in physical AI push - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbmRQQTNmTGZuYUc3NXZsREdjTTdNRmU0VWFNSWRIaEczakd0cWNDMTkza3FTbUVGSnBCenBIRVVMWG5kNFRiV0EyYTRjZlN3WjlNMmI1bFA1V3FoN21aV01NOHBYb0Nrcm5TUzAwS0N0ZkhmX2Y1ZGZuVHc0S0stVFh2OG16N2FOSWdPZG1jbkF3TGVsTjA5cm9BRVV5aW5u?oc=5) |
 | 2026-09-09 | Physical AI Simulation Startup Antioch Raises $32M Series A Led by Greylock - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIT3J3cHRxTUpJVXNvb3B0NUJEWjhlZTRfS2Q4LUdBTXY4TDR3NmZQVHlaVWN5Qkp3OU0xRWhzaDhwMUpaWmZyVG14Wlpyb3N0VkVF?oc=5) |
 | 2026-09-09 | IDG Capital leads near-$100m seed round for nascent embodied AI startup PHYMI - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE1mNHNMMmdnSkd2WGp2NTJmbVZfbXRpcmRNSDZzbFlNbTZEbDVGN3B1dE1IZFdQZFJuRFI1QXhCSHB5ZDc4aEFMandpYm5NV1MzZ3pMWFVpYjdjX0JQTmhPNFo0UmItUnBRaXpNQktwV0U?oc=5) |
-| 2026-09-09 | Intelligent Driving Industry Veteran Liu Nianqiu Launches Startup, Secures Nearly $100 Million in Series A Financing - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqNTdoRGNaUG1PRjJRT05lR1luQVJuODd1X3h6VHNUNUwzU2ZTbkN0azdkTVBNS2M2X3dVTWM2ZGp2Q1VSaF9kNzJaOE5aVTM0ZU1n?oc=5) |
-| 2026-09-08 | Travis Kalanick jumps back into the robotaxi race with Atoms, his new physical AI startup - capmad.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNemJtdTVmUDVNTERWcGp4NUxuMGtLbHlQdnptek94NU5lWktiTkFrUlVad0NLOGhWeUsxT0RBc0g0b1dlOTI0eGduUXNfcXhPY0Zad0JxY2tiNzJYNlFXVFFiR0tqYnFhakE0LTMzbFczMDZITVotY0Q2YjROV2NKWElRdzR2Z2U2bjcwUzY0OEVMZ2ZtTE1IMzR4d1ZLX0JrM2ZKdjIyY1BLbDBQdXZhS0t6Z0tLQjg?oc=5) |
+| 2026-09-09 | Intelligent Driving Industry Veteran Liu Nianqiu Launches Startup, Secures Nearly $100 Million in Series A Financing - 36 Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqNTdoRGNaUG1PRjJRT05lR1luQVJuODd1X3h6VHNUNUwzU2ZTbkN0azdkTVBNS2M2X3dVTWM2ZGp2Q1VSaF9kNzJaOE5aVTM0ZU1n?oc=5) |
+| 2026-09-08 | Travis Kalanick jumps back into the robotaxi race with Atoms, his new physical AI startup - Capmad | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNemJtdTVmUDVNTERWcGp4NUxuMGtLbHlQdnptek94NU5lWktiTkFrUlVad0NLOGhWeUsxT0RBc0g0b1dlOTI0eGduUXNfcXhPY0Zad0JxY2tiNzJYNlFXVFFiR0tqYnFhakE0LTMzbFczMDZITVotY0Q2YjROV2NKWElRdzR2Z2U2bjcwUzY0OEVMZ2ZtTE1IMzR4d1ZLX0JrM2ZKdjIyY1BLbDBQdXZhS0t6Z0tLQjg?oc=5) |
 | 2026-09-08 | Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus - CnEVPost | physical ai startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE5paGtCdFl4cE13UjYyQlF6U1Fyc3BkYlZPQ0c5MUotU3hrRFJLS1h0ZVlKS1ZuNDBsN0dvdzZYcXpkNlpiNFpkMlZTaUs1ZHRfYVZURzF6dk5pU0V1UVg3VzVIMEltRzkyQ1B6Uk1icUl4TGQ4QmNjSg?oc=5) |
 | 2026-09-08 | Chinese robotics startup Simple AI completes pre-A+ round - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTklySmp5SjY4M0FLNWV3aEt0U085N2lTOU9LeElpa0xhTmFUM1F1MnZsY2l5QUdqQVZmcDVpaERxeXRhNTFEUU11ejVVaDFDSTJuV0tpREp1NVUwbEEzamZ2cVR5b2ZFZmpDZGxLd1ZyQmJZRUU5bXN2b2RGMUwweGhBYmdaX2xa?oc=5) |
 | 2026-09-08 | China’s Humanoid Robot Boom, Part II: Startups Move From Robot Shows to Real Jobs - TechNode | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmxzSzJXS1pJdEh2eXVSVThIZXR0RFNEYWJwS2NMMlF1SHZsZjVDRjlobWg0WXkzMVhLblZaU21fY1lLS2VRZDRaLUdtX2pkX2VqaUJQZ0tiVzZtLXduaGo1M3ZEdjJlNzZjYURKWnFNWFZPZVRzaC1vclBtcVJZR09mWlA0RGxrMFFmWkZBOExadjNhSFJpRS1VM0pPRWlZenpqdmRFRnZILXBRU250Nw?oc=5) |
