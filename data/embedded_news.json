@@ -1,5 +1,12 @@
 [
   {
+    "title": "Decoding the NEC V20 Microcode ROM",
+    "source": "Hackaday",
+    "date": "2026-09-09",
+    "url": "https://hackaday.com/2026/09/09/decoding-the-nec-v20-microcode-rom/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"454\" src=\"https://hackaday.com/wp-content/uploads/2025/09/v20_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The NEC V20 is an Intel 8088-compatible processor that features the same use of microcode, though with its own characteristics. This makes it important to use this same microcode if <a class=\"read-more\" href=\"https://hackaday.com/2026/09/09/decoding-the-nec-v20-microcode-rom/\">&#8230;read more</a>"
+  },
+  {
     "title": "Sick of Wayland vs. Xorg? How about GEM?",
     "source": "Hackaday",
     "date": "2026-09-09",
@@ -35,11 +42,46 @@
     "summary": "<div><img alt=\"FREE WILi 2 portable hacking multitool\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/FREE-WILi-2-portable-hacking-multitool-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The FREE-WILi 2 (Founder Edition) is an open-hardware, portable hacking multitool and lab designed for hardware hackers, pentesters, and embedded system developers. Designed as an “open electronics multitool,” it combines a range of chips and modules into a handheld device, including two Raspberry Pi RP2350 MCUs, an ESP32-C5 for wireless connectivity, a Lattice ICE40UP5K FPGA, and a Raspberry Pi CM0 for running a full Linux OS. The device also features a 3.5-inch capacitive touchscreen, a 14-button physical interface, and modular “Orca” headers for hardware expansion. Its wireless features include 2.4/5GHz Wi-Fi, Bluetooth, LoRa, sub-GHz RF, NFC, 125kHz RFID, and IR. These features make it very suitable for wireless testing, embedded hardware debugging, real-time control, electronics development, and retro gaming, with support for Adafruit Fruit Jam, PICO-8, and Doom. FREE-WILi 2 specifications: Compute Main MCUs – 2x Raspberry Pi RP2350B (One for main controls, one dedicated to display) SoM – Raspberry [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/09/free-wili-2-portable-hacking-multitool-features-two-rp2350-mcus-esp32-c5-ice40-fpga-and-raspberry-pi-cm0/\">FREE-WILi 2 portable hacking multitool features two RP2350 MCUs, ESP32-C5, ICE40 FPGA, and Raspberry Pi CM0</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Neura Robotics and Seco Partner to Scale Physical AI",
+    "source": "Embedded.com",
+    "date": "2026-09-09",
+    "url": "https://www.embedded.com/neura-robotics-and-seco-partner-to-scale-physical-ai/",
+    "summary": "<p>Neura Robotics and Seco S.p.A. have announced a strategic partnership to industrialize and scale physical AI in Europe. The collaboration combines Neura's cognitive robotics architecture with Seco's embedded computing and manufacturing expertise, while leveraging Qualcomm Technologies' advanced edge-computing platforms. Initial activities will focus on electronic compute modules for Neura's cognitive robots, including the humanoid 4NE1, [...]</p>\n<p>The post <a href=\"https://www.embedded.com/neura-robotics-and-seco-partner-to-scale-physical-ai/\">Neura Robotics and Seco Partner to Scale Physical AI</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Who Writes The Web?",
+    "source": "Electronics Weekly",
+    "date": "2026-09-09",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/ai-taking-over-the-web-2026-09/",
+    "summary": "<p>One interesting side effect of the rising adoption of AI tools is a growing sense of suspicion that any type of digital content we consume may have been created by [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/ai-taking-over-the-web-2026-09/\">Who Writes The Web?</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "LattePanda creates for micro module for on-device AI",
+    "source": "Electronics Weekly",
+    "date": "2026-09-09",
+    "url": "https://www.electronicsweekly.com/market-sectors/embedded-systems/lattepanda-creates-for-micro-module-for-on-device-ai-2026-09/",
+    "summary": "<p>A micro x86 compute module has been purpose-built by LattePanda for projects running on-device AI, such as robotics, portable instruments, vision AI and industrial automation. The LattePanda Mu Ultra is [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/market-sectors/embedded-systems/lattepanda-creates-for-micro-module-for-on-device-ai-2026-09/\">LattePanda creates for micro module for on-device AI</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Andøya, Isar Aerospace achieve first European orbital launch",
+    "source": "Electronics Weekly",
+    "date": "2026-09-09",
+    "url": "https://www.electronicsweekly.com/news/andoya-isar-aerospace-achieve-first-european-orbital-launch-2026-09/",
+    "summary": "<p>Norway’s Andøya Spaceport and Germany&#8217;s Isar Aerospace&#8217;s Spectrum rocket have the distinction of achieving the first launch to orbit from continental Europe. “Today, Isar Aerospace opened space from Continental Europe,&#8221; [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/andoya-isar-aerospace-achieve-first-european-orbital-launch-2026-09/\">Andøya, Isar Aerospace achieve first European orbital launch</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "1.2V-output LVCMOS clock buffers tackle clock distribution challenges",
     "source": "Electronics Weekly",
     "date": "2026-09-09",
     "url": "https://www.electronicsweekly.com/news/products/1-2v-output-lvcmos-clock-buffers-tackle-clock-distribution-challenges-2026-09/",
     "summary": "<p>Microchip Technology is introducing its SY757xx family of 1.2V-output LVCMOS clock buffers. According to Microchip, the new devices simplify system design by eliminating the need for traditional discrete-component implementations while [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/1-2v-output-lvcmos-clock-buffers-tackle-clock-distribution-challenges-2026-09/\">1.2V-output LVCMOS clock buffers tackle clock distribution challenges</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
+    "source": "Electronics Weekly",
+    "date": "2026-09-09",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-09/",
+    "summary": "<p>Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-09/\">Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "PLD Space extends Series C to €288m for reusable Miura 5 launcher",
@@ -77,18 +119,11 @@
     "summary": "<p>Five years ago, the US Congress provided guidance to the Pentagon to create a plan to remove Chinese, Russian, Iranian, and North Korean content from critical defense supply chains: certainly [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/pcbaa-urges-pentagon-to-act-on-pcbs-2026-09/\">PCBAA urges Pentagon to act on PCBs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Pulsiv appoints new CEO",
-    "source": "Electronics Weekly",
+    "title": "PolyMO Doesn’t Want You to Doomscroll",
+    "source": "Adafruit",
     "date": "2026-09-09",
-    "url": "https://www.electronicsweekly.com/news/business/pulse-appoints-new-ceo-2026-09/",
-    "summary": "<p>Pulsiv, the UK power electronics specialist, today announced the appointment of Tim Joyce as CEO and a member of the Board of Directors. Tim succeeds outgoing CEO Darrel Kingham, who [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/pulse-appoints-new-ceo-2026-09/\">Pulsiv appoints new CEO</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Top Ten AI Startups",
-    "source": "Electronics Weekly",
-    "date": "2026-09-09",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-ai-startups-2026-09/",
-    "summary": "<p>Thanks to BestBrokers for this &#8211; the most valuable  AI Startups as of September 2026: Anthropic (United States) &#8211; $965 billion valuation OpenAI (United States) &#8211; $852 billion valuation Databricks [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-ai-startups-2026-09/\">Top Ten AI Startups</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/09/polymo-doesnt-want-you-to-doomscroll/",
+    "summary": "PolyMO is brenpoly&#8217;s offline AI virtual pet that gets sick if you doomscroll for too long. It is a real object: a palm-sized creature with a bright AMOLED face that sits on your desk and blinks at you. It gets hungry, it gets bored, and it grows up. Spend too long in an app it [&#8230;]"
   },
   {
     "title": "Anti-Doomscroll Tamagotchi Only Lives if You Do",
@@ -112,13 +147,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"473\" src=\"https://hackaday.com/wp-content/uploads/2026/09/lego_2868b_train_controller_nonsense_wars_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Before LEGO train sets moved to battery-powered locomotives with plastic rails, all of them worked pretty much like any other train set of the era. This meant metal rails that <a class=\"read-more\" href=\"https://hackaday.com/2026/09/08/fixing-a-1990s-lego-electric-train-speed-regulator/\">&#8230;read more</a>"
   },
   {
-    "title": "Hackaday Europe 2026: Outdoors with Robots",
-    "source": "Hackaday",
-    "date": "2026-09-08",
-    "url": "https://hackaday.com/2026/09/08/hackaday-europe-2026-outdoors-with-robots/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"457\" src=\"https://hackaday.com/wp-content/uploads/2026/09/hackaday-europe-2026-erin-kennedy-outdoors-with-robots-mp4-shot0005_featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Erin Kennedy has been building robots for over a decade now, with a focus on smaller bots that interact with, or maybe even clean up, the outdoor environment. Still other <a class=\"read-more\" href=\"https://hackaday.com/2026/09/08/hackaday-europe-2026-outdoors-with-robots/\">&#8230;read more</a>"
-  },
-  {
     "title": "Arm CSS for Mobile 2 “AI-Native” platform: Arm C2-Ultra and C2-Pro CPU cores, Mali G2-Ultra NX GPU",
     "source": "CNX Software",
     "date": "2026-09-08",
@@ -131,20 +159,6 @@
     "date": "2026-09-08",
     "url": "https://www.embedded.com/mission-critical-systems-mcus-vs-fpgas-vs-socs/",
     "summary": "<p>Applications in aerospace and defense as well as heavy industry and energy place long-term reliability requirements that go far beyond the specifications of commercial electronics. The presence of ionizing radiation and extreme temperatures profoundly influences the choice between microcontrollers (MCUs), field-programmable gate arrays (FPGAs), and system-on-chips (SoCs). When the environment becomes the main design constraint [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mission-critical-systems-mcus-vs-fpgas-vs-socs/\">Mission-Critical Systems: MCUs vs. FPGAs vs. SoCs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "AEye’s Apollo lidar wins Pegasus lunar vehicle contract",
-    "source": "Electronics Weekly",
-    "date": "2026-09-08",
-    "url": "https://www.electronicsweekly.com/news/business/aeyes-apollo-lidar-wins-pegasus-lunar-terrain-vehicle-contract-2026-09/",
-    "summary": "<p>AEye&#8217;s Apollo long-range lidar (Light Detection and Ranging) has been has been selected by Lunar Outpost for integration into its Pegasus LTV (Lunar Terrain Vehicle). This is the vehicle that [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/aeyes-apollo-lidar-wins-pegasus-lunar-terrain-vehicle-contract-2026-09/\">AEye&#8217;s Apollo lidar wins Pegasus lunar vehicle contract</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "OKW offers customised rotary potentiometer and encoder knobs",
-    "source": "Electronics Weekly",
-    "date": "2026-09-08",
-    "url": "https://www.electronicsweekly.com/news/products/emech-enclosures/okw-offers-customised-rotary-potentiometer-and-encoder-knobs-2026-09/",
-    "summary": "<p>OKW is announcing customised and ‘Production Line Ready’ control knobs for rotary potentiometers and encoders, The Fareham-based enclosure specialist says the CONTROL-KNOBS can now be specified custom machined and printed [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/emech-enclosures/okw-offers-customised-rotary-potentiometer-and-encoder-knobs-2026-09/\">OKW offers customised rotary potentiometer and encoder knobs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Celebrate 100 Years of Winnie-the-Pooh with the NYPL",
@@ -222,13 +236,6 @@
     "date": "2026-09-08",
     "url": "https://blog.adafruit.com/2026/09/08/overwatch-one-home-automation-dashboard-to-rule-them-all/",
     "summary": "Brad Feld, writing on his blog, got tired of running his houses through 17 phone apps and built his own dashboard instead. The trigger was small: J. Geiger shades on a Crestron processor that neither the retired Crestron app nor the Savant app could reliably control from a phone. Vendors spent about eight hours on [&#8230;]"
-  },
-  {
-    "title": "Stuxnet reverse engineered code posted to GitHub",
-    "source": "Adafruit",
-    "date": "2026-09-08",
-    "url": "https://blog.adafruit.com/2026/09/08/stuxnet-reverse-engineered-code-posted-to-github/",
-    "summary": "GitHub user Sadpainy has posted a repository recreating the code used in Stuxnet: This repository contains a strictly educational and research-oriented reconstruction of the infamous Stuxnet worm. It is the product of countless hours of reverse engineering work conducted by the global security research community on the original binary samples discovered in 2010. It preserves [&#8230;]"
   },
   {
     "title": "Welcome to the Materials Age (We Hope You’ll Enjoy Your Stay)",
@@ -418,12 +425,5 @@
     "date": "2026-09-01",
     "url": "https://www.embedded.com/achronix-adds-jesd204c-ip-core-for-speedster7t-fpgas/",
     "summary": "<p>Achronix Semiconductor Corp. has introduced a high-performance JESD204C IP core for its family of Speedster7t FPGAs. The IP core is designed to connect advanced analog-to-digital converters and digital-to-analog converters to programmable logic. Each core supports data rates of up to 32 Gbits/s per lane and up to eight lanes per link, which translates into an [...]</p>\n<p>The post <a href=\"https://www.embedded.com/achronix-adds-jesd204c-ip-core-for-speedster7t-fpgas/\">Achronix Adds JESD204C IP Core for Speedster7t FPGAs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "SensiBel Launches 84-dBA SNR Optical MEMS Microphone",
-    "source": "Embedded.com",
-    "date": "2026-08-31",
-    "url": "https://www.embedded.com/sensibel-launches-84-dba-snr-optical-mems-microphone/",
-    "summary": "<p>SensiBel has introduced the SBM140B, an optical MEMS microphone designed to provide high-fidelity audio capture across a wide acoustic range. The company claims it is the first MEMS microphone to combine an 84-dBA signal-to-noise ratio (SNR) with a 146-dB sound pressure level (SPL) acoustic overload point (AOP), resulting in a specified dynamic range of 136 [...]</p>\n<p>The post <a href=\"https://www.embedded.com/sensibel-launches-84-dba-snr-optical-mems-microphone/\">SensiBel Launches 84-dBA SNR Optical MEMS Microphone</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
