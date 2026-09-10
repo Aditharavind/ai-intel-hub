@@ -1,20 +1,20 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-09 23:34 UTC
+Generated: 2026-09-10 01:34 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-09-08 | TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model | [link](https://arxiv.org/pdf/2609.09158v1) |
-| 2026-09-08 | SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators | [link](https://arxiv.org/pdf/2609.09155v1) |
-| 2026-09-08 | Proxy Policy Steering | [link](https://arxiv.org/pdf/2609.09148v1) |
-| 2026-09-08 | A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes | [link](https://arxiv.org/pdf/2609.09137v1) |
-| 2026-09-08 | DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination | [link](https://arxiv.org/pdf/2609.09119v1) |
+| 2026-09-09 | A Later Test Set Is Not a New Domain: Pretraining Familiarity Survives a Contamination-Free Hold-Out | [link](https://arxiv.org/pdf/2609.10357v1) |
+| 2026-09-09 | A Confidence-Aware Multimodal Fusion Framework for Industrial Human-Robot Collaboration | [link](https://arxiv.org/pdf/2609.10339v1) |
+| 2026-09-09 | Odometer-Agnostic Drift Correction Using OpenStreetMap Lane Geometry | [link](https://arxiv.org/pdf/2609.10336v1) |
+| 2026-09-09 | Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge | [link](https://arxiv.org/pdf/2609.10322v1) |
+| 2026-09-09 | Deformable Object Manipulation under Partial Observability via Real-Time Full-Shape Estimation | [link](https://arxiv.org/pdf/2609.10308v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83457 | 33382.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83458 | 33383.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63617 | 25446.9 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44519 | 17807.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30477 | 12190.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |

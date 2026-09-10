@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-09 23:34 UTC
+Last Updated: 2026-09-10 01:34 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-09 | The AI policy window is open. We need to act. | OpenAI | [link](https://openai.com/index/ai-policy-window) |
 | 2026-09-09 | GPT-6 Astra: The next generation in intelligence for work | OpenAI | [link](https://openai.com/index/gpt-6-astra-next-generation-work) |
 | 2026-09-09 | Paul Christiano joins OpenAI Foundation Board | OpenAI | [link](https://openai.com/index/paul-christiano-joins-openai-foundation-board) |
 | 2026-09-09 | IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license | Hugging Face | [link](https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-08 | On the Navier–Stokes Millennium Prize Problem | OpenAI | [link](https://openai.com/index/navier-stokes-solution) |
 | 2026-09-08 | Funding grants for new research into AI and teen development | OpenAI | [link](https://openai.com/index/teen-development-research-grants) |
 | 2026-09-08 | OpenAI expands initiatives to support journalism from classrooms to newsrooms | OpenAI | [link](https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms) |
-| 2026-09-08 | 1Password increases engineering productivity 21% with Codex | OpenAI | [link](https://openai.com/index/1password) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,6 +49,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-10 | Arduino UNO Media Carrier adds MIPI CSI/DSI and audio connectors to UNO Q and VENTUNO Q boards | CNX Software | [link](https://www.cnx-software.com/2026/09/10/arduino-uno-media-carrier-adds-mipi-csi-dsi-and-audio-connectors-to-uno-q-and-ventuno-q-boards/) |
+| 2026-09-10 | Building  More Houses In Europe | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/how-to-build-more-european-houses-2026-09/) |
 | 2026-09-09 | Local LLMs Can Work Better Than Claude, At Least For Some | Hackaday | [link](https://hackaday.com/2026/09/09/local-llms-can-work-better-than-claude-at-least-for-some/) |
 | 2026-09-09 | Reverse Engineering The Philips PM5139 | Hackaday | [link](https://hackaday.com/2026/09/09/reverse-engineering-the-philips-pm5139/) |
 | 2026-09-09 | FLOSS Weekly Episode 881: Eating Its Own Tail | Hackaday | [link](https://hackaday.com/2026/09/09/floss-weekly-episode-881-eating-its-own-tail/) |
@@ -57,50 +59,48 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-09 | Decoding the NEC V20 Microcode ROM | Hackaday | [link](https://hackaday.com/2026/09/09/decoding-the-nec-v20-microcode-rom/) |
 | 2026-09-09 | Sick of Wayland vs. Xorg? How about GEM? | Hackaday | [link](https://hackaday.com/2026/09/09/sick-of-wayland-vs-xorg-how-about-gem/) |
 | 2026-09-09 | ESP32-C5 Pico board follows Raspberry Pi Pico form factor, ships with on-board or external antenna | CNX Software | [link](https://www.cnx-software.com/2026/09/09/esp32-c5-pico-board-follows-raspberry-pi-pico-form-factor-ships-with-on-board-or-external-antenna/) |
-| 2026-09-09 | FREE-WILi 2 portable hacking multitool features two RP2350 MCUs, ESP32-C5, ICE40 FPGA, and Raspberry Pi CM0 | CNX Software | [link](https://www.cnx-software.com/2026/09/09/free-wili-2-portable-hacking-multitool-features-two-rp2350-mcus-esp32-c5-ice40-fpga-and-raspberry-pi-cm0/) |
-| 2026-09-09 | Morse Micro Introduces Wi-Fi HaLow USB Network Adapters | Embedded.com | [link](https://www.embedded.com/morse-micro-introduces-wi-fi-halow-usb-network-adapters/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-09-08 | TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model | [link](https://arxiv.org/pdf/2609.09158v1) |
-| 2026-09-08 | SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators | [link](https://arxiv.org/pdf/2609.09155v1) |
-| 2026-09-08 | Proxy Policy Steering | [link](https://arxiv.org/pdf/2609.09148v1) |
-| 2026-09-08 | A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes | [link](https://arxiv.org/pdf/2609.09137v1) |
-| 2026-09-08 | DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination | [link](https://arxiv.org/pdf/2609.09119v1) |
-| 2026-09-08 | Online, Reachability-Aware, Sampling-Based Motion Planning | [link](https://arxiv.org/pdf/2609.09073v1) |
-| 2026-09-08 | Rethinking Learned Occupancy in Autonomous Active Mapping with Observation-Gated Filtering | [link](https://arxiv.org/pdf/2609.09069v1) |
-| 2026-09-08 | A Distributed Consensus Particle Filter for Target Tracking using Autonomous Surface Vessels | [link](https://arxiv.org/pdf/2609.09066v1) |
-| 2026-09-08 | Location-Independent Robot-Assisted Finishing Using Digital Twins and Extended Reality | [link](https://arxiv.org/pdf/2609.09061v1) |
-| 2026-09-08 | "World Knowledge" in the Weights: Reading Concept Circuits of Vision Transformers | [link](https://arxiv.org/pdf/2609.09055v1) |
+| 2026-09-09 | A Later Test Set Is Not a New Domain: Pretraining Familiarity Survives a Contamination-Free Hold-Out | [link](https://arxiv.org/pdf/2609.10357v1) |
+| 2026-09-09 | A Confidence-Aware Multimodal Fusion Framework for Industrial Human-Robot Collaboration | [link](https://arxiv.org/pdf/2609.10339v1) |
+| 2026-09-09 | Odometer-Agnostic Drift Correction Using OpenStreetMap Lane Geometry | [link](https://arxiv.org/pdf/2609.10336v1) |
+| 2026-09-09 | Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge | [link](https://arxiv.org/pdf/2609.10322v1) |
+| 2026-09-09 | Deformable Object Manipulation under Partial Observability via Real-Time Full-Shape Estimation | [link](https://arxiv.org/pdf/2609.10308v1) |
+| 2026-09-09 | Learning Terrain-Adaptive Humanoid Locomotion on Granular Terrain | [link](https://arxiv.org/pdf/2609.10286v1) |
+| 2026-09-09 | SwingBot: Learning Whole-Body Brachiation for Humanoid Robots | [link](https://arxiv.org/pdf/2609.10283v1) |
+| 2026-09-09 | Frame-Coded Legged Locomotion over Noisy Terrain | [link](https://arxiv.org/pdf/2609.10273v1) |
+| 2026-09-09 | FolDeX: A Physical-World Benchmark for Long-Horizon Robotic Manipulation of Deformable Objects | [link](https://arxiv.org/pdf/2609.10243v1) |
+| 2026-09-09 | CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | [link](https://arxiv.org/pdf/2609.10230v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-10 | tarzanagh/Multi-Robot-application | 0 | 0 | [link](https://huggingface.co/tarzanagh/Multi-Robot-application) |
+| 2026-09-10 | milab-robot/alm1-0818-amore.T | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0818-amore.T) |
+| 2026-09-10 | jidaxian010/vla-feedback-sim | 0 | 0 | [link](https://huggingface.co/jidaxian010/vla-feedback-sim) |
+| 2026-09-10 | sam-guided-vlas/train_1_2__mask__blur__sim__all_cameras__live__pi05__seed_0__steps_60k | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__blur__sim__all_cameras__live__pi05__seed_0__steps_60k) |
+| 2026-09-10 | sam-guided-vlas/train_1_2__mask__blur__sim__all_cameras__live__pi05__seed_0__steps_30k | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2__mask__blur__sim__all_cameras__live__pi05__seed_0__steps_30k) |
+| 2026-09-09 | RobotisSW/clena_table_test_50k | 0 | 0 | [link](https://huggingface.co/RobotisSW/clena_table_test_50k) |
 | 2026-09-09 | milab-robot/alm1-0731-milab.60 | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.60) |
 | 2026-09-09 | dreamdifferent/vam-cross-level2-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-6a938ee24f | 0 | 0 | [link](https://huggingface.co/dreamdifferent/vam-cross-level2-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-6a938ee24f) |
 | 2026-09-09 | Jaber628/LD4WAM_robotwin | 0 | 0 | [link](https://huggingface.co/Jaber628/LD4WAM_robotwin) |
 | 2026-09-09 | XiaomiRobotics/Xiaomi-Robotics-U0-4B-Sequence | 0 | 2 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-4B-Sequence) |
-| 2026-09-09 | XiaomiRobotics/Xiaomi-Robotics-U0-Sequence | 0 | 2 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-Sequence) |
-| 2026-09-09 | XiaomiRobotics/Xiaomi-Robotics-U0-4B | 0 | 4 | [link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-4B) |
-| 2026-09-09 | djbob/balance_robot | 0 | 0 | [link](https://huggingface.co/djbob/balance_robot) |
-| 2026-09-09 | LhLuke/robot_models | 0 | 1 | [link](https://huggingface.co/LhLuke/robot_models) |
-| 2026-09-09 | OpenWAM/sft_two_stage_robotwin_clean | 14 | 0 | [link](https://huggingface.co/OpenWAM/sft_two_stage_robotwin_clean) |
-| 2026-09-09 | OpenWAM/sft_robot_only_robotwin_clean | 9 | 0 | [link](https://huggingface.co/OpenWAM/sft_robot_only_robotwin_clean) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| copper-project/copper-rs | 1484 | Rust | 593.7 | [link](https://github.com/copper-project/copper-rs) |
-| Edgenesis/shifu | 1435 | Go | 574.1 | [link](https://github.com/Edgenesis/shifu) |
-| mosaico-labs/mosaico | 1015 | Python | 406.1 | [link](https://github.com/mosaico-labs/mosaico) |
-| awslabs/awsome-distributed-ai | 472 | Shell | 188.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63617 | Python | 25446.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44519 | JavaScript | 17807.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | questdb/questdb | 17313 | Java | 6925.3 | [link](https://github.com/questdb/questdb) |
-| zauberzeug/nicegui | 16188 | Python | 6475.3 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15833 | C++ | 6333.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 15021 | Python | 6008.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| rerun-io/rerun | 11423 | Rust | 4569.3 | [link](https://github.com/rerun-io/rerun) |
+| sou350121/VLA-Handbook | 603 | HTML | 241.3 | [link](https://github.com/sou350121/VLA-Handbook) |
+| vllm-project/vllm-omni | 6742 | Python | 2696.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| deeplethe/utopia | 6284 | Rust | 2513.7 | [link](https://github.com/deeplethe/utopia) |
+| isaac-sim/IsaacLab | 8086 | Python | 3234.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| cerul-ai/cerul | 156 | Rust | 62.5 | [link](https://github.com/cerul-ai/cerul) |
+| NVlabs/alpamayo | 2019 | Python | 807.7 | [link](https://github.com/NVlabs/alpamayo) |
+| copper-project/copper-rs | 1484 | Rust | 593.7 | [link](https://github.com/copper-project/copper-rs) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -126,7 +126,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-08 | Travis Kalanick jumps back into the robotaxi race with Atoms, his new physical AI startup - Capmad | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNemJtdTVmUDVNTERWcGp4NUxuMGtLbHlQdnptek94NU5lWktiTkFrUlVad0NLOGhWeUsxT0RBc0g0b1dlOTI0eGduUXNfcXhPY0Zad0JxY2tiNzJYNlFXVFFiR0tqYnFhakE0LTMzbFczMDZITVotY0Q2YjROV2NKWElRdzR2Z2U2bjcwUzY0OEVMZ2ZtTE1IMzR4d1ZLX0JrM2ZKdjIyY1BLbDBQdXZhS0t6Z0tLQjg?oc=5) |
 | 2026-09-08 | Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus - CnEVPost | physical ai startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE5paGtCdFl4cE13UjYyQlF6U1Fyc3BkYlZPQ0c5MUotU3hrRFJLS1h0ZVlKS1ZuNDBsN0dvdzZYcXpkNlpiNFpkMlZTaUs1ZHRfYVZURzF6dk5pU0V1UVg3VzVIMEltRzkyQ1B6Uk1icUl4TGQ4QmNjSg?oc=5) |
 | 2026-09-08 | Chinese robotics startup Simple AI completes pre-A+ round - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTklySmp5SjY4M0FLNWV3aEt0U085N2lTOU9LeElpa0xhTmFUM1F1MnZsY2l5QUdqQVZmcDVpaERxeXRhNTFEUU11ejVVaDFDSTJuV0tpREp1NVUwbEEzamZ2cVR5b2ZFZmpDZGxLd1ZyQmJZRUU5bXN2b2RGMUwweGhBYmdaX2xa?oc=5) |
-| 2026-09-08 | China’s Humanoid Robot Boom, Part II: Startups Move From Robot Shows to Real Jobs - TechNode | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmxzSzJXS1pJdEh2eXVSVThIZXR0RFNEYWJwS2NMMlF1SHZsZjVDRjlobWg0WXkzMVhLblZaU21fY1lLS2VRZDRaLUdtX2pkX2VqaUJQZ0tiVzZtLXduaGo1M3ZEdjJlNzZjYURKWnFNWFZPZVRzaC1vclBtcVJZR09mWlA0RGxrMFFmWkZBOExadjNhSFJpRS1VM0pPRWlZenpqdmRFRnZILXBRU250Nw?oc=5) |
+| 2026-09-08 | China’s Humanoid Robot Boom, Part II: Startups Move From Robot Shows to Real Jobs - technode.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmxzSzJXS1pJdEh2eXVSVThIZXR0RFNEYWJwS2NMMlF1SHZsZjVDRjlobWg0WXkzMVhLblZaU21fY1lLS2VRZDRaLUdtX2pkX2VqaUJQZ0tiVzZtLXduaGo1M3ZEdjJlNzZjYURKWnFNWFZPZVRzaC1vclBtcVJZR09mWlA0RGxrMFFmWkZBOExadjNhSFJpRS1VM0pPRWlZenpqdmRFRnZILXBRU250Nw?oc=5) |
 | 2026-09-08 | Samsung SDI, LG and SK On Race to Build Batteries for Humanoid Robots - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0N3M3FUV3ZPaEdveUhPRjBxS1lCX3F5bXRHMVBOTHRGQlFibW8xQ2xlN2tRZUNGQU1lVUo4UkJkV0xIOEZROUJkY2VncWYzTF9zdGVOMzNDWjBfZ3BMZktRNExFSFJFV3NlRVdfVkd4SkdDOEJfZzRvUU9BcWE2QS1TVXdQVXBJOVh6RjlCaExRY1RyYnBtdkRuWG8?oc=5) |
 | 2026-09-05 | Korea Bets Its Physical AI Advantage on Manufacturing Depth - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0tMWTJjLV9XZXRsOVVFU2d4OEx6c3BvX2F2NHV2MXFtYkNsY0w1Wjd2VDlaYUp4ZzRzX3JhWm4yTGt5amM5R0Vscm5ENmYxRjhQcHFPZEZIQ0VvU3NQZXlGU21lbnc3V3VXUzJmRkdjOWJVOHAtNmExT1FER01DTFBmSVVIM1Ju?oc=5) |
 
