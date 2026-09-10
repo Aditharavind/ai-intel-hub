@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-10 15:15 UTC
+Generated: 2026-09-10 18:43 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,29 +14,29 @@ Generated: 2026-09-10 15:15 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83462 | 33384.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63627 | 25450.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83463 | 33385.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63626 | 25450.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44529 | 17811.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30480 | 12192.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| questdb/questdb | 17314 | 6925.7 | [link](https://github.com/questdb/questdb) |
+| questdb/questdb | 17315 | 6926.1 | [link](https://github.com/questdb/questdb) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | vlabki/poscat-gv2-dual-policy | 167 | 50.2 | [link](https://huggingface.co/vlabki/poscat-gv2-dual-policy) |
+| dsaddsaf/lingbot-vla-2.0-FsMPCACo3YPN | 105 | 31.6 | [link](https://huggingface.co/dsaddsaf/lingbot-vla-2.0-FsMPCACo3YPN) |
 | jagwang/mungkeul-physical-ai | 87 | 26.2 | [link](https://huggingface.co/jagwang/mungkeul-physical-ai) |
 | SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch0.5 | 45 | 13.6 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch0.5) |
 | hfunknown/qwen3-8b-navigation-lora-stateless | 45 | 13.6 | [link](https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-stateless) |
-| hfunknown/qwen3-8b-navigation-lora-persistent | 45 | 13.6 | [link](https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-persistent) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-09-10 | Skild AI |  | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTFBTVm5nbU5PX0dGV2ZvaVo0MGZzV0sxdmRwdFFoM2x4aWJySGhmVjRJbUVSb3R6MHRiZ2M4dHNhTmlfTjV1cHVqRFNDNXo4d0QydFozbGRKanppdXN1dHBYbDZqYndUcGU5NUUw?oc=5) |
 | 2026-09-10 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWXp3X09CWnhURUQ3R1hCSmwyWkRkZTBCd1BWS056ZlRFblJTQlE3YnVTZ3RibVBKOU9vRkZJUEZRWXFnMG1CMXV5cGhiZTBzeFhqVDB0VHlEcUstVGxnamVCUFpjNTVLRHhyb0Y1Y1pHY0RZWEpvRnVLdHVZSkR0aW02NVI3cHdqQkRHMlhFWkh6d1FST3BMOXFDbm1pVklkbFJNY255TXNMOTDSAbgBQVVfeXFMTUswM0U2NFBiVzdZUUtWblc3d0tWbF9LQTItODFGeHhRaW43TDNZLXRnTmE2WkVwTURzMTl0RThBaG1ldGwzM2xmMUwyOXZFbG1Ocm9pNmVsZGhiVkR0dDd3QkJHcnc4T0g4azZGTmx6UDNHRno5dmxhNDVPcjlvN2FtcTNFX2NHTTJGMGdKZFZ0NnVCenFYRkROMTBKT0JzMTJqLXEwbXhTWXM5b2JRb2RxMmdWNXpLdQ?oc=5) |
 | 2026-09-09 | Unitree |  | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTFBwMklmTUEtY2pkR0ZEbVZlV0g5a0VRUkw0RGJOQlFIUldSZGk0dmsyUGpzejVscGlDY0dMM3p1NklrcEdNbGwxSU45RU81Q1AwSGJQakZvenk3VmtaVHZubndfU0xwcm5SdVJLRVBFMHFNX184emY1SQ?oc=5) |
 | 2026-09-08 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3ZMdEt4dnFNVFZreDNVNThJazlZWGZnelRWS1dLVWw2a1NKejlZUTFfMkE3WnhYUTl0UFpqNVhQY2JlcTNYWk0yRUVFMWNibDhEd1BvcTF4RmNXV1d4TVFocnpJWHk3clR4aTkyYmtQU25SZU1TSVNkTkVtZ2wteVpob0dNeXRpWGw2MFl5ZHJuZHp4S2kyVW5nekhkUHc?oc=5) |
 | 2026-09-07 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxNallKUzktNHBLcnV4YW9sZ3liNGpfVVBQdDZHWUY4UTUwVnZGZXhDUWJ2MExhTWN5M2xGdVFzWkRwT2drMlQ5TmRNeWdCaHdKcW5uQ2ZYSko1WTBFTW56ZnRPR0lXdVlhVmdfWnF5QU9uLVJDZVF2b2RobUViU2F3VEUtQ0NzcHlJU1hIT0NYVUtpeWRtY1E?oc=5) |
-| 2026-09-04 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQVlFYZFAxSm10RkpsMlRkb1VGUWdnMm1mOHFEOVFKTS02cXFQTk5Pa0ZOTnVia0ZnS3djUHp3aWVLOXRMZ0hLOGNkOWJ1MjB2cGRoRXVQZGl2RmtMZnIwSWlXVE1FblpEZUlIOGgwVmxxdm1rOC1YaE9VSzhqV3lSX2lJTzlPMUcydXliLWlwcFhBMHVSaWFHdjBGNExUd0VBZW5maElMSm5rMC10akZCSGZGT2pDRm1qZE14R1R2UmU2V0lMV3ZlM0dn?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
@@ -45,4 +45,4 @@ Generated: 2026-09-10 15:15 UTC
 | 2026-09-10 | South Korea's 'Try Everything' Draws Crowds at DDP as Physical AI Robots Steal the Show - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFB6UWVxNVVodVpxWjNTanZld0ZVWFpiXy1oVVYweW9tLW9JYVJfRFpxTFFqbTRSck01WlgzcV9IMHQzMDdVQUdNNHZJUFZicnRYYm50UGstT0V1VWFqWnBmLW1vMl9tcUYyTVVfVWhYdGpjRlYwdUE?oc=5) |
 | 2026-09-10 | Analog Devices to Acquire Alif Semiconductor in $1.5bn Physical AI Deal - Electronics For You BUSINESS | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUd2d2Y0OTVvTUJVcDVJUDZiQ0dacXQwUktLRU5pMXZuUU5OVXB1OTZZUV81UG9rOHgtMWRJbVRMNGVkeW9janYxYlpnUWZzT2RtYUstYW5ucDVGQ2k0X0FtRVFDYmh6cEhUWFk5NTlqeElabmVOSVRPenhQaDF0alo3R2I1S2QxbllMVVhBTDBoOFVIXzZYYUd1dF90Y0YwRmVCNFB4bmcxbTd1WVMycDVGNDFUS2JycllF?oc=5) |
 | 2026-09-10 | Embodied AI startup PHYMI raises nearly US$100 million in seed funding - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzZ5X2d4NC1uOUZrTjlCTHVIcXdhX0Q1NUVVaXAxdHNvenJCNkhCUzVCZ2NUXzRhNmo5enUxXy15QzQ1RGR5OVY1QlRDaHRobTN5QXIzSjNrdXdmc3NTWi02UTljeEdiSWU3WE1OczBhZG9UZ3J4QzJEem5hX2hWS1gyb25vNi15UHBpcV9qVXlVcVBRM1RJYndnUmE0Z3BibUtyag?oc=5) |
-| 2026-09-10 | TianGong Ultra beat Usain Bolt's sprint record, now it needs a real job - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxOY0ZXV0NGQ2FOWGxnYm1WQnBIZjY2SktsOUhpbzFRbmlMQkFCR2RZZHNUanBfNjdKc1RGV2p2ZEwwZ0diZnJSM3ctakxhcU9hWWw3RndIMmVsQU93TEZKUVZXdl9fZFRSUGVhYWJUM1EtMnd6T2cwUlJKSW9DUXQ0allTb3FEWnBaYkc0SjlFci1xbWdoUUpKR1Z5ck5DUQ?oc=5) |
+| 2026-09-10 | XPeng's IRON Humanoid Robot Walked Off a Real Production Line in Guangzhou - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFdMeTM2ajg1MHNESnktMVg1V2NmbklFS3N1UkxXc2hUMm5yMU42VWh1TGRwRXNkQWhERXRNcFgxa0N1ZUZFZjIydFFEZEVsMDlXdkwtZ2xHRjlOUEJ2MnRpS2FMTGo5UF9YanVZNHhUNWxXY1lVb3ZIeWZSbXNuYVFCWXBXN0NGSE16RXYyaG5nbWhOQ0pfN1dVdzAyVDZkdDFn?oc=5) |
