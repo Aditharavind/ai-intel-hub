@@ -1,23 +1,23 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-10 01:34 UTC
+Generated: 2026-09-10 06:41 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-09-09 | A Later Test Set Is Not a New Domain: Pretraining Familiarity Survives a Contamination-Free Hold-Out | [link](https://arxiv.org/pdf/2609.10357v1) |
-| 2026-09-09 | A Confidence-Aware Multimodal Fusion Framework for Industrial Human-Robot Collaboration | [link](https://arxiv.org/pdf/2609.10339v1) |
-| 2026-09-09 | Odometer-Agnostic Drift Correction Using OpenStreetMap Lane Geometry | [link](https://arxiv.org/pdf/2609.10336v1) |
-| 2026-09-09 | Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge | [link](https://arxiv.org/pdf/2609.10322v1) |
-| 2026-09-09 | Deformable Object Manipulation under Partial Observability via Real-Time Full-Shape Estimation | [link](https://arxiv.org/pdf/2609.10308v1) |
+| 2026-09-09 | Programmable World Model | [link](https://arxiv.org/pdf/2609.10540v1) |
+| 2026-09-09 | Show-Harness: Just a VLM Agent Can Play Robots | [link](https://arxiv.org/pdf/2609.10522v1) |
+| 2026-09-09 | BrainTaskonomy: Learning How to Pretrain and What to Transfer in fMRI Foundation Models | [link](https://arxiv.org/pdf/2609.10518v1) |
+| 2026-09-09 | DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation | [link](https://arxiv.org/pdf/2609.10506v1) |
+| 2026-09-09 | Coastal Environment Generation with HoloOcean | [link](https://arxiv.org/pdf/2609.10484v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83458 | 33383.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63617 | 25446.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44519 | 17807.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30477 | 12190.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 83460 | 33384.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63623 | 25449.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44522 | 17808.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30478 | 12191.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | questdb/questdb | 17313 | 6925.3 | [link](https://github.com/questdb/questdb) |
 
 ## Top Models
@@ -45,4 +45,4 @@ Generated: 2026-09-10 01:34 UTC
 | 2026-09-09 | Physical AI Simulation Startup Antioch Raises $32M Series A Led by Greylock - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIT3J3cHRxTUpJVXNvb3B0NUJEWjhlZTRfS2Q4LUdBTXY4TDR3NmZQVHlaVWN5Qkp3OU0xRWhzaDhwMUpaWmZyVG14Wlpyb3N0VkVF?oc=5) |
 | 2026-09-09 | IDG Capital leads near-$100m seed round for nascent embodied AI startup PHYMI - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE1mNHNMMmdnSkd2WGp2NTJmbVZfbXRpcmRNSDZzbFlNbTZEbDVGN3B1dE1IZFdQZFJuRFI1QXhCSHB5ZDc4aEFMandpYm5NV1MzZ3pMWFVpYjdjX0JQTmhPNFo0UmItUnBRaXpNQktwV0U?oc=5) |
 | 2026-09-09 | Intelligent Driving Industry Veteran Liu Nianqiu Launches Startup, Secures Nearly $100 Million in Series A Financing - 36 Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqNTdoRGNaUG1PRjJRT05lR1luQVJuODd1X3h6VHNUNUwzU2ZTbkN0azdkTVBNS2M2X3dVTWM2ZGp2Q1VSaF9kNzJaOE5aVTM0ZU1n?oc=5) |
-| 2026-09-08 | Travis Kalanick jumps back into the robotaxi race with Atoms, his new physical AI startup - Capmad | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNemJtdTVmUDVNTERWcGp4NUxuMGtLbHlQdnptek94NU5lWktiTkFrUlVad0NLOGhWeUsxT0RBc0g0b1dlOTI0eGduUXNfcXhPY0Zad0JxY2tiNzJYNlFXVFFiR0tqYnFhakE0LTMzbFczMDZITVotY0Q2YjROV2NKWElRdzR2Z2U2bjcwUzY0OEVMZ2ZtTE1IMzR4d1ZLX0JrM2ZKdjIyY1BLbDBQdXZhS0t6Z0tLQjg?oc=5) |
+| 2026-09-08 | Travis Kalanick jumps back into the robotaxi race with Atoms, his new physical AI startup - capmad.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNemJtdTVmUDVNTERWcGp4NUxuMGtLbHlQdnptek94NU5lWktiTkFrUlVad0NLOGhWeUsxT0RBc0g0b1dlOTI0eGduUXNfcXhPY0Zad0JxY2tiNzJYNlFXVFFiR0tqYnFhakE0LTMzbFczMDZITVotY0Q2YjROV2NKWElRdzR2Z2U2bjcwUzY0OEVMZ2ZtTE1IMzR4d1ZLX0JrM2ZKdjIyY1BLbDBQdXZhS0t6Z0tLQjg?oc=5) |
