@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-10 11:53 UTC
+Generated: 2026-09-10 15:15 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,9 +14,9 @@ Generated: 2026-09-10 11:53 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83458 | 33383.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83462 | 33384.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63627 | 25450.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44525 | 17810.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44529 | 17811.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30480 | 12192.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | questdb/questdb | 17314 | 6925.7 | [link](https://github.com/questdb/questdb) |
 
@@ -41,8 +41,8 @@ Generated: 2026-09-10 11:53 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-09-10 | Japan's Algomatic Dynamics Laucnhes with $32.5M in Funding to Develop Physical AI, Robotic Hand - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUTMtcTc4VS1kR3EwTWNRQ0s5ckFoNmtsUkVUallldkZMckswNTFpcHV1aEtTUUl3ZHd0N0tRMkFfMFFPZUI0TjFGclFKendpcng2aFBJSVlHZ0hXenZfYnY4dGRHSjdEUWd6WnY0X3MxdEZyMHNqMlljY01iaEFqSDhrc19qWmZZQkJVb3ktZ0hzeFdWbXFFTjJtUmV5cEFLTXlUeGd3YVIwcE45UDhGOUtOZEpFZEhlVGdCWVlXc1dRTUZhQ2RhNTBR?oc=5) |
 | 2026-09-10 | South Korea's 'Try Everything' Draws Crowds at DDP as Physical AI Robots Steal the Show - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFB6UWVxNVVodVpxWjNTanZld0ZVWFpiXy1oVVYweW9tLW9JYVJfRFpxTFFqbTRSck01WlgzcV9IMHQzMDdVQUdNNHZJUFZicnRYYm50UGstT0V1VWFqWnBmLW1vMl9tcUYyTVVfVWhYdGpjRlYwdUE?oc=5) |
+| 2026-09-10 | Analog Devices to Acquire Alif Semiconductor in $1.5bn Physical AI Deal - Electronics For You BUSINESS | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUd2d2Y0OTVvTUJVcDVJUDZiQ0dacXQwUktLRU5pMXZuUU5OVXB1OTZZUV81UG9rOHgtMWRJbVRMNGVkeW9janYxYlpnUWZzT2RtYUstYW5ucDVGQ2k0X0FtRVFDYmh6cEhUWFk5NTlqeElabmVOSVRPenhQaDF0alo3R2I1S2QxbllMVVhBTDBoOFVIXzZYYUd1dF90Y0YwRmVCNFB4bmcxbTd1WVMycDVGNDFUS2JycllF?oc=5) |
 | 2026-09-10 | Embodied AI startup PHYMI raises nearly US$100 million in seed funding - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzZ5X2d4NC1uOUZrTjlCTHVIcXdhX0Q1NUVVaXAxdHNvenJCNkhCUzVCZ2NUXzRhNmo5enUxXy15QzQ1RGR5OVY1QlRDaHRobTN5QXIzSjNrdXdmc3NTWi02UTljeEdiSWU3WE1OczBhZG9UZ3J4QzJEem5hX2hWS1gyb25vNi15UHBpcV9qVXlVcVBRM1RJYndnUmE0Z3BibUtyag?oc=5) |
 | 2026-09-10 | TianGong Ultra beat Usain Bolt's sprint record, now it needs a real job - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxOY0ZXV0NGQ2FOWGxnYm1WQnBIZjY2SktsOUhpbzFRbmlMQkFCR2RZZHNUanBfNjdKc1RGV2p2ZEwwZ0diZnJSM3ctakxhcU9hWWw3RndIMmVsQU93TEZKUVZXdl9fZFRSUGVhYWJUM1EtMnd6T2cwUlJKSW9DUXQ0allTb3FEWnBaYkc0SjlFci1xbWdoUUpKR1Z5ck5DUQ?oc=5) |
-| 2026-09-09 | Runway buys France's Kinetix, crosses $200M ARR in physical AI push - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbmRQQTNmTGZuYUc3NXZsREdjTTdNRmU0VWFNSWRIaEczakd0cWNDMTkza3FTbUVGSnBCenBIRVVMWG5kNFRiV0EyYTRjZlN3WjlNMmI1bFA1V3FoN21aV01NOHBYb0Nrcm5TUzAwS0N0ZkhmX2Y1ZGZuVHc0S0stVFh2OG16N2FOSWdPZG1jbkF3TGVsTjA5cm9BRVV5aW5u?oc=5) |
-| 2026-09-09 | Physical AI Simulation Startup Antioch Raises $32M Series A Led by Greylock - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIT3J3cHRxTUpJVXNvb3B0NUJEWjhlZTRfS2Q4LUdBTXY4TDR3NmZQVHlaVWN5Qkp3OU0xRWhzaDhwMUpaWmZyVG14Wlpyb3N0VkVF?oc=5) |

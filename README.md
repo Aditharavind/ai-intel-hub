@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-10 11:53 UTC
+Last Updated: 2026-09-10 15:15 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-10 | Tech In Plain Sight: Meet The Robot That Does CPR | Hackaday | [link](https://hackaday.com/2026/09/10/tech-in-plain-sight-meet-the-robot-that-does-cpr/) |
 | 2026-09-10 | Open Source Acoustic Drone Detection | Hackaday | [link](https://hackaday.com/2026/09/10/open-source-acoustic-drone-detection/) |
 | 2026-09-10 | If It’s Electronic Paper, Why Not Print To It? | Hackaday | [link](https://hackaday.com/2026/09/10/if-its-electronic-paper-why-not-print-to-it/) |
 | 2026-09-10 | Origami Sensors That You Can Wear | Hackaday | [link](https://hackaday.com/2026/09/09/origami-sensors-that-you-can-wear/) |
 | 2026-09-10 | 3D Printable Lenticular Indicators | Hackaday | [link](https://hackaday.com/2026/09/09/3d-printable-lenticular-indicators/) |
 | 2026-09-10 | LattePanda Mu Ultra Compute Module features Intel Core Ultra 5 226V/7 256V Lunar Lake CPU for AI workloads | CNX Software | [link](https://www.cnx-software.com/2026/09/10/lattepanda-mu-ultra-compute-module-features-intel-core-ultra-5-226v-7-256v-lunar-lake-cpu-for-ai-workloads/) |
 | 2026-09-10 | Arduino UNO Media Carrier adds MIPI CSI/DSI and audio connectors to UNO Q and VENTUNO Q boards | CNX Software | [link](https://www.cnx-software.com/2026/09/10/arduino-uno-media-carrier-adds-mipi-csi-dsi-and-audio-connectors-to-uno-q-and-ventuno-q-boards/) |
-| 2026-09-10 | Malaysia pushes to become a regional semiconductor hub | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/malaysia-pushes-to-become-a-regional-semiconductor-hub-2026-09/) |
-| 2026-09-10 | AOS extends αMOS E2 600V super junction mosfet platform | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/discretes/aos-extends-%ce%b1mos-e2-600v-super-junction-mosfet-platform-2026-09/) |
-| 2026-09-10 | Apple unfolds folding phone | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/apple-unfolds-folding-phone-2026-09/) |
-| 2026-09-10 | ADI buys Alif Semiconductor | Electronics Weekly | [link](https://www.electronicsweekly.com/news/adi-buys-alif-semiconductor-2026-09/) |
+| 2026-09-10 | Chiplet-Based FPGAs Optimize Performance for Space Applications | Embedded.com | [link](https://www.embedded.com/chiplet-based-fpgas-optimize-performance-for-space-applications/) |
+| 2026-09-10 | Leankon expands 13.56 MHz NFC antenna portfolio | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/leankon-expands-13-56mhz-nfc-antenna-portfolio-2026-09/) |
+| 2026-09-10 | Airbus, Thales Alenia Space sign up for first IRIS² satellites | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/airbus-thales-alenia-space-sign-up-for-first-iris%c2%b2-satellites-2026-09/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,29 +77,29 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-10 | pollen-robotics/microduck-duck-detector | 0 | 0 | [link](https://huggingface.co/pollen-robotics/microduck-duck-detector) |
+| 2026-09-10 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
+| 2026-09-10 | Datawhale/hello-robotics-chapter9 | 0 | 0 | [link](https://huggingface.co/Datawhale/hello-robotics-chapter9) |
 | 2026-09-10 | x-square-robot/X2Streaming-TTS-1.7B | 0 | 0 | [link](https://huggingface.co/x-square-robot/X2Streaming-TTS-1.7B) |
 | 2026-09-10 | x-square-robot/X2-NativeCursor-Qwen3TTS-12Hz | 0 | 0 | [link](https://huggingface.co/x-square-robot/X2-NativeCursor-Qwen3TTS-12Hz) |
 | 2026-09-10 | milab-robot/alm1-0731-milab.60 | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.60) |
 | 2026-09-10 | dreamdifferent/vam-cross-level2-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-a42d2b4792 | 0 | 0 | [link](https://huggingface.co/dreamdifferent/vam-cross-level2-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-a42d2b4792) |
-| 2026-09-10 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-09-10 | Jason2Jason/lawam-actionvae-robotwin-teachers | 0 | 0 | [link](https://huggingface.co/Jason2Jason/lawam-actionvae-robotwin-teachers) |
 | 2026-09-10 | RoboTok569/data | 0 | 0 | [link](https://huggingface.co/RoboTok569/data) |
 | 2026-09-10 | Rice-RobotPI-Lab/robotok-public | 0 | 4 | [link](https://huggingface.co/Rice-RobotPI-Lab/robotok-public) |
-| 2026-09-10 | djbob/balance_robot | 0 | 0 | [link](https://huggingface.co/djbob/balance_robot) |
-| 2026-09-10 | tarzanagh/Multi-Robot-application | 0 | 0 | [link](https://huggingface.co/tarzanagh/Multi-Robot-application) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| mosaico-labs/mosaico | 1021 | Python | 408.5 | [link](https://github.com/mosaico-labs/mosaico) |
+| mosaico-labs/mosaico | 1023 | Python | 409.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | RobotecAI/rai | 588 | Python | 235.3 | [link](https://github.com/RobotecAI/rai) |
 | commaai/openpilot | 63627 | Python | 25450.9 | [link](https://github.com/commaai/openpilot) |
 | questdb/questdb | 17314 | Java | 6925.7 | [link](https://github.com/questdb/questdb) |
 | zauberzeug/nicegui | 16191 | Python | 6476.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15837 | C++ | 6334.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 15274 | Python | 6109.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| google-deepmind/mujoco | 15036 | C++ | 6014.5 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11426 | Rust | 4570.5 | [link](https://github.com/rerun-io/rerun) |
+| ArduPilot/ardupilot | 15839 | C++ | 6335.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| earthtojake/text-to-cad | 15287 | Python | 6114.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 15040 | C++ | 6016.1 | [link](https://github.com/google-deepmind/mujoco) |
+| rerun-io/rerun | 11425 | Rust | 4570.1 | [link](https://github.com/rerun-io/rerun) |
 | RLinf/RLinf | 5040 | Python | 2016.1 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
@@ -119,16 +119,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-09-10 | Japan's Algomatic Dynamics Laucnhes with $32.5M in Funding to Develop Physical AI, Robotic Hand - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUTMtcTc4VS1kR3EwTWNRQ0s5ckFoNmtsUkVUallldkZMckswNTFpcHV1aEtTUUl3ZHd0N0tRMkFfMFFPZUI0TjFGclFKendpcng2aFBJSVlHZ0hXenZfYnY4dGRHSjdEUWd6WnY0X3MxdEZyMHNqMlljY01iaEFqSDhrc19qWmZZQkJVb3ktZ0hzeFdWbXFFTjJtUmV5cEFLTXlUeGd3YVIwcE45UDhGOUtOZEpFZEhlVGdCWVlXc1dRTUZhQ2RhNTBR?oc=5) |
 | 2026-09-10 | South Korea's 'Try Everything' Draws Crowds at DDP as Physical AI Robots Steal the Show - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFB6UWVxNVVodVpxWjNTanZld0ZVWFpiXy1oVVYweW9tLW9JYVJfRFpxTFFqbTRSck01WlgzcV9IMHQzMDdVQUdNNHZJUFZicnRYYm50UGstT0V1VWFqWnBmLW1vMl9tcUYyTVVfVWhYdGpjRlYwdUE?oc=5) |
+| 2026-09-10 | Analog Devices to Acquire Alif Semiconductor in $1.5bn Physical AI Deal - Electronics For You BUSINESS | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUd2d2Y0OTVvTUJVcDVJUDZiQ0dacXQwUktLRU5pMXZuUU5OVXB1OTZZUV81UG9rOHgtMWRJbVRMNGVkeW9janYxYlpnUWZzT2RtYUstYW5ucDVGQ2k0X0FtRVFDYmh6cEhUWFk5NTlqeElabmVOSVRPenhQaDF0alo3R2I1S2QxbllMVVhBTDBoOFVIXzZYYUd1dF90Y0YwRmVCNFB4bmcxbTd1WVMycDVGNDFUS2JycllF?oc=5) |
 | 2026-09-10 | Embodied AI startup PHYMI raises nearly US$100 million in seed funding - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzZ5X2d4NC1uOUZrTjlCTHVIcXdhX0Q1NUVVaXAxdHNvenJCNkhCUzVCZ2NUXzRhNmo5enUxXy15QzQ1RGR5OVY1QlRDaHRobTN5QXIzSjNrdXdmc3NTWi02UTljeEdiSWU3WE1OczBhZG9UZ3J4QzJEem5hX2hWS1gyb25vNi15UHBpcV9qVXlVcVBRM1RJYndnUmE0Z3BibUtyag?oc=5) |
 | 2026-09-10 | TianGong Ultra beat Usain Bolt's sprint record, now it needs a real job - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxOY0ZXV0NGQ2FOWGxnYm1WQnBIZjY2SktsOUhpbzFRbmlMQkFCR2RZZHNUanBfNjdKc1RGV2p2ZEwwZ0diZnJSM3ctakxhcU9hWWw3RndIMmVsQU93TEZKUVZXdl9fZFRSUGVhYWJUM1EtMnd6T2cwUlJKSW9DUXQ0allTb3FEWnBaYkc0SjlFci1xbWdoUUpKR1Z5ck5DUQ?oc=5) |
-| 2026-09-09 | Runway buys France's Kinetix, crosses $200M ARR in physical AI push - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbmRQQTNmTGZuYUc3NXZsREdjTTdNRmU0VWFNSWRIaEczakd0cWNDMTkza3FTbUVGSnBCenBIRVVMWG5kNFRiV0EyYTRjZlN3WjlNMmI1bFA1V3FoN21aV01NOHBYb0Nrcm5TUzAwS0N0ZkhmX2Y1ZGZuVHc0S0stVFh2OG16N2FOSWdPZG1jbkF3TGVsTjA5cm9BRVV5aW5u?oc=5) |
+| 2026-09-09 | Runway buys France's Kinetix, crosses $200M ARR in physical AI push - app.dealroom.co | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbmRQQTNmTGZuYUc3NXZsREdjTTdNRmU0VWFNSWRIaEczakd0cWNDMTkza3FTbUVGSnBCenBIRVVMWG5kNFRiV0EyYTRjZlN3WjlNMmI1bFA1V3FoN21aV01NOHBYb0Nrcm5TUzAwS0N0ZkhmX2Y1ZGZuVHc0S0stVFh2OG16N2FOSWdPZG1jbkF3TGVsTjA5cm9BRVV5aW5u?oc=5) |
 | 2026-09-09 | Physical AI Simulation Startup Antioch Raises $32M Series A Led by Greylock - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIT3J3cHRxTUpJVXNvb3B0NUJEWjhlZTRfS2Q4LUdBTXY4TDR3NmZQVHlaVWN5Qkp3OU0xRWhzaDhwMUpaWmZyVG14Wlpyb3N0VkVF?oc=5) |
 | 2026-09-09 | IDG Capital leads near-$100m seed round for nascent embodied AI startup PHYMI - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE1mNHNMMmdnSkd2WGp2NTJmbVZfbXRpcmRNSDZzbFlNbTZEbDVGN3B1dE1IZFdQZFJuRFI1QXhCSHB5ZDc4aEFMandpYm5NV1MzZ3pMWFVpYjdjX0JQTmhPNFo0UmItUnBRaXpNQktwV0U?oc=5) |
 | 2026-09-09 | Intelligent Driving Industry Veteran Liu Nianqiu Launches Startup, Secures Nearly $100 Million in Series A Financing - 36 Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqNTdoRGNaUG1PRjJRT05lR1luQVJuODd1X3h6VHNUNUwzU2ZTbkN0azdkTVBNS2M2X3dVTWM2ZGp2Q1VSaF9kNzJaOE5aVTM0ZU1n?oc=5) |
 | 2026-09-08 | Travis Kalanick jumps back into the robotaxi race with Atoms, his new physical AI startup - Capmad | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNemJtdTVmUDVNTERWcGp4NUxuMGtLbHlQdnptek94NU5lWktiTkFrUlVad0NLOGhWeUsxT0RBc0g0b1dlOTI0eGduUXNfcXhPY0Zad0JxY2tiNzJYNlFXVFFiR0tqYnFhakE0LTMzbFczMDZITVotY0Q2YjROV2NKWElRdzR2Z2U2bjcwUzY0OEVMZ2ZtTE1IMzR4d1ZLX0JrM2ZKdjIyY1BLbDBQdXZhS0t6Z0tLQjg?oc=5) |
-| 2026-09-08 | Xiaomi's L3 autonomous driving lead exits for physical AI, joining auto executive exodus - CnEVPost | physical ai startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE5paGtCdFl4cE13UjYyQlF6U1Fyc3BkYlZPQ0c5MUotU3hrRFJLS1h0ZVlKS1ZuNDBsN0dvdzZYcXpkNlpiNFpkMlZTaUs1ZHRfYVZURzF6dk5pU0V1UVg3VzVIMEltRzkyQ1B6Uk1icUl4TGQ4QmNjSg?oc=5) |
-| 2026-09-08 | Chinese robotics startup Simple AI completes pre-A+ round - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTklySmp5SjY4M0FLNWV3aEt0U085N2lTOU9LeElpa0xhTmFUM1F1MnZsY2l5QUdqQVZmcDVpaERxeXRhNTFEUU11ejVVaDFDSTJuV0tpREp1NVUwbEEzamZ2cVR5b2ZFZmpDZGxLd1ZyQmJZRUU5bXN2b2RGMUwweGhBYmdaX2xa?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
