@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-10 21:15 UTC
+Generated: 2026-09-10 23:27 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,7 +15,7 @@ Generated: 2026-09-10 21:15 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83465 | 33386.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63626 | 25450.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63627 | 25450.9 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44530 | 17812.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30480 | 12192.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | questdb/questdb | 17315 | 6926.1 | [link](https://github.com/questdb/questdb) |
@@ -45,4 +45,4 @@ Generated: 2026-09-10 21:15 UTC
 | 2026-09-10 | South Korea's 'Try Everything' Draws Crowds at DDP as Physical AI Robots Steal the Show - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFB6UWVxNVVodVpxWjNTanZld0ZVWFpiXy1oVVYweW9tLW9JYVJfRFpxTFFqbTRSck01WlgzcV9IMHQzMDdVQUdNNHZJUFZicnRYYm50UGstT0V1VWFqWnBmLW1vMl9tcUYyTVVfVWhYdGpjRlYwdUE?oc=5) |
 | 2026-09-10 | Analog Devices to Acquire Alif Semiconductor in $1.5bn Physical AI Deal - Electronics For You BUSINESS | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUd2d2Y0OTVvTUJVcDVJUDZiQ0dacXQwUktLRU5pMXZuUU5OVXB1OTZZUV81UG9rOHgtMWRJbVRMNGVkeW9janYxYlpnUWZzT2RtYUstYW5ucDVGQ2k0X0FtRVFDYmh6cEhUWFk5NTlqeElabmVOSVRPenhQaDF0alo3R2I1S2QxbllMVVhBTDBoOFVIXzZYYUd1dF90Y0YwRmVCNFB4bmcxbTd1WVMycDVGNDFUS2JycllF?oc=5) |
 | 2026-09-10 | Embodied AI startup PHYMI raises nearly US$100 million in seed funding - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzZ5X2d4NC1uOUZrTjlCTHVIcXdhX0Q1NUVVaXAxdHNvenJCNkhCUzVCZ2NUXzRhNmo5enUxXy15QzQ1RGR5OVY1QlRDaHRobTN5QXIzSjNrdXdmc3NTWi02UTljeEdiSWU3WE1OczBhZG9UZ3J4QzJEem5hX2hWS1gyb25vNi15UHBpcV9qVXlVcVBRM1RJYndnUmE0Z3BibUtyag?oc=5) |
-| 2026-09-10 | XPeng's IRON Humanoid Robot Walked Off a Real Production Line in Guangzhou - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFdMeTM2ajg1MHNESnktMVg1V2NmbklFS3N1UkxXc2hUMm5yMU42VWh1TGRwRXNkQWhERXRNcFgxa0N1ZUZFZjIydFFEZEVsMDlXdkwtZ2xHRjlOUEJ2MnRpS2FMTGo5UF9YanVZNHhUNWxXY1lVb3ZIeWZSbXNuYVFCWXBXN0NGSE16RXYyaG5nbWhOQ0pfN1dVdzAyVDZkdDFn?oc=5) |
+| 2026-09-10 | TianGong Ultra beat Usain Bolt's sprint record, now it needs a real job - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxOY0ZXV0NGQ2FOWGxnYm1WQnBIZjY2SktsOUhpbzFRbmlMQkFCR2RZZHNUanBfNjdKc1RGV2p2ZEwwZ0diZnJSM3ctakxhcU9hWWw3RndIMmVsQU93TEZKUVZXdl9fZFRSUGVhYWJUM1EtMnd6T2cwUlJKSW9DUXQ0allTb3FEWnBaYkc0SjlFci1xbWdoUUpKR1Z5ck5DUQ?oc=5) |

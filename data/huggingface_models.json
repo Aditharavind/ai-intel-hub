@@ -1,5 +1,14 @@
 [
   {
+    "model": "Siqi2022/robotwin-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Siqi2022/robotwin-checkpoints",
+    "date": "2026-09-10",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm",
     "downloads": 5,
     "likes": 0,
@@ -90,15 +99,6 @@
     "score": 0.1
   },
   {
-    "model": "RoboTok569/data",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RoboTok569/data",
-    "date": "2026-09-10",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "Rice-RobotPI-Lab/robotok-public",
     "downloads": 0,
     "likes": 4,
@@ -106,6 +106,42 @@
     "date": "2026-09-10",
     "keyword": "robot",
     "score": 0.9
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__flicker_p15__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__flicker_p15__pi05__seed_0",
+    "date": "2026-09-10",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0__steps_5k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0__steps_5k",
+    "date": "2026-09-10",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0__steps_3k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__blur__sim__all_cameras__live__pi05__seed_0__steps_3k",
+    "date": "2026-09-10",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "frenzyfreeze/rmbench-vla80k-variants-public",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/frenzyfreeze/rmbench-vla80k-variants-public",
+    "date": "2026-09-10",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__steps_5k",
@@ -153,15 +189,6 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__flicker_p15__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__flicker_p15__pi05__seed_0",
-    "date": "2026-09-10",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "sam-guided-vlas/train_1_2__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__steps_15k",
     "downloads": 0,
     "likes": 0,
@@ -184,33 +211,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__steps_3k",
-    "date": "2026-09-10",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "tensor-tailor/lingbot-vla-2.0-dMMgcXz6hr8T",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tensor-tailor/lingbot-vla-2.0-dMMgcXz6hr8T",
-    "date": "2026-09-10",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Rupesh386/vla_jepa_so101_ball_cup",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Rupesh386/vla_jepa_so101_ball_cup",
-    "date": "2026-09-10",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__steps_1k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__steps_1k",
     "date": "2026-09-10",
     "keyword": "vla",
     "score": 0.1
@@ -256,6 +256,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ",
+    "date": "2026-09-10",
+    "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "demimomi/UTokyo-MatsuoLab-PhysicalAI-Fundamentals-Spring-2026",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/demimomi/UTokyo-MatsuoLab-PhysicalAI-Fundamentals-Spring-2026",
     "date": "2026-09-10",
     "keyword": "physical ai",
     "score": 0.1
@@ -483,15 +492,6 @@
     "url": "https://huggingface.co/snu-aidas/Dynin-Robotics",
     "date": "2026-09-08",
     "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "demimomi/UTokyo-MatsuoLab-PhysicalAI-Fundamentals-Spring-2026",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/demimomi/UTokyo-MatsuoLab-PhysicalAI-Fundamentals-Spring-2026",
-    "date": "2026-09-07",
-    "keyword": "physical ai",
     "score": 0.1
   },
   {
