@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-10 18:43 UTC
+Last Updated: 2026-09-10 21:15 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -12,11 +12,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-10 | Introducing ChatGPT for Financial Services | OpenAI | [link](https://openai.com/index/introducing-chatgpt-financial-services) |
 | 2026-09-10 | Expanding AI access and cyber defense for federal, state, local, and tribal governments | OpenAI | [link](https://openai.com/index/expanding-ai-access-us-government) |
 | 2026-09-10 | Build more natural voice experiences with GPT‑Live‑1 in the API | OpenAI | [link](https://openai.com/index/introducing-gpt-live-1-in-the-api) |
+| 2026-09-10 | Introducing the Agents API | OpenAI | [link](https://openai.com/index/introducing-the-agents-api) |
 | 2026-09-10 | Rebuilding AUTOMATIC1111 with Gradio Workflow | Hugging Face | [link](https://huggingface.co/blog/gradio-workflow-1111) |
 | 2026-09-09 | The AI policy window is open. We need to act. | OpenAI | [link](https://openai.com/index/ai-policy-window) |
 | 2026-09-09 | GPT-6 Astra: The next generation in intelligence for work | OpenAI | [link](https://openai.com/index/gpt-6-astra-next-generation-work) |
 | 2026-09-09 | Paul Christiano joins OpenAI Foundation Board | OpenAI | [link](https://openai.com/index/paul-christiano-joins-openai-foundation-board) |
-| 2026-09-09 | IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license | Hugging Face | [link](https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -36,6 +36,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-09-10 | Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/) |
+| 2026-09-10 | Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M | Robotics Business Review | [link](https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m/) |
+| 2026-09-10 | Comau automates picking, handling, and palletizing for Decathlon | Robotics Business Review | [link](https://www.therobotreport.com/comau-automates-picking-handling-and-palletizing-for-decathlon/) |
 | 2026-09-09 | AGIBOT to explain how to scale humanoids from the lab to the real world at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/agibot-share-plans-scale-humanoids-from-lab-to-real-world-at-robobusiness/) |
 | 2026-09-09 | Vention opens Physical AI Lab for manufacturing in Montreal | Robotics Business Review | [link](https://www.therobotreport.com/vention-opens-physical-ai-lab-manufacturing-montreal/) |
 | 2026-09-09 | Unitree shares down 53% from IPO debut | Robotics Business Review | [link](https://www.therobotreport.com/unitree-shares-down-53-from-ipo-debut/) |
@@ -43,19 +45,17 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-08 | Why vision AI is the safety backbone of the automated job site | Robotics Business Review | [link](https://www.therobotreport.com/why-vision-ai-is-safety-backbone-of-automated-job-site/) |
 | 2026-09-08 | Boston Dynamics veteran launches Dynamic Creatures to bring characters to life with robotics | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/) |
 | 2026-09-08 | AI can’t outrun a humanoid’s hardware | Robotics Business Review | [link](https://www.therobotreport.com/ai-cant-outrun-a-humanoids-hardware/) |
-| 2026-09-07 | This Robot Will Draw Your Blood Now | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta) |
-| 2026-09-07 | Inbolt to discuss physical AI’s deployment problem at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/inbolt-ceo-to-discuss-physical-ais-deployment-problem-at-robobusiness/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-10 | Little Droid Has Party Mode | Hackaday | [link](https://hackaday.com/2026/09/10/little-droid-has-party-mode/) |
 | 2026-09-10 | 3D Imaging Without a Lens | Hackaday | [link](https://hackaday.com/2026/09/10/3d-imaging-without-a-lens/) |
 | 2026-09-10 | Custom AMOLED Wearable Makes Great Icebreaker | Hackaday | [link](https://hackaday.com/2026/09/10/custom-amoled-wearable-makes-great-icebreaker/) |
 | 2026-09-10 | Tech In Plain Sight: Meet The Robot That Does CPR | Hackaday | [link](https://hackaday.com/2026/09/10/tech-in-plain-sight-meet-the-robot-that-does-cpr/) |
 | 2026-09-10 | Open Source Acoustic Drone Detection | Hackaday | [link](https://hackaday.com/2026/09/10/open-source-acoustic-drone-detection/) |
 | 2026-09-10 | If It’s Electronic Paper, Why Not Print To It? | Hackaday | [link](https://hackaday.com/2026/09/10/if-its-electronic-paper-why-not-print-to-it/) |
 | 2026-09-10 | Origami Sensors That You Can Wear | Hackaday | [link](https://hackaday.com/2026/09/09/origami-sensors-that-you-can-wear/) |
-| 2026-09-10 | 3D Printable Lenticular Indicators | Hackaday | [link](https://hackaday.com/2026/09/09/3d-printable-lenticular-indicators/) |
 | 2026-09-10 | LattePanda Mu Ultra Compute Module features Intel Core Ultra 5 226V/7 256V Lunar Lake CPU for AI workloads | CNX Software | [link](https://www.cnx-software.com/2026/09/10/lattepanda-mu-ultra-compute-module-features-intel-core-ultra-5-226v-7-256v-lunar-lake-cpu-for-ai-workloads/) |
 | 2026-09-10 | Arduino UNO Media Carrier adds MIPI CSI/DSI and audio connectors to UNO Q and VENTUNO Q boards | CNX Software | [link](https://www.cnx-software.com/2026/09/10/arduino-uno-media-carrier-adds-mipi-csi-dsi-and-audio-connectors-to-uno-q-and-ventuno-q-boards/) |
 | 2026-09-10 | Chiplet-Based FPGAs Optimize Performance for Space Applications | Embedded.com | [link](https://www.embedded.com/chiplet-based-fpgas-optimize-performance-for-space-applications/) |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-10 | RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm | 5 | 0 | [link](https://huggingface.co/RoMALab/video2vla-robotwin15-ground-truth-latent-slice-idm) |
+| 2026-09-10 | RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora | 0 | 0 | [link](https://huggingface.co/RoMALab/hunyuanvideo-1.5-robotwin15-i2v-lora) |
 | 2026-09-10 | pollen-robotics/microduck-duck-detector | 0 | 0 | [link](https://huggingface.co/pollen-robotics/microduck-duck-detector) |
 | 2026-09-10 | fanzh03/robotwin_fewshot | 0 | 0 | [link](https://huggingface.co/fanzh03/robotwin_fewshot) |
 | 2026-09-10 | Datawhale/hello-robotics-chapter9 | 0 | 0 | [link](https://huggingface.co/Datawhale/hello-robotics-chapter9) |
@@ -85,20 +87,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-10 | milab-robot/alm1-0731-milab.60 | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.60) |
 | 2026-09-10 | dreamdifferent/vam-cross-level2-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-a42d2b4792 | 0 | 0 | [link](https://huggingface.co/dreamdifferent/vam-cross-level2-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-a42d2b4792) |
 | 2026-09-10 | Jason2Jason/lawam-actionvae-robotwin-teachers | 0 | 0 | [link](https://huggingface.co/Jason2Jason/lawam-actionvae-robotwin-teachers) |
-| 2026-09-10 | RoboTok569/data | 0 | 0 | [link](https://huggingface.co/RoboTok569/data) |
-| 2026-09-10 | Rice-RobotPI-Lab/robotok-public | 0 | 4 | [link](https://huggingface.co/Rice-RobotPI-Lab/robotok-public) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| copper-project/copper-rs | 1486 | Rust | 594.5 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 1024 | Python | 409.7 | [link](https://github.com/mosaico-labs/mosaico) |
+| copper-project/copper-rs | 1487 | Rust | 594.9 | [link](https://github.com/copper-project/copper-rs) |
+| mosaico-labs/mosaico | 1026 | Python | 410.5 | [link](https://github.com/mosaico-labs/mosaico) |
 | RobotecAI/rai | 588 | Python | 235.3 | [link](https://github.com/RobotecAI/rai) |
 | commaai/openpilot | 63626 | Python | 25450.5 | [link](https://github.com/commaai/openpilot) |
 | questdb/questdb | 17315 | Java | 6926.1 | [link](https://github.com/questdb/questdb) |
-| zauberzeug/nicegui | 16192 | Python | 6476.9 | [link](https://github.com/zauberzeug/nicegui) |
+| zauberzeug/nicegui | 16194 | Python | 6477.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15840 | C++ | 6336.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 15296 | Python | 6118.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 15300 | Python | 6120.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | google-deepmind/mujoco | 15042 | C++ | 6016.9 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 11426 | Rust | 4570.5 | [link](https://github.com/rerun-io/rerun) |
 
@@ -126,13 +126,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-10 | XPeng's IRON Humanoid Robot Walked Off a Real Production Line in Guangzhou - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFdMeTM2ajg1MHNESnktMVg1V2NmbklFS3N1UkxXc2hUMm5yMU42VWh1TGRwRXNkQWhERXRNcFgxa0N1ZUZFZjIydFFEZEVsMDlXdkwtZ2xHRjlOUEJ2MnRpS2FMTGo5UF9YanVZNHhUNWxXY1lVb3ZIeWZSbXNuYVFCWXBXN0NGSE16RXYyaG5nbWhOQ0pfN1dVdzAyVDZkdDFn?oc=5) |
 | 2026-09-09 | Runway buys France's Kinetix, crosses $200M ARR in physical AI push - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbmRQQTNmTGZuYUc3NXZsREdjTTdNRmU0VWFNSWRIaEczakd0cWNDMTkza3FTbUVGSnBCenBIRVVMWG5kNFRiV0EyYTRjZlN3WjlNMmI1bFA1V3FoN21aV01NOHBYb0Nrcm5TUzAwS0N0ZkhmX2Y1ZGZuVHc0S0stVFh2OG16N2FOSWdPZG1jbkF3TGVsTjA5cm9BRVV5aW5u?oc=5) |
 | 2026-09-09 | Physical AI Simulation Startup Antioch Raises $32M Series A Led by Greylock - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIT3J3cHRxTUpJVXNvb3B0NUJEWjhlZTRfS2Q4LUdBTXY4TDR3NmZQVHlaVWN5Qkp3OU0xRWhzaDhwMUpaWmZyVG14Wlpyb3N0VkVF?oc=5) |
-| 2026-09-09 | IDG Capital leads near-$100m seed round for nascent embodied AI startup PHYMI - dealstreetasia.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE1mNHNMMmdnSkd2WGp2NTJmbVZfbXRpcmRNSDZzbFlNbTZEbDVGN3B1dE1IZFdQZFJuRFI1QXhCSHB5ZDc4aEFMandpYm5NV1MzZ3pMWFVpYjdjX0JQTmhPNFo0UmItUnBRaXpNQktwV0U?oc=5) |
-| 2026-09-09 | Intelligent Driving Industry Veteran Liu Nianqiu Launches Startup, Secures Nearly $100 Million in Series A Financing - 36 Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqNTdoRGNaUG1PRjJRT05lR1luQVJuODd1X3h6VHNUNUwzU2ZTbkN0azdkTVBNS2M2X3dVTWM2ZGp2Q1VSaF9kNzJaOE5aVTM0ZU1n?oc=5) |
-| 2026-09-08 | Travis Kalanick jumps back into the robotaxi race with Atoms, his new physical AI startup - capmad.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNemJtdTVmUDVNTERWcGp4NUxuMGtLbHlQdnptek94NU5lWktiTkFrUlVad0NLOGhWeUsxT0RBc0g0b1dlOTI0eGduUXNfcXhPY0Zad0JxY2tiNzJYNlFXVFFiR0tqYnFhakE0LTMzbFczMDZITVotY0Q2YjROV2NKWElRdzR2Z2U2bjcwUzY0OEVMZ2ZtTE1IMzR4d1ZLX0JrM2ZKdjIyY1BLbDBQdXZhS0t6Z0tLQjg?oc=5) |
+| 2026-09-09 | IDG Capital leads near-$100m seed round for nascent embodied AI startup PHYMI - DealStreetAsia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTE1mNHNMMmdnSkd2WGp2NTJmbVZfbXRpcmRNSDZzbFlNbTZEbDVGN3B1dE1IZFdQZFJuRFI1QXhCSHB5ZDc4aEFMandpYm5NV1MzZ3pMWFVpYjdjX0JQTmhPNFo0UmItUnBRaXpNQktwV0U?oc=5) |
+| 2026-09-09 | Intelligent Driving Industry Veteran Liu Nianqiu Launches Startup, Secures Nearly $100 Million in Series A Financing - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqNTdoRGNaUG1PRjJRT05lR1luQVJuODd1X3h6VHNUNUwzU2ZTbkN0azdkTVBNS2M2X3dVTWM2ZGp2Q1VSaF9kNzJaOE5aVTM0ZU1n?oc=5) |
+| 2026-09-08 | Travis Kalanick jumps back into the robotaxi race with Atoms, his new physical AI startup - Capmad | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxNemJtdTVmUDVNTERWcGp4NUxuMGtLbHlQdnptek94NU5lWktiTkFrUlVad0NLOGhWeUsxT0RBc0g0b1dlOTI0eGduUXNfcXhPY0Zad0JxY2tiNzJYNlFXVFFiR0tqYnFhakE0LTMzbFczMDZITVotY0Q2YjROV2NKWElRdzR2Z2U2bjcwUzY0OEVMZ2ZtTE1IMzR4d1ZLX0JrM2ZKdjIyY1BLbDBQdXZhS0t6Z0tLQjg?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-10 | Data Quality Analyst | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
 | 2026-09-10 | Senior Staff Systems Integration Engineer (Tech Lead) | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6083311004) |
 | 2026-09-09 | Technical Coordinator, Data Creators (SP)  | Figure AI | São Paulo, Brazil | [link](https://job-boards.greenhouse.io/figureai/jobs/4701748006) |
 | 2026-09-09 | Senior Hardware Test Engineer - Mechatronics | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6019178004) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-04 | Helix Data Creator (SP)  | Figure AI | São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4708450006) |
 | 2026-09-04 | Senior Engineering Technician | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4711258006) |
 | 2026-09-03 | Business Intelligence Analyst | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6139707004) |
-| 2026-09-03 | Staff Systems Validation Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5833376004) |
 
 ## Automation
 

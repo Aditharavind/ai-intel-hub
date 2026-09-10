@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-10 18:43 UTC
+Generated: 2026-09-10 21:15 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-09-10 18:43 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83463 | 33385.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83465 | 33386.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63626 | 25450.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44529 | 17811.7 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44530 | 17812.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30480 | 12192.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | questdb/questdb | 17315 | 6926.1 | [link](https://github.com/questdb/questdb) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| vlabki/poscat-gv2-dual-policy | 167 | 50.2 | [link](https://huggingface.co/vlabki/poscat-gv2-dual-policy) |
-| dsaddsaf/lingbot-vla-2.0-FsMPCACo3YPN | 105 | 31.6 | [link](https://huggingface.co/dsaddsaf/lingbot-vla-2.0-FsMPCACo3YPN) |
 | jagwang/mungkeul-physical-ai | 87 | 26.2 | [link](https://huggingface.co/jagwang/mungkeul-physical-ai) |
 | SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch0.5 | 45 | 13.6 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch0.5) |
 | hfunknown/qwen3-8b-navigation-lora-stateless | 45 | 13.6 | [link](https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-stateless) |
+| hfunknown/qwen3-8b-navigation-lora-persistent | 45 | 13.6 | [link](https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-persistent) |
+| SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch1 | 44 | 13.3 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch1) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
