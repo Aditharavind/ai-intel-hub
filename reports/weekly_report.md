@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-11 15:17 UTC
+Generated: 2026-09-11 18:47 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-09-11 15:17 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83469 | 33387.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83472 | 33388.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63631 | 25452.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44531 | 17812.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30484 | 12193.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| questdb/questdb | 17315 | 6926.1 | [link](https://github.com/questdb/questdb) |
+| NaiboWang/EasySpider | 44532 | 17812.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30485 | 12194.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| questdb/questdb | 17316 | 6926.5 | [link](https://github.com/questdb/questdb) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -26,17 +26,17 @@ Generated: 2026-09-11 15:17 UTC
 | ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 89 | 26.8 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
 | jagwang/mungkeul-physical-ai | 87 | 26.2 | [link](https://huggingface.co/jagwang/mungkeul-physical-ai) |
 | SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch1 | 77 | 23.2 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch1) |
-| SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch0.5 | 45 | 13.6 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch0.5) |
 | hfunknown/qwen3-8b-navigation-lora-stateless | 45 | 13.6 | [link](https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-stateless) |
+| hfunknown/qwen3-8b-navigation-lora-persistent | 45 | 13.6 | [link](https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-persistent) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
-| 2026-09-10 | Skild AI |  | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTFBTVm5nbU5PX0dGV2ZvaVo0MGZzV0sxdmRwdFFoM2x4aWJySGhmVjRJbUVSb3R6MHRiZ2M4dHNhTmlfTjV1cHVqRFNDNXo4d0QydFozbGRKanppdXN1dHBYbDZqYndUcGU5NUUw?oc=5) |
 | 2026-09-10 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUDJ2bkE1Y1F6OFQ2Z0x1MjYwY3RBZmNzQ29BSnlZT3QxVjdkX1FXd3R3bzFiSGhUaXJWaEFXRktDRkEzMkl6c2F3Yjk0VmpoaTRaS2UzNk15U00xOWQwWi1wejhCa1RudkVpX2ZJSXdWNGhFYlZLR2UxMDdVQnU5LWVyN1dudS12RlprdzJSUlBIeEhYdlo3VkxYUEl2RXc2anVVTnk0ZEF4WDlqRHRSWVhFdUhvZm1hUXoxbTd2WWhVbGcw?oc=5) |
 | 2026-09-10 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWXp3X09CWnhURUQ3R1hCSmwyWkRkZTBCd1BWS056ZlRFblJTQlE3YnVTZ3RibVBKOU9vRkZJUEZRWXFnMG1CMXV5cGhiZTBzeFhqVDB0VHlEcUstVGxnamVCUFpjNTVLRHhyb0Y1Y1pHY0RZWEpvRnVLdHVZSkR0aW02NVI3cHdqQkRHMlhFWkh6d1FST3BMOXFDbm1pVklkbFJNY255TXNMOTDSAbgBQVVfeXFMTUswM0U2NFBiVzdZUUtWblc3d0tWbF9LQTItODFGeHhRaW43TDNZLXRnTmE2WkVwTURzMTl0RThBaG1ldGwzM2xmMUwyOXZFbG1Ocm9pNmVsZGhiVkR0dDd3QkJHcnc4T0g4azZGTmx6UDNHRno5dmxhNDVPcjlvN2FtcTNFX2NHTTJGMGdKZFZ0NnVCenFYRkROMTBKT0JzMTJqLXEwbXhTWXM5b2JRb2RxMmdWNXpLdQ?oc=5) |
-| 2026-09-10 | LeRobot |  | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeVNENXN3U2ZUZk41ZnFiam5fc0FHcmpHcG5odUNhOXI5amdOSzJXTmg4dGt2SGxWVUxjU3JINkNnUS1WamxoUFlLS0twWEp2RUV2NE4tZXozaURQbGxlZWs1SnVESzhrWDBPUnAtSjN4Z2VEQ0RmY0ZjOEMtbUZrZnUwSXhKOENDVnUzMXVsR0l3aEIwWHpVem9rVVd3RElScHd4TmVmZWxUNlNKN0Y0ZHhBM1FQRDZ0QkVxWVQzSDRtUUNNb2c?oc=5) |
 | 2026-09-09 | Unitree |  | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTFBwMklmTUEtY2pkR0ZEbVZlV0g5a0VRUkw0RGJOQlFIUldSZGk0dmsyUGpzejVscGlDY0dMM3p1NklrcEdNbGwxSU45RU81Q1AwSGJQakZvenk3VmtaVHZubndfU0xwcm5SdVJLRVBFMHFNX184emY1SQ?oc=5) |
+| 2026-09-08 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3ZMdEt4dnFNVFZreDNVNThJazlZWGZnelRWS1dLVWw2a1NKejlZUTFfMkE3WnhYUTl0UFpqNVhQY2JlcTNYWk0yRUVFMWNibDhEd1BvcTF4RmNXV1d4TVFocnpJWHk3clR4aTkyYmtQU25SZU1TSVNkTkVtZ2wteVpob0dNeXRpWGw2MFl5ZHJuZHp4S2kyVW5nekhkUHc?oc=5) |
+| 2026-09-07 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxNallKUzktNHBLcnV4YW9sZ3liNGpfVVBQdDZHWUY4UTUwVnZGZXhDUWJ2MExhTWN5M2xGdVFzWkRwT2drMlQ5TmRNeWdCaHdKcW5uQ2ZYSko1WTBFTW56ZnRPR0lXdVlhVmdfWnF5QU9uLVJDZVF2b2RobUViU2F3VEUtQ0NzcHlJU1hIT0NYVUtpeWRtY1E?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
