@@ -1,5 +1,23 @@
 [
   {
+    "model": "RhinoceratopsvsSuperpuma/robot_learning_tutorial_diffusion",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RhinoceratopsvsSuperpuma/robot_learning_tutorial_diffusion",
+    "date": "2026-09-11",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "maxlii/Robotwin-piper-x-dual",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/maxlii/Robotwin-piper-x-dual",
+    "date": "2026-09-11",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "imayakakimura/robotics-vision-language-survey",
     "downloads": 0,
     "likes": 0,
@@ -90,21 +108,12 @@
     "score": 0.3
   },
   {
-    "model": "isldgist/mimicgen-robot-transfer-4embodiment-ee6-ownnorm",
+    "model": "DuongKO/lingbot-vla-2.0-mj7UvtM1reQD",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/isldgist/mimicgen-robot-transfer-4embodiment-ee6-ownnorm",
+    "url": "https://huggingface.co/DuongKO/lingbot-vla-2.0-mj7UvtM1reQD",
     "date": "2026-09-11",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "junbrro/egopi_bbtoc_robot_v5_20hz_AB_cogalign_natural_sd0_seed42_bsz64_30k_historical_gas2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/egopi_bbtoc_robot_v5_20hz_AB_cogalign_natural_sd0_seed42_bsz64_30k_historical_gas2",
-    "date": "2026-09-11",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -207,15 +216,6 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_hard_items__mask__blur__sim__all_cameras__live__pi05__seed_0__steps_3k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__mask__blur__sim__all_cameras__live__pi05__seed_0__steps_3k",
-    "date": "2026-09-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "mohendy/world-model-attack-checkpoints",
     "downloads": 0,
     "likes": 0,
@@ -252,6 +252,33 @@
     "score": 1.2
   },
   {
+    "model": "logits/sana_rwm_policy_from_pretrained_robodojo_320px_1e-4_cosine_clip1_2node",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/logits/sana_rwm_policy_from_pretrained_robodojo_320px_1e-4_cosine_clip1_2node",
+    "date": "2026-09-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Xiaolihai/etd-policy-rl-only-routing",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Xiaolihai/etd-policy-rl-only-routing",
+    "date": "2026-09-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ut-amrl/foresight-waypoint-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ut-amrl/foresight-waypoint-policy",
+    "date": "2026-09-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "logits/sana_rwm_policy_robodojo_320px_eef_s157000_lr1e-4cos_wd1e-2_alw1",
     "downloads": 0,
     "likes": 0,
@@ -265,15 +292,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Xiaolihai/etd-policy-dpo-judgment",
-    "date": "2026-09-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "logits/sana_rwm_policy_from_pretrained_robodojo_320px_1e-4_cosine_clip1_2node",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/logits/sana_rwm_policy_from_pretrained_robodojo_320px_1e-4_cosine_clip1_2node",
     "date": "2026-09-11",
     "keyword": "policy",
     "score": 0.1
@@ -340,24 +358,6 @@
     "date": "2026-09-11",
     "keyword": "policy",
     "score": 1.3
-  },
-  {
-    "model": "svenschreiber/clean-toilet-policy-pi05-mem",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/svenschreiber/clean-toilet-policy-pi05-mem",
-    "date": "2026-09-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "pabloks7764/omx_act_policy_60ep_ft3k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/pabloks7764/omx_act_policy_60ep_ft3k",
-    "date": "2026-09-11",
-    "keyword": "policy",
-    "score": 0.1
   },
   {
     "model": "Lucas-dubois/robotics-vision-language-analysis",

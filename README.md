@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-11 21:22 UTC
+Last Updated: 2026-09-11 23:35 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -12,8 +12,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-10 | Now everyone can put data to work | OpenAI | [link](https://openai.com/index/put-data-to-work) |
 | 2026-09-10 | Introducing ChatGPT for Financial Services | OpenAI | [link](https://openai.com/index/introducing-chatgpt-financial-services) |
 | 2026-09-10 | Expanding AI access and cyber defense for federal, state, local, and tribal governments | OpenAI | [link](https://openai.com/index/expanding-ai-access-us-government) |
-| 2026-09-10 | Build more natural voice experiences with GPT‑Live‑1 in the API | OpenAI | [link](https://openai.com/index/introducing-gpt-live-1-in-the-api) |
 | 2026-09-10 | Introducing the Agents API | OpenAI | [link](https://openai.com/index/introducing-the-agents-api) |
+| 2026-09-10 | Build more natural voice experiences with GPT‑Live‑1 in the API | OpenAI | [link](https://openai.com/index/introducing-gpt-live-1-in-the-api) |
 | 2026-09-10 | Rebuilding AUTOMATIC1111 with Gradio Workflow | Hugging Face | [link](https://huggingface.co/blog/gradio-workflow-1111) |
 | 2026-09-09 | The AI policy window is open. We need to act. | OpenAI | [link](https://openai.com/index/ai-policy-window) |
 | 2026-09-09 | GPT-6 Astra: The next generation in intelligence for work | OpenAI | [link](https://openai.com/index/gpt-6-astra-next-generation-work) |
@@ -49,34 +49,25 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-11 | Trying to Fix a Suspiciously Cheap Enterprise-Grade Network Switch | Hackaday | [link](https://hackaday.com/2026/09/11/trying-to-fix-a-suspiciously-cheap-enterprise-grade-network-switch/) |
 | 2026-09-11 | Making a Neo Nuvistor Project in 2026 | Hackaday | [link](https://hackaday.com/2026/09/11/making-a-neo-nuvistor-project-in-2026/) |
 | 2026-09-11 | Hand-Coded ASM Powers Homebrew SNES Game | Hackaday | [link](https://hackaday.com/2026/09/11/hand-coded-asm-powers-homebrew-snes-game/) |
 | 2026-09-11 | Hackaday Podcast Episode 386: Doomscroll Tamagotchis, Clavichords, and Vibrotrucks | Hackaday | [link](https://hackaday.com/2026/09/11/hackaday-podcast-episode-386-doomscroll-tamagotchis-clavichords-and-vibrotrucks/) |
 | 2026-09-11 | This Machine Makes 35mm (Almost) Film | Hackaday | [link](https://hackaday.com/2026/09/11/this-machine-makes-35mm-almost-film/) |
 | 2026-09-11 | This Week in Security: It’s Patch Tuesday Again, TVs Spying, Supply Chain Worms Return, Prolonged Hack Impacts, Stolen IDs | Hackaday | [link](https://hackaday.com/2026/09/11/this-week-in-security-its-patch-tuesday-again-tvs-spying-supply-chain-worms-return-prolonged-hack-impacts-stolen-ids/) |
 | 2026-09-11 | Purely Random TV In Your Browser | Hackaday | [link](https://hackaday.com/2026/09/11/purely-random-tv-in-your-browser/) |
-| 2026-09-11 | This Circuit Sculpture is an ESP32-Powered Console | Hackaday | [link](https://hackaday.com/2026/09/11/this-circuit-sculpture-is-an-esp32-powered-console/) |
 | 2026-09-11 | Renesas RZ/G3L & RZ/G3SE – Ultra-low-power Cortex-A55 MPUs for industrial HMI and IoT applications | CNX Software | [link](https://www.cnx-software.com/2026/09/11/renesas-rz-g3l-rz-g3se-ultra-low-power-cortex-a55-mpus-for-industrial-hmi-and-iot-applications/) |
 | 2026-09-11 | Amlogic A123X and C305X2 Arm Cortex-A320 SoCs target industrial and low-power AIoT applications | CNX Software | [link](https://www.cnx-software.com/2026/09/11/amlogic-a123x-and-c305x2-arm-cortex-a320-socs-target-industrial-and-low-power-aiot-applications/) |
 | 2026-09-11 | Processors and Chiplet-Based FPGAs for Mission-Critical Systems, Scalable Physical AI Solutions: Embedded Week Insights | Embedded.com | [link](https://www.embedded.com/processors-and-chiplet-based-fpgas-for-mission-critical-systems-scalable-physical-ai-solutions-embedded-week-insights/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-09-10 | A Chip-scale Space-time Multiplexed Gaussian Boson Sampling Processor Beyond 10,000 Photons | [link](https://arxiv.org/pdf/2609.11922v1) |
-| 2026-09-10 | EVPeriscope: Extended Perception across Aerial and Ground Vehicles with Event-based Propeller Tracking | [link](https://arxiv.org/pdf/2609.11920v1) |
-| 2026-09-10 | MindTopo: Can Foundation Models Reason in Topological Space? | [link](https://arxiv.org/pdf/2609.11900v1) |
-| 2026-09-10 | CausalArena: Benchmarking Causal Discovery in the Foundation Model Era | [link](https://arxiv.org/pdf/2609.11897v1) |
-| 2026-09-10 | Learning JWST. I. A Foundation Model for New Population Discoveries and Morphology-Aware Photometric Redshift Measurements in the JADES Survey | [link](https://arxiv.org/pdf/2609.11879v1) |
-| 2026-09-10 | UniMPA: A Unified Memory-Prediction-Action Model via Action-Grounded Transition Modeling | [link](https://arxiv.org/pdf/2609.11875v1) |
-| 2026-09-10 | Evaluating Time-Series Foundation Models and Multimodal Dietary Context for CGM Forecasting | [link](https://arxiv.org/pdf/2609.11872v1) |
-| 2026-09-10 | Learning Agent-based Model Predictive Control for Holistic Vehicle Performance | [link](https://arxiv.org/pdf/2609.11871v1) |
-| 2026-09-10 | Target leakage, not model class, explains reported accuracy in survey-based cardiovascular screening: a leakage-tiered audit of glass-box and tabular foundation models | [link](https://arxiv.org/pdf/2609.11838v1) |
-| 2026-09-10 | Predefined-Time Resilient Integral Reinforcement Learning for Input-Constrained Unknown Nonlinear Systems Under FDI Attacks and Disturbances: A Fully Data-Driven Approach | [link](https://arxiv.org/pdf/2609.11815v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-11 | RhinoceratopsvsSuperpuma/robot_learning_tutorial_diffusion | 0 | 0 | [link](https://huggingface.co/RhinoceratopsvsSuperpuma/robot_learning_tutorial_diffusion) |
+| 2026-09-11 | maxlii/Robotwin-piper-x-dual | 0 | 0 | [link](https://huggingface.co/maxlii/Robotwin-piper-x-dual) |
 | 2026-09-11 | imayakakimura/robotics-vision-language-survey | 0 | 0 | [link](https://huggingface.co/imayakakimura/robotics-vision-language-survey) |
 | 2026-09-11 | hackathon1-fmm/act_cube_sort_robot_1_v0_h200x4_20k | 0 | 0 | [link](https://huggingface.co/hackathon1-fmm/act_cube_sort_robot_1_v0_h200x4_20k) |
 | 2026-09-11 | TULLUS/Xiaomi-Robotics-U0-4B-Sequence | 0 | 0 | [link](https://huggingface.co/TULLUS/Xiaomi-Robotics-U0-4B-Sequence) |
@@ -85,22 +76,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-11 | huzican0419/robotwin_piper_x_sft_step24k | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_sft_step24k) |
 | 2026-09-11 | damnthatai/All_Is_Full_of_Love-Bjork_Humanoid_Robot-Krea2Turbo | 0 | 0 | [link](https://huggingface.co/damnthatai/All_Is_Full_of_Love-Bjork_Humanoid_Robot-Krea2Turbo) |
 | 2026-09-11 | djbob/balance_robot | 0 | 0 | [link](https://huggingface.co/djbob/balance_robot) |
-| 2026-09-11 | RobotisSW/clean_table_distinguish_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/clean_table_distinguish_100k) |
-| 2026-09-11 | LhLuke/robot_models | 0 | 1 | [link](https://huggingface.co/LhLuke/robot_models) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3259 | Python | 1303.7 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3261 | Python | 1304.5 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1488 | Rust | 595.3 | [link](https://github.com/copper-project/copper-rs) |
+| Edgenesis/shifu | 1435 | Go | 574.1 | [link](https://github.com/Edgenesis/shifu) |
 | mosaico-labs/mosaico | 1030 | Python | 412.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 473 | Shell | 189.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| Developer-Y/cs-video-courses | 83475 |  | 33390.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63634 | Python | 25453.7 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83476 |  | 33390.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63636 | Python | 25454.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44533 | JavaScript | 17813.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| questdb/questdb | 17317 | Java | 6926.9 | [link](https://github.com/questdb/questdb) |
+| questdb/questdb | 17319 | Java | 6927.7 | [link](https://github.com/questdb/questdb) |
 | zauberzeug/nicegui | 16200 | Python | 6480.1 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15846 | C++ | 6338.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -120,12 +109,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-09-11 | HD Hyundai Robotics invests $9.7 mn in Korean physical AI startup - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTE5mWTBpeTljcjBWMDYxbHA5bWNOZVVxMVZYTkpkS0pVTDBxRVluLXo3MGxQSElncDVLYzkwdHFLRElTVVN3LTRtUVRYVmwzYVJsY2xTR1JpYWRVLVMzUC02T2I5dm9LOHJSUWlV?oc=5) |
-| 2026-09-11 | Automated chip design, physical AI lead startup activity across APAC: AWS exec - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeEkzS0p0a3gyaURSQVdDOUY1MVM3bDFua05WcGhVQWRRZXc3TlJBSlpJbkVGX1VMWFlTWDYzdDhyelo2YUNmTmUyZ29odjBPZUprOVpTM3JuT3ZKN25teXdvbkMtZnhMakkzcUt4azFZTDdHVUVNbU5mWnRoVmtlM0JSTk5qUGtaMFM5ZFRfYkJxa25kazA5ODB3bWt0YWduRFdYa1ROOE5oZVItWGRlLXRQUC1qVUFyWW9rZmN6Tlg3R2h3TkdYQ3J2V0ZqbmNXTVFqdVd5ZWlSanhu0gHiAUFVX3lxTFAxdm5iaDF0eWJfTVliN0pxc3RMQ1NDb1FzZUtGMldGejVPN2lIbjlWYlpKTkNzWGkwdHFOVzRiNERHREFYUWVaeGUySndOUWp2bEd2azRURHdGdmVBWHhoZUVLSkoya0VJM3NmMzlxOERwLU5oUmdIdldlZWxMLXNHcXd4NTF6SFQtTEQ0RGZMNU5paVNoM3E0VU9Kd3R0X0xLOVJtZ1Vybmw4NV9ZdEQyWjY2THg0TDJGT3hnSkpteVhFTG44aWZTNVRWUDJsUG8zMEstaVdLOUNZNnhtTjF2NUE?oc=5) |
+| 2026-09-11 | Automated chip design, physical AI lead startup activity across APAC: AWS exec - economictimes.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeEkzS0p0a3gyaURSQVdDOUY1MVM3bDFua05WcGhVQWRRZXc3TlJBSlpJbkVGX1VMWFlTWDYzdDhyelo2YUNmTmUyZ29odjBPZUprOVpTM3JuT3ZKN25teXdvbkMtZnhMakkzcUt4azFZTDdHVUVNbU5mWnRoVmtlM0JSTk5qUGtaMFM5ZFRfYkJxa25kazA5ODB3bWt0YWduRFdYa1ROOE5oZVItWGRlLXRQUC1qVUFyWW9rZmN6Tlg3R2h3TkdYQ3J2V0ZqbmNXTVFqdVd5ZWlSanhu0gHiAUFVX3lxTFAxdm5iaDF0eWJfTVliN0pxc3RMQ1NDb1FzZUtGMldGejVPN2lIbjlWYlpKTkNzWGkwdHFOVzRiNERHREFYUWVaeGUySndOUWp2bEd2azRURHdGdmVBWHhoZUVLSkoya0VJM3NmMzlxOERwLU5oUmdIdldlZWxMLXNHcXd4NTF6SFQtTEQ0RGZMNU5paVNoM3E0VU9Kd3R0X0xLOVJtZ1Vybmw4NV9ZdEQyWjY2THg0TDJGT3hnSkpteVhFTG44aWZTNVRWUDJsUG8zMEstaVdLOUNZNnhtTjF2NUE?oc=5) |
 | 2026-09-11 | China's Embodied AI Startup Kinetix AI Raises Over 500 Million Yuan in Angel+ Round Led by Temasek-Backed Vertex Ventures - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBDQWN5VnpQMDVnQUQ4V25uRnc2M0MzRGs3NFBBYTdMaEtOMVlNdVp3UEZsUno0WkZHd3VtVXd4OEM1OVZxQWE2SU5XbjAzd3ZjQUZCY1V0TTM3bHVSSjNUcTlwZDl1WFlNRmllTFMwTGF1VlM5TWc?oc=5) |
 | 2026-09-11 | A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDBpLTJ2bkg4MW1WX3Vzbk1vY1ViazJMZEYyWHlibW11dWFxTl85dEZNWUlVVHNmVEhkNkRvTjRxcVVDVk5pM01obkpMVXR5b0ExeGl3N3F5T0Vtd0NUMXplZzdpWUVNbGhyTUtKcFhGa1ZiUWNVTG1fbW1STk9JUUxveGtiOE1JdTVhbGlZOU1xZlFtU3dXYdIBngFBVV95cUxNQUt5TGk3QjZjNUFJTENnTDYtZjBvdFptNHVlTFlIaEF4WERaTjdnd21oR0l3QzFNdW85NGY5alNPY1A0WEs4S19rdGlKc2NKbWRXczktWmdBVG9IVjAyRUFtbnhEX1J1cUl0M1Nkbm9lcUhtNkE5bHk0WXdNUWhaQXhRcHNzU1BMa3BoNmpYNFZsZjNuZUN3UGNRSHc3QQ?oc=5) |
 | 2026-09-11 | Chinese Humanoid Robot Startup Accuses OpenAI of Technology Plagiarism, Launches Legal Action - finance.biggo.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9XY0o1S0NDSGVUWkhHSGRGN214dTFrZ0hrQ1pVVlFrQk8zM0hER1hlYldpMFR5emNmYUoxMDNJZzdKMmh5SFJESEdfOVc4UWx1eVBvRXdseTltSkVRZTJQU3FPSE1mYXVNb1hTZFZDZHVCR3h3S3c?oc=5) |
 | 2026-09-11 | The world's largest, Google is queuing up to buy Figure, and this team has built the most popular robot in Silicon Valley. - 36 Kr | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zdFVHSnpjNXRvd2RlbWdjT0NINV9MR2dET0I4UkIyNlA0MHhxREtNMjl6RUpyT0liaTFCRDlGX0J1STVjYTFNaEM2Y0hxRXZpQk84?oc=5) |
-| 2026-09-10 | Japan's Algomatic Dynamics Laucnhes with $32.5M in Funding to Develop Physical AI, Robotic Hand - theaiinsider.tech | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUTMtcTc4VS1kR3EwTWNRQ0s5ckFoNmtsUkVUallldkZMckswNTFpcHV1aEtTUUl3ZHd0N0tRMkFfMFFPZUI0TjFGclFKendpcng2aFBJSVlHZ0hXenZfYnY4dGRHSjdEUWd6WnY0X3MxdEZyMHNqMlljY01iaEFqSDhrc19qWmZZQkJVb3ktZ0hzeFdWbXFFTjJtUmV5cEFLTXlUeGd3YVIwcE45UDhGOUtOZEpFZEhlVGdCWVlXc1dRTUZhQ2RhNTBR?oc=5) |
+| 2026-09-10 | Japan's Algomatic Dynamics Laucnhes with $32.5M in Funding to Develop Physical AI, Robotic Hand - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUTMtcTc4VS1kR3EwTWNRQ0s5ckFoNmtsUkVUallldkZMckswNTFpcHV1aEtTUUl3ZHd0N0tRMkFfMFFPZUI0TjFGclFKendpcng2aFBJSVlHZ0hXenZfYnY4dGRHSjdEUWd6WnY0X3MxdEZyMHNqMlljY01iaEFqSDhrc19qWmZZQkJVb3ktZ0hzeFdWbXFFTjJtUmV5cEFLTXlUeGd3YVIwcE45UDhGOUtOZEpFZEhlVGdCWVlXc1dRTUZhQ2RhNTBR?oc=5) |
 | 2026-09-10 | Embodied AI startup PHYMI raises nearly US$100 million in seed funding - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzZ5X2d4NC1uOUZrTjlCTHVIcXdhX0Q1NUVVaXAxdHNvenJCNkhCUzVCZ2NUXzRhNmo5enUxXy15QzQ1RGR5OVY1QlRDaHRobTN5QXIzSjNrdXdmc3NTWi02UTljeEdiSWU3WE1OczBhZG9UZ3J4QzJEem5hX2hWS1gyb25vNi15UHBpcV9qVXlVcVBRM1RJYndnUmE0Z3BibUtyag?oc=5) |
 | 2026-09-10 | XPeng's IRON Humanoid Robot Walked Off a Real Production Line in Guangzhou - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFdMeTM2ajg1MHNESnktMVg1V2NmbklFS3N1UkxXc2hUMm5yMU42VWh1TGRwRXNkQWhERXRNcFgxa0N1ZUZFZjIydFFEZEVsMDlXdkwtZ2xHRjlOUEJ2MnRpS2FMTGo5UF9YanVZNHhUNWxXY1lVb3ZIeWZSbXNuYVFCWXBXN0NGSE16RXYyaG5nbWhOQ0pfN1dVdzAyVDZkdDFn?oc=5) |
 | 2026-09-09 | Runway buys France's Kinetix, crosses $200M ARR in physical AI push - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbmRQQTNmTGZuYUc3NXZsREdjTTdNRmU0VWFNSWRIaEczakd0cWNDMTkza3FTbUVGSnBCenBIRVVMWG5kNFRiV0EyYTRjZlN3WjlNMmI1bFA1V3FoN21aV01NOHBYb0Nrcm5TUzAwS0N0ZkhmX2Y1ZGZuVHc0S0stVFh2OG16N2FOSWdPZG1jbkF3TGVsTjA5cm9BRVV5aW5u?oc=5) |
