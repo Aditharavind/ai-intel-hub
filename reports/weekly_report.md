@@ -1,15 +1,15 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-10 23:27 UTC
+Generated: 2026-09-11 01:33 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-09-09 | Programmable World Model | [link](https://arxiv.org/pdf/2609.10540v1) |
-| 2026-09-09 | Show-Harness: Just a VLM Agent Can Play Robots | [link](https://arxiv.org/pdf/2609.10522v1) |
-| 2026-09-09 | BrainTaskonomy: Learning How to Pretrain and What to Transfer in fMRI Foundation Models | [link](https://arxiv.org/pdf/2609.10518v1) |
-| 2026-09-09 | DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation | [link](https://arxiv.org/pdf/2609.10506v1) |
-| 2026-09-09 | Coastal Environment Generation with HoloOcean | [link](https://arxiv.org/pdf/2609.10484v1) |
+| 2026-09-10 | Quasi-static analysis of passive stability in a novel underactuated multi-finger hand | [link](https://arxiv.org/pdf/2609.11579v1) |
+| 2026-09-10 | Memory as Plans: World-Action Modeling with Memory-Grounded Planning | [link](https://arxiv.org/pdf/2609.11561v1) |
+| 2026-09-10 | CAP: Continuously Adaptive Perception-Blind Humanoid Locomotion via Learned Denoising | [link](https://arxiv.org/pdf/2609.11553v1) |
+| 2026-09-10 | Using Automated Vehicles Operational Data to Confirm Safety and Anticipate Threats | [link](https://arxiv.org/pdf/2609.11549v1) |
+| 2026-09-10 | World in World: Explore the World with World Models | [link](https://arxiv.org/pdf/2609.11548v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
@@ -41,8 +41,8 @@ Generated: 2026-09-10 23:27 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-09-11 | India's physical AI boom spawns a new class of robot workers - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWldCTHJmeFo3U2ZPSHdBd2tFMThsUEY2UWxSYU13MkpPYlhTcWxUM1ItZU56d05UUGJqbHctNFVEOEVYNXk1YXdGYUlKUTBkMnViWW5WaS1CV2lXS0szdTNDWi04b2I0cVJ6eV9sWDZMcWJGOUdpQWdGX0RhMWpoU09xUFVSRHV6cXl5UF9MejgxclFxeXVHUjBFQXFYdEdlX0pxYVVtNE15TGstUk1sdUtSR1VtMnM4RWVOdVdiV2xvdHpid0Q5enFOSG1TMW9jdjlWUHc0b3R0cTdVWlVHMUpsVVpPaVZ2N0NfMVVSMmVVY2FjU2RCNDFZeTVqZ9IBgwJBVV95cUxOdzVTZ0pOVFVNRGlLSGhvYVlnWG9BVGpTYmRfekFCWHhTZmxCMFBiazVMM281Y3kxMTNRY3JBcmJQMm5TaE9mVzNIY093Qk9rZmthQ2ZCUlgyU1hXdktIc1FSdk9sN2xiOG5LdW1vTnpMZGE4eGg4YUZoN1N1Rm9ZR1dzQWFncTJkOEFEc19HbmF3Z2syT3VoNXhrZmhQZ0ttVVNNbE9EUk5ZRllqc1FIYzg2VVBiSmI2cEtSc1FYcjFTNS1rSG1CT3JrNlFrSnVYckhHZHNjN240Qk1yYWZjNXZRdVhENXVYTDFVcVhFa3J2cTNqMks4UlhpNE1XUG1qUFJN?oc=5) |
 | 2026-09-10 | Japan's Algomatic Dynamics Laucnhes with $32.5M in Funding to Develop Physical AI, Robotic Hand - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUTMtcTc4VS1kR3EwTWNRQ0s5ckFoNmtsUkVUallldkZMckswNTFpcHV1aEtTUUl3ZHd0N0tRMkFfMFFPZUI0TjFGclFKendpcng2aFBJSVlHZ0hXenZfYnY4dGRHSjdEUWd6WnY0X3MxdEZyMHNqMlljY01iaEFqSDhrc19qWmZZQkJVb3ktZ0hzeFdWbXFFTjJtUmV5cEFLTXlUeGd3YVIwcE45UDhGOUtOZEpFZEhlVGdCWVlXc1dRTUZhQ2RhNTBR?oc=5) |
 | 2026-09-10 | South Korea's 'Try Everything' Draws Crowds at DDP as Physical AI Robots Steal the Show - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFB6UWVxNVVodVpxWjNTanZld0ZVWFpiXy1oVVYweW9tLW9JYVJfRFpxTFFqbTRSck01WlgzcV9IMHQzMDdVQUdNNHZJUFZicnRYYm50UGstT0V1VWFqWnBmLW1vMl9tcUYyTVVfVWhYdGpjRlYwdUE?oc=5) |
-| 2026-09-10 | Analog Devices to Acquire Alif Semiconductor in $1.5bn Physical AI Deal - Electronics For You BUSINESS | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUd2d2Y0OTVvTUJVcDVJUDZiQ0dacXQwUktLRU5pMXZuUU5OVXB1OTZZUV81UG9rOHgtMWRJbVRMNGVkeW9janYxYlpnUWZzT2RtYUstYW5ucDVGQ2k0X0FtRVFDYmh6cEhUWFk5NTlqeElabmVOSVRPenhQaDF0alo3R2I1S2QxbllMVVhBTDBoOFVIXzZYYUd1dF90Y0YwRmVCNFB4bmcxbTd1WVMycDVGNDFUS2JycllF?oc=5) |
 | 2026-09-10 | Embodied AI startup PHYMI raises nearly US$100 million in seed funding - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzZ5X2d4NC1uOUZrTjlCTHVIcXdhX0Q1NUVVaXAxdHNvenJCNkhCUzVCZ2NUXzRhNmo5enUxXy15QzQ1RGR5OVY1QlRDaHRobTN5QXIzSjNrdXdmc3NTWi02UTljeEdiSWU3WE1OczBhZG9UZ3J4QzJEem5hX2hWS1gyb25vNi15UHBpcV9qVXlVcVBRM1RJYndnUmE0Z3BibUtyag?oc=5) |
-| 2026-09-10 | TianGong Ultra beat Usain Bolt's sprint record, now it needs a real job - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxOY0ZXV0NGQ2FOWGxnYm1WQnBIZjY2SktsOUhpbzFRbmlMQkFCR2RZZHNUanBfNjdKc1RGV2p2ZEwwZ0diZnJSM3ctakxhcU9hWWw3RndIMmVsQU93TEZKUVZXdl9fZFRSUGVhYWJUM1EtMnd6T2cwUlJKSW9DUXQ0allTb3FEWnBaYkc0SjlFci1xbWdoUUpKR1Z5ck5DUQ?oc=5) |
+| 2026-09-10 | XPeng's IRON Humanoid Robot Walked Off a Real Production Line in Guangzhou - startupfortune.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFdMeTM2ajg1MHNESnktMVg1V2NmbklFS3N1UkxXc2hUMm5yMU42VWh1TGRwRXNkQWhERXRNcFgxa0N1ZUZFZjIydFFEZEVsMDlXdkwtZ2xHRjlOUEJ2MnRpS2FMTGo5UF9YanVZNHhUNWxXY1lVb3ZIeWZSbXNuYVFCWXBXN0NGSE16RXYyaG5nbWhOQ0pfN1dVdzAyVDZkdDFn?oc=5) |
