@@ -1,5 +1,12 @@
 [
   {
+    "title": "This Week in Security: It’s Patch Tuesday Again, TVs Spying, Supply Chain Worms Return, Prolonged Hack Impacts, Stolen IDs",
+    "source": "Hackaday",
+    "date": "2026-09-11",
+    "url": "https://hackaday.com/2026/09/11/this-week-in-security-its-patch-tuesday-again-tvs-spying-supply-chain-worms-return-prolonged-hack-impacts-stolen-ids/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Several times this summer, Microsoft&#8217;s Patch Tuesday, the monthly roundup of major security patches for Microsoft products, has included record-breaking numbers of security fixes. The August 2026 patch set actually <a class=\"read-more\" href=\"https://hackaday.com/2026/09/11/this-week-in-security-its-patch-tuesday-again-tvs-spying-supply-chain-worms-return-prolonged-hack-impacts-stolen-ids/\">&#8230;read more</a>"
+  },
+  {
     "title": "Purely Random TV In Your Browser",
     "source": "Hackaday",
     "date": "2026-09-11",
@@ -28,11 +35,32 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/09/high-flow_nozzles_cut-open_thomas_sanladerer_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As FDM printers keep getting faster, we are forced to deal with a range of bottlenecks, all of which conspire to hold us back from another Benchie world record. A <a class=\"read-more\" href=\"https://hackaday.com/2026/09/10/changing-nozzle-internal-geometry-to-increase-fdm-flowrate/\">&#8230;read more</a>"
   },
   {
+    "title": "Renesas RZ/G3L & RZ/G3SE – Ultra-low-power Cortex-A55 MPUs for industrial HMI and IoT applications",
+    "source": "CNX Software",
+    "date": "2026-09-11",
+    "url": "https://www.cnx-software.com/2026/09/11/renesas-rz-g3l-rz-g3se-ultra-low-power-cortex-a55-mpus-for-industrial-hmi-and-iot-applications/",
+    "summary": "<div><img alt=\"Renesas 64 bit RZ G3L and RZ G3SE ultra low power MPUs\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Renesas-64-bit-RZ-G3L-and-RZ-G3SE-ultra-low-power-MPUs-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Renesas has expanded its RZ/G Series with the RZ/G3L and RZ/G3SE, two new 64-bit MPUs for HMI and IoT edge systems. Both devices integrate up to four Arm Cortex-A55 application cores clocked at up to 1.2 GHz and a 200 MHz Arm Cortex-M33 real-time coprocessor. The two chips are pin-to-pin compatible but target different applications. The RZ/G3L integrates an Arm Mali-G31 3D GPU and H.264 video codec for HMI applications like retail terminals and medical devices. The RZ/G3SE removes the GPU and video codec and is designed for IoT devices with basic display requirements, including EV chargers and industrial gateway devices. Both can reduce standby power consumption to around 1 mW and resume operation quickly from deep standby, which is useful for devices that need to remain connected while consuming very little power. Renesas RZ/G3L and RZ/G3SE specifications: MPU core  CPU Quad-core or Dual-core Arm Cortex-A55 @ up to 1.2 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/11/renesas-rz-g3l-rz-g3se-ultra-low-power-cortex-a55-mpus-for-industrial-hmi-and-iot-applications/\">Renesas RZ/G3L &#038; RZ/G3SE &#8211; Ultra-low-power Cortex-A55 MPUs for industrial HMI and IoT applications</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Amlogic A123X and C305X2 Arm Cortex-A320 SoCs target industrial and low-power AIoT applications",
     "source": "CNX Software",
     "date": "2026-09-11",
     "url": "https://www.cnx-software.com/2026/09/11/amlogic-a123x-and-c305x2-arm-cortex-a320-socs-target-industrial-and-low-power-aiot-applications/",
     "summary": "<div><img alt=\"Amlogic A123X C305X2 Cortex A320 SoCs\" class=\"attachment-medium size-medium wp-post-image\" height=\"360\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Amlogic-A123X-C305X2-Cortex-A320-SoCs-720x360.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Amlogic has unveiled the A123X quad-core and C305X2 dual-core Arm Cortex-A320 SoCs for industrial and battery-powered Edge AI and IoT applications such as robots, dashcams, IP cameras, video conferencing equipment, and so on. The Arm Cortex-A320 low-power Armv9 CPU core was introduced in February 2025, and Amlogic is the first silicon vendor to announce Cortex-A320 SoCs. Details are sparse, with no full specifications or block diagrams and limited software information, but let&#8217;s see what we know so far. Amlogic A123X Amlogic A123X specifications: CPU &#8211; Quad-core Arm Cortex-A320 processor (Armv9.2-A, SVE2) GPU &#8211; None or not disclosed VPU H.264/H.265 encoding at 4K @ 60fps H.264/H.265 decoding at 4K @ 30fps AI 4 TOPS ADLA2 NPU for object detection and tracking CNN models 8 TOPS ADLA3 NPU supporting hardware-accelerated Transformer operations for ViT, LLM, etc. Neural network-based hardware SED engine for low-power audio event identification ISP &#8211; Low-light HDR ISP Supports [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/11/amlogic-a123x-and-c305x2-arm-cortex-a320-socs-target-industrial-and-low-power-aiot-applications/\">Amlogic A123X and C305X2 Arm Cortex-A320 SoCs target industrial and low-power AIoT applications</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Renesas Launches 64-Bit MPUs for HMI and IoT Edge",
+    "source": "Embedded.com",
+    "date": "2026-09-11",
+    "url": "https://www.embedded.com/renesas-launches-64-bit-mpus-for-hmi-and-iot-edge/",
+    "summary": "<p>Renesas Electronics Corp. has expanded its RZ/G Series with two new 64-bit general-purpose microprocessors (MPUs) for human machine interface (HMI) and IoT edge systems. The pin-compatible RZ/G3L and RZ/G3SE MPUs target a range of industrial and consumer HMI and IoT gateway systems as well as home gateways that need high processing performance and high-speed network connectivity. The RZ/G3L integrates a graphics processing unit (GPU) for 3D graphics [...]</p>\n<p>The post <a href=\"https://www.embedded.com/renesas-launches-64-bit-mpus-for-hmi-and-iot-edge/\">Renesas Launches 64-Bit MPUs for HMI and IoT Edge</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Intel’s StrongARM commitment looking wobbly",
+    "source": "Electronics Weekly",
+    "date": "2026-09-11",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/intels-strongarm-commitment-looking-wobbly-2026-09/",
+    "summary": "<p>28 years ago Intel’s commitment to making Arm processors was looking wobbly. The  ‘x86 everywhere’ concept  could have cost the company dearly. In March 1998, EW reported: Intel’s commitment to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/intels-strongarm-commitment-looking-wobbly-2026-09/\">Intel’s StrongARM commitment looking wobbly</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "US Space Force selects Texas as third DARC site",
@@ -70,11 +98,11 @@
     "summary": "<p>$5.7 billion of equity investment has been raised by 24 UK datacentre companies, according to  a report from analysts Tracxn. $3.6 billion of the $5.7 billion has been raised since [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/5-75bn-vzc-money-for-uk-datacentre-companies-2026-09/\">$5.75bn equity investment for UK datacentre companies</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "TSMC  August revenues up 53% YoY",
+    "title": "TSMC August revenues up 53% YoY",
     "source": "Electronics Weekly",
     "date": "2026-09-11",
     "url": "https://www.electronicsweekly.com/news/business/tsmc-august-revenues-up-53-yoy-2026-09/",
-    "summary": "<p>TSMC had record monthly revenue for August of $16.35 billion up 53.3% YoY and up 10.1% on  July. In Q2, the company had  a 77% jump in profit and forecast [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-august-revenues-up-53-yoy-2026-09/\">TSMC  August revenues up 53% YoY</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>TSMC had record monthly revenue for August of $16.35 billion up 53.3% YoY and up 10.1% on  July. In Q2, the company had  a 77% jump in profit and forecast [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-august-revenues-up-53-yoy-2026-09/\">TSMC August revenues up 53% YoY</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Dual-phase smart power stage family has power density exceeding 2 A/mm²",
@@ -98,11 +126,74 @@
     "summary": "<p>The Republican Party is controlling the House, the Senate and the presidency at the moment, but the midterm elections coming up at in November have the power to change this. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/politicians/mid-term-blight-2026-09/\">Mid-Term Blight</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Get Ready for Electronic Halloween with the Adafruit RP2040 Prop-Maker Feather",
+    "source": "Adafruit",
+    "date": "2026-09-11",
+    "url": "https://blog.adafruit.com/2026/09/11/get-ready-for-electronic-halloween-with-the-adafruit-rp2040-prop-maker-feather/",
+    "summary": "&#160; The Adafruit RP2040 Prop-Maker Feather is an all-in-one combination of the Feather RP2040 with a Prop-Maker FeatherWing plus a few tweaks based on feedback from expert prop-builders. Perfect for fitting into your next prop build! This Feather will unlock the &#8216;Imagineer&#8217; inside all of us, with tons of stuff packed in to make sabers [&#8230;]"
+  },
+  {
+    "title": "Understanding metrics, logs, and traces without jargon",
+    "source": "Adafruit",
+    "date": "2026-09-11",
+    "url": "https://blog.adafruit.com/2026/09/11/understanding-metrics-logs-and-traces-without-jargon/",
+    "summary": "Raj Patel, writing at Open Source For You, walks through the three pillars of observability without the usual vocabulary lesson. Metrics, logs, and traces are three ways of recording the same events inside a running system, each built around a different question. Logs keep one written entry per event, with a timestamp and whatever context [&#8230;]"
+  },
+  {
+    "title": "A backwards-walking fish was caught on video in the South China Sea",
+    "source": "Adafruit",
+    "date": "2026-09-11",
+    "url": "https://blog.adafruit.com/2026/09/11/a-backwards-walking-fish-was-caught-on-video-in-the-south-china-sea/",
+    "summary": "Sara Hashemi, writing for Popular Science, reports that scientists in China have filmed a deep-sea fish walking backward along the seafloor. The fish is Scalicus engyceros, an armored searobin. Its body is covered in bony plates, and stiff free fin rays stick out from its pectoral fins like small legs it uses to walk. The [&#8230;]"
+  },
+  {
     "title": "Hexagon Wall Panels – Modular Shallow + Deep with Snug Pegs #3DThursday #3DPrinting",
     "source": "Adafruit",
     "date": "2026-09-11",
     "url": "https://blog.adafruit.com/2026/09/10/hexagon-wall-panels-modular-shallow-deep-with-snug-pegs-3dthursday-3dprinting-2/",
     "summary": "FOIXTRA shares: Modular hexagon wall panels in shallow (30mm) or deep (60mm) variants at 100% scale. Two peg types — small-gap or snug-fit — for different tiling aesthetics. Ships scaled to 50% by default. Alternative modular wall system to the Sci-Fi Corridor Tiles in main. By Foixtra download the files on: https://makerworld.com/en/models/1384619-hexagon-wall-panels-modular Every Thursday is [&#8230;]"
+  },
+  {
+    "title": "Imec demonstrates the extension of chemically amplified resists for High NA EUV lithography",
+    "source": "EE Journal",
+    "date": "2026-09-11",
+    "url": "https://www.eejournal.com/industry_news/imec-demonstrates-the-extension-of-chemically-amplified-resists-for-high-na-euv-lithography/",
+    "summary": "This week, at 2026 SPIE Photomask Technology + EUV Lithography Conference, imec, a world-leading research and innovation hub in advanced semiconductor technologies, demonstrates the feasibility of patterning tight-pitch random logic structures after a CAR-based single-print High NA EUV lithography step. Logic structures include lines/spaces down to 22nm pitch, and vias at 28nm center-to-center distance. These &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/imec-demonstrates-the-extension-of-chemically-amplified-resists-for-high-na-euv-lithography/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Imec demonstrates the extension of chemically amplified resists for High NA EUV lithography\"</span></a>"
+  },
+  {
+    "title": "New Infineon OPTIREG™ TLE9744QK Power Management IC integrates power and safety for hybrid and electric vehicle traction inverters",
+    "source": "EE Journal",
+    "date": "2026-09-11",
+    "url": "https://www.eejournal.com/industry_news/new-infineon-optireg-tle9744qk-power-management-ic-integrates-power-and-safety-for-hybrid-and-electric-vehicle-traction-inverters/",
+    "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) has introduced the OPTIREG™ PMIC TLE9744QK, a fully integrated Power Management IC (PMIC) specifically designed for high-voltage traction inverter applications in electric and hybrid vehicles. It consolidates complete power-supply functions, resolver excitation, and a dedicated safety engine into a single device. This simplifies traction inverter Electronic Control &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/new-infineon-optireg-tle9744qk-power-management-ic-integrates-power-and-safety-for-hybrid-and-electric-vehicle-traction-inverters/\">Read More &#8594;<span class=\"screen-reader-text\"> \"New Infineon OPTIREG™ TLE9744QK Power Management IC integrates power and safety for hybrid and electric vehicle traction inverters\"</span></a>"
+  },
+  {
+    "title": "Zuken Launches E3.series 2027 With Expanded Engineering and Manufacturing Capabilities",
+    "source": "EE Journal",
+    "date": "2026-09-11",
+    "url": "https://www.eejournal.com/industry_news/zuken-launches-e3-series-2027-with-expanded-engineering-and-manufacturing-capabilities/",
+    "summary": "Zuken today announced E3.series 2027, the latest release of its electrical design software for wiring, wire harness, fluid, and control systems design. The release focuses on making engineering information more accessible and easier to carry into manufacturing and downstream processes. Key additions include E3.CloudView for browser-based access to project documentation, workflow enhancements for common engineering &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/zuken-launches-e3-series-2027-with-expanded-engineering-and-manufacturing-capabilities/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Zuken Launches E3.series 2027 With Expanded Engineering and Manufacturing Capabilities\"</span></a>"
+  },
+  {
+    "title": "Alpha and Omega Semiconductor’s New aMOS E2™ 600V Super Junction MOSFETs Support Optimized Electrical/Thermal Paths, Boosted System Performance and Long-Term Reliability",
+    "source": "EE Journal",
+    "date": "2026-09-11",
+    "url": "https://www.eejournal.com/industry_news/alpha-and-omega-semiconductors-new-amos-e2-600v-super-junction-mosfets-support-optimized-electrical-thermal-paths-boosted-system-performance-and-long-term-reliability/",
+    "summary": "Alpha and Omega Semiconductor Limited (AOS) (Nasdaq: AOSL), a designer, developer, and global supplier of a broad range of discrete power devices, wide-bandgap power devices, power management ICs and modules, today announced the release of αMOS E2™ 600V Super Junction MOSFETs: AOGT037V60DE2 and AOGT060V60DE2. AOS engineered its newly developed αMOS E2 High‑Voltage MOSFET platform to &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/alpha-and-omega-semiconductors-new-amos-e2-600v-super-junction-mosfets-support-optimized-electrical-thermal-paths-boosted-system-performance-and-long-term-reliability/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Alpha and Omega Semiconductor’s New aMOS E2™ 600V Super Junction MOSFETs Support Optimized Electrical/Thermal Paths, Boosted System Performance and Long-Term Reliability\"</span></a>"
+  },
+  {
+    "title": "Pickering to showcase scalable signal switching for semiconductor test at Microelectronics UK",
+    "source": "EE Journal",
+    "date": "2026-09-11",
+    "url": "https://www.eejournal.com/industry_news/pickering-to-showcase-scalable-signal-switching-for-semiconductor-test-at-microelectronics-uk/",
+    "summary": "Pickering Interfaces will showcase its range of industry-standard modular signal switching solutions for semiconductor test and verification, as well as its recently launched graphical design tool, Test System Architect, developed to simplify signal switching and cabling system design, on stand E42 at Microelectronics UK, taking place from 29-30 September at Excel London. Microelectronics UK is a leading event for the UK microelectronics ecosystem, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/pickering-to-showcase-scalable-signal-switching-for-semiconductor-test-at-microelectronics-uk/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Pickering to showcase scalable signal switching for semiconductor test at Microelectronics UK\"</span></a>"
+  },
+  {
+    "title": "From Transistors to AI: The Chiplet Revolution with Ramune Nagisetty",
+    "source": "EE Journal",
+    "date": "2026-09-11",
+    "url": "https://www.eejournal.com/fish_fry/from-transistors-to-ai-the-chiplet-revolution-with-ramune-nagisetty/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/AD-091126-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />My podcast guest this week is a powerhouse of the semiconductor industry: Ramune Nagisetty. Ramune, best known for developing the chiplet-based system-in-package architecture concept, joins me this week to discuss her foundational work on chiplet-based system-in-package architectures, the current reality of chiplet interoperability, and the role of artificial intelligence in semiconductor design and manufacturing. We &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/fish_fry/from-transistors-to-ai-the-chiplet-revolution-with-ramune-nagisetty/\">Read More &#8594;<span class=\"screen-reader-text\"> \"From Transistors to AI: The Chiplet Revolution with Ramune Nagisetty\"</span></a>"
   },
   {
     "title": "Creating a Custom Hinge for a Motorbike’s Fuel Access Panel",
@@ -117,13 +208,6 @@
     "date": "2026-09-10",
     "url": "https://hackaday.com/2026/09/10/little-droid-has-party-mode/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/I-built-a-mouse-droid-to-party-with-7-19-screenshot-1-1.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Remember those tiny little droids skittering around the pristine corridors of the Death Star in Star Wars? [heychaostheory] has put together something vaguely along the lines of those charming little mobile <a class=\"read-more\" href=\"https://hackaday.com/2026/09/10/little-droid-has-party-mode/\">&#8230;read more</a>"
-  },
-  {
-    "title": "3D Imaging Without a Lens",
-    "source": "Hackaday",
-    "date": "2026-09-10",
-    "url": "https://hackaday.com/2026/09/10/3d-imaging-without-a-lens/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/A-3D-camera-with-no-lens-lensless-imaging-part-2-8-23-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are plenty of ways to capture 3D images or simulations of such if you know what you&#8217;re doing with camera hardware and fancy mathematics. However, a little more unusual <a class=\"read-more\" href=\"https://hackaday.com/2026/09/10/3d-imaging-without-a-lens/\">&#8230;read more</a>"
   },
   {
     "title": "LattePanda Mu Ultra Compute Module features Intel Core Ultra 5 226V/7 256V Lunar Lake CPU for AI workloads",
@@ -152,13 +236,6 @@
     "date": "2026-09-10",
     "url": "https://www.embedded.com/chiplet-based-fpgas-optimize-performance-for-space-applications/",
     "summary": "<p>Field-programmable gate array (FPGA) architectures for space must reconcile computing capacity, reliability, power consumption, and component availability for very long missions. A chiplet-based approach can separate processing and I/O, allowing for the optimization of radiation tolerance, performance, and upgradeability. Beyond the monolithic FPGA Space applications require increasingly higher processing capacities, especially in payloads dedicated to [...]</p>\n<p>The post <a href=\"https://www.embedded.com/chiplet-based-fpgas-optimize-performance-for-space-applications/\">Chiplet-Based FPGAs Optimize Performance for Space Applications</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Ig Nobel Prize celebrates 3D printing with a mosquito proboscis",
-    "source": "Electronics Weekly",
-    "date": "2026-09-10",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/humour/ig-nobel-prize-celebrates-3d-printing-with-a-mosquito-proboscis-2026-09/",
-    "summary": "<p>I'm not a big fan of the Nobel prize system myself, which is why I pay attention to news of the Ig Nobel awards. Check out this year's and the techniques for 3D printing with a mosquito proboscis!</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/humour/ig-nobel-prize-celebrates-3d-printing-with-a-mosquito-proboscis-2026-09/\">Ig Nobel Prize celebrates 3D printing with a mosquito proboscis</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Halloween Tiny glowing jack o lantern pumpkin LED #3DThursday #3DPrinting",
@@ -217,27 +294,6 @@
     "summary": "Three flexi Halloween-themed clickers (ghost, bat, witch&#8217;s hat) with growing variants including pumpkin, candy corn, pie, and more. Kawaii-cute spooky style. Fun kid gift or party favor — community reviewers report their kids and nieces/nephews loved them. Designer working on cat clicker variant. By Yuskovych Every Thursday is #3dthursday here at Adafruit! The DIY 3D [&#8230;]"
   },
   {
-    "title": "Snap-Fit Pi Zero 2 + Pi Cam Module 3 Case #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-09-10",
-    "url": "https://blog.adafruit.com/2026/09/10/snap-fit-pi-zero-2-pi-cam-module-3-case-3dthursday-3dprinting/",
-    "summary": "Remixed by wesyarber shares: The V2 snap-fit case for the Raspberry Pi Zero 2 + Camera Module 3. Encloses both the Pi and camera in a single tidy package. Updated design with improvements over V1. Perfect for compact camera-enabled Pi projects — surveillance, timelapse, print monitoring download the files on: https://makerworld.com/en/models/842648-v2-snap-fit-rasp-pi-zero-2-pi-cam-module-3 Every Thursday is #3dthursday [&#8230;]"
-  },
-  {
-    "title": "3D Hangouts – Franky, E-Ink and Smiley Stitched Mask",
-    "source": "Adafruit",
-    "date": "2026-09-10",
-    "url": "https://blog.adafruit.com/2026/09/10/3d-hangouts-franky-e-ink-and-smiley-stitched-mask/",
-    "summary": "3D Hangouts – Franky, E-Ink and Smiley Stitched Mask https://youtube.com/live/dOYB77YSUC8?feature=share This week @adafruit Pedro is back with progress on the e-ink display project. Noe is in the progress of writing up a guide for the Franky candy dispenser project. This weeks time lapse features a smiley stitched mask. Feather RP2040 PropMaker: https://www.adafruit.com/product/5768 LED Glasses Starter [&#8230;]"
-  },
-  {
-    "title": "NEW GUIDE: Adafruit TMF8801 Time of Flight Distance Sensor #AdafruitLearningSystem @Adafruit",
-    "source": "Adafruit",
-    "date": "2026-09-10",
-    "url": "https://blog.adafruit.com/2026/09/10/new-guide-adafruit-tmf8801-time-of-flight-distance-sensor-adafruitlearningsystem-adafruit/",
-    "summary": "The Adafruit TMF8801 Time of Flight Sensor is a great Time of Flight distance sensor from ams Osram in the TMF series of chips. The TMF8801 in particular can do 20mm to 2.5 meters at 33 Hz update rate. The sensor contains a very tiny invisible laser source and a matching sensor. Unlike sonars that [&#8230;]"
-  },
-  {
     "title": "TDK launches industry-leading low-resistance soft-termination X7R MLCCs with 10 μF/100 V in the 3225 format for AI servers, humanoids, and xEVs",
     "source": "EE Journal",
     "date": "2026-09-10",
@@ -264,20 +320,6 @@
     "date": "2026-09-10",
     "url": "https://www.eejournal.com/industry_news/segger-j-link-debug-probe-fully-validated-for-stmicroelectronics-stellarstudio/",
     "summary": "SEGGER and STMicroelectronics have worked closely together to ensure robust, high-performance support for current and future Stellar devices, with J-Link integration identified as a priority from the outset. Key J-Link features include up to 4 MBs of download speed into random-access memory (RAM), fast download directly into flash memory at full speed, and the ability &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/segger-j-link-debug-probe-fully-validated-for-stmicroelectronics-stellarstudio/\">Read More &#8594;<span class=\"screen-reader-text\"> \"SEGGER J-Link debug probe fully validated for STMicroelectronics’ StellarStudio\"</span></a>"
-  },
-  {
-    "title": "Arrow Electronics enables early evaluation of NXP’s Ara240 Edge AI Accelerator",
-    "source": "EE Journal",
-    "date": "2026-09-10",
-    "url": "https://www.eejournal.com/industry_news/arrow-electronics-enables-early-evaluation-of-nxps-ara240-edge-ai-accelerator/",
-    "summary": "Arrow Electronics has announced global access is now available for customers to remotely evaluate NXP® Semiconductors’ Ara240 discrete neural processing unit (DNPU) via their Digital Test Drive capability. This gives engineers early access to advanced AI models and technologies for computer vision, generative AI and multimodal systems, allowing them to assess performance and initiate designs &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/arrow-electronics-enables-early-evaluation-of-nxps-ara240-edge-ai-accelerator/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Arrow Electronics enables early evaluation of NXP&#8217;s Ara240 Edge AI Accelerator\"</span></a>"
-  },
-  {
-    "title": "New Semiconductor Tech Slashes AI Power from the Cloud to the Edge",
-    "source": "EE Journal",
-    "date": "2026-09-10",
-    "url": "https://www.eejournal.com/article/new-semiconductor-tech-slashes-ai-power-from-the-cloud-to-the-edge/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/max-0517-image-for-home-page-velaura-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I get to hear a lot of things in my self-appointed role as collector, curator, and communicator of technological information. Sometimes things seem too good to be true, causing me to raise a quizzical eyebrow. For example, some companies come to me saying they’ve got a great solution for reducing AI power consumption in the &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/new-semiconductor-tech-slashes-ai-power-from-the-cloud-to-the-edge/\">Read More &#8594;<span class=\"screen-reader-text\"> \"New Semiconductor Tech Slashes AI Power from the Cloud to the Edge\"</span></a>"
   },
   {
     "title": "ESP32-C5 Pico board follows Raspberry Pi Pico form factor, ships with on-board or external antenna",
@@ -322,34 +364,6 @@
     "summary": "<p>Applications in aerospace and defense as well as heavy industry and energy place long-term reliability requirements that go far beyond the specifications of commercial electronics. The presence of ionizing radiation and extreme temperatures profoundly influences the choice between microcontrollers (MCUs), field-programmable gate arrays (FPGAs), and system-on-chips (SoCs). When the environment becomes the main design constraint [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mission-critical-systems-mcus-vs-fpgas-vs-socs/\">Mission-Critical Systems: MCUs vs. FPGAs vs. SoCs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Welcome to the Materials Age (We Hope You’ll Enjoy Your Stay)",
-    "source": "EE Journal",
-    "date": "2026-09-08",
-    "url": "https://www.eejournal.com/article/welcome-to-the-materials-age-we-hope-youll-enjoy-your-stay/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/max-0516-image-for-home-page-matlantis-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />When you come to think about it, many of the early ages of human development were defined by the materials people used, such as the Stone Age, the Bronze Age, and the Iron Age. Much later came the Industrial Revolution and the Industrial Age. This was followed by a succession of increasingly overlapping technological eras—the &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/welcome-to-the-materials-age-we-hope-youll-enjoy-your-stay/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Welcome to the Materials Age (We Hope You’ll Enjoy Your Stay)\"</span></a>"
-  },
-  {
-    "title": "Fujitsu develops diamond-spin quantum computer prototype",
-    "source": "EE Journal",
-    "date": "2026-09-08",
-    "url": "https://www.eejournal.com/industry_news/fujitsu-develops-diamond-spin-quantum-computer-prototype/",
-    "summary": "Fujitsu today announced that it has developed the world’s first working prototype of a diamond-spin quantum computer incorporating tin-vacancy (SnV) centers into photonic integrated circuits [1] [2]. The prototype can be operated at -271.6°C, higher than the typical operating temperature of superconducting quantum computers (-273.13°C) and Fujitsu has demonstrated in a test environment that it &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/fujitsu-develops-diamond-spin-quantum-computer-prototype/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Fujitsu develops diamond-spin quantum computer prototype\"</span></a>"
-  },
-  {
-    "title": "IK Multimedia Launches TONEX Board",
-    "source": "EE Journal",
-    "date": "2026-09-08",
-    "url": "https://www.eejournal.com/industry_news/ik-multimedia-launches-tonex-board/",
-    "summary": "IK Multimedia today launches TONEX Board, its most advanced TONEX hardware platform to date and the centerpiece of the expanding TONEX ecosystem. Combining IK&#8217;s award-winning AI Machine Modeling™ technology with AmpliTube studio-grade effects, dual signal paths, advanced routing, extensive connectivity, and intuitive touchscreen control, TONEX Board puts one of the most advanced and best-sounding complete guitar &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/ik-multimedia-launches-tonex-board/\">Read More &#8594;<span class=\"screen-reader-text\"> \"IK Multimedia Launches TONEX Board\"</span></a>"
-  },
-  {
-    "title": "Up to 100 Meters Between Vehicle and Charging Station: Vector Launches vSECC.InPlug for Bus and Truck Depots",
-    "source": "EE Journal",
-    "date": "2026-09-08",
-    "url": "https://www.eejournal.com/industry_news/up-to-100-meters-between-vehicle-and-charging-station-vector-launches-vsecc-inplug-for-bus-and-truck-depots/",
-    "summary": "Vector is introducing vSECC.InPlug, a new communication controller board for DC charging infrastructures. By relocating charging communication directly into the DC charging connector, the solution enables cable runs of up to 100 meters between vehicle and charging station. This gives bus and truck depot operators greater flexibility when planning and building their charging infrastructure. Moreover, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/up-to-100-meters-between-vehicle-and-charging-station-vector-launches-vsecc-inplug-for-bus-and-truck-depots/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Up to 100 Meters Between Vehicle and Charging Station: Vector Launches vSECC.InPlug for Bus and Truck Depots\"</span></a>"
-  },
-  {
     "title": "YuzukiNeko – A Linux-capable Allwinner F101 RISC-V SBC with Raspberry Pi Pico form factor",
     "source": "CNX Software",
     "date": "2026-09-07",
@@ -392,13 +406,6 @@
     "summary": "<p>Microchip Technology and Marelli have demonstrated a display connectivity solution that streams graphics and video generated by a vehicle's centralized computing system directly to automotive displays using ASA Motion Link (ASA-ML). Based on the open automotive video connectivity and SerDes standard defined by the Automotive SerDes Alliance (ASA), the solution is designed to simplify display [...]</p>\n<p>The post <a href=\"https://www.embedded.com/microchip-marelli-target-software-defined-vehicle-display-systems/\">Microchip, Marelli Target Software-Defined Vehicle Display Systems</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "ArduinoCore-Zephyr 1.0.0 adds support for Arduino VENTUNO Q, updates to Zephyr 4.4.1, and more",
-    "source": "CNX Software",
-    "date": "2026-09-04",
-    "url": "https://www.cnx-software.com/2026/09/04/arduinocore-zephyr-1-0-0-adds-support-for-arduino-ventuno-q-updates-to-zephyr-4-4-1-and-more/",
-    "summary": "<div><img alt=\"ArduinoCore Zephyr 1.0.0 Arduino Ventuno Q\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/ArduinoCore-Zephyr-1.0.0-Arduino-Ventuno-Q-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Arduino has just announced the release of ArduinoCore-Zephyr version 1.0.0, with new hardware support, including the VENTUNO Q SBC, an updated Zephyr 4.4.1 base, support for the Nicla Vision camera, and various fixes and improvements. Arduino first announced its plans to switch from Arm Mbed to Zephyr RTOS in July 2024, before releasing the first beta of Arduino Core for Zephyr in December of the same year. ArduinoCore-Zephyr 1.0.0 is not the first stable version, since that was version 0.90.0 released on July 29, 2026. The new release builds on that, so let&#8217;s see what&#8217;s new. ArduinoCore-Zephyr 1.0.0 highlights Support for Arduino VENTUNO Q SBC, specifically the STM32H5F5 real-time MCU on the board Update to Zephyr 4.4.1 with the latest upstream improvements, security fixes, and driver support Added Nicla Vision camera support to capture and process image data directly through the Zephyr core Various bug fixes and CI improvements Currently [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/04/arduinocore-zephyr-1-0-0-adds-support-for-arduino-ventuno-q-updates-to-zephyr-4-4-1-and-more/\">ArduinoCore-Zephyr 1.0.0 adds support for Arduino VENTUNO Q, updates to Zephyr 4.4.1, and more</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
     "title": "NXP MCX A5 MCUs, Edge AI for Military Drone Autonomy, Modular Computing for Long-Lifecycle Aerospace Platforms: Embedded Week Insights",
     "source": "Embedded.com",
     "date": "2026-09-04",
@@ -418,12 +425,5 @@
     "date": "2026-09-03",
     "url": "https://www.embedded.com/somdevices-celus-bring-%ce%bcsmarc-modules-to-design-platform/",
     "summary": "<p>Seven NXP i.MX-based modules will become reusable CUBOs, helping engineers evaluate interfaces and implementation requirements earlier.</p>\n<p>The post <a href=\"https://www.embedded.com/somdevices-celus-bring-%ce%bcsmarc-modules-to-design-platform/\">SomDevices, Celus Bring μSMARC Modules to Design Platform</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "NXP MCX A5 MCUs Bring 10BASE-T1S Ethernet to Industrial Edge Nodes",
-    "source": "Embedded.com",
-    "date": "2026-09-02",
-    "url": "https://www.embedded.com/nxp-mcx-a5-mcus-bring-10base-t1s-ethernet-to-industrial-edge-nodes/",
-    "summary": "<p>The MCX A5 MCUs combine 10BASE-T1S Ethernet, topology discovery, and post-quantum security to extend Ethernet deeper into industrial networks.</p>\n<p>The post <a href=\"https://www.embedded.com/nxp-mcx-a5-mcus-bring-10base-t1s-ethernet-to-industrial-edge-nodes/\">NXP MCX A5 MCUs Bring 10BASE-T1S Ethernet to Industrial Edge Nodes</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
