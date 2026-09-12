@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-12 19:43 UTC
+Last Updated: 2026-09-12 21:43 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-12 | Big Infinity Mirror Clock Invites You To Gaze Deeply | Hackaday | [link](https://hackaday.com/2026/09/12/big-infinity-mirror-clock-invites-you-to-gaze-deeply/) |
 | 2026-09-12 | This Mac Is Open Source Hardware | Hackaday | [link](https://hackaday.com/2026/09/12/this-mac-is-open-source-hardware/) |
 | 2026-09-12 | Supercon is Nigh! | Hackaday | [link](https://hackaday.com/2026/09/12/supercon-is-nigh/) |
 | 2026-09-12 | The Heavy Disco-Ball Satellite Designed to Do… Nothing | Hackaday | [link](https://hackaday.com/2026/09/12/the-heavy-disco-ball-satellite-designed-to-do-nothing/) |
@@ -57,15 +58,27 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-12 | NeoEyes NE302 – A tiny USB-C-powered WiFi 6 Edge AI Vision camera based on STM32N6 MCU | CNX Software | [link](https://www.cnx-software.com/2026/09/12/neoeyes-ne302-a-tiny-usb-c-powered-wifi-6-edge-ai-vision-camera-based-on-stm32n6-mcu/) |
 | 2026-09-12 | Happy National Video Games Day 2026 | Adafruit | [link](https://blog.adafruit.com/2026/09/12/happy-national-video-games-day-2026/) |
 | 2026-09-11 | Trying to Fix a Suspiciously Cheap Enterprise-Grade Network Switch | Hackaday | [link](https://hackaday.com/2026/09/11/trying-to-fix-a-suspiciously-cheap-enterprise-grade-network-switch/) |
-| 2026-09-11 | Making a Neo Nuvistor Project in 2026 | Hackaday | [link](https://hackaday.com/2026/09/11/making-a-neo-nuvistor-project-in-2026/) |
 | 2026-09-11 | Renesas RZ/G3L & RZ/G3SE – Ultra-low-power Cortex-A55 MPUs for industrial HMI and IoT applications | CNX Software | [link](https://www.cnx-software.com/2026/09/11/renesas-rz-g3l-rz-g3se-ultra-low-power-cortex-a55-mpus-for-industrial-hmi-and-iot-applications/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-09-10 | A Chip-scale Space-time Multiplexed Gaussian Boson Sampling Processor Beyond 10,000 Photons | [link](https://arxiv.org/pdf/2609.11922v1) |
+| 2026-09-10 | EVPeriscope: Extended Perception across Aerial and Ground Vehicles with Event-based Propeller Tracking | [link](https://arxiv.org/pdf/2609.11920v1) |
+| 2026-09-10 | MindTopo: Can Foundation Models Reason in Topological Space? | [link](https://arxiv.org/pdf/2609.11900v1) |
+| 2026-09-10 | CausalArena: Benchmarking Causal Discovery in the Foundation Model Era | [link](https://arxiv.org/pdf/2609.11897v1) |
+| 2026-09-10 | Learning JWST. I. A Foundation Model for New Population Discoveries and Morphology-Aware Photometric Redshift Measurements in the JADES Survey | [link](https://arxiv.org/pdf/2609.11879v1) |
+| 2026-09-10 | UniMPA: A Unified Memory-Prediction-Action Model via Action-Grounded Transition Modeling | [link](https://arxiv.org/pdf/2609.11875v1) |
+| 2026-09-10 | Evaluating Time-Series Foundation Models and Multimodal Dietary Context for CGM Forecasting | [link](https://arxiv.org/pdf/2609.11872v1) |
+| 2026-09-10 | Learning Agent-based Model Predictive Control for Holistic Vehicle Performance | [link](https://arxiv.org/pdf/2609.11871v1) |
+| 2026-09-10 | Target leakage, not model class, explains reported accuracy in survey-based cardiovascular screening: a leakage-tiered audit of glass-box and tabular foundation models | [link](https://arxiv.org/pdf/2609.11838v1) |
+| 2026-09-10 | Predefined-Time Resilient Integral Reinforcement Learning for Input-Constrained Unknown Nonlinear Systems Under FDI Attacks and Disturbances: A Fully Data-Driven Approach | [link](https://arxiv.org/pdf/2609.11815v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-12 | Siqi2022/robotwin-checkpoints | 0 | 0 | [link](https://huggingface.co/Siqi2022/robotwin-checkpoints) |
+| 2026-09-12 | Marviss/robot | 0 | 0 | [link](https://huggingface.co/Marviss/robot) |
 | 2026-09-12 | tarzanagh/Multi-Robot-application | 0 | 0 | [link](https://huggingface.co/tarzanagh/Multi-Robot-application) |
 | 2026-09-12 | hackathon1-fmm/act_rod_insert_robot_1_v0_h200x2_20k | 0 | 0 | [link](https://huggingface.co/hackathon1-fmm/act_rod_insert_robot_1_v0_h200x2_20k) |
 | 2026-09-12 | artnfull/open-bird-robot-mujoco-ppo | 0 | 1 | [link](https://huggingface.co/artnfull/open-bird-robot-mujoco-ppo) |
@@ -74,22 +87,20 @@ _No items collected yet._
 | 2026-09-12 | z-lab/flashvla-lingbot-robotwin | 16 | 1 | [link](https://huggingface.co/z-lab/flashvla-lingbot-robotwin) |
 | 2026-09-12 | z-lab/flashvla-pi05-robotwin | 18 | 0 | [link](https://huggingface.co/z-lab/flashvla-pi05-robotwin) |
 | 2026-09-12 | itsukitakahashi/survey-robotics-vision-language | 0 | 0 | [link](https://huggingface.co/itsukitakahashi/survey-robotics-vision-language) |
-| 2026-09-12 | carmenwijaya/robotics-vision-language-study | 0 | 1 | [link](https://huggingface.co/carmenwijaya/robotics-vision-language-study) |
-| 2026-09-12 | gubam/hand_vla | 0 | 0 | [link](https://huggingface.co/gubam/hand_vla) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | NVIDIA/skills | 3270 | Python | 1308.1 | [link](https://github.com/NVIDIA/skills) |
 | awslabs/awsome-distributed-ai | 473 | Shell | 189.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63639 | Python | 25455.7 | [link](https://github.com/commaai/openpilot) |
-| questdb/questdb | 17319 | Java | 6927.7 | [link](https://github.com/questdb/questdb) |
+| commaai/openpilot | 63640 | Python | 25456.1 | [link](https://github.com/commaai/openpilot) |
+| questdb/questdb | 17320 | Java | 6928.1 | [link](https://github.com/questdb/questdb) |
 | ArduPilot/ardupilot | 15852 | C++ | 6340.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 15080 | C++ | 6032.1 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 15439 | Python | 6175.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 15082 | C++ | 6032.9 | [link](https://github.com/google-deepmind/mujoco) |
+| rerun-io/rerun | 11433 | Rust | 4573.3 | [link](https://github.com/rerun-io/rerun) |
 | sou350121/VLA-Handbook | 609 | HTML | 243.7 | [link](https://github.com/sou350121/VLA-Handbook) |
 | flashrt-project/FlashRT | 564 | C++ | 225.7 | [link](https://github.com/flashrt-project/FlashRT) |
-| RealXiaoze/humanoid-motion-intelligence | 528 |  | 211.3 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
-| deeplethe/utopia | 7164 | Rust | 2865.7 | [link](https://github.com/deeplethe/utopia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -109,7 +120,7 @@ _No items collected yet._
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-09-11 | HD Hyundai Robotics invests $9.7 mn in Korean physical AI startup - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTE5mWTBpeTljcjBWMDYxbHA5bWNOZVVxMVZYTkpkS0pVTDBxRVluLXo3MGxQSElncDVLYzkwdHFLRElTVVN3LTRtUVRYVmwzYVJsY2xTR1JpYWRVLVMzUC02T2I5dm9LOHJSUWlV?oc=5) |
-| 2026-09-11 | Automated chip design, physical AI lead startup activity across APAC: AWS exec - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeEkzS0p0a3gyaURSQVdDOUY1MVM3bDFua05WcGhVQWRRZXc3TlJBSlpJbkVGX1VMWFlTWDYzdDhyelo2YUNmTmUyZ29odjBPZUprOVpTM3JuT3ZKN25teXdvbkMtZnhMakkzcUt4azFZTDdHVUVNbU5mWnRoVmtlM0JSTk5qUGtaMFM5ZFRfYkJxa25kazA5ODB3bWt0YWduRFdYa1ROOE5oZVItWGRlLXRQUC1qVUFyWW9rZmN6Tlg3R2h3TkdYQ3J2V0ZqbmNXTVFqdVd5ZWlSanhu0gHiAUFVX3lxTFAxdm5iaDF0eWJfTVliN0pxc3RMQ1NDb1FzZUtGMldGejVPN2lIbjlWYlpKTkNzWGkwdHFOVzRiNERHREFYUWVaeGUySndOUWp2bEd2azRURHdGdmVBWHhoZUVLSkoya0VJM3NmMzlxOERwLU5oUmdIdldlZWxMLXNHcXd4NTF6SFQtTEQ0RGZMNU5paVNoM3E0VU9Kd3R0X0xLOVJtZ1Vybmw4NV9ZdEQyWjY2THg0TDJGT3hnSkpteVhFTG44aWZTNVRWUDJsUG8zMEstaVdLOUNZNnhtTjF2NUE?oc=5) |
+| 2026-09-11 | Automated chip design, physical AI lead startup activity across APAC: AWS exec - economictimes.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeEkzS0p0a3gyaURSQVdDOUY1MVM3bDFua05WcGhVQWRRZXc3TlJBSlpJbkVGX1VMWFlTWDYzdDhyelo2YUNmTmUyZ29odjBPZUprOVpTM3JuT3ZKN25teXdvbkMtZnhMakkzcUt4azFZTDdHVUVNbU5mWnRoVmtlM0JSTk5qUGtaMFM5ZFRfYkJxa25kazA5ODB3bWt0YWduRFdYa1ROOE5oZVItWGRlLXRQUC1qVUFyWW9rZmN6Tlg3R2h3TkdYQ3J2V0ZqbmNXTVFqdVd5ZWlSanhu0gHiAUFVX3lxTFAxdm5iaDF0eWJfTVliN0pxc3RMQ1NDb1FzZUtGMldGejVPN2lIbjlWYlpKTkNzWGkwdHFOVzRiNERHREFYUWVaeGUySndOUWp2bEd2azRURHdGdmVBWHhoZUVLSkoya0VJM3NmMzlxOERwLU5oUmdIdldlZWxMLXNHcXd4NTF6SFQtTEQ0RGZMNU5paVNoM3E0VU9Kd3R0X0xLOVJtZ1Vybmw4NV9ZdEQyWjY2THg0TDJGT3hnSkpteVhFTG44aWZTNVRWUDJsUG8zMEstaVdLOUNZNnhtTjF2NUE?oc=5) |
 | 2026-09-11 | China's Embodied AI Startup Kinetix AI Raises Over 500 Million Yuan in Angel+ Round Led by Temasek-Backed Vertex Ventures - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBDQWN5VnpQMDVnQUQ4V25uRnc2M0MzRGs3NFBBYTdMaEtOMVlNdVp3UEZsUno0WkZHd3VtVXd4OEM1OVZxQWE2SU5XbjAzd3ZjQUZCY1V0TTM3bHVSSjNUcTlwZDl1WFlNRmllTFMwTGF1VlM5TWc?oc=5) |
 | 2026-09-11 | A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDBpLTJ2bkg4MW1WX3Vzbk1vY1ViazJMZEYyWHlibW11dWFxTl85dEZNWUlVVHNmVEhkNkRvTjRxcVVDVk5pM01obkpMVXR5b0ExeGl3N3F5T0Vtd0NUMXplZzdpWUVNbGhyTUtKcFhGa1ZiUWNVTG1fbW1STk9JUUxveGtiOE1JdTVhbGlZOU1xZlFtU3dXYdIBngFBVV95cUxNQUt5TGk3QjZjNUFJTENnTDYtZjBvdFptNHVlTFlIaEF4WERaTjdnd21oR0l3QzFNdW85NGY5alNPY1A0WEs4S19rdGlKc2NKbWRXczktWmdBVG9IVjAyRUFtbnhEX1J1cUl0M1Nkbm9lcUhtNkE5bHk0WXdNUWhaQXhRcHNzU1BMa3BoNmpYNFZsZjNuZUN3UGNRSHc3QQ?oc=5) |
 | 2026-09-11 | Chinese Humanoid Robot Startup Accuses OpenAI of Technology Plagiarism, Launches Legal Action - finance.biggo.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9XY0o1S0NDSGVUWkhHSGRGN214dTFrZ0hrQ1pVVlFrQk8zM0hER1hlYldpMFR5emNmYUoxMDNJZzdKMmh5SFJESEdfOVc4UWx1eVBvRXdseTltSkVRZTJQU3FPSE1mYXVNb1hTZFZDZHVCR3h3S3c?oc=5) |
