@@ -1,12 +1,39 @@
 [
   {
+    "model": "artnfull/open-bird-robot-mujoco-ppo",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/artnfull/open-bird-robot-mujoco-ppo",
+    "date": "2026-09-12",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
+    "model": "Myungkyu/hiwrld-baseline-ckpts-real-robot",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/Myungkyu/hiwrld-baseline-ckpts-real-robot",
+    "date": "2026-09-12",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
+    "model": "RobotEra/Qwen2-0.5B-GRPO-test",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotEra/Qwen2-0.5B-GRPO-test",
+    "date": "2026-09-12",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "z-lab/flashvla-lingbot-robotwin",
     "downloads": 16,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/z-lab/flashvla-lingbot-robotwin",
     "date": "2026-09-12",
     "keyword": "robot",
-    "score": 4.9
+    "score": 5.1
   },
   {
     "model": "z-lab/flashvla-pi05-robotwin",
@@ -34,6 +61,15 @@
     "date": "2026-09-12",
     "keyword": "robotics",
     "score": 0.3
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__lr5x__steps_10k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__lr5x__steps_10k",
+    "date": "2026-09-12",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "dual-sim/VLA_CKPT",
@@ -96,6 +132,15 @@
     "url": "https://huggingface.co/vladcat222/ntrMIXIllustriousXL_xiii_QNN",
     "date": "2026-09-12",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "koyogi-hf/microduck-policy-test",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/koyogi-hf/microduck-policy-test",
+    "date": "2026-09-12",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -243,33 +288,6 @@
     "score": 10.0
   },
   {
-    "model": "junbrro/egopi_bbtoc_robot_v5_20hz_AB_cogalign_natural_sd0_seed42_30k_gas2_actsilu",
-    "downloads": 44,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/egopi_bbtoc_robot_v5_20hz_AB_cogalign_natural_sd0_seed42_30k_gas2_actsilu",
-    "date": "2026-09-11",
-    "keyword": "robot",
-    "score": 13.3
-  },
-  {
-    "model": "zaleni/a1-5_Robotwin-no-fast-abs",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/zaleni/a1-5_Robotwin-no-fast-abs",
-    "date": "2026-09-11",
-    "keyword": "robot",
-    "score": 2.8
-  },
-  {
-    "model": "huzican0419/robotwin_piper_x_sft_step24k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/huzican0419/robotwin_piper_x_sft_step24k",
-    "date": "2026-09-11",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "sam-guided-vlas/train_1_2_hard_items__mask__blur__sim__all_cameras__live__pi05__seed_0__steps_15k",
     "downloads": 19,
     "likes": 0,
@@ -306,15 +324,6 @@
     "score": 4.9
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__lr5x__steps_45k",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__lr5x__steps_45k",
-    "date": "2026-09-11",
-    "keyword": "vla",
-    "score": 4.6
-  },
-  {
     "model": "mohendy/world-model-attack-checkpoints",
     "downloads": 0,
     "likes": 0,
@@ -349,15 +358,6 @@
     "date": "2026-09-11",
     "keyword": "navigation",
     "score": 4.2
-  },
-  {
-    "model": "lemonade-sdk/pii_policy_pplx-pii-masking-onnx",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/lemonade-sdk/pii_policy_pplx-pii-masking-onnx",
-    "date": "2026-09-11",
-    "keyword": "policy",
-    "score": 0.1
   },
   {
     "model": "Lucas-dubois/robotics-vision-language-analysis",
