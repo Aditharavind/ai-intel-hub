@@ -51,23 +51,23 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 15439,
+    "stars": 15446,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-09-12",
     "topic": "robotics",
-    "score": 6175.7
+    "score": 6178.5
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 15082,
+    "stars": 15085,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-09-12",
     "topic": "robotics",
-    "score": 6032.9
+    "score": 6034.1
   },
   {
     "repo": "rerun-io/rerun",
@@ -78,6 +78,16 @@
     "date": "2026-09-12",
     "topic": "robotics",
     "score": 4573.3
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3932,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-09-12",
+    "topic": "embodied-ai",
+    "score": 1572.9
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -111,13 +121,13 @@
   },
   {
     "repo": "deeplethe/utopia",
-    "stars": 7165,
+    "stars": 7170,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-09-12",
     "topic": "world-model",
-    "score": 2866.1
+    "score": 2868.1
   },
   {
     "repo": "vllm-project/vllm-omni",
@@ -150,14 +160,24 @@
     "score": 662.5
   },
   {
+    "repo": "automatika-robotics/emos",
+    "stars": 79,
+    "language": "Go",
+    "description": "EMOS - The Embodied OS",
+    "url": "https://github.com/automatika-robotics/emos",
+    "date": "2026-09-12",
+    "topic": "humanoid",
+    "score": 31.7
+  },
+  {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 8108,
+    "stars": 8109,
     "language": "Python",
     "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-09-12",
     "topic": "robot-learning",
-    "score": 3243.3
+    "score": 3243.7
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",
@@ -191,13 +211,13 @@
   },
   {
     "repo": "rokbenko/quackd",
-    "stars": 191,
+    "stars": 192,
     "language": "Python",
     "description": "Give your small robot a brain. It knows its moves but not how to connect them. Say a goal in a chat and any LLM plans and runs the steps. Microduck, Open Duck Mini, LeRobot, XLeRobot, Aloha Mini, or any ROS base. Claude, OpenAI, Gemini, Grok, or local via Ollama or vLLM. Simulator, .duck safety contracts, MCP server, memory between runs, flocks.",
     "url": "https://github.com/rokbenko/quackd",
     "date": "2026-09-12",
     "topic": "lerobot",
-    "score": 76.5
+    "score": 76.9
   },
   {
     "repo": "cerul-ai/cerul",
@@ -271,23 +291,13 @@
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 5165,
+    "stars": 5166,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-09-11",
     "topic": "embodied-ai",
-    "score": 2066.1
-  },
-  {
-    "repo": "dora-rs/dora",
-    "stars": 3933,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-09-11",
-    "topic": "embodied-ai",
-    "score": 1573.3
+    "score": 2066.5
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",
@@ -301,13 +311,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS-core",
-    "stars": 2202,
+    "stars": 2206,
     "language": "Python",
     "description": "PhyAgentOS is a Recursive Self-Improving (RSI)  physical agent operating system that enables agents to recursively self-improve through agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
     "date": "2026-09-11",
     "topic": "embodied-ai",
-    "score": 880.9
+    "score": 882.5
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -391,13 +401,13 @@
   },
   {
     "repo": "dexmal/opendm",
-    "stars": 484,
+    "stars": 485,
     "language": "Python",
     "description": "An Open-World Foundation Model for General-Purpose Embodied Intelligence.",
     "url": "https://github.com/dexmal/opendm",
     "date": "2026-09-10",
     "topic": "vla",
-    "score": 193.7
+    "score": 194.1
   },
   {
     "repo": "NVlabs/alpamayo",
@@ -431,23 +441,23 @@
   },
   {
     "repo": "Phyzicalorg/Phyzical_org",
-    "stars": 189,
+    "stars": 199,
     "language": "Python",
     "description": "Browser teleoperation data for embodied AI — elizaOS-ready episodes, trajectory_db converter, onchain provenance. The fuel station for agent robot stacks.",
     "url": "https://github.com/Phyzicalorg/Phyzical_org",
     "date": "2026-09-09",
     "topic": "robot-learning",
-    "score": 75.7
+    "score": 79.7
   },
   {
     "repo": "PetoiCamp/OpenCat-Quadruped-Robot",
-    "stars": 5302,
+    "stars": 5303,
     "language": "C++",
     "description": "An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development. ",
     "url": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot",
     "date": "2026-09-08",
     "topic": "physical-ai",
-    "score": 2120.9
+    "score": 2121.3
   },
   {
     "repo": "PetoiCamp/OpenCat-Old",
@@ -471,13 +481,13 @@
   },
   {
     "repo": "PetoiCamp/OpenCatEsp32-Quadruped-Robot",
-    "stars": 400,
+    "stars": 401,
     "language": "C++",
     "description": "An ESP32-based open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.",
     "url": "https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot",
     "date": "2026-09-08",
     "topic": "physical-ai",
-    "score": 160.1
+    "score": 160.5
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
@@ -748,16 +758,6 @@
     "date": "2026-09-01",
     "topic": "humanoid",
     "score": 7.3
-  },
-  {
-    "repo": "automatika-robotics/emos",
-    "stars": 79,
-    "language": "Go",
-    "description": "EMOS - The Embodied OS",
-    "url": "https://github.com/automatika-robotics/emos",
-    "date": "2026-08-31",
-    "topic": "humanoid",
-    "score": 31.7
   },
   {
     "repo": "thu-ml/Causal-Forcing",
