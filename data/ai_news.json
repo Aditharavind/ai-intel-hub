@@ -1,10 +1,24 @@
 [
   {
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "source": "OpenAI",
+    "date": "2026-09-14",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+  },
+  {
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
     "source": "OpenAI",
     "date": "2026-09-11",
     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
     "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+  },
+  {
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "source": "OpenAI",
+    "date": "2026-09-11",
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
   },
   {
     "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -35,18 +49,18 @@
     "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
   },
   {
-    "title": "Introducing the Agents API",
-    "source": "OpenAI",
-    "date": "2026-09-10",
-    "url": "https://openai.com/index/introducing-the-agents-api",
-    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
-  },
-  {
     "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
     "source": "OpenAI",
     "date": "2026-09-10",
     "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+  },
+  {
+    "title": "Introducing the Agents API",
+    "source": "OpenAI",
+    "date": "2026-09-10",
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
   },
   {
     "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
@@ -82,20 +96,6 @@
     "date": "2026-09-09",
     "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
     "summary": ""
-  },
-  {
-    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-    "source": "OpenAI",
-    "date": "2026-09-08",
-    "url": "https://openai.com/index/codex-quantum-computing-experiments",
-    "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
-  },
-  {
-    "title": "The Work Now Within Reach",
-    "source": "OpenAI",
-    "date": "2026-09-08",
-    "url": "https://openai.com/index/the-work-now-within-reach",
-    "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
   },
   {
     "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",

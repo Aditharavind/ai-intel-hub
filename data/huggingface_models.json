@@ -1,5 +1,59 @@
 [
   {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__lr5x__steps_60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__lr5x__steps_60k",
+    "date": "2026-09-12",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vladcat222/ntrMIXIllustriousXL_xiii_QNN",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladcat222/ntrMIXIllustriousXL_xiii_QNN",
+    "date": "2026-09-12",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "logits/sana_rwm_policy_robodojo_320px_eef_s157000_lr1e-4cos_wd1e-2_alw1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/logits/sana_rwm_policy_robodojo_320px_eef_s157000_lr1e-4cos_wd1e-2_alw1",
+    "date": "2026-09-12",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "logits/sana_rwm_policy_from_pretrained_robodojo_320px_1e-4_cosine_clip1_2node",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/logits/sana_rwm_policy_from_pretrained_robodojo_320px_1e-4_cosine_clip1_2node",
+    "date": "2026-09-12",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "geonmin-kim/Cosmos3-Edge-Policy-DROID-FastWAM-K2-sim",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-DROID-FastWAM-K2-sim",
+    "date": "2026-09-12",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Xiaolihai/etd-policy-rl-only-sufficiency",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Xiaolihai/etd-policy-rl-only-sufficiency",
+    "date": "2026-09-12",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "RhinoceratopsvsSuperpuma/robot_learning_tutorial_diffusion",
     "downloads": 0,
     "likes": 0,
@@ -198,24 +252,6 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__lr5x__steps_30k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__lr5x__steps_30k",
-    "date": "2026-09-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_hard_items__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__steps_60k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__steps_60k",
-    "date": "2026-09-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "mohendy/world-model-attack-checkpoints",
     "downloads": 0,
     "likes": 0,
@@ -252,10 +288,10 @@
     "score": 1.2
   },
   {
-    "model": "logits/sana_rwm_policy_from_pretrained_robodojo_320px_1e-4_cosine_clip1_2node",
+    "model": "lemonade-sdk/pii_policy_pplx-pii-masking-onnx",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/logits/sana_rwm_policy_from_pretrained_robodojo_320px_1e-4_cosine_clip1_2node",
+    "url": "https://huggingface.co/lemonade-sdk/pii_policy_pplx-pii-masking-onnx",
     "date": "2026-09-11",
     "keyword": "policy",
     "score": 0.1
@@ -279,28 +315,10 @@
     "score": 0.1
   },
   {
-    "model": "logits/sana_rwm_policy_robodojo_320px_eef_s157000_lr1e-4cos_wd1e-2_alw1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/logits/sana_rwm_policy_robodojo_320px_eef_s157000_lr1e-4cos_wd1e-2_alw1",
-    "date": "2026-09-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "Xiaolihai/etd-policy-dpo-judgment",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Xiaolihai/etd-policy-dpo-judgment",
-    "date": "2026-09-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "geonmin-kim/Cosmos3-Edge-Policy-DROID-FastWAM-K2-sim",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-DROID-FastWAM-K2-sim",
     "date": "2026-09-11",
     "keyword": "policy",
     "score": 0.1
@@ -340,24 +358,6 @@
     "date": "2026-09-11",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "wandelbotsgmbh/finetune_20_midcheck_episodes_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/wandelbotsgmbh/finetune_20_midcheck_episodes_policy",
-    "date": "2026-09-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "manifoldai-research/WorldScape-Policy-2",
-    "downloads": 0,
-    "likes": 6,
-    "url": "https://huggingface.co/manifoldai-research/WorldScape-Policy-2",
-    "date": "2026-09-11",
-    "keyword": "policy",
-    "score": 1.3
   },
   {
     "model": "Lucas-dubois/robotics-vision-language-analysis",
@@ -479,11 +479,11 @@
   {
     "model": "XiaomiRobotics/Xiaomi-Robotics-U0-4B",
     "downloads": 30,
-    "likes": 9,
+    "likes": 10,
     "url": "https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-4B",
     "date": "2026-09-09",
     "keyword": "robotics",
-    "score": 10.9
+    "score": 11.1
   },
   {
     "model": "Datawhale/hello-robotics-chapter16",
