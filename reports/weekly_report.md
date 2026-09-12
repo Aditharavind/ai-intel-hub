@@ -1,24 +1,18 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-12 17:28 UTC
+Generated: 2026-09-12 19:43 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-09-10 | A Chip-scale Space-time Multiplexed Gaussian Boson Sampling Processor Beyond 10,000 Photons | [link](https://arxiv.org/pdf/2609.11922v1) |
-| 2026-09-10 | EVPeriscope: Extended Perception across Aerial and Ground Vehicles with Event-based Propeller Tracking | [link](https://arxiv.org/pdf/2609.11920v1) |
-| 2026-09-10 | MindTopo: Can Foundation Models Reason in Topological Space? | [link](https://arxiv.org/pdf/2609.11900v1) |
-| 2026-09-10 | CausalArena: Benchmarking Causal Discovery in the Foundation Model Era | [link](https://arxiv.org/pdf/2609.11897v1) |
-| 2026-09-10 | Learning JWST. I. A Foundation Model for New Population Discoveries and Morphology-Aware Photometric Redshift Measurements in the JADES Survey | [link](https://arxiv.org/pdf/2609.11879v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83478 | 33391.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63638 | 25455.3 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83479 | 33391.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63639 | 25455.7 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44531 | 17812.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30490 | 12196.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| questdb/questdb | 17320 | 6928.1 | [link](https://github.com/questdb/questdb) |
+| AtsushiSakai/PythonRobotics | 30491 | 12196.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| questdb/questdb | 17319 | 6927.7 | [link](https://github.com/questdb/questdb) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
