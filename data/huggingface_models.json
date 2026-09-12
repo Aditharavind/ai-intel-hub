@@ -1,5 +1,23 @@
 [
   {
+    "model": "tarzanagh/Multi-Robot-application",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tarzanagh/Multi-Robot-application",
+    "date": "2026-09-12",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "hackathon1-fmm/act_rod_insert_robot_1_v0_h200x2_20k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/hackathon1-fmm/act_rod_insert_robot_1_v0_h200x2_20k",
+    "date": "2026-09-12",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "artnfull/open-bird-robot-mujoco-ppo",
     "downloads": 0,
     "likes": 1,
@@ -61,6 +79,15 @@
     "date": "2026-09-12",
     "keyword": "robotics",
     "score": 0.3
+  },
+  {
+    "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__lr5x__steps_15k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__lr5x__steps_15k",
+    "date": "2026-09-12",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__lr5x__steps_10k",
@@ -132,6 +159,15 @@
     "url": "https://huggingface.co/vladcat222/ntrMIXIllustriousXL_xiii_QNN",
     "date": "2026-09-12",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "ashleyyou/review-embodied-ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ashleyyou/review-embodied-ai",
+    "date": "2026-09-12",
+    "keyword": "embodied",
     "score": 0.1
   },
   {
@@ -270,24 +306,6 @@
     "score": 3.4
   },
   {
-    "model": "hackathon1-fmm/act_cube_sort_robot_1_v0_h200x4_20k",
-    "downloads": 20,
-    "likes": 0,
-    "url": "https://huggingface.co/hackathon1-fmm/act_cube_sort_robot_1_v0_h200x4_20k",
-    "date": "2026-09-11",
-    "keyword": "robot",
-    "score": 6.1
-  },
-  {
-    "model": "TULLUS/Xiaomi-Robotics-U0-4B-Sequence",
-    "downloads": 33,
-    "likes": 0,
-    "url": "https://huggingface.co/TULLUS/Xiaomi-Robotics-U0-4B-Sequence",
-    "date": "2026-09-11",
-    "keyword": "robotics",
-    "score": 10.0
-  },
-  {
     "model": "sam-guided-vlas/train_1_2_hard_items__mask__blur__sim__all_cameras__live__pi05__seed_0__steps_15k",
     "downloads": 19,
     "likes": 0,
@@ -313,15 +331,6 @@
     "date": "2026-09-11",
     "keyword": "vla",
     "score": 5.5
-  },
-  {
-    "model": "sam-guided-vlas/train_1_2_hard_items__mask__blur__sim__all_cameras__live__pi05__seed_0__steps_60k",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__mask__blur__sim__all_cameras__live__pi05__seed_0__steps_60k",
-    "date": "2026-09-11",
-    "keyword": "vla",
-    "score": 4.9
   },
   {
     "model": "mohendy/world-model-attack-checkpoints",
@@ -358,6 +367,15 @@
     "date": "2026-09-11",
     "keyword": "navigation",
     "score": 4.2
+  },
+  {
+    "model": "TULLUS/Xiaomi-Robotics-U0-4B-Sequence",
+    "downloads": 33,
+    "likes": 0,
+    "url": "https://huggingface.co/TULLUS/Xiaomi-Robotics-U0-4B-Sequence",
+    "date": "2026-09-11",
+    "keyword": "robotics",
+    "score": 10.0
   },
   {
     "model": "Lucas-dubois/robotics-vision-language-analysis",
@@ -700,15 +718,6 @@
     "date": "2026-08-29",
     "keyword": "embodied",
     "score": 6.1
-  },
-  {
-    "model": "satoshisaito/embodied-ai-notes",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/satoshisaito/embodied-ai-notes",
-    "date": "2026-08-28",
-    "keyword": "embodied",
-    "score": 3.7
   },
   {
     "model": "lookarooka/Physical-ai-humanoid-v5-ppo",
