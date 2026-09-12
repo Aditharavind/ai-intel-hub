@@ -1,5 +1,23 @@
 [
   {
+    "model": "edward56/lingbot-vla-2.0-CqAkpFWmxR1X",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/edward56/lingbot-vla-2.0-CqAkpFWmxR1X",
+    "date": "2026-09-12",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "MechaTrainer/lingbot-vla-2.0-cesBRyPcp3Ar",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MechaTrainer/lingbot-vla-2.0-cesBRyPcp3Ar",
+    "date": "2026-09-12",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__lr5x__steps_60k",
     "downloads": 0,
     "likes": 0,
@@ -18,10 +36,46 @@
     "score": 0.1
   },
   {
-    "model": "logits/sana_rwm_policy_robodojo_320px_eef_s157000_lr1e-4cos_wd1e-2_alw1",
+    "model": "Bench2Dex/policy_ckpt",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/logits/sana_rwm_policy_robodojo_320px_eef_s157000_lr1e-4cos_wd1e-2_alw1",
+    "url": "https://huggingface.co/Bench2Dex/policy_ckpt",
+    "date": "2026-09-12",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Ruinds/omx_act_policy",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/Ruinds/omx_act_policy",
+    "date": "2026-09-12",
+    "keyword": "policy",
+    "score": 0.3
+  },
+  {
+    "model": "kkahn2014/omx_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kkahn2014/omx_act_policy",
+    "date": "2026-09-12",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Jee92/omx_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Jee92/omx_act_policy",
+    "date": "2026-09-12",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Xiaolihai/etd-policy-rl-only-judgment",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Xiaolihai/etd-policy-rl-only-judgment",
     "date": "2026-09-12",
     "keyword": "policy",
     "score": 0.1
@@ -31,6 +85,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/logits/sana_rwm_policy_from_pretrained_robodojo_320px_1e-4_cosine_clip1_2node",
+    "date": "2026-09-12",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "logits/sana_rwm_policy_robodojo_320px_eef_s157000_lr1e-4cos_wd1e-2_alw1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/logits/sana_rwm_policy_robodojo_320px_eef_s157000_lr1e-4cos_wd1e-2_alw1",
     "date": "2026-09-12",
     "keyword": "policy",
     "score": 0.1
@@ -162,15 +225,6 @@
     "score": 0.3
   },
   {
-    "model": "DuongKO/lingbot-vla-2.0-mj7UvtM1reQD",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/DuongKO/lingbot-vla-2.0-mj7UvtM1reQD",
-    "date": "2026-09-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "sam-guided-vlas/train_1_2_hard_items__mask__blur__sim__all_cameras__live__pi05__seed_0__steps_15k",
     "downloads": 0,
     "likes": 0,
@@ -243,15 +297,6 @@
     "score": 0.1
   },
   {
-    "model": "sam-guided-vlas/train_1_2_hard_items__mask__blur__sim__all_cameras__live__pi05__seed_0__steps_5k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sam-guided-vlas/train_1_2_hard_items__mask__blur__sim__all_cameras__live__pi05__seed_0__steps_5k",
-    "date": "2026-09-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "mohendy/world-model-attack-checkpoints",
     "downloads": 0,
     "likes": 0,
@@ -310,51 +355,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/ut-amrl/foresight-waypoint-policy",
-    "date": "2026-09-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Xiaolihai/etd-policy-dpo-judgment",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Xiaolihai/etd-policy-dpo-judgment",
-    "date": "2026-09-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "kbenz/petal_dryrun_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kbenz/petal_dryrun_policy",
-    "date": "2026-09-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Ricky97/so101_test_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Ricky97/so101_test_policy",
-    "date": "2026-09-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "svenschreiber/clean-toilet-policy-groot",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/svenschreiber/clean-toilet-policy-groot",
-    "date": "2026-09-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Xiaolihai/etd-policy-dpo-routing",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Xiaolihai/etd-policy-dpo-routing",
     "date": "2026-09-11",
     "keyword": "policy",
     "score": 0.1

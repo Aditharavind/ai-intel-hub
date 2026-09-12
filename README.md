@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-12 01:40 UTC
+Last Updated: 2026-09-12 06:34 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,47 +49,58 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-12 | All The Best Computers Boot To… Python? | Hackaday | [link](https://hackaday.com/2026/09/11/all-the-best-computers-boot-to-python/) |
+| 2026-09-12 | How To Fold Curved Lines in Metal Without Fancy Tools | Hackaday | [link](https://hackaday.com/2026/09/11/how-to-fold-curved-lines-in-metal-without-fancy-tools/) |
+| 2026-09-12 | NeoEyes NE302 – A tiny USB-C-powered WiFi 6 Edge AI Vision camera based on STM32N6 MCU | CNX Software | [link](https://www.cnx-software.com/2026/09/12/neoeyes-ne302-a-tiny-usb-c-powered-wifi-6-edge-ai-vision-camera-based-on-stm32n6-mcu/) |
 | 2026-09-11 | Trying to Fix a Suspiciously Cheap Enterprise-Grade Network Switch | Hackaday | [link](https://hackaday.com/2026/09/11/trying-to-fix-a-suspiciously-cheap-enterprise-grade-network-switch/) |
 | 2026-09-11 | Making a Neo Nuvistor Project in 2026 | Hackaday | [link](https://hackaday.com/2026/09/11/making-a-neo-nuvistor-project-in-2026/) |
 | 2026-09-11 | Hand-Coded ASM Powers Homebrew SNES Game | Hackaday | [link](https://hackaday.com/2026/09/11/hand-coded-asm-powers-homebrew-snes-game/) |
 | 2026-09-11 | Hackaday Podcast Episode 386: Doomscroll Tamagotchis, Clavichords, and Vibrotrucks | Hackaday | [link](https://hackaday.com/2026/09/11/hackaday-podcast-episode-386-doomscroll-tamagotchis-clavichords-and-vibrotrucks/) |
 | 2026-09-11 | This Machine Makes 35mm (Almost) Film | Hackaday | [link](https://hackaday.com/2026/09/11/this-machine-makes-35mm-almost-film/) |
-| 2026-09-11 | This Week in Security: It’s Patch Tuesday Again, TVs Spying, Supply Chain Worms Return, Prolonged Hack Impacts, Stolen IDs | Hackaday | [link](https://hackaday.com/2026/09/11/this-week-in-security-its-patch-tuesday-again-tvs-spying-supply-chain-worms-return-prolonged-hack-impacts-stolen-ids/) |
-| 2026-09-11 | Purely Random TV In Your Browser | Hackaday | [link](https://hackaday.com/2026/09/11/purely-random-tv-in-your-browser/) |
 | 2026-09-11 | Renesas RZ/G3L & RZ/G3SE – Ultra-low-power Cortex-A55 MPUs for industrial HMI and IoT applications | CNX Software | [link](https://www.cnx-software.com/2026/09/11/renesas-rz-g3l-rz-g3se-ultra-low-power-cortex-a55-mpus-for-industrial-hmi-and-iot-applications/) |
 | 2026-09-11 | Amlogic A123X and C305X2 Arm Cortex-A320 SoCs target industrial and low-power AIoT applications | CNX Software | [link](https://www.cnx-software.com/2026/09/11/amlogic-a123x-and-c305x2-arm-cortex-a320-socs-target-industrial-and-low-power-aiot-applications/) |
-| 2026-09-11 | Processors and Chiplet-Based FPGAs for Mission-Critical Systems, Scalable Physical AI Solutions: Embedded Week Insights | Embedded.com | [link](https://www.embedded.com/processors-and-chiplet-based-fpgas-for-mission-critical-systems-scalable-physical-ai-solutions-embedded-week-insights/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-09-10 | A Chip-scale Space-time Multiplexed Gaussian Boson Sampling Processor Beyond 10,000 Photons | [link](https://arxiv.org/pdf/2609.11922v1) |
+| 2026-09-10 | EVPeriscope: Extended Perception across Aerial and Ground Vehicles with Event-based Propeller Tracking | [link](https://arxiv.org/pdf/2609.11920v1) |
+| 2026-09-10 | MindTopo: Can Foundation Models Reason in Topological Space? | [link](https://arxiv.org/pdf/2609.11900v1) |
+| 2026-09-10 | CausalArena: Benchmarking Causal Discovery in the Foundation Model Era | [link](https://arxiv.org/pdf/2609.11897v1) |
+| 2026-09-10 | Learning JWST. I. A Foundation Model for New Population Discoveries and Morphology-Aware Photometric Redshift Measurements in the JADES Survey | [link](https://arxiv.org/pdf/2609.11879v1) |
+| 2026-09-10 | UniMPA: A Unified Memory-Prediction-Action Model via Action-Grounded Transition Modeling | [link](https://arxiv.org/pdf/2609.11875v1) |
+| 2026-09-10 | Evaluating Time-Series Foundation Models and Multimodal Dietary Context for CGM Forecasting | [link](https://arxiv.org/pdf/2609.11872v1) |
+| 2026-09-10 | Learning Agent-based Model Predictive Control for Holistic Vehicle Performance | [link](https://arxiv.org/pdf/2609.11871v1) |
+| 2026-09-10 | Target leakage, not model class, explains reported accuracy in survey-based cardiovascular screening: a leakage-tiered audit of glass-box and tabular foundation models | [link](https://arxiv.org/pdf/2609.11838v1) |
+| 2026-09-10 | Predefined-Time Resilient Integral Reinforcement Learning for Input-Constrained Unknown Nonlinear Systems Under FDI Attacks and Disturbances: A Fully Data-Driven Approach | [link](https://arxiv.org/pdf/2609.11815v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-12 | edward56/lingbot-vla-2.0-CqAkpFWmxR1X | 0 | 0 | [link](https://huggingface.co/edward56/lingbot-vla-2.0-CqAkpFWmxR1X) |
+| 2026-09-12 | MechaTrainer/lingbot-vla-2.0-cesBRyPcp3Ar | 0 | 0 | [link](https://huggingface.co/MechaTrainer/lingbot-vla-2.0-cesBRyPcp3Ar) |
 | 2026-09-12 | sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__lr5x__steps_60k | 0 | 0 | [link](https://huggingface.co/sam-guided-vlas/train_1_2_pile__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0__lr5x__steps_60k) |
 | 2026-09-12 | vladcat222/ntrMIXIllustriousXL_xiii_QNN | 0 | 0 | [link](https://huggingface.co/vladcat222/ntrMIXIllustriousXL_xiii_QNN) |
-| 2026-09-12 | logits/sana_rwm_policy_robodojo_320px_eef_s157000_lr1e-4cos_wd1e-2_alw1 | 0 | 0 | [link](https://huggingface.co/logits/sana_rwm_policy_robodojo_320px_eef_s157000_lr1e-4cos_wd1e-2_alw1) |
+| 2026-09-12 | Bench2Dex/policy_ckpt | 0 | 0 | [link](https://huggingface.co/Bench2Dex/policy_ckpt) |
+| 2026-09-12 | Ruinds/omx_act_policy | 0 | 1 | [link](https://huggingface.co/Ruinds/omx_act_policy) |
+| 2026-09-12 | kkahn2014/omx_act_policy | 0 | 0 | [link](https://huggingface.co/kkahn2014/omx_act_policy) |
+| 2026-09-12 | Jee92/omx_act_policy | 0 | 0 | [link](https://huggingface.co/Jee92/omx_act_policy) |
+| 2026-09-12 | Xiaolihai/etd-policy-rl-only-judgment | 0 | 0 | [link](https://huggingface.co/Xiaolihai/etd-policy-rl-only-judgment) |
 | 2026-09-12 | logits/sana_rwm_policy_from_pretrained_robodojo_320px_1e-4_cosine_clip1_2node | 0 | 0 | [link](https://huggingface.co/logits/sana_rwm_policy_from_pretrained_robodojo_320px_1e-4_cosine_clip1_2node) |
-| 2026-09-12 | geonmin-kim/Cosmos3-Edge-Policy-DROID-FastWAM-K2-sim | 0 | 0 | [link](https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-DROID-FastWAM-K2-sim) |
-| 2026-09-12 | Xiaolihai/etd-policy-rl-only-sufficiency | 0 | 0 | [link](https://huggingface.co/Xiaolihai/etd-policy-rl-only-sufficiency) |
-| 2026-09-11 | RhinoceratopsvsSuperpuma/robot_learning_tutorial_diffusion | 0 | 0 | [link](https://huggingface.co/RhinoceratopsvsSuperpuma/robot_learning_tutorial_diffusion) |
-| 2026-09-11 | maxlii/Robotwin-piper-x-dual | 0 | 0 | [link](https://huggingface.co/maxlii/Robotwin-piper-x-dual) |
-| 2026-09-11 | imayakakimura/robotics-vision-language-survey | 0 | 0 | [link](https://huggingface.co/imayakakimura/robotics-vision-language-survey) |
-| 2026-09-11 | hackathon1-fmm/act_cube_sort_robot_1_v0_h200x4_20k | 0 | 0 | [link](https://huggingface.co/hackathon1-fmm/act_cube_sort_robot_1_v0_h200x4_20k) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3262 | Python | 1304.9 | [link](https://github.com/NVIDIA/skills) |
-| commaai/openpilot | 63635 | Python | 25454.1 | [link](https://github.com/commaai/openpilot) |
-| questdb/questdb | 17319 | Java | 6927.7 | [link](https://github.com/questdb/questdb) |
-| sou350121/VLA-Handbook | 609 | HTML | 243.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| deeplethe/utopia | 6871 | Rust | 2748.5 | [link](https://github.com/deeplethe/utopia) |
-| copper-project/copper-rs | 1488 | Rust | 595.3 | [link](https://github.com/copper-project/copper-rs) |
-| Edgenesis/shifu | 1435 | Go | 574.1 | [link](https://github.com/Edgenesis/shifu) |
-| mosaico-labs/mosaico | 1030 | Python | 412.1 | [link](https://github.com/mosaico-labs/mosaico) |
+| NVIDIA/skills | 3264 | Python | 1305.7 | [link](https://github.com/NVIDIA/skills) |
 | awslabs/awsome-distributed-ai | 473 | Shell | 189.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| Developer-Y/cs-video-courses | 83477 |  | 33390.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63638 | Python | 25455.3 | [link](https://github.com/commaai/openpilot) |
+| questdb/questdb | 17319 | Java | 6927.7 | [link](https://github.com/questdb/questdb) |
+| ArduPilot/ardupilot | 15848 | C++ | 6339.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| sou350121/VLA-Handbook | 609 | HTML | 243.7 | [link](https://github.com/sou350121/VLA-Handbook) |
+| deeplethe/utopia | 7010 | Rust | 2804.1 | [link](https://github.com/deeplethe/utopia) |
+| vllm-project/vllm-omni | 6767 | Python | 2706.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| isaac-sim/IsaacLab | 8104 | Python | 3241.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| Hebbian-Robotics/hflow | 262 | Python | 104.9 | [link](https://github.com/Hebbian-Robotics/hflow) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -108,7 +119,7 @@ _No items collected yet._
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-11 | HD Hyundai Robotics invests $9.7 mn in Korean physical AI startup - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTE5mWTBpeTljcjBWMDYxbHA5bWNOZVVxMVZYTkpkS0pVTDBxRVluLXo3MGxQSElncDVLYzkwdHFLRElTVVN3LTRtUVRYVmwzYVJsY2xTR1JpYWRVLVMzUC02T2I5dm9LOHJSUWlV?oc=5) |
+| 2026-09-11 | HD Hyundai Robotics invests $9.7 mn in Korean physical AI startup - kedglobal.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTE5mWTBpeTljcjBWMDYxbHA5bWNOZVVxMVZYTkpkS0pVTDBxRVluLXo3MGxQSElncDVLYzkwdHFLRElTVVN3LTRtUVRYVmwzYVJsY2xTR1JpYWRVLVMzUC02T2I5dm9LOHJSUWlV?oc=5) |
 | 2026-09-11 | Automated chip design, physical AI lead startup activity across APAC: AWS exec - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeEkzS0p0a3gyaURSQVdDOUY1MVM3bDFua05WcGhVQWRRZXc3TlJBSlpJbkVGX1VMWFlTWDYzdDhyelo2YUNmTmUyZ29odjBPZUprOVpTM3JuT3ZKN25teXdvbkMtZnhMakkzcUt4azFZTDdHVUVNbU5mWnRoVmtlM0JSTk5qUGtaMFM5ZFRfYkJxa25kazA5ODB3bWt0YWduRFdYa1ROOE5oZVItWGRlLXRQUC1qVUFyWW9rZmN6Tlg3R2h3TkdYQ3J2V0ZqbmNXTVFqdVd5ZWlSanhu0gHiAUFVX3lxTFAxdm5iaDF0eWJfTVliN0pxc3RMQ1NDb1FzZUtGMldGejVPN2lIbjlWYlpKTkNzWGkwdHFOVzRiNERHREFYUWVaeGUySndOUWp2bEd2azRURHdGdmVBWHhoZUVLSkoya0VJM3NmMzlxOERwLU5oUmdIdldlZWxMLXNHcXd4NTF6SFQtTEQ0RGZMNU5paVNoM3E0VU9Kd3R0X0xLOVJtZ1Vybmw4NV9ZdEQyWjY2THg0TDJGT3hnSkpteVhFTG44aWZTNVRWUDJsUG8zMEstaVdLOUNZNnhtTjF2NUE?oc=5) |
 | 2026-09-11 | China's Embodied AI Startup Kinetix AI Raises Over 500 Million Yuan in Angel+ Round Led by Temasek-Backed Vertex Ventures - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBDQWN5VnpQMDVnQUQ4V25uRnc2M0MzRGs3NFBBYTdMaEtOMVlNdVp3UEZsUno0WkZHd3VtVXd4OEM1OVZxQWE2SU5XbjAzd3ZjQUZCY1V0TTM3bHVSSjNUcTlwZDl1WFlNRmllTFMwTGF1VlM5TWc?oc=5) |
 | 2026-09-11 | A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDBpLTJ2bkg4MW1WX3Vzbk1vY1ViazJMZEYyWHlibW11dWFxTl85dEZNWUlVVHNmVEhkNkRvTjRxcVVDVk5pM01obkpMVXR5b0ExeGl3N3F5T0Vtd0NUMXplZzdpWUVNbGhyTUtKcFhGa1ZiUWNVTG1fbW1STk9JUUxveGtiOE1JdTVhbGlZOU1xZlFtU3dXYdIBngFBVV95cUxNQUt5TGk3QjZjNUFJTENnTDYtZjBvdFptNHVlTFlIaEF4WERaTjdnd21oR0l3QzFNdW85NGY5alNPY1A0WEs4S19rdGlKc2NKbWRXczktWmdBVG9IVjAyRUFtbnhEX1J1cUl0M1Nkbm9lcUhtNkE5bHk0WXdNUWhaQXhRcHNzU1BMa3BoNmpYNFZsZjNuZUN3UGNRSHc3QQ?oc=5) |
