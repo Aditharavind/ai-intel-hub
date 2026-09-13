@@ -1,5 +1,23 @@
 [
   {
+    "model": "RobotisSW/clean_table_bce_100k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/clean_table_bce_100k",
+    "date": "2026-09-13",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "milab-robot/alm1-0818-amore.M",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/milab-robot/alm1-0818-amore.M",
+    "date": "2026-09-13",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "milab-robot/alm1-0731-milab.60.M",
     "downloads": 0,
     "likes": 0,
@@ -81,15 +99,6 @@
     "score": 0.1
   },
   {
-    "model": "milab-robot/alm1-0818-amore.M",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/milab-robot/alm1-0818-amore.M",
-    "date": "2026-09-13",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "huzican0419/robotwin_piper_x_sft_step100k",
     "downloads": 0,
     "likes": 0,
@@ -99,12 +108,75 @@
     "score": 0.1
   },
   {
-    "model": "huzican0419/robotwin_piper_x_sft_step80k",
+    "model": "mim-chess-vlas/train_800_sparse__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 3,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-13",
+    "keyword": "vla",
+    "score": 0.7
+  },
+  {
+    "model": "mim-chess-vlas/train_800_sparse__mask__blur_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__mask__blur_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-13",
+    "keyword": "vla",
+    "score": 0.3
+  },
+  {
+    "model": "mim-chess-vlas/train_800_sparse__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/huzican0419/robotwin_piper_x_sft_step80k",
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-09-13",
-    "keyword": "robot",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_sparse__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 2,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-13",
+    "keyword": "vla",
+    "score": 0.5
+  },
+  {
+    "model": "mim-chess-vlas/train_400_sparse__no_mask__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_400_sparse__no_mask__pi05__seed_0",
+    "date": "2026-09-13",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_sparse__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-13",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_sparse__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-13",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_sparse__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-13",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -126,46 +198,10 @@
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/train_800_sparse__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-13",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_sparse__mask__blur_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__mask__blur_a50__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-13",
-    "keyword": "vla",
-    "score": 0.3
-  },
-  {
     "model": "mim-chess-vlas/train_800_sparse__no_mask__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__no_mask__pi05__seed_0",
-    "date": "2026-09-13",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_sparse__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 3,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__mask__separate_channel__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-13",
-    "keyword": "vla",
-    "score": 0.7
-  },
-  {
-    "model": "mim-chess-vlas/train_800_sparse__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-09-13",
     "keyword": "vla",
     "score": 0.1
@@ -180,42 +216,6 @@
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/train_800_sparse__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 2,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-13",
-    "keyword": "vla",
-    "score": 0.5
-  },
-  {
-    "model": "Hazel500am/X-VLA-GeoRefiner-RoboDojo",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Hazel500am/X-VLA-GeoRefiner-RoboDojo",
-    "date": "2026-09-13",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "SeonghoonYu/RACE2_vlabench",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SeonghoonYu/RACE2_vlabench",
-    "date": "2026-09-13",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_400_sparse__no_mask__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_400_sparse__no_mask__pi05__seed_0",
-    "date": "2026-09-13",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "yzabelledel/embodied-ai-finetune",
     "downloads": 11,
     "likes": 0,
@@ -223,6 +223,24 @@
     "date": "2026-09-13",
     "keyword": "embodied",
     "score": 3.4
+  },
+  {
+    "model": "geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DIsaacsim_factory_conveyor-step30000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DIsaacsim_factory_conveyor-step30000",
+    "date": "2026-09-13",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DIsaacsim_factory_conveyor-step28000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DIsaacsim_factory_conveyor-step28000",
+    "date": "2026-09-13",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DIsaacsim_factory_conveyor-step26000",
@@ -310,24 +328,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DIsaacsim_factory_conveyor-step18000",
-    "date": "2026-09-13",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DIsaacsim_factory_conveyor-step16000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DIsaacsim_factory_conveyor-step16000",
-    "date": "2026-09-13",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DIsaacsim_factory_conveyor-step14000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DIsaacsim_factory_conveyor-step14000",
     "date": "2026-09-13",
     "keyword": "policy",
     "score": 0.1
