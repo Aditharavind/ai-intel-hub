@@ -1,5 +1,12 @@
 [
   {
+    "title": "Analyzing the FScale Instruction in Intel’s 8087 FPU",
+    "source": "Hackaday",
+    "date": "2026-09-13",
+    "url": "https://hackaday.com/2026/09/13/analyzing-the-fscale-instruction-in-intels-8087-fpu/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"421\" src=\"https://hackaday.com/wp-content/uploads/2026/09/8087_fscale_datapath_diagram_ken_shirriff.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>During his continuing analysis of the architecture and microcode of Intel&#8217;s highly influential 8087 floating point unit (FPU) co-processor, [Ken Shirriff] has now arrived at the point where he can <a class=\"read-more\" href=\"https://hackaday.com/2026/09/13/analyzing-the-fscale-instruction-in-intels-8087-fpu/\">&#8230;read more</a>"
+  },
+  {
     "title": "Keeping Time on Tumbling Icosahedra",
     "source": "Hackaday",
     "date": "2026-09-13",
@@ -35,6 +42,13 @@
     "summary": "<div><img alt=\"M5Stack M5Stamp LoRa Module (Right) and Module13.2 LoRa 1262(Left)\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/M5Stack-M5Stamp-LoRa-Module-Right-and-Module13.2-LoRa-1262Left-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>After launching the SX1262-based M5Stamp C6LoRa tiny module, M5Stack has launched two SX1262-based LoRa add-ons for the 868–923 MHz band: the tiny Stamp LoRa-1262 SMD module for custom PCBs, and the stackable Module13.2 LoRa-1262 module for the M5Stack Core series. The Stamp LoRa-1262 supports LoRa, FSK, GFSK, MSK, GMSK, and OOK modulation, with up to +22 dBm transmit power and -147 dBm receive sensitivity. The Module13.2 adds an RP-SMA antenna interface, an M5IOE1 IO expansion chip for reset and power management, and DIP switches for flexible pin routing and configurable I2C addresses, enabling multi-module stacking. Stamp LoRa-1262 SMD module M5Stack Stamp LoRa-1262 specifications: LoRa Transceiver – Semtech SX1262 Wireless Connectivity (LoRa) Frequency Band – 868 to 923 MHz Modulation Modes – LoRa, FSK, GFSK, MSK, GMSK, OOK Bitrate – Up to 300 kbps (programmable) Transmit power (Tx) – Up to +22 dBm Receive sensitivity (Rx) – Down to -147 dBm [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/13/m5stack-module13-2-lora-1262-expansion-board-integrates-14x10-mm-stamp-lora-1262-module/\">M5Stack Module13.2 LoRa-1262 expansion board integrates 14&#215;10 mm Stamp LoRa-1262 module</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "A Glowing Modern Grandfather Clock",
+    "source": "Adafruit",
+    "date": "2026-09-13",
+    "url": "https://blog.adafruit.com/2026/09/13/a-glowing-modern-grandfather-clock/",
+    "summary": "Get a bonus inside look into a planer in Full Stack Woodworking&#8217;s modern grandfather clock build video on YouTube: Building a sculptural, kinetic timepiece from Iroko hardwood. An ESP32 micro controller gets the time from NTP (Network Time Protocol) and positions a glowing, orb floating according to the time, along with lighting effects. We have [&#8230;]"
+  },
+  {
     "title": "Making an Air-Powered Circular Saw with LEGO",
     "source": "Hackaday",
     "date": "2026-09-12",
@@ -47,13 +61,6 @@
     "date": "2026-09-12",
     "url": "https://hackaday.com/2026/09/12/big-infinity-mirror-clock-invites-you-to-gaze-deeply/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/infinity-mirror-clock-1.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Andy Huot] has a fantastic-looking infinity mirror digital clock that really raises the bar. It uses high quality components, smart use of RGB LED animations, and a clever &#8220;stacked diffuser&#8221; <a class=\"read-more\" href=\"https://hackaday.com/2026/09/12/big-infinity-mirror-clock-invites-you-to-gaze-deeply/\">&#8230;read more</a>"
-  },
-  {
-    "title": "This Mac Is Open Source Hardware",
-    "source": "Hackaday",
-    "date": "2026-09-12",
-    "url": "https://hackaday.com/2026/09/12/this-mac-is-open-source-hardware/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/oshintosh-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Apple hardware has always been proprietary, sometimes to an extreme. But that&#8217;s not to say that it&#8217;s impossible to make something that does the same job, which is what [DosFox1] <a class=\"read-more\" href=\"https://hackaday.com/2026/09/12/this-mac-is-open-source-hardware/\">&#8230;read more</a>"
   },
   {
     "title": "NeoEyes NE302 – A tiny USB-C-powered WiFi 6 Edge AI Vision camera based on STM32N6 MCU",
@@ -306,13 +313,6 @@
     "date": "2026-09-10",
     "url": "https://blog.adafruit.com/2026/09/10/raspberry-pi-zero-back-holder-fits-snap-fit-case-for-3d-printer-mount-3dthursday-3dprinting/",
     "summary": "nikola1 shares: A back-holder mount designed from the ground up to fit the popular Raspberry Pi Zero Snap-Fit Case. Uses 2× M3×8mm screws to attach the holder to the back of your printer. Designer specifically used it for a P1S camera mod for smooth 1080p streams. Great companion piece to any of the Pi Zero [&#8230;]"
-  },
-  {
-    "title": "Halloween Classic Carved Pumpkin Lantern – LED Tea Light up to 38mm",
-    "source": "Adafruit",
-    "date": "2026-09-10",
-    "url": "https://blog.adafruit.com/2026/09/10/halloween-classic-carved-pumpkin-lantern-led-tea-light-up-to-38mm/",
-    "summary": "A classic Jack-o&#8217;-lantern for LED tea lights up to 38mm. Scales up to accommodate larger LED candles. No AMS needed — no glue required if you want to keep the lid separate. Printed with Bambu Matte PLA, looks great in silk filaments too. Traditional Halloween essential for the ramp block. By NUKDDD Every Thursday is [&#8230;]"
   },
   {
     "title": "TDK launches industry-leading low-resistance soft-termination X7R MLCCs with 10 μF/100 V in the 3225 format for AI servers, humanoids, and xEVs",
