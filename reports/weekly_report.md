@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-12 23:28 UTC
+Generated: 2026-09-13 01:30 UTC
 
 ## Top Papers
 _No items collected yet._

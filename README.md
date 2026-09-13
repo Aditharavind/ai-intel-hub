@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-12 23:28 UTC
+Last Updated: 2026-09-13 01:30 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -66,6 +66,9 @@ _No items collected yet._
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-13 | yzabelledel/embodied-ai-finetune | 0 | 0 | [link](https://huggingface.co/yzabelledel/embodied-ai-finetune) |
+| 2026-09-12 | jacobgcampbell/robotics-vision-language-beta | 0 | 0 | [link](https://huggingface.co/jacobgcampbell/robotics-vision-language-beta) |
+| 2026-09-12 | RhinoceratopsvsSuperpuma/robot_learning_tutorial_act | 0 | 0 | [link](https://huggingface.co/RhinoceratopsvsSuperpuma/robot_learning_tutorial_act) |
 | 2026-09-12 | RhinoceratopsvsSuperpuma/robot_learning_tutorial_diffusion | 19 | 0 | [link](https://huggingface.co/RhinoceratopsvsSuperpuma/robot_learning_tutorial_diffusion) |
 | 2026-09-12 | jiezhao92/robotics-vision-language | 0 | 0 | [link](https://huggingface.co/jiezhao92/robotics-vision-language) |
 | 2026-09-12 | tarzanagh/Multi-Robot-application | 0 | 0 | [link](https://huggingface.co/tarzanagh/Multi-Robot-application) |
@@ -73,23 +76,20 @@ _No items collected yet._
 | 2026-09-12 | Marviss/robot | 0 | 0 | [link](https://huggingface.co/Marviss/robot) |
 | 2026-09-12 | hackathon1-fmm/act_rod_insert_robot_1_v0_h200x2_20k | 0 | 0 | [link](https://huggingface.co/hackathon1-fmm/act_rod_insert_robot_1_v0_h200x2_20k) |
 | 2026-09-12 | artnfull/open-bird-robot-mujoco-ppo | 0 | 1 | [link](https://huggingface.co/artnfull/open-bird-robot-mujoco-ppo) |
-| 2026-09-12 | Myungkyu/hiwrld-baseline-ckpts-real-robot | 0 | 1 | [link](https://huggingface.co/Myungkyu/hiwrld-baseline-ckpts-real-robot) |
-| 2026-09-12 | RobotEra/Qwen2-0.5B-GRPO-test | 0 | 0 | [link](https://huggingface.co/RobotEra/Qwen2-0.5B-GRPO-test) |
-| 2026-09-12 | z-lab/flashvla-lingbot-robotwin | 16 | 1 | [link](https://huggingface.co/z-lab/flashvla-lingbot-robotwin) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3270 | Python | 1308.1 | [link](https://github.com/NVIDIA/skills) |
-| awslabs/awsome-distributed-ai | 473 | Shell | 189.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 63640 | Python | 25456.1 | [link](https://github.com/commaai/openpilot) |
 | questdb/questdb | 17320 | Java | 6928.1 | [link](https://github.com/questdb/questdb) |
-| ArduPilot/ardupilot | 15852 | C++ | 6340.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 15446 | Python | 6178.5 | [link](https://github.com/earthtojake/text-to-cad) |
-| google-deepmind/mujoco | 15085 | C++ | 6034.1 | [link](https://github.com/google-deepmind/mujoco) |
+| RLinf/RLinf | 5166 | Python | 2066.5 | [link](https://github.com/RLinf/RLinf) |
+| deeplethe/utopia | 7196 | Rust | 2878.5 | [link](https://github.com/deeplethe/utopia) |
+| NVIDIA/skills | 3271 | Python | 1308.5 | [link](https://github.com/NVIDIA/skills) |
+| awslabs/awsome-distributed-ai | 473 | Shell | 189.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| ArduPilot/ardupilot | 15853 | C++ | 6341.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| earthtojake/text-to-cad | 15455 | Python | 6182.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 15086 | C++ | 6034.5 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 11433 | Rust | 4573.3 | [link](https://github.com/rerun-io/rerun) |
-| dora-rs/dora | 3932 | Rust | 1572.9 | [link](https://github.com/dora-rs/dora) |
-| sou350121/VLA-Handbook | 609 | HTML | 243.7 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -113,7 +113,7 @@ _No items collected yet._
 | 2026-09-11 | China's Embodied AI Startup Kinetix AI Raises Over 500 Million Yuan in Angel+ Round Led by Temasek-Backed Vertex Ventures - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBDQWN5VnpQMDVnQUQ4V25uRnc2M0MzRGs3NFBBYTdMaEtOMVlNdVp3UEZsUno0WkZHd3VtVXd4OEM1OVZxQWE2SU5XbjAzd3ZjQUZCY1V0TTM3bHVSSjNUcTlwZDl1WFlNRmllTFMwTGF1VlM5TWc?oc=5) |
 | 2026-09-11 | A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDBpLTJ2bkg4MW1WX3Vzbk1vY1ViazJMZEYyWHlibW11dWFxTl85dEZNWUlVVHNmVEhkNkRvTjRxcVVDVk5pM01obkpMVXR5b0ExeGl3N3F5T0Vtd0NUMXplZzdpWUVNbGhyTUtKcFhGa1ZiUWNVTG1fbW1STk9JUUxveGtiOE1JdTVhbGlZOU1xZlFtU3dXYdIBngFBVV95cUxNQUt5TGk3QjZjNUFJTENnTDYtZjBvdFptNHVlTFlIaEF4WERaTjdnd21oR0l3QzFNdW85NGY5alNPY1A0WEs4S19rdGlKc2NKbWRXczktWmdBVG9IVjAyRUFtbnhEX1J1cUl0M1Nkbm9lcUhtNkE5bHk0WXdNUWhaQXhRcHNzU1BMa3BoNmpYNFZsZjNuZUN3UGNRSHc3QQ?oc=5) |
 | 2026-09-11 | Chinese Humanoid Robot Startup Accuses OpenAI of Technology Plagiarism, Launches Legal Action - finance.biggo.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9XY0o1S0NDSGVUWkhHSGRGN214dTFrZ0hrQ1pVVlFrQk8zM0hER1hlYldpMFR5emNmYUoxMDNJZzdKMmh5SFJESEdfOVc4UWx1eVBvRXdseTltSkVRZTJQU3FPSE1mYXVNb1hTZFZDZHVCR3h3S3c?oc=5) |
-| 2026-09-11 | The world's largest, Google is queuing up to buy Figure, and this team has built the most popular robot in Silicon Valley. - eu.36kr.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zdFVHSnpjNXRvd2RlbWdjT0NINV9MR2dET0I4UkIyNlA0MHhxREtNMjl6RUpyT0liaTFCRDlGX0J1STVjYTFNaEM2Y0hxRXZpQk84?oc=5) |
+| 2026-09-11 | The world's largest, Google is queuing up to buy Figure, and this team has built the most popular robot in Silicon Valley. - 36 Kr | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zdFVHSnpjNXRvd2RlbWdjT0NINV9MR2dET0I4UkIyNlA0MHhxREtNMjl6RUpyT0liaTFCRDlGX0J1STVjYTFNaEM2Y0hxRXZpQk84?oc=5) |
 | 2026-09-10 | Japan's Algomatic Dynamics Laucnhes with $32.5M in Funding to Develop Physical AI, Robotic Hand - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUTMtcTc4VS1kR3EwTWNRQ0s5ckFoNmtsUkVUallldkZMckswNTFpcHV1aEtTUUl3ZHd0N0tRMkFfMFFPZUI0TjFGclFKendpcng2aFBJSVlHZ0hXenZfYnY4dGRHSjdEUWd6WnY0X3MxdEZyMHNqMlljY01iaEFqSDhrc19qWmZZQkJVb3ktZ0hzeFdWbXFFTjJtUmV5cEFLTXlUeGd3YVIwcE45UDhGOUtOZEpFZEhlVGdCWVlXc1dRTUZhQ2RhNTBR?oc=5) |
 | 2026-09-10 | Embodied AI startup PHYMI raises nearly US$100 million in seed funding - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzZ5X2d4NC1uOUZrTjlCTHVIcXdhX0Q1NUVVaXAxdHNvenJCNkhCUzVCZ2NUXzRhNmo5enUxXy15QzQ1RGR5OVY1QlRDaHRobTN5QXIzSjNrdXdmc3NTWi02UTljeEdiSWU3WE1OczBhZG9UZ3J4QzJEem5hX2hWS1gyb25vNi15UHBpcV9qVXlVcVBRM1RJYndnUmE0Z3BibUtyag?oc=5) |
 | 2026-09-10 | XPeng's IRON Humanoid Robot Walked Off a Real Production Line in Guangzhou - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFdMeTM2ajg1MHNESnktMVg1V2NmbklFS3N1UkxXc2hUMm5yMU42VWh1TGRwRXNkQWhERXRNcFgxa0N1ZUZFZjIydFFEZEVsMDlXdkwtZ2xHRjlOUEJ2MnRpS2FMTGo5UF9YanVZNHhUNWxXY1lVb3ZIeWZSbXNuYVFCWXBXN0NGSE16RXYyaG5nbWhOQ0pfN1dVdzAyVDZkdDFn?oc=5) |
