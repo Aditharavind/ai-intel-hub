@@ -1,5 +1,12 @@
 [
   {
+    "title": "A 386 PC For Your RP2350",
+    "source": "Hackaday",
+    "date": "2026-09-13",
+    "url": "https://hackaday.com/2026/09/13/a-386-pc-for-your-rp2350/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/frank386-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We&#8217;re at a fortunate moment: microcontrollers available at modest prices are edging into the capability level previously reserved for full-fat systems and can, through emulation, run software beyond classic 8-bit <a class=\"read-more\" href=\"https://hackaday.com/2026/09/13/a-386-pc-for-your-rp2350/\">&#8230;read more</a>"
+  },
+  {
     "title": "Analyzing the FScale Instruction in Intel’s 8087 FPU",
     "source": "Hackaday",
     "date": "2026-09-13",
@@ -42,6 +49,20 @@
     "summary": "<div><img alt=\"M5Stack M5Stamp LoRa Module (Right) and Module13.2 LoRa 1262(Left)\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/M5Stack-M5Stamp-LoRa-Module-Right-and-Module13.2-LoRa-1262Left-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>After launching the SX1262-based M5Stamp C6LoRa tiny module, M5Stack has launched two SX1262-based LoRa add-ons for the 868–923 MHz band: the tiny Stamp LoRa-1262 SMD module for custom PCBs, and the stackable Module13.2 LoRa-1262 module for the M5Stack Core series. The Stamp LoRa-1262 supports LoRa, FSK, GFSK, MSK, GMSK, and OOK modulation, with up to +22 dBm transmit power and -147 dBm receive sensitivity. The Module13.2 adds an RP-SMA antenna interface, an M5IOE1 IO expansion chip for reset and power management, and DIP switches for flexible pin routing and configurable I2C addresses, enabling multi-module stacking. Stamp LoRa-1262 SMD module M5Stack Stamp LoRa-1262 specifications: LoRa Transceiver – Semtech SX1262 Wireless Connectivity (LoRa) Frequency Band – 868 to 923 MHz Modulation Modes – LoRa, FSK, GFSK, MSK, GMSK, OOK Bitrate – Up to 300 kbps (programmable) Transmit power (Tx) – Up to +22 dBm Receive sensitivity (Rx) – Down to -147 dBm [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/13/m5stack-module13-2-lora-1262-expansion-board-integrates-14x10-mm-stamp-lora-1262-module/\">M5Stack Module13.2 LoRa-1262 expansion board integrates 14&#215;10 mm Stamp LoRa-1262 module</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Adafruit Weekly Editorial Round-Up: T3CAD, CircuitPython Turbo, and more!",
+    "source": "Adafruit",
+    "date": "2026-09-13",
+    "url": "https://blog.adafruit.com/2026/09/13/adafruit-weekly-editorial-round-up-t3cad-circuitpython-turbo-and-more/",
+    "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG T3CAD: An agent-driven electronics [&#8230;]"
+  },
+  {
+    "title": "Driving 512 LEDs from a Nintendo Switch: ESP32, WS2812, and a 240fps",
+    "source": "Adafruit",
+    "date": "2026-09-13",
+    "url": "https://blog.adafruit.com/2026/09/13/driving-512-leds-from-a-nintendo-switch-esp32-ws2812-and-a-240fps/",
+    "summary": "Brewser is a homebrew web runtime for modded Switch consoles. The app Matrix Studio lets you drive an LED Matrix from your Switch! Matrix Studio is a pixel art and animation app running in Brewser, a homebrew web runtime and app platform for modded Nintendo Switch consoles. It streams frames live to a 512-LED WS2812 [&#8230;]"
+  },
+  {
     "title": "A Glowing Modern Grandfather Clock",
     "source": "Adafruit",
     "date": "2026-09-13",
@@ -54,13 +75,6 @@
     "date": "2026-09-12",
     "url": "https://hackaday.com/2026/09/12/making-an-air-powered-circular-saw-with-lego/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"478\" src=\"https://hackaday.com/wp-content/uploads/2026/09/lego_table_saw_jamies_brick_jams_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although building a table saw out of LEGO is probably not the first thing that comes to mind when you look at those colorful bits of plastic, [Jamie] has been <a class=\"read-more\" href=\"https://hackaday.com/2026/09/12/making-an-air-powered-circular-saw-with-lego/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Big Infinity Mirror Clock Invites You To Gaze Deeply",
-    "source": "Hackaday",
-    "date": "2026-09-12",
-    "url": "https://hackaday.com/2026/09/12/big-infinity-mirror-clock-invites-you-to-gaze-deeply/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/infinity-mirror-clock-1.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Andy Huot] has a fantastic-looking infinity mirror digital clock that really raises the bar. It uses high quality components, smart use of RGB LED animations, and a clever &#8220;stacked diffuser&#8221; <a class=\"read-more\" href=\"https://hackaday.com/2026/09/12/big-infinity-mirror-clock-invites-you-to-gaze-deeply/\">&#8230;read more</a>"
   },
   {
     "title": "NeoEyes NE302 – A tiny USB-C-powered WiFi 6 Edge AI Vision camera based on STM32N6 MCU",
@@ -103,76 +117,6 @@
     "date": "2026-09-11",
     "url": "https://www.embedded.com/renesas-launches-64-bit-mpus-for-hmi-and-iot-edge/",
     "summary": "<p>Renesas Electronics Corp. has expanded its RZ/G Series with two new 64-bit general-purpose microprocessors (MPUs) for human machine interface (HMI) and IoT edge systems. The pin-compatible RZ/G3L and RZ/G3SE MPUs target a range of industrial and consumer HMI and IoT gateway systems as well as home gateways that need high processing performance and high-speed network connectivity. The RZ/G3L integrates a graphics processing unit (GPU) for 3D graphics [...]</p>\n<p>The post <a href=\"https://www.embedded.com/renesas-launches-64-bit-mpus-for-hmi-and-iot-edge/\">Renesas Launches 64-Bit MPUs for HMI and IoT Edge</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "TechWorks calls for economic growth through UK expertise",
-    "source": "Electronics Weekly",
-    "date": "2026-09-11",
-    "url": "https://www.electronicsweekly.com/news/business/techworks-calls-for-economic-growth-through-uk-expertise-2026-09/",
-    "summary": "<p>TechWorks celebrated its 30th anniversary with the first TechWorks Semiconductors to Systems Summit (S2S26) in London. And it is calling for greater collaboration within the industry to turn UK technology [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/techworks-calls-for-economic-growth-through-uk-expertise-2026-09/\">TechWorks calls for economic growth through UK expertise</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "UKESF, Unibots partner for robotics and engineering",
-    "source": "Electronics Weekly",
-    "date": "2026-09-11",
-    "url": "https://www.electronicsweekly.com/news/design/stem/ukesf-unibots-partner-for-robotics-and-engineering-2026-09/",
-    "summary": "<p>The UK Electronics Skills Foundation (UKESF) is partnering with Unibots CIC to help make learning practical robotics more accessible and social for students. Unibots CIC is a non-profit organisation that [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/design/stem/ukesf-unibots-partner-for-robotics-and-engineering-2026-09/\">UKESF, Unibots partner for robotics and engineering</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Intel’s StrongARM commitment looking wobbly",
-    "source": "Electronics Weekly",
-    "date": "2026-09-11",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/intels-strongarm-commitment-looking-wobbly-2026-09/",
-    "summary": "<p>28 years ago Intel’s commitment to making Arm processors was looking wobbly. The  ‘x86 everywhere’ concept  could have cost the company dearly. In March 1998, EW reported: Intel’s commitment to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/intels-strongarm-commitment-looking-wobbly-2026-09/\">Intel’s StrongARM commitment looking wobbly</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "US Space Force selects Texas as third DARC site",
-    "source": "Electronics Weekly",
-    "date": "2026-09-11",
-    "url": "https://www.electronicsweekly.com/news/us-space-force-selects-texas-as-third-darc-site-2026-09/",
-    "summary": "<p>The U.S. Space Force has approved the location for the third and final site of the Deep Space Advanced Radar Capability (DARC), which involves a partnership of Australia, the UK [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/us-space-force-selects-texas-as-third-darc-site-2026-09/\">US Space Force selects Texas as third DARC site</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Most Read – EnSilica in Milan, Strong IQE, EUV lithography photomasks",
-    "source": "Electronics Weekly",
-    "date": "2026-09-11",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-ensilica-in-milan-strong-iqe-euv-lithography-photomasks-2026-09/",
-    "summary": "<p>The most popular stories on the site cover EnSilica opening a Space &#038; Communications centre in Milan, Kioxia dismissing talks of a tie-up with Hynix, and Q2 DRAM contract prices increasing 60%...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-ensilica-in-milan-strong-iqe-euv-lithography-photomasks-2026-09/\">Most Read &#8211; EnSilica in Milan, Strong IQE, EUV lithography photomasks</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "CIOE reflects industry shift to HPC and AI",
-    "source": "Electronics Weekly",
-    "date": "2026-09-11",
-    "url": "https://www.electronicsweekly.com/news/cioe-reflects-industry-shift-to-hpc-and-ai-2026-09/",
-    "summary": "<p>The 27th China International Optoelectronic Exposition (CIOE 2026) took place this week (09-11 September) at the Shenzhen World Exhibition &#38; Convention Center, China. CIOE’s 4,000 exhibitors represent multiple markets, although [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/cioe-reflects-industry-shift-to-hpc-and-ai-2026-09/\">CIOE reflects industry shift to HPC and AI</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "CXMT is world’s most profitable memory company",
-    "source": "Electronics Weekly",
-    "date": "2026-09-11",
-    "url": "https://www.electronicsweekly.com/news/business/cxmt-is-worlds-most-profitable-memory-company-2026-09/",
-    "summary": "<p>CXMT had Q2 EBIT of 82%, according to Quick FactSet, making it the world’s most profitable memory company. CXMT makes DDR5 while Hynix and Samsung have concentrated more on HBM, acting [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/cxmt-is-worlds-most-profitable-memory-company-2026-09/\">CXMT is world’s most profitable memory company</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "$5.75bn equity investment for UK datacentre companies",
-    "source": "Electronics Weekly",
-    "date": "2026-09-11",
-    "url": "https://www.electronicsweekly.com/news/business/5-75bn-vzc-money-for-uk-datacentre-companies-2026-09/",
-    "summary": "<p>$5.7 billion of equity investment has been raised by 24 UK datacentre companies, according to  a report from analysts Tracxn. $3.6 billion of the $5.7 billion has been raised since [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/5-75bn-vzc-money-for-uk-datacentre-companies-2026-09/\">$5.75bn equity investment for UK datacentre companies</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "TSMC August revenues up 53% YoY",
-    "source": "Electronics Weekly",
-    "date": "2026-09-11",
-    "url": "https://www.electronicsweekly.com/news/business/tsmc-august-revenues-up-53-yoy-2026-09/",
-    "summary": "<p>TSMC had record monthly revenue for August of $16.35 billion up 53.3% YoY and up 10.1% on  July. In Q2, the company had  a 77% jump in profit and forecast [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-august-revenues-up-53-yoy-2026-09/\">TSMC August revenues up 53% YoY</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Dual-phase smart power stage family has power density exceeding 2 A/mm²",
-    "source": "Electronics Weekly",
-    "date": "2026-09-11",
-    "url": "https://www.electronicsweekly.com/news/business/dual-phase-smart-power-stage-family-power-density-exceeding-2-a-mm%c2%b2-2026-09/",
-    "summary": "<p>Infineon is sampling  a dual-phase smart power stage family designed for AI accelerators and vertical power delivery modules. Integrating Infineon&#8217;s OptiMOS 6 MOSFETs and a dual-phase driver IC in a [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/dual-phase-smart-power-stage-family-power-density-exceeding-2-a-mm%c2%b2-2026-09/\">Dual-phase smart power stage family has power density exceeding 2 A/mm²</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "UPDATED GUIDE: Adafruit Metro M4 Express AirLift Lite #NoCode #WipperSnapper #AdafruitLearningSystem @Adafruit",
@@ -299,20 +243,6 @@
     "date": "2026-09-10",
     "url": "https://blog.adafruit.com/2026/09/10/flexi-cat-desk-pet-grumpy-cartoon-expression-with-6-coat-patterns-3dthursday-3dprinting/",
     "summary": "baynimals shares: Newly launched Sept 2026 — the baynimals flexi collection expanding beyond the barnyard! Signature grumpy cartoon expression and highly articulated segmented body. Incredibly wiggly, lays perfectly flat in total defeat, dense satisfying weight makes it a great desk pet and fidget. Print profiles for classic cat coat patterns including a Siamese variant. No-AMS [&#8230;]"
-  },
-  {
-    "title": "Case + Camera for Raspberry Pi Zero/2/W #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-09-10",
-    "url": "https://blog.adafruit.com/2026/09/10/case-camera-for-raspberry-pi-zero-2-w-3dthursday-3dprinting/",
-    "summary": "Shared by doles on MakerWorld: With the new Raspberry Pi Zero W (Pi0W) having been released, I decided to design a case and camera mount for my 3D printers. And what a better day to release it than Pi Day 2017! This should work if you don&#8217;t have the front acrylic panel attached. I&#8217;ve included [&#8230;]"
-  },
-  {
-    "title": "Raspberry Pi Zero Back Holder – Fits Snap-Fit Case for 3D Printer Mount #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-09-10",
-    "url": "https://blog.adafruit.com/2026/09/10/raspberry-pi-zero-back-holder-fits-snap-fit-case-for-3d-printer-mount-3dthursday-3dprinting/",
-    "summary": "nikola1 shares: A back-holder mount designed from the ground up to fit the popular Raspberry Pi Zero Snap-Fit Case. Uses 2× M3×8mm screws to attach the holder to the back of your printer. Designer specifically used it for a P1S camera mod for smooth 1080p streams. Great companion piece to any of the Pi Zero [&#8230;]"
   },
   {
     "title": "TDK launches industry-leading low-resistance soft-termination X7R MLCCs with 10 μF/100 V in the 3225 format for AI servers, humanoids, and xEVs",

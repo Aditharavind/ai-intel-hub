@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-13 16:40 UTC
+Last Updated: 2026-09-13 19:01 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-13 | A 386 PC For Your RP2350 | Hackaday | [link](https://hackaday.com/2026/09/13/a-386-pc-for-your-rp2350/) |
 | 2026-09-13 | Analyzing the FScale Instruction in Intel’s 8087 FPU | Hackaday | [link](https://hackaday.com/2026/09/13/analyzing-the-fscale-instruction-in-intels-8087-fpu/) |
 | 2026-09-13 | Keeping Time on Tumbling Icosahedra | Hackaday | [link](https://hackaday.com/2026/09/13/keeping-time-on-tumbling-icosahedra/) |
 | 2026-09-13 | Whip-Cracking Machine Reliably Breaks the Sound Barrier | Hackaday | [link](https://hackaday.com/2026/09/13/whip-cracking-machine-reliably-breaks-the-sound-barrier/) |
 | 2026-09-13 | Spin FV-1 Emulator Simplifies Sound Pedal Development | Hackaday | [link](https://hackaday.com/2026/09/12/spin-fv-1-emulator-simplifies-sound-pedal-development/) |
 | 2026-09-13 | 2026 Retrocomputing Challenge: 16-Bit Homebrew Relay Computer | Hackaday | [link](https://hackaday.com/2026/09/12/2026-retrocomputing-challenge-16-bit-homebrew-relay-computer/) |
 | 2026-09-13 | M5Stack Module13.2 LoRa-1262 expansion board integrates 14×10 mm Stamp LoRa-1262 module | CNX Software | [link](https://www.cnx-software.com/2026/09/13/m5stack-module13-2-lora-1262-expansion-board-integrates-14x10-mm-stamp-lora-1262-module/) |
+| 2026-09-13 | Adafruit Weekly Editorial Round-Up: T3CAD, CircuitPython Turbo, and more! | Adafruit | [link](https://blog.adafruit.com/2026/09/13/adafruit-weekly-editorial-round-up-t3cad-circuitpython-turbo-and-more/) |
+| 2026-09-13 | Driving 512 LEDs from a Nintendo Switch: ESP32, WS2812, and a 240fps | Adafruit | [link](https://blog.adafruit.com/2026/09/13/driving-512-leds-from-a-nintendo-switch-esp32-ws2812-and-a-240fps/) |
 | 2026-09-13 | A Glowing Modern Grandfather Clock | Adafruit | [link](https://blog.adafruit.com/2026/09/13/a-glowing-modern-grandfather-clock/) |
-| 2026-09-12 | Making an Air-Powered Circular Saw with LEGO | Hackaday | [link](https://hackaday.com/2026/09/12/making-an-air-powered-circular-saw-with-lego/) |
-| 2026-09-12 | Big Infinity Mirror Clock Invites You To Gaze Deeply | Hackaday | [link](https://hackaday.com/2026/09/12/big-infinity-mirror-clock-invites-you-to-gaze-deeply/) |
-| 2026-09-12 | NeoEyes NE302 – A tiny USB-C-powered WiFi 6 Edge AI Vision camera based on STM32N6 MCU | CNX Software | [link](https://www.cnx-software.com/2026/09/12/neoeyes-ne302-a-tiny-usb-c-powered-wifi-6-edge-ai-vision-camera-based-on-stm32n6-mcu/) |
 
 ## New Research Papers
 _No items collected yet._
@@ -66,6 +66,8 @@ _No items collected yet._
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-13 | Manuelaskll/robotics-vision-language-run3 | 0 | 0 | [link](https://huggingface.co/Manuelaskll/robotics-vision-language-run3) |
+| 2026-09-13 | perezmichael/cv-robotics-vision-language70 | 0 | 0 | [link](https://huggingface.co/perezmichael/cv-robotics-vision-language70) |
 | 2026-09-13 | B111ue/rss-robot-perception-checkpoints | 0 | 0 | [link](https://huggingface.co/B111ue/rss-robot-perception-checkpoints) |
 | 2026-09-13 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-09-13 | Riasok/pi05-robot-checkpoints-20260912 | 0 | 0 | [link](https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912) |
@@ -74,22 +76,20 @@ _No items collected yet._
 | 2026-09-13 | huzican0419/robotwin_piper_x_sft_step100k | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_sft_step100k) |
 | 2026-09-13 | huzican0419/robotwin_piper_x_sft_step80k | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_sft_step80k) |
 | 2026-09-13 | huzican0419/robotwin_piper_x_sft_step60k | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_sft_step60k) |
-| 2026-09-13 | huzican0419/robotwin_piper_x_sft_step40k | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_sft_step40k) |
-| 2026-09-13 | varungupta43/robotics-vision-language74 | 0 | 0 | [link](https://huggingface.co/varungupta43/robotics-vision-language74) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3273 | Python | 1309.3 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3274 | Python | 1309.7 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1488 | Rust | 595.3 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63646 | Python | 25458.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63647 | Python | 25458.9 | [link](https://github.com/commaai/openpilot) |
 | questdb/questdb | 17320 | Java | 6928.1 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 15547 | Python | 6218.9 | [link](https://github.com/earthtojake/text-to-cad) |
-| google-deepmind/mujoco | 15104 | C++ | 6041.7 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 15559 | Python | 6223.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 15106 | C++ | 6042.5 | [link](https://github.com/google-deepmind/mujoco) |
+| rerun-io/rerun | 11439 | Rust | 4575.7 | [link](https://github.com/rerun-io/rerun) |
 | RLinf/RLinf | 5184 | Python | 2073.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3935 | Rust | 1574.1 | [link](https://github.com/dora-rs/dora) |
-| Octoday-Hub/Embodied-AI | 2513 |  | 1005.3 | [link](https://github.com/Octoday-Hub/Embodied-AI) |
-| sou350121/VLA-Handbook | 609 | HTML | 243.7 | [link](https://github.com/sou350121/VLA-Handbook) |
+| Octoday-Hub/Embodied-AI | 2514 |  | 1005.7 | [link](https://github.com/Octoday-Hub/Embodied-AI) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -99,11 +99,11 @@ _No items collected yet._
 | 2026-09-09 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTFBwMklmTUEtY2pkR0ZEbVZlV0g5a0VRUkw0RGJOQlFIUldSZGk0dmsyUGpzejVscGlDY0dMM3p1NklrcEdNbGwxSU45RU81Q1AwSGJQakZvenk3VmtaVHZubndfU0xwcm5SdVJLRVBFMHFNX184emY1SQ?oc=5) |
 | 2026-09-08 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3ZMdEt4dnFNVFZreDNVNThJazlZWGZnelRWS1dLVWw2a1NKejlZUTFfMkE3WnhYUTl0UFpqNVhQY2JlcTNYWk0yRUVFMWNibDhEd1BvcTF4RmNXV1d4TVFocnpJWHk3clR4aTkyYmtQU25SZU1TSVNkTkVtZ2wteVpob0dNeXRpWGw2MFl5ZHJuZHp4S2kyVW5nekhkUHc?oc=5) |
 | 2026-09-07 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxNallKUzktNHBLcnV4YW9sZ3liNGpfVVBQdDZHWUY4UTUwVnZGZXhDUWJ2MExhTWN5M2xGdVFzWkRwT2drMlQ5TmRNeWdCaHdKcW5uQ2ZYSko1WTBFTW56ZnRPR0lXdVlhVmdfWnF5QU9uLVJDZVF2b2RobUViU2F3VEUtQ0NzcHlJU1hIT0NYVUtpeWRtY1E?oc=5) |
+| 2026-09-06 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3FQbGFsUS1ISGRhODAxVGc3Tk4xc244b2JMVjZWTEtkamZqc0ZNNzk3aUwyRnVnUHRLaFR4aUR3UGRBbTZWR3M0aGJweHNFZnMtaW5GQzJPRmh0aTBBY0FTTGtxTFotbjFrUE82d2k5Zy0yN29vQy15eEp4QTFOZENqWXBWc3hSRjg4VklFcTlzUXhMOEZaZEpXLTU?oc=5) |
 | 2026-09-04 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQVlFYZFAxSm10RkpsMlRkb1VGUWdnMm1mOHFEOVFKTS02cXFQTk5Pa0ZOTnVia0ZnS3djUHp3aWVLOXRMZ0hLOGNkOWJ1MjB2cGRoRXVQZGl2RmtMZnIwSWlXVE1FblpEZUlIOGgwVmxxdm1rOC1YaE9VSzhqV3lSX2lJTzlPMUcydXliLWlwcFhBMHVSaWFHdjBGNExUd0VBZW5maElMSm5rMC10akZCSGZGT2pDRm1qZE14R1R2UmU2V0lMV3ZlM0dn?oc=5) |
 | 2026-09-01 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE9KT1dxNVZuV1FXaWNueU5CWnBKZXJJeDFXcXFsTHVzT3lJRnFMUXFBcV9IOFVWckJOak5jcnBoa0l3TzhpOTR0dE1YSkJjNUx5cXVyVTYyM2pmdkNSMVFuNmpLZUJQX1ZwbE5lWU5PQWludUtwOFZoU3Z3?oc=5) |
 | 2026-08-31 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPem5reFYtX2ZaOEFvWUxUeW5HRkhZeGxnLWo2dUgxSm5yektocFlGd0Q2enE2S2RCUnlGVFF4SnRBR1h3THFJbTMyRVZqZDM0Z01ZUDNERFBvWWRTZXU1Uzk0QmJRREhBZ3k0VDY2TXRndzJ3TDVoZmh4NjZqbkZzNVpqYWsyNFQ5ZWFn?oc=5) |
 | 2026-08-31 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3YxWXNDYXFmdU5XXzNsYlJIbFFzVnFzcEdHVVZ3SlJ6YVZUTVNVOGRwSFhQWVBjUlZhQkNoRmZGa0RVS3JVd28weHVVWGhDN0hFZnlOeWVUQ0RqVTNvVGdEYnMwRjhHSGlSWGtxdUl2YUNPTmQzU1RTbXl0WUltUnNzblVvbGVtaENYbFBhWGYyU1BEVlE?oc=5) |
-| 2026-08-28 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUE5uUjBJdWtWanlWTy1VRW1xV3NKNmdlVmZ3QUI2alRESUYtdWhSQmZGX3dneTNPTWtNSkdUbGNzRW5kLWM5WjBxYmJ6am9lbjJtMGhPUFdsWFprOU9LZ3R2MElNaUs2ZHNWdGk0YTVTWFdnUHVxSlo3TnVQSUkxVWN0c3VueHNiNklv0gGQAUFVX3lxTE1iQUdNX0QzVTNWek92YWg2dzloNl95MUlnaE9YS3czWExUNWF2c0dtQ2tiMzNsM2s5ZU5PdkFMZHpMMWUzMlZnWHVpZXBEU0N6S2xHMC1QQl9QNmt3MlMxUGJDRjJmT2xrU3NGbzQ3cHdIRndib282Wmc0SjFMdTVpak13VndmcWtSeU1hR1dBcQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
