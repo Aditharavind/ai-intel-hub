@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-13 19:01 UTC
+Last Updated: 2026-09-13 21:50 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-13 | Rusting an E-scooter (In a Good Way) | Hackaday | [link](https://hackaday.com/2026/09/13/rusting-an-e-scooter-in-a-good-way/) |
 | 2026-09-13 | A 386 PC For Your RP2350 | Hackaday | [link](https://hackaday.com/2026/09/13/a-386-pc-for-your-rp2350/) |
 | 2026-09-13 | Analyzing the FScale Instruction in Intel’s 8087 FPU | Hackaday | [link](https://hackaday.com/2026/09/13/analyzing-the-fscale-instruction-in-intels-8087-fpu/) |
 | 2026-09-13 | Keeping Time on Tumbling Icosahedra | Hackaday | [link](https://hackaday.com/2026/09/13/keeping-time-on-tumbling-icosahedra/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-13 | M5Stack Module13.2 LoRa-1262 expansion board integrates 14×10 mm Stamp LoRa-1262 module | CNX Software | [link](https://www.cnx-software.com/2026/09/13/m5stack-module13-2-lora-1262-expansion-board-integrates-14x10-mm-stamp-lora-1262-module/) |
 | 2026-09-13 | Adafruit Weekly Editorial Round-Up: T3CAD, CircuitPython Turbo, and more! | Adafruit | [link](https://blog.adafruit.com/2026/09/13/adafruit-weekly-editorial-round-up-t3cad-circuitpython-turbo-and-more/) |
 | 2026-09-13 | Driving 512 LEDs from a Nintendo Switch: ESP32, WS2812, and a 240fps | Adafruit | [link](https://blog.adafruit.com/2026/09/13/driving-512-leds-from-a-nintendo-switch-esp32-ws2812-and-a-240fps/) |
-| 2026-09-13 | A Glowing Modern Grandfather Clock | Adafruit | [link](https://blog.adafruit.com/2026/09/13/a-glowing-modern-grandfather-clock/) |
 
 ## New Research Papers
 _No items collected yet._
@@ -66,6 +66,9 @@ _No items collected yet._
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-13 | milab-robot/alm1-0731-milab.60.M | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.60.M) |
+| 2026-09-13 | AnilShah/notes-robotics-vision-language | 0 | 0 | [link](https://huggingface.co/AnilShah/notes-robotics-vision-language) |
+| 2026-09-13 | maxlii/Robotwin-piper-x-dual | 0 | 0 | [link](https://huggingface.co/maxlii/Robotwin-piper-x-dual) |
 | 2026-09-13 | Manuelaskll/robotics-vision-language-run3 | 0 | 0 | [link](https://huggingface.co/Manuelaskll/robotics-vision-language-run3) |
 | 2026-09-13 | perezmichael/cv-robotics-vision-language70 | 0 | 0 | [link](https://huggingface.co/perezmichael/cv-robotics-vision-language70) |
 | 2026-09-13 | B111ue/rss-robot-perception-checkpoints | 0 | 0 | [link](https://huggingface.co/B111ue/rss-robot-perception-checkpoints) |
@@ -73,9 +76,6 @@ _No items collected yet._
 | 2026-09-13 | Riasok/pi05-robot-checkpoints-20260912 | 0 | 0 | [link](https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912) |
 | 2026-09-13 | hackathon1-fmm/act_rod_insert_robot_1_dagger24_h200x2_ft5k | 0 | 0 | [link](https://huggingface.co/hackathon1-fmm/act_rod_insert_robot_1_dagger24_h200x2_ft5k) |
 | 2026-09-13 | milab-robot/alm1-0818-amore.M | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0818-amore.M) |
-| 2026-09-13 | huzican0419/robotwin_piper_x_sft_step100k | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_sft_step100k) |
-| 2026-09-13 | huzican0419/robotwin_piper_x_sft_step80k | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_sft_step80k) |
-| 2026-09-13 | huzican0419/robotwin_piper_x_sft_step60k | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_sft_step60k) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -84,12 +84,12 @@ _No items collected yet._
 | copper-project/copper-rs | 1488 | Rust | 595.3 | [link](https://github.com/copper-project/copper-rs) |
 | commaai/openpilot | 63647 | Python | 25458.9 | [link](https://github.com/commaai/openpilot) |
 | questdb/questdb | 17320 | Java | 6928.1 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 15559 | Python | 6223.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| google-deepmind/mujoco | 15106 | C++ | 6042.5 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 15572 | Python | 6228.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 15107 | C++ | 6042.9 | [link](https://github.com/google-deepmind/mujoco) |
 | rerun-io/rerun | 11439 | Rust | 4575.7 | [link](https://github.com/rerun-io/rerun) |
 | RLinf/RLinf | 5184 | Python | 2073.7 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3935 | Rust | 1574.1 | [link](https://github.com/dora-rs/dora) |
-| Octoday-Hub/Embodied-AI | 2514 |  | 1005.7 | [link](https://github.com/Octoday-Hub/Embodied-AI) |
+| Octoday-Hub/Embodied-AI | 2516 |  | 1006.5 | [link](https://github.com/Octoday-Hub/Embodied-AI) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
