@@ -1,5 +1,12 @@
 [
   {
+    "title": "A UPS For Your Pi That’s a Little Different",
+    "source": "Hackaday",
+    "date": "2026-09-14",
+    "url": "https://hackaday.com/2026/09/14/a-ups-for-your-pi-thats-a-little-different/",
+    "summary": "There are many uninterruptible power supply (UPS) solutions for the Raspberry Pi that take the form of HATs with a battery on board, but they&#8217;re not suitable for every situation. <a class=\"read-more\" href=\"https://hackaday.com/2026/09/14/a-ups-for-your-pi-thats-a-little-different/\">&#8230;read more</a>"
+  },
+  {
     "title": "Pulse: a New VHDL Simulator",
     "source": "Hackaday",
     "date": "2026-09-14",
@@ -42,13 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/circuitpython_mandelbrot-feather-rp2040-dvi-source-10.100s.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It would not be at all original to declare that Python is the new BASIC. Like BASIC, it has been the first programming language for a whole generation of coders, <a class=\"read-more\" href=\"https://hackaday.com/2026/09/14/circuitpython-goes-turbo-with-precompiled-functions/\">&#8230;read more</a>"
   },
   {
-    "title": "Dramatically Increasing Usable Closet Space",
-    "source": "Hackaday",
-    "date": "2026-09-14",
-    "url": "https://hackaday.com/2026/09/13/dramatically-increasing-usable-closet-space/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/closet-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As any science YouTuber or first-year physics student is quick to point out, the universe is mostly empty space. Not just space itself, but the amount of &#8220;empty&#8221; space between <a class=\"read-more\" href=\"https://hackaday.com/2026/09/13/dramatically-increasing-usable-closet-space/\">&#8230;read more</a>"
-  },
-  {
     "title": "Morse Micro Wi-Fi HaLow USB adapters add 802.11ah connectivity to PCs and routers",
     "source": "CNX Software",
     "date": "2026-09-14",
@@ -77,67 +77,67 @@
     "summary": "<p>The embedded architecture of unmanned aerial vehicles (UAVs) is changing as more intelligence moves from the remote operator onto the aircraft itself. In a conventional, first-person-view drone, a human analyzes the video feed, determines where the aircraft should go, and makes many of the decisions required to complete the mission. But the architecture depends on [...]</p>\n<p>The post <a href=\"https://www.embedded.com/designing-swap-optimized-compute-for-uavs/\">Designing SWaP-Optimized Compute for UAVs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "CASIS celebrates 15 years managing International Space Station lab",
-    "source": "Electronics Weekly",
+    "title": "Recreating Voodoo graphics and a late-1990s gaming PC on an FPGA",
+    "source": "Adafruit",
     "date": "2026-09-14",
-    "url": "https://www.electronicsweekly.com/news/business/casis-celebrates-15-years-managing-international-space-station-lab-2026-09/",
-    "summary": "<p>The Center for the Advancement of Science in Space (CASIS) is celebrating 15 years as manager of the International Space Station (ISS) National Laboratory. The organisation is officially responsible the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/casis-celebrates-15-years-managing-international-space-station-lab-2026-09/\">CASIS celebrates 15 years managing International Space Station lab</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/14/recreating-voodoo-graphics-and-a-late-1990s-gaming-pc-on-an-fpga/",
+    "summary": "A new project called zSST is a SystemVerilog implementation of the 3dfx Voodoo Graphics chipset, the SST-1. Paired with the z486 soft CPU and the rest of a PC&#8217;s hardware, it forms z486 XL: a DOS machine with Voodoo graphics running entirely in the programmable logic of a Xilinx KV260 board. Tomb Raider runs on [&#8230;]"
   },
   {
-    "title": "binder adds midmount PCB connectors to its M12 portfolio",
-    "source": "Electronics Weekly",
+    "title": "The origins of Partner’s computer case",
+    "source": "Adafruit",
     "date": "2026-09-14",
-    "url": "https://www.electronicsweekly.com/news/products/connectors/binder-adds-midmount-pcb-connectors-to-its-m12-portfolio-2026-09/",
-    "summary": "<p>The circular industrial connector specialist binder binder is expanding its M12 portfolio with angled panel-mount connectors. For centric PCB mounting, they are designed to fit into a slim, cylindrical housing. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/connectors/binder-adds-midmount-pcb-connectors-to-its-m12-portfolio-2026-09/\">binder adds midmount PCB connectors to its M12 portfolio</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/14/the-origins-of-partners-computer-case/",
+    "summary": "Marko Štamcar, writing for the Računalniški muzej in Ljubljana, traced the origins of the plastic case used by the Iskra Delta Partner, the most successful Slovenian microcomputer. The 1983 Partner was built around the Zilog Z80 family and CP/M 2.2, with boards made to order in Italy, enclosures made in England, and assembly and BIOS [&#8230;]"
   },
   {
-    "title": "Serpac watch-style enclosures feature IP 67 sealing",
-    "source": "Electronics Weekly",
+    "title": "A spectacular LAN party house",
+    "source": "Adafruit",
     "date": "2026-09-14",
-    "url": "https://www.electronicsweekly.com/news/products/emech-enclosures/serpac-watch-style-enclosures-feature-ip-67-sealing-2026-09/",
-    "summary": "<p>Serpac is releasing its BW Series of IP 67-rated watch-style enclosures. The three models &#8211; BW2, BW4, BW6 &#8211; are available in different sizes and colours. The wearable enclosures target [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/emech-enclosures/serpac-watch-style-enclosures-feature-ip-67-sealing-2026-09/\">Serpac watch-style enclosures feature IP 67 sealing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/14/a-spectacular-lan-party-house/",
+    "summary": "Kenton Varda documented the LAN party house he and Jade Wang built in Austin, Texas, at lanparty.house. The basement game room has 12 PCs built into the walls that fold away when not in use. A conference table in the office opens to reveal six more stations. Twenty identical game machines live in a separate [&#8230;]"
   },
   {
-    "title": "Datacentre performance now sold by the rack not the chip",
-    "source": "Electronics Weekly",
+    "title": "Microcode in Intel’s 8087 floating-point chip: the scale instruction",
+    "source": "Adafruit",
     "date": "2026-09-14",
-    "url": "https://www.electronicsweekly.com/news/business/datacentre-semiconductor-market-to-hit-1-5trn-by-2031-says-yole-2026-09/",
-    "summary": "<p>The value in datacentres is shifting from the chip to the rack, says Yole, with hyperscalers and AI labs co-designing their own AI asics and with advanced packaging, HBM4, co-packaged [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/datacentre-semiconductor-market-to-hit-1-5trn-by-2031-says-yole-2026-09/\">Datacentre performance now sold by the rack not the chip</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/14/microcode-in-intels-8087-floating-point-chip-the-scale-instruction/",
+    "summary": "Ken Shirriff has published another look inside Intel&#8217;s 8087 floating-point coprocessor on righto.com, this time tracing the microcode behind a single instruction: FSCALE. He is working with the Opcode Collective, a group reverse engineering the chip&#8217;s microcode ROM, which holds 1648 micro-instructions. FSCALE multiplies a number by a power of two by adding to its [&#8230;]"
   },
   {
-    "title": "Enflame raises $900m",
-    "source": "Electronics Weekly",
+    "title": "A whole website of video game menus",
+    "source": "Adafruit",
     "date": "2026-09-14",
-    "url": "https://www.electronicsweekly.com/news/business/enflame-raises-900m-2026-09/",
-    "summary": "<p>Shanghai Enflame Technology has raised $900m in an IPO on the Shanghai exchange. The company expects a $128m loss for 2026 YTD. The company, founded in 2018 by two AMD [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/enflame-raises-900m-2026-09/\">Enflame raises $900m</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/14/a-whole-website-of-video-game-menus/",
+    "summary": "Marcin Wichary, writing on his blog Unsung, points readers to the Game UI Database, a reference site covering the interfaces of almost 2,000 games through more than 75,000 screenshots. It was built by Edd Coates, who calls himself a UI artist. The site is organized so you can jump straight to specific sections and tags. [&#8230;]"
   },
   {
-    "title": "High-end routing and aggregation equipment up by 25% y-o-y in Q2",
-    "source": "Electronics Weekly",
+    "title": "OSP, a less expensive PCB surface finish",
+    "source": "Adafruit",
     "date": "2026-09-14",
-    "url": "https://www.electronicsweekly.com/news/business/high-end-routing-and-aggregation-equipment-up-25-yoy-in-q2-2026-09/",
-    "summary": "<p>High-end routing and aggregation equipment revenue grew 25% y-o-y in Q2, says Dell’Oro, driven by stronger demand across all regions and customer segments. Notably, vendor direct sales revenue to cloud [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/high-end-routing-and-aggregation-equipment-up-25-yoy-in-q2-2026-09/\">High-end routing and aggregation equipment up by 25% y-o-y in Q2</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/14/osp-a-less-expensive-pcb-surface-finish/",
+    "summary": "Mike Rankin posted on X about trying OSP, a less expensive PCB surface finish, for the first time. He ordered boards from JLCPCB to compare it against the ENIG finish he normally uses. In his photo the top board is classic ENIG and the bottom is OSP, which has a darker, copper-looking color. OSP is [&#8230;]"
   },
   {
-    "title": "Nokia launches Cognitive Operations",
-    "source": "Electronics Weekly",
+    "title": "The air computer",
+    "source": "Adafruit",
     "date": "2026-09-14",
-    "url": "https://www.electronicsweekly.com/news/business/nokia-launches-cognitive-operations-2026-09/",
-    "summary": "<p>Nokia has launched Cognitive Operations (CO), a platform that unifies mission-critical communications, accelerated edge computing and operational AI for industries where failure in field operations is not an option. CO [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nokia-launches-cognitive-operations-2026-09/\">Nokia launches Cognitive Operations</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/14/the-air-computer/",
+    "summary": "The Chip Letter published a guest post by Jordan Taylor on computing with air. It covers fluidic logic: circuits that switch and store state using pressure and flow instead of electrons. Harvard&#8217;s Wyss Institute Octobot ran on a hydrogen peroxide reservoir and a platinum catalyst with a pneumatic control system, no motors, batteries or CPU, [&#8230;]"
   },
   {
-    "title": "Anti-surge chip resistors deliver 0.33W",
-    "source": "Electronics Weekly",
+    "title": "Is mathematics about to enter the conservatory?",
+    "source": "Adafruit",
     "date": "2026-09-14",
-    "url": "https://www.electronicsweekly.com/news/business/anti-surge-chip-resistors-delivering-0-33w-2026-09/",
-    "summary": "<p>ROHM has developed the &#8216;SDR01 Series&#8217; of high anti-surge chip resistors, delivering a class-leading rated power of 0.33W in the 0402 (1005 metric) size. Designed for electronic equipment where mounting [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/anti-surge-chip-resistors-delivering-0-33w-2026-09/\">Anti-surge chip resistors deliver 0.33W</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/14/is-mathematics-about-to-enter-the-conservatory/",
+    "summary": "Mike McCoy writes at mbmccoy.dev about a preprint that proves the Spherical Hadwiger Conjecture, open since about 1974. The paper, by Wang and Wu of Hunan University, credits OpenAI Codex with helping develop proof details, finding gaps, organizing the manuscript, and editing the English. The authors say they reviewed and verified all AI-assisted mathematical content [&#8230;]"
   },
   {
-    "title": "Ed Stiffens The PM’s Sinews",
-    "source": "Electronics Weekly",
+    "title": "Concrete Jack-o-Lantern Planter",
+    "source": "Adafruit",
     "date": "2026-09-14",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-stiffens-the-pms-spine-2026-09/",
-    "summary": "<p>The PM nobbled me after this week’s Cabinet and hustled me into the private office for a chinwag, Ed confides to his diary.  “Ed,” he says, “the media are dissing [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-stiffens-the-pms-spine-2026-09/\">Ed Stiffens The PM’s Sinews</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/14/concrete-jack-o-lantern-planter/",
+    "summary": "Halloween is coming and some of your plants may need to be repotted soon. Why not get your hands a little dirtier than usual and make this spooktacular Jack-o-Lantern planter by wannabemadsci. The mold was as simple as using a plastic Halloween Trick-or-Treat candy bucket. You may have to look around to find one with [&#8230;]"
   },
   {
     "title": "If it’s electronic paper, why not print to it?",
@@ -159,62 +159,6 @@
     "date": "2026-09-14",
     "url": "https://blog.adafruit.com/2026/09/14/reverse-engineering-an-asic/",
     "summary": "A writeup posted at kjartanvandriel.github.io walks through solving a Jane Street puzzle that hands you just two files: a GDS chip layout and a VCD recording of one test run. No Verilog, no schematic, just polygons on layers. The cell names start with sky130_fd_sc_hd__, which identifies the SkyWater 130 nm standard cell library. That makes [&#8230;]"
-  },
-  {
-    "title": "Microsoft plugs nearly 1,000 security holes – Krebs on Security",
-    "source": "Adafruit",
-    "date": "2026-09-14",
-    "url": "https://blog.adafruit.com/2026/09/14/microsoft-plugs-nearly-1000-security-holes-krebs-on-security/",
-    "summary": "Brian Krebs reports at Krebs on Security that Microsoft shipped updates for at least 974 security flaws this month, the largest single patch batch the company has ever released. The previous record was 570 flaws in July. September&#8217;s release pushes the year&#8217;s total past 2,600, more than double the 1,245 fixed in 2020, with three [&#8230;]"
-  },
-  {
-    "title": "This Mac is open source hardware",
-    "source": "Adafruit",
-    "date": "2026-09-14",
-    "url": "https://blog.adafruit.com/2026/09/14/this-mac-is-open-source-hardware/",
-    "summary": "DosFox1 has posted OSHintosh on GitHub, an open source hardware Macintosh 512Ke logic board built with no Apple hardware at all. It is a diskless machine: no SCSI, no floppy drive, no mass storage of any kind. It boots from a disk image baked into the ROM, based on the Big Mess o&#8217; Wires ROM-inator. [&#8230;]"
-  },
-  {
-    "title": "Intel reverses decision to cancel their open-source font project",
-    "source": "Adafruit",
-    "date": "2026-09-14",
-    "url": "https://blog.adafruit.com/2026/09/14/intel-reverses-decision-to-cancel-their-open-source-font-project/",
-    "summary": "Michael Larabel reports at Phoronix that Intel has reversed its decision to cancel Intel One Mono, the company&#8217;s open-source font project. Intel One Mono is a monospaced typeface aimed at developers, released under the SIL Open Font License and hosted on GitHub. Intel had moved to end the project, a decision that has now been [&#8230;]"
-  },
-  {
-    "title": "VolAnti: An ESP32-S3 Acoustic Drone Detector #drone #droneday",
-    "source": "Adafruit",
-    "date": "2026-09-14",
-    "url": "https://blog.adafruit.com/2026/09/14/volanti-an-esp32-s3-acoustic-drone-detector-drone-droneday/",
-    "summary": "A drone detector that relies on that unique whir of propellers, not a radio signal. University of York student Agam Rossen built this open-source acoustic drone detector. It uses four MEMS mics, an ESP32-S3, and it hears the propellers instead of the radio Fibre-optic FPV drones transmit nothing, so RF detection is blind to them; [&#8230;]"
-  },
-  {
-    "title": "A rare working Apple-1 could fetch $800,000 at auction",
-    "source": "Adafruit",
-    "date": "2026-09-14",
-    "url": "https://blog.adafruit.com/2026/09/14/a-rare-working-apple-1-could-fetch-800000-at-auction/",
-    "summary": "Juli Clover, writing for MacRumors, reports that an original Apple-1 computer is expected to sell for between $500,000 and $800,000 when it goes to auction in October. Fewer than 75 Apple-1 machines are known to exist, and fewer still run. This one, known as the &#8220;Hatfield&#8221; Apple-1, is number 48 on the Apple-1 registry and [&#8230;]"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-09-14",
-    "url": "https://blog.adafruit.com/2026/09/14/the-python-on-microcontrollers-newsletter-subscribe-for-free-9-14/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
-  },
-  {
-    "title": "Raspberry Pi 10000",
-    "source": "Adafruit",
-    "date": "2026-09-14",
-    "url": "https://blog.adafruit.com/2026/09/14/raspberry-pi-10000/",
-    "summary": "Super cool recent build from Indian maker Arnov Sharma: The main reason for making this project was actually pretty simple. I was already using the Pi 500+ with my USB recording microphone for voice-over work, and I kept thinking it really needed its own screen. See more details here on Instructables and YouTube."
-  },
-  {
-    "title": "Making Flat Multicolor 3D Prints",
-    "source": "Adafruit",
-    "date": "2026-09-14",
-    "url": "https://blog.adafruit.com/2026/09/14/making-flat-multicolor-3d-prints/",
-    "summary": "Prints Charming walks viewers through how they make these flat stained glass inspired 3D prints of Pokémon in this YouTube video: If you’ve ever wanted to create detailed 3D prints with lots of colors but felt limited by the number of filament slots or toolheads available on your printer, I’ll walk you through the process [&#8230;]"
   },
   {
     "title": "Fujitsu and Yaqumo begin testing quantum computing architecture and basic software on neutral-atom quantum computer hardware",
@@ -266,13 +210,6 @@
     "summary": "<div><img alt=\"M5Stack M5Stamp LoRa Module (Right) and Module13.2 LoRa 1262(Left)\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/M5Stack-M5Stamp-LoRa-Module-Right-and-Module13.2-LoRa-1262Left-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>After launching the SX1262-based M5Stamp C6LoRa tiny module, M5Stack has launched two SX1262-based LoRa add-ons for the 868–923 MHz band: the tiny Stamp LoRa-1262 SMD module for custom PCBs, and the stackable Module13.2 LoRa-1262 module for the M5Stack Core series. The Stamp LoRa-1262 supports LoRa, FSK, GFSK, MSK, GMSK, and OOK modulation, with up to +22 dBm transmit power and -147 dBm receive sensitivity. The Module13.2 adds an RP-SMA antenna interface, an M5IOE1 IO expansion chip for reset and power management, and DIP switches for flexible pin routing and configurable I2C addresses, enabling multi-module stacking. Stamp LoRa-1262 SMD module M5Stack Stamp LoRa-1262 specifications: LoRa Transceiver – Semtech SX1262 Wireless Connectivity (LoRa) Frequency Band – 868 to 923 MHz Modulation Modes – LoRa, FSK, GFSK, MSK, GMSK, OOK Bitrate – Up to 300 kbps (programmable) Transmit power (Tx) – Up to +22 dBm Receive sensitivity (Rx) – Down to -147 dBm [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/13/m5stack-module13-2-lora-1262-expansion-board-integrates-14x10-mm-stamp-lora-1262-module/\">M5Stack Module13.2 LoRa-1262 expansion board integrates 14&#215;10 mm Stamp LoRa-1262 module</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Adafruit Weekly Editorial Round-Up: T3CAD, CircuitPython Turbo, and more!",
-    "source": "Adafruit",
-    "date": "2026-09-13",
-    "url": "https://blog.adafruit.com/2026/09/13/adafruit-weekly-editorial-round-up-t3cad-circuitpython-turbo-and-more/",
-    "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG T3CAD: An agent-driven electronics [&#8230;]"
-  },
-  {
     "title": "NeoEyes NE302 – A tiny USB-C-powered WiFi 6 Edge AI Vision camera based on STM32N6 MCU",
     "source": "CNX Software",
     "date": "2026-09-12",
@@ -306,13 +243,6 @@
     "date": "2026-09-11",
     "url": "https://www.embedded.com/renesas-launches-64-bit-mpus-for-hmi-and-iot-edge/",
     "summary": "<p>Renesas Electronics Corp. has expanded its RZ/G Series with two new 64-bit general-purpose microprocessors (MPUs) for human machine interface (HMI) and IoT edge systems. The pin-compatible RZ/G3L and RZ/G3SE MPUs target a range of industrial and consumer HMI and IoT gateway systems as well as home gateways that need high processing performance and high-speed network connectivity. The RZ/G3L integrates a graphics processing unit (GPU) for 3D graphics [...]</p>\n<p>The post <a href=\"https://www.embedded.com/renesas-launches-64-bit-mpus-for-hmi-and-iot-edge/\">Renesas Launches 64-Bit MPUs for HMI and IoT Edge</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "TechWorks calls for economic growth through UK expertise",
-    "source": "Electronics Weekly",
-    "date": "2026-09-11",
-    "url": "https://www.electronicsweekly.com/news/business/techworks-calls-for-economic-growth-through-uk-expertise-2026-09/",
-    "summary": "<p>TechWorks celebrated its 30th anniversary with the first TechWorks Semiconductors to Systems Summit (S2S26) in London. And it is calling for greater collaboration within the industry to turn UK technology [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/techworks-calls-for-economic-growth-through-uk-expertise-2026-09/\">TechWorks calls for economic growth through UK expertise</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Imec demonstrates the extension of chemically amplified resists for High NA EUV lithography",
