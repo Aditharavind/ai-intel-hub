@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-13 23:42 UTC
+Last Updated: 2026-09-14 01:49 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-14 | Ed Stiffens The PM’s Sinews | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-stiffens-the-pms-spine-2026-09/) |
 | 2026-09-13 | Hackaday Links: September 13, 2026 | Hackaday | [link](https://hackaday.com/2026/09/13/hackaday-links-september-13-2026/) |
 | 2026-09-13 | Rusting an E-scooter (In a Good Way) | Hackaday | [link](https://hackaday.com/2026/09/13/rusting-an-e-scooter-in-a-good-way/) |
 | 2026-09-13 | A 386 PC For Your RP2350 | Hackaday | [link](https://hackaday.com/2026/09/13/a-386-pc-for-your-rp2350/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-13 | Spin FV-1 Emulator Simplifies Sound Pedal Development | Hackaday | [link](https://hackaday.com/2026/09/12/spin-fv-1-emulator-simplifies-sound-pedal-development/) |
 | 2026-09-13 | M5Stack Module13.2 LoRa-1262 expansion board integrates 14×10 mm Stamp LoRa-1262 module | CNX Software | [link](https://www.cnx-software.com/2026/09/13/m5stack-module13-2-lora-1262-expansion-board-integrates-14x10-mm-stamp-lora-1262-module/) |
 | 2026-09-13 | Adafruit Weekly Editorial Round-Up: T3CAD, CircuitPython Turbo, and more! | Adafruit | [link](https://blog.adafruit.com/2026/09/13/adafruit-weekly-editorial-round-up-t3cad-circuitpython-turbo-and-more/) |
-| 2026-09-13 | Driving 512 LEDs from a Nintendo Switch: ESP32, WS2812, and a 240fps | Adafruit | [link](https://blog.adafruit.com/2026/09/13/driving-512-leds-from-a-nintendo-switch-esp32-ws2812-and-a-240fps/) |
 
 ## New Research Papers
 _No items collected yet._
@@ -66,30 +66,30 @@ _No items collected yet._
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-14 | B111ue/rss-robot-perception-checkpoints | 0 | 0 | [link](https://huggingface.co/B111ue/rss-robot-perception-checkpoints) |
+| 2026-09-14 | Saputrafiona/robotics-vision-language | 0 | 0 | [link](https://huggingface.co/Saputrafiona/robotics-vision-language) |
+| 2026-09-14 | Hazel500am/X-VLA-GeoRefiner-RoboDojo | 0 | 0 | [link](https://huggingface.co/Hazel500am/X-VLA-GeoRefiner-RoboDojo) |
+| 2026-09-14 | mim-chess-vlas/train_800_sparse__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0 | 0 | 2 | [link](https://huggingface.co/mim-chess-vlas/train_800_sparse__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-14 | mim-chess-vlas/train_800_sparse__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_sparse__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-14 | mim-chess-vlas/train_600_sparse__no_mask__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_600_sparse__no_mask__pi05__seed_0) |
 | 2026-09-13 | RobotisSW/clean_table_bce_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/clean_table_bce_100k) |
 | 2026-09-13 | milab-robot/alm1-0818-amore.M | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0818-amore.M) |
 | 2026-09-13 | milab-robot/alm1-0731-milab.60.M | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0731-milab.60.M) |
 | 2026-09-13 | AnilShah/notes-robotics-vision-language | 0 | 0 | [link](https://huggingface.co/AnilShah/notes-robotics-vision-language) |
-| 2026-09-13 | maxlii/Robotwin-piper-x-dual | 0 | 0 | [link](https://huggingface.co/maxlii/Robotwin-piper-x-dual) |
-| 2026-09-13 | Manuelaskll/robotics-vision-language-run3 | 0 | 0 | [link](https://huggingface.co/Manuelaskll/robotics-vision-language-run3) |
-| 2026-09-13 | perezmichael/cv-robotics-vision-language70 | 0 | 0 | [link](https://huggingface.co/perezmichael/cv-robotics-vision-language70) |
-| 2026-09-13 | B111ue/rss-robot-perception-checkpoints | 0 | 0 | [link](https://huggingface.co/B111ue/rss-robot-perception-checkpoints) |
-| 2026-09-13 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
-| 2026-09-13 | Riasok/pi05-robot-checkpoints-20260912 | 0 | 0 | [link](https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3275 | Python | 1310.1 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1488 | Rust | 595.3 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63648 | Python | 25459.3 | [link](https://github.com/commaai/openpilot) |
+| awslabs/awsome-distributed-ai | 473 | Shell | 189.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| commaai/openpilot | 63650 | Python | 25460.1 | [link](https://github.com/commaai/openpilot) |
 | questdb/questdb | 17320 | Java | 6928.1 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 15577 | Python | 6230.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| ArduPilot/ardupilot | 15856 | C++ | 6342.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| earthtojake/text-to-cad | 15597 | Python | 6238.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | google-deepmind/mujoco | 15108 | C++ | 6043.3 | [link](https://github.com/google-deepmind/mujoco) |
-| rerun-io/rerun | 11440 | Rust | 4576.1 | [link](https://github.com/rerun-io/rerun) |
-| RLinf/RLinf | 5184 | Python | 2073.7 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3935 | Rust | 1574.1 | [link](https://github.com/dora-rs/dora) |
-| Octoday-Hub/Embodied-AI | 2516 |  | 1006.5 | [link](https://github.com/Octoday-Hub/Embodied-AI) |
+| sou350121/VLA-Handbook | 610 | HTML | 244.1 | [link](https://github.com/sou350121/VLA-Handbook) |
+| deeplethe/utopia | 7348 | Rust | 2939.3 | [link](https://github.com/deeplethe/utopia) |
+| vllm-project/vllm-omni | 6782 | Python | 2712.9 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -111,11 +111,11 @@ _No items collected yet._
 | 2026-09-13 | Physical AI startup Yuanshi raises tens of millions in quick Pre-A double round - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaUtpc2hfT0NUcDFCWHZXd2dKNmJGUDN0dzZKYUt6T1cwWExqSTB3dW1uZ1Q0ZHU3WXg4aHY1cy0wQ085dGV3TWloVlUwUU5zbS1fOHJYRmFBa1F4aXA1SlctR0ZFY3R6a0FOai13Tk13WFNjYUxCRDB2LXdRbmlxV253amw2Z1kwa3ZNd1p5Y01oUHhBa3M0OW9YazZua1l5QnNwclJtUjJxVENwampXT3Npbw?oc=5) |
 | 2026-09-13 | Li Auto's Former AI Chief Scientist Chen Wei Raises Hundreds of Millions of Yuan for Embodied AI Startup Targeting Home Robots - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1NakRUb0tlUVdORUJXZ25rU1NYTkVqSWVjdGZMTk9adVl0bjFyYi1veUVpczM3LXMwZW5Rd3lROFVXTjNsXzYycEZqemVNaVRBOFNuSlJYbEdSMDRaYVExRXBWZWliY3dXMzh2N0VqYWd0WmtyQ3c?oc=5) |
 | 2026-09-11 | HD Hyundai Robotics invests $9.7 mn in Korean physical AI startup - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTE5mWTBpeTljcjBWMDYxbHA5bWNOZVVxMVZYTkpkS0pVTDBxRVluLXo3MGxQSElncDVLYzkwdHFLRElTVVN3LTRtUVRYVmwzYVJsY2xTR1JpYWRVLVMzUC02T2I5dm9LOHJSUWlV?oc=5) |
-| 2026-09-11 | Automated chip design, physical AI lead startup activity across APAC: AWS exec - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeEkzS0p0a3gyaURSQVdDOUY1MVM3bDFua05WcGhVQWRRZXc3TlJBSlpJbkVGX1VMWFlTWDYzdDhyelo2YUNmTmUyZ29odjBPZUprOVpTM3JuT3ZKN25teXdvbkMtZnhMakkzcUt4azFZTDdHVUVNbU5mWnRoVmtlM0JSTk5qUGtaMFM5ZFRfYkJxa25kazA5ODB3bWt0YWduRFdYa1ROOE5oZVItWGRlLXRQUC1qVUFyWW9rZmN6Tlg3R2h3TkdYQ3J2V0ZqbmNXTVFqdVd5ZWlSanhu0gHiAUFVX3lxTFAxdm5iaDF0eWJfTVliN0pxc3RMQ1NDb1FzZUtGMldGejVPN2lIbjlWYlpKTkNzWGkwdHFOVzRiNERHREFYUWVaeGUySndOUWp2bEd2azRURHdGdmVBWHhoZUVLSkoya0VJM3NmMzlxOERwLU5oUmdIdldlZWxMLXNHcXd4NTF6SFQtTEQ0RGZMNU5paVNoM3E0VU9Kd3R0X0xLOVJtZ1Vybmw4NV9ZdEQyWjY2THg0TDJGT3hnSkpteVhFTG44aWZTNVRWUDJsUG8zMEstaVdLOUNZNnhtTjF2NUE?oc=5) |
+| 2026-09-11 | Automated chip design, physical AI lead startup activity across APAC: AWS exec - economictimes.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeEkzS0p0a3gyaURSQVdDOUY1MVM3bDFua05WcGhVQWRRZXc3TlJBSlpJbkVGX1VMWFlTWDYzdDhyelo2YUNmTmUyZ29odjBPZUprOVpTM3JuT3ZKN25teXdvbkMtZnhMakkzcUt4azFZTDdHVUVNbU5mWnRoVmtlM0JSTk5qUGtaMFM5ZFRfYkJxa25kazA5ODB3bWt0YWduRFdYa1ROOE5oZVItWGRlLXRQUC1qVUFyWW9rZmN6Tlg3R2h3TkdYQ3J2V0ZqbmNXTVFqdVd5ZWlSanhu0gHiAUFVX3lxTFAxdm5iaDF0eWJfTVliN0pxc3RMQ1NDb1FzZUtGMldGejVPN2lIbjlWYlpKTkNzWGkwdHFOVzRiNERHREFYUWVaeGUySndOUWp2bEd2azRURHdGdmVBWHhoZUVLSkoya0VJM3NmMzlxOERwLU5oUmdIdldlZWxMLXNHcXd4NTF6SFQtTEQ0RGZMNU5paVNoM3E0VU9Kd3R0X0xLOVJtZ1Vybmw4NV9ZdEQyWjY2THg0TDJGT3hnSkpteVhFTG44aWZTNVRWUDJsUG8zMEstaVdLOUNZNnhtTjF2NUE?oc=5) |
 | 2026-09-11 | China's Embodied AI Startup Kinetix AI Raises Over 500 Million Yuan in Angel+ Round Led by Temasek-Backed Vertex Ventures - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBDQWN5VnpQMDVnQUQ4V25uRnc2M0MzRGs3NFBBYTdMaEtOMVlNdVp3UEZsUno0WkZHd3VtVXd4OEM1OVZxQWE2SU5XbjAzd3ZjQUZCY1V0TTM3bHVSSjNUcTlwZDl1WFlNRmllTFMwTGF1VlM5TWc?oc=5) |
 | 2026-09-11 | A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDBpLTJ2bkg4MW1WX3Vzbk1vY1ViazJMZEYyWHlibW11dWFxTl85dEZNWUlVVHNmVEhkNkRvTjRxcVVDVk5pM01obkpMVXR5b0ExeGl3N3F5T0Vtd0NUMXplZzdpWUVNbGhyTUtKcFhGa1ZiUWNVTG1fbW1STk9JUUxveGtiOE1JdTVhbGlZOU1xZlFtU3dXYdIBngFBVV95cUxNQUt5TGk3QjZjNUFJTENnTDYtZjBvdFptNHVlTFlIaEF4WERaTjdnd21oR0l3QzFNdW85NGY5alNPY1A0WEs4S19rdGlKc2NKbWRXczktWmdBVG9IVjAyRUFtbnhEX1J1cUl0M1Nkbm9lcUhtNkE5bHk0WXdNUWhaQXhRcHNzU1BMa3BoNmpYNFZsZjNuZUN3UGNRSHc3QQ?oc=5) |
 | 2026-09-11 | Chinese Humanoid Robot Startup Accuses OpenAI of Technology Plagiarism, Launches Legal Action - finance.biggo.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9XY0o1S0NDSGVUWkhHSGRGN214dTFrZ0hrQ1pVVlFrQk8zM0hER1hlYldpMFR5emNmYUoxMDNJZzdKMmh5SFJESEdfOVc4UWx1eVBvRXdseTltSkVRZTJQU3FPSE1mYXVNb1hTZFZDZHVCR3h3S3c?oc=5) |
-| 2026-09-11 | The world's largest, Google is queuing up to buy Figure, and this team has built the most popular robot in Silicon Valley. - eu.36kr.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zdFVHSnpjNXRvd2RlbWdjT0NINV9MR2dET0I4UkIyNlA0MHhxREtNMjl6RUpyT0liaTFCRDlGX0J1STVjYTFNaEM2Y0hxRXZpQk84?oc=5) |
+| 2026-09-11 | The world's largest, Google is queuing up to buy Figure, and this team has built the most popular robot in Silicon Valley. - 36 Kr | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zdFVHSnpjNXRvd2RlbWdjT0NINV9MR2dET0I4UkIyNlA0MHhxREtNMjl6RUpyT0liaTFCRDlGX0J1STVjYTFNaEM2Y0hxRXZpQk84?oc=5) |
 | 2026-09-10 | Japan's Algomatic Dynamics Laucnhes with $32.5M in Funding to Develop Physical AI, Robotic Hand - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUTMtcTc4VS1kR3EwTWNRQ0s5ckFoNmtsUkVUallldkZMckswNTFpcHV1aEtTUUl3ZHd0N0tRMkFfMFFPZUI0TjFGclFKendpcng2aFBJSVlHZ0hXenZfYnY4dGRHSjdEUWd6WnY0X3MxdEZyMHNqMlljY01iaEFqSDhrc19qWmZZQkJVb3ktZ0hzeFdWbXFFTjJtUmV5cEFLTXlUeGd3YVIwcE45UDhGOUtOZEpFZEhlVGdCWVlXc1dRTUZhQ2RhNTBR?oc=5) |
 | 2026-09-10 | Embodied AI startup PHYMI raises nearly US$100 million in seed funding - TechNode | embodied ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzZ5X2d4NC1uOUZrTjlCTHVIcXdhX0Q1NUVVaXAxdHNvenJCNkhCUzVCZ2NUXzRhNmo5enUxXy15QzQ1RGR5OVY1QlRDaHRobTN5QXIzSjNrdXdmc3NTWi02UTljeEdiSWU3WE1OczBhZG9UZ3J4QzJEem5hX2hWS1gyb25vNi15UHBpcV9qVXlVcVBRM1RJYndnUmE0Z3BibUtyag?oc=5) |
 
