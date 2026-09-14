@@ -1,5 +1,26 @@
 [
   {
+    "title": "Rosy Retrocomputing",
+    "source": "Hackaday",
+    "date": "2026-09-14",
+    "url": "https://hackaday.com/2026/09/14/rosy-retrocomputing/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/08/RetroComputing_Big_notext.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Most of us are guilty of romanticizing the past. Do you long to be the captain of a tall ship? Just as long as you don&#8217;t mind weevils in your <a class=\"read-more\" href=\"https://hackaday.com/2026/09/14/rosy-retrocomputing/\">&#8230;read more</a>"
+  },
+  {
+    "title": "It’s The Speech Synthesiser You Wanted, For The Computer You Had",
+    "source": "Hackaday",
+    "date": "2026-09-14",
+    "url": "https://hackaday.com/2026/09/14/its-the-speech-synthesiser-you-wanted-for-the-computer-you-had/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/apple-2-dectalk-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you had an 8-bit computer in the 1980s and bought a speech synthesiser for it, what you got was invariably an alophone-based synthesiser using the SP0256 or similar. You <a class=\"read-more\" href=\"https://hackaday.com/2026/09/14/its-the-speech-synthesiser-you-wanted-for-the-computer-you-had/\">&#8230;read more</a>"
+  },
+  {
+    "title": "CircuitPython Goes Turbo With Precompiled Functions",
+    "source": "Hackaday",
+    "date": "2026-09-14",
+    "url": "https://hackaday.com/2026/09/14/circuitpython-goes-turbo-with-precompiled-functions/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/circuitpython_mandelbrot-feather-rp2040-dvi-source-10.100s.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It would not be at all original to declare that Python is the new BASIC. Like BASIC, it has been the first programming language for a whole generation of coders, <a class=\"read-more\" href=\"https://hackaday.com/2026/09/14/circuitpython-goes-turbo-with-precompiled-functions/\">&#8230;read more</a>"
+  },
+  {
     "title": "Dramatically Increasing Usable Closet Space",
     "source": "Hackaday",
     "date": "2026-09-14",
@@ -14,6 +35,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"473\" src=\"https://hackaday.com/wp-content/uploads/2026/09/heat_shield_test_polymatt_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>After the Orion capsule of the Artemis I lunar mission returned to Earth, it was found that massive chunks of its heatshield had been ripped off, posing a serious risk <a class=\"read-more\" href=\"https://hackaday.com/2026/09/13/re-creating-nasas-heat-shield-problem/\">&#8230;read more</a>"
   },
   {
+    "title": "Morse Micro Wi-Fi HaLow USB adapters add 802.11ah connectivity to PCs and routers",
+    "source": "CNX Software",
+    "date": "2026-09-14",
+    "url": "https://www.cnx-software.com/2026/09/14/morse-micro-wi-fi-halow-usb-adapters-add-802-11ah-connectivity-to-pcs-and-routers/",
+    "summary": "<div><img alt=\"Morse Micro’s Wi Fi HaLow USB Network Adapters in USB A and USB C form factors\" class=\"attachment-medium size-medium wp-post-image\" height=\"504\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Morse-Micros-Wi-Fi-HaLow-USB-Network-Adapters-in-USB-A-and-USB-C-form-factors-720x504.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Last year, we saw Morse Micro introduce the MM8108 Wi-Fi HaLow (802.11ah) SoC with up to 43.33 Mbps throughput, along with an MM8108-RD09 USB dongle reference design, for which we had virtually no details at the time. Morse Micro has now released USB-A and USB-C Wi-Fi HaLow adapters based on that reference design. The adapters let PCs and routers connect to 802.11ah networks through USB without a dedicated expansion card and feature an external SMA antenna delivering up to 26 dBm transmit power. Wi-Fi HaLow USB network adapter specifications: SoC – Morse Micro MM8108 32-bit RISC-V Host Applications Processor (HAP) Standard – IEEE802.11ah Wi-Fi HaLow Frequency band – 850-950 MHz (Worldwide sub-1 GHz license-exempt range) Operating Modes – Access Point (AP) and Station (STA). Channel Width – 1/2/4/8 MHz Modulation – BPSK, QPSK, 16QAM, 64QAM, 256QAM. Data rate – Up to 43.3 Mbps using 256-QAM modulation at an 8 MHz bandwidth [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/14/morse-micro-wi-fi-halow-usb-adapters-add-802-11ah-connectivity-to-pcs-and-routers/\">Morse Micro Wi-Fi HaLow USB adapters add 802.11ah connectivity to PCs and routers</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "JetKVM Mini – A low-cost, ESP32-P4X-based KVM with Ethernet or WiFi connectivity",
     "source": "CNX Software",
     "date": "2026-09-14",
@@ -21,39 +49,60 @@
     "summary": "<div><img alt=\"JetKVM Mini\" class=\"attachment-medium size-medium wp-post-image\" height=\"540\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/JetKVM-Mini-720x540.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>JetKVM Mini is a smaller, lower-cost version of the popular JetKVM KVM over IP solution. The new model features a small information display, offers Ethernet or WiFi connectivity, and supports 1080p video capture. The main under-the-hood change is that they ditched Linux on a Rockchip RV1106G3 SoC and now rely on an ESP32-P4X (ESP32-P4 version 3.x and greater) to handle video capture, H.264 encoding, USB, and other features. The largest cost saving is removing the RAM and eMMC flash required by Linux. JetKVM Mini specifications: SoC – Espressif Systems ESP32-P4X CPU Dual-core 32-bit RISC-V HP (High-performance) CPU @ up to 400 MHz with AI instruction extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz Memory 768 KB HP L2MEM (for dual-core CPU), 32 KB LP SRAM, 8 KB TCM (for LP MCU core) 32 MB PSRAM Storage – 128 KB HP ROM, 16 KB LP ROM [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/14/jetkvm-mini-a-low-cost-esp32-p4x-based-kvm-with-ethernet-or-wifi-connectivity/\">JetKVM Mini &#8211; A low-cost, ESP32-P4X-based KVM with Ethernet or WiFi connectivity</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Designing SWaP-Optimized Compute for UAVs",
+    "source": "Embedded.com",
+    "date": "2026-09-14",
+    "url": "https://www.embedded.com/designing-swap-optimized-compute-for-uavs/",
+    "summary": "<p>The embedded architecture of unmanned aerial vehicles (UAVs) is changing as more intelligence moves from the remote operator onto the aircraft itself. In a conventional, first-person-view drone, a human analyzes the video feed, determines where the aircraft should go, and makes many of the decisions required to complete the mission. But the architecture depends on [...]</p>\n<p>The post <a href=\"https://www.embedded.com/designing-swap-optimized-compute-for-uavs/\">Designing SWaP-Optimized Compute for UAVs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "binder adds midmount PCB connectors to its M12 portfolio",
+    "source": "Electronics Weekly",
+    "date": "2026-09-14",
+    "url": "https://www.electronicsweekly.com/news/products/connectors/binder-adds-midmount-pcb-connectors-to-its-m12-portfolio-2026-09/",
+    "summary": "<p>The circular industrial connector specialist binder binder is expanding its M12 portfolio with angled panel-mount connectors. For centric PCB mounting, they are designed to fit into a slim, cylindrical housing. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/connectors/binder-adds-midmount-pcb-connectors-to-its-m12-portfolio-2026-09/\">binder adds midmount PCB connectors to its M12 portfolio</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Serpac watch-style enclosures feature IP 67 sealing",
+    "source": "Electronics Weekly",
+    "date": "2026-09-14",
+    "url": "https://www.electronicsweekly.com/news/products/emech-enclosures/serpac-watch-style-enclosures-feature-ip-67-sealing-2026-09/",
+    "summary": "<p>Serpac is releasing its BW Series of IP 67-rated watch-style enclosures. The three models &#8211; BW2, BW4, BW6 &#8211; are available in different sizes and colours. The wearable enclosures target [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/emech-enclosures/serpac-watch-style-enclosures-feature-ip-67-sealing-2026-09/\">Serpac watch-style enclosures feature IP 67 sealing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Datacentre performance now sold by the rack not the chip",
     "source": "Electronics Weekly",
     "date": "2026-09-14",
     "url": "https://www.electronicsweekly.com/news/business/datacentre-semiconductor-market-to-hit-1-5trn-by-2031-says-yole-2026-09/",
-    "summary": "<p>&#160; The value in datacentres is shifting from the chip to the rack, says Yole, with hyperscalers and AI labs co-designing their own AI ASICs and with advanced packaging, HBM4, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/datacentre-semiconductor-market-to-hit-1-5trn-by-2031-says-yole-2026-09/\">Datacentre performance now sold by the rack not the chip</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>The value in datacentres is shifting from the chip to the rack, says Yole, with hyperscalers and AI labs co-designing their own AI asics and with advanced packaging, HBM4, co-packaged [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/datacentre-semiconductor-market-to-hit-1-5trn-by-2031-says-yole-2026-09/\">Datacentre performance now sold by the rack not the chip</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Enflame raises $900m",
     "source": "Electronics Weekly",
     "date": "2026-09-14",
     "url": "https://www.electronicsweekly.com/news/business/enflame-raises-900m-2026-09/",
-    "summary": "<p>Shanghai Enflame Technology has raised $900 million in an IPO on the Shanghai exchange. The company expects a $128 million loss for 2026 YTD. The company, founded in 2018 by [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/enflame-raises-900m-2026-09/\">Enflame raises $900m</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Shanghai Enflame Technology has raised $900m in an IPO on the Shanghai exchange. The company expects a $128m loss for 2026 YTD. The company, founded in 2018 by two AMD [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/enflame-raises-900m-2026-09/\">Enflame raises $900m</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "High-end routing and aggregation equipment up 25% YoY in Q2",
+    "title": "High-end routing and aggregation equipment up by 25% y-o-y in Q2",
     "source": "Electronics Weekly",
     "date": "2026-09-14",
     "url": "https://www.electronicsweekly.com/news/business/high-end-routing-and-aggregation-equipment-up-25-yoy-in-q2-2026-09/",
-    "summary": "<p>High End Routing and Aggregation equipment revenue grew 25% YoY in Q2, says Dell’Oro, driven by stronger demand across all regions and customer segments. Notably, vendor direct sales revenue to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/high-end-routing-and-aggregation-equipment-up-25-yoy-in-q2-2026-09/\">High-end routing and aggregation equipment up 25% YoY in Q2</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>High-end routing and aggregation equipment revenue grew 25% y-o-y in Q2, says Dell’Oro, driven by stronger demand across all regions and customer segments. Notably, vendor direct sales revenue to cloud [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/high-end-routing-and-aggregation-equipment-up-25-yoy-in-q2-2026-09/\">High-end routing and aggregation equipment up by 25% y-o-y in Q2</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Nokia launches Cognitive Operations",
     "source": "Electronics Weekly",
     "date": "2026-09-14",
     "url": "https://www.electronicsweekly.com/news/business/nokia-launches-cognitive-operations-2026-09/",
-    "summary": "<p>Nokia has launched Cognitive Operations (CO), a platform that unifies mission-critical communications, accelerated edge computing, and operational AI for industries where failure in field operations is not an option. CO [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nokia-launches-cognitive-operations-2026-09/\">Nokia launches Cognitive Operations</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Nokia has launched Cognitive Operations (CO), a platform that unifies mission-critical communications, accelerated edge computing and operational AI for industries where failure in field operations is not an option. CO [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nokia-launches-cognitive-operations-2026-09/\">Nokia launches Cognitive Operations</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Anti-surge chip resistors delivering 0.33W",
+    "title": "Anti-surge chip resistors deliver 0.33W",
     "source": "Electronics Weekly",
     "date": "2026-09-14",
     "url": "https://www.electronicsweekly.com/news/business/anti-surge-chip-resistors-delivering-0-33w-2026-09/",
-    "summary": "<p>ROHM has developed the “SDR01 Series” of high anti-surge chip resistors, delivering a class-leading rated power of 0.33W in the 0402 (1005 Metric) size. Designed for electronic equipment where mounting [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/anti-surge-chip-resistors-delivering-0-33w-2026-09/\">Anti-surge chip resistors delivering 0.33W</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>ROHM has developed the &#8216;SDR01 Series&#8217; of high anti-surge chip resistors, delivering a class-leading rated power of 0.33W in the 0402 (1005 metric) size. Designed for electronic equipment where mounting [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/anti-surge-chip-resistors-delivering-0-33w-2026-09/\">Anti-surge chip resistors deliver 0.33W</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Ed Stiffens The PM’s Sinews",
@@ -61,6 +110,62 @@
     "date": "2026-09-14",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-stiffens-the-pms-spine-2026-09/",
     "summary": "<p>The PM nobbled me after this week’s Cabinet and hustled me into the private office for a chinwag, Ed confides to his diary.  “Ed,” he says, “the media are dissing [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-stiffens-the-pms-spine-2026-09/\">Ed Stiffens The PM’s Sinews</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Raspberry Pi 10000",
+    "source": "Adafruit",
+    "date": "2026-09-14",
+    "url": "https://blog.adafruit.com/2026/09/14/raspberry-pi-10000/",
+    "summary": "Super cool recent build from Indian maker Arnov Sharma: The main reason for making this project was actually pretty simple. I was already using the Pi 500+ with my USB recording microphone for voice-over work, and I kept thinking it really needed its own screen. See more details here on Instructables and YouTube."
+  },
+  {
+    "title": "Making Flat Multicolor 3D Prints",
+    "source": "Adafruit",
+    "date": "2026-09-14",
+    "url": "https://blog.adafruit.com/2026/09/14/making-flat-multicolor-3d-prints/",
+    "summary": "Prints Charming walks viewers through how they make these flat stained glass inspired 3D prints of Pokémon in this YouTube video: If you’ve ever wanted to create detailed 3D prints with lots of colors but felt limited by the number of filament slots or toolheads available on your printer, I’ll walk you through the process [&#8230;]"
+  },
+  {
+    "title": "Fujitsu and Yaqumo begin testing quantum computing architecture and basic software on neutral-atom quantum computer hardware",
+    "source": "EE Journal",
+    "date": "2026-09-14",
+    "url": "https://www.eejournal.com/industry_news/fujitsu-and-yaqumo-begin-testing-quantum-computing-architecture-and-basic-software-on-neutral-atom-quantum-computer-hardware/",
+    "summary": "Fujitsu Limited (Fujitsu) and Yaqumo Inc. (Yaqumo) today announced that they have begun verifying quantum computing architectures and basic software on actual neutral-atom quantum computers [1] to accelerate the practical use of quantum computers. Fujitsu will combine its &#8220;STAR architecture [2],&#8221; a quantum computing architecture developed primarily for superconducting quantum computers in the Early-FTQC (Fault-Tolerant &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/fujitsu-and-yaqumo-begin-testing-quantum-computing-architecture-and-basic-software-on-neutral-atom-quantum-computer-hardware/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Fujitsu and Yaqumo begin testing quantum computing architecture and basic software on neutral-atom quantum computer hardware\"</span></a>"
+  },
+  {
+    "title": "Infineon extends collaboration with SolarEdge to enable solid-state protection for 800 VDC AI data centers",
+    "source": "EE Journal",
+    "date": "2026-09-14",
+    "url": "https://www.eejournal.com/industry_news/infineon-extends-collaboration-with-solaredge-to-enable-solid-state-protection-for-800-vdc-ai-data-centers/",
+    "summary": "Companies extend collaboration into solid-state circuit breaker (SSCB) technology in line with leading industry framework for 800 Volts direct current (VDC) architecture SSCB technology is designed to interrupt DC faults orders of magnitude faster than electromechanical breakers, addressing one of the key challenges in deploying high-voltage DC power architectures The collaboration advances a DC-native power &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/infineon-extends-collaboration-with-solaredge-to-enable-solid-state-protection-for-800-vdc-ai-data-centers/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Infineon extends collaboration with SolarEdge to enable solid-state protection for 800 VDC AI data centers\"</span></a>"
+  },
+  {
+    "title": "Renesas Launches 64-bit RZ/G3L and RZ/G3SE MPUs for  Advanced HMI and IoT Edge Systems",
+    "source": "EE Journal",
+    "date": "2026-09-14",
+    "url": "https://www.eejournal.com/industry_news/renesas-launches-64-bit-rz-g3l-and-rz-g3se-mpus-for-advanced-hmi-and-iot-edge-systems/",
+    "summary": "Pin-compatible MPUs enable scalable design on common PCB 1 mW-level standby power and fast Linux wakeup enable always-connected applications PCIe and TSN-capable Ethernet provide high-speed connectivity and flexible system expansion Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today expanded its RZ/G Series with new 64-bit general-purpose microprocessors (MPUs) for Human Machine &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/renesas-launches-64-bit-rz-g3l-and-rz-g3se-mpus-for-advanced-hmi-and-iot-edge-systems/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Renesas Launches 64-bit RZ/G3L and RZ/G3SE MPUs for  Advanced HMI and IoT Edge Systems\"</span></a>"
+  },
+  {
+    "title": "TDK launches non-isolated 12.5 kW three-phase power supplies for Distributed Power Architectures",
+    "source": "EE Journal",
+    "date": "2026-09-14",
+    "url": "https://www.eejournal.com/industry_news/tdk-launches-non-isolated-12-5-kw-three-phase-power-supplies-for-distributed-power-architectures/",
+    "summary": "TDK Corporation (TSE:6762) launches the TDK-Lambda TPF12500-385 series of non-isolated three-phase power supplies delivering up to 13.1 kW, with a nominal rating of 12.5 kW. With a regulated output voltage of 385 Vdc and an efficiency of 97.5 %, the series is designed for Distributed Power Architectures (DPA) and is capable of providing power to &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/tdk-launches-non-isolated-12-5-kw-three-phase-power-supplies-for-distributed-power-architectures/\">Read More &#8594;<span class=\"screen-reader-text\"> \"TDK launches non-isolated 12.5 kW three-phase power supplies for Distributed Power Architectures\"</span></a>"
+  },
+  {
+    "title": "RNAN Thin Film Resistors Deliver Stable Precision for High Power Industrial Electronics",
+    "source": "EE Journal",
+    "date": "2026-09-14",
+    "url": "https://www.eejournal.com/industry_news/rnan-thin-film-resistors-deliver-stable-precision-for-high-power-industrial-electronics/",
+    "summary": "Stackpole Electronics&#8217; RNAN series combines thin film precision with the heat-spreading capability of an aluminum nitride (AlN) substrate for industrial electronics that operate at high power or under sustained load. The construction helps limit localized heating that can affect resistance stability and component life. AlN is widely used in power modules and other high-density electronics &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/rnan-thin-film-resistors-deliver-stable-precision-for-high-power-industrial-electronics/\">Read More &#8594;<span class=\"screen-reader-text\"> \"RNAN Thin Film Resistors Deliver Stable Precision for High Power Industrial Electronics\"</span></a>"
+  },
+  {
+    "title": "An HP 3478A DMM Rescue, Part 2: Eternacell Batteries are Forever (Apparently)",
+    "source": "EE Journal",
+    "date": "2026-09-14",
+    "url": "https://www.eejournal.com/article/an-hp-3478a-dmm-rescue-part-2-eternacell-batteries-are-forever-apparently/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"182\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/Eternacell-300x182.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />&#160; With the RIFA capacitors replaced in my HP 3478A DMM (see “An HP 3478A DMM Rescue, Part 1: RIFA Madness”), I was able to safely power up the DMM in preparation for battery replacement. With the power on, the DMM no longer relied on the battery to preserve the calibration data. It’s not a &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/an-hp-3478a-dmm-rescue-part-2-eternacell-batteries-are-forever-apparently/\">Read More &#8594;<span class=\"screen-reader-text\"> \"An HP 3478A DMM Rescue, Part 2: Eternacell Batteries are Forever (Apparently)\"</span></a>"
   },
   {
     "title": "Hackaday Links: September 13, 2026",
@@ -75,27 +180,6 @@
     "date": "2026-09-13",
     "url": "https://hackaday.com/2026/09/13/rusting-an-e-scooter-in-a-good-way/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/can.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It is a classic Hackaday situation. You have an Egret GT E-scooter. It has a screen that shows the usual dash stats, but that led to an annoyance. You could <a class=\"read-more\" href=\"https://hackaday.com/2026/09/13/rusting-an-e-scooter-in-a-good-way/\">&#8230;read more</a>"
-  },
-  {
-    "title": "A 386 PC For Your RP2350",
-    "source": "Hackaday",
-    "date": "2026-09-13",
-    "url": "https://hackaday.com/2026/09/13/a-386-pc-for-your-rp2350/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/frank386-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We&#8217;re at a fortunate moment: microcontrollers available at modest prices are edging into the capability level previously reserved for full-fat systems and can, through emulation, run software beyond classic 8-bit <a class=\"read-more\" href=\"https://hackaday.com/2026/09/13/a-386-pc-for-your-rp2350/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Analyzing the FScale Instruction in Intel’s 8087 FPU",
-    "source": "Hackaday",
-    "date": "2026-09-13",
-    "url": "https://hackaday.com/2026/09/13/analyzing-the-fscale-instruction-in-intels-8087-fpu/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"421\" src=\"https://hackaday.com/wp-content/uploads/2026/09/8087_fscale_datapath_diagram_ken_shirriff.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>During his continuing analysis of the architecture and microcode of Intel&#8217;s highly influential 8087 floating point unit (FPU) co-processor, [Ken Shirriff] has now arrived at the point where he can <a class=\"read-more\" href=\"https://hackaday.com/2026/09/13/analyzing-the-fscale-instruction-in-intels-8087-fpu/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Keeping Time on Tumbling Icosahedra",
-    "source": "Hackaday",
-    "date": "2026-09-13",
-    "url": "https://hackaday.com/2026/09/13/keeping-time-on-tumbling-icosahedra/",
-    "summary": "<div><img alt=\"An angular, 3D-printed base holds two icosahedra with numerals on their faces. Each icosahedron has a zig-zagging path running through it, showing red gears inside.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/icosahedra_clock.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Clocks are almost the ideal devices to inspire creativity in hackers &#8212; they have a simple, well-defined task, but there’s an almost unlimited number of ways to carry it out. <a class=\"read-more\" href=\"https://hackaday.com/2026/09/13/keeping-time-on-tumbling-icosahedra/\">&#8230;read more</a>"
   },
   {
     "title": "M5Stack Module13.2 LoRa-1262 expansion board integrates 14×10 mm Stamp LoRa-1262 module",
@@ -189,20 +273,6 @@
     "summary": "<p>The UK Electronics Skills Foundation (UKESF) is partnering with Unibots CIC to help make learning practical robotics more accessible and social for students. Unibots CIC is a non-profit organisation that [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/design/stem/ukesf-unibots-partner-for-robotics-and-engineering-2026-09/\">UKESF, Unibots partner for robotics and engineering</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Intel’s StrongARM commitment looking wobbly",
-    "source": "Electronics Weekly",
-    "date": "2026-09-11",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/intels-strongarm-commitment-looking-wobbly-2026-09/",
-    "summary": "<p>28 years ago Intel’s commitment to making Arm processors was looking wobbly. The  ‘x86 everywhere’ concept  could have cost the company dearly. In March 1998, EW reported: Intel’s commitment to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/intels-strongarm-commitment-looking-wobbly-2026-09/\">Intel’s StrongARM commitment looking wobbly</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "US Space Force selects Texas as third DARC site",
-    "source": "Electronics Weekly",
-    "date": "2026-09-11",
-    "url": "https://www.electronicsweekly.com/news/us-space-force-selects-texas-as-third-darc-site-2026-09/",
-    "summary": "<p>The U.S. Space Force has approved the location for the third and final site of the Deep Space Advanced Radar Capability (DARC), which involves a partnership of Australia, the UK [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/us-space-force-selects-texas-as-third-darc-site-2026-09/\">US Space Force selects Texas as third DARC site</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "UPDATED GUIDE: Adafruit Metro M4 Express AirLift Lite #NoCode #WipperSnapper #AdafruitLearningSystem @Adafruit",
     "source": "Adafruit",
     "date": "2026-09-11",
@@ -238,13 +308,6 @@
     "summary": "Sara Hashemi, writing for Popular Science, reports that scientists in China have filmed a deep-sea fish walking backward along the seafloor. The fish is Scalicus engyceros, an armored searobin. Its body is covered in bony plates, and stiff free fin rays stick out from its pectoral fins like small legs it uses to walk. The [&#8230;]"
   },
   {
-    "title": "Hexagon Wall Panels – Modular Shallow + Deep with Snug Pegs #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-09-11",
-    "url": "https://blog.adafruit.com/2026/09/10/hexagon-wall-panels-modular-shallow-deep-with-snug-pegs-3dthursday-3dprinting-2/",
-    "summary": "FOIXTRA shares: Modular hexagon wall panels in shallow (30mm) or deep (60mm) variants at 100% scale. Two peg types — small-gap or snug-fit — for different tiling aesthetics. Ships scaled to 50% by default. Alternative modular wall system to the Sci-Fi Corridor Tiles in main. By Foixtra download the files on: https://makerworld.com/en/models/1384619-hexagon-wall-panels-modular Every Thursday is [&#8230;]"
-  },
-  {
     "title": "Imec demonstrates the extension of chemically amplified resists for High NA EUV lithography",
     "source": "EE Journal",
     "date": "2026-09-11",
@@ -273,20 +336,6 @@
     "summary": "Alpha and Omega Semiconductor Limited (AOS) (Nasdaq: AOSL), a designer, developer, and global supplier of a broad range of discrete power devices, wide-bandgap power devices, power management ICs and modules, today announced the release of αMOS E2™ 600V Super Junction MOSFETs: AOGT037V60DE2 and AOGT060V60DE2. AOS engineered its newly developed αMOS E2 High‑Voltage MOSFET platform to &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/alpha-and-omega-semiconductors-new-amos-e2-600v-super-junction-mosfets-support-optimized-electrical-thermal-paths-boosted-system-performance-and-long-term-reliability/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Alpha and Omega Semiconductor’s New aMOS E2™ 600V Super Junction MOSFETs Support Optimized Electrical/Thermal Paths, Boosted System Performance and Long-Term Reliability\"</span></a>"
   },
   {
-    "title": "Pickering to showcase scalable signal switching for semiconductor test at Microelectronics UK",
-    "source": "EE Journal",
-    "date": "2026-09-11",
-    "url": "https://www.eejournal.com/industry_news/pickering-to-showcase-scalable-signal-switching-for-semiconductor-test-at-microelectronics-uk/",
-    "summary": "Pickering Interfaces will showcase its range of industry-standard modular signal switching solutions for semiconductor test and verification, as well as its recently launched graphical design tool, Test System Architect, developed to simplify signal switching and cabling system design, on stand E42 at Microelectronics UK, taking place from 29-30 September at Excel London. Microelectronics UK is a leading event for the UK microelectronics ecosystem, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/pickering-to-showcase-scalable-signal-switching-for-semiconductor-test-at-microelectronics-uk/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Pickering to showcase scalable signal switching for semiconductor test at Microelectronics UK\"</span></a>"
-  },
-  {
-    "title": "From Transistors to AI: The Chiplet Revolution with Ramune Nagisetty",
-    "source": "EE Journal",
-    "date": "2026-09-11",
-    "url": "https://www.eejournal.com/fish_fry/from-transistors-to-ai-the-chiplet-revolution-with-ramune-nagisetty/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/AD-091126-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />My podcast guest this week is a powerhouse of the semiconductor industry: Ramune Nagisetty. Ramune, best known for developing the chiplet-based system-in-package architecture concept, joins me this week to discuss her foundational work on chiplet-based system-in-package architectures, the current reality of chiplet interoperability, and the role of artificial intelligence in semiconductor design and manufacturing. We &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/fish_fry/from-transistors-to-ai-the-chiplet-revolution-with-ramune-nagisetty/\">Read More &#8594;<span class=\"screen-reader-text\"> \"From Transistors to AI: The Chiplet Revolution with Ramune Nagisetty\"</span></a>"
-  },
-  {
     "title": "LattePanda Mu Ultra Compute Module features Intel Core Ultra 5 226V/7 256V Lunar Lake CPU for AI workloads",
     "source": "CNX Software",
     "date": "2026-09-10",
@@ -313,41 +362,6 @@
     "date": "2026-09-10",
     "url": "https://www.embedded.com/chiplet-based-fpgas-optimize-performance-for-space-applications/",
     "summary": "<p>Field-programmable gate array (FPGA) architectures for space must reconcile computing capacity, reliability, power consumption, and component availability for very long missions. A chiplet-based approach can separate processing and I/O, allowing for the optimization of radiation tolerance, performance, and upgradeability. Beyond the monolithic FPGA Space applications require increasingly higher processing capacities, especially in payloads dedicated to [...]</p>\n<p>The post <a href=\"https://www.embedded.com/chiplet-based-fpgas-optimize-performance-for-space-applications/\">Chiplet-Based FPGAs Optimize Performance for Space Applications</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Halloween Tiny glowing jack o lantern pumpkin LED #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-09-10",
-    "url": "https://blog.adafruit.com/2026/09/10/halloween-tiny-glowing-jack-o-lantern-pumpkin-led-3dthursday-3dprinting/",
-    "summary": "Shared by DIY Wizard on MakerWorld: Welcome back witches and wizards! It&#8217;s halloween time again and I prepared some models! I&#8217;ve always wanted to use the tiny LEDs with megnetic switch for some earrings, so here are some jack o lantern earrings for halloween! Download the files and learn more Every Thursday is #3dthursday here [&#8230;]"
-  },
-  {
-    "title": "TDK launches industry-leading low-resistance soft-termination X7R MLCCs with 10 μF/100 V in the 3225 format for AI servers, humanoids, and xEVs",
-    "source": "EE Journal",
-    "date": "2026-09-10",
-    "url": "https://www.eejournal.com/industry_news/tdk-launches-industry-leading-low-resistance-soft-termination-x7r-mlccs-with-10-%ce%bcf-100-v-in-the-3225-format-for-ai-servers-humanoids-and-xevs/",
-    "summary": "&#8211;  New 100 V SMD component with X7R characteristics has a capacitance of 10 μF in the 3225 format. &#8211;  Offers low resistance and soft termination for automotive (AEC-Q200) and general applications. &#8211;  Contributes to higher reliability, reduction of component count, and miniaturization. TDK Corporation (TSE:6762) announced today that it has expanded its CN series &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/tdk-launches-industry-leading-low-resistance-soft-termination-x7r-mlccs-with-10-%ce%bcf-100-v-in-the-3225-format-for-ai-servers-humanoids-and-xevs/\">Read More &#8594;<span class=\"screen-reader-text\"> \"TDK launches industry-leading low-resistance soft-termination X7R MLCCs with 10 μF/100 V in the 3225 format for AI servers, humanoids, and xEVs\"</span></a>"
-  },
-  {
-    "title": "STMicroelectronics’ highly integrated power-factor correction controller simplifies continuous conduction mode designs",
-    "source": "EE Journal",
-    "date": "2026-09-10",
-    "url": "https://www.eejournal.com/industry_news/stmicroelectronics-highly-integrated-power-factor-correction-controller-simplifies-continuous-conduction-mode-designs/",
-    "summary": "STMicroelectronics’ L4983 power-factor correction (PFC) controller contains a proprietary multiplier emulator and distortion-optimization circuitry, letting designers build continuous conduction mode (CCM) PFC circuits with very few external passive components. The L4983 is suitable for power supplies ranging from several hundred Watts to multiple kilowatts and has a totem-pole output with 7A-sink/3A-source capability. Typical applications include industrial and &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/stmicroelectronics-highly-integrated-power-factor-correction-controller-simplifies-continuous-conduction-mode-designs/\">Read More &#8594;<span class=\"screen-reader-text\"> \"STMicroelectronics’ highly integrated power-factor correction controller simplifies continuous conduction mode designs\"</span></a>"
-  },
-  {
-    "title": "UNIVITY Successfully Establishes the First 5G NTN TDD Connection in Millimeter-Wave (mmWave) Frequencies from Space",
-    "source": "EE Journal",
-    "date": "2026-09-10",
-    "url": "https://www.eejournal.com/industry_news/univity-successfully-establishes-the-first-5g-ntn-tdd-connection-in-millimeter-wave-mmwave-frequencies-from-space/",
-    "summary": "UNIVITY, an operator of space-based connectivity services, announces the success of uniSpark, its first in-orbit technology demonstration mission. Launched in June 2025, uniSpark established a fully bidirectional 5G NTN (Non-Terrestrial Network) connection between a ground terminal and a 5G base station onboard a satellite in orbit. This is the first in-orbit demonstration combining onboard regenerative 5G processing, a millimeter-wave (mmWave) link &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/univity-successfully-establishes-the-first-5g-ntn-tdd-connection-in-millimeter-wave-mmwave-frequencies-from-space/\">Read More &#8594;<span class=\"screen-reader-text\"> \"UNIVITY Successfully Establishes the First 5G NTN TDD Connection in Millimeter-Wave (mmWave) Frequencies from Space\"</span></a>"
-  },
-  {
-    "title": "SEGGER J-Link debug probe fully validated for STMicroelectronics’ StellarStudio",
-    "source": "EE Journal",
-    "date": "2026-09-10",
-    "url": "https://www.eejournal.com/industry_news/segger-j-link-debug-probe-fully-validated-for-stmicroelectronics-stellarstudio/",
-    "summary": "SEGGER and STMicroelectronics have worked closely together to ensure robust, high-performance support for current and future Stellar devices, with J-Link integration identified as a priority from the outset. Key J-Link features include up to 4 MBs of download speed into random-access memory (RAM), fast download directly into flash memory at full speed, and the ability &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/segger-j-link-debug-probe-fully-validated-for-stmicroelectronics-stellarstudio/\">Read More &#8594;<span class=\"screen-reader-text\"> \"SEGGER J-Link debug probe fully validated for STMicroelectronics’ StellarStudio\"</span></a>"
   },
   {
     "title": "ESP32-C5 Pico board follows Raspberry Pi Pico form factor, ships with on-board or external antenna",
@@ -399,13 +413,6 @@
     "summary": "<div><img alt=\"YuzukiNeko Allwinner F101 SBC\" class=\"attachment-medium size-medium wp-post-image\" height=\"476\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/YuzukiNeko-Allwinner-F101-SBC-720x476.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>YuzukiHD has made another open-source hardware Linux SBC. YuzukiNeko is a Raspberry Pi Pico-sized single board computer powered by a new Allwinner F101 RISC-V SoC. The Allwinner F101 processor features a single 1.008 GHz C907 RISC-V core, 8MB or 16 MB PSRAM, and support for various display interfaces such as MIPI DSI, 24-bit RGB, and LVDS. The YuzukiNeko board itself features the F101 SoC, an SPI NOR flash, a microSD card for storage, a USB-C port, and two 20-pin GPIO headers. YuzukiNeko specifications: SoC &#8211; Allwinner F101 CPU &#8211; T-head C907 RISC-V core up to 1.008 GHz Memory &#8211; 8MB or 16MB PSRAM @ 252 MHz Package &#8211; QFN-68 Storage 128 Mbit NOR flash (PY25Q128HA-SUH-IT) MicroSD card slot USB &#8211; USB Type-C port for data, power, and programming Expansion 2x 20-pin expansion headers with GPIOs, ADC, 5V, 3.3V, and GND 5x pads with HP out (analog speaker output) and four [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/08/yuzukineko-a-linux-capable-allwinner-f101-64-bit-risc-v-sbc-with-raspberry-pi-pico-form-factor/\">YuzukiNeko &#8211; A Linux-capable Allwinner F101 RISC-V SBC with Raspberry Pi Pico form factor</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Reverse Engineering Without CAD Data: How MetroY Ultra Turns Physical Parts into Digital Designs (Sponsored)",
-    "source": "CNX Software",
-    "date": "2026-09-07",
-    "url": "https://www.cnx-software.com/2026/09/07/reverse-engineering-without-cad-data-how-metroy-ultra-turns-physical-parts-into-digital-designs/",
-    "summary": "<div><img alt=\"MetroY Ultra Scan\" class=\"attachment-medium size-medium wp-post-image\" height=\"405\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/08/MetroY-Ultra-Scan-720x405.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>When the Part Exists, but the Data Doesn’t Reverse engineering often starts with a physical part but no reliable digital data. In restoration and customization, manual measurement can provide basic dimensions, but it becomes limiting when complex curves, mounting points, and tight clearances need to be captured accurately. MetroY Ultra captures the actual three-dimensional geometry of a part, providing a reliable digital reference for reverse engineering, custom design, and manufacturing. Designing a Custom Motorcycle Seat Tray from Accurate Scan Data In a custom 1984 Honda CB400 build, the builder needed to create a seat tray and seat pan for a custom seat while integrating the rear fender into the modified rear subframe. The challenge was not simply designing a new part, but making that part accurately fit a motorcycle whose geometry had already been modified. Traditionally, this kind of work is often done with welded sheet metal or fiberglass layup. [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/07/reverse-engineering-without-cad-data-how-metroy-ultra-turns-physical-parts-into-digital-designs/\">Reverse Engineering Without CAD Data: How MetroY Ultra Turns Physical Parts into Digital Designs (Sponsored)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
     "title": "Microchip, Marelli Target Software-Defined Vehicle Display Systems",
     "source": "Embedded.com",
     "date": "2026-09-05",
@@ -418,12 +425,5 @@
     "date": "2026-09-04",
     "url": "https://www.embedded.com/nxp-mcx-a5-mcus-edge-ai-for-military-drone-autonomy-modular-computing-for-long-lifecycle-aerospace-platforms-embedded-week-insights/",
     "summary": "<p>Here's a roundup of this week's must-read articles. We'll look into the latest developments on NXP MCX A5 MCUs, edge AI for military drones, modular computing for aerospace platforms, and more. Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete list of news and articles from our website. NEWS SomDevices, Celus Bring μSMARC [...]</p>\n<p>The post <a href=\"https://www.embedded.com/nxp-mcx-a5-mcus-edge-ai-for-military-drone-autonomy-modular-computing-for-long-lifecycle-aerospace-platforms-embedded-week-insights/\">NXP MCX A5 MCUs, Edge AI for Military Drone Autonomy, Modular Computing for Long-Lifecycle Aerospace Platforms: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Everspin, Teledyne HiRel Partner on Mission-Critical MRAM",
-    "source": "Embedded.com",
-    "date": "2026-09-04",
-    "url": "https://www.embedded.com/everspin-teledyne-hirel-partner-on-mission-critical-mram/",
-    "summary": "<p>Everspin Technologies and Teledyne HiRel Semiconductors have announced a strategic partnership to expand the use of magnetoresistive random-access memory (MRAM) in aerospace, defense, and other mission-critical applications. The collaboration will initially focus on Everspin's 256-Mb PERSYST spin-transfer torque MRAM (STT-MRAM), combining RAM-like access performance with non-volatile data retention. Under the agreement, Teledyne HiRel will offer [...]</p>\n<p>The post <a href=\"https://www.embedded.com/everspin-teledyne-hirel-partner-on-mission-critical-mram/\">Everspin, Teledyne HiRel Partner on Mission-Critical MRAM</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
