@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-14 14:27 UTC
+Last Updated: 2026-09-14 19:38 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-14 | How Fyxer built an AI executive assistant people trust | OpenAI | [link](https://openai.com/index/fyxer) |
 | 2026-09-14 | Perplexity trusts GPT-6 Astra with end-to-end systems | OpenAI | [link](https://openai.com/index/perplexity-improving-accuracy-with-astra) |
 | 2026-09-11 | Rapidly scaling online storage to serve over 1 billion ChatGPT users | OpenAI | [link](https://openai.com/index/scaling-storage-one-billion-users-part-one) |
 | 2026-09-11 | Cognition helps Devin test its own work with GPT‑6 Astra | OpenAI | [link](https://openai.com/index/cognition-devin-testing-with-astra) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-10 | Expanding AI access and cyber defense for federal, state, local, and tribal governments | OpenAI | [link](https://openai.com/index/expanding-ai-access-us-government) |
 | 2026-09-10 | Introducing the Agents API | OpenAI | [link](https://openai.com/index/introducing-the-agents-api) |
 | 2026-09-10 | Build more natural voice experiences with GPT‑Live‑1 in the API | OpenAI | [link](https://openai.com/index/introducing-gpt-live-1-in-the-api) |
-| 2026-09-10 | Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL | Hugging Face | [link](https://huggingface.co/blog/asyncgrpo-lora-hfjobs) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -36,6 +36,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-09-14 | Universal Robots launches its seventh generation robot platform at IMTS | Robotics Business Review | [link](https://www.therobotreport.com/universal-robots-launches-its-seventh-generation-robot-platform-at-imts/) |
+| 2026-09-14 | Arm to discuss scaling physical AI at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/arm-to-discuss-scaling-physical-ai-at-robobusiness/) |
 | 2026-09-13 | How autonomous fleets are changing what’s possible in American agriculture | Robotics Business Review | [link](https://www.therobotreport.com/how-autonomous-fleets-are-changing-whats-possible-american-agriculture/) |
 | 2026-09-12 | Ultrasound offers a scalable path to tactile intelligence for physical AI | Robotics Business Review | [link](https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/) |
 | 2026-09-11 | How to select the right rack and pinion system for high-precision linear motion | Robotics Business Review | [link](https://www.therobotreport.com/how-to-select-the-right-rack-and-pinion-system-for-high-precision-linear-motion/) |
@@ -44,28 +45,41 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-11 | One brick at a time: How Monumental uses robotics to build walls | Robotics Business Review | [link](https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/) |
 | 2026-09-11 | Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness/) |
 | 2026-09-10 | Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/) |
-| 2026-09-10 | Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M | Robotics Business Review | [link](https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-14 | Pulse: a New VHDL Simulator | Hackaday | [link](https://hackaday.com/2026/09/14/pulse-a-new-vhdl-simulator/) |
+| 2026-09-14 | Hackaday Europe 2026: Space Oddities | Hackaday | [link](https://hackaday.com/2026/09/14/hackaday-europe-2026-space-oddities/) |
+| 2026-09-14 | Fly Brain Connectome Used to Trade Stocks and Play Games | Hackaday | [link](https://hackaday.com/2026/09/14/fly-brain-connectome-used-to-trade-stocks-and-play-games/) |
 | 2026-09-14 | Rosy Retrocomputing | Hackaday | [link](https://hackaday.com/2026/09/14/rosy-retrocomputing/) |
 | 2026-09-14 | It’s The Speech Synthesiser You Wanted, For The Computer You Had | Hackaday | [link](https://hackaday.com/2026/09/14/its-the-speech-synthesiser-you-wanted-for-the-computer-you-had/) |
 | 2026-09-14 | CircuitPython Goes Turbo With Precompiled Functions | Hackaday | [link](https://hackaday.com/2026/09/14/circuitpython-goes-turbo-with-precompiled-functions/) |
 | 2026-09-14 | Dramatically Increasing Usable Closet Space | Hackaday | [link](https://hackaday.com/2026/09/13/dramatically-increasing-usable-closet-space/) |
-| 2026-09-14 | Re-creating NASA’s Heat Shield Problem | Hackaday | [link](https://hackaday.com/2026/09/13/re-creating-nasas-heat-shield-problem/) |
 | 2026-09-14 | Morse Micro Wi-Fi HaLow USB adapters add 802.11ah connectivity to PCs and routers | CNX Software | [link](https://www.cnx-software.com/2026/09/14/morse-micro-wi-fi-halow-usb-adapters-add-802-11ah-connectivity-to-pcs-and-routers/) |
 | 2026-09-14 | JetKVM Mini – A low-cost, ESP32-P4X-based KVM with Ethernet or WiFi connectivity | CNX Software | [link](https://www.cnx-software.com/2026/09/14/jetkvm-mini-a-low-cost-esp32-p4x-based-kvm-with-ethernet-or-wifi-connectivity/) |
-| 2026-09-14 | Designing SWaP-Optimized Compute for UAVs | Embedded.com | [link](https://www.embedded.com/designing-swap-optimized-compute-for-uavs/) |
-| 2026-09-14 | binder adds midmount PCB connectors to its M12 portfolio | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/connectors/binder-adds-midmount-pcb-connectors-to-its-m12-portfolio-2026-09/) |
-| 2026-09-14 | Serpac watch-style enclosures feature IP 67 sealing | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/emech-enclosures/serpac-watch-style-enclosures-feature-ip-67-sealing-2026-09/) |
+| 2026-09-14 | Eggtronic, Renesas Target 140-W USB-C Chargers with GaN | Embedded.com | [link](https://www.embedded.com/eggtronic-renesas-target-140-w-usb-c-chargers-with-gan/) |
 
 ## New Research Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-09-11 | ASTRIL-MPC: Autonomous Traversal Framework of Articulated Tracked Robots with Language-Guided Neural-Kinematic MPC | [link](https://arxiv.org/pdf/2609.13083v1) |
+| 2026-09-11 | Involving before Evolving: A Vision for Trustworthy Enterprise Digital Twin Engineering | [link](https://arxiv.org/pdf/2609.13071v1) |
+| 2026-09-11 | Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model | [link](https://arxiv.org/pdf/2609.13053v1) |
+| 2026-09-11 | Objective Intelligibility Prediction Using Distance Metrics on Speech Foundation Model Representations | [link](https://arxiv.org/pdf/2609.13046v1) |
+| 2026-09-11 | Attention Quantization for Tabular Foundation Models | [link](https://arxiv.org/pdf/2609.13031v1) |
+| 2026-09-11 | Global Path Planner with Multi-Model Switching | [link](https://arxiv.org/pdf/2609.13015v1) |
+| 2026-09-11 | Comfort by Construction: Adaptive, Comfort-Bounded Action Spaces for Learned Driving Policies | [link](https://arxiv.org/pdf/2609.13011v1) |
+| 2026-09-11 | SV-Cine: Diagnosis-Conditioned Segmentation of Single Ventricle Physiology via Generative Data Augmentation | [link](https://arxiv.org/pdf/2609.12997v1) |
+| 2026-09-11 | Tuning ROS 2 for Energy-Efficient Navigation: Empirical Insights from Costmap 2D Configurations | [link](https://arxiv.org/pdf/2609.12971v1) |
+| 2026-09-11 | Distributed Stochastic Optimal Control for Pattern-Oriented Swarms | [link](https://arxiv.org/pdf/2609.12959v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-14 | Siqi2022/robotwin-checkpoints | 0 | 0 | [link](https://huggingface.co/Siqi2022/robotwin-checkpoints) |
+| 2026-09-14 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
+| 2026-09-14 | dreamdifferent/vam-cross-level5-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-0afa7f9da5 | 0 | 0 | [link](https://huggingface.co/dreamdifferent/vam-cross-level5-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-0afa7f9da5) |
 | 2026-09-14 | zolkin/robot_rl | 0 | 1 | [link](https://huggingface.co/zolkin/robot_rl) |
 | 2026-09-14 | hackathon1-fmm/groot_rod_insert_robot_1_n17_3cam_h200_b32_15k_20260913 | 0 | 0 | [link](https://huggingface.co/hackathon1-fmm/groot_rod_insert_robot_1_n17_3cam_h200_b32_15k_20260913) |
 | 2026-09-14 | huzican0419/robotwin_piper_x_new_sft_step20000 | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_new_sft_step20000) |
@@ -73,23 +87,20 @@ _No items collected yet._
 | 2026-09-14 | bdgrahman/robotics-vision-language-survey | 0 | 0 | [link](https://huggingface.co/bdgrahman/robotics-vision-language-survey) |
 | 2026-09-14 | sergiojimenezbur/robotics-vision-language | 0 | 0 | [link](https://huggingface.co/sergiojimenezbur/robotics-vision-language) |
 | 2026-09-14 | pollen-robotics/microduck-policies | 0 | 12 | [link](https://huggingface.co/pollen-robotics/microduck-policies) |
-| 2026-09-14 | Riasok/pi05-robot-checkpoints-20260912 | 0 | 0 | [link](https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912) |
-| 2026-09-14 | kunle-ogunleye/notes-robotics-vision-language34 | 0 | 0 | [link](https://huggingface.co/kunle-ogunleye/notes-robotics-vision-language34) |
-| 2026-09-14 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| copper-project/copper-rs | 1488 | Rust | 595.3 | [link](https://github.com/copper-project/copper-rs) |
+| NVIDIA/skills | 3289 | Python | 1315.7 | [link](https://github.com/NVIDIA/skills) |
+| copper-project/copper-rs | 1489 | Rust | 595.7 | [link](https://github.com/copper-project/copper-rs) |
 | Edgenesis/shifu | 1435 | Go | 574.1 | [link](https://github.com/Edgenesis/shifu) |
 | NVlabs/alpasim | 1233 | Python | 493.3 | [link](https://github.com/NVlabs/alpasim) |
-| mosaico-labs/mosaico | 1037 | Python | 414.9 | [link](https://github.com/mosaico-labs/mosaico) |
+| mosaico-labs/mosaico | 1038 | Python | 415.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 474 | Shell | 189.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63652 | Python | 25460.9 | [link](https://github.com/commaai/openpilot) |
-| questdb/questdb | 17320 | Java | 6928.1 | [link](https://github.com/questdb/questdb) |
+| commaai/openpilot | 63651 | Python | 25460.5 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30505 | Python | 12202.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| questdb/questdb | 17321 | Java | 6928.5 | [link](https://github.com/questdb/questdb) |
 | zauberzeug/nicegui | 16206 | Python | 6482.5 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15859 | C++ | 6343.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| earthtojake/text-to-cad | 15723 | Python | 6289.3 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -115,13 +126,14 @@ _No items collected yet._
 | 2026-09-11 | HD Hyundai Robotics invests $9.7 mn in Korean physical AI startup - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTE5mWTBpeTljcjBWMDYxbHA5bWNOZVVxMVZYTkpkS0pVTDBxRVluLXo3MGxQSElncDVLYzkwdHFLRElTVVN3LTRtUVRYVmwzYVJsY2xTR1JpYWRVLVMzUC02T2I5dm9LOHJSUWlV?oc=5) |
 | 2026-09-11 | Automated chip design, physical AI lead startup activity across APAC: AWS exec - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeEkzS0p0a3gyaURSQVdDOUY1MVM3bDFua05WcGhVQWRRZXc3TlJBSlpJbkVGX1VMWFlTWDYzdDhyelo2YUNmTmUyZ29odjBPZUprOVpTM3JuT3ZKN25teXdvbkMtZnhMakkzcUt4azFZTDdHVUVNbU5mWnRoVmtlM0JSTk5qUGtaMFM5ZFRfYkJxa25kazA5ODB3bWt0YWduRFdYa1ROOE5oZVItWGRlLXRQUC1qVUFyWW9rZmN6Tlg3R2h3TkdYQ3J2V0ZqbmNXTVFqdVd5ZWlSanhu0gHiAUFVX3lxTFAxdm5iaDF0eWJfTVliN0pxc3RMQ1NDb1FzZUtGMldGejVPN2lIbjlWYlpKTkNzWGkwdHFOVzRiNERHREFYUWVaeGUySndOUWp2bEd2azRURHdGdmVBWHhoZUVLSkoya0VJM3NmMzlxOERwLU5oUmdIdldlZWxMLXNHcXd4NTF6SFQtTEQ0RGZMNU5paVNoM3E0VU9Kd3R0X0xLOVJtZ1Vybmw4NV9ZdEQyWjY2THg0TDJGT3hnSkpteVhFTG44aWZTNVRWUDJsUG8zMEstaVdLOUNZNnhtTjF2NUE?oc=5) |
 | 2026-09-11 | China's Embodied AI Startup Kinetix AI Raises Over 500 Million Yuan in Angel+ Round Led by Temasek-Backed Vertex Ventures - finance.biggo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBDQWN5VnpQMDVnQUQ4V25uRnc2M0MzRGs3NFBBYTdMaEtOMVlNdVp3UEZsUno0WkZHd3VtVXd4OEM1OVZxQWE2SU5XbjAzd3ZjQUZCY1V0TTM3bHVSSjNUcTlwZDl1WFlNRmllTFMwTGF1VlM5TWc?oc=5) |
-| 2026-09-11 | A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDBpLTJ2bkg4MW1WX3Vzbk1vY1ViazJMZEYyWHlibW11dWFxTl85dEZNWUlVVHNmVEhkNkRvTjRxcVVDVk5pM01obkpMVXR5b0ExeGl3N3F5T0Vtd0NUMXplZzdpWUVNbGhyTUtKcFhGa1ZiUWNVTG1fbW1STk9JUUxveGtiOE1JdTVhbGlZOU1xZlFtU3dXYdIBngFBVV95cUxNQUt5TGk3QjZjNUFJTENnTDYtZjBvdFptNHVlTFlIaEF4WERaTjdnd21oR0l3QzFNdW85NGY5alNPY1A0WEs4S19rdGlKc2NKbWRXczktWmdBVG9IVjAyRUFtbnhEX1J1cUl0M1Nkbm9lcUhtNkE5bHk0WXdNUWhaQXhRcHNzU1BMa3BoNmpYNFZsZjNuZUN3UGNRSHc3QQ?oc=5) |
+| 2026-09-11 | A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model - cnbc.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDBpLTJ2bkg4MW1WX3Vzbk1vY1ViazJMZEYyWHlibW11dWFxTl85dEZNWUlVVHNmVEhkNkRvTjRxcVVDVk5pM01obkpMVXR5b0ExeGl3N3F5T0Vtd0NUMXplZzdpWUVNbGhyTUtKcFhGa1ZiUWNVTG1fbW1STk9JUUxveGtiOE1JdTVhbGlZOU1xZlFtU3dXYdIBngFBVV95cUxNQUt5TGk3QjZjNUFJTENnTDYtZjBvdFptNHVlTFlIaEF4WERaTjdnd21oR0l3QzFNdW85NGY5alNPY1A0WEs4S19rdGlKc2NKbWRXczktWmdBVG9IVjAyRUFtbnhEX1J1cUl0M1Nkbm9lcUhtNkE5bHk0WXdNUWhaQXhRcHNzU1BMa3BoNmpYNFZsZjNuZUN3UGNRSHc3QQ?oc=5) |
 | 2026-09-11 | Chinese Humanoid Robot Startup Accuses OpenAI of Technology Plagiarism, Launches Legal Action - finance.biggo.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9XY0o1S0NDSGVUWkhHSGRGN214dTFrZ0hrQ1pVVlFrQk8zM0hER1hlYldpMFR5emNmYUoxMDNJZzdKMmh5SFJESEdfOVc4UWx1eVBvRXdseTltSkVRZTJQU3FPSE1mYXVNb1hTZFZDZHVCR3h3S3c?oc=5) |
-| 2026-09-11 | The world's largest, Google is queuing up to buy Figure, and this team has built the most popular robot in Silicon Valley. - eu.36kr.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zdFVHSnpjNXRvd2RlbWdjT0NINV9MR2dET0I4UkIyNlA0MHhxREtNMjl6RUpyT0liaTFCRDlGX0J1STVjYTFNaEM2Y0hxRXZpQk84?oc=5) |
+| 2026-09-11 | The world's largest, Google is queuing up to buy Figure, and this team has built the most popular robot in Silicon Valley. - 36 Kr | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zdFVHSnpjNXRvd2RlbWdjT0NINV9MR2dET0I4UkIyNlA0MHhxREtNMjl6RUpyT0liaTFCRDlGX0J1STVjYTFNaEM2Y0hxRXZpQk84?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-14 | Special Projects Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4694889006) |
 | 2026-09-11 | Campus Program Recruiter | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6178371004) |
 | 2026-09-10 | Data Quality Analyst | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
 | 2026-09-10 | Wire Harness Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4697402006) |
@@ -131,7 +143,6 @@ _No items collected yet._
 | 2026-09-09 | Senior Systems Administrator, IT | Agility Robotics | Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6180281004) |
 | 2026-09-09 | Senior Technical Program Manager | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6154494004) |
 | 2026-09-08 | Associate General Counsel, Corporate  | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6110896004) |
-| 2026-09-04 | Helix Data Creator (SP)  | Figure AI | São Paulo, SP, Brasil | [link](https://job-boards.greenhouse.io/figureai/jobs/4708450006) |
 
 ## Automation
 

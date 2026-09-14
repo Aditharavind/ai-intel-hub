@@ -1,5 +1,26 @@
 [
   {
+    "title": "Pulse: a New VHDL Simulator",
+    "source": "Hackaday",
+    "date": "2026-09-14",
+    "url": "https://hackaday.com/2026/09/14/pulse-a-new-vhdl-simulator/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"326\" src=\"https://hackaday.com/wp-content/uploads/2026/09/pulse_vhdl_simulator_layout_oscar30gt_github.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>With VHDL being arguably more deterministic and bullet-proof than Verilog, it&#8217;s good to see another open source VHDL simulator joining the fray that is not a variation of ghdl. Written <a class=\"read-more\" href=\"https://hackaday.com/2026/09/14/pulse-a-new-vhdl-simulator/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Hackaday Europe 2026: Space Oddities",
+    "source": "Hackaday",
+    "date": "2026-09-14",
+    "url": "https://hackaday.com/2026/09/14/hackaday-europe-2026-space-oddities/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/09/DSC09781_featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you&#8217;re in motorsport, or maritime, or mining fields, you can always call on a technician to come down and fix something when it&#8217;s broken. You can lay hands on <a class=\"read-more\" href=\"https://hackaday.com/2026/09/14/hackaday-europe-2026-space-oddities/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Fly Brain Connectome Used to Trade Stocks and Play Games",
+    "source": "Hackaday",
+    "date": "2026-09-14",
+    "url": "https://hackaday.com/2026/09/14/fly-brain-connectome-used-to-trade-stocks-and-play-games/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"400\" src=\"https://hackaday.com/wp-content/uploads/2021/12/1024px-Drosophila_melanogaster_Proboscis_featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Recently researchers finished mapping the central nervous system (CNS) connectome of not just the female Drosophila melanogaster (i.e. fruit fly) brain, but also that of the male D. melanogaster for a comparative <a class=\"read-more\" href=\"https://hackaday.com/2026/09/14/fly-brain-connectome-used-to-trade-stocks-and-play-games/\">&#8230;read more</a>"
+  },
+  {
     "title": "Rosy Retrocomputing",
     "source": "Hackaday",
     "date": "2026-09-14",
@@ -28,13 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/closet-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As any science YouTuber or first-year physics student is quick to point out, the universe is mostly empty space. Not just space itself, but the amount of &#8220;empty&#8221; space between <a class=\"read-more\" href=\"https://hackaday.com/2026/09/13/dramatically-increasing-usable-closet-space/\">&#8230;read more</a>"
   },
   {
-    "title": "Re-creating NASA’s Heat Shield Problem",
-    "source": "Hackaday",
-    "date": "2026-09-14",
-    "url": "https://hackaday.com/2026/09/13/re-creating-nasas-heat-shield-problem/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"473\" src=\"https://hackaday.com/wp-content/uploads/2026/09/heat_shield_test_polymatt_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>After the Orion capsule of the Artemis I lunar mission returned to Earth, it was found that massive chunks of its heatshield had been ripped off, posing a serious risk <a class=\"read-more\" href=\"https://hackaday.com/2026/09/13/re-creating-nasas-heat-shield-problem/\">&#8230;read more</a>"
-  },
-  {
     "title": "Morse Micro Wi-Fi HaLow USB adapters add 802.11ah connectivity to PCs and routers",
     "source": "CNX Software",
     "date": "2026-09-14",
@@ -49,11 +63,25 @@
     "summary": "<div><img alt=\"JetKVM Mini\" class=\"attachment-medium size-medium wp-post-image\" height=\"540\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/JetKVM-Mini-720x540.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>JetKVM Mini is a smaller, lower-cost version of the popular JetKVM KVM over IP solution. The new model features a small information display, offers Ethernet or WiFi connectivity, and supports 1080p video capture. The main under-the-hood change is that they ditched Linux on a Rockchip RV1106G3 SoC and now rely on an ESP32-P4X (ESP32-P4 version 3.x and greater) to handle video capture, H.264 encoding, USB, and other features. The largest cost saving is removing the RAM and eMMC flash required by Linux. JetKVM Mini specifications: SoC – Espressif Systems ESP32-P4X CPU Dual-core 32-bit RISC-V HP (High-performance) CPU @ up to 400 MHz with AI instruction extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz Memory 768 KB HP L2MEM (for dual-core CPU), 32 KB LP SRAM, 8 KB TCM (for LP MCU core) 32 MB PSRAM Storage – 128 KB HP ROM, 16 KB LP ROM [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/14/jetkvm-mini-a-low-cost-esp32-p4x-based-kvm-with-ethernet-or-wifi-connectivity/\">JetKVM Mini &#8211; A low-cost, ESP32-P4X-based KVM with Ethernet or WiFi connectivity</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Eggtronic, Renesas Target 140-W USB-C Chargers with GaN",
+    "source": "Embedded.com",
+    "date": "2026-09-14",
+    "url": "https://www.embedded.com/eggtronic-renesas-target-140-w-usb-c-chargers-with-gan/",
+    "summary": "<p>Eggtronic has introduced a 140-W USB-C Power Delivery AC/DC reference platform for premium laptops and other high-performance USB-C-powered equipment. The design combines Eggtronic's EPIC digital power architecture with Renesas Electronic Corp.'s high-voltage GaN technology to target high efficiency, reduced component count, and competitive system cost. The reference design uses Renesas' TP70H150G4LSG, a 700-V GaN transistor [...]</p>\n<p>The post <a href=\"https://www.embedded.com/eggtronic-renesas-target-140-w-usb-c-chargers-with-gan/\">Eggtronic, Renesas Target 140-W USB-C Chargers with GaN</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
     "title": "Designing SWaP-Optimized Compute for UAVs",
     "source": "Embedded.com",
     "date": "2026-09-14",
     "url": "https://www.embedded.com/designing-swap-optimized-compute-for-uavs/",
     "summary": "<p>The embedded architecture of unmanned aerial vehicles (UAVs) is changing as more intelligence moves from the remote operator onto the aircraft itself. In a conventional, first-person-view drone, a human analyzes the video feed, determines where the aircraft should go, and makes many of the decisions required to complete the mission. But the architecture depends on [...]</p>\n<p>The post <a href=\"https://www.embedded.com/designing-swap-optimized-compute-for-uavs/\">Designing SWaP-Optimized Compute for UAVs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "CASIS celebrates 15 years managing International Space Station lab",
+    "source": "Electronics Weekly",
+    "date": "2026-09-14",
+    "url": "https://www.electronicsweekly.com/news/business/casis-celebrates-15-years-managing-international-space-station-lab-2026-09/",
+    "summary": "<p>The Center for the Advancement of Science in Space (CASIS) is celebrating 15 years as manager of the International Space Station (ISS) National Laboratory. The organisation is officially responsible the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/casis-celebrates-15-years-managing-international-space-station-lab-2026-09/\">CASIS celebrates 15 years managing International Space Station lab</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "binder adds midmount PCB connectors to its M12 portfolio",
@@ -112,6 +140,69 @@
     "summary": "<p>The PM nobbled me after this week’s Cabinet and hustled me into the private office for a chinwag, Ed confides to his diary.  “Ed,” he says, “the media are dissing [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-stiffens-the-pms-spine-2026-09/\">Ed Stiffens The PM’s Sinews</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "If it’s electronic paper, why not print to it?",
+    "source": "Adafruit",
+    "date": "2026-09-14",
+    "url": "https://blog.adafruit.com/2026/09/14/if-its-electronic-paper-why-not-print-to-it/",
+    "summary": "NishantJoshi00 bought an Xteink X3 e-reader because the fine print said it was fully programmable, and wrote up the result on nishantjosh.dev. Loading files onto it meant joining the device&#8217;s hotspot and using a browser upload page. So the goal became pressing Print on a MacBook and picking the reader from the printer list. That [&#8230;]"
+  },
+  {
+    "title": "You can now play PS3 games straight from the disc, without a PS3",
+    "source": "Adafruit",
+    "date": "2026-09-14",
+    "url": "https://blog.adafruit.com/2026/09/14/you-can-now-play-ps3-games-straight-from-the-disc-without-a-ps3/",
+    "summary": "Alfonso Maruccia at TechSpot reports that the RPCS3 team has added direct disc play to the PlayStation 3 emulator. Games can now boot straight from their original Blu-ray discs, with no need for external servers. Developers &#8220;digant73&#8221; and &#8220;Megamouse&#8221; contributed the code that extended the feature to Linux, FreeBSD, and macOS. It was previously Windows [&#8230;]"
+  },
+  {
+    "title": "Reverse engineering an ASIC",
+    "source": "Adafruit",
+    "date": "2026-09-14",
+    "url": "https://blog.adafruit.com/2026/09/14/reverse-engineering-an-asic/",
+    "summary": "A writeup posted at kjartanvandriel.github.io walks through solving a Jane Street puzzle that hands you just two files: a GDS chip layout and a VCD recording of one test run. No Verilog, no schematic, just polygons on layers. The cell names start with sky130_fd_sc_hd__, which identifies the SkyWater 130 nm standard cell library. That makes [&#8230;]"
+  },
+  {
+    "title": "Microsoft plugs nearly 1,000 security holes – Krebs on Security",
+    "source": "Adafruit",
+    "date": "2026-09-14",
+    "url": "https://blog.adafruit.com/2026/09/14/microsoft-plugs-nearly-1000-security-holes-krebs-on-security/",
+    "summary": "Brian Krebs reports at Krebs on Security that Microsoft shipped updates for at least 974 security flaws this month, the largest single patch batch the company has ever released. The previous record was 570 flaws in July. September&#8217;s release pushes the year&#8217;s total past 2,600, more than double the 1,245 fixed in 2020, with three [&#8230;]"
+  },
+  {
+    "title": "This Mac is open source hardware",
+    "source": "Adafruit",
+    "date": "2026-09-14",
+    "url": "https://blog.adafruit.com/2026/09/14/this-mac-is-open-source-hardware/",
+    "summary": "DosFox1 has posted OSHintosh on GitHub, an open source hardware Macintosh 512Ke logic board built with no Apple hardware at all. It is a diskless machine: no SCSI, no floppy drive, no mass storage of any kind. It boots from a disk image baked into the ROM, based on the Big Mess o&#8217; Wires ROM-inator. [&#8230;]"
+  },
+  {
+    "title": "Intel reverses decision to cancel their open-source font project",
+    "source": "Adafruit",
+    "date": "2026-09-14",
+    "url": "https://blog.adafruit.com/2026/09/14/intel-reverses-decision-to-cancel-their-open-source-font-project/",
+    "summary": "Michael Larabel reports at Phoronix that Intel has reversed its decision to cancel Intel One Mono, the company&#8217;s open-source font project. Intel One Mono is a monospaced typeface aimed at developers, released under the SIL Open Font License and hosted on GitHub. Intel had moved to end the project, a decision that has now been [&#8230;]"
+  },
+  {
+    "title": "VolAnti: An ESP32-S3 Acoustic Drone Detector #drone #droneday",
+    "source": "Adafruit",
+    "date": "2026-09-14",
+    "url": "https://blog.adafruit.com/2026/09/14/volanti-an-esp32-s3-acoustic-drone-detector-drone-droneday/",
+    "summary": "A drone detector that relies on that unique whir of propellers, not a radio signal. University of York student Agam Rossen built this open-source acoustic drone detector. It uses four MEMS mics, an ESP32-S3, and it hears the propellers instead of the radio Fibre-optic FPV drones transmit nothing, so RF detection is blind to them; [&#8230;]"
+  },
+  {
+    "title": "A rare working Apple-1 could fetch $800,000 at auction",
+    "source": "Adafruit",
+    "date": "2026-09-14",
+    "url": "https://blog.adafruit.com/2026/09/14/a-rare-working-apple-1-could-fetch-800000-at-auction/",
+    "summary": "Juli Clover, writing for MacRumors, reports that an original Apple-1 computer is expected to sell for between $500,000 and $800,000 when it goes to auction in October. Fewer than 75 Apple-1 machines are known to exist, and fewer still run. This one, known as the &#8220;Hatfield&#8221; Apple-1, is number 48 on the Apple-1 registry and [&#8230;]"
+  },
+  {
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
+    "date": "2026-09-14",
+    "url": "https://blog.adafruit.com/2026/09/14/the-python-on-microcontrollers-newsletter-subscribe-for-free-9-14/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+  },
+  {
     "title": "Raspberry Pi 10000",
     "source": "Adafruit",
     "date": "2026-09-14",
@@ -168,20 +259,6 @@
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"182\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/Eternacell-300x182.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />&#160; With the RIFA capacitors replaced in my HP 3478A DMM (see “An HP 3478A DMM Rescue, Part 1: RIFA Madness”), I was able to safely power up the DMM in preparation for battery replacement. With the power on, the DMM no longer relied on the battery to preserve the calibration data. It’s not a &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/an-hp-3478a-dmm-rescue-part-2-eternacell-batteries-are-forever-apparently/\">Read More &#8594;<span class=\"screen-reader-text\"> \"An HP 3478A DMM Rescue, Part 2: Eternacell Batteries are Forever (Apparently)\"</span></a>"
   },
   {
-    "title": "Hackaday Links: September 13, 2026",
-    "source": "Hackaday",
-    "date": "2026-09-13",
-    "url": "https://hackaday.com/2026/09/13/hackaday-links-september-13-2026/",
-    "summary": "<div><img alt=\"Hackaday Links Column Banner\" class=\"attachment-large size-large wp-post-image\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We try to steer clear of politics and societal issues here at Hackaday, so a protest is not usually the sort of thing we&#8217;d cover. But we figure it&#8217;s safe <a class=\"read-more\" href=\"https://hackaday.com/2026/09/13/hackaday-links-september-13-2026/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Rusting an E-scooter (In a Good Way)",
-    "source": "Hackaday",
-    "date": "2026-09-13",
-    "url": "https://hackaday.com/2026/09/13/rusting-an-e-scooter-in-a-good-way/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/can.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It is a classic Hackaday situation. You have an Egret GT E-scooter. It has a screen that shows the usual dash stats, but that led to an annoyance. You could <a class=\"read-more\" href=\"https://hackaday.com/2026/09/13/rusting-an-e-scooter-in-a-good-way/\">&#8230;read more</a>"
-  },
-  {
     "title": "M5Stack Module13.2 LoRa-1262 expansion board integrates 14×10 mm Stamp LoRa-1262 module",
     "source": "CNX Software",
     "date": "2026-09-13",
@@ -196,39 +273,11 @@
     "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG T3CAD: An agent-driven electronics [&#8230;]"
   },
   {
-    "title": "Driving 512 LEDs from a Nintendo Switch: ESP32, WS2812, and a 240fps",
-    "source": "Adafruit",
-    "date": "2026-09-13",
-    "url": "https://blog.adafruit.com/2026/09/13/driving-512-leds-from-a-nintendo-switch-esp32-ws2812-and-a-240fps/",
-    "summary": "Brewser is a homebrew web runtime for modded Switch consoles. The app Matrix Studio lets you drive an LED Matrix from your Switch! Matrix Studio is a pixel art and animation app running in Brewser, a homebrew web runtime and app platform for modded Nintendo Switch consoles. It streams frames live to a 512-LED WS2812 [&#8230;]"
-  },
-  {
-    "title": "Adafruit Bluefruit LE UART Friend",
-    "source": "Adafruit",
-    "date": "2026-09-13",
-    "url": "https://blog.adafruit.com/2026/09/13/adafruit-bluefruit-le-uart-friend/",
-    "summary": "Would you like to add powerful and easy-to-use Bluetooth Low Energy to your robot, art or other electronics project? Heck yeah! With BLE now included in modern smart phones and tablets, its fun to add wireless connectivity. So what you really need is the new Adafruit Bluefruit LE UART Friend! The Bluefruit LE UART Friend [&#8230;]"
-  },
-  {
-    "title": "A Glowing Modern Grandfather Clock",
-    "source": "Adafruit",
-    "date": "2026-09-13",
-    "url": "https://blog.adafruit.com/2026/09/13/a-glowing-modern-grandfather-clock/",
-    "summary": "Get a bonus inside look into a planer in Full Stack Woodworking&#8217;s modern grandfather clock build video on YouTube: Building a sculptural, kinetic timepiece from Iroko hardwood. An ESP32 micro controller gets the time from NTP (Network Time Protocol) and positions a glowing, orb floating according to the time, along with lighting effects. We have [&#8230;]"
-  },
-  {
     "title": "NeoEyes NE302 – A tiny USB-C-powered WiFi 6 Edge AI Vision camera based on STM32N6 MCU",
     "source": "CNX Software",
     "date": "2026-09-12",
     "url": "https://www.cnx-software.com/2026/09/12/neoeyes-ne302-a-tiny-usb-c-powered-wifi-6-edge-ai-vision-camera-based-on-stm32n6-mcu/",
     "summary": "<div><img alt=\"NeoEyes NE302 AI camera\" class=\"attachment-medium size-medium wp-post-image\" height=\"549\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/NeoEyes-NE302-AI-camera-720x549.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>CamThink NeoEyes NE302 is a tiny WiFi 6 Edge AI camera based on an STM32N6 Arm Cortex-M55 MCU with Neural-ART NPU which the company says is &#8220;especially suitable for developers and makers&#8221;. I initially thought about it as a smaller version of the CamThink NeoEyes NE301 based on the same STM32N6 MCU and 4MP OS04C10 camera sensor. But it&#8217;s quite a different device. First, it doesn&#8217;t have a battery, and the USB-C is only used for power. Memory and storage capacities have been reduced to 32 MB PSRAM and 64 MP SPI flash, and a range of built-in and optional features have been removed, including 4G LTE module (global or US), audio wafers, PIR motion connector, and a 16-pin GPIO header, as well as support for PoE power. CamThink NeoEyes NE302 specifications: Vision MCU STMicro STM32N6 MCU Core – Arm 32-bit Cortex-M55 CPU @ up to 800MHz with Arm Helium [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/12/neoeyes-ne302-a-tiny-usb-c-powered-wifi-6-edge-ai-vision-camera-based-on-stm32n6-mcu/\">NeoEyes NE302 &#8211; A tiny USB-C-powered WiFi 6 Edge AI Vision camera based on STM32N6 MCU</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Happy National Video Games Day 2026",
-    "source": "Adafruit",
-    "date": "2026-09-12",
-    "url": "https://blog.adafruit.com/2026/09/12/happy-national-video-games-day-2026/",
-    "summary": "image of Magnavox Odyssey via Wikipedia &#160; September 12th is National Video Games Day!!  Released 54 years ago in 1972 the Magnavox Odyssey was the first commercial home video game console. And while there seem to bet a few different days claiming to be &#8220;video game day&#8221; we celebrate today for Magnavox. We remain agnostic [&#8230;]"
   },
   {
     "title": "Renesas RZ/G3L & RZ/G3SE – Ultra-low-power Cortex-A55 MPUs for industrial HMI and IoT applications",
@@ -264,48 +313,6 @@
     "date": "2026-09-11",
     "url": "https://www.electronicsweekly.com/news/business/techworks-calls-for-economic-growth-through-uk-expertise-2026-09/",
     "summary": "<p>TechWorks celebrated its 30th anniversary with the first TechWorks Semiconductors to Systems Summit (S2S26) in London. And it is calling for greater collaboration within the industry to turn UK technology [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/techworks-calls-for-economic-growth-through-uk-expertise-2026-09/\">TechWorks calls for economic growth through UK expertise</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "UKESF, Unibots partner for robotics and engineering",
-    "source": "Electronics Weekly",
-    "date": "2026-09-11",
-    "url": "https://www.electronicsweekly.com/news/design/stem/ukesf-unibots-partner-for-robotics-and-engineering-2026-09/",
-    "summary": "<p>The UK Electronics Skills Foundation (UKESF) is partnering with Unibots CIC to help make learning practical robotics more accessible and social for students. Unibots CIC is a non-profit organisation that [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/design/stem/ukesf-unibots-partner-for-robotics-and-engineering-2026-09/\">UKESF, Unibots partner for robotics and engineering</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "UPDATED GUIDE: Adafruit Metro M4 Express AirLift Lite #NoCode #WipperSnapper #AdafruitLearningSystem @Adafruit",
-    "source": "Adafruit",
-    "date": "2026-09-11",
-    "url": "https://blog.adafruit.com/2026/09/11/updated-guide-adafruit-metro-m4-express-airlift-lite-nocode-wippersnapper-adafruitlearningsystem-adafruit/",
-    "summary": "&#160; UPDATED GUIDE: Adafruit Metro M4 AirLift (WipperSnapper Essentials) You already know about the Adafruit Metro M4 featuring the Microchip ATSAMD51, with it&#8217;s 120MHz Cortex M4 with floating point support. With a train-load of FLASH and RAM, your code will be fast and roomy. And what better way to improve it than to add wireless? Now cooked in [&#8230;]"
-  },
-  {
-    "title": "Japan is launching a mission to bring back the first samples from a Martian moon",
-    "source": "Adafruit",
-    "date": "2026-09-11",
-    "url": "https://blog.adafruit.com/2026/09/11/japan-is-launching-a-mission-to-bring-back-the-first-samples-from-a-martian-moon/",
-    "summary": "Skye Jacobs, writing for TechSpot, reports that JAXA will launch its Martian Moons eXploration mission, MMX, from Tanegashima Space Center on October 20. The spacecraft will travel to Phobos and return at least 10 grams of material to Earth in 2031. It would be the first sample return from a moon orbiting Mars. Phobos has [&#8230;]"
-  },
-  {
-    "title": "Get Ready for Electronic Halloween with the Adafruit RP2040 Prop-Maker Feather",
-    "source": "Adafruit",
-    "date": "2026-09-11",
-    "url": "https://blog.adafruit.com/2026/09/11/get-ready-for-electronic-halloween-with-the-adafruit-rp2040-prop-maker-feather/",
-    "summary": "&#160; The Adafruit RP2040 Prop-Maker Feather is an all-in-one combination of the Feather RP2040 with a Prop-Maker FeatherWing plus a few tweaks based on feedback from expert prop-builders. Perfect for fitting into your next prop build! This Feather will unlock the &#8216;Imagineer&#8217; inside all of us, with tons of stuff packed in to make sabers [&#8230;]"
-  },
-  {
-    "title": "Understanding metrics, logs, and traces without jargon",
-    "source": "Adafruit",
-    "date": "2026-09-11",
-    "url": "https://blog.adafruit.com/2026/09/11/understanding-metrics-logs-and-traces-without-jargon/",
-    "summary": "Raj Patel, writing at Open Source For You, walks through the three pillars of observability without the usual vocabulary lesson. Metrics, logs, and traces are three ways of recording the same events inside a running system, each built around a different question. Logs keep one written entry per event, with a timestamp and whatever context [&#8230;]"
-  },
-  {
-    "title": "A backwards-walking fish was caught on video in the South China Sea",
-    "source": "Adafruit",
-    "date": "2026-09-11",
-    "url": "https://blog.adafruit.com/2026/09/11/a-backwards-walking-fish-was-caught-on-video-in-the-south-china-sea/",
-    "summary": "Sara Hashemi, writing for Popular Science, reports that scientists in China have filmed a deep-sea fish walking backward along the seafloor. The fish is Scalicus engyceros, an armored searobin. Its body is covered in bony plates, and stiff free fin rays stick out from its pectoral fins like small legs it uses to walk. The [&#8230;]"
   },
   {
     "title": "Imec demonstrates the extension of chemically amplified resists for High NA EUV lithography",
@@ -418,12 +425,5 @@
     "date": "2026-09-05",
     "url": "https://www.embedded.com/microchip-marelli-target-software-defined-vehicle-display-systems/",
     "summary": "<p>Microchip Technology and Marelli have demonstrated a display connectivity solution that streams graphics and video generated by a vehicle's centralized computing system directly to automotive displays using ASA Motion Link (ASA-ML). Based on the open automotive video connectivity and SerDes standard defined by the Automotive SerDes Alliance (ASA), the solution is designed to simplify display [...]</p>\n<p>The post <a href=\"https://www.embedded.com/microchip-marelli-target-software-defined-vehicle-display-systems/\">Microchip, Marelli Target Software-Defined Vehicle Display Systems</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "NXP MCX A5 MCUs, Edge AI for Military Drone Autonomy, Modular Computing for Long-Lifecycle Aerospace Platforms: Embedded Week Insights",
-    "source": "Embedded.com",
-    "date": "2026-09-04",
-    "url": "https://www.embedded.com/nxp-mcx-a5-mcus-edge-ai-for-military-drone-autonomy-modular-computing-for-long-lifecycle-aerospace-platforms-embedded-week-insights/",
-    "summary": "<p>Here's a roundup of this week's must-read articles. We'll look into the latest developments on NXP MCX A5 MCUs, edge AI for military drones, modular computing for aerospace platforms, and more. Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete list of news and articles from our website. NEWS SomDevices, Celus Bring μSMARC [...]</p>\n<p>The post <a href=\"https://www.embedded.com/nxp-mcx-a5-mcus-edge-ai-for-military-drone-autonomy-modular-computing-for-long-lifecycle-aerospace-platforms-embedded-week-insights/\">NXP MCX A5 MCUs, Edge AI for Military Drone Autonomy, Modular Computing for Long-Lifecycle Aerospace Platforms: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]

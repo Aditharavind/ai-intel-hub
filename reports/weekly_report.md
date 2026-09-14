@@ -1,23 +1,29 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-14 14:27 UTC
+Generated: 2026-09-14 19:38 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-09-11 | ASTRIL-MPC: Autonomous Traversal Framework of Articulated Tracked Robots with Language-Guided Neural-Kinematic MPC | [link](https://arxiv.org/pdf/2609.13083v1) |
+| 2026-09-11 | Involving before Evolving: A Vision for Trustworthy Enterprise Digital Twin Engineering | [link](https://arxiv.org/pdf/2609.13071v1) |
+| 2026-09-11 | Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model | [link](https://arxiv.org/pdf/2609.13053v1) |
+| 2026-09-11 | Objective Intelligibility Prediction Using Distance Metrics on Speech Foundation Model Representations | [link](https://arxiv.org/pdf/2609.13046v1) |
+| 2026-09-11 | Attention Quantization for Tabular Foundation Models | [link](https://arxiv.org/pdf/2609.13031v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83496 | 33398.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63652 | 25460.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44548 | 17819.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30503 | 12201.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| questdb/questdb | 17320 | 6928.1 | [link](https://github.com/questdb/questdb) |
+| Developer-Y/cs-video-courses | 83500 | 33400.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63651 | 25460.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44550 | 17820.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30505 | 12202.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| questdb/questdb | 17321 | 6928.5 | [link](https://github.com/questdb/questdb) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| vladmandic/MiniMax-H3-Turbo-LoRA | 178 | 53.5 | [link](https://huggingface.co/vladmandic/MiniMax-H3-Turbo-LoRA) |
+| vladlinv/ru-pii-ner-gliner2.5 | 175 | 52.8 | [link](https://huggingface.co/vladlinv/ru-pii-ner-gliner2.5) |
 | ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 139 | 41.8 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
 | jagwang/mungkeul-physical-ai | 87 | 26.2 | [link](https://huggingface.co/jagwang/mungkeul-physical-ai) |
 | SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch1 | 80 | 24.1 | [link](https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch1) |
