@@ -1,5 +1,14 @@
 [
   {
+    "model": "JackieMM/robotwin-pi05-arx",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/JackieMM/robotwin-pi05-arx",
+    "date": "2026-09-15",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "ohmyhong/robot_dataset",
     "downloads": 0,
     "likes": 0,
@@ -99,55 +108,37 @@
     "score": 0.1
   },
   {
-    "model": "DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-60traj",
+    "model": "jellerode/MomentMem-VLA-OOD-scratch",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-60traj",
-    "date": "2026-09-15",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "end-effector-trace-conditioning/vla0-reproduction-relative-with-state",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/end-effector-trace-conditioning/vla0-reproduction-relative-with-state",
+    "url": "https://huggingface.co/jellerode/MomentMem-VLA-OOD-scratch",
     "date": "2026-09-15",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "end-effector-trace-conditioning/vla0-reproduction-relative-no-state",
+    "model": "mim-chess-vlas/train_800_sparse__bbox__separate_channel__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/end-effector-trace-conditioning/vla0-reproduction-relative-no-state",
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__bbox__separate_channel__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-09-15",
     "keyword": "vla",
     "score": 0.1
+  },
+  {
+    "model": "jungwook2358/actlat-vla",
+    "downloads": 0,
+    "likes": 3,
+    "url": "https://huggingface.co/jungwook2358/actlat-vla",
+    "date": "2026-09-15",
+    "keyword": "vla",
+    "score": 0.7
   },
   {
     "model": "mim-chess-vlas/train_800_sparse__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-15",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "end-effector-trace-conditioning/vla0-reproduction-absolute-with-state",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/end-effector-trace-conditioning/vla0-reproduction-absolute-with-state",
-    "date": "2026-09-15",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "end-effector-trace-conditioning/vla0-reproduction-absolute-no-state",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/end-effector-trace-conditioning/vla0-reproduction-absolute-no-state",
     "date": "2026-09-15",
     "keyword": "vla",
     "score": 0.1
@@ -162,33 +153,6 @@
     "score": 0.1
   },
   {
-    "model": "end-effector-trace-conditioning/vla0-500ep-eetc",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/end-effector-trace-conditioning/vla0-500ep-eetc",
-    "date": "2026-09-15",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "end-effector-trace-conditioning/vla0-500ep-naive-ghost-trace",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/end-effector-trace-conditioning/vla0-500ep-naive-ghost-trace",
-    "date": "2026-09-15",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "end-effector-trace-conditioning/vla0-500ep-naive-5frame",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/end-effector-trace-conditioning/vla0-500ep-naive-5frame",
-    "date": "2026-09-15",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "mim-chess-vlas/train_800_sparse__bbox__overlay_a25__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
@@ -198,21 +162,120 @@
     "score": 0.1
   },
   {
-    "model": "end-effector-trace-conditioning/vla0-500ep-baseline",
+    "model": "mim-chess-vlas/train_800_sparse__point__overlay_a50__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/end-effector-trace-conditioning/vla0-500ep-baseline",
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__point__overlay_a50__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-09-15",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/train_800_sparse__bbox__separate_channel__sim__all_cameras__live__pi05__seed_0",
+    "model": "jellerode/MomentMem-VLA-OOD-continual",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__bbox__separate_channel__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/jellerode/MomentMem-VLA-OOD-continual",
     "date": "2026-09-15",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "jellerode/MomentMem-VLA-ID",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jellerode/MomentMem-VLA-ID",
+    "date": "2026-09-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "charlott-rgb/so101_acrylic_vla_jepa_b8_15000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/charlott-rgb/so101_acrylic_vla_jepa_b8_15000",
+    "date": "2026-09-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "VladHong/K2-Horizon-MoVA-36B-A4B-APEX-Mini-GGUF",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VladHong/K2-Horizon-MoVA-36B-A4B-APEX-Mini-GGUF",
+    "date": "2026-09-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "end-effector-trace-conditioning/vla0-reproduction-relative-with-state",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/end-effector-trace-conditioning/vla0-reproduction-relative-with-state",
+    "date": "2026-09-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "nour-world/test-model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/nour-world/test-model",
+    "date": "2026-09-15",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "nour-world/muaalem-model-v3_1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/nour-world/muaalem-model-v3_1",
+    "date": "2026-09-15",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "nour-world/muaalem-model-v3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/nour-world/muaalem-model-v3",
+    "date": "2026-09-15",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "nour-world/muaalem-model-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/nour-world/muaalem-model-v2",
+    "date": "2026-09-15",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "nour-world/muaalem-model-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/nour-world/muaalem-model-v1",
+    "date": "2026-09-15",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "nour-world/muaalem-model-v0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/nour-world/muaalem-model-v0",
+    "date": "2026-09-15",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "nour-world/Muaalem-model-dev",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/nour-world/Muaalem-model-dev",
+    "date": "2026-09-15",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -522,15 +585,6 @@
     "score": 4.0
   },
   {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch3-stage2-full-epoch0.25-actdist",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch3-stage2-full-epoch0.25-actdist",
-    "date": "2026-09-10",
-    "keyword": "world model",
-    "score": 4.6
-  },
-  {
     "model": "demimomi/UTokyo-MatsuoLab-PhysicalAI-Fundamentals-Spring-2026",
     "downloads": 0,
     "likes": 0,
@@ -565,60 +619,6 @@
     "date": "2026-09-09",
     "keyword": "physical ai",
     "score": 0.1
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch3-stage2-full-epoch1",
-    "downloads": 40,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch3-stage2-full-epoch1",
-    "date": "2026-09-08",
-    "keyword": "world model",
-    "score": 12.1
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch3-stage2-full-epoch0.76",
-    "downloads": 41,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch3-stage2-full-epoch0.76",
-    "date": "2026-09-08",
-    "keyword": "world model",
-    "score": 12.4
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch3-stage2-full-epoch0.5",
-    "downloads": 40,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch3-stage2-full-epoch0.5",
-    "date": "2026-09-08",
-    "keyword": "world model",
-    "score": 12.1
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch3-stage2-full-epoch0.25",
-    "downloads": 41,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch3-stage2-full-epoch0.25",
-    "date": "2026-09-08",
-    "keyword": "world model",
-    "score": 12.4
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch1.25",
-    "downloads": 32,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch1.25",
-    "date": "2026-09-06",
-    "keyword": "world model",
-    "score": 9.7
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch1",
-    "downloads": 80,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp08-world-model-inverse-mix-stage1-full-epoch1",
-    "date": "2026-09-06",
-    "keyword": "world model",
-    "score": 24.1
   },
   {
     "model": "EvilYam/Hy-Embodied-0.5-VLA",
