@@ -1,5 +1,19 @@
 [
   {
+    "title": "Every ZX81 Expansion Card You Ever Wanted, All At Once",
+    "source": "Hackaday",
+    "date": "2026-09-15",
+    "url": "https://hackaday.com/2026/09/15/every-zx81-expansion-card-you-ever-wanted-all-at-once/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/openspand-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Sinclair ZX81 was a masterpiece of Sir Clive&#8217;s desire to get the most out of the least hardware, being about as minimalist as it was possible to get and <a class=\"read-more\" href=\"https://hackaday.com/2026/09/15/every-zx81-expansion-card-you-ever-wanted-all-at-once/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Fixing a Ubiquiti 16-Port PoE Switch With an Extra Hole",
+    "source": "Hackaday",
+    "date": "2026-09-15",
+    "url": "https://hackaday.com/2026/09/15/fixing-a-ubiquiti-16-port-poe-switch-with-an-extra-hole/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"516\" src=\"https://hackaday.com/wp-content/uploads/2026/09/ubiquiti_16-port_switch_busted_broadcom_ic_buy_it_fix_it_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>After saving a £300, 16-port Ubiquiti network switch from getting tossed into the trash, [Buy It Fix It] got the honor of trying to repair it. With four ports and <a class=\"read-more\" href=\"https://hackaday.com/2026/09/15/fixing-a-ubiquiti-16-port-poe-switch-with-an-extra-hole/\">&#8230;read more</a>"
+  },
+  {
     "title": "An Open Heart Rate Monitor",
     "source": "Hackaday",
     "date": "2026-09-15",
@@ -14,6 +28,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"563\" src=\"https://hackaday.com/wp-content/uploads/2026/09/bleprinter_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Bas BotBerg] wanted to use a portable Bluetooth thermal printer to run off reports on sensor data collected by an ESP32-C3 microcontroller. But as is so often the case these <a class=\"read-more\" href=\"https://hackaday.com/2026/09/14/writing-an-esp32-bluetooth-printer-driver-in-two-acts/\">&#8230;read more</a>"
   },
   {
+    "title": "Alif Semi Balletto B1 and Ensemble E1C StartKits feature Cortex-M55 + Ethos-U55 MCU for IoT and Edge AI",
+    "source": "CNX Software",
+    "date": "2026-09-15",
+    "url": "https://www.cnx-software.com/2026/09/15/alif-semi-balletto-b1-and-ensemble-e1c-startkits-feature-cortex-m55-ethos-u55-mcu-for-iot-and-edge-ai/",
+    "summary": "<div><img alt=\"Ensemble E1C (SK E1C) and Balletto B1 (SK B1) StartKits\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Ensemble-E1C-SK-E1C-and-Balletto-B1-SK-B1-StartKits-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Alif Semiconductor’s Ensemble E1C (SK-E1C) and Balletto B1 (SK-B1) StartKits are low-cost development boards built around the company&#8217;s Cortex-M55 + Ethos-U55 microcontrollers. The Balletto B1 adds BLE 5.3 and 802.15.4 wireless connectivity, while the Ensemble E1C does not have built-in wireless connectivity. Both StartKits feature a microcontroller with a 160MHz Cortex-M55 CPU, an Ethos-U55 NPU, 2MB SRAM, and 1.8/1.9MB NVM. They also include an Arducam camera header, a mikroBUS Click Board expansion socket, and two PDM microphones for camera, audio, and sensor-based projects. The Balletto B1 additionally provides the complete RF path to a chip antenna for its wireless subsystem, while both boards feature an on-board Segger J-Link debugger for development and testing. Alif Semiconductor StartKit (SK-B1 and SK-E1C) specifications: MCU SK-E1C – Alif Semiconductor Ensemble E1C  SK-B1 – Alif Semiconductor Balletto B1  CPU – Arm Cortex-M55 core with Helium-M Vector Extension @ up to 160 MHz NPU – Arm [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/15/alif-semi-balletto-b1-and-ensemble-e1c-startkits-feature-cortex-m55-ethos-u55-mcu-for-iot-and-edge-ai/\">Alif Semi Balletto B1 and Ensemble E1C StartKits feature Cortex-M55 + Ethos-U55 MCU for IoT and Edge AI</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Design in KiCad, Quote with AIVON: A Faster Path to PCB Prototyping (Sponsored)",
     "source": "CNX Software",
     "date": "2026-09-15",
@@ -21,18 +42,32 @@
     "summary": "<div><img alt=\"AIVON KiCad Plugin\" class=\"attachment-medium size-medium wp-post-image\" height=\"405\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/AIVON-KiCad-Plugin-720x405.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Finished your PCB layout in KiCad? You don&#8217;t necessarily need to leave the PCB Editor, export a separate set of manufacturing files, and manually upload them to a PCB manufacturer. AIVON&#8217;s KiCad Plugin creates a direct path from your PCB design to an online PCB quote. AIVON has integrated an official KiCad plugin that connects a finished PCB layout to the company’s online quotation page. After DRC, users can click the plugin in the PCB Editor, automatically prepare manufacturing data, and land on a pre-filled quote form instead of exporting, zipping, and uploading files by hand. Rather than introducing a new plugin framework, AIVON&#8217;s integration leverages KiCad&#8217;s existing Plugin and Content Manager ecosystem. For developers who already use KiCad for schematic capture and PCB layout, the integration provides another way to connect the design stage with PCB fabrication without manually repeating every manufacturing-file preparation step. Connecting KiCad PCB Design with [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/15/design-in-kicad-quote-with-aivon-a-faster-path-to-pcb-prototyping/\">Design in KiCad, Quote with AIVON: A Faster Path to PCB Prototyping (Sponsored)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Battery management systems as a core power component",
+    "source": "Electronics Weekly",
+    "date": "2026-09-15",
+    "url": "https://www.electronicsweekly.com/news/business/battery-management-systems-as-a-core-power-component-2026-09/",
+    "summary": "<p>Initially conceived to address overcharging, high temperatures and deep discharge, battery management systems have evolved into intelligent and sophisticated systems for battery-powered systems, writes Samudrapom Dam. BMS overview The battery [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/battery-management-systems-as-a-core-power-component-2026-09/\">Battery management systems as a core power component</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Former CEO of Babcock appointed Knight of France’s Legion of Honour",
+    "source": "Electronics Weekly",
+    "date": "2026-09-15",
+    "url": "https://www.electronicsweekly.com/news/business/former-ceo-of-babcock-appointed-knight-of-frances-legion-of-honour-2026-09/",
+    "summary": "<p>David Lockwood, the former CEO of Babcock International Group and President of ADS Group Limited, has been appointed Knight in the Order of the Legion of Honour in France. This [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/former-ceo-of-babcock-appointed-knight-of-frances-legion-of-honour-2026-09/\">Former CEO of Babcock appointed Knight of France’s Legion of Honour</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Google unworried by $200bn datacentre capex",
     "source": "Electronics Weekly",
     "date": "2026-09-15",
     "url": "https://www.electronicsweekly.com/news/business/google-unworried-by-200bn-datacentre-capex-2026-09/",
-    "summary": "<p>A Google server pays for its cost in two years and, if it’s running on Google chips, pays for itself in a year, according to Google Cloud CEO Thomas Kurian (pictured).. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/google-unworried-by-200bn-datacentre-capex-2026-09/\">Google unworried by $200bn datacentre capex</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>A Google server pays for its cost in two years and, if it’s running on Google chips, pays for itself in a year, according to Google Cloud CEO Thomas Kurian [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/google-unworried-by-200bn-datacentre-capex-2026-09/\">Google unworried by $200bn datacentre capex</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Chip boom doesn’t represent ultimate market demand",
     "source": "Electronics Weekly",
     "date": "2026-09-15",
     "url": "https://www.electronicsweekly.com/news/business/chip-boom-not-representative-of-ultimate-market-demand-2026-09/",
-    "summary": "<p>The chip market continues with treble-digit monthly annualised value growth rates, twice as large as the industry’s two previous record highs in June 2000 (59.3%) and January 2010 (66.6%).  Prior [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/chip-boom-not-representative-of-ultimate-market-demand-2026-09/\">Chip boom doesn’t represent ultimate market demand</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>The chip market continues with treble-digit monthly annualised value growth rates, twice as large as the industry’s two previous record highs in June 2000 (59.3%) and January 2010 (66.6%). Prior [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/chip-boom-not-representative-of-ultimate-market-demand-2026-09/\">Chip boom doesn’t represent ultimate market demand</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Imec demoes 22nm pitch on single-print high-NA step",
@@ -53,7 +88,7 @@
     "source": "Electronics Weekly",
     "date": "2026-09-15",
     "url": "https://www.electronicsweekly.com/news/business/mitsubishi-and-swissto12-hook-up-for-3d-printed-space-payloads-2026-09/",
-    "summary": "<p>SWISSto12 and Mitsubishi Electric (MELCO) have signed an MoU to use MELCO’s satellite system expertise and SWISSto12’s  3D-printing processes to develop small, light  payloads built in short timeframes. “SWISSto12’s innovative [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/mitsubishi-and-swissto12-hook-up-for-3d-printed-space-payloads-2026-09/\">Mitsubishi and Swissto12 hook up for 3D-printed space payloads</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>SWISSto12 and Mitsubishi Electric (MELCO) have signed an MoU to use MELCO’s satellite system expertise and SWISSto12’s  3D-printing processes to develop small, light payloads built in short timeframes. “SWISSto12’s innovative [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/mitsubishi-and-swissto12-hook-up-for-3d-printed-space-payloads-2026-09/\">Mitsubishi and Swissto12 hook up for 3D-printed space payloads</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "UK Space Dilemma",
@@ -82,20 +117,6 @@
     "date": "2026-09-14",
     "url": "https://hackaday.com/2026/09/14/pulse-a-new-vhdl-simulator/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"326\" src=\"https://hackaday.com/wp-content/uploads/2026/09/pulse_vhdl_simulator_layout_oscar30gt_github.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>With VHDL being arguably more deterministic and bullet-proof than Verilog, it&#8217;s good to see another open source VHDL simulator joining the fray that is not a variation of ghdl. Written <a class=\"read-more\" href=\"https://hackaday.com/2026/09/14/pulse-a-new-vhdl-simulator/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Hackaday Europe 2026: Space Oddities",
-    "source": "Hackaday",
-    "date": "2026-09-14",
-    "url": "https://hackaday.com/2026/09/14/hackaday-europe-2026-space-oddities/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/09/DSC09781_featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you&#8217;re in motorsport, or maritime, or mining fields, you can always call on a technician to come down and fix something when it&#8217;s broken. You can lay hands on <a class=\"read-more\" href=\"https://hackaday.com/2026/09/14/hackaday-europe-2026-space-oddities/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Fly Brain Connectome Used to Trade Stocks and Play Games",
-    "source": "Hackaday",
-    "date": "2026-09-14",
-    "url": "https://hackaday.com/2026/09/14/fly-brain-connectome-used-to-trade-stocks-and-play-games/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"400\" src=\"https://hackaday.com/wp-content/uploads/2021/12/1024px-Drosophila_melanogaster_Proboscis_featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Recently researchers finished mapping the central nervous system (CNS) connectome of not just the female Drosophila melanogaster (i.e. fruit fly) brain, but also that of the male D. melanogaster for a comparative <a class=\"read-more\" href=\"https://hackaday.com/2026/09/14/fly-brain-connectome-used-to-trade-stocks-and-play-games/\">&#8230;read more</a>"
   },
   {
     "title": "Morse Micro Wi-Fi HaLow USB adapters add 802.11ah connectivity to PCs and routers",
@@ -138,20 +159,6 @@
     "date": "2026-09-14",
     "url": "https://www.electronicsweekly.com/news/products/connectors/binder-adds-midmount-pcb-connectors-to-its-m12-portfolio-2026-09/",
     "summary": "<p>The circular industrial connector specialist binder binder is expanding its M12 portfolio with angled panel-mount connectors. For centric PCB mounting, they are designed to fit into a slim, cylindrical housing. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/connectors/binder-adds-midmount-pcb-connectors-to-its-m12-portfolio-2026-09/\">binder adds midmount PCB connectors to its M12 portfolio</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Serpac watch-style enclosures feature IP 67 sealing",
-    "source": "Electronics Weekly",
-    "date": "2026-09-14",
-    "url": "https://www.electronicsweekly.com/news/products/emech-enclosures/serpac-watch-style-enclosures-feature-ip-67-sealing-2026-09/",
-    "summary": "<p>Serpac is releasing its BW Series of IP 67-rated watch-style enclosures. The three models &#8211; BW2, BW4, BW6 &#8211; are available in different sizes and colours. The wearable enclosures target [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/emech-enclosures/serpac-watch-style-enclosures-feature-ip-67-sealing-2026-09/\">Serpac watch-style enclosures feature IP 67 sealing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Datacentre performance now sold by the rack not the chip",
-    "source": "Electronics Weekly",
-    "date": "2026-09-14",
-    "url": "https://www.electronicsweekly.com/news/business/datacentre-semiconductor-market-to-hit-1-5trn-by-2031-says-yole-2026-09/",
-    "summary": "<p>The value in datacentres is shifting from the chip to the rack, says Yole, with hyperscalers and AI labs co-designing their own AI asics and with advanced packaging, HBM4, co-packaged [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/datacentre-semiconductor-market-to-hit-1-5trn-by-2031-says-yole-2026-09/\">Datacentre performance now sold by the rack not the chip</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "CircuitPython 10.3.1 Released!",
@@ -404,13 +411,6 @@
     "date": "2026-09-09",
     "url": "https://www.embedded.com/neura-robotics-and-seco-partner-to-scale-physical-ai/",
     "summary": "<p>Neura Robotics and Seco S.p.A. have announced a strategic partnership to industrialize and scale physical AI in Europe. The collaboration combines Neura's cognitive robotics architecture with Seco's embedded computing and manufacturing expertise, while leveraging Qualcomm Technologies' advanced edge-computing platforms. Initial activities will focus on electronic compute modules for Neura's cognitive robots, including the humanoid 4NE1, [...]</p>\n<p>The post <a href=\"https://www.embedded.com/neura-robotics-and-seco-partner-to-scale-physical-ai/\">Neura Robotics and Seco Partner to Scale Physical AI</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Arm CSS for Mobile 2 “AI-Native” platform: Arm C2-Ultra and C2-Pro CPU cores, Mali G2-Ultra NX GPU",
-    "source": "CNX Software",
-    "date": "2026-09-08",
-    "url": "https://www.cnx-software.com/2026/09/08/arm-css-for-mobile-2-ai-native-platform-arm-c2-ultra-and-c2-pro-cpu-cores-mali-g2-ultra-nx-gpu/",
-    "summary": "<div><img alt=\"Arm CSS for Mobile 2\" class=\"attachment-medium size-medium wp-post-image\" height=\"405\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Arm-CSS-for-Mobile-2-720x405.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Arm has introduced the CSS for Mobile 2 platform as an AI-native compute foundation comprised of the Arm C2-Ultra and C2-Pro CPUs with SME2 (Scalable Matrix Extension 2) units and the Mali G2-Ultra NX GPU with dedicated neural accelerators that enable neural graphics to run natively on the GPU. Arm C2-Ultra and C2-Pro CPUs Arm C2-Ultra specifications: Architecture &#8211; Armv9.3-A Extensions Armv9.4-A (Some key features) SME2 Extensions SVE2 Extensions Cryptography Extensions RAS Extensions ISA support &#8211; AArch64 Microarchitecture Pipeline &#8211; Out-of-order Superscalar Neon and SVE2 Optional Cryptography Unit Up to 14x CPUs in cluster 40-bit Physical Addressing Memory System and External Interfaces 64KB (I-Cache), 128KB (D-Cache) 2MB or 3MB L2 Cache Optional, 256KB to 32MB L3 Cache ECC Support Bus interfaces &#8211; AMBA AXI5 or CHI.E Optional ACP Optional Peripheral Port Security &#8211; TrustZone, Secure-EL2 Interrupts &#8211; GIC interface, GICv4.1 PMU &#8211; PMUv3 CoreSight &#8211; CoreSightv3 Embedded Trace Extension &#8211; [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/08/arm-css-for-mobile-2-ai-native-platform-arm-c2-ultra-and-c2-pro-cpu-cores-mali-g2-ultra-nx-gpu/\">Arm CSS for Mobile 2 &#8220;AI-Native&#8221; platform: Arm C2-Ultra and C2-Pro CPU cores, Mali G2-Ultra NX GPU</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Mission-Critical Systems: MCUs vs. FPGAs vs. SoCs",
