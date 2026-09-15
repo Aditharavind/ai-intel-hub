@@ -1,5 +1,50 @@
 [
   {
+    "model": "VladHong/K2-Horizon-MoVA-36B-A4B-APEX-Mini-GGUF",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VladHong/K2-Horizon-MoVA-36B-A4B-APEX-Mini-GGUF",
+    "date": "2026-09-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "VladHong/Qwen3.6-KAT-BigBang-SLERP-35B-GGUF",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VladHong/Qwen3.6-KAT-BigBang-SLERP-35B-GGUF",
+    "date": "2026-09-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "dreamdifferent/vam-cross-level5-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-afcb7a8fca",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dreamdifferent/vam-cross-level5-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-afcb7a8fca",
+    "date": "2026-09-14",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/clean_table_merged_bce_100k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/clean_table_merged_bce_100k",
+    "date": "2026-09-14",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/clean_table_merged_kl_100k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/clean_table_merged_kl_100k",
+    "date": "2026-09-14",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "a5ilank/curious-robot",
     "downloads": 0,
     "likes": 2,
@@ -81,30 +126,21 @@
     "score": 0.1
   },
   {
-    "model": "pollen-robotics/microduck-policies",
-    "downloads": 0,
-    "likes": 12,
-    "url": "https://huggingface.co/pollen-robotics/microduck-policies",
-    "date": "2026-09-14",
-    "keyword": "robotics",
-    "score": 2.5
-  },
-  {
-    "model": "Riasok/pi05-robot-checkpoints-20260912",
+    "model": "mim-chess-vlas/train_800_sparse__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912",
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
     "date": "2026-09-14",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "kunle-ogunleye/notes-robotics-vision-language34",
+    "model": "charlott-rgb/so101_acrylic_vla_jepa_20000",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/kunle-ogunleye/notes-robotics-vision-language34",
+    "url": "https://huggingface.co/charlott-rgb/so101_acrylic_vla_jepa_20000",
     "date": "2026-09-14",
-    "keyword": "robotics",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -180,42 +216,6 @@
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/train_800_sparse__mask__blur__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__mask__blur__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Grigorij/crane_vla_xvla",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Grigorij/crane_vla_xvla",
-    "date": "2026-09-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "charlott-rgb/so101_acrylic_vla_jepa_smoke",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/charlott-rgb/so101_acrylic_vla_jepa_smoke",
-    "date": "2026-09-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "tungduong261204/lingbot-vla-2.0-AFtNzG5pCwyA",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tungduong261204/lingbot-vla-2.0-AFtNzG5pCwyA",
-    "date": "2026-09-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "klein8734/embodied-ai-study",
     "downloads": 1,
     "likes": 4,
@@ -223,6 +223,24 @@
     "date": "2026-09-14",
     "keyword": "embodied",
     "score": 1.2
+  },
+  {
+    "model": "Chaenn/smolvla_policy_so101_multitask_test_pnp0908_stack0908",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Chaenn/smolvla_policy_so101_multitask_test_pnp0908_stack0908",
+    "date": "2026-09-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "shubhdotai/obj_to_mug_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/shubhdotai/obj_to_mug_act_policy",
+    "date": "2026-09-14",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "Chaenn/act_policy_so101_multitask_test_pnp0908_stack0908_onehot",
@@ -297,6 +315,24 @@
     "score": 0.1
   },
   {
+    "model": "pollen-robotics/microduck-policies",
+    "downloads": 0,
+    "likes": 12,
+    "url": "https://huggingface.co/pollen-robotics/microduck-policies",
+    "date": "2026-09-14",
+    "keyword": "robotics",
+    "score": 2.5
+  },
+  {
+    "model": "kunle-ogunleye/notes-robotics-vision-language34",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kunle-ogunleye/notes-robotics-vision-language34",
+    "date": "2026-09-14",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "mkdemir8/robotics-vision-language-finetune",
     "downloads": 0,
     "likes": 1,
@@ -340,24 +376,6 @@
     "date": "2026-09-13",
     "keyword": "policy",
     "score": 3.4
-  },
-  {
-    "model": "geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DIsaacsim_factory_conveyor-step28000",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DIsaacsim_factory_conveyor-step28000",
-    "date": "2026-09-13",
-    "keyword": "policy",
-    "score": 4.0
-  },
-  {
-    "model": "geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DIsaacsim_factory_conveyor-step26000",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DIsaacsim_factory_conveyor-step26000",
-    "date": "2026-09-13",
-    "keyword": "policy",
-    "score": 3.7
   },
   {
     "model": "AnilShah/notes-robotics-vision-language",
