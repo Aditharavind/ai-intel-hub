@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-16 20:29 UTC
+Generated: 2026-09-16 23:18 UTC
 
 ## Top Papers
 _No items collected yet._
@@ -8,11 +8,11 @@ _No items collected yet._
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83516 | 33406.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63665 | 25466.1 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83514 | 33405.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63666 | 25466.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44556 | 17822.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30528 | 12211.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28249 | 11299.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28250 | 11300.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -21,7 +21,7 @@ _No items collected yet._
 | nvidia/Cosmos3-Edge-Policy-DROID | 1679 | 506.0 | [link](https://huggingface.co/nvidia/Cosmos3-Edge-Policy-DROID) |
 | ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 145 | 43.6 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
 | Immerwinter/google-bert-privacy-policy-content-contact | 125 | 37.6 | [link](https://huggingface.co/Immerwinter/google-bert-privacy-policy-content-contact) |
-| Immerwinter/gbert-large-privacy-policy-content-deletion | 120 | 36.1 | [link](https://huggingface.co/Immerwinter/gbert-large-privacy-policy-content-deletion) |
+| Immerwinter/gbert-large-privacy-policy-content-control | 108 | 32.5 | [link](https://huggingface.co/Immerwinter/gbert-large-privacy-policy-content-control) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -35,8 +35,8 @@ _No items collected yet._
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-16 | Exein becomes unicorn: Italian Physical AI security start-up valued at $1.7bn - Euronews.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONlhTWVN4bndHUzZaYjVObjZ4VV8tWVFOVTJNMkw4Nl9OSDJUTnBJRHVTeHhKbzJUX1BjcUlJVFFOTjdickVibkREdjBrdVM3VUgzbFBLN0dIMFhnTkpRNDhaX2N2dDZBZkZUakJJUWEzbXhDaWFFSEFvMnlhR20yZEQxdHBUNTVrYl9lM2VyeGNCdk0zV2JvRFduSkZKMVNwaktRaHA0S0QtYmVJRUQ3R2lyQm1OOHdMaVBR?oc=5) |
-| 2026-09-16 | Matter Venture Partners Closes $450 Million Fund II For HardTech, Robotics, And Physical AI Startups - Pulse 2.0 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTFAyOWRwRExScnA2Z0FScmE0cXRCWXpqRU9VdzNqOHhDb0F0N01IUHVRWHVzRVhMTUpDdExSYnBWU1hHRUMtbG5jcTk4XzFobHdPcWRGWGZMd0ZMR01xNWxtVExVRk41MnNTdFZDbXJpWm95dlltSTI2YnhB0gF_QVVfeXFMT2F5NDNEN3BKR0RlQVB5WVdTekk4SXdrUGxFTUc3R3h5OG00U3Nta1hGZUZ6UDEzMnRDbHhPYUZqT3BlQ3VIRHRCUmNBNHBrS2plb0NBSFI4QzBQcE0zS05EN01QQnpDWHk4ZWd2bmEyM3ZpUHpEbUZpV2lRU0dXaw?oc=5) |
-| 2026-09-16 | Embodied AI Launches With Funding To Automate European Manufacturing - Pulse 2.0 | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlQ4ZWcybEM5WWZjTHlKcDhyeVRBZEFhR1I3WlhpMTZFcFdLV1U5T1RaN214SUgwYUJvMDJaTUJMcmQ4bEtVam5MdU9sNWw2NGltbHd3M25hWTE5dUw3Skh3Q05xTGNMbDdjRmZqRDkwV2t4VjNkWk5zNFR1Y09oUkdZMGZCSWtkV0FhUTU3OVZ3UdIBlwFBVV95cUxOV25MbzJTWGJEbnpxOFh3UEUyLWptYkpyT29jTFZGNVltVWVscVVLYzhqQ0ZkaWtYWGlveGprWnhXTlhFNlFKaS1VajFYZzhGWWJRbnB0dlV2WkxJYXV4aDY4djBYTS1lM1B6cmFxRE5fZS0tbHVIMjNLNEcxUVNxaW95UTlEYWdubG1Wdjd1NndnTzZIU1ZV?oc=5) |
-| 2026-09-15 | Physical AI security startup Exein raises $270M at $1.7B valuation - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0FraENPWHRuWW9HYzc3MTdrS3hYaTRyNnNCcFZJTmR5cHNHdjJ5YmszQ2RTWS0tRnUyQTFNRGV4dG5wSGQzb0VnWm9OdjBnMmFEU25OUi1YMFRoMURweXBpUFBGSHZ1Y1hleDlSUjFiTjJnU2pPVmlCYkNoLXFVeHdRZVhSRnhhTFJTSUhOUjIwNExrejNGQncxWmZOZzBPMXdv?oc=5) |
-| 2026-09-15 | New Italian unicorn Exein rides the physical AI wave - techcrunch.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxOMDVJeDg2VnJuWmVJd1VGb3RXSzc5UENVblhhVXdHbjNVYmtMMjUySGZqd19neVlLNGo2LXp6T2lPSzdzMnlfYy0zbERJcTVfTGZITVVqY2NjQlVvQTh2X1M5OVlZRXd6R0tuaTdFUXhBazZ4d0RLVWxSRkhYSjlhbU4xYWJXeHVyek9KVDRhSHQ?oc=5) |
+| 2026-09-16 | Exein becomes unicorn: Italian Physical AI security start-up valued at $1.7bn - euronews.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONlhTWVN4bndHUzZaYjVObjZ4VV8tWVFOVTJNMkw4Nl9OSDJUTnBJRHVTeHhKbzJUX1BjcUlJVFFOTjdickVibkREdjBrdVM3VUgzbFBLN0dIMFhnTkpRNDhaX2N2dDZBZkZUakJJUWEzbXhDaWFFSEFvMnlhR20yZEQxdHBUNTVrYl9lM2VyeGNCdk0zV2JvRFduSkZKMVNwaktRaHA0S0QtYmVJRUQ3R2lyQm1OOHdMaVBR?oc=5) |
+| 2026-09-16 | Matter Venture Partners Closes $450 Million Fund II For HardTech, Robotics, And Physical AI Startups - pulse2.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTFAyOWRwRExScnA2Z0FScmE0cXRCWXpqRU9VdzNqOHhDb0F0N01IUHVRWHVzRVhMTUpDdExSYnBWU1hHRUMtbG5jcTk4XzFobHdPcWRGWGZMd0ZMR01xNWxtVExVRk41MnNTdFZDbXJpWm95dlltSTI2YnhB0gF_QVVfeXFMT2F5NDNEN3BKR0RlQVB5WVdTekk4SXdrUGxFTUc3R3h5OG00U3Nta1hGZUZ6UDEzMnRDbHhPYUZqT3BlQ3VIRHRCUmNBNHBrS2plb0NBSFI4QzBQcE0zS05EN01QQnpDWHk4ZWd2bmEyM3ZpUHpEbUZpV2lRU0dXaw?oc=5) |
+| 2026-09-16 | Embodied AI Launches With Funding To Automate European Manufacturing - pulse2.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlQ4ZWcybEM5WWZjTHlKcDhyeVRBZEFhR1I3WlhpMTZFcFdLV1U5T1RaN214SUgwYUJvMDJaTUJMcmQ4bEtVam5MdU9sNWw2NGltbHd3M25hWTE5dUw3Skh3Q05xTGNMbDdjRmZqRDkwV2t4VjNkWk5zNFR1Y09oUkdZMGZCSWtkV0FhUTU3OVZ3UdIBlwFBVV95cUxOV25MbzJTWGJEbnpxOFh3UEUyLWptYkpyT29jTFZGNVltVWVscVVLYzhqQ0ZkaWtYWGlveGprWnhXTlhFNlFKaS1VajFYZzhGWWJRbnB0dlV2WkxJYXV4aDY4djBYTS1lM1B6cmFxRE5fZS0tbHVIMjNLNEcxUVNxaW95UTlEYWdubG1Wdjd1NndnTzZIU1ZV?oc=5) |
+| 2026-09-15 | New Italian unicorn Exein rides the physical AI wave - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxOMDVJeDg2VnJuWmVJd1VGb3RXSzc5UENVblhhVXdHbjNVYmtMMjUySGZqd19neVlLNGo2LXp6T2lPSzdzMnlfYy0zbERJcTVfTGZITVVqY2NjQlVvQTh2X1M5OVlZRXd6R0tuaTdFUXhBazZ4d0RLVWxSRkhYSjlhbU4xYWJXeHVyek9KVDRhSHQ?oc=5) |
+| 2026-09-15 | Physical AI security startup Exein raises $270M at $1.7B valuation - siliconangle.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0FraENPWHRuWW9HYzc3MTdrS3hYaTRyNnNCcFZJTmR5cHNHdjJ5YmszQ2RTWS0tRnUyQTFNRGV4dG5wSGQzb0VnWm9OdjBnMmFEU25OUi1YMFRoMURweXBpUFBGSHZ1Y1hleDlSUjFiTjJnU2pPVmlCYkNoLXFVeHdRZVhSRnhhTFJTSUhOUjIwNExrejNGQncxWmZOZzBPMXdv?oc=5) |
