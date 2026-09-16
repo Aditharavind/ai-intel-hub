@@ -1,5 +1,19 @@
 [
   {
+    "title": "Full-Color Looks Great on 3D Printed Sliding Puzzles",
+    "source": "Hackaday",
+    "date": "2026-09-16",
+    "url": "https://hackaday.com/2026/09/16/full-color-looks-great-on-3d-printed-sliding-puzzles/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/Print-in-place-puzzles-UV-flatbed-printing-awesome-15-35-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Angus] of [Maker&#8217;s Muse] shows off both a parametric, print-in-place sliding puzzle design he created, and the results of UV printing full-color designs on the same. The results look beautiful, <a class=\"read-more\" href=\"https://hackaday.com/2026/09/16/full-color-looks-great-on-3d-printed-sliding-puzzles/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Round AMOLED Badge Does All Kinds Of Cool Stuff",
+    "source": "Hackaday",
+    "date": "2026-09-16",
+    "url": "https://hackaday.com/2026/09/16/round-amoled-badge-does-all-kinds-of-cool-stuff/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"405\" src=\"https://hackaday.com/wp-content/uploads/2026/09/Screenshot-2026-09-16-160518-e1789538747588.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[curisama] has put together a project simply entitled The Badge. It&#8217;s simple enough, being a little round screen that you wear. Only, it does a wide variety of rather interesting <a class=\"read-more\" href=\"https://hackaday.com/2026/09/16/round-amoled-badge-does-all-kinds-of-cool-stuff/\">&#8230;read more</a>"
+  },
+  {
     "title": "A Super-Accurate Clock Using a Tiny Microcontroller",
     "source": "Hackaday",
     "date": "2026-09-16",
@@ -14,6 +28,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"364\" src=\"https://hackaday.com/wp-content/uploads/2026/09/Why-and-How-I-Model-Every-CNC-Cabinet-in-Fusion-First-28-3-screenshot-1-banner-e1789502404553.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Clough42] has started a new CNC control cabinet build, and uses it as an opportunity to demonstrate why he models the whole thing out in CAD before ordering parts or <a class=\"read-more\" href=\"https://hackaday.com/2026/09/15/tips-to-model-your-next-cnc-cabinet-in-cad-before-buying-anything/\">&#8230;read more</a>"
   },
   {
+    "title": "OpenMANET – A higher-bandwidth Meshtastic alternative leveraging 802.11ah WiFi HaLow",
+    "source": "CNX Software",
+    "date": "2026-09-16",
+    "url": "https://www.cnx-software.com/2026/09/16/openmanet-a-higher-bandwidth-meshtastic-alternative-leveraging-802-11ah-wifi-halow/",
+    "summary": "<div><img alt=\"OpenMANET\" class=\"attachment-medium size-medium wp-post-image\" height=\"614\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/OpenMANET-720x614.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>OpenMANET is an open-source project for building long-range wireless mesh Mobile Ad-hoc Networks (MANETs) using Raspberry Pi SBCs and Wi-Fi HaLow (802.11ah) chips from Morse Micro. This came up when we wrote about Morse Micro USB WiFi HaLow adapters, and an X user commented that &#8220;OpenMANET is going to explode with these available, no more adapter boards or M.2 cards&#8221;. OpenMANET targets search and rescue, disaster response, airsoft events, and other off-grid or infrastructure-failed situations. So it looks like an alternative to LoRa-based Meshtastic and Meshcore, with higher bandwidth, at the cost of more expensive hardware and higher power consumption. OpenMANET supports field communications, including push-to-talk, sharing GPS positions, cameras/video streams, and ATAK (Android Team Awareness Kit) integration. The mesh network can access the Internet through a single &#8220;mesh gate&#8221; over Starlink or cellular connectivity. The project supports a range of hardware platforms including Gateworks Venice, Raspberry Pi  Zero 2 W, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/16/openmanet-a-higher-bandwidth-meshtastic-alternative-leveraging-802-11ah-wifi-halow/\">OpenMANET &#8211; A higher-bandwidth Meshtastic alternative leveraging 802.11ah WiFi HaLow</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "CVITEK CV1842H-P-based edge AI camera module offers night vision and AI-ISP support (Crowdfunding)",
     "source": "CNX Software",
     "date": "2026-09-16",
@@ -21,25 +42,53 @@
     "summary": "<div><img alt=\"AIMORELOGY Ovis A CVITEK CV1842H P based edge AI camera module\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/AIMORELOGY-Ovis-A-CVITEK-CV1842H-P-based-edge-AI-camera-module-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The AIMORELOGY Ovis is an open-source AI vision camera module built around the CVITEK CV1842H-P SoC, with full-color 1080p night vision and 1.5 TOPS edge AI inference in a compact modular design. It is designed for drones, robotics, security systems, smart cameras, and custom embedded vision products. The camera features a compact stacked design, with a 20 × 20 mm Core board that includes the CVITEK CV1842H-P SoC, 2 Gbit NAND flash, USB, and UART debug pads. A Sensor board with the SC235HAI image sensor connects on top and also adds Ethernet and UART interfaces. An optional CVBS board goes between the Sensor board and the Ovis Core board. AIMORELOGY Ovis specifications: Ovis Core Board SoC – CVITEK CV1842H-P CPU – 1x Arm Cortex-A53 core @ 1.1 GHz, 1x RISC-V C906 core @ 800 MHz NPU – 1.5 TOPS @ INT8 with BF16 support ISP – AI-ISP with real-time 1080p [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/16/cvitek-cv1842h-p-based-edge-ai-camera-module-offers-night-vision-and-ai-isp-support/\">CVITEK CV1842H-P-based edge AI camera module offers night vision and AI-ISP support (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Hynix and Intel may make memories in Ohio",
+    "source": "Electronics Weekly",
+    "date": "2026-09-16",
+    "url": "https://www.electronicsweekly.com/news/business/hynix-and-intel-may-make-memories-in-ohio-2026-09/",
+    "summary": "<p>Hynix and Intel are talking about about manufacturing memory at Intel’s  Ohio fab site, reports Reuters,. It is suggested that either Hynix could  lease part of the  Ohio facility, or [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/hynix-and-intel-may-make-memories-in-ohio-2026-09/\">Hynix and Intel may make memories in Ohio</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Taiwan Semi releases family of AEC-Q 60V Dual Power MOSFETs",
+    "source": "Electronics Weekly",
+    "date": "2026-09-16",
+    "url": "https://www.electronicsweekly.com/news/products/power-supplies/taiwan-semi-releases-family-of-aec-q-60v-dual-power-mosfets-2026-09/",
+    "summary": "<p>Taiwan Semiconductor is introducing a family of automotive-grade power MOSFETs to its existing TQM Series. The 60V dual n-channel devices support drop-in pin compatibility with other commonly used package types, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/power-supplies/taiwan-semi-releases-family-of-aec-q-60v-dual-power-mosfets-2026-09/\">Taiwan Semi releases family of AEC-Q 60V Dual Power MOSFETs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
+    "source": "Electronics Weekly",
+    "date": "2026-09-16",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-09/",
+    "summary": "<p>Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-09/\">Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "TT Instruments presented its King’s Award for Enterprise",
+    "source": "Electronics Weekly",
+    "date": "2026-09-16",
+    "url": "https://www.electronicsweekly.com/news/business/tt-instruments-presented-its-kings-award-for-enterprise-2026-09/",
+    "summary": "<p>Blackburn-based TT Instruments (TechPlant) has celebrated its King’s Award for Enterprise in International Trade at a ceremony attended by Lancashire’s Lord-Lieutenant. It was presented to the company at its Wainwright [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tt-instruments-presented-its-kings-award-for-enterprise-2026-09/\">TT Instruments presented its King’s Award for Enterprise</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Euclyd raises €200m to transform datacentres",
     "source": "Electronics Weekly",
     "date": "2026-09-16",
     "url": "https://www.electronicsweekly.com/news/business/euclyd-raises-e200m-2026-09/",
-    "summary": "<p>Euclyd, a Dutch startup targetting AI iCs and racks, has raised €200 million in a  Series A funding round. Euclyd’s chairman is former ASML CEO Peter Wennink. Investors are Samsung, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/euclyd-raises-e200m-2026-09/\">Euclyd raises €200m to transform datacentres</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Euclyd, a Dutch startup targeting AI ICs and racks, has raised €200 million in a Series A funding round. Euclyd’s chairman is former ASML CEO Peter Wennink. Investors are Samsung, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/euclyd-raises-e200m-2026-09/\">Euclyd raises €200m to transform datacentres</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Delos raises $100m for faster datacentre networking ICs",
     "source": "Electronics Weekly",
     "date": "2026-09-16",
     "url": "https://www.electronicsweekly.com/news/business/delos-raises-100m-for-faster-datacentre-networking-ics-2026-09/",
-    "summary": "<p>Delos Data, a stsrtup founded by ex-Intel engineers, has  raised over $100 million to pursue networking chips for datacentres. Investors were  Matrix, Playground, Socratic Partners, Capricorn&#8217;s Technology Impact Fund, Matter [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/delos-raises-100m-for-faster-datacentre-networking-ics-2026-09/\">Delos raises $100m for faster datacentre networking ICs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Delos Data, a stsrtup founded by ex-Intel engineers, has raised over $100 million to pursue networking chips for datacentres. Investors were Matrix, Playground, Socratic Partners, Capricorn&#8217;s Technology Impact Fund, Matter [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/delos-raises-100m-for-faster-datacentre-networking-ics-2026-09/\">Delos raises $100m for faster datacentre networking ICs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Semiconductor programmed by light",
     "source": "Electronics Weekly",
     "date": "2026-09-16",
     "url": "https://www.electronicsweekly.com/news/business/semiconductor-programmed-by-light-2026-09/",
-    "summary": "<p>Researchers at Princeton Engineering have created a semiconductor which is  a few molecules thick and can repeatedly change its properties in response to light. . The researchers have created a [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/semiconductor-programmed-by-light-2026-09/\">Semiconductor programmed by light</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Researchers at Princeton Engineering have created a semiconductor which is  a few molecules thick and can repeatedly change its properties in response to light. The researchers have created a uniform [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/semiconductor-programmed-by-light-2026-09/\">Semiconductor programmed by light</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Gates Foundation to spend $1bn on expanding access to AI",
@@ -53,7 +102,7 @@
     "source": "Electronics Weekly",
     "date": "2026-09-16",
     "url": "https://www.electronicsweekly.com/news/business/sensor-reduces-cost-of-automotive-camera-module-2026-09/",
-    "summary": "<p>ST is sampling  a  1.1 MP automotive image sensor for infrared in-cabin sensing called ST Safe Sense  VD56GA that helps OEMs and Tier 1 suppliers scale driver and occupant monitoring [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/sensor-reduces-cost-of-automotive-camera-module-2026-09/\">Sensor reduces cost of automotive camera module</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>ST is sampling a  1.1 MP automotive image sensor for infrared in-cabin sensing called ST Safe Sense VD56GA that helps OEMs and Tier 1 suppliers scale driver and occupant monitoring [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/sensor-reduces-cost-of-automotive-camera-module-2026-09/\">Sensor reduces cost of automotive camera module</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Top Ten (less 4) DRAM Suppliers In Q2",
@@ -61,6 +110,13 @@
     "date": "2026-09-16",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-4-dram-suppliers-in-q2-measured-by-units-2026-09/",
     "summary": "<p>Thanks to Counterpoint Research for this one &#8211; the top six DRAM suppliers in Q2: Samsung Micron  SK hynix CXMT Nanya . Winbond &#160;</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-4-dram-suppliers-in-q2-measured-by-units-2026-09/\">Top Ten (less 4) DRAM Suppliers In Q2</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "CircuitPython 10.4.0-alpha.2 Released!",
+    "source": "Adafruit",
+    "date": "2026-09-16",
+    "url": "https://blog.adafruit.com/2026/09/16/circuitpython-10-4-0-alpha-2-released/",
+    "summary": "From the GitHub release page: This is CircuitPython 10.4.0-alpha.2, an alpha release for 10.4.0. Further features, changes, and bug fixes will be added before the final release of 10.4.0. Highlights of changes since 10.3.1 5 GHz WiFi support. Allow importing turbo (@viper and @native) .mpy files on many espressif, nordic, and SAMx5x boards (already enabled [&#8230;]"
   },
   {
     "title": "Coffee Maker Steam Wand Gets a Safe Outlet",
@@ -82,20 +138,6 @@
     "date": "2026-09-15",
     "url": "https://hackaday.com/2026/09/15/sampling-the-elephants-foot-and-chernobyls-tedious-corium-clean-up/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"491\" src=\"https://hackaday.com/wp-content/uploads/2026/09/chornobyl_elephants_foot_today.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The site of the Chornobyl Nuclear Power Plant (ChNPP) remains a unique location, as what&#8217;s left of the No. 4 reactor is the only place in the world where you <a class=\"read-more\" href=\"https://hackaday.com/2026/09/15/sampling-the-elephants-foot-and-chernobyls-tedious-corium-clean-up/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Hackaday Europe 2026: Bare Metal Made Easy",
-    "source": "Hackaday",
-    "date": "2026-09-15",
-    "url": "https://hackaday.com/2026/09/15/hackaday-europe-2026-bare-metal-made-easy/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/09/DSCF6812_featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When we talk about programming in &#8220;bare metal,&#8221; it basically means writing software that runs right on the hardware with no operating system or abstraction layers in between. This gives <a class=\"read-more\" href=\"https://hackaday.com/2026/09/15/hackaday-europe-2026-bare-metal-made-easy/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Running Linux 6.11 on the ESP32-S3 with a Few Tweaks",
-    "source": "Hackaday",
-    "date": "2026-09-15",
-    "url": "https://hackaday.com/2026/09/15/running-linux-6-11-on-the-esp32-s3-with-a-few-tweaks/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"250\" src=\"https://hackaday.com/wp-content/uploads/2026/09/esp32-s3_linux_paulneja_github.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>With the Xtensa Lx7 twin CPU cores in the ESP32-S3 running at a relatively zippy 240 MHz and accompanying PSRAM of up to 16 MB, you might find yourself wondering <a class=\"read-more\" href=\"https://hackaday.com/2026/09/15/running-linux-6-11-on-the-esp32-s3-with-a-few-tweaks/\">&#8230;read more</a>"
   },
   {
     "title": "Alif Semi Balletto B1 and Ensemble E1C StartKits feature Cortex-M55 + Ethos-U55 MCU for IoT and Edge AI",
@@ -131,34 +173,6 @@
     "date": "2026-09-15",
     "url": "https://www.embedded.com/esd-ebook-september-october-2026-rethinking-mil-aero-system-design/",
     "summary": "<p>Embedded engineers designing military and aerospace systems traditionally have built hardware devices and systems around the need for ruggedness and military-grade components to ensure operation in harsh environments while meeting size, weight, and power (SWaP) budgets. As mission-critical systems from electronic warfare equipment to military drones become more intelligent and complex, designers face challenges around [...]</p>\n<p>The post <a href=\"https://www.embedded.com/esd-ebook-september-october-2026-rethinking-mil-aero-system-design/\">ESD eBook September/October 2026: Rethinking Mil/Aero System Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Gadget Book: Artificial Intelligence (AI) zyBook",
-    "source": "Electronics Weekly",
-    "date": "2026-09-15",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-artificial-intelligence-ai-zybook-2026-09/",
-    "summary": "<p>This may be of interest: Wiley has introduced a new Artificial Intelligence (AI) zyBook for students to learn how to build AI systems. It's intended to cover more than foundational concepts.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-artificial-intelligence-ai-zybook-2026-09/\">Gadget Book: Artificial Intelligence (AI) zyBook</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "KVector raises £3.8m to commercialise low-power beam-steered antenna",
-    "source": "Electronics Weekly",
-    "date": "2026-09-15",
-    "url": "https://www.electronicsweekly.com/news/business/finance/kvector-raises-3-8m-to-commercialise-low-power-beam-steered-antenna-2026-09/",
-    "summary": "<p>University of Birmingham spin-out KVector has raised £3.8 million to commercialise a low-power alternative to AESA (active electronically scanned array) phased array antennas. Its beam-steered antenna &#8211; working from X-band [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/kvector-raises-3-8m-to-commercialise-low-power-beam-steered-antenna-2026-09/\">KVector raises £3.8m to commercialise low-power beam-steered antenna</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "How To Spot AI-Written Text",
-    "source": "Electronics Weekly",
-    "date": "2026-09-15",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/how-to-spot-ai-written-text-2026-09/",
-    "summary": "<p>There are several tells that a text may have been written by Al. These are certain types of phrases, words and punctuation that Al tools tend to use much more [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/how-to-spot-ai-written-text-2026-09/\">How To Spot AI-Written Text</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "ESA, Axiom Space sign a MoU for post-ISS space ecosystem",
-    "source": "Electronics Weekly",
-    "date": "2026-09-15",
-    "url": "https://www.electronicsweekly.com/news/esa-axiom-space-sign-a-mou-for-post-iss-space-ecosystem-2026-09/",
-    "summary": "<p>The European Space Agency (ESA) and Axiom Space have signed a memorandum of understanding (MoU) for a post-International Space Station ecosystem. The agency and the in-orbit infrastructure specialist say they [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/esa-axiom-space-sign-a-mou-for-post-iss-space-ecosystem-2026-09/\">ESA, Axiom Space sign a MoU for post-ISS space ecosystem</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "NEW PRODUCT – Adafruit TCS3448 14-Channel Light / Color Sensor Breakout",
@@ -236,13 +250,6 @@
     "date": "2026-09-15",
     "url": "https://blog.adafruit.com/2026/09/15/converting-a-20-4g-wireless-hotspot-into-a-texting-device/",
     "summary": "The Modem Thing, image via GitHub &#160; &#160; Can a $20 hotspot help you conquer doomscrolling? bkovac on GitHub created this texting device from an inexpensive modem. The project combines a MSM8916-based 4G hotpsot (purchased for $20), a Clicks Keyboard, and a Sharp memory display into a portable texting device. A pocketable texting device could [&#8230;]"
-  },
-  {
-    "title": "New Learn Guide: Pico-Faces On Fruit Jam #Microcontrollers #AdafruitLearningSystem @Adafruit",
-    "source": "Adafruit",
-    "date": "2026-09-15",
-    "url": "https://blog.adafruit.com/2026/09/15/new-learn-guide-pico-faces-on-fruit-jam-microcontrollers-adafruitlearningsystem-adafruit/",
-    "summary": "&#160; In the future, every microcontroller will be able to run models with 1.5 million parameters. The Pico-Faces project is an image generation model that can run on a microcontroller. The model implements a latent flow diffusion transformer (DiT). Similar to techniques used by some larger GenAI image models, but with some tricks and efficiencies that [&#8230;]"
   },
   {
     "title": "AI’s Missing Link",
@@ -411,13 +418,6 @@
     "date": "2026-09-10",
     "url": "https://www.embedded.com/chiplet-based-fpgas-optimize-performance-for-space-applications/",
     "summary": "<p>Field-programmable gate array (FPGA) architectures for space must reconcile computing capacity, reliability, power consumption, and component availability for very long missions. A chiplet-based approach can separate processing and I/O, allowing for the optimization of radiation tolerance, performance, and upgradeability. Beyond the monolithic FPGA Space applications require increasingly higher processing capacities, especially in payloads dedicated to [...]</p>\n<p>The post <a href=\"https://www.embedded.com/chiplet-based-fpgas-optimize-performance-for-space-applications/\">Chiplet-Based FPGAs Optimize Performance for Space Applications</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "ESP32-C5 Pico board follows Raspberry Pi Pico form factor, ships with on-board or external antenna",
-    "source": "CNX Software",
-    "date": "2026-09-09",
-    "url": "https://www.cnx-software.com/2026/09/09/esp32-c5-pico-board-follows-raspberry-pi-pico-form-factor-ships-with-on-board-or-external-antenna/",
-    "summary": "<div><img alt=\"ESP32-C5 Pico\" class=\"attachment-medium size-medium wp-post-image\" height=\"498\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/ESP32-C5-Pico-720x498.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Waveshare ESP32-C5 Pico board brings the ESP32-C5 dual-band WiFi 6, Bluetooth LE, and 802.15.4 (Zigbee/Thread) SoC to the Raspberry Pi Pico form factor. The board features an ESP32-C5-MINI-1 Series module with PCB or external antenna, two 20-pin GPIO headers, a USB-C port for power and programming, Reset and Boot buttons, and a few LEDs. It also supports Li-Ion battery charging and discharging. Waveshare ESP32-C5 Pico specifications: Wireless module – ESP32-C5-MINI-1 or ESP32-C5-MINI-1U Wireless MCU –  Espressif Systems ESP32-C5HF4 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 48 MHz acting as the main processor for power-sensitive applications Memory – 384 KB SRAM on-chip Storage – 320 KB ROM, 4MB SPI flash Wireless Dual-band (2.4/5 GHz) 802.11ax WiFi 6, 802.11b/g/n WiFi 4 backward compatibility WiFi modes: Station mode, SoftAP mode, SoftAP + Station mode, and promiscuous mode Bluetooth 5.0 Low Energy (LE) with Mesh support, up [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/09/esp32-c5-pico-board-follows-raspberry-pi-pico-form-factor-ships-with-on-board-or-external-antenna/\">ESP32-C5 Pico board follows Raspberry Pi Pico form factor, ships with on-board or external antenna</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Morse Micro Introduces Wi-Fi HaLow USB Network Adapters",
