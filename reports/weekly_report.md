@@ -1,33 +1,27 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-16 17:19 UTC
+Generated: 2026-09-16 20:29 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-09-15 | Modality-Autoregressive World-Action Models | [link](https://arxiv.org/pdf/2609.17524v1) |
-| 2026-09-15 | ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation | [link](https://arxiv.org/pdf/2609.17499v1) |
-| 2026-09-15 | LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence | [link](https://arxiv.org/pdf/2609.17488v1) |
-| 2026-09-15 | Dissecting Motion-Prior Regularization for Data-Scarce Robotic Insertion | [link](https://arxiv.org/pdf/2609.17484v1) |
-| 2026-09-15 | Gaussian Processes for Modelling Spatial Fields with Robot Swarms | [link](https://arxiv.org/pdf/2609.17463v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83513 | 33405.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63661 | 25464.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44554 | 17821.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30527 | 12210.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28250 | 11300.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83516 | 33406.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63665 | 25466.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44556 | 17822.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30528 | 12211.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28249 | 11299.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
+| nvidia/Cosmos3-Nano-Policy-DROID | 2430 | 735.9 | [link](https://huggingface.co/nvidia/Cosmos3-Nano-Policy-DROID) |
+| nvidia/Cosmos3-Edge-Policy-DROID | 1679 | 506.0 | [link](https://huggingface.co/nvidia/Cosmos3-Edge-Policy-DROID) |
 | ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 145 | 43.6 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
 | Immerwinter/google-bert-privacy-policy-content-contact | 125 | 37.6 | [link](https://huggingface.co/Immerwinter/google-bert-privacy-policy-content-contact) |
 | Immerwinter/gbert-large-privacy-policy-content-deletion | 120 | 36.1 | [link](https://huggingface.co/Immerwinter/gbert-large-privacy-policy-content-deletion) |
-| Immerwinter/gbert-large-privacy-policy-content-control | 108 | 32.5 | [link](https://huggingface.co/Immerwinter/gbert-large-privacy-policy-content-control) |
-| Immerwinter/roberta-wechsel-privacy-policy-content-selling | 107 | 32.2 | [link](https://huggingface.co/Immerwinter/roberta-wechsel-privacy-policy-content-selling) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
