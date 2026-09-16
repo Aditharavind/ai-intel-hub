@@ -1,23 +1,23 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-15 23:13 UTC
+Generated: 2026-09-16 01:48 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-09-14 | ResSafe: Learning Safety Filtering with Residual Reinforcement Learning for Humanoids | [link](https://arxiv.org/pdf/2609.15988v1) |
-| 2026-09-14 | MessyMem: Learning-from-Doing Memory for Mobile Manipulation | [link](https://arxiv.org/pdf/2609.15976v1) |
-| 2026-09-14 | Discovery Foundation Models: Toward Open-Ended Discovery Intelligence | [link](https://arxiv.org/pdf/2609.15973v1) |
-| 2026-09-14 | Validating Inverse Fundamental-Plane IMBH Mass Estimates in the SKA/ngVLA Era | [link](https://arxiv.org/pdf/2609.15960v1) |
-| 2026-09-14 | Beyond Single-Axis Testing: Paired Evaluation of Compound Robustness in Vision-Language-Action Policies | [link](https://arxiv.org/pdf/2609.15940v1) |
+| 2026-09-15 | LOTUSim-Energy: A Maritime Simulator for Human-Drone Interaction in Autonomous Offshore Operation \&amp; Maintenance | [link](https://arxiv.org/pdf/2609.17124v1) |
+| 2026-09-15 | Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement | [link](https://arxiv.org/pdf/2609.17115v1) |
+| 2026-09-15 | BRAVE-6D: Benchmark for Robotic Active Vision in 6DOF Pose Estimation | [link](https://arxiv.org/pdf/2609.17106v1) |
+| 2026-09-15 | GeoLAM: Learning Geometry-Grounded Latent Actions from Unlabeled Human Videos | [link](https://arxiv.org/pdf/2609.17099v1) |
+| 2026-09-15 | Learning Options for Compositional Motor Control with Adapter Banks | [link](https://arxiv.org/pdf/2609.17042v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83508 | 33403.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63660 | 25464.1 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83506 | 33402.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63663 | 25465.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44552 | 17820.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30521 | 12208.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| AtsushiSakai/PythonRobotics | 30522 | 12208.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | questdb/questdb | 17323 | 6929.3 | [link](https://github.com/questdb/questdb) |
 
 ## Top Models
@@ -41,8 +41,8 @@ Generated: 2026-09-15 23:13 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-15 | Physical AI security startup Exein raises $270M at $1.7B valuation - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0FraENPWHRuWW9HYzc3MTdrS3hYaTRyNnNCcFZJTmR5cHNHdjJ5YmszQ2RTWS0tRnUyQTFNRGV4dG5wSGQzb0VnWm9OdjBnMmFEU25OUi1YMFRoMURweXBpUFBGSHZ1Y1hleDlSUjFiTjJnU2pPVmlCYkNoLXFVeHdRZVhSRnhhTFJTSUhOUjIwNExrejNGQncxWmZOZzBPMXdv?oc=5) |
+| 2026-09-16 | Korea Cuts Patent Reviews for AI Data Center, Physical AI to One Month - Seoul Economic Daily | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTFYNEdxbFN2cmtacWppX3RVTXFidkJzMVNCR1gyOVpnWG15ZVVUVUN6cFktVVlMSzFMRVJOVjlnZ0dXR2dKcHAtWDBoMEo1NzRQdk9xU3BzUWZWajBZbENaaHl2Z0hKQ3JvWjFUZ25iZXdUQTZSN1NlaTRoSkZMaUlySlpTUUY0QnpxdzhkaEtLMmcwS3BmRTRmanNwSExZRVln?oc=5) |
+| 2026-09-15 | Physical AI security startup Exein raises $270M at $1.7B valuation - siliconangle.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0FraENPWHRuWW9HYzc3MTdrS3hYaTRyNnNCcFZJTmR5cHNHdjJ5YmszQ2RTWS0tRnUyQTFNRGV4dG5wSGQzb0VnWm9OdjBnMmFEU25OUi1YMFRoMURweXBpUFBGSHZ1Y1hleDlSUjFiTjJnU2pPVmlCYkNoLXFVeHdRZVhSRnhhTFJTSUhOUjIwNExrejNGQncxWmZOZzBPMXdv?oc=5) |
 | 2026-09-15 | New Italian unicorn Exein rides the physical AI wave - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxOMDVJeDg2VnJuWmVJd1VGb3RXSzc5UENVblhhVXdHbjNVYmtMMjUySGZqd19neVlLNGo2LXp6T2lPSzdzMnlfYy0zbERJcTVfTGZITVVqY2NjQlVvQTh2X1M5OVlZRXd6R0tuaTdFUXhBazZ4d0RLVWxSRkhYSjlhbU4xYWJXeHVyek9KVDRhSHQ?oc=5) |
-| 2026-09-15 | Exein reaches Unicorn status as it faces 5,000 attacks weekly and raises €234 million for Physical AI cybersecurity - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNV3NENFNFeUZDbHpnX0Q2aUhBWkRwZGFXSGlKUlllOWRpRy14ODM4bWhUdEV3YVJDWnNuYUVSZW9wSVJxX2lOQUw4cl9ySFAyejIzYlZnS1BOLVdiSndYSXRGaVRuWldGeGZXSk5JSG1maS1QNndmWlVVSjJzS0pLNEpqb3F2bVAyMVUzUVdscXhEbkZkTWdVel9VQWlWa0lwRUhMcWl5SWd5Rl9Od2RoN0ZNaDJ2V29mWS1oeVF6NHo1RzVidE5fX05R?oc=5) |
-| 2026-09-15 | Exein raises $270M to build embedded cybersecurity for physical AI systems - resiliencemedia.co | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxPRkRWMzg4SzNPeE5LNS10OTFkcmRycFpVaFhIN3owcGg4Ry05OXgyejBIaWtuZFVNNjhYMHVLU1dTQkhJa2pEZGRRY1RWNjhWaGFFRUlQQ0tza1FGbGx0ZjAtbVMyd0dVWUNhZG9iOC01VWFVdFdITm0xMHNhT296LU1zUEdmR01HR0VFd2ZFeEpDMFpkbVFZUjFIaXBmZ2Vid1Yw?oc=5) |
 | 2026-09-15 | Exein, A Startup from Rome, Raises $270 Million and Becomes a Physical AI Unicorn - trendingtopics.eu | physical ai startup | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzQwSlZMVkJCU042b0xjNFpnVTZVZXM1QThRSEo1YWdPaWpTVmFfdmZ6TFhCMlc4T3ZnTlI2elJGckRMMHBnOWJPZFIwQy1YeHBJQW9wME9ycmlGLU80bGtLNUZtckF6dkxUaW5hR1BTb05fXzVZTEtEN0xLOVQ3ckt4Qy16UXF3RGZMVW5Cb1FwZnQ1RXk0dHZ5cXJZYjIzTklnUnBEZG95RGp5blE?oc=5) |
+| 2026-09-15 | Exein reaches Unicorn status as it faces 5,000 attacks weekly and raises €234 million for Physical AI cybersecurity - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNV3NENFNFeUZDbHpnX0Q2aUhBWkRwZGFXSGlKUlllOWRpRy14ODM4bWhUdEV3YVJDWnNuYUVSZW9wSVJxX2lOQUw4cl9ySFAyejIzYlZnS1BOLVdiSndYSXRGaVRuWldGeGZXSk5JSG1maS1QNndmWlVVSjJzS0pLNEpqb3F2bVAyMVUzUVdscXhEbkZkTWdVel9VQWlWa0lwRUhMcWl5SWd5Rl9Od2RoN0ZNaDJ2V29mWS1oeVF6NHo1RzVidE5fX05R?oc=5) |
