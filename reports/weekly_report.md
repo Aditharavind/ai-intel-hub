@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-17 01:52 UTC
+Generated: 2026-09-17 06:48 UTC
 
 ## Top Papers
 _No items collected yet._
@@ -8,20 +8,20 @@ _No items collected yet._
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83514 | 33405.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63667 | 25466.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83516 | 33406.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63670 | 25468.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44556 | 17822.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30528 | 12211.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28251 | 11300.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| AtsushiSakai/PythonRobotics | 30530 | 12212.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28253 | 11301.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | nvidia/Cosmos3-Nano-Policy-DROID | 2430 | 735.9 | [link](https://huggingface.co/nvidia/Cosmos3-Nano-Policy-DROID) |
 | nvidia/Cosmos3-Edge-Policy-DROID | 1679 | 506.0 | [link](https://huggingface.co/nvidia/Cosmos3-Edge-Policy-DROID) |
+| x-square-robot/X2-Turn-4B-0812 | 809 | 243.8 | [link](https://huggingface.co/x-square-robot/X2-Turn-4B-0812) |
 | ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 145 | 43.6 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
-| Immerwinter/google-bert-privacy-policy-content-contact | 125 | 37.6 | [link](https://huggingface.co/Immerwinter/google-bert-privacy-policy-content-contact) |
-| Immerwinter/gbert-large-privacy-policy-content-control | 108 | 32.5 | [link](https://huggingface.co/Immerwinter/gbert-large-privacy-policy-content-control) |
+| Immerwinter/roberta-wechsel-privacy-policy-content-selling | 107 | 32.2 | [link](https://huggingface.co/Immerwinter/roberta-wechsel-privacy-policy-content-selling) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

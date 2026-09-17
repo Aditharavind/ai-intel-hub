@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-17 01:52 UTC
+Last Updated: 2026-09-17 06:48 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-17 | Recreating Unobtainable Diagnostic Tools For The Jaguar XJ220 | Hackaday | [link](https://hackaday.com/2026/09/16/recreating-unobtainable-diagnostic-tools-for-the-jaguar-xj220/) |
+| 2026-09-17 | Introducing the Periodic Table of US Electrical Receptacles | Hackaday | [link](https://hackaday.com/2026/09/16/introducing-the-periodic-table-of-us-electrical-receptacles/) |
 | 2026-09-17 | ENILINX TICKEY – An ESP32-S3-based color e-Paper badge with open firmware (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/09/17/enilinx-tickey-esp32-s3-color-e-paper-badge-with-open-firmware/) |
-| 2026-09-17 | Democracy Stabilises But Not For US | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/democracy-stabilises-but-not-for-us-2026-09/) |
+| 2026-09-17 | MakerWorld Live Monitor – ESP32 Real-Time Stats Display #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/09/17/makerworld-live-monitor-esp32-2432s028r-cyd-real-time-stats-display-3dthursday-3dprinting/) |
+| 2026-09-17 | From the mail bag… | Adafruit | [link](https://blog.adafruit.com/2026/09/17/from-the-mail-bag-805/) |
+| 2026-09-17 | SolderClamps for Adjustable PCB Holder – Quick-Release Ball Joint Remix #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/09/17/solderclamps-for-adjustable-pcb-holder-quick-release-ball-joint-remix-3dthursday-3dprinting/) |
 | 2026-09-16 | Ride the Rails on a OneWheel | Hackaday | [link](https://hackaday.com/2026/09/16/ride-the-rails-on-a-onewheel/) |
 | 2026-09-16 | A 3D Rasterizer For Embedded Devices | Hackaday | [link](https://hackaday.com/2026/09/16/a-3d-rasterizer-for-embedded-devices/) |
 | 2026-09-16 | FLOSS Weekly Episode 882 with OSADL: Better Together | Hackaday | [link](https://hackaday.com/2026/09/16/floss-weekly-episode-882-with-osadl-better-together/) |
 | 2026-09-16 | A Cheap and Easy Control Screen For Home Assistant | Hackaday | [link](https://hackaday.com/2026/09/16/a-cheap-and-easy-control-screen-for-home-assistant/) |
-| 2026-09-16 | Heat Domes: Meet the Quiet and Oppressive Take on the Thunderdome | Hackaday | [link](https://hackaday.com/2026/09/16/heat-domes-meet-the-quiet-and-oppressive-take-on-the-thunderdome/) |
-| 2026-09-16 | Full-Color Looks Great on 3D Printed Sliding Puzzles | Hackaday | [link](https://hackaday.com/2026/09/16/full-color-looks-great-on-3d-printed-sliding-puzzles/) |
-| 2026-09-16 | Round AMOLED Badge Does All Kinds Of Cool Stuff | Hackaday | [link](https://hackaday.com/2026/09/16/round-amoled-badge-does-all-kinds-of-cool-stuff/) |
-| 2026-09-16 | AAEON MIX-PTLWV1 Panther Lake industrial mini-ITX motherboard offers quad DisplayPort, dual 10GbE, and more | CNX Software | [link](https://www.cnx-software.com/2026/09/16/aaeon-mix-ptlwv1-panther-lake-industrial-mini-itx-motherboard-offers-quad-displayport-dual-10gbe/) |
 
 ## New Research Papers
 _No items collected yet._
@@ -66,30 +66,30 @@ _No items collected yet._
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-09-17 | mim-chess-vlas/train_800_dense__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_dense__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0) |
-| 2026-09-17 | mim-chess-vlas/train_800_dense__no_mask__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_dense__no_mask__pi05__seed_0) |
-| 2026-09-17 | mim-chess-vlas/train_800_dense__mask__separate_channel__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_dense__mask__separate_channel__sim__all_cameras__live__pi05__seed_0) |
-| 2026-09-17 | mim-chess-vlas/train_800_sparse__bbox__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_sparse__bbox__blur__sim__all_cameras__live__pi05__seed_0) |
-| 2026-09-17 | mim-chess-vlas/train_800_sparse__point__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_sparse__point__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
-| 2026-09-16 | milab-robot/alm1-0818-amore.T.M | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0818-amore.T.M) |
-| 2026-09-16 | SAIFIINDUSTRIES/Llama-3.2-1B-Robotics-JEPA | 0 | 0 | [link](https://huggingface.co/SAIFIINDUSTRIES/Llama-3.2-1B-Robotics-JEPA) |
-| 2026-09-16 | x-square-robot/X-Planner-9B-0916 | 0 | 0 | [link](https://huggingface.co/x-square-robot/X-Planner-9B-0916) |
-| 2026-09-16 | Nico-robot/microduck-i-stole-it-again | 0 | 0 | [link](https://huggingface.co/Nico-robot/microduck-i-stole-it-again) |
-| 2026-09-16 | Nico-robot/microduck-this-one-as-well | 0 | 0 | [link](https://huggingface.co/Nico-robot/microduck-this-one-as-well) |
+| 2026-09-17 | maxlii/Robotwin-piper-x-dual | 0 | 0 | [link](https://huggingface.co/maxlii/Robotwin-piper-x-dual) |
+| 2026-09-17 | siddharthmu/robotics-vision-language | 0 | 0 | [link](https://huggingface.co/siddharthmu/robotics-vision-language) |
+| 2026-09-17 | yiyiyi066/nowm_robotwin_clean_50_qwen3.5_0.8B_GR00T | 0 | 0 | [link](https://huggingface.co/yiyiyi066/nowm_robotwin_clean_50_qwen3.5_0.8B_GR00T) |
+| 2026-09-17 | Rice-RobotPI-Lab/robotok-public | 0 | 5 | [link](https://huggingface.co/Rice-RobotPI-Lab/robotok-public) |
+| 2026-09-17 | x-square-robot/X2-Turn-4B-0812 | 809 | 5 | [link](https://huggingface.co/x-square-robot/X2-Turn-4B-0812) |
+| 2026-09-17 | mim-chess-vlas/train_800_dense__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_dense__mask__overlay_a100__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-17 | mim-chess-vlas/train_800_dense__mask__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_dense__mask__blur__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-17 | mim-chess-vlas/train_800_dense__mask__blackout__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_dense__mask__blackout__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-17 | mim-chess-vlas/train_800_dense__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_dense__mask__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-17 | mim-chess-vlas/train_800_dense__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_dense__mask__overlay_a25__sim__all_cameras__live__pi05__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28251 | Python | 11300.5 | [link](https://github.com/harvard-edge/cs249r_book) |
-| commaai/openpilot | 63667 | Python | 25466.9 | [link](https://github.com/commaai/openpilot) |
-| questdb/questdb | 17324 | Java | 6929.7 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 15978 | Python | 6391.3 | [link](https://github.com/earthtojake/text-to-cad) |
-| sou350121/VLA-Handbook | 624 | HTML | 249.7 | [link](https://github.com/sou350121/VLA-Handbook) |
-| deeplethe/utopia | 7732 | Rust | 3092.9 | [link](https://github.com/deeplethe/utopia) |
-| vllm-project/vllm-omni | 6832 | Python | 2732.9 | [link](https://github.com/vllm-project/vllm-omni) |
-| DexForce/EmbodiChain | 224 | Python | 89.7 | [link](https://github.com/DexForce/EmbodiChain) |
-| NVIDIA/skills | 3314 | Python | 1325.7 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1492 | Rust | 596.9 | [link](https://github.com/copper-project/copper-rs) |
+| harvard-edge/cs249r_book | 28253 | Python | 11301.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| commaai/openpilot | 63670 | Python | 25468.1 | [link](https://github.com/commaai/openpilot) |
+| questdb/questdb | 17325 | Java | 6930.1 | [link](https://github.com/questdb/questdb) |
+| earthtojake/text-to-cad | 15989 | Python | 6395.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| ArduPilot/ardupilot | 15878 | C++ | 6351.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| dora-rs/dora | 4061 | Rust | 1624.5 | [link](https://github.com/dora-rs/dora) |
+| datawhalechina/every-embodied | 3727 | Python | 1490.9 | [link](https://github.com/datawhalechina/every-embodied) |
+| sou350121/VLA-Handbook | 625 | HTML | 250.1 | [link](https://github.com/sou350121/VLA-Handbook) |
+| deeplethe/utopia | 7979 | Rust | 3191.7 | [link](https://github.com/deeplethe/utopia) |
+| vllm-project/vllm-omni | 6837 | Python | 2734.9 | [link](https://github.com/vllm-project/vllm-omni) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -117,7 +117,7 @@ _No items collected yet._
 | 2026-09-15 | Exein, A Startup from Rome, Raises $270 Million and Becomes a Physical AI Unicorn - trendingtopics.eu | physical ai startup | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzQwSlZMVkJCU042b0xjNFpnVTZVZXM1QThRSEo1YWdPaWpTVmFfdmZ6TFhCMlc4T3ZnTlI2elJGckRMMHBnOWJPZFIwQy1YeHBJQW9wME9ycmlGLU80bGtLNUZtckF6dkxUaW5hR1BTb05fXzVZTEtEN0xLOVQ3ckt4Qy16UXF3RGZMVW5Cb1FwZnQ1RXk0dHZ5cXJZYjIzTklnUnBEZG95RGp5blE?oc=5) |
 | 2026-09-15 | Exein raises $270M to build embedded cybersecurity for physical AI systems - Resilience Media | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxPRkRWMzg4SzNPeE5LNS10OTFkcmRycFpVaFhIN3owcGg4Ry05OXgyejBIaWtuZFVNNjhYMHVLU1dTQkhJa2pEZGRRY1RWNjhWaGFFRUlQQ0tza1FGbGx0ZjAtbVMyd0dVWUNhZG9iOC01VWFVdFdITm0xMHNhT296LU1zUEdmR01HR0VFd2ZFeEpDMFpkbVFZUjFIaXBmZ2Vid1Yw?oc=5) |
 | 2026-09-15 | Travis Kalanick's Robotics Startup Taps Meta Veteran for Top AI Role - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxQc3dtdjN5QUppcjFQcl9UQ2t0cU4xakkyQmhWME93aHhrQjlRVU9FUmNhbEtLbGpnUDdyek9pYV8zdTBTSnFmRE8zeG85d1J2V1k1Yk9sZnBjMngyT1pobjk2VmZ2MzFmdU4xbFRqZ3MxQmd3LUg0U3ZzTVVKZW5sNjh2UTU1NW9sOHJCVVhLRlZmeDFDdnBxMWozQTRZUkpDVElB?oc=5) |
-| 2026-09-15 | Exein reaches Unicorn status as it faces 5,000 attacks weekly and raises €234 million for Physical AI cybersecurity - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNV3NENFNFeUZDbHpnX0Q2aUhBWkRwZGFXSGlKUlllOWRpRy14ODM4bWhUdEV3YVJDWnNuYUVSZW9wSVJxX2lOQUw4cl9ySFAyejIzYlZnS1BOLVdiSndYSXRGaVRuWldGeGZXSk5JSG1maS1QNndmWlVVSjJzS0pLNEpqb3F2bVAyMVUzUVdscXhEbkZkTWdVel9VQWlWa0lwRUhMcWl5SWd5Rl9Od2RoN0ZNaDJ2V29mWS1oeVF6NHo1RzVidE5fX05R?oc=5) |
+| 2026-09-15 | Exein reaches Unicorn status as it faces 5,000 attacks weekly and raises €234 million for Physical AI cybersecurity - eu-startups.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNV3NENFNFeUZDbHpnX0Q2aUhBWkRwZGFXSGlKUlllOWRpRy14ODM4bWhUdEV3YVJDWnNuYUVSZW9wSVJxX2lOQUw4cl9ySFAyejIzYlZnS1BOLVdiSndYSXRGaVRuWldGeGZXSk5JSG1maS1QNndmWlVVSjJzS0pLNEpqb3F2bVAyMVUzUVdscXhEbkZkTWdVel9VQWlWa0lwRUhMcWl5SWd5Rl9Od2RoN0ZNaDJ2V29mWS1oeVF6NHo1RzVidE5fX05R?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
