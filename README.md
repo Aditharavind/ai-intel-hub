@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-16 23:18 UTC
+Last Updated: 2026-09-17 01:52 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-17 | ENILINX TICKEY – An ESP32-S3-based color e-Paper badge with open firmware (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/09/17/enilinx-tickey-esp32-s3-color-e-paper-badge-with-open-firmware/) |
+| 2026-09-17 | Democracy Stabilises But Not For US | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/democracy-stabilises-but-not-for-us-2026-09/) |
 | 2026-09-16 | Ride the Rails on a OneWheel | Hackaday | [link](https://hackaday.com/2026/09/16/ride-the-rails-on-a-onewheel/) |
 | 2026-09-16 | A 3D Rasterizer For Embedded Devices | Hackaday | [link](https://hackaday.com/2026/09/16/a-3d-rasterizer-for-embedded-devices/) |
 | 2026-09-16 | FLOSS Weekly Episode 882 with OSADL: Better Together | Hackaday | [link](https://hackaday.com/2026/09/16/floss-weekly-episode-882-with-osadl-better-together/) |
@@ -57,8 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-16 | Full-Color Looks Great on 3D Printed Sliding Puzzles | Hackaday | [link](https://hackaday.com/2026/09/16/full-color-looks-great-on-3d-printed-sliding-puzzles/) |
 | 2026-09-16 | Round AMOLED Badge Does All Kinds Of Cool Stuff | Hackaday | [link](https://hackaday.com/2026/09/16/round-amoled-badge-does-all-kinds-of-cool-stuff/) |
 | 2026-09-16 | AAEON MIX-PTLWV1 Panther Lake industrial mini-ITX motherboard offers quad DisplayPort, dual 10GbE, and more | CNX Software | [link](https://www.cnx-software.com/2026/09/16/aaeon-mix-ptlwv1-panther-lake-industrial-mini-itx-motherboard-offers-quad-displayport-dual-10gbe/) |
-| 2026-09-16 | OpenMANET – A higher-bandwidth Meshtastic alternative leveraging 802.11ah WiFi HaLow | CNX Software | [link](https://www.cnx-software.com/2026/09/16/openmanet-a-higher-bandwidth-meshtastic-alternative-leveraging-802-11ah-wifi-halow/) |
-| 2026-09-16 | CVITEK CV1842H-P-based edge AI camera module offers night vision and AI-ISP support (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/09/16/cvitek-cv1842h-p-based-edge-ai-camera-module-offers-night-vision-and-ai-isp-support/) |
 
 ## New Research Papers
 _No items collected yet._
@@ -66,30 +66,30 @@ _No items collected yet._
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-17 | mim-chess-vlas/train_800_dense__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_dense__mask__overlay_a50__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-17 | mim-chess-vlas/train_800_dense__no_mask__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_dense__no_mask__pi05__seed_0) |
+| 2026-09-17 | mim-chess-vlas/train_800_dense__mask__separate_channel__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_dense__mask__separate_channel__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-17 | mim-chess-vlas/train_800_sparse__bbox__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_sparse__bbox__blur__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-17 | mim-chess-vlas/train_800_sparse__point__overlay_a75__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_sparse__point__overlay_a75__sim__all_cameras__live__pi05__seed_0) |
 | 2026-09-16 | milab-robot/alm1-0818-amore.T.M | 0 | 0 | [link](https://huggingface.co/milab-robot/alm1-0818-amore.T.M) |
 | 2026-09-16 | SAIFIINDUSTRIES/Llama-3.2-1B-Robotics-JEPA | 0 | 0 | [link](https://huggingface.co/SAIFIINDUSTRIES/Llama-3.2-1B-Robotics-JEPA) |
 | 2026-09-16 | x-square-robot/X-Planner-9B-0916 | 0 | 0 | [link](https://huggingface.co/x-square-robot/X-Planner-9B-0916) |
 | 2026-09-16 | Nico-robot/microduck-i-stole-it-again | 0 | 0 | [link](https://huggingface.co/Nico-robot/microduck-i-stole-it-again) |
 | 2026-09-16 | Nico-robot/microduck-this-one-as-well | 0 | 0 | [link](https://huggingface.co/Nico-robot/microduck-this-one-as-well) |
-| 2026-09-16 | Nico-robot/microduck-i-stole-this-one | 0 | 0 | [link](https://huggingface.co/Nico-robot/microduck-i-stole-this-one) |
-| 2026-09-16 | Voyager466920/ahin-real-robot-smolvla-threetasks-weakcheckpoint | 0 | 0 | [link](https://huggingface.co/Voyager466920/ahin-real-robot-smolvla-threetasks-weakcheckpoint) |
-| 2026-09-16 | huzican0419/robotwin_piper_x_new_sft_step99999 | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_new_sft_step99999) |
-| 2026-09-16 | huzican0419/robotwin_piper_x_new_sft_step80000 | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_new_sft_step80000) |
-| 2026-09-16 | huzican0419/robotwin_piper_x_new_sft_step90000 | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_new_sft_step90000) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28250 | Python | 11300.1 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3313 | Python | 1325.3 | [link](https://github.com/NVIDIA/skills) |
+| harvard-edge/cs249r_book | 28251 | Python | 11300.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| commaai/openpilot | 63667 | Python | 25466.9 | [link](https://github.com/commaai/openpilot) |
+| questdb/questdb | 17324 | Java | 6929.7 | [link](https://github.com/questdb/questdb) |
+| earthtojake/text-to-cad | 15978 | Python | 6391.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| sou350121/VLA-Handbook | 624 | HTML | 249.7 | [link](https://github.com/sou350121/VLA-Handbook) |
+| deeplethe/utopia | 7732 | Rust | 3092.9 | [link](https://github.com/deeplethe/utopia) |
+| vllm-project/vllm-omni | 6832 | Python | 2732.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| DexForce/EmbodiChain | 224 | Python | 89.7 | [link](https://github.com/DexForce/EmbodiChain) |
+| NVIDIA/skills | 3314 | Python | 1325.7 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1492 | Rust | 596.9 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 1044 | Python | 417.7 | [link](https://github.com/mosaico-labs/mosaico) |
-| awslabs/awsome-distributed-ai | 476 | Shell | 190.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 63666 | Python | 25466.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44556 | JavaScript | 17822.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| questdb/questdb | 17323 | Java | 6929.3 | [link](https://github.com/questdb/questdb) |
-| zauberzeug/nicegui | 16210 | Python | 6484.1 | [link](https://github.com/zauberzeug/nicegui) |
-| earthtojake/text-to-cad | 15974 | Python | 6389.7 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -103,21 +103,21 @@ _No items collected yet._
 | 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBoeDd2eTBBX0ZTelZDVEtnd1BmekdITVRwVDkzcjZITzdyZldIMjdlZktnMVdrakQxTUc4OGtaTUw1X3doekNHclA1STU5eEJ4UjVIMm41b3AyaUJqTmJtdHRzcmN4UnN6RmFOR0NTajdSY1N5eGc?oc=5) |
 | 2026-09-13 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE01US1obFlpTUI2aXV2aWVIbFMxemNyLW1DalQ3TkRobDRYcFYwSE1kQmpMbHpWbDFEajRhQmtsMllpMUVyaUs1RUtYNzRlX1ZLVUwxNnVZQUZlLVRZSzZOUmFGY3hXYnFnYnNmZzc4OUZWOWEybnc?oc=5) |
 | 2026-09-10 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTFBTVm5nbU5PX0dGV2ZvaVo0MGZzV0sxdmRwdFFoM2x4aWJySGhmVjRJbUVSb3R6MHRiZ2M4dHNhTmlfTjV1cHVqRFNDNXo4d0QydFozbGRKanppdXN1dHBYbDZqYndUcGU5NUUw?oc=5) |
-| 2026-09-10 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWJQVzk2MXBsTm9lNmw2a3VoUmMzd3lRLWZkTk4wTVRMb190dXdvTTFvSkY2azI3NDI0UXU0blEtcEVnb0ZfaW5nTnpkOUNxYzIyYkZCbFZPd2FtT3pOVkExd2tzS3o3X3ZCNU9RcVFDamFUN0FOdTZQWHdPTnloVDB1TnBqakZGT051aWMtTlpPTFF3QkE?oc=5) |
+| 2026-09-10 | LeRobot |  |  | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeVNENXN3U2ZUZk41ZnFiam5fc0FHcmpHcG5odUNhOXI5amdOSzJXTmg4dGt2SGxWVUxjU3JINkNnUS1WamxoUFlLS0twWEp2RUV2NE4tZXozaURQbGxlZWs1SnVESzhrWDBPUnAtSjN4Z2VEQ0RmY0ZjOEMtbUZrZnUwSXhKOENDVnUzMXVsR0l3aEIwWHpVem9rVVd3RElScHd4TmVmZWxUNlNKN0Y0ZHhBM1FQRDZ0QkVxWVQzSDRtUUNNb2c?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-16 | Exein becomes unicorn: Italian Physical AI security start-up valued at $1.7bn - euronews.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONlhTWVN4bndHUzZaYjVObjZ4VV8tWVFOVTJNMkw4Nl9OSDJUTnBJRHVTeHhKbzJUX1BjcUlJVFFOTjdickVibkREdjBrdVM3VUgzbFBLN0dIMFhnTkpRNDhaX2N2dDZBZkZUakJJUWEzbXhDaWFFSEFvMnlhR20yZEQxdHBUNTVrYl9lM2VyeGNCdk0zV2JvRFduSkZKMVNwaktRaHA0S0QtYmVJRUQ3R2lyQm1OOHdMaVBR?oc=5) |
-| 2026-09-16 | Matter Venture Partners Closes $450 Million Fund II For HardTech, Robotics, And Physical AI Startups - pulse2.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTFAyOWRwRExScnA2Z0FScmE0cXRCWXpqRU9VdzNqOHhDb0F0N01IUHVRWHVzRVhMTUpDdExSYnBWU1hHRUMtbG5jcTk4XzFobHdPcWRGWGZMd0ZMR01xNWxtVExVRk41MnNTdFZDbXJpWm95dlltSTI2YnhB0gF_QVVfeXFMT2F5NDNEN3BKR0RlQVB5WVdTekk4SXdrUGxFTUc3R3h5OG00U3Nta1hGZUZ6UDEzMnRDbHhPYUZqT3BlQ3VIRHRCUmNBNHBrS2plb0NBSFI4QzBQcE0zS05EN01QQnpDWHk4ZWd2bmEyM3ZpUHpEbUZpV2lRU0dXaw?oc=5) |
-| 2026-09-16 | Embodied AI Launches With Funding To Automate European Manufacturing - pulse2.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlQ4ZWcybEM5WWZjTHlKcDhyeVRBZEFhR1I3WlhpMTZFcFdLV1U5T1RaN214SUgwYUJvMDJaTUJMcmQ4bEtVam5MdU9sNWw2NGltbHd3M25hWTE5dUw3Skh3Q05xTGNMbDdjRmZqRDkwV2t4VjNkWk5zNFR1Y09oUkdZMGZCSWtkV0FhUTU3OVZ3UdIBlwFBVV95cUxOV25MbzJTWGJEbnpxOFh3UEUyLWptYkpyT29jTFZGNVltVWVscVVLYzhqQ0ZkaWtYWGlveGprWnhXTlhFNlFKaS1VajFYZzhGWWJRbnB0dlV2WkxJYXV4aDY4djBYTS1lM1B6cmFxRE5fZS0tbHVIMjNLNEcxUVNxaW95UTlEYWdubG1Wdjd1NndnTzZIU1ZV?oc=5) |
+| 2026-09-16 | Exein becomes unicorn: Italian Physical AI security start-up valued at $1.7bn - Euronews.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONlhTWVN4bndHUzZaYjVObjZ4VV8tWVFOVTJNMkw4Nl9OSDJUTnBJRHVTeHhKbzJUX1BjcUlJVFFOTjdickVibkREdjBrdVM3VUgzbFBLN0dIMFhnTkpRNDhaX2N2dDZBZkZUakJJUWEzbXhDaWFFSEFvMnlhR20yZEQxdHBUNTVrYl9lM2VyeGNCdk0zV2JvRFduSkZKMVNwaktRaHA0S0QtYmVJRUQ3R2lyQm1OOHdMaVBR?oc=5) |
+| 2026-09-16 | Italian Cybersecurity Startup Exein Hits $1.7 Billion Valuation on Physical AI Bet - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE9jaG13MDY2ZkV2cTFkM2lhN2VTV0wxS2N5U2J5NjduRTNWb0loMGJGNzJfTmN0SWo5THdzMTJ5WVhBVkpkajBtSkNTdmd2LW1xb0EzWFE2V2VaS2ZBS256YXRaTG1qNFRaTE9QVExoWTM2WER1MGc?oc=5) |
+| 2026-09-16 | Matter Venture Partners Closes $450 Million Fund II For HardTech, Robotics, And Physical AI Startups - Pulse 2.0 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTFAyOWRwRExScnA2Z0FScmE0cXRCWXpqRU9VdzNqOHhDb0F0N01IUHVRWHVzRVhMTUpDdExSYnBWU1hHRUMtbG5jcTk4XzFobHdPcWRGWGZMd0ZMR01xNWxtVExVRk41MnNTdFZDbXJpWm95dlltSTI2YnhB0gF_QVVfeXFMT2F5NDNEN3BKR0RlQVB5WVdTekk4SXdrUGxFTUc3R3h5OG00U3Nta1hGZUZ6UDEzMnRDbHhPYUZqT3BlQ3VIRHRCUmNBNHBrS2plb0NBSFI4QzBQcE0zS05EN01QQnpDWHk4ZWd2bmEyM3ZpUHpEbUZpV2lRU0dXaw?oc=5) |
+| 2026-09-16 | Embodied AI Launches With Funding To Automate European Manufacturing - Pulse 2.0 | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlQ4ZWcybEM5WWZjTHlKcDhyeVRBZEFhR1I3WlhpMTZFcFdLV1U5T1RaN214SUgwYUJvMDJaTUJMcmQ4bEtVam5MdU9sNWw2NGltbHd3M25hWTE5dUw3Skh3Q05xTGNMbDdjRmZqRDkwV2t4VjNkWk5zNFR1Y09oUkdZMGZCSWtkV0FhUTU3OVZ3UdIBlwFBVV95cUxOV25MbzJTWGJEbnpxOFh3UEUyLWptYkpyT29jTFZGNVltVWVscVVLYzhqQ0ZkaWtYWGlveGprWnhXTlhFNlFKaS1VajFYZzhGWWJRbnB0dlV2WkxJYXV4aDY4djBYTS1lM1B6cmFxRE5fZS0tbHVIMjNLNEcxUVNxaW95UTlEYWdubG1Wdjd1NndnTzZIU1ZV?oc=5) |
 | 2026-09-15 | New Italian unicorn Exein rides the physical AI wave - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxOMDVJeDg2VnJuWmVJd1VGb3RXSzc5UENVblhhVXdHbjNVYmtMMjUySGZqd19neVlLNGo2LXp6T2lPSzdzMnlfYy0zbERJcTVfTGZITVVqY2NjQlVvQTh2X1M5OVlZRXd6R0tuaTdFUXhBazZ4d0RLVWxSRkhYSjlhbU4xYWJXeHVyek9KVDRhSHQ?oc=5) |
-| 2026-09-15 | Physical AI security startup Exein raises $270M at $1.7B valuation - siliconangle.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0FraENPWHRuWW9HYzc3MTdrS3hYaTRyNnNCcFZJTmR5cHNHdjJ5YmszQ2RTWS0tRnUyQTFNRGV4dG5wSGQzb0VnWm9OdjBnMmFEU25OUi1YMFRoMURweXBpUFBGSHZ1Y1hleDlSUjFiTjJnU2pPVmlCYkNoLXFVeHdRZVhSRnhhTFJTSUhOUjIwNExrejNGQncxWmZOZzBPMXdv?oc=5) |
+| 2026-09-15 | Physical AI security startup Exein raises $270M at $1.7B valuation - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0FraENPWHRuWW9HYzc3MTdrS3hYaTRyNnNCcFZJTmR5cHNHdjJ5YmszQ2RTWS0tRnUyQTFNRGV4dG5wSGQzb0VnWm9OdjBnMmFEU25OUi1YMFRoMURweXBpUFBGSHZ1Y1hleDlSUjFiTjJnU2pPVmlCYkNoLXFVeHdRZVhSRnhhTFJTSUhOUjIwNExrejNGQncxWmZOZzBPMXdv?oc=5) |
 | 2026-09-15 | Exein, A Startup from Rome, Raises $270 Million and Becomes a Physical AI Unicorn - trendingtopics.eu | physical ai startup | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzQwSlZMVkJCU042b0xjNFpnVTZVZXM1QThRSEo1YWdPaWpTVmFfdmZ6TFhCMlc4T3ZnTlI2elJGckRMMHBnOWJPZFIwQy1YeHBJQW9wME9ycmlGLU80bGtLNUZtckF6dkxUaW5hR1BTb05fXzVZTEtEN0xLOVQ3ckt4Qy16UXF3RGZMVW5Cb1FwZnQ1RXk0dHZ5cXJZYjIzTklnUnBEZG95RGp5blE?oc=5) |
 | 2026-09-15 | Exein raises $270M to build embedded cybersecurity for physical AI systems - Resilience Media | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxPRkRWMzg4SzNPeE5LNS10OTFkcmRycFpVaFhIN3owcGg4Ry05OXgyejBIaWtuZFVNNjhYMHVLU1dTQkhJa2pEZGRRY1RWNjhWaGFFRUlQQ0tza1FGbGx0ZjAtbVMyd0dVWUNhZG9iOC01VWFVdFdITm0xMHNhT296LU1zUEdmR01HR0VFd2ZFeEpDMFpkbVFZUjFIaXBmZ2Vid1Yw?oc=5) |
 | 2026-09-15 | Travis Kalanick's Robotics Startup Taps Meta Veteran for Top AI Role - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxQc3dtdjN5QUppcjFQcl9UQ2t0cU4xakkyQmhWME93aHhrQjlRVU9FUmNhbEtLbGpnUDdyek9pYV8zdTBTSnFmRE8zeG85d1J2V1k1Yk9sZnBjMngyT1pobjk2VmZ2MzFmdU4xbFRqZ3MxQmd3LUg0U3ZzTVVKZW5sNjh2UTU1NW9sOHJCVVhLRlZmeDFDdnBxMWozQTRZUkpDVElB?oc=5) |
 | 2026-09-15 | Exein reaches Unicorn status as it faces 5,000 attacks weekly and raises €234 million for Physical AI cybersecurity - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNV3NENFNFeUZDbHpnX0Q2aUhBWkRwZGFXSGlKUlllOWRpRy14ODM4bWhUdEV3YVJDWnNuYUVSZW9wSVJxX2lOQUw4cl9ySFAyejIzYlZnS1BOLVdiSndYSXRGaVRuWldGeGZXSk5JSG1maS1QNndmWlVVSjJzS0pLNEpqb3F2bVAyMVUzUVdscXhEbkZkTWdVel9VQWlWa0lwRUhMcWl5SWd5Rl9Od2RoN0ZNaDJ2V29mWS1oeVF6NHo1RzVidE5fX05R?oc=5) |
-| 2026-09-15 | Seeds | Former Li Auto AI Executive Launches Embodied AI Startup, Raises RMB Hundreds of Millions - Gasgoo | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb1o5T3dvajlISXlkcS1TZ01KNl9kRVE0RjBRTjFQYWhmQnR0VkpGUHVmanFlS1B5Rjk0TnRRbEZnM2hNVU9MZHZ2RnpBdlJIWTZvTGxrblF2MldWeG1vX3d3WC01SThia3kxYld0WFdsaFBvc2NvbnBBNU8yNWdmSzExUzBZajNOSy16RVBUaXc1a3NxdDd3V2gySC1fYm41SlQwblFtWVRSekZBbHVlUG5MLXhMdUoxS1VvVlNOOFZEckd0TkFBb0ctQUZOVUM2eEJRMWExczd6ZnpTeDdtSzVqSkk3U3J1OEFrNQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
