@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-17 20:36 UTC
+Last Updated: 2026-09-17 23:09 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-17 | Your CYD Is Now A Telly | Hackaday | [link](https://hackaday.com/2026/09/17/your-cyd-is-now-a-telly/) |
 | 2026-09-17 | Keep Your Back Cool While Others Melt | Hackaday | [link](https://hackaday.com/2026/09/17/keep-your-back-cool-while-others-melt/) |
 | 2026-09-17 | Why Wave Energy is the Final Frontier of Renewable Energy | Hackaday | [link](https://hackaday.com/2026/09/17/why-wave-energy-is-the-final-frontier-of-renewable-energy/) |
 | 2026-09-17 | Eye-D Badge Catches Your Attention | Hackaday | [link](https://hackaday.com/2026/09/17/eye-d-badge-catches-your-attention/) |
 | 2026-09-17 | FCC ISM Rules May Shatter Lora Mesh Communities | Hackaday | [link](https://hackaday.com/2026/09/17/fcc-ism-rules-may-shatter-lora-mesh-communities/) |
 | 2026-09-17 | An Enhanced Game Boy Advance | Hackaday | [link](https://hackaday.com/2026/09/17/an-enhanced-game-boy-advance/) |
 | 2026-09-17 | Printing a Clock Fit for a Pope | Hackaday | [link](https://hackaday.com/2026/09/17/printing-a-clock-fit-for-a-pope/) |
-| 2026-09-17 | Recreating Unobtainable Diagnostic Tools For The Jaguar XJ220 | Hackaday | [link](https://hackaday.com/2026/09/16/recreating-unobtainable-diagnostic-tools-for-the-jaguar-xj220/) |
 | 2026-09-17 | Raspberry Pi 5 gets dual GMSL2 Camera HAT based on MAX96716A deserializer | CNX Software | [link](https://www.cnx-software.com/2026/09/17/raspberry-pi-5-gets-dual-gmsl2-camera-hat-based-on-max96716a-deserializer/) |
 | 2026-09-17 | ENILINX TICKEY – An ESP32-S3-based color e-Paper badge with open firmware (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/09/17/enilinx-tickey-esp32-s3-color-e-paper-badge-with-open-firmware/) |
 | 2026-09-17 | Abaco Systems Introduces VNX+ SBC | Embedded.com | [link](https://www.embedded.com/abaco-systems-introduces-vnx-sbc/) |
@@ -66,6 +66,9 @@ _No items collected yet._
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-17 | sedeboer/course-robotics-vision-language | 0 | 0 | [link](https://huggingface.co/sedeboer/course-robotics-vision-language) |
+| 2026-09-17 | polarisai-robots/bento_ur7e_v1_pi05 | 0 | 0 | [link](https://huggingface.co/polarisai-robots/bento_ur7e_v1_pi05) |
+| 2026-09-17 | robothwang/ACT_demo_take_02 | 0 | 0 | [link](https://huggingface.co/robothwang/ACT_demo_take_02) |
 | 2026-09-17 | TULLUS/Xiaomi-Robotics-U0-4B-Sequence | 39 | 0 | [link](https://huggingface.co/TULLUS/Xiaomi-Robotics-U0-4B-Sequence) |
 | 2026-09-17 | Riasok/pi05-robot-checkpoints-20260912 | 0 | 0 | [link](https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912) |
 | 2026-09-17 | louis392/bpp-robotwin-level1-all16 | 0 | 0 | [link](https://huggingface.co/louis392/bpp-robotwin-level1-all16) |
@@ -73,9 +76,6 @@ _No items collected yet._
 | 2026-09-17 | hackathon1-fmm/act_saddle_picking_robot_1_v0_h200x4_20k | 0 | 0 | [link](https://huggingface.co/hackathon1-fmm/act_saddle_picking_robot_1_v0_h200x4_20k) |
 | 2026-09-17 | djbob/balance_robot | 0 | 0 | [link](https://huggingface.co/djbob/balance_robot) |
 | 2026-09-17 | LIN-linlin/4D-World-Models-Robotic-Manipulation | 0 | 0 | [link](https://huggingface.co/LIN-linlin/4D-World-Models-Robotic-Manipulation) |
-| 2026-09-17 | maxlii/Robotwin-piper-x-dual | 0 | 0 | [link](https://huggingface.co/maxlii/Robotwin-piper-x-dual) |
-| 2026-09-17 | siddharthmu/robotics-vision-language | 9 | 0 | [link](https://huggingface.co/siddharthmu/robotics-vision-language) |
-| 2026-09-17 | yiyiyi066/nowm_robotwin_clean_50_qwen3.5_0.8B_GR00T | 0 | 0 | [link](https://huggingface.co/yiyiyi066/nowm_robotwin_clean_50_qwen3.5_0.8B_GR00T) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -86,8 +86,8 @@ _No items collected yet._
 | mosaico-labs/mosaico | 1045 | Python | 418.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 476 | Shell | 190.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | Developer-Y/cs-video-courses | 83524 |  | 33409.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63672 | Python | 25468.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44558 | JavaScript | 17823.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| commaai/openpilot | 63673 | Python | 25469.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44559 | JavaScript | 17823.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | questdb/questdb | 17326 | Java | 6930.5 | [link](https://github.com/questdb/questdb) |
 | earthtojake/text-to-cad | 16018 | Python | 6407.3 | [link](https://github.com/earthtojake/text-to-cad) |
 
@@ -109,7 +109,7 @@ _No items collected yet._
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-09-17 | 5 Interesting Startup Deals You May Have Missed: Floating Nuclear Power, Robot Report Cards And Voice AI For Farmers - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFdPbkV5OHg1WFJoRjlfYXR1Ym41SW5uc2VISFJoS0NTUDVFRHZjSkFpV2tSMER0Q2R4YzUtQlM5RlYzYTdJRDlaTjhuYXd0enU2QjNhU0dQME1vYjE4QmRDMnBlRmg2djI2Z1hXb2FRbWdqVmdqeDJQdDFUQU0tRWVub3Z6WVQyd3VFb2V1NGtBa1FjbDVzMHl1VW5ra1cyNUhJbXZuTQ?oc=5) |
-| 2026-09-17 | How Physical AI Security Firm Exein Hit a US$1.7bn Valuation - aimagazine.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMk1iTUV3M0Y1R3E3NmpCWUJEQzZlVXMzSG1HWUt4QlRSYm5CNDZnVVF5dHdTNUc5dmJwbktkbVptM2pTLTlFNWR6OGE2X2FHVEJEUGhyeGFfR1BrV0tXUVFKUzlIMnI0b2xGcjR2dXhjbThLVnVzd3hyUzBka3pyVC1lVmtNcFVPRjkxQ0p3?oc=5) |
+| 2026-09-17 | How Physical AI Security Firm Exein Hit a US$1.7bn Valuation - AI Magazine | physical ai startup | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMk1iTUV3M0Y1R3E3NmpCWUJEQzZlVXMzSG1HWUt4QlRSYm5CNDZnVVF5dHdTNUc5dmJwbktkbVptM2pTLTlFNWR6OGE2X2FHVEJEUGhyeGFfR1BrV0tXUVFKUzlIMnI0b2xGcjR2dXhjbThLVnVzd3hyUzBka3pyVC1lVmtNcFVPRjkxQ0p3?oc=5) |
 | 2026-09-17 | Embodied AI launches with International Consortium backing - Startupticker.ch | embodied ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0p4TGNMWHFJc0RvdmNWdWxnX0FkNHNSdllRUUZ6TmxMS1dnS0o0dkdSZDVsOElDU0lCMVNuTkkwTUtOY0VabGhybHp6MFFlWXhWb0ZZWVA3NTNhSDdTdC1remhFSURNdEw2c3V0bWJPZ29LRG9mbzdTSU1PQndxSm03dDVFQk9Banc3V3d5V2J6VWdWSXlSN2ZYNA?oc=5) |
 | 2026-09-16 | Exein becomes unicorn: Italian Physical AI security start-up valued at $1.7bn - Euronews.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONlhTWVN4bndHUzZaYjVObjZ4VV8tWVFOVTJNMkw4Nl9OSDJUTnBJRHVTeHhKbzJUX1BjcUlJVFFOTjdickVibkREdjBrdVM3VUgzbFBLN0dIMFhnTkpRNDhaX2N2dDZBZkZUakJJUWEzbXhDaWFFSEFvMnlhR20yZEQxdHBUNTVrYl9lM2VyeGNCdk0zV2JvRFduSkZKMVNwaktRaHA0S0QtYmVJRUQ3R2lyQm1OOHdMaVBR?oc=5) |
 | 2026-09-16 | Matter Venture Partners Closes $450 Million Fund II For HardTech, Robotics, And Physical AI Startups - Pulse 2.0 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTFAyOWRwRExScnA2Z0FScmE0cXRCWXpqRU9VdzNqOHhDb0F0N01IUHVRWHVzRVhMTUpDdExSYnBWU1hHRUMtbG5jcTk4XzFobHdPcWRGWGZMd0ZMR01xNWxtVExVRk41MnNTdFZDbXJpWm95dlltSTI2YnhB0gF_QVVfeXFMT2F5NDNEN3BKR0RlQVB5WVdTekk4SXdrUGxFTUc3R3h5OG00U3Nta1hGZUZ6UDEzMnRDbHhPYUZqT3BlQ3VIRHRCUmNBNHBrS2plb0NBSFI4QzBQcE0zS05EN01QQnpDWHk4ZWd2bmEyM3ZpUHpEbUZpV2lRU0dXaw?oc=5) |
@@ -122,16 +122,16 @@ _No items collected yet._
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-17 | Security Engineer - Infrastructure Security | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4714381006) |
+| 2026-09-17 | Senior Hardware Test Engineer - Mechatronics | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6019178004) |
+| 2026-09-17 | Senior Systems Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5833390004) |
+| 2026-09-17 | Staff Firmware Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5789714004) |
+| 2026-09-17 | Staff HiL SW Infrastructure Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6105233004) |
+| 2026-09-17 | Staff Systems Engineer, Functional Safety | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5986772004) |
+| 2026-09-17 | Staff Systems Validation Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5833376004) |
 | 2026-09-16 | Software Engineer, Service & Operations | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4713838006) |
 | 2026-09-16 | Director, Product Quality | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6139687004) |
 | 2026-09-16 | Logistics Specialist | Agility Robotics | Onsite- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6193530004) |
-| 2026-09-16 | Principal Program Manager, Customer Success | Agility Robotics | Hybrid- Pittsburgh, PA or Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6188551004) |
-| 2026-09-16 | Senior Application Mechanical Engineer / Designer | Agility Robotics | Hybrid- Pittsburgh, PA or Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6188563004) |
-| 2026-09-16 | Senior Product Manager, Perception & World Understanding Skills | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6193254004) |
-| 2026-09-16 | Staff Network Engineer | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6190427004) |
-| 2026-09-15 | Deployment Engineer - Commercial Sites | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4674403006) |
-| 2026-09-15 | Inventory Controller | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6193535004) |
-| 2026-09-15 | People Operations Specialist | Agility Robotics | Hybrid- Salem, OR or Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6190387004) |
 
 ## Automation
 
