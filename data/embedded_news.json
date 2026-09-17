@@ -1,5 +1,19 @@
 [
   {
+    "title": "An Enhanced Game Boy Advance",
+    "source": "Hackaday",
+    "date": "2026-09-17",
+    "url": "https://hackaday.com/2026/09/17/an-enhanced-game-boy-advance/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/Screenshot-2026-09-16-155357-e1789538068246.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Bucket Mouse] has long been a fan of the various iterations of the Nintendo Game Boy. Now, he&#8217;s turned his eye to the Game Boy Advance, building an enhanced version <a class=\"read-more\" href=\"https://hackaday.com/2026/09/17/an-enhanced-game-boy-advance/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Printing a Clock Fit for a Pope",
+    "source": "Hackaday",
+    "date": "2026-09-17",
+    "url": "https://hackaday.com/2026/09/17/printing-a-clock-fit-for-a-pope/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/silent-clock-spring-pendulum.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When it comes to clockwork, there is a spectrum &#8212; some people love the ticking, and some people hate it, while most fall into the broad middle of indifference. Once <a class=\"read-more\" href=\"https://hackaday.com/2026/09/17/printing-a-clock-fit-for-a-pope/\">&#8230;read more</a>"
+  },
+  {
     "title": "Recreating Unobtainable Diagnostic Tools For The Jaguar XJ220",
     "source": "Hackaday",
     "date": "2026-09-17",
@@ -14,11 +28,109 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"438\" src=\"https://hackaday.com/wp-content/uploads/2026/09/periodic_table_of_us_outlets_practical_engineering_youtube.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although things may seem simple on the North American grid as an end-user if you limit yourself to just 120 VAC and NEMA 1-15 and 5-15 connectors, there is a <a class=\"read-more\" href=\"https://hackaday.com/2026/09/16/introducing-the-periodic-table-of-us-electrical-receptacles/\">&#8230;read more</a>"
   },
   {
+    "title": "Raspberry Pi 5 gets dual GMSL2 Camera HAT based on MAX96716A deserializer",
+    "source": "CNX Software",
+    "date": "2026-09-17",
+    "url": "https://www.cnx-software.com/2026/09/17/raspberry-pi-5-gets-dual-gmsl2-camera-hat-based-on-max96716a-deserializer/",
+    "summary": "<div><img alt=\"Dual GMSL2 Camera HAT connected to Raspberry Pi 5\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Dual-GMSL2-Camera-HAT-connected-to-Raspberry-Pi-5-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>BE-IIS (Brechel Electronic-Industrial Interface Systems) has released a dual GMSL2 Camera HAT for Raspberry Pi 5. The board is based on the MAX96716A GMSL2 deserializer and connects two remote GMSL2 cameras through the Pi&#8217;s CSI-2 interfaces. The solution has been validated in a dual-camera setup that operates at 2304 × 1296, RAW10, with two CSI-2 lanes per camera using the same Sony IMX708 12MP camera sensors found in the Raspberry Pi Camera Module 3. Besides low latency, one advantage of GMSL2 is long-range operation, and the HAT has been tested with two cameras connected over 10-meter coaxial cables. BE-IIS BE-IIS-2CAM (aka BE-IIS-GMSL2-2CAM) HAT+ specifications: Dual MIPI CSI camera output compatible with Raspberry Pi CSI interfaces Dual GMSL2 camera input 2x Rosenberger FAKRA connectors Up to 6 Gbps each PoC filter and protection per connector Analog Devices MAX96716A GMSL2 deserializer Misc Single and Dual HAT Operation 40-pin Raspberry Pi GPIO header Power [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/17/raspberry-pi-5-gets-dual-gmsl2-camera-hat-based-on-max96716a-deserializer/\">Raspberry Pi 5 gets dual GMSL2 Camera HAT based on MAX96716A deserializer</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "ENILINX TICKEY – An ESP32-S3-based color e-Paper badge with open firmware (Crowdfunding)",
     "source": "CNX Software",
     "date": "2026-09-17",
     "url": "https://www.cnx-software.com/2026/09/17/enilinx-tickey-esp32-s3-color-e-paper-badge-with-open-firmware/",
     "summary": "<div><img alt=\"TICKEY ESP32 S3 based color e Paper badge with 48 native colors\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/TICKEY-ESP32-S3-based-color-e-Paper-badge-with-48-native-colors-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ENIAC (operating as ENILINX) has launched the TICKEY, a 3.7-inch color e-Paper smart badge and desk display built around an ESP32-S3 MCU. The device features Wi-Fi, Bluetooth, and NFC connectivity, allowing users to update the screen from a smartphone without requiring continuous power to hold a static image. The display uses Modos’ color e-paper technology to deliver 48+ native colors, with refresh times as fast as 3 seconds and sunlight readability. Measuring just 3.8mm thick and weighing 45 grams, TICKEY features an aluminum-alloy body and interchangeable faceplates, and supports NFC and QR code-based web profile sharing. The standard version includes 8MB of storage, whereas the Developer Edition offers 128MB for more advanced applications. These features make it suitable for desk reminders, event identification, digital business cards, and interactive maker projects. TICKEY specifications: Wireless MCU –  ESP32-S3 Dual-core Tensilica LX7 microcontroller @ up to 240 MHz Wireless – 2.4 GHz 802.11n [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/17/enilinx-tickey-esp32-s3-color-e-paper-badge-with-open-firmware/\">ENILINX TICKEY &#8211; An ESP32-S3-based color e-Paper badge with open firmware (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "King to ask AI companies to protect humanity",
+    "source": "Electronics Weekly",
+    "date": "2026-09-17",
+    "url": "https://www.electronicsweekly.com/news/business/king-to-ask-ai-companies-to-protect-humanity-2026-09/",
+    "summary": "<p>Today the King is going to ask AI leaders for reassurances they can protect humanity by controlling their creations. At a meeting at Dumfries House in Scotland attended by Google [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/king-to-ask-ai-companies-to-protect-humanity-2026-09/\">King to ask AI companies to protect humanity</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Infineon sells F-RAM and NOR Flash business to Winbond",
+    "source": "Electronics Weekly",
+    "date": "2026-09-17",
+    "url": "https://www.electronicsweekly.com/news/business/infineon-sells-fram-and-nor-flash-business-to-winbond-2026-09/",
+    "summary": "<p>Infineon is selling its NOR Flash and F-RAM business to Winbond in an all-cash transaction valued at $1.12bn on a cash and debt free basis. The business comprises a portfolio [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-sells-fram-and-nor-flash-business-to-winbond-2026-09/\">Infineon sells F-RAM and NOR Flash business to Winbond</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Bank of America sees US semi industry doubling in four years",
+    "source": "Electronics Weekly",
+    "date": "2026-09-17",
+    "url": "https://www.electronicsweekly.com/news/bank-of-america-sees-us-semi-industry-doubling-in-four-years-2026-09/",
+    "summary": "<p>Bank of America  expects the semiconductor market to reach $3.2 trillion by 2030, according to an Investing.com report. BofA now expects an 18% CAGR between 2026 and 2030, up from [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/bank-of-america-sees-us-semi-industry-doubling-in-four-years-2026-09/\">Bank of America sees US semi industry doubling in four years</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "VdL to outline under-age internet and AI protections",
+    "source": "Electronics Weekly",
+    "date": "2026-09-17",
+    "url": "https://www.electronicsweekly.com/news/business/vdl-to-outline-under-age-internet-and-ai-protections-2026-09/",
+    "summary": "<p>Later today European Commission President Ursula von der Leyen (VdL) will outline her plan for implementing a social media ban for children under 13 and a ban on personal accounts for [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/vdl-to-outline-under-age-internet-and-ai-protections-2026-09/\">VdL to outline under-age internet and AI protections</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Mediatek processor aims to go light on memory",
+    "source": "Electronics Weekly",
+    "date": "2026-09-17",
+    "url": "https://www.electronicsweekly.com/news/business/mediatek-processor-aims-to-go-light-on-memory-2026-09/",
+    "summary": "<p>Mediatek has launched the 2nm Dimensity 9600 Pro with the aim of reducing memory usage at a time of high memory cost. &#8220;We are working closely with multiple customers on [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/mediatek-processor-aims-to-go-light-on-memory-2026-09/\">Mediatek processor aims to go light on memory</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Antevia Networks demos public MNO and private 5G connectivity running simultaneously over the same RAN",
+    "source": "Electronics Weekly",
+    "date": "2026-09-17",
+    "url": "https://www.electronicsweekly.com/news/business/antevia-networks-2026-09/",
+    "summary": "<p>Antevia Networks, the telecoms equipment vendor, has announced a successful demonstration of public Mobile Network Operator (MNO) and private 5G connectivity running simultaneously over the same RAN. The live test [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/antevia-networks-2026-09/\">Antevia Networks demos public MNO and private 5G connectivity running simultaneously over the same RAN</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Bright, rugged, sunlight-readable monitors for outdoors",
+    "source": "Electronics Weekly",
+    "date": "2026-09-17",
+    "url": "https://www.electronicsweekly.com/news/business/bright-rugged-sunlight-readable-monitors-for-outdoors-2026-09/",
+    "summary": "<p>Advantech has introduced the FPM-300S Series of high-brightness rugged monitors—sunlight-readable displays tailored for outdoor edge visualization. Combining high-brightness, rugged protection, and reliable operation, the FPM-300S Series is designed for mission-critical [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/bright-rugged-sunlight-readable-monitors-for-outdoors-2026-09/\">Bright, rugged, sunlight-readable monitors for outdoors</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Democracy Stabilises But Not For US",
+    "source": "Electronics Weekly",
+    "date": "2026-09-17",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/democracy-stabilises-but-not-for-us-2026-09/",
+    "summary": "<p>After eight consecutive years of declining scores, the 2025 EIU Democracy Index showed a stabilization of democracy around the world. In the latest edition, almost 75 percent of countries either [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/democracy-stabilises-but-not-for-us-2026-09/\">Democracy Stabilises But Not For US</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Solder Cable Holder – Threaded Adjustable Clamps for Wire Soldering #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-09-17",
+    "url": "https://blog.adafruit.com/2026/09/17/solder-cable-holder-threaded-adjustable-clamps-for-wire-soldering-3dthursday-3dprinting/",
+    "summary": "VC_designshares: A compact tool designed to keep two cables perfectly aligned during soldering. Two adjustable clamps tighten via a threaded mechanism to securely hold cables while keeping hands free for precise soldering. Optimized for easy 3D printing without supports — quick to print, ready to use straight off the printer. Community reviewers report it works [&#8230;]"
+  },
+  {
+    "title": "Carry Box for Circuit Playground #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-09-17",
+    "url": "https://blog.adafruit.com/2026/09/17/carry-box-for-circuit-playground-3dthursday-3dprinting/",
+    "summary": "biggerbeat shares: Carry your adafruit circuit playground bluefruit safely including cables download the files on: https://www.printables.com/model/1839393-lab-carry-box-for-adafruit-circuit-playground-blue Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making solid objects from digital models. Recently, we have noticed electronics projects integrated with 3D printed enclosures, brackets, and sculptures, so each [&#8230;]"
+  },
+  {
+    "title": "DataDisplay V1 Updated – Multifunctional CYD ESP32 Desktop Terminal #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-09-17",
+    "url": "https://blog.adafruit.com/2026/09/17/datadisplay-v1-updated-multifunctional-cyd-esp32-desktop-terminal-3dthursday-3dprinting/",
+    "summary": "lachimalaifshares: A multifunctional desktop terminal powered by an ESP32 CYD (ESP32-2432S028) touch TFT screen. 700+ downloads and growing. Full DataDisplay Ecosystem Collection with custom wall mounts, Skadis/Parkside pegboard mounts, desk stands, and accessories. Web-based firmware flasher and GitHub project page linked. Recent update expands weather insights and optimizes display for readability and stability. By lachimalaif [&#8230;]"
+  },
+  {
+    "title": "Raspberry Pi Zero 2W(H) Case – Slim + Snap-Fit with Heat Sink Mount #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-09-17",
+    "url": "https://blog.adafruit.com/2026/09/17/raspberry-pi-zero-2wh-case-slim-snap-fit-with-heat-sink-mount-3dthursday-3dprinting/",
+    "summary": "i.boxitshares: A Pi Zero 2W(H) snap-fit case with multiple variants for different header setups, optional screw holes, and dedicated heat sink opening. Wall/Magnetic mount with 40mm spacing (DIN rail + power supply mount compatible). Magnet holes require supports. Alternative Pi Zero case for the enclosure block. By i-BoxIt download the files on: https://makerworld.com/en/models/1054628-raspberry-pi-zero-2w-case-slim-snap-fit Every Thursday [&#8230;]"
+  },
+  {
+    "title": "Geometric Jack-o’-Lantern LED Pumpkin – Stone Collection Faceted #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-09-17",
+    "url": "https://blog.adafruit.com/2026/09/17/geometric-jack-o-lantern-led-pumpkin-stone-collection-faceted-3dthursday-3dprinting/",
+    "summary": "MYLIGHTshares: A faceted geometric Jack-o&#8217;-Lantern from the designer&#8217;s Stone Collection with sculpted &#8216;stone armor&#8217; texture. Two versions: multi-color print (AMS use, stem + pumpkin separate colors) or single-color (save filament, add stem detail with acrylic paint pen). Hollow inside with cutout base for LED candle. Modern take on the classic pumpkin. By MY LIGHT download [&#8230;]"
   },
   {
     "title": "MakerWorld Live Monitor – ESP32 Real-Time Stats Display #3DThursday #3DPrinting",
@@ -63,20 +175,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>This week Jonathan chats with Jan Altenberg of the Open Source Automation Development Lab, a cooperative of nerds that care about Linux and Open Source! Jan and OSADL helped push <a class=\"read-more\" href=\"https://hackaday.com/2026/09/16/floss-weekly-episode-882-with-osadl-better-together/\">&#8230;read more</a>"
   },
   {
-    "title": "A Cheap and Easy Control Screen For Home Assistant",
-    "source": "Hackaday",
-    "date": "2026-09-16",
-    "url": "https://hackaday.com/2026/09/16/a-cheap-and-easy-control-screen-for-home-assistant/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/photo-guition-page-2-e1789533651453.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Home Assistant is a great way to rig up and manage your smart home and its many and varied devices. You can of course control the system from your smartphone <a class=\"read-more\" href=\"https://hackaday.com/2026/09/16/a-cheap-and-easy-control-screen-for-home-assistant/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Heat Domes: Meet the Quiet and Oppressive Take on the Thunderdome",
-    "source": "Hackaday",
-    "date": "2026-09-16",
-    "url": "https://hackaday.com/2026/09/16/heat-domes-meet-the-quiet-and-oppressive-take-on-the-thunderdome/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"326\" src=\"https://hackaday.com/wp-content/uploads/2026/09/heat-dome-graphic.jpg?w=620\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"620\" /></div>One of the nice things about the weather is that even if it&#8217;s bad right now, it&#8217;ll definitely be changing soon and maybe even for the better. There is one <a class=\"read-more\" href=\"https://hackaday.com/2026/09/16/heat-domes-meet-the-quiet-and-oppressive-take-on-the-thunderdome/\">&#8230;read more</a>"
-  },
-  {
     "title": "AAEON MIX-PTLWV1 Panther Lake industrial mini-ITX motherboard offers quad DisplayPort, dual 10GbE, and more",
     "source": "CNX Software",
     "date": "2026-09-16",
@@ -112,6 +210,20 @@
     "summary": "<p>The new working group will develop a specification to standardize the streaming format for radar and LiDAR sensor data.</p>\n<p>The post <a href=\"https://www.embedded.com/mipi-alliance-forms-kinematics-working-group/\">MIPI Alliance Forms Kinematics Working Group</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
+    "title": "Sivers turns to CW DFB laser tech to reduce module sizes",
+    "source": "Electronics Weekly",
+    "date": "2026-09-16",
+    "url": "https://www.electronicsweekly.com/news/products/micros/sivers-turns-to-cw-dfb-laser-tech-to-reduce-module-sizes-2026-09/",
+    "summary": "<p>Integrating laser technology increases reliability while reducing the final form factor of modules. This philosophy has been embraced by Sivers Semiconductors. The company highlighted its 100mW O-band CW DFB laser [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/micros/sivers-turns-to-cw-dfb-laser-tech-to-reduce-module-sizes-2026-09/\">Sivers turns to CW DFB laser tech to reduce module sizes</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "ETH Zurich plans Swiss Quantum Innovation Hub – IBM, Lockheed Martin",
+    "source": "Electronics Weekly",
+    "date": "2026-09-16",
+    "url": "https://www.electronicsweekly.com/news/research-news/eth-zurich-plans-swiss-quantum-innovation-hub-ibm-lockheed-martin-2026-09/",
+    "summary": "<p>The leading Swiss research university ETH Zurich &#8211; with backing from both IBM and Lockheed Martin &#8211; is opening the Swiss Quantum Innovation Hub. The new hub plans to host [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/research-news/eth-zurich-plans-swiss-quantum-innovation-hub-ibm-lockheed-martin-2026-09/\">ETH Zurich plans Swiss Quantum Innovation Hub &#8211; IBM, Lockheed Martin</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Arcade Machine Ports for Fruit Jam New Learn Guide",
     "source": "Adafruit",
     "date": "2026-09-16",
@@ -138,41 +250,6 @@
     "date": "2026-09-16",
     "url": "https://blog.adafruit.com/2026/09/16/wisconsin-researchers-tracking-monarchs-with-tiny-solar-tags/",
     "summary": "&#8220;One of 30 monarch butterflies with a solar-powered radio tag glued to its thorax at Goose Pond Sanctuary. This technology is capable of tracking monarchs in real time as they migrate south for the winter. Photo courtesy of Brenna Marsicek/Southern Wisconsin Bird Alliance&#8220; &#160; If you are going to track a butterfly you will need [&#8230;]"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-09-16",
-    "url": "https://blog.adafruit.com/2026/09/16/the-python-on-microcontrollers-newsletter-subscribe-for-free-9-16/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
-  },
-  {
-    "title": "Adafruit DC and Stepper Motor HAT for Raspberry Pi",
-    "source": "Adafruit",
-    "date": "2026-09-16",
-    "url": "https://blog.adafruit.com/2026/09/16/adafruit-dc-and-stepper-motor-hat-for-raspberry-pi/",
-    "summary": "Stackable Steppers and DC motor control for your Raspberry Pi Let your robotic dreams come true with a DC+Stepper Motor HAT or DC+Stepper Motor Bonnet from Adafruit. These Raspberry Pi add-ons are perfect for any motion project as they can drive up to 4 DC or 2 Stepper motors with full PWM speed control. Learn [&#8230;]"
-  },
-  {
-    "title": "LIVE! 3D Hangouts with Noe and Pedro",
-    "source": "Adafruit",
-    "date": "2026-09-16",
-    "url": "https://blog.adafruit.com/2026/09/16/live-3d-hangouts-with-noe-and-pedro-84/",
-    "summary": "3D Hangouts – Franky Candy, E-Ink FruitMesh and Long Fingers https://youtube.com/live/PTCjShegeXU?feature=share This week @adafruit Noe is publishing his Franky candy dispenser project. Pedro has more updates on the e-ink meshtastic project and a new time lapse of articulating extended fingers. Learn Guide https://learn.adafruit.com/franky-candy-dispenser YouTube Video https://youtube.com/shorts/yNbIKtg1oE4?feature=share Feather RP2040 PropMaker: https://www.adafruit.com/product/5768 LED Glasses Starter Kit https://www.adafruit.com/product/5255 [&#8230;]"
-  },
-  {
-    "title": "JP’s Product Pick of the Week 9/15/26",
-    "source": "Adafruit",
-    "date": "2026-09-16",
-    "url": "https://blog.adafruit.com/2026/09/16/jps-product-pick-of-the-week-9-15-26/",
-    "summary": "If you missed this week’s livestream of John Park’s Product Pick(s) of the Week, not to worry, here’s the video. This week’s pick is the Adafruit I2S 3W Class D Amplifier Breakout &#8211; MAX98357A! Watch the video to find out about the Adafruit I2S 3W Class D Amplifier Breakout &#8211; MAX98357A!, how to use ’em, [&#8230;]"
-  },
-  {
-    "title": "Who Designs Wikipedia?",
-    "source": "Adafruit",
-    "date": "2026-09-16",
-    "url": "https://blog.adafruit.com/2026/09/16/who-designs-wikipedia/",
-    "summary": "Courtesy of Wikimedia Foundation staff and contractors, CC BY-SA 4.0 &#160; Paul Moore breaks down &#8220;who actually makes Wikipedia&#8221; in this piece for It’s Nice That: Although we may take it for granted, the expansive database has a fascinating aesthetic: minimal, data-first, accessible, beautifully simple – but who designs Wikipedia? I’m here to find out [&#8230;]"
   },
   {
     "title": "Automotive MCUs for Next Gen eMobility, Automotive E/E Architectures and AI – Infineon and Mouser Electronics",
@@ -327,13 +404,6 @@
     "date": "2026-09-11",
     "url": "https://www.cnx-software.com/2026/09/11/renesas-rz-g3l-rz-g3se-ultra-low-power-cortex-a55-mpus-for-industrial-hmi-and-iot-applications/",
     "summary": "<div><img alt=\"Renesas 64 bit RZ G3L and RZ G3SE ultra low power MPUs\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Renesas-64-bit-RZ-G3L-and-RZ-G3SE-ultra-low-power-MPUs-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Renesas has expanded its RZ/G Series with the RZ/G3L and RZ/G3SE, two new 64-bit MPUs for HMI and IoT edge systems. Both devices integrate up to four Arm Cortex-A55 application cores clocked at up to 1.2 GHz and a 200 MHz Arm Cortex-M33 real-time coprocessor. The two chips are pin-to-pin compatible but target different applications. The RZ/G3L integrates an Arm Mali-G31 3D GPU and H.264 video codec for HMI applications like retail terminals and medical devices. The RZ/G3SE removes the GPU and video codec and is designed for IoT devices with basic display requirements, including EV chargers and industrial gateway devices. Both can reduce standby power consumption to around 1 mW and resume operation quickly from deep standby, which is useful for devices that need to remain connected while consuming very little power. Renesas RZ/G3L and RZ/G3SE specifications: MPU core  CPU Quad-core or Dual-core Arm Cortex-A55 @ up to 1.2 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/11/renesas-rz-g3l-rz-g3se-ultra-low-power-cortex-a55-mpus-for-industrial-hmi-and-iot-applications/\">Renesas RZ/G3L &#038; RZ/G3SE &#8211; Ultra-low-power Cortex-A55 MPUs for industrial HMI and IoT applications</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Amlogic A123X and C305X2 Arm Cortex-A320 SoCs target industrial and low-power AIoT applications",
-    "source": "CNX Software",
-    "date": "2026-09-11",
-    "url": "https://www.cnx-software.com/2026/09/11/amlogic-a123x-and-c305x2-arm-cortex-a320-socs-target-industrial-and-low-power-aiot-applications/",
-    "summary": "<div><img alt=\"Amlogic A123X C305X2 Cortex A320 SoCs\" class=\"attachment-medium size-medium wp-post-image\" height=\"360\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Amlogic-A123X-C305X2-Cortex-A320-SoCs-720x360.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Amlogic has unveiled the A123X quad-core and C305X2 dual-core Arm Cortex-A320 SoCs for industrial and battery-powered Edge AI and IoT applications such as robots, dashcams, IP cameras, video conferencing equipment, and so on. The Arm Cortex-A320 low-power Armv9 CPU core was introduced in February 2025, and Amlogic is the first silicon vendor to announce Cortex-A320 SoCs. Details are sparse, with no full specifications or block diagrams and limited software information, but let&#8217;s see what we know so far. Amlogic A123X Amlogic A123X specifications: CPU &#8211; Quad-core Arm Cortex-A320 processor (Armv9.2-A, SVE2) GPU &#8211; None or not disclosed VPU H.264/H.265 encoding at 4K @ 60fps H.264/H.265 decoding at 4K @ 30fps AI 4 TOPS ADLA2 NPU for object detection and tracking CNN models 8 TOPS ADLA3 NPU supporting hardware-accelerated Transformer operations for ViT, LLM, etc. Neural network-based hardware SED engine for low-power audio event identification ISP &#8211; Low-light HDR ISP Supports [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/11/amlogic-a123x-and-c305x2-arm-cortex-a320-socs-target-industrial-and-low-power-aiot-applications/\">Amlogic A123X and C305X2 Arm Cortex-A320 SoCs target industrial and low-power AIoT applications</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Processors and Chiplet-Based FPGAs for Mission-Critical Systems, Scalable Physical AI Solutions: Embedded Week Insights",
