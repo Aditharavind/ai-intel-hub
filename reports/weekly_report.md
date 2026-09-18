@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-18 06:44 UTC
+Generated: 2026-09-18 11:54 UTC
 
 ## Top Papers
 _No items collected yet._
@@ -8,20 +8,20 @@ _No items collected yet._
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83527 | 33410.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63676 | 25470.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44565 | 17826.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30535 | 12214.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28272 | 11308.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83530 | 33412.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63679 | 25471.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44568 | 17827.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30536 | 12214.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28276 | 11310.5 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| Robot-Haus/Qwen3.8-Flash-Next-oQ4e-mtp-fp16_CONVERTED | 378 | 113.5 | [link](https://huggingface.co/Robot-Haus/Qwen3.8-Flash-Next-oQ4e-mtp-fp16_CONVERTED) |
-| ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 148 | 44.5 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
-| Tron-Hayato/smolvla-policy-test | 88 | 26.5 | [link](https://huggingface.co/Tron-Hayato/smolvla-policy-test) |
+| ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 157 | 47.2 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
+| Tron-Hayato/smolvla-policy-test | 107 | 32.2 | [link](https://huggingface.co/Tron-Hayato/smolvla-policy-test) |
 | jagwang/mungkeul-physical-ai | 87 | 26.2 | [link](https://huggingface.co/jagwang/mungkeul-physical-ai) |
-| DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy | 55 | 17.0 | [link](https://huggingface.co/DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy) |
+| DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy | 58 | 17.9 | [link](https://huggingface.co/DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy) |
+| ubr-physical-ai/Cosmos3-Edge-NF4-bnb | 54 | 16.3 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-NF4-bnb) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -36,7 +36,7 @@ _No items collected yet._
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-09-18 | Physical AI fever grips Korea’s IPO market as robot firms draw billions - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTE50SUdHb0NzWkNQOE9JQWVsSnk1a2lmc3hxQ1VnOEtYSG0xVHpnQWdkZ3MxWjJVb2p5VnR5bE1HTklFa2FIZmNvQldNODA2Ymg2R3RBVXpscEc3NndXdlZCbFIwYXVFaU5VZnlWZFE3Z2hNdw?oc=5) |
-| 2026-09-17 | 5 Interesting Startup Deals You May Have Missed: Floating Nuclear Power, Robot Report Cards And Voice AI For Farmers - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFdPbkV5OHg1WFJoRjlfYXR1Ym41SW5uc2VISFJoS0NTUDVFRHZjSkFpV2tSMER0Q2R4YzUtQlM5RlYzYTdJRDlaTjhuYXd0enU2QjNhU0dQME1vYjE4QmRDMnBlRmg2djI2Z1hXb2FRbWdqVmdqeDJQdDFUQU0tRWVub3Z6WVQyd3VFb2V1NGtBa1FjbDVzMHl1VW5ra1cyNUhJbXZuTQ?oc=5) |
-| 2026-09-17 | How Physical AI Security Firm Exein Hit a US$1.7bn Valuation - AI Magazine | physical ai startup | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMk1iTUV3M0Y1R3E3NmpCWUJEQzZlVXMzSG1HWUt4QlRSYm5CNDZnVVF5dHdTNUc5dmJwbktkbVptM2pTLTlFNWR6OGE2X2FHVEJEUGhyeGFfR1BrV0tXUVFKUzlIMnI0b2xGcjR2dXhjbThLVnVzd3hyUzBka3pyVC1lVmtNcFVPRjkxQ0p3?oc=5) |
+| 2026-09-18 | Founder of Chinese startup Spirit AI says robot brains set for 2027 breakthrough - Reuters | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaUV3UzJ5MVVnR0c2b0hlQ0s4OGZEWS01alZ1TldLbmR1ZFMtZFE1S0V6WFVTOEFnSXVfMlNmSWpYRl9LVDhha2dydmkyaGlUckpYVUxEdWgzWUNjMkx3ZmxQdGRFQ2ZDdHNUZzFkNWNQZU82RHRiSjYwUmlscjdVQmhxbktkdU94SEJub1hYUDBqNUtIY1M4bjl0a2lUV3U5Q09jbmpTRVNVQlAtNUlGY2RPMTFDdExuSzlWYU5vbkJZdGhwbmtV?oc=5) |
+| 2026-09-18 | China’s Spirit AI Says Humanoid Robot Brains Need Better Data - finimize.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ0ljMzVPQzhfbDVTNEozT2RKTUVWOXpTWFNSVkpieTl4cXhseEtZWFY4aDBHU3lUeE9jblpDQ05DT05DdXB1TUpuVUVYakVNd3gxZXZxNVVEWUowOGNVcFY5dFZpS1BGVng0SjNrYVphd2JFbjBBQTk1SUlHMnBWMTdYYTBaYTJLUWhTd1U2Uzk3eWs?oc=5) |
+| 2026-09-18 | San Francisco startup sends humanoid robots to clean homes for $30 an hour, but humans still control the - timesofindia.indiatimes.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimwJBVV95cUxPbVpnRS16UTNNNkt5ckoyU0dMSGlpN3VLcEdyQmhXYl9ONTlqRnRaUnNQRFVDZ0k5UGpyZThSYXI3dm1rMjEtdzh4TE9kWXNRd0Qzc3ljZjB1UThkMVF3cHhGMGxQcU5rLXNfMlNxTGczT3ZHVXZwQ0RNUllIdW1Td21WTWVkMnplVFdlZ1hJQkxLYy1ja3RVdk1icFNtUkp2MmlEbUJsSGVmTEVVY0NjSV8yaGxBV2Myb0VRZG9qakNEM1B3RkRWbVdPV0RoRWpaYmU4UmdJM3VONmdhUFMxMW1NbDdUUHVGZ2lKRUk2ZjM1VzNEZU5zVHJaMmxmQmo2bmQtVXVCaEJIa0R5cHpZMi1NRldQVmJNMW5J0gGgAkFVX3lxTFAtV0IzY3BsVzFKazVzMjRwd2VzemNPd0F5NjJQaXdWamNmSDdEbUxyT1pzcEp2N25BVm9kRVRYODZMa0JvN0hwenBQbmE2LUFMeERjSVZnd1JJZmxrNUg1U083N2I2U3JjZ2ZDSEl2Y1o2S091ZktvTlNoM3I1OUU2QXV4QVlVU2ZvTzV6bEJNLUdpc0VkNnBpaExNT3Jmb3o1d29SQnFNaWZkT3pSVDFTN2hvQzREaldnT2djUWlKSjBDTS1EQW5FcmpHZFdqWjRqMmoxVUdrMXYzSUY5ZlI2czlsNlRiSGNFRlJwOW51VHJmZksxZi1fcTJnTnVVOUNHWVZVTUZ0Sjl3TE1aSmVhZS1FUlRXRXZPVjZkUDZXcQ?oc=5) |
 | 2026-09-17 | Bain Capital Ventures Closes $1.6 Billion Fund XI To Back Early-Stage AI Startups: how 10 outlets framed it - NewsCord | physical ai startup | [link](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT0haYWxramZmWFNWNVBnU3VFWlg5OGlmSjB4TUQ5RHktQUpQVmw2eVlMbWdNV3VUamVyUTdqN1RCMzRzWDVPZDczOUNWUjN2OW4tUTg5WWh5blNYZms3SzA4R3ZGNEY4cjBMVk9jUnVtY2lsV3N1TUxyN2ZNTE01UkhRUEQ1QWVTaVM4NHU2VzByR1BTekgyb0kxbERpdHJfY3JCWll2ZGVoREprOWJFb1VqS2JJUWp2aDE0MUFHLVpDaHN3UGIxZHgxWUdsSFZsVXdVTlRUTU9DTGY3b0NWckhPNEtKM2hX?oc=5) |
-| 2026-09-17 | Embodied AI launches with International Consortium backing - Startupticker.ch | embodied ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0p4TGNMWHFJc0RvdmNWdWxnX0FkNHNSdllRUUZ6TmxMS1dnS0o0dkdSZDVsOElDU0lCMVNuTkkwTUtOY0VabGhybHp6MFFlWXhWb0ZZWVA3NTNhSDdTdC1remhFSURNdEw2c3V0bWJPZ29LRG9mbzdTSU1PQndxSm03dDVFQk9Banc3V3d5V2J6VWdWSXlSN2ZYNA?oc=5) |
