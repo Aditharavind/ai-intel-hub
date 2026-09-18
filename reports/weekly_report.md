@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-17 23:09 UTC
+Generated: 2026-09-18 01:40 UTC
 
 ## Top Papers
 _No items collected yet._
@@ -9,10 +9,10 @@ _No items collected yet._
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83524 | 33409.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63673 | 25469.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44559 | 17823.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30533 | 12213.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28259 | 11303.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| commaai/openpilot | 63675 | 25470.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44563 | 17825.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30534 | 12213.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28260 | 11304.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -35,8 +35,8 @@ _No items collected yet._
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-09-18 | Physical AI fever grips Korea’s IPO market as robot firms draw billions - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTE50SUdHb0NzWkNQOE9JQWVsSnk1a2lmc3hxQ1VnOEtYSG0xVHpnQWdkZ3MxWjJVb2p5VnR5bE1HTklFa2FIZmNvQldNODA2Ymg2R3RBVXpscEc3NndXdlZCbFIwYXVFaU5VZnlWZFE3Z2hNdw?oc=5) |
 | 2026-09-17 | 5 Interesting Startup Deals You May Have Missed: Floating Nuclear Power, Robot Report Cards And Voice AI For Farmers - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFdPbkV5OHg1WFJoRjlfYXR1Ym41SW5uc2VISFJoS0NTUDVFRHZjSkFpV2tSMER0Q2R4YzUtQlM5RlYzYTdJRDlaTjhuYXd0enU2QjNhU0dQME1vYjE4QmRDMnBlRmg2djI2Z1hXb2FRbWdqVmdqeDJQdDFUQU0tRWVub3Z6WVQyd3VFb2V1NGtBa1FjbDVzMHl1VW5ra1cyNUhJbXZuTQ?oc=5) |
-| 2026-09-17 | How Physical AI Security Firm Exein Hit a US$1.7bn Valuation - AI Magazine | physical ai startup | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMk1iTUV3M0Y1R3E3NmpCWUJEQzZlVXMzSG1HWUt4QlRSYm5CNDZnVVF5dHdTNUc5dmJwbktkbVptM2pTLTlFNWR6OGE2X2FHVEJEUGhyeGFfR1BrV0tXUVFKUzlIMnI0b2xGcjR2dXhjbThLVnVzd3hyUzBka3pyVC1lVmtNcFVPRjkxQ0p3?oc=5) |
+| 2026-09-17 | How Physical AI Security Firm Exein Hit a US$1.7bn Valuation - aimagazine.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMk1iTUV3M0Y1R3E3NmpCWUJEQzZlVXMzSG1HWUt4QlRSYm5CNDZnVVF5dHdTNUc5dmJwbktkbVptM2pTLTlFNWR6OGE2X2FHVEJEUGhyeGFfR1BrV0tXUVFKUzlIMnI0b2xGcjR2dXhjbThLVnVzd3hyUzBka3pyVC1lVmtNcFVPRjkxQ0p3?oc=5) |
 | 2026-09-17 | Embodied AI launches with International Consortium backing - Startupticker.ch | embodied ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0p4TGNMWHFJc0RvdmNWdWxnX0FkNHNSdllRUUZ6TmxMS1dnS0o0dkdSZDVsOElDU0lCMVNuTkkwTUtOY0VabGhybHp6MFFlWXhWb0ZZWVA3NTNhSDdTdC1remhFSURNdEw2c3V0bWJPZ29LRG9mbzdTSU1PQndxSm03dDVFQk9Banc3V3d5V2J6VWdWSXlSN2ZYNA?oc=5) |
-| 2026-09-16 | Exein becomes unicorn: Italian Physical AI security start-up valued at $1.7bn - Euronews.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONlhTWVN4bndHUzZaYjVObjZ4VV8tWVFOVTJNMkw4Nl9OSDJUTnBJRHVTeHhKbzJUX1BjcUlJVFFOTjdickVibkREdjBrdVM3VUgzbFBLN0dIMFhnTkpRNDhaX2N2dDZBZkZUakJJUWEzbXhDaWFFSEFvMnlhR20yZEQxdHBUNTVrYl9lM2VyeGNCdk0zV2JvRFduSkZKMVNwaktRaHA0S0QtYmVJRUQ3R2lyQm1OOHdMaVBR?oc=5) |
-| 2026-09-16 | Matter Venture Partners Closes $450 Million Fund II For HardTech, Robotics, And Physical AI Startups - Pulse 2.0 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTFAyOWRwRExScnA2Z0FScmE0cXRCWXpqRU9VdzNqOHhDb0F0N01IUHVRWHVzRVhMTUpDdExSYnBWU1hHRUMtbG5jcTk4XzFobHdPcWRGWGZMd0ZMR01xNWxtVExVRk41MnNTdFZDbXJpWm95dlltSTI2YnhB0gF_QVVfeXFMT2F5NDNEN3BKR0RlQVB5WVdTekk4SXdrUGxFTUc3R3h5OG00U3Nta1hGZUZ6UDEzMnRDbHhPYUZqT3BlQ3VIRHRCUmNBNHBrS2plb0NBSFI4QzBQcE0zS05EN01QQnpDWHk4ZWd2bmEyM3ZpUHpEbUZpV2lRU0dXaw?oc=5) |
+| 2026-09-17 | More support for AI startups to scale faster under new Singapore-Microsoft partnership - edb.gov.sg | embodied ai startup | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxQd2paN1lPdzY3ZlR0Mnd5MzgwYzVsSk5fQ3BnOHVMbElKbENxVGZaUzVyYnBvZ1FralNfcTJFOVlkM2xfcjBObkUwdXAzYzJjQ280UzBIa19CY2ZmVmdKTTJWaHRrVzE4dHZzR2NsV1hLOTBoR09tUHM1Wl9xQmtrb1NFTVlkc3dmU3UzSW5NdXZWT0ZQdmJfaVpUOWF6Z2xwdXBTTVBaLVJMRGZCTzZMVWJaWW12N0N1YnVURlAxMTFCVFh1bGc?oc=5) |
