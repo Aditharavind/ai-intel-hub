@@ -1,23 +1,23 @@
 [
   {
     "repo": "harvard-edge/cs249r_book",
-    "stars": 28314,
+    "stars": 28320,
     "language": "Python",
     "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
     "url": "https://github.com/harvard-edge/cs249r_book",
-    "date": "2026-09-18",
+    "date": "2026-09-19",
     "topic": "embodied-ai",
-    "score": 11325.7
+    "score": 11328.1
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 3349,
+    "stars": 3350,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
-    "date": "2026-09-18",
+    "date": "2026-09-19",
     "topic": "physical-ai",
-    "score": 1339.7
+    "score": 1340.1
   },
   {
     "repo": "copper-project/copper-rs",
@@ -25,9 +25,79 @@
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
-    "date": "2026-09-18",
+    "date": "2026-09-19",
     "topic": "physical-ai",
     "score": 596.9
+  },
+  {
+    "repo": "commaai/openpilot",
+    "stars": 63686,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-09-19",
+    "topic": "robotics",
+    "score": 25474.5
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "stars": 16080,
+    "language": "Python",
+    "description": "A library of agent skills for CAD, CAE and CAM",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "date": "2026-09-19",
+    "topic": "robotics",
+    "score": 6432.1
+  },
+  {
+    "repo": "dora-rs/dora",
+    "stars": 3966,
+    "language": "Rust",
+    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "url": "https://github.com/dora-rs/dora",
+    "date": "2026-09-19",
+    "topic": "embodied-ai",
+    "score": 1586.5
+  },
+  {
+    "repo": "sou350121/VLA-Handbook",
+    "stars": 628,
+    "language": "HTML",
+    "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
+    "url": "https://github.com/sou350121/VLA-Handbook",
+    "date": "2026-09-19",
+    "topic": "robot-learning",
+    "score": 251.3
+  },
+  {
+    "repo": "deeplethe/utopia",
+    "stars": 8235,
+    "language": "Rust",
+    "description": "World's first open-source enterprise world model.",
+    "url": "https://github.com/deeplethe/utopia",
+    "date": "2026-09-19",
+    "topic": "world-model",
+    "score": 3294.1
+  },
+  {
+    "repo": "Hebbian-Robotics/hflow",
+    "stars": 272,
+    "language": "Python",
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "date": "2026-09-19",
+    "topic": "lerobot",
+    "score": 108.9
+  },
+  {
+    "repo": "DexForce/EmbodiChain",
+    "stars": 225,
+    "language": "Python",
+    "description": "An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence.",
+    "url": "https://github.com/DexForce/EmbodiChain",
+    "date": "2026-09-19",
+    "topic": "robot-learning",
+    "score": 90.1
   },
   {
     "repo": "NVlabs/alpasim",
@@ -60,16 +130,6 @@
     "score": 190.9
   },
   {
-    "repo": "commaai/openpilot",
-    "stars": 63685,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-09-18",
-    "topic": "robotics",
-    "score": 25474.1
-  },
-  {
     "repo": "questdb/questdb",
     "stars": 17330,
     "language": "Java",
@@ -88,16 +148,6 @@
     "date": "2026-09-18",
     "topic": "robotics",
     "score": 6487.3
-  },
-  {
-    "repo": "earthtojake/text-to-cad",
-    "stars": 16079,
-    "language": "Python",
-    "description": "A library of agent skills for CAD, CAE and CAM",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "date": "2026-09-18",
-    "topic": "robotics",
-    "score": 6431.7
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -130,16 +180,6 @@
     "score": 2115.3
   },
   {
-    "repo": "dora-rs/dora",
-    "stars": 3965,
-    "language": "Rust",
-    "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
-    "url": "https://github.com/dora-rs/dora",
-    "date": "2026-09-18",
-    "topic": "embodied-ai",
-    "score": 1586.1
-  },
-  {
     "repo": "datawhalechina/every-embodied",
     "stars": 3756,
     "language": "Python",
@@ -148,16 +188,6 @@
     "date": "2026-09-18",
     "topic": "embodied-ai",
     "score": 1502.5
-  },
-  {
-    "repo": "sou350121/VLA-Handbook",
-    "stars": 628,
-    "language": "HTML",
-    "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
-    "url": "https://github.com/sou350121/VLA-Handbook",
-    "date": "2026-09-18",
-    "topic": "robot-learning",
-    "score": 251.3
   },
   {
     "repo": "baidu-baige/LoongForge",
@@ -170,24 +200,14 @@
     "score": 228.9
   },
   {
-    "repo": "deeplethe/utopia",
-    "stars": 8084,
-    "language": "Rust",
-    "description": "World's first open-source enterprise world model.",
-    "url": "https://github.com/deeplethe/utopia",
-    "date": "2026-09-18",
-    "topic": "world-model",
-    "score": 3233.7
-  },
-  {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6887,
+    "stars": 6889,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-09-18",
     "topic": "world-model",
-    "score": 2754.9
+    "score": 2755.7
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -198,6 +218,16 @@
     "date": "2026-09-18",
     "topic": "world-model",
     "score": 493.7
+  },
+  {
+    "repo": "OpenHUTB/hutb",
+    "stars": 602,
+    "language": "C++",
+    "description": "人车模拟器（Human-vehicle Simulator）",
+    "url": "https://github.com/OpenHUTB/hutb",
+    "date": "2026-09-18",
+    "topic": "humanoid",
+    "score": 240.9
   },
   {
     "repo": "ROBOTIS-GIT/ai_worker",
@@ -228,26 +258,6 @@
     "date": "2026-09-18",
     "topic": "robot-learning",
     "score": 3265.7
-  },
-  {
-    "repo": "Hebbian-Robotics/hflow",
-    "stars": 272,
-    "language": "Python",
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "date": "2026-09-18",
-    "topic": "lerobot",
-    "score": 108.9
-  },
-  {
-    "repo": "DexForce/EmbodiChain",
-    "stars": 225,
-    "language": "Python",
-    "description": "An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence.",
-    "url": "https://github.com/DexForce/EmbodiChain",
-    "date": "2026-09-18",
-    "topic": "robot-learning",
-    "score": 90.1
   },
   {
     "repo": "rokbenko/quackd",
@@ -281,13 +291,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44570,
+    "stars": 44571,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-09-17",
     "topic": "robotics",
-    "score": 17828.1
+    "score": 17828.5
   },
   {
     "repo": "flashrt-project/FlashRT",
@@ -298,16 +308,6 @@
     "date": "2026-09-17",
     "topic": "vla",
     "score": 232.5
-  },
-  {
-    "repo": "OpenHUTB/hutb",
-    "stars": 601,
-    "language": "C++",
-    "description": "人车模拟器（Human-vehicle Simulator）",
-    "url": "https://github.com/OpenHUTB/hutb",
-    "date": "2026-09-17",
-    "topic": "humanoid",
-    "score": 240.5
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",
@@ -331,23 +331,23 @@
   },
   {
     "repo": "dexmal/dexbotic",
-    "stars": 2037,
+    "stars": 2043,
     "language": "Python",
     "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
     "url": "https://github.com/dexmal/dexbotic",
     "date": "2026-09-16",
     "topic": "vla",
-    "score": 814.9
+    "score": 817.3
   },
   {
     "repo": "dexmal/opendm",
-    "stars": 1595,
+    "stars": 1610,
     "language": "Python",
     "description": "An Open-World Foundation Model for General-Purpose Embodied Intelligence.",
     "url": "https://github.com/dexmal/opendm",
     "date": "2026-09-16",
     "topic": "vla",
-    "score": 638.1
+    "score": 644.1
   },
   {
     "repo": "NVlabs/ProtoMotions",
@@ -391,23 +391,23 @@
   },
   {
     "repo": "Edgenesis/shifu",
-    "stars": 1435,
+    "stars": 1436,
     "language": "Go",
     "description": "Kubernetes-native IoT gateway",
     "url": "https://github.com/Edgenesis/shifu",
     "date": "2026-09-14",
     "topic": "physical-ai",
-    "score": 574.1
+    "score": 574.5
   },
   {
     "repo": "robocurve/inspect-robots",
-    "stars": 534,
+    "stars": 536,
     "language": "Python",
     "description": "Open source evals for physical AI. Run any LLM/VLA on any arm/humanoid against any real/sim benchmark.",
     "url": "https://github.com/robocurve/inspect-robots",
     "date": "2026-09-14",
     "topic": "vla",
-    "score": 213.7
+    "score": 214.5
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -481,13 +481,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2564,
+    "stars": 2565,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-09-13",
     "topic": "robot-learning",
-    "score": 1025.7
+    "score": 1026.1
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -511,13 +511,13 @@
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
-    "stars": 1659,
+    "stars": 1660,
     "language": "",
     "description": "A curated list of awesome robot descriptions (URDF, MJCF)",
     "url": "https://github.com/robot-descriptions/awesome-robot-descriptions",
     "date": "2026-09-12",
     "topic": "humanoid",
-    "score": 663.7
+    "score": 664.1
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",
@@ -531,23 +531,23 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS-core",
-    "stars": 2391,
+    "stars": 2393,
     "language": "Python",
     "description": "PhyAgentOS is a Recursive Self-Improving (RSI)  physical agent operating system that enables agents to recursively self-improve through agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
     "date": "2026-09-11",
     "topic": "embodied-ai",
-    "score": 956.5
+    "score": 957.3
   },
   {
     "repo": "NucleoidAI/Nucleoid",
-    "stars": 770,
+    "stars": 771,
     "language": "Rust",
     "description": "Logic Language for World Models 🌱🐋🌍",
     "url": "https://github.com/NucleoidAI/Nucleoid",
     "date": "2026-09-11",
     "topic": "world-model",
-    "score": 308.1
+    "score": 308.5
   },
   {
     "repo": "RobotecAI/rai",
@@ -571,13 +571,13 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13819,
+    "stars": 13820,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-09-09",
     "topic": "robotics",
-    "score": 5527.7
+    "score": 5528.1
   },
   {
     "repo": "Matrixchung/iFOC",
