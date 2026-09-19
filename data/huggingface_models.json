@@ -1,5 +1,41 @@
 [
   {
+    "model": "Riasok/pi05-robot-checkpoints-20260912",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912",
+    "date": "2026-09-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "taeyoungrlwlrd/cosmos3-ap-openarm-wam-robot-auxonly-hi-movonly-lam10-aug-4gpu-b256-4k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/taeyoungrlwlrd/cosmos3-ap-openarm-wam-robot-auxonly-hi-movonly-lam10-aug-4gpu-b256-4k",
+    "date": "2026-09-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "kimtaey/cosmos3-ap-openarm-wam-robot-auxonly-hi-movonly-lam10-aug-4gpu-b256-4k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kimtaey/cosmos3-ap-openarm-wam-robot-auxonly-hi-movonly-lam10-aug-4gpu-b256-4k",
+    "date": "2026-09-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "SidneyXie/robotwin_piper_x_sim_real",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SidneyXie/robotwin_piper_x_sim_real",
+    "date": "2026-09-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "jungwook2358/allex-eef-N-robotonly-h16",
     "downloads": 0,
     "likes": 0,
@@ -22,15 +58,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/taeyoungrlwlrd/cosmos3-ap-openarm-wam-robot-ours-aug-v2v-b256-4k",
-    "date": "2026-09-19",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Riasok/pi05-robot-checkpoints-20260912",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912",
     "date": "2026-09-19",
     "keyword": "robot",
     "score": 0.1
@@ -81,91 +108,28 @@
     "score": 0.1
   },
   {
-    "model": "a5ilank/curious-robot",
-    "downloads": 0,
-    "likes": 2,
-    "url": "https://huggingface.co/a5ilank/curious-robot",
-    "date": "2026-09-19",
-    "keyword": "robot",
-    "score": 0.5
-  },
-  {
-    "model": "mim-chess-vlas/train_800_complex__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "model": "vladlen-beilik/ltx-2.5-runpod",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/vladlen-beilik/ltx-2.5-runpod",
     "date": "2026-09-19",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/train_800_sparse__no_mask__pi0__seed_0",
+    "model": "mim-chess-vlas/train_800_sparse__bbox__overlay_a75__sim__all_cameras__live__smolvla__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__no_mask__pi0__seed_0",
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__bbox__overlay_a75__sim__all_cameras__live__smolvla__seed_0",
     "date": "2026-09-19",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/train_800_dense__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "model": "mim-chess-vlas/train_800_complex__point__overlay_a75__sim__all_cameras__live__smolvla__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "date": "2026-09-19",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_complex__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "date": "2026-09-19",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_sparse__mask_a75__ur5e__pi05__seed_0__ab_b30",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__mask_a75__ur5e__pi05__seed_0__ab_b30",
-    "date": "2026-09-19",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_complex__mask__blackout__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__mask__blackout__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-19",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_complex__bbox__blackout_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__bbox__blackout_a50__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-19",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_dense__bbox__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__bbox__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "date": "2026-09-19",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_complex__bbox__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__bbox__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__point__overlay_a75__sim__all_cameras__live__smolvla__seed_0",
     "date": "2026-09-19",
     "keyword": "vla",
     "score": 0.1
@@ -180,19 +144,73 @@
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "model": "mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__all_cameras__live__smolvla__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__all_cameras__live__smolvla__seed_0",
     "date": "2026-09-19",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/train_800_dense__no_mask__groot__seed_0",
+    "model": "mim-chess-vlas/train_800_complex__no_mask__smolvla__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__no_mask__groot__seed_0",
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__no_mask__smolvla__seed_0",
+    "date": "2026-09-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_complex__bbox__overlay_a75__sim__all_cameras__live__smolvla__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__bbox__overlay_a75__sim__all_cameras__live__smolvla__seed_0",
+    "date": "2026-09-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_dense__point__overlay_a75__sim__all_cameras__live__smolvla__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__point__overlay_a75__sim__all_cameras__live__smolvla__seed_0",
+    "date": "2026-09-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_dense__no_mask__smolvla__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__no_mask__smolvla__seed_0",
+    "date": "2026-09-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_sparse__mask__overlay_a75__sim__all_cameras__live__smolvla__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__mask__overlay_a75__sim__all_cameras__live__smolvla__seed_0",
+    "date": "2026-09-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_dense__bbox__overlay_a75__sim__all_cameras__live__smolvla__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__bbox__overlay_a75__sim__all_cameras__live__smolvla__seed_0",
+    "date": "2026-09-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_sparse__point__overlay_a75__sim__all_cameras__live__smolvla__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__point__overlay_a75__sim__all_cameras__live__smolvla__seed_0",
     "date": "2026-09-19",
     "keyword": "vla",
     "score": 0.1
@@ -268,24 +286,6 @@
     "date": "2026-09-19",
     "keyword": "policy",
     "score": 5.5
-  },
-  {
-    "model": "taeyoungrlwlrd/cosmos3-ap-openarm-wam-robot-aug-b256-4k",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/taeyoungrlwlrd/cosmos3-ap-openarm-wam-robot-aug-b256-4k",
-    "date": "2026-09-18",
-    "keyword": "robot",
-    "score": 2.8
-  },
-  {
-    "model": "InfectV22/dual_cam_robot_model",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/InfectV22/dual_cam_robot_model",
-    "date": "2026-09-18",
-    "keyword": "robot",
-    "score": 6.7
   },
   {
     "model": "commaai/worldmodel-4B",
