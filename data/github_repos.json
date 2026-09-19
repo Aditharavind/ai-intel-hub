@@ -1,13 +1,13 @@
 [
   {
     "repo": "harvard-edge/cs249r_book",
-    "stars": 28354,
+    "stars": 28359,
     "language": "Python",
     "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
     "url": "https://github.com/harvard-edge/cs249r_book",
     "date": "2026-09-19",
     "topic": "embodied-ai",
-    "score": 11341.7
+    "score": 11343.7
   },
   {
     "repo": "NVIDIA/skills",
@@ -31,13 +31,13 @@
   },
   {
     "repo": "pnoker/iot-dc3",
-    "stars": 1284,
+    "stars": 1285,
     "language": "Java",
     "description": "IoT DC3 — Connect the Physical World to AI. An open-source Industrial IoT Runtime for Physical AI: 36 protocol drivers, edge-to-cloud data delivery, and an MCP tool gateway so AI agents act on devices in a safe, controllable, traceable loop.",
     "url": "https://github.com/pnoker/iot-dc3",
     "date": "2026-09-19",
     "topic": "physical-ai",
-    "score": 513.7
+    "score": 514.1
   },
   {
     "repo": "Developer-Y/cs-video-courses",
@@ -51,13 +51,13 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63683,
+    "stars": 63682,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-09-19",
     "topic": "robotics",
-    "score": 25473.3
+    "score": 25472.9
   },
   {
     "repo": "questdb/questdb",
@@ -71,13 +71,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 16141,
+    "stars": 16145,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-09-19",
     "topic": "robotics",
-    "score": 6456.5
+    "score": 6458.1
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -141,23 +141,23 @@
   },
   {
     "repo": "deeplethe/utopia",
-    "stars": 8976,
+    "stars": 8980,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-09-19",
     "topic": "world-model",
-    "score": 3590.5
+    "score": 3592.1
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6904,
+    "stars": 6905,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-09-19",
     "topic": "world-model",
-    "score": 2761.7
+    "score": 2762.1
   },
   {
     "repo": "isaac-sim/IsaacLab",
@@ -261,13 +261,13 @@
   },
   {
     "repo": "OpenHUTB/hutb",
-    "stars": 603,
+    "stars": 604,
     "language": "C++",
     "description": "人车模拟器（Human-vehicle Simulator）",
     "url": "https://github.com/OpenHUTB/hutb",
     "date": "2026-09-18",
     "topic": "humanoid",
-    "score": 241.3
+    "score": 241.7
   },
   {
     "repo": "ROBOTIS-GIT/ai_worker",
@@ -330,6 +330,26 @@
     "score": 319.3
   },
   {
+    "repo": "dexmal/opendm",
+    "stars": 2037,
+    "language": "Python",
+    "description": "An Open-World Foundation Model for General-Purpose Embodied Intelligence.",
+    "url": "https://github.com/dexmal/opendm",
+    "date": "2026-09-16",
+    "topic": "vla",
+    "score": 814.9
+  },
+  {
+    "repo": "dexmal/dexbotic",
+    "stars": 2388,
+    "language": "Python",
+    "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
+    "url": "https://github.com/dexmal/dexbotic",
+    "date": "2026-09-16",
+    "topic": "vla",
+    "score": 955.3
+  },
+  {
     "repo": "leofan90/Awesome-World-Models",
     "stars": 2020,
     "language": "Python",
@@ -338,26 +358,6 @@
     "date": "2026-09-16",
     "topic": "world-model",
     "score": 808.1
-  },
-  {
-    "repo": "dexmal/dexbotic",
-    "stars": 2345,
-    "language": "Python",
-    "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
-    "url": "https://github.com/dexmal/dexbotic",
-    "date": "2026-09-16",
-    "topic": "vla",
-    "score": 938.1
-  },
-  {
-    "repo": "dexmal/opendm",
-    "stars": 1981,
-    "language": "Python",
-    "description": "An Open-World Foundation Model for General-Purpose Embodied Intelligence.",
-    "url": "https://github.com/dexmal/opendm",
-    "date": "2026-09-16",
-    "topic": "vla",
-    "score": 792.5
   },
   {
     "repo": "NVlabs/ProtoMotions",
@@ -411,13 +411,13 @@
   },
   {
     "repo": "robocurve/inspect-robots",
-    "stars": 544,
+    "stars": 548,
     "language": "Python",
     "description": "Open source evals for physical AI. Run any LLM/VLA on any arm/humanoid against any real/sim benchmark.",
     "url": "https://github.com/robocurve/inspect-robots",
     "date": "2026-09-14",
     "topic": "vla",
-    "score": 217.7
+    "score": 219.3
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -481,13 +481,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2572,
+    "stars": 2575,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-09-13",
     "topic": "robot-learning",
-    "score": 1028.9
+    "score": 1030.1
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -531,13 +531,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS-core",
-    "stars": 2408,
+    "stars": 2409,
     "language": "Python",
     "description": "PhyAgentOS is a Recursive Self-Improving (RSI)  physical agent operating system that enables agents to recursively self-improve through agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
     "date": "2026-09-11",
     "topic": "embodied-ai",
-    "score": 963.3
+    "score": 963.7
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -571,13 +571,13 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13820,
+    "stars": 13821,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-09-09",
     "topic": "robotics",
-    "score": 5528.1
+    "score": 5528.5
   },
   {
     "repo": "Matrixchung/iFOC",
@@ -591,13 +591,13 @@
   },
   {
     "repo": "PetoiCamp/OpenCat-Quadruped-Robot",
-    "stars": 5339,
+    "stars": 5340,
     "language": "C++",
     "description": "An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development. ",
     "url": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot",
     "date": "2026-09-08",
     "topic": "physical-ai",
-    "score": 2135.7
+    "score": 2136.1
   },
   {
     "repo": "PetoiCamp/OpenCat-Old",
@@ -631,13 +631,13 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 2203,
+    "stars": 2204,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-09-08",
     "topic": "world-model",
-    "score": 881.3
+    "score": 881.7
   },
   {
     "repo": "vikashplus/robohive",

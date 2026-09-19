@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-19 17:30 UTC
+Generated: 2026-09-19 19:37 UTC
 
 ## Top Papers
 _No items collected yet._
@@ -9,10 +9,10 @@ _No items collected yet._
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83541 | 33416.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63683 | 25473.3 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63682 | 25472.9 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44571 | 17828.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30543 | 12217.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28354 | 11341.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28359 | 11343.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -38,5 +38,5 @@ _No items collected yet._
 | 2026-09-19 | US startup builder Vantora raises $100m for physical AI ventures - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVd2YzB2RERmRVdsNWVSN3RTazhPNks2cF9KUmFjUmR0Ry02NlREcTZhZkpvWHM0SWI4V2cwczFPVnJmSHljS1RDYzFYUjhOenF1Z24xdXdfb1Boc1hOUjhiUWJCdnhWRVUwVW1ZNWdyNk02TWR6aXY2MF9lTWlfREE5Zl95U2RKc2ZEd05tTUZWdw?oc=5) |
 | 2026-09-19 | Vantora Raises $100 Million to Build Corporate Startups for Physical AI | Ukraine news - #Mezha - Межа. Новини України. | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ySFBzTWhfZ2xfcWhFSGN5N0h4MDNHQ3dMSzJuOHFfcUNSMEE2aTlzZUlDRjNQaXV4eUQzU09XTWpXUWFrY0FuMFMyY0dUeGlnWXhDbXlGd2xpMVRhYTQ3SmdBQmRLdnM?oc=5) |
 | 2026-09-18 | A startup that builds other startups raised $100M and is all-in on physical AI - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHZsWXJaaWFuNUhMLTN6aXp4NVpVOFNlUXpzT01iMVNSVW9hdUFfTk1DTUVrRFNrSGNXbm96Vm5PSmprR1EybXhvUm1HcFg2NG1zVkhRbmdISmNvYmV3VC1TUi1kM2VaTUc2UVdhMW91MHhSTmFkS19qb25mTTFOT2hURV8zbWlFUUhGbWJwbFE5QWlpLVIxVTBwM29RalNiNy0zY1RVODUyMmJIVWFrczdn?oc=5) |
-| 2026-09-18 | Vantora Raises $100M to Build Physical AI Startups - techbuzz.ai | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxQeThwNWVSS1MxczczdmJOem0zM0NldENjeDFBNzhaMXBoWkU2Yl9iSnRGV3ZQSk9YZ2VNVC0tTkg0cTlBZENfMjF6QkJhX1hkU2lnZ2lNWDNSSEU1bER1Q0F0NVRPcXhkQnBLek9sZk1GNGNvQ0dQNzVsNHdlWWlGUXBFZ1VfRzhUc0E?oc=5) |
-| 2026-09-18 | A startup that builds other startups raised $100M, and is all-in on physical AI - finance.yahoo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMDN0dzRUS0UydGRMaTAzSkZmWDZ2NHZmWHp0THFxOTE4cEwwZjZEWWZPTEtOUVcyMGdUM0R3S2JvUUUxenR5T09ZdzYyNUtCbEpTSWRTS1lwUXFwTzJTUkRHVVA4SWszYUtVeXlGMVdRNDlmREducFhWTjA5aVlQelBsYkJKcnl6LVFCTy1WWjdoc0tqY1JRX2RiUktNdm91UVE?oc=5) |
+| 2026-09-18 | Vantora Raises $100M to Build Physical AI Startups - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxQeThwNWVSS1MxczczdmJOem0zM0NldENjeDFBNzhaMXBoWkU2Yl9iSnRGV3ZQSk9YZ2VNVC0tTkg0cTlBZENfMjF6QkJhX1hkU2lnZ2lNWDNSSEU1bER1Q0F0NVRPcXhkQnBLek9sZk1GNGNvQ0dQNzVsNHdlWWlGUXBFZ1VfRzhUc0E?oc=5) |
+| 2026-09-18 | A startup that builds other startups raised $100M, and is all-in on physical AI - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMDN0dzRUS0UydGRMaTAzSkZmWDZ2NHZmWHp0THFxOTE4cEwwZjZEWWZPTEtOUVcyMGdUM0R3S2JvUUUxenR5T09ZdzYyNUtCbEpTSWRTS1lwUXFwTzJTUkRHVVA4SWszYUtVeXlGMVdRNDlmREducFhWTjA5aVlQelBsYkJKcnl6LVFCTy1WWjdoc0tqY1JRX2RiUktNdm91UVE?oc=5) |
