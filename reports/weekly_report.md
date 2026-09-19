@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-19 06:43 UTC
+Generated: 2026-09-19 11:38 UTC
 
 ## Top Papers
 _No items collected yet._
@@ -8,20 +8,20 @@ _No items collected yet._
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83536 | 33414.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83537 | 33414.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63685 | 25474.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44572 | 17828.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30538 | 12215.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28335 | 11334.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NaiboWang/EasySpider | 44571 | 17828.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30542 | 12216.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28339 | 11335.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 157 | 47.2 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
-| Tron-Hayato/smolvla-policy-test | 107 | 32.2 | [link](https://huggingface.co/Tron-Hayato/smolvla-policy-test) |
+| ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 159 | 47.8 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
 | jagwang/mungkeul-physical-ai | 87 | 26.2 | [link](https://huggingface.co/jagwang/mungkeul-physical-ai) |
-| DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy | 58 | 17.9 | [link](https://huggingface.co/DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy) |
-| ubr-physical-ai/Cosmos3-Edge-NF4-bnb | 54 | 16.3 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-NF4-bnb) |
+| ubr-physical-ai/Cosmos3-Edge-NF4-bnb | 78 | 23.5 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-NF4-bnb) |
+| MakinoKF/final_demo_pick_nut_right_20260917_111734_act-policy-v1 | 69 | 20.8 | [link](https://huggingface.co/MakinoKF/final_demo_pick_nut_right_20260917_111734_act-policy-v1) |
+| DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy | 59 | 18.2 | [link](https://huggingface.co/DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -35,8 +35,8 @@ _No items collected yet._
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-09-19 | Vantora raises $100 million to build physical AI startups for corporates - ET Enterprise AI | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU0V5dTNnZDhZS0V0RnE0ZWJDVGZhNXhIOEJNNUxMcXhkMXM4S1VCV0VjQ0FzZi1NcUQ2Ry0waWlQb0NwbzFpZ1RqakJPVko2MXFOUk9iV0FQbDM3OGdneGlIeGd2OWV5M3ZiRUkzcWNhS1BVb3JyRjhxN1pnU2FtOWpOTER0YUxpeThDUXo1MGJ4cllmWlh3VGoySVRGeGhpbUpCcnU1WnJ6Tl9ERnlTdXpadzU3N0VxTUNuNUlDY04tTVl5MUExd1c4VWNDTG5jTkFJSktxNG9EclpMTEHSAeMBQVVfeXFMTW9adTZTSXJyTGdDdXRqYUMzUjRrUThqMHMtak5PUHlUaXBkU2FJSjVtVnhQemxsOTlJb211Qnhwa2IxWkFteTRPQlJLRE4yUnV4VUU0YXA0dnpVMUtfY2VyZkFYYTZJMG8ydkFXWjZ4bzB4ZHJELWRCX2J3WVhxZkktUXBVZWxCMnQ0Z1o3RnEwTFQyck8zUDR5VTQtZEotc3BtN0RYdUhPM1VlTDZDZGFhNFp2RE53SGtpa19xYWRJcjVJWDVETXJkaVJvQ2tGeEI0d25sSEdaQlpjaDNHTWluLVU?oc=5) |
+| 2026-09-19 | US startup builder Vantora raises $100m for physical AI ventures - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVd2YzB2RERmRVdsNWVSN3RTazhPNks2cF9KUmFjUmR0Ry02NlREcTZhZkpvWHM0SWI4V2cwczFPVnJmSHljS1RDYzFYUjhOenF1Z24xdXdfb1Boc1hOUjhiUWJCdnhWRVUwVW1ZNWdyNk02TWR6aXY2MF9lTWlfREE5Zl95U2RKc2ZEd05tTUZWdw?oc=5) |
 | 2026-09-19 | Vantora Raises $100 Million to Build Corporate Startups for Physical AI | Ukraine news - #Mezha - Межа. Новини України. | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ySFBzTWhfZ2xfcWhFSGN5N0h4MDNHQ3dMSzJuOHFfcUNSMEE2aTlzZUlDRjNQaXV4eUQzU09XTWpXUWFrY0FuMFMyY0dUeGlnWXhDbXlGd2xpMVRhYTQ3SmdBQmRLdnM?oc=5) |
-| 2026-09-18 | A startup that builds other startups raised $100M and is all-in on physical AI - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHZsWXJaaWFuNUhMLTN6aXp4NVpVOFNlUXpzT01iMVNSVW9hdUFfTk1DTUVrRFNrSGNXbm96Vm5PSmprR1EybXhvUm1HcFg2NG1zVkhRbmdISmNvYmV3VC1TUi1kM2VaTUc2UVdhMW91MHhSTmFkS19qb25mTTFOT2hURV8zbWlFUUhGbWJwbFE5QWlpLVIxVTBwM29RalNiNy0zY1RVODUyMmJIVWFrczdn?oc=5) |
+| 2026-09-18 | A startup that builds other startups raised $100M and is all-in on physical AI - techcrunch.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHZsWXJaaWFuNUhMLTN6aXp4NVpVOFNlUXpzT01iMVNSVW9hdUFfTk1DTUVrRFNrSGNXbm96Vm5PSmprR1EybXhvUm1HcFg2NG1zVkhRbmdISmNvYmV3VC1TUi1kM2VaTUc2UVdhMW91MHhSTmFkS19qb25mTTFOT2hURV8zbWlFUUhGbWJwbFE5QWlpLVIxVTBwM29RalNiNy0zY1RVODUyMmJIVWFrczdn?oc=5) |
 | 2026-09-18 | A startup that builds other startups raised $100M, and is all-in on physical AI - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMDN0dzRUS0UydGRMaTAzSkZmWDZ2NHZmWHp0THFxOTE4cEwwZjZEWWZPTEtOUVcyMGdUM0R3S2JvUUUxenR5T09ZdzYyNUtCbEpTSWRTS1lwUXFwTzJTUkRHVVA4SWszYUtVeXlGMVdRNDlmREducFhWTjA5aVlQelBsYkJKcnl6LVFCTy1WWjdoc0tqY1JRX2RiUktNdm91UVE?oc=5) |
-| 2026-09-18 | Vantora Raises $100M to Build Physical AI Startups - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxQeThwNWVSS1MxczczdmJOem0zM0NldENjeDFBNzhaMXBoWkU2Yl9iSnRGV3ZQSk9YZ2VNVC0tTkg0cTlBZENfMjF6QkJhX1hkU2lnZ2lNWDNSSEU1bER1Q0F0NVRPcXhkQnBLek9sZk1GNGNvQ0dQNzVsNHdlWWlGUXBFZ1VfRzhUc0E?oc=5) |
-| 2026-09-18 | Physical AI fever grips Korea’s IPO market as robot firms draw billions - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTE50SUdHb0NzWkNQOE9JQWVsSnk1a2lmc3hxQ1VnOEtYSG0xVHpnQWdkZ3MxWjJVb2p5VnR5bE1HTklFa2FIZmNvQldNODA2Ymg2R3RBVXpscEc3NndXdlZCbFIwYXVFaU5VZnlWZFE3Z2hNdw?oc=5) |
