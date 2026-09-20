@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-20 19:06 UTC
+Last Updated: 2026-09-20 21:56 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-20 | Ski Lift Removes Mice from Chicken Coop | Hackaday | [link](https://hackaday.com/2026/09/20/ski-lift-removes-mice-from-chicken-coop/) |
 | 2026-09-20 | World War I Coded Message Appears Cracked, Finally | Hackaday | [link](https://hackaday.com/2026/09/20/world-war-i-coded-message-appears-cracked-finally/) |
 | 2026-09-20 | Reverse Engineering A Sony Car Stereo LCD | Hackaday | [link](https://hackaday.com/2026/09/20/reverse-engineering-a-sony-car-stereo-lcd/) |
 | 2026-09-20 | A Bandpass Filter Pulls In The Signals | Hackaday | [link](https://hackaday.com/2026/09/20/a-bandpass-filter-pulls-in-the-signals/) |
@@ -56,9 +57,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-20 | Teardown and Repair of an Insoma Water Timer | Hackaday | [link](https://hackaday.com/2026/09/19/teardown-and-repair-of-a-insoma-water-timer/) |
 | 2026-09-20 | Laser Your Way into Debug Mode on the RP2350 | Hackaday | [link](https://hackaday.com/2026/09/19/laser-your-way-into-debug-mode-on-the-rp2350/) |
 | 2026-09-20 | High-end 8-channel oscilloscope features 12-core AMD EPYC CPU, 96GB RAM, 15.6-inch display, and more | CNX Software | [link](https://www.cnx-software.com/2026/09/20/high-end-8-channel-oscilloscope-features-12-core-amd-epyc-cpu-96gb-ram-15-6-inch-display/) |
+| 2026-09-20 | Adafruit Weekly Editorial Round-Up: CircuitPython Turbo, Back at Ladyada’s Desk and More! | Adafruit | [link](https://blog.adafruit.com/2026/09/20/adafruit-weekly-editorial-round-up-circuitpython-turbo-back-at-ladyadas-desk-and-more/) |
 | 2026-09-20 | exonemo: Terminal at NowHere NYC #Sisyphus | Adafruit | [link](https://blog.adafruit.com/2026/09/20/exonemo-terminal-at-nowhere-nyc-sisyphus/) |
-| 2026-09-20 | Adafruit New Products this Week | Adafruit | [link](https://blog.adafruit.com/2026/09/19/adafruit-new-products-this-week-3/) |
-| 2026-09-19 | A Hotspot Becomes A Handheld | Hackaday | [link](https://hackaday.com/2026/09/19/a-hotspot-becomes-a-handheld/) |
 
 ## New Research Papers
 _No items collected yet._
@@ -80,16 +80,16 @@ _No items collected yet._
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28379 | Python | 11351.7 | [link](https://github.com/harvard-edge/cs249r_book) |
-| pnoker/iot-dc3 | 1286 | Java | 514.5 | [link](https://github.com/pnoker/iot-dc3) |
-| robocurve/inspect-robots | 569 | Python | 227.7 | [link](https://github.com/robocurve/inspect-robots) |
+| harvard-edge/cs249r_book | 28380 | Python | 11352.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| copper-project/copper-rs | 1495 | Rust | 598.1 | [link](https://github.com/copper-project/copper-rs) |
+| pnoker/iot-dc3 | 1287 | Java | 514.9 | [link](https://github.com/pnoker/iot-dc3) |
+| robocurve/inspect-robots | 570 | Python | 228.1 | [link](https://github.com/robocurve/inspect-robots) |
 | commaai/openpilot | 63694 | Python | 25477.7 | [link](https://github.com/commaai/openpilot) |
 | questdb/questdb | 17332 | Java | 6932.9 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 16185 | Python | 6474.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| google-deepmind/mujoco | 15241 | C++ | 6096.5 | [link](https://github.com/google-deepmind/mujoco) |
-| RLinf/RLinf | 5308 | Python | 2123.3 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 3970 | Rust | 1588.1 | [link](https://github.com/dora-rs/dora) |
-| datawhalechina/every-embodied | 3788 | Python | 1515.3 | [link](https://github.com/datawhalechina/every-embodied) |
+| earthtojake/text-to-cad | 16186 | Python | 6474.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| ArduPilot/ardupilot | 15906 | C++ | 6362.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 15240 | C++ | 6096.1 | [link](https://github.com/google-deepmind/mujoco) |
+| RLinf/RLinf | 5309 | Python | 2123.7 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
