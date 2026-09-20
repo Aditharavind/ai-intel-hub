@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-20 21:56 UTC
+Last Updated: 2026-09-20 23:41 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-20 | Reviving TEMPEST Attacks with an Injected Signal | Hackaday | [link](https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/) |
 | 2026-09-20 | Ski Lift Removes Mice from Chicken Coop | Hackaday | [link](https://hackaday.com/2026/09/20/ski-lift-removes-mice-from-chicken-coop/) |
 | 2026-09-20 | World War I Coded Message Appears Cracked, Finally | Hackaday | [link](https://hackaday.com/2026/09/20/world-war-i-coded-message-appears-cracked-finally/) |
 | 2026-09-20 | Reverse Engineering A Sony Car Stereo LCD | Hackaday | [link](https://hackaday.com/2026/09/20/reverse-engineering-a-sony-car-stereo-lcd/) |
 | 2026-09-20 | A Bandpass Filter Pulls In The Signals | Hackaday | [link](https://hackaday.com/2026/09/20/a-bandpass-filter-pulls-in-the-signals/) |
 | 2026-09-20 | No GPU, No Problem: Flagship LLMs on a GPU-less Teenaged Server | Hackaday | [link](https://hackaday.com/2026/09/20/no-gpu-no-problem-flagship-llms-on-a-gpu-less-teenaged-server/) |
 | 2026-09-20 | Teardown and Repair of an Insoma Water Timer | Hackaday | [link](https://hackaday.com/2026/09/19/teardown-and-repair-of-a-insoma-water-timer/) |
-| 2026-09-20 | Laser Your Way into Debug Mode on the RP2350 | Hackaday | [link](https://hackaday.com/2026/09/19/laser-your-way-into-debug-mode-on-the-rp2350/) |
 | 2026-09-20 | High-end 8-channel oscilloscope features 12-core AMD EPYC CPU, 96GB RAM, 15.6-inch display, and more | CNX Software | [link](https://www.cnx-software.com/2026/09/20/high-end-8-channel-oscilloscope-features-12-core-amd-epyc-cpu-96gb-ram-15-6-inch-display/) |
 | 2026-09-20 | Adafruit Weekly Editorial Round-Up: CircuitPython Turbo, Back at Ladyada’s Desk and More! | Adafruit | [link](https://blog.adafruit.com/2026/09/20/adafruit-weekly-editorial-round-up-circuitpython-turbo-back-at-ladyadas-desk-and-more/) |
 | 2026-09-20 | exonemo: Terminal at NowHere NYC #Sisyphus | Adafruit | [link](https://blog.adafruit.com/2026/09/20/exonemo-terminal-at-nowhere-nyc-sisyphus/) |
@@ -80,15 +80,15 @@ _No items collected yet._
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28380 | Python | 11352.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28382 | Python | 11352.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 | copper-project/copper-rs | 1495 | Rust | 598.1 | [link](https://github.com/copper-project/copper-rs) |
 | pnoker/iot-dc3 | 1287 | Java | 514.9 | [link](https://github.com/pnoker/iot-dc3) |
 | robocurve/inspect-robots | 570 | Python | 228.1 | [link](https://github.com/robocurve/inspect-robots) |
 | commaai/openpilot | 63694 | Python | 25477.7 | [link](https://github.com/commaai/openpilot) |
 | questdb/questdb | 17332 | Java | 6932.9 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 16186 | Python | 6474.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 16187 | Python | 6474.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | ArduPilot/ardupilot | 15906 | C++ | 6362.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 15240 | C++ | 6096.1 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 15241 | C++ | 6096.5 | [link](https://github.com/google-deepmind/mujoco) |
 | RLinf/RLinf | 5309 | Python | 2123.7 | [link](https://github.com/RLinf/RLinf) |
 
 ## Startup Funding
@@ -113,8 +113,8 @@ _No items collected yet._
 | 2026-09-19 | Vantora Raises $100 Million to Build Corporate Startups for Physical AI | Ukraine news - #Mezha - Межа. Новини України. | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ySFBzTWhfZ2xfcWhFSGN5N0h4MDNHQ3dMSzJuOHFfcUNSMEE2aTlzZUlDRjNQaXV4eUQzU09XTWpXUWFrY0FuMFMyY0dUeGlnWXhDbXlGd2xpMVRhYTQ3SmdBQmRLdnM?oc=5) |
 | 2026-09-19 | US startup builder Vantora raises $100m for physical AI ventures - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVd2YzB2RERmRVdsNWVSN3RTazhPNks2cF9KUmFjUmR0Ry02NlREcTZhZkpvWHM0SWI4V2cwczFPVnJmSHljS1RDYzFYUjhOenF1Z24xdXdfb1Boc1hOUjhiUWJCdnhWRVUwVW1ZNWdyNk02TWR6aXY2MF9lTWlfREE5Zl95U2RKc2ZEd05tTUZWdw?oc=5) |
 | 2026-09-19 | 3 American Humanoid Robot Companies To Invest In: RoboStrategy CEO - Forbes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1ZiQnVkdU83a0xQSk5JSVZWYUE5dmd0VlhoVnh3azd5LUFkaHoxWXhCUEItRldkVzRaclN5NGNjT1NoVVAyeTZtLTlWM2NiOWh0LTZ5cWZVUFZhNXVYNHpDUldNMHZFT2lUNTI5YUJEeml5M2RVdGhKUzQ1UVlObEowWDBDUGs0Z19xVl9HNWFVaGFIeUFLNW5XR1p0amJmR3hMcjlaaEpYdnhmb2dqTTNwSWcyOHVudmxV?oc=5) |
-| 2026-09-18 | A startup that builds other startups raised $100M and is all-in on physical AI - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHZsWXJaaWFuNUhMLTN6aXp4NVpVOFNlUXpzT01iMVNSVW9hdUFfTk1DTUVrRFNrSGNXbm96Vm5PSmprR1EybXhvUm1HcFg2NG1zVkhRbmdISmNvYmV3VC1TUi1kM2VaTUc2UVdhMW91MHhSTmFkS19qb25mTTFOT2hURV8zbWlFUUhGbWJwbFE5QWlpLVIxVTBwM29RalNiNy0zY1RVODUyMmJIVWFrczdn?oc=5) |
 | 2026-09-18 | A startup that builds other startups raised $100M and is all-in on physical AI - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMDN0dzRUS0UydGRMaTAzSkZmWDZ2NHZmWHp0THFxOTE4cEwwZjZEWWZPTEtOUVcyMGdUM0R3S2JvUUUxenR5T09ZdzYyNUtCbEpTSWRTS1lwUXFwTzJTUkRHVVA4SWszYUtVeXlGMVdRNDlmREducFhWTjA5aVlQelBsYkJKcnl6LVFCTy1WWjdoc0tqY1JRX2RiUktNdm91UVE?oc=5) |
+| 2026-09-18 | A startup that builds other startups raised $100M and is all-in on physical AI - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHZsWXJaaWFuNUhMLTN6aXp4NVpVOFNlUXpzT01iMVNSVW9hdUFfTk1DTUVrRFNrSGNXbm96Vm5PSmprR1EybXhvUm1HcFg2NG1zVkhRbmdISmNvYmV3VC1TUi1kM2VaTUc2UVdhMW91MHhSTmFkS19qb25mTTFOT2hURV8zbWlFUUhGbWJwbFE5QWlpLVIxVTBwM29RalNiNy0zY1RVODUyMmJIVWFrczdn?oc=5) |
 | 2026-09-18 | Vantora Raises $100M to Build Physical AI Startups - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxQeThwNWVSS1MxczczdmJOem0zM0NldENjeDFBNzhaMXBoWkU2Yl9iSnRGV3ZQSk9YZ2VNVC0tTkg0cTlBZENfMjF6QkJhX1hkU2lnZ2lNWDNSSEU1bER1Q0F0NVRPcXhkQnBLek9sZk1GNGNvQ0dQNzVsNHdlWWlGUXBFZ1VfRzhUc0E?oc=5) |
 | 2026-09-18 | Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year - Reuters | embodied ai startup | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaUV3UzJ5MVVnR0c2b0hlQ0s4OGZEWS01alZ1TldLbmR1ZFMtZFE1S0V6WFVTOEFnSXVfMlNmSWpYRl9LVDhha2dydmkyaGlUckpYVUxEdWgzWUNjMkx3ZmxQdGRFQ2ZDdHNUZzFkNWNQZU82RHRiSjYwUmlscjdVQmhxbktkdU94SEJub1hYUDBqNUtIY1M4bjl0a2lUV3U5Q09jbmpTRVNVQlAtNUlGY2RPMTFDdExuSzlWYU5vbkJZdGhwbmtV?oc=5) |
 | 2026-09-18 | Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year - KSL News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUWRTQXBNdllob0haZXU3V3dQaE1FejktZ0toWWdKYUFzSnN5el9sbVQzTW1najlXOUwzSW5yOFd1cTE4OTRSdjlGZHBVMVIzekRGd2V5NGt2LUlwUWhyZEY4SVN0LXhEMktJZEVWdlR0ZEhNc0FOa2ozdnB5Z2I2aW5rMVJja0tMOUhDR0VsVXZKdjVPdTNVcEdpWHhTbHNyem9QUk1GbERCazBRaU00bktVZ185RVpD?oc=5) |

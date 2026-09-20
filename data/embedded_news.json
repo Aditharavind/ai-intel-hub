@@ -1,5 +1,12 @@
 [
   {
+    "title": "Reviving TEMPEST Attacks with an Injected Signal",
+    "source": "Hackaday",
+    "date": "2026-09-20",
+    "url": "https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/",
+    "summary": "<div><img alt=\"A laptop is shown set up on a desk next to a spectrum analyser, an SDR, and two antennas. The antennas are aimed toward assorted electronics, including headphones and a phone handset.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/injected_TEMPEST.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>TEMPEST attacks are often the most effective way to break air-gapped security: rather than directly accessing a computer, the attacker records the system’s unintended radio emissions and uses them to <a class=\"read-more\" href=\"https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/\">&#8230;read more</a>"
+  },
+  {
     "title": "Ski Lift Removes Mice from Chicken Coop",
     "source": "Hackaday",
     "date": "2026-09-20",
@@ -42,13 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"445\" src=\"https://hackaday.com/wp-content/uploads/2026/09/water_timer_disassembled_electronupdate_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Water timers are nifty devices that can water the lawn at set times or keep that vegetable garden from turning into a dustbowl. When [electronupdate] timer refused to output water <a class=\"read-more\" href=\"https://hackaday.com/2026/09/19/teardown-and-repair-of-a-insoma-water-timer/\">&#8230;read more</a>"
   },
   {
-    "title": "Laser Your Way into Debug Mode on the RP2350",
-    "source": "Hackaday",
-    "date": "2026-09-20",
-    "url": "https://hackaday.com/2026/09/19/laser-your-way-into-debug-mode-on-the-rp2350/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"600\" src=\"https://hackaday.com/wp-content/uploads/2026/09/backside_decap_RP2350.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The RP2350 is actually a pretty secure chip, all things considered. It has secure boot, ARMv8&#8217;s TrustZone to split secure and non-secure execution, and you can permanently disable debug — <a class=\"read-more\" href=\"https://hackaday.com/2026/09/19/laser-your-way-into-debug-mode-on-the-rp2350/\">&#8230;read more</a>"
-  },
-  {
     "title": "High-end 8-channel oscilloscope features 12-core AMD EPYC CPU, 96GB RAM, 15.6-inch display, and more",
     "source": "CNX Software",
     "date": "2026-09-20",
@@ -68,6 +68,13 @@
     "date": "2026-09-20",
     "url": "https://blog.adafruit.com/2026/09/20/exonemo-terminal-at-nowhere-nyc-sisyphus/",
     "summary": "The Terminal (2026), artist rendering via NowHere &#160; The artist duo exonemo are presenting Terminal at the New York art space NowHere. A series of techno sculptures where the only way to survive is to fail. The computers are constantly trying to crack a code that would lead to their immediate physical demise from swinging [&#8230;]"
+  },
+  {
+    "title": "DIY Rechargeable LED Makeup Compact",
+    "source": "Adafruit",
+    "date": "2026-09-20",
+    "url": "https://blog.adafruit.com/2026/09/20/diy-rechargeable-led-makeup-compact/",
+    "summary": "Light up your makeup mirror! This easy project guides you through adding warm white LED sequins to a makeup compact, powered by an Adafruit lipoly battery charger and click on/off switch. Follow the complete tutorial on the Adafruit Learning System."
   },
   {
     "title": "Adafruit New Products this Week",
@@ -299,13 +306,6 @@
     "date": "2026-09-17",
     "url": "https://www.embedded.com/abaco-systems-introduces-vnx-sbc/",
     "summary": "<p>Abaco Systems has launched the VNX382, the company's first VNX+ single-board computer (SBC). The VNX+ standard, developed by VITA and the Open Group SOSA community and ratified by ANSI in 2026, extends the open-standard VPX into lower size, weight, and power (SWaP) applications. The VNX382 extends rugged embedded computing into SWaP-constrained applications without tradeoffs in [...]</p>\n<p>The post <a href=\"https://www.embedded.com/abaco-systems-introduces-vnx-sbc/\">Abaco Systems Introduces VNX+ SBC</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Halloween Skull Tear Pumpkin Lantern #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-09-17",
-    "url": "https://blog.adafruit.com/2026/09/17/halloween-skull-tear-pumpkin-lantern-3dthursday-3dprinting-2/",
-    "summary": "Shared by NUKDDD on MakerWorld: A skull-tear-themed Jack-o&#8217;-lantern for LED tea lights up to 38mm. Easy to print, no supports, no AMS needed — pause at layer 464 and change color for the stem if not using the print profile. Fits Bambu Lab tea lights and other brands up to 38mm. Dark-themed pumpkin alternative to [&#8230;]"
   },
   {
     "title": "STMicroelectronics reveals sizably smaller intelligent power modules for air conditioners, heat pumps, and home appliances",
