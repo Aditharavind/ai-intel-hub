@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-21 01:47 UTC
+Last Updated: 2026-09-21 07:17 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-21 | Making a Copper-Oxide Photodetector from Scratch | Hackaday | [link](https://hackaday.com/2026/09/20/making-a-copper-oxide-photodetector-from-scratch/) |
+| 2026-09-21 | Hackaday Links: September 20, 2026 | Hackaday | [link](https://hackaday.com/2026/09/20/hackaday-links-september-20-2026/) |
 | 2026-09-21 | Brainchip AKD1500 M.2 and PCIe Edge AI cards, BrainBoard 1500 SPI module now available for $99 and up | CNX Software | [link](https://www.cnx-software.com/2026/09/21/brainchip-akd1500-m-2-and-pcie-edge-ai-cards-brainboard-1500-spi-module/) |
-| 2026-09-21 | Where There’s Most Dissatisfaction With The Government | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/where-theres-most-dissatisfaction-with-the-government-2026-09/) |
-| 2026-09-21 | Ed Exploits AI Dangers | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-tackles-ai-dangers-2026-09/) |
 | 2026-09-20 | Reviving TEMPEST Attacks with an Injected Signal | Hackaday | [link](https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/) |
 | 2026-09-20 | Ski Lift Removes Mice from Chicken Coop | Hackaday | [link](https://hackaday.com/2026/09/20/ski-lift-removes-mice-from-chicken-coop/) |
 | 2026-09-20 | World War I Coded Message Appears Cracked, Finally | Hackaday | [link](https://hackaday.com/2026/09/20/world-war-i-coded-message-appears-cracked-finally/) |
 | 2026-09-20 | Reverse Engineering A Sony Car Stereo LCD | Hackaday | [link](https://hackaday.com/2026/09/20/reverse-engineering-a-sony-car-stereo-lcd/) |
 | 2026-09-20 | A Bandpass Filter Pulls In The Signals | Hackaday | [link](https://hackaday.com/2026/09/20/a-bandpass-filter-pulls-in-the-signals/) |
-| 2026-09-20 | No GPU, No Problem: Flagship LLMs on a GPU-less Teenaged Server | Hackaday | [link](https://hackaday.com/2026/09/20/no-gpu-no-problem-flagship-llms-on-a-gpu-less-teenaged-server/) |
-| 2026-09-20 | Teardown and Repair of an Insoma Water Timer | Hackaday | [link](https://hackaday.com/2026/09/19/teardown-and-repair-of-a-insoma-water-timer/) |
+| 2026-09-20 | High-end 8-channel oscilloscope features 12-core AMD EPYC CPU, 96GB RAM, 15.6-inch display, and more | CNX Software | [link](https://www.cnx-software.com/2026/09/20/high-end-8-channel-oscilloscope-features-12-core-amd-epyc-cpu-96gb-ram-15-6-inch-display/) |
+| 2026-09-20 | Adafruit Weekly Editorial Round-Up: CircuitPython Turbo, Back at Ladyada’s Desk and More! | Adafruit | [link](https://blog.adafruit.com/2026/09/20/adafruit-weekly-editorial-round-up-circuitpython-turbo-back-at-ladyadas-desk-and-more/) |
 
 ## New Research Papers
 _No items collected yet._
@@ -66,34 +66,35 @@ _No items collected yet._
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-21 | Riasok/pi05-robot-checkpoints-20260912 | 0 | 0 | [link](https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912) |
 | 2026-09-21 | a5ilank/curious-robot | 0 | 2 | [link](https://huggingface.co/a5ilank/curious-robot) |
 | 2026-09-21 | djbob/balance_robot | 0 | 0 | [link](https://huggingface.co/djbob/balance_robot) |
-| 2026-09-21 | Riasok/pi05-robot-checkpoints-20260912 | 0 | 0 | [link](https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912) |
-| 2026-09-21 | RocheL/vlatest | 0 | 0 | [link](https://huggingface.co/RocheL/vlatest) |
-| 2026-09-21 | mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__wrist_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__wrist_cameras__live__pi05__seed_0) |
-| 2026-09-21 | MIT-Media-Lab/vla-hand-table1 | 0 | 0 | [link](https://huggingface.co/MIT-Media-Lab/vla-hand-table1) |
-| 2026-09-21 | mim-chess-vlas/train_800_dense__mask__overlay_a75__sim__all_cameras__live__pi0__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_dense__mask__overlay_a75__sim__all_cameras__live__pi0__seed_0) |
-| 2026-09-21 | mim-chess-vlas/train_800_dense__point__overlay_a25__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_dense__point__overlay_a25__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-21 | mim-chess-vlas/train_800_complex__no_mask__pi0__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_complex__no_mask__pi0__seed_0) |
+| 2026-09-21 | mim-chess-vlas/train_800_complex__no_mask__smolvla__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_complex__no_mask__smolvla__seed_0) |
 | 2026-09-21 | mim-chess-vlas/train_800_complex__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_complex__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-21 | mim-chess-vlas/train_800_complex__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_complex__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0) |
 | 2026-09-21 | mim-chess-vlas/train_800_complex__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_complex__bbox__overlay_a50__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-21 | mim-chess-vlas/train_800_complex__mask__blur__sim__all_cameras__live__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_complex__mask__blur__sim__all_cameras__live__pi05__seed_0) |
+| 2026-09-21 | tsangb34/lingbot-vla-v2-6b-so101-stack-white_bowls-100episodes | 0 | 0 | [link](https://huggingface.co/tsangb34/lingbot-vla-v2-6b-so101-stack-white_bowls-100episodes) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28383 | Python | 11353.3 | [link](https://github.com/harvard-edge/cs249r_book) |
-| commaai/openpilot | 63694 | Python | 25477.7 | [link](https://github.com/commaai/openpilot) |
-| questdb/questdb | 17332 | Java | 6932.9 | [link](https://github.com/questdb/questdb) |
-| ArduPilot/ardupilot | 15906 | C++ | 6362.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| RLinf/RLinf | 5309 | Python | 2123.7 | [link](https://github.com/RLinf/RLinf) |
-| sou350121/VLA-Handbook | 633 | HTML | 253.3 | [link](https://github.com/sou350121/VLA-Handbook) |
-| deeplethe/utopia | 9445 | Rust | 3778.1 | [link](https://github.com/deeplethe/utopia) |
-| vllm-project/vllm-omni | 6941 | Python | 2776.5 | [link](https://github.com/vllm-project/vllm-omni) |
-| softmata/horus | 439 | Rust | 175.7 | [link](https://github.com/softmata/horus) |
-| ROBOTIS-GIT/ai_worker | 186 | Python | 74.5 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
+| harvard-edge/cs249r_book | 28395 | Python | 11358.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| robocurve/inspect-robots | 574 | Python | 229.7 | [link](https://github.com/robocurve/inspect-robots) |
+| commaai/openpilot | 63695 | Python | 25478.1 | [link](https://github.com/commaai/openpilot) |
+| questdb/questdb | 17334 | Java | 6933.7 | [link](https://github.com/questdb/questdb) |
+| earthtojake/text-to-cad | 16204 | Python | 6481.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| ArduPilot/ardupilot | 15907 | C++ | 6362.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| RLinf/RLinf | 5324 | Python | 2129.7 | [link](https://github.com/RLinf/RLinf) |
+| sou350121/VLA-Handbook | 634 | HTML | 253.7 | [link](https://github.com/sou350121/VLA-Handbook) |
+| baidu-baige/LoongForge | 575 | Python | 230.1 | [link](https://github.com/baidu-baige/LoongForge) |
+| deeplethe/utopia | 9513 | Rust | 3805.3 | [link](https://github.com/deeplethe/utopia) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-09-21 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzcwTk1oOWQzbGNkRVJ1MTdsSGtON244WXFqdk5TNHQ5cHBPck94VVhCanFtZmY2S3UyYkZGY0ozcGE5eXFTVElja0hwODR6djI1d0pvM0dIS1ZSbHNMTm9yZ29iMFZ1bU43bklyYXc1SGJFNnV3MEpMaGtiTks2TktCejZpOXN4a1U4ek14SGZhMHc5cHFDMEdtUEk?oc=5) |
 | 2026-09-18 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxOLXRsTTZLTWQ0cWhYVHpDcHBHcThXc3NlUTE1Zkd6Y2c3S0Z5WmJNTm5ZZzN3UURQUTEyZzA5Qkx5akRJX1RSNGxpSHNzTHlVWWlYUFRmcnVsaHFzeHFEQ1FQWG5SY0ZlVWpfUFQxejVvUzZSWHVzakJJdVNObllzWkw3TWpOdw?oc=5) |
 | 2026-09-16 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQeUFSRWNnR1QtQ0w3NTY4Y1BjUlV6SlBQclAxYVJuWGFabjBqSkxoNERDelc0ZkNiRjF5ZEcyc2Z6aU9selJGNWF2NDNrUVpOczJQX2ZINFlhZ3FfZFBtYl83RWtNNThRWnlXcTVKVFlob2pQU2x4b1lNUy0yS09DVHk3X3V6WVFtSmJZWUtYT1JXelRPM19ETi1qRko5SGpveEp1N29tY0x1aHVKbEdDYjM5ZUtaQlRBaWZkcWNrUFhSZTdt?oc=5) |
 | 2026-09-15 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxNekJkakdmV0NRSUdURnYxNUtBbVFxdm9jN3YySlJiTXNYLXpnRnBsb2NUai05Q2YyNERTZWpNWU13emgwY0o1ZmhyTUVGRVF5eVMxZzNGUHlUbmt5MnVaUmprME9NZkZlbWwwX05fM2dWSG43UElNcTBSX3VnaV9qRlpIOGFXanFEbU5YenRJWFVSSmJpUllGQ1dMbFNLeDhDTkFSUWNOZUY2TDVURjloUFp4RTBwWGFndW9ucjVSVndfN3dFNU5J?oc=5) |
@@ -103,21 +104,20 @@ _No items collected yet._
 | 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1tZG9Nak05YThrN2JjY2c5RXlUd3Y3Wm5mUlB2RFBmQXFMNGswcl9kck5sdlptRTFwZzdWNmRsSjFPb1pjN1NBZVdKMnNReU9lWkJndnRYSlBPY1NWSmsyRXJCeG9adVNIbG1sbGVQZGI3S2tfN2c?oc=5) |
 | 2026-09-13 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE01US1obFlpTUI2aXV2aWVIbFMxemNyLW1DalQ3TkRobDRYcFYwSE1kQmpMbHpWbDFEajRhQmtsMllpMUVyaUs1RUtYNzRlX1ZLVUwxNnVZQUZlLVRZSzZOUmFGY3hXYnFnYnNmZzc4OUZWOWEybnc?oc=5) |
 | 2026-09-10 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTFBTVm5nbU5PX0dGV2ZvaVo0MGZzV0sxdmRwdFFoM2x4aWJySGhmVjRJbUVSb3R6MHRiZ2M4dHNhTmlfTjV1cHVqRFNDNXo4d0QydFozbGRKanppdXN1dHBYbDZqYndUcGU5NUUw?oc=5) |
-| 2026-09-10 | LeRobot |  |  | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeVNENXN3U2ZUZk41ZnFiam5fc0FHcmpHcG5odUNhOXI5amdOSzJXTmg4dGt2SGxWVUxjU3JINkNnUS1WamxoUFlLS0twWEp2RUV2NE4tZXozaURQbGxlZWs1SnVESzhrWDBPUnAtSjN4Z2VEQ0RmY0ZjOEMtbUZrZnUwSXhKOENDVnUzMXVsR0l3aEIwWHpVem9rVVd3RElScHd4TmVmZWxUNlNKN0Y0ZHhBM1FQRDZ0QkVxWVQzSDRtUUNNb2c?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-09-21 | Alibaba-linked firm takes stake in embodied AI startup Moqi - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxOLXZNbWpmUnpVay1kRkFfQ2hON0lOXzl4UU9mNndLQlF5TUNoOFpLNF9FV2lKWjExZmxNeWdRQ1lfbzZ4YjJWLWZkei1FLW15cEhTRmp6ZmJIM0VxVnRhT0R2WUxPOGhNVVFweU9ZVE5VdHhqbGtLX205Ymw0TW9heVlKbF83TXdVT2JORjhWNUc?oc=5) |
+| 2026-09-20 | Asia Today: AI, Memory Chips, Electric Mobility & Fintech Deals - Asia Business Outlook | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTzdOREgtQ1gyU0NoS3NiSGJjNjE3cXl4R2JUWmcxNTNwRjhjU1pPaEhmdkFfYlV1Mk5wNFgzaDBCWm1MSktOc2VNNDVNZl9CMXU4Nks5UWdDVzh3eWNtRU9faVdZNEJ1YVRSQVl5eGdkcnFieVJxcUpDdzBnYWJZdVNiSjB0MnNXYUJtV290SnVQYi1aRDVSNzEwemM2S1R5bW5UNThyT3FHOU1xd2NqZFdITGFfQUJFQ1BN?oc=5) |
 | 2026-09-19 | Vantora Raises $100M to Build Proprietary Physical AI Startups for Industry - konsulteer.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxOblBMVEZiRHZRclZReUR3WmJqczVCaVYwS19WYll6TXh5cjN5ZWNnaWRIVjBWRXQ3VUhmR245ZWQ0U2N6azdULUVRQzhiaTdfcjRxUHRmeHNmMTZEWjZTWG5mZGI5MXNKX0NublRTODRXQ3dwcWdabnhfUndsbjBvOGVCZzhpV2szM1k5Ym82RENQVUxKVGZuVnJub2NSUEVIVXFsQ1V5YWtjV1ZmR0E?oc=5) |
 | 2026-09-19 | Vantora raises $100 million to build physical AI startups for corporates - ET Enterprise AI | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU0V5dTNnZDhZS0V0RnE0ZWJDVGZhNXhIOEJNNUxMcXhkMXM4S1VCV0VjQ0FzZi1NcUQ2Ry0waWlQb0NwbzFpZ1RqakJPVko2MXFOUk9iV0FQbDM3OGdneGlIeGd2OWV5M3ZiRUkzcWNhS1BVb3JyRjhxN1pnU2FtOWpOTER0YUxpeThDUXo1MGJ4cllmWlh3VGoySVRGeGhpbUpCcnU1WnJ6Tl9ERnlTdXpadzU3N0VxTUNuNUlDY04tTVl5MUExd1c4VWNDTG5jTkFJSktxNG9EclpMTEHSAeMBQVVfeXFMTW9adTZTSXJyTGdDdXRqYUMzUjRrUThqMHMtak5PUHlUaXBkU2FJSjVtVnhQemxsOTlJb211Qnhwa2IxWkFteTRPQlJLRE4yUnV4VUU0YXA0dnpVMUtfY2VyZkFYYTZJMG8ydkFXWjZ4bzB4ZHJELWRCX2J3WVhxZkktUXBVZWxCMnQ0Z1o3RnEwTFQyck8zUDR5VTQtZEotc3BtN0RYdUhPM1VlTDZDZGFhNFp2RE53SGtpa19xYWRJcjVJWDVETXJkaVJvQ2tGeEI0d25sSEdaQlpjaDNHTWluLVU?oc=5) |
 | 2026-09-19 | Vantora Raises $100 Million to Build Corporate Startups for Physical AI | Ukraine news - #Mezha - Межа. Новини України. | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ySFBzTWhfZ2xfcWhFSGN5N0h4MDNHQ3dMSzJuOHFfcUNSMEE2aTlzZUlDRjNQaXV4eUQzU09XTWpXUWFrY0FuMFMyY0dUeGlnWXhDbXlGd2xpMVRhYTQ3SmdBQmRLdnM?oc=5) |
-| 2026-09-19 | US startup builder Vantora raises $100m for physical AI ventures - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVd2YzB2RERmRVdsNWVSN3RTazhPNks2cF9KUmFjUmR0Ry02NlREcTZhZkpvWHM0SWI4V2cwczFPVnJmSHljS1RDYzFYUjhOenF1Z24xdXdfb1Boc1hOUjhiUWJCdnhWRVUwVW1ZNWdyNk02TWR6aXY2MF9lTWlfREE5Zl95U2RKc2ZEd05tTUZWdw?oc=5) |
+| 2026-09-19 | US startup builder Vantora raises $100m for physical AI ventures - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk4xSW1lM1lNUGkwcGo4QU9fSm94dldLM2ZPT2o0RzFZUi1iMjJYeTRnSlkwb2pkTzU4NUtfSXF6MkwwV2tPd21Qby1MQkdmUnZZenRjeDB6dEVXRzBXY0RlUk00ZEVVVFNUa3dDVVI2anZseHpRS3dzTXZ6bEt2enprWnRLVzBxY1pSUGtzM3VuQzFaRHZ6bw?oc=5) |
 | 2026-09-19 | 3 American Humanoid Robot Companies To Invest In: RoboStrategy CEO - Forbes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1ZiQnVkdU83a0xQSk5JSVZWYUE5dmd0VlhoVnh3azd5LUFkaHoxWXhCUEItRldkVzRaclN5NGNjT1NoVVAyeTZtLTlWM2NiOWh0LTZ5cWZVUFZhNXVYNHpDUldNMHZFT2lUNTI5YUJEeml5M2RVdGhKUzQ1UVlObEowWDBDUGs0Z19xVl9HNWFVaGFIeUFLNW5XR1p0amJmR3hMcjlaaEpYdnhmb2dqTTNwSWcyOHVudmxV?oc=5) |
 | 2026-09-18 | A startup that builds other startups raised $100M and is all-in on physical AI - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHZsWXJaaWFuNUhMLTN6aXp4NVpVOFNlUXpzT01iMVNSVW9hdUFfTk1DTUVrRFNrSGNXbm96Vm5PSmprR1EybXhvUm1HcFg2NG1zVkhRbmdISmNvYmV3VC1TUi1kM2VaTUc2UVdhMW91MHhSTmFkS19qb25mTTFOT2hURV8zbWlFUUhGbWJwbFE5QWlpLVIxVTBwM29RalNiNy0zY1RVODUyMmJIVWFrczdn?oc=5) |
 | 2026-09-18 | A startup that builds other startups raised $100M and is all-in on physical AI - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMDN0dzRUS0UydGRMaTAzSkZmWDZ2NHZmWHp0THFxOTE4cEwwZjZEWWZPTEtOUVcyMGdUM0R3S2JvUUUxenR5T09ZdzYyNUtCbEpTSWRTS1lwUXFwTzJTUkRHVVA4SWszYUtVeXlGMVdRNDlmREducFhWTjA5aVlQelBsYkJKcnl6LVFCTy1WWjdoc0tqY1JRX2RiUktNdm91UVE?oc=5) |
 | 2026-09-18 | Vantora Raises $100M to Build Physical AI Startups - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxQeThwNWVSS1MxczczdmJOem0zM0NldENjeDFBNzhaMXBoWkU2Yl9iSnRGV3ZQSk9YZ2VNVC0tTkg0cTlBZENfMjF6QkJhX1hkU2lnZ2lNWDNSSEU1bER1Q0F0NVRPcXhkQnBLek9sZk1GNGNvQ0dQNzVsNHdlWWlGUXBFZ1VfRzhUc0E?oc=5) |
-| 2026-09-18 | Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year - Reuters | embodied ai startup | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaUV3UzJ5MVVnR0c2b0hlQ0s4OGZEWS01alZ1TldLbmR1ZFMtZFE1S0V6WFVTOEFnSXVfMlNmSWpYRl9LVDhha2dydmkyaGlUckpYVUxEdWgzWUNjMkx3ZmxQdGRFQ2ZDdHNUZzFkNWNQZU82RHRiSjYwUmlscjdVQmhxbktkdU94SEJub1hYUDBqNUtIY1M4bjl0a2lUV3U5Q09jbmpTRVNVQlAtNUlGY2RPMTFDdExuSzlWYU5vbkJZdGhwbmtV?oc=5) |
-| 2026-09-18 | Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year - KSL News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUWRTQXBNdllob0haZXU3V3dQaE1FejktZ0toWWdKYUFzSnN5el9sbVQzTW1najlXOUwzSW5yOFd1cTE4OTRSdjlGZHBVMVIzekRGd2V5NGt2LUlwUWhyZEY4SVN0LXhEMktJZEVWdlR0ZEhNc0FOa2ozdnB5Z2I2aW5rMVJja0tMOUhDR0VsVXZKdjVPdTNVcEdpWHhTbHNyem9QUk1GbERCazBRaU00bktVZ185RVpD?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

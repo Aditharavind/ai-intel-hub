@@ -1,24 +1,24 @@
 [
   {
+    "title": "Making a Copper-Oxide Photodetector from Scratch",
+    "source": "Hackaday",
+    "date": "2026-09-21",
+    "url": "https://hackaday.com/2026/09/20/making-a-copper-oxide-photodetector-from-scratch/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"515\" src=\"https://hackaday.com/wp-content/uploads/2026/09/copper-oxide_photodetector_mad_scientist_creations_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Photodetectors come in a wide variety of constructions and materials, with the Cu2O-based photodetector that [Mad Scientist Creations] demonstrates in a recent video being a good example of a photodetector <a class=\"read-more\" href=\"https://hackaday.com/2026/09/20/making-a-copper-oxide-photodetector-from-scratch/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Hackaday Links: September 20, 2026",
+    "source": "Hackaday",
+    "date": "2026-09-21",
+    "url": "https://hackaday.com/2026/09/20/hackaday-links-september-20-2026/",
+    "summary": "<div><img alt=\"Hackaday Links Column Banner\" class=\"attachment-large size-large wp-post-image\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Some sad news to start this week off &#8212; after 52 years in business, Sherline has announced they are winding down their manufacturing operations. By the end of October they <a class=\"read-more\" href=\"https://hackaday.com/2026/09/20/hackaday-links-september-20-2026/\">&#8230;read more</a>"
+  },
+  {
     "title": "Brainchip AKD1500 M.2 and PCIe Edge AI cards, BrainBoard 1500 SPI module now available for $99 and up",
     "source": "CNX Software",
     "date": "2026-09-21",
     "url": "https://www.cnx-software.com/2026/09/21/brainchip-akd1500-m-2-and-pcie-edge-ai-cards-brainboard-1500-spi-module/",
     "summary": "<div><img alt=\"Brainchip AKD1500 M.2 development card\" class=\"attachment-medium size-medium wp-post-image\" height=\"575\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Brainchip-AKD1500-M2-development-card-720x575.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Back in November 2025, we wrote about the Brainchip AKD1500 PCIe/SPI Edge AI co-processor designed for low-power systems and delivering up to 800 GOPS at just 300 mW. In recent months, the company has launched several hardware platforms based on the ADK1500. At the end of July, Brainchip introduced the AKD1500 M.2 B+M Key development card for $129, shortly followed by the $99 BrainBoard 1500 module in August, and a few days ago, the company started selling the AKD1500 PCIe development card for $149. Brainchip AKD1500 M.2 B+M Key development card Specifications: AI accelerator &#8211; AKD1500 neuromorphic co-processor Akida Neuron Fabric clocked at 5 to 400 MHz 1MB on-chip Local memory 800 GOPS at less than 300 mW Adaptive on-chip learning, no cloud required Package &#8211;  7&#215;7 mm MFCTFBGA169 package, 0.5 mm pitch Process &#8211; 22 nm FD-SOI CMOS digital logic process Host Interface &#8211; B+M Key edge connector for [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/21/brainchip-akd1500-m-2-and-pcie-edge-ai-cards-brainboard-1500-spi-module/\">Brainchip AKD1500 M.2 and PCIe Edge AI cards, BrainBoard 1500 SPI module now available for $99 and up</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Where There’s Most Dissatisfaction With The Government",
-    "source": "Electronics Weekly",
-    "date": "2026-09-21",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/where-theres-most-dissatisfaction-with-the-government-2026-09/",
-    "summary": "<p>President Donald Trump’s promise of a $5,000 „dividend“ to every adult American in the event that Republicans win both chambers of Congress in this year’s midterms is just the latest [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/where-theres-most-dissatisfaction-with-the-government-2026-09/\">Where There’s Most Dissatisfaction With The Government</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Ed Exploits AI Dangers",
-    "source": "Electronics Weekly",
-    "date": "2026-09-21",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-tackles-ai-dangers-2026-09/",
-    "summary": "<p>Now that His Majesty has taken an interest in the  debate about the perils of AI, I feel I may be able to advance my prospects of a Dukedom if [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-tackles-ai-dangers-2026-09/\">Ed Exploits AI Dangers</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Reviving TEMPEST Attacks with an Injected Signal",
@@ -54,20 +54,6 @@
     "date": "2026-09-20",
     "url": "https://hackaday.com/2026/09/20/a-bandpass-filter-pulls-in-the-signals/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/bpf-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It&#8217;s an unfortunate side effect of proximity to a large transmitter that the received signal can overload a receiver&#8217;s front end even when tuned to other frequencies. [Rfrht]&#8217;s had this <a class=\"read-more\" href=\"https://hackaday.com/2026/09/20/a-bandpass-filter-pulls-in-the-signals/\">&#8230;read more</a>"
-  },
-  {
-    "title": "No GPU, No Problem: Flagship LLMs on a GPU-less Teenaged Server",
-    "source": "Hackaday",
-    "date": "2026-09-20",
-    "url": "https://hackaday.com/2026/09/20/no-gpu-no-problem-flagship-llms-on-a-gpu-less-teenaged-server/",
-    "summary": "<div><img alt=\"The guts of the server, with lots of sticks of DDR3, and not a single GPU in sight.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/LLM-dell-server-feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are lots of reasons to run LLMs locally, from privacy concerns to just wanting to futz about with the technology, but if you want to run the big models, <a class=\"read-more\" href=\"https://hackaday.com/2026/09/20/no-gpu-no-problem-flagship-llms-on-a-gpu-less-teenaged-server/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Teardown and Repair of an Insoma Water Timer",
-    "source": "Hackaday",
-    "date": "2026-09-20",
-    "url": "https://hackaday.com/2026/09/19/teardown-and-repair-of-a-insoma-water-timer/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"445\" src=\"https://hackaday.com/wp-content/uploads/2026/09/water_timer_disassembled_electronupdate_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Water timers are nifty devices that can water the lawn at set times or keep that vegetable garden from turning into a dustbowl. When [electronupdate] timer refused to output water <a class=\"read-more\" href=\"https://hackaday.com/2026/09/19/teardown-and-repair-of-a-insoma-water-timer/\">&#8230;read more</a>"
   },
   {
     "title": "High-end 8-channel oscilloscope features 12-core AMD EPYC CPU, 96GB RAM, 15.6-inch display, and more",
@@ -159,62 +145,6 @@
     "date": "2026-09-18",
     "url": "https://www.embedded.com/terasignal-launches-analog-wave-processor-for-ai-networks/",
     "summary": "<p>TeraSignal has introduced its Analog Wave Processor (AWP), a signal-processing architecture designed for 200G/lane interconnects in next-generation AI infrastructure. The technology targets high-speed connectivity for 1.6T and 3.2T systems, combining advanced signal processing with the low-power, low-latency characteristics of linear interconnects. Unlike conventional analog equalizers and digital signal processors (DSPs), which operate on sampled or [...]</p>\n<p>The post <a href=\"https://www.embedded.com/terasignal-launches-analog-wave-processor-for-ai-networks/\">TeraSignal Launches Analog Wave Processor for AI Networks</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Littelfuse solid-state contactors for heating, motor control apps",
-    "source": "Electronics Weekly",
-    "date": "2026-09-18",
-    "url": "https://www.electronicsweekly.com/news/products/littelfuse-solid-state-contactors-for-heating-motor-control-apps-2026-09/",
-    "summary": "<p>Littelfuse is expanding its solid-state switching portfolio with the SCD and SCP Series solid-state contactors for control in single- and three-phase heating and motor applications. Designed to improve system performance [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/littelfuse-solid-state-contactors-for-heating-motor-control-apps-2026-09/\">Littelfuse solid-state contactors for heating, motor control apps</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "ESA selects Iceye, Leonardo for Europe’s EOGS studies",
-    "source": "Electronics Weekly",
-    "date": "2026-09-18",
-    "url": "https://www.electronicsweekly.com/news/business/esa-selects-iceye-leonardo-for-europes-eogs-studies-2026-09/",
-    "summary": "<p>The European Space Agency (ESA) has awarded two contracts &#8211; one to ICEYE and one to Leonardo &#8211; to carry out architecture studies for the EU’s planned Earth Observation Governmental [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/esa-selects-iceye-leonardo-for-europes-eogs-studies-2026-09/\">ESA selects Iceye, Leonardo for Europe’s EOGS studies</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "The Spectre Which Turned Out To Be A Squib",
-    "source": "Electronics Weekly",
-    "date": "2026-09-18",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-spectre-which-turned-out-to-be-a-squib-2026-09/",
-    "summary": "<p>Back in 1998 people were.  starting to get exercised by the Millennium Bug &#8211; the spectre which turned out to be a squib. In March 1998 EW wrote: ‘Prime Minister [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-spectre-which-turned-out-to-be-a-squib-2026-09/\">The Spectre Which Turned Out To Be A Squib</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Samtec’s 100-CM Series connectors capable of DC to 120 GHz",
-    "source": "Electronics Weekly",
-    "date": "2026-09-18",
-    "url": "https://www.electronicsweekly.com/news/products/connectors/samtecs-100-cm-series-connectors-capable-of-dc-to-120-ghz-2026-09/",
-    "summary": "<p>Samtec, the connector specialist, has released its 1.0 mm vertical compression mount board connector, the 100-CM Series. It is aiming at millimeter-wave test and measurement applications for W-band and into [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/connectors/samtecs-100-cm-series-connectors-capable-of-dc-to-120-ghz-2026-09/\">Samtec&#8217;s 100-CM Series connectors capable of DC to 120 GHz</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Most read – Mediatek processor, Racks not chips, Google capex",
-    "source": "Electronics Weekly",
-    "date": "2026-09-18",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-mediatek-processor-racks-not-chips-google-capex-2026-09/",
-    "summary": "<p>There's Google's ballooning datacentre capex, Imec demonstrating 22nm pitch on a single-print high-NA step and a semiconductor that changes its properties in response to light.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-mediatek-processor-racks-not-chips-google-capex-2026-09/\">Most read &#8211; Mediatek processor, Racks not chips, Google capex</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Dealing in AI – who holds the cards?",
-    "source": "Electronics Weekly",
-    "date": "2026-09-18",
-    "url": "https://www.electronicsweekly.com/news/business/dealing-in-ai-who-has-the-cards-2026-09/",
-    "summary": "<p>The Trump administration takes an uncertain hand into critical technology negotiations with China next week, writes Paul Dempsey. Mounting controversy over AI safety and regulation spilled over into great power [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/dealing-in-ai-who-has-the-cards-2026-09/\">Dealing in AI &#8211; who holds the cards?</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Tata and Nexperia join in far-reaching jv",
-    "source": "Electronics Weekly",
-    "date": "2026-09-18",
-    "url": "https://www.electronicsweekly.com/news/business/tata-and-nexperia-join-in-far-reaching-jv-2026-09/",
-    "summary": "<p>Nexperia, whose Chinese owner Wingtech was stripped of control by a Dutch court, has joined up with Tata Electronics on Thursday to fab and package ICs in India. Nexperia will [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tata-and-nexperia-join-in-far-reaching-jv-2026-09/\">Tata and Nexperia join in far-reaching jv</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Huawei launches ten AI chipsets",
-    "source": "Electronics Weekly",
-    "date": "2026-09-18",
-    "url": "https://www.electronicsweekly.com/news/business/huawei-launches-ten-ai-chipsets-2026-09/",
-    "summary": "<p>Yesterday, Huawei showed off 10 AI chipsets including AI accelerators, CPUs and networking. &#8220;Among these chips, Ascend is the most critical one in the entire system,&#8221; said Huawei chairman David [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/huawei-launches-ten-ai-chipsets-2026-09/\">Huawei launches ten AI chipsets</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Haunted Portrait #piday #raspberrypi",
