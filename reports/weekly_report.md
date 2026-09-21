@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-21 19:46 UTC
+Generated: 2026-09-21 22:52 UTC
 
 ## Top Papers
 _No items collected yet._
@@ -8,11 +8,11 @@ _No items collected yet._
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83544 | 33417.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63695 | 25478.1 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83545 | 33418.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63696 | 25478.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44579 | 17831.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30561 | 12224.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28400 | 11360.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28401 | 11360.5 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -35,8 +35,8 @@ _No items collected yet._
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-09-21 | Can Patent Filings Help Physical AI Companies Raise Capital? - The National Law Review | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNUpRWk81cEplMUFRMEZNMFp1aHZHOG4zU2NZLWJ1Rjkxc1Y4eDg4LWZIQWZ3TXhnLWlEcWdxYko1UDhabVdnandNc0hZWm1SUEdTMHVNaUoxd2FyRGJ2U1pvcG56bzRoVHhHaDlOVWQySHhjYWRmNmFySEUxTThlS1dnVzZnM0lmWEFnUjE4WjlXV0ZoeWlz0gGcAUFVX3lxTFBNLXMwenhfeml1bzBITUFFbXNCaXBSTWx4NkFtemlzOXlFLWE1MHoyVDFPckdyXzJJQnFheDktRzJNMDFTZXdxa1hUQ2l0Zk5pUy05cC1EZUx2MFdsUk9wdkc2Mk44UUJpWDBRUk5ndXZGMWdpZGtjYTlIRjNjMllCeGZMbnZoMGNxbzIwQzkxYmt2bmlfZVoyemgyYQ?oc=5) |
 | 2026-09-21 | MISUMI Americas Launches Venture Fund for Robotics, Hardware, Physical AI Startups - Supply & Demand Chain Executive | physical ai startup | [link](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU1JPTTNlYXpRWTM4VlFhSlFucjJxY1V0ejJxRmFhWmlSQ3RoZjZwdjdseHc3aFNaaEpVbFBQN1ZTdEZQQ2hxUXliNTlGRktZT0VkeElITVUwYkdlbWZKZUdaVW80V1diUUg1d0QtOGtwUUtSeU5uYWZaeW5ILXl6Y2lFeTVPd2JoMGZDY2c1Wk1iNVBOQXp4QUNaTG9TaUVlWFF0WnFGQVNHYl82RGhlaTBDYjNEZGRENEswaF9BeVpONGs4WTdTTXZUNDZxVXJIRDJwYzh2YkVldE9BQnFXcEViamZPcUktSk9ObmlR?oc=5) |
+| 2026-09-21 | Vantora, Formerly UP.Labs, Raises $100M to Build Proprietary Physical AI Startups for Corporate Partners - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ21kRVNON3NjQi1UR1BrQzFEQUNhaUc1UWEzOUJ6c0RpSU5YRm1LYUcxb2VmaW1icXBHY0U3OHBSdHhSdEpnSG1BeDF2bTRabFNMNVBBSFVRZkhpb2Fsd2pmSTNBc3d6cFNSUGRpWG5LQzkteEdUSTQ0LXFwWHhyVkU2WU84UEVZMTNLMFg2MG9IQlNfNFNzVFdCd1J5b3JOX2dlb1JJQU1rdXBpT0w0dUxOaHVMajhWTXc2ZFVha0NTUDRVWHpBbmZqbDNackE4RXYzVWNn?oc=5) |
 | 2026-09-21 | Alibaba-linked firm takes stake in embodied AI startup Moqi - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxOLXZNbWpmUnpVay1kRkFfQ2hON0lOXzl4UU9mNndLQlF5TUNoOFpLNF9FV2lKWjExZmxNeWdRQ1lfbzZ4YjJWLWZkei1FLW15cEhTRmp6ZmJIM0VxVnRhT0R2WUxPOGhNVVFweU9ZVE5VdHhqbGtLX205Ymw0TW9heVlKbF83TXdVT2JORjhWNUc?oc=5) |
 | 2026-09-21 | Chinese AI Startup Spirit AI Targets ChatGPT Like Breakthrough for Humanoid Robots - boldnewsonline.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2ttLVBCRU5VNl9iNFJ1ZEFrZmxBM01rM3plczl5WG15bWxpeWh2OVNlWkVwcjZ0SGFZYzFCcFdOMkE2Mm9QSU9yeS1URFNldmNvY2R1WkVEUnpPSjZjQ3ZhbW9PWXFjb0dGcGcyNVlJbWFwcGlXTzZKenBKdU44RmRFOFBkNGRkd3MtQ01zUzhsSFBGNkpybDgzVXdXNEtzT1RseW9yV0gxMEE3Rmdn?oc=5) |
-| 2026-09-20 | Asia Today: AI, Memory Chips, Electric Mobility & Fintech Deals - Asia Business Outlook | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTzdOREgtQ1gyU0NoS3NiSGJjNjE3cXl4R2JUWmcxNTNwRjhjU1pPaEhmdkFfYlV1Mk5wNFgzaDBCWm1MSktOc2VNNDVNZl9CMXU4Nks5UWdDVzh3eWNtRU9faVdZNEJ1YVRSQVl5eGdkcnFieVJxcUpDdzBnYWJZdVNiSjB0MnNXYUJtV290SnVQYi1aRDVSNzEwemM2S1R5bW5UNThyT3FHOU1xd2NqZFdITGFfQUJFQ1BN?oc=5) |
-| 2026-09-19 | Vantora Raises $100M to Build Proprietary Physical AI Startups for Industry - konsulteer.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxOblBMVEZiRHZRclZReUR3WmJqczVCaVYwS19WYll6TXh5cjN5ZWNnaWRIVjBWRXQ3VUhmR245ZWQ0U2N6azdULUVRQzhiaTdfcjRxUHRmeHNmMTZEWjZTWG5mZGI5MXNKX0NublRTODRXQ3dwcWdabnhfUndsbjBvOGVCZzhpV2szM1k5Ym82RENQVUxKVGZuVnJub2NSUEVIVXFsQ1V5YWtjV1ZmR0E?oc=5) |

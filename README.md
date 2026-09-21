@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-21 19:46 UTC
+Last Updated: 2026-09-21 22:52 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,6 +8,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-09-21 | Advisory Group on Mathematics and Artificial Intelligence | OpenAI | [link](https://openai.com/index/advisory-group-on-mathematics-and-ai) |
+| 2026-09-21 | Higgsfield AI ships new video features in a day with GPT-6 Astra | OpenAI | [link](https://openai.com/index/higgsfield-from-prompt-to-production-with-astra) |
 | 2026-09-21 | Building standards for the next phase of AI | OpenAI | [link](https://openai.com/index/building-standards-next-phase-ai) |
 | 2026-09-21 | Expanding OpenAI Academy with new learning paths | OpenAI | [link](https://openai.com/index/expanding-openai-academy-with-new-learning-paths) |
 | 2026-09-21 | How V7 gives AI agents institutional memory | OpenAI | [link](https://openai.com/index/v7) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-18 | Introducing the Australian Youth Safety Blueprint | OpenAI | [link](https://openai.com/index/australian-youth-safety-blueprint) |
 | 2026-09-17 | How Cooley is accelerating IPO work with ChatGPT | OpenAI | [link](https://openai.com/index/cooley-gopublic) |
 | 2026-09-17 | Introducing Astra for Law | OpenAI | [link](https://openai.com/index/astra-for-law) |
-| 2026-09-16 | Helping older adults use AI in everyday life | OpenAI | [link](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-21 | Trying a New Radial Impeller Design for Quadcopters | Hackaday | [link](https://hackaday.com/2026/09/21/trying-a-new-radial-impeller-design-for-quadcopters/) |
 | 2026-09-21 | Pedal Harder for Affordability | Hackaday | [link](https://hackaday.com/2026/09/21/pedal-harder-for-affordability/) |
 | 2026-09-21 | The First Floating Nuclear Power Station | Hackaday | [link](https://hackaday.com/2026/09/21/the-first-floating-nuclear-power-station/) |
 | 2026-09-21 | The RP2350 Does 1080p | Hackaday | [link](https://hackaday.com/2026/09/21/the-rp2350-does-1080p/) |
 | 2026-09-21 | DIY Router on x86 E-Waste: OpenWrt and OPNsense | Hackaday | [link](https://hackaday.com/2026/09/21/diy-router-on-x86-e-waste-openwrt-and-opnsense/) |
 | 2026-09-21 | Searching for Dark Matter with a Levitating Magnet | Hackaday | [link](https://hackaday.com/2026/09/21/searching-for-dark-matter-with-a-levitating-magnet/) |
 | 2026-09-21 | The Sinclair Spectrum Gets A Desktop GUI | Hackaday | [link](https://hackaday.com/2026/09/21/the-sinclair-spectrum-gets-a-desktop-gui/) |
-| 2026-09-21 | Making a Copper-Oxide Photodetector from Scratch | Hackaday | [link](https://hackaday.com/2026/09/20/making-a-copper-oxide-photodetector-from-scratch/) |
 | 2026-09-21 | Realtek RTL8773J – A Bluetooth 7-ready Cortex-M55/M33 microcontroller with HDT support | CNX Software | [link](https://www.cnx-software.com/2026/09/21/realtek-rtl8773j-a-bluetooth-7-ready-cortex-m55-m33-microcontroller-with-hdt-support/) |
 | 2026-09-21 | Brainchip AKD1500 M.2 and PCIe Edge AI cards, BrainBoard 1500 SPI module now available for $99 and up | CNX Software | [link](https://www.cnx-software.com/2026/09/21/brainchip-akd1500-m-2-and-pcie-edge-ai-cards-brainboard-1500-spi-module/) |
-| 2026-09-21 | The Hidden Cost of Embedded Databases on NAND Flash Memory | Embedded.com | [link](https://www.embedded.com/the-hidden-cost-of-embedded-databases-on-nand-flash-memory/) |
+| 2026-09-21 | Lynred Launches CAPT640 Automotive Thermal Imaging Sensor | Embedded.com | [link](https://www.embedded.com/lynred-launches-capt640-automotive-thermal-imaging-sensor/) |
 
 ## New Research Papers
 _No items collected yet._
@@ -66,6 +66,9 @@ _No items collected yet._
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-21 | hvsr-robotics/Piper-TTS-PL | 15 | 0 | [link](https://huggingface.co/hvsr-robotics/Piper-TTS-PL) |
+| 2026-09-21 | hvsr-robotics/Matcha-TTS-PL-noWL | 0 | 0 | [link](https://huggingface.co/hvsr-robotics/Matcha-TTS-PL-noWL) |
+| 2026-09-21 | hvsr-robotics/Matcha-TTS-PL | 0 | 0 | [link](https://huggingface.co/hvsr-robotics/Matcha-TTS-PL) |
 | 2026-09-21 | Riasok/pi05-robot-checkpoints-20260912 | 0 | 0 | [link](https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912) |
 | 2026-09-21 | puppet-robotics/golf-model-2-8fps-30-rtc-precond | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-2-8fps-30-rtc-precond) |
 | 2026-09-21 | a-F1/qwcm-h200-robotwin-base-weights | 0 | 0 | [link](https://huggingface.co/a-F1/qwcm-h200-robotwin-base-weights) |
@@ -73,23 +76,20 @@ _No items collected yet._
 | 2026-09-21 | dreamdifferent/vam-cross-level4-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-56355f5f5f | 0 | 0 | [link](https://huggingface.co/dreamdifferent/vam-cross-level4-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-56355f5f5f) |
 | 2026-09-21 | puppet-robotics/golf-model-2-8fps-30-base | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-2-8fps-30-base) |
 | 2026-09-21 | huzican0419/robotwin_piper_x_new_sft_step99999_jax | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_new_sft_step99999_jax) |
-| 2026-09-21 | huzican0419/robotwin_piper_x_new_sft_step80k_jax | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_new_sft_step80k_jax) |
-| 2026-09-21 | huzican0419/robotwin_piper_x_new_sft_step60k_jax | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_new_sft_step60k_jax) |
-| 2026-09-21 | huzican0419/robotwin_piper_x_new_sft_step40k_jax | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_new_sft_step40k_jax) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28400 | Python | 11360.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28401 | Python | 11360.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3393 | Python | 1357.3 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1495 | Rust | 598.1 | [link](https://github.com/copper-project/copper-rs) |
 | pnoker/iot-dc3 | 1288 | Java | 515.3 | [link](https://github.com/pnoker/iot-dc3) |
 | mosaico-labs/mosaico | 1049 | Python | 419.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | robocurve/inspect-robots | 583 | Python | 233.3 | [link](https://github.com/robocurve/inspect-robots) |
-| Developer-Y/cs-video-courses | 83544 |  | 33417.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63695 | Python | 25478.1 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83545 |  | 33418.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63696 | Python | 25478.5 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30561 | Python | 12224.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | questdb/questdb | 17333 | Java | 6933.3 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 16229 | Python | 6491.7 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -108,27 +108,27 @@ _No items collected yet._
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-09-21 | Can Patent Filings Help Physical AI Companies Raise Capital? - The National Law Review | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNUpRWk81cEplMUFRMEZNMFp1aHZHOG4zU2NZLWJ1Rjkxc1Y4eDg4LWZIQWZ3TXhnLWlEcWdxYko1UDhabVdnandNc0hZWm1SUEdTMHVNaUoxd2FyRGJ2U1pvcG56bzRoVHhHaDlOVWQySHhjYWRmNmFySEUxTThlS1dnVzZnM0lmWEFnUjE4WjlXV0ZoeWlz0gGcAUFVX3lxTFBNLXMwenhfeml1bzBITUFFbXNCaXBSTWx4NkFtemlzOXlFLWE1MHoyVDFPckdyXzJJQnFheDktRzJNMDFTZXdxa1hUQ2l0Zk5pUy05cC1EZUx2MFdsUk9wdkc2Mk44UUJpWDBRUk5ndXZGMWdpZGtjYTlIRjNjMllCeGZMbnZoMGNxbzIwQzkxYmt2bmlfZVoyemgyYQ?oc=5) |
 | 2026-09-21 | MISUMI Americas Launches Venture Fund for Robotics, Hardware, Physical AI Startups - Supply & Demand Chain Executive | physical ai startup | [link](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU1JPTTNlYXpRWTM4VlFhSlFucjJxY1V0ejJxRmFhWmlSQ3RoZjZwdjdseHc3aFNaaEpVbFBQN1ZTdEZQQ2hxUXliNTlGRktZT0VkeElITVUwYkdlbWZKZUdaVW80V1diUUg1d0QtOGtwUUtSeU5uYWZaeW5ILXl6Y2lFeTVPd2JoMGZDY2c1Wk1iNVBOQXp4QUNaTG9TaUVlWFF0WnFGQVNHYl82RGhlaTBDYjNEZGRENEswaF9BeVpONGs4WTdTTXZUNDZxVXJIRDJwYzh2YkVldE9BQnFXcEViamZPcUktSk9ObmlR?oc=5) |
+| 2026-09-21 | Vantora, Formerly UP.Labs, Raises $100M to Build Proprietary Physical AI Startups for Corporate Partners - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ21kRVNON3NjQi1UR1BrQzFEQUNhaUc1UWEzOUJ6c0RpSU5YRm1LYUcxb2VmaW1icXBHY0U3OHBSdHhSdEpnSG1BeDF2bTRabFNMNVBBSFVRZkhpb2Fsd2pmSTNBc3d6cFNSUGRpWG5LQzkteEdUSTQ0LXFwWHhyVkU2WU84UEVZMTNLMFg2MG9IQlNfNFNzVFdCd1J5b3JOX2dlb1JJQU1rdXBpT0w0dUxOaHVMajhWTXc2ZFVha0NTUDRVWHpBbmZqbDNackE4RXYzVWNn?oc=5) |
 | 2026-09-21 | Alibaba-linked firm takes stake in embodied AI startup Moqi - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxOLXZNbWpmUnpVay1kRkFfQ2hON0lOXzl4UU9mNndLQlF5TUNoOFpLNF9FV2lKWjExZmxNeWdRQ1lfbzZ4YjJWLWZkei1FLW15cEhTRmp6ZmJIM0VxVnRhT0R2WUxPOGhNVVFweU9ZVE5VdHhqbGtLX205Ymw0TW9heVlKbF83TXdVT2JORjhWNUc?oc=5) |
 | 2026-09-21 | Chinese AI Startup Spirit AI Targets ChatGPT Like Breakthrough for Humanoid Robots - boldnewsonline.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2ttLVBCRU5VNl9iNFJ1ZEFrZmxBM01rM3plczl5WG15bWxpeWh2OVNlWkVwcjZ0SGFZYzFCcFdOMkE2Mm9QSU9yeS1URFNldmNvY2R1WkVEUnpPSjZjQ3ZhbW9PWXFjb0dGcGcyNVlJbWFwcGlXTzZKenBKdU44RmRFOFBkNGRkd3MtQ01zUzhsSFBGNkpybDgzVXdXNEtzT1RseW9yV0gxMEE3Rmdn?oc=5) |
 | 2026-09-20 | Asia Today: AI, Memory Chips, Electric Mobility & Fintech Deals - Asia Business Outlook | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTzdOREgtQ1gyU0NoS3NiSGJjNjE3cXl4R2JUWmcxNTNwRjhjU1pPaEhmdkFfYlV1Mk5wNFgzaDBCWm1MSktOc2VNNDVNZl9CMXU4Nks5UWdDVzh3eWNtRU9faVdZNEJ1YVRSQVl5eGdkcnFieVJxcUpDdzBnYWJZdVNiSjB0MnNXYUJtV290SnVQYi1aRDVSNzEwemM2S1R5bW5UNThyT3FHOU1xd2NqZFdITGFfQUJFQ1BN?oc=5) |
 | 2026-09-19 | Vantora Raises $100M to Build Proprietary Physical AI Startups for Industry - konsulteer.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxOblBMVEZiRHZRclZReUR3WmJqczVCaVYwS19WYll6TXh5cjN5ZWNnaWRIVjBWRXQ3VUhmR245ZWQ0U2N6azdULUVRQzhiaTdfcjRxUHRmeHNmMTZEWjZTWG5mZGI5MXNKX0NublRTODRXQ3dwcWdabnhfUndsbjBvOGVCZzhpV2szM1k5Ym82RENQVUxKVGZuVnJub2NSUEVIVXFsQ1V5YWtjV1ZmR0E?oc=5) |
-| 2026-09-19 | Vantora raises $100 million to build physical AI startups for corporates - ET Enterprise AI | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU0V5dTNnZDhZS0V0RnE0ZWJDVGZhNXhIOEJNNUxMcXhkMXM4S1VCV0VjQ0FzZi1NcUQ2Ry0waWlQb0NwbzFpZ1RqakJPVko2MXFOUk9iV0FQbDM3OGdneGlIeGd2OWV5M3ZiRUkzcWNhS1BVb3JyRjhxN1pnU2FtOWpOTER0YUxpeThDUXo1MGJ4cllmWlh3VGoySVRGeGhpbUpCcnU1WnJ6Tl9ERnlTdXpadzU3N0VxTUNuNUlDY04tTVl5MUExd1c4VWNDTG5jTkFJSktxNG9EclpMTEHSAeMBQVVfeXFMTW9adTZTSXJyTGdDdXRqYUMzUjRrUThqMHMtak5PUHlUaXBkU2FJSjVtVnhQemxsOTlJb211Qnhwa2IxWkFteTRPQlJLRE4yUnV4VUU0YXA0dnpVMUtfY2VyZkFYYTZJMG8ydkFXWjZ4bzB4ZHJELWRCX2J3WVhxZkktUXBVZWxCMnQ0Z1o3RnEwTFQyck8zUDR5VTQtZEotc3BtN0RYdUhPM1VlTDZDZGFhNFp2RE53SGtpa19xYWRJcjVJWDVETXJkaVJvQ2tGeEI0d25sSEdaQlpjaDNHTWluLVU?oc=5) |
-| 2026-09-19 | Vantora Raises $100 Million to Build Corporate Startups for Physical AI | Ukraine news - #Mezha - Межа. Новини України. | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ySFBzTWhfZ2xfcWhFSGN5N0h4MDNHQ3dMSzJuOHFfcUNSMEE2aTlzZUlDRjNQaXV4eUQzU09XTWpXUWFrY0FuMFMyY0dUeGlnWXhDbXlGd2xpMVRhYTQ3SmdBQmRLdnM?oc=5) |
-| 2026-09-19 | US startup builder Vantora raises $100m for physical AI ventures - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk4xSW1lM1lNUGkwcGo4QU9fSm94dldLM2ZPT2o0RzFZUi1iMjJYeTRnSlkwb2pkTzU4NUtfSXF6MkwwV2tPd21Qby1MQkdmUnZZenRjeDB6dEVXRzBXY0RlUk00ZEVVVFNUa3dDVVI2anZseHpRS3dzTXZ6bEt2enprWnRLVzBxY1pSUGtzM3VuQzFaRHZ6bw?oc=5) |
 | 2026-09-19 | 3 American Humanoid Robot Companies To Invest In: RoboStrategy CEO - Forbes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1ZiQnVkdU83a0xQSk5JSVZWYUE5dmd0VlhoVnh3azd5LUFkaHoxWXhCUEItRldkVzRaclN5NGNjT1NoVVAyeTZtLTlWM2NiOWh0LTZ5cWZVUFZhNXVYNHpDUldNMHZFT2lUNTI5YUJEeml5M2RVdGhKUzQ1UVlObEowWDBDUGs0Z19xVl9HNWFVaGFIeUFLNW5XR1p0amJmR3hMcjlaaEpYdnhmb2dqTTNwSWcyOHVudmxV?oc=5) |
-| 2026-09-18 | A startup that builds other startups raised $100M and is all-in on physical AI - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHZsWXJaaWFuNUhMLTN6aXp4NVpVOFNlUXpzT01iMVNSVW9hdUFfTk1DTUVrRFNrSGNXbm96Vm5PSmprR1EybXhvUm1HcFg2NG1zVkhRbmdISmNvYmV3VC1TUi1kM2VaTUc2UVdhMW91MHhSTmFkS19qb25mTTFOT2hURV8zbWlFUUhGbWJwbFE5QWlpLVIxVTBwM29RalNiNy0zY1RVODUyMmJIVWFrczdn?oc=5) |
+| 2026-09-19 | San Francisco startup sends humanoid robots to clean homes for $30 an hour, but humans still control the - The Times of India | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimwJBVV95cUxPbVpnRS16UTNNNkt5ckoyU0dMSGlpN3VLcEdyQmhXYl9ONTlqRnRaUnNQRFVDZ0k5UGpyZThSYXI3dm1rMjEtdzh4TE9kWXNRd0Qzc3ljZjB1UThkMVF3cHhGMGxQcU5rLXNfMlNxTGczT3ZHVXZwQ0RNUllIdW1Td21WTWVkMnplVFdlZ1hJQkxLYy1ja3RVdk1icFNtUkp2MmlEbUJsSGVmTEVVY0NjSV8yaGxBV2Myb0VRZG9qakNEM1B3RkRWbVdPV0RoRWpaYmU4UmdJM3VONmdhUFMxMW1NbDdUUHVGZ2lKRUk2ZjM1VzNEZU5zVHJaMmxmQmo2bmQtVXVCaEJIa0R5cHpZMi1NRldQVmJNMW5J0gGgAkFVX3lxTFAtV0IzY3BsVzFKazVzMjRwd2VzemNPd0F5NjJQaXdWamNmSDdEbUxyT1pzcEp2N25BVm9kRVRYODZMa0JvN0hwenBQbmE2LUFMeERjSVZnd1JJZmxrNUg1U083N2I2U3JjZ2ZDSEl2Y1o2S091ZktvTlNoM3I1OUU2QXV4QVlVU2ZvTzV6bEJNLUdpc0VkNnBpaExNT3Jmb3o1d29SQnFNaWZkT3pSVDFTN2hvQzREaldnT2djUWlKSjBDTS1EQW5FcmpHZFdqWjRqMmoxVUdrMXYzSUY5ZlI2czlsNlRiSGNFRlJwOW51VHJmZksxZi1fcTJnTnVVOUNHWVZVTUZ0Sjl3TE1aSmVhZS1FUlRXRXZPVjZkUDZXcQ?oc=5) |
+| 2026-09-18 | A startup that builds other startups raised $100M and is all-in on physical AI - techcrunch.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHZsWXJaaWFuNUhMLTN6aXp4NVpVOFNlUXpzT01iMVNSVW9hdUFfTk1DTUVrRFNrSGNXbm96Vm5PSmprR1EybXhvUm1HcFg2NG1zVkhRbmdISmNvYmV3VC1TUi1kM2VaTUc2UVdhMW91MHhSTmFkS19qb25mTTFOT2hURV8zbWlFUUhGbWJwbFE5QWlpLVIxVTBwM29RalNiNy0zY1RVODUyMmJIVWFrczdn?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-21 | Senior Hardware Test Engineer - Mechatronics | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6019178004) |
+| 2026-09-21 | Staff HiL SW Infrastructure Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6105233004) |
 | 2026-09-18 | Principal Technical Program Manager | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5996525004) |
 | 2026-09-17 | Security Engineer, Enterprise Security | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4714390006) |
 | 2026-09-17 | Security Engineer - Infrastructure Security | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4714381006) |
-| 2026-09-17 | Senior Hardware Test Engineer - Mechatronics | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6019178004) |
 | 2026-09-17 | Senior Systems Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5833390004) |
 | 2026-09-17 | Staff Firmware Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5789714004) |
-| 2026-09-17 | Staff HiL SW Infrastructure Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6105233004) |
 | 2026-09-17 | Staff Systems Engineer, Functional Safety | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5986772004) |
 | 2026-09-17 | Staff Systems Validation Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5833376004) |
 | 2026-09-16 | Director, Product Quality | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6139687004) |

@@ -1,13 +1,23 @@
 [
   {
     "repo": "harvard-edge/cs249r_book",
-    "stars": 28400,
+    "stars": 28401,
     "language": "Python",
     "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
     "url": "https://github.com/harvard-edge/cs249r_book",
     "date": "2026-09-21",
     "topic": "embodied-ai",
-    "score": 11360.1
+    "score": 11360.5
+  },
+  {
+    "repo": "NVIDIA/skills",
+    "stars": 3393,
+    "language": "Python",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "url": "https://github.com/NVIDIA/skills",
+    "date": "2026-09-21",
+    "topic": "physical-ai",
+    "score": 1357.3
   },
   {
     "repo": "copper-project/copper-rs",
@@ -51,23 +61,23 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 83544,
+    "stars": 83545,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-09-21",
     "topic": "robotics",
-    "score": 33417.7
+    "score": 33418.1
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63695,
+    "stars": 63696,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-09-21",
     "topic": "robotics",
-    "score": 25478.1
+    "score": 25478.5
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -91,13 +101,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 16229,
+    "stars": 16230,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-09-21",
     "topic": "robotics",
-    "score": 6491.7
+    "score": 6492.1
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -151,13 +161,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS-core",
-    "stars": 2472,
+    "stars": 2474,
     "language": "Python",
     "description": "PhyAgentOS is a Recursive Self-Improving (RSI)  physical agent operating system that enables agents to recursively self-improve through agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
     "date": "2026-09-21",
     "topic": "embodied-ai",
-    "score": 988.9
+    "score": 989.7
   },
   {
     "repo": "dexmal/opendm",
@@ -191,23 +201,23 @@
   },
   {
     "repo": "deeplethe/utopia",
-    "stars": 9596,
+    "stars": 9597,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-09-21",
     "topic": "world-model",
-    "score": 3838.5
+    "score": 3838.9
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 6965,
+    "stars": 6971,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-09-21",
     "topic": "world-model",
-    "score": 2786.1
+    "score": 2788.5
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -221,13 +231,13 @@
   },
   {
     "repo": "OpenHUTB/hutb",
-    "stars": 612,
+    "stars": 613,
     "language": "C++",
     "description": "人车模拟器（Human-vehicle Simulator）",
     "url": "https://github.com/OpenHUTB/hutb",
     "date": "2026-09-21",
     "topic": "humanoid",
-    "score": 244.9
+    "score": 245.3
   },
   {
     "repo": "softmata/horus",
@@ -338,16 +348,6 @@
     "date": "2026-09-20",
     "topic": "humanoid",
     "score": 47.3
-  },
-  {
-    "repo": "NVIDIA/skills",
-    "stars": 3391,
-    "language": "Python",
-    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
-    "url": "https://github.com/NVIDIA/skills",
-    "date": "2026-09-19",
-    "topic": "physical-ai",
-    "score": 1356.5
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
@@ -531,13 +531,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2594,
+    "stars": 2597,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-09-13",
     "topic": "robot-learning",
-    "score": 1037.7
+    "score": 1038.9
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
