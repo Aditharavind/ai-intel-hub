@@ -1,12 +1,15 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-21 14:34 UTC
+Last Updated: 2026-09-21 19:46 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-21 | Advisory Group on Mathematics and Artificial Intelligence | OpenAI | [link](https://openai.com/index/advisory-group-on-mathematics-and-ai) |
+| 2026-09-21 | Building standards for the next phase of AI | OpenAI | [link](https://openai.com/index/building-standards-next-phase-ai) |
+| 2026-09-21 | Expanding OpenAI Academy with new learning paths | OpenAI | [link](https://openai.com/index/expanding-openai-academy-with-new-learning-paths) |
 | 2026-09-21 | How V7 gives AI agents institutional memory | OpenAI | [link](https://openai.com/index/v7) |
 | 2026-09-21 | Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem | Hugging Face | [link](https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an) |
 | 2026-09-21 | tokenizers v1: encode, decode and scaling, measured | Hugging Face | [link](https://huggingface.co/blog/tokenizers-v1) |
@@ -14,14 +17,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-17 | How Cooley is accelerating IPO work with ChatGPT | OpenAI | [link](https://openai.com/index/cooley-gopublic) |
 | 2026-09-17 | Introducing Astra for Law | OpenAI | [link](https://openai.com/index/astra-for-law) |
 | 2026-09-16 | Helping older adults use AI in everyday life | OpenAI | [link](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life) |
-| 2026-09-16 | Reimagining advertising with AI | OpenAI | [link](https://openai.com/index/reimagining-advertising-with-ai) |
-| 2026-09-16 | Hex turns complex analysis into visual reports with GPT‑6 Astra | OpenAI | [link](https://openai.com/index/hex-gpt-6-astra) |
-| 2026-09-16 | How to connect AI usage to business value | OpenAI | [link](https://openai.com/index/how-to-connect-ai-usage-to-business-value) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
-| 2026-09-21 | Boston Dynamics opens Metaplant Application Center to train Atlas humanoid robots | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots/) |
+| 2026-09-21 | Boston Dynamics opens Metaplant Application Center to train Atlas humanoids | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots/) |
 | 2026-09-16 | Rethinking Robot Safety in the Age of AI | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone) |
 | 2026-09-16 | The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5 | Robotics Business Review | [link](https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5/) |
 | 2026-09-15 | Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/humanoid-robot-safety) |
@@ -35,7 +35,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
-| 2026-09-21 | Boston Dynamics opens Metaplant Application Center to train Atlas humanoid robots | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots/) |
+| 2026-09-21 | Boston Dynamics opens Metaplant Application Center to train Atlas humanoids | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots/) |
+| 2026-09-21 | IAC completes autonomous racing event at Laguna Seca | Robotics Business Review | [link](https://www.therobotreport.com/iac-completes-autonomous-racing-event-at-laguna-seca/) |
+| 2026-09-21 | Why Deploying Physical AI at Scale Demands Safety at Every Layer | NVIDIA Robotics | [link](https://blogs.nvidia.com/blog/physical-ai-halos-safety/) |
 | 2026-09-20 | What do you do with a humanoid robot when it breaks down? | Robotics Business Review | [link](https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/) |
 | 2026-09-19 | Hirebotics adds line tracking and linear rail capabilities to its cobots | Robotics Business Review | [link](https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots/) |
 | 2026-09-18 | Neptune Medical earns FDA clearance for its Triton 1 robotic system | Robotics Business Review | [link](https://www.therobotreport.com/neptune-medical-earns-fda-clearance-triton-1-robotic-system/) |
@@ -43,22 +45,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-18 | Video Friday: Two Birotors Make a Quadrotor | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor) |
 | 2026-09-18 | SoftBank agrees to acquire Robotics and AI Institute | Robotics Business Review | [link](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/) |
 | 2026-09-18 | F-Prime Capital to give insights on the state of robotics investments at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/f-prime-capital-give-insights-state-robotics-investments-robobusiness/) |
-| 2026-09-18 | The picks-and-shovels strategy behind the robotics boom | Robotics Business Review | [link](https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/) |
-| 2026-09-17 | Robotics investments reach $4.9B in August 2026 | Robotics Business Review | [link](https://www.therobotreport.com/robotics-investments-reach-4-9b-in-august-2026/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-21 | Pedal Harder for Affordability | Hackaday | [link](https://hackaday.com/2026/09/21/pedal-harder-for-affordability/) |
+| 2026-09-21 | The First Floating Nuclear Power Station | Hackaday | [link](https://hackaday.com/2026/09/21/the-first-floating-nuclear-power-station/) |
+| 2026-09-21 | The RP2350 Does 1080p | Hackaday | [link](https://hackaday.com/2026/09/21/the-rp2350-does-1080p/) |
 | 2026-09-21 | DIY Router on x86 E-Waste: OpenWrt and OPNsense | Hackaday | [link](https://hackaday.com/2026/09/21/diy-router-on-x86-e-waste-openwrt-and-opnsense/) |
 | 2026-09-21 | Searching for Dark Matter with a Levitating Magnet | Hackaday | [link](https://hackaday.com/2026/09/21/searching-for-dark-matter-with-a-levitating-magnet/) |
 | 2026-09-21 | The Sinclair Spectrum Gets A Desktop GUI | Hackaday | [link](https://hackaday.com/2026/09/21/the-sinclair-spectrum-gets-a-desktop-gui/) |
 | 2026-09-21 | Making a Copper-Oxide Photodetector from Scratch | Hackaday | [link](https://hackaday.com/2026/09/20/making-a-copper-oxide-photodetector-from-scratch/) |
-| 2026-09-21 | Hackaday Links: September 20, 2026 | Hackaday | [link](https://hackaday.com/2026/09/20/hackaday-links-september-20-2026/) |
 | 2026-09-21 | Realtek RTL8773J – A Bluetooth 7-ready Cortex-M55/M33 microcontroller with HDT support | CNX Software | [link](https://www.cnx-software.com/2026/09/21/realtek-rtl8773j-a-bluetooth-7-ready-cortex-m55-m33-microcontroller-with-hdt-support/) |
 | 2026-09-21 | Brainchip AKD1500 M.2 and PCIe Edge AI cards, BrainBoard 1500 SPI module now available for $99 and up | CNX Software | [link](https://www.cnx-software.com/2026/09/21/brainchip-akd1500-m-2-and-pcie-edge-ai-cards-brainboard-1500-spi-module/) |
 | 2026-09-21 | The Hidden Cost of Embedded Databases on NAND Flash Memory | Embedded.com | [link](https://www.embedded.com/the-hidden-cost-of-embedded-databases-on-nand-flash-memory/) |
-| 2026-09-21 | Nordic nRF54LC10A SoC expands nRF54L series for cost-sensitive IoT | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/nordic-nrf54lc10a-soc-expands-nrf54l-series-for-cost-sensitive-iot-2026-09/) |
-| 2026-09-21 | EnduroSat raises $205m to build satellites at the volume of drones | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/finance/endurosat-raises-205m-to-build-satellites-at-the-volume-of-drones-2026-09/) |
 
 ## New Research Papers
 _No items collected yet._
@@ -67,6 +67,8 @@ _No items collected yet._
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-09-21 | Riasok/pi05-robot-checkpoints-20260912 | 0 | 0 | [link](https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912) |
+| 2026-09-21 | puppet-robotics/golf-model-2-8fps-30-rtc-precond | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-2-8fps-30-rtc-precond) |
+| 2026-09-21 | a-F1/qwcm-h200-robotwin-base-weights | 0 | 0 | [link](https://huggingface.co/a-F1/qwcm-h200-robotwin-base-weights) |
 | 2026-09-21 | dreamdifferent/vam-cross-level4-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-4627f2f3a7 | 0 | 0 | [link](https://huggingface.co/dreamdifferent/vam-cross-level4-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-4627f2f3a7) |
 | 2026-09-21 | dreamdifferent/vam-cross-level4-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-56355f5f5f | 0 | 0 | [link](https://huggingface.co/dreamdifferent/vam-cross-level4-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-56355f5f5f) |
 | 2026-09-21 | puppet-robotics/golf-model-2-8fps-30-base | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-2-8fps-30-base) |
@@ -74,36 +76,34 @@ _No items collected yet._
 | 2026-09-21 | huzican0419/robotwin_piper_x_new_sft_step80k_jax | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_new_sft_step80k_jax) |
 | 2026-09-21 | huzican0419/robotwin_piper_x_new_sft_step60k_jax | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_new_sft_step60k_jax) |
 | 2026-09-21 | huzican0419/robotwin_piper_x_new_sft_step40k_jax | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_new_sft_step40k_jax) |
-| 2026-09-21 | unileon-robotics/YOLO26-ONNX | 0 | 0 | [link](https://huggingface.co/unileon-robotics/YOLO26-ONNX) |
-| 2026-09-21 | jungwook2358/allex-eef-N-robotonly-h40rel | 0 | 0 | [link](https://huggingface.co/jungwook2358/allex-eef-N-robotonly-h40rel) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28399 | Python | 11359.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28400 | Python | 11360.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 | copper-project/copper-rs | 1495 | Rust | 598.1 | [link](https://github.com/copper-project/copper-rs) |
+| pnoker/iot-dc3 | 1288 | Java | 515.3 | [link](https://github.com/pnoker/iot-dc3) |
 | mosaico-labs/mosaico | 1049 | Python | 419.7 | [link](https://github.com/mosaico-labs/mosaico) |
-| robocurve/inspect-robots | 581 | Python | 232.5 | [link](https://github.com/robocurve/inspect-robots) |
-| commaai/openpilot | 63696 | Python | 25478.5 | [link](https://github.com/commaai/openpilot) |
-| questdb/questdb | 17334 | Java | 6933.7 | [link](https://github.com/questdb/questdb) |
-| zauberzeug/nicegui | 16223 | Python | 6489.3 | [link](https://github.com/zauberzeug/nicegui) |
-| earthtojake/text-to-cad | 16223 | Python | 6489.3 | [link](https://github.com/earthtojake/text-to-cad) |
-| ArduPilot/ardupilot | 15910 | C++ | 6364.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 15258 | C++ | 6103.3 | [link](https://github.com/google-deepmind/mujoco) |
+| robocurve/inspect-robots | 583 | Python | 233.3 | [link](https://github.com/robocurve/inspect-robots) |
+| Developer-Y/cs-video-courses | 83544 |  | 33417.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63695 | Python | 25478.1 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30561 | Python | 12224.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| questdb/questdb | 17333 | Java | 6933.3 | [link](https://github.com/questdb/questdb) |
+| earthtojake/text-to-cad | 16229 | Python | 6491.7 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
-| 2026-09-21 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzcwTk1oOWQzbGNkRVJ1MTdsSGtON244WXFqdk5TNHQ5cHBPck94VVhCanFtZmY2S3UyYkZGY0ozcGE5eXFTVElja0hwODR6djI1d0pvM0dIS1ZSbHNMTm9yZ29iMFZ1bU43bklyYXc1SGJFNnV3MEpMaGtiTks2TktCejZpOXN4a1U4ek14SGZhMHc5cHFDMEdtUEk?oc=5) |
 | 2026-09-21 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQmFWSTF5RExCM0kxZ3k4RTRtbVkzWmgxVjVhTkpTeF9VbWxsSVZGaWY5QXkyY2h1UEdRelJUb2FYcWlLdVEwRUtMQktkNExqd2RRZmVfMWZaeDYxNlVvU3F1UVdTbnJnVmJuUTJySG5fX2g2aUVhUWNNNWtNRW9VSjJEeFNKSmxCZ3ZTS1hmZG93blZRdXNtcFFQbEllYnYyTFUtM3dVUXRzeTUxa3VIV2o1Q0NXX2RWclRyUzVuUHpDaGNXX0t1bTBIRW83dDh1dVJCbjQ0LW9sQ1BrcEVGQ0VBdw?oc=5) |
-| 2026-09-18 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUFxbDRKOVBBRE9QZUtfRkNzTTlUaXJQaU1zZC03UkZlLVhUWDNHa2Fhc2lFTDRMREViMjJnd21NWG83ZDB2QS1wSG1EUnBtNXdOYmZBZGxmbTVFNnk1RDYtSm1hTTFNem0wTVlka1FfT2otcTU3ekJTQmNhRHlseTNIbnBUUnB1VDJTaG9hSE5aeDl4VE1ybw?oc=5) |
+| 2026-09-21 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzcwTk1oOWQzbGNkRVJ1MTdsSGtON244WXFqdk5TNHQ5cHBPck94VVhCanFtZmY2S3UyYkZGY0ozcGE5eXFTVElja0hwODR6djI1d0pvM0dIS1ZSbHNMTm9yZ29iMFZ1bU43bklyYXc1SGJFNnV3MEpMaGtiTks2TktCejZpOXN4a1U4ek14SGZhMHc5cHFDMEdtUEk?oc=5) |
 | 2026-09-18 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxOLXRsTTZLTWQ0cWhYVHpDcHBHcThXc3NlUTE1Zkd6Y2c3S0Z5WmJNTm5ZZzN3UURQUTEyZzA5Qkx5akRJX1RSNGxpSHNzTHlVWWlYUFRmcnVsaHFzeHFEQ1FQWG5SY0ZlVWpfUFQxejVvUzZSWHVzakJJdVNObllzWkw3TWpOdw?oc=5) |
 | 2026-09-16 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQeUFSRWNnR1QtQ0w3NTY4Y1BjUlV6SlBQclAxYVJuWGFabjBqSkxoNERDelc0ZkNiRjF5ZEcyc2Z6aU9selJGNWF2NDNrUVpOczJQX2ZINFlhZ3FfZFBtYl83RWtNNThRWnlXcTVKVFlob2pQU2x4b1lNUy0yS09DVHk3X3V6WVFtSmJZWUtYT1JXelRPM19ETi1qRko5SGpveEp1N29tY0x1aHVKbEdDYjM5ZUtaQlRBaWZkcWNrUFhSZTdt?oc=5) |
 | 2026-09-15 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxNekJkakdmV0NRSUdURnYxNUtBbVFxdm9jN3YySlJiTXNYLXpnRnBsb2NUai05Q2YyNERTZWpNWU13emgwY0o1ZmhyTUVGRVF5eVMxZzNGUHlUbmt5MnVaUmprME9NZkZlbWwwX05fM2dWSG43UElNcTBSX3VnaV9qRlpIOGFXanFEbU5YenRJWFVSSmJpUllGQ1dMbFNLeDhDTkFSUWNOZUY2TDVURjloUFp4RTBwWGFndW9ucjVSVndfN3dFNU5J?oc=5) |
-| 2026-09-15 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVktta2dyNHlKY0pyTWpaeGFvek5wa2JKZTVKbXdGZ3p3bjZ5aFRBZDRNWlVadGVJQnhFSGxmSEJidDRtcjJQR0k5TFVZdFlGQmZIckxvYUtnSG5QeGRMa2NNdmRrZ2d3QWh5dUk3dHpLazhWYl9xZFRJWUd3N0FSOGU3M3lYZnJzUF9BbXNVLWFTX0Z0MHNaNnl4UklWX2V3RnBfa2tXaVV0OWRCUWc?oc=5) |
 | 2026-09-14 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTWpiTlNmSjROU2hWME1sQjZUTWxfVUg2M1cyVkVfVmduOUZ5ejBNM0pGSk9Sd3Y0Z1lQN2NreEN5ZVVwcWpuYnVObUVNWWZuUXc?oc=5) |
 | 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUG9xNjNSb3NaNnQtX1dBNzV0WmJFTFdCRS1uLXkzQUt3OTJFTmxzWUZ0c2l2RFUxZGU1R1lKcHgydDBURVozRmlZTU41aXZvVTBuQmFfM2RUSFJFVmRnY2w4Qm1fWEFUdnpoVVFCd3o5RFRncjhaNGN3NHNVaHNqUFhFMnBJanJHM1lCSHlmTzN3dFJqT2RKY3N0TG9keUo3al94SEJCSGlnT3drTjU0UF85Rkt3YU14U21TTXZqcURKY09XUF9V?oc=5) |
 | 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1tZG9Nak05YThrN2JjY2c5RXlUd3Y3Wm5mUlB2RFBmQXFMNGswcl9kck5sdlptRTFwZzdWNmRsSjFPb1pjN1NBZVdKMnNReU9lWkJndnRYSlBPY1NWSmsyRXJCeG9adVNIbG1sbGVQZGI3S2tfN2c?oc=5) |
+| 2026-09-13 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE01US1obFlpTUI2aXV2aWVIbFMxemNyLW1DalQ3TkRobDRYcFYwSE1kQmpMbHpWbDFEajRhQmtsMllpMUVyaUs1RUtYNzRlX1ZLVUwxNnVZQUZlLVRZSzZOUmFGY3hXYnFnYnNmZzc4OUZWOWEybnc?oc=5) |
+| 2026-09-10 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTFBTVm5nbU5PX0dGV2ZvaVo0MGZzV0sxdmRwdFFoM2x4aWJySGhmVjRJbUVSb3R6MHRiZ2M4dHNhTmlfTjV1cHVqRFNDNXo4d0QydFozbGRKanppdXN1dHBYbDZqYndUcGU5NUUw?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

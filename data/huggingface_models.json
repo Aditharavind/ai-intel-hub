@@ -9,6 +9,24 @@
     "score": 0.1
   },
   {
+    "model": "puppet-robotics/golf-model-2-8fps-30-rtc-precond",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/golf-model-2-8fps-30-rtc-precond",
+    "date": "2026-09-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "a-F1/qwcm-h200-robotwin-base-weights",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/a-F1/qwcm-h200-robotwin-base-weights",
+    "date": "2026-09-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "dreamdifferent/vam-cross-level4-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-4627f2f3a7",
     "downloads": 0,
     "likes": 0,
@@ -90,109 +108,19 @@
     "score": 0.1
   },
   {
-    "model": "D-Robotics/Uranus-1.3B-Distillation",
+    "model": "mim-chess-vlas/jr-pnp-ab-30p-nomask__pi__05",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/D-Robotics/Uranus-1.3B-Distillation",
-    "date": "2026-09-21",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "D-Robotics/Uranus-1.3B",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/D-Robotics/Uranus-1.3B",
-    "date": "2026-09-21",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "vladlen-beilik/ltx-2.3-runpod",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladlen-beilik/ltx-2.3-runpod",
+    "url": "https://huggingface.co/mim-chess-vlas/jr-pnp-ab-30p-nomask__pi__05",
     "date": "2026-09-21",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/train_800_complex__no_mask__pi0__seed_0",
+    "model": "mim-chess-vlas/jr-pnp-ab-100p-nomask__pi__05",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__no_mask__pi0__seed_0",
-    "date": "2026-09-21",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/jr-pnp-b-100p-nomask__pi__05",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/jr-pnp-b-100p-nomask__pi__05",
-    "date": "2026-09-21",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/jr-pnp-ab-5p-nomask__pi__05",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/jr-pnp-ab-5p-nomask__pi__05",
-    "date": "2026-09-21",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_complex__point__overlay_a75__sim__all_cameras__live__pi0__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__point__overlay_a75__sim__all_cameras__live__pi0__seed_0",
-    "date": "2026-09-21",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_sparse__no_mask__groot__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__no_mask__groot__seed_0",
-    "date": "2026-09-21",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_complex__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "date": "2026-09-21",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/jr-pnp-b-5p-nomask__pi__05",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/jr-pnp-b-5p-nomask__pi__05",
-    "date": "2026-09-21",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/jr-pnp-b-30p-nomask__pi__05",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/jr-pnp-b-30p-nomask__pi__05",
-    "date": "2026-09-21",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_complex__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__mask__blackout_a50__sim__all_cameras__live__pi05__seed_0",
+    "url": "https://huggingface.co/mim-chess-vlas/jr-pnp-ab-100p-nomask__pi__05",
     "date": "2026-09-21",
     "keyword": "vla",
     "score": 0.1
@@ -213,6 +141,87 @@
     "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__bbox__overlay_a75__sim__all_cameras__live__pi0__seed_0",
     "date": "2026-09-21",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_complex__no_mask__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__no_mask__pi05__seed_0",
+    "date": "2026-09-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_complex__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__bbox__overlay_a100__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_complex__no_mask__pi0__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__no_mask__pi0__seed_0",
+    "date": "2026-09-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "LehongWu/arvla-loong-language_table_vla-0.8B-tok_a10_w256_d6_v16_h8_msedct03_cwd-0921_1035",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/LehongWu/arvla-loong-language_table_vla-0.8B-tok_a10_w256_d6_v16_h8_msedct03_cwd-0921_1035",
+    "date": "2026-09-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_complex__point__overlay_a75__sim__all_cameras__live__pi0__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__point__overlay_a75__sim__all_cameras__live__pi0__seed_0",
+    "date": "2026-09-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "MIT-Media-Lab/vla-hand-table1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MIT-Media-Lab/vla-hand-table1",
+    "date": "2026-09-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_dense__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/jr-pnp-ab-5p-nomask__pi__05",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/jr-pnp-ab-5p-nomask__pi__05",
+    "date": "2026-09-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Banskie/newborn-250m-dual-memory-world-model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Banskie/newborn-250m-dual-memory-world-model",
+    "date": "2026-09-21",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -258,6 +267,15 @@
     "url": "https://huggingface.co/runtime-contracts/qwen3-8b-navigation-lora-persistent",
     "date": "2026-09-21",
     "keyword": "navigation",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-09-21_cheap_shakeit_bench_3sensors_v2_pzt_disk_nfft_512",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-09-21_cheap_shakeit_bench_3sensors_v2_pzt_disk_nfft_512",
+    "date": "2026-09-21",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -312,6 +330,24 @@
     "url": "https://huggingface.co/daisy-zzz/policyweave-piper",
     "date": "2026-09-21",
     "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "D-Robotics/Uranus-1.3B-Distillation",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/D-Robotics/Uranus-1.3B-Distillation",
+    "date": "2026-09-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "D-Robotics/Uranus-1.3B",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/D-Robotics/Uranus-1.3B",
+    "date": "2026-09-21",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -405,15 +441,6 @@
     "score": 3.4
   },
   {
-    "model": "oniichan521/g1-atl-stomp-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/oniichan521/g1-atl-stomp-policy",
-    "date": "2026-09-19",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "hwihwalab/malecns-connectome-robotics-2026",
     "downloads": 0,
     "likes": 0,
@@ -486,15 +513,6 @@
     "score": 9.4
   },
   {
-    "model": "no1tobyfoxfam/worlds-most-erratic-ai-model-model-model",
-    "downloads": 24,
-    "likes": 0,
-    "url": "https://huggingface.co/no1tobyfoxfam/worlds-most-erratic-ai-model-model-model",
-    "date": "2026-09-17",
-    "keyword": "world model",
-    "score": 7.3
-  },
-  {
     "model": "sedeboer/course-robotics-vision-language",
     "downloads": 12,
     "likes": 0,
@@ -556,15 +574,6 @@
     "date": "2026-09-16",
     "keyword": "robotics",
     "score": 0.1
-  },
-  {
-    "model": "peggylpl/robotics-vision-language",
-    "downloads": 14,
-    "likes": 0,
-    "url": "https://huggingface.co/peggylpl/robotics-vision-language",
-    "date": "2026-09-16",
-    "keyword": "robotics",
-    "score": 4.3
   },
   {
     "model": "WilliamS05/embodied-ai-survey",

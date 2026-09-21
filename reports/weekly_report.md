@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-21 14:34 UTC
+Generated: 2026-09-21 19:46 UTC
 
 ## Top Papers
 _No items collected yet._
@@ -8,11 +8,11 @@ _No items collected yet._
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83545 | 33418.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63696 | 25478.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44580 | 17832.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| Developer-Y/cs-video-courses | 83544 | 33417.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63695 | 25478.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44579 | 17831.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30561 | 12224.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28399 | 11359.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28400 | 11360.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -26,11 +26,11 @@ _No items collected yet._
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
-| 2026-09-21 | Unitree |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzcwTk1oOWQzbGNkRVJ1MTdsSGtON244WXFqdk5TNHQ5cHBPck94VVhCanFtZmY2S3UyYkZGY0ozcGE5eXFTVElja0hwODR6djI1d0pvM0dIS1ZSbHNMTm9yZ29iMFZ1bU43bklyYXc1SGJFNnV3MEpMaGtiTks2TktCejZpOXN4a1U4ek14SGZhMHc5cHFDMEdtUEk?oc=5) |
 | 2026-09-21 | Unitree |  | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQmFWSTF5RExCM0kxZ3k4RTRtbVkzWmgxVjVhTkpTeF9VbWxsSVZGaWY5QXkyY2h1UEdRelJUb2FYcWlLdVEwRUtMQktkNExqd2RRZmVfMWZaeDYxNlVvU3F1UVdTbnJnVmJuUTJySG5fX2g2aUVhUWNNNWtNRW9VSjJEeFNKSmxCZ3ZTS1hmZG93blZRdXNtcFFQbEllYnYyTFUtM3dVUXRzeTUxa3VIV2o1Q0NXX2RWclRyUzVuUHpDaGNXX0t1bTBIRW83dDh1dVJCbjQ0LW9sQ1BrcEVGQ0VBdw?oc=5) |
-| 2026-09-18 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUFxbDRKOVBBRE9QZUtfRkNzTTlUaXJQaU1zZC03UkZlLVhUWDNHa2Fhc2lFTDRMREViMjJnd21NWG83ZDB2QS1wSG1EUnBtNXdOYmZBZGxmbTVFNnk1RDYtSm1hTTFNem0wTVlka1FfT2otcTU3ekJTQmNhRHlseTNIbnBUUnB1VDJTaG9hSE5aeDl4VE1ybw?oc=5) |
+| 2026-09-21 | Unitree |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzcwTk1oOWQzbGNkRVJ1MTdsSGtON244WXFqdk5TNHQ5cHBPck94VVhCanFtZmY2S3UyYkZGY0ozcGE5eXFTVElja0hwODR6djI1d0pvM0dIS1ZSbHNMTm9yZ29iMFZ1bU43bklyYXc1SGJFNnV3MEpMaGtiTks2TktCejZpOXN4a1U4ek14SGZhMHc5cHFDMEdtUEk?oc=5) |
 | 2026-09-18 | Skild AI |  | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxOLXRsTTZLTWQ0cWhYVHpDcHBHcThXc3NlUTE1Zkd6Y2c3S0Z5WmJNTm5ZZzN3UURQUTEyZzA5Qkx5akRJX1RSNGxpSHNzTHlVWWlYUFRmcnVsaHFzeHFEQ1FQWG5SY0ZlVWpfUFQxejVvUzZSWHVzakJJdVNObllzWkw3TWpOdw?oc=5) |
 | 2026-09-16 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQeUFSRWNnR1QtQ0w3NTY4Y1BjUlV6SlBQclAxYVJuWGFabjBqSkxoNERDelc0ZkNiRjF5ZEcyc2Z6aU9selJGNWF2NDNrUVpOczJQX2ZINFlhZ3FfZFBtYl83RWtNNThRWnlXcTVKVFlob2pQU2x4b1lNUy0yS09DVHk3X3V6WVFtSmJZWUtYT1JXelRPM19ETi1qRko5SGpveEp1N29tY0x1aHVKbEdDYjM5ZUtaQlRBaWZkcWNrUFhSZTdt?oc=5) |
+| 2026-09-15 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxNekJkakdmV0NRSUdURnYxNUtBbVFxdm9jN3YySlJiTXNYLXpnRnBsb2NUai05Q2YyNERTZWpNWU13emgwY0o1ZmhyTUVGRVF5eVMxZzNGUHlUbmt5MnVaUmprME9NZkZlbWwwX05fM2dWSG43UElNcTBSX3VnaV9qRlpIOGFXanFEbU5YenRJWFVSSmJpUllGQ1dMbFNLeDhDTkFSUWNOZUY2TDVURjloUFp4RTBwWGFndW9ucjVSVndfN3dFNU5J?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
