@@ -1,5 +1,26 @@
 [
   {
+    "title": "How V7 gives AI agents institutional memory",
+    "source": "OpenAI",
+    "date": "2026-09-21",
+    "url": "https://openai.com/index/v7",
+    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
+  },
+  {
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "source": "Hugging Face",
+    "date": "2026-09-21",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "summary": ""
+  },
+  {
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "source": "Hugging Face",
+    "date": "2026-09-21",
+    "url": "https://huggingface.co/blog/tokenizers-v1",
+    "summary": ""
+  },
+  {
     "title": "Introducing the Australian Youth Safety Blueprint",
     "source": "OpenAI",
     "date": "2026-09-18",
@@ -84,13 +105,6 @@
     "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
   },
   {
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "source": "OpenAI",
-    "date": "2026-09-11",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
-  },
-  {
     "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
     "source": "Hugging Face",
     "date": "2026-09-10",
@@ -102,13 +116,6 @@
     "source": "Hugging Face",
     "date": "2026-09-10",
     "url": "https://huggingface.co/blog/gradio-workflow-1111",
-    "summary": ""
-  },
-  {
-    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-    "source": "Hugging Face",
-    "date": "2026-09-08",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
     "summary": ""
   },
   {
@@ -158,13 +165,6 @@
     "source": "Hugging Face",
     "date": "2026-08-28",
     "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-    "summary": ""
-  },
-  {
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "source": "Hugging Face",
-    "date": "2026-08-26",
-    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
     "summary": ""
   },
   {
