@@ -1,5 +1,19 @@
 [
   {
+    "title": "Raspberry Pi Locks Down RAM Upgrades",
+    "source": "Hackaday",
+    "date": "2026-09-22",
+    "url": "https://hackaday.com/2026/09/22/raspberry-pi-locks-down-ram-upgrades/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"458\" src=\"https://hackaday.com/wp-content/uploads/2024/02/raspberry_pi_5.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In a recent video [Jeff Geerling] addresses an issue discovered with the Raspberry Pi firmware, specifically how since around 2024 the firmware locks down what RAM size and even module <a class=\"read-more\" href=\"https://hackaday.com/2026/09/22/raspberry-pi-locks-down-ram-upgrades/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Tiny Scratch-Built Cyberdeck is in Mint Condition",
+    "source": "Hackaday",
+    "date": "2026-09-22",
+    "url": "https://hackaday.com/2026/09/22/tiny-scratch-built-cyberdeck-is-in-mint-condition/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/I-Built-a-Tiny-Cyberdeck-Inside-an-Altoids-Tin-From-Scratch-0-3-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Salim Benbouziyane] shows off his TN Deck, a tiny custom cyberdeck built into an Altoids tin. It&#8217;s a skillful build that really makes the most of the available space, and <a class=\"read-more\" href=\"https://hackaday.com/2026/09/22/tiny-scratch-built-cyberdeck-is-in-mint-condition/\">&#8230;read more</a>"
+  },
+  {
     "title": "A Computer Terminal the Old Way",
     "source": "Hackaday",
     "date": "2026-09-22",
@@ -14,6 +28,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"400\" src=\"https://hackaday.com/wp-content/uploads/2026/09/neutrino_laser_aps_carin_cain.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As cool as it would have been to wield lasers that produce a beam of neutrinos, recently two papers were published by MIT researchers that seem to dampen the likelihood <a class=\"read-more\" href=\"https://hackaday.com/2026/09/21/new-research-suggests-that-a-neutrino-laser-is-impossible/\">&#8230;read more</a>"
   },
   {
+    "title": "Gearotons M17 – A low-cost NEMA-17 4-in-1 servomotor with driver, motion controller, and encoder",
+    "source": "CNX Software",
+    "date": "2026-09-22",
+    "url": "https://www.cnx-software.com/2026/09/22/gearotons-m17-a-low-cost-nema-17-4-in-1-servomotor-with-driver-motion-controller-and-encoder/",
+    "summary": "<div><img alt=\"Gearotons M17\" class=\"attachment-medium size-medium wp-post-image\" height=\"684\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Gearotons-M17-720x684.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Gearotons M17 open-source hardware servomotor integrates the four parts of a motion axis into one standard NEMA-17 body with no protrusions: the motor, the driver, the motion controller, and the encoder. This level of integration enables it to be low-cost ($20 and up) and easier to use. The user has nothing to source and match, nothing to wire between boards, and nothing to configure. Just connect power and one data cable, and you&#8217;re good to go. Gearotons M17 specifications: MCU &#8211; ST STM32G0 Arm Cortex-M0+ microcontroller Single device with motor, motor driver, motion control system, and encoder Motor control highlights High-precision closed-loop control with built-in encoder and PID control loop that runs at 32 kHz Higher power efficiency in closed-loop control vs. conventional stepper Up to 560 RPM Torque-to-weight ratio is the same as an equivalent stepper motor 64-bit unique ID and a one-byte alias per motor Four models M17‑60 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/22/gearotons-m17-a-low-cost-nema-17-4-in-1-servomotor-with-driver-motion-controller-and-encoder/\">Gearotons M17 &#8211; A low-cost NEMA-17 4-in-1 servomotor with driver, motion controller, and encoder</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Nordic nRF54LC10A –  A tiny Bluetooth LE and 802.15.4 SoC with sub-50 nA hibernation mode",
     "source": "CNX Software",
     "date": "2026-09-22",
@@ -21,11 +42,46 @@
     "summary": "<div><img alt=\"Nordic Semiconductor nRF54LC10A, a low power multiprotocol wireless SoC for compact IoT devices\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Nordic-Semiconductor-nRF54LC10A-a-low-power-multiprotocol-wireless-SoC-for-compact-IoT-devices-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Nordic Semiconductor recently expanded its nRF54L Series with the nRF54LC10A, a new SoC with less memory and a smaller peripheral set compared to the higher-end nRF54L15, while supporting Bluetooth LE with Channel Sounding and IEEE 802.15.4 for Thread, Zigbee, and Matter. Built on a 22nm process, the SoC combines a 128 MHz Arm Cortex-M33 processor with a multiprotocol 2.4 GHz radio. It also features a sub-50 nA hibernation mode for devices shipped with (3V) batteries installed, reducing battery drain during storage and transportation. Nordic Semiconductor nRF54LC10A specifications CPU Arm Cortex-M33 @ 128 MHz with DSP, FPU, MPU, and TrustZone 128 MHz RISC-V coprocessor (VPR) with I/O acceleration for SoftPeripherals and time-critical offload Performance – 239 CoreMark/mA, 503 CoreMark (preliminary) Memory &#8211; 192 KB RAM Storage &#8211; Up to 1012 KB NVM Wireless Bluetooth 5.4 LE with direction-finding, Bluetooth Mesh, etc. Ready for future Bluetooth releases Bluetooth Channel Sounding support for [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/22/nordic-nrf54lc10a-a-tiny-bluetooth-le-and-802-15-4-soc-with-sub-50-na-hibernation-mode/\">Nordic nRF54LC10A &#8211;  A tiny Bluetooth LE and 802.15.4 SoC with sub-50 nA hibernation mode</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Q2 server  shipments hit $166bn",
+    "title": "Euro-processor samples delivered to Bull",
+    "source": "Electronics Weekly",
+    "date": "2026-09-22",
+    "url": "https://www.electronicsweekly.com/news/euro-processor-samples-delivered-to-bull-2026-09/",
+    "summary": "<p>SiPearl, the Euro-processor developer, has delivered samples of its first CPU &#8211; Rhea1 &#8211; to Bull which  has begun integration of the chip into its BullSequana XH3000 platform for JUPITER, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/euro-processor-samples-delivered-to-bull-2026-09/\">Euro-processor samples delivered to Bull</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Omnivision’s OX08D30 8-megapixel CMOS automotive image sensor eyes ADAS",
+    "source": "Electronics Weekly",
+    "date": "2026-09-22",
+    "url": "https://www.electronicsweekly.com/news/products/sensors-products/omnivisions-ox08d30-8-megapixel-cmos-automotive-image-sensor-eyes-adas-2026-09/",
+    "summary": "<p>Omnivision, the digital imaging specialist, has announced its OX08D30 8-megapixel CMOS automotive image sensor. Featuring the company&#8217;s TheiaCel technology, for high dynamic range (HDR) imaging, it is aimed at advanced [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/sensors-products/omnivisions-ox08d30-8-megapixel-cmos-automotive-image-sensor-eyes-adas-2026-09/\">Omnivision&#8217;s OX08D30 8-megapixel CMOS automotive image sensor eyes ADAS</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Why AI is forcing a rethink of power delivery",
+    "source": "Electronics Weekly",
+    "date": "2026-09-22",
+    "url": "https://www.electronicsweekly.com/news/business/why-ai-is-forcing-a-rethink-of-power-delivery-2026-09/",
+    "summary": "<p>Delivering enough power, quickly and consistently enough, to keep increasingly complex AI systems operating at peak performance, is a challenge, writes Takaki Murata.  Some of the biggest constraints on future [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/why-ai-is-forcing-a-rethink-of-power-delivery-2026-09/\">Why AI is forcing a rethink of power delivery</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "OpenLight samples 3.T DR8 silicon photonics PICs",
+    "source": "Electronics Weekly",
+    "date": "2026-09-22",
+    "url": "https://www.electronicsweekly.com/news/products/openlight-samples-3-t-dr8-silicon-photonics-pics-2026-09/",
+    "summary": "<p>Openlight is sampling the industry’s first 3.2T DR8 silicon photonic power ICs (PICs). They are fabricated using Tower Semiconductor’s PH18DA process. At CIOE 2026 in Shenzhen, the company also announced [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/openlight-samples-3-t-dr8-silicon-photonics-pics-2026-09/\">OpenLight samples 3.T DR8 silicon photonics PICs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Samsung’s Taylor fab running prototypes of Tesla’s 2nm A15 chip",
+    "source": "Electronics Weekly",
+    "date": "2026-09-22",
+    "url": "https://www.electronicsweekly.com/news/business/manufacturing/samsungs-taylor-fab-running-prototypes-of-teslas-2nm-a15-chip-2026-09/",
+    "summary": "<p>Samsung’s Taylor, Texas fab is reported by the Seoul Economic Daily to have started running prototypes of Tesla’s 2nm A15 chip which goes into the Full Self Driving car, the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/manufacturing/samsungs-taylor-fab-running-prototypes-of-teslas-2nm-a15-chip-2026-09/\">Samsung’s Taylor fab running prototypes of Tesla’s 2nm A15 chip</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Q2 server shipments hit $166bn",
     "source": "Electronics Weekly",
     "date": "2026-09-22",
     "url": "https://www.electronicsweekly.com/news/business/q2-server-shipments-hit-166bn-2026-09/",
-    "summary": "<p>Q2 was highest quarterly revenue in the server market’s history &#8211; up 52% YoY and 35.7% QoQ at $166?3 billion propelled by both as rising units and ASPs with branded [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/q2-server-shipments-hit-166bn-2026-09/\">Q2 server  shipments hit $166bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Q2 was highest quarterly revenue in the server market’s history &#8211; up 52% YoY and 35.7% QoQ at $166?3 billion propelled by both as rising units and ASPs with branded [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/q2-server-shipments-hit-166bn-2026-09/\">Q2 server shipments hit $166bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Melexis adds to current sensors",
@@ -49,6 +105,13 @@
     "summary": "<p>BRITISH electronic equipment is playing a vital part in America&#8217;s man &#8211; in &#8211; space programme, project Mercury. So, 65 years ago, started a story in Electronics Weekly’s edition of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/uks-sarah-helping-us-mercury-space-effort-2026-09/\">UK’s SARAH helping US Mercury space effort</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Instant Access to Infinite Storage with Zero Bytes Stored on Your Local Disk",
+    "source": "EE Journal",
+    "date": "2026-09-22",
+    "url": "https://www.eejournal.com/article/instant-access-to-infinite-storage-with-zero-bytes-stored-on-your-local-disk/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/max-0520-image-for-home-page-space-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />In the grand scheme of things, I don’t pay much attention to business announcements about funding, mergers, acquisitions, promotions, partnerships, or other corporate comings and goings. But there’s always “the exception that proves the rule,” as they say. As I noted in a recent column (see Well, That Certainly Got My Attention!), if a PR &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/instant-access-to-infinite-storage-with-zero-bytes-stored-on-your-local-disk/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Instant Access to Infinite Storage with Zero Bytes Stored on Your Local Disk\"</span></a>"
+  },
+  {
     "title": "The Mazda Suitcase Car Rides Again",
     "source": "Hackaday",
     "date": "2026-09-21",
@@ -68,20 +131,6 @@
     "date": "2026-09-21",
     "url": "https://hackaday.com/2026/09/21/pedal-harder-for-affordability/",
     "summary": "<div><img alt=\"A blueish grey plastic enclosure sits next to a blue and black servo, silver Li-ion battery, a GPS module board, an LCD, a small metal lever, and ESP32S3 board.\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/09/device-components.BdABDD3I_17KQ63.avif?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In the US, among other places, housing costs are skyrocketing. It can sometimes be difficult to get a feel for the scale of the issue and how it hits neighborhoods <a class=\"read-more\" href=\"https://hackaday.com/2026/09/21/pedal-harder-for-affordability/\">&#8230;read more</a>"
-  },
-  {
-    "title": "The First Floating Nuclear Power Station",
-    "source": "Hackaday",
-    "date": "2026-09-21",
-    "url": "https://hackaday.com/2026/09/21/the-first-floating-nuclear-power-station/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"473\" src=\"https://hackaday.com/wp-content/uploads/2026/09/Undated_image_of_STURGIS_operating_in_the_Panama_Canal_Zone_-_180914-A-WZ074-002.jpeg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Nuclear power really hit its stride in the 1950s. In the post-war period, there was a rush to develop peaceful uses for splitting the atom, beyond its application as a <a class=\"read-more\" href=\"https://hackaday.com/2026/09/21/the-first-floating-nuclear-power-station/\">&#8230;read more</a>"
-  },
-  {
-    "title": "The RP2350 Does 1080p",
-    "source": "Hackaday",
-    "date": "2026-09-21",
-    "url": "https://hackaday.com/2026/09/21/the-rp2350-does-1080p/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/rp2350-rpi-cc-by-4-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Coaxing a DVI signal out of a microcontroller to drive a DVI or HDMI screen has been possible for a while now, but limitations in what the devices can do <a class=\"read-more\" href=\"https://hackaday.com/2026/09/21/the-rp2350-does-1080p/\">&#8230;read more</a>"
   },
   {
     "title": "Realtek RTL8773J – A Bluetooth 7-ready Cortex-M55/M33 microcontroller with HDT support",
@@ -117,41 +166,6 @@
     "date": "2026-09-21",
     "url": "https://www.electronicsweekly.com/news/business/aria-funds-space-solar-for-stratospheric-rf-power-beaming-2026-09/",
     "summary": "<p>Space Solar, the Harwell-based space company specialising in wireless power beaming, has won a £1.3m research contract from the UK&#8217;s Advanced Research + Invention Agency (ARIA). The award from ARIA [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/aria-funds-space-solar-for-stratospheric-rf-power-beaming-2026-09/\">ARIA funds Space Solar for stratospheric RF power beaming</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Semtech pushes on with NPO and CPO for datacentres",
-    "source": "Electronics Weekly",
-    "date": "2026-09-21",
-    "url": "https://www.electronicsweekly.com/news/products/semtech-pushes-on-with-npo-and-cpo-for-datacentres-2026-09/",
-    "summary": "<p>AT CIOE in Shenzhen, Semtech introduced a family of 224G linear transimpedance amplifier (TIA) and drivers, designed to accelerate the deployment of near-packaged optics (NPO) and co-packaged optics (CPO) architectures [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/semtech-pushes-on-with-npo-and-cpo-for-datacentres-2026-09/\">Semtech pushes on with NPO and CPO for datacentres</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Interact with Raspberry Pi history timeline!",
-    "source": "Electronics Weekly",
-    "date": "2026-09-21",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/interact-with-raspberry-pi-history-timeline-2026-09/",
-    "summary": "<p>One to file in our Raspberry Pi category. I've been meaning to flag this one for a while: a very useful interactive timeline of twenty years of Raspberry Pi history and releases.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/interact-with-raspberry-pi-history-timeline-2026-09/\">Interact with Raspberry Pi history timeline!</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Nordic nRF54LC10A SoC expands nRF54L series for cost-sensitive IoT",
-    "source": "Electronics Weekly",
-    "date": "2026-09-21",
-    "url": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/nordic-nrf54lc10a-soc-expands-nrf54l-series-for-cost-sensitive-iot-2026-09/",
-    "summary": "<p>Nordic Semiconductor has announced its nRF54LC10A SoC, which supports Bluetooth LE, Bluetooth Channel Sounding, Thread, Zigbee, and Matter. Its a device for small tags, trackers, and smart home sensors, with [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/nordic-nrf54lc10a-soc-expands-nrf54l-series-for-cost-sensitive-iot-2026-09/\">Nordic nRF54LC10A SoC expands nRF54L series for cost-sensitive IoT</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "EnduroSat raises $205m to build satellites at the volume of drones",
-    "source": "Electronics Weekly",
-    "date": "2026-09-21",
-    "url": "https://www.electronicsweekly.com/news/business/finance/endurosat-raises-205m-to-build-satellites-at-the-volume-of-drones-2026-09/",
-    "summary": "<p>EnduroSat, a European satellite, has raised $205 million in an investment round co-led by Riot Ventures and Atreides Management. There was also backing from the European Innovation Council, Google Ventures, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/endurosat-raises-205m-to-build-satellites-at-the-volume-of-drones-2026-09/\">EnduroSat raises $205m to build satellites at the volume of drones</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Sponsored Content: Single-board computer Raspberry Pi 4B 3GB RAM in TME’s offer",
-    "source": "Electronics Weekly",
-    "date": "2026-09-21",
-    "url": "https://www.electronicsweekly.com/news/business/sponsored-content-single-board-computer-raspberry-pi-4b-3gb-ram-in-tmes-offer-2026-09/",
-    "summary": "<p>The family of single-board computers Raspberry Pi 4 has remained one of the most popular solutions used by hobbyists, educators, and professional electronic system designers for years. Thanks to its compact size, rich [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/sponsored-content-single-board-computer-raspberry-pi-4b-3gb-ram-in-tmes-offer-2026-09/\">Sponsored Content: Single-board computer Raspberry Pi 4B 3GB RAM in TME’s offer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Detect Hidden Cameras with SweepLED",
@@ -371,25 +385,11 @@
     "summary": "<p>Abaco Systems has launched the VNX382, the company's first VNX+ single-board computer (SBC). The VNX+ standard, developed by VITA and the Open Group SOSA community and ratified by ANSI in 2026, extends the open-standard VPX into lower size, weight, and power (SWaP) applications. The VNX382 extends rugged embedded computing into SWaP-constrained applications without tradeoffs in [...]</p>\n<p>The post <a href=\"https://www.embedded.com/abaco-systems-introduces-vnx-sbc/\">Abaco Systems Introduces VNX+ SBC</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "STMicroelectronics reveals sizably smaller intelligent power modules for air conditioners, heat pumps, and home appliances",
-    "source": "EE Journal",
-    "date": "2026-09-17",
-    "url": "https://www.eejournal.com/industry_news/stmicroelectronics-reveals-sizably-smaller-intelligent-power-modules-for-air-conditioners-heat-pumps-and-home-appliances/",
-    "summary": "STMicroelectronics has announced small low-loss intelligent molded modules (SLLIMM) with direct-bonded copper (DBC) in a new compact outline for industrial drives, air conditioners, heat pumps and home appliances. The space-saving modules deliver a complete 600V, 3-phase IGBT inverter bridge with an 18.8mm x 32.8mm footprint, which is more than 30% smaller than existing IGBT IPM &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/stmicroelectronics-reveals-sizably-smaller-intelligent-power-modules-for-air-conditioners-heat-pumps-and-home-appliances/\">Read More &#8594;<span class=\"screen-reader-text\"> \"STMicroelectronics reveals sizably smaller intelligent power modules for air conditioners, heat pumps, and home appliances\"</span></a>"
-  },
-  {
     "title": "AAEON MIX-PTLWV1 Panther Lake industrial mini-ITX motherboard offers quad DisplayPort, dual 10GbE, and more",
     "source": "CNX Software",
     "date": "2026-09-16",
     "url": "https://www.cnx-software.com/2026/09/16/aaeon-mix-ptlwv1-panther-lake-industrial-mini-itx-motherboard-offers-quad-displayport-dual-10gbe/",
     "summary": "<div><img alt=\"Industrial Panther Lake mini ITX motherbaord\" class=\"attachment-medium size-medium wp-post-image\" height=\"539\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/05/Industrial-Panther-Lake-mini-ITX-motherbaord-720x539.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>AAEON MIX-PTLWV1 is an industrial mini-ITX motherboard based on Intel Core Ultra Series 3 &#8220;Panther Lake&#8221; processors with up to two 10GbE and two 2.5GbE RJ45 jacks, and four 4K-capable DisplayPort video outputs. The motherboard also supports up to 128GB DDR5 C/SO-DIMM memory, M.2 NVMe SSD storage, optional WiFi and Bluetooth, and/or 4G LTE/5G cellular via M.2 modules, a PCIe Gen4 x8 slot for expansion, six serial interfaces, 12V-24V wide DC input, and more. AAEON MIX-PTLWV1 specifications: SoC – Intel Panther Lake processor (PTL-H404/PTL-H484 families) with Intel Xe LPG graphics; TDP: 15 to 25W System Memory – Up to 128GB via 2x 262-pin DDR5 C/SO-DIMM sockets up to 6400MHz (H404 SKU) or 7200MHz (H484 SKU) Storage – M.2 2280 M-Key (PCIe Gen4 x4) socket for NVMe SSD Display Interfaces 4x DisplayPort 1.4 up to 4096 x 2160 @ 60Hz 40-pin LVDS/eDP co-layout connector for Default: 18/24 bit dual-channel LVDS up [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/16/aaeon-mix-ptlwv1-panther-lake-industrial-mini-itx-motherboard-offers-quad-displayport-dual-10gbe/\">AAEON MIX-PTLWV1 Panther Lake industrial mini-ITX motherboard offers quad DisplayPort, dual 10GbE, and more</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "OpenMANET – A higher-bandwidth Meshtastic alternative leveraging 802.11ah WiFi HaLow",
-    "source": "CNX Software",
-    "date": "2026-09-16",
-    "url": "https://www.cnx-software.com/2026/09/16/openmanet-a-higher-bandwidth-meshtastic-alternative-leveraging-802-11ah-wifi-halow/",
-    "summary": "<div><img alt=\"OpenMANET\" class=\"attachment-medium size-medium wp-post-image\" height=\"614\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/OpenMANET-720x614.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>OpenMANET is an open-source project for building long-range wireless mesh Mobile Ad-hoc Networks (MANETs) using Raspberry Pi SBCs and Wi-Fi HaLow (802.11ah) chips from Morse Micro. This came up when we wrote about Morse Micro USB WiFi HaLow adapters, and an X user commented that &#8220;OpenMANET is going to explode with these available, no more adapter boards or M.2 cards&#8221;. OpenMANET targets search and rescue, disaster response, airsoft events, and other off-grid or infrastructure-failed situations. So it looks like an alternative to LoRa-based Meshtastic and Meshcore, with higher bandwidth, at the cost of more expensive hardware and higher power consumption. OpenMANET supports field communications, including push-to-talk, sharing GPS positions, cameras/video streams, and ATAK (Android Team Awareness Kit) integration. The mesh network can access the Internet through a single &#8220;mesh gate&#8221; over Starlink or cellular connectivity. The project supports a range of hardware platforms including Gateworks Venice, Raspberry Pi  Zero 2 W, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/16/openmanet-a-higher-bandwidth-meshtastic-alternative-leveraging-802-11ah-wifi-halow/\">OpenMANET &#8211; A higher-bandwidth Meshtastic alternative leveraging 802.11ah WiFi HaLow</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Micron Develops Ultra-Dense 512-GB DDR5 Memory Module",
