@@ -1,18 +1,18 @@
 [
   {
-    "model": "EquilibriumMap/robotic-flow-maps-weights",
+    "model": "tsinghua-sigs-robot-lab/VeriLoop-E2",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/EquilibriumMap/robotic-flow-maps-weights",
+    "url": "https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2",
     "date": "2026-09-22",
     "keyword": "robot",
     "score": 0.1
   },
   {
-    "model": "tsinghua-sigs-robot-lab/VeriLoop-E2",
+    "model": "EquilibriumMap/robotic-flow-maps-weights",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2",
+    "url": "https://huggingface.co/EquilibriumMap/robotic-flow-maps-weights",
     "date": "2026-09-22",
     "keyword": "robot",
     "score": 0.1
@@ -108,6 +108,33 @@
     "score": 0.1
   },
   {
+    "model": "mim-chess-vlas/jr-pnp-b-50p-masked__pi__05",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/jr-pnp-b-50p-masked__pi__05",
+    "date": "2026-09-22",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "research-vla/RIFT-RoboCOIN",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/research-vla/RIFT-RoboCOIN",
+    "date": "2026-09-22",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_complex__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-22",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "mim-chess-vlas/jr-pnp-ab-50p-masked__pi__05",
     "downloads": 0,
     "likes": 0,
@@ -117,10 +144,10 @@
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/jr-pnp-b-50p-masked__pi__05",
+    "model": "yygx/lilo-vla-openvla-oft",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/jr-pnp-b-50p-masked__pi__05",
+    "url": "https://huggingface.co/yygx/lilo-vla-openvla-oft",
     "date": "2026-09-22",
     "keyword": "vla",
     "score": 0.1
@@ -184,33 +211,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Vlad39382/lfm25-350m-ru-lora-v3-gguf",
-    "date": "2026-09-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_dense__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "adamb5757/lingbot-vla-2.0-EX3LwreEFfC5",
-    "downloads": 55,
-    "likes": 0,
-    "url": "https://huggingface.co/adamb5757/lingbot-vla-2.0-EX3LwreEFfC5",
-    "date": "2026-09-22",
-    "keyword": "vla",
-    "score": 16.6
-  },
-  {
-    "model": "mertalbaba/humanoid-vla-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mertalbaba/humanoid-vla-checkpoints",
     "date": "2026-09-22",
     "keyword": "vla",
     "score": 0.1
@@ -695,11 +695,11 @@
   {
     "model": "ubr-physical-ai/Cosmos3-Edge-INT4-AWQ",
     "downloads": 167,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ",
     "date": "2026-09-11",
     "keyword": "physical ai",
-    "score": 50.2
+    "score": 50.4
   },
   {
     "model": "ubr-physical-ai/Cosmos3-Edge-NF4-bnb",
