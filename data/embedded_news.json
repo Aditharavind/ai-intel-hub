@@ -1,5 +1,19 @@
 [
   {
+    "title": "Raspberry Pi RAM Restrictions No Big Deal, Frankly",
+    "source": "Hackaday",
+    "date": "2026-09-22",
+    "url": "https://hackaday.com/2026/09/22/raspberry-pi-ram-restrictions-no-big-deal-frankly/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2022/02/RaspberryPi10.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Hacking on Raspberry Pi board internals is one of my favourite topics. I know a bunch of obscure things about these cute little boards. Three years ago, I covered a <a class=\"read-more\" href=\"https://hackaday.com/2026/09/22/raspberry-pi-ram-restrictions-no-big-deal-frankly/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Digital Upgrade Brings Medium Format Camera Into the 21st Century",
+    "source": "Hackaday",
+    "date": "2026-09-22",
+    "url": "https://hackaday.com/2026/09/22/digital-upgrade-brings-medium-format-camera-into-the-21st-century/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/Mamiya-digital-back-CCD-1.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Large format cameras can produce amazing shots, but are a bit too bulky to be practical. Medium format is a different story, as [Wenting] demonstrates with his Sitina B220M &#8212; <a class=\"read-more\" href=\"https://hackaday.com/2026/09/22/digital-upgrade-brings-medium-format-camera-into-the-21st-century/\">&#8230;read more</a>"
+  },
+  {
     "title": "Raspberry Pi Locks Down RAM Upgrades",
     "source": "Hackaday",
     "date": "2026-09-22",
@@ -40,6 +54,34 @@
     "date": "2026-09-22",
     "url": "https://www.cnx-software.com/2026/09/22/nordic-nrf54lc10a-a-tiny-bluetooth-le-and-802-15-4-soc-with-sub-50-na-hibernation-mode/",
     "summary": "<div><img alt=\"Nordic Semiconductor nRF54LC10A, a low power multiprotocol wireless SoC for compact IoT devices\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Nordic-Semiconductor-nRF54LC10A-a-low-power-multiprotocol-wireless-SoC-for-compact-IoT-devices-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Nordic Semiconductor recently expanded its nRF54L Series with the nRF54LC10A, a new SoC with less memory and a smaller peripheral set compared to the higher-end nRF54L15, while supporting Bluetooth LE with Channel Sounding and IEEE 802.15.4 for Thread, Zigbee, and Matter. Built on a 22nm process, the SoC combines a 128 MHz Arm Cortex-M33 processor with a multiprotocol 2.4 GHz radio. It also features a sub-50 nA hibernation mode for devices shipped with (3V) batteries installed, reducing battery drain during storage and transportation. Nordic Semiconductor nRF54LC10A specifications CPU Arm Cortex-M33 @ 128 MHz with DSP, FPU, MPU, and TrustZone 128 MHz RISC-V coprocessor (VPR) with I/O acceleration for SoftPeripherals and time-critical offload Performance – 239 CoreMark/mA, 503 CoreMark (preliminary) Memory &#8211; 192 KB RAM Storage &#8211; Up to 1012 KB NVM Wireless Bluetooth 5.4 LE with direction-finding, Bluetooth Mesh, etc. Ready for future Bluetooth releases Bluetooth Channel Sounding support for [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/22/nordic-nrf54lc10a-a-tiny-bluetooth-le-and-802-15-4-soc-with-sub-50-na-hibernation-mode/\">Nordic nRF54LC10A &#8211;  A tiny Bluetooth LE and 802.15.4 SoC with sub-50 nA hibernation mode</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "MediaTek Debuts CX C10 SoC for AI-First Googlebook Laptops",
+    "source": "Embedded.com",
+    "date": "2026-09-22",
+    "url": "https://www.embedded.com/mediatek-debuts-cx-c10-soc-for-ai-first-googlebook-laptops/",
+    "summary": "<p>MediaTek has unveiled the Dimensity CX C10 Max system-on-chip (SoC), the first chip in the company's new Dimensity Compute Experiences (CX) family. The flagship CX chip delivers high performance, advanced functionality, and higher power efficiency for an upcoming premium, ultra-portable Googlebook device. The Dimensity CX C10 Max SoC is built on TSMC's advanced 3-nm process. [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mediatek-debuts-cx-c10-soc-for-ai-first-googlebook-laptops/\">MediaTek Debuts CX C10 SoC for AI-First Googlebook Laptops</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Gadget Book:  The Secret Life of Circuits",
+    "source": "Electronics Weekly",
+    "date": "2026-09-22",
+    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-the-secret-life-of-circuits-2026-09/",
+    "summary": "<p>Maybe one for the proto Gadget Master in your life... The Secret Life of Circuits, An Illustrated Guide to Electronic Circuit Design.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-the-secret-life-of-circuits-2026-09/\">Gadget Book:  The Secret Life of Circuits</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Satlantis launches NOX Night vision Optical eXplorer project",
+    "source": "Electronics Weekly",
+    "date": "2026-09-22",
+    "url": "https://www.electronicsweekly.com/news/satlantis-launches-nox-night-vision-optical-explorer-project-2026-09/",
+    "summary": "<p>Satlantis Microsats, a provider of high-res optical payloads for small satellites, has officially launched NOX (Night vision Optical eXplorer) project. This is a new night-vision project with funding coming from [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/satlantis-launches-nox-night-vision-optical-explorer-project-2026-09/\">Satlantis launches NOX Night vision Optical eXplorer project</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Tim Cook to get Robert Noyce Award",
+    "source": "Electronics Weekly",
+    "date": "2026-09-22",
+    "url": "https://www.electronicsweekly.com/news/business/tim-cook-to-get-robert-noyce-award-2026-09/",
+    "summary": "<p>Today, the SIA announced that Tim Cook has been selected as the 2026 recipient of the chip industry’s highest honour, the Robert N. Noyce Award. The SIA presents the Noyce [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tim-cook-to-get-robert-noyce-award-2026-09/\">Tim Cook to get Robert Noyce Award</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Euro-processor samples delivered to Bull",
@@ -91,18 +133,46 @@
     "summary": "<p>Melexis has expanded  its isolated current sensor portfolio for high-voltage automotive and industrial applications with devices delivering  plug-and-play measurement up to 100 ARMS, ASIL B readiness, and a fast analogue [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/melexis-adds-current-sensors-2026-09/\">Melexis adds to current sensors</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "World’s first net 400 Gps optical link employing an APD receiver",
-    "source": "Electronics Weekly",
+    "title": "Play Drums without a Kit with Space Drums 2.0",
+    "source": "Adafruit",
     "date": "2026-09-22",
-    "url": "https://www.electronicsweekly.com/news/research-news/worlds-first-net-400-gps-optical-link-employing-an-apd-receiver-2026-09/",
-    "summary": "<p>Imec has demo-ed the world&#8217;s first Ge/Si avalanche photodiode (APD) to combine 100 GHz bandwidth, low-voltage (5 V) operation and a responsivity of 1.8 A/W across both the O- and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/research-news/worlds-first-net-400-gps-optical-link-employing-an-apd-receiver-2026-09/\">World&#8217;s first net 400 Gps optical link employing an APD receiver</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/22/play-drums-without-a-kit-with-space-drums-2-0/",
+    "summary": "Instructables user Makestreme created ESP32-S3 drum sticks: Space Drums 2.0 completely upgrades the hardware with self contained motion tracking, haptic feedback, and wireless foot pedals, all in nice looking 3D printed housings. But the real deal is on screen. I built a full arcade learning engine in Python, inspired by the gameplay of VR hits [&#8230;]"
   },
   {
-    "title": "UK’s SARAH helping US Mercury space effort",
-    "source": "Electronics Weekly",
+    "title": "FSP Unveils the World’s First 80 PLUS 230V Ruby-Certified ATX Power Supply, Leading the Green Revolution in Next-Gen AI Computing",
+    "source": "EE Journal",
     "date": "2026-09-22",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/uks-sarah-helping-us-mercury-space-effort-2026-09/",
-    "summary": "<p>BRITISH electronic equipment is playing a vital part in America&#8217;s man &#8211; in &#8211; space programme, project Mercury. So, 65 years ago, started a story in Electronics Weekly’s edition of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/uks-sarah-helping-us-mercury-space-effort-2026-09/\">UK’s SARAH helping US Mercury space effort</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.eejournal.com/industry_news/fsp-unveils-the-worlds-first-80-plus-230v-ruby-certified-atx-power-supply-leading-the-green-revolution-in-next-gen-ai-computing/",
+    "summary": "As the global wave of artificial intelligence (AI) accelerates, the surge in large language model training and edge-side inference has driven an exponential demand for computational power, bringing unprecedented challenges in energy consumption. A global trailblazer in power supply architectures, FSP Group today officially announced a groundbreaking innovation: the world’s first 850W ATX power supply &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/fsp-unveils-the-worlds-first-80-plus-230v-ruby-certified-atx-power-supply-leading-the-green-revolution-in-next-gen-ai-computing/\">Read More &#8594;<span class=\"screen-reader-text\"> \"FSP Unveils the World&#8217;s First 80 PLUS 230V Ruby-Certified ATX Power Supply, Leading the Green Revolution in Next-Gen AI Computing\"</span></a>"
+  },
+  {
+    "title": "ChipAgents Helps eMemory Cut NVM IP Functional-Model Verification Effort by 80%",
+    "source": "EE Journal",
+    "date": "2026-09-22",
+    "url": "https://www.eejournal.com/industry_news/chipagents-helps-ememory-cut-nvm-ip-functional-model-verification-effort-by-80/",
+    "summary": "ChipAgents, the category leader in agentic AI platforms for semiconductor design, announced that eMemory, a leading pure-play developer and provider of logic-based non-volatile memory (Logic NVM), founded in 2000, has deployed ChipAgents to automate critical portions of its functional-model verification workflow for NVM IP. Using ChipAgents, eMemory reduced the engineering effort for datasheet analysis and &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/chipagents-helps-ememory-cut-nvm-ip-functional-model-verification-effort-by-80/\">Read More &#8594;<span class=\"screen-reader-text\"> \"ChipAgents Helps eMemory Cut NVM IP Functional-Model Verification Effort by 80%\"</span></a>"
+  },
+  {
+    "title": "Applied Brain Research Releases the ABR SDK, Bringing Real-Time On-Device Voice Interfaces to Edge Applications",
+    "source": "EE Journal",
+    "date": "2026-09-22",
+    "url": "https://www.eejournal.com/industry_news/applied-brain-research-releases-the-abr-sdk-bringing-real-time-on-device-voice-interfaces-to-edge-applications/",
+    "summary": "Applied Brain Research (ABR) today announced general availability of the ABR SDK and the Niagara ASR and Nith TTS model families, a production toolkit for building real-time voice interfaces that run entirely on edge processor hardware. The SDK provides streaming automatic speech recognition and streaming text-to-speech through a single API, so a developer can enable &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/applied-brain-research-releases-the-abr-sdk-bringing-real-time-on-device-voice-interfaces-to-edge-applications/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Applied Brain Research Releases the ABR SDK, Bringing Real-Time On-Device Voice Interfaces to Edge Applications\"</span></a>"
+  },
+  {
+    "title": "Road Safety: LYNRED launches CAPT640, Europe’s first thermal imaging sensor for the automotive industry",
+    "source": "EE Journal",
+    "date": "2026-09-22",
+    "url": "https://www.eejournal.com/industry_news/road-safety-lynred-launches-capt640-europes-first-thermal-imaging-sensor-for-the-automotive-industry/",
+    "summary": "According to the World Health Organization, traffic accidents cause more than one million deaths worldwide each year, 53% of which are vulnerable road users (VRUs). Faced with this major public safety challenge, automakers are working every day to improve their obstacle detection systems in order to reduce the number of collisions, particularly at night when &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/road-safety-lynred-launches-capt640-europes-first-thermal-imaging-sensor-for-the-automotive-industry/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Road Safety: LYNRED launches CAPT640, Europe’s first thermal imaging sensor for the automotive industry\"</span></a>"
+  },
+  {
+    "title": "UVJC to launch NovaJet at WESEMiBAY as semiconductor industry looks beyond traditional scaling",
+    "source": "EE Journal",
+    "date": "2026-09-22",
+    "url": "https://www.eejournal.com/industry_news/uvjc-to-launch-novajet-at-wesemibay-as-semiconductor-industry-looks-beyond-traditional-scaling/",
+    "summary": "·   NovaJet, the first commercial system built on UVJC’s Universal Vapor Jet Printing, makes its debut at Booth 8G03 during the WESEMiBAY Semiconductor Ecosystem Conference and Expo in Shenzhen from 14 to 16 October ·   UVJC will introduce its dry, solvent-free and maskless thin-film deposition technology to manufacturers seeking precise, flexible and efficient &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/uvjc-to-launch-novajet-at-wesemibay-as-semiconductor-industry-looks-beyond-traditional-scaling/\">Read More &#8594;<span class=\"screen-reader-text\"> \"UVJC to launch NovaJet at WESEMiBAY as semiconductor industry looks beyond traditional scaling\"</span></a>"
   },
   {
     "title": "Instant Access to Infinite Storage with Zero Bytes Stored on Your Local Disk",
@@ -117,20 +187,6 @@
     "date": "2026-09-21",
     "url": "https://hackaday.com/2026/09/21/the-mazda-suitcase-car-rides-again/",
     "summary": "<div><img alt=\"A man in a beige, vintage 90s suit rides a very small go cart with a look of terror and/or elation on his face.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/2-I-Built-THE-Mazda-Suitcase-Car-0-16-31.jpeg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Once you arrive at your destination via plane, it can be a drag waiting for a rental car. Why not bring your own with a replica of the Mazda suitcase <a class=\"read-more\" href=\"https://hackaday.com/2026/09/21/the-mazda-suitcase-car-rides-again/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Trying a New Radial Impeller Design for Quadcopters",
-    "source": "Hackaday",
-    "date": "2026-09-21",
-    "url": "https://hackaday.com/2026/09/21/trying-a-new-radial-impeller-design-for-quadcopters/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"437\" src=\"https://hackaday.com/wp-content/uploads/2026/09/quadcopter_drone_impellers_quadmovr_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Even if the world has already settled on plain old propellers as the way to make quadcopter drones fly, this doesn&#8217;t mean that you cannot give other designs a shake <a class=\"read-more\" href=\"https://hackaday.com/2026/09/21/trying-a-new-radial-impeller-design-for-quadcopters/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Pedal Harder for Affordability",
-    "source": "Hackaday",
-    "date": "2026-09-21",
-    "url": "https://hackaday.com/2026/09/21/pedal-harder-for-affordability/",
-    "summary": "<div><img alt=\"A blueish grey plastic enclosure sits next to a blue and black servo, silver Li-ion battery, a GPS module board, an LCD, a small metal lever, and ESP32S3 board.\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/09/device-components.BdABDD3I_17KQ63.avif?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In the US, among other places, housing costs are skyrocketing. It can sometimes be difficult to get a feel for the scale of the issue and how it hits neighborhoods <a class=\"read-more\" href=\"https://hackaday.com/2026/09/21/pedal-harder-for-affordability/\">&#8230;read more</a>"
   },
   {
     "title": "Realtek RTL8773J – A Bluetooth 7-ready Cortex-M55/M33 microcontroller with HDT support",
@@ -159,13 +215,6 @@
     "date": "2026-09-21",
     "url": "https://www.embedded.com/the-hidden-cost-of-embedded-databases-on-nand-flash-memory/",
     "summary": "<p>A practical look at what a database really costs in NAND writes with different storage architectures.</p>\n<p>The post <a href=\"https://www.embedded.com/the-hidden-cost-of-embedded-databases-on-nand-flash-memory/\">The Hidden Cost of Embedded Databases on NAND Flash Memory</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "ARIA funds Space Solar for stratospheric RF power beaming",
-    "source": "Electronics Weekly",
-    "date": "2026-09-21",
-    "url": "https://www.electronicsweekly.com/news/business/aria-funds-space-solar-for-stratospheric-rf-power-beaming-2026-09/",
-    "summary": "<p>Space Solar, the Harwell-based space company specialising in wireless power beaming, has won a £1.3m research contract from the UK&#8217;s Advanced Research + Invention Agency (ARIA). The award from ARIA [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/aria-funds-space-solar-for-stratospheric-rf-power-beaming-2026-09/\">ARIA funds Space Solar for stratospheric RF power beaming</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Detect Hidden Cameras with SweepLED",
@@ -322,48 +371,6 @@
     "summary": "You can make a seemingly innocuous portrait come to life using an ornately framed flat panel TV powered by a Raspberry Pi. With proper lighting, it will look just like a painting, but every so often, the portrait subject&#8217;s eyes will shift their gaze ever so slighting, sending chills up the spines of your unsuspecting [&#8230;]"
   },
   {
-    "title": "John Park’s CircuitPython Parsec: Seesaw Gamepad QT",
-    "source": "Adafruit",
-    "date": "2026-09-18",
-    "url": "https://blog.adafruit.com/2026/09/18/john-parks-circuitpython-parsec-seesaw-gamepad-qt/",
-    "summary": "#circuitpythonparsec Read button state bitmask and analog thumbstick values via I2C using the Seesaw chip in CircuitPython. Try out the code example To learn about CircuitPython: https://circuitpython.org &#160;"
-  },
-  {
-    "title": "Aetina Introduces AIE-KT78/68 for Integrated AI Perception, Decision-Making and Control in Robotics",
-    "source": "EE Journal",
-    "date": "2026-09-18",
-    "url": "https://www.eejournal.com/industry_news/aetina-introduces-aie-kt78-68-for-integrated-ai-perception-decision-making-and-control-in-robotics/",
-    "summary": "Aetina Corporation, a leading edge AI solution provider and an accelerator of AI infrastructure, today announced the general availability of its DeviceEdge AIE-KT78 and AIE-KT68 flagship edge AI systems. Powered by NVIDIA Jetson Thor, both new systems integrate NVIDIA Blackwell architecture&#8217;s high performance AI compute, high-bandwidth sensor connectivity, and deterministic industrial control into a compact &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/aetina-introduces-aie-kt78-68-for-integrated-ai-perception-decision-making-and-control-in-robotics/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Aetina Introduces AIE-KT78/68 for Integrated AI Perception, Decision-Making and Control in Robotics\"</span></a>"
-  },
-  {
-    "title": "Semtech SurgeSwitch Protects Cobots from Surge and ESD",
-    "source": "EE Journal",
-    "date": "2026-09-18",
-    "url": "https://www.eejournal.com/industry_news/semtech-surgeswitch-protects-cobots-from-surge-and-esd/",
-    "summary": "Semtech Corporation (Nasdaq: SMTC), a leading provider of high-performance semiconductors powering AI data center networking and intelligent, connected Internet of Things (“IoT”) devices worldwide, today announced TDS2621LP, the latest addition to its SurgeSwitch® family. Purpose built for 24 V DC power buses in industrial robotics, collaborative robots (cobots) and automated manufacturing, TDS2621LP delivers near-constant clamping &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/semtech-surgeswitch-protects-cobots-from-surge-and-esd/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Semtech SurgeSwitch Protects Cobots from Surge and ESD\"</span></a>"
-  },
-  {
-    "title": "ESD Alliance Plans Day-Long SEMICON West “Bridging Design and Manufacturing with AI” Design Session",
-    "source": "EE Journal",
-    "date": "2026-09-18",
-    "url": "https://www.eejournal.com/industry_news/esd-alliance-plans-day-long-semicon-west-bridging-design-and-manufacturing-with-ai-design-session/",
-    "summary": "TSMC executive to give keynote address ““Scaling Leadership Silicon with AI” Nine presentations, IEEE-hosted “True Value and Cost of Agentic AI in SoC Design and Manufacturing” panel, McKinsey look at “Design at AI Speed” Speakers from EDA, IP, memory and storage, AI hardware companies, equipment manufacturer completes program The Electronic System Design Alliance (ESDA), a SEMI Technology &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/esd-alliance-plans-day-long-semicon-west-bridging-design-and-manufacturing-with-ai-design-session/\">Read More &#8594;<span class=\"screen-reader-text\"> \"ESD Alliance Plans Day-Long SEMICON West “Bridging Design and Manufacturing with AI” Design Session\"</span></a>"
-  },
-  {
-    "title": "Infineon EiceDRIVER™ 2EDL6014AC-G2D dual channel gate driver delivers high density and thermal performance for AI datacenter power designs",
-    "source": "EE Journal",
-    "date": "2026-09-18",
-    "url": "https://www.eejournal.com/industry_news/infineon-eicedriver-2edl6014ac-g2d-dual-channel-gate-driver-delivers-high-density-and-thermal-performance-for-ai-datacenter-power-designs/",
-    "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) introduces the EiceDRIVER™ 2EDL6014AC-G2D, a 120 V junction-isolated dual channel floating output gate driver engineered for high-density silicon power designs in AI datacenter applications. Housed in a compact WQFN-12 2.2 mm x 2.2 mm package, the device addresses the growing demand for power conversion solutions that deliver &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/infineon-eicedriver-2edl6014ac-g2d-dual-channel-gate-driver-delivers-high-density-and-thermal-performance-for-ai-datacenter-power-designs/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Infineon EiceDRIVER™ 2EDL6014AC-G2D dual channel gate driver delivers high density and thermal performance for AI datacenter power designs\"</span></a>"
-  },
-  {
-    "title": "Nanosecond Decisions for a Crowded Spectrum: Inside VectorWave’s RF Neuromorphic Chip",
-    "source": "EE Journal",
-    "date": "2026-09-18",
-    "url": "https://www.eejournal.com/fish_fry/nanosecond-decisions-for-a-crowded-spectrum-inside-vectorwaves-rf-neuromorphic-chip/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-16-2026-10_44_48-AM-300x300.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />My podcast guest this week is VectorWave CTO and Founder, Dr. Ron Davis. Ron and I discuss the details of VectorWave’s neuromorphic analog compute platform, how it differs from traditional digital processing, and what it really means to build AI-native connectivity rather than simply adding AI features onto existing wireless systems. We also talk about &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/fish_fry/nanosecond-decisions-for-a-crowded-spectrum-inside-vectorwaves-rf-neuromorphic-chip/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Nanosecond Decisions for a Crowded Spectrum: Inside VectorWave&#8217;s RF Neuromorphic Chip\"</span></a>"
-  },
-  {
     "title": "Raspberry Pi 5 gets dual GMSL2 Camera HAT based on MAX96716A deserializer",
     "source": "CNX Software",
     "date": "2026-09-17",
@@ -418,12 +425,5 @@
     "date": "2026-09-15",
     "url": "https://www.embedded.com/mediatek-unveils-new-flagship-smartphone-chip/",
     "summary": "<p>The Dimensity 9600 Pro smartphone SoC reduces multi-core power consumption by 61%.</p>\n<p>The post <a href=\"https://www.embedded.com/mediatek-unveils-new-flagship-smartphone-chip/\">MediaTek Unveils New Flagship Smartphone Chip</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "ESD eBook September/October 2026: Rethinking Mil/Aero System Design",
-    "source": "Embedded.com",
-    "date": "2026-09-15",
-    "url": "https://www.embedded.com/esd-ebook-september-october-2026-rethinking-mil-aero-system-design/",
-    "summary": "<p>Embedded engineers designing military and aerospace systems traditionally have built hardware devices and systems around the need for ruggedness and military-grade components to ensure operation in harsh environments while meeting size, weight, and power (SWaP) budgets. As mission-critical systems from electronic warfare equipment to military drones become more intelligent and complex, designers face challenges around [...]</p>\n<p>The post <a href=\"https://www.embedded.com/esd-ebook-september-october-2026-rethinking-mil-aero-system-design/\">ESD eBook September/October 2026: Rethinking Mil/Aero System Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
