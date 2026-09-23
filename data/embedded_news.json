@@ -1,5 +1,19 @@
 [
   {
+    "title": "How Pixar Stopped Worrying and Learned to Love Linux",
+    "source": "Hackaday",
+    "date": "2026-09-23",
+    "url": "https://hackaday.com/2026/09/23/how-pixar-stopped-worrying-and-learned-to-love-linux/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/Pixar-Linux-feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you weren&#8217;t already aware, it will probably come as no surprise to hear that the pioneering computer-animation studio Pixar built its early workflow on Silicon Graphics SGI workstations. These <a class=\"read-more\" href=\"https://hackaday.com/2026/09/23/how-pixar-stopped-worrying-and-learned-to-love-linux/\">&#8230;read more</a>"
+  },
+  {
+    "title": "A JavaScript OS for the ESP32",
+    "source": "Hackaday",
+    "date": "2026-09-23",
+    "url": "https://hackaday.com/2026/09/23/a-javascript-os-for-the-esp32/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/kryonos-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Given the incredible power of modern microcontrollers, we&#8217;ve seen quite a few attempts to turn them into more general purpose computers over the years. KryonOS from [Haris] is the latest, <a class=\"read-more\" href=\"https://hackaday.com/2026/09/23/a-javascript-os-for-the-esp32/\">&#8230;read more</a>"
+  },
+  {
     "title": "Myst on the Atari 2600",
     "source": "Hackaday",
     "date": "2026-09-23",
@@ -14,11 +28,39 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"478\" src=\"https://hackaday.com/wp-content/uploads/2026/09/rayleigh_regime_em_radiation_water_marshall_bruner_youtube.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>A good rule of thumb is that everything that can interact with electromagnetic (EM) radiation is an antenna, which includes our mostly-salty-water-containing bodies and also raindrops and moisture in the <a class=\"read-more\" href=\"https://hackaday.com/2026/09/22/why-raindrops-make-for-pretty-good-antennae/\">&#8230;read more</a>"
   },
   {
+    "title": "MediaTek Dimensity CX C10 Max octa-core Cortex-X925/X9/A720 SoC targets Googlebooks",
+    "source": "CNX Software",
+    "date": "2026-09-23",
+    "url": "https://www.cnx-software.com/2026/09/23/mediatek-dimensity-cx-c10-max-octa-core-cortex-x925-x9-a720-soc-targets-googlebooks/",
+    "summary": "<div><img alt=\"MediaTek Dimensity CX C10 Max\" class=\"attachment-medium size-medium wp-post-image\" height=\"540\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/MediaTek-Dimensity-CX-C10-Max-720x540.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>MediaTek Dimensity CX C10 Max is a 3nm &#8220;All Big Core&#8221; octa-core Armv9 CPU with an 11-core Immortalis-G925 MC11 GPU, and MediaTek&#8217;s  890 NPU delivering up to 55 TOPS for an &#8220;upcoming premium, ultra-portable Googlebook device&#8221; with all-day battery life. Googlebook is Google’s new premium laptop category built around the company&#8217;s Gemini Intelligence and running Googlebook OS, codenamed Aluminium OS, which merges parts of Android and ChromeOS platforms. If you visit the Googlebook website, you&#8217;ll find pre-orders for Intel Core Ultra and Qualcomm Snapdragon X Elite models, but Google will soon launch at least one model equipped with the new MediaTek SoC. MediaTek Dimensity CX C10 Max specifications: Octa-core CPU 1x Arm Cortex-X925 core clocked at up to 3.73 GHz with 2MB L2 cache 3x Arm Cortex-X4 cores with 1MB L2 cache 4x Arm Cortex-A720 cores with 512KB L2 cache Shared cache &#8211; 12MB L3 cache, 10MB SLC (System Level [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/23/mediatek-dimensity-cx-c10-max-octa-core-cortex-x925-x9-a720-soc-targets-googlebooks/\">MediaTek Dimensity CX C10 Max octa-core Cortex-X925/X9/A720 SoC targets Googlebooks</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Soulart Station – A markerless full-body motion tracker for VR and VTubers (Crowdfunding)",
     "source": "CNX Software",
     "date": "2026-09-23",
     "url": "https://www.cnx-software.com/2026/09/23/soulart-station-a-markerless-full-body-motion-tracker-for-vr-and-vtubers/",
     "summary": "<div><img alt=\"Soulart Station markerless motion tracking device with its ToF IR and RGB sensors\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Soulart-Station-markerless-motion-tracking-device-with-its-ToF-IR-and-RGB-sensors-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>South Korean startup Soulart has launched the Soulart Station, a markerless full-body motion tracker for VR, VTubing, and motion capture. The device uses a Time-of-Flight (ToF) sensor and an onboard Neural Processing Unit (NPU) to capture 3D point cloud data and process motion tracking on the device. By running machine learning models locally, it avoids expensive PC-side GPU computation or cloud processing, delivering 23-joint 6DoF motion data with a claimed ML latency under 10 milliseconds. Soulart Station specifications: SoC &#8211; TBD; They only mention Onboard dual-core NPU and built-in graphics processor Fully on-device processing (no PC GPU or cloud required; only motion data is transmitted for privacy) Connectivity &#8211; Wi-Fi Sensors Custom Time-of-Flight (ToF) module (940 nm IR) 4K RGB + NIR cameras Tracking Method &#8211; Markerless 3D scan + on-device ML pose (no wearables, suits, or pucks required) Point cloud &#8211; ~300,000 points (millimeter-scale) with sub-1% error Scan Rate [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/23/soulart-station-a-markerless-full-body-motion-tracker-for-vr-and-vtubers/\">Soulart Station – A markerless full-body motion tracker for VR and VTubers (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "RAF Space Squadron forms to defend Britain’s satellites",
+    "source": "Electronics Weekly",
+    "date": "2026-09-23",
+    "url": "https://www.electronicsweekly.com/news/raf-space-squadron-forms-to-defend-britains-satellites-2026-09/",
+    "summary": "<p>The UK&#8217;s Chief of Air Staff, Air Chief Marshal Sir Harv Smith, has announced the formation of an RAF Space Squadron to defend British satellites and interests in space. Its [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/raf-space-squadron-forms-to-defend-britains-satellites-2026-09/\">RAF Space Squadron forms to defend Britain&#8217;s satellites</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "UKSA backs Filtronic to develop RF over IP for digital satellite ground networks",
+    "source": "Electronics Weekly",
+    "date": "2026-09-23",
+    "url": "https://www.electronicsweekly.com/news/business/uksa-backs-filtronic-to-develop-rf-over-ip-for-digital-satellite-ground-networks-2026-09/",
+    "summary": "<p>Filtronic, the high-frequency connectivity specialist, has been awarded funding through the UK Space Agency’s Ground Station Innovation Programme (GSIP). It will develop next-gen RF over IP technology to help support [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/uksa-backs-filtronic-to-develop-rf-over-ip-for-digital-satellite-ground-networks-2026-09/\">UKSA backs Filtronic to develop RF over IP for digital satellite ground networks</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Sponsored Content: Designing Backup Power for Electronic Door Release After a Vehicle Crash",
+    "source": "Electronics Weekly",
+    "date": "2026-09-23",
+    "url": "https://www.electronicsweekly.com/news/business/sponsored-content-designing-backup-power-for-electronic-door-release-after-a-vehicle-crash-2026-09/",
+    "summary": "<p>Electronic door systems improve packaging and user experience, but they also create a clear engineering question: what releases the door if the vehicle low-voltage supply is lost after a severe [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/sponsored-content-designing-backup-power-for-electronic-door-release-after-a-vehicle-crash-2026-09/\">Sponsored Content: Designing Backup Power for Electronic Door Release After a Vehicle Crash</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Chip Turf War  in China",
@@ -35,11 +77,11 @@
     "summary": "<p>Yesterday, T-Head, Alibaba’s chip unit, previewed its most powerful AI processor yet &#8211; the  Zhenwu V900 aimed at both training and inference. Production is scheduled for Q1 2027. The technology [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/alibaba-announces-its-most-powerful-ai-processor-yet-2026-09/\">Alibaba announces its most powerful AI processor yet</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Cadence agent delivers production‑ready RTL covering PPA.",
+    "title": "Cadence agent delivers production‑ready RTL covering PPA",
     "source": "Electronics Weekly",
     "date": "2026-09-23",
     "url": "https://www.electronicsweekly.com/news/business/cadence-agent-delivers-production%e2%80%91ready-rtl-covering-ppa-2026-09/",
-    "summary": "<p> Cadence has introduced a new agent for Cadence ChipStack AI Super Agent that automates front‑end digital design and verification—covering power, performance and area (PPA)-driven spec‑to‑RTL generation, RTL analysis, and refinement; [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/cadence-agent-delivers-production%e2%80%91ready-rtl-covering-ppa-2026-09/\">Cadence agent delivers production‑ready RTL covering PPA.</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p> Cadence has introduced a new agent for Cadence ChipStack AI Super Agent that automates front‑end digital design and verification—covering power, performance and area (PPA)-driven spec‑to‑RTL generation, RTL analysis, and refinement; [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/cadence-agent-delivers-production%e2%80%91ready-rtl-covering-ppa-2026-09/\">Cadence agent delivers production‑ready RTL covering PPA</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "59% growth for 2025 DRAM module market",
@@ -84,20 +126,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"477\" src=\"https://hackaday.com/wp-content/uploads/2026/09/sciadv.aeb7653-f1.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One of the most fun challenges in paleontology is determining characteristics of long-dead species like their behavior and body temperature based on nothing but some fossils and traces that are <a class=\"read-more\" href=\"https://hackaday.com/2026/09/22/determining-the-body-temperature-of-tyrannosaurus-rex/\">&#8230;read more</a>"
   },
   {
-    "title": "Raspberry Pi RAM Restrictions No Big Deal, Frankly",
-    "source": "Hackaday",
-    "date": "2026-09-22",
-    "url": "https://hackaday.com/2026/09/22/raspberry-pi-ram-restrictions-no-big-deal-frankly/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2022/02/RaspberryPi10.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Hacking on Raspberry Pi board internals is one of my favourite topics. I know a bunch of obscure things about these cute little boards. Three years ago, I covered a <a class=\"read-more\" href=\"https://hackaday.com/2026/09/22/raspberry-pi-ram-restrictions-no-big-deal-frankly/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Digital Upgrade Brings Medium Format Camera Into the 21st Century",
-    "source": "Hackaday",
-    "date": "2026-09-22",
-    "url": "https://hackaday.com/2026/09/22/digital-upgrade-brings-medium-format-camera-into-the-21st-century/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/Mamiya-digital-back-CCD-1.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Large format cameras can produce amazing shots, but are a bit too bulky to be practical. Medium format is a different story, as [Wenting] demonstrates with his Sitina B220M &#8212; <a class=\"read-more\" href=\"https://hackaday.com/2026/09/22/digital-upgrade-brings-medium-format-camera-into-the-21st-century/\">&#8230;read more</a>"
-  },
-  {
     "title": "Gearotons M17 – A low-cost NEMA-17 4-in-1 servomotor with driver, motion controller, and encoder",
     "source": "CNX Software",
     "date": "2026-09-22",
@@ -131,27 +159,6 @@
     "date": "2026-09-22",
     "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-the-secret-life-of-circuits-2026-09/",
     "summary": "<p>Maybe one for the proto Gadget Master in your life... The Secret Life of Circuits, An Illustrated Guide to Electronic Circuit Design.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-the-secret-life-of-circuits-2026-09/\">Gadget Book:  The Secret Life of Circuits</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Satlantis launches NOX Night vision Optical eXplorer project",
-    "source": "Electronics Weekly",
-    "date": "2026-09-22",
-    "url": "https://www.electronicsweekly.com/news/satlantis-launches-nox-night-vision-optical-explorer-project-2026-09/",
-    "summary": "<p>Satlantis Microsats, a provider of high-res optical payloads for small satellites, has officially launched NOX (Night vision Optical eXplorer) project. This is a new night-vision project with funding coming from [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/satlantis-launches-nox-night-vision-optical-explorer-project-2026-09/\">Satlantis launches NOX Night vision Optical eXplorer project</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Tim Cook to get Robert Noyce Award",
-    "source": "Electronics Weekly",
-    "date": "2026-09-22",
-    "url": "https://www.electronicsweekly.com/news/business/tim-cook-to-get-robert-noyce-award-2026-09/",
-    "summary": "<p>Today, the SIA announced that Tim Cook has been selected as the 2026 recipient of the chip industry’s highest honour, the Robert N. Noyce Award. The SIA presents the Noyce [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tim-cook-to-get-robert-noyce-award-2026-09/\">Tim Cook to get Robert Noyce Award</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Euro-processor samples delivered to Bull",
-    "source": "Electronics Weekly",
-    "date": "2026-09-22",
-    "url": "https://www.electronicsweekly.com/news/euro-processor-samples-delivered-to-bull-2026-09/",
-    "summary": "<p>SiPearl, the Euro-processor developer, has delivered samples of its first CPU &#8211; Rhea1 &#8211; to Bull which  has begun integration of the chip into its BullSequana XH3000 platform for JUPITER, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/euro-processor-samples-delivered-to-bull-2026-09/\">Euro-processor samples delivered to Bull</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "NEW GUIDE: Adafruit TMF8806 Time of Flight Distance Sensor #AdafruitLearningSystem @Adafruit",
@@ -390,13 +397,6 @@
     "date": "2026-09-17",
     "url": "https://www.cnx-software.com/2026/09/17/raspberry-pi-5-gets-dual-gmsl2-camera-hat-based-on-max96716a-deserializer/",
     "summary": "<div><img alt=\"Dual GMSL2 Camera HAT connected to Raspberry Pi 5\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Dual-GMSL2-Camera-HAT-connected-to-Raspberry-Pi-5-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>BE-IIS (Brechel Electronic-Industrial Interface Systems) has released a dual GMSL2 Camera HAT for the Raspberry Pi 5. The board is based on the MAX96716A GMSL2 deserializer and connects two remote GMSL2 cameras through the Pi&#8217;s CSI-2 interfaces. The solution has been validated in a dual-camera setup that operates at 2304 × 1296, RAW10, with two CSI-2 lanes per camera using the same Sony IMX708 12MP camera sensors found in the Raspberry Pi Camera Module 3. Besides low latency, one advantage of GMSL2 is long-range operation, and the HAT has been tested with two cameras connected over 10-meter coaxial cables. BE-IIS BE-IIS-2CAM (aka BE-IIS-GMSL2-2CAM) HAT+ specifications: Dual MIPI CSI camera output compatible with Raspberry Pi CSI interfaces Dual GMSL2 camera input 2x Rosenberger FAKRA connectors Up to 6 Gbps each PoC filter and protection per connector Analog Devices MAX96716A GMSL2 deserializer Misc Single and Dual HAT Operation 40-pin Raspberry Pi GPIO header [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/17/raspberry-pi-5-gets-dual-gmsl2-camera-hat-based-on-max96716a-deserializer/\">Raspberry Pi 5 gets dual GMSL2 Camera HAT based on MAX96716A deserializer</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "ENILINX TICKEY – An ESP32-S3-based color e-Paper badge with open firmware (Crowdfunding)",
-    "source": "CNX Software",
-    "date": "2026-09-17",
-    "url": "https://www.cnx-software.com/2026/09/17/enilinx-tickey-esp32-s3-color-e-paper-badge-with-open-firmware/",
-    "summary": "<div><img alt=\"TICKEY ESP32 S3 based color e Paper badge with 48 native colors\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/TICKEY-ESP32-S3-based-color-e-Paper-badge-with-48-native-colors-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ENIAC (operating as ENILINX) has launched the TICKEY, a 3.7-inch color e-Paper smart badge and desk display built around an ESP32-S3 MCU. The device features Wi-Fi, Bluetooth, and NFC connectivity, allowing users to update the screen from a smartphone without requiring continuous power to hold a static image. The display uses Modos’ color e-paper technology to deliver 48+ native colors, with refresh times as fast as 3 seconds and sunlight readability. Measuring just 3.8mm thick and weighing 45 grams, TICKEY features an aluminum-alloy body and interchangeable faceplates, and supports NFC and QR code-based web profile sharing. The standard version includes 8MB of storage, whereas the Developer Edition offers 128MB for more advanced applications. These features make it suitable for desk reminders, event identification, digital business cards, and interactive maker projects. TICKEY specifications: Wireless MCU –  ESP32-S3 Dual-core Tensilica LX7 microcontroller @ up to 240 MHz Wireless – 2.4 GHz 802.11n [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/17/enilinx-tickey-esp32-s3-color-e-paper-badge-with-open-firmware/\">ENILINX TICKEY &#8211; An ESP32-S3-based color e-Paper badge with open firmware (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Abaco Systems Introduces VNX+ SBC",
