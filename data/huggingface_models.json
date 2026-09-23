@@ -1,5 +1,23 @@
 [
   {
+    "model": "EquilibriumMap/robotic-flow-maps-results",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/EquilibriumMap/robotic-flow-maps-results",
+    "date": "2026-09-23",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "huiwon/fastwam_openarm_wam_v1_robot_b32_50k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/huiwon/fastwam_openarm_wam_v1_robot_b32_50k",
+    "date": "2026-09-23",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "tsinghua-sigs-robot-lab/VeriLoop-E2-Q8_0-GGUF",
     "downloads": 0,
     "likes": 1,
@@ -90,91 +108,28 @@
     "score": 166.7
   },
   {
-    "model": "beihai12/wlp-robot",
+    "model": "mim-chess-vlas/train_800_complex__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/beihai12/wlp-robot",
-    "date": "2026-09-23",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "josantos6/simple-robotics-vision-language",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/josantos6/simple-robotics-vision-language",
-    "date": "2026-09-23",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_dense__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
     "date": "2026-09-23",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/train_800_complex__bbox__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "model": "mim-chess-vlas/train_800_complex__no_mask__groot__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__bbox__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__no_mask__groot__seed_0",
     "date": "2026-09-23",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/train_800_dense__bbox__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "model": "mim-chess-vlas/train_800_dense__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__bbox__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "date": "2026-09-23",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_dense__no_mask__groot__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__no_mask__groot__seed_0",
-    "date": "2026-09-23",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_sparse__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "date": "2026-09-23",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_sparse__no_mask__groot__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__no_mask__groot__seed_0",
-    "date": "2026-09-23",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_sparse__bbox__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__bbox__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "date": "2026-09-23",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/jr-pnp-b-30p-masked-fourstage__pi__05",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/jr-pnp-b-30p-masked-fourstage__pi__05",
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
     "date": "2026-09-23",
     "keyword": "vla",
     "score": 0.1
@@ -189,28 +144,73 @@
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/jr-pnp-b-50p-masked-fourstage__pi__05",
+    "model": "mim-chess-vlas/train_800_sparse__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/jr-pnp-b-50p-masked-fourstage__pi__05",
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
     "date": "2026-09-23",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/train_800_complex__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "model": "mim-chess-vlas/train_800_sparse__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
     "date": "2026-09-23",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "model": "mim-chess-vlas/train_800_complex__bbox__overlay_a75__sim__all_cameras__live__groot__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__bbox__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "date": "2026-09-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_dense__no_mask__groot__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__no_mask__groot__seed_0",
+    "date": "2026-09-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_dense__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__point__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "date": "2026-09-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_dense__bbox__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__bbox__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "date": "2026-09-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/jr-pnp-ab-30p-nomask-fourstage__pi__05",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/jr-pnp-ab-30p-nomask-fourstage__pi__05",
+    "date": "2026-09-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_sparse__no_mask__groot__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__no_mask__groot__seed_0",
     "date": "2026-09-23",
     "keyword": "vla",
     "score": 0.1
@@ -231,6 +231,33 @@
     "url": "https://huggingface.co/pranavgup/embodied-ai-notes44",
     "date": "2026-09-23",
     "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-09-23_plug_cable_iolite_dgf_iepe",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-09-23_plug_cable_iolite_dgf_iepe",
+    "date": "2026-09-23",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "jogarulfop/policy_2026-09-23_plug_cable_iolite_no_tactile",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jogarulfop/policy_2026-09-23_plug_cable_iolite_no_tactile",
+    "date": "2026-09-23",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "emmanuel-v/policy_2026-09-23_plug_usb_iolite_no_tactile",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/emmanuel-v/policy_2026-09-23_plug_usb_iolite_no_tactile",
+    "date": "2026-09-23",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -276,6 +303,15 @@
     "url": "https://huggingface.co/WoojongKim/smolvla_policy_omx_gelsight_env2_square_merged",
     "date": "2026-09-23",
     "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "josantos6/simple-robotics-vision-language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/josantos6/simple-robotics-vision-language",
+    "date": "2026-09-23",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -378,24 +414,6 @@
     "score": 0.1
   },
   {
-    "model": "jogarulfop/policy_2026-09-21_cheap_shakeit_bench_3sensors_v2_acc_mems_nfft_512",
-    "downloads": 24,
-    "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-09-21_cheap_shakeit_bench_3sensors_v2_acc_mems_nfft_512",
-    "date": "2026-09-22",
-    "keyword": "policy",
-    "score": 7.3
-  },
-  {
-    "model": "yangzhixing/oat-rfsq-pair-sorting-policy-tok450k-step26000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/yangzhixing/oat-rfsq-pair-sorting-policy-tok450k-step26000",
-    "date": "2026-09-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "qlearningwithworldmodels/anonymous-pixel-world-models",
     "downloads": 0,
     "likes": 0,
@@ -448,15 +466,6 @@
     "date": "2026-09-21",
     "keyword": "navigation",
     "score": 4.3
-  },
-  {
-    "model": "jogarulfop/policy_2026-09-21_cheap_shakeit_bench_3sensors_v2_dgf_iepe_nfft_512",
-    "downloads": 19,
-    "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-09-21_cheap_shakeit_bench_3sensors_v2_dgf_iepe_nfft_512",
-    "date": "2026-09-21",
-    "keyword": "policy",
-    "score": 5.8
   },
   {
     "model": "hvsr-robotics/Piper-TTS-PL",

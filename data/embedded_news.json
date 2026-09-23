@@ -1,5 +1,12 @@
 [
   {
+    "title": "Modern USB Controllers On Win98 (and up)",
+    "source": "Hackaday",
+    "date": "2026-09-23",
+    "url": "https://hackaday.com/2026/09/23/modern-usb-controllers-on-win98-and-up/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"523\" src=\"https://hackaday.com/wp-content/uploads/2026/09/xhci98-driver-info.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Yeo Kheng Meng] has a problem: he likes Windows 98, but he also likes his 2020 ThinkPad, which only has an xHCI USB controller&#8211; you know, the kind needed for <a class=\"read-more\" href=\"https://hackaday.com/2026/09/23/modern-usb-controllers-on-win98-and-up/\">&#8230;read more</a>"
+  },
+  {
     "title": "Smelting Bog Ore As It Should Be Done",
     "source": "Hackaday",
     "date": "2026-09-23",
@@ -42,13 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/kryonos-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Given the incredible power of modern microcontrollers, we&#8217;ve seen quite a few attempts to turn them into more general purpose computers over the years. KryonOS from [Haris] is the latest, <a class=\"read-more\" href=\"https://hackaday.com/2026/09/23/a-javascript-os-for-the-esp32/\">&#8230;read more</a>"
   },
   {
-    "title": "Myst on the Atari 2600",
-    "source": "Hackaday",
-    "date": "2026-09-23",
-    "url": "https://hackaday.com/2026/09/22/myst-on-the-atari-2600/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/myst-atari-main.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although the Atari 2600 was a hugely popular game console in the late 70s, its hardware specs were limited, to say the least. For a dedicated game console of the <a class=\"read-more\" href=\"https://hackaday.com/2026/09/22/myst-on-the-atari-2600/\">&#8230;read more</a>"
-  },
-  {
     "title": "MediaTek Dimensity CX C10 Max octa-core Cortex-X925/X9/A720 SoC targets Googlebooks",
     "source": "CNX Software",
     "date": "2026-09-23",
@@ -82,6 +82,13 @@
     "date": "2026-09-23",
     "url": "https://www.embedded.com/where-developer-choice-broke-down-in-embedded-software-development/",
     "summary": "<p>Windows-only embedded toolchains cost teams in hiring, re-qualification, and debugging time. See how a certified cross-platform IDE truly closes that gap.</p>\n<p>The post <a href=\"https://www.embedded.com/where-developer-choice-broke-down-in-embedded-software-development/\">Where Developer Choice Broke Down in Embedded Software Development </a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Single-board computer Raspberry Pi 4B 3GB RAM in TME’s offer",
+    "source": "Electronics Weekly",
+    "date": "2026-09-23",
+    "url": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/single-board-computer-raspberry-pi-4b-3gb-ram-in-tmes-offer-2026-09/",
+    "summary": "<p>The Raspberry Pi 4B 3GB RAM model is available in TME’s offer.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/single-board-computer-raspberry-pi-4b-3gb-ram-in-tmes-offer-2026-09/\">Single-board computer Raspberry Pi 4B 3GB RAM in TME’s offer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "SOSA-aligned TVPX210 3U OpenVPX carrier board offers modular I/O",
@@ -147,11 +154,11 @@
     "summary": "<p>The 2025 DRAM module market grew 59% YoY to $21.2 billion, says TrendForce, a significant acceleration from the 7% growth of 2024. The top five global DRAM module makers accounted [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/dram-module-suppliers-2026-09/\">59% growth for 2025 DRAM module market</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "MCUs for real-time control in power and motor applications",
-    "source": "Electronics Weekly",
+    "title": "Are smartwatches accurately calculating calories burned?",
+    "source": "Adafruit",
     "date": "2026-09-23",
-    "url": "https://www.electronicsweekly.com/news/business/infineon-launches-psoc-control-2026-09/",
-    "summary": "<p>Infineon is sampling  its PSOC Control C3 Performance Line MCU family to enable real-time control for power and motor applications. Based on Arm Cortex-M33 multi-core architecture, PSOC Control C3 Performance [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-launches-psoc-control-2026-09/\">MCUs for real-time control in power and motor applications</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/23/are-smartwatches-accurately-calculating-calories-burned/",
+    "summary": "Researchers at Florida International University studied the accuracy of smartwatch calories. Their research revealed what factors might not be accounted for and how it can lead to errors in the count."
   },
   {
     "title": "Wrap Around Display ESP32  Watch #WearableWednesday",
@@ -355,13 +362,6 @@
     "date": "2026-09-21",
     "url": "https://blog.adafruit.com/2026/09/21/detect-hidden-cameras-with-sweepled/",
     "summary": "SweepLED hardware prototype and operation, image via KAIST &#160; Cameras are getting smaller and we are all getting more paranoid, so you may want to do this one thing before checking into your short term rental. Using a phone and some inexpensive parts, researchers at KAIST [Korea Advanced Institute of Science and Technology] have developed [&#8230;]"
-  },
-  {
-    "title": "LEGO Set Lighting",
-    "source": "Adafruit",
-    "date": "2026-09-21",
-    "url": "https://blog.adafruit.com/2026/09/21/lego-set-lighting-2/",
-    "summary": "My son has been huge into LEGO for a couple of years now. The builds decorate the shelves all over the house to the point where they&#8217;ve become permanent fixtures. My son and I were talking the other day about some decoration ideas for the upcoming Halloween season and how we could incorporate his LEGO [&#8230;]"
   },
   {
     "title": "High-end 8-channel oscilloscope features 12-core AMD EPYC CPU, 96GB RAM, 15.6-inch display, and more",
