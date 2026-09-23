@@ -1,10 +1,66 @@
 [
   {
+    "title": "Myst on the Atari 2600",
+    "source": "Hackaday",
+    "date": "2026-09-23",
+    "url": "https://hackaday.com/2026/09/22/myst-on-the-atari-2600/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/myst-atari-main.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although the Atari 2600 was a hugely popular game console in the late 70s, its hardware specs were limited, to say the least. For a dedicated game console of the <a class=\"read-more\" href=\"https://hackaday.com/2026/09/22/myst-on-the-atari-2600/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Why Raindrops Make for Pretty Good Antennae",
+    "source": "Hackaday",
+    "date": "2026-09-23",
+    "url": "https://hackaday.com/2026/09/22/why-raindrops-make-for-pretty-good-antennae/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"478\" src=\"https://hackaday.com/wp-content/uploads/2026/09/rayleigh_regime_em_radiation_water_marshall_bruner_youtube.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>A good rule of thumb is that everything that can interact with electromagnetic (EM) radiation is an antenna, which includes our mostly-salty-water-containing bodies and also raindrops and moisture in the <a class=\"read-more\" href=\"https://hackaday.com/2026/09/22/why-raindrops-make-for-pretty-good-antennae/\">&#8230;read more</a>"
+  },
+  {
     "title": "Soulart Station – A markerless full-body motion tracker for VR and VTubers (Crowdfunding)",
     "source": "CNX Software",
     "date": "2026-09-23",
     "url": "https://www.cnx-software.com/2026/09/23/soulart-station-a-markerless-full-body-motion-tracker-for-vr-and-vtubers/",
     "summary": "<div><img alt=\"Soulart Station markerless motion tracking device with its ToF IR and RGB sensors\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Soulart-Station-markerless-motion-tracking-device-with-its-ToF-IR-and-RGB-sensors-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>South Korean startup Soulart has launched the Soulart Station, a markerless full-body motion tracker for VR, VTubing, and motion capture. The device uses a Time-of-Flight (ToF) sensor and an onboard Neural Processing Unit (NPU) to capture 3D point cloud data and process motion tracking on the device. By running machine learning models locally, it avoids expensive PC-side GPU computation or cloud processing, delivering 23-joint 6DoF motion data with a claimed ML latency under 10 milliseconds. Soulart Station specifications: SoC &#8211; TBD; They only mention Onboard dual-core NPU and built-in graphics processor Fully on-device processing (no PC GPU or cloud required; only motion data is transmitted for privacy) Connectivity &#8211; Wi-Fi Sensors Custom Time-of-Flight (ToF) module (940 nm IR) 4K RGB + NIR cameras Tracking Method &#8211; Markerless 3D scan + on-device ML pose (no wearables, suits, or pucks required) Point cloud &#8211; ~300,000 points (millimeter-scale) with sub-1% error Scan Rate [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/23/soulart-station-a-markerless-full-body-motion-tracker-for-vr-and-vtubers/\">Soulart Station – A markerless full-body motion tracker for VR and VTubers (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Chip Turf War  in China",
+    "source": "Electronics Weekly",
+    "date": "2026-09-23",
+    "url": "https://www.electronicsweekly.com/news/business/chip-turf-war-in-china-2026-09/",
+    "summary": "<p>A Chinese semiconductor industry Turf War is brewing as DRAM specialist CXMT looks to get into NAND &#8211; the province of Yangtze Memory (YMTC) &#8211; while YMTC is making moves [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/chip-turf-war-in-china-2026-09/\">Chip Turf War  in China</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Alibaba announces its most powerful AI processor yet",
+    "source": "Electronics Weekly",
+    "date": "2026-09-23",
+    "url": "https://www.electronicsweekly.com/news/business/alibaba-announces-its-most-powerful-ai-processor-yet-2026-09/",
+    "summary": "<p>Yesterday, T-Head, Alibaba’s chip unit, previewed its most powerful AI processor yet &#8211; the  Zhenwu V900 aimed at both training and inference. Production is scheduled for Q1 2027. The technology [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/alibaba-announces-its-most-powerful-ai-processor-yet-2026-09/\">Alibaba announces its most powerful AI processor yet</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Cadence agent delivers production‑ready RTL covering PPA.",
+    "source": "Electronics Weekly",
+    "date": "2026-09-23",
+    "url": "https://www.electronicsweekly.com/news/business/cadence-agent-delivers-production%e2%80%91ready-rtl-covering-ppa-2026-09/",
+    "summary": "<p> Cadence has introduced a new agent for Cadence ChipStack AI Super Agent that automates front‑end digital design and verification—covering power, performance and area (PPA)-driven spec‑to‑RTL generation, RTL analysis, and refinement; [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/cadence-agent-delivers-production%e2%80%91ready-rtl-covering-ppa-2026-09/\">Cadence agent delivers production‑ready RTL covering PPA.</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "59% growth for 2025 DRAM module market",
+    "source": "Electronics Weekly",
+    "date": "2026-09-23",
+    "url": "https://www.electronicsweekly.com/news/business/dram-module-suppliers-2026-09/",
+    "summary": "<p>The 2025 DRAM module market grew 59% YoY to $21.2 billion, says TrendForce, a significant acceleration from the 7% growth of 2024. The top five global DRAM module makers accounted [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/dram-module-suppliers-2026-09/\">59% growth for 2025 DRAM module market</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "MCUs for real-time control in power and motor applications",
+    "source": "Electronics Weekly",
+    "date": "2026-09-23",
+    "url": "https://www.electronicsweekly.com/news/business/infineon-launches-psoc-control-2026-09/",
+    "summary": "<p>Infineon is sampling  its PSOC Control C3 Performance Line MCU family to enable real-time control for power and motor applications. Based on Arm Cortex-M33 multi-core architecture, PSOC Control C3 Performance [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-launches-psoc-control-2026-09/\">MCUs for real-time control in power and motor applications</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Top Ten (less 5) NAND Vendors In Q2",
+    "source": "Electronics Weekly",
+    "date": "2026-09-23",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-nand-vendors-in-q2-2026-09/",
+    "summary": "<p>Thanks to TrendForce for this one &#8211; the top five NAND suppliers in Q2:</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-nand-vendors-in-q2-2026-09/\">Top Ten (less 5) NAND Vendors In Q2</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "ESP32 Replacement for Lighting Display Controller",
@@ -42,20 +98,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/Mamiya-digital-back-CCD-1.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Large format cameras can produce amazing shots, but are a bit too bulky to be practical. Medium format is a different story, as [Wenting] demonstrates with his Sitina B220M &#8212; <a class=\"read-more\" href=\"https://hackaday.com/2026/09/22/digital-upgrade-brings-medium-format-camera-into-the-21st-century/\">&#8230;read more</a>"
   },
   {
-    "title": "Raspberry Pi Locks Down RAM Upgrades",
-    "source": "Hackaday",
-    "date": "2026-09-22",
-    "url": "https://hackaday.com/2026/09/22/raspberry-pi-locks-down-ram-upgrades/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"458\" src=\"https://hackaday.com/wp-content/uploads/2024/02/raspberry_pi_5.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In a recent video [Jeff Geerling] addresses an issue discovered with the Raspberry Pi firmware, specifically how since around 2024 the firmware locks down what RAM size and even module <a class=\"read-more\" href=\"https://hackaday.com/2026/09/22/raspberry-pi-locks-down-ram-upgrades/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Tiny Scratch-Built Cyberdeck is in Mint Condition",
-    "source": "Hackaday",
-    "date": "2026-09-22",
-    "url": "https://hackaday.com/2026/09/22/tiny-scratch-built-cyberdeck-is-in-mint-condition/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/I-Built-a-Tiny-Cyberdeck-Inside-an-Altoids-Tin-From-Scratch-0-3-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Salim Benbouziyane] shows off his TN Deck, a tiny custom cyberdeck built into an Altoids tin. It&#8217;s a skillful build that really makes the most of the available space, and <a class=\"read-more\" href=\"https://hackaday.com/2026/09/22/tiny-scratch-built-cyberdeck-is-in-mint-condition/\">&#8230;read more</a>"
-  },
-  {
     "title": "Gearotons M17 – A low-cost NEMA-17 4-in-1 servomotor with driver, motion controller, and encoder",
     "source": "CNX Software",
     "date": "2026-09-22",
@@ -82,6 +124,34 @@
     "date": "2026-09-22",
     "url": "https://www.embedded.com/mediatek-debuts-cx-c10-soc-for-ai-first-googlebook-laptops/",
     "summary": "<p>MediaTek has unveiled the Dimensity CX C10 Max system-on-chip (SoC), the first chip in the company's new Dimensity Compute Experiences (CX) family. The flagship CX chip delivers high performance, advanced functionality, and higher power efficiency for an upcoming premium, ultra-portable Googlebook device. The Dimensity CX C10 Max SoC is built on TSMC's advanced 3-nm process. [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mediatek-debuts-cx-c10-soc-for-ai-first-googlebook-laptops/\">MediaTek Debuts CX C10 SoC for AI-First Googlebook Laptops</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Gadget Book:  The Secret Life of Circuits",
+    "source": "Electronics Weekly",
+    "date": "2026-09-22",
+    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-the-secret-life-of-circuits-2026-09/",
+    "summary": "<p>Maybe one for the proto Gadget Master in your life... The Secret Life of Circuits, An Illustrated Guide to Electronic Circuit Design.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-the-secret-life-of-circuits-2026-09/\">Gadget Book:  The Secret Life of Circuits</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Satlantis launches NOX Night vision Optical eXplorer project",
+    "source": "Electronics Weekly",
+    "date": "2026-09-22",
+    "url": "https://www.electronicsweekly.com/news/satlantis-launches-nox-night-vision-optical-explorer-project-2026-09/",
+    "summary": "<p>Satlantis Microsats, a provider of high-res optical payloads for small satellites, has officially launched NOX (Night vision Optical eXplorer) project. This is a new night-vision project with funding coming from [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/satlantis-launches-nox-night-vision-optical-explorer-project-2026-09/\">Satlantis launches NOX Night vision Optical eXplorer project</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Tim Cook to get Robert Noyce Award",
+    "source": "Electronics Weekly",
+    "date": "2026-09-22",
+    "url": "https://www.electronicsweekly.com/news/business/tim-cook-to-get-robert-noyce-award-2026-09/",
+    "summary": "<p>Today, the SIA announced that Tim Cook has been selected as the 2026 recipient of the chip industry’s highest honour, the Robert N. Noyce Award. The SIA presents the Noyce [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tim-cook-to-get-robert-noyce-award-2026-09/\">Tim Cook to get Robert Noyce Award</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Euro-processor samples delivered to Bull",
+    "source": "Electronics Weekly",
+    "date": "2026-09-22",
+    "url": "https://www.electronicsweekly.com/news/euro-processor-samples-delivered-to-bull-2026-09/",
+    "summary": "<p>SiPearl, the Euro-processor developer, has delivered samples of its first CPU &#8211; Rhea1 &#8211; to Bull which  has begun integration of the chip into its BullSequana XH3000 platform for JUPITER, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/euro-processor-samples-delivered-to-bull-2026-09/\">Euro-processor samples delivered to Bull</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "NEW GUIDE: Adafruit TMF8806 Time of Flight Distance Sensor #AdafruitLearningSystem @Adafruit",
