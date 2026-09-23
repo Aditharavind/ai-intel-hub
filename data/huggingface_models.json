@@ -1,12 +1,39 @@
 [
   {
-    "model": "tsinghua-sigs-robot-lab/VeriLoop-E2",
+    "model": "VladHong/Qwen3.5-9B-Ornimo-SLERP-GGUF",
     "downloads": 0,
     "likes": 0,
+    "url": "https://huggingface.co/VladHong/Qwen3.5-9B-Ornimo-SLERP-GGUF",
+    "date": "2026-09-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_dense__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__bbox__overlay_a75__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_complex__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__point__overlay_a25__sim__all_cameras__live__pi05__seed_0",
+    "date": "2026-09-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "tsinghua-sigs-robot-lab/VeriLoop-E2",
+    "downloads": 0,
+    "likes": 1,
     "url": "https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2",
     "date": "2026-09-22",
     "keyword": "robot",
-    "score": 0.1
+    "score": 0.3
   },
   {
     "model": "EquilibriumMap/robotic-flow-maps-weights",
@@ -40,6 +67,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/ACloudCenter/F5-TTS-robot",
+    "date": "2026-09-22",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "griffinlabs/griffin-alpha-s-robotwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/griffinlabs/griffin-alpha-s-robotwin",
     "date": "2026-09-22",
     "keyword": "robot",
     "score": 0.1
@@ -99,12 +135,21 @@
     "score": 0.1
   },
   {
-    "model": "djbob/balance_robot",
+    "model": "research-vla/RIFT-RoboCOIN",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/djbob/balance_robot",
+    "url": "https://huggingface.co/research-vla/RIFT-RoboCOIN",
     "date": "2026-09-22",
-    "keyword": "robot",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/jr-pnp-ab-50p-masked__pi__05",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/jr-pnp-ab-50p-masked__pi__05",
+    "date": "2026-09-22",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -117,28 +162,10 @@
     "score": 0.1
   },
   {
-    "model": "research-vla/RIFT-RoboCOIN",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/research-vla/RIFT-RoboCOIN",
-    "date": "2026-09-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "mim-chess-vlas/train_800_complex__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__bbox__blur_a50__sim__all_cameras__live__pi05__seed_0",
-    "date": "2026-09-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/jr-pnp-ab-50p-masked__pi__05",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/jr-pnp-ab-50p-masked__pi__05",
     "date": "2026-09-22",
     "keyword": "vla",
     "score": 0.1
@@ -189,30 +216,12 @@
     "score": 0.1
   },
   {
-    "model": "vlabok-snist/kr",
+    "model": "jadidbourbaki/shared-cache-world-model",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/vlabok-snist/kr",
+    "url": "https://huggingface.co/jadidbourbaki/shared-cache-world-model",
     "date": "2026-09-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "RealTrainer/lingbot-vla-2.0-QgAX91nSz9KR",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RealTrainer/lingbot-vla-2.0-QgAX91nSz9KR",
-    "date": "2026-09-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Vlad39382/lfm25-350m-ru-lora-v3-gguf",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Vlad39382/lfm25-350m-ru-lora-v3-gguf",
-    "date": "2026-09-22",
-    "keyword": "vla",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -583,15 +592,6 @@
     "date": "2026-09-18",
     "keyword": "world model",
     "score": 8.2
-  },
-  {
-    "model": "SaFD-00/qwen2.5-vl-3b-ac-exp09-time-mgmt-world-model-stage1-lora-epoch3",
-    "downloads": 31,
-    "likes": 0,
-    "url": "https://huggingface.co/SaFD-00/qwen2.5-vl-3b-ac-exp09-time-mgmt-world-model-stage1-lora-epoch3",
-    "date": "2026-09-17",
-    "keyword": "world model",
-    "score": 9.4
   },
   {
     "model": "sedeboer/course-robotics-vision-language",

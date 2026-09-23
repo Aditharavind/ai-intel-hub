@@ -1,5 +1,12 @@
 [
   {
+    "title": "Soulart Station – A markerless full-body motion tracker for VR and VTubers (Crowdfunding)",
+    "source": "CNX Software",
+    "date": "2026-09-23",
+    "url": "https://www.cnx-software.com/2026/09/23/soulart-station-a-markerless-full-body-motion-tracker-for-vr-and-vtubers/",
+    "summary": "<div><img alt=\"Soulart Station markerless motion tracking device with its ToF IR and RGB sensors\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Soulart-Station-markerless-motion-tracking-device-with-its-ToF-IR-and-RGB-sensors-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>South Korean startup Soulart has launched the Soulart Station, a markerless full-body motion tracker for VR, VTubing, and motion capture. The device uses a Time-of-Flight (ToF) sensor and an onboard Neural Processing Unit (NPU) to capture 3D point cloud data and process motion tracking on the device. By running machine learning models locally, it avoids expensive PC-side GPU computation or cloud processing, delivering 23-joint 6DoF motion data with a claimed ML latency under 10 milliseconds. Soulart Station specifications: SoC &#8211; TBD; They only mention Onboard dual-core NPU and built-in graphics processor Fully on-device processing (no PC GPU or cloud required; only motion data is transmitted for privacy) Connectivity &#8211; Wi-Fi Sensors Custom Time-of-Flight (ToF) module (940 nm IR) 4K RGB + NIR cameras Tracking Method &#8211; Markerless 3D scan + on-device ML pose (no wearables, suits, or pucks required) Point cloud &#8211; ~300,000 points (millimeter-scale) with sub-1% error Scan Rate [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/23/soulart-station-a-markerless-full-body-motion-tracker-for-vr-and-vtubers/\">Soulart Station – A markerless full-body motion tracker for VR and VTubers (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "ESP32 Replacement for Lighting Display Controller",
     "source": "Hackaday",
     "date": "2026-09-22",
@@ -75,76 +82,6 @@
     "date": "2026-09-22",
     "url": "https://www.embedded.com/mediatek-debuts-cx-c10-soc-for-ai-first-googlebook-laptops/",
     "summary": "<p>MediaTek has unveiled the Dimensity CX C10 Max system-on-chip (SoC), the first chip in the company's new Dimensity Compute Experiences (CX) family. The flagship CX chip delivers high performance, advanced functionality, and higher power efficiency for an upcoming premium, ultra-portable Googlebook device. The Dimensity CX C10 Max SoC is built on TSMC's advanced 3-nm process. [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mediatek-debuts-cx-c10-soc-for-ai-first-googlebook-laptops/\">MediaTek Debuts CX C10 SoC for AI-First Googlebook Laptops</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Gadget Book:  The Secret Life of Circuits",
-    "source": "Electronics Weekly",
-    "date": "2026-09-22",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-the-secret-life-of-circuits-2026-09/",
-    "summary": "<p>Maybe one for the proto Gadget Master in your life... The Secret Life of Circuits, An Illustrated Guide to Electronic Circuit Design.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-the-secret-life-of-circuits-2026-09/\">Gadget Book:  The Secret Life of Circuits</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Satlantis launches NOX Night vision Optical eXplorer project",
-    "source": "Electronics Weekly",
-    "date": "2026-09-22",
-    "url": "https://www.electronicsweekly.com/news/satlantis-launches-nox-night-vision-optical-explorer-project-2026-09/",
-    "summary": "<p>Satlantis Microsats, a provider of high-res optical payloads for small satellites, has officially launched NOX (Night vision Optical eXplorer) project. This is a new night-vision project with funding coming from [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/satlantis-launches-nox-night-vision-optical-explorer-project-2026-09/\">Satlantis launches NOX Night vision Optical eXplorer project</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Tim Cook to get Robert Noyce Award",
-    "source": "Electronics Weekly",
-    "date": "2026-09-22",
-    "url": "https://www.electronicsweekly.com/news/business/tim-cook-to-get-robert-noyce-award-2026-09/",
-    "summary": "<p>Today, the SIA announced that Tim Cook has been selected as the 2026 recipient of the chip industry’s highest honour, the Robert N. Noyce Award. The SIA presents the Noyce [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tim-cook-to-get-robert-noyce-award-2026-09/\">Tim Cook to get Robert Noyce Award</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Euro-processor samples delivered to Bull",
-    "source": "Electronics Weekly",
-    "date": "2026-09-22",
-    "url": "https://www.electronicsweekly.com/news/euro-processor-samples-delivered-to-bull-2026-09/",
-    "summary": "<p>SiPearl, the Euro-processor developer, has delivered samples of its first CPU &#8211; Rhea1 &#8211; to Bull which  has begun integration of the chip into its BullSequana XH3000 platform for JUPITER, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/euro-processor-samples-delivered-to-bull-2026-09/\">Euro-processor samples delivered to Bull</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Omnivision’s OX08D30 8-megapixel CMOS automotive image sensor eyes ADAS",
-    "source": "Electronics Weekly",
-    "date": "2026-09-22",
-    "url": "https://www.electronicsweekly.com/news/products/sensors-products/omnivisions-ox08d30-8-megapixel-cmos-automotive-image-sensor-eyes-adas-2026-09/",
-    "summary": "<p>Omnivision, the digital imaging specialist, has announced its OX08D30 8-megapixel CMOS automotive image sensor. Featuring the company&#8217;s TheiaCel technology, for high dynamic range (HDR) imaging, it is aimed at advanced [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/sensors-products/omnivisions-ox08d30-8-megapixel-cmos-automotive-image-sensor-eyes-adas-2026-09/\">Omnivision&#8217;s OX08D30 8-megapixel CMOS automotive image sensor eyes ADAS</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Why AI is forcing a rethink of power delivery",
-    "source": "Electronics Weekly",
-    "date": "2026-09-22",
-    "url": "https://www.electronicsweekly.com/news/business/why-ai-is-forcing-a-rethink-of-power-delivery-2026-09/",
-    "summary": "<p>Delivering enough power, quickly and consistently enough, to keep increasingly complex AI systems operating at peak performance, is a challenge, writes Takaki Murata.  Some of the biggest constraints on future [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/why-ai-is-forcing-a-rethink-of-power-delivery-2026-09/\">Why AI is forcing a rethink of power delivery</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "OpenLight samples 3.T DR8 silicon photonics PICs",
-    "source": "Electronics Weekly",
-    "date": "2026-09-22",
-    "url": "https://www.electronicsweekly.com/news/products/openlight-samples-3-t-dr8-silicon-photonics-pics-2026-09/",
-    "summary": "<p>Openlight is sampling the industry’s first 3.2T DR8 silicon photonic power ICs (PICs). They are fabricated using Tower Semiconductor’s PH18DA process. At CIOE 2026 in Shenzhen, the company also announced [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/openlight-samples-3-t-dr8-silicon-photonics-pics-2026-09/\">OpenLight samples 3.T DR8 silicon photonics PICs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Samsung’s Taylor fab running prototypes of Tesla’s 2nm A15 chip",
-    "source": "Electronics Weekly",
-    "date": "2026-09-22",
-    "url": "https://www.electronicsweekly.com/news/business/manufacturing/samsungs-taylor-fab-running-prototypes-of-teslas-2nm-a15-chip-2026-09/",
-    "summary": "<p>Samsung’s Taylor, Texas fab is reported by the Seoul Economic Daily to have started running prototypes of Tesla’s 2nm A15 chip which goes into the Full Self Driving car, the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/manufacturing/samsungs-taylor-fab-running-prototypes-of-teslas-2nm-a15-chip-2026-09/\">Samsung’s Taylor fab running prototypes of Tesla’s 2nm A15 chip</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Q2 server shipments hit $166bn",
-    "source": "Electronics Weekly",
-    "date": "2026-09-22",
-    "url": "https://www.electronicsweekly.com/news/business/q2-server-shipments-hit-166bn-2026-09/",
-    "summary": "<p>Q2 was highest quarterly revenue in the server market’s history &#8211; up 52% YoY and 35.7% QoQ at $166?3 billion propelled by both as rising units and ASPs with branded [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/q2-server-shipments-hit-166bn-2026-09/\">Q2 server shipments hit $166bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Melexis adds to current sensors",
-    "source": "Electronics Weekly",
-    "date": "2026-09-22",
-    "url": "https://www.electronicsweekly.com/news/business/melexis-adds-current-sensors-2026-09/",
-    "summary": "<p>Melexis has expanded  its isolated current sensor portfolio for high-voltage automotive and industrial applications with devices delivering  plug-and-play measurement up to 100 ARMS, ASIL B readiness, and a fast analogue [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/melexis-adds-current-sensors-2026-09/\">Melexis adds to current sensors</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "NEW GUIDE: Adafruit TMF8806 Time of Flight Distance Sensor #AdafruitLearningSystem @Adafruit",
@@ -397,13 +334,6 @@
     "date": "2026-09-17",
     "url": "https://www.embedded.com/abaco-systems-introduces-vnx-sbc/",
     "summary": "<p>Abaco Systems has launched the VNX382, the company's first VNX+ single-board computer (SBC). The VNX+ standard, developed by VITA and the Open Group SOSA community and ratified by ANSI in 2026, extends the open-standard VPX into lower size, weight, and power (SWaP) applications. The VNX382 extends rugged embedded computing into SWaP-constrained applications without tradeoffs in [...]</p>\n<p>The post <a href=\"https://www.embedded.com/abaco-systems-introduces-vnx-sbc/\">Abaco Systems Introduces VNX+ SBC</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "AAEON MIX-PTLWV1 Panther Lake industrial mini-ITX motherboard offers quad DisplayPort, dual 10GbE, and more",
-    "source": "CNX Software",
-    "date": "2026-09-16",
-    "url": "https://www.cnx-software.com/2026/09/16/aaeon-mix-ptlwv1-panther-lake-industrial-mini-itx-motherboard-offers-quad-displayport-dual-10gbe/",
-    "summary": "<div><img alt=\"Industrial Panther Lake mini ITX motherbaord\" class=\"attachment-medium size-medium wp-post-image\" height=\"539\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/05/Industrial-Panther-Lake-mini-ITX-motherbaord-720x539.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>AAEON MIX-PTLWV1 is an industrial mini-ITX motherboard based on Intel Core Ultra Series 3 &#8220;Panther Lake&#8221; processors with up to two 10GbE and two 2.5GbE RJ45 jacks, and four 4K-capable DisplayPort video outputs. The motherboard also supports up to 128GB DDR5 C/SO-DIMM memory, M.2 NVMe SSD storage, optional WiFi and Bluetooth, and/or 4G LTE/5G cellular via M.2 modules, a PCIe Gen4 x8 slot for expansion, six serial interfaces, 12V-24V wide DC input, and more. AAEON MIX-PTLWV1 specifications: SoC – Intel Panther Lake processor (PTL-H404/PTL-H484 families) with Intel Xe LPG graphics; TDP: 15 to 25W System Memory – Up to 128GB via 2x 262-pin DDR5 C/SO-DIMM sockets up to 6400MHz (H404 SKU) or 7200MHz (H484 SKU) Storage – M.2 2280 M-Key (PCIe Gen4 x4) socket for NVMe SSD Display Interfaces 4x DisplayPort 1.4 up to 4096 x 2160 @ 60Hz 40-pin LVDS/eDP co-layout connector for Default: 18/24 bit dual-channel LVDS up [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/16/aaeon-mix-ptlwv1-panther-lake-industrial-mini-itx-motherboard-offers-quad-displayport-dual-10gbe/\">AAEON MIX-PTLWV1 Panther Lake industrial mini-ITX motherboard offers quad DisplayPort, dual 10GbE, and more</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Micron Develops Ultra-Dense 512-GB DDR5 Memory Module",
