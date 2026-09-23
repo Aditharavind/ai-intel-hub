@@ -1,5 +1,19 @@
 [
   {
+    "title": "Forget Trees, add Fins to your 3D Prints Instead",
+    "source": "Hackaday",
+    "date": "2026-09-23",
+    "url": "https://hackaday.com/2026/09/23/forget-trees-add-fins-to-your-3d-prints-instead/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"446\" src=\"https://hackaday.com/wp-content/uploads/2026/09/support_fins_editor_matthew_trahan_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Perhaps one of the most contentious issues in 3D printing is that of supports, both because they&#8217;re an uncomfortable reminder of how gravity affects our prints and because the very <a class=\"read-more\" href=\"https://hackaday.com/2026/09/23/forget-trees-add-fins-to-your-3d-prints-instead/\">&#8230;read more</a>"
+  },
+  {
+    "title": "2026 Hackaday Supercon: Announcing our First Round of Speakers",
+    "source": "Hackaday",
+    "date": "2026-09-23",
+    "url": "https://hackaday.com/2026/09/23/2026-hackaday-supercon-announcing-our-first-round-of-speakers/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/supercon_10_CFP.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Supercon is the Ultimate Hardware Conference™ and you need to be there November 6-8 in Pasadena, California! Below is just the tip of the speakers&#8217; iceberg, but if that&#8217;s not <a class=\"read-more\" href=\"https://hackaday.com/2026/09/23/2026-hackaday-supercon-announcing-our-first-round-of-speakers/\">&#8230;read more</a>"
+  },
+  {
     "title": "How Pixar Stopped Worrying and Learned to Love Linux",
     "source": "Hackaday",
     "date": "2026-09-23",
@@ -42,67 +56,74 @@
     "summary": "<div><img alt=\"Soulart Station markerless motion tracking device with its ToF IR and RGB sensors\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Soulart-Station-markerless-motion-tracking-device-with-its-ToF-IR-and-RGB-sensors-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>South Korean startup Soulart has launched the Soulart Station, a markerless full-body motion tracker for VR, VTubing, and motion capture. The device uses a Time-of-Flight (ToF) sensor and an onboard Neural Processing Unit (NPU) to capture 3D point cloud data and process motion tracking on the device. By running machine learning models locally, it avoids expensive PC-side GPU computation or cloud processing, delivering 23-joint 6DoF motion data with a claimed ML latency under 10 milliseconds. Soulart Station specifications: SoC &#8211; TBD; They only mention Onboard dual-core NPU and built-in graphics processor Fully on-device processing (no PC GPU or cloud required; only motion data is transmitted for privacy) Connectivity &#8211; Wi-Fi Sensors Custom Time-of-Flight (ToF) module (940 nm IR) 4K RGB + NIR cameras Tracking Method &#8211; Markerless 3D scan + on-device ML pose (no wearables, suits, or pucks required) Point cloud &#8211; ~300,000 points (millimeter-scale) with sub-1% error Scan Rate [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/23/soulart-station-a-markerless-full-body-motion-tracker-for-vr-and-vtubers/\">Soulart Station – A markerless full-body motion tracker for VR and VTubers (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "RAF Space Squadron forms to defend Britain’s satellites",
-    "source": "Electronics Weekly",
+    "title": "RaiderChip Tests Voice-Directed Robot Control on a GenAI NPU",
+    "source": "Embedded.com",
     "date": "2026-09-23",
-    "url": "https://www.electronicsweekly.com/news/raf-space-squadron-forms-to-defend-britains-satellites-2026-09/",
-    "summary": "<p>The UK&#8217;s Chief of Air Staff, Air Chief Marshal Sir Harv Smith, has announced the formation of an RAF Space Squadron to defend British satellites and interests in space. Its [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/raf-space-squadron-forms-to-defend-britains-satellites-2026-09/\">RAF Space Squadron forms to defend Britain&#8217;s satellites</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.embedded.com/raiderchip-tests-voice-directed-robot-control-on-a-genai-npu/",
+    "summary": "<p>A simulated robotics workload shows how RaiderChip schedules language and control models on a single GenAI NPU.</p>\n<p>The post <a href=\"https://www.embedded.com/raiderchip-tests-voice-directed-robot-control-on-a-genai-npu/\">RaiderChip Tests Voice-Directed Robot Control on a GenAI NPU</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "UKSA backs Filtronic to develop RF over IP for digital satellite ground networks",
-    "source": "Electronics Weekly",
+    "title": "Where Developer Choice Broke Down in Embedded Software Development",
+    "source": "Embedded.com",
     "date": "2026-09-23",
-    "url": "https://www.electronicsweekly.com/news/business/uksa-backs-filtronic-to-develop-rf-over-ip-for-digital-satellite-ground-networks-2026-09/",
-    "summary": "<p>Filtronic, the high-frequency connectivity specialist, has been awarded funding through the UK Space Agency’s Ground Station Innovation Programme (GSIP). It will develop next-gen RF over IP technology to help support [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/uksa-backs-filtronic-to-develop-rf-over-ip-for-digital-satellite-ground-networks-2026-09/\">UKSA backs Filtronic to develop RF over IP for digital satellite ground networks</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.embedded.com/where-developer-choice-broke-down-in-embedded-software-development/",
+    "summary": "<p>Windows-only embedded toolchains cost teams in hiring, re-qualification, and debugging time. See how a certified cross-platform IDE truly closes that gap.</p>\n<p>The post <a href=\"https://www.embedded.com/where-developer-choice-broke-down-in-embedded-software-development/\">Where Developer Choice Broke Down in Embedded Software Development </a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Sponsored Content: Designing Backup Power for Electronic Door Release After a Vehicle Crash",
-    "source": "Electronics Weekly",
+    "title": "LIVE! 3D Hangouts with Noe and Pedro",
+    "source": "Adafruit",
     "date": "2026-09-23",
-    "url": "https://www.electronicsweekly.com/news/business/sponsored-content-designing-backup-power-for-electronic-door-release-after-a-vehicle-crash-2026-09/",
-    "summary": "<p>Electronic door systems improve packaging and user experience, but they also create a clear engineering question: what releases the door if the vehicle low-voltage supply is lost after a severe [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/sponsored-content-designing-backup-power-for-electronic-door-release-after-a-vehicle-crash-2026-09/\">Sponsored Content: Designing Backup Power for Electronic Door Release After a Vehicle Crash</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/23/live-3d-hangouts-with-noe-and-pedro-85/",
+    "summary": "3D Hangouts – E-Ink FruitMesh, Monster Eyes and Skull Spine https://youtube.com/live/WRx1svLihfA?feature=share This week @adafruit Pedro published and showcased his IoT E-ink Meshtatstic project. Noe is prototyping a new project using Monster Eyes and round TFT displays. Timelapse this week features a print-in-place skull with spline. Learn Guide: https://learn.adafruit.com/meshfruit-message-board Project YouTube Video https://youtu.be/FxuyWbHRbRs 4.2 300&#215;400 Tri-Color [&#8230;]"
   },
   {
-    "title": "Chip Turf War  in China",
-    "source": "Electronics Weekly",
+    "title": "Building a Tape Deck MP3 Player",
+    "source": "Adafruit",
     "date": "2026-09-23",
-    "url": "https://www.electronicsweekly.com/news/business/chip-turf-war-in-china-2026-09/",
-    "summary": "<p>A Chinese semiconductor industry Turf War is brewing as DRAM specialist CXMT looks to get into NAND &#8211; the province of Yangtze Memory (YMTC) &#8211; while YMTC is making moves [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/chip-turf-war-in-china-2026-09/\">Chip Turf War  in China</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/23/building-a-tape-deck-mp3-player/",
+    "summary": "Is there a difference between pressing a three dimensional button and tapping a screen? JonathanRowny was feeling nostalgic and made an MP3 player that only works on tape decks! This time I made an mp3 player mixtape that only works in a tape deck. It has a custom pcb with an ESP32, outputs audio to [&#8230;]"
   },
   {
-    "title": "Alibaba announces its most powerful AI processor yet",
-    "source": "Electronics Weekly",
+    "title": "JP’s Product Pick of the Week 9/22/26",
+    "source": "Adafruit",
     "date": "2026-09-23",
-    "url": "https://www.electronicsweekly.com/news/business/alibaba-announces-its-most-powerful-ai-processor-yet-2026-09/",
-    "summary": "<p>Yesterday, T-Head, Alibaba’s chip unit, previewed its most powerful AI processor yet &#8211; the  Zhenwu V900 aimed at both training and inference. Production is scheduled for Q1 2027. The technology [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/alibaba-announces-its-most-powerful-ai-processor-yet-2026-09/\">Alibaba announces its most powerful AI processor yet</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/23/jps-product-pick-of-the-week-9-22-26/",
+    "summary": "&#160; This week JP&#8217;s pick was the Adafruit GP8403 Breakout Board I2C DAC with 12V Booster! Want more JP’s Product Pick of the Week?! Tune in every Tuesday on Youtube LIVE, Twitch, Periscope (Twitter) and Facebook. LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Catch previous editions on YouTube and don&#8217;t miss our [&#8230;]"
   },
   {
-    "title": "Cadence agent delivers production‑ready RTL covering PPA",
-    "source": "Electronics Weekly",
+    "title": "NYPL Picture Book Recommendations for Hispanic & Latinx Heritage Month #HispanicHeritageMonth",
+    "source": "Adafruit",
     "date": "2026-09-23",
-    "url": "https://www.electronicsweekly.com/news/business/cadence-agent-delivers-production%e2%80%91ready-rtl-covering-ppa-2026-09/",
-    "summary": "<p> Cadence has introduced a new agent for Cadence ChipStack AI Super Agent that automates front‑end digital design and verification—covering power, performance and area (PPA)-driven spec‑to‑RTL generation, RTL analysis, and refinement; [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/cadence-agent-delivers-production%e2%80%91ready-rtl-covering-ppa-2026-09/\">Cadence agent delivers production‑ready RTL covering PPA</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/23/nypl-picture-book-recommendations-for-hispanic-latinx-heritage-month-hispanicheritagemonth/",
+    "summary": "&#160; NYPL Teen Reading Ambassadors have put together yet another fantastic book recommendation list, this frim for Latinx Heritage Month! For Hispanic &#038; Latinx Heritage Month, Teen Reading Ambassadors across the city are celebrating by recommending picture books for ages 3–9. These visual stories highlight Hispanic and Latinx characters and culture from Mexico to the [&#8230;]"
   },
   {
-    "title": "59% growth for 2025 DRAM module market",
-    "source": "Electronics Weekly",
+    "title": "Infineon’s PSOC™ Control C3 Performance Line sets new standard for real-time control and PQC security",
+    "source": "EE Journal",
     "date": "2026-09-23",
-    "url": "https://www.electronicsweekly.com/news/business/dram-module-suppliers-2026-09/",
-    "summary": "<p>The 2025 DRAM module market grew 59% YoY to $21.2 billion, says TrendForce, a significant acceleration from the 7% growth of 2024. The top five global DRAM module makers accounted [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/dram-module-suppliers-2026-09/\">59% growth for 2025 DRAM module market</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.eejournal.com/industry_news/infineons-psoc-control-c3-performance-line-sets-new-standard-for-real-time-control-and-pqc-security/",
+    "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) today announced the launch of its PSOC™ Control C3 Performance Line microcontroller family to enable real-time control for power and motor applications. The new family of microcontrollers (MCUs) offers best-in-class performance through high control loop frequency, accuracy and system efficiency. Based on Arm® Cortex®-M33 multi-core architecture, PSOC &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/infineons-psoc-control-c3-performance-line-sets-new-standard-for-real-time-control-and-pqc-security/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Infineon’s PSOC™ Control C3 Performance Line sets new standard for real-time control and PQC security\"</span></a>"
   },
   {
-    "title": "MCUs for real-time control in power and motor applications",
-    "source": "Electronics Weekly",
+    "title": "Compact 60W and 150W DC-DC converters simplify power design for BF- and CF-rated medical equipment",
+    "source": "EE Journal",
     "date": "2026-09-23",
-    "url": "https://www.electronicsweekly.com/news/business/infineon-launches-psoc-control-2026-09/",
-    "summary": "<p>Infineon is sampling  its PSOC Control C3 Performance Line MCU family to enable real-time control for power and motor applications. Based on Arm Cortex-M33 multi-core architecture, PSOC Control C3 Performance [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-launches-psoc-control-2026-09/\">MCUs for real-time control in power and motor applications</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.eejournal.com/industry_news/compact-60w-and-150w-dc-dc-converters-simplify-power-design-for-bf-and-cf-rated-medical-equipment/",
+    "summary": "XP Power introduces the QAM60T and HBM150C series of medical DC-DC converters, delivering 60W and 150W respectively in compact, industry-standard brick packages. Designed for BF- and CF-rated medical equipment, the new converters provide reliable, space-efficient power conversion for increasingly compact and power-demanding applications including patient monitoring, medical imaging and diagnostics, patient treatment equipment, and surgical &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/compact-60w-and-150w-dc-dc-converters-simplify-power-design-for-bf-and-cf-rated-medical-equipment/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Compact 60W and 150W DC-DC converters simplify power design for BF- and CF-rated medical equipment\"</span></a>"
   },
   {
-    "title": "Top Ten (less 5) NAND Vendors In Q2",
-    "source": "Electronics Weekly",
+    "title": "STMicroelectronics delivers advanced context-aware sensors in ST Sustainable Technology framework",
+    "source": "EE Journal",
     "date": "2026-09-23",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-nand-vendors-in-q2-2026-09/",
-    "summary": "<p>Thanks to TrendForce for this one &#8211; the top five NAND suppliers in Q2:</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-nand-vendors-in-q2-2026-09/\">Top Ten (less 5) NAND Vendors In Q2</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.eejournal.com/industry_news/stmicroelectronics-delivers-advanced-context-aware-sensors-in-st-sustainable-technology-framework/",
+    "summary": "6-axis motion sensors ready for toughest sustainable-materials codes Advanced context sensing for smart devices and drones STMicroelectronics’ newest miniature motion sensors feature enhanced precision for accurate event reconstruction while meeting the most stringent sustainable-materials standards. The new 6-axis sensors, or inertial measurement units (IMU), will be used in consumer devices like fitness trackers, smart tags, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/stmicroelectronics-delivers-advanced-context-aware-sensors-in-st-sustainable-technology-framework/\">Read More &#8594;<span class=\"screen-reader-text\"> \"STMicroelectronics delivers advanced context-aware sensors in ST Sustainable Technology framework\"</span></a>"
+  },
+  {
+    "title": "Valens Semiconductor to Collaborate with onsemi on a Cost-Optimized Integrated Sensor Based on the MIPI A-PHY Standard",
+    "source": "EE Journal",
+    "date": "2026-09-23",
+    "url": "https://www.eejournal.com/industry_news/valens-semiconductor-to-collaborate-with-onsemi-on-a-cost-optimized-integrated-sensor-based-on-the-mipi-a-phy-standard/",
+    "summary": "Valens Semiconductor (NYSE: VLN), a leading provider of high-performance connectivity chipsets, today announced a collaboration with onsemi on a cost-optimized integrated sensor for high-volume 3-megapixel automotive camera applications. Through this collaboration the parties intend to give OEMs and Tier 1s a faster path to A-PHY. Under the agreement, Valens will work with onsemi on the &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/valens-semiconductor-to-collaborate-with-onsemi-on-a-cost-optimized-integrated-sensor-based-on-the-mipi-a-phy-standard/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Valens Semiconductor to Collaborate with onsemi on a Cost-Optimized Integrated Sensor Based on the MIPI A-PHY Standard\"</span></a>"
   },
   {
     "title": "ESP32 Replacement for Lighting Display Controller",
@@ -110,20 +131,6 @@
     "date": "2026-09-22",
     "url": "https://hackaday.com/2026/09/22/esp32-replacement-for-lighting-display-controller/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/nanoleaf-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As a company, NanoLeaf has been producing modular lights that can be easily snapped together into various geometric shapes for around a decade. Similar to the addressable LED light strips <a class=\"read-more\" href=\"https://hackaday.com/2026/09/22/esp32-replacement-for-lighting-display-controller/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Dumpster-dived Window A/C becomes Ground-Source Heat Pump",
-    "source": "Hackaday",
-    "date": "2026-09-22",
-    "url": "https://hackaday.com/2026/09/22/dumpster-dived-window-a-c-becomes-ground-source-heat-pump/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/ground-source-window-ac-2.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Heat pumps are great, because they pump heat around, and we often don&#8217;t want heat where it is. Need it somewhere else? Pump it! It&#8217;s great. It&#8217;s also a bit <a class=\"read-more\" href=\"https://hackaday.com/2026/09/22/dumpster-dived-window-a-c-becomes-ground-source-heat-pump/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Determining the Body Temperature of Tyrannosaurus rex",
-    "source": "Hackaday",
-    "date": "2026-09-22",
-    "url": "https://hackaday.com/2026/09/22/determining-the-body-temperature-of-tyrannosaurus-rex/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"477\" src=\"https://hackaday.com/wp-content/uploads/2026/09/sciadv.aeb7653-f1.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One of the most fun challenges in paleontology is determining characteristics of long-dead species like their behavior and body temperature based on nothing but some fossils and traces that are <a class=\"read-more\" href=\"https://hackaday.com/2026/09/22/determining-the-body-temperature-of-tyrannosaurus-rex/\">&#8230;read more</a>"
   },
   {
     "title": "Gearotons M17 – A low-cost NEMA-17 4-in-1 servomotor with driver, motion controller, and encoder",
@@ -154,13 +161,6 @@
     "summary": "<p>MediaTek has unveiled the Dimensity CX C10 Max system-on-chip (SoC), the first chip in the company's new Dimensity Compute Experiences (CX) family. The flagship CX chip delivers high performance, advanced functionality, and higher power efficiency for an upcoming premium, ultra-portable Googlebook device. The Dimensity CX C10 Max SoC is built on TSMC's advanced 3-nm process. [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mediatek-debuts-cx-c10-soc-for-ai-first-googlebook-laptops/\">MediaTek Debuts CX C10 SoC for AI-First Googlebook Laptops</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Gadget Book:  The Secret Life of Circuits",
-    "source": "Electronics Weekly",
-    "date": "2026-09-22",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-the-secret-life-of-circuits-2026-09/",
-    "summary": "<p>Maybe one for the proto Gadget Master in your life... The Secret Life of Circuits, An Illustrated Guide to Electronic Circuit Design.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-the-secret-life-of-circuits-2026-09/\">Gadget Book:  The Secret Life of Circuits</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "NEW GUIDE: Adafruit TMF8806 Time of Flight Distance Sensor #AdafruitLearningSystem @Adafruit",
     "source": "Adafruit",
     "date": "2026-09-22",
@@ -186,7 +186,7 @@
     "source": "Adafruit",
     "date": "2026-09-22",
     "url": "https://blog.adafruit.com/2026/09/22/shop-sales-notifier-for-etsy-and-shopify/",
-    "summary": "I&#8217;m a big fan of projects that keep you off your phone. Ditch the pocket buzz and build a big, bright physical alert that lets you know when a sale is made. Shared by Becky Stern shared this Shop Sales Notifier on Instructables. Project uses NeoPixels and Adafruit IO What I ended up with is [&#8230;]"
+    "summary": "I&#8217;m a big fan of projects that keep you off your phone. Ditch the pocket buzz and build a big, bright physical alert that lets you know when a sale is made. Becky Stern shared this Shop Sales Notifier on Instructables. Project uses NeoPixels and Adafruit IO What I ended up with is a shadowbox [&#8230;]"
   },
   {
     "title": "Play Drums without a Kit with Space Drums 2.0",
@@ -287,67 +287,11 @@
     "summary": "Check out the Abuelas Project! Responding to a lack of opportunity to share and archive Latinx stories, the Abuelas Project is an archive started by Latinos in Heritage Conservation. Learn, map, share and explore! The Abuelas Project, led by Latinos in Heritage Conservation, is the people&#8217;s archive. Our goal is to protect, amplify and center [&#8230;]"
   },
   {
-    "title": "Climate Week NYC",
-    "source": "Adafruit",
-    "date": "2026-09-21",
-    "url": "https://blog.adafruit.com/2026/09/21/climate-week-nyc/",
-    "summary": "Climate Week NYC has officially begun. Check out events open to the public here. This year&#8217;s Climate Week NYC will focus on the energy, the impact, and the action that we drive together. Read more and don&#8217;t miss this article from Gothamist highlighting event opportunities"
-  },
-  {
-    "title": "Elma Electronic Releases Industry’s First VNX+ (VITA 90) Deployment Kit to Accelerate Mission Application Development",
-    "source": "EE Journal",
-    "date": "2026-09-21",
-    "url": "https://www.eejournal.com/industry_news/elma-electronic-releases-industrys-first-vnx-vita-90-deployment-kit-to-accelerate-mission-application-development/",
-    "summary": "Elma Electronic has released the rugged VersaPLUS Deployment Kit, the first VNX+ application-ready kit available that facilitates the integration, qualification and deployment of systems based on the VITA 90 small form factor standard. Available off-the-shelf, the Deployment Kit seamlessly enables development-to-deployment within the same system, bringing compact, mission-ready applications to market at a fraction of &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/elma-electronic-releases-industrys-first-vnx-vita-90-deployment-kit-to-accelerate-mission-application-development/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Elma Electronic Releases Industry’s First VNX+ (VITA 90) Deployment Kit to Accelerate Mission Application Development\"</span></a>"
-  },
-  {
-    "title": "NeoCortec showcases ultra low-power and scalable NeoMesh wireless network technology for IoT applications at The Things Conference 2026",
-    "source": "EE Journal",
-    "date": "2026-09-21",
-    "url": "https://www.eejournal.com/industry_news/neocortec-showcases-ultra-low-power-and-scalable-neomesh-wireless-network-technology-for-iot-applications-at-the-things-conference-2026/",
-    "summary": "At The Things Conference in Amsterdam, The Netherlands on 22nd and 23rd September 2026, NeoCortec, manufacturer of the ultra-low-power bi-directional wireless mesh networking protocol stack NeoMesh, will be co-exhibiting together with its German distribution partner Endrich Bauelements Gmbh on stand M12. On the stand, NeoCortec will demonstrate its fully decentralized and time-synchronized wireless mesh network &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/neocortec-showcases-ultra-low-power-and-scalable-neomesh-wireless-network-technology-for-iot-applications-at-the-things-conference-2026/\">Read More &#8594;<span class=\"screen-reader-text\"> \"NeoCortec showcases ultra low-power and scalable NeoMesh wireless network technology for IoT applications at The Things Conference 2026\"</span></a>"
-  },
-  {
-    "title": "EPB Launches IonQ Forte Enterprise Quantum Computer in Chattanooga  Milestone makes EPB Quantum Center America’s first commercial quantum computing and networking hub",
-    "source": "EE Journal",
-    "date": "2026-09-21",
-    "url": "https://www.eejournal.com/industry_news/epb-launches-ionq-forte-enterprise-quantum-computer-in-chattanooga-milestone-makes-epb-quantum-center-americas-first-commercial-quantum-computing-and-networking-hub/",
-    "summary": "EPB today launched the IonQ Forte Enterprise quantum computer at EPB Quantum CenterSM, bringing commercial quantum computing and networking together in one facility for the first time. The milestone further positions Chattanooga as the most comprehensive resource in the U.S. for commercializing real-world quantum solutions. Companies can develop, test and deploy quantum technologies here with &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/epb-launches-ionq-forte-enterprise-quantum-computer-in-chattanooga-milestone-makes-epb-quantum-center-americas-first-commercial-quantum-computing-and-networking-hub/\">Read More &#8594;<span class=\"screen-reader-text\"> \"EPB Launches IonQ Forte Enterprise Quantum Computer in Chattanooga  Milestone makes EPB Quantum Center America’s first commercial quantum computing and networking hub\"</span></a>"
-  },
-  {
-    "title": "An HP 3478A DMM Rescue, Part 3: The LCD Follies",
-    "source": "EE Journal",
-    "date": "2026-09-21",
-    "url": "https://www.eejournal.com/article/an-hp-3478a-dmm-rescue-part-3-the-lcd-follies/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"246\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/Final-Result-300x246.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />In my previous two articles, I acquired and started to revive a $58 HP 3478A 5½-digit DMM that was operational but had two serious problems. First, its four power line snubbing capacitors were notorious RIFA capacitors from the era when they were known to crack and fail spectacularly after decades of service. I replaced those &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/an-hp-3478a-dmm-rescue-part-3-the-lcd-follies/\">Read More &#8594;<span class=\"screen-reader-text\"> \"An HP 3478A DMM Rescue, Part 3: The LCD Follies\"</span></a>"
-  },
-  {
     "title": "High-end 8-channel oscilloscope features 12-core AMD EPYC CPU, 96GB RAM, 15.6-inch display, and more",
     "source": "CNX Software",
     "date": "2026-09-20",
     "url": "https://www.cnx-software.com/2026/09/20/high-end-8-channel-oscilloscope-features-12-core-amd-epyc-cpu-96gb-ram-15-6-inch-display/",
     "summary": "<div><img alt=\"Tektronix DPO718AX - An 8-channel oscilloscope with 25 GHz bandwidth and 125 GSs sampling\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Tektronix-DPO714AX-A-8-channel-oscilloscope-with-25-GHz-bandwidth-and-125-GSs-sampling-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Tektronix has launched the 7 Series DPO (Digital Phosphor Oscilloscope), and the company claims the DPO718AX model is the world&#8217;s first 8-channel performance oscilloscope with up to 25 GHz analog bandwidth per channel (and 125 GS/s sampling). The new family is designed for high-speed serial compliance testing, wideband RF analysis, and high-energy physics research. Powered by a 12-core AMD EPYC Embedded 3351 processor paired with 96 GB RAM, 1.6 TB storage, an NVIDIA T1000 GPU, and a 15.6-inch touchscreen display, the oscilloscope looks like a high-end PC running Linux (or Windows 10 LTSC). It also includes a 10 Gbps SFP+ port with TekHSI technology for transferring large waveform datasets to an external PC, with Tektronix specifying up to 11x higher throughput. Tektronix 7 Series DPO key specifications: SoC – 12-core AMD EPYC Embedded 3351 12-core processor @ 3 GHz GPU &#8211; NVIDIA T1000 GPU with 896 NVIDIA CUDA cores System [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/20/high-end-8-channel-oscilloscope-features-12-core-amd-epyc-cpu-96gb-ram-15-6-inch-display/\">High-end 8-channel oscilloscope features 12-core AMD EPYC CPU, 96GB RAM, 15.6-inch display, and more</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Adafruit Weekly Editorial Round-Up: CircuitPython Turbo, Back at Ladyada’s Desk and More!",
-    "source": "Adafruit",
-    "date": "2026-09-20",
-    "url": "https://blog.adafruit.com/2026/09/20/adafruit-weekly-editorial-round-up-circuitpython-turbo-back-at-ladyadas-desk-and-more/",
-    "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG ⌨️ National Hispanic Heritage [&#8230;]"
-  },
-  {
-    "title": "exonemo: Terminal at NowHere NYC #Sisyphus",
-    "source": "Adafruit",
-    "date": "2026-09-20",
-    "url": "https://blog.adafruit.com/2026/09/20/exonemo-terminal-at-nowhere-nyc-sisyphus/",
-    "summary": "The Terminal (2026), artist rendering via NowHere &#160; The artist duo exonemo are presenting Terminal at the New York art space NowHere. A series of techno sculptures where the only way to survive is to fail. The computers are constantly trying to crack a code that would lead to their immediate physical demise from swinging [&#8230;]"
-  },
-  {
-    "title": "DIY Rechargeable LED Makeup Compact",
-    "source": "Adafruit",
-    "date": "2026-09-20",
-    "url": "https://blog.adafruit.com/2026/09/20/diy-rechargeable-led-makeup-compact/",
-    "summary": "Light up your makeup mirror! This easy project guides you through adding warm white LED sequins to a makeup compact, powered by an Adafruit lipoly battery charger and click on/off switch. Follow the complete tutorial on the Adafruit Learning System."
   },
   {
     "title": "OpenMote – An ESP32-S3 programmable universal remote in a Wiimote shell (Crowdfunding)",
@@ -411,19 +355,5 @@
     "date": "2026-09-16",
     "url": "https://www.embedded.com/micron-develops-ultra-dense-512-gb-ddr5-memory-module/",
     "summary": "<p>Micron Technology Inc. has demonstrated a 512-GB DDR5 Registered DIMM (RDIMM) across multiple server platforms, targeting the growing memory requirements of AI, data analytics, in-memory databases, and other data-intensive workloads. Claiming the industry's first 512-GB DDR5 module, the company says the module can reach speeds of up to 9,200 MT/s, while reducing operating power by [...]</p>\n<p>The post <a href=\"https://www.embedded.com/micron-develops-ultra-dense-512-gb-ddr5-memory-module/\">Micron Develops Ultra-Dense 512-GB DDR5 Memory Module</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "MIPI Alliance Forms Kinematics Working Group",
-    "source": "Embedded.com",
-    "date": "2026-09-16",
-    "url": "https://www.embedded.com/mipi-alliance-forms-kinematics-working-group/",
-    "summary": "<p>The new working group will develop a specification to standardize the streaming format for radar and LiDAR sensor data.</p>\n<p>The post <a href=\"https://www.embedded.com/mipi-alliance-forms-kinematics-working-group/\">MIPI Alliance Forms Kinematics Working Group</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Tektronix Launches Dynamic Test System for 800-V AI Data Centers",
-    "source": "Embedded.com",
-    "date": "2026-09-15",
-    "url": "https://www.embedded.com/tektronix-launches-dynamic-test-system-for-800-v-ai-data-centers/",
-    "summary": "<p>Tektronix Inc. has introduced the EA-ELR 21000 Dynamic Test System, a high-dynamic, auto-ranging electronic load platform designed to validate the ±400-V and 800-V DC power architectures emerging in AI data centers. The system combines rapid load emulation with a fully regenerative architecture, allowing it to return absorbed test energy to the grid rather than dissipate [...]</p>\n<p>The post <a href=\"https://www.embedded.com/tektronix-launches-dynamic-test-system-for-800-v-ai-data-centers/\">Tektronix Launches Dynamic Test System for 800-V AI Data Centers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
