@@ -1,10 +1,31 @@
 [
   {
+    "title": "UDP Broadcasting and the Brave New World of IPv6",
+    "source": "Hackaday",
+    "date": "2026-09-24",
+    "url": "https://hackaday.com/2026/09/24/udp-broadcasting-and-the-brave-new-world-of-ipv6/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/06/UDP.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>After recently working our way through UDP broadcasting and network subnetting all in the comfort zone of IPv4, it&#8217;s time to address the elephant in the room, the one wearing <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/udp-broadcasting-and-the-brave-new-world-of-ipv6/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Standalone DJ System Runs On ESP32",
+    "source": "Hackaday",
+    "date": "2026-09-24",
+    "url": "https://hackaday.com/2026/09/24/standalone-dj-system-runs-on-esp32/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/09/Pajoniiir1-e1790230333800.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are plenty of ways to DJ with a laptop and various controller setups. However, if you find hauling around an entire computer can be a bit much, you might <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/standalone-dj-system-runs-on-esp32/\">&#8230;read more</a>"
+  },
+  {
+    "title": "After Decades, NASA May Finally Replace Mars Relays",
+    "source": "Hackaday",
+    "date": "2026-09-24",
+    "url": "https://hackaday.com/2026/09/24/after-decades-nasa-may-finally-replace-mars-relays/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/09/marsnet_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We&#8217;ve yet to find any definitive evidence that there&#8217;s biological life on present-day Mars, but to say it&#8217;s a dead planet isn&#8217;t exactly accurate. Since the first Viking lander touched <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/after-decades-nasa-may-finally-replace-mars-relays/\">&#8230;read more</a>"
+  },
+  {
     "title": "Solar Powered Traffic Monitoring",
     "source": "Hackaday",
     "date": "2026-09-24",
     "url": "https://hackaday.com/2026/09/24/solar-powered-traffic-monitoring/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/unnamed-1-e1790231993909.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Marios Christoforou] recently undertook a Computer Engineering degree at the University of Cypress. His final year project involved implementing a solar-powered device to count vehicular traffic, while logging results to <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/solar-powered-traffic-monitoring/\">&#8230;read more</a>"
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/unnamed-1-e1790231993909.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Marios Christoforou] recently undertook a Computer Engineering degree at the University of Cyprus. His final year project involved implementing a solar-powered device to count vehicular traffic, while logging results to <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/solar-powered-traffic-monitoring/\">&#8230;read more</a>"
   },
   {
     "title": "Reconstructing Device Firmware from SPI Reads",
@@ -28,6 +49,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/beeper-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Even for the non-musical among us there is a lot of fun to be had with a simple synthesiser and sequencer, as the different controls can be manipulated to show <a class=\"read-more\" href=\"https://hackaday.com/2026/09/23/a-tiny-toy-synth-for-smaller-computers/\">&#8230;read more</a>"
   },
   {
+    "title": "Qualcomm releases Linux developer preview for the Snapdragon X2 Series",
+    "source": "CNX Software",
+    "date": "2026-09-24",
+    "url": "https://www.cnx-software.com/2026/09/25/qualcomm-releases-linux-developer-preview-snapdragon-x2/",
+    "summary": "<div><img alt=\"Qualcomm Snapdragon X2 Linux\" class=\"attachment-medium size-medium wp-post-image\" height=\"486\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Qualcomm-Snapdragon-X2-Linux-720x486.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Qualcomm has released an &#8220;Early Developer Preview&#8221; of Linux for the Snapdragon X2 Armv9 family of laptop SoCs. This release is meant for distribution maintainers, toolchain developers, kernel contributors, and hardware enablement engineers. New Qualcomm processors for mobile PCs (that&#8217;s what Qualcomm calls laptops) usually target Windows only. We get comments asking about Linux support on most of these posts, but Qualcomm&#8217;s history with maintaining Linux is rather mixed. For instance, they demonstrated Debian 12 and Linux upstreaming for the Qualcomm Snapdragon X Elite SoC in collaboration with Linaro in 2024, but based on comments I&#8217;ve read, support is incomplete and not to the level you&#8217;d get on x86 targets. Maybe it will be different for the Snapdragon X2 Series. The announcement mentions that Qualcomm engineers have been working on upstream Linux since Snapdragon Summit 2025 (in September, one year ago). So far, the work includes low-level SoC enablement and [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/25/qualcomm-releases-linux-developer-preview-snapdragon-x2/\">Qualcomm releases Linux developer preview for the Snapdragon X2 Series</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "CyboPal ONE – An AI-powered, 6-DOF robotic terminal with 27-inch 4K display that adjusts to your posture (Crowdfunding)",
     "source": "CNX Software",
     "date": "2026-09-24",
@@ -47,6 +75,111 @@
     "date": "2026-09-24",
     "url": "https://www.embedded.com/why-software-defined-vehicles-need-a-new-security-foundation/",
     "summary": "<p>SDVs expand the attack surface with continuously updated software across centralized compute and always-on connectivity, requiring a rethink in security architecture.</p>\n<p>The post <a href=\"https://www.embedded.com/why-software-defined-vehicles-need-a-new-security-foundation/\">Why Software-Defined Vehicles Need a New Security Foundation</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Gadget Watch: Googlebook goes AI with AI",
+    "source": "Electronics Weekly",
+    "date": "2026-09-24",
+    "url": "https://www.electronicsweekly.com/blogs/gadget-master/gadget-watch/gadget-watch-googlebook-goes-ai-with-ai-2026-09/",
+    "summary": "<p>The successor to the humble Chromebook workhorse, the newly-launched Googlebook laptop is a premium product that sees the company go all-in (AI) with AI.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/gadget-watch/gadget-watch-googlebook-goes-ai-with-ai-2026-09/\">Gadget Watch: Googlebook goes AI with AI</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Bel Fuse high-density DC-DC converters track railway applications",
+    "source": "Electronics Weekly",
+    "date": "2026-09-24",
+    "url": "https://www.electronicsweekly.com/news/products/power-supplies/bel-fuse-high-density-dc-dc-converters-track-railway-applications-2026-09/",
+    "summary": "<p>Bel Fuse has announced the XRCM200 and XRCM300 series of compact, high-density DC-DC converters for railway and transportation applications. The parts support input voltages from 16.8 VDC to 137.5 VDC, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/power-supplies/bel-fuse-high-density-dc-dc-converters-track-railway-applications-2026-09/\">Bel Fuse high-density DC-DC converters track railway applications</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Fable: The Great Man Who Was Denied A Chair",
+    "source": "Electronics Weekly",
+    "date": "2026-09-24",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-great-man-who-was-denied-a-chair-2026-09/",
+    "summary": "<p>One of the greatest physicists and mathematicians who ever lived was rejected when he  applied for the Chair of Natural Philosophy at Edinburgh University. A local newspaper, the Edinburgh Courant, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-great-man-who-was-denied-a-chair-2026-09/\">Fable: The Great Man Who Was Denied A Chair</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Lattice Mach-N2 FPGA family targets system control and security",
+    "source": "Electronics Weekly",
+    "date": "2026-09-24",
+    "url": "https://www.electronicsweekly.com/news/products/fpga-pld/lattice-mach-n2-fpga-family-targets-system-control-and-security-2026-09/",
+    "summary": "<p>Lattice Semiconductor is releasing the Lattice Mach-N2 FPGA family, for system control and security in modern infrastructure. Mach-N2 combines integrated flash, a hardware Root of Trust, and CNSA 2.0-compliant post-quantum [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/fpga-pld/lattice-mach-n2-fpga-family-targets-system-control-and-security-2026-09/\">Lattice Mach-N2 FPGA family targets system control and security</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Get the Gadget Master newsletter!",
+    "source": "Electronics Weekly",
+    "date": "2026-09-24",
+    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-09/",
+    "summary": "<p>Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox!</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-09/\">Get the Gadget Master newsletter!</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Univity achieves first in-orbit 5G NTN TDD connection via mmWave link",
+    "source": "Electronics Weekly",
+    "date": "2026-09-24",
+    "url": "https://www.electronicsweekly.com/news/univity-achieves-first-in-orbit-5g-ntn-tdd-connection-via-mmwave-link-2026-09/",
+    "summary": "<p>Univity has announced the success of uniSpark, its first in-orbit technology demonstration mission and claims it as a world&#8217;s first, paving the way for new spectrum resources for satellite communications. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/univity-achieves-first-in-orbit-5g-ntn-tdd-connection-via-mmwave-link-2026-09/\">Univity achieves first in-orbit 5G NTN TDD connection via mmWave link</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Japan ponders Starlink alternatives",
+    "source": "Electronics Weekly",
+    "date": "2026-09-24",
+    "url": "https://www.electronicsweekly.com/news/business/japan-ponders-starlink-alternatives-2026-09/",
+    "summary": "<p>Japan&#8217;s Ministry of Internal Affairs and Communications has put up $44m to support projects to make compact, lightweight universal antennas for accessing satellites, reports the Nikkei. The idea is to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/japan-ponders-starlink-alternatives-2026-09/\">Japan ponders Starlink alternatives</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "YMTC wins patent battle against Micron",
+    "source": "Electronics Weekly",
+    "date": "2026-09-24",
+    "url": "https://www.electronicsweekly.com/news/business/ymtc-wins-patent-battle-against-micron-2026-09/",
+    "summary": "<p>YMTC has won a battle with Micron in a German court for the infringement of two patents and has been awarded injunctions protecting its IP for 10 years. The disputed [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ymtc-wins-patent-battle-against-micron-2026-09/\">YMTC wins patent battle against Micron</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Qualcomm buys PickNik",
+    "source": "Electronics Weekly",
+    "date": "2026-09-24",
+    "url": "https://www.electronicsweekly.com/news/business/qualcomm-buys-picknick-2026-09/",
+    "summary": "<p>Qualcomm has bought PickNik, a software company specialising in robotics. The move is seen as Qualcomm moving further into physical AI after its Arduino and Modular acquisitions. “Robotics is one [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qualcomm-buys-picknick-2026-09/\">Qualcomm buys PickNik</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Cambridge Tech Week draws 1,700 visitors",
+    "source": "Electronics Weekly",
+    "date": "2026-09-24",
+    "url": "https://www.electronicsweekly.com/news/business/cambridge-tech-week-draws-1700-visitors-2026-09/",
+    "summary": "<p>Cambridge Tech Week 2026 closed last week after five days of debate, dealmaking and networking, with this year’s programme putting a sharper focus on the practical challenge of turning research [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/cambridge-tech-week-draws-1700-visitors-2026-09/\">Cambridge Tech Week draws 1,700 visitors</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Minimal LED Lamp – BambuLab MH001 Kit Reading Light #3DPrinting #3DThursday",
+    "source": "Adafruit",
+    "date": "2026-09-24",
+    "url": "https://blog.adafruit.com/2026/09/24/minimal-led-lamp-bambulab-mh001-kit-reading-light-3dprinting-3dthursday/",
+    "summary": "A design lamp based on the BambuLab MH001 Kit. Great as a courtesy light or reading light. Minimalist design fits any corner of the home or office. Simple to print and assemble. Perfect for makers looking for a clean, functional accent piece. By OfficineCasperLAB Download files: https://makerworld.com/en/models/1030720-minimal-led-lamp-bambulab-mh001-kit#profileId-1013495 Every Thursday is #3dthursday here at Adafruit! The [&#8230;]"
+  },
+  {
+    "title": "Halloween Mini Figures Set #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-09-24",
+    "url": "https://blog.adafruit.com/2026/09/24/halloween-mini-figures-set-3dthursday-3dprinting/",
+    "summary": "oramafanis shares: A collection of five adorable mini figures — Ghost, Witch Pumpkin, Frankie, Mummy, and Skull. Originally designed to fit in an advent calendar drawer. Every figure features a small hole on top for versatile use: hanging ornaments, keychains, Halloween gift bags, party favors, classroom rewards, trick-or-treat gifts, or spooky desk decorations. A1 Mini [&#8230;]"
+  },
+  {
+    "title": "3D Hangouts – FruitMesh, Monster Eyes and Skull Spine",
+    "source": "Adafruit",
+    "date": "2026-09-24",
+    "url": "https://blog.adafruit.com/2026/09/24/3d-hangouts-fruitmesh-monster-eyes-and-skull-spine/",
+    "summary": "3D Hangouts – E-Ink FruitMesh, Monster Eyes and Skull Spine https://youtube.com/live/WRx1svLihfA?feature=share This week @adafruit Pedro published and showcased his IoT E-ink Meshtatstic project. Noe is prototyping a new project using Monster Eyes and round TFT displays. Timelapse this week features a print-in-place skull with spline. Learn Guide: https://learn.adafruit.com/meshfruit-message-board Project YouTube Video https://youtu.be/FxuyWbHRbRs 4.2 300&#215;400 Tri-Color [&#8230;]"
+  },
+  {
+    "title": "MeshFruit Message Board #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-09-24",
+    "url": "https://blog.adafruit.com/2026/09/24/meshfruit-message-board-3dthursday-3dprinting/",
+    "summary": "Build an off-grid message board. This IoT project listens for messages sent across a LoRa network and displays them on a tri-color e-ink. Guide: https://learn.adafruit.com/meshfruit-message-board It features a STEMMA QT sensor that reads CO2, temperature, and humidity Powered by the Feather ESP32-S3 and an RFM95 LoRa radio, this is a great combo for building a [&#8230;]"
+  },
+  {
+    "title": "Skull Spine #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-09-24",
+    "url": "https://blog.adafruit.com/2026/09/24/skull-spine-3dthursday-3dprinting/",
+    "summary": "Every week we&#8217;ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Skull Spine By gobotoru makerworld.com/en/models/3256431-spine-ripper-articulated-skull-spine-fast-print Bambu X1C PolyMaker PLA 1hr 18mins X:140 Y:74 Z:37mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 15g 230mm/s Every Thursday is #3dthursday here [&#8230;]"
   },
   {
     "title": "Raspberry Pi Zero Slim Snap-Fit Case – Zero 1 + Zero 2 with Hexagon Vents #3DThursday #3DPrinting",
@@ -98,39 +231,39 @@
     "summary": "i.boxit shares: A snap-fit small case fitting Raspberry Pi Pico, Pico W, and Pico 2. Features: snap-fit, wall mount, Bootsel button, optional reset button, debug port cutout, headers cutout, user LED hole tube (use translucent PLA as light transmitter), connection cable cutout, cooling grille, and integrated opener. V2 (July 2025) added honeycomb cooling grille, improved [&#8230;]"
   },
   {
-    "title": "From the mail bag…",
-    "source": "Adafruit",
+    "title": "Trilogic Systems Partners with Tekdense, Expanding Its North American Presence in High-Performance Rugged Computing for Aerospace and Defense Markets",
+    "source": "EE Journal",
     "date": "2026-09-24",
-    "url": "https://blog.adafruit.com/2026/09/24/from-the-mail-bag-806/",
-    "summary": "From the mail bag! &#8230;my business would not be possible without you guys, I just want to take this opportunity to thank you all for your hard work, especially towards the discord team for always helping me out! I have been using the Feather M0 and M4 express for over 6 years now in my [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/trilogic-systems-partners-with-tekdense-expanding-its-north-american-presence-in-high-performance-rugged-computing-for-aerospace-and-defense-markets/",
+    "summary": "Trilogic Systems, a leading provider of embedded computing products and services for military, industrial control, and communications, today announced a partnership with Tekdense that will broaden that company’s North American presence in small form-factor modular computing systems based on open standards. “Demand for SWAP-constrained, rugged solutions for mission-critical applications is surging in North American aerospace &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/trilogic-systems-partners-with-tekdense-expanding-its-north-american-presence-in-high-performance-rugged-computing-for-aerospace-and-defense-markets/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Trilogic Systems Partners with Tekdense, Expanding Its North American Presence in High-Performance Rugged Computing for Aerospace and Defense Markets\"</span></a>"
   },
   {
-    "title": "Halloween Ghost – Ghozty Redesign for LED Tea Light #3DThursday #3DPrinting",
-    "source": "Adafruit",
+    "title": "Heilind Electronics Now Stocking 3M™ Shrunk Delta Ribbon and Mini Delta Ribbon Connectors, Series 121 and 123",
+    "source": "EE Journal",
     "date": "2026-09-24",
-    "url": "https://blog.adafruit.com/2026/09/24/halloween-ghost-ghozty-redesign-for-led-tea-light-3dthursday-3dprinting/",
-    "summary": "SabreDesign shares: A spooky ghost designed to fit an electronic tea light. Based on the designer&#8217;s original Ghozty design from the previous year. 117mm tall, 90mm wide, hollow with thin walls to save filament and let the tea light shine through when using translucent filaments. Oriented for optimal cooling — no supports needed. Compatible with [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/heilind-electronics-now-stocking-3m-shrunk-delta-ribbon-and-mini-delta-ribbon-connectors-series-121-and-123/",
+    "summary": "Heilind Electronics, a leading global distributor of interconnect, electromechanical, and sensor solutions, announced today that it is now stocking the 3M™ Shrunk Delta Ribbon (SDR) Plug Connector 121 Series and the 3M™ Shrunk Delta Ribbon (SDR) Plug Connector Shells 123 Series. The addition strengthens Heilind&#8217;s growing portfolio of 3M interconnect solutions and gives design engineers &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/heilind-electronics-now-stocking-3m-shrunk-delta-ribbon-and-mini-delta-ribbon-connectors-series-121-and-123/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Heilind Electronics Now Stocking 3M™ Shrunk Delta Ribbon and Mini Delta Ribbon Connectors, Series 121 and 123\"</span></a>"
   },
   {
-    "title": "Modern USB Controllers On Win98 (and up)",
-    "source": "Hackaday",
-    "date": "2026-09-23",
-    "url": "https://hackaday.com/2026/09/23/modern-usb-controllers-on-win98-and-up/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"523\" src=\"https://hackaday.com/wp-content/uploads/2026/09/xhci98-driver-info.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Yeo Kheng Meng] has a problem: he likes Windows 98, but he also likes his 2020 ThinkPad, which only has an xHCI USB controller&#8211; you know, the kind needed for <a class=\"read-more\" href=\"https://hackaday.com/2026/09/23/modern-usb-controllers-on-win98-and-up/\">&#8230;read more</a>"
+    "title": "Synopsys and TSMC Partner to Accelerate AI Systems Innovation with Agentic AI and Advanced Design",
+    "source": "EE Journal",
+    "date": "2026-09-24",
+    "url": "https://www.eejournal.com/industry_news/synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design/",
+    "summary": "Certified EDA flows on TSMC A14 accelerate design readiness for next-generation AI and HPC applications Collaboration on agentic AI workflows accelerates automation and improves productivity for complex analog, digital, and multi-die designs Continued enablement for IVR multi-die designs on TSMC CoWoS® technology addresses power integrity and thermal requirements for AI systems Continued joint enablement for &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Synopsys and TSMC Partner to Accelerate AI Systems Innovation with Agentic AI and Advanced Design\"</span></a>"
   },
   {
-    "title": "Smelting Bog Ore As It Should Be Done",
-    "source": "Hackaday",
-    "date": "2026-09-23",
-    "url": "https://hackaday.com/2026/09/23/smelting-bog-ore-as-it-should-be-done/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/bog-ore-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Sometimes along comes a hack with a personal angle, and in a video showing Irish bog ore smelting, we find an appropriate follow up to a Hackaday expedition back in <a class=\"read-more\" href=\"https://hackaday.com/2026/09/23/smelting-bog-ore-as-it-should-be-done/\">&#8230;read more</a>"
+    "title": "Solid Sands advances C23 and C++23 compiler verification with SuperTest Van Gogh 6.0",
+    "source": "EE Journal",
+    "date": "2026-09-24",
+    "url": "https://www.eejournal.com/industry_news/solid-sands-advances-c23-and-c23-compiler-verification-with-supertest-van-gogh-6-0/",
+    "summary": "Solid Sands B.V., the world-leading provider of testing and qualification technology for compilers and libraries, has launched SuperTest Van Gogh 6.0, a major update to its SuperTest Compiler Test and Validation Suite, adding more than 1,900 handcrafted tests and significantly extending support for the latest C and C++ language standards. SuperTest Van Gogh 6.0 completes &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/solid-sands-advances-c23-and-c23-compiler-verification-with-supertest-van-gogh-6-0/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Solid Sands advances C23 and C++23 compiler verification with SuperTest Van Gogh 6.0\"</span></a>"
   },
   {
-    "title": "A Mini’s Infotainment System and the Joys of Aftermarket Car Parts",
-    "source": "Hackaday",
-    "date": "2026-09-23",
-    "url": "https://hackaday.com/2026/09/23/a-minis-infotainment-system-and-the-joys-of-aftermarket-car-parts/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"500\" src=\"https://hackaday.com/wp-content/uploads/2026/09/carplay_misadventure_arkandas.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although [Arkandas] disclaims any interest in being a &#8216;car guy&#8217;, this is somewhat ironic in light of the sheer amount of modding he has performed on a range of cars <a class=\"read-more\" href=\"https://hackaday.com/2026/09/23/a-minis-infotainment-system-and-the-joys-of-aftermarket-car-parts/\">&#8230;read more</a>"
+    "title": "Move Over, HAL. New AI Thinks Like a Chip Designer",
+    "source": "EE Journal",
+    "date": "2026-09-24",
+    "url": "https://www.eejournal.com/article/move-over-hal-new-ai-thinks-like-a-chip-designer/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/max-0521-image-for-home-page-cognichip-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />It just struck me that—although we don’t yet have things like Jetson-style flying cars—some of the technologies we do have go way beyond what was considered to be in the realm of science fiction when I was a young sprout. Actually, as an aside, just thinking about The Jetsons made me glance up at the &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/move-over-hal-new-ai-thinks-like-a-chip-designer/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Move Over, HAL. New AI Thinks Like a Chip Designer\"</span></a>"
   },
   {
     "title": "MediaTek Dimensity CX C10 Max octa-core Cortex-X925/X4/A720 SoC targets Googlebooks",
@@ -166,27 +299,6 @@
     "date": "2026-09-23",
     "url": "https://www.embedded.com/where-developer-choice-broke-down-in-embedded-software-development/",
     "summary": "<p>Windows-only embedded toolchains cost teams in hiring, re-qualification, and debugging time. See how a certified cross-platform IDE truly closes that gap.</p>\n<p>The post <a href=\"https://www.embedded.com/where-developer-choice-broke-down-in-embedded-software-development/\">Where Developer Choice Broke Down in Embedded Software Development </a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Are smartwatches accurately calculating calories burned?",
-    "source": "Adafruit",
-    "date": "2026-09-23",
-    "url": "https://blog.adafruit.com/2026/09/23/are-smartwatches-accurately-calculating-calories-burned/",
-    "summary": "Researchers at Florida International University studied the accuracy of smartwatch calories. Their research revealed what factors might not be accounted for and how it can lead to errors in the count."
-  },
-  {
-    "title": "Wrap Around Display ESP32  Watch #WearableWednesday",
-    "source": "Adafruit",
-    "date": "2026-09-23",
-    "url": "https://blog.adafruit.com/2026/09/23/wrap-around-esp32-display-watch-wearablewednesday/",
-    "summary": "Dan Chen made this wrap around display watch. It uses 8 OLED displays, an Adafruit PCA9548 8-Channel STEMMA QT / Qwiic I2C Multiplexer, and is powered by a tiny ESP32 board. Chen references plans for a version two with a more compact form. See more details on Instagram! Here and Here See more of Chen&#8217;s [&#8230;]"
-  },
-  {
-    "title": "LIVE! 3D Hangouts with Noe and Pedro",
-    "source": "Adafruit",
-    "date": "2026-09-23",
-    "url": "https://blog.adafruit.com/2026/09/23/live-3d-hangouts-with-noe-and-pedro-85/",
-    "summary": "3D Hangouts – E-Ink FruitMesh, Monster Eyes and Skull Spine https://youtube.com/live/WRx1svLihfA?feature=share This week @adafruit Pedro published and showcased his IoT E-ink Meshtatstic project. Noe is prototyping a new project using Monster Eyes and round TFT displays. Timelapse this week features a print-in-place skull with spline. Learn Guide: https://learn.adafruit.com/meshfruit-message-board Project YouTube Video https://youtu.be/FxuyWbHRbRs 4.2 300&#215;400 Tri-Color [&#8230;]"
   },
   {
     "title": "Infineon’s PSOC™ Control C3 Performance Line sets new standard for real-time control and PQC security",
@@ -252,41 +364,6 @@
     "summary": "As the global wave of artificial intelligence (AI) accelerates, the surge in large language model training and edge-side inference has driven an exponential demand for computational power, bringing unprecedented challenges in energy consumption. A global trailblazer in power supply architectures, FSP Group today officially announced a groundbreaking innovation: the world’s first 850W ATX power supply &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/fsp-unveils-the-worlds-first-80-plus-230v-ruby-certified-atx-power-supply-leading-the-green-revolution-in-next-gen-ai-computing/\">Read More &#8594;<span class=\"screen-reader-text\"> \"FSP Unveils the World&#8217;s First 80 PLUS 230V Ruby-Certified ATX Power Supply, Leading the Green Revolution in Next-Gen AI Computing\"</span></a>"
   },
   {
-    "title": "ChipAgents Helps eMemory Cut NVM IP Functional-Model Verification Effort by 80%",
-    "source": "EE Journal",
-    "date": "2026-09-22",
-    "url": "https://www.eejournal.com/industry_news/chipagents-helps-ememory-cut-nvm-ip-functional-model-verification-effort-by-80/",
-    "summary": "ChipAgents, the category leader in agentic AI platforms for semiconductor design, announced that eMemory, a leading pure-play developer and provider of logic-based non-volatile memory (Logic NVM), founded in 2000, has deployed ChipAgents to automate critical portions of its functional-model verification workflow for NVM IP. Using ChipAgents, eMemory reduced the engineering effort for datasheet analysis and &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/chipagents-helps-ememory-cut-nvm-ip-functional-model-verification-effort-by-80/\">Read More &#8594;<span class=\"screen-reader-text\"> \"ChipAgents Helps eMemory Cut NVM IP Functional-Model Verification Effort by 80%\"</span></a>"
-  },
-  {
-    "title": "Applied Brain Research Releases the ABR SDK, Bringing Real-Time On-Device Voice Interfaces to Edge Applications",
-    "source": "EE Journal",
-    "date": "2026-09-22",
-    "url": "https://www.eejournal.com/industry_news/applied-brain-research-releases-the-abr-sdk-bringing-real-time-on-device-voice-interfaces-to-edge-applications/",
-    "summary": "Applied Brain Research (ABR) today announced general availability of the ABR SDK and the Niagara ASR and Nith TTS model families, a production toolkit for building real-time voice interfaces that run entirely on edge processor hardware. The SDK provides streaming automatic speech recognition and streaming text-to-speech through a single API, so a developer can enable &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/applied-brain-research-releases-the-abr-sdk-bringing-real-time-on-device-voice-interfaces-to-edge-applications/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Applied Brain Research Releases the ABR SDK, Bringing Real-Time On-Device Voice Interfaces to Edge Applications\"</span></a>"
-  },
-  {
-    "title": "Road Safety: LYNRED launches CAPT640, Europe’s first thermal imaging sensor for the automotive industry",
-    "source": "EE Journal",
-    "date": "2026-09-22",
-    "url": "https://www.eejournal.com/industry_news/road-safety-lynred-launches-capt640-europes-first-thermal-imaging-sensor-for-the-automotive-industry/",
-    "summary": "According to the World Health Organization, traffic accidents cause more than one million deaths worldwide each year, 53% of which are vulnerable road users (VRUs). Faced with this major public safety challenge, automakers are working every day to improve their obstacle detection systems in order to reduce the number of collisions, particularly at night when &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/road-safety-lynred-launches-capt640-europes-first-thermal-imaging-sensor-for-the-automotive-industry/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Road Safety: LYNRED launches CAPT640, Europe’s first thermal imaging sensor for the automotive industry\"</span></a>"
-  },
-  {
-    "title": "UVJC to launch NovaJet at WESEMiBAY as semiconductor industry looks beyond traditional scaling",
-    "source": "EE Journal",
-    "date": "2026-09-22",
-    "url": "https://www.eejournal.com/industry_news/uvjc-to-launch-novajet-at-wesemibay-as-semiconductor-industry-looks-beyond-traditional-scaling/",
-    "summary": "·   NovaJet, the first commercial system built on UVJC’s Universal Vapor Jet Printing, makes its debut at Booth 8G03 during the WESEMiBAY Semiconductor Ecosystem Conference and Expo in Shenzhen from 14 to 16 October ·   UVJC will introduce its dry, solvent-free and maskless thin-film deposition technology to manufacturers seeking precise, flexible and efficient &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/uvjc-to-launch-novajet-at-wesemibay-as-semiconductor-industry-looks-beyond-traditional-scaling/\">Read More &#8594;<span class=\"screen-reader-text\"> \"UVJC to launch NovaJet at WESEMiBAY as semiconductor industry looks beyond traditional scaling\"</span></a>"
-  },
-  {
-    "title": "Instant Access to Infinite Storage with Zero Bytes Stored on Your Local Disk",
-    "source": "EE Journal",
-    "date": "2026-09-22",
-    "url": "https://www.eejournal.com/article/instant-access-to-infinite-storage-with-zero-bytes-stored-on-your-local-disk/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/max-0520-image-for-home-page-space-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />In the grand scheme of things, I don’t pay much attention to business announcements about funding, mergers, acquisitions, promotions, partnerships, or other corporate comings and goings. But there’s always “the exception that proves the rule,” as they say. As I noted in a recent column (see Well, That Certainly Got My Attention!), if a PR &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/instant-access-to-infinite-storage-with-zero-bytes-stored-on-your-local-disk/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Instant Access to Infinite Storage with Zero Bytes Stored on Your Local Disk\"</span></a>"
-  },
-  {
     "title": "Realtek RTL8773J – A Bluetooth 7-ready Cortex-M55/M33 microcontroller with HDT support",
     "source": "CNX Software",
     "date": "2026-09-21",
@@ -334,13 +411,6 @@
     "date": "2026-09-18",
     "url": "https://www.cnx-software.com/2026/09/18/asus-ascent-qn10-mini-pc-is-powered-by-qualcomm-snapdragon-x2-elite-18-core-armv9-processor/",
     "summary": "<div><img alt=\"ASUS Ascent QN10\" class=\"attachment-medium size-medium wp-post-image\" height=\"405\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/ASUS-Ascent-QN10-720x405.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ASUS Ascent QN10 is the first mini PC powered by a Qualcomm Snapdragon X2 Elite 18-core Armv9 processor with 80 TOPS of AI performance for Windows Copilot+ PCs. The powerful Arm computer ships with up to 32GB LPDDR5 memory and a 512GB to 2TB NVMe SSD. It supports up to four video outputs through one HDMI and three USB4 (40 Gbps) ports, and offers 2.5GbE and WiFi 7 networking, an audio jack, and a few extra USB 3.2/2.0 ports. ASUS Ascent QN10 specifications:  SoC &#8211; Qualcomm Snapdragon X2 Elite (Glymur 8480B / X2E-88-100) CPU – 18x Armv9 cores with 12 Prime cores up to 4.7 GHz (single/dual core) / 4.0 GHz (multicore), and 6 Performance cores up to 3.4 GHz GPU – Adreno X2-90 @ 1.70 GHz with support for DirectX 12.2 Ultimate, Vulkan 1.4, OpenCL 3.0 VPU Encode: HEVC, AVC: Dual 8K UHD @ 30 FPS, AV1: 8K UHD [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/18/asus-ascent-qn10-mini-pc-is-powered-by-qualcomm-snapdragon-x2-elite-18-core-armv9-processor/\">ASUS Ascent QN10 mini PC is powered by Qualcomm Snapdragon X2 Elite 18-core Armv9 processor</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Review of Elecrow ThinkNode M9 QWERTY terminal with MeshCore firmware",
-    "source": "CNX Software",
-    "date": "2026-09-18",
-    "url": "https://www.cnx-software.com/2026/09/18/elecrow-thinknode-m9-review-qwerty-terminal-meshcore-firmware/",
-    "summary": "<div><img alt=\"ThinkNode M9 Meshcore review\" class=\"attachment-medium size-medium wp-post-image\" height=\"540\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/ThinkNode-M9-Meshcore-review-720x540.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Last August, CNX Software covered the launch of the Elecrow ThinkNode M9, a standalone LoRa terminal running MeshCore firmware with a QWERTY keyboard, a color display, GPS, and a built-in 2,300mAh battery. Elecrow has now sent us two units (923 MHz version) for review, allowing us to test mesh communication right out of the box without relying on other nodes in the area. Besides being preloaded with MeshCore, what sets the M9 apart from the earlier ThinkNode M1 and M5 is that it is fully standalone. Users can type messages, read messages, and share location directly from the device itself, without pairing it to a smartphone over Bluetooth as with previous models. In this review, we will go through an unboxing before using MeshCore through field testing in a 3-node network mixing hardware from different brands to evaluate MeshCore firmware mesh capability. Unboxing and hardware overview The box contains ThinkNode [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/18/elecrow-thinknode-m9-review-qwerty-terminal-meshcore-firmware/\">Review of Elecrow ThinkNode M9 QWERTY terminal with MeshCore firmware</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Designing SWaP-Optimized Compute for UAVs, MIPI Alliance Kinematics Working Group, ESD eBook: Embedded Week Insights",
