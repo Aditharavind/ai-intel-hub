@@ -1,5 +1,19 @@
 [
   {
+    "title": "Solar Powered Traffic Monitoring",
+    "source": "Hackaday",
+    "date": "2026-09-24",
+    "url": "https://hackaday.com/2026/09/24/solar-powered-traffic-monitoring/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/unnamed-1-e1790231993909.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Marios Christoforou] recently undertook a Computer Engineering degree at the University of Cypress. His final year project involved implementing a solar-powered device to count vehicular traffic, while logging results to <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/solar-powered-traffic-monitoring/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Reconstructing Device Firmware from SPI Reads",
+    "source": "Hackaday",
+    "date": "2026-09-24",
+    "url": "https://hackaday.com/2026/09/24/reconstructing-device-firmware-from-spi-reads/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"378\" src=\"https://hackaday.com/wp-content/uploads/2026/09/spiread_feat.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you wanted to extract the firmware from a mystery device, you might pull the flash chip out of it and toss it into a reader. But if you only <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/reconstructing-device-firmware-from-spi-reads/\">&#8230;read more</a>"
+  },
+  {
     "title": "Audio Spectrum Analyzer on an ESP32 Display Board",
     "source": "Hackaday",
     "date": "2026-09-24",
@@ -14,6 +28,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/beeper-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Even for the non-musical among us there is a lot of fun to be had with a simple synthesiser and sequencer, as the different controls can be manipulated to show <a class=\"read-more\" href=\"https://hackaday.com/2026/09/23/a-tiny-toy-synth-for-smaller-computers/\">&#8230;read more</a>"
   },
   {
+    "title": "CyboPal ONE – An AI-powered, 6-DOF robotic terminal with 27-inch 4K display that adjusts to your posture (Crowdfunding)",
+    "source": "CNX Software",
+    "date": "2026-09-24",
+    "url": "https://www.cnx-software.com/2026/09/24/cybopal-one-an-ai-powered-6-dof-robotic-terminal-with-27-inch-4k-display-that-adjusts-to-your-posture/",
+    "summary": "<div><img alt=\"CyboPal ONE a 6 DOF robotic terminal, 27 inch 4K display, and AI agent that adjusts to your posture\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/CyboPal-ONE-a-6-DOF-robotic-terminal-27-inch-4K-display-and-AI-agent-that-adjusts-to-your-posture-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>CyboPal ONE is a 6-axis desktop robotic terminal designed to move a 27-inch 4K display using voice and gesture control, spatial sensing, and automatic display positioning based on the user&#8217;s position. It includes a camera, a binocular 3D sensor, and a motion sensor (IMU), and supports joint force sensing, obstacle avoidance, collision detection, and power-loss soft landing. The 6-DOF arm has a 747 mm reach and supports face tracking, manual adjustment, and saved positions. A built-in Pauli agent also provides voice control for screen positioning, application control, text input, and workflow tasks across Windows, macOS, and Linux. CyboPal ONE specifications: SoC – Rockchip RK3588 octa-core processor with CPU – 4x Cortex‑A76  cores @ up to 2.4 GHz, 4x Cortex‑A55 cores @ 1.8 GHz GPU – Arm Mali-G610 MP4 GPU Video decoder – 8Kp60 H.265, VP9, AVS2, 8Kp30 H.264 AVC/MVC, 4Kp60 AV1, 1080p60 MPEG-2/-1, VC-1, VP8 Video encoder – 8Kp30 H.265/H.264 video encoder AI accelerator – [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/24/cybopal-one-an-ai-powered-6-dof-robotic-terminal-with-27-inch-4k-display-that-adjusts-to-your-posture/\">CyboPal ONE &#8211; An AI-powered, 6-DOF robotic terminal with 27-inch 4K display that adjusts to your posture (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Quectel SE200ZC-AP smart module supports up to five cameras with Rockchip RV1126B/BJ SoC",
     "source": "CNX Software",
     "date": "2026-09-24",
@@ -21,46 +42,53 @@
     "summary": "<div><img alt=\"Quectel SE200ZC AP smart module\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Quectel-SE200ZC-AP-smart-module-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Quectel has launched the SE200ZC-AP, a compact (40 x 40 mm) smart module based on the Rockchip RV1126B/RV1126BJ quad-core Arm Cortex-A53 SoC with a 12MP ISP, an 8MP AI-ISP, and a 3 TOPS NPU. The module supports up to five 12MP cameras through two 4-lane MIPI CSI interfaces and one DVP interface. Other interfaces include Gigabit Ethernet, USB 3.0/2.0, two CAN FD, up to eight UART, six I2C, two SPI, two SDIO, three SAI, 22 ADC, 28 PWM, and up to 115 GPIOs. It ships with 1GB, 2GB, or 4GB LPDDR4x and 64GB eMMC flash, and is available in commercial and industrial grades, with operating temperatures of -25°C to +75°C and -35°C to +80°C, respectively.  These features make it suitable for smart security, industrial automation, autonomous vehicles, robotic vision, and Smart Home applications. Quectel SE200ZC-AP specifications: SoC – Rockchip RV1126B or RV1126BJ (industrial-grade version) CPU – Quad-core Arm Cortex-A53 up [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/24/quectel-se200zc-ap-smart-module-supports-up-to-five-cameras-with-rockchip-rv1126b-bj-soc/\">Quectel SE200ZC-AP smart module supports up to five cameras with Rockchip RV1126B/BJ SoC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Japan ponders Starlink alternatives",
-    "source": "Electronics Weekly",
+    "title": "Why Software-Defined Vehicles Need a New Security Foundation",
+    "source": "Embedded.com",
     "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/business/japan-ponders-starlink-alternatives-2026-09/",
-    "summary": "<p>Japan&#8217;s Ministry of Internal Affairs and Communications has put up $44 million to support projects to make  compact, lightweight universal antennas for accessing satellites, reports the Nikkei. The idea is [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/japan-ponders-starlink-alternatives-2026-09/\">Japan ponders Starlink alternatives</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.embedded.com/why-software-defined-vehicles-need-a-new-security-foundation/",
+    "summary": "<p>SDVs expand the attack surface with continuously updated software across centralized compute and always-on connectivity, requiring a rethink in security architecture.</p>\n<p>The post <a href=\"https://www.embedded.com/why-software-defined-vehicles-need-a-new-security-foundation/\">Why Software-Defined Vehicles Need a New Security Foundation</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "YMTC wins patent battle against Micron",
-    "source": "Electronics Weekly",
+    "title": "Raspberry Pi Zero Slim Snap-Fit Case – Zero 1 + Zero 2 with Hexagon Vents #3DThursday #3DPrinting",
+    "source": "Adafruit",
     "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/business/ymtc-wins-patent-battle-against-micron-2026-09/",
-    "summary": "<p>YMTC has won a battle with Micron in a German court for the infringement of two patents and has been awarded injunctions protecting its IP for ten years..  The disputed [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ymtc-wins-patent-battle-against-micron-2026-09/\">YMTC wins patent battle against Micron</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/24/raspberry-pi-zero-slim-snap-fit-case-zero-1-zero-2-with-hexagon-vents-3dthursday-3dprinting/",
+    "summary": "VICLER shares: A minimalistic snap-fit slim case for Raspberry Pi Zero. Print 2 pieces, put your Pi inside, close the case. Fits both Zero 1 and Zero 2 models perfectly. One solid model and one with hexagon holes for better ventilation. Clean, simple, compact — great for embedded projects. Community feedback: fits like a glove, [&#8230;]"
   },
   {
-    "title": "Qualcomm buys PickNick",
-    "source": "Electronics Weekly",
+    "title": "Halloween Bats – Decor #3DThursday #3DPrinting",
+    "source": "Adafruit",
     "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/business/qualcomm-buys-picknick-2026-09/",
-    "summary": "<p>Qualcomm has bought PickNick a software company specialising in robotics. The move is seen as Qualcomm moving further into physical AI after its Arduino and Modular acquisitions. “Robotics is one [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qualcomm-buys-picknick-2026-09/\">Qualcomm buys PickNick</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/24/halloween-bats-decor-3dthursday-3dprinting/",
+    "summary": "Madness3D shares: A set of Halloween bats to spread across tables as decor, or add double-sided tape and hang on walls, windows, or from the ceiling. Simple, high-impact decoration. Designer&#8217;s profile has matching Ghosts, Bat with Skeleton, Spiders, and Spider Web models for a full themed setup. By Madness3D. NOTE: early model ID — verify [&#8230;]"
   },
   {
-    "title": "Cambridge Tech Week draws 1,700 visitors",
-    "source": "Electronics Weekly",
+    "title": "Halloween Ghost Holding Skull – Hollow for LED Tea Lights #3DThursday #3DPrinting",
+    "source": "Adafruit",
     "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/business/cambridge-tech-week-draws-1700-visitors-2026-09/",
-    "summary": "<p>Cambridge Tech Week 2026 closed last week after five days of debate, dealmaking and networking, with this year’s programme putting a sharper focus on the practical challenge of turning research [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/cambridge-tech-week-draws-1700-visitors-2026-09/\">Cambridge Tech Week draws 1,700 visitors</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/24/halloween-ghost-holding-skull-hollow-for-led-tea-lights-3dthursday-3dprinting/",
+    "summary": "EzzySziggy shares: A Halloween ghost holding a skull, hollow so you can put LED tea lights inside for added effect. Great for Halloween festivities and trick-or-treat display. Distinctive silhouette from the classic tea light ghosts. By EzzySziggy download the files on: https://makerworld.com/en/models/629293-halloween-ghost Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has [&#8230;]"
   },
   {
-    "title": "Test Arduino’s VENTUNO Q SBC for free",
-    "source": "Electronics Weekly",
+    "title": "Adjustable Bedside Table Lamp #3DThursday #3DPrinting",
+    "source": "Adafruit",
     "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/business/test-arduinos-new-ventuno-q-sbc-for-free-2026-09/",
-    "summary": "<p>element14 is inviting engineers and makers to apply for the opportunity to evaluate Arduino&#8217;s new VENTUNO Q single-board computer (SBC) and share their findings with the global community. Building on [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/test-arduinos-new-ventuno-q-sbc-for-free-2026-09/\">Test Arduino&#8217;s VENTUNO Q SBC for free</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/24/adjustable-bedside-table-lamp-3dthursday-3dprinting/",
+    "summary": "dot.stl shares: A fully 3D-printed adjustable lamp compatible with the Bambu LED001 (MH001) kit. No hardware or tools needed to assemble. Head angle adjusts up 35° and down 23° — great functional task light for office desk or bedside table. Base doubles as a key bowl for general items. Contemporary spiral pattern looks great both [&#8230;]"
   },
   {
-    "title": "Declining polls for President Trump",
-    "source": "Electronics Weekly",
+    "title": "Zombie Vampire Skull Bowl #3DThursday #3DPrinting",
+    "source": "Adafruit",
     "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/business/declining-polls-for-president-trump-2026-09/",
-    "summary": "<p>There is not a single major issue on which President Trump receives a positive net approval rating, according to RealClearPolitics. The President is underwater across the board, with inflation standing [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/declining-polls-for-president-trump-2026-09/\">Declining polls for President Trump</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/24/zombie-vampire-skull-bowl-3dthursday-3dprinting/",
+    "summary": "PfalzCraft shares: Half-decayed, half-undead Zombie Vampire Skull — decoration that looks like it just crawled out of the grave. Place on a shelf, add a small LED inside, and watch the jagged teeth and hollow eyes come alive. Two versions: one with holes in mouth/nose/ears, and a closed version. Both work as decoration OR as [&#8230;]"
+  },
+  {
+    "title": "Milan – Designer LED Lamp #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-09-24",
+    "url": "https://blog.adafruit.com/2026/09/24/milan-designer-led-lamp-3dthursday-3dprinting/",
+    "summary": "user_3132746238 shares: A sleek designer LED lamp combining clean geometry and warm ambiance. Wide dome diffuser on a minimal stem and cylindrical base — the epitome of modern simplicity. Designed for the Bambu Lab LED Lamp Kit (MH001). No supports needed, minimal material usage, quick assembly with no extra hardware beyond the MH001 kit. USB-powered [&#8230;]"
   },
   {
     "title": "Raspberry Pi Pico Small SnapFit Case – Honeycomb Cooling #3DThursday #3DPrinting",
@@ -105,25 +133,11 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"500\" src=\"https://hackaday.com/wp-content/uploads/2026/09/carplay_misadventure_arkandas.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although [Arkandas] disclaims any interest in being a &#8216;car guy&#8217;, this is somewhat ironic in light of the sheer amount of modding he has performed on a range of cars <a class=\"read-more\" href=\"https://hackaday.com/2026/09/23/a-minis-infotainment-system-and-the-joys-of-aftermarket-car-parts/\">&#8230;read more</a>"
   },
   {
-    "title": "Forget Trees, add Fins to your 3D Prints Instead",
-    "source": "Hackaday",
-    "date": "2026-09-23",
-    "url": "https://hackaday.com/2026/09/23/forget-trees-add-fins-to-your-3d-prints-instead/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"446\" src=\"https://hackaday.com/wp-content/uploads/2026/09/support_fins_editor_matthew_trahan_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Perhaps one of the most contentious issues in 3D printing is that of supports, both because they&#8217;re an uncomfortable reminder of how gravity affects our prints and because the very <a class=\"read-more\" href=\"https://hackaday.com/2026/09/23/forget-trees-add-fins-to-your-3d-prints-instead/\">&#8230;read more</a>"
-  },
-  {
-    "title": "2026 Hackaday Supercon: Announcing our First Round of Speakers",
-    "source": "Hackaday",
-    "date": "2026-09-23",
-    "url": "https://hackaday.com/2026/09/23/2026-hackaday-supercon-announcing-our-first-round-of-speakers/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/07/supercon_10_CFP.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Supercon is the Ultimate Hardware Conference™ and you need to be there November 6-8 in Pasadena, California! Below is just the tip of the speakers&#8217; iceberg, but if that&#8217;s not <a class=\"read-more\" href=\"https://hackaday.com/2026/09/23/2026-hackaday-supercon-announcing-our-first-round-of-speakers/\">&#8230;read more</a>"
-  },
-  {
-    "title": "MediaTek Dimensity CX C10 Max octa-core Cortex-X925/X9/A720 SoC targets Googlebooks",
+    "title": "MediaTek Dimensity CX C10 Max octa-core Cortex-X925/X4/A720 SoC targets Googlebooks",
     "source": "CNX Software",
     "date": "2026-09-23",
     "url": "https://www.cnx-software.com/2026/09/23/mediatek-dimensity-cx-c10-max-octa-core-cortex-x925-x9-a720-soc-targets-googlebooks/",
-    "summary": "<div><img alt=\"MediaTek Dimensity CX C10 Max\" class=\"attachment-medium size-medium wp-post-image\" height=\"540\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/MediaTek-Dimensity-CX-C10-Max-720x540.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>MediaTek Dimensity CX C10 Max is a 3nm &#8220;All Big Core&#8221; octa-core Armv9 CPU with an 11-core Immortalis-G925 MC11 GPU, and MediaTek&#8217;s  890 NPU delivering up to 55 TOPS for an &#8220;upcoming premium, ultra-portable Googlebook device&#8221; with all-day battery life. Googlebook is Google’s new premium laptop category built around the company&#8217;s Gemini Intelligence and running Googlebook OS, codenamed Aluminium OS, which merges parts of Android and ChromeOS platforms. If you visit the Googlebook website, you&#8217;ll find pre-orders for Intel Core Ultra and Qualcomm Snapdragon X Elite models, but Google will soon launch at least one model equipped with the new MediaTek SoC. MediaTek Dimensity CX C10 Max specifications: Octa-core CPU 1x Arm Cortex-X925 core clocked at up to 3.73 GHz with 2MB L2 cache 3x Arm Cortex-X4 cores with 1MB L2 cache 4x Arm Cortex-A720 cores with 512KB L2 cache Shared cache &#8211; 12MB L3 cache, 10MB SLC (System Level [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/23/mediatek-dimensity-cx-c10-max-octa-core-cortex-x925-x9-a720-soc-targets-googlebooks/\">MediaTek Dimensity CX C10 Max octa-core Cortex-X925/X9/A720 SoC targets Googlebooks</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"MediaTek Dimensity CX C10 Max\" class=\"attachment-medium size-medium wp-post-image\" height=\"540\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/MediaTek-Dimensity-CX-C10-Max-720x540.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>MediaTek Dimensity CX C10 Max is a 3nm &#8220;All Big Core&#8221; octa-core Armv9 CPU with an 11-core Immortalis-G925 MC11 GPU, and MediaTek&#8217;s  890 NPU delivering up to 55 TOPS for an &#8220;upcoming premium, ultra-portable Googlebook device&#8221; with all-day battery life. Googlebook is Google’s new premium laptop category built around the company&#8217;s Gemini Intelligence and running Googlebook OS, codenamed Aluminium OS, which merges parts of Android and ChromeOS platforms. If you visit the Googlebook website, you&#8217;ll find pre-orders for Intel Core Ultra and Qualcomm Snapdragon X Elite models, but Google will soon launch at least one model equipped with the new MediaTek SoC. MediaTek Dimensity CX C10 Max specifications: Octa-core CPU 1x Arm Cortex-X925 core clocked at up to 3.73 GHz with 2MB L2 cache 3x Arm Cortex-X4 cores with 1MB L2 cache 4x Arm Cortex-A720 cores with 512KB L2 cache Shared cache &#8211; 12MB L3 cache, 10MB SLC (System Level [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/23/mediatek-dimensity-cx-c10-max-octa-core-cortex-x925-x9-a720-soc-targets-googlebooks/\">MediaTek Dimensity CX C10 Max octa-core Cortex-X925/X4/A720 SoC targets Googlebooks</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Soulart Station – A markerless full-body motion tracker for VR and VTubers (Crowdfunding)",
@@ -154,34 +168,6 @@
     "summary": "<p>Windows-only embedded toolchains cost teams in hiring, re-qualification, and debugging time. See how a certified cross-platform IDE truly closes that gap.</p>\n<p>The post <a href=\"https://www.embedded.com/where-developer-choice-broke-down-in-embedded-software-development/\">Where Developer Choice Broke Down in Embedded Software Development </a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Single-board computer Raspberry Pi 4B 3GB RAM in TME’s offer",
-    "source": "Electronics Weekly",
-    "date": "2026-09-23",
-    "url": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/single-board-computer-raspberry-pi-4b-3gb-ram-in-tmes-offer-2026-09/",
-    "summary": "<p>The Raspberry Pi 4B 3GB RAM model is available in TME’s offer.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/single-board-computer-raspberry-pi-4b-3gb-ram-in-tmes-offer-2026-09/\">Single-board computer Raspberry Pi 4B 3GB RAM in TME’s offer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "SOSA-aligned TVPX210 3U OpenVPX carrier board offers modular I/O",
-    "source": "Electronics Weekly",
-    "date": "2026-09-23",
-    "url": "https://www.electronicsweekly.com/news/products/sosa-aligned-tvpx210-3u-openvpx-carrier-board-offers-modular-i-o-2026-09/",
-    "summary": "<p>Tews Technologies has announced its TVPX210, a 3U OpenVPX carrier board aligning with the SOSA technical standard. It&#8217;s for system designers to integrate high-performance modular I/O into next-generation defence and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/sosa-aligned-tvpx210-3u-openvpx-carrier-board-offers-modular-i-o-2026-09/\">SOSA-aligned TVPX210 3U OpenVPX carrier board offers modular I/O</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Mental Health",
-    "source": "Electronics Weekly",
-    "date": "2026-09-23",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/mental-health-2026-09/",
-    "summary": "<p>Four in ten 10 adults in countries like Australia, the U.S. and Canada reported that they had experienced mental health problems, such as stress, anxiety or depression in the 12 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/consumer/mental-health-2026-09/\">Mental Health</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "RAF Space Squadron forms to defend Britain’s satellites",
-    "source": "Electronics Weekly",
-    "date": "2026-09-23",
-    "url": "https://www.electronicsweekly.com/news/raf-space-squadron-forms-to-defend-britains-satellites-2026-09/",
-    "summary": "<p>The UK&#8217;s Chief of Air Staff, Air Chief Marshal Sir Harv Smith, has announced the formation of an RAF Space Squadron to defend British satellites and interests in space. Its [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/raf-space-squadron-forms-to-defend-britains-satellites-2026-09/\">RAF Space Squadron forms to defend Britain&#8217;s satellites</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "Are smartwatches accurately calculating calories burned?",
     "source": "Adafruit",
     "date": "2026-09-23",
@@ -201,27 +187,6 @@
     "date": "2026-09-23",
     "url": "https://blog.adafruit.com/2026/09/23/live-3d-hangouts-with-noe-and-pedro-85/",
     "summary": "3D Hangouts – E-Ink FruitMesh, Monster Eyes and Skull Spine https://youtube.com/live/WRx1svLihfA?feature=share This week @adafruit Pedro published and showcased his IoT E-ink Meshtatstic project. Noe is prototyping a new project using Monster Eyes and round TFT displays. Timelapse this week features a print-in-place skull with spline. Learn Guide: https://learn.adafruit.com/meshfruit-message-board Project YouTube Video https://youtu.be/FxuyWbHRbRs 4.2 300&#215;400 Tri-Color [&#8230;]"
-  },
-  {
-    "title": "Building a Tape Deck MP3 Player",
-    "source": "Adafruit",
-    "date": "2026-09-23",
-    "url": "https://blog.adafruit.com/2026/09/23/building-a-tape-deck-mp3-player/",
-    "summary": "Is there a difference between pressing a three dimensional button and tapping a screen? JonathanRowny was feeling nostalgic and made an MP3 player that only works on tape decks! This time I made an mp3 player mixtape that only works in a tape deck. It has a custom pcb with an ESP32, outputs audio to [&#8230;]"
-  },
-  {
-    "title": "JP’s Product Pick of the Week 9/22/26",
-    "source": "Adafruit",
-    "date": "2026-09-23",
-    "url": "https://blog.adafruit.com/2026/09/23/jps-product-pick-of-the-week-9-22-26/",
-    "summary": "&#160; This week JP&#8217;s pick was the Adafruit GP8403 Breakout Board I2C DAC with 12V Booster! Want more JP’s Product Pick of the Week?! Tune in every Tuesday on Youtube LIVE, Twitch, Periscope (Twitter) and Facebook. LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Catch previous editions on YouTube and don&#8217;t miss our [&#8230;]"
-  },
-  {
-    "title": "NYPL Picture Book Recommendations for Hispanic & Latinx Heritage Month #HispanicHeritageMonth",
-    "source": "Adafruit",
-    "date": "2026-09-23",
-    "url": "https://blog.adafruit.com/2026/09/23/nypl-picture-book-recommendations-for-hispanic-latinx-heritage-month-hispanicheritagemonth/",
-    "summary": "&#160; NYPL Teen Reading Ambassadors have put together yet another fantastic book recommendation list, this frim for Latinx Heritage Month! For Hispanic &#038; Latinx Heritage Month, Teen Reading Ambassadors across the city are celebrating by recommending picture books for ages 3–9. These visual stories highlight Hispanic and Latinx characters and culture from Mexico to the [&#8230;]"
   },
   {
     "title": "Infineon’s PSOC™ Control C3 Performance Line sets new standard for real-time control and PQC security",
@@ -278,27 +243,6 @@
     "date": "2026-09-22",
     "url": "https://www.embedded.com/mediatek-debuts-cx-c10-soc-for-ai-first-googlebook-laptops/",
     "summary": "<p>MediaTek has unveiled the Dimensity CX C10 Max system-on-chip (SoC), the first chip in the company's new Dimensity Compute Experiences (CX) family. The flagship CX chip delivers high performance, advanced functionality, and higher power efficiency for an upcoming premium, ultra-portable Googlebook device. The Dimensity CX C10 Max SoC is built on TSMC's advanced 3-nm process. [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mediatek-debuts-cx-c10-soc-for-ai-first-googlebook-laptops/\">MediaTek Debuts CX C10 SoC for AI-First Googlebook Laptops</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "NEW GUIDE: Adafruit TMF8806 Time of Flight Distance Sensor #AdafruitLearningSystem @Adafruit",
-    "source": "Adafruit",
-    "date": "2026-09-22",
-    "url": "https://blog.adafruit.com/2026/09/22/new-guide-adafruit-tmf8806-time-of-flight-distance-sensor-adafruitlearningsystem-adafruit/",
-    "summary": "The Adafruit TMF8806 Time of Flight Sensor is a great Time of Flight distance sensor from ams Osram in the TMF series of chips. The TMF8806 in particular can do 20mm to 5 meters at up to 30 Hz update rate, and a dedicated low-power 200mm mode. It also has a wider field-of-view. The sensor [&#8230;]"
-  },
-  {
-    "title": "JP’s Product Pick of the Week —  3pm Eastern TODAY 9/22/26 @adafruit #adafruit #newproductpick",
-    "source": "Adafruit",
-    "date": "2026-09-22",
-    "url": "https://blog.adafruit.com/2026/09/22/jps-product-pick-of-the-week-3pm-eastern-today-9-22-26-adafruit-adafruit-newproductpick/",
-    "summary": "Come on by for JP&#8217;s Product Pick of The Week ! A new product pick will be revealed. The show airs at 3pm ET / 12pm PT Check out the livestream right here inside this product page you won&#8217;t want to miss it because there will be a LARGE DISCOUNT during the show! Tune in [&#8230;]"
-  },
-  {
-    "title": "NEW GUIDE: Adafruit TSL2585 Digital UVA and Ambient Light Sensor #AdafruitLearningSystem @Adafruit",
-    "source": "Adafruit",
-    "date": "2026-09-22",
-    "url": "https://blog.adafruit.com/2026/09/22/new-guide-adafruit-tsl2585-digital-uva-and-ambient-light-sensor-adafruitlearningsystem-adafruit/",
-    "summary": "The Adafruit TSL2585 Digital UVA and Ambient Light Sensor is a great &#8220;three-in-one&#8221; light sensor that has ambient light sensing, Infrared channel and UVA (315nm-400nm). In particular it&#8217;s not that common to get UVA narrow-band sensing on an I2C sensor, so this is great for outdoor light monitoring. It can also be used to measure [&#8230;]"
   },
   {
     "title": "FSP Unveils the World’s First 80 PLUS 230V Ruby-Certified ATX Power Supply, Leading the Green Revolution in Next-Gen AI Computing",
@@ -399,13 +343,6 @@
     "summary": "<div><img alt=\"ThinkNode M9 Meshcore review\" class=\"attachment-medium size-medium wp-post-image\" height=\"540\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/ThinkNode-M9-Meshcore-review-720x540.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Last August, CNX Software covered the launch of the Elecrow ThinkNode M9, a standalone LoRa terminal running MeshCore firmware with a QWERTY keyboard, a color display, GPS, and a built-in 2,300mAh battery. Elecrow has now sent us two units (923 MHz version) for review, allowing us to test mesh communication right out of the box without relying on other nodes in the area. Besides being preloaded with MeshCore, what sets the M9 apart from the earlier ThinkNode M1 and M5 is that it is fully standalone. Users can type messages, read messages, and share location directly from the device itself, without pairing it to a smartphone over Bluetooth as with previous models. In this review, we will go through an unboxing before using MeshCore through field testing in a 3-node network mixing hardware from different brands to evaluate MeshCore firmware mesh capability. Unboxing and hardware overview The box contains ThinkNode [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/18/elecrow-thinknode-m9-review-qwerty-terminal-meshcore-firmware/\">Review of Elecrow ThinkNode M9 QWERTY terminal with MeshCore firmware</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "WLV-01 hackable DIY digital camera features Raspberry Pi 5, interchangeable sensors (Crowdfunding)",
-    "source": "CNX Software",
-    "date": "2026-09-18",
-    "url": "https://www.cnx-software.com/2026/09/18/wlv-01-hackable-diy-digital-camera-features-raspberry-pi-5-interchangeable-sensors/",
-    "summary": "<div><img alt=\"WLV 01 A hackable DIY digital camera with Raspberry Pi 5\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/WLV-01-A-hackable-DIY-digital-camera-with-Raspberry-Pi-5-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Malcolm-Jamal Wilson has launched the WLV-01, a fully hackable DIY digital camera built around a Raspberry Pi 5. Designed for hardware tinkerers and photography enthusiasts, the camera features swappable full-spectrum color and true monochrome sensors ranging from 1/1.2-inch to Micro Four Thirds (M4/3), and offers a simple manual shooting experience. The camera uses a manual Sony E-mount and supports various lens options through adapters, including C-mount, M-mount, M42, Nikon F, Pentax K, Canon FD, and Leica M. For the IMX585 model, the mounting plate supports both C- and E-mount lenses, while Fuji X and Micro Four Thirds mounts are available as optional add-ons. Other hardware features include a 4-inch DSI display, standard 18650 battery cells, a 3D-printed body, and support for focal reducers, helicoids, and speed boosters. The camera also supports full-spectrum photography with suitable IR-pass or hot-mirror filters, plus remote flash triggering through a 2.5mm mono jack. WLV-01 specifications: [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/18/wlv-01-hackable-diy-digital-camera-features-raspberry-pi-5-interchangeable-sensors/\">WLV-01 hackable DIY digital camera features Raspberry Pi 5, interchangeable sensors (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
     "title": "Designing SWaP-Optimized Compute for UAVs, MIPI Alliance Kinematics Working Group, ESD eBook: Embedded Week Insights",
     "source": "Embedded.com",
     "date": "2026-09-18",
@@ -418,12 +355,5 @@
     "date": "2026-09-18",
     "url": "https://www.embedded.com/terasignal-launches-analog-wave-processor-for-ai-networks/",
     "summary": "<p>TeraSignal has introduced its Analog Wave Processor (AWP), a signal-processing architecture designed for 200G/lane interconnects in next-generation AI infrastructure. The technology targets high-speed connectivity for 1.6T and 3.2T systems, combining advanced signal processing with the low-power, low-latency characteristics of linear interconnects. Unlike conventional analog equalizers and digital signal processors (DSPs), which operate on sampled or [...]</p>\n<p>The post <a href=\"https://www.embedded.com/terasignal-launches-analog-wave-processor-for-ai-networks/\">TeraSignal Launches Analog Wave Processor for AI Networks</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Abaco Systems Introduces VNX+ SBC",
-    "source": "Embedded.com",
-    "date": "2026-09-17",
-    "url": "https://www.embedded.com/abaco-systems-introduces-vnx-sbc/",
-    "summary": "<p>Abaco Systems has launched the VNX382, the company's first VNX+ single-board computer (SBC). The VNX+ standard, developed by VITA and the Open Group SOSA community and ratified by ANSI in 2026, extends the open-standard VPX into lower size, weight, and power (SWaP) applications. The VNX382 extends rugged embedded computing into SWaP-constrained applications without tradeoffs in [...]</p>\n<p>The post <a href=\"https://www.embedded.com/abaco-systems-introduces-vnx-sbc/\">Abaco Systems Introduces VNX+ SBC</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
