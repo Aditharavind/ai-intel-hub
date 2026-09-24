@@ -1,5 +1,12 @@
 [
   {
+    "title": "Robot Makes Literal Daisy Chains",
+    "source": "Hackaday",
+    "date": "2026-09-24",
+    "url": "https://hackaday.com/2026/09/24/robot-makes-literal-daisy-chains/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/I-Made-A-Robot-That-Makes-Daisy-Chains-1-6-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Jude Robinson]&#8217;s robot Daisy has an unusual function: making a literal chain of daisies. The device is his student final project and demonstrates how a system can replace sensing with <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/robot-makes-literal-daisy-chains/\">&#8230;read more</a>"
+  },
+  {
     "title": "A 7-Segment Clock Built With No Digital Electronics",
     "source": "Hackaday",
     "date": "2026-09-24",
@@ -42,13 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/unnamed-1-e1790231993909.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Marios Christoforou] recently undertook a Computer Engineering degree at the University of Cyprus. His final year project involved implementing a solar-powered device to count vehicular traffic, while logging results to <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/solar-powered-traffic-monitoring/\">&#8230;read more</a>"
   },
   {
-    "title": "Reconstructing Device Firmware from SPI Reads",
-    "source": "Hackaday",
-    "date": "2026-09-24",
-    "url": "https://hackaday.com/2026/09/24/reconstructing-device-firmware-from-spi-reads/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"378\" src=\"https://hackaday.com/wp-content/uploads/2026/09/spiread_feat.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you wanted to extract the firmware from a mystery device, you might pull the flash chip out of it and toss it into a reader. But if you only <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/reconstructing-device-firmware-from-spi-reads/\">&#8230;read more</a>"
-  },
-  {
     "title": "Qualcomm releases Linux developer preview for the Snapdragon X2 Series",
     "source": "CNX Software",
     "date": "2026-09-24",
@@ -70,6 +70,13 @@
     "summary": "<div><img alt=\"Quectel SE200ZC AP smart module\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Quectel-SE200ZC-AP-smart-module-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Quectel has launched the SE200ZC-AP, a compact (40 x 40 mm) smart module based on the Rockchip RV1126B/RV1126BJ quad-core Arm Cortex-A53 SoC with a 12MP ISP, an 8MP AI-ISP, and a 3 TOPS NPU. The module supports up to five 12MP cameras through two 4-lane MIPI CSI interfaces and one DVP interface. Other interfaces include Gigabit Ethernet, USB 3.0/2.0, two CAN FD, up to eight UART, six I2C, two SPI, two SDIO, three SAI, 22 ADC, 28 PWM, and up to 115 GPIOs. It ships with 1GB, 2GB, or 4GB LPDDR4x and 64GB eMMC flash, and is available in commercial and industrial grades, with operating temperatures of -25°C to +75°C and -35°C to +80°C, respectively.  These features make it suitable for smart security, industrial automation, autonomous vehicles, robotic vision, and Smart Home applications. Quectel SE200ZC-AP specifications: SoC – Rockchip RV1126B or RV1126BJ (industrial-grade version) CPU – Quad-core Arm Cortex-A53 up [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/24/quectel-se200zc-ap-smart-module-supports-up-to-five-cameras-with-rockchip-rv1126b-bj-soc/\">Quectel SE200ZC-AP smart module supports up to five cameras with Rockchip RV1126B/BJ SoC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "EdgeCortix Launches Scalable RAIDEN AI Chiplet Platform",
+    "source": "Embedded.com",
+    "date": "2026-09-24",
+    "url": "https://www.embedded.com/edgecortix-launches-scalable-raiden-ai-chiplet-platform/",
+    "summary": "<p>EdgeCortix Inc. has introduced RAIDEN, a scalable AI chiplet platform designed for energy-efficient physical AI applications deployed outside centralized data centers. The architecture combines compute, memory, bandwidth, connectivity, and software within a common platform that scales from a single compute die to a four-die configuration. The flagship RAIDEN-X4 delivers up to 3.36 PFLOPS of FP4 [...]</p>\n<p>The post <a href=\"https://www.embedded.com/edgecortix-launches-scalable-raiden-ai-chiplet-platform/\">EdgeCortix Launches Scalable RAIDEN AI Chiplet Platform</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
     "title": "Why Software-Defined Vehicles Need a New Security Foundation",
     "source": "Embedded.com",
     "date": "2026-09-24",
@@ -77,74 +84,25 @@
     "summary": "<p>SDVs expand the attack surface with continuously updated software across centralized compute and always-on connectivity, requiring a rethink in security architecture.</p>\n<p>The post <a href=\"https://www.embedded.com/why-software-defined-vehicles-need-a-new-security-foundation/\">Why Software-Defined Vehicles Need a New Security Foundation</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Gadget Watch: Googlebook goes AI with AI",
-    "source": "Electronics Weekly",
+    "title": "Solder Fume Extractor #3DThursday #3DPrinting",
+    "source": "Adafruit",
     "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/gadget-watch/gadget-watch-googlebook-goes-ai-with-ai-2026-09/",
-    "summary": "<p>The successor to the humble Chromebook workhorse, the newly-launched Googlebook laptop is a premium product that sees the company go all-in (AI) with AI.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/gadget-watch/gadget-watch-googlebook-goes-ai-with-ai-2026-09/\">Gadget Watch: Googlebook goes AI with AI</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/24/solder-fume-extractor-3dthursday-3dprinting-3/",
+    "summary": "Shared by ThatOtherGuy8654 &#160; This is a solder fume extractor I built to help reduce fumes while soldering, keeping the workspace air a bit cleaner. I didn&#8217;t find any Fume Extractors that fit everything I wanted, so when designing this, I had a few goals in mind: Use a standard 120mm PC fan Include a [&#8230;]"
   },
   {
-    "title": "Bel Fuse high-density DC-DC converters track railway applications",
-    "source": "Electronics Weekly",
+    "title": "Junction Box for WAGO #3DThursday #3DPrinting",
+    "source": "Adafruit",
     "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/products/power-supplies/bel-fuse-high-density-dc-dc-converters-track-railway-applications-2026-09/",
-    "summary": "<p>Bel Fuse has announced the XRCM200 and XRCM300 series of compact, high-density DC-DC converters for railway and transportation applications. The parts support input voltages from 16.8 VDC to 137.5 VDC, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/power-supplies/bel-fuse-high-density-dc-dc-converters-track-railway-applications-2026-09/\">Bel Fuse high-density DC-DC converters track railway applications</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/24/junction-box-for-wago-3dthursday-3dprinting/",
+    "summary": "FokieH_Print shares: Small junction box for Wago clamps download the files on: https://www.printables.com/model/1825698-wago-junction-box Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making solid objects from digital models. Recently, we have noticed electronics projects integrated with 3D printed enclosures, brackets, and sculptures, so each Thursday we celebrate [&#8230;]"
   },
   {
-    "title": "Fable: The Great Man Who Was Denied A Chair",
-    "source": "Electronics Weekly",
+    "title": "Raspberry Pi5 with NVMe hat tool-less case #3DThursday #3DPrinting",
+    "source": "Adafruit",
     "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-great-man-who-was-denied-a-chair-2026-09/",
-    "summary": "<p>One of the greatest physicists and mathematicians who ever lived was rejected when he  applied for the Chair of Natural Philosophy at Edinburgh University. A local newspaper, the Edinburgh Courant, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-great-man-who-was-denied-a-chair-2026-09/\">Fable: The Great Man Who Was Denied A Chair</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Lattice Mach-N2 FPGA family targets system control and security",
-    "source": "Electronics Weekly",
-    "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/products/fpga-pld/lattice-mach-n2-fpga-family-targets-system-control-and-security-2026-09/",
-    "summary": "<p>Lattice Semiconductor is releasing the Lattice Mach-N2 FPGA family, for system control and security in modern infrastructure. Mach-N2 combines integrated flash, a hardware Root of Trust, and CNSA 2.0-compliant post-quantum [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/fpga-pld/lattice-mach-n2-fpga-family-targets-system-control-and-security-2026-09/\">Lattice Mach-N2 FPGA family targets system control and security</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Get the Gadget Master newsletter!",
-    "source": "Electronics Weekly",
-    "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-09/",
-    "summary": "<p>Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox!</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-09/\">Get the Gadget Master newsletter!</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Univity achieves first in-orbit 5G NTN TDD connection via mmWave link",
-    "source": "Electronics Weekly",
-    "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/univity-achieves-first-in-orbit-5g-ntn-tdd-connection-via-mmwave-link-2026-09/",
-    "summary": "<p>Univity has announced the success of uniSpark, its first in-orbit technology demonstration mission and claims it as a world&#8217;s first, paving the way for new spectrum resources for satellite communications. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/univity-achieves-first-in-orbit-5g-ntn-tdd-connection-via-mmwave-link-2026-09/\">Univity achieves first in-orbit 5G NTN TDD connection via mmWave link</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Japan ponders Starlink alternatives",
-    "source": "Electronics Weekly",
-    "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/business/japan-ponders-starlink-alternatives-2026-09/",
-    "summary": "<p>Japan&#8217;s Ministry of Internal Affairs and Communications has put up $44m to support projects to make compact, lightweight universal antennas for accessing satellites, reports the Nikkei. The idea is to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/japan-ponders-starlink-alternatives-2026-09/\">Japan ponders Starlink alternatives</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "YMTC wins patent battle against Micron",
-    "source": "Electronics Weekly",
-    "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/business/ymtc-wins-patent-battle-against-micron-2026-09/",
-    "summary": "<p>YMTC has won a battle with Micron in a German court for the infringement of two patents and has been awarded injunctions protecting its IP for 10 years. The disputed [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ymtc-wins-patent-battle-against-micron-2026-09/\">YMTC wins patent battle against Micron</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Qualcomm buys PickNik",
-    "source": "Electronics Weekly",
-    "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/business/qualcomm-buys-picknick-2026-09/",
-    "summary": "<p>Qualcomm has bought PickNik, a software company specialising in robotics. The move is seen as Qualcomm moving further into physical AI after its Arduino and Modular acquisitions. “Robotics is one [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qualcomm-buys-picknick-2026-09/\">Qualcomm buys PickNik</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Cambridge Tech Week draws 1,700 visitors",
-    "source": "Electronics Weekly",
-    "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/business/cambridge-tech-week-draws-1700-visitors-2026-09/",
-    "summary": "<p>Cambridge Tech Week 2026 closed last week after five days of debate, dealmaking and networking, with this year’s programme putting a sharper focus on the practical challenge of turning research [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/cambridge-tech-week-draws-1700-visitors-2026-09/\">Cambridge Tech Week draws 1,700 visitors</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/24/raspberry-pi5-with-nvme-hat-tool-less-case-3dthursday-3dprinting/",
+    "summary": "Shared by Jerry on MakerWorld: This is tool-less case designed to accommodate a Raspberry Pi5 with active cooler and a Pineberry HatDrive! bottom. Happy printing and assembly 🙂 Download the files and learn more Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making solid objects from [&#8230;]"
   },
   {
     "title": "Tabletop Solder Fume Extractor – Delta Server Fan with PWM Control #3DThursday #3DPrinting",
@@ -208,27 +166,6 @@
     "date": "2026-09-24",
     "url": "https://blog.adafruit.com/2026/09/24/skull-spine-3dthursday-3dprinting/",
     "summary": "Every week we&#8217;ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Skull Spine By gobotoru makerworld.com/en/models/3256431-spine-ripper-articulated-skull-spine-fast-print Bambu X1C PolyMaker PLA 1hr 18mins X:140 Y:74 Z:37mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 15g 230mm/s Every Thursday is #3dthursday here [&#8230;]"
-  },
-  {
-    "title": "Raspberry Pi Zero Slim Snap-Fit Case – Zero 1 + Zero 2 with Hexagon Vents #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-09-24",
-    "url": "https://blog.adafruit.com/2026/09/24/raspberry-pi-zero-slim-snap-fit-case-zero-1-zero-2-with-hexagon-vents-3dthursday-3dprinting/",
-    "summary": "VICLER shares: A minimalistic snap-fit slim case for Raspberry Pi Zero. Print 2 pieces, put your Pi inside, close the case. Fits both Zero 1 and Zero 2 models perfectly. One solid model and one with hexagon holes for better ventilation. Clean, simple, compact — great for embedded projects. Community feedback: fits like a glove, [&#8230;]"
-  },
-  {
-    "title": "Halloween Bats – Decor #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-09-24",
-    "url": "https://blog.adafruit.com/2026/09/24/halloween-bats-decor-3dthursday-3dprinting/",
-    "summary": "Madness3D shares: A set of Halloween bats to spread across tables as decor, or add double-sided tape and hang on walls, windows, or from the ceiling. Simple, high-impact decoration. Designer&#8217;s profile has matching Ghosts, Bat with Skeleton, Spiders, and Spider Web models for a full themed setup. By Madness3D. NOTE: early model ID — verify [&#8230;]"
-  },
-  {
-    "title": "Halloween Ghost Holding Skull – Hollow for LED Tea Lights #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-09-24",
-    "url": "https://blog.adafruit.com/2026/09/24/halloween-ghost-holding-skull-hollow-for-led-tea-lights-3dthursday-3dprinting/",
-    "summary": "EzzySziggy shares: A Halloween ghost holding a skull, hollow so you can put LED tea lights inside for added effect. Great for Halloween festivities and trick-or-treat display. Distinctive silhouette from the classic tea light ghosts. By EzzySziggy download the files on: https://makerworld.com/en/models/629293-halloween-ghost Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has [&#8230;]"
   },
   {
     "title": "Trilogic Systems Partners with Tekdense, Expanding Its North American Presence in High-Performance Rugged Computing for Aerospace and Defense Markets",
@@ -418,12 +355,5 @@
     "date": "2026-09-18",
     "url": "https://www.embedded.com/designing-swap-optimized-compute-for-uavs-mipi-alliance-kinematics-working-group-esd-ebook-embedded-week-insights/",
     "summary": "<p>Here's a roundup of this week's must-read articles. We'll look into the latest developments on designing SWaP-optimized compute for UAVs, MIPI Alliance's new Kinematics Working Group, 140-W USB-C chargers with GaN, and more. Don't miss the ESD September/October 2026 eBook, ready for download. Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete list [...]</p>\n<p>The post <a href=\"https://www.embedded.com/designing-swap-optimized-compute-for-uavs-mipi-alliance-kinematics-working-group-esd-ebook-embedded-week-insights/\">Designing SWaP-Optimized Compute for UAVs, MIPI Alliance Kinematics Working Group, ESD eBook: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "TeraSignal Launches Analog Wave Processor for AI Networks",
-    "source": "Embedded.com",
-    "date": "2026-09-18",
-    "url": "https://www.embedded.com/terasignal-launches-analog-wave-processor-for-ai-networks/",
-    "summary": "<p>TeraSignal has introduced its Analog Wave Processor (AWP), a signal-processing architecture designed for 200G/lane interconnects in next-generation AI infrastructure. The technology targets high-speed connectivity for 1.6T and 3.2T systems, combining advanced signal processing with the low-power, low-latency characteristics of linear interconnects. Unlike conventional analog equalizers and digital signal processors (DSPs), which operate on sampled or [...]</p>\n<p>The post <a href=\"https://www.embedded.com/terasignal-launches-analog-wave-processor-for-ai-networks/\">TeraSignal Launches Analog Wave Processor for AI Networks</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]

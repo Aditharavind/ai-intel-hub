@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-24 20:49 UTC
+Last Updated: 2026-09-24 23:35 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-24 | Robot Makes Literal Daisy Chains | Hackaday | [link](https://hackaday.com/2026/09/24/robot-makes-literal-daisy-chains/) |
 | 2026-09-24 | A 7-Segment Clock Built With No Digital Electronics | Hackaday | [link](https://hackaday.com/2026/09/24/a-7-segment-clock-built-with-no-digital-electronics/) |
 | 2026-09-24 | Handheld Scanner is a Radio Multi-tool | Hackaday | [link](https://hackaday.com/2026/09/24/handheld-scanner-is-a-radio-multi-tool/) |
 | 2026-09-24 | UDP Broadcasting and the Brave New World of IPv6 | Hackaday | [link](https://hackaday.com/2026/09/24/udp-broadcasting-and-the-brave-new-world-of-ipv6/) |
 | 2026-09-24 | Standalone DJ System Runs On ESP32 | Hackaday | [link](https://hackaday.com/2026/09/24/standalone-dj-system-runs-on-esp32/) |
 | 2026-09-24 | After Decades, NASA May Finally Replace Mars Relays | Hackaday | [link](https://hackaday.com/2026/09/24/after-decades-nasa-may-finally-replace-mars-relays/) |
 | 2026-09-24 | Solar Powered Traffic Monitoring | Hackaday | [link](https://hackaday.com/2026/09/24/solar-powered-traffic-monitoring/) |
-| 2026-09-24 | Reconstructing Device Firmware from SPI Reads | Hackaday | [link](https://hackaday.com/2026/09/24/reconstructing-device-firmware-from-spi-reads/) |
 | 2026-09-24 | Qualcomm releases Linux developer preview for the Snapdragon X2 Series | CNX Software | [link](https://www.cnx-software.com/2026/09/25/qualcomm-releases-linux-developer-preview-snapdragon-x2/) |
 | 2026-09-24 | CyboPal ONE – An AI-powered, 6-DOF robotic terminal with 27-inch 4K display that adjusts to your posture (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/09/24/cybopal-one-an-ai-powered-6-dof-robotic-terminal-with-27-inch-4k-display-that-adjusts-to-your-posture/) |
 | 2026-09-24 | Quectel SE200ZC-AP smart module supports up to five cameras with Rockchip RV1126B/BJ SoC | CNX Software | [link](https://www.cnx-software.com/2026/09/24/quectel-se200zc-ap-smart-module-supports-up-to-five-cameras-with-rockchip-rv1126b-bj-soc/) |
@@ -66,8 +66,8 @@ _No items collected yet._
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-09-24 | huiwon/dreamzero_openarm_wam_v1_robot_b32_ar2_50k | 0 | 0 | [link](https://huggingface.co/huiwon/dreamzero_openarm_wam_v1_robot_b32_ar2_50k) |
 | 2026-09-24 | tsinghua-sigs-robot-lab/VeriLoop-E2-GGUF | 65 | 3 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2-GGUF) |
+| 2026-09-24 | huiwon/dreamzero_openarm_wam_v1_robot_b32_ar2_50k | 0 | 0 | [link](https://huggingface.co/huiwon/dreamzero_openarm_wam_v1_robot_b32_ar2_50k) |
 | 2026-09-24 | beihai12/wlp-robot | 0 | 0 | [link](https://huggingface.co/beihai12/wlp-robot) |
 | 2026-09-24 | djbob/balance_robot | 0 | 0 | [link](https://huggingface.co/djbob/balance_robot) |
 | 2026-09-24 | Voyager466920/ahin-real-robot-smolvla-eighttasks-weakcheckpoint | 0 | 0 | [link](https://huggingface.co/Voyager466920/ahin-real-robot-smolvla-eighttasks-weakcheckpoint) |
@@ -75,21 +75,21 @@ _No items collected yet._
 | 2026-09-24 | D-Robotics/Uranus-1.3B | 0 | 0 | [link](https://huggingface.co/D-Robotics/Uranus-1.3B) |
 | 2026-09-24 | Chanisorn/hand-gesture-robot-control | 0 | 0 | [link](https://huggingface.co/Chanisorn/hand-gesture-robot-control) |
 | 2026-09-24 | huiwon/fastwam_openarm_wam_v1_robot_b32_50k | 0 | 0 | [link](https://huggingface.co/huiwon/fastwam_openarm_wam_v1_robot_b32_50k) |
-| 2026-09-24 | mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0) |
+| 2026-09-24 | mim-chess-vlas/train_800_complex__point__overlay_a75__sim__all_cameras__live__groot__seed_0 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_complex__point__overlay_a75__sim__all_cameras__live__groot__seed_0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28431 | Python | 11372.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28433 | Python | 11373.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3426 | Python | 1370.5 | [link](https://github.com/NVIDIA/skills) |
 | pnoker/iot-dc3 | 1288 | Java | 515.3 | [link](https://github.com/pnoker/iot-dc3) |
 | robocurve/inspect-robots | 602 | Python | 240.9 | [link](https://github.com/robocurve/inspect-robots) |
-| commaai/openpilot | 63726 | Python | 25490.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63725 | Python | 25490.1 | [link](https://github.com/commaai/openpilot) |
 | questdb/questdb | 17349 | Java | 6939.7 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 16346 | Python | 6538.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 16347 | Python | 6538.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | zauberzeug/nicegui | 16240 | Python | 6496.1 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 15933 | C++ | 6373.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 15325 | C++ | 6130.1 | [link](https://github.com/google-deepmind/mujoco) |
-| RLinf/RLinf | 5366 | Python | 2146.5 | [link](https://github.com/RLinf/RLinf) |
+| google-deepmind/mujoco | 15326 | C++ | 6130.5 | [link](https://github.com/google-deepmind/mujoco) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -111,11 +111,11 @@ _No items collected yet._
 | 2026-09-24 | Google Cloud Identifies Three AI Stack Priorities Driving Startup Infrastructure Choices - konsulteer.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQlh0NjFBaC14TThyc2FNZlVsTnFuR1l2ek5JenhXRVJGZEhjY2V6MlJlWUV3MDZrdXFLVXE5NkJjTTBpMFE5SU9hR211WXBDMkxTOWhqYWxxMFNCX2w0NER5S01SMjc1OGM2YlZsR3JqYWFucFhGTmtXZ0dhSVlnb0VMQ29Ub0YwelF1eENaamJTejBZT09oRHNVZ19Ga05YTmZpNEx1cllPX0Nma25jM0pnbEkyZXJfaEpEbzBOWWc?oc=5) |
 | 2026-09-23 | Physical AI startup Xirang Kaiwu raises seed round at $500M valuation - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQek5WUHljRzlCVHN6V0lCQWpTUHNYTXBmMVJSUUtCLW1aNEJrMW1UbjBvQXdxREN3R1phRWxUX0VaV3dPV2ZzbXkxemdBQUxyeUdFdjh0djNQS2VlQllNRmJkM1Zhei12S1JMU3lUVjBLbHVPM2h2ajBJSGc0X2QzaWFRTWh4dkV5Ykl2QUdPaTFOQlJoRFEwa0p1Sm0yLU8yZG9tdQ?oc=5) |
 | 2026-09-23 | Factory Access May Define Korea’s Physical AI Edge More Than Just Better Models - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTE1taEk2Vk01U2lDY3FOXy1SSU1lT3NYVGRDNUx6a19POVZqbnA5MGVUdGdJQXVuOVBZYnZoMTBraUdtOHk3Mm1EU211ZGtFdUdUby1SR1NOcFA2QmlDSHhfWjJPMVBNWlp1anVXQ3pFM3A0ejY4OU5US0RVdXM?oc=5) |
-| 2026-09-22 | Can Patent Filings Help Physical AI Companies Raise Capital? - foley.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxPV21KNlZKV1o0UGJldWtLZFd3RUJPWTJKQnhid3pzSDhRT1g1UTdmcG1wZk52Z0djOUIzdHRtTThlaWtGXzFJb1NXZ2gxZnhkRFlrRXBkNXlrY2p5b2JzM1l1MDUyUGhacFBiUC1XRUVMaTdiOU1hc1dJTXc1Y0tDLS0ybHV6ZFQyWXB2NVo4NDRaVnkwQ2JBTm93UE5fMmp6MmNRS1BITDh2aXFEMnF3OHpR?oc=5) |
+| 2026-09-22 | Can Patent Filings Help Physical AI Companies Raise Capital? - Foley & Lardner LLP | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxPV21KNlZKV1o0UGJldWtLZFd3RUJPWTJKQnhid3pzSDhRT1g1UTdmcG1wZk52Z0djOUIzdHRtTThlaWtGXzFJb1NXZ2gxZnhkRFlrRXBkNXlrY2p5b2JzM1l1MDUyUGhacFBiUC1XRUVMaTdiOU1hc1dJTXc1Y0tDLS0ybHV6ZFQyWXB2NVo4NDRaVnkwQ2JBTm93UE5fMmp6MmNRS1BITDh2aXFEMnF3OHpR?oc=5) |
 | 2026-09-22 | This startup secures legal video data for physical AI - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZM0pkYkZEM1NTVlBiYWpkY0FRcEk1UU9BWDZpZlpyWTdaUUFOZ1hpTjZrM0VTbFBxVXR2Mm9kRFl3blZOZU9pZzVNS0NwVkxyUkpJaTFIWWoyWkF0QUNfQjVKOE9DRVczWmpabDIxNElwZ3FtRzY3ZDNHOA?oc=5) |
 | 2026-09-22 | Embodied AI Startup Paxini Kicks Off Mainland IPO Bid Amid Sector Volatility - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXNPQlhxZ3I0dzE4c3VFRHZjMTB3a3ppMDdHcGR3RHQtY1VjVUt2eEdlSm9uNWNGTHcydEIwbEJxdHdKTDE0U0tJRlhnT2p2REE5blJSWVhKRnlMQzdvTERWaVN1VE9pZ2Znck00QzdJYTlURy1SLVJiLVFuZFAxVUxyV3AzaEVRMi00WkVoYU93cmdqNjlzRVZGVXB5Yko1UWRWUWxFaWVCSEdkTHl6MFM0QUVsVzRIMWJ3eE4xM0U1cVpqRlRROGdRNA?oc=5) |
 | 2026-09-21 | MISUMI Americas Launches Venture Fund for Robotics, Hardware, Physical AI Startups - Supply & Demand Chain Executive | physical ai startup | [link](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU1JPTTNlYXpRWTM4VlFhSlFucjJxY1V0ejJxRmFhWmlSQ3RoZjZwdjdseHc3aFNaaEpVbFBQN1ZTdEZQQ2hxUXliNTlGRktZT0VkeElITVUwYkdlbWZKZUdaVW80V1diUUg1d0QtOGtwUUtSeU5uYWZaeW5ILXl6Y2lFeTVPd2JoMGZDY2c1Wk1iNVBOQXp4QUNaTG9TaUVlWFF0WnFGQVNHYl82RGhlaTBDYjNEZGRENEswaF9BeVpONGs4WTdTTXZUNDZxVXJIRDJwYzh2YkVldE9BQnFXcEViamZPcUktSk9ObmlR?oc=5) |
-| 2026-09-21 | Vantora, Formerly UP.Labs, Raises $100M to Build Proprietary Physical AI Startups for Corporate Partners - theaiinsider.tech | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ21kRVNON3NjQi1UR1BrQzFEQUNhaUc1UWEzOUJ6c0RpSU5YRm1LYUcxb2VmaW1icXBHY0U3OHBSdHhSdEpnSG1BeDF2bTRabFNMNVBBSFVRZkhpb2Fsd2pmSTNBc3d6cFNSUGRpWG5LQzkteEdUSTQ0LXFwWHhyVkU2WU84UEVZMTNLMFg2MG9IQlNfNFNzVFdCd1J5b3JOX2dlb1JJQU1rdXBpT0w0dUxOaHVMajhWTXc2ZFVha0NTUDRVWHpBbmZqbDNackE4RXYzVWNn?oc=5) |
+| 2026-09-21 | Vantora, Formerly UP.Labs, Raises $100M to Build Proprietary Physical AI Startups for Corporate Partners - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ21kRVNON3NjQi1UR1BrQzFEQUNhaUc1UWEzOUJ6c0RpSU5YRm1LYUcxb2VmaW1icXBHY0U3OHBSdHhSdEpnSG1BeDF2bTRabFNMNVBBSFVRZkhpb2Fsd2pmSTNBc3d6cFNSUGRpWG5LQzkteEdUSTQ0LXFwWHhyVkU2WU84UEVZMTNLMFg2MG9IQlNfNFNzVFdCd1J5b3JOX2dlb1JJQU1rdXBpT0w0dUxOaHVMajhWTXc2ZFVha0NTUDRVWHpBbmZqbDNackE4RXYzVWNn?oc=5) |
 | 2026-09-21 | Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year - Reuters | embodied ai startup | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaUV3UzJ5MVVnR0c2b0hlQ0s4OGZEWS01alZ1TldLbmR1ZFMtZFE1S0V6WFVTOEFnSXVfMlNmSWpYRl9LVDhha2dydmkyaGlUckpYVUxEdWgzWUNjMkx3ZmxQdGRFQ2ZDdHNUZzFkNWNQZU82RHRiSjYwUmlscjdVQmhxbktkdU94SEJub1hYUDBqNUtIY1M4bjl0a2lUV3U5Q09jbmpTRVNVQlAtNUlGY2RPMTFDdExuSzlWYU5vbkJZdGhwbmtV?oc=5) |
 | 2026-09-21 | Alibaba-linked firm takes stake in embodied AI startup Moqi - Tech in Asia | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxOLXZNbWpmUnpVay1kRkFfQ2hON0lOXzl4UU9mNndLQlF5TUNoOFpLNF9FV2lKWjExZmxNeWdRQ1lfbzZ4YjJWLWZkei1FLW15cEhTRmp6ZmJIM0VxVnRhT0R2WUxPOGhNVVFweU9ZVE5VdHhqbGtLX205Ymw0TW9heVlKbF83TXdVT2JORjhWNUc?oc=5) |
 
@@ -123,6 +123,8 @@ _No items collected yet._
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-09-24 | IT Operations Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4716299006) |
+| 2026-09-24 | Staff Systems Integration Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6083311004) |
+| 2026-09-24 | Staff Triage & RCA Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6128829004) |
 | 2026-09-22 | Electrical Engineering Intern [Fall 2026] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4676467006) |
 | 2026-09-21 | Senior Hardware Test Engineer - Mechatronics | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6019178004) |
 | 2026-09-21 | Staff HiL SW Infrastructure Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6105233004) |
@@ -130,8 +132,6 @@ _No items collected yet._
 | 2026-09-17 | Security Engineer, Enterprise Security | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4714390006) |
 | 2026-09-17 | Security Engineer - Infrastructure Security | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4714381006) |
 | 2026-09-17 | Senior Systems Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5833390004) |
-| 2026-09-17 | Staff Firmware Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5789714004) |
-| 2026-09-17 | Staff Systems Engineer, Functional Safety | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5986772004) |
 
 ## Automation
 
