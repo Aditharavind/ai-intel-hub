@@ -1,5 +1,26 @@
 [
   {
+    "title": "Hackaday Podcast Episode 388: RAM-Swapping on Raspberry Pi, Raindrops on Radar, and a Fine Mesh",
+    "source": "Hackaday",
+    "date": "2026-09-25",
+    "url": "https://hackaday.com/2026/09/25/hackaday-podcast-episode-388-ram-swapping-on-raspberry-pi-raindrops-on-radar-and-a-fine-mesh/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>This week, Hackaday Editors Elliot Williams and Al Williams had a lot to talk about. From advice for a young hacker to using a laser to break into a microcontroller, <a class=\"read-more\" href=\"https://hackaday.com/2026/09/25/hackaday-podcast-episode-388-ram-swapping-on-raspberry-pi-raindrops-on-radar-and-a-fine-mesh/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Did The BBC and Sir Clive Get it Right Twenty Years Ago?",
+    "source": "Hackaday",
+    "date": "2026-09-25",
+    "url": "https://hackaday.com/2026/09/25/did-the-bbc-and-sir-clive-get-it-right-twenty-years-ago/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/bbc-future-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Predictions of the future are often laughable when reviewed in the years for which they are made. For example, here in 2026 we neither live on the Moon, nor have <a class=\"read-more\" href=\"https://hackaday.com/2026/09/25/did-the-bbc-and-sir-clive-get-it-right-twenty-years-ago/\">&#8230;read more</a>"
+  },
+  {
+    "title": "This Week in Security: FBI Gets Hacked, Muse Vulnerable to ClickFix, Popular Rust Developers at Risk, and New Attacks Against RSA",
+    "source": "Hackaday",
+    "date": "2026-09-25",
+    "url": "https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-and-new-attacks-against-rsa/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The prolific ShinyHunters group has announced it used a zero-day vulnerability in Oracle PeopleSoft to exploit the FBI jobs website and gain access to the AWS GovCloud instances and dump <a class=\"read-more\" href=\"https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-and-new-attacks-against-rsa/\">&#8230;read more</a>"
+  },
+  {
     "title": "What Should Pine64 Build With Microcontrollers?",
     "source": "Hackaday",
     "date": "2026-09-25",
@@ -42,11 +63,25 @@
     "summary": "<div><img alt=\"MemBrowse Dashboard\" class=\"attachment-medium size-medium wp-post-image\" height=\"345\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/MemBrowse-Dashboard-720x345.png\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>MemBrowse tool allows embedded software developers to track the RAM and flash footprint of their firmware in continuous integration, with support for GitHub Actions, GitLab CI/CD, and other CI solutions. Engineers can monitor footprint changes in a granular way each time code is submitted to their project, instead of finding out when the firmware image stops fitting into the target&#8217;s flash, or can&#8217;t run due to excessive RAM usage. MemBrowse also provides the full history showing how memory usage progressed over time, and how much is left for extra features. MemBrowse key features: Integrates with CI/CD &#8211; It works with GitHub Actions, GitLab CI, Jenkins, and other CI systems. Automatic memory tracking on every commit to your main branch. The open-source MemBrowse CLI parses the project&#8217;s ELF file and linker script, extracts memory usage data, and uploads a report to the MemBrowse Portal. PR comments show how much memory each [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/25/membrowse-continuously-tracks-firmware-memory-footprint-is-free-for-open-source-projects/\">MemBrowse continuously tracks firmware memory footprint, is free for open-source projects</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Google’s SunCatcher aims for datacentres in space with TPU moonshot",
+    "title": "Ezurio Unveils BL54LM20 Bluetooth LE Modules",
+    "source": "Embedded.com",
+    "date": "2026-09-25",
+    "url": "https://www.embedded.com/ezurio-unveils-bl54lm20-bluetooth-le-modules/",
+    "summary": "<p>Ezurio has launched the BL54LM20 Series of Bluetooth LE modules. The new family includes the BL54LM20A with Bluetooth LE Core 6.x, 802.15.4 (Thread/Matter), and NFC; the BL54LM20B with Bluetooth LE, 802.15.4, NFC, and an edge AI neural processing unit (NPU); and the BL54LM20B USB-C adapter for Bluetooth LE and 802.15.4 connectivity. The BL54LM20 Series, built [...]</p>\n<p>The post <a href=\"https://www.embedded.com/ezurio-unveils-bl54lm20-bluetooth-le-modules/\">Ezurio Unveils BL54LM20 Bluetooth LE Modules</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "The Bringer Of Peace, Love And A Kicking",
+    "source": "Electronics Weekly",
+    "date": "2026-09-25",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-bringer-of-peace-love-and-a-kicking-2026-09/",
+    "summary": "<p>In May 1998 EW carried this yarn: ’Intel chairman Andy Grove, having handed over operational duties to president Craig Barrett, was discharging his new role as industry mentor in Asia [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-bringer-of-peace-love-and-a-kicking-2026-09/\">The Bringer Of Peace, Love And A Kicking</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Google’s Suncatcher aims for datacentres in space with TPU moonshot",
     "source": "Electronics Weekly",
     "date": "2026-09-25",
     "url": "https://www.electronicsweekly.com/news/googles-suncatcher-aims-for-datacentres-in-space-with-tpu-moonshot-2026-09/",
-    "summary": "<p>Google&#8217;s Project Suncatcher is scheduled to send its first prototype satellite into orbit next week, to evaluate how Google Tensor Processing Units (TPUs) perform in space. It describes the project [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/googles-suncatcher-aims-for-datacentres-in-space-with-tpu-moonshot-2026-09/\">Google&#8217;s SunCatcher aims for datacentres in space with TPU moonshot</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Google&#8217;s Project Suncatcher is scheduled to send its first prototype satellite into orbit next week, to evaluate how Google Tensor Processing Units (TPUs) perform in space. Google describes the project [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/googles-suncatcher-aims-for-datacentres-in-space-with-tpu-moonshot-2026-09/\">Google&#8217;s Suncatcher aims for datacentres in space with TPU moonshot</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "QSM603FCP smart board supports AIoT for Android, Linux",
@@ -105,11 +140,18 @@
     "summary": "<p>Mikroe, the click board specialist, has come up  its Spatial Anchor S1 and Spatial Anchor R1 precise spatial accessory tracking modules for Apple’s Vision Pro headset. Both are now shipping [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/spatial-accessory-tracking-modules-for-apples-vision-pro-2026-09/\">Spatial accessory trackers for Apple headsets</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "The Nanometer Stakes",
-    "source": "Electronics Weekly",
+    "title": "Adafruit LIS3DH Triple-Axis Accelerometer Breakout",
+    "source": "Adafruit",
     "date": "2026-09-25",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/manuf/the-nanometer-stakes-2026-09/",
-    "summary": "<p>In the Nanometer Stakes, the comparative  yield count on 2nm seems to be TSMC on 90%, Intel on 85% and Samsung on 70%. On 2nm wafer output, Intel is on [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/manuf/the-nanometer-stakes-2026-09/\">The Nanometer Stakes</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/09/25/adafruit-lis3dh-triple-axis-accelerometer-breakout/",
+    "summary": "The LIS3DH is a very popular low power triple-axis accelerometer. It&#8217;s low-cost, but has just about every &#8216;extra&#8217; you&#8217;d want in an accelerometer: Three axis sensing ±2g/±4g/±8g/±16g selectable scaling Both I2C (2 possible addresses) and SPI interface options Interrupt output Multiple data rate options 1 Hz to 5Khz As low as 2uA current draw (just [&#8230;]"
+  },
+  {
+    "title": "Get Ready for Electronic Halloween with NeoPixel Jewel",
+    "source": "Adafruit",
+    "date": "2026-09-25",
+    "url": "https://blog.adafruit.com/2026/09/25/get-ready-for-electronic-halloween-with-neopixel-jewel/",
+    "summary": "&#160; &#160; Be the belle of the Halloween ball with the NeoPixel Jewel! We fit seven of our tiny 5050 (5mm x 5mm) smart RGB LEDs onto a beautiful, round PCB with mounting holes and a chainable design to create what we think is our most elegant (and evening-wear appropriate) NeoPixel board yet. Get started [&#8230;]"
   },
   {
     "title": "CircuitPython 11.0.0-alpha.1 Released!",
@@ -126,25 +168,39 @@
     "summary": "zoilomora shares: A Pi 5 case designed for Tvheadend builds using the Raspberry Pi TV HAT. Fits the Pimoroni NVMe Base (much faster than MicroSD) but also still supports MicroSD. TV HAT housed on the side to not block Active Cooler airflow. Ventilation holes in lid for the cooler. Includes a template to help build [&#8230;]"
   },
   {
-    "title": "Robot Makes Literal Daisy Chains",
-    "source": "Hackaday",
-    "date": "2026-09-24",
-    "url": "https://hackaday.com/2026/09/24/robot-makes-literal-daisy-chains/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/I-Made-A-Robot-That-Makes-Daisy-Chains-1-6-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Jude Robinson]&#8217;s robot Daisy has an unusual function: making a literal chain of daisies. The device is his student final project and demonstrates how a system can replace sensing with <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/robot-makes-literal-daisy-chains/\">&#8230;read more</a>"
+    "title": "Syslogic Railway Computer RML 83: Maintenance-Free. Rugged. Flexible.",
+    "source": "EE Journal",
+    "date": "2026-09-25",
+    "url": "https://www.eejournal.com/industry_news/syslogic-railway-computer-rml-83-maintenance-free-rugged-flexible/",
+    "summary": "Coinciding with InnoTrans, Syslogic is expanding its railway technology portfolio with the EN 50155-certified Railway Computer RML 83. The compact railway computer is based on a SMARC module featuring an Intel® Atom™ Amston Lake processor. This modular architecture simplifies custom hardware adaptations and shortens development time. Versatile Interfaces, Customizable on Request The Railway Computer RML &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/syslogic-railway-computer-rml-83-maintenance-free-rugged-flexible/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Syslogic Railway Computer RML 83: Maintenance-Free. Rugged. Flexible.\"</span></a>"
   },
   {
-    "title": "A 7-Segment Clock Built With No Digital Electronics",
-    "source": "Hackaday",
-    "date": "2026-09-24",
-    "url": "https://hackaday.com/2026/09/24/a-7-segment-clock-built-with-no-digital-electronics/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/This-1970s-_Digital_-Clock-Has-No-Electronics-Inside-7-23-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you wanted to build a clock with a 7-segment display, there are a wide variety of ways you might go about it. You could grab some 74-series logic chips <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/a-7-segment-clock-built-with-no-digital-electronics/\">&#8230;read more</a>"
+    "title": "FLUX GmbH Launches IND-ROT-G Encoder for Harsh, Space-Constrained Environments",
+    "source": "EE Journal",
+    "date": "2026-09-25",
+    "url": "https://www.eejournal.com/industry_news/flux-gmbh-launches-ind-rot-g-encoder-for-harsh-space-constrained-environments/",
+    "summary": "FLUX GmbH (FLUX), a high-precision encoder company, has today announced the launch of IND-ROT-G, a guarded, IP67-rated addition to its IND-ROT inductive rotary encoder series. The new series gives design engineers true absolute position feedback in a compact format, with the environmental protection needed to operate in dusty, wet and contaminated conditions. The IND-ROT series &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/flux-gmbh-launches-ind-rot-g-encoder-for-harsh-space-constrained-environments/\">Read More &#8594;<span class=\"screen-reader-text\"> \"FLUX GmbH Launches IND-ROT-G Encoder for Harsh, Space-Constrained Environments\"</span></a>"
   },
   {
-    "title": "Handheld Scanner is a Radio Multi-tool",
-    "source": "Hackaday",
-    "date": "2026-09-24",
-    "url": "https://hackaday.com/2026/09/24/handheld-scanner-is-a-radio-multi-tool/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/Screenshot-2026-09-24-170458-1-e1790233550318.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>These days, it&#8217;s possible to cram a whole lot of radio functionality into a very compact device. A great example of that is the LakeShark scanner from [SAMS0N1TE]. The LakeShark <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/handheld-scanner-is-a-radio-multi-tool/\">&#8230;read more</a>"
+    "title": "OPTIFICIENT™ software solution by Industrial Analytics helps reduce energy consumption and operating costs of heating, ventilation and air conditioning systems",
+    "source": "EE Journal",
+    "date": "2026-09-25",
+    "url": "https://www.eejournal.com/industry_news/optificient-software-solution-by-industrial-analytics-helps-reduce-energy-consumption-and-operating-costs-of-heating-ventilation-and-air-conditioning-systems/",
+    "summary": "Industrial Analytics IA GmbH, an Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) company, will showcase its software solution OPTIFICIENT™ at EXPO REAL 2026. Rising temperatures and increasing cooling demand are putting growing pressure on facility management teams to optimize heating, ventilation and air conditioning systems across entire buildings and facility portfolios – not only &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/optificient-software-solution-by-industrial-analytics-helps-reduce-energy-consumption-and-operating-costs-of-heating-ventilation-and-air-conditioning-systems/\">Read More &#8594;<span class=\"screen-reader-text\"> \"OPTIFICIENT™ software solution by Industrial Analytics helps reduce energy consumption and operating costs of heating, ventilation and air conditioning systems\"</span></a>"
+  },
+  {
+    "title": "Darveen MIC-9X02GLF Honored with Edge Award for Edge AI and Industrial Automation",
+    "source": "EE Journal",
+    "date": "2026-09-25",
+    "url": "https://www.eejournal.com/industry_news/darveen-mic-9x02glf-honored-with-edge-award-for-edge-ai-and-industrial-automation/",
+    "summary": "Darveen is proud to announce that its MIC-9X02GLF series has received an Edge Award from Machine Design, recognizing its innovative design and capabilities for Edge AI and industrial automation. The MIC-9X02GLF combines high-performance computing, powerful GPU expansion, flexible I/O, and industrial-grade reliability in a rugged platform for demanding edge applications. MIC-9X02GLF: Built for Edge AI &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/darveen-mic-9x02glf-honored-with-edge-award-for-edge-ai-and-industrial-automation/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Darveen MIC-9X02GLF Honored with Edge Award for Edge AI and Industrial Automation\"</span></a>"
+  },
+  {
+    "title": "Fish Fry 700: Photon-Powered Nanobots, Synthetic DNA Memristors and Minuscule Nanolasers",
+    "source": "EE Journal",
+    "date": "2026-09-25",
+    "url": "https://www.eejournal.com/fish_fry/fish-fry-700-photon-powered-nanobots-synthetic-dna-memristors-and-minuscule-nanolasers/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/iStock-2225759763-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />To celebrate the 700th episode of Amelia’s Weekly Fish Fry, we’re diving big into the world of microscopic tech! Tune in to discover light-powered microbots capable of hunting down bacteria, innovative memristors combining synthetic DNA and semiconductor technology for ultra-low-power computing, and breakthrough nanolasers that promise to halve energy consumption in next-generation processors.  &#160; &#160; &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/fish_fry/fish-fry-700-photon-powered-nanobots-synthetic-dna-memristors-and-minuscule-nanolasers/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Fish Fry 700: Photon-Powered Nanobots, Synthetic DNA Memristors and Minuscule Nanolasers\"</span></a>"
   },
   {
     "title": "Qualcomm releases Linux developer preview for the Snapdragon X2 Series",
@@ -238,20 +294,6 @@
     "summary": "A design lamp based on the BambuLab MH001 Kit. Great as a courtesy light or reading light. Minimalist design fits any corner of the home or office. Simple to print and assemble. Perfect for makers looking for a clean, functional accent piece. By OfficineCasperLAB Download files: https://makerworld.com/en/models/1030720-minimal-led-lamp-bambulab-mh001-kit#profileId-1013495 Every Thursday is #3dthursday here at Adafruit! The [&#8230;]"
   },
   {
-    "title": "Halloween Mini Figures Set #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-09-24",
-    "url": "https://blog.adafruit.com/2026/09/24/halloween-mini-figures-set-3dthursday-3dprinting/",
-    "summary": "oramafanis shares: A collection of five adorable mini figures — Ghost, Witch Pumpkin, Frankie, Mummy, and Skull. Originally designed to fit in an advent calendar drawer. Every figure features a small hole on top for versatile use: hanging ornaments, keychains, Halloween gift bags, party favors, classroom rewards, trick-or-treat gifts, or spooky desk decorations. A1 Mini [&#8230;]"
-  },
-  {
-    "title": "3D Hangouts – FruitMesh, Monster Eyes and Skull Spine",
-    "source": "Adafruit",
-    "date": "2026-09-24",
-    "url": "https://blog.adafruit.com/2026/09/24/3d-hangouts-fruitmesh-monster-eyes-and-skull-spine/",
-    "summary": "3D Hangouts – E-Ink FruitMesh, Monster Eyes and Skull Spine https://youtube.com/live/WRx1svLihfA?feature=share This week @adafruit Pedro published and showcased his IoT E-ink Meshtatstic project. Noe is prototyping a new project using Monster Eyes and round TFT displays. Timelapse this week features a print-in-place skull with spline. Learn Guide: https://learn.adafruit.com/meshfruit-message-board Project YouTube Video https://youtu.be/FxuyWbHRbRs 4.2 300&#215;400 Tri-Color [&#8230;]"
-  },
-  {
     "title": "Trilogic Systems Partners with Tekdense, Expanding Its North American Presence in High-Performance Rugged Computing for Aerospace and Defense Markets",
     "source": "EE Journal",
     "date": "2026-09-24",
@@ -322,34 +364,6 @@
     "summary": "<p>Windows-only embedded toolchains cost teams in hiring, re-qualification, and debugging time. See how a certified cross-platform IDE truly closes that gap.</p>\n<p>The post <a href=\"https://www.embedded.com/where-developer-choice-broke-down-in-embedded-software-development/\">Where Developer Choice Broke Down in Embedded Software Development </a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Infineon’s PSOC™ Control C3 Performance Line sets new standard for real-time control and PQC security",
-    "source": "EE Journal",
-    "date": "2026-09-23",
-    "url": "https://www.eejournal.com/industry_news/infineons-psoc-control-c3-performance-line-sets-new-standard-for-real-time-control-and-pqc-security/",
-    "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) today announced the launch of its PSOC™ Control C3 Performance Line microcontroller family to enable real-time control for power and motor applications. The new family of microcontrollers (MCUs) offers best-in-class performance through high control loop frequency, accuracy and system efficiency. Based on Arm® Cortex®-M33 multi-core architecture, PSOC &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/infineons-psoc-control-c3-performance-line-sets-new-standard-for-real-time-control-and-pqc-security/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Infineon’s PSOC™ Control C3 Performance Line sets new standard for real-time control and PQC security\"</span></a>"
-  },
-  {
-    "title": "Compact 60W and 150W DC-DC converters simplify power design for BF- and CF-rated medical equipment",
-    "source": "EE Journal",
-    "date": "2026-09-23",
-    "url": "https://www.eejournal.com/industry_news/compact-60w-and-150w-dc-dc-converters-simplify-power-design-for-bf-and-cf-rated-medical-equipment/",
-    "summary": "XP Power introduces the QAM60T and HBM150C series of medical DC-DC converters, delivering 60W and 150W respectively in compact, industry-standard brick packages. Designed for BF- and CF-rated medical equipment, the new converters provide reliable, space-efficient power conversion for increasingly compact and power-demanding applications including patient monitoring, medical imaging and diagnostics, patient treatment equipment, and surgical &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/compact-60w-and-150w-dc-dc-converters-simplify-power-design-for-bf-and-cf-rated-medical-equipment/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Compact 60W and 150W DC-DC converters simplify power design for BF- and CF-rated medical equipment\"</span></a>"
-  },
-  {
-    "title": "STMicroelectronics delivers advanced context-aware sensors in ST Sustainable Technology framework",
-    "source": "EE Journal",
-    "date": "2026-09-23",
-    "url": "https://www.eejournal.com/industry_news/stmicroelectronics-delivers-advanced-context-aware-sensors-in-st-sustainable-technology-framework/",
-    "summary": "6-axis motion sensors ready for toughest sustainable-materials codes Advanced context sensing for smart devices and drones STMicroelectronics’ newest miniature motion sensors feature enhanced precision for accurate event reconstruction while meeting the most stringent sustainable-materials standards. The new 6-axis sensors, or inertial measurement units (IMU), will be used in consumer devices like fitness trackers, smart tags, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/stmicroelectronics-delivers-advanced-context-aware-sensors-in-st-sustainable-technology-framework/\">Read More &#8594;<span class=\"screen-reader-text\"> \"STMicroelectronics delivers advanced context-aware sensors in ST Sustainable Technology framework\"</span></a>"
-  },
-  {
-    "title": "Valens Semiconductor to Collaborate with onsemi on a Cost-Optimized Integrated Sensor Based on the MIPI A-PHY Standard",
-    "source": "EE Journal",
-    "date": "2026-09-23",
-    "url": "https://www.eejournal.com/industry_news/valens-semiconductor-to-collaborate-with-onsemi-on-a-cost-optimized-integrated-sensor-based-on-the-mipi-a-phy-standard/",
-    "summary": "Valens Semiconductor (NYSE: VLN), a leading provider of high-performance connectivity chipsets, today announced a collaboration with onsemi on a cost-optimized integrated sensor for high-volume 3-megapixel automotive camera applications. Through this collaboration the parties intend to give OEMs and Tier 1s a faster path to A-PHY. Under the agreement, Valens will work with onsemi on the &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/valens-semiconductor-to-collaborate-with-onsemi-on-a-cost-optimized-integrated-sensor-based-on-the-mipi-a-phy-standard/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Valens Semiconductor to Collaborate with onsemi on a Cost-Optimized Integrated Sensor Based on the MIPI A-PHY Standard\"</span></a>"
-  },
-  {
     "title": "Gearotons M17 – A low-cost NEMA-17 4-in-1 servomotor with driver, motion controller, and encoder",
     "source": "CNX Software",
     "date": "2026-09-22",
@@ -376,13 +390,6 @@
     "date": "2026-09-22",
     "url": "https://www.embedded.com/mediatek-debuts-cx-c10-soc-for-ai-first-googlebook-laptops/",
     "summary": "<p>MediaTek has unveiled the Dimensity CX C10 Max system-on-chip (SoC), the first chip in the company's new Dimensity Compute Experiences (CX) family. The flagship CX chip delivers high performance, advanced functionality, and higher power efficiency for an upcoming premium, ultra-portable Googlebook device. The Dimensity CX C10 Max SoC is built on TSMC's advanced 3-nm process. [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mediatek-debuts-cx-c10-soc-for-ai-first-googlebook-laptops/\">MediaTek Debuts CX C10 SoC for AI-First Googlebook Laptops</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "FSP Unveils the World’s First 80 PLUS 230V Ruby-Certified ATX Power Supply, Leading the Green Revolution in Next-Gen AI Computing",
-    "source": "EE Journal",
-    "date": "2026-09-22",
-    "url": "https://www.eejournal.com/industry_news/fsp-unveils-the-worlds-first-80-plus-230v-ruby-certified-atx-power-supply-leading-the-green-revolution-in-next-gen-ai-computing/",
-    "summary": "As the global wave of artificial intelligence (AI) accelerates, the surge in large language model training and edge-side inference has driven an exponential demand for computational power, bringing unprecedented challenges in energy consumption. A global trailblazer in power supply architectures, FSP Group today officially announced a groundbreaking innovation: the world’s first 850W ATX power supply &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/fsp-unveils-the-worlds-first-80-plus-230v-ruby-certified-atx-power-supply-leading-the-green-revolution-in-next-gen-ai-computing/\">Read More &#8594;<span class=\"screen-reader-text\"> \"FSP Unveils the World&#8217;s First 80 PLUS 230V Ruby-Certified ATX Power Supply, Leading the Green Revolution in Next-Gen AI Computing\"</span></a>"
   },
   {
     "title": "Realtek RTL8773J – A Bluetooth 7-ready Cortex-M55/M33 microcontroller with HDT support",
@@ -418,12 +425,5 @@
     "date": "2026-09-20",
     "url": "https://www.cnx-software.com/2026/09/20/high-end-8-channel-oscilloscope-features-12-core-amd-epyc-cpu-96gb-ram-15-6-inch-display/",
     "summary": "<div><img alt=\"Tektronix DPO718AX - An 8-channel oscilloscope with 25 GHz bandwidth and 125 GSs sampling\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Tektronix-DPO714AX-A-8-channel-oscilloscope-with-25-GHz-bandwidth-and-125-GSs-sampling-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Tektronix has launched the 7 Series DPO (Digital Phosphor Oscilloscope), and the company claims the DPO718AX model is the world&#8217;s first 8-channel performance oscilloscope with up to 25 GHz analog bandwidth per channel (and 125 GS/s sampling). The new family is designed for high-speed serial compliance testing, wideband RF analysis, and high-energy physics research. Powered by a 12-core AMD EPYC Embedded 3351 processor paired with 96 GB RAM, 1.6 TB storage, an NVIDIA T1000 GPU, and a 15.6-inch touchscreen display, the oscilloscope looks like a high-end PC running Linux (or Windows 10 LTSC). It also includes a 10 Gbps SFP+ port with TekHSI technology for transferring large waveform datasets to an external PC, with Tektronix specifying up to 11x higher throughput. Tektronix 7 Series DPO key specifications: SoC – 12-core AMD EPYC Embedded 3351 12-core processor @ 3 GHz GPU &#8211; NVIDIA T1000 GPU with 896 NVIDIA CUDA cores System [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/20/high-end-8-channel-oscilloscope-features-12-core-amd-epyc-cpu-96gb-ram-15-6-inch-display/\">High-end 8-channel oscilloscope features 12-core AMD EPYC CPU, 96GB RAM, 15.6-inch display, and more</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Designing SWaP-Optimized Compute for UAVs, MIPI Alliance Kinematics Working Group, ESD eBook: Embedded Week Insights",
-    "source": "Embedded.com",
-    "date": "2026-09-18",
-    "url": "https://www.embedded.com/designing-swap-optimized-compute-for-uavs-mipi-alliance-kinematics-working-group-esd-ebook-embedded-week-insights/",
-    "summary": "<p>Here's a roundup of this week's must-read articles. We'll look into the latest developments on designing SWaP-optimized compute for UAVs, MIPI Alliance's new Kinematics Working Group, 140-W USB-C chargers with GaN, and more. Don't miss the ESD September/October 2026 eBook, ready for download. Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete list [...]</p>\n<p>The post <a href=\"https://www.embedded.com/designing-swap-optimized-compute-for-uavs-mipi-alliance-kinematics-working-group-esd-ebook-embedded-week-insights/\">Designing SWaP-Optimized Compute for UAVs, MIPI Alliance Kinematics Working Group, ESD eBook: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
