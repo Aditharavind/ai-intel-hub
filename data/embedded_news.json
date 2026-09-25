@@ -1,10 +1,24 @@
 [
   {
-    "title": "The Nanometer Stakes",
-    "source": "Electronics Weekly",
+    "title": "GM’s Experimental EV from 1969",
+    "source": "Hackaday",
     "date": "2026-09-25",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/manuf/the-nanometer-stakes-2026-09/",
-    "summary": "<p>In the Nanometer Stakes, the comparative  yield count on 2nm seems to be TSMC on 90%, Intel on 85% and Samsung on 70%. On 2nm wafer output, Intel is on [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/manuf/the-nanometer-stakes-2026-09/\">The Nanometer Stakes</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://hackaday.com/2026/09/24/gms-experimental-ev-from-1969/",
+    "summary": "<div><img alt=\"A small orange car with a bold horizontal white stripe and the text &quot;XP 512E&quot; emblazoned on the side. The footprint of the vehicle barely exceeds the size of the seats, almost like an Isetta, but the top canopy opens upward and the lower front fascia contains a side opening door. If it were green, it would probably be what an LLM would generate with the prompt, &quot;Make a car that looks like a frog.&quot;\" class=\"attachment-large size-large wp-post-image\" height=\"500\" src=\"https://hackaday.com/wp-content/uploads/2026/09/wide-1969_XP-512E_front-side.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Electricity is the once and future drivetrain for automobiles, but until the advent of lithium batteries their capabilities were somewhat modest. One EV blip on the automotive timeline is the <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/gms-experimental-ev-from-1969/\">&#8230;read more</a>"
+  },
+  {
+    "title": "FPGA for All — CERN Releases “colibri” VHDL Library",
+    "source": "Hackaday",
+    "date": "2026-09-25",
+    "url": "https://hackaday.com/2026/09/24/fpga-for-all-cern-releases-colibri-vhdl-library/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"480\" src=\"https://hackaday.com/wp-content/uploads/2026/09/colibri_cover_art-1024x614-1.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Since you&#8217;re reading Hackaday, we&#8217;re pretty sure CERN needs no introduction, so we&#8217;ll get right to it&#8211; they&#8217;re giving back again, this time with a VHDL library called &#8220;colibri&#8221; containing <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/fpga-for-all-cern-releases-colibri-vhdl-library/\">&#8230;read more</a>"
+  },
+  {
+    "title": "MemBrowse continuously tracks firmware memory footprint, is free for open-source projects",
+    "source": "CNX Software",
+    "date": "2026-09-25",
+    "url": "https://www.cnx-software.com/2026/09/25/membrowse-continuously-tracks-firmware-memory-footprint-is-free-for-open-source-projects/",
+    "summary": "<div><img alt=\"MemBrowse Dashboard\" class=\"attachment-medium size-medium wp-post-image\" height=\"345\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/MemBrowse-Dashboard-720x345.png\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>MemBrowse tool allows embedded software developers to track the RAM and flash footprint of their firmware in continuous integration, with support for GitHub Actions, GitLab CI/CD, and other CI solutions. Engineers can monitor footprint changes in a granular way each time code is submitted to their project, instead of finding out when the firmware image stops fitting into the target&#8217;s flash, or can&#8217;t run due to excessive RAM usage. MemBrowse also provides the full history showing how memory usage progressed over time, and how much is left for extra features. MemBrowse key features: Integrates with CI/CD &#8211; It works with GitHub Actions, GitLab CI, Jenkins, and other CI systems. Automatic memory tracking on every commit to your main branch. The open-source MemBrowse CLI parses the project&#8217;s ELF file and linker script, extracts memory usage data, and uploads a report to the MemBrowse Portal. PR comments show how much memory each [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/25/membrowse-continuously-tracks-firmware-memory-footprint-is-free-for-open-source-projects/\">MemBrowse continuously tracks firmware memory footprint, is free for open-source projects</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "CircuitPython 11.0.0-alpha.1 Released!",
@@ -56,20 +70,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/09/Pajoniiir1-e1790230333800.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are plenty of ways to DJ with a laptop and various controller setups. However, if you find hauling around an entire computer can be a bit much, you might <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/standalone-dj-system-runs-on-esp32/\">&#8230;read more</a>"
   },
   {
-    "title": "After Decades, NASA May Finally Replace Mars Relays",
-    "source": "Hackaday",
-    "date": "2026-09-24",
-    "url": "https://hackaday.com/2026/09/24/after-decades-nasa-may-finally-replace-mars-relays/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/09/marsnet_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We&#8217;ve yet to find any definitive evidence that there&#8217;s biological life on present-day Mars, but to say it&#8217;s a dead planet isn&#8217;t exactly accurate. Since the first Viking lander touched <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/after-decades-nasa-may-finally-replace-mars-relays/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Solar Powered Traffic Monitoring",
-    "source": "Hackaday",
-    "date": "2026-09-24",
-    "url": "https://hackaday.com/2026/09/24/solar-powered-traffic-monitoring/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/unnamed-1-e1790231993909.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Marios Christoforou] recently undertook a Computer Engineering degree at the University of Cyprus. His final year project involved implementing a solar-powered device to count vehicular traffic, while logging results to <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/solar-powered-traffic-monitoring/\">&#8230;read more</a>"
-  },
-  {
     "title": "Qualcomm releases Linux developer preview for the Snapdragon X2 Series",
     "source": "CNX Software",
     "date": "2026-09-24",
@@ -103,69 +103,6 @@
     "date": "2026-09-24",
     "url": "https://www.embedded.com/why-software-defined-vehicles-need-a-new-security-foundation/",
     "summary": "<p>SDVs expand the attack surface with continuously updated software across centralized compute and always-on connectivity, requiring a rethink in security architecture.</p>\n<p>The post <a href=\"https://www.embedded.com/why-software-defined-vehicles-need-a-new-security-foundation/\">Why Software-Defined Vehicles Need a New Security Foundation</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Gadget Watch: Googlebook goes AI with AI",
-    "source": "Electronics Weekly",
-    "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/gadget-watch/gadget-watch-googlebook-goes-ai-with-ai-2026-09/",
-    "summary": "<p>The successor to the humble Chromebook workhorse, the newly-launched Googlebook laptop is a premium product that sees the company go all-in (AI) with AI.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/gadget-watch/gadget-watch-googlebook-goes-ai-with-ai-2026-09/\">Gadget Watch: Googlebook goes AI with AI</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Bel Fuse high-density DC-DC converters track railway applications",
-    "source": "Electronics Weekly",
-    "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/products/power-supplies/bel-fuse-high-density-dc-dc-converters-track-railway-applications-2026-09/",
-    "summary": "<p>Bel Fuse has announced the XRCM200 and XRCM300 series of compact, high-density DC-DC converters for railway and transportation applications. The parts support input voltages from 16.8 VDC to 137.5 VDC, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/power-supplies/bel-fuse-high-density-dc-dc-converters-track-railway-applications-2026-09/\">Bel Fuse high-density DC-DC converters track railway applications</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Fable: The Great Man Who Was Denied A Chair",
-    "source": "Electronics Weekly",
-    "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-great-man-who-was-denied-a-chair-2026-09/",
-    "summary": "<p>One of the greatest physicists and mathematicians who ever lived was rejected when he  applied for the Chair of Natural Philosophy at Edinburgh University. A local newspaper, the Edinburgh Courant, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-great-man-who-was-denied-a-chair-2026-09/\">Fable: The Great Man Who Was Denied A Chair</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Lattice Mach-N2 FPGA family targets system control and security",
-    "source": "Electronics Weekly",
-    "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/products/fpga-pld/lattice-mach-n2-fpga-family-targets-system-control-and-security-2026-09/",
-    "summary": "<p>Lattice Semiconductor is releasing the Lattice Mach-N2 FPGA family, for system control and security in modern infrastructure. Mach-N2 combines integrated flash, a hardware Root of Trust, and CNSA 2.0-compliant post-quantum [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/fpga-pld/lattice-mach-n2-fpga-family-targets-system-control-and-security-2026-09/\">Lattice Mach-N2 FPGA family targets system control and security</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Get the Gadget Master newsletter!",
-    "source": "Electronics Weekly",
-    "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-09/",
-    "summary": "<p>Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox!</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-09/\">Get the Gadget Master newsletter!</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Univity achieves first in-orbit 5G NTN TDD connection via mmWave link",
-    "source": "Electronics Weekly",
-    "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/univity-achieves-first-in-orbit-5g-ntn-tdd-connection-via-mmwave-link-2026-09/",
-    "summary": "<p>Univity has announced the success of uniSpark, its first in-orbit technology demonstration mission and claims it as a world&#8217;s first, paving the way for new spectrum resources for satellite communications. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/univity-achieves-first-in-orbit-5g-ntn-tdd-connection-via-mmwave-link-2026-09/\">Univity achieves first in-orbit 5G NTN TDD connection via mmWave link</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Japan ponders Starlink alternatives",
-    "source": "Electronics Weekly",
-    "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/business/japan-ponders-starlink-alternatives-2026-09/",
-    "summary": "<p>Japan&#8217;s Ministry of Internal Affairs and Communications has put up $44m to support projects to make compact, lightweight universal antennas for accessing satellites, reports the Nikkei. The idea is to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/japan-ponders-starlink-alternatives-2026-09/\">Japan ponders Starlink alternatives</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "YMTC wins patent battle against Micron",
-    "source": "Electronics Weekly",
-    "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/business/ymtc-wins-patent-battle-against-micron-2026-09/",
-    "summary": "<p>YMTC has won a battle with Micron in a German court for the infringement of two patents and has been awarded injunctions protecting its IP for 10 years. The disputed [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ymtc-wins-patent-battle-against-micron-2026-09/\">YMTC wins patent battle against Micron</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Qualcomm buys PickNik",
-    "source": "Electronics Weekly",
-    "date": "2026-09-24",
-    "url": "https://www.electronicsweekly.com/news/business/qualcomm-buys-picknick-2026-09/",
-    "summary": "<p>Qualcomm has bought PickNik, a software company specialising in robotics. The move is seen as Qualcomm moving further into physical AI after its Arduino and Modular acquisitions. “Robotics is one [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qualcomm-buys-picknick-2026-09/\">Qualcomm buys PickNik</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Solder Fume Extractor #3DThursday #3DPrinting",
@@ -411,13 +348,6 @@
     "date": "2026-09-19",
     "url": "https://www.cnx-software.com/2026/09/19/openmote-an-esp32-s3-programmable-universal-remote-in-a-wiimote-shell/",
     "summary": "<div><img alt=\"OpenMote An Arduino compatible programmable universal remote for makers\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/OpenMote-An-Arduino-compatible-programmable-universal-remote-for-makers-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Hat &#38; Hammer has launched the OpenMote, an ESP32-S3-powered programmable universal remote that adopts the familiar, nostalgic form factor of a Nintendo Wiimote. It features WiFi, Bluetooth LE, an infrared (IR) transceiver, a 6-axis IMU, and Home Assistant integration, letting it control smart home devices and media centers and act as a Bluetooth gamepad without relying on cloud services. The remote is available in two configurations, which include a &#8220;Ready To Go&#8221; fully assembled version and a &#8220;Mod Your Own&#8221; bare PCB designed to drop directly into an existing Wiimote shell. Beyond standard remote functions, the OpenMote includes a built-in microphone, a speaker, and a Qwiic/STEMMA QT connector for plug-and-play hardware expansion. OpenMote specifications: Wireless Module – ESP32-S3-WROOM-1 SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM, 8MB PSRAM Storage – 16 MB flash Wireless [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/19/openmote-an-esp32-s3-programmable-universal-remote-in-a-wiimote-shell/\">OpenMote &#8211; An ESP32-S3 programmable universal remote in a Wiimote shell (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "ASUS Ascent QN10 mini PC is powered by Qualcomm Snapdragon X2 Elite 18-core Armv9 processor",
-    "source": "CNX Software",
-    "date": "2026-09-18",
-    "url": "https://www.cnx-software.com/2026/09/18/asus-ascent-qn10-mini-pc-is-powered-by-qualcomm-snapdragon-x2-elite-18-core-armv9-processor/",
-    "summary": "<div><img alt=\"ASUS Ascent QN10\" class=\"attachment-medium size-medium wp-post-image\" height=\"405\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/06/ASUS-Ascent-QN10-720x405.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ASUS Ascent QN10 is the first mini PC powered by a Qualcomm Snapdragon X2 Elite 18-core Armv9 processor with 80 TOPS of AI performance for Windows Copilot+ PCs. The powerful Arm computer ships with up to 32GB LPDDR5 memory and a 512GB to 2TB NVMe SSD. It supports up to four video outputs through one HDMI and three USB4 (40 Gbps) ports, and offers 2.5GbE and WiFi 7 networking, an audio jack, and a few extra USB 3.2/2.0 ports. ASUS Ascent QN10 specifications:  SoC &#8211; Qualcomm Snapdragon X2 Elite (Glymur 8480B / X2E-88-100) CPU – 18x Armv9 cores with 12 Prime cores up to 4.7 GHz (single/dual core) / 4.0 GHz (multicore), and 6 Performance cores up to 3.4 GHz GPU – Adreno X2-90 @ 1.70 GHz with support for DirectX 12.2 Ultimate, Vulkan 1.4, OpenCL 3.0 VPU Encode: HEVC, AVC: Dual 8K UHD @ 30 FPS, AV1: 8K UHD [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/18/asus-ascent-qn10-mini-pc-is-powered-by-qualcomm-snapdragon-x2-elite-18-core-armv9-processor/\">ASUS Ascent QN10 mini PC is powered by Qualcomm Snapdragon X2 Elite 18-core Armv9 processor</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Designing SWaP-Optimized Compute for UAVs, MIPI Alliance Kinematics Working Group, ESD eBook: Embedded Week Insights",

@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-25 02:00 UTC
+Generated: 2026-09-25 07:11 UTC
 
 ## Top Papers
 _No items collected yet._
@@ -9,10 +9,10 @@ _No items collected yet._
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83553 | 33421.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63726 | 25490.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44596 | 17838.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30583 | 12233.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28433 | 11373.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| commaai/openpilot | 63730 | 25492.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44598 | 17839.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30585 | 12234.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28438 | 11375.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -36,7 +36,7 @@ _No items collected yet._
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-09-24 | Google Cloud Identifies Three AI Stack Priorities Driving Startup Infrastructure Choices - konsulteer.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQlh0NjFBaC14TThyc2FNZlVsTnFuR1l2ek5JenhXRVJGZEhjY2V6MlJlWUV3MDZrdXFLVXE5NkJjTTBpMFE5SU9hR211WXBDMkxTOWhqYWxxMFNCX2w0NER5S01SMjc1OGM2YlZsR3JqYWFucFhGTmtXZ0dhSVlnb0VMQ29Ub0YwelF1eENaamJTejBZT09oRHNVZ19Ga05YTmZpNEx1cllPX0Nma25jM0pnbEkyZXJfaEpEbzBOWWc?oc=5) |
+| 2026-09-24 | Japanese humanoid robotics startup O-ID raises $1.2 million to move modular robot into production - Robotics & Automation News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPT1MyRTFZOGZiWHp0MmhxWEo0TTR2SHljX25zZFFES0wzdHBUeTRoOE1yLWVlYzZQbGEzbkJNc0Z2THFRbVNLaUhyMGRFc1FlaklBQ0Y5NlRPQWxxRkwtdHhnZTkzV0k0MEZ2QnR4Y0NoV1JwR2w1U05TN1JHN05IZTUzbkR2RVphNGlyOHR5RGdDVW1sbHhVOGR4cEg3N2ZfUWMyalFLc01vSU83MXhTOGJoV2hTaGNrR2Jvdm55V3pIcEZmWVg1OGZncnpLdE5JTjVsZ3ZVRXVYTGJ5VmtpYlpsUFdjY21W?oc=5) |
 | 2026-09-23 | Physical AI startup Xirang Kaiwu raises seed round at $500M valuation - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQek5WUHljRzlCVHN6V0lCQWpTUHNYTXBmMVJSUUtCLW1aNEJrMW1UbjBvQXdxREN3R1phRWxUX0VaV3dPV2ZzbXkxemdBQUxyeUdFdjh0djNQS2VlQllNRmJkM1Zhei12S1JMU3lUVjBLbHVPM2h2ajBJSGc0X2QzaWFRTWh4dkV5Ykl2QUdPaTFOQlJoRFEwa0p1Sm0yLU8yZG9tdQ?oc=5) |
 | 2026-09-23 | Factory Access May Define Korea’s Physical AI Edge More Than Just Better Models - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTE1taEk2Vk01U2lDY3FOXy1SSU1lT3NYVGRDNUx6a19POVZqbnA5MGVUdGdJQXVuOVBZYnZoMTBraUdtOHk3Mm1EU211ZGtFdUdUby1SR1NOcFA2QmlDSHhfWjJPMVBNWlp1anVXQ3pFM3A0ejY4OU5US0RVdXM?oc=5) |
 | 2026-09-22 | Can Patent Filings Help Physical AI Companies Raise Capital? - Foley & Lardner LLP | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxPV21KNlZKV1o0UGJldWtLZFd3RUJPWTJKQnhid3pzSDhRT1g1UTdmcG1wZk52Z0djOUIzdHRtTThlaWtGXzFJb1NXZ2gxZnhkRFlrRXBkNXlrY2p5b2JzM1l1MDUyUGhacFBiUC1XRUVMaTdiOU1hc1dJTXc1Y0tDLS0ybHV6ZFQyWXB2NVo4NDRaVnkwQ2JBTm93UE5fMmp6MmNRS1BITDh2aXFEMnF3OHpR?oc=5) |
-| 2026-09-22 | This startup secures legal video data for physical AI - techinasia.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZM0pkYkZEM1NTVlBiYWpkY0FRcEk1UU9BWDZpZlpyWTdaUUFOZ1hpTjZrM0VTbFBxVXR2Mm9kRFl3blZOZU9pZzVNS0NwVkxyUkpJaTFIWWoyWkF0QUNfQjVKOE9DRVczWmpabDIxNElwZ3FtRzY3ZDNHOA?oc=5) |
