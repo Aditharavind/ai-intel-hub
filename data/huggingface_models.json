@@ -1,5 +1,14 @@
 [
   {
+    "model": "Riasok/pi05-robot-checkpoints-20260912",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912",
+    "date": "2026-09-25",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "tsinghua-sigs-robot-lab/VeriLoop-E2",
     "downloads": 917,
     "likes": 13,
@@ -7,6 +16,15 @@
     "date": "2026-09-25",
     "keyword": "robot",
     "score": 277.8
+  },
+  {
+    "model": "sraivante/superfast-tiny-home-robotics-json-1m-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sraivante/superfast-tiny-home-robotics-json-1m-v1",
+    "date": "2026-09-25",
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "Rice-RobotPI-Lab/robotok-public",
@@ -42,15 +60,6 @@
     "url": "https://huggingface.co/hvsr-robotics/Matcha-TTS-PL",
     "date": "2026-09-25",
     "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "Riasok/pi05-robot-checkpoints-20260912",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912",
-    "date": "2026-09-25",
-    "keyword": "robot",
     "score": 0.1
   },
   {
@@ -99,19 +108,10 @@
     "score": 0.1
   },
   {
-    "model": "junbrro/egopi-axis1-robotonly-native28-30k-mlxp-20260925",
+    "model": "tsangb34/pi05-so101-black-screwdriver-box-to-table-100episodes-vlareplica-40k",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/junbrro/egopi-axis1-robotonly-native28-30k-mlxp-20260925",
-    "date": "2026-09-25",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "tsangb34/pi05-so101-stack-white_bowls-100episodes-vlareplica-40k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tsangb34/pi05-so101-stack-white_bowls-100episodes-vlareplica-40k",
+    "url": "https://huggingface.co/tsangb34/pi05-so101-black-screwdriver-box-to-table-100episodes-vlareplica-40k",
     "date": "2026-09-25",
     "keyword": "vla",
     "score": 0.1
@@ -144,10 +144,19 @@
     "score": 0.1
   },
   {
-    "model": "tsangb34/pi05-so101-black-screwdriver-box-to-table-100episodes-vlareplica-40k",
+    "model": "tsangb34/pi05-so101-stack-white_bowls-100episodes-vlareplica-40k",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/tsangb34/pi05-so101-black-screwdriver-box-to-table-100episodes-vlareplica-40k",
+    "url": "https://huggingface.co/tsangb34/pi05-so101-stack-white_bowls-100episodes-vlareplica-40k",
+    "date": "2026-09-25",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "adi2440/dom-vla-training",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/adi2440/dom-vla-training",
     "date": "2026-09-25",
     "keyword": "vla",
     "score": 0.1
@@ -198,15 +207,6 @@
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/train_800_dense__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__mask__overlay_a75__sim__all_cameras__static__pi05__seed_0",
-    "date": "2026-09-25",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "KosmoCHE/worldmodel-audit-release",
     "downloads": 0,
     "likes": 0,
@@ -216,19 +216,19 @@
     "score": 0.1
   },
   {
-    "model": "policyengine/policyengine-uk-data-private",
+    "model": "wandelbotsgmbh/act_real_noise_150_merged_policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/policyengine/policyengine-uk-data-private",
+    "url": "https://huggingface.co/wandelbotsgmbh/act_real_noise_150_merged_policy",
     "date": "2026-09-25",
     "keyword": "policy",
     "score": 0.1
   },
   {
-    "model": "wandelbotsgmbh/act_real_noise_150_merged_policy",
+    "model": "policyengine/policyengine-uk-data-private",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/wandelbotsgmbh/act_real_noise_150_merged_policy",
+    "url": "https://huggingface.co/policyengine/policyengine-uk-data-private",
     "date": "2026-09-25",
     "keyword": "policy",
     "score": 0.1
@@ -574,15 +574,6 @@
     "date": "2026-09-20",
     "keyword": "robotics",
     "score": 6.1
-  },
-  {
-    "model": "aademir7/personal-robotics-vision-language",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/aademir7/personal-robotics-vision-language",
-    "date": "2026-09-20",
-    "keyword": "robotics",
-    "score": 4.0
   },
   {
     "model": "kiruluta/Spectral-World-Models-Reproducibility",

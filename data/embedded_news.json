@@ -1,5 +1,19 @@
 [
   {
+    "title": "Pi Pico Recreates The Heathkit Pocket Packet",
+    "source": "Hackaday",
+    "date": "2026-09-25",
+    "url": "https://hackaday.com/2026/09/25/pi-pico-recreates-the-heathkit-pocket-packet/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/09/pico-board-jacks-e1790239295298.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Packet radio is a particularly fun part of the ham radio hobby. Once upon a time, you might have squirted data about the airwaves using something like the Heathkit HK-21 <a class=\"read-more\" href=\"https://hackaday.com/2026/09/25/pi-pico-recreates-the-heathkit-pocket-packet/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Investigating a Rare Burnout 3 Beta Disc",
+    "source": "Hackaday",
+    "date": "2026-09-25",
+    "url": "https://hackaday.com/2026/09/25/investigating-a-rare-burnout-3-beta-disc/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/I-bought-a-Burnout-3-beta-disc.-1-58-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>These days, it&#8217;s pretty easy to buy old retail console games just by hunting online auction sites. It&#8217;s much rarer to come across a disc holding a beta version that <a class=\"read-more\" href=\"https://hackaday.com/2026/09/25/investigating-a-rare-burnout-3-beta-disc/\">&#8230;read more</a>"
+  },
+  {
     "title": "Hackaday Podcast Episode 388: RAM-Swapping on Raspberry Pi, Raindrops on Radar, and a Fine Mesh",
     "source": "Hackaday",
     "date": "2026-09-25",
@@ -35,20 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/09/graphics-aberdeen-e1790235525962.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Automatic Identification System (AIS) is a maritime radio communications tool used to allow different vessels to identify each other and communicate their movements and other telemetry. You can readily <a class=\"read-more\" href=\"https://hackaday.com/2026/09/25/commodore-128-becomes-marine-vessel-tracker/\">&#8230;read more</a>"
   },
   {
-    "title": "GM’s Experimental EV from 1969",
-    "source": "Hackaday",
-    "date": "2026-09-25",
-    "url": "https://hackaday.com/2026/09/24/gms-experimental-ev-from-1969/",
-    "summary": "<div><img alt=\"A small orange car with a bold horizontal white stripe and the text &quot;XP 512E&quot; emblazoned on the side. The footprint of the vehicle barely exceeds the size of the seats, almost like an Isetta, but the top canopy opens upward and the lower front fascia contains a side opening door. If it were green, it would probably be what an LLM would generate with the prompt, &quot;Make a car that looks like a frog.&quot;\" class=\"attachment-large size-large wp-post-image\" height=\"500\" src=\"https://hackaday.com/wp-content/uploads/2026/09/wide-1969_XP-512E_front-side.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Electricity is the once and future drivetrain for automobiles, but until the advent of lithium batteries their capabilities were somewhat modest. One EV blip on the automotive timeline is the <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/gms-experimental-ev-from-1969/\">&#8230;read more</a>"
-  },
-  {
-    "title": "FPGA for All — CERN Releases “colibri” VHDL Library",
-    "source": "Hackaday",
-    "date": "2026-09-25",
-    "url": "https://hackaday.com/2026/09/24/fpga-for-all-cern-releases-colibri-vhdl-library/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"480\" src=\"https://hackaday.com/wp-content/uploads/2026/09/colibri_cover_art-1024x614-1.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Since you&#8217;re reading Hackaday, we&#8217;re pretty sure CERN needs no introduction, so we&#8217;ll get right to it&#8211; they&#8217;re giving back again, this time with a VHDL library called &#8220;colibri&#8221; containing <a class=\"read-more\" href=\"https://hackaday.com/2026/09/24/fpga-for-all-cern-releases-colibri-vhdl-library/\">&#8230;read more</a>"
-  },
-  {
     "title": "Compact Long-Wave Infrared camera pairs STM32N6 MCU with Lynred ATI320 thermal sensor",
     "source": "CNX Software",
     "date": "2026-09-25",
@@ -61,6 +61,13 @@
     "date": "2026-09-25",
     "url": "https://www.cnx-software.com/2026/09/25/membrowse-continuously-tracks-firmware-memory-footprint-is-free-for-open-source-projects/",
     "summary": "<div><img alt=\"MemBrowse Dashboard\" class=\"attachment-medium size-medium wp-post-image\" height=\"345\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/MemBrowse-Dashboard-720x345.png\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>MemBrowse tool allows embedded software developers to track the RAM and flash footprint of their firmware in continuous integration, with support for GitHub Actions, GitLab CI/CD, and other CI solutions. Engineers can monitor footprint changes in a granular way each time code is submitted to their project, instead of finding out when the firmware image stops fitting into the target&#8217;s flash, or can&#8217;t run due to excessive RAM usage. MemBrowse also provides the full history showing how memory usage progressed over time, and how much is left for extra features. MemBrowse key features: Integrates with CI/CD &#8211; It works with GitHub Actions, GitLab CI, Jenkins, and other CI systems. Automatic memory tracking on every commit to your main branch. The open-source MemBrowse CLI parses the project&#8217;s ELF file and linker script, extracts memory usage data, and uploads a report to the MemBrowse Portal. PR comments show how much memory each [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/25/membrowse-continuously-tracks-firmware-memory-footprint-is-free-for-open-source-projects/\">MemBrowse continuously tracks firmware memory footprint, is free for open-source projects</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "The Hidden Cost of Embedded Databases on NAND Flash, Security in SDVs, Embedded SW Development: Embedded Week Insights",
+    "source": "Embedded.com",
+    "date": "2026-09-25",
+    "url": "https://www.embedded.com/the-hidden-cost-of-embedded-databases-on-nand-flash-security-in-sdvs-embedded-sw-development-embedded-week-insights/",
+    "summary": "<p>Here's a roundup of this week's must-read articles. We'll cover the latest developments on the hidden cost of embedded databases on NAND flash memory, security in SDVs, choosing a cross-platform IDE for embedded SW development, and a lot more. Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete list of news and articles [...]</p>\n<p>The post <a href=\"https://www.embedded.com/the-hidden-cost-of-embedded-databases-on-nand-flash-security-in-sdvs-embedded-sw-development-embedded-week-insights/\">The Hidden Cost of Embedded Databases on NAND Flash, Security in SDVs, Embedded SW Development: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "Ezurio Unveils BL54LM20 Bluetooth LE Modules",
@@ -138,6 +145,20 @@
     "date": "2026-09-25",
     "url": "https://www.electronicsweekly.com/news/business/spatial-accessory-tracking-modules-for-apples-vision-pro-2026-09/",
     "summary": "<p>Mikroe, the click board specialist, has come up  its Spatial Anchor S1 and Spatial Anchor R1 precise spatial accessory tracking modules for Apple’s Vision Pro headset. Both are now shipping [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/spatial-accessory-tracking-modules-for-apples-vision-pro-2026-09/\">Spatial accessory trackers for Apple headsets</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Raspberry Pi Security Camera",
+    "source": "Adafruit",
+    "date": "2026-09-25",
+    "url": "https://blog.adafruit.com/2026/09/25/raspberry-pi-security-camera/",
+    "summary": "PiMyLifeUp shares how to make your own Raspberry Pi security camera using motionEye software. In this project, I will set up a Raspberry Pi security camera network using the motionEye software. You can use the standard Pi camera, such as the one I used in the time-lapse tutorial. This project is a cost-effective way of [&#8230;]"
+  },
+  {
+    "title": "Subscribe to the Adafruit Youtube channel! #Youtube #AdafruitLearnSystem",
+    "source": "Adafruit",
+    "date": "2026-09-25",
+    "url": "https://blog.adafruit.com/2026/09/25/subscribe-to-the-adafruit-youtube-channel-youtube-adafruitlearnsystem-226-4-3-2/",
+    "summary": "﻿ Are you subscribed to the Adafruit Youtube channel? If you&#8217;re not already subscribed, click here! http://adafru.it/subscribe . It’s a free and easy way to keep up with our newest episodes. Here’s some of what we’re up to. Electronics Show and Tell Wednesdays 7:30pm Electronics show and tell every Wednesday at 7:30pm ET. Adafruit Ask [&#8230;]"
   },
   {
     "title": "Adafruit LIS3DH Triple-Axis Accelerometer Breakout",
@@ -280,20 +301,6 @@
     "summary": "A modular Bambu LED Kit 001 desk lamp with dome-shaped shade and cylindrical base for a modern minimalist look. Distinctive subtle wood-texture lamp post adds warmth and natural elegance. Customizable colors — works in monochrome or multi-color variations. Warm ambient lighting perfect for desks, nightstands, or reading nooks. By DjangoCashflow Download files: https://makerworld.com/en/models/895162-minimalist-desk-lamp-for-led-lamp-kit-001#profileId-852938 Every Thursday [&#8230;]"
   },
   {
-    "title": "Fume Extractor – Tripod Mount #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-09-24",
-    "url": "https://blog.adafruit.com/2026/09/24/fume-extractor-tripod-mount-3dthursday-3dprinting/",
-    "summary": "haussparrow shares: A tool-free, no-support fume extractor with a built-in standard 1/4&#8243; tripod mount at the base for benchtop or elevated use. Standard 120mm (or 80mm) PC fan + 12V DC barrel jack + 20mm round switch. Bauhaus-inspired &#8216;form follows function&#8217; design — clean lines and mechanical fitment mean you get a professional multi-color look [&#8230;]"
-  },
-  {
-    "title": "Minimal LED Lamp – BambuLab MH001 Kit Reading Light #3DPrinting #3DThursday",
-    "source": "Adafruit",
-    "date": "2026-09-24",
-    "url": "https://blog.adafruit.com/2026/09/24/minimal-led-lamp-bambulab-mh001-kit-reading-light-3dprinting-3dthursday/",
-    "summary": "A design lamp based on the BambuLab MH001 Kit. Great as a courtesy light or reading light. Minimalist design fits any corner of the home or office. Simple to print and assemble. Perfect for makers looking for a clean, functional accent piece. By OfficineCasperLAB Download files: https://makerworld.com/en/models/1030720-minimal-led-lamp-bambulab-mh001-kit#profileId-1013495 Every Thursday is #3dthursday here at Adafruit! The [&#8230;]"
-  },
-  {
     "title": "Trilogic Systems Partners with Tekdense, Expanding Its North American Presence in High-Performance Rugged Computing for Aerospace and Defense Markets",
     "source": "EE Journal",
     "date": "2026-09-24",
@@ -411,13 +418,6 @@
     "date": "2026-09-21",
     "url": "https://www.embedded.com/lynred-launches-capt640-automotive-thermal-imaging-sensor/",
     "summary": "<p>Lynred has introduced the CAPT640, a thermal imaging sensor designed specifically for automotive applications and advanced driver-assistance systems (ADAS). The company describes the device as Europe's first thermal imaging sensor developed for the automotive industry. Lynred will present the technology at AutoSens Barcelona, September 22-24, 2026. The CAPT640 is designed to complement conventional visible-light cameras, [...]</p>\n<p>The post <a href=\"https://www.embedded.com/lynred-launches-capt640-automotive-thermal-imaging-sensor/\">Lynred Launches CAPT640 Automotive Thermal Imaging Sensor</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "The Hidden Cost of Embedded Databases on NAND Flash Memory",
-    "source": "Embedded.com",
-    "date": "2026-09-21",
-    "url": "https://www.embedded.com/the-hidden-cost-of-embedded-databases-on-nand-flash-memory/",
-    "summary": "<p>A practical look at what a database really costs in NAND writes with different storage architectures.</p>\n<p>The post <a href=\"https://www.embedded.com/the-hidden-cost-of-embedded-databases-on-nand-flash-memory/\">The Hidden Cost of Embedded Databases on NAND Flash Memory</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "High-end 8-channel oscilloscope features 12-core AMD EPYC CPU, 96GB RAM, 15.6-inch display, and more",
