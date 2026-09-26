@@ -90,6 +90,33 @@
     "score": 0.1
   },
   {
+    "model": "tsangb34/groot-n17-so101-stack-white_bowls-100episodes-vlareplica-frozen-llm-dit-40k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tsangb34/groot-n17-so101-stack-white_bowls-100episodes-vlareplica-frozen-llm-dit-40k",
+    "date": "2026-09-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-40k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-40k",
+    "date": "2026-09-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-action-expert-only-40k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-action-expert-only-40k",
+    "date": "2026-09-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "tsangb34/pi05-so101-stack-white_bowls-100episodes-vlareplica-40k-frozen-vision",
     "downloads": 0,
     "likes": 0,
@@ -112,15 +139,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
-    "date": "2026-09-26",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-40k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-40k",
     "date": "2026-09-26",
     "keyword": "vla",
     "score": 0.1
@@ -171,15 +189,6 @@
     "score": 2.2
   },
   {
-    "model": "mim-chess-vlas/train_800_complex__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0",
-    "downloads": 5,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__mask__blackout__sim__all_cameras__live__depth__pi05__seed_0",
-    "date": "2026-09-26",
-    "keyword": "vla",
-    "score": 1.6
-  },
-  {
     "model": "Ldnmoore9114/cs231n-embodied-ai",
     "downloads": 0,
     "likes": 0,
@@ -196,6 +205,33 @@
     "date": "2026-09-26",
     "keyword": "embodied",
     "score": 0.1
+  },
+  {
+    "model": "arshjeevs/act_test_pickup_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/arshjeevs/act_test_pickup_policy",
+    "date": "2026-09-26",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Swinter1/my_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Swinter1/my_policy",
+    "date": "2026-09-26",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "arshjeevs/lora-policy",
+    "downloads": 19,
+    "likes": 0,
+    "url": "https://huggingface.co/arshjeevs/lora-policy",
+    "date": "2026-09-26",
+    "keyword": "policy",
+    "score": 5.8
   },
   {
     "model": "oniichan521/g1-atl-stomp-policy",
@@ -243,15 +279,6 @@
     "score": 5.2
   },
   {
-    "model": "tsangb34/pi05-so101-black-screwdriver-box-to-table-vlareplica-40k-unfrozen-vision",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tsangb34/pi05-so101-black-screwdriver-box-to-table-vlareplica-40k-unfrozen-vision",
-    "date": "2026-09-25",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "KosmoCHE/worldmodel-audit-release",
     "downloads": 0,
     "likes": 0,
@@ -277,15 +304,6 @@
     "date": "2026-09-25",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "arshjeevs/lora-policy",
-    "downloads": 19,
-    "likes": 0,
-    "url": "https://huggingface.co/arshjeevs/lora-policy",
-    "date": "2026-09-25",
-    "keyword": "policy",
-    "score": 5.8
   },
   {
     "model": "oregoncoast/my_policy",
@@ -322,15 +340,6 @@
     "date": "2026-09-25",
     "keyword": "policy",
     "score": 29.5
-  },
-  {
-    "model": "Chaenn/act_policy_so101_multitask_newsim_place_stack_onehot",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/Chaenn/act_policy_so101_multitask_newsim_place_stack_onehot",
-    "date": "2026-09-25",
-    "keyword": "policy",
-    "score": 4.9
   },
   {
     "model": "hvsr-robotics/Matcha-TTS-PL",
@@ -385,15 +394,6 @@
     "date": "2026-09-24",
     "keyword": "embodied",
     "score": 3.1
-  },
-  {
-    "model": "Jiiiiiisoo/drawer-policy-training-dependencies",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Jiiiiiisoo/drawer-policy-training-dependencies",
-    "date": "2026-09-24",
-    "keyword": "policy",
-    "score": 0.1
   },
   {
     "model": "saidaliu27/nano-world-model-c3-rt1-bridge-seed0",
