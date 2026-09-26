@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-26 10:20 UTC
+Generated: 2026-09-26 14:46 UTC
 
 ## Top Papers
 _No items collected yet._
@@ -8,20 +8,20 @@ _No items collected yet._
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83560 | 33424.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63736 | 25494.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44602 | 17840.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| Developer-Y/cs-video-courses | 83561 | 33424.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63737 | 25494.9 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44603 | 17841.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30586 | 12234.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28460 | 11384.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28475 | 11390.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| tsinghua-sigs-robot-lab/VeriLoop-E2 | 1641 | 495.0 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2) |
 | sraivante/superfast-tiny-home-robotics-json-1m-v1 | 339 | 101.8 | [link](https://huggingface.co/sraivante/superfast-tiny-home-robotics-json-1m-v1) |
 | ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 186 | 56.1 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
 | Tron-Hayato/smolvla-policy | 98 | 29.5 | [link](https://huggingface.co/Tron-Hayato/smolvla-policy) |
 | ubr-physical-ai/Cosmos3-Edge-NF4-bnb | 86 | 25.9 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-NF4-bnb) |
+| DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy | 81 | 24.8 | [link](https://huggingface.co/DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -35,8 +35,8 @@ _No items collected yet._
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-09-26 | Midcentury Emerges From Stealth With $15M Seed for Physical AI Training Data - Ventureburn | physical ai startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE9pOGtTSGpidF9aSWRZaW11ZGtXcHZNR2hjdXhQU05EZ1FpeUVUV3hZbnhFcVcwX2tDV1BNLWhuX1l4Ukx6amZQLXhJNEpZaVczWjFjbWZOa1JkNGduVWtJa0RTZmpIUERxNVBLMWpXck1peFd5X1dJcdIBeEFVX3lxTE9pOGtTSGpidF9aSWRZaW11ZGtXcHZNR2hjdXhQU05EZ1FpeUVUV3hZbnhFcVcwX2tDV1BNLWhuX1l4Ukx6amZQLXhJNEpZaVczWjFjbWZOa1JkNGduVWtJa0RTZmpIUERxNVBLMWpXck1peFd5X1dJcQ?oc=5) |
 | 2026-09-24 | Google Cloud Identifies Three AI Stack Priorities Driving Startup Infrastructure Choices - konsulteer.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQlh0NjFBaC14TThyc2FNZlVsTnFuR1l2ek5JenhXRVJGZEhjY2V6MlJlWUV3MDZrdXFLVXE5NkJjTTBpMFE5SU9hR211WXBDMkxTOWhqYWxxMFNCX2w0NER5S01SMjc1OGM2YlZsR3JqYWFucFhGTmtXZ0dhSVlnb0VMQ29Ub0YwelF1eENaamJTejBZT09oRHNVZ19Ga05YTmZpNEx1cllPX0Nma25jM0pnbEkyZXJfaEpEbzBOWWc?oc=5) |
 | 2026-09-24 | Japanese humanoid robotics startup O-ID raises $1.2 million to move modular robot into production - Robotics & Automation News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPT1MyRTFZOGZiWHp0MmhxWEo0TTR2SHljX25zZFFES0wzdHBUeTRoOE1yLWVlYzZQbGEzbkJNc0Z2THFRbVNLaUhyMGRFc1FlaklBQ0Y5NlRPQWxxRkwtdHhnZTkzV0k0MEZ2QnR4Y0NoV1JwR2w1U05TN1JHN05IZTUzbkR2RVphNGlyOHR5RGdDVW1sbHhVOGR4cEg3N2ZfUWMyalFLc01vSU83MXhTOGJoV2hTaGNrR2Jvdm55V3pIcEZmWVg1OGZncnpLdE5JTjVsZ3ZVRXVYTGJ5VmtpYlpsUFdjY21W?oc=5) |
 | 2026-09-23 | Physical AI startup Xirang Kaiwu raises seed round at $500M valuation - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQek5WUHljRzlCVHN6V0lCQWpTUHNYTXBmMVJSUUtCLW1aNEJrMW1UbjBvQXdxREN3R1phRWxUX0VaV3dPV2ZzbXkxemdBQUxyeUdFdjh0djNQS2VlQllNRmJkM1Zhei12S1JMU3lUVjBLbHVPM2h2ajBJSGc0X2QzaWFRTWh4dkV5Ykl2QUdPaTFOQlJoRFEwa0p1Sm0yLU8yZG9tdQ?oc=5) |
 | 2026-09-23 | Factory Access May Define Korea’s Physical AI Edge More Than Just Better Models - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTE1taEk2Vk01U2lDY3FOXy1SSU1lT3NYVGRDNUx6a19POVZqbnA5MGVUdGdJQXVuOVBZYnZoMTBraUdtOHk3Mm1EU211ZGtFdUdUby1SR1NOcFA2QmlDSHhfWjJPMVBNWlp1anVXQ3pFM3A0ejY4OU5US0RVdXM?oc=5) |
-| 2026-09-23 | TacnIQ.ai raises US$1.5 million from In Group Holdings to scale tactile AI - Yahoo Finance Singapore | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5CZm5QNWZkOE5nV0pMMFkzVGFrclpzT1lTS0Y2d1pyS1QxODE1bEJQcUFoWWYxRGZpSHB0SmZ0ZHJ0QVhqX0NCUGhnZTRVSk1yNUVlTzJIWWlhb1dXSWxhcUh5dHIxeVNITGIxbzBTVEstVl9lbGJ2Z1RR?oc=5) |
