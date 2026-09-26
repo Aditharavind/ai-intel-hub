@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-25 21:52 UTC
+Generated: 2026-09-26 00:12 UTC
 
 ## Top Papers
 _No items collected yet._
@@ -12,7 +12,7 @@ _No items collected yet._
 | commaai/openpilot | 63733 | 25493.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44599 | 17839.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30586 | 12234.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28447 | 11378.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28448 | 11379.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |

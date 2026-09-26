@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-25 21:52 UTC
+Last Updated: 2026-09-26 00:12 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-25 | Reviving the PoE++ Feature on a Ubiquiti Switch | Hackaday | [link](https://hackaday.com/2026/09/25/reviving-the-poe-feature-on-a-ubiquiti-switch/) |
 | 2026-09-25 | Pi Pico Recreates The Heathkit Pocket Packet | Hackaday | [link](https://hackaday.com/2026/09/25/pi-pico-recreates-the-heathkit-pocket-packet/) |
 | 2026-09-25 | Investigating a Rare Burnout 3 Beta Disc | Hackaday | [link](https://hackaday.com/2026/09/25/investigating-a-rare-burnout-3-beta-disc/) |
 | 2026-09-25 | Hackaday Podcast Episode 388: RAM-Swapping on Raspberry Pi, Raindrops on Radar, and a Fine Mesh | Hackaday | [link](https://hackaday.com/2026/09/25/hackaday-podcast-episode-388-ram-swapping-on-raspberry-pi-raindrops-on-radar-and-a-fine-mesh/) |
 | 2026-09-25 | Did The BBC and Sir Clive Get it Right Twenty Years Ago? | Hackaday | [link](https://hackaday.com/2026/09/25/did-the-bbc-and-sir-clive-get-it-right-twenty-years-ago/) |
 | 2026-09-25 | This Week in Security: FBI Gets Hacked, Muse Vulnerable to ClickFix, Popular Rust Developers at Risk, and New Attacks Against RSA | Hackaday | [link](https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-and-new-attacks-against-rsa/) |
 | 2026-09-25 | What Should Pine64 Build With Microcontrollers? | Hackaday | [link](https://hackaday.com/2026/09/25/what-should-pine64-build-with-microcontrollers/) |
-| 2026-09-25 | Commodore 128 Becomes Marine Vessel Tracker | Hackaday | [link](https://hackaday.com/2026/09/25/commodore-128-becomes-marine-vessel-tracker/) |
 | 2026-09-25 | Compact Long-Wave Infrared camera pairs STM32N6 MCU with Lynred ATI320 thermal sensor | CNX Software | [link](https://www.cnx-software.com/2026/09/25/compact-long-wave-infrared-camera-pairs-stm32n6-mcu-with-lynred-ati320-thermal-sensor/) |
 | 2026-09-25 | MemBrowse continuously tracks firmware memory footprint, is free for open-source projects | CNX Software | [link](https://www.cnx-software.com/2026/09/25/membrowse-continuously-tracks-firmware-memory-footprint-is-free-for-open-source-projects/) |
 | 2026-09-25 | The Hidden Cost of Embedded Databases on NAND Flash, Security in SDVs, Embedded SW Development: Embedded Week Insights | Embedded.com | [link](https://www.embedded.com/the-hidden-cost-of-embedded-databases-on-nand-flash-security-in-sdvs-embedded-sw-development-embedded-week-insights/) |
@@ -67,6 +67,8 @@ _No items collected yet._
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-09-25 | Riasok/pi05-robot-checkpoints-20260912 | 0 | 0 | [link](https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912) |
+| 2026-09-25 | puppet-robotics/puppet-robotics_golf-model-base_2026-09-22_only-expected_migrated | 0 | 0 | [link](https://huggingface.co/puppet-robotics/puppet-robotics_golf-model-base_2026-09-22_only-expected_migrated) |
+| 2026-09-25 | puppet-robotics/golf-model-base_2026-09-22_only-expected | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-base_2026-09-22_only-expected) |
 | 2026-09-25 | tsinghua-sigs-robot-lab/VeriLoop-E2 | 917 | 13 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2) |
 | 2026-09-25 | sraivante/superfast-tiny-home-robotics-json-1m-v1 | 0 | 0 | [link](https://huggingface.co/sraivante/superfast-tiny-home-robotics-json-1m-v1) |
 | 2026-09-25 | Rice-RobotPI-Lab/robotok-public | 0 | 7 | [link](https://huggingface.co/Rice-RobotPI-Lab/robotok-public) |
@@ -74,22 +76,20 @@ _No items collected yet._
 | 2026-09-25 | Jiiiiiisoo/drawer-robot-oneway-proprio-input-noclip | 0 | 0 | [link](https://huggingface.co/Jiiiiiisoo/drawer-robot-oneway-proprio-input-noclip) |
 | 2026-09-25 | hvsr-robotics/Matcha-TTS-PL | 0 | 0 | [link](https://huggingface.co/hvsr-robotics/Matcha-TTS-PL) |
 | 2026-09-25 | Fionareyes/robotics-vision-language | 0 | 0 | [link](https://huggingface.co/Fionareyes/robotics-vision-language) |
-| 2026-09-25 | puppet-robotics/golf-model-base_2026-09-22_only-expected | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-base_2026-09-22_only-expected) |
-| 2026-09-25 | polarisai-robots/bento_ur7e_pi05_v3 | 0 | 0 | [link](https://huggingface.co/polarisai-robots/bento_ur7e_pi05_v3) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28447 | Python | 11378.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| commaai/openpilot | 63733 | Python | 25493.3 | [link](https://github.com/commaai/openpilot) |
+| questdb/questdb | 17352 | Java | 6940.9 | [link](https://github.com/questdb/questdb) |
+| earthtojake/text-to-cad | 16370 | Python | 6548.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| deeplethe/utopia | 7770 | Rust | 3108.1 | [link](https://github.com/deeplethe/utopia) |
+| isaac-sim/IsaacLab | 8221 | Python | 3288.5 | [link](https://github.com/isaac-sim/IsaacLab) |
+| Hebbian-Robotics/hflow | 279 | Python | 111.7 | [link](https://github.com/Hebbian-Robotics/hflow) |
+| harvard-edge/cs249r_book | 28448 | Python | 11379.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 | NVIDIA/skills | 3436 | Python | 1374.5 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1504 | Rust | 601.7 | [link](https://github.com/copper-project/copper-rs) |
 | pnoker/iot-dc3 | 1288 | Java | 515.3 | [link](https://github.com/pnoker/iot-dc3) |
-| mosaico-labs/mosaico | 1055 | Python | 422.1 | [link](https://github.com/mosaico-labs/mosaico) |
-| Developer-Y/cs-video-courses | 83561 |  | 33424.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63733 | Python | 25493.3 | [link](https://github.com/commaai/openpilot) |
-| questdb/questdb | 17352 | Java | 6940.9 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 16368 | Python | 6547.3 | [link](https://github.com/earthtojake/text-to-cad) |
-| ArduPilot/ardupilot | 15937 | C++ | 6374.9 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -114,9 +114,9 @@ _No items collected yet._
 | 2026-09-23 | Factory Access May Define Korea’s Physical AI Edge More Than Just Better Models - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTE1taEk2Vk01U2lDY3FOXy1SSU1lT3NYVGRDNUx6a19POVZqbnA5MGVUdGdJQXVuOVBZYnZoMTBraUdtOHk3Mm1EU211ZGtFdUdUby1SR1NOcFA2QmlDSHhfWjJPMVBNWlp1anVXQ3pFM3A0ejY4OU5US0RVdXM?oc=5) |
 | 2026-09-23 | TacnIQ.ai raises US$1.5 million from In Group Holdings to scale tactile AI - Yahoo Finance Singapore | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5CZm5QNWZkOE5nV0pMMFkzVGFrclpzT1lTS0Y2d1pyS1QxODE1bEJQcUFoWWYxRGZpSHB0SmZ0ZHJ0QVhqX0NCUGhnZTRVSk1yNUVlTzJIWWlhb1dXSWxhcUh5dHIxeVNITGIxbzBTVEstVl9lbGJ2Z1RR?oc=5) |
 | 2026-09-22 | Can Patent Filings Help Physical AI Companies Raise Capital? - Foley & Lardner LLP | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxPV21KNlZKV1o0UGJldWtLZFd3RUJPWTJKQnhid3pzSDhRT1g1UTdmcG1wZk52Z0djOUIzdHRtTThlaWtGXzFJb1NXZ2gxZnhkRFlrRXBkNXlrY2p5b2JzM1l1MDUyUGhacFBiUC1XRUVMaTdiOU1hc1dJTXc1Y0tDLS0ybHV6ZFQyWXB2NVo4NDRaVnkwQ2JBTm93UE5fMmp6MmNRS1BITDh2aXFEMnF3OHpR?oc=5) |
-| 2026-09-22 | This startup secures legal video data for physical AI - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZM0pkYkZEM1NTVlBiYWpkY0FRcEk1UU9BWDZpZlpyWTdaUUFOZ1hpTjZrM0VTbFBxVXR2Mm9kRFl3blZOZU9pZzVNS0NwVkxyUkpJaTFIWWoyWkF0QUNfQjVKOE9DRVczWmpabDIxNElwZ3FtRzY3ZDNHOA?oc=5) |
+| 2026-09-22 | This startup secures legal video data for physical AI - techinasia.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZM0pkYkZEM1NTVlBiYWpkY0FRcEk1UU9BWDZpZlpyWTdaUUFOZ1hpTjZrM0VTbFBxVXR2Mm9kRFl3blZOZU9pZzVNS0NwVkxyUkpJaTFIWWoyWkF0QUNfQjVKOE9DRVczWmpabDIxNElwZ3FtRzY3ZDNHOA?oc=5) |
 | 2026-09-22 | Embodied AI Startup Paxini Kicks Off Mainland IPO Bid Amid Sector Volatility - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXNPQlhxZ3I0dzE4c3VFRHZjMTB3a3ppMDdHcGR3RHQtY1VjVUt2eEdlSm9uNWNGTHcydEIwbEJxdHdKTDE0U0tJRlhnT2p2REE5blJSWVhKRnlMQzdvTERWaVN1VE9pZ2Znck00QzdJYTlURy1SLVJiLVFuZFAxVUxyV3AzaEVRMi00WkVoYU93cmdqNjlzRVZGVXB5Yko1UWRWUWxFaWVCSEdkTHl6MFM0QUVsVzRIMWJ3eE4xM0U1cVpqRlRROGdRNA?oc=5) |
-| 2026-09-22 | Another case of an embodied AI startup acquiring a controlling stake in a listed company? Shenpu Intelligence plans to invest RMB 800 million in the restructuring of *ST Meizhi. - moomoo.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTQwQlB0MzQzYU1WcTNHWl9UeFQybWRiZ2J1cXJkczl3emU4S0xWZDJYTTNxOERxUU1QTWFJRW9VU1RhTXNCVFpDWThSM0tldWZoS0o4Y3JDYmx3a21RMlFzOEdQVVBBYk5ZdlFlODBWaXBLeVBtMUhSTk03NXRERVFubHNqQ0VUVDdld3gzR1hBUVg3V0xMX3ZuYUp4QURUQUpnTjg5MFBWQQ?oc=5) |
+| 2026-09-22 | Another case of an embodied AI startup acquiring a controlling stake in a listed company? Shenpu Intelligence plans to invest RMB 800 million in the restructuring of *ST Meizhi. - Moomoo | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTQwQlB0MzQzYU1WcTNHWl9UeFQybWRiZ2J1cXJkczl3emU4S0xWZDJYTTNxOERxUU1QTWFJRW9VU1RhTXNCVFpDWThSM0tldWZoS0o4Y3JDYmx3a21RMlFzOEdQVVBBYk5ZdlFlODBWaXBLeVBtMUhSTk03NXRERVFubHNqQ0VUVDdld3gzR1hBUVg3V0xMX3ZuYUp4QURUQUpnTjg5MFBWQQ?oc=5) |
 | 2026-09-21 | MISUMI Americas Launches Venture Fund for Robotics, Hardware, Physical AI Startups - Supply & Demand Chain Executive | physical ai startup | [link](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU1JPTTNlYXpRWTM4VlFhSlFucjJxY1V0ejJxRmFhWmlSQ3RoZjZwdjdseHc3aFNaaEpVbFBQN1ZTdEZQQ2hxUXliNTlGRktZT0VkeElITVUwYkdlbWZKZUdaVW80V1diUUg1d0QtOGtwUUtSeU5uYWZaeW5ILXl6Y2lFeTVPd2JoMGZDY2c1Wk1iNVBOQXp4QUNaTG9TaUVlWFF0WnFGQVNHYl82RGhlaTBDYjNEZGRENEswaF9BeVpONGs4WTdTTXZUNDZxVXJIRDJwYzh2YkVldE9BQnFXcEViamZPcUktSk9ObmlR?oc=5) |
 
 ## Jobs
