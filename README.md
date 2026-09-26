@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-26 00:12 UTC
+Last Updated: 2026-09-26 05:38 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-26 | Abusing SQL to Play DOOM | Hackaday | [link](https://hackaday.com/2026/09/25/abusing-sql-to-play-doom/) |
+| 2026-09-26 | The Low-Level Waste Dumps in The Atlantic Have Become Ecosystems | Hackaday | [link](https://hackaday.com/2026/09/25/the-low-level-waste-dumps-in-the-atlantic-have-become-ecosystems/) |
+| 2026-09-26 | KryonOS turns ESP32 boards into JavaScript-powered mini computer | CNX Software | [link](https://www.cnx-software.com/2026/09/26/kryonos-turns-esp32-boards-into-javascript-powered-mini-computer/) |
+| 2026-09-26 | AiboJam: Sony’s desktop dog escapes onto a $40 Fruit Jam | Adafruit | [link](https://blog.adafruit.com/2026/09/25/aibojam-sonys-desktop-dog-escapes-onto-a-40-fruit-jam/) |
 | 2026-09-25 | Reviving the PoE++ Feature on a Ubiquiti Switch | Hackaday | [link](https://hackaday.com/2026/09/25/reviving-the-poe-feature-on-a-ubiquiti-switch/) |
 | 2026-09-25 | Pi Pico Recreates The Heathkit Pocket Packet | Hackaday | [link](https://hackaday.com/2026/09/25/pi-pico-recreates-the-heathkit-pocket-packet/) |
 | 2026-09-25 | Investigating a Rare Burnout 3 Beta Disc | Hackaday | [link](https://hackaday.com/2026/09/25/investigating-a-rare-burnout-3-beta-disc/) |
 | 2026-09-25 | Hackaday Podcast Episode 388: RAM-Swapping on Raspberry Pi, Raindrops on Radar, and a Fine Mesh | Hackaday | [link](https://hackaday.com/2026/09/25/hackaday-podcast-episode-388-ram-swapping-on-raspberry-pi-raindrops-on-radar-and-a-fine-mesh/) |
 | 2026-09-25 | Did The BBC and Sir Clive Get it Right Twenty Years Ago? | Hackaday | [link](https://hackaday.com/2026/09/25/did-the-bbc-and-sir-clive-get-it-right-twenty-years-ago/) |
-| 2026-09-25 | This Week in Security: FBI Gets Hacked, Muse Vulnerable to ClickFix, Popular Rust Developers at Risk, and New Attacks Against RSA | Hackaday | [link](https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-and-new-attacks-against-rsa/) |
-| 2026-09-25 | What Should Pine64 Build With Microcontrollers? | Hackaday | [link](https://hackaday.com/2026/09/25/what-should-pine64-build-with-microcontrollers/) |
 | 2026-09-25 | Compact Long-Wave Infrared camera pairs STM32N6 MCU with Lynred ATI320 thermal sensor | CNX Software | [link](https://www.cnx-software.com/2026/09/25/compact-long-wave-infrared-camera-pairs-stm32n6-mcu-with-lynred-ati320-thermal-sensor/) |
-| 2026-09-25 | MemBrowse continuously tracks firmware memory footprint, is free for open-source projects | CNX Software | [link](https://www.cnx-software.com/2026/09/25/membrowse-continuously-tracks-firmware-memory-footprint-is-free-for-open-source-projects/) |
-| 2026-09-25 | The Hidden Cost of Embedded Databases on NAND Flash, Security in SDVs, Embedded SW Development: Embedded Week Insights | Embedded.com | [link](https://www.embedded.com/the-hidden-cost-of-embedded-databases-on-nand-flash-security-in-sdvs-embedded-sw-development-embedded-week-insights/) |
 
 ## New Research Papers
 _No items collected yet._
@@ -66,30 +66,30 @@ _No items collected yet._
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-09-25 | Riasok/pi05-robot-checkpoints-20260912 | 0 | 0 | [link](https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912) |
-| 2026-09-25 | puppet-robotics/puppet-robotics_golf-model-base_2026-09-22_only-expected_migrated | 0 | 0 | [link](https://huggingface.co/puppet-robotics/puppet-robotics_golf-model-base_2026-09-22_only-expected_migrated) |
-| 2026-09-25 | puppet-robotics/golf-model-base_2026-09-22_only-expected | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-base_2026-09-22_only-expected) |
-| 2026-09-25 | tsinghua-sigs-robot-lab/VeriLoop-E2 | 917 | 13 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2) |
-| 2026-09-25 | sraivante/superfast-tiny-home-robotics-json-1m-v1 | 0 | 0 | [link](https://huggingface.co/sraivante/superfast-tiny-home-robotics-json-1m-v1) |
-| 2026-09-25 | Rice-RobotPI-Lab/robotok-public | 0 | 7 | [link](https://huggingface.co/Rice-RobotPI-Lab/robotok-public) |
-| 2026-09-25 | gifurina/lingbot-vla-v2-6b-robotwin-4k-augment | 0 | 0 | [link](https://huggingface.co/gifurina/lingbot-vla-v2-6b-robotwin-4k-augment) |
-| 2026-09-25 | Jiiiiiisoo/drawer-robot-oneway-proprio-input-noclip | 0 | 0 | [link](https://huggingface.co/Jiiiiiisoo/drawer-robot-oneway-proprio-input-noclip) |
-| 2026-09-25 | hvsr-robotics/Matcha-TTS-PL | 0 | 0 | [link](https://huggingface.co/hvsr-robotics/Matcha-TTS-PL) |
-| 2026-09-25 | Fionareyes/robotics-vision-language | 0 | 0 | [link](https://huggingface.co/Fionareyes/robotics-vision-language) |
+| 2026-09-26 | D-Robotics/Uranus-1.3B-Distillation | 0 | 0 | [link](https://huggingface.co/D-Robotics/Uranus-1.3B-Distillation) |
+| 2026-09-26 | D-Robotics/Uranus-1.3B | 0 | 0 | [link](https://huggingface.co/D-Robotics/Uranus-1.3B) |
+| 2026-09-26 | sebastienroa/robotics-vision-language-study | 0 | 0 | [link](https://huggingface.co/sebastienroa/robotics-vision-language-study) |
+| 2026-09-26 | sraivante/superfast-tiny-home-robotic | 0 | 0 | [link](https://huggingface.co/sraivante/superfast-tiny-home-robotic) |
+| 2026-09-26 | sraivante/superfast-tiny-home-robotics-json-1m-v3 | 0 | 0 | [link](https://huggingface.co/sraivante/superfast-tiny-home-robotics-json-1m-v3) |
+| 2026-09-26 | puppet-robotics/golf-model-2-8fps-30-rtc-precond-no-putt | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-2-8fps-30-rtc-precond-no-putt) |
+| 2026-09-26 | Riasok/pi05-robot-checkpoints-20260912 | 0 | 0 | [link](https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912) |
+| 2026-09-26 | tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-40k | 0 | 0 | [link](https://huggingface.co/tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-40k) |
+| 2026-09-26 | vladmandic/MicroDecoder | 2 | 0 | [link](https://huggingface.co/vladmandic/MicroDecoder) |
+| 2026-09-26 | Najongs/vla-recipe-ckpts | 0 | 0 | [link](https://huggingface.co/Najongs/vla-recipe-ckpts) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| harvard-edge/cs249r_book | 28450 | Python | 11380.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 | commaai/openpilot | 63733 | Python | 25493.3 | [link](https://github.com/commaai/openpilot) |
-| questdb/questdb | 17352 | Java | 6940.9 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 16370 | Python | 6548.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| deeplethe/utopia | 7770 | Rust | 3108.1 | [link](https://github.com/deeplethe/utopia) |
-| isaac-sim/IsaacLab | 8221 | Python | 3288.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| Hebbian-Robotics/hflow | 279 | Python | 111.7 | [link](https://github.com/Hebbian-Robotics/hflow) |
-| harvard-edge/cs249r_book | 28448 | Python | 11379.3 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3436 | Python | 1374.5 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1504 | Rust | 601.7 | [link](https://github.com/copper-project/copper-rs) |
-| pnoker/iot-dc3 | 1288 | Java | 515.3 | [link](https://github.com/pnoker/iot-dc3) |
+| questdb/questdb | 17351 | Java | 6940.5 | [link](https://github.com/questdb/questdb) |
+| earthtojake/text-to-cad | 16374 | Python | 6549.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| dora-rs/dora | 3978 | Rust | 1591.3 | [link](https://github.com/dora-rs/dora) |
+| sou350121/VLA-Handbook | 652 | HTML | 260.9 | [link](https://github.com/sou350121/VLA-Handbook) |
+| RealXiaoze/humanoid-motion-intelligence | 603 |  | 241.3 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
+| deeplethe/utopia | 7808 | Rust | 3123.3 | [link](https://github.com/deeplethe/utopia) |
+| vllm-project/vllm-omni | 7065 | Python | 2826.1 | [link](https://github.com/vllm-project/vllm-omni) |
+| Hyperspawn/Dropbear | 34 | Python | 13.7 | [link](https://github.com/Hyperspawn/Dropbear) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -100,8 +100,8 @@ _No items collected yet._
 | 2026-09-21 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQmFWSTF5RExCM0kxZ3k4RTRtbVkzWmgxVjVhTkpTeF9VbWxsSVZGaWY5QXkyY2h1UEdRelJUb2FYcWlLdVEwRUtMQktkNExqd2RRZmVfMWZaeDYxNlVvU3F1UVdTbnJnVmJuUTJySG5fX2g2aUVhUWNNNWtNRW9VSjJEeFNKSmxCZ3ZTS1hmZG93blZRdXNtcFFQbEllYnYyTFUtM3dVUXRzeTUxa3VIV2o1Q0NXX2RWclRyUzVuUHpDaGNXX0t1bTBIRW83dDh1dVJCbjQ0LW9sQ1BrcEVGQ0VBdw?oc=5) |
 | 2026-09-18 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUFxbDRKOVBBRE9QZUtfRkNzTTlUaXJQaU1zZC03UkZlLVhUWDNHa2Fhc2lFTDRMREViMjJnd21NWG83ZDB2QS1wSG1EUnBtNXdOYmZBZGxmbTVFNnk1RDYtSm1hTTFNem0wTVlka1FfT2otcTU3ekJTQmNhRHlseTNIbnBUUnB1VDJTaG9hSE5aeDl4VE1ybw?oc=5) |
 | 2026-09-14 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTWpiTlNmSjROU2hWME1sQjZUTWxfVUg2M1cyVkVfVmduOUZ5ejBNM0pGSk9Sd3Y0Z1lQN2NreEN5ZVVwcWpuYnVObUVNWWZuUXc?oc=5) |
-| 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxORlNsOXpwYjdRT2hybEhNcjR4bUlDRi0zSEh3ZlFURFMtNmpJUTQ3YkRLdHNpOXNiS2Y5RG5ONExQMUQ4aHA1WUpXVWxpc1NTVmN6cnZxRm1hakRsYWRmYXdpR1IwVnZRa1FzYTlJVVY3MkdudTFQSTRnVEtnREdubVBnM0RVZC1abHRDR05fZUE1SmE5VTdLWlZCUkVsNlBIc2lRMFgzX1FCZEtvWWJPb0hrVnAyZw?oc=5) |
 | 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1tZG9Nak05YThrN2JjY2c5RXlUd3Y3Wm5mUlB2RFBmQXFMNGswcl9kck5sdlptRTFwZzdWNmRsSjFPb1pjN1NBZVdKMnNReU9lWkJndnRYSlBPY1NWSmsyRXJCeG9adVNIbG1sbGVQZGI3S2tfN2c?oc=5) |
+| 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxNemR4a0IyX3M2WlNDeHdoVUU1cEptTmtFRFpnWnFKTGNjX3U1aDFPTmJUSC1ka00zMWR1QTFNQ29PajVWWHNiMm8zUFVmck9zRS1hTUQxLURRalRvRmJIOWNRMW5TTy1Gb0JXQmoyMkc3WHNISTlqOGZLZWhQQlZfRU5wUVZyOFFpSTVWV2h5UDRXcFB1T2FUWDY3Q3hYandYcWZ3MVJVYTByVEdvVmxzRFZjTFlTYVVtX0piOXRzMU1SbUJMaXo1eHFrbE1xUQ?oc=5) |
 | 2026-09-13 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE01US1obFlpTUI2aXV2aWVIbFMxemNyLW1DalQ3TkRobDRYcFYwSE1kQmpMbHpWbDFEajRhQmtsMllpMUVyaUs1RUtYNzRlX1ZLVUwxNnVZQUZlLVRZSzZOUmFGY3hXYnFnYnNmZzc4OUZWOWEybnc?oc=5) |
 | 2026-09-10 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMia0FVX3lxTFBTVm5nbU5PX0dGV2ZvaVo0MGZzV0sxdmRwdFFoM2x4aWJySGhmVjRJbUVSb3R6MHRiZ2M4dHNhTmlfTjV1cHVqRFNDNXo4d0QydFozbGRKanppdXN1dHBYbDZqYndUcGU5NUUw?oc=5) |
 
@@ -114,10 +114,10 @@ _No items collected yet._
 | 2026-09-23 | Factory Access May Define Korea’s Physical AI Edge More Than Just Better Models - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTE1taEk2Vk01U2lDY3FOXy1SSU1lT3NYVGRDNUx6a19POVZqbnA5MGVUdGdJQXVuOVBZYnZoMTBraUdtOHk3Mm1EU211ZGtFdUdUby1SR1NOcFA2QmlDSHhfWjJPMVBNWlp1anVXQ3pFM3A0ejY4OU5US0RVdXM?oc=5) |
 | 2026-09-23 | TacnIQ.ai raises US$1.5 million from In Group Holdings to scale tactile AI - Yahoo Finance Singapore | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5CZm5QNWZkOE5nV0pMMFkzVGFrclpzT1lTS0Y2d1pyS1QxODE1bEJQcUFoWWYxRGZpSHB0SmZ0ZHJ0QVhqX0NCUGhnZTRVSk1yNUVlTzJIWWlhb1dXSWxhcUh5dHIxeVNITGIxbzBTVEstVl9lbGJ2Z1RR?oc=5) |
 | 2026-09-22 | Can Patent Filings Help Physical AI Companies Raise Capital? - Foley & Lardner LLP | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxPV21KNlZKV1o0UGJldWtLZFd3RUJPWTJKQnhid3pzSDhRT1g1UTdmcG1wZk52Z0djOUIzdHRtTThlaWtGXzFJb1NXZ2gxZnhkRFlrRXBkNXlrY2p5b2JzM1l1MDUyUGhacFBiUC1XRUVMaTdiOU1hc1dJTXc1Y0tDLS0ybHV6ZFQyWXB2NVo4NDRaVnkwQ2JBTm93UE5fMmp6MmNRS1BITDh2aXFEMnF3OHpR?oc=5) |
-| 2026-09-22 | This startup secures legal video data for physical AI - techinasia.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZM0pkYkZEM1NTVlBiYWpkY0FRcEk1UU9BWDZpZlpyWTdaUUFOZ1hpTjZrM0VTbFBxVXR2Mm9kRFl3blZOZU9pZzVNS0NwVkxyUkpJaTFIWWoyWkF0QUNfQjVKOE9DRVczWmpabDIxNElwZ3FtRzY3ZDNHOA?oc=5) |
+| 2026-09-22 | This startup secures legal video data for physical AI - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZM0pkYkZEM1NTVlBiYWpkY0FRcEk1UU9BWDZpZlpyWTdaUUFOZ1hpTjZrM0VTbFBxVXR2Mm9kRFl3blZOZU9pZzVNS0NwVkxyUkpJaTFIWWoyWkF0QUNfQjVKOE9DRVczWmpabDIxNElwZ3FtRzY3ZDNHOA?oc=5) |
+| 2026-09-22 | TacnIQ.ai Secures $1.5M to Advance Tactile AI for Physical Machines - EE Times Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0N4ajZEd3JiTGVENE1OWmE2Z24tV081dkh3dmJEQXM0Vk5IT0RUQzJpRVExb0dsWFhiWndXSnpCY3R4VzFGb25aTGlaQXNQeUJocFd0bnp3MUFxMTJvYVpWa3hmekJtMkFuWFNqSzBPamJXLWtsT3ZWajRqeE9uRnR6YUtQelZwZEFXS05LOXc2Rm1laGc?oc=5) |
 | 2026-09-22 | Embodied AI Startup Paxini Kicks Off Mainland IPO Bid Amid Sector Volatility - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXNPQlhxZ3I0dzE4c3VFRHZjMTB3a3ppMDdHcGR3RHQtY1VjVUt2eEdlSm9uNWNGTHcydEIwbEJxdHdKTDE0U0tJRlhnT2p2REE5blJSWVhKRnlMQzdvTERWaVN1VE9pZ2Znck00QzdJYTlURy1SLVJiLVFuZFAxVUxyV3AzaEVRMi00WkVoYU93cmdqNjlzRVZGVXB5Yko1UWRWUWxFaWVCSEdkTHl6MFM0QUVsVzRIMWJ3eE4xM0U1cVpqRlRROGdRNA?oc=5) |
 | 2026-09-22 | Another case of an embodied AI startup acquiring a controlling stake in a listed company? Shenpu Intelligence plans to invest RMB 800 million in the restructuring of *ST Meizhi. - Moomoo | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTQwQlB0MzQzYU1WcTNHWl9UeFQybWRiZ2J1cXJkczl3emU4S0xWZDJYTTNxOERxUU1QTWFJRW9VU1RhTXNCVFpDWThSM0tldWZoS0o4Y3JDYmx3a21RMlFzOEdQVVBBYk5ZdlFlODBWaXBLeVBtMUhSTk03NXRERVFubHNqQ0VUVDdld3gzR1hBUVg3V0xMX3ZuYUp4QURUQUpnTjg5MFBWQQ?oc=5) |
-| 2026-09-21 | MISUMI Americas Launches Venture Fund for Robotics, Hardware, Physical AI Startups - Supply & Demand Chain Executive | physical ai startup | [link](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU1JPTTNlYXpRWTM4VlFhSlFucjJxY1V0ejJxRmFhWmlSQ3RoZjZwdjdseHc3aFNaaEpVbFBQN1ZTdEZQQ2hxUXliNTlGRktZT0VkeElITVUwYkdlbWZKZUdaVW80V1diUUg1d0QtOGtwUUtSeU5uYWZaeW5ILXl6Y2lFeTVPd2JoMGZDY2c1Wk1iNVBOQXp4QUNaTG9TaUVlWFF0WnFGQVNHYl82RGhlaTBDYjNEZGRENEswaF9BeVpONGs4WTdTTXZUNDZxVXJIRDJwYzh2YkVldE9BQnFXcEViamZPcUktSk9ObmlR?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

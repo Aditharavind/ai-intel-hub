@@ -1,5 +1,33 @@
 [
   {
+    "title": "Abusing SQL to Play DOOM",
+    "source": "Hackaday",
+    "date": "2026-09-26",
+    "url": "https://hackaday.com/2026/09/25/abusing-sql-to-play-doom/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/doom-sql-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Most laypeople who encounter SQL think of it purely as a tool for managing large datasets. While that is certainly what it was designed for, SQL is still a programming <a class=\"read-more\" href=\"https://hackaday.com/2026/09/25/abusing-sql-to-play-doom/\">&#8230;read more</a>"
+  },
+  {
+    "title": "The Low-Level Waste Dumps in The Atlantic Have Become Ecosystems",
+    "source": "Hackaday",
+    "date": "2026-09-26",
+    "url": "https://hackaday.com/2026/09/25/the-low-level-waste-dumps-in-the-atlantic-have-become-ecosystems/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/nuclear_waste_dumped_atlantic_cnrs_france.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Recently French and international researchers took a look at the state of the thousands of barrels of radioactive waste that were dumped into the Atlantic Ocean between 1950 and 1990, <a class=\"read-more\" href=\"https://hackaday.com/2026/09/25/the-low-level-waste-dumps-in-the-atlantic-have-become-ecosystems/\">&#8230;read more</a>"
+  },
+  {
+    "title": "KryonOS turns ESP32 boards into JavaScript-powered mini computer",
+    "source": "CNX Software",
+    "date": "2026-09-26",
+    "url": "https://www.cnx-software.com/2026/09/26/kryonos-turns-esp32-boards-into-javascript-powered-mini-computer/",
+    "summary": "<div><img alt=\"KryonOS running on two ESP32 based devices\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/KryonOS-running-on-two-ESP32-based-devices-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>KryonOS is a small JavaScript-powered OS that turns a supported ESP32 development board with a touchscreen into a standalone computer with its own graphical interface, application launcher, and file storage. It provides the basic software environment needed to use the board without writing and flashing a separate firmware program for every application. Unlike traditional ESP32 firmware, KryonOS keeps applications separate from the main system and runs them through its built-in JavaScript runtime. It also includes an App Store that allows users to download and install applications and updates over Wi-Fi without reflashing the device. KryonOS key features: Supported MCUs – ESP32 (WROOM-32), ESP32-S2, ESP32-S3, and ESP32-C3 Storage – MicroSD card support via HSPI bus Display ILI9341 display controller with XPT2046 resistive touch controller connected via VSPI Experimental support for some other display controllers, e.g., ST7789V2 JavaScript Engine – Duktape 2.x (ES5/ES5.1 compliant). Graphics Engine – Direct-to-glass 16-bit RGB565 rendering with hardware [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/26/kryonos-turns-esp32-boards-into-javascript-powered-mini-computer/\">KryonOS turns ESP32 boards into JavaScript-powered mini computer</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "AiboJam: Sony’s desktop dog escapes onto a $40 Fruit Jam",
+    "source": "Adafruit",
+    "date": "2026-09-26",
+    "url": "https://blog.adafruit.com/2026/09/25/aibojam-sonys-desktop-dog-escapes-onto-a-40-fruit-jam/",
+    "summary": "Tiny AIBO gets another place to live: a Fruit Jam, CircuitPython, native C, and room for more people to make weird things."
+  },
+  {
     "title": "Reviving the PoE++ Feature on a Ubiquiti Switch",
     "source": "Hackaday",
     "date": "2026-09-25",
@@ -35,20 +63,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/bbc-future-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Predictions of the future are often laughable when reviewed in the years for which they are made. For example, here in 2026 we neither live on the Moon, nor have <a class=\"read-more\" href=\"https://hackaday.com/2026/09/25/did-the-bbc-and-sir-clive-get-it-right-twenty-years-ago/\">&#8230;read more</a>"
   },
   {
-    "title": "This Week in Security: FBI Gets Hacked, Muse Vulnerable to ClickFix, Popular Rust Developers at Risk, and New Attacks Against RSA",
-    "source": "Hackaday",
-    "date": "2026-09-25",
-    "url": "https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-and-new-attacks-against-rsa/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The prolific ShinyHunters group has announced it used a zero-day vulnerability in Oracle PeopleSoft to exploit the FBI jobs website and gain access to the AWS GovCloud instances and dump <a class=\"read-more\" href=\"https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-and-new-attacks-against-rsa/\">&#8230;read more</a>"
-  },
-  {
-    "title": "What Should Pine64 Build With Microcontrollers?",
-    "source": "Hackaday",
-    "date": "2026-09-25",
-    "url": "https://hackaday.com/2026/09/25/what-should-pine64-build-with-microcontrollers/",
-    "summary": "<div><img alt=\"Screenshot of the survey webpage, saying &quot;Invitation to participate in a new fun hardware discussion in the PINE64 Community Pine Store may have stopped production on Linux hardware, but that doesn&#039;t mean all production has stopped. Hardware like the Pinecil, PineTime and PineVoice that use MCUs will continue production as normal. This is a great opportunity to come up with new ideas for MCU powered hardware. Now that the PinePhone has stopped production, there is a gap in the hardware lineup for a &quot;fun&quot; device. This definition of &quot;fun&quot; boils down to whether a device can have multiple use cases or purposes. The PineTime, PinePhone and PineNote can be considered &quot;fun&quot; as they can be used for multiple purposes and multiple projects can naturally form around them. An example of the opposite would be devices like the Pinecil and PineBuds which serve a single purpose and build less of a community around them as a result (but both are still great). OKAY, SO! We&#039;d like to share some initial ideas on what a cheap fun tinkerers device could be. 1.What hardware do you prefer?Required Please drag these items from most (1) to least (5) preferred. ?Alarm clock ?PinePhone-esque device but MCU powered (attachments possible?) ?Handy multi-tool with screen, fido hardware key, nfc, etc ?Other (next question) ?MP3 player&quot;\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/hadimg_pine64_survey_1.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Pine64 is an open-source-community-centered project of mostly-open hardware, known for such hits as the PinePhone, the Pinecil soldering iron, and the PineTime. Now, the Pine64 project wants to know what <a class=\"read-more\" href=\"https://hackaday.com/2026/09/25/what-should-pine64-build-with-microcontrollers/\">&#8230;read more</a>"
-  },
-  {
     "title": "Compact Long-Wave Infrared camera pairs STM32N6 MCU with Lynred ATI320 thermal sensor",
     "source": "CNX Software",
     "date": "2026-09-25",
@@ -75,76 +89,6 @@
     "date": "2026-09-25",
     "url": "https://www.embedded.com/ezurio-unveils-bl54lm20-bluetooth-le-modules/",
     "summary": "<p>Ezurio has launched the BL54LM20 Series of Bluetooth LE modules. The new family includes the BL54LM20A with Bluetooth LE Core 6.x, 802.15.4 (Thread/Matter), and NFC; the BL54LM20B with Bluetooth LE, 802.15.4, NFC, and an edge AI neural processing unit (NPU); and the BL54LM20B USB-C adapter for Bluetooth LE and 802.15.4 connectivity. The BL54LM20 Series, built [...]</p>\n<p>The post <a href=\"https://www.embedded.com/ezurio-unveils-bl54lm20-bluetooth-le-modules/\">Ezurio Unveils BL54LM20 Bluetooth LE Modules</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "The Bringer Of Peace, Love And A Kicking",
-    "source": "Electronics Weekly",
-    "date": "2026-09-25",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-bringer-of-peace-love-and-a-kicking-2026-09/",
-    "summary": "<p>In May 1998 EW carried this yarn: ’Intel chairman Andy Grove, having handed over operational duties to president Craig Barrett, was discharging his new role as industry mentor in Asia [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-bringer-of-peace-love-and-a-kicking-2026-09/\">The Bringer Of Peace, Love And A Kicking</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Google’s Suncatcher aims for datacentres in space with TPU moonshot",
-    "source": "Electronics Weekly",
-    "date": "2026-09-25",
-    "url": "https://www.electronicsweekly.com/news/googles-suncatcher-aims-for-datacentres-in-space-with-tpu-moonshot-2026-09/",
-    "summary": "<p>Google&#8217;s Project Suncatcher is scheduled to send its first prototype satellite into orbit next week, to evaluate how Google Tensor Processing Units (TPUs) perform in space. Google describes the project [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/googles-suncatcher-aims-for-datacentres-in-space-with-tpu-moonshot-2026-09/\">Google&#8217;s Suncatcher aims for datacentres in space with TPU moonshot</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "QSM603FCP smart board supports AIoT for Android, Linux",
-    "source": "Electronics Weekly",
-    "date": "2026-09-25",
-    "url": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/qsm603fcp-smart-board-supports-aiot-for-android-linux-2026-09/",
-    "summary": "<p>At Embedded World North America the wireless specialist Quectel has announced its QSM603FCP, a &#8220;smart PCBA&#8221; for edge computing that supports Android and Linux systems. It runs on MediaTek’s high-performance [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/bus-systems-sbcs/qsm603fcp-smart-board-supports-aiot-for-android-linux-2026-09/\">QSM603FCP smart board supports AIoT for Android, Linux</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "CSignum secures £2.6m funding for underwater wireless comms",
-    "source": "Electronics Weekly",
-    "date": "2026-09-25",
-    "url": "https://www.electronicsweekly.com/news/business/csignum-secures-2-6m-funding-underwater-wireless-comms-2026-09/",
-    "summary": "<p>CSignum, a startup for wireless IoT communications from beneath the surface, has completed a £2.6 million funding round. This follows on from previous Series A investment. The backing will enable [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/csignum-secures-2-6m-funding-underwater-wireless-comms-2026-09/\">CSignum secures £2.6m funding for underwater wireless comms</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Most Read – Prototyping Tesla’s A15, LPDDR5X DRAM, Silicon photonics PICs",
-    "source": "Electronics Weekly",
-    "date": "2026-09-25",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-prototyping-teslas-a15-lpddr5x-dram-silicon-photonics-pics-2026-09/",
-    "summary": "<p>The most popular ones on the site cover record revenue in the server market, Samsung running prototypes of Tesla’s 2nm A15 chip, and OpenLight sampling the first 3.2T DR8 silicon photonic power ICs.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-prototyping-teslas-a15-lpddr5x-dram-silicon-photonics-pics-2026-09/\">Most Read &#8211; Prototyping Tesla&#8217;s A15, LPDDR5X DRAM, Silicon photonics PICs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "UK blocked from pre-release access to US AI frontier models",
-    "source": "Electronics Weekly",
-    "date": "2026-09-25",
-    "url": "https://www.electronicsweekly.com/news/business/uk-testers-blocked-from-pre-release-access-to-us-ai-frontier-models-2026-09/",
-    "summary": "<p>Despite Prime Minister Andy Burnham telling the UN that the UK and US are working hand in glove on AI safety the US  has told OpenAI and Anthropic not to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/uk-testers-blocked-from-pre-release-access-to-us-ai-frontier-models-2026-09/\">UK blocked from pre-release access to US AI frontier models</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Which is the real Terafab?",
-    "source": "Electronics Weekly",
-    "date": "2026-09-25",
-    "url": "https://www.electronicsweekly.com/news/business/which-is-the-real-terafab-2026-09/",
-    "summary": "<p>Terafab is either a massive chip fab being built by Elon Musk in Texas or a desk-top photolithography tool for prototyping devices (pictured above). No doubt Elon was surprised to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/which-is-the-real-terafab-2026-09/\">Which is the real Terafab?</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Advanced packaging to be a $51bn market by 2031",
-    "source": "Electronics Weekly",
-    "date": "2026-09-25",
-    "url": "https://www.electronicsweekly.com/news/business/advanced-packaging-to-be-a-51bn-market-by-2031-2026-09/",
-    "summary": "<p>AI accelerators , HBM Integration, and Co-packaged optics are pushing higher performance packaging past  $51 billion by 2031, says Yole. High-end performance packaging revenue has a 27% CAGR during 2025-2031. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/advanced-packaging-to-be-a-51bn-market-by-2031-2026-09/\">Advanced packaging to be a $51bn market by 2031</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "UK adds 16 Unicorns so far this year",
-    "source": "Electronics Weekly",
-    "date": "2026-09-25",
-    "url": "https://www.electronicsweekly.com/news/business/uk-adds-16-unicorns-2026-09/",
-    "summary": "<p>The UK has added 16 unicorns so far this year taking the country’s current total to 100 unicorns with 91 reaching unicorn status since 2017, according to Tracxn Technologies. This [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/uk-adds-16-unicorns-2026-09/\">UK adds 16 Unicorns so far this year</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Spatial accessory trackers for Apple headsets",
-    "source": "Electronics Weekly",
-    "date": "2026-09-25",
-    "url": "https://www.electronicsweekly.com/news/business/spatial-accessory-tracking-modules-for-apples-vision-pro-2026-09/",
-    "summary": "<p>Mikroe, the click board specialist, has come up  its Spatial Anchor S1 and Spatial Anchor R1 precise spatial accessory tracking modules for Apple’s Vision Pro headset. Both are now shipping [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/spatial-accessory-tracking-modules-for-apples-vision-pro-2026-09/\">Spatial accessory trackers for Apple headsets</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "John Park’s CircuitPython Parsec: Random Choice",
@@ -180,6 +124,13 @@
     "date": "2026-09-25",
     "url": "https://blog.adafruit.com/2026/09/25/get-ready-for-electronic-halloween-with-neopixel-jewel/",
     "summary": "&#160; &#160; Be the belle of the Halloween ball with the NeoPixel Jewel! We fit seven of our tiny 5050 (5mm x 5mm) smart RGB LEDs onto a beautiful, round PCB with mounting holes and a chainable design to create what we think is our most elegant (and evening-wear appropriate) NeoPixel board yet. Get started [&#8230;]"
+  },
+  {
+    "title": "LAPL celebrates Latino Heritage Month #HispanicHeritageMonth",
+    "source": "Adafruit",
+    "date": "2026-09-25",
+    "url": "https://blog.adafruit.com/2026/09/25/lapl-celebrates-latino-heritage-month-hispanicheritagemonth/",
+    "summary": "Los Angeles Libros Festival a free bilingual book festival will offer a full day of entertainment featuring Spanish-language and bilingual storytelling (and so much more) this weekend! View all of the LAPL&#8217;s Latino heritage month events here! Via LAPL"
   },
   {
     "title": "CircuitPython 11.0.0-alpha.1 Released!",
@@ -285,20 +236,6 @@
     "date": "2026-09-24",
     "url": "https://blog.adafruit.com/2026/09/24/raspberry-pi5-with-nvme-hat-tool-less-case-3dthursday-3dprinting/",
     "summary": "Shared by Jerry on MakerWorld: This is tool-less case designed to accommodate a Raspberry Pi5 with active cooler and a Pineberry HatDrive! bottom. Happy printing and assembly 🙂 Download the files and learn more Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making solid objects from [&#8230;]"
-  },
-  {
-    "title": "Tabletop Solder Fume Extractor – Delta Server Fan with PWM Control #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-09-24",
-    "url": "https://blog.adafruit.com/2026/09/24/tabletop-solder-fume-extractor-delta-server-fan-with-pwm-control-3dthursday-3dprinting/",
-    "summary": "flummer shares: A small tabletop fume extractor built around a repurposed 60×60×40mm Delta server fan (AFC0612DE-AF00 from HP servers). Loud at full speed, so includes a small microcontroller board sending 25% PWM signal for quiet minimum-speed operation. Uses commercial replacement filter cut to size (10mm thick). 4× M3 heat-set brass inserts + 55mm cap head [&#8230;]"
-  },
-  {
-    "title": "John Park’s Workshop — LIVE TODAY 9/24/26",
-    "source": "Adafruit",
-    "date": "2026-09-24",
-    "url": "https://blog.adafruit.com/2026/09/24/john-parks-workshop-live-today-9-24-26/",
-    "summary": "It&#8217;s JOHN PARK’S WORKSHOP — LIVE! &#8212; Coming up at 4pm ET / 1pm PT Today (the usual time, no change to the Workshop show schedule)!  LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects CircuitPython Parsec Learn Guides Tool Tips Retro Gear and more! The live video will be on Youtube LIVE, [&#8230;]"
   },
   {
     "title": "Trilogic Systems Partners with Tekdense, Expanding Its North American Presence in High-Performance Rugged Computing for Aerospace and Defense Markets",
@@ -418,12 +355,5 @@
     "date": "2026-09-21",
     "url": "https://www.embedded.com/lynred-launches-capt640-automotive-thermal-imaging-sensor/",
     "summary": "<p>Lynred has introduced the CAPT640, a thermal imaging sensor designed specifically for automotive applications and advanced driver-assistance systems (ADAS). The company describes the device as Europe's first thermal imaging sensor developed for the automotive industry. Lynred will present the technology at AutoSens Barcelona, September 22-24, 2026. The CAPT640 is designed to complement conventional visible-light cameras, [...]</p>\n<p>The post <a href=\"https://www.embedded.com/lynred-launches-capt640-automotive-thermal-imaging-sensor/\">Lynred Launches CAPT640 Automotive Thermal Imaging Sensor</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "High-end 8-channel oscilloscope features 12-core AMD EPYC CPU, 96GB RAM, 15.6-inch display, and more",
-    "source": "CNX Software",
-    "date": "2026-09-20",
-    "url": "https://www.cnx-software.com/2026/09/20/high-end-8-channel-oscilloscope-features-12-core-amd-epyc-cpu-96gb-ram-15-6-inch-display/",
-    "summary": "<div><img alt=\"Tektronix DPO718AX - An 8-channel oscilloscope with 25 GHz bandwidth and 125 GSs sampling\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Tektronix-DPO714AX-A-8-channel-oscilloscope-with-25-GHz-bandwidth-and-125-GSs-sampling-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Tektronix has launched the 7 Series DPO (Digital Phosphor Oscilloscope), and the company claims the DPO718AX model is the world&#8217;s first 8-channel performance oscilloscope with up to 25 GHz analog bandwidth per channel (and 125 GS/s sampling). The new family is designed for high-speed serial compliance testing, wideband RF analysis, and high-energy physics research. Powered by a 12-core AMD EPYC Embedded 3351 processor paired with 96 GB RAM, 1.6 TB storage, an NVIDIA T1000 GPU, and a 15.6-inch touchscreen display, the oscilloscope looks like a high-end PC running Linux (or Windows 10 LTSC). It also includes a 10 Gbps SFP+ port with TekHSI technology for transferring large waveform datasets to an external PC, with Tektronix specifying up to 11x higher throughput. Tektronix 7 Series DPO key specifications: SoC – 12-core AMD EPYC Embedded 3351 12-core processor @ 3 GHz GPU &#8211; NVIDIA T1000 GPU with 896 NVIDIA CUDA cores System [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/20/high-end-8-channel-oscilloscope-features-12-core-amd-epyc-cpu-96gb-ram-15-6-inch-display/\">High-end 8-channel oscilloscope features 12-core AMD EPYC CPU, 96GB RAM, 15.6-inch display, and more</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   }
 ]
