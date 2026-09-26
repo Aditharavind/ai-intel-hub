@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-26 05:38 UTC
+Last Updated: 2026-09-26 10:20 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-26 | Easy Ways Sink a Hardware Startup | Hackaday | [link](https://hackaday.com/2026/09/26/easy-ways-sink-a-hardware-startup/) |
 | 2026-09-26 | Abusing SQL to Play DOOM | Hackaday | [link](https://hackaday.com/2026/09/25/abusing-sql-to-play-doom/) |
 | 2026-09-26 | The Low-Level Waste Dumps in The Atlantic Have Become Ecosystems | Hackaday | [link](https://hackaday.com/2026/09/25/the-low-level-waste-dumps-in-the-atlantic-have-become-ecosystems/) |
 | 2026-09-26 | KryonOS turns ESP32 boards into JavaScript-powered mini computer | CNX Software | [link](https://www.cnx-software.com/2026/09/26/kryonos-turns-esp32-boards-into-javascript-powered-mini-computer/) |
@@ -57,7 +58,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-25 | Pi Pico Recreates The Heathkit Pocket Packet | Hackaday | [link](https://hackaday.com/2026/09/25/pi-pico-recreates-the-heathkit-pocket-packet/) |
 | 2026-09-25 | Investigating a Rare Burnout 3 Beta Disc | Hackaday | [link](https://hackaday.com/2026/09/25/investigating-a-rare-burnout-3-beta-disc/) |
 | 2026-09-25 | Hackaday Podcast Episode 388: RAM-Swapping on Raspberry Pi, Raindrops on Radar, and a Fine Mesh | Hackaday | [link](https://hackaday.com/2026/09/25/hackaday-podcast-episode-388-ram-swapping-on-raspberry-pi-raindrops-on-radar-and-a-fine-mesh/) |
-| 2026-09-25 | Did The BBC and Sir Clive Get it Right Twenty Years Ago? | Hackaday | [link](https://hackaday.com/2026/09/25/did-the-bbc-and-sir-clive-get-it-right-twenty-years-ago/) |
 | 2026-09-25 | Compact Long-Wave Infrared camera pairs STM32N6 MCU with Lynred ATI320 thermal sensor | CNX Software | [link](https://www.cnx-software.com/2026/09/25/compact-long-wave-infrared-camera-pairs-stm32n6-mcu-with-lynred-ati320-thermal-sensor/) |
 
 ## New Research Papers
@@ -66,30 +66,30 @@ _No items collected yet._
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-26 | miracle-techlink/lingbot-vla-v2-6b-lerobot-robotwin | 39 | 0 | [link](https://huggingface.co/miracle-techlink/lingbot-vla-v2-6b-lerobot-robotwin) |
 | 2026-09-26 | D-Robotics/Uranus-1.3B-Distillation | 0 | 0 | [link](https://huggingface.co/D-Robotics/Uranus-1.3B-Distillation) |
 | 2026-09-26 | D-Robotics/Uranus-1.3B | 0 | 0 | [link](https://huggingface.co/D-Robotics/Uranus-1.3B) |
-| 2026-09-26 | sebastienroa/robotics-vision-language-study | 0 | 0 | [link](https://huggingface.co/sebastienroa/robotics-vision-language-study) |
+| 2026-09-26 | sebastienroa/robotics-vision-language-study | 4 | 0 | [link](https://huggingface.co/sebastienroa/robotics-vision-language-study) |
 | 2026-09-26 | sraivante/superfast-tiny-home-robotic | 0 | 0 | [link](https://huggingface.co/sraivante/superfast-tiny-home-robotic) |
 | 2026-09-26 | sraivante/superfast-tiny-home-robotics-json-1m-v3 | 0 | 0 | [link](https://huggingface.co/sraivante/superfast-tiny-home-robotics-json-1m-v3) |
-| 2026-09-26 | puppet-robotics/golf-model-2-8fps-30-rtc-precond-no-putt | 0 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-2-8fps-30-rtc-precond-no-putt) |
+| 2026-09-26 | puppet-robotics/golf-model-2-8fps-30-rtc-precond-no-putt | 11 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-2-8fps-30-rtc-precond-no-putt) |
 | 2026-09-26 | Riasok/pi05-robot-checkpoints-20260912 | 0 | 0 | [link](https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912) |
-| 2026-09-26 | tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-40k | 0 | 0 | [link](https://huggingface.co/tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-40k) |
-| 2026-09-26 | vladmandic/MicroDecoder | 2 | 0 | [link](https://huggingface.co/vladmandic/MicroDecoder) |
-| 2026-09-26 | Najongs/vla-recipe-ckpts | 0 | 0 | [link](https://huggingface.co/Najongs/vla-recipe-ckpts) |
+| 2026-09-26 | tsangb34/pi05-so101-stack-white_bowls-100episodes-vlareplica-40k-frozen-vision | 0 | 0 | [link](https://huggingface.co/tsangb34/pi05-so101-stack-white_bowls-100episodes-vlareplica-40k-frozen-vision) |
+| 2026-09-26 | leeibo/ActiveArena-VLA | 0 | 1 | [link](https://huggingface.co/leeibo/ActiveArena-VLA) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28450 | Python | 11380.1 | [link](https://github.com/harvard-edge/cs249r_book) |
-| commaai/openpilot | 63733 | Python | 25493.3 | [link](https://github.com/commaai/openpilot) |
+| harvard-edge/cs249r_book | 28460 | Python | 11384.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| commaai/openpilot | 63736 | Python | 25494.5 | [link](https://github.com/commaai/openpilot) |
 | questdb/questdb | 17351 | Java | 6940.5 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 16374 | Python | 6549.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| dora-rs/dora | 3978 | Rust | 1591.3 | [link](https://github.com/dora-rs/dora) |
+| earthtojake/text-to-cad | 16383 | Python | 6553.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| dora-rs/dora | 3979 | Rust | 1591.7 | [link](https://github.com/dora-rs/dora) |
 | sou350121/VLA-Handbook | 652 | HTML | 260.9 | [link](https://github.com/sou350121/VLA-Handbook) |
 | RealXiaoze/humanoid-motion-intelligence | 603 |  | 241.3 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
-| deeplethe/utopia | 7808 | Rust | 3123.3 | [link](https://github.com/deeplethe/utopia) |
-| vllm-project/vllm-omni | 7065 | Python | 2826.1 | [link](https://github.com/vllm-project/vllm-omni) |
-| Hyperspawn/Dropbear | 34 | Python | 13.7 | [link](https://github.com/Hyperspawn/Dropbear) |
+| deeplethe/utopia | 7916 | Rust | 3166.5 | [link](https://github.com/deeplethe/utopia) |
+| vllm-project/vllm-omni | 7067 | Python | 2826.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| automatika-robotics/emos | 79 | Go | 31.7 | [link](https://github.com/automatika-robotics/emos) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -115,7 +115,7 @@ _No items collected yet._
 | 2026-09-23 | TacnIQ.ai raises US$1.5 million from In Group Holdings to scale tactile AI - Yahoo Finance Singapore | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5CZm5QNWZkOE5nV0pMMFkzVGFrclpzT1lTS0Y2d1pyS1QxODE1bEJQcUFoWWYxRGZpSHB0SmZ0ZHJ0QVhqX0NCUGhnZTRVSk1yNUVlTzJIWWlhb1dXSWxhcUh5dHIxeVNITGIxbzBTVEstVl9lbGJ2Z1RR?oc=5) |
 | 2026-09-22 | Can Patent Filings Help Physical AI Companies Raise Capital? - Foley & Lardner LLP | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxPV21KNlZKV1o0UGJldWtLZFd3RUJPWTJKQnhid3pzSDhRT1g1UTdmcG1wZk52Z0djOUIzdHRtTThlaWtGXzFJb1NXZ2gxZnhkRFlrRXBkNXlrY2p5b2JzM1l1MDUyUGhacFBiUC1XRUVMaTdiOU1hc1dJTXc1Y0tDLS0ybHV6ZFQyWXB2NVo4NDRaVnkwQ2JBTm93UE5fMmp6MmNRS1BITDh2aXFEMnF3OHpR?oc=5) |
 | 2026-09-22 | This startup secures legal video data for physical AI - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZM0pkYkZEM1NTVlBiYWpkY0FRcEk1UU9BWDZpZlpyWTdaUUFOZ1hpTjZrM0VTbFBxVXR2Mm9kRFl3blZOZU9pZzVNS0NwVkxyUkpJaTFIWWoyWkF0QUNfQjVKOE9DRVczWmpabDIxNElwZ3FtRzY3ZDNHOA?oc=5) |
-| 2026-09-22 | TacnIQ.ai Secures $1.5M to Advance Tactile AI for Physical Machines - EE Times Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0N4ajZEd3JiTGVENE1OWmE2Z24tV081dkh3dmJEQXM0Vk5IT0RUQzJpRVExb0dsWFhiWndXSnpCY3R4VzFGb25aTGlaQXNQeUJocFd0bnp3MUFxMTJvYVpWa3hmekJtMkFuWFNqSzBPamJXLWtsT3ZWajRqeE9uRnR6YUtQelZwZEFXS05LOXc2Rm1laGc?oc=5) |
+| 2026-09-22 | TacnIQ.ai Secures $1.5M to Advance Tactile AI for Physical Machines - eetasia.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0N4ajZEd3JiTGVENE1OWmE2Z24tV081dkh3dmJEQXM0Vk5IT0RUQzJpRVExb0dsWFhiWndXSnpCY3R4VzFGb25aTGlaQXNQeUJocFd0bnp3MUFxMTJvYVpWa3hmekJtMkFuWFNqSzBPamJXLWtsT3ZWajRqeE9uRnR6YUtQelZwZEFXS05LOXc2Rm1laGc?oc=5) |
 | 2026-09-22 | Embodied AI Startup Paxini Kicks Off Mainland IPO Bid Amid Sector Volatility - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXNPQlhxZ3I0dzE4c3VFRHZjMTB3a3ppMDdHcGR3RHQtY1VjVUt2eEdlSm9uNWNGTHcydEIwbEJxdHdKTDE0U0tJRlhnT2p2REE5blJSWVhKRnlMQzdvTERWaVN1VE9pZ2Znck00QzdJYTlURy1SLVJiLVFuZFAxVUxyV3AzaEVRMi00WkVoYU93cmdqNjlzRVZGVXB5Yko1UWRWUWxFaWVCSEdkTHl6MFM0QUVsVzRIMWJ3eE4xM0U1cVpqRlRROGdRNA?oc=5) |
 | 2026-09-22 | Another case of an embodied AI startup acquiring a controlling stake in a listed company? Shenpu Intelligence plans to invest RMB 800 million in the restructuring of *ST Meizhi. - Moomoo | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTQwQlB0MzQzYU1WcTNHWl9UeFQybWRiZ2J1cXJkczl3emU4S0xWZDJYTTNxOERxUU1QTWFJRW9VU1RhTXNCVFpDWThSM0tldWZoS0o4Y3JDYmx3a21RMlFzOEdQVVBBYk5ZdlFlODBWaXBLeVBtMUhSTk03NXRERVFubHNqQ0VUVDdld3gzR1hBUVg3V0xMX3ZuYUp4QURUQUpnTjg5MFBWQQ?oc=5) |
 

@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-26 05:38 UTC
+Generated: 2026-09-26 10:20 UTC
 
 ## Top Papers
 _No items collected yet._
@@ -8,20 +8,20 @@ _No items collected yet._
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83561 | 33424.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63733 | 25493.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44599 | 17839.7 | [link](https://github.com/NaiboWang/EasySpider) |
+| Developer-Y/cs-video-courses | 83560 | 33424.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63736 | 25494.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44602 | 17840.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30586 | 12234.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28450 | 11380.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28460 | 11384.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| tsinghua-sigs-robot-lab/VeriLoop-E2 | 917 | 277.8 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2) |
-| ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 181 | 54.6 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
-| ubr-physical-ai/Cosmos3-Edge-NF4-bnb | 84 | 25.3 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-NF4-bnb) |
-| DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy | 81 | 24.8 | [link](https://huggingface.co/DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy) |
-| Tron-Hayato/smolvla-policy | 73 | 22.0 | [link](https://huggingface.co/Tron-Hayato/smolvla-policy) |
+| tsinghua-sigs-robot-lab/VeriLoop-E2 | 1641 | 495.0 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2) |
+| sraivante/superfast-tiny-home-robotics-json-1m-v1 | 339 | 101.8 | [link](https://huggingface.co/sraivante/superfast-tiny-home-robotics-json-1m-v1) |
+| ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 186 | 56.1 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
+| Tron-Hayato/smolvla-policy | 98 | 29.5 | [link](https://huggingface.co/Tron-Hayato/smolvla-policy) |
+| ubr-physical-ai/Cosmos3-Edge-NF4-bnb | 86 | 25.9 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-NF4-bnb) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
