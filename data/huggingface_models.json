@@ -9,6 +9,24 @@
     "score": 0.1
   },
   {
+    "model": "Najongs/vla-recipe-ckpts",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
+    "date": "2026-09-27",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "motonovix/vladrop-drop9-pruned",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/motonovix/vladrop-drop9-pruned",
+    "date": "2026-09-27",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-action-expert-only-40k",
     "downloads": 0,
     "likes": 0,
@@ -18,12 +36,66 @@
     "score": 0.1
   },
   {
+    "model": "EmbodiedCity/WorldVLN",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/EmbodiedCity/WorldVLN",
+    "date": "2026-09-27",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
     "model": "Wawnowak/embodied-ai",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Wawnowak/embodied-ai",
     "date": "2026-09-27",
     "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot",
+    "date": "2026-09-27",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ujheo/my_policy",
+    "downloads": 76,
+    "likes": 0,
+    "url": "https://huggingface.co/ujheo/my_policy",
+    "date": "2026-09-27",
+    "keyword": "policy",
+    "score": 22.9
+  },
+  {
+    "model": "Chaenn/act_policy_so101_multitask_oldsim_pick_place_stack_onehot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Chaenn/act_policy_so101_multitask_oldsim_pick_place_stack_onehot",
+    "date": "2026-09-27",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "hydraathiin/box-screwdriver-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/hydraathiin/box-screwdriver-policy",
+    "date": "2026-09-27",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "arshjeevs/act_test_pickup_policy_3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/arshjeevs/act_test_pickup_policy_3",
+    "date": "2026-09-27",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -189,15 +261,6 @@
     "score": 0.1
   },
   {
-    "model": "Najongs/vla-recipe-ckpts",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
-    "date": "2026-09-26",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "leeibo/ActiveArena-VLA",
     "downloads": 0,
     "likes": 1,
@@ -214,15 +277,6 @@
     "date": "2026-09-26",
     "keyword": "vla",
     "score": 14.2
-  },
-  {
-    "model": "tsangb34/pi05-so101-upright-bottle-vlareplica-40k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tsangb34/pi05-so101-upright-bottle-vlareplica-40k",
-    "date": "2026-09-26",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "Ldnmoore9114/cs231n-embodied-ai",
@@ -288,15 +342,6 @@
     "score": 0.1
   },
   {
-    "model": "ujheo/my_policy",
-    "downloads": 76,
-    "likes": 0,
-    "url": "https://huggingface.co/ujheo/my_policy",
-    "date": "2026-09-26",
-    "keyword": "policy",
-    "score": 22.9
-  },
-  {
     "model": "puppet-robotics/puppet-robotics_golf-model-base_2026-09-22_only-expected_migrated",
     "downloads": 0,
     "likes": 0,
@@ -313,42 +358,6 @@
     "date": "2026-09-25",
     "keyword": "world model",
     "score": 0.1
-  },
-  {
-    "model": "wandelbotsgmbh/act_real_noise_150_merged_policy",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/wandelbotsgmbh/act_real_noise_150_merged_policy",
-    "date": "2026-09-25",
-    "keyword": "policy",
-    "score": 1.9
-  },
-  {
-    "model": "policyengine/policyengine-uk-data-private",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/policyengine/policyengine-uk-data-private",
-    "date": "2026-09-25",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "oregoncoast/my_policy",
-    "downloads": 10,
-    "likes": 0,
-    "url": "https://huggingface.co/oregoncoast/my_policy",
-    "date": "2026-09-25",
-    "keyword": "policy",
-    "score": 3.1
-  },
-  {
-    "model": "stefhannisse/red_cube_policy",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/stefhannisse/red_cube_policy",
-    "date": "2026-09-25",
-    "keyword": "policy",
-    "score": 4.6
   },
   {
     "model": "puppet-robotics/golf-model-base_2026-09-22_only-expected",
@@ -520,15 +529,6 @@
     "date": "2026-09-21",
     "keyword": "world model",
     "score": 0.1
-  },
-  {
-    "model": "wangw-an2006/test-embodied-ai",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/wangw-an2006/test-embodied-ai",
-    "date": "2026-09-21",
-    "keyword": "embodied",
-    "score": 4.6
   },
   {
     "model": "runtime-contracts/qwen3-8b-navigation-lora-stateless",

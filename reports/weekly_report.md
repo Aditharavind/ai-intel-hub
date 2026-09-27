@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-27 02:34 UTC
+Generated: 2026-09-27 08:36 UTC
 
 ## Top Papers
 _No items collected yet._
@@ -8,11 +8,11 @@ _No items collected yet._
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83566 | 33426.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63742 | 25496.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44607 | 17842.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30588 | 12235.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28509 | 11403.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83565 | 33426.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63743 | 25497.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44609 | 17843.7 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30591 | 12236.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28523 | 11409.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -35,7 +35,7 @@ _No items collected yet._
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-26 | Midcentury Emerges From Stealth With $15M Seed for Physical AI Training Data - Ventureburn | physical ai startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE9pOGtTSGpidF9aSWRZaW11ZGtXcHZNR2hjdXhQU05EZ1FpeUVUV3hZbnhFcVcwX2tDV1BNLWhuX1l4Ukx6amZQLXhJNEpZaVczWjFjbWZOa1JkNGduVWtJa0RTZmpIUERxNVBLMWpXck1peFd5X1dJcdIBeEFVX3lxTE9pOGtTSGpidF9aSWRZaW11ZGtXcHZNR2hjdXhQU05EZ1FpeUVUV3hZbnhFcVcwX2tDV1BNLWhuX1l4Ukx6amZQLXhJNEpZaVczWjFjbWZOa1JkNGduVWtJa0RTZmpIUERxNVBLMWpXck1peFd5X1dJcQ?oc=5) |
+| 2026-09-27 | AI startup urges optimism from Europe despite safety fears - IraqiNews | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxPOTJ0VndkYWJpTGdna01nZkllNktDZmFYWk91WEY0RnZiaUtOMHJwYmxUaVZvQWhURzN4dVBUc2hoWkd5WlVYWlowcHNNT2hhZzNmUXZiLWk3bkVoTHhDQm5fNWg1d3lLU3owWWdiZEE3ZzNGckh5elRWSTNaa1I0R01RWFNERTlscFlLR3Rya0FqVVRD?oc=5) |
 | 2026-09-26 | Humanoid Robots' Designs Reflect Diverse Functional Roles - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmFZejJZRnA1NktrR3lhcGhZeFM5Y2V0bUxmUTNxd0hoSzRUSkpZeFJpd0dXclZ0T1MwTkhrSXVuQUxhRFVfcTZUaUphMHNnSU0tUnJuRnhvcWtpRTVYQkwxMzFDal9tRmV6Vjg0RXh1Z1hsY1JsMUZwb1JfRzRoMkRoLTktTDU2?oc=5) |
 | 2026-09-25 | Feather Launches $29,990 Humanoid Robot. Small Teams Are Rewriting The Economics Of Humanoids - Forbes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT0JxeElwZ1N3VkhGa1RyOF9nWUVqd1BDendQNnpmNmFiMW1MWHBPcGpvUVpDU2R2dUZmaTZ0UEtfUjNKT1dORzF2WGs3WERja1RDNjMtb3hHbS1FWGVKZDJXQ1h5TjI4czNTV3p3LUN4UFVmeURBRm5CS1hBTk8xSGsxQTZ5dWJjUFpEMTZfSEhVekcyb0o4RHl0RzhvUm9yeHdNQ1pUWWJHUjVpM091a2R5QTZqUFlqUFNGZ0prSzRDaXpyeGJYYl84ZHkyZW54cTluWFJZdDk1S0Fl?oc=5) |
 | 2026-09-24 | Google Cloud Identifies Three AI Stack Priorities Driving Startup Infrastructure Choices - konsulteer.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQlh0NjFBaC14TThyc2FNZlVsTnFuR1l2ek5JenhXRVJGZEhjY2V6MlJlWUV3MDZrdXFLVXE5NkJjTTBpMFE5SU9hR211WXBDMkxTOWhqYWxxMFNCX2w0NER5S01SMjc1OGM2YlZsR3JqYWFucFhGTmtXZ0dhSVlnb0VMQ29Ub0YwelF1eENaamJTejBZT09oRHNVZ19Ga05YTmZpNEx1cllPX0Nma25jM0pnbEkyZXJfaEpEbzBOWWc?oc=5) |
