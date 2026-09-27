@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-26 23:57 UTC
+Last Updated: 2026-09-27 02:34 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-27 | A Modular Macro Keypad | Hackaday | [link](https://hackaday.com/2026/09/26/a-modular-macro-keypad/) |
+| 2026-09-27 | LILYGO T-Dongle-C5 – An ESP32-C5 USB dongle with microSD card slot, optional 0.96-inch OLED | CNX Software | [link](https://www.cnx-software.com/2026/09/27/lilygo-t-dongle-c5-an-esp32-c5-usb-dongle-with-microsd-card-slot-optional-0-96-inch-oled/) |
 | 2026-09-26 | Cheap Yellow Display Dreams of PDA | Hackaday | [link](https://hackaday.com/2026/09/26/cheap-yellow-display-dreams-of-pda/) |
 | 2026-09-26 | Self-Repairing Conductive Material from Liquid Metal | Hackaday | [link](https://hackaday.com/2026/09/26/self-repairing-conductive-material-from-liquid-metal/) |
 | 2026-09-26 | A Pocket-Sized Digital Fish Tank | Hackaday | [link](https://hackaday.com/2026/09/26/a-pocket-sized-digital-fish-tank/) |
 | 2026-09-26 | The Least Annoying of All Evils | Hackaday | [link](https://hackaday.com/2026/09/26/the-least-annoying-of-all-evils/) |
 | 2026-09-26 | You Can Make a Microprocessor That’s All Your Own | Hackaday | [link](https://hackaday.com/2026/09/26/you-can-make-a-microprocessor-thats-all-your-own/) |
 | 2026-09-26 | Easy Ways To Sink a Hardware Startup | Hackaday | [link](https://hackaday.com/2026/09/26/easy-ways-to-sink-a-hardware-startup/) |
-| 2026-09-26 | Abusing SQL to Play DOOM | Hackaday | [link](https://hackaday.com/2026/09/25/abusing-sql-to-play-doom/) |
 | 2026-09-26 | KryonOS turns ESP32 boards into JavaScript-powered mini computer | CNX Software | [link](https://www.cnx-software.com/2026/09/26/kryonos-turns-esp32-boards-into-javascript-powered-mini-computer/) |
 | 2026-09-26 | Step into the Creative Mind of Guillermo del Toro | Adafruit | [link](https://blog.adafruit.com/2026/09/26/step-into-the-creative-mind-of-guillermo-del-toro/) |
-| 2026-09-26 | AiboJam: Sony’s desktop dog escapes onto a $40 Fruit Jam | Adafruit | [link](https://blog.adafruit.com/2026/09/25/aibojam-sonys-desktop-dog-escapes-onto-a-40-fruit-jam/) |
 
 ## New Research Papers
 _No items collected yet._
@@ -66,30 +66,30 @@ _No items collected yet._
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-27 | hvsr-robotics/a1x-wrist-grasp-sim | 0 | 0 | [link](https://huggingface.co/hvsr-robotics/a1x-wrist-grasp-sim) |
+| 2026-09-27 | tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-action-expert-only-40k | 0 | 0 | [link](https://huggingface.co/tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-action-expert-only-40k) |
+| 2026-09-27 | Wawnowak/embodied-ai | 0 | 0 | [link](https://huggingface.co/Wawnowak/embodied-ai) |
+| 2026-09-27 | Project-Studio200/my_act_policy | 0 | 0 | [link](https://huggingface.co/Project-Studio200/my_act_policy) |
+| 2026-09-27 | dontKnow23456/WAM-Policy | 0 | 0 | [link](https://huggingface.co/dontKnow23456/WAM-Policy) |
 | 2026-09-26 | sraivante/superfast-tiny-home-robotic | 0 | 0 | [link](https://huggingface.co/sraivante/superfast-tiny-home-robotic) |
 | 2026-09-26 | sraivante/superfast-tiny-home-robotics-json-1m-v3 | 0 | 0 | [link](https://huggingface.co/sraivante/superfast-tiny-home-robotics-json-1m-v3) |
 | 2026-09-26 | sraivante/superfast-tiny-home-robotics-json-1m-v1 | 339 | 0 | [link](https://huggingface.co/sraivante/superfast-tiny-home-robotics-json-1m-v1) |
 | 2026-09-26 | javi-errem/robotics-vision-language | 0 | 0 | [link](https://huggingface.co/javi-errem/robotics-vision-language) |
 | 2026-09-26 | miracle-techlink/lingbot-vla-v2-6b-lerobot-robotwin | 39 | 0 | [link](https://huggingface.co/miracle-techlink/lingbot-vla-v2-6b-lerobot-robotwin) |
-| 2026-09-26 | D-Robotics/Uranus-1.3B-Distillation | 0 | 0 | [link](https://huggingface.co/D-Robotics/Uranus-1.3B-Distillation) |
-| 2026-09-26 | D-Robotics/Uranus-1.3B | 0 | 0 | [link](https://huggingface.co/D-Robotics/Uranus-1.3B) |
-| 2026-09-26 | sebastienroa/robotics-vision-language-study | 4 | 0 | [link](https://huggingface.co/sebastienroa/robotics-vision-language-study) |
-| 2026-09-26 | puppet-robotics/golf-model-2-8fps-30-rtc-precond-no-putt | 11 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-2-8fps-30-rtc-precond-no-putt) |
-| 2026-09-26 | Riasok/pi05-robot-checkpoints-20260912 | 0 | 0 | [link](https://huggingface.co/Riasok/pi05-robot-checkpoints-20260912) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28505 | Python | 11402.1 | [link](https://github.com/harvard-edge/cs249r_book) |
-| copper-project/copper-rs | 1504 | Rust | 601.7 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63741 | Python | 25496.5 | [link](https://github.com/commaai/openpilot) |
+| harvard-edge/cs249r_book | 28509 | Python | 11403.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 | questdb/questdb | 17351 | Java | 6940.5 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 16395 | Python | 6558.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| zauberzeug/nicegui | 16243 | Python | 6497.3 | [link](https://github.com/zauberzeug/nicegui) |
-| dora-rs/dora | 3980 | Rust | 1592.1 | [link](https://github.com/dora-rs/dora) |
+| earthtojake/text-to-cad | 16401 | Python | 6560.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | sou350121/VLA-Handbook | 654 | HTML | 261.7 | [link](https://github.com/sou350121/VLA-Handbook) |
 | RealXiaoze/humanoid-motion-intelligence | 604 |  | 241.7 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
-| deeplethe/utopia | 7941 | Rust | 3176.5 | [link](https://github.com/deeplethe/utopia) |
+| deeplethe/utopia | 7988 | Rust | 3195.3 | [link](https://github.com/deeplethe/utopia) |
+| vllm-project/vllm-omni | 7076 | Python | 2830.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| softmata/horus | 440 | Rust | 176.1 | [link](https://github.com/softmata/horus) |
+| Hyperspawn/Dropbear | 34 | Python | 13.7 | [link](https://github.com/Hyperspawn/Dropbear) |
+| isaac-sim/IsaacLab | 8229 | Python | 3291.7 | [link](https://github.com/isaac-sim/IsaacLab) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -102,8 +102,8 @@ _No items collected yet._
 | 2026-09-21 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQmFWSTF5RExCM0kxZ3k4RTRtbVkzWmgxVjVhTkpTeF9VbWxsSVZGaWY5QXkyY2h1UEdRelJUb2FYcWlLdVEwRUtMQktkNExqd2RRZmVfMWZaeDYxNlVvU3F1UVdTbnJnVmJuUTJySG5fX2g2aUVhUWNNNWtNRW9VSjJEeFNKSmxCZ3ZTS1hmZG93blZRdXNtcFFQbEllYnYyTFUtM3dVUXRzeTUxa3VIV2o1Q0NXX2RWclRyUzVuUHpDaGNXX0t1bTBIRW83dDh1dVJCbjQ0LW9sQ1BrcEVGQ0VBdw?oc=5) |
 | 2026-09-18 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUFxbDRKOVBBRE9QZUtfRkNzTTlUaXJQaU1zZC03UkZlLVhUWDNHa2Fhc2lFTDRMREViMjJnd21NWG83ZDB2QS1wSG1EUnBtNXdOYmZBZGxmbTVFNnk1RDYtSm1hTTFNem0wTVlka1FfT2otcTU3ekJTQmNhRHlseTNIbnBUUnB1VDJTaG9hSE5aeDl4VE1ybw?oc=5) |
 | 2026-09-14 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTWpiTlNmSjROU2hWME1sQjZUTWxfVUg2M1cyVkVfVmduOUZ5ejBNM0pGSk9Sd3Y0Z1lQN2NreEN5ZVVwcWpuYnVObUVNWWZuUXc?oc=5) |
+| 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTdPREtqeXg0S1ZXenoxTUxlOEpzS1pxY3ZBSk1NOUFpM01INFZiekdWbU5WZDJ0UHUwV09KSGxURUhEUVNkM2htRzU2ZWRiYVRWeDlPX1lKaGJiYlJ5bTFLNnpEQ2hCa1hGNkxaNWZpUExFQkpCY2x1YnBZamFHN3NSM0xYWTlVOVVnQWlOYjh4c0hBSnBWUkpla2VuV1RLZmFTclA4MTZQWmxBT2tIUkU5WlpHQQ?oc=5) |
 | 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1tZG9Nak05YThrN2JjY2c5RXlUd3Y3Wm5mUlB2RFBmQXFMNGswcl9kck5sdlptRTFwZzdWNmRsSjFPb1pjN1NBZVdKMnNReU9lWkJndnRYSlBPY1NWSmsyRXJCeG9adVNIbG1sbGVQZGI3S2tfN2c?oc=5) |
-| 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxNemR4a0IyX3M2WlNDeHdoVUU1cEptTmtFRFpnWnFKTGNjX3U1aDFPTmJUSC1ka00zMWR1QTFNQ29PajVWWHNiMm8zUFVmck9zRS1hTUQxLURRalRvRmJIOWNRMW5TTy1Gb0JXQmoyMkc3WHNISTlqOGZLZWhQQlZfRU5wUVZyOFFpSTVWV2h5UDRXcFB1T2FUWDY3Q3hYandYcWZ3MVJVYTByVEdvVmxzRFZjTFlTYVVtX0piOXRzMU1SbUJMaXo1eHFrbE1xUQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
