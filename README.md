@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-27 18:41 UTC
+Last Updated: 2026-09-27 21:40 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-27 | Defeating Satellite Spoofing with Galileo’s Encryption | Hackaday | [link](https://hackaday.com/2026/09/27/defeating-satellite-spoofing-with-galileos-encryption/) |
 | 2026-09-27 | Ways To Empirically Identify a Magnet’s Polarity | Hackaday | [link](https://hackaday.com/2026/09/27/ways-to-empirically-identify-a-magnets-polarity/) |
 | 2026-09-27 | Enormous Fluid Simulation on Flip Dots is also Enormous Amount of Work | Hackaday | [link](https://hackaday.com/2026/09/27/enormous-fluid-simulation-on-flip-dots-is-also-enormous-amount-of-work/) |
 | 2026-09-27 | Reverse Engineering Apple’s Mikey Chip | Hackaday | [link](https://hackaday.com/2026/09/27/reverse-engineering-apples-mikey-chip/) |
@@ -56,9 +57,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-27 | Basically, Galvanizing Metal Without Acid | Hackaday | [link](https://hackaday.com/2026/09/26/basically-galvanizing-metal-without-acid/) |
 | 2026-09-27 | A Modular Macro Keypad | Hackaday | [link](https://hackaday.com/2026/09/26/a-modular-macro-keypad/) |
 | 2026-09-27 | LILYGO T-Dongle-C5 – An ESP32-C5 USB dongle with microSD card slot, optional 0.96-inch OLED | CNX Software | [link](https://www.cnx-software.com/2026/09/27/lilygo-t-dongle-c5-an-esp32-c5-usb-dongle-with-microsd-card-slot-optional-0-96-inch-oled/) |
+| 2026-09-27 | HalloWing M4 Animated Eye Candy Bowl | Adafruit | [link](https://blog.adafruit.com/2026/09/27/hallowing-m4-animated-eye-candy-bowl/) |
 | 2026-09-27 | Welcome to Michoud: Take a Look Inside NASA’s Rocket Factory | Adafruit | [link](https://blog.adafruit.com/2026/09/27/welcome-to-michoud-take-a-look-inside-nasas-rocket-factory/) |
-| 2026-09-26 | Cheap Yellow Display Dreams of PDA | Hackaday | [link](https://hackaday.com/2026/09/26/cheap-yellow-display-dreams-of-pda/) |
-| 2026-09-26 | KryonOS turns ESP32 boards into JavaScript-powered mini computer | CNX Software | [link](https://www.cnx-software.com/2026/09/26/kryonos-turns-esp32-boards-into-javascript-powered-mini-computer/) |
 
 ## New Research Papers
 _No items collected yet._
@@ -66,6 +66,7 @@ _No items collected yet._
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-27 | puppet-robotics/checkpoint_test | 0 | 0 | [link](https://huggingface.co/puppet-robotics/checkpoint_test) |
 | 2026-09-27 | sraivante/tiny-agentic-home-robotic-for-edge-device-v10 | 0 | 1 | [link](https://huggingface.co/sraivante/tiny-agentic-home-robotic-for-edge-device-v10) |
 | 2026-09-27 | hvsr-robotics/a1x-wrist-grasp-sim | 0 | 0 | [link](https://huggingface.co/hvsr-robotics/a1x-wrist-grasp-sim) |
 | 2026-09-27 | vladmandic/sdnext-upscalers | 0 | 5 | [link](https://huggingface.co/vladmandic/sdnext-upscalers) |
@@ -75,21 +76,20 @@ _No items collected yet._
 | 2026-09-27 | weepiess2383/vla-ckpt-05 | 0 | 0 | [link](https://huggingface.co/weepiess2383/vla-ckpt-05) |
 | 2026-09-27 | weepiess2383/vla-ckpt-03 | 0 | 0 | [link](https://huggingface.co/weepiess2383/vla-ckpt-03) |
 | 2026-09-27 | weepiess2383/vla-ckpt-04 | 0 | 0 | [link](https://huggingface.co/weepiess2383/vla-ckpt-04) |
-| 2026-09-27 | motonovix/vladrop-drop9-pruned | 0 | 0 | [link](https://huggingface.co/motonovix/vladrop-drop9-pruned) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28553 | Python | 11421.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28573 | Python | 11429.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 | copper-project/copper-rs | 1505 | Rust | 602.1 | [link](https://github.com/copper-project/copper-rs) |
-| Developer-Y/cs-video-courses | 83567 |  | 33426.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63742 | Python | 25496.9 | [link](https://github.com/commaai/openpilot) |
-| questdb/questdb | 17355 | Java | 6942.1 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 16422 | Python | 6568.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| pnoker/iot-dc3 | 1288 | Java | 515.3 | [link](https://github.com/pnoker/iot-dc3) |
+| Developer-Y/cs-video-courses | 83569 |  | 33427.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63743 | Python | 25497.3 | [link](https://github.com/commaai/openpilot) |
+| questdb/questdb | 17357 | Java | 6942.9 | [link](https://github.com/questdb/questdb) |
+| earthtojake/text-to-cad | 16426 | Python | 6570.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | zauberzeug/nicegui | 16244 | Python | 6497.7 | [link](https://github.com/zauberzeug/nicegui) |
 | sou350121/VLA-Handbook | 655 | HTML | 262.1 | [link](https://github.com/sou350121/VLA-Handbook) |
 | RealXiaoze/humanoid-motion-intelligence | 604 |  | 241.7 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
-| baidu-baige/LoongForge | 582 | Python | 232.9 | [link](https://github.com/baidu-baige/LoongForge) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -98,8 +98,8 @@ _No items collected yet._
 | 2026-09-23 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUnA2VG1XT1ByUVItemxmRzhrVEhEaHd2R2M3LW5pMTBnMG1TaU43OFF1dHVKdzZpbmtSLTVvZ2hBUGtpQTl4RFVrSTd2QkxuZmxKN0xIa3hkQlMzeDJtQ3ktaTRVZWd0cC1OVzMtdFd1ektGLXJUNURkQ21CWU02OXJyS2FVYlNFdFBFNUl2blR4VUcxZktqVg?oc=5) |
 | 2026-09-22 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5RZUcza2x4OHd3bTh0MFB0bkJRd3pSR3VKdkRiWElXN1N5aG9ad0lKYlNtN2k1QkpmcEpMZ1psV3FWX2R5RUJSaVpWa2hBM0hzRmVqNEpSY1RiSURLdmRyMGpxYnNXTlpjVG9ud0xOWjJ6OGFuN1E?oc=5) |
 | 2026-09-22 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWJIdHBpd1NjMmxJbnl3MnhreFZsaFhnTW50MFZWWi1EeWJsQjNUVWR4YTJ4S2lLcHZ3V2ZzRGczWG13MFZ4S05PVDJDX0lMYVA5SmN0MktRdGhtaUMzZ2xMeHJHUkVWVHNFaWZjYUJRUVQtME9RdWlDbWZzcnZrNkpuYnVnS0xpUmJTdWhMak1jZkRZY3h5MnBGUmlfU2FpOEFfb3hnVlNVTzJORjlPaA?oc=5) |
-| 2026-09-21 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzcwTk1oOWQzbGNkRVJ1MTdsSGtON244WXFqdk5TNHQ5cHBPck94VVhCanFtZmY2S3UyYkZGY0ozcGE5eXFTVElja0hwODR6djI1d0pvM0dIS1ZSbHNMTm9yZ29iMFZ1bU43bklyYXc1SGJFNnV3MEpMaGtiTks2TktCejZpOXN4a1U4ek14SGZhMHc5cHFDMEdtUEk?oc=5) |
 | 2026-09-21 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQmFWSTF5RExCM0kxZ3k4RTRtbVkzWmgxVjVhTkpTeF9VbWxsSVZGaWY5QXkyY2h1UEdRelJUb2FYcWlLdVEwRUtMQktkNExqd2RRZmVfMWZaeDYxNlVvU3F1UVdTbnJnVmJuUTJySG5fX2g2aUVhUWNNNWtNRW9VSjJEeFNKSmxCZ3ZTS1hmZG93blZRdXNtcFFQbEllYnYyTFUtM3dVUXRzeTUxa3VIV2o1Q0NXX2RWclRyUzVuUHpDaGNXX0t1bTBIRW83dDh1dVJCbjQ0LW9sQ1BrcEVGQ0VBdw?oc=5) |
+| 2026-09-21 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzcwTk1oOWQzbGNkRVJ1MTdsSGtON244WXFqdk5TNHQ5cHBPck94VVhCanFtZmY2S3UyYkZGY0ozcGE5eXFTVElja0hwODR6djI1d0pvM0dIS1ZSbHNMTm9yZ29iMFZ1bU43bklyYXc1SGJFNnV3MEpMaGtiTks2TktCejZpOXN4a1U4ek14SGZhMHc5cHFDMEdtUEk?oc=5) |
 | 2026-09-18 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUFxbDRKOVBBRE9QZUtfRkNzTTlUaXJQaU1zZC03UkZlLVhUWDNHa2Fhc2lFTDRMREViMjJnd21NWG83ZDB2QS1wSG1EUnBtNXdOYmZBZGxmbTVFNnk1RDYtSm1hTTFNem0wTVlka1FfT2otcTU3ekJTQmNhRHlseTNIbnBUUnB1VDJTaG9hSE5aeDl4VE1ybw?oc=5) |
 | 2026-09-14 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTWpiTlNmSjROU2hWME1sQjZUTWxfVUg2M1cyVkVfVmduOUZ5ejBNM0pGSk9Sd3Y0Z1lQN2NreEN5ZVVwcWpuYnVObUVNWWZuUXc?oc=5) |
 | 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUG9xNjNSb3NaNnQtX1dBNzV0WmJFTFdCRS1uLXkzQUt3OTJFTmxzWUZ0c2l2RFUxZGU1R1lKcHgydDBURVozRmlZTU41aXZvVTBuQmFfM2RUSFJFVmRnY2w4Qm1fWEFUdnpoVVFCd3o5RFRncjhaNGN3NHNVaHNqUFhFMnBJanJHM1lCSHlmTzN3dFJqT2RKY3N0TG9keUo3al94SEJCSGlnT3drTjU0UF85Rkt3YU14U21TTXZqcURKY09XUF9V?oc=5) |

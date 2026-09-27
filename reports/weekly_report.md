@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-27 18:41 UTC
+Generated: 2026-09-27 21:40 UTC
 
 ## Top Papers
 _No items collected yet._
@@ -8,11 +8,11 @@ _No items collected yet._
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83567 | 33426.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63742 | 25496.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83569 | 33427.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63743 | 25497.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44614 | 17845.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30596 | 12238.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28553 | 11421.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28573 | 11429.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -30,7 +30,7 @@ _No items collected yet._
 | 2026-09-23 | Unitree |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUnA2VG1XT1ByUVItemxmRzhrVEhEaHd2R2M3LW5pMTBnMG1TaU43OFF1dHVKdzZpbmtSLTVvZ2hBUGtpQTl4RFVrSTd2QkxuZmxKN0xIa3hkQlMzeDJtQ3ktaTRVZWd0cC1OVzMtdFd1ektGLXJUNURkQ21CWU02OXJyS2FVYlNFdFBFNUl2blR4VUcxZktqVg?oc=5) |
 | 2026-09-22 | Skild AI |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5RZUcza2x4OHd3bTh0MFB0bkJRd3pSR3VKdkRiWElXN1N5aG9ad0lKYlNtN2k1QkpmcEpMZ1psV3FWX2R5RUJSaVpWa2hBM0hzRmVqNEpSY1RiSURLdmRyMGpxYnNXTlpjVG9ud0xOWjJ6OGFuN1E?oc=5) |
 | 2026-09-22 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWJIdHBpd1NjMmxJbnl3MnhreFZsaFhnTW50MFZWWi1EeWJsQjNUVWR4YTJ4S2lLcHZ3V2ZzRGczWG13MFZ4S05PVDJDX0lMYVA5SmN0MktRdGhtaUMzZ2xMeHJHUkVWVHNFaWZjYUJRUVQtME9RdWlDbWZzcnZrNkpuYnVnS0xpUmJTdWhMak1jZkRZY3h5MnBGUmlfU2FpOEFfb3hnVlNVTzJORjlPaA?oc=5) |
-| 2026-09-21 | Unitree |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzcwTk1oOWQzbGNkRVJ1MTdsSGtON244WXFqdk5TNHQ5cHBPck94VVhCanFtZmY2S3UyYkZGY0ozcGE5eXFTVElja0hwODR6djI1d0pvM0dIS1ZSbHNMTm9yZ29iMFZ1bU43bklyYXc1SGJFNnV3MEpMaGtiTks2TktCejZpOXN4a1U4ek14SGZhMHc5cHFDMEdtUEk?oc=5) |
+| 2026-09-21 | Unitree |  | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQmFWSTF5RExCM0kxZ3k4RTRtbVkzWmgxVjVhTkpTeF9VbWxsSVZGaWY5QXkyY2h1UEdRelJUb2FYcWlLdVEwRUtMQktkNExqd2RRZmVfMWZaeDYxNlVvU3F1UVdTbnJnVmJuUTJySG5fX2g2aUVhUWNNNWtNRW9VSjJEeFNKSmxCZ3ZTS1hmZG93blZRdXNtcFFQbEllYnYyTFUtM3dVUXRzeTUxa3VIV2o1Q0NXX2RWclRyUzVuUHpDaGNXX0t1bTBIRW83dDh1dVJCbjQ0LW9sQ1BrcEVGQ0VBdw?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |

@@ -1,13 +1,13 @@
 [
   {
     "repo": "harvard-edge/cs249r_book",
-    "stars": 28553,
+    "stars": 28573,
     "language": "Python",
     "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
     "url": "https://github.com/harvard-edge/cs249r_book",
     "date": "2026-09-27",
     "topic": "embodied-ai",
-    "score": 11421.3
+    "score": 11429.3
   },
   {
     "repo": "copper-project/copper-rs",
@@ -20,44 +20,54 @@
     "score": 602.1
   },
   {
+    "repo": "pnoker/iot-dc3",
+    "stars": 1288,
+    "language": "Java",
+    "description": "IoT DC3 — Connect the Physical World to AI. An open-source Industrial IoT Runtime for Physical AI: 36 protocol drivers, edge-to-cloud data delivery, and an MCP tool gateway so AI agents act on devices in a safe, controllable, traceable loop.",
+    "url": "https://github.com/pnoker/iot-dc3",
+    "date": "2026-09-27",
+    "topic": "physical-ai",
+    "score": 515.3
+  },
+  {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 83567,
+    "stars": 83569,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-09-27",
     "topic": "robotics",
-    "score": 33426.9
+    "score": 33427.7
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63742,
+    "stars": 63743,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-09-27",
     "topic": "robotics",
-    "score": 25496.9
+    "score": 25497.3
   },
   {
     "repo": "questdb/questdb",
-    "stars": 17355,
+    "stars": 17357,
     "language": "Java",
     "description": "QuestDB is a high performance, open-source, time-series database",
     "url": "https://github.com/questdb/questdb",
     "date": "2026-09-27",
     "topic": "robotics",
-    "score": 6942.1
+    "score": 6942.9
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 16422,
+    "stars": 16426,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-09-27",
     "topic": "robotics",
-    "score": 6568.9
+    "score": 6570.5
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -91,33 +101,33 @@
   },
   {
     "repo": "baidu-baige/LoongForge",
-    "stars": 582,
+    "stars": 583,
     "language": "Python",
     "description": "A high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.   LoongForge is named after the traditional Chinese loong boat (龙舟), a symbol of coordinated power and forward momentum. ",
     "url": "https://github.com/baidu-baige/LoongForge",
     "date": "2026-09-27",
     "topic": "vla",
-    "score": 232.9
+    "score": 233.3
   },
   {
     "repo": "deeplethe/utopia",
-    "stars": 8043,
+    "stars": 8046,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-09-27",
     "topic": "world-model",
-    "score": 3217.3
+    "score": 3218.5
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 7085,
+    "stars": 7087,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-09-27",
     "topic": "world-model",
-    "score": 2834.1
+    "score": 2834.9
   },
   {
     "repo": "softmata/horus",
@@ -138,6 +148,16 @@
     "date": "2026-09-27",
     "topic": "humanoid",
     "score": 31.7
+  },
+  {
+    "repo": "thanhndv212/figaroh-plus",
+    "stars": 62,
+    "language": "Python",
+    "description": "A system identification framework for robots",
+    "url": "https://github.com/thanhndv212/figaroh-plus",
+    "date": "2026-09-27",
+    "topic": "humanoid",
+    "score": 24.9
   },
   {
     "repo": "Hyperspawn/Dropbear",
@@ -230,24 +250,14 @@
     "score": 1383.7
   },
   {
-    "repo": "pnoker/iot-dc3",
-    "stars": 1288,
-    "language": "Java",
-    "description": "IoT DC3 — Connect the Physical World to AI. An open-source Industrial IoT Runtime for Physical AI: 36 protocol drivers, edge-to-cloud data delivery, and an MCP tool gateway so AI agents act on devices in a safe, controllable, traceable loop.",
-    "url": "https://github.com/pnoker/iot-dc3",
-    "date": "2026-09-25",
-    "topic": "physical-ai",
-    "score": 515.3
-  },
-  {
     "repo": "mosaico-labs/mosaico",
-    "stars": 1055,
+    "stars": 1054,
     "language": "Python",
     "description": "Mosaico - The data platform for Physical AI",
     "url": "https://github.com/mosaico-labs/mosaico",
     "date": "2026-09-25",
     "topic": "physical-ai",
-    "score": 422.1
+    "score": 421.7
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -261,13 +271,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 15359,
+    "stars": 15360,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-09-25",
     "topic": "robotics",
-    "score": 6143.7
+    "score": 6144.1
   },
   {
     "repo": "RLinf/RLinf",
@@ -291,13 +301,13 @@
   },
   {
     "repo": "robocasa/robocasa",
-    "stars": 1763,
+    "stars": 1764,
     "language": "Python",
     "description": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
     "url": "https://github.com/robocasa/robocasa",
     "date": "2026-09-25",
     "topic": "robot-learning",
-    "score": 705.3
+    "score": 705.7
   },
   {
     "repo": "rokbenko/quackd",
@@ -351,13 +361,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS-core",
-    "stars": 2558,
+    "stars": 2559,
     "language": "Python",
     "description": "PhyAgentOS is a Recursive Self-Improving (RSI)  physical agent operating system that enables agents to recursively self-improve through agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
     "date": "2026-09-24",
     "topic": "embodied-ai",
-    "score": 1023.3
+    "score": 1023.7
   },
   {
     "repo": "worldbench/awesome-vla-for-ad",
@@ -431,13 +441,13 @@
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3447,
+    "stars": 3448,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-09-23",
     "topic": "embodied-ai",
-    "score": 1378.9
+    "score": 1379.3
   },
   {
     "repo": "dexmal/opendm",
@@ -481,13 +491,13 @@
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 2226,
+    "stars": 2227,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-09-22",
     "topic": "world-model",
-    "score": 890.5
+    "score": 890.9
   },
   {
     "repo": "Thinklab-SJTU/Awesome-LLM4AD",
@@ -691,13 +701,13 @@
   },
   {
     "repo": "DLR-RM/stable-baselines3",
-    "stars": 13849,
+    "stars": 13850,
     "language": "Python",
     "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
     "url": "https://github.com/DLR-RM/stable-baselines3",
     "date": "2026-09-09",
     "topic": "robotics",
-    "score": 5539.7
+    "score": 5540.1
   },
   {
     "repo": "Matrixchung/iFOC",
@@ -748,16 +758,6 @@
     "date": "2026-09-08",
     "topic": "vla",
     "score": 212.5
-  },
-  {
-    "repo": "thanhndv212/figaroh-plus",
-    "stars": 62,
-    "language": "Python",
-    "description": "A system identification framework for robots",
-    "url": "https://github.com/thanhndv212/figaroh-plus",
-    "date": "2026-09-07",
-    "topic": "humanoid",
-    "score": 24.9
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
@@ -841,12 +841,12 @@
   },
   {
     "repo": "reality-opened/openreality",
-    "stars": 122,
+    "stars": 123,
     "language": "Python",
     "description": "Open Reality: phone video to AI-queryable 3D scenes. MCP tools for Claude/Codex/Cursor (npm openreality-mcp), the self-hostable broker, and the VGGT-SLAM library, in one repo. BSD-2-Clause.",
     "url": "https://github.com/reality-opened/openreality",
     "date": "2026-09-03",
     "topic": "lerobot",
-    "score": 48.9
+    "score": 49.3
   }
 ]
