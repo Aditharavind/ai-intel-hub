@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-27 08:36 UTC
+Last Updated: 2026-09-27 14:20 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-27 | Asimov’s laws are not enough to keep robotics and AI safe | Robotics Business Review | [link](https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/) |
 | 2026-09-26 | From 14 cities to 15,000: What it will take to scale robotaxis? | Robotics Business Review | [link](https://www.therobotreport.com/from-14-cities-to-15000-what-it-will-take-to-scale-robotaxis/) |
 | 2026-09-25 | Farmers are facing more pressure; CNH says robotics can help | Robotics Business Review | [link](https://www.therobotreport.com/farmers-are-facing-more-pressure-cnh-says-robotics-can-help/) |
 | 2026-09-25 | Video Friday: Life’s Better With a Little Robot Goose | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-goose-household-robots) |
@@ -44,21 +45,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-24 | Why you should look beyond the spec sheet when choosing motion architecture | Robotics Business Review | [link](https://www.therobotreport.com/why-you-should-look-beyond-spec-sheet-when-choosing-motion-architecture/) |
 | 2026-09-24 | Epson introduces AX6 cobot with compact design, no-code programming | Robotics Business Review | [link](https://www.therobotreport.com/epson-introduces-ax6-cobot-compact-design-no-code-programming/) |
 | 2026-09-24 | ANYbotics opens the door for inspections with ANYmal robots | Robotics Business Review | [link](https://www.therobotreport.com/anybotics-opens-the-door-for-inspections-with-anymal-robots/) |
-| 2026-09-24 | Mexican EPICS in IEEE Team Builds Portable Educational Platform | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/epics-in-ieee-portable-educational) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-27 | Enormous Fluid Simulation on Flip Dots is also Enormous Amount of Work | Hackaday | [link](https://hackaday.com/2026/09/27/enormous-fluid-simulation-on-flip-dots-is-also-enormous-amount-of-work/) |
+| 2026-09-27 | Reverse Engineering Apple’s Mikey Chip | Hackaday | [link](https://hackaday.com/2026/09/27/reverse-engineering-apples-mikey-chip/) |
 | 2026-09-27 | When the Debugger Lies With Stale Cache Values | Hackaday | [link](https://hackaday.com/2026/09/27/when-the-debugger-lies-with-stale-cache-values/) |
 | 2026-09-27 | Basically, Galvanizing Metal Without Acid | Hackaday | [link](https://hackaday.com/2026/09/26/basically-galvanizing-metal-without-acid/) |
 | 2026-09-27 | A Modular Macro Keypad | Hackaday | [link](https://hackaday.com/2026/09/26/a-modular-macro-keypad/) |
 | 2026-09-27 | LILYGO T-Dongle-C5 – An ESP32-C5 USB dongle with microSD card slot, optional 0.96-inch OLED | CNX Software | [link](https://www.cnx-software.com/2026/09/27/lilygo-t-dongle-c5-an-esp32-c5-usb-dongle-with-microsd-card-slot-optional-0-96-inch-oled/) |
+| 2026-09-27 | Welcome to Michoud: Take a Look Inside NASA’s Rocket Factory | Adafruit | [link](https://blog.adafruit.com/2026/09/27/welcome-to-michoud-take-a-look-inside-nasas-rocket-factory/) |
 | 2026-09-26 | Cheap Yellow Display Dreams of PDA | Hackaday | [link](https://hackaday.com/2026/09/26/cheap-yellow-display-dreams-of-pda/) |
 | 2026-09-26 | Self-Repairing Conductive Material from Liquid Metal | Hackaday | [link](https://hackaday.com/2026/09/26/self-repairing-conductive-material-from-liquid-metal/) |
-| 2026-09-26 | A Pocket-Sized Digital Fish Tank | Hackaday | [link](https://hackaday.com/2026/09/26/a-pocket-sized-digital-fish-tank/) |
-| 2026-09-26 | The Least Annoying of All Evils | Hackaday | [link](https://hackaday.com/2026/09/26/the-least-annoying-of-all-evils/) |
 | 2026-09-26 | KryonOS turns ESP32 boards into JavaScript-powered mini computer | CNX Software | [link](https://www.cnx-software.com/2026/09/26/kryonos-turns-esp32-boards-into-javascript-powered-mini-computer/) |
-| 2026-09-26 | Step into the Creative Mind of Guillermo del Toro | Adafruit | [link](https://blog.adafruit.com/2026/09/26/step-into-the-creative-mind-of-guillermo-del-toro/) |
 
 ## New Research Papers
 _No items collected yet._
@@ -66,30 +66,30 @@ _No items collected yet._
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-27 | sraivante/tiny-agentic-home-robotic-for-edge-device-v10 | 0 | 1 | [link](https://huggingface.co/sraivante/tiny-agentic-home-robotic-for-edge-device-v10) |
 | 2026-09-27 | hvsr-robotics/a1x-wrist-grasp-sim | 0 | 0 | [link](https://huggingface.co/hvsr-robotics/a1x-wrist-grasp-sim) |
 | 2026-09-27 | Najongs/vla-recipe-ckpts | 0 | 0 | [link](https://huggingface.co/Najongs/vla-recipe-ckpts) |
+| 2026-09-27 | weepiess2383/vla-ckpt-01 | 0 | 0 | [link](https://huggingface.co/weepiess2383/vla-ckpt-01) |
+| 2026-09-27 | weepiess2383/vla-ckpt-02 | 0 | 0 | [link](https://huggingface.co/weepiess2383/vla-ckpt-02) |
+| 2026-09-27 | weepiess2383/vla-ckpt-05 | 0 | 0 | [link](https://huggingface.co/weepiess2383/vla-ckpt-05) |
+| 2026-09-27 | weepiess2383/vla-ckpt-03 | 0 | 0 | [link](https://huggingface.co/weepiess2383/vla-ckpt-03) |
+| 2026-09-27 | weepiess2383/vla-ckpt-04 | 0 | 0 | [link](https://huggingface.co/weepiess2383/vla-ckpt-04) |
 | 2026-09-27 | motonovix/vladrop-drop9-pruned | 0 | 0 | [link](https://huggingface.co/motonovix/vladrop-drop9-pruned) |
 | 2026-09-27 | tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-action-expert-only-40k | 0 | 0 | [link](https://huggingface.co/tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-action-expert-only-40k) |
-| 2026-09-27 | EmbodiedCity/WorldVLN | 0 | 0 | [link](https://huggingface.co/EmbodiedCity/WorldVLN) |
-| 2026-09-27 | Wawnowak/embodied-ai | 0 | 0 | [link](https://huggingface.co/Wawnowak/embodied-ai) |
-| 2026-09-27 | Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot | 0 | 0 | [link](https://huggingface.co/Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot) |
-| 2026-09-27 | ujheo/my_policy | 76 | 0 | [link](https://huggingface.co/ujheo/my_policy) |
-| 2026-09-27 | Chaenn/act_policy_so101_multitask_oldsim_pick_place_stack_onehot | 0 | 0 | [link](https://huggingface.co/Chaenn/act_policy_so101_multitask_oldsim_pick_place_stack_onehot) |
-| 2026-09-27 | hydraathiin/box-screwdriver-policy | 0 | 0 | [link](https://huggingface.co/hydraathiin/box-screwdriver-policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28523 | Python | 11409.3 | [link](https://github.com/harvard-edge/cs249r_book) |
-| questdb/questdb | 17352 | Java | 6940.9 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 16412 | Python | 6564.9 | [link](https://github.com/earthtojake/text-to-cad) |
-| sou350121/VLA-Handbook | 654 | HTML | 261.7 | [link](https://github.com/sou350121/VLA-Handbook) |
+| harvard-edge/cs249r_book | 28531 | Python | 11412.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| commaai/openpilot | 63743 | Python | 25497.3 | [link](https://github.com/commaai/openpilot) |
+| questdb/questdb | 17353 | Java | 6941.3 | [link](https://github.com/questdb/questdb) |
+| earthtojake/text-to-cad | 16416 | Python | 6566.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| zauberzeug/nicegui | 16244 | Python | 6497.7 | [link](https://github.com/zauberzeug/nicegui) |
+| sou350121/VLA-Handbook | 655 | HTML | 262.1 | [link](https://github.com/sou350121/VLA-Handbook) |
 | RealXiaoze/humanoid-motion-intelligence | 604 |  | 241.7 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
-| deeplethe/utopia | 8023 | Rust | 3209.3 | [link](https://github.com/deeplethe/utopia) |
-| vllm-project/vllm-omni | 7081 | Python | 2832.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| deeplethe/utopia | 8042 | Rust | 3216.9 | [link](https://github.com/deeplethe/utopia) |
+| vllm-project/vllm-omni | 7084 | Python | 2833.7 | [link](https://github.com/vllm-project/vllm-omni) |
 | softmata/horus | 440 | Rust | 176.1 | [link](https://github.com/softmata/horus) |
-| automatika-robotics/emos | 79 | Go | 31.7 | [link](https://github.com/automatika-robotics/emos) |
-| Hyperspawn/Dropbear | 34 | Python | 13.7 | [link](https://github.com/Hyperspawn/Dropbear) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -102,13 +102,12 @@ _No items collected yet._
 | 2026-09-21 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQmFWSTF5RExCM0kxZ3k4RTRtbVkzWmgxVjVhTkpTeF9VbWxsSVZGaWY5QXkyY2h1UEdRelJUb2FYcWlLdVEwRUtMQktkNExqd2RRZmVfMWZaeDYxNlVvU3F1UVdTbnJnVmJuUTJySG5fX2g2aUVhUWNNNWtNRW9VSjJEeFNKSmxCZ3ZTS1hmZG93blZRdXNtcFFQbEllYnYyTFUtM3dVUXRzeTUxa3VIV2o1Q0NXX2RWclRyUzVuUHpDaGNXX0t1bTBIRW83dDh1dVJCbjQ0LW9sQ1BrcEVGQ0VBdw?oc=5) |
 | 2026-09-18 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUFxbDRKOVBBRE9QZUtfRkNzTTlUaXJQaU1zZC03UkZlLVhUWDNHa2Fhc2lFTDRMREViMjJnd21NWG83ZDB2QS1wSG1EUnBtNXdOYmZBZGxmbTVFNnk1RDYtSm1hTTFNem0wTVlka1FfT2otcTU3ekJTQmNhRHlseTNIbnBUUnB1VDJTaG9hSE5aeDl4VE1ybw?oc=5) |
 | 2026-09-14 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTWpiTlNmSjROU2hWME1sQjZUTWxfVUg2M1cyVkVfVmduOUZ5ejBNM0pGSk9Sd3Y0Z1lQN2NreEN5ZVVwcWpuYnVObUVNWWZuUXc?oc=5) |
-| 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTdPREtqeXg0S1ZXenoxTUxlOEpzS1pxY3ZBSk1NOUFpM01INFZiekdWbU5WZDJ0UHUwV09KSGxURUhEUVNkM2htRzU2ZWRiYVRWeDlPX1lKaGJiYlJ5bTFLNnpEQ2hCa1hGNkxaNWZpUExFQkpCY2x1YnBZamFHN3NSM0xYWTlVOVVnQWlOYjh4c0hBSnBWUkpla2VuV1RLZmFTclA4MTZQWmxBT2tIUkU5WlpHQQ?oc=5) |
+| 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUG9xNjNSb3NaNnQtX1dBNzV0WmJFTFdCRS1uLXkzQUt3OTJFTmxzWUZ0c2l2RFUxZGU1R1lKcHgydDBURVozRmlZTU41aXZvVTBuQmFfM2RUSFJFVmRnY2w4Qm1fWEFUdnpoVVFCd3o5RFRncjhaNGN3NHNVaHNqUFhFMnBJanJHM1lCSHlmTzN3dFJqT2RKY3N0TG9keUo3al94SEJCSGlnT3drTjU0UF85Rkt3YU14U21TTXZqcURKY09XUF9V?oc=5) |
 | 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1tZG9Nak05YThrN2JjY2c5RXlUd3Y3Wm5mUlB2RFBmQXFMNGswcl9kck5sdlptRTFwZzdWNmRsSjFPb1pjN1NBZVdKMnNReU9lWkJndnRYSlBPY1NWSmsyRXJCeG9adVNIbG1sbGVQZGI3S2tfN2c?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-27 | AI startup urges optimism from Europe despite safety fears - IraqiNews | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxPOTJ0VndkYWJpTGdna01nZkllNktDZmFYWk91WEY0RnZiaUtOMHJwYmxUaVZvQWhURzN4dVBUc2hoWkd5WlVYWlowcHNNT2hhZzNmUXZiLWk3bkVoTHhDQm5fNWg1d3lLU3owWWdiZEE3ZzNGckh5elRWSTNaa1I0R01RWFNERTlscFlLR3Rya0FqVVRD?oc=5) |
 | 2026-09-26 | Humanoid Robots' Designs Reflect Diverse Functional Roles - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmFZejJZRnA1NktrR3lhcGhZeFM5Y2V0bUxmUTNxd0hoSzRUSkpZeFJpd0dXclZ0T1MwTkhrSXVuQUxhRFVfcTZUaUphMHNnSU0tUnJuRnhvcWtpRTVYQkwxMzFDal9tRmV6Vjg0RXh1Z1hsY1JsMUZwb1JfRzRoMkRoLTktTDU2?oc=5) |
 | 2026-09-25 | Feather Launches $29,990 Humanoid Robot. Small Teams Are Rewriting The Economics Of Humanoids - Forbes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT0JxeElwZ1N3VkhGa1RyOF9nWUVqd1BDendQNnpmNmFiMW1MWHBPcGpvUVpDU2R2dUZmaTZ0UEtfUjNKT1dORzF2WGs3WERja1RDNjMtb3hHbS1FWGVKZDJXQ1h5TjI4czNTV3p3LUN4UFVmeURBRm5CS1hBTk8xSGsxQTZ5dWJjUFpEMTZfSEhVekcyb0o4RHl0RzhvUm9yeHdNQ1pUWWJHUjVpM091a2R5QTZqUFlqUFNGZ0prSzRDaXpyeGJYYl84ZHkyZW54cTluWFJZdDk1S0Fl?oc=5) |
 | 2026-09-24 | Google Cloud Identifies Three AI Stack Priorities Driving Startup Infrastructure Choices - konsulteer.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQlh0NjFBaC14TThyc2FNZlVsTnFuR1l2ek5JenhXRVJGZEhjY2V6MlJlWUV3MDZrdXFLVXE5NkJjTTBpMFE5SU9hR211WXBDMkxTOWhqYWxxMFNCX2w0NER5S01SMjc1OGM2YlZsR3JqYWFucFhGTmtXZ0dhSVlnb0VMQ29Ub0YwelF1eENaamJTejBZT09oRHNVZ19Ga05YTmZpNEx1cllPX0Nma25jM0pnbEkyZXJfaEpEbzBOWWc?oc=5) |
@@ -116,8 +115,9 @@ _No items collected yet._
 | 2026-09-23 | Physical AI startup Xirang Kaiwu raises seed round at $500M valuation - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQek5WUHljRzlCVHN6V0lCQWpTUHNYTXBmMVJSUUtCLW1aNEJrMW1UbjBvQXdxREN3R1phRWxUX0VaV3dPV2ZzbXkxemdBQUxyeUdFdjh0djNQS2VlQllNRmJkM1Zhei12S1JMU3lUVjBLbHVPM2h2ajBJSGc0X2QzaWFRTWh4dkV5Ykl2QUdPaTFOQlJoRFEwa0p1Sm0yLU8yZG9tdQ?oc=5) |
 | 2026-09-23 | Factory Access May Define Korea’s Physical AI Edge More Than Just Better Models - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTE1taEk2Vk01U2lDY3FOXy1SSU1lT3NYVGRDNUx6a19POVZqbnA5MGVUdGdJQXVuOVBZYnZoMTBraUdtOHk3Mm1EU211ZGtFdUdUby1SR1NOcFA2QmlDSHhfWjJPMVBNWlp1anVXQ3pFM3A0ejY4OU5US0RVdXM?oc=5) |
 | 2026-09-23 | TacnIQ.ai raises US$1.5 million from In Group Holdings to scale tactile AI - Yahoo Finance Singapore | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5CZm5QNWZkOE5nV0pMMFkzVGFrclpzT1lTS0Y2d1pyS1QxODE1bEJQcUFoWWYxRGZpSHB0SmZ0ZHJ0QVhqX0NCUGhnZTRVSk1yNUVlTzJIWWlhb1dXSWxhcUh5dHIxeVNITGIxbzBTVEstVl9lbGJ2Z1RR?oc=5) |
-| 2026-09-23 | Black Forest Labs debuts FLUX 3 Action, an open-weights AI robotics model that tops the leaderboard at half the size of its competition - venturebeat.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMigwJBVV95cUxNanNlRFkxQTIzdGxhUHJqc0JmMjc1MDljWDlnd19OVVA3LVdjWG9KaUttOEVaSHJUTzlqUU5yRkhhR1o3QzN0MnZRczZYYl93Ul83SDNOUFFwdVBVQkpmUlhrNklFTzdMSG5ieXlVYzhWX1RKQVFLQ3BqQUZYQllUVkFvRVhtdUFSbE1sQW9JUHlkUDRrZ3VoM2t3NlFZUkZTOTZ0bUZUcWlaQWpJWldXRUg3Ri1sWmVoNF9Sc3l5RWJoNFhfYW03TjBMY012anRCTW02VXdMWEVRQXRuMXAyMEhqSnlyR1NFT2ZqNGx3bGtqWHY1ZVBZc3NOMTU3aUlvQVhF?oc=5) |
+| 2026-09-23 | Black Forest Labs debuts FLUX 3 Action, an open-weights AI robotics model that tops the leaderboard at half the size of its competition - VentureBeat | physical ai startup | [link](https://news.google.com/rss/articles/CBMigwJBVV95cUxNanNlRFkxQTIzdGxhUHJqc0JmMjc1MDljWDlnd19OVVA3LVdjWG9KaUttOEVaSHJUTzlqUU5yRkhhR1o3QzN0MnZRczZYYl93Ul83SDNOUFFwdVBVQkpmUlhrNklFTzdMSG5ieXlVYzhWX1RKQVFLQ3BqQUZYQllUVkFvRVhtdUFSbE1sQW9JUHlkUDRrZ3VoM2t3NlFZUkZTOTZ0bUZUcWlaQWpJWldXRUg3Ri1sWmVoNF9Sc3l5RWJoNFhfYW03TjBMY012anRCTW02VXdMWEVRQXRuMXAyMEhqSnlyR1NFT2ZqNGx3bGtqWHY1ZVBZc3NOMTU3aUlvQVhF?oc=5) |
 | 2026-09-22 | Can Patent Filings Help Physical AI Companies Raise Capital? - Foley & Lardner LLP | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxPV21KNlZKV1o0UGJldWtLZFd3RUJPWTJKQnhid3pzSDhRT1g1UTdmcG1wZk52Z0djOUIzdHRtTThlaWtGXzFJb1NXZ2gxZnhkRFlrRXBkNXlrY2p5b2JzM1l1MDUyUGhacFBiUC1XRUVMaTdiOU1hc1dJTXc1Y0tDLS0ybHV6ZFQyWXB2NVo4NDRaVnkwQ2JBTm93UE5fMmp6MmNRS1BITDh2aXFEMnF3OHpR?oc=5) |
+| 2026-09-22 | This startup secures legal video data for physical AI - techinasia.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZM0pkYkZEM1NTVlBiYWpkY0FRcEk1UU9BWDZpZlpyWTdaUUFOZ1hpTjZrM0VTbFBxVXR2Mm9kRFl3blZOZU9pZzVNS0NwVkxyUkpJaTFIWWoyWkF0QUNfQjVKOE9DRVczWmpabDIxNElwZ3FtRzY3ZDNHOA?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-27 08:36 UTC
+Generated: 2026-09-27 14:20 UTC
 
 ## Top Papers
 _No items collected yet._
@@ -10,18 +10,18 @@ _No items collected yet._
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83565 | 33426.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63743 | 25497.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44609 | 17843.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30591 | 12236.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28523 | 11409.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NaiboWang/EasySpider | 44613 | 17845.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30593 | 12237.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28531 | 11412.5 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| sraivante/superfast-tiny-home-robotics-json-1m-v1 | 339 | 101.8 | [link](https://huggingface.co/sraivante/superfast-tiny-home-robotics-json-1m-v1) |
-| ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 186 | 56.1 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
+| sraivante/superfast-tiny-home-robotics-json-1m-v1 | 677 | 203.2 | [link](https://huggingface.co/sraivante/superfast-tiny-home-robotics-json-1m-v1) |
+| ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 188 | 56.7 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
 | ubr-physical-ai/Cosmos3-Edge-NF4-bnb | 86 | 25.9 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-NF4-bnb) |
 | DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy | 81 | 24.8 | [link](https://huggingface.co/DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy) |
-| ujheo/my_policy | 76 | 22.9 | [link](https://huggingface.co/ujheo/my_policy) |
+| ujheo/my_policy | 81 | 24.4 | [link](https://huggingface.co/ujheo/my_policy) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -35,8 +35,8 @@ _No items collected yet._
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-27 | AI startup urges optimism from Europe despite safety fears - IraqiNews | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxPOTJ0VndkYWJpTGdna01nZkllNktDZmFYWk91WEY0RnZiaUtOMHJwYmxUaVZvQWhURzN4dVBUc2hoWkd5WlVYWlowcHNNT2hhZzNmUXZiLWk3bkVoTHhDQm5fNWg1d3lLU3owWWdiZEE3ZzNGckh5elRWSTNaa1I0R01RWFNERTlscFlLR3Rya0FqVVRD?oc=5) |
 | 2026-09-26 | Humanoid Robots' Designs Reflect Diverse Functional Roles - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmFZejJZRnA1NktrR3lhcGhZeFM5Y2V0bUxmUTNxd0hoSzRUSkpZeFJpd0dXclZ0T1MwTkhrSXVuQUxhRFVfcTZUaUphMHNnSU0tUnJuRnhvcWtpRTVYQkwxMzFDal9tRmV6Vjg0RXh1Z1hsY1JsMUZwb1JfRzRoMkRoLTktTDU2?oc=5) |
 | 2026-09-25 | Feather Launches $29,990 Humanoid Robot. Small Teams Are Rewriting The Economics Of Humanoids - Forbes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT0JxeElwZ1N3VkhGa1RyOF9nWUVqd1BDendQNnpmNmFiMW1MWHBPcGpvUVpDU2R2dUZmaTZ0UEtfUjNKT1dORzF2WGs3WERja1RDNjMtb3hHbS1FWGVKZDJXQ1h5TjI4czNTV3p3LUN4UFVmeURBRm5CS1hBTk8xSGsxQTZ5dWJjUFpEMTZfSEhVekcyb0o4RHl0RzhvUm9yeHdNQ1pUWWJHUjVpM091a2R5QTZqUFlqUFNGZ0prSzRDaXpyeGJYYl84ZHkyZW54cTluWFJZdDk1S0Fl?oc=5) |
 | 2026-09-24 | Google Cloud Identifies Three AI Stack Priorities Driving Startup Infrastructure Choices - konsulteer.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQlh0NjFBaC14TThyc2FNZlVsTnFuR1l2ek5JenhXRVJGZEhjY2V6MlJlWUV3MDZrdXFLVXE5NkJjTTBpMFE5SU9hR211WXBDMkxTOWhqYWxxMFNCX2w0NER5S01SMjc1OGM2YlZsR3JqYWFucFhGTmtXZ0dhSVlnb0VMQ29Ub0YwelF1eENaamJTejBZT09oRHNVZ19Ga05YTmZpNEx1cllPX0Nma25jM0pnbEkyZXJfaEpEbzBOWWc?oc=5) |
 | 2026-09-24 | Japanese humanoid robotics startup O-ID raises $1.2 million to move modular robot into production - Robotics & Automation News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPT1MyRTFZOGZiWHp0MmhxWEo0TTR2SHljX25zZFFES0wzdHBUeTRoOE1yLWVlYzZQbGEzbkJNc0Z2THFRbVNLaUhyMGRFc1FlaklBQ0Y5NlRPQWxxRkwtdHhnZTkzV0k0MEZ2QnR4Y0NoV1JwR2w1U05TN1JHN05IZTUzbkR2RVphNGlyOHR5RGdDVW1sbHhVOGR4cEg3N2ZfUWMyalFLc01vSU83MXhTOGJoV2hTaGNrR2Jvdm55V3pIcEZmWVg1OGZncnpLdE5JTjVsZ3ZVRXVYTGJ5VmtpYlpsUFdjY21W?oc=5) |
+| 2026-09-23 | Physical AI startup Xirang Kaiwu raises seed round at $500M valuation - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQek5WUHljRzlCVHN6V0lCQWpTUHNYTXBmMVJSUUtCLW1aNEJrMW1UbjBvQXdxREN3R1phRWxUX0VaV3dPV2ZzbXkxemdBQUxyeUdFdjh0djNQS2VlQllNRmJkM1Zhei12S1JMU3lUVjBLbHVPM2h2ajBJSGc0X2QzaWFRTWh4dkV5Ykl2QUdPaTFOQlJoRFEwa0p1Sm0yLU8yZG9tdQ?oc=5) |
