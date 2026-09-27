@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-27 14:20 UTC
+Last Updated: 2026-09-27 18:41 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-27 | Ways To Empirically Identify a Magnet’s Polarity | Hackaday | [link](https://hackaday.com/2026/09/27/ways-to-empirically-identify-a-magnets-polarity/) |
 | 2026-09-27 | Enormous Fluid Simulation on Flip Dots is also Enormous Amount of Work | Hackaday | [link](https://hackaday.com/2026/09/27/enormous-fluid-simulation-on-flip-dots-is-also-enormous-amount-of-work/) |
 | 2026-09-27 | Reverse Engineering Apple’s Mikey Chip | Hackaday | [link](https://hackaday.com/2026/09/27/reverse-engineering-apples-mikey-chip/) |
 | 2026-09-27 | When the Debugger Lies With Stale Cache Values | Hackaday | [link](https://hackaday.com/2026/09/27/when-the-debugger-lies-with-stale-cache-values/) |
@@ -57,7 +58,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-27 | LILYGO T-Dongle-C5 – An ESP32-C5 USB dongle with microSD card slot, optional 0.96-inch OLED | CNX Software | [link](https://www.cnx-software.com/2026/09/27/lilygo-t-dongle-c5-an-esp32-c5-usb-dongle-with-microsd-card-slot-optional-0-96-inch-oled/) |
 | 2026-09-27 | Welcome to Michoud: Take a Look Inside NASA’s Rocket Factory | Adafruit | [link](https://blog.adafruit.com/2026/09/27/welcome-to-michoud-take-a-look-inside-nasas-rocket-factory/) |
 | 2026-09-26 | Cheap Yellow Display Dreams of PDA | Hackaday | [link](https://hackaday.com/2026/09/26/cheap-yellow-display-dreams-of-pda/) |
-| 2026-09-26 | Self-Repairing Conductive Material from Liquid Metal | Hackaday | [link](https://hackaday.com/2026/09/26/self-repairing-conductive-material-from-liquid-metal/) |
 | 2026-09-26 | KryonOS turns ESP32 boards into JavaScript-powered mini computer | CNX Software | [link](https://www.cnx-software.com/2026/09/26/kryonos-turns-esp32-boards-into-javascript-powered-mini-computer/) |
 
 ## New Research Papers
@@ -68,6 +68,7 @@ _No items collected yet._
 | --- | --- | --- | --- | --- |
 | 2026-09-27 | sraivante/tiny-agentic-home-robotic-for-edge-device-v10 | 0 | 1 | [link](https://huggingface.co/sraivante/tiny-agentic-home-robotic-for-edge-device-v10) |
 | 2026-09-27 | hvsr-robotics/a1x-wrist-grasp-sim | 0 | 0 | [link](https://huggingface.co/hvsr-robotics/a1x-wrist-grasp-sim) |
+| 2026-09-27 | vladmandic/sdnext-upscalers | 0 | 5 | [link](https://huggingface.co/vladmandic/sdnext-upscalers) |
 | 2026-09-27 | Najongs/vla-recipe-ckpts | 0 | 0 | [link](https://huggingface.co/Najongs/vla-recipe-ckpts) |
 | 2026-09-27 | weepiess2383/vla-ckpt-01 | 0 | 0 | [link](https://huggingface.co/weepiess2383/vla-ckpt-01) |
 | 2026-09-27 | weepiess2383/vla-ckpt-02 | 0 | 0 | [link](https://huggingface.co/weepiess2383/vla-ckpt-02) |
@@ -75,21 +76,20 @@ _No items collected yet._
 | 2026-09-27 | weepiess2383/vla-ckpt-03 | 0 | 0 | [link](https://huggingface.co/weepiess2383/vla-ckpt-03) |
 | 2026-09-27 | weepiess2383/vla-ckpt-04 | 0 | 0 | [link](https://huggingface.co/weepiess2383/vla-ckpt-04) |
 | 2026-09-27 | motonovix/vladrop-drop9-pruned | 0 | 0 | [link](https://huggingface.co/motonovix/vladrop-drop9-pruned) |
-| 2026-09-27 | tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-action-expert-only-40k | 0 | 0 | [link](https://huggingface.co/tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-action-expert-only-40k) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28531 | Python | 11412.5 | [link](https://github.com/harvard-edge/cs249r_book) |
-| commaai/openpilot | 63743 | Python | 25497.3 | [link](https://github.com/commaai/openpilot) |
-| questdb/questdb | 17353 | Java | 6941.3 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 16416 | Python | 6566.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| harvard-edge/cs249r_book | 28553 | Python | 11421.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| copper-project/copper-rs | 1505 | Rust | 602.1 | [link](https://github.com/copper-project/copper-rs) |
+| Developer-Y/cs-video-courses | 83567 |  | 33426.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63742 | Python | 25496.9 | [link](https://github.com/commaai/openpilot) |
+| questdb/questdb | 17355 | Java | 6942.1 | [link](https://github.com/questdb/questdb) |
+| earthtojake/text-to-cad | 16422 | Python | 6568.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | zauberzeug/nicegui | 16244 | Python | 6497.7 | [link](https://github.com/zauberzeug/nicegui) |
 | sou350121/VLA-Handbook | 655 | HTML | 262.1 | [link](https://github.com/sou350121/VLA-Handbook) |
 | RealXiaoze/humanoid-motion-intelligence | 604 |  | 241.7 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
-| deeplethe/utopia | 8042 | Rust | 3216.9 | [link](https://github.com/deeplethe/utopia) |
-| vllm-project/vllm-omni | 7084 | Python | 2833.7 | [link](https://github.com/vllm-project/vllm-omni) |
-| softmata/horus | 440 | Rust | 176.1 | [link](https://github.com/softmata/horus) |
+| baidu-baige/LoongForge | 582 | Python | 232.9 | [link](https://github.com/baidu-baige/LoongForge) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -109,15 +109,15 @@ _No items collected yet._
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-09-26 | Humanoid Robots' Designs Reflect Diverse Functional Roles - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmFZejJZRnA1NktrR3lhcGhZeFM5Y2V0bUxmUTNxd0hoSzRUSkpZeFJpd0dXclZ0T1MwTkhrSXVuQUxhRFVfcTZUaUphMHNnSU0tUnJuRnhvcWtpRTVYQkwxMzFDal9tRmV6Vjg0RXh1Z1hsY1JsMUZwb1JfRzRoMkRoLTktTDU2?oc=5) |
-| 2026-09-25 | Feather Launches $29,990 Humanoid Robot. Small Teams Are Rewriting The Economics Of Humanoids - Forbes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT0JxeElwZ1N3VkhGa1RyOF9nWUVqd1BDendQNnpmNmFiMW1MWHBPcGpvUVpDU2R2dUZmaTZ0UEtfUjNKT1dORzF2WGs3WERja1RDNjMtb3hHbS1FWGVKZDJXQ1h5TjI4czNTV3p3LUN4UFVmeURBRm5CS1hBTk8xSGsxQTZ5dWJjUFpEMTZfSEhVekcyb0o4RHl0RzhvUm9yeHdNQ1pUWWJHUjVpM091a2R5QTZqUFlqUFNGZ0prSzRDaXpyeGJYYl84ZHkyZW54cTluWFJZdDk1S0Fl?oc=5) |
 | 2026-09-24 | Google Cloud Identifies Three AI Stack Priorities Driving Startup Infrastructure Choices - konsulteer.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQlh0NjFBaC14TThyc2FNZlVsTnFuR1l2ek5JenhXRVJGZEhjY2V6MlJlWUV3MDZrdXFLVXE5NkJjTTBpMFE5SU9hR211WXBDMkxTOWhqYWxxMFNCX2w0NER5S01SMjc1OGM2YlZsR3JqYWFucFhGTmtXZ0dhSVlnb0VMQ29Ub0YwelF1eENaamJTejBZT09oRHNVZ19Ga05YTmZpNEx1cllPX0Nma25jM0pnbEkyZXJfaEpEbzBOWWc?oc=5) |
 | 2026-09-24 | Japanese humanoid robotics startup O-ID raises $1.2 million to move modular robot into production - Robotics & Automation News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPT1MyRTFZOGZiWHp0MmhxWEo0TTR2SHljX25zZFFES0wzdHBUeTRoOE1yLWVlYzZQbGEzbkJNc0Z2THFRbVNLaUhyMGRFc1FlaklBQ0Y5NlRPQWxxRkwtdHhnZTkzV0k0MEZ2QnR4Y0NoV1JwR2w1U05TN1JHN05IZTUzbkR2RVphNGlyOHR5RGdDVW1sbHhVOGR4cEg3N2ZfUWMyalFLc01vSU83MXhTOGJoV2hTaGNrR2Jvdm55V3pIcEZmWVg1OGZncnpLdE5JTjVsZ3ZVRXVYTGJ5VmtpYlpsUFdjY21W?oc=5) |
 | 2026-09-23 | Physical AI startup Xirang Kaiwu raises seed round at $500M valuation - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQek5WUHljRzlCVHN6V0lCQWpTUHNYTXBmMVJSUUtCLW1aNEJrMW1UbjBvQXdxREN3R1phRWxUX0VaV3dPV2ZzbXkxemdBQUxyeUdFdjh0djNQS2VlQllNRmJkM1Zhei12S1JMU3lUVjBLbHVPM2h2ajBJSGc0X2QzaWFRTWh4dkV5Ykl2QUdPaTFOQlJoRFEwa0p1Sm0yLU8yZG9tdQ?oc=5) |
 | 2026-09-23 | Factory Access May Define Korea’s Physical AI Edge More Than Just Better Models - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTE1taEk2Vk01U2lDY3FOXy1SSU1lT3NYVGRDNUx6a19POVZqbnA5MGVUdGdJQXVuOVBZYnZoMTBraUdtOHk3Mm1EU211ZGtFdUdUby1SR1NOcFA2QmlDSHhfWjJPMVBNWlp1anVXQ3pFM3A0ejY4OU5US0RVdXM?oc=5) |
-| 2026-09-23 | TacnIQ.ai raises US$1.5 million from In Group Holdings to scale tactile AI - Yahoo Finance Singapore | physical ai startup | [link](https://news.google.com/rss/articles/CBMiekFVX3lxTE5CZm5QNWZkOE5nV0pMMFkzVGFrclpzT1lTS0Y2d1pyS1QxODE1bEJQcUFoWWYxRGZpSHB0SmZ0ZHJ0QVhqX0NCUGhnZTRVSk1yNUVlTzJIWWlhb1dXSWxhcUh5dHIxeVNITGIxbzBTVEstVl9lbGJ2Z1RR?oc=5) |
 | 2026-09-23 | Black Forest Labs debuts FLUX 3 Action, an open-weights AI robotics model that tops the leaderboard at half the size of its competition - VentureBeat | physical ai startup | [link](https://news.google.com/rss/articles/CBMigwJBVV95cUxNanNlRFkxQTIzdGxhUHJqc0JmMjc1MDljWDlnd19OVVA3LVdjWG9KaUttOEVaSHJUTzlqUU5yRkhhR1o3QzN0MnZRczZYYl93Ul83SDNOUFFwdVBVQkpmUlhrNklFTzdMSG5ieXlVYzhWX1RKQVFLQ3BqQUZYQllUVkFvRVhtdUFSbE1sQW9JUHlkUDRrZ3VoM2t3NlFZUkZTOTZ0bUZUcWlaQWpJWldXRUg3Ri1sWmVoNF9Sc3l5RWJoNFhfYW03TjBMY012anRCTW02VXdMWEVRQXRuMXAyMEhqSnlyR1NFT2ZqNGx3bGtqWHY1ZVBZc3NOMTU3aUlvQVhF?oc=5) |
 | 2026-09-22 | Can Patent Filings Help Physical AI Companies Raise Capital? - Foley & Lardner LLP | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxPV21KNlZKV1o0UGJldWtLZFd3RUJPWTJKQnhid3pzSDhRT1g1UTdmcG1wZk52Z0djOUIzdHRtTThlaWtGXzFJb1NXZ2gxZnhkRFlrRXBkNXlrY2p5b2JzM1l1MDUyUGhacFBiUC1XRUVMaTdiOU1hc1dJTXc1Y0tDLS0ybHV6ZFQyWXB2NVo4NDRaVnkwQ2JBTm93UE5fMmp6MmNRS1BITDh2aXFEMnF3OHpR?oc=5) |
-| 2026-09-22 | This startup secures legal video data for physical AI - techinasia.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZM0pkYkZEM1NTVlBiYWpkY0FRcEk1UU9BWDZpZlpyWTdaUUFOZ1hpTjZrM0VTbFBxVXR2Mm9kRFl3blZOZU9pZzVNS0NwVkxyUkpJaTFIWWoyWkF0QUNfQjVKOE9DRVczWmpabDIxNElwZ3FtRzY3ZDNHOA?oc=5) |
+| 2026-09-22 | This startup secures legal video data for physical AI - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZM0pkYkZEM1NTVlBiYWpkY0FRcEk1UU9BWDZpZlpyWTdaUUFOZ1hpTjZrM0VTbFBxVXR2Mm9kRFl3blZOZU9pZzVNS0NwVkxyUkpJaTFIWWoyWkF0QUNfQjVKOE9DRVczWmpabDIxNElwZ3FtRzY3ZDNHOA?oc=5) |
+| 2026-09-22 | Embodied AI Startup Paxini Kicks Off Mainland IPO Bid Amid Sector Volatility - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXNPQlhxZ3I0dzE4c3VFRHZjMTB3a3ppMDdHcGR3RHQtY1VjVUt2eEdlSm9uNWNGTHcydEIwbEJxdHdKTDE0U0tJRlhnT2p2REE5blJSWVhKRnlMQzdvTERWaVN1VE9pZ2Znck00QzdJYTlURy1SLVJiLVFuZFAxVUxyV3AzaEVRMi00WkVoYU93cmdqNjlzRVZGVXB5Yko1UWRWUWxFaWVCSEdkTHl6MFM0QUVsVzRIMWJ3eE4xM0U1cVpqRlRROGdRNA?oc=5) |
+| 2026-09-22 | Another case of an embodied AI startup acquiring a controlling stake in a listed company? Shenpu Intelligence plans to invest RMB 800 million in the restructuring of *ST Meizhi. - Moomoo | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTQwQlB0MzQzYU1WcTNHWl9UeFQybWRiZ2J1cXJkczl3emU4S0xWZDJYTTNxOERxUU1QTWFJRW9VU1RhTXNCVFpDWThSM0tldWZoS0o4Y3JDYmx3a21RMlFzOEdQVVBBYk5ZdlFlODBWaXBLeVBtMUhSTk03NXRERVFubHNqQ0VUVDdld3gzR1hBUVg3V0xMX3ZuYUp4QURUQUpnTjg5MFBWQQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
