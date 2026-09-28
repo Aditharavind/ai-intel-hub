@@ -1,13 +1,13 @@
 [
   {
     "repo": "harvard-edge/cs249r_book",
-    "stars": 28573,
+    "stars": 28585,
     "language": "Python",
     "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
     "url": "https://github.com/harvard-edge/cs249r_book",
     "date": "2026-09-27",
     "topic": "embodied-ai",
-    "score": 11429.3
+    "score": 11434.1
   },
   {
     "repo": "copper-project/copper-rs",
@@ -31,43 +31,43 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 83569,
+    "stars": 83571,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-09-27",
     "topic": "robotics",
-    "score": 33427.7
+    "score": 33428.5
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63743,
+    "stars": 63748,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-09-27",
     "topic": "robotics",
-    "score": 25497.3
+    "score": 25499.3
   },
   {
     "repo": "questdb/questdb",
-    "stars": 17357,
+    "stars": 17359,
     "language": "Java",
     "description": "QuestDB is a high performance, open-source, time-series database",
     "url": "https://github.com/questdb/questdb",
     "date": "2026-09-27",
     "topic": "robotics",
-    "score": 6942.9
+    "score": 6943.7
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 16426,
+    "stars": 16428,
     "language": "Python",
     "description": "A library of agent skills for CAD, CAE and CAM",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-09-27",
     "topic": "robotics",
-    "score": 6570.5
+    "score": 6571.3
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -78,6 +78,16 @@
     "date": "2026-09-27",
     "topic": "robotics",
     "score": 6497.7
+  },
+  {
+    "repo": "ArduPilot/ardupilot",
+    "stars": 15950,
+    "language": "C++",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "date": "2026-09-27",
+    "topic": "robotics",
+    "score": 6380.1
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -111,23 +121,23 @@
   },
   {
     "repo": "deeplethe/utopia",
-    "stars": 8046,
+    "stars": 7857,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-09-27",
     "topic": "world-model",
-    "score": 3218.5
+    "score": 3142.9
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 7087,
+    "stars": 7088,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-09-27",
     "topic": "world-model",
-    "score": 2834.9
+    "score": 2835.3
   },
   {
     "repo": "softmata/horus",
@@ -241,13 +251,13 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 3459,
+    "stars": 3460,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-09-25",
     "topic": "physical-ai",
-    "score": 1383.7
+    "score": 1384.1
   },
   {
     "repo": "mosaico-labs/mosaico",
@@ -260,24 +270,14 @@
     "score": 421.7
   },
   {
-    "repo": "ArduPilot/ardupilot",
-    "stars": 15950,
-    "language": "C++",
-    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-    "url": "https://github.com/ArduPilot/ardupilot",
-    "date": "2026-09-25",
-    "topic": "robotics",
-    "score": 6380.1
-  },
-  {
     "repo": "google-deepmind/mujoco",
-    "stars": 15360,
+    "stars": 15361,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-09-25",
     "topic": "robotics",
-    "score": 6144.1
+    "score": 6144.5
   },
   {
     "repo": "RLinf/RLinf",
@@ -331,13 +331,13 @@
   },
   {
     "repo": "robocurve/inspect-robots",
-    "stars": 610,
+    "stars": 611,
     "language": "Python",
     "description": "Open source evals for physical AI. Run any LLM/VLA on any arm/humanoid against any real/sim benchmark.",
     "url": "https://github.com/robocurve/inspect-robots",
     "date": "2026-09-24",
     "topic": "vla",
-    "score": 244.1
+    "score": 244.5
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -411,13 +411,13 @@
   },
   {
     "repo": "OpenHUTB/hutb",
-    "stars": 629,
+    "stars": 630,
     "language": "C++",
     "description": "人车模拟器（Human-vehicle Simulator）",
     "url": "https://github.com/OpenHUTB/hutb",
     "date": "2026-09-24",
     "topic": "humanoid",
-    "score": 251.7
+    "score": 252.1
   },
   {
     "repo": "wadeKeith/Awesome-Embodied-AI",
@@ -591,13 +591,13 @@
   },
   {
     "repo": "simchowitzlabpublic/nano-world-model",
-    "stars": 748,
+    "stars": 749,
     "language": "Python",
     "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science.",
     "url": "https://github.com/simchowitzlabpublic/nano-world-model",
     "date": "2026-09-14",
     "topic": "world-model",
-    "score": 299.3
+    "score": 299.7
   },
   {
     "repo": "zli12321/Vision-Language-Models-Overview",
@@ -841,12 +841,12 @@
   },
   {
     "repo": "reality-opened/openreality",
-    "stars": 123,
+    "stars": 124,
     "language": "Python",
     "description": "Open Reality: phone video to AI-queryable 3D scenes. MCP tools for Claude/Codex/Cursor (npm openreality-mcp), the self-hostable broker, and the VGGT-SLAM library, in one repo. BSD-2-Clause.",
     "url": "https://github.com/reality-opened/openreality",
     "date": "2026-09-03",
     "topic": "lerobot",
-    "score": 49.3
+    "score": 49.7
   }
 ]

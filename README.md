@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-27 21:40 UTC
+Last Updated: 2026-09-28 00:02 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-27 | Going on a Tangent with the Intel 8087’s Hybrid CORDIC Algorithm | Hackaday | [link](https://hackaday.com/2026/09/27/going-on-a-tangent-with-the-intel-8087s-hybrid-cordic-algorithm/) |
 | 2026-09-27 | Defeating Satellite Spoofing with Galileo’s Encryption | Hackaday | [link](https://hackaday.com/2026/09/27/defeating-satellite-spoofing-with-galileos-encryption/) |
 | 2026-09-27 | Ways To Empirically Identify a Magnet’s Polarity | Hackaday | [link](https://hackaday.com/2026/09/27/ways-to-empirically-identify-a-magnets-polarity/) |
 | 2026-09-27 | Enormous Fluid Simulation on Flip Dots is also Enormous Amount of Work | Hackaday | [link](https://hackaday.com/2026/09/27/enormous-fluid-simulation-on-flip-dots-is-also-enormous-amount-of-work/) |
 | 2026-09-27 | Reverse Engineering Apple’s Mikey Chip | Hackaday | [link](https://hackaday.com/2026/09/27/reverse-engineering-apples-mikey-chip/) |
 | 2026-09-27 | When the Debugger Lies With Stale Cache Values | Hackaday | [link](https://hackaday.com/2026/09/27/when-the-debugger-lies-with-stale-cache-values/) |
 | 2026-09-27 | Basically, Galvanizing Metal Without Acid | Hackaday | [link](https://hackaday.com/2026/09/26/basically-galvanizing-metal-without-acid/) |
-| 2026-09-27 | A Modular Macro Keypad | Hackaday | [link](https://hackaday.com/2026/09/26/a-modular-macro-keypad/) |
 | 2026-09-27 | LILYGO T-Dongle-C5 – An ESP32-C5 USB dongle with microSD card slot, optional 0.96-inch OLED | CNX Software | [link](https://www.cnx-software.com/2026/09/27/lilygo-t-dongle-c5-an-esp32-c5-usb-dongle-with-microsd-card-slot-optional-0-96-inch-oled/) |
 | 2026-09-27 | HalloWing M4 Animated Eye Candy Bowl | Adafruit | [link](https://blog.adafruit.com/2026/09/27/hallowing-m4-animated-eye-candy-bowl/) |
 | 2026-09-27 | Welcome to Michoud: Take a Look Inside NASA’s Rocket Factory | Adafruit | [link](https://blog.adafruit.com/2026/09/27/welcome-to-michoud-take-a-look-inside-nasas-rocket-factory/) |
@@ -80,16 +80,16 @@ _No items collected yet._
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28573 | Python | 11429.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28585 | Python | 11434.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 | copper-project/copper-rs | 1505 | Rust | 602.1 | [link](https://github.com/copper-project/copper-rs) |
 | pnoker/iot-dc3 | 1288 | Java | 515.3 | [link](https://github.com/pnoker/iot-dc3) |
-| Developer-Y/cs-video-courses | 83569 |  | 33427.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63743 | Python | 25497.3 | [link](https://github.com/commaai/openpilot) |
-| questdb/questdb | 17357 | Java | 6942.9 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 16426 | Python | 6570.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| Developer-Y/cs-video-courses | 83571 |  | 33428.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63748 | Python | 25499.3 | [link](https://github.com/commaai/openpilot) |
+| questdb/questdb | 17359 | Java | 6943.7 | [link](https://github.com/questdb/questdb) |
+| earthtojake/text-to-cad | 16428 | Python | 6571.3 | [link](https://github.com/earthtojake/text-to-cad) |
 | zauberzeug/nicegui | 16244 | Python | 6497.7 | [link](https://github.com/zauberzeug/nicegui) |
+| ArduPilot/ardupilot | 15950 | C++ | 6380.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | sou350121/VLA-Handbook | 655 | HTML | 262.1 | [link](https://github.com/sou350121/VLA-Handbook) |
-| RealXiaoze/humanoid-motion-intelligence | 604 |  | 241.7 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -114,7 +114,7 @@ _No items collected yet._
 | 2026-09-23 | Physical AI startup Xirang Kaiwu raises seed round at $500M valuation - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxQek5WUHljRzlCVHN6V0lCQWpTUHNYTXBmMVJSUUtCLW1aNEJrMW1UbjBvQXdxREN3R1phRWxUX0VaV3dPV2ZzbXkxemdBQUxyeUdFdjh0djNQS2VlQllNRmJkM1Zhei12S1JMU3lUVjBLbHVPM2h2ajBJSGc0X2QzaWFRTWh4dkV5Ykl2QUdPaTFOQlJoRFEwa0p1Sm0yLU8yZG9tdQ?oc=5) |
 | 2026-09-23 | Factory Access May Define Korea’s Physical AI Edge More Than Just Better Models - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMifEFVX3lxTE1taEk2Vk01U2lDY3FOXy1SSU1lT3NYVGRDNUx6a19POVZqbnA5MGVUdGdJQXVuOVBZYnZoMTBraUdtOHk3Mm1EU211ZGtFdUdUby1SR1NOcFA2QmlDSHhfWjJPMVBNWlp1anVXQ3pFM3A0ejY4OU5US0RVdXM?oc=5) |
 | 2026-09-23 | Black Forest Labs debuts FLUX 3 Action, an open-weights AI robotics model that tops the leaderboard at half the size of its competition - VentureBeat | physical ai startup | [link](https://news.google.com/rss/articles/CBMigwJBVV95cUxNanNlRFkxQTIzdGxhUHJqc0JmMjc1MDljWDlnd19OVVA3LVdjWG9KaUttOEVaSHJUTzlqUU5yRkhhR1o3QzN0MnZRczZYYl93Ul83SDNOUFFwdVBVQkpmUlhrNklFTzdMSG5ieXlVYzhWX1RKQVFLQ3BqQUZYQllUVkFvRVhtdUFSbE1sQW9JUHlkUDRrZ3VoM2t3NlFZUkZTOTZ0bUZUcWlaQWpJWldXRUg3Ri1sWmVoNF9Sc3l5RWJoNFhfYW03TjBMY012anRCTW02VXdMWEVRQXRuMXAyMEhqSnlyR1NFT2ZqNGx3bGtqWHY1ZVBZc3NOMTU3aUlvQVhF?oc=5) |
-| 2026-09-22 | Can Patent Filings Help Physical AI Companies Raise Capital? - Foley & Lardner LLP | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxPV21KNlZKV1o0UGJldWtLZFd3RUJPWTJKQnhid3pzSDhRT1g1UTdmcG1wZk52Z0djOUIzdHRtTThlaWtGXzFJb1NXZ2gxZnhkRFlrRXBkNXlrY2p5b2JzM1l1MDUyUGhacFBiUC1XRUVMaTdiOU1hc1dJTXc1Y0tDLS0ybHV6ZFQyWXB2NVo4NDRaVnkwQ2JBTm93UE5fMmp6MmNRS1BITDh2aXFEMnF3OHpR?oc=5) |
+| 2026-09-22 | Can Patent Filings Help Physical AI Companies Raise Capital? - foley.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxPV21KNlZKV1o0UGJldWtLZFd3RUJPWTJKQnhid3pzSDhRT1g1UTdmcG1wZk52Z0djOUIzdHRtTThlaWtGXzFJb1NXZ2gxZnhkRFlrRXBkNXlrY2p5b2JzM1l1MDUyUGhacFBiUC1XRUVMaTdiOU1hc1dJTXc1Y0tDLS0ybHV6ZFQyWXB2NVo4NDRaVnkwQ2JBTm93UE5fMmp6MmNRS1BITDh2aXFEMnF3OHpR?oc=5) |
 | 2026-09-22 | This startup secures legal video data for physical AI - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZM0pkYkZEM1NTVlBiYWpkY0FRcEk1UU9BWDZpZlpyWTdaUUFOZ1hpTjZrM0VTbFBxVXR2Mm9kRFl3blZOZU9pZzVNS0NwVkxyUkpJaTFIWWoyWkF0QUNfQjVKOE9DRVczWmpabDIxNElwZ3FtRzY3ZDNHOA?oc=5) |
 | 2026-09-22 | Embodied AI Startup Paxini Kicks Off Mainland IPO Bid Amid Sector Volatility - Caixin Global | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXNPQlhxZ3I0dzE4c3VFRHZjMTB3a3ppMDdHcGR3RHQtY1VjVUt2eEdlSm9uNWNGTHcydEIwbEJxdHdKTDE0U0tJRlhnT2p2REE5blJSWVhKRnlMQzdvTERWaVN1VE9pZ2Znck00QzdJYTlURy1SLVJiLVFuZFAxVUxyV3AzaEVRMi00WkVoYU93cmdqNjlzRVZGVXB5Yko1UWRWUWxFaWVCSEdkTHl6MFM0QUVsVzRIMWJ3eE4xM0U1cVpqRlRROGdRNA?oc=5) |
 | 2026-09-22 | Another case of an embodied AI startup acquiring a controlling stake in a listed company? Shenpu Intelligence plans to invest RMB 800 million in the restructuring of *ST Meizhi. - Moomoo | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTQwQlB0MzQzYU1WcTNHWl9UeFQybWRiZ2J1cXJkczl3emU4S0xWZDJYTTNxOERxUU1QTWFJRW9VU1RhTXNCVFpDWThSM0tldWZoS0o4Y3JDYmx3a21RMlFzOEdQVVBBYk5ZdlFlODBWaXBLeVBtMUhSTk03NXRERVFubHNqQ0VUVDdld3gzR1hBUVg3V0xMX3ZuYUp4QURUQUpnTjg5MFBWQQ?oc=5) |
