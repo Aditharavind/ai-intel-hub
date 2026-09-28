@@ -1,5 +1,14 @@
 [
   {
+    "model": "zmf2023/robotwin2",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/zmf2023/robotwin2",
+    "date": "2026-09-28",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
     "model": "LIU79/robotwin-failure-aware-dp-final-checkpoints",
     "downloads": 0,
     "likes": 0,
@@ -81,6 +90,24 @@
     "score": 2.8
   },
   {
+    "model": "Najongs/vla-recipe-ckpts",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
+    "date": "2026-09-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "tsangb34/lingbot-vla-v2-6b-so101-black-screwdriver-box-to-table-10ep",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tsangb34/lingbot-vla-v2-6b-so101-black-screwdriver-box-to-table-10ep",
+    "date": "2026-09-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "HITdongdong/ActMem-VLA",
     "downloads": 0,
     "likes": 0,
@@ -121,15 +148,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Dongkkka/task000004-peanut-vla-jepa-pr4425-noncausal-bs16-s10000",
-    "date": "2026-09-28",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Najongs/vla-recipe-ckpts",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
     "date": "2026-09-28",
     "keyword": "vla",
     "score": 0.1
@@ -180,15 +198,6 @@
     "score": 4.3
   },
   {
-    "model": "kiteml/dual-openyam-close-box-vla_jepa",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/kiteml/dual-openyam-close-box-vla_jepa",
-    "date": "2026-09-28",
-    "keyword": "vla",
-    "score": 5.2
-  },
-  {
     "model": "lucyjohnson/embodied-ai",
     "downloads": 8,
     "likes": 0,
@@ -225,6 +234,42 @@
     "score": 4.3
   },
   {
+    "model": "dontKnow23456/WAM-Policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dontKnow23456/WAM-Policy",
+    "date": "2026-09-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "HarishMaths/Hotel-Policy-Embedding",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/HarishMaths/Hotel-Policy-Embedding",
+    "date": "2026-09-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "thanhnguyen23/unbox_rdk_policy0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/thanhnguyen23/unbox_rdk_policy0",
+    "date": "2026-09-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "HarishMaths/Hotel-Policy-Embed",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/HarishMaths/Hotel-Policy-Embed",
+    "date": "2026-09-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "ujheo/my_policy",
     "downloads": 96,
     "likes": 0,
@@ -259,15 +304,6 @@
     "date": "2026-09-27",
     "keyword": "robot",
     "score": 0.3
-  },
-  {
-    "model": "hvsr-robotics/a1x-wrist-grasp-sim",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hvsr-robotics/a1x-wrist-grasp-sim",
-    "date": "2026-09-27",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "Vbanerjeesem/embodied-ai-review17",
@@ -315,15 +351,6 @@
     "score": 3.7
   },
   {
-    "model": "DKNTZMN/JEPA-CoT-ClosedLoop-Policy",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/DKNTZMN/JEPA-CoT-ClosedLoop-Policy",
-    "date": "2026-09-27",
-    "keyword": "policy",
-    "score": 4.6
-  },
-  {
     "model": "HSM1/pusht-franka-diffusion-policy",
     "downloads": 13,
     "likes": 0,
@@ -369,21 +396,12 @@
     "score": 5.5
   },
   {
-    "model": "Project-Studio200/my_act_policy",
-    "downloads": 31,
-    "likes": 0,
-    "url": "https://huggingface.co/Project-Studio200/my_act_policy",
-    "date": "2026-09-27",
-    "keyword": "policy",
-    "score": 9.4
-  },
-  {
-    "model": "dontKnow23456/WAM-Policy",
+    "model": "hvsr-robotics/a1x-wrist-grasp-sim",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/dontKnow23456/WAM-Policy",
+    "url": "https://huggingface.co/hvsr-robotics/a1x-wrist-grasp-sim",
     "date": "2026-09-27",
-    "keyword": "policy",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -403,15 +421,6 @@
     "date": "2026-09-26",
     "keyword": "embodied",
     "score": 3.4
-  },
-  {
-    "model": "arshjeevs/act_test_pickup_policy",
-    "downloads": 30,
-    "likes": 0,
-    "url": "https://huggingface.co/arshjeevs/act_test_pickup_policy",
-    "date": "2026-09-26",
-    "keyword": "policy",
-    "score": 9.1
   },
   {
     "model": "sraivante/superfast-tiny-home-robotics-json-1m-v3",
