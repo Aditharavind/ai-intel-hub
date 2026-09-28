@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-28 19:53 UTC
+Generated: 2026-09-28 23:59 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -16,9 +16,9 @@ Generated: 2026-09-28 19:53 UTC
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83576 | 33430.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63758 | 25503.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44618 | 17847.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30603 | 12241.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28682 | 11472.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NaiboWang/EasySpider | 44620 | 17848.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30605 | 12242.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28689 | 11475.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,8 +41,8 @@ Generated: 2026-09-28 19:53 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-09-28 | AMD acquires startup cofounded by ‘godmother of AI’ Fei-Fei Li for $8.2 billion - Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPbTJZazg1STZjVGNheUZjOW1SczBSSXJCOXpzbldyNWFaWVlYZmFETkExZWZzdnRrNk42eVN5VjVxZzFBY0s3Um5rV0RxSHhpam5NMzc4bXVMZ2ZYOXVjSy1zMWtnTzlJcWFXOUI1V2UwNDhXNXY2Y1VJYXhxYzFmUTZ2QktsaTdtVUc5ekZYUQ?oc=5) |
 | 2026-09-28 | Physical AI custom chip startup SiMa.ai raises $150M at $1.45B valuation - SiliconANGLE | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3A4ZGlZWUZtOFlwZWY1WEVodnMyeERjc2pZM2tIb1hQT01hT1RaYlZvMHdxMm5QRl9veWpYQTlLUS0yMTFqbmQtTXh0MHR0dTlLY1ppNWNyN1BrSlZweVBWUS05ZDU2MjBSaUwxU1pwNDNzbGY5MVFxS0h6NDFpWGxFTzdpczIyTkNJanlzaWF0eG44aWNPS01sbGRuSndmZDlBLWZSODFlYkNS?oc=5) |
-| 2026-09-28 | Physical AI chip developer SiMa AI hits $1.45B valuation - techcrunch.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTdLR2U5RVBUd2QxaTU0WGNHc1p1S2Y4Wk1nTUhqMXlTOE1zeHdWc1Y2eFNfQ2FTZFB1bzZwT2dTSHp5Z3p4RVhwZUtNRGpkQ3RNYnVkUTd2ZG1EZk5PeGZNWGN0d19wOGp1dkQyRzRWM0xFcS04bjFkakt6Um5oWTFCTXphWERMYWRzX01IQURWekNZ?oc=5) |
-| 2026-09-28 | Physical AI Chipmaker SiMa.ai Lands $150M Series C, Hits $1.45B Value - Unite.AI | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWnF4MUdpQnI4Q2pnMVZadGNOREJTNVVTNkV3V09yQ29UN3ZLOTk4aXh5SkFUc1hka1VkRDZZWUJYbUppTUtrR280ampTZVZPMmtGQjlTR1h2Sk94NmVGRUxheEswTUxYbDRXUnZ4UzNYRjVsYWFlNjF2ZmRmZWtpcFVDdmQyRDVsOGYwZjdMQ3RHZw?oc=5) |
-| 2026-09-28 | DIC backs fenceless robot startup Mantis Robotics in physical AI push - Dealroom.co | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxOTGNwZTk2X2tfWVVpMlFYejZpZkliZi1YQ3hhWWM0UVpXdmNLUWhvTkZCYmhYSVY3ZkdMR01FMzVwU2xkSmlWYnRDT0d4czNDMjZuZC02V0I3LXdPbWUxc0VMQU5obUVnb0lXZWo5R1k4S1pzRzAyZ2dtWWFxWnJkX0NBTmtiOVY5TmptQzZGUzQ2a2NJX0FFV3J0Yk8tbTRxaVVtMlln?oc=5) |
-| 2026-09-28 | Japan Bets on Physical AI - News On Japan | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE54a1YwRlRCMU5JeEpzeTJwSklDRUo5UGVZYmVjMnN2YzR5ZFFCWllCVTJaaEVDaGdvcnNtQXZVWV8xVEZidEZsckhDclNhbmhTMEp2Tw?oc=5) |
+| 2026-09-28 | Physical AI chip developer SiMa AI hits $1.45B valuation - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTdLR2U5RVBUd2QxaTU0WGNHc1p1S2Y4Wk1nTUhqMXlTOE1zeHdWc1Y2eFNfQ2FTZFB1bzZwT2dTSHp5Z3p4RVhwZUtNRGpkQ3RNYnVkUTd2ZG1EZk5PeGZNWGN0d19wOGp1dkQyRzRWM0xFcS04bjFkakt6Um5oWTFCTXphWERMYWRzX01IQURWekNZ?oc=5) |
+| 2026-09-28 | SiMa.ai raises $150m at a $1.45bn valuation for physical AI chips - thenextweb.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlQ3bHowZU8ydUZyd2d2OVFVdmxWMlBNcFRDT3ppSVF5Sm4tejV5ZzRuVjlZZ2hmRFJBeFBOeWJma0FQWWIzRk9oOXpmWGdETkdxQ09HVFZEbEotQ05OVFJsMmtlZERUM0hUdEFZOEtWcmdDUW1yLXNDakxXelRDYTAxano?oc=5) |
+| 2026-09-28 | AMD to buy Fei-Fei Li's World Labs in $8.2 billion bet on 'physical AI' - Reuters | physical ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxOUEpLOGExLXd6b0dKeXJadmdubW9zdWZzTDB6eVhLb0RSN3RSQTYyenBJdTVRdmR6Vm5jRnp4VHVQQ1NEbGFQb1J0V08xcThIRUs1aG5NQ0piLXhEQTRhcXZQNEZkMUVuaHVyLTRNVjhjbDEtZmxuTGpuR2d1ZDU2b1pGdkxqS1o2TUNDcUMyaFUzRVdmUUpPQndkdEZMZw?oc=5) |

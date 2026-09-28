@@ -1,5 +1,19 @@
 [
   {
+    "title": "This PICO-8 Handheld is No Fantasy",
+    "source": "Hackaday",
+    "date": "2026-09-28",
+    "url": "https://hackaday.com/2026/09/28/this-pico-8-handheld-is-no-fantasy/",
+    "summary": "<div><img alt=\"a beauty shot of the 3D-printed version\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/PICO-8-handheld-feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The PICO-8 is what is known as a &#8216;fantasy console&#8217;&#8211; you can program it, and there are oodles of games, but it&#8217;s not actually the 8-bit console it pretends to <a class=\"read-more\" href=\"https://hackaday.com/2026/09/28/this-pico-8-handheld-is-no-fantasy/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Synthetic Aperture Radar Drone Gets Interferometric Imaging",
+    "source": "Hackaday",
+    "date": "2026-09-28",
+    "url": "https://hackaday.com/2026/09/28/synthetic-aperture-radar-drone-gets-interferometric-imaging/",
+    "summary": "<div><img alt=\"A drone is shown, carrying underneath it a white plastic box. On the side of the box are two patch antennas. A camera extends from one end of the box, and a large GPS antenna from the other end.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/sar_drone.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It’s been more than a year since [Henrik Forstén] built the first iteration of his synthetic-aperture radar (SAR) imaging drone, and he’s certainly been productive in the meantime. Not only <a class=\"read-more\" href=\"https://hackaday.com/2026/09/28/synthetic-aperture-radar-drone-gets-interferometric-imaging/\">&#8230;read more</a>"
+  },
+  {
     "title": "Places To Visit: Landschaftspark Duisburg-Nord",
     "source": "Hackaday",
     "date": "2026-09-28",
@@ -33,20 +47,6 @@
     "date": "2026-09-28",
     "url": "https://hackaday.com/2026/09/28/an-ir-blaster-project-in-a-nutshell/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/walnut-esp32-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The speed that computers have gotten smaller is a bit mind-bending. Most of us now walk around with computers in our pockets that would have rivaled the supercomputers from a <a class=\"read-more\" href=\"https://hackaday.com/2026/09/28/an-ir-blaster-project-in-a-nutshell/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Hackaday Links: September 27, 2026",
-    "source": "Hackaday",
-    "date": "2026-09-28",
-    "url": "https://hackaday.com/2026/09/27/hackaday-links-september-27-2026/",
-    "summary": "<div><img alt=\"Hackaday Links Column Banner\" class=\"attachment-large size-large wp-post-image\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It isn&#8217;t quite hailing frequencies open, but researchers from Harvard claim they&#8217;ve picked up a radio signal directly from a nearby exoplanet. Before you get too excited, planets in our <a class=\"read-more\" href=\"https://hackaday.com/2026/09/27/hackaday-links-september-27-2026/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Center-Pivot System Modified to Mow Lawn",
-    "source": "Hackaday",
-    "date": "2026-09-28",
-    "url": "https://hackaday.com/2026/09/27/center-pivot-system-modified-to-mow-lawn/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/center-pivot-main.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When flying over the United States, Australia, and a few other vast and relatively empty parts of the world, strange circular formations can be spotted. These are typically center-pivot irrigation <a class=\"read-more\" href=\"https://hackaday.com/2026/09/27/center-pivot-system-modified-to-mow-lawn/\">&#8230;read more</a>"
   },
   {
     "title": "Critical Link MitySOM-AM62x/A/P – TI Sitara AM62 SO-DIMM SoMs for edge AI and industrial automation",
@@ -147,88 +147,116 @@
     "summary": "<p>The poor old PM is clearly struggling with the big issues and is way out of his depth, Ed confides to his diary, so I was not surprised when he [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-sorts-chagos-2026-09/\">Ed Sorts Chagos</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Reverse engineering an e-scooter and rewriting the firmware in Rust",
+    "title": "A Game Boy Advance port of Real8",
     "source": "Adafruit",
     "date": "2026-09-28",
-    "url": "https://blog.adafruit.com/2026/09/28/reverse-engineering-an-e-scooter-and-rewriting-the-firmware-in-rust/",
-    "summary": "Ben took apart an Egret GT e-scooter and replaced the display firmware with their own code written in Rust. The USB-C port on the display, advertised for charging phones, turned out to carry a CAN bus on two of its pins. A sniffer built from an ESP32-C6, an SN65HVD230 and an MCP2515 logged the traffic, [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/28/a-game-boy-advance-port-of-real8/",
+    "summary": "natureglass has published a Game Boy Advance port of Real8 on GitHub. It packs a single PICO-8 cart into a standalone GBA ROM and runs it on the Real8 virtual machine. The port is written for speed and memory use, with the goal of running on real GBA hardware rather than only in an emulator. [&#8230;]"
   },
   {
-    "title": "A BelWattmeter Arduino library",
+    "title": "A Windows GUI for identifying, tracking, and managing USB devices used with WSL",
     "source": "Adafruit",
     "date": "2026-09-28",
-    "url": "https://blog.adafruit.com/2026/09/28/a-belwattmeter-arduino-library/",
-    "summary": "Zefek has published an Arduino library on GitHub for reading BEL single-phase energy meters over a serial line. It decodes the meter&#8217;s framed protocol into voltage, current, instantaneous power and cumulative consumption, which suits photovoltaic setups and appliance monitoring. Setup is short. Copy the folder into the Arduino libraries directory or add it as a [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/28/a-windows-gui-for-identifying-tracking-and-managing-usb-devices-used-with-wsl/",
+    "summary": "TANAKA Masayuki has published WSL USB Identity Manager on GitHub, a Windows GUI that works alongside usbipd-win to sort out which physical board is on the end of which USB cable. Forwarding USB devices to WSL is fine until two identical CH340 adapters show up with no serial numbers and nothing to tell them apart. [&#8230;]"
   },
   {
-    "title": "Download Apple dimensional drawings",
+    "title": "TeleZX recreates the feel of browsing Teletext pages on a ZX Spectrum",
     "source": "Adafruit",
     "date": "2026-09-28",
-    "url": "https://blog.adafruit.com/2026/09/28/download-apple-dimensional-drawings/",
-    "summary": "Apple Inc. maintains a page on the Apple Developer site with dimensional drawings and technical specifications for its hardware, free to download. The list runs to well over a hundred entries, covering iPhone, iPad, Mac, Apple Watch, AirPods cases and more, including the MagSafe Charging Case (USB-C) for AirPods Pro (2nd generation). The drawings are [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/28/telezx-recreates-the-feel-of-browsing-teletext-pages-on-a-zx-spectrum/",
+    "summary": "tebl has posted TeleZX on GitHub, a project that recreates the feel of browsing Teletext pages on a ZX Spectrum. Teletext gave you news, movie reviews and ads in 24 rows of 40 characters, organized into pages numbered 1 to 999. The Spectrum has its own limits: 32 characters per line, plus color clash. Content [&#8230;]"
   },
   {
-    "title": "Semtech adds new transceivers",
+    "title": "AppleBSSID search in Apple’s public WPS service",
     "source": "Adafruit",
     "date": "2026-09-28",
-    "url": "https://blog.adafruit.com/2026/09/28/semtech-adds-new-transceivers/",
-    "summary": "All About Circuits reports that Semtech has put two new LoRa Plus transceivers into production, the LR2022 and the LR2012. Both are pin and code compatible with the existing LR2021, the full featured member of the LR20XX family. LoRa Plus is Semtech&#8217;s fourth generation spread spectrum platform. It raises LoRa data rates to 125 Kbps [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/28/applebssid-search-in-apples-public-wps-service/",
+    "summary": "Christian Rowlands has published WaveDigger on GitHub, a web app that looks up the physical location of wireless hardware. Give it a WiFi access point&#8217;s BSSID, the MAC address of the radio, and it returns a position on a map. It also handles cell towers, both LTE and 5G NR, searched by their network parameters. [&#8230;]"
   },
   {
-    "title": "PlayRoot is an open-source game console",
+    "title": "Adding a non-WiFi Mitsubishi AC to Home Assistant",
     "source": "Adafruit",
     "date": "2026-09-28",
-    "url": "https://blog.adafruit.com/2026/09/28/playroot-is-an-open-source-game-console/",
-    "summary": "The PlayRoot project on GitHub is an open-source game console written in Rust. PlayRoot is an open game console built for a new generation of play. We believe great games can be accessible to everyone—free, without ads, in-game purchases, or barriers between players and the experiences they love. PlayRoot brings players and creators together in [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/28/adding-a-non-wifi-mitsubishi-ac-to-home-assistant/",
+    "summary": "A Medium post walks through putting a ducted Mitsubishi air conditioner on Home Assistant without Mitsubishi&#8217;s own WiFi adapter. The unit, an SEZ-M60DA2 from around 2022, is run by a wired wall thermostat with no network connection at all. The trick is the CN105 service port on the indoor unit&#8217;s control board, the same connector [&#8230;]"
   },
   {
-    "title": "Generative Algorithmic Art Matrix",
+    "title": "Why is the x86 undefined instruction called ud2?",
     "source": "Adafruit",
     "date": "2026-09-28",
-    "url": "https://blog.adafruit.com/2026/09/28/generative-algorithmic-art-matrix/",
-    "summary": "Esteffanie showing off by measuring linear motion to generate algorithmic art. &#160; As part of last year&#8217;s Hackaday Superconference, Estefannie and Bob Hickman presented a workshop called Bling It on: Programming Your Own Generative Art Matrix. In the workshop they gave participants a 64&#215;64 LED Matrix and a Matrix Portal S3 to explore generative algorithmic [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/28/why-is-the-x86-undefined-instruction-called-ud2/",
+    "summary": "Raymond Chen, writing at The Old New Thing, explains the history behind the x86 instruction ud2. It is an architecturally undefined instruction that always raises an invalid opcode exception. Compilers emit it to mark unreachable code. If a function marked [[noreturn]] somehow returns, the compiler puts a ud2 after the call so the program crashes [&#8230;]"
   },
   {
-    "title": "Digital displays in Raspberry Pi Official Magazine Issue 170",
+    "title": "A 3D renderer for ESP32 ESP-IDF and Arduino",
     "source": "Adafruit",
     "date": "2026-09-28",
-    "url": "https://blog.adafruit.com/2026/09/28/digital-displays-in-raspberry-pi-official-magazine-issue-170/",
-    "summary": "Raspberry Pi Official Magazine issue 170 is out, and the cover feature is digital displays. The magazine covers large and small screen builds and includes a tutorial for a flight tracker that pulls live data. Elsewhere in the issue, Italian engineer Andrea Favero&#8217;s ball-balancing robot uses a mirror to widen the field of view of [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/28/a-3d-renderer-for-esp32-esp-idf-and-arduino/",
+    "summary": "Eric (@0015) has published a3d on GitHub, a header-only C++17 renderer that draws animated low-poly 3D models on an ESP32 and pushes them to a panel. There is no GPU involved. Every triangle is set up, clipped, binned and filled in software by the same core running the application. A panel is five function pointers, [&#8230;]"
   },
   {
-    "title": "Amiga screens: a primer",
+    "title": "A fully open-source humanoid arm for physical AI research",
     "source": "Adafruit",
     "date": "2026-09-28",
-    "url": "https://blog.adafruit.com/2026/09/28/amiga-screens-a-primer/",
-    "summary": "A post on datagubbe.se explains what Amiga users mean when they talk about screens, aimed at people who have heard the claim and never understood it. On the Amiga, a screen is a display area drawn by the operating system, and a program can open as many of them as it wants, each with its [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/28/a-fully-open-source-humanoid-arm-for-physical-ai-research/",
+    "summary": "Enactic, Inc. has published OpenArm on GitHub, an open-source 7DOF humanoid arm built for physical AI research and for work in contact-rich environments. The design emphasizes high backdrivability and compliance, so the arm gives way when it meets a person or an obstacle, while still handling useful payloads. The proportions are human-scale. A complete bimanual [&#8230;]"
   },
   {
-    "title": "An unofficial CD drive add-on for the Nintendo NES",
+    "title": "A Daisy chain making robot",
     "source": "Adafruit",
     "date": "2026-09-28",
-    "url": "https://blog.adafruit.com/2026/09/28/an-unofficial-cd-drive-add-on-for-the-nintendo-nes/",
-    "summary": "ThroatyMumbo has published NESCD on GitHub, a homemade CD drive add-on for the Nintendo Entertainment System. The repository holds the schematics, PCB, 3D printable STLs for the shell, sticker labels and the firmware. The idea came from reading about the canceled SNES CD-ROM add-on, then taking it a step further back to the NES. An [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/28/a-daisy-chain-making-robot/",
+    "summary": "A final year engineering project at the University of Glasgow produced a robot that makes daisy chains. The work covered electrical design, mechanical engineering, and software, and it won the Institution of Engineering and Technology prize for the best manufacturing project at the university. Flexible, organic objects are hard for robots to handle. Daisies are [&#8230;]"
   },
   {
-    "title": "Fiber Optic Pixie Skirt with FLORA #AdafruitLearnSystem",
+    "title": "A handheld T-Display for P4 & ESP32-P4 SDR scanners",
     "source": "Adafruit",
     "date": "2026-09-28",
-    "url": "https://blog.adafruit.com/2026/09/28/fiber-optic-pixie-skirt-with-flora-adafruitlearnsystem/",
-    "summary": "Use super bright 3w Pixie LEDs with side glow fiber optics to create this amazing fiber optic dress. An accelerometer module lets you change modes with motion &#8212; twirl around to switch to the next color mode. Check out the full guide!"
+    "url": "https://blog.adafruit.com/2026/09/28/a-handheld-t-display-for-p4-esp32-p4-sdr-scanners/",
+    "summary": "SAMS0N1TE has published LakeShark on GitHub, a handheld SDR scanner firmware built around the LilyGO T-Display P4. The primary target has a 4.1-inch 568 x 1232 AMOLED, 16 MB flash, touch input, a detachable keyboard, GPS, an SX1262 LoRa radio and a nine-axis motion sensor. No PC is needed. Plug in an RTL-SDR Blog V3 [&#8230;]"
   },
   {
-    "title": "A 16GB iPod Nano 3G upgrade by Tucker Osman",
+    "title": "The CERN VHDL Common Library released for everyone to use",
     "source": "Adafruit",
     "date": "2026-09-28",
-    "url": "https://blog.adafruit.com/2026/09/28/a-16gb-ipod-nano-3g-upgrade-by-tucker-osman/",
-    "summary": "A project write-up on tuckerosman.com documents a six year effort to put a 16GB NAND chip into an iPod Nano 3rd Generation. The Nano 3G was picked because it is the newest Nano whose NAND chip has legs instead of a BGA package. Desoldering the stock chip and fitting a larger one got a Red [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/28/the-cern-vhdl-common-library-released-for-everyone-to-use/",
+    "summary": "CERN&#8217;s EP department has released colibri, a VHDL common library, to the wider FPGA community. Work started four years ago, when CERN gateware designers were mostly using homebrew tools across FPGAs from several vendors. The library is licensed under the CERN Open Hardware Licence, Weakly Reciprocal 2.0. colibri holds more than 100 RTL components written [&#8230;]"
   },
   {
-    "title": "Boards of Casio",
+    "title": "Functional Raspberry Pi Payphone",
     "source": "Adafruit",
     "date": "2026-09-28",
-    "url": "https://blog.adafruit.com/2026/09/28/boards-of-casio/",
-    "summary": "The developer behind CZP-1, a web based recreation of the Casio CZ-101, came across a YouTube video by oliveoil22 and wanted those sounds in the browser synth. oliveoil22 had shared the CZ-101 patch data, so the next step was getting it loaded. The patch files came from a Google Drive link on the video page [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/09/28/functional-raspberry-pi-payphone/",
+    "summary": "Reddit user jareza shares how they made a working payphone using a Pi Zero. I just wanted to show off my latest backyard addition to people who will really appreciate it: a fully functional payphone! I&#8217;ve wanted a payphone for ages, but the ones I found for sale were either too expensive (now I know [&#8230;]"
+  },
+  {
+    "title": "ProLabs to Showcase Transceiver Solutions  That Reduce Deployment Costs at SCTE TechExpo 2026",
+    "source": "EE Journal",
+    "date": "2026-09-28",
+    "url": "https://www.eejournal.com/industry_news/prolabs-to-showcase-transceiver-solutions-that-reduce-deployment-costs-at-scte-techexpo-2026/",
+    "summary": "ProLabs, a global provider of optical connectivity solutions, today announced it will showcase its latest transceiver innovations at SCTE TechExpo 2026, highlighting new technology designed to help cable and network operators expand bandwidth, reduce deployment costs, and simplify infrastructure upgrades &#8211; all while leveraging their existing fiber networks. At the show, ProLabs will feature three &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/prolabs-to-showcase-transceiver-solutions-that-reduce-deployment-costs-at-scte-techexpo-2026/\">Read More &#8594;<span class=\"screen-reader-text\"> \"ProLabs to Showcase Transceiver Solutions  That Reduce Deployment Costs at SCTE TechExpo 2026\"</span></a>"
+  },
+  {
+    "title": "Keysight Enables UC Berkeley Research to Advance 6G Over-the-Air Testing",
+    "source": "EE Journal",
+    "date": "2026-09-28",
+    "url": "https://www.eejournal.com/industry_news/keysight-enables-uc-berkeley-research-to-advance-6g-over-the-air-testing/",
+    "summary": "Keysight Technologies, Inc. (NYSE: KEYS) today announced a new collaboration supporting research at the Berkeley Wireless Research Center (BWRC) that aims to accelerate and improve testing of next-generation wireless devices. Led by Professor Aditya Muppala at the University of California, Berkeley, the research explores a new approach to over-the-air (OTA) testing designed to help engineers &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/keysight-enables-uc-berkeley-research-to-advance-6g-over-the-air-testing/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Keysight Enables UC Berkeley Research to Advance 6G Over-the-Air Testing\"</span></a>"
+  },
+  {
+    "title": "Advanced Energy Launches Ultra-Ruggedized 160 W AC-DC Power Supply for Extreme Environments",
+    "source": "EE Journal",
+    "date": "2026-09-28",
+    "url": "https://www.eejournal.com/industry_news/advanced-energy-launches-ultra-ruggedized-160-w-ac-dc-power-supply-for-extreme-environments/",
+    "summary": "Advanced Energy Industries Inc. (Nasdaq: AEIS), a global leader in highly engineered, precision power conversion, measurement and control solutions, today launches the ruggedized DF150 160 W AC-DC power supply. This is the first offering in the company’s Defiant Future (DF) series of robust, high-reliability standard power supplies for extreme-environment applications across the defense, industrial, telecommunications, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/advanced-energy-launches-ultra-ruggedized-160-w-ac-dc-power-supply-for-extreme-environments/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Advanced Energy Launches Ultra-Ruggedized 160 W AC-DC Power Supply for Extreme Environments\"</span></a>"
+  },
+  {
+    "title": "Fujitsu launches comprehensive security service for active cyber defense across enterprises and organizations",
+    "source": "EE Journal",
+    "date": "2026-09-28",
+    "url": "https://www.eejournal.com/industry_news/fujitsu-launches-comprehensive-security-service-for-active-cyber-defense-across-enterprises-and-organizations/",
+    "summary": "Fujitsu Limited today announced the launch of a new security service, effective September 25, 2026, that comprehensively supports customers from identifying signs of cyberattacks to investigation and response. Leveraging Fujitsu&#8217;s expertise in cybersecurity, this service combines dark web monitoring, attack surface management[1], and threat hunting[2] to proactively identify potential cyber risks in customer environments and &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/fujitsu-launches-comprehensive-security-service-for-active-cyber-defense-across-enterprises-and-organizations/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Fujitsu launches comprehensive security service for active cyber defense across enterprises and organizations\"</span></a>"
   },
   {
     "title": "LILYGO T-Dongle-C5 – An ESP32-C5 USB dongle with microSD card slot, optional 0.96-inch OLED",
@@ -348,34 +376,6 @@
     "date": "2026-09-24",
     "url": "https://www.eejournal.com/industry_news/trilogic-systems-partners-with-tekdense-expanding-its-north-american-presence-in-high-performance-rugged-computing-for-aerospace-and-defense-markets/",
     "summary": "Trilogic Systems, a leading provider of embedded computing products and services for military, industrial control, and communications, today announced a partnership with Tekdense that will broaden that company’s North American presence in small form-factor modular computing systems based on open standards. “Demand for SWAP-constrained, rugged solutions for mission-critical applications is surging in North American aerospace &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/trilogic-systems-partners-with-tekdense-expanding-its-north-american-presence-in-high-performance-rugged-computing-for-aerospace-and-defense-markets/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Trilogic Systems Partners with Tekdense, Expanding Its North American Presence in High-Performance Rugged Computing for Aerospace and Defense Markets\"</span></a>"
-  },
-  {
-    "title": "Heilind Electronics Now Stocking 3M™ Shrunk Delta Ribbon and Mini Delta Ribbon Connectors, Series 121 and 123",
-    "source": "EE Journal",
-    "date": "2026-09-24",
-    "url": "https://www.eejournal.com/industry_news/heilind-electronics-now-stocking-3m-shrunk-delta-ribbon-and-mini-delta-ribbon-connectors-series-121-and-123/",
-    "summary": "Heilind Electronics, a leading global distributor of interconnect, electromechanical, and sensor solutions, announced today that it is now stocking the 3M™ Shrunk Delta Ribbon (SDR) Plug Connector 121 Series and the 3M™ Shrunk Delta Ribbon (SDR) Plug Connector Shells 123 Series. The addition strengthens Heilind&#8217;s growing portfolio of 3M interconnect solutions and gives design engineers &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/heilind-electronics-now-stocking-3m-shrunk-delta-ribbon-and-mini-delta-ribbon-connectors-series-121-and-123/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Heilind Electronics Now Stocking 3M™ Shrunk Delta Ribbon and Mini Delta Ribbon Connectors, Series 121 and 123\"</span></a>"
-  },
-  {
-    "title": "Synopsys and TSMC Partner to Accelerate AI Systems Innovation with Agentic AI and Advanced Design",
-    "source": "EE Journal",
-    "date": "2026-09-24",
-    "url": "https://www.eejournal.com/industry_news/synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design/",
-    "summary": "Certified EDA flows on TSMC A14 accelerate design readiness for next-generation AI and HPC applications Collaboration on agentic AI workflows accelerates automation and improves productivity for complex analog, digital, and multi-die designs Continued enablement for IVR multi-die designs on TSMC CoWoS® technology addresses power integrity and thermal requirements for AI systems Continued joint enablement for &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Synopsys and TSMC Partner to Accelerate AI Systems Innovation with Agentic AI and Advanced Design\"</span></a>"
-  },
-  {
-    "title": "Solid Sands advances C23 and C++23 compiler verification with SuperTest Van Gogh 6.0",
-    "source": "EE Journal",
-    "date": "2026-09-24",
-    "url": "https://www.eejournal.com/industry_news/solid-sands-advances-c23-and-c23-compiler-verification-with-supertest-van-gogh-6-0/",
-    "summary": "Solid Sands B.V., the world-leading provider of testing and qualification technology for compilers and libraries, has launched SuperTest Van Gogh 6.0, a major update to its SuperTest Compiler Test and Validation Suite, adding more than 1,900 handcrafted tests and significantly extending support for the latest C and C++ language standards. SuperTest Van Gogh 6.0 completes &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/solid-sands-advances-c23-and-c23-compiler-verification-with-supertest-van-gogh-6-0/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Solid Sands advances C23 and C++23 compiler verification with SuperTest Van Gogh 6.0\"</span></a>"
-  },
-  {
-    "title": "Move Over, HAL. New AI Thinks Like a Chip Designer",
-    "source": "EE Journal",
-    "date": "2026-09-24",
-    "url": "https://www.eejournal.com/article/move-over-hal-new-ai-thinks-like-a-chip-designer/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/max-0521-image-for-home-page-cognichip-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />It just struck me that—although we don’t yet have things like Jetson-style flying cars—some of the technologies we do have go way beyond what was considered to be in the realm of science fiction when I was a young sprout. Actually, as an aside, just thinking about The Jetsons made me glance up at the &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/move-over-hal-new-ai-thinks-like-a-chip-designer/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Move Over, HAL. New AI Thinks Like a Chip Designer\"</span></a>"
   },
   {
     "title": "MediaTek Dimensity CX C10 Max octa-core Cortex-X925/X4/A720 SoC targets Googlebooks",
