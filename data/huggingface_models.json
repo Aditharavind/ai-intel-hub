@@ -1,5 +1,149 @@
 [
   {
+    "model": "LIU79/robotwin-failure-aware-dp-final-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/LIU79/robotwin-failure-aware-dp-final-checkpoints",
+    "date": "2026-09-28",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "robotfuel/act_so101_t16b_t16",
+    "downloads": 3,
+    "likes": 1,
+    "url": "https://huggingface.co/robotfuel/act_so101_t16b_t16",
+    "date": "2026-09-28",
+    "keyword": "robot",
+    "score": 1.2
+  },
+  {
+    "model": "robotfuel/act_so101_t16b_u16",
+    "downloads": 5,
+    "likes": 0,
+    "url": "https://huggingface.co/robotfuel/act_so101_t16b_u16",
+    "date": "2026-09-28",
+    "keyword": "robot",
+    "score": 1.6
+  },
+  {
+    "model": "robotfuel/act_so101_t16b",
+    "downloads": 5,
+    "likes": 1,
+    "url": "https://huggingface.co/robotfuel/act_so101_t16b",
+    "date": "2026-09-28",
+    "keyword": "robot",
+    "score": 1.8
+  },
+  {
+    "model": "karankumarova/robotics-vision-language-small",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/karankumarova/robotics-vision-language-small",
+    "date": "2026-09-28",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "morealcholplz/ttt-vla-robomme-batch16-benchmark",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/morealcholplz/ttt-vla-robomme-batch16-benchmark",
+    "date": "2026-09-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "morealcholplz/ttt-vla-robomme-batch4-benchmark",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/morealcholplz/ttt-vla-robomme-batch4-benchmark",
+    "date": "2026-09-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "morealcholplz/ttt-vla-robomme-seqloader-preflight-r2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/morealcholplz/ttt-vla-robomme-seqloader-preflight-r2",
+    "date": "2026-09-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "morealcholplz/ttt-vla-robomme-persistent-nmt-t4-optimized-r2-step13000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/morealcholplz/ttt-vla-robomme-persistent-nmt-t4-optimized-r2-step13000",
+    "date": "2026-09-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "yrrats/ttt-vla-robomme-persistent-nmt-t4-optimized-r2-step13000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yrrats/ttt-vla-robomme-persistent-nmt-t4-optimized-r2-step13000",
+    "date": "2026-09-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Dongkkka/Task_000004_Peanut_Pick_Place_lerobot_Intern_VLA-JEPA-CurrentState-QwenTrain-WMOn_bs16_step40000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Dongkkka/Task_000004_Peanut_Pick_Place_lerobot_Intern_VLA-JEPA-CurrentState-QwenTrain-WMOn_bs16_step40000",
+    "date": "2026-09-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "kiteml/dual-openyam-close-box-vla_jepa",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kiteml/dual-openyam-close-box-vla_jepa",
+    "date": "2026-09-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "lucyjohnson/embodied-ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/lucyjohnson/embodied-ai",
+    "date": "2026-09-28",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "nankaigenomics/project-embodied-ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/nankaigenomics/project-embodied-ai",
+    "date": "2026-09-28",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "ALYSSALAL02/embodied-ai-finetune",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ALYSSALAL02/embodied-ai-finetune",
+    "date": "2026-09-28",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "AustinGomez/nlp-embodied-ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/AustinGomez/nlp-embodied-ai",
+    "date": "2026-09-28",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
     "model": "puppet-robotics/checkpoint_test",
     "downloads": 0,
     "likes": 0,
@@ -67,42 +211,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/weepiess2383/vla-ckpt-05",
-    "date": "2026-09-27",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "weepiess2383/vla-ckpt-03",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/weepiess2383/vla-ckpt-03",
-    "date": "2026-09-27",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "weepiess2383/vla-ckpt-04",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/weepiess2383/vla-ckpt-04",
-    "date": "2026-09-27",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "motonovix/vladrop-drop9-pruned",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/motonovix/vladrop-drop9-pruned",
-    "date": "2026-09-27",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-action-expert-only-40k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-action-expert-only-40k",
     "date": "2026-09-27",
     "keyword": "vla",
     "score": 0.1
@@ -279,13 +387,31 @@
     "score": 3.7
   },
   {
-    "model": "miracle-techlink/lingbot-vla-v2-6b-lerobot-robotwin",
-    "downloads": 47,
+    "model": "Ldnmoore9114/cs231n-embodied-ai",
+    "downloads": 10,
     "likes": 0,
-    "url": "https://huggingface.co/miracle-techlink/lingbot-vla-v2-6b-lerobot-robotwin",
+    "url": "https://huggingface.co/Ldnmoore9114/cs231n-embodied-ai",
     "date": "2026-09-26",
-    "keyword": "robot",
-    "score": 14.2
+    "keyword": "embodied",
+    "score": 3.1
+  },
+  {
+    "model": "walkertyler96/study-embodied-ai",
+    "downloads": 10,
+    "likes": 0,
+    "url": "https://huggingface.co/walkertyler96/study-embodied-ai",
+    "date": "2026-09-26",
+    "keyword": "embodied",
+    "score": 3.1
+  },
+  {
+    "model": "arshjeevs/act_test_pickup_policy",
+    "downloads": 25,
+    "likes": 0,
+    "url": "https://huggingface.co/arshjeevs/act_test_pickup_policy",
+    "date": "2026-09-26",
+    "keyword": "policy",
+    "score": 7.6
   },
   {
     "model": "D-Robotics/Uranus-1.3B-Distillation",
@@ -324,60 +450,6 @@
     "score": 4.6
   },
   {
-    "model": "vladasdasdas/huihuiai",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladasdasdas/huihuiai",
-    "date": "2026-09-26",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-40k",
-    "downloads": 7,
-    "likes": 0,
-    "url": "https://huggingface.co/tsangb34/molmoact2-so101-stack-white_bowls-100episodes-vlareplica-40k",
-    "date": "2026-09-26",
-    "keyword": "vla",
-    "score": 2.2
-  },
-  {
-    "model": "davidwdw/fa-vla-sft-source-snapshot-20260925-14a0403bba01",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/davidwdw/fa-vla-sft-source-snapshot-20260925-14a0403bba01",
-    "date": "2026-09-26",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Ldnmoore9114/cs231n-embodied-ai",
-    "downloads": 10,
-    "likes": 0,
-    "url": "https://huggingface.co/Ldnmoore9114/cs231n-embodied-ai",
-    "date": "2026-09-26",
-    "keyword": "embodied",
-    "score": 3.1
-  },
-  {
-    "model": "walkertyler96/study-embodied-ai",
-    "downloads": 10,
-    "likes": 0,
-    "url": "https://huggingface.co/walkertyler96/study-embodied-ai",
-    "date": "2026-09-26",
-    "keyword": "embodied",
-    "score": 3.1
-  },
-  {
-    "model": "arshjeevs/act_test_pickup_policy",
-    "downloads": 25,
-    "likes": 0,
-    "url": "https://huggingface.co/arshjeevs/act_test_pickup_policy",
-    "date": "2026-09-26",
-    "keyword": "policy",
-    "score": 7.6
-  },
-  {
     "model": "KosmoCHE/worldmodel-audit-release",
     "downloads": 0,
     "likes": 0,
@@ -403,15 +475,6 @@
     "date": "2026-09-25",
     "keyword": "robotics",
     "score": 5.5
-  },
-  {
-    "model": "hvsr-robotics/Matcha-TTS-PL",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hvsr-robotics/Matcha-TTS-PL",
-    "date": "2026-09-25",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "davidwdw/fa-5080-embodiedclaw-v2-run-250ac88143ab",
@@ -441,15 +504,6 @@
     "score": 2.5
   },
   {
-    "model": "jamesjoh/embodied-ai-notebook92",
-    "downloads": 11,
-    "likes": 0,
-    "url": "https://huggingface.co/jamesjoh/embodied-ai-notebook92",
-    "date": "2026-09-24",
-    "keyword": "embodied",
-    "score": 3.4
-  },
-  {
     "model": "saidaliu27/nano-world-model-c3-rt1-bridge-seed0",
     "downloads": 0,
     "likes": 0,
@@ -457,15 +511,6 @@
     "date": "2026-09-23",
     "keyword": "world model",
     "score": 0.1
-  },
-  {
-    "model": "pranavgup/embodied-ai-notes44",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/pranavgup/embodied-ai-notes44",
-    "date": "2026-09-23",
-    "keyword": "embodied",
-    "score": 5.2
   },
   {
     "model": "jadidbourbaki/shared-cache-world-model",
@@ -502,24 +547,6 @@
     "date": "2026-09-22",
     "keyword": "world model",
     "score": 8.8
-  },
-  {
-    "model": "mikhailpqb/paper-embodied-ai",
-    "downloads": 14,
-    "likes": 0,
-    "url": "https://huggingface.co/mikhailpqb/paper-embodied-ai",
-    "date": "2026-09-22",
-    "keyword": "embodied",
-    "score": 4.3
-  },
-  {
-    "model": "EmbodiedCity/SAWMAN",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/EmbodiedCity/SAWMAN",
-    "date": "2026-09-22",
-    "keyword": "embodied",
-    "score": 0.1
   },
   {
     "model": "qlearningwithworldmodels/anonymous-pixel-world-models",
