@@ -4,9 +4,45 @@
     "downloads": 0,
     "likes": 1,
     "url": "https://huggingface.co/zmf2023/robotwin2",
-    "date": "2026-09-28",
+    "date": "2026-09-29",
     "keyword": "robot",
     "score": 0.3
+  },
+  {
+    "model": "Najongs/vla-recipe-ckpts",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
+    "date": "2026-09-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "JMG-NTU123/lingbot-vla-v2-6b-lora-r16-fp32-v1.1-s7-step10000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/JMG-NTU123/lingbot-vla-v2-6b-lora-r16-fp32-v1.1-s7-step10000",
+    "date": "2026-09-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "JMG-NTU123/lingbot-vla-v2-6b-lora-r8-fp32-v1.1-s7-step10000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/JMG-NTU123/lingbot-vla-v2-6b-lora-r8-fp32-v1.1-s7-step10000",
+    "date": "2026-09-29",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot",
+    "downloads": 247,
+    "likes": 0,
+    "url": "https://huggingface.co/Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot",
+    "date": "2026-09-29",
+    "keyword": "policy",
+    "score": 74.2
   },
   {
     "model": "pollen-robotics/microduck-hill-climb-1m5-reference",
@@ -90,15 +126,6 @@
     "score": 2.8
   },
   {
-    "model": "Najongs/vla-recipe-ckpts",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
-    "date": "2026-09-28",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "tsangb34/lingbot-vla-v2-6b-so101-black-screwdriver-box-to-table-10ep",
     "downloads": 0,
     "likes": 0,
@@ -175,24 +202,6 @@
     "downloads": 14,
     "likes": 0,
     "url": "https://huggingface.co/morealcholplz/ttt-vla-robomme-seqloader-preflight-r2",
-    "date": "2026-09-28",
-    "keyword": "vla",
-    "score": 4.3
-  },
-  {
-    "model": "morealcholplz/ttt-vla-robomme-persistent-nmt-t4-optimized-r2-step13000",
-    "downloads": 8,
-    "likes": 0,
-    "url": "https://huggingface.co/morealcholplz/ttt-vla-robomme-persistent-nmt-t4-optimized-r2-step13000",
-    "date": "2026-09-28",
-    "keyword": "vla",
-    "score": 2.5
-  },
-  {
-    "model": "Dongkkka/Task_000004_Peanut_Pick_Place_lerobot_Intern_VLA-JEPA-CurrentState-QwenTrain-WMOn_bs16_step40000",
-    "downloads": 14,
-    "likes": 0,
-    "url": "https://huggingface.co/Dongkkka/Task_000004_Peanut_Pick_Place_lerobot_Intern_VLA-JEPA-CurrentState-QwenTrain-WMOn_bs16_step40000",
     "date": "2026-09-28",
     "keyword": "vla",
     "score": 4.3
@@ -376,15 +385,6 @@
     "date": "2026-09-27",
     "keyword": "policy",
     "score": 4.0
-  },
-  {
-    "model": "Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot",
-    "downloads": 247,
-    "likes": 0,
-    "url": "https://huggingface.co/Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot",
-    "date": "2026-09-27",
-    "keyword": "policy",
-    "score": 74.2
   },
   {
     "model": "Chaenn/act_policy_so101_multitask_oldsim_pick_place_stack_onehot",
